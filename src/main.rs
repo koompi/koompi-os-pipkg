@@ -1,4 +1,10 @@
-#![allow(non_snake_case, unused_imports, unused_assignments, unused_variables)]
+#![allow(
+    non_snake_case,
+    unused_imports,
+    unused_assignments,
+    unused_variables,
+    dead_code
+)]
 
 mod interfaces;
 mod schemas;
@@ -6,22 +12,50 @@ mod schemas;
 use rayon::prelude::*;
 use schemas::desc_file::DescFile;
 use std::{
-    fs, thread,
+    fs,
+    io::{stderr, Write},
+    process::Command,
+    thread,
     time::{Duration, Instant},
 };
 
 fn main() {
-    build_json_files(false);
+    let start = Instant::now();
+    let mut db_files: Vec<String> = Vec::new();
+    let paths = fs::read_dir("/var/lib/pacman/sync/").unwrap();
+    for path in paths {
+        let file_path = format!("{}", path.unwrap().path().display());
+        db_files.push(file_path);
+    }
+
+    db_files.par_iter().for_each(|f| extractor(f, "work"));
+
+    build_json_files(true, "work");
+
+    let duration = start.elapsed();
+
+    println!("Time elapsed in expensive_function() is: {:?}", duration);
 }
 
-fn build_json_files(conc: bool) {
+fn extractor(data_path: &str, output_dir: &str) {
+    println!("Extracting: {}", &data_path);
+    let unzip = Command::new("tar")
+        .arg("-xvf")
+        .arg(data_path)
+        .arg("-C")
+        .arg(output_dir)
+        .output()
+        .expect("failed to execute process");
+    stderr().write_all(&unzip.stderr).unwrap_or(());
+}
+
+fn build_json_files(threaded: bool, data_path: &str) {
     /*
      * Generate json description file
      */
-    let start = Instant::now();
-    let paths = fs::read_dir("/home/brilliant/Documents/test/pacman/sync/").unwrap();
+    let paths = fs::read_dir(data_path).unwrap();
 
-    match conc {
+    match threaded {
         true => {
             /*
              * Concurrent
@@ -48,8 +82,4 @@ fn build_json_files(conc: bool) {
             }
         }
     }
-
-    let duration = start.elapsed();
-
-    println!("Time elapsed in expensive_function() is: {:?}", duration);
 }
