@@ -1,0 +1,23 @@
+{
+  "FILENAME": "firefox-i18n-hu-78.0.2-1-any.pkg.tar.zst",
+  "NAME": "firefox-i18n-hu",
+  "BASE": "firefox-i18n",
+  "VERSION": "78.0.2-1",
+  "DESC": "Hungarian language pack for Firefox",
+  "CSIZE": "526393",
+  "ISIZE": "588748",
+  "MD5SUM": "ca6b63d302059bb37b0cc13b81ebb990",
+  "SHA256SUM": "fb481e93088e406753f0e0d33ab72feaa0c517634b6e07a8346ffc0bdb269baf",
+  "PGPSIG": "iIsEABYIADMWIQQGaHodnU+rCLUP2Ss7lKgOUKR3xwUCXwelpRUcaGVmdGlnQGFyY2hsaW51eC5vcmcACgkQO5SoDlCkd8dTQgD/b1Gdg0K2dDB9Djr/bLvUt1t2ayV51KOW+xBFFydoXU0BAPdLtn6bC3mn7Yrmtvere984QM272R+OXguB8NdbBFYN",
+  "URL": "https://www.mozilla.org/firefox/",
+  "LICENSE": "MPL",
+  "ARCH": "any",
+  "BUILDDATE": "1594311501",
+  "PACKAGER": "Jan Alexander Steffens (heftig) <heftig@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "firefox>=78.0.2"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "FILENAME": "soapynetsdr-0.2.0-1-x86_64.pkg.tar.zst",
+  "NAME": "soapynetsdr",
+  "BASE": "soapynetsdr",
+  "VERSION": "0.2.0-1",
+  "DESC": "Soapy SDR plugin for the NetSDR protocol",
+  "CSIZE": "30436",
+  "ISIZE": "83744",
+  "MD5SUM": "e07b89b69f839070852b62b8e9b2a046",
+  "SHA256SUM": "30aba141dd095daaa682791050ded0357af2f4094c60a1166ec2ed9703bb960d",
+  "PGPSIG": "iQIzBAABCAAdFiEE0jW0leqs33gyftiw+JPGdIFqqV0FAl6KNdoACgkQ+JPGdIFqqV1TSg/9Gdxsi8L7NBJtt2/GFAiq8Ox9DW0DHfTm++TG6OQlwA1cMdwb7u5fyy4iH1HxMDDIVE5Oc9z/r3cldZn4ell9YiH66O831Yu1Uw4I6ucrxv53en4bAM350A/jZclHqKMCBEVkZp/utnlY7bPze2L35hs5+R7hAes7cBnYV4JiWnxQQx1HBI3lF5I2LUxGq2d339t3+ME6C9vz1F+esddcf0Xeprx0XxEwiNZNMnKwzj6U3KzfOuPjKCmAAQ7obbgtmO1yUD3yFSCfKrIVLmVcZ9p7TnwGCZVc3AXcNA6jrbXrO/JdCFnT5sSHLqg4mwY6cCQKE7gyKW0t7eM4q+XEDNSbvZQ2Ffe+bxYdGhGcrHmMT6I93qZZmthfoPzLMx+BjUzfSywI3kFqilOCZhsM+w8G93bSTH+yrPEp2DpczCgOn2JZZOpL8EFlrL5zRADPUii+iGmL6Uk3hDIQYk95/wky5XcRvjRt6/gcdvQy25Yjqg8jjwiaBPDpnyuRR1BDELQO+0z8L3/VYrAoZsfO++L+YKvKtPLNh3tFH4O4yVqIueTE/Fs7hA9y/05tgBeCV0bHu8nryeHkLBVuquL4ZQlFZJMMNSHmeQPG8YKBwwj/NgHNKcR5EeEBP8QXBIpdnteWxyZdjAC+5CXwuX3pNV7Tqq4s84d8KBzdTHCzB2U=",
+  "URL": "https://github.com/pothosware/SoapyNetSDR",
+  "LICENSE": "GPL3",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1586113834",
+  "PACKAGER": "Filipe Laíns <lains@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "soapysdr"
+  ]
+}

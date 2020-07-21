@@ -1,0 +1,24 @@
+{
+  "FILENAME": "python2-bcrypt-3.1.7-3-x86_64.pkg.tar.xz",
+  "NAME": "python2-bcrypt",
+  "BASE": "python-bcrypt",
+  "VERSION": "3.1.7-3",
+  "DESC": "Modern password hashing for your software and your servers",
+  "CSIZE": "30720",
+  "ISIZE": "74978",
+  "MD5SUM": "335fef029feaaa04ac2284b1df013d20",
+  "SHA256SUM": "1140b1d55d5c288d2d4dababd7acdd692e0c2187ef4403fbd217b23e4740a225",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl2+A14ACgkQeGxj8zDXy5IpzhAAs/mjrfb3H8lNMJvjTpMkW57E9omgw6uAmfoQ/NcaFprhIZDdZI/prOgxEl81L6RqyCwUb3KupPqFLUXc+6gAYOlnyPKilBZdEJfGbTpxJ/et1c5+bUBSolQc48B9Hmm2gKL7VGR2tmSVya1zzZq4cHtcuOnjhegqFWkQTkWM3uRKulwSHl1kPJy7HiN89WZAgIPLqH+POP6gScyhSBFUsfjev5BGFHcf7FCCGYdDv+9oVYSVuDY1XBpU4+9LWA9juqWgfZIf1D3/HWooBFpCS+TsyfvMEdG0DglkEPi/UQDBo428BMGjUnmdoXXTXH3U9cPdJNh5r28gl4fcG0kr3ubc5S0QpQ33ISvVh4qet4j0l3pwyX+ZQ48gZcJ9Xu4EsrMJkFHxfBCF6pOePTz2sgbG7KtcZOyQt+5TVjrT5vEi+pjumFZJPFP9+YC8Ffrqc5eXAjoGHXZrK9GhmrOdo+JYPuffqz3Dp72ICrj0SnC5+GomtzD58GOXFk3rrGgLQZiEsOEWeuMrFperaDIookSgTXRyP1jv0azSS8Mn10ILuw1/4BQaXDvev7bHedkiwxHiP6DikshhXyi5d/Jg2+CVswXDZxik89UwDtNEmxbsIXboDQwK7G52rlMCaPXsKStkPPgSuwSlbuPBvUkNCGuTtd8HIkf/9Umxff6aWr8=",
+  "URL": "https://github.com/pyca/bcrypt",
+  "LICENSE": "Apache",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1572733733",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "python2-cffi",
+    "python2-six"
+  ]
+}

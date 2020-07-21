@@ -1,0 +1,24 @@
+{
+  "FILENAME": "ts-node-8.10.2-1-any.pkg.tar.zst",
+  "NAME": "ts-node",
+  "BASE": "ts-node",
+  "VERSION": "8.10.2-1",
+  "DESC": "TypeScript execution and REPL for node.js, with source map support",
+  "CSIZE": "271327",
+  "ISIZE": "1573869",
+  "MD5SUM": "ab70777b6c939309aee108cd370ff06b",
+  "SHA256SUM": "ec1705693db7d8ebe45257f43b07b078d33d2adfddf3c6cf902e69cd5119c14d",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl7QeXsACgkQeGxj8zDXy5I2pQ//WJQjHLbXuySpLjMDJWbb93f2cwazvQiLyAZbrgx2p+lbCWt2As+RPFw4wQ7YuhqpLxLv8VcbzotXEEMgYzlrhg1JXKycaF4L6E42amsorBmmrkyw/EFwnFlZRS/iKCOj2bY2jMlSTcjptPVHe92Lvng80cFCI7l8DqgAM2z2czXf8nDvc3I03aZ7HR0wbuFp4licNacPnJ76coeK2ZVZ0CpCstq3y0DOoD2zjzuPUjCJbV82YTV5JFgw9T1k12u9MYR9l06l/wEAgTKWEztbo53iJhDXqDkZYsgu22okgcg39m4M8w5J0OR9XN4CqSZrng/gtuqD6ZGFWgOgGz21LkuGhxElzogn+kqHIRGbFbxgxIce5DhrJPKp2wx19beoQIdYdeubx0laj7QW30FQ7OfLiceWEVwhqrrohxLGXWwn0B/elEHP24wJsLyIQKj+cl9mefCwrqL5TD+iX1vmdhoy6bkIxTTF7IKONn5ii57NPyYgX8Yi5Ckr9nt3wR4+yQK8/IHjC3G1XjWFJh//2b3FS2OHoJ1X/5dgfvQY5h+GivbwfupgY0bObxqEocaHqBiIeFuiSXWQraVhRngo7qE61eAp0hpxdXQV6g/y49H7vERw+nA3R+DOnfKi95R7RcpL8xFhXsnV4tMIoQAk5Ho/jMHiN99iJGWf133t/Lw=",
+  "URL": "https://github.com/TypeStrong/ts-node",
+  "LICENSE": "MIT",
+  "ARCH": "any",
+  "BUILDDATE": "1590720785",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "nodejs",
+    "typescript"
+  ]
+}

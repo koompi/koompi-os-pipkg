@@ -1,0 +1,28 @@
+{
+  "FILENAME": "haskell-monad-par-0.3.5-26-x86_64.pkg.tar.zst",
+  "NAME": "haskell-monad-par",
+  "BASE": "haskell-monad-par",
+  "VERSION": "0.3.5-26",
+  "DESC": "A library for parallel programming based on a monad",
+  "CSIZE": "79397",
+  "ISIZE": "361835",
+  "MD5SUM": "11497a000d4b75dd09ab2d0fc27f9b07",
+  "SHA256SUM": "e46ac7557d72016a217aba20075ec4d26d3f60b82f88f3d21fc59827546f6994",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl75DmkACgkQeGxj8zDXy5KKSQ/+OQl5gtBNhsXu2O0xqaXV9QO/8NruqvahjvBKW4TvoefPCpJ8RqRw+eO1oFmfVnLEr8R62KhO6Li2aM+HmrHWFHuebEXtg/u745PLN6Dva+He79ftY+7q3gwl9m9jhG1JehOBv1a3upfTqLLMwRSC++yp/9LY08lOpIZGLsBnE7GEKscxuqqoU5LxzKlYpZfTFxzSDpqdDjamT22YaCifMJ71knvu5FZSKH3S0OZUXYdT3ZH5mdmhuY7MmN0suJucgUAsmVsxmFBwqxONFfjPfE/hm+QTJo1p3W9BVRhztksRdxJNKqWnq630jcqfD2V599FaO6fJuhnbmatXdHdsjWxi9YCHLJKvWKp3Wqnx/+tAxAYf8dOIY9KYde9Jn4TLBoj4GDbXjIA+h7I8QocPtVsyVy5CcD4IcEmTxbxx1rBSTsJIlz93w4XvGDAowTOn7M6omhmWuaUtcv+szlHt3T7pGjLHFgexsyajOvcxiSTyt136+NGKjf2YLfXgWdLeXjb1Bh81LVt8JqEaMnjIC/V6BFTZNfihFKt/6I9ro7fFFFMSZUOk2glldbj2ea0FXZl51KVxDWrFCxAU/Q3dRIGhg8vr7aovZHNd8HPhEB5XFPFxb6Uecc0N+E3p803QJ2HRR24HzDAjueEfE9o0g9wTCJmpo28tbiSrVKSuSAU=",
+  "URL": "https://github.com/simonmar/monad-par",
+  "LICENSE": "BSD",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1593380432",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "ghc-libs",
+    "haskell-abstract-deque",
+    "haskell-abstract-par",
+    "haskell-monad-par-extras",
+    "haskell-mwc-random",
+    "haskell-parallel"
+  ]
+}

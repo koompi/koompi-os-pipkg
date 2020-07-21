@@ -1,0 +1,23 @@
+{
+  "FILENAME": "eric-i18n-es-20.6-1-any.pkg.tar.zst",
+  "NAME": "eric-i18n-es",
+  "BASE": "eric-i18n",
+  "VERSION": "20.6-1",
+  "DESC": "es language pack for Eric IDE",
+  "CSIZE": "426781",
+  "ISIZE": "2641950",
+  "MD5SUM": "50e41c3be99d43089b2434f8313e9690",
+  "SHA256SUM": "62b12772b5fe5b5e07565d134841568aa50759a85c22487ad1c7b5429523878e",
+  "PGPSIG": "iQEzBAABCAAdFiEEFRnVq6Zb9vwrc8dWek52CV2KUuQFAl789zgACgkQek52CV2KUuRBaQf/ZGI7LvgEFo5sAt4j7bj5HpZUmTKdQZLeXWn1VtyhSjiXrFb0BvUVyCoqPPVlKLiCb3B2DRIvcXiYexhghQh3wLuyCFu2gfGKzuovkQvaLBsWY6N1XUM08dMlZDuI7PJzuRoV6URwKa1qCYQiwgrflhuHGSisjfcPRm96455iLFAlS3trV3cpVpCxg3Kqw1S6E4LxPuJAslOTjFj/Osa4sC6/YUHEktgIUEYB9sQeOuXDUaJCiyhXxOdoFq2rhE+NFRloHTBhoeMfRnq2JNQ5gO5EW0BMvFAPp2T46VAGhtjLmAx50lql6uf8foY05CxcOMo6r16uNFVsmIq6v6l1Bg==",
+  "URL": "http://eric-ide.python-projects.org/index.html",
+  "LICENSE": "GPL3",
+  "ARCH": "any",
+  "BUILDDATE": "1593636596",
+  "PACKAGER": "Antonio Rojas <arojas@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "eric>=20.6"
+  ]
+}

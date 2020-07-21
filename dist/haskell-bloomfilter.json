@@ -1,0 +1,23 @@
+{
+  "FILENAME": "haskell-bloomfilter-2.0.1.0-18-x86_64.pkg.tar.zst",
+  "NAME": "haskell-bloomfilter",
+  "BASE": "haskell-bloomfilter",
+  "VERSION": "2.0.1.0-18",
+  "DESC": "Pure and impure Bloom Filter implementations",
+  "CSIZE": "72439",
+  "ISIZE": "348788",
+  "MD5SUM": "03340be74f931a1ca0baa99148aafa81",
+  "SHA256SUM": "8d9364a5d2f9ff805736f3ec1068d7fcd4f3116b59c88d156181d855e56b443f",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl6hbd0ACgkQeGxj8zDXy5KssBAAjWIaRPP5/B29gqB+ORKBbtp8Km/36SfVgZM8GB0bzdDWhLNxFZSMrXvewa+O/vJUxkNC7NxwqhkJQoEhuP0dRzML3eSSQOM7mcAs4lX9m/wb9eNY5O/b5MOqoV3ZNlbffsGwae8ieKXfqwD3c8p/DW+DL7uSmMhEraYTQgbBsYgXtf8M/QkrtEsiINWOH8x5MyTJYBwULPpqmk5fNNVsbv4zDEMq+OU+Cj/4aKbCQ0yZanuRpYPlnOcTVOqm6SrrLLsJiY8GaGjfuzKRvPBN9aeOYlI9Fx4/TTqMI4x2OYtNio6Hp9fg/Wm0mwFF2nwEXv9gOEmbyXe77hvmbaUEN6N4pckRGwOUDsNUcxA60Q7f0uYSj2gBisyMojEyT6ruKEpvXJTlZjNAKNjSLvZOI/5DfujAvX+nXOKG4R5zNVTSZj4A1JCmrRQ9cvoj1PXvYX0WEtmsWVKfRDv0uPOjqVgcFWrAJ3Wo3Z3LWFvv72ANUDdpZ3k88hzG7prJbTNE33oSJZp3tt9s8kHHQdlIC67v0O039Oa7AIsRetIYVvZrb4QMz2zMPqfV+M3Cmqz+Bv3M3ELAA8Q06nnxRYMKIWk/Qo0RsEoImSKNs6fNAGTXLKMsYCXVc6mt+s9rBV5kJrgzaXhw/dHQWdafZywciQH2PIeB0zShPdX+1l+Cv50=",
+  "URL": "https://github.com/bos/bloomfilter",
+  "LICENSE": "BSD",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1587637639",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "ghc-libs"
+  ]
+}

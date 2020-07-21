@@ -1,0 +1,25 @@
+{
+  "FILENAME": "vpnc-1:0.5.3.r468.r81-1-x86_64.pkg.tar.zst",
+  "NAME": "vpnc",
+  "BASE": "vpnc",
+  "VERSION": "1:0.5.3.r468.r81-1",
+  "DESC": "VPN client for cisco3000 VPN Concentrators",
+  "CSIZE": "91779",
+  "ISIZE": "280082",
+  "MD5SUM": "bef28fc5d84f9275dfcc40f70fafddac",
+  "SHA256SUM": "250be4cf9d83c97b923c958782b2ab3afb85234218bd1cf75ddfe90fab393bdd",
+  "PGPSIG": "iQIzBAABCgAdFiEE4kC1fixGMLp2ji8m/BtUfI2BcsgFAl7BH2gACgkQ/BtUfI2BcsjLqA/8DyAV7rqKfoI6CXuA6jkvxr3TRoEqpqTDMGs1qU99qJHbztC+YvmIQxicWQKK/qSVedAyhrYTdkgIBfE5mW+/F2rc1x/B0WN8EeSXRHNwQBkOGd89ZisR0HxCGVnlyGqGzKuwDaBmfI8DqfYtpOSIqsck3rFlUxj5nAnMd7TVMwdb20ZZuILy03sRpmTUpxm7Mf4ICi8HYhMjPvZfNDlzyF4lAlhq9iOKHhb2fMxkJiUTQz8GTKkEGtLFHFy383dMlq+IJ569sOgzlSFaxvh4AsS2iTPjpTVlNJUyMivFieOijjxeZpGKXY35l1cdoy0uLbVJaEdTeLmWQykTMWHchOmHbozfjo8HNakgMmam1BTcPXK/XEM4pih9VU1Y5BuN5CxoR+rVgKR5LGl/hlBpOfjQGQE1hyHaa8xc4COJRx1E55JyervdflEhTVu+g74IItk0+EKO0eNrjaFu/BG+wIFOgtXpvG/t82qqI1XMuDnNfGeyotNOPK2bQrPCBX+hr2VAO06luN84v2TCm6eGw48QzfKlDrYoTPXb8WcuKYjMMrCzqqPULlsk//DfeJFzqB4dKeKQVtQMy3hrEvK9vg4j0wsCo8pg7rFuY74/DwoiXu5XnJINnYxU4Y9a/dZPYP5g4gh6KofAEZedBW1phrTZLLbCP4iywqlvluH2d5g=",
+  "URL": "https://github.com/streambinder/vpnc",
+  "LICENSE": "GPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1589714750",
+  "PACKAGER": "Levente Polyak <anthraxx@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "libgcrypt",
+    "openssl",
+    "iproute2"
+  ]
+}

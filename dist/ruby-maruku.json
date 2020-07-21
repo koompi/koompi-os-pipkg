@@ -1,0 +1,23 @@
+{
+  "FILENAME": "ruby-maruku-0.7.3-5-any.pkg.tar.xz",
+  "NAME": "ruby-maruku",
+  "BASE": "ruby-maruku",
+  "VERSION": "0.7.3-5",
+  "DESC": "Pure-Ruby Markdown-superset interpreter",
+  "CSIZE": "201148",
+  "ISIZE": "813542",
+  "MD5SUM": "8b9eb0e32302056a57fa4aeca08bf86b",
+  "SHA256SUM": "33cfe203e449bcf2dbfa8070334da44c1ff0394749a2c3776eafa15c4986373c",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl4D/hIACgkQeGxj8zDXy5KM5xAAgWKRwomSz7QiEgdtOyZdPYB34nVVGLqLVy8++1CsEV+AeHUMuCaQng8COVDgSwGIwzHGxikUxZme/v2tH7i9vm9BQqhKHqengeEbOe66WgZI21YosZCa/fB0wuGoTBVuAGF7ElzGY0EVJn0upjytASSwsbJ8y6BPy+/f58DzSEPBa3x/HdrJ+0cU0gqtNF+JWXGa2ECGjDmJnNRgvTGV1pFqwlXvnbDzZhkDWePpf52a3ia17P4WWONwFgXZabQOfXsfH7jSpsREsrpm5+R3izLhf0Lf70s6V9d6rGurOb0/5xDzHKJbPOnuxT66ApTl0vdgraHtKLv+7S5epBMntIdydAtYkcKLoMFJOSi+HeWNZSPBkdJaBvrBSlOMwJfiqElOQn+9tmHBnpXleEOLOtBYrjkT2h7/fV945T8AI4eZ5t/J96iZf44PWe1F4cLkbTv1qAfV40kmVNUYJSKt3Un94JGACmtxyrjKn7XcXe3olYT7AfSth1qmN/PrnXErj/nD9SDCGg8niCSn5nDE0ay4VjcTuhXYcxKiy+sdbMU5QlxpdbLkEsHbi2NtzgxpeXzOpbqH/MXQwkCZzazX9DA3blY3BNr99XVhSCVJBNnxLZdsaRqeAJmKtUzzKZhl3bhmOKxCI7CcFsk2Hv7RKTtQe1ZjzJqv4u7PD0E+FKo=",
+  "URL": "https://github.com/bhollis/maruku",
+  "LICENSE": "MIT",
+  "ARCH": "any",
+  "BUILDDATE": "1577319923",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "ruby"
+  ]
+}

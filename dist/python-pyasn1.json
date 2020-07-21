@@ -1,0 +1,23 @@
+{
+  "FILENAME": "python-pyasn1-0.4.8-2-any.pkg.tar.zst",
+  "NAME": "python-pyasn1",
+  "BASE": "python-pyasn1",
+  "VERSION": "0.4.8-2",
+  "DESC": "ASN.1 library for Python 3",
+  "CSIZE": "116925",
+  "ISIZE": "630777",
+  "MD5SUM": "3dada47645261fcb68dc4718f5580c7f",
+  "SHA256SUM": "eba6025dcc1ae5469374900b92ea31b4a362202e1501812d4d27caae9fb4acce",
+  "PGPSIG": "iQEzBAABCAAdFiEEhs/8qRjPOvRxR1iAUeixSKmZnDQFAl6/1jIACgkQUeixSKmZnDT57wf+Jh6ryC1QHqcJddQshrMnYziSQPPrZWTlBD8C4GgCCrtZUX3L1FwFPhGvKOF8/C1R6gPyEfwnNLkrh6NdUMmHc4G6OJ3OBYE7HvmLKqft+q6kRCX0gxBrBVTdAzDFz/7KkQs0nqXxQe7fFAmvP5OhAqCGKQ1lWfBoLy14+ZbLYKnitgETOHj57odYiw9w/hraUZhkjClW/5KAtHPXnf5em34z1LXhDCnk5+ZvJ2eVwbmDY/S5AboIjG9jX/tI+oWlg9h9y7TgCzeWanGySui+MRMOJC6ANSI9FOY3DI6JYEerFJ7xIM4+c/lbiHcWx7wqyHXJnXSRFjGtvbMDUKUZhQ==",
+  "URL": "https://github.com/etingof/pyasn1",
+  "LICENSE": "BSD",
+  "ARCH": "any",
+  "BUILDDATE": "1589630490",
+  "PACKAGER": "Evangelos Foutras <evangelos@foutrelis.com>",
+  "PROVIDES": [
+    "pyasn1"
+  ],
+  "DEPENDS": [
+    "python"
+  ]
+}

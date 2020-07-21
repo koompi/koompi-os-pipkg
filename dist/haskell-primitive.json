@@ -1,0 +1,23 @@
+{
+  "FILENAME": "haskell-primitive-0.7.1.0-1-x86_64.pkg.tar.zst",
+  "NAME": "haskell-primitive",
+  "BASE": "haskell-primitive",
+  "VERSION": "0.7.1.0-1",
+  "DESC": "Wrappers for primitive operations",
+  "CSIZE": "226458",
+  "ISIZE": "1492605",
+  "MD5SUM": "c2e6789eebd611ad1311f1ab7c35ba21",
+  "SHA256SUM": "dde238df57d2f430e438b2e3dd7c30b2ebebaa13d612088725c0814b4c829514",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl745gQACgkQeGxj8zDXy5KxqA//QbPqsfAFdW7JJKe+cNh9RIFef643s8oL1c8TH+fKbUvOXYjWqBblEEOTmgJeyx7nMBvZdk4YdZ5gYZAsxkUw2VqR66GGpxDkgr21rglFRYqsa00d7MTxEQfJEBDf2Z7/SwuALIju+5mYS71HUU6GfpriHQt6UHN63EcHlkigqoReFq/zQ8Pn984xFkOB+I2vwDATFyT0zRIhBCtVbmKNhZUyqvSwg2CrzXNOqWrAS9kJy/h/UpOSgZfV2E66r7H16eh39dBU3UP4p+0kCJH3SXbxG/L34ZWXSTCHl5/2ihChkXuy6KMWaAKS6hJu9S9WiNkmi97tMR9QahHnChbEFntjwvORiYkGihpXwByyZTfHrEWdFpYLoaZChBrwI5bWgTstEmKQW0yTGX8Hsn6dSl75O20N2Wcom+SSaNICq04Mk3ykoKiKYB9Cy0bS3TJIf3ArbEPNQogQTMks3u/Iq0WF0URMfwpWsCrL4DwsRkBtlaB5G0nlEdNlwhEyvUg3sw7irC3G3J8bHNpoxS/G7oO/o2VZ2MW/6KUFoz2n2LlklPqoN7odQdSN/0VKbsaQzvMbfVkxK5v4F402WeTu8jdddyPnOsjyOnXrtyhbHmmMHcHv6qf4+bXiQpqid+Vq2yQ52xb5flOQCmKdySXNZgYkmrFglPB4obOb1bZyDbs=",
+  "URL": "https://hackage.haskell.org/package/primitive",
+  "LICENSE": "BSD",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1593370059",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "ghc-libs"
+  ]
+}

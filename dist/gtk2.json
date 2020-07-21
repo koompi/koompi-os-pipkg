@@ -1,0 +1,38 @@
+{
+  "FILENAME": "gtk2-2.24.32-2-x86_64.pkg.tar.zst",
+  "NAME": "gtk2",
+  "BASE": "gtk2",
+  "VERSION": "2.24.32-2",
+  "DESC": "GObject-based multi-platform GUI toolkit (legacy)",
+  "CSIZE": "6125410",
+  "ISIZE": "37945148",
+  "MD5SUM": "13e87454af08f0b7d7d3eac2bec5f56c",
+  "SHA256SUM": "6dcf3361c02d94e71654b5f4629c6c81227ebd2b7ebb9b485725e7b5b8779d57",
+  "PGPSIG": "iQEzBAABCAAdFiEEghj4iEmqxSLpTPRwpekojE+kFfoFAl5RkpoACgkQpekojE+kFfplYQf/VDUHntrVl6bjH9YApaK7GgEIICwguJrceum8YhxHkA+eC8nWSB2pCvzNnP73CUsw1uhqhS9ZDLHXTrxttuSL2+S3s4unOrmj5KaKXtQVolVx9/adiLfNVkktJHflV1MkJG674QDAn10P3utrE/5i3Qe5y00fYzT9OUJ1twop+NTbrwxka+NZEkhCvZQ8sPpWyJa94fek9IrpqbF+NYKDok2FaSEdw2us8qJifN1lKCagZBpK4EYZGldU14jXlR/gCuN3jLPfmtSoxY56Jtqicu21Kgm+lEA0EOzPYNrGcoyEyyJSMlq+lKIQuKnw21z8/tW8YrUDI8yeDBKwEOcwWA==",
+  "URL": "https://www.gtk.org/",
+  "LICENSE": "LGPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1582404010",
+  "PACKAGER": "Jan Alexander Steffens (heftig) <jan.steffens@gmail.com>",
+  "PROVIDES": [
+    "libgailutil.so=18-64",
+    "libgdk-x11-2.0.so=0-64",
+    "libgtk-x11-2.0.so=0-64"
+  ],
+  "DEPENDS": [
+    "atk",
+    "pango",
+    "libxcursor",
+    "libxinerama",
+    "libxrandr",
+    "libxi",
+    "libxcomposite",
+    "libxdamage",
+    "shared-mime-info",
+    "cairo",
+    "libcups",
+    "gtk-update-icon-cache",
+    "librsvg",
+    "desktop-file-utils"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "FILENAME": "publicsuffix-list-20200106.876.d73f42f-1-any.pkg.tar.zst",
+  "NAME": "publicsuffix-list",
+  "BASE": "publicsuffix-list",
+  "VERSION": "20200106.876.d73f42f-1",
+  "DESC": "Cross-vendor public domain suffix database",
+  "CSIZE": "73677",
+  "ISIZE": "239030",
+  "MD5SUM": "701b0af4fdc1ccc9e784bbcb57386eaa",
+  "SHA256SUM": "d4981d0895bb8d66c62874075120fc7990a1701b844ad67db759e0e560ef13c2",
+  "PGPSIG": "iQIzBAABCgAdFiEE4kC1fixGMLp2ji8m/BtUfI2BcsgFAl4tipMACgkQ/BtUfI2BcsgdLQ//aGsszXKahMdrwKLm7xAFYyQRjrPHmfQ4LAE8QWYzEyNupL5v1tjRLk7dPHs18kBG5w9tm4AntJxzwVyYO6IqMLpwVmgAwxBySswh8X5WiaoTVBsrd238fB1S5SYLQdW/vGm3tzPkecV2oYrkQ1NPWRefg/LlJB6/MrfKMsK8ZomI6wJZCYKS8kcqh7mqmIxFm5rFlt7VXUbKeMzJMDU9DjlJKi/QKHc3H4OBxldPdZSzqyHEGl3PoUYVEYfNcbDwGvi1bx2upwf4llr6k+q6eQMQsX7wXqBVwX07kJxKQA70yp1cKO1kHqa01B7/IEsBrFdz2zzSFRMjGJQkglyfTGt0CeGMlX084jZMWIIXX3rGXEsFQJ5N2NuNvuIIXd0Pf5UY84KDVuo/IuXLn7W1bIemvC4u9hlsP6pE0yj789DDVFy+wANwohN+GFyzldvAqjdUH6mWVOYW+LhRiIAVXHLZtgrTPUtCXMceLOxm1tiOvWICU9sKXz2c/Trv9QZPM69WtMAmixWcC70OH9YBUMKT7gFhSAXw5vwdhkwzEUBae5b2xIGHQWr3croggVvGAQvVp0TfO9x32+MpyJY4yhmAREzdJgT7Ec3QEdiEbMpGFxYZKkhS7qU4ZU8I8VDW2iMQ2BklGZBHTSS4E+IzpPhmn0P7S88YViJHxImkt/8=",
+  "URL": "https://github.com/publicsuffix/list",
+  "LICENSE": "custom:MPL2",
+  "ARCH": "any",
+  "BUILDDATE": "1580042759",
+  "PACKAGER": "Levente Polyak <anthraxx@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    ""
+  ]
+}

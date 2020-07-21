@@ -1,0 +1,24 @@
+{
+  "FILENAME": "python2-feedparser-5.2.1-6-any.pkg.tar.zst",
+  "NAME": "python2-feedparser",
+  "BASE": "python-feedparser",
+  "VERSION": "5.2.1-6",
+  "DESC": "Parse RSS and Atom feeds in Python2",
+  "CSIZE": "92035",
+  "ISIZE": "436983",
+  "MD5SUM": "6b48fa76178795bbec631231ba2c8a05",
+  "SHA256SUM": "cbaace5495add804bd9e9202d0cb197c4638d60252c69c1d9ea3989c30956393",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl6/0Y4ACgkQeGxj8zDXy5JL0A//ZaGzoLsmo3SlCDlkVPPoRgoFknGKJ/kz8xUe92uxmTCHN+SVMq/RcjDTiPjHsVWrACf5hqYVSFL23XaM3sWLFt0O6eYz/1uwwjwh981m3iEMv/Kw+rKYBE5S+TFRzdsobcEjcjS2mxf9J2TnCwF36muhKCQlyhXZoC85oryLergh57WYjyL9AhVXIfzLHt8Eqz/ms/gUu733gaM2PwzfchNsfbqPtpUpGQBK6QUQPL7jucTHt9SlPOmKdooAVp4PYGczEYHB12dLU8QqMbsJFl1aao0K1n5Xd4VQ/PcTrcdtEGOgfAM6liOlq0mYJZq39ezyyrso1rst/MxEfARPyzflUbS9f2W5uOqAxCLuJGvS99C72MQea8dsekmWuglMaGFxNYsnA/Ldft6fmds5fwMedfMKGN0UoCrrAHzCYrWZRFikPnU05BdLSS8n4PVoh7Lc21R1k7KLAMm1q1dwBEsAhxGqoy8XGSwNomnB/osNSbO9VsPhKNhQsJ8DcdteK8esuuG+nC8d7z6xb6LILVNgUDdWPGwfcDxjReZdbotXKQw6Loez48oo3h7JHRDSqA1gfKonWvXWBqKyiOfm+DhTYQPIvNF0dNlgFJJ1aU1P6RQBYPVtxU44Is/TIyfULnj+arvomrz9EM1m1Iy6qA60rtg+sN9Zdz6FDZ3xLwk=",
+  "URL": "https://github.com/kurtmckee/feedparser/",
+  "LICENSE": "custom",
+  "ARCH": "any",
+  "BUILDDATE": "1589629291",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "python2",
+    "libxml2"
+  ]
+}

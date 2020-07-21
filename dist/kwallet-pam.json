@@ -1,0 +1,24 @@
+{
+  "FILENAME": "kwallet-pam-5.19.3-1-x86_64.pkg.tar.zst",
+  "NAME": "kwallet-pam",
+  "BASE": "kwallet-pam",
+  "VERSION": "5.19.3-1",
+  "DESC": "KWallet PAM integration",
+  "CSIZE": "12350",
+  "ISIZE": "30421",
+  "MD5SUM": "294aabfdc8389ca5469d14faa47b121f",
+  "SHA256SUM": "a9d15777b4dbb4423cce8ebe8c9cc9f2afe8c7f7443c39f0bcc4d5e868048679",
+  "PGPSIG": "iQEzBAABCAAdFiEEFRnVq6Zb9vwrc8dWek52CV2KUuQFAl8EhTMACgkQek52CV2KUuS6SwgAiSbofNielnBI9Z6tD3sMbViuTr/pE5C1bBTY6s1wv5CZ7KkOHQpzYW+ILtmYHJPyY+c7tSjpMNnK1yD3rWy7HBvW+AXLi9P9x32/IZI4de1hOgwnrbsgjFsqA/whqs/HjzRWyXszFWOkd85CNIXdiaOtlKArB5DusdQRzNK+Lix62glTY336XVrvlJ2FgwYTBtFpycWIOlI6E7IeTz7TGetdDLhZzT2XubyTx6SeIBzZDUVPmNLNgRAlBP7B6wNTYOxwxXX7ghXfkcE5Zy+h+24kdfM15BUFxmTXo4s2QAPmMBsIt4yILpVpa12tJGJgCYDDRFV2SbQ0QTVRa0860A==",
+  "URL": "https://www.kde.org/workspaces/plasmadesktop/",
+  "LICENSE": "LGPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1594130153",
+  "PACKAGER": "Antonio Rojas <arojas@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "socat",
+    "kwallet"
+  ]
+}

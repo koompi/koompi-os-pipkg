@@ -1,0 +1,26 @@
+{
+  "FILENAME": "lib32-flac-1.3.3-1-x86_64.pkg.tar.xz",
+  "NAME": "lib32-flac",
+  "BASE": "lib32-flac",
+  "VERSION": "1.3.3-1",
+  "DESC": "Free Lossless Audio Codec (32-bit)",
+  "CSIZE": "130012",
+  "ISIZE": "380928",
+  "MD5SUM": "df9a284d077d4783b5e151df1d0bfa27",
+  "SHA256SUM": "e95b1c5b6fef0897e835ec7b0bcaf49777840752c11edd58bb100ce26f5e0d16",
+  "PGPSIG": "iQEzBAABCAAdFiEEghj4iEmqxSLpTPRwpekojE+kFfoFAl1cKEEACgkQpekojE+kFfpuSwgAhgMc/WRTSPw/THg4Q8maNcJEuUR5RPyA4F6QR1JNLYqSJdW2ApV3VcHN0jGG1vvIy1/bsxWeMVAYRk8gfAMvXZPd9wHNTmNIrWwliKD903d3Kza4/WQFCwx3Xa7CLCoMQNrsyZ8K6JxXR/aRPgYd8FLWt2mUQXV4jHmM9SLdM4Y2DJzvf4+ZHpXWzu6lT4IDF+D4m9OszIieMFzN2uHgzDSDuZpaXcPJYgU5GZsFZexI3KNkriaQPwyxN0vfeGLEY5V19BAfml1pg6OCF19L7bsty3QGvqrQrJloziNYX58ZspYlt9Ke+x01/JL2qIFXsH2HM5dLoNYiwAp5aSWqcA==",
+  "URL": "https://xiph.org/flac/",
+  "LICENSE": "BSD",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1566319754",
+  "PACKAGER": "Jan Alexander Steffens (heftig) <jan.steffens@gmail.com>",
+  "PROVIDES": [
+    "libFLAC.so=8-32",
+    "libFLAC++.so=6-32"
+  ],
+  "DEPENDS": [
+    "lib32-gcc-libs",
+    "lib32-libogg",
+    "flac"
+  ]
+}

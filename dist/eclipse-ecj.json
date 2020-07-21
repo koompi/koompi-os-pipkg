@@ -1,0 +1,23 @@
+{
+  "FILENAME": "eclipse-ecj-4.6.3-2-any.pkg.tar.zst",
+  "NAME": "eclipse-ecj",
+  "BASE": "eclipse-ecj",
+  "VERSION": "4.6.3-2",
+  "DESC": "Eclipse java bytecode compiler",
+  "CSIZE": "1604083",
+  "ISIZE": "1727308",
+  "MD5SUM": "cd1fdb295bc4fe8b902f84c7c531ba6f",
+  "SHA256SUM": "56a864451321a0100fbb6ca9feaebf92bf8a033ab27bdff1cbe8d5049eb7e227",
+  "PGPSIG": "iQEzBAABCAAdFiEEhs/8qRjPOvRxR1iAUeixSKmZnDQFAl6/4e0ACgkQUeixSKmZnDSpzAf+LCgoDMpLoD734kDFcR1wl0L9QzvzdP7SayOUwAu3gWgEmvPkhHljtgtpJBmnnpRRHs91ZKJb6PgG4s9LEcjBN3Tt+6mT/Dzd3WLLet1zEpjdVqtpnMTEeW2WdoPuqumnwy8MXxh+7Ezypx6nDGrl5XDXbbQT9Oe+V0xAj3tFCS5r6npID/l58HlaY7rkIfpKf/K/ha8PITdsN7guWKIy+S6PQyjIDKMRtF1Fp3mkLJf0eUyKxMWOOYUOYugiKa4fIDoXFOvAw+Lrns06MhnzrahdXkTYenfVYuMrCxq1rqoXCeiW8bg1QTKkgKCcW7Jj2D4bjatF6TFevBuvmiLw/g==",
+  "URL": "https://www.eclipse.org/",
+  "LICENSE": "EPL",
+  "ARCH": "any",
+  "BUILDDATE": "1589633469",
+  "PACKAGER": "Evangelos Foutras <evangelos@foutrelis.com>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "java-runtime"
+  ]
+}

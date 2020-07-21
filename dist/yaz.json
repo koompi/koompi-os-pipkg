@@ -1,0 +1,25 @@
+{
+  "FILENAME": "yaz-5.30.3-1-x86_64.pkg.tar.zst",
+  "NAME": "yaz",
+  "BASE": "yaz",
+  "VERSION": "5.30.3-1",
+  "DESC": "A toolkit supporting the development of Z39.50/SRW/SRU clients and servers",
+  "CSIZE": "879651",
+  "ISIZE": "3931183",
+  "MD5SUM": "e302d9fba7dd2f7f70cc8d1fb6d8e006",
+  "SHA256SUM": "2c2b761549959c5e825c83e6048964c7765ad619fb5cf7db30f07260ba2800d9",
+  "PGPSIG": "iQIzBAABCgAdFiEEOO3RiGdWkk4SJOSVJOTNsAE8JYAFAl8DINMACgkQJOTNsAE8JYD7RQ/+Jjz/W+fSLRSf3xSAhgeYjsYKb1VsHtLP48o+hZk+RYRX2UMWf2GkB4BimfyGcY4mQOKKnBY0jBvO+QEb9WWzrZ9VRHNoooNyDpXiHtC2+3uB06DRHPSIEuBQY3jfOCdySyKdPBPRZIxQLhCw2Bx020J5kpn20v2MTwUUUy1/UdZ6suDhbgNguc4gdVyDL/RmHpSk8v0hElhBLtm+OTrCPDj3BKvELMnhgDJa1YGeGa7gbRBCQSB4dDCaKyP2CWqYKybiQfDnEfNcjbgpr6d905xvMydB3NINkX/DGmqGkLKxSyvibMpMJa43bBheuXCxh9kCIixJK/B5zE2NqHMREkMlzhGTYqGXGtov1VlbaCqt6PEffWI+nEHsZhMEQrH0G6TVvOUDxRysZIy3LxgHBlmfjtDBwUiJBKDBeBrJH05TrYCXirjUKIkXkuDR2M5sbgbEw2clreFqn7inbu0CJHSsqbKH6mkq2tAnR/opWcT7U5HKUUS7zxGu/Au+Yzyv4MLBPI5sn8d3JXrCBjHozJaYcBPgWhqfpgviotNeyaZMazesJZmWZG4s588urR7O9oWAIpJVTfJJKRcPGpLCdUNbiCnfCRz9gonFiWxk04DWK+TtdzX66MfzwndY7mFLgxy92c/97WJgldBvhpgFxnX1UndbqEdB/H07FQAF/tg=",
+  "URL": "https://www.indexdata.dk/yaz",
+  "LICENSE": "BSD",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1594040280",
+  "PACKAGER": "Jaroslav Lichtblau <svetlemodry@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "gnutls",
+    "libxslt",
+    "icu"
+  ]
+}

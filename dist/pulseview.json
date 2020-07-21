@@ -1,0 +1,27 @@
+{
+  "FILENAME": "pulseview-0.4.2-1-x86_64.pkg.tar.zst",
+  "NAME": "pulseview",
+  "BASE": "pulseview",
+  "VERSION": "0.4.2-1",
+  "DESC": "A Qt based logic analyzer GUI for sigrok",
+  "CSIZE": "789816",
+  "ISIZE": "2458496",
+  "MD5SUM": "cdde5a1b5911a22fe96f52316745a1e4",
+  "SHA256SUM": "e968b6495fc731a17967ece5c123d86c50b1a2265dfbb97ca36542739bfed368",
+  "PGPSIG": "iQIzBAABCAAdFiEE0jW0leqs33gyftiw+JPGdIFqqV0FAl6E6iIACgkQ+JPGdIFqqV1Lgw/+M7K3LD1BNPk9F427/b2Q/HnwnORAHSkTiWMv+tfATibXuz6Ibk4feKP0IY0Hg3QYgLp4llkegG+PjPOGGnLJ/hhxMZBEDfP3Wmx/QrMczT73iatsVxCly7HX3fRJ6KNbLD2R8f2PH/u84HWso7v6P3nuXmg0lTrRwzMeuVlZ6CTOfr51LS3onyhGpkOaZWJ2itxsXg4rVArE1pxFWa9AWA28IyP1jW71kNmnlSE4makO5/YmPH4J9imUDzH3PIWIeztG1WEmp2h4oDuZHjLTPYmGsrcHxVyArJj+6cDJgg/SUVJTepB19+vAymdEFs4U26krhpL1mru6w5dVJFyWsv1ElOJTT2x/jAMXUhCYYBFAJnFu9TGiq6E7XSZtUcwP9B+3sGG+e7rQt4QtsOiy5BQlz1ndOUEDWmaekeCW1IYgNaejztS3O5Wts6PxutdaFOyILo9WT4kLzxahPugSd7G2x+rOWluKebQI1rVQ3AbqKAA2f3IxqNtDg4yLRYDlrAC3zbVKdTAsgaZYdISYEUJ1F+T0ii8K4LNJ2dxIJlSqhd0aHLVWdvgx3xW3DiN7yDIE7G/c+ERJIEcAzfjrhUVM8D06kDyQg82uiluim22QnlP+AC798IqsUtflMyKsQsPAJ08VNsh24R/q1C3CLEwVJBFSc04PLRPSsQ0QznM=",
+  "URL": "https://sigrok.org/wiki/Main_Page",
+  "LICENSE": "GPL3",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1585768606",
+  "PACKAGER": "Filipe Laíns <lains@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "libsigrok",
+    "libsigrokdecode",
+    "qt5-base",
+    "qt5-svg",
+    "boost-libs"
+  ]
+}

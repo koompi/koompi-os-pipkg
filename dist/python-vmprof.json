@@ -1,0 +1,28 @@
+{
+  "FILENAME": "python-vmprof-0.4.15-2-x86_64.pkg.tar.zst",
+  "NAME": "python-vmprof",
+  "BASE": "python-vmprof",
+  "VERSION": "0.4.15-2",
+  "DESC": "A statistical program profiler",
+  "CSIZE": "132753",
+  "ISIZE": "517400",
+  "MD5SUM": "6eb93069a4bfdbb49a65d8fe91de2203",
+  "SHA256SUM": "78c86656733083447384aacd2a54ea0a0d3f6047c761771aa607ffd55318491c",
+  "PGPSIG": "iHUEABYIAB0WIQTH54SUZv4jWDQ1iDdyWHNLQcMVSQUCXhjOnwAKCRByWHNLQcMVSS4ZAQDwNc2LtZBAPC9JkA1k3kGznOZJr0sTXpXYZNnp+fCSyQEA0EoXMWbVajIL/xwuxCafYwho4L4wk038irk9zFfUrQs=",
+  "URL": "https://vmprof.com/#/",
+  "LICENSE": "MIT",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1578683838",
+  "PACKAGER": "David Runge <dvzrv@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "libunwind",
+    "python",
+    "python-colorama",
+    "python-pytz",
+    "python-requests",
+    "python-six"
+  ]
+}

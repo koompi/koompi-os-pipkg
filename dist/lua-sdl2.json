@@ -1,0 +1,28 @@
+{
+  "FILENAME": "lua-sdl2-2.0.5.6.0.r16.g272a748-1-x86_64.pkg.tar.xz",
+  "NAME": "lua-sdl2",
+  "BASE": "lua-sdl2",
+  "VERSION": "2.0.5.6.0.r16.g272a748-1",
+  "DESC": "Pure C binding of SDL 2.0 for Lua",
+  "CSIZE": "876948",
+  "ISIZE": "2661376",
+  "MD5SUM": "956d0018dd949b1b7b11e0b96b6adca1",
+  "SHA256SUM": "9535a9020bcdcdc5cfec67d45502e0360d1e988def16b1ef8f1fc89eb6e88d23",
+  "PGPSIG": "iQEzBAABCAAdFiEElihV8HLHoBhGQFhk/PPIy1z5yNQFAl1nxTUACgkQ/PPIy1z5yNTGBQgAmpAL1bNDCmeTGSZxmfjB94NLpWXSWULX1AtaWE2OskMy/c9CmV9kwL9twuhAV/fzIOC8YhOHfcWcZcEcooDUMtXKzL++BYehU6NivQpGQ7WhrOAKoDB38zEEbX729PiK2E43NuZfGmBnQk206llhUGitDivimkYfhqWOw+a0/5vk9xzSh0YZL664+7qcvhOG5E/X26+Ol9rhqMuKJVqlVRwD6MNOdSpsUfjmZwM1i5iojAT+5V+7zPRbxWtZ5bd66tb8GoXQxBJ6uznDGUcfg0iPcINedLVYv/4sFmzqyfgXFhGRH1RG+2I27a3JE9FzKzJavI3ONbPyjcBgqQ9n1A==",
+  "URL": "https://github.com/Tangent128/luasdl2",
+  "LICENSE": "MIT",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1567081722",
+  "PACKAGER": "Alexander Rødseth <rodseth@gmail.com>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "lua",
+    "sdl2_gfx",
+    "sdl2_image",
+    "sdl2_mixer",
+    "sdl2_net",
+    "sdl2_ttf"
+  ]
+}

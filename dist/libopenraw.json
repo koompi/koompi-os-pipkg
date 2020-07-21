@@ -1,0 +1,23 @@
+{
+  "FILENAME": "libopenraw-0.1.3-2-x86_64.pkg.tar.zst",
+  "NAME": "libopenraw",
+  "BASE": "libopenraw",
+  "VERSION": "0.1.3-2",
+  "DESC": "Library for decoding RAW files",
+  "CSIZE": "172696",
+  "ISIZE": "573336",
+  "MD5SUM": "9fa1f6d1571ecb114d657b6ba9f7d207",
+  "SHA256SUM": "ee9306a1f883aad186baeb38eef0791e401d22ac621abe3c87fa4c104b807b11",
+  "PGPSIG": "iQEzBAABCAAdFiEEhs/8qRjPOvRxR1iAUeixSKmZnDQFAl8E2FcACgkQUeixSKmZnDRGgwf/aBVvoRIf/TEVuyLbXM14h7N4e8hBitnz5omcbPJKeqmoLS3pKcURZti4d4uoHL37s6xiACduly8vRvdAuCOYy/bhHXTaQEHQM89a0bUqOfEfh5m+M8JWVi/NvdnGRcDlO91hkRJyEOJarPb+bVPyS35vv50CoKYChwbkk+XHSaHRT+5R1StaDUDFXlQ2Z3JWlD7zsGAY2OImLxXkTV5F6YSSgGj5OG0qQC/i2RTYhGd2UeJDBFSFg7PQAPN4k/mV64dSISRdY5L4Fz2bOzJxGFcAsMjw8/K3yt510jpmG+U7stUzgc+gX1dnkVptRGm4tJop9kHIUQF58pifabNJ1Q==",
+  "URL": "https://libopenraw.freedesktop.org/",
+  "LICENSE": "LGPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1594152988",
+  "PACKAGER": "Evangelos Foutras <foutrelis@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "gdk-pixbuf2"
+  ]
+}

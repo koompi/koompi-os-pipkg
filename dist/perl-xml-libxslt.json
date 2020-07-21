@@ -1,0 +1,24 @@
+{
+  "FILENAME": "perl-xml-libxslt-1.99-2-x86_64.pkg.tar.zst",
+  "NAME": "perl-xml-libxslt",
+  "BASE": "perl-xml-libxslt",
+  "VERSION": "1.99-2",
+  "DESC": "Interface to the gnome libxslt library",
+  "CSIZE": "38812",
+  "ISIZE": "107401",
+  "MD5SUM": "659384cbde99b91437477697eafce202",
+  "SHA256SUM": "9e036a73534ded314a75b06b734b98b1f50a029c8b4dfd605cbd25f87c56e479",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl7vfksACgkQeGxj8zDXy5KhZg/8DL6l8eqs/z0QWE0WeE5SoBEDo7TvyMuNmld9WEO7VWTfDylbnBD97tmm7DSeIv0uKSz2KklqlbrGHrXj8xNbHylSSM758fEgEPSXRlBLd002YlIaAjibJJe6YD8Zaz+OqH96Nj9u8QKnn6lI0LVDlbqxS+pG0h4ShWAovQBWzS/zUVz5qxMP0wuRCKZ0jTv/xAHYvv/L7G2cSV/lNtaa3LApqnn3fyQ4Epgy13A8pTaLDXlTm3X9R7eS0RfFlIDpx80AMILqctq+SHBkHRa87BLVeyhRv+++WcoNn9PclSOAgggla9rFpIn5VqFbq7Mr47G1Tc2UtZavWgthhUHrRwMw6GOYuiLMLfblTYzG9JQD93v66FCqa/xchIL9f3oOmlF6wlNZ/k5Fu6S6hp2kXihGrMcVqHRNMZshxbrJsBtn+uH4oKwon2iwFTJY0+X7ooNyDCQYD6At7W0chitLv0wmY24PqMW0UTWS+k6jJZmJiuJ8oBDnbwunujA3TufJ9hAGBlf82I+toPpLw9R6V4XOVQAWbUINiFWQHtieAqeA+DM09pElfBwgm8hlBkys4EMuoTyDY+TJoAji+sztcghhrj7y7qlmBAwcgCO60Y4boOI2wIJlrwZMTlnir9gdlLFUVrsx4GRHgfkixdH5nbmVIvjsHOLX1s+/29Nvz0M=",
+  "URL": "https://search.cpan.org/dist/XML-LibXSLT",
+  "LICENSE": "GPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1592753637",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "perl-xml-libxml",
+    "libxslt"
+  ]
+}

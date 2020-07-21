@@ -1,0 +1,23 @@
+{
+  "FILENAME": "python-qtpy-1.9.0-3-any.pkg.tar.xz",
+  "NAME": "python-qtpy",
+  "BASE": "python-qtpy",
+  "VERSION": "1.9.0-3",
+  "DESC": "Provides an uniform layer to support PyQt5, PyQt4 and PySide with a single codebase",
+  "CSIZE": "63500",
+  "ISIZE": "333682",
+  "MD5SUM": "84f1f04222b1e63faf2a45f580c15c8f",
+  "SHA256SUM": "816d9f90596723e82fe0910da4483e72467c76358967fac5ade9c1ef2b90c031",
+  "PGPSIG": "iQEzBAABCAAdFiEEhs/8qRjPOvRxR1iAUeixSKmZnDQFAl27HLEACgkQUeixSKmZnDT9DAf/Y+VIULMyUKnJd8vBmoo22dr/cPwbjdspEUATCj5k0mrbCpnaBcJS3mJYvWHdle1LwNKDs8VnsRKWE47I6mOqjcjWs/Qf9LT9tFt1+hZ4nrFBmRCCvqvk/VU816fkYlbAOzGc4h42ID+LHjKZQ2+9yAyMRDyFWqNMTIlF9UzM4APxk3KlJxiLVvUg0OzPMMggfLR1uE9TS7GC7f+ymNJYnC0AbU7Rv+0jToo4wjKlq0bV6Q0PEh30phMLRq/UeY0Mm3onFmz7y7hKyBL5iXNrzcIl2Hvg/wofbTazPwt8Keon5cp1xH5eWglhX3/jH5yEB2qEI3Bq5pWUkYrmRhiHcQ==",
+  "URL": "https://github.com/spyder-ide/qtpy/",
+  "LICENSE": "MIT",
+  "ARCH": "any",
+  "BUILDDATE": "1572543645",
+  "PACKAGER": "Evangelos Foutras <evangelos@foutrelis.com>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "python"
+  ]
+}

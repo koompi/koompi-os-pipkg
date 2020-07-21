@@ -1,0 +1,24 @@
+{
+  "FILENAME": "libraqm-0.7.0-2-x86_64.pkg.tar.zst",
+  "NAME": "libraqm",
+  "BASE": "libraqm",
+  "VERSION": "0.7.0-2",
+  "DESC": "A library that encapsulates the logic for complex text layout",
+  "CSIZE": "28693",
+  "ISIZE": "135401",
+  "MD5SUM": "f63cdb36159f17247b32c37efa004477",
+  "SHA256SUM": "5030821907f338f398ed17a57b54bd93b0d9b42c08f478ff859778ea568e75f6",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl7Dm7MACgkQeGxj8zDXy5J6SBAAneIZxfER1vYbhpw8ve0enTGCgQKRMgwt5w7AJv97WEO04AXtztwAjCHkS54ynqoBDknkJig0HWCBzsvlz5JMscMbXTa3xzEgHLqUFyiZzLqxwVGe5A84L+5q+bGpmgbJ55NYSYjg+X+s3N7Ns1GlhQHwFrsVJQNYSrYDCSp+RwbuLWRRxzShk5lIPJPy58dmrWmSLUgloGv3OzxJ4pCcGFoSu2z/ZhbYh836I/hLzGgpEJOEjEoXpuyOkJtumrkZUb9+n+8jl1F0lCC9dkYlPM04eLZ8xP1ky8V3YGfXk1k1LXLQFuN67o0skogJ7VTyxRaGlqM3wONLNk/dU1nm70hUVk3DfDjKUpYpIXTfBH16fz4O3a/SxFp2ij+UpYdWvu5AWY1XFRYPkjTRcHOrNhg7M0+fMJ2wJudRzjqqr9oiCmKbDRvn4RFgp1/JPxUuhF1slo2jI4t3XTfJV+9M6XLvhV0MP9iv7UVDYldgQESSzn3yL1tUYo5ibfQUZX4bR6UEc/fK+QlDIbQise3yarbvDtQsTT+wga8q08P4SbGWbj9ADdC+3kx9pxIUfAu5g3qnF4Q2LsxRNZXBf22tCEDvawIhhAGCOuHjS4JJFXdsCRfoamEdoQhaoQzzCbjgn8hocEU5rqih/IF7/czdwU7raMdsR88h1vIFJrr8XOM=",
+  "URL": "https://github.com/HOST-Oman/libraqm/",
+  "LICENSE": "MIT",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1589877649",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "freetype2",
+    "fribidi"
+  ]
+}

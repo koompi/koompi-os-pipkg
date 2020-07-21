@@ -1,0 +1,23 @@
+{
+  "FILENAME": "haskell-with-location-0.1.0-73-x86_64.pkg.tar.zst",
+  "NAME": "haskell-with-location",
+  "BASE": "haskell-with-location",
+  "VERSION": "0.1.0-73",
+  "DESC": "Use ImplicitParams-based source locations in a backward compatible way",
+  "CSIZE": "14990",
+  "ISIZE": "49067",
+  "MD5SUM": "7fc8570c02e3b93541e7893c5d9a6ba2",
+  "SHA256SUM": "8021c2558311e86b6ae81093ad2a76093cdf493fa392ad52b0955d40c4d34d59",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl75vcIACgkQeGxj8zDXy5K5MQ/+PICyhe1uLvPk6e2DDPlI1gioCIq2o5Tl6nfDTI4fQ/68u2JV8dFl6ySX2zYAvdTpUzcS1cZjed9h20ZmbMRPNZvagb5hmnMpHWiBJQjIVQjczW/QqdAwJT0E6pYetryhggIOMeKy4WTsuMn6g/G9EdPBRZTS/4aUaux2dfKqpTayJWQlNM7dC5pVDGMPTjGcVB+3AHmojZ/gzRJyH1sI1MEKAp3sNirXu7epVxIY35Qj4yplZEcDKBS9VMTS6nVePzDmxJT4kTWHEccU0v2ZqejH9FD/acMam5HDNXwnzPwR+hQnS5mj1QTp3EyFepZaFnFnmMsYWJXhi323ZbuZRdGoaS6a7OihqB/8jaN9spFXJW5lVSpBVck4TrTdtZqA25xDvJ/Xy/DTEfC4MAaJNeTQUtiJ1sHscGnWtmEyi0vGYs5YPuNAsLzBSekO/cp6YNvLyI5fVmItDiXn9AufzQEolbIeNigHWn6J4yyZRsKFFpdEUCumlP3O43fTmJUa3pBj3wtnS0XNWgHxKEKIS72YodJBlW5MoVOm8ckaKVsxIrSeI+pHH4n0CePCMHEoNLke82R+LKNt2LKDL3WrKMJoby4YW/Ocua1g6Z+vmJ0l5trTJVlWQqScwAebAXVphv1S1a9CvL7l1j1kKSf0I70Mga4Ss2czIlHYaTnxLJU=",
+  "URL": "https://github.com/sol/with-location",
+  "LICENSE": "BSD",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1593425300",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "ghc-libs"
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "FILENAME": "bucklespring-1.4.0-3-x86_64.pkg.tar.zst",
+  "NAME": "bucklespring",
+  "BASE": "bucklespring",
+  "VERSION": "1.4.0-3",
+  "DESC": "Nostalgia bucklespring keyboard sound, sampled from IBM's Model-M",
+  "CSIZE": "2938616",
+  "ISIZE": "4998611",
+  "MD5SUM": "e6d26ba055de89421581a46a94bbc086",
+  "SHA256SUM": "4dd4c6f2296d2813bc403a26c12025c09e33785968cc6006960edcb47b7803f5",
+  "PGPSIG": "iQIzBAABCgAdFiEEwQA0ZnZjToDJQPuenAL/QZ/svhYFAl8CWV4ACgkQnAL/QZ/svhbTyg/+OWR6yHmj/h6BFXH5f83+SuP+paNgYx0yO1071Ex1hlTYjlBNwSxTHPBNOd/nosnqxP1z7wDfhyh+/EYCNJcVFk5YKze8srM87W6DzyeVyyvmyS9VJysm0xgHCbuvpYXqKfCT2lZxU6H6cGe38sfQWVXpEEYakVJlm4/Qy3eQiS9lyiI94Ans1NLshblGuHrJDTclPvIm+OCEVmYBZh0g1r31GG6dwMhND+IcOBRuwmVh5bxD6YufBn5Z/g0KQ3LDLXXN9bvGTpC6G6X+f9CPvCmOT3XvJA032RzZBAGKyXR2/iidy+sWtcHYZsP1CTmmcNr0gjUQWfAvItvCM3wOJcod5o91+Bb7OFs1BxKEfEvdmKt8uyXKuadR4aX0NVu4O7TbYXjNuR8MnZd4jbCqVfeXBWWb/kXEDP2j9wFdbvtkHguEJfv5wtBuJGarF3ZyM7GxqkVl7AL7J2VWpXSaqKRb0E/zl2T99naNMjK222THjfh8ujbBWvesyJhVUUZDgRqf6t9YgrQhFd/oGqLcG2bNCKpWrcufIJD4JOnUt65j0YuLJJPCyTZdRhmaKW4/LFiN8d3nenluFo7He34awWkaFs/QZvZhTZ7N2Xk9hc47yxWwx+gyG6HSD7d8ycXzEQk4C/A1RfuzvBOfI5iqkNYKuDU/mMcqcC3v7eUmXgk=",
+  "URL": "https://github.com/zevv/bucklespring",
+  "LICENSE": "MIT",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1593989443",
+  "PACKAGER": "Morten Linderud <foxboron@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "openal",
+    "alure",
+    "libxtst",
+    "dumb",
+    "mpg123"
+  ]
+}

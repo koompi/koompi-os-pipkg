@@ -1,0 +1,27 @@
+{
+  "FILENAME": "vulkan-intel-20.1.3-1-x86_64.pkg.tar.zst",
+  "NAME": "vulkan-intel",
+  "BASE": "mesa",
+  "VERSION": "20.1.3-1",
+  "DESC": "Intel's Vulkan mesa driver",
+  "CSIZE": "2149185",
+  "ISIZE": "7848277",
+  "MD5SUM": "e3c936a2fafa5823ba25de3b9c08000b",
+  "SHA256SUM": "617b38598722fd396435d0325625751799a5fb32e77996e42434e1f2f47aa02a",
+  "PGPSIG": "iQEzBAABCAAdFiEEU1+MAzlFDwVKTSgnBglqatHO3awFAl8GtJMACgkQBglqatHO3awaEAgAmAqZGwLqu7nQNDcTFE66AA4SJWAsb+m3QTWQdewLyfeFepJNiibpltuJCUdOxQzhzK9oPCz/MWG++PVlOTozyPR3Z3G7RF1LBmzm3QKXjmbNXhp6v9PZgqLJQfnF/0PDx+AU7lL4ir8CMN2Zb7K/xHndPr06HrvfAeLgvlLF1fhH88q1yHKZJKSADdfsdPcqxHN/FlpNSUqOsB5KdeyiNHBvoblq9TpHDsAjfvM4RT4T02REXPVngveMx4cLULKhyEFd0/QriVwcbMir+7TsoSnRf8HNcgcWLGOengJ/LyHMm+4pvfDYGooVWK+veUMao8UKKapGu6dtrJT/uisc4A==",
+  "URL": "https://www.mesa3d.org/",
+  "LICENSE": "custom",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1594274417",
+  "PACKAGER": "Laurent Carlier <lordheavym@gmail.com>",
+  "PROVIDES": [
+    "vulkan-driver"
+  ],
+  "DEPENDS": [
+    "wayland",
+    "libx11",
+    "libxshmfence",
+    "libdrm",
+    "zstd"
+  ]
+}

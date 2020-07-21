@@ -1,0 +1,26 @@
+{
+  "FILENAME": "perl-ical-parser-1.21-6-any.pkg.tar.zst",
+  "NAME": "perl-ical-parser",
+  "BASE": "perl-ical-parser",
+  "VERSION": "1.21-6",
+  "DESC": "Perl/CPAN Module iCal::Parser : Parse iCalendar files into a data structure",
+  "CSIZE": "13312",
+  "ISIZE": "20842",
+  "MD5SUM": "e9820d46e1c30ab3dd4584167e82c0df",
+  "SHA256SUM": "9f687d03325272965f10d05b8f93c695b6d8f5f391323fd62b21ca138a4d5a27",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl7vhW8ACgkQeGxj8zDXy5IyohAAvL5+oGLjcNwq+EfWkxFKbT91WV+Hzv2h9lXjK2VJtPwQmEWcCNEp8ejEouxvj8fcak+F4ipJS07tLbtkXq7Wp3DJ58182kmFi8QGKO9iF4hd7bcBDzO4dhHIbs/dQ2js+Py1FOFqt63NNqGbwglB0DfXYW7P0FHZzFWLMRJonJkqwNkSX00zGYpUGYHPaP4JzFN7mL5PC5Nk2nSJu7WfqOgQzUsz7BsmwiKHDZhghFUXGV0kFDUmkj9bfojaOG795S9lVE5rBHmgW90Poy9IE6b7I1BcUh+ccB28WWciPxbeaVkcP1REQBacrYxzbCaBBfPXpYxqoBHdirLgDaYcFjjCrds/UFYQmBz7MaSvAGNjYDBf24/PeMKpHzU56J479uCGqYs4FiTt6Gmla7MXUapNBvl0PYqNeX2AOlKGYXNedPxGBB5T19l4JKchVfB97yStJLUynfkA6OPIzU1zTiUX2RkD918jqlXUtlXgEnzDKRPUyOnxfc3W9SGq5AbMBN2efYGCp38VJJ8hzgHf/iOCJeQpD/UN58PD1zhLYlgFbbXuu+ZL1DfO1cekIt3NwBHv5A53MrrWWOlEdThN7/2RqbkHIBPbh6yzqoob2zcLDwcVpSRvSk3W0M5Dz4u2MMW6zcyiJ9QX3Ev4qehA+P/rIVsI80KWu39AFwDcfSk=",
+  "URL": "https://search.cpan.org/dist/iCal-Parser",
+  "LICENSE": "GPL",
+  "ARCH": "any",
+  "BUILDDATE": "1592755318",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "perl-freezethaw",
+    "perl-io-string",
+    "perl-datetime-format-ical",
+    "perl-text-vfile-asdata"
+  ]
+}

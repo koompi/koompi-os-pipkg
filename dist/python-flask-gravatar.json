@@ -1,0 +1,24 @@
+{
+  "FILENAME": "python-flask-gravatar-0.5.0-3-any.pkg.tar.xz",
+  "NAME": "python-flask-gravatar",
+  "BASE": "python-flask-gravatar",
+  "VERSION": "0.5.0-3",
+  "DESC": "Small and simple gravatar usage in Flask",
+  "CSIZE": "14940",
+  "ISIZE": "35787",
+  "MD5SUM": "20aa1d384aa0617c16ea72e2230d1d3d",
+  "SHA256SUM": "25028d7742504b272ab6ff9ffb23e5a5b496ed40d172e0fde3b97eac92812983",
+  "PGPSIG": "iQEzBAABCAAdFiEEhs/8qRjPOvRxR1iAUeixSKmZnDQFAl2/TBQACgkQUeixSKmZnDTNtAf/X4jjUNF/VUNsZzBDrV36cqi0EWysDie081PzkSPkQE4JXGRmfEkR/Zyt4X2oVGAOJgPtNXqev7K2OqOwCu3Jw9Q44sK3O7dgvZuGThkE2BAeLmHjZNP9/YZ1QSXT5OMQqRFsJVsNvU2o3oaXKze3V34YnVlnkpScTFi4Y6Hdo1vgqZ6y7ckUjrhjfgSekVhexoqexLhfc5NWM44tzCvX6TEb92UI+OqofvLy0raoO0dgs+2GGM/LCO3sk4bcLu4EPvFFRLPwiqGPIQUJS8tuMMFTP5R3iZkXIJ7CtO3N4uj09bDaBz4H7gXKk2Zty7Sfk5rJNbUhwf1V8lKPVEXfCg==",
+  "URL": "https://github.com/zzzsochi/Flask-Gravatar/",
+  "LICENSE": "BSD",
+  "ARCH": "any",
+  "BUILDDATE": "1572817909",
+  "PACKAGER": "Evangelos Foutras <evangelos@foutrelis.com>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "python",
+    "python-flask"
+  ]
+}

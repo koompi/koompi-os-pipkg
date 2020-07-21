@@ -1,0 +1,23 @@
+{
+  "FILENAME": "python-cypari2-2.1.1-3-x86_64.pkg.tar.zst",
+  "NAME": "python-cypari2",
+  "BASE": "cypari2",
+  "VERSION": "2.1.1-3",
+  "DESC": "Cython bindings for PARI",
+  "CSIZE": "1540763",
+  "ISIZE": "8204820",
+  "MD5SUM": "b9b374156cd551c06d8965d07f145c52",
+  "SHA256SUM": "bbae4e82def44344263e217212756f1da8a061b5951a0d99f213556b2528c5f4",
+  "PGPSIG": "iQEzBAABCAAdFiEEFRnVq6Zb9vwrc8dWek52CV2KUuQFAl4THgUACgkQek52CV2KUuQ5yQgAqn/w3nuguDjp1SvRi3tk2PChhgvlDggWrtWPePuHeY6zPvWusaYwv/xIrjI+reVT1TZRbPfVKy5Jf8uFlrj5EwT9A28gRbgsxZtACK4EWkwr0IreKLR249NRiGClub5U4OaRlzn9975uh9Hs6JZbNEfJ85rExVcRph2svLVg3rVyP24/2azOzn3uH0qXQvrt1YnKYleDV3ucXXmNnLqrqAwT9znwcPGfVizqh9ZmTQZNMmoDCB8mm0j7ZDHeUiMv9SRYbBR6O/NdQOP7LoA8OsUomVRFmFVCZnMcL+ukFZZJ4+TCx/Y8ALHJpzv9iFxB/Upgn7hW48HxXknGliEdNQ==",
+  "URL": "https://www.sagemath.org",
+  "LICENSE": "LGPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1578310885",
+  "PACKAGER": "Antonio Rojas <arojas@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "python-cysignals"
+  ]
+}

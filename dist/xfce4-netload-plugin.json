@@ -1,0 +1,23 @@
+{
+  "FILENAME": "xfce4-netload-plugin-1.3.2-2-x86_64.pkg.tar.zst",
+  "NAME": "xfce4-netload-plugin",
+  "BASE": "xfce4-netload-plugin",
+  "VERSION": "1.3.2-2",
+  "DESC": "A netload plugin for the Xfce panel",
+  "CSIZE": "53841",
+  "ISIZE": "203503",
+  "MD5SUM": "a0c3fc1d3089638c932e60cd998dcf1d",
+  "SHA256SUM": "82ae3cf2f8cc105f5cf9bb9440015a95bbdd15dc59013387c42d51bc932affb0",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl7DkX4ACgkQeGxj8zDXy5IlFw//c+1P8YpaSFZ+oXfVNkRk4O4ohLXV16IMjLyjBDWJExOhY0DYEh5gYmejqo77qBptD+24AeC1dWkFFYrvDFqRnfKSgdwqDNU3rK5hCblibFiG5AFgZM6pgjRS8rQ4mnKL8IYtiWzEMKXvqyliZznSiw7XVJzLXhVZys+iZ3KApvZ79/HNGY9Cb6YygKo1pvcGH6lhA8Fyd64chz2XuLmn/f0NQXjBL12Ds3lFZ2/CSpsssDQm8V//wLjQTQFPFulzvMXHzzDaHv0zm0cTh3pDFk21ts2PIVKp8p605BMZLva9vT+j6PFRPl6KnUM6J10jc2X2ihgAmYLMjrT2K1Dfij1w9eUBZTLISgpyX1tyKhpg6DVqjtGbuVnVPx7a5HcOtsAy7ykUWXTfetmxdQzomsvfpgxEDcbZvTP75+F1jufjTRrUhz3fwBfSS/yUlx/9Q1rOK/indWD7KkaPCDiRg7suShK57vF7XUgcaQkHLtzR+JrFr0RW4E/Gy/utTIfxyFK1fHUufoUS3Lec/IUaKfmdbHkrJ/BYb9sRZFEcIAKNnHi+iBeLm+Jzmp8zm1g3oLe3PCkIAmV3yKRRmAJP/mElZC1/hLIhhptCXL6m2hJwabmTyvc6CXTRpjS19cPO1eaKAJhy1eztfD8tfHvT7rO2IcmZCHBryw7zloTXH1Y=",
+  "URL": "https://docs.xfce.org/panel-plugins/xfce4-netload-plugin",
+  "LICENSE": "GPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1589875032",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "xfce4-panel"
+  ]
+}

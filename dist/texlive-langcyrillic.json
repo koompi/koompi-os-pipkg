@@ -1,0 +1,23 @@
+{
+  "FILENAME": "texlive-langcyrillic-2020.54594-1-any.pkg.tar.zst",
+  "NAME": "texlive-langcyrillic",
+  "BASE": "texlive-langcyrillic",
+  "VERSION": "2020.54594-1",
+  "DESC": "TeX Live - Fonts and macro packages to typeset Cyrillic texts",
+  "CSIZE": "2996211",
+  "ISIZE": "10235667",
+  "MD5SUM": "948dc0f123fc8e11efee4b8b4590869b",
+  "SHA256SUM": "683305b40a84c9436bdcb016fb1a562b1ac6f645ed10eb674fb1450ff1822e70",
+  "PGPSIG": "iQIzBAABCgAdFiEEROpirNvIG2oNH9JnIGy8iS0Uk9IFAl6FfuAACgkQIGy8iS0Uk9I2+Q//SFxWwWuVn5VnVVPa2w0cViROfSDugLj1scLi9ujPZ313BnxlF5vF6YaOf1gh3U++ukJ101m7hVUNdzswaZZfX8xhLcdTX/l0KaYUPwrS0Z21dtPPZuW/fQJzgVAbwfzY03/F2a5FTkba+cz2XNVc7djn8nSHnIGyR1E3bOnW8MBlZ9v7d3r2eEF6tN8u8rBaqaC82wgmGsutJA2ABtV5xX6gMN8bTtWlnV7RQhuZijYKOaXl2S5GeK/Tl3uWIFK/qGf6CBJ6IwzVgX1KcVa6qGioleB1sUNtQCkUBDA0Ta/wkPcHdw8fViapL3cWBzMtczvtlu0SWy9e7zyGFCc/rlLIy+xxVCW5fQ7X6HoRifBalim7j9B4xrW+V+kdKZCTRn84zZoGD8necMi9yKPnnjwweQFi/fB5aXge8ZbTqIWsxp890FLD5M5LYaT3L25MQwXyEyNE6ReoUesVmHafHIr5WI5087nxcDi1AcR2EPX5aT5zowG+PyYGN9i+WpkIfUcCz+XNgOg8U3Up/D8TeqBjUvuRCvDO37iYtlIKnV9rYCvFnOW6y4s/2uMwrtyBKHCRDkJHyJgRwb8jB0qlYONlw0eQeSgvaHJuslsGlJC6nxtgBcAo+q+c13IBSd15vsWPle/b0QkdK8eS7Fzvo6EBirjtlSIBN0RUNhJ4GfE=",
+  "URL": "http://tug.org/texlive/",
+  "LICENSE": "GPL",
+  "ARCH": "any",
+  "BUILDDATE": "1585638109",
+  "PACKAGER": "Rémy Oudompheng <remy@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "texlive-core"
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "FILENAME": "openapi-generator-4.3.1-1-any.pkg.tar.zst",
+  "NAME": "openapi-generator",
+  "BASE": "openapi-generator",
+  "VERSION": "4.3.1-1",
+  "DESC": "Generation of API client libraries, server stubs, documentation and configuration",
+  "CSIZE": "20865091",
+  "ISIZE": "24022945",
+  "MD5SUM": "9f740baa87942ee34b07846053c4389b",
+  "SHA256SUM": "41b255ad7da2827302ee34b5ef6d918f1fd03985b2631beac1120eb9540bc851",
+  "PGPSIG": "iHUEABYIAB0WIQTH54SUZv4jWDQ1iDdyWHNLQcMVSQUCXunoPAAKCRByWHNLQcMVSUGlAP9RbeTJkUa4viKa0hDLawf3LPbVPnX/u/aAWJ1UWjgYagEA3+3NNIaLWd/Mlef4vKciQKT1gZnwPtIldzEYvwto9AM=",
+  "URL": "https://github.com/openapitools/openapi-generator/",
+  "LICENSE": "Apache",
+  "ARCH": "any",
+  "BUILDDATE": "1592385977",
+  "PACKAGER": "David Runge <dvzrv@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "bash",
+    "java-runtime=8"
+  ]
+}

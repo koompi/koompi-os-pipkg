@@ -1,0 +1,23 @@
+{
+  "FILENAME": "lib32-libthai-0.1.28-1-x86_64.pkg.tar.xz",
+  "NAME": "lib32-libthai",
+  "BASE": "lib32-libthai",
+  "VERSION": "0.1.28-1",
+  "DESC": "Thai language support routines",
+  "CSIZE": "16768",
+  "ISIZE": "61440",
+  "MD5SUM": "6ed225f61f17378683b3d329c826bf53",
+  "SHA256SUM": "3b95b605ba12cb19713e892d6fd9be66d6eccfc84c49ce31ef3d1cfef264c9f2",
+  "PGPSIG": "iQEzBAABCAAdFiEElDfdOBWnqRaePTlGr/XZUJi8b/UFAlvwPmYACgkQr/XZUJi8b/WiUgf/emb21SBxRjjEy5qIfLB8xK61VlQvI6PEotgOMINw/E8HZB8A0btURb6h9QLAtPqF5375KLoXxAA6b8wtgWhaBilzCpNjaoaL2+5Yow2N2DeoYrdLPl9e4LM6eeYQRHG+c1fmLSyZpZ74aeZ5I9qLvnGQMYMv+eqX6AN9SZS9zHyzvmqvN+kuj2hEETK2F4+V9XlVs0jnse7FYt4Udh3WWIg1VazoKGOL6iZXuNMRx+7tP13C5HhxZjTqJdci+MHNpuf9YqDxngk6m+CFTFpMIzYwB+McKFLZGXhWdDVolQAeMPBZeIrpKG1ad7JTkK8OCiUHXR77BloiGSDW8N7VLA==",
+  "URL": "https://linux.thai.net/projects/libthai",
+  "LICENSE": "LGPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1542471223",
+  "PACKAGER": "Maxime Gauduin <alucryd@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "lib32-libdatrie"
+  ]
+}

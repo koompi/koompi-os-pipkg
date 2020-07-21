@@ -1,0 +1,23 @@
+{
+  "FILENAME": "python-raven-6.10.0-5-any.pkg.tar.zst",
+  "NAME": "python-raven",
+  "BASE": "python-raven",
+  "VERSION": "6.10.0-5",
+  "DESC": "Python client for Sentry",
+  "CSIZE": "331838",
+  "ISIZE": "1109732",
+  "MD5SUM": "88261e63081a92b24dd9cf1d2d52c9e4",
+  "SHA256SUM": "d99a7e7180caa4090790169ab53113b594b8fcf6a945fa64f83c7c5dadecc7d5",
+  "PGPSIG": "iQEzBAABCAAdFiEE5JnHn1PJalTlcv7hwGCGM3xQdz4FAl67ELcACgkQwGCGM3xQdz6f2wf/eEXDEDKJgKhDoit22M4dtpbEP70LgAnfbD+kA2WhuT3oGkR/K2ZTyJp519UmUEY2IqgOUWD8tpk+T8vNj+37kp3n8hNhehDlJi6fju8UXDQi3gapxZO4w8Td6PVC76sMA+trFrcASFrbaZ9pszVChlW1h+gf/F3Rb8qGyLqWaJyAwcxXpdWmcwe4MRKNMC7YM2vp3+uFxOT7y4bCT8F0njZzH0Ywwd4BdeqpEnCPF4MA7t/euXTiwEUQ3sBQ6HwuCB0L2MbsP6IcaQLmE8dGX52iNyjfs/py+CcibgwdcVGSO0L4DZaJmMBO8hCicRAqO/iLdGw3UMaOnxNuxjyPtw==",
+  "URL": "https://pypi.python.org/pypi/raven",
+  "LICENSE": "BSD",
+  "ARCH": "any",
+  "BUILDDATE": "1589317770",
+  "PACKAGER": "Jelle van der Waa <jelle@vdwaa.nl>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "python"
+  ]
+}

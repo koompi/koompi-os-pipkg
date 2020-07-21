@@ -1,0 +1,23 @@
+{
+  "FILENAME": "thunderbird-i18n-sq-68.10.0-1-any.pkg.tar.zst",
+  "NAME": "thunderbird-i18n-sq",
+  "BASE": "thunderbird-i18n",
+  "VERSION": "68.10.0-1",
+  "DESC": "Albanian language pack for Thunderbird",
+  "CSIZE": "536176",
+  "ISIZE": "598900",
+  "MD5SUM": "4ddd01762d18117dc923ca535e78c7ca",
+  "SHA256SUM": "5223bc44976263214a731607ee1df45f25775bd1cf24e2487338c9620a4bcb6b",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl78eGcACgkQeGxj8zDXy5L88Q//S1GYvqrb2T9zByMdRl7Gt9YYBT/AQO/+HxFnWgOa+9GPMzd5I0Ue3furuKEL96aVjEE9Nr+SwTKqK2mJpCS2H3y+oK9LeqQP3DxYU7rrdOYEPG+0BHCOPW25elmD9ECQqVN9t6jRHDShsifQPUGN12qwi22BUq7XjTjmYjJyEs9IIyg0bj+8bSfYBp1ZebYn5nqryeV/J4fxIpRYEdW5vHVHQoLh8DtaEt/PfWyau9wgXCrBTh3MsuclJEG3VUaVKQiw0yflUbtYX9RtPoMEMX+E+70r3yfJVAqPJClOiLxk7cTuALR/8sW9zsfbWcCJoPHyz3rQhbgpvzPjEyLzEhz0peGmHsqf6Oyc6RlDq3f0BfC96EhwxSZX3A3AI4IrgT1foyge5pEjhTAjq5WJ1PcJfg8vrL2RZqtAChSeqwmBLUGJNx3kiKkXGmTLCQJ5HU4ma0if0rQQy52O10C+/TsUX9TQs5o7fntL/ZPMYx/QJ2IKrKJQ7GbMZs11SISetKmsqOiuhE6PE9bgnc0ImweMuf+/0ItT9U6rnjbqsxH3gBtbFH4/MvyTtRPNUo+3Me4EHqoJYjIrhzPrwGAvBoQOqLVB5xl5yiCc6hFkA0lZTme/MeSt4c2TMAPPhGbFxjjJXBhl6KBgAG+F2HKG+GetKCqxNz31gpHJwzhNzoc=",
+  "URL": "https://www.mozilla.org/thunderbird",
+  "LICENSE": "MPL",
+  "ARCH": "any",
+  "BUILDDATE": "1593603702",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "thunderbird>=68.10.0"
+  ]
+}

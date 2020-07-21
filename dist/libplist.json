@@ -1,0 +1,23 @@
+{
+  "FILENAME": "libplist-2.2.0-1-x86_64.pkg.tar.zst",
+  "NAME": "libplist",
+  "BASE": "libplist",
+  "VERSION": "2.2.0-1",
+  "DESC": "A library to handle Apple Property List format whereas it's binary or XML",
+  "CSIZE": "132131",
+  "ISIZE": "431797",
+  "MD5SUM": "7eac9f38edaaadb420b77403546a7d67",
+  "SHA256SUM": "6b1eefea05116c280befa9ccee8b5f67bb10a5d229c14daf50fbcef49ff583ad",
+  "PGPSIG": "iQEzBAABCAAdFiEEFRnVq6Zb9vwrc8dWek52CV2KUuQFAl7pyDIACgkQek52CV2KUuREXwf/Z6Lm5xb1siS3KyK9C1+3M+UjmTrjOVT7oFthoG8FT1frtJgqo8P7YCov0J4AzEGC1VCVxvfpEASrRgPB+oPPzqpybcDXhRUPycEjrB5gexb9JT6LrgqughmDi+K2R9/0fd/86V8z7bIb8yi0/10iZjAnG3aqJcKCx+hY2UWt4BF5DbvPRbPNWg52QnqTuTIazPY6DgKyV64HEYvqCfcl5CxhaKcVFVO6epsMNA+8fxFJKz3SmldVLKDOyL/sjx2Oaj/WiYFK4aRBOE4uLqMW4y/Euf+trrvioFR7H0ihVn12HNzAf1xC8QcQYJxNmHBGKYX89er2HoXpz1hCKJ09Yw==",
+  "URL": "https://libimobiledevice.org/",
+  "LICENSE": "GPL2",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1592379183",
+  "PACKAGER": "Antonio Rojas <arojas@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "glib2"
+  ]
+}

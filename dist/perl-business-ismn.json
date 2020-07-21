@@ -1,0 +1,24 @@
+{
+  "FILENAME": "perl-business-ismn-1.201-4-any.pkg.tar.zst",
+  "NAME": "perl-business-ismn",
+  "BASE": "perl-business-ismn",
+  "VERSION": "1.201-4",
+  "DESC": "Perl package to work with International Standard Music Numbers",
+  "CSIZE": "14425",
+  "ISIZE": "22471",
+  "MD5SUM": "f7f0afd766c30d8bcd60926d4a360235",
+  "SHA256SUM": "0734d87708c457df19511fbd484c3b75cd604b494622fb39345d5a0e9f72d730",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl7vPGYACgkQeGxj8zDXy5L1nw/8CxZmvIJSBldBOes+0Qgg7KcMgQWYW1HTc42fpgtwhEoERw3ge0sYyCXPigsrmtfCJvftdWCkDjhw1NeSgVvwzVDU7mcC1ybqHt/1yksedjVWm5Jcz25RXdcJbsazxBxBFP8X84SE2dy++QvMkn8njzTbKmjl/y19ms62yEMPhvylDn/0ELZF2YZ2pWXtMEpkO2zKs9gnhDHM9V65cJrOqFSVqOVSS5DEex9Cl/+kvZyjKs8+FVQf+WEfPcS5px79m8lvR6EbhhiX10ZZfH1c6PnFGdC6zFI7RX7Gm3Q6ulEdyOShmBNYaCjFilvFW8i2yWX/2GO+HjS9AuRmYrTkNoPpvFxnbXt6uXdZxPRoHozSfWP5c3/BgfWW1DEODXM9eveUPLXgD1fS0ncXuDBXo5Mtz2igx1uZBDGPHEP5hWhf/EElr3TACAtkKc4RAR7zQf5aX8lBkIIOVrUF9+vm5EtkFeLhItirk4MNPYKvgYAJvY9nIUH2pdojkrvLbRco2UviAz/ZwbQ9dkzdPNcjGmPJKoavGftl5i3WKFq1Pzv9PO0w024qcCGZX4xEVKCWJ5K+ZhjsIYveFWvus+gkgMc+LtRjZgbnpBQMBjogdjwP1MPtlOlcJJR7cwunYWFfhOvjFz2JgbT29AS9JHBxuexOSCCehl7KgJdlo54Cmpk=",
+  "URL": "https://metacpan.org/release/Business-ISMN",
+  "LICENSE": "Artistic2.0",
+  "ARCH": "any",
+  "BUILDDATE": "1592736839",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "perl",
+    "perl-tie-cycle>=1.21"
+  ]
+}

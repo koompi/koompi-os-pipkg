@@ -1,0 +1,24 @@
+{
+  "FILENAME": "lib32-libdv-1.0.0-5-x86_64.pkg.tar.xz",
+  "NAME": "lib32-libdv",
+  "BASE": "lib32-libdv",
+  "VERSION": "1.0.0-5",
+  "DESC": "The Quasar DV codec (libdv) is a software codec for DV video (32-bit)",
+  "CSIZE": "50524",
+  "ISIZE": "126976",
+  "MD5SUM": "9eeeddec0717aa07353cda6d6a2d82ae",
+  "SHA256SUM": "770616c77d5ae5c24347dd4be07e550a3ef7e131e92b4df2272756350db10c0b",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAlvmAAMACgkQeGxj8zDXy5JDBg//egYJo6zN3ZY/cAa0CoIUITij8NxWAS2Ga4v73W8LvFCjRdTwdmLP5MYA/IBR8EfRtItlrpPdJmxljVt4z6VsZ3AG7XkGBc1ZLYK4pWoHj0lLWC5d6Ky9c57XvcR8zBBaR8jhM/I8Q9f1YAUHuBoIAot0sW82tBQZWuSGZUpfVeqy9Yx/kP4v2nPiSAawDN9ApsnxlAlR/lI7/s5ZbJNK9dOYSnL40QJw8VSN0HchJsGfAaQBxufWNhlH+uVOAVDZ/4mtO/MtEBfdszYRmFoidsDfjvxfFddQWiejxQtKgF4wtiSZcacf+L+iRalx7dXiykH+PxfcCo98wkLP+6P+n+tEWH1w+ueQ3kJvd2EGZWi6ImB4BPKpX5ycgPrZWdnPoz7RIMqQMYY5VWCw8v+WRe7gehzGyOYwlnOFPQOdRmJyY8R5jETWuSF2WDZFf7x/b3g6glJcq++ZEsmKapvGwLJS8B89PKFn8TnD6lIOZRz3z+YqThrgQ6ngOgGBe0fbH+UQIBWnfhKIbJiYEIl2FdeLYTkEqzm9x//8D6NXw0JU/7snaMY5XYrfFEF/UZS4Ej47EJbvmGTVnKR6qQk85J/v++8yaqHX0YwTWxF8ntYhICupw0vcfc+RiFnM49f79zx+rEL5YBwFAZE+8ownNQ6arteuub4P0XJevFVieBo=",
+  "URL": "http://libdv.sourceforge.net/",
+  "LICENSE": "LGPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1541799909",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "libdv",
+    "lib32-popt"
+  ]
+}

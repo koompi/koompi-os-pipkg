@@ -1,0 +1,23 @@
+{
+  "FILENAME": "yaegi-0.8.10-1-x86_64.pkg.tar.zst",
+  "NAME": "yaegi",
+  "BASE": "yaegi",
+  "VERSION": "0.8.10-1",
+  "DESC": "Yet another Elegant Go Interpreter",
+  "CSIZE": "6212905",
+  "ISIZE": "23231600",
+  "MD5SUM": "25d2e94661e70207dee04e044e5aefcf",
+  "SHA256SUM": "ecde3731a6ffd8838f90c5b5a7897659772262e6e70ddf28b60be0e0d17b470f",
+  "PGPSIG": "iQIzBAABCgAdFiEEba97gI+d8lE5YgAA0hRh49/iBg0FAl7+W2UACgkQ0hRh49/iBg0+MhAAtqSOYBqAr++9nwZI8HVqFszTvP6aON1swEJ9K4Oj0KCKufJm7YwFAjvPX0cLuSa080HgSHA+lUmTdQT+GJatNyN9TEFrcI29N+o894FIkCvoaleu1qrpsUsP3u9yXVN/YkqzdtQYLFwXRkdzeSeO7apoHjcJst4Ecz0Zj60uIrNsEIcKkq1dUCP25cIogTfnos90xNGJPTxIbJ3S9TfeaK2rtIaWWPdIWSzjNgM3ag0qLJnclxQBKPSwl1UZi6BKMZF2SiIC+XoVQJgNRNS+zW7NNfeh/QxyJgOf+e7zv77fPhSUqPuZTIREpLx2Qyz7y1bplfKbZWeSFeIg35s0/1KgpGKjdp3denVC+EfQPqN7COIUjPx0E46SONCVxTrlMUFpzjMEm3FR8KIEKafV2JFZ1+0A/8xRPS3yuaLUoVTIEHmKzcV7icNPrMpeoHz7DqCwS6rOVv1X0dk8SxI5pJwG0uLryvsBH9kB4BZ4FEvNQrBHzr38prbvHy+ZgTXPWpndJxcSjzc0RR7luCOkgexQZxbwYRQ+drtmjUfzpecnnFkoCr+42W8nkUN1wp4STNEQ2vdM7Imj8rABQWIYVBB7cS50YzQpOms5aJmGcx4O6RzFychkachEs9g10m6H9HYKPRK2lBg2bluHNCElJ+s69qZjYKe+q54M9Px2L70=",
+  "URL": "https://github.com/containous/yaegi",
+  "LICENSE": "Apache",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1593727734",
+  "PACKAGER": "Christian Rebischke <Chris.Rebischke@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "glibc"
+  ]
+}

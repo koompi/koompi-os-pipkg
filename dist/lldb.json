@@ -1,0 +1,26 @@
+{
+  "FILENAME": "lldb-10.0.0-2-x86_64.pkg.tar.zst",
+  "NAME": "lldb",
+  "BASE": "lldb",
+  "VERSION": "10.0.0-2",
+  "DESC": "Next generation, high-performance debugger",
+  "CSIZE": "5937541",
+  "ISIZE": "27483494",
+  "MD5SUM": "c8d0ce0064f5f813f9ae47c9adae6f98",
+  "SHA256SUM": "b3dafaeec159e469efe3dab8236736d688771af9ad132d368bb4fdf786fe255c",
+  "PGPSIG": "iQEzBAABCAAdFiEEhs/8qRjPOvRxR1iAUeixSKmZnDQFAl6TfwIACgkQUeixSKmZnDQTmggAs8jV9s+toKZaFcDC9+4ubxk46izAu2UtHo99xe4aL/hdFqlM3Cux6RDLMV3TeqDo4ooDdavRNwDW2f5g+jtlv4cDodHnhfTRtMYzMo2x7E6BRYE35reI4Wxtojuq6adnzh9ahnziTLTj5bB3g7B/2jUsZ4cCv6yOKIETxQO/tYzggRriAzGpqfOayIuXVLXVme0zCTqThUOi+cgCJXtG/2WTuZL3xini+Gf7xXedSQxdzLtGFxQ2LfKZlT9fDnRhGc6oeFXWJVFp4dkn/R6glr5JYQGWgtnIX+v6kkwpMXIKl0VOIDLECrLBgF9T0q/cM9bHH2sUyB3FD5BIxOgiJQ==",
+  "URL": "https://lldb.llvm.org/",
+  "LICENSE": "custom:Apache 2.0 with LLVM Exception",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1586724203",
+  "PACKAGER": "Evangelos Foutras <evangelos@foutrelis.com>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "llvm-libs",
+    "clang",
+    "python",
+    "python-six"
+  ]
+}

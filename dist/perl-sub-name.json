@@ -1,0 +1,23 @@
+{
+  "FILENAME": "perl-sub-name-0.26-2-x86_64.pkg.tar.zst",
+  "NAME": "perl-sub-name",
+  "BASE": "perl-sub-name",
+  "VERSION": "0.26-2",
+  "DESC": "(re)name a sub",
+  "CSIZE": "10724",
+  "ISIZE": "23140",
+  "MD5SUM": "3146e4ec5dbc2f4eeeade145fa1f3a4a",
+  "SHA256SUM": "45f694580005f95a06bee90228fa6c3636ece0d075e4408ac5f0cf7e80ba20a7",
+  "PGPSIG": "iQEzBAABCAAdFiEEhs/8qRjPOvRxR1iAUeixSKmZnDQFAl7vM10ACgkQUeixSKmZnDTSMAf/TNCGCwd8cNWKCWT4cSIUeJO83LVNalQyN2Ox0rEjAt4W63vOfJzVG40NhxXRdPBgbnc0VOPYS8cSwgLYeNO/eHAYWuH1o6CgyrKIMMUffM1icntRk+7Y08+sFasUyk04SXiiyWqP6edTPFP2Pvz3DHMlDPqDjYVZcrVeGQt2h9aHNFeg4v6C4rNcBmikkd73/BPEyf/0Ii/Fn2E7JkIkMia5JdKpTDUN2Ao4e1/kqm/bgfPxXDr1oIXW8ejSyCNklz+DNvEDTva8TYVv7kEitZKJTNt+iLsRBIinVuHveRLKXsp3KhY61cD/aQSWWC++8G+ed6PNxXPgr3TFTQpFDw==",
+  "URL": "https://search.cpan.org/dist/Sub-Name",
+  "LICENSE": "PerlArtistic",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1592734541",
+  "PACKAGER": "Evangelos Foutras <foutrelis@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "perl"
+  ]
+}

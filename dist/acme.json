@@ -1,0 +1,23 @@
+{
+  "FILENAME": "acme-2019.08.19-2-x86_64.pkg.tar.zst",
+  "NAME": "acme",
+  "BASE": "acme",
+  "VERSION": "2019.08.19-2",
+  "DESC": "Assembler for the 6502, 6510, 65c02 and 65816 processors",
+  "CSIZE": "79022",
+  "ISIZE": "244507",
+  "MD5SUM": "fa4715c6a5b8e32632878cc466cd2d08",
+  "SHA256SUM": "5525bb902b61688fd89b9a15a1107ded34c2e03c6bfce8367d5fc14f88c51375",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl8EsJoACgkQeGxj8zDXy5IZyw//YoJm2Yup83q+PKI25VcfYEnZK2+jh6zrtcq3GS4/u485h1WP2iZnDT1o55CyEz71aYq05cmwUApbB0fZruGU/sbyD0rR9yb6ujzvGAWCtNob8ZgWSUYcF1D2eHXvvRs1FSyvard+wASS2SvbsLsRNno+HQUDc+EA3hAOUMpD2/dl+lP9jaAexMBGHbE8z1lkSY8NJawYmzztll88yGtl+nXC7pjNnl5EypdOfxrs3i26S2k3Ik8yXTV1myW2Yb0gVYrkhSLTekdxGTejolCaxDXxQNxjtB+mgvbMZ8Clot0xlSe38kJaCKUGTNfzeR4VJjSFngmDM0I7OtZ0qTYxDUNdcU8dKHOcXhL2WRwV+ZTN0r+/G5Bemv2Ac0cJRmrf4ke5uU7LIpO3wcBv0CFWZPIcywuEJuYrxPqRizKv/M8/zdhQ9jexKCnOXtRjNxDi38QzB5zjkpYNHTKqnaDEap3X1FSIZo2S5TQRCS6CL1eP6htgmJe74VkpSd+Z0bSkzQ+rsT8x6zybBtyqmgBAnZosIFC6kzWlVLwMKdqfpKbsdeD+mt0vz6YvjcOtHvsW420Q137ycUlUuUJ3+aMibny/drLTlwAdX+bum9xJ5ulxoQYIIZ53/LzQPAqtFplI6mhDRWi1KH4fwPlixgwPDutxaIA0ihQt+UMKPYuhB6Y=",
+  "URL": "https://github.com/meonwax/acme",
+  "LICENSE": "GPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1594142827",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    ""
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "FILENAME": "python-engineio-3.11.2-1-any.pkg.tar.zst",
+  "NAME": "python-engineio",
+  "BASE": "python-engineio",
+  "VERSION": "3.11.2-1",
+  "DESC": "Python implementation of the Engine.IO realtime server",
+  "CSIZE": "87855",
+  "ISIZE": "477564",
+  "MD5SUM": "d7671608b98d67e13f3e13ea3a4fb184",
+  "SHA256SUM": "8629a49e98ec754f48acc5437feee54082bc5588a26d6319c605e2dee91938a5",
+  "PGPSIG": "iQIzBAABCgAdFiEE4kC1fixGMLp2ji8m/BtUfI2BcsgFAl4jVgUACgkQ/BtUfI2BcsghMRAAudYaWMoMweWnKCXsZ32DlBn0pw59lVk7VJMM+IBMCYnzA9rcxax871KS4hkhJM3r2EcClHopzsC5SongOXPbYy3rFUjyUf1fSvTM1B7sUq9XT/IdNnUvAtUaiPOAyELJPlKgdZSYEBJgZltE8Hwo36wzB5NmCeXtG23CBcfiYWYkFsfVKrmyR62Sd+aja1mbB9xkIQq/zxqED98rcn5Qe2lT7KACt+BdLntFoQXk5WtcnrnXfHgKJPsiyHVNOsGL2S6H/VV5Jp478etNIef0M3M4BPzS7yVrqBPq0OkcuTZLOyK2Bde2ZJmpFqts2ALIf1SvWzGPEMejeDEwFOkvU4zlXpEsDxN3NbiGfbZ7HgMjYsqY1AjtDMD/a+QxF1FnxqcW1iaOyf1Iz3VLMt1oPWbl+OHyhBw52WfZ+uElRqvk+teW+L/rq7BwX2o97RwGn6pX3CK1FlPxU8hl//CG/ltzLm/Kj6lToPB5LeARilIKX5sNN9mNZhdMgIZchthpfJfXtmzg1KyBDmW9JyOMOOoVsMukq+BpISZdzcuNrFN/zfcKq2rOD6eyYvhujz+I4eeUa+rekTjtesSO/rYs2CvXNse9Sd+ETLufeZkEgXmhmCUOWRH1tU/GxvEtXBxVctPdOrgLo0O5NX1zpeXJUQQwo3t+/3FELz+Ci3gEEzw=",
+  "URL": "https://github.com/miguelgrinberg/python-engineio",
+  "LICENSE": "MIT",
+  "ARCH": "any",
+  "BUILDDATE": "1579374060",
+  "PACKAGER": "Levente Polyak <anthraxx@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "python-six",
+    "python-urllib3",
+    "python-websocket-client",
+    "python-websockets"
+  ]
+}

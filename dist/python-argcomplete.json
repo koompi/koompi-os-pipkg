@@ -1,0 +1,23 @@
+{
+  "FILENAME": "python-argcomplete-1.11.1-1-any.pkg.tar.zst",
+  "NAME": "python-argcomplete",
+  "BASE": "python-argcomplete",
+  "VERSION": "1.11.1-1",
+  "DESC": "Easy, extensible command line tab completion of arguments for your Python script",
+  "CSIZE": "47815",
+  "ISIZE": "201527",
+  "MD5SUM": "32402cdd34645fb1cba5f2cc4705f345",
+  "SHA256SUM": "582a6b64641a55d867daff5d3cbd9d47a723c680e8194dee32d6c24cee409341",
+  "PGPSIG": "iQIzBAABCgAdFiEE4kC1fixGMLp2ji8m/BtUfI2BcsgFAl4+mjoACgkQ/BtUfI2Bcsi8HA/+IzpwNz5iZtj3GUiVMdJ2uFLvcwMOoGt26DgMI1IbmdlhxBoUg01zMFmhEjHZ5Bt5DS9KTJMg4CLHYmL9F5FxmyJHXM5CQ5BQkcZ81G1V7trBegb0uBR8SkgLG5yiNwvBE4MZP/s4xq+cqU9nrXLb4WsOOWwCN2E0uoAAwivskv/gNaRn2CLk/X36gIJUwud/c3g3jJbOHTFgtaZdyKd/jMwOFJoCGnzAPZ6pl1bcIMB0HuSrUXhEH2Qv8urrvwH6J78oEG+Pxn1zfM3Mh/GLyyQfPolsWCkondz68k40/QgdVTiHV2TtcWpZqe4d0k2ZVCK0VreL4ysJdlB6JWBeD8UV+avINLWmr56nybfiSFb/TZqFwZ7v1f8XyTcYhZ1dFiPAE6g4tKQtarHCG8jnGLzHT/jTW/uxunLIQm4uBmw7E42R5602TcsDnQTK4m71nxvB8hkjHngICImGvFM782vxskx3BxmLfvgC6DnakZgqhyq8+kSim0gAZaZQ0NPA4N3hRaNY0IFBYsMtVjKnPayM0KJ/If+mjEnUrA+CpyvRg04LMPvENrxLIdqwclseawacIxvwo4VMjw7B173wkBEPToEzzgVumRR6kFZhx3DY5b0hl1fGzN7ZcMhwXHCbEqIRB7VgVsY7yGqKhaqx9cii5yIvANTbPA3AUT/x2AU=",
+  "URL": "https://github.com/kislyuk/argcomplete",
+  "LICENSE": "Apache",
+  "ARCH": "any",
+  "BUILDDATE": "1581160825",
+  "PACKAGER": "Levente Polyak <anthraxx@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "python"
+  ]
+}

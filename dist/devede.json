@@ -1,0 +1,30 @@
+{
+  "FILENAME": "devede-4.16.0-1-any.pkg.tar.xz",
+  "NAME": "devede",
+  "BASE": "devede",
+  "VERSION": "4.16.0-1",
+  "DESC": "Program to create VideoDVDs and CDs",
+  "CSIZE": "1630092",
+  "ISIZE": "3042338",
+  "MD5SUM": "32ab861adc4f5d8489aabf51c07d56ac",
+  "SHA256SUM": "55dab2de77ecc8028ef60cf90251e2cf298552bbccc776da4eebd2c7e21b0906",
+  "PGPSIG": "iQEzBAABCAAdFiEEFRnVq6Zb9vwrc8dWek52CV2KUuQFAl3gCOMACgkQek52CV2KUuRx6Af/am7SGuoXd22utfo9K0Y+YuETK1Vg/94yXnK+ZB3M9uXZDkF3k4GX73BK8NMS3z2Ynj6QTUQVJbocaAEEHXf0v3tSM1O0hdYofJ3CavUdgqR7soBeDA/WxDICvMY8eGFKlOyB9bu7yezyczaE8bEODHt0d7vbE5UoJnCM4zaHv2zf/GrGXM4HwfaOrFUrKo+YDOt4LAJO0FSfSVbJ96tGKHbmUFJ3jIYI3BRDqQaxFjlqf8hg0oPf5ILRm/DPBjAVSBqbEbVdgtATvc+gRr5STn2bbaxaHpgzN7esTf4TS60qgT0Ojlgc0tNqdPBC+b2yzguz/+kbK1kc8Ssl8VNgNg==",
+  "URL": "https://rastersoft.com/programas/devede.html",
+  "LICENSE": "GPL3",
+  "ARCH": "any",
+  "BUILDDATE": "1574963359",
+  "PACKAGER": "Antonio Rojas <arojas@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "gtk3",
+    "python-cairo",
+    "python-gobject",
+    "python-setuptools",
+    "ffmpeg",
+    "cdrtools",
+    "dvdauthor",
+    "vcdimager"
+  ]
+}

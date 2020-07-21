@@ -1,0 +1,30 @@
+{
+  "FILENAME": "haskell-yesod-persistent-1.6.0.4-150-x86_64.pkg.tar.zst",
+  "NAME": "haskell-yesod-persistent",
+  "BASE": "haskell-yesod-persistent",
+  "VERSION": "1.6.0.4-150",
+  "DESC": "Some helpers for using Persistent from Yesod.",
+  "CSIZE": "31588",
+  "ISIZE": "109604",
+  "MD5SUM": "c99f9d7360b76dd7dfe36da350217196",
+  "SHA256SUM": "b95f8ff5d5b2d4b1655d29ae3adc07d698468af5c0545856a3fbf460f87504c2",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl7590MACgkQeGxj8zDXy5IrnhAAiIs9sr/QCCmB0lTn+in/58OcUQB/NCKvNtjwBjPR7bCcOzCm8ffaTKnvVEAGmR2L8+788ktciMRDiwT2Y4lOC6xEi8AOzshiote+cIoJOIDPSY/BFnJfxVU5tBpFACMOnGV7PD7ym5wLgJ4au0R3fcz5HDZ18pGVvEeWXOB/dUqWaM59b2dRN4AIrJbgF0+Ur71lRTHgQvVIE56E0cdswzMZTcnzkJ82I6Za8bEHpDMwd/uHBTyZyReXxzZI8h02BMQ+F7qyF/cmRiVnA7Vr5masFKV1lJT/s4YLe/PBNptf0doHlvRw+yRYO/sSqxzyoLWKjRA/cTkC9MrqPd8lvPd1KKPT/4k5NNwOaF1+pnibvB/J8y2vH874/U1pPMPYa7etK8YaUI/CFrw5a5SLh0KFeOx3a7uyGk1UOOCuzJ0azFH2NrReQTrMTbdLanNmH7FDObEN/sIj9SeOKFV1G0NkXvGNSqEY7ZHIawGhWUNYpTT1S8nFQbhrFfEIxFvRFBDUO8Oe/1hGrAdUHraxfZ+kPjkJJj9CSFBqeQWNCXO5OKun+p6iaxvNiQsuYZUmEijOYx7yf+kZ5XHzWV5fzzsAglJ+ZtUATLkYsE8KYhS2BdvkfAKTnn8+0AA4XryuH1VXGdrqAHfMpbeemBcF3rTP9p3RH4C8RvHOvSo2ofk=",
+  "URL": "http://www.yesodweb.com/",
+  "LICENSE": "MIT",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1593440029",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "ghc-libs",
+    "haskell-blaze-builder",
+    "haskell-conduit",
+    "haskell-persistent",
+    "haskell-persistent-template",
+    "haskell-resource-pool",
+    "haskell-resourcet",
+    "haskell-yesod-core"
+  ]
+}

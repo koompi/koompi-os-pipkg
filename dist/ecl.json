@@ -1,0 +1,25 @@
+{
+  "FILENAME": "ecl-20.4.24-2-x86_64.pkg.tar.zst",
+  "NAME": "ecl",
+  "BASE": "ecl",
+  "VERSION": "20.4.24-2",
+  "DESC": "Embeddable Common Lisp",
+  "CSIZE": "3061768",
+  "ISIZE": "15127595",
+  "MD5SUM": "a260afe7a134348cc0935465f8c4d9fe",
+  "SHA256SUM": "7ae6ea72992eaef40ba550a2f30a97d6e678774c666a788aa06337a4eee55b93",
+  "PGPSIG": "iQEzBAABCAAdFiEEFRnVq6Zb9vwrc8dWek52CV2KUuQFAl74aR4ACgkQek52CV2KUuRaFgf/b97X4Hf4zhREY3BFdARFG/R4lB3cuu4Ev+kLB7nfGI2FxaPeAdMlzn9DsyLfgG14Uc2+moEmppAIUzDY/o39HMyvJnz1XLSLMn1NojQCzSfaRqt3E0uQ5ThyxUM/0gFYeL2jeuhapUAa2XVpa0aor97OD+YZ+q7QGBvyqwpMF6czXojP7n3MWgXjB0ju32IewG9kY0vYKqh2f7/vSeQRGaYbiOn8z0VBWWzYRwpg5podtvRYa+95TZowLKHopAO3RYYSP7aXf5LOn4DvVmtYk7zOFuM9sq/tSUoDWFz6nEVXRpgQXvl0AvL/q97Ntizdkj7demE4lIPvfoDL7x4cJg==",
+  "URL": "https://common-lisp.net/project/ecl/",
+  "LICENSE": "LGPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1593337842",
+  "PACKAGER": "Antonio Rojas <arojas@archlinux.org>",
+  "PROVIDES": [
+    "common-lisp",
+    "cl-asdf"
+  ],
+  "DEPENDS": [
+    "bash",
+    "gmp"
+  ]
+}

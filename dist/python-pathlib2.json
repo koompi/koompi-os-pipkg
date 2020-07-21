@@ -1,0 +1,23 @@
+{
+  "FILENAME": "python-pathlib2-2.3.3-4-any.pkg.tar.xz",
+  "NAME": "python-pathlib2",
+  "BASE": "python-pathlib2",
+  "VERSION": "2.3.3-4",
+  "DESC": "Backport of pathlib aiming to support the full stdlib Python API.",
+  "CSIZE": "32088",
+  "ISIZE": "152348",
+  "MD5SUM": "73d70a30e1f62e73060eefdbda238ffc",
+  "SHA256SUM": "a4601aaafb6a58d083ff643b97a24e1c2d406c30ce4399b5c3e5cc63f3ed0c8d",
+  "PGPSIG": "iQEzBAABCAAdFiEEhs/8qRjPOvRxR1iAUeixSKmZnDQFAl27EZoACgkQUeixSKmZnDQRjwf/V1oiSNRutBRNwiEoFF54B9rV8O6noHKROfbVImGxW3pkqQqqwgRQ2YGlXAGUn+2OzrYyKF4SikDdSH55SsgQ5aOFrCqO8d8p3MdaXYZzgm3sQyF3j+IroFqWdPLIY+WpHoNUsT0R6zKa1UduUgoAmLIzl57DNLAD4IGUlIaaUvLruqBc4xcze/f7mLZgd5+odawjRlyNJrXlerYmxnUI4rzSyvikcuZbDCSSq9atybDyNTwhKfXIw+/D1R2j4SmA3YBF7qQ8CTFBXnbb6I5r7GHf/U2NlrzwIbulOFZ7dPGMb/Kokzmx1M8KYqFHpyNOBylNetAg/f1aI+OO5Pcztw==",
+  "URL": "https://github.com/mcmtroffaes/pathlib2",
+  "LICENSE": "MIT",
+  "ARCH": "any",
+  "BUILDDATE": "1572540795",
+  "PACKAGER": "Evangelos Foutras <evangelos@foutrelis.com>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "python-six"
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "FILENAME": "krita-4.3.0-1-x86_64.pkg.tar.zst",
+  "NAME": "krita",
+  "BASE": "krita",
+  "VERSION": "4.3.0-1",
+  "DESC": "Edit and paint images",
+  "CSIZE": "67997221",
+  "ISIZE": "190499513",
+  "MD5SUM": "1f61cbd3e029803b1d71a70af3f66d22",
+  "SHA256SUM": "35048d0a27ccfef6b3ab9dfa707398327c954c231164e218368d949a5bfaa50b",
+  "PGPSIG": "iQEzBAABCAAdFiEEFRnVq6Zb9vwrc8dWek52CV2KUuQFAl7qcbEACgkQek52CV2KUuTjKgf/S9FrONyQ+xg2QyYL47jvORh2c4hbuLjVoFEJWwRIUJ1BvW0AsAbMPTrq2xBzYYEYCWy+vnQdyGJN/imjvR3muy1g/9jIvyCUKJDnP0QMf2+kuAN0kr0GIL+ZHQY4tE4mc8SRb4MhOEIm4YONLwQQ6Jao2yreo6BAFwLKB7bh51/B/Fws3cN3KRVrfOHftmo597ElZv2d7FC5lm8Wq0XDWOnmTRKKgQCQzR90mViRZeeeI5zwUjGn7Rg/CDV6eTBWO2d9Gtfwt9Ts6ko4MV2ZRpKemC2bllyNVo+cT3v1PBpkVjP496hxjjsC8keLuuvshRGh+y8quNoc8DS6FVyviQ==",
+  "URL": "https://krita.org",
+  "LICENSE": "GPL3",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1592421980",
+  "PACKAGER": "Antonio Rojas <arojas@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "kitemviews",
+    "kitemmodels",
+    "ki18n",
+    "kcompletion",
+    "kguiaddons",
+    "kcrash",
+    "qt5-svg",
+    "qt5-multimedia",
+    "quazip",
+    "gsl",
+    "libraw",
+    "exiv2",
+    "openexr",
+    "fftw",
+    "boost-libs",
+    "giflib",
+    "openjpeg2",
+    "hicolor-icon-theme"
+  ]
+}

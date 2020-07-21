@@ -1,0 +1,23 @@
+{
+  "FILENAME": "ghex-3.18.4-2-x86_64.pkg.tar.zst",
+  "NAME": "ghex",
+  "BASE": "ghex",
+  "VERSION": "3.18.4-2",
+  "DESC": "A simple binary editor for the Gnome desktop",
+  "CSIZE": "1381274",
+  "ISIZE": "3498780",
+  "MD5SUM": "01fdb9a1396ae27d5e005f843114f92e",
+  "SHA256SUM": "52fde4c8dcde80e2caa12d2973d9ae901e9c948c88595ef022f992f652294afb",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl7Dl54ACgkQeGxj8zDXy5Io9w//aTuEjx7x1LQU2U0DNLmaeWQF6QkEyephIyF85hOysY1pW4w0uY+7u7uvw522aN8MlI3t6KSa6cv67A9I75F79toBzhPqnJvQXv3WLK5hQeiHiuKGym5xTj0Z2z7RD34CPmbSszEIzZBVXK7OIb0dJHv/joqDlVTMWUyW2yafHdNrbUfbnGe3gaeZA6nom4MkhU3Hhf/A7wergc8F0mL+giKleKm3J72ZDTye7qN5UIXmLp5SrTD2P7ElTfm7mOWX41L5uSoTW0AlHQ6WeJiyFURe4rmV8Sk2ONIUImhmHHNhJWWvcNbVhltPWA+Vr89j2sS9MZ2ZwHAV4chr2oW2SdgO5QbHGCY3YefG0Qx2e4cu2HnPD6E55yy+B6nomR1ONdYfa7+f7DgwmQbnvANtBa7l6PKNkC7YLq64TCAQ8Xhnu5J2W3toHBMJ2+0e+G6oJxCglXBQKPLZsQywFPfWzTLtHAGbNo7FR8YbyuEOw2rEzQqgblhs9DNNLTRVqU7HwPgYkYJWS+JYPrJhWRRe78ovM86yvEdpWmZdL2tiUvg0Ea4CbPkFXm15FuVOq/DsO5Z72XjKma/hUnAAXz6xX3ykm6rg5HAo66ibh2URpA5wuQuz0bHl+qV8+cikwYFuv6WUfxJELY3/l9kqYS4Noh9ct8H0iKCnF3aHba3Fmh8=",
+  "URL": "https://wiki.gnome.org/Apps/Ghex",
+  "LICENSE": "GPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1589876591",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "gtk3"
+  ]
+}

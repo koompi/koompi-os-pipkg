@@ -1,0 +1,24 @@
+{
+  "FILENAME": "lib32-dconf-0.36.0-1-x86_64.pkg.tar.zst",
+  "NAME": "lib32-dconf",
+  "BASE": "lib32-dconf",
+  "VERSION": "0.36.0-1",
+  "DESC": "A low-level configuration system",
+  "CSIZE": "36292",
+  "ISIZE": "113435",
+  "MD5SUM": "0e37fffd38c47f137d39abbc7aafee88",
+  "SHA256SUM": "064444fc496c50b91f1c79e06bb14aeec970e5c4dc860570f758a630924f8d31",
+  "PGPSIG": "iQEzBAABCAAdFiEElDfdOBWnqRaePTlGr/XZUJi8b/UFAl5oKJ4ACgkQr/XZUJi8b/WcDAf/ZGSN31zJI5PoeiAalDFHPS9KcKkulBuxk+dP/NcSrlXYQO7dwkAmlzVowH7VDhLgSs8zAkGemkRfYTQWck5E71D3ASQZ3cgLuMnnY3DzQoSlR/9Kznu1hv5jeDcTb9FLQtAWhb3LgoC/5mN6rVFRM3SMn/kyh4qI+/OimlFcR0QuOr8ofWOZ5WcPDkzFys4jlY/Sau84edY83t/jj0pwWASInQ/tFkGzhD7xHxMSC0qs0KeBajAtu2Bl0vWiCYlrG/JBuMX1qZ6h2plL5co+cX3b29UB6M8gI+6Qdx+yr8iWq7rimbyowFj2lfzRalKjK2kODhTajbYnv75+ugAqvQ==",
+  "URL": "https://live.gnome.org/dconf",
+  "LICENSE": "LGPL2.1",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1583884413",
+  "PACKAGER": "Maxime Gauduin <alucryd@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "dconf",
+    "lib32-glib2"
+  ]
+}

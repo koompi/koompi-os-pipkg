@@ -1,0 +1,25 @@
+{
+  "FILENAME": "gupnp-tools-0.10.0-2-x86_64.pkg.tar.zst",
+  "NAME": "gupnp-tools",
+  "BASE": "gupnp-tools",
+  "VERSION": "0.10.0-2",
+  "DESC": "Utilities and demos to work with UPnP",
+  "CSIZE": "166578",
+  "ISIZE": "624205",
+  "MD5SUM": "c2769ba58d9bc3e8aaa1d5a6c7fc4601",
+  "SHA256SUM": "3dcae1a8198fe7d40938ce4a430eeffb0fdd2a5240c39b8288a6f6a82c439b9f",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl8EsAoACgkQeGxj8zDXy5IBNA/9Gur20d2+nb5emmp6kiZxMKAwXL3ZpyAlaSaaOYPsVnuVOh9pjhmlMUl82oDB+frARVtJkSzazCmfggGs/qoY+EyZkGqGAPpDqt+EtlGWYk0ON88T1PKro03qC02tdTiJfH/c+teEJ8XG5LP+8hIVDPOJ4/uiRXGCRTF79uqlLGGRfEhhvlGKACc5cTR2c6mOndOyHQL4XsSpxoBoAJIiTvqjeuDwWgUN0JwLCz9jg3Add4EyN0qPNoQU/4CVpmACwKOqIT/iSBPJVnadD3NV8qf4Oz9fLQpbyqO8JDlqDrERdW7NmCbg8wKDboepLV0Ohqbf24ZLxNBPtJundLUtzX/maqOWQ69YG2zg7S8Nbw7ZfKtELYpoHjdChCWncK2Oa+GJKTAFId94FLBBgYBxwbH5X/+aPeKkGj6BaeCowqDGhHuVVl4SaafIocMWU3/Om2XmF1kllFWIW1yyJDNYDHOWmHxBG4FGG7vIiEgyz70QJJqXocCLnKdeSNAMpPMMmKqyRVbJsgsfc3xfODAv2Dv92NWGHpUFxyE5fvKDXgcKrT47aQyn6uhTB2AbKIvHIJ/WWOG11JkNl91kKk/1QV9x2OUbhlOChyOrOgAZOwh5biJPv4U8EOPZwO6ey8xxv3GQ+Fs/REdeEdzP0/LMfRce6hC4CiD8AjyKnwyffzg=",
+  "URL": "https://wiki.gnome.org/Projects/GUPnP",
+  "LICENSE": "GPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1594142698",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "gtksourceview4",
+    "gupnp",
+    "gupnp-av"
+  ]
+}

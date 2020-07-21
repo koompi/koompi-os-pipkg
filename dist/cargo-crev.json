@@ -1,0 +1,24 @@
+{
+  "FILENAME": "cargo-crev-0.17.0-1-x86_64.pkg.tar.zst",
+  "NAME": "cargo-crev",
+  "BASE": "cargo-crev",
+  "VERSION": "0.17.0-1",
+  "DESC": "Scalable, social, Code REView and recommendation system that we desperately need",
+  "CSIZE": "5993230",
+  "ISIZE": "19630484",
+  "MD5SUM": "4e51e12017fb6f754fe81a17416b1489",
+  "SHA256SUM": "167a563117d3f1de403e45fb7e099c4469a1de1ece0ba3ba2d5179704a272d44",
+  "PGPSIG": "iQIzBAABCAAdFiEEM+u4qOHFZTZFsSMqRaZQ4mOMU20FAl8Hz+UACgkQRaZQ4mOMU22MQQ/9H9zLLROPeu21Gtx3Sv0UAr4AfhollqIHrv1d9iVG6/1F7mo5HuqyHGg2sNKopxDm8vQc5nq0DUDtZgfZk4+/lE6B5OSFvo/xfjSJkpiHKTLhqsJ1kda6b2+olFbPLR+LqVMsJLl6l3zz45qDWEL3cw6JVKsD+r4lGU57GSu82xdZoyaGoFdXs2nTPA4CO5haxxEsPt63Sjd6xOg1CAAagyXNhi0oPx4vSa5x3Ly4HjLfoV/kxzUxgHwn5C/cNXqyTv7scCVqwN8gt1WUN2b+H8iRxvxEEBEk4U54k2PZzB8kZfWZEHFwuNCtuHHksAz7LAFearPuAnmXePBQEGtxl9swG4+Zh4hhZohSO5Z3gEgSSn67fcATcC5cRdCF8TEWnWIozWfiwDGFoDh7AIiTr/A/vm20mm+b+y9goYXnycyvAntiSbJTCrIDBYtFiinBofZT7sEmb3Rw/O5jlpNXn6twXpRzr/2x8RdL1LmZFfCAxcGXYs6HM2yiQWIPVy73p84+eo/LvPQ9xET6BeHB1Ry0wL8btWPpu61lxwWSrxB3wHzWRm5gcCmktJEzKiqN/buBAjwJJ878EbrLUbxiR3BG9IpDuDGz4Mtgaifc9N19uD09F1+vMbtPQN/qL0Fx/ewpVVsNE7klgXC2LiPTsJPM8ZwtvManaxAycwSAI8M=",
+  "URL": "https://github.com/dpc/crev",
+  "LICENSE": "MPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1594346717",
+  "PACKAGER": "kpcyrd <kpcyrd@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "openssl",
+    "curl"
+  ]
+}

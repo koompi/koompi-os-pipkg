@@ -1,0 +1,24 @@
+{
+  "FILENAME": "kdevelop-python-5.5.2-1-x86_64.pkg.tar.zst",
+  "NAME": "kdevelop-python",
+  "BASE": "kdevelop-python",
+  "VERSION": "5.5.2-1",
+  "DESC": "Python language and documentation plugin for KDevelop",
+  "CSIZE": "1275726",
+  "ISIZE": "11447113",
+  "MD5SUM": "fe2a3528ffdb70f44fd44bc975c8900d",
+  "SHA256SUM": "83e52b2781de2421c098a76f3e0c4d1d52a340df6bf2797729fd1e1fcc2b21a9",
+  "PGPSIG": "iQEzBAABCAAdFiEEFRnVq6Zb9vwrc8dWek52CV2KUuQFAl7WZWcACgkQek52CV2KUuSysAf+MU6WJNWMxluOInK4Xi0WWp3nGM4EeIOPIJ7X5Lc/dKxdmL4WZyxeLE+QKB2CmsF7rnFLrlJBl1X3owwHAI+SmZiMHMbqte2JLO1GHiQsV4rmdd/+odRi9J2pnJy8kItmQUYHg2eFh16/ZUHU8whKJtK/7f+JYcpJDrtXGNkHRY5uxy9wXAMeo/cJcsrKhJTc2dCqWCzVb8iXGMXIysXWP9e0Ao/9QI3LWbZTJ0NkayA8Owolvr73gYadxMaOrKyTyIBXmzp0XVAmtJGzYbyDQjK8MNLLNgqvUKaMQ6G8F3q1M1lh2cW6CPzcnKvfzO84R7CV/+vl7nYjjzoxg+toMA==",
+  "URL": "http://www.kdevelop.org/",
+  "LICENSE": "GPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1591108746",
+  "PACKAGER": "Antonio Rojas <arojas@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "kdevelop",
+    "python"
+  ]
+}

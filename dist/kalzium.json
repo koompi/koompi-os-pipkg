@@ -1,0 +1,31 @@
+{
+  "FILENAME": "kalzium-20.04.3-1-x86_64.pkg.tar.zst",
+  "NAME": "kalzium",
+  "BASE": "kalzium",
+  "VERSION": "20.04.3-1",
+  "DESC": "Periodic Table of Elements",
+  "CSIZE": "25167275",
+  "ISIZE": "42636397",
+  "MD5SUM": "c642b273c99a4193e25e762cd1c360d2",
+  "SHA256SUM": "9eb57a33a02580f1ce278d13166bdc376548a6fbf68a280bbd0e247a99f97801",
+  "PGPSIG": "iQEzBAABCAAdFiEEFRnVq6Zb9vwrc8dWek52CV2KUuQFAl8HBBwACgkQek52CV2KUuQX8AgAkKc3Ml0tI060WJARqzrmcpihp7QXtBn2PeEezMF+6BZIOBAAqTh1b+gussnJxFfo1H84mrnnCviNSfJmwLy5J0WkW4ozuzHudGQDRf9gb4W/eZ0SrNawAGRp8jFBdi/SrMryOXCHgTBjMEKezAj3pTwRv4uxxwcg2tIXmyHR8yR3cBjMiw4qL3Tf0tCLAMmOMMD2JYKtgYiu4nLe+qDo5lur2lQqFNfZWFyIPVumL9TZcvR6Pxr2F4lsJKNFedvxCVpy8IYx64OYWYJZhq6R4HVcOqmyDAIlm6QHQ2+ftbLEDEQqXzl3cJHTVbWVnlZzUPOfBQw96gKCfchpJpYYtw==",
+  "URL": "https://kde.org/applications/education/kalzium/",
+  "LICENSE": "GPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1594106948",
+  "PACKAGER": "Antonio Rojas <arojas@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "kparts",
+    "knewstuff",
+    "kplotting",
+    "kunitconversion",
+    "qt5-script",
+    "avogadrolibs",
+    "openbabel",
+    "vtk",
+    "hicolor-icon-theme"
+  ]
+}

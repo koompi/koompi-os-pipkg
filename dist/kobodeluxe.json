@@ -1,0 +1,24 @@
+{
+  "FILENAME": "kobodeluxe-0.5.1-8-x86_64.pkg.tar.zst",
+  "NAME": "kobodeluxe",
+  "BASE": "kobodeluxe",
+  "VERSION": "0.5.1-8",
+  "DESC": "An enhanced version of Akira Higuchi's game XKobo, an addictive space shoot'em up",
+  "CSIZE": "1559131",
+  "ISIZE": "1941943",
+  "MD5SUM": "7a60583e2f2ede2b0d94cd99c8747d7c",
+  "SHA256SUM": "ec04d911c255bd1fd347b776fd134cc7837941fa77e916141262c05ca9385b73",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl8EohIACgkQeGxj8zDXy5K3tQ//QWQC2OE7WvwrkmRCDiKqyG/jJKI7sB7Aw1WZ/MYUYfJ7v7bIlp5LyXwqzZymjA5pa4+7We33Tbhh2ZY+HGHBCMiHpjet4tpj3V3Kx60SysFvNw9MN7o4xluvmCjC4k1upeNozy99XZw/Zt/wShTZxhviDRsQEUo/y4HBpOfqkFPCy8kgKeSOMMMYxB/1SEGtUNWQroHvW3mifdnQB3gZtb63ofEEj9t1V73U8C3lPKmRfsH+BHBJhUfP/73aes/W2fDGO1MATqXDtj5WCd/+B6Az5Bp2PUKvP55wrDdDpkOz80jICM+rNYjI5Vx5SMSl+N3d5AaaTfy23uGbWerm7QCCd4ew6GToFnC5JCun8tVozUtaLl5he0bFrUCDWLZlQBDZdw3rqHqmrNhGdtnE+QOCmUKM9ernVb6pPfeZSFXch8hA6vlu32OryNgEvyiP/Z7mMRjbH2J4+P0UQw49XsEC66/8vAsl0DgFTQKv/R3rgehsNm27GieZfG8nxnTpr2PWhAGpJwwVd63XuxM6q+tIfdV9WHEEzRPODd/05ThXy8RlkSm892VKZ+yXjQjndoIMPXG7278mTQVyqtUtV0W7X74hDBdr8LsUR2nymnQFioHKarcoqMUsM6WNDvm3oIPb2nmaukSM2++myFbC99uzzZ515cTDyAsFcAC3DEI=",
+  "URL": "http://www.olofson.net/kobodl/",
+  "LICENSE": "GPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1594138944",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "sdl_image",
+    "hicolor-icon-theme"
+  ]
+}

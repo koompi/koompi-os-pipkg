@@ -1,0 +1,26 @@
+{
+  "FILENAME": "python2-zope-testrunner-5.2-1-any.pkg.tar.zst",
+  "NAME": "python2-zope-testrunner",
+  "BASE": "python-zope-testrunner",
+  "VERSION": "5.2-1",
+  "DESC": "Zope testrunner script",
+  "CSIZE": "176405",
+  "ISIZE": "1574743",
+  "MD5SUM": "8b57eef5d8aa3d9b606710e272270a8f",
+  "SHA256SUM": "1688af7c7769da17071e0fa684841859798f7ba901715269979e8cbfcc59f47b",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl75qu4ACgkQeGxj8zDXy5JGcw/+IloJyIBkIUFqrpV5I7aHjVStlqH7xIbVRv9H575hy6X47WHB2O44KOy1QYMxRnokv9+RidnzYE1jtUMvVlJpx5rzeO5SrOVGcfKwAAZjj5OdlanrmPf00J48aSpObZ5wH45p19cY67e3qcZfTQSua5gBRQLnYGn+C3kZMN/BZD77sWa9NUA2l3LnQ3Sqr/p/KMXZGWmsUKhK7Nty4GehAkh/bZQkJinPOgJlOQXYsVyDGFZwoq5di+6IjyuFKzRxMtXIUTiKLFu0p1n7IKQ0eVVJ5D0gAg21kqLha88SGx6Ok8tPXhgdRhHVh/TIzmKIwIWpEd162EuRt5LAtDzHwmxI45R/UITeS/My4ORZYavX+9vWiXxTXhXz8eTlWE2/wauSMowqneKZD7uSjNDdN823QiWtKaqlLBJDUG87u0nLa0puosHGfWUYBBrVGXoi7zrR33M2v27/7FCrR8uc5a5LzYyZdIInGOXgE2Ay1brzfSYfjH29GL5LT01n029R9hsQQgafpfddw3fk5FL4X6Y982ChzoohYZLTCmLCcOm5y0S+9VHFbjMNFkEsG8uf5hddqTgN8ishv5pFq1/XszzAWbqM3ltRAP653O74dhidKTN72zhqqS7uc5A1cTwZvTOMl9NlTs6bBhcuLqHD2ALWtUgBeMOawRZezhBk0HU=",
+  "URL": "https://github.com/zopefoundation/zope.testrunner",
+  "LICENSE": "ZPL",
+  "ARCH": "any",
+  "BUILDDATE": "1593420233",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "python2-setuptools",
+    "python2-zope-interface",
+    "python2-zope-exceptions",
+    "python2-six"
+  ]
+}

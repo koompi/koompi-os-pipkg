@@ -1,0 +1,23 @@
+{
+  "FILENAME": "nmon-16m-2-x86_64.pkg.tar.zst",
+  "NAME": "nmon",
+  "BASE": "nmon",
+  "VERSION": "16m-2",
+  "DESC": "AIX & Linux Performance Monitoring tool",
+  "CSIZE": "71086",
+  "ISIZE": "171840",
+  "MD5SUM": "b74b63cb7e19c587d75fc2c264a9c0f9",
+  "SHA256SUM": "eaa4d4ac306ae00f25a2ab6122f711d68f8cc0c542dfad1ccfe1bf317c7b0e94",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl8Eg1kACgkQeGxj8zDXy5Jn+g//eHrYS45A0TBNpiTRmtSufdp9TRYNJRoAuqso8p8VFhIIRxQ0H7tDtQ/tNHzHRozk7w3hHMjl4LwO2kjiDm8lW8/Kh6b4oZRNxOMjII0b1caONZCi1WnXJOam/67FtHTlfv2bnSIJ/3sM2rQWEpPtJ4vdG7IXx20gf3CGGk7QLe05SdKfa7oJ0rHvwMQLQ9ciK3DcrlnkJltCpTftR3VPYjXaU/wcfl6qRZG9a/CUla4x/pVuxon5IvpDT3vmEghEFFk6J4DvB6YYq7vWpZ6+SnIwSqf2CUy6y7VuI3D4msc4gocvhMpd1cBr3KhT3GU41e/Yu0x8fZGSkxIcokJzzYpB58o2OBelG/8wHv7DrEPI9v+tl8RfsBO6dZXY1XXV6ZtsjbR3Bll2cEol/CfV3Igtnkd8dqsx9fLI0piCELNPewd07DfR1AyK7O6R2COpdPGutjcdj+2hQbvrHURsk03M6eFYr8fwPaPj80lIgYtnyp1lTENHQFh6UUBe3DtZBwwHKU0O+u5yNKtMhWPUH+WZsvy3bgJaB3MZDrLhQcoklFe++2+0VvI6QtpEJQRsWyLtfYoNVBMk6HKbzK5YWGxSv9ooglW2brI80Ke1BYSdKOJ64fg3c/atQPR5bmdR6KqQNPMiqDN1gOAahusTgm60CHHL3ZSQp2UQ1APpgWw=",
+  "URL": "http://nmon.sourceforge.net",
+  "LICENSE": "GPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1594131267",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "ncurses"
+  ]
+}

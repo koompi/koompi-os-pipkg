@@ -1,0 +1,26 @@
+{
+  "FILENAME": "linux-hardened-5.7.8.a-1-x86_64.pkg.tar.zst",
+  "NAME": "linux-hardened",
+  "BASE": "linux-hardened",
+  "VERSION": "5.7.8.a-1",
+  "DESC": "The Security-Hardened Linux kernel and modules",
+  "CSIZE": "74658809",
+  "ISIZE": "79910882",
+  "MD5SUM": "4af2f618271b821f29b4c26d519f247b",
+  "SHA256SUM": "b280758f24f71972ed7f94269f8cc3b6e1582758cfd6993385f215337a2f2cd2",
+  "PGPSIG": "iQIzBAABCgAdFiEE4kC1fixGMLp2ji8m/BtUfI2BcsgFAl8HxggACgkQ/BtUfI2Bcsj1Gw//ejpb1Ckt1f8EhcpZocEfbcHpiphnUoU2wODSKJ7FV19fqhEjjSQ3wQcOCkGvEWHxnY6RXX9Fxk5X6tUNbwWhsGp5pKBeVaHZJH/eJ53nLnD3LQBEzhZAdTa3Zs8upWE5iKE+T5Sqf1PIzrs1cmkOyFU2ki+LvpaT1dBz1yqQtJCnYu3f6/a3VKFFfZXJI2KoGkYNzSPR/rjBTKbwuSREaqY2ony6XrrdhbyvbKj1JcyVo4MWdzBxhdy2NZkEMB9uFhf2wdGFGNshjsJzIesN3SaPkw77t4Cep6/sDqGR/BVeruRhB5UfqkXBHwYuLHHUeKvGJSCXfVMO5L3/R0jo6dG3+BIN48nSbBF2oIfaNzHgyJV9tFwPhj3MnkcFjV8gDSTx9raUYLpew0Yp1vacAY5GpgXvh6HJfVut/1QvlFB9nvSzfu7ndfZzIfqLtidanTxexbcxV7JXp59i47SoJKnL44ejZii5OGcWf5qmMAKE8A8dDtp/IEfcBiX/zqppBk3RVamX8ucjobtBxwjYfgeNID2Pi9U87dHlOURI1FO3IIOLSRAaz/++RsiqPCLy0iQjzn24cZyB7yXlfP9VeuAKSP83BF8yV1axqz+3XLkdjOqXcdFfgXy3wH4fQL8HHijHgon+3VSy4clq8DHgufCDi/ifZNPCO7A7GJ+f88k=",
+  "URL": "https://github.com/anthraxx/linux-hardened",
+  "LICENSE": "GPL2",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1594342558",
+  "PACKAGER": "Levente Polyak <anthraxx@archlinux.org>",
+  "PROVIDES": [
+    "VIRTUALBOX-GUEST-MODULES",
+    "WIREGUARD-MODULE"
+  ],
+  "DEPENDS": [
+    "coreutils",
+    "kmod",
+    "initramfs"
+  ]
+}

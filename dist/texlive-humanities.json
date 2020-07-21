@@ -1,0 +1,24 @@
+{
+  "FILENAME": "texlive-humanities-2020.55389-1-any.pkg.tar.zst",
+  "NAME": "texlive-humanities",
+  "BASE": "texlive-humanities",
+  "VERSION": "2020.55389-1",
+  "DESC": "TeX Live - LaTeX packages for law, linguistics, social sciences, and humanities",
+  "CSIZE": "329448",
+  "ISIZE": "2087070",
+  "MD5SUM": "264bda4a3aaa20c371fa86d80ae641e6",
+  "SHA256SUM": "df100cdc5f67d673253d8e0fb3cafe50c2a0ce7644313396796e3600d43a69da",
+  "PGPSIG": "iQIzBAABCgAdFiEEROpirNvIG2oNH9JnIGy8iS0Uk9IFAl7dXIcACgkQIGy8iS0Uk9IGKw//evGt+9nt4+3K/i8OWWxjfn/11lfM5+kuXWxWm5L7KVY/oG8npHz4WTQCSx8VFLd/7q2SQYI5EhyXfuLeWVfWwad4Q6axxMwF/Chp8rjVWeO8W5j6W1lWmf439xFLMCIJsYBfEm0yQVJ3yCj4aHK1MSFLsE/ysi6HstQ2x3YlmHz+Eu1fBc2H9b9QgmGz9isot6wJw58bMtCEWthvl3Nm6fCMVoVeUVSpAKZMLr493nsjcL4FK93XB4izxbXD8vyxQjgA/HmzmzTq2adgM9/vd/7lGsTiuMyEt/O/y/xNZYh2DkKi1hsxwTGwIamm96m5OtGIFqgeNE67xP9gtfiDfTG5SpoRsv/2mM16nPC5Lgov2DjrBrFsQMoP+UyG/Yxv/1vjURrmEa0elG+HSgmgn3qJLp/8GK6ofIJU/FhlZW178Z32w9p+p05U/Ai8k2LwKs87RruFQ+/g6CH2Oqa4ky1H7OfNnkHnmGMh/xJLK04rjtlFEUHm0wE57tpEy1DMM78VT+OPdeqtGe2eMWU57/ojN5IX9oJRatZl4wudq6b48Fi/Gy2N7x7YrBf2/ELC4HHj7kKvD0GJ4oTRosZYTwV6ZAh6uskMoAGxeFmioRibRDqoQ3FodNH47ru8s+By3oGRB/Rr5Rmf2Y8+fuyt/Vxgb5l5DB8zDJbDkirHQ+g=",
+  "URL": "http://tug.org/texlive/",
+  "LICENSE": "GPL",
+  "ARCH": "any",
+  "BUILDDATE": "1591523834",
+  "PACKAGER": "Rémy Oudompheng <remy@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "texlive-core",
+    "texlive-latexextra"
+  ]
+}

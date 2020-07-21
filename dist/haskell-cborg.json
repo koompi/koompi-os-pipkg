@@ -1,0 +1,25 @@
+{
+  "FILENAME": "haskell-cborg-0.2.3.0-14-x86_64.pkg.tar.zst",
+  "NAME": "haskell-cborg",
+  "BASE": "haskell-cborg",
+  "VERSION": "0.2.3.0-14",
+  "DESC": "Concise Binary Object Representation (CBOR)",
+  "CSIZE": "287946",
+  "ISIZE": "1670060",
+  "MD5SUM": "ea7c3487c9278939384ffeed9ac3b828",
+  "SHA256SUM": "87ef3859e041c9d829372b6e674027c2d6ef7fbb0d77ac877c873d564a43e9af",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl75l+QACgkQeGxj8zDXy5IJ8w/+OD7nPzykmtN5zOEj3LrLs17t7AXZAia28jnOyi4HM+i16qq7c7JrLhyoYwBQSNUhxnGAul+XxNeKXdNJ5cFQpcUlPVr/loa7G0KEQu+qdOJQpHznGsW+PIvDaCt55pL+ijRL9FpXd7gGz4nssdwJ9fCaoV+Z5FwYZyB6HsbMWhkPog9FCgDgsqTiql9XV/UR1W1xkr7n2yqIKl7sFSLhWVsRtYRxcBfjSR/ZuecRpjI1OriMowHPDnQV2bGUNJdQy0Zt6UbbUAy0O8UMRpDzYTNrFINn9X8zjs9jKNd2h3zB3TkUlf94ErdJBMjnDujuP0QNMHjUGCBMqyYqO66jaIMsFURkj8H8vHS+yJi72Dakt0L1unheJ7lMk+eXe/STXUCuPpJVFl4JKOj3T2IXwFMs8FlhDkAEFo79fyaXMa2urjx2/8B1NXaKiKCyEUOOahn8N0FU+NOqVX+KTQkY+NAC2s9D/DpvBYrIadZ92mg28vfnQi3cuY3yHBhrNOg+xYcYmvT7lk9KGW7byEEkiMMTzjE+Jf+RB6eEB01T5pLCqNR0s5OtSasHnFr2iX6kezodHkdjsAe3Q4FwnW2udFGWaOiVF2sZ8T6OhacqNiqXHSIaWn9y8vTpnS8HuquciLMAga0RjropaAqvvCgsshXOLM/1JXDVqGm6/NWTshI=",
+  "URL": "https://github.com/well-typed/cborg",
+  "LICENSE": "BSD",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1593415571",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "ghc-libs",
+    "haskell-half",
+    "haskell-primitive"
+  ]
+}

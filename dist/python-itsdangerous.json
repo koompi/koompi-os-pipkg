@@ -1,0 +1,23 @@
+{
+  "FILENAME": "python-itsdangerous-1.1.0-4-any.pkg.tar.zst",
+  "NAME": "python-itsdangerous",
+  "BASE": "python-itsdangerous",
+  "VERSION": "1.1.0-4",
+  "DESC": "Various helpers to pass trusted data to untrusted environments",
+  "CSIZE": "27628",
+  "ISIZE": "114775",
+  "MD5SUM": "ced409556e03bf95bfaac94c16136385",
+  "SHA256SUM": "5e8b60b4ccf69de482fe5fb2a24efd5bae461ced166e7a09f510fa7970faa4f9",
+  "PGPSIG": "iQEzBAABCAAdFiEE5JnHn1PJalTlcv7hwGCGM3xQdz4FAl61qnYACgkQwGCGM3xQdz4DAQf/YnrKEs9xeaJecLfOV0ifwCELHFUmhlJPubdfGsvJjeqanEtoUPmFvutiWyDhPWryFjC6iie8+7qja6GOWD+G9t39B++XzPt1wPpvJeWLB8aNWrW16XflYlhgs29wL4tPVckIQxWyI0zOykMw+x804QF/VzaOHtUWxRZFw8LAFHtY5cUJNMEk/U7yE88HF+S7pvtMpWKbhgXrSvQDLITqZqT65/gZR/VOy/h4sJY12V+kK/2UycKu+5YP91bZzZV/RaN/Da3W12RGh8Evm7msKJaQtTSGFqr7z7v4tHKACfDzP4iJI80cADAv93q8lW3EwF2ejOtxJ1C5M5eL6s+0CQ==",
+  "URL": "http://pypi.python.org/pypi/itsdangerous",
+  "LICENSE": "BSD",
+  "ARCH": "any",
+  "BUILDDATE": "1588963666",
+  "PACKAGER": "Jelle van der Waa <jelle@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "python"
+  ]
+}

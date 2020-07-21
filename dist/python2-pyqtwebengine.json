@@ -1,0 +1,24 @@
+{
+  "FILENAME": "python2-pyqtwebengine-5.15.0-2-x86_64.pkg.tar.zst",
+  "NAME": "python2-pyqtwebengine",
+  "BASE": "pyqtwebengine",
+  "VERSION": "5.15.0-2",
+  "DESC": "Python 2 bindings for QtWebEngine",
+  "CSIZE": "120192",
+  "ISIZE": "630918",
+  "MD5SUM": "b2f5fa33164e47ac0b2f7d46169333a1",
+  "SHA256SUM": "f67407a88183b86ea3ba0ed66d77155794768f129fd6fcdd341ff48b57ac11a1",
+  "PGPSIG": "iQEzBAABCAAdFiEEFRnVq6Zb9vwrc8dWek52CV2KUuQFAl7Z9LMACgkQek52CV2KUuQjyAf/REccQbcVsyjhBVMuvsCqq1JJslXAHBNgngB4IQ1OLWct3/6RpxuruFLr4st0DmcjXLx+fRWWwSF2UiWXBAmGOQzbbY0ykulEqTPu7Jv8WpNsggn6NKw5B3ZYupPZpExfTqWnY/ytCLCNLs28n7tvyI+6Pivv3cD3m0k0IBbYX7HOFbTPw8LNUrTkaJ4XfTwie+TRX8mhHtu/8f25l+cd3nS/r+zUGkDpCS54HS0Rb59j0ZW4DDcLRtVJEGknl/M348sST57W2peKQR5jKAWFydkYYKUe6pGlygj+vo92gtrOAtzLWZdGB5wY1Mo5tfV9GkGBILgL0ltr/H/RCsctyg==",
+  "URL": "https://www.riverbankcomputing.com/software/pyqtwebengine/intro",
+  "LICENSE": "GPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1591342054",
+  "PACKAGER": "Antonio Rojas <arojas@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "python2-pyqt5",
+    "qt5-webengine"
+  ]
+}

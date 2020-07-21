@@ -1,0 +1,25 @@
+{
+  "FILENAME": "libproxy-0.4.15+33+g454a499-2-x86_64.pkg.tar.zst",
+  "NAME": "libproxy",
+  "BASE": "libproxy",
+  "VERSION": "0.4.15+33+g454a499-2",
+  "DESC": "Automatic proxy configuration management library",
+  "CSIZE": "75452",
+  "ISIZE": "270500",
+  "MD5SUM": "fb6f3299da398947145b45d775d6f346",
+  "SHA256SUM": "041a8ff2b6c05197a51598ecdf1715ad11d2a177bfe8d37689b7d5b55ac46f67",
+  "PGPSIG": "iQEzBAABCAAdFiEEhs/8qRjPOvRxR1iAUeixSKmZnDQFAl7vPMsACgkQUeixSKmZnDQZ/QgAq5CZKTeyCrNRqqg9SoE+m9p0e8Wycl8Cvqhz77MuZi3g9JGqDyopgiliRSMi3dZ54Ju7vUU1VjesJE5BcjhmQoJJrPNrPvgCi7Z1NB84Y3sSCG4araqVHNjACtkyJevE5APwi7Gs0rSgblugLCgl/t7idoH5bP8nVEEIouNWf8QscyoiZ72smVMpqz4+KefucUu3Faj7C1pOJnOoAsWZ/FeUmuEixaMOdlttuJOiZLj/RBOu53Tkg0t9eNi+3SzzooryAWMWy8xiRhboW/R9bH/pPHQVuEjvp1O8ek/+puLEJ/C3pDU71P3jSxDlSyNGyCOiu5s6+fo/ZOZJXFDbvA==",
+  "URL": "https://libproxy.github.io/libproxy/",
+  "LICENSE": "LGPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1592736920",
+  "PACKAGER": "Evangelos Foutras <foutrelis@archlinux.org>",
+  "PROVIDES": [
+    "libproxy.so=1-64"
+  ],
+  "DEPENDS": [
+    "gcc-libs",
+    "glib2",
+    "dbus"
+  ]
+}

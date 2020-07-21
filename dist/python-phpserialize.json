@@ -1,0 +1,23 @@
+{
+  "FILENAME": "python-phpserialize-1.3-5-any.pkg.tar.xz",
+  "NAME": "python-phpserialize",
+  "BASE": "python-phpserialize",
+  "VERSION": "1.3-5",
+  "DESC": "A port of the serialize and unserialize functions of php to python",
+  "CSIZE": "13464",
+  "ISIZE": "64652",
+  "MD5SUM": "079907dfe22cd06f457f5181cf401808",
+  "SHA256SUM": "54ede219291a40ec2469ed1ee462d5bb143c9973196b0476992c2b8e401f018a",
+  "PGPSIG": "iQEzBAABCAAdFiEEhs/8qRjPOvRxR1iAUeixSKmZnDQFAl27FTMACgkQUeixSKmZnDTnzggAivTFnCFg+k04lFHll/5SVGQLya6dKfjl/QHIfiOXNM81UXXe/nXI1osm4ACw5RFhpjn5NKZ1/6eRtV0PUWAx7+svSHOVEe9z1ntiO+FDV3dboLp6MyYIzdEj1LmCz8EaODVm0q6HQq4YWu60jmUNZ/xsNV0VoNnLaKMu0f+LkbnjwHc85rQr4E/CVN9M7k/sY+uWoRZtIjE7Wufaidj5OT5J+USESQ2cZ9Fgr+17vK4Lttv3p/hPEjCMHDO8jns8Rr31PVZgujSffWgdmfK702fSOIUuFWfGaYqmvgWIQzNau8C/SAscrRAL8mGGTT1Uq1K7y0xpr5a1frfWgQVrOQ==",
+  "URL": "https://github.com/mitsuhiko/phpserialize",
+  "LICENSE": "BSD",
+  "ARCH": "any",
+  "BUILDDATE": "1572541729",
+  "PACKAGER": "Evangelos Foutras <evangelos@foutrelis.com>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "python"
+  ]
+}

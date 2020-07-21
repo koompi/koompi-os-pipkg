@@ -1,0 +1,23 @@
+{
+  "FILENAME": "haskell-splitmix-0.1-2-x86_64.pkg.tar.zst",
+  "NAME": "haskell-splitmix",
+  "BASE": "haskell-splitmix",
+  "VERSION": "0.1-2",
+  "DESC": "Fast Splittable PRNG",
+  "CSIZE": "34018",
+  "ISIZE": "138295",
+  "MD5SUM": "415597f1810b8219e44b8a61871da304",
+  "SHA256SUM": "8548c5985b23d98eb87854b81482bd0d6a0f82f941c357797b3c1e1e6aeae5d1",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl74+1IACgkQeGxj8zDXy5JjcRAAv+QoEa9RHsE0kQvvUi1Nic7zPpa7b6oF870Kl9NuobxHBcDiK+wtTTzMDdQIHjWY9pUKDdPBvDPOiQ8vIe+xaX4p9VA/cx2CIYhzTt9xnr5vE0MtNdDs7HuYQeopVj5e8akG2cmEYIqsHv93hFwzgVP2WI6EpzL2e/Q5SwGFI1fsXkiIGNTEt2OV/FR3yMqtV1IKcwRghKZ1Qfkfd2wSBpm2k74EeseUel94Z9/0iUvIhDCF73StUfrI9P01h2mbA9TL6Om7V0y7Nhg4aqcj31Wq8Mzl/M8cLmo2bcotSSY53lBut6oZ0nO94V0pED7FYI5j7KXH2LHuLZpeRi4m9TMxslpgJc1NFxezXezZQxDNQ0HPD54YW9DeCpqz4xDyLAetGa9Rb0i3RkyvexOGEiULIjqiOMb+ZukvcLpAQsg7emmfShwtclMr0kXITLJ6Gnim5VNiqTvfx2oE4fjlf3m4jo5scb5oZTjPEHQdNNzxJMiwlZta/3MwRti3Up90SoqETVEWUjMCRR7krCP80pg56hvC0BSCCaI1gSb7pqQhIKDK9d00HB6otnEL1+Xuxeu1PD7Ng5yfcG3o/eM25Tz1snmiyhaSUL2DkusESNuIO8gnj9t26k+JAF5oUGkVUCUNYhfnfbObGNr7YMz9Pt1mdRrdSbSSVcdFdN9VusU=",
+  "URL": "https://github.com/phadej/splitmix",
+  "LICENSE": "BSD",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1593375533",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "ghc-libs"
+  ]
+}

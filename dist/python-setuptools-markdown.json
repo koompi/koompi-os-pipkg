@@ -1,0 +1,24 @@
+{
+  "FILENAME": "python-setuptools-markdown-0.4.1-3-any.pkg.tar.xz",
+  "NAME": "python-setuptools-markdown",
+  "BASE": "python-setuptools-markdown",
+  "VERSION": "0.4.1-3",
+  "DESC": "Use Markdown for your project description",
+  "CSIZE": "6708",
+  "ISIZE": "6018",
+  "MD5SUM": "6821de673b32548793bde4874db75f4c",
+  "SHA256SUM": "3678a1e9ee8111840016ef98e7a839f6133735132785f2e885ce2b3fee8cc1c5",
+  "PGPSIG": "iQEzBAABCAAdFiEEhs/8qRjPOvRxR1iAUeixSKmZnDQFAl28OeEACgkQUeixSKmZnDQHQgf/Qun0bKf09EHwbFgMOB3/ToACIWkEI2VzfcdX+xDpQJc9c49tPz7HDzO7ZtnhGiyA5XOXdnFfmzjGKU2iGGlfox0u5IUopLaqM1U5zkQmNAnodD8WQ9AIu+iatBbJx4S4QJQ/9s1IE+Q3oZ2eftcL+EZmfC9Y14MFFT0XfB3d578/OpuY9UVPXPZi4SJUaLR76Mf06L7rj+EJ54BKiRBg2zw2Fy9w8RVRdTDU2FmyfBQUEPURc0oGz/4IVYmb4GSY4mBJk3ctIOvC8PVuuGvWdjMtG0crWQMI9QbIbBmIR/gmkWdLQrijb8E1PqktoluehFqjY4fR093BZcbjJDNJTw==",
+  "URL": "https://github.com/msabramo/setuptools-markdown",
+  "LICENSE": "MIT",
+  "ARCH": "any",
+  "BUILDDATE": "1572616638",
+  "PACKAGER": "Evangelos Foutras <evangelos@foutrelis.com>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "python-setuptools",
+    "python-pypandoc"
+  ]
+}

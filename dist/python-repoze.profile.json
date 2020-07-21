@@ -1,0 +1,23 @@
+{
+  "FILENAME": "python-repoze.profile-2.3-3-any.pkg.tar.xz",
+  "NAME": "python-repoze.profile",
+  "BASE": "python-repoze.profile",
+  "VERSION": "2.3-3",
+  "DESC": "Aggregate profiling for WSGI requests",
+  "CSIZE": "22400",
+  "ISIZE": "80026",
+  "MD5SUM": "b76a5be929ee995b61a0768c5cf0c4ec",
+  "SHA256SUM": "bd23f7010fc098515286eef109318a79b67d1dc338357e3866c8e70c7ec58498",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl2/uSgACgkQeGxj8zDXy5JrCQ//Srm0KABX3JLMnfTFngstp7ymTzArrdF8a/j7zHcf6r7zS7gi3k35iHCJXS/R34ECLYwN8NTMqzDSlSil9M2lTT833Vj1rLhNRLIyVd52YLoNTcNf36uQDwFt7uj3ovgKquf7lZ/1/sY8szd7rBv0rKprXtebw/UclpVHXomeCNKIliLvVOuE1CzWj/Kj7LkGqNXkEzhAnXO4VBu5O0omkg11QUDNX6pH6I13Xr+2/886h8mlV/IuazGwfa7CASTHrQSPAmqwVWQ1qxCHSFO8IvSzLMfN/tmu1NqsEImCtUyEJw6RTuwq7dq2cUhgpw96ULT6Y33VJaE0UHaIFgOExzwMd+PgeF0ITOjRzvbFCMgX4YTOvG1S0vnYbkyO4fFDYrjsvZkzpuu05MYRPI2yk3bTUGLDccScK3qctc06J2LkC2bHsc2ZUUpxq9gpe6NiSfrxuliR5MtXj7rcREYvQFt0pHcNe/BZNUizNKK3sJ/v46QEdkZP4WYuk3J785SHlJIRb9mMHaj2uUJUBOVZd2zmXVJakv9KGMQ7eeg3qppKCobIaXqEQrlkBr/LNdkDCmk2lvZhUmrNNUVBicS7NBR/87RFDG+PNxuSP972NP5ScIN+jP5dS7f03kQsQ/2RQP5RLVPBQUQDjxb6h79wtf0R8rcz4efF3rg+YrEsHKs=",
+  "URL": "http://docs.repoze.org/profile/",
+  "LICENSE": "BSD",
+  "ARCH": "any",
+  "BUILDDATE": "1572845835",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "python"
+  ]
+}

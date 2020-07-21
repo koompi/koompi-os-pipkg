@@ -1,0 +1,24 @@
+{
+  "FILENAME": "libxslt-1.1.34-5-x86_64.pkg.tar.zst",
+  "NAME": "libxslt",
+  "BASE": "libxslt",
+  "VERSION": "1.1.34-5",
+  "DESC": "XML stylesheet transformation library",
+  "CSIZE": "360398",
+  "ISIZE": "2268016",
+  "MD5SUM": "7336b82534d5608cf249fb7ca3ea8707",
+  "SHA256SUM": "952a87dad1ba9b513cfb63b2a68f4ec5264298047a089daedc43e0c28ceb0ec6",
+  "PGPSIG": "iIsEABYIADMWIQQGaHodnU+rCLUP2Ss7lKgOUKR3xwUCXuEWIRUcaGVmdGlnQGFyY2hsaW51eC5vcmcACgkQO5SoDlCkd8dHCAEA2h/iTz7miu8Gneeu47Dif53drZ2SwJkGVFTug80tZ/wBANoZ7zbjYTKHhtd0SJgh4kYkDQyS35E7CK02FZgasp8E",
+  "URL": "http://xmlsoft.org/XSLT/",
+  "LICENSE": "custom",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1591809266",
+  "PACKAGER": "Jan Alexander Steffens (heftig) <heftig@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "libxml2",
+    "libgcrypt"
+  ]
+}

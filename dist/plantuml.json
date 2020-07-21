@@ -1,0 +1,24 @@
+{
+  "FILENAME": "plantuml-1.2020.7-1-any.pkg.tar.zst",
+  "NAME": "plantuml",
+  "BASE": "plantuml",
+  "VERSION": "1.2020.7-1",
+  "DESC": "Component that allows to quickly write uml diagrams",
+  "CSIZE": "8283946",
+  "ISIZE": "8942639",
+  "MD5SUM": "d83fd02450f5972251bcb671502f75c1",
+  "SHA256SUM": "c7a765af09778d35d8ac423f143fef00cafca41bf884d53998790ffec711b3a4",
+  "PGPSIG": "iQFIBAABCAAyFiEESx3lRagB1FSb/T/vkMs9YsE9R5YFAl6hIvUUHGZhcnNlZXJmY0BnbWFpbC5jb20ACgkQkMs9YsE9R5avFggAgNp1z3YghUdtwFopuLqfle3pxx88DBJGZOsgkGfl0nh3xswB1HfO61pO27fkH8jYub4vy+jdePqqiDFVbKqlfwuUjizkXMK/WWd4Fhrq+ohM1EAmgHRF820j4CjECk2mFYsDVtKTAAN/dvE6FzIgS4tIfUuKQ95fWKIEg1Zbw98vfYZUFT+0moZl3dS33iB3gT+ZzlP2NU+0iNN2ZlK8QiJPY9xn+uuJoy/yuIGoWgjs8BK8YuGCjLKpOfgDvCMtNqSC79UA4B1MzFsKVkvo5ByJwtmag63z8y4Ka6RJTcp+r5tUMW8H+EtH+LdCVi3feKanvoSso9Slxv4c06dmyA==",
+  "URL": "http://plantuml.com/",
+  "LICENSE": "GPL",
+  "ARCH": "any",
+  "BUILDDATE": "1587615930",
+  "PACKAGER": "Jiachen YANG <farseerfc@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "java-runtime>=8",
+    "java-runtime"
+  ]
+}

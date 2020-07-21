@@ -1,0 +1,26 @@
+{
+  "FILENAME": "pianobar-2020.04.05-2-x86_64.pkg.tar.zst",
+  "NAME": "pianobar",
+  "BASE": "pianobar",
+  "VERSION": "2020.04.05-2",
+  "DESC": "Console-based frontend for Pandora",
+  "CSIZE": "46545",
+  "ISIZE": "109285",
+  "MD5SUM": "e51fc44a7910f8599284cd4a2aa4c8b2",
+  "SHA256SUM": "91ecdff9a0c95bb0ba4cdff3260c66a856c3d6165e89e7d07b132d4d430078f1",
+  "PGPSIG": "iQEzBAABCAAdFiEEhs/8qRjPOvRxR1iAUeixSKmZnDQFAl6kULUACgkQUeixSKmZnDRhtQf9Hk63/RMXqyNIS/BL9MPtsO2sHIOT+ybKpfcjEnsTjEnEUWfD8lVVibqzsWuLDjvNOI65oYZjFXIOT4WGS0wlO4uSJb9MBdhWee59TMdURL6Zn6FD405w07F1zJxCIbdlJYxMYouUfknYj2TRTgTmywzZF8dY3bYAnVBURphGIps8XGrcJFVYiPZabLRXxHf7LJu3jKLeGqRr9zIMLsSLmF2c7Ocl2w9IPYMR7zxsDQPLcNqV+b8s1US/K7WRLg1YPsmxxFXVQ+JRXn1wknEijlQ3S3WekqO3W0ac2wQa51aKdhciXAnZHT0J+4ZKAXWPYkJGfvM/R3ewanNf4JJ8Ew==",
+  "URL": "https://6xq.net/pianobar/",
+  "LICENSE": "MIT",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1587826600",
+  "PACKAGER": "Evangelos Foutras <evangelos@foutrelis.com>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "libao",
+    "ffmpeg",
+    "curl",
+    "json-c"
+  ]
+}

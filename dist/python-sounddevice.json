@@ -1,0 +1,24 @@
+{
+  "FILENAME": "python-sounddevice-0.3.14-2-any.pkg.tar.xz",
+  "NAME": "python-sounddevice",
+  "BASE": "python-sounddevice",
+  "VERSION": "0.3.14-2",
+  "DESC": "Play and Record Sound with Python",
+  "CSIZE": "46944",
+  "ISIZE": "320349",
+  "MD5SUM": "7964a19126cc52f86bd432a0d0bbaa8d",
+  "SHA256SUM": "09263eef4eea02ee0e5a18f388391663bbe84885027a0eeaa28bbbe6dd6c0c14",
+  "PGPSIG": "iQEzBAABCAAdFiEEhs/8qRjPOvRxR1iAUeixSKmZnDQFAl2/3/4ACgkQUeixSKmZnDQLRAf8CpsXIyJd5jHlF8UbWCRHxFyEp+KEkKyJnc35yNfvJRFkGqeg61c67mwuXq4dZzoDTUqy7R+dy5wPLyvcsldfB51ZznBRhAwiO/RJJQ97El8rln5fcf5aql90zIMS7pe2wJIzH718i2gBtOTWrMsoguiNy3JG/fz8pcMd6nVX0yvqF6VaqaISgkefak9jmbko0a/eNCaSvNOFVQFBAymlzvcaI+hHhBjVHmvLHicVDCHCuFFTiBoHaiJHZ1F0ioETQmJBmIiZYXEspzDgD95gUKF0g3qWHIKkUuYWbcQjgR5oDsxsa7lJUrSWPkYUCVDcRcKXC/ZmyUCoeEmT2qgELg==",
+  "URL": "https://python-sounddevice.rtfd.io/",
+  "LICENSE": "MIT",
+  "ARCH": "any",
+  "BUILDDATE": "1572855787",
+  "PACKAGER": "Evangelos Foutras <evangelos@foutrelis.com>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "portaudio",
+    "python-cffi"
+  ]
+}

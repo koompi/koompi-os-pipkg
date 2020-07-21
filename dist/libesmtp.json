@@ -1,0 +1,23 @@
+{
+  "FILENAME": "libesmtp-1.0.6-7-x86_64.pkg.tar.zst",
+  "NAME": "libesmtp",
+  "BASE": "libesmtp",
+  "VERSION": "1.0.6-7",
+  "DESC": "A library to manage posting mail to a preconfigured MTA.",
+  "CSIZE": "38530",
+  "ISIZE": "135648",
+  "MD5SUM": "d55f99d7dde765d01f6c7208e18801d2",
+  "SHA256SUM": "cc7bc6995ab8fc369eff79491b5b372d7ef83b1a356ffd08954c0b7932bada43",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl8EssYACgkQeGxj8zDXy5K/IxAAotugA77kKFESY9iVJlsUrqQ0j04JxgOS9mqsYkCPz+FvNdFYFQO0VGY2ctq4P2LT9xzmEev2nT8+Yh4pNda5+sx3MYVuujcyFAI/S0qjgPOj2dVeM9uu8Uafkjy7xRxC9+B8WWHBHctgM0YEJ7UnZFsDkVUvXHV5SR6VY/sUEC2G2z6xdhUXLIOFVGiSReL7jvuPrWENdFThb/xq+4wgTEloug5tn8VOrdOVzcLW2ynjoZ9mNPmwvqpZ55Ioe79gjRHeJ0nwHXWaFCF/7ASKcCz4JqTXWJeJ95XnR+BJRtEy9IG+lUbfWtUSmCf/b9mL4iiRREA7fXXYyqfv3vK1QR6H85AMR085IEnlncccXAQdm1Jabp6UvMzP5/p3QchFb7dOptPznAH1+0/SPbXVT6zs2MOplj0WdscR2Sd40KOwEKsQ9MbhuU42dUQBdNzeNr7KHZu5Lttk5rVhBvIbPgkPCiTM2ciCs7G60qF7XNLvcWEV2ksHsFFoQgPIBa65R58hZ+YT1iIO9EfF+834PZ+JRkXRxOmxdob9GSbse9v1gtdFeGP6QFazpw2OdvtOSs32EiJD8wkhEnsLGLHu8UMwxM3YFc61NtVYm3J77GZ0IHeIYcABDAP1+CzB6mQKpIY+Lm9pI3GUKm8vPsrK6MX/rrld9fZzHBe7efOMh6c=",
+  "URL": "http://www.stafford.uklinux.net/libesmtp/",
+  "LICENSE": "LGPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1594143239",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "openssl"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "FILENAME": "planarity-3.0.0.5-3-x86_64.pkg.tar.zst",
+  "NAME": "planarity",
+  "BASE": "planarity",
+  "VERSION": "3.0.0.5-3",
+  "DESC": "A library for implementing graph algorithms",
+  "CSIZE": "84745",
+  "ISIZE": "234676",
+  "MD5SUM": "4d35280b171af9eb31fd3e841c0b3313",
+  "SHA256SUM": "effd8fcce9dbe968745541d8b44199c36970b802a63897941c0e398502755964",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl8E6GkACgkQeGxj8zDXy5JEEg//T5GOjPOgXfuNQ03whcDAzR17McvEo1v68bdV8T8V7Z5hSluYd0glS+eZEo4zalE7xenBb/gz7iyOMxkPl3F+E08Xlb8gSa6iqfxvfi2R2mlcrO2aQl+Gs2Q5hM0VhrGyxxl40z2MDTQ80nn0t3HLniUKJvJ61j98/x9A0jJ2YuasKjIGUdrRFB2fe80QVSypz7JPEMIZJwS1U08rY457kqDHbzXiGxpOsMnAQLwQvfL1q/Q9gbZyfNx/pVKv0/VMfJVpch+8iZmbVWruO4lIxgk8MGvXXrUu4Yemq+bwlAkqxuaQ8HwBeI5gib+PXyhX1TnmqWxj8Ns0InS9S8nIrhACIgiguhHj17fwD5HeR8HHVwXeptySEwk6NsAOpKi8P0MAgu7ygrMzK6AIFyuOXYTBylYGZPdIQiu7D28MwrlcU04HpG6wlg1BaXyQRedvQlmNzTCCH97+x7ibkyHlcGSwekf6pQO2LByFQuvb04rCsE4d5Jl1vi57+V7SHpXzDGJv7dUiwKAITsJdi6ciYScq2sgeE/ZnS/CRVUDvtjW9WbyIlFUt0e5/1guLVXd1C/8+QJZwfhuxa/waMg1Ik1IBpqRfSeSaoIGjoPy2v/EhRvzBklFofeo2jL2loPcOHDwU6PlwvETzwxNNonxUaK0W8klV8Gtx3+Uzhy41kY8=",
+  "URL": "https://github.com/graph-algorithms/edge-addition-planarity-suite",
+  "LICENSE": "BSD",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1594157092",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "glibc"
+  ]
+}

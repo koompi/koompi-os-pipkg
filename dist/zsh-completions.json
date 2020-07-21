@@ -1,0 +1,23 @@
+{
+  "FILENAME": "zsh-completions-0.32.0-1-any.pkg.tar.zst",
+  "NAME": "zsh-completions",
+  "BASE": "zsh-completions",
+  "VERSION": "0.32.0-1",
+  "DESC": "Additional completion definitions for Zsh",
+  "CSIZE": "220778",
+  "ISIZE": "1184546",
+  "MD5SUM": "9d9a94b3e20b2f2bf0399e2d93fd13b6",
+  "SHA256SUM": "4b72e2abfbeb7254d92fc5bdaddb5ad1e3955400d78770d4ee0f7a910665ebdd",
+  "PGPSIG": "iQEzBAABCAAdFiEEFRnVq6Zb9vwrc8dWek52CV2KUuQFAl7blvsACgkQek52CV2KUuRqEgf/VsmO6mej6a0eKHS7zgvSs3WMnaXQNEDxw2ydHoJM7zC0Um1lqqw5mE7xtbJlA7sEJGiBTzC1hp3OguRAJRCrZUXFhH1uyDYJwjeUuNPbIDY8Q3XN/oSunUujr2ufQ97Stn8QB6EBG05eTMdZ2Dl6i8TIiv9bwI/M1AKjXV69E991FbkZfpe9Obxz+8zMmgDXdrLy3GJqd3AHx/oQnZFFFtf2JUy6aBghqgiTIxd5SCMMwxyyc3BhLI/y0AvxrL+vBUHejGFz7AtfPMmc2TMRm6UtFSfttEQ8SpmI1GVWb+AV0SJ/x1iWASnTVuCDYDdpSfFVYY/L2G+LAHGgDxV9Cw==",
+  "URL": "https://github.com/zsh-users/zsh-completions",
+  "LICENSE": "BSD",
+  "ARCH": "any",
+  "BUILDDATE": "1591449288",
+  "PACKAGER": "Antonio Rojas <arojas@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "zsh"
+  ]
+}

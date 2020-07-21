@@ -1,0 +1,23 @@
+{
+  "FILENAME": "ydcv-0.7-2-any.pkg.tar.xz",
+  "NAME": "ydcv",
+  "BASE": "ydcv",
+  "VERSION": "0.7-2",
+  "DESC": "YouDao Console Version - Simple wrapper for Youdao online translate (Chinese <-> English) service API, as an alternative to the StarDict Console Version (sdcv)",
+  "CSIZE": "15748",
+  "ISIZE": "44818",
+  "MD5SUM": "bd57c460dfe8b6c3dbe52bb2fe8f62ff",
+  "SHA256SUM": "854e04aed1e61b2f5b444f19f0e4bf00460161687b748803390f673765631dcf",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl2/pWYACgkQeGxj8zDXy5J/zhAAgK9PLhryNi8Trs6QF6jFT6EYL/LitY5i94wFH5DybMotIkhD8XO/pDiyLNM3LiFCH/PYRYjizlQswMMc1kUrYLekzT8w61I7NKflm0mL09OUpI+QUFczbjsqOrvW/4ZIad04JHCk0eiBvuw1zcbMfTYWtcYe31rKBePnJG7JqDimwAFV1UcxwfA1qiaw0s0LtRzLDps+c9Kemp/aDTIF2l4+UzyBlclkjLx4mQGYWQXlmh1Hkkio9qT1srUbjQhx4QcBnPJ4KXqZRxMPthloVL1uR7TTAM/3aH0BPe7qU1W52xLmUabYXh17GqRFZO5lbws0eP0G/Nm5KGMUSqO+LtfbGD7ZXjB7qj97yasw2Yfm7yA+TrpzQzs144JScLDdSbNoAxDzbHeUlcLd4FSxm1Wcg0/o+u/79PAzykxnIU1gshxP+1mPpQcNvDwOpEme90yUWR3srJj3f5MUMwmaFX7Ed/416gv1ZwxRQ+EGM82K0pgEJUEFgAQQAOgNeZ1nmtNJT8RgN+Dc9cojZ3MW0KxK7Fx2fWj+gKs3HuhBC9ZKz7b3vMdRExW+8oRgZJ7YLZdgR4Phh/i+EYNmCoVyh6sYtJauLbvxW9Lklf4/LrziMXo/jFU5DkjgJV5+FaNBCYX5JRvzobHDC8dqAhp7iZ+nbSaxgsHh+md19Ve9WGs=",
+  "URL": "https://github.com/felixonmars/ydcv",
+  "LICENSE": "GPL",
+  "ARCH": "any",
+  "BUILDDATE": "1572840726",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "python-setuptools"
+  ]
+}

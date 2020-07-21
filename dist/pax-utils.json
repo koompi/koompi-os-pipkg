@@ -1,0 +1,27 @@
+{
+  "FILENAME": "pax-utils-1.2.5-1-x86_64.pkg.tar.zst",
+  "NAME": "pax-utils",
+  "BASE": "pax-utils",
+  "VERSION": "1.2.5-1",
+  "DESC": "ELF utils that can check files for security relevant properties",
+  "CSIZE": "95836",
+  "ISIZE": "292041",
+  "MD5SUM": "7aab4832a3918b534bfdfabc287a716d",
+  "SHA256SUM": "d86f830554c61dd6bd558fb92b11506c205530cf89528d4f0fdb0beef849db4b",
+  "PGPSIG": "iQIzBAABCgAdFiEE4kC1fixGMLp2ji8m/BtUfI2BcsgFAl5oAKkACgkQ/BtUfI2BcshNxhAAj3lFO2pjd7azneU92gxenmQozT1yuNUbnuMZYzR9YqJLrKLmyyC5lSimq6S2fsDK+VQ9+a69lh2y8owaYkCW38nbKM9J8jpx21LPOF9v31mV2nPX5OPuJ9OceGCcl0a7+1cGuEFP+EeOd2M1oi6OfGEzvSplQDHx2vm5FbTBomNVcpYYmAqsa+FAWdMJtqLeLdWi6zYw247FS7W1SMBHEq9lab3S38s15XJQJ+SFJOUVt2XH9HXh3jxOajXrUM689mo+b4AiSGewqUe0k0eJ1xfA8B4HWTQ/BMP5WEhIrMk/ou7qjdVedpxnnU+P9PbqjOgt3AlPtbQ/7rzwGj8NWgm6UXUYUfzg7FT/lo4eVjwY3agr5ZpfLIGb7UCT/fWv9VbHHi0++9VDql81Na11pIFndACIPCbFFBZ79BkO9hxG1CLqsiyeFZ3M3VWSWbN7bX90C6hunt86jvL2AJkHX0SaN45HTPZFRrjD8X8EISe7VSa1gZGcWaWiZtCUAqXiMbmZngiBIv0gv0UTAT1AqqWqZqYB1Y/XfiUVXd7VSr6plEU37aq8Bsfl5+cjs7ebOdZ/0nViD6FFSz8T2mMXIMLCjkFglZh32YIuN240tSCVjj1biJV1UBZaGbIL4jMlC3NZVtuj8XU7ACPmf39f6vHkdzRrHJ6FuBk7WTWDBZo=",
+  "URL": "https://wiki.gentoo.org/wiki/Hardened/PaX_Utilities",
+  "LICENSE": "GPL2",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1583874165",
+  "PACKAGER": "Levente Polyak <anthraxx@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "bash",
+    "libcap.so=2-64",
+    "libseccomp.so=2-64",
+    "python",
+    "python-pyelftools"
+  ]
+}

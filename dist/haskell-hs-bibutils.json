@@ -1,0 +1,24 @@
+{
+  "FILENAME": "haskell-hs-bibutils-6.10.0.0-2-x86_64.pkg.tar.zst",
+  "NAME": "haskell-hs-bibutils",
+  "BASE": "haskell-hs-bibutils",
+  "VERSION": "6.10.0.0-2",
+  "DESC": "Haskell bindings to bibutils, the bibliography conversion utilities.",
+  "CSIZE": "517389",
+  "ISIZE": "2680277",
+  "MD5SUM": "d221dd3ae7cba92eda00e5d766e8bd1c",
+  "SHA256SUM": "fb83beb6c14cc88606b4e3185ce26fde561e1bb423906bc7eeb14f8e2e305d7c",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl6htK4ACgkQeGxj8zDXy5LKIA//eYj6F3MyCBJnwi0xFDUavkFIP5z4YtfGh+DdFOQr/FGVLdx0uhrj1aBOEAx2suaEocQyHXFJ+VVWBFZFurqF2vKqP4YLcprLc5v8RsC7GjIEjknJware8lGZJfWVPe4axCTutv3Jw5yQ91kYYaXdpdF0JOuiEr6a5kqJIPwybFlQK9USx+QVd3JKhIQYj/Fd3tPqL65vQr67RVFl6R6h4Rkno0le0LTEwXI5fZnFnI8sSmWrIMBHav08ZVqYa2duAt59YLZbrKeuQg4DnJKAVTe7bXH7DD3j/eGZDf9zHJ54agjIJGImV3xr/rSmCAdMPa9z9CsfBmnFcG6SwclvblPZeLhHdrYcgLskL+AY7/x1Ug8XpuUWCQLvvsT6Mjk/uIM6RFKb7+OEJC33/hxJr8zuJ3RPS4pNtHuRbTNF4pJyptonRW3xMyw4zt5uNzHh3bzmOZXKEvwQw0bQ7XoJlwBzQHtoURwfCcfWD0z+K3UsPkYfNJrfCuUW6+5GIxkBDVGHsRHhl4qTEFqr/y1V6JV3hH343+dn/X7FPUHT1vkMfeLDWkuCHge1N4WDYXOT1Xc0YLsN6+Hwlb+ZPEDAkFMJJHAiCbJ4MnHoid5j88jdMIYDnrXflrS4et00EBmQYRfdKLm8r/SHniasFoavfKkKdNK1z3IZDvN3Cbkbe0Y=",
+  "URL": "http://istitutocolli.org/repos/hs-bibutils/",
+  "LICENSE": "GPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1587655728",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "ghc-libs",
+    "haskell-syb"
+  ]
+}

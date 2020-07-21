@@ -1,0 +1,26 @@
+{
+  "FILENAME": "devil-1.8.0-4-x86_64.pkg.tar.zst",
+  "NAME": "devil",
+  "BASE": "devil",
+  "VERSION": "1.8.0-4",
+  "DESC": "Library for reading several different image formats",
+  "CSIZE": "230119",
+  "ISIZE": "608969",
+  "MD5SUM": "84e16a93cf06b67e6b78ccd1d995c6e8",
+  "SHA256SUM": "399f0618bcff609c3501a44d178ba95fabb5df3f8c8e682aefafd9b780ebc90c",
+  "PGPSIG": "iQIyBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl8Ed+IACgkQeGxj8zDXy5Ka7w/4uDDLEsVBeDkj3XA8ol0eURYxikhI3TzI6Z0P8jausCBwam3NvA9pxyiQMCzDhKRFU61/9wzWCE0mDYTKjS8QY/GuhuSAuYQZUoKfNKncuTe6Gsqoyr3wCg+c6z1yUTJmW0BCV5Au/Vx4xZWhQzS4G4RivFIuIFSPq28OFW6s0ooCK4HTzNIe4nmcNRyAvMPwYjm9QpZGU5XvTE9aZXE/HHQ1y3SEygjM5EtugXODIh7a/gFiTLuEPttvVGXJrlp8U16dxyLPAhP1Q0HbzXMrfvJj1jvG51nC5qC3It/tfVfjKBMMvJUO3kOA2J/u85U23J1NyoQuC/rmWgH/EEY5lwc+mMOR4U6Go5FSrSz7y6zVuSM32uLFr8vF3XtoDHOJM1S/hVhaz/VQ1zFhQoDQaOEUcUqm/TUszD0bkrrT4GDJYjVCNTBETuZK9eVLMPkYa2ijtAo3M/kGDWk6nkRkSM01FYd8O0ZDDYPoVspfROZecPLRSpM72Ef4/l+AguB8nbVGP9bbDU4kltjSMIuoDQp7ynvOpNqr1XRSi8xIO6aPtmW0LcVF7Tzt/v9R0UwMFMbrPcXnPYQpYHB3nY3geh2fnYu+IVTWr5odQIZnGYn088Nbml8YPoWe2uMqucA/OKcXBwTkhLCOmCVXRbewAHBTfZz4SVZar+JZRXzc5g==",
+  "URL": "http://openil.sourceforge.net/",
+  "LICENSE": "GPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1594128266",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "libpng",
+    "jasper",
+    "lcms2",
+    "libjpeg-turbo"
+  ]
+}

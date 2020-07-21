@@ -1,0 +1,24 @@
+{
+  "FILENAME": "gradle-6.5-1-any.pkg.tar.zst",
+  "NAME": "gradle",
+  "BASE": "gradle",
+  "VERSION": "6.5-1",
+  "DESC": "Powerful build system for the JVM",
+  "CSIZE": "99899003",
+  "ISIZE": "115993851",
+  "MD5SUM": "3507f12ab3ed39388230a579974d8a75",
+  "SHA256SUM": "5fa0cb92a1b3cbd37c127f5ffc5dbf1413a75d95838f3b8356cf7a6fb99e3ab7",
+  "PGPSIG": "iQIzBAABCgAdFiEE4kC1fixGMLp2ji8m/BtUfI2BcsgFAl7k6AMACgkQ/BtUfI2Bcsi7FhAAjc2Da9rW+fcc28VdqYXhlHBFu8cY4NgkbmH8/LZ+faoyY1vpUSGUyJ1/gcwUfDQw1DQX47acTvV3X9/FvTrBA53qg6LxMSIGLqQAXPYqpUn3NVd0k8J2Bg5erymAoARUzqGGS+BmONVFNRgwQvhavZrQserSF/Z5bxTUJeqD5UcQSmsiznISdkiU4JEok/yqxSIDj0bY8/9UGjzSuiNKG9xpkT07d9hDLqVG1+L0khHVmEHQGfj1wpE3OqzTYmzdzhhm/Y09BCUDz69rWV7tyYvdaG5NF2dWJ2m0Ab37M6vBKe8ytugcR+mp9JkHRpQqbjlyNl0m/UejdeGuN0XW2asXWLCNEcZdpCFbb24RDY4idTpZBOB7K6R4gZRp++NCQOYu5MHNyyNM0LipBSF3eiXgPDnqsMcPoSg+AshVJtQ12fU82SAWbT+lb2MHZP5dvfspmiGp4YQcsD24LRPvFWi/DmAZqSBwDengdiGiJsVyryk8A1nrkFHYCaeevmgVf5kcrjztIwv4uZX38ppvCcpnA6K/E/qo6U4OuzyMTBcOo1Rc1jOXHHmvwZCmYSf3fjnJL73X+G6X7kyduCjAksQ/mBdDMjxRH03h9kc3qz39GSedSL7+Cobkk1nfXLkHu8q0z+U2Q7OdO5lnlaaRibd3MTg3xY8VRGVzbT6SVeY=",
+  "URL": "https://gradle.org/",
+  "LICENSE": "Apache",
+  "ARCH": "any",
+  "BUILDDATE": "1592058833",
+  "PACKAGER": "Levente Polyak <anthraxx@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "java-environment",
+    "bash"
+  ]
+}

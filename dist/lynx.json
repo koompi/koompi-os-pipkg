@@ -1,0 +1,24 @@
+{
+  "FILENAME": "lynx-2.8.9-3-x86_64.pkg.tar.zst",
+  "NAME": "lynx",
+  "BASE": "lynx",
+  "VERSION": "2.8.9-3",
+  "DESC": "A text browser for the World Wide Web",
+  "CSIZE": "1342243",
+  "ISIZE": "5238772",
+  "MD5SUM": "68312e2df97c2a9b232d9562c1b4c4cc",
+  "SHA256SUM": "4d8784dd800680de24fef175907cf0033c802168531286448b68dcb9460cca9d",
+  "PGPSIG": "iQEzBAABCAAdFiEEhs/8qRjPOvRxR1iAUeixSKmZnDQFAl6/rhoACgkQUeixSKmZnDRj9Qf/UMuvPdfCl5oRMOHOFfKyEIjqxfWuW0T1lzJsDGTT+liQIc1VmzeAXKHAcVtvSZQUvb6vfFnpzjWZK2re7z9GhSE5gGix10936YNomM7DlusnCN48j+uXyeYoh1JWJ4uB65bkADUuoSbfj9p4he1pnUcNr2YsNgoe0pEWm0lRva2UxG/Yipxa9scGl9QFzT8ZRs2UHCv/agwmjZo5VAW2CXqurpLtroDfkPH5Ef5Tnogk+lFDfM5MGHO33WhfE0gJdrH1BX+g1sC4Hfs7QL8locveFsmq+5OuVVmHWXwvYu6Ywztn+cTMsL6USZeleVWq/dZ/x6KjZ1PxneyMsN/JqA==",
+  "URL": "https://lynx.browser.org/",
+  "LICENSE": "GPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1589620159",
+  "PACKAGER": "Evangelos Foutras <evangelos@foutrelis.com>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "openssl",
+    "libidn"
+  ]
+}

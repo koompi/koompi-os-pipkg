@@ -1,0 +1,23 @@
+{
+  "FILENAME": "aws-checksums-0.1.5-1-x86_64.pkg.tar.xz",
+  "NAME": "aws-checksums",
+  "BASE": "aws-checksums",
+  "VERSION": "0.1.5-1",
+  "DESC": "Cross-Platform HW accelerated CRC32c and CRC32 with fallback to efficient SW implementations.",
+  "CSIZE": "45560",
+  "ISIZE": "70928",
+  "MD5SUM": "74918148c31b947cd3ba1bc794e29a95",
+  "SHA256SUM": "78605b9d82eb57046c23ee01f64c1adf728b38f2258a6d39c48e6a2cb427fab7",
+  "PGPSIG": "iQIzBAABCAAdFiEEjhmSFnRl21+wRVV8sChU7XU+Dx8FAl3bHckACgkQsChU7XU+Dx9dRxAAoZw9vGprk4hpaq6sfuJBfX6hUxfCcfG8wKOwSpxQPXzgidnJwUW1Qvy9wc0P/HypvE3Hyz7hBExRNM8qgio32fJQ08dbz1ynoIdybnpJhtiP0VYijmh8L7VpidZFowK3DeoVD3Hth216MS2Y78cEOYPprfvpT/1Y4x5yrtAeAMT+d9CtzTfL3xH5oZpXDvQfbR6xa84pQ9pe3J7tCZi1X18rq+m+AtKG37P68FHDz1bYtNAYeVNyBDPDngRZsUToZKnvuC+Ej56i8JrJbTiVGaYLydIHfQAC3dlfM+8zHHcAOSSaMpw2O0iQ5GTTDW4zbM0UbIbUhW/enT2iN0cbXhpxLrLphoQedqvNwqdb/xAh/ld4gB96TawchqE89oV5GNOc3awB4VhdlI+kDOsEXEczsGuwF1wq/a/L0lwQ4szJqZcyRwAJGB6JUnMtRO6qoAMx6b8C5CYNpNbYRonC4vY93rlo9WV2XyXKB/QXeK52acDYBvzYLkZWewMz0H2KhTf5cc86lp0pcWWWk04tdbB8DLHDVgI27yBM6Qt9WKNTa1rQfaV/Kp6cyTnsC9YdNwDBfbvaQ/odVCQAxcEomT1TWCwVuITUfnzHkwLqULwrOlt7n+zgj/iqjp8T4zc84RMPpgS3T1Hy70JstmIZvE7cL9LEEnMvoSubglrAs1c=",
+  "URL": "https://github.com/awslabs/aws-checksums",
+  "LICENSE": "Apache",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1574641067",
+  "PACKAGER": "Anatol Pomozov <anatol.pomozov@gmail.com>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    ""
+  ]
+}

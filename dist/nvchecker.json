@@ -1,0 +1,27 @@
+{
+  "FILENAME": "nvchecker-1.7-1-any.pkg.tar.zst",
+  "NAME": "nvchecker",
+  "BASE": "nvchecker",
+  "VERSION": "1.7-1",
+  "DESC": "New version checker for software releases",
+  "CSIZE": "59699",
+  "ISIZE": "199117",
+  "MD5SUM": "3e6982d877abce575bfe8088b224e36a",
+  "SHA256SUM": "17815b321c8a06928e1c8375965d880979ccc0086f252463485ec85afad9cc7e",
+  "PGPSIG": "iHUEABEIAB0WIQSYX6G7jYlWZgHv/xEEU6bKI8VjFQUCXv8tEgAKCRAEU6bKI8VjFWc7AP0Xs/ZJh3eYbOQ6tY5Yn7jldr35OBcU/F7aOG9WPUV31wD/cP0m+lmAqCHDEO1XBiGVF0CmZcwM543BAtyKUAYkx80=",
+  "URL": "https://github.com/lilydjwg/nvchecker",
+  "LICENSE": "MIT",
+  "ARCH": "any",
+  "BUILDDATE": "1593781347",
+  "PACKAGER": "Chih-Hsuan Yen <yan12125@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "python",
+    "python-setuptools",
+    "python-structlog",
+    "python-tornado",
+    "python-pycurl"
+  ]
+}

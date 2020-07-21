@@ -1,0 +1,23 @@
+{
+  "FILENAME": "perl-email-abstract-3.008-4-any.pkg.tar.zst",
+  "NAME": "perl-email-abstract",
+  "BASE": "perl-email-abstract",
+  "VERSION": "3.008-4",
+  "DESC": "unified interface to mail representations",
+  "CSIZE": "19029",
+  "ISIZE": "34039",
+  "MD5SUM": "610a4eb8a7c837864463dd6991e45598",
+  "SHA256SUM": "276d88378cc27729fc2b7348b0fc0507509f5205c2745f77e96fed69fdaac81a",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl8ErVIACgkQeGxj8zDXy5I/FRAAuKGcbGNyzvSPnS2+PEP0LiZZGHYAOQNPtoFD4HOQiN/PceK6aJ2bTt9uPKU9Ihpf3LbEx2buxUvWjZAfzA1t36Qb7ItGxIFmqv5pysOmzWqPWfpSLqMegG38M7aeJfjn8WM3PiBeB2fR+RjnMNkNsDmf3JWjd4TFRGb7Q/YQ6cYRVXVMbw9kK8IHlucHi6n6uaNidbML10pLCH8o399JwWyz7pD3XFFVwlH68uYAxM8JnmbvlbTquK+E55lDykZ3wvB9yeKda0DDvV+DcmkkwH5XxgiKH3GIupGvHsThD5gVh9Krad60y1MPkyNdCsWbDPOwV/gqxoV0ET961S8lTC+y2pOcxrGE+iFQf8tXIpKY9XC5Mt/55hNUfcFcrI3laFB/b8qvCxNRiXkbpy33B2238l1j4tImH1o3EJMy52ivGJ0eeP9eHm/Q6/4s3pk7N1pI7mXXvmb04684yEhR5exbTfM2I8h1M345N6dWL2m2T7xkN9trLTRu/ICIv4Y9gn89jeNrYJkZAAJ1/Nr3N2oECiEFJrD1uxp/HUWHuHwDA2OYaxT5B5UARiGnUk/sJah1SNSkuwDBjDhyjU5nc8BzNv0+cC+neVAyN/MHFnOePUDLSLYXV1EC6p9z4F/wZ4NlkS08+61m9qLIdn0BYWfkvsaJXwQDBPuUAYA5k9A=",
+  "URL": "https://search.cpan.org/dist/Email-Abstract",
+  "LICENSE": "GPL",
+  "ARCH": "any",
+  "BUILDDATE": "1594142019",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "perl-email-simple>=1.91"
+  ]
+}

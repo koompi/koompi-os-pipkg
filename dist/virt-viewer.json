@@ -1,0 +1,28 @@
+{
+  "FILENAME": "virt-viewer-8.0-2-x86_64.pkg.tar.xz",
+  "NAME": "virt-viewer",
+  "BASE": "virt-viewer",
+  "VERSION": "8.0-2",
+  "DESC": "A lightweight interface for interacting with the graphical display of virtualized guest OS.",
+  "CSIZE": "240508",
+  "ISIZE": "1192960",
+  "MD5SUM": "96b8a438c88081cf8741f5d266e2c722",
+  "SHA256SUM": "9db48a287286040b767995d354d7d3332490e79e701d341b0764aeaf2c9ec946",
+  "PGPSIG": "iQIzBAABCgAdFiEEba97gI+d8lE5YgAA0hRh49/iBg0FAl2sc84ACgkQ0hRh49/iBg0FFBAAs9cw3NZmsYCq90rAmvCjOUg6oeWLqqdFWU+rVGT+flxfAnL6zrVxmRWSir1r+UFASoQeWLqdrnRK4ItLVLqCMo0vhLjGyJNBGcmIrmnPwXHVP4eraxWufQZ0qOjvv6t3lz85NaEvYWkPwOH/31ZxN8KcYeT06QUu5g1OTaVRlG1uP68jqhmyuzGOVu6Tdw3FWqhXALF96/s6A85nejNvED8r7yIbebZMoYzNosR7swpHMvw1QHDujX2N8+90ymrT0oVX4nl7q03yKhIGlLUL4RRZfZmEkCWgOMwcDtU0ceBew2q97I1ZV6rz7XJcl6MDSvSYiXjanF7X7rfO2rf6pyCLkAbMTkKySykefLPLNmsnZ81ESnXOeJ5y6SJOUNuU9SxB9OBHOizcz0W3KwvtN434t7WtnzHVp43AKsHtqvlTaWZItQfGT+/PKUExV2wff7S9KM/Caqq3EgihFjsNzwNVAScQrpixIw+Vly3ZEdejTDAgt3FJGT8GZpgXNiDLywl5MCiCFZoOxI3zxcdv0LNyUhZhqWUOc9DkaFldoYAID7W8BZ7yzdadc1Vy0AVEnFhiUPyjboI0goPN8oGp68tjwAmwyPYULp38D5e8EoKxyAIz4ud4xtCvTMqEeLKsAHA2l76DAnjDUEz3KfKRi1rQz6nXCRzN6nR18oPAlro=",
+  "URL": "https://virt-manager.org/",
+  "LICENSE": "GPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1571582859",
+  "PACKAGER": "Christian Rebischke <Chris.Rebischke@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "gtk-vnc",
+    "libvirt",
+    "spice-gtk3",
+    "desktop-file-utils",
+    "libvirt-glib",
+    "libgovirt"
+  ]
+}

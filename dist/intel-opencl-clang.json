@@ -1,0 +1,25 @@
+{
+  "FILENAME": "intel-opencl-clang-10.0.0.1-1-x86_64.pkg.tar.zst",
+  "NAME": "intel-opencl-clang",
+  "BASE": "intel-opencl-clang",
+  "VERSION": "10.0.0.1-1",
+  "DESC": "Wrapper library around clang that can compile OpenCL C kernels to SPIR-V modules",
+  "CSIZE": "95541",
+  "ISIZE": "939531",
+  "MD5SUM": "8ce41eb474e2779ae10dc0df63acee4b",
+  "SHA256SUM": "ed73e41bc762ae5986251abd4b6c96f21cc1804bcf878ae817327af5d1a21bfa",
+  "PGPSIG": "iQEzBAABCgAdFiEEado014/g79WWrG0EnYk+xNqvkSkFAl6XF7UACgkQnYk+xNqvkSnAyQgAp93kulR5t+sEfzdh8fWdw09/nZJZtoBGz6Ti9CXKYk4xB0v/FSJ7qvkcEMhfCIeRq5EjtpTR0IccT55YBs9QxF33OiRyEmVeO3h/3izKCUZfc8M9u9GemALcwbqlOB3jwSlBJuVJKxso1N18RuhP8hG1lSgMNWPaEdKMESt6e4SOWdYg3A0yzalf/31TCBRTxMr1OhuBeLVwhUVH0mhSb/yyZS3B428jUfkwlwA9gKD3v5cdCfL2waRJq+EaLEXQMjNcHFskKBMKgnBGnMZCbyLaSBn0T9InUxukECkctvw1ga+n+ZzgJp0+D4q/YtQ6TQW6w2V/14OXs65YWVpKHw==",
+  "URL": "https://github.com/intel/opencl-clang/",
+  "LICENSE": "custom",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1586960055",
+  "PACKAGER": "Bruno Pagani <archange@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "clang",
+    "llvm-libs",
+    "spirv-llvm-translator"
+  ]
+}

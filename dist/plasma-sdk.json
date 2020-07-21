@@ -1,0 +1,24 @@
+{
+  "FILENAME": "plasma-sdk-5.19.3-1-x86_64.pkg.tar.zst",
+  "NAME": "plasma-sdk",
+  "BASE": "plasma-sdk",
+  "VERSION": "5.19.3-1",
+  "DESC": "Applications useful for Plasma development",
+  "CSIZE": "389846",
+  "ISIZE": "1959950",
+  "MD5SUM": "809240ad7d1328c3a54f543a9f017207",
+  "SHA256SUM": "45d2e704d084ac15b46a73040e96d08fdda32c29d7cb95ae406e59d9e9a6334c",
+  "PGPSIG": "iQEzBAABCAAdFiEEFRnVq6Zb9vwrc8dWek52CV2KUuQFAl8EhXQACgkQek52CV2KUuQo3wgAgp8e3mn9A5Z4wcqBuoitUs1BH1zXUsvlo+QUDLosjlfkZKkS1tsQED58ABwP7FOL6KNYIrGaddSC1GBmP501dwqh02hMhGaRVll4GqsfxX2UOUULxBkICWp47zBbWjs7qMEYwT3uYUxKYH6npUSGXNvADd6qa/uk8ijSbdAqwXQhJMdtJTPIFpccq0R2JbOJODRSRUMrZ/MMp8r24TLU4SQ5VDVHdYR2wGN3UDA3Jhv5VtQjrvBwqhy6iMBLrGXZTgIp8QElCOxeiPaYXb/rW6yASyChNbjXTLcfRvQ2OxCwaZ12y/3rHysGqUi40H4EBtk6STdZKbT9uKRQJTbKPQ==",
+  "URL": "https://www.kde.org/workspaces/plasmadesktop/",
+  "LICENSE": "LGPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1594130666",
+  "PACKAGER": "Antonio Rojas <arojas@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "plasma-framework",
+    "perl"
+  ]
+}

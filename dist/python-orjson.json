@@ -1,0 +1,23 @@
+{
+  "FILENAME": "python-orjson-3.2.1-1-x86_64.pkg.tar.zst",
+  "NAME": "python-orjson",
+  "BASE": "python-orjson",
+  "VERSION": "3.2.1-1",
+  "DESC": "Fast, correct Python JSON library supporting dataclasses and datetimes",
+  "CSIZE": "197293",
+  "ISIZE": "508908",
+  "MD5SUM": "34ba896a5cd9ec2d4dfd51f44df5bd98",
+  "SHA256SUM": "fae1aaf588f8f6c5908b4bcf29753ff2b69bcb0db4af83f5ba6b98d147ab32fd",
+  "PGPSIG": "iHUEABYIAB0WIQTH54SUZv4jWDQ1iDdyWHNLQcMVSQUCXwMaSgAKCRByWHNLQcMVSWrLAP45Mu0CI8Iml/eLhfmq7Np7hpippEcaHLWu4k0ZYrsPEAEAwd8tWQMAF28QiKK5iC8DiI9Eh3Wh5gUiid3c2gTP6Q8=",
+  "URL": "https://github.com/ijl/orjson",
+  "LICENSE": "Apache",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1594037723",
+  "PACKAGER": "David Runge <dvzrv@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "python"
+  ]
+}

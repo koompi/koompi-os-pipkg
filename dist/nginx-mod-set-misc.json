@@ -1,0 +1,24 @@
+{
+  "FILENAME": "nginx-mod-set-misc-0.32+0.3.1-3-x86_64.pkg.tar.zst",
+  "NAME": "nginx-mod-set-misc",
+  "BASE": "nginx-mod-ndk-set-misc",
+  "VERSION": "0.32+0.3.1-3",
+  "DESC": "Nginx module that adds various set_xxx directives",
+  "CSIZE": "20449",
+  "ISIZE": "73282",
+  "MD5SUM": "7e834c5d41a0432c196f86124574f32f",
+  "SHA256SUM": "5e520e3c2c0370564d3dcefd781075509177ad68178747362d8617c6bbec03c7",
+  "PGPSIG": "iQIzBAABCAAdFiEE7MrITBugimzI5j+78i+x14p3rqsFAl6gmzYACgkQ8i+x14p3rqsilhAAyjUi59XFAO2imCzn4BCChG0QqBvmQMESgzPcbnqVgPhrigc9dmzl2YVLZXtirXAyqrrr11RxOqgV2QL58s6e5iMSenwcNe8FZfJCtkP+mAdCfe0Q8TGLbyAY7OuRWglqteJsgFlz3xV+HgZIgPdrPwR9JUPifdfqnGithBa/57KCRJu1KLgPeLqsH+ZGAN7eFhJs9qZNMJCzwYGtgW5+Ms/I2iZvwqEffBTqeou1yrOsWicHODtxP+l/mwJEDsowc/dUmfXXvFOENlBQQfI9YhUVgkWTjWUwsB6qHHoLN/LAUI/kQPrJR2nx6CULxqHYR9FGnYJ7a+HJsx6lKioCn/qi2elBSszOs/vlnDs7uN8R2dtHDDTnpOUmOLZgHXYVD8mkdoqQ/jAMD4GkT0G8f5iBhdKHP78AcC4cBNMpi1Gl4nBox/BhKWviWljfn3kAjissacNxSuJMJPAaqQy8KazU+Z/a6XyHJj6Pi5bbjTI4dWoKV7K6QIBo8yr8uyV6qGpuh2hG0x4F5yfeFrsfSawC9OhYRGn+tfVKrTZ7PMhEkzYm+myL0SkJIobefi+2KQQwd84a2DTmcBYk0IKtG0r4yAoGDOFpAxzTmCkopXglcPwg9TXgRSwJvSDDGkgDJ/sVhTqgBYBnTARQZZqaBc1XQ052NHFUfukdqbVyndU=",
+  "URL": "https://github.com/openresty/set-misc-nginx-module",
+  "LICENSE": "BSD",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1587583719",
+  "PACKAGER": "Giancarlo Razzolini <grazzolini@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "nginx",
+    "nginx-mod-ndk"
+  ]
+}

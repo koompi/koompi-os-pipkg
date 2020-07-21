@@ -1,0 +1,23 @@
+{
+  "FILENAME": "chrootuid-1.3-8-x86_64.pkg.tar.zst",
+  "NAME": "chrootuid",
+  "BASE": "chrootuid",
+  "VERSION": "1.3-8",
+  "DESC": "Runs a command in a restricted environment.",
+  "CSIZE": "6223",
+  "ISIZE": "16395",
+  "MD5SUM": "169673a3fa8fc702ff455ee0c1f6e03a",
+  "SHA256SUM": "4c75b5c58bf05400896e6b01994a70cc1150a2c5a2ea893591fbd18f91c7fe4e",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl8EdJgACgkQeGxj8zDXy5JiZg//S9061uzU3zoaUDS7Z1l1khsGFzsAyliXTk4WJa+tuwTOslzbCpLVdIG6q3bFefCsivTvDcF2swLD677n5ow3OSDN+kFaiWE20FLgLBAQ00mawnsxlaOIp0bUeQhjbiDkyAHkDhF7+f1i+K1UdWqlCI1N1Xnuxt8sIiFxef6V8rCvU5F7URKeHQbAsduiWxGF+pQgl5vvvBVfHA+hO1+gIt2aONI9U6afX7siGdsLO3OQLzUVPVM62xP1ZRTXo3cpzFTMMMV4pa4eMgo6KWzTJXZV4lE8hOpQ9fKYE9HcqqLRdV/9vaRY1Yeeot8aRJN29hSs8EjyNQ1rSa7l/3UC4s7TZbrDK0yKWjBwJoQ6t1bG3N2efJzcK3RcIgiN0S07qSxRbpPzHtFt7Qjkb7D5Ql7lJrlZ/HHFNraA7lndvy6e5dvjkOFnc912mAtu9/oo0klA7NdDtBtwgl1vHQe66lxfDZ5HWNzGetcheguVo7QguWMxZncPYDUKINueD+pdB11OCXuwN1k5bpZw/u385GUaPCCQlOFOnSXKOusIDIwu85D2p8T95IUsYU6AJAFJ0WRnwGfIjl6N0qKzawNepblpGPKmtq4EQEL0w9XNOkC/tKBpkWhUhmWNmcTjt5u5HMIWNFXZf90QQUeqkpF2Hp5Vy8wr2RK8b1lp8O8rmcs=",
+  "URL": "ftp://ftp.porcupine.org/pub/security/index.html",
+  "LICENSE": "BSD",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1594127403",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "glibc"
+  ]
+}

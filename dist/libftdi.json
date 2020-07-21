@@ -1,0 +1,24 @@
+{
+  "FILENAME": "libftdi-1.4-4-x86_64.pkg.tar.xz",
+  "NAME": "libftdi",
+  "BASE": "libftdi",
+  "VERSION": "1.4-4",
+  "DESC": "A library to talk to FTDI chips, optional python bindings.",
+  "CSIZE": "108976",
+  "ISIZE": "516305",
+  "MD5SUM": "af228cb34c893dd8664b695757802fe6",
+  "SHA256SUM": "316d1cf6d4c1870708b8110d1c7b215672c729022a35921b1f0debab34400805",
+  "PGPSIG": "iQEzBAABCAAdFiEEhs/8qRjPOvRxR1iAUeixSKmZnDQFAl2/NqgACgkQUeixSKmZnDT8dgf/bEF4HD2rI3KWHhbxgD7gHyfN3gMfyPexqhG+n/eJsHCCl5q08Bbkq/20gqMANKvUIrvD9XhFxydre/NUmQKk4BKNaqaCub4lOmyL4ZIhnnY4Gl4GPA8rh50l7YAJ4xMuUWXuBix3hDwbweHutV1KIxUiiNe+qcgLIyH345FmJ/1laW2NdHmkhIhrzoRomV/nuMJkAxTDe2p76Oyl7ZE02fIEktyXZRaZmrOEAGoKQTrMVghI7ni0/gOswLJEwQ2aqg+r8HJYkgNIgh2G4645uU/8PQLilrGizoNURU/YcP9DgFylEHtzMXIch+PlFrUhp9UDQP6WT1FYx5zDFNZbdg==",
+  "URL": "https://www.intra2net.com/en/developer/libftdi/download.php",
+  "LICENSE": "GPL2",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1572812426",
+  "PACKAGER": "Evangelos Foutras <evangelos@foutrelis.com>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "libusb",
+    "confuse"
+  ]
+}

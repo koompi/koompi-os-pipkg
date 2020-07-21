@@ -1,0 +1,25 @@
+{
+  "FILENAME": "haskell-persistent-qq-2.9.1.1-107-x86_64.pkg.tar.zst",
+  "NAME": "haskell-persistent-qq",
+  "BASE": "haskell-persistent-qq",
+  "VERSION": "2.9.1.1-107",
+  "DESC": "Provides a quasi-quoter for raw SQL for persistent",
+  "CSIZE": "39408",
+  "ISIZE": "163418",
+  "MD5SUM": "2b54a92d06baaaf3df1a1a025627de1b",
+  "SHA256SUM": "1e141cda93ff36a0c667d395c7233403de7e13475e049bb64b00af84a132d254",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl75xCUACgkQeGxj8zDXy5LLXw/8DAvSGkQ0uK5/bADY0/Faj/Bk6w6fdjihFWHlo8U6tF54x8VXNAewV+VTwJZPGHBlV5EtWpwwbZoCoz1aOm62noGyDRz4ZGuFqWyZBAt1tAkDpNnjYACT7kGRAzqYew2MXJY7APptnMS7J1gU73FUS5BJUXbcUlqUUTi7gH0Qmy/ExfRscPmNqzyuGR7WdwxobLN46VLxMliJs0mS72OOtDGLosufJ/ISPBCGHrhIj5bNxYu4Bd2oedM0MWqRMeAbqtdfafASKsZ3CW3f8piZstjlpJ2FxCGo69I5aikNjICSsQi3JSFpHJxG3Lz6GovhEWYTRlIf1SsXymTpNr8K2AP1PFi9lIUTT1aQROS1uzCwDfHBexhC0AuDCWVv/LvFAMISNnSBvh6LcFzsZUMMBfdO+neaucad8n2XgrOW0ccjGKFzxDDIex4eYZgltusPoZwOb1iJW17dmqpJDKCwTNqDx6Bz1vZK3OGB6W6c4oBTk8bPySUuYLfRWP3HQ/vRoabiI8Y6rC34bK179t5myd/62phd9hoh23N8TcIABcOLPPN6LJV8PXkC0ii9s8DPy0rLZPkRO+KD/4dvwrsUzQC4W5JG0FU9pJaO2YJsW96hxJ6WNvwzpMtTf0+qq+ua8Hpw6ois+KkYJLZuq1eRE+ppT/Xmux2mcVFJXCNw7Kg=",
+  "URL": "https://github.com/yesod-web/persistent",
+  "LICENSE": "MIT",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1593426914",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "ghc-libs",
+    "haskell-src-meta",
+    "haskell-persistent"
+  ]
+}

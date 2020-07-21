@@ -1,0 +1,26 @@
+{
+  "FILENAME": "kproperty-3.2.0-2-x86_64.pkg.tar.zst",
+  "NAME": "kproperty",
+  "BASE": "kproperty",
+  "VERSION": "3.2.0-2",
+  "DESC": "A property editing framework with editor widget similar to what is known from Qt Designer",
+  "CSIZE": "906417",
+  "ISIZE": "2157291",
+  "MD5SUM": "7a32049e5a1dd68e2c6be86c01548d99",
+  "SHA256SUM": "7684f7b132292f5880142bf2b072d8f69b55b00815577aa6cee1b3026b814af9",
+  "PGPSIG": "iQEzBAABCAAdFiEEhs/8qRjPOvRxR1iAUeixSKmZnDQFAl7DqtkACgkQUeixSKmZnDRoeQgAnXo0n43Xrrd4/0tn+1AdsjoMaqtri0XArB6D4ChxR0ddPDGpgA8ToWcKgMrWE/T1asuNN152yKbJGFpFzhy4Ea7vsWioSxb3Xsj7lPPCX6FJvZWSECpnvi+dZ0QLE8SRvNFzpUIirXG2lx1pjfAh8ELKaAHhfd9wa+PiULC7vXZFCGZKsk3oWsk2zM1miznMkee1oIyoFCJmK74+O0hG//sMLEyhuGdfcKbr8AzZUdWOdD+07btrVbJV2GZeYQXxkHajL28lL3dq1F3xIVA+bxkL/AhGx7e/Qe9Z7rFdFvVr+WrqXh9+H4Khs2d8PyvpeadPDRjxMdxiDzoRotxSzg==",
+  "URL": "http://www.kexi-project.org/",
+  "LICENSE": "GPL2",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1589881520",
+  "PACKAGER": "Evangelos Foutras <evangelos@foutrelis.com>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "kwidgetsaddons",
+    "kguiaddons",
+    "kcoreaddons",
+    "kconfig"
+  ]
+}

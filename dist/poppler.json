@@ -1,0 +1,31 @@
+{
+  "FILENAME": "poppler-0.90.0-1-x86_64.pkg.tar.zst",
+  "NAME": "poppler",
+  "BASE": "poppler",
+  "VERSION": "0.90.0-1",
+  "DESC": "PDF rendering library based on xpdf 3.0",
+  "CSIZE": "1386479",
+  "ISIZE": "5545724",
+  "MD5SUM": "d0e506f97697b26d083b1dac4684f202",
+  "SHA256SUM": "7a841111f23ffd9b4f64a134501f5e6a29d82e4931b943b8c352ab9aaf27a9a3",
+  "PGPSIG": "iQEzBAABCAAdFiEErcih/MFeAdRTEEGelGV6sg8qCSsFAl7+7aYACgkQlGV6sg8qCStE4Af/abIC/gp4npbg1L3tCImIedxjWtKYpb/dV8v6sxmAeBEKPGRDhyJIcgBfcIDGQNVxJ4VMIbKGywSJeql6P9kpDrnoeVs88HLhVDTF+gsEhS3zrhsOliqFNMLarViLX9P5zZR2+c4r19DaoAn5YM0E/7KAaZrVvZaxW8vkXoYSfiybkjV/2Hks9B+VzAgoGkvNEfl9744y5s1tYKK5ktw4RRHqjZhNWRTYG5x8vtmizmnHIQcS+QNusOmfMVDnGYHpvlwLAEdCx/SDf3wyCXNE7Q60zGSNdXuBZ0oV+yTQuSXxgMU22fsyg1A27Lc/s9mK1Ic1Wuf5Y4+MCQgWA0lTkQ==",
+  "URL": "https://poppler.freedesktop.org/",
+  "LICENSE": "GPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1593763521",
+  "PACKAGER": "Andreas Radke <andyrtr@archlinux.org>",
+  "PROVIDES": [
+    "libpoppler.so=101-64",
+    "libpoppler-cpp.so=0-64"
+  ],
+  "DEPENDS": [
+    "libjpeg",
+    "gcc-libs",
+    "cairo",
+    "fontconfig",
+    "openjpeg2",
+    "lcms2",
+    "nss",
+    "curl"
+  ]
+}

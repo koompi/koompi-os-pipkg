@@ -1,0 +1,27 @@
+{
+  "FILENAME": "asp-5-2-any.pkg.tar.zst",
+  "NAME": "asp",
+  "BASE": "asp",
+  "VERSION": "5-2",
+  "DESC": "Arch Linux build source file management tool",
+  "CSIZE": "10906",
+  "ISIZE": "20160",
+  "MD5SUM": "3340ec87871bab9c9f2f26a3cb1472b0",
+  "SHA256SUM": "af5478656ad217919b2259ed03f6ed16f356fbce2c8690aedd5dcc891f0d61e7",
+  "PGPSIG": "iQEzBAABCAAdFiEE5JnHn1PJalTlcv7hwGCGM3xQdz4FAl62yRwACgkQwGCGM3xQdz4i3wf9GObJ9Gyfp6a/WumKEZcu2fshXQd5RcDR5Zll79H1AHbF7YYCW+FUDWzy9BHWoWShECIv5BLscfSYQ/vqayOfQmXj8RofE42GKnk08qhafJcPsotnxYVW0Agl0yQ9QHBJlq1/jjk0744c5qA3r//Ozga0WtGnbW37ncghW7htm5t/qsJFk+9oCltjljCR7ZSzmkzlksqGuJrPc+DpMcZC66VUkAQgRYF5IctzpCt6qr9Bv3e3nIDx9LYRUvoTwgRnsyuwfJQ8MwgbSLO/qP68x3vWvsEFJUi+MOIY3v2nE0pDl1Kyknv1LwA2+T5WsQwnmLGDye0vMaMmywQibt1ARg==",
+  "URL": "https://github.com/falconindy/asp",
+  "LICENSE": "MIT",
+  "ARCH": "any",
+  "BUILDDATE": "1589037284",
+  "PACKAGER": "Jelle van der Waa <jelle@vdwaa.nl>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "awk",
+    "bash",
+    "jq",
+    "git",
+    "libarchive"
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "FILENAME": "vdirsyncer-0.16.8-2-any.pkg.tar.zst",
+  "NAME": "vdirsyncer",
+  "BASE": "vdirsyncer",
+  "VERSION": "0.16.8-2",
+  "DESC": "Synchronize CalDAV and CardDAV.",
+  "CSIZE": "111778",
+  "ISIZE": "506912",
+  "MD5SUM": "298863c4ba3094af4ab199cb486f1b03",
+  "SHA256SUM": "d497d5051131856f002bfd0b56937ab33170ac94024efac6e49474080fcbb629",
+  "PGPSIG": "iHUEABYIAB0WIQTH54SUZv4jWDQ1iDdyWHNLQcMVSQUCXuMvcwAKCRByWHNLQcMVSWWrAQDEqHg/yEyOYIJ82saAXAOfWfMOWm3AGnMDQF1NwYPP9wEAmN+PWguAbNq5sd/6IcE0IY0p9/ZQaXuT7TLSHEoL1gc=",
+  "URL": "https://vdirsyncer.pimutils.org/en/stable/",
+  "LICENSE": "BSD",
+  "ARCH": "any",
+  "BUILDDATE": "1591946909",
+  "PACKAGER": "David Runge <dvzrv@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "python-atomicwrites",
+    "python-click",
+    "python-click-log",
+    "python-click-threading",
+    "python-requests",
+    "python-requests-toolbelt",
+    "python-setuptools"
+  ]
+}

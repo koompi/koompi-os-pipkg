@@ -1,0 +1,23 @@
+{
+  "FILENAME": "thunderbird-i18n-ja-68.10.0-1-any.pkg.tar.zst",
+  "NAME": "thunderbird-i18n-ja",
+  "BASE": "thunderbird-i18n",
+  "VERSION": "68.10.0-1",
+  "DESC": "Japanese language pack for Thunderbird",
+  "CSIZE": "582249",
+  "ISIZE": "643576",
+  "MD5SUM": "8adddc435f68b0dd5812ba7bcdf6ee35",
+  "SHA256SUM": "749e54831bc79d2b0ce309eba2bb68edeffb7ca39b152a680d45493c0c0c437b",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl78eGMACgkQeGxj8zDXy5Lu8A//QsMoL0Ip1MtvAAsVdgDaA3/ZNSH0zQNquOJYEV8v9ZBV2QTXaVriwTo8dnwxcFu6odMFyyiow42kmJ7y7wJaK2nJG5GJhOTniZ/kP/oCUXrimXTd+Bl9Hv0oZz8MguAtu/jOI1FGDCYq79ooiuWRZg5Y/flzKnSmn+Y12aF1+wPuoPOcm/j/VtxZ2uNITdhpAfAVi5MqjhiosjFspy8CuZmCgn+iwEEuA4Xzphg7C1Jr8Zw77FKT1A/+TLnomyXrImAIAIRzSsXCfJfo/mSM455TrUyfOpf6sA+0SZnpxzKsJ7R1uZELVzhm/d7D6kFs9L7ycTvwashKTDHbKjsGO68+LYnLVKY1nY4b90d7FC2wRsuMdLoc6RcSoPoBFCjMFgbB2ZaLIChV5yTq/K6cPO6mhQprvaBOG95K071K1Okj6zitw0oQYivfb0jW1aaiXgim8VcwIt9uZ+CNDsHlTpXI5uA3AcrWitnYwTJ6bHww9J6rTACKLTgGlalNqPzkGkOEOe2WEq8pqdcdDCS7i3ipwIJZpOZFsoZlupOzc2KUDhrmOAKiZRXLRA7wzrjfNPOT7MGpRRgEfjSvlE4bLIyPhtuOqwxy7PA1l261UAwVMP0544k04hJFaDwNGaiCZk/paW8shmgGyVnXH6dsbVOO2O1X8E7oXF4gYowLvQ4=",
+  "URL": "https://www.mozilla.org/thunderbird",
+  "LICENSE": "MPL",
+  "ARCH": "any",
+  "BUILDDATE": "1593603702",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "thunderbird>=68.10.0"
+  ]
+}

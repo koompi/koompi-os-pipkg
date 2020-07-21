@@ -1,0 +1,27 @@
+{
+  "FILENAME": "magnum-2019.10-1-x86_64.pkg.tar.zst",
+  "NAME": "magnum",
+  "BASE": "magnum",
+  "VERSION": "2019.10-1",
+  "DESC": "C++11/C++14 graphics middleware for games and data visualization",
+  "CSIZE": "1153684",
+  "ISIZE": "8255662",
+  "MD5SUM": "2cf96d4fe63bede4c10f816f38e1cc6f",
+  "SHA256SUM": "5e74d89b8ff543d4faae7df491f9a648d0bc42cfb5c35834185b4e7e876876a9",
+  "PGPSIG": "iQEzBAABCAAdFiEEFRnVq6Zb9vwrc8dWek52CV2KUuQFAl4SRt4ACgkQek52CV2KUuSBFQgAiNIWAi16jbjNLylGzyKaDCS11gH5l6sD83PlSw2wCLCjI6ZuB+1jVnP5XMdUQGB4Y8XEeZ325y6WoFwgS/ucRw59u4YknLD937uU1D5gS8kIyoPKiFzoM+0JFTBchSVyvn8spbYIbM/kSOLkQVv/IdIc09n+J80EGfwIhjDeXOk0z/YSDEX0/8MR8mr8cuBSBwzvlL5ULxzumCBeEC4CFBcLXw7TXYQrwTa5rXxhZMJs0id8omiBtbBxsr3hS30VO3mt6WteCVBeZiUOr14omKatIkXFHQx14OI1PBqAezENnRryu3X+u6KSLuoe/CUKMNESdyyy6piqiwTLA0siQQ==",
+  "URL": "https://magnum.graphics",
+  "LICENSE": "MIT",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1578256008",
+  "PACKAGER": "Antonio Rojas <arojas@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "corrade",
+    "openal",
+    "glfw",
+    "sdl2",
+    "vulkan-icd-loader"
+  ]
+}

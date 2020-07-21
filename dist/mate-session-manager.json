@@ -1,0 +1,27 @@
+{
+  "FILENAME": "mate-session-manager-1.24.0-1-x86_64.pkg.tar.zst",
+  "NAME": "mate-session-manager",
+  "BASE": "mate-session-manager",
+  "VERSION": "1.24.0-1",
+  "DESC": "The MATE Session Handler",
+  "CSIZE": "374992",
+  "ISIZE": "1652345",
+  "MD5SUM": "808b3471b2d90b8a1411c20e766fff46",
+  "SHA256SUM": "3df69f3861d18963033d697795aa59fd82cdcfdfda3a61ed0311b00336626669",
+  "PGPSIG": "iQEzBAABCAAdFiEEzFln1AlbTztC1F+ggaQC1POCu70FAl5VmboACgkQgaQC1POCu71JxwgAiSpkeeuDpl9urfvJp3sNWoJI6l0Tdasd2uPP1up8dRINiwoMAh79WnaGFEd3TSWxkxWULguJWDP3FCj3lYVSG9Y6Ee6vDgBbLm7EMreUjMxVo2qf0Yn1pJp5nl4+R7MM6OG8sFtgoKDv1y2YEKvpRKt0Sx/P+hqGP6G2FIXYfRU7czSdRapnZ/BP+FNqFlGhoCQQeR0ds2VHKFzQMal/31yXPva2JpP20L10szHeMgX+OcM1NMUN1CWXR+lFRUVn+zpFqryxdDx32JYQ57k3pKMKShL1uxqSBb+YHsrqw8XZVzOUxcOD0GSPodkydxxIVRhL7FpevyivTiBd/8WliQ==",
+  "URL": "https://mate-desktop.org",
+  "LICENSE": "GPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1582668156",
+  "PACKAGER": "Brad Fanella <cesura@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "dbus-glib",
+    "gettext",
+    "gtk3",
+    "libsm",
+    "mate-desktop"
+  ]
+}

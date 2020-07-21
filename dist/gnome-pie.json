@@ -1,0 +1,26 @@
+{
+  "FILENAME": "gnome-pie-0.7.2-1-x86_64.pkg.tar.xz",
+  "NAME": "gnome-pie",
+  "BASE": "gnome-pie",
+  "VERSION": "0.7.2-1",
+  "DESC": "Circular application launcher for GNOME",
+  "CSIZE": "281400",
+  "ISIZE": "1565696",
+  "MD5SUM": "ff8860d066b6b8b2aa75f4b69fcfb4d4",
+  "SHA256SUM": "fb3e96b9d622e0c2fdf32b179b89b92e61ca5fcf177059cf6361681427caf315",
+  "PGPSIG": "iQEyBAABCAAdFiEEFRnVq6Zb9vwrc8dWek52CV2KUuQFAlv8WZ4ACgkQek52CV2KUuQhZwf4zGoEZ2Ah+V31fiCHIkyZEyRJTCP9Pt0jjlwAoe12lvM1OyhkF7nL/DJrW9cZcosKuZjQXzR/AvzcI9VRYSYtBoalN+EjtJDuDdJWKJzQKFAbz6JpoRR+q8LVf7TFk2CeVYdig3QmskxlKICenoi8E/CCgKjzsX7RJcTcP6ZFg2iaHT3NqP7fqgOebXwpcoyoSWGnbwRa7owJQWQjsQDpzkiRQvl26wJiAsrxYja2qXqzp8c2zpK6+5q4ukRWbbhb3cEVIZTbUeOzpp1DyiPHYqA4FizmmeN8Qg+Fu6L14Zw83MtrIdm3ukYykXuloCZ1nxEz5GOzMVSWRGuOYePG",
+  "URL": "https://simmesimme.github.io/gnome-pie.html",
+  "LICENSE": "MIT",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1543261226",
+  "PACKAGER": "Antonio Rojas <arojas@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "libarchive",
+    "libgee",
+    "libwnck3",
+    "gnome-menus"
+  ]
+}

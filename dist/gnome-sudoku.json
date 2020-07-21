@@ -1,0 +1,26 @@
+{
+  "FILENAME": "gnome-sudoku-3.36.0-1-x86_64.pkg.tar.zst",
+  "NAME": "gnome-sudoku",
+  "BASE": "gnome-sudoku",
+  "VERSION": "3.36.0-1",
+  "DESC": "Test your logic skills in this number grid puzzle",
+  "CSIZE": "354125",
+  "ISIZE": "1354658",
+  "MD5SUM": "98e2b5a44bfdcf994423301df57c61af",
+  "SHA256SUM": "c36268a12cfd3a1b2a9b1397ed36c1d4d5ef1970f2d2a0d7449c72a65e3aa08c",
+  "PGPSIG": "iQEzBAABCAAdFiEEghj4iEmqxSLpTPRwpekojE+kFfoFAl5km4cACgkQpekojE+kFfqnyQgAniSVEiC2YiUOAC1vgt1ecJubQ9RTcUvTN36OFBhrq/1IN40ar114WcjVRLJyd/tteoyX7z/LItHc+avPCe45jJ/Y72WAVKRzK06h6JxPBik9BGqU3fcDzw7Yfx49dIsLFfdxmTO1aZ2qmUzYrMkGsLqb9JIaj/VB2F/PNM/cI/beSBg1tZdZG06DUAw3b95THkEslsx+NkqHS3EH4xcEKgdhiK/MNazpEdrk8fV9Fzsp6hdReMujcNBo1TVkkAEshBx4h9JvbDhyfllmUvvuUlomvS/3gP9iGkVeJDg0WLRszdCZFqLG5NedWVjgMF5AdKkYbO+5p6F7AN3VXtxrQw==",
+  "URL": "https://wiki.gnome.org/Apps/Sudoku",
+  "LICENSE": "GPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1583651582",
+  "PACKAGER": "Jan Alexander Steffens (heftig) <jan.steffens@gmail.com>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "gtk3",
+    "qqwing",
+    "libgee",
+    "json-glib"
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "FILENAME": "haskell-asn1-types-0.3.4-10-x86_64.pkg.tar.zst",
+  "NAME": "haskell-asn1-types",
+  "BASE": "haskell-asn1-types",
+  "VERSION": "0.3.4-10",
+  "DESC": "ASN.1 types",
+  "CSIZE": "87899",
+  "ISIZE": "412850",
+  "MD5SUM": "d2dbd6f25f347937fb04c106e3edb798",
+  "SHA256SUM": "9051515095c0bf8fda11fdd2c018b328351ac6841ab9d0f3219ca15389bab7dd",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl75Gf8ACgkQeGxj8zDXy5Jp+w//W5j5hT6ic91TqtbA9BGW3DzukP5RAsjdsjNyeXCCg8rSoGfj4vcAwO4dDcdJHEOHb+4KN1tIWxUkX5+zRzQGMOEsy2tK8T1Mik6Gt/5QEbV8kNeSt4hozlgvDQ5j2/8wwhHDX0hzKnK/NL4uFnwgk2a+JN5r8RXS3AeisX/ln78ygEChaZ8wqjiVa+Oi2bo4nhFLZgmG7OKpGPh0/ND/cWD5rILVgrfVmr90Z+zI99kVcIfgBQ4WNQ36yJ0vF24brE4oXLy339Y/jBqh7BspHZNliNtMN6oExv0Q5/wQQx2i6I2KRr2ImFPArvPfgtM+0FEXPjL10O8DeysBrtYCVJteKFTzBXXkzhcv5Z7yrSUtM5WTDPKek0OtqknEiWutbR487Hb2a4z+CgQaFYi66Ei1KQEnrVugbmBZwcW3C3gmUeNhf9VZ1trNkqyW7J4SmtBpOR3w3xqvq/EJm3cVh8/4SluDyR298a9pwAYX2JNk0PmMJn+/9qco/7zx6C9Ky7DB6G2R6E85mrAB0nFmd20F1j2aXUI4M/8NEjPCxDfZTnbH0Dkvbylwf3PH5N/Sw9XYyf0/XAv/qEzjnf9LkcoDLM0pnVDOF2nJzwS9jiMiNL2SQnK7njh+ZVUvN+XhtdZVvBBffxV8+OCCNQypvPkqcq49ooXk3yUgXXppNEg=",
+  "URL": "https://github.com/vincenthz/hs-asn1",
+  "LICENSE": "BSD",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1593383401",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "ghc-libs",
+    "haskell-hourglass",
+    "haskell-memory"
+  ]
+}

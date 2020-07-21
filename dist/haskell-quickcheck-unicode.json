@@ -1,0 +1,24 @@
+{
+  "FILENAME": "haskell-quickcheck-unicode-1.0.1.0-46-x86_64.pkg.tar.zst",
+  "NAME": "haskell-quickcheck-unicode",
+  "BASE": "haskell-quickcheck-unicode",
+  "VERSION": "1.0.1.0-46",
+  "DESC": "Generator and shrink functions for testing Unicode-related software.",
+  "CSIZE": "26689",
+  "ISIZE": "101842",
+  "MD5SUM": "6ee9523cfb635e7ba7958be5c0ccf624",
+  "SHA256SUM": "47a0bad4ec44e66383af4fb31d410f3a80863a93bd3e69182cbfaa7776d3d17d",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl75EZUACgkQeGxj8zDXy5Jcew//ZBS7ofNQ+Q/WI6bdwsH7BJKcqIcrsPhnunJmGNvGEmg3XQVBDw+czgpsmGYY+9U9P9LXFFQaZoJnM9HnTIG3UsmLa8DcumHc2lRf/isjdcpC9HBl3HaDW8l1NCxjZglScE+oJ/m7QbxRh5LLD1C8ZHOv54394KVt4DHuEGcdpBkU7oXeLqpw5FzzqkojUjSkdnGaHc3OcDRvkPEorfcleiz9okY4i8x7hOT8kfr/IS4KBoAjGUL2SFzpIFDNOhSe3ZuelgyQnSKqBu8ZGmaJYaptz/qgJJTDzFwZQBUnWHhZ1aMCOUlUqMtDDXHoe+76TDjJG4BYPhVMwp0K9m70XkymRsqjRYVYMXYImzCVla/K9mhMvVGdRJdj0lD6hoOeHe2kwH27GOzhOq2g8aqjuEcx69l2uhXf0hI3TLTQDHbVAw1pe66I0pOCMuQzG8tZzlvpXyHA0r16RwH/lkq2IHn6nNPxGg1gcfwgAoixoFFDqN7TQkbVlV+P4JSq+kL1h6gWOIZuQrD19yvnwn0idId2bzZNrQ91Qj5g2ihWkDHbKcPgASexi0gVq+VDo5kWT92qbBpwjEF8a3xsKuQnBEBPC9FpCRTxyQhbaLnrRrAhSpHcX0egR8nVfv73+SSK2lYJkEDMbLAsXxvmPbL8EUYhvEAJApZ5ha5MnLKSbbg=",
+  "URL": "https://github.com/bos/quickcheck-unicode",
+  "LICENSE": "BSD",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1593381248",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "ghc-libs",
+    "haskell-quickcheck"
+  ]
+}

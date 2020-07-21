@@ -1,0 +1,26 @@
+{
+  "FILENAME": "python-tappy-2.5-1-any.pkg.tar.zst",
+  "NAME": "python-tappy",
+  "BASE": "python-tappy",
+  "VERSION": "2.5-1",
+  "DESC": "Test Anything Protocol (TAP) tools for Python",
+  "CSIZE": "65427",
+  "ISIZE": "332831",
+  "MD5SUM": "b5bea5cf27d104c4f16414cf63121db8",
+  "SHA256SUM": "834cdb37ea4d045954376136a3254d384709263c3995e7098890912b15edf17f",
+  "PGPSIG": "iQIzBAABCAAdFiEELjbYYgIhSC/EXLfyqRdkdZMmtEAFAl542FoACgkQqRdkdZMmtED5Yw//cYhFXH2Z38G9E8+4sfE6PAfAw1jtO4RcuDEkJJzVtF+1h5Su39qnYaNn/Nv5ge4aR87RV8lS47ULbvo00vWs2E+PGrX0RCFwjFo0hf4EYZ2CrnhiSFd6+0alBDEkoXVID4+awSFCoh3Oghrgv5qinxRZIKqy5Ie24nYjKWpxFTcJFQDjepgQizRwqhV4mti8S5lHyeuKhIjbnHn6O9LWO23Frn/HzAVAk/0XU1qJDtMt0XzzJWtmUOE6+c+w144WnuLRYDaivjuxKq1syS4fe5gPUcy8OBcL1pk4Y60xj0eIXjDTZ2KstfUN7KDRstxBXA8m5S2OfzN11esFQYaf7Vu0zrMjG4pkANYO6XNMwdjWRR6MfWFvyyE3dbzJ/fKWbo/0nJnrRtw37L4AzBf6nGBEaxuAqhNMlYPAHdHGhBFKiEa4HingacFDEtIkbUqCHM4vJv06Lqw4MsTyyIjAF7aa3MBWZ3Mb6cMsR9EDcj6d0iFyQQnLNjpi4mjYGelSeMyJwORYsVzH7xWWR08y35U8ZYQ9v2mvIvk2xyVJ4eG5nFPJH6ErozSthnR33kXwWEOlsvkUZv16sVppNfeEHDSFLrepo8BISDje95GYTSeKeEHWV5qMbnHv63kplaiARU4Ut6L/aIJTuhygZghdFWbkUsFyLDcaVGz8dMSbfy4=",
+  "URL": "https://pypi.python.org/pypi/tap.py",
+  "LICENSE": "BSD",
+  "ARCH": "any",
+  "BUILDDATE": "1584977983",
+  "PACKAGER": "Lukas Fleischer <lfleischer@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "python",
+    "python-babel",
+    "python-pyaml",
+    "python-more-itertools"
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "FILENAME": "libksieve-20.04.3-1-x86_64.pkg.tar.zst",
+  "NAME": "libksieve",
+  "BASE": "libksieve",
+  "VERSION": "20.04.3-1",
+  "DESC": "KDE PIM library for managing sieves",
+  "CSIZE": "813961",
+  "ISIZE": "3795044",
+  "MD5SUM": "bb8785efb40699524c6f7deb785c39ce",
+  "SHA256SUM": "589ce7043a920173ac883ca7ef101716c5a11a9b1c4cfa953d43deadd4717cb3",
+  "PGPSIG": "iQEzBAABCAAdFiEEFRnVq6Zb9vwrc8dWek52CV2KUuQFAl8HA5YACgkQek52CV2KUuTeCgf/Q+rR+mhsXKO6u0pD0oYa886RlykgJhKdXZlRegKhwryLLBlvP0ZOypBJjaYfcB4hUWDoyctVEU73GLmeNUElo+erEmxiwP7pSvScxTjYA3Gy/s7pkwQm+h/LgWCffac9VLc7rOO/ELeu1Tvc8UbShO/vF+mwxvZGMD6jPBuDyysWiPaSt9d929DAGMUYrGv4yt+Cw5ktbNZz/pjS8VRAMXsoR+Q25ubJ0JU4OjAUfXUBR8YAFYqCblflRZxWlrxnWfcN3rLIns5i4AkgRTvGxA2gr/023BX4ppe125cdaG2T/lZNjaStJk11mP70RCM/e1ceEOJZkfflyXO6g8XfIw==",
+  "URL": "https://kontact.kde.org",
+  "LICENSE": "LGPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1594105719",
+  "PACKAGER": "Antonio Rojas <arojas@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "kidentitymanagement",
+    "pimcommon",
+    "kmailtransport"
+  ]
+}

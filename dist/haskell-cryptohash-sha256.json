@@ -1,0 +1,24 @@
+{
+  "FILENAME": "haskell-cryptohash-sha256-0.11.101.0-15-x86_64.pkg.tar.zst",
+  "NAME": "haskell-cryptohash-sha256",
+  "BASE": "haskell-cryptohash-sha256",
+  "VERSION": "0.11.101.0-15",
+  "DESC": "Fast, pure and practical SHA-256 implementation",
+  "CSIZE": "31002",
+  "ISIZE": "122212",
+  "MD5SUM": "b4e2c892f70a32e72755cab8def67dbe",
+  "SHA256SUM": "79ffc930b1aa7180c765f1bfc36abd9829b52c35939d56f5507e64a720ab4e84",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl7twCIACgkQeGxj8zDXy5KhGw/9Hdj0C1xt0OAE8XU3avSyfSCnieNirUbrf5+CMRqOKth4waLmRpp/od7M37XEok0dbZZJwdlqfEu2Lg98EsM1ji6p4vNHlIXqILxIH7g9WeqtEWxuw+4ofgUdzfRzaQnmuN4atZ6iYvJO1jX28ACMAQ7c7SRP5dtn8VjLc3D1U81MjRt8FtiloYv7LZo4UZNqy6sWlBasc92v546aO7bChmKzp63tQCfENzirVBSzNy4PamQ6m72QwtsG8pxdbdBw/6YqH2eIpqrBLtBHAr3UX3PU1O9TpGe1m7Xp0HYjwFuOq80DZ2nbDqpPNi8NwldVR8OL7RMaYmWlGKiteK79s+lFmPYOzxG83biD6q6aPUK761IcWEtuVzjktaCvleLkBIe1VS+y9VAGOcU8qvzKDC+72+GAvSGkvSW6Zlo8S0oy+a3YJb3GEQf584j/PvFQWIkgj/7tbwmQ7x6byVGmWHWWuJBt05XT7XHALzeF7KUeGxQX9Eha5BsyrPbJB1p/249a4Fty0LguQ8W3gA4H2y17uxz0kKduHyyh0dFYzYwzjVxQZKCpyt79ukzsCsA/CWv2ydaM7eDMi6CCpmsMW3XdQDzP60hDQRw+Pv8Jey1IrH4BairQMYNYGm8Z2qNqV3ixAGz3Xjm5c+JLhwB7uOscC/EE+up6WL/HZWN1RUI=",
+  "URL": "https://github.com/hvr/cryptohash-sha256",
+  "LICENSE": "BSD",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1592639501",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "ghc-libs",
+    "haskell-base16-bytestring"
+  ]
+}

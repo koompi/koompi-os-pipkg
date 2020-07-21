@@ -1,0 +1,23 @@
+{
+  "FILENAME": "perl-class-inspector-1.36-3-any.pkg.tar.zst",
+  "NAME": "perl-class-inspector",
+  "BASE": "perl-class-inspector",
+  "VERSION": "1.36-3",
+  "DESC": "Get information about a class and its structure",
+  "CSIZE": "15460",
+  "ISIZE": "27133",
+  "MD5SUM": "2648edbe85d8c50a77c804f2ac6d49b4",
+  "SHA256SUM": "7fa240a0c0d0f6d12064450359465322a6e002d2ac693b1e57ac78d7fc3674eb",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl7vNTAACgkQeGxj8zDXy5LUyw/8Cxwi68o3UclTMx7VCIBsmBvjD06H8iil0GMszDQyjVeQCqXQLlwS+bFOJ1A3n5ZzWChAhZXqifAiQAFpBmS0kFHkSq3fRO1ItXd8n9kzxAqzN8SY0kNpgWtXcwD2jqbpDc+/hllNY26l1rcmu6jBvKvDs2OwCXwUG2o23JV/7HMXKZMn2OwJUJEE/AmA8P61U7W7y+Ry0Egan8HUL94q36jolx0iqlZv8Q2LYd5y6OHxwMCCWzhjPMimyvNv7UZffP5kb/wwl0+IYOrgs0qyYO/JpEctrnL9KFjd1YlOaScxhH2rmHlf1rGTbo+lkYULrcTu1VewtfzItMojQNZxNbNBymnFp4aVkQ00OmlVJ8MySOmk2LVuZaegq4Wt5Vn1duOIn1EXpJ7qRezOAyGYH3cva97rsZLl6OnUaN/irKHZX45wQOx0UDyyCXWFduqVlXcyQafbAgtSTLpxoppLJ5sFJXwKMtEZK1sXTNgDkh3CRwJVfsIfM9q6zSv7pH4o0OeyPUrHm08IGkRNykvz9bovpyBztpBCdEhQBYTECpiAiuvOkf6+9pLCfUuS4EOIaIzhAXFP014x/F03qItoFoRK3stberoiZvZmVhIMME25UDl25qBhyMge6R1I4zfhkuqLQCx/PuToEL0KzkuqhaFMm0CViZ+Ke64ZP0YdNaI=",
+  "URL": "https://search.cpan.org/dist/Class-Inspector",
+  "LICENSE": "PerlArtistic",
+  "ARCH": "any",
+  "BUILDDATE": "1592734824",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "perl"
+  ]
+}

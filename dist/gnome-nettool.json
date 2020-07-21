@@ -1,0 +1,28 @@
+{
+  "FILENAME": "gnome-nettool-3.8.1+205+g8550eef-3-x86_64.pkg.tar.zst",
+  "NAME": "gnome-nettool",
+  "BASE": "gnome-nettool",
+  "VERSION": "3.8.1+205+g8550eef-3",
+  "DESC": "Graphical interface for various networking tools",
+  "CSIZE": "374641",
+  "ISIZE": "1936231",
+  "MD5SUM": "b729f16b87a59fe22520ec4829961d09",
+  "SHA256SUM": "a99df78d32078e5886fcb0f729fce76034c140836a2dd1be005ee099fd705d5f",
+  "PGPSIG": "iQFIBAABCAAyFiEEZkWwqMcAXnjbHXhk+Z/+D+rpmb0FAl6471sUHGFsbGFuQGFyY2hsaW51eC5vcmcACgkQ+Z/+D+rpmb0bcAgArSc8LbltZzN6/PMlkyG0XRG4JZEgzSx5uVptq2+CFpI4KuJtjAtw0kogzyrv5yuqsKK7Pv98ady4Zy0ADrXiJc6qTe18ZylDZfvpUhsQMpop5BIhb6nE+Be7m0K3mZpzWQPISWeUzuKqBHx2pexrgkxEN5LV/KgQHlJmN9a1spd99qxGSg8MRjbuoHKXA8JSo31k6KkVq5HFDHU6RexduD7UEylgjo6FXShiV/agWSe2A9SHJJF2Zv3nTi2PJ+yWRXM+PvV0oeHuV9bkGWr83yqYTY49KqHqVehzDb5e6VqhQ5a9VLS4S6bMzjfY8hgj0BXkEKGYdBfD+OqAuCwyyQ==",
+  "URL": "https://git.gnome.org/browse/gnome-nettool",
+  "LICENSE": "GPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1589177852",
+  "PACKAGER": "Allan McRae <allan@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "gtk3",
+    "libgtop",
+    "ldns",
+    "iputils",
+    "dconf",
+    "whois"
+  ]
+}

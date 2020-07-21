@@ -1,0 +1,24 @@
+{
+  "FILENAME": "sagemath-doc-9.1-2-any.pkg.tar.zst",
+  "NAME": "sagemath-doc",
+  "BASE": "sagemath-doc",
+  "VERSION": "9.1-2",
+  "DESC": "HTML documentation for SageMath",
+  "CSIZE": "100398758",
+  "ISIZE": "408591954",
+  "MD5SUM": "6dd1ef0762c0b7f97d02cd2a2b85dc26",
+  "SHA256SUM": "2de58c29005c40b93880205ccb1274e929084b541cb4577470cb4293b239403e",
+  "PGPSIG": "iQEzBAABCAAdFiEEFRnVq6Zb9vwrc8dWek52CV2KUuQFAl73J7EACgkQek52CV2KUuSqPwgAqh/nJb+uojkRKktVapofy9zqX7jNkeJMI1JfTxDokHCFmTy0FsVLnCOSdrPgsKCt8xnWUwi2oxTQAjJzHrDWYM0czZac/Y9Dl+3+fBPa6rTJ7oG8vDRFZhZvAM3nSMLrccxRIAT8f79L2QS8lRrjhcnaCyT7dgDQXAUvZmn8qTX/J2dM1Wk9cYTslGtmLfE0CZ6nyP+qVFn6W3atAH171GY61/wzXDDEaB9/WuB5k5rev3aP9el8pzQgpXIV3zzHSLcRJ+j33jrvV41FmCW0gNovYeEzL2YizqcfjqtaAwZ0XEhtnM70SHaYuYB0R3oz1AiCQL+LfbdIZQpwb6pnVw==",
+  "URL": "http://www.sagemath.org",
+  "LICENSE": "GPL",
+  "ARCH": "any",
+  "BUILDDATE": "1593254941",
+  "PACKAGER": "Antonio Rojas <arojas@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "gap-doc",
+    "python-pplpy"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "FILENAME": "perl-graphics-colornames-www-1.13-8-any.pkg.tar.zst",
+  "NAME": "perl-graphics-colornames-www",
+  "BASE": "perl-graphics-colornames-www",
+  "VERSION": "1.13-8",
+  "DESC": "Perl/CPAN Module Graphics::ColorNames::WWW",
+  "CSIZE": "16320",
+  "ISIZE": "26778",
+  "MD5SUM": "66342d067c34a39d713e8c6732bd3686",
+  "SHA256SUM": "960e25db429562b75e8c24f69297ba1f03a77469c2ed2289aeabde8dc42bca13",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl7vNdgACgkQeGxj8zDXy5KwRw//arY9dR1qlbRzXgMZ6xDoJFz2ywtkcX+BeTQtXX9vIzzMjKcTJ3fYxjxO3X6whFELKJK5mBcklqSM7ESGf5ezSC5RMLlOi1SqfOHPuy21Kw5ntVSGTHDgcA0cjak/akou2dleN91nNBq8/N3+7I3dAUPEcMCDRKPFed/8y6jwxaPSRR58fM/6OwtbNVe8C7A/K2cFvK32hrrvGFHyi/m4YduG9EUwVp+cWx3rV6tHkAOuMmtedRivqjA1C8io4JOLw66Zb58J+ushCotrTs6gN6TzBpXdFpTqFit46RDd9/zGpf7yyBzW+I8BT+UHFDC1Xo7hKlBwSXgiz2x2UPiXEWd82NTuNpT9iYSOJorj83dwaNsBSUrjiGcbJdBxlOB45liImyPE9uJ5Pl5GO+dAFUuOhJn2o6qPPZZ5uKqVTabJZbMe976jXLeZ9v2u4OZ9ZyiCMkwEnLmre9Z23CdleLcToEBIHrO5ZCrKxbP4ai0Tflr59qcdNCYqMHQnCpxp1WljTU7rpL27lMzCTAFMEnbNkpcJ5EHXL7w8bPaalg9a72uhAV3m0o1Ovhfs3x+1ax8cZOT1IIl/Xpg5PpYjV+JpnQwW7PWNt3RgnOUWm96vzuJ1ouh9L6/hRWhKa9Ugl9ih9ApY2GMMUrbPeLoxZ4YMmhvYvSAZBoiaNc3KayY=",
+  "URL": "https://search.cpan.org/dist/Graphics-ColorNames-WWW",
+  "LICENSE": "GPL",
+  "ARCH": "any",
+  "BUILDDATE": "1592734991",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "perl-graphics-colornames"
+  ]
+}

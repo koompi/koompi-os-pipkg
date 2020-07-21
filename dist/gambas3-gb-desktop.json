@@ -1,0 +1,23 @@
+{
+  "FILENAME": "gambas3-gb-desktop-3.15.0-1-x86_64.pkg.tar.zst",
+  "NAME": "gambas3-gb-desktop",
+  "BASE": "gambas3",
+  "VERSION": "3.15.0-1",
+  "DESC": "Desktop component",
+  "CSIZE": "66744",
+  "ISIZE": "355111",
+  "MD5SUM": "5c87a94db651c608048b06d79897f1f9",
+  "SHA256SUM": "9c13f79ca84b165407b656257c46e50abab5e6d0cf2200ce65b5b355e9d27e10",
+  "PGPSIG": "iQEzBAABCAAdFiEEU1+MAzlFDwVKTSgnBglqatHO3awFAl8C7RUACgkQBglqatHO3aynaAgAryfnCl/BB/sKorf6JLY8a8WiFJJl0PaqS+f0SEXUh335CTGXOTIG67z2iPuFjumJqs6eUYKUwC0FO62TOtQTpfvd7Y/vacdgqJ0MScI4eu5Lg+IJxpr2E8+GAumq9Qsa7XkO1IcNtaG3aTT3vqryPfiMgRs3bf40EzKY3/H+x6hfx2hK9IKTXx1pkH4sKKNK9hRlJQqWLqN9N0iVpgxMB4IYFiz/9dwSziEy92jI2bK9lbmSKIGB3fvozyzSLf2gThDD142TpWmPGazyk1y3HlkWI/S21NAMZpwFsXfaNZdQ52tb/z0KIC+IGrjsYTNcCbhWoEWFV2SjQ+HA/FB/3A==",
+  "URL": "http://gambas.sourceforge.net/",
+  "LICENSE": "GPL2",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1594026389",
+  "PACKAGER": "Laurent Carlier <lordheavym@gmail.com>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "gambas3-gb-image"
+  ]
+}

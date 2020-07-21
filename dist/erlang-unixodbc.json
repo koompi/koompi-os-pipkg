@@ -1,0 +1,24 @@
+{
+  "FILENAME": "erlang-unixodbc-23.0-1-x86_64.pkg.tar.zst",
+  "NAME": "erlang-unixodbc",
+  "BASE": "erlang",
+  "VERSION": "23.0-1",
+  "DESC": "Unixodbc support for Erlang",
+  "CSIZE": "78484",
+  "ISIZE": "235442",
+  "MD5SUM": "17051471d7336d916c41e0f08b8b2f4b",
+  "SHA256SUM": "d9df140e1cc499bc3e982ebe0e0e2b866ae856568fca083dbdbebb4f7c23bdf5",
+  "PGPSIG": "iQEzBAABCAAdFiEElihV8HLHoBhGQFhk/PPIy1z5yNQFAl7ugV8ACgkQ/PPIy1z5yNRUugf/Ua1Ee1Om2Z3cD1smc18541M3XVxbV/5YPZSp5JH2JgpZ5vluKkgns3vFZF9eXN8P7H+I4X3ZJvGCrTAw1f0OAyePFh5FWxbAWZ5xlmbT1srXtERLZDWkGEEPTihZOKVuHk9a9s9UqXuVH4A1iJerC38e39btzAvew1TsdL+yH98f5KmIBG5VDH5zAYSx5PSf5N21x76ygSzagVf7U5yfr64NNcNY/oZdr3X8NmzOMOZ/EJqcIZES0KXSqN9WvlfAkkNMOhkQuJ8/G61eJfSS8l15PnUeqyxK7sJ10rrOH5yKtPSyY5ROjAG/M1tWAC7+OHjJ+9AelKUHjS506QLs+g==",
+  "URL": "https://www.erlang.org",
+  "LICENSE": "Apache",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1592688455",
+  "PACKAGER": "Alexander Rødseth <rodseth@gmail.com>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "unixodbc",
+    "erlang-nox"
+  ]
+}

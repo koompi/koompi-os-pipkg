@@ -1,0 +1,23 @@
+{
+  "FILENAME": "libevdev-1.9.0-1-x86_64.pkg.tar.zst",
+  "NAME": "libevdev",
+  "BASE": "libevdev",
+  "VERSION": "1.9.0-1",
+  "DESC": "Wrapper library for evdev devices",
+  "CSIZE": "62629",
+  "ISIZE": "254146",
+  "MD5SUM": "cf98a4b5d3880afa2e0031b8a9679849",
+  "SHA256SUM": "f76b12804ae17245b002ac4f554a70f1afd8b32bcdeed9dcc67a6f02fc28e8a4",
+  "PGPSIG": "iQEzBAABCAAdFiEErcih/MFeAdRTEEGelGV6sg8qCSsFAl5cungACgkQlGV6sg8qCSs5VQgAqGjRxczQECLIBnh5Hal5tMvbUenNCp+KeGVUTMejw46HUT5020HU5x0hfmniDtu6YsHMD+mC0c6q6XceMnPQQtIEwLO+06kqDsn1TMeG/xJ95Ozzrqg6zeph7Fu2BM5SNg9xjEfSVVVO6hRSmcFDiKbe9wZt8NqxR2BNix9UTZ7QPZ8XQfTmsjFT+uU8hNsbZs7thQ4a6dSGRrJ9aIBN6dyWvEyAgJ+ZkjW+eWTTe6eDEeSCR4n/lDg8IqZQKwWnRXZTfHVJN1OavgTF0qvRPxnGJ3ln7CegVKyURYay0jZEOIcA+Y2Hs7Xe8B+tAAASsFTVjh+OAMfjwmN0q/cwdQ==",
+  "URL": "https://www.freedesktop.org/wiki/Software/libevdev/",
+  "LICENSE": "custom:X11",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1583135252",
+  "PACKAGER": "Andreas Radke <andyrtr@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "glibc"
+  ]
+}

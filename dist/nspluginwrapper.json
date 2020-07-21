@@ -1,0 +1,29 @@
+{
+  "FILENAME": "nspluginwrapper-1.4.4-4-x86_64.pkg.tar.xz",
+  "NAME": "nspluginwrapper",
+  "BASE": "nspluginwrapper",
+  "VERSION": "1.4.4-4",
+  "DESC": "Cross-platform NPAPI compatible plugin viewer",
+  "CSIZE": "154576",
+  "ISIZE": "518144",
+  "MD5SUM": "553a63b67eee667079a1eedfeda542c6",
+  "SHA256SUM": "d46954121640eb7da10244137e1a5d764becf2a0d0d53bd150132fdb0e00a4aa",
+  "PGPSIG": "iQEzBAABCAAdFiEEFRnVq6Zb9vwrc8dWek52CV2KUuQFAlsbud0ACgkQek52CV2KUuRK+ggAqK//GYsBsjiWEpDdyksUwf1iB2eFPINF9HOS6fNZANgcfRYXHik5oZjxrfYuDBHEPPHAOaEheoLOOTR5uCUL3cjrO724WVkxGbLLMwwA/XsNYdBuWKycVeztUfRDWXIQWCQpqp/zq+xToD5P9GzZduyFGcAA7vNRxzJWOMr6mUXcYCSuEdzh7LurmuwvtnQVPBTjZuxR86XfkI5qRi1K9e8YQLddNSssj3+6DSX7zhvng2GyVOoJa+cSaw5ZH4IC6r4eG6edTXZoi0HCc2qu3U6EAIaGCqZ2m2giku/0q7Zp7x5TGEq2rLWuVAkqO8ghPH1tR3HEjxY0wQAerat+EA==",
+  "URL": "http://nspluginwrapper.davidben.net/",
+  "LICENSE": "GPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1528543580",
+  "PACKAGER": "Antonio Rojas <arojas@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "curl",
+    "libxt",
+    "gcc-libs",
+    "gtk2",
+    "lib32-libxt",
+    "lib32-gcc-libs",
+    "lib32-gtk2"
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "FILENAME": "gambas3-gb-compress-3.15.0-1-x86_64.pkg.tar.zst",
+  "NAME": "gambas3-gb-compress",
+  "BASE": "gambas3",
+  "VERSION": "3.15.0-1",
+  "DESC": "Compression support component",
+  "CSIZE": "14916",
+  "ISIZE": "46930",
+  "MD5SUM": "e63816b8278950fbc945f6fb2865db30",
+  "SHA256SUM": "b862715c3ae1daf1ef8760583cc391bf750469b537f110cd8d1fc71d3adb0bcf",
+  "PGPSIG": "iQEzBAABCAAdFiEEU1+MAzlFDwVKTSgnBglqatHO3awFAl8C7RQACgkQBglqatHO3azOdgf8Do5mBmp2a47w1D7nZUv+lsfjfgwd7fIS0tCegkH6umIPwWLFXpWVnrIbWf4yb9BvM+9Cg/169kqQDaIMlGicYY+OpekI+64VbWFfuH3Qbpqcug+Qpyzfh7gCpZmRYqNmX29Bg2MBiA8PtRWVXvegzeZIV2yFRJnT3HRUU3Sw9bUUooliDb4ncitQNZBlEQ0KJX0rmhs5qX/3OumNlyelty5DJ3qvdRbjSJk9gLxD5wVDHd6GYRE72XrCZNGZIYVabPCRqKruyo9EljHNSbuqq/q7HYHJMcYBRsAG/ups5ZV+JI/n7d09EobfYNhvdOp/iR6xwR6EgMVItqw2Aup7jw==",
+  "URL": "http://gambas.sourceforge.net/",
+  "LICENSE": "GPL2",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1594026389",
+  "PACKAGER": "Laurent Carlier <lordheavym@gmail.com>",
+  "PROVIDES": [
+    "gambas3-gb-compress-bzlib2",
+    "gambas3-gb-compress-zlib"
+  ],
+  "DEPENDS": [
+    "gambas3-runtime",
+    "bzip2",
+    "zlib"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "FILENAME": "python-bleach-3.1.5-1-any.pkg.tar.zst",
+  "NAME": "python-bleach",
+  "BASE": "python-bleach",
+  "VERSION": "3.1.5-1",
+  "DESC": "An easy whitelist-based HTML-sanitizing tool",
+  "CSIZE": "243302",
+  "ISIZE": "1430018",
+  "MD5SUM": "5bf7d9d2c89916e8f5ade3056db3a3b3",
+  "SHA256SUM": "dc8ee9c3dbf7b92a8b02763bb961f26abf793f2becca3cdee1d70143236a5fd0",
+  "PGPSIG": "iQEzBAABCAAdFiEE5JnHn1PJalTlcv7hwGCGM3xQdz4FAl62k5MACgkQwGCGM3xQdz5CfAf/eeniqFdme55j14S8bBz58LvQEX/qdIukT7yooM3293WR/QOMZVH0ITR3NLeY0fnHwfmWmNmkfCLlWR1UYex2ut1SxsJJI73V1j8ySOuXUAvGraDNldco3p4taHIVgY1bzRCAeLxdVc7+0LQSXxqitrddWgUpMS2hqcs0cHnnV1H2WJPMO6ZkgyhJaLbeHXlYRl6kaJNuoI4iEAAmI80nejeBne2JP+BQFr2hZlK3SAJT/WUp276xYtpqgqSPPBlpIAv+xzr4IXPXqJCs5wFFxQvw0vT9o1nY7cR+CcaEkjx6pL6VBBnLsT0BTuYqSDKXIXWf8/7JcaQTxqc0euDalw==",
+  "URL": "https://pypi.org/project/bleach/",
+  "LICENSE": "Apache",
+  "ARCH": "any",
+  "BUILDDATE": "1589023469",
+  "PACKAGER": "Jelle van der Waa <jelle@vdwaa.nl>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "python-webencodings"
+  ]
+}

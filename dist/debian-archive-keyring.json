@@ -1,0 +1,23 @@
+{
+  "FILENAME": "debian-archive-keyring-2019.1-2-any.pkg.tar.zst",
+  "NAME": "debian-archive-keyring",
+  "BASE": "debian-archive-keyring",
+  "VERSION": "2019.1-2",
+  "DESC": "GnuPG archive keys of the Debian archive",
+  "CSIZE": "70810",
+  "ISIZE": "170130",
+  "MD5SUM": "e8cf03b142ba0027ae9444298aff2249",
+  "SHA256SUM": "7c8b4e330557974b200ed272ac1c8379a6040586f8a4db643661912700ec8879",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl8ErKEACgkQeGxj8zDXy5JUwg//Uq6AjLbuCApptjfzSAKPKewMweQpLvFm6/EOHQqSRp1Qbn5C/cXMy7WLugwaeWXSbtmPkSq1lOeNFiTOnfBAC0X5IrL25Hrq0003CjTpOAdaG6eQQHqX+SirxCihIC1ePjoAxoGW5BV0x9h1VpjPrbgFhO+FmF9UmST8xrzBUXiIcTshLuRxwrnbCXvqn4Hvc87xUj6RW/2GekHrXKXuwA+t9AUoBFUI3RL0TAZEFycdz3XO5pnpPLNOo2u4Mg5bVi9blXcsQ1iUo92aEFeiAHv3Oi1jcSVnfV8uvCbuaqnL46Y6P1haM3TgYlueyUV4z/XxHWVKLafv8fbusDvadCp7MxEcY736bTFAi474flNrFjaT6U05GK9to5OtKXrm1t53t+zBCScIOyNGmzOVgzJc7ZrUOkikigMjIPlidFHCD1bEOGluz5hfp/y8ImFfPy1wFMNIpBiqtL4Dah/iI4JsRx4pmsLSyY+RSDr7Epg98HKqOtqEG9MpD1IvUU/C9Qg9Du+NN07lSc3T2jvKN9vcbCIelEfHrBsJ18BiKG2r2VnI966YIzJu5puQdfoQ+ng0BlnVqPyQagjP7et3gt2hWNkbEMwdi/9gaLeeMbpk68mDPk/QImCiTtuiCvEAZkdMvCO4lgl2bysRGopRhsPhnEmChCkFwxejdwsrs+E=",
+  "URL": "https://packages.debian.org/sid/debian-archive-keyring",
+  "LICENSE": "GPL",
+  "ARCH": "any",
+  "BUILDDATE": "1594141813",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "gnupg"
+  ]
+}

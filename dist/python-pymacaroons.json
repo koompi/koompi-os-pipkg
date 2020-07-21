@@ -1,0 +1,25 @@
+{
+  "FILENAME": "python-pymacaroons-0.13.0-6-any.pkg.tar.zst",
+  "NAME": "python-pymacaroons",
+  "BASE": "python-pymacaroons",
+  "VERSION": "0.13.0-6",
+  "DESC": "Python implementation of Macaroons. They’re better than cookies!",
+  "CSIZE": "33085",
+  "ISIZE": "148946",
+  "MD5SUM": "f854e7c0b23d205c7a1d1d210ca2a2b2",
+  "SHA256SUM": "1a3cdfdf09c9226493e0387f1784b5bd488d327b8938c693829e26a163e892a9",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl6/vPAACgkQeGxj8zDXy5K/8xAAsbj/yf0vSb2smgrEBqfXgLBisax76jMouSkscL9wliXxCUwUibtLGABN5hlWmigaVUPLz0rZxoDqCyg01Uq3upUnLO7u7Qzo7yBxE2v9MQMzB/xWa+wnBw5vIble7F2cKYksx2OYqMUnyKMs9aYN+PKE04zhl6JQUSJmk0I9o8A3VHduKaz2ADKv4JOBUc7mvyByZRxRxXYwU0/Eb7EIE2Xm8kJJEj65urzv297KNUIfJBH743AxsjA23JiSm1nvwMcaXPUM89KhnoOsbV8Uz+8lNjqddr45urDLWBjYDuxKWW6Hq4GQnnhkuuO6Rkq9DH189bcC+M3f2sdpXTVVSDCqS+ZgRHBYREJvDVa6pQANZtv3Uq3vZ6/jZBMZeqZ+xXsiE1JQK0dlEiL7K+ytJlkgpCRXAHAVI6TeDcm/mVKJb7tm9XFHxaQ7PwUjw8KjM6/gixoVRSJUPfl9QvPknAbUxAWU7L7emWOctvsKBY8dQ2vtfuZHVijTuUc5o1PU4/P3pitE7iQys00HW8GlZJ6aOiw4FTPPfwWPoj5zo6YbVY7uba3iOAHPFk0ZagkLO05YUv+ochFjMnF3hezKaRGoV9gk7X8JyBU3kOC6KFEMQbIiAC9eV4bwRM7ZVdcKVbMpInPBO+sJxQMRadlMT2NmyJlfHaXrmknMba71sjQ=",
+  "URL": "https://github.com/ecordell/pymacaroons",
+  "LICENSE": "MIT",
+  "ARCH": "any",
+  "BUILDDATE": "1589624035",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "python",
+    "python-pynacl",
+    "python-six"
+  ]
+}

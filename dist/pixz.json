@@ -1,0 +1,23 @@
+{
+  "FILENAME": "pixz-1.0.6-3-x86_64.pkg.tar.zst",
+  "NAME": "pixz",
+  "BASE": "pixz",
+  "VERSION": "1.0.6-3",
+  "DESC": "Parallel, indexed xz compressor",
+  "CSIZE": "20856",
+  "ISIZE": "45852",
+  "MD5SUM": "39915cfe333a5899479410725cc62588",
+  "SHA256SUM": "b79d4a5ea8a39d912f8a89110f8b22733ce301e77fbe5acff3e28d2d05416c43",
+  "PGPSIG": "iQEzBAABCAAdFiEEhs/8qRjPOvRxR1iAUeixSKmZnDQFAl8E5vEACgkQUeixSKmZnDTzxAgApRM0FFE4ITOZX6b5gng8Rq1wivsi1ROtOAEKn9ybrXkexTWRxTCGruru0kJGWNA64D+9Nw7FGgSGtj/qdT7aHv6FvoNp7/kO3zu+RAFHcQ180OtWGDbJnl/B3qa7fGb/qcxW6OxVtVD6GcENHFMH5swrChr4EkvZWZ8uxvHp0PM7LqmuATJnoHbND+qvGOz4hYHaLx0WbY8JesLkSJg9CMG5ZTMlWwGMLng+h0HoGlntHCBLwYLa3Y5ENQvibRtmppbzyaAz9ztbeC7LOBZVBrupaDvQCu8Hn45hR8Uqw3yvFGIQp9iSYzoAUQKnGMrkykLNKx3mtxxJcpXVBqebLA==",
+  "URL": "https://github.com/vasi/pixz",
+  "LICENSE": "custom",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1594156767",
+  "PACKAGER": "Evangelos Foutras <foutrelis@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "libarchive"
+  ]
+}

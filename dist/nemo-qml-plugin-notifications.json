@@ -1,0 +1,23 @@
+{
+  "FILENAME": "nemo-qml-plugin-notifications-1.0.9-4-x86_64.pkg.tar.zst",
+  "NAME": "nemo-qml-plugin-notifications",
+  "BASE": "nemo-qml-plugin-notifications",
+  "VERSION": "1.0.9-4",
+  "DESC": "Notifications plugin for Nemo Mobile",
+  "CSIZE": "55134",
+  "ISIZE": "168344",
+  "MD5SUM": "14bc8b5e3afd582bf213a506738f3fca",
+  "SHA256SUM": "6eb6fecce65d70912f8fa427ccb69c0c5c8c4970d9ab38f28a7e721adcb5fa5f",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl8EcEoACgkQeGxj8zDXy5LI1w//eH6BhMsmtB++bCV5ghPcl5LWE+I+E5hy7rcHvkQ4Bs+aIxU+YiBCqhkE3Kgfi8SqCUry1GJbfSBolaHBTR0tGa5QYrhjd2obLHUnYRWyQQgx16P7THM0+/OgRvh4edd/pdRuOSHoDDz/vMZiVAR/sVA1nh4kysjwwNMk66ZhRTMw5Obltl1/XfR+dP4i862SoEmcYJL+dAixlSJ3n+vu7te1fSVMHX/n81+OpSiLPEz4dcbi7NojzCSQwLfiCi/TXvAlYxYeheULPjUQR7Qx+vXlKDOKs63rTvH2XmgZWdgOaoprm9C8eMOnEJ+I0zkMMx8fXCSCerf11gjpqghOEVFRb/0rU+5lwX3n83/L2k2WUwWiUPpmzQgInz/6jXl3kRBizwh759KHdJ6mPdo2MI1tkU/m3HgQ44S5rFm6KABCi7tmOSc5McDUX3EYpkTWyPWt2qC0+7dukc8xplinyygBV+OQ168EyZH54Wq8mnV9nSu1AaxAdkwahRBXlC51XfaKTc7SDH8mTJPQtKFmxEcqekFxWQk3xkb3SeJrSDvf5oMxo5TpEi/49Ss9VucveHT4R+VPMXpWkpB/39GUI3UCiIBMBHJkd6gqBPO9Yark+N0QrkcwHhviq4nM03BSh4SLHIc8pYF9c1i4aYXrq6boJNeIrm2ULc6XKDY8SH0=",
+  "URL": "https://github.com/nemomobile/nemo-qml-plugin-notifications",
+  "LICENSE": "BSD",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1594126273",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "qt5-declarative"
+  ]
+}

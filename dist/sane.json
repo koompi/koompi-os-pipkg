@@ -1,0 +1,31 @@
+{
+  "FILENAME": "sane-1.0.30-1-x86_64.pkg.tar.zst",
+  "NAME": "sane",
+  "BASE": "sane",
+  "VERSION": "1.0.30-1",
+  "DESC": "Scanner Access Now Easy",
+  "CSIZE": "3971370",
+  "ISIZE": "20100412",
+  "MD5SUM": "02d0aeb38096c3054f64631a7a2674f0",
+  "SHA256SUM": "6b784e7d1a56b5ce6e1543160150dd77613e933f649186f19b69428c36591a51",
+  "PGPSIG": "iQEzBAABCAAdFiEEFRnVq6Zb9vwrc8dWek52CV2KUuQFAl7C6QQACgkQek52CV2KUuTHdAgApeWiuuwtcdE3aBJn/A0LsmR402KO5+IMRXVRbn0don0H5Wpvj6oJl1feleQDKFtSHmQows4urMWF7dYkka2GAPUATPRAbBwTK6e2wW3IwUyyCoNVbXKvNrSBAI2BG/fR8V8q3M8jqt/sM7eUCauKZ5oQZm+w8L+82Qr/56jvEy5kjulRnobsrl+p5G8KKwhFkrxxaxn8dNucgU/0JG2vGbfiJI7qBPlxpx2x106GJofR7BGBVxhQcaZWf2QSEwfc0eEXcGWOKdN04AFsp+FQjjsa6iBnTWknf1jRW+nFQ4IepXFcLooHRGGHB4IjRgV6l8d+jo/G2We7OWed55Fl5g==",
+  "URL": "http://www.sane-project.org/",
+  "LICENSE": "GPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1589829920",
+  "PACKAGER": "Antonio Rojas <arojas@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "libtiff>=4.0.0",
+    "libgphoto2",
+    "libjpeg>=8",
+    "libusbx",
+    "libieee1284",
+    "v4l-utils",
+    "avahi",
+    "bash",
+    "net-snmp"
+  ]
+}

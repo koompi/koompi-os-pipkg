@@ -1,0 +1,24 @@
+{
+  "FILENAME": "ruby-ncurses-1.3.1-14-x86_64.pkg.tar.xz",
+  "NAME": "ruby-ncurses",
+  "BASE": "ruby-ncurses",
+  "VERSION": "1.3.1-14",
+  "DESC": "Module for interactive text console applications (ncurses)",
+  "CSIZE": "41816",
+  "ISIZE": "171063",
+  "MD5SUM": "bb031e290e815c51c246eb170fd75453",
+  "SHA256SUM": "0801ee35e893d303c39910a1428657ac9e1c12bc4104234e06824c7da498e39a",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl4EDeEACgkQeGxj8zDXy5JfLg//S21fA0JffABbH6d7Q4pbUSlA+MLPqITm3EC5NZufEsqynkHOyGU0USvb7rlDp9BdgLPxQjEs9pA7+hfW12ka7ioxezE04m3NGtnHX4EjpzpJuQkx0SjUn2XyiNQDoD4p4HwEL4ujueEHVDPL8aacICMDt8HNMS+r4EIt++6MWa5qLf4qBXhpjeHJVXruzyj/GENFOqOZUXq3g8HkkWpu45AVrBQDBIOJFZ4wNKgnwTBDHYfF2J1riNdydHPkMVxrDGsIz9JrauZsjW6UCuCRzg7GKZd4rXYgVY/RTFLKy17G9vZUq6PRgibhDK/hwqRsifDdiq6hCwhL1IpY8Prc96w0hmjbBVlF8jtGnGkMA6bGDdaQueUTPRyiSfNUI5L+Z7Nu2a1y41Icni60TYwlzsSRvJAjqyuoeIGVkyRrQJ9dBc3UXWJNLx2Bo8/So7v9sXRRmZ1fxdYc7WOzZ5+xPyDCNtRiBnz91iP/9fv24YG+7Yr+/Q/IxsUHiVqwlllPhqGoRT9tgXnO0buiYhkLYZbtiioOAIqivualdJt4LjPro0cIsKSaq5vIUkxmrITkoxtcxrvbM/0g745mOKq6LbR03UDEukZLTBWPreyXCvRQsHoOH7O60x/R41e15R/Bmj1ibFeRUd+C4ARaXDJ7rjpZa2PgLGegNR0WmO5KT3o=",
+  "URL": "https://sourceforge.net/projects/ncurses-ruby.berlios/",
+  "LICENSE": "GPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1577323956",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "ruby",
+    "ncurses"
+  ]
+}

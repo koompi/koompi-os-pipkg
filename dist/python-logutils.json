@@ -1,0 +1,23 @@
+{
+  "FILENAME": "python-logutils-0.3.5-6-any.pkg.tar.zst",
+  "NAME": "python-logutils",
+  "BASE": "python-logutils",
+  "VERSION": "0.3.5-6",
+  "DESC": "Python module to parse metadata in video files.",
+  "CSIZE": "32334",
+  "ISIZE": "156158",
+  "MD5SUM": "024295692b113ce547ae8a1cd710a3f8",
+  "SHA256SUM": "53405c71f43bc02d04c695e3f0621962a3eb0029d149b1f36dbe720f28992001",
+  "PGPSIG": "iQEzBAABCAAdFiEE5JnHn1PJalTlcv7hwGCGM3xQdz4FAl4Mx8kACgkQwGCGM3xQdz5V7wf/ZHZ3a7k4eQeTHXBhorfRGHAw7+y9rzSb5K1amvWfszLHhqUdWJnmpEis9GeVwN49FSKMzaGpN8mth+oL61O7HzvyimZKfuG14f9+iK75/BoCUW4cBpMqLiko6jKphJBgSy00rXjxk1z4+XHVsSWVQd0gPfaEkmrTA3ZjBNmWy0ZUdqbuW2179+fBylkLafJ5GpLAGNLKM54NSZ1C08QJwQNIewvwIr3LVVQhyea+j1XUvpI71GIAV4+GPdm7xLWnc/xIp+e6HvvgLtzMqOKExZmyCt6/ARvf3vh3tap0cKa211JKPba3FpQqvyEi9Iga6kd335VTS0gide4Ws51veg==",
+  "URL": "https://bitbucket.org/vinay.sajip/logutils/",
+  "LICENSE": "LGPL",
+  "ARCH": "any",
+  "BUILDDATE": "1577895775",
+  "PACKAGER": "Jelle van der Waa <jelle@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "python"
+  ]
+}

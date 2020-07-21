@@ -1,0 +1,24 @@
+{
+  "FILENAME": "perl-eval-closure-0.14-6-any.pkg.tar.zst",
+  "NAME": "perl-eval-closure",
+  "BASE": "perl-eval-closure",
+  "VERSION": "0.14-6",
+  "DESC": "safely and cleanly create closures via string eval",
+  "CSIZE": "10049",
+  "ISIZE": "13262",
+  "MD5SUM": "d474e2d2f68b9b2c452ab98b085e5d60",
+  "SHA256SUM": "0e618f6f9e30a80cb066cee4771812e57974f0619d7f06803ae7c764a6158d7f",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl7vdR0ACgkQeGxj8zDXy5LxVw/5ASDEP0o1P+T+6glSpsN3FqsBfV0xQBDkyBmCeRmUKugvPzCxHr+7vpuTz9ojlTzf1MkPLujY0vCrHWJf2ZDNwlmKsv1AhshUOQWi6oiAHEwKnMFuUl5uSkudNI4Lp7rieHCsgRe/UkQy3grnSIJtiJgWOq02c5Xu4Aa0S3HEyeQ/aDhUlYi1zsjUF85zAQr6iF2CRbkbzKYyNbabSGdz4Iz+29+R/gNhpVi46zfF61/PPgiek+5Pc+Jhmb6UBQOvQOsvNhZHEEz6mXU+HU2rklxyBFt4NxyQFtMtgMYaDvf5M/MzD4LdWmjQ7PtIJrcbMafICobooUSbQbumm+2ZoAuTQNxgjDCHgZ6Jh0Epd3KAQ7elCy11ilLhRCjX03uklApx6KBOl8X9ycq1IELE9J/z4lEZ5wgkESD/jRN9LW/CuuC6JhcyWOk4nKAYPBpMMCk8UJFH1S/xqrruMhpisMvNWmBzvn84kOFIzUzQahQnQiNd07w1QNfsi+cmEQMcdlqhr54qNurt1nSUDujsllgYE0vF8pqvaDmfc7OLdkwSnvZNBbNEA2ZttFC/Bs2tkv7AWoVwiOzln1CEySjFwWfKP9MFEWGgR9aquhS/TMyIqhLTspM7JEyUfM7HYNAqNhZBBwO1kUH4nOrJQQ1/tIWGeEbH48g2A44x++sSgpA=",
+  "URL": "https://metacpan.org/release/Eval-Closure",
+  "LICENSE": "PerlArtistic",
+  "ARCH": "any",
+  "BUILDDATE": "1592751365",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "perl-try-tiny",
+    "perl-sub-exporter"
+  ]
+}

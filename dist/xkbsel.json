@@ -1,0 +1,24 @@
+{
+  "FILENAME": "xkbsel-0.13-10-x86_64.pkg.tar.zst",
+  "NAME": "xkbsel",
+  "BASE": "xkbsel",
+  "VERSION": "0.13-10",
+  "DESC": "framework for defining, selecting and indicating XKB keyboard mappings",
+  "CSIZE": "80066",
+  "ISIZE": "395091",
+  "MD5SUM": "773ce791e8ac5bebde97c28dca76849c",
+  "SHA256SUM": "56504fd8ce22382acf715270676771732f7456020b409a14f4763b4e233b105c",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl8Ef84ACgkQeGxj8zDXy5ItMw//d/afOIx2wccRfOe01gq+X+fa6wn8xNoyasQrqIaZuw0NX2ZjDh1dmPfoitgmzAbhR6EZdN558cAz48WlJ7b4LU1vbufdqUUjt2EOTFaqY3yKUkWICT05j+LUD37WPfjgNpUX3vqjlhmwTsWHjXJL0PEDeYUN1wEs36gRyXZ0xu6JjwB8RuVnFgHU33NdcrP4jW6h1QIZ8C9iy/BGnOHRkBbelnAJohdPKxCyQatNfBJj4S7H+CGvxDDuwJ+GOAKAVnY8FEetlawxpBcIDAUAFGmkgSx6l+kz109koKgi2R35MIb1Y3yr4EtK7SxxrglbIo9+luHUEYgoohm9RdJbYY8f56k7Zw0EpOpEXZQAXxQofQSCRFJTU5ap8zSYSVEzqQgCO+zGYX7NE2q9xxkNZMD/ewV8+wLpZ7ya23R2TG2wnGUmwkrLo7sy3JTqOh3Ps3OMpaBW+v0lXmuANYGRhmpfU7Eitiu1jptcmnoFdnKf1+2QIr2+dEkb4p6hi7CFAEGN1w8U57pY3MYsHWNjv8fq/vQOuEwb8Pc0PlMd0U4AO6wNItZ+LnXt79RUWUQi/lnSVaa5h4ES8TZMXuerl0/Oky94rbTD2zeU2fFcmiruOYnwjFaapE3WRnTW++Y8cRsClkL6pCBE1F9USjkjLB8rlKmrZJwshhFofu60LUM=",
+  "URL": "https://www.meduna.org/sw_xkbsel_en.html",
+  "LICENSE": "GPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1594130337",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "gdbm",
+    "libxaw"
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "FILENAME": "python-mox3-1.1.0-1-any.pkg.tar.zst",
+  "NAME": "python-mox3",
+  "BASE": "python-mox3",
+  "VERSION": "1.1.0-1",
+  "DESC": "Mock object framework for Python",
+  "CSIZE": "72885",
+  "ISIZE": "511171",
+  "MD5SUM": "5b7bfbeaae5c2f76d6718f2b1b5da9bb",
+  "SHA256SUM": "12f8322b537330f0f7f9c005d02b9139cd7b5d15300fa071da8ae32b45596ba4",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl7ZIwcACgkQeGxj8zDXy5KslxAAltgZWh4YlD/I1cXFiTHhLdlONmRYdMx7TSSuFgtXoTt9od6RpvYYv5bvlnI79FFp8jD2HQOPuvuSI+zqj7MIiWro8gmMrKCErlptTDKuMtUcFPH3HiWP54GXNwEH8JEDTg7C0E9LszTGraGn4WmsFTK867EbHaINALfvq+UfhP9jgnPjcpQuAjSuMN5QTHZVJvABNUUDXfqGeso4foQJxusgWY16bjLUKdQcNYvMo251rPCwEkq5On0GoF5iOFHq+eJnhd9g3WRk5IjGACPuhau0XfKLSMNQW5f2y64xBOx9k+E1/oowGmVAUT62XFHH1gmCDLXoQwpXKYcpTmB5SZ0quuDu6NRp1MLzZR8w5Un9Soo7W2h0KhNFPqq8GOfcCvG2sBQUej8RudS2dIuykBeLZ9wcoedlruYFk9B0x2tjyXbF4RUMmfu24GBdLBVATdW1bkpL5Xhhkej2+d+MijpxQjOpuIuGQHBk6UNPpZxsgHGM0oqplUNI/86LK8ymGLz1fcQa3zKEGAi1trJPmlSCPcNRfa2tNHfno6uy9g3xAtfPy1SXnLEikBnnHLcg2EXNOwhls0cfr4CN5e7A9BrtgSybFYqVlUkbTJkz48Jaun/RQWTVyvBW8xVuN/ObdisMMSrtkZrSlrM309FwrHTb/YmpIlqhIuBX6729dO0=",
+  "URL": "https://docs.openstack.org/developer/mox3",
+  "LICENSE": "Apache",
+  "ARCH": "any",
+  "BUILDDATE": "1591288505",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "python-pbr",
+    "python-fixtures"
+  ]
+}

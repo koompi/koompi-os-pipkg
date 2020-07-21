@@ -1,0 +1,23 @@
+{
+  "FILENAME": "firefox-developer-edition-i18n-he-79.0b6-1-any.pkg.tar.zst",
+  "NAME": "firefox-developer-edition-i18n-he",
+  "BASE": "firefox-developer-edition-i18n",
+  "VERSION": "79.0b6-1",
+  "DESC": "Hebrew language pack for Firefox Developer Edition",
+  "CSIZE": "522797",
+  "ISIZE": "585286",
+  "MD5SUM": "ed44db93fb764db9b7efac819c890f99",
+  "SHA256SUM": "177d85d7dc121f56521a48441070fddb14070a794dcf847c16ecd9ef5840adfa",
+  "PGPSIG": "iQEzBAABCAAdFiEEYB8g8dG7v0p4z1tt9rFhCz7NvJ8FAl8IbM0ACgkQ9rFhCz7NvJ8U2Qf9El6U3F0hNs+STCnx/Jqiq4XEDz9ybbAkxi4ng/pZhbTGCMrSmZBS/Z0MirBMaROx6ucF1WJAUDh+aYMb4vujonnA9S+1R7fw9hgFdvSiYeswS2SCEpCDNsrb9tO7SxPKpMP662KbTPsvK2BprMedx9tgHEN2BEzuAHmB1W2Uyg3xclwmQA0zo66ffDypjzvAqL/EFiS2lCyylE1AK4NNjYo2Qie2VUxodnv7OFnz4bOXpZSbmCDZm77llJ9BK5Bllh1Yg1ijIk6YValPhE7wHAR0ef7EOp//Ce8mA2leVyMXseMaCC/DYvZ/sK6GsiLYL/6fwdW8gH8NmTaT3gxSCQ==",
+  "URL": "https://www.mozilla.com/",
+  "LICENSE": "MPL",
+  "ARCH": "any",
+  "BUILDDATE": "1594387381",
+  "PACKAGER": "Andrew Crerar <andrew@crerar.io>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "firefox-developer-edition>=79.0b6"
+  ]
+}

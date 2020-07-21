@@ -1,0 +1,23 @@
+{
+  "FILENAME": "dbeaver-plugin-bouncycastle-1.64.0.v20191109.0815-1-any.pkg.tar.zst",
+  "NAME": "dbeaver-plugin-bouncycastle",
+  "BASE": "dbeaver-plugin-bouncycastle",
+  "VERSION": "1.64.0.v20191109.0815-1",
+  "DESC": "Bouncy Castle library for DBeaver plugin for SSHv2 tunnels",
+  "CSIZE": "4835830",
+  "ISIZE": "5930808",
+  "MD5SUM": "d4d4cd219bf501f152a8a622a60319f4",
+  "SHA256SUM": "7eebfdb73ce03e9932dd810191aef15b7143a296034caee7b9783db1920cc9ae",
+  "PGPSIG": "iF0EABEKAB0WIQTFIYRkNtdaMpR5Wye0NgIEslDw0wUCXoE4rwAKCRC0NgIEslDw0wFKAKCG6RhU+Fa4tWG5kuU9p7j5J0pSWgCdH1ChxpbBcIbkCZpu6a0wpNYnDt8=",
+  "URL": "https://dbeaver.io/",
+  "LICENSE": "Apache",
+  "ARCH": "any",
+  "BUILDDATE": "1585526395",
+  "PACKAGER": "Fabio Castelli (Muflone) <muflone@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "dbeaver>=4.2.5"
+  ]
+}

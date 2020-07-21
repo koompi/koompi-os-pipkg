@@ -1,0 +1,23 @@
+{
+  "FILENAME": "ibm-sw-tpm2-1636-1-x86_64.pkg.tar.zst",
+  "NAME": "ibm-sw-tpm2",
+  "BASE": "ibm-sw-tpm2",
+  "VERSION": "1636-1",
+  "DESC": "Implementation of the TCG Trusted Platform Module 2.0 specification",
+  "CSIZE": "138802",
+  "ISIZE": "330042",
+  "MD5SUM": "023b7c69bd98da020c2f0a42d60f657a",
+  "SHA256SUM": "53944e58e80db194697684b1cb76684c9fffd8ad57db7259adc4ad8b2269a5a9",
+  "PGPSIG": "iQIzBAABCgAdFiEE0ZGnjxiB84R1PJZ+aGsGOsS8DskFAl7ukUYACgkQaGsGOsS8DsnSZQ/8Ccih9cJyhxZKuI5HV0jLPc3xpe14F8rotHdVzGhSEVmbIegQxDAY/VT7v2Ki7lNVvYkACkG5XsG+KtkQqnQWkZHjdCgCpXrAo59mYqjSViqoLpiloMk/JE8pxQ6uuJT9NXB18B+X6+SDuResZb2+d4c7tv2a189RvpczLYR0Z4hSZhekKGfdZYFbodsPd85FHNQJ9j5Yx61elxv6s3RmPjGiAhATlMNTmEe5vBgeBsrwZxFecynIukF/TcLKt05/50VkQc8WIuglP2yUWp0BMalCAy8lc9A8SSEqRvP3lalA605jF7qAFgiEcyZYbCMRJzJN6lkFcPBLFQP5Km3blevVNrC1lnKIgSN260Rjy/TO6hBh+oo/TBuoWCA5DkwEED4jYTriC+El9rJdKmqHuq5ohC9kG/OlhSB8rkLWxQVSjVGLXOrlVtPp6BPi7D0i3QiVnyBdYwXWPutgguKCTkm+8u12x9dnJtXHOOkBwKU4hC1M6jtF92PLtuHLhUkOq4zYJBNCszLirO0kT6FrhhWTSP/WX5iipI8E6+VBE9J7DgBJHgReLExiN04TER8d22w4TjbfPrQGVD7QilwLP/IiRWbHAIWmoYm+1rcMmuhFxOp06QJs/jRLVh0okc7PQd7pNE5Hlwk1pRUNYY+JkRVBkmDB8Ss/OlLKOhyy2Ro=",
+  "URL": "https://sourceforge.net/projects/ibmswtpm2/",
+  "LICENSE": "BSD",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1592693028",
+  "PACKAGER": "Jonas Witschel <diabonas@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "openssl"
+  ]
+}

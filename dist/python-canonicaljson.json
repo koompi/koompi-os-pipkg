@@ -1,0 +1,25 @@
+{
+  "FILENAME": "python-canonicaljson-1.1.4-5-any.pkg.tar.zst",
+  "NAME": "python-canonicaljson",
+  "BASE": "python-canonicaljson",
+  "VERSION": "1.1.4-5",
+  "DESC": "Canonical JSON",
+  "CSIZE": "7589",
+  "ISIZE": "12479",
+  "MD5SUM": "3ddfb3f625a6c5ff9a66fdfff76c796d",
+  "SHA256SUM": "f1f4476bf69f94f92e03d17925db52c8bb384475d753f917a2f0b543125e2944",
+  "PGPSIG": "iQTHBAABCgCxFiEE5VD//9SF4mShcX4wkBwcMg6w1F0FAl4NEDFfFIAAAAAALgAoaXNzdWVyLWZwckBub3RhdGlvbnMub3BlbnBncC5maWZ0aGhvcnNlbWFuLm5ldEU1NTBGRkZGRDQ4NUUyNjRBMTcxN0UzMDkwMUMxQzMyMEVCMEQ0NUQzFIAAAAAAFQAVcGthLWFkZHJlc3NAZ251cGcub3Jnam9oYW5uZXNAa3lyaWFzaXMuY29tAAoJEJAcHDIOsNRdHskf/ReyO2e0Ra+fcEHAc1uxNJt/nISKLLtuRIGf8XC0kBDlWwQ1JWWOe152GDJ/639aV+RNGBqNOxnMxnpdaVZVPg08xx/F7lrQJ3KsnSzxqMKfxTW92U+SrcNvnmmujAjLomc5f3mMFgT8uuYZg8vGnQ5onuK8e/lGIy0XjQyEtJn/XTbZonSAD+9rTLH4tGQdy2TxLsPpdNOk8GBQxsl5B0x7Dei5bRsL7kXm2bQgcxREFwISZ0IR9YI5pZvQYX0vV3hggXiZ9jAvPhTCtgFK9BTtKi/QoKeMIaNAO3/dbF1OKIVug+BYRcW0iFsdsDBUTVOi/GgeLHeR8+W+KDGP07fwfp8E/PWIkvorJVe6ewpPawqGnjoWQVCL233p2gQOappTuyvbg07tGjJhVELMzqdMeQqfsVC0i1pfIZuSgYUWsfeTyoMsis+uarFMwrtwzL/ipBzxwqNGYMOo5bWylnIkFXBwlyJSzygSZKkntxYeSXGB3n7Hb0f1EWzyl2f+u6QfeH14x9jPnEOc7GPSII5fYIHnUmiTHrdYEOlUBBrz0OfAFu8cSrHk3gd8l2aE/LdNFn1HF0BHUu30bPH77bUlUpFpFcO39es0CdmdokhZhivS0AdqgqDEiGM3PQMRhLezfGsBwo+BwtY7JWV2oqarjQd1yN2SPzbn7OHPCnewJFHoP98737dwVftGBN8ZgzhULBozLxm7ESfd7wKaSZZdqtOvFWFY7hAMWnPTMyrhFnefy1bzucgZbrJ7abT/GpCk4rXpYg/V8Cl7jD5sxn8Ta+MAbqkG3ev1pwrkExtAJeu5U3I2J7PdwgkWxIpXtL1Tgl23+jRsgKhesFst/FceOq6MMi9qsX3LEx+LLmvXyTTZHKOXx7uFJd9FJWPRr3kOr2beG8k0zYCeUgij85Nf8US5ZBU7JwEFSJZvYiXBBy7PDLDO5u87O6BzLhLS6Cbrqss9K/CSWjFVugBx69Ea6ONlr2vykL3EhTwKRGvAk7ejMl/DHXgWMHwVDNjnhHoaLnO14DcI0JQ/2DIg22oZVAuiTRlQv9aNloGMidFZRK2XqIGLkyDCqAgwYvzJ0rAdiuPhTEg+lifYohBzKJz+//MsDXabdmBJW8IM0ys721oZUs6T7X3ebilGimMdHU9knUZU85kbRKrU4xel14u/ZNxyUhkxSsA6mB64S3KSTIW+HzEj85KujXESjWhCZr86rsEqKREloKIurhEtNZ6DRta7AEusxEcL0QtVRy7kPE9TOeDNOk3VfWppk7JXZY41FLqiUjPnfe4/+DtozBfwMVuquxNx4a0StbvCmhF117B9riCjYmGIilXVA+u3gnDUl+hIF5tg8Xuj6HKY6TY=",
+  "URL": "https://pypi.python.org/pypi/canonicaljson/",
+  "LICENSE": "Apache",
+  "ARCH": "any",
+  "BUILDDATE": "1577914375",
+  "PACKAGER": "Johannes Löthberg <johannes@kyriasis.com>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "python",
+    "python-simplejson",
+    "python-frozendict"
+  ]
+}

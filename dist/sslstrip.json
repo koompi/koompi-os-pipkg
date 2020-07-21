@@ -1,0 +1,25 @@
+{
+  "FILENAME": "sslstrip-0.9-8-any.pkg.tar.xz",
+  "NAME": "sslstrip",
+  "BASE": "sslstrip",
+  "VERSION": "0.9-8",
+  "DESC": "Python tool to hijack HTTPS connections during a MITM attack",
+  "CSIZE": "19336",
+  "ISIZE": "93184",
+  "MD5SUM": "56b4c81d5f26cef3a46525e2ab64d02f",
+  "SHA256SUM": "b814a3a2cb97c6f0cb31d016965f7d9acf6fbaae9ecf490d2efcec408d544741",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAlsYy+8ACgkQeGxj8zDXy5I9zw/7BaRtVJ5gXFjpwX/Z3gpExi7N7mv2K176cWcVcvZ2XfifAxBJH+u8z4i46t6FJxIRxvObzrolChd0TC95A+Gnpp4QI9thohzcrJkSOnp8P6ygj2KyqzQgIuKn+icYktym1FIG4W1ZwPklP4tdLxUkKtFKG689V9/L102RH9R+aMK/viFTGV2TtCDotwUa4rDjeHtpEa+A/rE9sSiTDKjZSfGRdao6yfNVBnDgfEYkVqxLQ6JclwSFDioen7Ccfrw3txdVYP18MDKXGig/G2w3jMsAF/8Vl0E1lVuKaiY0nMmk2duXIlFUn4V7FE7N/5+TXTOQJHB601wlgTroIBqUbrMyEFnAWs8Wz4YO5m6k2rzkOr/4+730kMEwMl07aLNV61X72TLXdHHHPr6iLDzzvQ+UX39/D6XpHEs0YMbX8p6dQeeHmY50EKTeTHTDJdic5tT+QXRR2UhNhAl5X6XJdutKqFQJic1GFOOfCSlfbQkoWz9gwKQyz1ns3xItWEpN+yeWXkXF74m5nfc06zTmLiGPw7z+VLfas9Zx1pC3Z4koS9syZCoRnRoPo5BpAQN+b/rSN/jtOlKOAIJiJHbJzOBLY+sBA/PlvF0joPhkyfx2FWf934lyqO3BQlm6KkfEVkqanFvh4u3WxiqrE/3avubrhT8HILI+jFsKo2gm79Q=",
+  "URL": "http://www.thoughtcrime.org/software/sslstrip/",
+  "LICENSE": "GPL3",
+  "ARCH": "any",
+  "BUILDDATE": "1528351700",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "python2-pyopenssl",
+    "python2-twisted",
+    "python2-service-identity"
+  ]
+}

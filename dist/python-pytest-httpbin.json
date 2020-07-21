@@ -1,0 +1,25 @@
+{
+  "FILENAME": "python-pytest-httpbin-1.0.0-4-any.pkg.tar.zst",
+  "NAME": "python-pytest-httpbin",
+  "BASE": "python-pytest-httpbin",
+  "VERSION": "1.0.0-4",
+  "DESC": "A py.test fixture for httpbining code",
+  "CSIZE": "16498",
+  "ISIZE": "30837",
+  "MD5SUM": "4f7b0f38e1c351f3dda07bbe67ca3b74",
+  "SHA256SUM": "e70dc54382d31d3bc53c947e95cd6fe10b96eac7b9cd5bc462db4c62111a56dc",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl5FECIACgkQeGxj8zDXy5J8nRAAgroQQ7gxwYqhTDnTflWpRSiAG2lh896sxcj2QhNbwztjbWj18v1vyAPYeVULQl3Uwswth/5aY54jVm6E6S7KmLwONNMbN0bxrOKfgr4xOvuA1jhy7aT9tXrr5vtr51E6l1nA61KdQJfL7kbwZU8uexDUL1/ppK6zu6ZMtZB+WrVQT4jFa7eqkjuYdWLvKbooLQpQYxIFAozGn0Z8Gng557Rt1bqWLiY76PdjoFfJl+KhhPHK7qZ4uFF6AEYK3vU1tycHV5o+J+uqsyXlMPJdRNZNOl7hD3S6/hU6yuDt/cfaSiMufmrDhN5TkeM25XQRR4v9jJjVMc79b/q1fzY6gOMoJ1yQ82Kv6CCBXw0e1tHOxYBcrkyL76QMf1F7c9Nf+AgEZt0iTJgKS9vibGUp0yf3T1D7swIehY55/WqybrNgMuiDAmJrvyHbRdSgzTgq9lEAem+c1E2CmiluLax9CbxNwTLHT7iFF3StdRFHoQqtUFN0ZAOzl4rl7cbf809AgWUAW0nTJC1B95EL7gO1AyU8dFuhJHpFMX4MdDKZ1S2SfKK0kQrvRXglk4rwQ7iRiu+eihs7sBL/XfjzLzHocrww8wzIUeuueTj9wflcuOCD8BZO6vJNBLesDJg3j2UARqZH+6tlnjXTuZbTJvptY9jfvx6Jp10QoiryWkTZTRs=",
+  "URL": "https://github.com/kevin1024/pytest-httpbin",
+  "LICENSE": "MIT",
+  "ARCH": "any",
+  "BUILDDATE": "1581584372",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "python-pytest",
+    "python-six",
+    "httpbin"
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "FILENAME": "python-openmdao-3.1.1-1-any.pkg.tar.zst",
+  "NAME": "python-openmdao",
+  "BASE": "python-openmdao",
+  "VERSION": "3.1.1-1",
+  "DESC": "An open-source high-performance computing platform",
+  "CSIZE": "5138109",
+  "ISIZE": "18569101",
+  "MD5SUM": "974e3debbf65a49568bf070864c515b9",
+  "SHA256SUM": "fe789ebc7ac542786fa0e92df2c1ee500d95aa7f57b9ea48148a5b5f8d92586d",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl7lDGMACgkQeGxj8zDXy5LAvQ/7BspcRuq7a72WfIh3V4VCaViCIndDzAYb36GdUQNVubADorioRDo53tFtkqZ//hgqi9ht9svQsPsGPJqrl9NkmuB64F3FXLSQPgrokc+HVcO/GIh8FTeC8aLaai/1vXaxr1dfUXigc2ZEmG4Bu65cEX8sjiY/vYabyvzqCVm63sPi6HJVnNRlTVmmQ6RWZmDRBDH/MyIgFKfQyivce5GgkGFw/n1fPaUEb3CcTOHWFF/P/MptLl0ll1G3C46f2yGTyzALV0OWt1OV2RUXGV98fFdB97ykjO7gzr/VtCHHU6ybEZ1DsZcNUvFMxYwLj5rteYZ8J0rD45aQi3kd0HkNMlEReILMGRLRzW60ZuSIZtsuxWRKmUV9DML/0Ej241B7sUtSI/KdZ6Bb9gubeAmJkf+umNRyXoM4L1m6iplVpNWVxnigkWEUC9JCY3kkIHyzpWIoDhpGWWK1QoapAaDm7YEqOqHHysiqreyahJSOSYxZFbirLkgGMRgNjdtrn2xOZPDPbii+gTm+wjU3yFSqF4LuKKWsf8rpPgc/z5XdYMn37ppX6aPvFL6KLSUtFYlrsbK03VJw2xMqCI2QYx3pX5J3Yff7isUjKC0NosrbgTaZNjQyhGlL6xBOWtTaC2sL3zwG1pUGuqJGAASzlbhid7JQiVG3OJ+JMy8ZTBPV4tg=",
+  "URL": "https://github.com/OpenMDAO/OpenMDAO",
+  "LICENSE": "Apache",
+  "ARCH": "any",
+  "BUILDDATE": "1592069025",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "python-six",
+    "python-numpydoc",
+    "python-scipy",
+    "python-sqlitedict",
+    "python-pycodestyle",
+    "python-pydocstyle",
+    "python-testflo",
+    "python-parameterized",
+    "python-pyparsing",
+    "python-networkx",
+    "python-sphinx",
+    "python-redbaron",
+    "python-mock",
+    "python-requests-mock",
+    "python-tornado",
+    "python-pydoe2"
+  ]
+}

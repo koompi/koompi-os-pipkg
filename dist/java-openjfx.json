@@ -1,0 +1,41 @@
+{
+  "FILENAME": "java-openjfx-14.0.2.u0-2-x86_64.pkg.tar.zst",
+  "NAME": "java-openjfx",
+  "BASE": "java-openjfx",
+  "VERSION": "14.0.2.u0-2",
+  "DESC": "Java OpenJFX 14 client application platform (open-source implementation of JavaFX)",
+  "CSIZE": "73405235",
+  "ISIZE": "140833187",
+  "MD5SUM": "37bcba639581ebcf80df4e7487a265ed",
+  "SHA256SUM": "415221d418f39de18c878c97a57080b73732a52e0730b5ad28a16289a7810519",
+  "PGPSIG": "iQIzBAABCgAdFiEE4kC1fixGMLp2ji8m/BtUfI2BcsgFAl7NMW8ACgkQ/BtUfI2BcsgLaQ/8D8MdV7vDsQdjnf6fMrfm1UqdsqkEOZ82NV9tjL7xamz0CC485Z3O6hRy5PbCJxbkehXfQ/+5RsMepvvJywmu+Urm+pko5itMC8g69zIB3LOiyIga/Ra0yRb7z6FDu/KR7zCsjEziyQzHC3p3gntMxcaa76R8M1oYEu7HOjeKWf8P4LngSoObGXX9eKbk6ojzL5KZNK66KYrh5yUkgytIQqidD6WRjNOUWILiNaXD8i9ZjGOi813FPpvD6AXCPUmiwCgGmk6SfrU5pyALszQjTrJYpvmudTviVGXqEXfoRHQi2+OzzYJTcsL7sdPdvwkyXAuwyxbdB2Emhd0FbvJyx/Kt9g5t4KNAhdTzwtURhQ6w+idKtOltWFhpWyB/Ebt7wRk+ulY9SxOOqRrm1T870kGov6FiNDDBAIy9wgQpFf+EdwLKkNF47a5SdyNSAnQI1hkQgEOOmE5qOa9znQ6Olz41yCqgEjZvyc6stllaohFIo5bS7Lq2Uft+juyxVR/vsumoDhbuIn3TSzpBcCwPOd7KQwjMY/N2Zu0oc5Iz2047BjIigB81x6HSs7jIJy8bGp7efO1Yv/WtrbDwW+z4HsvktDg2AFIfY1QYkeUQ43/4NhAezSUFkNoi43I/F6LQ5p42cHTzdIKub4jaOmJJxD2ui44ANWPzmUWbEuEwYs4=",
+  "URL": "https://wiki.openjdk.java.net/display/OpenJFX/Main",
+  "LICENSE": "custom",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1590504626",
+  "PACKAGER": "Levente Polyak <anthraxx@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "alsa-lib",
+    "cairo",
+    "ffmpeg",
+    "gdk-pixbuf2",
+    "glib2",
+    "gtk2",
+    "gtk3",
+    "java-runtime-openjdk=14",
+    "libavcodec.so=58-64",
+    "libavformat.so=58-64",
+    "libfreetype.so=6-64",
+    "libgl",
+    "libx11",
+    "libxtst",
+    "pango",
+    "qt5-base",
+    "ruby",
+    "unzip",
+    "webkit2gtk"
+  ]
+}

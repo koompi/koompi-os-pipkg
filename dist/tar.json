@@ -1,0 +1,25 @@
+{
+  "FILENAME": "tar-1.32-3-x86_64.pkg.tar.xz",
+  "NAME": "tar",
+  "BASE": "tar",
+  "VERSION": "1.32-3",
+  "DESC": "Utility used to store, backup, and transport files",
+  "CSIZE": "760132",
+  "ISIZE": "2966652",
+  "MD5SUM": "545e3a8c07b838ffc20c8d87fdfe4a3e",
+  "SHA256SUM": "6b37bef3590ae2a3d85b93d45c3071e74d818df0b663c735782d8d3e99978071",
+  "PGPSIG": "iQEzBAABCAAdFiEEhs/8qRjPOvRxR1iAUeixSKmZnDQFAl3MO4YACgkQUeixSKmZnDQTTwf/QhQymQgEuT9+3PvU/bj0js/rcho59+l3tFliWJVvu+pF4sc0Y0ekz3FjGxBKa6M1/hKlRdaB/aG8o/7ePUONMqnEem3MABIzyFgZxwv/pFhTtOQ2jLl91ich72dWzQHlcc5zq4FeezvU86uEM+816EI2g+krmGQOkRA79mN8DE6fGltx6JJcgK0TpvzB7KcYNhTmjn5XPOkocIVsV55q8n88w7H4wfJTRzQevReQwIzVfzwm+X7e6fOIHM6aU13o74skOwuRy+5PpG6svdFKbifnT0pO4qhPOvgXbiAr8sTpgpioyyaF3Vocnd52N03xdDU7N5MFLvh0uoyvBdNXXw==",
+  "URL": "https://www.gnu.org/software/tar/",
+  "LICENSE": "GPL3",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1573665394",
+  "PACKAGER": "Evangelos Foutras <evangelos@foutrelis.com>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "glibc",
+    "acl",
+    "attr"
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "FILENAME": "haskell-tagstream-conduit-0.5.6-12-x86_64.pkg.tar.zst",
+  "NAME": "haskell-tagstream-conduit",
+  "BASE": "haskell-tagstream-conduit",
+  "VERSION": "0.5.6-12",
+  "DESC": "Streamlined html tag parser",
+  "CSIZE": "149662",
+  "ISIZE": "787912",
+  "MD5SUM": "22195c7efe793d7a6b6cd6a361bfe50a",
+  "SHA256SUM": "1b4f8cf23a691084007baa803e407b31a284eab295d4302a39d28e490950a408",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl7585UACgkQeGxj8zDXy5Jlfg//TmJpW8gPdWg6eQp1kvRj+uVNa2m/uOEL0ilDHSj9979/p44oDGsinT/K5VcZWLAsfO/BVH9wysuVLc62YFDDk47OLjb9XjFeLbILi09aUSqeHGeB4Gp7iKFEk2mqaWgRseWpotonh76+us22T06n33zILo8WEw6vQAAWygn+G9eQAwohZ8/920aUCYQfRURIMKlpIDNDnrFz8t4NZ6aEvsthBGTJnwaiXlb0/7So95SkoQUYO2STbgtsYDSZk79RY7XuNwmYdqcdopzfRvXhUHUbYXH1/AVBxno8Wm3nN3sl+Pe9cFEDdjwuxa674R9UnQdIWg0LBmf1DjflLR3oQH/r5f89kLJNlFMfkUexxSloUYb7GQiMgK44q7g3KpzlBc+t1HPZNa3NlWa1G2qoHWqnO/aO3xZhigym0OFYzvhHKXSdOIuG8WdGaqdQ+UuX/dPejrMCiy2RNcgCLcMtHM9VggaPvpD5j6p9oNlkjHuY7kbuPUSTVEMeWupS6masKPHPRP2vnRiShbINa80eMhtd8rGUlOVNHeCAHYHVPEoNf432YexP679N4OfhhON3azEUcIyciVeDgfP9DiwR+DzN7dR6bqvVZMt0eIWhQdJjoXQef+7WFKLL0iA0+Wo4xLzpGcSLe+7mxu6cZNk4r/NH1OMTFQSJU0V2Bm3fV20=",
+  "URL": "https://github.com/yihuang/tagstream-conduit",
+  "LICENSE": "BSD",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1593439088",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "ghc-libs",
+    "haskell-attoparsec",
+    "haskell-blaze-builder",
+    "haskell-case-insensitive",
+    "haskell-conduit",
+    "haskell-conduit-extra",
+    "haskell-data-default",
+    "haskell-resourcet",
+    "haskell-xml-conduit"
+  ]
+}

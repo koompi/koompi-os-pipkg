@@ -1,0 +1,28 @@
+{
+  "FILENAME": "nftables-1:0.9.6-1-x86_64.pkg.tar.zst",
+  "NAME": "nftables",
+  "BASE": "nftables",
+  "VERSION": "1:0.9.6-1",
+  "DESC": "Netfilter tables userspace tools",
+  "CSIZE": "321219",
+  "ISIZE": "857717",
+  "MD5SUM": "2b9037d2b0b0b6bc4569e3d411d9125d",
+  "SHA256SUM": "24f6dc5b9245b91ca7b6d9a35e4f1d740e06f4b7dfbd470464dff7c16bc7b25c",
+  "PGPSIG": "iQIrBAABCgAdFiEEVyJOyaX8pvvJK7iqShr8NF6+GPgFAl7o8NQACgkQShr8NF6+GPgWSQ+/U9JOoNqENsKMl7kc6Za6lG845x86H0Hn7UBp6CSLX+XWIGuJ9YekjXW1Mek6TfJ0MPCYjBxrdW+n1eVL2uF2BvsXv9puMW4xaQgzo0f0I5dzfBY9Saw8Mh8/NDgsypao16yRSnwK0HrDFS/U2IHigRHhMCauqyQE23ryaiLK1k06xwPIbzmkkdoyfC9kWJypnBov72rJoJSfu1QSnNEszPiQrblsDAbXcSYnceZQaAVpNAu73V3yWgs0LJ8f/d2ZIK7bF1iEO0bey0DLTBY2SC8wnd58BpVMdulu4WataLh+GTbDLjRX5CSTzwO8PfdQQduRfqtijESYbk5wTQOs7pAfAb7o8CR8w6JTPoXu8gIimybfqvFB8K6EspDVSk64te7sq2WwR2RbTa0DqTN28Tz9iiboHLHk9CPi6E+cRWjhk3Mwy0zRY9IGYjzfCx+kv5tVmkmvtT431pI+uMaNlJqD7z3tbP6/FKdnLl7cLGh6JaxrbteR3WCWjaK/r94GWrdl2g1hu4zNmWkk89KxnpszuTncjaEy3UJnhb7WGH/8BvJZB8H4EwNpAVg4CegfJTGritceyoow6NtWqyI8HEbt9yva+lZPQvvf31MrjNPfKuMICUoqG8HubOzs5Co1gJY/SaiXBZVpUDUJ3RBpWHbOatJrE46x",
+  "URL": "https://netfilter.org/projects/nftables/",
+  "LICENSE": "GPL2",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1592324030",
+  "PACKAGER": "Sébastien Luttringer <seblu@seblu.net>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "libmnl",
+    "libnftnl",
+    "gmp",
+    "readline",
+    "ncurses",
+    "jansson"
+  ]
+}

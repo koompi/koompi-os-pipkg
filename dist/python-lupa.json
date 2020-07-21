@@ -1,0 +1,24 @@
+{
+  "FILENAME": "python-lupa-1.9-1-x86_64.pkg.tar.zst",
+  "NAME": "python-lupa",
+  "BASE": "python-lupa",
+  "VERSION": "1.9-1",
+  "DESC": "Python wrapper around Lua and LuaJIT",
+  "CSIZE": "131084",
+  "ISIZE": "385730",
+  "MD5SUM": "183e6549dc2c6d047a2f384b7319410a",
+  "SHA256SUM": "3cbc5f7c87913eb84307a505da2956e9da837d576d30fba1f590a35b8db127fe",
+  "PGPSIG": "iQIzBAABCgAdFiEEYEETBMCdNmKDQO7/zrFn77VyK9YFAl507vwACgkQzrFn77VyK9YwvBAAqFYNp7Z3mr2XznhO5qOdyYerLVbo4wr0LYgQIlHBiTdr6wPuemGJ4hvr3QHUiRQkvk8R6Aeh7v9iov+BonHGMYuw7D/cwv0EFXYeKx470dbpRa4YM183Gj+S5NB96A155TTR/HmQwTxznYR2BizegyoEQPmru5RION6sEwa3n3uAXCWyAOVGxQuEHjfnH3l/v0trKcu+cgz7El/uKNmpPfXFu4V+bYV1I94cY/u6ZNcoH8EkzO7fCoY3rfoctWphWcLDs08IV3oVJG3vu+IuCQYTo0KbyBGkGywHrE+ZWw0XtYDdoenTmhD2dWmH/PRGY90MpYkyFnNfXZVLStQnkPimjbXJhm5tqGlgPfiyiR8AEV+B5xUoR57nDa+sqMvwL8VMPMKwg/wDaE0eIbGB2i21MBX5bpTRNMcbf046u0+Fgi42/EUa3hFqiPbVuj2adZWvX5MlA5l9WeayXpeqGbkz7VqR5xFaX6qlvJfBcJWmqkUyBwnCpX4mlIiVAQnWQ2jPxz7DnQl+ful+qea9VadclqC66FXvKG/jm7knGv4mHwEYwlLb6eM2AimdjkK77YZVhmk7HYqa96dcS2uiAyIww2PzWvMapgiWhxR8xiBZ+JWujKtTDbhFxATxLYSjjzarNb0AxUBIOU/Fhx02icQ9+wGQIBayZerN2SqcMbo=",
+  "URL": "https://github.com/scoder/lupa",
+  "LICENSE": "MIT",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1584721573",
+  "PACKAGER": "Eli Schwartz <eschwartz@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "lua",
+    "python"
+  ]
+}

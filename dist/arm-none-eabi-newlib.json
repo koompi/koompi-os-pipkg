@@ -1,0 +1,23 @@
+{
+  "FILENAME": "arm-none-eabi-newlib-3.3.0-1-any.pkg.tar.zst",
+  "NAME": "arm-none-eabi-newlib",
+  "BASE": "arm-none-eabi-newlib",
+  "VERSION": "3.3.0-1",
+  "DESC": "A C standard library implementation intended for use on embedded systems (ARM bare metal)",
+  "CSIZE": "3528976",
+  "ISIZE": "56697601",
+  "MD5SUM": "73f064954a597ebb600704997375cd02",
+  "SHA256SUM": "75199f3f8569571e4c803d7ccaf197ea6b7c10df7543e4ea70c9a5941fd9a61f",
+  "PGPSIG": "iQIzBAABCAAdFiEEjhmSFnRl21+wRVV8sChU7XU+Dx8FAl5z0KsACgkQsChU7XU+Dx8piw/8C1+igJCuW/rkpflaPPVjnCSkCZPMfldTQc4pjCVUMaogI1eqaABiLF82PQsXw+bIBjpWAiM2drZ9vPFc0NkoHVxXOhVyYAtzUYbE6BGJs4ct2lU6sun7p8LPOSQMXkQ2IwoJudSOAFRlULNLfHrexta4vLqowkztO2uTCPj4K35XkPuOWFQw55Xsnty9SRHZEpNom1ti+PqBqjVTQTJhgJYUj5k27b/elYrUV3tC7dXe8s6lpMA0NuD8QSyIuM8DJbJMZpjDXx0VoXVBQIKjD3MrUxd1jz5jJo4may4hXO8+nU2TAnjdkBEa8vSuI7GvnX6G6oJQJBwdH02ECoMqVDGFtLPCKZ95c2hQq+iV9u8ZflSDAb4xq36McXTPI1ZuHfGgeJFQyZsf1SvIFgqRuVH9aSSXT6aR+Rj7yu+nkvkKgGhd6158XMF7kvCIe8MqY0TSUX2VhwTqEJidGkj1q/XxV6Q26PU19yBF14bWqpUr2RrHRweFLT/Lc3O4CNkLa2e0b+42MzFnEytwXKppuwlBS/6NTk59dOdgV8YhpHOAcYL80mFo4ob/2K1N9fbWZHVfDeRHL6ZlKFNjEgtYpMqQqngJLYbpsuwFtHvSwj8NIn7gHKaZBarkPJnkMJ4dBt8pZlRYJ05NWgnapj+UbHrfFladY7+nlKn9962w9u0=",
+  "URL": "https://www.sourceware.org/newlib/",
+  "LICENSE": "BSD",
+  "ARCH": "any",
+  "BUILDDATE": "1584647331",
+  "PACKAGER": "Anatol Pomozov <anatol.pomozov@gmail.com>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    ""
+  ]
+}

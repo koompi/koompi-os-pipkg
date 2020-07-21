@@ -1,0 +1,25 @@
+{
+  "FILENAME": "soapyaudio-0.1.1-2-x86_64.pkg.tar.zst",
+  "NAME": "soapyaudio",
+  "BASE": "soapyaudio",
+  "VERSION": "0.1.1-2",
+  "DESC": "Soapy SDR plugin for Audio devices",
+  "CSIZE": "35494",
+  "ISIZE": "96048",
+  "MD5SUM": "eb0a7944e6f0a4af5a188256ecc05360",
+  "SHA256SUM": "9a8eb9c76f8b3e8e6264844592346ba52754ccf411cc6d01502de363dc0c509e",
+  "PGPSIG": "iQIzBAABCAAdFiEE0jW0leqs33gyftiw+JPGdIFqqV0FAl6KNbcACgkQ+JPGdIFqqV04KxAAi/q/74xD0nRSDd58u60s4D3AaPNFKBMC/NUHK2z/1weEl9goRzUS0ovu562q8jULeCBl3UDJbep3918kGsOK33tVnlmyQm85X7x52Ht9F1EQnMBmjiMiG7mK1obhF4ehbxqnxEPC/4/B0pWC+1LtS/KL/yNTLh72Ss5MGpRnmk08rekZ+IIsGvbeVFkJMd4ZulSOzQRl3gLlF6KjDRlub9a8P3cGPAuaWHgKOQ5GYZJ6hC/+387CI+AbyM5P0D0euPuKInHGmGRjr5uLfGAucd+gh0UsWkSI5nnk16+RJnJilbdbJ8McSBKcdPkUZEBvq5CeLYjFWKlQrfYRd2anr46MAF997v0cgjO6P/8BCMHOy8GPv6Yn8x1Ov1MpFOKp8vQJUzuEYkrvYCNv7XyW2Osy22FAFRwii0ZpgGhKRxHFHIn9PxayjOmbmoQPdBH1gzq9tQ0ElSp5gwVZLXcNajmdU/tzW7DqmKYUl+gaiq8c9Q1rd9MNBK5bFTair2oO8ztHLUX0sUoGfv6OfeQJoi4RMKRuRCRSgHOI9+4A4jcW671+Hc375OX+8twmMHw1k07ajQ1VLY+vCr/igNDRzRXeadkFbQD1qYKVivkOM0mSSIoluG1GRVVwSVp7Wkb6BXPrOovZGIwV2fipRDliBJch2p0u6oop6y9sSJfUR84=",
+  "URL": "https://github.com/pothosware/SoapyAudio",
+  "LICENSE": "GPL3",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1586113743",
+  "PACKAGER": "Filipe Laíns <lains@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "soapysdr",
+    "rtaudio",
+    "hamlib"
+  ]
+}

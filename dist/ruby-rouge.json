@@ -1,0 +1,24 @@
+{
+  "FILENAME": "ruby-rouge-3.14.0-2-any.pkg.tar.xz",
+  "NAME": "ruby-rouge",
+  "BASE": "ruby-rouge",
+  "VERSION": "3.14.0-2",
+  "DESC": "Pure-ruby code highlighter that is compatible with pygments",
+  "CSIZE": "525652",
+  "ISIZE": "1967192",
+  "MD5SUM": "882ad66a3fef48735b866a33682d2910",
+  "SHA256SUM": "f250446b6f899f795daaf2e32fffb2503bd0babd1e7c67269aa522f24dbcfed7",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl4D/ZQACgkQeGxj8zDXy5JAXg/+K1LQ21jMF468V09yUOQ3oLW+kn38KhVUX2RkaK3sdrD6u0mLMMw08XfEG7PQc2V9ZaiK2cbC2g5GuYWvlHEPOwzr7sLdWhNTlLVwgN/4QnzpulKNPunFohx2NTrUL4O7ZwBVW2Bd8bUjxYxWDxHiscHBe1XXJ3ue+t8+JqKtTHgiTkfzLdNYzxnUDNlC0HGGe9sG1Tg70rMr6nN5SDEjwbhbulnyCMtdttXK5OyydnLGityYFfEOAV5HeU35g1oNEy9U+xlYB2k6qkYgCwQUPdJZJmy5KQFo5P6mU1As5ZQsCV+W6ZjzVYVo9bJw8/6hVm++E5ymFL8jqjyXLQDG11dukssFIBSwMvrXvso8X1guft0K6rKdbu92o3OOLOv/2TXmmq5I4LmTecj+HgV8tCjzOyZeV6EUzc0uhOg8PogXpGa1nPrAzBg88PmTxIulKP6lr4LnczZtt47AzO7UM2e/tXQuISbKP6hl/zN+j3R915BLDyyVlgX+fxMGhOpl8BQ7FCa/blbPCGYBdBe6xIQqyqfAGC9revnY8D9yy5LUMt9PNWyVORr5sji4MXu5PAiHwKE3uMQjlY/2OTjhT4Tb6ZqXWWMsWsc+Vnkz8CT19xw0TxAnxzpieUgvvP6apsCzYMtCjenjbdYcFjS6jrJHW8mvflIcGEzZpciZqzU=",
+  "URL": "http://rouge.jneen.net/",
+  "LICENSE": "MIT",
+  "ARCH": "any",
+  "BUILDDATE": "1577319779",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "ruby",
+    "ruby-rdoc"
+  ]
+}

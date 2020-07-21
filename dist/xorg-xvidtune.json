@@ -1,0 +1,27 @@
+{
+  "FILENAME": "xorg-xvidtune-1.0.3-4-x86_64.pkg.tar.zst",
+  "NAME": "xorg-xvidtune",
+  "BASE": "xorg-xvidtune",
+  "VERSION": "1.0.3-4",
+  "DESC": "Video mode tuner for Xorg",
+  "CSIZE": "20676",
+  "ISIZE": "54563",
+  "MD5SUM": "e404f86b3eb1f6b1c6a6c0ff7b828657",
+  "SHA256SUM": "855ee059fbabd1dbb6a646eed7e18c5e417f0787070d950e83e5748e84c1cf93",
+  "PGPSIG": "iQEzBAABCAAdFiEEhs/8qRjPOvRxR1iAUeixSKmZnDQFAl6/2h8ACgkQUeixSKmZnDShaggAkJwJRkrElipkdR3/Y1WCWrdtvLY9NwN0Gjc/lKXtZzBGtXXHZXX7QwVcdDKRl5AYm+cuNxeilPk+Wq71lZ84Gvr81STnbh4rgmdFhEDhElolEaomQIYU5WQQO5RFeS94z8fxLkW7Te9Zydq75wgOBWmY8ccVy8/osxgCt5RLvCDMgsn2Lx2Gi2L1GqQAQrBJFOBeJXDZWuyCIFmVajU/lv4NIbC4SdRJIeosrB8KFceJYp1P1+HQMt3KazLa0L0SVbU9HgMVCv4m4CRNHGgWGGfRQDLHVK+YpyB/7aVbASYnQuLpbVQNhF5psxdK+QJg3RkTSONRXFBCnMKKECHsFg==",
+  "URL": "https://xorg.freedesktop.org/",
+  "LICENSE": "custom",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1589631498",
+  "PACKAGER": "Evangelos Foutras <evangelos@foutrelis.com>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "libxxf86vm",
+    "libxt",
+    "libxaw",
+    "libxmu",
+    "libx11"
+  ]
+}

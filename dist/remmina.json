@@ -1,0 +1,28 @@
+{
+  "FILENAME": "remmina-1:1.4.7-1-x86_64.pkg.tar.zst",
+  "NAME": "remmina",
+  "BASE": "remmina",
+  "VERSION": "1:1.4.7-1",
+  "DESC": "remote desktop client written in GTK+",
+  "CSIZE": "802960",
+  "ISIZE": "3243165",
+  "MD5SUM": "2be7de65b178338bf160c8dddc720e22",
+  "SHA256SUM": "ab917b53c246f0f47cbabcb4d037ee54efa5b03ca131ad55a219958c0bc9ca6b",
+  "PGPSIG": "iQJGBAABCAAwFiEEPlGL8lJv0Zeeiq5JZcEQwepDP8cFAl73SDISHGFyY2hAc2VyZ2VqLnBwLnJ1AAoJEGXBEMHqQz/HYAAQANexGqrSK180d1VdATg5wB5RZcaDtMi9I/zOpoACr8HUtX9dIdkwVoYt5/3DDrWNm4ssAAjYaVnJuxKwgLP4/ThlmdAfJJ2nGx5CFBO6kFqgfSRNo1XLKdnp37Y7Kr4bc87fAiPiIEsOGWJiQZrNb7Bi9KvTcWNZlMkqSzF0ih0Ns5Swy7nT+TTqjevvfRBMWHR4JHeB+X9r90NqUDy5EiBB4sGxaf2cDL1wQQkeYrGh7NM58pvYt3l3pQ1g9pUNL8gKzsK+poXuNzaPZ6365nmt0uiWmkgm7W48XtB3BxQTqkdnovpehGeLOL/S064NbaQZuZFen3qCFpEaWtbvtbvzBWR9tgsov9B7K8O7JUd03BXC+/NgWCIzQ5vD9maL6hUn6tTU8DKZ+ozok/CeDq7p7vacSPGoPx4VHeX90L9nvT1uuUbjFqCEQNT7hwijBAn2JS5mPnoialMSu+8CbxS9095nAdk7lDaawxzampcEHJf5e0nhkozwb+cvK/Y3WuMPdNJQ/rYAd38F+tA//b/kfW7lrmC8XRJ4ohYZ5yNU0h6yD1FSOs6tqojJwX+/di4DaTU5d7s27Exh03Zdb5KmoiTWsPch/VoXpymBGS2JzeVcZ0rBMNEEjyDzGAZMTWLJ/a9UUb/AKPM6KQsv1RTEbJ+vbts75BI+sfxJw4Z8",
+  "URL": "https://www.remmina.org/",
+  "LICENSE": "GPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1593263780",
+  "PACKAGER": "Sergej Pupykin <pupykin.s+arch@gmail.com>",
+  "PROVIDES": [
+    "remmina-plugins"
+  ],
+  "DEPENDS": [
+    "avahi",
+    "libgcrypt",
+    "libssh",
+    "vte3",
+    "libsodium",
+    "libappindicator-gtk3"
+  ]
+}

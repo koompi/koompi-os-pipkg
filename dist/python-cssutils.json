@@ -1,0 +1,23 @@
+{
+  "FILENAME": "python-cssutils-1.0.2-5-any.pkg.tar.zst",
+  "NAME": "python-cssutils",
+  "BASE": "python-cssutils",
+  "VERSION": "1.0.2-5",
+  "DESC": "A CSS Cascading Style Sheets library for Python",
+  "CSIZE": "527949",
+  "ISIZE": "3405564",
+  "MD5SUM": "ea09e4153056cb23680c153cdb8f28d2",
+  "SHA256SUM": "643095d7ed7eaccbf0aff30e8ea62659463c343b415eb870b2169dd22521c16e",
+  "PGPSIG": "iQEzBAABCAAdFiEE5JnHn1PJalTlcv7hwGCGM3xQdz4FAl8KLrIACgkQwGCGM3xQdz5SDgf+OOZ3SIBmynnQaic8OMZ2chBh8r1Blq979ZKvxWaOrbVLYrDBEQyz8ynPaJeSSm2PdiJA8c0g+wtAQmSfl3SvcoUukMhj2Jrg1if+JkEF6xu+6ARokvQq3KcbnlLVmzwaWzoDa2cy+tsJj/7j7q33IMx+W7h0r8XWKUGGqilVTBMwEWBYekMW8wcJREyOlIs45hbbkGfAhBbtfi5LuuBNC4yBcOzwJ13pSr8f5va1njWEJ8cBfIXXqPCtvzTPJ6djptpcqmJcwuMVt46Oa1o5Iz4aFRIOjxVj2p1tlDs2gRq+Y4RhdRW1q3z6wc2WH/JOXsatrTPMGr6Nic/oYYBjdw==",
+  "URL": "http://cthedot.de/cssutils/",
+  "LICENSE": "LGPL3",
+  "ARCH": "any",
+  "BUILDDATE": "1594502530",
+  "PACKAGER": "Jelle van der Waa <jelle@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "python"
+  ]
+}

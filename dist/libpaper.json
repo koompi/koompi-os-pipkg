@@ -1,0 +1,24 @@
+{
+  "FILENAME": "libpaper-1.1.28-1-x86_64.pkg.tar.zst",
+  "NAME": "libpaper",
+  "BASE": "libpaper",
+  "VERSION": "1.1.28-1",
+  "DESC": "Library for handling paper characteristics",
+  "CSIZE": "27684",
+  "ISIZE": "92116",
+  "MD5SUM": "e1c93420368258a76f3d3b39a2da218d",
+  "SHA256SUM": "4029db3b12325e9e2143d7117eef0c01a0bce9043a8d796c8920644ecb21cdc6",
+  "PGPSIG": "iQEzBAABCAAdFiEErcih/MFeAdRTEEGelGV6sg8qCSsFAl4vR6YACgkQlGV6sg8qCStGAwf+NIaGA4aokdZvGLY/bT9PG+GPcHae4Ij6+zlYjjP+TkoSI1wwQh+7y98slflHpfIAlb1w6jsSUsXtXzkz1vsOq+F+AiFWJIK+f24YBzWt/t+9irzjLHmewFeIY8bOZru+UvwRj4GQoDiifhRq+X3ysiJQ+LnKAHw5kQ21mZNZM42tN1CWvKbvJ6F0IyuObtC6LY34zDMD7tSWFlElDmtODTaE4GaGAW8mYo3F7kxC+yxsxQjVyHeQIubHO8RSQIpYO4b25E49/WF4vMl0VyrRcM/SwcnJVuFEtG5n4Hu3K9XYdTv6+Ry0/1ORNaDUaKqLV1q0ICiJNqFg+NGjss/WEg==",
+  "URL": "https://packages.debian.org/unstable/source/libpaper",
+  "LICENSE": "GPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1580156790",
+  "PACKAGER": "Andreas Radke <andyrtr@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "sh",
+    "run-parts"
+  ]
+}

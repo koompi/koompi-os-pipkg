@@ -1,0 +1,24 @@
+{
+  "FILENAME": "opencollada-1:1.6.68-2-x86_64.pkg.tar.zst",
+  "NAME": "opencollada",
+  "BASE": "opencollada",
+  "VERSION": "1:1.6.68-2",
+  "DESC": "Stream based reader and writer library for COLLADA files",
+  "CSIZE": "2279700",
+  "ISIZE": "16921185",
+  "MD5SUM": "c36fe449076a5290ad88914f114bf9b2",
+  "SHA256SUM": "83d943e23c39a9d39a2cc02515a2e369b24abc81422a2627dec486f4168c1503",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl8EpcEACgkQeGxj8zDXy5L0oA//UC/nc4Nd61Hec2q377vPJ3YZmgUWhcu+IaWPhlb1xft0B8gWq5a9q/8lwb4/SIbNMDjANVs7Jt1rNCEcR0eVx6CnkY0JeiP8NHHG6SleJJIy6OqHyAh3tIHcP8dY0C9BLrK+h+L0Hxz306JFNu8rXw+tCmusx5EH4Q0ni4wo6EiyApWwU25eQyJlgms4bbchreGlnQtPwAojFDeamPm1mZhhJ3c37KXNEuZEYTP3KLWsP4xkHcE9bD+AL0ILs6xWzTs+/V1WLO7PXY3eM298jYtMjZJ1HqDrtqoiQJynfOcrJ+kd9Oyre5hKGsMR1uN6D/8AbSRDnbZ29ADBR03HO+mKNbc43GQi0luj0HZGNPkIhR0uCPKSxL51WZxhFrfIVV4FFBw6gUICT12U29sGvlPJZN4hsmwPX0NJitQHXuXbcl2uGpOnLj9swQ5lmx4Kuxd1geI/n32XrqFpMEqMYoTfDa+J2qu1aLxfKnYUfBsE+jOWzuCDFYnGpOcRDEm61KGvPltnMV+xPf2Mx2kJ5mCTOtBz3DVa2DxHOXuEMj0yqztvY9xWuihsjelUbdQzME7lODzKiKgBX6Kj+YcbbQc0OK/S+yUJF8rduq8nC2yqnjvNdQPltMaY+7e6RXuCo07HwDsXU0Klr9c0Yik71R8DS8NG0se5wrTavnTqmqM=",
+  "URL": "https://github.com/KhronosGroup/OpenCOLLADA",
+  "LICENSE": "GPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1594139855",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "libxml2",
+    "pcre"
+  ]
+}

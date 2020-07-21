@@ -1,0 +1,23 @@
+{
+  "FILENAME": "libreoffice-still-sat-6.3.6-1-any.pkg.tar.zst",
+  "NAME": "libreoffice-still-sat",
+  "BASE": "libreoffice-still-i18n",
+  "VERSION": "6.3.6-1",
+  "DESC": "Santali language pack for LibreOffice still",
+  "CSIZE": "414932",
+  "ISIZE": "2517263",
+  "MD5SUM": "0002454e77480ba26e8e3e8cc5fdd5ed",
+  "SHA256SUM": "1b48df93b744d10f63079512b487a7928fe875e76f42a6d3abca3faa553aefab",
+  "PGPSIG": "iQEzBAABCAAdFiEErcih/MFeAdRTEEGelGV6sg8qCSsFAl6tSu0ACgkQlGV6sg8qCSu9SQf+LhI/2VL8GWLGLIeKn8x4d2vUu3t5YnFPv2Ob2AfuDLbPvyExG3WSdqLEHDZ+Rb+smp4x31XtnBxtPJVIJCbSzGBUHUBXU06Ran7Jvh78MdlWmUGPf4M9UJdX2DU9HLzZdVGfogkZy15St0n/tqRT/wRrEPGEJNVRrFOuR56JoML5nyVZ+jaO3niy+X9IF7FkYpmaWnnsrkBJ2OkMC2IlkMhIBssLWtAKin1oMxUwWK+/VM79QF5uOK1Kxc8ES5eGLnYapFHEQk/PBohn6uNChbiEElrkEb+vGZyKkQSuTvQzePG7YK9YGz3kiaC1/88aA0eukcZlutN6UmwZMAuNZA==",
+  "URL": "https://www.documentfoundation.org",
+  "LICENSE": "LGPL",
+  "ARCH": "any",
+  "BUILDDATE": "1588407321",
+  "PACKAGER": "Andreas Radke <andyrtr@archlinux.org>",
+  "PROVIDES": [
+    "libreoffice-sat"
+  ],
+  "DEPENDS": [
+    "libreoffice-still"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "FILENAME": "menumaker-0.99.12-1-any.pkg.tar.zst",
+  "NAME": "menumaker",
+  "BASE": "menumaker",
+  "VERSION": "0.99.12-1",
+  "DESC": "Heuristics-driven menu generator for Deskmenu, FluxBox, IceWM, OpenBox, WindowMaker and XFCE",
+  "CSIZE": "93039",
+  "ISIZE": "566491",
+  "MD5SUM": "38ffac34eea072bc6a8692c232a2c59c",
+  "SHA256SUM": "44c7032a3f01369e6ee534b90751385b8f28f835798ff26eaf80b903355d849f",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl7f6F4ACgkQeGxj8zDXy5KuyA//UmQzfhaRJIiIad7rS2eek3YxkhW+iiViMioswY8Z05LsaBjB/qUi6ZOBO2Uz3K7HzNaIp9HhEn6jgiv6WNEQH5n+OgsouySXAGw5xmh0/QXutjbBH8OzM7hwfVEszVk7Udb+GeAijfdPNeysEP3jQsejxCL51ACc8rIIdfj9CGCmom72guz/ozVhcg2Kwmh+NOp/MCn14EWiHn9qaL+f88+PmTe2vdPwq4cSjIwyei0nzCMBq+hkbGMe2bFD9wBX6xJucuN4k2/0xQcE9xTTs9raJPEpSGzdmDkGraTwoXLnKd+6hMfwy6Me+MxUKDj33Zxw1+0grrMV+bZP8xXqVFuHX/aTH3Hc8FBzvuIzTOrtY56JPscf0ZEKSWmbOD50KmPOnnJB7JJgsOEDCFoj8GlRNtW+poLecTwW0MTMc76GXTlgkVw3VT5zlcB5zLfRerVR/nJWX5Q8uPuoRmM9HtNHGrqQWMkq7WEQZ8y/vutcd1FR2uuMy0hFAO9BZJ9lZY/vUvc2O+cpWrZTUpNPqAzr+qOxZPJpVE3OnOaS9BEbCvdV4661iSMTg1eaE+BkT7jZsyObVF0QSeS21cIkoOZdBcYJKNRgdv/l77PE4LOdPhv0HxlZKFZQzJXLiWWr+PymN7ak1+5+8B25bI5rqXGXjaLUcMRbNxQKmMa6Jhk=",
+  "URL": "http://menumaker.sourceforge.net/",
+  "LICENSE": "BSD",
+  "ARCH": "any",
+  "BUILDDATE": "1591732248",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "python"
+  ]
+}

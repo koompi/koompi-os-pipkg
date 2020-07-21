@@ -1,0 +1,26 @@
+{
+  "FILENAME": "xplanet-1.3.1-4-x86_64.pkg.tar.zst",
+  "NAME": "xplanet",
+  "BASE": "xplanet",
+  "VERSION": "1.3.1-4",
+  "DESC": "An Xearth wannabe",
+  "CSIZE": "1002621",
+  "ISIZE": "2412035",
+  "MD5SUM": "e81307de48dcbcc0518e60e4a2f03413",
+  "SHA256SUM": "372f51327e60d6dd28e248b73403081ced00269509c309a8d0aed6d46a65a3ef",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl8EqkEACgkQeGxj8zDXy5INLA/9HFAqwZTWbnH+8ibDRfetw9HzvbSTy3cBC93GFTO/6xjrEEKmEAlgDQ77kxnv7U3fJyu21My3b9Y8XK93f3cFdCI0eP9PCZ/K2UnXOODYuPyHzl/UlA6NwnKZwcvZqA7YzIg0YTDIfUXlHN2bh06gCbUV3zvb/rdhntJ8W7bFwpLn2eRP73EUxR/76QJ3BD0045rKsszMc9iZNjSiYlPr+Vhx8sNqNUK97y2Bk5IcU2JIwxFNLVFftA6BQl2W+HOb0zlf7K22B7AvrPoPTYQ6JcYFb1TmQXcTsVfuzdX72ok1qOcowjGaKIO1P5cvRzVv7l1AuBNrJd2SAn3IktwsiALrggmSOm55dK8v9Z8r5EGe6WKLcD5vhHwcKRWPx81XWiG1sjH6eGlKysDqXVx3Yb+A5b47m88pu9FzpZBRAfq5RQjlFKBIb1QUB1aTUoLYOZfXJv/OyhvJr78rmv/INx9Y7XydM71wFkFBI7EGm7Di32b25Gj+bPz47TyaaW0bee2CP7hTKdcd4tuz0+hF4dj4xMY9RJ6yNMr6tdckNkOvWFRddyi4B/rNI44icPlRyfTLsl03ySDZZro+/um6HhjcWtQpVmMd7sGSAZo6aYkq4ndeQceUaeuPfWADS+ao+WWhM4NpCq0VMr+BSeBl9Wnq+HZ5W/7x1EjVNCe3rIE=",
+  "URL": "http://xplanet.sourceforge.net/",
+  "LICENSE": "GPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1594141078",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "pango",
+    "giflib",
+    "libtiff",
+    "libxss"
+  ]
+}

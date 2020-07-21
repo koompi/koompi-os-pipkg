@@ -1,0 +1,24 @@
+{
+  "FILENAME": "glibmm-2.64.2-1-x86_64.pkg.tar.zst",
+  "NAME": "glibmm",
+  "BASE": "glibmm",
+  "VERSION": "2.64.2-1",
+  "DESC": "C++ bindings for GLib",
+  "CSIZE": "1046583",
+  "ISIZE": "6003444",
+  "MD5SUM": "75125226bb36391717dc7756e82ef1ad",
+  "SHA256SUM": "71d39c57814b45b8cbcc6dc9ff045e3571ba09ffa8a60f175c31074a812b6db9",
+  "PGPSIG": "iQEzBAABCAAdFiEEghj4iEmqxSLpTPRwpekojE+kFfoFAl53kEcACgkQpekojE+kFfoSegf9FSecdWAhQvKCpvewzrJA3DtleRKSr5k/BvB0UoNBEFC/hBE4eosTGbkDbP/1+gFK6/WQrgcJku/cXQWuvnbH1F4GoT2YuMKzxRQpGjFyFhUjna2FlkirvH7j2awjianI9hZS75nm4zO7Ad8GWG2ycSQ3vcS+mr+SgYfm1z/MsNjS4ViV/3OnI/mY70B5VHa0Hbp/dxyLs2X2EyvTG00Q+l+ccxSgsQ5mReOmzAZ0CUIGGtC6OofTWV7x68hNBl3rvN+Uqiqp1jXHoq01f8VxvmycQeY49bbRG0ETfzZuhzvY779pevi6tgbw93KqifoU7Bg5pYbB2clBXYcj4Zn6yA==",
+  "URL": "https://www.gtkmm.org/",
+  "LICENSE": "LGPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1584893368",
+  "PACKAGER": "Jan Alexander Steffens (heftig) <jan.steffens@gmail.com>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "glib2",
+    "libsigc++"
+  ]
+}

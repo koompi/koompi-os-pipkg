@@ -1,0 +1,23 @@
+{
+  "FILENAME": "perl-types-serialiser-1.0-6-any.pkg.tar.zst",
+  "NAME": "perl-types-serialiser",
+  "BASE": "perl-types-serialiser",
+  "VERSION": "1.0-6",
+  "DESC": "simple data types for common serialisation formats",
+  "CSIZE": "11543",
+  "ISIZE": "14486",
+  "MD5SUM": "d7fa8e2c0b26b234a43015ec82ddbd3a",
+  "SHA256SUM": "a5d4da3a961a37cae99f0433027c42ec43c61d272ea147bb0c1337b4128df777",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl7vOb8ACgkQeGxj8zDXy5JjzQ/8C0iz3QgKTHSGocUrwbZ3ucLNGPUlUn78OMBETLbL6MxjNUYIqvw2ZAxX9rBQirl6/1qAsDIBEjjOWyOJHmaesF2ONVOISvxVPCVDlLjZhh/RCpgoreIXOk2ZdmbO+jDbjVQvpNE3uVg4I6vYnCzemopKl46i7liRSIR9uas9awsbj2l3bLvP10r/uvLiMgeKYktNvY9xbp9qXA0x/HR/JpdtsDWP2HCYYbFUZZVh4JlV49mOIWyT6SaK2KKaTVLmnAegjRwEH+52NeaVwuQtNB3bd63Uh7N6JujS9e++A75yDXzfuXUjC2FmnEV4dRb40UJlgdnhF/ryxnRfD7/Yl20j7dRpw8CeLyOilAC/rRhE6ACgJPqyBf7ylWy1eSpwAwz3DZd1pPfaNsZdNLnH+AK5CuI8CCtfy8lFHXYwcz4Khv6PT49Jid9oUKseV+U7hkF1C+oaNftNFsRM5Ck6vKGojdMVwIGVybGdpN5+LD5Wy3pXI8BwVpqpyv4aciMRF2WHf5LCicN5UnV3IFK2V1Xi+zQ5N0hHaBPcTDxCFCDS9Jo/3YVkpyZIG/7CWK5H6vrWStTI4SJSHW9IR1+NmLHdzV59XWz0SYfjr40MkTXbLhLseKlu8cHv1eDqk6qa0zR19hSxVIAzxAt7a9fR5Hu1/SBURsYTspTDpCivmTk=",
+  "URL": "https://search.cpan.org/dist/Types-Serialiser",
+  "LICENSE": "PerlArtistic",
+  "ARCH": "any",
+  "BUILDDATE": "1592736170",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "perl-common-sense"
+  ]
+}

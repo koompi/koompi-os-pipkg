@@ -1,0 +1,23 @@
+{
+  "FILENAME": "python2-snowballstemmer-2.0.0-3-any.pkg.tar.xz",
+  "NAME": "python2-snowballstemmer",
+  "BASE": "python-snowballstemmer",
+  "VERSION": "2.0.0-3",
+  "DESC": "Snowball stemming library collection for Python",
+  "CSIZE": "132212",
+  "ISIZE": "1712517",
+  "MD5SUM": "bbd99818026d15aab54463b7661ea9eb",
+  "SHA256SUM": "bb75d692ed2b83027e2bf3827c18ea94abd63cf2ca22f253ea56fe0b83844fdc",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl27IqsACgkQeGxj8zDXy5KzLw//T2UOzb0S30VZHiO5LU0Omusn+sLaQpwJ2i9vqWXLTP0uNd8Alir2hnYaKIWvg5pV4B/igFYSO+H3awUF7PmfJGYAb/FTe8pDdZCQ53YYT7yIp4rTfcZ5H1XhMB98T+Q8twRgQLxEN0Xe+dINsMND31JJwCtf6sFAlj8t9ScffeFJFcL8pL+sznmltBikpkrm2t1aE/A8LSjwoKhdutK4iqazGo5lY7wsVeMDlvbBOzYLYO8hx5V5107WM20KGesM/aoUFprUvmrUBejkpVH77AD/Kcjxru88pmJj8faX8BoQ9CwWmQCO1wQMl/9tp+jJfElyhCGO5xy3rUBAJOhC3UjmcCHn1N0cc4Q22MsKw3ZSDgSxdY6B70IxwgSlL/hT3nPe12H60LkvtQR+PrmlDk8QdwZA783dACsckt/F1jUTVK8BnZmUiYnwJVBnoPojuwqfwF34iG571989vsnsz8PGiUP1gzTZ9tccbmFNzculwDkqjY/35AQ3WSZs8mw8HC6daW1Hg05MuDLqvgo0RL43NGXpqCq/K1Tpn2w1aY8u/twmFNgCA7u349J5HG9QCjgbpwrBsbmXHDg5W+7oq+uz5applBt4SXraSU/BMnQKnvCvrhDW2yDpQCkdB7jNH/0MA4tsYHmH8tHV9NqwjdYDBp01bIeQwbZYdisdnxk=",
+  "URL": "https://snowballstem.org",
+  "LICENSE": "BSD",
+  "ARCH": "any",
+  "BUILDDATE": "1572545162",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "python2"
+  ]
+}

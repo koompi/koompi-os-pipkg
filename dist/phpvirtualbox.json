@@ -1,0 +1,23 @@
+{
+  "FILENAME": "phpvirtualbox-5.2_1-2-any.pkg.tar.zst",
+  "NAME": "phpvirtualbox",
+  "BASE": "phpvirtualbox",
+  "VERSION": "5.2_1-2",
+  "DESC": "PHP/AJAX web interface for VirtualBox",
+  "CSIZE": "2921669",
+  "ISIZE": "22147320",
+  "MD5SUM": "0aaf621b80086c57198880c3aa20e810",
+  "SHA256SUM": "99ae7d108dae8cf8701338a8cfd7c332051ab795658be15d479985954106035e",
+  "PGPSIG": "iQJGBAABCAAwFiEEPlGL8lJv0Zeeiq5JZcEQwepDP8cFAl56HCESHGFyY2hAc2VyZ2VqLnBwLnJ1AAoJEGXBEMHqQz/HuQoQAOVIIzWAc8hpOyM741/CxIevoNJJpqmwK/U23T4t/u3dGgv8thseTmiH7fB9afXG8UvgyEDLAzUl8oZpdIpC5Vi08n1LHCTDxpd0serE8cusuCnpH7vpHXqkL+7vqigYMGtauNOObEaiFqO/g0iv/xNjynrB1+z+XFhWh3Ww3yoeh0tcV4jKl5QChmerLTZyPG8imeKZWVzGqHtdFa77Pq0/ChfC+2U0pwXF2nQ2bikDmvZxYloN4a3p9S31ycmqHBMfOR84Rq46FKANJGwqar5maWInqeyNvm9HJAlmcQb9VVjPwvSMzQUJwqkWs4IOgAGqqx48jsHQUIlseKB/qvRAEBU1YwAuv3kZoer1qZs1xZbZT7JWWYwaG9GC0VVnoCUYmed/FFGtEmZuf3bWhY8869FQFEP5Mq29Z4QyKQhLQoOrCnhNqJok+rV/G8WMsDfClceAvRK31NLfl8HGDreJUgusmGu/St/q68Ptld8RZSGQgyINbT5tC9014BLFs/bAQOCDPmj2zrXe+1k0zis1lRY0d/MiFkFKLHZje02mkAIEkdQ3XhvqAgZa3r1CfQWE3Q2GbYzGjcCxQg2ojgebnZdtS5KOYUmaIaXq4YbSw6IqbaKZO5zdIEX2qXe6ZtRhtvzNDm4DdwveJz5bNsYIG+u4wXW0JbtiY8n/sIhL",
+  "URL": "https://github.com/phpvirtualbox/phpvirtualbox",
+  "LICENSE": "GPL",
+  "ARCH": "any",
+  "BUILDDATE": "1585060804",
+  "PACKAGER": "Sergej Pupykin <pupykin.s+arch@gmail.com>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "php"
+  ]
+}

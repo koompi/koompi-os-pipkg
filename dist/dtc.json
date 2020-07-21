@@ -1,0 +1,23 @@
+{
+  "FILENAME": "dtc-1.6.0-1-x86_64.pkg.tar.zst",
+  "NAME": "dtc",
+  "BASE": "dtc",
+  "VERSION": "1.6.0-1",
+  "DESC": "Device Tree Compiler",
+  "CSIZE": "139471",
+  "ISIZE": "592191",
+  "MD5SUM": "86a54e419b290ea31ce5d40748543812",
+  "SHA256SUM": "cf1473686ebda6d521716f8a960b426b76769773a6be0d710be1360f1dc8fd7b",
+  "PGPSIG": "iQIzBAABCAAdFiEEjhmSFnRl21+wRVV8sChU7XU+Dx8FAl5hOooACgkQsChU7XU+Dx+pzQ/8DHBaGzML2QoJcMvgPooeOOIR3sdTtTtl+VGjmg9QGNvBzvCt6nHGk8vrgk8sd2bCeSAQ6qfPva+uTD6ekd1AtQSjS6pX8iSo4/hb+Ou9Sh5D7G2cNpjo0sXAUf5m9H2lmShT9FWOTqrNgr8BCCD3Fq/2GNFYbAe2narhHa/0XLryYkDl0u7i21LPkZv0eQKHX+fLpmG0WxlYzKHYjd/Z05X9/kY/pA6LJF6gpNd2Y5zcuSNqRFtlcmKv5N8C8j77eNW/UJ0+gN+2+S86kS+vXJqxWCLhK44PFQFNTUUQOsFFTlEF0dpLjhw26OjBAC8yyWbVIiPk4AiMRWGYEwU6JFqdtgXFxgA9A5hU3nI7dEDoyC+kk+bW4WLuZFArsIsFT6LP44gebJQeh3kb+zv0kSDwGqEgR2hHNyJwrR4SkhblMsswag1ZsfHdss3SwN8q0nj9MTQfhRZ7WE9TGZ48HSruF+bcOmEygpS1XRsAGxSEaShWNJOxvQF7J9nz2bE+Htl6/PLMeR02bHF9tSw2N1zE+/YP5AFtARPbRxowm6gd7nsCNEhzYKZvKKAQZyMa5qEz7AQk2FNWKyvXpcVlGkcQfiUG0TlkzQkWdnieutKMoCGvJkIsmVRxaKcGCNiT/xyfP07q6l6UretqZA2PWTfOff4fv6foRsIncYY8Tw8=",
+  "URL": "https://www.devicetree.org/",
+  "LICENSE": "GPL2",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1583430217",
+  "PACKAGER": "Anatol Pomozov <anatol.pomozov@gmail.com>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    ""
+  ]
+}

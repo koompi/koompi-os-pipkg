@@ -1,0 +1,27 @@
+{
+  "FILENAME": "pulseaudio-equalizer-ladspa-3.0.2-3-any.pkg.tar.zst",
+  "NAME": "pulseaudio-equalizer-ladspa",
+  "BASE": "pulseaudio-equalizer-ladspa",
+  "VERSION": "3.0.2-3",
+  "DESC": "A 15-band equalizer for PulseAudio",
+  "CSIZE": "32630",
+  "ISIZE": "95846",
+  "MD5SUM": "2014a065ecc9f03c71908ba2609f94c6",
+  "SHA256SUM": "bd0332bdf1130d7abfb3b180ee97d3ebb4c798bf805e2c324f35a22a1b99630a",
+  "PGPSIG": "iQEzBAABCAAdFiEEzgvecadZqH8j8PfYth284QkBwWMFAl5qgrcACgkQth284QkBwWMaPAgAlsc1dBazkattOKot9oko5rmfAIV0gkav7IDQHFgbx12KHzPbQe4lxlE4fyg+gxrYuY0Ut1JRGC+q4hQbtG0XRBwrD9H/l/rPXpNnVbTrm1PO8qAD08yGCf4fDUsb6LF8OXPyu/j9Qw8KWArncsuRrGjJPsmLDdO8/SsEtv4TmRLADkpCSneR8+qeKJd1nYEi4jToKrYjGc11HlbcjEkk9FJEwAnizmL66jg1AjTvyCAV5snf2/gi5F6bwuZ+U0r5M/awCfKOwuFBQfjITyQ/OKKP4rkMy23EZwXwKl7dC3tmcRrepa9qH6UTvNpa8JMRns+PpAna1kwa8dFtw7B3Qw==",
+  "URL": "https://github.com/pulseaudio-equalizer-ladspa/equalizer",
+  "LICENSE": "GPL3",
+  "ARCH": "any",
+  "BUILDDATE": "1584038528",
+  "PACKAGER": "Balló György <ballogyor+arch@gmail.com>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "python-gobject",
+    "gtk3",
+    "swh-plugins",
+    "pulseaudio",
+    "bc"
+  ]
+}

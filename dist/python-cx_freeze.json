@@ -1,0 +1,23 @@
+{
+  "FILENAME": "python-cx_freeze-6.1-1-x86_64.pkg.tar.zst",
+  "NAME": "python-cx_freeze",
+  "BASE": "python-cx_freeze",
+  "VERSION": "6.1-1",
+  "DESC": "Utilities for freezing Python scripts into executables",
+  "CSIZE": "1601834",
+  "ISIZE": "4335087",
+  "MD5SUM": "68d0bc998ef55b4f985c30c9c96cbb73",
+  "SHA256SUM": "bd589630195cfda2489e4cbadc011354760f3cc26bc5b88993512debca731755",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl5RRTkACgkQeGxj8zDXy5KycQ/+JStmOGGa8FKsOXEXWw8zYZhi8WZG2rfv34zj4W0IkerABIXUyDkDrut6Ipj9qOwPvihgM3U+/crKG5rYh6j7txs88vLNFXodzgKdAFMySSpAxf82p0IH2yTTwF84WMZJdlBYSZZnD0vQiOaOgAVfU1T+k02634xQM9v0P7krPUVJ6nnk9nGquBwb615I2DzgzLV0xPPYnbJh87H01znqjq8SyVErFhbZ6N6JECXi/F7z3oikIXl+c9Sgkol9DugdsCclmcfsojb2n83oOzL6Ehg3vClUpkge0RwnGU6np1/fepMPjH5a7MeKlmvbeh8fS5ZAlrMN18WEbmGT6ZTQs0H3XYH7DnRc+8fy/CUDftpklOkBW59ynps9F5sqkY+5b8rgL77QSrxLP8Od/NLZwogRoNm63bHVU7mZovyuqdm6hfOru6UNemtN85OvNImayiGOeOuGzHY1ZTgbj9D88KYDqWV95PYNMtLoQN1Md0jg4FeZtH7TkMP75/5XRO5vGX0ded+QLgJOMrG6zX9/+BcUGfPV9Zd7k2Mt6amaxpxoc9EHVeaccg5uD/WQaT9ZxA2A5ZgurhB0Z8Dy+lFhi6SyYj7U1mlypls1BxBkJAZal/8sG8ttl1hh7PUQsUkJY50f+f+t/yfjvBH9Kos9HikodrJtmaxO2/eUmgsBXto=",
+  "URL": "https://anthony-tuininga.github.io/cx_Freeze",
+  "LICENSE": "PSF",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1582384219",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "python"
+  ]
+}

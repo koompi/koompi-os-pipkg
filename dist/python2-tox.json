@@ -1,0 +1,28 @@
+{
+  "FILENAME": "python2-tox-3.16.1-1-any.pkg.tar.zst",
+  "NAME": "python2-tox",
+  "BASE": "python-tox",
+  "VERSION": "3.16.1-1",
+  "DESC": "Python virtualenv management and testing tool",
+  "CSIZE": "143327",
+  "ISIZE": "747380",
+  "MD5SUM": "c95d55a286808343168ab9326823e820",
+  "SHA256SUM": "d8b47d6fd8f32c24649140dfc5de0fe3900fdf8f1311bf12c878bdd966275f4e",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl76OGUACgkQeGxj8zDXy5LZHxAAhlmUCjew4pcFFpyCa1wcXUH/AuFb4zsuQqatecvIuZ0jliisOc4gzH27fGmdLY1+3WkT90lvSlDLtrTnnT5jy7mVf/NYWP9MofZ1rgu2fvChnkcJ3HG3QR+FcRh1D2l8W+V0v/kXGqlK1NogJ4IeT+AOiIsMyNZGpW7B9jR09Tigl0XiFNzRTH541AN8fV1fza/BkQMQIVaDqomHTKfyBbTTXf5tO8qp2nKUoD8v8doPma2HUkY+40lL6ugAteglYndPVAA9oeXAwAC1GvFaEq587YGUeNYLC8BvSiDnXTx5Lbo59Tbf4TtKe67/a4oOaaBtditC1sFmk8QITHTb9E1Rra2y5ZwJzH6Z8CFtAVyKOLpTNaK6OrLxSekM3r7pZzxsY9vnrjbG2+Qx9CSiI2KJP45tSrDB4veAWv4t42mJReLeQ+JT4dIUGKEfk+oSmbSwA96HJyY0yxSnKipyalNR7npLadGYripe0end+x+E3618H1GyPbU+kQhIpH2BRKKHNAhuUy0McgS1uNnTUJTlsBrntMphdrsEpMvAz+mhrOWan9YlYG1Q1rkjh8lpodCCeq2arM5dj/PIiRdOTS2hTo9d0WfeyT+yZVYB8wpQ8GJKBu8FXuTZ8fsyo3Ip4tZ+7QC8klPygQdiMH2snxIQa4arODmvwly+zrjF6oo=",
+  "URL": "https://tox.readthedocs.io",
+  "LICENSE": "GPL2",
+  "ARCH": "any",
+  "BUILDDATE": "1593455325",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "python2-py",
+    "python2-virtualenv",
+    "python2-setuptools",
+    "python2-pluggy",
+    "python2-toml",
+    "python2-filelock"
+  ]
+}

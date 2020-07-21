@@ -1,0 +1,27 @@
+{
+  "FILENAME": "gnome-phone-manager-0.69-14-x86_64.pkg.tar.zst",
+  "NAME": "gnome-phone-manager",
+  "BASE": "gnome-phone-manager",
+  "VERSION": "0.69-14",
+  "DESC": "Control your mobile phone from your GNOME desktop",
+  "CSIZE": "148162",
+  "ISIZE": "642941",
+  "MD5SUM": "69a53c691ee501bd43c265f817499986",
+  "SHA256SUM": "5a924dfd3e60e87c0178f66aa7f0d1ca59c18d85dd2d83955bbf4b9e9323e786",
+  "PGPSIG": "iQEzBAABCAAdFiEEghj4iEmqxSLpTPRwpekojE+kFfoFAl5kpZoACgkQpekojE+kFfrtkwf/bA7k7IyL/iGF2infVSz7D+rHoyjShlUTizqM8MemIWyKsAgFpEO1z1YaToJlZyfGpGsCjaOYGbOImow4aDz3A08QKTpzHzTSxH5kb2Gmi+urvAdKwwUtac6AcpYJjvPF+ys32oeJnXrvL/Y7nE7xcbHLrQnFG5fwbbBliGfHMmSzY0zJgduzyFHUvDTuEfHal6XU4gF2a0chIEpM6rl5ZEOLjpKEz/MH3hQnTXcbzD14omzMIQ0+pYLa5tVB1vGrI5nmwdq8RGIqjL4SpVwsZFBCgcLRJkGbc7R5ghqnvw+VmGw/8yj0hmUg63zQ/tM5CDYmrhhTPHDufcF6NOT1jg==",
+  "URL": "https://wiki.gnome.org/PhoneManager",
+  "LICENSE": "GPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1583653670",
+  "PACKAGER": "Jan Alexander Steffens (heftig) <jan.steffens@gmail.com>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "evolution-data-server",
+    "gnokii",
+    "gnome-bluetooth",
+    "libcanberra",
+    "telepathy-glib"
+  ]
+}

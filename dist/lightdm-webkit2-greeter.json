@@ -1,0 +1,26 @@
+{
+  "FILENAME": "lightdm-webkit2-greeter-2.2.5-3-x86_64.pkg.tar.zst",
+  "NAME": "lightdm-webkit2-greeter",
+  "BASE": "lightdm-webkit2-greeter",
+  "VERSION": "2.2.5-3",
+  "DESC": "LightDM greeter that uses WebKit2 for theming via HTML/JavaScript.",
+  "CSIZE": "891253",
+  "ISIZE": "2121814",
+  "MD5SUM": "45f60d6de06946de43136cd40b7f53eb",
+  "SHA256SUM": "bcf779edcdab620e469034654b1a0f2e2b91a1c90a7f2f30e7b6b8092f3e9368",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl8Er14ACgkQeGxj8zDXy5Jxkw//ZtTjmnLZn4VQkYJ8TgqAGwGqfgCSLm8oGv26wuC3oNKv7/ldVgYu6KlcR07yIGICr5wemWQwc4OD+8BbjofEp/W3+g2NA3VN+Tnd0p9L3BvV6XBREp8mqyY9p3vUhduntmrhHjyzpSkwyQ2btVjQztPr9HdieBxWyvKxYo17ySDrKSr/ats1latcMTYh8YkVCkyeGpFpWmaYD9kgpn2usj6LUuBh6mf2Xorq6Q9lkQPaM2UwlAokzugrWIL668dZuvcJKxD7B+H6pwzdFNPZPaF9Sxw2gSSfrka7i5IXux4NhaPH13PQBEXwca7p8FDPW6k18KwJNQYpJAqY2XszeDkYuI3h4TyPRp6gU058kiMj6sMGKnEDYGGV9EWtJh1L/CFst0cvTauSi7Y5+u6MCCtda+wqkrSUxUEXxJv1r1EidZaEl6L3Zlow0CiQiV10SsHAq984RfrJc9ap1FcTxsy8iSwG4kASWev2OzVlpJLzt0Zq/hxgJhBOXOEsjjx0p6iQxVC80Omf13vC5PEwMWCKYqhUbOEJDGg85r7eBtdGorb84JZy99yg08r7t+oIMVtKfhgMOx6lbg66inWNbG9oyD2TNvrMGh0GrdcuszO8/sd4doNjCLyUrbKgmudXrZQYU4BBzYUk+JNVPs2/gHIAhQZzzPfUw8uqgYjTW6I=",
+  "URL": "https://github.com/antergos/web-greeter",
+  "LICENSE": "GPL3",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1594142463",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "lightdm",
+    "webkit2gtk",
+    "accountsservice",
+    "gnome-backgrounds"
+  ]
+}

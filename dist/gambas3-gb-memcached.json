@@ -1,0 +1,23 @@
+{
+  "FILENAME": "gambas3-gb-memcached-3.15.0-1-x86_64.pkg.tar.zst",
+  "NAME": "gambas3-gb-memcached",
+  "BASE": "gambas3",
+  "VERSION": "3.15.0-1",
+  "DESC": "Memcached client component",
+  "CSIZE": "10926",
+  "ISIZE": "18469",
+  "MD5SUM": "3032c8a4fa52e933c65a8a790ec1b7f7",
+  "SHA256SUM": "e13b919a1e4e18cd8f55c73584cc57d3b1db736a6ca72c4a858a0341223b8cf4",
+  "PGPSIG": "iQEzBAABCAAdFiEEU1+MAzlFDwVKTSgnBglqatHO3awFAl8C7RcACgkQBglqatHO3axwdQf/QFCUuoXMZCnHVk61bZzN1iHGom7VG2pfLDW9nKDJnNrkqAt5/NJ2xJ+ufEFYDtMeSeqhWBWm6O0y+VdCOjCXvvpHwXi7pusknj4thvUwnDuSVvSWQOqwyYAJ5CfCi9G5BVgKvPeKI+C+24pQhCponNBLECUS+2vk0/z+mahRUZ3K/LiM70Y3d0elC0d7JUpz/fddlCRYEJJu0JgOZAkBbcXVNfKvjnIxVvsMkUyzvMGgYQ/CPS2Anf9RDGocb/4ZUWQUBT+Ra6dJDavhRPibfLhPSTQFnVaQtNWxEemNQs8or8BVI0yHE+4Iv32qhhIsx44IIUTE3QG//ByBc0Sgbg==",
+  "URL": "http://gambas.sourceforge.net/",
+  "LICENSE": "GPL2",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1594026389",
+  "PACKAGER": "Laurent Carlier <lordheavym@gmail.com>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "gambas3-gb-net"
+  ]
+}

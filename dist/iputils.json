@@ -1,0 +1,25 @@
+{
+  "FILENAME": "iputils-20190709-2-x86_64.pkg.tar.xz",
+  "NAME": "iputils",
+  "BASE": "iputils",
+  "VERSION": "20190709-2",
+  "DESC": "Network monitoring tools, including ping",
+  "CSIZE": "94324",
+  "ISIZE": "290875",
+  "MD5SUM": "81c819a4b03039c2eeb6a9a426f53e31",
+  "SHA256SUM": "dd3bd96f521eacb0c5aede8d037a8a7f0c450900328d2a9467c5fd4be14f2833",
+  "PGPSIG": "iQEzBAABCAAdFiEEhs/8qRjPOvRxR1iAUeixSKmZnDQFAl3MLBgACgkQUeixSKmZnDR0AAf9GT0kTyNpi5T9yUOv7nG/qcL7bzNPBGXdGOrTEv6sbeINTMmkkHJ5WhraFIMeS1avJlFWO8QJZmJcqrVx3KXZDE7TqT3M+6UlvIKgWiZ0uEL9lgsOhmKoDiDN9e1PsDsW4Xv4Cp9/vt2zA/zBL0l/eNUi9eAfuA8yFndfWl1wJmMA7ugv7qJkKOsN9XUwhy5Q9oXFpzGWwIYMi9o1+2HjhuEOCDzNYdBkS2x/gbF1C2dRlZzoowPhi++2kEbPbBNY4TQ/fxHwiJ5a8LbKJ+zJy83UEVGXpjcX4VxR4P31rNCTO7ekxses1Z7wqwIx74uE6ounG3XIonhsdCWEQQKxHA==",
+  "URL": "http://www.skbuff.net/iputils/",
+  "LICENSE": "GPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1573661691",
+  "PACKAGER": "Evangelos Foutras <evangelos@foutrelis.com>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "openssl",
+    "libcap",
+    "libidn2"
+  ]
+}

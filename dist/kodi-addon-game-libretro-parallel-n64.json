@@ -1,0 +1,24 @@
+{
+  "FILENAME": "kodi-addon-game-libretro-parallel-n64-2.0.0.6-6-x86_64.pkg.tar.zst",
+  "NAME": "kodi-addon-game-libretro-parallel-n64",
+  "BASE": "kodi-addon-game-libretro-parallel-n64",
+  "VERSION": "2.0.0.6-6",
+  "DESC": "Libretro wrapper for Kodi's Game API",
+  "CSIZE": "2020037",
+  "ISIZE": "7946298",
+  "MD5SUM": "83e61c7461139723d321f19426704804",
+  "SHA256SUM": "1fee2a1794e9955f039040f122baf86c1e7ec750a271347768b6bec358f3d91b",
+  "PGPSIG": "iQIzBAABCAAdFiEE2yJ3vNUAqjglYQvd2zIzknlsoGcFAl8EcbMACgkQ2zIzknlsoGc+CxAApF2+tzwTF2r2sB0ooZoMYRXoka0Zzb+ztmCCn3DYuilJuRAOgP9CjALAdR8kFz09OypOKRsWwasS/yQSS5T2Zq1Nw3eL+/wSMNKWe/Za7KB7JxlaVclQDiceRM67ny+/Wv0/KG+jawyaxRw0OqBwKKMShnXUjzEFP9FfSFwrltVKn5aFt1eVLlrBc6BPLn1Ryk+MLxzcY34Jtd5+p7qQUsVRt7MP1qIzCZ75DdvHXiMrXLCjNKBGaLb3i66kDafQEdmKTD4pQ69Qn4SlxCt7tvYG2Nf+fbpXFZn/s1XVTRF4NiCq7a5ddt7yxd7bZERQPjhCQBYfCblU9JA0JOb03o7amDmA5Z4DLgpNLz9S69LnyTkWRkutxh8iDOrCmeJ44UJbIUuKHEYN5/YVb4+qwevogQsiC3xADXPjNaQkRArBj/s5HaBr0G9D93qBWa8dHo5xiw08aFj9oiwPvfJJhfVsdB0fwQroX8JTOwPRjaQZup1mqYr5pHTFPeWLVeHqvvmtNJ4mtHCcWDV6/s1nu+MALXdEZUWvsycyTYaCoA3o6w3y0sJEpK0HWaJiJRS4DCpYzzcbG1s+AY6dzbOM1XNzCWqURGg71NemGeh0H0BYbW4bn63hL5kKU3RwEQa1Fu0WUIK5Ye4D71f/NULR1IQeCWY1gpKpAeO/eqnCp70=",
+  "URL": "https://github.com/kodi-game/game.libretro.parallel_n64",
+  "LICENSE": "GPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1594126716",
+  "PACKAGER": "BlackEagle <ike.devolder@gmail.com>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "kodi-addon-game-libretro",
+    "libretro-parallel-n64"
+  ]
+}

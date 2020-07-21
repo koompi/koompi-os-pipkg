@@ -1,0 +1,28 @@
+{
+  "FILENAME": "haskell-x509-store-1.6.7-63-x86_64.pkg.tar.zst",
+  "NAME": "haskell-x509-store",
+  "BASE": "haskell-x509-store",
+  "VERSION": "1.6.7-63",
+  "DESC": "X.509 collection accessing and storing methods",
+  "CSIZE": "31257",
+  "ISIZE": "119806",
+  "MD5SUM": "608b15cf8dc7cd69a53fbead9c3ebba3",
+  "SHA256SUM": "32322fbe00a11e3ee222503fbcfde3762760c384a36cb8b001fe0042b525b5b8",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl757DgACgkQeGxj8zDXy5JF1g/9Ffok0YuJHyTYx8/XQbXawV2jU0gTU6wAjeP3mkTjAPNVhw+rsWx5nz1bVRvGHLieoBLqBakcCbqJ6kb8iLj0ESouZov9ZXmZeoL1Sr9WlPhd9gO3/yhdXu8cANXpptVHGHyvTKLwyhtNqBQgvMc9KJCoQTyI2vc8Ot/3RloyUGASx/z3P7UyYAm9/7ixJFgn9Ir3nFEvfLRV1Ye4cgweWS2BQss9Po4W8GWFwf4mWCa8eBITqpZs7fJUwDKOvK+jQHUUS+KUzYoBWE5f53akKdR78Oe0gdFOhR9G8ItClsCeSMqacXTZPMw11/1hSEfYebnTKbLa5rPu4Q/tnoXrFdAng1A3ngev9GgpD7x5FxdLKRXRrUMrpeWET0zWMh759LD4mWc4q1qo/+D9oVGos3BPzqYojMFB13sAhPsUuij/rirY98nGG3eKw5x7e/nU+SV/ECYy54sltpwgp/J23eXk9skOM+i33Qp167FXlUJRkF1lL1zpP2fCNiuFb1JPnibtUgadgafdJ5xhtYG66zZOIRu2fybAZCRQqWLgzRPUb1eHJmfALgj6dOybXEeB6WHapbIDxZ2Y3XJsVPtV6M3kZW6FENqr8t+HxtJFnYkl8Vtr8zATAfvLYIS9YPoOgCJjObxVU1U5pycqb6Ph5aFGs6+xZNYAHipW1wO/VHI=",
+  "URL": "https://github.com/vincenthz/hs-certificate",
+  "LICENSE": "BSD",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1593437215",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "ghc-libs",
+    "haskell-asn1-encoding",
+    "haskell-asn1-types",
+    "haskell-cryptonite",
+    "haskell-pem",
+    "haskell-x509"
+  ]
+}

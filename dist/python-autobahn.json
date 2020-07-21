@@ -1,0 +1,28 @@
+{
+  "FILENAME": "python-autobahn-20.6.2-2-x86_64.pkg.tar.zst",
+  "NAME": "python-autobahn",
+  "BASE": "python-autobahn",
+  "VERSION": "20.6.2-2",
+  "DESC": "Real-time framework for Web, Mobile & Internet of Things",
+  "CSIZE": "846775",
+  "ISIZE": "17777913",
+  "MD5SUM": "e69278da58fd0dffdec2f9de484386b2",
+  "SHA256SUM": "9b4be3f38d38d551a38d670444ccf223115bd941958173fc53456e17a48d4f18",
+  "PGPSIG": "iHUEABEIAB0WIQSYX6G7jYlWZgHv/xEEU6bKI8VjFQUCXwvCcAAKCRAEU6bKI8VjFVYFAQC34oTgRY9Qr+s1rlm53VJBCKrOJHtRc59364dhvhHT9gD/b6fofSTj8CxVjF1nlfwCTeGgt7TyAP8CT7hUx14Yyds=",
+  "URL": "https://crossbar.io/autobahn/",
+  "LICENSE": "MIT",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1594606017",
+  "PACKAGER": "Chih-Hsuan Yen <yan12125@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "python-cffi",
+    "python-twisted",
+    "python-txaio",
+    "python-wsaccel",
+    "python-setuptools",
+    "python-cryptography"
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "FILENAME": "opencv-4.3.0-7-x86_64.pkg.tar.zst",
+  "NAME": "opencv",
+  "BASE": "opencv",
+  "VERSION": "4.3.0-7",
+  "DESC": "Open Source Computer Vision Library",
+  "CSIZE": "27733500",
+  "ISIZE": "105451444",
+  "MD5SUM": "23a9729cef131aff47d56aaa5e8d90ed",
+  "SHA256SUM": "b36b526fd464493a6397dd5b5cac46933607b15489b1f68c3343b8ae646daa22",
+  "PGPSIG": "iQEzBAABCAAdFiEEFRnVq6Zb9vwrc8dWek52CV2KUuQFAl66ZGQACgkQek52CV2KUuRPmAf9ExivjEn08VYuzIsnpCQVbw2rFvv+ulzaskaXcYj/WtzyBurReC1bxnHpUtKCfh70n1LE8cms0lqn4CTjvx627ggP0K/w5a1BjOQNBohzFhVHZMPTW7fw9H8cv1WdYjsNnaWOuZx76tp0Jl2ZMUCUB+jiSfPSWozCoC5wAiwkfzNdfOZFbANvmMFOsaInQTTmz4Tn0v9gPO1wwn1j9wiIPW2VpOy/L24Aue6vVQMxYoqAjGc0zzWKdVTOsSV8DneJ56jlN5SETjWvj6kkvaZ3mjFx6gahS++wStpXVMuESh/Fp8lrerPwtHoVSXi09aOSMqsTFEa91hpEKYc04KYfUQ==",
+  "URL": "https://opencv.org/",
+  "LICENSE": "BSD",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1589273112",
+  "PACKAGER": "Antonio Rojas <arojas@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "intel-tbb",
+    "openexr",
+    "gst-plugins-base",
+    "libdc1394",
+    "cblas",
+    "lapack",
+    "libgphoto2",
+    "openjpeg2",
+    "ffmpeg"
+  ]
+}

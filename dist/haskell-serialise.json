@@ -1,0 +1,29 @@
+{
+  "FILENAME": "haskell-serialise-0.2.3.0-16-x86_64.pkg.tar.zst",
+  "NAME": "haskell-serialise",
+  "BASE": "haskell-serialise",
+  "VERSION": "0.2.3.0-16",
+  "DESC": "A binary serialisation library for Haskell values",
+  "CSIZE": "151950",
+  "ISIZE": "914751",
+  "MD5SUM": "81a2bc721adcded5805c667d74c6e68b",
+  "SHA256SUM": "fb7bfcdf139f82a9577ddaf249d9d652d5cb8d283b20fc3fe65afc93633f5409",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl75nmsACgkQeGxj8zDXy5Ia0BAAhFmzVpeGtXE4A4Mh7+5ROXA+OEGsA0kO0HXEel+k7ksT3GQT22BJaf2quabmWBWUmOq2OqKprnbb1w3+0xE2IsH3WJPuxq74a+qu9y9iDcffKJPmNMOYR6igmD62fLH9b+z7Fl5r2Aoi/YD11iOA/lTLfZKkUpCMY4UbwM/4u5qJ1VvWQFeQVHdfe+MwKP3rsVfYRAtqtnztn/SHhs6sQCZW5cPt1AaSgjNBVwkidkTpDAbktEVzOFEYg9u/3GMby1CCFMM8ekVSX2jZvE81TDGp7WKcyalmlujYI1AdTrxwxJ6O7bFw/bJ2zcLulXcPYpGvhE73jfsi+iblUeUF77sMKctvN4Fjfj7itRMIMUEGpsiCvTr1u+yhIs/u2MYMwNhZndKwPWUSyiwhdc2J1yfCGuXN/wumL0phIqIFqVAhqU1EOjqioQ16csm4pXbcx52qE2IvJM8nx7bJujWbhBlxc8k5B55QjHFUZn/2Dp0H9lF7aA/pqL8T2TdtJUNpsTfNajfgAmASuXi4SKZqNvo+DTXbsTGVh98e8/xvpOiQJeIJt70Epna595+HwP+wq5XlpQQDswKlwCZ5hSm3Jgi1gY056pWUim/E4a3mk2VEaIjfwfz2QwNcS6klpChJ6kpkxmquNgh6/Kc16xeH/rgFR9wz7+C2JTIq6DdG8OU=",
+  "URL": "https://github.com/well-typed/cborg",
+  "LICENSE": "BSD",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1593417248",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "ghc-libs",
+    "haskell-cborg",
+    "haskell-half",
+    "haskell-hashable",
+    "haskell-primitive",
+    "haskell-unordered-containers",
+    "haskell-vector"
+  ]
+}

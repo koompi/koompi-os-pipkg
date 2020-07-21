@@ -1,0 +1,23 @@
+{
+  "FILENAME": "gmm-5.4-1-any.pkg.tar.zst",
+  "NAME": "gmm",
+  "BASE": "gmm",
+  "VERSION": "5.4-1",
+  "DESC": "Generic C++ finite element library",
+  "CSIZE": "121566",
+  "ISIZE": "968409",
+  "MD5SUM": "db316aeebf13423c3328f4edb58c1392",
+  "SHA256SUM": "dcdf1e02e1e56bfd4494707249738f373bd184f54590ceb74b2d2a923968536b",
+  "PGPSIG": "iHUEABYIAB0WIQTH54SUZv4jWDQ1iDdyWHNLQcMVSQUCXqR53gAKCRByWHNLQcMVSb6UAQDF4FtX6lBi5IVDIvHpuFrQMY+74kUDR6WbA6vcGN4xHgEA/oZU3/dyZTGDi0awZmxKjxLH8/GaizfJSI503In7sgM=",
+  "URL": "http://getfem.org/",
+  "LICENSE": "LGPL3",
+  "ARCH": "any",
+  "BUILDDATE": "1587837312",
+  "PACKAGER": "David Runge <dvzrv@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    ""
+  ]
+}

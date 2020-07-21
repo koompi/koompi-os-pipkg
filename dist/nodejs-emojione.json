@@ -1,0 +1,23 @@
+{
+  "FILENAME": "nodejs-emojione-4.5.0-2-any.pkg.tar.zst",
+  "NAME": "nodejs-emojione",
+  "BASE": "nodejs-emojione",
+  "VERSION": "4.5.0-2",
+  "DESC": "A complete set of emojis designed for the web",
+  "CSIZE": "492477",
+  "ISIZE": "6606026",
+  "MD5SUM": "31669bd9a1897e26c97b421450eee044",
+  "SHA256SUM": "4d7c229f775ffd261e7fabef31e1a3ee9a45f5b3c5c027d5dacee63c9746a0fc",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl8Em7kACgkQeGxj8zDXy5IBgA//dm76k8DwnrtGBLweZTpseanYEuRQ6IdWlEToxancbL9J8QciuQGx9hwLyp4y06zrmiV/Yi58WBu0XDzxQpVz99UYa6SMoiPgM4I6dL8SODiEnPOMEkfzZrZxEKS5qTkpJmoQM1uGjrsVpPRHnnyiMs11aA9CtPjLUjAneynJHIufGeZRGPlOZCwv0lisbaL62uc4JPmZaFG8GD0ueEo3qe861ODag8q/h1nt1VwL/IneD8ABKNlBrY2PPWsPsLlA92BQHyDwMzUdXz+p6fAt2f3qo5LJSONFXdwPFpW4SEEE66St7ChlzUnNEefV96yyckm3aglrnoiLhWevgcUiJgrnjM4yh52LLQjdGD+5PwAlFlGfWRV192COxtObHBJadg62o/J9E1Udknbb9uhLPZzhyahLdd4T9Yhiqxwt7wbsL2qQmTnbQGzTcdcGgZw0j+UeojsKVPLQvZtWVxwoHVP38xlVjaCfADV28fsBMBEV3rgOSa+OifkqnE8IrsZgnpV3VpUxbVzWoIvjDhUojjsW7D8BdtaBFPhZLrYHiwiuMXIykOUSnTIdVlCcsc924VV1fcMDZUJK4m+MOJvncSw1apaIHO1uNpg8u6DC0SMV/fcjtuJToKdJzq4rirAW+PeCiO6Ql6feJojixU6GuHSL+uEAXpaDIPSTsF1riko=",
+  "URL": "https://www.emojione.com",
+  "LICENSE": "MIT",
+  "ARCH": "any",
+  "BUILDDATE": "1594137507",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "nodejs"
+  ]
+}

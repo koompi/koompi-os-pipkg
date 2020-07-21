@@ -1,0 +1,24 @@
+{
+  "FILENAME": "moneymanagerex-1.3.3-3-x86_64.pkg.tar.xz",
+  "NAME": "moneymanagerex",
+  "BASE": "moneymanagerex",
+  "VERSION": "1.3.3-3",
+  "DESC": "An easy-to-use personal finance suite",
+  "CSIZE": "5287744",
+  "ISIZE": "14484480",
+  "MD5SUM": "7f2942059c2a6fa1f6e4478ae4bca89f",
+  "SHA256SUM": "0c877c8e5d529880552dac4ef3642baad1bce6cce4cbe51ee7864aeaddc5005e",
+  "PGPSIG": "iQEzBAABCAAdFiEEhs/8qRjPOvRxR1iAUeixSKmZnDQFAlvmGnkACgkQUeixSKmZnDRdcAf/Xp2otdZrYPr4bASO9YvtYslgv7BQH0QIGN7YE0YTiPN0kknBX6+etZloRBpXZqnWbWh4QRvA5LuuKa0It7P4eNhJKJKjNQa1A/hMjehaVu0YiQZ1jt69foEQwcN7VvNJHTQ8433psaqPaej+NsANpjpnHeybSo1hV9voi/l4KCCrDb3SliWLt5smtE2v8l28eNVV0mvfdRX1ithd2ZPFOF55jgB45gGUBvCYtqZQsa9BPW/CgsxpSmAP/T/d9xfYtWQqLwow00UHm3i7uLGB8ZZbyrHf41QK9LC5kwyRSlo2JNu+WJ5NnDfFQvsWZgkoGhEQ6J9LwdloHmMOoi0xrA==",
+  "URL": "http://www.moneymanagerex.org/",
+  "LICENSE": "GPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1541806540",
+  "PACKAGER": "Evangelos Foutras <evangelos@foutrelis.com>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "wxgtk3",
+    "webkit2gtk"
+  ]
+}

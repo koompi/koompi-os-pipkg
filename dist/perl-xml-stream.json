@@ -1,0 +1,23 @@
+{
+  "FILENAME": "perl-xml-stream-1.24-6-any.pkg.tar.zst",
+  "NAME": "perl-xml-stream",
+  "BASE": "perl-xml-stream",
+  "VERSION": "1.24-6",
+  "DESC": "Perl/CPAN Module XML::Stream : Module for handling XML Streams",
+  "CSIZE": "55899",
+  "ISIZE": "253767",
+  "MD5SUM": "b438fb6a2f4e169290c66e35f260ec73",
+  "SHA256SUM": "9d4dec195d7b2ee0720438b0646a30fd69a5f8eeec08b3b09f89a997e4b80b46",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl7vOa8ACgkQeGxj8zDXy5KyuA//RmH1KgR4cyPuA71KrM4/jpvAHKyBZndGmwItVD9fNdqgdc40704ANi6BxqrECYyEWExL2ogfiSLPO1Splbu6o4gPAd55MS81HWG+kPSmP5GBriNmdOFzwi7PZkGCavjySsdG7tlXFlOBrEjzRB30arMu/dOjWwMAXy3jFnupZP9bQ9yz2EvmmdduXogOjfLsCYyeuWt20A7HAW47qt74DfW+CM4Y6HGXt/JFsouN+ZAQTtsyGlXD0CKtUlWW+cMevY4AvMpcfZgfrm2hcYZVwXDjTunXKVbgL3TzvTpFs8yjeNVyrYNYWRDiMPfIgB0btZzeVGmwarnMrUTmdkgiyWTzv/u9yQscW4cC7lcyaxoutNOzthxUYw88gtGIFqJpBvb5VB5sEq1CnqbX02nJUVHtuOV7K/t29KG9TQx+xM5JBfyXgIvUnWyp7aENjMLCUsR+weVc1NiP0uX3tEIsAZ1UU1dpGwFfYGQWLjolC5pDXE+j5eZiuVDPrXrQ/od6MxiBJEXPknp+S9PrRvgZahQ3dSo4pgttLzxKmizYZLzMk3hSd7lgJ1DA6ORASAahoWWMXAjGYZ+GMOJsN3SL8bRXtQWncS5F5cXT+NTVjyBUq0o2FRHjr8g2gQ//YLE5BETK1XXhHcg9kuQOtSP08+zs/cLuMv6DYPq4AslwRag=",
+  "URL": "https://search.cpan.org/dist/XML-Stream",
+  "LICENSE": "GPL",
+  "ARCH": "any",
+  "BUILDDATE": "1592736156",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "perl-authen-sasl"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "FILENAME": "firefox-i18n-gu-in-78.0.2-1-any.pkg.tar.zst",
+  "NAME": "firefox-i18n-gu-in",
+  "BASE": "firefox-i18n",
+  "VERSION": "78.0.2-1",
+  "DESC": "Gujarati (India) language pack for Firefox",
+  "CSIZE": "539149",
+  "ISIZE": "602914",
+  "MD5SUM": "c6346d312ed677c88de74466dc832df0",
+  "SHA256SUM": "b18dcaca87d9b6a7d14013d5b40ca5221b1b122f705a2d13a66af7dfc2ccceb8",
+  "PGPSIG": "iIsEABYIADMWIQQGaHodnU+rCLUP2Ss7lKgOUKR3xwUCXwelpBUcaGVmdGlnQGFyY2hsaW51eC5vcmcACgkQO5SoDlCkd8dDrQD9G70EnA6xctoGOeiHHN8M1yHma01+I+w8nzd5ImWfRv0A/je32vFiI+WCnoSbce3OrEoB2C+ItWBlN5REuQXhOhQM",
+  "URL": "https://www.mozilla.org/firefox/",
+  "LICENSE": "MPL",
+  "ARCH": "any",
+  "BUILDDATE": "1594311501",
+  "PACKAGER": "Jan Alexander Steffens (heftig) <heftig@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "firefox>=78.0.2"
+  ]
+}

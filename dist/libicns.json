@@ -1,0 +1,24 @@
+{
+  "FILENAME": "libicns-0.8.1-7-x86_64.pkg.tar.zst",
+  "NAME": "libicns",
+  "BASE": "libicns",
+  "VERSION": "0.8.1-7",
+  "DESC": "Library for manipulating icns/IconFamily files",
+  "CSIZE": "37397",
+  "ISIZE": "129249",
+  "MD5SUM": "ab57fd7441fb01cde34904a5391b11dd",
+  "SHA256SUM": "6347430a4b597f8bc89a219050fb5b7fec81d6cbad87a026e5cc9f2b8f486ff4",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl8Ec/4ACgkQeGxj8zDXy5L2XxAAtt3wW62ymzVScX6CSYXNIXE83NViZ4pvvUUEHQXPgUyuvrO0lb/A4CygPgeh9sVTipPKpBAWHfUReMJ+Wmb+PYqDFICrAJnzJGgKomAZplzF7Ln5EZZQC9yjVbYGW9+x2yWeaxBAanbNM7NtGDie7vEWh2x4jCIBtdFh9Ft9M34iG6h2O0C/8zb8JGVwelWe+qaOh/b44NpXz37Coc7qDAifE02ZxTbaFrOSUXLFWI57sjZ+v0k5v3jXLB0t8xdvOWfLLc03FSytBI4+TkseSIzsCyd0JK+5aCDSWW82LrtiC1/fJhKg4CUj/9jUYKzZG5IUz2F5qBjrntsbzr6PMtwS4VpVyziBKTQWVr8H7OadBsf97+RFka7ZjEirrRnz7oKEi5TflNyyfk/BZLxhxO+DB0NQcod89B6QZvo1h6FsA2nyKE14QJ9uFZpbhR/RXcwhLV2pcwKpbDhtbg3J0FrhMdd8Ll8SBKr4iO6o1UX12PC7xOfaaSBwKm64DONIjachGdSqI6qLiA1hA+I0G+HXBuG9FqGL3hzOVoT4VyvPj5S9aqAKSBP/6HLXpqHyTpQ7CyDLBPOienUk1ir56xgHDT73DjdfzC6Q8Q0Nc0ag2HgAzEzzDWBvuBa8zxVtLeYWdR9KA27TayYajr7p0SpYn7s8O3EURf2RzXfhlIg=",
+  "URL": "https://icns.sourceforge.io/",
+  "LICENSE": "LGPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1594127332",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "libpng",
+    "jasper"
+  ]
+}

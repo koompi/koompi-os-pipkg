@@ -1,0 +1,23 @@
+{
+  "FILENAME": "ttf-cascadia-code-1910.04-2-any.pkg.tar.zst",
+  "NAME": "ttf-cascadia-code",
+  "BASE": "ttf-cascadia-code",
+  "VERSION": "1910.04-2",
+  "DESC": "A monospaced font by Microsoft that includes programming ligatures",
+  "CSIZE": "104721",
+  "ISIZE": "440161",
+  "MD5SUM": "0054b902652dba61f6955dc9151f5ae1",
+  "SHA256SUM": "8762479561e245a07717aa48ba4a5cd8019d936c119512eec6316cad7f3af45c",
+  "PGPSIG": "iQEzBAABCAAdFiEErcih/MFeAdRTEEGelGV6sg8qCSsFAl750jwACgkQlGV6sg8qCSt1SggAojpSkLAWvjL83l9qLXt90RThML504N7P0vkE4wIrFxENTdB2VQ6oPPcBubUtJcp7lRSmcrpKPfXwfZTcoh7bqJrkgjjKCete8PnL3o8RrjO5h+oDau7yrtLEFLITfKeQKUYQ3F6oqVIF5o2jHOMSt79wqb5cZ7tIAEh3Z2wNcDogH9QVg7hyZWng/1yALZH2qpXRKWMJq+soAFL08KNc+JbKa7FeZhOaq1ssySh6c9sa0THKcoBzInZ0MoxF82BsBCWiYNZHWlRhq7gP/t/giRQPzes/v0N3kMhuupkxBU6jycAemnl+hqJIkq8ipBcvA1YpkwrmAYA0Y8RtucPK4g==",
+  "URL": "https://github.com/microsoft/cascadia-code",
+  "LICENSE": "custom:OFL",
+  "ARCH": "any",
+  "BUILDDATE": "1593430549",
+  "PACKAGER": "Andreas Radke <andyrtr@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    ""
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "FILENAME": "haskell-tabular-0.2.2.7-18-x86_64.pkg.tar.zst",
+  "NAME": "haskell-tabular",
+  "BASE": "haskell-tabular",
+  "VERSION": "0.2.2.7-18",
+  "DESC": "Two-dimensional data tables with rendering functions",
+  "CSIZE": "39350",
+  "ISIZE": "148662",
+  "MD5SUM": "c1128478c120d09422242faf3c047e04",
+  "SHA256SUM": "c2e8e2df3df1681fba95e1bf6c5f9e30f937f0790ed2e9e80e8c1ccf6f432d04",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl6htYYACgkQeGxj8zDXy5LaLBAAnljIZ1n8JcUgxQULpLo86cFa1ZQbgp/8JHxPNBzJgKwM/gpa1BLdCtLMg8gEI1PPIMCdwYVrYjWRhsMhZgQQRoXHx9kqZ06b6z249a46CHhoP/yAKkZFwkMnf+i03l8ZHhIYiR7MTkMeqgppoUzcZLp4pd+2CNzUWYNYMFt5vctcDRyoAwLAs5Fkc9D+4WfgJAjuwD7tqBAkRLFDwQAUkl8teWXt3ih0yHug5tYdCTKGe/5/gRy4A/EVS/uddlFUnRYbkEzt8/ksyQzBqWFNHIOJM6KANlWkkcpChgEXL3pRdISAuckTF6SCdSzkPWVW+6ArVyYDYv2DWB1GBT/R4kTBhp3uEOP0y9Z2LwkyFLGlbvStemi14agzN4WzfL2bxSr+KFOYrOq7NjzQllQYEraDKhXxrrxQs2uLNq9jDyi5pLOrc58cOFqVqVzmWT8Nh3dCC1SIQ9SO6lTPxafeM9wmqWLYrUGmSqzb+WYeiUsAGeIBUNJnikxn8rZHualWRrUUsx/a1kmrHQpi5cc04HoHhP2UqofrvoGbQNP20Dz5Ii3hK+7mWzY4AP55p7IRHl+xOXj+LU6EeJKcAIWHFEJJ+2zk/brVGSbDALKWVebE2X7q9r9LjJMiFBizB1fZgdnJ2O8m5gMwDySqPI0eS27a8NL+sYXUqx6r5yvydWU=",
+  "URL": "https://hub.darcs.net/kowey/tabular",
+  "LICENSE": "BSD",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1587655981",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "ghc-libs",
+    "haskell-csv",
+    "haskell-html"
+  ]
+}

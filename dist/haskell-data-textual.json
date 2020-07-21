@@ -1,0 +1,26 @@
+{
+  "FILENAME": "haskell-data-textual-0.3.0.3-32-x86_64.pkg.tar.zst",
+  "NAME": "haskell-data-textual",
+  "BASE": "haskell-data-textual",
+  "VERSION": "0.3.0.3-32",
+  "DESC": "Human-friendly textual representations.",
+  "CSIZE": "450454",
+  "ISIZE": "5021905",
+  "MD5SUM": "4c9e67ac8f9d7175b357f16103dd9edb",
+  "SHA256SUM": "a487242999d97b226ffc3cdac9ba19842d906d0126aa557a020c6427ab51839b",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl75nO4ACgkQeGxj8zDXy5LM5w//Se1ptIt92I61KGWhN4majo5kbXwu+8Pg+Lk977droVOByoCcrRzXEO9ZCGS4Iek+pXCmAvR94nsGTiVsAh4yCjS094wlDcgEPFDO6p5QEEi5VocbVFPDVk+swQt4a5wX9knd4vBvlDT1kAsCc664jLG07FyyxJX01AyU8GyP9Vbe+NbZtfmt+gkhMokyYeyDZNwWWNm9u+wHZwz8NrPsgM5rzkZv9aq09lLxReVNJzUBcwAVUMYagtfUwLYVH7efRmemkuSZlLbWvdiMFTvNqS/tWbwm+TDfCHV86BnFyA7ViIMpi+eWP4FDNkSuqARD65iJSOyUBXrco6iC7wXx9cH6VLke4P+xSWiBFN+l/2f6NuEIX4vT+jL0geLbjatE1Vayj13p6t/YlXP2TxehW28eOoStA6wnsGbonl71hadCOF9CAedkseR0r91rNibFGp1tKgMhX0ngc0JRNwM6rMyVQ8K8eC0cRV3ryEK+0bQnkmlJ8nH1McXupUGLP2tu+Zg8fZh1PiuyTKtxskkn1Gas6I5e/qXNS3pZQ5sku6Q319H0LjUJ5YGd7DUl7jTLeKVk4yy1eV9kKqnXJz6O99C1ytg28QibNWsOG5w3FYX9nakU6girRZGkWWuzVTzXFr2p85xIuPZxsZ8GOv7GPLhWWVMaqVc1N1/Aq5qsVA0=",
+  "URL": "https://github.com/mvv/data-textual",
+  "LICENSE": "BSD",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1593416865",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "ghc-libs",
+    "haskell-parsers",
+    "haskell-text-latin1",
+    "haskell-text-printer"
+  ]
+}

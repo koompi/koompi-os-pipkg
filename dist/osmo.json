@@ -1,0 +1,29 @@
+{
+  "FILENAME": "osmo-0.4.2-4-x86_64.pkg.tar.zst",
+  "NAME": "osmo",
+  "BASE": "osmo",
+  "VERSION": "0.4.2-4",
+  "DESC": "A handy personal organizer",
+  "CSIZE": "578609",
+  "ISIZE": "1990229",
+  "MD5SUM": "2ebf958394e2516373d87ce12b94d18b",
+  "SHA256SUM": "7926801679da19e2bb19590afaebdfde00dbdecce221667112cde170f076ebf6",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl7L3P4ACgkQeGxj8zDXy5LWGQ//ckW06G/beZJ+tQDcHvLfLrUbnVIsO/nh9oC6rzow8+XzjoRN7jpWAUb8TVVzgKMu2fArNssdHP2RvawaAzfeYlIZBPoQIXgiSzuXyu9N1y12RmCo2PK9k3NLJm7erbVMuI/OhS9PcMceFG4yxOtrH39Pkq1mP1Kkv933DB4UyVAkq+bhhNdR+MF6c6d/RLQ/dRihaBCV8bvd++NJgape1PLjKWD+pC37vnpbgNSOoXjWAd5F82/t0QPIRusbuuGvGXCZC5L7481RTJaSq+c5fd/DxfCB1lWVG+L1FNEKxej6oSbIOojLr8JFw3kKWwhaIG7Ju8bysReuHAaIMTv6pyA3z3XtkrfnfoT7gXh/0cAvTG7h9i8s0DqKrlP1/+TgMmuS/RnUXqP1onBw9dxuRCcuW6CMR71jgpzGi39DxIKJzzchi/PE8GuTISbcN3/9NsTRKLuA5YVB1mNMprMIAbbSvyh7cWkjKBCAEtEGjajPjO+Gbc+LxlAqI+L7oY7HZ1QUEcudohkDBYXMKmbmuHE0JIzas+IOdCVwpkg8ort/kQX+yTbaTnKVm/yW9AzRAo4wZU9sqp0KegYxeG1iJbiLN1MbgF+MlyJ/OByMOULA5ENdfjdsrbjV48rk0nXIR4yyh6echUD66N25DCkshS2f9pcAUYZ/j0PBsUeTMTI=",
+  "URL": "https://clayo.org/osmo/",
+  "LICENSE": "GPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1590418536",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "gspell",
+    "libarchive",
+    "libgringotts",
+    "libical",
+    "libnotify",
+    "libxml2",
+    "webkit2gtk"
+  ]
+}

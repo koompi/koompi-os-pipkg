@@ -1,0 +1,23 @@
+{
+  "FILENAME": "go-tools-2:1.14+3923+c00d67ef2-1-x86_64.pkg.tar.zst",
+  "NAME": "go-tools",
+  "BASE": "go-tools",
+  "VERSION": "2:1.14+3923+c00d67ef2-1",
+  "DESC": "Developer tools for the Go programming language",
+  "CSIZE": "21945143",
+  "ISIZE": "141515975",
+  "MD5SUM": "67115793d9f8b3857019d340cc8b6d00",
+  "SHA256SUM": "05bd7069132dda1ce1ef99ed934eaec75e23b77111ade49b7a448871923d2c3b",
+  "PGPSIG": "iQIzBAABCgAdFiEEwQA0ZnZjToDJQPuenAL/QZ/svhYFAl7gAAAACgkQnAL/QZ/svha6rA/9E1OYgMAhdPcCik8Jemn41i2/PJaLn0yoZcaE8Rj1s178R7DmS59/GPOG5KjtX5VZOjmG/9jfy3BdhM1OETTphDewKRZKAOfRZzJAJha/8uYVkwSf5UfhWY/9xAbww3PuTAgyZTs+/Q48HJamnJfBmwKcVfyXu/S5ILVzkYksVo/UAQtrapMu5mg7aPyTdtT4YXqzHePbSbff12d+KzHuuWVKDs987NHCxReThfXc/AEGBNFfm3sYa1b8RqrciuCsJpO1r8B7YsbX06cc6aWbih6I5TZTWrQF1aJHd9GYOJQQp2saxswcwlkIoltwCWMgRUgKymHTaST+R6wEYHwwdhmJx1dA51KNXYoXXoLsLca3b28dPKh91tVtlkoJBL4sI9HTMvnXcvpR6T72v0WdooXZ2tAfQ84xtpbk/n61zrE3sd2OAj0+lc4jG/1kJUVBDZ1w7fLnInaiH0PGuGZvjHVEMTUSrZH2+Vio6qWkKkneobfM55cSKQcxfO1sFkwkZnHY9os9D0AaHEFg/9gBwD/SdbSGYtBJo/D9ly3BvjrMsQ48gnXSDgjvjiCEGqB8b9a773RjFCHFll5h3UpWYFMpoT+15ynDV7Xj2k53H2dMpgKXBrW2782N3cMS6eHOMpOsl6DBcG1AKwePHgPvBZ9Jmss8JQWCtQvNgnpT1LE=",
+  "URL": "https://golang.org/",
+  "LICENSE": "BSD",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1591738243",
+  "PACKAGER": "Morten Linderud <foxboron@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "glibc"
+  ]
+}

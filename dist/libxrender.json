@@ -1,0 +1,23 @@
+{
+  "FILENAME": "libxrender-0.9.10-4-x86_64.pkg.tar.zst",
+  "NAME": "libxrender",
+  "BASE": "libxrender",
+  "VERSION": "0.9.10-4",
+  "DESC": "X Rendering Extension client library",
+  "CSIZE": "26591",
+  "ISIZE": "79418",
+  "MD5SUM": "5b702ac5956f3cedf20d353bc9748406",
+  "SHA256SUM": "e738ef92d6bb9f33aeb83d5819f35fc61a87b7e4019fe5e9f1150f7b473503c2",
+  "PGPSIG": "iQEzBAABCAAdFiEEhs/8qRjPOvRxR1iAUeixSKmZnDQFAl6/7qEACgkQUeixSKmZnDR9Zwf+I5rqc2EBnYby6YF6hbW7qF2tAG9YfZlRom1QT4z/epV0xXPlnXsmKvFwAdnauv5OvXfwvI2Fevb1GNGeYfU0bTwODTXMk1RSSDgIk8nOYXfpvHtgvo2YoKdRAK+sLzv/yfawuIvpTGiTn0xUfFogQ2+QwxGLcrB5tkva4nrk4C2kQwLMLWUv8d1N0gMZVIFfyWYsS/SlpwJjAclDXiVL3Dwm87seJcDqvOlg9SUcgcDOB8HLXbqkDS1PHHa6I24DjgT1coCsigo0o54WH2a/PBArZPi4SMKNpelJIOrd1QjzcZ4o5z6b7VRU9xZ701nEVZDBM4c4LlbOdNEjM9NfeA==",
+  "URL": "https://xorg.freedesktop.org/",
+  "LICENSE": "custom",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1589636731",
+  "PACKAGER": "Evangelos Foutras <evangelos@foutrelis.com>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "libx11"
+  ]
+}

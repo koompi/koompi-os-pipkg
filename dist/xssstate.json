@@ -1,0 +1,24 @@
+{
+  "FILENAME": "xssstate-1.1-4-x86_64.pkg.tar.zst",
+  "NAME": "xssstate",
+  "BASE": "xssstate",
+  "VERSION": "1.1-4",
+  "DESC": "A simple tool to retrieve the X screensaver state",
+  "CSIZE": "7439",
+  "ISIZE": "17132",
+  "MD5SUM": "cdedf94c48acc5afabf29823536e46f2",
+  "SHA256SUM": "cc25be7802144cea16aa007cf3f33205bf0333c414eb11f6803e7ba2672c7f1a",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl8EgnAACgkQeGxj8zDXy5JwlBAAmTh+LUPKMz7D1xkM/T6FhHOQuUEbYZ71pV4C267g3jNeWCa++XXRFrUx+mJ92t19WG8xFC/6mvhdXKWJxnR3Mqie4nEO1HeORqhLuHsYt23DR3sGIO9GyC/UfP5bIZ9pj2aEHYQvNb6qEeKhb1/miGoBtZ9NXiM8REaQj5zPPvOYrf97nzXaWejY7osKRub07OYxCdyFNnk6ZGvx+WDfRHqAx56Rw6436k8P/vVAwagy/zZkFQVX8yAVh4Tgp6M1847TaRNEPwCy7SjLLgfVFbqyh1B/yZcMV6iIFwpJR0DeEFduh9zgvCN2bngN/ImqL72hn+QEqsAhvk+buNz07oalvJmd/uk/CwEY7ZNhYnDVtZYGMmheEkbB/rYWBN4jhmpW7oDerOzKSq3BoNDlCc8KQ/Q6Spl9p7GBK9i9PoYm2NDX5CjL/X8mzOHFHmRYKjBRIlKsuxrzodN3Bbe2A45UXEoF7J+hkUjdZ3knOEgnNktJiWcyXaE5a5n+DBWRIqsHBjWlHwfnEFxjZeLEh8Hl/zygXh6zvZOsKmWE2G7vXQF5hzTZnXB4XagWR23SpOOsEIk6D2WZRy6c6Wi5aEOAl9TpCYf0JLnwdyWl4QPKLFrpi9y+CX7N4hAoJ/idJd5eO01ZOYjuqY7eoUmkh2hWRwgeHYKsApZ8z8oBni8=",
+  "URL": "https://tools.suckless.org/xssstate",
+  "LICENSE": "MIT",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1594131025",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "libxss",
+    "sh"
+  ]
+}

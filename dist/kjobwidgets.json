@@ -1,0 +1,25 @@
+{
+  "FILENAME": "kjobwidgets-5.72.0-1-x86_64.pkg.tar.zst",
+  "NAME": "kjobwidgets",
+  "BASE": "kjobwidgets",
+  "VERSION": "5.72.0-1",
+  "DESC": "Widgets for tracking KJob instances",
+  "CSIZE": "313490",
+  "ISIZE": "845900",
+  "MD5SUM": "256aa88d1f2c77139da51d29c3c4e537",
+  "SHA256SUM": "9e7731d38928a22cf7067876c2ded3964e32d9386de5a0b44205ce33b84c96e7",
+  "PGPSIG": "iQEzBAABCAAdFiEEFRnVq6Zb9vwrc8dWek52CV2KUuQFAl8JYIEACgkQek52CV2KUuTvYwgAnL+HB+ln7ixZ0W9/9UWaFXcelnx62IIeAlhWlAML2cdd8hchUeAAXNHj6zJWQ4oTYIIK+WG0t743jZQrvK5E6d7K+fHpwv2QmTRErUPO++F88MWy3sRkE2a0eA9fo/808UB8WY+n1FUYQiQB6Xj32Jkocg3NdNfNoyx+LUJa1nUEyqymnUpSJtNYx9gAfFKYPA/bp139YtemJxFpEfCB4kDYmLd4QGKgS/2ojmrCuALicTQDy9yXRjMxczWVercVcr/UKLfwlHY0AxEViPuKkLiAezjJHhtYrh/MhMtbudZLlxHAeMTTCIOlmN5N4ckBYwvOCKl0o99KnJ/efSe7xA==",
+  "URL": "https://community.kde.org/Frameworks",
+  "LICENSE": "LGPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1594201595",
+  "PACKAGER": "Antonio Rojas <arojas@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "kcoreaddons",
+    "kwidgetsaddons",
+    "qt5-x11extras"
+  ]
+}

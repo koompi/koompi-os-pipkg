@@ -1,0 +1,25 @@
+{
+  "FILENAME": "volatility-2.6.1-2-any.pkg.tar.zst",
+  "NAME": "volatility",
+  "BASE": "volatility",
+  "VERSION": "2.6.1-2",
+  "DESC": "Advanced memory forensics framework",
+  "CSIZE": "3406660",
+  "ISIZE": "66166056",
+  "MD5SUM": "bfa0ed835b5bd2dc3175aa439bcf9fe7",
+  "SHA256SUM": "8a9a3402aee8dd4456194e92dea958fb9172de8ac0ba6984fbbfb185c831d2be",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl8EuK0ACgkQeGxj8zDXy5LYMRAApmuenuuZhgfdLvS/99+4imwaaqNoQat2oOrIbL3VtfOVBJCmNL/pinGUL3L11CLn+vzedzQ9RFtkpaLrr9AuegcGYVf+9F/R3evHIYFcU3aZceX6z3TZ8a+UETkwPR8v0kcOkrn0V/APXkLiGdqS4tArpHeBMLWC+zYcvjWmBlKlDEulhl/Brkqlavdm+JRjMn7VuMxMCvnniLN/GI3xol0Ln1BLEOXN3AMEzrMyXH0bPUJTSs+ReADWrU6uZedaOEy1aa7qnHSYIrNiEdY4pMDVRk1ksCd1Qj+olrkSwUIq5XHEFN7q3aVo/yGw4cvWxZQkV14GW+aA41+zrxEkO50WiO/KWxdQN0pAZOsAsFZgVKGfivRwRiOUjWE2e9K/QQMbDPjho6DD26OgT+hugWNYnmmPcuyxVeDCOTxJVuv4Rgcu82jUAcMyXN789+xqkvhSDmtoOgvJfhw/kAfgXNFprUT+k8lPfMrNoSigVMrLzvVfdOQfAICOwRchm0fPno5UtRkjEsTzma8C3ZyDbSmR/Y7RzCvk3nnwV64K1bccliI6ZU8giFGWcOwY0Q8qzT53tCwLclL6EkD8SKrELXDipxoBiNT3c+a+Q0ZJzC7YoNHhPKYx4nvK9Ucl5J+8YMXsa+3t8qzukTOR5NDgKxDLMJQyNDcuthR0D3nGyuo=",
+  "URL": "https://github.com/volatilityfoundation/volatility/wiki",
+  "LICENSE": "GPL2",
+  "ARCH": "any",
+  "BUILDDATE": "1594144878",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "python2-distorm",
+    "python2-crypto",
+    "python2-ujson"
+  ]
+}

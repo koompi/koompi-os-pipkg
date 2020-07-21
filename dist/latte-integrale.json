@@ -1,0 +1,26 @@
+{
+  "FILENAME": "latte-integrale-1.7.5-5-x86_64.pkg.tar.zst",
+  "NAME": "latte-integrale",
+  "BASE": "latte-integrale",
+  "VERSION": "1.7.5-5",
+  "DESC": "Computer software dedicated to the problems of counting lattice points and integration inside convex polytopes",
+  "CSIZE": "8048265",
+  "ISIZE": "34105127",
+  "MD5SUM": "be1d12e74fdf2e353626f261b192ddda",
+  "SHA256SUM": "efb3d7fc3e5352729eb7ec9b3b041c0252126d06fed577505225b0dd4dfce462",
+  "PGPSIG": "iQEzBAABCAAdFiEEFRnVq6Zb9vwrc8dWek52CV2KUuQFAl4M7/4ACgkQek52CV2KUuS2cQf/dUESbtJxMSLvMMsch/C70R5P4Y62QGwwYHa9SN6ULbjsNAfIr22kl6qkxe4JOLS176savTCanXw1+LUI0Zvu+INQE2/ryEmGjuN0G8CS/NDTqw6r2N2jXY/aicvissqMtFULNnRgsvYpeunRnjfIUif9kepq15koHWBLTPh0yiFG7ULlWMFPbgu7cWL7ON1d1+AXICzHdl0JopaReDmyoexX9+VrsDqDjmeuuEFXigNpTHmE9Hx6zN5UxYePEBCrZmZbOSR5i9ouTeF/B1MnpYpIGl9Fkaawka+ZUb3EY8jh8naWu7juvGO9cAJ01NOrTdkFffVIlg63HxpQ89B23Q==",
+  "URL": "https://www.math.ucdavis.edu/~latte/",
+  "LICENSE": "GPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1577906067",
+  "PACKAGER": "Antonio Rojas <arojas@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "4ti2",
+    "ntl",
+    "cddlib",
+    "lidia"
+  ]
+}

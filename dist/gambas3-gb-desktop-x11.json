@@ -1,0 +1,24 @@
+{
+  "FILENAME": "gambas3-gb-desktop-x11-3.15.0-1-x86_64.pkg.tar.zst",
+  "NAME": "gambas3-gb-desktop-x11",
+  "BASE": "gambas3",
+  "VERSION": "3.15.0-1",
+  "DESC": "X-Window library support component",
+  "CSIZE": "36213",
+  "ISIZE": "80287",
+  "MD5SUM": "5879c8afffd6dea2744efb6d8ef6ef47",
+  "SHA256SUM": "8317d371685dd56e67c3c53190d9f3f86e1566301aabebdfc5f48577e6256c44",
+  "PGPSIG": "iQEzBAABCAAdFiEEU1+MAzlFDwVKTSgnBglqatHO3awFAl8C7RUACgkQBglqatHO3ax6Zwf+IM8YgQ3mq9QUB8mejxCsvMz8D4r0xSWLCsfKFpEon4WhrB5ISOzwqkB6OaUZKzcTn9lfctwSKGOXE83vYXov4ZwLvbYrIXYs7OhmTZ9PVws8vImJc0BxooEHjUJ3Wo/xkEEqzUpCUGwAXq32FEc9r8Ow4kbz7SLkEueG/C+MG5i8rZCK9425DBkKIg1kHi3NCEAY5zECbiRzwN+IQipsGVo3Y37Proyf7W1uuPrRAEfdH8335Enm7ni/KIH4uOjp1pzSA0CsPC2U5J90NkWcQd064+jyL13Y7TQ47RvoxNIOSEHi3nnmu5zlqJK79HME4UKOw7LgUxPbydaNYN+IHA==",
+  "URL": "http://gambas.sourceforge.net/",
+  "LICENSE": "GPL2",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1594026389",
+  "PACKAGER": "Laurent Carlier <lordheavym@gmail.com>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "libsm",
+    "libxtst"
+  ]
+}

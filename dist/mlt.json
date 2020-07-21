@@ -1,0 +1,23 @@
+{
+  "FILENAME": "mlt-6.20.0-3-x86_64.pkg.tar.zst",
+  "NAME": "mlt",
+  "BASE": "mlt",
+  "VERSION": "6.20.0-3",
+  "DESC": "An open source multimedia framework",
+  "CSIZE": "873250",
+  "ISIZE": "3105420",
+  "MD5SUM": "96b92b297dae6d20decac276a30c5d87",
+  "SHA256SUM": "a1a38f5cd182955ba9ba55e86597d8f353cdd97119a1dc5657fbe8e4905080bb",
+  "PGPSIG": "iQEzBAABCAAdFiEEFRnVq6Zb9vwrc8dWek52CV2KUuQFAl6IcecACgkQek52CV2KUuTNvwf/adl3v3OUv6Licvo5uN5shLCATw92Ryk4rQBz7HaqrUdoGN3VOg1hX9exaRlYcDDLGssJmNeXrtFPexGpGFMZFAtyl9OVxVeECCpUK8ZwN60luGqQaAayYE2jO49uzDuyC58MzcGHeVSA6xvnOc6yHWsR3nmLZJrVF5g4qyx4N6mAhsOUKBDLtCy+nDhsk+9ZN2/OPIwRK5EQaburIOdwYPcnSuQtg5Hxi2hMVuq8zbVBefn3ROiog15SQG58s0HjxNNzMGLr6YwBJiCb/tqoFuaaWqGFx46GiSIntS/S1adQCU1O8fWeYRPMjhVSMD0Ht1nZEqOCjoJfR0QHyRjSeQ==",
+  "URL": "https://www.mltframework.org",
+  "LICENSE": "GPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1585999949",
+  "PACKAGER": "Antonio Rojas <arojas@archlinux.org>",
+  "PROVIDES": [
+    "python-mlt"
+  ],
+  "DEPENDS": [
+    "libebur128"
+  ]
+}

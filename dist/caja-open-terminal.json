@@ -1,0 +1,24 @@
+{
+  "FILENAME": "caja-open-terminal-1.24.0-1-x86_64.pkg.tar.zst",
+  "NAME": "caja-open-terminal",
+  "BASE": "caja-extensions",
+  "VERSION": "1.24.0-1",
+  "DESC": "A Caja extension for opening terminals in arbitrary local paths",
+  "CSIZE": "13804",
+  "ISIZE": "32262",
+  "MD5SUM": "393cc3e006a30462fb209427616f46b6",
+  "SHA256SUM": "067b306a9aaa87294c79be44d84d9615d7b4de78735709c36aacd96cd9583533",
+  "PGPSIG": "iQEzBAABCAAdFiEEzFln1AlbTztC1F+ggaQC1POCu70FAl5Vf3oACgkQgaQC1POCu71FVggAryCh8kEnLKEMO3875Pftlo45GarkcRimHf9e2DqqR/uLf/+ZmSBXsZCMan+II0SLUcToDrOuGTmsYFjnpaYc13ieGW5fGmv/fKXjdaamOLfXtVsvnIjp9iP5TEgR5fJEm+FWJXHRYMdonDFt7n2zq4POKe0yI12xHpGRRYfWu6MJp1TLCO4KdnjJsN/sYLPq9W8mU3hV7xuMh8ipyLpSER22g5gPbKbLE7Kruzk+4Z4uHPoyRbsjgo9u3Rg4ZHyFjjBWKwB3zQgCGX/+xzH72n1mF6ztf0C+uyOAusx4SuZCi3ilqyCAv7nZ9U3/vde5k0/sDUIHL4DdbtbJ7wWDwA==",
+  "URL": "https://mate-desktop.org",
+  "LICENSE": "GPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1582661427",
+  "PACKAGER": "Brad Fanella <cesura@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "caja",
+    "caja-extensions-common"
+  ]
+}

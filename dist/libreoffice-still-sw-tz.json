@@ -1,0 +1,23 @@
+{
+  "FILENAME": "libreoffice-still-sw-tz-6.3.6-1-any.pkg.tar.zst",
+  "NAME": "libreoffice-still-sw-tz",
+  "BASE": "libreoffice-still-i18n",
+  "VERSION": "6.3.6-1",
+  "DESC": "Swahili (Tanzania) language pack for LibreOffice still",
+  "CSIZE": "262967",
+  "ISIZE": "1486561",
+  "MD5SUM": "34c73250afc23a1f0e6e358ff4a40c02",
+  "SHA256SUM": "5e6a5a2ae5244e7d6a2f62431a6049930a4bab3a3d24995215ce8f9f54ba2b58",
+  "PGPSIG": "iQEzBAABCAAdFiEErcih/MFeAdRTEEGelGV6sg8qCSsFAl6tSvYACgkQlGV6sg8qCSuoiQgAswixD0a1o+VDOrDO/rVi5WrHoRa2LHx3x6W9rZwtr1gQIneq5khjkmO0I2c2UyOHKhNVSOo6SdI22QPK2iguCuzdefL8GQR95iIv5/zjqqTE025zI++AHzN8lK/sI2E23BzzRWBPb81w4f5PAQlCz0bFIUU+rCphhIq/eD0WBZLQbHLMIaT83qdZrV1s6ELFHLIsTigTjGWMvgcNpamwtSqGoaCrbNXTN6OO1v4b2FB+nbCCtPXe1QEDJTEJO+kC7XY3YQbBhrsJM1Ncf5DwrftbopZRWwRCLARsb9hVhUx2i+cUHkiTYQfh8G85vvdBUnSDEYeQJ4BpFKKN2AXKFA==",
+  "URL": "https://www.documentfoundation.org",
+  "LICENSE": "LGPL",
+  "ARCH": "any",
+  "BUILDDATE": "1588407321",
+  "PACKAGER": "Andreas Radke <andyrtr@archlinux.org>",
+  "PROVIDES": [
+    "libreoffice-sw-TZ"
+  ],
+  "DEPENDS": [
+    "libreoffice-still"
+  ]
+}

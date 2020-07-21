@@ -1,0 +1,26 @@
+{
+  "FILENAME": "libappimage-1.0.2-3-x86_64.pkg.tar.zst",
+  "NAME": "libappimage",
+  "BASE": "libappimage",
+  "VERSION": "1.0.2-3",
+  "DESC": "Reference implementation of the AppImage specification",
+  "CSIZE": "163058",
+  "ISIZE": "515379",
+  "MD5SUM": "cee90e7f0292ff5183fa2596d0c1eb4c",
+  "SHA256SUM": "7965db048fa2bc2314f76731b4850a2a1760ef08669080cd2917716d522d4bc5",
+  "PGPSIG": "iQEzBAABCAAdFiEEhs/8qRjPOvRxR1iAUeixSKmZnDQFAl4vqpkACgkQUeixSKmZnDQkFgf/aTzuw1o/aJOKRl76lr0S+hBcewhT9xurSsvy9R51koUa7/Y70KfAOMtsx2kUPspOhSfmyqF/kdoVct/uYSGjlrdPum0QY1+t/ehGUJDPMbyUodOGinrNpqpcLOE12IQqdWGyarfvJj5jT9+H8POm/LxhCTrJZ+M4NJVnaxp5WiLQW8tf0fQ9LdCz3bSNAy2/3iBnlvq1cJVhi0Ft1AQ2wGuc5OqorxJnDFYtOvpp1Bajsp8jRTV4xvlESciGCvcZjorzN7yM/csIKb8xkICpQsyPc/D+cjTbhwaKtQJNItzviTXYup/YoqKlUFkEzNDwwWeqmkf6WnLiQ5ektlaaFA==",
+  "URL": "https://appimage.org/",
+  "LICENSE": "GPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1580182120",
+  "PACKAGER": "Evangelos Foutras <evangelos@foutrelis.com>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "libarchive",
+    "squashfuse",
+    "boost-libs",
+    "librsvg"
+  ]
+}

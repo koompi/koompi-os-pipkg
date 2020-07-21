@@ -1,0 +1,33 @@
+{
+  "FILENAME": "haskell-authenticate-oauth-1.6.0.1-118-x86_64.pkg.tar.zst",
+  "NAME": "haskell-authenticate-oauth",
+  "BASE": "haskell-authenticate-oauth",
+  "VERSION": "1.6.0.1-118",
+  "DESC": "Library to authenticate with OAuth for Haskell web applications.",
+  "CSIZE": "116065",
+  "ISIZE": "625581",
+  "MD5SUM": "aa836246f00fea14d6849f76b891867f",
+  "SHA256SUM": "9b2c7bbc06bbb21dcf4d27261e7a2fb0a71c2a5eed2480eeb1512c7294e88a77",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl751MQACgkQeGxj8zDXy5LlGw/+JSzRo85D76adrCPQXJ8DXN+4ewklFo88FgmNv295a91kOT3Qp2TUXdGZ6jzklmD04/pz5yBe7rlTnIMWCtg01P/nkeh6fRNyeGsuYW0H7UDcu659pU+gBgFOi1c9qCr4nP4I386UvBV3PFLwKP7d3ATHkGGwSAseUP9weSLLwg1XL2chb+8G9scTn4ANRkIMUZFTZOmyaunN/iWdYhZWdHFWmpQdsbAdeB6TU9dKUxYpomJqdiBH2UjWqBgdwTZ4/VUVYrixSFPaPvTAT3/ya5hF1IwMQxcB6o0YnqrDwcmrU3k5UdPJF7W6swPHeMEuzwKN8FRRLWpJEaHrXA1WZ5UNVMVPyzUL/1Kh8fFHix9sG9k5w7LxzbsWy0Z+aupQ7e3FyIsUoBg4A4cTM1xv4Z1FJfY4FyJ7vxyAFh2Wm1hx9qGC1blKfOaTQ4iasNV9r6snjafHJgGfEQUiUBKln/8iwtNe4WFxFMKDeXdbl75l+UdPSSx81McIfy7mfwrL2Hg0j8WMDNbkWPiLaUxWit9Dh1d6LvGUp9iTj7nQGMje+/lQBjJYxVXodCOO0vz8lK8Reh1LlKyhy9rKhc61874OD7cn5IZ4nrU8+Pc0nRWfVrHr8P+t+0zaGbIHd12DWvpc/vv5zpnzN+gO3cW8kB9uP7b7hYA1I1RJ86EJIXY=",
+  "URL": "https://github.com/yesodweb/authenticate",
+  "LICENSE": "BSD",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1593431206",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "ghc-libs",
+    "haskell-http-client",
+    "haskell-crypto-pubkey-types",
+    "haskell-rsa",
+    "haskell-data-default",
+    "haskell-base64-bytestring",
+    "haskell-sha",
+    "haskell-random",
+    "haskell-http-types",
+    "haskell-blaze-builder",
+    "haskell-transformers-compat"
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "FILENAME": "sed-4.8-1-x86_64.pkg.tar.zst",
+  "NAME": "sed",
+  "BASE": "sed",
+  "VERSION": "4.8-1",
+  "DESC": "GNU stream editor",
+  "CSIZE": "243634",
+  "ISIZE": "753464",
+  "MD5SUM": "d99c330da26457808bfdfb8c8dc02de5",
+  "SHA256SUM": "498ead5a5f6d41790d1e40e490bf4b1841af615bace81a5b643ae550f9342a2c",
+  "PGPSIG": "iQIrBAABCgAdFiEEVyJOyaX8pvvJK7iqShr8NF6+GPgFAl4fD/UACgkQShr8NF6+GPjF2A+7BLbnqK2x465tyNK867NT8qGSJNBRICd6nFrEMR6YnVdH9RHAAKP589NLTlk2KyviNSJUE3j071OYQ0/2jRvVPim++uJnPVwTBZHqZPnLmX0iSa6XB9Sl0kc0gpbhsnW4nrCP56b7mYlgYeVNg8ePVyVo5p2ZtKvon3o6Fkq3E7jXcniyz1HHWnhMnw7BNFePk8+ZrcigjXIBtuslsF5oILAYSYpFQNwKt6F3jr9fbnQ/5zMUZROsBmW0XG8rqV/0WzeT3uligvuB/g1rhEw8chXdcXsE6AMc487JxXQAXMdHo3nfd1RK6wmt2sCdCJhv1QCB3lCEADhB2cMTYYkQX+/c+ZHOaEUAnOP1ttJq87xuDR6SW2WJxvjbfHVTZZLxxglQzlTKe4eCZ0xHPrb0QAA/RoFzHhgM1hbAhzwcREL6nr8YU5UMMCRI5UEPNu3MLdF2p/XDE3CZCPYq47Tp3AuejMMHmo5qAQiWbP49fMQksIHmA6GtFXZH9vLJJyGPEmOvrqS7XvNq65aadnHM8wX+aAYYvm+cZP6qURum4d8GGpX9f9L0zGWKXuMRaSK/+b77pv/H7rwtzmwag4LBlssQHVRSLjjP2J0VfrSw6L4m1Y+wyTjFVXXRrCzUnjR0/xFuudQyKB0jso7/ZiC2lfXvMGinUCzC",
+  "URL": "https://www.gnu.org/software/sed/",
+  "LICENSE": "GPL3",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1579093679",
+  "PACKAGER": "Sébastien Luttringer <seblu@seblu.net>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "glibc",
+    "acl",
+    "attr"
+  ]
+}

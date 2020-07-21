@@ -1,0 +1,26 @@
+{
+  "FILENAME": "python-ipykernel-5.3.0-1-any.pkg.tar.zst",
+  "NAME": "python-ipykernel",
+  "BASE": "python-ipykernel",
+  "VERSION": "5.3.0-1",
+  "DESC": "The ipython kernel for Jupyter",
+  "CSIZE": "191009",
+  "ISIZE": "919992",
+  "MD5SUM": "3b0e3647bba86e3cc3756e4e5d143b94",
+  "SHA256SUM": "1312758dc5f09d1175db139dbaaebacffdbfb04ba330ffdff35c7fbbd3f6fad6",
+  "PGPSIG": "iQEzBAABCAAdFiEESMOx8w3dD+Z+UW0WOW4+JbqxQsEFAl7LQvUACgkQOW4+JbqxQsEYHQf+PA9GehEKAsbd79SPMVBgtXXA3vit2+wiyBAC5UJft0suIc+kzQfsoKRMzjKEbdFuud7Pa6Q9NNRzY6nLXCSqZcYI4ZbrvIHTCMtw8Mz1AFbxGqvGhmVIFxdgsrHbsKqFfU0o22+4Mn6p+x29nXm6Tk6+GW+Icz8z6HqRwSEB/MIGDybf/rVYgED5P21BQB8oODUxDeiI5tCSZgQmrAhWr4WYAaCk3ac/kK1sTolBSxooTXt4F2b3EKz0BthE7/XT4xryvXwyBTLcNMto9zwAJ8CVYyuFr0+j/Ce6eftKUlw6cO5ez+PkEE6cZ5BS4mQHSspEzU0iT2X19GxVYkOf7Q==",
+  "URL": "https://pypi.org/project/ipykernel/",
+  "LICENSE": "BSD",
+  "ARCH": "any",
+  "BUILDDATE": "1590381344",
+  "PACKAGER": "Kyle Keen <keenerd@gmail.com>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "python-traitlets",
+    "python-tornado",
+    "ipython",
+    "python-jupyter_client"
+  ]
+}

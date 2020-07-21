@@ -1,0 +1,30 @@
+{
+  "FILENAME": "python-oslo-utils-4.2.2-1-any.pkg.tar.zst",
+  "NAME": "python-oslo-utils",
+  "BASE": "python-oslo-utils",
+  "VERSION": "4.2.2-1",
+  "DESC": "Oslo Utility library",
+  "CSIZE": "140894",
+  "ISIZE": "889354",
+  "MD5SUM": "25dbfff5ac5a9111d49bcd6eb000b22e",
+  "SHA256SUM": "9d2ce3ce615fbae96c1168edcf0db034622b85fc66dce464de7fdce237042cec",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl76NKoACgkQeGxj8zDXy5JVgw//ffxVR1A3CQtz4kouMGZobG/w9j54Yqgnrm36kQpykWFzNFmbytuPKWtB5NA//5qJtGGCtoHU8qli2XdYK7idLNSWSjewCrQuUNT9nSIiQuROat0l5VGEZZOZP4j7h6kxuDaikQmyZOCzUqdZftgFK0k/DwNR1g4k64Q8oLIYpoyGU0H0SI6yxBz1r4g915f5S3Md6oJplvhcpRyUcacGBniGh5TrXvXE2/oVqNzv0kWEogFhqcev/1A9+Vs7oN2PNoWLXxKUK7xM3VnidY/ASnWi7TUb8qsX7mJcCV0x6PKn0qij0fwkgTzKJF44FPWq3jCaEgK1zSoc3hJcnD5BdXKA9fsd6S3XesfjYOmP/WrKG2sBtZAAo2gVIUZV42Pd1OpsI4IDq3AhaGCpbVj2sePUlFdPgUsK7YEhJaJNaTC8hS/a9hP/PNPEsh/1iaedj3H0EjASZnlv6VgJ1t8t3HRHMVY6BLuhb/WoT7td2lRHV8EyDzBX0kGn565Gb40pJR8+6uFkK9NsJNPatXPEgWVSIRDvLrympYn4R0W3bJGqIevgvgn6zmSHSU0q6rNZx2Vrct2CgbV1mlRKPJyXDNnwv2T8G2+uI8Lejax7E1kvZOLyZDb3K+JHJ9BPuXMLyPk/1vfZnLTjjWknsG87xYO9VEw3ITaSa+3PNWKY6X8=",
+  "URL": "https://pypi.python.org/pypi/oslo.utils/4.2.2",
+  "LICENSE": "Apache",
+  "ARCH": "any",
+  "BUILDDATE": "1593455658",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "python-six",
+    "python-pbr",
+    "python-iso8601",
+    "python-oslo-i18n",
+    "python-pytz",
+    "python-netaddr",
+    "python-netifaces",
+    "python-debtcollector"
+  ]
+}

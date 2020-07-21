@@ -1,0 +1,23 @@
+{
+  "FILENAME": "deepin-anything-arch-5.0.1-91-x86_64.pkg.tar.zst",
+  "NAME": "deepin-anything-arch",
+  "BASE": "deepin-anything-arch",
+  "VERSION": "5.0.1-91",
+  "DESC": "Deepin Anything file search tool, kernel module for Arch kernel",
+  "CSIZE": "12377",
+  "ISIZE": "9928",
+  "MD5SUM": "f7c8e9bf056cdcf63b0aeca5c7ee1e61",
+  "SHA256SUM": "033a39f8a682cbc03e1b5da9c34883bd1bc7e44f3ebda5ddbc931bd24a62c50a",
+  "PGPSIG": "iIsEABYIADMWIQQGaHodnU+rCLUP2Ss7lKgOUKR3xwUCXvzLWxUcaGVmdGlnQGFyY2hsaW51eC5vcmcACgkQO5SoDlCkd8eWlwD/WiBNyZp0+Et4pBTURS/Y5rQdH6EILOVCFkYJlliv5zMBAJLGZG4wMkdjJTKJX+xZ9KYyw2h27tUqG8CA3jeY7RsI",
+  "URL": "https://github.com/linuxdeepin/deepin-anything",
+  "LICENSE": "GPL3",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1593618069",
+  "PACKAGER": "Jan Alexander Steffens (heftig) <heftig@archlinux.org>",
+  "PROVIDES": [
+    "DEEPIN-ANYTHING-MODULE"
+  ],
+  "DEPENDS": [
+    "linux"
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "FILENAME": "libpipewire02-0.2.7-1-x86_64.pkg.tar.zst",
+  "NAME": "libpipewire02",
+  "BASE": "libpipewire02",
+  "VERSION": "0.2.7-1",
+  "DESC": "User space API to deal with multimedia pipelines (0.2)",
+  "CSIZE": "342665",
+  "ISIZE": "1606000",
+  "MD5SUM": "65bd75a9f318e4fdfd7ea38729605ede",
+  "SHA256SUM": "f45ded34515dc6e26c681c1dec78c5039061b1bcb1a318941cd3279869aabe25",
+  "PGPSIG": "iQEzBAABCAAdFiEEghj4iEmqxSLpTPRwpekojE+kFfoFAl5kWEIACgkQpekojE+kFfqViQf+PDFurQE6vl3XcLH+z0Ze/sbVmfySIAMXKgmUeuM3rdl4qdbyGl/dai3gqtWUAFMgvUm+Uo4cOSBbPkWzbCeKRVXjgQWWxUy+ChWGXWG2x9HAUVDYpp1IKTnGX+kENKqoF+NxWZOHE5r8bKNPcZPNgT8rNzH2qMSeZUHANzE9hTRoaJZx/i4BfPvnoWPeVRzsoIGTBfMpOLAKLHOVS0znft8eciGQDQ1DVGW/CwH9jqFK74mJZFL6btnDOheZiDsjstqiXZE7+BwbZd1jWJoaTCI8Jdu3yejXkqJRe278fX7DqdKRvI/0PKUFlVoAt95t5inSMcDdkv9gySye+AMPFg==",
+  "URL": "https://pipewire.org",
+  "LICENSE": "LGPL2.1",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1583634317",
+  "PACKAGER": "Jan Alexander Steffens (heftig) <jan.steffens@gmail.com>",
+  "PROVIDES": [
+    "libpipewire-0.2.so=1-64"
+  ],
+  "DEPENDS": [
+    "alsa-lib",
+    "dbus"
+  ]
+}

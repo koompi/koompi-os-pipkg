@@ -1,0 +1,23 @@
+{
+  "FILENAME": "perl-dbd-sqlite2-0.38-4-x86_64.pkg.tar.zst",
+  "NAME": "perl-dbd-sqlite2",
+  "BASE": "perl-dbd-sqlite2",
+  "VERSION": "0.38-4",
+  "DESC": "Perl/CPAN Module DBD::SQLite2",
+  "CSIZE": "188540",
+  "ISIZE": "435325",
+  "MD5SUM": "83df035de5907a9eddaa7c556923a43d",
+  "SHA256SUM": "225291c836a52d81a692d2f234d2fa0d72775fc8538957fa0f7d233378d7b97e",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl7viVcACgkQeGxj8zDXy5IKLBAAlQBbXuNsN+C38waBZj36eKKRT7qA+GOuWooMa0bVyxjlhJxRCp3My/L/qhECSaPN1OCrFOd2pY4Zb/vzFrexDSHMeCF0oq/5DoUROAM3ms3Vi/GJH5qCqWaox4oUcUPjpLUFlt4JHFhE7lkyqBrS4K3Yo6apdZCoM6mHhuebQAitCmS1qbYDC373Ke+FzUd1Un3VgsEzSM9plw4CrQ3QsgIcAqh/JZ8iXySSF862t2B/HNr1oZ73AJfg6b4z3Nt3tqXAv1P9Vnrpb+jF8oHdD0MlSXLLZl37RW/aH56DSMfxfD/50Oh3218Iius53t7ikmN6+kLOpz9E5J7+hUHJTCbTKcWmpyT+ZlNlBFepJJGaRP+rywDEtQFV4xXBnjLgqeZpTM6XF4wxt6OKKE3LVxLkYN48imhSUvDg/Y7d5SG5WyKpXAZ+AKAa238nf8W6gkCGRU45AUqQR7cELZEWNZH0nWN09hUfSdb5DXDT/KwBIy8kCXwkmdKTaCuxxsO14qK/usNncbg6UnQJWe3nj9sQAOxaN1UNHS98wcCOa6aEcOvXV+vTGxujzombwLquWcPhlyOc5wiyhMrV8GcQLPu9MNk5RdxI0JLgLHsRWCCmd75cB7Xja5BMbwxL7xaNKba+KTKu58p+jhUgaw0OL6fWXrwRBSnTqYdgbml85es=",
+  "URL": "https://search.cpan.org/dist/DBD-SQLite2",
+  "LICENSE": "GPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1592756546",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "perl-dbi"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "FILENAME": "dex-0.8.0-3-any.pkg.tar.zst",
+  "NAME": "dex",
+  "BASE": "dex",
+  "VERSION": "0.8.0-3",
+  "DESC": "Program to generate and execute DesktopEntry files of type Application",
+  "CSIZE": "10968",
+  "ISIZE": "28262",
+  "MD5SUM": "18060162d151f58049a135dd8aa2fe46",
+  "SHA256SUM": "3343499c51b259081c93ef85f3c1dc48e3327b4b1dd41694153a16eb09ae0b2e",
+  "PGPSIG": "iQIzBAABCAAdFiEEM+u4qOHFZTZFsSMqRaZQ4mOMU20FAl6xtggACgkQRaZQ4mOMU20FBhAAmkakpp68xzvuRE0t7LVqcxUm515X2ld56GbG/phWQdmlQbNKDvi706wbzgJO/4Qu2T0dbXT0I5hZAK0wE05be6i/UhNyWf53rZeBRzUwxH73VT7BgGJhyhEiFXpEZaZ+64+dweT+5BKiz7dGu+Vn3eTYDWbPcB6AR+zv6HagXcsMFdxAgSB9vVecKsPb2PmrrtvNDvjzdDBZZk8ETpKPMN8IThqs0k9MJZxyd4vZNqZw53vtY9ukaUxUgBUtcBj8SLqXeX6ZCLxvCX2bUjv+ZDNYs6IUR4qVmiT/2XN/AsASLN62/wQRwbEIM2omQVOF/rVnEXcCXomj+gMhTvg3MmSaUM8KqwHOXvk0jTsOelqdshAQhk8yXbFwrUzNNbz8k2BqbnHGCChIhaC08gG7n0/ALjZUkPNOHFWsbRtQFmnxHoVGqmZ0ZWkAtkKFryve+UUcv4IIBHViHIos/cWLKlPFalB23uTTHgRVu/oT8JqVGUpGlMB07z0GfY4u0CeELCmDQKVyS+9B/9z4VMUkjNGz7rMMVFPdFI1NbWUd9fQ1IO9EQACgIb1cxktV+LHbIwim0gRsdwFKAFwCDG4QK80VjH8jvF9NSi4SrLTj3HIOaOOzdzetoKn9SPipqbe8QXr2kwEsC/qigQVVFCCYEPpT0ZTtuimzpiAoSzBt+/w=",
+  "URL": "https://github.com/jceb/dex",
+  "LICENSE": "GPL2",
+  "ARCH": "any",
+  "BUILDDATE": "1588704742",
+  "PACKAGER": "kpcyrd <kpcyrd@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "python"
+  ]
+}

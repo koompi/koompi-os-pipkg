@@ -1,0 +1,23 @@
+{
+  "FILENAME": "python-pyroute2-0.5.12-1-any.pkg.tar.zst",
+  "NAME": "python-pyroute2",
+  "BASE": "python-pyroute2",
+  "VERSION": "0.5.12-1",
+  "DESC": "A pure Python netlink and Linux network configuration library",
+  "CSIZE": "591884",
+  "ISIZE": "3443930",
+  "MD5SUM": "00db32eb66a152b9a5f30331391ec6ec",
+  "SHA256SUM": "68452daf2b42699d2d2567b1fc3fb049d9dd0d31a7387833aebe4d87fd6425b6",
+  "PGPSIG": "iQIzBAABCgAdFiEEBR6tamFVOJ1p2gLl63Y7Tp24h6YFAl6gMN4ACgkQ63Y7Tp24h6Z/ORAAoL3Uanfod6msclzmFqCbiqk4tD48Coel2SYK0vxrmCkTBDAjmtk9P/zKfyjYljhq05iWqwO2PMUXW0sFVy2CJEEfWYf35QF83fSDnD+pfFRdsN1nvPVcgG2ZAE1T5LhdjK0qOPY5fozY0MV1EykbhM8jzgzhmUXCXEb4zlizJBeQ9x9jmmWpTEDv9kgyqyIpGnudRqVYHPpU78upNJMC3Od+fMs56MdhR0mHKmJL/S0+WooROo/f2U7qkuCGJpPHR7nU2MtDhbN8x+6uLJVnxGDyfJbUfeQrcX+kbEbRlbAHBBg8T/ooZLpr6ESK/jyntruevIKSCEc5Tbblef4KkGJaaGrnROI/SC7xxvPbeE+oexVBLiRQ8v/uHlpnlSqVsuakk75GGL+pUj1RH/1WJV9tNZlD8OQt5jJ4HMdwjO4FXLGwqnO5pgJjB1XwGbDqkPdwFOTtP100Zkf80oGW6+HW7zCHB29oM2bjWA0UzFG3BJs9lgdgP1D6q0G6Jrm6oHmjvawsCKfhWtR35REQmRTbRIApTXLIY9nsnUp3Hhzjs62kRbEAlaqBnLofD8hyAs44EVKYelOEls34AreXoTCvNCKLNcKcuIKCU+Hnr/MhSYBtKBG+ahW5A8yIMMCQk53EIELFtuOhSfvRAsen4Momjy91l/CA18rsJrrnWy8=",
+  "URL": "https://docs.pyroute2.org/",
+  "LICENSE": "GPL2",
+  "ARCH": "any",
+  "BUILDDATE": "1587556520",
+  "PACKAGER": "Thore Bödecker <foxxx0@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "python"
+  ]
+}

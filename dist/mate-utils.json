@@ -1,0 +1,27 @@
+{
+  "FILENAME": "mate-utils-1.24.0-1-x86_64.pkg.tar.zst",
+  "NAME": "mate-utils",
+  "BASE": "mate-utils",
+  "VERSION": "1.24.0-1",
+  "DESC": "Common MATE utilities for viewing disk usage, logs and fonts, taking screenshots, managing dictionaries and searching files",
+  "CSIZE": "6925560",
+  "ISIZE": "25529298",
+  "MD5SUM": "5f8b8a4798b6b1f477e12b971c6f2c01",
+  "SHA256SUM": "353319d8dd9c356c942065180428d1af1af5cb3f648f47afa1602231178179d4",
+  "PGPSIG": "iQEzBAABCAAdFiEEzFln1AlbTztC1F+ggaQC1POCu70FAl5VoWsACgkQgaQC1POCu72aIgf+J3bP1oMkRQWTSoHfMsGzi2icPrrJwE2wfUQAq3Nhx47HEy5BaxJk/J0Td6Bu0kLFtVtLZfvVTyJoL2izwqH25tAnn+PDeb80yBRyw6dhuTer66VWjgKEdPPlGCwBpgIzusjZYeL7fCCixPYOZ5weIY4wS6G8g3tGEWfmOedZ+QNzsrfGF8Pa/OHLdWVfan1p7OFXkP4AvzDc011rSDeFA1ikpwHF1m2MpZ364F8W8hx/QRpNhZ7P0vOo7QhblpqpwRSZpeGSn/Es7kXvSpnjv1LXkkMdSgf0DaaCPuFE27lD8VcT29uUGZYgjJEBT4/wrmt4Cijn1QYRNZbNYfBkGw==",
+  "URL": "http://mate-desktop.org",
+  "LICENSE": "GPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1582669850",
+  "PACKAGER": "Brad Fanella <cesura@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "mate-desktop",
+    "gettext",
+    "libcanberra",
+    "libgtop",
+    "libsm"
+  ]
+}

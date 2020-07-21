@@ -1,0 +1,23 @@
+{
+  "FILENAME": "sh2-elf-binutils-2.34-1-x86_64.pkg.tar.zst",
+  "NAME": "sh2-elf-binutils",
+  "BASE": "sh2-elf-binutils",
+  "VERSION": "2.34-1",
+  "DESC": "A set of programs to assemble and manipulate binary and object files for the SuperH SH 2 (bare-metal) target",
+  "CSIZE": "1945925",
+  "ISIZE": "16418405",
+  "MD5SUM": "190ad63bd1989e20064222d1d519a502",
+  "SHA256SUM": "bef13fdbee4ef9c6dac25cbc19c890549e4aee1832673dfbc035c374519974b0",
+  "PGPSIG": "iQIzBAABCAAdFiEE0jW0leqs33gyftiw+JPGdIFqqV0FAl5/mGEACgkQ+JPGdIFqqV0lvxAAqMbINP3Zc1VW2yeWx6+xWVCG8wJTIkXODag32q6jEYegJFAcq9GLc3M50cLyfpJc30hjrl8xBfCiYMNF7b3zqGJjBNdHFtAq3e4LMDcUAz4rhmhfjv8YoDbiZtwHG7Mkc+OvguOZcnRKKWbLsvOAxyZybxWz13k/D74zwIlXu1PLT1nduE3mCMfuk7Kku1plBOmdjdJ6kDdBQEZA1sdOBiNs13CTclHm695L6V9H7/nRCaUpLNyGafS5mxq6UR7sune1NWO/ieYokEuKHc92dqkD/yxk6WbV62fKnXk9YLzdMmxuMJ0H7fWrlHpZIZvpCzQFs1a7qlGO06tqax5iTil/RIewtCVlujn+EptWF/OcHJM87rZmfBlsj24xhARMArnin6D9ShFeedqo5dqmF1qwfl+4eB/QvVMGOrHeajKm9H4KY41sfymERfNEUhA1WW2I33TNr0N4GHv0+1iSuc7PKIY+SdbWY2nkJZAYnzDsE4zhqltZypq8t2wLe8saReSbx17W4PRG7koXEyOwDmCbc9rlHV2I6ccA8HARkj6OAk40+xwy2fPkYkGiS+vPTsIEp8qQTi9bslN4cGrWMzsSDh23e+tMgReY4TIbcK3ZZKuD3TyskYr4L/KVFo+/l0lDD6WtLteQRTO4LLQx9bOc1KJrC0QLZp0SEvKouvI=",
+  "URL": "https://www.gnu.org/software/binutils/",
+  "LICENSE": "GPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1585420251",
+  "PACKAGER": "Filipe Laíns <lains@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "zlib"
+  ]
+}

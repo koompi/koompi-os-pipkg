@@ -1,0 +1,23 @@
+{
+  "FILENAME": "python-webcolors-1.11.1-1-any.pkg.tar.zst",
+  "NAME": "python-webcolors",
+  "BASE": "python-webcolors",
+  "VERSION": "1.11.1-1",
+  "DESC": "A library for working with color names and color value formats defined by the HTML and CSS specifications for use in documents on the Web",
+  "CSIZE": "17552",
+  "ISIZE": "73600",
+  "MD5SUM": "f0f576e3340080f3e1b69ad1a0887880",
+  "SHA256SUM": "16f585058199a718089c9032be6d60a0b103a8e1ad114abda8204147c7ec03cb",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl5M6dQACgkQeGxj8zDXy5IfTw/9HIrA6gwsNzOTSxoO+a/y5TcZQ/nRpEgSjFGDxYCt2EsYmM+ZpRkvsi/Ncb8gxshAXj5tikVinnHC+YfROHffRoaBF2Z5vco7qTD7lqKqdvIZMa18fU/fyPhiR/ZXCcGbvcpF3oDs+bb3TFdgJ+iCZLVYraivlZ9R7P6ccHSgKq9j9SYp9DMzExQOhMSptblSDVKfgUfGkKWmS5iTgLk/YWLtedkDFC/2FmQRqoOrHSlcAtD0FzY6HShzSmgm5ipvpNErh4PXuAshoIlhSScjMtTl3g0g6gUuKpbFSIJ2pnMLL0chLp26kelOGDy73ctETFJyDiXmmYsgaKOeuyDIkEXc+P0pODtP8Ql7Vw1DTqfIdokrNp4BcAcjgbm0uND0Go1x66ePntB7PVLD4Khj9URHfUXBC/g0QnSvb5/IWAzGB1XTUV4D3DOjFAyl5bJGCnF8XL6WBAgiWVWjZanc9NwXmts5FC960buv700vvZfrDxHtXJeY2KAqWMkYT2gix4on3OIROvuowjbuq87gKEGkQoqvgbSO7HqAoKe0SQynxjeCIADrrP8ycK7NMlGAdRQrEVi3A/I3/m7dwHKicdBmWDIE/dxIC7Q377Bh2hJi9EBb0KudCmCnDifgrZKKP+6ohp7vY9Hn+LQJb7n0PPgTvSjqfOVJ7cHXi5WhS9o=",
+  "URL": "https://github.com/ubernostrum/webcolors",
+  "LICENSE": "BSD",
+  "ARCH": "any",
+  "BUILDDATE": "1582098857",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "python"
+  ]
+}

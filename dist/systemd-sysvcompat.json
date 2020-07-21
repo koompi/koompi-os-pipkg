@@ -1,0 +1,23 @@
+{
+  "FILENAME": "systemd-sysvcompat-245.6-8-x86_64.pkg.tar.zst",
+  "NAME": "systemd-sysvcompat",
+  "BASE": "systemd",
+  "VERSION": "245.6-8",
+  "DESC": "sysvinit compat for systemd",
+  "CSIZE": "8381",
+  "ISIZE": "4751",
+  "MD5SUM": "d7d31d88fd93682190f5355a25d05d76",
+  "SHA256SUM": "2d3c2466f27160bc9526199e90a45eb0bd9ee023448124c0448f107abb2225c3",
+  "PGPSIG": "iHUEABYIAB0WIQQEKYl95fO9rFN6MGltQr3RFuAGjwUCXvHjzQAKCRBtQr3RFuAGjzF7AP9cmArE/ZcF/4lGpnRxOFqtPh7dGKToBL3K0scoZFRDHAD/TfPhZ7NVIRQZNWwmMeFxEbi6ShnxzHQOmw0+1CnClQE=",
+  "URL": "https://www.github.com/systemd/systemd",
+  "LICENSE": "GPL2",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1592910580",
+  "PACKAGER": "Christian Hesse <arch@eworm.de>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "systemd"
+  ]
+}

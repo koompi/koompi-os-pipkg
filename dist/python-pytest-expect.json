@@ -1,0 +1,24 @@
+{
+  "FILENAME": "python-pytest-expect-1.1.0-4-any.pkg.tar.xz",
+  "NAME": "python-pytest-expect",
+  "BASE": "python-pytest-expect",
+  "VERSION": "1.1.0-4",
+  "DESC": "py.test plugin to store test expectations and mark tests based on them",
+  "CSIZE": "9512",
+  "ISIZE": "22072",
+  "MD5SUM": "ddfae0c04cd50d9d96d079b3a66ae038",
+  "SHA256SUM": "8dbfce2692fb68a0178b9a4f76364fc94be4a281b0ba28b0ba8f64895f55a624",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl2/jIcACgkQeGxj8zDXy5K49hAAhXD1tNzsIH+pCbzmNM7AOjI+KWlYJZN2cUI0kEKwRo6XjMNel3Hht5WVvRWlXvU5+Sk/TVKWHgmsg8ZTpbNNKvvsy/16JX051gBGqsvOFdaMBkq84O1OCV/BzSF3HcIKlhOkd3laSbDZu024r0y5rTIxKq1xWJGg7NGeyRXYBC1ofbEOKLUCwvbuAJ/bim4TvJs9bk2WAXgmGJd8Sax9guW4GK3NGnp/J1atJ3QIb7IZfp/w5f0txoUosuojIZeHHrvrW0RXAU6Fm36fG64v1KjYLEqB+Cx68nEFh+d9OFypmvryM1jfjpwLDBUnEqND06DRLYGVSbxXVe5hYfn3GdsaQXYsv9FBplhfx2GwlT7Bs6HGxBCKl/lyou7cIxV9ju40PGUQ9N61Z73IMvkUSOIuv7eS9NByYsS16zw0TbuH88YsD4VuwM0cJuAaYUSRaCdjvaWcUA/cXUBXr6Pl7x8s/ColWIK5qr6CgeO8DRIA8JwapsR3SYtET03vty9WLYW87IRT0pvxhhb+i3/l7Qp3QlcUd58c7r39xkWdIyffSfm50Kn1k/AK8xDFqk4PvqOSASK7A5EGGoxbQegplrUe4diKcUd2ZIPB44HCoSA45KNmyGjPVEMp5xUbwhIPPFWyIt0tT0MrR2T3kNIU+QSBaZwSbgOUm9sxLt3gang=",
+  "URL": "https://github.com/gsnedders/pytest-expect",
+  "LICENSE": "MIT",
+  "ARCH": "any",
+  "BUILDDATE": "1572834402",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "python-pytest",
+    "python-u-msgpack"
+  ]
+}

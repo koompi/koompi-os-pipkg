@@ -1,0 +1,24 @@
+{
+  "FILENAME": "haskell-cracknum-2.3-9-x86_64.pkg.tar.zst",
+  "NAME": "haskell-cracknum",
+  "BASE": "haskell-cracknum",
+  "VERSION": "2.3-9",
+  "DESC": "Crack various integer, floating-point data formats",
+  "CSIZE": "80425",
+  "ISIZE": "420570",
+  "MD5SUM": "ee14c1ad83efc7f6512feecf0ef7517a",
+  "SHA256SUM": "2c8fc2eebc3aa788fc8d76a97df0b6072a2d7b83c03a3257bf90f3f9f52b9ae4",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl6hdmAACgkQeGxj8zDXy5IWAg//TkbLPM6/rXqbTQzpuCTmpZpC1vJrc0AB9Gtt3MchGydTSSd/lfHfKqwUAMOT3yolz6VK3TpAZ/1/oLBBXBYpNAPiWGLo58AnTh0leK35DVxD+WnRrqkGrH2afeGPJ5teF1NEiT78zTA9pSF9moFSySjfUXL6uZIKktogUTbCtYB95KFBq3ZHYIp+Eo91r472MBJN0G1Hak6CFBD7IRry0bIwwRe8iOIjOlLLCTTJA3LXBsV2QY7CCW/lcEoe6D2euPHdVIA4GE8jRIjoSf9JfHzHEu73JSZW0Tit+rH5O16SkHTwhFgr5zo/oMUOv5bGSegB/MFVwL51WAUo2sbrVs67JWeJa+qlj5rlnx5gu/W8SHCXcU3Vd1pZ5guh1qb0eqHAtsUmcaou7n9ZDP7JF3TBkACdUgyCw03PPbdWiy+FbM0W25izYrmUtwBSA0/JvwENwXFW47wwBDkDN0DehJv5e3zX6XWwL6dnbAvMqi4HseRmDxD8BviZpL/G0Y0VWNx47dt6ZwzHKQEEu88B4Bg5eLoHQMwH6Hb6pif7CaNlk2tjjmjAI7pnjbwPUDLHpOS8XJ9xhmHPd0f2nm0Uer0aXSG0lrDrIpTZNxA1uDcSOjNqU8pD5MVSYAf6fz/ExUc1ktqAV6s8zyph/Vnteov0zlRyGz9iUfYkeMinsuM=",
+  "URL": "https://github.com/LeventErkok/crackNum",
+  "LICENSE": "BSD",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1587639817",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "ghc-libs",
+    "haskell-floatinghex"
+  ]
+}

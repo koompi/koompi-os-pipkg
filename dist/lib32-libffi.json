@@ -1,0 +1,24 @@
+{
+  "FILENAME": "lib32-libffi-3.3-2-x86_64.pkg.tar.zst",
+  "NAME": "lib32-libffi",
+  "BASE": "lib32-libffi",
+  "VERSION": "3.3-2",
+  "DESC": "A portable, high level programming interface to various calling conventions (32-bit)",
+  "CSIZE": "18586",
+  "ISIZE": "39606",
+  "MD5SUM": "668fe27da4a59c3db9a7ab414b6db764",
+  "SHA256SUM": "41550df1314b36b734fa51817124542ab5298d92c0a028eeecfc4d808994aefa",
+  "PGPSIG": "iQEzBAABCAAdFiEEhs/8qRjPOvRxR1iAUeixSKmZnDQFAl6N8r4ACgkQUeixSKmZnDQr6AgAj7Xr87dGVczyk9RYukg2o09DIERAiBWaqOw5nvgX0x7SG5/XJ+py76RYLNZ/oTm4OhL74j7N2UeA9b9T8p5mPogYD5BkQ3vK6SzfnsAYSa/pplhlVcx6DPdlrp3H7SYRrXOVZQ/9lFleXVC9/MTH59KciwpTaEb53HIV2f0+EyxPq4AYJF3zWyCy577hbbxpBKetHWC1B11T1GmEHDwFYI7v2/97vMflLkbhHKmz8odXg2dBpgrAs1ZUy8ozIf9GL6TK804lnsacnM0XV7xzrgQCtEgHRLKPtg4WfJgqqqBmoQtsUQKZnixPjNkJF0Yyu5c+8XL9lEGP00svCtpd/w==",
+  "URL": "https://sourceware.org/libffi/",
+  "LICENSE": "MIT",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1586360920",
+  "PACKAGER": "Evangelos Foutras <evangelos@foutrelis.com>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "lib32-glibc",
+    "libffi"
+  ]
+}

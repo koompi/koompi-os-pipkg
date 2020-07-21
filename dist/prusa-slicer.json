@@ -1,0 +1,31 @@
+{
+  "FILENAME": "prusa-slicer-2.2.0-6-x86_64.pkg.tar.zst",
+  "NAME": "prusa-slicer",
+  "BASE": "prusa-slicer",
+  "VERSION": "2.2.0-6",
+  "DESC": "G-code generator for 3D printers (Prusa fork of Slic3r)",
+  "CSIZE": "20510014",
+  "ISIZE": "48537954",
+  "MD5SUM": "9cd4ca290fb22d9a92813d8de30056ea",
+  "SHA256SUM": "a943c5087a0ed5a24be513798e136162b3e9f639b9db027589a89d48bcc7397d",
+  "PGPSIG": "iQEzBAABCAAdFiEEFRnVq6Zb9vwrc8dWek52CV2KUuQFAl7kkusACgkQek52CV2KUuR2qwf/f1wHUiaEiSfJ1VCHuNUB0dgi2uycrQp2Iemr7HVsJZNnmvYlk7/HLwunUMx8lze8bkI6jddctliYu3NKY9d0IJV9jWYsjTbdlrhmjKmA1gKRiEf1pDPlaytUku2S0lcVcKtk8UdYy4aNPmTWN76O2fuLipWKyeH4BLJYUvsxA9kZ45M3MFxNOn8o9SW1VtxI7dufD3GULP4m8P4bxGri8SmOlT0HVsEz6GHhNcv1ke+MlXdePXg4SAUxRx70Timxj+He6Sb7VYl8zspf0L6tJ2Kh8nlNf8lrHP9Lu/Pzznuf57EP924g/8icC7wenkS6kQoko37l7flhNpdLWLHsIA==",
+  "URL": "https://github.com/prusa3d/PrusaSlicer",
+  "LICENSE": "AGPL3",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1592037538",
+  "PACKAGER": "Antonio Rojas <arojas@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "boost-libs",
+    "curl",
+    "glew",
+    "intel-tbb",
+    "nlopt",
+    "wxgtk2",
+    "qhull",
+    "openvdb",
+    "cgal"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "FILENAME": "reiserfsprogs-3.6.27-3-x86_64.pkg.tar.xz",
+  "NAME": "reiserfsprogs",
+  "BASE": "reiserfsprogs",
+  "VERSION": "3.6.27-3",
+  "DESC": "Reiserfs utilities",
+  "CSIZE": "209292",
+  "ISIZE": "609727",
+  "MD5SUM": "0c5f0466dc24e1be9ed6e96e371ee2b0",
+  "SHA256SUM": "9cd959ca56b6cee096fdaa7718d202e2e2a0cc426816fe2e537735843c2580eb",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl3MLfkACgkQeGxj8zDXy5KN4w/+JWtm9H6ZsNXJpM3OkOZiAD1MwxWnI5s1FhCwbudEaOBLnvTavXCYkMEyc0zh7QHTeECBNqfr39XoOzOqvem2CubTkWNi3wiy3gNjDZF57EPXOOuWEKE8mdpqBaZ4Tm6XE6v+nu/D+c7SL/veAcxkoRp098vVZGEAlPpYpbeCmtdq7uT00b7n/FXf9V2qg9n/k+uVPqppGyIStQcwXujBlZ8r5tlE8M7SPmhNHO+jyrf//EtUOQpqqby1jIHeg9z50MtIB1keq7ltw904cks9UliimXdXq9aQgXeKcyOWNcvPJMJNDoLZAfXg7UcT4BOzYorfO2y8UY7WTUi3bJunxuMk4V0kgPEj5shxm75Yfxt3ikVTv84P0WM1Yw+m6J6IAPnBa/jNvL9NXyIycLnID5o0VYoblkLlZSvIVq2v8EQ8C+E4idEPM+uEV3CPfh90MiVmAtyKyW+nKCHqmKoFQl1s5eHLZbtqnuELDqRS+j36uVlchv8+2qYDJtwRfuXJF3nbfBxjkcynACTRG2Ht78/vD0hS9DSEuNxdwl5fp8igFeKeBXorg4dMQPD/sA0XoOPpSVvn1NAot88HE12Q8jNMA6mtHVa2Bb4rtjAs1QKYRmgrwf/S4opyo/3VBYckt6rByJSwyty/hQMHBzSHPZpeFlwOA8HwAuQJUMGjMSY=",
+  "URL": "https://www.kernel.org/",
+  "LICENSE": "GPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1573662158",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "util-linux"
+  ]
+}

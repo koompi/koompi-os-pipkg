@@ -1,0 +1,24 @@
+{
+  "FILENAME": "rofi-calc-1.7-1-x86_64.pkg.tar.zst",
+  "NAME": "rofi-calc",
+  "BASE": "rofi-calc",
+  "VERSION": "1.7-1",
+  "DESC": "Do calculations in rofi",
+  "CSIZE": "8959",
+  "ISIZE": "23499",
+  "MD5SUM": "7111b5e9f7acb71c804104b792667509",
+  "SHA256SUM": "67db7a0a6f6eebce5a3272ade98f70bad4b789c30433070275936b721410a1f0",
+  "PGPSIG": "iQIzBAABCAAdFiEEj8FaBklQqZ3RvRTdOeS4d+YuuRUFAl6vKv4ACgkQOeS4d+YuuRXrohAArLfezjNwxaqvhtlkRS/iLaI6WtLWIaMZkXZXolDFbwKechX6weOAyXHlUO3vRywczz6fhr68o13+HobkBMo4akWeL/tJXptASY357cwShzan4mp4oWBGmro3+/mP6tYck3SQdkDaQrj8HinJRJI+9IsMu9mm7gZwv88RXIcMNefU/fRz1fk+uz45j0KSW/WL1vMFlmjp+PupmaRWqG9B7XBougMBIYohF1Qo+QfE48zJWnqIRsI+vGFyicrUkrgrnnM10NcWgsyfzoh7+S10d0AJOxG+BbZAr+u/z+hs8uyl5UcsY59E6w4uT9iwbFH2ZZXWdaynPnJRfKPbg0gx4d6wB4YaxB/0jYRP4hYWYXReyGQuLCzcNdKXueibgZofjFWdTWq+UOF7bqO5yijCJpgNmyc2SQwcgKBNS7c79266iqexB0HMgs5U+PtUEmQAnWZ3EZm7epI/FU6qCrzS6JnZD3ciFt8bCpJ1E66hBFBX7oNtNKrZxS5D8yNVnYCfpBWCsWQMATP6PmAxVLkzox8UKnAq0huexVfvG0lXlGWwfHVVceD/nD3UBlpm5FYJbNsquMX6tNYCNbRypBH07Koik3n+uYN/54yPzjkbbth2jR3K2WTLHliUnDKwmxbahoXKmTwyTQWMipCDzU7exXeG/ayY2qB5jSvWY9fx96s=",
+  "URL": "https://github.com/svenstaro/rofi-calc",
+  "LICENSE": "MIT",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1588538045",
+  "PACKAGER": "Sven-Hendrik Haase <svenstaro@gmail.com>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "rofi",
+    "libqalculate"
+  ]
+}

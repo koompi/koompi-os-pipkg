@@ -1,0 +1,23 @@
+{
+  "FILENAME": "kunitconversion-5.72.0-1-x86_64.pkg.tar.zst",
+  "NAME": "kunitconversion",
+  "BASE": "kunitconversion",
+  "VERSION": "5.72.0-1",
+  "DESC": "Support for unit conversion",
+  "CSIZE": "1109695",
+  "ISIZE": "10600659",
+  "MD5SUM": "2ca899e9ec87d94c262742e7a68d4f08",
+  "SHA256SUM": "f4b5567aa7f66084b493374b2a75d132b752297e022db54fa8fed36200af6425",
+  "PGPSIG": "iQEzBAABCAAdFiEEFRnVq6Zb9vwrc8dWek52CV2KUuQFAl8JYNkACgkQek52CV2KUuSQFAgAkT9SUXPOtfCaFTRzC0RdfkWTimLxm2ouByZm8veY1gwBXwGHLkj0CxtdSodxw/+aOg+zsinhD01vLWyT8rNdc+2OW+ZoGMcr0LLlGpPZInU5o7ycAptY8zndr8kMQpkbcb5cxwtwek48f9riSuWydRQ4LDVSgYfgA/DCoKIeq+pMM7I1f0j0Eqj3iGkzKtO9MiuAdyBq0EyEMwi3oFOMajLMp7YNFvd881z/2l6GmCduq9NOCN0aR9pAiXBPx5qp3TcHbtIGM13BbfcfumcNLsRXqsmLC/su18GA/2Aatb+MxecZbVBtCEdOUh3dar2d2pFirFszubw0Uf3jnF5aXw==",
+  "URL": "https://community.kde.org/Frameworks",
+  "LICENSE": "LGPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1594202116",
+  "PACKAGER": "Antonio Rojas <arojas@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "ki18n"
+  ]
+}

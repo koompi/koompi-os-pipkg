@@ -1,0 +1,23 @@
+{
+  "FILENAME": "knockd-0.7-4-x86_64.pkg.tar.zst",
+  "NAME": "knockd",
+  "BASE": "knockd",
+  "VERSION": "0.7-4",
+  "DESC": "A simple port-knocking daemon",
+  "CSIZE": "32386",
+  "ISIZE": "91061",
+  "MD5SUM": "a7a2ea32e34d811b16fd75664ac85e45",
+  "SHA256SUM": "4e565e5769a9e86a2feb49d2d85e57fee0fb0505e00b1fc8024cb2339b6c7590",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl8Eaz4ACgkQeGxj8zDXy5LM4Q/9G9jS7/TYTywS2/u7yy1AlYuLyemJ4djQBihmaClgpe618GSXbVjehsV0IVinl2Yllel2eWqmCD8mxf+XLliSMgUQJB7wJ/ShELOWI43uhIvbn1RuDJnn9vxvZQdbVwwOqDLYpeFfAWmb5c8V3TtJRZ8K170IuRoNUVct81PNfdUpuS2lBCl0oOtnbLaogskenxIM6uIpDgrT2+qBn1s+Z6Vf3GGwgvYbIpGWaYSTb4KR1vfreq44AvPfPYDymEcha22SkmVDCVy3/SxQhMk3gGAyEmHzR+1xYSJ2rNhRJa0UhEZphyZat4y25yTKSC2tOb5Tv/17ZPiSAabg7r4sDckaAaYlcnvDDwDMacS+cD3KZLJub46/YNceI8g0/5zluwrMOUQEfy8fKae9QqB0CRNv3u+g1yrENybosCpD5zn9bqDXnx6PlRps9PJdvpstNY5BOhXduhZ253RvZmq5IF8A8nYLA2j3z73dwK7cewHZHH8D+GfSWsEbLhIlg0sJ65XUxLY8LA3GVIWl9RPm8+U5phs/qIJGumHBYlvTGEf+dQ5LqduDewm3CDWZ8pEtG3SwRiqmPs/hQKamtHeoDgu7rFtuXhoYz3jSR08kJhzyg3KjwNIfdJGh+rUSOkeFJSNvmK2rYu+Cnvu2ym8PptHNXQ+nLQ+lG4r/SV5k5TM=",
+  "URL": "http://www.zeroflux.org/projects/knock",
+  "LICENSE": "GPL2",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1594125097",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "libpcap>=1.0.0"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "FILENAME": "haskell-mountpoints-1.0.2-17-x86_64.pkg.tar.zst",
+  "NAME": "haskell-mountpoints",
+  "BASE": "haskell-mountpoints",
+  "VERSION": "1.0.2-17",
+  "DESC": "Lists currently mounted filesystems.",
+  "CSIZE": "16498",
+  "ISIZE": "51227",
+  "MD5SUM": "6e50518dd30af3af9a37636e44528767",
+  "SHA256SUM": "28d8e77583b86bab18bb1c9da88667bbe3b767221976620d26f07c99834c820e",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl6hh+YACgkQeGxj8zDXy5JrdQ//Q2Fh4DT07fWPHnYhSkgiA1v4STb49rRHF2LGrVuRcqwnuY/Hfoobb1S86hYCEA2zVDFMjcnPdktKlbCdUGIYS6iysyo/mIsjkh7MI3rXACPOdOxocqBrpsR0rFici+J91kLD0ClXtZouXhdUsZk2vm3RdzkqFPG/kbcfGZ98UmT1SkEnZ6PvEfOzLsAveJGv66h4wr9HhqNQNASXi2HwtL9B95cpeS+lctljXog9VvZv5TFD1cJT/1UvFPApGI0MeH4S7LC3Q8VzPhZhdavHCvaIxoLmYcMBJL1PrSIC/oYCpt4egqhFPBgZA43fWkJiN+wU9Plz19meGIM2SFCY27izrr9laJA7xAblg3mBwnWokoG9oW5/TEZtNKRwfNx/ArI5Y1CjKjseK0deFjSLCmOG66AQMeyIikJqVQkLOk+CgK4EB9j6xgSKMr6u915PgZvcB8gbmJ9G9QG0/CNIokZi6V93VK9xThHl08J00YdMSlFCNiehl8+KP/Oz1sLg1Mb0rhLRfA2P4TMZkgSmaTYgpXVE60/a2I3iZVANBkUc3XltOEmelkOBg4E+P7XkFaLvGGYpijQKTMAIk2sRBBm8agCSYV1PTt2GEURJHsW38xKH8lEs1cN8Df8t9VDgiq4lzMnWtKfPdgX1OZLPi6XhUDkVo/jOTj4WN/QZeuk=",
+  "URL": "https://hackage.haskell.org/package/mountpoints",
+  "LICENSE": "LGPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1587644304",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "ghc-libs"
+  ]
+}

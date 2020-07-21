@@ -1,0 +1,24 @@
+{
+  "FILENAME": "php-memcached-3.1.5-1-x86_64.pkg.tar.xz",
+  "NAME": "php-memcached",
+  "BASE": "php-memcached",
+  "VERSION": "3.1.5-1",
+  "DESC": "PHP extension for interfacing with memcached via libmemcached library",
+  "CSIZE": "36828",
+  "ISIZE": "118608",
+  "MD5SUM": "a961416fa542b9824c5f72ad73ef516a",
+  "SHA256SUM": "41e4fd351dfd4a5826cbadb15981f2cccd629b057dcc0b5b026f8981767a0ca3",
+  "PGPSIG": "iQEzBAABCAAdFiEEhs/8qRjPOvRxR1iAUeixSKmZnDQFAl3nDFIACgkQUeixSKmZnDRpOAf/Qp4lB7+Fg3Gi9UvTarw4d5WuFZIhd8m4T2f8bxFEjPBciifQMVLlhnNsFvDp3dicuVJakVyINDZ51FR9H1Us+Mppy2oGZLv8LswLBk7Pqblq178JU3QjPOKa3+uvfCHIxVwd4BfFCXPNGkCwMyIpYpS9TJJZBg1d/9cTLCxa5sDD1abQjV5FI6x2Jr8CQIC6n9GzBTcbAJNrhjTBOBc2pamTs2aCHdsyIDQDU63G8eXLrfvTOKEVyy+Cx462LpF1ESAA3JkNoLq9vcJlkxRI90lnPljE8JqoygBrni17pUB80Jbvc5ym6v2ELL9UztrmmAlpOpmLSXBqkKUiRuLJnw==",
+  "URL": "https://github.com/php-memcached-dev/php-memcached",
+  "LICENSE": "PHP",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1575422920",
+  "PACKAGER": "Evangelos Foutras <evangelos@foutrelis.com>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "php",
+    "libmemcached"
+  ]
+}

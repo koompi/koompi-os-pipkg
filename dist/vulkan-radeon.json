@@ -1,0 +1,29 @@
+{
+  "FILENAME": "vulkan-radeon-20.1.3-1-x86_64.pkg.tar.zst",
+  "NAME": "vulkan-radeon",
+  "BASE": "mesa",
+  "VERSION": "20.1.3-1",
+  "DESC": "Radeon's Vulkan mesa driver",
+  "CSIZE": "1584067",
+  "ISIZE": "6055690",
+  "MD5SUM": "667a750355bf8986c78313dda76d8f99",
+  "SHA256SUM": "d70ee33e96efc07b4512fd90b5e13f8b1d06fc7744d4a79e3ebc30f1749ae8b3",
+  "PGPSIG": "iQEzBAABCAAdFiEEU1+MAzlFDwVKTSgnBglqatHO3awFAl8GtJMACgkQBglqatHO3ayDSAf+LXHlGXjf8x754cqMXKH/P+peCQeqgzPgUGD36iiPkuLISn1HeFa7a0IZv46rk4+vLuTwPxio31KBqsZ2eCUBMHo/sj54M5hCfP0PcAs/izSNxHpOUkCOWMvsxKik14Jqj5W2GKNjcbxGRY0m962tf20YhxAEKc+FdPkOARVCfMCdVPxLFl7qTTU2JIbY5Jx1bjVgtu8ybOa17LsMJFFDWxjrOY0R0fee/SH1bK1UBgH7+dEBYk13HyhaBporQIkPHH/QfgNbid8D3vP33qonalzmd1tCDZuwStWGG33u16R/AFbjj6bDP6qDsTUYEEvy9l4CTpDnogENFtEQPBDoQg==",
+  "URL": "https://www.mesa3d.org/",
+  "LICENSE": "custom",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1594274417",
+  "PACKAGER": "Laurent Carlier <lordheavym@gmail.com>",
+  "PROVIDES": [
+    "vulkan-driver"
+  ],
+  "DEPENDS": [
+    "wayland",
+    "libx11",
+    "libxshmfence",
+    "libelf",
+    "libdrm",
+    "zstd",
+    "llvm-libs"
+  ]
+}

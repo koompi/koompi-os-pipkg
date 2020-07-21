@@ -1,0 +1,25 @@
+{
+  "FILENAME": "rkhunter-1.4.6-2-any.pkg.tar.zst",
+  "NAME": "rkhunter",
+  "BASE": "rkhunter",
+  "VERSION": "1.4.6-2",
+  "DESC": "Checks machines for the presence of rootkits and other unwanted tools.",
+  "CSIZE": "237938",
+  "ISIZE": "1139314",
+  "MD5SUM": "fc4987300e5ac9bb2e65fdc0c7d1fab0",
+  "SHA256SUM": "bf23f39041212b3a89d61a60aa9a907acc2b9bd094d65e4255e6195229bdbd72",
+  "PGPSIG": "iQIzBAABCAAdFiEELjbYYgIhSC/EXLfyqRdkdZMmtEAFAl7Kd14ACgkQqRdkdZMmtEBfOQ/9EyxsIr79tP1KCVRE6ogpFvvBoTKLE0Oyo0+rVOagtrj2/NB/cAbH8JWeb+jm65lOJGqB+1gvVcbI5k6jOZto/pDrzYnQ3AePqexmf8ojc65C7WohsUza65t1ZKbkgQRH+Vcktaj4ySmL6JQyp1viBFC2x06sgOFCi1ZJRKsXoA6tzj2jEsYUmluRzQl4cn+XXEOUp/wqzhiXXWdqQmt+0OS0aAY4/kD1Uxp0eMeO75Nubx9OnGM181O2aYlTXZN8lc/KCPtpukVV5IhUVvF2tMFYDqNyq8EuCHSy7s1Mp8cEN//SBkH9aGXJKvHEa6T49+cgsExuzZy9aCuuvh0x0pDY7POk6HQ/1UJMgkbI4ezLsuV/srCxbwOOx57KaJhmGdfjTcb9O6IOgOxrgms/yvJbu7qJivwZG1/dpGVLTjTphbY4Ldi8ArnWbJiQIwe683ukmX9NUEJS5/tnZszgvOLji7O7IRK9c5mgbKDyuORNqhja3P57qpSJAfFyT39GCZI8RQURSvZPmt119aHFX7oonXceoZznDpvJDaHCTqm0Ibj1YdQsirnXem4HQkmIvN9ZSBd1Bzh+PaUbrabu1VtqjDTpk1KhPHarqp99qQXs0egQ9uouCZTGk+U8qF7MRliYUJUWyuPn9nRvkLQNnw34TDMy+S6T6CuvceW1yhA=",
+  "URL": "http://rkhunter.sourceforge.net/",
+  "LICENSE": "GPL",
+  "ARCH": "any",
+  "BUILDDATE": "1590327114",
+  "PACKAGER": "Lukas Fleischer <lfleischer@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "bash",
+    "perl",
+    "wget"
+  ]
+}

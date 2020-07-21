@@ -1,0 +1,23 @@
+{
+  "FILENAME": "qtikz-0.12-3-x86_64.pkg.tar.zst",
+  "NAME": "qtikz",
+  "BASE": "ktikz",
+  "VERSION": "0.12-3",
+  "DESC": "A small application helping you to create TikZ diagrams (from the LaTeX pgf package) – Qt version",
+  "CSIZE": "804812",
+  "ISIZE": "1922757",
+  "MD5SUM": "b72cf279beb88d70f3d4a232a283185a",
+  "SHA256SUM": "390165e582c2908ec06238e73ac55ab5224f12b16e259a560dc47d286e0e5117",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl8FciUACgkQeGxj8zDXy5IFXQ/+KUg2Q2t9tZMT2yOvxdbcK2ZpHxdA4wF36Dz7Iya0l2LWjPfIK39AXV/PTWMen2/qLNT3hv25lhiWii6BEXIr2bAe0WTICc5y5jcbz4fM8S514cFQEUaaXor/JapTxCSRWTEpG1Lsup8GdtWVz3ih49yqenAOvLAgr3stOI0c6RmQfBwYukrl+qzZHPocz0Vg3QRib8jT3md6Zx/IQ8jxDieQaZA/LflMt63kgwzwWN1ipNHOhFQKppfVsqldj7XHk7EDV2VIJPQje6Vob6fsz/nHtrfPMaPC26bz1E05oxndZSCrIyE/iO+TS2M+3y20oFQSV6xfj+K2D1U7cCE3zIiW2cKPsTSYGVpgMToSN8oMKcM7UYuNjf+0e4zyzd9lPgnoUw4GFCNwbWZl7pI7wB3f4lWiRiH3uljB7nKndMCs860XcHcoviy2JiLHkTppVRReCUl3/z6SM9IRS3QTG+8xGKACIBYexAbCrW6iCPW+YUjLG84d6Rg0qtQAwOkOw/4Q0ufA2XdH8BfJ2CqAtOjpXvl7ec1buFZ4Pwk85SL5AcOER+UyEBfsVIbhl4x3DIgUSYFoB7KnLjxR1aaRLYAMoEiOWVmjJXUAsGbY9+R77Io4OYAUDZifYLiiX6K4RMLQRMKmjhDIHk0kpeTAF4dP+chKlob3aqLBs5ZSU4I=",
+  "URL": "https://github.com/fhackenberger/ktikz",
+  "LICENSE": "GPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1594192302",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "poppler-qt5"
+  ]
+}

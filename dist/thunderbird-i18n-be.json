@@ -1,0 +1,23 @@
+{
+  "FILENAME": "thunderbird-i18n-be-68.10.0-1-any.pkg.tar.zst",
+  "NAME": "thunderbird-i18n-be",
+  "BASE": "thunderbird-i18n",
+  "VERSION": "68.10.0-1",
+  "DESC": "Belarusian language pack for Thunderbird",
+  "CSIZE": "585645",
+  "ISIZE": "646281",
+  "MD5SUM": "3fc45902d53b3e3cb045b57836df2aa0",
+  "SHA256SUM": "f39dc336e6c7fdcf2dde4f52c1e4453e05e43e729ad6fe59cac3aaba322dd73f",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl78eFkACgkQeGxj8zDXy5LGfRAAtmEJuesd34wCYCPa/ZyYvUwjjnZv5RYoolauFJparfL5DYBIzomodzLOE+3u07n1Ki6UfREsj8LOBoZcVwMIxL4VPPS1SLcRfCWn5vO348AMmw0KJaVzF8NPlCygqMmAeJtDlVgWyVzjJ+Lct/ct+jqhrZcbYeWlyZzE5rUGCKGIIKsKEm3SxNKUZphgxejDQ3u8saS/b65YpSeP70nyhpZHpFbcRPeQGer+JZbZUKlSqa+M2KvA6uOLhs7vwRECaYaraFgt5pcO79x/cvifexY2DUTNrRj5y1boGi9kkp874U5MOII8n4AE1lovqAXlRvVYJ5tFasQ5OcbdDw2/zwzv1NR/kGPaCiVIs5xKpE16JOw6bMrIhSL4KHAq7MEppduVkFH9GcuILKnW3M5+62yA+Gay0wnbdQHhCMgH5su4xuB20VXLwuLpBm2qmJ7TcEEzQ7Qd26ST8NZ7qeKFjFlFvB1FbZHuz9/hEqi6CZXAsSTM4OJvggt7Q04MhNFkMIAOuem/Otok4g0LU1CmMwK8FmARF9SdeyA+Uvlrl/1W5RVavi+24xE16vO9erm1yiQ8fxkHTyNZCQuKfILwW6KJSAT1ObTQ7k0p3W81GxLBuulZMCcmhMMd4MG9Mn6J4MWMatTIkmsjxmJSkXMRDExhwMtyfVtRXCn/aK6eMno=",
+  "URL": "https://www.mozilla.org/thunderbird",
+  "LICENSE": "MPL",
+  "ARCH": "any",
+  "BUILDDATE": "1593603702",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "thunderbird>=68.10.0"
+  ]
+}

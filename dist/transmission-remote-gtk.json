@@ -1,0 +1,27 @@
+{
+  "FILENAME": "transmission-remote-gtk-1.4.1-2-x86_64.pkg.tar.zst",
+  "NAME": "transmission-remote-gtk",
+  "BASE": "transmission-remote-gtk",
+  "VERSION": "1.4.1-2",
+  "DESC": "GTK remote control for the Transmission BitTorrent client",
+  "CSIZE": "205641",
+  "ISIZE": "663021",
+  "MD5SUM": "46a61baddb1976f586e1972d4088af75",
+  "SHA256SUM": "63052c8bd47bd42e3401fbbca9c66e0661273e1b71b11ecf5fdac9731b4480b8",
+  "PGPSIG": "iQEzBAABCAAdFiEEhs/8qRjPOvRxR1iAUeixSKmZnDQFAl8E6SMACgkQUeixSKmZnDQFgggAoDC4eko149KaIxzwV1KO8S7MMECXNH3mkcn976qKxh7v6MAqdcxfRfPNXcnGBNU8ebhPbA9ohi6F5ktyjeZYutlRPrjD3q6/ZwkXRhhTskFHx9aCOs00x74Bahpnb/A2gqvXHRo2q4rG5HJJNneiA7/AcXWk+Zf+X3BgLilFsFvlr4cGV3euzcH3jx1ZTek1wgGDOnwmgdB6LpKZ2cE6ZcHv9Nj7xZZlBK8ZAsbih/1l5O3LzqNScrpLblamoj/LhVD8evvvdUVJodKxJ0fAAKDgEAKB+XJWBWaSwVZ8o2lo/p/g6TnDfWgcq+aGzerfjjUz+6vh23qNZ7Wp8uadFw==",
+  "URL": "https://github.com/transmission-remote-gtk/transmission-remote-gtk",
+  "LICENSE": "GPL2",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1594157308",
+  "PACKAGER": "Evangelos Foutras <foutrelis@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "curl",
+    "gtk3",
+    "libnotify",
+    "libproxy",
+    "geoip"
+  ]
+}

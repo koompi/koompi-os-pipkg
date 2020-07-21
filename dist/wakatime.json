@@ -1,0 +1,23 @@
+{
+  "FILENAME": "wakatime-13.0.7-3-any.pkg.tar.zst",
+  "NAME": "wakatime",
+  "BASE": "wakatime",
+  "VERSION": "13.0.7-3",
+  "DESC": "Command line interface used by all WakaTime text editor plugins",
+  "CSIZE": "2723100",
+  "ISIZE": "22551227",
+  "MD5SUM": "4a59aeccfd712b6e75072c418bb9aad2",
+  "SHA256SUM": "7600658babe14251f534360d54e69c06f512284a272ae6ff39a6bf9bc65c9627",
+  "PGPSIG": "iQEzBAABCAAdFiEEU1nMa+iBGLUfXJC1YH21X/cbcFIFAl6e+KUACgkQYH21X/cbcFKbaAgA1VtVKNf+dH9gcSTUMRCGq4s7ViUdfHItJxS0QHTZ4yHr19UZkZLsCVyrz/AYRm9bkQKETe5fVDo4cvtaBCgFgA4ycjRZhZocw2EdXKB+NhQpVGi44dT2yU7Q6X2Vs3ZMKtrfj3Blsi1V3GL2yS8+Q/pumjJkK135X2YeKBwZNAdURPbxbljBWiSd73kfb9Kcz3kVxTZx+RrQcHtLhmBGc+GCR4CHasFy7Lcpl4B60VKtfJhSialV/XFPhH/30u+kgbla3dvt1WnWTpuBdAIt26sj4nreaWDt09R9GaZZM4J5lUAhs4QALjjadPnaMCRUFhla0ppx2QSLeZ2N3crGbw==",
+  "URL": "https://github.com/wakatime/wakatime",
+  "LICENSE": "BSD",
+  "ARCH": "any",
+  "BUILDDATE": "1587476445",
+  "PACKAGER": "Konstantin Gizdov <arch@kge.pw>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "python"
+  ]
+}

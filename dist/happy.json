@@ -1,0 +1,23 @@
+{
+  "FILENAME": "happy-1.19.12-7-x86_64.pkg.tar.zst",
+  "NAME": "happy",
+  "BASE": "happy",
+  "VERSION": "1.19.12-7",
+  "DESC": "The Parser Generator for Haskell",
+  "CSIZE": "203834",
+  "ISIZE": "1126559",
+  "MD5SUM": "7e4d0eeb72216eab9e6e477e9aa61db9",
+  "SHA256SUM": "7b4fbff44e0ec13b8b612623a7ee6e22ee865d522eba2f40763225b6dfadecea",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl6ha4IACgkQeGxj8zDXy5KtCxAAjgWsjrqrwxArQMQxMGunwWjcjCIvdHGdD5CnPYnF3GPoE0QhZtSRgtnJCuFKP/ahAK861TVuTIBqAgRLMQggqwTPPHRf96p2IpyWjmIi9mVsP997pJ+zywYNFFxzL1YnuQCFH8I5z8RNjwjcxKfFgmB5FCoOPBF/2i/3Yg2ZQA3s/IO5feiy9DzRwfsy/Wbrs5NaJ4fz383TXSXf1MaugiyURdds6Zo9BqiSoOQa900osDfX8p7FpAnjz9+YXhbP7gOEN3GOPDj2DDMQgEpNSMcsieZG5tMTp7pPOrzLhyk1WvjCWVdpCi/o61I8tUSILATBwin6KG2q18PdhxH0cexXFrd614Ty7/PEHynzE4+2oah4fs3Iz2C5VVrKnJhDv7YO+ocKvAbfLHK5cPlJjIZUYYCu29kSP4ErWCsxejUMYRjam/YtWmOfzjJyfSPnH9xZnBp0Acvkgig4/G/JvREEYc2ub51pjK7Pxume42EjtqBIwWWayR+G+orXDAfQpfcdlOsL3OsZqpiD6ghC+EYQIytivFC0Ts963Qx0fjAqXNvMbH6M1WCzyzi9KnfHhMv+vMPrdZXFsptURrjwJhmEWisNNci4Onn/G8t05vGfO+Y8fNRCgpnFRyAvPzGga1oiFG+td9/Am6iZ0EiD1yK+gRLTJeSpVRyqZMdh5k0=",
+  "URL": "https://hackage.haskell.org/package/happy",
+  "LICENSE": "custom:BSD2",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1587637021",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "ghc-libs"
+  ]
+}

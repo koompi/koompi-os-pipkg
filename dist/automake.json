@@ -1,0 +1,24 @@
+{
+  "FILENAME": "automake-1.16.2-3-any.pkg.tar.zst",
+  "NAME": "automake",
+  "BASE": "automake",
+  "VERSION": "1.16.2-3",
+  "DESC": "A GNU tool for automatically creating Makefiles",
+  "CSIZE": "617945",
+  "ISIZE": "1628877",
+  "MD5SUM": "89dec90bcbeae30c11289d98e7d8fa8e",
+  "SHA256SUM": "c02011f9dc962efb3677034ee2f8a1b7c1b6f4d350909af63e5db54a8f97cc96",
+  "PGPSIG": "iQEzBAABCAAdFiEErcih/MFeAdRTEEGelGV6sg8qCSsFAl7b+BAACgkQlGV6sg8qCSuP/Qf+PZ7N6+tfubMZf/ck2xj5wP1eHkwx2gcPF92RRyFe4hYCd+8q9j2T0KUUx8ZbNjwECipINvAoFND9RuYDeDcba6YtlhsI7ZGVi7e749zY5YS8Run0bnVKuyOlAKPzGoS7jNupKQZp5MvirnpN+SoKstxVyKung2urgYVfyAaggKpGPFzgb32ViKmbe1sSuqehiXvYhl0hYb1VSU3vG0FShgVunmHYFAm9SYb+vivcIYMvmzfjLl9tNSPypN1ToCOWKu+uBls+6XfnVyQj7RW7Ers9u9QYCebaxZ1wbYhnSErLHtBRV+tcObo5gS3hlTvHvE9SqhlJ7cKZh+JynDjUaQ==",
+  "URL": "https://www.gnu.org/software/automake",
+  "LICENSE": "GPL",
+  "ARCH": "any",
+  "BUILDDATE": "1591473784",
+  "PACKAGER": "Andreas Radke <andyrtr@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "perl",
+    "bash"
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "FILENAME": "haskell-hedgehog-1.0.2-44-x86_64.pkg.tar.zst",
+  "NAME": "haskell-hedgehog",
+  "BASE": "haskell-hedgehog",
+  "VERSION": "1.0.2-44",
+  "DESC": "A modern property-based testing system",
+  "CSIZE": "647777",
+  "ISIZE": "3801416",
+  "MD5SUM": "9363ae1434dddf65fe846c56b504d0a9",
+  "SHA256SUM": "31a79d5d3680af3a46beb0b1ab7d1086407c1b80993d33345a915a11c7b5deda",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl75v5kACgkQeGxj8zDXy5J08Q//fHgIyjMsRmxb/J8iI2LEoDpZCoXAr3ByduIyLBTOrbACLkaUG8ySe2/uAPb+zuitF6yk0+zhIkmcwSLIyhyBt/pgVdqv2tRc8vjzv3309eo7PMecdTStArnCpZH805J5znY37H09OJtCmJiLwTUsATS1XKuttg+o82WCUU4d7fKh2xeZmGpNvT5dP9JMrG9joAWtWypyAVpvVC9hmnnml317TrEwKM/LwLPjJ3YsvmB3HG8/xKhfEjD37VC0TgfHyaUh6F8jfaEC7Ja4uzY/VXkibNdf4uEoiAAHku6vapKJR5tDkvzfTP2qiu+Dm1jdaQ+aVG3M6RNdiZYVzxxjIhk6c/bD5eSEJNpQHxV3pS/4pHQYg2cuc7HCqKlDsc0U7aBzsrLx47FNGZT9zW60x/JkkGbhix5N2qsH6T7fI7r+N/l3DxSi1VYlLg//GKIe5itgAjxi9JR+PneoDXvJ0r0b8na2P/GGEK3XKlRlUEIijKz5/zYMYukG72GQw137NelUu7ysl6rYlukHCmp2PKm6qurck7Y9MRMDajv+MYwWe9NdH6Oc4S2ghi2C0gZxQyI/9S+xD+9JivmKrxXfAA506kSch4oGqNXSnwLPgBhly+PUHTO/rc+tMVZ57aeozq4Vgn8Aq5N6AkfhYMRje5BaDa2m0X2yQYulOn8sLlM=",
+  "URL": "https://hedgehog.qa",
+  "LICENSE": "BSD",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1593425480",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "ghc-libs",
+    "haskell-ansi-terminal",
+    "haskell-async",
+    "haskell-concurrent-output",
+    "haskell-erf",
+    "haskell-lifted-async",
+    "haskell-mmorph",
+    "haskell-monad-control",
+    "haskell-pretty-show",
+    "haskell-primitive",
+    "haskell-random",
+    "haskell-resourcet",
+    "haskell-transformers-base",
+    "haskell-wl-pprint-annotated"
+  ]
+}

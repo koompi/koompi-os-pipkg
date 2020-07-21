@@ -1,0 +1,23 @@
+{
+  "FILENAME": "hm-16.20-1-x86_64.pkg.tar.xz",
+  "NAME": "hm",
+  "BASE": "hm",
+  "VERSION": "16.20-1",
+  "DESC": "HEVC Test Model - the reference software for HEVC",
+  "CSIZE": "1350040",
+  "ISIZE": "7773184",
+  "MD5SUM": "17f9aaa41e5199d2a50d850080e0156a",
+  "SHA256SUM": "2c9b9bb052369edf6e4503dc0c9c3faf10995af28694eeb44b6a16f7dcc1e6db",
+  "PGPSIG": "iQEzBAABCAAdFiEEP/pqt7aarmzKJj3eAZp0dCl9hXcFAl2Tmh0ACgkQAZp0dCl9hXdbvgf/YRgK2F2+82G4q8BfONBrozvelTiEiFMr9LeFDZz/Ftbr0Q+rdyy1WlKNFRB0i8eyKEym5LTO4Ld+eRadiimEtpyPuQA7/AAnrwigRltv+4aD9yPnw7XkjWrVWc1tQAKyDCFR1FzEcscUsVNE8eE9W9KgOUmHetjGVa+KmA06nDaBwlfxL0FE3/qSw5KxMzw0x2WIDiJM8HptQWXrtree1tCSnwPSUdrzlSnnmNbzGBoUf57hBmEiUXpupIbXY/YmcpFNHW/Snb+nI8af7QjzPqZUlnlbUqQubga7pePQd450aJxg0qtUXv1omyWQzEyRoZNv3wvpfaQdYFp0n+waqQ==",
+  "URL": "https://hevc.hhi.fraunhofer.de/",
+  "LICENSE": "BSD",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1569953466",
+  "PACKAGER": "Daniel Bermond < gmail-com: danielbermond >",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "gcc-libs"
+  ]
+}

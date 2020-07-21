@@ -1,0 +1,24 @@
+{
+  "FILENAME": "haskell-microlens-ghc-0.4.12-4-x86_64.pkg.tar.zst",
+  "NAME": "haskell-microlens-ghc",
+  "BASE": "haskell-microlens-ghc",
+  "VERSION": "0.4.12-4",
+  "DESC": "microlens + array, bytestring, containers, transformers",
+  "CSIZE": "43704",
+  "ISIZE": "186567",
+  "MD5SUM": "e945a242b1be410e422587ce8709a1b4",
+  "SHA256SUM": "9334eb78f2fa09176faf52f3df9e30f1cbabdfba0f6607ca60f626817cc786a3",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl6hhhMACgkQeGxj8zDXy5L98w//ZNOIfJx57iKDM0NEM6WOVmJIXoRP3MI3/pERsQIuZHs3nYrQkOmlhIfQLW1fr7o7MN3u0g0eFtP27d5meN+naKaF8evZ7HSeGFTbksvylLdlWcz/+I9EUHA3lfzt0uKs84Fcw2uF9E7gi/880sV+PGY4WTkNLC7ym74bKKOc56sjID5zfh1IPYbyA7zvAisDoIzi11BXw04/gKnpnjycp2zrXYf8NUR5pPAjIaXt1EtAcZH9ByHHS/2503D4oVZ9hk6ZvX0qt0a6B9XcZScJ2Xz0cvHxFzvp46CE1hJIN7Rqo2FYvfUpcxtDXDKHyaLS2FjYRWEHchW/XcqUsQxV2r4u9NaIoktt1ThfD1vEu/YNRRV8cRVvImiNSpmIoP8AOmjtULnKzZAShtWJNfpTgq0/fio4b84QBpMNkaExiycYKbpjukYEvR5JeEGekeXHjvn8Y0d2feMABopMqkYYtMuKbgb6+dbJjsGPLhbQbe/XjuL0pY3kvb+ZC4zdHRkWbCqBu6sJbO9bKwnQhEhSTl0Nj2Ap/xLrqeG58gwc+cobd8i4F1/jmK3xwj12gigp+z8UzXrGnBnraPo/nSS9VKZT14Hv0sSHeZhc58BRMkZ5kECeYf/ZGXDgQzKQf+BtcREPG47igNk/YN8y5fKY0XOo+a6QnkqT4hVLwzgyf1I=",
+  "URL": "https://github.com/monadfix/microlens",
+  "LICENSE": "BSD",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1587643837",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "ghc-libs",
+    "haskell-microlens"
+  ]
+}

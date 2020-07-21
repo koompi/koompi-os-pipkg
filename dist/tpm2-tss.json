@@ -1,0 +1,31 @@
+{
+  "FILENAME": "tpm2-tss-2.4.1-1-x86_64.pkg.tar.zst",
+  "NAME": "tpm2-tss",
+  "BASE": "tpm2-tss",
+  "VERSION": "2.4.1-1",
+  "DESC": "Implementation of the TCG Trusted Platform Module 2.0 Software Stack (TSS2)",
+  "CSIZE": "798785",
+  "ISIZE": "2640312",
+  "MD5SUM": "b5f9bd3b23158ad6f3345684247ba12f",
+  "SHA256SUM": "51774f4c031520c7c9e7a1715c45924421e5dd36f7cafb46bf53df729651bf91",
+  "PGPSIG": "iQIzBAABCgAdFiEE0ZGnjxiB84R1PJZ+aGsGOsS8DskFAl67LaAACgkQaGsGOsS8Dsl+ZxAAoZ4bYBYS8rG/iyQWBbHb1W6p0hzhSbxO5tLru685m90niHc8IVnTMvpa6Km/DoYyfeeMFvbp8kLd2G8Y6gZxQzhtx7FR4RA/7d1Th6k1qgSNMRlTbenBC71yFrSiXxEdsxA+kwI1v88j+diyqBWg/Cq6pkQr3+2l6pTKe2MBMSrH/ylb1x/0jbSaxnx1e8arrv9cqEW7AyT47rUTydOXZyRMMa2JEluSbDtn/WgcpEg37SRgiFS4HfsRL0lv96KiXrKttDUr+eQ95/wnQo4+wkhdO7z3y/WobH2GcbI9OrYPDo4Bd7+ZIL/ZFwUQ/zhFP2pGtFXurNnhMw95IRkbxhJGaC3A1a+q4ARRtSZU0LQCTdsM+aE6NCJ5P3nxjpUytblbYOA+4pzk+UITf3+vFZA16dsreDGvQVc6PtNndITl7xKCU7RkrmlGlAy9Bi3donb1I7N6jBbzd012igztIKvgXq8G6lrqLNGVzlMhYYOMCjYnUoFHxiqfv0WfTZgi2CHYNMOWRiyMvo2BVli8M7lZPGXaVwBIG5EoFc+diBtcRza5ZlhD5v+cF5caUUrHi9eIX8t4yp2HWe/4oKVZLpqWPK/C1oUhqQfO/9dhBsMCZv6Ivv5ArUTKJO+My/Y3KeMFw09A6IzsebGDv4XfJOGaDNgN3CqUlI34G6KEhME=",
+  "URL": "https://github.com/tpm2-software/tpm2-tss",
+  "LICENSE": "BSD",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1589324906",
+  "PACKAGER": "Jonas Witschel <diabonas@archlinux.org>",
+  "PROVIDES": [
+    "libtss2-esys.so=0-64",
+    "libtss2-fapi.so=0-64",
+    "libtss2-mu.so=0-64",
+    "libtss2-rc.so=0-64",
+    "libtss2-sys.so=0-64",
+    "libtss2-tctildr.so=0-64"
+  ],
+  "DEPENDS": [
+    "curl",
+    "json-c",
+    "openssl",
+    "libjson-c.so=5-64"
+  ]
+}

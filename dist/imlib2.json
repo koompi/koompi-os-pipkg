@@ -1,0 +1,31 @@
+{
+  "FILENAME": "imlib2-1.6.1-2-x86_64.pkg.tar.zst",
+  "NAME": "imlib2",
+  "BASE": "imlib2",
+  "VERSION": "1.6.1-2",
+  "DESC": "Library that does image file loading and saving as well as rendering, manipulation, arbitrary polygon support",
+  "CSIZE": "551234",
+  "ISIZE": "1306883",
+  "MD5SUM": "5d4790a3268b2b327e91473b7d89cfb6",
+  "SHA256SUM": "ff4ef1f8808bba280f01bde74a66b2c0b48a57bb1efab1051405baf615a9a54e",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl6/rZUACgkQeGxj8zDXy5IjwQ//SbK2ZL4laAC4lZhXX6IXHOxdPsAnWBrqTDqITF4IbFlizRCQPniByZY5JVFpQNTjOr0aQ+XFyj7tXUR5IqP6GyEs4GUIuUba2CoNjKH94ksP3UTFtlzKC7lAgbX2nvjXpGr46R3T1WXKXaSwGgkPqmJq5clFoAdXxwFT+HQzaE6bVtVF0FBGxE8Lcvm4AwFZgYMyBsSGPneHlXhf/NhhhuYVL1tI8KBQwUQEy26F/A0SJJSZy89181T+uEr7Mxq5YjRCUP9oLMSif1J32Fdaxv+dnZINDX+f8OSS4IAtOYmnhdOoI8fqHOXOBgWOM5yQMkm5T4xa0605xRQNRVPvVY+d9LwN3jhhiQT3FBaR6Hld2vzBFg8am7W8oOok+3TtYQsm3uBm6NyKtBmo/7shq1+gOgBQqzg8veYiQe78RDhj49tg4EjqTMUqmPH52hZu7u6WMuwdNz6V8YdCMUv5uxln4FV1mmX8FvPWeJDpnxTRPcJeF1jJzAfAuSzteLNTL4fvpMgzfRAvUmO2f3S8JQZpaXrWm55Iuebj7gmlsmbgq3hqkdIxS0/kP+CEMr4u14vgbiaG0xAdrZdSDc8okEAJ6K6ZQQD1j+ueI2uy93rDoNTjGhmK/OwXklD9tXjqsVYh8o/00t4ODYcPR5Aal3yEZ1sR7h9kUaFMq4cw11o=",
+  "URL": "https://sourceforge.net/projects/enlightenment/",
+  "LICENSE": "BSD",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1589620063",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "libtiff",
+    "giflib",
+    "bzip2",
+    "freetype2",
+    "libxext",
+    "libpng",
+    "libid3tag",
+    "libjpeg-turbo",
+    "libwebp"
+  ]
+}

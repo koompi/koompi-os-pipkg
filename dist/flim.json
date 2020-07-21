@@ -1,0 +1,24 @@
+{
+  "FILENAME": "flim-1.14.9-8-any.pkg.tar.zst",
+  "NAME": "flim",
+  "BASE": "flim",
+  "VERSION": "1.14.9-8",
+  "DESC": "A library to provide basic features about message representation or encoding.",
+  "CSIZE": "159330",
+  "ISIZE": "1067098",
+  "MD5SUM": "ea3fa883f23411f46f5b4233aadff191",
+  "SHA256SUM": "df544dc66613d717a019e10aa456aae9f7afa7b8543483f47b3a7748cdef437e",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl8EnxoACgkQeGxj8zDXy5LF5Q//Y6RmbnjDq8/yLSYGy7fv+ptmgtutAPZ6QZODs/IJ5XNbKQRl1Av4Zb9LxDfMFFWjvMv2o7IaZoMEQhHvPy5b2TSAkguULXShdFvJeCtqCFMHsd6zlMIpvBF2H9CKPOi0xhhQih1bb87a3NsEKI0IxPAzNi2nQpW0YeqCLO0eXhjRlGw6Gr60fIrKg8/xaIxBFXT2SYLCE1sMMMfA80SA28P1hZ7OpeW42KfkIEtX2w7npSThqs+2afktBXYNFCdKjrVjYMdkOqkSGy+APvkxZPuliFdsPww3DitpzXV+H3kZnXQ8i+FIEPOGxsRSuJJCYXymP0psCZ0GDD4HRmiqhdmZuDI/lo2UwWBI2TqkpJPyJ7w3zWoG0LOHMURzL+0Dj65l50+4VNhJmb9b9NvTKOb2OQWZ2JO/lhYaUAMRRoJtYf8LKbBrK+hJhNgtDIGdinBCJTh/na9JizWAD7gs7bBnvmVwbzaIQ1OOcuj6ZrqpMjZBkVxeQt34CPQiFoPBfXz36uFZnpOBjR1v3BIaCZ1E4fhdKFfq6f3lM3wGaVKBlx5bptOUoHLMUb4DDp8JZ0NcZRv1VXRjBMKph8yt18rmMuDMA7T0Lw+vXqmbTtDVYCDOW5Uq/ixm2bZfVX4oLGOt1VUZUpaaLevWe6eJuj/JZk/SiSxsuC1FlVXgSgU=",
+  "URL": "https://github.com/wanderlust/flim",
+  "LICENSE": "GPL",
+  "ARCH": "any",
+  "BUILDDATE": "1594138317",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "emacs",
+    "emacs-apel>=10.7"
+  ]
+}

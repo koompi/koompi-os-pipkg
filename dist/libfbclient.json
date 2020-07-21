@@ -1,0 +1,24 @@
+{
+  "FILENAME": "libfbclient-3.0.4.33054-2-x86_64.pkg.tar.zst",
+  "NAME": "libfbclient",
+  "BASE": "libfbclient",
+  "VERSION": "3.0.4.33054-2",
+  "DESC": "Client library for Firebird",
+  "CSIZE": "732994",
+  "ISIZE": "3378451",
+  "MD5SUM": "d93a67fe4f06f53563c31d054f6f0820",
+  "SHA256SUM": "ab1499e8f195880f753fd7cfb1f81d6fb09482a399b57023bebad91a1f8d7f78",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl6/x8sACgkQeGxj8zDXy5JUrBAArMN9vtNiY8riBQAXwx2cDrUmJzrtcgzC8T4ZPVVWAsjnbszWctn9V54bQV4Zh8JI2VY/0qBPsxxQyQo4hUNEGzZuiJWajW6bwclH9mcDHz1mKAVSsqL6Dd2YP2Z/rmgd+xHGJIRQjCfWQAIxeuE0z67iUBSxpnUdCDVOZdfFlwjSksZxYhDdvJvs4RiPwNWbx2fj8x1nKsLEQvBreLgQm7TD+Brv7wPfhvkx2PoyUvAJtOCLFegqSijSMGcjh5HBLNUdTRObA48EnwbUdlzlkZ0SG2VjXINo1JXEeb1IfrYFOVTE7ioIEXNE6OkGaG+E6z7M+JyRu73RmhHstUcm9j6KXGzTwHEsV9pBr/kwfhgW87luLC8s4CJYPMqTDQvm5g/Dn0ANUXa1rQOncgmcBOZU2AfibLkVZGay61L7qZRVhRcxKkE55Xe6vDotvizaaT2RnOciVOHF8l2A6pCv21MQNebdHf8Qzke6loorIOx1Pd5cMtDocJSom8a1112EqI/jH0PvUHk3lVqSH7uPalN3DHV052RtaNWkgKHjZ3CaSo2Ma+41hUXufvOZBuJqQqTpZzlaI7hVHHUgMGA16IL/1axLnvyrkbcpJHjTFWAIaj6uwehEVW6STYodqIe2NNaZskhRpd6NL6Y2G3T9cFZlu5vgyo1u6Q3+4XwkmIw=",
+  "URL": "https://www.firebirdsql.org/",
+  "LICENSE": "custom",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1589626596",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "gcc-libs",
+    "libtommath"
+  ]
+}

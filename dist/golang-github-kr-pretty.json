@@ -1,0 +1,24 @@
+{
+  "FILENAME": "golang-github-kr-pretty-0.2.0-2-any.pkg.tar.zst",
+  "NAME": "golang-github-kr-pretty",
+  "BASE": "golang-github-kr-pretty",
+  "VERSION": "0.2.0-2",
+  "DESC": "Pretty printing for Go values",
+  "CSIZE": "11277",
+  "ISIZE": "33008",
+  "MD5SUM": "b33a651ada800dbe571cb4fddfc84fa6",
+  "SHA256SUM": "28af34c2a7b37d503ee33bf534bb99466e3f8696e6ce4999121f46ecb4ebb0f0",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl71orAACgkQeGxj8zDXy5Jd2A/8C94l5m7nmkbQ9KaVmwUloYIoErw7YHJWIhpMKc4qiHLGflaAkUfW4OyYODbJ89tyF7YCuFkjyi2JvCkDxurr9PImdknhQ6ci89KvZdkxYCkprSu8TJSW84vnpgBjo9EhMQqoIthsgT9h0gQ9CFgc8hj1X0T6fXp2n0EETbfjYi2a+Y4Aat9uMxSWPpTUY74qOps4E0y66mxIiwDSo1ppDizkzAwaa28HmUNyUeTXovC0f70hZfu7jvlu4nMgS7cmCvueKBInKNBeAdlgmB8kuQLH2Cp7VqCrrGSqZUMGF54Ejq2brY2i8aDwkUO2a1eZ944TyW2x9oJ8Ye32Khpi6Ducl3VrKwH4wJ2jT+L07q+rvrAWSDi09UgZLKcelI95vhvkkVp0Xzn4dJXuzVK4EmrPwuRRdiFu7fBm59AINIfCKU86BjJj1mprr4/hFpYXXyU1Mg8aAG9COxTeul3ZN+4Jez70lBFItzdryqLt05Mfg+6wY6CRAJ6J0bKtPDaGPVNxpuHAWKjJbJQqZzhFw2cAGByEkkFFdn6xgzQbu2QSJAgsio0ypRhrPzbqlRNY9nDfXT9zxhxRcgiKxmeDbQEhCV0zIHJ403kMosaGhWIv1+gIuTYCPVS1XQx+OU4lxtywiw5vNVEoiUjS8+BJHr3XMTfE5wi2xfS9oW9Svpo=",
+  "URL": "https://github.com/kr/pretty",
+  "LICENSE": "MIT",
+  "ARCH": "any",
+  "BUILDDATE": "1593156244",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "go",
+    "golang-github-kr-text"
+  ]
+}

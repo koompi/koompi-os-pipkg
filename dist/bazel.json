@@ -1,0 +1,26 @@
+{
+  "FILENAME": "bazel-3.3.0-1-x86_64.pkg.tar.zst",
+  "NAME": "bazel",
+  "BASE": "bazel",
+  "VERSION": "3.3.0-1",
+  "DESC": "Correct, reproducible, and fast builds for everyone",
+  "CSIZE": "69856286",
+  "ISIZE": "108463980",
+  "MD5SUM": "ee49b8f1961325b207f1c05bddd3f4e4",
+  "SHA256SUM": "2cef5e0c0464fcd251d824d5b23736aba4ee05e1a30ed92715a6a4f5dc7d0bed",
+  "PGPSIG": "iQIzBAABCAAdFiEEj8FaBklQqZ3RvRTdOeS4d+YuuRUFAl7uqAMACgkQOeS4d+YuuRW8dg/9F1B6gCz+2ed9eJ6zzzugAGTghjsrx0GSssc1VwwEpOewh9GlyFIVZDClnw5UNMoo+sXBEk8u7mWTL30N5e7naiGeXsOjWvoZXSMJCXNyEr68UHNpCHCMxjojIK0utkE3R9P+DooOlw6DTz5mclt8aR4Y+dk62671D/Wmd4ID/1Y+MFvV/Vo3I5fbMb7Wu8nHrW0903jI2LBgc1Qqm3gcEJekR024VyRHeUiMzAMdHhxPOsjkRY2oAIF6DaIhwhOClfgjROIIclXpub61XXO7+7K6AZkiBjr3WCW1ohsLDYS4lpbOP5RUsAwQneBQlfoylXboWWva4URImJdZwy/VE5ZAYqvE/5QyRLYnavYkChPeLUzlhn719A1mfQTBEY4Eqs9Wk6hWkznQYo7CsIijh078QW6meGZgapGj8RyWe6JnHk5pteMLUTTjNG5eMsD7oVOZaL8py33v2H3f/XljdKv1ZoI5we5qA9Xz8fVbhPzLqfBDrr2gdQ1d4sN9j47N+QnZt2Ejr29atUXHDl8UrOiZs6EzWMvCLZY8Wl1OiiTPlie+qOt2UMehRm52fUNpIUdHiIGxQCFw8wMEtX9wSLDrT7wfve11KVFL/FRK/iHnRcN9DsTbYUc5RMJwuabKoMJN1yc1zHFxQuR4jVlkhzmueKY/zdSx7FNuG5mPUaY=",
+  "URL": "https://bazel.build/",
+  "LICENSE": "Apache",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1592698605",
+  "PACKAGER": "Sven-Hendrik Haase <svenstaro@gmail.com>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "java-environment=11",
+    "libarchive",
+    "zip",
+    "unzip"
+  ]
+}

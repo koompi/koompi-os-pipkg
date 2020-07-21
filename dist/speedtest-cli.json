@@ -1,0 +1,23 @@
+{
+  "FILENAME": "speedtest-cli-2.1.2-2-any.pkg.tar.xz",
+  "NAME": "speedtest-cli",
+  "BASE": "speedtest-cli",
+  "VERSION": "2.1.2-2",
+  "DESC": "Command line interface for testing internet bandwidth using speedtest.net",
+  "CSIZE": "42620",
+  "ISIZE": "188915",
+  "MD5SUM": "f2bf1919fe37942d9df4d17a5b8f3172",
+  "SHA256SUM": "792ac9b429b30166c15fdb617a452c0c0bd728380db8d173ed3f932a766a60ed",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl2/uYYACgkQeGxj8zDXy5LheBAAwCucumGwv/uVLt7PGX8GQR8bofoZ6jW7VaYb+q3CkdhTnsyjGdq5SwEnus86aRE9IEubKTjs2PfOdU4Jcp6D7u0oeo8XAx+YBNQ8b3AmIvx3lFqgZ1qGDC94d18YtSla4Pkt1ljLcilnq05aj5IjosLR/LWsIIDsZlkTcUAz3kE4OJl8se/KqQRFX6Hb2HANzgQ0ebQefuT52zufUF7PtbmHZATwAOvUa3cnpWiaHNjZNNgqIMRbpXV6j4UE1znURuqOoZZtYHJ1bMZsZPMX/2AxNcCKaHKL/nT0K8te/emMhGrYdEDxOOvw3MBhQ5TYsqWwNaLbhBV+rTW351jOHbzHTAHCCj6kJGY82vLoTYSUwlPFW0ffPTaUyMjMbGvGJf0EIEqhpEKWs6XgJoxXCwK/OHNHFW+qKG3HpEukrq7wzVZl6wTTZ1dDbvlcTSHuSbHaHf119vmmfVNCl+1NTjGt8yP0iyY+4XHjTFtKxfpXc25ESBUfAEaoA/8VXQ4kFIPGmATqPUXoKIAFUgzwqL6lwwc445lZIHCVQDD1jaMv8EldWJCAbB3G1VMEezSTVSLKc76Zea0WmJHEpF3+tSuaTUrrPk5gBSXUZsojpw+s3lD0jFu10LvTdSSJ1wNf4BfKrIN2BLmchhR3wd3eesuMgoVobbljDMnx83E4EhQ=",
+  "URL": "https://github.com/sivel/speedtest-cli",
+  "LICENSE": "Apache",
+  "ARCH": "any",
+  "BUILDDATE": "1572845930",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "python-setuptools"
+  ]
+}

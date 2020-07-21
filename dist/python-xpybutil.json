@@ -1,0 +1,23 @@
+{
+  "FILENAME": "python-xpybutil-0.0.6-2-any.pkg.tar.xz",
+  "NAME": "python-xpybutil",
+  "BASE": "python-xpybutil",
+  "VERSION": "0.0.6-2",
+  "DESC": "An incomplete xcb-util port plus some extras",
+  "CSIZE": "80968",
+  "ISIZE": "607293",
+  "MD5SUM": "7fb45cf01e4e22ec1d3d7b26d64b1d87",
+  "SHA256SUM": "62187acd12274e63859d746480b48dcfa9b148e20f7876cafceeb941201eecf9",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl2/mcAACgkQeGxj8zDXy5IBsQ/+NNPV/DmzQpw65JcTvUFtP847jw+2xZnHMYspPMene6ELJmZQk7EFNpRezfcwI3GtmveM20WSQDDwGms6INtiHE4p0P3r+gWoeY8UL4QVvxhT8sKqUVkuM66eqBPs5AM4UDE+0wvzEIEiyNkiIDOQKWUJD35OujcuRuHnQ9f9I4KG9yWSAwOQHEEKSIpjeyyLiGhOhic0v6Jr7TyBqnyEBi+LcqjHdOEfuNpWXoI7CsiFx4abwuCAoL7c7oHSf57M2dCt/5z8XYQSXC0eJYidGmpf59M4POilajdtlla64eqNu9+H71I63JKOszv34P2xRwNECw3FoZH2gmU0URdy435qcgPUWiB+15nn3XPUIiQHB10moZjssvFEZSQQhuiDF/NjLV5UNlGfDyuIj5TVwPFGPP/XQQ2TBxv3QLt/fR6y0OqTIUpsX3nQn64vnz8Cm0YFSwxA/3ncpUt1Ec8DaqVF7+Zfwhp5uzUs1+x0BxtmgQvsgKI9en4FcCZX5lMYAbOn7+f814EyWyIcIzA2Op1fSGrhlnnKzdsd+PUR+JN7PSPk964kr1QWj1hr32Czd5DJV7N295eoIjmtOKmKUpkQM5SDuR0FA0GKXb3uIkkWzWsN+rdlZxwK94x39yHzwRd4iq/9Mdr6bYnFPHdLa+0VP33sRBinLFB8nKb+gpw=",
+  "URL": "https://github.com/BurntSushi/xpybutil",
+  "LICENSE": "custom:WTFPL",
+  "ARCH": "any",
+  "BUILDDATE": "1572837796",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "python-xcffib"
+  ]
+}

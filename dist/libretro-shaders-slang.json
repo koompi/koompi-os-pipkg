@@ -1,0 +1,23 @@
+{
+  "FILENAME": "libretro-shaders-slang-749-1-any.pkg.tar.zst",
+  "NAME": "libretro-shaders-slang",
+  "BASE": "libretro-shaders-slang",
+  "VERSION": "749-1",
+  "DESC": "Collection of shaders for libretro",
+  "CSIZE": "35692888",
+  "ISIZE": "43179739",
+  "MD5SUM": "36ceb9fba779f0b6ac2b932428447d66",
+  "SHA256SUM": "5fa6f2830092b86e0b3f98fe29a51c871642dd2e9e4269f58932902781d61a12",
+  "PGPSIG": "iQEzBAABCAAdFiEElDfdOBWnqRaePTlGr/XZUJi8b/UFAl7/b9UACgkQr/XZUJi8b/U9oQf/cr0dK7T3719+KD1/RluEbl/u5alrJOS3/d6IDwRbWRdnKz3hwTTqyCLQ2TzHD9KPxafd9PGs/58YZOdypKGtyVDPiNfkPhLvlei/qZXOJ604jlaNZmwgd0GMbfofmTLjwbCuvqp2fMZ/OmJNvYnz+BeLvrujhpF5bSYxmIrG/1U0Tq2aUlJ3kSLklIRpUTGJr8uprgOXfUBaArAVgb4SBtWAWlVe216Y3q4RPlqQIGTVLqkSfJvDchjSamehgw8QYMoP+y25p8gvGnh3gCSuOtGPs8TMqIc8enhxCx6amgAj58Q0TTfVObSSKXDZ2vLsCmeG/WVl9AF+qpf05hDEqA==",
+  "URL": "https://www.libretro.com/",
+  "LICENSE": "GPL3",
+  "ARCH": "any",
+  "BUILDDATE": "1593798556",
+  "PACKAGER": "Maxime Gauduin <alucryd@archlinux.org>",
+  "PROVIDES": [
+    "libretro-shaders"
+  ],
+  "DEPENDS": [
+    ""
+  ]
+}

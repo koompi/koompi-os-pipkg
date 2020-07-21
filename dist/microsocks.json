@@ -1,0 +1,23 @@
+{
+  "FILENAME": "microsocks-1.0.1-1-x86_64.pkg.tar.zst",
+  "NAME": "microsocks",
+  "BASE": "microsocks",
+  "VERSION": "1.0.1-1",
+  "DESC": "Tiny, portable SOCKS5 server with very moderate resource usage",
+  "CSIZE": "9221",
+  "ISIZE": "23538",
+  "MD5SUM": "c6e549a4abd3cf7bbccd09b506e35f68",
+  "SHA256SUM": "64c2d0499ec34442f94bdac4cb94b3a8e7732069d528675c79d95161d2a583da",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl74iO0ACgkQeGxj8zDXy5ImAg/+K02iMaJ3mPozQkWFhAK9XI/+mvqsF0GOfX056Kat6qWLdKyztan+gRuY/uHD7NhPrDKXuleHF2wxS/K/f8nVy4pp5B6IdPLXHH18AKrshuFTvbWrAl6p+VCR4cz66hCd29BTCWGG6z7bOyVWpdO3LjZWbkMcrmUN2GdekTD6CF7HKWsApR0iYB01qibnwsC1Xa2P7dKsRD0MUsjvMtPUirUTn257y6FocXBZ/hg7rz8CH3JmnGN1OaxQZE4L34XNd/VVGnZpzynJCut1Vr4oVMJtPlbD/op/ZMipLlNJQzzJEh8uR+YFnbGYSWjYNFKIesqa4MezZ2971r6Fa8AL/nGb7t/4pWky8vJuIDkXIItm9xKg0cqht9PD+EaNqWmdO+lQOgUyYslg0xjb9HliB/t9HZOK6vyGGUYkQ9RX02gT8yUd+0C/ZIrVDH4CROj9flGlHsieg7iKlYv5GP/ozycJ2ilGtIBs2o4V5kg3ogqdeUQBJliR+cBan3k+qdgSqrWom2Z+nOkD7kMODmWhYMF1NJJvM+EzFdNeKsfCquZlUqn9fT7b9TcIFxY8XE9P8qStlV0PBDiXlNoygKlq5F2Sr3a4OT5ShhG4SufPJN54FtF3NHKyspJnGo4WQw7wnRnb4DSfCVNyG+DI9m12Sh/TCgIGFzOAwNSP3A2xnBo=",
+  "URL": "https://github.com/rofl0r/microsocks",
+  "LICENSE": "MIT",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1593346244",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "glibc"
+  ]
+}

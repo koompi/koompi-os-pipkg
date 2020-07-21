@@ -1,0 +1,23 @@
+{
+  "FILENAME": "pageedit-1.2.0-2-x86_64.pkg.tar.zst",
+  "NAME": "pageedit",
+  "BASE": "pageedit",
+  "VERSION": "1.2.0-2",
+  "DESC": "Simple Single Page XHTML Visual Editor, split from Sigil's BookView",
+  "CSIZE": "545965",
+  "ISIZE": "1834612",
+  "MD5SUM": "41c76d38c0c07226098c5fc4f4503869",
+  "SHA256SUM": "3c39b9169dd935b7da634ace0c62e01ae2d9efd5f15708c2e2105ab78f351ec4",
+  "PGPSIG": "iQIzBAABCgAdFiEEYEETBMCdNmKDQO7/zrFn77VyK9YFAl7ccbQACgkQzrFn77VyK9ZyxQ//Vy+pO4cf6cAWoLefbt9PqWD1InRrTq0V3fmnmqbarsIRAIrMOXqTYtvp4HYU3bw+nMgqk2JQG1CggjSH1atdsInXsTuGHAAo4EMU5CeRrClBpW0iNCZxCABri/desb55AhbbWBfX3OMb8RKpPP2AhbRULCMAQzXwiGdcNzI3WpEaJgQubvbxDas3JShLxQXVBB1NDk8bAS92Qv4xAv4Ywdp1oPeM7IZv1PJAde7UOS432iNrKeuguU5GfsugZatqWvRJWp6rAxVF1vll3U0wDjDwvPJ6yIuW7HjadkL+zJsuFrTnR4feQrC2O45x0vR3vOZ0CRmYRNNJjoFExTQcIWks0qrwJo8BRcDY8QppyBsS+Fiy9v60OKP6mJzosfEz7PwC+Uqrz1xL6PChhPsfcVgsPd/6yC2lzpp/OgjKHct3+z1i2MR1MrCN2U296gtqaE9F/bz4Kg3Z7GDo7pjNRWZ8Unbn8t9pFIQjMIEuPP+uICdQLzhq4z8nfovwZI93qhg1aXu4vawc4NvZ/h6Xv2mbMwG/U3n9rR9SLSJIeZgxBIyPahtH7/sVT9CYFNXcNA5qj74UWXuV1yo31PE/oLMbso57PR0hoziGW1v/RyKDlajBaqRA4TbVHLWsc2LTXFQLJlTnaNONEyd1jbkNIY/dLZI/LtK3gU6HZkBYc1A=",
+  "URL": "https://github.com/Sigil-Ebook/PageEdit",
+  "LICENSE": "GPL3",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1591501922",
+  "PACKAGER": "Eli Schwartz <eschwartz@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "qt5-webengine"
+  ]
+}

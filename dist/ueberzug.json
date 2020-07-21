@@ -1,0 +1,29 @@
+{
+  "FILENAME": "ueberzug-18.1.6-2-any.pkg.tar.zst",
+  "NAME": "ueberzug",
+  "BASE": "ueberzug",
+  "VERSION": "18.1.6-2",
+  "DESC": "Command line util which allows to display images in combination with X11",
+  "CSIZE": "65879",
+  "ISIZE": "325145",
+  "MD5SUM": "238d8fdb36262fa729f07bc616badb9f",
+  "SHA256SUM": "dde71aa8e5852cc5778459c61d36d894930c5922c20f74e7cc0c82b1d9c26df0",
+  "PGPSIG": "iQIzBAABCgAdFiEEBNw/sURf7KgTwn766k97MhqQatkFAl8CoPMACgkQ6k97MhqQatmrzg//Qgdn8+pTI/U0GPJy3nvuXocvvlEtsUMzYKlWBnK8OnIV1jU0dW2W4UDi6HKAVF8wDPn/03C2AtIwFrl4RleM+J9WKPi1JiT1vkfzG8b0xupYJP5xMkA5LEfURHOUTdY093JMH6IpaO8aTr7U8ShuvVHatU4uqDjpl9/Dhk2GBo9OcHQ2HwUhofRKnGUEcMev+huUtSvzUATMSTAOV7IYTHA8YOlcKBjeE224QIFkwWa11wj+p3hTL5SpNGLxS3W9zGGh5n3qxRd+oQ4ku7EayN7+DXmU34MLVPi7j/tHQCtLHGtlCI50e4UycdvJtESW/dNHnIFQLDwK18AjNOhRhOsAoT7jaOIYoA1mIrqUu2mRfH3eC8EYYhThiJ25yW+3CsQVMvWZgjhyeBjxvXHbk+I5n70mIVzBxN6JBmnaX+FsAgY3gJBkqQ8IQA6kcw9aBHKY4nmmZkbVJs4m8EdHXq6kD0U2yiChPxd7cS9Xw3Lfonw8xh7dzFQLTNH6vm18zTxOHHs8TevzEeUquUBhZBqzRPy/nI1DUQxZ2rJfZy8Ippu2IeQjYIDXGFEIdTUtNxxRrMAC+xKVnXBTFNdOVlAhvlkfvsRbF1ozdyuMu1hDmwjF6F+RycEOONdIfQoKqgFXMOCJzyDMAdPVD6wEM0IRFiSy59wl6vqibBTUDw0=",
+  "URL": "https://github.com/seebye/ueberzug",
+  "LICENSE": "GPL3",
+  "ARCH": "any",
+  "BUILDDATE": "1594007727",
+  "PACKAGER": "Daniel M. Capella <polyzen@archlinux.org>",
+  "PROVIDES": [
+    "python-ueberzug"
+  ],
+  "DEPENDS": [
+    "libxext",
+    "python-attrs",
+    "python-docopt",
+    "python-pillow",
+    "python-psutil",
+    "python-setuptools",
+    "python-xlib"
+  ]
+}

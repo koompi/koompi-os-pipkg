@@ -1,0 +1,25 @@
+{
+  "FILENAME": "lib32-faudio-20.07-1-x86_64.pkg.tar.zst",
+  "NAME": "lib32-faudio",
+  "BASE": "lib32-faudio",
+  "VERSION": "20.07-1",
+  "DESC": "XAudio2 reimplementation",
+  "CSIZE": "109437",
+  "ISIZE": "264426",
+  "MD5SUM": "aa181c472ecd6467597e0bc3b0b6dee2",
+  "SHA256SUM": "5595561c7434e06ef8711a2dec315ce66c37c25bae014b0f8e8229e3b5757e65",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl798v0ACgkQeGxj8zDXy5IHMQ//fYvNpHu0hwQnH/7/nzlrvtQhpywUOOwUdshMlOyHlXrYc5xxMwNWPnDcLrVt7QIdFWdiJVfaHlW/w31IMiNw3is0Kacka7Dsak+8ckSIEUDN9Q4qODhOh0HNJo5N1u5aqKFB9DkF5WLFSjRcoXKh9lP/q1hShHK/lzO8zfcumeJ/RbyTZBx88rrhGj54ay/vZlpnyHiNwt7OOwjdyyvV/kJYp3Fz33TgUlta+KdhMnQHy3qQA4feDNz7j9dy7TKSmQf7bykROark7uQFw0rGfCfZLU7KLOSpZHMjhr7szropxgWTPXXEG5rfYVQSkv7mve18yCm82qCDks2Z3WJYgnx9C8QhVu+MJqkwHgQlt+VcKlfuz9E5LWLSQi2R5i7JCjgme4rJh2RIMkaWoGfTxlTAtdbklf5a0nPSP6uHKc/cf1vWn6L7cc4w494TrkVbdBMzYgEraYDFiQumKZIGANA91FfO6OvAOr5QInzZHc39UpOdaznnnhNuwD5xPJ6+tY/FYP2zCy3cJ9t4BkmZrKYH5N//E/casANtnND0bzZWlzTbzMVCdhaHMOb2rMwcHYo5DLrqTgIaGPjLdF9qQ1HdV/yQ8IsSzOOk+fEmb39tQ7BaxT+X39YCFbfzn77XlTjhxUc5aVoHyccaS7fi3Xf5XGJyPMuCh0DXFPYsAEI=",
+  "URL": "https://github.com/FNA-XNA/FAudio/",
+  "LICENSE": "custom:zlib",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1593700196",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "lib32-dbus",
+    "lib32-sdl2",
+    "faudio"
+  ]
+}

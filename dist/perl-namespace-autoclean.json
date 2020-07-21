@@ -1,0 +1,25 @@
+{
+  "FILENAME": "perl-namespace-autoclean-0.29-2-any.pkg.tar.zst",
+  "NAME": "perl-namespace-autoclean",
+  "BASE": "perl-namespace-autoclean",
+  "VERSION": "0.29-2",
+  "DESC": "Keep imports out of your namespace",
+  "CSIZE": "9977",
+  "ISIZE": "15425",
+  "MD5SUM": "6cc8cd95e1515bdc11b2ea354335d336",
+  "SHA256SUM": "0822417b8be4a474698396bcf34f52c9fec855bc1c879301ba36d299bd589832",
+  "PGPSIG": "iQEzBAABCAAdFiEEhs/8qRjPOvRxR1iAUeixSKmZnDQFAl7vgQsACgkQUeixSKmZnDRjSAgAuLxawjAv8/UPkFskxOdCDKGYEnUvWa+JiKDrOpp5O+tEaS1fchlMfb2EnxhGjTvJ2WRmGjxt3qbcoulK+EUnWh5oA0LxzBZs3LmzT3OdtfXuXCJ6jEA6MJ/ZBJO31UIPRTe0ZFz9L1lZv9g7fhuyd7ZM0JgIhwYxPrRDKtJOHWOCyPuZVaefrifFbZUtzxbPMMnghOWrAYVJHk1hqcX3T7Tsn6ukpj4fd/mJLQi7WHAwmrU5qEgl0npeTMtOdbVHYUo7+58GtRxM2sBUQ7nnWSrMC7T02d3RHwcJ0u36/ujt3VVF9JJBGOkBR3vX2BxKDIA4Jk7/mfuDbopWjturGw==",
+  "URL": "https://metacpan.org/release/namespace-autoclean",
+  "LICENSE": "PerlArtistic",
+  "ARCH": "any",
+  "BUILDDATE": "1592754425",
+  "PACKAGER": "Evangelos Foutras <foutrelis@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "perl-b-hooks-endofscope",
+    "perl-sub-identify",
+    "perl-namespace-clean"
+  ]
+}

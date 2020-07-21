@@ -1,0 +1,32 @@
+{
+  "FILENAME": "openshot-2.5.1-1-any.pkg.tar.zst",
+  "NAME": "openshot",
+  "BASE": "openshot",
+  "VERSION": "2.5.1-1",
+  "DESC": "An award-winning free and open-source video editor",
+  "CSIZE": "51459515",
+  "ISIZE": "109925940",
+  "MD5SUM": "f55b3d1b88aa7759baaf7277bc532b4e",
+  "SHA256SUM": "aafe51ccdb40b15b203a3b745d726e2c726e3405d51f39313234d26b111da2b1",
+  "PGPSIG": "iHUEABYIAB0WIQTH54SUZv4jWDQ1iDdyWHNLQcMVSQUCXl+/hAAKCRByWHNLQcMVSZoDAP0TcriBKV8nBjRRJRT93SJwKs6oM1PNj4C7fE66Zo1wIAEA/3Z3GEaDy0XnU4CSNg3ODDBENoL9Htq4M73ZFfMyrwc=",
+  "URL": "https://www.openshot.org/",
+  "LICENSE": "GPL3",
+  "ARCH": "any",
+  "BUILDDATE": "1583319604",
+  "PACKAGER": "David Runge <dave@sleepmap.de>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "ffmpeg",
+    "mlt",
+    "python-pyqt5",
+    "python-requests",
+    "libopenshot",
+    "libopenshot-audio",
+    "python-pyzmq",
+    "qt5-base",
+    "qt5-svg",
+    "qt5-webkit"
+  ]
+}

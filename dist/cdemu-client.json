@@ -1,0 +1,24 @@
+{
+  "FILENAME": "cdemu-client-3.2.4-1-any.pkg.tar.zst",
+  "NAME": "cdemu-client",
+  "BASE": "cdemu-client",
+  "VERSION": "3.2.4-1",
+  "DESC": "Simple command-line client for controlling cdemu-daemon",
+  "CSIZE": "37173",
+  "ISIZE": "193765",
+  "MD5SUM": "c127362262c85a2ac03d2589c5d5536d",
+  "SHA256SUM": "085bb7d2c12c4f51209eb953ba05258d1868efe072d3a034936a4fbf8e360b5d",
+  "PGPSIG": "iQEzBAABCAAdFiEEghj4iEmqxSLpTPRwpekojE+kFfoFAl4U7uMACgkQpekojE+kFfrdUAf+MRmM8y0OLoSzr+138lnf8uf07WlZId1DO8o6WcIRs8cNp/VMJ9rhLr66P03ux8B2WSyL/mLF9+85cGRH4VYPBo3DDPE+sCef3A2TTtw5rFXfXP3mWiYUW1GXT+/snOnqaXc6KX8k358n05DT1d0VNcs3FjNmq6oXfwAGICxMJMTQlUYovokv+GnLGj/BD1edYOM685encuI0Z06gM6RGMjRGjJEQ/CYGtD9Hz81YmG26WgfBLqyEn77EFJJWxL3N9DFQvZkmCuM/CQDI4BWmnUAEdzHHoUW53UnP5xhTkDXJr9zG+Al1LiCVnwL/ktaUi5grpI2FLDGe1OE7TUfcYA==",
+  "URL": "https://cdemu.sourceforge.io/",
+  "LICENSE": "GPL",
+  "ARCH": "any",
+  "BUILDDATE": "1578430121",
+  "PACKAGER": "Jan Alexander Steffens (heftig) <jan.steffens@gmail.com>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "python-gobject",
+    "cdemu-daemon"
+  ]
+}

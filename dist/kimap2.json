@@ -1,0 +1,24 @@
+{
+  "FILENAME": "kimap2-0.3.0-2-x86_64.pkg.tar.zst",
+  "NAME": "kimap2",
+  "BASE": "kimap2",
+  "VERSION": "0.3.0-2",
+  "DESC": "Job-based API for interacting with IMAP servers",
+  "CSIZE": "192487",
+  "ISIZE": "665537",
+  "MD5SUM": "7495a30465dd6960a34ff35e79b870a7",
+  "SHA256SUM": "9d70b64fde7dcf63529a859a57a79a264b8966c8a224d2baa1f9067d56db3994",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl8EnGUACgkQeGxj8zDXy5JUKQ/+IFKmNudJvKvLhorEt+FXLhgmbfcuONIsBR8TsadtgxGlB8dNxb0Pn0G4nS2hJ8+MPxMo7rcJ8oQXgGqD5lpQ3Jt+EJOTaNe8JjLDypFwmu3uPNGkigfHb/VfPaWNUrNx+evKwzrEblfPu1xchiTdFr6eY/elnLrhn5WHLzKb3rE8gcsldGEA1NIsWKMlJkylsdQkGzR5wGxjvovYSBw4WdpvAMhZVqnU9pba0OEWK4HWRMvQPbBDS/drnpcA7hQ4cdPipvUI3GjqaPKzYVD9EbGDkg5HMyNpXKKFxP0fusZAPWzmt5cYhf/oK3H9sr5d7yUArLb5vfuUzlMej7AMmRrPFs57nNC9FHbgX+oyGSllG5VQoPdmhE8ISWiRtS6TYbgtDVgO2HuSnmlbprvJu7Ct8eL+CZ/IfHDB/Ggj1KA6MbZQO2WI0cZ/sFYrvZmnOt7DecKEQQP3Zv0DMWR0VLpIdWIs60BRZ03Fkehow5KKaFo0KQigJ5lz87JciBlWlr5wHAHM2wjfE1dvb046IYl+4SvxKzYw6F3xICy2OsMPbgBQNvyfZ8hQ3XBS00G7EfuN5zCFpoVPUQ9VOkdG6tUmG9/GgeRO6KPhp1dikpdpe1gytEML3pm+e9pi5ozi/voldiRrElEFKv5ujnOSHy0zCKCQRBfFjXA99ltNE6s=",
+  "URL": "https://community.kde.org/KDE_PIM",
+  "LICENSE": "LGPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1594137610",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "kcoreaddons",
+    "kmime"
+  ]
+}

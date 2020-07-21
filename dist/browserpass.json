@@ -1,0 +1,23 @@
+{
+  "FILENAME": "browserpass-3.0.7-1-x86_64.pkg.tar.zst",
+  "NAME": "browserpass",
+  "BASE": "browserpass",
+  "VERSION": "3.0.7-1",
+  "DESC": "Native host app for Browserpass, browser extension for zx2c4's pass (password manager)",
+  "CSIZE": "1228206",
+  "ISIZE": "3956651",
+  "MD5SUM": "7b985d05396fdf502d193c248d738970",
+  "SHA256SUM": "947bdf68b98446f301e75ab3dbce322f3ae80f91a1fa5ff22b03a93e86b8af00",
+  "PGPSIG": "iQIzBAABCgAdFiEEgFPriIeaaMtIc9MrAR/cUtqDkzUFAl8HmqMACgkQAR/cUtqDkzUcew/+J/EoiTQiRzidx7r2qbrx7TKUwuI5Fpai0yf4WWX8eK3tE1dVuoG7lMeUNA1k+UilkA1IIKZmNmW7XRtn8yrob4szHPzc8JPHcwTzdMst5lYkj1cId6bBg+MgQpjg6eztaOGL/NDH0LxkZOkDpXfTWCx6Jp5KYPGSgmdDDCLLg7488hUDj+3ezTtTbJZaSQ1pBJttHQxpQaUFPp7bS52fBwMaeSjxTazokx+0KtVnOuG3aqFTDikNjPYnvmJt77SCQQ6UhTnPogGC5upSj7RXeV8hs4tKQpVVjXVaL55UH6jH2psDBpWmXe2St2qvJTrTu3L05+JXBWN2FLBm1gOqDmO2jm0W3LHy0DcvNro11KLLmdfcSq9V2FpvEsjlPXNKixYWIEbpNBTFE3hsM0D0GEDFrGczpadDEPaHPqM3OljU22heTR+LFeGMZWe1LvxDQGqP3xqp2nR5+Y1pjeF2gDx8I+qlctqltc7kSAfunOMgikLP4vvGA844TrhzzcstYypF/3QIchZkSs3+qaiem/8U0wC4nDSo5MUyZr7Qpay6WR7B5J0PPw2/tOceEcgwBandJ0TsV0EmzrUn9H/Hn10mG0q8lt4ACVMhgC+/rFbk+Aqn8O4o1t6SUfpxPsvTgi6fKrqHD8xFbhM5V15gFb6Q7admfUVKwYSloSFfoBI=",
+  "URL": "https://github.com/browserpass/browserpass-native",
+  "LICENSE": "ISC",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1594333816",
+  "PACKAGER": "Maxim Baz <pgp@maximbaz.com>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "gnupg"
+  ]
+}

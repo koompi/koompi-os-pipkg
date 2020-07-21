@@ -1,0 +1,23 @@
+{
+  "FILENAME": "python-pathspec-0.8.0-1-any.pkg.tar.zst",
+  "NAME": "python-pathspec",
+  "BASE": "python-pathspec",
+  "VERSION": "0.8.0-1",
+  "DESC": "Utility library for gitignore style pattern matching of file paths",
+  "CSIZE": "38057",
+  "ISIZE": "202976",
+  "MD5SUM": "20d1932178f169a1bb62d08d9788e19a",
+  "SHA256SUM": "9300e48b2314515967f9e908403a41065ca1f1f48d77560110b7c4ba51b277ea",
+  "PGPSIG": "iQIzBAABCgAdFiEEBNw/sURf7KgTwn766k97MhqQatkFAl6Pi5EACgkQ6k97MhqQatm/6g//QE+li6F2z/X82ExIIt3it4YWGIgTOaeug5yeazOGIMyV4VYIRRlzF6Lu9/H1WTlgNWdZbTmOkS0FYRuGK84HmrCBYPKZ0ruaB8efIWAhapngk9X/nVUSWDpgOiDxNRfFvdo/ouGE8afxS35GEo0b3wfpEXsMzSq+TZKWZhN2KHB4HVFbZg9x9NF7EWcymncZxqAv7ZumyRp7AxDlJA5A0Z/Kz9TOBmxTF49Kh19j83iTTYxsTnDET0q87AB/1td6/DnpmX8V5D2YUb5fmlfor13YyFrYHymn2ZwN364UY0/e4lGbiUh1gSGo8zs40HWP47ylyhd9VAqru7xSHx99uLlXKhpMpDBaVRESUOSqRm9BRSn4vzVyYSzmWE1ydqrMZpBu3LFwTOTJtMGl2wj80ImoC2mim4eu599kiqKOJ7cdA8ko/P5LIWdOJWEKw43wEGGOQw5El9Le7NyK80jei4TKxEeUOt3TEEY0Jh7dJnrxvWiaXD1MnqS+vF1uAiBIcTK2T3DIpk0KnJmH6XWc31K4vuxSauMddV2k/3C8R7fyHXOJXH7PH6VSUD1dsIiln6Bu/7DcmmHn5/oRPeosw98RHV6c6T3UAAV1kGnWF2YdR4IiZh7U9cjYoFscbtJ6mVGlsbRt6E2V6FC/iQyYfMs+9nSOfs0hnlYpFgjnMqM=",
+  "URL": "https://github.com/cpburnz/python-path-specification",
+  "LICENSE": "MPL2",
+  "ARCH": "any",
+  "BUILDDATE": "1586465591",
+  "PACKAGER": "Daniel M. Capella <polyzen@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "python"
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "FILENAME": "chrome-gnome-shell-10.1-4-any.pkg.tar.zst",
+  "NAME": "chrome-gnome-shell",
+  "BASE": "chrome-gnome-shell",
+  "VERSION": "10.1-4",
+  "DESC": "Native browser connector for integration with extensions.gnome.org",
+  "CSIZE": "15446",
+  "ISIZE": "27129",
+  "MD5SUM": "11c799b4d4cc117bbd52039e847b77cb",
+  "SHA256SUM": "269b3a3ca7f4f99f6f01334c239eada6390cbf06169484f0a529682242c9029d",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl6/3cAACgkQeGxj8zDXy5KpTA/9HUdjuOYgMyr8IzP7zrmBrJYURbXFYIcWdBeugjEZML162MNs2e/61xkqCeGrl5xr3f2jCewaeUdjwzWVLgZIcfn8/kiqfaUvG5OFxVdD31Dwil1EsQi7139Wt93uNZl3AApTLZpbEkch/5F5u0BBI8Pv5tiApCp4AxYqbUIACvfeXVoLu3KjS1gXT/y6/7qwX8q5xABqx1kvGdr07Y1M8pJ16hnTCvzkFQZqmCN5WVD3Vo3D/RbdE+w1vLmHQr8itkH7Zp+S7GGjJloH9dLtzMgtsqRigc3hTRgA7LkNPb2IthWBh/ykcjmYossHE2hBoemb53ZyqzneaMNGKqye/rD6/6PbFtR3pfhknzUPAyscUND8sgFaE3AdTy5La2I3ENIhq9WuB6bmseH1hl9X1U4P9yGvBiTp73x69QNYAvQlQrEhk9FOhcvgH4RpyOY2zLNZmT/3FraDazIlZKCR/qfi4uqhpafZgaxu4x+HW8e9FnYM6+VzrpnYZTc+A+0s0gIBsnWcaxIh1ccrGxgHgpknH8fuiGSe6yaNEf0E5PNrMal1wfOeFtTwdyFXToDFldnF9HfRabCWJ2zxsyTysIuP7YS/EdsNP9BUwDA44DbxVuVGowsyIACqLhkVOq5gWbFU60M6izcPcbxUKVJBPT6/I12RN4Cx5ehfhP8zL+c=",
+  "URL": "https://wiki.gnome.org/Projects/GnomeShellIntegrationForChrome",
+  "LICENSE": "GPL",
+  "ARCH": "any",
+  "BUILDDATE": "1589632327",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "gnome-shell",
+    "python-requests",
+    "python-gobject"
+  ]
+}

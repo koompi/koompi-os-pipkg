@@ -1,0 +1,23 @@
+{
+  "FILENAME": "ttf-bitstream-vera-1.10-14-any.pkg.tar.zst",
+  "NAME": "ttf-bitstream-vera",
+  "BASE": "ttf-bitstream-vera",
+  "VERSION": "1.10-14",
+  "DESC": "Bitstream Vera fonts.",
+  "CSIZE": "239264",
+  "ISIZE": "584326",
+  "MD5SUM": "e866326d669598ade3e0d517fd5a8edc",
+  "SHA256SUM": "dab158668c4cd10fa533390b5be6fea19c9a738f3229c698c69431b04c35a195",
+  "PGPSIG": "iQEzBAABCAAdFiEErcih/MFeAdRTEEGelGV6sg8qCSsFAl752kkACgkQlGV6sg8qCSuLpAf/ZBYtkiZuiBx4OHpshtfcRiT4jxXwz7uU2G9rCNUBwrOnMRDZV5as7l+9evMzOM3Oe6ePRuNt+Eppap8lAPpc2EI6b01CdVnTWAReoupuhm5f4TG/D8JCcSE4F3+1YR5qxBmnD6PKnwqHGGeMUPP7syGePCvJEyaPYWeCkM51XObi6Nq00enhVGW1c/eF26WzK2bhdAdnTlrJ53p9vRvtu9sfRuy2Ioo04kucFGIpLL1AKpQmYbIXHb68oKE0JWDjf8IRqRobe7lUye24aUiJi96nmNIDIOpd+YJo6LfiANIvReWgN4RDk6pfcYRBOHtuZdi5IiVfs67n22XQRilBNg==",
+  "URL": "https://www-old.gnome.org/fonts/",
+  "LICENSE": "custom",
+  "ARCH": "any",
+  "BUILDDATE": "1593432604",
+  "PACKAGER": "Andreas Radke <andyrtr@archlinux.org>",
+  "PROVIDES": [
+    "ttf-font"
+  ],
+  "DEPENDS": [
+    ""
+  ]
+}

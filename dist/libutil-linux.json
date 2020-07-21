@@ -1,0 +1,27 @@
+{
+  "FILENAME": "libutil-linux-2.35.2-1-x86_64.pkg.tar.zst",
+  "NAME": "libutil-linux",
+  "BASE": "util-linux",
+  "VERSION": "2.35.2-1",
+  "DESC": "util-linux runtime libraries",
+  "CSIZE": "420297",
+  "ISIZE": "1407872",
+  "MD5SUM": "5644269393264acac4a2e6257838ce7b",
+  "SHA256SUM": "e7e039feec01cd591035bb8bf59511f88e227502211793c36911a86f8d7ea6f2",
+  "PGPSIG": "iHUEABYIAB0WIQQEKYl95fO9rFN6MGltQr3RFuAGjwUCXsWFYgAKCRBtQr3RFuAGj5rhAP9u+swnajhf59BRzIbL85KVnXDZMnkF8A2OCAK9ZhnJqQEAqLXOIsTknBJpdjH2sdApzM2aMkMnWy8kJsi+8PJtiAc=",
+  "URL": "https://github.com/karelzak/util-linux",
+  "LICENSE": "GPL2",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1590002879",
+  "PACKAGER": "Christian Hesse <arch@eworm.de>",
+  "PROVIDES": [
+    "libblkid.so=1-64",
+    "libfdisk.so=1-64",
+    "libmount.so=1-64",
+    "libsmartcols.so=1-64",
+    "libuuid.so=1-64"
+  ],
+  "DEPENDS": [
+    ""
+  ]
+}

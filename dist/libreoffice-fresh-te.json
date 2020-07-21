@@ -1,0 +1,23 @@
+{
+  "FILENAME": "libreoffice-fresh-te-6.4.5-1-any.pkg.tar.zst",
+  "NAME": "libreoffice-fresh-te",
+  "BASE": "libreoffice-fresh-i18n",
+  "VERSION": "6.4.5-1",
+  "DESC": "Telugu language pack for LibreOffice Fresh",
+  "CSIZE": "432496",
+  "ISIZE": "2500381",
+  "MD5SUM": "e35b02418fe55b24f03c38c375b497cc",
+  "SHA256SUM": "ae3612d7df09f5b18c31f0d57243aa8f9e6467f884829124416f8e71b58530e2",
+  "PGPSIG": "iQEzBAABCAAdFiEErcih/MFeAdRTEEGelGV6sg8qCSsFAl7+F0EACgkQlGV6sg8qCSt5Twf/cSr96+rJafOdoVW5ouJVjP7TEN9TZaLFKnBoHXVFod1fhdOAUQEJhzjSQEtHLrjzJGbbRk8dOkHOv/tyxI9XvTnMpoTtx/DdKbGUKWIT122z1XSNnX7zyARUF6cCO+bCeK+KDuXM+tJ1+P/KaN3StAAm4GgsS6GXnSzFmWeGp2QhO1XNTMGPBJ42vxN40MCM0oZ2EIYDXDnwAkbGftlDvhlXx0F59MMLde6Q6otmgul00gHV2an7B7LtJ+kBDAMIVwc32jtkDzlhWayWqMj1ATTcfF6vARdB/OSny5/5z/PvCvXm5ho7gCP6ifJHg2+z4sSs+B7T5cwNNlQfreAdfA==",
+  "URL": "https://www.documentfoundation.org",
+  "LICENSE": "LGPL",
+  "ARCH": "any",
+  "BUILDDATE": "1593700315",
+  "PACKAGER": "Andreas Radke <andyrtr@archlinux.org>",
+  "PROVIDES": [
+    "libreoffice-te"
+  ],
+  "DEPENDS": [
+    "libreoffice-fresh"
+  ]
+}

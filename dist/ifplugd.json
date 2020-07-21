@@ -1,0 +1,24 @@
+{
+  "FILENAME": "ifplugd-0.28-16-x86_64.pkg.tar.zst",
+  "NAME": "ifplugd",
+  "BASE": "ifplugd",
+  "VERSION": "0.28-16",
+  "DESC": "A daemon which brings up/down network interfaces upon cable insertion/removal.",
+  "CSIZE": "23695",
+  "ISIZE": "60068",
+  "MD5SUM": "32b6ff75226c8dddfa486a650dd36d81",
+  "SHA256SUM": "52c088d228959a07cb6caa253e249996887ab1385488720ac87e7ef401689ad0",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl7AUZ0ACgkQeGxj8zDXy5JQzw/+MbyqtKg7WVjudYzH2ih9zPoySLVGLn9VlUmqiav51GZ0kpxhtJver4mxx6Cx0mCSusmQaugC6pIwUPeltZpNRN4x0hOKvh5mjgh6fFmfAZcwtj0SMDR5G586NxsTfi2RKjWAcglpgd+fVqjWH4dh0pJv0nbgUzNZ5l0xD/o2Evyf+33CIR3y6uT0kf01HIIEXBvFtB/rNvvzPbARcVkFWRCI4DUQWgzY10rC/ezuxuMGhonfsk99vWtO4KDfd944B33DPHi7+xJsF/ygjyzQw68XqEvC+84ZuiMcei71tXgFPIV3QXvks3OUppvCGTLlTkZmjLrfkvjFfaNxjSXfkTqllurosmCJLv8tZmS/5C89yV8fdj6X+yZJIQwAFoIESrXwTmFNGYItEK8ZrN6vEltFL8F8vE7wYYda74brJ6s80zI21gSgTxm70YR+AELO3uqZEzxhLbT2hIMOwGE7vUHlZv/jR7BtcziGFftPoRFgcMBGAS3tcP1OhqvXMIHUixatUooHlb7aVUTTj/NKheZYaW2E9mplFt7MGI0oZbnz63ujyGhHaMYbZO3KMzcIEjHepbqknoaMvnKbS6lZ4RedZVfU9Ae6sct5uvL9TtlXxE6dkbjm/I/b26oViN5EiBPrHT/zS6KVZ5VfOkdHrMKAe1acALu2A8vP0zmXlsM=",
+  "URL": "http://0pointer.de/lennart/projects/ifplugd",
+  "LICENSE": "GPL2",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1589662087",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "libdaemon",
+    "bash"
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "FILENAME": "gixy-0.1.20-3-any.pkg.tar.xz",
+  "NAME": "gixy",
+  "BASE": "gixy",
+  "VERSION": "0.1.20-3",
+  "DESC": "Nginx configuration static analyzer",
+  "CSIZE": "80960",
+  "ISIZE": "413426",
+  "MD5SUM": "2f8003869e24d48ba6cb6a41d5e96426",
+  "SHA256SUM": "0635dc7787694e89f9368edb8bfa1e8aa4fcc58ee9294876b885cadf50c4913c",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl2/smUACgkQeGxj8zDXy5J9bw/7BZbOL/qUF/GHYU059ZrNFRSLZgyo0tEkLKl5GaFBLdNAeXX9SgD3+cHPSeKeklB7An31kkghQ/CyP6ksneV4MqcJRXJpscOy5LPLfBvpt2frs0eSlNGskcacb2kZDEMh1mmX75gNgHdWV8IXWhQ7wKaKCdpoi2gnLhNVvHPG9nS/4mLnjzxj4olQVi3UQp5mv/R4tyNANF0l2lcWvcMRo78tkKp/yVIV1X9EBLCnRBTK8DP4N7tdy48bQxrQ7hYcoz5aYcRPjduJOfnk7aaD2bfiWf5zarm2nSn8C2PFuxRoaYlDQVBNtB7lem+D9Yr9ZQQc0i7lcIHXlv7hEbAiY2e25HfaTY/eT9CvI4LlUho2Q9wV3SYZm0u+0Tg+A0gRL2ja8GN0LGYpLOlPtA9V3y+hBWB04PtgJQ/HP2BzVxO2HPciYMM7eS+Hl0CXO/Jzf2NNjLHyXiNOELDKotoeztIwCxlgIAIExAk8gGqySJIODuLNGUjwh6XB69XOLwn0rG/wcbFCBpMUlzVWN7lb+n+TeIsa30PYkCzQbRNtn0FnuAJvPPWPAifXWJBC2kKBbCKwpjc0JtLHKgW4manZSSIg2BLqbuSBehF7dsQ55nPsy9XyIHPut7XaaRMTEUoouHhGL7gN09cKY4pZ/8Lxo66ZxXBCdqx9o+xyghW77zc=",
+  "URL": "https://github.com/yandex/gixy",
+  "LICENSE": "MPL2",
+  "ARCH": "any",
+  "BUILDDATE": "1572844109",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "python-argparse",
+    "python-cached-property",
+    "python-configargparse",
+    "python-jinja",
+    "python-pyparsing",
+    "python-setuptools",
+    "python-six"
+  ]
+}

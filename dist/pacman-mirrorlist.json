@@ -1,0 +1,23 @@
+{
+  "FILENAME": "pacman-mirrorlist-20200606-1-any.pkg.tar.zst",
+  "NAME": "pacman-mirrorlist",
+  "BASE": "pacman-mirrorlist",
+  "VERSION": "20200606-1",
+  "DESC": "Arch Linux mirror list for use by pacman",
+  "CSIZE": "6438",
+  "ISIZE": "32204",
+  "MD5SUM": "efad9cbb0a924207fe8db24476749699",
+  "SHA256SUM": "b34019169837bd0b30960324bbd1c8a4d3a6c0cdb044535848fdc6e1bba14e92",
+  "PGPSIG": "iQIzBAABCgAdFiEEz6avFeXHQUn8HYwIbRZVwUzhwT4FAl7bVkwACgkQbRZVwUzhwT6btBAA4TfpthR/wp7qtYJpv7Cf1FYjXUv1VQ3IQqRBNXK8IvUunOQIh/0LJNOUimfv69SeIs0LFRJbYTXEcYN7seNp0kJvYT7vc9hSnimPH5ZUvy4Nb90UCfI8gkHsVvGiIQf8QTCcTPpf2CiaNr97mLTuOSDIqr/B+yyERJrTFnhxKjVUFY7jC2pKXQqpGJV0fxvWcJr5njxuAOKpodv5Qrnxik70dTwtKeWVYxZf96Virz6vOv8iDj47C0S1REHseBJgrPtNvKrSGmRij4/cgyucFrQXUFQT/OOCLt18pGIvRTstgApj3RZSevill9hnKOe2kfkz85ZwwqiRBLa7nq9xDi3eLl59bn3WIK8TwffT0VInm2jZbE2EU4E+6U1EmRdh1cmsJ3qsUdNU33qiu2pq9IniMQqGgdR5D4Suk51BAxT/Vm4UxHQYoZUUoC/p3dIsRXtiPCYNMOQ0hl4LYrvFGn7QOhDr+52zSzc3hS8uOzB7On4Y41Oa1XENj0fiS98R+ByzF4hZe56zqdtEZbePPGK8BZcSe2M8xX1ab+OT3qlaQ5mrnZzEECYplmXu/AEzefw3RL5iA0wYCLonlrc4/QhJe7/EKyebnOXcRG4g2pxuN/6dYX6VUKSY25yOikLXE/xR0eWbVJ+FyTO0YkUoWHJEupszTORVIexEBRnxlls=",
+  "URL": "https://www.archlinux.org/mirrorlist/",
+  "LICENSE": "GPL",
+  "ARCH": "any",
+  "BUILDDATE": "1591432772",
+  "PACKAGER": "Florian Pritz <bluewind@xinu.at>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    ""
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "FILENAME": "python-braintree-4.2.0-1-any.pkg.tar.zst",
+  "NAME": "python-braintree",
+  "BASE": "python-braintree",
+  "VERSION": "4.2.0-1",
+  "DESC": "Braintree Python Library",
+  "CSIZE": "169681",
+  "ISIZE": "1115652",
+  "MD5SUM": "996a2c25e2e88dd37614be4e355a808a",
+  "SHA256SUM": "4817a5ba6fd5bb3e0b7916d0f5c4e16a4dc9eef2f18919ef983eef3ed954eff5",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl77qHwACgkQeGxj8zDXy5KJ+A//Z0F+S0sThxcx/Y+IvPW8F5xhXdYVSX43oU0aNeMeNzX6SpzkhE0jird96GYzVd+GLO8TlQp/H5KaGy9u6iyruZrpM65ox+BbiwDHpyWtFvMEu3j4lgNOybs9L7qkZ4AKbytZgypryQ46Y4LEwPTr3DIB7BMEeGuhlc/PfO0V/T+m3V2xotjf4Crr78w38qHce8Fbjm5iSTaCDdoWyJcrsi+RCD/4Ej7yg076AqCCOStv0Sarg/esuBdYwYetNhbT7mWZZukW31LrnXxyhRWbElfzfC0T+jT62zpowzGQIUQl8DT02yg0YR/f+yh5+bxfs1+6CGrZDzGKzf/k0Q04h2YjtPgdS4ZQRNX2wiBqFC+q/3Z2u2KS47qyp5oK9X2/czXFnmhx/MxxTmhjn8RG/aHwLurvRjf1PkrM4YVl6W2eGrCsCo5wZRUvs/5whZm68U1id/FBxEsFuqVwr16tC+0kEQzW2AQZXoqy/7xJo5dIzpXRlWkyEP+wCr5YkzRDTMy0S+MI7oxSxcJ5/2Jl2J8IFHREX7AtSGLZY0KN+L8hFv6D64iXgJzHptFQpAqmXT8SfC8Ksjg4lCcTiq49tdnmk3OR/6MOzUO4JTropluY3QbONWPm1a71mOSm6GIkW7GQk6EbSXolS2rxAjFKUwR+TcMFT5VtZ7By/iYDK9w=",
+  "URL": "https://www.braintreepayments.com/docs/python",
+  "LICENSE": "MIT",
+  "ARCH": "any",
+  "BUILDDATE": "1593550941",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "python-requests"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "FILENAME": "skim-0.8.2-1-x86_64.pkg.tar.zst",
+  "NAME": "skim",
+  "BASE": "skim",
+  "VERSION": "0.8.2-1",
+  "DESC": "Fuzzy Finder in rust!",
+  "CSIZE": "985486",
+  "ISIZE": "3051774",
+  "MD5SUM": "16d3eb905036c332bbf0f85d94689f49",
+  "SHA256SUM": "3c6d006f528bba7e99157199c9e6d9e51c8fb07595b875b7a854e001bcca1607",
+  "PGPSIG": "iQIzBAABCgAdFiEEBNw/sURf7KgTwn766k97MhqQatkFAl72T8UACgkQ6k97MhqQatnwlhAAjIYf0DaCAqWG6P1+BU4XpI5kEersbKZWV/cVMn2AjB1R7c4kowoA+d4bdSBPLOJxcUx9uSGlR6lAb/inHeb43Ng57//a7Xzuxllo/SRHfEt08hX8d1ET3mT0P4BPKCBiMVkIxU9WxGwuDmxIo3nE8tiaGgx3hUkbHt1HKLUTBBAB+mCvKncbQCtaXT0IOQhEX9WlHm7qVrrKjmXrlVoyKzFtJc9+tBXkhAxbwmEWp7Z95o4b6SELkNHeah4olvUfI0bCqjFgaM4UzyYxlzwHc9gjnRK7zlfr5ZLUMqDAma/zeFb61NvPXC2LEcDLt5OiJ3LKmjaUUpdewjctj4r8l8VcXKDMUIdRVnekvPK0QrUukLxjwulrc+YQPsvhtd79O1vivIct/3GaGYcYNu5VcMbiF4bIbJVuFaektQBIfGhTKFPvEbDUUv6+J1dfPwS2+R4nYU+cnSo8Jyo0j5cy0aL10rcAKKtfg3M8CNvXkiFNhJ3dwU0a32XAV+p8sXd6cNPmHPUSBIgf+c3U0o9S6+hzRvmP7ZH16YMKv8oR3OOiOz6wGUCuU/m9G8kck8XN5BkF6IzRfZHM8X9rriwBI9ohJ+CRluIXwLVgVGFsCdrPbRYkI+ezz4K3J7buvCzDYYZnm0mQFIB8H3KOflVjKmabLvxNYWJ4j7RRKoE2moQ=",
+  "URL": "https://github.com/lotabout/skim",
+  "LICENSE": "MIT",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1593200357",
+  "PACKAGER": "Daniel M. Capella <polyzen@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "ncurses"
+  ]
+}

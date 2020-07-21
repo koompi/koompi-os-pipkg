@@ -1,0 +1,33 @@
+{
+  "FILENAME": "qmmp-1.4.0-1-x86_64.pkg.tar.zst",
+  "NAME": "qmmp",
+  "BASE": "qmmp",
+  "VERSION": "1.4.0-1",
+  "DESC": "Qt5 based audio-player",
+  "CSIZE": "2346830",
+  "ISIZE": "11601278",
+  "MD5SUM": "aa328616dc82c81fbcf9dfb5b81223b6",
+  "SHA256SUM": "3f3120ef445bfe88b7ca25237f305f7dbdabad5b24ae5eeb48a5bbd2c8710bae",
+  "PGPSIG": "iQIzBAABCgAdFiEEOO3RiGdWkk4SJOSVJOTNsAE8JYAFAl62mNAACgkQJOTNsAE8JYB9DA/9EyGZritzJlOvR2LqhmR2KUCx86Bfc/BBk8KMWSh4plmJCpoWexy9yU4s0lR8jCNUaGObXaiGNsasLRYJVe95IHSelIaSsC/fYRc4q37OZVeSWf5VqkfYaadU1jbJ2vQ9tRnag92mKcUZBK+dwi75Pqa+DlOxTog2j3ibd/kLbQejHTu7faiqtFa3GBoFWHzUmbGA01DZDYrxIs/9l4EQ7uxb3pfQETHMgJElTZ70BOBYkrAqPWiBVBAvXnEYPYNWgjagT2ibFuWl+L8UVU6dTdrLrglIpAsEKAafQSJx3Pqt9+oLRLvu6dwIhzm1FNIXp4TwoFZQwWqy0t9avzZ7PEK/5XqXheNMDLIFC+6/YvfoMZfDRo+l7+Gwomd3h24rpj99g00QJw86zEVSntBy9eHB8MQkXLnNMpQHYSAaDEDqcZtzt6N1UE5/aTgwTe7uIwXQIx72cyFgB8PNCQAD/eikKFrV426yXdxA66WVCW0+nuPxfnXmRWlFFtoEVufP4nbUZjmOQBgYZE8lNNuhj6zCEW5T7ytCcdxzRD78Wvy+m0dwVsETWq1DvGKkRcrAOuL2ytxO1ce7+8HHZCT6L+5wEkqIeeEkgJ7kgRexBfo296jzsPl2M0aS9MXIjK/k6VrUqPWpSKfPFxR+/6LmmK9LxPbwG2gTKTtmTjHZV5A=",
+  "URL": "http://qmmp.ylsoftware.com/",
+  "LICENSE": "GPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1589024453",
+  "PACKAGER": "Jaroslav Lichtblau <svetlemodry@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "alsa-lib",
+    "curl",
+    "desktop-file-utils",
+    "hicolor-icon-theme",
+    "libmad",
+    "libvorbis",
+    "libogg",
+    "libxkbcommon-x11",
+    "taglib",
+    "xdg-utils",
+    "qt5-x11extras"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "FILENAME": "libg15-1.2.7-4-x86_64.pkg.tar.zst",
+  "NAME": "libg15",
+  "BASE": "libg15",
+  "VERSION": "1.2.7-4",
+  "DESC": "Provides low-level access to the Logitech G15 and G11 keyboards and Z10 speakers",
+  "CSIZE": "9966",
+  "ISIZE": "22192",
+  "MD5SUM": "cab9a85197b6218c5199bdc43ce0f546",
+  "SHA256SUM": "436ec901ba407e0aeea5919b6aff3678bc018ca13df333055ef66af3b310db10",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl8EgA8ACgkQeGxj8zDXy5KiwA/+NN4mx0h/oD+CzwP/etI5r7Y8ngZAUpbcST873TTBWZLEgy3lcWkYTARNmrE4OktqH8pyPvqO16WcWbhWchb4J3OqDYPJivHbXaaISIsm2Bj9XaBOKFAM1dkGaHE4mL5wDHkriZNbqb5jpcIVWtOEZE7pRDrggET2LqGgJ1MrRzUnvbkavM9L/NAHLdOZe91lfYWuRnQhrrClTVTILwL8rYTYCFjiIYxe682C03wnGJc23UKjNyh4ANLcCL2dvfyKaWEkBs7OwZ2mcBqRQr3sGvAOnBRQCnB48rw5ekmnpS+BuCfnrprzRKkixo7gUT41/pOFTx0skgoYCwDBiPq5j+Xhow77Q7nPicKN2V+BpNs9TUpA4ZXL4RXQWGOkUjau0TQj6Ej7lFPhl6QHBpylMfizPddMq5PrCj+SIBUSiv8SifrvH+dXbJTCFycElf7paiI1QKRC7+XDTGdtqFnV8iGJhjWC3RTlKogQhfjFDO6CvgwQpVNX43OouZalt/tUgvEltv/MI+OKiXF4t0q1HWXRVrZ3Ge0ZyaQsdG+1GkBFh2m+H2+4Z4xWq+VjZgrt7s+ZoL+TO4vrY6dFf26qyeF86QMfK+S0HoNen5yApzAInAjUeLZl71HzOsVgS+WXEl5BKqsFklb0g6s+SIAJANFlXCEt6t0Nb4eq3F0j+dw=",
+  "URL": "http://www.g15tools.com/",
+  "LICENSE": "GPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1594130418",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "libusb-compat"
+  ]
+}

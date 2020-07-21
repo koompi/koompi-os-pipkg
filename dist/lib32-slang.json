@@ -1,0 +1,26 @@
+{
+  "FILENAME": "lib32-slang-2.3.2-2-x86_64.pkg.tar.zst",
+  "NAME": "lib32-slang",
+  "BASE": "lib32-slang",
+  "VERSION": "2.3.2-2",
+  "DESC": "S-Lang is a powerful interpreted language",
+  "CSIZE": "439027",
+  "ISIZE": "1457987",
+  "MD5SUM": "dc4824a08e28cf5be279a54ffca6f3b7",
+  "SHA256SUM": "56d2783e8f9ff144355196896162352f1391882fc1330c4764a8d8d158427b14",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl7L8XYACgkQeGxj8zDXy5JhNg/8DRISqb/vYfx4ywqx2yfhw2niQ6LXdxc5JuW6E3XPrIo0YreQGLhpp1DYeKJfq6pIfwWolQpiTMThrlQedjWJBFgHwqcISDkDqk2WHxETKxPXrPMp6hK+X4jVfzmHk5vA7Q1ujJLEUsby62Lw222Ju5BvgVT2JMyuR5fEC6twZBtmkX5qLiD4HD6AJ6W4F1AWLWKqCgFJTkhIiZ+JfPFqwRoUAQW42t8Nb02+g80GYVvjWhIqjDN2dEbthKzN9EvF8AMgUKQxhkSjykrgX7YM0s6UDS3vsLvPpDUYGNnvQA/P9pZyX9fykpGKtmFirgFSE3Qh+LPkYpRJG/Zs8NFkmMNmWNiIZNfahjslVr6vDzcYw8UtNv1B61/zhSl8nFLOVSHq+0+g1rVEG8UZME11KbA830Tj/kLXJQ6w8/8zGsVi1XKhBaBSvt+dyNgiWy0kjxWzLzAl2uUywJWHvUuF+nhcE3Lm4BUyESRzlCXtDjSrV9JfZ6Lvfucv9uTzAolJgXvKuxawwWrRvgqXGyMxSFW2J3oKKQP7SV0UFGlH6GqSg3fxoTVRqWjdakVcviyKw4ADoEkkT3GCGYzMRmMF2/3sLZIy+KyAyxetwG4tUnqoDNkCecuKzMmr7k8jXT7VXDvqnITIyN7Vqsek4ssH8N2TiUNdqc55rZEff/RdgZU=",
+  "URL": "https://www.jedsoft.org/slang/",
+  "LICENSE": "GPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1590423822",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "lib32-glibc",
+    "lib32-pcre",
+    "lib32-zlib",
+    "slang"
+  ]
+}

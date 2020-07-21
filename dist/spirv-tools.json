@@ -1,0 +1,23 @@
+{
+  "FILENAME": "spirv-tools-2020.2-1-x86_64.pkg.tar.zst",
+  "NAME": "spirv-tools",
+  "BASE": "spirv-tools",
+  "VERSION": "2020.2-1",
+  "DESC": "API and commands for processing SPIR-V modules",
+  "CSIZE": "1418765",
+  "ISIZE": "6074829",
+  "MD5SUM": "087489903ef3b1fcbf05198f21b7d53f",
+  "SHA256SUM": "37feb0b3cd39138dce3482aaa27afbdec556c8365f24d2d0afa5029ad20e8a67",
+  "PGPSIG": "iQEzBAABCAAdFiEEU1+MAzlFDwVKTSgnBglqatHO3awFAl6ZXUkACgkQBglqatHO3azpaQf6A/OWmFxli+elCcg99v0vEMtLGIrFTp6gDmGguuzCW4D+tbnO3KtUrbAtjo3Lg3XzfBiNVEE7J42rdO99ROj0ypb2zGHq6XSq1aO3S3/xu5SyG/wu2aJ++l81LyPZUAJiu7d6bRpcPAcakKvEtUIG7n4Y+/IyrA+y+JvU975e+V/wdTcTrxyewzUJZtUlnqwgTQyy370L9ZOqTJkQd7AYZEVN1YI1gV19FWC/8nqmFK5cACq+K+czALjc4vtp+9+ETUBUp9PvGv8OptZ1OK1gg/cPB/B18JYfXewCmZSUWcb72OYXWIX/6bAmB7uF5ESBDBYh+TdLGCE9YFVnDTx6FQ==",
+  "URL": "https://www.khronos.org/vulkan/",
+  "LICENSE": "custom",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1587109030",
+  "PACKAGER": "Laurent Carlier <lordheavym@gmail.com>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "gcc-libs"
+  ]
+}

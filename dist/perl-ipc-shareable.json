@@ -1,0 +1,23 @@
+{
+  "FILENAME": "perl-ipc-shareable-0.61-6-any.pkg.tar.zst",
+  "NAME": "perl-ipc-shareable",
+  "BASE": "perl-ipc-shareable",
+  "VERSION": "0.61-6",
+  "DESC": "Perl/CPAN Module IPC::Shareable : Tie a variable to shared memory",
+  "CSIZE": "23343",
+  "ISIZE": "52233",
+  "MD5SUM": "e5b304a7f0200bcc9defc20d412150f2",
+  "SHA256SUM": "cbe4c9651311b5fb519e9daa466b4910ddf6698f5525020bd702a1d4eef05a10",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl7viGoACgkQeGxj8zDXy5L7Eg/+Ps2lZtDZnz7a1NRL1V1QzG8TuVnSxj9xJ1C1EHUm0ZrAcMC4gH3CIZ+UpYrc0Q3iN20/hdgM3tjNAAZhUNKDD5zuTpwvsaDZcZaBEid6EiXACvyOrMJukAMtqDsdU8UF5REl1M25gC72vKuSJxFljlvypDp35UdZRbQxPgZJC2xOYA00XtS2V4S5Uf36oAfXij6JwLray6Nyqh0k/psK3nnTDl6LPK8CDVjbjn7xydbcpVqZs3cVDMAjn3nSJNnIPep46sXLzlG0B3zqp4iwCyCZ94S/niTmbF9VHv83882WrWOoRF6hTd8OnfzgkqnIaeAdBxrMV8Yix1gZOsTaV/01JDCaIWpYb6B7aJJrhkeEuSf19He1UAYcjU4IXFh8ZV42e60/E+LaNOIXm02ub/s3XZRGs4Sxzdu9t/WWuK1mlnefERaCBTHO5Cq/iihwll5LoX5h5zSa0QXyYq3TJTV6ZEKlYPoqv0qKPUjSDVsQV6NNK1Tz8iUp6drDbEiPzlr84mvgEl+A91z+FrhKC41Wv94brrhGfHLT2VvwMmzI6V05JaUGUK2yKgMDypcIUTZoZxJ7Hm+HckxfTSoCSEL0Ha70aYXgmlEQo0LVHEgda1tVo5KruV8SBPhS1wH+wfRMJ8DpXrP4GS8e+Sa8WqR9P2gWnY323jy+6eGLEVo=",
+  "URL": "https://search.cpan.org/dist/IPC-Shareable",
+  "LICENSE": "GPL",
+  "ARCH": "any",
+  "BUILDDATE": "1592756311",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    ""
+  ]
+}

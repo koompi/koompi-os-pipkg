@@ -1,0 +1,25 @@
+{
+  "FILENAME": "five-or-more-3.32.2-1-x86_64.pkg.tar.zst",
+  "NAME": "five-or-more",
+  "BASE": "five-or-more",
+  "VERSION": "3.32.2-1",
+  "DESC": "Remove colored balls from the board by forming lines",
+  "CSIZE": "1259291",
+  "ISIZE": "2566333",
+  "MD5SUM": "a63b61779235188bc1be52dd8e9abdd7",
+  "SHA256SUM": "d501df9998f8b6c3adb36f953414d3d17321050634035ec5ef7ad7f27e71f3e4",
+  "PGPSIG": "iQEzBAABCAAdFiEEghj4iEmqxSLpTPRwpekojE+kFfoFAl5/n6EACgkQpekojE+kFfpI5Qf/e2QBvjkYOJfA+4zQEme4GUFNmfoRBNky40VPxeYWTNAsEd5LctJ9IgV0El3XwuNGD7uq4H9ZZ/C/63sjMPLcwMWFC1z/Xp/GjGCaj1ljXOjD9lOG5Uyo65Di1SZIoYqttdoeCbJKYY9W2lFrjNm5c0NaeNUgdkFxLvbpcuU5DLI5/VPg6xJXoZ5L9AHWQwx3aCb+1CrMm9Cu+h/EhAn3jE+ytP0f72wPNvDp3/+GOc8SfHmyuNFNvq6d7P82bBhF/F4KdI0S0V/NMJ9gUeRtCvID6Nh+iQhSkgrTmR9s2GDRF1m83k/fgJFI/iAndaJOk3E0FzyEgiAbnxfc4B5D8Q==",
+  "URL": "https://wiki.gnome.org/Apps/Five",
+  "LICENSE": "GPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1585421718",
+  "PACKAGER": "Jan Alexander Steffens (heftig) <jan.steffens@gmail.com>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "gtk3",
+    "librsvg",
+    "libgnome-games-support"
+  ]
+}

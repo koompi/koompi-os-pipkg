@@ -1,0 +1,24 @@
+{
+  "FILENAME": "perl-io-digest-0.11-6-any.pkg.tar.zst",
+  "NAME": "perl-io-digest",
+  "BASE": "perl-io-digest",
+  "VERSION": "0.11-6",
+  "DESC": "Perl/CPAN Module IO::Digest",
+  "CSIZE": "5017",
+  "ISIZE": "3322",
+  "MD5SUM": "ad5338a3fc88e5295287d49301302ee3",
+  "SHA256SUM": "79588312001884f86679199fe82b13a5252a68341f92d3a6fa9b7dcd5dec5ab5",
+  "PGPSIG": "iQEzBAABCAAdFiEEhs/8qRjPOvRxR1iAUeixSKmZnDQFAl7vibYACgkQUeixSKmZnDSOVwgAhKHajicmCnXjq6jzx0GRmrwt4epVvl5PrpvAMUG8gEcbPZ9kMuNq8tkHrADlBtcnd/1vYrhfGBOr/qFMHBxKs9ZEaQNV3PICEkK4O+AeXWiPjuSXh1uTbnUuZHA6d1n+Jd+5pgy78BijdHFokyK40jXXmq9M7ZKS5aXaRaPJci6n4aJDkaW6BVrkDjXF3dQsAQbEI/8usOPqDPLSdLhGXaXLJPg8Xh0Zv3aCEQyt4XZxg6dCmBjm7xySGERd8jIaa1no1IKzq1A1a/QDQ3F7piei8VbwHe0krzVKpuZUUa2z3siQG1KznmCIRLc3wbjvWCfavWEJp80RnI90pBZ49g==",
+  "URL": "https://search.cpan.org/~clkao/IO-Digest/",
+  "LICENSE": "GPL",
+  "ARCH": "any",
+  "BUILDDATE": "1592756648",
+  "PACKAGER": "Evangelos Foutras <foutrelis@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "perl",
+    "perlio-via-dynamic"
+  ]
+}

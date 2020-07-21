@@ -1,0 +1,26 @@
+{
+  "FILENAME": "lxqt-notificationd-0.15.0-1-x86_64.pkg.tar.zst",
+  "NAME": "lxqt-notificationd",
+  "BASE": "lxqt-notificationd",
+  "VERSION": "0.15.0-1",
+  "DESC": "LXQt notification daemon and library.",
+  "CSIZE": "84694",
+  "ISIZE": "322022",
+  "MD5SUM": "d089e89c63c9e361b06a4b2319f20a8a",
+  "SHA256SUM": "3654a8cf2eb4ab14e3ad9256481cf3a8908b3b869a3a3fec056177f59ff8cd58",
+  "PGPSIG": "iHUEABEIAB0WIQS5AcQXHI3QLG8vSWv5jvKnsKCYrgUCXqOmuAAKCRD5jvKnsKCYrmv/AP4kJlrXIsr3/Uh/bRRj+c5RvOTd7fo5jug0/HoAGSGnEwEAiOM6JdUj7nS7N+LOotSuWFtAunUh1nD2CGdH5aGjLr4=",
+  "URL": "https://lxqt.org",
+  "LICENSE": "LGPL2.1",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1587782829",
+  "PACKAGER": "Chih-Hsuan Yen <yan12125@archlinux.org>",
+  "PROVIDES": [
+    "notification-daemon"
+  ],
+  "DEPENDS": [
+    "qt5-base",
+    "liblxqt",
+    "kwindowsystem",
+    "libQt5Xdg.so=3-64"
+  ]
+}

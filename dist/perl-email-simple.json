@@ -1,0 +1,24 @@
+{
+  "FILENAME": "perl-email-simple-2.214-2-any.pkg.tar.zst",
+  "NAME": "perl-email-simple",
+  "BASE": "perl-email-simple",
+  "VERSION": "2.214-2",
+  "DESC": "simple parsing of RFC2822 message format and headers",
+  "CSIZE": "18431",
+  "ISIZE": "38881",
+  "MD5SUM": "83df3573028a2948c4b11e9f676d78f6",
+  "SHA256SUM": "888fa2826a2bcd00d104601ae4231523a27215a9d6866575913f94c9edc48370",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl7L3+sACgkQeGxj8zDXy5Lgsg//aj2QPaOMwaewSGC0BXqMQX3uyPRTPYU2KhfpAKRIebF6O44bo9OqEE4L7nFjx6wSFEElvZGCQRF8yBguYA+ixZHUML/1DIbvI4z1QBq62EVU9d/aODCXvSnJJyag/0WWjpGsp1wvXQi2Bx94EyETqABqQD+cd0JSiwxXuPWx2zYhhhYIgYY/7o5W0s4Ln7owv1kQeh98gidFnPP0N5dPXMP+0VldzQGY2c05WLS1b/V4n1fEdch28Q4Pt8dw04g1Iam3XY8JEoGf5rrVQZJTkrctj+DVQSNasT/0F8lUD90/O1RWcid0Q0LxgW2jUP0svaf7MwwOF7HX6ewJMcFTWnwl+Zz2MjH3fRCnRZwJf+k8uN/qU8sm7AQQMsASx82YJe53HjqXK6xGJLHvsfzGmeH1uc/uXUm6T15eevVnWLsbG0elqgrLlmQb1hxoF1seHO8SIDLI/ESbSdar0rMbcw9jJB8lUJNrLOk/hu0sAwjqkcA9ZICUjfZlq4gOU01J42ra+FNj3oebTKT0tckyZX07T7S8w3rmf0rt1J8zDe/fWPqcjwBoZNw5LdEUiwHtv7bS+4ju27nC5xontvmC5OyJwPR28Jz9n5jOWZupD1A6YAPh17F8kur89lJOnsAsPrWt+l6dJu+axBERuUs61FokshM4KwRPnd94rySXMA0=",
+  "URL": "https://search.cpan.org/dist/Email-Simple",
+  "LICENSE": "GPL",
+  "ARCH": "any",
+  "BUILDDATE": "1590419381",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    "perl-email-simple-creator=2.214"
+  ],
+  "DEPENDS": [
+    "perl",
+    "perl-email-date-format"
+  ]
+}

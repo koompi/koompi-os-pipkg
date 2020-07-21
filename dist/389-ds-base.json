@@ -1,0 +1,33 @@
+{
+  "FILENAME": "389-ds-base-1.4.4.3-1-x86_64.pkg.tar.zst",
+  "NAME": "389-ds-base",
+  "BASE": "389-ds-base",
+  "VERSION": "1.4.4.3-1",
+  "DESC": "389 Directory Server (base)",
+  "CSIZE": "5169843",
+  "ISIZE": "35244346",
+  "MD5SUM": "2f2c6054a7e60926cf7de2c33b14e277",
+  "SHA256SUM": "97dfde44cc7362758484c24d8abaff41911e20e025cb9baca118336411a66621",
+  "PGPSIG": "iQIzBAABCAAdFiEEj8FaBklQqZ3RvRTdOeS4d+YuuRUFAl7mlsIACgkQOeS4d+YuuRXx3g/+M72cB/27MfM2qLKQhhPn0kd6GfbK57yBqWve5/6oukJkydlWZbG4u/Y+2ifXhKc0+nNFO/afbLkwKU+vSDL1uCDbBx2Oo4EtB+O3HErJUr8PyYeOZytSF8gzvpvBtCvi4R3WvXnJCjnrQ/Q/S0BcLbzXtmITnU6Y986tahwvHTXoS4zb3jwQynMIy0g8OzpJ0HVj4/s6ok2I/wRafr2aMvsmAZYU0v9dWXgC3Ng4FF6tlmi5AGxTnJoNTSaiWiPW7tsLG0kk9yvKIYwbaaQuIuvm7pKrMCOi852WH/MaY9V+tCB2Px+tpCSdJso2w2BB4KHPIIW8Y2j3FG2scbUA26tcRTBWy1sEXyUtmiiFLOlbE/TT0X3kVUWEiPpkSnwrOxCM2Td/vg7SCPh0mbkkwQ1A31kjmtR6hQ5UQg12vImIXIbjeZrCWDsb91NpiNa9+AwunF1H3Hj3EJRniZXw4rIHVNCoTjBi96c5xCxBkDexSUTPJfHykxFHCiGrWQEwVBmX2M1RDiYIXTp8lCM6rw8PaszUFp/5biDVkUCVksC/oQV4sE9qNZVLoAL58J1+1RxwDYrs5SrnGL7CJQZkYyIPQTY0jI9I0NbQB0OcGmZsD5VM5rwmewZGgrvVEv0S98Z5xlXVrizufSJ9xNbIU2hxg2v8ZljpDTRqYiDUiuY=",
+  "URL": "http://port389.org/",
+  "LICENSE": "GPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1592169979",
+  "PACKAGER": "Sven-Hendrik Haase <svenstaro@gmail.com>",
+  "PROVIDES": [
+    "libsvrcore.so=0-64"
+  ],
+  "DEPENDS": [
+    "libevent",
+    "nspr",
+    "nss",
+    "net-snmp",
+    "pam",
+    "openldap",
+    "python-argcomplete",
+    "python-dateutil",
+    "python-ldap",
+    "perl",
+    "python-packaging"
+  ]
+}

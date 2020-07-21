@@ -1,0 +1,29 @@
+{
+  "FILENAME": "gst-plugins-bad-libs-1.16.2-13-x86_64.pkg.tar.zst",
+  "NAME": "gst-plugins-bad-libs",
+  "BASE": "gst-plugins-bad",
+  "VERSION": "1.16.2-13",
+  "DESC": "GStreamer open-source multimedia framework bad libraries",
+  "CSIZE": "1466865",
+  "ISIZE": "5858967",
+  "MD5SUM": "5afe7c79023e6fdaac57631526c13fdb",
+  "SHA256SUM": "822cbb50a9ed996e2f5bbdd571d8de060060acc2293115ba1f10f7a292da71dc",
+  "PGPSIG": "iQEzBAABCAAdFiEElDfdOBWnqRaePTlGr/XZUJi8b/UFAl7WNYIACgkQr/XZUJi8b/VUqwf9EMaoQaYYPDWT6cfyf/WXIBcAjVbchnTjKmketHQFH6QF0NOqcy0Cwrrn8jDz0Xfj46PkMmsFS+Unhh9szjogsATJI8u2gP20cy0K11f9bqEWdoaJJwwdD60g+0AgvFmqzGCcVQ7oFA27Nmj8m0T3WKMAEOktV4QwKkn5OtswUgLVonquVVrPta1YZcd5IYuigNdMFHfqIZovmADAzb1XyK9hn+Wo5b3StIF5y96WUHKUwlom2q1rxDC76L7RSp2gyLL0XLZUnM2uSiKzPeKCXgJ1pbNdYBDKwUMDSKfCNrOgM+z3oBhM8rhLKVctZeBT4UJ7ZiCa3ng6VAzvMGN9kw==",
+  "URL": "https://gstreamer.freedesktop.org/",
+  "LICENSE": "LGPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1591096398",
+  "PACKAGER": "Maxime Gauduin <alucryd@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "gst-plugins-base-libs",
+    "orc",
+    "libdrm",
+    "libx11",
+    "libgudev",
+    "libusb",
+    "libvdpau"
+  ]
+}

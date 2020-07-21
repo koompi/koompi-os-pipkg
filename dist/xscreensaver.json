@@ -1,0 +1,28 @@
+{
+  "FILENAME": "xscreensaver-5.44-1-x86_64.pkg.tar.zst",
+  "NAME": "xscreensaver",
+  "BASE": "xscreensaver",
+  "VERSION": "5.44-1",
+  "DESC": "Screen saver and locker for the X Window System",
+  "CSIZE": "7275078",
+  "ISIZE": "34298133",
+  "MD5SUM": "864e8bbc15484dcab0d36fcc21525f4f",
+  "SHA256SUM": "2dc53f7957827cce67e35872c0ffbd302755b50d85762d8a7e2ca6ec0a54881c",
+  "PGPSIG": "iQIzBAABCgAdFiEE4kC1fixGMLp2ji8m/BtUfI2BcsgFAl5/fVMACgkQ/BtUfI2BcsiTsg/8C6Irmz8lXsQNc6D8mhU8Q4rMKhu8UpFvFwK1MU9nw4R64QcgclUVIkMqI7K6qn4285XNgLW5Ltbx7k/81B1HjHOqsi/nh7e8CBozPr0cnipx4axxPDWcLoEamDuAFz+/32RA2UNcnpg3sbByMaYSHI6YOSGV23cZEJ0/HcHQQFf8CqmK+nWp/jH3LM1/JRFHHhofvLv9NxzSFYpphXhs/ti6I7vLcxoGDroOGSQaybevXrVUF0lzMN8tQldH5cBmBUzwjc7DW7hefGZsvvri02JxSxmR8ifzp5BaFQngSr1EKacD4ONr5GDfUm7OwtBdNAT7stRaeqjalsFIyLmdY9W6nFKRZrodSSmmiYFEbJFbJllKmWvobuTR19OgOT1kg4preMjFVw1fnLA8HqUY3gA2iR77Vl29qQuGWHLZyeI/jZfW9lKrbFsGzwV2rIVCUnjOoB4uuAEm8TvlNVMUt+HXJO0dlp0Rgf1rS+adISkCrDQ6eytY/RVkpvUqpz2JMccEYAI2J7KymWABkQsjo70dZdN4OkMQDD7bWMyAk1L3wRd+pOFZcv6hg7Vrpz3O5Lgb99CfVWiHZJUGczpVvzMBY+ejzFI1DarzaABcxXAbRZPm6qe9inbDlibMt55edVLvCGQlzNAQrv9f4DNp9QEjai5QF6OYy5ADBDeFb4A=",
+  "URL": "https://www.jwz.org/xscreensaver/",
+  "LICENSE": "BSD",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1585413336",
+  "PACKAGER": "Levente Polyak <anthraxx@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "libglade",
+    "libxmu",
+    "glu",
+    "xorg-appres",
+    "perl-libwww",
+    "libsystemd.so=0-64"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "FILENAME": "paps-0.7.1-1-x86_64.pkg.tar.xz",
+  "NAME": "paps",
+  "BASE": "paps",
+  "VERSION": "0.7.1-1",
+  "DESC": "Converts Unicode text to postscript and pdf using pango",
+  "CSIZE": "16428",
+  "ISIZE": "37857",
+  "MD5SUM": "f4323ad29cb7da68c3a916f8b20ac804",
+  "SHA256SUM": "c248e327b3d3a5fad69075acaa7d3a895e1d1112bd8bf62b07c814066c9402f7",
+  "PGPSIG": "iHUEABYIAB0WIQQaYNxEJF0G/vkGI9bu7uLu7i7u7gUCXbiaQAAKCRDu7uLu7i7u7t1dAP0e2kcKesg1ikfE91aSYZWww0n4Oxc9p5ZSS9An9iVK8gD/QaKYKI3A6cbCdd7VEejj8yAmbJMwKITkLBXuqeYa/Qc=",
+  "URL": "https://github.com/dov/paps",
+  "LICENSE": "LGPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1572379130",
+  "PACKAGER": "Gaetan Bisson <bisson@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "pango"
+  ]
+}

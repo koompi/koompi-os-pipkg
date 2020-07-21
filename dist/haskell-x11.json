@@ -1,0 +1,28 @@
+{
+  "FILENAME": "haskell-x11-1.9.1-24-x86_64.pkg.tar.zst",
+  "NAME": "haskell-x11",
+  "BASE": "haskell-x11",
+  "VERSION": "1.9.1-24",
+  "DESC": "A Haskell binding to the X11 graphics library.",
+  "CSIZE": "596527",
+  "ISIZE": "3642002",
+  "MD5SUM": "4307e5eccf51b72e4d483025469c0efc",
+  "SHA256SUM": "a1b3125b95a7b19c3d875cbc3496a229f006553443c78a0e183b1de8058324e9",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl75yN4ACgkQeGxj8zDXy5LOVA/+LW7LNDy1xl5hYHGHf/BULghPMvkvzw3XBVdQQ4pZwdGdDtzwmF/DJRdzDbKxFQlO0c2bBTNpUJ1Z7Ds/tjUZqV9NQrhpMEyjnTPc6hsmZWMN3zpV/GYhRId39X6bbbono1nYLzhLbs52UmiCIHbBjoscFFufS9tsOY1Bv2XaafAsm5DXSPY8RnixzQCsBvDWTcH7Jrp5q4xEIsMzG4pmv7Xv6vt5h9ppYT9IBUpNY3XPxvLLLuXwSZMsRore+aLi3iQmaSalUgAxEVfRAIBHWW/gs2LB3d+tLrRESjRq+ycM6YK4AKga7AtkNdgFlUua7EJlJx93t5TsEahhzDgTquaFTStGOyIN8DiQ2EVci4o2nfK8hTmH4ETXOsU5PwC3zh6dhQnoRGTeaDmaNm7Urbw2reIhxJBWiwuVbzQzYYsJ+kh3T5Nu4ExTrdFJyf6nG3kjjrnpvehXqKLdn0A5apk+4Zduylk+lI11mOmxSIRm/EP9wegt319z8BzUz6gqjcYftfcV64GJeqGmoPu5ktlK31HQqkugbgoDKkhBLAuTS4wD3kNR5gVmPdYEivXHeQ4+ZCAqHAxoNZY5XDI12NqakePOoDUgBVE2xc1hdzNk7TzA9uvYCt5gZRzexHn0gTMwBKFcY69QQ8knmunZl0jbQfhjlLwtrUv6aH9u6nw=",
+  "URL": "https://hackage.haskell.org/cgi-bin/hackage-scripts/package/X11",
+  "LICENSE": "BSD",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1593428131",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "ghc-libs",
+    "libx11",
+    "libxinerama",
+    "libxrandr",
+    "libxss",
+    "haskell-data-default"
+  ]
+}

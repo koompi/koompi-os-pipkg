@@ -1,0 +1,23 @@
+{
+  "FILENAME": "haskell-network2.8-2.8.0.1-10-x86_64.pkg.tar.zst",
+  "NAME": "haskell-network2.8",
+  "BASE": "haskell-network2.8",
+  "VERSION": "2.8.0.1-10",
+  "DESC": "Low-level networking interface",
+  "CSIZE": "265385",
+  "ISIZE": "1347296",
+  "MD5SUM": "ebd10cb44ebc31a21345099dde7dae69",
+  "SHA256SUM": "c340b9ffb572e56e3caac5ff3246ba2452ae2ff6349dc615d133fa3ba75f2a35",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl75HbAACgkQeGxj8zDXy5IUZRAAwPpS/93rt/MdevO7OtAVjixrrt128JjfSVi1haK7EJsWNYKraUp1IWy6TuXRRrWhZPPJl8TftUcTM0jDJuMKfMtAs+hGkvrMr0nbImL/6dO5/Cdui44N8ylpmg9EJxBeFHEM/3F0zLaRF/m2JsL0bZBVrauRFdopUvdjTIdsxyAh80cgPlffFJ58eSAy2SADrIHbZWRRWbrC/xOEhwU6PKbmQbgQdu26B/s7iuGVtyv9N1ptUxrrKroIrM33Gx35axKq9Dd+VrNpAg2IZ5i6B+2NGTcA1PaYyptSmklWwbz/tNStxFmXglOvt5mDxfdSdgXhZdfnFTKqhUd/6E2PIa2Y39wrg4u53DoZh6L8dzVEd4HZ6t2adfMJdaOOEUMvSWZ51Tv1IsMzDVHWYQAVbCnaXa5yQDU6+n1a3ISwEknI/uI64byxhUoOKlACQ6Nx4P3F+sf3dLDnhGEGqV1/Mll4/+/K18CCcfGPMdlezVX7k6DytIiV4/kZqOptO6r8vXH9bZOrooC9+I5jb6OlWmFqEPBYffjqXwrIyK0Hp5D3arbU1h48BseTOdFxPJbimKbU/ON9UPqfu2+e77m2B3U1a5+51La6miiPvAQwLU8/A+c7qFBZvWIbMBYk+sVVVReuCKISf9mSPxtYX/vLh4bg4G522rbZv76szNSGU4o=",
+  "URL": "https://hackage.haskell.org/package/network",
+  "LICENSE": "BSD",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1593384324",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "ghc-libs"
+  ]
+}

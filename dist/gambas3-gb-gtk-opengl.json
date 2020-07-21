@@ -1,0 +1,25 @@
+{
+  "FILENAME": "gambas3-gb-gtk-opengl-3.15.0-1-x86_64.pkg.tar.zst",
+  "NAME": "gambas3-gb-gtk-opengl",
+  "BASE": "gambas3",
+  "VERSION": "3.15.0-1",
+  "DESC": "GTK+ toolkit OpenGL component",
+  "CSIZE": "8430",
+  "ISIZE": "15797",
+  "MD5SUM": "c80390a166ebcb1bd058f46782ec0372",
+  "SHA256SUM": "e2340dad72e7e79974618ba66010506bf6931fb2174dfa3b4167cacc5cd4a5ba",
+  "PGPSIG": "iQEzBAABCAAdFiEEU1+MAzlFDwVKTSgnBglqatHO3awFAl8C7RYACgkQBglqatHO3azqwQf/cbQf6AfwVreWw4fyyz/IvJwDicgyIM62rGYvNPnvc89ZIVfEnRtMNQXtBvexvY6kXRhr0p5KD/owCuhB16i3bjExBh1jabBQ6PQnNhYuQZ7Q57ERfRrft1h8yQVhbbSks7xbQWCvOikuIee1vBQHUmxkoO/kOfXyi9kAc2M80kpdQ7M28sUx4c5iCeb76y9f3OoXRUw+vV8lpADybjdGW3JyBQzgbD/a+TMVimcpw/+K8ZgErNooiKVL7JCsV7dkbRn5QY7OP9GDnMFpALgZMnDF+VV3hUvxXHfHqDN9AkN3Tvm7LFFGDC4RgiEw2g0PVznbZcrot3Wg+tmpSqQOZQ==",
+  "URL": "http://gambas.sourceforge.net/",
+  "LICENSE": "GPL2",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1594026389",
+  "PACKAGER": "Laurent Carlier <lordheavym@gmail.com>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "gambas3-gb-gtk",
+    "gambas3-gb-opengl",
+    "gtkglext"
+  ]
+}

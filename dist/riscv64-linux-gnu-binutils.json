@@ -1,0 +1,23 @@
+{
+  "FILENAME": "riscv64-linux-gnu-binutils-2.34-1-x86_64.pkg.tar.zst",
+  "NAME": "riscv64-linux-gnu-binutils",
+  "BASE": "riscv64-linux-gnu-binutils",
+  "VERSION": "2.34-1",
+  "DESC": "Assemble and manipulate binary and object files for 32-bit and 64-bit RISC-V",
+  "CSIZE": "1829591",
+  "ISIZE": "15787518",
+  "MD5SUM": "c1855dec43b1048b2959b5224ea0a815",
+  "SHA256SUM": "2e0ba558935b04c984d3203d929aea4f1e37f3518e5c105431d94740dd824be8",
+  "PGPSIG": "iQEzBAABCAAdFiEElihV8HLHoBhGQFhk/PPIy1z5yNQFAl48kDcACgkQ/PPIy1z5yNQwBwf/Q+t9kE3BOUUICzqYWrQfXV6kvy1S4sE9koscFI8CAHo371PqfMivsd8QGPJdZuBip67XXqE8T7DurfKZpH7lDhtYZrXtx06Th0E211aQqL51yX0k2zdNcg4dIBF8MIZaiYuyVnTNnLV8HR5oNSe+wL2Perot059ik88sqc9Qdj1MIocjiZ/YRiRN6R4v+lsFmpTLDweeZyuFRIdHlT+arR8ZJfKmD6Lz6JIop3iXC67UVsiMzUsZETMeUaCk3HSlPpjKItZwquCYlNUHbzfFjRgQGhLM4WtJogSUkyoWTP9edzIWIDDoEdsL5M5OU3gFxJK82Z6LmxdOgY+HhaFLDQ==",
+  "URL": "https://gnu.org/software/binutils/",
+  "LICENSE": "GPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1581027090",
+  "PACKAGER": "Alexander Rødseth <rodseth@gmail.com>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    ""
+  ]
+}

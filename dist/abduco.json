@@ -1,0 +1,23 @@
+{
+  "FILENAME": "abduco-0.6-5-x86_64.pkg.tar.xz",
+  "NAME": "abduco",
+  "BASE": "abduco",
+  "VERSION": "0.6-5",
+  "DESC": "Tool for session {at,de}tach support which allows a process to run independently from its controlling terminal",
+  "CSIZE": "13164",
+  "ISIZE": "37352",
+  "MD5SUM": "0384365110abb92592e58c39b0317b2c",
+  "SHA256SUM": "b87893f4783e57660e8dbbf3dcbaa955e224b8feeb727d3cb0d03ca079ad19cf",
+  "PGPSIG": "iHUEABYIAB0WIQQEKYl95fO9rFN6MGltQr3RFuAGjwUCXcA4zQAKCRBtQr3RFuAGj4IJAQCs1ncctrHDf4hpQaoKzSdm9sQ0tPysSErIdLT9O5Kz1QD+Mm8t/pxiDbuygBd3SnhRCi4GosVgJGrhC2TkTgtrGAo=",
+  "URL": "http://www.brain-dump.org/projects/abduco/",
+  "LICENSE": "custom:ISC",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1572878487",
+  "PACKAGER": "Christian Hesse <arch@eworm.de>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    ""
+  ]
+}

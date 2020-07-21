@@ -1,0 +1,23 @@
+{
+  "FILENAME": "perl-digest-sha1-2.13-15-x86_64.pkg.tar.zst",
+  "NAME": "perl-digest-sha1",
+  "BASE": "perl-digest-sha1",
+  "VERSION": "2.13-15",
+  "DESC": "Perl interface to the SHA-1 Algorithm",
+  "CSIZE": "18173",
+  "ISIZE": "36205",
+  "MD5SUM": "c3beef5df794762b949761c2c28d343f",
+  "SHA256SUM": "3c2504e69133021ff0a63578a3b53b0df5faff5d51c15d6dc9863151b7d5ab8c",
+  "PGPSIG": "iQEzBAABCAAdFiEEhs/8qRjPOvRxR1iAUeixSKmZnDQFAl7vNq8ACgkQUeixSKmZnDRpNwf+KluwA7iU487H5m98wN1SgphZ8ScqFVNPJFdMGOU45V6hTMtOzosE4wK6j4NFnOPhfC++uqw1VzU/zk4xvony5ZnfDxvllUabD2RbBbeXSA536z/waZ4uakQvdzp0tGS/ioMvuN0vZX7RLkXvpg40rvzqTyxDpfQE+AAXilneZScf0KlNXy7b80vMR+EwEmxG7++qNHeeyU9fOHjzygNj85qooUuz5zgkdabEgldLbSi+Ep5w8sfw4K4qTfyQCNglVeCPGL0EEUc2EwxxYNqqS1puTLChSvFM0uRJldLjfLKmnPBxypK5gOkFPb/tTPaiWixXzb/92YmV39VPpJy6zA==",
+  "URL": "https://search.cpan.org/dist/Digest-SHA1/",
+  "LICENSE": "PerlArtistic",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1592735392",
+  "PACKAGER": "Evangelos Foutras <foutrelis@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "perl"
+  ]
+}

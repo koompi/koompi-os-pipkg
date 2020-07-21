@@ -1,0 +1,29 @@
+{
+  "FILENAME": "gtranslator-3.36.0-1-x86_64.pkg.tar.zst",
+  "NAME": "gtranslator",
+  "BASE": "gtranslator",
+  "VERSION": "3.36.0-1",
+  "DESC": "An enhanced gettext po file editor for the GNOME desktop environment",
+  "CSIZE": "1111916",
+  "ISIZE": "3801145",
+  "MD5SUM": "1d4a5e74b48f3d58721ab0477d355834",
+  "SHA256SUM": "db0e560baf95942955de9b51634ef2f267bbf61dc9e122eda4ab4cc41ec9c69c",
+  "PGPSIG": "iQIzBAABCgAdFiEEOO3RiGdWkk4SJOSVJOTNsAE8JYAFAl6AwFcACgkQJOTNsAE8JYBN7xAAoyiR7r2QwCnXW4/Fk+9fVvK33V1mDlkUA0yfJ+J5B3XYnyyPLlxxkzayX5FVKJt0MLBwvbT2wJrB5slsRorc4jKUOiqwGz1Iu65d5h2d5QWUYXAoFsRyd79LP/l/al+PuGKFu+EeOo8oGa2sBhPfFBOHL2G7N0+31yiSfqxOlkWpRRB1e1EdPHcJ7736fc5QNA+H5b3dM7rcFjIzIc4BkPY+ZIsXWYyQZGx6fe7ilf4Nn5JzqBjytS/vdbOPl9EPlYHmNvMeqUkJO9xLGWNMR6AsQNy9Q/+92pmWonx2gyxVrHM8nkd6o0evP/7UOkTv7pYaa+XytCcFtF+JYHOPjwkog1f50xH1B02QJU/R0dDHIYEbtwbqHHt4kS3WyusdMMShZxuxGGCDrBUV1dCM2JM4SorS8uleQww+UoAx42xEzZeNsq5ni14+I0GexyCVcbNZ85cqFKHWSSDfevTvbW0papOAi0gc2r6cSZ31/PphvDuEN2J1wf1Vlph+v8zh8E5hoPoRk1T3lZF9aT4HAkem0QDNcuGeT4oY8orJqUqrms6+cM+QVFujoJuxaKpKcoOrocPe4VC5XN2201pG7P9FnWQZqEk8YPUyXCZK7jZFti1M5oHis7i9QetEC7x1rc+8ReKlUQoOXJhFIp6s2arlOynPptaD30UEfzXvO/w=",
+  "URL": "https://projects.gnome.org/gtranslator/",
+  "LICENSE": "GPL3",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1585495631",
+  "PACKAGER": "Jaroslav Lichtblau <svetlemodry@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "gtksourceview4",
+    "gspell",
+    "gettext",
+    "libgda",
+    "iso-codes",
+    "hicolor-icon-theme",
+    "libdazzle"
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "FILENAME": "uwsgi-plugin-lua51-2.0.19.1-2-x86_64.pkg.tar.zst",
+  "NAME": "uwsgi-plugin-lua51",
+  "BASE": "uwsgi",
+  "VERSION": "2.0.19.1-2",
+  "DESC": "Plugin for Lua support",
+  "CSIZE": "12102",
+  "ISIZE": "35192",
+  "MD5SUM": "6e01b4c6a0ff43dbb7a5cf03c68fa74b",
+  "SHA256SUM": "f5429e09cc4470013f7eb0c816f233d6953cb62b1ed5685d5e295230f443df8c",
+  "PGPSIG": "iQEzBAABCAAdFiEEhs/8qRjPOvRxR1iAUeixSKmZnDQFAl7viH8ACgkQUeixSKmZnDQUKwf+IKWIH59jiJ3gGjF4X6X6hQFOpjHzb4F5d+J2SFLDEwGcvFQ1cw5UqO1MqCORAR7iDzIs3sDwgQus4Aus6XJfDTpcQPzFoZFnPJIGfixqsdTMTn8TgviOEb01hRd/1xHy/jSj89AMVHTDuK0aKrxc22fNnsLyU+fSq3w9MUD4nR1GO/U+iy3uHxADatAHxFMqyzYeOd3b4ATIiDQlY8FBFAW9q7/SznrpfLXXOlqFBmIKNn24ndcyU8qYUCMUuZvCC0Fa9HnG97TJku2WI9+6A2jykNbMvcNSxTetdW8Pk5T6JNQOUxWpoGiXGVnz60Q/tRNYBCgzinsZOKdJw6aS3A==",
+  "URL": "http://projects.unbit.it/uwsgi",
+  "LICENSE": "GPL2",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1592756215",
+  "PACKAGER": "Evangelos Foutras <foutrelis@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "uwsgi",
+    "lua51"
+  ]
+}

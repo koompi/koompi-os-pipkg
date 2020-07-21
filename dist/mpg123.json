@@ -1,0 +1,25 @@
+{
+  "FILENAME": "mpg123-1.26.1-1-x86_64.pkg.tar.zst",
+  "NAME": "mpg123",
+  "BASE": "mpg123",
+  "VERSION": "1.26.1-1",
+  "DESC": "Console based real time MPEG Audio Player for Layer 1, 2 and 3",
+  "CSIZE": "408746",
+  "ISIZE": "1143100",
+  "MD5SUM": "c59db5b089e7facd804c461144f45272",
+  "SHA256SUM": "bf83393a0c816319c50b16c218f45d423a0f00255c3631110a9d9542104a26a8",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl7qXjAACgkQeGxj8zDXy5Ljwg//XKc/dEadxOPg+DAnXxFmvjKSnjEY7evXC+Ct9+LBPBzS8+FzcETG6pFHMEOduqiifIyiM4qvnlwxPdB0rJYueb2rOv5SlTO2orpU+u8cK698l5npff2LYtBDoHJ0zA3odLSS8N4KswN7nI2Y1wwhlO8LnoZ1flDJGaS+G93Kafwoa8sV7DDTeWpNOanLMKLwnpuS4l+itE+0MlPQ9m1vXn//peCh7LPnTKPSye4aOGRRuQ9lJ830fMnpuR958rOwibkEvylNN+y3LQNWzexYKD90Rn0MRmqq1oPQ+5vHpI+N5r9b/mX+tUen7W8Z3FLr3HFL1i0iLdE6BZ/u2bvIJAJPG1cs8ghB0tN44uyB0ODC4n0LfhU34X5/eWAfL3yZq4rJL8cH+4icVCW0IVZEMQc72+0VOD3phgb6vBc2xErgPvfKSYDHISVcdyAChdwgBADT6empxaushr0uiOAL8SCMRlplHiPCZbN6mZkm8D2h60xwnsNHl2SwxwyizdmXz2+9/xdGU1geQP/YInxEhesHXLWxx6OoV3tcna/19F0N1Q4FiZDT/L1XAc1KC/JjTxPHe1aNSE5fStcxNT1PbKdPrj65qr9Kyu5OMIpk3sBoMJwdaLlr3Dm64bWz5q55S9+Xs6rVQpn0lYKjdQsD6MfumywwVcGCF3KukWT/s5o=",
+  "URL": "https://sourceforge.net/projects/mpg123",
+  "LICENSE": "LGPL2.1",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1592417744",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    "libmpg123.so=0-64",
+    "libout123.so=0-64"
+  ],
+  "DEPENDS": [
+    "libltdl",
+    "alsa-lib"
+  ]
+}

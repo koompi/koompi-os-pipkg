@@ -1,0 +1,23 @@
+{
+  "FILENAME": "perl-file-basedir-0.08-5-any.pkg.tar.zst",
+  "NAME": "perl-file-basedir",
+  "BASE": "perl-file-basedir",
+  "VERSION": "0.08-5",
+  "DESC": "Use the Freedesktop.org base directory specification",
+  "CSIZE": "16878",
+  "ISIZE": "22380",
+  "MD5SUM": "e0198457720ca350b68977d885ffed5c",
+  "SHA256SUM": "96361e989a56528cad508e3091b9201c29b3abb628b253073ad4be86316fdca4",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl7vfBsACgkQeGxj8zDXy5JV5w//UjAL04UYwFZcRrV4lws1mPEV0JGSNH0JwSXUBeLYeuZHR867NWT9IdjsuYr74JCQLoMLud4yOzJDbQXpHyIg+PLVxAtYEqoB1ebU421JPK1hXA76TlBqQiytj5DeL2xN6fDNr1zg3nABRGLd8pDfQcsTDEkVnH7WbQF3M2c+kK8XHsc5WLDYtWMMVbephnG9PQ+yS88s/2E/59p/NmlXwblm6kGLeXfeJZbtyfTieJmkxs6e5i1mTpPuJI83tSa4EzjBEbdhtbEyIK2yXm5O8nlB7K+jSXxA4tm12uKD92t8dOPMO6wZ/OHeDRW2qnJeibEWRm51J5ifPtOpzpQEcDTXGYNOszsMRT3rIzlOR6Et5jGo8A5/DXl+gKMQ3/omdD1HzWp6RDgYS1g4lbXofSqfvaHJEctoAljZuZLFmxnNM6BEaVw/mLAdeC3NjSsSqCnBxTnoXD/q9Ch/n3/r6O7YbKFAe5D9Bw9SGpWAP4D2G2ViF2Y/O8/bFnVaeP4ycoOJVwj6jULMyZEpAeJ+ZgAS61M2S/KaOHpjYEzrGSRoLWK14Y25KlnRU5vEbtlHgv33l5pCi9yOQshu/wWDLu3p1CG10572/162eEV9dJfePLeVB2I6TYcT11/G5fxFJC8SvLJZllaso7PZvutdIo2mdMYtoxS/eHTCqmfEuUA=",
+  "URL": "https://search.cpan.org/dist/File-BaseDir/",
+  "LICENSE": "GPL",
+  "ARCH": "any",
+  "BUILDDATE": "1592753150",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "perl-ipc-system-simple"
+  ]
+}

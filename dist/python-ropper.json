@@ -1,0 +1,24 @@
+{
+  "FILENAME": "python-ropper-1.13.5-1-any.pkg.tar.zst",
+  "NAME": "python-ropper",
+  "BASE": "ropper",
+  "VERSION": "1.13.5-1",
+  "DESC": "Show information about binary files and find gadgets to build rop chains for different architectures",
+  "CSIZE": "151160",
+  "ISIZE": "920394",
+  "MD5SUM": "7e2c9d8f3c5b6c84fdc366c7b2ad46e6",
+  "SHA256SUM": "174a66bdff7d31e2026817c441871e928f8c3c120a079c08c234db1e738ab015",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl5k03wACgkQeGxj8zDXy5J3Pw/7B/ZqnDuHQ9BJouHO6MAqa4NtBvrF+U4wuXzCJxIqz9Fm5YxjPx3Y31Ee0+QgpCFVBmgUTUZOAd8m8HAfAjRZo8Faf2NTRi7SaSQ8U2heiFUlJFqH9ruLR93ThEldbhcFb3qo/866VlSU64E/7nMrR01z1GR2AroV8ldT73p+fMby+7wq8a+wYmYk2az9kmKT2shQDk0blcVYcGZFeZPH+mjldE3ca8N4vThWa3MWIeW0BVBQGz0aqS7tZUhKnFn0y9gHUyX1cNGXKobTP9djADxmsljBiMM3SH52j8pRnbmTBgfoEMSNwRHzRauodBJxgTO1rGBAjCqfMaMIMO40uQssOKnj1S+m+9yFFI0bSof2rwkbZwPGWtwTIZhmppREbs/ptIwssUduWkyTqZDxnTDhBXjWdHzPIm1KHVxWU/HXV0BMCYMAj65qIDw5luc30vBMYPoWTEXVCXMaOXAqm8KniE0Phi8K5pH9M7v5Yu3o5DekTggwZ/OngtwT/FcmfvUljUoGeLQnwqvU1vqyszoIYQw8yYwJBmsIthSL/QSK6m5srMSJDmpBDTI6Hu9puxWzTO/sPzmkjLZZJsy90xEB1sMG+eAIYcZomt4GaAZm0gz8iu7wWqWK2HOn/EBOD9qQHzxz1lHwUnHxyJp9YDu+9jX8UsCjnjy6ssItrOc=",
+  "URL": "https://github.com/sashs/Ropper",
+  "LICENSE": "GPL2",
+  "ARCH": "any",
+  "BUILDDATE": "1583665959",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "python-capstone",
+    "python-filebytes"
+  ]
+}

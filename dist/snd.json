@@ -1,0 +1,41 @@
+{
+  "FILENAME": "snd-20.5-1-x86_64.pkg.tar.zst",
+  "NAME": "snd",
+  "BASE": "snd",
+  "VERSION": "20.5-1",
+  "DESC": "An advanced sound editor",
+  "CSIZE": "12110936",
+  "ISIZE": "32237343",
+  "MD5SUM": "24e3ddbed207da912362a22be545064a",
+  "SHA256SUM": "87a3066187925ce3ec7d7eaf3dcd8f35cd746a843556c78be5d1e6a99d04023e",
+  "PGPSIG": "iHUEABYIAB0WIQTH54SUZv4jWDQ1iDdyWHNLQcMVSQUCXvyS8AAKCRByWHNLQcMVSeOvAP4xV0fHu1YV25B5ncPKs/XAb6HvlbY6Hj11oJdt7/LQKgD+KvNK7eYSqAYXOAh6wD3beSUx0aXrlP6a9EK2absSmAU=",
+  "URL": "https://ccrma.stanford.edu/software/snd/",
+  "LICENSE": "custom:free",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1593605920",
+  "PACKAGER": "David Runge <dvzrv@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "cairo",
+    "gdk-pixbuf2",
+    "glibc",
+    "gmp",
+    "gsl",
+    "libmpc",
+    "mpfr",
+    "ruby",
+    "libasound.so=2-64",
+    "libfftw3.so=3-64",
+    "libgdk-3.so=0-64",
+    "libgio-2.0.so=0-64",
+    "libglib-2.0.so=0-64",
+    "libgobject-2.0.so=0-64",
+    "libgtk-3.so=0-64",
+    "libjack.so=0-64",
+    "libpangocairo-1.0.so=0-64",
+    "libpango-1.0.so=0-64",
+    "libsamplerate.so=0-64"
+  ]
+}

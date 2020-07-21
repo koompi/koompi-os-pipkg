@@ -1,0 +1,24 @@
+{
+  "FILENAME": "ruby-http-cookie-1.0.3-5-any.pkg.tar.zst",
+  "NAME": "ruby-http-cookie",
+  "BASE": "ruby-http-cookie",
+  "VERSION": "1.0.3-5",
+  "DESC": "Ruby library to handle HTTP Cookies based on RFC 6265",
+  "CSIZE": "58891",
+  "ISIZE": "234094",
+  "MD5SUM": "b9c918827f9d7ff6e8b7adf9d1f7165a",
+  "SHA256SUM": "8092be4d4bd46cf0ba6c80e15c0546602bfe5c561e90a2019cef2b4ae185f2fc",
+  "PGPSIG": "iQIzBAABCgAdFiEEba97gI+d8lE5YgAA0hRh49/iBg0FAl4mBsQACgkQ0hRh49/iBg3ZChAAu16/rdPv35pgAQFW+kwD5lJHuU0/GyHKG/0Ti9jPik+q6ee3rAmG8e2EY5AddQlqm247M0rVdur/OTA2osOzaqvuZQl5O8wGLQiKfJCyN7N6cpVKLqAYN9JWlIB7nBAvRnrZFA7rsGJmLBtJcjaGnnfy1P6AScU1AMQaetZZpXaCwNk9WzspjNucmwoJfcrV2Uh5FJ9JasHYkpelyQ8jsK8ojHrh08Iu4AIl2NyCffPhtdvSgIdK3AJXdI8pIH4iHcEWpAsPSlS5q2hzQriOjWO29qP6CieO6vKh9Re4O4MspuKbcSZoVije7wY+NgqqL4iGro1sa+bAiCY1MwqHlFHj8z92jL0HlrQXmo1zvTke3tvyxAAPkULu/mlt1KyIrpsRvSun6S2Yhit3vDoA01HXQn4xxtcASaaLamkhIcvwXvEYg5vWgacYkpT/Su00caHafCCT9okJzXG+qF3Jtl9yElZZ2MCivzX+bOpxT4ohBTzRX2P71Tjmeeai+LDOhHqIsQvYwup9wupcEKxmpwvIp3RFxwKcdeEkbYPa5P64C1nYIIzhW1HGo2PoUsXkuxmh6+Fi9WarLepwvEmwT+iTzLzKeRxY/2FZ3VRzbgg8x/TnUQgP9aMSjHN81sYU8/ZDl7a0CnzSxWK6cveWfJlNeEZcZ+3/INVeDSBIL/Y=",
+  "URL": "https://github.com/sparklemotion/http-cookie",
+  "LICENSE": "MIT",
+  "ARCH": "any",
+  "BUILDDATE": "1579550381",
+  "PACKAGER": "Christian Rebischke <Chris.Rebischke@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "ruby",
+    "ruby-domain_name"
+  ]
+}

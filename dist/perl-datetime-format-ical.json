@@ -1,0 +1,27 @@
+{
+  "FILENAME": "perl-datetime-format-ical-0.09-9-any.pkg.tar.zst",
+  "NAME": "perl-datetime-format-ical",
+  "BASE": "perl-datetime-format-ical",
+  "VERSION": "0.09-9",
+  "DESC": "Perl/CPAN Module DateTime::Format::ICal",
+  "CSIZE": "12228",
+  "ISIZE": "21165",
+  "MD5SUM": "8aee60586db7e8fbac1dd7cb4d05c688",
+  "SHA256SUM": "6efddb8a639a1a5758226478af49536add47a217b6dfed7a505df6d671ced780",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl7vg0sACgkQeGxj8zDXy5Ka2g//dkpfr9nmA1y7g9yyX6ajBkrij0QwMVmsT3wsJikx5tJoTww6q7bjPvoQIMKcuW8IFRofxjNaFhZNVqLPB4n2f630vcvEwpt7Me2IFpmBNYcgXpEjQVpv6zOBjW+P4yUX+lJszdJuiE1rHq4v7UNOfbA8q5wpH8jSiR6xVdMA/c3jMZMpgUv/LakRVE9ET1RmwaOgkrsGX234sRKU642KYwq+lEXqXCavtgWuDKLvpZwsnyWTXL4fFd/KdsNwDmmLoVtW8NF8FTIRv/sDSIv27tG19bgFnjq4RrisR/SvxEQXMJT5YckhYiOO1oZNVOi8av7ova3kJsGEjOhFFJvBlDIJFjByZZtTwFkZKZrbwp1KxkNV/3E45lhfe9CIGh65m5faUAuF+T7KYkxBExQ7eeCfss3RVJF3AO0TU32O/NZ0NCLNgC5pmgH4v3oCV95NWJ9h7HhFJB3PY3GHKP7IF6u3j4PZWPGJbhwPMphvTwTQfBWzRaYYbqysm6sRlQAbBK3pfX+Pch0bu5aTHSw4R8PfayjMI+S6AJhOeJRtqon31FQP83Xi4qXpVLPGcM0qr+8K5QK3AnNh81n7dLZvpG/IvH4xxn+CBgnM/ZA31TrlLrtobWaBY+1JjMQ8ihqQoRD6eWmGVkcAhB6sOw/eB5zSxUtpPuYxIOcepTxVDEo=",
+  "URL": "https://search.cpan.org/dist/DateTime-Format-ICal",
+  "LICENSE": "GPL",
+  "ARCH": "any",
+  "BUILDDATE": "1592754935",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "perl-datetime-timezone",
+    "perl-datetime-event-ical",
+    "perl-datetime",
+    "perl-params-validate",
+    "perl-datetime-set"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "FILENAME": "haskell-xml-1.3.14-23-x86_64.pkg.tar.zst",
+  "NAME": "haskell-xml",
+  "BASE": "haskell-xml",
+  "VERSION": "1.3.14-23",
+  "DESC": "A simple XML library",
+  "CSIZE": "127355",
+  "ISIZE": "663690",
+  "MD5SUM": "87aadd4b41145a949f9d8a824e14c7b1",
+  "SHA256SUM": "e1413ae493f2bcd200775940ccf6859f2f52afb0333d333253c31911804691c1",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl6iJDUACgkQeGxj8zDXy5LWzw//c1A8i2eJt+e7bd16Ay8oplD9gbKuU3ERE3KNTG6EC0zPjn0KX3D6aXo5QHuD6/hy1jwRR180t1a0hwdW/QnT/gxtWWbsJsNN4gu/Glv6ihEATM3o3vFi+d8ojJyy6N/W1mMTNztCBNYnR8zQonUVGBVWlBGG/CsZr+HhiKXh180lFeGUZaZ2mNygcQIA51iRPkann/8ICSMEl3CcbmbsJwiBsl3FSWOWHPro7j6DT6eRpPwYuSNc61r3kpc4iaN+Lqj6ewpKnRgRf+i6XPxbcHWUdojEdC/NGNA4Mmrx/2QizNKUkC+l/kDXDXNyVnFPUYBui1VWy1u3ZLwFMtqrKNjM3P+EDvyfWIqP/Xm/839rNXA0oWglh7W4SYFR9rQ4q2pCyJD1K2kF1Cp4TuKAAveCcfgF5nWfzWthZBYbVfk6OOZtlPyJLptFkyi07A4rXzd1tdkg+RQa1hojOzcye/G3FZ8kHyLrfqVznk0TRV6aFdEiQQrfuL9RAe8Ef32UyIoXoC+Y4GCMloKrO6Y4vtEBINWzLo5bYA5jfLhCBHlSJvo3FrQQKWDm6ZNcB4gD5/euykg4PzqOqeJodCSUKZDMGSAZFvnkkgTXXl7YnPL/cfq20DINH5GawvwmqIMFGwGuiKOPNjV2W0gcbsReork5I1KmDm+Ao1HF8dJbWxo=",
+  "URL": "https://hackage.haskell.org/package/xml",
+  "LICENSE": "BSD",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1587684314",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "ghc-libs"
+  ]
+}

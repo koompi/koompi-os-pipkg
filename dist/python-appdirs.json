@@ -1,0 +1,23 @@
+{
+  "FILENAME": "python-appdirs-1.4.4-1-any.pkg.tar.zst",
+  "NAME": "python-appdirs",
+  "BASE": "python-appdirs",
+  "VERSION": "1.4.4-1",
+  "DESC": "A small Python module for determining appropriate platform-specific dirs, e.g. a \"user data dir\".",
+  "CSIZE": "15557",
+  "ISIZE": "78211",
+  "MD5SUM": "e64973c92e86bece0ffc016208e145f0",
+  "SHA256SUM": "33a607697bcace4c0bbf1b26a63a81effdff859c029e5694fcec4b0f9cc6fdb2",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl67u5AACgkQeGxj8zDXy5ID+A/7BUsLBgTTvBRgWXXpb0/lZolEr362YW2GOwIto53ErjDIqlkJ20jkt9mvdOfNjE3ZzwUmyZNI61bK5j9H1ffDYFC5/0C49rXwqmBUBiKwRyb11hMdZd96dAgqJBc4+lFlP3H1vyCzaqMHwvad0axU455uDEG57RKmlZ+W409utLP+05H5Mrbf1V8d4fF/ftYwMCc9pkBeO3s8auH+Y5bIC0VmCKBIV2JGi6GwV3oA4aepE+P8Wq+iWCwWrDWHczieqHnrFnDrUsGnhvKrFWte4nldwQux7Tf9T1mIsmw0NOZBqKAtWrj7gWrOyYh3/da0i6nOW0Do7MU0APpUqS7eJhfpe7UjNeVk3Jw5MGBPe1PxSIYpOeVHr8vN4W7CmcqfhFk6/W/jhFtRyZowigC5sQamXR1EMYJP6tyUVHMwNmu0aFyYJFP1kN+SenqZ7y1qTXY/2ogoF2DL4VOzmGWVoPfIM7nrIM5r0aaI+/2NcN0fkZEoTOV+UlaiFTAV6MRd4ydWURxh6UAYpRowgUVumo0bneR5MvIl2S4ebuyJdxtKHMNgzdona5vcMsnSvtaRTopvd51d/CemjfHjsWAi0It8EMA8NGkcgQ4I6lIOFwcDjI+5vKNS2UYCXrUoZNvd0GpYg73Uk9XqIthoG402v4eB2uC7a6UUdZYU/f2F5dw=",
+  "URL": "https://github.com/ActiveState/appdirs",
+  "LICENSE": "MIT",
+  "ARCH": "any",
+  "BUILDDATE": "1589361522",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "python"
+  ]
+}

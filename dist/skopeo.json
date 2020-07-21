@@ -1,0 +1,24 @@
+{
+  "FILENAME": "skopeo-1.1.0-1-x86_64.pkg.tar.zst",
+  "NAME": "skopeo",
+  "BASE": "skopeo",
+  "VERSION": "1.1.0-1",
+  "DESC": "A command line utility for various operations on container images and image repositories.",
+  "CSIZE": "6915897",
+  "ISIZE": "25436450",
+  "MD5SUM": "796e11995038e245fa7e7f3b258463b9",
+  "SHA256SUM": "5e6efd7dc9ce6f22d300bc748cb1ffbb9306487579095802acc56aa230c6d6b0",
+  "PGPSIG": "iQIzBAABCgAdFiEEktnGzemaICTWkKdu50JoO6CMsv8FAl7ss1YACgkQ50JoO6CMsv/T1hAAgxy+v7/LpZIjS0g9o4/Jw35F+UiOJMZcGKiD8d67LeEJmhQNWxAiuHyckZro5EzRo77S6yOU+6rIQt3OvpVr6Y+CzHHj9VWrdg64PD0RrAiLrn59y2RHWZz1gkhg/Cbe01qECcpxehFedUdFIFTKVkhF02PUuCLvihI2x8bMV+/IikWnxl+smILKhC7i6vFb0xjZsLju5BaKEuDelUm8EK4AQ8H85CRldXsCZCSjaYgGYD9K/1lcKliZfzqD1meSLQV3GvQIK/dBwwxohMrrctqGaPFTQR6b8KjDpFv1L9fQVTP0dkEhdq5tVtvQjHsOeP1ko5SkTbKNw4Vqi3dcBNF+ZssSgu9k4SX4gcrN+PgHh3rve78dHyYk9mw8QASLgXAy2HSy3mxu4H6F/1LEuPa9szYXTU7pLTwOwt8WsotWnFW7WFAD9Cgy7p4FlFDl2icxYiRGtVtRfVgqgm76AXQv2Jejxy0DipWtqIU01tvXfTN41RLdKLh0NvoE2yld+QLuNkBXuLO0hvz8iCDA7tkI9Ra0UBuQ7XrtjBkTQoHIgHSepDsABBX9HiH96VWrOJ7boJfi62ZTa1n9FJK3qUWhhgABn432N+zKoTJXtpS6WmZAGk3CW2yKwMVK12dfPe8xLABImyk0evgS3fjQEjLkA56tuIiG8UvN7fIyzng=",
+  "URL": "https://github.com/projectatomic/skopeo",
+  "LICENSE": "APACHE",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1592570637",
+  "PACKAGER": "Morten Linderud <foxboron@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "gpgme",
+    "device-mapper"
+  ]
+}

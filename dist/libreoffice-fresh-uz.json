@@ -1,0 +1,23 @@
+{
+  "FILENAME": "libreoffice-fresh-uz-6.4.5-1-any.pkg.tar.zst",
+  "NAME": "libreoffice-fresh-uz",
+  "BASE": "libreoffice-fresh-i18n",
+  "VERSION": "6.4.5-1",
+  "DESC": "Uzbek language pack for LibreOffice Fresh",
+  "CSIZE": "260690",
+  "ISIZE": "1417103",
+  "MD5SUM": "ad935248079bbdf5d39091917299973c",
+  "SHA256SUM": "8098869fbfe1fb598be43a238f630b4641f78c286fd655cf6f1a17fa4bd29981",
+  "PGPSIG": "iQEzBAABCAAdFiEErcih/MFeAdRTEEGelGV6sg8qCSsFAl7+F0kACgkQlGV6sg8qCSvKNQf/SXWZVQA4/x4VlWFHSYVUQn/L4pOjIPROhw3elOWtm9VenxMwEH4MAx0RkDktSngaJBPsiNrvZbmQ6NLB38edQZZEAto9rfL87eI5NvSoHV6qxAtYxqPxniQdxXoKfxAq1Ym1RJsBQ5mqS1cvv0R/ClInboBRlpCh+8b5/WGUC1NZ2qufmXTXmnxT/XKpZVtbQBeEDMpS3U3pxlk8v5ie7Wtb+t4ybD9l9rKImbMMghcbcOt1No5Hf8CoiwyHPDFwzIpXiaRlyHv1gsuwyNHewrN9FRUIHa9UeV9D0mcTKVbG9sCEBjYe2xRX6dpPFF4Ew2PtoQdsNPApltxKbqLV0g==",
+  "URL": "https://www.documentfoundation.org",
+  "LICENSE": "LGPL",
+  "ARCH": "any",
+  "BUILDDATE": "1593700315",
+  "PACKAGER": "Andreas Radke <andyrtr@archlinux.org>",
+  "PROVIDES": [
+    "libreoffice-uz"
+  ],
+  "DEPENDS": [
+    "libreoffice-fresh"
+  ]
+}

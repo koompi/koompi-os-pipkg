@@ -1,0 +1,24 @@
+{
+  "FILENAME": "kyotocabinet-1.2.77-2-x86_64.pkg.tar.zst",
+  "NAME": "kyotocabinet",
+  "BASE": "kyotocabinet",
+  "VERSION": "1.2.77-2",
+  "DESC": "a modern implementation of DBM in C++",
+  "CSIZE": "1954075",
+  "ISIZE": "17570179",
+  "MD5SUM": "701dde319345f9e8ee50edd2974e47c9",
+  "SHA256SUM": "3b03f51b394c6dbddb0fefce20e5f882657681d8aadc5bdd5144864ee4a37dff",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl8ErHMACgkQeGxj8zDXy5Jnpg/+OQQFoq38l1SY/CpSf8qLMHuI81QqnvidcP2riuL/fAfPCAt6y6gJ18zoZujVjKMl/ZfBSjkpqrgua/YvAEy+bL0dFdIpQCw1mPr/BZXVZ9/C6rw3MvBjfbfqUEI1ql8l/KlR0dKfCHQZ8+uMoW3rYckWpdZDR3i1tZ1cPPsofrkdotFOGn1k0bM5ySkUrDINBAHpUYl9c2DPPrfFlYKOfJRmYhY754A8c9BidtxD4I3rvynBRaC0wDnDzDj9O3MBA7PWGsPrRgBTXhNsuqnfmMWtrTFUPFg6hcfFgnJ5CTV/2SaiLnFN6J3GvqRsV4q3BOh0z1tc1drhtU9VMhi9fvBKHxLfAW2aLEaU+ZYTcjAY+QMDFTFbsy5yGH0z2SAq7DMIx9NqD0CdVqOTKvNZn5nfhUWUFO226RtDeVtbZpu1Pq+wHwkQQaN628Ry4a0kT+KmLyhmtqehrk3V29jzVbMU3PrDQMl4Gst3keS30WIk8Ti8pcXbBTR4MhxU/8XZItkSwuC2TbHiMp6IXUi6/bo29zMoOta740CNj0H3zSWgtEjOjHH7VHi7fmDBZBKZ82axTtOrNLwT7HRH1LTV66FB+EmwX2xVwOGIgqmAG7PuiZHkP27ruDFpz6MLoQWgk/zKnIij72aTpNWs9tqdHGYDvc+KoZV3yYjOcVbZtl0=",
+  "URL": "https://fallabs.com/kyotocabinet",
+  "LICENSE": "LGPL3",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1594141755",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "zlib",
+    "gcc-libs"
+  ]
+}

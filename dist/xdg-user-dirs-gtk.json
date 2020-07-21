@@ -1,0 +1,24 @@
+{
+  "FILENAME": "xdg-user-dirs-gtk-0.10+9+g5b7efc6-3-x86_64.pkg.tar.zst",
+  "NAME": "xdg-user-dirs-gtk",
+  "BASE": "xdg-user-dirs-gtk",
+  "VERSION": "0.10+9+g5b7efc6-3",
+  "DESC": "Creates user dirs and asks to relocalize them",
+  "CSIZE": "51806",
+  "ISIZE": "177584",
+  "MD5SUM": "afd25221b180ae5ae7fcc07abe3ee36e",
+  "SHA256SUM": "94e20b9c76f199c96781c5fccea2dec9e4bc7e01760629dacaeaed44f7a08292",
+  "PGPSIG": "iQEzBAABCAAdFiEEhs/8qRjPOvRxR1iAUeixSKmZnDQFAl6/9NIACgkQUeixSKmZnDRW6Qf/blbgj49gDltrZFpa0xTtbf7EeHD6+gHFrk/u6lNgWxdK9UK0b/oOytcvnMklx3e6Y7jkP6b3XZTPUKwBEQh6MKO1nR51c4W9rAzX0DqH8PW6cwRXytBJwEABkvfbGOz60fC71MN9wOiGAZvD9xXqSbGz6pE9na8DPdyoryvBl9wY4yuUKjBVVLu1ok3iBuh4Me6QLVrQes9NQ0O51DqlMJk1E+h7vVt7QJ/gO0HftErCJiAq510aL3RPjs+s9mTwBp2hBBPFttu20RF5S9FBc2fO4Od20ctKDTCeYHPFF7ExmDtN3SU+kioVuJfzpuKaomnjDlgeYtK2OuFHiWkSQg==",
+  "URL": "https://www.gnome.org",
+  "LICENSE": "GPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1589638307",
+  "PACKAGER": "Evangelos Foutras <evangelos@foutrelis.com>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "gtk3",
+    "xdg-user-dirs"
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "FILENAME": "cvs-1.11.23-13-x86_64.pkg.tar.zst",
+  "NAME": "cvs",
+  "BASE": "cvs",
+  "VERSION": "1.11.23-13",
+  "DESC": "Concurrent Versions System - a source control system",
+  "CSIZE": "566453",
+  "ISIZE": "1114036",
+  "MD5SUM": "87488c9208c3b3ade2f49331639e1b95",
+  "SHA256SUM": "eb28a8f29ee5f3329c56dbebd3a88eae9f1241d1114e6a9efb97ec8ad4c5e27f",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl7DlgoACgkQeGxj8zDXy5LuMA/+OS9WJ71QORHQ/hilomaexARwfnxJCfv3Z0m/QWej0K6tww4m6eQ6BnRxPdrzWuBUiTDhWSXXGCb/E7NnIrV+nFjkpjK3SYVbG2uEzyAmjcdViaVQBkChstw3MZ/wILVrpUQPRKu6baTxe9V4ofd5ECGlpXuxSuirP5Fhj2Frci0U8MTzJ9FRKH9OPgfUZZzQGh1UZg9sC09Yx7TKC/43RUwo8VBSjJjV+xCbNC/uZS4HLSB4pzYMRj9/QxmDJB48xE0NVcRLRLN1gX4bhl1v/GBUl2KTlPwswX8sY8z5jncoND71WrlV0vtIjq12p8IFhpol9ei4rRxbiGepn6y6mRm1uzHeKVPxf5QGhb+NJzyPQR0Crraja4jLWmRSajJQZtnuCp19HQ/rBeSHrASw265Qlr+PuFDQcDXc6PQ2NBJ1Ou64DqaLCb81LLy2iDjT3D7e0ReRUQXoc/SGPw+h31QhrAsWpLCBZQz6+fz7qmgB9vU2GcZBegSKh3h8DK0Q39Bbqqu4Kk3RiqrBkhGmF2gm9Q3dhtOYr9sPTjgjMe3R1njhY7nSW8q2lIcMSyO8GTlabUgmuTFGoqkvjiJx587MtfahbGM6sUgy+mf7j+fEj8rHwGHMI7Dap+MyET7jS2jOzOQEdMCmpJWCnDc2I2GXr3vMaR1D1XaeUswIX0U=",
+  "URL": "http://cvs.nongnu.org/",
+  "LICENSE": "GPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1589876185",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "krb5",
+    "zlib"
+  ]
+}

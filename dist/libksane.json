@@ -1,0 +1,25 @@
+{
+  "FILENAME": "libksane-20.04.3-1-x86_64.pkg.tar.zst",
+  "NAME": "libksane",
+  "BASE": "libksane",
+  "VERSION": "20.04.3-1",
+  "DESC": "An image scanning library",
+  "CSIZE": "175913",
+  "ISIZE": "692072",
+  "MD5SUM": "7118642be8eb0fb724d8b52382b74ac2",
+  "SHA256SUM": "a099838acb326ffb3228471ad16f19ccfdaf7533f324c414a085c2f7f9d57d6f",
+  "PGPSIG": "iQEzBAABCAAdFiEEFRnVq6Zb9vwrc8dWek52CV2KUuQFAl8HAh4ACgkQek52CV2KUuRciQf+I/c0K8G54vSvXLI6e0FLEiv7ND5Xrlsb/v4reLyaveJJ90StjwMTGQtph5M8y6SUrE7MMFxxkhaMII6Zk/Mdhdb1RqcBIB3x3+Jl7ul7I/TX1L6kv6wztygykyZAs0RgsAeyzHgKCwXhL4PJapNBZMorYEt9LhHhYitdZB6lVU9L56neaV67ncwSuRB29oAH9WFTqJm9oqEARHCYxC7VMivUzTdmOpwtwkVOYDMApfplWWXa+/41TYaWioGtAu/2dMWpXLN2gJAH3hxsL7ovzou7JcCm6zLPbjLtKXvnutGhKI8DGO6+m60FmLzjFuvcgSAzzvTawPFAa2645MDpVg==",
+  "URL": "https://www.kde.org/applications/graphics/",
+  "LICENSE": "GPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1594103571",
+  "PACKAGER": "Antonio Rojas <arojas@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "ktextwidgets",
+    "kwallet",
+    "sane"
+  ]
+}

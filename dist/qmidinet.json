@@ -1,0 +1,28 @@
+{
+  "FILENAME": "qmidinet-0.6.2-1-x86_64.pkg.tar.zst",
+  "NAME": "qmidinet",
+  "BASE": "qmidinet",
+  "VERSION": "0.6.2-1",
+  "DESC": "A MIDI Network Gateway via UDP/IP Multicast",
+  "CSIZE": "105111",
+  "ISIZE": "215336",
+  "MD5SUM": "d9393a8c020b8dc75285e4ab1d51849a",
+  "SHA256SUM": "3d772d8e6e1c9b126c03a050436605fc995cb4e17cc3f9f8334b3d6d3e27212b",
+  "PGPSIG": "iHUEABYIAB0WIQTH54SUZv4jWDQ1iDdyWHNLQcMVSQUCXnpb5AAKCRByWHNLQcMVSefeAP9PmkT8W3KXuh7YQN+jlP6ixmKGJW8h2UAASmHH3Jp9MgD+NY9hFGT7EXm5PVTGO0Lzk0+p/Gu8UKOmJTtkxIrKVAc=",
+  "URL": "https://qmidinet.sourceforge.io",
+  "LICENSE": "GPL2",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1585077116",
+  "PACKAGER": "David Runge <dvzrv@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "gcc-libs",
+    "glibc",
+    "hicolor-icon-theme",
+    "qt5-base",
+    "libasound.so=2-64",
+    "libjack.so=0-64"
+  ]
+}

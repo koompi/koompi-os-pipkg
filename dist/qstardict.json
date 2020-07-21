@@ -1,0 +1,24 @@
+{
+  "FILENAME": "qstardict-1.3-2-x86_64.pkg.tar.zst",
+  "NAME": "qstardict",
+  "BASE": "qstardict",
+  "VERSION": "1.3-2",
+  "DESC": "Qt4 clone of StarDict with full support of StarDict dictionaries",
+  "CSIZE": "477114",
+  "ISIZE": "1122384",
+  "MD5SUM": "d6d03fbbfa6b86281ff9723250e24d91",
+  "SHA256SUM": "bad74f7f2db4c6e4c750e8f88bb45e382af54772071a12ff57fcb325dd35c407",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl7L45cACgkQeGxj8zDXy5JmYA/9FjmWo0W+bCbEf4r6Pdv667eyueyqwassH4jtYCX9dlKNKSBHNoJecq325p4iAr3BV9sQk0PFw8p6y3YMkfugzcdhozcPoCRn0TDZo3aqvvEUL91XHec/BDbtxTpTMyeP952l+vUPMIFmwObG5YKrHB7lNftAdpbmwk4TXaTmJjTLT4Jvij2uuBzEsT5NtorF1VrO0M53orgiidA9NHH/u+D1Ln2Pf8VUb4azOgznF2rXmDtudQpFJyIhdR/CGg+H8Z5oSuM14Hkhdcvw4JN+BRqp7Fx7cAmDHn06GvgVP5+3lDh6sq3E/4Z4SQknzaeWPHpqVz2o0I8gFh4ezZskQePdtw1jKbQ//yA8BozZIqVhi7M8C9GC7W96ati1iMUqMEhz+3/20DWIbAvYrZl+rpPQTQ3RP2HXvBzKl423loKWhX6DEsbDmIejWyzaMl/3lACfeiunhlWx3z937Zv40W5gAZDquqiB3XphbAZxho3Pkerp5zKkOpbQ7Kr1upUfnoHoZ9ppf0WhfTI75v938lRxKY9oDqr3a3nBru6LIlunVI7ItLlYlvE58E/VZpSj4tsLyz2ShPN1qRAUxR6n6Y77YMUadNTEQAFWHTiJjXP1qD/RocRBbIdBVyeaz/WbgwCPi9LPYYxtLzBc4borwaNomDCUh5K6RhqPvhwvJvs=",
+  "URL": "http://qstardict.ylsoftware.com/index.php",
+  "LICENSE": "GPL2",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1590420185",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    "stardict"
+  ],
+  "DEPENDS": [
+    "hicolor-icon-theme",
+    "qt5-base"
+  ]
+}

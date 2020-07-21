@@ -1,0 +1,28 @@
+{
+  "FILENAME": "python-oslo-concurrency-4.2.0-1-any.pkg.tar.zst",
+  "NAME": "python-oslo-concurrency",
+  "BASE": "python-oslo-concurrency",
+  "VERSION": "4.2.0-1",
+  "DESC": "OpenStack library for all concurrency-related code",
+  "CSIZE": "59760",
+  "ISIZE": "307327",
+  "MD5SUM": "3ec45881b611d646fcda69a6c4638a4c",
+  "SHA256SUM": "a473adab9681bc7889540b3ef74f5f47cd4b33167b305b5b422f017ba587d53c",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl76M3kACgkQeGxj8zDXy5K6iRAAl43Q637FgKvcyaqVBq7mlDA/2B815Kazdsqs5uPXTDt+mWscnIt+OPW568Q9HV+VwqruTzVQol4sarOrm42V4LcB00Al4rAXqBT3/Yu9rTii4yB6YLLeuUdiWe3W8jq0nztdt3Wmh8TKZdBveuXWcY2OV1wciq4SsdIbzdje1EwWeWesXfuqQT0s2jAGVwHE4jrUi0wGajqj9LrWVH+BRwFPuCLktspLvYFywUA1U9zYIDCKdvnEmxZgakwh2KRWNNbsbqmG/mDUWzZD/+FqnEtjpLIE1UrByq3uTF9Do4YB+dp5oAn1GkOcH1pNEyJsQBIHN/2n6nN/9i7XcCu0XI3ysQ45pJKm75sR+mC4OqV31oz27ehSPzHXy9GG3udyKBLwTYRrezoXztY8mpxZnxrkKf3QSE0v4OIA6TqCBLdfwHaJngqv82nRLafN8BTwB2hRCizt2EdVqDuRzB/0Y6cAjs0/SmyxKjSfstxhUFu3S/EoxrUk8R6oGkRnmC8aanKtam5JQkb5nCxPNiK/9WDyWsPRypRBVK8W/7N06D2QDpTdiraHBLACuY4rEPIld3kreahkNRqVatM4rhpis8pn+3SKezvCb7+accTzF6OC0RpysvGnRUeKoCn+fKYqT5W9XL/U9ydS7M6b1lDM386AYUhzSKJnDsNIMNSU7/8=",
+  "URL": "https://pypi.python.org/pypi/oslo.concurrency/4.2.0",
+  "LICENSE": "Apache",
+  "ARCH": "any",
+  "BUILDDATE": "1593455306",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "python-six",
+    "python-pbr",
+    "python-oslo-config",
+    "python-oslo-i18n",
+    "python-oslo-utils",
+    "python-fasteners"
+  ]
+}

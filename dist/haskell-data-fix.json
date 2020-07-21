@@ -1,0 +1,23 @@
+{
+  "FILENAME": "haskell-data-fix-0.2.1-2-x86_64.pkg.tar.zst",
+  "NAME": "haskell-data-fix",
+  "BASE": "haskell-data-fix",
+  "VERSION": "0.2.1-2",
+  "DESC": "Fixpoint data types",
+  "CSIZE": "21635",
+  "ISIZE": "82480",
+  "MD5SUM": "5c0405e560a0171901e19dac24c19254",
+  "SHA256SUM": "7efa73e0ebde95a8951f94b32b5fe135b7abdcd0998d67eb9cb6cdcad7fb6f87",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl6hcosACgkQeGxj8zDXy5L99A//acJWIypkGIF0Mz0TkqWQdZBBsMX6Z7j7x5WlpYLhfJ3w1dg6VhU8weqeTSKNO5r5btmFyouvt1RmetWcCxvykGSgK7wfMxA+9xSa6QMa7feqcM1CFPH1KnCvP7cyrfWdPRCdaFQ+rDacjvDI3XAiAK55r+qYhAixlHMcM3FASVnwSYOWjZxFQ9fZLKTVX7Zi+BU7LgNkdKxjqYxMUsXw6EoG/cK7iCs+ccA1XA/4F7gYMP5VmU6RIYY5ucY/RWHMO1iOoU88NeMxeSlGStxJUlxgDJLd9O8Y8UJZal9jiDC8a84hi0FxZbDjlpUTJQ35BZGtabYd7nB9ge9qUwZNu6u9M1EjhPwlP0Ied3lfGDCbZJuEiDo5unKdiQ2iCbrjX8Zs1DQYbr3AxcxzI/tuHmwaZGENCLZ8KzvPU067HzbtGkoy3muUvExY5YdsUmuGm6gm7ziM6CttmGZGnuFZA3YVUcRarb1ZMMMLYZI1LyeQ19wqffsOTx3iT3KXVOxzLfdX8ESosI12kuDCcXlPbrUZTmScDf/+ccBpLbDVggyVvgDPMXpUYMOXAoKJXx6de+Q5vMIGHH80cGY9pVJM1+tP8ZFI4LTbUhUIe2wQx980psufTPm01PluxiJZ55nVhyyzPXmlPD8VQt8ClqN0BaVcogm6OGtF9g1c+NrSYkg=",
+  "URL": "https://github.com/anton-k/data-fix",
+  "LICENSE": "BSD",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1587638840",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "ghc-libs"
+  ]
+}

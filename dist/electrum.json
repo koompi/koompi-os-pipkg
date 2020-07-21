@@ -1,0 +1,40 @@
+{
+  "FILENAME": "electrum-4.0.2-1-any.pkg.tar.zst",
+  "NAME": "electrum",
+  "BASE": "electrum",
+  "VERSION": "4.0.2-1",
+  "DESC": "Lightweight Bitcoin wallet",
+  "CSIZE": "3941498",
+  "ISIZE": "12079318",
+  "MD5SUM": "205cf11c8c90e2e47e88503ce47e2bff",
+  "SHA256SUM": "06886340a4d897c7ff3d05c1a578aecd79181185ba8a98a2f8d3afcf9a38eb30",
+  "PGPSIG": "iQIzBAABCAAdFiEEkDurc2QOttZVM+/zRo8SLOgWIpUFAl8Lj4MACgkQRo8SLOgWIpVsrg/+N/Dnv6AlxMsql+TBN+uOw+3T8B2J2Vd6oYWXDqnIn6/OS9jaTQfmSGDgpW3kyQsJC7je1LdxXLQUQrKYyLZhqK9ODs0b9zJuDWGgfhxcLnEC8HbxJtlfByt4lKqoOt6cuf1MYXf/JhtzHP5oSp+2DJZSzYYbJW6PtO7epYbK6r/O621S3U2vH/LA1OpXMqBTtHcsMwn44LTiBHuCXUv6JMoPXIBdNFY4MHWLWcalv9WzZICF0HhTS2R1bCVY+K4JqrayKzaRfGa36YWHsVULromGegPB26DONwjOACxKlMNOlYNoMw3B0RJl3O/66GoRYsvbAAOKq+oXuBTAJaGI5GHERnEMbKmfl3EADvoIR+wjOtgbEJM4ScISpsD//sT6ix8MejVA/KHidTKdQpDsCsrO5IaujWdnc0VLlJPglI97xKSMR28wUHR4rLl/3ED7/J4CCsorVUmZV7hi/OE/kk1TlPIc3LGd7uW4s4yFf57nlPk0RwuyyKISNjly8OyQsVdKz5nrk3lxOUnpzl8AkRSqoTkzbv1a3zWU4MwG/B1HZ4EcephcYOnMs1XaRoZNnhgR+vFihpJJnHH21daGfzSEK9Z9fsy4YQIT0BhBmbyms7lTEpGDwgLoASdsc1abkIZX9XbbxxaD0LTrqLkR0QbCMibYUBlakCJ43iStbUc=",
+  "URL": "https://electrum.org",
+  "LICENSE": "MIT",
+  "ARCH": "any",
+  "BUILDDATE": "1594593049",
+  "PACKAGER": "Santiago Torres-Arias <santiago@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "python-pyaes",
+    "python-ecdsa",
+    "python-pbkdf2",
+    "python-requests",
+    "python-qrcode",
+    "python-protobuf",
+    "python-dnspython",
+    "python-jsonrpclib-pelix",
+    "python-pysocks",
+    "python-pyqt5",
+    "python-pycryptodomex",
+    "python-websocket-client",
+    "python-certifi",
+    "python-aiorpcx",
+    "python-aiohttp",
+    "python-aiohttp-socks",
+    "libsecp256k1",
+    "python-bitstring"
+  ]
+}

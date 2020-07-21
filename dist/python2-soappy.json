@@ -1,0 +1,24 @@
+{
+  "FILENAME": "python2-soappy-0.12.22-3-any.pkg.tar.zst",
+  "NAME": "python2-soappy",
+  "BASE": "python-soappy",
+  "VERSION": "0.12.22-3",
+  "DESC": "A module which implements a high-level interface to SOAP functions",
+  "CSIZE": "92989",
+  "ISIZE": "597534",
+  "MD5SUM": "1c01dac6d17dbcd190532ff36663ad32",
+  "SHA256SUM": "646c2830233a088e69a6c33916b0a2c8a62d74c064eb6954f9e1fde211a331ba",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl6/voAACgkQeGxj8zDXy5IxdxAAp/wZ6LuGxYc8CBKSqOfWXIfXSwLN68Y1zd4FVYvySdzwRaks9cK2Xrge5UfIbK8BtevXlQSt37cYVIzoiRjx/x5JewEXNaHRXPN+YfwmzI7E0Kj4hkPZprCS3y0NJPs5xMAjgehMbRmLINjZU97R9BBYUDHfCAh+T2sbMbLtW267G0tJdoszvXUEiO7+3RT1ZSdEljW7SxFDx3B/8eK27rHHo83QIEhMDgH7alHb21Tzz65i5ViyrktcLduBo8D+D5pV2+T89ruZ9vKMQSAKlddEXIzFzIYm+rCZlTUFHNEIk2FtFwzRRFqu4Vh+ZUy1mtGRBYKTgsLYHdUD401tFlLrhbX75UiKP5bGWgAiTt5Kouf3RZsfdhtpWPkhWuD5PAHssmlr7A/vZJ8Q9b1/fJRbTw6lC3pEZouzrVxKwL1MfpL9uTeLROSUjNLJ9MkkzfM3cHiBkXdyFD7rJXWNnjAY5JouriRiU7ISDK65dwdfrUzwrz37ARxKhNyBzKe9Fe0knQQk9v9D0C8EuXTl5vWXyuSUspwb0oJX0LqV7gr+g7MA8w/VlUDcAj/U2KYN9pBgQAuKfKcGULEOe1c2A5+sXfR5QhAlzn4R91sBvWcpVKppVuR6HTRKuZ1yBLf2GefLZ8Qq9veELM/mLjxFFzuB8IgYMy3/0tQ4ivsyUHo=",
+  "URL": "http://pywebsvcs.sourceforge.net/",
+  "LICENSE": "custom",
+  "ARCH": "any",
+  "BUILDDATE": "1589624436",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "python2-wstools",
+    "python2-defusedxml"
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "FILENAME": "xcircuit-3.10.28-1-x86_64.pkg.tar.zst",
+  "NAME": "xcircuit",
+  "BASE": "xcircuit",
+  "VERSION": "3.10.28-1",
+  "DESC": "A program for drawing publishable-quality electrical circuit schematic diagrams",
+  "CSIZE": "467878",
+  "ISIZE": "2359013",
+  "MD5SUM": "91ae64d962e87b2d7600117a800c017a",
+  "SHA256SUM": "ceec26fdae081a3f7c07913ea16e605543abdb68c3d91de2c33d2bf79427e824",
+  "PGPSIG": "iQEzBAABCAAdFiEESMOx8w3dD+Z+UW0WOW4+JbqxQsEFAl78SycACgkQOW4+JbqxQsHmbQf7BoFQRHetYl//A1vELl6U0FHgU6tv6a2oshJaVyacflQrLxCMuGNtkx4jyrt7SoDS5HVMoZ5mmYbQxgRp97OOD99dEWHkkHN8D9yIYrrBodqx6nWX6UAhvpUCsFTD4b2XKKTxCA/FMI3w4WppKw7oKisGAJ6ptMvXue+Eys1oFC5OgwPWuL4GuVs6Lo3zTEU7fm8hx1CxKgsMaZQStXzrmiStnUaI1kH80NGSOxV95bw2tuV1nZAF19jLnJJvYQITJP1rumQ6m0AC6hjbGAQmQNmStojQHiWcJzN+/VGclDo7pMUkAzOldNNDPpJ6BnH8tUwIfSPLp9uA+G/ddP85fQ==",
+  "URL": "http://opencircuitdesign.com/xcircuit",
+  "LICENSE": "GPL2",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1593574768",
+  "PACKAGER": "Kyle Keen <keenerd@gmail.com>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "tk",
+    "libxpm",
+    "zlib",
+    "cairo"
+  ]
+}

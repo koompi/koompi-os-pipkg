@@ -1,0 +1,41 @@
+{
+  "FILENAME": "cryptol-2.8.0-156-x86_64.pkg.tar.zst",
+  "NAME": "cryptol",
+  "BASE": "cryptol",
+  "VERSION": "2.8.0-156",
+  "DESC": "The Language of Cryptography",
+  "CSIZE": "2713307",
+  "ISIZE": "18915545",
+  "MD5SUM": "7aca0afd823dc2ef8e87dc1b0530f26e",
+  "SHA256SUM": "15b422707ac9c89d1f04ec8906a40225d3b17b733c4d11eafd3c68405fc1e6f8",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl78yGsACgkQeGxj8zDXy5Kt2A/+ITecYv4/3WL3HUI608/JVstal1HZDv5m4bN0erAhrbXgIYXwm8x8Je0iVh4tf/PhwlxLvYhIGnbZ9nzil6JD2/y8egKOvnyx0Pxbkernm7A3x0wvrySfQOPxLdtuRmkOM5+Hh/UwU7gGDGnNBSSIPLaPyxsveRgNFL6JTtkKmoqvPny2RXC1FKe3FWhMgyjr2gLUGdXNnbYxxDzi9b1JwC+bFj28dZXXNARFyNR//3hZAFX71Z9hIh7U5THELP6tKLjMoEvdyYavK0yBckBdxG7zt+qRC9ACgbM348O8ukeA8P7Pq7/HopwidhXwSIXJ1zWMq4Jx4jxib3PM8lsqbVil+j4Ft9uPrhfAS0DxjPICvjQfo+M5OxI74hAb+3YM1FApbwOE1xWGVuTEc25eJ2uFRs0QgIMufDtne2zSiKRXy/tn9Hfw8L/5AjSL+8/Pewup4WeHJBvtzZfvoeQhe9ldKNNWavBmG3WQPrAJOQf30F8qTk8TFoxgNaW1rZGhQNirJCMW86PFjtPcNdHUtN73pIuggVtuApoI1JN9j30DVDYllFnzKlxFnrEX06wituf+g6he8MKn6aNQTcejNtSLu+3CTntjEHUyhoX9GXpNTpwbG/joicI2RWuzh7Dk3EHSlm7Fgnk3OoxfGlvQDmYwWBfKahWZ+iE2lQlTQV4=",
+  "URL": "https://www.cryptol.net",
+  "LICENSE": "BSD",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1593624526",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "ghc-libs",
+    "z3",
+    "haskell-base-compat",
+    "haskell-cryptohash-sha1",
+    "haskell-gitrev",
+    "haskell-graphscc",
+    "haskell-haskeline0.7",
+    "haskell-heredoc",
+    "haskell-monad-control",
+    "haskell-monadlib",
+    "haskell-panic",
+    "haskell-random",
+    "haskell-sbv",
+    "haskell-simple-smt",
+    "haskell-strict",
+    "haskell-tf-random",
+    "haskell-transformers-base",
+    "haskell-ansi-terminal",
+    "haskell-blaze-html"
+  ]
+}

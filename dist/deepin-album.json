@@ -1,0 +1,26 @@
+{
+  "FILENAME": "deepin-album-5.6.9.13-2-x86_64.pkg.tar.zst",
+  "NAME": "deepin-album",
+  "BASE": "deepin-album",
+  "VERSION": "5.6.9.13-2",
+  "DESC": "A fashion photo manager for viewing and organizing pictures",
+  "CSIZE": "849379",
+  "ISIZE": "3035070",
+  "MD5SUM": "e0d935b620b87418182a2c2b2a3a1a38",
+  "SHA256SUM": "510d55f6f1ffa53e4fd9ae09f176f56dbcfc64873595f1359de8ac0a159e75a9",
+  "PGPSIG": "iQEzBAABCAAdFiEEFRnVq6Zb9vwrc8dWek52CV2KUuQFAl7NZa4ACgkQek52CV2KUuSdQgf/TqZ7nlPDd3/Khs4YljgtG1HUrCJz5mDwQxrl85IzHHDwFxIjVnREVL7B6X19ciIxnZ1dn04K053wrbMKi9Mv7uy3EA9deD0bWbQAUq00E6TBsky6TP/rhp3ugvDs36fO8pJ1XohpnHPQAw+MpPQy4TSgYQQewOXM/13aLVAl3XBK8SOUOAnpV+Y5t8hpWGpV5BlfdSl3/k31Gq5PhlIEO0B8VvGVWkxYtYDiv3Jy85yt7NdcxXi1zezRusplfyrFMdqofypAjYcsb/s1/6SCPv+lL1pIe7rkbv0tJq+kK1ZaF4P/6//gjia5D+9ALf5O77rqdIi6u21Q0rLhTHpY6Q==",
+  "URL": "https://github.com/linuxdeepin/deepin-album",
+  "LICENSE": "GPL3",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1590491563",
+  "PACKAGER": "Antonio Rojas <arojas@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "deepin-qt5integration",
+    "freeimage",
+    "gio-qt",
+    "udisks2-qt5"
+  ]
+}

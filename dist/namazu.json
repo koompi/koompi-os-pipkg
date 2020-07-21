@@ -1,0 +1,23 @@
+{
+  "FILENAME": "namazu-2.0.21-4-x86_64.pkg.tar.zst",
+  "NAME": "namazu",
+  "BASE": "namazu",
+  "VERSION": "2.0.21-4",
+  "DESC": "Namazu is a full-text search engine intended for easy use.",
+  "CSIZE": "354004",
+  "ISIZE": "1516285",
+  "MD5SUM": "9e38a5c624f3f1cfcb85cc166708edfe",
+  "SHA256SUM": "872f87929e04cd5d0076174510a5f0f3d845ee0b55c27514a3ec395f3dd38f5a",
+  "PGPSIG": "iQEzBAABCAAdFiEEhs/8qRjPOvRxR1iAUeixSKmZnDQFAl8E2+wACgkQUeixSKmZnDRt+Qf+KRQIkZale7FTev1cy5KAvkuz3N9Uqz3HyURh8hIbMiREmfCvhXe+joZS8R28/DNEsDy7JnsRobugLLnNBi1Pzp9iWLHpLIRPxKJdXhOehVKLtPWMZ78u9MucFJ9dilF9Vs1z2euzOnpZ87Tx9qUsBHZNaGO6M86caQVxq2ksBrdkmiTWorV1TuUSww/iYcP7lz3/rBPD3FMA3q9AMIMNqo+2cYRq1UYc7BvsYr2RA46HV7KuqxW6LgPf3JP8k+GWEPsXrMuC+OcKqoObVXO7ItK+3Ej2Lsuwsm8InZI2KCuuSF1SypEedkTiiI2qAdA5/GNbuM+BT+s52BcMOYal1A==",
+  "URL": "http://namazu.org/",
+  "LICENSE": "GPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1594153865",
+  "PACKAGER": "Evangelos Foutras <foutrelis@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "perl-file-mmagic"
+  ]
+}

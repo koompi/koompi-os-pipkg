@@ -1,0 +1,24 @@
+{
+  "FILENAME": "haskell-fdo-notify-0.3.1-306-x86_64.pkg.tar.zst",
+  "NAME": "haskell-fdo-notify",
+  "BASE": "haskell-fdo-notify",
+  "VERSION": "0.3.1-306",
+  "DESC": "Desktop Notifications client",
+  "CSIZE": "79612",
+  "ISIZE": "351573",
+  "MD5SUM": "5a6b58e0472bd3aef8cc0318723dae30",
+  "SHA256SUM": "84c97a2c1175f444b9b352cba530b6ceb2e7923819bc4d531aaad0c9702642af",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl758gYACgkQeGxj8zDXy5LJ3hAAnEmFOp0EAQJVGTRQ3gDpriwxt4SEfas9C+j8LvtDMZyRCkkgV+IIxg3JfXdvPBe4YCrGSDTkX//L3d3b/L9DW2JJVKeD9gyTt2WNQaKwy9LQnMs2etvbyO2GviLgVcikpgiA0/4OStbgfDXp653EqjLML16W2zpAMQV5AMUg8uHfS26HT2EqOjaU0eBxTct0L2nKLWIsjQnBUUMBGxta6uYjwPwdvEhaxYQ4nHeI5Xrp+Z4xNNKUA6HD70VAYKX3/1NrwRNoz2SFqhlEWccE6Pnf/Mif6NOwPPpGiERLW/gGjrOFT4nBOUsOevm9c08PbHlwKtY4EzuaNzpcxaV0G4+LyUct2M2JnZulI8wnVRrFOUAWq1WOnwCej9hRFtefoCkZzJKFer2/JcoHB/RJLB5OePflQi004da8gpZLoojGOV31Gm/zGCPOJNHj/rF9brfzoJqiAKNmltPVBEoqUAjgUG7VHM/QXVbF5olnA/Fib3WzgQ7x+Xm9eUgmUicic5yDvXkxcPd1A8/JE5URYE4/yCaoVheiIskn27V8zq+YCah14QT/6Nt6n9wpahQs/wEL5YjIWUQMKqZMIcLTk1Db5wIOzobVtS8e2VfFjNR2UEGhjc+vlrgB6bWoVuMH2ncM9Ajug5rEX6DzgH3vvir190dsCDEppvrWq9HLUUo=",
+  "URL": "https://bitbucket.org/taejo/fdo-notify/",
+  "LICENSE": "BSD",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1593438700",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "ghc-libs",
+    "haskell-dbus"
+  ]
+}

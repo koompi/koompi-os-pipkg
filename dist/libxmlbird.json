@@ -1,0 +1,23 @@
+{
+  "FILENAME": "libxmlbird-1.2.11-2-x86_64.pkg.tar.zst",
+  "NAME": "libxmlbird",
+  "BASE": "libxmlbird",
+  "VERSION": "1.2.11-2",
+  "DESC": "XML parsing library written in Vala",
+  "CSIZE": "25881",
+  "ISIZE": "77674",
+  "MD5SUM": "8f50b0652b9c3ec99d435450c99a7569",
+  "SHA256SUM": "4abd557764e9538249b44f01361dd71f68066c004137bed76e64e464adc893a3",
+  "PGPSIG": "iQEzBAABCAAdFiEEzgvecadZqH8j8PfYth284QkBwWMFAl7qCjYACgkQth284QkBwWNbXQgAvmIFZDJhOFc7BBcgkwxHIzsKOUAh2njDvGURIs0W4J+3EGzHd5+12ECkmh7D7UUWg2uZ/BPssUVV8L5ysinttK6DKDP+P7VKSRZwsUznavGYDHcDd/6F2fONvEbBzLtXTdsqLNDbcXloZtdkse3p2/rX0/RMCC4PP4fOBrXjCoDIJurH9oli2mXWa8plZUEu5eER1N3uUx4ZrSHTgDJMpHoN9DBsIEZwL6pYZ0Uhi5kQFm4qLVsN0jTWBcBiP7RA1lepoQpbzTDe2Gy6N7otmBH9zqC8sEr1YUCYOZYd89s7PDKDbGI8nLUV7CAc9uXT/CiUGJqjxBUjVloh2yUgcw==",
+  "URL": "https://birdfont.org/xmlbird.php",
+  "LICENSE": "LGPL3",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1592396177",
+  "PACKAGER": "Balló György <ballogyor+arch@gmail.com>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "glib2"
+  ]
+}

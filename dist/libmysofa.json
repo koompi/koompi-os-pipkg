@@ -1,0 +1,23 @@
+{
+  "FILENAME": "libmysofa-1.1-2-x86_64.pkg.tar.zst",
+  "NAME": "libmysofa",
+  "BASE": "libmysofa",
+  "VERSION": "1.1-2",
+  "DESC": "C library to read HRTFs if they are stored in the AES69-2015 SOFA format",
+  "CSIZE": "1155622",
+  "ISIZE": "1312191",
+  "MD5SUM": "38cff4f02c5382558bdec901e7ad0ee0",
+  "SHA256SUM": "4431c6e4cb3121027257c540d6bac9d9143114d4c4c0edefe9638d2b99c77a54",
+  "PGPSIG": "iQEzBAABCAAdFiEEP/pqt7aarmzKJj3eAZp0dCl9hXcFAl7oDwMACgkQAZp0dCl9hXecegf+Ir9+uTxP4nJkP91CUlRtjebyfLmFxWOrxn7L1Dlu9+k6wzg4wxGgcDSOZdWFYymeVpr6ipp9Zc7bjRsHXKxW7vlJTujen2A9tFza2y7cL7uLYMOe4Du8DvILhhrXn46kKlKaf1mdXMcKNWQbhpJmYQhk81oOaaK+MzI4awzM3YpHwakEUr8Rrw56tgm3TdIZHt8m4+nXHxnyQTAtrzTbA44PGP6wq+HZvjEuZVT6G+88qYoqs8aPhr3cwBHrv3QLceHs4axYjCycKCw1nZEYqaBvPflSQcFS2tsMx+pchWIWtJI8fh36IcDDIHYQB43j77qJXOvYPB0Kb+NrhjAMsw==",
+  "URL": "https://github.com/hoene/libmysofa/",
+  "LICENSE": "BSD",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1592264602",
+  "PACKAGER": "Daniel Bermond <dbermond@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "zlib"
+  ]
+}

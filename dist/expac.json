@@ -1,0 +1,23 @@
+{
+  "FILENAME": "expac-10-2-x86_64.pkg.tar.zst",
+  "NAME": "expac",
+  "BASE": "expac",
+  "VERSION": "10-2",
+  "DESC": "pacman database extraction utility",
+  "CSIZE": "15902",
+  "ISIZE": "35930",
+  "MD5SUM": "d9ba17f4e544e0bc62ffa1803ef90f05",
+  "SHA256SUM": "e41a25d84b990a458ec129d5d98a7af82495f62832d9c83006884a1a0c86d427",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl6/uDoACgkQeGxj8zDXy5KWPA/+K59MERBNUyNAfoCSNr4ho9jOr4BWyihQOEXuVZyvUSA9zPT+Q65Vn2qPdTm7u+PeF0YIfAX6USGafcC/hpn7bkDZEBSAJXFyDhPqDrD99/Ct98BTrS/nFrbosOl3A947nMrbmpWVJc91lr0yf+gKqanKTWF9hJnXALADd/0dSvwex/TimTqUvDGXURHNiG3Qyjec0fEhZI0+1OnLBV/791vaz2iVoZ2ZsYEUg5FEbeUmqK0B3n9CsF0T6vHi0yOCytLPZobhEw8zk2A8cehMKUazdi4guLb1FhvoHACThW9pTSqFbJKdPMw4sZ647RRibOojfUU4lNbjxn46kCCKqRWeOuP17wBhCDW8N4DvIER66syCiSroPor13DzW8g7VEW9RbIfBk76Yck8YRhKdqn6i7OPrNFJzlU/avTLhBJHZuk39Hp1Gx/uE3QHbwJFcZzrSMNmSi41akAa2Ql3Uy5ufjR6AaVF2BWaVp1bCm58IpRMtacTPwQBKR/vgebuVRojgtAT7JeLd6G/VcgduZLffDjmwvVerj0dYcZbQ7y5n5oZXnQYwuDA2dUuaKKdqImk0MWTkfCgjar8MIK1hb/tGGv8mM3fFZq9xe+w6rXX3so/BX3vZi+YGR2w3tVPPNHmb5DtBOgGIAezZ8Mb58nWxBJQBlxhqXJyvYNN4u0I=",
+  "URL": "https://github.com/falconindy/expac",
+  "LICENSE": "GPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1589622806",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "pacman"
+  ]
+}

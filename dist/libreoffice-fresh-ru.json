@@ -1,0 +1,23 @@
+{
+  "FILENAME": "libreoffice-fresh-ru-6.4.5-1-any.pkg.tar.zst",
+  "NAME": "libreoffice-fresh-ru",
+  "BASE": "libreoffice-fresh-i18n",
+  "VERSION": "6.4.5-1",
+  "DESC": "Russian language pack for LibreOffice Fresh",
+  "CSIZE": "3384937",
+  "ISIZE": "25639725",
+  "MD5SUM": "8a793689cba1da7b8a237aa58c97499e",
+  "SHA256SUM": "e14bd8fb2543f30d515475af4c7f33f97ec19586c57602917e4d14e1246d6ea2",
+  "PGPSIG": "iQEzBAABCAAdFiEErcih/MFeAdRTEEGelGV6sg8qCSsFAl7+FzQACgkQlGV6sg8qCSs7Hwf+PlbovlmMjYkwmAV8XmxaM0hgoKCseY/ByP2SJKhUX3ASSkXcHVcA+5EWCx3Z+jFtMUrAq+MjBlLQFk5Wxklfpqpr4Uqw3U1GtolJvMXsG22hY5GQrozA44gKx0FdNrz200wOQ66L4ye25n94E7kiXfZIQZKhdSp+MAzqbhLBg0nK4St9wDn6HH0etYfAKEG9Y0dW0Uha7HV2tOJ5PtpaTEalr2dhNKmtln7AA7s5QcbRKhm2LECUsIb127I4h0bAwvLaRSM/+lFch3iU7Y91LmDKaBjXWwbAtSo2PiyqaDlTLXKHU3kgCglPim74C93CAoAsO/MjlsepcQtmteJNaA==",
+  "URL": "https://www.documentfoundation.org",
+  "LICENSE": "LGPL",
+  "ARCH": "any",
+  "BUILDDATE": "1593700315",
+  "PACKAGER": "Andreas Radke <andyrtr@archlinux.org>",
+  "PROVIDES": [
+    "libreoffice-ru"
+  ],
+  "DEPENDS": [
+    "libreoffice-fresh"
+  ]
+}

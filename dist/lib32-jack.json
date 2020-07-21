@@ -1,0 +1,25 @@
+{
+  "FILENAME": "lib32-jack-0.125.0-3-x86_64.pkg.tar.zst",
+  "NAME": "lib32-jack",
+  "BASE": "lib32-jack",
+  "VERSION": "0.125.0-3",
+  "DESC": "A low-latency audio server (32-bit)",
+  "CSIZE": "43549",
+  "ISIZE": "104184",
+  "MD5SUM": "4a675da1c49737397d27b10cfd3cf5f1",
+  "SHA256SUM": "b73acff0d224f71d913d56019f7a86214f5fcb4381a10a60c3cf256e3f7a6d43",
+  "PGPSIG": "iHUEABYIAB0WIQTH54SUZv4jWDQ1iDdyWHNLQcMVSQUCXouH1wAKCRByWHNLQcMVSTByAQCP3ui2kZhZnAZT2kbfV6sAe9sDDsZi8II1ncjoWLlUXgEA+cDUoMnetwaWNFaofIfrPB9Vrvi3X+0SwwrtGWihrQY=",
+  "URL": "http://jackaudio.org/",
+  "LICENSE": "GPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1586202492",
+  "PACKAGER": "David Runge <dave@sleepmap.de>",
+  "PROVIDES": [
+    "libjack.so=0-32"
+  ],
+  "DEPENDS": [
+    "jack",
+    "lib32-db",
+    "lib32-glibc"
+  ]
+}

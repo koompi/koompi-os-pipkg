@@ -1,0 +1,23 @@
+{
+  "FILENAME": "python-shellingham-1.3.1-4-any.pkg.tar.zst",
+  "NAME": "python-shellingham",
+  "BASE": "python-shellingham",
+  "VERSION": "1.3.1-4",
+  "DESC": "Detect what shell the current Python executable is running in.",
+  "CSIZE": "15334",
+  "ISIZE": "36073",
+  "MD5SUM": "98e20eb097402f69212acb12fded1441",
+  "SHA256SUM": "e6a2ba60c36c5fcfe000bf66def986b69f68d415c368ed2eac049954903417ee",
+  "PGPSIG": "iQIzBAABCgAdFiEEYEETBMCdNmKDQO7/zrFn77VyK9YFAl4OI/IACgkQzrFn77VyK9Yp0xAAwwYJdH9eJQdKqgsGCRChD60a5c3RCvii0gYCaG0aYu2+PWUturhJJ2KqKzjwYEOI7v1SLJktHq+qvSY/cZ1IRLDYhp9U9GYyUyEFARv8DUasJcaH3cfRhKKzj8a1GH6Qo0q35NKIijxkOUV4WD/5o851/Z8YjVx193VddQUfqp6YHlxrxyUATqJZH8nZkBPHsDNXf0L1CgYVqusHcsKNNeyM8ZwtWGw916M645yVDjXecNWvOZkp/3SVib7CG2Rx9MPRZshxGeqyjRYkAR+L6nl0CN03xP+nmZyNC/IfusWtDVoCLobVbqrP3br0B4ReXiWuZY7ADakjdVhtKNoFRS2+kWEeY1WZpWKwSQ4PBaOafFWOUrzNYlbe+/AFREk4xIJf80gGfWC6x8iEfJlpL0IzzLRVh8wdi7iy8hSVdhU0XiZnNj14LhY4Zh7WptnIrCnlsQKO8yRDW6vg3vDgXsk7dGoMTwl3Sx7VT9aJwq66U6wDc8mGOu32rer/y/12kr+gXrCAnOrfYj9w67Y4Hzoy9FumeLPrFDUKhCcMeaSR7guoqbOMAZvdtfJ/sZF7KuKYWQu22piQ971G5+kw9GdBt+4kSU4qWqAGwPvsjhvZMHMYqTnJNx+VSOyUTngSucsGyVW1LEzKTUNKIhX7hcWEyC6Js9ooFS3WyS/cwrs=",
+  "URL": "https://github.com/sarugaku/shellingham",
+  "LICENSE": "ISC",
+  "ARCH": "any",
+  "BUILDDATE": "1577984970",
+  "PACKAGER": "Eli Schwartz <eschwartz@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "python"
+  ]
+}

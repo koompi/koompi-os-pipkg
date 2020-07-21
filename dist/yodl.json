@@ -1,0 +1,23 @@
+{
+  "FILENAME": "yodl-4.02.02-1-x86_64.pkg.tar.xz",
+  "NAME": "yodl",
+  "BASE": "yodl",
+  "VERSION": "4.02.02-1",
+  "DESC": "Implements a pre-document language and tools to process it.",
+  "CSIZE": "272304",
+  "ISIZE": "983485",
+  "MD5SUM": "9b14cb4160d93ee53671977d314f978e",
+  "SHA256SUM": "196cbdd111ea9a80a9ea945d79a9863aa5819299f2124e9f6947debdab90f0ee",
+  "PGPSIG": "iQIzBAABCAAdFiEEjVflzZuxNlVFbt5QvgHsIqBOLkYFAl3qzwIACgkQvgHsIqBOLkb9Tg//TI9oM1xOf20XweE8hOxNhs4t/5IvTeCDqFGp89dtMiYdQ7bTemZ/GSfc48tWUzvtLmX5jDHYtLee6ZKL3estwITt+UDfbMh1B9JOo/1Qx+2wIzV67EKGbqvHaU3hDoRHMuIhcfOr7V5gSt572okXwl5GI3v/PFo0Yc1sb4wPXAb5XSNDsE2J5cgaURa0K5vrA7+Nk4dKzg0t/wfxVsqzL7xue+zHGVohquTrO2tCTxquIkRYS24M4xvWBF87UHuNHoDt+vaV8k/1dZElqhaZW0rVPYbY+tYytaRh6jC9C7P2oSreHmpxB9pUs/LguNwB2s9/rq27FtO9l8bx41738f9qb5HOfmGsxFrNUWo+dyReuuyoD8S54GlzGD+O27MGouLp5iVNqt7IxRkoeyQkx6Q8wW9fnYjRwEHpa/MPXHXynyifon72Ct4LX/SgKDyU0LP3cnYzy0z6G/K0JbKeZ6RM29tcSyvfRC+gswmPzyLXxydZ45EyECcu79IUwVU5jgYgHGFHKXuy86Bd7/Z+wUU9zxDntltUIKqt3m8FGxMUGbGgdBeLjpo7PMw6M1gIUEpSGKhru/etjB/mhnveKMz3CteEL+ivmxX7qfrQw7ZvrCc+DWPTnAAOG3D/gnLh0GbvUywvf3tQgpctwLl90ASeOGPOIW4SDZIIl8rI1Ag=",
+  "URL": "https://fbb-git.gitlab.io/yodl/",
+  "LICENSE": "GPL3",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1575669431",
+  "PACKAGER": "Baptiste Jonglez <archlinux@bitsofnetworks.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "bash"
+  ]
+}

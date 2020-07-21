@@ -1,0 +1,24 @@
+{
+  "FILENAME": "libssh-0.9.4-1-x86_64.pkg.tar.zst",
+  "NAME": "libssh",
+  "BASE": "libssh",
+  "VERSION": "0.9.4-1",
+  "DESC": "Library for accessing ssh client services through C libraries",
+  "CSIZE": "197792",
+  "ISIZE": "580794",
+  "MD5SUM": "8b54e98bad070716719d8e5650abab8e",
+  "SHA256SUM": "8dee4c76cf32ad02842953a34fbe502c1fdf2fdce697004994ba9a3ea1d07844",
+  "PGPSIG": "iQEzBAABCAAdFiEEFRnVq6Zb9vwrc8dWek52CV2KUuQFAl6O8asACgkQek52CV2KUuSTPgf/XVX9rq3EgP8ch1piTAKetrnuVEj/GaS4H6k4hsDBE1rxGelt4Iw8Crsu9M5hS1X4pVO3B0TP3rWh3J8viWWE5ljkkDwNgZuMByeEifFm6cdCqwHQJ2o2I/4iyQsj4GXP5hlGa4npyuCnsCjSkVc2QiNzfkQcLNZFgtL0wo2suEcyoEeZExLxl0NxLqTyxGfGf7pUJxXx+V2YcmZbshW/wgB/88FmoexY1ku7LIM+PeKuTAt+4jAN+2XBprVeYwnnQI+k+UkORXRDwVMYkbbVEPR1e2SB81IuK2rC8M5cb9R1jVYOLXPZ+63VyNa+jJWLF1NFMESmq7Ai15Yu/LtaWQ==",
+  "URL": "https://www.libssh.org/",
+  "LICENSE": "LGPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1586426109",
+  "PACKAGER": "Antonio Rojas <arojas@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "zlib",
+    "openssl"
+  ]
+}

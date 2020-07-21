@@ -1,0 +1,24 @@
+{
+  "FILENAME": "haskell-zlib-0.6.2.1-5-x86_64.pkg.tar.zst",
+  "NAME": "haskell-zlib",
+  "BASE": "haskell-zlib",
+  "VERSION": "0.6.2.1-5",
+  "DESC": "Compression and decompression in the gzip and zlib formats",
+  "CSIZE": "124973",
+  "ISIZE": "695292",
+  "MD5SUM": "5cc6b8e9526311fd8118522afafe2adc",
+  "SHA256SUM": "1a32e838337232c061cba9dab2a6094c0c689f4b003b30048f00d047bf1431a2",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl6jKwcACgkQeGxj8zDXy5LObA/+Iu6AFbSiCgpA9MxRSQqO4Dji5AfuZxw7oQeADhHj82J31AJIjFnNE/1FSpOHUvhNMk85VtaNGUWSH942PoAg+NwrWFsIKNKmsMzABEiSLonmqYrylT5JGv0pRXWfgDpEqBUc0flHDdfb+TYSCr8DPx0AfLMUYSe799oZQ2Et1uQMrEjbbVnivfS0mc6fDzDU8yscxmuTqQT+1wQRtFlgh4Q08vybDFAcMmzFW4TvaSsA1cHvl37vbZe6Hhcik7w8ZlxWIXvWIVdow7s6xcEuN/jgzWSUS6cYnK8voY0H1SGI4fuScY/SC1urP8S4nnEX8YsPGsNUF2kpy9rSho/RVQ0oh/gH6R+pdjxSBIul9QEo79yJUL0wuEAnNscTzaQPcabmqzCY3WS2u6OfJQHJKQG0KBX1PM7GUayXWe7eBZHEEHvemMaMEOHIPt4txM/xITv0MTATJqIhMQfVcoZS205uNgrEPF4o0do+5/FNbr4ZXIgOwOT83tsD/VB0WbPvsIewMHWKS46EF1Yi5tAqXJDjcMMxxvbQHnFnH+sZhp+pG4k/J0xT383NT+y9wCIsiJbc+fJxlJ+jD1FAdykCgF26H+YVucGme13hnfIYJU5LO2R9IzuwcpHfR75RtE9oAJYgbOwuCOtyNjU3I6/DS2SowIpmumOrG4ldUJvsVIA=",
+  "URL": "https://hackage.haskell.org/package/zlib",
+  "LICENSE": "BSD",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1587751580",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "ghc-libs",
+    "zlib"
+  ]
+}

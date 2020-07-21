@@ -1,0 +1,23 @@
+{
+  "FILENAME": "python-pytest-repeat-0.8.0-1-any.pkg.tar.zst",
+  "NAME": "python-pytest-repeat",
+  "BASE": "python-pytest-repeat",
+  "VERSION": "0.8.0-1",
+  "DESC": "pytest plugin for repeating test execution",
+  "CSIZE": "6980",
+  "ISIZE": "11745",
+  "MD5SUM": "47cf548ae0136ad0638b253ae02e250d",
+  "SHA256SUM": "876d2badb027d380e3d40a023b6e9221814a9f0a9d41683e534bca49da9b8a95",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl6+O1oACgkQeGxj8zDXy5JYjA/9GKYXqg8rG2zYcbs/r01bxv0q4X4E6PYxiLZhfVJcLrdzsVw9udEvWzby0oDngv2+YizHW80aRa0jBMf+L+R2MMDhHqCMFuJdKFajHca9TJLIsqD6vl2hV4yig9PY0u9R941/8uh5BARzPTToF4LeGu6ugBg2Iwm6rxgCWVt3jxv0P/Op3lQzrptkqykCLut8inWpZ2793BxsIewkJBecs8NhdZbqxIGptaeHOVZdI3qoNtND6Do4Ec7QHLAM23FjgvARwLIVpDzNsIiYb/8UAbX2VUgkX7zZA5rkmGAhKo1xzhOYopoxzt1nKLx+dtcLCrsNL5o3EXnHnZopWj8ItU4ogdxIv6YhyrLjNuHntupuMiwyosd+9HoN8pLbitbiWstxTtp5S9hELl/36zXHmXbLCMUZGxdaxpZFKlX+uUDhWfYijgciE9kRp+6vVm4TynO8X+Ylu+hMavVDdCXkCUj15R+vDchmZirhDU9wyl2jXZz4hTyqYq7/QAOaO2RPWZuCmGD3mKO4yFbUspwaNuNck+24RIoKVwew27ceLwAvhI7qC1whSORl8QwbXsf9IfYekx4duOtu/284cmBL2oVoBU8/6UIo8S1ihWb7igtVjLY8iGW9dT2zFxsJGjPwXAK7EOWVVmsWle62sXd4+mSXl/r0oRMylfaR2DZFfos=",
+  "URL": "https://github.com/pytest-dev/pytest-repeat",
+  "LICENSE": "MPL",
+  "ARCH": "any",
+  "BUILDDATE": "1589525295",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "python-pytest"
+  ]
+}

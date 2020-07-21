@@ -1,0 +1,25 @@
+{
+  "FILENAME": "opensc-0.20.0-1-x86_64.pkg.tar.zst",
+  "NAME": "opensc",
+  "BASE": "opensc",
+  "VERSION": "0.20.0-1",
+  "DESC": "Tools and libraries for smart cards",
+  "CSIZE": "1237107",
+  "ISIZE": "4204122",
+  "MD5SUM": "f89f94c4de330167fda24a681c2efa5d",
+  "SHA256SUM": "dacb4aa88f14e6f1e2482b6f8f6fec4bdf539d67209e15cf715daa7652058495",
+  "PGPSIG": "iQIzBAABCgAdFiEEba97gI+d8lE5YgAA0hRh49/iBg0FAl5dpicACgkQ0hRh49/iBg0jUw/+N2NbDsUwYY+xDUyiOvPvCUyrIVuaBlL7qYrxNuAlTsJWBHF4nQx/PWxpqL8q5Mb87k00x4PIQ3yD74ydF+69OWelwTm/4KZI2emvX5eh2pw3k40psnxvryBEyc18eOeTTwGgs4esJ8lsyaV8SfMoDHMg8eVNkKfruXj3PZnrAU/jhuftpn7Ez6ZNFCSKnTSE9pfwiEJKKRxzjr9tl74FbdEioYJS1awL5/PpCp4Mop2MuH2U6dQmk6ROGUrc3PeKlZEEM6xW6KDriE7pknHbgjW81PiyZIgAYn9N0h1qAw5gpGl5v1kyuta6OZOT2Mpy9Lrn46fh8GwDXYwrEwfWfIN8DsEkLaG5vayea42RrmIjmD+FdT2AYLr5uBqZryHatqi1TOmA8SJ8xbbLOYBtInkE8jYR0NJnbVoT89yF7WEGZWslDf7xdMaa2+M//SkoWcEDns9pYx1E56kAIlq10upfjWuGUzzkx7YuDRc+1rDP3L8/rfzhoe/YevlZZL6gwcw/VFneXSAtbrwyKKKkmyMr/paC3eDIzh6VUj1NeQ2k+JRbii25Gw6gKKd/Ht/vmtlCvmwD+hQbb7Z3KDZ5DLqT328e6zt38EEQSez5izYn9RQt1WdtjO4NfIk4IxhYC1LxIzAKIb0/bNlXlBN1gmJx7I5nsB4kWTHXsPfdHnk=",
+  "URL": "https://github.com/OpenSC/OpenSC/wiki",
+  "LICENSE": "LGPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1583195529",
+  "PACKAGER": "Christian Rebischke <Chris.Rebischke@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "pcsclite",
+    "glib2",
+    "libltdl"
+  ]
+}

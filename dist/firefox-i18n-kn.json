@@ -1,0 +1,23 @@
+{
+  "FILENAME": "firefox-i18n-kn-78.0.2-1-any.pkg.tar.zst",
+  "NAME": "firefox-i18n-kn",
+  "BASE": "firefox-i18n",
+  "VERSION": "78.0.2-1",
+  "DESC": "Kannada language pack for Firefox",
+  "CSIZE": "496351",
+  "ISIZE": "558806",
+  "MD5SUM": "0e047b41844714916a971b2b2590d6d9",
+  "SHA256SUM": "09d6f4315d051615dc5bede0c5defc524bf5d74ef08293457bcc86450b1747af",
+  "PGPSIG": "iIsEABYIADMWIQQGaHodnU+rCLUP2Ss7lKgOUKR3xwUCXwelpxUcaGVmdGlnQGFyY2hsaW51eC5vcmcACgkQO5SoDlCkd8cmTgEAmF8xzpP6RhkbcNQsuhu2iz9qbre4MswOLQqRRjQnLNYBAPBMiaM/Mu45wnvQpv0H5G6XxR5YXhydzOsl9nDNNzUJ",
+  "URL": "https://www.mozilla.org/firefox/",
+  "LICENSE": "MPL",
+  "ARCH": "any",
+  "BUILDDATE": "1594311501",
+  "PACKAGER": "Jan Alexander Steffens (heftig) <heftig@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "firefox>=78.0.2"
+  ]
+}

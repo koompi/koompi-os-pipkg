@@ -1,0 +1,27 @@
+{
+  "FILENAME": "mbedtls-2.16.5-1-x86_64.pkg.tar.zst",
+  "NAME": "mbedtls",
+  "BASE": "mbedtls",
+  "VERSION": "2.16.5-1",
+  "DESC": "Portable cryptographic and SSL/TLS library, aka polarssl",
+  "CSIZE": "647173",
+  "ISIZE": "4137855",
+  "MD5SUM": "92c59eac31a69d9d8acb33f59e4c464e",
+  "SHA256SUM": "ebc42702aadd660761294c43cb0fb0e510fd3b71acf54e9755f76755fa7fb85c",
+  "PGPSIG": "iQIzBAABCgAdFiEE4kC1fixGMLp2ji8m/BtUfI2BcsgFAl5n+UUACgkQ/BtUfI2BcshCMw//bjLqnoXBkvKEcB6jxzQPxeBcjXVeVNNeIJ1AQUuGkUinHNpoXfnw+jomJ0Ow+8oaMxRJv68KqmzPYuc2JADM1yaZld/+ytzyPRSwOmLnqhBUkJh3uZkUobIbig4SgXq0e52EjvW3HuzN2E8PBOtGVH1gW6c5RGSwXoKzdkTXrRPhFjwZ2khxOBHlVqiiyWU3dQJ9ujFVDEzRdepZ8yW9ZkmFvCmMXtg6y6ajPVDOLjnSugzb8BX+DT8YqL8B9SbfrLatMnM1N2nGBh7IhhP3SusSytlMZfB2Q2OQ6evYrR4rXTqQhVR1DvqbVKjulzY2Gzl+rCF36loiLB+PuBuA9E3inVvTuKbuubz3XsDNGMqm5WRBvInDehDRvtl+UUwZeabS8Af0Y21vbQk+BMGlZOKqi9D4F2Ek/7M7tv212Xmv7R2v52x82X2cMcdMoguWYsci9mGtMABWJNhm5pahKsjLV0GN+RhKmNf1wrKs8HTjkB78BC7em5mJTgVeFXnyBkqTiAYMeP5/FZXy63/OJX+2eK5pbFFcBaWgtMh0cbwZ3TTyyu5UgD+i/maWqNEBdTagsQC5yzZWOLdgOJ2HYnaRLpImw3JPLSVyQ29L+wFE+yO/dyNYfvAFU46p4mhWJBDXJGLVmBPO7Rks9oOyITxVgMpriyNX0vAgxRE/wsI=",
+  "URL": "https://tls.mbed.org",
+  "LICENSE": "Apache",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1583872220",
+  "PACKAGER": "Levente Polyak <anthraxx@archlinux.org>",
+  "PROVIDES": [
+    "polarssl",
+    "libmbedcrypto.so=3-64",
+    "libmbedtls.so=12-64",
+    "libmbedx509.so=0-64"
+  ],
+  "DEPENDS": [
+    "glibc",
+    "sh"
+  ]
+}

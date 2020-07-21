@@ -1,0 +1,23 @@
+{
+  "FILENAME": "helm-3.2.4-1-x86_64.pkg.tar.zst",
+  "NAME": "helm",
+  "BASE": "helm",
+  "VERSION": "3.2.4-1",
+  "DESC": "The Kubernetes Package Manager",
+  "CSIZE": "10905674",
+  "ISIZE": "49819266",
+  "MD5SUM": "2b4b01f7cea458cf404b268e05d65a39",
+  "SHA256SUM": "6005d397190c6b7ec21b3fab5ee6126382e274a06363931d60f1b0de2d8d0fb9",
+  "PGPSIG": "iQIzBAABCgAdFiEEktnGzemaICTWkKdu50JoO6CMsv8FAl7pCJEACgkQ50JoO6CMsv/VTg//W9+OONoR5yo2i30FhDr6r25mzWOUmGC1vWMsWsjgidSpgbyqdxT3enayaNAVYRYEfrXjUUhzgeqEwb2/hcTRoH9fVJQS/4u+YYIctvyueQRtA2S7RbXolP7m0C9bCKPR3hRY/3mJSLZUD7/vbm2fWTq29l3uJNtJIfvtPrJntfN+9K7qEs4cbGTImO7qMcejhrqquiEA618WTd5O81noD2japtOI+8a/aTczMulFr9oJmfpWKo6njnqF11rmIUew1lmCbluDs+cJv+VmCoZCreqmWVxQ+B5S91Ov4/JzM9QVJvh1mebrbU63P2y9k00MErVSryevcj645aQ2XQunkxnhkgUO63Vks6HPcKxtdkzRTUSiuA5ILXhjBsxdMlPw5OdGoc9/TaFShA+qY0CQPMRTn+BQXFGazgxJe+h4stWXuSeBzDb6EK7pHkhIOzcA8406hZh1QJV2wfk01E1vB2cnnIm4TWECaM4Qyw/UcAP9eA/ju1qS69urVXzwRqTpJ1sj4iLEteW8yyohYR327glghCxi6fW05Z09PBQrVbeSCWPl70XM9LVrxJgB8JVqcz3B1T/MtOAEpt3TNsR7uvMzMbXlLzSIXSnVJrQ0tTv/nFCOkVNNsF+OkDVGHu3I3/QU1FiNvKv5A8XbOrYQvQoWQHJA7yGnC+qVgurdFlQ=",
+  "URL": "https://helm.sh/",
+  "LICENSE": "Apache",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1592330201",
+  "PACKAGER": "Morten Linderud <foxboron@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "glibc"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "FILENAME": "htmlhint-0.14.1-1-any.pkg.tar.zst",
+  "NAME": "htmlhint",
+  "BASE": "htmlhint",
+  "VERSION": "0.14.1-1",
+  "DESC": "Static Code Analysis Tool for your HTML",
+  "CSIZE": "950749",
+  "ISIZE": "5461105",
+  "MD5SUM": "ff8cb2342379de8ae6c5b6dbd0f85fd3",
+  "SHA256SUM": "5671f443753cd38b1122974cd6c21ce53643caed2543120ecddf270c4c473581",
+  "PGPSIG": "iQIzBAABCgAdFiEEBNw/sURf7KgTwn766k97MhqQatkFAl71gSkACgkQ6k97MhqQatkRHg/+Ok/NOyKPpfEqvNHbCENMEWkMguIAIpBdRsRmbhydRudYw1xBz/nSzKAO72FaPT2+WYMPjSUq7nZwf34sYBeixaZfrUXCdk84weeuMQW/0Fvez63JvkKAAL/kllS8e+q8P6/jf9LXbBn3c9Ppgja0axGk43cK3c1Wk5J+9EalFz2mPm4KfpwfSM2wzGd9llFEQ/Az4XEnZkM5csMngPugA9c/lR39FxF3yue+Qyrin0U/1g+jY6sCVlvRhZUh/nWv2bOXAF7t0mWu3cZuYZJ1ckBmas0rn1iCcUpDYLJIsN9SD1X9LqitW8/ZSU/wvkm2Y1syarPLuS6WCGvhsQ8rmoNzuLcEpQ42JS9XwBCZ53/hoHd+MhxZWmyq1PEjZyrrIsf5XFlWBW9D08sY35wCCMfIvs/a2pXP0gQ+SNqptN9I64P0pbuBZ9p7F/nbdN2+747RXIaQNnzylv544sSorqTeZkg/vQv3q1h3FRTmAHWyXfqHTeHL9zUAatArjB9XAGu4J9bXDRVsabasqyBzsjJ0El/p5Kwmms6YhVeGGpGATqamUFo+nFmJWh4b4kdS+iV52dCoIgE4srzHG2y2TLz4N+Vf7kj8F8FBG9gfuznpT2S468MMU57F1IN5hRW/xIK5KbAY8/IQiCfrmsrM3n/SVZ7V5Lv8CgpzlA+VyOA=",
+  "URL": "https://htmlhint.com/",
+  "LICENSE": "MIT",
+  "ARCH": "any",
+  "BUILDDATE": "1593147468",
+  "PACKAGER": "Daniel M. Capella <polyzen@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "nodejs"
+  ]
+}

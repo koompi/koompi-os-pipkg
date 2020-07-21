@@ -1,0 +1,25 @@
+{
+  "FILENAME": "encfs-1.9.5-2-x86_64.pkg.tar.xz",
+  "NAME": "encfs",
+  "BASE": "encfs",
+  "VERSION": "1.9.5-2",
+  "DESC": "Encrypted filesystem in user-space",
+  "CSIZE": "381856",
+  "ISIZE": "2010112",
+  "MD5SUM": "214b73d203b79159454d92d52da6eaac",
+  "SHA256SUM": "629b7785673f2b9aea86bd154a0397a515eef44589f65d2c91f6b78d53692498",
+  "PGPSIG": "iQIzBAABCgAdFiEEOO3RiGdWkk4SJOSVJOTNsAE8JYAFAlvjSY0ACgkQJOTNsAE8JYC7xhAAm7kZ4djRgdt976enmKpA2kkJsyNqGkMnGriTHbAcGKs0ugf4aOUU5VvbH2jn15e9hOotUtdEUbNvpkYzSBG3a9VFw6sG+e5rkyhKWpwOHRV4bPuZKFWa4ybFAZ+kvK7GWASncsTLSwkOeGWzaaaWMP8zP9R3h3A1IF3O/f1vlPGvVF81NmIgH0LDSJTidfd2YkJBvoHnfY6GswG0wefsXExppFYvt/GGeabBQcCR34osA3mFI5ywpsrC9Z+O7W6zguhrEEXvdaK2+yhliNNfC+qiFPoaO4y858V0L/z6rTrJdJmo1ApQqnFxOCENGO4EpXo/5AMkznehIdBi0LPMI+jujhuTQ7BoOzQdo04sMTEP469ZWrOl60gcZn7d+UO9TJcz3/a44KNOL4iXgIpwgT3nnNLRqK2T0tELc7qKo0JUuBzZJ7HzjREWd4GiveqV5+4Wt2eybcwi6+RVo2OjIn6Al6PNchE4jSMJhNnzfDSaOqonZ27xF5bAzUbqksh4HTn5R+6GAsQRN8qeS1L3qLeIIjkK5DihY9X590hf0VDryoGlxrTq51y1NSKCKRThQUKUb0mM5IPDBOkesHaBMpqsUzYN2Ua4yPPgJfdjVUdPBxDMubA0OUgvdruaEEJTMGzQq2EgNj3Wf4nRz5ug/T7ZnDE4XnVfMURSTHolifQ=",
+  "URL": "https://vgough.github.io/encfs/",
+  "LICENSE": "LGPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1541621880",
+  "PACKAGER": "Jaroslav Lichtblau <svetlemodry@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "openssl",
+    "fuse2",
+    "tinyxml2"
+  ]
+}

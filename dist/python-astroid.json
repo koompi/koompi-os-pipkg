@@ -1,0 +1,25 @@
+{
+  "FILENAME": "python-astroid-2.4.2-2-any.pkg.tar.zst",
+  "NAME": "python-astroid",
+  "BASE": "python-astroid",
+  "VERSION": "2.4.2-2",
+  "DESC": "Useful miscellaneous modules used by Logilab projects",
+  "CSIZE": "301017",
+  "ISIZE": "1945998",
+  "MD5SUM": "6161439df10a6d1d2400ae77e950fe80",
+  "SHA256SUM": "554f9290b14fd0140187d2f4df29f14bd0522542295636ce126c97e22ff5a4ad",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl7eHesACgkQeGxj8zDXy5IRgRAAuRUxqAqu9g4rtcwb6VeCtiR9gviXELD1rbikt9gh06m9flCsfZkVY3zud7NbYMepa3twjAbvtPEQEXP5TKJp03FkyG3lNH7SPOMHlcuQYNZNZDvF6CShaTOSNJ3iX7V8Devd+QaIlEBFEX1OUy/HBrPAeA1kFMJN7uMs2wBTdu//8wgi1jdVqQzMZclsGvcI2fDr+r4FjxqRdr3Uq/M2/sJZ8nVl6mHvN+JoeRDgT7vdVX3NEYFCDGRXiauqZWwyGOr4cUWY8j2Eh9PBu6LNEwB4Mm9xFAG574ZdT5YKqz2lJHYXIizAbsVgi0g2YYYU54QZfJ9mXI5cxS5kQtqjovQj/aF6xxJ+EQVDv9R5+6mV7OGAgv2Lik5D40Jm7KdIxjqkPoEyYYzNQLJAlCKa6xZ/LCN7jifk6fAgC7ROm51LHhrR6Vua5fkFOpxuzbxrnRXX34XOW/Fho3pxFNMcDynoBtE3sfCeFOyTvFr7Uw+nTIUfm+4+klrikR8ShiyosCum17d+8HIfr+MZ4/I8/KF+Y6zAPnuRGN1RdA5B1FBd0rwDWXH/jgEPPtD4TxVRS8onmU2OK3N1/yUKJjRNQQrxjER9L5UZo1rY0Tn3P4m3oLLb6N3Aj3z6thn2cooR0G+1n2GpQSNyvxtIF1pNUtrJolh/rqn6KSjxO2VO81o=",
+  "URL": "https://github.com/PyCQA/astroid",
+  "LICENSE": "LGPL",
+  "ARCH": "any",
+  "BUILDDATE": "1591614855",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "python-six",
+    "python-lazy-object-proxy",
+    "python-wrapt"
+  ]
+}

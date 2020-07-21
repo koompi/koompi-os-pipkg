@@ -1,0 +1,25 @@
+{
+  "FILENAME": "lib32-alsa-lib-1.2.3.2-1-x86_64.pkg.tar.zst",
+  "NAME": "lib32-alsa-lib",
+  "BASE": "lib32-alsa-lib",
+  "VERSION": "1.2.3.2-1",
+  "DESC": "An alternative implementation of Linux sound support (32 bit)",
+  "CSIZE": "384182",
+  "ISIZE": "1089575",
+  "MD5SUM": "e5433024b163c1bc947009f3cfca988f",
+  "SHA256SUM": "f379872ce9477622dd988922a269542c65dbc6be1814afd1e41461efa487edda",
+  "PGPSIG": "iHUEABYIAB0WIQTH54SUZv4jWDQ1iDdyWHNLQcMVSQUCXwYcFAAKCRByWHNLQcMVSSgwAQDMjVGqxQ3zvDzc/i+3GkVCfofbKZRtiy5tKL+GsJYDaAEAh54M2pwn74Mop72GZeSIyrOSzeyhK1eCf9ZfNmCkWQs=",
+  "URL": "https://www.alsa-project.org",
+  "LICENSE": "LGPL2.1",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1594235837",
+  "PACKAGER": "David Runge <dvzrv@archlinux.org>",
+  "PROVIDES": [
+    "libasound.so=2-32",
+    "libatopology.so=2-32"
+  ],
+  "DEPENDS": [
+    "lib32-glibc",
+    "alsa-lib=1.2.3.2"
+  ]
+}

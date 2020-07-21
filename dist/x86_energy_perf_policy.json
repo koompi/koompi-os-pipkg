@@ -1,0 +1,23 @@
+{
+  "FILENAME": "x86_energy_perf_policy-5.7-1-x86_64.pkg.tar.zst",
+  "NAME": "x86_energy_perf_policy",
+  "BASE": "linux-tools",
+  "VERSION": "5.7-1",
+  "DESC": "Read or write MSR_IA32_ENERGY_PERF_BIAS",
+  "CSIZE": "20790",
+  "ISIZE": "41480",
+  "MD5SUM": "46cc96890af281131f059673241aaa5b",
+  "SHA256SUM": "5b8c17f73e33152e8d155e9cf67f4f46024ed59a7dba9c81dca38b3cb3a9ed14",
+  "PGPSIG": "iQIrBAABCgAdFiEEVyJOyaX8pvvJK7iqShr8NF6+GPgFAl7WcvsACgkQShr8NF6+GPjsjA+/Q3O056VyRj1GGoQEZ6+XB98MvhuwUIPSnOGa0SNe9Rf1LLNavRQLAr1IGBv/B3KK4zrFUfFpJPm//u+BW5allPi+rVSVwzZD0f+2PU2X2MdcU47weYDcOevz4QZdn8YIxuTIH2z2dDieci1g2SXzvtN7dhBJw9jVuqnH4eTKJpUHK8gOhj/EB4RJZE9BDCB6BsYKo3rq5c2NsbuK0XdxO3R8dqUdSS/Tma4cm8+XkA1ucHTR4rt0hqUgCNjZcUHsKWwucMX5eR9clR3BRJRlfzAQQmV3d9b5OnDpoielOr3MSnAt6TwUpibh7fyRBbmYXuyyfh+kYu41rdqDreaYCQGjFsB2MKfq8KU4cSxUTcrVm0hzctR63Wfrl/apDqqOO4VwyMQGyHBgR3eQG/t/hh2cyk4AP13hpC5CgB4DDdm18/ZcBAS3O372FvcDvzcsKAgtJ/0pymEgLNBL+21gC0Gg4b0XeTOah4lJw7k9WwXVhvlBCdJuA8lt4aps+MfVl9ta0XVz2x6faZOvxREMPUogloMiR8ZwZfukecS+i3WjbDYuST9hrpDFggDk4NfVlnPxj11H+XcVGB1eXNQbCWw6Qrbzr9f/5txWUKyIEpIFrUBm300UHpXqB2FBjveQ3jMCVtt1QqNK0tEkC5vO7KYVNMOzEkY3",
+  "URL": "https://www.kernel.org",
+  "LICENSE": "GPL2",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1591112032",
+  "PACKAGER": "Sébastien Luttringer <seblu@seblu.net>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "glibc"
+  ]
+}

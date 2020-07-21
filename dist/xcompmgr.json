@@ -1,0 +1,26 @@
+{
+  "FILENAME": "xcompmgr-1.1.8-2-x86_64.pkg.tar.zst",
+  "NAME": "xcompmgr",
+  "BASE": "xcompmgr",
+  "VERSION": "1.1.8-2",
+  "DESC": "Composite Window-effects manager for X.org",
+  "CSIZE": "18108",
+  "ISIZE": "40832",
+  "MD5SUM": "aca97765592100bd090d50212cd61a12",
+  "SHA256SUM": "82f90d6f21d453a204533d2cd930a3c329d034a5fc640c67a411324bf2622d86",
+  "PGPSIG": "iQEzBAABCAAdFiEEhs/8qRjPOvRxR1iAUeixSKmZnDQFAl6/8iUACgkQUeixSKmZnDRGaggAnPgHIcNwW5vHgLyigdU4lTKB7jpaYzhooeQW5WjA5D5BxCnUN094ytRtb5UBnBY0PjyxxM5Zd9jsCICp/qnoCzaCy4QfKsOiT1Z5+IizIVCRUi/wdXA52sbGQ9+4LOnj6bCRu+Hcg+ti/8z6E+xrDGdwxmkdQCyWboWwOVfu+gFOugQXoULTtwShFY41JcWaRFWtXbvRCoShtfyTXTleE99deFiPZx6eJH6yIf1QzRGlKLEY1YDkM0jbflYxrYtMZiXMaJa4q1Otrisl1EuGVfMvFeOOGfNxEKqlF/sUDw7EFNp+bxgC5qsQieBatgqckaomnWsWmDUCFe6jD7qPqw==",
+  "URL": "https://xorg.freedesktop.org/",
+  "LICENSE": "custom",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1589637651",
+  "PACKAGER": "Evangelos Foutras <evangelos@foutrelis.com>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "libxcomposite",
+    "libxdamage",
+    "libxrender",
+    "libxext"
+  ]
+}

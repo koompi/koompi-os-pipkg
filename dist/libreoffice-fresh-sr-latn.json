@@ -1,0 +1,23 @@
+{
+  "FILENAME": "libreoffice-fresh-sr-latn-6.4.5-1-any.pkg.tar.zst",
+  "NAME": "libreoffice-fresh-sr-latn",
+  "BASE": "libreoffice-fresh-i18n",
+  "VERSION": "6.4.5-1",
+  "DESC": "Serbian (Latin) language pack for LibreOffice Fresh",
+  "CSIZE": "220953",
+  "ISIZE": "1252038",
+  "MD5SUM": "954bf5073bc8206624825d198e6123f5",
+  "SHA256SUM": "56461d81a27ded4b1b907880f9fbaf97be617745d655ab3e6e93a057cb8b8907",
+  "PGPSIG": "iQEzBAABCAAdFiEErcih/MFeAdRTEEGelGV6sg8qCSsFAl7+FzwACgkQlGV6sg8qCSv6tQf+M52/SLy5eyNcyjY0x2QBV1ShHzCyS+bt4cKkRVQ+53nQ5QpBuOqsSEVdb6aewfXyGjbeudPKPzv2Jwz18hHsPktmkgDgivffa2zdNHlys2hV5oWpkV5O5jUSzx3XbyYG2dotrSr7Ct8tiikAETz200yCbyVCTCHEv34/eRtdqy1CsMZOK9j4u6415U2ls8F+oUxltP+GGYhyGymKDh67YgbnS1g2WMg6h0mEMeMtUCjlYVZv0wKgkPnvDOO2lvMPi7RcXjsVKZkEVWBr9BKY214Gtg9b6SWNcf49qack48BMxCIpAO7e+kaRQGiVCaywVlo8+2dQo738vyH6prc2Dw==",
+  "URL": "https://www.documentfoundation.org",
+  "LICENSE": "LGPL",
+  "ARCH": "any",
+  "BUILDDATE": "1593700315",
+  "PACKAGER": "Andreas Radke <andyrtr@archlinux.org>",
+  "PROVIDES": [
+    "libreoffice-sr-Latn"
+  ],
+  "DEPENDS": [
+    "libreoffice-fresh"
+  ]
+}

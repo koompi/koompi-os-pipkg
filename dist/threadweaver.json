@@ -1,0 +1,23 @@
+{
+  "FILENAME": "threadweaver-5.72.0-1-x86_64.pkg.tar.zst",
+  "NAME": "threadweaver",
+  "BASE": "threadweaver",
+  "VERSION": "5.72.0-1",
+  "DESC": "High-level multithreading framework",
+  "CSIZE": "459883",
+  "ISIZE": "911647",
+  "MD5SUM": "9ece5a6ac8a132559fde92288434631f",
+  "SHA256SUM": "8b0169977a9d43918de92d3201a137f80422de77cbaa748c04ae5cfb49146c13",
+  "PGPSIG": "iQEzBAABCAAdFiEEFRnVq6Zb9vwrc8dWek52CV2KUuQFAl8JYOIACgkQek52CV2KUuTZWAf+JGmYNUAtbaFF988jGWQ27R5tfqzWbSX3ZTw1PBzhlxkshi1HSVol7CagyU/uBXUNzlxk1MXnd/83Rn15jYEl51ux3jmyfETHvlTN8tgJcwF3sccwrMaGybYn3hPZmgNIoOVuu3ify+OwYJckYzoKJoBEAu7Bst4FtDlph+TOdqzSJurvQ0H2uJxVdQN/S2pa9M5b5oYtry8lHc8cXP4bvdhpYtV+PPw4HMlmpwiSAbEW9zvIooL39+PfH0HmoDCtEJ7FiEfwqr20+yJn1DaMglATk50r3AYQdxkqFYegy6h/QLPh7mFahqhH4Odb4qejO1oazSLgRJHwsaFCJxdgtw==",
+  "URL": "https://community.kde.org/Frameworks",
+  "LICENSE": "LGPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1594202155",
+  "PACKAGER": "Antonio Rojas <arojas@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "qt5-base"
+  ]
+}

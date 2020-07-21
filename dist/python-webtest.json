@@ -1,0 +1,26 @@
+{
+  "FILENAME": "python-webtest-2.0.35-2-any.pkg.tar.zst",
+  "NAME": "python-webtest",
+  "BASE": "python-webtest",
+  "VERSION": "2.0.35-2",
+  "DESC": "Helper to test WSGI applications",
+  "CSIZE": "60768",
+  "ISIZE": "296384",
+  "MD5SUM": "322c27e84d7259e9eecac3081bcbc429",
+  "SHA256SUM": "8ada7563409eb0863f5f83ad7f9d2ecebf41a1c414c3ed24ef1b60111a6c3747",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl7xv3MACgkQeGxj8zDXy5L2Bw//T1EIPVsL1j7OSS3e9p1rJE09XhlmvhsgPLYjQ1kUjfMkpEMMUKW00SVOlZw9qj5HV8xxPpoWwXeTl2gZv/FiH0wwMxnhzpVs6m+N6iC33ZdEd+QlgQjAlmEnzAQ8st8MndCcK9AF1GB3xQIqx1gmydHkNHzEt3s4Kn14U/dNkKPZD64xej54y3uMUebaOoIZkmY1z3ENwsD0AYp6t8+gHmiiLZvEFBPuyhv5xcG6B7m7//waIJoTzOftNZhA4wGp2U1jaGzzaSSVRxDDNrTrCFd5iOdZozC+oI/6sxXsgEYkvRc/Ng2jxz0sX2maMmFP4kW85GsRU4hBppzmBawcdnR2Z2fHdl3TsaHRiHRyXU49aIiQGdDtxUQarSPV+YmtYe2nVj8kwsJl3HdG0nsphAaz3XlmnzEabUF0pzb0uZG5sW4TGXdGE7McN3Peflg0W3xqb+R1AjkhziEaB9SGii8jymrV3O8f3DMjjxJFn2Td5PybdjTKMYbwOGQ/CAblc3D5qUDxiIaar8JwGKKCtPml7M6hiJMRWWniFtRhUN1tkJJA3wdOFT1TXQF/dquTpZvwdB78uG6fbibzULL1E0Rx+/GdkCLUoFjKyK8B1JzXmpv9JN4Dnaev9kwCLe44IErnycLka2NbYjzuv9uj4xncwqHIal3GT69vX9mU7aY=",
+  "URL": "http://webtest.pythonpaste.org/",
+  "LICENSE": "MIT",
+  "ARCH": "any",
+  "BUILDDATE": "1592901428",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "python-webob",
+    "python-six",
+    "python-beautifulsoup4",
+    "python-waitress"
+  ]
+}

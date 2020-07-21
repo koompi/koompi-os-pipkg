@@ -1,0 +1,23 @@
+{
+  "FILENAME": "libvterm-0.1.3.git1.65dbda-1-x86_64.pkg.tar.zst",
+  "NAME": "libvterm",
+  "BASE": "libvterm",
+  "VERSION": "0.1.3.git1.65dbda-1",
+  "DESC": "Abstract library implementation of a VT220/xterm/ECMA-48 terminal emulator",
+  "CSIZE": "45689",
+  "ISIZE": "134577",
+  "MD5SUM": "d61b9610928ce5ddb04b399cb769db13",
+  "SHA256SUM": "f737f0f4293fe9353368d496b598835a301e4b597aee4bee43e7c839883a8099",
+  "PGPSIG": "iQIzBAABCAAdFiEEj8FaBklQqZ3RvRTdOeS4d+YuuRUFAl69uwAACgkQOeS4d+YuuRX5mxAArEYDxNF9be8mKRzbGOH1O3NMUAZS7ZLqYqZUbzEdeBwbVGt96ppo0OLvyDQ8ASAtfuXpSJx5g8o8pPn0k/ehP7Dh2sZy969l/xLwUgRf6u1tXxBrnm/GYU4XlLFmOl5TUPBObt4QVpnUsYeIQHxukLpQC2ruB0l1UyxTYUNsaZ9VgZExlHgE/06TgfA06AeeDN0OdXICWwCPRyOj2B54V8F0+Etj1glMjw5WhyafugsDyeAIDq7KpdESXNooK4CvxNplZYKYmTc9xS5jErcsA+DfexEtcAdx6DHWPAz7Io8HDMnM5pSC5u0sAPKvjTXlSun+CR32xwZw1QAQpqbxc4QdXVOeXNZeDfqqBmNxPUorsznH1pbAX2WVKWrnMBRX43Vo1IxPenWssw8miDpPwqcvjFm4Es3Vu9lbDduDevppSNAIyvXb/oqekN/r415CNPZYDGlihnGRl5URbPmaz381YQ/pncNG5adO+LY/ECuV1tQGAPar6eAIECe4CouWi8Y5eW1tlyUa5vJj9W1yY2QjkpDZg45eZdxx8HOeo/Ah/XLsrmX/8hx4FpRca/yvjemDUbBtZp2aQumu5xOTVSbhELV4e6ammsuvsabUIbTInbglXa4t0iFFXOQsGHCuh/Emv6yLsedHAKWD+Aw1eIVJ1nbUpuEDniYl+A9KLzA=",
+  "URL": "https://github.com/neovim/libvterm",
+  "LICENSE": "MIT",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1589492158",
+  "PACKAGER": "Sven-Hendrik Haase <svenstaro@gmail.com>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "glibc"
+  ]
+}

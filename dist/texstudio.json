@@ -1,0 +1,30 @@
+{
+  "FILENAME": "texstudio-2.12.22-1-x86_64.pkg.tar.zst",
+  "NAME": "texstudio",
+  "BASE": "texstudio",
+  "VERSION": "2.12.22-1",
+  "DESC": "Integrated writing environment for creating LaTeX documents",
+  "CSIZE": "19644971",
+  "ISIZE": "101043498",
+  "MD5SUM": "5962c7b3612b4bfbf1fe4bff83945b0a",
+  "SHA256SUM": "5a4b1909c0f9b519687e89d65f68af786f70832bea937c9352f03e17fdda20b4",
+  "PGPSIG": "iQIzBAABCAAdFiEEj8FaBklQqZ3RvRTdOeS4d+YuuRUFAl4jWZcACgkQOeS4d+YuuRXJqw//dSZN2aK+7l0inbNwy/pW9q+c7/1Taz26pz2QmxD+dxLuME8QuujlbtNpNcABveZxEtJMcUlkfXPpLeUGaQMHLY33ofWzq+6B4n63ekwWEdLGpMGZT2BETONzAIOkNWCkfcjyqk+2h5W+StzHFJhLaUs82fQ6u3OIiYaf/B+eUgAWfO5fNW7yTyL0B3iNuaVnLePY+d4v/6nXMtW0EOgfJA/pJikHxjD5TLJlKdOcx96RMVfKl90av2nyemtDIz1SAgYrGNeH79jLkdQzZMwURvjjx/moaaw04uEE0g3BbXDKk8zqTkHlTrAChm3WUuO9ikIWKfxSIIzAgANnjSQDXIRGOHerg09kd5ZFGqLx7FKPHqWLLQXzrLcfVCsY8+vp5gggspn56nyrFd0M9Pk+xPtDrwknpxIaG06zQhdQccV06mQ/qgJJEC0mWU1Al6rF+ZtPQoH9s9gu2IPnzTRRiKeNbT3lBUyWcKzv86yPjsfPWUEHAEzwBs3sFAg0Q0qG+UlqF9PoVWLZ7Rm8neetJ1pdI6cFbZf1F3YAMKIUnrTu2SRR/mRwQhLVUQi2TYOkQkAaIGhDC9EzCRgCry/OjNvuTx9WdJFloQzX5FW5knMfi9tBRNO81h9/UXK1NZtJSV+2eBNVUDp3l55zB3WM+mp4g01pYe/CxVyY/pHhMEg=",
+  "URL": "http://texstudio.sourceforge.net/",
+  "LICENSE": "GPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1579374509",
+  "PACKAGER": "Sven-Hendrik Haase <svenstaro@gmail.com>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "poppler-qt5",
+    "qt5-svg",
+    "qt5-script",
+    "libxkbcommon-x11",
+    "hicolor-icon-theme",
+    "hunspell",
+    "quazip",
+    "desktop-file-utils"
+  ]
+}

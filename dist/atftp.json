@@ -1,0 +1,24 @@
+{
+  "FILENAME": "atftp-0.7.2-2-x86_64.pkg.tar.zst",
+  "NAME": "atftp",
+  "BASE": "atftp",
+  "VERSION": "0.7.2-2",
+  "DESC": "Client/server implementation of the TFTP protocol that implements RFCs 1350, 2090, 2347, 2348, and 2349",
+  "CSIZE": "56819",
+  "ISIZE": "156538",
+  "MD5SUM": "5c332b26c7cbe9f33914add01e369ac5",
+  "SHA256SUM": "16d39eae99f173301ba1d2f20d109a787d708ee0308a0886bf445c3a46a80c8b",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl8Ee3UACgkQeGxj8zDXy5LY4w//YPwy5cXQHi2tHzUBmigDBWb2yB24zWYTcTCEeZ84CkXi8hrkpclsTqTdyg9PT6YyFTX7BW1Qb1zGWDoz47SsPKUU+lLFmdUimdITMWPcobtTtBbvwW6FpC4G6EUsVMdYi+xfjbhzpIFANKFia6rUqg6JUvGjGNysSH5STRaqglnThLcQgr+6fmY1xADXZzjhzIlUSLgf8ZYD75mhiwDl+BacNBdRc7miNZqknhaE0CYc4A4Kv7gy/2Af6EeXWW6pI5qs8bSau92AQaGyoBrmU3/09i03EAY5aDbizyA26xDeek4ekdd++hrGo7uTPm8fiEvJElxy0P9rm8W3A73fMgDnJsiRUwMvROUpZFGMua+Ab7ApofeQNW6TBdDUIew8znz/QlkUA9u3GwjEr7/e0/Zh3e6uJIcfj7rKyKh6OsmmfD++E6Pf9BJ6EQp+3IHbIjsls6m0tpVing2z1oPB8jkIZY2dSlwArQXx1EuhKRMonoNXBRl4wO0aAdRpZwl+g2KN7CbqGMipGRX2+24OP4SKl88/o+zngkEwxyJ9qSPeOswTvOrJ4Z6qmY5dM+tgGGwxB6jwPF++4btOckOA2WEPKXBfi2DhhfL+7hlCHjoKHzoUtPEx/uSZi5tarFjf/fPUQLF7JFYbcyv4MT8YOUQnTvWTV8Xzu/3RVkVs14c=",
+  "URL": "https://sourceforge.net/projects/atftp/",
+  "LICENSE": "GPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1594129147",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "pcre",
+    "readline"
+  ]
+}

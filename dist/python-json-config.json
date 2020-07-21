@@ -1,0 +1,23 @@
+{
+  "FILENAME": "python-json-config-2.0.1-2-any.pkg.tar.xz",
+  "NAME": "python-json-config",
+  "BASE": "python-json-config",
+  "VERSION": "2.0.1-2",
+  "DESC": "A convenience utility for working with JSON config files with file syncing",
+  "CSIZE": "13316",
+  "ISIZE": "42181",
+  "MD5SUM": "8e24a19c45683cc1ec9daabc50d2a30e",
+  "SHA256SUM": "08855cd6d664e51f702256fc484a944f8eed291f1f5e98af41e33447a425f116",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl2/xJQACgkQeGxj8zDXy5J/YRAAvT8Qf2bXXrtnGG/T5Xky9VHnnKTmKytqSqDKyKHA5vhc7Mc9nckSFVAQgHgn9thgKA/Z2ks/Yf0ENZGXjARb5RrzKvpqyxgqNCgjB8VJmDPIyG75vB1V2b3VBbZJYGD0GlSQzAgZyvYZ4LqLehaykIdJvWPwDVQ/5DkdcKG/0BlGD0TT4Au6G7FrMCbu9aTaVpHlOxP5MoPUeQdwIezCuyUNeUngoCauJ3vRNwRtOUvnNWZU8AE3DNiFUgl/FLaEdEriE0Br4L9tbxfT8LglD+nXBC8+RRcogv24vlcUMAFlMw0zp/3nku/BrjanNNVRAgop8yM89Ro/nYcQPTk0IOm49BLHUX4YjqaetdR5sD4WmW0a3zP+U+U2ARQQYClwpIVkhfIYT6QAAz7xU74fiXwSmK6a5S0VIEKxk/30kOgL6eRRrzb9rnb6C98Ta0SjMf36qRm+pnt12N0Vg35IyYaFsYO5bGzrG+0LLJHgGSX2IDKOKazhIihgfICW64sQBVEzzIenDXokJrzUb5Spvs45pXGDRj/6mQz/bIOrkoGnlQ/yA84CebQruT8cUdqH6YFZWAAJ6q4/9kVitQsRLaL/zD87d9DVLcLRMxb66MiorPa5ZUpFzX941U8ThkWXsYhZUeljQ7gaKdYtSccVSPVBG0WeRP036n6s3gIw3xY=",
+  "URL": "https://github.com/bionikspoon/json_config",
+  "LICENSE": "MIT",
+  "ARCH": "any",
+  "BUILDDATE": "1572848763",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "python-future"
+  ]
+}

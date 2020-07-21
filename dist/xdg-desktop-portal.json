@@ -1,0 +1,27 @@
+{
+  "FILENAME": "xdg-desktop-portal-1.7.2-1-x86_64.pkg.tar.zst",
+  "NAME": "xdg-desktop-portal",
+  "BASE": "xdg-desktop-portal",
+  "VERSION": "1.7.2-1",
+  "DESC": "Desktop integration portals for sandboxed apps",
+  "CSIZE": "336206",
+  "ISIZE": "1990591",
+  "MD5SUM": "ecf5242995ab55352050c118dd3f5d6b",
+  "SHA256SUM": "98267e7b7e5d34aa2a764a54e45d89f108b2dc0fed0086fbfe8ef46d6cb37ad6",
+  "PGPSIG": "iQEzBAABCAAdFiEE82kWh9hnuBtRzgfZu+Q3cUhzKKkFAl6NqAwACgkQu+Q3cUhzKKm/0QgAqqViOqz86UmqDLu4+yvZjuRNgxtdmQvg05FcnNliMR+mYW+aw4F93J9tGhWOYvDI5Z3TDiS5hR2vAB+piKBTA0O+0Y8OXO133obKi6CIOD+GsCBpBxQI8UeWaWfaGKUAJmvdDgHAvkqtl+4uRaHQHcTJCO/0QcwWYqMsbgvqZSFO9uD4dJjkWROBtcQhkuGswCA5DFnrOdI4pGJnT9loz527zjzjxjYo2V5u8npXQjZA7z5OYRTxEbO4KDRlIehCHk8BrHWk1vDByY77e/YAwgcwVLt/38NsypnU0UUlhgwrrM0U4d3juOqGORbi8AtUShkDF0FfSkMm14vGDg7+ow==",
+  "URL": "https://github.com/flatpak/xdg-desktop-portal",
+  "LICENSE": "LGPL2.1",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1586341793",
+  "PACKAGER": "Bartłomiej Piotrowski <bpiotrowski@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "glib2",
+    "pipewire",
+    "fuse2",
+    "geoclue2",
+    "xdg-desktop-portal-impl"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "FILENAME": "ckermit-9.0.302-7-x86_64.pkg.tar.xz",
+  "NAME": "ckermit",
+  "BASE": "ckermit",
+  "VERSION": "9.0.302-7",
+  "DESC": "Portable scriptable network and serial communication software",
+  "CSIZE": "882816",
+  "ISIZE": "2627584",
+  "MD5SUM": "5d32b3d4310dbd022eae52f505ba0b11",
+  "SHA256SUM": "c4b3368d667871ccd10638a7539300494165abbf5a9302f3b475051a4198bcd1",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAlsUJ1kACgkQeGxj8zDXy5J9lw/7By8HNf0Dlx8/JOoo+cgmISfjIr4/F0qZF1K18zsHAB+zpwqq2ivSghjIwT+DB7JHlnIypGx+SL9doasIlfYORi0LPVQDjg0Bb/beNQWyoYmFdZAUgPDsj7yO6k0jcJS1FzW7B+GYycgTidYJu4HwHLUb+nPfWm7RJnQvZOXrcZbmOZyAw4+lOs5UHAaUqP3x+vfQvLuu1EG83ILNhJ3I9+ER6n4KQ5BirDtP7vaN5zY2GqJruwxRYDOqWdhBG9oJ++cwBu7YTB1gmaOh3hh6NUobVljXHFu0ji/BDG4vjQf0AatNlWEPhtHHSVTkvl5MPjRjgpyGwJkS80PdgqHCkcQQ4AbmE+KrVMCduLDIcZ5c2K6ayMcktV/8fy8Sm5Uor09Ipvevek7mmHR/hBZa/1rI09DwS1P29ntpmhS4PBuZfdW/7qJHa7BANdJUj9Wh1pmB0kRl3L1JntX3TT8UsIfDvundhCfiPsZl2CWLYfVMSfRi3fR9phq5M9R6oI9umCpEkAARXeccrZwtEnP5kAY8GmW9duyXjiPUOWelKnrKynVAtpovgMWWkHovfvu6hgiVXFwETDj/qTBprDtYz1speoxwuSvC0g2AELJP1Rd5thIpOxQKmzXJ31T5n9B2KTFbeZscbSdFN3klUJSe9rqiyg4d9cJaCD8K3FS/uwQ=",
+  "URL": "http://www.columbia.edu/kermit/ck90.html",
+  "LICENSE": "custom",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1528047281",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "ncurses"
+  ]
+}

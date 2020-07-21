@@ -1,0 +1,27 @@
+{
+  "FILENAME": "pantheon-terminal-5.5.2-1-x86_64.pkg.tar.zst",
+  "NAME": "pantheon-terminal",
+  "BASE": "pantheon-terminal",
+  "VERSION": "5.5.2-1",
+  "DESC": "The Pantheon Terminal Emulator",
+  "CSIZE": "126877",
+  "ISIZE": "473301",
+  "MD5SUM": "a964428068ea11bb7a470e9aa9ca534f",
+  "SHA256SUM": "a31ce06745ff147b7a6d75e1ec4bfc2ffdb93abc882bbdd6ce6c0f3f6c2bb574",
+  "PGPSIG": "iQEzBAABCAAdFiEElDfdOBWnqRaePTlGr/XZUJi8b/UFAl6GTykACgkQr/XZUJi8b/XWpwf/WUnN8n5Z1K5NFZJwISFJ8/Azscw+ybSs87Ed4cfNROhyuwthnJIRau8NbkWl3O0DCZckTEMOVkl79NMwh8SeXPrAoQ20cE4emIrq/XAxNFLoF7YPZ+RKpXKvC+v1PrIuG+irF1hS322LPIwfbDIKOL10FjVaKEfoAOUwpjM9ilBH2DwJmBzuKO3n/OsOhbPj4+74lUTYbl/hE+GhL4hpbQGb5vJE9zXbuyvBK4CrjBzKWJPQKLwgiQgqnUi0zZBIIxo9RowkD7oJwg2IC8SBtuYg3JIXGx5FjjkZbg3Q5akTWUo1jOteEYdbDmqynjEL/C4xTCUQBq73oQZs6M/NDg==",
+  "URL": "https://github.com/elementary/terminal",
+  "LICENSE": "GPL3",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1585860313",
+  "PACKAGER": "Maxime Gauduin <alucryd@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "glib2",
+    "gtk3",
+    "libgranite.so=5-64",
+    "pango",
+    "vte3"
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "FILENAME": "supermin-5.2.0-2-x86_64.pkg.tar.zst",
+  "NAME": "supermin",
+  "BASE": "supermin",
+  "VERSION": "5.2.0-2",
+  "DESC": "Tool for creating supermin appliances",
+  "CSIZE": "716977",
+  "ISIZE": "2293359",
+  "MD5SUM": "451c6296f79a81106535a863561f3378",
+  "SHA256SUM": "a19e2b03ce1f1dea46d2f783a1a0c84575edb370e3c61f8d52684a9975baba8e",
+  "PGPSIG": "iQEzBAABCAAdFiEEZqjoqLGqy8OL2Wv1aqwApcNaU5kFAl6yy7wACgkQaqwApcNaU5mmoQgAxxVuhNA5n/SclviS8H/la972ikjq/uLnoErfwRTg1BABDIsofwXZlhzPr5vSj2Kc/SwK8hVBPZYi16Qw3GCmJbOmKZz22ojq/8uHBe3HYGR51jimZNLD3AfD7Aqwq66rHTxgc0vGEplyw50OXjAW77Ft/dqoaQImx40/1Kb85bcGLYDQHxdkWLvH9bb9jPCDRVgOadgVgWR7sRbnBOEpis9EQqlgeY1FKP3eWtdQXVw5WsWd+A+C1wJMnrrRALTtImntKYVero3Gex3XhA1BC61D57bHUErNXaz+r9P1OJ5hvbzuXeqItwhNa056FCHq6WIqy5lihCiYxl3ALvSyOQ==",
+  "URL": "http://people.redhat.com/~rjones/supermin/",
+  "LICENSE": "GPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1588775783",
+  "PACKAGER": "Robin Broda <robin@broda.me>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "e2fsprogs",
+    "pacman",
+    "pacman-contrib"
+  ]
+}

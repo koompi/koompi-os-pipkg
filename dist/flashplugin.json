@@ -1,0 +1,27 @@
+{
+  "FILENAME": "flashplugin-32.0.0.387-1-x86_64.pkg.tar.zst",
+  "NAME": "flashplugin",
+  "BASE": "flashplugin",
+  "VERSION": "32.0.0.387-1",
+  "DESC": "Adobe Flash Player NPAPI",
+  "CSIZE": "7763227",
+  "ISIZE": "20152964",
+  "MD5SUM": "da00911c916bbb91c98d3dbd719d5826",
+  "SHA256SUM": "19c85086fac5f93a68da7478b81854f43ad9e83877e6b21f95bba9c9e7d8cea5",
+  "PGPSIG": "iQEzBAABCAAdFiEEhs/8qRjPOvRxR1iAUeixSKmZnDQFAl7f5esACgkQUeixSKmZnDR7cQf/d8t49RkBFd7GiE56U+NtsXZuoIVOe1IPMijaPODR7Xrjayxg0/HEb6PPhm1vgIn4MkiHpqR79Jpu37k1IjydxYbqFtBXTyAAcEP3lR+mPdwUt2ksQep3A5mU1JIQIVPkX8WVt/1DFkbiwiAb7nkVSbLmLbBrvHnvvC0Eb1u4OHkohmUtY+6CxJv52YqneapWpV/4bNamqyzHkQDdofRgzf2Mq0gnc+pDdQyzBamW2kkShNV3a+AsSPZcD83BrWHEwO+Y+o5P5gl2rk1ZDSz5WIFNu5x530H2o5qwFNPnBqRBxDfn0EVdJ1fpRvkzouIJdw1wEaRLnqIzy3XXDF9YpA==",
+  "URL": "https://get.adobe.com/flashplayer/",
+  "LICENSE": "custom",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1591731642",
+  "PACKAGER": "Evangelos Foutras <foutrelis@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "libxt",
+    "gtk2",
+    "nss",
+    "curl",
+    "hicolor-icon-theme"
+  ]
+}

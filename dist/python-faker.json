@@ -1,0 +1,25 @@
+{
+  "FILENAME": "python-faker-4.1.1-1-any.pkg.tar.zst",
+  "NAME": "python-faker",
+  "BASE": "python-faker",
+  "VERSION": "4.1.1-1",
+  "DESC": "Faker generates fake data for you.",
+  "CSIZE": "1628505",
+  "ISIZE": "9389806",
+  "MD5SUM": "2011a37eb87c1ff95d007c08855e9607",
+  "SHA256SUM": "675db54c9c4251af6c7d073863d4acef4d15c531a9aaf01da455152eb530b4cd",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl7pH3YACgkQeGxj8zDXy5Le7A//QC12EOiN8tr5RC7tAhSEqnzGa7ny8Dw3ew5V23zjKH5c704FeKHG4oODZCktoxs+Tqjp0nIbfRpWsBkxK9RsRHLIxV9YU90NhWg1GqSlHDihz48t9BBWLU7BtrHMvYcmdWiq0PlR8fuf0ffzJQpXjDVAwXdvpsbKWHpvQ8uEnYjHhoqLnDVRQuKnepGd7xgY0xl4Y1m0HSBcuWv+0Q2Rn4Tjw6Vv3hrkt1mAE1/pmfsvGSn4R8GYxR8EUG8W45gB4l7md5f5GIVkoHknTBXHnMdNlWatsrwWVhTla8E2jNb7+cWZGOI5Z59MobKx0G4MPzrntVXL8kEB7pxUBCWiZ8kihFFA5xzn8aAAgF+2Hs94oUft0wS/73maHAUfD8wMzAG78jFi3lNeBKeazCLU5WeK5iwdlCJEVvoc1Pc7jW+sDFMXYHWAGL9ibU6/j6YZ5Hpx+ZzRX5SouvNt0tZf9u1uo3ayrs6l5mEJahp2+zeuuckddXm0jmNpzT0MjLL5+O8twcvpqIRjsaXaDfC/6ZrxmhQMoM0oOeooy6fgnt3O9OYdW6mHrr7SAOIl7vRkozTKNieFtcHElEV8ERIQTqHVlMF49qsiEqJUCTebdeGctPpg7BZ/q+bL2iXDjIPGBtZrrSp3gScV96mSoix1hjWiGU+nzn8PZkej4uCXyOY=",
+  "URL": "https://faker.readthedocs.io/en/master/",
+  "LICENSE": "MIT",
+  "ARCH": "any",
+  "BUILDDATE": "1592336142",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    "python-fake-factory=4.1.1"
+  ],
+  "DEPENDS": [
+    "python-setuptools",
+    "python-dateutil",
+    "python-text-unidecode"
+  ]
+}

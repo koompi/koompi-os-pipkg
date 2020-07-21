@@ -1,0 +1,26 @@
+{
+  "FILENAME": "udisks2-2.9.0-1-x86_64.pkg.tar.zst",
+  "NAME": "udisks2",
+  "BASE": "udisks2",
+  "VERSION": "2.9.0-1",
+  "DESC": "Disk Management Service, version 2",
+  "CSIZE": "1019918",
+  "ISIZE": "14379938",
+  "MD5SUM": "fd4c25caa286ebce042699ff17d61a44",
+  "SHA256SUM": "fd4b7d5be89ab38b533d7a9f38a46ffd454bcf6798a3953f543fc6f6df9858bf",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl7RCCIACgkQeGxj8zDXy5I6zQ//SaoGxVEqqEiRrUE4Qa8F/36p4VLrWiJTcmmOWodvu+heKHvctnMPlnfJA+bUiZ4+xmYO+TfpQ9Wmy9ezgEPmANtuozfKYKCVDWiwLvlM4dqyfYtdRnlrpBBGKbquC3y+qv++YfBTjSXoyTgUnqMx4A9Ys2EY54GOdfetF6wX6tlRqeJ4D7iuyYNMhA2J2t35wdWXyH+k+OACX4m1MtXBVRYznxhcW9eCshmwEG5Mnu4UDT0PQfFUK0otvzIyKZmPXAKOrtCQVGXIiLer+zRknfsHayC65wJhhAgnIzM+KU4DdUlUQLrK5N/qqLKdO6P+jQYhD6SmtuToODkkzGSCvtl0u6HM8I5CLKSbFMZqFUwaFyeLvq9+1Y0SD1lL8cTUCS3fIGAO+lPqVdIq4U9oBmqD4ecYXz/9Ckqkjmyg8JkRJuhF3qm9IFwhAU3NBFyS5Qv0gk3JLCycONFmEdf+7E07EEvdeBi0J3aivhtk9otan/AJk0oEEnavjQcVILG7/KL1hAekQNHk93+qr+kloS2tcTCptcJa9mFPFdut+laCVDVtCW7/UWI3ljOkux+mCzET/OU2PiBMIwsDEPMYm28Oxa1wXVecTsYyPRN9ZiPgntpNF1FQQNtfkHbrCQeUm5TfIvYAa8RLe/5Y/kmsXzmrO2pzM6B06qvbfgZsAnU=",
+  "URL": "https://www.freedesktop.org/wiki/Software/udisks",
+  "LICENSE": "GPL2",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1590757044",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "polkit",
+    "libatasmart",
+    "libgudev",
+    "libblockdev"
+  ]
+}

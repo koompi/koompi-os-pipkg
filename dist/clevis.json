@@ -1,0 +1,24 @@
+{
+  "FILENAME": "clevis-13-1-x86_64.pkg.tar.zst",
+  "NAME": "clevis",
+  "BASE": "clevis",
+  "VERSION": "13-1",
+  "DESC": "Automated Encryption Framework",
+  "CSIZE": "46702",
+  "ISIZE": "138174",
+  "MD5SUM": "d962d5149bc157c96bdc14150b6cd433",
+  "SHA256SUM": "4517a9814c4f4b06a57e99c24c2b249ef0e1b528b62c348ae104faeaa19402b7",
+  "PGPSIG": "iQIzBAABCgAdFiEE0ZGnjxiB84R1PJZ+aGsGOsS8DskFAl64DYgACgkQaGsGOsS8DslBmw//dSU6i/BRXGfAVuxaAQjYh/QcCOjZGX0qn+bM6D0cGoQDSpDP4CzxGqTri5RGVE8mKMCUTe/8KscUmq2gSec9bZy5GcPu5ZPfNFYMkR0zFT6zMWZvhL6P9crObY+O1Nw8yO/MhsCGJCUdOZRuy/lnsPWBBx6hpmLbHhDBYWKkrRiH5Nv1G+OfBS438bxbYrZ8aBxBdROiZ98dfFXprINwHfES1g0RSo1BjDQ5anJQx6Ank+uEk54TIzlkAEUkWf5GmxcdypIvZBkl3vetMpiSAZZjWKX16Jt1VE9ZaaYMFgWu6Tb2WlR2OxuHvYyh15aMuTRXsTb+Vvz2fVk2fs857PKDyzO1KZgO9MBlJDvmLG5JRVy89A9QXC5WWUOCd0OpcxrT1oL6f6LW/1eEHjiATjDtpOyguPyM3W/QVGZpsD6+wD9W0tN2mjAq84BaLYRtvd9XuNjYdoEApU02Yix0XSKm5JKQgRZXfkQrMmPe2nlP3P/bUfuivX/0GQKy6zVVBUtHsP5n9aKFxwmtsz1j2gXtdgf4LFL7QxAA8dncELqkzOf2km3nDv/3bCqQSql0DVyHCn/hhSmQMcJ5Q8XKo1PO72a+7l/+c9Iccd/naQ6CTmXfjKGBFQP5Mo2MCP5ySg9ig/VCHidtt0p8PsGeg8pviSJsYpCHg7UAVYihfLg=",
+  "URL": "https://github.com/latchset/clevis",
+  "LICENSE": "GPL3",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1589120350",
+  "PACKAGER": "Jonas Witschel <diabonas@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "bash",
+    "jose"
+  ]
+}

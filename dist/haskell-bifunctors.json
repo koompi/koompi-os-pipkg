@@ -1,0 +1,27 @@
+{
+  "FILENAME": "haskell-bifunctors-5.5.7-18-x86_64.pkg.tar.zst",
+  "NAME": "haskell-bifunctors",
+  "BASE": "haskell-bifunctors",
+  "VERSION": "5.5.7-18",
+  "DESC": "Bifunctors",
+  "CSIZE": "332994",
+  "ISIZE": "2428849",
+  "MD5SUM": "7fe2948a08ba9e53fa7c7249cab85cc7",
+  "SHA256SUM": "e9c451f0db0a733b1901968cf0d85e0c3add647092f948e9636b90083dbee46a",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl75BKoACgkQeGxj8zDXy5JSJQ/9FmiFLdLcixQNDLyJw5/dOHqEuS7+4+TzWNiSFTzwUXuGM4GiuXjlpXfBzSJ9ZXYBL9+nc8bS395LSharIpfa775lRbhOYfu2QphcCuhTSx4P2L8/loTGhX8Fu6dfw41pQvjLa8ULsRZtIv3s/pRbaysKC1tOq5e03z86bAVw5rrie45LNbpyJHP8kmYAsF7G1LhRnPagrRuz+Ovva5x9ux5LJ9XsaBExFP2ignt5ercrotXzh/KhEHA/mlTOffRABU7H0R+GXZeex0jnAVZ8sUN42VSdfMWrxvWh6+/Ky2mIUT1SHzoYxyUHJKHtUwuOUjPBJDgB8RLz9IIMhX6wltQP8ZtsZXbzzz6z63BsnLoB1zAUu+4o4aZTXT0pTd8VHYTycnBBryv1Rjmc5NOVh6Hp0rauU2I7Aj8l5f0IMTxFA916qxeKgBEheddsJ0AKrcBE2AAJkj6Bu6c77oFvGCzZjLCHa30EcKwFTQUPvCXlyodVZVVpOEMvGpM2h41/mzd/h+rHslOuHAvXBNwbTpalE1/sVYMpUyscFwSGJUYRnZPgRoR3IaE4H4XNZcXmY1hpiWrXqWqd6W31CgMVZvI1cSyvWQCjY+0YqUO0EWWXzaMQecUY9x4tU1J4hIEI6C1I4PhOzFYkw1+lvSS3scA/qKAm3WHiR6ufh48zSG4=",
+  "URL": "https://github.com/ekmett/bifunctors/",
+  "LICENSE": "BSD",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1593377928",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "ghc-libs",
+    "haskell-base-orphans",
+    "haskell-comonad",
+    "haskell-tagged",
+    "haskell-th-abstraction"
+  ]
+}

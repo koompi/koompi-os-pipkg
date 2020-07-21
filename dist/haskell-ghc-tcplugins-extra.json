@@ -1,0 +1,24 @@
+{
+  "FILENAME": "haskell-ghc-tcplugins-extra-0.4-2-x86_64.pkg.tar.zst",
+  "NAME": "haskell-ghc-tcplugins-extra",
+  "BASE": "haskell-ghc-tcplugins-extra",
+  "VERSION": "0.4-2",
+  "DESC": "Utilities for writing GHC type-checker plugins",
+  "CSIZE": "24728",
+  "ISIZE": "81312",
+  "MD5SUM": "159d6a8497264e9e9b89ae291f213b0a",
+  "SHA256SUM": "58213b8280c5445f90bef6089fb78fbd4c270983dab5a9b87c1768f217f1e1bd",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl6hdyAACgkQeGxj8zDXy5IZ/hAArB135lB3xyRXJim2hjQubW3dFfs/YQX1owl23eacWy5pC9g6l7Jeqfda2Q5seq/PhOPajhhqWDVma6oJktXNnp5qs7mKz16TsTiT8PswscKqYKAj24b8Nofkjq5I/zjuG+m2wvZtoQCKjQLxdIrM9kpGhUabW97ezHDVEYhOIhulhzI56XBl2+UZ99SwGNNtDyUopYHn8OBPk8+ex5N8o/PfPw1OgmWS494EJrj2iC8kxYNXBIBoaQPZ1LSVvBh1J4XZLP7IVMyHxAfHMfYgV29XBC7jZUm3L7NPprdn3osHMpk884bjjXEsr3XDn32KdK+43h4mhKBKMDTfPtEQxS8LDSlYR1IE+NcDO7ce0pN58R83uA0GvPiSu+i54xk3Qx1GqfQ6IAO/1MV2SkT0LpO7gIlukVk2o9hwL9RlxRrdw6D0MB7Oa/9KXpKZgIDNmFI9EW5wuJaYNnDaeQQDWf1AvSr0aLxKDVIRe3D6wZ0/MXt/+qRcBqA21DH5TDMIRU02cCXxusOpg4SSfiQHRRLdtcU+XOTvtqlJA99Vr6yYDVO+nyEy6OFMsQGKbMB2QVd5sYKhcfKATpX6sv5IhvutjFcKnqCi5Udfjz+xp7rJPplMCCxPQBmjQipbshJ/12TuxbfSJDNCjrC87p+SeBfiVxUZXKwtWYjIFZlg+0g=",
+  "URL": "https://github.com/clash-lang/ghc-tcplugins-extra",
+  "LICENSE": "custom:BSD2",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1587640013",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "ghc-libs",
+    "haskell-ghc"
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "FILENAME": "spring-104.0-8-x86_64.pkg.tar.zst",
+  "NAME": "spring",
+  "BASE": "spring",
+  "VERSION": "104.0-8",
+  "DESC": "A free 3D real-time-strategy (RTS) game engine",
+  "CSIZE": "11388179",
+  "ISIZE": "38520770",
+  "MD5SUM": "f2a9d7319558e946bef9b52c6aa9fb2b",
+  "SHA256SUM": "65063d5a0bdf6cd4cc9f066797bfdb77a10ed9bc29726ba2f0e50650ef655819",
+  "PGPSIG": "iQEzBAABCAAdFiEEhs/8qRjPOvRxR1iAUeixSKmZnDQFAl6ka6YACgkQUeixSKmZnDT3mwf+J8MggUtPULc6RJnovhrCErlZQknD+p3MvK4faSF5fl4VdH7SUmUB6MkTGjuFcFIzKKNEDIWTh5lacwuDRSKrjXvZHmS2tCV5ACYUhx50oJIQuMhVY9XzKX3RXEMbJZ91L2JwYtpfpd9bxM1LVLH/lpkWW4SL2mSlfwDSFQQWTrOqyCMpK1sTKB1p7faU1qdTJQLezeGmbFn86/ibaxy4I5JzniA6Hp/VT3zRbpTaEQwR23EMdI2cxOd1Z8JQiNOU19I2aMRpq4MrKocsJKW0AKBieK4T+1g64kQKxtejadAPuxtvfAqFxt0fp095XRQUgKmu4VqhTj6lmRNST4R6uA==",
+  "URL": "http://springrts.com/",
+  "LICENSE": "GPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1587833570",
+  "PACKAGER": "Evangelos Foutras <evangelos@foutrelis.com>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "openal",
+    "glew",
+    "boost-libs",
+    "freetype2",
+    "devil",
+    "libvorbis",
+    "sdl2",
+    "libunwind",
+    "libxcursor",
+    "curl",
+    "shared-mime-info",
+    "desktop-file-utils",
+    "libx11"
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "FILENAME": "npm-6.14.6-1-any.pkg.tar.zst",
+  "NAME": "npm",
+  "BASE": "npm",
+  "VERSION": "6.14.6-1",
+  "DESC": "A package manager for javascript",
+  "CSIZE": "3497554",
+  "ISIZE": "21480962",
+  "MD5SUM": "e9eae96528b107cdc74a96e01b2b58a1",
+  "SHA256SUM": "559a225d832462caddfb95dd79b4869582be09d0b6063e42be3a715711953c1c",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl8E6IQACgkQeGxj8zDXy5LcQQ/5AXSSzoAMA7kyuO2Yco2itaXoHlVMHdJkE5PQU0oP+ryFhQPhLdLJ3/dYGD8jELK5UIE29X9seql7EXFb7qbtYD1dBAFwxcZTp8juevfdI0Lv58p2Prtr38J5pJOqqJjrELl80gXtzLmCqgwes4KVQ4RFmXEs7BnZj5699EIeCfAkd7X4WCY11JZbAfLZKP3WWkE+25YbJsLkv//PDtgbscod+5RCCgArAAVMURbqwtifqPQY9LvKgwduom/8k23nVxAoJYbn+rusrE4A+R5Ks0/2kt3qRr83809h6avIMZuJX0ssKQNJx11Wri1mkBeaRZ0Mvm3l+RJ172PerOpImQSe2eEP6ZMSj0sLjMd8HMejRFboLwIcjbp3LIL/xosWVDfynMitw+XqNqpmtpzXlaGYTqxIBbv205BT6blAajSPFhP4cUmFiuWsYRlMHyh/Jsbe/5q8yTE1gKuYss71Hpquk6lMZA98fS9697DdXRjesFJYyKEcLOPIRpOI8ff6zSYA0gxjgLMSUk4zj4X4g5OJoiZ4Obpx4L01fAyw0PPcUR4TOVOv0NQASGJo7Nh0CIfosPEqgTrnc8tMs7UOeJNqtL3T1QEWR2LSUFeuayf9XZcHsbguZKgGe2/E4RQlxTdpyezaNP3STtOETE73oYdvKdm/14+L/DwoONO+O3s=",
+  "URL": "https://www.npmjs.com/",
+  "LICENSE": "custom:Artistic",
+  "ARCH": "any",
+  "BUILDDATE": "1594156906",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "nodejs",
+    "node-gyp",
+    "semver"
+  ]
+}

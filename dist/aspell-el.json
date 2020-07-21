@@ -1,0 +1,23 @@
+{
+  "FILENAME": "aspell-el-0.08-4-any.pkg.tar.zst",
+  "NAME": "aspell-el",
+  "BASE": "aspell-el",
+  "VERSION": "0.08-4",
+  "DESC": "Greek dictionary for aspell",
+  "CSIZE": "4688905",
+  "ISIZE": "19016555",
+  "MD5SUM": "f48d34f320d1db3b4d2c2ee604bbc573",
+  "SHA256SUM": "02343f4c4a78207912331986fc99c8b5bf6777fc96cc43909d1efedac043d9e5",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl8El9wACgkQeGxj8zDXy5Licw//TSupxcIXOv88WqC8/GIT3YKuEjiwFNV+a83JpwPD6mnvR+UyIgOxUwpbTqm/uaCMCcIK3Ze07T08itQJDHYnRyO69r3FJEAs+mFoO6sSGO0FaVEsoq4cjo/7iR08kPxuSty+nR8R/GTnIzVIq0qN4Z2FYHrG0x/p4MMWDbA4o9LGlGvtTjkgfR+FpsO+qS/ioYvOa4Nptx9xwcs7EzDC0KXmoVrGOkH4ot0lcD3ByCQWzc9GKXdyQvx/yXefNEMhEyRtngirCnbMsb32/lgrJgBDZ0m5tvXYJpB/79/HrBzRiYWNI2oJ+8HujXmS6rsutzzdVRMDQRQDTd/odMHS79vtjOR2HwvY3VPkaQzY6iglV0jK3VQDah8993NXNN0EZVOW2zjhNUw3rDlZxy2NG4WCdy1YmefiES+U9kwOjWxy4bbT1BcTIKlFGOBfncH7IR3mEpjjUFUyZhWGGchXdNfsBoYXfn/xlQtnuVU42DbLth9PQvcLHyNw/0TSV8dgTql5juMx+THT8pb4E5v93CtFH0EPGFBBGnYWxNu/1QRRkjO9+5RhmUZ/dVu7LoSClhWCTlSKujPIfeBmTgy0tbiy/fv0doWZkWb9us2zI84CvNa3Xb/079ZmvIPXj/37BnJUYX7/XO01FJ47VN3DGIkasCuGsvMtuhY9ClNMmAU=",
+  "URL": "https://www.elspell.gr/",
+  "LICENSE": "GPL",
+  "ARCH": "any",
+  "BUILDDATE": "1594136504",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "aspell"
+  ]
+}

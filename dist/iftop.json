@@ -1,0 +1,24 @@
+{
+  "FILENAME": "iftop-1.0pre4-4-x86_64.pkg.tar.zst",
+  "NAME": "iftop",
+  "BASE": "iftop",
+  "VERSION": "1.0pre4-4",
+  "DESC": "Display bandwidth usage on an interface",
+  "CSIZE": "34595",
+  "ISIZE": "72899",
+  "MD5SUM": "de7395ae2454e91e4b9045cbbb5afaf8",
+  "SHA256SUM": "b497e515e7fc19645d54f37f2605100f026f9b082b5b6a07fc1e0f293e2ddb4e",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl8E6BEACgkQeGxj8zDXy5JAxA/9E8WarMM7vo4wCHxmILrO7N3g+8r8RM7yGyLLrmJXVHdgPNm2vCzbwz/keMPGjHcsR01TSLPGe0FZyqeoNeO9+kfd42uyhz4hw3rXQu9fKm8aL45IyHMvtEEWZ/gAUm7imwVpK51LfYLbyUbTnwdVNmZC6I3Rq8glHWVFpFsCfIwiXIEeuyiPh83ZsGfqxH+jSmjMEKNB4CXi5BTexawqAB/NNfdNw0Kx2qHNigDmhZgDT3KsWQGkkDBZVVPyG5xH4W9dzFFtCT+u9/dAhbnnOlUrjFtWGlieJza3jgtF9HYCJ55+OuCWFvTgDHn2YmfBjlAylYWaNYhVjfkkEV9qkdp0hQ2O/2izWg/7dyAdHXV2U3UrXtKywBfO8ELsQ7UY/E1lcArYHRKXvAj/AtG6L0n9diC9ftz+th3Td4GpadGh+ncAzzq65iX6qAnoFQDGB5ZwWFlIdwH3z1qH8OY3brvrYo5b5JGnTiPKA9ys+rolGK8QpiLlMv+Q8qs6OUIrXsjPiKqEmG5B5jKhCs0Qz66pZIUu/kTkZzromrtyTuy7a0l/m29oWodhGKTdrnyumEXq7r4AbiDjUOoi+d3kyYCEmMq9a0XhwEUj4UBi56EVA6hbFKOVA+Fp1op5dfVcyTOhMyPUhwGSb0XomVfOlxPqB7g3MYBIujwSG8yd0OQ=",
+  "URL": "http://www.ex-parrot.com/~pdw/iftop/",
+  "LICENSE": "GPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1594157013",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "libpcap",
+    "ncurses"
+  ]
+}

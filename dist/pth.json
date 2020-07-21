@@ -1,0 +1,24 @@
+{
+  "FILENAME": "pth-2.0.7-7-x86_64.pkg.tar.xz",
+  "NAME": "pth",
+  "BASE": "pth",
+  "VERSION": "2.0.7-7",
+  "DESC": "The GNU Portable Threads.",
+  "CSIZE": "79700",
+  "ISIZE": "159867",
+  "MD5SUM": "d678d8950d748e4cd40336030a17b4c5",
+  "SHA256SUM": "279667094b9df8904acc74ccbc56a38a66db24d1c55cfbc5d6c872d4e3063c39",
+  "PGPSIG": "iQEzBAABCAAdFiEEhs/8qRjPOvRxR1iAUeixSKmZnDQFAl3MRsIACgkQUeixSKmZnDTdUwgAnomdCT1mvtwbxVOr6mdV0Dx1ETkkYCfGDJoDWVGQfhjzkmaOCa2GRVY/udeofiFZXw+n1lODAYFbsm/JRKbkI50bVn2Q1lCfXNBJw2pID2TRhXLkRjUAeFgS7fuTkFHRe+g9RPajBYDzA8+BS7aQX9I5ML3rvlQdiZOhvJX5KFriBLEy6XMTjVXyp1UlL6p/5nwXwVX1NryH1+k2fUpZcWdHmfsX1l1rZ1VzzLBU/0rnbEUntWfDb6k1MYYeim7cH1VI4giApNV+QCcg10gwPTcaD8an9heV2n6FsQpQ6/PU9L4Vz/ZAFUcksayBu+9sI7PwfA40hpR584IHxwp2BQ==",
+  "URL": "https://www.gnu.org/software/pth/",
+  "LICENSE": "LGPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1573668512",
+  "PACKAGER": "Evangelos Foutras <evangelos@foutrelis.com>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "glibc",
+    "awk"
+  ]
+}

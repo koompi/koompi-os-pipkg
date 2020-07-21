@@ -1,0 +1,24 @@
+{
+  "FILENAME": "krunner-5.72.0-1-x86_64.pkg.tar.zst",
+  "NAME": "krunner",
+  "BASE": "krunner",
+  "VERSION": "5.72.0-1",
+  "DESC": "Framework for providing different actions given a string query",
+  "CSIZE": "345369",
+  "ISIZE": "722151",
+  "MD5SUM": "4e93d5dd252ab45f527ef2d4d1d61d30",
+  "SHA256SUM": "fe312e97a200b27c4223d65bf5f2b304b791b563125d6859012d71d295040f8d",
+  "PGPSIG": "iQEzBAABCAAdFiEEFRnVq6Zb9vwrc8dWek52CV2KUuQFAl8JYfYACgkQek52CV2KUuSvYwgAkFnnFNkGLoxaBUsDGT7hsQ/x/ie2wztpo4LrA8kMRb0eYZK/5liEd5ngFQKkbdh2hy95NcVEoeQxJGDU8GiU97T4ActRRy1+Qf8uwCM/mnqXntKAroaLw65NheXnjya/oUSN3a1/4z7e7UZegfWyXCPSCldrZQOtlNerkIXxVvI2++LA7UxvRvLzDYOx3B/Aab35R4i42klio6gaBsoh9XoqnK6c5ZkdSNSGHNVyLprI7/nfH5KLetLfVobjV/LqE2Ezo5l95vjDQ7ESfnXJPEhNkzgTgVrlxt5x4ixyc5JCgC4ybci8EjjLo9E8rIsPPXhwiGMWqbSaHjRDAN4NXA==",
+  "URL": "https://community.kde.org/Frameworks",
+  "LICENSE": "LGPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1594203629",
+  "PACKAGER": "Antonio Rojas <arojas@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "plasma-framework",
+    "threadweaver"
+  ]
+}

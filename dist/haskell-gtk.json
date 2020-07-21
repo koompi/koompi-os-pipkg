@@ -1,0 +1,25 @@
+{
+  "FILENAME": "haskell-gtk-0.15.5-3-x86_64.pkg.tar.zst",
+  "NAME": "haskell-gtk",
+  "BASE": "haskell-gtk",
+  "VERSION": "0.15.5-3",
+  "DESC": "Binding to the gtk library for Gtk2Hs.",
+  "CSIZE": "3120216",
+  "ISIZE": "26306378",
+  "MD5SUM": "58f6851fba079a81f419b2aa564bb67c",
+  "SHA256SUM": "b924b73d73202fac98c863a097332d27b498a284132840b84452f9b5dd078131",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl75EAQACgkQeGxj8zDXy5InIQ//Zje0tPK+ZMa7SAVzlr5xAaw1voJlskt1QvW+Z4iwtvI7GcFSMCqAnjMdDTMJBDuX2s76FIu/JY65HMfqhP0VwAEgYFZj7R+/Br6lGYEPdwvxY2Z1ovehtowLqJnp1PiThaHeo6mTX/6B9UPpTUxBxYy44GIE44VCo6gZ2j2zuxzL+S2327aQovwY8/q7zmvjKHEI5YxpROfkEmlbF5YiBsEvoudCJW2QwwWTuQ1MdKAh2vUoggW2FguZohMddku2KbSGjB1HiJLDp0sNSv/0JZR/WV7X7FXaYWNOUcMQh0KYCf7GkQ4m+jshapNjP6F2Z7FwGsLQulelS9e216D/fY1tJ62CDfNSDgYaD3IAqpmX085rgF+OHfSxphmQYV5RTqYwVCTYDkfRL67Gv3tQNq/ZiO9wsf11zLCrv2tcgpapfJxgeJQjbLKSa9vADIh4DbYpxn14bFZPKC8mVKBLtxieUrSVN25BaGHzkxvSAtK2F1AVOEFXva4uWlkJnSwzui2pcPBTrEJmfBlRFhQ3UQpUj2c6nv3bmLqBCsHKN7xEwqra+fcwF2eZRyFwLxPmtFp5Wv/i5Z19AyP0pCXMGfPDW6xiMDnHpzZ4hJ0EiBsci7fc4WXkn2Lit+LR9suEA4DLQ3/ibXWQlRHQ1T/rojNK3rRZ8T3NXd6DqKWMrZU=",
+  "URL": "https://hackage.haskell.org/package/gtk3",
+  "LICENSE": "LGPL2.1",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1593380668",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    "gtk2hs-gtk"
+  ],
+  "DEPENDS": [
+    "ghc-libs",
+    "gtk3",
+    "haskell-pango"
+  ]
+}

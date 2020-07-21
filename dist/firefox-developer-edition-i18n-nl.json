@@ -1,0 +1,23 @@
+{
+  "FILENAME": "firefox-developer-edition-i18n-nl-79.0b6-1-any.pkg.tar.zst",
+  "NAME": "firefox-developer-edition-i18n-nl",
+  "BASE": "firefox-developer-edition-i18n",
+  "VERSION": "79.0b6-1",
+  "DESC": "Dutch language pack for Firefox Developer Edition",
+  "CSIZE": "498112",
+  "ISIZE": "560756",
+  "MD5SUM": "4fb6239b5b1f5bbcd6e36a7b31b16d4d",
+  "SHA256SUM": "fef46a41daabdb513611af6068f58648b23f1b10a70680a394bb4b884c4f7fbc",
+  "PGPSIG": "iQEzBAABCAAdFiEEYB8g8dG7v0p4z1tt9rFhCz7NvJ8FAl8IbNAACgkQ9rFhCz7NvJ8tdggAmLrrwn5xb1HbXiJsnhfFUIgGXQ7HQQRA8FWqgEQZpbhtdrtLl4Tlp8RzR32VfBVoNBTbBFXN8MI+zuoh/3SD3T+yRrE18evhNiVSk/TZheHkwkv+918H5La6hQzjSbaJzsrqmTwOs80sxrTUjMQVxrJMH34doY3GQdG26s36Y5eObh2dfJwW6gqmhlOyTdSuHHkQX7S2Lg8igSP9eP84iiNAQzYErCkq+/2JUZJy2tYN3M1MJZYZgCEVzhC8GH54AUG3t7PBhCFskGRsJdr0DA2Mhr8JHqJ0aobqujv+5toOUyCyfEB8+mHfiR7CV+wNX6yjQkwVZJg0Udr2bPWb9g==",
+  "URL": "https://www.mozilla.com/",
+  "LICENSE": "MPL",
+  "ARCH": "any",
+  "BUILDDATE": "1594387381",
+  "PACKAGER": "Andrew Crerar <andrew@crerar.io>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "firefox-developer-edition>=79.0b6"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "FILENAME": "haskell-base-unicode-symbols-0.2.4.2-6-x86_64.pkg.tar.zst",
+  "NAME": "haskell-base-unicode-symbols",
+  "BASE": "haskell-base-unicode-symbols",
+  "VERSION": "0.2.4.2-6",
+  "DESC": "Unicode alternatives for common functions and operators",
+  "CSIZE": "24240",
+  "ISIZE": "79805",
+  "MD5SUM": "d92bdd57c87732e32459080916ced541",
+  "SHA256SUM": "ad0ffc3c49330faf4fe238ff2c6c4bb541aeef8e983edfa0f7b646071bb22245",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl6hbL0ACgkQeGxj8zDXy5JNgQ//Uy3ksThNzNP+4x9mz9MR30vPZ/gilV5oSVuwWJvvMliEVZo2H+h1EOcWSq0xrsfbrGdU8SjO7xX2fLLWB7aItnq5EonwGxIbmtzIfzkE4gF7qzgy2Cg8WqojkuzPLpBni8DuGuH9BPb7QxFP3zMyx8nLsF8bjZ8mQ4QSg0ByYDryS6bWU5Xt1QKyY4bP9FXwcf9fhpOJ2x9qkJBsA8UJ4tBtoeURCQ1wX1iGwXsmDK4gRNVec3fJnAsNF+nRcBYufwq2U5qRfR0D42h7QX0ik18WwM/KqQ1xlIAO/PM9fu5XTFCxfihsOxmU1mkU3/BYCvlEm0xHDZAU3jMaUHSRlwqkqmTlcl45Rz9iqSd2KdMoHO2+ndVxK4yfFM0W0XGHSVbt+JwhxTnRfjwaGrdr1/c0vt/6xnpM69zDeQ2s342aBkG9NgZLh13mcvVSDVV99HUkIFq0WY1KhD93s6UvU8rcsJQRDT3ZObLWH5l1BzFoa8qPgOTbEOLOVx+T5WkGeo44PBpKzQkP63yfnB/E/Cqj/GF5VuzMmWCmgGQnyBniP8YG9CyK9GAGFtYnQMGtsCnWl/tIa3CR1Gsq1VF/Dupbdy3qVjfPkjAXm1YMW3QE1BNVAXQWCnbt5wKHK3AwcCEuWY5YXBB96r+zIhPQqlO3f8xCj5IfGRhiS+6k414=",
+  "URL": "https://haskell.org/haskellwiki/Unicode-symbols",
+  "LICENSE": "BSD",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1587637355",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "ghc-libs"
+  ]
+}

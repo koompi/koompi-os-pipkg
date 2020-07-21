@@ -1,0 +1,24 @@
+{
+  "FILENAME": "haskell-double-conversion-2.0.2.0-31-x86_64.pkg.tar.zst",
+  "NAME": "haskell-double-conversion",
+  "BASE": "haskell-double-conversion",
+  "VERSION": "2.0.2.0-31",
+  "DESC": "Fast conversion between double precision floating point and text",
+  "CSIZE": "21963",
+  "ISIZE": "80629",
+  "MD5SUM": "96bafed0f27f7a2a21dc3075c679fcb2",
+  "SHA256SUM": "35e67918f7b9b55e651add1d05df552de0f3e242b5f18a045baa2c8795ecac86",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl75Bc4ACgkQeGxj8zDXy5JsaQ/8DxDJRVj9ARXBSSkq2+TOWq6irCxX9Kz6goR8UhnlchdF8PMm+Bn3vyQ2TTuymwQJcs8ZzNz+vj+J+TUFNq9V7eG2Pz9KM1cMJSdZ9OquaLI/4eNZ8NBEaj/P4hiddVsp6MHoxZ2QentwCSLpeixUf2Ime60C0+dZrrsYKavcVai8q2yJ9WVBmxlG3pEcoCydA0Lqm1zOvrWBjMLk2lCQUzCIQ6wPSVDAUi86oGKJpxs+Sr1wTVmerymEl1pNWoRyZTF3dWWbVDJ/LdA94hNyx9OSe3b16II87WTXZk0ze9c2H2dn/TYrqYT6YTCVekeuMdhTZ/jjnqP/TeKnzHWqrGerhL2L4BpJF4qvMy3VsLyfqCBIn1XlA6VLnegOf+plPDzzLT+EfHlylly/vR4qMqUH/nXlvGJA2gHNkZmvEDgS6CEwya39KDin8lI6lQFOyCxmq59LUwwTofCig0v7thMNyQlIonz249yywPbJr64owlv1u/+N8LVkdakDl6VALRyVRcnIbrVxMcasEC45XmdUaT04Cq6nVkuPw8Ha79u9Qh9O3t+/yDxe7YdbNYwkLkVsHpTAKrRHMCq+wumE73pW8CzvPqMmSBE9wPNDx3yhygWEUdtb9IdjO/7J/OkDWlnKlSUpgTR4jSNk0biJ4YdRSdA2Nuubr8xZg46vPds=",
+  "URL": "https://github.com/bos/double-conversion",
+  "LICENSE": "MIT",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1593378229",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "ghc-libs",
+    "double-conversion"
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "FILENAME": "moosefs-3.0.112-1-x86_64.pkg.tar.zst",
+  "NAME": "moosefs",
+  "BASE": "moosefs",
+  "VERSION": "3.0.112-1",
+  "DESC": "High performing and fault tolerant distributed file system",
+  "CSIZE": "1008149",
+  "ISIZE": "3716368",
+  "MD5SUM": "a726d4626bd401e4692eb9a44ead49ab",
+  "SHA256SUM": "58f14323be8d4993b8c610d736c2bb49a1d6e3e4d7590d3582fc7cf484f52a1d",
+  "PGPSIG": "iQEzBAABCAAdFiEElihV8HLHoBhGQFhk/PPIy1z5yNQFAl6z0BkACgkQ/PPIy1z5yNS2owgAucpvtT5VMMknQxw3NAbzNSU1JytkXnTGpwr/7dzlOjc1UGXKcZeC5gG1ly0zczg1huBwDpBA6stk7OyusyWQkMFTVbNCeekeBPrCnO+x60u9Hq7RAfVbW1WNJOJ9BnVl8z5ukPHhkctDxY2I22AVVaRlKO13Jw6L6+cDvLq8O9zZq+pO3P8rI9cCYw7pHRi7y228sU0meJ0+FLpLF2dZS9KMngHqpY/lIIpfjqbQdyuU6DgimS1+apPmJjdD7Z6CW6oDKbIA3UDMUbvpZS8iTTUfoYiY4+cbmhZfmTRtb8r0ylx6GonuCQQS4P5A10oaGMznFBJlVlLvpf6Yn2DXLA==",
+  "URL": "https://moosefs.com/",
+  "LICENSE": "GPL2",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1588841982",
+  "PACKAGER": "Alexander Rødseth <rodseth@gmail.com>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "fuse2",
+    "libpcap",
+    "python",
+    "xfsprogs"
+  ]
+}

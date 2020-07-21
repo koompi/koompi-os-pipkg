@@ -1,0 +1,25 @@
+{
+  "FILENAME": "zaproxy-2.9.0-1-any.pkg.tar.zst",
+  "NAME": "zaproxy",
+  "BASE": "zaproxy",
+  "VERSION": "2.9.0-1",
+  "DESC": "Integrated penetration testing tool for finding vulnerabilities in web applications",
+  "CSIZE": "90369926",
+  "ISIZE": "119896734",
+  "MD5SUM": "1cd45f3536bff54041c2c870a68704bb",
+  "SHA256SUM": "4eb02242b337aa748336887ed90c3c37c70f0690b4eb47efa7fde62d5c9f6d03",
+  "PGPSIG": "iQIzBAABCgAdFiEE4kC1fixGMLp2ji8m/BtUfI2BcsgFAl4jCBkACgkQ/BtUfI2BcsilbxAAj3BqF0rXKMkSrnaWejWxyE6cRVnpp8p9FhHFBL5LRJUEWrcvQuRqt0jKXmfVAeUVOj4q6uV+vRK+Fy/dYp30F1grRrHtwJi+7eI5YmX/l+z5ck2ML4t8TPb3ZPio01d3omahX0WKi3pVxC8dR7taawGg7xRwcikteQf5L3uvjtn2qUCZyMygegGf0UP5QjT2n8I9C4ev1yQ0Cu/taVNIrr7b5hnCUo1QeQeAPW030rgQSuI0LTmrOv44nqN6uqW9A2vWLI7un+7LHrJ4RriEV5URwAUx9nWJb8MDnL5ETianxXFWuR0AjAbuA3ern2uw+ahu3hdG2puxa+AfZgQgKhv8enzNKeyIln20rf3Avm7pBfar4rnRMi84bZJpX9BlWgmjf8OwfJJ/cOZ20/dqhaWLi1RwjLpdnPAccSZoe0vQFwVWZr2U31pBoABAST7VsGZIJKPn5Yf3oGe6IP5Rq3j20cgqMx5Ve/6HEwEgfMpgxIKmt+yZtmpjbAkkvhOr+gZdmxRyFRjBjlmB6gKY4eiZUqgaFIcw0vzFzRgA5GLiRBiVCsdke1zFTjx/abMZSZAW17Wco7FQk4kp8gE7+97VMJo/3bJsCocw7+5YusDCLrc4Bq2BSiT0On0hw6k4g6Pcm/vA28Q+0VuK5TrLBaw09sUgGj3lv5+cgKNlea0=",
+  "URL": "https://www.owasp.org/index.php/ZAP",
+  "LICENSE": "Apache",
+  "ARCH": "any",
+  "BUILDDATE": "1579354011",
+  "PACKAGER": "Levente Polyak <anthraxx@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "bash",
+    "java-runtime",
+    "ttf-font"
+  ]
+}

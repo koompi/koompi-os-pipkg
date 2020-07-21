@@ -1,0 +1,24 @@
+{
+  "FILENAME": "haskell-vector-binary-instances-0.2.5.1-48-x86_64.pkg.tar.zst",
+  "NAME": "haskell-vector-binary-instances",
+  "BASE": "haskell-vector-binary-instances",
+  "VERSION": "0.2.5.1-48",
+  "DESC": "Instances of Data.Binary for vector",
+  "CSIZE": "23212",
+  "ISIZE": "97028",
+  "MD5SUM": "8940b2b86aafa69e0aa54af20131ab33",
+  "SHA256SUM": "0740ffa41e13f7e9f7236ab8116f2e9ad63e1bbc2799d8cd7cfe434b4cf356da",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl75o9sACgkQeGxj8zDXy5IQ2xAAnrCecs7uTrqlR/B77jjzX8Kv+5WOxMAjBcIEWI99R25VSn/l+5vuWM+TaaJOGdArO5p59XiZyf2SHRlOcAzqd5poKWft+uulc1pkGbLtG/eYyjcQcdrA1w6lYj5C4WgLqMByXd1Ovkc2TyoNxlI771GMGyVBiGj5DBez8BG7JEE1tmvg0qfeUYmW2ZRGgUqiyIiJuwR6SS4Vts2hdRcldbTwPoEyAwUviQaM6OSvM3BQ4zQOx4cCxrFGT2Fqd2VzveT7TYD8jvwbHndILhOTwLioARLyxmZ2Dq3C/ei2eJcf7elqAG3tAcqOhhaMiVEy3hNifm6lFGRwBDKk0ik/P2WNtQAXGRkFbYP1Hkoa9CGq//EYp7ETjk2iMjzUZWiQRplBXVwfleyTB8oozisx6iiQp61pEKLwnN/jdWWNk5DZ7Y3IhzKtsgRH3M23MyH+gW08nEBXv+57NOatKgbtlbVWPgc+/3eNonXiBB5CYKXM+LKeEztoV3fQ1H3bKjxu36QErFkyd9+mGKJ7Ry0ho36f6LVGL0+w9Pp4X958Kjk/ISnqOgA2wgOr+wYu1zGWYetk8UtbKI3ee6b4zzfMAC3y25zJo9Iu8/O/s8LUYJre7z6BoDNJ2xMuKc+21gnjzfXitd8DFuMTiif33OWN5juPt9f3n7Rr2duuGIf7VOE=",
+  "URL": "https://github.com/bos/vector-binary-instances",
+  "LICENSE": "BSD",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1593418693",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "ghc-libs",
+    "haskell-vector"
+  ]
+}

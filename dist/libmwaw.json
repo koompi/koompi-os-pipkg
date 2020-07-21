@@ -1,0 +1,23 @@
+{
+  "FILENAME": "libmwaw-0.3.16-1-x86_64.pkg.tar.zst",
+  "NAME": "libmwaw",
+  "BASE": "libmwaw",
+  "VERSION": "0.3.16-1",
+  "DESC": "Import library for some old mac text documents.",
+  "CSIZE": "5231684",
+  "ISIZE": "69599581",
+  "MD5SUM": "09900c50e435477331cf0c4064c35f1f",
+  "SHA256SUM": "3640bc200e9795215be1a80eeecc9b6c86528c4b83790852fc9d2fe38915d1a5",
+  "PGPSIG": "iQEzBAABCAAdFiEErcih/MFeAdRTEEGelGV6sg8qCSsFAl50ZT8ACgkQlGV6sg8qCSuS8Qf/WklarRrIlQ6L4dSqm0czpWw8PIiBZNHWqGk5lwEsvLfsI2Tzt2cI6x+emElqy1dmgDXZsReEpCma/jPj82W3TeIj2ouR7zPVRLGTQTkRqmo4ifUTdcQkul8PC6we7ty+Htivr3EwM/qgGb62GvVtRs78KzllL8m/lT5ba/a8PvSe/aFfhfpx8+VYJYDRo0GdQzqXXUEHAZsyu8nd74GVvffVJ/Yglk5cOF9jna8NSgeLFYBJkRn3RtswIOe2KCDwczuNbX8NfxUIVbrXSbmyKTHl7uD5zq1qjKhQYBS3kFzQUDtPvWwvSS0r3BkAMXIC/OICpaoOt1hHp9SANb8vmg==",
+  "URL": "https://sourceforge.net/projects/libmwaw/",
+  "LICENSE": "LGPL2.1",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1584686189",
+  "PACKAGER": "Andreas Radke <andyrtr@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "librevenge"
+  ]
+}

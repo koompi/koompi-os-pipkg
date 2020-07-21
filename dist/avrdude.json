@@ -1,0 +1,26 @@
+{
+  "FILENAME": "avrdude-1:6.3-7-x86_64.pkg.tar.zst",
+  "NAME": "avrdude",
+  "BASE": "avrdude",
+  "VERSION": "1:6.3-7",
+  "DESC": "Download/upload/manipulate the ROM and EEPROM contents of AVR microcontrollers",
+  "CSIZE": "332262",
+  "ISIZE": "1459133",
+  "MD5SUM": "903329d01646b9005ef2864d3bb3ef04",
+  "SHA256SUM": "f0b70438d3acb66757ce01a28ea56a7dd5e6e5ae29e63a5e3b5c9a4ba0bf07d2",
+  "PGPSIG": "iQEzBAABCAAdFiEEhs/8qRjPOvRxR1iAUeixSKmZnDQFAl8Ez2MACgkQUeixSKmZnDRfEAf/a/NNni6DU9d0DtyKUgAZHkAzzKVlO6TAFizoSwmICkoUjN9RdlGOuJfPlBBnksFjYaz1z+legxHK/8liMf4uzuC4YZrmJu4D9jp2IzDRsavTy9mJqju3H0gSxum6ZUshEeiLFEZtA3VzXb3dhLro4bhjRV07HmOhmM26R/0r2rYUhBXDrHsmxEG8U6A02mEX2h+WtsFFEu7WTFykrHCr9lynMDDUzzOsXxw/eo+tEJLFomEhdpJ0wN0tyznlj4vkJUBl9l8HaiAkGNLYcn72i349oYhprBHHlV85VMj6XY6ZTrPuy+LR4WJV6MOZEn9KmQ8OKrmZdidWaJb2vsiceg==",
+  "URL": "https://www.nongnu.org/avrdude/",
+  "LICENSE": "GPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1594150723",
+  "PACKAGER": "Evangelos Foutras <foutrelis@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "readline",
+    "libftdi",
+    "libusb-compat",
+    "elfutils"
+  ]
+}

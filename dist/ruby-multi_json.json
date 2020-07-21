@@ -1,0 +1,23 @@
+{
+  "FILENAME": "ruby-multi_json-1.14.1-2-any.pkg.tar.xz",
+  "NAME": "ruby-multi_json",
+  "BASE": "ruby-multi_json",
+  "VERSION": "1.14.1-2",
+  "DESC": "A common interface to multiple JSON libraries.",
+  "CSIZE": "35884",
+  "ISIZE": "104725",
+  "MD5SUM": "3d9c9af67d4d25975dcf3ce87f3196a3",
+  "SHA256SUM": "0afdaef5e39a10846c65902d668d9500ceef9047261cd212658dcd37e1d1994d",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl4D/3AACgkQeGxj8zDXy5IAUg//Swn4AOYuHQedKGrSvSiru+zoIqZkoXkTdtahO+gPqV33PfGdzE+T+d1ZSKfHXqkvHV5Jfwop0YAK+a8lE7n0GQ/Ihk5fpnWO83+cNx9ucSkh8l+/Jdu05T0+9RR/xj9iFNYzgeYroy7NOZtla/KOjGJltBuAlNYeGbUmplpkgqPIY9UcR3RIvKU0U7/W14Exgq9rDPnzgm9k+skgSaP2n4QPTEl2qkwod9lm3vKubSyrSZiGixz2VcrG+c6aAwP00rtteodjxOg2LgVbfqwcgZl/wOKe4UOlNA7rl7/Vco4/wldAykFSWiMg/GLB7ng/4/kgRayfQ2iT4llkfwNSuaIVdgn1UGAytVOB/K/CfDW40dnOZSDnQveS/p+y9IXfDVOaKA861+UO4rbl/SpvJ45F38elREaeetPqcVSpJH+3pI4UUioYUoJbfFZZVg5S+SiytQ5ZMw92KDUmsJGkaTlQapiFpLM4YMGvNA+etasXwCunm+Lzk69wb9wJmixPEOJkzv+Heuxp/+KSNTaSpJS31YgbNS7T24RZda+NdUwQu5PLIP3xNWL5f4JqurcGiLAGGatBhUSkzs+D7O85Pbm+kBv5yC0Z04RXcZkCQeZcin5ALf03nAWc0TWoa1T48HPlTLOaxfznociPCPuQzeA3w9FPO/Z+0WFKV0jBbyA=",
+  "URL": "https://github.com/intridea/multi_json",
+  "LICENSE": "MIT",
+  "ARCH": "any",
+  "BUILDDATE": "1577320275",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "ruby"
+  ]
+}

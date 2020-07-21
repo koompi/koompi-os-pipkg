@@ -1,0 +1,23 @@
+{
+  "FILENAME": "lrcalc-1.2-4-x86_64.pkg.tar.zst",
+  "NAME": "lrcalc",
+  "BASE": "lrcalc",
+  "VERSION": "1.2-4",
+  "DESC": "Littlewood-Richardson calculator",
+  "CSIZE": "32406",
+  "ISIZE": "97965",
+  "MD5SUM": "0d560213c500e0d3609c7c1b14b7b950",
+  "SHA256SUM": "3b5e2f24cf4910b7c5e4e8fd9fc9ac87dc57bba304a5bde69c27599885b297fa",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl8EdH4ACgkQeGxj8zDXy5KQ3Q//WdWDlolbusV1CH0Tbsncv68oRsz4xe6zOZhaJzW53h+SD1wPZycRX2kDORC5rJdILrdvoVWlTxixpWNRYY7X5pjL6REbMar0v24Sy5ixC7dj3XApVL+/SkGajYnE59piIneoqgYwm4Zf/Qpk9Qzksgo7ZGh5ePFAvggDPhhlsv8a3FgxgvmGx68soS5LJVUUfiGlvFbQgbW34qFXqftIa8x9F5njW/3TnCVpUHkU/I2Q04Ooz0tmpoIxQFlJEs9Q0oO0ZyIfAfb3+KuxHJMlO0rxUYxGio1weY4Lda9hKktniiNKIvwTdpsTCZbrFwtP4gcPoxzQs7IalHngGqpyV+QVYz5clES9ULJrj4HlHMFrxJQ8/aZJF1gpWbV3ITzfBwaLzFe0EawnsTHn1yEru4BNKmyICEWBNlxJGkiePfrPFNIQwHqixxDm2hwwZRmoWyVLX0sRDHuH2fJFtjSjvII4UMr943d8TMxcq4xcW8ZKVYpcrewW5ikdZhrNzHmjWLxMTcJwH4oKhL0NYVIZdc+tUhgfqfVyhDhqEBgsjfE+pkhHVdnwGeXI7WH154afn2bJ5B/c+vlxJOnPSFOSz62hwyWXoiSFec68nIYMIySOiXf6M5Tx2Oxs2qv+YT/a2yHqX7AJSGTPa53xo1/c2yd7KV6AIg466JlZpt9xjnw=",
+  "URL": "https://math.rutgers.edu/~asbuch/lrcalc/",
+  "LICENSE": "GPL2",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1594127460",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "glibc"
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "FILENAME": "tupitube-0.2.15-1-x86_64.pkg.tar.zst",
+  "NAME": "tupitube",
+  "BASE": "tupitube",
+  "VERSION": "0.2.15-1",
+  "DESC": "Design and authoring tool for digital artists interested in 2D animation",
+  "CSIZE": "6705926",
+  "ISIZE": "15572734",
+  "MD5SUM": "2d4e5ace007aed278c4d086212c1a426",
+  "SHA256SUM": "194dc9fb545705cc3dcc6aa2d9423b19dad19980b7f015c9388d2b995207e90b",
+  "PGPSIG": "iQEzBAABCAAdFiEEzgvecadZqH8j8PfYth284QkBwWMFAl7p6IEACgkQth284QkBwWO2xQgAn9oC9HBQV60O6OhvfGe7a574i7FW8dBqBPEL/SGPoK4S3Cw4h9rDuiNq6MyOXxR2n2y9ozsM2JAd9MqzUQneNRUj9wu8P6LysKQkowLFzbREyhHdx2xa1cVoBIzSI+OQvFYuSoaiMWMc4gEYueTf1asWaO/nO7Ie3fRep4Zln8UDQzoTVhdemyPmOOKIL8i9DkjSrYLEQ/Hh/zOHXx1re8NDlBHD1DrpWA3zpwKHC7TFqOyI6XKtVXIu0N9nXy8SwlmFKXUZylZZIBzPyvjvcvIpIgo8FkDSG7QXOx/yzuqzvkV57Ofc7FTYVkTA/6qBJFmmmiw17orE/UmGIYU1Eg==",
+  "URL": "https://www.maefloresta.com/",
+  "LICENSE": "GPL2",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1592387466",
+  "PACKAGER": "Balló György <ballogyor+arch@gmail.com>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "ffmpeg",
+    "qt5-multimedia",
+    "qt5-svg",
+    "quazip"
+  ]
+}

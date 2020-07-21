@@ -1,0 +1,23 @@
+{
+  "FILENAME": "libreoffice-still-hr-6.3.6-1-any.pkg.tar.zst",
+  "NAME": "libreoffice-still-hr",
+  "BASE": "libreoffice-still-i18n",
+  "VERSION": "6.3.6-1",
+  "DESC": "Croatian language pack for LibreOffice still",
+  "CSIZE": "2288604",
+  "ISIZE": "20967327",
+  "MD5SUM": "2d2e8e26337c60f647eab8692fd9d332",
+  "SHA256SUM": "dd2076b89910106a4f0e3349062c18a4e6d4c1c3d865ca494c31fcdcda948063",
+  "PGPSIG": "iQEzBAABCAAdFiEErcih/MFeAdRTEEGelGV6sg8qCSsFAl6tSs4ACgkQlGV6sg8qCSvbDggAj75SCllpxkND7M/AUBllyqj9VcXvGxNXt6onjQu9D/ix6rdQT2E1YPJ/9G9PM4B15xv3F69d+phJY4rJg88BjvdrmUgx1A/Rbgyil8csET7njPGTdP0YkI6h2e7fZGsFNquN7HyzUcY8KfzvdaeGAsRQN/rQkyeD/ef6Rl8oW4jXjNe4L/Eduv7T8JAxpqISFeuAO4dnoPFt4FgtIlLzec09o6sw5OGv/DfUSK/H16YhdvCxltzxAqlbN8z86f9vGbjV2akP01FClOyjZWks8xoAvOyZaP3Jtk8lwp2VQbD226KYOqVBZXi37RZONFgZsRI3Vb5oauYEFreeICQ7Lw==",
+  "URL": "https://www.documentfoundation.org",
+  "LICENSE": "LGPL",
+  "ARCH": "any",
+  "BUILDDATE": "1588407321",
+  "PACKAGER": "Andreas Radke <andyrtr@archlinux.org>",
+  "PROVIDES": [
+    "libreoffice-hr"
+  ],
+  "DEPENDS": [
+    "libreoffice-still"
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "FILENAME": "fb-client-2.0.4-2-any.pkg.tar.zst",
+  "NAME": "fb-client",
+  "BASE": "fb-client",
+  "VERSION": "2.0.4-2",
+  "DESC": "Client for paste.xinu.at",
+  "CSIZE": "12367",
+  "ISIZE": "30391",
+  "MD5SUM": "ba3a188f34e79abe2897c25ed135cb4e",
+  "SHA256SUM": "3e7d30980c506165f21be8bd0f5ec78c895d7c5eb5a7039c9e3b59eceaaff179",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl8Ew5sACgkQeGxj8zDXy5IiAQ/+N3l3qqhZ5CtIfUNIT4IDH+0rOOci0SA+c8g5VrDfvU7BGYAUKH9HRWJ/5fcKNBlZj8IHOq23l1SxxMUmz/cf1+0wBv8fIH8Oe1w+qRAwAWleyDha9/o0qo9vWdrotkZaPED6Lqk4ymR0uSgYkOKR0Yz84R3sY5xmIUVV1I54FBKVol5hGzXeX0DOQBt44x5BGA0nWXzA/6PO/mzRSFxHe3DEU8lQipLJGkROlYLlYP27ZLlds94GKWq+erNQL8GneUCAU+23T+NIPS86gjsKTo0bDYixqdhxD9HxSmy7Am9jg6KhmH9akM7WHjR31zvgiEDK7xjjEz8WZyRsEB2DtvxU2kleQ7CnqLc7deCmKtwaVP/pQmUzlFwbNW/TeT8nEb0EUJ4QRQBu699xreBFhQ3rkIJZ7P3I3lYf72DIbXECzQsS3FSvzrw/ZjdqcYxzPM9FzH02zL2ArKX6PzC1rhglY72Wzb1mzIpQcu9g4xaAqwc/gut/FP+4II5UnbLbw7cxEBQ8dPt+TaxaXgpMesvykLQdpM2Kcyb4b9GvwZbo3ONWzhxifSv6pFv+pyKtb80tE0NwOfDXSjhC/NLKH9KJcxCTibvm3ACN7zMYmYJeJYkTRe79IHzO0EpUrHQEM16kEgIFYjp6lZ30oaD5AAdfyc+Q35CD21sWNoiCxPM=",
+  "URL": "https://paste.xinu.at",
+  "LICENSE": "GPL3",
+  "ARCH": "any",
+  "BUILDDATE": "1594147724",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "python",
+    "python-pycurl",
+    "python-xdg"
+  ]
+}

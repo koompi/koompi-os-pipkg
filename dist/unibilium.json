@@ -1,0 +1,23 @@
+{
+  "FILENAME": "unibilium-2.1.0-2-x86_64.pkg.tar.zst",
+  "NAME": "unibilium",
+  "BASE": "unibilium",
+  "VERSION": "2.1.0-2",
+  "DESC": "A terminfo parsing library",
+  "CSIZE": "119150",
+  "ISIZE": "217771",
+  "MD5SUM": "78ef69c024320f7bbcacbfce160bf0cf",
+  "SHA256SUM": "17805cafedc49ac288b9be9ee715f90f29cbcdc029455435f6ec7410cac4af45",
+  "PGPSIG": "iHUEABYIAB0WIQQEKYl95fO9rFN6MGltQr3RFuAGjwUCXt08cQAKCRBtQr3RFuAGj5YlAQDmpmb+JkA9jay80bSPkdzpMFu2GTomJIveFfp6e0GnzAEAq8g0CX93rkI4NcIc5+fVT5AvpL8qaWr5xmMw5GH67ww=",
+  "URL": "https://github.com/neovim/unibilium",
+  "LICENSE": "LGPL3",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1591557181",
+  "PACKAGER": "Christian Hesse <arch@eworm.de>",
+  "PROVIDES": [
+    "libunibilium.so=4-64"
+  ],
+  "DEPENDS": [
+    "glibc"
+  ]
+}

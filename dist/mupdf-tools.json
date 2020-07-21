@@ -1,0 +1,28 @@
+{
+  "FILENAME": "mupdf-tools-1.17.0-2-x86_64.pkg.tar.zst",
+  "NAME": "mupdf-tools",
+  "BASE": "mupdf",
+  "VERSION": "1.17.0-2",
+  "DESC": "Tools for Lightweight PDF and XPS viewer",
+  "CSIZE": "44214204",
+  "ISIZE": "71686763",
+  "MD5SUM": "1be90d3ea919b9038858c37025f0ece0",
+  "SHA256SUM": "c337b38e38672616282bf2a5e30cb80010222f3265ea90af278afd8d54b4b0fe",
+  "PGPSIG": "iHUEABYIAB0WIQQEKYl95fO9rFN6MGltQr3RFuAGjwUCXvD01wAKCRBtQr3RFuAGj4kRAP0aWCvOU/QGjqiRQ8repC89j0JsZenjMYn4z+/1hYalQgEA+6cNGEDbE7Rlh5ZF1zSKevk1iqOzi5CP+zUlZ7a46A4=",
+  "URL": "https://mupdf.com/",
+  "LICENSE": "AGPL3",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1592849450",
+  "PACKAGER": "Christian Hesse <arch@eworm.de>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "freetype2",
+    "jbig2dec",
+    "libjpeg",
+    "openjpeg2",
+    "harfbuzz",
+    "openssl"
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "FILENAME": "yad-6.0-1-x86_64.pkg.tar.zst",
+  "NAME": "yad",
+  "BASE": "yad",
+  "VERSION": "6.0-1",
+  "DESC": "A fork of zenity - display graphical dialogs from shell scripts or command line",
+  "CSIZE": "199704",
+  "ISIZE": "584105",
+  "MD5SUM": "73bba1747cc5bea2ed9f3e8288fa30c3",
+  "SHA256SUM": "9d8ab47b7e1d45c0bc9c1e0a55ca25de50bc44f37b4c301c9061fd8716aad754",
+  "PGPSIG": "iHUEABYIAB0WIQQEKYl95fO9rFN6MGltQr3RFuAGjwUCXojdYgAKCRBtQr3RFuAGjzRtAP0U+Yl4FQTe3AVsf87aIntJkbsaXU0ojoZdjJBf0wjdSgD+IkZEHJKtEgPsM8SirLgCZBPq8+ATkR49Eqvi+EVNxw0=",
+  "URL": "https://github.com/v1cont/yad",
+  "LICENSE": "GPL3",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1586027692",
+  "PACKAGER": "Christian Hesse <arch@eworm.de>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "gtk3",
+    "webkit2gtk",
+    "gtkspell3"
+  ]
+}

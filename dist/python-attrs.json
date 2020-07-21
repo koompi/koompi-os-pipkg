@@ -1,0 +1,23 @@
+{
+  "FILENAME": "python-attrs-19.3.0-4-any.pkg.tar.zst",
+  "NAME": "python-attrs",
+  "BASE": "python-attrs",
+  "VERSION": "19.3.0-4",
+  "DESC": "Attributes without boilerplate.",
+  "CSIZE": "61081",
+  "ISIZE": "311940",
+  "MD5SUM": "6fb42a61305d495928bbc2ebddd3c977",
+  "SHA256SUM": "f786fbf747ed746734db7de05bfdd65ff4c49ccf2753bb6d65f1bcd5674a685b",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl5U/d8ACgkQeGxj8zDXy5IjZhAAgj6BQglsiaqk6wQZT3vCo5c502SWGaZUZzjQGMf47I4TVFkw0UjqIkFLtMz9i6h4N4FOXJaGxQZe56aDnRuOJbaOiMika1ngtfcX1oeoTmOeWG13d0KVhBIjNW936u3aRoRVNt38XIOvmCSsi6Dy+TfJa6PAfggAbk1kaUwR/fI0VGomU7K8XvA404JAWg/zwCsibmutePsOj22TNeCigoTvNhSb+1sXBpOPvPxbzlMkNzUCPL46/zv7EMoF1CbTotVJ52WYmSBPymTrL1jxSu6x7Qb67eln+RrMLrNdqbE7dpi2xacLHohzhNRblIyeo16F57GfP8Hj9Ruc7RnosKnhCku8Gmv9VGenyvDWiaEk/uw6U9AGSpsLOVXiWeMq4U+mVIH2yO6MJsv4/V1MgCpZxtMloHxDJuRP7iSIskyfZ/OXMOwEmMJPy5Nvzpe+1ISa+LLbkORsz/7DrxJ2XuF5r72CL2w/SX1H6stY2naEEdoFmbDz2n67wfSZ4xj45ruJGoeBnnNXEpjecGrEJ5sd6dfM1SxrjakWe2h56U+QzAk9DEIcVaIQ9hn3Q2gORMF+b9v2PAfnaqCrLg3wcZMI328iFepdzXWOAIOQ5sHQrfYwCRqCiS+OvT6GF+L6C2+8avhfBcWZNOoUKjEKAfXdVDF3Ck3/HQZr4PTyHy0=",
+  "URL": "https://attrs.readthedocs.org/",
+  "LICENSE": "MIT",
+  "ARCH": "any",
+  "BUILDDATE": "1582628206",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "python"
+  ]
+}

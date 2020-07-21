@@ -1,0 +1,35 @@
+{
+  "FILENAME": "cura-4.5.0-1-any.pkg.tar.zst",
+  "NAME": "cura",
+  "BASE": "cura",
+  "VERSION": "4.5.0-1",
+  "DESC": "A software solution for 3D printing aimed at RepRaps and the Ultimaker.",
+  "CSIZE": "24776696",
+  "ISIZE": "102677282",
+  "MD5SUM": "fdb2d5343c9126dfbc6fde06539093aa",
+  "SHA256SUM": "f759a552fcb395326826cbfc3d8e05d1dd178d4f6d72970ed7448f6b8ab1546c",
+  "PGPSIG": "iQEzBAABCAAdFiEE5JnHn1PJalTlcv7hwGCGM3xQdz4FAl5/1qAACgkQwGCGM3xQdz6vMwf7BvadYk1KvNBf9lxLAkqeN/GwpsfPj9DrvU0qQ/Hr9iuVkMqYnqEMaDYpieYJPXAKNe0eE7xthlSf5WnDA6s/Io8Sd3mqaM98+wLwUXuZUgHJNcMZZxXlxJ+Sp+AlxcguvslocBwr0KXYWpjeH61TA9D+FxNpaGl1F0o1sOdfw+FVoX1u3nCb4t97YV4yfWilRzKz5pys7avLAHFffjqFZHmNQndaXMj88tsUrAumO6SFx9GtYlL3OiLrrRtw2yW5bIL/5VHQO1YzteKBJ5y8lwW//zIWDdZcZRlTLPQKXnxng6jHzDFme6au/vP3PW9CQpetCuiIUL45FAJZ0KBJbQ==",
+  "URL": "https://ultimaker.com/en/products/cura-software",
+  "LICENSE": "LGPL",
+  "ARCH": "any",
+  "BUILDDATE": "1585432251",
+  "PACKAGER": "Jelle van der Waa <jelle@vdwaa.nl>",
+  "PROVIDES": [
+    "cura"
+  ],
+  "DEPENDS": [
+    "python-pyqt5",
+    "qt5-svg",
+    "python-scipy",
+    "python-pyserial",
+    "python-numpy",
+    "uranium",
+    "python-requests",
+    "curaengine",
+    "cura-binary-data",
+    "cura-resources-materials",
+    "libsavitar",
+    "qt5-graphicaleffects",
+    "python-certifi"
+  ]
+}

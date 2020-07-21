@@ -1,0 +1,25 @@
+{
+  "FILENAME": "kalgebra-20.04.3-1-x86_64.pkg.tar.zst",
+  "NAME": "kalgebra",
+  "BASE": "kalgebra",
+  "VERSION": "20.04.3-1",
+  "DESC": "Graph Calculator",
+  "CSIZE": "1285576",
+  "ISIZE": "2323800",
+  "MD5SUM": "4c40a15147fc361d37c2f1f5882c2f36",
+  "SHA256SUM": "849d33bd37e7f4aab7d3ed06bb4c5886933bb7123b409a7986a9a369019d3b6c",
+  "PGPSIG": "iQEzBAABCAAdFiEEFRnVq6Zb9vwrc8dWek52CV2KUuQFAl8HBBQACgkQek52CV2KUuRnJAf+Lknj0K3JlL/wjQiHTaPw1tgYJtobIY+Fkwh1Z5pOHalPdGA6VhstxCnvPoFz6TVtF+gTnkYYfJNqNXyXEHRm7bKZHa+0VoughinWym9Av9bGjKqj8KgJP+RnRvutRuudryXDeT28XDzY9agE/Y/lOvmnCOJ2CKReuqnix0A3HV5U1w8NXwPGuDXSKLt6Qj4pVrSMewWk1qM5mdFU52u9CaF+FCHo4jPadvbDhQJUzKwdm/SjMZeMQalJicE9xfwlXmdju1XBspShJQuPznq7h36uWXm778X27VQQgGLRJ9Meyp0dKFnlqq3Isms9j31g/h8vp8A47rVwEoYk8FneRA==",
+  "URL": "https://kde.org/applications/education/kalgebra/",
+  "LICENSE": "GPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1594106900",
+  "PACKAGER": "Antonio Rojas <arojas@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "analitza",
+    "kio",
+    "qt5-webengine"
+  ]
+}

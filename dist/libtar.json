@@ -1,0 +1,23 @@
+{
+  "FILENAME": "libtar-1.2.20-5-x86_64.pkg.tar.zst",
+  "NAME": "libtar",
+  "BASE": "libtar",
+  "VERSION": "1.2.20-5",
+  "DESC": "C library for manipulating POSIX tar files",
+  "CSIZE": "37819",
+  "ISIZE": "85166",
+  "MD5SUM": "adb38abce73dbead22dd2ae4f7bd522a",
+  "SHA256SUM": "8aeaa7ea865285d3652a9293ff7f813f7a9034954effb13f93696597f255d15c",
+  "PGPSIG": "iHUEABYIAB0WIQQEKYl95fO9rFN6MGltQr3RFuAGjwUCXpi33QAKCRBtQr3RFuAGj8NxAQCPPcEINz+8CCqCQa1qEoRtLYh3iW0fBs1mcfqXKBmGdAEAkCbyecBYVet9irY2MfGSeey5+1hFQHiTjDBpR/yNMQc=",
+  "URL": "https://repo.or.cz/w/libtar.git",
+  "LICENSE": "BSD",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1587066758",
+  "PACKAGER": "Christian Hesse <arch@eworm.de>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "zlib"
+  ]
+}

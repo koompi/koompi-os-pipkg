@@ -1,0 +1,25 @@
+{
+  "FILENAME": "poco-1.10.1-1-x86_64.pkg.tar.zst",
+  "NAME": "poco",
+  "BASE": "poco",
+  "VERSION": "1.10.1-1",
+  "DESC": "C++ class libraries for network-centric, portable applications, complete edition with debug libraries",
+  "CSIZE": "4240918",
+  "ISIZE": "17468909",
+  "MD5SUM": "7a0ebd041fc9ad2bcf836ea6d8c9e7e0",
+  "SHA256SUM": "c080cb1eff1dbff8529dfdfd236705a6a884c2a391a4e14a1ba3b3eaccb4705d",
+  "PGPSIG": "iQIzBAABCAAdFiEEj8FaBklQqZ3RvRTdOeS4d+YuuRUFAl5LO44ACgkQOeS4d+YuuRVqXA//VNhFyym8NkvjSZJLCxTBqV1bGJJgaIJ16f0MkiqkprYC1+Z1nwkzpHUGghIzKWlRb02hDm949J2K/5xcOSIs3SGngFD3Zw2A1KPOWehYslDxKXmqXMl4DkevS2HBen8SxAYtE8V+h4FGt5IdWrIQgzNUKdd5xJlXgizUAcx71OVURxJNxvKUIPfvG6pNJqHTw5GHpIOyxMUBpZo3HB+VZnkvGfI6s97f+/bcMoX5wAS6568PS451Onc4RtikbajeKqDzmt2r3m27iKAB3Hf+8pCDgoaDRJWMcO7ksiQbvuJhfDGnUVw4biRe3hZwlAWKH3j3ZpGS3IkLSYzQSv8o3X6tPXJi/xvxuOL8/3C44E4pZLg64rE3NiPV5uuWm4cnsdUK/pk0eCJEoy0F7XqH1mvdgoGAj5HzMt0RnbTFTkSxzMyyXodAbulBCf7kQpqyiOUFqJRqjqKtJJiBNBQmedBdX2DkkYX2EQlePvNfZlaigaXyoX+JHAjkHvFMn9k5E9E9wv76bBerkVNdHtse/k5CEvWyt9VPJ2/PFRIeYeW/sx6dHZztmGcJoQUaI1oM7A8J02vbvvlIPmuo2bAW6jnJni4+X3EPOkfD6gdICgV8CLNd6RS0zsJl4olBLHan5SMcFkmixGZF/0TJ0LQG+z2EJHRpkWFdqtZ56n43YuY=",
+  "URL": "http://www.pocoproject.org/",
+  "LICENSE": "custom:boost",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1581988671",
+  "PACKAGER": "Sven-Hendrik Haase <svenstaro@gmail.com>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "mariadb-libs",
+    "openssl",
+    "unixodbc"
+  ]
+}

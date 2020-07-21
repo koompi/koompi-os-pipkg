@@ -1,0 +1,25 @@
+{
+  "FILENAME": "lighttpd-1.4.55-1-x86_64.pkg.tar.zst",
+  "NAME": "lighttpd",
+  "BASE": "lighttpd",
+  "VERSION": "1.4.55-1",
+  "DESC": "A secure, fast, compliant and very flexible web-server",
+  "CSIZE": "342539",
+  "ISIZE": "1285877",
+  "MD5SUM": "08f4709bd0e4dc3b4e71e067a0f84077",
+  "SHA256SUM": "e4633d9e6efdf7815b3c2a13a22354519f07f6a1f290a0426b9ef65524f72c6d",
+  "PGPSIG": "iQEzBAABCAAdFiEESqR2e7ycSx0Yrii3fy1DS5dB6KwFAl43Eq4ACgkQfy1DS5dB6KwWDQf9EOQiILKSRL27HKYNzPisn1mQJpjfqWwWsCbnKSlVJ8yjfiEbPKbGszJndRtcVMtzYdD9dKTYrkvYjeAgRJT/5tJpJ+u151m0CJImIpssy5kRKJv4JNoPalJWrNsxdyhob1cOrObr2GJx5er0sSMgGvOfgwKvsf5s+lftNav1O+MXdI8zDxSEyj6P/sJKjF5qCXed6ymQevGVtOR+1ZmMADiRj/++3WbJF1/K910xcePfnNFiynZLDg5/fOc52ayibBJfcO4LKqoQ/AhsmpG30EaJXWZFhzNUGTx/79Ew2ZpQG0SOAKn8f6ZFnKYaJDh96wcFdaHuN1xSg9Jwh0SnGg==",
+  "URL": "https://www.lighttpd.net/",
+  "LICENSE": "custom",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1580667530",
+  "PACKAGER": "Pierre Schmitz <pierre@archlinux.de>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "pcre",
+    "util-linux",
+    "systemd"
+  ]
+}

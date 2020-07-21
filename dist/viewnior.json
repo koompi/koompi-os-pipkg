@@ -1,0 +1,24 @@
+{
+  "FILENAME": "viewnior-1.7-3-x86_64.pkg.tar.zst",
+  "NAME": "viewnior",
+  "BASE": "viewnior",
+  "VERSION": "1.7-3",
+  "DESC": "A simple, fast and elegant image viewer program",
+  "CSIZE": "141917",
+  "ISIZE": "513978",
+  "MD5SUM": "c5f2a14d46f2f710a6db722249e6316d",
+  "SHA256SUM": "9c9db0648401b981a7c0d19ddbeddf7f91c4a6f86fcbe6c2b785f2210fdc0cac",
+  "PGPSIG": "iQEzBAABCAAdFiEEzgvecadZqH8j8PfYth284QkBwWMFAl7gwdYACgkQth284QkBwWOmZgf/X/kqF4j728Ujf7j4cd2j1uelub5UaQuFiMZa7/+zXzJVM3vlG8Hww6wRBV6pKZn0YVrrMxOuXVNLcEuNiNPw7zGf+fgWZxsgcIwedf59EKO3TcYDz0NWxw+jTLUfVppnIIqFixHz6s25FdRQSJ7tGdt1sSzqpg2NxQUkr1kAhPqf5Qr96I2xPS3W1IzQp/VhI00ngwQEkDOswX3pNkA+/6IXJF5jM0HoapZ4T8y0ETOHEnCirZl9cRLaHyTmXiNZ7BifMQODGpRR23Umk9btZ75c93aaYBtHNfz6PtAAfjZ3q4WnStMbWakQPrnXF47kcKonihk863jfix2JqWs20w==",
+  "URL": "https://siyanpanayotov.com/project/viewnior",
+  "LICENSE": "GPL3",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1591787955",
+  "PACKAGER": "Balló György <ballogyor+arch@gmail.com>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "gtk2",
+    "exiv2"
+  ]
+}

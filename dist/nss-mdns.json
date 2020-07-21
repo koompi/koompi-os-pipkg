@@ -1,0 +1,24 @@
+{
+  "FILENAME": "nss-mdns-0.14.1-3-x86_64.pkg.tar.zst",
+  "NAME": "nss-mdns",
+  "BASE": "nss-mdns",
+  "VERSION": "0.14.1-3",
+  "DESC": "glibc plugin providing host name resolution via mDNS",
+  "CSIZE": "11756",
+  "ISIZE": "108624",
+  "MD5SUM": "efe288c3e4563f3095d264f88476ea15",
+  "SHA256SUM": "dba68357452ea7d42e8b546d5325e1bea81552d99d8badb0a25a003fefdec592",
+  "PGPSIG": "iQEzBAABCAAdFiEEhs/8qRjPOvRxR1iAUeixSKmZnDQFAl6/2zsACgkQUeixSKmZnDQ2zggAlj7+ihO/yVsZU6IT77Gr4t25GTiITOB0MGUwUpgbDjlk1HzHVwnolbAwh7RT0XjaU6fykTR+YVZP3rIQcBZkK2iEuvj73eCncWeoPkTL81oJ235pUYV3LDZgADuwjOpl28i3jWqt5ocNAzehTGIViUshy6WFvFm+TUVl68sDontlEoeitbdk/KGSdMshU2KS7oUYdks+xvDazx1FRhqz81Hky5KLM+Ec4N+AWS1zI2xBYGlLpb+OSugWVtdKIboA7mS06aI8bACgy8zkErMq2tFpa1sUxVMWGenKI7tYT2IlGggO24i2jFZeBOihcWvIGZnIo8bfyqMY7iz2y5gtNw==",
+  "URL": "http://0pointer.de/lennart/projects/nss-mdns/",
+  "LICENSE": "LGPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1589631762",
+  "PACKAGER": "Evangelos Foutras <evangelos@foutrelis.com>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "glibc",
+    "avahi"
+  ]
+}

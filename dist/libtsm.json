@@ -1,0 +1,23 @@
+{
+  "FILENAME": "libtsm-3-5-x86_64.pkg.tar.zst",
+  "NAME": "libtsm",
+  "BASE": "libtsm",
+  "VERSION": "3-5",
+  "DESC": "Terminal-emulator State Machine",
+  "CSIZE": "32205",
+  "ISIZE": "85367",
+  "MD5SUM": "a9be7d51410593b518030b95d9b7e3b5",
+  "SHA256SUM": "7adf3a4585e2668826013b438e0bf43aaa85d9a80e92a043fc041bba04085fd9",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl8EcZwACgkQeGxj8zDXy5L0CRAApDnYhzAlGmum/vBQO82q9L6TIgiyFmjvQ85QaDdS/uR4sjnvj7MmQ5XfjiW7zdUvhFoYUNqrjJb4B7IZrnYSq2i/JbgvBXxJtJG6ZR+jSiazxCb+uZoMFko391JGosAx9ZHdgUqgr8BFQdutkE0LdM2yww5KLKCst17GjimOl4/6FA1bRF1DRDDUkSImmjmb86Cu8ZJUObvPF713fWTKLs9Ea7XugEs9Fq7M3KfhICDr2Dd9Uc3dMJSk45j/wN188OSMW78UxPKxr1IkfNPIjBbFE6576gTzl2UYlG9/kvvUtViiplEdRY8yrHz35ASAX1EF2tJvQfYdgmrNo5PIA7XD545b4vJpn5c9Lc1Q0bcWJhSnKB5emsi3fMEbJs7zuH9s85/JCA7Wrs1F2YvsUjXuv5KDxZehNmfAE0d6TEAZdGUH8sq5rB9e66ZTBs7gkYYjy4w4/ryB+WU09acGzSbBrAT69vi3e3SSW+Y2GlAwkdrPa8g+Ucqx1LQQUBwaiZireTmq0pvQICCT1IsIwCwp/hdGn/QlMFppFXRJsDIWGD6YqRpMKpYdjMeo/Numc0NAqfu2xYkE4M/SfJZ/FaFY9GksKexawTdcrDb3LBgPahI+IftLx7olaQdUXLhjlJiVzLRvWSgNYHC8wOademg3D91rtOHcnIjsNPrYZ50=",
+  "URL": "https://www.freedesktop.org/wiki/Software/kmscon/libtsm",
+  "LICENSE": "MIT",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1594126699",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "glibc"
+  ]
+}

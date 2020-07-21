@@ -1,0 +1,28 @@
+{
+  "FILENAME": "perl-moo-2.003006-2-any.pkg.tar.zst",
+  "NAME": "perl-moo",
+  "BASE": "perl-moo",
+  "VERSION": "2.003006-2",
+  "DESC": "Minimalist Object Orientation (with Moose compatiblity)",
+  "CSIZE": "46875",
+  "ISIZE": "113968",
+  "MD5SUM": "069e132faf0ff54a58bd9b6c572054a1",
+  "SHA256SUM": "d218a2d0df2e6549fa4593368ed0180876e720dd59e13eebb83a30b577213206",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl7vfTYACgkQeGxj8zDXy5IWwA/8CTmHpEmX4pAQp88ir33y1KoNpQT+ILufS/6nQ9s/Wu4Vgq7YEjPnDODnxwPrvidsyiNKLtTEFyUEK7PJyZZFA0lxi5noB4a+mjGM4sG/IISLOVu8mBi/NX8UWJ7Jfe9EyTCDA76hlTnPeWS7J2T7FHbE0HBDWaWUtY8UcvCf2kvulK8AKP/Hlx5xZrY+q5FVBjF2q0pxTiHs13b+0iOF1lCWJej106b7u4F61NksYGgu+L31UsLkv5R+xhq6BMbO6n9Osoq8cS6luUTuIDU9f0Mi5K+UGWnwcUrJQI25LN2MGbFBQShi6PImbNnz6K6kJloHwMH9olo8u/T7aNgFbSXBFhgsoDl1MZGX7mDA0ItJ4+Ittoyj+xSeOknuKnE7pOcZLY2sexr5cK5wU3vPCPvoOm791s/SiAf47ghhKhSaGQemp+TIrbfWKCQIJow4LmiEsqrJBByAVZnBYo3aWJhRw97DNspDhf9n4tNHNh0g5mNdcvQhKhSeA0/P99C8eJSePsBw+Lp0a/EE24PsX/HZirE+IQP//gCtWNRbwfCT1IPr9Fi7uCk73Kl9LsTOiJzeWbyJPTPHZCZdXt1BJmtvJE1zlhnFvHM4MCZsb3bOmGqZuE6ALlHJHF2mpIhiIi45u+8oVGenh3tXP152+gX2wtTut6eaNZquV51WlUg=",
+  "URL": "https://metacpan.org/release/Moo",
+  "LICENSE": "PerlArtistic",
+  "ARCH": "any",
+  "BUILDDATE": "1592753434",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "perl-class-method-modifiers>=1.1",
+    "perl-devel-globaldestruction>=0.11",
+    "perl-import-into>=1.002",
+    "perl-module-runtime>=0.014",
+    "perl-role-tiny>=2",
+    "perl-sub-quote"
+  ]
+}

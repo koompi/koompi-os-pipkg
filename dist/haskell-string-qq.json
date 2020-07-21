@@ -1,0 +1,23 @@
+{
+  "FILENAME": "haskell-string-qq-0.0.4-19-x86_64.pkg.tar.zst",
+  "NAME": "haskell-string-qq",
+  "BASE": "haskell-string-qq",
+  "VERSION": "0.0.4-19",
+  "DESC": "QuasiQuoter for non-interpolated strings, texts and bytestrings.",
+  "CSIZE": "9984",
+  "ISIZE": "26198",
+  "MD5SUM": "f1174d9840a87b4252c2894339dc7e62",
+  "SHA256SUM": "b65f661237a879c050e5c2a3deb93ed84e07e51d13a93ab338f9cb6f641e5c57",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl75F88ACgkQeGxj8zDXy5Jvdg//ZgwL59660qR/m6B2ztChMaXPGlIuYfqxg+T7u1bejQ7yJz2ZK7FTp9awbcVmwgICNlyI5GbmeYhUKP5opoRBS8++Qe+qhkxhF5B/8ct4TymtY0lX8GzTHGmUcn0pyM/ICq16p3sHFZMWhVBR+0HSufQX1sFzZCmgDgtNJCTSbNdiLZzVELrSoeJwLwRmwHhLTGCvVDiJeDxhx8VH0fHLlEZQPe8yVxNbJJDnuNiRlo2Py3NV3sswlKRm2DWr3R/6PUsfyjV5SKZ9CLz/6UpF8lgBTaydyDZC/HMObsT0avZfdFsEXhmm1ucLTwagBugtUoQXrVjoyVFV32D9ZLKKh3DJbKtTnGMD23C7V2qX31m+QzUZhQnAwXhBGnsOH5Zh5MK1CfQLAjAwfnqg8xNQOCodGhjl48lfkb0Ame9Z4teuBKbRKHisRIyxSOi+EtN7+Ze4JlrajnQSxOSVemOEcabPP/oXqCC4TkznkeBZXv8d28mgQn4fu+IJRA06NGtQTZc1Fpxo/EpIPHv7UYeW2QHpYV5XBw33JCIjP+RfgJBdXuYKY8Aj8OX3BqgU2cF7Sr9I/9K6rdEi2eUXFQ8J3My2hW1xyq8dTn7oOanTOHgSa/k+M4eOwICC8vzmHiMmiVmFTCpP8tuvKwWf9fcei7txk0BSOcNmHFGBhCnGQVo=",
+  "URL": "https://hackage.haskell.org/package/string-qq",
+  "LICENSE": "custom:PublicDomain",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1593382840",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "ghc-libs"
+  ]
+}

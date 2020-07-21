@@ -1,0 +1,23 @@
+{
+  "FILENAME": "kuserfeedback-1.0.0-1-x86_64.pkg.tar.zst",
+  "NAME": "kuserfeedback",
+  "BASE": "kuserfeedback",
+  "VERSION": "1.0.0-1",
+  "DESC": "Framework for collecting user feedback for applications via telemetry and surveys",
+  "CSIZE": "490967",
+  "ISIZE": "2660495",
+  "MD5SUM": "43ff730a689b49b264c1094c2bcef6b0",
+  "SHA256SUM": "fd816e90ba7fb504c2e7addce5de4890a0ec8588f0d11f1d65a07f747e032539",
+  "PGPSIG": "iQEzBAABCAAdFiEEFRnVq6Zb9vwrc8dWek52CV2KUuQFAl461fkACgkQek52CV2KUuS5QggAhRYT2wgbzIYbLKeaLF+mdzLhAzno1amnB8O5Ow7IwI0yHq1ddlQqmB1jnoiTeAtnzvapwjt2VDViVRcfJ6U06Fcf+Re3mxyHBULCuh+zyet9AsmPhyhYXarBcxfkv3CpSRnpgCV2hNGeyFb1fG/TWeySAEgidSmL+W18VIpxs1dO36/deaoxEsrwdWY8MS+Pt5Qs4Vq6KLOcMVCl8rZH6jnXP8+aPC53b6bc0/GznUT6osFJt7K7AuyzufpQD0K5R1SYYRzcI1mjJrA0OUxE/jCh4nS4X3K8xTyFkI9DtOGPHB34/AuQhtMpl9z1SYhNRxfgjOBeMSLrf0agUBoS2Q==",
+  "URL": "https://kde.org/products/frameworks/",
+  "LICENSE": "GPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1580913274",
+  "PACKAGER": "Antonio Rojas <arojas@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "qt5-base"
+  ]
+}

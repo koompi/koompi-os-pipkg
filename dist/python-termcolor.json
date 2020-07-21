@@ -1,0 +1,23 @@
+{
+  "FILENAME": "python-termcolor-1.1.0-8-any.pkg.tar.xz",
+  "NAME": "python-termcolor",
+  "BASE": "python-termcolor",
+  "VERSION": "1.1.0-8",
+  "DESC": "ANSII Color formatting for output in terminal",
+  "CSIZE": "6216",
+  "ISIZE": "12099",
+  "MD5SUM": "8baa76c329c566e2918a91224a66fe78",
+  "SHA256SUM": "9544d63e813865b4e049c089ccfadd221a0cf2761c65af3da889029bea1a1713",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl27I/4ACgkQeGxj8zDXy5IbDg//bvbRHb0AqVPb1jrNMdPDK/uXaOy5zaaWqdZ+rUiDQ1bPBsupg4s1Muz0YYcEtSi1ekSwO6sdvB5QatrrT9wEaUVlklk/hT4TITx5nNxcTnJ8j0DS/VdoXHDV/XIDRnsS4gegPOkIrjIJFbTA8gaHmO5HFrsIeYN4cvloPHtpLYIT3TLQPIWX7h2rNBHf3Iindt0WPyxuV4MkoXr5ayJQsaE7gPdHSkv0TTUMTt14DIfp+51YJdKiYzwxu4ChK//ZxCkCr4ZUOWymFL3geehGbQ3fdeaVqVE7TeKOY5v0tfFn/zy8mePXVRsjwJBSB4xjt8hzMGCDIOhcKFt/NE9EWzpY644ABxIB3IYNDGbVkxHwIetPOaIxNUDtX6zP8E4i+QBDE1Cm7sjpEmScFORtzqunweclaLkAzwXGmYN059EnBP6AQYpdBTlQcRnYwNK5tpoqxsio85c2B4ol+jfPh+iFLPBH7eg7ZL6Cca/9122wjIGnBD8Z1ygemk2nj/YG8I8bJ9aepPqraY0xX/fbIZLVEEhCTEjLaiPQ9I4ER9IoYEB8cccMhy5qmnNSyDhxvRYQwPA6iMiGLKRx97r32hjyA0a2wyH9eS6iLkoiqAPxjEyeO7YZhCZpBpAMFRRkPyZHQtFodUfUYlYH00lwpbW1PoqehGh0MqMzJwk9wxo=",
+  "URL": "https://pypi.python.org/pypi/termcolor",
+  "LICENSE": "GPL",
+  "ARCH": "any",
+  "BUILDDATE": "1572545507",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "python"
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "FILENAME": "docbook-dsssl-1.79-7-any.pkg.tar.zst",
+  "NAME": "docbook-dsssl",
+  "BASE": "docbook-dsssl",
+  "VERSION": "1.79-7",
+  "DESC": "DSSSL Stylesheets for DocBook",
+  "CSIZE": "211831",
+  "ISIZE": "2290860",
+  "MD5SUM": "8c025b1b5000091ab551702f864c09d0",
+  "SHA256SUM": "451c02c655934303e4ce6059371e829394d573273b0feb36e637e51e4be3dc33",
+  "PGPSIG": "iQEzBAABCAAdFiEEhs/8qRjPOvRxR1iAUeixSKmZnDQFAl6/v5UACgkQUeixSKmZnDTiRggAqOmFB0Fs5ZD+xd2dRHH8t75ExIxvw5XSSUx3iD5sggEn2Po8vYQFDKDZqBOzx5sU3k6nwbh4gNOG8HS/bQsVQeD6VapXcvyQjQvwfawdWkyIhgUGKAg1UnV/LfV3jkwRl0atMUvk+fiKo6kYFsDD063gah/0tH29/g2QvNi00fqDn2L/2Zc09/3d90YwzE7Sobu8xIREEzVbrw/bGWSzBam9oLbPEcWFC/g+X3eN4tJwvFErJNLeDxcIyHK9/WlJsNDVF+NutqXaDjY2F5JEp/FCI5YZNN6JknIylmTd0AIonsFdkiFVcPF3iDPyxyDAKFCtaU2e3AJ6Iw5m7HFxkw==",
+  "URL": "http://docbook.sourceforge.net/",
+  "LICENSE": "custom",
+  "ARCH": "any",
+  "BUILDDATE": "1589624698",
+  "PACKAGER": "Evangelos Foutras <evangelos@foutrelis.com>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "sgml-common",
+    "perl"
+  ]
+}

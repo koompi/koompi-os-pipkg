@@ -1,0 +1,23 @@
+{
+  "FILENAME": "haskell-unsafe-0.0-12-x86_64.pkg.tar.zst",
+  "NAME": "haskell-unsafe",
+  "BASE": "haskell-unsafe",
+  "VERSION": "0.0-12",
+  "DESC": "Unified interface to unsafe functions",
+  "CSIZE": "8620",
+  "ISIZE": "18014",
+  "MD5SUM": "d904f76a8c5a79f845ec23e1b0c2c649",
+  "SHA256SUM": "6d3b3148f8a374efd885984fdfbe59ca0aaecaa7324cb3d0fefd5b6694d2aca0",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl6iHxUACgkQeGxj8zDXy5L9fhAAkrSf0dfgwxIaN0qlhHmc8cx5UV9QiWvgov5XTWS1lFYIQUNrjFpASf3dDgM4Frv/seMG7f0OcOuA+tN/cLLCoJajBwmYnr4GxAhDKwaOgRGpgPOTaX0vk5qcUcVHC6AeYR07Kwcc3N2RVzb8UsYsCtfyqCmPzpHsU83t2o2Y4mn/q8GKMC0h2p/xopTRV7eAzhbE0/zUkgywqpJ8LA5DDwCKtC5oZKhABKnW67HTqm+he5bAKDwZfCTNXGj99aLlmHF46RRYkePKHkeGKXiC7lvoKBu73m7E85TQwG6fo/6H9OjOI7qb4rI0Tu4Gwvcf5tEAWIE0jcVzh8UhxtoJuve4R/h62jAg4EP6X+HGgpcP2bhJOCFAMauofH0rUW6WE0QH/97bveukUQrv6ez7mPBFPBxVFHbN2copZ8LbtwtXH7A9X1FbHA6hf252oaGe4HW/cPiGbfRoX8Vhf+76e120utzybYRj4Bk3RNxs41dzAG9agFhIuxeENQ4sf6J6Rt1c+jWwQhyBjRGw8hgQETcwtrgmoICSJtKN0wgxrE+2op3DR+D2oDtXf2oLT3bfRAKz36W/JcMm2hMmN+FvcYLiXGcXetNjZFpZdYdUDm8EJz2aG5Y2eyojpUr01lkwgHUV0wN1KhOpKffLZy+nohltjUmhklxk/n80d8o78Rk=",
+  "URL": "http://code.haskell.org/~thielema/unsafe/",
+  "LICENSE": "BSD",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1587683005",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "ghc-libs"
+  ]
+}

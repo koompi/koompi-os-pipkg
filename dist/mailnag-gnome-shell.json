@@ -1,0 +1,25 @@
+{
+  "FILENAME": "mailnag-gnome-shell-3.36.0-1-x86_64.pkg.tar.zst",
+  "NAME": "mailnag-gnome-shell",
+  "BASE": "mailnag-gnome-shell",
+  "VERSION": "3.36.0-1",
+  "DESC": "Mailnag GNOME Shell extension",
+  "CSIZE": "21159",
+  "ISIZE": "64295",
+  "MD5SUM": "b7db23ab0a1f2158f3650306bbf7ba71",
+  "SHA256SUM": "9130f5924b8593f8d96d1e04ed83fd614eea6d93596dc5c5b3d29262590396d8",
+  "PGPSIG": "iQEzBAABCAAdFiEEzgvecadZqH8j8PfYth284QkBwWMFAl7OpGoACgkQth284QkBwWOTXwf9E+JLKcV1ysBF+Jn1nKPIn9JjVF/IEZ+AyeN9CpqUtwncxRsRlegVgVQPKNE0Lnnh7DkIB8F/avVVGzcG6Dsc5ZWF1z6pCVvn7gmitAv9K8oANHfYi8FtNm/MBbmn7H1aS3HP9bcePSju02WnnlM992GEQbbNgcUDXBeX2hxdQ3A1GrIp6Smb3ny58RccNvB3BC/yCEpe/soGCf8V5m7d29VbEbkQg/mbM2bBJjG1KMVNDE6vxj3Qb6jFuJY1ctSXzrT1nFQ41pDF8+B8twg+X5hFMw1e+AZ1awcuAIYY7bGCVmz+JzUsaxyFy6zDBT0xwdqMNYSMNKskdHHTWEeTtg==",
+  "URL": "https://github.com/pulb/mailnag-gnome-shell",
+  "LICENSE": "GPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1590600753",
+  "PACKAGER": "Balló György <ballogyor+arch@gmail.com>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "folks",
+    "gnome-shell",
+    "mailnag"
+  ]
+}

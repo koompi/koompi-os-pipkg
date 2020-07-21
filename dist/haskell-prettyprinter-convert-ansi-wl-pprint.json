@@ -1,0 +1,27 @@
+{
+  "FILENAME": "haskell-prettyprinter-convert-ansi-wl-pprint-1.1-95-x86_64.pkg.tar.zst",
+  "NAME": "haskell-prettyprinter-convert-ansi-wl-pprint",
+  "BASE": "haskell-prettyprinter-convert-ansi-wl-pprint",
+  "VERSION": "1.1-95",
+  "DESC": "Converter from ansi-wl-pprint documents to prettyprinter-based ones.",
+  "CSIZE": "13755",
+  "ISIZE": "49814",
+  "MD5SUM": "56b6b3e0dcfcefea03aefcc5a967d905",
+  "SHA256SUM": "82acaac2180104d9f0b27aa0adb89e33bb19121ad6079d91d2a0313ba20cee34",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl75ng4ACgkQeGxj8zDXy5JTPxAAoEcg62YvBqZ4wm3RofLCQnQYAXFxN4RRCRHJEhtuR6yOjtTdmV3kGEDEJy+pokdfKk+pOMODmsIb4lF05NzeUCP9SfSKH67QGttT2i+3RnFOM6nmQnsEEDrFjX8LZlh5Zr6AF8qMHSZziySGk+Ii+hJ6dQlohhuSP0O/t+s4w09xacURXXIX8vZ3KUYM05pLhqT5kI6cn00AReOwlaGouHAMRXALSMxaAJnhnIOJF3LUVV0vPvSogJKUR4IXN4dP0ZdGP9Mct63LxG+7sYERmOEp9idpPDs2loxstQL0A0Xzex6LsTmlt/SFABh9SXO7220iG1WD/ANBsx3Y4wGpYsLdcEjhaCMRthmQKuVWA2RNik2W2sjSwWjvd1QcWWjc0xCjClDRgKm0KGky/b0D/tFN5dorH+/tffTZTJOXomW0aJqK/svHFb90ljwRIDcToW9aNSaOiX0fK17HMPlgkTcM61wy9bPR7DgKFJgy9tDpbJ+IMiRTryGJQttz1i4DKSyYFDwC408ndQ+yoyUyTjJljFQaNYV96CopAsAeElqVu9nhtwPNOxhk7b+XWXEK4xfQC1yvaywGn3CENv/GHH4UZxRkeFLnwP/BkO02gWLoPgxU3P1bVh+Av1zmhwY96bbhkYO73zJG4OrGB0wQwU5/jcrIWV93RIKqv59jHA0=",
+  "URL": "https://github.com/quchen/prettyprinter",
+  "LICENSE": "custom:BSD2",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1593417206",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "ghc-libs",
+    "haskell-ansi-terminal",
+    "haskell-ansi-wl-pprint",
+    "haskell-prettyprinter",
+    "haskell-prettyprinter-ansi-terminal"
+  ]
+}

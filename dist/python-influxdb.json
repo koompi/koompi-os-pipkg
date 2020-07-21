@@ -1,0 +1,27 @@
+{
+  "FILENAME": "python-influxdb-5.2.3-2-any.pkg.tar.xz",
+  "NAME": "python-influxdb",
+  "BASE": "python-influxdb",
+  "VERSION": "5.2.3-2",
+  "DESC": "Python client for InfluxDB",
+  "CSIZE": "115856",
+  "ISIZE": "874571",
+  "MD5SUM": "7ee2d7f79c4b695046435a9d6792832b",
+  "SHA256SUM": "490870605130ac7bd3f3be42a8d5c95c2bf40fe8542b40385052d577962b21d8",
+  "PGPSIG": "iQIyBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl2/fDAACgkQeGxj8zDXy5K+bw/1E/KRS2KDBQNRMV5c5AOHBfHXzovnFPOJgfki1Q2nfZezrDxo5nf7DjyNzG0m/Wt29BpOdAA4q9onsS7PU5vGWpPj2AOvxtTrchcwPTsuGPecD8+MNQBKjBMWf4jVApmPfvTGbv+O6pQv/f2Xp5RszuNBAl7NrHuf3YPWk7MZk2DjeOVpQ4gY4xK1X56HCqnCjEhbVjpM/S0BvQoYC9cqLfyEEn9B8yULCAzBiTiP+D3Rnr8T/xvbyQ0InRN5Zwl2g2N3XCfC2ZO/y8oKwHCHbzTMCdijFWsB8bd6Uq+7udv3f94XvWTizamUdb7edI1xGUv9jz74dq+DsK3141mkT4IKQ4fzf3TSPBhIK77wS3envIrUT+oB0xuKds15n6Pupp5CLjJWbl0OMWuZhi6xDni9FizLKp0OHJfYOzbcYQO8R3BKP3eJGnR8ErRmfrigob74220FRx0JWiUB893dRC86LpY0ph8cNwuNL0iuLaIzMaMPk6RROe40BqMuCKk961V31KhiSJJnddtDSjnSdQ8iAF0NbgPSKgROqHNb4ZcFPxlaF3T0R2ehZJe3NXdqyJJxjVFJKQiyb/XabEiyQuZ9JHrfmOcVV6+fr7t2mOtCW4cBjyXL0WyCYUtao74FR67SZkIH8v9x9gb1pPP/bAU3nUMoOSsWwDntCTUbFw==",
+  "URL": "https://github.com/influxdata/influxdb-python/",
+  "LICENSE": "MIT",
+  "ARCH": "any",
+  "BUILDDATE": "1572830150",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "python",
+    "python-requests",
+    "python-dateutil",
+    "python-six",
+    "python-pytz"
+  ]
+}

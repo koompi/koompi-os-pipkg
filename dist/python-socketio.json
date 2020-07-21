@@ -1,0 +1,25 @@
+{
+  "FILENAME": "python-socketio-4.4.0-1-any.pkg.tar.zst",
+  "NAME": "python-socketio",
+  "BASE": "python-socketio",
+  "VERSION": "4.4.0-1",
+  "DESC": "Python implementation of the Socket.IO realtime server",
+  "CSIZE": "76953",
+  "ISIZE": "530793",
+  "MD5SUM": "bf4533c8b846973dd9f3718787bd1727",
+  "SHA256SUM": "d4daa5d6c0b11073f7135a7fd735b475e9ce5cc846b10b100601a652450c78bb",
+  "PGPSIG": "iQIzBAABCgAdFiEE4kC1fixGMLp2ji8m/BtUfI2BcsgFAl4jVmMACgkQ/BtUfI2BcsidiRAAgdUEKFjv4Hue/MyI6ivJoi1/6akXefFcOGN3wgbNG5HTyJGFe2LJV02cRPreSaPJVHvo1J7ESONef+6h+bNi52nfUhJlqvS26/dLFBNd45g5y2Q307Ant+dVVOuBFau4zJNcwV1nfb0OG0zfyRA0bYr56ycnBm9emt0yRjU+Oo933lshGuS5q0kPbL9F9eHeNvYrbARcRIPS1/Gm8aMHEdOld2aY6qGkxdJof+LnEHVKr4CWwQFzvOgeGcdpwDeogF399vJAOEs9CB4k9jN8dTbqEWnI0i/w9XZ7OYWn4sp9MJTB5f4U5U4tdDjrrjBnU3FLg+Xso0g3y2NliTagAtefwj0S2ZB2MastLamxYdk37X2sQ6DG0Ef2NcVQvuCMZHNwJmBXfgT8pDUBa+n6f5MlPaLzucZZpt/t3dHe9V5RdWWE57bbUvArkAmR5MZZRcLW5WUwSfOWvImnFdTNRsf7ahlRpItvALzhPQS5mNqm5fcuy9FnaPa67RVageUiBiZtz1bklGKYioJkDPoasBKDCIl6cpRnLeGQjHR3CeYdKRYfkuerVq7OJeKNB9qoe5J1pepeyBrvQwcuXTEYM+ysv4fBiv2MwK19iq/RaN3/x5G14BRqfsCX8+Yx+eUGkbQL+BkYpTFfssERRN1MqZIDhgG+xWc+s/c2+tpK5V4=",
+  "URL": "https://github.com/miguelgrinberg/python-socketio",
+  "LICENSE": "MIT",
+  "ARCH": "any",
+  "BUILDDATE": "1579374157",
+  "PACKAGER": "Levente Polyak <anthraxx@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "python",
+    "python-six",
+    "python-engineio"
+  ]
+}

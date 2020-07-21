@@ -1,0 +1,28 @@
+{
+  "FILENAME": "certbot-dns-cloudxns-1.6.0-1-any.pkg.tar.zst",
+  "NAME": "certbot-dns-cloudxns",
+  "BASE": "certbot-dns-cloudxns",
+  "VERSION": "1.6.0-1",
+  "DESC": "CloudXNS DNS Authenticator plugin for Certbot",
+  "CSIZE": "8569",
+  "ISIZE": "16151",
+  "MD5SUM": "c2673b11af8a6302427f5e650d7ae4b3",
+  "SHA256SUM": "5b9621c1c76d33bdde380e7220f8fd1b2dadb14d4cf68a97bb443087485d335f",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl8Fj6UACgkQeGxj8zDXy5LnTg/+Ivbho+DJoj8Uy3gRGgCoWkQiQYDElNp7dwdFfYy77oZ0mmkwCfPK/kyEVi9wb/AgYgggQrEDnKDEqyc4vJwqfvUEHdeIv/UGHDtgN1w45FYpjTo5wSY35H39g2W0zyX/ej+SIKtfNJz42hIMHtAYiSscKxHRFlxAHaOfLYVq8FMUNhtrjtUYiIRR6kY7W/KETSyl69aaw2lXv/WGCM4R2HkLEhgaGgPOzLle/7cXCcqsCQDdeXrGWiX8cvC13PJvSA6K/2hf59Q+ac0Dliiez9mbiIe8DrrwlbMt0G8Ke6DGQlYvV1tOKnyj3s0+a+pZfndtePqnJwxn4UvgNvzRo0G4pF6Lszx06/3EDJs7RVgzBgC/fer8KmyZLji+JTXFgh4dYgq1EfDUJ5cJuoFoZuKFjxparI/lxl53GK1XzBpVrdoJ/3k1g1qIvEQtFh3wTjz1KnvI2/Yyk4uGoDYpOYF4ms5ChsYwJrKIGVM338CugNExKlYzXnLmeokvj2ctPkfIulPBlH4ku39ItWC5Rtr+EctLX9rb6q1QJa1/HhXbpzlrYq4QreWhYnwYJ3f5+ofXo8e6q0XTPv7f6hi6VST5ODA5Bk5ovM4vU0UyNruEg+9JxN85VhJ40M4LRV5ftN8Vp0skxSeF1WeBots6OAjChAU6H6ZuOm5xPgvqTbM=",
+  "URL": "https://pypi.python.org/pypi/certbot-dns-cloudxns",
+  "LICENSE": "Apache",
+  "ARCH": "any",
+  "BUILDDATE": "1594199922",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "certbot",
+    "dns-lexicon",
+    "python-acme",
+    "python-mock",
+    "python-setuptools",
+    "python-zope-interface"
+  ]
+}

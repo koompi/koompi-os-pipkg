@@ -1,0 +1,25 @@
+{
+  "FILENAME": "fflas-ffpack-2.4.3-3-x86_64.pkg.tar.zst",
+  "NAME": "fflas-ffpack",
+  "BASE": "fflas-ffpack",
+  "VERSION": "2.4.3-3",
+  "DESC": "A library for dense linear algebra over word-size finite fields",
+  "CSIZE": "846897",
+  "ISIZE": "5582153",
+  "MD5SUM": "ef771f77d225bb31679ed6aa02341680",
+  "SHA256SUM": "8cab9452b79dcb50fbe0b61d1404553c8d7cd51f7cecb26a122b73d73b63d85f",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl8Fd5MACgkQeGxj8zDXy5Kb4A//a7rLrowwedpdP89tPr8IjLkQI39LgdjU6YizgE7iJZMi2NIHj1SkrrO85WAFrjSn4eMH4B0FKsszehwAqXKKaHz4asiWWG4WDwT7Po475q64OLe/Rl6ujrIuwkg0tk4OZlkNdQ0rNFQcINmJtj3fwUGFP4mHnazUAaF/VLXewv6AFnGG/6PvX30qfq4DgPfaMfvdKihFE6r/8MjLq140ozhGla4Apj3nzBcBrfla4oechOxGNXZuwlHq2kXVYTzJybUap83EsiymDMVgOoXVG/NqHhmzqImvO2J2RUNHwb07CXP/osgCDF/5YW3WOSjLuB2hVFZ4cHl+BA/zIkt9G+05fWfg+KoBqxDtCzHnwutq33gIz7MLxrTxmT7rkl8baqLHnW7biB8BfKfvkIXOKayb+qZPZd6M0jKpyo+iYI9dQnQ3OBipJvIlp44gHpgxE0EwciMkdmpNfYnXe0wFjeYPbUVT1VCsaXKGeHHJ25dWsnvzlX3LKh0QhHeiyfTnTaDvBq8TdeRfi1dzClILXvN+maFjVkP4Bk9Pv33Oy6ZGwqLlgpgGKKBbvXaMd8p/K3q1iRZ5F9ai0JXTjsfGqHUHX7DhkQzzIyrVizCjkmG531/O8/V9NFrm/yi4hlJVx24fcg/9C7mksWWNc98kHGbIRA4XEpX34UacxXpeyos=",
+  "URL": "https://linbox-team.github.io/fflas-ffpack/",
+  "LICENSE": "LGPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1594192970",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "givaro",
+    "cblas",
+    "lapack"
+  ]
+}

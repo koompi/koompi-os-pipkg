@@ -1,0 +1,24 @@
+{
+  "FILENAME": "digikam-plugin-gmic-2.9.1-2-x86_64.pkg.tar.zst",
+  "NAME": "digikam-plugin-gmic",
+  "BASE": "gmic",
+  "VERSION": "2.9.1-2",
+  "DESC": "DigiKam plugin for the G'MIC image processing framework",
+  "CSIZE": "697748",
+  "ISIZE": "2053401",
+  "MD5SUM": "4edba822dd71aac320f4df765fdf89b4",
+  "SHA256SUM": "700ae4dabb6985edf181e50d8fca6f2000d85fd9467ce067cd1ab4fc8105c06a",
+  "PGPSIG": "iQEzBAABCAAdFiEEFRnVq6Zb9vwrc8dWek52CV2KUuQFAl7hY6EACgkQek52CV2KUuTDXQf/V67V+lyVtZzKs/sO0RIhDW6hp4HCa2c+f044UeRu8dkC6eL3d3+AqbR6rU6lgAE1P23/PGetd2xju/j7mcF1RvBbwTxVBnly/ZYRmp5BXk8e7/4msApZbTvP2IDYozdeUgejHrbsgTWalQaPCBKw2smvXQCU5OdbSSEe3VbC/QgOR60BYYgh4n9BOcIKdt+1O2QcW3XtFCvmD0Rlmzo9fsjf2IHQ4lmaUxbdd21qkFxUNoOiig3g6MHR3dyCPmcPaWPfshdyIa2p1BofjNuhY9Lz3/fmfnV1bSgZJgs9ldIFdI0CjtiOGq69PlUayUwfgRHJCbArGALnPpHUxXDQKA==",
+  "URL": "https://gmic.eu/",
+  "LICENSE": "custom:CeCILL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1591828908",
+  "PACKAGER": "Antonio Rojas <arojas@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "digikam",
+    "gmic"
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "FILENAME": "jupyter-4.6.3-1-any.pkg.tar.zst",
+  "NAME": "jupyter",
+  "BASE": "jupyter",
+  "VERSION": "4.6.3-1",
+  "DESC": "A language-agnostic web-based interactive shell/notebook server.",
+  "CSIZE": "2668",
+  "ISIZE": "0",
+  "MD5SUM": "d7bf8674244c397f0a3100689d969d8a",
+  "SHA256SUM": "3fe2727d72e5b924af801269b443fc83c198f5e81b0591c3e71b7afe82da2875",
+  "PGPSIG": "iQEzBAABCAAdFiEESMOx8w3dD+Z+UW0WOW4+JbqxQsEFAl5PwcAACgkQOW4+JbqxQsExsgf/e2Un3xjYBZiXL0jQUqFuxDMnpt7iojJwJ7cnz4JZrH90+0yTVmQKbtlILM4H1ZrKJndRnTLlyiwX2jL/Yms4ZLWhgJtWOwbtn3OmU7dzoScoT0xu964rYeDyc75dqzaCEbJ/e3eBxpypU41k8k1J5IGH/ADocJ1PISqGPFx0AHCcR9ELHne+3EzNJsmmnEzhk228Rgt2UPn+D6i2forBpZO7l4xvfGRibNijK0oLQO5A3l8Wt0mAX1oPyFcBynKrkxcNzhhZkcd2bkM3EEROeG8v58R7jdat1EYgbYCnJY2h85XQ1hCxGL8fP4GH51/YVLoT2zWrpDvB4kzYQrFkhg==",
+  "URL": "https://jupyter.org/",
+  "LICENSE": "BSD",
+  "ARCH": "any",
+  "BUILDDATE": "1582288101",
+  "PACKAGER": "Kyle Keen <keenerd@gmail.com>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "python-setuptools",
+    "python-jinja",
+    "python-mistune",
+    "ipython",
+    "python-ipykernel",
+    "python-jupyter_core",
+    "python-ipywidgets",
+    "jupyter-nbformat",
+    "jupyter_console",
+    "python-jupyter_client"
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "FILENAME": "python-lazr.config-2.2.2-2-any.pkg.tar.zst",
+  "NAME": "python-lazr.config",
+  "BASE": "python-lazr.config",
+  "VERSION": "2.2.2-2",
+  "DESC": "Create configuration schemas, and process and validate configurations",
+  "CSIZE": "42773",
+  "ISIZE": "190523",
+  "MD5SUM": "5070a9fca23ccb5b67297f2acc8faabc",
+  "SHA256SUM": "7d70e85177e2958f2b05bbfaa8a6aedd31f8a714f651fe8d49ec9d859658b931",
+  "PGPSIG": "iHUEABYIAB0WIQTH54SUZv4jWDQ1iDdyWHNLQcMVSQUCXhkMNwAKCRByWHNLQcMVSRhAAP0ae20MC90IK554eZmcFfEwDvsIK2xYeBo+Pf81gPcvGAD/VVT1l4GnVhfItVbAVVbzkZXRZyxOWmxtRpRav0ofJAE=",
+  "URL": "https://launchpad.net/lazr.config",
+  "LICENSE": "LGPL3",
+  "ARCH": "any",
+  "BUILDDATE": "1578699755",
+  "PACKAGER": "David Runge <dvzrv@archlinux.org>",
+  "PROVIDES": [
+    "python-lazr-config"
+  ],
+  "DEPENDS": [
+    "python-lazr.delegates",
+    "python-zope-interface"
+  ]
+}

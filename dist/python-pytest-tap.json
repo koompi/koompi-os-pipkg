@@ -1,0 +1,24 @@
+{
+  "FILENAME": "python-pytest-tap-3.1-1-any.pkg.tar.zst",
+  "NAME": "python-pytest-tap",
+  "BASE": "python-pytest-tap",
+  "VERSION": "3.1-1",
+  "DESC": "Test Anything Protocol (TAP) reporting plugin for pytest.",
+  "CSIZE": "14866",
+  "ISIZE": "47052",
+  "MD5SUM": "d3fef34018f05f739d1b114fe1edfdbd",
+  "SHA256SUM": "f791db03f5468e810d7ee1fbab96c13316bddf5910a695e66770583005b0558a",
+  "PGPSIG": "iQIzBAABCAAdFiEELjbYYgIhSC/EXLfyqRdkdZMmtEAFAl56t7kACgkQqRdkdZMmtECwFA/+JCHVQkMU1ibmEIac60cden1JS5tSUoT8E7GVzTdUjyGMS3lUULlBU5q9FMyq5REUHeLkC+2p3VdUcsfIpg8+N5Z+VexOXHQL+BSp9OzFiyZ3V1d8w5wcG0gFMqyJ4XeLAoBObjhOnlg+H5NUTiNr1pjLrfoL2yoyEmaw7Ph9T9vBozdH92BA/wiJbNQkO9UQqjV+oPbxOaLM7mZjuVoSqrZL08tCVILQpDJ8rpkgCJY2txQxoT6RZ/HgyaCOM7hHJvL3JxeLB2zjXzCXUzP6swr94SMeDnmSlQFkOlN7tJqKcwcXhu6Gm6It8Vl2NAquk5jx4UYmwaRPTIrGi2bRMXqeqlVJt0/5fVZzkRI6jYAZ6Kj097HIGaisdNFZSEsL6QppCpHk7CGxiysJGhBnYqFUwsCoQ7UoCFAcecfDth4f9+71eMdUKQ6vMPKzv6lEd9B7KaNDOtVSarFPjq/YX+tUxGems94bRqaBSJw/FY0t2QpUZO4JUWArk7Vs35OHI+mnKwNr8q0wJ44LYnin341b/a4HseMqfWs0ERkHUN9qI+zewSKA6PeVo09kCT2IdoTZ1HsyFRNW8IalQJ/7mECRIIaHuFutVXGqc5WpD3yzMJ2cPy5cgI0bT1uTYqQ1JTaxdgOfw7wMe+E3mLWvcAeehI//26oP5k0+zgKQEmM=",
+  "URL": "https://github.com/python-tap/pytest-tap",
+  "LICENSE": "BSD",
+  "ARCH": "any",
+  "BUILDDATE": "1585100643",
+  "PACKAGER": "Lukas Fleischer <lfleischer@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "python-pytest",
+    "python-tappy"
+  ]
+}

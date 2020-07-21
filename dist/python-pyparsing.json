@@ -1,0 +1,23 @@
+{
+  "FILENAME": "python-pyparsing-2.4.7-1-any.pkg.tar.zst",
+  "NAME": "python-pyparsing",
+  "BASE": "python-pyparsing",
+  "VERSION": "2.4.7-1",
+  "DESC": "General parsing module for Python",
+  "CSIZE": "120249",
+  "ISIZE": "763727",
+  "MD5SUM": "eb81762cc89c31648e27cd2a2cca3e1e",
+  "SHA256SUM": "9eaa38198f0c2b712c4a0cfad25fe680e0bede14c86f699544cd843fa45afe1f",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl6KYxEACgkQeGxj8zDXy5In2A/9FQJuKLm3eXFfFxJratQOc6f5Oh2KpZ5D8VcCDRZePo+NpjLANaQOwlJ9Wy7wVO9bG2RskHdhn+PQu1chqL3GHkKd7GrkCCPWnx8zEAs+dUobFMJwZohfgbhaz95ICXETDW7YBEuzQKoRSQC1nw6+fyLa75pZrF0jcHA5sBIheXuK/z3kfn8g/5ihPhsdHNb5qXlX2cpdI5zFRup/CVgzulumHr+5LJxJbyXctWqkvTNXfhReFPcH4tkd21ge7huKTZ1wrg/27VUSdv9cg3k8N2Mv8oQuCMGhPO0QQ5nV4Og3QI+BRI3Q7MyxanbQFMb3jn8UqElJKUj4AwwzrOtLWLzsdiYxh5j1kUbmpF1OomLwHk41pHRL7socXFLIlcwDo/eIUTCFUjl4YJECxTuQ8pcoLo+3QNx+dawGyzDgOLBisHFV0b0cMUMyKkDCtxVdvPX7UbCnib6Dn64q7zJkbfz3F1HtYiwVTtFZ/y2tDZyjP8jS+mQZ705rBaYPfrQEXzSGafVKtofBsMfiXLhYRQObys3XwNRU/ZwvWabKdf7uhiXjIVsy1J4j7NoL6i6hl7rJX50Kgh4JLcBtl1szcS/+WGjBCywnys6SrFWqh6Ubh8+jwVphV4v8+x9osRdwr6uil/jZYZzNszDUUnzAkpt/pwaFWtAfx09AJP+iqKw=",
+  "URL": "https://github.com/pyparsing/pyparsing/",
+  "LICENSE": "MIT",
+  "ARCH": "any",
+  "BUILDDATE": "1586127578",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "python"
+  ]
+}

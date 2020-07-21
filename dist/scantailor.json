@@ -1,0 +1,26 @@
+{
+  "FILENAME": "scantailor-0.9.12.2-4-x86_64.pkg.tar.xz",
+  "NAME": "scantailor",
+  "BASE": "scantailor",
+  "VERSION": "0.9.12.2-4",
+  "DESC": "Interactive post-processing tool for scanned pages",
+  "CSIZE": "1236168",
+  "ISIZE": "5349376",
+  "MD5SUM": "edea541b1f1e4021bf61152dd67b2451",
+  "SHA256SUM": "0f4827ac1d8fe7dc0a85a5f6ac76c5b600b74cddfd973941cd63c47d80b4404f",
+  "PGPSIG": "iQJGBAABCAAwFiEEPlGL8lJv0Zeeiq5JZcEQwepDP8cFAlv/A/8SHGFyY2hAc2VyZ2VqLnBwLnJ1AAoJEGXBEMHqQz/HpLUP/jTSkB9F0BfCijbnhqETEdEz2H5nDLYg9OkY0fZPpy68QSHZsXQi6yRGD5x62O6Uux//jj1MyqSE3e2FzqKAoHLEY1s8Kb/NQFJx5LI8gVhDLLnBg58e5Jmlt4XHIjTw0fP0TNR0rT5MH1KzIHU7eRrivZv8GCbRvum8C/a6S3+jQXSvg0I057Q9gkjUKMxSTB+tgpJsWwcCuTFalPwZAN/hLD6h9IIxhAG9IEJUEKbs0spXCPhbnPE7Wgv56Mthxjn3z0IXyolNpniHU7mTl6GVl+LaoHgVVG5s8NPDrsSB/GRm8NzNRwyYU+YmZl3ITQWqNCMvfcIjbJPcbxyRvvVmKVA6o8FNEXH/808VSSffqRxuImesUUl3u8jwkRIa6d/q1cQm4ZrGrn2qkuoZs1HiOX9yPe2KhMQusna+et85Qi4Uea7a2KMQx/QbhjLPHYfzRchfSQQiIVzT1LO6RJRfZAGPhbCotQOdVm/1RJmqfe8yO/FKzw1itYNI+TfZ1ViQ58nEg7zhE/oF85KTcKrqNI2VtxxG6u6pDc3rG9l+dmdjvMojoCGhyQut0D42x1LVMu1fF2IbShuhF8jNt8cueTS8YVBYKVkP8R0pZhHOcJj2RNZs+38iXrywjAl/ZzHLdjpMbVS+08ZqytcI6dActuphKs22QzAuTldeY1s+",
+  "URL": "http://scantailor.org/",
+  "LICENSE": "GPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1543438971",
+  "PACKAGER": "Sergej Pupykin <pupykin.s+arch@gmail.com>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "qt5-base",
+    "libtiff",
+    "hicolor-icon-theme",
+    "desktop-file-utils"
+  ]
+}

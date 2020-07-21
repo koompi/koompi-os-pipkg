@@ -1,0 +1,24 @@
+{
+  "FILENAME": "python-pytest-sugar-0.9.4-1-any.pkg.tar.zst",
+  "NAME": "python-pytest-sugar",
+  "BASE": "python-pytest-sugar",
+  "VERSION": "0.9.4-1",
+  "DESC": "A plugin for py.test that changes the default look and feel of py.test",
+  "CSIZE": "18583",
+  "ISIZE": "58128",
+  "MD5SUM": "293f8c3b57fa86a4cfbe1197f4d74f77",
+  "SHA256SUM": "a6cc3ab040783e3badf3f6cd09cb3e24edd97bd427832bebd16e48ad8c5f1474",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl8GCOAACgkQeGxj8zDXy5Jizw//XctFA0pIbD3vEXcRVuBhmHYreDPJrhXR4z+gJEIq1slCUTwdez1jj84natI6EgvwboYcKnD20ceqKhRWVTXUuXtsdzpZpyjbkkTognYPhvCX4xwUoRRmRjBLb6SLwHE9OV3VTSl7bcj/OaLy6kvRj3YVVMj3IpZ4tyhsE5K/HTALRgk/wSC/kRwNLar/bVC+a/4jqrfrYPtAwOREd/mm1Lnr7abMqrtDBZKJN8/mqsXspZZn4QPIF+MeMMYgDSp0L4JGv7y4IGc54nVV94rejhGuDOyTWnTm+cxnefY3gw2sttUpm/4phsPvPdu+bETHzEX+MonKBhTYL0qf2Olp2Xcr20IEZfieovjpdA1fH0E8o7SE605nzj1s+8jp/2wW65HyttjOMeDvHYQQKoo8X3hi3t+CKHjF6ZWZZDk9tDzeu6xeMG9jvLwOj4Nnst3jOplfkz1+5YAL9AYpesBx0aOruSbX1IuklvsUv809z0KbINhDE2Engzp8JvLRhGH95HW7QMe90qEjo1q29U1ot26Bfgd5LKifYCRxyvvm+WGp7wwWHTR+SaOd0hLCKsE5jqvHZuUwJkixYQJ9cFNcM3LldHD0XMLx3KKbuNvyGds/TzzJrdcCgGxUKaI0XosMLp0jJhpFfoKjeY7TrHlLkDmPJrcZt+G31N80XUKdOEU=",
+  "URL": "https://github.com/Frozenball/pytest-sugar",
+  "LICENSE": "BSD",
+  "ARCH": "any",
+  "BUILDDATE": "1594230960",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "python-pytest",
+    "python-termcolor"
+  ]
+}

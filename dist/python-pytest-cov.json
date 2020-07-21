@@ -1,0 +1,24 @@
+{
+  "FILENAME": "python-pytest-cov-2.10.0-1-any.pkg.tar.zst",
+  "NAME": "python-pytest-cov",
+  "BASE": "python-pytest-cov",
+  "VERSION": "2.10.0-1",
+  "DESC": "py.test plugin for coverage reporting with support for both centralised and distributed testing, including subprocesses and multiprocessing",
+  "CSIZE": "30858",
+  "ISIZE": "114238",
+  "MD5SUM": "803bd22e02aafb50853a144ceb4684f2",
+  "SHA256SUM": "96f210705df71c66f2b7eb8b5ed78d57d2b7d5f42ba39d796313fcd81784b18a",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl7psb8ACgkQeGxj8zDXy5Ly4w//XzjQ3fT/eltM9S9xooF6YwzXIO0vxqnnL/sBE+C69DbEdhEBYyb9SntxzX14plHMZASyVblpqwGRD12wFBd9jADC4ka2bB/q8rr/VP6iFzsfsXYB7XVo4RssO4iadfUK8KQcn1WKaFhKQnj2AOP8eq6Mz0jdRQ+HuY/QkukMs+lhR8r14DwDZz5Bl9UwKRzOQATxsebELyMVX/2MipYKjeS0EGOIykSO1CgoED6ADA8QCvLHlo/ilDswpHeTNiacVilrCSRFOWfq6RAvf1pyQT6gxslRIv03oN/qs6wuWQI3ncELD0iBbPEPEJ6869LF4DUm0HGJaG97OG6BLPeuEwz8Q5p6ePG54vYBB0QoEYSGcTd+DHanqBZycEi9nps/ycDbL/DC12hJMK/zsDx13tLg7iUxaWuc6UU6rNqmWDGYC9Lc1GTN2w8EoXDZkVRHUuD6JQtvHXyqeA3t7px7flRg08oIxfHIk+4sSxj2B6jKKjvYd2kYPrRv+Db/nAMzeXRYvZvdyj3DRfL3V1J36bhcdVcCr29Lil5nOX8M9tPR312EA6Mx0BnN6CV3E57z2sIxsy7FJuyKa9eVCfE3eMGE/4OYf48OuA39rUS4Kl1ldgBQSDlF3+HGx0jSNYT/eb+zCmG66CinQ25Hk9lkOnkxjAO8mvgfaE7pOJ78m7s=",
+  "URL": "https://github.com/schlamar/pytest-cov",
+  "LICENSE": "MIT",
+  "ARCH": "any",
+  "BUILDDATE": "1592372525",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "python-pytest",
+    "python-coverage"
+  ]
+}

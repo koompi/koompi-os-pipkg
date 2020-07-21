@@ -1,0 +1,23 @@
+{
+  "FILENAME": "perl-filesys-df-0.92-11-x86_64.pkg.tar.zst",
+  "NAME": "perl-filesys-df",
+  "BASE": "perl-filesys-df",
+  "VERSION": "0.92-11",
+  "DESC": "Perl extension for filesystem disk space information",
+  "CSIZE": "11753",
+  "ISIZE": "30421",
+  "MD5SUM": "3777c526aaa4104583f01c0cdf545433",
+  "SHA256SUM": "cfdd59ca28807740b02d8ccab784f19b0bc0b1e712414667bd318baced7b7322",
+  "PGPSIG": "iQEzBAABCAAdFiEEhs/8qRjPOvRxR1iAUeixSKmZnDQFAl7vhJsACgkQUeixSKmZnDRXZwgAgUoA8Hk+bld5M5wV9q+cByCemyLqcGCqfRmabMYVKNoUG/Ebt3Ll6bftGoO0mxH0vuffNjkdsopOp7j9WHTOStnMF/zPJgPV2UNO2kp9OJmk2p5v/dNysEkAhALzLPphgeAiodWpamUdPSosrdwXylXwUAuD8+Jqx1tcXXz3p1Xleh77a0I2vpIw7J3g2CjMtkmnAW3sfRKx5QOsPm9ASKDw3GiybkoRKV0SqyRDTtSkhL9mjyfjx7H1ErqUPBjeCFSJ28e9hJ+rCw04xewxj4oI8X8SaZzXXS2ZGQbZsHHERk2UOY4JuMwkQh5EKtyXn6qfL7nLOcwoV21XGivAhw==",
+  "URL": "https://metacpan.org/release/Filesys-Df",
+  "LICENSE": "PerlArtistic",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1592755326",
+  "PACKAGER": "Evangelos Foutras <foutrelis@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "perl"
+  ]
+}

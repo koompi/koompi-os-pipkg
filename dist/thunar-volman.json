@@ -1,0 +1,25 @@
+{
+  "FILENAME": "thunar-volman-0.9.5-3-x86_64.pkg.tar.zst",
+  "NAME": "thunar-volman",
+  "BASE": "thunar-volman",
+  "VERSION": "0.9.5-3",
+  "DESC": "Automatic management of removeable devices in Thunar",
+  "CSIZE": "139383",
+  "ISIZE": "689152",
+  "MD5SUM": "459de7e5b919c99f23e1d7e16e8e34f7",
+  "SHA256SUM": "8c2f1fcc8d89397d05c9b6414e1f8eba80113060520cbc652f311eb24701056c",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl7DmTYACgkQeGxj8zDXy5KRORAAufLeKUuysV1NPRAVjDm8ooZYidSyFjcd75I+lEH6OPjLHYF0kAcxaihWoonJNXv80m5lVfKStteulUvdVRN4ZuoEs8wV5mWWBUSmKGqOQIcv1xGBWDdjxLZJnTY9rNPN5aHPwjGX56gIoR2y/M5/tNZO28w54Ihq/4ur+PNdD5vzVGwXuonYf3uqi7uhkdWMlgtqXoYSwjoO11VOMqXvDhoqrDs5HWO+4qzb5FyLM9t3xewdZX09BDWynMdRyJJo8QduObzhqhA1thjHaevJzeX6zQj6/Wms5r10uoyz6cehVuotnsIB7dn3Tc187B/ycjbP9RJRohQPfpyQ6yJyFY1hKvQ2t/d6giEp34D5VVzPvI1s6lQe1g0J8ZIWAa3XXUkPOPyXsvbXwB6jNu9Fke+DyCpNmLD+iq5kXuXWN9Wfi4Mh8LKUmzObmrr9BHDy9kI3jj9MM5p8pgDXwIie7oyJdFj8yW7j7J9VxAy9yDvl7LLk1Sjc+9gQGEhxbq/CML4ryXIfuCDwwmhg6lsnhjsZ1LTRNU5EbM7JfZ64f3iZOMx/mygnksYOimmLNkiEkD1svfnX6m9fijrAFF/lNCunQY6rpwlIb6UHtkTntPiAKKGr93pmfxfWsvFCMjRsiXEM3K7+1wzhcQAfYpFvnb0CLEMMtfuPszRopJNJASM=",
+  "URL": "https://docs.xfce.org/xfce/thunar/thunar-volman",
+  "LICENSE": "GPL2",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1589876996",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "thunar",
+    "libxfce4ui",
+    "hicolor-icon-theme"
+  ]
+}

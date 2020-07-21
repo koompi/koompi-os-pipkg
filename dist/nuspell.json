@@ -1,0 +1,24 @@
+{
+  "FILENAME": "nuspell-3.1.2-1-x86_64.pkg.tar.zst",
+  "NAME": "nuspell",
+  "BASE": "nuspell",
+  "VERSION": "3.1.2-1",
+  "DESC": "Fast and safe spellchecking C++ library",
+  "CSIZE": "179719",
+  "ISIZE": "548430",
+  "MD5SUM": "b21b24afada60eb94ea50ad2c91fdd6b",
+  "SHA256SUM": "7af06bd737b16134c4d755c1cd54a5e8ed85238179b6df7a2a877fc6a96e3a89",
+  "PGPSIG": "iQEzBAABCAAdFiEErcih/MFeAdRTEEGelGV6sg8qCSsFAl79eakACgkQlGV6sg8qCSsNEgf/VhSYlYT3Orh/zbCX4u4+4gRfUL/X63Cco3kfpKOCvb1sRAwffpFl8T8l34ZSM4sz2/6QXRqmem0+ixQezF5LXXA09U9JfVTCuRmk6JRYqsIzgTkqBpTJXbhMBs1sBGfw1KhSs3N7Rfm6AdTbpHJZunQTJAShvWbRjt0shRrRN8e4gXH0drJGNBcrNBpyVtqLldvcxZlDQGY9u0CpdNEuOyLA0j6E9tguaI6wQ6URvBFlmnZ8CfoRFOzcjmw1YNvwe010h42zUrAH11ydI6euRQHmckIuXbiGkhrZMr6QieYMo8qnV52v1X5ptrfgd7B08tn4M5o6+Zy+7T/9DYm9tw==",
+  "URL": "https://nuspell.github.io/",
+  "LICENSE": "LGPL3",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1593669881",
+  "PACKAGER": "Andreas Radke <andyrtr@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "boost-libs",
+    "icu"
+  ]
+}

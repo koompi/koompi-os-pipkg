@@ -1,0 +1,32 @@
+{
+  "FILENAME": "terminator-1.92-2-any.pkg.tar.zst",
+  "NAME": "terminator",
+  "BASE": "terminator",
+  "VERSION": "1.92-2",
+  "DESC": "Terminal emulator that supports tabs and grids",
+  "CSIZE": "500011",
+  "ISIZE": "2579037",
+  "MD5SUM": "9d80e0de32657401f28a0be2394de938",
+  "SHA256SUM": "c284b67f521a74418d081dae260f26fa7c366e2ba57a90252502486547b6ca4b",
+  "PGPSIG": "iQIzBAABCAAdFiEE7MrITBugimzI5j+78i+x14p3rqsFAl6ggHgACgkQ8i+x14p3rqvKXhAAw66BfWA+/qSbX6EfNfbYUA0981GAGNr2bcTJEybNMGMQN+DQHPuXGYFXCYF870KxGNuMU6YpyIeu8r+lLYq7GefCBSM7dtx3OLeHne6fp17OC2F4bp7lHvIrOR7r7T6diwZ95jGxwd03KFvMLPSAE689AOHm9iGVpozVQ3kRMn2Ftpb/Ptflpdj+N2KOYqz1bZ1U5YgK0Ts6q4ewqLjsGLMC/mZ9W80zdyRp5o0tsE7P85RizHD4AEH4SJtWXx7yPvJY8M7Ga8IfNZf3xZuuf0PtPpgnlGaNx9O9n0vZy8UrswgjUP1t6UwmOj4GbL+m03MY9Y7OHlut++x/Dp+hJcD5CO9iUQLgN4IZ7MYcHebLRQTgF5zIMCl4MrEDrnwVZFN2T458jubQRGUa0UREpjPMSvbdErUgINWNFgn1FLFyZ/qROfrdcTphyFyehYCQtTVKiweeUPKJSdbF2gxvN533VyvPKpyo7/KRy9cEayes4zNKSB0R78uNE3NjyiArmb2SICLb20PPe/TDyCyQMrqyDacDkdLFWyLYkCoPkp9YFKBUC+yJoSrl9CTsCWJl2KVweu8Y9sxHPJAOVXJOgJi5GOSflW70rUzW/jQbnqiHAG8OZ34DPb9EmudoTLEbvbcphxAC2LnQzMsk2OPJz7vdWY5ihyYtrwx0aUVUKYY=",
+  "URL": "https://github.com/gnome-terminator/terminator",
+  "LICENSE": "GPL2",
+  "ARCH": "any",
+  "BUILDDATE": "1587576869",
+  "PACKAGER": "Giancarlo Razzolini <grazzolini@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "gsettings-desktop-schemas",
+    "libkeybinder3",
+    "libnotify",
+    "python-cairo",
+    "python-configobj",
+    "python-dbus",
+    "python-psutil",
+    "python-gobject",
+    "vte3",
+    "xdg-utils"
+  ]
+}

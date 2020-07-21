@@ -1,0 +1,24 @@
+{
+  "FILENAME": "remake-4.2.1+dbg1.4-3-x86_64.pkg.tar.zst",
+  "NAME": "remake",
+  "BASE": "remake",
+  "VERSION": "4.2.1+dbg1.4-3",
+  "DESC": "Enhanced GNU Make - tracing, error reporting, debugging, profiling and more",
+  "CSIZE": "345335",
+  "ISIZE": "1283795",
+  "MD5SUM": "8d1da4fb7dbad6590ec48f46c65c9cf8",
+  "SHA256SUM": "9fc66ea5c53cd918592a5680587f52734613bab2376ed2ec3566ceec11f5c6fa",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl8E578ACgkQeGxj8zDXy5JQMA//arJqvPfm6HYY26pzGN86rQ/7KgKso0zGYsYHhPQU+1KJhQyVmwwSCP19tIFu1I4rGyWnByjCcV5kLk0Vg1D3hRwjqdgeUYQn7tyoqcPDOURf8yeVtu2g93Sr/iuGUJpIH7Owwe9wSskm2Jy5TaSHODnIFPH6CBKDN+nHQ6vonZdsU0vExlHGclyKm1VVc5SdOvMHq2EyVszS4+VDphGWxx0Z5P7Ue75Eel7lTi20VM+DhvodX+5Moiow7rYEJx6EcRSb8Sb7vsLTfI+jU62B350QUHNhQGnB/5xF3qOWVfYTGfShvUwYi0hXDUkYvZxiNKre81NijrrJeLz7rj4jIgwTdE/tnMtFOUNVTA6jxp4ATGZi3ICKtq32nfLJoJU9TO+kCGZQ46SLm4IDcdLu71/3jMvAECp64jnkNCZYp1CszRduGU0XhTB9LOOnB2madK8gtx4qGM3csnC+j/yQzlBX4bPgzdeZb/uDt6SCnIvox9KNszXdNFJTLzz8djxcQsfX4HIJpUiC8sPGSPUBpQ64YzUDQcMzXNBv8OsR4ppn70Ti6QLkICSCnAb6POKfJURrA5okrd/7bzq9Sdr8WE99viXCpNZEkJIZ8zYzxYjWYvI99GcW20bEVr38Ux59vdLKVQCx0bR6+gO3jZ+nuS1Tkrpd9dm0ur4aUhoXtkE=",
+  "URL": "http://bashdb.sourceforge.net/remake/",
+  "LICENSE": "GPL3",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1594156910",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "glibc",
+    "guile"
+  ]
+}

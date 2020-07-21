@@ -1,0 +1,27 @@
+{
+  "FILENAME": "kphotoalbum-5.6.1-4-x86_64.pkg.tar.zst",
+  "NAME": "kphotoalbum",
+  "BASE": "kphotoalbum",
+  "VERSION": "5.6.1-4",
+  "DESC": "KDE Photo Album, picture collection manager",
+  "CSIZE": "12473595",
+  "ISIZE": "20233451",
+  "MD5SUM": "f136f39d31251abd0c4b68f190808107",
+  "SHA256SUM": "0732010c1d227efe37cd4a5f9350554f1a436c275a2815653947626fa53209b6",
+  "PGPSIG": "iQEzBAABCAAdFiEEU1+MAzlFDwVKTSgnBglqatHO3awFAl8G+FcACgkQBglqatHO3azBeQf/bEsY/QDdflq0dM+c2cWjLOIRQgF5trE9v0eNB0dcSgCrk4hp/goqyaBBI8X0Q6UAaBQjM4VByDlyCOiYLzLZlTCLJFYx6Db4rnra/xw/STf4WdzCxUKW/dpGNfHb2a+PHREkvGisUVUYaQEAMqkDg0E/YSQLwkVqPFh/X7B9tSW2hSA2mdhhoxdx+LDGckSgUzoXLmFWuxCIB2Kj8//xW+l22PSxe/rznf2Nlu3945MzNs2Qb+MPYB7LJR37KlxG66L4M6H1BMU4XFBW56hlF/mxTgd1iTIisbaRATLBJgSR0owWMisZzYUINh11O0ma6jaTnuNFzkMjH1iH+k4SlQ==",
+  "URL": "https://www.kphotoalbum.org/",
+  "LICENSE": "GPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1594292096",
+  "PACKAGER": "Laurent Carlier <lordheavym@gmail.com>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "libkipi",
+    "libkdcraw",
+    "libkgeomap",
+    "exiv2",
+    "purpose"
+  ]
+}

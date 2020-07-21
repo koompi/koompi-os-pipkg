@@ -1,0 +1,25 @@
+{
+  "FILENAME": "python-fixtures-3.0.0-8-any.pkg.tar.zst",
+  "NAME": "python-fixtures",
+  "BASE": "python-fixtures",
+  "VERSION": "3.0.0-8",
+  "DESC": "Fixtures, reusable state for writing clean tests and more",
+  "CSIZE": "70551",
+  "ISIZE": "420005",
+  "MD5SUM": "003a8aa73eb595a6150b0291e7f5e1fd",
+  "SHA256SUM": "3abfaf6bb7f46b2a4a058b76948f7d83285f950b624f53bf848e3dea6f9e85b4",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl5U+L0ACgkQeGxj8zDXy5LyXA/+JOrjcWqHeVTcTz+VFBxzpEwc+/anyLQnqujCduPTCwDJBqsN/67vUKq7QCWl65QCa6MNdRlv2aiWqpqvpIBaLaoQV3aEZKvYYHfyV/eLzbne8ESd/QkNKfojR2A5Q57bINMP+ewtk3mNYH4p8V/a5jnXGcy2ChI3l8At7b0w9qwG1FmDSEPOC38lIOshGmbvm5N3KJ4Jcb6zLqGw4LAFQhNXtF7pHbF7K7RvpYgvozmAhUdGcpBAWnVvBGLuaa+dKrXNyPWSB1f+ZdOsyDZhuCZJBaqYBsnq4QuA8koCsZSYjUkNpd62Aa14oG8EvLnMEtunBUeppyk6gXSYzIQYE03YNU6dyqrQDCalc+l5rFCNdt5vuSJCUsw1tt72Zvwu7Ng8car/iAA4hzXBcBP53SK6XSRJeTcf+JsANtPA9BAJuZAD2azhvGYgJ29IGonw9Q10GUSzGpg7eO4NiB96/LjcWHtFqMHWF08hm3f/sdRUu5gANHUsk42gBwVsvbfpG84OrYSFZEy5a09V1l+jSdasgEEb3UdwuRINeu1GF5iptyeS1WnKkuKX/2POHEsZpsxUCPwDAnJ28e7wITTE5W29FjsCJx3nOp5cYjd1z1ShpdE8sNHz6La/OoAfHF12S67O3q+zYrFqHkckXeBQEKaVMECKdWpMBG+Cij3JPmA=",
+  "URL": "https://launchpad.net/python-fixtures",
+  "LICENSE": "Apache",
+  "ARCH": "any",
+  "BUILDDATE": "1582626977",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "python-pbr",
+    "python-six",
+    "python-testtools"
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "FILENAME": "tcpdump-4.9.3-2-x86_64.pkg.tar.zst",
+  "NAME": "tcpdump",
+  "BASE": "tcpdump",
+  "VERSION": "4.9.3-2",
+  "DESC": "Powerful command-line packet analyzer",
+  "CSIZE": "391279",
+  "ISIZE": "1074234",
+  "MD5SUM": "326f111b884dd70d5ef8139473123d2f",
+  "SHA256SUM": "7e18e2e4b04b8780142a1dbc15bb2c8f6a699085a881084bcb2de3c2ecf6307d",
+  "PGPSIG": "iQEzBAABCAAdFiEEhs/8qRjPOvRxR1iAUeixSKmZnDQFAl6/5HAACgkQUeixSKmZnDSStAgAsdPxcwdTOsYWOYpBio3tGFhlJK9x24z8E5k1YjEMhlO6ib3rOQ+hN4hkSlpUp6E4hn1ADqMkZu+l6BKAAU01zndsvmeqBp6ZG9VgHu/SjKjoTJImeneRoSmwAr0RvZbte8XzJ3C/c4blc+oTcDd6WyD329oGdgNfHG39Ogtv99xDqDrZ8yh/4SdCIt3AsiKsMEXhSgu0sxXo6z/cii4MxR5Xf7inXvzCkqavhZ7QI+kQStGX8DBJ+C15ncmwkjVmQxBugV51P46QY0yNrFcTFkpD1ePkNVyXH0Aq0k1rDrhbifCgm7PdTiOceffyUeJ4E5d5CWofuiMIuNK3Y+jihg==",
+  "URL": "https://www.tcpdump.org/",
+  "LICENSE": "BSD",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1589634100",
+  "PACKAGER": "Evangelos Foutras <evangelos@foutrelis.com>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "libpcap",
+    "libcap-ng",
+    "openssl"
+  ]
+}

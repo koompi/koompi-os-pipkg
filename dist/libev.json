@@ -1,0 +1,23 @@
+{
+  "FILENAME": "libev-4.33-1-x86_64.pkg.tar.zst",
+  "NAME": "libev",
+  "BASE": "libev",
+  "VERSION": "4.33-1",
+  "DESC": "A full-featured and high-performance event loop",
+  "CSIZE": "123463",
+  "ISIZE": "202878",
+  "MD5SUM": "74a7ec88ed91ea188c317fd2af423ed2",
+  "SHA256SUM": "45deee5bd3e1216509eaf94dbe81d22cee0231340eaf56b27ca45b088f0f3dfa",
+  "PGPSIG": "iQEzBAABCAAdFiEEFRnVq6Zb9vwrc8dWek52CV2KUuQFAl53M6wACgkQek52CV2KUuR9uwf+JgoBnXPozx4EusFM3gsMZFQSQkL4LdgHLtEEOFnSTmyo7wbxBmq3qyb+hKpoyoG1HSi+sLyQjDKGL/wV4sNXC2Cg21sM1RaUxyFmKIEjmATKF+Y4C1fT66dpdaPh2kLFJiSd+CBnAv103DYxqgvJUa8aVKDt7/pD+XdnmUTAOY6tQcQ6bIjKPSoRyssqAikT87e/zFi5najqhJihMMM0m3G0LWfTK0VCzYuNlak/kAy3+sccu11CyZxAesMMhhP+GDkKCl+CwVcIypi4LEzNJFHorHmrv8sWJOhyyqW5z++83ztefzFCnrFUbEuirbPBSHvU9Pz62AmFx/aOsFlnXg==",
+  "URL": "https://software.schmorp.de/pkg/libev.html",
+  "LICENSE": "BSD",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1584870263",
+  "PACKAGER": "Antonio Rojas <arojas@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "glibc"
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "FILENAME": "python2-pathlib2-2.3.5-1-any.pkg.tar.xz",
+  "NAME": "python2-pathlib2",
+  "BASE": "python2-pathlib2",
+  "VERSION": "2.3.5-1",
+  "DESC": "Object-oriented filesystem paths",
+  "CSIZE": "33232",
+  "ISIZE": "185247",
+  "MD5SUM": "ce99070522fa0b1726e9fc587f92fdd1",
+  "SHA256SUM": "1529811e4c5ea59999affe8eee87769a851362e9ce91789fb53a2242319243ad",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl4CiYIACgkQeGxj8zDXy5KYYg/+MMZKeIgcD3eLK0sVdYg/xKXvytWfO0b7ly+9rh78IdwgsXrMa9fKo7j4Iij0EvRKgo2fkqWpVQVn8WvQMi2/buS4AjIV8bzDQ83QRG9D4WdhOvAzQn16sYpw1+ekYAIV/PLw7KoqUF/nV+KUU5I9ndebva2y7k5sYi3M+BC6pIUug7MMs88lNNxClrilByihIxR4kNVhJGCtOhYqgQ+dWcqYcwU4B7Q5+KlvOEw+Zwiy7seO2YXgIAqwDcRdUGcmzaYKPHjcpRkT8XJ4BKzkvk8VZJPyNZDr9abvdVKjwjodp8sp7zOdkEarH/A/PA5fGrof8NPYaCqtxRJZEC9sflviO3BI9Y2774T35Zimyw2JxJ0WoSYuuSYSuoNMqMu2hWU+iQwUehHHvHPjnHb1iH5FSOafTT8PM4fqFR9YIqLXZS1qj8liYawQUwygBsOWVaAdMvMl23VDDOKPnQSfIplJQFZP3Ukvim6TyByWQ51jYxgUdWDsqKudmscas98RnfVR4NdquV6Gqn27cpIazNc9yUS1nwOkcOK28mRUmbOLu4TF+WDZY2PrGt77nfGJKzUazjdrb86XPqRrdYXEeo8Leu/1FQ8+iOcNKBc353l7/TP6512xG/REAsIXxqavdKqwbmXyvF7gx7UDTkfpJxoD7lzIW9VPxkdPSjNG+a4=",
+  "URL": "https://pypi.python.org/pypi/pathlib2",
+  "LICENSE": "MIT",
+  "ARCH": "any",
+  "BUILDDATE": "1577224548",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "python2-six",
+    "python2-scandir"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "FILENAME": "perl-file-slurp-tiny-0.004-6-any.pkg.tar.zst",
+  "NAME": "perl-file-slurp-tiny",
+  "BASE": "perl-file-slurp-tiny",
+  "VERSION": "0.004-6",
+  "DESC": "A simple, sane and efficient file slurper",
+  "CSIZE": "6687",
+  "ISIZE": "6950",
+  "MD5SUM": "a8ba4cc3eb73ff66fcc74182b8dfef4d",
+  "SHA256SUM": "ddbec490dd5e897db2fb86e53dc3e77ff084e594a7733d6632c421637dd8beaa",
+  "PGPSIG": "iQEzBAABCAAdFiEEhs/8qRjPOvRxR1iAUeixSKmZnDQFAl7vNsgACgkQUeixSKmZnDRmDwgAsklDuLuETGHSzCJnB3Uvk6Ie8aukhmeLO6T4vadrIW8gnW0RaxhWpO3+SokRAfoLo+BrgTAcNoOGjcWCy484kghDNIcuLfx5FOkJ6bHQnFKew/G48iRatKaYKVpuRoRaG+t5pNzbHK3i0lcbeVL/Bs94KqxnA82TIkeHQ/MnxiHjPCU5fv2vG1LKylG1CnlrBIXHzpHPew3qhchTFq1Swqzss8Ancwpa84ovA/qwWvVGvVNVUbqwoBlgHcyk2cgW7aAyNREBG2TbmRbh1ujO/rtx23d3Vl0Rjh5e52b0ZxWZMjQ5LTUrGx1+ookgVDfpD9kP3It4OoOI1gX3OzVwIg==",
+  "URL": "https://search.cpan.org/dist/File-Slurp-Tiny",
+  "LICENSE": "PerlArtistic",
+  "ARCH": "any",
+  "BUILDDATE": "1592735418",
+  "PACKAGER": "Evangelos Foutras <foutrelis@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "perl"
+  ]
+}

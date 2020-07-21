@@ -1,0 +1,24 @@
+{
+  "FILENAME": "lib32-libunistring-0.9.10-1-x86_64.pkg.tar.xz",
+  "NAME": "lib32-libunistring",
+  "BASE": "lib32-libunistring",
+  "VERSION": "0.9.10-1",
+  "DESC": "Library for manipulating Unicode strings and C strings (32-bit)",
+  "CSIZE": "374464",
+  "ISIZE": "1583104",
+  "MD5SUM": "7e6814a4d904c2cd989bf00811b4301b",
+  "SHA256SUM": "c9030e1f7bf410c6ecc4d8159abf476c2b79465b0c44ed9bef82bfd073bc1b8e",
+  "PGPSIG": "iQIzBAABCgAdFiEE4kC1fixGMLp2ji8m/BtUfI2BcsgFAltBF2EACgkQ/BtUfI2BcsjtqBAAo1iNh7D9klI3MipD8Ns/CKunC2DFtNfo2W7KAkg0uBkWcTlntSfXMZtPUwSOsV82IDC6BwH3Dn58o4K7gKFqtQVyjGvBMZhUkYWYPPV/Cn5f74JSgpRIrvOcT4GfoNalhjZrgHURsbNcwiNsOABfUj4i9wV3CeydEhVMymXju29N7/wLER3PXXk8fL0oD/6P2Ywuy7AxFf0NK0T2je6GqWvUv/EBz80BBtgHGy1GaWlrPrFB+UamElyxYbb/BQnGB0980M/d0a/QoaTOAyprpm+vLyonJPJzcIs1c+prVWUcFuQJep+VmHA8HdcMppY+dnboeK9sCLHDknsQ3rCygkGAJwRrP9XwQWnEC6uGYmTSLM/upw92yMJ4MpQfgwdlQvQuqpA+EKnVWgWWxMTFe4RResWjB/LFUsr9JKewu7ITayo/r+/RDbf+Df30c+lVIvZUXiB+NFlY+fBEKCi5u7ZzZJuPb3ywbiHh3CsdfZQTntL4JiuQgTsPTilaBMsQxCDaVAx6xSOr7sqzvw19bz5GZ1QXmgJHj5xU3RrBZaihFB29SgvZ4tXKQiAR0daTR6JMClDk7wYuQiXH84IhgcsV+xcjCJaqyil+lCGR+T7eY+j5cq3/Hj3o8SaTtK5sNgPRP23d4dNG3LfpEPUwIHC/HlhExhxJUnb3sgeeMNk=",
+  "URL": "http://www.gnu.org/software/libunistring/",
+  "LICENSE": "GPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1530992014",
+  "PACKAGER": "Levente Polyak <anthraxx@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "libunistring",
+    "lib32-glibc"
+  ]
+}

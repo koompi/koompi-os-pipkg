@@ -1,0 +1,26 @@
+{
+  "FILENAME": "rsnapshot-1.4.3-1-any.pkg.tar.xz",
+  "NAME": "rsnapshot",
+  "BASE": "rsnapshot",
+  "VERSION": "1.4.3-1",
+  "DESC": "A remote filesystem snapshot utility",
+  "CSIZE": "73040",
+  "ISIZE": "258305",
+  "MD5SUM": "f9aed89a6d1defe34690e7d1eecc1fde",
+  "SHA256SUM": "340bc7253501e0b29e82ec94e63a9853d902f63dc527214cbdd2123c30c2de34",
+  "PGPSIG": "iQIzBAABCgAdFiEEz6avFeXHQUn8HYwIbRZVwUzhwT4FAl3qMGgACgkQbRZVwUzhwT64Qg//aBMYlVzv4BU/K1bzGtOiQ9PJyiQS5Fr+7tHoPX7UmyxW87E8n+FOPyz1s1oh9V80xJ2i5piP5X/KjkUGfcDD7ObQk1q3XmqXT4kwEBDqEma11OYPwKe8LwL5QZQX/Qz0+S5lxUyjRXcOEH9eyfa1KUb/haEM6mHQi7/iQrtbwhB/nsHmsbNcPoKumgQDOILkyjZ0SifNvDtVBwVAkBAF7wfAeeJBFz9DttvZUde9px86hHDiaPF+HTPbQzi3gJ/niZu7d27lCBDWmDow89KfnsPNcHab54sHgyFR+Iy6VyXqGmKrTH0PF+E7pZN/Lo7LXh0MHooD2q9xPpLBFw3P8JrTju/J54ypsZNYRJuTzkp/K2pC33vMHkGDKVTSGvFpnJSYv7pdDLc6WoFWTUiOTaT6Pb3gh/L6k+sJ1TjySdeaRwGdPAv8WgLbIU7w4e7a3LuW9M6XnPP3EWnq9nBlz7x135g/wE63oxkZ6wV8qjQsCQLruekqhmLstOu4sxkhkKFmyoam41jMH2ddBhOZr8mjZfIjnDHLCz/6tOUmkgmdeeC8hX67LXxq9LCN6gZrlQvQwb6l1JHUAVAuO/lk2WfKuEWUl63/wOi1HTvg69jrycoXOSijvq9iML+L4xN4qzt8wpNHU7qKZSHJv5BBYZpWPAgvt1Esarb/oia8U3A=",
+  "URL": "https://www.rsnapshot.org",
+  "LICENSE": "GPL",
+  "ARCH": "any",
+  "BUILDDATE": "1575628861",
+  "PACKAGER": "Florian Pritz <bluewind@xinu.at>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "perl",
+    "rsync",
+    "openssh",
+    "perl-lchown"
+  ]
+}

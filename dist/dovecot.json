@@ -1,0 +1,34 @@
+{
+  "FILENAME": "dovecot-2.3.10.1-1-x86_64.pkg.tar.zst",
+  "NAME": "dovecot",
+  "BASE": "dovecot",
+  "VERSION": "2.3.10.1-1",
+  "DESC": "An IMAP and POP3 server written with security primarily in mind",
+  "CSIZE": "3542347",
+  "ISIZE": "12988066",
+  "MD5SUM": "8134265d8ea5620f0d09edac09da6020",
+  "SHA256SUM": "00de17bd822d540d5f8f80f6e9601cf6d09679243484a453b841d56169cc94d9",
+  "PGPSIG": "iQIzBAABCgAdFiEEBR6tamFVOJ1p2gLl63Y7Tp24h6YFAl7CjKYACgkQ63Y7Tp24h6b/FBAAiM7bJPVnQawOC72PzAIW8+UH8QcC1MgrkYMtkN3PeSjohSV1D6KOkaSMkxGbC7Pfem9WlgZh7HIB0cJhVtnNPKQl/STl1lv4uae524VVuE7uih4F2GSKfTsgeGah989ZXSS1xlOwL8xRiU2/TucGTZvK+cLXEF404AqnqSuujYr+MODjUcsja9BAKkZFE/87vXhNbldb6SA9sLeeYoqM3CaRsJCeOObRj4EWnyNLk5fnwB96MD5GlaEpcQnMBX1vyRWLwibemmOiG9KurplPPjWr45G4C+UbaUFk3Lds78GbOHKSdRqx+uJXFs+4TqdhkPeGV37XgKG2SAcfYr46/XFj+aafz0dw7yCFEwwirABACbpWxjiUz2oYyHRWFYipElAvCAJ96Hd+OrKPyvovl+7rxBSHi//Z/3uFivsRN0wwMzux+HUnVpcPIKYvKw8yh+md7c9zw50Qo6jcgKSsD+g9mwETZqAq1AkksBPhpeeKPhfkEjdJBFhVZN41QEUrppcN0D7yYPNNlOzXGoinA+sQRlSufHow6JsM5v/pyCwakn7eNF+WLJlUFz5Bu73TcIgMIwJSDuSrYdQglKk5eklBp3jLexC0jCYg+6oVJ5D8DuI/j7napiXMCGy+n/5fczC8pwhYGqPOPSHz7m/kObKWL431HptbHHgI7adh2hU=",
+  "URL": "https://dovecot.org/",
+  "LICENSE": "LGPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1589807538",
+  "PACKAGER": "Thore Bödecker <foxxx0@archlinux.org>",
+  "PROVIDES": [
+    "imap-server",
+    "pop3-server"
+  ],
+  "DEPENDS": [
+    "krb5",
+    "openssl",
+    "sqlite",
+    "mariadb-libs",
+    "libsodium",
+    "postgresql-libs",
+    "bzip2",
+    "lz4",
+    "expat",
+    "curl",
+    "pam"
+  ]
+}

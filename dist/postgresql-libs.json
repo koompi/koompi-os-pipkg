@@ -1,0 +1,27 @@
+{
+  "FILENAME": "postgresql-libs-12.3-2-x86_64.pkg.tar.zst",
+  "NAME": "postgresql-libs",
+  "BASE": "postgresql",
+  "VERSION": "12.3-2",
+  "DESC": "Libraries for use with PostgreSQL",
+  "CSIZE": "1428799",
+  "ISIZE": "7001123",
+  "MD5SUM": "67360869c1ee7f13a4190c5b06d6272c",
+  "SHA256SUM": "1e63eb8605d39f8681e85d084cb62c3b0729a5cca333d1b86f9c6f7af3fb73fb",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl7vO40ACgkQeGxj8zDXy5LI9w/7BTwls+FkbGUrWOT8SqB2W6pj55fn5EfIMpGKH9J8PXLzbLUiaAlklI2rXB+GE5us2kjUejYaZTkK3LalUBgZrw3nJnTalE7F/bwfXgzIA59MEU+IkWPHw/wS+Upy/ceuJD4LrclGWvx9Gc8CBSYG91pyyr0I1Dc8tgzvMRhTZQut6Y4a4mNQ8VSUmdgl9gxjg8re1wLwNjyH2lZnrrW1bfu0yqWYFJ8UKqvuwAqzOKmFb7XH0ciOzBexC89McsqDo+Z+CfyGk2vbtlBzEmI1ZxhNL+6/+q+vaUQkBqejML/Ej5wZoHNKfXLiyECcoYl/wyjk7x67AvVyQ5FMezIGpkXqTkdbxJbVf+5NpgoIl3d3dM730uPKIco/xuC6vyw1toIHnI1kccLFBHLWdXltTX/yCF/6P637xPFBYNfU+zjq8P4Z/gAickPwaKj0kjhcatWX+wO0hAKMfJm2aN0tTQuJlMdMzc+wHVJUv/0rD4trC4Qy3kgDxOxvM8Y19iQEKRy6cdHcsQAiAWRepWfcgVF8RR9qXbTuwEg+FaKxaMuyfHl+0oNQSiLRK3dKuQa3SAcyiU3vaVN0IAdWre6lsBQKtAN3oAooQ17l2XTS8lryzEvFllFXIn+PehO2U25KsEDtD1Bt5Nxisro30Vtmc+gPoJMTxemsgydfQ2fDncg=",
+  "URL": "https://www.postgresql.org/",
+  "LICENSE": "custom:PostgreSQL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1592736167",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    "postgresql-client"
+  ],
+  "DEPENDS": [
+    "krb5",
+    "openssl>=1.0.0",
+    "readline>=6.0",
+    "zlib",
+    "libldap"
+  ]
+}

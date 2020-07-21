@@ -1,0 +1,26 @@
+{
+  "FILENAME": "python-pygit2-1.2.1-1-x86_64.pkg.tar.zst",
+  "NAME": "python-pygit2",
+  "BASE": "python-pygit2",
+  "VERSION": "1.2.1-1",
+  "DESC": "Python bindings for libgit2",
+  "CSIZE": "170417",
+  "ISIZE": "820874",
+  "MD5SUM": "0293a04451c2f92eb804b6718ba37b2e",
+  "SHA256SUM": "e366b512b2ed79311611482bd113b0bef27bc0e203c3ac8a59f9a76dadbe31c7",
+  "PGPSIG": "iQIzBAABCAAdFiEELjbYYgIhSC/EXLfyqRdkdZMmtEAFAl7BYw0ACgkQqRdkdZMmtECvdxAAoSwKjna/akfHB6CNIrf3AKfADghhugfx0zf2ywuoEyRMm3Ir1IY2Wxsc8yl0Q8tug5Yh5f2He/sdr57hPzwXxrOppiFlZ+lUz3p+sKXFNc5ypgzAsecZI/DxU83GHXFC3mZFmNJudADCgJRpP6WZf6bdpNHXBK9VX4f5uaYxPRxH+P7eHVU9dlUSSdsYOvJnQsVNrCqODoN9I6jLYVVVvnM1XiJMjjk1atLRthvHJnn/Cosn8wraqQdgcF18S5QIq9bQvMhgi639AyRvPMcUJQb7K0Vr7RMHh/RQsgx7NzruS45XdJAv1kWR6ttPdBNw4LpWTYdp5n98vNWZxX8FguAhF1iIPkca7yYzyZ2oBnxd/b4OfROJruLK90TCKnfff+XeJ0TtFaM/KxHJAMgZcpS7UwPlaBOksMEWeQll/yR7fN5q2Whg8Uair79ss4RSBxOiwb7THDvNh0605+11iAp2lSvZJHc2AQ0HUSIKSz08+2y6W/NyZszPDHkvBPW4dYT138ah4Cg1CflUIKOHmQOtgqxB1lNiCYzFoj4Iq5r1ggaQ8eOI4j9LcPdWjJDCqtXWL7rKS1ubt5q1vPVuoBafzy4xgQn9P+Q6koEWdqzaaH2L80azIobTwn9xFHv9dQVvvwShP+JDWF6cs+KOYympCwNYm66Mr1yXVHw6C5A=",
+  "URL": "https://github.com/libgit2/pygit2",
+  "LICENSE": "GPL2",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1589732046",
+  "PACKAGER": "Lukas Fleischer <lfleischer@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "libgit2>=1:0.27.0",
+    "python-cffi",
+    "python-six",
+    "python-cached-property"
+  ]
+}

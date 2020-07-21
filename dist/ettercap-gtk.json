@@ -1,0 +1,41 @@
+{
+  "FILENAME": "ettercap-gtk-0.8.3-2-x86_64.pkg.tar.zst",
+  "NAME": "ettercap-gtk",
+  "BASE": "ettercap",
+  "VERSION": "0.8.3-2",
+  "DESC": "Network sniffer/interceptor/logger for ethernet LANs - GTK frontend",
+  "CSIZE": "791545",
+  "ISIZE": "2536184",
+  "MD5SUM": "74c73f29478c26f9a0fc90bec7316452",
+  "SHA256SUM": "aecb976d2385b43c3c675df51cb3411c12f229700a2e56d526a67b88a271bae3",
+  "PGPSIG": "iQIzBAABCgAdFiEE4kC1fixGMLp2ji8m/BtUfI2BcsgFAl6kCOUACgkQ/BtUfI2BcsiKIQ/7B9Qe+6C+Z/sNv/FcNCL1hoG5Hjuf/sAPcNZ0gxssE0mruRYp9EYpinmNGm2NAyr1ZWetpuyJYXxwH2lwcsMbLsZ67TvIVFHl48/55ouo7y/uGz89GRwu7ftL3O2YtteqdVCKwawDsfFUfq+bNpHQRtjVz5AKvqAR2g6CHcNN7x2LsdBNSGueRfqaCDlNGPhGbfvwZkkdJ6UyJN3xg1XPl5H0jv400ZTSmL1Chpnu9AigZ7AsS4/hKjWW3zsyVOYT99wB7Z8o754mZ8UOu6yMhMrAC2kBPoq2OeP6tShcVD9I6Bz3ii6ILPWtFob7gU+6U1ZRXW6wfflLtzCfTx2Q5LZ3um7lnFuWRTDXg1D3xRfwy3QV1eOM/3khN+heB8oVr23FTE74OQvVx8NRSm/IV6k0UgFD5G8xkXs6XGISmFFA1U3DqzrTg01WcFII8+Y5RxfG53YzsivAQ8/WlOSTFC/WLr36hMG7eDsbwv+kgwld1ujkPf9IBWIK++TQU++JjCL+MKG8zPnz7QTd7dxiGw6XtzOFiC7qDa96LvK1C0REnktYx88jG6X9Ia+zbH4nMlKz/k3Gj3ioWhgqMHCWLqeiQm3/nXH0YHWdlci63rJcQhncKkkXkZp5xT0ASK4ylZlPpICdoBOlJKHUX+1DOF6ecmyfDTXUWfjCyZRlxaI=",
+  "URL": "https://ettercap.github.com/ettercap/",
+  "LICENSE": "GPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1587808388",
+  "PACKAGER": "Levente Polyak <anthraxx@archlinux.org>",
+  "PROVIDES": [
+    "ettercap",
+    "libettercap.so=0-64"
+  ],
+  "DEPENDS": [
+    "glibc",
+    "openssl",
+    "zlib",
+    "libpcap",
+    "pcre",
+    "libltdl",
+    "libnet",
+    "ethtool",
+    "curl",
+    "geoip",
+    "ncurses",
+    "libncursesw.so=6-64",
+    "libformw.so=6-64",
+    "libpanelw.so=6-64",
+    "libmenuw.so=6-64",
+    "libcurl.so=4-64",
+    "gtk3",
+    "harfbuzz"
+  ]
+}

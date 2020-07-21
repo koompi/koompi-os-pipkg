@@ -1,0 +1,25 @@
+{
+  "FILENAME": "midi_matrix.lv2-0.24.0-1-x86_64.pkg.tar.zst",
+  "NAME": "midi_matrix.lv2",
+  "BASE": "midi_matrix.lv2",
+  "VERSION": "0.24.0-1",
+  "DESC": "A plugin for MIDI channel filtering, multiplication and rerouting",
+  "CSIZE": "166383",
+  "ISIZE": "444746",
+  "MD5SUM": "8ab1d443f6f5dc0e0295f03c869583d4",
+  "SHA256SUM": "b23201f86482454e2ce5698bf5fa3f0ba8781210df444737b37750df16d6d71d",
+  "PGPSIG": "iHUEABYIAB0WIQTH54SUZv4jWDQ1iDdyWHNLQcMVSQUCXpSofgAKCRByWHNLQcMVSSp+AQCugLP73VMWVFsHW/U9hNeYoYRHSxwrq11H7m5dLE8ARAD+LRjeZb7MGbiP0H/ZrCeOkofrwWMriI4vrzhup585ww0=",
+  "URL": "https://open-music-kontrollers.ch/lv2/midi_matrix/",
+  "LICENSE": "Artistic2.0",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1586798431",
+  "PACKAGER": "David Runge <dvzrv@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "glibc",
+    "libglvnd",
+    "libx11"
+  ]
+}

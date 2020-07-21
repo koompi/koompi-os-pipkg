@@ -1,0 +1,23 @@
+{
+  "FILENAME": "texlive-publishers-2020.55415-1-any.pkg.tar.zst",
+  "NAME": "texlive-publishers",
+  "BASE": "texlive-publishers",
+  "VERSION": "2020.55415-1",
+  "DESC": "TeX Live - LaTeX classes and packages for specific publishers",
+  "CSIZE": "16425344",
+  "ISIZE": "61273961",
+  "MD5SUM": "64ce6528981d49a52685c6d32c36e8f4",
+  "SHA256SUM": "e455caa326dde2b221d6b2543cbf0b0b681fefc690f50671380dd13e963a6862",
+  "PGPSIG": "iQIzBAABCgAdFiEEROpirNvIG2oNH9JnIGy8iS0Uk9IFAl7dXIgACgkQIGy8iS0Uk9KLcw/8DO3blNQVGGKH5sQcBO9grNPmcyt4FMeVMkjLEPKORFjPa8B2E/bT/n8YCKtIa/+wr42/JUxkU8gfvfxhBxdDUac6GVA7PYwBMBM/yiD9rggrnWtiAwrSuHL6orNcAhtYYUGankergD0ikZcFJJSBw8sTqMiN/+yARBvncl6WLMRLpz+qa3C805HdT+Kygy1zwwOnsZA2KOjrAXONTLpQthihnvDVQSGAT0azZRLTqt3lyudTsr8rQgl9JH9FBwFLWGm/HFd792Z9jCMF3umOthh7jUAvFuVwx2dZiTclce7b+rJ/OuMSk8ve2zAHpJLETUxEqTsSTxcCQvGGhpXShzHnYnM6Z7XprrtK4NAL6Sk7xM05Lnb6aiQNZxCsvChUqULMqqsV5duB/LJX2kocTvU/EtssMzANfB5MjRhWd+qgIvUDSe8S1DrssjMysYnNNwD7Vrn1+08lF+IqFEEoKotQAbg4YN2Sa83e5QbHETTbxIUKdh3ttihRgcuMZL3jdnzMGdeHdDxtvr1uGTTK6Y7S918xUzLmcrU8+ev5aQPpKTcLbYlGIyLh6E7kTTcTqbRGU7KZJhB+f9JqKbNxWxPRpV/MRu9aTGj+wisMaTfr0x8Gwgan83RqgrmOAPrZvUdbcJzHZZRiZgx/SdMyNSNJVQEkMV0r+pD8eynBr7E=",
+  "URL": "http://tug.org/texlive/",
+  "LICENSE": "GPL",
+  "ARCH": "any",
+  "BUILDDATE": "1591525267",
+  "PACKAGER": "Rémy Oudompheng <remy@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "texlive-core"
+  ]
+}

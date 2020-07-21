@@ -1,0 +1,24 @@
+{
+  "FILENAME": "geos-3.8.0-1-x86_64.pkg.tar.xz",
+  "NAME": "geos",
+  "BASE": "geos",
+  "VERSION": "3.8.0-1",
+  "DESC": "C++ port of the Java Topology Suite",
+  "CSIZE": "872152",
+  "ISIZE": "4210410",
+  "MD5SUM": "3c7f9bada4139f8e7518a42b6beadfc5",
+  "SHA256SUM": "880150daa557f044e9474650f6532a7a2a0326c7b86d28ddfbbe764e4c82f02c",
+  "PGPSIG": "iQIzBAABCgAdFiEEOO3RiGdWkk4SJOSVJOTNsAE8JYAFAl3YUqEACgkQJOTNsAE8JYDUzQ/+IzSeDaib498bwhi5CJnrQ4Avvmvkirq9PXrKGU8jto4SH8+gfZu6wnTMha1mztWAvRgpoyvQdpur7T0oHLhTPwu6ErRyVdx/vmVLX2/d9Lx09q86FnxGDnttYPD7KqksggG4PjETCU+emZCi2+/NjoDy23OaUaXLFUXzdthFe/0dUMy0UziCmPnjdPZ73GProV/lpZhpCIFaOUfZ7YRQRsB1NwjL8FRdoP1RqvUCQqk/uJ3M/TGGL/l7ZShEgyJYatXJP+rO+0Fofb7BnLVqnnGXQxUTLqjImcZP1n6S9AdLA8CTFkgyFnB65G4t4GJGYF8KQssEqyfA4Fp/F4x/fxxbSbkLZRfkcWmC/zSKoCD3CKsu7Ar7jcpn74WPD7YwT2S/3pFCAkCuUuQ5MzQl89B+cDu9XKLrxJOcShF0cf08iJldagMUtHjwuyFKbB9R4CG1kfZOaI8fXLYKWLUaKxHnwWF9sD8I4hoSBq0J41AmU/YnFdKe37H1hxwECrHlyOgWyLypw/x4mAY8d4E4gLYQgFMpbxLf4SohsCyU6QDJ4IFMdc1GOUigkUU21V99bPyDHTVENp+ZARji07XwXXkMgvj7S6Evm4W84uKJagUy+wKoYyOhcdGMujL99LotRDchH7XwxLlJtd3zJsDVJye7QBVnms3aq+fJjJsbfUY=",
+  "URL": "https://trac.osgeo.org/geos/",
+  "LICENSE": "LGPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1574457479",
+  "PACKAGER": "Jaroslav Lichtblau <svetlemodry@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "gcc-libs",
+    "bash"
+  ]
+}

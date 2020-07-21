@@ -1,0 +1,29 @@
+{
+  "FILENAME": "folks-0.14-1-x86_64.pkg.tar.zst",
+  "NAME": "folks",
+  "BASE": "folks",
+  "VERSION": "0.14-1",
+  "DESC": "Library to aggregates people into metacontacts",
+  "CSIZE": "1567186",
+  "ISIZE": "11370059",
+  "MD5SUM": "90f22d6d0b8fda2d767d9191b03988ed",
+  "SHA256SUM": "f5844c1b8423250524c602886331fd0ccb730d4e9a2827d3c13d10d3a8fbcef8",
+  "PGPSIG": "iQEzBAABCAAdFiEEghj4iEmqxSLpTPRwpekojE+kFfoFAl5os6MACgkQpekojE+kFfrs/Af/YZ/ZH6Bx4ntq18T2qCngpwMmA5jYDV7wvNDCnGXR3rHVSg87dP7ChoczKnGEVDUxN/EmljSonL42sLr62FtQVcb7vpuX3x9Oa7inEg87E7Q1r+c5vOhVb7uwfa+HOTbZsqU4O6Zz035xnFzqsOczcboZBk1KMyxAigpXouQhOx9OEhFbjphQzc4RK7lYV9UhOk6BgLaMsQKdesAXhMWdsF9mqoY8ASMSwexye0L75ZQwml3VgJqsgGJxNXmSzvL9bhCdJl811pD+Rv9FidNJXV+iwoWuyvJBoFarcnYHBx7Al6UniKvQYQ3xOtB8ndzXyw4/e6euD9g+c3+AP6ofJQ==",
+  "URL": "https://wiki.gnome.org/Projects/Folks",
+  "LICENSE": "LGPL2.1",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1583919728",
+  "PACKAGER": "Jan Alexander Steffens (heftig) <jan.steffens@gmail.com>",
+  "PROVIDES": [
+    "libfolks.so=25-64",
+    "libfolks-dummy.so=25-64",
+    "libfolks-eds.so=25-64",
+    "libfolks-telepathy.so=25-64"
+  ],
+  "DEPENDS": [
+    "telepathy-glib",
+    "libgee",
+    "libxml2",
+    "evolution-data-server"
+  ]
+}

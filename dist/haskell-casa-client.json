@@ -1,0 +1,38 @@
+{
+  "FILENAME": "haskell-casa-client-0.0.1-63-x86_64.pkg.tar.zst",
+  "NAME": "haskell-casa-client",
+  "BASE": "haskell-casa-client",
+  "VERSION": "0.0.1-63",
+  "DESC": "Content Addressable Storage Archive client",
+  "CSIZE": "52155",
+  "ISIZE": "198323",
+  "MD5SUM": "b747a5237526fee062d44831beeb466c",
+  "SHA256SUM": "211c7f533604e14e7eaae585e71b40d9540ece7055e187ec03ef7e7b113b28ef",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl75750ACgkQeGxj8zDXy5L9hg/+IHdDtH/fJNOUhvpjh2fsM+8IOURS/Mtyo9awlCQOjg7CeYJ1Eq2hGyE1MKnurRQOV7AyXb2oep+LHAquxAUVfnGJgRMJ+z2kBH85sCEhEzpKPgjnwNZ3oBP7ePSGWF+Wz5fIKDNanJNgDUHsHmqWsvTmTMduoOC3jeUPEY7900vAagtpfkwTI0HwvEy2Vfijy7N7zyIB5sKei25UVM8FN60g3kTmJz6IXotbSiscegMsuxYpifsARsEzCbp3C7gh+NvKwls7pYGRatYFTiWE6SOsfLSFtiKC1ty2ugJi0bZ2E5DABeMaqs2EySM2fylU/eW81gT7eyY/sZUerQyfkMfJjH80T9ZlmyJhdTk9aV9ZBUU8HRgQrNRqe+QS8SND/iEbOQBPtI5/J1DWewDvaW3d+i/cFLSX/bpaWHylZThFuMMf+ntOJs+bwnVWR+EMP5gwOrXoKq02t85tZ+NVvplpkx7cdAJgTm6wueBuqkjGMnumYzYOqUrYEypwHbhS3cc4XzdCOM++oaXNclzlnTf3G19K0pNa4IWDJOAecFsPvZvxsDJMHBacfWifoYw+zGDMng7IiuKrygP6XNoDcK5gsT5jP+pkyMTXNobPPWKB2EiiPiove9/C3KQgJy7DRVsR+qm6cUcucMfKJdJgyz2d3e4OtFcjotboufjpVzs=",
+  "URL": "https://github.com/fpco/casa",
+  "LICENSE": "MIT",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1593438078",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "ghc-libs",
+    "haskell-aeson",
+    "haskell-attoparsec",
+    "haskell-base16-bytestring",
+    "haskell-casa-types",
+    "haskell-conduit",
+    "haskell-conduit-extra",
+    "haskell-cryptonite",
+    "haskell-http-conduit",
+    "haskell-http-types",
+    "haskell-memory",
+    "haskell-network-uri",
+    "haskell-resourcet",
+    "haskell-th-lift",
+    "haskell-unliftio-core",
+    "haskell-unordered-containers"
+  ]
+}

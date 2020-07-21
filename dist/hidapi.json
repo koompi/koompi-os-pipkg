@@ -1,0 +1,23 @@
+{
+  "FILENAME": "hidapi-0.9.0-2-x86_64.pkg.tar.zst",
+  "NAME": "hidapi",
+  "BASE": "hidapi",
+  "VERSION": "0.9.0-2",
+  "DESC": "Simple library for communicating with USB and Bluetooth HID devices",
+  "CSIZE": "26630",
+  "ISIZE": "89649",
+  "MD5SUM": "ed5a7aac2126b4f83ad35c3fb81ac893",
+  "SHA256SUM": "212ba95669496a7567b9438356e48cdf6cb60d083eed16b4e205e8973284c3e1",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl8EfhwACgkQeGxj8zDXy5JGAw/+MmTyDLiT9NIANDKoINvkVWtk7IZwVLhjI8LBxQkhGcAbn+x3svkOo0Fcd0HTdPKl/4c46E5uZwWAcPsECL6QP9VW6cNKcPNxL0YE7Yw43IMbza4pJlyk29hAeWoTvO2fPQ7StVnQRh0IQVCKQ3zUPE/1pRzHCVvUlJpYPrvWOnTEQRpe5l/Beztbd5Ud5QWP6c98LxMjwKThX3DWvl7ffEnzRocreOuUufHAEbEgzy6pkRzXU0dqW72Jb0QJzhlwUgkY0Gz2RMBkKz+APbvUzTynsNNmWUP9okqXC/dhISszh32vgoPtKZbB1GegH25kPb3TBVP3QwAc7lllnDKB9uBgJz/c1+myE2f4nUhNz9LtvEITS02PjR4xrmow40n1aXDJ7ETUcUGYyDjeIEoak75w0RC6ureLkC4WkOUDHHhhPTj758w/cY23vtwEVs/WozyINebjQHUnAZjopCeQpz+IfOJ41wlk7Ow/ObejFw0VRjanGKr58KMio3ZJgzs9BQzrDCXte6KnZqhrqifh6n+cpHtQgiXRN3mypDyl7JAPtDFzPZ6uBoLXml+khs+I2R3+UahaFS9+1Ej/DQAFMmmAhe0qux5Zv66SJeAdxsEpyIcu6jhvXlUV4MQCaVPsCJgvMS9kTfYhd+E7a6GZGQ7X9rlYBv5aKTHrp6wr+6E=",
+  "URL": "https://github.com/libusb/hidapi",
+  "LICENSE": "GPL3",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1594129773",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "libusb"
+  ]
+}

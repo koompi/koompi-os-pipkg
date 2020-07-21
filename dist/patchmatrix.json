@@ -1,0 +1,27 @@
+{
+  "FILENAME": "patchmatrix-0.18.0-1-x86_64.pkg.tar.zst",
+  "NAME": "patchmatrix",
+  "BASE": "patchmatrix",
+  "VERSION": "0.18.0-1",
+  "DESC": "A JACK patchbay in flow matrix style",
+  "CSIZE": "253986",
+  "ISIZE": "631870",
+  "MD5SUM": "fa35a1b39b9823a698795665ad40e379",
+  "SHA256SUM": "f09cb73f24c4a2ce39c2762e04f629657e7e126d50d918b905b70e7403d803fe",
+  "PGPSIG": "iHUEABYIAB0WIQTH54SUZv4jWDQ1iDdyWHNLQcMVSQUCXpS8QgAKCRByWHNLQcMVSdvKAP4q1eVAuUR1eztn5rQ9Plt7OZCHKfH2o77KFSIXOCiuxAD/ZF6om5eC3lXv9LjJ+zMc/yQ+WxRQBib/xGTXp48BsgY=",
+  "URL": "https://git.open-music-kontrollers.ch/lad/patchmatrix/about/",
+  "LICENSE": "Artistic2.0",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1586805711",
+  "PACKAGER": "David Runge <dvzrv@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "glibc",
+    "hicolor-icon-theme",
+    "libglvnd",
+    "libx11",
+    "libjack.so=0-64"
+  ]
+}

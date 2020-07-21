@@ -1,0 +1,23 @@
+{
+  "FILENAME": "libreoffice-fresh-ca-6.4.5-1-any.pkg.tar.zst",
+  "NAME": "libreoffice-fresh-ca",
+  "BASE": "libreoffice-fresh-i18n",
+  "VERSION": "6.4.5-1",
+  "DESC": "Catalan language pack for LibreOffice Fresh",
+  "CSIZE": "3145317",
+  "ISIZE": "23037543",
+  "MD5SUM": "025bb6558283cbb4a9b3afbde8f4d17c",
+  "SHA256SUM": "41f1b6194dbbaeb8ba0054add53b37d6be4ec545d53c9810ad6a02ab108c7c97",
+  "PGPSIG": "iQEzBAABCAAdFiEErcih/MFeAdRTEEGelGV6sg8qCSsFAl7+Fv0ACgkQlGV6sg8qCStpvgf/d5NbGPvbF5O0AtBsLgMhFZ4efi6NxtGAwSryE/DWdx8xUa5/9Zf6rnUmn9jTrZALY7a0RD7RyGZgPrJ5p1zDZpvUNXbKlT6HGpgv7oN4u+znNDyuxjKuqAP2sNo6o7fyeMJEUo4XPCQvrKOYHMvwr2GZXTT3noBM06z3LZgOQ6LN/RCKNB+34QeHa365xXXwed7F3sJrnH7sxf7BP+l5NDf/AHRiQ+vxaLf7aTUHnpnYJEikoJa9xZno64LPKamKOw+WWfQPj3OPkwzx0ratg2P8dpccksWWD0yfGXiLvFtX+bzgmL8QspaLoWduMvqaaajYpc4vDRx2F60keIgcCw==",
+  "URL": "https://www.documentfoundation.org",
+  "LICENSE": "LGPL",
+  "ARCH": "any",
+  "BUILDDATE": "1593700315",
+  "PACKAGER": "Andreas Radke <andyrtr@archlinux.org>",
+  "PROVIDES": [
+    "libreoffice-ca"
+  ],
+  "DEPENDS": [
+    "libreoffice-fresh"
+  ]
+}

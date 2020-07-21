@@ -1,0 +1,23 @@
+{
+  "FILENAME": "talkfilters-2.3.8-6-x86_64.pkg.tar.zst",
+  "NAME": "talkfilters",
+  "BASE": "talkfilters",
+  "VERSION": "2.3.8-6",
+  "DESC": "Filters to translate text into dialects that GNU finds funny",
+  "CSIZE": "347199",
+  "ISIZE": "1488228",
+  "MD5SUM": "975a12f88a44c42629b05b1f12a3af62",
+  "SHA256SUM": "3405fb0e4c3beb991c6c6294cc3bcaf3e1c59179e1802ef196b80c44876a417b",
+  "PGPSIG": "iQEzBAABCAAdFiEEbqPz87kIJjKpy+kx1ToERbR6DasFAl6/uXQACgkQ1ToERbR6DavVWgf+Iw6l1WSn3iCIe9y0l9I5JHlXkfn65vjYvubYWugpYpaGuEtr/Kd/4D5rMpRypiZCVdFQdNjpUK3RmR7YJaMfThxIkXdTiN/EjYe5Ge+9ZXG0yPsKHdEZRrD5V5Ojau62X2UwXZZnGTgFkTAMOYQ4DsbCCoSYLGFZ8XK8qbby8quMx83Q6tOWFD9snTkjvhOpe+LfmnWtgd8aoO+BssVX9UjfaR29IPCtHNz/sNsOmOO39FWy5ZY0W8o0oIBnfhcCCc2Z8e1azRuBxl2f0HJWOw9o0tTrEwBIVdzJWOq7SUV2l5Q9nH/g6jo4VKIx8N9QZqZKPE6MGMkInFqx/oWehw==",
+  "URL": "http://www.hyperrealm.com/main.php?s=talkfilters",
+  "LICENSE": "GPL2",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1589622606",
+  "PACKAGER": "Connor Behan <connor.behan@gmail.com>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "glibc"
+  ]
+}

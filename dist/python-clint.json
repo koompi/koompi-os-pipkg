@@ -1,0 +1,23 @@
+{
+  "FILENAME": "python-clint-0.5.1-8-any.pkg.tar.xz",
+  "NAME": "python-clint",
+  "BASE": "python-clint",
+  "VERSION": "0.5.1-8",
+  "DESC": "Module for developing command line applications",
+  "CSIZE": "48156",
+  "ISIZE": "159864",
+  "MD5SUM": "170d96848c3220667f2b88fe918afe32",
+  "SHA256SUM": "33d01597876c0a531aeedbd1d7de9984e697acb74b8fd8fc66c1b2125713442a",
+  "PGPSIG": "iQEzBAABCAAdFiEEhs/8qRjPOvRxR1iAUeixSKmZnDQFAl27HI8ACgkQUeixSKmZnDQ1Sgf/fjf9ZFUmsnErciMU6xZj+BDlP2Mctb17RPnN2H0EIJwpfs+HEK8mmFmqRazbLkNazS1UinCinRXxOll7krGx/tnQbyhXRRMPgCKh5/d1BIuc9RAqcT630ES7YINK1Yxip5VPV9Mbs/NueVFFaBQqj3OqzPLJvIdXclhffvq2QrYEuNvlF5YkJop3rAYUeU2NZ69KyMrCcUYzL3wdrKkdoFWdqbhDR+fEmM/lpJE6NsZ7vwopg0nxjrTnkOLN/NrqW2Hsv9BExC834hhkzDfwDaOTRDoPK+H6gYP0Cf35KaXIYHyyh/Yk4VdxoxWRaUDPjpInHunuFkiQ1hs1cSksfA==",
+  "URL": "https://pypi.python.org/pypi/clint/",
+  "LICENSE": "custom:ISC",
+  "ARCH": "any",
+  "BUILDDATE": "1572543603",
+  "PACKAGER": "Evangelos Foutras <evangelos@foutrelis.com>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "python"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "FILENAME": "python-ewmh-0.1.6-2-any.pkg.tar.xz",
+  "NAME": "python-ewmh",
+  "BASE": "python-ewmh",
+  "VERSION": "0.1.6-2",
+  "DESC": "Python implementation of Extended Window Manager Hints, based on Xlib",
+  "CSIZE": "11100",
+  "ISIZE": "51751",
+  "MD5SUM": "467e30579ae511a71a3e8d364cc3c6b5",
+  "SHA256SUM": "ea818a6d1b57869114d9856b17ce0a1439ce97d47c303858b5efe31c35642ae9",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl2/7HQACgkQeGxj8zDXy5KRrA/+JMRcJlQxllcmHUxsvyQd3KNtm4/8YvFQmt0xzuqLYCaATRTb8W3cYWTv/Ke2ZixHqVEINxleKe/ov0deqgOmdiYlK2RNEnu8tjkwTg+LwDUi+rj/+4N8MXIqgmcKaSD/pNBortq+UnBFMyXBX9Wr1vODDrTN82bXjbXDJxpbfvIG+bwR7wdlhL4X44CKo6A8Qt4E39h+SMGN2Dhp7PEaz0wANvO69zj+qmEC8tgCWGnnUrNKyWpORIhadHHa63q6ni15+FqNXq4VhDtY22eFsnFj4cQThC4liFQP3Mz6FCjQFhXKQ+oHhfj8AUc+mGsudw6iLUumeWePHOxAa8hkIf+d++c7c65sLrw0srr60unegV3OUKVtZjBnwdDHFEFe+Yak3bGY83FxsostPVGYYXxkwH/ZG0qyY+CQISaHnocJKnLJm6SFSTVP1fyd0HAxSNVGt8XWv+clY3MNPmCcnmDdxKsWmpY7u4Jc3X0Bt41iYFGb7AqzMWZizusnHPXxFEzYuzVJSbMYCxarn33QlGvDtNbZebndcAa07rM4ePXqqmJWLl1c2cR9m+6+LxYnrbDfmzsIpfwb0IPnXtVDiOmTVATijOjpzRW6/b1Cdz8VkNDnip/azkHJxP5QlJ4f5eW3WIKv/2CeIu/SOL8tCeypb6TlCGRavF1/OJHaRhI=",
+  "URL": "https://github.com/parkouss/pyewmh",
+  "LICENSE": "LGPL",
+  "ARCH": "any",
+  "BUILDDATE": "1572858904",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "python-xlib"
+  ]
+}

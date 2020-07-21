@@ -1,0 +1,25 @@
+{
+  "FILENAME": "gobject-introspection-1.64.1-2-x86_64.pkg.tar.zst",
+  "NAME": "gobject-introspection",
+  "BASE": "gobject-introspection",
+  "VERSION": "1.64.1-2",
+  "DESC": "Introspection system for GObject-based libraries",
+  "CSIZE": "1195995",
+  "ISIZE": "13488533",
+  "MD5SUM": "99c36879de87897928a93c714e26ac74",
+  "SHA256SUM": "daf8d1ba905449434c7be88dd4d85c95560a3524410542469b820d33cbd444b1",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl6N/boACgkQeGxj8zDXy5KfZw/+LxHaYT2F63FKmctu466BKJ8H+a6RbVR5NpqAzBXnDPfKMLMS4AtrfIuGlm2l9T0KvtJeoDcg/2OOAV18vDhnC/sAZSePHNSVIBHqjD6B8+8zCNCvw0K9QE0J2z8wHYR8zhBsE6bTYtKMaYk+uMnarj98SJUJ7VruDUTlUPzKZ2wB9m4+EYK4iRAf67+7VkC+mQegh15FJ1ronWfslzR2nCd7duCAtz7FnZhuzpKCD+AR6M8vrplFAov4woSYSYRutDQ/GzvHuodjzI+eNvXhuid7KkSAQ7vBDezCZuDh6K/Ag6pkNSJAx92Q2jXFdl4fjk3aqfGuEZjVXHtrnynBEhIng6fpk2RcacEs8sb7yo1GwBl5Y7yFnAa6EUsbonz+9VTFLaROaw0UqEHKOvl2BPyyzbGrk0g7+Wlm0PJPoKHnIK1oY5AZDAiaIa/kGHN+OcCcOZPPOIw6leiDGLWhw9CBMoaDRyAURjt4KJJ92uH+gxYYLF4TmQjz8y+ZK/ILS7ltGgIFQ9cueFBXuy06ZQRCgVvQt2vvFWtMGEkrFsGuakwQ/u7d5A5akJBlEBH6IrgvNM8WOMWP3VkemYDtqAMs82UdTI3Nlfm3SZlPHYimdTv0ZUi6qjofAFx0oj1cL8COBsO/gBcS3xhx+e/OhVtoyAmF+JLLWqFLTq/omFI=",
+  "URL": "https://wiki.gnome.org/Projects/GObjectIntrospection",
+  "LICENSE": "LGPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1586363752",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "python-mako",
+    "python-markdown",
+    "gobject-introspection-runtime=1.64.1-2"
+  ]
+}

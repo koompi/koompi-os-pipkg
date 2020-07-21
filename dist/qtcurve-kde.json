@@ -1,0 +1,25 @@
+{
+  "FILENAME": "qtcurve-kde-1:1.9-4-x86_64.pkg.tar.zst",
+  "NAME": "qtcurve-kde",
+  "BASE": "qtcurve",
+  "VERSION": "1:1.9-4",
+  "DESC": "A configurable set of widget styles for Qt5 (with KDE integration)",
+  "CSIZE": "374959",
+  "ISIZE": "1152621",
+  "MD5SUM": "4218021e8450d5a6a6673072c9df3c9a",
+  "SHA256SUM": "b9b89bbebe0d916964a9738d0cd2a92bd7aa16f71787971e894b9db820b290ba",
+  "PGPSIG": "iQEzBAABCAAdFiEEFRnVq6Zb9vwrc8dWek52CV2KUuQFAl5DI58ACgkQek52CV2KUuSJ3AgAguO5H72maUtEFOgt52fvvpbA5NDEEqcIXBEdI3zndwghxzSZxOEmp8ykHd2Nf0nbKs3otNNGI7LCxcPi0TEBbgWhMwX7q4eEVhyGyeJA5ge8ksyzNWGcQ+dY6Hy5uafFYjQD/Y10qLJJNksvZmUBdY85PF8EAZTFRoQFBihUITz2qQZpyjOw8l7iDusYWA4yoohpc4Pnh8JAyYMpK8Ygcb/6LDnIaoQfEB98vlz03ZpBIf8X4xumBf/hslVEADTadVEAinbtlIYqhn5rtQ3CyaC/ndrylanw2uJClhh3snpQzRapV/Hbbce0aTvdxNeGxMwNdZGEK6fbo2OHxUltKw==",
+  "URL": "https://github.com/KDE/qtcurve/",
+  "LICENSE": "LGPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1581458228",
+  "PACKAGER": "Antonio Rojas <arojas@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "qtcurve-utils",
+    "kdelibs4support",
+    "frameworkintegration"
+  ]
+}

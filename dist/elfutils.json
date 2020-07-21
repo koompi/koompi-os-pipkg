@@ -1,0 +1,31 @@
+{
+  "FILENAME": "elfutils-0.180-1-x86_64.pkg.tar.zst",
+  "NAME": "elfutils",
+  "BASE": "elfutils",
+  "VERSION": "0.180-1",
+  "DESC": "Utilities to handle ELF object files and DWARF debugging information",
+  "CSIZE": "634708",
+  "ISIZE": "3709357",
+  "MD5SUM": "a389e8c09baafe1e05e4a31e326c3dee",
+  "SHA256SUM": "dedabbceafe011411838dd975ce455202e6bbd3a25257a6e1280ccbb3595cbd8",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl7l/LwACgkQeGxj8zDXy5IEARAAvzqED6hkioDNgtKMHsvqI+82wSYvIg5dU9lOUSG1T2IZgoJEozDXyz+IiW+JebhN9Y/+/ARAYkoZO9Ek8CLqRpGqRC2tfPGUCjG5xX9NqdacJVwQtQNgCmcCr93p9a0mL6ZQLPrIH+HHmnuvyKpjs1+HTaAsdfp/5DYNPqmMw2Jm5iMVNAnRlwjDIPIspJUYDKwfQpJvZMR4Ge2qeV6J1B3jlAofv3kn4YJc0x/qEvH9xGhX9rrTNzR+dlsRgl9fjKxNT8oKkn8IWE5a9tVs+GXKeWR4S00DFTfUkVrEXEkJNBM7/9Ag+WB3x89blFFZjYlKDltq3a0VAylmZdw5DYvG8GkElkoTtucp1bv9amR1C1gdUgwayKx4CaTxfWe7flz6RlJAJWQxUB7kZFOJnEtaOhN5zIn8wWzeAVTFXAEV6S/cUtt6f0+LXe+nNRU/IcK63xlkkSapACi9zemjzSZf0DhuokoVNaaDFLWchOzPbLDPK3JmuAacTSHuDFc8+vt39SQqJ2aNVRfKZLNyEh0wQSSOsuaN7sHUsfykDebedeQCtGd8pEqWq3wGEUOuZgXbcAYg6LKqszsM1JpvuBFTw3jplK9lbckIehMpRwos3HMOwmLU4a+UgBRCF1dOckXxjiwYHyovoucje1dHZK9X1gREfnrKv7gyw0k9Dds=",
+  "URL": "https://sourceware.org/elfutils/",
+  "LICENSE": "LGPL3",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1592130564",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "gcc-libs",
+    "zlib",
+    "bzip2",
+    "xz",
+    "libmicrohttpd",
+    "sqlite",
+    "libarchive",
+    "curl",
+    "libelf=0.180-1"
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "FILENAME": "python-unrardll-0.1.4-2-x86_64.pkg.tar.xz",
+  "NAME": "python-unrardll",
+  "BASE": "python-unrardll",
+  "VERSION": "0.1.4-2",
+  "DESC": "Python wrapper for UnRAR DLL",
+  "CSIZE": "17248",
+  "ISIZE": "53901",
+  "MD5SUM": "1c35abd44913c75a45af4ad0e5487cec",
+  "SHA256SUM": "710e458707cd0ef58682d61fb24dcc8a834648fa1aac1ced6ec27997e8e9c8be",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl2/wU4ACgkQeGxj8zDXy5Jjog/9EflNcqKPJHY9UQHiK1NzX75isWXobtoz+zqzZeeTHjYx44avL5cOVB8e4pGvcoWzafJ2DKXQTFpevLcGMaAvBJoK3+PnsrT7F4ZQG3e/F/SnwWGnxW0s4k63sAP4r8XWd8xcUpJVhACFpQRfnX92CDJXizCDRPXPv0D+irpZzGclOZrJ1dh9uFeDYDULLFb+GnnYSYYNlmk5qg2RuW36E6teF5ccIiiqItPDXszTigjQCW8Gt304ZAi3IzhQjbSAvJrhZRlvOydwh5RUp5VoL0wxEH8LmQQU7kF0QyUtIf05kXnlj4pnYDKYvD3vh3roIHranXj3c/mBb2bcJ6fHzTGeL2QVDdWu4PpKEIPC9wRFOA6RAyz+39CpFrPjoRGcKa8+ggFeazWKno+McVX07jbh46kVwYGUma08oFoWaHjA1KUT2r15ENHaiCkCGT8RKwv7LovOzzlIGKm+pK11kuzCgraSu0lUa3zQwwGHshX8IrThXSw+ex3c4m0l7OEstxNlLZG4RgGVOa0n+Z9TQxfpWVJz/N+Qg1afRJRpHceEHKzo9RkV3f7CqrOEynVw+CSK5Dn+Y3JqvYPBBLrx7cyqs8srNqNbbK4lqKD95s7FQ7V5qfqiT6yQhAmRHw+nuxtOF8Lxgjs3KMixX4o6PmNTV9f6X1LHUpsxf/Wzr2U=",
+  "URL": "https://github.com/kovidgoyal/unrardll",
+  "LICENSE": "BSD",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1572847825",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "libunrar",
+    "python"
+  ]
+}

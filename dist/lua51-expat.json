@@ -1,0 +1,24 @@
+{
+  "FILENAME": "lua51-expat-1.3.0-4-x86_64.pkg.tar.xz",
+  "NAME": "lua51-expat",
+  "BASE": "luaexpat",
+  "VERSION": "1.3.0-4",
+  "DESC": "SAX XML parser based on the Expat library",
+  "CSIZE": "11016",
+  "ISIZE": "29696",
+  "MD5SUM": "d2b169ed493564b2d8973eb7b3042117",
+  "SHA256SUM": "a8c18a21011584c8a6431595c0658e9293b7f9e14932c9cd636ceb0ead041961",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAlsVQ7QACgkQeGxj8zDXy5LtWQ/9G5QnzZN/7Z+6RAPv1kf2zeJvEWru29XoLAENrkMtVucsSrmNe6l+DosAZnVKh9GLhiYRO4D2AWPDMgdWJLuHQKT5T8xMyeiUXxvwDS7s+UGcomRDuAUtaClhfgF+Mn6baU73QzBGSXUE8bpe3DJUpCgTypvCobimFPH3kJqsPWOXKIrInredSoIMaIQNnkqN/JBEIryjzB4mlK3nGUBvJA6r7aAW3d4Vw0xrKEBv+GYHVAeN2KfmBaWpaQ9wJS4MPfAQwFmOrgqWJxW+QdAR9tnQLZAD8ehImDww/+fueyHakX7Bc/rKZqsXnSXFQnxYuuVqS/4dHtpsNozMdE/fQenjS1sDwhRPdNQsSuwDRKU4IDAzs7GtxNpDRwa4hKSajE2a6PEJVX/nCSiVfq6pYXH/MCgYKBRRDcpGDmhbmrzj73Fh7HI25YFwoW5C6740cB6GsCeCeqNi4uK3GoOt/6DgHWx2Js9NRjjMX8b57ZVvELyDwuSMusptIfMaa/bZsDYJT7vqMVUJXgsw7XtlCzuauGQYao+9bPBpKT3CDZgn1pdxKHsyZjxFw7v2Gmoef8x8aMmg274nW88g47cRs8w4OXvy3e/pmAzkVy8OhH3vYMMGot9PdbhSnIqZAmo3tgHqMspcM4g+cVaCqcL0OPhC4jF1IXH8m8oB085cOV4=",
+  "URL": "http://matthewwild.co.uk/projects/luaexpat/",
+  "LICENSE": "MIT",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1528120218",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "lua51",
+    "expat"
+  ]
+}

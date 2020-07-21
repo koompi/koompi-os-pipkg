@@ -1,0 +1,24 @@
+{
+  "FILENAME": "gambas3-gb-cairo-3.15.0-1-x86_64.pkg.tar.zst",
+  "NAME": "gambas3-gb-cairo",
+  "BASE": "gambas3",
+  "VERSION": "3.15.0-1",
+  "DESC": "Cairo component",
+  "CSIZE": "19185",
+  "ISIZE": "66396",
+  "MD5SUM": "b879df60a379b179576609f19306cb05",
+  "SHA256SUM": "758f249d731f29de6eb3a1c1e89b475e991c2a758c92bd6cbe89625fa99a19bc",
+  "PGPSIG": "iQEzBAABCAAdFiEEU1+MAzlFDwVKTSgnBglqatHO3awFAl8C7RMACgkQBglqatHO3ay93Af/ePo6NJCyTGZEReRWCmb6ltffCDcBQx6QtCYS/jCcf9BB03B7eTGSUgm63Mg1Cf6yqioQNWQzJLwru6fbabvRRnDOFVEI786ICXVbtpW9U1sz12/RrGXKywO9k61F6KO3o8V9s7BOoQH8Wlo+kWq6CdtF25v0/s3qR8OsnSoct60FzWu5GT5yHB42ErzkcfKY0G23C4R8TPTkR9sY+ncjUOFzN4G2nuZkWcOPBhTeZOwr4alIBoE1tdEPgZecqOdZoSranCsqxyJNnXMEYdP69a+EG+Asq8UOFXVYV4h35pLgvKHjPTpxAvLX/U7ONufI4u4wKIThjQkFjRg69graIA==",
+  "URL": "http://gambas.sourceforge.net/",
+  "LICENSE": "GPL2",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1594026389",
+  "PACKAGER": "Laurent Carlier <lordheavym@gmail.com>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "gambas3-runtime",
+    "cairo"
+  ]
+}

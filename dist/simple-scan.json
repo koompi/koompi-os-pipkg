@@ -1,0 +1,27 @@
+{
+  "FILENAME": "simple-scan-3.36.4-1-x86_64.pkg.tar.zst",
+  "NAME": "simple-scan",
+  "BASE": "simple-scan",
+  "VERSION": "3.36.4-1",
+  "DESC": "Simple scanning utility",
+  "CSIZE": "940280",
+  "ISIZE": "4782319",
+  "MD5SUM": "859cefffb3d0f53e223109123d9da668",
+  "SHA256SUM": "abb290d4ffa9a890642cf01174ca444053c0d099583cee02744c62ec900312f7",
+  "PGPSIG": "iIsEABYIADMWIQQGaHodnU+rCLUP2Ss7lKgOUKR3xwUCXwiqGRUcaGVmdGlnQGFyY2hsaW51eC5vcmcACgkQO5SoDlCkd8eXPwD+K3NSG9MjGRJeLTwGZm+y8PydzWVSYLBqEO4qPUQfwUwBAMyma12ClczezbLaimHhKC5r+4R0mBVc/E7ZOk3v34MA",
+  "URL": "https://gitlab.gnome.org/GNOME/simple-scan",
+  "LICENSE": "GPL3",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1594400739",
+  "PACKAGER": "Jan Alexander Steffens (heftig) <heftig@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "sane",
+    "dconf",
+    "gtk3",
+    "colord-sane",
+    "libgusb"
+  ]
+}

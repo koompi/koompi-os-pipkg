@@ -1,0 +1,31 @@
+{
+  "FILENAME": "haskell-yaml-0.11.4.0-23-x86_64.pkg.tar.zst",
+  "NAME": "haskell-yaml",
+  "BASE": "haskell-yaml",
+  "VERSION": "0.11.4.0-23",
+  "DESC": "Support for parsing and rendering YAML documents.",
+  "CSIZE": "182356",
+  "ISIZE": "898328",
+  "MD5SUM": "06a12aa06b9d878129b5b92f0a8c010e",
+  "SHA256SUM": "d79f21feabd98d7b7275269825454467ff4e26589c66d4d4f0e1c137962596e6",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl759LoACgkQeGxj8zDXy5LIhA/7BmWozorbJFG/5BUl+Yd9XGn3kwApdKDjBQPkkCiIaODCZb33E0FbjZV8RemgnZb2mOUCrvWpaB5FoG8cDjncWkrju3ZyF0zsDosOW5Rbp48Ez4uNYF+/+a92f0YhOkQNBL3Ogde9ULTMQp65+7t5iBnu4p6j3v5yonAO8ehUgL/UapCdx+Yx9IJgISY11MtE3apD2IGdK+M38Er0bWhKT+PoF2U+qahbs5m9N0S/plGXpVBTAKU+tF1EEc7qu54YzhCZ2gydqcwEqaCyYA00KzZVSw0ku5GGQTUV60cc84mS0RQtx8a7TXXUbSmDrOEh71yGnnNTw9qxoeR5AhM2VHCIu8kbu6EOIHyHxd04z3u2jaDQcivwD1hcM0xPpGQByHIkuqrp6z8HdGAYXubkDy4dJUUrJDCfHRizDt+cLBE09dA28QIKt61C47oraP/Bmg/4N+amEI+ngntVrJMJb4w9XyXva51j48gNqpd0kBHVfDRIZzsL9dYgSzchy4MmXYL+0Y2rmMs4BdvO8ApBh4/2f/Fzwqh+NgBHXxLcwoK5/H77xyD9cncOiA4s6dj6wtpbosevn6eNrOX88dvwzaE+2x66ejf65mquhJHsHsn/awhSLnWjb7eyx4PJ05uxI4zX2nbXcvK46MO9UaCEZl3B9X8K8i1z8sW3VaQ3x5I=",
+  "URL": "https://github.com/snoyberg/yaml/",
+  "LICENSE": "BSD",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1593439370",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "ghc-libs",
+    "haskell-aeson",
+    "haskell-attoparsec",
+    "haskell-conduit",
+    "haskell-libyaml",
+    "haskell-vector",
+    "haskell-resourcet",
+    "haskell-scientific",
+    "haskell-unordered-containers"
+  ]
+}

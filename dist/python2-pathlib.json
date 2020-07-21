@@ -1,0 +1,23 @@
+{
+  "FILENAME": "python2-pathlib-1.0.1-5-any.pkg.tar.zst",
+  "NAME": "python2-pathlib",
+  "BASE": "python2-pathlib",
+  "VERSION": "1.0.1-5",
+  "DESC": "This module offers a set of classes featuring all the common operations on paths in an easy, object-oriented way",
+  "CSIZE": "26549",
+  "ISIZE": "136617",
+  "MD5SUM": "232c33caa13cfdeb064965a7c6c0763c",
+  "SHA256SUM": "b804d726b3539079b78dcdc6702ecdb60825b1d98ca16ac3d973635540def521",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl8EfPMACgkQeGxj8zDXy5K/cA/+KYuwPiU+YEkfeYHXnnHaDzzJ1vHzme83frfr9OW7+nNrf+Mkl5YoENFmpuYNpuFz4tzg5lvhCfycpyOKOmIjo8Q7RT16mt5l8XMx9kPsYC7TmfDqEL5trE8gnMFxh3R7nXmnWg7JD/c+Nu6KVwNNUlRAp+nq8jmr3NN+yrzlwf+W/8tg4idhVS1oiqaqoWtoInR5FtZ/7K1SSocywqMniF59lSRqgjAzTZWUQ5CTo9gfdLEqExN3MXsaDjIEEM9SpxsDuZAH1hfPjx4xJcuADwPQZcu209yqiaTUqDNWouN169hbfWALVVpdgVivdOcWps2ELrlikPRopnyadzKtWdpLg6qc+eodkt0Cy0qQQEXSOkCc0SI/0mqyOBCgPuCM9+HEmOhC3gnAdWOAo0hhgCoTljp5Klio3/Sxe8C6gbDlX5F99FwI3wdmF72jTtcxzK4AwdxabBZfPFqsYkAdYX3U57+7GOx4EqM8TY9G5q7bI2pNmooyMEuZb5Lra1HrpoHRmFgv81o2n4A1f0Jkab098v3aM+FLCtUuihvpAkSvYg6ACS7AshBhZCXd2/wJKNgOcwih2aWnNLCNMfVvp2/kCwfj612CTJzzPNV/8+fIVDcWr7WzwWm5O2JBgqjw8k5qNW2ydbY8Uj0KhszaFRIpVSbESywB7U+sdEZQBlg=",
+  "URL": "https://pathlib.readthedocs.org/en/1.0.1/",
+  "LICENSE": "MIT",
+  "ARCH": "any",
+  "BUILDDATE": "1594129567",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "python2"
+  ]
+}

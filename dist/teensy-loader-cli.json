@@ -1,0 +1,23 @@
+{
+  "FILENAME": "teensy-loader-cli-2.1-4-x86_64.pkg.tar.zst",
+  "NAME": "teensy-loader-cli",
+  "BASE": "teensy-loader-cli",
+  "VERSION": "2.1-4",
+  "DESC": "Command line loader for the teensy microprocessor boards",
+  "CSIZE": "10026",
+  "ISIZE": "20141",
+  "MD5SUM": "58f3f7e9a496111895bd1f7f4f008b8e",
+  "SHA256SUM": "8790ae6effa7b49e09f6a5a0a38e87827704597d5c90a456c381358d1508665a",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl8Eu7UACgkQeGxj8zDXy5Kz9A//bVYxWKYvV6yEVl6+ADmUQ5zSMmkGfdiFxrjVJRiNM0Vqw+gAVo6JRwdQdQkZDB2LZYhdInGxgXBnudgMMkEPkFtk+dLm6330IDriyGImSfRbIDDCCzG+JitT1eCsBop8A1FrI+9FljfMaUbJcbWYctZBgTaQIGgevwT3gHYzdXRURHr7JHAzWgU15FJQth9ibiOzkODB3OHJTNNDGa8lKRveBN7vOgsIm1WCW1xzsCdiMNfDXJUQBkalpFrEfMsMnk3qwHncTqs++2Fd39VHjq2SiW0LFlsaG0gmyA6yLRxAZ6k7WTrphJlW0TXwIC+X2l3b7CIQi7VcKVG3JyIJhwp/64wBxGd52LIvHmr/HuozWlfIPUhhTrRm0panxul6AIpy3vs8uZvxk0p8+mQA7bgnOHfGXaxwWYqxpV9dVa54OZLxy94SxXClFT7o9P33x6KMP5PfAzRe5WlQcEb+DdKDrt0nv3GvdXaqakrs+ThzUEOL16GcBRdxQRPZdDzGsB/qZyaYN1E00la0Thwggs0oT3XHPNydFEH+DUfg1+4GTPgvw8SYLei5Hi0UcZi9R9WN0uTshZmeKJnTspxxGWuhVlbByxRQuuWzyHGDRRPGj/4zpOmgKOx4CAqaaP8SaAD1GghwEo0CrGt0IHOenHDd2zplw53xnBXP2xkXVVQ=",
+  "URL": "https://www.pjrc.com/teensy/loader_cli.html",
+  "LICENSE": "GPL2",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1594145693",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "libusb-compat"
+  ]
+}

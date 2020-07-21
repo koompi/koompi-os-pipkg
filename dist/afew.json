@@ -1,0 +1,26 @@
+{
+  "FILENAME": "afew-3.0.0-1-any.pkg.tar.zst",
+  "NAME": "afew",
+  "BASE": "afew",
+  "VERSION": "3.0.0-1",
+  "DESC": "Initial tagging script for notmuch mail",
+  "CSIZE": "62728",
+  "ISIZE": "207603",
+  "MD5SUM": "85cc8ce02be541c6fb3ebee7c61f1677",
+  "SHA256SUM": "fa22098b8164aebbb6a39430a1d7ed29cefbfcefaaaced1dd4c29d78a4e24e67",
+  "PGPSIG": "iQIzBAABCgAdFiEEBNw/sURf7KgTwn766k97MhqQatkFAl5nAQgACgkQ6k97MhqQatlnqRAAolrhAJL2h7uVJ6a9TRU5GUu3AHCEgYZ/w7i/QfUvaWKEhwTOCYfScI49oq8X0bMzJEKTU0hFJzz7ggcKQ+SDJZ9j2Ny6SVMACCgtSfIlPne7we7O1WaLfUbl6HtHA4B69M7scyQi0Wm4CYDlRhrsyHiAn1Sgel/cCZUOfrU9232fwib2NUsJ5NwL7e4AkU+IszMhkUdz9VAsTBempiB1eB5s6OEjssrlmDu5YPfCZQTGyzP2omK5C65d8I/iC+uSK81QjJrxpRwNkgaJcwDxpv93o2at8WntYa8jvI7qBc8U+y3ofs7OvLbe90TnmHQr9/osif8shR0Z5gkpcQMq1xoD2u1OBSGjyO+WnOl7D6XNp5mvyibIy7LENF69v+sBLWM+S4UDv4RrqAMT2S94O4t0gln3Pu+xOinq4N6BbwdwZlgWFfWKPMBqXjVL8UUWtrmKbPC1ePHKnQzxDa/nmm5gjjaL7ENpVOYaFMR1oYDuaaEsr7pxIwwQ02Owhs4r/Qee4VmLd4NntUUtEFpu+qallIx+xZ0jeIMmF5bGchbCwtb8sgxiTnBEFSIQ2hBpSfUIysARQOSfxGAQITl9H/On/ZQOvUC9/X1UPMclpbCrlyCDyMMTZvhfU1HOOqFpTVMgQhERnOPCAj3UPpdeqoTe76ciUe85XOpauQ5+SwA=",
+  "URL": "https://github.com/afewmail/afew",
+  "LICENSE": "custom:BSD",
+  "ARCH": "any",
+  "BUILDDATE": "1583808508",
+  "PACKAGER": "Daniel M. Capella <polyzen@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "notmuch",
+    "python-chardet",
+    "python-dkim",
+    "python-setuptools"
+  ]
+}

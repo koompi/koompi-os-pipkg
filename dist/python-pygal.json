@@ -1,0 +1,23 @@
+{
+  "FILENAME": "python-pygal-1:2.4.0-5-any.pkg.tar.zst",
+  "NAME": "python-pygal",
+  "BASE": "python-pygal",
+  "VERSION": "1:2.4.0-5",
+  "DESC": "A Python SVG graph plotting library",
+  "CSIZE": "179765",
+  "ISIZE": "986827",
+  "MD5SUM": "eabe6de988d3d05707441d2b85541054",
+  "SHA256SUM": "a290f962a92a36679e6ca8bcb2afef4244960091658036e6c4909ab89198ea3d",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl61SocACgkQeGxj8zDXy5JInA//SVX910TrUyH+pus68nnnVaJ2zP6Z4PEldlnL/EQ86CJ9wc5sfhaPo3OSRquce/Df/SG5zu+BxuYwYtSt8owf1OAXwUcGlEaVhGA9RgyqtcSl5uodcRWSc0UEkPerJuQPXfVscB8hQ4Ha7wIp+1Db7hkuFhRy6edmqkDgES6cbrdnif81jfMLI8q09+wcit+gX44zK1pNhnf2faj2WVqIB6sbkval6mPe0AlN5phjo0SC3fXSpNzSNYlW9lC270mFK2k4We0k5YAIMJH18BPXhoQf5esuOvE3jTR4s1zxjB30EcR+4i2o/t2sYtswhISMumOXWjdYyE0YQ3ileVkIFXbReBsj/nVIbl2185p24UFryc0g5skaVdOXgKH+Y+XgPN+QgqcnvNpWC/7Zb3Esyesdge2EbzX9BRDR5F1E5IlPj81MhKzpG5GqwPNRDk4JdcKxI5oSNm7u06pS4n+caVjlScEEZuI5JCTYzVBXeEjRZLkEr64l4xUqWCVMK9WKwW+WQZ8yvoRyCz3gu4VifniYTdKEZZfv7488zWLS0/9l9TtoGE/BffkpCIcOTEBwOfuNxesfi6TV1ArzSShWiXvwCQ/b9hYxMOAY6UGD9RmbFOGTztNXlQxhd//yKkDY1qkzkCaS7phxJb55db8G+7UVD57YLll1pppxP+Z3l+M=",
+  "URL": "http://pygal.org/",
+  "LICENSE": "LGPL3",
+  "ARCH": "any",
+  "BUILDDATE": "1588939145",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "python-setuptools"
+  ]
+}

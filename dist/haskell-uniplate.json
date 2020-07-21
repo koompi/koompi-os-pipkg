@@ -1,0 +1,26 @@
+{
+  "FILENAME": "haskell-uniplate-1.6.12-80-x86_64.pkg.tar.zst",
+  "NAME": "haskell-uniplate",
+  "BASE": "haskell-uniplate",
+  "VERSION": "1.6.12-80",
+  "DESC": "Help writing simple, concise and fast generic operations.",
+  "CSIZE": "249348",
+  "ISIZE": "1463658",
+  "MD5SUM": "65db61e3947ae31d84614159f903e86e",
+  "SHA256SUM": "2df71a0e163c7668403f3e0b9a144af5425d4f8dd40ee7506506e7a2f04cbe73",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl75MwgACgkQeGxj8zDXy5IJeQ/+PlIm1Kcn6ZJFyVo+ThFG9CP/P3riiCTRjB9eadZV+8ACaekNKogbDsrYGwCKX+b2kj/VtQq20clF+CHgPfJJji6IKYAhv7Ap2KeaBGp54jgTww8WhgarU/qu6gaFCRDDMJ5HN+J79RlLT+OjG83z7j6Uglb3EnHb5fOcyzg0EYOMq4IHwQmwNwpH74GWYx5hDG3kLoA8dYFt8IvFxrcTAsooSLWKHn7KoZ7hmJfP0h81k1YTkOg/hZUFTOC+pdmYHKBo7/P64anNcD84Y7ZIxpvXbvuDw4yOWPnIRGeYi5PS2+ptrR5xt5TYQj+3aE+rOBEpdLtX0Lp9TQYJXfTgH7xxympzIExAKMrBWoicMrE1k31nRpr58rIGjHtcQdoD8CYHz9sRwm6Cp+JcR2VK1YMHcKVkzgCqKcGbuF+5FWKCXeUcBAZAsmQXScHHlLTRpggLYE+5JesRH0TW2JCxrEy7SxUS9IUoiRvgvCSuAMV8hgBPwJDVs0uJvAri7KXLaD4AiEDwHMg/HNX7okJx27A6bj2jgk5SnnI7Zqb3+Rg10mnLTyg47Pmda6B/oa8PnYXrWKS0sU879CtydyJmUiFdc7sQ2OFYoTS7gsuWGtZbJgUohJOJ2v9fk+Kv+feUaOgWIRWYzUpQPZxYoBMmkMByGFC4z4kKpTuy991VSLo=",
+  "URL": "http://community.haskell.org/~ndm/uniplate/",
+  "LICENSE": "BSD",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1593389806",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "ghc-libs",
+    "haskell-hashable",
+    "haskell-syb",
+    "haskell-unordered-containers"
+  ]
+}

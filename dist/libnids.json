@@ -1,0 +1,26 @@
+{
+  "FILENAME": "libnids-1.24-5-x86_64.pkg.tar.zst",
+  "NAME": "libnids",
+  "BASE": "libnids",
+  "VERSION": "1.24-5",
+  "DESC": "An implementation of an E-component of Network Intrusion Detection System.",
+  "CSIZE": "26298",
+  "ISIZE": "51402",
+  "MD5SUM": "34860584884b51444ca73ab29f4c6a96",
+  "SHA256SUM": "362414711ae8cefcd06e11d7ac2e8d86c7200a5a27905b7316653a235ae939c3",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl7L0nQACgkQeGxj8zDXy5LRmg//cj+ysBZGbugOGaao0t82pQyW1MF6T6lVKv5BJclb4nSj8PPnWIXrGjcktJftLBsgsLo4mjZs7Qb2ErTvSpNTxWZiqlWUeT6qNGPPHV8CrGETvv1cOvxbflUQySYcp9IjcbcJc4xeQzvtI3RCl8ElMJkllaKKZ+F+BIFCixqfVJtVvUXcFgJ/uDKqMtIS/WFxza/1NFMlT2wXLRjbB9j+TimVwZGRFykdpSjLXnaa6olUdPir4PvVbb8ux6C4GfGbfckxesh7b6scxRFcklWVL1xTB9GkZPYBE7/7QmaB8bBLP1wFdLINiCXtoQt80adptgW7CWmbG5UTP74FO0fY+gpQ/uQf9v2mpySTF8pbnkinVujy7O1O72b9wHE5K9Y84DktdYazhBiquh8iRyFX1znHEYEbD9I7d99z1/SrqOv884SNz41Xaxz7B+VyVx2hAgjqiMDHiRvCVogw8ZnVGptMSb9qEuyREyEy+qsm15nVNUZ0Eb3pIqVXlOiLWfDQ5JCqvl6jatSyqDa4FFk1mNxqyGqmMA5saD0iJ4S/JbcntDQ6R+HrYpcBBSdNCDgZ0EQjrKLESsCTmNfPSw9btLKhGPF8A31RXcWjaj6ry/rBHTjab0OT1gxOKoXPLoEd+M3Jsuj3ebxoYeP2MHIKzzvWD+d0NhWjoNf4gN2+9nQ=",
+  "URL": "http://libnids.sourceforge.net/",
+  "LICENSE": "GPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1590415927",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "libnet",
+    "libpcap",
+    "glib2",
+    "libnsl"
+  ]
+}

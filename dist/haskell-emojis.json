@@ -1,0 +1,23 @@
+{
+  "FILENAME": "haskell-emojis-0.1-20-x86_64.pkg.tar.zst",
+  "NAME": "haskell-emojis",
+  "BASE": "haskell-emojis",
+  "VERSION": "0.1-20",
+  "DESC": "Conversion between emoji characters and their names",
+  "CSIZE": "672704",
+  "ISIZE": "3274342",
+  "MD5SUM": "d312748ad5a22f665517e854b36c2cbd",
+  "SHA256SUM": "10097b61b8bc62424c7bc7d8c2a5d38ba845a672915a1a3e955202593b1f04b0",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl75BjUACgkQeGxj8zDXy5JdExAAwJ1KpWrqsFf9jeIwFd5VfQVMCDxosMGNqQLY0xwNEUgU9PT7jQg7y1z8+2wbcSWaG9F4ry+7oFAfpMfuynIEe1A/PhLD92ZwoALJnxwroaaNWcfvVoDx5dAtkZBuz0Go5qc5u+rXXcgccdywfsXlsADy90J3cn6749D7dB3xlJ2BVXCEkBCFsXBJMM5cQ/Or3wSsT+SSgygUhp9J/f2H+CwFlM6ArXPjDunYFMNzsu9k2pEgXD54QnlDgEZSASI+fPvh9hiVV/VwSbtvwg+Y7efcwbLVh8jWHgfVhv3e6QybXAxvOB8Bqbr8JCUp6y3tXRu7Bke0lzYpl0ZJYUnnvX0vIjxTl3Fw7LotTmLPkBpUnKj/xFzdpgFcppyBZCEnGlv0jWLhSyLfh8l2Jf4D4uOLEi35KgITlDoZzzOjEpSgicEAwVyVL4tt55Xd4IZiFTDrbM4FwLbYVab/PFHJFkXSq/CX29/ZaJ80iKnh/w/cfyUjADmf9ryK30T2MPiJngUd7igYnPdgS5zvNK5wpsPNF1ljoZFSo7e7PHDd1Qp6kHFWBG4uBbg3XX6sU0e6azbhydFo3ADjMB+0+enywkCwxKttx1ji2bmzVJcogwuS37jSncYuVCHRrkbLrF5XtIc5s7+koPAyaxLHeKjwBP1maMRsOKvww8wAA2CXl3k=",
+  "URL": "https://github.com/jgm/emojis",
+  "LICENSE": "BSD",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1593378326",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "ghc-libs"
+  ]
+}

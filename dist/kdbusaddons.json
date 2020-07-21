@@ -1,0 +1,23 @@
+{
+  "FILENAME": "kdbusaddons-5.72.0-1-x86_64.pkg.tar.zst",
+  "NAME": "kdbusaddons",
+  "BASE": "kdbusaddons",
+  "VERSION": "5.72.0-1",
+  "DESC": "Addons to QtDBus",
+  "CSIZE": "220875",
+  "ISIZE": "507399",
+  "MD5SUM": "d8774a6abdac100943fb8d8b83a0a948",
+  "SHA256SUM": "4441dcd7e1bfa543652896e21233e4918412ce2fd1a067371be5bf60f789a984",
+  "PGPSIG": "iQEzBAABCAAdFiEEFRnVq6Zb9vwrc8dWek52CV2KUuQFAl8JYB8ACgkQek52CV2KUuQGcggAgk87IbC5r4gNsQA6fCm8aiicWjiyXeR+kVQulmQ2cmBwExYmKBABcfEtT5oTIXp2xq0fNS6RwhXxASMGw08FC5crgPqNRHWnYJU79RPdBgQDsaqOTAdeSy5aAezD2uAuFGGb0+QVDLcLpN3LE2aRFnAkqEmDgnczbEE4qgUotIg6lUEuTgB4Iu0kbfCKqGcLUtev3bUTMu4lgI8Apqw1KJXpTy+q96gRr579g/H5KVC2S+9YLGqIqJQVF8ckVs4rO9U3AfKpdCQJ9WdQLamTBFC87k7jxEOZp5as+A7GDfv48pLa3ojtNCTzcxjCHHCp6DzW7jvpO7MP9aDl4pZ6/g==",
+  "URL": "https://community.kde.org/Frameworks",
+  "LICENSE": "LGPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1594201108",
+  "PACKAGER": "Antonio Rojas <arojas@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "qt5-x11extras"
+  ]
+}

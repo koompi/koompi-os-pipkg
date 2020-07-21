@@ -1,0 +1,24 @@
+{
+  "FILENAME": "nautilus-image-converter-0.3.0+31+g23441ed-3-x86_64.pkg.tar.zst",
+  "NAME": "nautilus-image-converter",
+  "BASE": "nautilus-image-converter",
+  "VERSION": "0.3.0+31+g23441ed-3",
+  "DESC": "Nautilus extension to rotate/resize image files",
+  "CSIZE": "23963",
+  "ISIZE": "104395",
+  "MD5SUM": "59ef134a518cf5206ba06fe2b58b2510",
+  "SHA256SUM": "79836dcc07cf3d984977e0690439e187bc25b50221386b0e3ceaff5e25c90c8d",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl8Eg4UACgkQeGxj8zDXy5J7jg//cvntPWEPeIfz2Cdn0RrJaK9pD9iRolno8g3yTfKRAq2A8kuDev3k/Q67fmEzVq5LFXcxFs3iaIqfwMp1yzuM4/VpWgLc1e8BtH5sAnTvyB2upHg/K5pSEl0SyKAE0ktmYd200sYgtfpsn7oy1XBTkBpH8twXBWZXBOZ063wWGP52A9gPEwpkTkzSGWjRS9oew9YU8hQdh8WASdMEY01qzb8SP0l6OAFw7q8x30o2WYrpW87NP8PvZ4akgLTYEGdyHWf4Sc+SriC6w9moK6RC10qviCzAeSF6/xKLJAovmI7RcGfbKdxVgVXIGAnNrmVB+U78x4/707WgWInFznWuDNhOmpsvt8ySBcrz8jIxg+FTE1gbhsj6UyNbeAieu5j2RPyCyaQ5aTP52sA0drR8e5wna7uJXeIpb7Xl9iMZL9OCK405Ss/FGufV+OiWIq60vYfZ4qrvvhOVJus0KVuC1nIu7V0rVfD6YgKioTV68OVW52S0+F82OupuBDnnG1J2Kh75RjTlTQR37SffyHRIoi91v8yGQLLGWKq9la/mBFHoI9rikA3fv+3gXQSUWYfRT8U9P9YUC3YM3vhxuXh5Fbk1vChSn3Bm4m5ck2sSOuYTot/BZFGKq+FAGhggBkfe+9Uig9ug2aPJCnrQ7acdSZAUnTAK7GjRyzH+kbYivHo=",
+  "URL": "https://git.gnome.org/browse/nautilus-image-converter",
+  "LICENSE": "GPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1594131279",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "imagemagick",
+    "nautilus"
+  ]
+}

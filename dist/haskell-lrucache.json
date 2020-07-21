@@ -1,0 +1,24 @@
+{
+  "FILENAME": "haskell-lrucache-1.2.0.1-11-x86_64.pkg.tar.zst",
+  "NAME": "haskell-lrucache",
+  "BASE": "haskell-lrucache",
+  "VERSION": "1.2.0.1-11",
+  "DESC": "a simple, pure LRU cache",
+  "CSIZE": "62392",
+  "ISIZE": "324226",
+  "MD5SUM": "6aacaae8aad7abca4c353df9806063e9",
+  "SHA256SUM": "764de28bceeafe5b1ced1f8a05e2815facc2b0ebd943ccbcd67f1a3d124fa800",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl6hs0IACgkQeGxj8zDXy5JlcQ//ZzDdURgGVri1t2J3VZyjGJioUI9pWlhbEzZLkmDr+V0PTRNDtdx3jnzvaOt9d1xKtX2KetEEDnBA4NqxiramaFGElMRghL0A1PFlScO12ZFlFhWrS5Jv2+ApthVxzlCoQeU7n4VqUA7/UJUhDqLzLO/kj3PTDJFExA36vQvZxitk5jr8UemyHDp8mAB/M17nVIyJNhY0A+ex5Ow62nWrZoACmcxdSpRVsxPeCDF9ENP1v1+EUxYsVfZZXxPm5jl52a0Gen4vs2yHHpT737Ders+Vfr6V/FTlk5iLF4T7X7DKtbB81nxdCdhzddgjZ9PHifwqbtuZAZ0tDgBgS29a1SZCfINUkTdvOAmx6pmY6o+8sefLH38PI551+bZ1DRDWyv2j/OxMCF//hprcSe5HXRnkDpbjZyjI1mw0mXWLLysdHAFMhPT3sAVp7C/U45ZfBim5KaYYC0fW9S0SzftOVHTjpSmIigfapTHikgqrVcymgS0siDMAebFa/83YQ1PcFCnp+MAhygzFRfxczY3554RCOhc85sw5pASoUHF6Y3H+k4mSrTTI+OG/TEiapOLc1A3neaX2txUvjji0imprGfhLQxGyG5l38tbPvYfQPZZAKhYj/cgSlZVKKqk/MLIuvXpWKVi+S9/UG6h+oJ5hZP/X0OnQyhZ2lTkjOw6bvhM=",
+  "URL": "https://github.com/chowells79/lrucache",
+  "LICENSE": "BSD",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1587655392",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "ghc-libs",
+    "haskell-contravariant"
+  ]
+}

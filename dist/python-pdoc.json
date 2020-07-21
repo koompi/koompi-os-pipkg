@@ -1,0 +1,24 @@
+{
+  "FILENAME": "python-pdoc-0.3.2-6-any.pkg.tar.xz",
+  "NAME": "python-pdoc",
+  "BASE": "python-pdoc",
+  "VERSION": "0.3.2-6",
+  "DESC": "A simple program and library to auto generate API documentation for Python modules.",
+  "CSIZE": "36448",
+  "ISIZE": "184228",
+  "MD5SUM": "26bb2bdb3170046d4ca213f2fc9550ff",
+  "SHA256SUM": "31be63dc16688f492d60f2b406d376456b5d9c23615f0fa1489c19584335c31b",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl2/3pkACgkQeGxj8zDXy5JBgg/8CnBRMHZbLQVPkTsCcWhr9HcV/2Fl/vgEFS5rvaNyKM9s0SbQ1O8udgTEOJwLwaWAQ7wsXPuWo20Et7sH4pD03DnmGXSoaipU65BOyrF9jhb/Geyhr/4YxlHf2Iy2I37bBsRx+btPGBNXjiwRPoIaibEUICENqmj/gR9dqeraDzL45+ZhkOTxorNaSTOhMFIyk3Gff4/jbdAiQxAIHgBKEsCAEdyY5mdxlEx8ZfwRm3HozEIp0GYRsZmvlCbnhC2UoGB57u5D1vG9p0/ERLRfKJ7x2816Wk/W5wY/aSecxHGQa793cG3yUcrWg68qNwdaw0q7P+mryv3FiuqdeICpld40LEgHIhPRjAod0EgRlOrXm3aQxDSls9CZy/hSInW0zTnSOue+CnH8pCVgsMf7Gzd4MoKXvb0vVd/cuw0ll3+t/+XGJLTFkPK+3SKr2g6ZjO++rC3Ig7H9ov08/Aa+Tnj0FoLYJE+jAvLr1s32CgXQ6u37kaYSxm74LRP5Bu2kS4hKg8zdzc62Iolb4xMg3K5c5P7EIafOA3vI5ZoJ7McAQnU3l5aCJeVHwfXQQJ/vbeVZjaV5UNTo3lfjFE9XSJXH1iV+KQARS6C2nbN1uTH2lD9G4qHjwbKxotKzNkGMpascTwEAY6bfjsEIV3sHEaSb+J7z3pyNpd6pWreyTPM=",
+  "URL": "https://github.com/BurntSushi/pdoc",
+  "LICENSE": "custom:Public Domain",
+  "ARCH": "any",
+  "BUILDDATE": "1572855360",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "python-mako",
+    "python-markdown"
+  ]
+}

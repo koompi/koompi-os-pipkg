@@ -1,0 +1,24 @@
+{
+  "FILENAME": "haskell-rank2classes-1.4.0.1-6-x86_64.pkg.tar.zst",
+  "NAME": "haskell-rank2classes",
+  "BASE": "haskell-rank2classes",
+  "VERSION": "1.4.0.1-6",
+  "DESC": "Standard type constructor class hierarchy, only with methods of rank 2 types",
+  "CSIZE": "121872",
+  "ISIZE": "847961",
+  "MD5SUM": "8be61da76056df6dcbdebb4ff624c967",
+  "SHA256SUM": "d2c67497e478d4dc7709835ec66d5a2be98590e60a6b371a7782fb4667efd199",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl75Ht4ACgkQeGxj8zDXy5IXKg/+MBcVqW5sa09gMv/E57TlmY3DOUPMC7Erms9VNLQksqt5xN9GGZVZ0YrRsqMVGZSKCy9CwKR6I+tgQv494rx7Fc21F5VTeWicVxQ5KVvlvDWG75+rfLxY/JVN8d1J+JRPGV7e0a7fLyEeld3aMSc7TieA95V5qmtoUAlJzGI2YhORGroRXyWX/2SmNK/uUcwpDPZG8VbkhIFO0vUwNCC+PZWIuorPzrgb1ox5ndq05ML9FoirvW94czMH/6COTzg1waL1M4WMtDMbz8m2aAqOEJMvqMbcrYFl4JlQnQxwYGm8a40SpNWB/ytAeEEcZi+edYwrapMI0c5xNvFnhx7zuNCjRl8CE/UyWFqUSQOfItDt3A4WkN0BB/2M74PRpfyH3rtuWg0nrm0b1req7NfG49HAErAiVGUZOC9m3FyWkuUlA7Yn4l1ff+KS0V5PVxnWCHxGn03XmBwRLh/oWjMXYX/KdEnaUhp3iy6RmSVK+5jPt5aDpdsjWcopjWd3nezvQtZ3zdsA436GZe4YyEusy78TnIMlJvIfjKctRiFr2XGFjb4Dz5s11LDX9iEucM+Jb/KMBAfIQzFRQunYOeKzSAIwS2HIAbWunpCTD+NdlEyMgdgWw0OIj0dfWm71f4j0tGAof5JqavAQPqB8s/B9VI3UMes8v+u59RHNFFCC1Lc=",
+  "URL": "https://github.com/blamario/grampa/tree/master/rank2classes",
+  "LICENSE": "BSD",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1593384625",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "ghc-libs",
+    "haskell-distributive"
+  ]
+}

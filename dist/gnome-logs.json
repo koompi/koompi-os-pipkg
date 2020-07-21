@@ -1,0 +1,25 @@
+{
+  "FILENAME": "gnome-logs-3.36.0-1-x86_64.pkg.tar.zst",
+  "NAME": "gnome-logs",
+  "BASE": "gnome-logs",
+  "VERSION": "3.36.0-1",
+  "DESC": "A log viewer for the systemd journal",
+  "CSIZE": "334686",
+  "ISIZE": "985319",
+  "MD5SUM": "86ca8a3b98803acfac8f79be8da39ce4",
+  "SHA256SUM": "7d7a42455a3d7f5f5b97241b0ea8869e6ac4012b6d60f78d76fb5977555438e9",
+  "PGPSIG": "iQEyBAABCAAdFiEEghj4iEmqxSLpTPRwpekojE+kFfoFAl68/+gACgkQpekojE+kFfoN/gf4lo/cBPLE2Rx/Xa8NI809xiaY/z0KEh2WcQGD1IMpxxqcEi1z5BV3LhTOAeXvvphm781WtiJqAC3+lN+cqflB7o4yZgD9v95D5vnfbCKvy4Tls8gGFbcIPBBB/Eibe1NntFB6/ZRaHZH4Br1WgMgBKSVCUa7jmBr2sbHZDh3PxdKiQu4aKX8msD4ghH8QesxvnPgChDh7IYQalyVSX6DzFF7Kh9HzMUU2krcSx76+/BOqzxcMWwkKpTP46WBDBMshFwX2fHR40tYB8PvBTUwWXj8gMRVesPYt7JX7m5Dk0l7o3B5QDRqJ1kp8KEjptyvVTp29X5AEopU7OqiHOzS1",
+  "URL": "https://wiki.gnome.org/Apps/Logs",
+  "LICENSE": "GPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1589444457",
+  "PACKAGER": "Jan Alexander Steffens (heftig) <jan.steffens@gmail.com>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "systemd",
+    "gtk3",
+    "gsettings-desktop-schemas"
+  ]
+}

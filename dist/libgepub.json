@@ -1,0 +1,24 @@
+{
+  "FILENAME": "libgepub-0.6.0-2-x86_64.pkg.tar.zst",
+  "NAME": "libgepub",
+  "BASE": "libgepub",
+  "VERSION": "0.6.0-2",
+  "DESC": "Simple library to read epub files using glib",
+  "CSIZE": "27502",
+  "ISIZE": "131150",
+  "MD5SUM": "ad67fb73409f31168398a2061bbcf894",
+  "SHA256SUM": "442e3628fd8f7f873e8cc3343b5e51da3ed8c1a667718c0e9ea9bf7503c729ff",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl7DngYACgkQeGxj8zDXy5JJCBAAppcqvZQVHvzNRMy20/mhhVVLBy4hMg80+Bvu8k6hgBps7Z9la0qGiORViXxSCLbEhF7gUYjiNWmu3BzYkj43A9+nma2F6GtzhZTDm0xjRDxnZQfyLp/XWv1Xu6Y/X1cuEjSibtarXwWfRbPLvrPdBy1BU+ihI8QyhY3JLr1t02/R5nK1A7pCKTmBvjn7M8xTwWMcH4Vx0XEaqQ8sRoNgKgTyarH53UvXHlpd6IyKaULrsAyCqEWwYMy3q7fyvH3b+RFs1QIdyCa7EwZLcyPPos/EBOdPmHeSIFKene+XIz8pBXBAQdcCsUTdmwmEXTG4361iZKicbulhD9tb7XQbQbQKiQJ8unLgbCvu/X2Q9y5VL9KsusXh+RwIjYViz2ppWv9qdygR63UWIILUHf3dRM94pxM0Akf7vkWsmj/QTG6OgCsxuNZLe/qQK8AWslJ33zAVDkx+2qW93xwWovLM4rhMu5sCH8wXHxPIIs/0qbZxXaES4SoYWq/+baRy1C8/mD7CSvyLeCYrCBSLtfkah/eAOcEreQftuIZBEfywYr//+XLNAiuTSHzaYcsLtc8+lnrvYzjZqNMROEgAC6Qq0LLjc7CPMoDvRdtcRsIMRu9bXoE2XFJfb5lYp2I7f9AR9S4YbxYfpTYQafu+uMo7G16gAI9MMrlzdUDp253u00w=",
+  "URL": "https://gitlab.gnome.org/GNOME/libgepub",
+  "LICENSE": "LGPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1589878241",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "webkit2gtk",
+    "libarchive"
+  ]
+}

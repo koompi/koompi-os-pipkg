@@ -1,0 +1,26 @@
+{
+  "FILENAME": "networkmanager-openconnect-1.2.6-2-x86_64.pkg.tar.zst",
+  "NAME": "networkmanager-openconnect",
+  "BASE": "networkmanager-openconnect",
+  "VERSION": "1.2.6-2",
+  "DESC": "NetworkManager VPN plugin for OpenConnect",
+  "CSIZE": "477431",
+  "ISIZE": "2435813",
+  "MD5SUM": "09c46c8e29de2f4bcf55e1afede5d048",
+  "SHA256SUM": "b0cbdc428080c630b9290795e3409714232cfc31270eeb01e37c5fa743e7e5b1",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl7DnLIACgkQeGxj8zDXy5IYzQ/9FCI8HAduouCWv/zKNqKvJd+omsJNL0z93waRMgpbaGSDrWRoieMMkU7DLOmcgECcK3XgwwQ0Wk4CB3G5mMdjYIUHpELf5MMAof8ADxO9DGAVEVVAVpqWIfIPB8TUh/dKm/R8wNt4FxOaAP6T92FsmF3O6dBvDz1mh+rEVomB32bUqsTDOMubxm0RdoUbhaPZRjYDyipnAnEmYeQAnsS+NM8xAl5A9lm8H/+xy+k6LlmCFs3OZ8apb7iCmHgrY0V13mSp6bt6ucOdbNIcp+NVr8OBgNkPetRUhJUUE2dbAe+WEmz+i/+8gUY+oBmOeCh0Vz7949ax3daoEPckdomu9wnu6yZ1OsimzEoXwHmHVBiKFB0NHKu/0SaTOltfdRV97upe93Wejagj70gm3VzcJ7THNoXEPlIbCiLCVXJZJsnwQmrjf9l77AB+vedzy44sjVFSB9+kUD8AF2jIxqA9NfqYj6w2VzwJMZlbiK15IReNDWbHzu5kb3GxV1/i1Uu4S04sci/jCu0ikurNT+nmM7J6tlO/e9ydiPTe4zQr2WBC7GHoClFLBedrLqwJ7Ju8EtONlajJjt1pU/ApW9nT9t3PK1cqvVF0/UUweWuEjlDFbHOf/iZ8hHLirUD9Iq7TtagVFHLp9vf4rpyDnPppBJsd4KVl223Bb8b0xYRH/4M=",
+  "URL": "https://wiki.gnome.org/Projects/NetworkManager",
+  "LICENSE": "GPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1589877852",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "libnm",
+    "libsecret",
+    "openconnect",
+    "libopenconnect.so=5-64"
+  ]
+}

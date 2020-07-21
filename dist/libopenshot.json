@@ -1,0 +1,37 @@
+{
+  "FILENAME": "libopenshot-0.2.5-2-x86_64.pkg.tar.zst",
+  "NAME": "libopenshot",
+  "BASE": "libopenshot",
+  "VERSION": "0.2.5-2",
+  "DESC": "A video editing, animation, and playback library for C++, Python, and Ruby",
+  "CSIZE": "773848",
+  "ISIZE": "3579260",
+  "MD5SUM": "2171c0c90770c71a62504ac95b1b983a",
+  "SHA256SUM": "c4b914b90e5e9c8f2b5565bcbf87f108c26c0765d4d5099478ecee9edbeaea90",
+  "PGPSIG": "iHUEABYIAB0WIQTH54SUZv4jWDQ1iDdyWHNLQcMVSQUCXn+ORAAKCRByWHNLQcMVSUCyAQCRV4P3mDHf+e0iYItOelcQ32ua1+cvLgoWazI1yl48RgD/bmg33RO5alGj8pNLqyzG161t4MF4GXz+zOkpaubx1AE=",
+  "URL": "https://openshot.org/",
+  "LICENSE": "LGPL3",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1585417628",
+  "PACKAGER": "David Runge <dave@sleepmap.de>",
+  "PROVIDES": [
+    "libopenshot.so=19-64"
+  ],
+  "DEPENDS": [
+    "gcc-libs",
+    "glibc",
+    "libmagick",
+    "python",
+    "qt5-base",
+    "qt5-multimedia",
+    "zeromq",
+    "libavcodec.so=58-64",
+    "libavformat.so=58-64",
+    "libavutil.so=56-64",
+    "libjsoncpp.so=22-64",
+    "libopenshot-audio.so=7-64",
+    "libswscale.so=5-64",
+    "libswresample.so=3-64",
+    "libx264.so"
+  ]
+}

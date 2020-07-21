@@ -1,0 +1,23 @@
+{
+  "FILENAME": "python-jeepney-0.4.3-1-any.pkg.tar.zst",
+  "NAME": "python-jeepney",
+  "BASE": "python-jeepney",
+  "VERSION": "0.4.3-1",
+  "DESC": "Low-level, pure Python DBus protocol wrapper",
+  "CSIZE": "40372",
+  "ISIZE": "178298",
+  "MD5SUM": "1d5b574f75d28daff0ed69d83bfb0a87",
+  "SHA256SUM": "b1694f77b0c1bc54edd722d9f1aa8447b7a581277158cda9ae1e5663f2cfc5d4",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl5hDIsACgkQeGxj8zDXy5KBhhAAhSZou+fdZhW4wQPJuMwO5OgzQd4MFwdf5HvIkCvugfqY3rWfh0+Ch+i/4xHirW9jx/TodWNnORyEgfqS/hYn1tiC62lE8ENXY2MjGTPRIHwzHyhB/xDn+kNqDCfRnTpT1jdQN/gfafuCVwfH2DbeKd2CAiCGiw+YC8EjGIvbVSpDWd7NBL0ABFLaKkvg6SmpZjD5SZj3Lkhe24S4W95DgxsxHQ5taRPZMAXXYLE0TBgd7Vu8tQsprUO/usHXNE5II+3iQhEvdWAIbIRdDNycPevMpUd0uFrVb4C/+C0XJQcD/cWcWvKRlsm/RYazY3WeHPn6lSXu1kAyilMoEIRaTKVZcxj0LHSlUt9Y6SrEq0awSK5mEEJRtbUfZGKuixh3Nu0XZ62cggPUJ+dH05phCC0XTulQFLiF56U76qGJh8zyg/4H3Ht8bqHcj9HPKA/p/+CAo2zFTRNiKqxwsXZhxQdjpVk9iAvrHIgAalVPSbmg3IkZ1djEncxAtDI8BQd1CIN1pvZm5GMeWfkd5otRfJQgjTV8fJa8NfhvB/daNlAcvg7phlAPgqEUuFmVZ9pPHKpiKaHaXGHoDAOZNMmAW1wnUNXLHeNLCwaKegi8ZOmME/9k3YfC9+ZOIRS8JSWdMopUASzZtW4kw3sdbvMsMSuRedala7kKIJWAavhjyQw=",
+  "URL": "https://gitlab.com/takluyver/jeepney",
+  "LICENSE": "MIT",
+  "ARCH": "any",
+  "BUILDDATE": "1583418418",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "python"
+  ]
+}

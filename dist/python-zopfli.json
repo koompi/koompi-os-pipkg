@@ -1,0 +1,23 @@
+{
+  "FILENAME": "python-zopfli-0.1.7-1-x86_64.pkg.tar.xz",
+  "NAME": "python-zopfli",
+  "BASE": "python-zopfli",
+  "VERSION": "0.1.7-1",
+  "DESC": "Python bindings to zopfli",
+  "CSIZE": "28600",
+  "ISIZE": "72437",
+  "MD5SUM": "9840c8e8df88cbdef32dbc8edff4466f",
+  "SHA256SUM": "80894a02cfcbd92e2a61c1201a54a1695939f82e44dce87f35cc2ae2865fed9e",
+  "PGPSIG": "iHUEABYIAB0WIQTH54SUZv4jWDQ1iDdyWHNLQcMVSQUCXeFV4gAKCRByWHNLQcMVSTtiAQCqxnDKC/5v0jzqvOKtYJf3k3RXXv9PrDWxQme7lKTCNwD/YpkEKyf4iOPa3dO54Pl4rW2LdJ7rF1AQov37wv7kpAg=",
+  "URL": "https://github.com/obp/py-zopfli",
+  "LICENSE": "Apache",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1575048582",
+  "PACKAGER": "David Runge <dvzrv@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "python"
+  ]
+}

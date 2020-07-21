@@ -1,0 +1,25 @@
+{
+  "FILENAME": "kpty-5.72.0-1-x86_64.pkg.tar.zst",
+  "NAME": "kpty",
+  "BASE": "kpty",
+  "VERSION": "5.72.0-1",
+  "DESC": "Pty abstraction",
+  "CSIZE": "209706",
+  "ISIZE": "410507",
+  "MD5SUM": "0c65e615a60691750bc5d8b4195defbb",
+  "SHA256SUM": "a4071dd1c256db3c771bb89e89b25b4e1b4176cd0157fd46cf95edc04a01bc47",
+  "PGPSIG": "iQEzBAABCAAdFiEEFRnVq6Zb9vwrc8dWek52CV2KUuQFAl8JYNAACgkQek52CV2KUuSZIQf7BQN7Ja0XsDcROGB5VDNl7X/Gh/R2wanOOzeZogqQJGY0RKBZpVEW6xBYN5Kr6bW0QMFS42U0K4N1cXBJgdz1/+5g8wSH9x/zal3VTLboXgJDpx2+yEpMBcYbSYMpudsaRrw+8yLnfWNylCD/1PYkrSiMcYoK/HjVjIEuiocMkLioO1i+yUphwP5YGN+s7PLMfwXwkPIM8m5RQo0hY15W7sqQuh6efLysj0LtaIVUHSvOcbGL070ZBxd4yOa8x+7s3oGOqWkztsbB+/mf0Hv73RBr9KloUJc/Eu8Oax3/2+mbRPwxwn6g57GMh7CwyU/+zJSSQEQR/ieYRhq0QPnrbQ==",
+  "URL": "https://community.kde.org/Frameworks",
+  "LICENSE": "LGPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1594202081",
+  "PACKAGER": "Antonio Rojas <arojas@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "kcoreaddons",
+    "ki18n",
+    "libutempter"
+  ]
+}

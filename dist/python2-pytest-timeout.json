@@ -1,0 +1,23 @@
+{
+  "FILENAME": "python2-pytest-timeout-1.4.1-1-any.pkg.tar.zst",
+  "NAME": "python2-pytest-timeout",
+  "BASE": "python-pytest-timeout",
+  "VERSION": "1.4.1-1",
+  "DESC": "py.test plugin to abort hanging tests",
+  "CSIZE": "16806",
+  "ISIZE": "60049",
+  "MD5SUM": "6bf45b97b8c6e873273e1602b518b1ff",
+  "SHA256SUM": "03b1186a1ce8a113a9a86403ebfed8ac47fc6c56a5de09b19b898e22ed3c8945",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl7rF+MACgkQeGxj8zDXy5K4Lg/9G4m0DY/b+ZtzvDDqxGO+klL+rfYVodWqJoQeDx5h4PQUCC/u4KfFSIFpayiPOREXkk0Hq1WPpL8ubjVN7+tHEjFV0yAOF4G0BNgF3Ir76BYm8RdXNKKbQ4uXLmm25cxVV+7YZvq86NS0uUc30BpiEVZj7rH3VOKfvP1+gwQdaI2ODRtXXxMXX1LBNHyuJXR2tG9z6zhCLqToqC8gLfq82l3ItKLgvZwmqCzp07lG1EOPYiYHX8SQKxIKcvrwgBM3QvQNmUTG2AXheLWX/F/Q6TKwkQ22nzBdGTrfdi1Ylaxh9S37XrFK4/Xckcozme7kulTI93xK0Yg5/q0GArtBaJhdM9RHM2orhZcfUefwcHPYszAeKGnah+2ULAaHpKp4VI3F3O/AS/YSm+9RFdZV12Z8sHEBvBW1Ecm5lGZxXYXS/XGHMHgwrDBHYXmFHgwG+XlD+Rr0njZ2TqwQeFZuDi4L2hisGdpl3fzTjX8trToeFPx9Qa8iS6WM6WvcLtWCYgPwKkC0Ulocd1hRfNwJG2AlN4bzGglIJVppChl+frG4oFRXTk3GCTo56iN9olRUU+gZsOKjL2y26Qw+uW0bopUExjokp1CWcigUhBXsq4tJ5fKtylVnKD5AfKRQmab6x76T3Tgw/oPnIAZhyEiBt6HEWSKQ/w2IAetB/k1UGDk=",
+  "URL": "https://bitbucket.org/pytest-dev/pytest-timeout",
+  "LICENSE": "MIT",
+  "ARCH": "any",
+  "BUILDDATE": "1592465241",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "python2-pytest"
+  ]
+}

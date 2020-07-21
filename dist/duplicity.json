@@ -1,0 +1,27 @@
+{
+  "FILENAME": "duplicity-0.8.12-1-x86_64.pkg.tar.zst",
+  "NAME": "duplicity",
+  "BASE": "duplicity",
+  "VERSION": "0.8.12-1",
+  "DESC": "A utility for encrypted, bandwidth-efficient backups using the rsync algorithm.",
+  "CSIZE": "624155",
+  "ISIZE": "3253289",
+  "MD5SUM": "6dfd07fb9aeb4666e76a59acb0e1c87b",
+  "SHA256SUM": "f4c714f9c4b6ffc9e172deb4d43a6cc2bc19c76d352ad31783028d9bd82aca6b",
+  "PGPSIG": "iQIzBAABCAAdFiEELjbYYgIhSC/EXLfyqRdkdZMmtEAFAl6J4OkACgkQqRdkdZMmtEA+kRAAj+kbmsnQmwkQTm3r8Mlmuoe1G9fENbAfakvodAcpaxjMaYyDn75H9GaHZf5030uqiHYotqtkUMkKaia4X/mpNtt5ijDEaZW9NHFh/31Gj20oq9NoU78LIMlfhCqteEGlooDb3kno//u7w62hi70MQsuaHg5KnZqDirx4M0aEM2ZD/2z/RtaWn8/S/UPTLpwoSxgfdZu/SeZ72w6uBqZu5J6gkZHcWhws2L7yJvNeAUoJsFgFIIAcnwwn19EsEI+T8MTszqO3o7vwKr7EbEKEC9onxtdkF4scpWLxcdHIrlq124lu8FB+NSnpdGHfZlZn2z+nBTfbB8rjLucLT30H4OlfIegd86097TXcwxvSYGofD6Q0EoWQERT2gUL9nDqzPiEyZx/16THFLmqxMtnTPTuEqVcZeqzNAxAlWtcQpM5YZN1u6rdpVcujS15qIRdcdAJvF8pqaXopOpLbvLm5zfuMsgfeavcRkkaBoAcmmfHIXr7e9Xk6qks3mNM2pEh9/kjQZTYyw5JkfTneE71NwtCKTG/lbtq4RMnS9hlMm4pa734K+3Vdrpk1d6LjFJyQTrs7ZqH4Yu1jF5Ff3EZbSVy8M1u8VpF6QQFvQpp7stb+A18TrRxlLFtXO6YyBRiljt57RPEU3CeNYbDlzfAxaFYag/2kIrh8urGzP3Ke6og=",
+  "URL": "https://www.nongnu.org/duplicity/",
+  "LICENSE": "GPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1586093472",
+  "PACKAGER": "Lukas Fleischer <lfleischer@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "gnupg",
+    "librsync",
+    "python-paramiko",
+    "python-fasteners",
+    "python-future"
+  ]
+}

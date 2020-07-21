@@ -1,0 +1,27 @@
+{
+  "FILENAME": "perl-datetime-format-builder-0.8100-7-x86_64.pkg.tar.zst",
+  "NAME": "perl-datetime-format-builder",
+  "BASE": "perl-datetime-format-builder",
+  "VERSION": "0.8100-7",
+  "DESC": "Create DateTime parser classes and objects",
+  "CSIZE": "38990",
+  "ISIZE": "66052",
+  "MD5SUM": "5c20bed00e32dca5dfa7e1dfaa1e0853",
+  "SHA256SUM": "7cc833018a8db7665a71bee211e846d40fba5517d7eddfd6d5cfc9b390e2b11d",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl7vg+oACgkQeGxj8zDXy5J9iA//ekn2+OJN78EM3qovBeBjliu9zcckumPBSotNRxXfpp66hVpUn8QyiruuBXHVog2YOAa2/esE1LVfCXLb8kgMqKwzU9P87y4/NlC3/ToDhM+O772y0ILCXNM8ilVumPof4jf5l19cosINoCsDrTA5pZSNZkvW+dVi5LIGaUduTpFTgSMYWkIHXzlcJAH/oLEXN6T8fLop09a+yZzxEm2WrMX7hk6mhn6jLd0ai19I/lj4TnYOT7B+wqHgilv5SM1UrNI+clb+CUI7+cDH4pBqmk2RmDfd/TTjTK2mh4uUVinrCe8Hphx+FUbTOQmB6ABkZ2z05qHvijGGLWLa8m0JEwLx7FyEsKWOumD2qmTOeLx8gy93On5GMesJyp7TBDjQAN03WxunLjGT8DkxZuilnKQaMzz4OwUlfYi/N0zQUoGDY0M0sHvSw7k754FB80dvbXMsP+TmVM5IKs/XilAKBObVcv2Sblamsz1+wbd5Nb+gOt1fyOwwR7mfOf0TN7548PAIJ5hlGY12RZP8SsESx4IsxmkyLYPotxJ5MrcKOMA+QX+tuIpuUZauzy6WovByNj57YLcfWBD6fEsIU0tVzR4E7ieL4l97hHOZ+cg2Shiu7rGevv4Kkm74TwZOLBzOnMlW1FCC6pi3WipAhjFDlOvq4C/kuFy3agciFtIac0o=",
+  "URL": "https://search.cpan.org/dist/DateTime-Format-Builder",
+  "LICENSE": "PerlArtistic",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1592754950",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    "perl-datetime-format-builder=0.80"
+  ],
+  "DEPENDS": [
+    "perl",
+    "perl-class-factory-util>=1.6",
+    "perl-datetime>=0.12",
+    "perl-datetime-format-strptime>=1.04",
+    "perl-params-validate>=0.72"
+  ]
+}

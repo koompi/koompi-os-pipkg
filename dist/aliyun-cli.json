@@ -1,0 +1,24 @@
+{
+  "FILENAME": "aliyun-cli-3.0.50-1-x86_64.pkg.tar.zst",
+  "NAME": "aliyun-cli",
+  "BASE": "aliyun-cli",
+  "VERSION": "3.0.50-1",
+  "DESC": "Alibaba Cloud CLI",
+  "CSIZE": "6456016",
+  "ISIZE": "25499016",
+  "MD5SUM": "ffae979ed23c75af211e9779b895cba9",
+  "SHA256SUM": "3bdff8a10b05704843571abc0255eb2c197362d8ee0e40d82b07ddc820285d50",
+  "PGPSIG": "iQIzBAABCgAdFiEE4kC1fixGMLp2ji8m/BtUfI2BcsgFAl8DVncACgkQ/BtUfI2Bcsh5bQ/9FD3CMruHJuxGGCrIRGm7XG0b1M9XMiD/jeBCFOEOmDSIxpgq8nt9nD4+wwBiBitMzIZTeZgCHBi9bAkX0bNVPcVjANuUCX/xZHijbRnt97BwudRYyhbXgkgUyWjlZlIgqDG2NenD+NqZSq8JEz2EJw7xzzTPvdFj6kV6Zfpae9JXCTFsYuwtRpI+c9cot4pkGQG1wL3PPVbO7k/5e7X+MGz5BPUZUvVz/8qlr5F+gXgubzR3tKaWP7aNj3+hXfd4eRo1ATQPZvJvcGwqP0UZbjw7syMoD/cPWIiQbO3X0a27ZQPKRqoQFKcn65GOq7yhnZ2IoutEvMo4+3EFntSgIV+WeiPGd5PfE7IGGCEs1GtA/OpaSntPg9YnuGUJNTI/EHjxV5A4JsInUBpqV+PZ259x4yOHJvACryO+b3mVdPfXf5LMU+o0dlRGfKlD2e7zlzzAXpev5MwT2EntYMCFaCoRoJb8UVERrmutiZ1OMoP1XF1ShSJjyOLDb8Pc5+iYHZokuRiJIu/rYg1ArLC90LOC7YdskGJqXObqm8EbyELFrQLoiqrbyT/xz7OH0/rmOM0/UWpIlHDXhFexG3w8g+qnGTStCVjfEmzDhnGdcpEd30KA2TPfSJCj0GPzt2rAAPQAYFo2k5kKz7Y6n9awnF0Y3DM9cLzqsLxebK8Czcw=",
+  "URL": "https://github.com/aliyun/aliyun-cli",
+  "LICENSE": "APACHE",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1594054120",
+  "PACKAGER": "Levente Polyak <anthraxx@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "glibc",
+    "jq"
+  ]
+}

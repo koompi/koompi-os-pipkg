@@ -1,0 +1,23 @@
+{
+  "FILENAME": "hub-2.14.2-2-x86_64.pkg.tar.zst",
+  "NAME": "hub",
+  "BASE": "hub",
+  "VERSION": "2.14.2-2",
+  "DESC": "cli interface for Github",
+  "CSIZE": "2495057",
+  "ISIZE": "7318464",
+  "MD5SUM": "7f56d1a982a6d56fd7bc806c888757bd",
+  "SHA256SUM": "4d7ceb8755c07b8d610b331666ce807fee2cfd49dab9a0eb40528f8ba8dc8510",
+  "PGPSIG": "iQJLBAABCgA1FiEEktnGzemaICTWkKdu50JoO6CMsv8FAl8B79wXHGZveGJvcm9uQGFyY2hsaW51eC5vcmcACgkQ50JoO6CMsv8xRQ//fHNrXLLc2HUKVBWK0WBq83G8Qm6nABp7f8IVYyKuYMYymUEjm0wnaNWb/nYliGL6ajG9+JIsV0LCo6jJUDuFX609qSM9CRrdH8OAymvpjHMCl4uAKKNlaCOkLMDLXo7yF5HyoFAx+ne6WVZ3CZhkYilgqb38TtBjC/kZ6Uy6IuJpvgFd1TDOEfYHRVQh2K8IuSUHKHnXsttUdIV+tsBQZYkCbozFsSuoQleRmkJcfWijVFXylyZVIM+vKgkMWERKBIjYqqtcje7zG7FxKOO/nv1jJL6B8N2Ua/GMncM3aqCY7oXvvHzIOLxYyL400lflQ5ImebFvLSDNfWFaazpVMzVdMSe5plYPnEfckjULYPCR9W9X4niqhmsy1aTfpxzpw5QdqZevfHvt5G85ws5WIq5zMH4x0fys4JBBZk6stqTpBRACnjpZGJhcxQu0VrGO3CTgZ+UoQMS8N5ml2lQGG/C612ffbQ7Mn6yYU0PRsTvNeLxivTC8qqUPlaCEPDFNzJK5eTzkjiqSnwSQ2r3hiGTQhBjXR0aTN/dzKXgkoJbGbFRA0lRye1vc6X2QzxENnYGLyja5sVhUmqql55RP7sASF4IqiBInoq3PSJEJZUN80jZk/461naWYS8kaYodobkz4bZ5RXH8CQloJoHSCRvkjcaRzTnndlyvP8Lno300=",
+  "URL": "https://hub.github.com",
+  "LICENSE": "MIT",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1593962406",
+  "PACKAGER": "Morten Linderud <foxboron@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "git"
+  ]
+}

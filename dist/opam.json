@@ -1,0 +1,25 @@
+{
+  "FILENAME": "opam-2.0.7-2-x86_64.pkg.tar.zst",
+  "NAME": "opam",
+  "BASE": "opam",
+  "VERSION": "2.0.7-2",
+  "DESC": "OCaml package manager",
+  "CSIZE": "3137675",
+  "ISIZE": "13145659",
+  "MD5SUM": "f7d7aedfd7d1addaffc58799d85c4fb8",
+  "SHA256SUM": "12649866e4d8990590fdb91450d2e319aefe078636842df5d29dc69d9f20af55",
+  "PGPSIG": "iF0EABECAB0WIQQ1W9uX7Uck5rOkUOej2VYqWJh0qwUCXsLJnwAKCRCj2VYqWJh0q77OAJ980Q0gvrxtGSvUovp4pnYiHrqCTQCglkLOLdGwgAfU69+0/7AQnQcVhng=",
+  "URL": "https://opam.ocaml.org/",
+  "LICENSE": "GPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1589725640",
+  "PACKAGER": "Juergen Hoetzel <juergen@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "bubblewrap",
+    "ocaml-compiler-libs",
+    "unzip"
+  ]
+}

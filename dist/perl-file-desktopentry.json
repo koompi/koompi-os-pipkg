@@ -1,0 +1,24 @@
+{
+  "FILENAME": "perl-file-desktopentry-0.22-7-any.pkg.tar.zst",
+  "NAME": "perl-file-desktopentry",
+  "BASE": "perl-file-desktopentry",
+  "VERSION": "0.22-7",
+  "DESC": "Object to handle .desktop files",
+  "CSIZE": "16942",
+  "ISIZE": "29255",
+  "MD5SUM": "ef2f28792ecb946cbb464bb8227e64f9",
+  "SHA256SUM": "018528848f934eea0491c52c2d9746240601a77edb1d4f0b98a45b57769ae0b1",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl7vfOsACgkQeGxj8zDXy5K3EQ/+NWh5G/KfIIn3XZgCZdDLh9Gf3hyiC9zW5WtsWfJPDDYqxOZExJTsMANBf5BcTufE+b71MU48g4+XreGwx3VgNutGcMMjC4ALCs24tC91GwnrwQaDRj+XxcIqcN8oxOVqTHQx26+kfJG4kU6Vd1GsFQ5HMs9hBDcmxBTLTcj4N5SxHaQ1I53O+hQzkOpBPBOTUTSPKjAG8tfxhYGXP4nq4FvCipACdCYeiVJLwuhP6AKW2fJy0LgBGq4oxr03PxvafwgFxu0QFaMjIbt7ldthQrFxn9aFIb7E8EX9b9wzuPOD76SIFcSHPwiwXB0iCqhof+GKBEFwWqM4AeDqMwnA/h4fMK39AbV0UrnlJJ07Jphfeh20Kuqr6vpiUpV7L9CuIzG26xK1F8Clu9DJrm1r9zxAIlx82yNsDL3N76UwTOy7J55GqOugNXU653PgV5/AahrNzVc0/2OTPGTUGLj/ErUncRy3PzUO3yVnZ26T1zwcKCV0zvA1MrQPyr3CaqHsU3SWxumTA+5Zo7liPDF3aq9SpApsCPRIbEP7DX5MoyY41T19f0/UUq/vI5l6Zp8NOgSBVWv4PK+AFDIdfXXnCyMlJXZLLNnBlXo0GXl78P6c3Tfm8ex7uq8vx6I65Z/MKNjwbpnkq5300Puz4fzN24WQsBV3wqdbzcbHwKuxI50=",
+  "URL": "https://search.cpan.org/dist/File-DesktopEntry/",
+  "LICENSE": "GPL",
+  "ARCH": "any",
+  "BUILDDATE": "1592753366",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "perl-file-basedir",
+    "perl-uri"
+  ]
+}

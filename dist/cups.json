@@ -1,0 +1,31 @@
+{
+  "FILENAME": "cups-2.3.3-1-x86_64.pkg.tar.zst",
+  "NAME": "cups",
+  "BASE": "cups",
+  "VERSION": "2.3.3-1",
+  "DESC": "The CUPS Printing System - daemon package",
+  "CSIZE": "5319697",
+  "ISIZE": "12872033",
+  "MD5SUM": "93a773423fa390617ea2280d14106155",
+  "SHA256SUM": "eaab522195c82438b9ee82f7994c875554cc03cef8b1855f04055a635522becd",
+  "PGPSIG": "iQEzBAABCAAdFiEErcih/MFeAdRTEEGelGV6sg8qCSsFAl6n0uwACgkQlGV6sg8qCStkdAf/egcNgY+Q/p9O2MoIPF2DSQ//nlkSxLdqMew/0iZZ4B4S1DxG8WDaneCu89dJ+lAxyS0Eln1SR0uXWKtaXAXgLzWCIkxVRVfWQu7LmkZSsjAMYGjf4BQMSB2bl25xXXAfc6ZyOuvFsySA1LF+iWwdnEs26p7iyUafJEsMJMo92EXVYYqzRo/YHnlAqmeG2I50tYBY77/Vu3cF61QmT8pzw7zSaRqm5gbyoDM051kCXTOIKoqGAP1PgAvNBdyPQkJs1tv5FZc1zwC7/hSRpAy09o//cEibt9+34fCli8V9UB9QBJSAy/y3mOzPRyWgLvQWQgDnyONhUefxMzkydz3oQA==",
+  "URL": "https://www.cups.org/",
+  "LICENSE": "Apache",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1588056106",
+  "PACKAGER": "Andreas Radke <andyrtr@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "acl",
+    "pam",
+    "libcups>=2.3.3",
+    "cups-filters",
+    "bc",
+    "dbus",
+    "systemd",
+    "libpaper",
+    "hicolor-icon-theme"
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "FILENAME": "crash-7.2.8-1-x86_64.pkg.tar.zst",
+  "NAME": "crash",
+  "BASE": "crash",
+  "VERSION": "7.2.8-1",
+  "DESC": "Linux kernel crashdump analysis tool",
+  "CSIZE": "2920905",
+  "ISIZE": "8409660",
+  "MD5SUM": "c71723f687a9ba44b05a11d947cab4e3",
+  "SHA256SUM": "45913f9f429373bbd171db26afbdc12c9542b84314c6e5291aca5e80a2177510",
+  "PGPSIG": "iQIzBAABCAAdFiEEjhmSFnRl21+wRVV8sChU7XU+Dx8FAl5C9lgACgkQsChU7XU+Dx8KHw//dnq8+9EQOyS1CuoF/iYLdletcx6Sv9DcT10z/W7WtMBKInt6eZJS6la52FHg/IgNkag2zDCAbRJZPgbIRD6AEer6FmivNr9Y2B/Fm7coXqBbn3OFXGVt4PqGfsn21jMG4zcCHo26XoINIAfpgO+E/Fz0HmZFSnDFTdY/7Z4xzlzeu7omOlW3lDOL5Tu5oCUGEBtugSpny1o/pWEIKEUbsAckRS0+A0DSHC+saZtVBMQm41lZy/wCpM2Ci+EOBo7RvPg3rCXojgQzSypMohtZTOMlD2gcQJeiwlHNVP4bSkOqY66KIOBwaX+Zhfcxxb4D1pufpw46hhZk0P2ry06bM4CgigEX5R7zl4La9IKYDWlHgmZqi/zblgqgLZ7Uas+j4EZsjDc/mLy3jTh5Zkr3ibm3oPq2uFOPVZCfkhSh1elNWA3iFx2AYnpr8Y19PZxTHb2JNDq1v/NiokADAtle6siw7aHKAh1UXp6z5jgbaVS12H4blzzKn2s8U1sd46eP5GQGkZOsdRInUBfs1gDHWC2hF6Fv2P4Z+Tg/X42b+CKj61NPAQyEoChMZwyx8ApBe36g05LVk3J7iVfz3HmwEzknQ1lTIBjp8e0/eI6Dv8TtdzeBTFwEJcUviJZT1zrTsCx4yU06R4M3nROR+8MHBhf9vi0tnir5at5OUOXdq2M=",
+  "URL": "https://people.redhat.com/~anderson",
+  "LICENSE": "GPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1581440850",
+  "PACKAGER": "Anatol Pomozov <anatol.pomozov@gmail.com>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "xz",
+    "ncurses",
+    "zlib"
+  ]
+}

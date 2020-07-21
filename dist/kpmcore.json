@@ -1,0 +1,27 @@
+{
+  "FILENAME": "kpmcore-4.1.0-1-x86_64.pkg.tar.zst",
+  "NAME": "kpmcore",
+  "BASE": "kpmcore",
+  "VERSION": "4.1.0-1",
+  "DESC": "Library for managing partitions",
+  "CSIZE": "683626",
+  "ISIZE": "3802135",
+  "MD5SUM": "074f4c186da69989ffdd0d3dad817388",
+  "SHA256SUM": "6cd29b6ce04755bdf05d68e2c06bf5e2e2f140569e87ec20b31abb65e37a2dfe",
+  "PGPSIG": "iQEyBAABCAAdFiEEFRnVq6Zb9vwrc8dWek52CV2KUuQFAl4/0KQACgkQek52CV2KUuRjlAf4wEN71SxRjGoeaOZBeTLyiptfyeVf/G2F4aZyVFGhgPqH3xBSUciUmQz5MXMw2ps+z91EunzIgRxCe5XtJlZmhubzZW0HdqmZ2f1w0PVhEmvAUsaX2LVrGVjyn6mIdldMmuwtc4j17CLwYhqKD0gUoZvD26JTIBOG8N6v+lVCALXkcniNxHxIDQyJBSA/F79bmtsob7MiS9hPTAMGdsnO7HCJNFN1/Bm85tD7gGADVzkNPr0r4bHyqME4tqjzgKm0I5/uS7Jd4ZMJJ7YrBfbXQSpPDevxkZU9tjgJWQI0Tn9n23J57jJ1YX2JtEqVngm53ix7eOa+vqBKn5zZK780",
+  "URL": "https://www.kde.org/applications/system/kdepartitionmanager/",
+  "LICENSE": "GPL2",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1581240316",
+  "PACKAGER": "Antonio Rojas <arojas@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "smartmontools",
+    "kwidgetsaddons",
+    "ki18n",
+    "kauth",
+    "qca"
+  ]
+}

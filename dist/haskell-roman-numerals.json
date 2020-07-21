@@ -1,0 +1,24 @@
+{
+  "FILENAME": "haskell-roman-numerals-0.5.1.5-23-x86_64.pkg.tar.zst",
+  "NAME": "haskell-roman-numerals",
+  "BASE": "haskell-roman-numerals",
+  "VERSION": "0.5.1.5-23",
+  "DESC": "Parsing and pretty printing of Roman numerals",
+  "CSIZE": "21234",
+  "ISIZE": "69750",
+  "MD5SUM": "a4552aa5bdd300684c214063852b7e11",
+  "SHA256SUM": "2ebdfc4cb11d3bcc530450af77e8bfcca5920358eb0076e2b6ac49528c5a8a94",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl6hrJgACgkQeGxj8zDXy5IW2A//QV6SASXLHKsVaSIAzdMt8Qw2TDdmWHxE1zomZZPrxSWh9PkKR57kWagAVzGRrQyvv4txBB7Bfe8fxB4bXV2OLPts0K6itO0kUD/sflTb12mx7reHZAi5cQTmcUzZ/z2JyU97g5J7/YKxY/Q2b12ygrHDl8l4VtDLdnUkO+ma4h/7Yj9KBR0U1uCChrj6q3/q/4Hs9HupfAM8yF8+tUBIrPqWUa/l0B9nmcl2IEv1/UDdUQmUU9bjMZDVKibJAuc4EBiy8CiYy+cKpzGZv5WuRD3w5hPfBfyj0U5/HZYVIKGXPUY1CD2ad/s6BqjdfFJWHr6oBwBwwNPnVAM+4LetGIMjSQZ25rZlDp2XGqYd/sjMvzyYzdtgiIAa+9hTLxPozM4k0b/SuYXS0uglE5TP9D+mK30gwe4XbnMFrMZaLon4BnIyYphvEtlOcrw7dSipAFrEAjsLDUrtED+Y8Tni25ZpIqMtv1s+OZ07TNXdSYJBkHspMUzi9SSfkHsZ82ajJEadl79VeSi+KU50Xz5kDKus5XeHmVl1vEQfpaMRHTbmibW9QhUctyvwcUuUCEb89+iDgLPdimLJTvL/B586e30ZirD9he+xaotPR9nux3JcJuiPFNnViE3lygEDRboWPOCteH2S6mVxMAfRM0ExC0AuT1Qfn4b/PXQttjnE20c=",
+  "URL": "https://github.com/roelvandijk/roman-numerals",
+  "LICENSE": "BSD",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1587653698",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "ghc-libs",
+    "haskell-base-unicode-symbols"
+  ]
+}

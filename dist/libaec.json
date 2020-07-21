@@ -1,0 +1,23 @@
+{
+  "FILENAME": "libaec-1.0.4-1-x86_64.pkg.tar.xz",
+  "NAME": "libaec",
+  "BASE": "libaec",
+  "VERSION": "1.0.4-1",
+  "DESC": "Adaptive Entropy Coding library",
+  "CSIZE": "23068",
+  "ISIZE": "72641",
+  "MD5SUM": "cfbf1550b1617f0187f193442cae6aad",
+  "SHA256SUM": "3bf65f320f61e3faf7723471f83732a4298ee83122d4eb8f606be8581d74899f",
+  "PGPSIG": "iQEzBAABCgAdFiEEado014/g79WWrG0EnYk+xNqvkSkFAl268q0ACgkQnYk+xNqvkSkKTwf/asoWqf7Ba4iRDndiQZXlDY4ZeCLggYhVhPwqHttQuFC7NDjo93m6xvNnZ7aBZJXCx2Vp/oQa9E6N9k3GV9vA9smyujsTtK4RT1y80eCLBRZLmfN3RDncBtp/tFYg9yh1Qsd3jV9d9J17+/B0LjhRCvVawgG+bHP8EWVDl6eHhGMIPcJWqoL5ONRi8VT1l2TMzeTEAstb1EzMSAQLdFXVOLkRlMA1O2nduVWM73DLu+EjmuhYjWP5wGPM0tEKbeGQZPDZs8/lbxEQyDRI7ssnHkbYx9ZQtfN6HD+sdgqpy0XeXuTsonqTuRTZaXsQuG4He+YaKeFwsv2wa8vBDZbclw==",
+  "URL": "https://gitlab.dkrz.de/k202009/libaec/",
+  "LICENSE": "custom",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1572532745",
+  "PACKAGER": "Bruno Pagani <archange@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "glibc"
+  ]
+}

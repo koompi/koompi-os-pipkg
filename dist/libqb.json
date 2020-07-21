@@ -1,0 +1,24 @@
+{
+  "FILENAME": "libqb-1.0.5-2-x86_64.pkg.tar.zst",
+  "NAME": "libqb",
+  "BASE": "libqb",
+  "VERSION": "1.0.5-2",
+  "DESC": "Library for providing high performance, reusable features for client-server architecture",
+  "CSIZE": "138526",
+  "ISIZE": "358088",
+  "MD5SUM": "0c0ac04dbff074605d4fde8d89669e7f",
+  "SHA256SUM": "70b9f77e5b7df0e8a913d8d5078adc87a8125ff198f689f737846dc6cdd26190",
+  "PGPSIG": "iQEzBAABCAAdFiEEhs/8qRjPOvRxR1iAUeixSKmZnDQFAl8E03gACgkQUeixSKmZnDTr0QgAhFmCo/u2H2OElzOZYcb5u6ysEBo4Aj0zKd1q8aFZKZd7QjTNFwD8lnun985GBHDKP3rBQ5gV4ThDe0ZFotut+JQo1D3JAzvSAsbt+BIX0kuzgf+M72TmAgFtI16EueDD4cwLtARjORFcYi+WBmX859Aq6fyAuCFrt6oTUtVZ2um7DFoFjzNx3DG3XSR/M2Ss6M/3Qd7/14NZv1To8Cd2/GnkDoWakEEsJJqp8IY9o7/CCoPx+GGHagSC78joDMnFFqt+9IcQQTzNyabjMEkr8eSpbBJl4FnIsI9LHUHQwTFmXX2t3Ni7NNFUldq2iKLPLu+k+nAUMS5yAwFW8SwWLA==",
+  "URL": "https://github.com/ClusterLabs/libqb",
+  "LICENSE": "LGPL2.1",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1594151566",
+  "PACKAGER": "Evangelos Foutras <foutrelis@archlinux.org>",
+  "PROVIDES": [
+    "libqb.so",
+    "libqb.so=0-64"
+  ],
+  "DEPENDS": [
+    "glibc"
+  ]
+}

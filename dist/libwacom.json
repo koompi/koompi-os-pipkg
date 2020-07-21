@@ -1,0 +1,25 @@
+{
+  "FILENAME": "libwacom-1.4.1-1-x86_64.pkg.tar.zst",
+  "NAME": "libwacom",
+  "BASE": "libwacom",
+  "VERSION": "1.4.1-1",
+  "DESC": "Library to identify Wacom tablets and their features",
+  "CSIZE": "89765",
+  "ISIZE": "585995",
+  "MD5SUM": "f94d6bd7b4cddad8f730ff96e34fa3d7",
+  "SHA256SUM": "29b5da63c3eaf83985614832d994c3b63ec2908911cd60e9f90d620cffda4a20",
+  "PGPSIG": "iQEzBAABCAAdFiEEFRnVq6Zb9vwrc8dWek52CV2KUuQFAl77glwACgkQek52CV2KUuQtVAf9FuUyOOZsP9LlhxWwknnn7fPh4SGQlh9WzjnOxWRU0wCzboT5emQ8RODthNcuZ2UYE/hQpHWKRWYUIhGM6ia15kStBBK7ExnUgis0sDaUY7ddnTg5kZDxmmI0k5+8Gg5IAb3OJUmEbz6DqUDJvls5AOCydAL/v8Ta3E2wf11NYpjx5rbaQKFUhvBc13Zv6B4bcU/PQzgKbG8lI6HrVZqNN4fnK8KOqP0bHaNRjlPGJ9/rn/bmVKFnNWCj1f6l6ivhUz6vxcXmOFwrFh7sawjolkBHyDrLtFF9rOX/DmFXPqyuJ88fsr7wsf/GalnyGNxQPmlqVTJYTjKKgBQ0v2IZ8w==",
+  "URL": "https://github.com/linuxwacom/libwacom/wiki",
+  "LICENSE": "MIT",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1593541151",
+  "PACKAGER": "Antonio Rojas <arojas@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "glib2",
+    "systemd",
+    "libgudev"
+  ]
+}

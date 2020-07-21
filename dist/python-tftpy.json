@@ -1,0 +1,23 @@
+{
+  "FILENAME": "python-tftpy-0.8.0-2-any.pkg.tar.xz",
+  "NAME": "python-tftpy",
+  "BASE": "tftpy",
+  "VERSION": "0.8.0-2",
+  "DESC": "Pure Python TFTP library",
+  "CSIZE": "48696",
+  "ISIZE": "275321",
+  "MD5SUM": "7f82ed19f8097ec0da89cdd8a5bdc023",
+  "SHA256SUM": "47978c04db59f94a2d58205fe3f6dc5096d5ba8ffcbe09491adc4a7c0e5f08e6",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl2/wlMACgkQeGxj8zDXy5IZrg/+IKmhUZ/fRn4nypmB3gzo0zGeoD0bdijMreUrckyDMpxUMxwj6zkR7jQPbBzVkXwV1GWwUall0Ess3JvU1KmyuRKnf0ugxaDUbPhYeqqz7412E0/BNCQIBwte8kFW3mc9wNlzYnQoTGqxLL/WBABCArg6DJZi39SMoWlftnfT4hUX2SQC6alJ6u6ucA3pFYUOTjI6k2x73F4P1iBODasGc2lxXfWA/xKUXF6Fns7xNxs66p9O3HPkpOWnxRCjPZ7M0RGqmqj/oDDVyW+jMQPVAVl7mAWGBlSSVz4xoOo6Ncme3JpvG9CW8hcPfDRmDZmsY2RJf84AMqEvsB90Ln4zINLo9wWZgM23jE3zSWSXSAV4/sUF3W2cXPULn5W5Texb9G1Z3X6RdPlLD8WRKn5HvFvIgvq2Rv3aZnVOMAZ2RZRH9/28ODKOKR/y/CfAFf0ElIlXP+w9F1CIP1uKY6ngm3U7FMmbRDkMdVcQEc8Go6vJ2vOp/QBApoa7nNM/vGCug9UKOEvQdH+4uixffdgg6ZH77nvt7v0+gDFtHf6OS2tFrtqXbdaouIUYTZUOZoAf3ilm73Ki+Y2mMQD9+8JwVaN8h1oopHVNRFOhv5Odfu+CRLEQkLPwj16JMJIlgOjch/P47mlJ3emqmeSX14YXKPAvTNmFSQxH08rgCWpAsRY=",
+  "URL": "https://github.com/msoulier/tftpy",
+  "LICENSE": "MIT",
+  "ARCH": "any",
+  "BUILDDATE": "1572848000",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "python"
+  ]
+}

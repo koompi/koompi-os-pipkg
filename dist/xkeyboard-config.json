@@ -1,0 +1,23 @@
+{
+  "FILENAME": "xkeyboard-config-2.30-2-any.pkg.tar.zst",
+  "NAME": "xkeyboard-config",
+  "BASE": "xkeyboard-config",
+  "VERSION": "2.30-2",
+  "DESC": "X keyboard configuration files",
+  "CSIZE": "727015",
+  "ISIZE": "5586681",
+  "MD5SUM": "8e70d2b0fe089b44cf8983a65232dec8",
+  "SHA256SUM": "791897d2a2db2e64b30c6e2ddf82a3bdcc8fcf3b81087c02648e0f904df4d226",
+  "PGPSIG": "iQEzBAABCAAdFiEErcih/MFeAdRTEEGelGV6sg8qCSsFAl7rIYYACgkQlGV6sg8qCStA6ggAgWBjbju7vOWME+sxGsijYvwG49jrsD/ukk/i2KMtAPX/0NegQA77V3PE3QT5uJjCU/fxpVtaL/aJYpvak6v3MMMxFT+TQ/+znwGvR8qvyOsEXaO55dSodKBjFX6qAkiGYebjK3d1HsvLU0BgPje6p9Wb0eNAm767nPoIpryH5b1nFUE9KKtKwtFqXb4//NlVfrcH9RRFM/Wh8J6jrmQ5vaCaGobw8xRMp3iqo5qydSXc3CG3V5FlATNxSWt5n3h6I40skJLmi1enY79BxrrZjrrxpwrpbD+v74QwzeSrVhGTa9abvMpMIm91034Ebv/DclhaLap88y4zc3pOxHqFsg==",
+  "URL": "https://www.freedesktop.org/wiki/Software/XKeyboardConfig",
+  "LICENSE": "custom",
+  "ARCH": "any",
+  "BUILDDATE": "1592467747",
+  "PACKAGER": "Andreas Radke <andyrtr@archlinux.org>",
+  "PROVIDES": [
+    "xkbdata"
+  ],
+  "DEPENDS": [
+    ""
+  ]
+}

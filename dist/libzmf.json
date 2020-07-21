@@ -1,0 +1,24 @@
+{
+  "FILENAME": "libzmf-0.0.2-8-x86_64.pkg.tar.zst",
+  "NAME": "libzmf",
+  "BASE": "libzmf",
+  "VERSION": "0.0.2-8",
+  "DESC": "a library for import of Zoner drawing and bitmap files",
+  "CSIZE": "181691",
+  "ISIZE": "1862452",
+  "MD5SUM": "e2787e00cc4cfaeea29471d9a2d6dbe5",
+  "SHA256SUM": "e5c9162b91cbdcb71a25a525b542f17fb95be41d4f4bce911d624bfdc85c0476",
+  "PGPSIG": "iQEzBAABCAAdFiEEhs/8qRjPOvRxR1iAUeixSKmZnDQFAl6mpKUACgkQUeixSKmZnDTxDggAtQ20ASOUHu/Iz/VSl9AhmB1kULbmOe5Q8Y+cDNxe/ecw21Me2PSBmMAgKab8Av8TcaWD+r1JpeEiapLvIUPS7pkmrYbfjOw3cCOprq2gq48JiCevkkCROVoHxDydlHg5YckLk3WGM1zQtD262DVp4RkxAX7JD5TnKkHMXbwMtyO8//sQMb2oFEIgweEMSeTAg+i7oRlHco8U3T7GxW5hviPZpTnapl0YySH9v3Gv03DIcSwVYTpvY9XSS69kMNke0s1aZ/IbxPhA9Wn+MMYMcF5DUgUw7oKt4FthU+WMrA005sE5sY3DKUBws7b69HGwhXmQXB7Ob8hdFLRHy6XuHw==",
+  "URL": "https://wiki.documentfoundation.org/DLP/Libraries/libzmf",
+  "LICENSE": "MPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1587979387",
+  "PACKAGER": "Evangelos Foutras <evangelos@foutrelis.com>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "librevenge",
+    "libpng"
+  ]
+}

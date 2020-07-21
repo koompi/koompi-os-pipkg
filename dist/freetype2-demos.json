@@ -1,0 +1,24 @@
+{
+  "FILENAME": "freetype2-demos-2.10.2-1-x86_64.pkg.tar.zst",
+  "NAME": "freetype2-demos",
+  "BASE": "freetype2",
+  "VERSION": "2.10.2-1",
+  "DESC": "Freetype tools and demos",
+  "CSIZE": "153135",
+  "ISIZE": "937416",
+  "MD5SUM": "cdc2570015f8564f62c60588d3c04fbf",
+  "SHA256SUM": "92c8c44f9b75287a7f088fc5bb7fc295b943535f83668ae00343b045a1dd06d9",
+  "PGPSIG": "iQEzBAABCAAdFiEEghj4iEmqxSLpTPRwpekojE+kFfoFAl628ygACgkQpekojE+kFfp/nQf/dLp/JfHs+RcMSfCCgD6j385UPgRSPSLCzmgY5HtkbvsVAAWDJwAj1XZqJD4MpQn4eQfgRg0IxYXWjUvAsPIiZ80wXyQDqDU4/jo0eXr3WZ6XUMGeV0cu94htxG65MSNs02yRvwk58JOLGmoXI2tnwtfkeuk2AQs8d9X7QVTD1ynVtyX/Hyy9p+o9BaAlbYCIEdrziySLsWZFDdzxWHXFX1k726zbb83oqmW7puKiLFFVPbqIWc4IanajvSudpAzUJLZvermRICeeFsz32faoE3YB2V90vqOmEJLiBt1zB91QuSalhPdKBal2vCf1A06NCaSYqltJJS3Cdv6P327zIQ==",
+  "URL": "https://www.freetype.org/",
+  "LICENSE": "GPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1589047537",
+  "PACKAGER": "Jan Alexander Steffens (heftig) <jan.steffens@gmail.com>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "freetype2",
+    "libx11"
+  ]
+}

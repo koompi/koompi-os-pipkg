@@ -1,0 +1,23 @@
+{
+  "FILENAME": "kontactinterface-20.04.3-1-x86_64.pkg.tar.zst",
+  "NAME": "kontactinterface",
+  "BASE": "kontactinterface",
+  "VERSION": "20.04.3-1",
+  "DESC": "Kontact Plugin Interface Library",
+  "CSIZE": "56498",
+  "ISIZE": "177217",
+  "MD5SUM": "4ef7786835ba22d7f861d1f2f8dad525",
+  "SHA256SUM": "9c19bb8ac82087ad59917a7fa23e74803fd63ed0410efaa3623dcb68bcfdd444",
+  "PGPSIG": "iQEzBAABCAAdFiEEFRnVq6Zb9vwrc8dWek52CV2KUuQFAl8HAtcACgkQek52CV2KUuT2kQf9Huxb3jciXoYxs4ou6LGokoTeIu+vbw5tTfhx6fJ7Bbuh9pcOiXY+Xl/7ddmAePQmhr0DnZ6O8N+UzAYVhnYt+NQML8F2cL9NSj9L7g9QYDdMAwLapOWWj4D8nYGF8r2dHcfmmudNq6M7bbB2K+QTFE9tvNRnCS64SNFuyexCivKoHEo2Z1iL1ZZe97FxUNMkD0h4e0OArqvHWHunB7SZSoI7OCn+qiTkb9UW8VfnjMf00dJ4N+uVwk+AQ3HiK3jPM3Bnfa2XmhM6/fE5fvFn61qs4oHN/Z8F8jIwm+GUT2+mzqdu3Hnj0hm/N8737od+YrItc7V6ZBE3iOgroUXZMg==",
+  "URL": "https://kontact.kde.org",
+  "LICENSE": "LGPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1594104341",
+  "PACKAGER": "Antonio Rojas <arojas@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "kparts"
+  ]
+}

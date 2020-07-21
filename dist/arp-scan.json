@@ -1,0 +1,24 @@
+{
+  "FILENAME": "arp-scan-1.9.7-1-x86_64.pkg.tar.xz",
+  "NAME": "arp-scan",
+  "BASE": "arp-scan",
+  "VERSION": "1.9.7-1",
+  "DESC": "A tool that uses ARP to discover and fingerprint IP hosts on the local network",
+  "CSIZE": "331296",
+  "ISIZE": "1046321",
+  "MD5SUM": "91c794070e8803a64995982647580f65",
+  "SHA256SUM": "d883f9fb796af51ffd5fb466646921eb3db6e2821fd36b69e8661faa8563689b",
+  "PGPSIG": "iH0EABECAD4WIQQsEYxiDwLbmsHQ+fqU3SOT2i7kIwUCXclJrCAcbWFzc2ltaWxpYW5vLnRvcnJvbWVvQGdtYWlsLmNvbQAKCRCU3SOT2i7kIxTXAJY4xIHH6XdGnuwDJXouAl6Fm4r2AKCskjcGn1Igd3vzzDAbPBk6TkN/dw==",
+  "URL": "https://github.com/royhills/arp-scan",
+  "LICENSE": "GPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1573472654",
+  "PACKAGER": "Massimiliano Torromeo <massimiliano.torromeo@gmail.com>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "libpcap",
+    "perl-libwww"
+  ]
+}

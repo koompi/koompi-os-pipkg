@@ -1,0 +1,26 @@
+{
+  "FILENAME": "cinnamon-desktop-4.6.3-1-x86_64.pkg.tar.zst",
+  "NAME": "cinnamon-desktop",
+  "BASE": "cinnamon-desktop",
+  "VERSION": "4.6.3-1",
+  "DESC": "Library with common API for various Cinnamon modules",
+  "CSIZE": "266688",
+  "ISIZE": "1362257",
+  "MD5SUM": "74c2121497917938aed7413aa5cf03a9",
+  "SHA256SUM": "0c305cf257aa24ede581294121f1a52abe5a6b52031f9bc021920d32d737a6f3",
+  "PGPSIG": "iQJMBAABCgA2FiEEYEETBMCdNmKDQO7/zrFn77VyK9YFAl8LnwcYHGVzY2h3YXJ0ekBhcmNobGludXgub3JnAAoJEM6xZ++1civWFV4P/AtpYEpmdsBD1JDJVNP9evC5vkBKy7wpLbFIzA7KRQnFs80d3h/wh9Bkykik4+714PZkOzKkhyXMB+Pnb5gcZTdK4j/QQskFq+w0CHIdgjouC16N8sUyeBNsvuk/rReVa7iE+KgvwrYmHy3tiJadrRYigHkGO9palZv27s6mkrJVwxE4+CsuOJCDHPWgrbruyqJBbCreMq0W9SlYNZJ9sjp8TZ/iF5BrOSlrzp7pSSJMWhRqIOKwM5MQ5iiL26iL9iREvMQZKlwchCz2FKg2ne4mhEWrxbzxcAghosotKpRqxOj/EWWNADSQTzdcRA5N+/l9PyX+kTQddWTFRdSeTSUKwEMVq+mebNwlgjlBueONYZiVBaZ38vhbYfsDMbfEWTJQT/+EM0lEEkmykWvissuZ0YV6IE3qgFEwJfvO45ZMWb8hQCfvB/qOwGX+9mFnF+yPve+GNk9zzX96qkjFRjiF1myf87xMqpIvuSwpoetPOq5ItQfN3bCoCDKh/C4aB+b+09oR1bNFXabs72K+4pq+HGtj2G0ub1b9xbFZV8GkEQZWb+hLpG3uR+geeoVh2grKA3GQOIBoYuoXhmIRBugABxxNCwSqfzw2necL213nU9PhK4Y8Wb9lxsXVnzqWJKA52PWXMN2PQP16bW5O9zlpoNn08n5cv6ZP0WJ4GsKD",
+  "URL": "https://github.com/linuxmint/cinnamon-desktop",
+  "LICENSE": "GPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1594577363",
+  "PACKAGER": "Eli Schwartz <eschwartz@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "accountsservice",
+    "gtk3",
+    "libxkbfile",
+    "libpulse"
+  ]
+}

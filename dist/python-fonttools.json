@@ -1,0 +1,23 @@
+{
+  "FILENAME": "python-fonttools-4.12.1-1-x86_64.pkg.tar.xz",
+  "NAME": "python-fonttools",
+  "BASE": "python-fonttools",
+  "VERSION": "4.12.1-1",
+  "DESC": "A library to manipulate font files from Python",
+  "CSIZE": "1331884",
+  "ISIZE": "8397601",
+  "MD5SUM": "7bd46f5a33188d0b635fd61f3c7ef3d8",
+  "SHA256SUM": "cfa40edf80a525f3229f135e97f054a478ab7d851cdab0fdba5916e59abedc5c",
+  "PGPSIG": "iQEzBAABCAAdFiEEcXAmqdR3n8U5QHJmQPVXtzFJYQYFAl7rsD8ACgkQQPVXtzFJYQam5gf9GaSA+XRPiS+ZIbiuqWYdC8lWFoqtqq0nN7+YN0onkGRJ7YKRkRHUYpbbFfNHnceHbnDGZJtbps0g3WfXF9tJFzwa6SYKwSRnDL5Fd7IwRTcy/Ma2Tbt9P5GsU5TFAE0RoGpV7ASsoodYAcd7UHCHMmzSsvj3UFgBm9JqKjxYI3HVd+1mnYrzHMNXhMnl2UFCnAtdI1lgMWcUdOXgqqi96JNSlV1SM3XiRAONVw9y76gvnH4r5dNCkTwET/jo2bif0x7dSGfPtFmKoJpGmdJ6MTy0MgYNAbBPwayKkyCTVFZkVsEnUyF59zQ0N0o2/RhbwQy1wTEALYfN/qMwdaD8og==",
+  "URL": "https://github.com/fonttools/fonttools",
+  "LICENSE": "MIT",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1592504041",
+  "PACKAGER": "Andrzej Giniewicz <gginiu@gmail.com>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "python"
+  ]
+}

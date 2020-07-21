@@ -1,0 +1,23 @@
+{
+  "FILENAME": "haskell-nanospec-0.2.2-38-x86_64.pkg.tar.zst",
+  "NAME": "haskell-nanospec",
+  "BASE": "haskell-nanospec",
+  "VERSION": "0.2.2-38",
+  "DESC": "A lightweight implementation of a subset of Hspec's API",
+  "CSIZE": "32863",
+  "ISIZE": "127170",
+  "MD5SUM": "2449d52030112bdc36ffefdaea48a81e",
+  "SHA256SUM": "a9f7f8aa4f3a5dd17a1343b1f3c0b6b2bbb4bdb5ad493fa84a4fa1737b3a1446",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl7475sACgkQeGxj8zDXy5IOuxAAnAs5m6j4Ebnu2WoU+BU7fKIZze2mEShGgsCyhqZzmtpKxxQFEALPbMAJQl0QqINFpK3SZGWW8dWYmYBUhXIA4sHt1qaFMPzHLzPi6omeCp/E46MqbqmpKldD7kp5H6U3rqabmcUSaUlfpGFKqrpjv34MQlh779y4rXCClFIoIDIAtSVOWdVi3OW8KLb8rVg1v2/6OT0OmrgbwfKvkcdKzupofsqSCtVb/5f6XIBDyqH/e3C7Ey68JfDLGlP2/9bkG8pRkdBsdJ90za3tyUgU87U3ppJOfW1QqVTvGa6C6Y63xOjRCgtmBpvV8tXpCUMaBj5etIxoiSG3zs/v3SfKHXhaXUe61K+Ksl7xe16N42A9kWxX784kRPvTD8Tf1sr/ENMGir5MQ6EZqM+A4eNhQ2Lsq14lSCKIA/H86ASlIZymino7+dMvZXzm14OJq3SPjwZwfBCJL+oOBUSLQK4Ik8R2R0svuLHzkDEB2aiD+sFA1nu0W8RZ/buf55JlfU4bAOKaYd3dcngfew2JtOeZCkawyldCoG8+JW8siR0GOq9vJfyJ7opVbxaWETVgnBxgnY+QNyUoxu5VldjO1MhfZlXvJJvmZKPJnv9uV4e8bPIjROpqoIO0BTku8W73Yn/I5WRtUn1utW1twVZMdgGuOBQVX9hb5ItQYzO2LA2xb8Q=",
+  "URL": "https://github.com/commercialhaskell/nanospec",
+  "LICENSE": "MIT",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1593372504",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "ghc-libs"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "FILENAME": "lib32-libevent-2.1.11-1-x86_64.pkg.tar.xz",
+  "NAME": "lib32-libevent",
+  "BASE": "lib32-libevent",
+  "VERSION": "2.1.11-1",
+  "DESC": "An event notification library (32-bit)",
+  "CSIZE": "186952",
+  "ISIZE": "858112",
+  "MD5SUM": "35278ad710317d84ed7be351a39468b2",
+  "SHA256SUM": "5805ba5514d5d5cf0a02e00dccec82766579760c5ea0b630c1728ea454670bb7",
+  "PGPSIG": "iQIzBAABCAAdFiEEj8FaBklQqZ3RvRTdOeS4d+YuuRUFAl1ITmoACgkQOeS4d+YuuRVBkhAAro7dPDusAbL/oe2xGdIelRdNPi33i0vaC3twug8vdU4TNMYn88mZ98f20YuPf2bdvHOEHY5RD80GclCb1F43zRJf+xmD/NYidYmtesC28AlTNHFuhMqA1+G02X4nyi9KHT254a2X0rt5g/RMi/nh+bYQ7TJ5FkB1BN8t2m0MvVXNKUlYNx5/V+bpi9BxIvBN0+EGsoO7pPyKjwgike4kOuI2V8Vn+5ePo5pXfvcENrkksCtxzBl3dKpK1BOqwHUzKftRHIkCwVAA24s+TVrA9JI+C+dA9ZtQYobwvVMcLnNAkbFQzcMIIbOodNcgbbkjeFKVI1RMHRiaYgmkFf9MO2XO3M6GPshN7SjXtD8II406y3ujAHFbtMWd4aHH3m8jcZ4fUF2oWnxDWmiuzLe+M0d+Vt0RzAG1pHoMycegbypK/VnQDAPXNFTUUvZX+2YdHey/1BAwGgFtRiiS7/1qUX26KrkNgUtO+3KCHlwAyhMzXC9s1rGU5nFqfQFtI5u/p6yYrp52mJAyiM6XhBiHqsuWiON2r+Ov2DLUBZeYX3pdjY5HhPkaMwNgSiVKrvoyih3fhd2IBUyLSye4JChNFJXpmAQT0C6t3CGjjp7vx0Li1Ri1qejrONmaRyYPhDoYEgc7fqfZEgPc/GV/lYFGxkAsibrNIlO7Z3mN+fVbGM0=",
+  "URL": "http://libevent.org/",
+  "LICENSE": "BSD",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1565018519",
+  "PACKAGER": "Sven-Hendrik Haase <svenstaro@gmail.com>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "lib32-openssl"
+  ]
+}

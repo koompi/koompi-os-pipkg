@@ -1,0 +1,26 @@
+{
+  "FILENAME": "python-tarantool-0.6.6-1-any.pkg.tar.xz",
+  "NAME": "python-tarantool",
+  "BASE": "python-tarantool",
+  "VERSION": "0.6.6-1",
+  "DESC": "Python client library for Tarantool 1.6 Database",
+  "CSIZE": "44888",
+  "ISIZE": "245601",
+  "MD5SUM": "6a36821dfb8e153b4fb4104e61368169",
+  "SHA256SUM": "345f9d7b7232fdad3169e8641157377053eff77ab0653f98f830fe1f8a1bd137",
+  "PGPSIG": "iQIzBAABCAAdFiEEjhmSFnRl21+wRVV8sChU7XU+Dx8FAl3gtJQACgkQsChU7XU+Dx8GaRAAsssgnb1DDK5yhVrr//xwyXZDsXT1d0ZueKEOWl/SHsz44dFJ7ruJRH75XKkoqNowtLYsBgIwU5OMITqWgyr3xcYWEfHcyYx5S5yG3/FNIL56HQJxiN4aw3YaKonHH2pwP8raJdSBM7hcbWmQTps0I9zP4R2+mas7dlYYbp5XE03urCCmvHUKt/U0f0X6CdpQ/zlIodSjczi8UNz9ZrMvcx9AjAnceXG4Q7SPsAviRPwI9xOU0NHzOFcjGv5xhjQ8PKOTwVTiQbPXhLU3WD48GX18E2S6p/LP05U3n/KWwpjjznudwaEpQRGiOsIWD9oM2q1+VhJZk5Q0NJ6J7GgaVqBHdl9w/h/1gni2FYSuZSVX+3LdM8+gWk1PwNdqmfGb8yK9ktfmuanMTkLfEkzB6YlDPkivsRn3IsunZzuTLaSYfTONBq33wjL3nwFxFO2aguOq/DTw4wATV3F0+ap0pkpd5hj2B+QaKkh5vEVAdObcaWXD7yNaMMy8QAjkiHb7HY/1/aHK03Mjdv8qAHIiMclIu8E/bBNIjDWd8x5vVjTrfQZs3zaFWp0AWpr9XL8cSRbUmyWEFSSyfdSnJRv8mZYWpqc1tp2ISkIuy9Mwcb7bDf4vus7tFWImkKOxryiMqAxyVZSiyejStMk2T4g7Brq8X81JiA49vNlGErjllaA=",
+  "URL": "https://github.com/tarantool/tarantool-python",
+  "LICENSE": "BSD",
+  "ARCH": "any",
+  "BUILDDATE": "1575007337",
+  "PACKAGER": "Anatol Pomozov <anatol.pomozov@gmail.com>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "python",
+    "python-msgpack",
+    "python-yaml",
+    "python-six"
+  ]
+}

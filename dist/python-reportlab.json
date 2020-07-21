@@ -1,0 +1,25 @@
+{
+  "FILENAME": "python-reportlab-3.5.42-1-x86_64.pkg.tar.zst",
+  "NAME": "python-reportlab",
+  "BASE": "python-reportlab",
+  "VERSION": "3.5.42-1",
+  "DESC": "A proven industry-strength PDF generating solution",
+  "CSIZE": "2429398",
+  "ISIZE": "8904523",
+  "MD5SUM": "bfdc20b0f714ce9ed9bcf437f9a796ab",
+  "SHA256SUM": "3707d3dce08dfe64eac700ce93aae3b23c221c4b04ec3b80ca1b7649568db9d8",
+  "PGPSIG": "iQEzBAABCAAdFiEEFRnVq6Zb9vwrc8dWek52CV2KUuQFAl6Ur8oACgkQek52CV2KUuQBWwf/b7WKy6v1eZsmquszNPHY1Gkju2YvoIRWSU05iAA61wYhqR15HX/FZOfaOczma9COKe1VTyQt58EABq2ZPxZ0c65DdzXYakoFLUji0NXbjwr7O5Ul14U5e1r0P5BiPQo64tphCRi19wY+J3umS+2d3pG0xmleqM0tuzEj45Tt9xN1ehTPmoNSAc8FYzwwSG7MH1MeOyniFc4uKojO+R9kQNHAoi20NTldzE9w8TNDjK4AmoZODkfHvVInhLE5nP93EchN4yRuQvrnIN41yWRVcO3JgsqX6EFzTBOxlV0zpx/FdSdfiX3Xtihnbs6eZYe5+fSCPAVFNyDEjq6mpUfu1g==",
+  "URL": "https://bitbucket.org/rptlab/reportlab",
+  "LICENSE": "BSD",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1586802499",
+  "PACKAGER": "Antonio Rojas <arojas@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "python",
+    "python-pip",
+    "python-pillow"
+  ]
+}

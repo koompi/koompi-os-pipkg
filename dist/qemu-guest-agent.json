@@ -1,0 +1,25 @@
+{
+  "FILENAME": "qemu-guest-agent-5.0.0-7-x86_64.pkg.tar.zst",
+  "NAME": "qemu-guest-agent",
+  "BASE": "qemu",
+  "VERSION": "5.0.0-7",
+  "DESC": "QEMU Guest Agent",
+  "CSIZE": "166548",
+  "ISIZE": "490583",
+  "MD5SUM": "75e98fa1b0c76ebbc4d27941c2c4de9c",
+  "SHA256SUM": "64d9c1e8e7418718d24258965a4c7b70c1c7f6d3ef0d2028dcba2f346f21db44",
+  "PGPSIG": "iQIzBAABCAAdFiEEjhmSFnRl21+wRVV8sChU7XU+Dx8FAl7We+UACgkQsChU7XU+Dx/kGA/+LZz1jD0jkt9n9ujw0kHF0ao/O1iluH6+Az+BItZzMQQcm/JDmZwMObfJV1Evmx8yqoZqc1mEQYx1OmE8QkFTb4bIzdX05kFIGRBKnoZMlIVCJ+TlKhzjiVaq4Gs8FHA1ThmCZ4ZPFWn4z6eqnXWPvAT9Rokv0N9iqbcmBWJvGNVVePnFcaLEVmvuzJWGg805X/9OyDMtSH10id1XIVNuV6abqZumcnv1tp+vOtTNpZ5cDYWhlEYXv168SmOb5OVT9VcZRDOhc9tWz3Qs/QSZS8jk3THpR2PmM+QHL7xmf1CNtwh6K3eygn3gLfhU8E9XPNeXdi45uVDp0uSOydumvtUHVpVx6ewidDI3hetxp+cohcRx9AJJwV5ZofbPhpnPGEobIaMnR7BovVyObAzHtfG8/vjFEwMtmZPosqIm/0SDOkr/rYUIKPKUr/hb+M/B1lvabPjn8WddUpW7RImbFL5icfEupMyGOGOy+Bj3c159RIMdch9IlrCotRodZvn1Z4pLzehaIcaLC8H/42ixqtRb+XT0dQxcrPq8rSLx8vtuXqdjEEh4HW8jCff5Nub8J0CAyrdXcOIKjsBBO2/pxcn1cTgqV96dHKzxCzYJwpXwewR6302dAUqa128pQEob6jOSfovaWUm2pOvN9np/YY3sD21ZRSyuzw6FMfKRb6s=",
+  "URL": "https://wiki.qemu.org/",
+  "LICENSE": "GPL2",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1591112784",
+  "PACKAGER": "Anatol Pomozov <anatol.pomozov@gmail.com>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "gcc-libs",
+    "glib2",
+    "libudev.so=1-64"
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "FILENAME": "wifite-1:87.r139.918a499-3-any.pkg.tar.zst",
+  "NAME": "wifite",
+  "BASE": "wifite",
+  "VERSION": "1:87.r139.918a499-3",
+  "DESC": "Tool to attack multiple WEP and WPA encrypted networks at the same time",
+  "CSIZE": "33177",
+  "ISIZE": "164684",
+  "MD5SUM": "9eb1448b23175e9437f4d3351d216fa9",
+  "SHA256SUM": "de805919fc589155d7609fcf43d55ea3effdfbc1f81c6ea925e82f132fab7f06",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl8EucYACgkQeGxj8zDXy5KVfw//Vcf39Pvcw4vUK5bTeCV13snyR5wykGGUAb6ZM3UnEhhKAAZFD3UEji3wsmQ7jHKcuDCQjy8s49cWFU0i32hbonPQYlBlzOIVBzddScln9P3x/3qCDKysBUIE//wvM6uhv0FubvRyJu4TkJq4znRQzE/UE29FVfz4phkaREDEZVwDCdhXKbR/VNyn5kq7ZPjWZcZrQKuDIjHmctqw6F+ZrJg2v4rKiru8La3HOU4BOrJ4lGtkE25gyCzRiK/oVnyT6CyIXhGlZAPM6TecdQNLZFHxqhJNh8eARhtFpKSIbBWxVOr805qGQvAGFBhsg9JbYTjkgHI3pNCyTrej7OQnwwsQboBuwNDEGRoPKvZhOZ81nRA0yzUGJeCSiNcxLcahxnujmAsY7bi6JIzhoQDeIMjsRiQdiy38/O5csb6xxyBBVLHMBtOR8F+bDSr19IMGXDhzo9YumUXorACsgJjEE01Bexdcsnh55EtHqqhKsnJ09FhPVSvidEW/9mKPA5eLGbNmph8wdf+laUhfKWEEsX8Kxh5k6o9IuxR7ltZvBWiElQMEL5ebXa0LzPDUCNtRVmA3k/BpTq4hHirYA7mpg5i0Oq748jkHgOFtLCeb+GBco4aVExkUAv9aFKkDTsbuBKzfW0MWCZGxUA7ehad5QNDxkKn4vulDKRTPuI85tSs=",
+  "URL": "https://github.com/derv82/wifite",
+  "LICENSE": "GPL2",
+  "ARCH": "any",
+  "BUILDDATE": "1594145175",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "python2",
+    "aircrack-ng"
+  ]
+}

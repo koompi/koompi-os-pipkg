@@ -1,0 +1,26 @@
+{
+  "FILENAME": "lib32-freeglut-3.2.1-1-x86_64.pkg.tar.xz",
+  "NAME": "lib32-freeglut",
+  "BASE": "lib32-freeglut",
+  "VERSION": "3.2.1-1",
+  "DESC": "Provides functionality for small OpenGL programs (32-bit)",
+  "CSIZE": "88772",
+  "ISIZE": "314368",
+  "MD5SUM": "edf5975c10d127b30f7ef475f198a66b",
+  "SHA256SUM": "345ea0d6c50c48fa861fb0ca5b0fbd148c7a8d765855ee055f3a1acd5cea2351",
+  "PGPSIG": "iQEzBAABCAAdFiEEghj4iEmqxSLpTPRwpekojE+kFfoFAl2SOkkACgkQpekojE+kFfqZ5Af+KyAbgrT1Y4073VfwdhnbhdwzL9qhRyBBJcA4FFhai+P3u6aStlchSPSlLOH+APsCy1PX4x9CQOqlhbeSJqHd60gk8uGRSrc0cbl8XnE0rpYeWPDBQ5Ef1ryIKmzyEnTqmdoOR5LxA0fqDZ2sZsXCwHDUNusUwwyqtzfCGgWaGB2cb4lHT4ygPIppgiExQcKpwrLUsqXKQYCmg/EKtv053xfsYFNC1t74sZk7Kq1s8hnZSchKbKPUX4Plg4qRni4lftXVxHbOUiNIiEAfXJynjd5F0bGAAS1BybHlvfjOWckC3f9R4g1hyiA5M9oDub1lmUwWgr6f8hEgr1hRWHk8zw==",
+  "URL": "http://freeglut.sourceforge.net/",
+  "LICENSE": "MIT",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1569864213",
+  "PACKAGER": "Jan Alexander Steffens (heftig) <jan.steffens@gmail.com>",
+  "PROVIDES": [
+    "lib32-glut"
+  ],
+  "DEPENDS": [
+    "lib32-libxi",
+    "lib32-libxrandr",
+    "lib32-libgl",
+    "freeglut"
+  ]
+}

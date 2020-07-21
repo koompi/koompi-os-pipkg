@@ -1,0 +1,26 @@
+{
+  "FILENAME": "zeitgeist-explorer-0.2-8-any.pkg.tar.xz",
+  "NAME": "zeitgeist-explorer",
+  "BASE": "zeitgeist-explorer",
+  "VERSION": "0.2-8",
+  "DESC": "Graphical interface to monitor and inspect Zeitgeist's log at a low level",
+  "CSIZE": "75660",
+  "ISIZE": "439219",
+  "MD5SUM": "43ed8eaf3cc942405a007056a62b53e2",
+  "SHA256SUM": "f55e3e0072aeeae40bc035a4dd6e96b812383e6461fa97262c05586ccd09cfe6",
+  "PGPSIG": "iQEzBAABCAAdFiEEhs/8qRjPOvRxR1iAUeixSKmZnDQFAl2/958ACgkQUeixSKmZnDRYrwf+NC+n20KSUVJvQ10Bu4cn+5WKRU2GRg14IolATdaw6RhXfb1hEWXCGmVfc8nvVdvweegdks50SBLfdTtKG5L0tAd4UhMJB0wDZ9jCBZukY9nWFqq1Y7SPIEpNcLYllT9PIjyygn9caXZreEgf3yT3aHMgVnqo9jv8LaSZ6Gul5iJCiRQ9gq9blXXINYM0ZrmrWYSBsrtHQaXkG/HYVqu5V/jB+PQ1FiiaEtqiHpPEbfSuijFDtpmSNnzpjfnocCRooY7MV7oVO5orso6PYVPjpZ1gJBONa6gADa/SxxDyL/DvWPZrivTy+ujPL8/A8r171gaSrTfww2OBFJ8HqalnLQ==",
+  "URL": "https://launchpad.net/zeitgeist-explorer",
+  "LICENSE": "LGPL",
+  "ARCH": "any",
+  "BUILDDATE": "1572861815",
+  "PACKAGER": "Evangelos Foutras <evangelos@foutrelis.com>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "gtk3",
+    "python-dbus",
+    "python-gobject",
+    "zeitgeist"
+  ]
+}

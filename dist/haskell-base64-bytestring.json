@@ -1,0 +1,23 @@
+{
+  "FILENAME": "haskell-base64-bytestring-1.1.0.0-6-x86_64.pkg.tar.zst",
+  "NAME": "haskell-base64-bytestring",
+  "BASE": "haskell-base64-bytestring",
+  "VERSION": "1.1.0.0-6",
+  "DESC": "Fast base64 encoding and decoding for ByteStrings",
+  "CSIZE": "33240",
+  "ISIZE": "125150",
+  "MD5SUM": "e0dc1106b7989da6c517c8846ddaafbf",
+  "SHA256SUM": "5dd420e408ff02cf55e6dbd522c1422813005ae0f05c2256af33621c22f9a1ec",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl75FiAACgkQeGxj8zDXy5JDbQ/+OgKXZZ0TRZoTmxprTPWdMweTkH5cvxc6riCTkRpN7wco2+5Rsovrk1FaySEeisWyk8ElvyTD6bvneB03p740A1nVNBz3uhvIAVffGKqrQTCYb094Dtd8qDnkPdd6DszAvmfqPRfA/KgzW+pkiyWgPCuKcCAYBth6lp2sg21/MErN1FQcz/xbN9GP6eDdYujobNHVHQXowgsvhb0tLgXXz1yfFzx6AzEq5MpGfV/rIi+19MHlNA9WhnH11ChIUjA56h7OB6G7JeLK3MLFsdgfcDUCMUpCVkE/t1Cnt6dG38LkdGxjiJ+2GTN8QfGMiTZmxnNELoiseVtjukj+fVp2OzNFKvjXC0veqAZltdR7ze+CUhuiH+Aq+KXzQYjMCDa0JXDE3vlljJrP9sD/Q9h0SbBocS6YKK1rWsXiuA01X1km0cxPi1ixBgdL96ofikcGDtytRdkk4/Vy5U3wlYQSKwOZRley6Ig3d/U/Vm5AauLYr99c5uxcXTCoTlRfpOHmSgNZcSzr62ljcZJfQsF0rEsS9LCrKwwpZL7waV+6cmXgdOJvCsUwOkBH1KF6DZSaKpHzNs2yow7twzuwoTzqPvxJlT6jEvAyhMHgI0njMkKQNn9mbjuXmIe61NgJmrKFcK460mxtfKe30gspdIrDQMW/6uLqkSoDj81l/nf6R1Y=",
+  "URL": "https://github.com/bos/base64-bytestring",
+  "LICENSE": "BSD",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1593382401",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "ghc-libs"
+  ]
+}

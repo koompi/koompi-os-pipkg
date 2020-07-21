@@ -1,0 +1,24 @@
+{
+  "FILENAME": "ffmpegthumbs-20.04.3-1-x86_64.pkg.tar.zst",
+  "NAME": "ffmpegthumbs",
+  "BASE": "ffmpegthumbs",
+  "VERSION": "20.04.3-1",
+  "DESC": "FFmpeg-based thumbnail creator for video files",
+  "CSIZE": "30136",
+  "ISIZE": "85959",
+  "MD5SUM": "35ca1b4e97ebc2c945688e7315fd7817",
+  "SHA256SUM": "c7a66c23d6271f719df6ba1f14803eb42083d65d967410b86ebe0b157366f62e",
+  "PGPSIG": "iQEzBAABCAAdFiEEFRnVq6Zb9vwrc8dWek52CV2KUuQFAl8HBsUACgkQek52CV2KUuR35wf/ael2wPEXWCJvj+fDAIZXNlXp1fC95LLyYtHOgf0Bhlg1o0jrKEZ1Fxg90sTZaUiZxGOxPe+/xyeGdr4VBemPRrweEY6sZyy4j/0E89wmM3oCJhavDurBPYA/RV5lWxhmEIyrToPHub4h6NVNIj4b9ZUQ80WcMIdYR9fJhuS+xiZ6JB96hsq0AUEzYvUDMetxShN3807CIA50cN1jPZw9Wfw1XYak34Kn3Xe9WnL06xnS1HPjTCYl2MxEor3zwr9X/s2z8Vz0Xp8FXS0pelxFjXZ2Z1Myyqqw1U/IHjMcsYloIV8Arpj1kBlXqbMS41QcaTZHeNi3DAHR6uVInoR9NQ==",
+  "URL": "https://www.kde.org/applications/multimedia/",
+  "LICENSE": "GPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1594110383",
+  "PACKAGER": "Antonio Rojas <arojas@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "kio",
+    "ffmpeg"
+  ]
+}

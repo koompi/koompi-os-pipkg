@@ -1,0 +1,23 @@
+{
+  "FILENAME": "kdsoap-1.9.0-1-x86_64.pkg.tar.zst",
+  "NAME": "kdsoap",
+  "BASE": "kdsoap",
+  "VERSION": "1.9.0-1",
+  "DESC": "Qt-based client-side and server-side SOAP component",
+  "CSIZE": "569875",
+  "ISIZE": "1880670",
+  "MD5SUM": "db062e92dbd86a11fad16757b2e93b3d",
+  "SHA256SUM": "3749e8ddd4221fda73bfa725610c49e0f830598ab1d48706b4affe397d0a6e41",
+  "PGPSIG": "iQEzBAABCAAdFiEEFRnVq6Zb9vwrc8dWek52CV2KUuQFAl50zZAACgkQek52CV2KUuTr+Af/dFq2wijQC6zCh9tHgcO0MqDd9C/HbyZ5i9zdxuW6kDMqOdLQr6/EIowy/cHjy9asY7ouqc8+3S6pOYvkKhZBTBg5ccmZnVeCe5vaPZMTrYMy9ynR/0brBNXhkjssaFjbOgUQF62Ip05XdEmiF2nOUeypthFqb69DWjqhKUOp8k2OBojcSstX7tSBVR6VJ2h5oZuAYkwo1mC3hivCycU6btRVE6gwWyrhaeATCb68F9rOQIEySFCQ+/qwfduYGpvjKT6+Ws5x8Jte+7G9AYM/6Lk2k2sqyyDksKVOZZNISS7qdbCYoSbccgLeMQQr7yEG3iLDCMNYYRx/gowWdQ2Mcg==",
+  "URL": "https://github.com/KDAB/KDSoap",
+  "LICENSE": "GPL3",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1584712535",
+  "PACKAGER": "Antonio Rojas <arojas@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "qt5-base"
+  ]
+}

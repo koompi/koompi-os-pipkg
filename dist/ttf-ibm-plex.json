@@ -1,0 +1,23 @@
+{
+  "FILENAME": "ttf-ibm-plex-5.0.0-2-any.pkg.tar.zst",
+  "NAME": "ttf-ibm-plex",
+  "BASE": "ttf-ibm-plex",
+  "VERSION": "5.0.0-2",
+  "DESC": "IBM Plex Mono, Sans, and Serif",
+  "CSIZE": "3913223",
+  "ISIZE": "17500792",
+  "MD5SUM": "498315dfe66d80972e2c1ace27bd21f1",
+  "SHA256SUM": "6b0f0ee225a8532cca7a9d5b8fc97a0753109dcdfd45629108d0e8f275312f1f",
+  "PGPSIG": "iQEzBAABCAAdFiEErcih/MFeAdRTEEGelGV6sg8qCSsFAl75w9AACgkQlGV6sg8qCSuNLAgAtmeow6B5/Lrqpy0B7TzvhHKo3Ib2SU7yanG9wwnH4dNZW3NkyXC8gsqSXPnz1mfqtEfqCa1/i4d9TuTv5Xe8QMJcv7ZWrMGxFBWOLZsAfYiu5YvOiduJBs8EP59yg5hf7vZNrTSW9Sm1vJTRpaSRoGuRdsHfhvxIuRwq1ARcN2/KttJhFeCb9pZ92Xt2jD4LhbucnZB/p7XcQJ8KkxLufmQRreIAud2LQHkL32+8yQNJ5QqMD+s+tbed8IODPhIt1i/KkPbrAFl8oJKo8BIguB7cAEmMN5U5acdKQ9fXJzXkx2Q9mW7lIprxWeXWpSNMohJekPEvWVECvrltH8d53w==",
+  "URL": "https://github.com/IBM/plex",
+  "LICENSE": "custom:OFL",
+  "ARCH": "any",
+  "BUILDDATE": "1593426843",
+  "PACKAGER": "Andreas Radke <andyrtr@archlinux.org>",
+  "PROVIDES": [
+    "ttf-font"
+  ],
+  "DEPENDS": [
+    ""
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "FILENAME": "pd-gem-0.94-3-x86_64.pkg.tar.xz",
+  "NAME": "pd-gem",
+  "BASE": "pd-gem",
+  "VERSION": "0.94-3",
+  "DESC": "Graphics Environment for Multimedia",
+  "CSIZE": "5895000",
+  "ISIZE": "14679414",
+  "MD5SUM": "1fe2d2a6ffdc626ca1b671f4d0ce84d6",
+  "SHA256SUM": "2c6b089eda4eeeda2813b6d436a65ee1d0b2f90b62679df5582bb3e98335b5f3",
+  "PGPSIG": "iQEzBAABCAAdFiEEFRnVq6Zb9vwrc8dWek52CV2KUuQFAl26mmYACgkQek52CV2KUuShbAf/XWDuc4JUxucJEcg2v1PjKMVtAh/bA+oYm3qaYm6/y99E+wHvlE7fI6J9XtilPcaqluQ9wS1LJ4LjI8zig7exMBXVAhhuzi8o4bVj6Cw7kWfb95jCVE6ZKCVeE8utBqSbs9N6AZTnJtpgYEulpkfyLyWhcQ4uOKYtHp3zzHZuzDnarK+4hcepuRh/Qp+Gz2d4eKRIufdTs2vOsASVbvzRluHK0FywCbJPMudQ4kIVmk7CFHT6Sq/MzK2bqoBuzPEiql6Bc6caY8capVWhD5uQyfHd3i/tDQjApkSbgnBRrkpYwWtmZUASj1LVKTdVOvIw91sfWXMrQtUcCi6IAJofPg==",
+  "URL": "https://github.com/umlaeute/Gem",
+  "LICENSE": "GPL2",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1572509911",
+  "PACKAGER": "Antonio Rojas <arojas@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "assimp",
+    "ftgl",
+    "glew",
+    "libdv",
+    "libiec61883",
+    "libquicktime",
+    "pd",
+    "sdl2",
+    "ttf-dejavu",
+    "zlib"
+  ]
+}

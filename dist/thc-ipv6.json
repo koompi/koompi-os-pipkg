@@ -1,0 +1,25 @@
+{
+  "FILENAME": "thc-ipv6-3.6-2-x86_64.pkg.tar.zst",
+  "NAME": "thc-ipv6",
+  "BASE": "thc-ipv6",
+  "VERSION": "3.6-2",
+  "DESC": "Complete tool set to attack the inherent protocol weaknesses of IPv6 and ICMP6",
+  "CSIZE": "738185",
+  "ISIZE": "6283950",
+  "MD5SUM": "d4146f2ff5c356e5839a7f5acfe7c062",
+  "SHA256SUM": "b0aab40a5445b191e1db027cd87c492ef4ff3bfca65f2066c0f0a22daccf6fbe",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl8EdhwACgkQeGxj8zDXy5J1WQ/+OU368kgs7aNANxYnCoAbtOpgctDLZOd21VKTDYIP12QE/JYViY98be7MtID1cQXoYZt0yi2R/VrCIROUTBfJAskO+4qnImQblpU5VIatKBXLln4/crovFQ7oYvkQJbwSBv3p6krYbG6E4H9ZhJAx4CUPMjzmOAbNgoeRA323s19h88m0mB0Tak6LQHhZUtIJuY5WOIAxkjMBFHd5aKfwUiD2UlESAPu665H0WK6HQgZFvURv4cAFi+mCMxsoTEv9q+dqvVPfXPYiYRTQVjYqtFA5/5kO4bybIpuEMufTT6/tWnT5VY5P7RuugCddthkbfTpdplG3Yr0j1w7/tffSK9nK6DdbtevV+T/I7O2TkAszJB/uK48dRtrwJiUUrTjM+ITvDswMH0W0DC7ZMS9l6oiDlyAgUQMUM/K5BVHP3D4GPhBdf1CVfGsGAO+OmK0LkdEgxpUaL8UC+A6YH3hyn5YDuGnW7hEfwYWgjlWm30V/XvF19TiRIjl3/YOq4alsrUS5g0zHIT7oopeliR2gSZk85BsZvr5LfA4eK6EPwdjLVqXT3I72TsBkg7X4B/983S7cF9OXneeY0BuuOJoJyUsSvHAtfc3/i/DbeX3iwIGHR00w4oswwUNd/wTARMuv5fADTmOVdXLZiMjRE5DpJoWJ9Uuyyd6kXGh5cNGMwC8=",
+  "URL": "https://github.com/vanhauser-thc/thc-ipv6",
+  "LICENSE": "AGPL3",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1594127870",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "libpcap",
+    "openssl",
+    "libnetfilter_queue"
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "FILENAME": "haskell-old-time-1.1.0.3-23-x86_64.pkg.tar.zst",
+  "NAME": "haskell-old-time",
+  "BASE": "haskell-old-time",
+  "VERSION": "1.1.0.3-23",
+  "DESC": "This package provides the ability to adapt to locale conventions such as date and time formats.",
+  "CSIZE": "79718",
+  "ISIZE": "412243",
+  "MD5SUM": "1f8f0c58b8338f99e4bf36920c2e90a3",
+  "SHA256SUM": "d94690efb7c7025833615b81eb5437e7e1f978cfbc90e8bdd665f52e0411fc95",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl6hnhQACgkQeGxj8zDXy5Imkg//TzIfsEPDDOqLALUflA2B5IuqO7pxImY5yiSxdRNUsEY32ezvvlJIUtht/kV1Y0Gy7DLza8iRNRBfvm3w1DpvjFjdlTeZnWZsOTLwEB/N4/k3KaFOvCiCgVlQ0P6QWdhZXrj9QNOXYZGS5cOhMkpss6XKukwyylQT1wmc7zqageYl2Tysj2udRV4QiL/ySghAy/N9qnVNRxu166D3V/zCn6wVUPmEQwRk2eYH/l2vEXQy9rDJsQPlC7joCb5tBuozlfin1ZshwUhSIKZaifMhthdEGRv7IhGk/QCgiDEbCIz7Pxwn4btpVRAlxsYpU0A5oekFPF9xBESlVAvQhVAIXwTsOHesJ4++fz0n4YTg9gu54X8G3lw91+K8oFBTFIDGPQ0qx85nDlY81+NgtBM3P3aLasQzwWLz1h7ZccjzmjUDGzSjHZ2Y9zk2dCy/AZX3cBAfaDsGMkb8H0DRQ95yNCDFfGj2ph0bzrJnQGrzvh85DMcbNzgI2yynNhC6BzddvaQx3ZQBAmQsy4AHq1nVqexEKfP0GwaHExCxNmyJ9AEH347kI/ur5746r/ePkab6lhDqHiU9RRoJ1YnbDAbxjk2/tGmcWCbVHvfkr9FqfU4iUMJ2WGcMleBXuKBOZgB//op5d6oonU1PS9q3/aYOwSQ4Qspiy0nSoc9iiw1Znx4=",
+  "URL": "https://hackage.haskell.org/package/old-time",
+  "LICENSE": "BSD",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1587649979",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "ghc-libs",
+    "haskell-old-locale"
+  ]
+}

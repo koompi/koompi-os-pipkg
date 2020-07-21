@@ -1,0 +1,38 @@
+{
+  "FILENAME": "fwupd-1.4.4-1-x86_64.pkg.tar.zst",
+  "NAME": "fwupd",
+  "BASE": "fwupd",
+  "VERSION": "1.4.4-1",
+  "DESC": "Simple daemon to allow session software to update firmware",
+  "CSIZE": "2975185",
+  "ISIZE": "7284841",
+  "MD5SUM": "0111288b28fab6b8c1ec0d3184575777",
+  "SHA256SUM": "5304a1529af46ef3cbe508692c92783bb767cf1ab8b2f1a2055e61518dde4f70",
+  "PGPSIG": "iQIzBAABCAAdFiEE0jW0leqs33gyftiw+JPGdIFqqV0FAl7qL/IACgkQ+JPGdIFqqV3yahAAt4XKLgVCOSMkdhdnT4c9HcocIvaLQ5aD/DuELrXipuviKsu7U9mWt/DK8XoNr2QrIc/JM5CW6/a100KycHIgN/4OBcMoT5qVMDy9AxlQ6F9KEDnRtktypLKg1Kl3PRYqqQPYDATmy7ey40KE72jJsnLzPyFDPZ8MrhFvHP9q1CvZboOI+quVCZF7NU/Fj2KsXJFdJ7SHE9iOvxBsm3naQNcRH0zNK7vkSgOrwHLsiRclZjpmednR4bU/A4V6MovHKZcnD/Lxyv+2X6fJPmYdYtTc8C8QPsiS26hQRztw4rpgnKX/nCGnunJ1oiy7dnh8LOKYCCjYVst/KiokN65KclyT4+FnlRhf2AWkdxitTOTsqYPe0OpJxzL/HItg9/Ha32fGTrrmMSlcviUnqjFXd0+QJh0KYKRy+s3ysRIfe1CpzNvEn2BrAO35bcFja9T7f5pIPNNRnKAnDsSQ0KyWBCBx1I8zQbj/EWXHxH9KMRl2YgnLhlz2BzAGISCasxOb2sER+2c8wwqKDRrtP9BMp6RrOE2TE9R6Z3BkthrlOsnCvaUeLHrrOtvnozbAF5MktbygfU2gzUgj1RRS5i+j/3d+PkP2Bq/6EAH+KHPu9PiH7whqW4dS2LY03nV+bJd/Dc52L0UN9Bqdmp0MnerMmvWsmN+MFLWjpj9qmIpx2Mw=",
+  "URL": "https://github.com/fwupd/fwupd",
+  "LICENSE": "LGPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1592405207",
+  "PACKAGER": "Filipe Laíns <lains@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "libxmlb",
+    "efivar",
+    "python",
+    "libsmbios",
+    "libgusb",
+    "libsoup",
+    "json-glib",
+    "gcab",
+    "libarchive",
+    "gpgme",
+    "libgudev",
+    "polkit",
+    "shared-mime-info",
+    "tpm2-tss",
+    "flashrom",
+    "libjcat"
+  ]
+}

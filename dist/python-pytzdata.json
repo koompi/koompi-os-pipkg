@@ -1,0 +1,23 @@
+{
+  "FILENAME": "python-pytzdata-2019.3-2-any.pkg.tar.zst",
+  "NAME": "python-pytzdata",
+  "BASE": "python-pytzdata",
+  "VERSION": "2019.3-2",
+  "DESC": "Official timezone database for Python.",
+  "CSIZE": "174012",
+  "ISIZE": "932839",
+  "MD5SUM": "f4267064872096e41922ec66a1100775",
+  "SHA256SUM": "792a297b3af10f77dfd010cba58331a6560783d0d62aad18f657c6164a46caf4",
+  "PGPSIG": "iHUEABYIAB0WIQTH54SUZv4jWDQ1iDdyWHNLQcMVSQUCXhfoWwAKCRByWHNLQcMVSa4gAQDKYtdoSrrwhZRRzhC3KmPpuKxwM/2jwoyjYXtpbEpR/wD/W6z+1S6T8wElkI+A9Ia3l1y0IfD1qsp5blXtf2khMQE=",
+  "URL": "https://github.com/sdispater/pytzdata",
+  "LICENSE": "MIT",
+  "ARCH": "any",
+  "BUILDDATE": "1578625048",
+  "PACKAGER": "David Runge <dvzrv@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "python"
+  ]
+}

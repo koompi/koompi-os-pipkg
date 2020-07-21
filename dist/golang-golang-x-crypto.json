@@ -1,0 +1,25 @@
+{
+  "FILENAME": "golang-golang-x-crypto-0.0.20200303-2-any.pkg.tar.zst",
+  "NAME": "golang-golang-x-crypto",
+  "BASE": "golang-golang-x-crypto",
+  "VERSION": "0.0.20200303-2",
+  "DESC": "Go supplementary cryptography libraries",
+  "CSIZE": "1603427",
+  "ISIZE": "3934990",
+  "MD5SUM": "c4343f40e52c797875037713c899af32",
+  "SHA256SUM": "d0741370cee6072e8242ebd447b7f6865b8e027997151c812faa34a973a63e5f",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl71pCsACgkQeGxj8zDXy5L1iRAAls0nrZqqNbqObyh8164KGFXxnY7FrQtm8ws8UKpbNYk5gUPBPKR/sAKndhlIBwj3cICcSIjQw6kezSuEXxbDaQoC8Gnm3xetwwz6jxI2WI8bkFznJw51ibYmo0wL0kMPWKD+E7BekanLooZmuL0EtxFE4FnaEdnKPNS0JeroVOMYJrs5a2w+hXqjytsMr84WstlcVC74CeF1+M1m5S2ef2yDjAwmk5hJmBdHcEdIoXStM6hl1tYOg2Npq2WTjvU7IMdbZNkMNe8ranruQu65n1PtmseLVwkOv/pUV/MJa715N4HTijFbssxpD1pvVxEuoMsIlMXSohwOaS7s7PnnB3jUwrzYVvtPc/uoZqtMafVmD0VD73ebbGpqyUji3CmCIQfXKpUTHi9ww/quzgW2Tt6sgwqe8Dbb5guBX6npTop1l7+sLdkwj//WfqadTrG41hDnpgJiXm1Q2muowlXxj2uzQViS4SSChcGMllqEu3t5C6Jax8A2PGahUlEleUW3ujGfbS87R4mZ2pvwxR21mVjPy26qqrDE8QbJZcEf70SStNISzQRR5t/RsGkvag90+EigWA9nI8VbU6kFIQq3+H3LVUMAGHBfpLwXff7Y9HN9ncVBx025EY+mCek7UdbSnnRQLfg02bJw3LHng2GqFapvVbgsTjkoelc8o7tsrmA=",
+  "URL": "https://github.com/golang/crypto",
+  "LICENSE": "BSD",
+  "ARCH": "any",
+  "BUILDDATE": "1593156602",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "go",
+    "golang-golang-x-net",
+    "golang-golang-x-sys"
+  ]
+}

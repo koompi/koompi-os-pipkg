@@ -1,0 +1,23 @@
+{
+  "FILENAME": "python-protego-0.1.16-1-any.pkg.tar.zst",
+  "NAME": "python-protego",
+  "BASE": "python-protego",
+  "VERSION": "0.1.16-1",
+  "DESC": "A pure-Python robots.txt parser with support for modern conventions",
+  "CSIZE": "39188",
+  "ISIZE": "186940",
+  "MD5SUM": "0c21f6c7b602af55be6149c32484b1e6",
+  "SHA256SUM": "1a4dabb9f537a396d710c2a72d17a0bdaf603a31fb20070794b6a172c1011659",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl4V4d8ACgkQeGxj8zDXy5J+qRAApBqktQqVWO1Hg4Q7iWo/65j7L6UHzpzSrYsyroPxRS9vlcI+qIRQlxf2qMqPNraBH0zH/w0LTW+H/dajN9KxhQ/KHISDCNb8szCpW5zvog+KCK+ZpgP4g/WoT3BqmMXqe8ZtvWSaCc3Ct+cdkeMsZwANjS/fIrVx4SpifqYE1FKHv/OugGAvsHsOu7fD0RjpYPYyaXKpfOKWtwcwtQQRGP/wDg4v12NcYWvaIep7J74VAUfX3t2fJc2lIbEOYYvEBGqUPmJxwhZ4nJAQuHelmpow+GXED+0npqcapp25d5T311/Ow9pw3tiYFz49eP/cetkHn/9XqjJet21j1CDRsHSs06shXE2zVY4VMcxg4TIOvqMI76muFdGkHriEcPCQDSLqWR40dhbsU5kV6sGhuszbMhEhVlecJNbV2lKo61fIHUnl8I2EFVIhX2AOCLEmj+JR4zdAcq58yOz+kQA7bX7/h3L2L7fsCue6ssrkkSlyKiHl66dAc54nEDYqI164BPSvGvnbUObc3SNdFFRC1MVWs5q7K2a1fdd6y2n40MDHEOu4OL5F9u2EB+LDVCfUz0ex8DASVTrXNvjuTc7m1SMNtcQTCJqIB23SUJujjipMFZ5JEknGwuM32VzzfwgvNxKt1kR5+rQEpFln76VGdNWEG9VFWJc8o/Wcj3Ulp2k=",
+  "URL": "https://github.com/scrapy/protego",
+  "LICENSE": "BSD",
+  "ARCH": "any",
+  "BUILDDATE": "1578492308",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "python-six"
+  ]
+}

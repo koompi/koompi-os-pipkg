@@ -1,0 +1,23 @@
+{
+  "FILENAME": "ibus-unikey-0.6.1-6-x86_64.pkg.tar.zst",
+  "NAME": "ibus-unikey",
+  "BASE": "ibus-unikey",
+  "VERSION": "0.6.1-6",
+  "DESC": "IBus module for Vietnamese Keyboard",
+  "CSIZE": "67222",
+  "ISIZE": "236217",
+  "MD5SUM": "3b0c5587835b366c15e61c3e24de50c6",
+  "SHA256SUM": "204ac9b45b81f43888788b14e85be837b2b83df3ac584b7d0b2b5af76ec23ab1",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl8EtRQACgkQeGxj8zDXy5JsAw/9G7DJ/hz/CdDxsUDgefPOLbDWvlieF7C6JOIzu6s8Lo0t8AXOfjSjzwR7uWqdcizwP6+SXxu+/vp+elxa3QgqCdtp8eETcHcgipxwNakOMqJDhFS4PugVrx9rto4Bm5UKCm9sL7P+6M62j3AQparATLWgCLMhHLZ4CQy110F1F5IW3+rfiWsAvC9UQQayXLRMqVJ2G+OLnV8a7YFDXMwoaDv7N+ez9qmTvFLH4YxdCHQVHQPIfHp09CvYGRyVca74nZcy+n5IEIgH/DcjVXeOuUk+keZgJFHJhypt/E0DwDh6BoPGzoRcT9ieQ5OJgt06u6wp8UsazKyF8sqmsXaZrMSyB+yi5XmjuP7t/LxUfoGbTuC807FpnCJGxPPBqsVy8IQ75rgeRkcPHPvuX5FUcd7huEyzzHueYSXM+NwmhcM0OG3XZq+2Q8XSGFTJIfBthrlT/D27byajMo3UBVq5hy3Fg2OiLRU23PboWsCAlC8SC0V7bYs8y7W1xw3HlqasD3PPSgQoE7K7cDwbcZEylzdfrM2lUXji4MbpjEFXq4nCHp7qrZ/OrM+jT/2Qnfbz3vp2IV8eJwyk4HlraV+lBd13aFVuljI2AjX3KTRV0vEyRNsurlEz6BT/V0aqrxPbTN+HAZ+ttyb9QGi0iY35xJm+XTtlH4dlqo0s/Z0+K9Y=",
+  "URL": "https://code.google.com/archive/p/ibus-unikey/",
+  "LICENSE": "GPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1594143927",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "ibus"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "FILENAME": "gambas3-gb-opengl-glu-3.15.0-1-x86_64.pkg.tar.zst",
+  "NAME": "gambas3-gb-opengl-glu",
+  "BASE": "gambas3",
+  "VERSION": "3.15.0-1",
+  "DESC": "GL Utility component",
+  "CSIZE": "12364",
+  "ISIZE": "32816",
+  "MD5SUM": "f586b8237a3131f69b9f19284731229d",
+  "SHA256SUM": "706c71e8d993b87c486e98c3a1137a0a8296404f48274ebf9901d021fee30e87",
+  "PGPSIG": "iQEzBAABCAAdFiEEU1+MAzlFDwVKTSgnBglqatHO3awFAl8C7RgACgkQBglqatHO3aylWQgAwB9wltdl+UdjWwg0aM5H7UVWE3C89ygIvKPlkyuXK3o3zz+YfhRkmps1Do0cvaWlGsnGGR7xzHcG6HWue1jm1fwkj4Qnx2elD9W8WkKaBmA/1R8AYfQNVpujEIdFzTQh2OG/XLc533rJNYBk/46ZaMFxRZfnBz90KqitzjZ1DLY6tg3YEUbYCDtYbjCGuSSPmpUpR9eGDEyulllfVE5LdRWyTDKrdYMthoRS9yOXmttMMsQYEzf5Xti2FXBhOFeAZpJj7TBH/WHh7RUst7XLD06Dsg2lZlrs7fncZ928/HvfA+yj9vNWV80hStgij3m7743nXgvfpuM45WHE5CUGLA==",
+  "URL": "http://gambas.sourceforge.net/",
+  "LICENSE": "GPL2",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1594026389",
+  "PACKAGER": "Laurent Carlier <lordheavym@gmail.com>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "gambas3-gb-opengl"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "FILENAME": "gambas3-gb-crypt-3.15.0-1-x86_64.pkg.tar.zst",
+  "NAME": "gambas3-gb-crypt",
+  "BASE": "gambas3",
+  "VERSION": "3.15.0-1",
+  "DESC": "MD5/DES crypting component",
+  "CSIZE": "8415",
+  "ISIZE": "15837",
+  "MD5SUM": "fc2c4732e24600326acd39abd6ebb88f",
+  "SHA256SUM": "f12ad08b7e211b654c9724283a20df4b08d71a85dfa197450c8153b5c413cad5",
+  "PGPSIG": "iQEzBAABCAAdFiEEU1+MAzlFDwVKTSgnBglqatHO3awFAl8C7RQACgkQBglqatHO3awnpggAiw85HzXy6H1IW7tMlu5cJLIuKvBBq2Q9RE/4OcPdFDvyjpJl7O4kILv3gKcbSfX27S8TqbWBEpcDN5RM7RCRAGNrh3i5ZBvYZJcSMGcTyhO/r66E8ZxwT+M1dPzWwdEI4/6NXRptM5Nt6hjTQT0T2WydrNGGpxNbtuQSsbMMfY1axyDMIobpLuePXOjzvEEIg3WRQOu5aAXWTSHgz2gbQWWCwVuZC7qr6155DnXF9onVj53AY0TOqpsMySWI2jxJADjIV5ctkHqqkwLyhn/3KaikmAZaDO85qSN7CnZkw3qWY6xw/dYT1rP+cv+3Xh2lToEnphBjFcwFyugY1fO4LQ==",
+  "URL": "http://gambas.sourceforge.net/",
+  "LICENSE": "GPL2",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1594026389",
+  "PACKAGER": "Laurent Carlier <lordheavym@gmail.com>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "gambas3-runtime"
+  ]
+}

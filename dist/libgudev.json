@@ -1,0 +1,24 @@
+{
+  "FILENAME": "libgudev-233-2-x86_64.pkg.tar.zst",
+  "NAME": "libgudev",
+  "BASE": "libgudev",
+  "VERSION": "233-2",
+  "DESC": "GObject bindings for libudev",
+  "CSIZE": "41622",
+  "ISIZE": "367828",
+  "MD5SUM": "363642ae40b4facfa92bc7e080bc3f17",
+  "SHA256SUM": "0786aec4b07de9407534416fc881320e67b771c44de0c960b080e7fd04a271e1",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl7DmLoACgkQeGxj8zDXy5INEQ//ZbK0MDn6zGOJhhaq6eHmvo+UyvRiw5QzdYQus+i5W1SfDbnMrKHEiipBW7bqo1+jiw1aBvQWAlJm9kiyowKg3gColcnlpd/4e6h+S1YUfKn0TXz+z3M91c/RhhHmSIDbf8dWPlFPwW0qC/Wdc9Jd9Goujz0w/0YKcncSZEYN5bMVr2/+eTj6xfRe6PrzgS7Xt8AJbQJhuuYLSd9agk2PUsvUoejN2AsUmYsq9Nq8t86eSmiy0x/gnkMa5NOpchsOFmV8XqeUYN5gAx9Ae2xtK70MhED52ZCJOEVfSCphOdR2WoRR7uMhqcetYmaYvgH93Ed+MK+8C0rtRNMYgKeKsxnWWIa+sUA9RgK8ZOWNsvp/YYl1wwkkefZEMVkKtYkWD0kqDO4DOmeB0FVixFBRlixdVN5myRz75ZO4iIEB0B27iJx5azeHys4lVc+Kbg2Dz8JQQT0wOnEpwT1Rj3kabGo1SCHk6srgBeeBSV+0NPhL/2Z+2RYrTbiJFCOJOaujrLoBcFh9Yj6B9b1GtFl24og3FibaSReYaeTqAbPHE9UfyFR9pw4VIMPqF986RqzkTP0ObPJF0KmdUJRFDOzom0mzVgXEUsu3mgATEYw3QsQzSY2PpJYni+oSrlFgGYvzRBFGfBjD46CV1jyi1Tkq2rLuXRHTeBUwyKqMnLf15Nk=",
+  "URL": "https://wiki.gnome.org/Projects/libgudev",
+  "LICENSE": "LGPL2.1",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1589876878",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    "libgudev-1.0.so=0-64"
+  ],
+  "DEPENDS": [
+    "systemd-libs",
+    "glib2"
+  ]
+}

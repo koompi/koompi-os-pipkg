@@ -1,0 +1,42 @@
+{
+  "FILENAME": "java8-openjfx-8.u202-3-x86_64.pkg.tar.xz",
+  "NAME": "java8-openjfx",
+  "BASE": "java8-openjfx",
+  "VERSION": "8.u202-3",
+  "DESC": "Java OpenJFX 8 client application platform (open-source implementation of JavaFX)",
+  "CSIZE": "28526840",
+  "ISIZE": "87774208",
+  "MD5SUM": "e231adaa5cd4e557f2c1418be4fe6b5b",
+  "SHA256SUM": "197de9331b65824ff8303e910446c20f307a0c705f762c2a2f30f943b46f4a18",
+  "PGPSIG": "iQEzBAABCAAdFiEElDfdOBWnqRaePTlGr/XZUJi8b/UFAlz2JewACgkQr/XZUJi8b/VPYAgApFn6jKW5ZNuSiVaJEDBSOQlyBY2ulAfyken3xZyN/+4dN3T7vMhfFamXpKh60yR6ZTFJh9ENyGV8GdjoItQBqfp9GMJ2ma9F/wrxmnBb77aqECpq4hbVr9NjsrteUeUyX358QldPxzLET7Rqhjt0lTy7+E2pgTT/28EUFdgV1ei3NZDuxcQfxDd8WHwCPC+PI5vW71WWFdZvpWsMURtDjCbLK7+kbF/3Un6xJtBPXOBi2+gI9NwhFglzY3QSmr1GOMTEAPj9JhyYBh+ZUtZobBklncHWtjWgpXaBS80adXdS/mAxfvY9jO4sZJHV47po40puHOH5CoXAkvtN7Sd89A==",
+  "URL": "https://wiki.openjdk.java.net/display/OpenJFX/Main",
+  "LICENSE": "GPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1559634693",
+  "PACKAGER": "Maxime Gauduin <alucryd@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "alsa-lib",
+    "cairo",
+    "ffmpeg",
+    "gdk-pixbuf2",
+    "glib2",
+    "gtk2",
+    "gtk3",
+    "java-runtime-openjdk=8",
+    "libavcodec.so=58-64",
+    "libavformat.so=58-64",
+    "libfreetype.so=6-64",
+    "libgl",
+    "libx11",
+    "libxtst",
+    "pango",
+    "python2",
+    "qt5-base",
+    "ruby",
+    "unzip",
+    "webkit2gtk"
+  ]
+}

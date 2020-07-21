@@ -1,0 +1,31 @@
+{
+  "FILENAME": "postgresql-old-upgrade-11.8-2-x86_64.pkg.tar.zst",
+  "NAME": "postgresql-old-upgrade",
+  "BASE": "postgresql-old-upgrade",
+  "VERSION": "11.8-2",
+  "DESC": "PostgreSQL build for migrating between major versions with pg_upgrade",
+  "CSIZE": "5995248",
+  "ISIZE": "23458138",
+  "MD5SUM": "9c33c64138630ad473654f7a46e331f1",
+  "SHA256SUM": "845a6833cff82c1dce442c4e820a27e8bd148b54e052d3468b9313b5320b4727",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl7viVQACgkQeGxj8zDXy5KA+g/6AtKmpm98EF4P8ZlOubAl556PbP9S2Eo6vuQurQ4RQe/UjK6U1/auNsofUBZFgqDCIhMWfUPZQXlGLSwYL4wy706cOuI+7VoQ2ilAL/VchO6HA3byVjhfB0jKWnPIGRTjkbWDo2kQH4VeE+chPVG5mTIWXm+SlwE3INBuoUXJmn3zGMv2cp6FQq5iw2/UiuUuGLMIOyzaApAguuoWfDBlWnyJ44q8x/aCzFF0nAA0qQ4g+HzSchqerfgtV6QTbB5LZXJPdhlauBzWvl3XpjlvSw+Io47PK0U7qKjva/5Trb5gRAQgaZ2bg4AulwZd8ENzxEgyA2hOIbfcipeaxqjgR2d00OxSb9dp2Axb0vkHUxciE4CNoIgUI668JFIK35Np/MwCNX5w7i3fiRpUy0OayLhCETRvOZyqKTVb3YnH9KRPcha782ZJ8Bjy+5crJWSG0RXEj4opIGtgv+7Li5S+4uns+JTkWM0sxeSniHWqjrY4wTmMj16G1fHsZbFhlG3KZBVP2TppjPiyboYt8wzVGsHM2WF3SeBnytol5NVvmgPParSrkTxtcdWxdlBhUjENzYT7N+M0yjL/+TC6GBTgBXADurZILN+rzlnUSObV0hzJhrl/qHoksINqojoeOXiUoHxDOXc6kM5qD3gzK4qffE/9n1eHngf5TiBjLpJPwnQ=",
+  "URL": "https://www.postgresql.org/",
+  "LICENSE": "custom:PostgreSQL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1592756109",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "postgresql-libs>=11",
+    "libxml2",
+    "openssl>=1.0.0",
+    "pam",
+    "zlib",
+    "icu",
+    "systemd-libs",
+    "libldap",
+    "krb5"
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "FILENAME": "telepathy-kde-text-ui-20.04.3-1-x86_64.pkg.tar.zst",
+  "NAME": "telepathy-kde-text-ui",
+  "BASE": "telepathy-kde-text-ui",
+  "VERSION": "20.04.3-1",
+  "DESC": "Telepathy handler for Text Chats",
+  "CSIZE": "814363",
+  "ISIZE": "3593469",
+  "MD5SUM": "78cb0909276c36af10d8fefa78378a1f",
+  "SHA256SUM": "05073733c67445586ff6ebca9645e7daad973fe7f745b132aed6f7f5d2afeea3",
+  "PGPSIG": "iQEzBAABCAAdFiEEFRnVq6Zb9vwrc8dWek52CV2KUuQFAl8HIAYACgkQek52CV2KUuRLqwf+I/MWzz879ZrHyTyxGmZk2vXBQ9qXokciiscbTwDEpHoraewX6JWYd6GsgP6bufldiK0Guem6kRqAQ0q6Fnxt+fmb0Sa/o+B2fjNiZDEznIqzOajUato4zwEyV7nje712hZ02izRvS0yIi9qpuGLiXKzRpReh99ERbyGIXloJl9CvwMu/dcLskgfIBJBf3qTaIOnx/RV1gDijoZeIPgaOJ7YJ4Cj4R2t86UgtVw3hrjTAcwl7CnUctqFpPp9EE1fMt1zfcxCuF+JrcfBLxB98wK0KOhxuWJ7kDR2HCqFr4JGerX1k2J2b0c4Deo20OZNgMzXfhcD9F6WI4Pwq2Z7wyg==",
+  "URL": "https://community.kde.org/Real-Time_Communication_and_Collaboration",
+  "LICENSE": "GPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1594112037",
+  "PACKAGER": "Antonio Rojas <arojas@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "telepathy-kde-common-internals",
+    "kemoticons"
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "FILENAME": "gnome-usage-3.33.2-2-x86_64.pkg.tar.zst",
+  "NAME": "gnome-usage",
+  "BASE": "gnome-usage",
+  "VERSION": "3.33.2-2",
+  "DESC": "GNOME application to view information about use of system resources",
+  "CSIZE": "144049",
+  "ISIZE": "512172",
+  "MD5SUM": "76d1f4ea9b4715f0f6b66e3666a18d5d",
+  "SHA256SUM": "9afc8598aaee340946b9b34f66774d26d4b68f9c9d6b4f4736aeb36b7fa28f47",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl8EqK8ACgkQeGxj8zDXy5IBmhAAtYj7hiWiPoUPOmvjkdvY3jz/brbFbJwO9o0NzJbHoh7ysBc4bG+tPQh3ibt6ikjpBk5M74mKDyO8POnQK+TwLV3S1CuOPS3OsMpaEV0v950rwRN5AHPuIFDeG4+F5/ZKf6qoLCTf9cHrLSkBQwYytHEwbDEoyYCAblDIsLPUPPvLwY1QgCneEfWeSVdyS9Yqpw6+TFR0AXMTNECvou7flxQeU/fZpQNsMa8AWxE3DGzPOpD0XfzO21B1pP2u5hGM7sJ4sfF8HzLqW0jszXyDOinMdEj+thj2dvtgmPkb+9+RYVexTx2qwasB///qeh5wIAcpCmbe5YeRoEDRXP4GnGOjD8/r1wfOm+DRyZh+2nOYYicXG5OS5NJMF3UOQbKHeTP91tPXWf+eOI8dD9uyw+5//SBhEjbn5cL1Zp2573kDla9OclR/ltyfXwnIeHrmDsSDOHFxqiNP1nT6SsW4zoC4Vw32IdLvAo9S5xhjXZJxTQghwsMuMhaapmu9W1c+byG9+oZmDQxylBf5oeSQ3AfofuR4JdXmbn33+9V1DAll4DhXkTSvVZmCqJZFVMUAPeht4EZFN2iMUcv44LD/9+D0QinivbgaF/Qfc9d8MtylSrEAy64KoXn911d75caL2bBqhzE0hXd+1wKZlzhLmLuQrTYAthFSeMvdjCMc9Io=",
+  "URL": "https://wiki.gnome.org/Apps/Usage",
+  "LICENSE": "GPL3",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1594140713",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "gtk3",
+    "libgtop",
+    "libdazzle",
+    "tracker"
+  ]
+}

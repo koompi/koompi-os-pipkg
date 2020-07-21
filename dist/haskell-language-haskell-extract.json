@@ -1,0 +1,24 @@
+{
+  "FILENAME": "haskell-language-haskell-extract-0.2.4-5-x86_64.pkg.tar.zst",
+  "NAME": "haskell-language-haskell-extract",
+  "BASE": "haskell-language-haskell-extract",
+  "VERSION": "0.2.4-5",
+  "DESC": "Module to automatically extract functions from the local code",
+  "CSIZE": "13909",
+  "ISIZE": "37150",
+  "MD5SUM": "87fbbe8cb06b024e515a36b5ea3b0100",
+  "SHA256SUM": "2a7486c8508c72ff076a588b0aeed0148496a77958bffaa04eda4eec9d28c456",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl6hq2cACgkQeGxj8zDXy5JFDxAApnZsWjBBzDglqmQu17++P1u6kRwjnOykj99gt/d+bm7L35Q8eUBmOWwquIJBVf9f9JldJ3xgeFABYSaSMEWncsgjZPdd058E0nFSisI6kwPvefTqkfXGURM7CEehP8zJjE960hbL6OU0gH/yCJzgT+PrG2pGWercw6SFjSoyB5S2lObXkE8ji26LR0R0YMBP1R9ZrwrcVp3Ahzcp3iO9wq2rm42GWLPf7UGEakEC/W1AQdThH7D1hzid11xRT9dIttGBaHH7cS3l8eSfF95upDvAu1bUS5Flr5VfiKOev6f7aHPojpthAuShI0z4Qya7B5nyHwRIVfGYXSc9bwBpZ7FPmDAQzyA3jwcukO9+YrOSHCZhnl44/DmpsqMK7aCflvcWPri+MMrmFH1m0q5E2J+qRrAqO0hHBy9sFQ3Sy7GCYenn74+l6Sxl+Yheut7FqLQCYXuLMMXgZpsert1NAniD4MIDvIRKWzryyAM6WMnLhwfOsqZoc3QiftEu80iayPa6XRtUK9DHCs5CJcAPMAVvn2WvXnRHUOVC/j6u+AYoAOvwEy2yozK1oR2IPMQqjbxVDo8+NJM5fMytrPNOeizXvqHmwwCBfPSPkujYt4rkRFIULNI4zyCw/CygHMhobUgWU92qcqLUaeWmW5HWvFu5nbHzYBBhOsQDOR9b7GA=",
+  "URL": "https://github.com/finnsson/language-haskell-extract",
+  "LICENSE": "BSD",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1587653391",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "ghc-libs",
+    "haskell-regex-posix"
+  ]
+}

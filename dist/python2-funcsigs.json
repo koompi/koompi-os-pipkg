@@ -1,0 +1,23 @@
+{
+  "FILENAME": "python2-funcsigs-1.0.2-3-any.pkg.tar.zst",
+  "NAME": "python2-funcsigs",
+  "BASE": "python2-funcsigs",
+  "VERSION": "1.0.2-3",
+  "DESC": "Python function signatures from PEP362",
+  "CSIZE": "20367",
+  "ISIZE": "92681",
+  "MD5SUM": "a0cd4bc77cac350efced65897f8c45f9",
+  "SHA256SUM": "25574bd7025710fb4b7b5377ee0e0dbe907ffa96df8e5b0aa366b6e4ac4a7416",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl8Egt4ACgkQeGxj8zDXy5KSyA/+M7TW2EkoNetZKWVJBBdh8WqVjQapBxU33eKU9khEyBGRw+wAa812lpPaYd2jBqsNnwGkQJ5FRMOqATvv5oBC4UrAHy6dH+tteHXUpz2jYOzxE/P3pKdabm0LZ8IMaefbTtg5oRE5cnUo66IXQgVv/i2VOdS0LFHYCD8oht+LVWNMVirVDcpoWPpCGfduRpxQ4VEIZ+rOBkSMSERliz9SzsiC6KOHyp9dCorw7eJCUTSuvJtm0/5InVWp0/M6KAW7Kg5R6eGP2uyqlIWIhurMmewyYmF+Xjc4iEzsGK9+dipNp1KkbjmxZ+PBqc3uCzBkddkGhyD7dZ9qgyVT8GgJ95hMuQtIw5GI8jOEWoKKkcZihJmHSug0eBxLT7kP35WiE1Rjau7zMleQhsdTROp+DW9ZXuTUsGZS0Cm3gyro9abAzExyp+2AleQ7UNQ8eqjWb2SeSvWICUQVq/kOzIT+q7nC1bHj1xG0LTKg062ogmidElPU51SYTUqpIQnhgFyH3UQ+p5iu9qVqD6pYD2ddLBgNvfO2njYgn3Pm9Ycf833lmNN9jAANXcEobW06czy+tyfAAGWLgl3iku0A936AeXJgT66sNajAKnEh+syDY1LTGY0vH2r5DEhI6e7kQipw/lm65XcPIY0zUOSjT+ZxPst11HPW/YOLYnxg51Kduc0=",
+  "URL": "https://pypi.python.org/pypi/funcsigs/",
+  "LICENSE": "Apache",
+  "ARCH": "any",
+  "BUILDDATE": "1594131149",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "python2"
+  ]
+}

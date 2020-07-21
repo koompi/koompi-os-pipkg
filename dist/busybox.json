@@ -1,0 +1,23 @@
+{
+  "FILENAME": "busybox-1.31.1-2-x86_64.pkg.tar.zst",
+  "NAME": "busybox",
+  "BASE": "busybox",
+  "VERSION": "1.31.1-2",
+  "DESC": "Utilities for rescue and embedded systems",
+  "CSIZE": "741638",
+  "ISIZE": "1483960",
+  "MD5SUM": "b99f401d10d2bfe0a37fa0141f9178c9",
+  "SHA256SUM": "37872ef9a4165145c73a768b770861aa9ebae01adc0ce7cd8387277d2009700e",
+  "PGPSIG": "iQIzBAABCgAdFiEEYEETBMCdNmKDQO7/zrFn77VyK9YFAl5S3skACgkQzrFn77VyK9bhQg/+OVEfOmKNm7HwCCNzhJ6A5I53Ob8pAXLeBneICsZm7tRffOu0aLVGclBZjhjNERM309CTWmHbItlRPpue2+BaZqTiRWTUoXrq5yYPVqj6AZ6DdAFweKaLl414vGLGKVO+pltTRlb5BZp6nNYY+mWIwqQz+O3ttUvMCVlYolfZW6HILG9D/sKqKoiAQxsB/1sGJuTX9TdeYKPrSgAoPXWnlJlv4wp2f+wl8nwM9fdJl+zXLNAg5o31hNpFCWdspBpDBEnLONK8RvhZz0cVEoHNNvkob4hmuFpoCeUc7PujYwchugGTl12pyQ9B1IFOuuUjUyj1DtckoUW7YiJqZn5QHIrnM6OC3Iahqvkz3HUqi+RsppwuA/CXbO0N/5GJmfRleCricPnjmdOuHUeKqpjbmGmLk3OxwI1xDtCSkX4DmG5+R93pBwrdHDAgJ0jTVvmL/1BPGtkn7Dzrl/wMLLYWUbJNpA4l1ZnGL6NS9+i+YxalnHSxsugky6zPZoLM1VE0Wo6U2ZhgK6hr9eNRDCGVrDt+7lG+SUeR2eGTdlSzdIkmYBSNXsW4A69oHsiSF3kI23oN2i7z5AML+b6amptD0eLJf3GK8idcsXD6HO3OxcUzPJZ09H0hcLqN76n/UspMR0trQeYch1yB2FMUd57R9BmdhMcCMKR42C1L4WNUrjE=",
+  "URL": "https://www.busybox.net",
+  "LICENSE": "GPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1582486890",
+  "PACKAGER": "Eli Schwartz <eschwartz@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    ""
+  ]
+}

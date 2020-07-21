@@ -1,0 +1,23 @@
+{
+  "FILENAME": "smartdns-31-1-x86_64.pkg.tar.zst",
+  "NAME": "smartdns",
+  "BASE": "smartdns",
+  "VERSION": "31-1",
+  "DESC": "A local DNS server to obtain the fastest website IP for the best Internet experience",
+  "CSIZE": "89369",
+  "ISIZE": "195982",
+  "MD5SUM": "8b94428e69cc2079b12e9526c2c18ae2",
+  "SHA256SUM": "29c5df13ac748ea5f1240a7adb1a5fb6264f06ce3a410dd851801f856c6a1b95",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl6vIqwACgkQeGxj8zDXy5J8PBAAml5/yrJkrrNna3lqGpR0SxbSyo5hQPfQuk1fDfd+Yh2g75tQBFwuzJ1tojZWbhF/Vaxw8FA+6DluwufZSvWliKZPfrA0dJkSMQ3vmaFIyfkJPVh9rvw+LbJL23QEZA296ZTjPupA+a4jGAgu0QImZEK4X1fCii+jVSs7KNb5XhxNU0WNig/i1KNycKGyNctc3hjYOfxY8A5qwBAyiYWTXkxgnhur9iQJcwnsENOBWNjSAWFVMoX+EYwVh/viF7gfeLcXK0xsV1GHV2kPkXyzaTuzkwYGdW7+SKTlJ6GV8pXS9gLxufHau0QoTs9azsPrO3NFN4w8L8L+pLYRLMLbF/IBHGLF6sBnQeD7xXjMjkzNYmdyxSHC1mkavIVCf1XR5OamJr2wV/xw1mCsPnc+igJrr+jtxbaPvwY/HgpuyVWsoxjji/rkzWAiXD/udE8PrJxVMjoZHLksPM6/JV4xu2fXQ2c9dKMPu/TvjhDMZJl8/uhqMNsF4xN/mKDogfiDtvkZXzolya1O8b6Kn000G6T0NWrARXLGb952SHQ+PclsHPpIUsOoQDRkcVPBD9ow0hM9kGyTw2Dxb3Pey6SX/w/4WjiA13PNh5HaRctiBIsrjqAdlEZvBlC0GQFIe4e6TeuXoOU27HkVKjf4gOplf2f/uH0cg1KsHGk18dednYU=",
+  "URL": "https://github.com/pymumu/smartdns",
+  "LICENSE": "GPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1588535866",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "openssl"
+  ]
+}

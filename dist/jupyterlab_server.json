@@ -1,0 +1,25 @@
+{
+  "FILENAME": "jupyterlab_server-1.2.0-1-any.pkg.tar.zst",
+  "NAME": "jupyterlab_server",
+  "BASE": "jupyterlab_server",
+  "VERSION": "1.2.0-1",
+  "DESC": "Launch an application built using JupyterLab",
+  "CSIZE": "46529",
+  "ISIZE": "183534",
+  "MD5SUM": "441ca5d8fc4b811061614094f26f3009",
+  "SHA256SUM": "c311f730cfb5b3f3e34acee213dbeac36398b2187a1aceca606084d682ae7ec8",
+  "PGPSIG": "iQEzBAABCAAdFiEEFRnVq6Zb9vwrc8dWek52CV2KUuQFAl8Bu+cACgkQek52CV2KUuRL8wf/T4U7hPZ+vP05s/9Fgw7LvZblal3xgINh+BLa7TCDZB/ZuEJKeWUX2iiS1VhydjelNx0AmQWmolul5Nv0fJXusEwCL4hJV4w9ce+7x0TkNMle23Txb+jsGc1TGvWU8xFiNCK8xQapJZUZVMVbUlbQcp1u2y2turj0q1wq9UQZwfSKa79gUkBiJCZx+3or9vtopajPmO693sN9ydQ90PB4KvkOBNUDZfCXkRYZQ0PfVvo6UmQXlvZMbhUAy9Weijj0WJkOL9PpL5LWXKXfYq3RwhSe9Fp5aiafSlq6Sp3TGN1MN4zytzqUSMqmfZXA3UQ76a/9HMBVWjFdzTmqKQg3BA==",
+  "URL": "https://jupyter.org/",
+  "LICENSE": "custom",
+  "ARCH": "any",
+  "BUILDDATE": "1593949073",
+  "PACKAGER": "Antonio Rojas <arojas@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "python-json5",
+    "python-requests",
+    "jupyter-notebook"
+  ]
+}

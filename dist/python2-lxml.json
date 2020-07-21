@@ -1,0 +1,24 @@
+{
+  "FILENAME": "python2-lxml-4.5.2-1-x86_64.pkg.tar.zst",
+  "NAME": "python2-lxml",
+  "BASE": "python-lxml",
+  "VERSION": "4.5.2-1",
+  "DESC": "Python2 binding for the libxml2 and libxslt libraries",
+  "CSIZE": "1211445",
+  "ISIZE": "4678833",
+  "MD5SUM": "ab1a3fc44f60dc2c4acab59f7ff94b91",
+  "SHA256SUM": "5771d4550b993b1aef5bf313628b767c54f047f27eed189d78a53a8ceb5394cb",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl8I+eUACgkQeGxj8zDXy5IcihAAqRtL+RpgfyzRWCfZQlnlP8UfLRiu+hXCRgL50I5fWWxAHbDC4UDixeMBU3avFcD/Wt7r0QLHMDUUUDKakEX26WfDcBte4mDsMM/w/XCYedKl6n1eZo4MURlvNVh34uy9gz1rznmyJNx3hVLB6pEPR1tN/W5h5QE41L5wfakFbIW/yzXAlADfyRY1q6JZB7j7picRnr5jQkttppThNpix+rkTs02Sd/+ZTuH3PKLnEftu9nrqNkpAkIF5136IZveKSQhCtA7DlBI2JgiOGy6nw3psCiGuwEowh1kNL78I5VDtS92kMdB3WwNe7O3hKNgYIvsrDGwtPxPRXw6+4EePVq+ICEuESNLHhwuELi3h+DyMvtqPeiSr6Y3X4lYb3BervjRxxtS2FuXYSnW+YS5kodVjGy0LDx/svASNrRQXHaziwM+6x88ALxf7I/qbcZOMgi2jtMvYJNf/dxHmKRqwtHq/lrfYQxTGZtdUGIHg6whm1CkeQ22curIur41YMwkGGcTm5u+qYzH5+6EiGZtGYhMovHu3y20xaY+1t5otKBGPYGBGtqADtWCJqieEhpesWh/sjIkqtZzN7tHz99ys3uLq7rQVpiOwyC0zteJ+05LanjXKH8MrUtAIivfRjj1b03pOst1ETGDsIf6xjy+fDWlHsS0nCXEQs6J0OkQsulA=",
+  "URL": "https://lxml.de/",
+  "LICENSE": "BSD",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1594417871",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "python2",
+    "libxslt"
+  ]
+}

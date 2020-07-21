@@ -1,0 +1,23 @@
+{
+  "FILENAME": "libbraiding-1.0-4-x86_64.pkg.tar.zst",
+  "NAME": "libbraiding",
+  "BASE": "libbraiding",
+  "VERSION": "1.0-4",
+  "DESC": "Library to compute several properties of braids, including centralizer and conjugacy check",
+  "CSIZE": "81490",
+  "ISIZE": "251805",
+  "MD5SUM": "b57487ab0b75bbecc13007cdeaf74698",
+  "SHA256SUM": "e72f5bf820a682e07388c801b0df731b9f00fb5bed9a51c4a5fd4ae669e14071",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl8ErS4ACgkQeGxj8zDXy5KcbA//QdwVlgBZ5Mgi3N0dsCx5FQSDNV+bBNbI30d2HzexMF3C2es3KkiIaV7g6Ju/clXeEr2LYZ3iD8Kju77ks0AeF/fTu5GfgjAB0pEe9gRL0mUqvZ/Cu45HzvYKONlJVBJWLHGbBb205x0Hr58cFCEonyQwf7lWZVL6eKaXV9t/6G/AO2OZF/xntijervEPWeKQNq/iCWetvmZYEESj8S/2brU4PN04V/HcxX7l/jDfH1ATcyAaetviXH3aThdEf5KXFZijFdx2VkjJnsHBZlqQMVV/xwkIjG6352QB1GljQVcTrgJN0VwB66X8OXiWhPm4uAVZtNcReVxLAHixekDFlvLBBkTUJdR0TAYwY31QUAXZKnXBGwQyU+rG1HQebZ1vb0fouyrS95lzT/r+C9skwhOMObmXp2XQO0nKu1NvqItOgLNXwD70ftCmxH6ctcWHuUpK8lTJSvpYYWzhh70nssz1nPZk0mD8qo5+IISEjwq4DV4IJmZXJXt2N4wz4l2OmrYhWYHSabRKFcot4+x8cWSHj6Hy3xU5oECEWRO8G7AlWlcGo6qJWmlUjSJdoiJpmog4hlCCNYv8jfYKCnNJfp5VA26vYwSLTOILwdFzdw0kPc29ptptBFh6n+6vcvyN8wfhKtX7YpBxG+sd+ZAfAA+ZDXu1qNyzG/JORfn5ekI=",
+  "URL": "https://github.com/miguelmarco/libbraiding",
+  "LICENSE": "GPL3",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1594141963",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "gcc-libs"
+  ]
+}

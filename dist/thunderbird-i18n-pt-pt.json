@@ -1,0 +1,23 @@
+{
+  "FILENAME": "thunderbird-i18n-pt-pt-68.10.0-1-any.pkg.tar.zst",
+  "NAME": "thunderbird-i18n-pt-pt",
+  "BASE": "thunderbird-i18n",
+  "VERSION": "68.10.0-1",
+  "DESC": "Portuguese (Portugal) language pack for Thunderbird",
+  "CSIZE": "521258",
+  "ISIZE": "588103",
+  "MD5SUM": "6453bd70ec46971b3029f086c0b18964",
+  "SHA256SUM": "0365973cf87773edcae5d27f930a663104c8805461a1bf4b37bc5185b3e2e99f",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl78eGUACgkQeGxj8zDXy5JYJg//V/qcQhOmT04Li5jnYUE8nCxSzMJBMs9vKbfSaKHtFI1aU2Ok4P1R9ZoZxTo+urwW6LJ4ub/uip4xVx+7K4m1VEZHB8/bETjy0MRjCyWkmU5Hmw/mPnjztEd326qt8OHDU8Eg6ME2pQJ+miJfXM5hRLmmHJrx3OIJ1xqgyV9BRzb9hETJk/s25Ld0nkRhSAyZ+hRZzwKaBmTNAAwEjn1mFuXBO8NwtZIjulhSP5LVO0pu6Hp5/LEOnkFp8WG8tAJq/0J+hcY5Tmj09c3/p0RRt6S4k4VJpreIl2QvoZoZV+hTVY815qb/VRckMgM3VwM+bNiQCNeV+DTsJnHlcAbVTeg+hetJcx1s0px8GZAJQJCMijSADwJjInJXeq6nWN3hLDJl2/A+JGqTFqvn/bm3Zj456K/YCgSVHDwS/2TompKeRRXe3rJZHz0FAQ3IGGEHtgO0Ry7JrYT3ZhuR1ei9kDr8O3zd2cVIbUqSP4/9tbAkj03VerKJztJkURvVa2iSh6wC3fZ1pCbmajmEXeGe/hma4zCKC4TrHJTNhjl/ajy0CfG+oL3kGrSnmMuHBUJP8i+QvaN+mgGqpPklR95Xh1LM40JR3uB/YP9fUPagpkl3DgrbTjl5d8zBPcwq56pmKz5MMDjoMk0VEsyoCJ7c9i3OXXWnKHmXIjzvRIuZ+sU=",
+  "URL": "https://www.mozilla.org/thunderbird",
+  "LICENSE": "MPL",
+  "ARCH": "any",
+  "BUILDDATE": "1593603702",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "thunderbird>=68.10.0"
+  ]
+}

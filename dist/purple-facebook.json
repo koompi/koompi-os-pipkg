@@ -1,0 +1,24 @@
+{
+  "FILENAME": "purple-facebook-0.9.6-2-x86_64.pkg.tar.zst",
+  "NAME": "purple-facebook",
+  "BASE": "purple-facebook",
+  "VERSION": "0.9.6-2",
+  "DESC": "Facebook protocol plugin for libpurple",
+  "CSIZE": "75898",
+  "ISIZE": "210616",
+  "MD5SUM": "6f0f01891945be7cd1e06a430359aee2",
+  "SHA256SUM": "e9458d026667a9492a1f4834d1a26d891ac720e989ec52e0e34f47c0cbea6bac",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl8EujIACgkQeGxj8zDXy5Jt3xAAjjLc78zxpD01gjQDFkzqUy8B0sQnvwrxc5kCR/t54RP7lClTdnhNtNK/R36O4FZGg0Rzca02TX0qfEdTTVCcRF3MBUfGaWacpynTYLJC2igqwhXEwAxmZZ56f6KDro+bvrseIOa+TIO0Ik0K/wKhtK+sOhvGlsvweUygMYJn2+0T2uU2jfTiP/cz3idGuMK/84I8n3rOQKtTyCM9i/EEQ+KGYKcTE9G/3Bu2h1KMhA5NPMk8tQUsfZK64z/7syzLfPt+4249a9VkBYBjoN3vif29gKH39MV17+1Ml/6ZoyZuat6xczsZVtJ0Icv2o/5St2+md0SPEVhg3ABQ0/VzGrOz68Hx/pzsNqifIPWDtTiajnuAjgf2R2aNSxy1YjQJJ2kwPG6HM4RVOMiQb2rHpkIxRpaSXpI3FLfNwfkixdWHQJmAsWVLanHnm+92pdfkgMu759FMb3iC+8txUFe5o4ULxr3AWTU4/iNPagvIH+w7mP/xlIBbTKL1ir6elY8eRxLVmpGJtb/CNry9tjDnE27XJ6FhVqltSMXiuec5ETMJRb+flGjm1QT4gmabmON0Gwy51fR9Gm+rIUVFcaCpHITXdNps723CzJIsKEO8f2/u8aBHCn5gmULZQCFbJgmY6O7F99Zec0lsCn2xxk1VxV2RIZ43P3jxyBn9wNdYu6E=",
+  "URL": "https://github.com/dequis/purple-facebook",
+  "LICENSE": "GPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1594144941",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "json-glib",
+    "libpurple"
+  ]
+}

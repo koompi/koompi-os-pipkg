@@ -1,0 +1,23 @@
+{
+  "FILENAME": "kguiaddons-5.72.0-1-x86_64.pkg.tar.zst",
+  "NAME": "kguiaddons",
+  "BASE": "kguiaddons",
+  "VERSION": "5.72.0-1",
+  "DESC": "Addons to QtGui",
+  "CSIZE": "267308",
+  "ISIZE": "585684",
+  "MD5SUM": "9f3795846727b6094e65ed932fc65013",
+  "SHA256SUM": "9045f8f23eb47ce0f6db8fd61af0ecd341d189788f156b702f2e5b4315a590e0",
+  "PGPSIG": "iQEzBAABCAAdFiEEFRnVq6Zb9vwrc8dWek52CV2KUuQFAl8JX/wACgkQek52CV2KUuSiSwf/e9itmmXciQ1pb52/eb04SS05VkuUZyU9Bb9SBOh/hTpRtNt9oUHn9a3h6UxBuwduraqgyLYRk/1jUfUQ9W/w+CUHJGD7i9k/Yx0K/TE2DOHO4mRJzmLi1phWoQ6d/jlwW/4Z2L2hfg22tnSt68htL076emC6cp+gK9Wq7PVemq2HC1/Kw+rtCGT1cbeAaFr8ryWed6+I7IersdFBlzmUUsAys0YjrBmdi7DDnnjEySYIKrRinqN0j3IsGkUJYYhE6lPL4jF3M3EiVZ1zuD3WzJfidVeKZoFMyCq5rwItuchuDC6mQwZODb46H1RYpGSiHfEY3J1Vzf+zcBm6zu4DPQ==",
+  "URL": "https://community.kde.org/Frameworks",
+  "LICENSE": "LGPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1594200904",
+  "PACKAGER": "Antonio Rojas <arojas@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "qt5-x11extras"
+  ]
+}

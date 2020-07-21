@@ -1,0 +1,28 @@
+{
+  "FILENAME": "cpp-hocon-0.2.2-1-x86_64.pkg.tar.zst",
+  "NAME": "cpp-hocon",
+  "BASE": "cpp-hocon",
+  "VERSION": "0.2.2-1",
+  "DESC": "C++ port of the Typesafe Config library",
+  "CSIZE": "407758",
+  "ISIZE": "1471874",
+  "MD5SUM": "74b3ea7a152b2003bc58ba8955a753b6",
+  "SHA256SUM": "1e8dd38479741bf0f2be749b0aa6082448180b0e810d70b7bd1816f8a1b75af1",
+  "PGPSIG": "iQIzBAABCgAdFiEEBR6tamFVOJ1p2gLl63Y7Tp24h6YFAl7Y+z8ACgkQ63Y7Tp24h6alxBAAvT2vyq+amwxLtbbHptnvtf5P4LwcVPJuzRRuQxfYLfHwu1VHiIoR15qjQePLRpbgXUGww8c1KmhgrSnlOYE+FTyiymWQr1mb9WNgT9f59jDI3xi47ZgyCFRxv/zMQjYfPfruDmOVu706lgkPAt9TG/9fZ67PWC5DkUES0pvtnvRLWZdeteMm0GnK7BmzC+2IU5HUubEjaG2Lr65DI+pJjpg3UadEgCw13FyOINAohWEu5NJsB99IDdhHxxABnigxdglu7QOuBuEDgLyqTG93RUsRsbi5LFi4V771L96/6V8gJhcs53egw4g/DtUxFhjJxw8jiQx3JIJAPKrNls4SvZOCxwCEnqtGo0t2cmNf7aR5DAol1jyfbW1Real+kG5EhSM4mGFmHSu81G/kLvYw88yK8EaCdwowvRjFTUoCg/fA5yinjZrwXxa2kHnIxcV2W0f5jB02Myw+jsAv1atmEn8KCpAWwnSpniEmQPAvfq/yIlBnKF8C9Iy4e8/a2l8G64mdIfZcrB3579lEwRTF6dyUObbcxotzmWuEvgAOjs3BNafq1qdXKNRMz2uZboBlFt+sjjOu+zR4FiB5Ks2rKQlgUP9UfgYlE7SRURdw6OWPlFlHzVbJGU5la7+Y8zYvSeIClQssrKX9JpSmuFX49/+6o1itLRMe5Zfxp275i1s=",
+  "URL": "https://github.com/puppetlabs/cpp-hocon",
+  "LICENSE": "APACHE",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1591278178",
+  "PACKAGER": "Thore Bödecker <foxxx0@archlinux.org>",
+  "PROVIDES": [
+    "libcpp-hocon.so=0.2.2-64"
+  ],
+  "DEPENDS": [
+    "boost-libs",
+    "gcc-libs",
+    "glibc",
+    "leatherman",
+    "leatherman_util.so=1.12.0-64",
+    "leatherman_locale.so=1.12.0-64"
+  ]
+}

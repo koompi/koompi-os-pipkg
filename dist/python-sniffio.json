@@ -1,0 +1,23 @@
+{
+  "FILENAME": "python-sniffio-1.1.0-3-any.pkg.tar.xz",
+  "NAME": "python-sniffio",
+  "BASE": "python-sniffio",
+  "VERSION": "1.1.0-3",
+  "DESC": "Sniff out which async library your code is running under",
+  "CSIZE": "8544",
+  "ISIZE": "18886",
+  "MD5SUM": "9c609d0cf2a10694af8bf08dff81e356",
+  "SHA256SUM": "c4946f3bf1471619be5bcb4ee635f5c3804744f1ece04945949e6b49a5e65881",
+  "PGPSIG": "iQEzBAABCAAdFiEEhs/8qRjPOvRxR1iAUeixSKmZnDQFAl2/RrkACgkQUeixSKmZnDSLbQf+IeiEAIThB4ccXczyoPhs0L6Uh5HcbqbFWHNL+0FTcpzaSydr21Yr5pKFV/16JWIG9Ro6yqnGIbvrzZkOu/VarlKc3gcSDyOqgJJ7yGgiz0dAJ6smSUqGwNwjQhSipdnZ+Bs707yXIpU6BgsXjivaZfiDjfj3PcBDVR28uFk8xWXAG1z7xL56+KFPBFTiNJq51Y0egdeIBXvxlN28yo6hBW7/YYqb1qcSPmAWIS6hCq4/CMj9j9QBFt/1bDlwIWslAdrZ4lVq7icZLBbk3j1Y9483wyzrVrGfSupSDJQAv8DeDaijNiF789wflI3dxyHkQbeD+mjGpCuwDjfZdVBsgw==",
+  "URL": "https://github.com/python-trio/sniffio",
+  "LICENSE": "MIT",
+  "ARCH": "any",
+  "BUILDDATE": "1572816549",
+  "PACKAGER": "Evangelos Foutras <evangelos@foutrelis.com>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "python"
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "FILENAME": "haskell-x11-xft-0.3.1-78-x86_64.pkg.tar.zst",
+  "NAME": "haskell-x11-xft",
+  "BASE": "haskell-x11-xft",
+  "VERSION": "0.3.1-78",
+  "DESC": "Bindings to the Xft, X Free Type interface library, and some Xrender parts",
+  "CSIZE": "45828",
+  "ISIZE": "196542",
+  "MD5SUM": "6af6a651b2349d74752a35d339b98938",
+  "SHA256SUM": "87a3a651c8278ff133056105fef4e926acaf028e1ee27dfe72a7f4edecada286",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl75yQ4ACgkQeGxj8zDXy5IgLhAArLLDBY997p6nUyo9/Cf5aZ3QqQMTUIJSPD6wneBEHRXsGLKln0aPdn6q7U2DI3D7aD1syinZCeuO+7llVuRUK+nOx76p6VQNQIuJfUOUZxhS+qX3Pqcp2tvwLBEPNzRj9qck5eXkWiN8qkEAEUY4saHCDDnsxBuqVkRmikqPBE+HMirjeOJJIm8j38e/KgAOLky5ff8kTrZBXEspsX/sH28E9N+YR2MBp/0K5/JDU2TI17DqHvOAYL9qmr8kOLzZ/I0N4w3cl+C9WqoCI/bM9cazrdDH0Op0E4nVy9fviyyUEDYyNxcZEE02FXisWIjbOdxOdftQ1QHxowA9YnXSmhn+vWPUrjXzJuImCuwsjULsFpj39j2u70H9pHsrETn+dimfJq7OvBJSCtAgZZb+53sciexKZX5uogCOOX6oN3fGThPKJ+nri89t7aeIGyCGZUn5falWlLscJldcG6V05aammtvM4uLUmuZ5eQiZdnUnO8LmVxGI1M3wo8xYIWEthXZOXxZ845F8dTPhEM9gGjAXnBrkab2ofMhqqVSWJwCfUzdyrxIPkabKVoZgIj0QkVDidSjMoTRYEbD6BCEmdj6++GxMsojxMg2EPENc9uXdnEFG8FNJujDcKMny/vD3p+jnyL+LPdf/aPVyR4TFysJR/xTGTELkQHWXDbnlZyk=",
+  "URL": "https://hackage.haskell.org/package/X11-xft",
+  "LICENSE": "LGPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1593428209",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "ghc-libs",
+    "haskell-x11",
+    "haskell-utf8-string",
+    "libxft"
+  ]
+}

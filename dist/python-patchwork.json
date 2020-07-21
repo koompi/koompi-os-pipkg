@@ -1,0 +1,23 @@
+{
+  "FILENAME": "python-patchwork-1.0.1-3-any.pkg.tar.xz",
+  "NAME": "python-patchwork",
+  "BASE": "python-patchwork",
+  "VERSION": "1.0.1-3",
+  "DESC": "Common deployment/sysadmin operations, built on Fabric",
+  "CSIZE": "16456",
+  "ISIZE": "51590",
+  "MD5SUM": "5d124141a65a1fea1812e84eb3c4539e",
+  "SHA256SUM": "ea2c8d9bb20a95a639effd8577fbe000d93987876b1cb51c1f2b752cdbc08e51",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl2/65AACgkQeGxj8zDXy5I3SA//Q8DxWCJgkkGbN6+nUb8xAjk9fIuhI0ATseRg1p5QnnDejz3pE712Naho3vWicKzg2L1biNrRygKtXX/AAYgSZPmXaMzjrXjB4qk/lPaJmIZPUiNPZsIJ2Mc91lH9hbhX2DsV+3/CWI/Ar6zYWciQIjlWgsztM6wobv0JwOuboRxVHGlYrnWr++xCqlRIrICDPU5cX00JagBu0j9eWyBYIGaLJa2oGgsVPloJkFrtDkR9tEnugVXjrg0w2+vYcR7vAOJT1k5tvfET5O9kD24LBgPyO7bxDEaoIM9P6Wqdz8sH0MXFnFr0e7ex4tL0xvMWMKyrbsBWZD96cOEkE6Zv+LinN7QO99EY0cn6KvH0upH+Ydgmu6ZwhH/X8jhyv+bNgd20HhRcPkEz4/iNa4CSyuC5F2mqoHEC9c9AbA1PZfWLuSiaDGxhtit6tuUsq63JCNG02bUtdmxLZGDfQhC2zreQr6TwJjCAoCgTHd5GLLB4gt1Gbh7BVxSo+0xpYbP6BLn9zphzKrKFi2hLxWtsDZwtxnE4NALp0DnKK2OJiRf/0xWpCo7HkvE3ovyIz8Qxj8/B03T//MoVb/MTVDjEDD10CrN+hDiMt3zS/NZ8MqQ8S2lwd4rRikNba0O4tUj8uAvuotdyfmIpIZ0DFeSVu7OaRPNVcQ7K9TeWo3v0Pqg=",
+  "URL": "https://github.com/fabric/patchwork",
+  "LICENSE": "BSD",
+  "ARCH": "any",
+  "BUILDDATE": "1572857067",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "fabric"
+  ]
+}

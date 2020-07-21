@@ -1,0 +1,27 @@
+{
+  "FILENAME": "python-breathe-4.19.2-1-any.pkg.tar.zst",
+  "NAME": "python-breathe",
+  "BASE": "python-breathe",
+  "VERSION": "4.19.2-1",
+  "DESC": "An extension to reStructuredText and Sphinx to be able to read and render Doxygen xml output",
+  "CSIZE": "166764",
+  "ISIZE": "1334973",
+  "MD5SUM": "a305d99b72c87625faeff71a703eb0fd",
+  "SHA256SUM": "101c591a4a5d602fd2ad998bf87a7e6c3e1a0c8533f6ea5df29fbca114207ed0",
+  "PGPSIG": "iQEzBAABCAAdFiEEP/pqt7aarmzKJj3eAZp0dCl9hXcFAl73PFUACgkQAZp0dCl9hXf1uggAkuKUAJJLCjWmhZafTDAjTr6fyjy5tOS1NLCeqOi2WNZsgHYZngEjWfurA8E3+uhyIe4NDvLqMAC1ZOOstH7zNymFrrpVpMbudzJpIzPtO5VG55F4zKOtU4aTssZvK4a9nBR4w63swd7p7kwC+S1HazBqv0B1XJUJ58s6JA8YIs+lMSH8kEsFDl1umoa8m0fRbzVjUFE7ZvYi9um/oXsjB5Z7Qa4s/pdJTqsslm8+rsnEiVMAYD280lmDHaDexM/ggIJ1BVA4R4sjMKq/Ko5MKQAkTuiiQEexq0qeLc6IQFYK/f8eVqBk4aRDp2+wWKaDhXgnFog8wmBeg2b0MphKWg==",
+  "URL": "https://breathe.readthedocs.org/en/latest/",
+  "LICENSE": "BSD",
+  "ARCH": "any",
+  "BUILDDATE": "1593261072",
+  "PACKAGER": "Daniel Bermond <dbermond@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "python",
+    "python-setuptools",
+    "python-sphinx",
+    "python-docutils",
+    "python-six"
+  ]
+}

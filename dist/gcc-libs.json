@@ -1,0 +1,30 @@
+{
+  "FILENAME": "gcc-libs-10.1.0-2-x86_64.pkg.tar.zst",
+  "NAME": "gcc-libs",
+  "BASE": "gcc",
+  "VERSION": "10.1.0-2",
+  "DESC": "Runtime libraries shipped by GCC",
+  "CSIZE": "33041312",
+  "ISIZE": "156043948",
+  "MD5SUM": "130b6a05ed47e8547be590b107cb240f",
+  "SHA256SUM": "f80320a03ff73e82271064e4f684cd58d7dbdb07aa06a2c4eea8e0f3c507c45c",
+  "PGPSIG": "iQEzBAABCAAdFiEEhs/8qRjPOvRxR1iAUeixSKmZnDQFAl7Gyn4ACgkQUeixSKmZnDROAQgAqE/pPv1SvJOnQSV/864PokxA6QPrtunpihOX9OjRG46Ma0z9ES5+wtBCs9ZGqG2Ig6eXsYxYOShMfV7G3RlMdsqWqtQQoHdsUyDpZah5bc3B3TQ+I9uaQj8qTJQFJvuaZzyt7HYFkh/kBSN1Pi2dyugVhehHEJlEQ+u2WZhyM3nuYtQ2mP0QzUEqMwVAjI89VPOXMPdkV/fXBIxsDr3JJj1TSRx0msZ/1RZ0kziIqgDIKMaQUGKAQE5mzgVIG3PFd363tZtAIc3G+AtiOG2rNqphgyDuhf1up2C+gRzLRxLxfOqKldmsoj38y0/VGEp/z/cI62icJYfmYfdREzv6QQ==",
+  "URL": "https://gcc.gnu.org",
+  "LICENSE": "GPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1590081605",
+  "PACKAGER": "Evangelos Foutras <evangelos@foutrelis.com>",
+  "PROVIDES": [
+    "gcc-libs-multilib",
+    "libgo.so=16-64",
+    "libgfortran.so=5-64",
+    "libgphobos.so=1-64",
+    "libubsan.so=1-64",
+    "libasan.so=6-64",
+    "libtsan.so=0-64",
+    "liblsan.so=0-64"
+  ],
+  "DEPENDS": [
+    "glibc>=2.27"
+  ]
+}

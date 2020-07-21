@@ -1,0 +1,23 @@
+{
+  "FILENAME": "python-dephell-setuptools-0.2.1-1-any.pkg.tar.xz",
+  "NAME": "python-dephell-setuptools",
+  "BASE": "python-dephell-setuptools",
+  "VERSION": "0.2.1-1",
+  "DESC": "Extract meta information from setup.py",
+  "CSIZE": "16132",
+  "ISIZE": "45112",
+  "MD5SUM": "07406ac8afa981e35d1edc8802fedccd",
+  "SHA256SUM": "7ad04fa4dbfaeb6b3596c28780b53c6c559758083d3659a74b6070600c24aec3",
+  "PGPSIG": "iQIzBAABCgAdFiEEYEETBMCdNmKDQO7/zrFn77VyK9YFAl31wkYACgkQzrFn77VyK9Y3FRAAip8JNBsgrr+VGShacofSwRq4a2My0GNNC1dKcqJIzPELGMYmDWA6/H+xxyoo4IJ5fBKM1xvVCe+CrYDrNH53XpHMY9QAYmiZhFwt4NhLFv4bZBR0iG6qm6E5kjRIWOND932LpAIVmwXVY3o0yfhuPJU5DTqzVFUxESjxEcVqgN9MUSg5yH95LxWLDTYDO8BJgSro3jj7rlU3W1Pts+iuxnqiymlWU/gjjSlk1pe9Bk9/VNPCYyZey4oa0m4/frNC7pqW64BL6vx2grhcxxHjpV//yV5lG4Y8izPD6yYvysoysMJQ9cOk0ARPsZJv1CaBnm30EX5sv6BzmGvW+1BFnZCGnu4fSsWoi9iGMBJSbTu4lhyx3aiIKOL6jrJ2TjSo16g4SBgGJakKRB/PxAP2Dw8jg9Ovdym8kOgbl6iDLuf4vPNRy1prI9cu517iKJsKKjOVG+ULlle/RXLPiNtbEAtofP40LBAvkDeP0z0uLf4obSSK+N21w8C3r3pPal0hOsE0509BXv8vFdx+jWcWGKYiCdope200LT0rTO+mgcgBY2m4KyB3K3Zc+pgCt0S8QJMJLGUmgDEJm9VJNVY9dstqGyR329/46DA61B0sSbJ3AujUkTzkB/Ea5mD8tcaCJrX/l8aKQAUeW2OuUb6e9WihUw8/HmOOYrX9hSxWLP4=",
+  "URL": "https://github.com/dephell/dephell_setuptools",
+  "LICENSE": "MIT",
+  "ARCH": "any",
+  "BUILDDATE": "1576386572",
+  "PACKAGER": "Eli Schwartz <eschwartz@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "python-setuptools"
+  ]
+}

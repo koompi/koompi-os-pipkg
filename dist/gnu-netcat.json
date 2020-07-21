@@ -1,0 +1,24 @@
+{
+  "FILENAME": "gnu-netcat-0.7.1-8-x86_64.pkg.tar.zst",
+  "NAME": "gnu-netcat",
+  "BASE": "gnu-netcat",
+  "VERSION": "0.7.1-8",
+  "DESC": "GNU rewrite of netcat, the network piping application",
+  "CSIZE": "31928",
+  "ISIZE": "67738",
+  "MD5SUM": "d505232b1c61ad3b6aed4fe8795c20bc",
+  "SHA256SUM": "5f38a0e70ea6f8b0faef0df6674d67674943f3f22112f2ab308cec7b6bb0e13f",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl7DmRMACgkQeGxj8zDXy5LLFRAAlWtAa2ppxh5kvn6Op3TnSc4VTmZsaIUBXoamfSZabsT9juNsO7V78dPjTarLpCHZCGGkzp6pY3Kg/Wds0LpYL4VHolSITdcbhYbdNnzeIb98Q1PWZfTC36rXKne+apQo7UU/G8FTQfnZm8TJZt37dCOO6BmpM6qr5pQOjntv1Ew2+HXaMVdZ7vM4vQJgfL3zdyKX7waIgRi6gRvzCnXh3/XdHfQRUemLbtgPVjH0wPdPUEcWmI2GLT/6ecqvYNkr9BcofETlYq1/UAwOYadRS65JBULDR3EIBzo3+eDbCMXN1Dl/HR9kqq48zrPIxsRkx4/ZVkH14LLy6pcsv0ew17TUzvHRfEX1/SOSq/euvaNikyqVrgq8UmfPS7FrowAF9jmCaGBNqkUXS2W+eUFxyCvh8sf+4yVQgVyY35gZYFGJz1YrvF9H3+2BczwJLXlR7ynSnS9bH+VFceDV+owSD9AFhyAv4OTNBWG0y6WrUFBq8OzFoOcBqMJc7wDbaa1Spl6ahaQKNiowsF/yZETThoIDqOpQlSQt1EhlXIZ831CjUKqkUyDDS2FNsg5JT8SKR8IryfLJIFlrCm8sOjD9XIp8qXARhD+Rd3uKuvk0DSFr7RvKYHWHgr/oYNbzTagmAF291lB1LZ8WoWAUB2e9xNaiqWAQsAhGFZU/Sa7bCko=",
+  "URL": "http://netcat.sourceforge.net/",
+  "LICENSE": "GPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1589876960",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    "netcat"
+  ],
+  "DEPENDS": [
+    "glibc",
+    "texinfo"
+  ]
+}

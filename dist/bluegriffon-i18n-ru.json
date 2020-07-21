@@ -1,0 +1,23 @@
+{
+  "FILENAME": "bluegriffon-i18n-ru-3.1-11-x86_64.pkg.tar.zst",
+  "NAME": "bluegriffon-i18n-ru",
+  "BASE": "bluegriffon",
+  "VERSION": "3.1-11",
+  "DESC": "Russian language pack for Bluegriffon",
+  "CSIZE": "653514",
+  "ISIZE": "765923",
+  "MD5SUM": "75322a24b2030d057c3ee3d1b31333ad",
+  "SHA256SUM": "dceaaa81865059bc0c05613ce510ebe49ab97ca8268f2570a9a3573c11cb49e4",
+  "PGPSIG": "iQEzBAABCAAdFiEEhs/8qRjPOvRxR1iAUeixSKmZnDQFAl6m7eEACgkQUeixSKmZnDQ7hggAhczvIsouOz+wneXNeaM4f73V16Ea4/zMHPIX+OSyu9h/JrLzLiOlBYBT2dtEPnEkSmoNtrKRZduywBUdjGMv5poJIez2C8zCx4LxqcrLxyI61F0GH6fpbck+UfEs2hr4ayfw7n8Nacv24dL5hy6RFn5BpFSwBOLaQl3r/Yatbx3TUyVkMd91tn96vZAzUmBibdTrmkv7iBp2zjQ8G705MDZYLHA8SgLKsDZbDqH+a3ZEsH3HTOPLGQo1nB5c8iSmer5++PJHbrSWNpUJPpftFZI3wPnTvwZJyshq5vnJcygLjkcQoagJb692pp2rpRqt3Yz4HKIaxDVHp5nMnmWg9Q==",
+  "URL": "http://bluegriffon.org/",
+  "LICENSE": "MPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1587997405",
+  "PACKAGER": "Evangelos Foutras <evangelos@foutrelis.com>",
+  "PROVIDES": [
+    "bluegriffon-i18n"
+  ],
+  "DEPENDS": [
+    "bluegriffon>=3.1"
+  ]
+}

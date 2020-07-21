@@ -1,0 +1,23 @@
+{
+  "FILENAME": "perl-file-readbackwards-1.05-7-any.pkg.tar.zst",
+  "NAME": "perl-file-readbackwards",
+  "BASE": "perl-file-readbackwards",
+  "VERSION": "1.05-7",
+  "DESC": "read a file backwards by lines",
+  "CSIZE": "10242",
+  "ISIZE": "13675",
+  "MD5SUM": "4e8480820626bfdf7d1a0711cf8fb78d",
+  "SHA256SUM": "247d7e785a0ab46ce3f359564be793f26fae59fd778aaf6f6c0d0e3cc97d6185",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl7vh9QACgkQeGxj8zDXy5J1gw//fsqCkBExzxGAKygjTV0AicoBBmdWSsWabI0jryljNgt36pKbxYf03pT4VwHZ21RoolbxahB9/Ad51+ATGxokKW9M77g228UdZMatwlRQ21BUJwM/PtKIz6jiqfHUAWt9wsZWZqEx5ukf1VU/8BwuAuglankAIy3HIck/IoxAY+x1MqTu3yvQP0h4k4Nxf0TSGo5R5yq4LFwhuWv0UnM/gKv3r+Of7q4R2PZ6GJEdva7Ew2s+zgBkcotgOR1z+46S1lBOfRPbWgs39NqOz2UKK5kRkerh4i2RSalbJ696R9d8ywR+XrnEAbiIhAmfcZzuCzZJeCXXoV/MVaMuZiauhFz0vs0k3d+PNHJlsk40keahNI9L6mnTQR7hiYKPDRFtfuISQ+tjMCKw5Cd5yfcPcsdkmndARiJyMXTycmSqTz2cmUQcklAmMzkLRyqe7tieDxted+DWlIdYMI4we5hNVr0OQPzGr1DTKxk0YdmcoBxc31hHXgImvcmTXPsAjY/PRyRKzZVpQP9ttsXMIlZ3w4gtjlY/Z0EDd9ocZwezICjGXmxnh0H4SIItZoh984DCC86Rk5qO6u7ohcgAu3m7oavGnWL/rF05SgaB8bqhkKwWLmbhXJZreLztovbh+2xCeOxPXJHqhM0hIQuyRDKFWByQT4lNtO8hlRGU8bicfWk=",
+  "URL": "https://search.cpan.org/dist/File-ReadBackwards/",
+  "LICENSE": "PerlArtistic",
+  "ARCH": "any",
+  "BUILDDATE": "1592756159",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "perl"
+  ]
+}

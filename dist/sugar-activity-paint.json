@@ -1,0 +1,23 @@
+{
+  "FILENAME": "sugar-activity-paint-70-1-any.pkg.tar.zst",
+  "NAME": "sugar-activity-paint",
+  "BASE": "sugar-activity-paint",
+  "VERSION": "70-1",
+  "DESC": "Sugar activity to create paintings or drawings",
+  "CSIZE": "435472",
+  "ISIZE": "1278432",
+  "MD5SUM": "1def48426de1951a1ada0778a491dd9e",
+  "SHA256SUM": "57598faba2b5f94bed78c286642f366d2a3609f1ff1a40ac98a573bdf6c4d524",
+  "PGPSIG": "iQEzBAABCAAdFiEEzgvecadZqH8j8PfYth284QkBwWMFAl5mp5UACgkQth284QkBwWPljwf9E4aIkLWEKf1roXZu6Zarbn9zQ6Ypwcm+eSnPa42LrY8kEh4eWHe11aCQ5EaDY1YceXlG+N9i8TSsRvm3wpCIUE4FGrZR6M4bWXHH4ND6pCavZJMyocO6qGlsrEy3kPz0h0jYp/iW/mvNHaNK5f0SWKRTfnx99bLskAkIYxMb4/roSYC7JEmeuW7RVdJZuRbapO7fi1a1E7jTWm9+fylSK5mnGqrf/4aoHv4QGEFkyTOhFb1n5qn0jmBTpDx+HhlSHC/BItJfXs86UhZyHv2STSTC3eEfTWOAuSBgV2uZ81YBt2IS5YXO7cAhtlQKZ0iqhPYmyqVfWAKClx13r/S2rA==",
+  "URL": "https://wiki.sugarlabs.org/go/Activities/Paint",
+  "LICENSE": "GPL",
+  "ARCH": "any",
+  "BUILDDATE": "1583785684",
+  "PACKAGER": "Balló György <ballogyor+arch@gmail.com>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "sugar-toolkit-gtk3"
+  ]
+}

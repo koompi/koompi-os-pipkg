@@ -1,0 +1,25 @@
+{
+  "FILENAME": "gnome-taquin-3.36.4-1-x86_64.pkg.tar.zst",
+  "NAME": "gnome-taquin",
+  "BASE": "gnome-taquin",
+  "VERSION": "3.36.4-1",
+  "DESC": "Move tiles so that they reach their places",
+  "CSIZE": "4532940",
+  "ISIZE": "5618938",
+  "MD5SUM": "e4032707b54e19de83eedd5634bc6199",
+  "SHA256SUM": "1d9a0696637687ba56c6976413178b084bc147a90cdfbac0a947a6a6dd5f4f99",
+  "PGPSIG": "iIsEABYIADMWIQQGaHodnU+rCLUP2Ss7lKgOUKR3xwUCXwJE7xUcaGVmdGlnQGFyY2hsaW51eC5vcmcACgkQO5SoDlCkd8ej/QEAsDTQVHtwLoNyVx6NHtJuubo/9m/gmuvXIm/wwT58CdcA/3fro2q5Cak1IitnDCO8VCYEkVgCcKjQpaLa6Jlv73YH",
+  "URL": "https://wiki.gnome.org/Apps/Taquin",
+  "LICENSE": "GPL3",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1593984064",
+  "PACKAGER": "Jan Alexander Steffens (heftig) <heftig@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "gtk3",
+    "librsvg",
+    "gsound"
+  ]
+}

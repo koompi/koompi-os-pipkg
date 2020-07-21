@@ -1,0 +1,23 @@
+{
+  "FILENAME": "python-opentracing-2.3.0-1-any.pkg.tar.zst",
+  "NAME": "python-opentracing",
+  "BASE": "python-opentracing",
+  "VERSION": "2.3.0-1",
+  "DESC": "OpenTracing API for Python",
+  "CSIZE": "48741",
+  "ISIZE": "295630",
+  "MD5SUM": "0ce63435f9881909e0f995625710abb8",
+  "SHA256SUM": "0e1bf00e9822c3a5c1480afc521c5ec81829d92c6ef0482b603babe8fd41ff9f",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl73cGAACgkQeGxj8zDXy5JTag//QY9qRPXiQBm7xXNNWtbstCSCKdMoFdw2IuimTar2xgbL7LFqJYwd9VJp1pNw+mGkIUp6n/3pC0zGuyy+newDEGke3dIBWrj0ylAaEvW3tLFN+w35XS/kc9CSbNxFEHSBaL1sTZgMv/KGBLLm3G3hyyxgtMiG4Zl2nkoU+GU+VlCKETpt4WbwFcckUrczw5VdzXZaDy+L0sETlt20jpDTGDfs+5qRsCHuYFyHm0jjD/cRDHhnqI+ypovUTOAcwqCt5S0Dqn7elbr+/Qj2IBPRqM6UnHGUY71d72DIX4Q0uDIb21HYdt2w39ZgbWY71Isv1AmNM/0H8TYW8eaZjL2PMjJrZCyMwykDf55WoeimLmU0dJ9spXf2YlujyAqqZKK4amlTtDrFt7gGhmx6KX5aDum0U3a4j2HjgCtJ3CKowCQrv5WkExZ5Mojdwjge+hhrK7gEdwwv3qCBaVJGsMYkOzKDDr7ndLBtBp5S8XrUk51XxRSL66RBw/eMirbs0dXbjAPVlqcLoqhsiqppujQK0ME1xnAvVmdDQc2HxeHHbOwZ+ner4JAaaKGueA5AI7bP466dswhxMLwCUQowQhg2Nm+FM44SLKrPkaZuScM0F7MDmTq2Q0Pht0VoJalIbZ9B+OVGTzYxAJEqpvWvrsAWfmNTcRmVghZI7XPTZ19AZcU=",
+  "URL": "https://github.com/opentracing/opentracing-python",
+  "LICENSE": "Apache",
+  "ARCH": "any",
+  "BUILDDATE": "1593274407",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "python"
+  ]
+}

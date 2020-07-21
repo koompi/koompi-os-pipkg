@@ -1,0 +1,23 @@
+{
+  "FILENAME": "python-characteristic-14.3.0-9-any.pkg.tar.xz",
+  "NAME": "python-characteristic",
+  "BASE": "python-characteristic",
+  "VERSION": "14.3.0-9",
+  "DESC": "Python attributes without boilerplate.",
+  "CSIZE": "26760",
+  "ISIZE": "160936",
+  "MD5SUM": "8157ecce4fd6be5defff0309a352704b",
+  "SHA256SUM": "8048400c1383ccf235a79c1ffb24938f290dcf449d9287ac221b45609bedc13a",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl27N/wACgkQeGxj8zDXy5KEOhAAo4fNwKXxbVXLITqCfi9SG6I/wF8y57aoVrtBvhSfYeS3P+W7h+LZ945ZaFw87RVkbbjY8FiYBTE6Yp/aY3pparOUMmCbK5fW9CjRsIaUJBdWEqTzhXPm75MzSjp9HhCct4ivF7I7iM8utP5BwL5kD5lTHmv3+3bHt3NolS8Fp4+rOBqneyuwS2Uqfr2k9gV0uFqyi7TX0RaBvLj61qdodSkfr+3cQ83rGCrtBt+T4Q642MdpM3MjxTZAghkKDj3hZKho8+aaKhaN+0smlV+6ZG9sUU4CRldCp1Rrqrc/ocSC8xuJcDS5x49faEQLp4wyalHVpCf8EgfIPe9VT5Q04jF7WV4Va3UNzYEAfzqDYrOfE7mZ+iact9D3mTEErx+OE4u8//eipLyeiU6LoBX8JejzGO4uUF025lUUaZF8x3UK6B8d0SRgTMsKoYYztGUIZm9+CIWWdoNmOgWRyIZaIqLl99WZXVrwoiUPw92Nl6ByLmqX6/twCDN5oKxZeHWNDMZdGsPvnPXWdatKGI5eIkyb9YHfco0tWZW7+Hz/+tIyDS/mYToQQDd6/P4nuXb9BeMeOuQ2RRfDs53joS2iid9mYZqSoAE2WFuYF3OtFM6RDZYz4Vou7KvFNmMMkB3FEs7GECdDsnTqSE49cEVj5EQjpWiiwHwdK7/DLl7GszU=",
+  "URL": "https://pypi.python.org/pypi/characteristic",
+  "LICENSE": "MIT",
+  "ARCH": "any",
+  "BUILDDATE": "1572550619",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "python"
+  ]
+}

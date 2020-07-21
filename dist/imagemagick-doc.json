@@ -1,0 +1,23 @@
+{
+  "FILENAME": "imagemagick-doc-7.0.10.23-1-x86_64.pkg.tar.zst",
+  "NAME": "imagemagick-doc",
+  "BASE": "imagemagick",
+  "VERSION": "7.0.10.23-1",
+  "DESC": "An image viewing/manipulation program (manual and API docs)",
+  "CSIZE": "5543231",
+  "ISIZE": "10659400",
+  "MD5SUM": "8189174dc891f4b7cf14bc522b15f8ee",
+  "SHA256SUM": "cd971f65ab5bba9d9b6b11e48a64b0a45fb84e7564f6c2034d553606d5b3b1e3",
+  "PGPSIG": "iQEzBAABCAAdFiEEFRnVq6Zb9vwrc8dWek52CV2KUuQFAl8AyFoACgkQek52CV2KUuQV0gf+MxnuDfjf8apkj5P2HKF9Ai29q+Y/KE6TsJL80PYO15UYvfYZS1NaNcmrw932nECTQQ+FmDkx0nxIYVH1LKMX6WzV+cuWSNOvn7zs4fv75qVAmU8NRzZkmqPJ7RbJyLxt4zoue+PGxfD8m1mqjd3lZ3EUT4WruBd+zkpUOyIAx6fIbcka8Fxt+UsQo0YX+3v+TTkvmK8K48W/yZommAM/nzVwdm0qQUBDlxS+ZHmZq9wHF0+XK3SMy3cAGx6NGcP0cdMlDsVLPsMIIdYg4oCtxVk99ZCwL4KWE694P2Jo+Vrb1rm+xpH3ZKv1IUuLaoR5z1cVJF4cuM6EUfZGXkcqMQ==",
+  "URL": "https://www.imagemagick.org/",
+  "LICENSE": "custom",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1593886341",
+  "PACKAGER": "Antonio Rojas <arojas@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    ""
+  ]
+}

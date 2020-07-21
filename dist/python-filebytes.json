@@ -1,0 +1,23 @@
+{
+  "FILENAME": "python-filebytes-0.10.2-1-any.pkg.tar.zst",
+  "NAME": "python-filebytes",
+  "BASE": "python-filebytes",
+  "VERSION": "0.10.2-1",
+  "DESC": "Library to read and edit executable binary files",
+  "CSIZE": "50888",
+  "ISIZE": "268025",
+  "MD5SUM": "06ff89ce9873899dfa7b0faff31d9c60",
+  "SHA256SUM": "5e5189424dbf81af9696bdf676b1f36453a0c422bbdc4ce8293a0e7757c82d7f",
+  "PGPSIG": "iQIzBAABCgAdFiEE4kC1fixGMLp2ji8m/BtUfI2BcsgFAl5oAyMACgkQ/BtUfI2BcshCIw//Rp+lED2T2AvuAPJZbAZfzTeAbYOTinNl+xGwoMiTRtdawI7XVsWbn6uqJJfXEVw9/nxULA3f21QJOvcwdvbdwS4oEy7wvp7NahoOL4/kJcyFK27NGVY34D7LFChkzwcNjX7ZEGP3PzS/NR0djN+EtqOlg+sKV7Bvy3vH8sF3FMVonvlElhIzLRauDnq5EkNZuv3bAgEgU1V/Q2ZB+zNVA36uHJP0zmGmWprcIpuN+ls56GDeGFzeEAvGX8it6OLigiciWSYG7L+ckGLj2mKHAqpa/WhF9HX7e0NCgs6fnz7ArtIDA/jLjHnZpWhPn8cp/HcArSUd7hUb+zADy9LSgieH8g59ZuXzMwzYkrzswlP0g5psstCwdIzrJVl9rhzYyev1WDw4SGZFXeqsID/bDBt/4r3uESSC4fi51W4Omk/k1L+5oE3wVRzh1b6soBSLhyzt3ItXFpXBC0Zl3fNDwr9bQx3d1Pof3tyK5d6VNP6fVZq9Eh/UYXH7YPYgZnah1jMZpyU6C6LSOpNmXaK0gaU0H8IxTOtWBDuLqinpTGNXucKo2Og6s+Hnwqxe5oiewMDDyZDChFoAv0FMFVWlWJde3oDMKTUtNbsZx5EyZB8AkH2uQDS2NvnU1G6Z0/C8oNRAeOj6mTmrWmSUN+rXBalEJBKyGI9pr6eKW9LgUfE=",
+  "URL": "https://github.com/sashs/filebytes",
+  "LICENSE": "BSD",
+  "ARCH": "any",
+  "BUILDDATE": "1583874831",
+  "PACKAGER": "Levente Polyak <anthraxx@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "python"
+  ]
+}

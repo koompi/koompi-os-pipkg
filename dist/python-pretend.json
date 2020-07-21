@@ -1,0 +1,23 @@
+{
+  "FILENAME": "python-pretend-1.0.9-4-any.pkg.tar.xz",
+  "NAME": "python-pretend",
+  "BASE": "python-pretend",
+  "VERSION": "1.0.9-4",
+  "DESC": "A library for stubbing in Python",
+  "CSIZE": "8940",
+  "ISIZE": "18317",
+  "MD5SUM": "41e7603a3d4e4aad4cb9ac46d681937d",
+  "SHA256SUM": "e0e5e96fa1f4d3efe47805f113a96f491922017e5ea4cc45ce4c0d390b805315",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl2/bhUACgkQeGxj8zDXy5JeehAAptynCHbmE7YO9NmwmudKndqiE4seYs11/xpzYRbaB+4EDUzDMwj3va2V/I1o+zDMCrQB4y/Ee5aINUc+ZR7V/fHe3ANT+Ra+bVaNTb3X+sCVq1vz5O1ANe7uESuJdKHcbuWtSuVF79VkzBl4+ELOn37BjNl6MYyWICdAmuIOaBhNEV734Fj0DQqyPoFzfXMBHt6b7NfodEEmxVHRjOECBZ9dp1Lher8CYXoURtDNl6Fzt55luYbwZWmoW/y416NkoxWcATvn5j8HQXPpRi/NxOxpGuShLJAMw7a2Ea6N/L+WERLO0Eym/4K+4ugDtkw1KZi04L8j2apjxtWuiB0deccQDzU3tBTVQdOUlBmypvguKi/sFdp6GN0yM/c59jaZN1/dVf7w5F86iN4UgwG9SaIiNuCBA2oX6SGKZpSSpDSeBvc63QaWhR87mCFTrbvESWbHluN/slMvSzWUeSqC+b7rRSNlmZucqGFlKjXes0jzayEqf++/tVrFQ9xzD88gyfQv/dy6axVqjAcii8YbNE4pg69igCJHTSpKaTYHnHmCS40UR/o9lN5kTVHqoyVbhrYOwllqiCTSvDD6t7suiIZi5d5DIShSL5xmr4n6Qg3L/VBo8jhwcI90oYjH0sOL6mq2QFTS7SMhgohCO3qIUPOMbqrK5NY7y17OvFhppcU=",
+  "URL": "https://github.com/alex/pretend",
+  "LICENSE": "BSD",
+  "ARCH": "any",
+  "BUILDDATE": "1572826611",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "python"
+  ]
+}

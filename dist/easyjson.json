@@ -1,0 +1,23 @@
+{
+  "FILENAME": "easyjson-0.7.1-2-x86_64.pkg.tar.zst",
+  "NAME": "easyjson",
+  "BASE": "easyjson",
+  "VERSION": "0.7.1-2",
+  "DESC": "Fast JSON serializer for golang",
+  "CSIZE": "2206459",
+  "ISIZE": "7129952",
+  "MD5SUM": "4427d4d2d579e5a2c8af774e61fbdc73",
+  "SHA256SUM": "afca5c927c572f1c32538cf8b5859f97f252de59a3d65bcc0f305685a6e7d21f",
+  "PGPSIG": "iQJLBAABCgA1FiEEktnGzemaICTWkKdu50JoO6CMsv8FAl8B9e0XHGZveGJvcm9uQGFyY2hsaW51eC5vcmcACgkQ50JoO6CMsv8LCA//asgXebzZUdoiO400yVdoawD/xjl0jGdwHbSFjUVycgZibJtjQ3penuiTCavwhZJFf/GC6JePVNWvtHjKUKcq9dGr2CItxcxsljCoZPauCIol9ExFXXgYTiVFImb6nJTIcY4oNpBWifdbFelQp1DNBjZ7mXufxJmz1tnMyEZu4J7dGC4KXqwT0PlMz9iQqmYuL3MdOTvZoPtUPr37SBtegYDNPUOiTMgMikWkxdPK20uffCesNI0aBSZII5AAhCBvMDwEB1qpPsisjig8K9tBlC4hk61L1fEkz+Cita41pVz1I0QiKajSCCCZBDJZjFSrbCxWtAYeJA0EWAPLICvbkhevO0qemYaVykj7RKYAeOsRy1mcux/qH62sqs8SrYf/unSywDQIgb9+qrcmp8z5APolZBUyJWZuReDO5vdccmCfBL87/8eOu5g2AZrYlJwrlh7mCVFA+FHSmeWErk1SrSuO/YRl6I9XkQyQbL3gYV3ckWmCy09JeaahVriMyLFd8lMB9O0h5UrlVpjWL5HICs/UWhcOYUgZWRUipgRxqAF+dBA8F+KrER1CM5lZfd7jsRmIDJHMFBXTXfIwtjMe/gZJeoWOpKK7G6USbc99YGqJF28y0nf2Rd8nvimkL0RL++aSRnMGyVLZ5Ayij1TWHqWcNlHuDyyMYPG7k3Plxew=",
+  "URL": "https://github.com/mailru/easyjson",
+  "LICENSE": "MIT",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1593963911",
+  "PACKAGER": "Morten Linderud <foxboron@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "glibc"
+  ]
+}

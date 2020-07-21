@@ -1,0 +1,23 @@
+{
+  "FILENAME": "python-mygpoclient-1.8-5-any.pkg.tar.xz",
+  "NAME": "python-mygpoclient",
+  "BASE": "python-mygpoclient",
+  "VERSION": "1.8-5",
+  "DESC": "Python client Library for the gpodder.net web service",
+  "CSIZE": "49868",
+  "ISIZE": "355335",
+  "MD5SUM": "5a8ad01359c4c5b3eebd5a6f6c2067fc",
+  "SHA256SUM": "fe1b9ee8cd65744aaceaf24b0fc464969780492ad1a345fe47963e80d5926a95",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl27HfoACgkQeGxj8zDXy5L8JQ//be3fdzi24slfnyLaYkLP4AY+dOWrxLo5JjApc8c0EffFOO1EAg3u7VC1AfdjKpAA47I1491RSmqcmZFqd9A8ND5NMqcHRNO+oK6M53TersVj2+A0dmD0uQ6nIsmJJKjGrOw3WPwvwQkxJ1HPrMFWAJG0/VrXMKvOUqnrmGpMnuo+0wrp12lrlO4jwOAANdMXtcw9PavX3+W99x1cGocVelnmQXeyjqbfQGXqn9N6MYvNs8WaT8gwyJMFpMTLUcuLi7j2LGpcDF0GN1ljypTDhfO2AhcJshETtC0gIBMNafuaiSMqzqODtGCLGEqlFGhoA7PYwDPOw/t+BLsS7rEaLFkNLrPAbA6zPj2CgXXfbPh8DJLwlOEW+SoT7MSomwuboZrJ5WSdbI+kER9NmsYfHqKBCAPc/IjfMYCs6c/MXPynLYRnNm3kWocGnr2Grw5ho3Rp5PuK5C+xdcCToi4fFuO7HBcWXwYAaOfSL1q2sLkQA3YKdUriZxPqsXP/3JGmV1c30t31LUaT1Ktd4a7TeMS8aiIMXvVynU8MhK79LrgH0lgRaUmxc0yyVzIwInr4RHdsJTXEhOhrTel6PHKaF2iq1yKMtZYdCWLV6f7sqafThbpKTKzNM4LeQgSJMkUq3uP25pt5CjHS52BB+OAAT19UbCTOcZb/6/iuZvPHtXc=",
+  "URL": "https://github.com/gpodder/mygpoclient",
+  "LICENSE": "GPL3",
+  "ARCH": "any",
+  "BUILDDATE": "1572543968",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "python"
+  ]
+}

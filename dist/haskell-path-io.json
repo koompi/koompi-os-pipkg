@@ -1,0 +1,27 @@
+{
+  "FILENAME": "haskell-path-io-1.6.0-40-x86_64.pkg.tar.zst",
+  "NAME": "haskell-path-io",
+  "BASE": "haskell-path-io",
+  "VERSION": "1.6.0-40",
+  "DESC": "Interface to ‘directory’ package for users of ‘path’",
+  "CSIZE": "64031",
+  "ISIZE": "319148",
+  "MD5SUM": "410326b04822aedada0863c1fa8f1992",
+  "SHA256SUM": "fc1c7c68be88eec8d4183b3ccca2b77c91d3eedabc3731e0fb85b53f73086c22",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl75oxwACgkQeGxj8zDXy5KMpRAArPm4OH1c5JZB2jTKSpYxyvrVb57q2Tzf+SaYz74SUEJSN8Lvx/Hh+SlnkOxoK0s9xQqjpGHEmqe8wJfRpJ7HTxUpJFvM/Gs3HVum3+HfUKINYPn+kKFBTC9TRVdfpCXkw21E0Se0L2ws9NOUJVCbrK16N9fbtksUJMNAh6mprgN84z6d2blQbgZ0wAfqLFdcAeIcVitGQ+akPn2BtZxRxA3JKoTAhD/SWJEB4cwn64wZMxQIn3aU4GSxYOg7l2j4oJOiZ+DGKjYj57lf1d/IA+XmlgGQAtXafgg8x3ruAXFkG0uJnM9AfiOJlvMGGVCEAY4dRzYxyFGaQOp/rthRQKWnqwQjuW13SX+bm3ywqE6ECreQXxfkBcsEnxLQq5h28Uaxa0gzuPjDG42ZWv7fPbV9pblK2gaQy3rBQDvOs7c5CAqfuQG9VrCcbDnX5dLFib2IGKNijwk1pxqI5y+KTrUay46A0TfOTCBjn+peOu8EG9wXAHYT43cdlsWID+JEWwup7lFnaLL/2qreNNGhn8U8glcQ6kDUhmRKETI77YmLrIUdLa1eaJb4Z72kDY1LDpBaaIwQnhbLzw5oRtQ4mEsaYWqYyAUk/Wdsv8Jw4oyBwprBJbvi9Ek9I9FogQRrso26hQI47G/0MFqHSnJiYdh4MfrUTwORrQVlJz8o6p0=",
+  "URL": "https://github.com/mrkkrp/path-io",
+  "LICENSE": "BSD",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1593418491",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "ghc-libs",
+    "haskell-dlist",
+    "haskell-path",
+    "haskell-temporary",
+    "haskell-unix-compat"
+  ]
+}

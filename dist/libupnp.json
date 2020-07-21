@@ -1,0 +1,23 @@
+{
+  "FILENAME": "libupnp-1.6.25-2-x86_64.pkg.tar.zst",
+  "NAME": "libupnp",
+  "BASE": "libupnp",
+  "VERSION": "1.6.25-2",
+  "DESC": "Portable Open Source UPnP Development Kit",
+  "CSIZE": "129955",
+  "ISIZE": "489818",
+  "MD5SUM": "9e91f6b3d518bbf8c603fc8d990bd4e2",
+  "SHA256SUM": "6d3bc7c22e7dd1795440ab46e215bec39bdb594a2731f8c59f42f5d1949adfcb",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl7DlLUACgkQeGxj8zDXy5JHEw/+NQ6RKVLranSICp2jhQtz4RiGdpatBGJN/ZmZIF65IdCRg388TbEvW5xIVxZ689tvwVFZhyLoOExUImNOqTvWNcAiuY8h+UrpiXGzO5kSGz7r/RSLtjm9trr1H07sGrJoW9+17PClrkcGnveVBAeBbhhDXquWGt60FHojRUq03FHiHO3b0M+WoQ0UBQOhOx1NRFxQXXMqdWK8npo2SjChgrJibuXe+8nAGwf7AySdaLWCb22EFootJJZvDzhE+9Eiz/XGEd0QCkfk9ulgJTS+3EDkibGIREQPxXzI22ptgtUch1pTZhiRSV+47arScOqZxKM8TmciwJ/+aPHxYLnS9/F8zY+eb+AXmSfuVQcTcjCoXJUvTVOhXOLFAveWarvC3yrNqYf8R3njo8pD3UBKitxJdxsU0d50xEAQ78HOixTsa1SnFwH3UrsN3IMMJSZvu3d5iwdnqOITqATq8NphZQ6t4XnVbDQaNkajPmeFklGt83g58wDWAI0uMMHiNii8Potgty/A+od/YK8HZ5g6SngD3WY8vaMGvspZOjcXkogSTQDw8PG6KZuqV3/65M5+NpOU0iaY6ywqICgvfUDQRpnCTdBW58gRyKmCuxcJmSLi2IkIhuuzAIQfBIuZQwSo9rVcz+1uDV4QRl6JZecstdNU31C2zjz8tf2xfeIZD2I=",
+  "URL": "http://pupnp.sourceforge.net/",
+  "LICENSE": "BSD",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1589875849",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "glibc"
+  ]
+}

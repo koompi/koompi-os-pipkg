@@ -1,0 +1,23 @@
+{
+  "FILENAME": "libedit-20191231_3.1-1-x86_64.pkg.tar.zst",
+  "NAME": "libedit",
+  "BASE": "libedit",
+  "VERSION": "20191231_3.1-1",
+  "DESC": "Command line editor library providing generic line editing, history, and tokenization functions",
+  "CSIZE": "109430",
+  "ISIZE": "264121",
+  "MD5SUM": "77be4a4af117d89b7be91f38a40c0742",
+  "SHA256SUM": "3cee44006604b6055c91dda57ef2c9fa88d6dcbaef3c76af8b73b3f172fb534e",
+  "PGPSIG": "iHUEABYIAB0WIQQaYNxEJF0G/vkGI9bu7uLu7i7u7gUCXhGLmwAKCRDu7uLu7i7u7h3aAP4tphmcz+leLFqLLKpDNNhMrxADzELJ9t0+3lj4Y5eEwQEA3Mepx925wVS+qaU58HoPW5/ddZBYsfCREXa/Rh5rgAc=",
+  "URL": "https://thrysoee.dk/editline/",
+  "LICENSE": "BSD",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1578207520",
+  "PACKAGER": "Gaetan Bisson <bisson@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "ncurses"
+  ]
+}

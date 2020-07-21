@@ -1,0 +1,23 @@
+{
+  "FILENAME": "espeak-ng-espeak-1.50-2-x86_64.pkg.tar.zst",
+  "NAME": "espeak-ng-espeak",
+  "BASE": "espeak-ng",
+  "VERSION": "1.50-2",
+  "DESC": "Multi-lingual software speech synthesizer (*speak symlinks)",
+  "CSIZE": "2744",
+  "ISIZE": "0",
+  "MD5SUM": "8cc2376e84586f323c2e9467050ef2a1",
+  "SHA256SUM": "f537a966d929914ea639c97d78362666f50be92bf372a2d3fe09eb0fea1c9fd6",
+  "PGPSIG": "iQIzBAABCgAdFiEEBNw/sURf7KgTwn766k97MhqQatkFAl5/iB8ACgkQ6k97MhqQatmNZg//XXDVHNQ4kKhpfVgVbu+jRwwHoCZlpGo+zg6ZVSOdM2DzDPc/Fi57mVvC2/BuVET83pFYM1L3AjvqMWE21clHo3TLsQI2Aeicm59vHjxkoP0lj3zWVzcLFNN+9YGd9NwTR2OPRAQjQQRN3ebvxCe4i+PSnjHttsb6f8gnDATfuTEFrRk21UlhN5p42n4pTGbeUnx6/OTCmTWYVOR4V9qHlJDv1+DQ6+rADiS5ZKyWI4dnAcEdcw63+q6C5wEpSDfv08Cl+y0lIImXXMls3qKy2JNZFL7k/vBkKnRD0Wjft0mjVAVlrZP8wC3AEn8A1T9z6zXKZC5Jk9Vm9AeUhdrE/2H9xuitdbsHjZ845z3TwPGrXPUXpam+EAw4cehr25qMZBNR6B/VjmhOMtTbHMawD14owdmi5iPMrw/HQXfYy53brsYv0DwKPeCL2RJaJz8yCOVq6hOmvrPX0AkhsK0K+55ZKesiJrKvK3CFViH3O7CSDs/VnDdXPa0sG7jfc+T0zq9n5Ygf+Da2jqCjmVZH7JgHA3wSHgcwUMUc/0Y4eE6NxsfoBHhOx7Q5BfKYT5TKJ+vEYXiS1KE+EIoThDEGyiHo5uD27cULeVAzJ5YpRBh4IH1cQ5U1f+Ahi041w1vR7UgPEEl+SzieNvMm5JYwks8Jy9/ergUiqQg/8wl226M=",
+  "URL": "https://github.com/espeak-ng/espeak-ng",
+  "LICENSE": "GPL3",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1585371871",
+  "PACKAGER": "Daniel M. Capella <polyzen@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "espeak-ng"
+  ]
+}

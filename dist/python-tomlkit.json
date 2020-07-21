@@ -1,0 +1,23 @@
+{
+  "FILENAME": "python-tomlkit-0.6.0-1-any.pkg.tar.zst",
+  "NAME": "python-tomlkit",
+  "BASE": "python-tomlkit",
+  "VERSION": "0.6.0-1",
+  "DESC": "Style-preserving TOML library for Python",
+  "CSIZE": "63821",
+  "ISIZE": "337243",
+  "MD5SUM": "160efb42934760f749e4ad519645c6ed",
+  "SHA256SUM": "852ec40b0d513d97c602bf325b13d71fb627f5fbc3107265041311ed1cd09659",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl6fm1QACgkQeGxj8zDXy5KomxAAhvi0GqNO76FT2tK8l11WmZC57QV0c9oJbO0ururbggWsYRYHX4GiDpxYqU2fAnfeSVrtUaBBLVBTSnBXZLiJtW8lSlxI1QMH5Kb/+YbU+kxOrF4wsenbqOMgaVavr6w3SyZib3bfPn2m56rhIt/7OrCSbOni/pJDBkPdIYTLrXOJ84thfmmG9QZv/R8XhO43YYDciFPfuJ7/JqYehbXEEE4Mv4Od7O+SDW3EnANRUdev9xVF9a6huYyxCbmpsihJIttKJMPTrJgNp7QZd6mlzH12pl4OkfRDXuIb11k7s0tpFNwxSX7jqa0TYRAOXdBLqZqsvwMQk91n3j2auzL+2r6RwxDu0o4gEzLk2cbAvtQwBAmMVX9h46IsjjMQiart+9kVP52OJVSEnOFM530QWxlAZkgvTwN9cl9QszYSQhbfXwqPTXBtEZI8m+dJdMbT+6K6ylqPankdUBRKDQIBwwjpTSChl/pgfdZguN+kdmU8mEsZqE2pHFN4rgblHT991H2wB/bebB31c5B/rhCk8rCxYax7Y5y3fJuh2fZosekQ2+bzWWtfTU/mVOYJxeHeCacnlMosAiQCDHTKz6W6mPtuC2hXFoKPWZJiumdSqLviaxXaX97ioIuRVXa4iIk5UNKOiQkxx2moHT0nehuqFdMN+8VvbZ9r1UyyP2ZlNOo=",
+  "URL": "https://github.com/sdispater/tomlkit",
+  "LICENSE": "MIT",
+  "ARCH": "any",
+  "BUILDDATE": "1587518134",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "python"
+  ]
+}

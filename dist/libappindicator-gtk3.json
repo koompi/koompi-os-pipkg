@@ -1,0 +1,24 @@
+{
+  "FILENAME": "libappindicator-gtk3-12.10.0.r296-1-x86_64.pkg.tar.zst",
+  "NAME": "libappindicator-gtk3",
+  "BASE": "libappindicator",
+  "VERSION": "12.10.0.r296-1",
+  "DESC": "Allow applications to extend a menu via Ayatana indicators in Unity, KDE or Systray (GTK+ 3 library)",
+  "CSIZE": "53892",
+  "ISIZE": "359472",
+  "MD5SUM": "924dc373a840bcaacfd2f0d70a432f65",
+  "SHA256SUM": "06c762951f662f2c87bc2491d56aa1a4a903b4a4836fcd9ec567dbc2366350fe",
+  "PGPSIG": "iQEzBAABCAAdFiEEzgvecadZqH8j8PfYth284QkBwWMFAl7/M8MACgkQth284QkBwWPmSAf/W0lHTBZXl70zcd9ryETErPmMzkyxHSmhGUwxpMXs1QldXtYSKhhlwDGeziJEx5cKubyODqxubRXvGYypGDnkYCKGfODshFYdCShcQNsd5kbqR2syZsFqVvEsqVrfIbTZIYp8VWCSTiuIDGbVw3iAo9DfHsiCIvXsf80iaBq2cNLIoEdkLffa4JdyiRFzyFfv+kbJ/I1129qVxiBwuwjenKlmxkDBUKmfdXdWoL1HXCpgea3fg+qY4Z2qmzIGo4EufpbgtCgl9utnnl+PCyjHIFVFsVX5CLi5jneSC42BXdFMeMsge3ZQdYs8iy9sFW0KTbAEJjLy70E1CA8AqGniXQ==",
+  "URL": "https://launchpad.net/libappindicator",
+  "LICENSE": "LGPL2.1",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1593783039",
+  "PACKAGER": "Balló György <ballogyor+arch@gmail.com>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "libdbusmenu-gtk3",
+    "libindicator-gtk3"
+  ]
+}

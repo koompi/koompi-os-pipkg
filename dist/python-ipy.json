@@ -1,0 +1,23 @@
+{
+  "FILENAME": "python-ipy-1.00-3-any.pkg.tar.xz",
+  "NAME": "python-ipy",
+  "BASE": "python-ipy",
+  "VERSION": "1.00-3",
+  "DESC": "Class and tools for handling of IPv4 and IPv6 addresses and networks",
+  "CSIZE": "31216",
+  "ISIZE": "176171",
+  "MD5SUM": "03ac0328c035777b33518fb74ff99863",
+  "SHA256SUM": "eec971923278549bf9e6b6bd5635cea51a8f7d49446dc358be8036f6268e2cb4",
+  "PGPSIG": "iQEzBAABCAAdFiEEhs/8qRjPOvRxR1iAUeixSKmZnDQFAl27FBMACgkQUeixSKmZnDT/eQgAmbICEdbC/4u/SoW3rkGF1WWC5zXS2cH6Of/EKy3cH+wFiBI30ZzqwLGy1O3RrC4L7XqAbLeVU+ic/5UrIMyirriFUFBLbfFv5STV6ixjWJo6Ok2PI8Kklt6xf5vD/bhmeEe22QPV8xO6X3Q8bDq4dSjH3mYX305eA8EDp0mlR6eClTt+gf3ogqpYtZduRROomWWsEPLcxNnOkwaPnFy7Tx/VE0oQEJx/B4iPyH2fuc1+kcY3jIFF6/pwF0Fh/n18eiLYj/C+r61o2NBQD4aFbtQ5eBE23a8zG7YPzvBSl32hZsPSVQwVDZLkHOLNNdFYNyzu4Kj89BjiK86OYgzu+A==",
+  "URL": "https://github.com/autocracy/python-ipy",
+  "LICENSE": "BSD",
+  "ARCH": "any",
+  "BUILDDATE": "1572541442",
+  "PACKAGER": "Evangelos Foutras <evangelos@foutrelis.com>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "python"
+  ]
+}

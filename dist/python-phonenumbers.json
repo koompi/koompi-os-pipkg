@@ -1,0 +1,23 @@
+{
+  "FILENAME": "python-phonenumbers-8.12.6-1-any.pkg.tar.zst",
+  "NAME": "python-phonenumbers",
+  "BASE": "python-phonenumbers",
+  "VERSION": "8.12.6-1",
+  "DESC": "Python version of Google's common library for parsing, formatting, storing and validating international phone numbers",
+  "CSIZE": "2713731",
+  "ISIZE": "40173472",
+  "MD5SUM": "ebb9d5c097deb8b8bdd31b3fa47e7b34",
+  "SHA256SUM": "7e4ab3b491deae1b06162741fbdc312bb7aa25297cfd5f7fb31c0a73799d4b4c",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl7srcMACgkQeGxj8zDXy5Lsnw//UOUBod5f0Xu9XepR6Ke6J9Uhf68seEB3zst22aD0BEGzX6gDLQ6xPc4pqXnE9u0KSlvWDBxO5m0lSdQd8w4ZEu353kAtzMdNjQqXFjDmCX42hyemNq+KsLdwopjRo4UStmqfEBN1L0gwXEBD2o9pFbdTnhCdzuZVpJ47PIvIpWqHTJc3lp7dKyGoSDrD/e+b6JPBVcvXSHyrsPhaQsR2AOqj2R530nZrls3uCcP2tBeS+KLQOCOSA8P8k+BNJXPFV1z07xX5rfER0MDgybGvCHgEt8RyQOIQ7cEU+T1qZEcSQTwHiZgh33+GTxepdzP1ALm5sAxuTiJUq0oxS3J7MgnOw6Z86E7tgkIgEtCs28i/5v6aijIkaqjoHgB1P2uR6qtXAhRiV0t/gle4SMrV1LV7jylTGtRuystgE0STa4UoHj0cP4qYgDSgL/qdBc4ZS0Xwn7hiKGEeRWAYU6dF/nc3j2jSLfB5mGJecUDl0svrwTNjCgJCKNfKiMKAAuR1IOPiBRvEX9co42o8nW6719bB9RMcGqIsuYWMAtFS3FXELFuGGqLDXs4/Q4zMirI6GqgUDjWbHvx6ZbfQpRNcvA3vO1od/qTH9XsKXxQNFN1gxwHOwn0MZ+eL0pp1ZuvWM8Qh8zY5Yfb2xrXYYs5xnY/94DJRscJnieXcdfahsro=",
+  "URL": "https://github.com/daviddrysdale/python-phonenumbers",
+  "LICENSE": "Apache",
+  "ARCH": "any",
+  "BUILDDATE": "1592569208",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "python"
+  ]
+}

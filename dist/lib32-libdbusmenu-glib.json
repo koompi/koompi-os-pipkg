@@ -1,0 +1,24 @@
+{
+  "FILENAME": "lib32-libdbusmenu-glib-16.04.0-4-x86_64.pkg.tar.zst",
+  "NAME": "lib32-libdbusmenu-glib",
+  "BASE": "lib32-libdbusmenu",
+  "VERSION": "16.04.0-4",
+  "DESC": "Library for passing menus over DBus (32-bit)",
+  "CSIZE": "46442",
+  "ISIZE": "132610",
+  "MD5SUM": "ee03e503987ee63f737b51bcc2566bba",
+  "SHA256SUM": "a5bf1786a58b8db367a95e2370bbe41248e8fde8ba02cd0c4fbbb347d960b1c2",
+  "PGPSIG": "iQEzBAABCAAdFiEEFRnVq6Zb9vwrc8dWek52CV2KUuQFAl5wwGYACgkQek52CV2KUuQEYAf/WD8AfbNblnB/bMveXmINxf9IeJ0l+VjDWAb/N7H6Z+LyjUqj4vDlG96s8Y9cSLANl5qsFmE+4Fe7dzIjUYX8DSEDjHgtjd2EWBe9jYHniI/FZqcfieNa2ZXL4UakZThDn3CD7BfZw7/1ESN0jby2Nq60L1/XG3kW1pctKYoMjTzMminHkPf+t3cMxDIOz3QJ1LsLpo7SeuqJEmt3zNlU2cfRl2oFcaqHV8yWtCPlcZymIyDxYTcOm3CQZctfnS25fkQBzSiQE1IUeVltnXAcAlC9ej3SbP/JcTA0vOXIo9SsjWEgjAAVSX5bCJJAFaaCl40fY5s7f9e5smHrSfz2Xw==",
+  "URL": "https://launchpad.net/libdbusmenu",
+  "LICENSE": "GPL3",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1584447469",
+  "PACKAGER": "Antonio Rojas <arojas@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "lib32-glib2",
+    "libdbusmenu-glib"
+  ]
+}

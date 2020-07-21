@@ -1,0 +1,24 @@
+{
+  "FILENAME": "xorg-xkill-1.0.5-2-x86_64.pkg.tar.zst",
+  "NAME": "xorg-xkill",
+  "BASE": "xorg-xkill",
+  "VERSION": "1.0.5-2",
+  "DESC": "Kill a client by its X resource",
+  "CSIZE": "9692",
+  "ISIZE": "17036",
+  "MD5SUM": "41b30e2a50331997ab256a8d9bd95486",
+  "SHA256SUM": "02c4eb480bb52164a5fda00d864f731e5f72fbbc098d99623acd1eb8894e7431",
+  "PGPSIG": "iQFIBAABCAAyFiEEZkWwqMcAXnjbHXhk+Z/+D+rpmb0FAl6zeMMUHGFsbGFuQGFyY2hsaW51eC5vcmcACgkQ+Z/+D+rpmb22/Qf+IxzJT7/y7hLoKMpirRkv/aCBzZ2uMQjZ14grYSbZ0FklJObalkVGHutXroNH6vWNdAF0ZPoEtLFqW5/mXxV2F1ACzqEOGswgqz+nzoM1ejjoM+drpyVbPeYPwGmoXyd7QPCbNyK1By3oJgdrEXNy3xsdbJU6youhcjHMB98cCaDFpuQCSPndk4CneZATzGnXhEqaGh7WpzfDNmEbMKG+bgZQzJGkCayiGYYEnjLilNPsRyQDDgsSu/UzG9iAasDuCMI7i0ZBLjJa1q8jdPI+h12baBWmDSlYjU5ylAWMbjryy5fyqd1BMmz2o+eZZhKCmUB3hLulISLbZQGSpqjUrA==",
+  "URL": "https://xorg.freedesktop.org/",
+  "LICENSE": "custom",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1588820134",
+  "PACKAGER": "Allan McRae <allan@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "libx11",
+    "libxmu"
+  ]
+}

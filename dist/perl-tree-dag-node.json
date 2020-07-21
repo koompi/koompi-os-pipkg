@@ -1,0 +1,23 @@
+{
+  "FILENAME": "perl-tree-dag-node-1.31-2-any.pkg.tar.zst",
+  "NAME": "perl-tree-dag-node",
+  "BASE": "perl-tree-dag-node",
+  "VERSION": "1.31-2",
+  "DESC": "base class for trees",
+  "CSIZE": "52405",
+  "ISIZE": "119509",
+  "MD5SUM": "591b06c655abfdc2e97a27d00b4e6de4",
+  "SHA256SUM": "ad522d4cda19f1c63000a1b949c655ee5cf37872458ad9795800bcbdb472b2ab",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl7L4T0ACgkQeGxj8zDXy5IO0RAAscxz/jcDTSrUa96rh80laD9/Lvz56teFNNczZYgb305qqCCIOp9Z+Csro06CQotLvv3njTyeYbSFd6zoyU2FjIN0PdcZFKnuxG24BeyKpn/RI3b999/0NlVi9xsoukeNAzYw2siFUfdeToDRlczdIgiZZ2iVjLDZbf1pe0lFHx56fwf4VtoxH4viREPvirkOCyV+h9xhhRrWWhbrYUvGbulrAs4/qOCeSLEQ+SHX66Myxd1mH/kC0QzByit7vuQ1EqI+f09syabDNDiCnipCkydjRSDzRepkDGOz5t2JSQnfwLgfmQDQJtRS1d/8UqV4VaFQP6L79Zk8wXgVhdi12ltc1b/Eq/DHZHUNA0uU2weoFIn+Ni8LJpW9SntV7eE+RlW8gZydfDfNuz8G5moyyHatVced9YxHcze0hzBUT85Jz7O96DvYJVSyaZtZ55XxUygcvSEXPVe/ByNSWHJ5chIGWh2GenbdAgYi4D3d1su4sDw0gwA+9P15zOEw59vSXRAwLgMrD3mL5GhD7yICsRRrE9YIzd+wOLJDfCxPkSimbNk+xaFhB0YCPQyvsVukGMP7PDDITVU0BIJrYx2rE953v7wmIIQ09C4ob+2c+0uQe3k5XkbvMWWdqwhwm++wHV/gUDeQKNprBChZK9XQkqqTRmMj5Ad1RWCzi4p5fbc=",
+  "URL": "https://search.cpan.org/dist/Tree-DAG_Node",
+  "LICENSE": "GPL",
+  "ARCH": "any",
+  "BUILDDATE": "1590419685",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "perl-file-slurp-tiny"
+  ]
+}

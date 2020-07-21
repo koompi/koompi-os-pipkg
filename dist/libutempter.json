@@ -1,0 +1,23 @@
+{
+  "FILENAME": "libutempter-1.2.1-1-x86_64.pkg.tar.zst",
+  "NAME": "libutempter",
+  "BASE": "libutempter",
+  "VERSION": "1.2.1-1",
+  "DESC": "Interface for terminal emulators such as screen and xterm to record user sessions to utmp and wtmp files",
+  "CSIZE": "9186",
+  "ISIZE": "31465",
+  "MD5SUM": "cf3142b4487a98a2b5e4bf43854d6aab",
+  "SHA256SUM": "7d3a946d776b1d481f244a27240fa748293691cac2ea70354e0df558996afaca",
+  "PGPSIG": "iQEzBAABCAAdFiEEFRnVq6Zb9vwrc8dWek52CV2KUuQFAl8EEWgACgkQek52CV2KUuSdLQgAkY4HTjH8jSdG1GcnyGNaLvQtqXc6mzxU+fSuS0Tvepxz42ng6STF4DmFSis3XoDjjK6Daivb5XXP3yVtZEsDzAngBJ1AxPJMm2zP206uywIiIfta7seCbhWh4xcUMdQdEKU6jrabzRnKtyKrzDz1kgSrRDzuOA5skQws8AJ8LSHL0olMO59cr3uKXpYlvjlclILFLDhYxReN2VYt+JMvImALRZuO13j0TkZidA5aAfFcHe7jwvmE24D8nb4iIFpQF1hpSr8i1Lnej2sU8B7Oo19g3ja7/r6frSMl6hY93dA7CEC/hPxbAbcKGuMzVPbuNQo2nNHQh2c4T3haTHptcQ==",
+  "URL": "ftp://ftp.altlinux.org/pub/people/ldv/utempter",
+  "LICENSE": "LGPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1594101996",
+  "PACKAGER": "Antonio Rojas <arojas@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "glibc"
+  ]
+}

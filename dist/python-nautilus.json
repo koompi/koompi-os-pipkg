@@ -1,0 +1,24 @@
+{
+  "FILENAME": "python-nautilus-1.2.3-3-x86_64.pkg.tar.xz",
+  "NAME": "python-nautilus",
+  "BASE": "nautilus-python",
+  "VERSION": "1.2.3-3",
+  "DESC": "Python bindings for the Nautilus Extension API",
+  "CSIZE": "37304",
+  "ISIZE": "272528",
+  "MD5SUM": "2af1750aa3ef404f925c04311cbd09fc",
+  "SHA256SUM": "074fd04e64288f8d15f2448b2fb01af7c70063cb8e5fa1c72301d608a3c7a4a6",
+  "PGPSIG": "iQEzBAABCAAdFiEEhs/8qRjPOvRxR1iAUeixSKmZnDQFAl2/XAUACgkQUeixSKmZnDTjGQf+Lo5irhiH/eGZ9u2u2O7Ye5KZO+AjnKux3vnyXeVHHzFbVPJkpTIxWxBDwI0wzxLvISHgqcjluuYxyx3QH0V0wm5XcNYZZqbcVGgPAl465/dmLL+ouOg/x/D+V1PKKgJqiXUGTtWjhMD1hKBtMyRYHs9KsV0yEQejF8ZLymgzUEfPR6IXTgGiRzi2L0fjsoehgXDVd/KAVKyQg50ZkXUWh5jKFAPuyd+FtYRFSmG2zpmzCY7dvcebP7u4LJUjdHx/YfrXVpF9zyVURT1rqOoLJW70vCMnHTqoznSHf8MBM0rDTIjIDmU+N45UNaPaUc0dULd7IWx0vboIFEuZ064x+w==",
+  "URL": "https://wiki.gnome.org/Projects/NautilusPython",
+  "LICENSE": "GPL2",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1572821961",
+  "PACKAGER": "Evangelos Foutras <evangelos@foutrelis.com>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "nautilus",
+    "python-gobject"
+  ]
+}

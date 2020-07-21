@@ -1,0 +1,25 @@
+{
+  "FILENAME": "libwpd-0.10.3-2-x86_64.pkg.tar.zst",
+  "NAME": "libwpd",
+  "BASE": "libwpd",
+  "VERSION": "0.10.3-2",
+  "DESC": "Library for importing WordPerfect (tm) documents",
+  "CSIZE": "1053538",
+  "ISIZE": "16033653",
+  "MD5SUM": "f6c424b6974121a48f42fc1e1e5b3bad",
+  "SHA256SUM": "16224ba591ab2d43643c6cf2cc4f313317528499be6c5380216948fb8156a042",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl6/uJ4ACgkQeGxj8zDXy5Ldrw//aJpwITJeGqIvztqrQGKC4XmuMIqnSMhpw5yPAUloK8LnMhh+FRiU4KJ7jZYE50FSrf7rvdhWOljtyoNaYDbMRKJpc6BWPsHWpWcIZvCbdlcKMDc5whRM+rRJnk9U4g+svDrsxdi1ikl99Cq38jbijsJTsumlaqkM4H/AkDZKeB46ghM1T86rk2BGKnxEH3pbfG0IUuW8UKKF7bH2N8bLf0MmDkp/MyKnRsYjlqqPpsKGnfu9Pd7pdQhZ7JC+wIWAzQY7P45dLEOEYomWAI6DsrUavaYZUxSeHNe6HJT2ueB3KBClAf6DjwtQf6+4LEc++lRicmbgmfgA8haRPtD9dQYKwF6mr47rCW3p+4IeVe7vLzVQzQUq643L6BrESRw1U6tgO+1I8Qra7kP9N2teqPNIZejpAQ6aZ+NOIM3KEgCP5DGQEUn2quLtnSQpY5ww9BuZlywEasd8bTjtZHGz9BlXSm7sdR0s5etFL3wse8UeEZH6HEKJahjmEFgxeT3d61KorXwUntln2IQ78PCtirG6gVS5WRMnaznk0pdV6VfnIqjQFxrTlzr+Mym8Ve+jHU9PKpLMxPy8HcLDCiprTo8ILUp6AN1i7JSHbF0OCujv9N3k+oHAtGm3G17uuI0X8LFV0D5vfTZU0hZxWgQ8MinhtzqQfjaSBQjkXv4GLww=",
+  "URL": "https://libwpd.sourceforge.net/",
+  "LICENSE": "LGPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1589622841",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "gcc-libs",
+    "zlib",
+    "librevenge"
+  ]
+}

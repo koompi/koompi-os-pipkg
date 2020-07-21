@@ -1,0 +1,32 @@
+{
+  "FILENAME": "ecasound-2.9.3-1-x86_64.pkg.tar.zst",
+  "NAME": "ecasound",
+  "BASE": "ecasound",
+  "VERSION": "2.9.3-1",
+  "DESC": "Command-line multitrack audio processor",
+  "CSIZE": "1403170",
+  "ISIZE": "8507461",
+  "MD5SUM": "16a3fec99afdc150f5a5a285f08bad09",
+  "SHA256SUM": "03fa23e3e9122ab45a456f7b2cf7b48fcc08e443ad83a2b924e79c1738cf517e",
+  "PGPSIG": "iHUEABYIAB0WIQTH54SUZv4jWDQ1iDdyWHNLQcMVSQUCXhoUmgAKCRByWHNLQcMVSQV7AP4rj3yu/Ei31yFpOkz1elNK/AZ59RP264wssu4YrHpGLAEA6zp2RArp3PQKungBwDzsDLlO667ryrhPshF8z84eXAo=",
+  "URL": "https://ecasound.seul.org/ecasound/",
+  "LICENSE": "GPL2",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1578767158",
+  "PACKAGER": "David Runge <dvzrv@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "alsa-lib",
+    "gcc-libs",
+    "glibc",
+    "libjack.so=0-64",
+    "libaudiofile.so=1-64",
+    "liblo.so=7-64",
+    "liblilv-0.so=0-64",
+    "libreadline.so=8-64",
+    "libsndfile.so=1-64",
+    "libncursesw.so=6-64"
+  ]
+}

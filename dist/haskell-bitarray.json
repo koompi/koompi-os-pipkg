@@ -1,0 +1,23 @@
+{
+  "FILENAME": "haskell-bitarray-0.0.1.1-16-x86_64.pkg.tar.zst",
+  "NAME": "haskell-bitarray",
+  "BASE": "haskell-bitarray",
+  "VERSION": "0.0.1.1-16",
+  "DESC": "Mutable and immutable bit arrays",
+  "CSIZE": "42165",
+  "ISIZE": "193905",
+  "MD5SUM": "77507d56cd8014f31f6727cc81f331f3",
+  "SHA256SUM": "3e596f180675aa766919bef4d1cc097f5e490d4a192c0873edb60550d95966bb",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl6hbZAACgkQeGxj8zDXy5KG6A//RI5UnvzfzbzUQcLsvuSu+o4S6o4pkpoPkSzufAtcpnifV/vVVo2iKAac1O9JAhkTLNuu2DnCIy4Vsw+cSxJaAM3io3g8J6ihPuMwNB/4zDB1wgc9VHNZYlhph62v+SX/W2fxZg4mtx4BQoO76hWt4Fh0cghU9wac3jgZnlX4dqpqkAyOkDtC4Hrpx1JTktb1xjkq6FOV9mlKI3dr9sVagvy8UL2uMOsFRrTolStk/cUM9NfNKZeT+Q44/sGeua8bMzcmxuNsHW7FcfPfCYRpJr3GcM/KnDOQVFKHnw4b/S52oXY0lM0NhYSOw4cemahxNCzYZZaBoVZR7EHG+p+Oi6dOb7KSKh92beUwdTsTwEEx9UuWzeUwg/ftQq4lXBUxJSNgjRGTMnlN4SAe3gIdY9WmmvV/r4de44FYcwpL6VKK4Q9b45PnLpZ50yi+FG3EIn34kuGyfCNQl2CoFX3G9jHMaT/pNgwXpJt9sPcMwwlcYYU6Ss2awYx0LOKclSodKpxIYDVl72qC1k/hOgtC/gk++75x/Pslh5wfK1F9Dm1ZxnEQD0uHh25EacsOBSfH4TTa0+Dz2QpxV9CJgtWy9DO1HutEt9lAcl5L7UgAPWjdYCGGP+jdWTBE+MrjO+cu8wJcc7p8+8R4SH1KCNdoBZBKZGwrPkxCEd5uBpNiIhw=",
+  "URL": "http://code.haskell.org/~bkomuves/",
+  "LICENSE": "BSD",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1587637564",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "ghc-libs"
+  ]
+}

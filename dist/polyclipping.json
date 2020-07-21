@@ -1,0 +1,23 @@
+{
+  "FILENAME": "polyclipping-6.4.2-3-x86_64.pkg.tar.zst",
+  "NAME": "polyclipping",
+  "BASE": "polyclipping",
+  "VERSION": "6.4.2-3",
+  "DESC": "Polygon clipping library",
+  "CSIZE": "54281",
+  "ISIZE": "141766",
+  "MD5SUM": "7bd0ecdb83f32e6606c75f585a44f4b2",
+  "SHA256SUM": "75572ef2606b46d824a2595b4e3ed5f960e8486803de89edb79b2db257d7cb89",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl8Euh8ACgkQeGxj8zDXy5LluxAAmK+owZq54NCLLHOIvr5HYOatOEkq8pFtZ1LDi1UOmviRwD7BS9nv0WCzlRLbeWJIPYqKiAlERRX9ZIPlQPAmCJ5RJ9Qprn1r5aDgJaWeqdEvgmz7y2EFJuB3/rZPtV5CY+d2qSx+zQ+Q313m2RUdYKiiO4Y5hrzwGrFakEzpt/6cqyZXPoxXNoesiDUBhGZhFeQ/Nq+c5bsqtbDc8QYXvRD/SZTbkt7bBUfvhS3NdfBlw9kN0US9DhA9JmWZSDrjGWTcNb54B4Sx3ZU605Rcf5IuELXrNM+WiHoIrjcuW95V/S7f3g7eB2NL6keSaJOBUej5jvPA1V0HvLrb6zI+KkbKKZrj6Hf0xmWMjoJBZLNys34EJTMr07Qub7SqI8CkqWR87WXY33gHLny5hAlG5t3DNb56LstEml2YdfMr2YYnrUJhYGbMmHoQiS/jMsOqhgBx34MeiF36t09Jp3OF9N3/WwmLAotSi90C04z0BaHvyeZ1vCgnCpuLdROdnrtOyX/HtvkumK3P+W3+7w649kN8K8pj7mFqnqb7Z/WctdadspT2rWdRTMowOT5BywruUv+WGH6UFUMhRfJsHmVUmZJ5svfvdyXC7HbwoNV1gBuy2Cg7fqw4aUl5LYOWlzrdHs0Lnwzved/f1gJK69dPsxA9a5we97IhYjvzQU4muvc=",
+  "URL": "https://sourceforge.net/projects/polyclipping/",
+  "LICENSE": "custom",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1594145253",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "gcc-libs"
+  ]
+}

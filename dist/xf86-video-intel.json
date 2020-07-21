@@ -1,0 +1,28 @@
+{
+  "FILENAME": "xf86-video-intel-1:2.99.917+908+g7181c5a4-1-x86_64.pkg.tar.zst",
+  "NAME": "xf86-video-intel",
+  "BASE": "xf86-video-intel",
+  "VERSION": "1:2.99.917+908+g7181c5a4-1",
+  "DESC": "X.org Intel i810/i830/i915/945G/G965+ video drivers",
+  "CSIZE": "755515",
+  "ISIZE": "2311855",
+  "MD5SUM": "66b20beb6bc1bc7545fcb37733d2d191",
+  "SHA256SUM": "c2345b4edc695bf4421586052b6a4966d579b5406aab5b3a5119e5e4fec862a8",
+  "PGPSIG": "iQEzBAABCAAdFiEErcih/MFeAdRTEEGelGV6sg8qCSsFAl65YeUACgkQlGV6sg8qCSus9ggAsiSaEECDrlKT2kFx3QB5cMKjv91BZ0xbVcWGgxjJzSkR6bBx/kgZyeGPh8htFtkYwB+K0nVP3ikO70mzWtf/UDBYRx8adhXDU/bE3NIz/v+AzrvrPxoaRsn4AgSZZvkrOt+QoArrJYlktEOs0zwDnGmCDczk4Tu+H84anatAwOlwVlhUvzNEkina/KRd7VFb3K9na3so0dfgpe8LmCOFRU49256viAIAnmz1BQvAabwLmvMyKomoJFH4GcwB8W+UdcMDzMNPV0vmyhMK+BC9zInxnI5BuACtTGVgkKVLBEKW8UW+vxkyLkwVo+Pv7LsRdtU4MlEiwiZPCn5uC9sXhw==",
+  "URL": "https://01.org/linuxgraphics",
+  "LICENSE": "custom",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1589207439",
+  "PACKAGER": "Andreas Radke <andyrtr@archlinux.org>",
+  "PROVIDES": [
+    "xf86-video-intel-uxa",
+    "xf86-video-intel-sna"
+  ],
+  "DEPENDS": [
+    "mesa",
+    "libxvmc",
+    "pixman",
+    "xcb-util>=0.3.9",
+    "systemd-libs"
+  ]
+}

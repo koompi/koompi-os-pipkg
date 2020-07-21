@@ -1,0 +1,24 @@
+{
+  "FILENAME": "python-litejesd204b-2020.04-1-any.pkg.tar.zst",
+  "NAME": "python-litejesd204b",
+  "BASE": "python-litejesd204b",
+  "VERSION": "2020.04-1",
+  "DESC": "Small footprint and configurable JESD204B core",
+  "CSIZE": "25837",
+  "ISIZE": "119646",
+  "MD5SUM": "313cf960209b49ec8614f27c7a33fb0b",
+  "SHA256SUM": "010f97947b3cdc78cef9939872e9091b531cc65069739782d9c99db324aa30df",
+  "PGPSIG": "iQIzBAABCAAdFiEE0jW0leqs33gyftiw+JPGdIFqqV0FAl6oSFIACgkQ+JPGdIFqqV0r4A/9G7uugviDT8r52n2FuruYCDNw9iLZsgcFIrdH7CrA/IMJge6FDNbsEiBOMAQMyFRcC4c1poYyTJ7F51etqjdAkc0teOd5U3l+ELwHI3I4jw9FfriYdn0UKnNEDIU3B/v9kNPgyQxa9FpQ9jhqQyuC7FpX6Xclm1eMTSd4REfmFj8piPfdHjpBxvWPkQSCc1K7Yq/Bf9mPC3GMbObWRC+wU+gHCr6OaZevfC9HPs2RhUV0ulfU3/UvEezNXbrvu5uZOhWV48Mk+Umzs+GEZ1JRaT/M2/zcvQgA2BzBHu5qweFk2asa5ts/Bcku4jBzRz/2U82z3T+LvH+xYdAzexcEKpJOLCaRS0bJFCld3Ilnr8HGXA+VDUWRXOnm+000KfwzPiPrw0B/cstqzGBHVRlWMlJPHlE+Qmf0U2VXM99c4dqS4jaJUGCLWzvWeG0CGa0vfSw26l9vO7bj+hYX9Nd/8tSCq43SmYCwRHf+3aLxyi/FS9I1qaoY3R2jI21+WRXkhxUXbb28SY+5s6aoDBegeUXmb+VabyCtgKnRZLbuLUvyJzQOP2cjKAOmd3cbOCDGqdo4ezsaUcewh/ostS6gAbikdnbirxq3cl9tRVbEsEIOmzaOx1Q7GlUpU0pI+bWovFUq1+wD166N8TSgafPQIa72+O/wf1rwUTuyNwP7CNw=",
+  "URL": "https://github.com/enjoy-digital/litejesd204b",
+  "LICENSE": "BSD",
+  "ARCH": "any",
+  "BUILDDATE": "1588086831",
+  "PACKAGER": "Filipe Laíns <lains@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "python-migen",
+    "python-litex"
+  ]
+}

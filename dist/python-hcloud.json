@@ -1,0 +1,25 @@
+{
+  "FILENAME": "python-hcloud-1.6.0-3-any.pkg.tar.xz",
+  "NAME": "python-hcloud",
+  "BASE": "python-hcloud",
+  "VERSION": "1.6.0-3",
+  "DESC": "Official Hetzner Cloud python library",
+  "CSIZE": "56992",
+  "ISIZE": "540307",
+  "MD5SUM": "529126c9128d4e6c0c4ab10086d7bbec",
+  "SHA256SUM": "842e2be76fc897cb5f9c23e8a724e8e8d19de937e83695d5d2fed379d1307ba4",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl3APEAACgkQeGxj8zDXy5L+CBAAutuKdvtBcBmRz7hji1oaREmd1gf2Xt6lNbV+eKKCeIZZq3P1S7O6x5aB6igpkE4LwX+tVihHLHz5le6yDdTdWdwz2sK4pgl3QWGJskfzDB3vF8qFOpnlnYGZ6tvZkdnE7vjQvx0PCF5Zp47tmHvk13Z1v9s6E/9XA1g/f7pVlt+y5778fGuoLb4L6OhKOFFXtmDd4wkq5ucVCS7+q+LtQKDjVCX8cNzyYtYZNjBcPuKsuB5kHmrM+PgAQHZNWVhujIUsASpMuZRDIIYMhgX9flPv/4zBVvWpp7OuEyR/ajIvODLGYXFPSK81P+FStRkHovBtPZmIpuLeGxgwovhx1DTGk35E99OxmR3v+UVpOmtv14sn6eogbBgVF6OCiDth9UzuleiQATgzoO1mrDBLqJWGCbMemJYKnTguNnrrY/gFcr+laXXhmgF56wCQyzZFmuPAoV0N5lAsscPC3ZA0e8CAQwpQbPKTPR7mJNdHex1BedNPg0peVd18LBLbW/OoUVzn3Wqm6KFSTR8K2MOAFHZD2kqnuRVSKm/nfJgdcR/0X+dAf8iHqdhGUY6Hv/L5s3QbmpVZjl/1Ev82eD0I931cJp56/SnqY5SPloygSznFprzaE6PjGM9mL72dZFH/J+dkdDQCf5AajU1FqCG7uPpFnNF9BshU4hQROrb/3Lw=",
+  "URL": "https://github.com/hetznercloud/hcloud-python",
+  "LICENSE": "MIT",
+  "ARCH": "any",
+  "BUILDDATE": "1572879333",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    "hcloud-python"
+  ],
+  "DEPENDS": [
+    "python-requests",
+    "python-dateutil",
+    "python-future"
+  ]
+}

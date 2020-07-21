@@ -1,0 +1,23 @@
+{
+  "FILENAME": "python-hexdump-3.3-4-any.pkg.tar.xz",
+  "NAME": "python-hexdump",
+  "BASE": "python-hexdump",
+  "VERSION": "3.3-4",
+  "DESC": "Library and tool to work with hex and binary data",
+  "CSIZE": "12824",
+  "ISIZE": "46563",
+  "MD5SUM": "23576290c99e0e650be16a2a0e31dc44",
+  "SHA256SUM": "c307fee7040419a1c8754b53310a2ca4172c0c06ed69303c37955063b7394e4f",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl2/8agACgkQeGxj8zDXy5LUPhAAkdztVP3wjXiqkltwMSmQWdXP6B15Ho9q27AoMQfLJbs95RxUPrSy0CCfQoggrSBX8HUdhbHnTNWBA5p0t6fd4cixcmeQFhI+rCSoXqHw6CvY3oTP2iVYpzo8j1Lwp6VFnV6llRv7Y/qvNa/1WGVaLj0drhkN9AYaqJMtqIIxXQKEovxszZx/Eg0Wwx3httquTH92I7aYYVimFeCtr8T26tDBbnbxQ6wxmgJHwYDf22IucbtqqcHfmJIoQielZg4+1eyjyOWqpvN+JXApWKEaiN6ynd+GzCmoYeu5iMProMGKXkSZDbTpZMsMiYvzdxNjs6peSh/RqiaOfSHKZNoKB+x+ekuI6NHhxTJBd6GIyngLPfK9D3GOMhRW8N2M+fmijngrSsaJ7ZbWL+DY8kMd5wY+sNIs6RhPxD4ehHV87QFxpt0ylyBzgjYMSm+Lws7xc3AsXPFnplyMdbiNfsujrd+6L4NYhosNDfheBcHXbExsjq9ftcOTfDfAxZ2UGgi30B7q9WL1CZLAfNDk+WMcyNSKkGE5AY3BTSrnysl1N1sFpO2cwO/toH5SmAn3559zpfIm2QPP7EvZf70KOWOwWc3eN9tU642yhqFtBlx8bQ2igO31tM0p+hOqVRDGlaw7OGlOsrrmCH/YaUobdWp8OomvTorR9UU84NjGslHismc=",
+  "URL": "https://bitbucket.org/techtonik/hexdump",
+  "LICENSE": "Public Domain",
+  "ARCH": "any",
+  "BUILDDATE": "1572860249",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "python"
+  ]
+}

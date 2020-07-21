@@ -1,0 +1,28 @@
+{
+  "FILENAME": "certbot-dns-dnsmadeeasy-1.6.0-1-any.pkg.tar.zst",
+  "NAME": "certbot-dns-dnsmadeeasy",
+  "BASE": "certbot-dns-dnsmadeeasy",
+  "VERSION": "1.6.0-1",
+  "DESC": "DNS Made Easy DNS Authenticator plugin for Certbot",
+  "CSIZE": "8678",
+  "ISIZE": "16771",
+  "MD5SUM": "b42040215c49c737e388594b5e981842",
+  "SHA256SUM": "6656cdcfc5f75fd2ec5b91a5a9fd23c8092e8eab632823849b4874d257840601",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl8FkXkACgkQeGxj8zDXy5IgjQ//RP3echHxyg4XzJrF1DPOJnIWwvaOqvzW8bcy6zi+2IPUcK6E8iUtUVWm8AWQ8HmtetwmCCiHHn5DR7jU3HkwWPWYa1BtT3tNrQqphJvXvvtOUkF4BA1RDe1j606pbvtjGsJQRve9SLfAm+pn4iEuhPCupXl+9rE9FD22YhK2rTpJFz2Wt4pqs674lk+Tw8DoLOfbyOoaOEV44epwCepfHzQhFxZmumiOZ+EvyekbuBaa0zFEMV7YMQl09sPr09z0aWnXIl4pWnHb9TfqMDsuD8DJvVOzEE6CkjZENecynhTNsCnfGZx8yOzv2gLRH1M+yN2TmhVfgkOsi4lJc8VArfUFN5FSepEi4t9NvVcLM18pc5VjkPYm9ssXRCNpbOhTyhkMPY9dhS4keZShgcUw65Q3shny2AWs3Tm7sp2qfHH3P+uzZ+w1vz58jD394qFzngNtetUgtKZRkTPyjuPBjn2ih2MyGcqiOlfEPmtBveeiiYIRU5ADjluIWlCfrN6lPp4x9EhcgTghx5LHIU3ln8VBezolze85TM7fRWHEbQge4H+1zgoTmNbf9/oi/IaWOmRjR25EqkvQ+toRdAnCBEkuYzhIRhaN2X1ojsejY0bIWFft79789qU1LJFM1hOmdc/wtxIynTjqKCWzAh/uPlmbrfsMHul59E9QXlqe9As=",
+  "URL": "https://pypi.python.org/pypi/certbot-dns-dnsmadeeasy",
+  "LICENSE": "Apache",
+  "ARCH": "any",
+  "BUILDDATE": "1594200318",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "certbot",
+    "dns-lexicon",
+    "python-acme",
+    "python-mock",
+    "python-setuptools",
+    "python-zope-interface"
+  ]
+}

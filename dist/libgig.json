@@ -1,0 +1,24 @@
+{
+  "FILENAME": "libgig-4.2.0-3-x86_64.pkg.tar.zst",
+  "NAME": "libgig",
+  "BASE": "libgig",
+  "VERSION": "4.2.0-3",
+  "DESC": "C++ library for loading, modifying and creating .gig, .ksf, .kmp, .sf2 and DLS files",
+  "CSIZE": "389737",
+  "ISIZE": "1448023",
+  "MD5SUM": "48318a1a74bfc44c236fb54f00ecc50f",
+  "SHA256SUM": "c5d304f7b2cf954a6c8369e939e6c1621f619d0a1e673568228d7198923b0bbe",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl8EgYMACgkQeGxj8zDXy5Lu4g//Yve6EP9/ivk/J7j+eAxMXr7B55E5nULvv0LSLCDioExZkINP3VUmYdsitnPYdl4kUOTFOFRuiYHkeo8kfMS397TxXbLycBRA4olE+25WtBix/hHClh2YyohRN/MdgMRDR7aW0Q+ZlJfpxvdCPbbRn1w8sesvnHeMPcmTbtGbMWT/jyqTqJCuSIljnU6rv3dZnMqfmF+WUE7NiL4OhfBdo3acsTtfL0gXveO422SSpPuyU3Nwa5yuD0TGxWFEaQV67B66PqixMQqy/51ErpZ0KsTDHXAJGfC63J3Y2heEeQmcQfVe8Be8JHpkhqKrXpEPS6lXhU3z58r3USgr//7Fk4Dz1wCxjIxsZl+HmtKnmGj2OJNSt5I3evAd0y349DbBB41GnIIN+cTLKTtXaKeDE1BI41bQZZAwU9cqTgUnEnSGGzRSI1V/rEZkuFhyvr8GDxkdeqbxHJKNUwBfN0/VDwHUSFYqTKqNeeiX/h7uDLPY2w5+Wxg8h/mjNX3yX/BzbdBRi0dSOsAUX0+lpDT3SPL6sl1bSQQBMxyhQqxgn28PVZHddbFnTlw/HgNtlLQ/3Cdoz4ciNW+8xhFk0iOTmEm9dqvP/7xBBsS38/FYHxnr8VqhFS3h1aZ8Z47ZVslK+Vf4mW4PpmoSU62GvXaGgaV+E066OTU+WPlfUppI32g=",
+  "URL": "https://www.linuxsampler.org/libgig/",
+  "LICENSE": "GPL2",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1594130758",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    "libgig.so=9-64"
+  ],
+  "DEPENDS": [
+    "util-linux",
+    "libsndfile"
+  ]
+}

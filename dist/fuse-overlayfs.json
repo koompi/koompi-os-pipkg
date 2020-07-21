@@ -1,0 +1,23 @@
+{
+  "FILENAME": "fuse-overlayfs-1.1.2-1-x86_64.pkg.tar.zst",
+  "NAME": "fuse-overlayfs",
+  "BASE": "fuse-overlayfs",
+  "VERSION": "1.1.2-1",
+  "DESC": "FUSE implementation of overlayfs",
+  "CSIZE": "39793",
+  "ISIZE": "93665",
+  "MD5SUM": "6b51cd35a047cf99e2e4b517224dc818",
+  "SHA256SUM": "f881f95ef808e9f25d0aa94da66a78c3e10dc7bdc2b2a2a5e8aee34f5c37412e",
+  "PGPSIG": "iQIzBAABCgAdFiEEktnGzemaICTWkKdu50JoO6CMsv8FAl7+P8IACgkQ50JoO6CMsv8YZQ//alByLrRVM40Sc/vZUR6EFNgNk/FxEcjX/tLf2r4+iN18X30MJmfye8Tze+KJc4IkE0FMAz7zJmB75ysbKYkuFolDGaAWKD+5+OIjLAR/o/Asge3npBYfqSQwdFreZigg3Au762hVUKwLy4BI+YPaxki89sG22NsqoT332jKETHRf1bocEKLviBKvW0FsUPTNZtmT9PGxcgkhc/9CHazaedgkSciOTFe2vJylE4DVYtmle1kfAZcRo73VHNA/Gz3x3OWzo1WmpSLFq4bRmMb0QwOH0bbYe+FWqJENj15iXvqtVpuDWeSntkhAXx0SBEBbPLAyZbFnMGGveou9Ej0+JqwSfm9Otp0k1sJlIXWnDWCGZ3jleWM4s3UJllAze3NKsTo9qziUsiveQbAlEM4dqwA6QrMKITZ1gLpUe7h45daxxn9ccFLIsktiPA9VzJcYs9npL8sByJ8uY8rbjbIX8DkyzytgwCXmonqp1UQ0E1A1I07XPL8rT7V9b3hYoXs3nLEgjteCBB9NNZcEK0D79AG7CgPmw9xqf6Mylp5sKjS5lNtsSKKrHOBPSBrgtmn3Qsw58LezIXfgNT2PK1zvhV09K4b7Z6fODabmNqB5ijnf4xjBLHd9DhaheW+l4bGaP5Osl4cZtXFowONBQuSyswUjH0AZqsNOoCLDRPrHtsk=",
+  "URL": "https://github.com/containers/fuse-overlayfs",
+  "LICENSE": "GPL3",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1593720714",
+  "PACKAGER": "Morten Linderud <foxboron@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "fuse3"
+  ]
+}

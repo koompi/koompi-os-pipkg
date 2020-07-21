@@ -1,0 +1,25 @@
+{
+  "FILENAME": "sugar-activity-browse-205-1-any.pkg.tar.zst",
+  "NAME": "sugar-activity-browse",
+  "BASE": "sugar-activity-browse",
+  "VERSION": "205-1",
+  "DESC": "Sugar activity to browse the internet",
+  "CSIZE": "317508",
+  "ISIZE": "1486218",
+  "MD5SUM": "9a3fc3f824cc7924210a7e095983bd99",
+  "SHA256SUM": "3b4786644a576d7146bd3a536daa41fcd194dafae9d2ef0add4720387340a813",
+  "PGPSIG": "iQEzBAABCAAdFiEEzgvecadZqH8j8PfYth284QkBwWMFAl5mnAMACgkQth284QkBwWPbCQf9FXN80gSWM3RQW0s3p3e8CFtUoH4KWGpLo8R8E8n6iaExAFm5FHauhypfnl4bejxEmdjcnz5Zr6htFiGnk+L++UyML6jtp7WqYJhH1CiZheEPQ25Emno+xofVuVxwY+6T7F4SYX8+wIRRl5vPijTviZwtwtVGDGhyF0wBT9BJ9rsmujBbzBWt+7EkF/y/lLlxpx8IYeioORj8ku5IPI5sPwmEgHNe8Q3znS640tC4CGxymraXSyj6lCJsCFups4Nlp36hD24LBMjdmxEbfNezPIRSvCpUABEx/ouLN0wscAJ+/lDK7VmoVO4X9705wVqULrcDb4uUjKJWf9YGdqQVPQ==",
+  "URL": "https://wiki.sugarlabs.org/go/Activities/Browse",
+  "LICENSE": "GPL",
+  "ARCH": "any",
+  "BUILDDATE": "1583782593",
+  "PACKAGER": "Balló György <ballogyor+arch@gmail.com>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "evince",
+    "sugar-toolkit-gtk3",
+    "webkit2gtk"
+  ]
+}

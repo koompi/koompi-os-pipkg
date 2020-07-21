@@ -1,0 +1,23 @@
+{
+  "FILENAME": "coordgen-1.4.1-1-x86_64.pkg.tar.zst",
+  "NAME": "coordgen",
+  "BASE": "coordgen",
+  "VERSION": "1.4.1-1",
+  "DESC": "Schrodinger-developed 2D Coordinate Generation",
+  "CSIZE": "261958",
+  "ISIZE": "860534",
+  "MD5SUM": "787d3597665b021598b1153ea1365616",
+  "SHA256SUM": "ae7018e39e6aeeed14a2ee85bdf8236e688288d5ffb9b5ab9c21f1fc7bd17fad",
+  "PGPSIG": "iQEzBAABCAAdFiEEFRnVq6Zb9vwrc8dWek52CV2KUuQFAl71mfcACgkQek52CV2KUuRycwf/XY8Xg35lymINHHePt5OW5o+UEeqFSOiJNppaDn0I7ok3xQJ6a7b8AZDs6iOIdr3cq7OArcCJco1cff1Y/jYMhF+cWrL8hcZA+QtXZhowVDltvIM48iR5R2fQar9E9brjfIvj95recjeWtq3fS5gaY92aqOpL5tyhndHoa9gFs6mrBRSmMpqsmmXpnpGblOL6vSOpMD0S+BKVx8xOgHenZsGaTNGJSbr3ywCejc2X2pTGsGAfkOfrOuBw0a12HTQ6VNWpljbJFyBd9p0wWhh+x0/AFBiVNRUEZa1iTdwyzET7Ru768gjP4zENTeNYCc19LMJreVsTbgfLRT9C6p1Q4Q==",
+  "URL": "https://github.com/schrodinger/coordgenlibs",
+  "LICENSE": "BSD",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1593154000",
+  "PACKAGER": "Antonio Rojas <arojas@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "maeparser"
+  ]
+}

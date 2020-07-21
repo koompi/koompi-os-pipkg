@@ -1,0 +1,26 @@
+{
+  "FILENAME": "gnome-break-timer-1.1+47+ga51a32a-3-x86_64.pkg.tar.xz",
+  "NAME": "gnome-break-timer",
+  "BASE": "gnome-break-timer",
+  "VERSION": "1.1+47+ga51a32a-3",
+  "DESC": "Keeps track of how much you are using the computer, and it reminds you to take regular breaks",
+  "CSIZE": "166496",
+  "ISIZE": "591872",
+  "MD5SUM": "e53e33a7ba6a3c8e61cd321af03fd42b",
+  "SHA256SUM": "ae51935630a8a603d6165fe87ca9b6c4f47b3e272b48cf210079177cf88d6466",
+  "PGPSIG": "iQEzBAABCAAdFiEEzgvecadZqH8j8PfYth284QkBwWMFAlwmZTEACgkQth284QkBwWN/2AgAicMy/mtLj7woGsYxOmrH/+M4TrrWbjfcmapvxE4ADlQ9trvRQe/M9MqyDLV2C9X0IJAnn62Ykji5QvCfaG5HSpMql0Gqu4RZIXme5bb2L4w2y3+VDh38SWvOyDEw6MCr9YEiX4HW7rN6BRWyuLX6cyAR5k8I1gh+t/+FusRT4ftysMWBrdM2QL5geIuBGtBl2RHa7vCrGHk55ClFv1bEFaSSyZ7mKFh6MzFZ6xzQHH9OkB5pNzOiMh61G4eMWinXLI4s/otr7aOLRGBopl4UCEn4Z4kyQUcj8zuM+Xg0UkSvMHPSkY1ZG2g3ZN9YIqMk040qn0WCXKjbeEluv8R8Pw==",
+  "URL": "https://wiki.gnome.org/Apps/BreakTimer",
+  "LICENSE": "GPL3",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1546020082",
+  "PACKAGER": "Balló György <ballogyor+arch@gmail.com>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "gtk3",
+    "libcanberra",
+    "libgee",
+    "libnotify"
+  ]
+}

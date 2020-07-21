@@ -1,0 +1,25 @@
+{
+  "FILENAME": "gpsbabel-1.7.0-1-x86_64.pkg.tar.zst",
+  "NAME": "gpsbabel",
+  "BASE": "gpsbabel",
+  "VERSION": "1.7.0-1",
+  "DESC": "Read, write and manipulate GPS waypoints in a variety of formats",
+  "CSIZE": "1463421",
+  "ISIZE": "3521307",
+  "MD5SUM": "c512a265f5636349f6e49bb9ea3459b2",
+  "SHA256SUM": "611eefe482c6209ecf07c4bb759a6ff9526bc5b74e97d02ba09c8b3a0993e02e",
+  "PGPSIG": "iQEzBAABCAAdFiEEzgvecadZqH8j8PfYth284QkBwWMFAl8I3F8ACgkQth284QkBwWP0CAf/YeoaIvhGJqoh/ObU/Es5eIuaTGC1XYY5GnARYyfGtCoTGSibC7P511mfZdJjl9CrqJErIbx6clHRWHv+tdQFNQPBRKMiRq2VGG5nKYXwjVDB9M3sVWjn7nhGVQlkk0EmSznE7W7QqSf0o5RWmDJLRsI1IGgo23riAEQjudUzyjDTKfzN1V8K7dpXC+6xB7R3etVAIbxJaNjhtaLUHNGFEJNAm63VIptxpgmj9HnbU0SSTpJ3Qfmg0XlorykGJd6eMPxi7NtTQhS4l5+PLt6WLZGTPjT3a9YorrLvAJKw/wWfeGB+99LKAslKUYyKSxYFCE2b3XftwWnXtuZnhvcfLQ==",
+  "URL": "https://www.gpsbabel.org/",
+  "LICENSE": "GPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1594416127",
+  "PACKAGER": "Balló György <ballogyor+arch@gmail.com>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "hicolor-icon-theme",
+    "libusb",
+    "qt5-base"
+  ]
+}

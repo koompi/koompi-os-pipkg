@@ -1,0 +1,23 @@
+{
+  "FILENAME": "firefox-i18n-uk-78.0.2-1-any.pkg.tar.zst",
+  "NAME": "firefox-i18n-uk",
+  "BASE": "firefox-i18n",
+  "VERSION": "78.0.2-1",
+  "DESC": "Ukrainian language pack for Firefox",
+  "CSIZE": "585072",
+  "ISIZE": "646853",
+  "MD5SUM": "fec503e94cc59899d387a433e180b97a",
+  "SHA256SUM": "6222c3f55d508cce78a28fb2fb4509697e26605e5bffbbb340af3d09089f8c67",
+  "PGPSIG": "iIsEABYIADMWIQQGaHodnU+rCLUP2Ss7lKgOUKR3xwUCXwelrRUcaGVmdGlnQGFyY2hsaW51eC5vcmcACgkQO5SoDlCkd8fqpAEApVwe7a1XL7MZQxsAH8adSZxB8wCE9VtT6Um3n2SOa2IA/1Jky8l5v12GK0NOPfqVLRL6+Dk086ZJNjyoR7X2qsYN",
+  "URL": "https://www.mozilla.org/firefox/",
+  "LICENSE": "MPL",
+  "ARCH": "any",
+  "BUILDDATE": "1594311501",
+  "PACKAGER": "Jan Alexander Steffens (heftig) <heftig@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "firefox>=78.0.2"
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "FILENAME": "clang-10.0.0-3-x86_64.pkg.tar.zst",
+  "NAME": "clang",
+  "BASE": "clang",
+  "VERSION": "10.0.0-3",
+  "DESC": "C language family frontend for LLVM",
+  "CSIZE": "38630782",
+  "ISIZE": "172182857",
+  "MD5SUM": "67e473743049df30ef8aef37ea8164e4",
+  "SHA256SUM": "2de4021118ad1c050f388e1630473977e2243516b8b255157593a4487bfc8649",
+  "PGPSIG": "iQEzBAABCAAdFiEEhs/8qRjPOvRxR1iAUeixSKmZnDQFAl7H4+0ACgkQUeixSKmZnDRVEAgAgwtZBZvLIu71clCwb7ZyDGe/6fBwQsWrKkt0ODe9z8PleFtjc8DQvo2zVOB1qIIO/rW2XH+NUaO6oHbky6MubGNRq25p7rlrkuKrtQ7EGWudJ2HG2iuDd6li3ZEA6oXebK71iBB5kxUCQHh0CPvPLwYUpiivGglQO5sAXstxc6W6+iQi6X+nn2G6ZKT2CL4yaz+tSC8r31J0ZZQkaE8jN63nyg/OF91B8sEtgv3EuXOv8dN71sn9KT0HGcIkJU4xgp0Y0iza8rRuZfnWgEayyeLK9bOc0r8HbRTuCUN6p2D3wLR1Qe2AH7BdOibDPPvTKXUoYJCy//E0iCu6cWgfEw==",
+  "URL": "https://clang.llvm.org/",
+  "LICENSE": "custom:Apache 2.0 with LLVM Exception",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1590157266",
+  "PACKAGER": "Evangelos Foutras <evangelos@foutrelis.com>",
+  "PROVIDES": [
+    "clang-analyzer=10.0.0",
+    "clang-tools-extra=10.0.0"
+  ],
+  "DEPENDS": [
+    "llvm-libs",
+    "gcc",
+    "compiler-rt"
+  ]
+}

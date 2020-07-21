@@ -1,0 +1,24 @@
+{
+  "FILENAME": "esmska-1.9.2-1-any.pkg.tar.xz",
+  "NAME": "esmska",
+  "BASE": "esmska",
+  "VERSION": "1.9.2-1",
+  "DESC": "Program for sending SMS over the Internet",
+  "CSIZE": "7067448",
+  "ISIZE": "11507712",
+  "MD5SUM": "415425597b835d5391ed3f311cb114ec",
+  "SHA256SUM": "d2e1b7703ffee760130b7295a43b8748528011929afcbe113d9c174d47b0d1b5",
+  "PGPSIG": "iQIzBAABCgAdFiEEOO3RiGdWkk4SJOSVJOTNsAE8JYAFAlshbSoACgkQJOTNsAE8JYAYBw//QzSEtPmawfCL9fAwvcTE3L2AhzQ2s94aNw2BAPW16o6ynrWNcnkTcwT8hrgqwmThwbSJNoUD10NLw3tTuZVK7vY0rPC885URANEbeOerc+8LRNyerPNQFnm2PDiCeaBiUBkScc4UlWxp60YwdJ01Cs5UCF/nEPUyYXTU6lHYoIKY2hM7P4HDWWlOi9QPAUV01fNG6v7FfRVQbHg6nzSq06eksxO9kNpZTwpjnu29HrwBTCNyzicEWzPq+SMdTdUXJkWdsBVNU3pXzisJHINm2/HkW6Jd4SKKOm9Tsqb23fToYrUJRJgcNCkqm8BilhvTV8ac2+S485kqAnjzBBGoaSCv+qF4AL8MB8pwSWxVQx1KvrWfLZ0MFWDxR80kmRuLN/KymVBCsIQ7BLSpV2kBkt87EhHgoZjYsvymOZfqahLgIz+7CtesfiBZSbj2XxFuPBaCvppVzAxnQY0izO3EjRpahTHtdhCamAgGh2rXAg8jUil2tzEYnezUtaZ5BwTuYPueWpudZTHd/wlxqA+lHop5dFk/+ICe8i+m84vbdwBZ8iwOiTqbK3r9V5+mE4zguzx3l+OoRdaw4HBb7GkxdQDrswRLt+/ztxys8oqSaI/Bm/44+lFEjDQr3ukgMiAYPX7xIQLZBsaCIJbxct8xOcC/w/q1I03Lg1aCVFOj9lI=",
+  "URL": "https://github.com/kparal/esmska",
+  "LICENSE": "AGPL",
+  "ARCH": "any",
+  "BUILDDATE": "1528917171",
+  "PACKAGER": "Jaroslav Lichtblau <svetlemodry@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "java-runtime",
+    "desktop-file-utils"
+  ]
+}

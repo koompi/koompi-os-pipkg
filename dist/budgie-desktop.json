@@ -1,0 +1,31 @@
+{
+  "FILENAME": "budgie-desktop-10.5.1+12+g10b814fa-1-x86_64.pkg.tar.zst",
+  "NAME": "budgie-desktop",
+  "BASE": "budgie-desktop",
+  "VERSION": "10.5.1+12+g10b814fa-1",
+  "DESC": "Modern desktop environment from the Solus Project",
+  "CSIZE": "796674",
+  "ISIZE": "4073225",
+  "MD5SUM": "9abeb7fee56dfec1fa183dbad33e707e",
+  "SHA256SUM": "87204f0ddf299bd9ce736d021ff62b6241eb516c0ad8dde258f7aa79ccc592d8",
+  "PGPSIG": "iQEzBAABCAAdFiEEzgvecadZqH8j8PfYth284QkBwWMFAl5ktlAACgkQth284QkBwWM+NQf/fXudMr4htyfZLKoORq1Z9A/GCZmgbA8AELvFs3zFUteEynPfA62LvigZMM+JEgqcS5z6WMKha8eQdme50NjYWT6edmZJJkEeMqCPNaepFNiWRPO/3wW8M8rx4o1DBj6OQxQ+dX+OyYjc9yJ/2TOWEwwPy3bsltUFkV2dqWnZA1iEIhKaesC0a64O/hGvxOG5QkICb7ZtLxfvdLwghOPQyTr4xceTUkHIB5eIMlfOvuZGBiu4Z4DKUkzs2UCAQZfsF1bd6O/6gM6Ec99RLVbu3iQ5V/a0X+ZjUpa/Z+L9m1RRBRGl7CNLNS9mm+ct+ptNXA/D8mJ198aiHneLPj3YDQ==",
+  "URL": "https://github.com/solus-project/budgie-desktop",
+  "LICENSE": "GPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1583658452",
+  "PACKAGER": "Balló György <ballogyor+arch@gmail.com>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "accountsservice",
+    "gnome-bluetooth",
+    "gnome-menus",
+    "gnome-session",
+    "gnome-themes-standard",
+    "libibus",
+    "libpeas",
+    "libwnck3",
+    "mutter"
+  ]
+}

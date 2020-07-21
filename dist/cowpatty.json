@@ -1,0 +1,24 @@
+{
+  "FILENAME": "cowpatty-4.8-2-x86_64.pkg.tar.zst",
+  "NAME": "cowpatty",
+  "BASE": "cowpatty",
+  "VERSION": "4.8-2",
+  "DESC": "Wireless WPA/WPA2 PSK handshake cracking utility",
+  "CSIZE": "50894",
+  "ISIZE": "135204",
+  "MD5SUM": "8bcbbef4b3270d83bbb49cdb354f4d40",
+  "SHA256SUM": "865dc068a2b5768e0f7f786e25de80910106195a3c92d267faf1272611de198a",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl8EkfwACgkQeGxj8zDXy5I4lBAAu5aOlMnJaF9wbV7W0jCoqVhvhdE2DaogObE48yTAHDpd5KErS5HGPd+SqzWLFOChqQJABBO1NuaYj4bHMR5m15vkU5kO65WrC7zIetb+dyzBxyuIJV4e+4pVWo7+uOYhV3uKxBGaShCk5mFIp908E361186uMgnk3fHruR4iDgPl6at1esih6Ov3XIBEFditPsTKnQaML2I4zG+lJ9U8b72j5dvPbGY0tNSl+9Xy2JaVeB+KftN5OKphF7+BaEfoBgCP8hsLRBwhS15ESYbOd0KlZMxGLm0XIoRMY3CJUpwL9uDAPjMj09jQQCnsYS2gKmFog64/8cS9Uy0IgSVNmUHdCyk8b5RD7GInEpzWMVsZeyqsBL3fmTPObpNgebeFn3zIIQRDRJQ4+QIFbsBr0e425JgJkvTh6Fy7BX6FpNiFfRSUqlFGhar1gt38EtN79rmJstpEc/au+wxNyTI/w3r4onYHaCV5+s86JHsm5ATVB864Pn5yUqM5iIRdgmjoEXnwq14Ylu92IADNIlILxzGt6sv8YFYQ8nCeeHgANtqjamxo+8elESl8WN4Pw3343+FT3RvOXjOtP5ay+eewDhHQVVAhai6jtMm+Q+fKV35dnr9EtbBvjZNR3vLaI2+qgdX9ZO7vN8+MVROF8FTeCHM9PZSg8+KNL5IbvMUDsjo=",
+  "URL": "https://github.com/joswr1ght/cowpatty",
+  "LICENSE": "GPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1594135018",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "openssl",
+    "libpcap"
+  ]
+}

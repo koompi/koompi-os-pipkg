@@ -1,0 +1,28 @@
+{
+  "FILENAME": "python-pykeepass-3.2.0-1-any.pkg.tar.zst",
+  "NAME": "python-pykeepass",
+  "BASE": "python-pykeepass",
+  "VERSION": "3.2.0-1",
+  "DESC": "Python library to interact with keepass databases",
+  "CSIZE": "60833",
+  "ISIZE": "274929",
+  "MD5SUM": "0304db18823ef8e5fbf58a84c6fbfc3d",
+  "SHA256SUM": "9a3823036dd2cb26c38e2f9d0a0d23fbfa7131332f619c29c381ce47cbd22d4b",
+  "PGPSIG": "iQEzBAABCAAdFiEEzgvecadZqH8j8PfYth284QkBwWMFAl5k13AACgkQth284QkBwWNa3Qf+JXppGzpAjls2VR45twFjimOfxauej5OCDIrV5/30eAZ5CrycXJeAUjVHP4uafaZuZBDxntf4gCldJqpPF9Gk77eyMYXyO72ajh5/qhIhJf2e79Hs/tKbXeYGVJEwkrazaC41FLoJGOxeF5V5cuI2G4q2cQYtf8X3cVsRV1W8nBSpkSDQAg8scWddHKWg3qe3rAT8X/3Vcmvy17TCILdGJ8LQLcfRDRyAxyo1zPzjj+RqNWu9LamwlTyLBwEOMlWIf/IUjUykCnstGkda+Q6hQFxO0i9U80pGGqHncjAKdJDGK/Hbmo+y6ZuYEBI9Izr5e4XSHxQoSpDcu3paH+OOzA==",
+  "URL": "https://github.com/pschmitt/pykeepass",
+  "LICENSE": "GPL3",
+  "ARCH": "any",
+  "BUILDDATE": "1583667024",
+  "PACKAGER": "Balló György <ballogyor+arch@gmail.com>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "python-argon2_cffi",
+    "python-construct",
+    "python-dateutil",
+    "python-future",
+    "python-lxml",
+    "python-pycryptodome"
+  ]
+}

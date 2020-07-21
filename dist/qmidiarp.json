@@ -1,0 +1,29 @@
+{
+  "FILENAME": "qmidiarp-0.6.5-4-x86_64.pkg.tar.zst",
+  "NAME": "qmidiarp",
+  "BASE": "qmidiarp",
+  "VERSION": "0.6.5-4",
+  "DESC": "A MIDI arpeggiator, phrase generator and controller LFO for the ALSA sequencer.",
+  "CSIZE": "397572",
+  "ISIZE": "1683234",
+  "MD5SUM": "00d32bbb90aa7fb6258925b93f389bc9",
+  "SHA256SUM": "5431da44b2246032c263cb58a1a47f9ce886345e3ce05d74db035e9b54eb25db",
+  "PGPSIG": "iHUEABYIAB0WIQTH54SUZv4jWDQ1iDdyWHNLQcMVSQUCXu6RgwAKCRByWHNLQcMVScSYAQCsc9t0ljjBnf/ruKc5++jeKjsQd7O2aAWKA6Q+OuLmfQD6AtuVOKInPA97bCMdoBKw0sAU3avDrDbs6BuSH3ALCAE=",
+  "URL": "https://sourceforge.net/projects/qmidiarp/",
+  "LICENSE": "GPL2",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1592691932",
+  "PACKAGER": "David Runge <dvzrv@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "gcc-libs",
+    "glibc",
+    "hicolor-icon-theme",
+    "qt5-base",
+    "libasound.so=2-64",
+    "libjack.so=0-64",
+    "liblo.so=7-64"
+  ]
+}

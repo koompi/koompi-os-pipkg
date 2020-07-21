@@ -1,0 +1,42 @@
+{
+  "FILENAME": "haskell-yesod-test-1.6.10-6-x86_64.pkg.tar.zst",
+  "NAME": "haskell-yesod-test",
+  "BASE": "haskell-yesod-test",
+  "VERSION": "1.6.10-6",
+  "DESC": "Integration testing for WAI/Yesod Applications",
+  "CSIZE": "159621",
+  "ISIZE": "772386",
+  "MD5SUM": "20a373438dab4079744edcf914c9669b",
+  "SHA256SUM": "99b05fa25dff8e5d2184a6c2fa97389a08a4843d1f45d31f8cfd2fe9b6cb533e",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl75+FAACgkQeGxj8zDXy5JEuw/9HfTbf/BG9MEi4A9uswzHDnoMPOYjw2Eslertm2Btc82T6fkHiA8t9C3M7qYrOFFuBNa2hxPfbiij4FFK/F+lMNR5+374scG5WFE7YjUNwuCBgFDVBDfPGzwEtdiOvgI5EM6bVceCXwa031iZOz41Nh+VAyZaeLUuh0L0ll+MvbibM44Kw4G3fwhzJfAhz0HZ9/ZO9JSxAvRqKZSy0dekOz2Lc9onHH6ML60/VP4BCyGiwCGalW12X81P6LiZhE8vkm4rE07k+aIpR/vHd5QzLc/sacTu4nODyf33kJHRv1xgvdv+buwDcc3GF0dmsXx4uluaLarGc7lAnFlygBtpKychgFvsTUGKyLfpGPb2ULpZlzxgO17JvjST7SM4FjFB1XEVXIF5L27/1RNMzuZSMMjDJTHmSpSh/YQzPKIR0SPqT2KdmxAS6aghe8X0odRbCdqTappEwBYjlq+1Nu7sbPLYBZZcw2mJEJBFasw/97KWT/pnyiWnkKvEOXNEIhcQTott6d5extdcFQyCzcJXVqG9tHmqtCa6Yv2wYSQFRFaVXlIkKQn+Qh1ldGe42RCISNb/TS/NkvqgXVaeAskPgXeuJ8bpLLQIeFNrDWzTnmfZ3v3WJ6Fg3W6M4+OQbYgvnL1yVbNLtiEbrXYMN4hSUlPrKA+i6J5WdzLvEw8EENY=",
+  "URL": "https://www.yesodweb.com",
+  "LICENSE": "MIT",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1593440281",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "ghc-libs",
+    "haskell-hunit",
+    "haskell-aeson",
+    "haskell-attoparsec",
+    "haskell-blaze-builder",
+    "haskell-blaze-html",
+    "haskell-case-insensitive",
+    "haskell-conduit",
+    "haskell-cookie",
+    "haskell-hspec-core",
+    "haskell-html-conduit",
+    "haskell-http-types",
+    "haskell-memory",
+    "haskell-network",
+    "haskell-pretty-show",
+    "haskell-wai",
+    "haskell-wai-extra",
+    "haskell-xml-conduit",
+    "haskell-xml-types",
+    "haskell-yesod-core"
+  ]
+}

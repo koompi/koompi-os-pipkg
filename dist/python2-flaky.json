@@ -1,0 +1,23 @@
+{
+  "FILENAME": "python2-flaky-3.7.0-1-any.pkg.tar.zst",
+  "NAME": "python2-flaky",
+  "BASE": "python-flaky",
+  "VERSION": "3.7.0-1",
+  "DESC": "Plugin for nose or py.test that automatically reruns flaky tests",
+  "CSIZE": "27221",
+  "ISIZE": "177732",
+  "MD5SUM": "5863a197931dcac07facbc6d10b4f431",
+  "SHA256SUM": "db38ab2dd22719b9ef4f6c68ec222564cf7ac7a805d6abbf8aa10f19a0bf4e72",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl8HVb0ACgkQeGxj8zDXy5JoMg/+OCB90gwzxdTb4+NfO3xzId1QYdoCzeDoykNt/VJnFid6n/HvB3Y4JYJvQyA3SF3SC0Y4oRl0p3yArM1msVlmqUkyl0hOL749crGsSqFNlMwTBMUunesGgHYIp1Nz6lctbyBfbkpBfNT25oK5mYPbwS9pMu0O5U3cGisaPGDwU97lPVgkOM+T62+2YnrV1NPzTjGy0UvY8SpM3PB+2fLuHcJreON86qwZ5rnZPoHVT5Uf4pYOMVvRuxFZuPf1yGRXjus8UHaEZxIuYUYjTWG4EjuwNCfZctgy5hcB+AG0slokJy7kRtT9fwbz3pp1Di6Z42J753yQMLJQ85IUIg2trF4xU0gNbA+/Zbm2huabjJj5ec4/AHtLT54ugIKTOq36SUR8oJIt9wQ7+JKFo8vriV9/g7MvgDYgHldLSjht8Ow/d+Lo/Tnq9uY+aJvP3QrmH5WCZ4A4BPhQhKRi6FMrKMVxQdhioT61hNSQHCHFhc4G/lSXRfT6ZwfTiPFPWm+7Oi2XRGaZjrMAzYQGrqPVjCJ/movv4Mq4ub+ysbs6UOqj7qpYuET0H0z4CCk7w9WsvVu/xTjRqWBhsLeP8BFFrh6/xVxH1YXjGSxLg4ll0T/2q8TDdJIvqLTjg6sDVwbgdCfDf+eqaSowbRChbHpjhj6+slZ3th1strrc5mQXNTo=",
+  "URL": "https://github.com/box/flaky",
+  "LICENSE": "Apache",
+  "ARCH": "any",
+  "BUILDDATE": "1594316172",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "python2"
+  ]
+}

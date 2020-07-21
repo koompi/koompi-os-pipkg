@@ -1,0 +1,23 @@
+{
+  "FILENAME": "perl-test-subcalls-1.10-3-any.pkg.tar.zst",
+  "NAME": "perl-test-subcalls",
+  "BASE": "perl-test-subcalls",
+  "VERSION": "1.10-3",
+  "DESC": "Track the number of times subs are called",
+  "CSIZE": "7320",
+  "ISIZE": "7265",
+  "MD5SUM": "1d04e2a51a683d1a6da6e4037a0d82ed",
+  "SHA256SUM": "eb71f22880dcc83d8bbe80a753cb26104f96ecd0b613562779e7595c604aa0f2",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl7vPMQACgkQeGxj8zDXy5LT7Q/+LmeqUJ88+hUlZcnOexZDgCi8yEAeGY5iBe4sr2j+BEnhApOE9qzRLqsXNxgwPI11h2gwVw1NX93YBeSthUHXPOKbbYodllvheLnw3pZ64t7nJLVzMMjVUrk5P2iN1zRxruRyF23/2AnHSfMSY0d3rCpbWCp15Ol+rgPQe/njJ+a5Q5DZdSSKe2bjN9jEnsL4pYsZXaHky97V1qYIbVeX1U5mBaHhF9ei0kGD7Lba9xMav7beda6ffb6bYUlvnaYy65scvkTYmyksHymIjJJ5GnzadpLSz1dk9nwGRJpwKZ8jD4DmjJsvmbp79uqY/g23j5KuvyLpyFyaxR0Ox3VdN0CCJ6585+GWtXmnaprHTlV61z6dTb+tvuoFusvs5wwPALQvQkNRSARnbdmPY/Auae5bBbpkM+NgzdbAoXrfT95k8QsGNnZiv/Ih90MHzHvKBesfcfeFQnZhA2HVf6GYzO6mAbeDF1FbEd8k7IO9m3BOfbvOL5yQRhK7TRzCzkJULuSc6uAhpuUEf2cFP5/yF/O5mY+9+XIIzRxRo0YeZCqn+/C92BBnVb3g+okSxafTVZrh4ALoNP/EuQ3GI+LDjWFHylPhYLW7BXRMEMOaEQG9pCgRq70NpNH1ZX2uWiRQy0uZlunFsjWEeRn7UY/3jaYD+10jo8IWGrFgZ+Ap+k8=",
+  "URL": "https://metacpan.org/release/Test-SubCalls",
+  "LICENSE": "PerlArtistic",
+  "ARCH": "any",
+  "BUILDDATE": "1592736758",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "perl-hook-lexwrap"
+  ]
+}

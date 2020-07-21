@@ -1,0 +1,34 @@
+{
+  "FILENAME": "gnome-music-1:3.36.4.1-1-x86_64.pkg.tar.zst",
+  "NAME": "gnome-music",
+  "BASE": "gnome-music",
+  "VERSION": "1:3.36.4.1-1",
+  "DESC": "Music player and management application",
+  "CSIZE": "511535",
+  "ISIZE": "3064093",
+  "MD5SUM": "54fe397f9d3552ce91c507dba7b5bfea",
+  "SHA256SUM": "6440f438e3e5f6efa9bd67146789c04e434cefc2021bc3e5642eae0030cf95ae",
+  "PGPSIG": "iIsEABYIADMWIQQGaHodnU+rCLUP2Ss7lKgOUKR3xwUCXwWmOhUcaGVmdGlnQGFyY2hsaW51eC5vcmcACgkQO5SoDlCkd8cNTAEA8hDcfoV+EPy972qe82hrx0ud5at8GIZOpwAWNMZ5ZusA/RrwavmOpK3qbwpPiKPXe+ioG638OUrU7up09MRmqdAH",
+  "URL": "https://wiki.gnome.org/Apps/Music",
+  "LICENSE": "GPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1594204214",
+  "PACKAGER": "Jan Alexander Steffens (heftig) <heftig@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "grilo",
+    "grilo-plugins",
+    "tracker-miners",
+    "libdmapsharing",
+    "libmediaart",
+    "gtk3",
+    "gvfs",
+    "python-gobject",
+    "python-cairo",
+    "gst-plugins-base",
+    "python-requests",
+    "libdazzle"
+  ]
+}

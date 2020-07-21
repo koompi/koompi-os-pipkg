@@ -1,0 +1,25 @@
+{
+  "FILENAME": "python-calmjs-3.4.1-1-any.pkg.tar.zst",
+  "NAME": "python-calmjs",
+  "BASE": "python-calmjs",
+  "VERSION": "3.4.1-1",
+  "DESC": "framework for building toolchains and utilities for working with the JavaScript/Node.js ecosystem",
+  "CSIZE": "343447",
+  "ISIZE": "2377268",
+  "MD5SUM": "a4201f4b1e6e4a35b6c0ed12cbf8fc7f",
+  "SHA256SUM": "d4705aa848bec0ca808fb98b5a8c8ba7506e3bfe23604f8ee7ac9c79b0ff1e1c",
+  "PGPSIG": "iHUEABYIAB0WIQTH54SUZv4jWDQ1iDdyWHNLQcMVSQUCXiIN0AAKCRByWHNLQcMVSTZvAP41j8MG7a0zQ2gKhwtCvbyMScW8lUeJDujUoFWvzB7CXAEA+7+omr/xwHvrk3TmL3KeBDYIuAfUhV7Na9G5/t97DwQ=",
+  "URL": "https://github.com/calmjs/calmjs",
+  "LICENSE": "GPL2",
+  "ARCH": "any",
+  "BUILDDATE": "1579289933",
+  "PACKAGER": "David Runge <dvzrv@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "python-calmjs.parse",
+    "python-calmjs.types",
+    "python-setuptools"
+  ]
+}

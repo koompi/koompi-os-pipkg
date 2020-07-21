@@ -1,0 +1,26 @@
+{
+  "FILENAME": "lirc-1:0.10.1-6-x86_64.pkg.tar.zst",
+  "NAME": "lirc",
+  "BASE": "lirc",
+  "VERSION": "1:0.10.1-6",
+  "DESC": "Linux Infrared Remote Control utilities",
+  "CSIZE": "1240209",
+  "ISIZE": "3917035",
+  "MD5SUM": "59809033f7e5670890ae5e60c51e2b8d",
+  "SHA256SUM": "4016d23b5f807d89661100f59a5e8d1b2565d125be97025af205e73d0cdeeb54",
+  "PGPSIG": "iQEzBAABCAAdFiEEhs/8qRjPOvRxR1iAUeixSKmZnDQFAl6/68YACgkQUeixSKmZnDRzaAf9HrpxzbIvlhUR4D9P30odPis+2P2bNfpMi+rMAfPobMuCKEDCSFvIvyo8L+6nQ2grR76Fq0PypwkckCfxX+1L8L8LKPPvVvndB9Z78BVnaPr//kvPk22xsEq0AlrrYjUxBolshlEqUqev5LgEYozHYsHDsxZEwIu/RNvmLmmy21AAZPgRDfnGCS9iEJEXN2I5c44MWZq3Y3HOvBawSShkgbR8AriKy/1k3fLLwMgSpZ/V6tEnEZCesUvcWjOPrnZFqhigILq0BOeTWGuMp/CzPauR6Tm595PohtQmNB11ZnTvSP6k1nPsjblQ8IotopPKpTHweqaNKVHLE6SziIjyIQ==",
+  "URL": "https://www.lirc.org/",
+  "LICENSE": "GPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1589635904",
+  "PACKAGER": "Evangelos Foutras <evangelos@foutrelis.com>",
+  "PROVIDES": [
+    "lirc-utils"
+  ],
+  "DEPENDS": [
+    "alsa-lib",
+    "libx11",
+    "libftdi",
+    "libusb-compat"
+  ]
+}

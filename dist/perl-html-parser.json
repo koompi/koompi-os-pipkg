@@ -1,0 +1,23 @@
+{
+  "FILENAME": "perl-html-parser-3.72-10-x86_64.pkg.tar.zst",
+  "NAME": "perl-html-parser",
+  "BASE": "perl-html-parser",
+  "VERSION": "3.72-10",
+  "DESC": "Perl HTML parser class",
+  "CSIZE": "83249",
+  "ISIZE": "171259",
+  "MD5SUM": "ad3a7620fc0c37da8c8cf45bbb3ad2c8",
+  "SHA256SUM": "03ec087dac756fde7b0758ca747e188fe2f3b80f14d2f58961415792ede69120",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl7vOYMACgkQeGxj8zDXy5LvRRAAwaf9M/VNwacqb0xwQGWoZ0v0rL6e48h9HykWE+53GkIZUrTugwD+TTInX/tfLRLIB+H261vCOEM7sNlu34iKZeZIAeDsQN6xb+d/1kLtgipRFdxrAKaqurmHXv46QW983PcBeUJ4ncPKZBd7btdp7zb+1/Z3K8/yauT/SaJUIdCN2C4xFPlSdcTBayrqdHJ8GrCQGf6gtFmWlACEJtnxIAaRMXkSKr9l7sQN5oOqkbOyfzS51euKfwTRRMaTAKx7i2hJnrLEtjtKLEmaDmFLvcuLxPsKoXO7K6/sDpzbMMTOo2Tm56rArf8b5PS2zPI8kq/Aru6dvjoy+fu6QCi+YBHVnRmtOX6QPRRwAf4txmLJnORDuUjVWhLmKxhFjB2FWqPSLMLQCVLabWSBgAh7MbFdVi65Jd272x/JlMIMqInCF0ETfC1ov8CA6zebXlcBDaKWZ90L3urWPqf0rSPqLiCoJr1m6gHJc84NSi+7Xq9WB3pCEuoQ7+ehh+gqiUSy/gFQREJOzpQ4WAbmes/s+H4d/QueeCA4++FlZsdD11vacFnwhemzTNiKykZ2E/AsugUiycJqWBsUK700NJCr/FCdVWtgnoWgd+IMorqFWhJDHMOYnBLnwThgNqAM3SqAzyCg+vXoEG3EcKv+iIfc/lYqJhossF/+O3kcyt+9mwY=",
+  "URL": "https://search.cpan.org/dist/HTML-Parser/",
+  "LICENSE": "PerlArtistic",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1592736106",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "perl-html-tagset"
+  ]
+}

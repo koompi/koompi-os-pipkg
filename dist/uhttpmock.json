@@ -1,0 +1,24 @@
+{
+  "FILENAME": "uhttpmock-0.5.1-2-x86_64.pkg.tar.zst",
+  "NAME": "uhttpmock",
+  "BASE": "uhttpmock",
+  "VERSION": "0.5.1-2",
+  "DESC": "HTTP web service mocking project for projects which use libsoup",
+  "CSIZE": "45786",
+  "ISIZE": "281678",
+  "MD5SUM": "37cac15e413fc8cf9f33ca62d77c52b6",
+  "SHA256SUM": "3678864835f4724697b89e7dd9692260de3a76dee72bf4b3f1a5977b41cca595",
+  "PGPSIG": "iQFIBAABCAAyFiEEZkWwqMcAXnjbHXhk+Z/+D+rpmb0FAl6zieUUHGFsbGFuQGFyY2hsaW51eC5vcmcACgkQ+Z/+D+rpmb1Vhwf+JMZ5gmngPHux/iCPjIB9h+jytgGfmTlMT1fdNdGNV2VqO7jD2xrbDC+Q8DZtxov6gVq66UWOwzxSUhcE6VgYQn8dejBQEemskTIP6oRucT7Mhqib+u+u5wbl3ojm5zG2eVsANKQ3vdtMp1zrP37xHQUFbVO5RMXblz6dqDA0f3UjKHgh0e7jJBXHn1M0qj26ElnGY8EFNO7eKX9ca1If1Vi4+n/dQ3tYJnFNz3i3FvpmtIthOnHvRyWqoLcj+I4kfpno8dVKwaAsD3Xkn4F4W2tNaarKNtpPIJt2a05mNNZ0CcDycA2YvVefcgiHxcscJVyG5kz/Sqb+SG3elHL12Q==",
+  "URL": "https://gitlab.com/uhttpmock/uhttpmock",
+  "LICENSE": "LGPL2.1",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1588824417",
+  "PACKAGER": "Allan McRae <allan@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "glib2",
+    "libsoup"
+  ]
+}

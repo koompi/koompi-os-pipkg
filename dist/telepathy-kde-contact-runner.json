@@ -1,0 +1,24 @@
+{
+  "FILENAME": "telepathy-kde-contact-runner-20.04.3-1-x86_64.pkg.tar.zst",
+  "NAME": "telepathy-kde-contact-runner",
+  "BASE": "telepathy-kde-contact-runner",
+  "VERSION": "20.04.3-1",
+  "DESC": "KRunner plugin for KDE Telepathy",
+  "CSIZE": "56879",
+  "ISIZE": "253314",
+  "MD5SUM": "758a65fa9300a982c7e9ee77855f133b",
+  "SHA256SUM": "686a7df47b2844be7af9656a4a2e516cda295722125ab8a74883feda96d4c068",
+  "PGPSIG": "iQEzBAABCAAdFiEEFRnVq6Zb9vwrc8dWek52CV2KUuQFAl8HH9oACgkQek52CV2KUuQkugf+LcXG3DlVamLSfFCnyP6tkCTjThKz+bJC2o85RqCo6OJwUQwp9/SwKp5ptOIOlyCn0EfcK7Z3DazZw+r8A69QPv8sPjc/Zz8EjOlxHnQy43yXuC7J9CxZ+O4jimgem/YEXQBV9/pjNkS+khqDCKXvNkaYDoGth4QBVGLp6XpuZ+z8SRxFFuNCw31Zm0er0K0mb1iJvbocPHy69y4DrAW3EBL7Yak3oRoMgO3e+1X9mGqjEjTzULb/gtPjoAmJIdkNtpaBW8BE5FWcT3Vz/Snh7K2huPEwmBHbp8dWp/jvsh1j0uh0K11lVd38z3wwRjA9Bcvib4nSXKGiV6/Squf3bA==",
+  "URL": "https://community.kde.org/Real-Time_Communication_and_Collaboration",
+  "LICENSE": "GPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1594111786",
+  "PACKAGER": "Antonio Rojas <arojas@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "telepathy-kde-common-internals",
+    "krunner"
+  ]
+}

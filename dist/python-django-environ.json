@@ -1,0 +1,23 @@
+{
+  "FILENAME": "python-django-environ-0.4.5-3-any.pkg.tar.zst",
+  "NAME": "python-django-environ",
+  "BASE": "python-django-environ",
+  "VERSION": "0.4.5-3",
+  "DESC": "Utilize 12factor inspired environment variables to configure your Django application",
+  "CSIZE": "44664",
+  "ISIZE": "212452",
+  "MD5SUM": "7376561490fd1af93ec8e35c1d611e49",
+  "SHA256SUM": "e25e62a10de6a892df6b600876f1007a204f9ca247bf7b352e31767912dc5412",
+  "PGPSIG": "iHUEABYIAB0WIQTH54SUZv4jWDQ1iDdyWHNLQcMVSQUCXh5DIQAKCRByWHNLQcMVSbfgAQCG1gkgcy4r8TMUKK9I1JFTGWYqLUwX6diw2ReHeHvyPgEA+H5u0JsvvpVny1A/1CF36N7mTNkr4KNhh+etQE3njQw=",
+  "URL": "https://github.com/joke2k/django-environ",
+  "LICENSE": "MIT",
+  "ARCH": "any",
+  "BUILDDATE": "1579041500",
+  "PACKAGER": "David Runge <dvzrv@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "python"
+  ]
+}

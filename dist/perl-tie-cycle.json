@@ -1,0 +1,23 @@
+{
+  "FILENAME": "perl-tie-cycle-1.225-5-any.pkg.tar.zst",
+  "NAME": "perl-tie-cycle",
+  "BASE": "perl-tie-cycle",
+  "VERSION": "1.225-5",
+  "DESC": "Cycle through a list of values via a scalar",
+  "CSIZE": "6241",
+  "ISIZE": "5425",
+  "MD5SUM": "67c4dc9aaa6e29dc182b61d888e9dc6b",
+  "SHA256SUM": "4f0859f71ea796bd57811dcc20010920577c238bf653a3ae8680c1f5833b5d1f",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl7vOekACgkQeGxj8zDXy5JLahAAkgmfYnhc7eYzKpUeRQr6sbQuBrtBBi3VpYEOwa/IKUYEGrQnwpxGvrwMJ8qL5uCO83DudItNqsnqvRY+kMVa12ej1J97xqrx9Uat6QmjEGhBQfnL7zUXY1vvDjqHKFrztz4/WbEvVe0bX461DicShew04KCEyOjs12bY3NUCYSsGNhPpb1bB0XBorw+PRzMGS950S+aNQWJd67HLJfIR9HeFVpYfpbORRE0HJjaYr8OK9LMRuay7PNXJoWteG9PZeQFZYuKnQBegnXhbeyQKohv6PYX9SRdXzGomfsTJSgsP6qSqIHGF9Aqvf8RH81Ah6fcO2D2BBNnAOT86or/Kbf/lmstLzTug44sAZOx/79jeE+nEAbTGwmvVVLWCEoYLSrBJZ3FMNbtHIaelhXy+QlrGW6izIxjZN38YCf+obZb9hMu5t9wFA2u4dSnrKg2Ri7mnniPRdSxIt3vL/b8YsO5AbKhds1vl0FAxKMrln9D3emXc5oZvaexjk1bIXqqc6s0VICxzmP+JAfNH7QyGzF3rV20IYanc4IP/jFie1tuPYBJpoVYOxukKe9xMcNFTdDv9oJ615vmZaY1xT4T8QdZAsdrR1yvMQCb8Kd14ibbDXAMGQOSvagCYDWRz8coI28qE8R2hlU2SOk3uo87Q9iOcJEci3pjSepv3W4ZRLjs=",
+  "URL": "https://metacpan.org/release/Tie-Cycle",
+  "LICENSE": "PerlArtistic",
+  "ARCH": "any",
+  "BUILDDATE": "1592736210",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "perl"
+  ]
+}

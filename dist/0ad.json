@@ -1,0 +1,43 @@
+{
+  "FILENAME": "0ad-a23.1-10-x86_64.pkg.tar.zst",
+  "NAME": "0ad",
+  "BASE": "0ad",
+  "VERSION": "a23.1-10",
+  "DESC": "Cross-platform, 3D and historically-based real-time strategy game",
+  "CSIZE": "9418754",
+  "ISIZE": "31847262",
+  "MD5SUM": "591c68a581ff14b8bf5916a62a310dc1",
+  "SHA256SUM": "892246aa6607b65f09207215e8f7cccdf1f5e1818b17a6af1eb356faab89a2fe",
+  "PGPSIG": "iQIzBAABCAAdFiEEj8FaBklQqZ3RvRTdOeS4d+YuuRUFAl7By1EACgkQOeS4d+YuuRUoZQ//YF/t9OMDtQRz+as4MHBeLFw8alK3EWJJlDCatZsfsqUh7p68hQ8DGJG1biWyRzhAeQpI1ad6/jGtR+neRMAng7hgnYWT4cuiscm9rQwHEgxNjuPxmK7KEqyajFCtAkFLCc7zpfkBorUXaV2EEQI/HhKv0rSF1qBlgg7D4MbMQfXEheal+8dpfYRlK4gk3dE2UFUBS0Z9HxtFvHTrDnfj/fg3xFr/gkRTh3lDD845CKUBC4Pav77MlkPhOR8FoA9+TtR6VcXC/6TmEd+O/QOA63t8mJOugtiY6i0PD8WsF5uNxkg0aPWQwkRAE71LNpS9bxIeK1ejEiI6Bcz+NEKZuz3bZo0lTh6TE4GoUPJELib2XlviyYOZhtnKV8Z1Q7N/wrzKbfGNBQkjdgHGgMLLTy1Y6pfGZCNUZNxsm0HX8+vOLyGU8i0NyGIcYZghkW8AdUQFud3OrOdzXALGFuaAUK1Q2tkbAQLdvFR7avJ8EM6MsO9UYVrI6uB6iJiYa31TGJmR3lhfN9kZYYuAO43FJCC6d1243ROhy4vJjIdodrPRracZ1OJX84aMX+Taa1nsuo8buk718hw4RVrlJRfnnaPmAL49iMj3ygF5+6IaViqcsZqlUawWrz0ym3jvIvnJY5Yj5MEwLR1QzOZr+ZvzWTeBBOU75AP8Qf47yVFk7oc=",
+  "URL": "http://play0ad.com/",
+  "LICENSE": "GPL2",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1589747336",
+  "PACKAGER": "Sven-Hendrik Haase <svenstaro@gmail.com>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "binutils",
+    "boost-libs",
+    "curl",
+    "enet",
+    "libogg",
+    "libpng",
+    "libvorbis",
+    "libxml2",
+    "openal",
+    "sdl2",
+    "wxgtk3",
+    "zlib",
+    "libgl",
+    "0ad-data",
+    "glu",
+    "gloox",
+    "miniupnpc",
+    "libminiupnpc.so=17-64",
+    "icu",
+    "nspr",
+    "libsodium"
+  ]
+}

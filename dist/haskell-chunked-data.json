@@ -1,0 +1,24 @@
+{
+  "FILENAME": "haskell-chunked-data-0.3.1-60-x86_64.pkg.tar.zst",
+  "NAME": "haskell-chunked-data",
+  "BASE": "haskell-chunked-data",
+  "VERSION": "0.3.1-60",
+  "DESC": "Typeclasses for dealing with various chunked data representations",
+  "CSIZE": "70294",
+  "ISIZE": "375318",
+  "MD5SUM": "138f7acf2baad4e23bf776fe48ad36e3",
+  "SHA256SUM": "50165c5ac6a013ceb340b0308804b0709c7c0e3a3c3152d709d9cb71ce030fb8",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl75Ak0ACgkQeGxj8zDXy5LtZQ/+Kx2ntmfqT3tGCM40/E5TILUMJZhxzrDB/lEc6SbeTMf3Gef7T7UibqU3wIFhI6Ir8BMzd7fYZOdaXHcGPPHf1h43xYA8CZwJiGCPxErfYA6ertiwWJRLVws1PK+WbA285z6UUVCjGf9e07wOUMRJWc3sx6yvAvwswTzHKrd3DNgftoshj1wDS65TIMNDZ6OmO71spFBAFZoIOqa3vObDG//A0xgo8bbukBf/trbnpnOhD4J6tfI2HOuM0kWGzTpn4L8LupNcR2QCBNJojVCzgO4DFkeZkA0xGlAi8ltcWUdKa3GJ4+H2UhXmeA/wu2oh3cnj56gC9hpun8xfL0lkzQtdJHCb9dg/3i5ivzKjsMk3tCGzIcOOdkJN7Bl/fjYIFTVW7ukIpPmpxtz8eyVI3/14p4+pwFMbJtlObZH69lHizj7GoHjhqv87PQhdixUpdfRpIdtCwwOsTUZhnQahSXZySax/PiA/5z8TViYDkb45sb60Bp5yOqMkc/vXHJLONxdHz8VdonhIqsIZXqmbDuIvrANSOgkkmxCwwofLPpMvk4Alydh7g6fWMH2zzMBkYL3c18fWnVK+Jur8dePr2ysspzvzz96QaceDP+iMJ1+47uBN2TPLcrhKivipQV4Q+ad30Ln7UzHGisBTdqmwrsyfJyNH4UNZ59+qU2iMW6k=",
+  "URL": "https://github.com/snoyberg/mono-traversable",
+  "LICENSE": "MIT",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1593377335",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "ghc-libs",
+    "haskell-vector"
+  ]
+}

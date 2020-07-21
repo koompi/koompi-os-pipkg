@@ -1,0 +1,24 @@
+{
+  "FILENAME": "simavr-1.6-1-x86_64.pkg.tar.xz",
+  "NAME": "simavr",
+  "BASE": "simavr",
+  "VERSION": "1.6-1",
+  "DESC": "A lean, mean and hackable AVR simulator",
+  "CSIZE": "180052",
+  "ISIZE": "1486848",
+  "MD5SUM": "aa640b2b676a46053e9c6034a5fea027",
+  "SHA256SUM": "dfa9a53b117ca08279de519b857e10810d015a7f221c48dc5cda63c5a1483743",
+  "PGPSIG": "iQEzBAABCAAdFiEEJhKwQJnb2bmj3ZKgRWx6m5G4Qq4FAlvwJsgACgkQRWx6m5G4Qq6JLgf+ImH+xHBnVeuOgApvMzhLEwb0yuFoXJGnn2jTtrwF4GbZ4brydVXSFQHQ2xfrIwn7/Zpfvc2aLlsvYe+TgqcI8XcPcKF2pi//OLuOOgQoFoEJWEJro32w1QT5uskTAWxES9YB6lrjpAKyUzYLeWbObPCEYqfn3ZTf9KWmgKkRTM48aJz80wM1xYk1GJKD3j8gaIRa6pG9Z2NBZ95q54UYO2HHK4wSaArXl1y803gluKUhfWmkBtChT0yBldHHD0GVvbajEbkum0YClnuGw/mSaKRY2EYurUX4LVN8hnFYl2Vzx6uaNNlrQ0/K1aMf2rKKAYhQRYqnglA0vXUBHNfC6Q==",
+  "URL": "https://github.com/buserror-uk/simavr",
+  "LICENSE": "GPL3",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1542465101",
+  "PACKAGER": "schuay <jakob.gruber@gmail.com>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "elfutils",
+    "glu"
+  ]
+}

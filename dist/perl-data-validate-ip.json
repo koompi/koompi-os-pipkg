@@ -1,0 +1,24 @@
+{
+  "FILENAME": "perl-data-validate-ip-0.27-4-any.pkg.tar.zst",
+  "NAME": "perl-data-validate-ip",
+  "BASE": "perl-data-validate-ip",
+  "VERSION": "0.27-4",
+  "DESC": "IPv4 and IPv6 validation methods",
+  "CSIZE": "12824",
+  "ISIZE": "29848",
+  "MD5SUM": "4835f36be54cbd4785b4bc50555d0ba4",
+  "SHA256SUM": "92361e2896886fbe59962635b03db2399cdb8fd00ee4b91dab34864bf67c40c5",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl7vh00ACgkQeGxj8zDXy5JhcA//U8OXmbKxs/sQL82ekipVUPQlGMBJQtFCn9mUWaFqhxXq4kfdl/Dcdi3mp5jl1pC1Hg5WEU/HbvM3fXM6bcqcqunKptXlDbHWorO1e09Y+ptpQ7gKlWlGa3D4xF3Hc7AwYbBzqHplhNUWwdVcZw4CPQ1g0kKe/cE6TdBSZSolCPJqD6cNxfhMrQG74nvcZQ4O4uTLH3HEMhgzGwlX01PkZyoRiXc/AUjml5BG7vaMGXjXlJ2cAFxpxfSuw1hrcvt3r94wtecOHFf2eNRJjJrSTwUv/7DTJ01R6EV40wFn6RNhNkEJ30OYS+TQqt2fe2aC9WJehPMsjk55zPBc0yFMeZ8+b9HP4FYmqddLIeVbZ6kqRAlkyrCVn7Kif91SWyl649ZD4GK8C1AIV4HJqG1IejlcbvDHDZkIrpS3HVXloTpF6HlIP4S1fPnMWETDzASD0MBbquJiaPIe0OZZOPPJLmwxeeup6L6mmPl7MZEPub5yNA6CDsGrs+ynO9CpuZCoSuxXAhvpjmsLJ/zI5oFdt5MuJoHlCqHkviAZVLxdYTxlnW9HVuLyoIySlbPnrPR6Pf4rABep2MbsF5C09sj0rL3qJmO6/a4Od/3FiBCVtlKm5E1VprQNZr3al4uCNMrUJPE0gEoWuVyJnUbq8KzdXIvEMBU6TZoTcLXY78YBqic=",
+  "URL": "https://metacpan.org/release/Data-Validate-IP",
+  "LICENSE": "GPL",
+  "ARCH": "any",
+  "BUILDDATE": "1592756020",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "perl",
+    "perl-netaddr-ip"
+  ]
+}

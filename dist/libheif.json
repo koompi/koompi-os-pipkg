@@ -1,0 +1,25 @@
+{
+  "FILENAME": "libheif-1.7.0-2-x86_64.pkg.tar.zst",
+  "NAME": "libheif",
+  "BASE": "libheif",
+  "VERSION": "1.7.0-2",
+  "DESC": "HEIF file format decoder and encoder",
+  "CSIZE": "225414",
+  "ISIZE": "752915",
+  "MD5SUM": "87ff3978f49e32447ef0901d8d161088",
+  "SHA256SUM": "84fe66a955c53629564d3b038270543b556237ebb6e63c50163b88f5442d3565",
+  "PGPSIG": "iQEzBAABCAAdFiEEFRnVq6Zb9vwrc8dWek52CV2KUuQFAl7XpN4ACgkQek52CV2KUuRMQgf/et6FyJf2emqlS040QWeQt9c+RdIuY7w1qySODpUYkAJ5fPJ2b4fc2unSYt5EzjSW/Y/Va77g4M4aaJYxRAxsrJgmKfel9lEGKMxaJD9PT7LyITGBmTSEjqYFsU9LGFWQXdfauSPZrax3pFYaYNxmQU6yUmYdctXGnoNNIYO9rTLnrGtCyYRra6Pv1AbFnLqV1aZIsrh7/MhvYTzbxJ9JwMZRAXv6kpmfX+5AvZCSdmOSGUZrKowM+IKSDGv2XvfhVj+z6AUEcTiUt+W2gC34dWzxhkf4t+I9sBF+MYKvsKJFts7ZQLYV0R/Ie0nuR714Pz4CZEKIV9cyjpk3svh8qw==",
+  "URL": "https://github.com/strukturag/libheif",
+  "LICENSE": "GPL3",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1591190669",
+  "PACKAGER": "Antonio Rojas <arojas@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "libde265",
+    "x265",
+    "shared-mime-info"
+  ]
+}

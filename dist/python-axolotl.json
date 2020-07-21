@@ -1,0 +1,25 @@
+{
+  "FILENAME": "python-axolotl-0.2.3-3-any.pkg.tar.zst",
+  "NAME": "python-axolotl",
+  "BASE": "python-axolotl",
+  "VERSION": "0.2.3-3",
+  "DESC": "Python port of libaxolotl",
+  "CSIZE": "100383",
+  "ISIZE": "604802",
+  "MD5SUM": "4c75155df8b7197f279cf4d5beb690fa",
+  "SHA256SUM": "a0fe3871ed044d5ee7bc4b7c74b33034b3ae2f740eaffaebfe83bee8ba61415b",
+  "PGPSIG": "iQEzBAABCAAdFiEEFRnVq6Zb9vwrc8dWek52CV2KUuQFAl4TGpcACgkQek52CV2KUuR11gf+In3eB1YH3ZVIVY6qy0sle7lVvAX74bThfEEVpiykJRuw7xWs8uEm4Q7ggxOD6mGhXpT7CCyCRoFv42p6XJgiFPB8fZ2FuLdosf+jfXmKmziBUcuq7rgrBCXNbXqCSJOZGaNaLxPcgcAIRvNEAFoUhr4oH6SkPzEOKE03j5MGVMWiNW1ds2LN737DNLFBuaEkUM6UleHQihvItesO6L7+MwC79ZSEvg3fWt3lm66VgdBUnw9VovehCefVb7ar1oUryArpgmMGiq/Hx7349d0+ZKq0GRNik+OQMkQkcXB6+VKFtTL+qmlSJpXPXQi22WGCJGmORhIYLOFfLoGEuUmE+A==",
+  "URL": "https://github.com/tgalal/python-axolotl",
+  "LICENSE": "GPL3",
+  "ARCH": "any",
+  "BUILDDATE": "1578310245",
+  "PACKAGER": "Antonio Rojas <arojas@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "python-protobuf",
+    "python-cryptography",
+    "python-axolotl-curve25519"
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "FILENAME": "obs-studio-25.0.8-1-x86_64.pkg.tar.zst",
+  "NAME": "obs-studio",
+  "BASE": "obs-studio",
+  "VERSION": "25.0.8-1",
+  "DESC": "Free, open source software for live streaming and recording",
+  "CSIZE": "4106226",
+  "ISIZE": "14156648",
+  "MD5SUM": "552e5f8563b2abacf97922b3ff26aaa2",
+  "SHA256SUM": "4d9a0a2471c41acbbc1701ca1ebb6d96507f75e60dbd70e9780874e84126a44c",
+  "PGPSIG": "iQEzBAABCAAdFiEEh0L3U157OUobBIFjMyycQPQNIHIFAl6qwPgACgkQMyycQPQNIHJMTQf/WWhd21tm32odzBPkfIcep/RYPBYIOKC0+H/YQIE51fB0BGrsWOrpiBoUChb1/IzbsJi2IqFYCEMFqusQ5R03mNU9ENv2M3o5QtEtyzI4Z3YJxnm+50EKsX4Ip+Nts/rtWieyKe+a2OFJ8dqH6ILNJf2ysLbX4RPNxmlWAZ1bit23oztyfAWJ/Ajtnxlf7sorrH9NyCWWNcO50cNqWFNt0/viqPywWzuQ4JcWJiSiy0Rx8dcbylBZa0QSqgNQqbLGUr2spXCVV5emX+A2wl3ylK3Lqo8VJ6Pu0dw/77NZxKe0H4YPd+lf6X5kr0zjEUL0j4Efx3oFcu2K7ceItaVyaw==",
+  "URL": "https://obsproject.com",
+  "LICENSE": "GPL2",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1588245798",
+  "PACKAGER": "Jonathan Steel <jsteel@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "ffmpeg",
+    "jansson",
+    "libxinerama",
+    "libxkbcommon-x11",
+    "mbedtls",
+    "qt5-svg",
+    "qt5-x11extras",
+    "curl",
+    "jack",
+    "gtk-update-icon-cache"
+  ]
+}

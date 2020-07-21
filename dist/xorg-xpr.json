@@ -1,0 +1,25 @@
+{
+  "FILENAME": "xorg-xpr-1.0.5-2-x86_64.pkg.tar.zst",
+  "NAME": "xorg-xpr",
+  "BASE": "xorg-xpr",
+  "VERSION": "1.0.5-2",
+  "DESC": "Print an X window dump from xwd",
+  "CSIZE": "34045",
+  "ISIZE": "66399",
+  "MD5SUM": "cb26a53ddda9c915c5a84aacc469cf10",
+  "SHA256SUM": "3b5172b8d7bdb7335e818738437d2d8b67ed0a410e46816bcd2ccdb0230e58e1",
+  "PGPSIG": "iQFIBAABCAAyFiEEZkWwqMcAXnjbHXhk+Z/+D+rpmb0FAl6zeFUUHGFsbGFuQGFyY2hsaW51eC5vcmcACgkQ+Z/+D+rpmb0DQAgAhBaNsMLSKQGTPMgDCIDhEplq4vqJcPvqvudGdgKU6UAwvq14b+FxSSAqDUFeR0El0gxhzVS70YU9TJwmM33vZiKX2krGbIqsL9jMonXkwu4iV0rtrw6SRozVMKTb408eEH0WF5pByjEeivtGZjm+ed4q3lPR0AzOOBXHH40HK74X7sSQrG/56lznbGuLpIK/Uzys31BkkYP3t/rg9zHFzCu0Ldcb86j+v7DCle/kL1glT9uezMKCqH1D4sXgSBKHsFqMQCKKYLcPxI5iY4tSPXOFYx4r47ZP8vX9SfmntJkUgt5Jz2vvoW2bo7JllN7/8y6lvtdkTDPSxmJNv+Unjw==",
+  "URL": "https://xorg.freedesktop.org/",
+  "LICENSE": "custom",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1588820024",
+  "PACKAGER": "Allan McRae <allan@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "libx11",
+    "libxmu",
+    "sh"
+  ]
+}

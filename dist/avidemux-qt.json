@@ -1,0 +1,29 @@
+{
+  "FILENAME": "avidemux-qt-2.7.4-5-x86_64.pkg.tar.zst",
+  "NAME": "avidemux-qt",
+  "BASE": "avidemux",
+  "VERSION": "2.7.4-5",
+  "DESC": "Graphical tool to edit video (filter/re-encode/split) - Qt GUI",
+  "CSIZE": "3087275",
+  "ISIZE": "10918029",
+  "MD5SUM": "94387be049e9e9d509f9c77fa8124362",
+  "SHA256SUM": "da3df40599facb073a31934f34d799e5ce7c838f7d982063c01bb4201dc77d92",
+  "PGPSIG": "iHUEABYIAB0WIQQGaHodnU+rCLUP2Ss7lKgOUKR3xwUCXtpPigAKCRA7lKgOUKR3x6QhAQDib0l2ROV9fXWiM/MdS1ZZjexzHCKRz82Dm5TSVuJlNgEAkhIW7Jan1NE2OGGIe8wqgu03LbDMpBSvMCJscOSHRww=",
+  "URL": "http://fixounet.free.fr/avidemux/",
+  "LICENSE": "GPL2",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1591365003",
+  "PACKAGER": "Jan Alexander Steffens (heftig) <heftig@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "avidemux-cli=2.7.4",
+    "qt5-base",
+    "x264",
+    "x265",
+    "glu",
+    "libxv",
+    "desktop-file-utils"
+  ]
+}

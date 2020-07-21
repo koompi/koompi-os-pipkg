@@ -1,0 +1,30 @@
+{
+  "FILENAME": "zabbix-proxy-5.0.1-1-x86_64.pkg.tar.zst",
+  "NAME": "zabbix-proxy",
+  "BASE": "zabbix",
+  "VERSION": "5.0.1-1",
+  "DESC": "Data collecting proxy for Zabbix",
+  "CSIZE": "1259760",
+  "ISIZE": "8828938",
+  "MD5SUM": "648e10e218eaba2cb5f2110076392847",
+  "SHA256SUM": "c46fed0cade62d96726ca5985740b4bd93cc36b0e0dfd9d1f5163f79cdc92e8c",
+  "PGPSIG": "iQIzBAABCgAdFiEEz6avFeXHQUn8HYwIbRZVwUzhwT4FAl7iAzwACgkQbRZVwUzhwT4zohAAhdIF8LPx8xszaG2h1ZlcxbAOdCglgBO0Ue2Q4MGj59SD2vnb/IWp5Ff22iiGQSDdwQSK8Ev55Y/kuUH8g43oH+n1/qPP27q+DORxkXJ32VGSQT3+xg/xHR4qAQcv4dKhNzYn1lRWJblXn9bIe9NEkmQocwEodYiVbc6A1aRnzmALlrhItc/2lB7ZO06qDI6Gx367ONfGt2T03OlGYG0vsxAvwIhLqVZmoeJkrr+cMLLblvfZIfTXDI0R6kSINynzuDHAOBY8Vh0+e1UUNh8M5KE5fxXCz8s4i15qQ+1zk/nSfAdKX2BkLN77cQLM2g4WXeRjCaWwjt653M4XoCNN3CcMj0sW9RPNO/y0EEvgyGdoT4e0eOmLHLuniaL/YhwahF2erQiKw1h3Le/c+xvZzfkSysiLgojtHt4jJhSmAB0Bl4wG76YRwVASv844fcG1g7JE/NHcaJdOFZjrFC873E8Ai1AY1KXoBejLwTpFSOr9DqgZdkzKGllVOYq07BDAbWquGwqTNMve7ggaNGne1MMXOfdqMFQodxo4vf/4LdoFe1DJ+ntz9G5xtU+v2i2FtSqa/EmedsNlKJ9KDQplIiDaSaMu+U92aYDs1HKNzQpx68TgfxmwBO20fLTk1zrOd9+8Ybi2O9Krs6hoXqLiqGOIn+v0RjDnXiEB8ViNCBU=",
+  "URL": "https://www.zabbix.com/",
+  "LICENSE": "GPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1591868945",
+  "PACKAGER": "Florian Pritz <bluewind@xinu.at>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "net-snmp",
+    "curl",
+    "libxml2",
+    "sqlite",
+    "unixodbc",
+    "libldap",
+    "pcre",
+    "libevent"
+  ]
+}

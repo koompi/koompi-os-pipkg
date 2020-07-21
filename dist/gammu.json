@@ -1,0 +1,30 @@
+{
+  "FILENAME": "gammu-1.41.0-4-x86_64.pkg.tar.zst",
+  "NAME": "gammu",
+  "BASE": "gammu",
+  "VERSION": "1.41.0-4",
+  "DESC": "GNU All Mobile Management Utilities",
+  "CSIZE": "1335482",
+  "ISIZE": "4685872",
+  "MD5SUM": "0f68b9d5f5c6696d67a4d83e3b39a6d0",
+  "SHA256SUM": "7800c9cdc4cd22ce2af8d73057e1fba63d1aaea86a359ef72289ed8768e49b80",
+  "PGPSIG": "iQIzBAABCgAdFiEEOO3RiGdWkk4SJOSVJOTNsAE8JYAFAl8JeFQACgkQJOTNsAE8JYDNeA/+MV69o7ktzLWNI5y1fpbWHUS03PmKiuwUl9RDRZNAVO4WSq2WJ7e9KZtculiIxd5c0FV1LqVzthEgE6VDLlW9kKIJwj+OpSZ7m6k4TOExHTSJT+TjNE0004u9c9rl2GXvbkrZh3SCIfoJU2Vh09qv+ecxxuEsS+QRpObS1+mB5qQqFzv0FHc8Z/8mUGypRPBOo4S8hfJxTbfD7EbmfNWNhyWfgEC7lyh5ORb+MaGP4CEOdObAfITQRC4eG1ZDieDZLa1vu+cMUtMk9TyYDK9cM9hIg+S6PsrvWPZmf83s6iTVNTMvaJo7zFrNT/BhRgbE4THWsQ9kV2lnXkSvXbpsiq0/lRvs2TQXIei8KFTXhuIYGMGpMg98a4oEcWwJiHqrMTBcDI6JUWjUMPuO7qGAJwCl5PDNMoISSc33b/Ua2Q6wobqGes7v7V6vgcKrHmtkGyvk2j8FgEueSZbypGv9I+IPxSA/QgKZjdbALoNNLUBvazoEcsmN+RWmSb6v9f3iEfvhItoVK3NysOyPyWsyqq3RLjZhy86eI0g2H/rumDviprDlaeq2FTzQKzcswcyuzRmTTTyfsSE6nkT1YEAj4D/llnXL28pA4WUopyisu/ktlSj7PniSlmzRfxnIgI3z4VahbVrMFscUowf8xQR3MxyyCosdzM82hV9OvnqKgEY=",
+  "URL": "https://wammu.eu/gammu/",
+  "LICENSE": "GPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1594455769",
+  "PACKAGER": "Jaroslav Lichtblau <svetlemodry@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "glib2",
+    "bluez-libs",
+    "curl",
+    "libdbi",
+    "mariadb-libs",
+    "postgresql-libs",
+    "libusb",
+    "libgudev"
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "FILENAME": "gnome-tweaks-3.34.0-3-any.pkg.tar.zst",
+  "NAME": "gnome-tweaks",
+  "BASE": "gnome-tweaks",
+  "VERSION": "3.34.0-3",
+  "DESC": "Graphical interface for advanced GNOME 3 settings (Tweak Tool)",
+  "CSIZE": "276752",
+  "ISIZE": "1226915",
+  "MD5SUM": "0600e2a9d87bc75fd6c51daddffafd52",
+  "SHA256SUM": "c6b5cf837fbeb5ca86810751a3f2372887d9baedd6809a78bd775fc117a87412",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl6/yjcACgkQeGxj8zDXy5K56BAAtg6GXW74HJO2+OPsE8ipiLDQas8Bk4SmqQ9GyXQ9MmKbwZMeTV7ONDBKkYTWs3i9exxbD+5a5Q5voP7VoXGnGv4unCd+hpR6Opa/+pbZfrorfcs+CoSwUjigKFDMs+kvh4PnAgtNJS6/fgL7T0Tk0BcI0f8S99LkWLwLAbqo0k1FY2wN4/UwsM+2Df7EEfXDRCiQAx30+LKhX4ss3W9zaBKqdcE7nWTBbg7A/45Oet3lnaa3oepXr33Ufv4QyAr9TYfKGj+as6BA1wiBNjCNBvSwWtQ3ehHw6tF7MygLVMeFaeefFz3uELzLyUsWFRgkX85iMtDpC2/Al6frNtrgJNWrV3to2jWcAHMQxxWXDekp+sISdIQViQ9y6oWSLf5/zG1Ew9cBl8wn6bNgfGIgoMJMkp51zgLxKyQGGxUmr2tSqvBGzGSUBSqGHSOJw6srQDfltAJy/aoqHJ6Awmhhvb6ENswmRYzfOQ0Wwv33H1GMnlacSdlHQAfNgVNGyKrEhI9iYHXgsYpqnMV+Xh21RzqAi8+fRLVjowfxhDFYteNCv0uRpUM82sNClDYwhVqGnvgGywJW3vJri1FwMat0PtQdG3cpF8BjLCixbsgglTWc5SADxMWH9cATaXLpH9xs3pW3lF+CRdHJrlQkVtP7Tr1V4xCGJBVKN9kWisS43/U=",
+  "URL": "https://wiki.gnome.org/Apps/Tweaks",
+  "LICENSE": "GPL",
+  "ARCH": "any",
+  "BUILDDATE": "1589627411",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    "gnome-tweak-tool=3.34.0"
+  ],
+  "DEPENDS": [
+    "gnome-settings-daemon",
+    "python-gobject",
+    "libhandy"
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "FILENAME": "feh-3.4.1-1-x86_64.pkg.tar.zst",
+  "NAME": "feh",
+  "BASE": "feh",
+  "VERSION": "3.4.1-1",
+  "DESC": "Fast and light imlib2-based image viewer",
+  "CSIZE": "191447",
+  "ISIZE": "450684",
+  "MD5SUM": "6b14245a718f58dc2ffd42fdb51d58a8",
+  "SHA256SUM": "e3213f32d6c455b8591d23190ec9d9ccc1bff025a9b3108968c0b20242fcba86",
+  "PGPSIG": "iHQEABYIAB0WIQQaYNxEJF0G/vkGI9bu7uLu7i7u7gUCXtP1+QAKCRDu7uLu7i7u7uUtAPifGS37zjqDOW7kEDC+izPiyoSWgGET0G6IVTQmg45TAQDH+0OOtCQxnpYDkD034IyERUD1QMSy5uFSiaher1ToAA==",
+  "URL": "https://feh.finalrewind.org/",
+  "LICENSE": "custom:MIT",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1590948536",
+  "PACKAGER": "Gaetan Bisson <bisson@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "imlib2",
+    "curl",
+    "libxinerama",
+    "libexif"
+  ]
+}

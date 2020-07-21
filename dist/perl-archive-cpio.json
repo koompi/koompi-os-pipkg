@@ -1,0 +1,23 @@
+{
+  "FILENAME": "perl-archive-cpio-0.10-5-any.pkg.tar.zst",
+  "NAME": "perl-archive-cpio",
+  "BASE": "perl-archive-cpio",
+  "VERSION": "0.10-5",
+  "DESC": "module for manipulations of cpio archives",
+  "CSIZE": "11116",
+  "ISIZE": "19595",
+  "MD5SUM": "d162b727d6caafd080c73cb6cd4e15fb",
+  "SHA256SUM": "036e5b9325425530f42817218f1896767eeccefdcd68b4c303a0756b12476f0b",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl7vM+oACgkQeGxj8zDXy5JhPQ/8C1cLS9aeQ752y/UpuNXUdk4QFzwA24/1a3byS5RW+4WO3nusC1g/VbplBUq1y2qkeAl6Yoc+J0/9ThcRsIt2pw6AmzRUdlG6DEZ0Q3wcTy2TWyVqNqXBwRhUY/DYbPBuSoeYM0uHyGttQ1GM6/ZqY9Fb6k1AXXu8okC6hsHHxy1BKYpivmqHjW3Nzg1Jtx+amZRN5OZm4ceSNCrLxhZVRrRt/YH/9uU4peCau1bpoOD89KsP6M6nsFtaTqxTAfZGuch8z0xC33CmODuc3ZbLL9w7uTD+9iJeLVfPWudBdL12eKPBn+HqkEmLWUsLt97EntqzClfYBNttBV9yeDdQrk/ZJ2Gv40bwYtspc0JSQfv/fCA3FvNmL3Sh2eNXltG9aT2Uhyeq2NtqrpLEJpjUSpGziF94+OD4STqZwC/vB7zBBzPorUWU7obQKRrdvPG59jLGUeixqSl7RtJtT5tt8ifMd2P54cDOIuIYm6ARgQIz79+DqT13PI/DQ+Vok5SSaUCb2n3tekRYtdcpSCEswHlLmFjHilMgQj7DIjHqLlt/ub17/0p2Y752fbERkAYre1ACKih+3xC728HvRDbwGg2Mri3WgjM6HN77T9ES+1JTIAC10M+JIL7QoTi3Ah0dJVf85p+xaz47Mrnz+5LG0x7b5/MDmq0LbgzzLCCuY1A=",
+  "URL": "https://metacpan.org/pod/Archive::Cpio",
+  "LICENSE": "unknown",
+  "ARCH": "any",
+  "BUILDDATE": "1592734680",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "perl>=5.10.0"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "FILENAME": "python-wsproto-0.15.0-3-any.pkg.tar.xz",
+  "NAME": "python-wsproto",
+  "BASE": "python-wsproto",
+  "VERSION": "0.15.0-3",
+  "DESC": "WebSockets state-machine based protocol implementation",
+  "CSIZE": "39088",
+  "ISIZE": "193258",
+  "MD5SUM": "4732aeb8c78197fc12786e51c0fc5ed6",
+  "SHA256SUM": "21a3f5241188756d31eeca15444317082a01e8e8b8e2d6773646ab15f0c0e67a",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl28MdQACgkQeGxj8zDXy5LCgA/9GvEWP9SdRUwVdOk12z3Lfttq3kXoAuAsH1MOg9HwK8pqWxQzLZzfN7vEec4JYeAEwkt8qfZV8OuWaKhgKA5AkSLAU1BtHjXCX4WGyXAo52LnMbHBjUjRLbNG9PG1/5R7GeL9VcP4BPA4GyAIav5lMocCGoI8FWSb7YB32Jr5rqoQxBNZisqYoX9ZdzzJDhCeMvoyTjcr+wBQNkDDtv9sHkVYkRfxPJ3s5ghMGS4AqtY0alm8kGjh/SMzHk+ph5kqK8R4r3JcBPR7v2xRlNA9XvTo8NPgwGRl6eefh9c+LBliZxJVV6/HYmp7ce2x4d0hXpBu63MC/wppEE4OhbEB9v7DPOIYSHngihsnyB4Y5lkFGgYnBxPgjJBk9q9Wp5qyrcNgeWbqxbRCUUsGenqy/A36dZqe75t0MSnx2gJiVymcm8uSB0PD3LlqBuuepe1BFJ7Psyf1pxXQbvkWdvK7l4o0m9qAI7i3xo6iqPWEi1id3rQsTHgEiMuJp2hWKlvj2O8ABd8Lvn5wheL+Ce3jLcrH9VtHIXrzSQFNVkNJk3dRUdZvblGj4i2K38WN9OqULex3Z4Kr6Zg79yZjfcxnapeNEARu/DezUt/BxlSZ26SNAAhp1n45MrRDWa7aqOq2TJb9Lb01J4VExpb2NaF2RuTY5ykrlVq3lb+ktMHA90M=",
+  "URL": "https://github.com/python-hyper/wsproto",
+  "LICENSE": "MIT",
+  "ARCH": "any",
+  "BUILDDATE": "1572614571",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "python-h11"
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "FILENAME": "dragon-20.04.3-1-x86_64.pkg.tar.zst",
+  "NAME": "dragon",
+  "BASE": "dragon",
+  "VERSION": "20.04.3-1",
+  "DESC": "A multimedia player where the focus is on simplicity, instead of features",
+  "CSIZE": "1488450",
+  "ISIZE": "2227706",
+  "MD5SUM": "ec7da095671f01308406b026e025ec3a",
+  "SHA256SUM": "813310b238a180b956c8bc0df0f0632309b9fc4dd77c291eed92c3b34edf062e",
+  "PGPSIG": "iQEzBAABCAAdFiEEFRnVq6Zb9vwrc8dWek52CV2KUuQFAl8HBrIACgkQek52CV2KUuQF0Af+JPLyg09hWR3xuvPotb8PZubRiHCWludc2DE/61BoO+PK4BRgOd2hWUcgE/arr5OnjOvH3WoWaw96Nmu9Hw794lgrfkOyJJlyiTAtk0woiDGJO5VBX75irwIOJZgEJmn0mqiFINT2oLM9SJrUyO6sKVq5pCK+Srm5F7aWlGkQIOpaI7AabW2NK/yv/MTiy0WF0t5AUyRJsNhI7eU2aqiVVJhvjow7lPHbpBnY/Y3nxjkXLN59xpmX2nk5MGgU6HuRhb/VBoOE24Z6i6HZdhODdie2xFaevz+vk3Ygykqyuk29Qa8At44dqmqUWkE2UgnHP6nvg616peqWF/S9et3dzQ==",
+  "URL": "https://kde.org/applications/multimedia/dragonplayer",
+  "LICENSE": "GPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1594110279",
+  "PACKAGER": "Antonio Rojas <arojas@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "hicolor-icon-theme",
+    "kparts",
+    "phonon-qt5"
+  ]
+}

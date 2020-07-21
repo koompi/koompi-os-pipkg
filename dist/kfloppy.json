@@ -1,0 +1,25 @@
+{
+  "FILENAME": "kfloppy-20.04.3-1-x86_64.pkg.tar.zst",
+  "NAME": "kfloppy",
+  "BASE": "kfloppy",
+  "VERSION": "20.04.3-1",
+  "DESC": "Floppy Formatter",
+  "CSIZE": "328350",
+  "ISIZE": "1132166",
+  "MD5SUM": "d6a94bf779281826dbe321b59ebf1a55",
+  "SHA256SUM": "b3edc567a49d4e18e1bc983838fa0086f5e80bc620187763a8aa2063321dffd6",
+  "PGPSIG": "iQEzBAABCAAdFiEEFRnVq6Zb9vwrc8dWek52CV2KUuQFAl8HIZYACgkQek52CV2KUuQm+wf8C8Cb4aeyFgrp7garS0pLO4HCp2sUc47QdIT02zDeWsjNnSVXf4mrQcSy0rvQarwDolWWZM7/XcUeRO5RcR4LUQ8C6JfzIsl6FyVuWY+GmVae9jZ2NnqDxr7fbQ4dUjlQc1ajfKzh4mTKw4lVdZpFuB5q2rcP1ujfDlxR5J+Y4twtzbJkZFarH/Fq+TCMrGUDDyCYlsSBh+U9hOzG7kxFm+glCTjXHqcMjMpCVrq5Dh+/H2G/vpFFcmvitImc1nPfPuoQgjvQ9vZRZ2FGxtt8Ujlik/2Mgrlx5+w5eTQnDBC18Ph84t2kRBGlhz2ZOAFRRVkWuVx3XIPjTkGeMiQElg==",
+  "URL": "https://kde.org/applications/utilities/kfloppy/",
+  "LICENSE": "GPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1594114599",
+  "PACKAGER": "Antonio Rojas <arojas@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "kxmlgui",
+    "kcompletion",
+    "hicolor-icon-theme"
+  ]
+}

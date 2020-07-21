@@ -1,0 +1,24 @@
+{
+  "FILENAME": "python-cytoolz-0.10.1-3-x86_64.pkg.tar.zst",
+  "NAME": "python-cytoolz",
+  "BASE": "python-cytoolz",
+  "VERSION": "0.10.1-3",
+  "DESC": "Cython implementation of Toolz: High performance functional utilities",
+  "CSIZE": "388190",
+  "ISIZE": "1564568",
+  "MD5SUM": "77f429cf8c26e61efb1f934dd0724e7a",
+  "SHA256SUM": "7262f6558f81aedaffb638e837c05c4ae8da9401f31691bf605d9c0996361e41",
+  "PGPSIG": "iHUEABYIAB0WIQTH54SUZv4jWDQ1iDdyWHNLQcMVSQUCXojr3gAKCRByWHNLQcMVScdxAQCsSbijXMr5YdPj06NNRIH5ZMUeQ936GdnkjOKJNQH/RgEAoo3tnR2KWL82cSA5AJBc8/rUWr7KznQiZf6DB7ds4AQ=",
+  "URL": "https://github.com/pytoolz/cytoolz/",
+  "LICENSE": "BSD",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1586031203",
+  "PACKAGER": "David Runge <dvzrv@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "cython",
+    "python-toolz"
+  ]
+}

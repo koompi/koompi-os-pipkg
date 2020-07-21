@@ -1,0 +1,25 @@
+{
+  "FILENAME": "nvidia-lts-1:450.57-1-x86_64.pkg.tar.zst",
+  "NAME": "nvidia-lts",
+  "BASE": "nvidia-lts",
+  "VERSION": "1:450.57-1",
+  "DESC": "NVIDIA drivers for linux-lts",
+  "CSIZE": "11441394",
+  "ISIZE": "11441443",
+  "MD5SUM": "15bca58e5b759b2d90b27fa852f34ec6",
+  "SHA256SUM": "5cb3b3c2a19e706c3caf8cbd16cca2e91d8c665ad5969aa3d6dc70e8cfc20273",
+  "PGPSIG": "iQIzBAABCAAdFiEEj8FaBklQqZ3RvRTdOeS4d+YuuRUFAl8HREkACgkQOeS4d+YuuRXlExAAs1Q1zts0uwCxUoEboyg2CW6Qg2nlZjVsiwTXed5r6KpPfiOsUAEGkcqm8Pc8x4Ar0Be3SH0lnpQywT/O32g5ZFcvNP3B0Q23PA264PX4jzjMCxrXOrrK0wuEkHE2d/g6YQ63p7+YrgjF2nAlJzzihbx+jIhi6Sb55p4W12UAAw430McCWzSkgMcR7lh3y4HqrSB964OzcUuQ/2NwE3vMWhz/CBkX9AqJrmGM8orrN8WY6F4K0k2l2rVOMmk97zXvQolJikcXuc4TS+8ZJhSSn+wfkllVZ0mig9BME2egRDP8YTNGXbX7X2LIF2mVFcquktFvHemYgItIBMq9InCmZe6O3T+t1WlvoF9YNqRraUmKT02i2+jD+I1hpt/c/9eoa0qrTmO1NG5Ix5RHBc7U2pApF2VCKGXokd1418HXGSoKtbVXlgwqOHc3TVT9d970y1zAkTKaWSEudoCFGe0OezkevZs4GpY0W2KKQPXck8VoBu+z5aSSLZYmYNLUa5MPfnUdonf55H9Tf8T9DhRTIlEN4rxiMQRTpQrWw+dBTEa89Bay2D5stMD0tXbB3T6hFXD6n/aRY6fZ+KZwpnIHbxEqeQxjuBCWRWaKG0H+aP11tT1X+2m2UiP+K8vadWF0ybkvnaZLL+0eKPgdFKQoy7fIQDAuwzA1JG/Mtlx18Zs=",
+  "URL": "https://www.nvidia.com/",
+  "LICENSE": "custom",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1594311522",
+  "PACKAGER": "Sven-Hendrik Haase <svenstaro@gmail.com>",
+  "PROVIDES": [
+    "NVIDIA-MODULE"
+  ],
+  "DEPENDS": [
+    "linux-lts",
+    "nvidia-utils=450.57",
+    "libglvnd"
+  ]
+}

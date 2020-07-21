@@ -1,0 +1,24 @@
+{
+  "FILENAME": "filemanager-actions-3.4-5-x86_64.pkg.tar.zst",
+  "NAME": "filemanager-actions",
+  "BASE": "filemanager-actions",
+  "VERSION": "3.4-5",
+  "DESC": "File-manager extension which offers user configurable context menu actions",
+  "CSIZE": "2839591",
+  "ISIZE": "9461581",
+  "MD5SUM": "bd16946f9f4db4426a716a9194e0cd00",
+  "SHA256SUM": "59613516b72a1b9d35b4ad16a0d912e0d8cb3897f13cf0aa18a3815e27a80963",
+  "PGPSIG": "iQEzBAABCAAdFiEEzgvecadZqH8j8PfYth284QkBwWMFAl5pPWEACgkQth284QkBwWNeQwf/aeTKmVPDiDew/zs0uY/fWM4aSCjmlZoa6c9OPurgjkeR+Cwh84gwC75wkfJVCDr/aAJDglGj5ucSSJJTsyitnjdluCxkFKpDRXGBF7hqXpBvGSqV9wAekWylMrsznqJZY8PdPaLqU40xx+NbEGZMoQyAxqqv6U62q9LIzk1u3IdzpP7EhGSOTo5nKZGWv9GmfNtm1VMX9EGcadDNxfifLcOraDM+8+WXTGHjAtPswMp8OdePlNdQtLAJ5v/iBqduKSxODynpBakTrjodggJYkSzbpPXaT2E4jckd/MS1s7eaduQ0IjZSYpE4Pg+xgIneN4mji0ZMfiE7v4k+NRya8g==",
+  "URL": "https://gitlab.gnome.org/GNOME/filemanager-actions",
+  "LICENSE": "GPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1583954953",
+  "PACKAGER": "Balló György <ballogyor+arch@gmail.com>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "gtk3",
+    "libgtop"
+  ]
+}

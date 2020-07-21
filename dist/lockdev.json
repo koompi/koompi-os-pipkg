@@ -1,0 +1,24 @@
+{
+  "FILENAME": "lockdev-1.0.3_1.6-6-x86_64.pkg.tar.zst",
+  "NAME": "lockdev",
+  "BASE": "lockdev",
+  "VERSION": "1.0.3_1.6-6",
+  "DESC": "Run-time shared library for locking devices, using _both_ FSSTND and SVr4 methods.",
+  "CSIZE": "10685",
+  "ISIZE": "24241",
+  "MD5SUM": "778a6ec9e989dfe46a05fb69ecebfdeb",
+  "SHA256SUM": "ba45c16bac01109ba466e830dbae7ef260a9d18c3c085c33bbe29f9f8ea1adfe",
+  "PGPSIG": "iQEzBAABCAAdFiEE5JnHn1PJalTlcv7hwGCGM3xQdz4FAl60DTgACgkQwGCGM3xQdz5h+Qf/fBya0VxFk69EJYJq3MXd03fNuT3qKyeA3uyWfJCqkvWAxGH8TaNt2UvUvfUBePJT9TPX9Z+f/CmapXfa5VqruLdxXgz7yc5oGWrEQI16Q5b8w+Mer8fgFNOjjVhKDoKQugxgpJADpUm3L9PIW6DM28D8epUh6hTptEIR/fuAJlOAfi3N21y0tFtQOD1dha/MNtw1MUXrbEwUooJo0xupXJWez0vsBs8cFwDL80jui61xaxBNJGj6IILOsUTOYeYivtZ6xUzqOD6SBacp2qEiQevAX5d+qJ4lDNYF3bYC3DAuGg6z4iMMA9/KtJRysXwSpPndWeGepUI43mj1n8hkBA==",
+  "URL": "https://packages.qa.debian.org/l/lockdev.html",
+  "LICENSE": "GPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1588857965",
+  "PACKAGER": "Jelle van der Waa <jelle@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "glibc",
+    "systemd"
+  ]
+}

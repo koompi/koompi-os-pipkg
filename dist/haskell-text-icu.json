@@ -1,0 +1,24 @@
+{
+  "FILENAME": "haskell-text-icu-0.7.0.1-32-x86_64.pkg.tar.zst",
+  "NAME": "haskell-text-icu",
+  "BASE": "haskell-text-icu",
+  "VERSION": "0.7.0.1-32",
+  "DESC": "Bindings to the ICU library",
+  "CSIZE": "449040",
+  "ISIZE": "2483475",
+  "MD5SUM": "1abf7050b0a2ea55b820a929b4d2e71e",
+  "SHA256SUM": "242072b868658fba63e51a294c8d462dd2ab6ec9bae076f94762f27e269e675e",
+  "PGPSIG": "iQEzBAABCAAdFiEEhs/8qRjPOvRxR1iAUeixSKmZnDQFAl6mkSgACgkQUeixSKmZnDTq7Qf/SXxltH3se47cv7pX+QBnKJLBJ2lt1qousDkUAsvmHTSogtq7Buc9aQ9cWhYC76BGy2d2LDAbN1/Tn01vVq9fTwetfPZG/21IQG+9iKHQGRMdNJcH1fqfMhMuGMZDMjNF7EMlvcC6XiHq3/FC5HLX6sh2lS8VDW3wqNXuv5Cjg30Gj3oAT+YUr8tbk4vPfdm5846JiR3glMo1vbzNZdK2gRbJH3XjFMAG4yvJKj/n40LDkkrhMZMd46HLHK4xQ6OkM8gzHZgG5yPW64DeobL0+cVgx665DNqAcgrqrOh3SZg4K9oUlNFVrlRSr6S71yT3NVSfY7YQXfbDH79v43aPlA==",
+  "URL": "https://github.com/bos/text-icu",
+  "LICENSE": "BSD",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1587974408",
+  "PACKAGER": "Evangelos Foutras <evangelos@foutrelis.com>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "ghc-libs",
+    "icu"
+  ]
+}

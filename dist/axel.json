@@ -1,0 +1,24 @@
+{
+  "FILENAME": "axel-2.17.9-1-x86_64.pkg.tar.zst",
+  "NAME": "axel",
+  "BASE": "axel",
+  "VERSION": "2.17.9-1",
+  "DESC": "Light command line download accelerator",
+  "CSIZE": "49308",
+  "ISIZE": "137717",
+  "MD5SUM": "882cabafd5e781fb6dcfaadee8dd0826",
+  "SHA256SUM": "d74715942fb8308bc809890f4c216ee062d7cdcc47e0093f3f1923aaf982a3c4",
+  "PGPSIG": "iQEzBAABCAAdFiEEhs/8qRjPOvRxR1iAUeixSKmZnDQFAl7YHPQACgkQUeixSKmZnDRUtggAnIOsieBNw9INxEgqZHCeRrDl7yXqi1URLtoYJfzs+5pIQGX+LdYPnvOKaTEMY5+4yttKhlgvnB9ReYlKCXVf7T3ASCycYgdDeYEO1EVYFhKXivhkF/U2Rz7z8NA8f+0VyAbnP1nxXxSlN3o+sV/aKQ3nl1sTduF/qQUE7rEzPtlcWpqZ5BJWrpLqsYSqYxqtcSk4HlKz85jX0WMHSjQAofrr4RuIN7zDZT6j6ZllbfM9k8Ddh+a7i3o4dxu3v0tXlImfMVMMJf6axOjs6gMaIEKck0CXxk0fO64dpvw93qkxVo6yDGOtw6bLxfYiOqlV0TFg8SGgnumcbPLMtzF07Q==",
+  "URL": "https://github.com/axel-download-accelerator/axel",
+  "LICENSE": "GPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1591221045",
+  "PACKAGER": "Evangelos Foutras <foutrelis@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "glibc",
+    "openssl"
+  ]
+}

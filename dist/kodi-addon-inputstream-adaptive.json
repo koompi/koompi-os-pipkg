@@ -1,0 +1,24 @@
+{
+  "FILENAME": "kodi-addon-inputstream-adaptive-2.4.5-1-x86_64.pkg.tar.zst",
+  "NAME": "kodi-addon-inputstream-adaptive",
+  "BASE": "kodi-addon-inputstream-adaptive",
+  "VERSION": "2.4.5-1",
+  "DESC": "InputStream client for adaptive streams for Kodi 18+",
+  "CSIZE": "707913",
+  "ISIZE": "2678116",
+  "MD5SUM": "e10faebc61b55b3a5fc3ee6b2ef43423",
+  "SHA256SUM": "39a89dac7d583b6183e1cc63675655aca578f29f5a2bcf6161893f8468942130",
+  "PGPSIG": "iQIzBAABCAAdFiEE2yJ3vNUAqjglYQvd2zIzknlsoGcFAl7DW10ACgkQ2zIzknlsoGfRCxAAh8e+7QXs1g0IXr4EOPqqFB4I9YYTjhiPQ3K1YAVYGwqgMSdsZEI5RricY0zrpy1fMRkZtd0abL8gwHq5rcbXQ6Jw/TkO5yx0D64vkjH9ZA5baDlPcVVWRj846kGtu0oDZlrnWQ8VcOpkXuINyoYLsmbSQjna/wlf/nND4Q94AaFVK8KwDdBSFIP9beQTt4D8axAi6CWyFYvssYm6tRS3JTsqobJmfO63BZtOcqCZUp/9EhHZJyjuPcWIkI4A9cIrcbxNHQzu+3pQ6EcnEtXCyUCfP4M91wnhZzFD4q5c3ws9Kk8RHQKx+YyGY8Pk9YIEcoBPXoJON2sZdQu7if6lNZWntukdGafUAp2GwtfTrhi1kyeKfZehqEg58OIiHWjGclpd3lWcnUs9Lp61IsdP5OTOuI8kqQeu6clOI+vfJXw1r/ZD5/cl1xcc7PCEWD6GdvzRPiUKClyp4FtuFxm5MP8cZBbZKXm6Dd/yiP2MqNMZVi6Mt4KLsIuK0YYUktMCpLh9Jaf04fnwJXZ3g7WDIml5wwY0uwXplCL83LGAIxCP+nCfPfASECXxZihLxEDIryhi5ljZWENbDcJx5liFlRtlxNDE6bnur3FwnA/Bu8EY5wKjNDIazFThF4CQZs9Egr/dIwW0OVVk7+GeOZPD8tLFw/ErV31ACsb9nVEWV3U=",
+  "URL": "https://github.com/peak3d/inputstream.adaptive",
+  "LICENSE": "GPL2",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1589861106",
+  "PACKAGER": "BlackEagle <ike.devolder@gmail.com>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "kodi",
+    "kodi-platform"
+  ]
+}

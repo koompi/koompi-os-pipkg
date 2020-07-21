@@ -1,0 +1,24 @@
+{
+  "FILENAME": "libretro-bsnes-1:1198-1-x86_64.pkg.tar.zst",
+  "NAME": "libretro-bsnes",
+  "BASE": "libretro-bsnes",
+  "VERSION": "1:1198-1",
+  "DESC": "Super Nintendo Entertainment System cores",
+  "CSIZE": "551502",
+  "ISIZE": "1842256",
+  "MD5SUM": "0c72c5d36c5bc0181f38749bd94b91d7",
+  "SHA256SUM": "00ef28e30b4d54ab02a29ebfbd04ab3c75c82a9a5230843424adc861d6e39b19",
+  "PGPSIG": "iQEzBAABCAAdFiEElDfdOBWnqRaePTlGr/XZUJi8b/UFAl6IKx0ACgkQr/XZUJi8b/XmPwf/Ym9SGTT32ApTfxoAuH+vrOc4UWFudH3AAEvYcK4+wWt/RMQJcjdincbA2j7Q4U3vFN/MlPiI/hCW2roMb4IETdzRHurOu1XOsYPgsE8jRgU1vCPNddfbWMpTqMFCIakMwGVLCq8CQFQqlfDk5jTa8BTn5H5QA3xuOvq2E2+EK0sPsXo0vzWpFyNSieo2HTRl7jxENC/li0chIVhyxVRjm/ikZon60zSq3W2uI8ipbO5Ud+BD2PUVZxJ8Xm+8PcP3q2BsDsofxw7sv3CpLkCC4Lc9DyU+Vo0UTjRY4EYkgGqWH2GuxjvDwBTcdlKHPhEzHE112mL9r8e9//qtmPWuLg==",
+  "URL": "https://github.com/libretro/bsnes-libretro",
+  "LICENSE": "GPL3",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1585982199",
+  "PACKAGER": "Maxime Gauduin <alucryd@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "gcc-libs",
+    "libretro-core-info"
+  ]
+}

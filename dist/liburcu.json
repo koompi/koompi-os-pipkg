@@ -1,0 +1,23 @@
+{
+  "FILENAME": "liburcu-0.11.0-2-x86_64.pkg.tar.zst",
+  "NAME": "liburcu",
+  "BASE": "liburcu",
+  "VERSION": "0.11.0-2",
+  "DESC": "LGPLv2.1 userspace RCU (read-copy-update) library",
+  "CSIZE": "123780",
+  "ISIZE": "759002",
+  "MD5SUM": "cf042de2960f62dfae8098ea5527188d",
+  "SHA256SUM": "c1b6ff32ed724f652d3eb2272cf8f6243e518785c2c7c7075d7e06cf040f5516",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl8EeakACgkQeGxj8zDXy5KMyw//YpvNKW2DZ3j6BIHqUnm5mi02JFPgQejcXYyCrjGTtUf/+sHLyDlZU4bJsYZsGyaRD7V6RoczFWSi53dmnCeit8i+J3WIZFH58oHpKlXyZO65EIfePMGbMN55H3j6N48P3A1Q2y5z08KJovW2CTZ8JnIPvhpuyXr+GfwlPKEn11ZzcE9F5MoJMqKC5WctF/IGAeG+pXpYXCUd4MByst0qi0QYwTXq78NvsJeY+hhN0OWYndQBIil6r5cyuc57DI8g75AdZEqARQpXoq1sD2Psu8l5ZWzD/sqd+plkSlhuQq5XylJGkUAgzI1NHCHzkDcGwlIjwtX0Xc5syVZ+6Mt1ftniGzrBZ/bM1CGNHmhTNbEs4ZVLKjstmVhliu9R+AtuRRDZ+YE/ufiT6+XNYmHulCrHIwLjdjpu5IJ26FNDf83UTW3dTQPqgIFtnnFJW2EVK3zckaMJjt51B/Cqnj8DlP1jP8SnsatDkrGzSYwozv0i30Qe6/S+PO4FUROyKytnUl9QYaVTA1l1bn9jcySBeOou6/okmm8eVwDoExx1yrpF6wOlKypQOqGvjUPsZRmfpzhIWblcjcXY5d2iA2xEucyh8sexXWvr9Cz3G9MWrH3IOEv/saDZei0ck8NGtv11WFWyFl/my0KykJRT+qaWVQeoLZvdjToHbIPoljxV21g=",
+  "URL": "https://lttng.org/urcu",
+  "LICENSE": "LGPL2.1",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1594128771",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    ""
+  ]
+}

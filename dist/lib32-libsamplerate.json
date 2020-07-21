@@ -1,0 +1,24 @@
+{
+  "FILENAME": "lib32-libsamplerate-0.1.9-3-x86_64.pkg.tar.zst",
+  "NAME": "lib32-libsamplerate",
+  "BASE": "lib32-libsamplerate",
+  "VERSION": "0.1.9-3",
+  "DESC": "Secret Rabbit Code - aka Sample Rate Converter for audio (32-bit)",
+  "CSIZE": "1355676",
+  "ISIZE": "1489680",
+  "MD5SUM": "ac4d4b1f815154dd185b249901219b2d",
+  "SHA256SUM": "6deef000d7f49537b8e1bccc9558f6b288c0bc62d7f597facabf6ab043b44c3b",
+  "PGPSIG": "iHUEABYIAB0WIQTH54SUZv4jWDQ1iDdyWHNLQcMVSQUCXouFlAAKCRByWHNLQcMVSQo0AQC18HUUFNY/v/D/Afm4GqPR5CMox8ALIceW3SlA1UHp0QD/VuUnSI85g34/pt/5/X1FXfvhvO79q5G6OQOjY6YErAk=",
+  "URL": "http://www.mega-nerd.com/SRC/index.html",
+  "LICENSE": "BSD",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1586201600",
+  "PACKAGER": "David Runge <dave@sleepmap.de>",
+  "PROVIDES": [
+    "libsamplerate.so=0-32"
+  ],
+  "DEPENDS": [
+    "lib32-glibc",
+    "libsamplerate"
+  ]
+}

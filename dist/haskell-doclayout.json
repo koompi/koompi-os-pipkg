@@ -1,0 +1,24 @@
+{
+  "FILENAME": "haskell-doclayout-0.3-18-x86_64.pkg.tar.zst",
+  "NAME": "haskell-doclayout",
+  "BASE": "haskell-doclayout",
+  "VERSION": "0.3-18",
+  "DESC": "A prettyprinting library for laying out text documents",
+  "CSIZE": "91082",
+  "ISIZE": "525302",
+  "MD5SUM": "47f150fd7f25071691e6f7d5c2199ba0",
+  "SHA256SUM": "b629473b8685d25926c1005b0aa8f1c22309962f60e0a750a9581825c8dd14aa",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl75Iv0ACgkQeGxj8zDXy5LV+xAAn4mT/2UcpEqMod9V6gORvl/v6RkWn5S7aMiKomIba2Z9LOPBsiKB3ogYswlZUafFRH0v34O3ZoENDkGXuIcgU18d8ggtSUpUK+JYzqx4PItVi+b1puT/9uwoebOZcaugk4md3ZiKFXwzKUZP00EN4P/UPfR3I68hfZsbTesOTFMkJobqxvHlAt1GK1LrabdKUU86LOKExrSteF47NyLfA49HTjUrSiMkTY9GgiRHYQ8yGUdcRFIZD9DFxPFpAlOgvUDCDyx/+s7F8nTOa4KE0eoFhdy17sKhxvABtahfjqzmJ76jI8Ug6rZRNpiX/54ZHnkwSWABK80hd2B7wAinoM5SQ5i1aMja45TRnpJblocBqfpnnIBaFdbrj9t6ia1n3GlDIEX+xFBGV5fJMiiaPQPRzreM0SGhUAVPtD976aTgMnMGmsLq/GRMcRJf66dny3Un0rmZip6KDtidNL1w47FC2t6Ic2DaFbQN1QuAICmih2CejIAaap5om+OMTCs7X/okA+ff4HMeYCIZboBZ9HcmDZFr56IqxKaiVj7pa0LtcgVR27U6iOnuKD7bUjgbwSEZAWImy7WQ+xS1Qc8VUz8ce22Zj6anl65Yp78K2lwhMvOyqU2nyM3ri1VqbwsnoBp1d/JrSwMr8MRuTE3UYgQVGGkqoxMZ31ID7fQij6I=",
+  "URL": "https://github.com/jgm/doclayout",
+  "LICENSE": "BSD",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1593385676",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "ghc-libs",
+    "haskell-safe"
+  ]
+}

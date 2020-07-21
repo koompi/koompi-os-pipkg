@@ -1,0 +1,33 @@
+{
+  "FILENAME": "glib2-2.64.4-1-x86_64.pkg.tar.zst",
+  "NAME": "glib2",
+  "BASE": "glib2",
+  "VERSION": "2.64.4-1",
+  "DESC": "Low level core library",
+  "CSIZE": "2894697",
+  "ISIZE": "15376347",
+  "MD5SUM": "76bad0ccc1f1355ae01a8129718f97eb",
+  "SHA256SUM": "02f2584d66e7af1ce76d57727ad1a86bc20437114f20bd9ab85100ac8165faf1",
+  "PGPSIG": "iIsEABYIADMWIQQGaHodnU+rCLUP2Ss7lKgOUKR3xwUCXv4ivxUcaGVmdGlnQGFyY2hsaW51eC5vcmcACgkQO5SoDlCkd8fmSAD+P3EselTcyJeYBPNSpuw2WFKPmBkIJOPn70uzrDGm2XEBAOm/FAkU0eyVkbG4q/MZzOYweS73D5OWdA7vGcXgiAsB",
+  "URL": "https://wiki.gnome.org/Projects/GLib",
+  "LICENSE": "LGPL2.1",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1593712691",
+  "PACKAGER": "Jan Alexander Steffens (heftig) <heftig@archlinux.org>",
+  "PROVIDES": [
+    "libgio-2.0.so=0-64",
+    "libglib-2.0.so=0-64",
+    "libglib-2.0.so",
+    "libgmodule-2.0.so=0-64",
+    "libgobject-2.0.so=0-64",
+    "libgobject-2.0.so",
+    "libgthread-2.0.so=0-64"
+  ],
+  "DEPENDS": [
+    "pcre",
+    "libffi",
+    "libutil-linux",
+    "zlib",
+    "libmount.so=1-64"
+  ]
+}

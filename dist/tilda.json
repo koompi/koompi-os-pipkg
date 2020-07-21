@@ -1,0 +1,24 @@
+{
+  "FILENAME": "tilda-1.5.2-1-x86_64.pkg.tar.zst",
+  "NAME": "tilda",
+  "BASE": "tilda",
+  "VERSION": "1.5.2-1",
+  "DESC": "A Gtk based drop down terminal for Linux and Unix",
+  "CSIZE": "102751",
+  "ISIZE": "319274",
+  "MD5SUM": "c0724e407a0ad98489e743dff531c06f",
+  "SHA256SUM": "7fbe3366eab104b90df33905b10a3d73c6c95fb0b84cd5936cd547e49be8af8f",
+  "PGPSIG": "iQIzBAABCgAdFiEEOO3RiGdWkk4SJOSVJOTNsAE8JYAFAl63CesACgkQJOTNsAE8JYBAxhAAwOp3do3ryvtIgrtvLUAS5y7n+ZV64uTTAgf7Lxw5I/jD2kV3WY004hYLr550O9LfmqYocxfXGxjzDorz5a58oMLzJe87qp7soIHp21oraqxlK0INkME/s7TN2GbSMxTnGueeFb9HU/EG9s2xUAArxwYe0ZErhgQOjg60yGILiouZxSYANgjQ+Vm2SVBLSjl3QCB2UKJkoOqXSuIS8RmdClX4LI58oWGPTE7EQN3gRvkW1O9xq8+s/eTvv90lkrXcSWB19n7wc94fGuZZ4yHNytqGmJugTOBed1tds/srnOSaZtUdY6xJOlmzebbHA6H/NCu/J2/2NTzZWTXjxSia1w1SeCTa2q8qKh31Wnl8J4irtn2rwLhogE9zL6W337+pMHXDR1FUZcK0QNXy7HaYasxExtRDM0a2Jx7agbDmkAROF+s7I0OF6+MvxgT5WU2cJLV7gW+/7XtXNq3v6XlLNBVgjkd97H8bJbQVx6CkQuxMNKovK4YKnI6yax6QX97WeAqK/rAbquQv4MYbf94L/ZSScfYwFjG/+ZrEuA614OFDqVZbNjhWCZAsTg6NuVq4f900ojTw+rhxt8tyYldYbrs9EjaP2U4puoAkEDBY1M4fYOqWYQK+uD5i9nY7q04lvm99LXcrhG9YJ57CgnFDrwXNJhicwVXEMDGQx2CT0Pg=",
+  "URL": "https://github.com/lanoxx/tilda",
+  "LICENSE": "GPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1589053807",
+  "PACKAGER": "Jaroslav Lichtblau <svetlemodry@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "vte3",
+    "confuse"
+  ]
+}

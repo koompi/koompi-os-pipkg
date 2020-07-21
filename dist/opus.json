@@ -1,0 +1,23 @@
+{
+  "FILENAME": "opus-1.3.1-2-x86_64.pkg.tar.zst",
+  "NAME": "opus",
+  "BASE": "opus",
+  "VERSION": "1.3.1-2",
+  "DESC": "Totally open, royalty-free, highly versatile audio codec",
+  "CSIZE": "395377",
+  "ISIZE": "1827352",
+  "MD5SUM": "0865dfef970902102efa32247c8f6a8b",
+  "SHA256SUM": "7099aa4d859ac2d48537f68ba63c9b8fad7d8d6cc7358967f94e161f20ece7a6",
+  "PGPSIG": "iQEzBAABCAAdFiEEhs/8qRjPOvRxR1iAUeixSKmZnDQFAl7DlWAACgkQUeixSKmZnDRChwf/VuEfwO0iR3c4R7PvMcu9kKdW1WSLT4+/KtI7B1bR4zBKL8KJvlY2N/NZ0n+q1xxuFCSNItdPmqF9aLVuP+50S13oNN3nb5+kGl2jAkEJVcaJdmX5VClmlML22XHIa1wjCllOWLQo6dd1PxRxAf2lf2AzU6MhzmgT3YpAAj2suYrxxqeJLJ/NSWWfOI0iDZxSiHKhZAVkfjnoXTvZyDMNQEQGNMU7zgY2VfZoL/JmLro0T3P+bKGi3Ew7mtu0L3kdqjelkAWErjA6FYIqL2WHCURtqx0Zoz5x/UVrLYsEveSTk5M89zQ1P/m++ljoqEZNbBDib87aIxzzy6L0J3P3KQ==",
+  "URL": "https://www.opus-codec.org/",
+  "LICENSE": "BSD",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1589876005",
+  "PACKAGER": "Evangelos Foutras <evangelos@foutrelis.com>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "glibc"
+  ]
+}

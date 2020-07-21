@@ -1,0 +1,31 @@
+{
+  "FILENAME": "kicad-5.1.6-1-x86_64.pkg.tar.zst",
+  "NAME": "kicad",
+  "BASE": "kicad",
+  "VERSION": "5.1.6-1",
+  "DESC": "Electronic schematic and printed circuit board (PCB) design tools",
+  "CSIZE": "21767523",
+  "ISIZE": "123051273",
+  "MD5SUM": "ae20cc22cddfe44c0a783fb52c71aeae",
+  "SHA256SUM": "8f10df61eef55bf59fab4ebce72e7cada52dba57237a65e17f2f0bfb0375cce8",
+  "PGPSIG": "iQEzBAABCAAdFiEESMOx8w3dD+Z+UW0WOW4+JbqxQsEFAl67mUYACgkQOW4+JbqxQsFk7Qf9ExuegIrzLTrpa9+wxpOY1fMOs5MaRbkbe7NVAuHxaK7iNgjvZjyG8zJW3AuaFXxjiFig9QKxJ1eAR688oU1X8U7wZq38J8s+lvSu/eRHAdNSqD4vxQYFQCGB9dQpY3tLY1uIOAcGVaE1cJSRjyuSxhzksnsSNBITBf+CKuJns8SSWRpKCreTAQNsPnBxJXymS7NjlHgdTwaCnb4AAdbQaAqC5LXwQDoBezdUA/pit63U5Gij+IIerFbBeR+La23Krbfmc91D9cN2bVe7w3sk/3t7NxPynSm1jo/wEw09VfmJkkm7C20+J8rLkV1REmxmGopuiL3G378m8ml+ifclMg==",
+  "URL": "http://kicad-pcb.org/",
+  "LICENSE": "GPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1589349965",
+  "PACKAGER": "Kyle Keen <keenerd@gmail.com>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "wxgtk3",
+    "python",
+    "boost-libs",
+    "glew",
+    "curl",
+    "glm",
+    "ngspice",
+    "opencascade",
+    "python-wxpython"
+  ]
+}

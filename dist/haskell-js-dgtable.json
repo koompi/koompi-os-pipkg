@@ -1,0 +1,23 @@
+{
+  "FILENAME": "haskell-js-dgtable-0.5.2-6-x86_64.pkg.tar.zst",
+  "NAME": "haskell-js-dgtable",
+  "BASE": "haskell-js-dgtable",
+  "VERSION": "0.5.2-6",
+  "DESC": "Obtain minified jquery.dgtable code",
+  "CSIZE": "31983",
+  "ISIZE": "110266",
+  "MD5SUM": "d0b913573c5514362753c4d0d3722fdb",
+  "SHA256SUM": "bfa8a7d6cba9357bd2bf609b1a6fe3c714412b77f31b445a295c71e6e58f14b2",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl6hhE4ACgkQeGxj8zDXy5KnXRAAnRtdSGQTvntJV9Y6RzqlNDUEvrbncHgW7XRCCOh/atDVV8E6EIKc9MLOIUaQ0h8U3J+AayYzPywdFx+X4ONRhDlDckj6jR1gQIbbitNzV5B1aJXudEw9q7T8hD2fLo3YVKAUebCEWXpFwJ5NwpQRPOPvFlIR8sQxid7hezwkxncrmNy3MnJz4FOAz+oXIGB+YfaBIE7Qda80nzCYc0lioqw44EuIcHHXszgTS4Oi6ns092VmLnjY0K2ng3p0znMPBXr45uQshs07u/ZgKn613UoiFCA766PhgKz2KMlhXoU+xcSjow63kan0j9eStnGsEM4puQGMf2OMtK+vrqsMd2hGnaGVEzWzhdsuRME6k2eNpGyttnXi5fWBhd5AnULcXqmgqt9OE3vSbaQiQBtuhByL5BhCep50Gg/b052+kDJmKLRtab25/6pJo62bP0Now9V+ir9ohl8dWl6HBtSVRHPBLQDLxWSMek6wuHXEsg1nI7xFcdPzNYVImFmPnJtGJ0SFc4v6XsHfp/Q3pB/iHszO/7IIxsdBaOj29mwZEkUqrd6taXuP/4h1ie+DQoh+xNWRYPHAJIU869gMI47rF1igRuz+IcH/pxzguaBgzXK5hLklTtCvKAI7rJfprQOXv4e5auL7ElS3Xsxx2b4ikEw47t8EKSRrGbTwUCnQ2Ao=",
+  "URL": "https://github.com/ndmitchell/js-dgtable",
+  "LICENSE": "MIT",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1587643385",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "ghc-libs"
+  ]
+}

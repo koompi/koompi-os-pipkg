@@ -1,0 +1,24 @@
+{
+  "FILENAME": "swt-4.6.3-2-x86_64.pkg.tar.zst",
+  "NAME": "swt",
+  "BASE": "swt",
+  "VERSION": "4.6.3-2",
+  "DESC": "An open source widget toolkit for Java",
+  "CSIZE": "1668055",
+  "ISIZE": "3256264",
+  "MD5SUM": "ec1e44ba64a81b17ca8ab12949cfca51",
+  "SHA256SUM": "bc786f6df6cbcb27a463da82cbd2005b637f9cf28cfca7115b3ad5d472d421e9",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl6/tDwACgkQeGxj8zDXy5Li/w/+MTjX9kOKzbb3dh+TWnVg4O9vHyubZlIuNxHJeE1IakopjpxiopjWv4b8U+HVcJG4Pq8e0h6ztEekUlXlmo9qZBKEJZR8J41q49DKP3yIs98U6HtRnQKWbhjxTTPpGW5xh3zfE5q4ndMewyddwgzY2AN3/mLkeEb61jyh3vKjKTZvlaIjcJCPuFc1ijrK1SBn733SnizsR6Y0p5PR0MbSuMiKF5UJE+3gI+ohPLCT6QxkAHaWZCd7dG948ZBoelCya3O0qltaUWzKb0Qjv5Y3Nn1OUa8REeKty/0Py1m81OOCYlrNaFdF810scuc0OVctkhBRJALT8pqmdfYBdOsxSjHM9AYdQ1gavRy6oLkMAVjS7v8hxp+Yi1Hu8C440uPVW+KXpUVe0GC9ITA9U3i0FenFlPB4YjaFm91pYGenwmkTE+KxcWufexuooAfLj14+nd0zuLNmJobQxn1ECVOJkxF9VmOUqSWOzp9MPpF8oPTywm7N2g4i7SBOWiLG3Q1dFWZgecv0I9sS65YYQEfDX/RPkpHUDRK15AWC5uoD1WZnHLM109MD6QESkcmh6Yi3mOTeupgZCfVQxoCpzKvKEJC7cA8HcJBoeliaCcr4VF0Ek1P+EjKQaulN6i5TIobe8WyrQIT8v5WCSsVhq4wQppDlon+p2gr48yqW/DwyxeE=",
+  "URL": "https://www.eclipse.org/swt/",
+  "LICENSE": "EPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1589621726",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "java-runtime>=7",
+    "libxtst"
+  ]
+}

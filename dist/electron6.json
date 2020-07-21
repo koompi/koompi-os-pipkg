@@ -1,0 +1,34 @@
+{
+  "FILENAME": "electron6-6.1.9-6-x86_64.pkg.tar.zst",
+  "NAME": "electron6",
+  "BASE": "electron6",
+  "VERSION": "6.1.9-6",
+  "DESC": "Build cross platform desktop apps with web technologies",
+  "CSIZE": "40497636",
+  "ISIZE": "141267745",
+  "MD5SUM": "65ddd9ed3d08cae757c8939c1daa6d18",
+  "SHA256SUM": "c238f45f684df88b6d7ca9f57c9cfedbcea5463bafde6994eb62cd5253478a35",
+  "PGPSIG": "iQEzBAABCAAdFiEEhs/8qRjPOvRxR1iAUeixSKmZnDQFAl8Eva0ACgkQUeixSKmZnDRQLgf/Td+N6GCLRhO9b4+ZOBoW44c33iFBKI/1YPShjPDPltK/824RcDj/ViQodRin3u+PWAVpkyVQHswYfQWNEaxwlhb5ao6kn2nzGQDmYfI1i5DKRYqho35Nx2bpPpSCwHlBqOCc9ApQQ/8aStNHh3FWzpJpoq41M0Wx8XpGb/RkhTRQq1nZwPdMwQh9zdBWIwmteJeLPcpDpkSK+Sfg2WNzJtek3LbvbeIC+udjksnVaml9SU9uILc7rsDnkmOMqPeQI+ZA/4i2tNektLZN0pHuVOLEjf0eZ/Dc2TfrUf3WEmYzso1uVQSijSZI+z18bQPrYaJnE3I8Yn7KkTRnLhebng==",
+  "URL": "https://electronjs.org/",
+  "LICENSE": "MIT",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1594144129",
+  "PACKAGER": "Evangelos Foutras <foutrelis@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "c-ares",
+    "ffmpeg",
+    "gtk3",
+    "http-parser",
+    "libevent",
+    "libnghttp2",
+    "libxslt",
+    "libxss",
+    "minizip",
+    "nss",
+    "re2",
+    "snappy"
+  ]
+}

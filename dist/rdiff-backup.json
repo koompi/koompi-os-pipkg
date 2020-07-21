@@ -1,0 +1,24 @@
+{
+  "FILENAME": "rdiff-backup-2.0.3-1-x86_64.pkg.tar.zst",
+  "NAME": "rdiff-backup",
+  "BASE": "rdiff-backup",
+  "VERSION": "2.0.3-1",
+  "DESC": "A utility for local/remote mirroring and incremental backups.",
+  "CSIZE": "342104",
+  "ISIZE": "1704481",
+  "MD5SUM": "a6ae8ddc42f8868d4423e820fe67ac6d",
+  "SHA256SUM": "86eda8a3452c98ad1cc31497599120dbba01877d81576ccb2b1e96bf253d00a8",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl7GwpUACgkQeGxj8zDXy5JNZw/+LeXEtNOGv5ERxAmVVTRaRpoxUYpoFmUWEA8jxuAXPaKK/rW9Je5FkLHgCAnBXrkHWz5joHsn22e0YNP0yvU9iuYrCzxQayYZySBe4HxgkD5e/XNLjgQ61K31AveD8qYOBf2qk48DgvXjr3WjtdGayfin+DLykrvTkuwG9ClsrxijYEaTx60l0T7uybrUdt2fywWb1gjPrCT2hXFasYjW9R/YcON7jnMAYgYS2T5njDP5xnHxgmu9wwzdNIoGxlcgHZ/RYxoY0678q0ZpHBI4dkbx3fjiuritLOsVPcMgOyRz7gx648lkdWU4jU/rErsjRs+dinyMgmOIpD72rB2sCqLEl0NXGxXU0pTabmms/UAxP3x38PHwJaTKIhZAOU26exRMdq51UDfXMFyF+Mgu42NWDUhyKmGwwCOBBQjBBZqRjb8AlqAs/gfN0ko8h6Mne2zTvsM9IpqHgB0Dpx/HFogJeRdmd/SWzh+NgsI0iqBqIy0RgKqXVJVihIQ8/yGBb/52e0WLkcJpoG5vwTMqqDR+/Hf8H5TE/NvSkCNaHjikMzqLnMcNbfQSiwTvkA1+yXbBBjk8+YlA96oAZX6M0pV0dHrlSFDUVWsfJc2FlRx3QRAkXGY7W6JBvJ4UMVs9tFJvIw6QdAkQZXGe8kiBAaB8b6F93JT7jyr6zyppsGs=",
+  "URL": "https://www.nongnu.org/rdiff-backup/",
+  "LICENSE": "GPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1590083979",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "python",
+    "librsync"
+  ]
+}

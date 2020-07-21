@@ -1,0 +1,24 @@
+{
+  "FILENAME": "haskell-interpolate-0.2.1-11-x86_64.pkg.tar.zst",
+  "NAME": "haskell-interpolate",
+  "BASE": "haskell-interpolate",
+  "VERSION": "0.2.1-11",
+  "DESC": "String interpolation done right",
+  "CSIZE": "36731",
+  "ISIZE": "144411",
+  "MD5SUM": "2760c5d5e2165c9b073435e809c83356",
+  "SHA256SUM": "97f23f666ad46d6c1362715a8f2ff98e202e1fbfe811ebfeb88c4dc472cbdf79",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl75m1kACgkQeGxj8zDXy5KOERAAtKWs297o0vHJod16a1UQkKk4AqB+sEHK/mnp8wFd2K+UR0DfKGeNlwsEuZSzliadiNR0M3U1HegTR2DfFhgVdC4ymXTmpIl6JrjTC2LrNQ5fHgECB8mzEwqKcQEWuDvhC/+kNEj3TX2Tt2v4OqESDjniMlnRt7bBs3HhVhOYn8UY8vjcKNbJC6429Lc8CqvymOixJbG6mmzaHludFGRK9paUXQyAB1MVChQgYdMLeIdtiuMMEBz7jwfmk9jw7/UfjpC4MB4EU/xPKNdx20JndFEDTZ85KbKhuEwzsC79eouv+HMylT9L3PNP+I77I1obaPOk2SAHZVKpTpSpmDH8hGSgu9StTwwOn4YMEWQ+pg6dtpoqRYXIz+HX/UVEsj1QmG4FbV1RKbm5UOrIdHfyB+72y3kp7XN+Z4qVHSRiWuFRwSD7KPSj5mCFEMbUKX6/Y5V9hhCtyW9KQaLsqyD8mHRdxkqpsSJC/xH/n0j2hX3+n2dMPA3SMzC9nSM2kZo15eryZZV57L7Ozo+SjsY85K+OZ34lnzDw1XH17euzi1JW79W5p9U72BItcQ1wu7wHzDzI3nnxRV1K6HwVneTPAk05wxZiKXWXiPGNoQE8lJMWDe+QDCwgNoh9z8cgqv2T6ADVdxhHiDfEkNOt7txC5eRX60WCZmPVA9snLOmcd3k=",
+  "URL": "https://github.com/sol/interpolate",
+  "LICENSE": "MIT",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1593416459",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "ghc-libs",
+    "haskell-src-meta"
+  ]
+}

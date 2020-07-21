@@ -1,0 +1,23 @@
+{
+  "FILENAME": "java-commons-io-2.6-2-any.pkg.tar.zst",
+  "NAME": "java-commons-io",
+  "BASE": "java-commons-io",
+  "VERSION": "2.6-2",
+  "DESC": "IO related classes for Java.",
+  "CSIZE": "195739",
+  "ISIZE": "214788",
+  "MD5SUM": "cfa8a1790f9de7d73fed3c25ac3e20c3",
+  "SHA256SUM": "2e2463c5ebf6534bdc50afaa4a7813ecda2ee71eb1c453586123dea21aeec3d9",
+  "PGPSIG": "iQEzBAABCAAdFiEE5JnHn1PJalTlcv7hwGCGM3xQdz4FAl60ETAACgkQwGCGM3xQdz54gwf/USa83aAUCKU/bKM1+2sT+nvk3IGRVsp6G/cXFnK4nUtdKzWwBwOvBqw+ePKGj1EJMGnQSokX1A67W5wgH8Bzdfq1dhwzeqXb3OkydGSVkRW32+z9E+cZRXwvqBkmrV9CXwe8Yr+Zp0SLsucO7zItmnONcIaxH2dfHwGSex6qaPFZBGRrEopFehdl6k0jzCx7ywOHmKs7GyaAuGPo4ZkaCaFgOCGxg3R+JtDcwFAGueR6qVscqPeVdP5lBnkIoHtwBhuUOn0gcPbCjilvI5QvaScLPn6lPsMgq002OGOhs5ANw50MSM79haKkIW7v8LQG+h4qOvQMDVXWyl903yTnqA==",
+  "URL": "https://commons.apache.org/io/",
+  "LICENSE": "APACHE",
+  "ARCH": "any",
+  "BUILDDATE": "1588858858",
+  "PACKAGER": "Jelle van der Waa <jelle@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "java-runtime"
+  ]
+}

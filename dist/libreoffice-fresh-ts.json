@@ -1,0 +1,23 @@
+{
+  "FILENAME": "libreoffice-fresh-ts-6.4.5-1-any.pkg.tar.zst",
+  "NAME": "libreoffice-fresh-ts",
+  "BASE": "libreoffice-fresh-i18n",
+  "VERSION": "6.4.5-1",
+  "DESC": "Tsonga language pack for LibreOffice Fresh",
+  "CSIZE": "235012",
+  "ISIZE": "1332572",
+  "MD5SUM": "07951d2d93e6eac77f943a5a3a733aa6",
+  "SHA256SUM": "0904e608a8387cffcfefaecab0a2a26c0488849b451f4e3914879a39550d3e96",
+  "PGPSIG": "iQEzBAABCAAdFiEErcih/MFeAdRTEEGelGV6sg8qCSsFAl7+F0UACgkQlGV6sg8qCSuoWgf+Nmpu8vskJwHXLyv7DmktRuaTJAizSipOyQ0HvoRzHRVY5oyAJjI7oTDxrKjg3fKqGCJ81NPToFk8FCS4McYHGkBFBEkZoibAdwy1+2Z8+yleaiBa3gOfxm1w9Ekfo9NorQlajA2GGsgxeZxYVJKk2Qc2sMP9jIL3CdRAWiTXkFGGWMI++jry/TmThWfDO4tpK5mjxEe63UGL9F6gDEOSL1+uiys2BaQxoQ/lgvPQ2tS07YSuqYj5JPYR1MPsHSHktCwuSgCGBUfIZaPsErd6hJWrxVQ/5COusHvQ1aEcIrDzgoIsEbzNnJ8Hu409kVPxo3gy1ME6s65trvNL3jKzXw==",
+  "URL": "https://www.documentfoundation.org",
+  "LICENSE": "LGPL",
+  "ARCH": "any",
+  "BUILDDATE": "1593700315",
+  "PACKAGER": "Andreas Radke <andyrtr@archlinux.org>",
+  "PROVIDES": [
+    "libreoffice-ts"
+  ],
+  "DEPENDS": [
+    "libreoffice-fresh"
+  ]
+}

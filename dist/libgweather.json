@@ -1,0 +1,26 @@
+{
+  "FILENAME": "libgweather-3.36.1-1-x86_64.pkg.tar.zst",
+  "NAME": "libgweather",
+  "BASE": "libgweather",
+  "VERSION": "3.36.1-1",
+  "DESC": "Location and timezone database and weather-lookup library",
+  "CSIZE": "2872876",
+  "ISIZE": "22713889",
+  "MD5SUM": "696751ba5c30de031a7c579ce29d479f",
+  "SHA256SUM": "7f7a78122af3f966535627cdc217f856fccf32da9c4184fe4aae5f79a3a9552f",
+  "PGPSIG": "iIsEABYIADMWIQQGaHodnU+rCLUP2Ss7lKgOUKR3xwUCXuz7rBUcaGVmdGlnQGFyY2hsaW51eC5vcmcACgkQO5SoDlCkd8fg9AD8Dz9fE2ZutLi99CMYW+HkQxEZbJRpDhCllD5I1kfS4TQA/1FBUvspDNXQgagFfBGtifgWD5TAyMCTUBFIh0GmAgQK",
+  "URL": "https://wiki.gnome.org/Projects/LibGWeather",
+  "LICENSE": "LGPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1592588601",
+  "PACKAGER": "Jan Alexander Steffens (heftig) <heftig@archlinux.org>",
+  "PROVIDES": [
+    "libgweather-3.so=16-64"
+  ],
+  "DEPENDS": [
+    "libsoup",
+    "gtk3",
+    "geocode-glib",
+    "dconf"
+  ]
+}

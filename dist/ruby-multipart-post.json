@@ -1,0 +1,23 @@
+{
+  "FILENAME": "ruby-multipart-post-2.1.1-2-any.pkg.tar.xz",
+  "NAME": "ruby-multipart-post",
+  "BASE": "ruby-multipart-post",
+  "VERSION": "2.1.1-2",
+  "DESC": "A multipart form post accessory for Net::HTTP.",
+  "CSIZE": "19856",
+  "ISIZE": "49492",
+  "MD5SUM": "f5a1196b20bde3545cd1f2cda2222935",
+  "SHA256SUM": "109e1410fa4a7399b65e897c5a610b9a5b099d2671e27b29e10e92eb2a99e9d6",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl4D/QMACgkQeGxj8zDXy5JyQg/+JvplTXWvmCreotbOV9fx3EjD0dW9pb8jHtiLd7oOls1MfdTEa4yTh9TksoQbERePVJpm+V8eS6s+Sd4fG7NS01/wddSyy2bOgRFgG1CoGQ10eEjW4LurKLNVEbRchiJddTvD1a9ZdJEzqA68FWHu3FcVi5vXJUPwKN/YhpmQUYzb0AVemO18myWHIGrUT7Ir3eAvSBkVHoAP2dBWcu7f6B/ta1pMpjRxlLLBLeu9VqRNeE3bQv06C7Zw/w+YOhpXt/DjsDH3rNEgnXBeeR+jxcaAOttcgsk8ktjUwwX37wYcRP70t9B49ijJpMJrzBW98XKMw10dWX8gMy7u1arzsmn6dWfHWkqoNWp/S66jwpJvs54Bf2x24CV0G25ZDYLrC0/tQcCKEOHIX0NpMn5rWAvZ7k4dSwz9y8VdvhD9wcJzyqjpNW3gvnT5B/uRQxHxvaq6RQdb/WeLosLulJ8Al2CUzUrFlvmqBv5BKc0i63FZ+NhAEAB8QMatoPMSa+Z025ar+ncfTUa5+kL95vu7ZFxTcN12YSxJVqLVBdrFzDdAIk57MP9GfRTwsn1FxrAnOJ2K+FX4vqTKXepBuYC8cReDliqPBD9Tjq4jonkEvCLi2p8stiAMdMg5xoIDXHtGk8DniBZblyD/7H84bho62dWq+7kgtklU30gSBl9IWdc=",
+  "URL": "https://github.com/nicksieger/multipart-post",
+  "LICENSE": "MIT",
+  "ARCH": "any",
+  "BUILDDATE": "1577319642",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "ruby"
+  ]
+}

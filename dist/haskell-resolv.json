@@ -1,0 +1,24 @@
+{
+  "FILENAME": "haskell-resolv-0.1.2.0-7-x86_64.pkg.tar.zst",
+  "NAME": "haskell-resolv",
+  "BASE": "haskell-resolv",
+  "VERSION": "0.1.2.0-7",
+  "DESC": "Domain Name Service (DNS) lookup via the libresolv standard library routines",
+  "CSIZE": "280724",
+  "ISIZE": "1616521",
+  "MD5SUM": "f4d91d89b501da7a593175d6dae78a9a",
+  "SHA256SUM": "29ce7f0143657c3743e9dc2bdce0a7583ad8a6a870f4f53cbfabcca66f813ab5",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl75ErAACgkQeGxj8zDXy5Ihkg//Z1lz6cA5hj35E+vuuAEiKkNO2KIu6KYH8tdxY9xmezsqnCEyJuS0GVG7VTxn2Da9WTUh6JpWjIQU4GUCbvmombU/cL5Ba/uqHvYGGHylRFZKEWfqe5x/WjsuCt0RZg43ZFC5iThBSBCpiLbzJ0hTKQYCWli/qH/Y/tRa2uQYRkuDc3gCVMBBh4euYyZPpfrO2GsQm8SD4wooWRLfTVEHS3Z5g+pqFbXYmfrEwJBk7i09BHZtBlTf/XUy+v0V/KZ3I6okxs4sM11XC5ulmcwiGRtCqamLGnSISqv2Qnizp1Fd7AVXz5xcff27FXkLP3gnw5Zsp7rX+1J8jWTX5lodZcPFW+ZleWGIWt0UMBPAaC/JJg9/nvCjD1v5hlQ4z/mqlAhjwJB5NOCByx2aq88+2G8cgw1BdCk5Ml4b3gSU9DvhYQeTE+efesS/gSgGbGGizwaO6ESL9KQYTt0TeqCHQrqOsenKT/jQ3IX6kkjEvy0h4Abs2OV9qkRDJXSDULqqWaqwObw87j3avavO/PMHRjIWSrjDTmt+vB8t5A4gV96fTvd93pSSYKkHgXX2mrvUVCsRbawdQCGEJzpu8UjIqskle6RoYU6KQG8nxo7bqBzooL5o60r6kKW5cfCe6Pus1YvUd61WcN/6xiE2M6BkbgOr1JSilgnmRuZ1xHSRTxA=",
+  "URL": "https://github.com/hvr/resolv",
+  "LICENSE": "GPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1593381508",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "ghc-libs",
+    "haskell-base16-bytestring"
+  ]
+}

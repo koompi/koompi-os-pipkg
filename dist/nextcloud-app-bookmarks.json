@@ -1,0 +1,23 @@
+{
+  "FILENAME": "nextcloud-app-bookmarks-1:3.2.4-1-any.pkg.tar.zst",
+  "NAME": "nextcloud-app-bookmarks",
+  "BASE": "nextcloud-app-bookmarks",
+  "VERSION": "1:3.2.4-1",
+  "DESC": "Bookmarks app for nextcloud",
+  "CSIZE": "2313076",
+  "ISIZE": "23692236",
+  "MD5SUM": "558ea714bc49a82af497b3bc440bd83b",
+  "SHA256SUM": "a4651a7c0d1343923ac7c02457b750b11e653516c5fddbcbc0c61bd8995113bd",
+  "PGPSIG": "iQJGBAABCAAwFiEEPlGL8lJv0Zeeiq5JZcEQwepDP8cFAl8AX/ISHGFyY2hAc2VyZ2VqLnBwLnJ1AAoJEGXBEMHqQz/Hz8UQAJXvuGCIvMKbtSZ7QvpVt4NJjWkJQdUS2dawX2gsPPSeJFHlOEpaUBvBRRTpQCuBcZ9qZDoZ1qB727A0lQzD8K/eXXwIg5rd2Gwfl/8UrbJwmvexbmc9uu8BRdWRqAwpCWUUk2t1f1YRnmcezE3XKt14H5XDr/hsBVLDvRMdEa1+xO4bUdJ2PCkTmFMqfdeu9CwdCdXAytutMmNs30dq8a3SY7PXU8S1LNf3WHjS43BaylURu1yF2b7Pv0WOKwQhmy8J8HWdzbBrSS0Ttmnm0s5F+4zZ3NjjE1KCq/gn+OEMck8yKB6PY2zt3IpAVesNNHG1cOyRywwDh8RRGdsXs5FQrr+s+yGs7Ie8HQyG/+kb6W83ZzNPp6pHV+B+6vz/YQJLKflh9pcfEijQ8sW5EKu/TpcZGNsKTEvfhyiuKuGg1p3Gsyp5IUJDUw48de6kXL/isgGdn9VGUrY4QQ+7jOsVOaajeuShIZ5rPaV3sCx7/TqcVzEG3BvhvUtpWYKHgQdM8HbIuQnolEPoYUMiS34iID+4ytpOBjXofWc4aPtJp79NYxBgeF87bataWddm8qQTtDyWyqpR6W684rormxdVYRPIvaCkAgWk89WfZMUB6AuH6vkpJrG+te7lHGhzbb8zjpC/+P2loG7/TXaZ+byTAQcVZx8jcnWyIRoU+Bus",
+  "URL": "https://github.com/nextcloud/bookmarks",
+  "LICENSE": "GPL",
+  "ARCH": "any",
+  "BUILDDATE": "1593859983",
+  "PACKAGER": "Sergej Pupykin <pupykin.s+arch@gmail.com>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "nextcloud"
+  ]
+}

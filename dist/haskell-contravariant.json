@@ -1,0 +1,24 @@
+{
+  "FILENAME": "haskell-contravariant-1.5.2-6-x86_64.pkg.tar.zst",
+  "NAME": "haskell-contravariant",
+  "BASE": "haskell-contravariant",
+  "VERSION": "1.5.2-6",
+  "DESC": "Contravariant functors",
+  "CSIZE": "57558",
+  "ISIZE": "394030",
+  "MD5SUM": "a6b55d0f56c04206c8072ee0c93070dd",
+  "SHA256SUM": "d36d98a8d0b371d61591711a8df31519c37c03d7bac52ac123d58a2c1df9419f",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl6hsw4ACgkQeGxj8zDXy5KSZw/+NNOdsUrjK8P2J5BcG99ndUeCa3DF4C/H+fMuh2bSr5pA05HoBcJrBzHp+/qXnmGTe3iXklWWsiwpa7MwvSLWQYGkZJ/F/3GW64URigqcCNOXoWw2QEf1og65gC85giGVzCSzcbqmEjCpuIp7F/7cwK4qFkCmK813rHSP6852yeG+6pcbEOecxRLgh7Q2/0YSf+dXJqu58y2LlgvkAubYd89pN7XEU/Zv+H3JNCAub2Aqqxl0OiDeqAvjDbfFTSZjuc1ehGjME0UTpCOGDkVezR3d3nOKofbk0TOMKqLbQtrPKG7z2LncjDelriCnHKyT6g8RXzWfj66SeYPZjnjl/F//zYa0WAJNan62zui8pQlKRqUG+qa4Nft3j3ReZQ0KPGLaabkQ2Q2KuqzEf+tLUV+kd0zDCZ5yoK/MrxS5k7SegrkKHYU7dzMdu/nNvKkszIp0bU3byMcgbPNQi+OqG0ZTfmlefSnsBj6M0Q6DdZzqjXZnFh2NjSH7l456wJrLfakTuFHVIQ/ON3hCKhkxwTv6wH9Z4J864LfZRUM6ArV/CWLoOSgUVhM//Cn50TOTFqug4YXFLuNTO74H4bHus1z0Yp0MG8DtEGlkbW0M4tXEXqJqNUe/JCJdGIoQKKALsRCx3F6o2vLatPswzYunXOJIUGP/KMfIZUu3ehKNBJY=",
+  "URL": "https://github.com/ekmett/contravariant/",
+  "LICENSE": "BSD",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1587655342",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "ghc-libs",
+    "haskell-statevar"
+  ]
+}

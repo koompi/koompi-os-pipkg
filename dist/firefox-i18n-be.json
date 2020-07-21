@@ -1,0 +1,23 @@
+{
+  "FILENAME": "firefox-i18n-be-78.0.2-1-any.pkg.tar.zst",
+  "NAME": "firefox-i18n-be",
+  "BASE": "firefox-i18n",
+  "VERSION": "78.0.2-1",
+  "DESC": "Belarusian language pack for Firefox",
+  "CSIZE": "586018",
+  "ISIZE": "647660",
+  "MD5SUM": "20a85570b74cc24d70c242934d6d7882",
+  "SHA256SUM": "75a47fa180b6a7306a9b60bc0ad92c162a037f37ccbcd28971cb3203b2675133",
+  "PGPSIG": "iIsEABYIADMWIQQGaHodnU+rCLUP2Ss7lKgOUKR3xwUCXwelnhUcaGVmdGlnQGFyY2hsaW51eC5vcmcACgkQO5SoDlCkd8f04AD/Q2E952LMpKPWRiKYXr7TpOk0YyI0szUF+DOGgx/iq1IA/2+CEibb8XSz/NUStc5jwstpA1rOJ1S206xkQnBZ7MAI",
+  "URL": "https://www.mozilla.org/firefox/",
+  "LICENSE": "MPL",
+  "ARCH": "any",
+  "BUILDDATE": "1594311501",
+  "PACKAGER": "Jan Alexander Steffens (heftig) <heftig@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "firefox>=78.0.2"
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "FILENAME": "networkmanager-vpnc-1.2.7dev+20+gdca3aea-2-x86_64.pkg.tar.zst",
+  "NAME": "networkmanager-vpnc",
+  "BASE": "networkmanager-vpnc",
+  "VERSION": "1.2.7dev+20+gdca3aea-2",
+  "DESC": "NetworkManager VPN plugin for VPNC",
+  "CSIZE": "148452",
+  "ISIZE": "674205",
+  "MD5SUM": "c7ee047a233e5aafcc5e6022d4018694",
+  "SHA256SUM": "1d561580987f646942829592a1b1c7ccf36ef8933cc27765e6506d181009bebb",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl7DkRkACgkQeGxj8zDXy5LkGg/+N8uEqG+96xOtUDJbVcN43woEDp7I3KS9oUhWV7IDtZvbBh2JBUTlmnUsyTzS22OR7vioe8dPkDOwqpFiYvMrxoBh8QITq4ECuVxY5VqBKwRp+rp/5X7ejE4AMO4nU37HUFyIt2E7t8Yaewi5AR4hPS8O0MNq+L+ZOLsKXbwVnmNPOvqrAyjPfmNeuhj//RVlA5MRYmJVN91WhqCLsWp+ZiQ7liZC4EMZdpgWsHGJp8PgPMbix8k0R203h9RzgVWfYUO17GXa3UtmtnD1eBNKPNyQfHECUtNnqJbleLk/UVEdxpLLoXxPJCO/RbiLnKshfWRZJLHx1sjCvzOUbYIRLnoCv+4cx56YVp5V7wHw+Uxf3dzXXGUrKtgNOFncUDXeHqCacktB0TauawqEYNYTTJIrZr/kJK65JAbWg1sY+LIrWELtFdpDrOCYk8TqazDL9drfie07cvUWR0VDtDjBf6uFjqPe7JVCgaBvn0aHg88MBg1Rm2R2qMTfclJy8Bh05EafRuYY8TZEEzPTbPxIVIo+Z4VCMTz3u9ldiIEmBZwOFmMUfqNPH4ZGSTONqSgmOF0WgGZXvJ+ew1j5DUF07qfpIr9XpkCRa2nKKTZNqx8HgcjysPrckwWfXKhp5n7wFlgcZTCNuUTBlw5j5hqJYKFXMkuuh/y+L0eWWG7W6sk=",
+  "URL": "https://wiki.gnome.org/Projects/NetworkManager",
+  "LICENSE": "GPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1589874893",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "libnm",
+    "libsecret",
+    "vpnc"
+  ]
+}

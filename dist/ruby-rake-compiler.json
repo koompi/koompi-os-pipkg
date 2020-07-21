@@ -1,0 +1,25 @@
+{
+  "FILENAME": "ruby-rake-compiler-1.0.7-3-any.pkg.tar.xz",
+  "NAME": "ruby-rake-compiler",
+  "BASE": "ruby-rake-compiler",
+  "VERSION": "1.0.7-3",
+  "DESC": "Rake-based Ruby Extension (C, Java) task generator",
+  "CSIZE": "47540",
+  "ISIZE": "222269",
+  "MD5SUM": "779502a60df4d47364c9abfc0464d603",
+  "SHA256SUM": "4510c7e2d72af8d85f757f5972903f06239f26fbaf89194be9620c9071bc6fe4",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl4D/m0ACgkQeGxj8zDXy5Lj/BAAh+ZLp/u1EsK5lLiNNQ495x03Qa8/v2gPN0Xqs5hdnGABEE5YySryeU4orln3wJ+MIF80Fcrshwz/dVD+ZHCPmPsz8HQxyd90epvBbdOYqQYtM4Av8/TjUwpCmBhAN3XkiNs2JeE945OeFJi6Z1KjFTZOw1k8IBeVaRn5tnfg3grX7C4Gl371IUVyKyoiTJxRYTl1hdZ4Nw+VggdWHzfoPSDI2fwA9Mw2cKLu8w2wUp1Bh0qklrswCY/B7oFFKqACyKOmGZaWqGY8PbwwrtATYT/40hfXC1JXY0dEJxhvYPZ/t7rPquDRuwQAZySOaKktg2AZ9D6ZtrccxiMuKJWn+oPKb1TBYU1Aua2bH9qTHbZ6yzlQsDI7GbwYr8FoFEUsH45j5d3qVxrga1H4+2R5fQmLLHeaoYyvKdZBXlGOyqsxaxHXtzOFsLCBHPfgdkg42UYqVisLfQsqwzSXr6yla4O/39n0+F3Txt2tLQtkdl9jv/E4c/NMa848AKB0UKh5m3gGZjjHYDOh7od/ATUsjzcGfp/AsyglcKuKQemjfJZuQxppERjXPrO1Cdi9AN67w32Pno/emauoXBdxnKdUTBgRNxdxmPBWnc6rQGpYIbStkDY6P1AwFtzao1WsnVKHdc9hdnNXUxG+ZIGviP9gMZ8hvA+5kc37G+DBd8m99gs=",
+  "URL": "https://github.com/rake-compiler/rake-compiler",
+  "LICENSE": "MIT",
+  "ARCH": "any",
+  "BUILDDATE": "1577320003",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "ruby",
+    "rubygems",
+    "ruby-rake"
+  ]
+}

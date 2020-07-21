@@ -1,0 +1,24 @@
+{
+  "FILENAME": "haskell-vector-0.12.1.2-25-x86_64.pkg.tar.zst",
+  "NAME": "haskell-vector",
+  "BASE": "haskell-vector",
+  "VERSION": "0.12.1.2-25",
+  "DESC": "Efficient Arrays",
+  "CSIZE": "844540",
+  "ISIZE": "6810164",
+  "MD5SUM": "b213c8e4e24b39effd7207db72c0d45f",
+  "SHA256SUM": "b39e3cbe9c7e56f3e31ee86864af2b387d583907f8e01581c999a44b397e1a23",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl7497AACgkQeGxj8zDXy5LOmw//Xu/ZQur0zFC1UrE4L2CG1HclZaDTW3CCEhmDaB8wstcg+NdndggD0HoofmAnFD2Bk6IwnDJonUhO3Rbl/WgrXvUdbrEeyOH2O2S/WzRfGSE18ZxYwyngy/E0LLDpkH8VqiOqTOwjn0YE/NZXIkRrRnn9yRUms6U8CRL7zXBvkJy/KRr8IKa8L8myzwE4wuMpvoP4KBDHMcfsykDCbQLQ5AYf7/SWyTtpKjQAumtqdVO2AhsCkYe6HY0CSL6C6x09mqaLz44gxgMxkHAXRyndASnsjD4KGrciqqG1GultE6niBF7GqIuZol9nwYhi7GSeaygAiATfV0mlp0Y0/Ip/kxmmYplHqIprnGwCH4I70HkMmUYL0v7D+kKzVJNkkK2AIUbZBC2FcqF95iKB6HJlqbQJ+2eRhfOi2CDDabCKnl2hN1uIfAQkj6bv+OVnULBJujVfTA6qTtwxtQAFqV1tEVflpMEqQE9vejmnXxIfB8aOYNH8u1yXkdWeeKja5qzzBgW7gU078st6hSblfgNCMHjOlPsCn3C2GqPDce2CKEE/DhjiYLt2ImN7ZZbAK3gF6KRnK9gccsn1lrswJ3jqPW0SE1pLe7+FLESIG9tz+/xlKbAVRocH8AbKhebbOBcYq3XPqd0m5WL54pX+ZFsVU5kGGtaH+VGB1CBNpHm1vOo=",
+  "URL": "https://hackage.haskell.org/package/vector",
+  "LICENSE": "BSD",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1593374538",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "ghc-libs",
+    "haskell-primitive"
+  ]
+}

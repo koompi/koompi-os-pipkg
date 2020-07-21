@@ -1,0 +1,29 @@
+{
+  "FILENAME": "lib32-icu-67.1-1-x86_64.pkg.tar.zst",
+  "NAME": "lib32-icu",
+  "BASE": "lib32-icu",
+  "VERSION": "67.1-1",
+  "DESC": "International Components for Unicode library (32 bit)",
+  "CSIZE": "10109963",
+  "ISIZE": "33972593",
+  "MD5SUM": "3dc43c2e0acb1ca44c972fe98f1a0e95",
+  "SHA256SUM": "b0597bed42fa3fce76eeb986880605d2b4df52d1b1452d38c7c55e66bd8aed0f",
+  "PGPSIG": "iQEzBAABCAAdFiEEhs/8qRjPOvRxR1iAUeixSKmZnDQFAl6meOEACgkQUeixSKmZnDTpBAgAjzSRqP4cSrdSsJ+TQwlxHvQgLJ3mmCgoWrC9CtXp1of9BbAth0DdwwbLW46U89Z/2cOC2+7dqfAi3uHjc/VUz4g8Rg4PH7/BxY+VlQ/iw4SBsOg6p63OxQmEuVK99Ljk4u5r4/CjBjTbtiSfPPOnVHND8cPqBlMqqVIMefKqRy1tff00X4NFUcsRIz45qaqklXl+syc5ES4vN0MBiiOkEE42SRprZsU1sSsaBx/KcKKpzyomcFHvAhVHhB/qZtfICzRTjOcfqC0zpP+OR0s9GbXNr7D5Fo/NLpwvTFs38wahWQA8EbNTAdw9/n0PozGE2nofxHloM7ZciEakdVTlSg==",
+  "URL": "http://site.icu-project.org/home",
+  "LICENSE": "custom:icu",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1587967905",
+  "PACKAGER": "Evangelos Foutras <evangelos@foutrelis.com>",
+  "PROVIDES": [
+    "libicudata.so=67-32",
+    "libicui18n.so=67-32",
+    "libicuio.so=67-32",
+    "libicutest.so=67-32",
+    "libicutu.so=67-32",
+    "libicuuc.so=67-32"
+  ],
+  "DEPENDS": [
+    "lib32-gcc-libs",
+    "icu"
+  ]
+}

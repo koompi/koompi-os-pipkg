@@ -1,0 +1,23 @@
+{
+  "FILENAME": "firefox-developer-edition-i18n-uk-79.0b6-1-any.pkg.tar.zst",
+  "NAME": "firefox-developer-edition-i18n-uk",
+  "BASE": "firefox-developer-edition-i18n",
+  "VERSION": "79.0b6-1",
+  "DESC": "Ukrainian language pack for Firefox Developer Edition",
+  "CSIZE": "586953",
+  "ISIZE": "648540",
+  "MD5SUM": "e8b692e9dfe027be921c95e65e531cf7",
+  "SHA256SUM": "39e57d85655429748a0918ffffece9ce874128721496e4b70b420984f655c810",
+  "PGPSIG": "iQEzBAABCAAdFiEEYB8g8dG7v0p4z1tt9rFhCz7NvJ8FAl8IbNMACgkQ9rFhCz7NvJ8nDQgAktU7nUtU6BuoU0fWDPvsur28cNatWb/F7cqBvhB2Y/tJYRf+IEaPzZOsBNOKGHHI9087VDt1uzoA6D2I18NVphrwVlMOuzTFqkK+ZSoN0KMjSAR2l4Vo4wjNjB46Ml/tJXI3s9IfTUGLkSaArgU/f6cc1/+MDRiP/PwQ/DZyartq1xRxrKOwUFCJqE8bnvFchC/WWkotLfZ7YVyi/ceYsQsrUvznQlykWQDhYDmSHI7JCWRo/oICLjGMa2rhjfHRclff3KXRX9pFyy5lo+hOuWkgcnWYRxPVJz/eoQQJvOL3DWiWVKR2Qw8DK0d/rJGvds5bfQWaKwm3PV+Vg5xx2Q==",
+  "URL": "https://www.mozilla.com/",
+  "LICENSE": "MPL",
+  "ARCH": "any",
+  "BUILDDATE": "1594387381",
+  "PACKAGER": "Andrew Crerar <andrew@crerar.io>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "firefox-developer-edition>=79.0b6"
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "FILENAME": "notepadqq-1.4.8-3-x86_64.pkg.tar.zst",
+  "NAME": "notepadqq",
+  "BASE": "notepadqq",
+  "VERSION": "1.4.8-3",
+  "DESC": "Notepad++-like text editor for Linux",
+  "CSIZE": "2989456",
+  "ISIZE": "10685617",
+  "MD5SUM": "c95c52bcbc761d2c48f32709d93de1a4",
+  "SHA256SUM": "43f5580d843ec342c3c151c865a4bfe5e91744318512ba10b053f90c2576ffe5",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl8EsQoACgkQeGxj8zDXy5LTwxAApniSBLU+sMVhFvgKHX5MttWFsQCWkLoq75Y3f/9o2GZPCijvgOb43cXx9id9dLceHsXBDi4OAdEKq7qCPjd94ecjVXRGqUfs57HpWwnJ5cW4Nz1SDNLxTlOIkYJmvXiUud1f4gokAfcLecobxbHjvLs8Feg8Xq+0pZuVf51ixodqQiL4Ew6sPoGV+rtCE3wMuHw7x/hIX6JdVfcWWegTDGMTOKOIkXlQy/QHqV3AarE1ZA4wX3s7EHJfnAWP9p6//YDqj2Hp1k0mPRSkJ/tWSw/MVJ+wn4iDY/4amfRGNrMHJHg6Sz4uzZgGHn4AETCbiENX6BE8WReoOC3QyRuvtPmOawkXCQEfOusOuNE3ihSOiqXMz3xdFFsd4zeGdbMxGcaFckjXsL0C1lKviKpIuYzkxpCwV2fGyfxj309rm/KVhi10VkqeKN9Ehrlod8pW+JhxgfTEcqhHJjyL6b2aCYvekeY5bzGC89PD4WxlB6Y9523ozzyihvr9hVvt3Ydt2HTlatrF4j2pxiWA/k7Y04kHLZLBGN0yAqqsWRakjUFJ49uX+iARgmaF8Eq8oh6pPZb5xXf1E7jihKahM3rrbj9FsrDy9446M5Y5KQ3WdV+O5FV8vxPo1qo0MleQqChMt05L92/fDUBQOK7Yd/DiXH9zGEZfBc+YnkqpfFry30s=",
+  "URL": "https://notepadqq.com/",
+  "LICENSE": "GPL3",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1594142697",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "desktop-file-utils",
+    "hicolor-icon-theme",
+    "qt5-svg",
+    "qt5-webkit"
+  ]
+}

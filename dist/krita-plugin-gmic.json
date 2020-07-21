@@ -1,0 +1,24 @@
+{
+  "FILENAME": "krita-plugin-gmic-2.9.1-2-x86_64.pkg.tar.zst",
+  "NAME": "krita-plugin-gmic",
+  "BASE": "gmic",
+  "VERSION": "2.9.1-2",
+  "DESC": "Krita plugin for the G'MIC image processing framework",
+  "CSIZE": "700135",
+  "ISIZE": "2020705",
+  "MD5SUM": "4c0f90f4c6b4a58de1163d377e9c7b2e",
+  "SHA256SUM": "aa351a193c864dc36c814ed910f9055ed1ed00b9db28dcc52d1b4ed9f4a69906",
+  "PGPSIG": "iQEzBAABCAAdFiEEFRnVq6Zb9vwrc8dWek52CV2KUuQFAl7hY6EACgkQek52CV2KUuTaQggAofi8KfVuDcImqCzxgJSQ4M4bifTMkLi7Fo2QC/FuQ3VJ6ilMyDLH8lMxW0OEO9P1kVmLyRf0EKu4JbO/ZhDboSnX4Rt1RYV1lwFH2G9gmXDNT1xJd7nSlZWY7zz6Ohb6ODdaJ7RkSaZBMA7/KtlJkoDZxJDijpT3B5NR04suBbv+EMNh8641fQTDfg6xFzabVhZXCUdDLlcNeT6xkRn4EVO+Em+2jRBTw4MgpkuXPiEnjZRwq70X1SJhir0sqGECSi/LwQNuzQlCMiYfPkZxABYeHULr7SLDAVdkSvt4ORTgvlo4DVDHr/MKCbnnspKPGTqkPpP7gTZBdaVkfJklgg==",
+  "URL": "https://gmic.eu/",
+  "LICENSE": "custom:CeCILL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1591828908",
+  "PACKAGER": "Antonio Rojas <arojas@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "krita",
+    "gmic"
+  ]
+}

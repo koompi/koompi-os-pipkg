@@ -1,0 +1,23 @@
+{
+  "FILENAME": "haskell-cryptohash-sha1-0.11.100.1-16-x86_64.pkg.tar.zst",
+  "NAME": "haskell-cryptohash-sha1",
+  "BASE": "haskell-cryptohash-sha1",
+  "VERSION": "0.11.100.1-16",
+  "DESC": "Fast, pure and practical SHA-1 implementation",
+  "CSIZE": "18743",
+  "ISIZE": "45917",
+  "MD5SUM": "d27412aefb6b2b1d2db6343fa9e639c0",
+  "SHA256SUM": "cf7475f724812c83effcc85b6505986123106178faf55c19d6df5ae5561f0a03",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl6hcKoACgkQeGxj8zDXy5JlJg/7BlAYBXoEE0n+rTtGanhDMAY/XA3vDJ8OSDiCLVTonTTeBdYHePqsIU0TNk0KtpfeewcFJS7vr4s/WDdQ1DDpeDAFoteFOmT5WhWJlfd/4BWiMDFBFnplU5ZRdkb+Fyun7yJ6ArJK2R6U3kSSEbd1VIWRY8QGRiTGniriubvESwSwZpYJUZiUTk7f6bPLW2JSWAH5i+FglACln4KmTWHGegagX57/X30iOYb59ufuQd79kBaBz+VDGn3lucEe5FltK/5HaDYg58ORG+BBuHcbS6aPCr9+o92nkIcU1PvYEWJ7rjocnXxMnGxyJEtu8mm0E8EJhRQnEPPRXHyMtPxXGydLiCk96L0z8QKiybYyF3is1bYE8eAgu+yGwqtM8l+N5KzTBAhJpr/Tma81oNk7GEMzR2IvUrZtfcV7vaWZ7o11GpbMMYDxsWufoDZ45C8oQ327pP+dSVsvgsSujYl8jIdWl724bpPPo26Dh27/vSMAecLuL5Hs2GS2NptwDRps1nB1RwvLubWRns+nBbCBvZ10MqZ9p/PRNCqCEIO0m3ctvddWME1BI5X8Xl9iF0kz9LX97Yg1rhgC3duO8l22NbDWqkUPGWrI4H78MialB1vJOe4/hcNqBE77f3xCtKW/hFfTFYpGe3xN9zwuqlIVKKS/IMBks4xkiy+l2w/YN4g=",
+  "URL": "https://github.com/hvr/cryptohash-sha1",
+  "LICENSE": "BSD",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1587638355",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "ghc-libs"
+  ]
+}

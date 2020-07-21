@@ -1,0 +1,25 @@
+{
+  "FILENAME": "signond-8.60-3-x86_64.pkg.tar.zst",
+  "NAME": "signond",
+  "BASE": "signond",
+  "VERSION": "8.60-3",
+  "DESC": "A D-Bus service which performs user authentication on behalf of its clients",
+  "CSIZE": "356221",
+  "ISIZE": "1341908",
+  "MD5SUM": "62589445274e27a3b76d01ffc2209239",
+  "SHA256SUM": "f5246c7f4b5ad336f6c19d3b7ba07046245df92024ba0ca64e2bd42c0ad38093",
+  "PGPSIG": "iQEzBAABCAAdFiEEFRnVq6Zb9vwrc8dWek52CV2KUuQFAl7ZYo0ACgkQek52CV2KUuTxAwf7BiPxAg7LoGmw3JwHi5cCzY3WrVz4xPbErXJcOaqam5D9hdGGMbmV6yRlttLYpT7512X3b00dYmLWIV2DWlILKAuA3mGpmU7FqghW8HiU6cG7GlZBrCTiY59vfutlVi3fcKTUwv5jp4s55UGSpPgfTdCGj8YmdxqORWABAo7GRx7z2jbScn8PnR0FDP61Zclcu2+RBjnWesLQGVNFw+pphr5GmZ46bR3wxbddMEAPT/qzvWuRGvrWi9ovEmFphJynbdMRoI6lCbviuFCI8tUTbpQIRbbHVbbmBECOKnavXnaRtGXFg+WWNQYjJS6Y8zLkiqvyPzu5yrUVwT0wY35+bg==",
+  "URL": "https://gitlab.com/accounts-sso/signond/",
+  "LICENSE": "LGPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1591304344",
+  "PACKAGER": "Antonio Rojas <arojas@archlinux.org>",
+  "PROVIDES": [
+    "signon",
+    "signon-qt5"
+  ],
+  "DEPENDS": [
+    "qt5-base",
+    "libproxy"
+  ]
+}

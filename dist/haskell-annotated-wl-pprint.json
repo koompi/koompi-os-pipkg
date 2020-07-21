@@ -1,0 +1,23 @@
+{
+  "FILENAME": "haskell-annotated-wl-pprint-0.7.0-18-x86_64.pkg.tar.zst",
+  "NAME": "haskell-annotated-wl-pprint",
+  "BASE": "haskell-annotated-wl-pprint",
+  "VERSION": "0.7.0-18",
+  "DESC": "The Wadler/Leijen Pretty Printer, with annotation support",
+  "CSIZE": "41166",
+  "ISIZE": "176747",
+  "MD5SUM": "14bfa364d32f884e90c579e48e545f8f",
+  "SHA256SUM": "d42146f55ada6da0a0ee14cf8996c26200abb6f241aa7c21313046e0fa0c4522",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl6hbCwACgkQeGxj8zDXy5J69w/+PMpslScG+EvqabPA0hcVJlKHyF8rttNm/WZ1wNjN3jfFWR8k6ohWYIdq883ZWTHdEjuyMk+rxYlsttrMdT9q4/t9pG+E+VVWOsj+As9r4DZ/i8k2QrqPjIegmS3uMLtQw0I3YkObXXGH8JBGi58QaJFAibBr/1xWRGoQaY+bVuGvNTtj23AovTMiE+rZRilJpIOTYYw8u5mw3A+Ark/9q5xlCfbmDj7hI5fytfmNOFPxFJOHP8c8Xa/gSPmUTCa967KF9KSdlrDOaaAub8b5v3ull5Q4rS4TSAocyKt6FEiDnEvEFPBZvoNB5KSBQV6ZN8KeUsD7OV664GS47YG9popu27qwH3Aryhusm4XSh7JBc0xQZ0ILpVdxOEhZHmzPONiqYi6OOvSJ/6WfMTqroKtFYzRiyOOCyQOvv5MwKbGGZ09fzO/5cNzWugBtskiGeQfG7/XmRkBi9X1C6nDeacqYfMfTUFjWoAcYaxRU8zjGQU3A3LaPxmsgQcuf9qE9mB+jDLQEB4QamhcBeIFruvRbroSilLbR2aJojD37tBipLkkZfacSL/pIxP6Ius5M1kNG6JhVgftb530xfGcsIhGp5sbRWPsBfGTnXJ1p0imR6iTE1M+qyoJaR5jZWMlesIQYx1MJhoNPqsiDrWKZH4Z6VTMkWuByS1i4QqOlyi8=",
+  "URL": "https://github.com/david-christiansen/annotated-wl-pprint",
+  "LICENSE": "BSD",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1587637207",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "ghc-libs"
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "FILENAME": "fragments-1.4-3-x86_64.pkg.tar.zst",
+  "NAME": "fragments",
+  "BASE": "fragments",
+  "VERSION": "1.4-3",
+  "DESC": "BitTorrent client for GNOME",
+  "CSIZE": "434793",
+  "ISIZE": "983443",
+  "MD5SUM": "b464528af987d19816a6a3fc5fbcdb98",
+  "SHA256SUM": "d38b8868e4e8a16a3f8a192dc4c231c9a6ea7f2b5ea0a36f75e96d4bc1b4d44d",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl8EcEQACgkQeGxj8zDXy5Iv1hAAhOb5C51OmUHOLrjPZ49jJssmfpHW4Yi2U+HCsH/JkwI6ALHenjjyfCNfHuiBoP1Ehg6hmVDkOjrJLXFIWAGHr3GyuCnXFXcALLLnP+bq3JIYlOKfpHV1bU1j3E3OoyVAp0wXeD6mNgmqC6SK+TUDG+r2SH6JrAHYR2wyREDpC5I0AfnYF4xzpRsTWONNjvSKATy4FQmE9uEmpjhPksGbzadrAISAHgO0wYcVoPrWVd6ylrLhx3azYhMMUg6G6HR5iFa7/F7EeNqjrBaNcy84popUqNU6GC9g2z5hKrUvs1TiYikEg1Mx5VGnIbrOO+9rysH2ABNUz73mEtht5B8IEOX/Fg6iRBx+XEDagB+mgQQQTnyU+LxC1PfoLU9UtL3wvbXA/lPAbDN71x65U/XYdRLd5NUVENzJBY0uUCF0vynXCXf8973CBDfzwY5dL/U9ROT/24Nu5/jcr77bFfQwZ7/7GCyfM7Bkv5gX3VMyrNqQSQMXoi8lJWcl9bO1pEY+sjaZJKgzG75RBMPuQC4+r7cjdGIob9SGaylShUbre8fFXt62pNuag4AbK7Y0NEx4hptLm0Xhn4xGFrE6bc4kFU5b5maUkD0lBTCPkecwfxa5n3GPNuTOAzYPRiZMGaFdIMg3CzlH+UYebsyenSttSHvpZlujecG6RvGWJz2Bx1s=",
+  "URL": "https://gitlab.gnome.org/World/Fragments",
+  "LICENSE": "GPL3",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1594126330",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "curl",
+    "libevent",
+    "libhandy",
+    "libnatpmp",
+    "miniupnpc"
+  ]
+}

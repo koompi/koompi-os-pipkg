@@ -1,0 +1,33 @@
+{
+  "FILENAME": "haskell-x509-validation-1.6.11-63-x86_64.pkg.tar.zst",
+  "NAME": "haskell-x509-validation",
+  "BASE": "haskell-x509-validation",
+  "VERSION": "1.6.11-63",
+  "DESC": "X.509 Certificate and CRL validation",
+  "CSIZE": "64630",
+  "ISIZE": "279605",
+  "MD5SUM": "069619ed7d159cec52320c122bbd8966",
+  "SHA256SUM": "dfc14b49c37519b7066645a9792e5dade0eefd21e0ffc517a29b30d28f3ea72f",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl757JgACgkQeGxj8zDXy5KMmw//T2IZfgFg13OT5k2UJciCwVZwgxxHoYdaKV5RMS7k/kK6+mCy49B/hTUXuOUL6/2MUv8mQcE9nZHBmyGUBnj+3hOpCfjvxYnRoXR5xFk7yZcPkyBUBh50Sdw+WLuFZIGsJrN5v2jRqt253UitCMybFXe9wKzxauGfKh4MUFjBtXsjdmjqTiOuo9SOBhxmLz1fJazYANPpTy5Wa8AaIAndwE43Ma2NpEWgT82tGmfEI/u6jba/FSeAqeh9W9h0Nq+CHyUpCf/Y7l1bVv41RZY7Q3ge2l8G6Ip0s6A4hZFJUSRdcNamcEOHm0GzR9U5ao4GP3ogoDhyIsNh6W2lVGDpez9WScCBs7O9oT3TrDrlC/rOX+MLuEGu3k1et+/eqXFEuH6XyWKkdT6mYfYWZ3CnhE8Vxgt0LQHmWIocjCx1hjp/qq2d9jy4fEUWIegM3IIyQOw5Z5SMErcnNVb+scMmAqw0vIFwrD87a6WElkWG+OelA8j9sFJGb4wGpTCPTIWAaC7ksqjFVN6LloHryRi27PpZbhBdKdddTlrInlmcgP0eZ/CEnDxylaLwJtDD0Fz+oMnA8aS1AWh8aViH9bpUomk1vyms8KPsUGivN+KBtZLaKtV0TgrVShyRbhRhwhE++d9f0ma6v1qcTI8KMtVwq+cWxq2k0KH9PiE+S/rpnQY=",
+  "URL": "https://github.com/vincenthz/hs-certificate",
+  "LICENSE": "BSD",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1593437301",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "ghc-libs",
+    "haskell-asn1-encoding",
+    "haskell-asn1-types",
+    "haskell-byteable",
+    "haskell-cryptonite",
+    "haskell-data-default-class",
+    "haskell-hourglass",
+    "haskell-memory",
+    "haskell-pem",
+    "haskell-x509",
+    "haskell-x509-store"
+  ]
+}

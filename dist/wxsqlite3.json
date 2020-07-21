@@ -1,0 +1,23 @@
+{
+  "FILENAME": "wxsqlite3-4.5.1-1-x86_64.pkg.tar.zst",
+  "NAME": "wxsqlite3",
+  "BASE": "wxsqlite3",
+  "VERSION": "4.5.1-1",
+  "DESC": "wxWidgets wrapper for SQLite3",
+  "CSIZE": "744062",
+  "ISIZE": "1793971",
+  "MD5SUM": "3193cf60cbcceaf67330fd3a315d177d",
+  "SHA256SUM": "211a26669a151d546cd10cfcd1819c14a3e37e5b4e947465d66ac5864d189513",
+  "PGPSIG": "iQIzBAABCgAdFiEEOO3RiGdWkk4SJOSVJOTNsAE8JYAFAl4x6GMACgkQJOTNsAE8JYArfw//S7e2am6zGIU8LJvBOC9Lgi7ZaxHS0SqEhX7gQp+WceC4RRbBpme572LPKqr7VM1Y6v5r5J1OSJKuKNMrI8jzG7JWnO0twgXaH2DNhwZ6CwroKmm4GHA/++/EUswWVotoGKFeZXHwFQUcchwUnHOvEwB3gQFYQ1Kjomdz6FkWlyq6oXHKqhVZG4Xq/SxzeeEQJK6S25PiiYuLdocUzs2S5wQcEYyHKyl8b+RBUdxYR5vRcthMNbhZcvTfYRhWk38cE4UvuYcOBJCHRnRd4ADJI4bQQSdorBnY8scsHSWMw49xYCGeGpeT6w2g0qQnx9JmhFFCHuoSyogLK4yXfRSMCJZqVD5I/cGghA39WVQmFh7mLLHBKnt2XPuN1Wr9tS74WUo432qMLJRxrBFYYh2bKRZzjXdH5ZrWX/M4LBhUH6jm9svF6rfNKdNPbWoTPmp4X5tOGHTegMammSOzQ0EVzHqssbbE+d7fwNvlzeCkDWG2VRxpBcarAoC3vODnnaYFOCl6fl7R1vid/ItSEAO5T6lG9UQazCZhd6WU5t7iPoFLybxUaWlM3OEvxpjsdSBH8umju+tIT0I8p+WgmLATdPao1Zu9hOep2EfXmFS/zHSfzfgGaRpx2vSubp/iqMZLnxukfSK99kCgqrrZ4s+ZnGfK7lOjhLg3NqR0jG40/Ek=",
+  "URL": "https://utelle.github.io/wxsqlite3",
+  "LICENSE": "custom:wxWindows",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1580328871",
+  "PACKAGER": "Jaroslav Lichtblau <svetlemodry@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "wxgtk3"
+  ]
+}

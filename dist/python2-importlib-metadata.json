@@ -1,0 +1,26 @@
+{
+  "FILENAME": "python2-importlib-metadata-1.6.1-1-any.pkg.tar.zst",
+  "NAME": "python2-importlib-metadata",
+  "BASE": "python-importlib-metadata",
+  "VERSION": "1.6.1-1",
+  "DESC": "Read metadata from Python packages",
+  "CSIZE": "45477",
+  "ISIZE": "226095",
+  "MD5SUM": "1b01db48e0053f93ec78e3dafbc19fd1",
+  "SHA256SUM": "60267f4696e01ec776bd05a00bb2c0c068208d68c4900fb94d380ab8448ec4b0",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl7pregACgkQeGxj8zDXy5LoZhAAjZ0LYBxCnKiqdReK+eRu6AEO3ArumLGSSpsHgE2q7CfwVoNJV9PfrnF9vLpYNyyQ54H/PPdRxP4Vkm794gbF9YegAy184+Ug6dNw2ZfZKrq60TVyRMm4xQSE0wuq2X0CG89yJMgjrnydKcCKVPnmPHM6jfbqJAZev3IJM8/sqdz7pv1c4H4VrRkYpvGHyLOn63kYhkgTAFc3mlBFE/oDGTG5DKFy3sITt56v7IPWkhPMwb+xgK9GscTUhr7b4d5oxIkBCdpWjFw6h2dXpuVjJZ4zym20EjFUU7KX0Ac+9TZf0PRm8PjDBogxhx7VOQtIxppaqxUrBJqOQUu6dI6j7imnC3kWMfYCh0nlo5pWvVQZAG7PwhRJIwcBmIg6cMwRE3JyCtG31g7/ye0hOuGvlz/5ZKagUx4K+kWdKAiUJ94uj70Co0HI1x5MfzTxFn9VHRl+2/La67xzEalBhMiTEnGGsJDawzXHfFA7MKrqhOdzVmMR/jJg8j1Fy9KHtzUNOG1Vz7i5ZbVZtBaTCj/Cu7DTeqgyQrzc1+3us6+bZjxCNcJWHnF82TCAKZCOicxBfLBG+fYhmFcKJInkCF0eP0yYfeh/rF571hmPwKtVJNGGsJvUfD2g6udOj9rChs1YdsG8CYV/PNwN7SvJUQWdF/n7oluz3H134kqA0vvFmZ0=",
+  "URL": "https://importlib-metadata.readthedocs.io",
+  "LICENSE": "Apache",
+  "ARCH": "any",
+  "BUILDDATE": "1592372666",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "python2-zipp",
+    "python2-configparser",
+    "python2-contextlib2",
+    "python2-pathlib2"
+  ]
+}

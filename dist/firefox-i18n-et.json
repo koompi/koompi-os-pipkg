@@ -1,0 +1,23 @@
+{
+  "FILENAME": "firefox-i18n-et-78.0.2-1-any.pkg.tar.zst",
+  "NAME": "firefox-i18n-et",
+  "BASE": "firefox-i18n",
+  "VERSION": "78.0.2-1",
+  "DESC": "Estonian language pack for Firefox",
+  "CSIZE": "473265",
+  "ISIZE": "535625",
+  "MD5SUM": "c7253166b5320ba33b7c9eea7a7763d5",
+  "SHA256SUM": "5e0396b1f034ace1fa462cff5b75eddfbeb61aa40d70a149bbf30008901d4e1a",
+  "PGPSIG": "iIsEABYIADMWIQQGaHodnU+rCLUP2Ss7lKgOUKR3xwUCXwelohUcaGVmdGlnQGFyY2hsaW51eC5vcmcACgkQO5SoDlCkd8djTAEA8MUMmOVSnRzOoRUYt4l7egDtoRgWnm2ZG+C9zoac+kwBAKlH+s/IcvrTTf2/lyjRGDlbrfa3ShP2EPpxwk2H1PII",
+  "URL": "https://www.mozilla.org/firefox/",
+  "LICENSE": "MPL",
+  "ARCH": "any",
+  "BUILDDATE": "1594311501",
+  "PACKAGER": "Jan Alexander Steffens (heftig) <heftig@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "firefox>=78.0.2"
+  ]
+}

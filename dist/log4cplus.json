@@ -1,0 +1,23 @@
+{
+  "FILENAME": "log4cplus-2.0.5-1-x86_64.pkg.tar.zst",
+  "NAME": "log4cplus",
+  "BASE": "log4cplus",
+  "VERSION": "2.0.5-1",
+  "DESC": "A C++ logger very close to Java's log4j",
+  "CSIZE": "365774",
+  "ISIZE": "1579955",
+  "MD5SUM": "803cf4f161afa9ab3f1e1a19b8f819c5",
+  "SHA256SUM": "d724ce3b18ac3deded033abda5e9cf6614e5417b5dbfd338f9fae510c66ac00f",
+  "PGPSIG": "iQIzBAABCAAdFiEEj8FaBklQqZ3RvRTdOeS4d+YuuRUFAl4J/7AACgkQOeS4d+YuuRUkxQ//e3QdLyprK8RzVuaXvExKrzltw5UVisNjYy0Sm4NKIuieNV0mCvWoojdF9hpnshdFPP7Vb9w+wrs4+aPsi05Bjj4oOmBgPxFeGxtbTDqRyfV7U6YzI1tlC6bJT/WgpBf87sLlw7ofwD1IXcKDY2JlwVxAjMnEcXnsGa9fEGz4FIBsw7S9KKqH7DCdUh3WwL8WzVk3ticzHw3hpXZTckXb4RMDdGYsxFoYs6zxI4j8+At/iDGwGgHUDGp+ZQ9rgbLXpByUKQwbTQBe7rfCjmvAtPvYVt2um/sG/VN+Xx0MTV5U0otxE6FchPTrZ43EPIHr5PSWhkZ3U+CvRr2T2ykuAWsYZkrwnzO7Ps/xa2gq13jsxMyVqZbPx1/tdSGa+I36i4luoXPYuYR5u/7bYULcnmOI5CkVyYQ/EzhqvYlfZXs+0a0MFYAh9pjxfLxC16FKIO2wLOmXQQvZze1ZdhgyvKVkZ47avpXSb3oIbkwb/7KEsLT8biDLUgYYH/xIQRm1ur0njwxJI63CCU4Q2CSFoB2z4/w2W20FJwKufCP2OB2o3livknOZoU/hBReUIIwwQAgw1Nr4i+3ioM5qB1+UeHFHGj6jyLvEDUyNK8lPVzSvqB2nxb3IZav8JDihIOcXiqitlM0xaBKfm5HUecqbLjmSkPB8FuZzOYYn9HlPABI=",
+  "URL": "http://log4cplus.sourceforge.net/",
+  "LICENSE": "GPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1577713491",
+  "PACKAGER": "Sven-Hendrik Haase <svenstaro@gmail.com>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "gcc-libs"
+  ]
+}

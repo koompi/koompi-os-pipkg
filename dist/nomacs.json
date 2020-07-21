@@ -1,0 +1,31 @@
+{
+  "FILENAME": "nomacs-3.14.2-2-x86_64.pkg.tar.zst",
+  "NAME": "nomacs",
+  "BASE": "nomacs",
+  "VERSION": "3.14.2-2",
+  "DESC": "A Qt image viewer",
+  "CSIZE": "2241771",
+  "ISIZE": "10551854",
+  "MD5SUM": "dc99149ea65247c7a09b0f3315c230da",
+  "SHA256SUM": "74b708a76cf38d6320bffef36a27264bc7c1ba5201bfd58ced494be8a3d63b51",
+  "PGPSIG": "iQEzBAABCAAdFiEEFRnVq6Zb9vwrc8dWek52CV2KUuQFAl6Id2oACgkQek52CV2KUuSrfQf7BLe+8RJlF+SrVcnw/dUujJI3FhQD/VO2kTGqnMuX6UOcy9W54Kq8sAbbgPS7dCgO80Kjorir9wALZNEl8MOHvK0IYyR5U2GgkPJv0W5ZOZtjOrZ9enpu+ggzhBhHWa6huPBvE73zGeICOqn88zfKE8lssv7w58lGD2+uFpXD3HOZK05Qv3QoHiU2+Z1UCh4kHUFPw71g+WBuQ6XDcD6JuJHtn/KwWphHlv/oUGEIEYYwOAQ4ZX8ZC5TQDmKdku/+SVjxfHMq5Pl1tuSbL5GmuNWpZkMLBCgMFLX2H+zgdluuLV+J9aLspDBOqX9BGsdC0aN0S8WBL+dDFuUJQkzEpw==",
+  "URL": "https://nomacs.org/",
+  "LICENSE": "GPL3",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1586001696",
+  "PACKAGER": "Antonio Rojas <arojas@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "exiv2",
+    "gcc-libs",
+    "glibc",
+    "libtiff",
+    "libraw",
+    "opencv",
+    "quazip",
+    "qt5-base",
+    "qt5-svg"
+  ]
+}

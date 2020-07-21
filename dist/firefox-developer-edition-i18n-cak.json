@@ -1,0 +1,23 @@
+{
+  "FILENAME": "firefox-developer-edition-i18n-cak-79.0b6-1-any.pkg.tar.zst",
+  "NAME": "firefox-developer-edition-i18n-cak",
+  "BASE": "firefox-developer-edition-i18n",
+  "VERSION": "79.0b6-1",
+  "DESC": "Maya Kaqchikel language pack for Firefox Developer Edition",
+  "CSIZE": "523203",
+  "ISIZE": "586322",
+  "MD5SUM": "8eaad72ef9fca35d3d17682f45245098",
+  "SHA256SUM": "b704938ac15283e9d17609dfb7485f99bcc0108a1b832001a47681caa35abcb6",
+  "PGPSIG": "iQEzBAABCAAdFiEEYB8g8dG7v0p4z1tt9rFhCz7NvJ8FAl8IbMkACgkQ9rFhCz7NvJ+fKQgAur50uWvElOZh8LmYnJIpjZE7AhmPQu3mPSPg8lXkGSZOdrs2sMaik94lVFMXtvhLBdFHpI15v8zo6qZdwOGQTwfRfhooxswoIYuhyvblNkJflL2uvzkXLxnTYgsoCMbeR7SWVBPHjAXMP7Oe6bw60M4qMXgZXBJCNdOW+paFG7QqP4wucYE09sdoOtKfCvzBTXOIlQmYPhs9JVGtKyu34E00AgFimP4CJwXfyEpVmvFCARHdf73yYg8QtxjP7D/Sc8ioEUK4/rNaGIRfGbn0hm/oJ3ZNVDp2AgZDXGzYuAdb0rN/59w/CND8Tyw/wUoxhBvG3OLqLgJ6Nf9r4IRm4A==",
+  "URL": "https://www.mozilla.com/",
+  "LICENSE": "MPL",
+  "ARCH": "any",
+  "BUILDDATE": "1594387381",
+  "PACKAGER": "Andrew Crerar <andrew@crerar.io>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "firefox-developer-edition>=79.0b6"
+  ]
+}

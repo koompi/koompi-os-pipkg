@@ -1,0 +1,23 @@
+{
+  "FILENAME": "libreoffice-fresh-bn-6.4.5-1-any.pkg.tar.zst",
+  "NAME": "libreoffice-fresh-bn",
+  "BASE": "libreoffice-fresh-i18n",
+  "VERSION": "6.4.5-1",
+  "DESC": "Bengali language pack for LibreOffice Fresh",
+  "CSIZE": "2880141",
+  "ISIZE": "24786493",
+  "MD5SUM": "560bc02bd455486b3ce2992b20170c93",
+  "SHA256SUM": "015c119861719ebe305a44a638cd10405328de314c99d3c854354c7f6d4df99d",
+  "PGPSIG": "iQEzBAABCAAdFiEErcih/MFeAdRTEEGelGV6sg8qCSsFAl7+FvgACgkQlGV6sg8qCStA5Qf/UQCW9BP3MSIDWbJmX+h6QmoI7rY3Ejn6y14hiBGU89GreGVmlwMLae2dsGpD98kNBYrmi7uWqBulivmJmi4+wHJ7wG80W8KNOBLXO7fqFicxlNlenuu0+G75urexwWbTHTYukxcSCVhpPWyXKjslLoumCSJAfochlL68IPn2cSYp6GL3M7B+qbo8eV3v4pgeS6ILKxLymYO7bGjRf9FL2YsJHtsgiNTQCQsrXi/Rxs5304jHp7cu1nBBSw1n17jY+KAlViWC+W7oqABr8NsCK6IMfQgscXwdgrLeHAXvt9UjalO2ceWycSdqRvmk3IiuysUQFtyi07MogmAaAevcEw==",
+  "URL": "https://www.documentfoundation.org",
+  "LICENSE": "LGPL",
+  "ARCH": "any",
+  "BUILDDATE": "1593700315",
+  "PACKAGER": "Andreas Radke <andyrtr@archlinux.org>",
+  "PROVIDES": [
+    "libreoffice-bn"
+  ],
+  "DEPENDS": [
+    "libreoffice-fresh"
+  ]
+}

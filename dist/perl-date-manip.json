@@ -1,0 +1,23 @@
+{
+  "FILENAME": "perl-date-manip-6.82-2-any.pkg.tar.zst",
+  "NAME": "perl-date-manip",
+  "BASE": "perl-date-manip",
+  "VERSION": "6.82-2",
+  "DESC": "Date::Manip - date manipulation routines",
+  "CSIZE": "811393",
+  "ISIZE": "11442347",
+  "MD5SUM": "890a612c6fa40b5739ab52b808a3227c",
+  "SHA256SUM": "ac2631bf44478d86fb533110d37204279fb07b14ee480dd7e3e3b511795e4ba9",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl7viTMACgkQeGxj8zDXy5K70RAAg/5fPFYqq5KAwunxLQJiV9I3XSVzDXUVnmrsdkKqaDrHu4hT9sMuixYKlLHrK9FETsVwSGAYXH7b6ax5vEufg/Opmxte4vXzEi9d2v4wYQA5lwljOJ/zpEp+1YesgbpHO3twzhQd962doEAIDBEiBzWS9d3rVDgOYVVqn21fuaAei8NdooUimH5KADPgT+3ElCwPXJLcuyva8iajUVIAGrOuPW514JsnpoEHXRkH5xcHWy94lQzvTMT7ZtX4GOIvbYbnf47QcrW9R4rLmnFBopvy4jwjYi/Rfe6h1jFQ+zS/i656TRsJqKxSThAnNfjJERd5nszQvOkeUPMgACQMuj00IoQWPWTjPaLko/YFLJfrNchsA2EJFkAj1ty+APD9rYe1iXavwudeMUwJS5JeKBBXoCmUKl2kKWDB5KHle0WmNrMFIKT7eiCl9xfSMvpBR7DZjNMlTF1W/lKV8kW2KN2izCItxYuhRsUPdadD1JBkyM6fwcqcCjo1MC/Mms5GKQAG9bmxa9GE01aThDmOGMB4vD+EuuhrO+aLwPXK23ju5ErRBTO424b27ED/kiOxh02GLWeni6YPqQS5dIJaS64jUQp08YvvEiIOFW4e2CNjx26Jb5jS4wQBUTmmEvo1BZyHskGQcu7ZNHX0RwAew0bHcA5ha5VLrPmhzOMEBL8=",
+  "URL": "https://search.cpan.org/dist/Date-Manip/",
+  "LICENSE": "PerlArtistic",
+  "ARCH": "any",
+  "BUILDDATE": "1592756465",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "perl"
+  ]
+}

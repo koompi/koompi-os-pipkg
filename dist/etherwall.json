@@ -1,0 +1,30 @@
+{
+  "FILENAME": "etherwall-2.4.0-4-x86_64.pkg.tar.zst",
+  "NAME": "etherwall",
+  "BASE": "etherwall",
+  "VERSION": "2.4.0-4",
+  "DESC": "Ethereum GUI Wallet (QT5)",
+  "CSIZE": "569584",
+  "ISIZE": "1448700",
+  "MD5SUM": "f43333fab9fa7a2dd609e9111e151fcc",
+  "SHA256SUM": "ae18cef39bf8de4a0a475efccc3d0eb5e6f09d01057959ee6a2e87378fa8beb4",
+  "PGPSIG": "iQEzBAABCAAdFiEEFRnVq6Zb9vwrc8dWek52CV2KUuQFAl7JmPgACgkQek52CV2KUuTvtQf/a0hS6FmPBkdxcVVNDfV6Olf6FzeCb+icLzuiXUTAt3+Q2rCN0Zl2qGMIK1dPCUaHj5J7xXHtKuSMDO0T8uQ0ago2q6M175JDxyEJN0QF3Ml9Wge9VCdvKeBcqQs1ngu3ERC6z76xHehVYRyWF+9VY49o+dSxaEpdXgE3BXeIY9ke74A0FHTdkJEAgqag52Jv97b1vnuVOQLZVnGwDXRiPO/yiQptuweKBA/a+8ONDtUg4TC6SsGbd9UxfhBNEs2qvq6DD8JImEJpYfnGNzNosYwgwOmXO4b5naGudCnS5r6utPX17oFOn07wiOkjtZSR0mQ99lq6oN6jU0XsTbT7HQ==",
+  "URL": "https://etherwall.com",
+  "LICENSE": "GPL3",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1590270136",
+  "PACKAGER": "Antonio Rojas <arojas@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "qt5-declarative",
+    "qt5-graphicaleffects",
+    "qt5-quickcontrols",
+    "qt5-websockets",
+    "geth",
+    "protobuf",
+    "hidapi",
+    "systemd-libs"
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "FILENAME": "python-libevdev-0.9-2-any.pkg.tar.zst",
+  "NAME": "python-libevdev",
+  "BASE": "python-libevdev",
+  "VERSION": "0.9-2",
+  "DESC": "Python wrapper for libevdev",
+  "CSIZE": "2758502",
+  "ISIZE": "4394249",
+  "MD5SUM": "198df28a43b214e3cc8febf20d01d9e1",
+  "SHA256SUM": "4e6a5de6a9d02d965b941d1760bf9d7b0de60c6808c9874ed449cc6bef476133",
+  "PGPSIG": "iQIzBAABCAAdFiEE0jW0leqs33gyftiw+JPGdIFqqV0FAl7xBsEACgkQ+JPGdIFqqV2sfw/+Pb8dbyrPdWOCwizpEZ2cfuWInKcs6/PxHWRbsJi1McMTcSQ/xV+Vq04MejIBs4FedTcZMPAebG8Xin8E1ntslfLw4r3boAZfnKGikdo12er3MzwGVbXLu8wYsFUX1kUxGO/SvT+o6K8NlGDgqAjuOqZoy5hvG4gkupBGPVUbqeMyDrHO9BHh6S0UPszCZ1OkpbkTstjFuY3qKmZwdMqvbF1+1lDX4ljdxtfG+bjBldbu1J3yNoYGKeTvQlAo905meePjDuSVMu2GQUkAu6NMaenlZWdkdglQXZ8DTOPFHS51er3Kzv2AH+wkmdBNCBSuAjQLJKR8BXn9Yl3Tfedi3u9zdZZeqvA6rTbD4/l9GILpNajSsROt55ZLt6QVnJZ/GjqhfrfbO2RoWv2CJlfdXX3YbrHETAsyRtRZvmW4g5md9JWimlWdOr2koaK5kgDOpGFFggkqYUJhAtHR+dHJRO/xgYQubi+fVJ0evtg7b79jgyqsI4LAxAcNvxq11a7+00aPhziEe9SF3Yk+/+pV2eJh4f1LgB+GjJhke6ZXfOdMrpX4Ih4v+lEupH91HI3WDZneBahTj87HVTfouAoVI/XqmwJn6oPKDtydyq/gWZ44F0M/H8A1rx/c4smCWtee7Qu/urNdZG/mwVYiVjcusl+S+uqOWE/pR6UdBm73cBI=",
+  "URL": "https://gitlab.freedesktop.org/libevdev/python-libevdev",
+  "LICENSE": "MIT",
+  "ARCH": "any",
+  "BUILDDATE": "1592854085",
+  "PACKAGER": "Filipe Laíns <lains@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "python",
+    "libevdev"
+  ]
+}

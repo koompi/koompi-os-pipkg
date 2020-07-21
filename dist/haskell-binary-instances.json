@@ -1,0 +1,34 @@
+{
+  "FILENAME": "haskell-binary-instances-1.0.0.1-23-x86_64.pkg.tar.zst",
+  "NAME": "haskell-binary-instances",
+  "BASE": "haskell-binary-instances",
+  "VERSION": "1.0.0.1-23",
+  "DESC": "Orphan instances for binary",
+  "CSIZE": "57257",
+  "ISIZE": "305902",
+  "MD5SUM": "c17e48efa951db1d78b5746bd699defc",
+  "SHA256SUM": "cbe6eca05b6d43148ab80f9ffc76e12e1fd9fc6e42b0dcf6836b92d79094b320",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl75pBMACgkQeGxj8zDXy5J80A//YjQVvO/f6054zIdA10C1ty2AF2deFrqDXxnhCBoAUNm5aoi1w2AfQnsBFx7tkJUlbpjn/hUBujHomlPWVvbCMNd0SQFw0m0oxvNBcUvJ5FJaeDQh/13ej0NWAGgHwjA+fKy9H7AX9Yqijlqak+8N13aFqW+ox3PQ/52RPM6K0Y10d7jE4/Q0ZgnHX1oJjdotEcMb6IOCaH5ut3wJlq9xr7mXoEYX7Ew9mDMvNLSS4dclfD640UGg2N6ynrmjcUXJBpbyOOUnZsRmc7SpGsReBVwRRpmAIlM1stg0N+2yUmx4fF3HqbYl6O879jcFU18bxppCi53GPAIcCr8gzgH40NovoAHNNVA2W7yRtxyL9ctp4GZycrJea5s1dARyP3IszhwUFbnl1OE9rc0+5LWz0a6KuksBgarlYhheNyi41QmqLnj5ecnTMpV93CLhI/u+4ebAvPHkTr/LlGNGhaTlYS2ell8o2jXEGqWQT4lyi4cjTM9EbqZdf0MiKDXTpGBU3WDjr1Mob5AOZj5hOBRcovDUdBW7AVgd4dmZJttIJPjvPnMbKAndnvYyW4/0RG7ypuze5vAMn7pM0IHf9Hq54sapU3fOmPb7ZUlqcgyfYUkfID+ocX/xur6x157Q058p4MvtCZHoSCfnvi9dDIgClbBvqluu1caTsT5vbRUWy8Y=",
+  "URL": "https://github.com/phadej/binary-instances",
+  "LICENSE": "BSD",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1593418736",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "ghc-libs",
+    "haskell-aeson",
+    "haskell-binary-orphans",
+    "haskell-case-insensitive",
+    "haskell-hashable",
+    "haskell-scientific",
+    "haskell-tagged",
+    "haskell-text-binary",
+    "haskell-time-compat",
+    "haskell-unordered-containers",
+    "haskell-vector",
+    "haskell-vector-binary-instances"
+  ]
+}

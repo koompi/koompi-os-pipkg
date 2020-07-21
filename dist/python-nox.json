@@ -1,0 +1,27 @@
+{
+  "FILENAME": "python-nox-2020.5.24-1-any.pkg.tar.zst",
+  "NAME": "python-nox",
+  "BASE": "python-nox",
+  "VERSION": "2020.5.24-1",
+  "DESC": "Flexible test automation for Python",
+  "CSIZE": "61981",
+  "ISIZE": "291506",
+  "MD5SUM": "60e167be555b2884f62e067e1401f838",
+  "SHA256SUM": "2b12f834549f2facfc3ed9e0887d61633f0127fba0dc2d60071efdcd42c7af61",
+  "PGPSIG": "iQIzBAABCAAdFiEE0jW0leqs33gyftiw+JPGdIFqqV0FAl7ha5wACgkQ+JPGdIFqqV1NGg/+OrlcO22NVEFw/GvcgCMGKliVY90rE8ZwUuYQKmxwTMWEZ4EEgX3XG05KSfTts7kIt7RWZMzm1EUNrQq1J4DRBy0uwL+cn/hgRCnWVZ6DffY6ZcrxiO35Ui5Vn4G+mFBcL3CJS4/vLRshQ54cXDV5ecrMI1OgM+td8rhsfSM+lM9BewF2itHzQGciG/BWOsjk9Hwjff6Ex0fswKrHdTaxDT+qwFhaXgbH59R9nLkDiLs9OQ19bTWB/+uS4t4kSt9opIiA43l1EyOl0+QR139t53pHJsqjk6YusdbEUTvSiTHk8I1yaYoRXEQZ74HoQ9b1LgzWdAsee3HGjPgp7cvirnwJ0WVg1SIo+wTRi8I8JVj6PAkdumzxL8KWkMMqBJVH9FrYeVnwOyXaMNFgYPnm8UZdKaEkqmHhsrrJAjLjlE33YV+aXzKoYvRNgNsnOeoNlqIdMfZRgDKpIigUu/3mfpi2fhkWGndgNBevUbxwp8l+WvZ6RjwClrNanHe4ievD530W0JjQMDFEt0d9hiZqY6JKCXPAijrWoJscNM1WPoF3t96vKb2IZ2d1uD6M4IsySPPDNtJq3D8K+EZGFmrNSXNqLdSykCTNxwgHISIa5mKvNRjdX8pzzh/w+HQIHnuFluAcByqgpgSwo98D2Gafoz6iqKiERHsPuB7cWlDipug=",
+  "URL": "https://github.com/theacodes/nox",
+  "LICENSE": "Apache",
+  "ARCH": "any",
+  "BUILDDATE": "1591831420",
+  "PACKAGER": "Filipe Laíns <lains@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "python",
+    "python-argcomplete",
+    "python-colorlog",
+    "python-py",
+    "python-virtualenv"
+  ]
+}

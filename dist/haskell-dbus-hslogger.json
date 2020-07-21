@@ -1,0 +1,26 @@
+{
+  "FILENAME": "haskell-dbus-hslogger-0.1.0.1-54-x86_64.pkg.tar.zst",
+  "NAME": "haskell-dbus-hslogger",
+  "BASE": "haskell-dbus-hslogger",
+  "VERSION": "0.1.0.1-54",
+  "DESC": "Expose a dbus server to control hslogger",
+  "CSIZE": "31921",
+  "ISIZE": "127596",
+  "MD5SUM": "92944206fe8a73881bd2c69e54f80c2d",
+  "SHA256SUM": "a902bba7039eb3bc3361819a8cff140839c3c15c694d579b40ee884907e9bd4b",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl758dYACgkQeGxj8zDXy5IyVw//bS4TkrzQEVxmrq6oRBzcTBtAjz02hzw5e4KGZP1WwtsOEyveBQb0W8TyISDtxrtWVruex07Ad9lAkzHtraITbXRjOMJr+tBYQUSLpE6Kr1Xi0XnodVzlctBGV7dTXbhrZdrVwzAI4kZWXfA8TpxFmytOnkgGAsZCh4RC5rc3r8N98AIwa0DDqJr3MMr0yV27Fyiw45ZZ3Z793R8UAOvsFJqaKr7MyLhK6ydoTebD9IN+fgIk8mB6NAKVVU519vTFn8sDfLlj9N/9bNP3ySxLge70/bgQrbh2EseEraLnb71qLUYguRYrFCrh3HAx4mB6LizIgj+JMPyiTlODkGzXUAWEOeEr8bBIw3oPRbXjmj5JFci4YQSqEymfVwCWS3s9Ej0KWi7FKFT6mZdgiNBy3KOmJ/JXO4WEXbe3c5tUFSyS9G4VIhPY2vNT18DUkTAMjYRiBAi8/lDwSFNFGnLhib6vTw0Y4WPsln+dKhqOikZRSUPnSK5y2UsdP9sbTrbSjyctbOEh/McLEvUdBuImfFBU8AGQFxZxP7sA5zdKzYuhY1kdTu2oL2GNgfYE8ySAqtdcMjWecbVn+lpZsIbkgdx7fZyt+9O8l9gqHa1pBA2ZwLrIuxI1muYTTMynpK0nXOKRHVQ6ZY2rTQNPUGxxjM/+cvP+QmhMuq+qfVXzn1E=",
+  "URL": "https://github.com/IvanMalison/dbus-hslogger",
+  "LICENSE": "BSD",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1593438644",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "ghc-libs",
+    "haskell-dbus",
+    "haskell-hslogger",
+    "haskell-optparse-applicative"
+  ]
+}

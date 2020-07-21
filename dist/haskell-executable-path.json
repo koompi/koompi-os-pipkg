@@ -1,0 +1,23 @@
+{
+  "FILENAME": "haskell-executable-path-0.0.3.1-13-x86_64.pkg.tar.zst",
+  "NAME": "haskell-executable-path",
+  "BASE": "haskell-executable-path",
+  "VERSION": "0.0.3.1-13",
+  "DESC": "Finding out the full path of the executable",
+  "CSIZE": "17068",
+  "ISIZE": "48484",
+  "MD5SUM": "df426f8aecc4b53735a3365bc3d7281f",
+  "SHA256SUM": "71235ed441ae5fe00565a4f913c95a5775332783b8dd027dd8b57077e151ef20",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl6hdTMACgkQeGxj8zDXy5JIPg/9F0oaAb4rzxblcXzdaWATvjWcoez72J+eHnYTq/SsMfx4NfOuoPaQkpjSYr4UI76pVucx3FIY5MK2mWzWu/Ztcumg8Idyv8BVwyyz/zOpUGH1gJnBQrrgBT8IAfsPuP/FRzQQDU06Zw6Q10+db8q6lfdeQIA2t2lGaSXhMYZjfccVCXjHHaZIz3qEQ5eR07trH/I6+xeniSYfRCrUNC1HKj6O7XDvxDfRXlCChzglNCAxk4sxRl5KtOLRijywGSUGH9zikoKR4FSB1NBaeW4l671DW3N75iEAmZjXoKhykJuqdJbkAJp2Stf1m9TY2O6qJCPXabEtgZakeb0WumZmr9wsUI3Fc9+m+fHBXrVXkzemYNQRQYpgj2CwM6tyCRAHuUvF0YwgHDlajN7SUKy/UqUQD6QfTAcVPcampspOcp22mAMV7EU5KbAX47CF0SSC6xsD/UfdlUiJIa8rTix7dtJhRrnX28zozeeqwZNxaLgZfU+nRDWyZVRgzCZowzyspeLhESyLxu6xVlgT4LHvHvcTSs45mm1PDUCcfJDhcLEGdyo4O8J86ybdsh20swI9cVqRm4nZkL4kKmGOT6aoXw8nAEWvzIjtrtFrZJJmPkAVP0Wb9eYWdn/SAj+yZqyp/QyUx32q5ZaJB8qD0FF2F9PfeE7MjSKBq83kdPJllvE=",
+  "URL": "http://code.haskell.org/~bkomuves/",
+  "LICENSE": "custom:PublicDomain",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1587639521",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "ghc-libs"
+  ]
+}

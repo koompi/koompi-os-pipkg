@@ -1,0 +1,23 @@
+{
+  "FILENAME": "vicious-2.3.3-1-any.pkg.tar.xz",
+  "NAME": "vicious",
+  "BASE": "vicious",
+  "VERSION": "2.3.3-1",
+  "DESC": "Widgets for the Awesome window manager",
+  "CSIZE": "42808",
+  "ISIZE": "203776",
+  "MD5SUM": "9f77f49554092c3a1fae6d9dc5c58e92",
+  "SHA256SUM": "fe5253800ed04c58502d8aa6c1a3f8007327afa78e31f1f70f44f7452077fc52",
+  "PGPSIG": "iQIzBAABCgAdFiEE4kC1fixGMLp2ji8m/BtUfI2BcsgFAlyRRxMACgkQ/BtUfI2Bcsj98A//Y0VckrDdBpNG41tgoatf9TmtUfRVZiQV5L1kb+oRR6vqld+g2V3zmtOVIZZQezVXsCkV+Am1xJBI/LcmFUTKgGXaT7D55GkGC6DFY1FDs844UVM7HKtvjl06Ts56B0SBogxU/sYWUa5tDpmQuqZciCVb7crORLhvJb1lJ9PbPbWYJYdjb2UFEAtRX8aBVEv26K2oVtUEKTJDv556PmoL8THo5p1SDpbyNmMU7sQS6BLZpb2y+Z1yJ6J409Kxb6l8nWj+S+ipXwUbuMbFkEDjUz01jU/K4YS/9wtr+GwZUXPK4fSF1DvVnQHpEKdQ+Ry4wYDqkIbPizklef4s5lUOuPqU0Gxk58ToPxIcxbxbZy772WExNe4qYA4c1q96lg1YZXGqsk9V5QpcJaGEpW/Xk6HW+mC72HVhlhgiqXzoEgW7pnomvrCegGGBDHTfvSik08CpvnwuKeDz2GX727yTBzLupkOswpK1rEWrmC0mywelBVyf1TLLTGRWg9cig01cK9yv2U50a3p2dvUBNLHkNwd8XzYuRg/v/x0NeXWTg7kuPo6Fq/QcjDtIN0ebvjLd2lR50xm0t64k0z1tP7qgatzl0NXDGgvBtumhocfRVj1yDJTI122Yp3ykbnPvHnoNvgllC/rjNiLjtl1oANKB8FyVQkVuU7wX/srkM1C3R1M=",
+  "URL": "https://github.com/Mic92/vicious",
+  "LICENSE": "GPL2",
+  "ARCH": "any",
+  "BUILDDATE": "1553024761",
+  "PACKAGER": "Levente Polyak <anthraxx@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "lua"
+  ]
+}

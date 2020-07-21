@@ -1,0 +1,23 @@
+{
+  "FILENAME": "python2-typing-3.7.4.2-1-any.pkg.tar.zst",
+  "NAME": "python2-typing",
+  "BASE": "python2-typing",
+  "VERSION": "3.7.4.2-1",
+  "DESC": "Backport of the standard library typing module to Python versions older than 3.6",
+  "CSIZE": "47392",
+  "ISIZE": "292832",
+  "MD5SUM": "f94d760f6472603d445fd796b49cd104",
+  "SHA256SUM": "57122f7e766b037871e926332e13597fa784fa35c185f40cbbbbc5412bf4d821",
+  "PGPSIG": "iQIzBAABCgAdFiEEktnGzemaICTWkKdu50JoO6CMsv8FAl8LdYAACgkQ50JoO6CMsv+9SRAAyfYYkJYPfolK5mQwsi5tNbD2hgUiXstUJ1CNeCvt5LADLA4GG0FfOa8H6THCYTi2KDfrAUb17iHAfQUYjX1L2Ow2rwhF8DZPr6y5R38HVcHSevRvwgn5TSQPgiQnCP71pT+jlgb5CvURVpTYdQzIURCA53pwsknMGjRa9VEpq70yTBX6JtjhchSnhL3rXVZALyi1s5CVNw+z3Fz7Oqw1FSH1YgR5yL7sbqyQS3EzIXtaNqnWHhWbH2BTV3C0m2V7Cufn5n9bD0FHiOq2tENoQA2RYIUGV9YIlrqg5sS1kSrfKCfVcGx9KwPuSjF2PmJdZ6hGPqjGNGJ6ai3fwBOWtsvR3E6KmY+8Vxkt0J71pERKdFdT5rlt6Q465LYMskVF8xJYkOf5EDH8HVW6z+IDD12hDb6B1QApR48whtcTx1oYGki4pbBxy45Bmk3RctvOnWVcGsOybY+j2Y41G+OGFQOggWX4wZMa7jf1izxk4o00nzj5RYA3YgYvgAbn/BSvbVardR+ClQk1SPX37J0eOYaLtqZd4OiweZeS0Vf8Azerq0XIPqlxvUlzUs5ZFuN2EYezE8djN8NGkNQ1OySIAQIL2X4LVYAZHCPoDdj/19uuaSdZQWfhSq6vewy7EwCy9Se+pKbImqYI3yLumhXoVx4tJFmuOs25WKr6JgC3+sU=",
+  "URL": "https://pypi.python.org/pypi/typing",
+  "LICENSE": "PSF",
+  "ARCH": "any",
+  "BUILDDATE": "1594586456",
+  "PACKAGER": "Morten Linderud <foxboron@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "python2"
+  ]
+}

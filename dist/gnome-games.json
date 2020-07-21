@@ -1,0 +1,28 @@
+{
+  "FILENAME": "gnome-games-3.36.1-1-x86_64.pkg.tar.zst",
+  "NAME": "gnome-games",
+  "BASE": "gnome-games",
+  "VERSION": "3.36.1-1",
+  "DESC": "Simple game launcher for GNOME",
+  "CSIZE": "536874",
+  "ISIZE": "2815346",
+  "MD5SUM": "01f0cd47008594ce387c387d48f0f977",
+  "SHA256SUM": "7bd365f1253bfbea94fd4c50436fdbfa80cb860dd163b1d4f0823fda8ba11200",
+  "PGPSIG": "iQEzBAABCAAdFiEEzgvecadZqH8j8PfYth284QkBwWMFAl7OevAACgkQth284QkBwWN8owf/Yo7UotLxTlH86u6DbZHXo/DPfdN04SQ9lSmOQuc3+uVIuk9IEQ/SKpwSq5b4SsUhAyj2Cy4FxumOgjvvxC6IFhQ6qczK2lHfMlxgBfciKTF23SztAkeuHvy/9ind19v6Vvg39luWMLHHG3YYeVPLCAOrIlCGBys2FX0V6Wk+EvHyf1+WzQQ4oQSQltu7Qn7pVbzHFCz0itPHSEebpbVKw5ngP45QBNzPuJtt9OFp9Oc2gsu8MIBjWugfvBuwDv3Y6qLKGS3FXVdhdeHCNF5n4VKjRJ7ThYdR4ESs4lkLySzcpvwJl6SwXZ1sSvxcKcLVuP/M8BDk0rgKUD9GZrspZg==",
+  "URL": "https://wiki.gnome.org/Apps/Games",
+  "LICENSE": "GPL3",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1590590115",
+  "PACKAGER": "Balló György <ballogyor+arch@gmail.com>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "grilo",
+    "libarchive",
+    "libhandy",
+    "libmanette",
+    "retro-gtk",
+    "tracker"
+  ]
+}

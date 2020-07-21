@@ -1,0 +1,23 @@
+{
+  "FILENAME": "deepin-shortcut-viewer-5.0.2-1-x86_64.pkg.tar.zst",
+  "NAME": "deepin-shortcut-viewer",
+  "BASE": "deepin-shortcut-viewer",
+  "VERSION": "5.0.2-1",
+  "DESC": "Deepin Shortcut Viewer",
+  "CSIZE": "29752",
+  "ISIZE": "88072",
+  "MD5SUM": "1a0e3ca9430666ed9ae114674904fed6",
+  "SHA256SUM": "be376c58de9fc1ffc5b90c9bfbe19e7601713a2f85812737412540299bc2f486",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl6mBBgACgkQeGxj8zDXy5KZrQ/+Pji3fJi0B10OYRHVWavdph/RfUp8fqk7hP8I9AwNJ+7YHCW+ZGUCYO/1dSBXbA3WEGotc73lb8mNsc0QGOkR5sHkp0XVGBoX7j9vCgInQRU2NH0uc3y+ky+ediU3CYfhKGbfE6cL4ifEoih+A2oTXZyOSvH+iW/Xp7wi4c5aIelMKE67RwjfNsI2GCwA3ma6jzj8+Rvn/ZHW/r5s+2rtFFTAGyTKxxNeLmCuBs/GiEsV5W/p2CtFHXk958e2KKDIn+t8psMNJDzwU3SNeelbuvy+M1DBBxes1hIW/Gc+A/zEzD7ctzK3oaR3HBSlCZI+IqtPZZctE+zHMxkIkt7L8FsnN0aKGRHEQQtyji6W2XYjWE/0mELHqlASdYYVkq+i2uAdaiI2BxbGiAZzH+P3tlJ4IO7dD9B/UrfGghiV1FOJzNNJXmaW4MtZIDWDieLgy9VhlXzy66LEM4UuG0pziBv9i3e8GofPX5hoKjU/IKnyWR3uiKv23bHIsPRPhdx4h7GxRrYkXAVPoYgFJBigrPKKHiSgnO0FSWeX+ObAWFSA3Qvcc5ZSafNeaq9VVMe+f727t6sBDpzxJS62Sl+4rYlE2twse5ZB3EzYsL99TBRaDW7iBpqVB1GKqSfA2gv2X4Xd/Tcn0jSGvV2/xRe+etL/8ZRRoMYKU4ZrXsh8Hf4=",
+  "URL": "https://github.com/linuxdeepin/deepin-shortcut-viewer",
+  "LICENSE": "GPL3",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1587938286",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "deepin-qt5integration"
+  ]
+}

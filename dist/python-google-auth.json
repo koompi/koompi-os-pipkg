@@ -1,0 +1,27 @@
+{
+  "FILENAME": "python-google-auth-1.18.0-1-any.pkg.tar.zst",
+  "NAME": "python-google-auth",
+  "BASE": "python-google-auth",
+  "VERSION": "1.18.0-1",
+  "DESC": "Google Authentication Library",
+  "CSIZE": "99255",
+  "ISIZE": "725147",
+  "MD5SUM": "ba35ae6951a95e6bcb9b4b9d8a6db5c5",
+  "SHA256SUM": "8c9f43486292f19f214e55035a203d895f6c530ae3bc6099b70b39839707214c",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl7sVI0ACgkQeGxj8zDXy5KAHA/8Dtn4wfBwcIjaI72eWdQVxEPKLuUETMu4njnAcwRYueR5jaiNLBTtC0mRrdUGNpAF1jnSDh3yw59XiXWSSVy5ueiBZAKVF/4reIHrJ5m0EmEht5pNC3mZb7Iq4VXe0pGvNl26MqkBeNsN7SkepVtZ07xovkBBmEfw0gMKDBjSAnTbPta8seovAirEwZIw/8+FdvxuVCAQ23GDjxXtVIOKsO1M70pqhhN0t0owvYQK4tXofPo5MuRxOo/If7I31J9owpxVrMTdwXdP0pa4gw1Jen5A2jm4L9iu6mOMqwSrz7CFI2c66JeefRMJ6gCScVcUWU0vXSuUfjVYVxNNnLieYbbeXqjVKfmWztIXOAz1eioL/7nijgEyUu4GXneEqlcpuL4zQ7atw08pt68A43jiQTMm14cF+7RmY8Lf7ocYvVWbE0IoT2RdZQaf+QFu2yUAiOwnZtSeWeRmBZVk82sdIEFLffNHgnRpAPg/4Dfqus8ZlvcAGpzQQXJs0q+zbjMJ+kD1arqXrEK5WiY8EDJ4zNUpk89Q0CV7oIswMQtV+EW+MdzDA7hvMNP0tId8lUB5z9SAaVpAbXAvExIL1BRm05mC6DFqLxz3nRUgAeLBg3mJFCISsiEnOoQTBqpCurxkFoUZBZHBpe48lZzNwn1CXcrLFip48OuT2arpEJEm9pg=",
+  "URL": "https://github.com/GoogleCloudPlatform/google-auth-library-python",
+  "LICENSE": "Apache",
+  "ARCH": "any",
+  "BUILDDATE": "1592546387",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "ca-certificates",
+    "python-pyasn1-modules",
+    "python-rsa",
+    "python-setuptools",
+    "python-cachetools"
+  ]
+}

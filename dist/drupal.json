@@ -1,0 +1,24 @@
+{
+  "FILENAME": "drupal-9.0.0-1-any.pkg.tar.zst",
+  "NAME": "drupal",
+  "BASE": "drupal",
+  "VERSION": "9.0.0-1",
+  "DESC": "A PHP-based content management platform",
+  "CSIZE": "13526314",
+  "ISIZE": "70683588",
+  "MD5SUM": "657f9b509737ede2b11e0e6f21a91ec9",
+  "SHA256SUM": "0b3f674512ccaf311e91880d6cd3ddebad4639281728ffa5701d1ba31ff6c79d",
+  "PGPSIG": "iQJGBAABCAAwFiEEPlGL8lJv0Zeeiq5JZcEQwepDP8cFAl7aNv8SHGFyY2hAc2VyZ2VqLnBwLnJ1AAoJEGXBEMHqQz/HtZgQALJj5kvDp7ElhQPLLtvFlaIEC28FDEgstr92Zz9rcMTjROMR72XAvw75TJ4d5ZvHW7YP68KnQzy+FgIfp4cbfk4FGy5JzHJ9UJ822iNTTaGoRfqmMPmLIc3BR4ztb1FIW75hLCNFgO6G//5/lT/CyysjPVhdjcOlTULF79JPYcEVMkKBOiVRvPA7fjLK9GybZVHZVB6NSYW1rtBNSiKR9qNRG6D//9R/vllfPRNBwr938x5zLFiFrEdQZGcD2jfwakCi7BgSt0D/IEz4SpqSK6h04xZwA5lpd1/pnMxbK32/qlD5YzM3zG7GUWn//dTWMW7Y4+bVaFKS0mj2+rwes1IXZ9zi14/Kn4tRB/I2p7W7UmQlvtEZ7mXqjfvscSljsYaU2WQUSW2le8gJm2l9+ajRqYVGVQt8Sb3daUsLEXLsqcsmrAmanTQd0VXccD6Kj0fOsDGkyAyreHeBYf1QzI9WvKJB90+q36Gr8Jfm2cpHGi8KLZYIAky0Ump/k+I2ChzNmArPTlXzJiy4ifz0uA/ATFwzf/aunW+Nq42CTq0gK3+LTDu1SrZ2pKvqKReC0lUmobebxTl0f+eKpxPMLYiWlUgCboVU6FBrC9V+sHIIsk8+rGhf42j2G9eG2pv/XLO4FA4OycU65rzYl3GzbtKfQxidfKtwPA/cN5kHmbUJ",
+  "URL": "https://www.drupal.org/",
+  "LICENSE": "GPL",
+  "ARCH": "any",
+  "BUILDDATE": "1591358684",
+  "PACKAGER": "Sergej Pupykin <pupykin.s+arch@gmail.com>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "php",
+    "php-gd"
+  ]
+}

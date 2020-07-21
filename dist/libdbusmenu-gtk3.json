@@ -1,0 +1,24 @@
+{
+  "FILENAME": "libdbusmenu-gtk3-16.04.0-4-x86_64.pkg.tar.zst",
+  "NAME": "libdbusmenu-gtk3",
+  "BASE": "libdbusmenu",
+  "VERSION": "16.04.0-4",
+  "DESC": "Library for passing menus over DBus (GTK+ 3 library)",
+  "CSIZE": "40080",
+  "ISIZE": "139485",
+  "MD5SUM": "ea272772e33ce6a8c7114a446caee910",
+  "SHA256SUM": "d26787f06fb86ffebebbc08d0fd22cfa989d253bed4900e981a7c2681ff81033",
+  "PGPSIG": "iQEzBAABCAAdFiEEzgvecadZqH8j8PfYth284QkBwWMFAl5pgPkACgkQth284QkBwWNX4gf+PnMVcffCFzPj956gDEe+PQQYmKjlBdJ7ayqg2mcuHTWqqDBCb2ksj0mP0flIuzfBl4ZkYD4uAhtGdQyrNfpdf+NhIWgjzI/ME0xVl8I4pP7PwINQfiMJBS0qMwla1655xvR4cMrS4Ac0DXTNneNcCtACrKEz//rBs7cNQNro7RoBm+rz3fzqKHJHemxi3fvaOqvoKfflfWPKkhdyaXNPyqbH2SL9/0KnPuFRMnMcY97oDmujkIvAR/xY9evC3cb1/L9u2FuB5dE8mh6Avsf9oTtgAy2wnuV1X27ACAJ0YyinF2/iJ3olEMfMrm9krixp1/OsfOR9PthpZR6dttasHw==",
+  "URL": "https://launchpad.net/libdbusmenu",
+  "LICENSE": "GPL3",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1583972497",
+  "PACKAGER": "Balló György <ballogyor+arch@gmail.com>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "libdbusmenu-glib",
+    "gtk3"
+  ]
+}

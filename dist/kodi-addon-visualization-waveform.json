@@ -1,0 +1,25 @@
+{
+  "FILENAME": "kodi-addon-visualization-waveform-1:3.1.1-9-x86_64.pkg.tar.zst",
+  "NAME": "kodi-addon-visualization-waveform",
+  "BASE": "kodi-addon-visualization-waveform",
+  "VERSION": "1:3.1.1-9",
+  "DESC": "Waveform visualizer for Kodi",
+  "CSIZE": "532651",
+  "ISIZE": "662292",
+  "MD5SUM": "4b8777f6c3adc033c19f2eeaf389591a",
+  "SHA256SUM": "ee62b6bddea6db58aa088c1c36412a31b09e731dcdfca5998decca69a837128a",
+  "PGPSIG": "iQIzBAABCAAdFiEE2yJ3vNUAqjglYQvd2zIzknlsoGcFAl8Ebj0ACgkQ2zIzknlsoGc8Ag/+NXN4jTEwa5izl+VCHKsNb4AA0nx/utAlHhoiDoNDIboYrZs/vSAhQoswxjlQYV/Su5o66LUQjHCyn/Uwy6pe4bsRVNaVbHqC96T3x8hy4i9L8MgerEc/yv5wmEX1iPBL8vgJ3CcxFF4vH9ZpZAfzF4h3qg/4cnpcTzUivkYBUJteOkSGSeuE4hriyJ0W4+MkSDfG8nwVPaQTT+15pGCIa2XTTe3lidJoML5pBO3eTEzQxCRSu6E37kQFpoX+nk0FJA1NQKFgNLP5KdZe6Vhrv0MSrqjTOK9hn1X5kbhxNoQDeW6xeaY32Ad1HeBwRAwTQru5ja+JiFQIHbJcuJjH0W84Yuw8PubjemtEqYTpauP0Asc++Oay8CGS9WfRNxGScg2+akWL9AQLlzFBb3Sk0GPJe8a1VBtZkEW2sqDll4YHEGHZlOLu8+TcSg4c48ZKqABWMRUaDuoxpbOit2ZUGsD9ETROiauLJjNKV6snm8XJw0YAArAyJvW5wEtMlipU/xcGULgE2+Q5Mf3lAr+BhvHL+rOXHhzKSCKeleP5S/LqAPSrhLLE4WdfPQ5EyKew0UyzRCVX5OtQplFvbqLlJLthE8WNVnwpAFLALEMrYTlNKzPh/akGjUUFWO1i9/QX83tZJU0ItMTxLIXkoICW8ai8OIMqH9Wo46HzylIQ+Zc=",
+  "URL": "https://github.com/xbmc/visualization.waveform",
+  "LICENSE": "GPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1594125831",
+  "PACKAGER": "BlackEagle <ike.devolder@gmail.com>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "kodi",
+    "glu",
+    "glm"
+  ]
+}

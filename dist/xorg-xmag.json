@@ -1,0 +1,26 @@
+{
+  "FILENAME": "xorg-xmag-1.0.6-3-x86_64.pkg.tar.zst",
+  "NAME": "xorg-xmag",
+  "BASE": "xorg-xmag",
+  "VERSION": "1.0.6-3",
+  "DESC": "Magnify parts of the screen",
+  "CSIZE": "21294",
+  "ISIZE": "54057",
+  "MD5SUM": "a3ad46105e27a81bd4f9ddb2f5539c72",
+  "SHA256SUM": "aba4745acaf142d955b05baf36d38beffcd00c93b96ae55a174b4ba2beb7d936",
+  "PGPSIG": "iQEzBAABCAAdFiEEhs/8qRjPOvRxR1iAUeixSKmZnDQFAl6/8ZQACgkQUeixSKmZnDRXjgf/R1o3x4UY+qm7elFbbgQNG3L3LWTFcMkb4QXJ9dbqNaTY7Z+LziNVS6LeVmu1K/WA3ACJ4ygfDuXMhss0FkG18yRIcapOnpJwZpbioOulEUw3DGoaiNDEgRRXCYKJq/AVcEtRA4GRwj+Ut1bqSiRqDIM9CHxkuYYwu5l0MCQyfCkN+bWzBmZn4moMovW/Hh8em89DMkkXPEUOCfe4EKr4GRurT8LxqXUNBAJneiZARpJmNKyR2Cp5+Ra3Mf5GDkVM6EzFujDHXlBymkHKX3slSRE4WKfjNIK//JsfZZxLigiUR6oaOPtsezfp6uSqZWwwyIFe4jgDZ2P9DKOJogu33Q==",
+  "URL": "https://xorg.freedesktop.org/",
+  "LICENSE": "custom",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1589637490",
+  "PACKAGER": "Evangelos Foutras <evangelos@foutrelis.com>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "libxaw",
+    "libxmu",
+    "libxt",
+    "libx11"
+  ]
+}

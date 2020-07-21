@@ -1,0 +1,24 @@
+{
+  "FILENAME": "libpng-1.6.37-3-x86_64.pkg.tar.zst",
+  "NAME": "libpng",
+  "BASE": "libpng",
+  "VERSION": "1.6.37-3",
+  "DESC": "A collection of routines used to create PNG format graphics files",
+  "CSIZE": "251825",
+  "ISIZE": "580195",
+  "MD5SUM": "0fbc310a8daf771fa5ea1f293b8f75c5",
+  "SHA256SUM": "5f3e2263c82ec153688f45648ed8ebb33b97634861f9ea18b117bb4ac385eb4f",
+  "PGPSIG": "iHUEABYIAB0WIQQEKYl95fO9rFN6MGltQr3RFuAGjwUCXwOXGwAKCRBtQr3RFuAGj2zLAPoDMGQGqTVHVEUWSZd/2pMtaRwo7SQGsM458J62gfLR/wEAwAtUZVp5rNd60yiASZR2lWtbyTPYcGFJguYhsbSu0AA=",
+  "URL": "http://www.libpng.org/pub/png/libpng.html",
+  "LICENSE": "custom",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1594070734",
+  "PACKAGER": "Christian Hesse <arch@eworm.de>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "zlib",
+    "sh"
+  ]
+}

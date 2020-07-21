@@ -1,0 +1,23 @@
+{
+  "FILENAME": "delve-1.4.0-3-x86_64.pkg.tar.zst",
+  "NAME": "delve",
+  "BASE": "delve",
+  "VERSION": "1.4.0-3",
+  "DESC": "A debugger for the Go programming language.",
+  "CSIZE": "4864162",
+  "ISIZE": "16751863",
+  "MD5SUM": "864f0a85bbf060256a2e0126dba57c6e",
+  "SHA256SUM": "cf85146668b73e237b1a169a651a0045f00f2c462c1ecd778a194ecc4163c0f7",
+  "PGPSIG": "iQIzBAABCgAdFiEEwQA0ZnZjToDJQPuenAL/QZ/svhYFAl7f+cwACgkQnAL/QZ/svhb5tQ//WS6kkCuZ1/HQunSVhLmwpqcSfDMxwtBMSgjjJ/Fl2YWhb8xxskdq0DumoqLrZwsmvWh63Rem2iRC2WyjsUhf3McbztUtPC6+2Cw10u0c+XBMI5A2Io/KnricF4wOt0d8M4+j8uTX1K2Nrb8Dz2MYhpO+C+mdnG3NBUakn+SuxxYNj8c4eOTpuZGWiV5MSMPmzNxgkXEZ3clkOC048LEWUj9RZ9YFUCyiTuVin83TXQeKmfQKXqawNIwXjrYr33VxTu+De1EJiodfpYL9LU4wQTObD9orjgFBVhKthA3vtPRsa/h94TA20cFz/6LDyJrfeYLgtTmfH0hBI0UurrMqngfEYDSfwU7bYlhN3jmF3r1gihFBTVtRElCPFT4VXgmj4j4QYA3QVlLMDiT1s9DE2DgcOER/4H5anMQiXiJupgcP9dWs8N0jcWNjWcNGHWPuP+1MYcyxWSQe3FF5mYGnXCsCEjPrHtjSUtliGOz8Nt1aSOOIjmS00/AQRhzLLxCJmVx6g4Owca1HLPyaLJXZitpLuwr8Fab5rgHt1lhweLTvOXp5R0cpKBZhZZkIZLbt6v4B9XilDlPI9x+7IX/xgiF4wZSISSyb7sowbxY4CeMQjhH0kQqvLvi4uyFNGdyfPRa0rHd5UbwXE3p9XmVV9hgHTzoL5/ElwsXuu7WfrIs=",
+  "URL": "https://github.com/derekparker/delve",
+  "LICENSE": "MIT",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1591736729",
+  "PACKAGER": "Morten Linderud <foxboron@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    ""
+  ]
+}

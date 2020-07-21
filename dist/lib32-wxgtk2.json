@@ -1,0 +1,25 @@
+{
+  "FILENAME": "lib32-wxgtk2-3.0.4-2-x86_64.pkg.tar.zst",
+  "NAME": "lib32-wxgtk2",
+  "BASE": "lib32-wxgtk2",
+  "VERSION": "3.0.4-2",
+  "DESC": "GTK+ implementation of wxWidgets API for GUI",
+  "CSIZE": "5462869",
+  "ISIZE": "19011776",
+  "MD5SUM": "4a1afbe2413e14ad399181757f3b878e",
+  "SHA256SUM": "23b8eebb018be32cc4619d9b51af0a986638d1c510c35495c9c868a8b824a22c",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl7L9awACgkQeGxj8zDXy5JSEQ//coqXkgJ3Mb3kKy/qbqy0tad+QaAS3BZNEdzgl+LK78wZ9zbujie/7Et9mqOg4YvXZqV4BxbumP05setzIc/G2LXWAzxX9Q3zbfxROFYeLmQQlpL0q+7Ol2JSCroqgoOCFb3UCl3xqT0IRgHW7biy5/puEYvBW9i3vJooMpakLnCXDucvxPSCHyzCtBLp29r7MYkhaFqBr9il01uZXZDhz7IplPzv4OwHWIgIhAtU+e8wjp9Cp3a2zf/xWI4nl2E4JtDcaIqg49kfPxjRynrpjIPY6cSXAcEafuI33PpHEP/6JR9TIcC7sPKKNsAkLkbXMcm6z04y+CDhj9RXb75oH1/iV9H19z21DONazWrAPUaUOsQKXxlQgqhpvF3TpUBaZhoSG3D8kvtapFDZvKEYx+s2eWdpNrYKr/+1uyhvd4Y9lJCm0F8OUP62Ir8+pUyzotMXLRmp972Tzsx+46osZYMPAgNrvp2cSVB2sK+FREXayoJ2QN0vi+AKz54DSE3nRALPTnas/gl5grDgOY9YxawGiv1XGFeBJ4ZXVFvQ1BiGl01/q3BwnzoI3B+B3Xd1fHW9Sc4FBprDByvZ3Hmc1Or1FPgUcdxebooRz06Xv1j943Mvxq70BgPrIiPX7+sKyqkyCtJnet2raE6hLIIC8Qo5bUojg2fgpYQWOOwwVMA=",
+  "URL": "https://wxwidgets.org",
+  "LICENSE": "custom:wxWindows",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1590423955",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    "lib32-wxgtk"
+  ],
+  "DEPENDS": [
+    "lib32-gtk2",
+    "lib32-libsm",
+    "wxgtk2"
+  ]
+}

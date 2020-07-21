@@ -1,0 +1,23 @@
+{
+  "FILENAME": "python-redbaron-0.9.2-3-any.pkg.tar.xz",
+  "NAME": "python-redbaron",
+  "BASE": "python-redbaron",
+  "VERSION": "0.9.2-3",
+  "DESC": "Abstraction on top of baron, a FST for python to make writing refactoring code a realistic task",
+  "CSIZE": "60016",
+  "ISIZE": "377380",
+  "MD5SUM": "b245905b361f78ca408db34fac3ee612",
+  "SHA256SUM": "60bfc0c17707929f41f6f69c96847c866aa01cec665e956a36670434a319f955",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl2998QACgkQeGxj8zDXy5Kp+g//R32CQVPkNa+H1R35pJiN2gfx1ZYmjLompjzamdPfLjJEq1M4HkVjwhaOxGXce9zaJqd/eiBh7M74wBT4wmcPPgESNxZgaIzDcMKWCpLsJO8D6aS/pVq1Meg1wjF59BYu0x11veU/3WSNc6nLWITZK0yqLsyj7oX2eIyoLPg/tdGeVqaDMgG8J6umC9ZVSX+eHHm2qsHYl5QLQUSUTrYEyHz59/mUEc+yH507OoO4n6ytgXxdY3S6JP0xaqDDXdhTpQbIhrUp31lO+roEXI5f2y5xCsKFDWzWBzHCVD/dn9tH+EVNmMS9FdkXN72L7qeDoEY8l4WqVtvw1goRi9fNJ/UlMgo3KM7BA2L01sdu76AJ4Gk/tBcEopmqpDW/XqRhMY36urJUGIJehCYR+DRiBZoOIXbX/NWDb9I5gkXGERYiqrfl/Dbim1wMZJn1ZMbnQLe9YUiArr0H3C8LyBJtlQTHbwuKE/ws/PWmV5JAdhyao1i93b8EeB2mvopj3wPUGEKwdq4vHh3hpXneToZC6225oSpXKhcwjtvLjGbQAS3yZXG7M9vNDW0469KNZi6X0BPf+QELELcZJNQTjUHgqqeOatfyrw0w7bwTEvAiEenwQCDG5DpogpyNlGPy9rsEoi7I3v02Lgvq6Rl+Ju6H5La5WYq/0lKmWqjywdBr+vA=",
+  "URL": "https://github.com/PyCQA/redbaron",
+  "LICENSE": "LGPL",
+  "ARCH": "any",
+  "BUILDDATE": "1572730766",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "python-baron"
+  ]
+}

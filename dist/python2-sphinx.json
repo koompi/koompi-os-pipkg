@@ -1,0 +1,34 @@
+{
+  "FILENAME": "python2-sphinx-1.8.5-5-any.pkg.tar.zst",
+  "NAME": "python2-sphinx",
+  "BASE": "python2-sphinx",
+  "VERSION": "1.8.5-5",
+  "DESC": "Python2 documentation generator",
+  "CSIZE": "1552436",
+  "ISIZE": "17056602",
+  "MD5SUM": "c380122ea415c76781c91c4e73d8c98f",
+  "SHA256SUM": "440e8ec9da9ea3b69a99b65692d7d37a8e5304c4d3c27ed5df32a71324ab662f",
+  "PGPSIG": "iQEzBAABCAAdFiEEFRnVq6Zb9vwrc8dWek52CV2KUuQFAl6bb/cACgkQek52CV2KUuS35Qf/bugSAblNdJsVE5otsLomlasVLJtRgytNE5XACBEYRgwxDolj+UfwnwNNtrZNB4TOBx5FmK1AaTCMav479Rf/c73tKWi8D91AaQ/TakDOb0cA9JRjJCKVxPOSkZ7Ed/HdTgf4v3psN63kY+U08cgD9qegsAwJ8rOa3oEpmlX+DyZCat7H4qUBXl8YyWndYx9lXHHLmXBhumogJaZaubAic8kuOzDlkhhm0VLMkbmSpXawTt/HYAau/szg6W8hCni1gpyKY8/gMYmRTtKmsiHU/tCqC1J3KsttfS7hbZLRKSyZQ0EzarBiNup88B/P1CJFwIK0iH38hfMFpwwD8loihg==",
+  "URL": "https://www.sphinx-doc.org/",
+  "LICENSE": "BSD",
+  "ARCH": "any",
+  "BUILDDATE": "1587244903",
+  "PACKAGER": "Antonio Rojas <arojas@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "python2-babel",
+    "python2-docutils",
+    "python2-imagesize",
+    "python2-jinja",
+    "python2-pygments",
+    "python2-requests",
+    "python2-setuptools",
+    "python2-six",
+    "python2-snowballstemmer",
+    "python2-sphinx-alabaster-theme",
+    "python2-sphinxcontrib-websupport",
+    "python2-typing"
+  ]
+}

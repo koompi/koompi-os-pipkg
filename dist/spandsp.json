@@ -1,0 +1,23 @@
+{
+  "FILENAME": "spandsp-0.0.6-3-x86_64.pkg.tar.zst",
+  "NAME": "spandsp",
+  "BASE": "spandsp",
+  "VERSION": "0.0.6-3",
+  "DESC": "A DSP library for telephony",
+  "CSIZE": "444586",
+  "ISIZE": "1689016",
+  "MD5SUM": "e76995158d818c7cccf94eacd0c89ac9",
+  "SHA256SUM": "b8981b9665aa841679bf9c00892d386e653dd14ff94a33d2d6b6f4e7dfd0919f",
+  "PGPSIG": "iQEzBAABCAAdFiEE5JnHn1PJalTlcv7hwGCGM3xQdz4FAl7Xed8ACgkQwGCGM3xQdz4yQwgAnsFRBzWjyr2wuXCOkRkZlo2yEvBjwO0LroNS6C6QFbzJMS10wsm8f56AZjMESbJDbl93bTyX4Qrtz88SI4fQRGMfmUMU48JEyCbPf03c7ehfJI691GsdugzVVVmTn4enVcapvUZoypsDIQ1s3selnp4GLTiC4Oe19EAs5VtvpRZCg6NSXZ1SyHH7lbb1yUuu3warY8ocfP+vCn+2ObIVhiZto4yEzFDgT/pNFQWfYUDBTgeL6kSQCARsXYFwSRFY4LTEC93dVL3lWdWNlJDFvjIZKCj/6a7U7meLE8i+IhMZTvN6R1QpySw+c7ZVCvAIV+TIEJY+oKYbiOx/MjUAQQ==",
+  "URL": "https://www.soft-switch.org/",
+  "LICENSE": "GPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1591179478",
+  "PACKAGER": "Jelle van der Waa <jelle@vdwaa.nl>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "libtiff"
+  ]
+}

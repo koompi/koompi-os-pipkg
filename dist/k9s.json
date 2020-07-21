@@ -1,0 +1,23 @@
+{
+  "FILENAME": "k9s-0.21.2-1-x86_64.pkg.tar.zst",
+  "NAME": "k9s",
+  "BASE": "k9s",
+  "VERSION": "0.21.2-1",
+  "DESC": "TUI for managing Kubernetes clusters and pods",
+  "CSIZE": "14055698",
+  "ISIZE": "67207342",
+  "MD5SUM": "4fb4b9ed87e1958b5a1a2bb81a6730b9",
+  "SHA256SUM": "e560d10caca897c01784a510e03ee7ac54fa10bfaf3cd3e7206df2976b061296",
+  "PGPSIG": "iQIzBAABCgAdFiEEktnGzemaICTWkKdu50JoO6CMsv8FAl8AgeoACgkQ50JoO6CMsv+yng//cw5CMfypHYLCDE8QGlVqJ87ZucSSvFXET/DnTw6Lz0lkBb9dNgeZ7P4p8pq/y7ljT3+xEji8AGpCqpjPBBeQhsfv6MWUyhFEIrqZjOSNhCY3xL4OdzlxUnISbNKBIp4MdZD5VaGkIT7WswKdafSbtBg02l0OzWBrgUt+eDHXA9igQK4Gq/MQatXlGNVuEUPtU1wkmnMjSzeu85rOUc5A4as2w3kzFHoyluZ/RTYQEnm/Y1OTx8gGsaa7/88NeM82xcTMSwu4LXDYMD+aFNRZIVi1A8vm/Xrcmkw31pf1/X7cBs89GMIn0BQVzTCxRjsXh0o4Ea1vqagIpsFG/xTScb/X3UuGK89Ob9XQNEv7hm3ifRRoX9tpo6tHE3t6ZetTmQ+wrk0Kr0QL3dxgwGUr7FIgUOMRi8Jq1TmfhqBzQB1d9tPIpvXpuYtuZc7wMzqkI/mIc45uBaD1eSeH+0hw3azAYTjePqI/IVaoqf/0sIu7vQhSVF7/ehRlQ0ChpjtXKSwT3yNI0RV1wwWXmrSu6DWHJsftrbXcwYLuoXWLOPhgEhNGIJiTu/GeB7M4vRFwI6k72B0I0KPpQtNvgiaFQu6QZ7LsnMEHqr/ev9Si7QE2h1TUypI704dnh7y8zjHovVMJi8vsbIhXOznv7aSz4yUcn0lMyYFA+W2SeIqVW7w=",
+  "URL": "https://github.com/derailed/k9s",
+  "LICENSE": "APACHE",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1593868532",
+  "PACKAGER": "Morten Linderud <foxboron@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    ""
+  ]
+}

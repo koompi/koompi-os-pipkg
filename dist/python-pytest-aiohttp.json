@@ -1,0 +1,26 @@
+{
+  "FILENAME": "python-pytest-aiohttp-0.3.0-4-any.pkg.tar.xz",
+  "NAME": "python-pytest-aiohttp",
+  "BASE": "python-pytest-aiohttp",
+  "VERSION": "0.3.0-4",
+  "DESC": "pytest plugin for aiohttp support",
+  "CSIZE": "4816",
+  "ISIZE": "4647",
+  "MD5SUM": "48cb4a696f41acf454f4a0a2eeb67f7d",
+  "SHA256SUM": "7bbcc56804fe1adb3719021540cd70345922d9b818b51b4f40a5635cd6126bfe",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl2/3d0ACgkQeGxj8zDXy5I2zg//ctMlGg33SGFk0ihv+5Yqbq6vozOWgcetPwWPw5rmLsxoXgPvbmZ0Rdu8/7wNdzcx1iD40WmdVXHOpiU7qN5WdKeUn905hljvbQqS/xCS+i/t9dLZ3mKQEUp8vaJPavCJLOsNWsXbv/qs6xN1S+c/Nsh3ysTXJ+sOO4C+mn9qJ0STZmMSPck6VwLLasXd3bdgHTNyHbEUpU/B8Iga6E3NdWdqtoQ1RYPk3doLx6kTdtnVh0GuhLQq8+kLiHG+3QANjVVsKvbJxTTiz6SDRGqbwo26hgtxMrT4zY0DsEoBJJS3fY2WhQR5ASPoBPtfNLW+WWH5ZNSJFQdjjwdn/eMreMxbISdP2qJYvVAKHPSYENU+8aBW9TUsMBf+9f4ZlHuOZjRBcK8hzC0+YOpYYgZauVF4iEtJnGUKzHfNEM0WLSkl580r1Jeo97rPgOiD2InkjK2Iqilr/KzrbpN838TGV/JW7decWDkxZ+teZ7CU5eeqSWnG3F0OyCHPHXo9k4FeUUE7scYnEbhHc1IQjx01rgVqByOvn60vrQBAgP+OaLEu/3H3U/Qr5fSQCbNXvX9ieyeqLdQDtgPWYAfrvwMexqJlp/VxRBOnrIq1cHy5EMbK3DXXIQ3MPO1OchtuwipaqOL5kd3tijvANm2xI3U1FimzfLAuIVKdnJ4v7O/fxCo=",
+  "URL": "https://github.com/aio-libs/pytest-aiohttp",
+  "LICENSE": "Apache",
+  "ARCH": "any",
+  "BUILDDATE": "1572855234",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "python",
+    "python-pytest",
+    "python-aiohttp",
+    "python-py"
+  ]
+}

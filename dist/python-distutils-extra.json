@@ -1,0 +1,24 @@
+{
+  "FILENAME": "python-distutils-extra-2.39-5-any.pkg.tar.xz",
+  "NAME": "python-distutils-extra",
+  "BASE": "python-distutils-extra",
+  "VERSION": "2.39-5",
+  "DESC": "Enhancements to the Python build system",
+  "CSIZE": "25872",
+  "ISIZE": "77179",
+  "MD5SUM": "ed60692a68a211da8a4b60e5940c036f",
+  "SHA256SUM": "91f57a751c2cadb1a6800d636d922eb6979cdacbffc7d10a614e8407eeeb6a3d",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl27IPUACgkQeGxj8zDXy5LF2A/+MoM4tPB5lN49Qoyu0Jxlx6LSTE+LT1Kl1Wjws2JCbn5qnS6mHuicTmrClWirKnh7DsFgxPOL5acLXoIPF6YpzQcsWY2mQaLCZ+7iGiOHgxSOUg0V331TUiD9jp5miAW9EIKIq45pX2Q7dstG0hQLTeaCgiok8Lv9qpWF2p6JidV7mNVrudTww064q+fqVwnOk0/tw0APWgpVeSNkvqOLs5zwrOffjfJM3UO224GZTQLMm+QU5h0SBrkierWywyzbDuLLRTV4FqOCQ/IHCDDvXMJIsBt26WUYpElWfl4vjIqJJPd1SFAS/aIWjZ7PO4DeDnO1+uZz7B1SXii2aRs1oa6bw15HbD8z6Bya1Gb02eR7LV6deUfZiTjJG6dJEgcPJhVKCpwqi1NiV7c7y+Icp4HTpYTMteL++WucRREN+WraJzhvm2y4cNta/S56X/H7Y0akd/1BDXAjvUV/oyhOsvNeQAytivL9mQ/+s6glkTRFIuSB+4xtFRr0Vfoiysrjw89MxCrursvEywtwG9wUVGeBkSSsC6NMCIU5ZiinEQOVR2Bz+slh8lKSOCbSFQHChOvt0z/CTE8X8Zd5hkILpjOnzdHO9ALwJyD3KPQryTvU1VuAkhc7CSWPbIa7+7pPkCcdUUMPmDchjhA4aCEP4+SK6/ahbLYx4ydGIyx6heU=",
+  "URL": "https://launchpad.net/python-distutils-extra",
+  "LICENSE": "GPL",
+  "ARCH": "any",
+  "BUILDDATE": "1572544702",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "intltool",
+    "python"
+  ]
+}

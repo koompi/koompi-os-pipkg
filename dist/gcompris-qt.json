@@ -1,0 +1,31 @@
+{
+  "FILENAME": "gcompris-qt-0.97-1-x86_64.pkg.tar.xz",
+  "NAME": "gcompris-qt",
+  "BASE": "gcompris-qt",
+  "VERSION": "0.97-1",
+  "DESC": "Educational software suite comprising of numerous activities for children aged 2 to 10",
+  "CSIZE": "74527604",
+  "ISIZE": "106596353",
+  "MD5SUM": "ca92b8d6b282e5409a6463cf85c8f4e2",
+  "SHA256SUM": "065f9fa24a06668ffe1dfac22c8d9f69085314501ae48bbf526cfb1bcaf18928",
+  "PGPSIG": "iQEzBAABCAAdFiEEhs/8qRjPOvRxR1iAUeixSKmZnDQFAl3nLR8ACgkQUeixSKmZnDTAvwgAgDQK9GmDW0tDXA5NgJGwM5AkP/Cuinam9vIjReP3L9p/e/jyhmx95YE0SP1AbTn0YtWAxL28DX3rC6nAgiNOhobsk5m4vIyaJ+f692uoHMUzCP2tw15GTRLoO/ARPfSmhIlOFKnnxo26fK0dlm4BZ488aT2Yp3snS1+tf9uBEZfXsHx2+41H34q04z6vAQ2qJ0K2NRZmAin7RiQVN+Egp7oKiXXtmQkyyUcgtNSKDU0J0E7210KP2ejj0yEe1zvuB0+7uZdg+pyqLtp0/x22RHRFiIYYsudWYSd4aRXFzmOcKQZueUcZREtBvs/lrywjuyFQlXeIS6cUZnV5Et6muw==",
+  "URL": "https://gcompris.net/",
+  "LICENSE": "GPL3",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1575431105",
+  "PACKAGER": "Evangelos Foutras <evangelos@foutrelis.com>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "qt5-declarative",
+    "qt5-multimedia",
+    "qt5-svg",
+    "qt5-sensors",
+    "qt5-quickcontrols",
+    "qt5-graphicaleffects",
+    "qt5-xmlpatterns",
+    "qml-box2d",
+    "hicolor-icon-theme"
+  ]
+}

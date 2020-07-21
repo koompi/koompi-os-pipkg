@@ -1,0 +1,23 @@
+{
+  "FILENAME": "multitail-6.5.0-1-x86_64.pkg.tar.xz",
+  "NAME": "multitail",
+  "BASE": "multitail",
+  "VERSION": "6.5.0-1",
+  "DESC": "Lets you view one or multiple files like the original tail program",
+  "CSIZE": "134700",
+  "ISIZE": "353410",
+  "MD5SUM": "a356a08adb3f091411fc57ee25b3bd27",
+  "SHA256SUM": "0338e040fc4272b006e2340418167925340e0cf7cb3ed98ee79600b6fbb35806",
+  "PGPSIG": "iQEzBAABCAAdFiEESMOx8w3dD+Z+UW0WOW4+JbqxQsEFAl3If9QACgkQOW4+JbqxQsFWKAgAj7z+5UlVflUuFXRUYTxb70S8bD1QZJ0i8rvSLyDBm7cf/gJANxUOPTvibqDZLx3lyeygzn8ugk3d3cNW7X6WXyz7S9v7gDgaja6HYnT6Cy1CiKN/jBpLVNUdAfFQiKyKLwHNl231Ol8A+YyceKUbNFMUuTL8Dz9+4gCAnwwzNgs6w2GkRvXjxmY+lbF8ki5w7ImvnJ5BSMxEB8ms2JH5E410tdrE7EDp5A29bad5RPQcgYdj9/eEvvEvf9z39ZkTiEqGLlUj4WGbeg18/U3i0Q1sdo6l05xXUx3gZS4Lq6B4+pLUBS5tnfh047q2IZQE37wrgceeBmmZfHz8yBv1mg==",
+  "URL": "https://www.vanheusden.com/multitail",
+  "LICENSE": "GPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1573423593",
+  "PACKAGER": "Kyle Keen <keenerd@gmail.com>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "ncurses"
+  ]
+}

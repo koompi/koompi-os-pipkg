@@ -1,0 +1,23 @@
+{
+  "FILENAME": "kcoreaddons-5.72.0-1-x86_64.pkg.tar.zst",
+  "NAME": "kcoreaddons",
+  "BASE": "kcoreaddons",
+  "VERSION": "5.72.0-1",
+  "DESC": "Addons to QtCore",
+  "CSIZE": "1325374",
+  "ISIZE": "3798722",
+  "MD5SUM": "52c002f15fc87c2d662849b6c335783f",
+  "SHA256SUM": "0b17f36eb1c56ecc0b4cb7f38241889a292c219635735451534919bb714cf3b6",
+  "PGPSIG": "iQEzBAABCAAdFiEEFRnVq6Zb9vwrc8dWek52CV2KUuQFAl8JX5UACgkQek52CV2KUuT1jAf/SG5WWs8yG4u1mX3W6VuaQ7E7gl4L2MlXdpm4V1ruP/cCprBF09bEX150C2l84K5DqjBsuAUvQkukJt8LwOFwR6QvH8YVnkoTyZs78mJwmonQlRMyoYjP2ZpybXEUzBbqRD55hhixAXqVVsXrHkePDONBQijhg8lonGiRHubDgazWYEOy40o/xrSFDM2S5/t1SamGhj/W3RTYEWPE2cQdwI0/E6bHr/mNMu7mH4WQ/NlNrNrLv/0601OS7oNtKQYEQGtTx4XDLcS5mNgOzCt+pWrv1TnXe9tXrLZZlkULu/sgaiPH+JAF/iEeHdj5ZccxGAjHT/ep7o6o7b0zq0IJ6w==",
+  "URL": "https://community.kde.org/Frameworks",
+  "LICENSE": "LGPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1594200265",
+  "PACKAGER": "Antonio Rojas <arojas@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "qt5-base"
+  ]
+}

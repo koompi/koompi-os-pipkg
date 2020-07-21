@@ -1,0 +1,23 @@
+{
+  "FILENAME": "lz4-1:1.9.2-2-x86_64.pkg.tar.xz",
+  "NAME": "lz4",
+  "BASE": "lz4",
+  "VERSION": "1:1.9.2-2",
+  "DESC": "Extremely fast compression algorithm",
+  "CSIZE": "112064",
+  "ISIZE": "418880",
+  "MD5SUM": "7e12beecb7a28dfaae73d6126e9cc461",
+  "SHA256SUM": "3936efaba471decaf3a4e12359c2d35d872393c4603c9095fb6e4cc560cd1f7c",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl3MOtoACgkQeGxj8zDXy5KvlA//QV7fH/xYIxt8NQ/fVaLCT2n50HciVDpkZZr/Lcwy5/3LNbKtMCIrTGwd+3gtuJyCuVVAuOgXD/9lo4ISg8+DU8xCcpwWnwzIgct8g6nscbfIORa+XJyJ9FR3lWAlUN6HYFfp2TUcZHxS4hIwSie+YWIg+gMSA/xNkeeLtXcG73nsmLLs9usUoXuW97UVaua2zDHv3p8t70pFTrgLqDLrfRY7vfFzFdcb8OYNPnP8++fS5jp8Y0Vk9jM3KIGJrZAju0ngD2FFC0NlGnL6YSFJS/Yp42bREeWXJ6NIPvMJnuhI7uh7UMBy6ZRF7m+lBhbedMIke/7nsxhWgoMdLVpbCKO9YP1DYUBQcbkTuFe0WktfZiSfORqZhK1ot/ApgCuVfZT5UqVma76kmIoVlWpECC3YMtKUGXBl+WYEeOjcdz6o193rrGimmzonGmBWI9P22d2bzwycDUs8G/7np41/Durk0pjHMDzs7yVJG7BRU4ZeMm+jkWK8Vrx2ikMzLkFYhscvWSuPCFX/Mu4Iv7jm4SnFHX1w+wLJzALkCKZydPOGZa7knsNsO7lpZUdBcTpto6ejuKwqWw0sGkoXnSUPoj8Dfed0qGwNXpktcjdjfmytsE9MVknnLWusZfzx4lqLpkBwivVCyQiYnxFBSe2tOrfu2sztueMRUiptoifSqqQ=",
+  "URL": "http://www.lz4.org/",
+  "LICENSE": "GPL2",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1573665450",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "glibc"
+  ]
+}

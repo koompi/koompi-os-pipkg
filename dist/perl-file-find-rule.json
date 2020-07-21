@@ -1,0 +1,24 @@
+{
+  "FILENAME": "perl-file-find-rule-0.34-7-any.pkg.tar.zst",
+  "NAME": "perl-file-find-rule",
+  "BASE": "perl-file-find-rule",
+  "VERSION": "0.34-7",
+  "DESC": "Alternative interface to File::Find",
+  "CSIZE": "23678",
+  "ISIZE": "35435",
+  "MD5SUM": "d4cb2e661da94619037ac144fe141521",
+  "SHA256SUM": "e62a8edd514736a3c3e8dc8c01900afcca66437bb2ede7763d90cae41d58aa67",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl7vOVcACgkQeGxj8zDXy5J9ZBAAkmbjWpIhPviI/6auPjfg4KQhk0t2psco6qz+txdQ5q8jxVwyN2dqQLlphv0ZZhdtr/rTIQMPzP2C528xlq3hdc20VaDsWYs0jQhoXRBZ4bL+Eghkg/jefrk4cMZZoTnzAqo+4HgezKxBg2fbVha3P3ofKu43B7MWq6CGm7fvK4Uosfa61lBBT9NfCp0kjiGo1PmUpJ0BW0KR8VAP+QZSUyvNuSSrIPYxeFTR5IorBmJCYwu0wZ9UBpDsp5TZ2AEuH3ZtdliA++z8dMEqRcW4Ncz98KHwvKNRA+h5Y23SWCRy4z/+CAszxXW5mXfHXPM9s8584alc7BTBpP70+CEMF0EC1dA9CxKTEE2TNQv+i0aJRNhGbvIdSN0dMlPSW6DemBsFDvTEGwsO9IVKn/z9eLyTzMgBlGBioTX/QhVes7L9zYri1pmKfpNMYps76OZK+6wVjFM7qNcuVDSa9I65yPPrUviWaa5q3oeJqabSzmKGugT1GrEh6s2ksfLxEm6pgAWOUdU9j1hMjcY2K2vhNhPj4DTeAAOvkqGNsyEkrGGuwAKiLhu5oIkUJkjD1NMvml1p0qDoxB3/55/Ui3WWSGzzJcjKZ4sVU+86khgZiLw47n4zXCpI/GR8pviomW0p6s8SbusqTGcfffvIOXCWSKKiAFimVl3ixQd+TBBlhhQ=",
+  "URL": "https://search.mcpan.org/dist/File-Find-Rule",
+  "LICENSE": "PerlArtistic",
+  "ARCH": "any",
+  "BUILDDATE": "1592735892",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "perl-number-compare",
+    "perl-text-glob>=0.07"
+  ]
+}

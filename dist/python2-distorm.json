@@ -1,0 +1,23 @@
+{
+  "FILENAME": "python2-distorm-3.4.1-2-x86_64.pkg.tar.xz",
+  "NAME": "python2-distorm",
+  "BASE": "distorm",
+  "VERSION": "3.4.1-2",
+  "DESC": "Powerful disassembler library for x86/AMD64",
+  "CSIZE": "52296",
+  "ISIZE": "223800",
+  "MD5SUM": "e9a057cc85662ad70aae164c2958aed2",
+  "SHA256SUM": "5cb2837f5cb228ee8750044e70c92df0223f049039af56bd23a04f16bba4f66c",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl2/1s8ACgkQeGxj8zDXy5IGqhAAnwYbjUPOVCjMo9HJqsHJpGo/6A4In80LM5mLBbvSbd/2cSzZuhM9NGhjyYYRCkyjGU5erf/uZsjwssNsKFejER39QTdksbb8HeTxRbSmikgoc3h8E/tNQHrKgpzYRr0G/cBYpOEC9NT6EAV8roD6vvZrL7laixDRmsdeEEaN07E84igSixxUPOuCXmJiP/LghdZeqveiB8wSGDYUhvRKUGiWwMK0VB5vsA/yFSdfPSbfb+J7jsv+ZuJ6dfDLJXSfgQWxebD5P3iPRxtNQcE6Udqk6rJZByDXlUleWc9Mx8Ro1nQgVcKi7uscqgkL+01V6MYFPjoca8fwlTRHVPsdkH0iT/f2695XwY9PxSPwDCDM5u1Elv42l9KKCxg3tpI7kEopNcQgAUrnLmztxzWCbqfJO2oyyrh/MWpbASM/buVe1qkHHT0joClTfl4M2nP9HbQJ1PYw2icrUiDsjbOGGo4TSeut29JwD62uTEPfcCqsVbqA4+3XpwW5uHDVJ8ovLDOinp9jcMiqJrS1kfnT7gzCVIHAD3swxzSWhdBzKY+QbZd0Xww1jfnKfzuTwlL+77v7WyJ8OIqTJwiw7/eX1sdrrVvF9QK2sVICkesIYcv7UhY8qCYsMr5DBLeYMdxf5KUj0hOypDp/mJdKxo26w+lBWZgidy6UcmqU6wWievo=",
+  "URL": "https://github.com/gdabah/distorm",
+  "LICENSE": "BSD",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1572853412",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "python2"
+  ]
+}

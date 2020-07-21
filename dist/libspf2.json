@@ -1,0 +1,24 @@
+{
+  "FILENAME": "libspf2-1.2.10-5-x86_64.pkg.tar.zst",
+  "NAME": "libspf2",
+  "BASE": "libspf2",
+  "VERSION": "1.2.10-5",
+  "DESC": "Sender Policy Framework record checking library",
+  "CSIZE": "67951",
+  "ISIZE": "202082",
+  "MD5SUM": "ab7a3151d5721208b0aaed49f795de72",
+  "SHA256SUM": "9620a3cb6609bcb7877d6ad71682950b721ceacbe504598846cc154ac85555b6",
+  "PGPSIG": "iQIzBAABCgAdFiEEBR6tamFVOJ1p2gLl63Y7Tp24h6YFAl7Cp9AACgkQ63Y7Tp24h6bgVQ/+NtuMMIM+XrSZEL0AsNtVNbARQhtmK90lSeyFRjLMceBXKxECVga3Q4vbxBDhY/DgQ3Sj+zjBdcUsaVO8JurYTO3b3WF+x7zYfVhoykmQs/6dXMHRXHQ6Z/9jX+eo2pSlht8rKxXP43Vtlo/Oji/E2ZYnr9W7pXXRHCPl8bzZ2rKWilMGPi6yTRzDFrgbpJZxr/Q/F+KvtrFswXt9Aj2VLSOqp/GMHtemX+n/ZInGnB3t3NWqDM5slxipMVSIGSrrRaufUF+WcoUjIoWxImNKBuJsIpEX1t0KsommgW9sMHIhOtiLLWMlYrfTWH0RrXVSL0XM3OkPaklGHxg61VKSxNGGcJwCSb0Ub288mqLRIfavKn7ZGAZGzOUquvOMgW+2F7PkrnPkfXD6YpsnriSoWYtjheObLkQwhpdfUbu71tN4QIf3ch09Oj6A7GvwkbRhsR9R8zUduNVg0LXtn4hRJ1Xp2bnbM4lRBtYO/aB5j58oiRcFHu5DoyQMTpdxbzQ7FPdbLiFkpCdHYUvOtBbRbwZvEFx5N3zaUjaVsmfYOQdmqRDMmnw0lb2MfrxwbVK+zAf5ZWkDs4FH4pSyGsxQYceqPhcpZMcD3mQ66seQ4YkGQEYdFb1KaDYKPWK2G3tvuvqdiF77vsuSFglSRLEejVarPua30jA5OIqvcYJj3Zk=",
+  "URL": "https://www.libspf2.org/",
+  "LICENSE": "LGPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1589815210",
+  "PACKAGER": "Thore Bödecker <foxxx0@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "glibc",
+    "libnsl"
+  ]
+}

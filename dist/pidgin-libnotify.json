@@ -1,0 +1,24 @@
+{
+  "FILENAME": "pidgin-libnotify-0.14-12-x86_64.pkg.tar.zst",
+  "NAME": "pidgin-libnotify",
+  "BASE": "pidgin-libnotify",
+  "VERSION": "0.14-12",
+  "DESC": "Pidgin plugin that enables popups when someone logs in or messages you",
+  "CSIZE": "16271",
+  "ISIZE": "40235",
+  "MD5SUM": "75bbc1d63aabe21198ae090feebd9ee3",
+  "SHA256SUM": "130cb551c44560e88c6a2492dab09d10cd2cb0fe84710f96779d20cf956e5b41",
+  "PGPSIG": "iQEzBAABCAAdFiEEzgvecadZqH8j8PfYth284QkBwWMFAl7c1r4ACgkQth284QkBwWOSgQf+KM9a2mN0awhCKRdi8HvIxZoIqmyMbp8cVSJJirMrslxi6Tbo4E85AxcT/2MS1kby1afG+FJB7d3hzZncXKJOoKSI/Shk9t43NzkuSNxh/JuQ4fF2eYnupfZagUFPqDvzveCBWNKZ6/k5nxpW9ss7pE0knYoSKijX0vHqkX8qoD83k6VX7OfxDkWU3gnVmbivfdHFQLDacvHlxC5rmu5JtFU72EMV9X+xH3ZI715AcEb2Cb9m3dj5F3IyXXSgrmp7t9qOkaY5Xku9c+cGuu0+k5Uyp1550Z1cFxG4HTjifORVkmwyJtWPtt19reMZ6fYuJMuUMgsfo0QA2HNENqlkCQ==",
+  "URL": "http://gaim-libnotify.sourceforge.net/",
+  "LICENSE": "GPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1591531136",
+  "PACKAGER": "Balló György <ballogyor+arch@gmail.com>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "pidgin",
+    "libnotify"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "FILENAME": "perl-authen-radius-0.27-2-any.pkg.tar.zst",
+  "NAME": "perl-authen-radius",
+  "BASE": "perl-authen-radius",
+  "VERSION": "0.27-2",
+  "DESC": "perl radius client",
+  "CSIZE": "19655",
+  "ISIZE": "51303",
+  "MD5SUM": "f124e00f7440ef1e3dc9fa9ff6c880f4",
+  "SHA256SUM": "f51edf84b01b16ddf1fa7b6a01b3a2152c3f2e6dae5c0b6efc41d6d1b753b5b5",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl8EocEACgkQeGxj8zDXy5IQIQ/9FT0M93nuMyvK3SdS7OuHXot+nvBe5HOUH4qq2kL2CwrJ495kqpi6jNWx4iAQxHcxi3xwhrPR/PXgRvmVi52KPuAXrIm8vPjHg8ZeM76VgRCrfdnHOrej+rVk29myN3zxtss3UL4qdUId6+Xorc1s7D+6uayt6PYPgoh9iXfk0taEP5bqR3c438R5QqniTHUJTnXUkej9MDusfxYQ0jWGQsb5s1SBy4PqVc/oOBSGshzT068ADOUVXNSNDNBpYcVKbbiZ/L1I+4XCgav+5PEcRirsYVMaMPUDOs/PaZS9kk4z3J7aZP2V8HfwjlOnKYHk7tNIpkylL3uAR8Z1kBgvXQfpPHttjitnOR0bw2cXcjU3KnRgz2Tl66dekKsLVPlmlTev+FEI7LwG71qjs+jlNSkRBoRlIKkrkCnI+HgRlmaLex8AkBSR6dvXSNktB97H1TdYKLvPohL9UuGngOjUn0u5bD91gfOQncwnEV08UnFTHEiu+/QfaewJ9Ylo/FznFXRKXHdASriB+1NqgcIF3WiSRrmM7Feb+9aFgrZ3q2d1/lVNPHYT+/3ZkEXM6QNpFibjH9jn4NWBFpJLyBNIlMG0CRqz2s832WkNgtOIPIjUi7i3KuPHxXUl8mKrJnfKDBf4kCBd5BXjZmTIJxbCKIEipIzzkxWmQIRaP23R+PA=",
+  "URL": "https://search.cpan.org/dist/Authen-Radius/",
+  "LICENSE": "GPL",
+  "ARCH": "any",
+  "BUILDDATE": "1594139057",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "perl-data-hexdump>=0.02"
+  ]
+}

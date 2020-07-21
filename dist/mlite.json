@@ -1,0 +1,24 @@
+{
+  "FILENAME": "mlite-0.2.28+git1-1-x86_64.pkg.tar.zst",
+  "NAME": "mlite",
+  "BASE": "mlite",
+  "VERSION": "0.2.28+git1-1",
+  "DESC": "Useful classes originating from MeeGo Touch",
+  "CSIZE": "120663",
+  "ISIZE": "424669",
+  "MD5SUM": "7b00de95df8e19f28865355e8a9c52ca",
+  "SHA256SUM": "32af39d54dd59491f2520df54213f426a86172118d2451acaf2c3660bae2e21d",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl5pNQQACgkQeGxj8zDXy5LitQ/5Ab2lc86rjyAjuoOT7xFZPRIHi8c8GDYoqrfWcS2+lo8li5HYlsJ05k2Cxaz+6WbvjT/FN37tn7fGXdJBT8r13hYH9WbaU5wv97BSIqka0No5E//SqIkT3arWNdUmiHLw5g3u+BdniW5jsFrNkV5Y3yRub3r751Db8WKmurE+PxBaYZqdKcvS7h40b1i10tExb7Kec3WJh3TGskpfTCYtLYQNoPXtBC3+Nq3Ts7T0/whCSBVJMeBQ3qu/SNzekTqFB1m9MDyctCUgYq6q0um1ryy12aHKGEC8CY8US81GedarMrsTU7RvyhwVqstfso4pcfYRYSREURIGFtNEmXsYQbWZZmTLBrr/0uctYYoWL5/elHPpb4cOW7evclftlRqmMzvo+CClrG5CkwCoAZkuzXqgfwRVKIO3MtQoBijEIaDz0vF9s6J6CGGTeuQO4tGHuvvSMd1kTd0q99jLc6c7EvzTsu28z/FmQC33WP1wqGxC2duxRx+lOQvXkFsWtoQtXXLBBKa6TIp8C2RFI4FQTzLwZGmmQGMHf4fBSle3qHPYKBwj4fKpfLmEY+zBwRSAG17NXJwDP5M6YMzdgjVZIJd0d2NjmUFEkCcVn5EVvPzlLKDpzvqKLWLoUc99bpGpSO/MGAzLkVoWfyvl5bqLUA1Y31Ok7cQPQ3gaFRjussA=",
+  "URL": "https://git.sailfishos.org/mer-core/mlite",
+  "LICENSE": "LGPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1583953110",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "qt5-base",
+    "dconf"
+  ]
+}

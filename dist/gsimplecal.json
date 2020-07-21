@@ -1,0 +1,23 @@
+{
+  "FILENAME": "gsimplecal-2.1-4-x86_64.pkg.tar.zst",
+  "NAME": "gsimplecal",
+  "BASE": "gsimplecal",
+  "VERSION": "2.1-4",
+  "DESC": "Simple and lightweight GTK calendar",
+  "CSIZE": "22678",
+  "ISIZE": "51463",
+  "MD5SUM": "42922b545b4638ac21ab85cfbd268b36",
+  "SHA256SUM": "432c40e8998300ea06a4975afe604d9f5e28a3927dbe552bced6e0116dd6f6e0",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl8Egs0ACgkQeGxj8zDXy5I35Q//YYp1iF1FQVEIbMaUJMCbjgRN4zq0fNAngKVjCNDxFVY83tJsVpvfrEPNxLWTr1KqGBKWXs40YbVsrosIFNk80F/2UznZEkMnxGVbiUro+Wp666pWR8zAr3HyaAyjquf+nfDBiEqovTsR1ymx9WMOtdlQWRVTycve/La+83vTvJ346u7A+0t6kYR6MUDyvl6KeZBaA1LbKVvvmLTMJ++yrAJKKgYhE9YTPYuA1TAt/GaTBJrYYoS9E0jSaZScN7mw0+/6Ms6LIOUfBpNyUo+5W5wemWxS1GqUoFmdcvuaKn/fb7rCCAvAdeJnJzvUQ/YCfeXtU1WNG2rEFfMu28Eve8gp3x4dt4WUfDp5jZTxhGZA7+pJ9IiNoR1tWP1YqgWjblRO93mGuRm/R+FCU+t+bbFl5XV6zSCCDNw81yjkwMEWLQoMi1P0ddG+KbX+yYY7XrIMpVOv+4gVF0BuNmqCoY/ugD9YKVWGpPhVTi20Ju63DXS5NVbTOLzACmdRZG3RsuxjADDvyQ4a5+8x04jBv3wDIBjFr7i1OcR19EEYJdkWHB5MuokRkLz1KSHA7xQxM1XuR4aUP93CAPiXKXsQeAweqXxgyNX0jj4L+FnjvhI5rTLmmv1gXL8RGDk9FpsLXsobL/7C5PrwgXSvZFiG+lWK9M3jQvJ5T1zwmpeVZEA=",
+  "URL": "https://dmedvinsky.github.io/gsimplecal/",
+  "LICENSE": "BSD",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1594131115",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "gtk3"
+  ]
+}

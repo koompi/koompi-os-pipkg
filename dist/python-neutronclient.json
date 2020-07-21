@@ -1,0 +1,37 @@
+{
+  "FILENAME": "python-neutronclient-7.2.0-1-any.pkg.tar.zst",
+  "NAME": "python-neutronclient",
+  "BASE": "python-neutronclient",
+  "VERSION": "7.2.0-1",
+  "DESC": "OpenStack Networking (Neutron) Client",
+  "CSIZE": "556154",
+  "ISIZE": "4553071",
+  "MD5SUM": "e364f29703210f9ada271a323f4fc5e0",
+  "SHA256SUM": "6c607c38943262139450aae28950d278d28975690e7ed4db057b0713b18ad2a4",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl75zBUACgkQeGxj8zDXy5I/+A//aAfEombs6pwRx3mca9hF6KHZ8KGQEf0xb3gfSDdapXMoZpioD4fCVZeUyTTQmlYMG6NMheaDKn0i8Ya75uLnZ9CXRNQNQSnm38JUeBLeh4+ru8GmvCiaAfC6Ja1jv0UxeylA6GVGC9MoEyltHiHy+YbU1OkxW/LZPAtk5g5cexQBQweJytmbA9pesZiMWdqPDufERI/5fpu2MJlOsbIwGAvaqh62GLEL9BsMHvf/nrSv3aDKYjsImgh2tV2PLpzF6aDuVsiDd+nh+Kjuj7tDau5WRNqSLuu+JWrOW2cVTtdff9V7flsc6EnQH+61kTwI/ckDB+E1xmAs9PfO88ii6jk+hM0jbKVyB34UKrBa/9e1RNKcZQqMaEU9M5D1ZQ0sy8w3t/40PTykVlw885yKKk81nyehhPqzPrPImzXkx42zoBjahIzOLFllfbLKhcwj/IoLy/btG41DwDIgs61KCG7ohddPQBPV+kVZBHlniFV3mhB2dJTswWolPwBbTWt4ia3jDaX5gFM8HCsKZMTZJ8v7SMDI1x0H1zVCjSdw4E6QPjIsO+5MOaBl1siUk+chzCuNWnx3QzZpA9/rSzUI5xubwcquPGCCtWiTSLE1WjiC+mZzTwMkjvPkxrbRzFRdd+2AwmIDz0mhcPdSSfeyHLBiwv//b4Gh09os1BMR624=",
+  "URL": "https://docs.openstack.org/python-neutronclient/latest/",
+  "LICENSE": "Apache",
+  "ARCH": "any",
+  "BUILDDATE": "1593428891",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "python-pbr",
+    "python-cliff",
+    "python-debtcollector",
+    "python-iso8601",
+    "python-netaddr",
+    "python-osc-lib",
+    "python-oslo-i18n",
+    "python-oslo-log",
+    "python-oslo-serialization",
+    "python-oslo-utils",
+    "python-os-client-config",
+    "python-keystoneauth1",
+    "python-keystoneclient",
+    "python-requests",
+    "python-simplejson"
+  ]
+}

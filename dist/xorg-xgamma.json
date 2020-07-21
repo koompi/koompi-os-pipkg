@@ -1,0 +1,24 @@
+{
+  "FILENAME": "xorg-xgamma-1.0.6-3-x86_64.pkg.tar.zst",
+  "NAME": "xorg-xgamma",
+  "BASE": "xorg-xgamma",
+  "VERSION": "1.0.6-3",
+  "DESC": "Alter a monitor's gamma correction",
+  "CSIZE": "8981",
+  "ISIZE": "18041",
+  "MD5SUM": "e5c97b151f22de0c42f53bba5f8ccd74",
+  "SHA256SUM": "f3d469e78c18fe69b3a483379ca03d5774d9ae1a6f74160b6d89bda592633e6d",
+  "PGPSIG": "iQEzBAABCAAdFiEEhs/8qRjPOvRxR1iAUeixSKmZnDQFAl6/7tcACgkQUeixSKmZnDT2eAf/SDSlEp5G7n5Lh2daODxJqOE9e7/xwZr/BvrIXLJghW65kDI1pL07xwImp6hNA1+2RRBMhOi7LdJAiV9ZHp62h+VBNTI+95Abp3o9DvDaB/bJlY69PArf3/+gtfGSZV3rpn/4TpPCyyyM8S8ufrRrdGbzZBKeUKOMJXIGJkGJERyIYApZyeTtV9dp8ns6CVesguHYlXlDZC6Ku31P7bjLubuguqvOe3AkSudcijjNbWqLoJpkkyPKS+kgklMAL5I0EuIzAYujPzQmJ6p0XpKtQY00jhUAHkJV2+pgFhnK1zdtXfMp3gcw9lc8KwmI17gjYD4pccRx+YgrjnwM7kltYA==",
+  "URL": "https://xorg.freedesktop.org/",
+  "LICENSE": "custom",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1589636783",
+  "PACKAGER": "Evangelos Foutras <evangelos@foutrelis.com>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "libx11",
+    "libxxf86vm"
+  ]
+}

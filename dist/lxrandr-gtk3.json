@@ -1,0 +1,24 @@
+{
+  "FILENAME": "lxrandr-gtk3-0.3.2-2-x86_64.pkg.tar.zst",
+  "NAME": "lxrandr-gtk3",
+  "BASE": "lxrandr",
+  "VERSION": "0.3.2-2",
+  "DESC": "Monitor configuration tool (part of LXDE) (GTK+ 3 version)",
+  "CSIZE": "59298",
+  "ISIZE": "237412",
+  "MD5SUM": "d829d1084fd29432d801d626e615b86c",
+  "SHA256SUM": "83a695770d5a071614206b6e69301d98d3c0cc4f42d7593df803ff698be2752c",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl8EuyEACgkQeGxj8zDXy5JM0Q/+NNR5Hyb6uQCQ08DxS/SeJPC9VNrNihQi6uWD+ECjc+rTdNHdlfDPPR2Tw9yRNXWW70Ai1kJLqWYuuzoZ+Z8OydHvTrPv4td4pBSFnDPBS5K4DUxkjyhxp6RgQLbgRWzx9sCbsTGdiDPnyP1Gvkm3DDl/Sn3a90uc3/z0lwJIBFhKyJAL9xTc0n+Hg6KiPBtMoet1R5oRjkVQjLOjGcLl9Cw3VFIpl484XY1C45Djj+4H9Fbc3Dv24vjxkho8DNf7R/6/xK4hLKJzZFE6vkj0n/gLeuESwDpUVo8Z1b++T4ZuvOYd4G+DD/Q/7jsxG5yPbQp1p+i4L12p5T/kz4s6e/p3DwcikJ15rp77V4WNWD20wFJPcRWfNHxhCVQG4+SCDf3jlqS7Q7JbLB9Bg7v+GoT8WZXj2WVKWWOvtT/nac+hNRRBikf3pRI/A3ULSnW5n64Ea+FgzVLjm+V9U1Q5E/X6sFua4UP8zxAfQQSzgjE4iKyQpDy4tY5E9zW1+GPqNfa4bRtd/YhDjiKKoYIfIiY4xpcQL2r2Xpvz0wC34l8jwZLjvY5A+JS0+pQ9mGfZadXFTT7xwXrZwB4XmZSuYkq0LNbE/Znw70A7fwJaU0nuvy/fQ1jVb8QsRE23ZSiWzjZ+Uz2f98WorfhCTSXTkfDbz7JpHqay9Ay5adALFO4=",
+  "URL": "https://lxde.org/",
+  "LICENSE": "GPL2",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1594145463",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "gtk3",
+    "xorg-xrandr"
+  ]
+}

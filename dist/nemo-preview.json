@@ -1,0 +1,29 @@
+{
+  "FILENAME": "nemo-preview-4.6.0-1-x86_64.pkg.tar.zst",
+  "NAME": "nemo-preview",
+  "BASE": "nemo-extensions",
+  "VERSION": "4.6.0-1",
+  "DESC": "Quick file previewer for Nemo",
+  "CSIZE": "73739",
+  "ISIZE": "304991",
+  "MD5SUM": "d74cb2632159803ce90ba5311174ac40",
+  "SHA256SUM": "31a779ad6b0af5901fad737b1fceee53d941eb08e583fd3937cdf477d20a2c0f",
+  "PGPSIG": "iQIzBAABCgAdFiEEYEETBMCdNmKDQO7/zrFn77VyK9YFAl68w9MACgkQzrFn77VyK9ZvjxAAxuWmQ43I5o9RTyYkQHxaYX831V16R7z9odojBBBJDelcyMS9RAa5+daIxHLKXOrnyaLcTTUVweEpi1VLZwVYHtVe7V5bTRo1aBcoT6eC1hiNhlwCOd1n1beHkNO7HPL1HnGT85hcspi6KWc1kOO6W+EKuzdURwyFGxmPX5c2fXwY/FVIekl2x5h6dtTSrIXX9R5QZcfv7dop+W0pZ1zz+vZwBTuj9klpRKV+kMKbhCceaeXf/MmE0Ktm4Pia8riNEMtQhKyGZOHZelj3XWEBr4zQ5FkDWVy/Wz2+/if0DflOHJ7k7GXD8kgrgZXpsYcijhx4RJDYvh4bf7Qpmki4DhoH9nGa8jwUGSSzvtGU+OEXCZGEN4xKeJ+O9C2MbmbU0K0DCLlzbXYeDWMvTL/fterXQ1opbbxpR4/sbZJsJK9nM3myZLCVLPw7eL5YEh0LNTliEr6U7+iZ1dMIZDPA2H1HUZeRwO3MOrpC/VRep6YtWjL6t7FlbHS2j0q5+KUmWGTEXK97vRC1WuOM1UiB1fyGRsAHnGIcOK9lwWeKlv4trt7ywwPS2IIGvKJuXxjstPBE/V2+rIRFE1HWErlacF+XQ4Opq0/rsBH3bYvAARc2YFDYMTv9plsqwYeKb/0Lx0ewrAUCuU7F90lkahHAyTEFnEFp/iSV4H5Oc9/tFa0=",
+  "URL": "https://github.com/linuxmint/nemo-extensions",
+  "LICENSE": "GPL2",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1589428185",
+  "PACKAGER": "Eli Schwartz <eschwartz@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "nemo",
+    "cjs",
+    "clutter-gtk",
+    "clutter-gst",
+    "libmusicbrainz5",
+    "gtksourceview3",
+    "xreader"
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "FILENAME": "lib32-cracklib-2.9.7-1-x86_64.pkg.tar.xz",
+  "NAME": "lib32-cracklib",
+  "BASE": "lib32-cracklib",
+  "VERSION": "2.9.7-1",
+  "DESC": "Password Checking Library",
+  "CSIZE": "13468",
+  "ISIZE": "47104",
+  "MD5SUM": "e775dc24ae99fe3a6da1562934e8ada8",
+  "SHA256SUM": "5ae54bb92c2867b79acd57494abc97f436d9087d9c7fdcaa907c99255320b794",
+  "PGPSIG": "iQEzBAABCAAdFiEElDfdOBWnqRaePTlGr/XZUJi8b/UFAly/fNQACgkQr/XZUJi8b/XlZAf+IlGSojsqRbGfd0GoCtx/IN1thwn+Wcw78xgE0ZwPKs3a4iBkFpUZuB1a5NTv2WIQwPBljoCr0OTwkhPMIa/WvsNevK4+2jB/NjDZpb7X9r5FemMlLUbliT8vDY7ebJSwvM7le2ysS/usNsuBqKx5LQyi41DKwam8gAYWfLmis0FuQHK9mZxStpKrhUwYQqqa+gfeVcHSbjrW1ixT8pO4J+veEXRASV6RX6gUj1JI/ydFrDNLiGw6O8xtsRkIFQ962bAGKIMj4rAl/HXRPrlaOTIMnv4lI6Ked3fp5rrAcCzHmtwacLIooxGYB/13fPxXN0qkXjh+BWraDXsvOxN+sg==",
+  "URL": "https://github.com/cracklib/cracklib",
+  "LICENSE": "GPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1556053145",
+  "PACKAGER": "Maxime Gauduin <alucryd@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "cracklib",
+    "lib32-zlib"
+  ]
+}

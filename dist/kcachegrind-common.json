@@ -1,0 +1,23 @@
+{
+  "FILENAME": "kcachegrind-common-20.04.3-1-x86_64.pkg.tar.zst",
+  "NAME": "kcachegrind-common",
+  "BASE": "kcachegrind",
+  "VERSION": "20.04.3-1",
+  "DESC": "Visualization of Performance Profiling Data (common files)",
+  "CSIZE": "714294",
+  "ISIZE": "2997045",
+  "MD5SUM": "9d9ef615ba13ffad9f84af7a67c6b5f5",
+  "SHA256SUM": "c6dc6af641c1d090795d29643ebcb3de004405f536e5cf4eef5ab793a60c158e",
+  "PGPSIG": "iQEzBAABCAAdFiEEFRnVq6Zb9vwrc8dWek52CV2KUuQFAl8HINAACgkQek52CV2KUuRccQf/cK5jcHm10txE2iXPRkacS4tkdKQaiPEHSS0aSR11sMdKA8UbhmUnexLh9N9hESaJn8bOUhq4rfg+f1o8Dr7E9r8u5B47m+h9iWx8+TRuN1xPi0hQkjhhUoGeSiNuG277ir188uvKlOBrfm99aqyiS/XDf9mTzmEMQ1Lb5SRdHOFCPgfvd9ZktzWib+XnH7ux+3dRnAoWKJhfW/mkTzKcOppcMzMYzBVZ0JlCr63Z//eM3kmBBKLGk9OfU6/oYDMAyw2mNCStnZtSA3shOyn7PK8mEQLaBvWo3+npSFKUBfcyWTBUly6qriwWCdozFkrEbbF4XbitqVimTwcxg64CVA==",
+  "URL": "https://kde.org/applications/development/kcachegrind/",
+  "LICENSE": "GPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1594113372",
+  "PACKAGER": "Antonio Rojas <arojas@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "hicolor-icon-theme"
+  ]
+}

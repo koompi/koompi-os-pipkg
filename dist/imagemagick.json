@@ -1,0 +1,30 @@
+{
+  "FILENAME": "imagemagick-7.0.10.23-1-x86_64.pkg.tar.zst",
+  "NAME": "imagemagick",
+  "BASE": "imagemagick",
+  "VERSION": "7.0.10.23-1",
+  "DESC": "An image viewing/manipulation program",
+  "CSIZE": "2639090",
+  "ISIZE": "10234843",
+  "MD5SUM": "e159218ab411b6e042bf5a92f6498b89",
+  "SHA256SUM": "07b0df2769b96382839e2bb29ea5e2dd672c983ed5c1346945190b623f3e8aca",
+  "PGPSIG": "iQEzBAABCAAdFiEEFRnVq6Zb9vwrc8dWek52CV2KUuQFAl8AyFoACgkQek52CV2KUuT4fwf+PM0h5BfFwR4G+cjeoUaUFF/p2yQpGLygTEMTSc9UaVIRoAwYNZKciC3CDylMb5Z3vYNpwiAydlfruEsfHr5I5EZE6XW9vFcAosincSTwpw8OvtVlix4OiTXQ7+FNjuY8voCk/oJl9gxGyLEsUtgG/b8EqVKJK7djdnMs7BYGN3R0Oe3/SDiOPA9kfLd4XqwlJcZ/16L3WzIMHH7oa+1B6tBSamxtrvl133BjT9jyMLgTFCZK9jzmq1UbQx5OdPcUDwis3s4I5JXBXLs+Ag+8w6VrBifA6E8U59wdBtI9oytvOv/PZj/d6ye3dw8ST63muFS8M2C42YYquXdWrIQ1nQ==",
+  "URL": "https://www.imagemagick.org/",
+  "LICENSE": "custom",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1593886341",
+  "PACKAGER": "Antonio Rojas <arojas@archlinux.org>",
+  "PROVIDES": [
+    "libmagick"
+  ],
+  "DEPENDS": [
+    "libltdl",
+    "lcms2",
+    "fontconfig",
+    "libxext",
+    "liblqr",
+    "libraqm",
+    "libpng",
+    "libxml2"
+  ]
+}

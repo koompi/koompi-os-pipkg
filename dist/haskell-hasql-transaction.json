@@ -1,0 +1,27 @@
+{
+  "FILENAME": "haskell-hasql-transaction-1.0.0.1-40-x86_64.pkg.tar.zst",
+  "NAME": "haskell-hasql-transaction",
+  "BASE": "haskell-hasql-transaction",
+  "VERSION": "1.0.0.1-40",
+  "DESC": "A composable abstraction over the retryable transactions for Hasql",
+  "CSIZE": "65339",
+  "ISIZE": "280602",
+  "MD5SUM": "dddc2a835d6d2d684f67f429c503038f",
+  "SHA256SUM": "95dabd58fcc5067773944825b8adbeda22806b4a8a38972ab078b5eac41d3e60",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl75sq8ACgkQeGxj8zDXy5JD5xAArtCpge12ZHEtPRu1yBmJJqq5MoHg0hCXS1mA3DSs2NNmr/2txClwrBqKTOxMolOztR1v+OJ8pZ8Vb/ocfzbVyXfauTii069uWEPCFepXrQ1O5U67kfspeJ5MZpB258nukyCQYeZ4NsMcmt+kbi6i27b5c2euBd1LeP/L3WgPKaqKLsegl2LQkXZnNefbLhIcGCp/0CcUlq9KaYaj7AQBYIZFvoMhL87EYFnq1Be4Q8zl3MFYz6LXJYef8h+8Cgd+6uX1BIdiftj7WLZVxWMe8JfBTnc2S5ASs5mTK/KRx9Ty42Sgmgv4LLL3KDKqFM7PAyMTTi45WKDpfEoZr8yNsM6obNtusFHOylxXFDYeUjr1gZECD53Po+z7Z1dBrMMAqzWDk9JYZRbaAIc2TuSjFRSKXBGOQZXfgNLXwfDGIlgOFZK4dbeDMbLjyoHOyvfm6KHQHNfe0g7ysgdRPoDpnWX8tc9NQSA8Bj9eTI+C4Is5WypkOWKi7WKNwpOH3I50uCtXFqKHYiAox23cZ+nLjWC0X2w6YTtMTYxRmFTXNvegKQd/2tgBRIf7xlFttAljwSAsVVK6Xy7BZklGnF9FgE837739vBaVSO3tX5fsOMo4Y511T78E33bzeP32PiFDobqV7mzKbsTShG4opxS7OHZAhO0vVVXopqJun9ao/Sc=",
+  "URL": "https://github.com/nikita-volkov/hasql-transaction",
+  "LICENSE": "MIT",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1593422442",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "ghc-libs",
+    "haskell-bytestring-tree-builder",
+    "haskell-contravariant",
+    "haskell-contravariant-extras",
+    "haskell-hasql"
+  ]
+}

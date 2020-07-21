@@ -1,0 +1,25 @@
+{
+  "FILENAME": "splix-2.0.0-15-x86_64.pkg.tar.zst",
+  "NAME": "splix",
+  "BASE": "splix",
+  "VERSION": "2.0.0-15",
+  "DESC": "CUPS drivers for SPL (Samsung Printer Language) printers",
+  "CSIZE": "46467",
+  "ISIZE": "171586",
+  "MD5SUM": "b31f47fddaaa6e2024a4b4509501e1b7",
+  "SHA256SUM": "975040503ee64d4fda69dbb795fdeefaf2a844ffa88ff0af3556bca6b436e8d7",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl8EbZ0ACgkQeGxj8zDXy5JQUw/+Nugcr3ieyaDhiEpm3QqwkWA6c52yXZS31c51sbYkRNX5lGpPTrHRaIA8f+ZQX8AtErb0A1e0XejU0p9I5q6SJClxyOunLmEbssKPrOrXz65Q3tvh9ka8tkbe2AHX+KAk6szt/owKc0+TykAWcHu8M965bFi/JqMwbpSGDeawTsQygI2YS976QJNg4X7c/b+YW2Gs6Lyn1Kf0E4PQtcbZFeP2GWvTTAdXTOAXGWPrBZqrvZgAfyH4kEahI72gr3ukxilzAw2RDpitPtIbP/gOJNVk1VcnUHLcd0/TvlixSxHQyy5XtJEQOLtmIsPPXipOH1kwjS/Gml/Ie0K/Cy5MjGOmfWrTuLSB4EUothUCWhsaexgT7g+0GrZud3yuqbbpGhH2pfJnCPiR6KtLYGBaAYglhAa3ZV9rvk0aKfYaqotHGeTgs3sEE9KRciwekcTPRcm+IIc8u+zbJyIvAKVtlJ8MEgXhrvMB72w6RJu36vap9nlS6YaWizFJk88lFsGW89NTpwjfvazS6CXk0iZeeuXAqzhscB0pHmAPU0W7bolis0gV7HnjjRqQELIKv3nQChjlgbGNf0JJv/sA2BKSeOOnoL4vHpkHtOPegleQwYJn4fIhS6cyGaK4flbVVlwZCrq9r+kYW0h2uq9KnJkdSgQfm8u9hosTEhRLJ/6/4tg=",
+  "URL": "http://splix.ap2c.org/",
+  "LICENSE": "GPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1594125683",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "libcups",
+    "gcc-libs",
+    "ghostscript"
+  ]
+}

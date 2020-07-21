@@ -1,0 +1,25 @@
+{
+  "FILENAME": "afpfs-ng-0.8.1-14-x86_64.pkg.tar.zst",
+  "NAME": "afpfs-ng",
+  "BASE": "afpfs-ng",
+  "VERSION": "0.8.1-14",
+  "DESC": "A client for the Apple Filing Protocol (AFP)",
+  "CSIZE": "96554",
+  "ISIZE": "286927",
+  "MD5SUM": "f203abb008d05c76c0b4179f912dc569",
+  "SHA256SUM": "49fcc9678df7234e253b124856b06e3edfe403cfd7bcbe16d2cca104c5cace65",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl8E6CwACgkQeGxj8zDXy5If4hAApfI7uKurfmGqxGxEHwcUOJ+kncLelwEgYsdy2QpPjFCgXWXzVMeEUK22tsWRWvWIZZq6p4aDJpes2cBQg9EbPlJ+F0Db1jqrbO3+QMVfjGr2GIz5qOUerED8Mos2hwUauZBhyKpdnpyavfnONNtj/OuoH/p8beO32cjP9lIfF3FWxGTHKayDzf82CLdu6/UOEcqvUv4I7whDo+7TBt2iD3yWuVFc6mMbU95RFMS79pcZJUgMxSYU1D4d8ndWufSANpHKcgCU/YDGj76lh7pFHlN/VKINtHDhAOEwffdSdok+bUxEq7wey+RikX8WEk82xtThOoZ7GYTtUE+DuLdQ1qDePsvXo6hgSwQg/IiJTihkIbkTIDNybzU1q9pxKh8HxWaNzV7eEegMn7qI5j0CZfy7H0DtVH3Lyt68Vahqi+egiUCZhCJYyucCjq8pHchOjAzoY0w3TbXBtr29tbv3FBo3rND2BlOk4DYWQpDQbhWVQeF0oAULKAXopaieSHUS3JazUD0YzzUyBXqMhfnkkpPnWE4/9Xx6pj59/OhXVJAGgkPOaeOdjtxEbDfpFvQEYV0FvU4KSwtg+s+1UYXO2HQolykaMqh+yOpZ7hMrmRkzCpyXe5Cqj25poYE9xmtcbgFCCtZHS1rdruHWG5gdE3XP5DFNvNN4jZcWv2QyaK8=",
+  "URL": "http://alexthepuffin.googlepages.com/",
+  "LICENSE": "GPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1594156999",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "gmp",
+    "fuse",
+    "libgcrypt"
+  ]
+}

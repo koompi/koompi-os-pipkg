@@ -1,0 +1,23 @@
+{
+  "FILENAME": "akonadi-calendar-tools-20.04.3-1-x86_64.pkg.tar.zst",
+  "NAME": "akonadi-calendar-tools",
+  "BASE": "akonadi-calendar-tools",
+  "VERSION": "20.04.3-1",
+  "DESC": "CLI tools to manage akonadi calendars",
+  "CSIZE": "392334",
+  "ISIZE": "1361812",
+  "MD5SUM": "06e584b7f02270eabcba4977be812b66",
+  "SHA256SUM": "06ce0e891cf6994fe2e890afcd19a281a9b2f766d1dbfbf936e652dc1b881454",
+  "PGPSIG": "iQEzBAABCAAdFiEEFRnVq6Zb9vwrc8dWek52CV2KUuQFAl8HIA4ACgkQek52CV2KUuSqNgf9GB1ZOROyV0nNbmm/FdOLAJp/hUMbL+MwV/+SpoEXEv6leN6tZzaU7KpRhXGp38j41V/U6gLnq5YTw9768pPcdsrfvcFo3rV4DtYTWYMH4207XQlkqDxeLzKtJ3VeuPGg8zVL1f7yy/FWBE+jweQqRsNj/aiDQ/AQce2x3YRYKR0PpJwXR0XWMJIK2cWRk7iVRYGcrcjrqCTw7qsEv1AFPDtgXNjbIHoANOelqLR6yVy3ioFbUD2wAXaWwUB9UHXw317T7W14lzJ6k07f8byiVjmygoaBL5lzEuHN26wq2hsm0DyH1NNjRn9KvCvqsxYCpEZUbNIXcE3bWLaaz1d5Dw==",
+  "URL": "https://kontact.kde.org",
+  "LICENSE": "GPL2",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1594112117",
+  "PACKAGER": "Antonio Rojas <arojas@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "calendarsupport"
+  ]
+}

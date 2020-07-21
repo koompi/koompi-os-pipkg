@@ -1,0 +1,25 @@
+{
+  "FILENAME": "user-manager-5.19.3-1-x86_64.pkg.tar.zst",
+  "NAME": "user-manager",
+  "BASE": "user-manager",
+  "VERSION": "5.19.3-1",
+  "DESC": "A simple system settings module to manage the users of your system",
+  "CSIZE": "9881136",
+  "ISIZE": "10279757",
+  "MD5SUM": "b2117427cb1ada33466aaec131aa3107",
+  "SHA256SUM": "5c54e10ff195446cd21390ae435e96df970a68e0939ac82c03b8b7c82bf9cb78",
+  "PGPSIG": "iQEzBAABCAAdFiEEFRnVq6Zb9vwrc8dWek52CV2KUuQFAl8EhakACgkQek52CV2KUuTMBAf/TP/8FDxJP53ygR7zrpWk1vk8qTj97MHzTW7+jg5eUb7EHtl9HEnQ8FkUmgxEZ8yjPZJbcO2FoP9cbvMGuvRlpf8HyDrL9r4TF+3RgsXGk5EoUTLzZ3pcB91xoxzIfWYDdkJQCmFUXiZp647Q9ttRcLCTRi5e6xJjvcE4HDd+sH9x07nV+WwREnph3CT4xAhtslyBnxI510kLvPq9cHDCTRcxDTFnio/YrbNiQIx5SWAEv7HGPN/4WwPAaYxDr3oEe7D7Qi6NU1OzHDmkxAqI0kwD1NaKj+VcrGfzCSllK/PRUd18hhabDuqNC946TalPzxBPY2v7V0gRT5qQPy5ViQ==",
+  "URL": "https://www.kde.org/workspaces/plasmadesktop/",
+  "LICENSE": "LGPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1594130941",
+  "PACKAGER": "Antonio Rojas <arojas@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "accountsservice",
+    "libpwquality",
+    "kio"
+  ]
+}

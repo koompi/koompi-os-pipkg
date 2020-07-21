@@ -1,0 +1,25 @@
+{
+  "FILENAME": "dot2tex-2.11.3-2-any.pkg.tar.xz",
+  "NAME": "dot2tex",
+  "BASE": "dot2tex",
+  "VERSION": "2.11.3-2",
+  "DESC": "Graphviz to LaTeX converter",
+  "CSIZE": "62884",
+  "ISIZE": "255586",
+  "MD5SUM": "301786424436c33bdbcee43ad4d7d776",
+  "SHA256SUM": "8e41b1d6395e8c0478c23f17eaf7b7ebfd8ab7a124a3dfe283add133c881b0e7",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl2/vVgACgkQeGxj8zDXy5IAkg//YFgRQ74Clb6wdmIeKyD8jEQpdIlhnZYg7IMs7KyI2XBfUfo0+tXDFhm/k2qv/fv+wv7lpQVnY/oH1cBJiopQx4lv7O4sgJgXR6iTR3lZq9dgmi66GsgGztV1u4ioOmmu+pqEi7zQGMtVuCXTqFNGuOBFoDk6NCFKCUPipgX0xnrJR2Grj/NQwM8rHK6Zr7PhPjFVlqGF6qFC8MPjjEaClMaHoB0H0qGX1CDqCyBMZ+K4UcQyT7jvWdjIr+HACGtmmPDK9oe8cvQzdIE6ePqOoGReIsmSwPBTwe3yfKm1qfZHx/GFwj8Q8Rw5D6Fw3HnxJIn3Zr7fRTbiQv+GwCbQ/CiQyO7cN741t+sJTdWNeCSyCqwyYJ/OXtDnbRtVHF3VlBTJlRpBnWs3dui2xjEg4G7dIqFcY1uUHbDyrqZ/+cEwYUrQi4nQzLZY33ohzym/DhSkXBaqKb84+H4VYt+gasffEpjsvVLZsmcYJxzHShk9sZs7GZFwvHPXYM85/3IF5X2NgzGnfEHcLmjUd/DCcF/BY1vEVLrSW3rAJpjp8g6ki0uN+nNbV/MqC5+9uWKqXlzCpZ4hslwm2TzyKWzDNSeIhumD90PTnqL+M/U/e+lGb/0r58VzvZ1KMx5Gv5l7AOqMlE+VWLb9BvoCTQIjaxf/XVC1exxeP0Cij+eWQpo=",
+  "URL": "https://dot2tex.readthedocs.io/en/latest/",
+  "LICENSE": "MIT",
+  "ARCH": "any",
+  "BUILDDATE": "1572846692",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "python-pyparsing",
+    "graphviz",
+    "python-setuptools"
+  ]
+}

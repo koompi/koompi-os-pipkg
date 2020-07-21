@@ -1,0 +1,24 @@
+{
+  "FILENAME": "redkite-1.0.0-1-x86_64.pkg.tar.zst",
+  "NAME": "redkite",
+  "BASE": "redkite",
+  "VERSION": "1.0.0-1",
+  "DESC": "A small free software and cross-platform GUI toolkit",
+  "CSIZE": "95320",
+  "ISIZE": "589124",
+  "MD5SUM": "876ba5494d522ada4299d96b9d90657a",
+  "SHA256SUM": "6a5f20d0d7128bfff3eb605ba4cc70f694cd0da07710f448cbb0f73232caf6ef",
+  "PGPSIG": "iHUEABYIAB0WIQTH54SUZv4jWDQ1iDdyWHNLQcMVSQUCXuIm3gAKCRByWHNLQcMVSZ5GAPsG/ayTjjG642INo0NtNde/Tmc5vIMv3aQY0LqJHR22+wD/UZyY8VJVnnMF9TIMPpad393rp19PlasdSinFfHLxHAI=",
+  "URL": "https://gitlab.com/iurie-sw/redkite",
+  "LICENSE": "GPL3",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1591878723",
+  "PACKAGER": "David Runge <dvzrv@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "glibc",
+    "cairo"
+  ]
+}

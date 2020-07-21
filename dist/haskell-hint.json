@@ -1,0 +1,27 @@
+{
+  "FILENAME": "haskell-hint-0.9.0.3-6-x86_64.pkg.tar.zst",
+  "NAME": "haskell-hint",
+  "BASE": "haskell-hint",
+  "VERSION": "0.9.0.3-6",
+  "DESC": "Runtime Haskell interpreter (GHC API wrapper)",
+  "CSIZE": "365795",
+  "ISIZE": "1882457",
+  "MD5SUM": "1502cfe1bf1fe84ff74af763746171ad",
+  "SHA256SUM": "6232747bab53012753dc9d6afc7779f666347189a7a19aa7a0173b2121c9c59b",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl75CqwACgkQeGxj8zDXy5K+pxAAluGG4XLsF3YkyTCCFlag2ww1gun2qjKLIFCF53nFoh7oM6weKRG3Zcyi7iJisc9+RXSJvwIw6LsMHln6QSMEKdXI8/RL8ZqirA6OP3aRkSj8VyPTkWbYgk8jiTqtey50bj9X3rca+qJrfKOPmIbFF5Lise9F2SRLd2FdlWTy9ll9xzAsYxv4sbKDfnteoYJazlBNal+484q4Lag0V3H1c9BKdEWL4/lWpE73NUAP5fUjI10dJUg/tshoy65oLLi0tK2RMJAEsOvwoqyQh/QHRbyGPe2y98XojmZipeJSVjoc9ccnvInIsvsKr9a7ENuRkVj7JNLZC8qMp25QUCie2RSXRlEnSWMowHRBsj3ESPObrM2cSNjkM5LLhnd64V6xMRt2+HF+4/NQls6LpECEoISSL9eIx+1mGRVOla3uGWKFI1uQRIBBKjFfm7lGuMyHz8G9V0Rzsj9Qu2FTpC7JMFDSdyEq4rrj6Wygtgt8zyelHOEhwb3LXE0G6ZFEtRkSttdHKTTvAMgT/j1vVrDYrkSy6HEZPAEjAub9pMbtcnFBIQgGMF0mtzdZCOm6ZlC8MCcwJ9THF7tnZuwR971OEcmuhB0nFEjre+zaWTq7Xu29m+3+cCfmflGL0CH+Fk5/bBJJS2GwiTu0XuWAirryVtIY18GOP/AzXP2Wf/u4bdA=",
+  "URL": "https://github.com/haskell-hint/hint",
+  "LICENSE": "BSD",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1593379460",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "ghc-libs",
+    "haskell-ghc",
+    "haskell-ghc-paths",
+    "haskell-random",
+    "haskell-temporary"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "FILENAME": "firefox-developer-edition-i18n-ne-np-79.0b6-1-any.pkg.tar.zst",
+  "NAME": "firefox-developer-edition-i18n-ne-np",
+  "BASE": "firefox-developer-edition-i18n",
+  "VERSION": "79.0b6-1",
+  "DESC": "Nepali language pack for Firefox Developer Edition",
+  "CSIZE": "464500",
+  "ISIZE": "528427",
+  "MD5SUM": "31e176f8ced85bd0cdceeff3ed659025",
+  "SHA256SUM": "2f6b0e10b33ca7d1c248568356c84e2457175edf711350a45fe494e900f80280",
+  "PGPSIG": "iQEzBAABCAAdFiEEYB8g8dG7v0p4z1tt9rFhCz7NvJ8FAl8IbNAACgkQ9rFhCz7NvJ+i/AgAjEyhiS/r6D5+WeCcsHzot3QLDIMqyYU0TbBHlJrGU5x1mE9T6eE1Q8CkERh/6YDCBZy8RFnFlRvVVOBwEy2D8Cif/NqCt2USiuDQmXui2VgaT9vxRRwvialLwlA1T6tcZu+Tbp5sWIq9GjgMd2D7fTnViV+0Zz3PgnQ7O3nIWM6BR0NHN+JsrD1cnIWkdniCqeDHIRubW1tev3KQyreF1w6qQ5Z1nXHMepPOD282q2zkQZj52PAnip6z0sR1Zs0rzJ673f/wPsyKOEu+duSnffjRPaAel7fFAgAhMKVHZZeZ9/FYZ9NOJ0isoGcygIj/AhNJ+fY3STFaKp/rzRwq0g==",
+  "URL": "https://www.mozilla.com/",
+  "LICENSE": "MPL",
+  "ARCH": "any",
+  "BUILDDATE": "1594387381",
+  "PACKAGER": "Andrew Crerar <andrew@crerar.io>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "firefox-developer-edition>=79.0b6"
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "FILENAME": "kconfigwidgets-5.72.0-1-x86_64.pkg.tar.zst",
+  "NAME": "kconfigwidgets",
+  "BASE": "kconfigwidgets",
+  "VERSION": "5.72.0-1",
+  "DESC": "Widgets for KConfig",
+  "CSIZE": "1103639",
+  "ISIZE": "2831866",
+  "MD5SUM": "e67bf35dec57d69abf63b9e8335bb23f",
+  "SHA256SUM": "97ceedceb10e0fb1cf7935767db89a3e9f44da55aa4f5744b5a064ab15ff0896",
+  "PGPSIG": "iQEzBAABCAAdFiEEFRnVq6Zb9vwrc8dWek52CV2KUuQFAl8JYAUACgkQek52CV2KUuQvtAf9E/44g1uYkjssIa+kb12yTjdp/fGuOtbZBE01menFtoPDJAoCpwQBRwr2hl4HuhZo7xa/41H2+rlG9YCxa1qjFcwokiBZBNSo46Xnrct6ZkTTuFItBVxbmlxWBHTdH0USC5R9o2mJLn5lrVYQ+EvfjRwa/rxO3aiN+xHePEeqOt5BCkGGYEF1Qo86r641NltT5YuBtAZ9QGyy9Z9n3bK2XidSJ2fxZaphSIfjEcLgCZNSfoAZZ7JE0Gn23WnLM/0OmUgPMVzbFlMr2IobxuXyy0wkeqe634kGiAtQDNHd/XMte6QKdYcXpYg8sqP32vW1H2012yWItqV76DndQU5GEQ==",
+  "URL": "https://community.kde.org/Frameworks",
+  "LICENSE": "LGPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1594200966",
+  "PACKAGER": "Antonio Rojas <arojas@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "kauth",
+    "kcodecs",
+    "kconfig",
+    "kguiaddons",
+    "ki18n",
+    "kwidgetsaddons"
+  ]
+}

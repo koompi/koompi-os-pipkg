@@ -1,0 +1,26 @@
+{
+  "FILENAME": "python-aiohttp-apispec-2.2.1-1-any.pkg.tar.zst",
+  "NAME": "python-aiohttp-apispec",
+  "BASE": "python-aiohttp-apispec",
+  "VERSION": "2.2.1-1",
+  "DESC": "Build and document REST APIs with aiohttp and apispec",
+  "CSIZE": "1456937",
+  "ISIZE": "9263453",
+  "MD5SUM": "c732f22401da0e3bee09989970a4265e",
+  "SHA256SUM": "c7e3077e98042822cabc3222f89c6707794fbc7d113f66cf94b7bbc0b0491c7c",
+  "PGPSIG": "iQIzBAABCAAdFiEE0jW0leqs33gyftiw+JPGdIFqqV0FAl5lCh4ACgkQ+JPGdIFqqV3cUxAAotIsIapcJ/QnAaE+y7uusVbaAFXM5bu+QIgJIEW6KNz8hkzD1WXiqdRBz9tfsa/SlGHb05AsQWQJp8s/ZzSb9p6GNVo4pJ4G06hGBOb7aMao6t7tupxfyHm4lSIdopusmVNkgHPtKkqLWiChgNsF/Xocw9Jnd45a2nYEJ2EJZt2g59AeFtoE/oZaIu5zHTWVIDSz/b1RiAmipHw2fV2HUFjvxlwZBx7Q+r3nbTi1CqdRSDJb7uv0mPwyVv6RsiGF++HdhRh3IXFxzTFbLPQvcpkc7+IgHfT0kWySY9bDxVzO9vY5MhoCpaw4mc0dlLObNnzsMGcKHxvI4BQ+RdVQFub674kPuI/MH+7ONspRvzZvi2mP01LYoyV0jJwpKcms0wyOpawDUB0FN1icz61fI2pCHHWoCntX5nP9Idot0B0enPpK1rXXLm7Txf1d2y/KYE2tdEuC03JO4Bv4mxT88zQTeICsZPt2IwA+mNQVsAmkgqGJjWIoCpYBu8tomUvn4s8BcHrVXOohadS5e8dPmCDoKscE8nWPTwKcisMon3n1pW+G58BACj1BdFdClREy2FQgzgv0Fd4HT9Hfx69saBHEJKaivnpswk3b6oEgpZeGGiGVSK2ALttW/JuVlfOMBxEDkoPwMRJhxakTHjM1vheG1NyLfufGfbjMutu5vGc=",
+  "URL": "https://github.com/maximdanilchenko/aiohttp-apispec",
+  "LICENSE": "MIT",
+  "ARCH": "any",
+  "BUILDDATE": "1583679997",
+  "PACKAGER": "Filipe Laíns <lains@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "python-aiohttp",
+    "python-apispec",
+    "python-webargs",
+    "python-jinja"
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "FILENAME": "haskell-tidal-1.6.1-1-x86_64.pkg.tar.zst",
+  "NAME": "haskell-tidal",
+  "BASE": "haskell-tidal",
+  "VERSION": "1.6.1-1",
+  "DESC": "A domain specific language for live coding pattern.",
+  "CSIZE": "775434",
+  "ISIZE": "4428828",
+  "MD5SUM": "46ca0430b344b3196caedd7b307c4f09",
+  "SHA256SUM": "091a9c8aa0119594e76fea89ec35cda0a8255f9be16b89e20e55eaca6341e38b",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl76/CkACgkQeGxj8zDXy5IPoQ//Xt87joc+b97ynwqLNFxemHUBxtuPDA0dlvpzdkUHY0Cy+8rltekVgAGE7lac55XzFvb3rtE4dH4nyrH5S+coAyMpJiHkshEAPpIJsLcQK+XVc0DkgaQJp/+0s4cmtvCxC4Nk3SsHh1DCx2N2HXvc9h5ojcncCgm/mAfwAHET/uCfiO13Wq1A+LkkkbxH660yFse19YGgH1WEAuoJuWPt6/sDsOvAbUr/vxBLjervEaXv8as+je/woDAnlAmmyMn5rPpjxJ10LRKkfTSJUtsFJn83KQn3Fa2kXBzpo+AHb9LNin0j1g1kieURoKehRZVPXoBRNzUCLHIjTd3djDSnsNdK9TM07H1hWR7hDs6QPtHMKsDTSjIj0J6KpPYSOUNXg9wRP5++BtoSN1ZUQ7q7USHhWTrdtAmffj1xLZenLcyiw7Isoaw8CBTHfiHs/HAOATXEZb59m4rsBXdAQwX3BHsHJKWadXTzcw4dRNlDcSUXW6QXt3z+/9JDlicrUtmsRs2BzZ1E+LYC7cuqfe4Bci3/PwENSAjCCvIowQsX6Z+9dSK0vydD2Xg+pEtd9aF9K2sWrgDEEgEbHPywLShPNauuvx3GEdvzKjavfLFu9HRUvcppewWl24ssucD++Cu+F3rPAL5fBS+h1R/UcO6KOcpzaOlRbBMkr1kKOycbD2A=",
+  "URL": "https://tidalcycles.org/",
+  "LICENSE": "GPL3",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1593506756",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "ghc",
+    "ghc-libs",
+    "glibc",
+    "haskell-bifunctors",
+    "haskell-clock",
+    "haskell-colour",
+    "haskell-hosc",
+    "haskell-mwc-random",
+    "haskell-network",
+    "haskell-primitive",
+    "haskell-random",
+    "haskell-vector",
+    "supercollider"
+  ]
+}

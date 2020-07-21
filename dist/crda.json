@@ -1,0 +1,27 @@
+{
+  "FILENAME": "crda-4.14-3-x86_64.pkg.tar.xz",
+  "NAME": "crda",
+  "BASE": "crda",
+  "VERSION": "4.14-3",
+  "DESC": "Central Regulatory Domain Agent for wireless networks",
+  "CSIZE": "58344",
+  "ISIZE": "234205",
+  "MD5SUM": "7d74e23fcefca9c7c248994d65bea946",
+  "SHA256SUM": "f92fbbe76864feef0483f10fe389ba8f11e591d271166a27700704b1fd146a9b",
+  "PGPSIG": "iQEzBAABCAAdFiEEhs/8qRjPOvRxR1iAUeixSKmZnDQFAl3MJmcACgkQUeixSKmZnDTCWQf+L4veNFfnRn5GUI02sKpjE8ynrV+6i3N+8wbt5JSqvQqBKs+4uW4cVvJNDAasvzw4jLRUWrl6vEQF3/jS5PTS5keD/t1u6DBeHmhB6TUw08ytaDmnYxLAbLoEDinSENOp4Jc2kVzEDuGa0m3+LFAIWMyJ9PrwFRrK/A6EOQXT21SCRQUKdEVtSQN+RIwMEqufpHA91bc6Pauvm+reXqy8SIdrDA2/c7CtpKYhaaHvdlQPzJR6hrdUVGJ3seZZbn7hLzy+94jXXCgZd4FXE5Dc3Wj941+k13XwTo/tf4k1s8WIsyjKKim8nuh5ZXmwS0n3z316j2oD24Qyy/1m23Yzcg==",
+  "URL": "https://wireless.kernel.org/en/developers/Regulatory/CRDA",
+  "LICENSE": "custom",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1573660244",
+  "PACKAGER": "Evangelos Foutras <evangelos@foutrelis.com>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "wireless-regdb",
+    "libnl",
+    "libgcrypt",
+    "systemd",
+    "iw"
+  ]
+}

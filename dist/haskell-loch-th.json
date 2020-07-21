@@ -1,0 +1,23 @@
+{
+  "FILENAME": "haskell-loch-th-0.2.2-12-x86_64.pkg.tar.zst",
+  "NAME": "haskell-loch-th",
+  "BASE": "haskell-loch-th",
+  "VERSION": "0.2.2-12",
+  "DESC": "Support for precise error locations in source files (Template Haskell version)",
+  "CSIZE": "20879",
+  "ISIZE": "76652",
+  "MD5SUM": "c7829119b39f927dca4f3bfacbe1f93f",
+  "SHA256SUM": "63a438682e7fdbd35a91b19b2101c7fc85361464f03b6d9acf7870c2762eb9b9",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl6hhWsACgkQeGxj8zDXy5IjEw/+M3UMrRKeuzlgCygtoa0NdRbRftToH9hD3/K5qJywwqlKge85ebi1/BYfaEpLEWg2FqPxFjqWbWU1TCfQT511U1i8Z2c+AHbLSKQDs8v//cGJtkMofaKIef++RBrHrlMnPLDn0axkr+bBGVKMKFm/A1As2qfJYo0ta/8JwDrJ3iDt210/IJKagfP0QH+rW4emIzAVd9xsBIWCcO1d5NauP+NbUxJmxgwpeS6VmIPHJvpxH2ZxOmY9gkLe2P1o+8YmbgXWnxud0bE7CdtooElOsWLAQbXX79Aan7mBvBFUhMt031Xa0vmPc9VWRqObZg3zKfd95/AS5Hb/Km0bBxiFpQBHbgoRpqB/Apx0v9/jVITVRuAorKn+n7VarjXolgiE8o/MtnNLZ7lh5Rgx2VqLAwAYztFGaFYzUKqYUt+/C4qvKXmM0hY11Dn6jkyDQyHFfSKexci2VWAxmM6BG6iQ5fymy2aLikdyTU3jTT4K2HxNG+nGNhoQEDDomndPFBuPf73HTXLehAKPuZ7E86dMUz8sERmFzNLTHDn2FNtjr2lf4onUSfnoaJklnKIn0tUjVBkqeWEKFqkUrHUi6LbZEc9//Wmg67/e+mzOxr9JTlBix8iOFVzo95tJK1JJ3X6xJBUIbsYp5su6DhOfHEz8JKcImoD+McSzshxilOYG55g=",
+  "URL": "https://github.com/liskin/loch-th",
+  "LICENSE": "BSD",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1587643672",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "ghc-libs"
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "FILENAME": "lib32-libtasn1-4.16.0-1-x86_64.pkg.tar.zst",
+  "NAME": "lib32-libtasn1",
+  "BASE": "lib32-libtasn1",
+  "VERSION": "4.16.0-1",
+  "DESC": "The ASN.1 library used in GNUTLS (32 bit)",
+  "CSIZE": "40688",
+  "ISIZE": "88410",
+  "MD5SUM": "76bb1da31629a8e7b359faece8a296ce",
+  "SHA256SUM": "0fb54f5386fa369c202459ae02da7adc6de72c139eb610f5527149646c6fd372",
+  "PGPSIG": "iQEzBAABCAAdFiEEU1+MAzlFDwVKTSgnBglqatHO3awFAl467BkACgkQBglqatHO3ayBnAf8DHn0QXpAyRkORlJoiciLlOV7LO3D+WmknzZYmycc43nsIuyHZPiB/p4Qu35bx1lJld1yPKr2fSZ9ELa3SMbDzmvBIXx4wm16P9RWymnWwQprDubd3bHRzusAVeE+llxNkGJfz91zOMiwm6AS5XOyxMzcDnrsI3mK4Vl226opFgzuE5qDNe7RmRAwvcOjUbLh2BJD/ICexqrJYcFoTf4uK1V9DNz/xP8jgZdmX0eybU5YrSjogwLR7PkCVara8EVg8idIqASR5XSMGpYCUPvCYtB7lAleGYVcC4232xdFIW1NUkbtPS8FtL+DNrCIlnmLy47TlhfF9QRQMGX9weP8fg==",
+  "URL": "https://www.gnu.org/software/libtasn1/",
+  "LICENSE": "GPL3",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1580919750",
+  "PACKAGER": "Laurent Carlier <lordheavym@gmail.com>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "lib32-glibc",
+    "libtasn1"
+  ]
+}

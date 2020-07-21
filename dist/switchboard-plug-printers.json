@@ -1,0 +1,28 @@
+{
+  "FILENAME": "switchboard-plug-printers-2.1.9-1-x86_64.pkg.tar.zst",
+  "NAME": "switchboard-plug-printers",
+  "BASE": "switchboard-plug-printers",
+  "VERSION": "2.1.9-1",
+  "DESC": "Switchboard Printers Plug",
+  "CSIZE": "156907",
+  "ISIZE": "652562",
+  "MD5SUM": "edb4289b4ff3520e7a2a3f4a043ee245",
+  "SHA256SUM": "c6fe2305068d3423fd073670995ae53cbc5e7e91d9d1bd9835926424ad5c7bb7",
+  "PGPSIG": "iQEzBAABCAAdFiEElDfdOBWnqRaePTlGr/XZUJi8b/UFAl7RJT8ACgkQr/XZUJi8b/WKZgf/anhb3Aeh0zb5y7D6ZXlqUeCLiy/Te/7Y0d5Vu5vv5yt6pcFsojN2HmUJINj/fZzSFPU6NLsqjxU+Ls8j4+Tu3tMsbt7UhdT1nREobvOc7PkvHQ8K6NEUpIo/R3iuT3clSTWh9IJhoVkZ8z9+MnJHNW66AvHIhSHzVd2JoG1zB41zovl7hE6V4bw/bg7avz19BMo55s7hadINsxHUon+RZyoK7eIrZbF8KifVEENL8ycNnji+Mf5DDBTKxVZ7kncm5rOexFzveSQuItglYM5aqCp1Uk7xGveh/Sh7b4weInd2VB1wt6qiEI9Lvy0/bACHYNY4VRBAahcEQh5cqaCBJQ==",
+  "URL": "https://github.com/elementary/switchboard-plug-printers",
+  "LICENSE": "GPL3",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1590764818",
+  "PACKAGER": "Maxime Gauduin <alucryd@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "glib2",
+    "gtk3",
+    "libcups",
+    "libgee",
+    "libgranite.so=5-64",
+    "libswitchboard-2.0.so=0-64"
+  ]
+}

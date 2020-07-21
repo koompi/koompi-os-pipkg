@@ -1,0 +1,30 @@
+{
+  "FILENAME": "dtkwidget-5.2.2.2-1-x86_64.pkg.tar.zst",
+  "NAME": "dtkwidget",
+  "BASE": "dtkwidget",
+  "VERSION": "5.2.2.2-1",
+  "DESC": "Deepin graphical user interface library",
+  "CSIZE": "738695",
+  "ISIZE": "2852331",
+  "MD5SUM": "3873b860f7df4ea5c20c29d315a7e705",
+  "SHA256SUM": "205376ef8fce925aadf4dcf7e35f3235c61109664c22aa70e175395589feacb9",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl8ERv8ACgkQeGxj8zDXy5L/ug/+MA3OTjI1eBUzP8lVENKSMeNVTTR8xOoU2jzSgNNXu9haxBZtA0wK/LprgSjNzxL8Bz+OW432WMtNqi7qaBTcjLPrpyW2bRGY3iOYyj8wQuSNcyt3zh+3mLCku668T9Qt6adQvdLfHzMt1Km1f4HOCJqC29xCG2QEdxyqF4GJTMqZ6S5aK8AOOf41/kVhif5EmCl0oY8XwgoPV1yHNDIKrUcLlwj2AsUSCbT5T7FOFAa9BbmuqpfZkzWQfo5b3WKo3TiHuYKPjaE2a5qnVJbKiQVbwMMz8sF+x+6sEd3+FmiAZz3P7XVEQaJS3KNNZnumh49/Mody7P9ltQz4L76UrIBJpRH2R9TWyaKSqy3dQKgQA/SIjn68zMcXqQ7171Oau6d32cFOdu6SCbbuBYrTbhy/K4t2qvRlFcZMW2SXh4aRb4kWHXC+B/JidEu6OUWU/lb6S5rOXL1Z6DR26rQro4G+qAW/3lMtZlL5dWBVLQwcMrRfI2d15hk3c+5LlnZhT12VDHA50ByN635/R6RTl704+RU4SiKFnMp3rHNpLNnwGhr3RKcecny6suPzRU391hUkgRMQI4b+EW0FOITPamR36opNFxP5JlrdDVN795DPj7ujtMjfoxeLnJIfFXSOwY9uCA5W5lD3tJlVF3DhyHHciZG4MBEPOuMNnTd8tPM=",
+  "URL": "https://github.com/linuxdeepin/dtkwidget",
+  "LICENSE": "LGPL3",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1594115752",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "deepin-qt-dbus-factory",
+    "dtkcore",
+    "dtkgui",
+    "librsvg",
+    "qt5-multimedia",
+    "qt5-svg",
+    "qt5-x11extras",
+    "startup-notification"
+  ]
+}

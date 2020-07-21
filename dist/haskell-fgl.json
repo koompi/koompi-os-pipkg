@@ -1,0 +1,23 @@
+{
+  "FILENAME": "haskell-fgl-5.7.0.2-4-x86_64.pkg.tar.zst",
+  "NAME": "haskell-fgl",
+  "BASE": "haskell-fgl",
+  "VERSION": "5.7.0.2-4",
+  "DESC": "Martin Erwig's Functional Graph Library",
+  "CSIZE": "304416",
+  "ISIZE": "1695947",
+  "MD5SUM": "843a353fb25a8094907aae5648ab03b0",
+  "SHA256SUM": "dea4544894499d5ac46336260471446b4e2c4124abf42b13395d9320f43714b6",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl6hdaUACgkQeGxj8zDXy5LdZQ//bxCD2E7xTAiK0ch/7PBGDKjTCtx2maBrFMuDz0aNy60OmOx3Cx/SjYBrYj9mgIrVz4hAEPw9OzmA0JAkZqmZF5Ov7EF1j6NChgugqi4gm0Mf6pbT4iNI74+HRkx1PcMt6dHObxVYBo5XH3sndGDzsfLTLasxr8an+4GlWMWOXyaXSjA+/QJWbbF4n2dVXC9M7DC8Pp+at4DjK04f6mhmMPJNajEjm3Fp94BjVEmIVsr0jCxHqW53VRj7hvP0I0IVsQwPYSF31nPbUx7/Z+ZQTslYTgfkQSmGd8Xmc4VAcBUHRLksujMH3LVqoixZ83iO1osbIw+Tp2l9Xg8dj0bub+vKxF9GYpxgjEsmCJhSRmZBn4urwD0vjB3z4zo347ugyzsrK2LjvB5T8l+vkojDGqsmAC1bIMEidCAUt43znXVFJT3//bTPaJKNzFpf1AmVRE56vcvQdyuUadXEdDzD985u9VUTzsZcN8+5PKtJCKShDrYtBNjfqS4B1YY+TKLXguaHAU5IktxS9HD1S6SbndH/BGkP+1neLbJ+B4GUzTR5YE6q8fRcgGX7yy889Z+QwQYjV9dT6l6ba2FUxtNf9tN45iT7kLksXyeofEj7a8kVo5umcqwB01uSp2tQAGf88iLLXCQABnYELSDrcbrZLn/4nFDrVH4t5BIph9A1UBg=",
+  "URL": "https://hackage.haskell.org/package/fgl",
+  "LICENSE": "BSD",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1587639625",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "ghc-libs"
+  ]
+}

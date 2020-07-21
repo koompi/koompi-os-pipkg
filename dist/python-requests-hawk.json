@@ -1,0 +1,24 @@
+{
+  "FILENAME": "python-requests-hawk-1.0.1-1-any.pkg.tar.zst",
+  "NAME": "python-requests-hawk",
+  "BASE": "python-requests-hawk",
+  "VERSION": "1.0.1-1",
+  "DESC": "Hawk authentication strategy for the requests python library",
+  "CSIZE": "11768",
+  "ISIZE": "34246",
+  "MD5SUM": "744cd51ae2b5cb1df4a4d3deb804c09e",
+  "SHA256SUM": "b776c528583a8a9478e08c92d622df5bdfc2e0b06416e947b8f1eb395b2549c7",
+  "PGPSIG": "iQEzBAABCAAdFiEEzgvecadZqH8j8PfYth284QkBwWMFAl5k2ogACgkQth284QkBwWM3NAgAs/cb/BtMBXI8Cl3ZyTop2Ycd20/0cQrMjYXewQowjLcktuqxFaBY89a7ZklA0T4/v0ANBaCNV+lqEghWkrn/VrdGtJf5mXp2lFzZZZg/fwPuBqmDKFPP7bGHk3/6Es8lnIyF89WNo+atzjyhOjIvNGpEUYU5M+lgPRyyvrDCZAQq4VNYZsUFifGIbpl7UEQD69EY4okdz2fXFq1aZEXG24/uIBW3aTnWqOOaffIBpadRjc23c8BZMmPZLIAyovXt9tLw9zObl8hViLZMhueIDVHak+4VlG7h2p6YnMB2+fN28iHc2duNuJNOG7c6vM8X6Zm4Ah8NWf0CUWWCMCnZ0g==",
+  "URL": "https://github.com/mozilla-services/requests-hawk",
+  "LICENSE": "Apache",
+  "ARCH": "any",
+  "BUILDDATE": "1583667822",
+  "PACKAGER": "Balló György <ballogyor+arch@gmail.com>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "python-mohawk",
+    "python-requests"
+  ]
+}

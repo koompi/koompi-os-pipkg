@@ -1,0 +1,23 @@
+{
+  "FILENAME": "cudnn-7.6.5.32-4-x86_64.pkg.tar.zst",
+  "NAME": "cudnn",
+  "BASE": "cudnn",
+  "VERSION": "7.6.5.32-4",
+  "DESC": "NVIDIA CUDA Deep Neural Network library",
+  "CSIZE": "365788419",
+  "ISIZE": "892317672",
+  "MD5SUM": "df2acc51c1099f75a4fa4baccc0fea48",
+  "SHA256SUM": "8176ead463c46205f174dd214b852874d2140cb858a6daf0e38c3f830f30d859",
+  "PGPSIG": "iQIzBAABCAAdFiEEj8FaBklQqZ3RvRTdOeS4d+YuuRUFAl5yBEMACgkQOeS4d+YuuRXDyRAAmSAc1HJT0iNOt0y/BEJ2V/yq6LClEscKM5ZdmpiGq0Lc/zPap4zXeuMFDBzI3iAaZz5+Z9El/KHYo5yJImnsYQclSKIJmpiwn1hwxmjUnT0xBRZ7AA2EViyexwcTipWuG+A3HunEhyP5AydZYIgd43uMtURqpQM6eVtzlHH2aCxkHRQarA0+EtORJ8i+qJ1pDCEGl83MW/44Ps4fuJajdDmu8WbSV/unHojFfi059gY+/3cCmjNIGcmOgALHpXjwtaOTJ2y7dyUaWLvUPWUewY+uJ1hMQg71vyY1lW0LJCq0CCxsRl9aRi+8P4tV2GXMk9AzePyNGTRuUnYFmubAD4pTjQJ9674382e9KpvR9rkJ/QXI4rnHUvfvi0Udvf2NNA7bUyPsTLPliHh86X5fF1AuebiHKqScxNKqod1k9MaxvJ6D7NQXR+BqHSUPB2mv6XskmRb4SsLPCJ82+luN4NBhGFVwF7qRFdOiBwjotx76iZhxyy9S62SKi/HuYoi2XJhMP6WArP1hAtMpk87LO6lGsITdCbhxeceOmtmZC61bDF3d/ZPHPGFm1eCaUu0rJ0Nb8Kt1EO2lzOstg3GHA8gs30kXQIingmiyHspZfKzv0SHhusrghWhq0HiVVr4HrJhdR+a8J+Fk0rAEa3aLc+gd12JiVxv0BRqjuGw74XA=",
+  "URL": "https://developer.nvidia.com/cuDNN",
+  "LICENSE": "custom",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1584530316",
+  "PACKAGER": "Sven-Hendrik Haase <svenstaro@gmail.com>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "cuda>=10"
+  ]
+}

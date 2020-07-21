@@ -1,0 +1,24 @@
+{
+  "FILENAME": "haskell-text-printer-0.5.0.1-12-x86_64.pkg.tar.zst",
+  "NAME": "haskell-text-printer",
+  "BASE": "haskell-text-printer",
+  "VERSION": "0.5.0.1-12",
+  "DESC": "Abstract interface for text builders/printers.",
+  "CSIZE": "193639",
+  "ISIZE": "1444587",
+  "MD5SUM": "fbb50f69e77768d689c886bbd8ba236e",
+  "SHA256SUM": "f349d36d9a56a9711dc6cc0bda8ad88fcc6b68604120aedc6535027d981f10d9",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl75JqoACgkQeGxj8zDXy5IYsA//fmF4ustN217ed66WJvS4b5RyDEBvM5A0ox4znpcAOlNuFHQIQboUFrXQuKXivPaO5XWvu2ivv902ltNubeNrnZgeqPPKVOmmLJ7eCj/HKgQgoo/HWddBHqDnKjTM/X/sGjgxO/toWWkHcwt8IOwHtD9akl/zJeK1MupDqcmALviqGjMvFYwLuLrAEfOG3sUDlz9XI3kHx+W/dXxOPyABkt5vsdNE6dvSCgtK+1aNOSTxft3BLz/CjKBuhyyjGTt/znpX0rjYWYT160kDTxukzCrK/n5kBbYZIGLLSdE9zk8tuwamoUVMCQa9MwB6vDpY/BvcirloNq734BgstOoZGMwi8SIimnyRQwpFtk2Ls0tzqSVXdS1EUh93PwyRT8HmWkairGFpVWimNExH4Xx0b0wBW10wlkOxELNVHCI/PPnRUqDv4FyOpVSmz965Vzn9bOlPd9PXRajbjmP8iqQIoeWRONtkHiNsY0DlT5hlagcdDLxTIgPD1c554cnstqOsqpsd8Vq3wn5HsR6yx5Vq4iddua/EpWGY+q9Vkh1Lqbgp4v/ZlmfWPBO1fIt3LGpVWjxZUeX3jrSESbdqh9+q93pLQyIA5k3dOzZDl+j3VyA8oo1kKmis+JcXpZNL7rtjaC7doHzgevzfiGbRV99B28fh6BF2z+atlzHyFPkPHm8=",
+  "URL": "https://github.com/mvv/text-printer",
+  "LICENSE": "BSD",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1593386629",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "ghc-libs",
+    "haskell-text-latin1"
+  ]
+}

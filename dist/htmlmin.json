@@ -1,0 +1,25 @@
+{
+  "FILENAME": "htmlmin-0.1.12-3-any.pkg.tar.xz",
+  "NAME": "htmlmin",
+  "BASE": "python-htmlmin",
+  "VERSION": "0.1.12-3",
+  "DESC": "Configurable HTML Minifier with safety features (CLI)",
+  "CSIZE": "3224",
+  "ISIZE": "384",
+  "MD5SUM": "de5e5206044eecd5e1fa4ddeb0a1494d",
+  "SHA256SUM": "10f1f41fdab6938aeb60586b08bc24fd1ed0b99f5dc6a59d11e394b6d71510be",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl2+A2UACgkQeGxj8zDXy5K4CA/6Ar/WSt5APegCKFyDH8rN09II5hNirTc3mGBQ8N4N9zqKRERohPuVJFOo7iWijtf3rowMcsapLxTnw5faMrFBeOlSrkHlTVS/QHtScj3XUhn4djKWZuy7dBzQOTfhCG47zbR6fXGLlLLPNcz4/dmrIpcog2QWhR5Sp0Kvwj1cD2UQGHkfYlRxlha8mGES1gaduI6GvqVuBdHj27HhlAPTn5YLlzrcYzefvJuwNbxEFDCeX7ar2qB5pYEi/OSbGsC73E2wF4dWTD8XTeQRSfNbdUo7NwthvtU8Spbpy+hvjxHv8Oi2BAop1HjcDDsTu23zeHHZbEkp2PxB8XopyO9mr6HSGeY/thu/Q/7JCxHAX8XLWjWyD4oruG+UBSV8WjIpJQy/qYWQuZWzibpZSQGmaWhlkrCrsI+9NmtMTSASdKkJ9GX7ZFmhuPVaG/lBtHRSdumog+JfHk64oY3lcQFFng6rJPnFzFQNNTDbFXvZxqlyYoOJH4734ocrY+u9dw/WH8olF8nFLmSry6UXWqY1mIwQCHfNEsOa1JBF4MfhiccMnTi5CFUZvF3LQems8eaWjJndMwIn1TdV6Ta30I6PzSQ6J/zkObnkofFu8UJXUF7XJpRPR+Olyhf+1sT/DAkMmk51c+SHUByb2LYQSjwYnMYS7kMeHaZ9EVzwqU0Njyo=",
+  "URL": "https://htmlmin.readthedocs.io/en/latest/",
+  "LICENSE": "BSD",
+  "ARCH": "any",
+  "BUILDDATE": "1572733748",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "python",
+    "python-setuptools",
+    "python-htmlmin"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "FILENAME": "haskell-hourglass-0.2.12-55-x86_64.pkg.tar.zst",
+  "NAME": "haskell-hourglass",
+  "BASE": "haskell-hourglass",
+  "VERSION": "0.2.12-55",
+  "DESC": "simple performant time related library",
+  "CSIZE": "270855",
+  "ISIZE": "1606831",
+  "MD5SUM": "52e14d456aa49883b1b6e32bb979a4c0",
+  "SHA256SUM": "0ceedff082e07ec48f731f08041643de25ecdc6cfb49eaf10d8d3e75556a4a5b",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl75CwkACgkQeGxj8zDXy5JBVw/7BfD5TAAjDPLzC2rHnS9GUlcvGKLTxTYQje4vfdPuHOLT1C40FeK0J6KQmWaA7MfjEBKaQ7jVv80JoJVzGKBbU1taDakPSFN8n0slTQqF9NriudnDOrdV3nuwDaVKSTIjUAjZUDV2OHOdxpea6dIRSzXRrYIUBrZjSYlvCX1n6fFDl+fHak5+ABCmPQzDY17UGL01KWN0TLy3veXixbfnlbY8qFqtyI/TTqOvzEm4iVDf3hjECdWszUb5p8Oj4ZGEs0/qLTclZCCLhFp1I6VfXCCPKAOQDXIqWqfGvb+9OruuyHaZF9RsQT0znuOXBwrCWpUDhHuI+qYcc5oNNWUN3NubYJSyjoxQuJEwtekVAWbDCV2IV2t/tilN0nKraDP0VVG0UKkot/MwG66JL0R00kA/ky6r1n9hrRW1J3hrsNCEE6BF1dWDHLzlD7kp7gaijh7Pn9Lau6OMMlbLFTprbENYVXdw43t/JRlCKrKaf/lMDb2JJz94SOk7apZgVQu/0Ll6y1Q2vk9rpLG6Dd6yNXI/d8AJPwLP7Y8fIA0QfeVkY5z308zIuT8uB4DMIHUyWwPgJF9O0tUtAT2WijM/IB2od7Rany6KlZRuhPaIKqF36PHS/R1QutkD//soVf1SlVJKVTYun8R8fxDBQXeL5exlLENHnVArQ5lLQyl5yMk=",
+  "URL": "https://github.com/vincenthz/hs-hourglass",
+  "LICENSE": "BSD",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1593379557",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "ghc-libs"
+  ]
+}

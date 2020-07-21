@@ -1,0 +1,23 @@
+{
+  "FILENAME": "python2-idna-2.9-1-any.pkg.tar.zst",
+  "NAME": "python2-idna",
+  "BASE": "python-idna",
+  "VERSION": "2.9-1",
+  "DESC": "Internationalized Domain Names in Applications (IDNA)",
+  "CSIZE": "117026",
+  "ISIZE": "973642",
+  "MD5SUM": "90912a31314f7104785953638432f819",
+  "SHA256SUM": "5a11463dcb3637d4c9b442e444d697ba30000f285ae891749446248d42553bb2",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl5KoDcACgkQeGxj8zDXy5LCog//bpfT046sOcyDGIKZgzXYKV/04YZ2kpjHW55WbYappCpBkK1l2Yz/xLVkIJ1S4J+SJfy+1X8O/50VJnKPE7C7GqWrnZKd0GxSZ0Hz4F29ALzvpscYrMUfwpFiafyESluNZZwi+Lo8q0Pg7tCa9kdtIVJ0kr6Z+F+CUjeUenuq1aEsbQpkXuETWd5i8WzLkdEJrYWu0Xn64mWtDnVZIQiEkVb+jM0z3wxbVhNrLyo/cqHTAT14RPYJ5MWH2tXu36hCKklDb6Q5ih2ghE/6Kdz84IkNhugLMhcq9fiWH5aBn2euHe3uHBOJri9RI8AFMQvDoW75u8V5VKoHl7Uf6x+APzMblZlxBxqVllu7nJNYBHYHuwECXj8PYPafP10BpS6vPzybSEsqWc7KbLRKBIJWlVvthEoqIzZ55EzXJUCf4Qn2wtMBB/0820NJFA6Me0fCwRv06mybhmde9EB++ddfXCG095dad8c72f2EKKYSj7lvKpsdwtDl+INRyg0Xtp5UAf/RzyR6KcLdBJjmn+qdXS+Cs9QsL3t4NFl8TXEMw2LNOhHVwmpdEEBGfMTeSN5CUJXsUgqjv/BXskG6Aef2rbj2CNvr7BqfqOMcQFumFX+WWcrlZdzNmBdjQ2tlf+BwMOlkBFozDml72sOx+h2AmxE7/uiUOw7o378HdaBBPs8=",
+  "URL": "https://github.com/kjd/idna",
+  "LICENSE": "BSD",
+  "ARCH": "any",
+  "BUILDDATE": "1581948123",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "python2"
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "FILENAME": "sink-0.8.0-3-x86_64.pkg.tar.zst",
+  "NAME": "sink",
+  "BASE": "sink",
+  "VERSION": "0.8.0-3",
+  "DESC": "An offline-caching, synchronization and indexing system for PIM data",
+  "CSIZE": "1841908",
+  "ISIZE": "10275826",
+  "MD5SUM": "4aebb253ea1f6058444bb7e3b6e3b300",
+  "SHA256SUM": "d54e52088ef9590d2ec2a6840fcbe94df72c86147edf0cf4ad0794407ee9b13f",
+  "PGPSIG": "iQEzBAABCAAdFiEEFRnVq6Zb9vwrc8dWek52CV2KUuQFAl6FA0cACgkQek52CV2KUuS87Qf9E1JZOQb3cLTK60T2ECNCN6AEe8tsJDpQcNR2MU5ys8P1QJ4PVh5IeDeecRuYSdEgK6D+e81gsw0tLeG2PjcEO68gfMpN2u7QetdoSHrLqfSzX74U8S8R8EtQuhRJtFK1c3GEXPRhOg/LiyB/iZ0SNdQLjPekPE4IaGz3OYpFRZiy64wc58Vc7AVA0T747NQxEqCDQuRxt+4x2aQtuH9pRG4mzD1/LQkRJ55DleJGxe6NmUF8YPGlonRULywISbIUGQ4ocxJlWLEgHukTrRZmLsRLxGkE+pcBC6gBtI5Xsm4GT7uUFeqDQb0MbhG4ct4ebkNYwvRhTxILd1Ct+V24Tg==",
+  "URL": "https://community.kde.org/KDE_PIM",
+  "LICENSE": "LGPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1585775118",
+  "PACKAGER": "Antonio Rojas <arojas@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "kcontacts",
+    "kcalendarcore",
+    "kasync",
+    "kimap2",
+    "kdav2",
+    "lmdb",
+    "libgit2",
+    "xapian-core",
+    "curl"
+  ]
+}

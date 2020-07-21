@@ -1,0 +1,23 @@
+{
+  "FILENAME": "hexedit-1.4.2-2-x86_64.pkg.tar.zst",
+  "NAME": "hexedit",
+  "BASE": "hexedit",
+  "VERSION": "1.4.2-2",
+  "DESC": "View and edit files in hexadecimal or in ASCII",
+  "CSIZE": "22482",
+  "ISIZE": "46754",
+  "MD5SUM": "1cc36f60550f96cce048ba83a3e93ee6",
+  "SHA256SUM": "81b4123a3ad8879b6913de45453539a7b709192d3ea0861389bc0c6426506034",
+  "PGPSIG": "iHUEABYIAB0WIQQEKYl95fO9rFN6MGltQr3RFuAGjwUCXhEH5AAKCRBtQr3RFuAGjyMwAP9y3L1Sc/zxeQozgCJRm2l3cCpiRoZ3dsFaXfynPM19CgD/S+W09gbEeUn7LonHv0u+BYMOxu3m2N2eA1s7dhw2VAw=",
+  "URL": "http://rigaux.org/hexedit.html",
+  "LICENSE": "GPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1578174387",
+  "PACKAGER": "Christian Hesse <arch@eworm.de>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "ncurses"
+  ]
+}

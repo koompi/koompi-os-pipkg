@@ -1,0 +1,23 @@
+{
+  "FILENAME": "dbus-client-gen-0.4-3-any.pkg.tar.xz",
+  "NAME": "dbus-client-gen",
+  "BASE": "dbus-client-gen",
+  "VERSION": "0.4-3",
+  "DESC": "A library for generating some simple classes and functions useful for a Python D-Bus client",
+  "CSIZE": "17024",
+  "ISIZE": "70915",
+  "MD5SUM": "a1c4d36f4115d662d4b2cd9a1f39d0ff",
+  "SHA256SUM": "23d3bb47dfad23f02479caf740968aed4edbd344575c5fb4b458be769e749a06",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl2/UZkACgkQeGxj8zDXy5KuJw/7BY2D35E3UN6Hg5w15cAnKnh04dGCx73IuBZrGOiZlZRVmrM4T2mUDTB31gSGLB2HqWIYx84h9++llhdL+RanipxeUqo2uCAdctEAGqx4i36Opc5wZTsmgkrEuSCCjKr+fU8nZBowQ0Pst4c+qQqZdA852ZIJukxlPXd5SKn9AIBcbKD7y4b6qCoo5a8+JAGPN7iX/3H7mzdfMTNIL34ZeY2zclNTfR/lSRq3t8qsvWNhZtifXnvp/aUekcxdOwLTE6FyW5GxBBkNU1VkDU8eJbDpdNVPs2gdrkcioLynw5D3METaJVVvZkflXcEFdRx618cLfQqT3SLdcrOygwJaZRxqd4FF+F1zFmm5f9DXndK94sviVM8bAEOJ/4rom3NL+iDh6WraXLUvHQObBkPFGvV+e8dzalpc7zHEsMTyJbYTc9dnuNm4wH/54O+jwqRHrg5x7U1kl3Gi3VEjQmFNj9k/I799pJrSO2sTEo59N/XAQDIYRzKApbC0FGmSzdcO6YzXZ0TVbpaaV0rzB4Blsw7AYhycWxbYK3aVmrKRhpFM6BMENCpfTlimEpJO+0qb1lZIrIqhpXsJmP9+VrR5N7lMgr8MDZhpLbwfJAF3C4VU02zVZby2b08V7od9jCm0M5hw1/gs4XNZ/isst0EsLVBaah92FMJ8D6JghSE9PZY=",
+  "URL": "https://stratis-storage.github.io/",
+  "LICENSE": "MPL2",
+  "ARCH": "any",
+  "BUILDDATE": "1572819325",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "python-dbus"
+  ]
+}

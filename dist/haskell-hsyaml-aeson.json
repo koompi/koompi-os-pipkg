@@ -1,0 +1,28 @@
+{
+  "FILENAME": "haskell-hsyaml-aeson-0.2.0.0-46-x86_64.pkg.tar.zst",
+  "NAME": "haskell-hsyaml-aeson",
+  "BASE": "haskell-hsyaml-aeson",
+  "VERSION": "0.2.0.0-46",
+  "DESC": "JSON to YAML Adapter",
+  "CSIZE": "27290",
+  "ISIZE": "92596",
+  "MD5SUM": "41f22788c71c075aac1db32bb28cec1f",
+  "SHA256SUM": "17f9279c21ecddaed48ff4bc648a4facf0c1571e47c26cbb634d082d602ddae3",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl75mkMACgkQeGxj8zDXy5JeiA//Rwp0CqyETFrwL8dtXEzFOvQzOtViqTtD/wgXSvxlZkDladPPYrUdkqotnpafxQVTZ9iy4YCdbLec9YmEzjVmJIdXK5JYK6S3SrwROO3yhljjfjKVV1Yjjb5niaT/pxNc34FQAwBDsgu4gDyH/w9FcLDklAqj8BQITFxEzCFJbQ+hm7pFng5kaZHWkBqSq6FDTW6tYv0nGnxSWENwvfIXIdmxX833Gws/1UP8nyYJGo+FRY3E73XkrmvnV6TWAqVSc+WAbjEMQRJtP9+KoW0MGVhwHBy5yx6k8tkeEyZb/A7sIxFNxWxPnT9Uz4XSMxUJmjLsjDunqgYOVxlIrIQAEx/t8WY0axOIcoeqswmv62t4AhKg/Yd7Ph+s2ac1FhXaUdj5JJ+6cGzYJy2PgRXTRyPnkVuo66m+TV77fxCXLHv5DAS2icdu+4feXNdm32Lnz+7IEs+W12Y1itDWplo3+BceQwuGpBJkwqqynmGFn+CqD5V5Rin4PQBT3F09w6OYAPQsLt4E8ZvowxfyP2vN7x3/aCEow+3WVawGkdZnvedXFbeok99BHNozAlh1au977lgZ86tTHR6fDumJMOxlSVSKK125wM9dvFkH5cuKIwr1tKZpdxgJc/pHffbHffHy6fXVx3aTxSCf7mPp2AgGz7PaLSmHfMDXOj6jhEs7HYA=",
+  "URL": "https://github.com/hvr/hsyaml-aeson",
+  "LICENSE": "GPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1593416235",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "ghc-libs",
+    "haskell-aeson",
+    "haskell-hsyaml",
+    "haskell-scientific",
+    "haskell-unordered-containers",
+    "haskell-vector"
+  ]
+}

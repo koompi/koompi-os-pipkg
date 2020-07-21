@@ -1,0 +1,23 @@
+{
+  "FILENAME": "perl-data-uuid-1.221-8-x86_64.pkg.tar.zst",
+  "NAME": "perl-data-uuid",
+  "BASE": "perl-data-uuid",
+  "VERSION": "1.221-8",
+  "DESC": "Globally/Universally Unique Identifiers (GUIDs/UUIDs)",
+  "CSIZE": "17742",
+  "ISIZE": "39799",
+  "MD5SUM": "082f43a479523f625db743da0864b898",
+  "SHA256SUM": "8a9726934d330ec88a3781b75b606cea5ec02f220bdbda6f6319960517ca31df",
+  "PGPSIG": "iQEzBAABCAAdFiEEhs/8qRjPOvRxR1iAUeixSKmZnDQFAl7viXsACgkQUeixSKmZnDQA0ggAnCBArL1YDd+Rm4f59zJfb583DDTVtP0G3SNOTQ59iWt+Z49aUNFPNcKwKSKKel6XFBXTc7BwnrEdG3gSRatehCNpWtrcqrwHdLH7AKi5WhOzDnA1j4IZ+iZz9kb6gWtUGpZYasdyNryiFIc5kr2Lhg+wscjm8nGgQlD5fv64wH+q7sRnhL5lwEKc3aEWv50NxT+Re5U13EjHHqXaA0CvKdXL1dRtiRCo6AdPIAP/qngOUH7MAfBLuY2nS80pw5lUt5PI4yRz8zWfvJHHAHPtWBBf4MCtWXSk6CwrA8F6OO47URhhtunhlBVS27RwYrp75ugTt2eQj+9jShPZvKfdOw==",
+  "URL": "https://metacpan.org/release/Data-UUID",
+  "LICENSE": "BSD",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1592756586",
+  "PACKAGER": "Evangelos Foutras <foutrelis@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "perl"
+  ]
+}

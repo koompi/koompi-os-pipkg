@@ -1,0 +1,24 @@
+{
+  "FILENAME": "ruby-yard-0.9.24-1-any.pkg.tar.zst",
+  "NAME": "ruby-yard",
+  "BASE": "ruby-yard",
+  "VERSION": "0.9.24-1",
+  "DESC": "YARD is a Ruby Documentation tool. The Y stands for \"Yay!\"",
+  "CSIZE": "1047462",
+  "ISIZE": "4773055",
+  "MD5SUM": "1b5902221972e8f8057f60fbc033ae25",
+  "SHA256SUM": "96473fd42b20b15198660183cceed7e52c83fe0e427d44270eda67589b6dc842",
+  "PGPSIG": "iQIzBAABCgAdFiEE4kC1fixGMLp2ji8m/BtUfI2BcsgFAl53+7AACgkQ/BtUfI2Bcsh6Ng/+NasbRQBASRiRUPX18RdIouc+CE18iSY39DVVs9CuUBbdYfqUO9oddsw+DlvyJlYnopNSfYxxhXCeSC4dp3nRC1jRJM39FSItDrkhw5ZZOrwdW/ZGRy4/MH+6iznz8hPU+foLSi2yKJ8fMbqe/KGl/g6tF8LqHIxxDpYmM/TPcfPfwjqjEw/cWIux/2DMLJu7sgMl/ZBb3qKPKjD1RtcswpOQqh5p0q39AAKmlBpbQ9L42qNDWoZg3xjOtLWutyQEI1xlFpz+gwJsmJFIxlOa2jWC53q5fCBH64NFyEjkc5lIZYms0pn9jDQElY9DAjIByJ+br7EyvfhvBLp7U+CENeTSCZT7Thca1Adhcjn0n+hiF4jSdIZla1YMcqaotz0E/Sbgd0ExWrnpKLvqGZONYv/oWg1OWhVh8UqxW6SRMz+YAewok4aCfKgoakKo8rX3P3w3gaV1Id5YuhUxdiwWV/vB3wDg8hsu1R+I5zDQmiBih2vwI2C87Y/RPNwgiZLx3ojLMq4KEpFq8L26kV/N9qTSzC7rRoEVklovquU7Vm8QaFcDYEDHHMnBXAO2ghDFMK1zR4ZOo9cIpKWlmIDCIp3ah7VvQiMqsPOITM3xhUSFwsGdcPogFz0SIq3Oqu3hLguARI+C6qW4L6eMV+vzKLFTT/bzpzcIADUpFnpoXAI=",
+  "URL": "https://yardoc.org/",
+  "LICENSE": "MIT",
+  "ARCH": "any",
+  "BUILDDATE": "1584921441",
+  "PACKAGER": "Levente Polyak <anthraxx@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "ruby",
+    "ruby-rdoc"
+  ]
+}

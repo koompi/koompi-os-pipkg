@@ -1,0 +1,26 @@
+{
+  "FILENAME": "haskell-cprng-aes-0.6.1-133-x86_64.pkg.tar.zst",
+  "NAME": "haskell-cprng-aes",
+  "BASE": "haskell-cprng-aes",
+  "VERSION": "0.6.1-133",
+  "DESC": "Crypto Pseudo Random Number Generator using AES in counter mode.",
+  "CSIZE": "21927",
+  "ISIZE": "68114",
+  "MD5SUM": "d3c4aef121cb0b8aef5fa5cf5ed698c0",
+  "SHA256SUM": "4b8b552c2fe6e22dac51fc28fa4a1eaaeefc917dc9ca006e3c07ed291a40061b",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl75IAIACgkQeGxj8zDXy5I+cA//caEaSByIZoqpw3bK1TuriQiI77HVpFUlsEQ3FMIDUM58bWR9vpkRY0Ly2y/yQwAYsCFNG889V/P+ue28jcDr9aGSnAu7rKquZdcYQjXAn0uDZtXXr9wr1pgT6RQ8b2EJsrQHYEnKG8pNhGAXj9QAvDzRiIj8B61E7H2TmOdICVw6fmELmaMflNP6Wkpbj0ud9uhn1UU7/IXWrF+cx3Uw5m+5NwAbx29EAAVHgVuk/StO4KIzmPUa8nlSNmLJrrNWtV92FsSceioDo9HwJdnDGM5RCGlzMk8BILrXbwfRaxcdnt+u7e6B9xn7jMRrKA4zKUfcIUOws2Tiu2ebvpPqyAPpoqXJZRW9VYjq4MDb+e4EaQMUJmNAQAd1sFC5FPAGHIfhdUT/p6I5Bc8qHjey3rFmF9NqPCSidkTqpclFB6BpLK5+qaQgV/iB4oeQYTdktW2AcYDVdjQDNu3bHzrFA+QSm2xPgjBaGxI/pG22Sthz3ugv85oBHkXHTq3PYtiIfDU20P5ClVmkvKtiXrTskLdLwEHhV1Rj9JP7pLsxSF2xTPVZkV9bu64q2r44LdK3kXa2K+ExzwHqkkrhxBsJMGdvW3gWWWdkHwnhF9W9XB/XdHElWJ+8ZRf4kcnLsnSQOFy7fzNDMljiQ+4zPhNKXXD9BebPCEbMwgpG5qVxFDA=",
+  "URL": "https://github.com/vincenthz/hs-cprng-aes",
+  "LICENSE": "BSD",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1593384941",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "ghc-libs",
+    "haskell-byteable",
+    "haskell-cipher-aes",
+    "haskell-crypto-random"
+  ]
+}

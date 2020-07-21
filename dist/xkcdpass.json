@@ -1,0 +1,23 @@
+{
+  "FILENAME": "xkcdpass-1.17.3-2-any.pkg.tar.xz",
+  "NAME": "xkcdpass",
+  "BASE": "xkcdpass",
+  "VERSION": "1.17.3-2",
+  "DESC": "Generate secure passphares inspired by XKCD",
+  "CSIZE": "1447240",
+  "ISIZE": "6740788",
+  "MD5SUM": "5ba396791e4f7648b9017c907f03d76b",
+  "SHA256SUM": "004f208c22bc73c7e919acc4d5d7459bd2a68e0ac057e64667f6aa5d1101ec1d",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl2/ekYACgkQeGxj8zDXy5JgFQ/9EBPl2IaNrGNejV8o0TbiTNMAyas4kycvoFWP6ZAlAgnNU6LEWPwn+JwMJKjZvUddMWdrziSS9aPhZc7VtauyruySP/nSSu9QckNZP9FiNd2zQ98EZDXteA4IV+j3gVPgxN1gw2TgzmtKjaVd3V6+6rsctTi+gp4NOG+3b75O7kPpt+/bE0FDJKB84hljejRC7ZaidZ8fJ/q9ulLOKz8XRnUBH/uk02GNmdlo0Hyjd0aDqKUB/1w2UTadOivFUKlw870T+xUdGz9oJlFbZksw+7P61YzAXlH4rAlAi8FsqCz2MEn2jjDRvv801ApFmYknumdHBwcli7JP7f8+3TxzpWTeF0zOtM5ohzsj70sjItfFbHd7bO1sYqPkmTTkNbA4dRbvCpCnDOwQvVW2esAmjboUHCOUb7OwbXYtmEovDgXqYhm2a/pKG0xkWZG53BGenTdlmE5+MsYV2Mgz3u/uJnQ85HpLiecyA2PZ0EW1hTy9H1VUtr+MXYoRqCbvB9jN0CFnwq6/QAKnzcBDFHjQg6cZzslc+L3vETQymgrrCtezkZaR+HZ7z4taiIu6sQ3yhZ/uIQGZwXbqQgBwPCq2TD2t6ZD7VKIoRL/oDOMAFH+oPc1QA2hWsQRNcsCMZltQtCKtpovyjXWXq73eisW2X/Z2XoNVkYpOEPJv591wjss=",
+  "URL": "https://github.com/redacted/XKCD-password-generator",
+  "LICENSE": "BSD",
+  "ARCH": "any",
+  "BUILDDATE": "1572829729",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "python"
+  ]
+}

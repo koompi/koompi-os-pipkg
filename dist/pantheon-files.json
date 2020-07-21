@@ -1,0 +1,36 @@
+{
+  "FILENAME": "pantheon-files-4.4.3-1-x86_64.pkg.tar.zst",
+  "NAME": "pantheon-files",
+  "BASE": "pantheon-files",
+  "VERSION": "4.4.3-1",
+  "DESC": "The Pantheon File Browser",
+  "CSIZE": "873760",
+  "ISIZE": "3562041",
+  "MD5SUM": "ce21b68ab3b66b40aeaa20565c762eae",
+  "SHA256SUM": "a263088a507673ed1aaf46047b66e7d022e51abeb63769c7f0a09f7a59637a28",
+  "PGPSIG": "iQEzBAABCAAdFiEElDfdOBWnqRaePTlGr/XZUJi8b/UFAl7WGeAACgkQr/XZUJi8b/WX4Qf8Cfheti6w31K7bpQpAETmerU5BUtXsT24s+DNRu3OCyOWe4D4NE8Ih9AiR58aacqkO5br+FHuf1YZW1nIESXi630KIaHE/Uwsqj4EAh/BKebPHzOX0i7JVwIVNYZMuMmat/lKRFv8KahEnPETs8rYJmlPBeau/Na3xURk2QrAFltuAxtBIRObgU4RMvUhTeLiNbQqKpXTFwGcFYiLxBqQb9cQWOa70tXZLl2BB3lIx+psDmAJUkLQWEbHNz2Anz+2JjV2KEGmMgn+1YKqwPmU1MbwjaFzdEoP9dZ6YEaKVa+5aOWWrZIfRhJBR0As1aOC0hYSbhLJ0eSicZGpZ4hCxA==",
+  "URL": "https://github.com/elementary/files",
+  "LICENSE": "GPL3",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1591089564",
+  "PACKAGER": "Maxime Gauduin <alucryd@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "atk",
+    "cairo",
+    "gdk-pixbuf2",
+    "glib2",
+    "gtk3",
+    "libcanberra",
+    "libcloudproviders",
+    "libgee",
+    "libgit2-glib",
+    "libgranite.so=5-64",
+    "libnotify",
+    "pango",
+    "sqlite",
+    "zeitgeist"
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "FILENAME": "arptables-0.0.4-6-x86_64.pkg.tar.zst",
+  "NAME": "arptables",
+  "BASE": "arptables",
+  "VERSION": "0.0.4-6",
+  "DESC": "ARP filtering utility",
+  "CSIZE": "35883",
+  "ISIZE": "73721",
+  "MD5SUM": "7c131b10616b61f9276342c16cc59a88",
+  "SHA256SUM": "f01497cd3f98c9c7c50bc7af6746e8515c7bbb025890e3010be43fd5caa642d5",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl7DkT0ACgkQeGxj8zDXy5IlnxAAlURVv6B8sFcFH+AJxzno0vW8xtd/R4A0LlMtIJToaLwi/530MtM+/XmH5YlOfQ7OPfcXYnYgkiDsn3v43Ee8iMJLgoyD/T6tfCeeSpZzlk9GQXYfuiqdJmV3lu1V6vQbGkKMbRGPfmXlMEjFsUYyKkf9WnSQFOh0W6snsEm/LCHm5xk5Uy4BQ+hhTD7L/TjIkUPjZ0cq8ZDwN54k1eJkZ7BlarkwqP+3+wGRbKH55kAJuaTVS7SYC1O6FQ7W9Fm2S9KTb6OT8U3CJokOScXBwN2JbKvA9rMuxNNbyRNyxRpBEj7+7RLLFNknqLT/xS9a4E2uPXnINhCDvn6PU+rujxORQLuDLpTev56z3UqIhQjc8+HWz6p0GgKsUY6r7xgX1G1WLyeIFkbiW70m1dvh69lm0eZUtFmENLBB3eTeV16Y+EbrF7st0qZudX7nz4z14PaGW7FY1uSSRUeql4J/xbJt6NKyKXE9OkUYlDI0jkSC2sSphBKCtj2XRmvXQq5onvX/TiGM3rOzbNjNMHoMhIJu+2PoxdCle1J3Wx9/hrBkvxRrNDOobM+ux1by33Pw0jtbgk4pWiDJ4Y4uD29WTEdl990/dPYmeVMlB9bHaDREoasP5+D6rnN4+tfGgINQcAIMU/K1QN4zpqv1xG7NW+20v8+u45rzJP1Jr137/Mw=",
+  "URL": "https://ebtables.netfilter.org/",
+  "LICENSE": "GPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1589874984",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "glibc",
+    "perl",
+    "bash"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "FILENAME": "ruby-term-ansicolor-1.7.1-1-any.pkg.tar.zst",
+  "NAME": "ruby-term-ansicolor",
+  "BASE": "ruby-term-ansicolor",
+  "VERSION": "1.7.1-1",
+  "DESC": "A ruby library that colors strings using ANSI escape sequences",
+  "CSIZE": "43191",
+  "ISIZE": "121592",
+  "MD5SUM": "d7cdcf7232fefde096276156c3989829",
+  "SHA256SUM": "1786c7ca0ddf9486350540659ed2cacc473ffc04ba3633b8f6cf8b8598beb598",
+  "PGPSIG": "iQIzBAABCAAdFiEEjhmSFnRl21+wRVV8sChU7XU+Dx8FAl7v1ZAACgkQsChU7XU+Dx+8sRAAhofDTt49Z5+nOum4l3bCnsEOr54nXy7FhiuzA8V9fZiMCQoQ2/l/8imjSrOPYMp/3wDECirfFhn3r/PO1uJxoBiZIRst3X4WwuC6luZ3W1j/4Wc+e1RheVcd6o5aP1iYDCvA8kQT4akj0ksk7+D9VYfA2dsJ5hUS2D/C2dkw++1mt3cCIZXt1L7+x/c8dqBQFc0lzaN5BfM/qeMrQU73RlDuyKUBKdzwUeBwAQkXr7HoFnOTXSeu3zBM0aEs72/cgCYIL9mKH3lMo2HDXeyItfu+5cb91zXitGaMDioOc1Bvk/wsWjgsCf1BJGUx4v0GN3oIelNCGouwqjh4dDUmhWrt1x42qynYn6yTdQhHJcnNHixTtlREMGlaoYFj9LE3T29gObeI86x9w70gertLOnKIrbcVTFD73UweSUxUPaDm44VkGwvHj0qpW+cazlH+EHHXkJ3rGVeRM0pbbPkTUQuYxIfNhhT+P4rdGTOLmw1WLMLq+4EMVTffww0UjXWQgPc1s7QnOC3pBrWU7sokKmHoI/3OMOlQmamRQe2LmFqVfKGe5jYJRimTSxnPBxgM/w837Hf7pOP5ut5Ts9gfk85M/Kg2IpSO+sth1ap8PZRH6zEfgrxKpYGMz2EIuUNJmRa3hVlrVIVD4bGftmL2UdTcLB4ntl+Wk6Cik4Cch2g=",
+  "URL": "https://rubygems.org/gems/term-ansicolor",
+  "LICENSE": "GPL2",
+  "ARCH": "any",
+  "BUILDDATE": "1592776026",
+  "PACKAGER": "Anatol Pomozov <anatol.pomozov@gmail.com>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "ruby-tins"
+  ]
+}

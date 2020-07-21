@@ -1,0 +1,23 @@
+{
+  "FILENAME": "python-webargs-6.0.0-1-any.pkg.tar.zst",
+  "NAME": "python-webargs",
+  "BASE": "python-webargs",
+  "VERSION": "6.0.0-1",
+  "DESC": "A friendly library for parsing HTTP request arguments, with built-in support for popular web frameworks",
+  "CSIZE": "275348",
+  "ISIZE": "1755934",
+  "MD5SUM": "19eeaa3a389053fa0a03a9253e35ab6c",
+  "SHA256SUM": "9e004c38d2102b915f579a69a2db3592c4f995f99e84b88eda483d116b71dbdd",
+  "PGPSIG": "iQIzBAABCAAdFiEE0jW0leqs33gyftiw+JPGdIFqqV0FAl5lClkACgkQ+JPGdIFqqV2FLg//dnyeOIaDsJ6O4loCBkwJPamwRYibtfrFF8csOHvFYxGNl6yK/w1e5PMRQh394+E/YSaraznnR4tzEK7iqB30/A5eU95w5rXbLIudFbD3i1pgytxaaAhTacuruFyWiIDX0Zv4cwAusD6aAKbQP0UPjkvCgjvlA9J1NSiab2JxxO9lSA5FRni2EpkpWjEBjeenyvs2jmwjPJXu8TUZy6KKclQyAQ2a/5xeTcuZ3FYT2Rszs8zUwQVxrFM/Ps2OizcsMQsz6DQduGDA5/D7HHV9p1hwtQl+OGZCQyq/1B0SRM0PxVqSTIIaJyUxE3oiUjLAI5BU1BVptYXsG9/BKd0zJazCcMWdPpuxy/I5hQ/5QQ9/EE5x+7GAZ6L5PuolurZrvXe6obqA1bTN0RGcGk9sCsnt6IhOFW2lycxjwnL6MlvYIUzM/wiY5U69FOyl+1hs5ljJOG8/7ygsydb2PXsT3+ti8Xi+uFjkgFbNt3SkhbZ3hGqRYqvSdkeNrGfbInyAAZS4Fwo5R678lqk15wIvR3jcTiqKr780jexkRkwSi+Rt0BKMeqAU0ORtmL8PTgtWsVJgT9fnKw4ifrwr8kv7WIFOzoOVMDYD6z5tFb4u728QiEhqcnIfzjhuoLcs7RVm+ndOF/DJ3HHBUVh5Jq+RFJBZDyKY61KI2zMxT3rWWoY=",
+  "URL": "https://github.com/marshmallow-code/webargs",
+  "LICENSE": "MIT",
+  "ARCH": "any",
+  "BUILDDATE": "1583680058",
+  "PACKAGER": "Filipe Laíns <lains@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "python-marshmallow"
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "FILENAME": "bshapr-0.9-1-x86_64.pkg.tar.zst",
+  "NAME": "bshapr",
+  "BASE": "bshapr",
+  "VERSION": "0.9-1",
+  "DESC": "Beat/ envelope shaper LV2 plugin",
+  "CSIZE": "444229",
+  "ISIZE": "1809860",
+  "MD5SUM": "14478bbd58ab5a5682e448b805b8394d",
+  "SHA256SUM": "ee93e82b8470d30c80f88b859ad2a144c052655e1cb5e33c0b07210d4fe91e00",
+  "PGPSIG": "iHUEABYIAB0WIQTH54SUZv4jWDQ1iDdyWHNLQcMVSQUCXsvibQAKCRByWHNLQcMVSXQRAQDmY+O+B+qK2cdr/R/SqRYWm/O9fLlnyXKtmLnwxy3T7wD/c9Zxs0b9kzz6EwAtgJPmU73GTzLT56Goi6RV2yJPLQM=",
+  "URL": "https://github.com/sjaehn/BShapr",
+  "LICENSE": "GPL3",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1590419768",
+  "PACKAGER": "David Runge <dvzrv@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "cairo",
+    "gcc-libs",
+    "glibc",
+    "libx11"
+  ]
+}

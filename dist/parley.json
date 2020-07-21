@@ -1,0 +1,27 @@
+{
+  "FILENAME": "parley-20.04.3-1-x86_64.pkg.tar.zst",
+  "NAME": "parley",
+  "BASE": "parley",
+  "VERSION": "20.04.3-1",
+  "DESC": "Vocabulary Trainer",
+  "CSIZE": "8204284",
+  "ISIZE": "13028271",
+  "MD5SUM": "84a27d19b88c6d702e8d178a9d4e73f6",
+  "SHA256SUM": "c7896a63488822b4809c88556581eb9704fb02ed87b9d990b07c54142b702579",
+  "PGPSIG": "iQEzBAABCAAdFiEEFRnVq6Zb9vwrc8dWek52CV2KUuQFAl8HBLgACgkQek52CV2KUuRu6wgAl12Eph+tH3awrAB91Li5hdxTJQlO+Yh8KB9m7ByvKCuEhNvkWGyQMpzPuf+M1GvQqWJ/RCM7Irm4wus/ILgDDiK9ZXeWqfis2LPCIQsg3TX5Lo5g3QmefSiusCLzdwcqsYR4sfqQVp91zOTjXj4MJouSrKzahYghflU+H1LMRO59ZA1rCRUdA7YLmFYy62CSAwt1mWTiFZrfyQcWh7APk50lgc2L98cWW7KllSLv99XOuaza9NOABrfULgxqE9xfL4RwsslgLTvuuGUSLDNbwX2xRZfttBD3wxxMro+mRNE+PPu/QU/c1WZjUZ+UHIFVDQWJw2BF+9iaXYibiiMtjg==",
+  "URL": "https://kde.org/applications/education/parley/",
+  "LICENSE": "GPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1594107662",
+  "PACKAGER": "Antonio Rojas <arojas@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "kross",
+    "knewstuff",
+    "libkeduvocdocument",
+    "qt5-webengine",
+    "kcmutils"
+  ]
+}

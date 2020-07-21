@@ -1,0 +1,29 @@
+{
+  "FILENAME": "accerciser-3.36.2-1-any.pkg.tar.zst",
+  "NAME": "accerciser",
+  "BASE": "accerciser",
+  "VERSION": "3.36.2-1",
+  "DESC": "Interactive Python accessibility explorer for the GNOME desktop",
+  "CSIZE": "1738836",
+  "ISIZE": "4412996",
+  "MD5SUM": "f3251cdf752b911588a83f2f249b58e7",
+  "SHA256SUM": "8feb14c636fe2d52e68608e9f930c22e8e7a9a52f031d5779e4e387fa28f81d8",
+  "PGPSIG": "iIsEABYIADMWIQQGaHodnU+rCLUP2Ss7lKgOUKR3xwUCXwDe7hUcaGVmdGlnQGFyY2hsaW51eC5vcmcACgkQO5SoDlCkd8dK6AEAvTC47CMOqe6hNhh9IMjjPphdFhJRdwwrUC0tPvZFMxgBAMWEl0o89tE5IyzAXYsShAXe4/PA5NUt9lgVEpB6AhgF",
+  "URL": "https://wiki.gnome.org/Apps/Accerciser",
+  "LICENSE": "BSD",
+  "ARCH": "any",
+  "BUILDDATE": "1593892442",
+  "PACKAGER": "Jan Alexander Steffens (heftig) <heftig@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "python",
+    "gtk3",
+    "python-atspi",
+    "ipython",
+    "libwnck3",
+    "python-cairo",
+    "python-xlib"
+  ]
+}

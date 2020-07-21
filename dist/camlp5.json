@@ -1,0 +1,23 @@
+{
+  "FILENAME": "camlp5-7.11-2-x86_64.pkg.tar.zst",
+  "NAME": "camlp5",
+  "BASE": "camlp5",
+  "VERSION": "7.11-2",
+  "DESC": "A preprocessor-pretty-printer of OCaml.",
+  "CSIZE": "3439172",
+  "ISIZE": "33846638",
+  "MD5SUM": "b85bb5be5d21c41b8c1062168703f70b",
+  "SHA256SUM": "4d5e649bd0ade5cd5e3a6cbaabbb111a79dca9c0efa95d301e7aa44707dfc317",
+  "PGPSIG": "iF0EABECAB0WIQQ1W9uX7Uck5rOkUOej2VYqWJh0qwUCXsLHMAAKCRCj2VYqWJh0q1rqAJ4m+gjDywJsPBk6IGFqpu6N3kFoAACaAizLBJV+3ANFTDRGVDrqh4PIg3k=",
+  "URL": "https://camlp5.github.io/",
+  "LICENSE": "BSD",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1589726585",
+  "PACKAGER": "Juergen Hoetzel <juergen@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "ocaml"
+  ]
+}

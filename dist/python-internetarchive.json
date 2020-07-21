@@ -1,0 +1,33 @@
+{
+  "FILENAME": "python-internetarchive-1.9.3-1-any.pkg.tar.zst",
+  "NAME": "python-internetarchive",
+  "BASE": "python-internetarchive",
+  "VERSION": "1.9.3-1",
+  "DESC": "Wrapper for the various Internet Archive APIs (IA-S3, Metadata API, etc)",
+  "CSIZE": "110165",
+  "ISIZE": "623849",
+  "MD5SUM": "92a1a87d17f4200bb17e6a3d3618e688",
+  "SHA256SUM": "ef79ab6629ff5be129a969fcdf43dd20bb9011f6920f8fd4e7554e4ed2f7bc05",
+  "PGPSIG": "iQIzBAABCgAdFiEEz6avFeXHQUn8HYwIbRZVwUzhwT4FAl6RiGkACgkQbRZVwUzhwT5QihAAp5PbuCLCaji5+VrXA9K3t2nNcwKeZfK8jTsncXoEmdhU8HDNZpAyU8gTl/tVDJzcvOwGi3XIYdatFepaJE2CQ+fB661BKT+54VZH4XS/LDs7LwuWy5+bMvfmY7J1HRBY29UV2RNtBq++cP0f9S8S76mK0qrfV4CdCyF4S7qfaF2ybEVdEyr+lVNOztJK3bcuFJPooC4FpR0zx2tYVUjwW4n5Se8De+S3892u1kWvPLnbVjl70JaPgD+OSkKUgTCTy5Bw3HCmEZL3BJbZyqD9VbjrQWODWtXLwvEaYsGmbiv0eMaMu+pHhCy0ZP6ZKmdAPPVo8fiG5edEsvU8sY575sVA8EDi0QhvaxFKHRMv/agtQKLWONfwKsSlwHxpmae1BWfCYtHZ95WuVMjAPJfelvZG+7Kx/5DTxlRFTOX90h4TAx0UthTQv+OBY8Av07QFRO+HKTXcU6plqkkpW3qO9e5K/PpVW9z3YjO4B2JxEoQ7FhEAwIDpF2Frl4aoh/BxYbQuF8U+WZ83peAaxFhMfUMo+gI08Tk8HoBB8hRXK3WQUiJCgAkrlPt+sOOIcBhbFEWS8XviEIgYI9xl2yrVVj3gkJUbvFjAuXeIHk4BOXA0eySSQgAPtNLWsD1n5JbD6c8QzSFFs1OAPhkx9KbQyhamT4hZe6XCVfoOkU9YkfY=",
+  "URL": "https://github.com/jjjake/ia-wrapper",
+  "LICENSE": "AGPL3",
+  "ARCH": "any",
+  "BUILDDATE": "1586595925",
+  "PACKAGER": "Florian Pritz <bluewind@xinu.at>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "python",
+    "python-setuptools",
+    "python-six",
+    "python-yaml",
+    "python-requests",
+    "python-jsonpatch",
+    "python-docopt",
+    "python-jsonpointer",
+    "python-args",
+    "python-tqdm",
+    "python-schema"
+  ]
+}

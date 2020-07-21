@@ -1,0 +1,23 @@
+{
+  "FILENAME": "progsreiserfs-0.3.0.5-10-x86_64.pkg.tar.zst",
+  "NAME": "progsreiserfs",
+  "BASE": "progsreiserfs",
+  "VERSION": "0.3.0.5-10",
+  "DESC": "library for accessing and manipulating reiserfs partitions",
+  "CSIZE": "55023",
+  "ISIZE": "191482",
+  "MD5SUM": "64243be3e0c05219202953a39f774037",
+  "SHA256SUM": "46e6e6157cfca38e3b1c68c5d855ff1d32a8ecd0aa913a85deeb1dfefe3b78d8",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl6/tsoACgkQeGxj8zDXy5IaPQ//eJdyqPAaNvrJ9TecBz10TfeaIlZpZMCRwxfsxey2apNRSWwhkfZVBqoCBHEQ28c4HkuX3E3wH0b+Or+cnJREnS0tQRpLenDUp+KSR3VK50GXnacIlfuSuzh2WgehzAdLoP9PdXd/yV+/xtefZzrdJDQqwEkasCNr7hJ5jcch+0swQ8E8aUJRXwXUxtBWacF/A5HhpAraXu0vomjXqLsTojAcHeHObz/kzmrLflgBHrrjyd9NyoAwvqEwnu9wPEcbo5zorEjRNX88LyOPsFRmfdO3sDAWZfjjbzMaCRzZiPPaGWZQ2PbfgB+VOHdAnNAxk4w4y1YIL1/2yMsz0dcWztNgiTEUjCk85KQyR83Fsd0mI+8i4zLFEmlhuzgtSahKC1FvvW5XNiwPQIPSU1fQ6LrwMeLgSDMkiz5Dip6B3gIO3SwYzK+tW/il4e9CT9ORv3skkdYs+yABlxqufFtB3IOi5thfxkCGAbs8MYeOLYjs62hyZedSj8tOmiOH893+FL4F5yqgVrN0LGKxnIx6uHiGzmo47xUxiNRHcgwgJ86IY7X6wCgfUV3TA8nc3JnMy4OIhV8IuLr5MFKGDE1iNo0nMqq8MsoYiQdEmQmzM3nJVqrqVyMWTWVLuenNUB6h9Y+RIvYJkf1THrS9Kl1F83goheh7xME3mjd54hqnw7A=",
+  "URL": "https://www.namesys.com",
+  "LICENSE": "GPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1589622447",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "e2fsprogs"
+  ]
+}

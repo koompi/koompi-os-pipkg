@@ -1,0 +1,30 @@
+{
+  "FILENAME": "strongswan-5.8.2-1-x86_64.pkg.tar.xz",
+  "NAME": "strongswan",
+  "BASE": "strongswan",
+  "VERSION": "5.8.2-1",
+  "DESC": "Open source IPsec implementation",
+  "CSIZE": "1159860",
+  "ISIZE": "4182956",
+  "MD5SUM": "8d44b2d38d79da170dd50825b4267a20",
+  "SHA256SUM": "d2941cd0592bac252d6cc3eb48625dcec20c78bc653b8c7ff34e3aeb529743b6",
+  "PGPSIG": "iQIzBAABCgAdFiEEba97gI+d8lE5YgAA0hRh49/iBg0FAl4AJxQACgkQ0hRh49/iBg3tjBAAp5goEgtqF7O1bcHqsfDeqTQkwnaKbXtCkLGffSrHcjDJdWJDVeP6OEruUev7w6kvolD0+9Yd94wv/H21eTB7xGysfRPKyqgmsLVG68iY3lpA/KPtLJhPBkfJRrqGVZjOB7H9V7LFC88ncg64BCFu9PDtIBuAHG/Si/fgI7SjVIASw4Sqoxe3AmeK3P5nTKoSrZeC2RxgijpzDX9UQ1HJCmK8nGm5b/3X45wm11z92c6iEnDNXgs3bxA3HH0A3eX/sdZ+FQBFYp6HAqF6jQSCehfqYXCJFcGHtnyU4Cv0rLVLuEU+IrVNkU0yoHwM/agmrgUVJaDJp1RjS85qfdUFDHYTS69qGZ601Cxj37XTP3ogp5xntmyeGXy31GMU3AVQCyfj/WhHzkZfB1aEoNjJUCmDzFtOwN354HYJkj+bjc9zmWlAvnevWAUiS8Peyl9SP47fAppyKWFNiDPrBOrapSSvGmVnIslYuk9oWrlMoUSl0r5cxqHds+SbdUGXsLORenhmH4gtu9IcXHp3hTahxFLzUsBemvsZFLUbZG6QRFqgkjzs7rSBKRgHxSCaY9fzPBp7ieCxnC5pKun5bDcWYNiLGubl2e0mdVpXLxd24/iR8R1LBvIlbYTlNqKBEMJMwXi6lWxatIOLRdDvcOLYLZuX0Ky7yD8cTb/xghDSask=",
+  "URL": "https://www.strongswan.org",
+  "LICENSE": "GPL2",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1577056972",
+  "PACKAGER": "Christian Rebischke <Chris.Rebischke@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "curl",
+    "gmp",
+    "iproute2",
+    "openssl",
+    "sqlite",
+    "libcap",
+    "systemd-libs",
+    "pam"
+  ]
+}

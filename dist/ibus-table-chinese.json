@@ -1,0 +1,23 @@
+{
+  "FILENAME": "ibus-table-chinese-1.8.3-1-any.pkg.tar.zst",
+  "NAME": "ibus-table-chinese",
+  "BASE": "ibus-table-chinese",
+  "VERSION": "1.8.3-1",
+  "DESC": "Some table-based input method of tables engines for IBus",
+  "CSIZE": "12773892",
+  "ISIZE": "45863223",
+  "MD5SUM": "32f3cfd858624fabb21e877ac105b075",
+  "SHA256SUM": "e809fed857cb722ef428d06bc666099ba7900c925fc60bec8773c56477e74509",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl8HVXwACgkQeGxj8zDXy5KQ/A/+Pl+1OE5V9sf3dteN8nkhterr0LkDKojcJ0Cds2fYE/Hmt+twcZxfRzZ4kMc2pOBGNhaxSMqCyBdoSFPVNVE6xb8CLdvx3QbFWGu4mEkRDVypSKHY58StTKZwxew0mh9XxlMmgsg0DSgDr82vqkYP2O6ec6gmOgdwnyHN1ac7SRJHTDOvRHinDyKVCe2P0Crs0VVtPE7wJry8ZyBmARgTW/qh+K9MnoLhpdirFUuNQKEw2Zi+GpA36glZ4q5MjLuRxdQ3jWDODDAWYFSgHSZfA0f9dtZgpo9RVxq3p7tSmUOhpE/NLlez1nX6Z3E+aRFoq6TU3dqjl7Kuu0LGQBN/prYVLxgY3mCpBkkFp7zfPhAGDmu2QzgMEd5FmwpGYAi6BIXQUhCTu2B62kNVtLnadL2QHulHyYjtfZIYUbfxPxJfzQCqfbbGb85dZoG7OwSJvVuY5b0NvtxYvoz6RyawdeNw55Fn6slcwDxmQwZVsxWTsjxlPBTS+aAknblySRmhjptLPlZRTZbuSqDmXIQkBwKRakiXqXhFJh01KkhNb2mPwp8mb3/YAJovx585f2Rmh0NS71xCFP3pqQJsQcG9iepSiicierj84AuViYBgZLr83cBvyaj+hiM2aibL6hnSwa3gvBpDnLGpY6h5JSUBFjr+I3N99hu6wtxZxMjzJHM=",
+  "URL": "https://github.com/definite/ibus-table-chinese",
+  "LICENSE": "GPL3",
+  "ARCH": "any",
+  "BUILDDATE": "1594316075",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "ibus-table"
+  ]
+}

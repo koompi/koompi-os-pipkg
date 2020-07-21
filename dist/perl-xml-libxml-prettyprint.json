@@ -1,0 +1,25 @@
+{
+  "FILENAME": "perl-xml-libxml-prettyprint-0.006-5-any.pkg.tar.zst",
+  "NAME": "perl-xml-libxml-prettyprint",
+  "BASE": "perl-xml-libxml-prettyprint",
+  "VERSION": "0.006-5",
+  "DESC": "Add pleasant whitespace to a DOM tree",
+  "CSIZE": "16478",
+  "ISIZE": "25968",
+  "MD5SUM": "359648552725234af6ab7f7341374a5d",
+  "SHA256SUM": "433e6a4480ff81621f3b2fd7d6843230151208016fc72eaef7d1b95b7fc77340",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl7vhHkACgkQeGxj8zDXy5KZVRAAkVCf4AeTz43naS6g6Ek6Y8MUNt+Q9fHV9DraD2h5YyJZ1VMnK6iOqir5IF7vEsw9o64PCfh7jJ+jOa7V1rzYuzJy32Q4oyjZpKcauKnPbLLV2lrKpNdMX/r7LhTOlsp53BHi+TX0n75krxGw1s/wxpx5KL3pH1uRysNv/LcokcqyRXIPHcn6Z8YClurLHYqJrm9hyBriSj8OcbQO9Kr7M16JJtHxz09jpEcuZnpwqv/eNyYntFzXN+HMWZ7Qd7BZGrCtsyTr4gcovIPvGTjFwh9tqzVTqC4FUxhjC/PYD3cqxSqhMudOl8EZnGZnIYNS37LYu/fQayAwHogEv33cntgXjjWoyGOXvJcxK5PlDCHkPOaXJ8sI5Akyv3xgIvp6Pm1teA6VYyG8u3ZzEK+j476g1KxBShukwOedDVBO32YRVarJ0CNSMVvixHDwrfnkN6fSruNdEbVPUD2PMXuT4urIhybrFub+mqeCg30uS90qM7fqXvvjSS+1PL3xC+hD6DTCPAK8pkk2ef4bVSY0jlq0lFImoB6/V3mP+EZ3MrjKxtmzZch2S6+Vq8Fqz3uCZfNfnbJglN6hwK5H5s+OYeF8xLi9KlW/JiwPdq9HYkTnZY2lC3zUd9NV/g5Lpchbw/35rQMyto340y4u/DmA4K45kQ5nRDx1b9cXUWyzUzc=",
+  "URL": "https://metacpan.org/release/XML-LibXML-PrettyPrint",
+  "LICENSE": "PerlArtistic",
+  "ARCH": "any",
+  "BUILDDATE": "1592755299",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "perl",
+    "perl-exporter-tiny",
+    "perl-xml-libxml"
+  ]
+}

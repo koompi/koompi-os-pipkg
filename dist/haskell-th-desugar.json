@@ -1,0 +1,29 @@
+{
+  "FILENAME": "haskell-th-desugar-1.11-9-x86_64.pkg.tar.zst",
+  "NAME": "haskell-th-desugar",
+  "BASE": "haskell-th-desugar",
+  "VERSION": "1.11-9",
+  "DESC": "Functions to desugar Template Haskell",
+  "CSIZE": "586241",
+  "ISIZE": "4184526",
+  "MD5SUM": "efc8778e372e092e9a1a34bb3f887903",
+  "SHA256SUM": "a32960b23679b6e7d0d5077f95f36006fe4f92e79b0a84bb93894c376ef8fbea",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl75KBAACgkQeGxj8zDXy5JX0Q/6A2xbJ/l+U/4CXZfWZij6A8K83EAX+gG4bcIfCC6vrixnu0jhxXydlQ0fzxv+3Xu0E44ZPu5lC2n0XnSDeMesQBIkdpeCBl6BKUzcSbOjuAnESPLGRvyjM4wbrf8a7uhFNp1gY30YxeVcMiwbDYuU8gQmL7VbA/kcBz07fJYpK0jShKEMw4xWhBI7lPfqAH/FZJYNqkDAs8wPbHG1kHfVgo5AXgtBVCeki4DkLzMKt3s/fGrwZGkl1M0D3UZygl7hklmuhRM0QBc4GfxVOtgMQpRt5rOuF5ZI2DGC4va6dNdx7ggoMSbuRoRyf/T0dtnoSJZmxef9lv3hFyoo3Ii1a023FjIdWWnawsdk8RDyh9IqSsxg0lkXR0lt29eqMwtvjMGv54fhrpBe+mFgWpPHrgBwjWI/953yX1E/GY2UFHWvwpDegVeSX+xqocq9oaNZ0W3dh7FyGZEk3QkBTeBqZ9a6Wjch5PDEhtuZRGhudMpWShGaEctgvmbhiJC73OJsZ/pcfuJpwDnyAuVdxuuvw+sVhF6+5eMD0wpkWOEOEsRGEGJ97bkTj3G/kD/iQkx8bfskC2j8NOd/ixAh/fTeq/t7le6JsQcTwlV5ltbI29VzwVwQlImfy5mPlBiTT8QEW21IJCbBGBbfupRQZxNH+f8sr0ZoeI5coxH9Twk1VeM=",
+  "URL": "https://github.com/goldfirere/th-desugar",
+  "LICENSE": "BSD",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1593386955",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "ghc-libs",
+    "haskell-ordered-containers",
+    "haskell-syb",
+    "haskell-th-abstraction",
+    "haskell-th-lift",
+    "haskell-th-orphans",
+    "haskell-transformers-compat"
+  ]
+}

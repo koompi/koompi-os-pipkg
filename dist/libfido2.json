@@ -1,0 +1,29 @@
+{
+  "FILENAME": "libfido2-1.4.0-4-x86_64.pkg.tar.zst",
+  "NAME": "libfido2",
+  "BASE": "libfido2",
+  "VERSION": "1.4.0-4",
+  "DESC": "Library functionality for FIDO 2.0, including communication with a device over USB",
+  "CSIZE": "120579",
+  "ISIZE": "325541",
+  "MD5SUM": "7ed3eb404b0926427fd250877e488282",
+  "SHA256SUM": "2c3a4ce9d1ceae39af61c18898aa6e8a5bf31fe1427ed05a15e8d1fb1420e4c7",
+  "PGPSIG": "iQFIBAABCAAyFiEEZkWwqMcAXnjbHXhk+Z/+D+rpmb0FAl7TAiEUHGFsbGFuQGFyY2hsaW51eC5vcmcACgkQ+Z/+D+rpmb2/MQf+JxrQ03kR0YJu1DDkF8W6aPJMRlfZm+pQ/8nptTBf4RVD16Ql1wfXPOVo/Idiivwgdtl4o/rPyMUofqUlyDjqgwtbBjyu4FfsTeIoa+tXW3ENybNTj6rTAYb4j8eOpE02ocF6B23t1yb0b4BkwezNm1XqbEct5M9BdtmygxOGXVdQKDVmY/fBDa9Jpq7G3E2stF2ATpbz+LaRdKSsFQg5S0lmpVpImvmrR5WdkF8zzopc6Ph+3dIxTs6d/TgskQGPOFw077WonVDQHzL2jmmLvCgqUEJ6NkNLEMhqeNJBo9/tPqpIQ4/OOfT+1guaymDh08pmQZ4fHHdYKGpFAbmPDw==",
+  "URL": "https://developers.yubico.com/libfido2/",
+  "LICENSE": "BSD",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1590886785",
+  "PACKAGER": "Allan McRae <allan@archlinux.org>",
+  "PROVIDES": [
+    "libfido2.so=1-64"
+  ],
+  "DEPENDS": [
+    "glibc",
+    "openssl",
+    "libcbor",
+    "libcbor.so=0.7-64",
+    "hidapi",
+    "systemd-libs",
+    "libudev.so=1-64"
+  ]
+}

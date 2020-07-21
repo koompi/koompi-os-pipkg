@@ -1,0 +1,23 @@
+{
+  "FILENAME": "usbmuxd-1.1.1-1-x86_64.pkg.tar.zst",
+  "NAME": "usbmuxd",
+  "BASE": "usbmuxd",
+  "VERSION": "1.1.1-1",
+  "DESC": "USB Multiplex Daemon",
+  "CSIZE": "37593",
+  "ISIZE": "82610",
+  "MD5SUM": "fc07c87a2a04458cb82ad9b0c3692987",
+  "SHA256SUM": "9f00ed4123d5a53980fe4b8937588fe1460f568f4c1d2f6e8e4158ac1bbb5dae",
+  "PGPSIG": "iQEzBAABCAAdFiEEFRnVq6Zb9vwrc8dWek52CV2KUuQFAl7p0owACgkQek52CV2KUuRjNQf+LTOjUPbVEQtx5OJ1RGhuS3IxtU2KwfSOi5x4PbQ7lziYt8sNGX0BzO+Ur5+MxzJt5eGdj29R8N2GCV8ZmWt4wqeDy05k+K97LlXKHpJcaErTu5FoGM6KJqMGDdCyqYhYrZdlh9DaK4jJ+xEUhFVUxEG7IVtRi5dXGzBlpxpEfwLXju691JhyOJrMMoe7fWRkYWS8CIpgcx428d+7XiUey/Cg3Pi68WPHq0hJ6kExJXmngUB7B/WbV4/uW/UVMpLcqAbRpyGzht6uLRQqoBb9CcR8a+NuX15idAN61mgnrn4ZeD+LbhaB+jpVhM31bDUQTmOVw47Mcm7XvucTzQoGEQ==",
+  "URL": "https://marcansoft.com/blog/iphonelinux/usbmuxd/",
+  "LICENSE": "GPL2",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1592382049",
+  "PACKAGER": "Antonio Rojas <arojas@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "libimobiledevice"
+  ]
+}

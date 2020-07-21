@@ -1,0 +1,25 @@
+{
+  "FILENAME": "python-paramiko-2.7.1-2-any.pkg.tar.zst",
+  "NAME": "python-paramiko",
+  "BASE": "python-paramiko",
+  "VERSION": "2.7.1-2",
+  "DESC": "Python module that implements the SSH2 protocol",
+  "CSIZE": "276776",
+  "ISIZE": "1829725",
+  "MD5SUM": "e0077411aeb2a363bb2245f63c33af51",
+  "SHA256SUM": "102f4b5a6476546eef5d694ba5c1159dbceafdcd596e0e786a692c9cd307bedc",
+  "PGPSIG": "iQEzBAABCAAdFiEE5JnHn1PJalTlcv7hwGCGM3xQdz4FAl669h0ACgkQwGCGM3xQdz50uwf9HdPMxK2FOsGGK9+q7S09LtyyyofNTCCfAaKs9GmXbOrqrMDmCxUFVC0JzSYTt455VQglSMqzDNjSCBmiezm2MSGAIYOz/jLxXUD+f1F861bEddDWnoCFwDRNUW1lMdgiz+3wULoTav5D34C59M/yGz8EwuoifhC9eGNRxGZtUvedBLUwq/3B/ezMIDLK7RrVTtQUiRFAh6BhA4mnElbG0d3v9f2xjt5iwFU9xFBjn6CTZwzVtqKSXGx6Yr1mSKNu9h6h/ij7T3eOOfKTN4iIlA4ZQQCb4RBtUl2XXRbIO7+fTiAf5hQQWjXxNjm/jWL6zCGtG1ZcEGpXknkD7FgzJg==",
+  "URL": "https://github.com/paramiko/paramiko/",
+  "LICENSE": "LGPL",
+  "ARCH": "any",
+  "BUILDDATE": "1589310682",
+  "PACKAGER": "Jelle van der Waa <jelle@vdwaa.nl>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "python-bcrypt",
+    "python-cryptography",
+    "python-pynacl"
+  ]
+}

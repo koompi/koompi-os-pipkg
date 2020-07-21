@@ -1,0 +1,25 @@
+{
+  "FILENAME": "hspell-1.4-3-x86_64.pkg.tar.zst",
+  "NAME": "hspell",
+  "BASE": "hspell",
+  "VERSION": "1.4-3",
+  "DESC": "Hebrew spell-checker",
+  "CSIZE": "676556",
+  "ISIZE": "789403",
+  "MD5SUM": "f5c75684136c38284b91a5701385621c",
+  "SHA256SUM": "e22b4e2d3ab566f8675148b03f028c75d7ae73bd149a273c0bb6889f1421cc34",
+  "PGPSIG": "iQEzBAABCAAdFiEEhs/8qRjPOvRxR1iAUeixSKmZnDQFAl7Dp6QACgkQUeixSKmZnDThVwf+PqBgCQPYdrHGZtH0ZKm84WTET8/1qX6DsTArDcF7nkFUfG4ioT12ACXqg1eXCZcHAwk4iYdfZVmAimbUKEogeFP+BttjQx7a4c34XGk1XUk7EJQtZC9NLh+eOkf23b2JpUblfMvS1Hkbw99JV0b6na2+aTmCpusV9vuYSObXV6xV975JwNUBkn3OdkzYc3CVJAkc05Y/tcyJUPH++4XrkL4OSnUs+fmKEmpWzruDtPAvT6KwepWDQjEQ7X1qZVPNNqOjbKnps5uOsbQJRGZkTqPX7mzdnBjaPoJdtcw1iU1SmPLy+iQ453Zn7RzGmkGJ3C0IskElRXnLtpx50h8n8Q==",
+  "URL": "http://www.ivrix.org.il/projects/spell-checker/",
+  "LICENSE": "GPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1589880672",
+  "PACKAGER": "Evangelos Foutras <evangelos@foutrelis.com>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "glibc",
+    "zlib",
+    "perl"
+  ]
+}

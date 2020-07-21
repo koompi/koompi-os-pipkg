@@ -1,0 +1,31 @@
+{
+  "FILENAME": "mupdf-gl-1.17.0-2-x86_64.pkg.tar.zst",
+  "NAME": "mupdf-gl",
+  "BASE": "mupdf",
+  "VERSION": "1.17.0-2",
+  "DESC": "Lightweight PDF and XPS viewer with OpenGL backend",
+  "CSIZE": "22348911",
+  "ISIZE": "35954144",
+  "MD5SUM": "8e2db16a5aec50f99c85c82f5618e2f2",
+  "SHA256SUM": "3d59b4af8f160409a5fc8869cc368a1fe00aeefb57b48dfc919d466878dbe58a",
+  "PGPSIG": "iHUEABYIAB0WIQQEKYl95fO9rFN6MGltQr3RFuAGjwUCXvD01gAKCRBtQr3RFuAGjxEQAQCNeHG8DJF4Qf6xXzhPv/emFmv2bd61bZY8Stud8YbYVgD9E2Kl+yjIvBQ8pmdkKmaPUZ9dCpttogmg3kUziQUmng8=",
+  "URL": "https://mupdf.com/",
+  "LICENSE": "AGPL3",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1592849450",
+  "PACKAGER": "Christian Hesse <arch@eworm.de>",
+  "PROVIDES": [
+    "mupdf=1.17.0"
+  ],
+  "DEPENDS": [
+    "desktop-file-utils",
+    "freetype2",
+    "freeglut",
+    "glu",
+    "harfbuzz",
+    "jbig2dec",
+    "libjpeg",
+    "openjpeg2",
+    "openssl"
+  ]
+}

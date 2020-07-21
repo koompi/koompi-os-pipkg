@@ -1,0 +1,24 @@
+{
+  "FILENAME": "linuxconsole-1.7.0-1-x86_64.pkg.tar.xz",
+  "NAME": "linuxconsole",
+  "BASE": "linuxconsole",
+  "VERSION": "1.7.0-1",
+  "DESC": "Set of utilities for joysticks and serial devices",
+  "CSIZE": "47872",
+  "ISIZE": "184888",
+  "MD5SUM": "c8583efaffb65398065a923a2bf4b9f7",
+  "SHA256SUM": "8339a435070a4762fc4413ba357bc793022fdfdb84ec9bba7dbab47f691b174e",
+  "PGPSIG": "iQJGBAABCAAwFiEEPlGL8lJv0Zeeiq5JZcEQwepDP8cFAl3AF5wSHGFyY2hAc2VyZ2VqLnBwLnJ1AAoJEGXBEMHqQz/Hp00QAIAm1SnLP399qoInmab/RRyZElYuJElILSWFOtHrNoyVjQuYeeyVAYpWqeMMiGFrrRJvubIuIw28cQ8PPfs/P83PfmO2RWaZdd/o9QkWiQyzHNgswmg1SSmD21+vXRi4Pbh6jo8qgQcQws/5Am+gE2Gj2QYWbCAWtnj9mr+YeopV5y6asK9qtvcyGjBpp8vjaKzl9VF75Be252X7xQn4Kquw3ItiXZkqb3N/fe/DiXyN2UwBjOoFT7X3vcXRk3nkbTV3SifK/BRYCFa57nXdcnPWuWDbUuoAJR1k+mdjiR3GL4e+bHHh4TdZCDBe9+ZQqUXZKbJD7FmN83YuJL7FlVk/wxdAPebsUdYYgpBbqZI0h6iL1zBgnHFcu+Y2l5dwrVEDpCii8xF7YgEh61b07Ca4Er097/VUafmLdpl1/q+qrFMCLgHXD/7IKtiGulto5a7X6P3ZGq2qumxvERgxkyaezljdlpyginCPUBEg+6R7W4AT2CUCLAzEJ8wrwPi1hl5eQJwMeBkiGs6t48e73N/KObskChjqg4wGfVgD+LugDvOHiLo8ImuPoAMehQ5RQhk+MDmEQpdh9H5zaXFnlHtMC+aFaTTYhgVkbi3xRBcw/c7b+JI0FLY6PwcqaZpQedqQ5kSTjZrMah+hCZBG9CmmcFcZRZCw4Av5wXXTy7Fi",
+  "URL": "https://sourceforge.net/projects/linuxconsole/",
+  "LICENSE": "GPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1572870006",
+  "PACKAGER": "Sergej Pupykin <pupykin.s+arch@gmail.com>",
+  "PROVIDES": [
+    "joystick",
+    "inputattach"
+  ],
+  "DEPENDS": [
+    ""
+  ]
+}

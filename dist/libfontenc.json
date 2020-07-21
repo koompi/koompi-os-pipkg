@@ -1,0 +1,24 @@
+{
+  "FILENAME": "libfontenc-1.1.4-3-x86_64.pkg.tar.zst",
+  "NAME": "libfontenc",
+  "BASE": "libfontenc",
+  "VERSION": "1.1.4-3",
+  "DESC": "X11 font encoding library",
+  "CSIZE": "15780",
+  "ISIZE": "40386",
+  "MD5SUM": "c535d5cab8d4225d51e41b08397942cb",
+  "SHA256SUM": "75baf7d323cc3a04fb70d8a50ac4fb963378b5c9f467bb5408f48d15a4027c19",
+  "PGPSIG": "iQEzBAABCAAdFiEErcih/MFeAdRTEEGelGV6sg8qCSsFAl76DoIACgkQlGV6sg8qCSsNiAf+IQ4BcKBz2Gyd+j1C1c0UMfewZAQRbJYWGIaPvAapvv3PKLnQ5+2Iw4TCcfsLJ2KBuwUFLf26ZFBiK35qjy9H6/eJDl3vmB817Q1WqAq7LhAhYbHqq8YShpiMDJ96jU7gQVMOrPqRwt2Tps4Sl+UY54UzE1/vOHTDf/2w/SHgfExJ1cT6+8Y4kfvaglJ2X/BDDwFSeqixOQ0fFdswPjxW8XSLTHtvZRLGQva0CCaKAUSy1fojYA+PN+67Gw3QzUQvkKcqSGHgw/PuKU2sqMwkarI3dGXiVkWzpC9m9vGyJ/s+UTSBC1R8L0hmY+aGOlc9cdo11HfpFZ/FqePJXoMqGQ==",
+  "URL": "https://xorg.freedesktop.org/",
+  "LICENSE": "custom",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1593445914",
+  "PACKAGER": "Andreas Radke <andyrtr@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "zlib",
+    "xorg-fonts-encodings"
+  ]
+}

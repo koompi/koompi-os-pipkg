@@ -1,0 +1,29 @@
+{
+  "FILENAME": "ppc64le-elf-gdb-9.1-1-x86_64.pkg.tar.zst",
+  "NAME": "ppc64le-elf-gdb",
+  "BASE": "ppc64le-elf-gdb",
+  "VERSION": "9.1-1",
+  "DESC": "The GNU Debugger for the PoerPC 64 LE (bare-metal) target",
+  "CSIZE": "3115941",
+  "ISIZE": "9789831",
+  "MD5SUM": "8b3cfe798d6ce9773002cc7bdb165aa0",
+  "SHA256SUM": "b1697785ea54a43d8112dc035b4cd01d0f288617cb6b5c7dd8696282c42bdaee",
+  "PGPSIG": "iQIzBAABCAAdFiEE0jW0leqs33gyftiw+JPGdIFqqV0FAl5/nG8ACgkQ+JPGdIFqqV3tnA//YLB+ee+qDEq7Snd3JgL6qHAKBSlA9UmgmBF/vFdxjK0XVFjg4SHPWktD95OhxZ29mlrmQddqzwDMKPmoppd8qRJwFHj9LoBX4C27DkP7JM/7NZ/jz3cltg8btxTJ6ofqvlmGhxo3SRqQmcH5Yop14XBwxHh14e2V7sfErTY0fTduAtH5pWtw3NGjITGGRd1JxiIROEetzOMRn/A70BHgyWsQ5X007gR5jfsxaYps8Gd+LBIFQNh8oPKqsSxjph1Row/Sye92mNTElS9FSiGG5CnYWKTAnU3S16R1GQIpUBlsKlYh1KoRAPqE9VwINkog9+O7t7EaUMdXkpVdvHGl+BAcTbChpl52WPwOOkNY4em0zrayNKj8zqpwvQP8SNJT5kM2uoV6oZ6WijkaWht9MNKJz1zYuyTZqQQ0hxR7pbVTLTbB1lGnFBW8QxoKsUQS44FLi8g85z+KloQeMg7TCAQIdtnK8odaiWXoO8tl9MiJ/NtVuFjhMQiYN5T1HLgUoIfKyJmYLAqHTSsNtHoF41RmxQrQhga5ag8NQgcEAe++8KIlVQFlTUBfuzY296UJvqandHrsGIkoGG9Is6djRK+U1N6lTVL6X1h+deDaxIH2ztSmgpQBrhgnisCXKcPinRzIg6Vx0K9XIV5RFGqCy3f+rGydxOtSA3CFoDG9cS0=",
+  "URL": "https://www.gnu.org/software/gdb/",
+  "LICENSE": "GPL3",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1585421239",
+  "PACKAGER": "Filipe Laíns <lains@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "xz",
+    "ncurses",
+    "expat",
+    "python",
+    "guile2.0",
+    "gdb-common",
+    "mpfr"
+  ]
+}

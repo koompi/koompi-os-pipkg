@@ -1,0 +1,27 @@
+{
+  "FILENAME": "python-fints-3.0.0-1-any.pkg.tar.zst",
+  "NAME": "python-fints",
+  "BASE": "python-fints",
+  "VERSION": "3.0.0-1",
+  "DESC": "Minimal pure-python FinTS (formerly known as HBCI) implementation",
+  "CSIZE": "114114",
+  "ISIZE": "683500",
+  "MD5SUM": "f04ced8f3970eefc62b013d372861ba9",
+  "SHA256SUM": "a85416ec0e39efa183c1f9b51ecc06cc25832dc15edca34e015645189f30df98",
+  "PGPSIG": "iQIzBAABCAAdFiEEM+u4qOHFZTZFsSMqRaZQ4mOMU20FAl4WioEACgkQRaZQ4mOMU21R6BAAhsOrwpo/7yFAEHMuwRiOKa+gORrIcbUV4uheFptVL7g94jrzz+0N4RVWpn3qSh81NOr5ESWZgrkgD7BwQENTbuZN20i9VbC6xwINoCVUg/7NC7uV2P/VeO2trLT8ZYj8/VVeR4BaKwHyUuNk/eMgiFgOfDHVX4BBAo1OrKvCiMpHsvURp5wa3yNve0kQq4EjUqPeaZ19kkLoLcHUETJb73UStXs2zuTo8z1NXGRZndZUaXRgalTETeRXXiK7Uyw066xJdPGmcjoEj2Fx4qIVoc5KHGt56Iyjm9FrvbX37LO22VrrCg5g1TIierIz7RYbWDx6UuGohPXX2MKkclpfDXbBLUrPQQ+Bq1wA2z5A5TlXW1AEVpZ+ao6fZLBk/8BbTK2v63UdLCOCcwNrI3yuIpmpJTvTk/23eyLyCFVd9FiJtmZE5c+gvhfb5eX/jSvkIISoLQsz3Rzh66jN7xJTkA7AsthcB8HUhldhNLHfwj2DSi5pfbiN66qtOeqTebWj/86BOzJ3D/imVA+FbtvJMknT6bzdOUudXA0muppeb3pz9TbvT1PMtB54uqEMEyKtuj5z09ZvEI7FJh3hzqIamJPUT2MaTTlAE2SvDDMGrh9UwaoeJPuVpCmPXk5EXo66Idk0eQyYvFqCoEw2y4sbfS3Hf9bxRDS1ttkKy5LidHQ=",
+  "URL": "https://github.com/raphaelm/python-fints",
+  "LICENSE": "LGPL",
+  "ARCH": "any",
+  "BUILDDATE": "1578535511",
+  "PACKAGER": "kpcyrd <kpcyrd@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "python",
+    "python-mt-940",
+    "python-bleach",
+    "python-sepaxml",
+    "python-requests"
+  ]
+}

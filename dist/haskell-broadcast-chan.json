@@ -1,0 +1,24 @@
+{
+  "FILENAME": "haskell-broadcast-chan-0.2.1.1-1-x86_64.pkg.tar.zst",
+  "NAME": "haskell-broadcast-chan",
+  "BASE": "haskell-broadcast-chan",
+  "VERSION": "0.2.1.1-1",
+  "DESC": "Closable, fair, single-wakeup channel type that avoids 0 reader space leaks",
+  "CSIZE": "49924",
+  "ISIZE": "204816",
+  "MD5SUM": "7d0df0a18c7771face023e0c62c73d30",
+  "SHA256SUM": "cc2f1e44d003189d1370adf4e65a19bea917fa77dfa5adce539c20f724588650",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl7RAMIACgkQeGxj8zDXy5LnHRAAq8+PgntnqA3ZxsiEnOwcel+hJPZ1EJ0qPtK9rkQY2wEzlXipZB7o9QCaufdkxN0h16rI94m9kVtGtCObeWVDVw93JbVDtJoUArbIrKw1uwKE5Jux9zcSj7T5bdg4J+3ls+VAxpju5MaJJJ8OE35/x+guWqrciXaih1eS9asGsMwaJbaSo2++Wo3JfOmygclDRncvLTZmLrO3kr9ogtL/hUvV/6oqvZaeQJ6O9WIvaYWkGLm4T0BsSyY74EkOdyF7LdAiMbijqliY1UGScnMhXbGzHjR36k1Wvp88w+48fFu0ETq7AWHmVfJ5fU3n8Oytr3zSOyJYEbDX1OBEPVD79rr+N1CP94wT8ALlor/Ci3uoCdcH1fbUdNxL1EOGO7c2chUDTdCEFCjJndfzHsj1bi4Va3KOybOu1SHa+8Azq532y0pzMq4f9anLE0ynHzvVYdVjn+yzWYRAggUq2ya+9egHnap1GOS52Nzto8Q9QkCVYlCyk9VLG8OY+yXCA2iS0vo8JAvcBywy6I3otpDSAXHH6xJMVsP4tyj8ADvyhEoF0hmy+WSYLF7ztjJi+QAGdp2haMEEPYYnIk6SgBDoPT+doEXM6SULZlYjvWm5N43EDhFnMY9mlXHVpiqJe1dQDMjSGo4EMFWApa2Kgk8+WoDmhQWT9pAxJD62PRZR48M=",
+  "URL": "https://github.com/merijn/broadcast-chan",
+  "LICENSE": "BSD",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1590755368",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "ghc-libs",
+    "haskell-unliftio-core"
+  ]
+}

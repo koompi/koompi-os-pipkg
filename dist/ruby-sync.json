@@ -1,0 +1,23 @@
+{
+  "FILENAME": "ruby-sync-0.5.0-3-any.pkg.tar.zst",
+  "NAME": "ruby-sync",
+  "BASE": "ruby-sync",
+  "VERSION": "0.5.0-3",
+  "DESC": "A Ruby module packaged asa gem that provides a two-phase lock with a counter. Was in Ruby core until 2.7",
+  "CSIZE": "13756",
+  "ISIZE": "32811",
+  "MD5SUM": "0d4c256f39e423a7f4449179e5d865e7",
+  "SHA256SUM": "b9dc8802edaad6c8f5a7a33172a2ff405f665d1771fd693778bb710eae2ccfcf",
+  "PGPSIG": "iQIzBAABCgAdFiEEba97gI+d8lE5YgAA0hRh49/iBg0FAl4Y2ZIACgkQ0hRh49/iBg3/4RAAlJArrcCy9pa+OiqKtHLPCeGG8zHqU/eYV0p/ctKGe4YrGLv34ysgVAI3K2JAXoYMNGOw3S72MmBNBc8ijruQSZ3QLOMK8pbj5kDvtZ5bPDcVdjAMPdY/zclQKMq12zuwgTLLFl+e0XOzcBsMFzAd3/SfNvgMmg1he49LhScLgN09213n+viQXt3e9zN0Qxrl0kDRkMrtQZkzdr8D6aXUct1RGj0SF7r9Ox6ZunPNInT/nM9VFNuTTRcCSjHh7cB8Ko06+0Wu1EE7807hrjFOth/nXdsWTtNdNcYge4jFFoedhlTcwqu/UkkdiW3MD2rPJ+nXhplgrQpd7W7tYHtCgtCnYnEyyAmuyI2md9jWNpdSsmLv9UO6AiZ2ovPgSWkMyD3ekS+CXcvUa7bSZ3MPV5S3T3PTGVQc4+sWX3eCT0sxuRSqOxK6f6HSgVjDf0UslydAcqjox5gEKV+azDiVRfSLyyAOLidaLsxJauWuClbexQ2ajtXVaL5HdF1MdFzPTuNK4waoZCAC6I900lT+Q9VPccNINnIzgf8uea+5pYa2vMOftDUh/WGeTsoxRcCEr1x2X2GH9eMBm7Y3RvAOLEKHsGla6CqM3GuimCL+m5/ps8JP1b+Ei47ish4RHd+Tc0tuYmAtg4k8AmBXorT9zWZLhmUvsLfGauWIwmwkAms=",
+  "URL": "https://github.com/ruby/sync",
+  "LICENSE": "BSD",
+  "ARCH": "any",
+  "BUILDDATE": "1578686809",
+  "PACKAGER": "Christian Rebischke <Chris.Rebischke@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "ruby"
+  ]
+}

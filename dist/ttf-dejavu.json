@@ -1,0 +1,23 @@
+{
+  "FILENAME": "ttf-dejavu-2.37+18+g9b5d1b2f-2-any.pkg.tar.zst",
+  "NAME": "ttf-dejavu",
+  "BASE": "ttf-dejavu",
+  "VERSION": "2.37+18+g9b5d1b2f-2",
+  "DESC": "Font family based on the Bitstream Vera Fonts with a wider range of characters",
+  "CSIZE": "2756866",
+  "ISIZE": "10517084",
+  "MD5SUM": "b7e7e5fe509ada7a9c1c8241b3a7d521",
+  "SHA256SUM": "7fe3c8c7b6da81bac2713187f1bb3fa78d2d8e5bf6b1b55726f48128057c1790",
+  "PGPSIG": "iQEzBAABCAAdFiEErcih/MFeAdRTEEGelGV6sg8qCSsFAl75tMIACgkQlGV6sg8qCSvJrwgAoUQWzdBlm3U/rH656A7oJ9Eo9ArE11ScAjJZA0Vgyt13712Ivk4zNFQ5k0XNFjtEAKgrCJgIKj4ZUSJ7Jk+FKzpMZ7XMaYZNF+AaHRSyDPAys4zjPWTgUWqDu81pd3STbs3Y14xRcVg+7c2qQQEmP1yH7g6QnYHVWUPdcZPjnugMTTc3VCPOQQOTm1DBlAV63sklCUlWzBKdcgY0Q0Iay/UL79fnbLoAILm2w26tsoD2wtWpKnU9EDsWDOeHT8eRI09y8CSU0y69kB4yRNGln/F7LeZr1en1PI3As252rF/7jHlgBf1QD0u8sbK3/iL0yYXC55vh8cQcGSfrFhMMcQ==",
+  "URL": "https://dejavu-fonts.github.io/",
+  "LICENSE": "custom",
+  "ARCH": "any",
+  "BUILDDATE": "1593422937",
+  "PACKAGER": "Andreas Radke <andyrtr@archlinux.org>",
+  "PROVIDES": [
+    "ttf-font"
+  ],
+  "DEPENDS": [
+    ""
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "FILENAME": "lib32-libxshmfence-1.3-2-x86_64.pkg.tar.zst",
+  "NAME": "lib32-libxshmfence",
+  "BASE": "lib32-libxshmfence",
+  "VERSION": "1.3-2",
+  "DESC": "a library that exposes a event API on top of Linux futexes (32-bit)",
+  "CSIZE": "5112",
+  "ISIZE": "13708",
+  "MD5SUM": "72cb2d2d099f03b78507939a68730214",
+  "SHA256SUM": "7135e9f2fe5c5d027951c7d864fb9605ddd258fe9e54c1d983d69cb7ab627403",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl7L8HcACgkQeGxj8zDXy5K1gw/+MCq3z+6HuOBguVatGZLWwgJTLRYLuGyDdFbuhOGWBChxaRVeZwpODlIbIjxzjlLauSfvxqYiIUbxLfWnGsVd8CP7sgaKnxLAAkw8LqcQNDgXjBFFWsrteZlcFOuXEG6CoESqy8JZ62AXPRSsn0JIxA8JT994j0fEbCXpEXwOhCbtIHKlPEjIQw1V2ssU8aqX8a3iIe9F81baXMgbi8cMZhafgqNaU493q9BY3C5/fNqty/9bvZQHHFSLGoKsHdVwmeuH4wXw5gSBNNMkfX5qS6mO+VCsanIj9/DrajLuodmYwui9LWVwRF9djPGFDPLsSGKFmVtANW4jJGWRuoMHepwxHzefGFNH5Z1cLCinqJV42asqn3j40ZwUzkKayu14N6xUvCXQl6ZTJQ0rtoPIkuW82jPjdZrBLNPh7k8efCW59vjwbLUqIahzJyQ3NPUQsxOgyh2zZxBS2yinAD+oQ+2R7Td+nAkAMlb40aQXFnakbRpd1s33ntjpa2yTKNYH/SnRunYGhTLskbbF9WAw5cl4ZVDd1LDKjaQvI4Xsfp2iXfvruxv8hctUvkh5qE4OXYpHBKQf4bjf8iyfgtqm6g4Tqx3CX4cwOk5kjE1XcmKSJT7MWV5I/oT9q0CB8hwhrIKXgSsvxHlyR0PkFiDmBOW3iR+Bz3bwiUfcp1in6yw=",
+  "URL": "https://xorg.freedesktop.org/",
+  "LICENSE": "GPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1590423533",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "lib32-glibc",
+    "libxshmfence"
+  ]
+}

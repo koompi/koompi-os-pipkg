@@ -1,0 +1,25 @@
+{
+  "FILENAME": "nds32le-elf-gcc-10.1.0-1-x86_64.pkg.tar.zst",
+  "NAME": "nds32le-elf-gcc",
+  "BASE": "nds32le-elf-gcc",
+  "VERSION": "10.1.0-1",
+  "DESC": "The GNU Compiler Collection - cross compiler for Andes 32 little-endian (bare-metal) target",
+  "CSIZE": "17601160",
+  "ISIZE": "139117581",
+  "MD5SUM": "062cf65d6ca3887527f77b08a4356cd9",
+  "SHA256SUM": "e68d77d7a6f0f686e5da38bc9590c623eab9828d4b06281a4e3b5e85402acb3c",
+  "PGPSIG": "iQIzBAABCAAdFiEE0jW0leqs33gyftiw+JPGdIFqqV0FAl7ByB8ACgkQ+JPGdIFqqV3PDQ/+Nx08Z7kcgc/JFz3x9IwrcEtA/UpyPiPTMykYTwXeVuo6zJUAxHyqRjOig8en8YnfpitwYuzJGyarBsGAfuXKV0/XwecpLWBc6ZwEKTYghK73H5LpXOrvrGXrUu9XuPNWNXrtK9NrSYSIHmsmh+aj+ldaQUHcyez/qFitcJ5maInqUX9JF+VxwvUwOXKicLjY4g+laY9uWVsufPFtH4ifKaBqwZkSIh82bzY19HxszqWIsp74uIoKz94Z1t9jTXw8+o5VDRz9ivnhhTjm9u4K0gSW5glC0/4Sa6NoN2/5fRT5J1EUWvS+W7TP2cEtip1grmBEmWD38kSASjt3s8mY6JD93xP4AU/LQe0+kfSecRaSR59WaHpjHYmYTtqkMXOu8E9928t/u9SeqljJYxHc2aGiA1BWzGO3nETC3f7Xu4GXSrx9aDzDxs9pzzHzBat8+MmQWnIofQiQYVgesDxo5fdSkL4ju/kS11jzZU/uUsodUPS3QRNlIRGnx/KwSu1BIhELdedR3y9Xv8UNyn7GDOGgNK06rvqNjSuoRF4QOCt/U7ekHX2avcVcD4ak8UalbukWfSGjMcTZs3VdCDMOTx+HZIQWsEGihndeEcsX71wKDpL5H1Ev5H0oGZduOcarmMXdKXba1+vOWuibrKsa+Wb22sNnvBrXz1b8/ZmKK/M=",
+  "URL": "https://gcc.gnu.org/",
+  "LICENSE": "GPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1589757417",
+  "PACKAGER": "Filipe Laíns <lains@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "nds32le-elf-binutils",
+    "zlib",
+    "libmpc"
+  ]
+}

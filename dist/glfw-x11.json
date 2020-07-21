@@ -1,0 +1,27 @@
+{
+  "FILENAME": "glfw-x11-3.3.2-1-x86_64.pkg.tar.zst",
+  "NAME": "glfw-x11",
+  "BASE": "glfw",
+  "VERSION": "3.3.2-1",
+  "DESC": "A free, open source, portable framework for graphical application development (x11)",
+  "CSIZE": "112297",
+  "ISIZE": "516965",
+  "MD5SUM": "9d0e66444eb8b8d5332bc15746012c92",
+  "SHA256SUM": "97109385b05bc19e11da43f7b2f4ae517ed3c1e43977a0a67917dd6127f846a5",
+  "PGPSIG": "iQIzBAABCAAdFiEEj8FaBklQqZ3RvRTdOeS4d+YuuRUFAl4mgnUACgkQOeS4d+YuuRXs/RAAiVt4NuyWZcwx8izQh4D2/6jhtdOniwZJQBiLcyDT0Mm1bMzlEsNP2VZqy1nrY9xePqdt5esWNe2MYWRfQ3eoJ2tGqTrh1dqs2vMAKnRNcg646GSSY3Py9HQqIeY7WxeOu12n4crzuBJyqOQGhR+r5L/eeZ3nodk3hBhXl5Xl5AiId8HrsYdZXAoLjvM9cs87Ni0ko71UKQbIc2/ZnJ20sCgi98esFCSMdAQmHQGtSwmzxIff4/Tqx9zRdDkQTRSGPs+VRrIss+xX6OyrCBYrBMobDADzGfcqPh2hAL08Y88pOzkCOYxAwiSUTy8gtDx0dK0VE/eeCW1EvK2/7MdDzFqK6lIqWht3YNmPaPvp7Yx7vz+UrElhmDk0aEtTytd7HlsBm0KBAaZPkGgflcKEsWEYsANlX2ZjFkwI4v6AJSnSPQYXcxFTwwKue2ehEUvYncT6uhlGM5D2DAGiKcNTvZwzJhbzVgXbaKTVGXXqxmuwH2PLZ9rwfGmdr48eH/+kGaVQyh936hxpfeKedi19sZtzt+QO+4OfC8byDQ1XZlP7b6UrvWHPbaeorK+QrBxkDl/EGws1P5Wf7QWpwfqo0ITZL+jFZ7V2cv+cAl1wCsQRHoBcNWtrTTdcPf0HgqOR1V0er2aF5cgWZjBtSfdKHMN6qNhWjeArHOSUFIszmaI=",
+  "URL": "http://www.glfw.org/",
+  "LICENSE": "custom:ZLIB",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1579582031",
+  "PACKAGER": "Sven-Hendrik Haase <svenstaro@gmail.com>",
+  "PROVIDES": [
+    "glfw"
+  ],
+  "DEPENDS": [
+    "libxi",
+    "libxrandr",
+    "libxinerama",
+    "libxcursor",
+    "libgl"
+  ]
+}

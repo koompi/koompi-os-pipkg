@@ -1,0 +1,28 @@
+{
+  "FILENAME": "profile-sync-daemon-6.40-1-any.pkg.tar.zst",
+  "NAME": "profile-sync-daemon",
+  "BASE": "profile-sync-daemon",
+  "VERSION": "6.40-1",
+  "DESC": "Symlinks and syncs browser profile dirs to RAM",
+  "CSIZE": "24773",
+  "ISIZE": "48130",
+  "MD5SUM": "9be0395739582f75a4336684e3645a16",
+  "SHA256SUM": "f85d79cdb13890d521c31552ed5255133b14559aed1fb4f46bd03a9ff3d3d9ed",
+  "PGPSIG": "iHUEABYIAB0WIQTH54SUZv4jWDQ1iDdyWHNLQcMVSQUCXrJz3wAKCRByWHNLQcMVSbwFAP9ckkLDjU4hcufTUMmO/rfPWfdTJe1m0MjZyTmqi9NaIAD9EAFWhHV7qnbFZnccpOqIZlPvD4IeWqlQgi81mEmeSwo=",
+  "URL": "https://github.com/graysky2/profile-sync-daemon",
+  "LICENSE": "MIT",
+  "ARCH": "any",
+  "BUILDDATE": "1588753339",
+  "PACKAGER": "David Runge <dvzrv@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "bash",
+    "findutils",
+    "inetutils",
+    "procps-ng",
+    "rsync",
+    "systemd"
+  ]
+}

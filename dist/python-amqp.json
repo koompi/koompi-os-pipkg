@@ -1,0 +1,23 @@
+{
+  "FILENAME": "python-amqp-2.6.0-1-any.pkg.tar.zst",
+  "NAME": "python-amqp",
+  "BASE": "python-amqp",
+  "VERSION": "2.6.0-1",
+  "DESC": "Low-level AMQP client for Python (fork of amqplib)",
+  "CSIZE": "78551",
+  "ISIZE": "469655",
+  "MD5SUM": "6d4157958da0c6694e59ee5cfd70a180",
+  "SHA256SUM": "ac6aa947566d2458c0e8122a22273346c4ce2ef17333611168541aab20dcfc4c",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl7VIu0ACgkQeGxj8zDXy5Ld9A/+Oy/f4VUrFpGthv9LeuaXfwxN6T0LQTqyngT1FxKG8hzv6ilaav8gjsx7VczTddDKIe+hpUesW8QWwUwQ2vVJsUeYNi8Cze/MqUbSu9xIvVc3uWSc70OzIz58FRraJyJQ1QJWPx/+Y64Nkq+1HYIXGrIAU/ILMUXwvS0F3ZC9p2z7qWHRo2cNtZUUtlViW65SLnroNSlWIBe/hHWvzaPUJiDWrBP6kD/R1lMFuM63R5AK3le9kqWwmI/oe7GLZprMV9CeDaa1Ztjq1NsAD9qR46TEMV/Qaw8zoj9GXaia8Cr9CMJF+qDXRQWkZqJT4xJx79yGxGrUDr/aVzrKgHx9AMA/tg00lAEJFLzenuviaPMrk5vnj/BqsZWXqM1eVzgiv/yu935pPuH5o9nhB2svI9iXMcFOeGo2E9lGpMqz899bm4PqrfDmX7lVpEbmH85eRwagYzANaDjX5lnuXQAb4gbnmeHu+DlKQV+WEGn5WxJxWJuNeSkoN7EXeS6t7HLh6ZCI6edXXGN3O7xW05pHn67681DWBPhPYNXXjj4U4iuwFzCJiaOVdgoeNWnpZ/ceB+F+nChVGxNITB/KBNzHiKVcKgEgHfCPdI7uys/2lYG3ICkwtYqgCSrhW6pslcCfpZlSPFxycxZfgj+kXVw03NCEyotC8YiAVTzyUUM59P0=",
+  "URL": "https://github.com/celery/py-amqp",
+  "LICENSE": "LGPL",
+  "ARCH": "any",
+  "BUILDDATE": "1591026386",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "python-vine"
+  ]
+}

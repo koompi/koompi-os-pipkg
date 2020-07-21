@@ -1,0 +1,24 @@
+{
+  "FILENAME": "packagekit-qt5-1.0.2-1-x86_64.pkg.tar.zst",
+  "NAME": "packagekit-qt5",
+  "BASE": "packagekit-qt5",
+  "VERSION": "1.0.2-1",
+  "DESC": "Qt5 bindings for PackageKit",
+  "CSIZE": "104038",
+  "ISIZE": "382330",
+  "MD5SUM": "6b9c18a9cc0eb300d1b2b1409535d3e2",
+  "SHA256SUM": "3117c421875093d4da1d3a78dead0610fcb22fc29aee44f8af932a913221ead8",
+  "PGPSIG": "iQEzBAABCAAdFiEEFRnVq6Zb9vwrc8dWek52CV2KUuQFAl5PFjUACgkQek52CV2KUuR7rQf8Duy5fd8L+ErsqRtqulVBiGkR0Dvp9SnYWudK1Ug3rYBWtU5uME9762pYz98v31kiwEBd8GeTqFozLuX63RlaiPGvX/0DEoGWIFwr5/R7hFw3v9hCkLFXFsFFGiZpFk0xX1ZrHp9F+PW88gaG7nJGtLS9Y9vLjC41BE5BqlGRkN5G39Vm9eloEtPr0v2q7YGFIj5+FEk3g0/3LN/7JMWMSy/eaNKj0OQsUKG2xCvrnHhuPIELjafL1a1KsZpFUYgxnBdm/T1AP2PY4AyZV84OmWE+eKDxv5ezplQuuiuoOdZPTQ2S32g6HDS1Gf9I6Ss1uxvpUZLsYZqdOHVJSocfFQ==",
+  "URL": "http://www.packagekit.org/",
+  "LICENSE": "LGPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1582241265",
+  "PACKAGER": "Antonio Rojas <arojas@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "packagekit",
+    "qt5-base"
+  ]
+}

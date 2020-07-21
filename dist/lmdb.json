@@ -1,0 +1,23 @@
+{
+  "FILENAME": "lmdb-0.9.25-1-x86_64.pkg.tar.zst",
+  "NAME": "lmdb",
+  "BASE": "lmdb",
+  "VERSION": "0.9.25-1",
+  "DESC": "Symas Lightning Memory-Mapped Database",
+  "CSIZE": "93575",
+  "ISIZE": "533468",
+  "MD5SUM": "2a5c32422755313efd8e38e874b6441b",
+  "SHA256SUM": "df7ab30c8aef26eff2138d88baf7a7cfaf7cb54b111b04fcd85cf4794dd9e84d",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl6y8uIACgkQeGxj8zDXy5IfSQ/6Aj0fZCfaYCO3tiii47kUoxu4W855RhVV3WFJnRF2AJLVJexiI88zuWfk7SVjs01aNblmAVwYYX04ZGFZERwElrx8V/vXsoQRbqTY7zCgHx3E3B/L0w2pCNTGDJWS6Ss9eQlGx9wnhl2xDJmOZ8I86nweZHCUsLKCUqBl2eXUDukUGo7l5wMxHWYY7O23eDug8uDe+jUrg0ErBy4U4AsX2ncVtPXVi1L8xhQjUjhGJ8YtHXlrwcmqC0i/SpwElEnopUEtAfR6TfUkBomia+k9UnXhr7D7VHaDCwrWyiZ8ztwOYKqhWuCVE7I/MVH6ldTl+iQM3nHKy0NpAiCsN3TtFAPtcwCTasv0jnRR7afnORkS4Sd1DRuPag9Y89+6q/sGaWm1oY59a2ukQN704ZOf9T2Wqx5vLjoishenKErFvbbKY1iDB9ePDUxHLFq6nPZ1dIU4FYYaDtV7ZnLTfPD4X8U0d1k9LFxfozi51ZjPVxHYy0XN6M93bAwR8z+11oaA2hhxTHl1KgFbHLkvcBt0Sc+IgsQ5021VP4xUlbNwVfUhSmBoOohoeY2m5UioJmQu+bbVyw3tjShTlU0mksHF2bp/S8NkQS+YKbSP3JmuGtc+SN/43eYAdGvdyY7tLYjyn22HzkZfuU4XUOEJJ38JEUi81u5FG7SCiBPYHsQXSaY=",
+  "URL": "https://symas.com/mdb",
+  "LICENSE": "custom:OpenLDAP",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1588785867",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "glibc"
+  ]
+}

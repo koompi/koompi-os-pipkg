@@ -1,0 +1,23 @@
+{
+  "FILENAME": "pyside2-tools-5.15.0-1-x86_64.pkg.tar.zst",
+  "NAME": "pyside2-tools",
+  "BASE": "pyside2-tools",
+  "VERSION": "5.15.0-1",
+  "DESC": "Tools for PySide2",
+  "CSIZE": "77174",
+  "ISIZE": "206434",
+  "MD5SUM": "e0651e2f27a8e908df9a9abfd36b3d2a",
+  "SHA256SUM": "acdd820f5c4143c5df796ea30df2dafe51e4d3c8b9b84c33eacd409c023615a5",
+  "PGPSIG": "iQEzBAABCAAdFiEEFRnVq6Zb9vwrc8dWek52CV2KUuQFAl7OaecACgkQek52CV2KUuSfbwf9FDe6aJcUBZdzA44+O3kL4IN/zH3xZ1uFR/z6PybqeAp0I3UgnWi8oTFfH8cKidVvEyp7qMhpjBv61OXccEANAtkYnyQtjxrQEj2/XSgPyGPRAiCZyYPL9j+igadaUZvGza7VI+C/hLOLvgYfxcIgsr4SrFRq/6eTAlTnCFujolICXn5/ZZLMyxwjnj7EQtHoB3SCtAJj8eoEapma/v2Vrj0oS48j+8waoeQ1mVY9hv3Eah8gw+k7EemPv6wc23N6zJsOFSGa0wQahqdOsy9y9vcBTH7kQn7/zcAhKho1xFywe7QdhAMrNaR+DlTAjSVjCplUYLINCBAvUJS5mwX5TA==",
+  "URL": "https://www.qt.io",
+  "LICENSE": "LGPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1590585774",
+  "PACKAGER": "Antonio Rojas <arojas@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "pyside2"
+  ]
+}

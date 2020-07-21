@@ -1,0 +1,23 @@
+{
+  "FILENAME": "polipo-1.1.1-4-x86_64.pkg.tar.zst",
+  "NAME": "polipo",
+  "BASE": "polipo",
+  "VERSION": "1.1.1-4",
+  "DESC": "A small and fast caching web proxy.",
+  "CSIZE": "180841",
+  "ISIZE": "567823",
+  "MD5SUM": "7c60167c4ca848709b27640d7e4ca0d5",
+  "SHA256SUM": "5cca698fade7bd852da3baf486c213eadd30375444bcb41e92425cfc6bbcba16",
+  "PGPSIG": "iQEzBAABCAAdFiEE5JnHn1PJalTlcv7hwGCGM3xQdz4FAl60AGoACgkQwGCGM3xQdz6YMwf9HWkmh1ym0nRcl3Qbm46wgZ2RRuVAKzgwGNoqiy9ysJgo5gnF4OCNssqz/e6yBuuxgIg+ZS3YqcAxdSH/jAg6hup7Eq8oP/UgfMB2syjgq5vWJ6Gei/T30ZFWCQ4c1xCnb9LkK6TqsYXLHOjAYBuyWtZ14NVKfX8EL8ZmvYpzEZ1fdKTTRWCCG/7xAWBYQDsIgbwsSpYMk48kYwco9cOojINB/QHGs6H3Qmwq3J1GGY0TDy3BBD7g9sKRh5pIdZEYtLWNj6H2PN6WztR4bSMdKmSVS1JhTyQEB2o4lpuJCPIFakjHS4+toc4No3dCmW7wMIOSnxR7BtbR4iaAUIKuWQ==",
+  "URL": "http://www.pps.jussieu.fr/~jch/software/polipo/",
+  "LICENSE": "GPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1588854670",
+  "PACKAGER": "Jelle van der Waa <jelle@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "bash"
+  ]
+}

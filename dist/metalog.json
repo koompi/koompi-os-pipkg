@@ -1,0 +1,23 @@
+{
+  "FILENAME": "metalog-20200113-1-x86_64.pkg.tar.zst",
+  "NAME": "metalog",
+  "BASE": "metalog",
+  "VERSION": "20200113-1",
+  "DESC": "A modern replacement for syslogd and klogd",
+  "CSIZE": "22739",
+  "ISIZE": "47639",
+  "MD5SUM": "ada153ad03f2702ee5aca2bbe3fa4dbc",
+  "SHA256SUM": "15fc34a537da71f4bcd0729a656b28cce69eb185ecea2c2c4b34fd3bd3b7795b",
+  "PGPSIG": "iF0EABECAB0WIQQ1W9uX7Uck5rOkUOej2VYqWJh0qwUCXu+vTgAKCRCj2VYqWJh0q6rxAKCT2k4kCkawEjcogo3yhrXfSAHYmACeMNuWvHu3T/VRNQ9S3fVdVyvLGjE=",
+  "URL": "http://metalog.sourceforge.net",
+  "LICENSE": "GPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1592766205",
+  "PACKAGER": "Juergen Hoetzel <juergen@archlinux.org>",
+  "PROVIDES": [
+    "logger"
+  ],
+  "DEPENDS": [
+    "pcre"
+  ]
+}

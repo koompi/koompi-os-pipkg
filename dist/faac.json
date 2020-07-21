@@ -1,0 +1,23 @@
+{
+  "FILENAME": "faac-1.30-2-x86_64.pkg.tar.zst",
+  "NAME": "faac",
+  "BASE": "faac",
+  "VERSION": "1.30-2",
+  "DESC": "Freeware Advanced Audio Coder",
+  "CSIZE": "61834",
+  "ISIZE": "152077",
+  "MD5SUM": "e03a2ee27e3f9bc6d93cba047b1be64c",
+  "SHA256SUM": "f0a4764814831c712a3d2eee4d94571ffce16054a284803d5180d2041e07ba37",
+  "PGPSIG": "iHUEABYIAB0WIQTH54SUZv4jWDQ1iDdyWHNLQcMVSQUCXhnqNwAKCRByWHNLQcMVSUOUAP9ShyiannENHSwfLsuW8uVf6vZ74rfHkdb+8veInA53OQEAxGDa8387wxHFr5LDqqgx8s5DH3UvwqHF9q86JIc7xQo=",
+  "URL": "https://www.audiocoding.com/",
+  "LICENSE": "GPL2",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1578756316",
+  "PACKAGER": "David Runge <dvzrv@archlinux.org>",
+  "PROVIDES": [
+    "libfaac.so=0-64"
+  ],
+  "DEPENDS": [
+    "glibc"
+  ]
+}

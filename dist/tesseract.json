@@ -1,0 +1,29 @@
+{
+  "FILENAME": "tesseract-4.1.1-2-x86_64.pkg.tar.zst",
+  "NAME": "tesseract",
+  "BASE": "tesseract",
+  "VERSION": "4.1.1-2",
+  "DESC": "An OCR program",
+  "CSIZE": "5518113",
+  "ISIZE": "15681290",
+  "MD5SUM": "00273ef40b06fbb4ae21097a26de98e6",
+  "SHA256SUM": "0da357d46e28438ee707ea5a7592a5399a9a3b7fc0707a1043a542719ba15830",
+  "PGPSIG": "iQEzBAABCAAdFiEEhs/8qRjPOvRxR1iAUeixSKmZnDQFAl6niFcACgkQUeixSKmZnDRl6wf/X+cNmR2dgdOdfEoI6j6WsTOdetpnUYeFfOrzYdUAdw9g79ap6edTRZE0iZY8Y6RHsec5X9Oue8QnTzBNpSurk11pQdpbUyv5KEc5Cpl5eVX5ZpKRCpIOZsVDtlgIIWA2x6VQyZpJ4p0EyVuxu673e72kOUIet6jbtUnPDr8yEFnz5gnQiCScrqhciYPvnRMHbV+TqhbLFPXes30gFVnRXJxsOrcXbGAfMVxI/UWzY8QqsCxRcJ4+0+7rthH50hACXxNQ+KQHSvdjYd5vt/8a1JOAd+n+PhLmhGl9K1Tep0PdDzdm34eNb5IsBC5nMHNQup1auTVqinikT9mzPm0sAw==",
+  "URL": "https://github.com/tesseract-ocr/tesseract",
+  "LICENSE": "APACHE",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1588037605",
+  "PACKAGER": "Evangelos Foutras <evangelos@foutrelis.com>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "libpng",
+    "libtiff",
+    "libjpeg-turbo",
+    "zlib",
+    "giflib",
+    "gcc-libs",
+    "leptonica"
+  ]
+}

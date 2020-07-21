@@ -1,0 +1,23 @@
+{
+  "FILENAME": "python-atpublic-1.0-1-any.pkg.tar.zst",
+  "NAME": "python-atpublic",
+  "BASE": "python-atpublic",
+  "VERSION": "1.0-1",
+  "DESC": "@public decorator for Python",
+  "CSIZE": "12833",
+  "ISIZE": "33616",
+  "MD5SUM": "af2250e7158239c93243a6d668768d86",
+  "SHA256SUM": "8d7d433bd39b272a3a2cd0c86540f423c56f3a9e27b8abda1f098ee0bcd54246",
+  "PGPSIG": "iHUEABYIAB0WIQTH54SUZv4jWDQ1iDdyWHNLQcMVSQUCXheHJQAKCRByWHNLQcMVScpmAPwNMroKpES7HCMOi9CphYqQ7B5mGS+XwBt7CAM9TYeexAEA4kX7BNZibcR4uztf+xD5k/7OoeyONkx1wEMNQH10Zwo=",
+  "URL": "https://gitlab.com/warsaw/public",
+  "LICENSE": "Apache",
+  "ARCH": "any",
+  "BUILDDATE": "1578600142",
+  "PACKAGER": "David Runge <dvzrv@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "python"
+  ]
+}

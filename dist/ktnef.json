@@ -1,0 +1,24 @@
+{
+  "FILENAME": "ktnef-20.04.3-1-x86_64.pkg.tar.zst",
+  "NAME": "ktnef",
+  "BASE": "ktnef",
+  "VERSION": "20.04.3-1",
+  "DESC": "API for handling TNEF data",
+  "CSIZE": "133246",
+  "ISIZE": "591185",
+  "MD5SUM": "8865b12d49e21d6ea10eb372c9940104",
+  "SHA256SUM": "1d7cd478d5e6e30c5df577e134249e1adbf22be2d350958160f5b6c81cd792f2",
+  "PGPSIG": "iQEzBAABCAAdFiEEFRnVq6Zb9vwrc8dWek52CV2KUuQFAl8HAt8ACgkQek52CV2KUuRsDwgAh9fXnNPJw9AB7JsmLt915rnXHyHVH/xxcWogdkRrnjqakfK+rcTxhABuwgqIoEhDLcB8mEpkM6mOJy8qS27ot3xdbthLHzWimJlfk7U6ePp0p2pT59TMBiQyhynaPEI8++umgwkMfzJCOlfT3WV8rCPmOnQZqKwbUQSpc45fLbyQXJCsjXGVnP2qaqmSwuhSByaUvfv2Ciy0IOkB8fqmygiGKcdBFUthTNYzxW3IwUr+unqDgoj18e8R9CB1k5VHFyeiCPtgMZblN49ecH2M+A++0XyL9WcIsUou5vYo9dIKdOchG8EiYxGvODkV1ZRuOwAlrRatxQxOq3VO2jQY9g==",
+  "URL": "https://kontact.kde.org",
+  "LICENSE": "LGPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1594104382",
+  "PACKAGER": "Antonio Rojas <arojas@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "kcalutils",
+    "kcontacts"
+  ]
+}

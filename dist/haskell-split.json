@@ -1,0 +1,23 @@
+{
+  "FILENAME": "haskell-split-0.2.3.4-34-x86_64.pkg.tar.zst",
+  "NAME": "haskell-split",
+  "BASE": "haskell-split",
+  "VERSION": "0.2.3.4-34",
+  "DESC": "Combinator library for splitting lists.",
+  "CSIZE": "35330",
+  "ISIZE": "142425",
+  "MD5SUM": "cdb77643dfd377c7dd15256038a50871",
+  "SHA256SUM": "4f754d7ed88086572f91f27e6bce8353204ad1ffce133396dbadb1d68829a5cf",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl75Fe8ACgkQeGxj8zDXy5L20A/+JYKYXJmAr/Nn+SuyryZYckfEzZJ9COJbwiemJ6d2WN07HLn+hx4mnpbJJKAMgslHI8dTrmvUNB4zSV2rSnQY28eruJD07x6IFIiqgcfNtasMmgVAQ4ICwjXtS6eZ9nwyAPtydqjWIGn5ZAjNdpn7WbFt9MM2Cn7SaMtHd56VHsjeziAhD9tJcJWqMVH/fbxyzjPf5TwuJn4MmwVs/3cVFjqOksX9n98fDvnPUET6fSOJYgn9Oz8QfSEGb71MVDm1VzQrfV0A19uyw17KtOE0ou0N3shdC3eczzbCyWB8318jkSQSSs80vVIdWOQoAhTJPcQw0VVe9eg0CccykQzY11frvKILV3OyrzTxCtQ9OQr+s9FGKH6KNM2gDvGPzSwrPpXAnpO3VvCKBcEIgIMveSRUQYRJZ+9RzFhwBpjfQTCGkOc7xHypH1t0BD5aYPWOPwN8nZzoof1kuk9ouV80YI7GiGfcWnAjpvt/jKH4bhyrDpYpr9ASOwqYt5H5U1c2yoRDyI5jIYOcB5KAlB4HiS7rmjGaShU7X2715P3lLHilobRL2ypCi9OTO3ArfxB7KNQV/v5mw9HpxeOiFkG6W0UAQkAeg62Qz0R5GAJf9rH5EJStyVFDEGOuMOeYMdPuNDOinyiAnT3T2iD0+x8kaoLSJgbPksGTlT7ohaR05Ig=",
+  "URL": "https://hackage.haskell.org/package/split",
+  "LICENSE": "BSD",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1593382353",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "ghc-libs"
+  ]
+}

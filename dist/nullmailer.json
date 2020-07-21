@@ -1,0 +1,23 @@
+{
+  "FILENAME": "nullmailer-2.2-2-x86_64.pkg.tar.xz",
+  "NAME": "nullmailer",
+  "BASE": "nullmailer",
+  "VERSION": "2.2-2",
+  "DESC": "Simple relay-only mail transport agent",
+  "CSIZE": "80000",
+  "ISIZE": "364544",
+  "MD5SUM": "d5d3e5ba14bfbc0de9bc6d473963c835",
+  "SHA256SUM": "ddc5f5ca4509f44953e1c16f7722b6abc05fe8fb30350df2750a94b7c953d7b7",
+  "PGPSIG": "iQIzBAABCgAdFiEEYEETBMCdNmKDQO7/zrFn77VyK9YFAly6MhQACgkQzrFn77VyK9bTfg//R6LM67MM0aADUhFfaRVeqKXfr0TswRDbFDS1SaJQpCKM1EseXRvCaYs1EfyUGplw7/OX2QklQ8ATrtBw4CGkpCweCDgv9vivMKH1MTxgxo8VxPyVJ31qOxW//keZ0oBH8AH396I0iHA7Rb0hMSk7z7otsqNj4mje7/URf5nQBrJEXrTqEGB/8Nlgy+K0nFGOj/c87rU1grZgK4SKJGKnS5oSW3dIHDLFmJtpvRrT4U3KzYlmCY1dbVwlJfMxDxcq6K1G5oF7zy8MLFOjr1RctOY0WCa6WltAJm2p8Mlq57BWTWBubPHZw2/tAw7+y9NjN/NQAjkUTBXF6g6xq4fl9XvhlCFw92JnAORpIMeuqEgX2wr6LBtw3KwU0dUKSKg9mR+lrHWH8IgFc4oa1yFRoeYzIEBGm6qdM/U/knyEv1lfoqYWTMBQS2Co2cI/fqRwSJ6VgSRagfKISlcAx2d05+NosgUL/0WOZCkv4k9s5YfWOoLauZa2f87rkW2ZzK51Ig96BPL1jEFtVlNTwjE6Su5Blav7xJPFDttPFpHHW1CXO+PkCdLli9BGhq5HNmtdkt0M3JC7R0xd5bhBtBdfNzBi1HBStegXpngSGogaauvpKgEZci956M9wiI4c9TgRwn1p/BLW9P8nmC9p2dku8Yp9Zr7/5XUtkyP+Nhl8940=",
+  "URL": "https://www.untroubled.org/nullmailer/",
+  "LICENSE": "GPL2",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1555705595",
+  "PACKAGER": "Eli Schwartz <eschwartz@archlinux.org>",
+  "PROVIDES": [
+    "smtp-forwarder"
+  ],
+  "DEPENDS": [
+    "gnutls"
+  ]
+}

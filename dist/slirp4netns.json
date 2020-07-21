@@ -1,0 +1,27 @@
+{
+  "FILENAME": "slirp4netns-1.1.3-1-x86_64.pkg.tar.zst",
+  "NAME": "slirp4netns",
+  "BASE": "slirp4netns",
+  "VERSION": "1.1.3-1",
+  "DESC": "User-mode networking for unprivileged network namespaces",
+  "CSIZE": "30732",
+  "ISIZE": "72429",
+  "MD5SUM": "74c6b66e64c4b266e09e84ea69326b14",
+  "SHA256SUM": "92aa099086006e40919d93a619b0ec499f383696499123c24948951bd5c74ef6",
+  "PGPSIG": "iQIzBAABCgAdFiEEktnGzemaICTWkKdu50JoO6CMsv8FAl8Ldo0ACgkQ50JoO6CMsv//Sw//dukhz5GU+jlFZfs3lAtWdvSodcdtUJKPh20R3ey/1M8hPp/+eYxD/NPE3SlLRd+4esuiyES/tS9GQKeFVTyapUsvZUQeGl2QYYImfIMlTw8ZmYvnTsu9AFu6zX685VgBI0EhEF95yAw8unVryiOpyJdHCSefLrWHdUFyw2as9zGeLoUgeSxKqgqLRKwHfEPkEsG27s/2QlvfB3TthBu8Sf7rVFfhnIkkjI9PWyPvcbfJmG8j2QfRZquKh+47vak+4nrbO0Epr7B8CFuIRTiQI2c+CZJDZ/7Q8F+Ky5ZmMoQ0jkT5OAv30vXwpjBB2lH6ngVae0Xt9z57uI9V/1v/Igo9ksJItMn+18JbOAr51wkv3bBLkxR4ak4bJK4XpMTpSow4Njk/VF0Wz1fUNnZyiuLLbmhQydvqM/pq+oTQU15x0LHbkrXuzQB5pU+Z+zPoOu/X12vBCXPQnLeiibsr4SRoTcqvSY7c5uF0UgQlYeMjsv1SuCFa4Sj2E5Q+xKBUHOtIOvrJurLzWbR3hqGufCxcld+3lO8BBlgoOLRE9pFWU5/nii0iYgGqdhV1yjqgcHUlpaAF1nAEdt99lWekpYr6J+goKC6AGcrxqJX8QoZFnmB3ZfHz4Pj4T8DTuYKXDMKmlFvRaiIg4qvnPUg+9LSVJbGTJoPZqvSYHgJ6xdI=",
+  "URL": "https://github.com/rootless-containers/slirp4netns",
+  "LICENSE": "GPL2",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1594586709",
+  "PACKAGER": "Morten Linderud <foxboron@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "glibc",
+    "glib2",
+    "libcap",
+    "libseccomp",
+    "libslirp"
+  ]
+}

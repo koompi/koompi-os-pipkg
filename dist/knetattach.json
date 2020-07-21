@@ -1,0 +1,23 @@
+{
+  "FILENAME": "knetattach-5.19.3-1-x86_64.pkg.tar.zst",
+  "NAME": "knetattach",
+  "BASE": "plasma-desktop",
+  "VERSION": "5.19.3-1",
+  "DESC": "Wizard which makes it easier to integrate network resources with the Plasma Desktop",
+  "CSIZE": "26418",
+  "ISIZE": "66644",
+  "MD5SUM": "680cea8f639a2286c4a3238b7f18b1ad",
+  "SHA256SUM": "f0c818029c83096d25ae9e4e4b37a112957b8a36beaad3ac4000cc8e38d43515",
+  "PGPSIG": "iQEzBAABCAAdFiEEFRnVq6Zb9vwrc8dWek52CV2KUuQFAl8EhVcACgkQek52CV2KUuTK3Qf+JI4wp7mTvpZQrCHvb7sPHll7Cy2cRUJbGSLu4TpeiEU8nhsZ2chAFC+fpTn6x6aAMDBOl1L6UJ3cueE2+0G2aHNQXKOAQ/IRYzXwKBC0kVsuZiehwFCxyDeuB7zDOGILznGDYxLeAkJruTyl5BZUPGavHVwnuR/Q9QRIOPdkYRD9aLI3frnktrUNs8HAJo2ms0hqLzKScmZbTe74kPvzDwMh+SJbD9so5ptwQqaLM+I18DWztC0IAeKAjp4cCoMM95z1qsNa6ErHm9t8lvDnsK/N9PFhYsJ9ixrTTUKbw/a0+YLR5v5/3l/Th26ynh6psJc/oMZYkhCXpdWRwSDJFg==",
+  "URL": "https://www.kde.org/workspaces/plasmadesktop/",
+  "LICENSE": "LGPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1594130285",
+  "PACKAGER": "Antonio Rojas <arojas@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "kdelibs4support"
+  ]
+}

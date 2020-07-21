@@ -1,0 +1,23 @@
+{
+  "FILENAME": "python-wsaccel-0.6.2-6-x86_64.pkg.tar.xz",
+  "NAME": "python-wsaccel",
+  "BASE": "python-wsaccel",
+  "VERSION": "0.6.2-6",
+  "DESC": "Accelerator for ws4py and AutobahnPython",
+  "CSIZE": "41384",
+  "ISIZE": "138811",
+  "MD5SUM": "7c07751078aad25ddcacd6701aafdd13",
+  "SHA256SUM": "70af5136f1f338a5599d9dda58c7569f69ec175e20564d146d10b1719cd34606",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl28NC8ACgkQeGxj8zDXy5JvDBAApDToQ7CJMN9gUptZ7UFxqA5xuewLRA3qpy55PlHclffIZyT9fIz3hc+exqrSq3ZGoioYxOdPIWJcJRBeotLv1s+mN3XY+xwIxIBcLeDfScmV7U1ASDeMFbBdDy6U/zKdF4v/OPBVwFHINJVCnJQfV8yAC+pZtiJgdCCsrFdVC8Q33VRWdxM7Wn7slbPARxhFscMPFZCMP8lJ8gusUHqdAESmAC7Hcs+cQqwDYeslv1aGFDf2gajmCg+Nk4zo+rGJq+qWWOZ89V7feLaPJQmpHmgtLD5bwDkKr571Lclcc7Ni9UBTC9oMqzTxOsWyL3j4i7bpQZ/+Vmv6cEzHJBP/GReAJKncYLD04NMc30hmu1NiHyEDpym4qr+z1e3Ib90J881RPM8VL0xEtzD3MLZrJcYnrcbiJm/dMs+n/PTb5cgSqJMv1Ue+l+j+797gl84WBy9/0DeUK9k8pyldUPs7GRR3+ReRrtGweBBJX4wEDWsXjwfzpFIsrWHnstrqJMo/x1He+VZ4bHJTBbEdPjuos6TO0Oji9AzC5LkTYMR2P09w21q5zuCYWwFuRimByF/utCywfQDHDidcruAZ95nERcZDF+jD0qow/QSRnCBiyeweVYOMH2HfirvrXzBUsd198VgCbXJ/Q1HeS0M3hVHFVoeCd6xSJjTwSZJu047FF7w=",
+  "URL": "https://github.com/methane/wsaccel",
+  "LICENSE": "Apache",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1572615181",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "python"
+  ]
+}

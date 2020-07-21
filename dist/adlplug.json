@@ -1,0 +1,28 @@
+{
+  "FILENAME": "adlplug-1.0.1-2-x86_64.pkg.tar.xz",
+  "NAME": "adlplug",
+  "BASE": "adlplug",
+  "VERSION": "1.0.1-2",
+  "DESC": "FM synthesizer for ADLMIDI with OPL3 chip emulation",
+  "CSIZE": "3710464",
+  "ISIZE": "21125120",
+  "MD5SUM": "46c3ffaf314b7f873dae4c79805f98e8",
+  "SHA256SUM": "7c0428b803583552686da6bc8f58a4d487deeaf9bc0874c7316d5669bfade217",
+  "PGPSIG": "iQEzBAABCAAdFiEElDfdOBWnqRaePTlGr/XZUJi8b/UFAl1kFygACgkQr/XZUJi8b/U7WQf8CqOkCzg79n/bFeJEXZ3DY3DEqauDfsC9tJMSdns2l5yZjWWRWefbKZi6++unkDEo47Ev+kl7G8OindDnXT5ABE+FgKLGsyD4hufmOAayC2uTwRH4fuBzqwyBSOQjowPX27ctXTfyc8MvPFlJgQcbS4zbQw0ppxKxSG9/IQeQ1q/PMqLfSf8OTGLFJEEnkdktrfhvGTDOone+dXH8cEPaZU8qVhQt3DM8ltdsUPFjLwXIstnJ+M2VOzUGrU+c1E3zTYWC+/iu4YbYPXzVsN0a9quNJ7qgmz+7nPDw655KzAYV628sZBOg33ZNDV0edppZH2ASPPw2/sCRGz/Hp7ET+w==",
+  "URL": "https://github.com/jpcima/ADLplug",
+  "LICENSE": "Boost",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1566840017",
+  "PACKAGER": "Maxime Gauduin <alucryd@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "fmt",
+    "freetype2",
+    "hicolor-icon-theme",
+    "jack",
+    "liblo",
+    "libxext"
+  ]
+}

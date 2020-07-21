@@ -1,0 +1,23 @@
+{
+  "FILENAME": "python2-backports-1.0-3-any.pkg.tar.zst",
+  "NAME": "python2-backports",
+  "BASE": "python2-backports",
+  "VERSION": "1.0-3",
+  "DESC": "Namespace package required for backports collection",
+  "CSIZE": "2616",
+  "ISIZE": "277",
+  "MD5SUM": "02f6def6b2ddaaa53087439261d1a5a6",
+  "SHA256SUM": "0ec026d29353da7898f119e545ebb4bf0dd67f4ae81ebfb8767a32341a58bbdc",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl6/vxUACgkQeGxj8zDXy5K+WQ//Vfg25VBXWemmfmECUMX1u/p7XDy1/xI3cJqv73V52VBbW86SDDs9vjOQ2uj6+lM+mqmDknXWn70yrUztPLAHWTLNBChGkXlrV3lAAAbm2lLVaQCsjIK2dvqK9WDurQBa+3I1ZB40BhFKxs0QqIva9wjCy/ewiHjJauZsJQaldxvU5MEWDhLorHmqkJZrXCTJwqjbmupBvAfcErWRa8Cg84Dc2J5sQUyIeJQdvOZUekn0Ju+Z5gp+1l59mmpdYvB7vepHkEqz1wx++e2QpU2Ki7M3riQi3kJnsoIsd7gcTLH3IcDerEmGeKE6OLuMdffhUAsyIadaSD4GDd3jn5E/ThozKSDAzmpzxWTnoSNHy/VoTuMdfTa16E+Re3L8eyREaKvnF70kbQWgOFwcPDPHPvXQPFcNK9DXC/Ul0jNztVXPD62EflDJTUQJFv1bqI7zz3cQ31Hmlhu/J2k3svPXfOsceFiqDp3HSOlSgEhXXu6EK+2wOWZm6IZf1mCcvDJwX0gLa3CJMO5ky7VgAqNzfXxJx8p7XW5sm0XCWYfSEsP+dk16U36XfP3uPHzNFsXI7TZA4fzJP1K1Txo2lWTL9JtWqnU1kENKY8w9gGa/Em30u86qUmpIKdsGEJK1wd81syCxPsdmlj+g6TxJXAJ/CIWo9Cnp76UJBvX9IjnePTo=",
+  "URL": "https://pypi.python.org/pypi/backports",
+  "LICENSE": "PSF",
+  "ARCH": "any",
+  "BUILDDATE": "1589624591",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "python2"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "FILENAME": "powerline-fonts-2.8.1-1-x86_64.pkg.tar.zst",
+  "NAME": "powerline-fonts",
+  "BASE": "powerline",
+  "VERSION": "2.8.1-1",
+  "DESC": "patched fonts for powerline",
+  "CSIZE": "4775",
+  "ISIZE": "4977",
+  "MD5SUM": "01e5b9e6cc9e1501e32d905b8c1dd6be",
+  "SHA256SUM": "d7fe4b024775034c9a4a894bf103cfbf129a5aff603dc358fdcf339080a11511",
+  "PGPSIG": "iQFIBAABCAAyFiEESx3lRagB1FSb/T/vkMs9YsE9R5YFAl71Y9UUHGZhcnNlZXJmY0BnbWFpbC5jb20ACgkQkMs9YsE9R5a6xwgAvnWq31YqY8qEmoP432MZ+lfCju2Vm/fCdLgbEh9cy3+d0gZVez8eHW46gqTfld+gnSEvaH3aXlslypGa5fXmB+auF7SF3EWbxIDRcE2wc5ePXKgMYAn3IEW4pQlcyKlwoRw43hOidIUslJvrluJS4F3TcvL/N9mEHA2AqSVWGgzRSSd1zKe3GsrBMFzrta79Z8+iWS5isAOnGqflCFRnXQjb7YK29x3KHYoMiurMfb1g3bjUUmsWqWTk1k3Xe3qsyLwh0CodFX9pCz7p0iDZGpsUQpOmpfIJ6418Np5c/PGu4ai6AQ2Ooc4acEMFmB0BBSgnlAN/imHubqAOJ1y8Ug==",
+  "URL": "https://github.com/powerline/powerline",
+  "LICENSE": "MIT",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1593139217",
+  "PACKAGER": "Jiachen YANG <farseerfc@archlinux.org>",
+  "PROVIDES": [
+    "otf-powerline-symbols"
+  ],
+  "DEPENDS": [
+    "powerline-common"
+  ]
+}

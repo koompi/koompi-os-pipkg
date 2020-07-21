@@ -1,0 +1,33 @@
+{
+  "FILENAME": "khal-0.10.1-3-any.pkg.tar.zst",
+  "NAME": "khal",
+  "BASE": "khal",
+  "VERSION": "0.10.1-3",
+  "DESC": "CLI calendar application build around CalDAV",
+  "CSIZE": "213203",
+  "ISIZE": "993927",
+  "MD5SUM": "b8fe2f6a2b29424ec316285cebd26e5f",
+  "SHA256SUM": "fc1caba71732a06f90be7225bc2b305c76fceb1a589e43c90c021279cac9f90c",
+  "PGPSIG": "iHUEABYIAB0WIQTH54SUZv4jWDQ1iDdyWHNLQcMVSQUCXj1qXQAKCRByWHNLQcMVSYvlAP46X/UuFVReb+l6jMmWE+m/Eh+DCOt1mwRaBc9Mftq1vwD/Q0Ks78x8C81mLwYTd49BoOCbQNAyGJt56oj4yxIDdAY=",
+  "URL": "https://lostpackets.de/khal/",
+  "LICENSE": "MIT",
+  "ARCH": "any",
+  "BUILDDATE": "1581081993",
+  "PACKAGER": "David Runge <dvzrv@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "python-atomicwrites",
+    "python-click",
+    "python-click-log",
+    "python-configobj",
+    "python-dateutil",
+    "python-icalendar",
+    "python-pytz",
+    "python-setuptools",
+    "python-tzlocal",
+    "python-urwid",
+    "python-xdg"
+  ]
+}

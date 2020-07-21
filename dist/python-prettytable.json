@@ -1,0 +1,23 @@
+{
+  "FILENAME": "python-prettytable-0.7.2-12-any.pkg.tar.zst",
+  "NAME": "python-prettytable",
+  "BASE": "python-prettytable",
+  "VERSION": "0.7.2-12",
+  "DESC": "A simple Python library for easily displaying tabular data",
+  "CSIZE": "26424",
+  "ISIZE": "99993",
+  "MD5SUM": "90a3d0eaa77f1cf128dfaa07558c983c",
+  "SHA256SUM": "099e6949d64f824f0c7a4947fe8a83e14ef182ba7ecf99d8a9569aabc8bf60ab",
+  "PGPSIG": "iQEzBAABCAAdFiEE5JnHn1PJalTlcv7hwGCGM3xQdz4FAl5Fh0EACgkQwGCGM3xQdz4N0gf+PxhHRHdNUO1PkW63jOAeuIGVnsarbWaxhaUoFSSopGZDEibuNJpe/YYbsM2N+yp1w26NIXJJXLTvzOPZteVng5NDjCLOys1WdHQAuXVPDqroB4medEq8UZtRcASUmtrIKrH9MOSBw0z2T9ZIJpNTjdYwgbcpX1hsY5jQj8JxUluWeVRQIqILWsLRUEeekY6xDjeclAB3+k4bdNS6su666wnQVxuhiixpJOilsagsYlm0X+ZZeF8U9uIMnDMigcqoztcvr3+0QDjjy8NMqwFR0ajVtbtYWHU+l1yrlajzmnUuqMmnui/YddoRPAQoKu+ChCw31swHjeP1Acb3FPaPVQ==",
+  "URL": "https://pypi.python.org/pypi/PrettyTable",
+  "LICENSE": "BSD",
+  "ARCH": "any",
+  "BUILDDATE": "1581614835",
+  "PACKAGER": "Jelle van der Waa <jelle@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "python"
+  ]
+}

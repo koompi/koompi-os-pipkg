@@ -1,0 +1,25 @@
+{
+  "FILENAME": "xorg-smproxy-1.0.6-3-x86_64.pkg.tar.zst",
+  "NAME": "xorg-smproxy",
+  "BASE": "xorg-smproxy",
+  "VERSION": "1.0.6-3",
+  "DESC": "Allows X applications that do not support X11R6 session management to participate in an X11R6 session",
+  "CSIZE": "13123",
+  "ISIZE": "28863",
+  "MD5SUM": "d6185262a4737c5a2e60659e7ed5e6c5",
+  "SHA256SUM": "db0154c4806179ab770a50e59f2be98aef69e5e97f525608e4eae59c7d184771",
+  "PGPSIG": "iQEzBAABCAAdFiEEhs/8qRjPOvRxR1iAUeixSKmZnDQFAl6/6iwACgkQUeixSKmZnDQiEwf9HxANJ7BrF/VSqMEUIApQmopDSZAkqoONcpmLtyo0MeIyLUnSL/nY7mULSNavrILfK4CJmue71T2q1iCnowRQiN+6apDXPuFEBQnnrE7SBnrHgXRwH+rxcJYIqEuQtvKnznHRW8lhrFzHl5WRT+x1aM510s5IPrG6bXuusUd1eNppdN2yCSmB09dVr08JGjfhQzS+zQW2VNp/UW90dVYhloGcXMHDL/3zhOYFBzZdjKdnABxr/TEHEDVTLTPhCAUR2v0cxXH8TY+FD5vMC4TuxBvqNqVVU/Y93JuuafUYfg9lbLe8hDb2wZCE8CyLeVoUPPZDvbyoA1WyyMN+m2GYAA==",
+  "URL": "https://xorg.freedesktop.org/",
+  "LICENSE": "custom",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1589635607",
+  "PACKAGER": "Evangelos Foutras <evangelos@foutrelis.com>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "libsm",
+    "libxt",
+    "libxmu"
+  ]
+}

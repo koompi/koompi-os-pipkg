@@ -1,0 +1,23 @@
+{
+  "FILENAME": "haskell-jira-wiki-markup-1.2.0-3-x86_64.pkg.tar.zst",
+  "NAME": "haskell-jira-wiki-markup",
+  "BASE": "haskell-jira-wiki-markup",
+  "VERSION": "1.2.0-3",
+  "DESC": "Handle Jira wiki markup",
+  "CSIZE": "208087",
+  "ISIZE": "1216019",
+  "MD5SUM": "41633193855b2684ef5ffc2930b0294a",
+  "SHA256SUM": "69c52b6237eeb12838d1fe899c4c8b7fe27b2742fe5720b02b9fb864c9e640f6",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl75C+MACgkQeGxj8zDXy5K7bg/8COpUeEMwRtuJ4qm2JOhbTzGHD8AwUQyDvH5fXZYlKtgskrZuHh2oyT31Srs7FsY1WE0irH11Fp+LNJiModjh3dbSaIc/GsN8QTJsHNfOyiVB3zRSEdF5pczWbVBRVAvg4TpYjvlWJTGLDszlmiYLxGyaHr8zgnw2lraHydBqq3kGLRJwcLSkeB2g1JH56Ong2SnSyJKkLAy5umHNZma8kPyCSvhCg2Gd5t9R/knu68xBqaAFeFV+MTjjni6NNEEBLx+X2rSxpZjM34QsfUCAoA8n706Bgh2Aym1u9JBMsCDaliw0d0TiftX3rGzJyppFFK48ziJpQc/jcr+XYpje2WTHx8swX75RKsuXcrwL7ecwRpD+phCDUz0VmbzeZ8KkAqtxwas916mOnxhNAGGo8Q4BKS4Bes00DDI3UqE57IL2AmyDYUE14PUs7M6h62hiBRX2QFnm44HYoKPfLv8mPVFCBsZpI1MAPXWvUFMAwfmvlL2Kgkc/TQpO6wXcR0uOHGHUUC+WjpWU2f8SVF/EXe8wSKM952rSlYKRqObjJ7GyE+wtbGkkTn8ulFwtA1gCKKzM5696A14ID5be0wPfu/JTvuZ5fo7453J5ErCLKJFAbVI0zu3KnJukTmwHPrveFPL+GIPSJtlElVGvfQSkKDkC6HvEwwCA0DuUJsfW0dw=",
+  "URL": "https://github.com/tarleb/jira-wiki-markup",
+  "LICENSE": "MIT",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1593379773",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "ghc-libs"
+  ]
+}

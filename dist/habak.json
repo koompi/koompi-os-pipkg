@@ -1,0 +1,23 @@
+{
+  "FILENAME": "habak-0.2.5-7-x86_64.pkg.tar.zst",
+  "NAME": "habak",
+  "BASE": "habak",
+  "VERSION": "0.2.5-7",
+  "DESC": "A background changing app",
+  "CSIZE": "11036",
+  "ISIZE": "26384",
+  "MD5SUM": "451ef494cb1c9fa0ad58a92a9c19b7f9",
+  "SHA256SUM": "5231c7103912c2b81018d8542812449a6128185ae35a0133e22dc9096bbe6092",
+  "PGPSIG": "iQFIBAABCAAyFiEEZkWwqMcAXnjbHXhk+Z/+D+rpmb0FAl65KAAUHGFsbGFuQGFyY2hsaW51eC5vcmcACgkQ+Z/+D+rpmb3b7wf+K60WDy/TcXI5fGHHPpyhTztk50238375tp9S2SN1xPbcq5ZdnoOYp7GDS9VziPIiEISICxxv2xPVWWWnSOfoELiCSfFe5ullkGbUUVADtdBAiHVkQKf+Ssv/rPbk6NYRHv1aFR9kM80bfEBm5b0MVKBkmDMltpyR8IOhEUmD6aF5CtbhhJrb3VdK4o87qk3paFnpsYPF1OuBtPZvWUH1n4LcwLQlQeiIilZENR+PkWvGb4WIhMycWVacsxoja3rGd3Xebf6XwhjI9nW1U6/b0cVcb51P2IgyqPZUL1iTiWE8e1x95o+CpD3eTUxx7dsYicCWIptqDGBJZncuXAbvCA==",
+  "URL": "https://sourceforge.net/projects/fvwm-crystal/",
+  "LICENSE": "GPL2",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1589192675",
+  "PACKAGER": "Allan McRae <allan@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "imlib2"
+  ]
+}

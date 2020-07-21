@@ -1,0 +1,24 @@
+{
+  "FILENAME": "haskell-hashable-time-0.2.0.2-14-x86_64.pkg.tar.zst",
+  "NAME": "haskell-hashable-time",
+  "BASE": "haskell-hashable-time",
+  "VERSION": "0.2.0.2-14",
+  "DESC": "Hashable instances for Data.Time",
+  "CSIZE": "15578",
+  "ISIZE": "54768",
+  "MD5SUM": "5b3d2a49059ca0d961782f8b44fc94dc",
+  "SHA256SUM": "58a2ab66344e5346f6742c7d0b1a45283638e3fb32f04b40b39f37b451c7b6a4",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl75CVoACgkQeGxj8zDXy5IWDxAAjKAtNnCmp5wZsvGwwHxkxAU5SXJuPD0T4BM1lE9ivzAX6OHRXj4WHn8egpfPLBqqkJ0RSqvNJN6SJzNP3TjZ8+GBQp79iznYyxyRHYNlM2ny2L8FN0KxOpeLPCQKF0VKPg0/zwbb85oLI107ZBACLpcDFT17ICXOxkiI/97MWSrACfiGhsR02myNHN4+92qAl7bQ0QRCwdD+QHxgODgtfk14M17LsOG1OsxQTHGaxFwJQNWJQwneYGF3niGKbo3hdYl8QLaPihaWRmMd+OAjgmevjta6kDoZfRaTw+85BwYYINsJV5/VTt0wF2spqwBrnSxnPyyWYP8XwFg3yJH1y3CapDf2ERaQGiEDzsfk1YnLX2NbIIBKTkB0mPg+S7vq16ItrWRwV7yv3uwB7fg2YNKobT9LGSO9clN7JRlmTFsxP8iGlAOzOJGPfJ0xQzhcp0s5QXbZq5nydg9Oe9c+7HQ6jEJo0fvT85l15uDV0JJyui2XvUdbSnmPnOCzwXWc9NXF3a9hzD141QTuA+j+VXfywhSXKORvB+KOMdnB8tuy6MdqQ5HoWgON8R2kcXsYChFld4Tf+vZh1oL4U7mqbFcs0gSX2GpvZkza056qxX1p8F3SoW0JT8f9nHiW//fDzA84LoU8NzEKWkYOuewJw1+XLY61UHrkLL9q9zON80Y=",
+  "URL": "https://github.com/w3rs/hashable-time",
+  "LICENSE": "MIT",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1593379140",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "ghc-libs",
+    "haskell-hashable"
+  ]
+}

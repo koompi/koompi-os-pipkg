@@ -1,0 +1,24 @@
+{
+  "FILENAME": "lib32-libnl-3.5.0-1-x86_64.pkg.tar.xz",
+  "NAME": "lib32-libnl",
+  "BASE": "lib32-libnl",
+  "VERSION": "3.5.0-1",
+  "DESC": "Library for applications dealing with netlink sockets (32 bit)",
+  "CSIZE": "288588",
+  "ISIZE": "1184768",
+  "MD5SUM": "d617ee01a86074aafee26016d487ce31",
+  "SHA256SUM": "d3350ea71fe47a8b610275fa0a02c6067d7fbfd497d50e5b688ba2184a7e489c",
+  "PGPSIG": "iQIzBAABCAAdFiEEj8FaBklQqZ3RvRTdOeS4d+YuuRUFAl1szyEACgkQOeS4d+YuuRU7/g//a/6QexBqTVbI/6GKH4od2xNKHCBB6Dr3y3Gty0rf5JMNxgwqTfyiAdycLIYzFVW+PenKX31L+6Ft3QC7ULUv1yjTVdV4+q4gSOEbEDNiBG2wdQ/z+Ny7VmHRDENqBcRxb1D9Tdjx0+3+/brVsgQuBxrFS6i5KKgqDBsOeNUlMoGmfpK5Qm9LCAGwefRV5iUfIKS+pTsfWCZ6GSBLY7Z/Ul/s5wFdxunnsZQ0J4pclsBuXksYACb6AtGG/nB2ycWFR3KdJfF9snERlhHcZ4W8//NFiQ4VBRAf59LNNAm1VBIiWU0poWDMCcGHlsC+bR2ylsPXHUFq7zntXNugCNyUEL85Ig3TznFkYYEoLFPGZyj5fzY1D3BhXtiDSdHfv1xjsBIjtvegeBlNjtlJ45GuyQfjKm/CmOPy6slE0pNjZUSUPKR15ljABew2memIi+xtofJRvHFNYrEpeIW8Het6mW76UcZ+ncq+UaERTbPEGPVRX9QGYJY1BeZ5/9drPTgod1l/iR1tkMQxjB4UIRy97g2SyMHe+MiCpX9X+lGox0QcBlkbtfKl2JzSvnhPboEOxseU66QuqYfP1c9Oj/FcMpd3N2sX5s539M9neExi7Q5FdWGCalHIUTX882dpACm0DBIK3YM1UtMWPKtQUztX5f5G2vPjyBqoFWokiFgg4BU=",
+  "URL": "http://www.infradead.org/~tgr/libnl/",
+  "LICENSE": "GPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1567411963",
+  "PACKAGER": "Sven-Hendrik Haase <svenstaro@gmail.com>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "lib32-glibc",
+    "libnl"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "FILENAME": "dmidecode-3.2-2-x86_64.pkg.tar.zst",
+  "NAME": "dmidecode",
+  "BASE": "dmidecode",
+  "VERSION": "3.2-2",
+  "DESC": "Desktop Management Interface table related utilities",
+  "CSIZE": "65562",
+  "ISIZE": "195399",
+  "MD5SUM": "88334f35e234930f37129e80a1d48978",
+  "SHA256SUM": "42bdb1d0eb9552f14225d7ba35d0b74bf8b9b4ec859c1c7d2267feb71777cd95",
+  "PGPSIG": "iQEzBAABCAAdFiEEhs/8qRjPOvRxR1iAUeixSKmZnDQFAl7Dqy8ACgkQUeixSKmZnDRSMwf+LBfhg2pfZUWSzNCZ6G+a6Eaizgoj09at5069fGt9NrwwAEHUT9ci0SLZz3PZPfLWkslQ97HTAUBoR6JhE3eNdX/lrAttaTKjfh0J0mzVwqwgP3N0XowxSpK2FsPx0F/l3KIRnksDGRey4yuPBLvRlRPRb8SyO9Cu5Gk+WoUJ7P+/KwnYnCL0QZ6QmRZL2h217oSEpvyaIQTV312IMmOx/TPmJ7xVNoThHAvg6m/B8lol3hgqJcQb/m83CUHDVTy8gNgR77YzArR2Y4ydN5vniI9udfz2f/bOvpd0FjLjKgyptxQbYfpyTPVcEKz7uSRvVLV3yNi5u0CsulAmfoUjAw==",
+  "URL": "https://www.nongnu.org/dmidecode",
+  "LICENSE": "GPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1589881629",
+  "PACKAGER": "Evangelos Foutras <evangelos@foutrelis.com>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "glibc"
+  ]
+}

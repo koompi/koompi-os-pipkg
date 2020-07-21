@@ -1,0 +1,28 @@
+{
+  "FILENAME": "lib32-libtiff-4.1.0-1-x86_64.pkg.tar.xz",
+  "NAME": "lib32-libtiff",
+  "BASE": "lib32-libtiff",
+  "VERSION": "4.1.0-1",
+  "DESC": "Library for manipulation of TIFF images (32-bit)",
+  "CSIZE": "183020",
+  "ISIZE": "622108",
+  "MD5SUM": "b7f9dd37a906b0be95adb9f03003b297",
+  "SHA256SUM": "fffa1d00509aa26803a32b1368c94c901d034b664e48c4dcb4d767bb70003a74",
+  "PGPSIG": "iQIzBAABCgAdFiEE4kC1fixGMLp2ji8m/BtUfI2BcsgFAl3RZgAACgkQ/BtUfI2BcshO6BAAm2+VuENz6MnH2YqgwxuZvfcg7Cey/jqMjc4cSiau548O8v1tem9qOp2Y/usP6p1hMt8m4j2L9+5L6XKnbwjmbQ+A6iZaTMkQl5Yf1g1htH92HUpK2oDAIxO+KvQPbJxtFfCL0n6W8n5FnIV7W9xKMFM38C2aXtUkSCEm2ykjgFuRgfl97AdyOROQUNwF4KaSNOBbjsLy1GrEkTqXy0/VCnaWKKJ9l/zbQxKgxeKf4iLKka+d9AjROyNGMd2wrs+KU7qsFk8BtsaUHjcUmCutzl9dUZuL+tSv3eN8dvi0wVoAktv3jN3HnE1c7zg4HLI9OyTj9mgfaNd1PXy/WDCvvObdWxAqF2dUjnrgoDH5kxhvoeJyU+CZulsWpHwFzTG8Ejx4rP6yV385sly7b5y6UP4JgwddfnYB2qtM9Yz4BsrNK6Mb54rBgLQWAWnBUADRw4LUGxLMg/3gSzqx66UNeDXgfDVOOHeBfVFFolfGR/QWsUi4TPDQEUowKEgy+SeEiYKtTVM0zNsy5bKOw7s2tOQ+Zj/orUqPFaP0sCXrBn4n/hD5MALBp7dsYCzlnzvitUUyo7Lx17vhAUtEltQxMPfuy8esbuek7YlDeBUkKmDyKaT3NB+DCBR+55xBp95kkcj0MKrwKCE5fsjxAExZ863lQzT35LBC6+gsNsh2FMs=",
+  "URL": "http://www.simplesystems.org/libtiff/",
+  "LICENSE": "custom",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1574003455",
+  "PACKAGER": "Levente Polyak <anthraxx@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "libtiff",
+    "lib32-gcc-libs",
+    "lib32-libjpeg",
+    "lib32-zlib",
+    "lib32-xz",
+    "lib32-zstd"
+  ]
+}

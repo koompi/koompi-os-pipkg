@@ -1,0 +1,23 @@
+{
+  "FILENAME": "perl-canary-stability-2013-3-any.pkg.tar.zst",
+  "NAME": "perl-canary-stability",
+  "BASE": "perl-canary-stability",
+  "VERSION": "2013-3",
+  "DESC": "CPAN/Canary-Stability - canary to check perl compatability for schmorp's modules",
+  "CSIZE": "7417",
+  "ISIZE": "8827",
+  "MD5SUM": "091c10faa114701b4716cf8d297291c7",
+  "SHA256SUM": "a8a37bba6a67b30a5158f6fd41f5b8d149d24746f3b088dde7740abee7802eb1",
+  "PGPSIG": "iQEzBAABCAAdFiEEhs/8qRjPOvRxR1iAUeixSKmZnDQFAl7vNasACgkQUeixSKmZnDR6HAgAniBZe7EVIHitoY+1tNkg4dAvtE1egDWCgXzRI+7fWcgdyWY+FR8NrboVmbBRW1Itr85z6ABBMhu7cOlmy6hkVdrGIQmxa0FLWPMgKeET5q84KU28YbjnUvqnulLOTZhXVWsecoT/BN4tWJDjscS9SBuXHAZ82hLEmGvxOJnymQH4WEIs/v4nVIzEOsYPs+Dc9hBbKmskV9zIGlRTJV9DzU2DjZapPuKmtC40uCjQIjuVwQEbYYh/g62PgKALMlCSe5juE3nFJYg7uusipqo8aMzHvLW9HSeHba6uX/uxtC6hMWGkccy+qgCPWxiB5i8ONYYF18HRGjdWutFZo99AGg==",
+  "URL": "https://metacpan.org/release/Canary-Stability",
+  "LICENSE": "PerlArtistic",
+  "ARCH": "any",
+  "BUILDDATE": "1592735133",
+  "PACKAGER": "Evangelos Foutras <foutrelis@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "perl"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "FILENAME": "zsh-autosuggestions-0.6.4-1-any.pkg.tar.zst",
+  "NAME": "zsh-autosuggestions",
+  "BASE": "zsh-autosuggestions",
+  "VERSION": "0.6.4-1",
+  "DESC": "Fish-like autosuggestions for zsh",
+  "CSIZE": "15802",
+  "ISIZE": "42718",
+  "MD5SUM": "16da6314079ab9cc0f21a45d50aaa76f",
+  "SHA256SUM": "817de3d6ed016eee5f9d38b1274a330da7aa5af82e28ff020917a72b54099be2",
+  "PGPSIG": "iHUEABYIAB0WIQTH54SUZv4jWDQ1iDdyWHNLQcMVSQUCXhRlggAKCRByWHNLQcMVSe/8AQD2kxLhWhCmeKwR3Njn9TnqXxkMBrK6Jo3YX9QC4BKfiwD+JflSpgIamXX2NpDREP41TQw9TWT27oiVqef8Zoj/pws=",
+  "URL": "https://github.com/zsh-users/zsh-autosuggestions",
+  "LICENSE": "MIT",
+  "ARCH": "any",
+  "BUILDDATE": "1578394630",
+  "PACKAGER": "David Runge <dvzrv@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "zsh"
+  ]
+}

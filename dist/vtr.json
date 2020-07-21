@@ -1,0 +1,24 @@
+{
+  "FILENAME": "vtr-8.0.0-2-x86_64.pkg.tar.zst",
+  "NAME": "vtr",
+  "BASE": "vtr",
+  "VERSION": "8.0.0-2",
+  "DESC": "Verilog to Routing -- Open Source CAD Flow for FPGA Research",
+  "CSIZE": "6551544",
+  "ISIZE": "20059991",
+  "MD5SUM": "e33baa27e7132bc43b9fd39a71782eb1",
+  "SHA256SUM": "25268002c6ada163141ddc01cf6396929079d756bf66a09b97cb06658d191689",
+  "PGPSIG": "iQIzBAABCAAdFiEE0jW0leqs33gyftiw+JPGdIFqqV0FAl6Dlm8ACgkQ+JPGdIFqqV1yEBAAp/DNX6Dt0+y8RVx6p68uJGfiAkKIKijpTGQU22579/M5V5qvUAPnBFhDd3NUD78w6i4o6COPEkQBDUI6Nf5Nh3gInI1PRq0v7h1se6smx6QaVckRbBgz63iyLLLot/mfSGM+1SrhmO8t//eEGenZvDiAmVrR/9bVHbELA+hWd52zqTwQVel3pGCI/gQcW10kg+wM1TDfE64veOH9fcK02HBoNgIDMvs8IF8AeRRWoazdCEY5LQxCiMuN0PGkbyDOcoma0m3mBmSkDon1LKVJdwNcdUQYEsKHHIKpSjFJkQ7/tJPwkmRnYP0lA9tlIQvoX0E70Z9YQmLijkdyuAl+tzJ2XeM6U+uUXz3ijnSlGM75UIJq3jf0GDEk7YlsoT1Vg+GP6a3JnijWw6SWgXdGN5p30Bvvy4uJQ6E+0s7HwKOvJljUxpzvJhVo9q+9k3DkL0RwtJJiuXuAa55ihj72E4UPL8yrwCSk32IkkajxIake6kDFsF9HQoM16z+pEovABYklN+ALeSK3E0CeBCK75KQ4S/zN7i9pUevU6XoMcSydL86xRitxwD+6bY5gA+UpXmlEi8Dr/8qUBIDO4+8SenmH7HesVb/dbumBIatkxeUbIBHqGdWSlvxo7FzR0w63A3v/ZBotKlk+anpxR9dJbXjTCJA433E+RtyPh89j50I=",
+  "URL": "https://verilogtorouting.org",
+  "LICENSE": "MIT",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1585681808",
+  "PACKAGER": "Filipe Laíns <lains@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "ctags",
+    "intel-tbb"
+  ]
+}

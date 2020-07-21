@@ -1,0 +1,23 @@
+{
+  "FILENAME": "aom-2.0.0-1-x86_64.pkg.tar.zst",
+  "NAME": "aom",
+  "BASE": "aom",
+  "VERSION": "2.0.0-1",
+  "DESC": "Alliance for Open Media video codec",
+  "CSIZE": "2726211",
+  "ISIZE": "12281019",
+  "MD5SUM": "6de7860ca0454cd4e74491687a9be675",
+  "SHA256SUM": "a418ec4c69e953070f3bf0390f5453950e082f18f7fd746540763d5c25db6588",
+  "PGPSIG": "iQEzBAABCAAdFiEEghj4iEmqxSLpTPRwpekojE+kFfoFAl7FNwUACgkQpekojE+kFfozPQf/eXwITX00hk/x+PVxo65is5vADSwP4xMC4f7Q5CJQRHr+oM5aQIAyM6x6OpWqB+k6pEVQQaWOEYVp9Y4v/Ppie0BFjI8OOoxcTBZqBlvIRcObl1BErdYc7YGwtJdyQN9PVCQqdgJdxKChK10pJdUAksNzmT6OR6e2PtRKBVuJ4rMx4S1d1PtmTzGNVe5KkjyNlU1Ev87uT1GKehSnzeVOM3PoI9oAzqNzeP9yGir04If5kPjXwt8zPLyMDRcT+Ipum3zUR7rns012zRk04oyX9ajAIcvvIYQxZBV9sAhQ6bWwuBlJyTiID+XsnSuYU3huk23kwCnV08KcEBYNIhwyvA==",
+  "URL": "https://aomedia.org/",
+  "LICENSE": "BSD",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1589982725",
+  "PACKAGER": "Jan Alexander Steffens (heftig) <jan.steffens@gmail.com>",
+  "PROVIDES": [
+    "libaom.so=2-64"
+  ],
+  "DEPENDS": [
+    "gcc-libs"
+  ]
+}

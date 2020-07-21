@@ -1,0 +1,24 @@
+{
+  "FILENAME": "udftools-2.2-1-x86_64.pkg.tar.zst",
+  "NAME": "udftools",
+  "BASE": "udftools",
+  "VERSION": "2.2-1",
+  "DESC": "Linux tools for UDF filesystems and DVD/CD-R(W) drives",
+  "CSIZE": "124564",
+  "ISIZE": "400230",
+  "MD5SUM": "00691251177e1b145328811232cb4bea",
+  "SHA256SUM": "a9dd3d887dc8c87c51797826eda86f5b3a4a06fb8a9818ff828b950e37b97cc5",
+  "PGPSIG": "iHUEABYIAB0WIQQEKYl95fO9rFN6MGltQr3RFuAGjwUCXgea1wAKCRBtQr3RFuAGj3GzAQDpfpQjo7WmIua6mfdAeeVsVINnWPmidX5j0uLBJJcyVgD7BYWcztqVwopNzhBl6VhUPW2Hg2ln2xq1Yfa3xTc+wAQ=",
+  "URL": "https://github.com/pali/udftools",
+  "LICENSE": "GPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1577556643",
+  "PACKAGER": "Christian Hesse <arch@eworm.de>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "ncurses",
+    "readline"
+  ]
+}

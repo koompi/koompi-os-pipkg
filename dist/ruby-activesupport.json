@@ -1,0 +1,27 @@
+{
+  "FILENAME": "ruby-activesupport-6.0.3.2-1-any.pkg.tar.zst",
+  "NAME": "ruby-activesupport",
+  "BASE": "ruby-activesupport",
+  "VERSION": "6.0.3.2-1",
+  "DESC": "A collection of utility classes and standard library extensions",
+  "CSIZE": "194797",
+  "ISIZE": "809234",
+  "MD5SUM": "2f1926c52b1923bea7e434cdda774c7e",
+  "SHA256SUM": "1a34ee1d79acfade1d4fb598b47f6d78a7ab184f46188f0dd0ac0e86286a4f49",
+  "PGPSIG": "iQIyBAABCAAdFiEEjhmSFnRl21+wRVV8sChU7XU+Dx8FAl8FRPUACgkQsChU7XU+Dx9gzA/1FpeqKAv1G9dO4YLBZ4BqxAF8DnmOtDPuqVQNFw54EE9ZKMPSdpYrcDwSl3FQ1cmXdyPtG8YpDSYRhrar6MVPyMQ6Qhzezdu74u6AOF32CTXB9QbQas4j7S/Bg1UJUbAL2aqgWEmh191Re/HxRrhujFuALjbptOLA0sM57EkuX0GHvx/FBRHexoGapiu4CyAm+usVDo/Ste0LCTfLeiuiSCnFaHuEnB7d69eiG92tjoCjrLrheiWcKFSqdE0HVR8Xtmu554xHZToXn+TZbVVUwanDAWBBG7uG+1jlz/0XHDQ0NRLHmRvmyO3+dPIv3s22PiAkzUOcB8H+d0E6gO/DLruCWRQBZ52kqK071BTJJ7UNgoIBYCnZA4ckYpRDbK34L9g6IM4NJEEl79RxqgaZraGGNFB6s6gxxlzkD4eLeebv32NQ4Em1qmoIsoNzIylIdv3+zZuWOgj9lTTc8SCrOTqALS5mCh3yYzw7tVaMnCYRAoZ3vIGHM3Ga94QvMw5FNQBFwDpYvGlSBfvKeBr/mhV20hQJbu2yU8dT7+9m60XbBTQxMiRVWiy1PYc1ZhHhSNXn5CMo7cUrU4a8QZjPB0uIg3wf86Lvyl4fLDKOVrz/KZeVfJQrRuKfLQWBCgyy7bYLSyPZZ32TXnigvqefKDbSjkVF6HfvUZIVzNL+dA==",
+  "URL": "https://github.com/rails/rails/tree/master/activesupport",
+  "LICENSE": "MIT",
+  "ARCH": "any",
+  "BUILDDATE": "1594180831",
+  "PACKAGER": "Anatol Pomozov <anatol.pomozov@gmail.com>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "ruby",
+    "ruby-concurrent",
+    "ruby-i18n",
+    "ruby-tzinfo",
+    "ruby-zeitwerk"
+  ]
+}

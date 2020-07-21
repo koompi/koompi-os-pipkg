@@ -1,0 +1,23 @@
+{
+  "FILENAME": "monit-5.27.0-1-x86_64.pkg.tar.zst",
+  "NAME": "monit",
+  "BASE": "monit",
+  "VERSION": "5.27.0-1",
+  "DESC": "Utility for managing and monitoring, processes, files, directories and devices on a *NIX system",
+  "CSIZE": "350896",
+  "ISIZE": "900985",
+  "MD5SUM": "08e2b26185abed34f8933191c4b24aed",
+  "SHA256SUM": "b5c75491e01a75687fee9034cf605fd0c728ac59757fce18547c5d101cfad20c",
+  "PGPSIG": "iQIzBAABCgAdFiEEOO3RiGdWkk4SJOSVJOTNsAE8JYAFAl8IgJgACgkQJOTNsAE8JYA3hg/+Ip/3ljgi9knzvi1qgzAPiobl1Ov4/UF4dmALyCHdhVv4lg7Xa6HCcBbRHKv6fVJ2/G9FnCmKq90nlTnND9hM2QYdJMggB+fSW3HA9QeuNZQJB07fhcml+YgyEi0NCvGcgl532nkUIcn44UOhpTCvyHBTrOtFBh7jkcq0YnVXgQKdphdeKHquogna6aYZbM+TIQyS3v3RNJK+iOEjlgWQaV2pIRVxhz3mzy1rJ+wBM/3Ib+JWJOMslJurO1vVb7iTQVh88odFoagK3Etzr0k4C5yclzm1BQRF6LOcuePMwh7UJSsOWrtnxTwelG9hwm7bvXunX9tQawGo7egZq5i3QNzV9WLivErUJWaSt8ncsX+sTH9/WafVOBkUBLhVaxfVadt5ixRT9gJ56IzFsCtQrWcL5UIlQJ/c+/tc0ME+GYzsHshGlC6lQ79XrUW38JivUzbZNjcWiegjgO9vGFukWNrU7GWvd5zUz5egJEvxfq+W86GJf5Jahv2WDxLI2oRNKrlFYotqBYQ4fChEWn9oQV+iRmCDUeiTmVJarkcsSvERXrXu3NLuf6yivHpAOpR56wVmoLadeATYWAnMqYIuXeqZfc9NlO5kikW9iKgSvxupgiBWBkBwgVYICaHFma9ml0Sd/yqnxQG43070UtxpZPuRP3VZOven+F3DSmysGBY=",
+  "URL": "https://mmonit.com/monit/",
+  "LICENSE": "GPL3",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1594392666",
+  "PACKAGER": "Jaroslav Lichtblau <svetlemodry@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "openssl"
+  ]
+}

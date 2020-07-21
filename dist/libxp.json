@@ -1,0 +1,23 @@
+{
+  "FILENAME": "libxp-1.0.3-4-x86_64.pkg.tar.zst",
+  "NAME": "libxp",
+  "BASE": "libxp",
+  "VERSION": "1.0.3-4",
+  "DESC": "X11 X Print Library",
+  "CSIZE": "89176",
+  "ISIZE": "145333",
+  "MD5SUM": "eb52c7c9f453ba93a34f7db16b991325",
+  "SHA256SUM": "b8f5b921a1176976b35d5d17f57613fcc38dd6ed6160cc8fd3f0b3f999b58c3f",
+  "PGPSIG": "iQEzBAABCAAdFiEEhs/8qRjPOvRxR1iAUeixSKmZnDQFAl6/4nMACgkQUeixSKmZnDQG3ggAhuf2sf+SJ8JVewdN3iBNIYPCf/bT+Y55pKwryzVBYpEuKt5ZgDnkoxhTr4duIM+E1CYVT4trOPD5PB56jgmY0KdErM7DxeePxAuYKZwt72mSU7ZOvuLj/R0eOYS+n+CN0ht/S462jfBUpeUyJb2yaNLJ1ZLaqWCG0FMeMW2hTfty8z9K0Whzitubas9OhSg+lJt/0H/I4O7H3VEtq8i9+ZBAEibm0m4EU2EL4ZoW0jDBNcIETmDwOC4lcOgJD3cbE5WemIa513tsXXnXCYbQD6zKyLdAuL+7d9NqgZOcePwMd0pvN63AbT+RjmmQp2/O4La4I/wHRGqK0qByFdxDtw==",
+  "URL": "https://xorg.freedesktop.org/",
+  "LICENSE": "custom",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1589633598",
+  "PACKAGER": "Evangelos Foutras <evangelos@foutrelis.com>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "libxext"
+  ]
+}

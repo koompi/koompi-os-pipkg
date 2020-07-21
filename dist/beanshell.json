@@ -1,0 +1,23 @@
+{
+  "FILENAME": "beanshell-2.0b6-3-any.pkg.tar.zst",
+  "NAME": "beanshell",
+  "BASE": "beanshell",
+  "VERSION": "2.0b6-3",
+  "DESC": "Small, free, embeddable, source level Java interpreter with object based scripting language features written in Java",
+  "CSIZE": "368523",
+  "ISIZE": "389033",
+  "MD5SUM": "9040ff3df2ae4e8939630f6cd78f137c",
+  "SHA256SUM": "27f5507e22133b02a3e31882dc3d1cdd179baebf877d1dd3ad677a8da80c0e50",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl7DligACgkQeGxj8zDXy5KQeBAAjfQcd+fnpTT6WAvfoEa4Gt/QjB8VyPylqOCUSXcKT16U3AKOU9LF6f3jFt1RDzIAOyufoC1APAXe3jWdiFKHNcOWezbhxByTNFu3sxTXmDHV2iXmAkfS8wMGczatoccXWShTah47tcBtmSg/LrtTRf5l1ZKVyRYbsRV/oAlI3Sp+9mx1RFG/L4AXLlCvCqlVE3XtBwbjDCklDE2BUlh0ZiDKkfniTePo5kIs/QxvFmMEKF12D77CChwv1WthbGXyJ39MAjiqONXroU3gbrrqlUCawmYNET2mQXVw4VRe1pIvXnV2Kx9AIGfEyQJGG6ZF2wEtbY7nxYoqJukUA+/y8yVgFlO08SVQoRMZ0P234IPD04WNz8BsqHqHSjkCb+EMwNYKa7CE4NsmSh4/yyjkjsTLQHQa4nnzOXOPFO4ehZTzEV21HdHD/b7fvkzrAsHYHNeQJsFYfnMsE/XW4Hli4wxphpWsb+G3C0x2VXa5W/Hj4lNFj6MBXW3aQlRLRSsa729U+pEcLkSnKw05y5g3okWhu9ZMSvE7jNTjCq3Xn9J4o8LaNYtDGeoVk65y2ZHGYW5EaR89ApSKowF3JazUVQVGTjJVE0gwDSRcrrA+GWAKX77zmfbTG22vEIsT/V3U3s9fuX7uyhfJwRhkXlPm8V8DqVcF3oM/XQ8Of0sFB/4=",
+  "URL": "https://github.com/beanshell/beanshell",
+  "LICENSE": "Apache",
+  "ARCH": "any",
+  "BUILDDATE": "1589876234",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    "bsh"
+  ],
+  "DEPENDS": [
+    "java-runtime"
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "FILENAME": "retext-7.1.0-4-any.pkg.tar.zst",
+  "NAME": "retext",
+  "BASE": "retext",
+  "VERSION": "7.1.0-4",
+  "DESC": "A simple editor for Markdown and ReStructuredText markup languages",
+  "CSIZE": "271240",
+  "ISIZE": "1300308",
+  "MD5SUM": "7c19380d4d3674db35ede70ae3c50b5c",
+  "SHA256SUM": "1456290a6d58f2f455f8ae3f34d96ddecc55760f1870073d4fa3f416afce51e6",
+  "PGPSIG": "iQFIBAABCAAyFiEESx3lRagB1FSb/T/vkMs9YsE9R5YFAl66OwcUHGZhcnNlZXJmY0BnbWFpbC5jb20ACgkQkMs9YsE9R5b5zwf6AzN9O9B1ecWD67CPLqkKvXa1hf64ZqCGwnpWs3g2L7pLOFcCxyuvQ6wUGmFlzztJpH3oxlkFUkSdvheaWoQzRnM+Ts9csPWLcMSQMhs80eH4FTcpPEeiQq1Wg/QbRI1Ix2aZ9WiO/5lAO8JeQCls/JgFgk0gIdOY1JumHfbpVRAsPW76yXQIzQwlprFpGZ19HphN6H4HQzrm0X+VRmPtlL5YJzJDZvO4leKsLcAo+tTlvXEyq05ofTBwSjlKcSR3aKkUZTB9tg+//zYAG8avw3F10vl+0Qe+uHn7m3clfLtpxMXrbUdMCbkz5/g/ZWcLD3TI3yruki6d3ffr1KV61Q==",
+  "URL": "https://github.com/retext-project/retext",
+  "LICENSE": "GPL3",
+  "ARCH": "any",
+  "BUILDDATE": "1589261553",
+  "PACKAGER": "Jiachen YANG <farseerfc@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "python-pyqt5",
+    "python-markups>=2.0.0",
+    "shared-mime-info",
+    "xdg-utils",
+    "python-docutils",
+    "desktop-file-utils",
+    "hicolor-icon-theme",
+    "python-markdown",
+    "python-pygments",
+    "python-chardet"
+  ]
+}

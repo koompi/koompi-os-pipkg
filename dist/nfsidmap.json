@@ -1,0 +1,24 @@
+{
+  "FILENAME": "nfsidmap-2.5.1-1-x86_64.pkg.tar.zst",
+  "NAME": "nfsidmap",
+  "BASE": "nfs-utils",
+  "VERSION": "2.5.1-1",
+  "DESC": "Library to help mapping IDs, mainly for NFSv4",
+  "CSIZE": "58519",
+  "ISIZE": "262319",
+  "MD5SUM": "fc1d893630b947cc418d522744b00be5",
+  "SHA256SUM": "659b0d85e6e0b8878f400853b9cf02ffe2565ea257892682f324077f101d57d3",
+  "PGPSIG": "iQEzBAABCAAdFiEErcih/MFeAdRTEEGelGV6sg8qCSsFAl70QtkACgkQlGV6sg8qCSuFdQf/W/Zu5CY4uktkkDtchgU/g47tvZ6+Zl2gyF86vlkYqE5Ca9eZW7Tda7KRk9R+baWQyVlaAMqhE3Azo9m1vY+7E1AzoKwN1EqZ0jFe7LQKJclg4ZIqikA7ZxMBaMYoP3lg86CfEvR3U7JLvJydC8rsAwM7VHg0dfmZJzmRebdlloanxH1tsIV1WJz8OyEIQrDIZb217oD3+xsdGIFMXOqCnLskRbaNVw/k3EyTJ6yR/ShkUzTQIw2I2jMRgZeSSbXFW07yl/C1x/0jCzTgkro/4PNbxgbHFM3PhKWpMJRVJsz3wqH6xHjgH4xVKD6BbyYNgB6JG53maedSrvnWxdvD8A==",
+  "URL": "http://nfs.sourceforge.net",
+  "LICENSE": "GPL2",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1593066093",
+  "PACKAGER": "Andreas Radke <andyrtr@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "libldap",
+    "krb5"
+  ]
+}

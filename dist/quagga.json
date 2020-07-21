@@ -1,0 +1,30 @@
+{
+  "FILENAME": "quagga-1.2.4-5-x86_64.pkg.tar.zst",
+  "NAME": "quagga",
+  "BASE": "quagga",
+  "VERSION": "1.2.4-5",
+  "DESC": "BGP/OSPF/ISIS/RIP/RIPNG routing daemon suite",
+  "CSIZE": "1678258",
+  "ISIZE": "7609909",
+  "MD5SUM": "984f09f2d601b63634e934c22df57fa8",
+  "SHA256SUM": "b965409c82319f0e01499f21b47f708878e1393e51e5d507c59384925b27cace",
+  "PGPSIG": "iQEzBAABCAAdFiEEhs/8qRjPOvRxR1iAUeixSKmZnDQFAl7AVE8ACgkQUeixSKmZnDTptQf/dvelEGKlvsm/1bZy9TkmuRxhO58R/4L0FKrGFOx/p/aOd5PDM9W0QJnyMi0Aej9ECzNtqFbAJnl7bk2TjvAPQn9JtSuMnAyUBp2q+RUM9zV2n58FAVBDGJDItDQszzQw/pDhhKI/6lPXjn7lCaOGRdsBqQrxdQepkwu/swup4fqACoXGfUAZdrd9Muf+rO5uapmH4qgM3rNy8MhjJys8ZEIxVQcAPCmhF2yTjUaRqd0blIzIcv1SwZFlGlUsIKQFYMKesYivbViKw/Y1y1PDdwj1o80vRl54bWDTkcDB92JYZWuflZtTHKNn0WkbGowPPu8n6RHbqiULf8YNcfKUvQ==",
+  "URL": "https://www.quagga.net",
+  "LICENSE": "GPL2",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1589662718",
+  "PACKAGER": "Evangelos Foutras <evangelos@foutrelis.com>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "libcap",
+    "libnl",
+    "net-snmp",
+    "readline",
+    "ncurses",
+    "perl",
+    "c-ares",
+    "openssl"
+  ]
+}

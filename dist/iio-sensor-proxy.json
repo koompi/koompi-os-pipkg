@@ -1,0 +1,25 @@
+{
+  "FILENAME": "iio-sensor-proxy-3.0-1-x86_64.pkg.tar.zst",
+  "NAME": "iio-sensor-proxy",
+  "BASE": "iio-sensor-proxy",
+  "VERSION": "3.0-1",
+  "DESC": "IIO accelerometer sensor to input device proxy",
+  "CSIZE": "31004",
+  "ISIZE": "86333",
+  "MD5SUM": "bbeb3525a6fa75f8ac2581249e45760f",
+  "SHA256SUM": "bbb24bb12eb76411f1020fa3d57910afde7b988f09a0b8221a31d4237ff3b31f",
+  "PGPSIG": "iQIzBAABCAAdFiEE0jW0leqs33gyftiw+JPGdIFqqV0FAl6Yy0cACgkQ+JPGdIFqqV1aFhAAi6RnYWqcHtP4f7CUpzNpXefRy85SkDciNMYq0ZbucDZ4qLCtSWzrUMnkRUas2pDbJg+S6guXWE1J5/BkJif61wimEezXqFHDDEIuBFkfXLB2bcSeiv5Tx2S+CV4fyNlGHy42+AnjgM5GftoBrHDZsEC+apy5hP9viW+m+7jpFpoW2TlJRT/eTiEJ6BU0H4YaB7bWjo8ztrqqERToKnyDI5C0RmXFrsOEffmOK+4hTTEuV8Vfpc4IZu58qxsVddKS9IPDVzQj8uq2xSZUcvIy92hPwEnmjQrJ3YJIYIrXPqkNyOQVMJgZVX3lkftTQiA3U1xmEZRyJNMsABWlliGyq3Sd5RORWPR2f07lIfWVGlyEyLzPvAlSJ7MYts2uCguZBELKjhcP8IT86lxVqK3fe9U00OwIAASraYKEcXfPY5vi58hs/SwJkyjQcciKHWWgUeB0/wXwUmpy/IVDNP8LgPAo8zQ8ttx2t8moKwLmys7FZvyOVSvBP+JtUtW3Ex2KKTFFHCb83PBiVc4wHCsIjB7v2WWK7TjCiM2qTB5IPs5IJ4ZtLbjVv4Y5JPdJjAXowagVQyr5biE1Hy/K6DdZ+xtdUiouKJX0Qf0+8RiLYqgKuEooRnHG/1uz2hxO5DenLb43nROAzlHNPzWjpcpAjxYlIauZFkBwMoZ/DLQSSWo=",
+  "URL": "https://gitlab.freedesktop.org/hadess/iio-sensor-proxy/",
+  "LICENSE": "GPL2",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1587071761",
+  "PACKAGER": "Filipe Laíns <lains@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "systemd",
+    "libgudev",
+    "gtk3"
+  ]
+}

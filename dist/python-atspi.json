@@ -1,0 +1,24 @@
+{
+  "FILENAME": "python-atspi-2.36.0-1-any.pkg.tar.zst",
+  "NAME": "python-atspi",
+  "BASE": "pyatspi",
+  "VERSION": "2.36.0-1",
+  "DESC": "Python bindings for D-Bus AT-SPI",
+  "CSIZE": "63513",
+  "ISIZE": "509925",
+  "MD5SUM": "85fe63bec19be7c4c66e28cebf1d69a5",
+  "SHA256SUM": "eb8c5d5011fafceda94c167210a7b0f1f52ee22421ea7394937445522e9e4e4c",
+  "PGPSIG": "iQEzBAABCAAdFiEEghj4iEmqxSLpTPRwpekojE+kFfoFAl5ka9YACgkQpekojE+kFfqhYwf7Byg4+obpHjzHhaL5sss+GnttpkRfqVqKIqaE7AUUzGgZd/DcMUWAIdwJSwRVPUV7sDaw5kW68RV7WdEY6kvKTPw5/GZYMEsPqu9ykkK78pRZQeYGGTu1JyXCx1JbRCy8N8qWn7iHuSbaa0d8LgXBKyEbkzGIIrnkNalF5P3CsKhrZTErylJW58TPze3qudtFWrsmVVTYt8kFDGuDWBDmBiJAD2r1iAjFL3M9JRKRgWgfXDFVrtg3r65KwmAueSvUhZ32k3NHzbShLPhbBQQiqS2o08BrPqzP9FmSdT6wpA4/IVGh0uKXf24Bbp3xWqqlfVEt5RZDe69U5jzspu3qxw==",
+  "URL": "https://wiki.linuxfoundation.org/accessibility/atk/at-spi/at-spi_on_d-bus",
+  "LICENSE": "GPL2",
+  "ARCH": "any",
+  "BUILDDATE": "1583639465",
+  "PACKAGER": "Jan Alexander Steffens (heftig) <jan.steffens@gmail.com>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "python-gobject",
+    "at-spi2-core"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "FILENAME": "deepin-calculator-5.5.21-1-x86_64.pkg.tar.zst",
+  "NAME": "deepin-calculator",
+  "BASE": "deepin-calculator",
+  "VERSION": "5.5.21-1",
+  "DESC": "An easy to use calculator for ordinary users",
+  "CSIZE": "518391",
+  "ISIZE": "1907098",
+  "MD5SUM": "f80134e4c8dfd06cb8b1b09c0af1224c",
+  "SHA256SUM": "4832a9d79d5c9e279431786220e2b39c8da60698170e873bdb9b1b724cab0926",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl7+/ecACgkQeGxj8zDXy5KcHQ//WfMFNWxYVMP/3mkMAAeeW1ge3HRlUFpOy6gs6XtkSHjk3N2KJXEGNZ9l7QU4rnHb65oMgxOs9npBM+UUYSgySd2PogjzuwiAepRlooEHQiXnMdABSuJ0sZkDU6570X8HNDhW3HFTTHgLS8KNhddgm9HjER18nzO6crKLpv7fu8n1Ra1j5zlJfeOquxL7I9KCoInxAfUh4+a4sSeGRzaETiYuYSnizONBAOawCJU8T3T5ICHsAQxi7ZcRrIcU5vAB2KyDbh/1UtnqiQsyy/LepGp66+ybYL8bj8qfF6T5IqfvbRqjvlOcSWuEQEwzqciyxeyHzQ1YV53MBiajhnSLlpOht5dWncIz6JNbXFjY/PfEBJ2+ljPM2sSDjxaoMPRFwNljJcOY2EwaSnpvNwU/hoT/TTOuCfGVfZrjqpxT1s9ldUxmghgVxeKAUPKpLra5ZtsprRlZKu9okdkTTsKXPtW9kl4g1YmKcFunHKZgGsthDoLcbwuHlUgORWaOjE4qwsP+oMZygzQDv8PmU3ryTD0qkKIJ0Is6RJv5Okp2bAzAqv4zKAM/Be7mWX6j16Br0+mdZja6tg8379MTCM0psQQ3sxjn3S6r6vXvrYY9jDkDv1TK0B3MSavEOpei7TWExODz12fgegBAbZcC6lJkUyDy+nJsfgkNyvBn7VA25wE=",
+  "URL": "https://github.com/linuxdeepin/deepin-calculator",
+  "LICENSE": "GPL3",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1593769333",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "deepin-qt5integration"
+  ]
+}

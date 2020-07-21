@@ -1,0 +1,23 @@
+{
+  "FILENAME": "perl-sub-identify-0.14-8-x86_64.pkg.tar.zst",
+  "NAME": "perl-sub-identify",
+  "BASE": "perl-sub-identify",
+  "VERSION": "0.14-8",
+  "DESC": "Retrieve names of code references",
+  "CSIZE": "9934",
+  "ISIZE": "23004",
+  "MD5SUM": "248b3879cf726eb63725510c301df45c",
+  "SHA256SUM": "8d31af4ec00b7641ff0513ab571de50e4044a397345cbe0ac4bac7cc393e0944",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl7vOE0ACgkQeGxj8zDXy5K9JRAAsDznoQpjLO4HUWey6EQqc+rcl/HBazkNW/ddMC7aENwiJYPqAhZ20l7g1anTPCXOUiGo7aYKWJYGO10ZBGiM2TdGXH7eZu9QqdpPmOuBUvNpCqO/yYggRbOHes/SLyTk6KmFIArS5zivOyIhMu75nZ/3U5nqChYyS1xAzWlNhfmerMLqTfAAQbJdYnpUUIUX3wuxPc4i1/yad/Jd4UgadV6p+hRXIZqcBWYaG/CREkS3QOu9Z48WPtw6n5pEtvZAQQhHWyrVpbgVNfUpaiuqVKqissA1d+qf34H1+pE4K+ImSId9WzxzpolH12Jrb4fady0s5Fquq9m9gTiQC119aTQSHaFwp/Wd5fwiTdb5VCv7LEzbtxeuuplN23TKMD0AuSNld2yknASiCRa3mvBtMya46hs9QjUD6ncoP0pSr3GIhdsktbdW/2PYHOJQCxXlfO3FAuFFg8nRPVVwK9FviONUJDS5Pja7iRxIN6kQug2Q+LYVLDITH7/gJliDj4J0nmJ+SYeR5xZx51vemAengfdrUd/kxfTLVhoKB1+d4LWjUXzTcs12vzpjn4SrioUHEsGSLjTEkLolVrqli3vFIrm3nVa4VdRhjiRQMJDiHbMhWf+Awfr2LzSK/9VQXlNSBWbxkBOT2XA++q4lXrenB3sQG2zd2r0T6j7w7bwb6pE=",
+  "URL": "https://search.mcpan.org/dist/Sub-Identify",
+  "LICENSE": "PerlArtistic",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1592735794",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "perl"
+  ]
+}

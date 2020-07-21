@@ -1,0 +1,37 @@
+{
+  "FILENAME": "fcitx5-0.0.0.20200626-1-x86_64.pkg.tar.zst",
+  "NAME": "fcitx5",
+  "BASE": "fcitx5",
+  "VERSION": "0.0.0.20200626-1",
+  "DESC": "Next generation of fcitx",
+  "CSIZE": "2727123",
+  "ISIZE": "10874730",
+  "MD5SUM": "16c27bc616c789c8a97368ff48094004",
+  "SHA256SUM": "6033efff763807b7b0773eab4c4dced6cadcb078a31701b94a189d0b08fbf9a5",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl71WsQACgkQeGxj8zDXy5Kkkg/7BpSwBYhflaOZOirepkU7TUHfWhL4tkSKgnVtQ04LkQAa7JLwPXkAPCp7EiEwwq/Xwc7f1BGjLOS7m4rFMT+Nn/ATEnZzi/WQo/RlMQtILapWWgp31OBLS0DOpwf7i3AixtzdbaxYWpS8fzZckvAIoGfCE8d7mCJd2F23HXVi0pP+x9fa0sIyZFqol6wf7q7Mjp5ja3uA6F6/ErZOkVLvlulQZfPgliOxFvoUTsAVxajXSecJzTAR5Q/NySuaG9nFRjfTe5qNSI+g3C6wjwkf1cuqxMMn+X6m+pk6d7UidHAPawSq1uHCx0WWU8UG3upP6dOnhkjPnQJyUg7unor178AfKlb9GprsbwMaqOuJcYVOkXfY/3DnTRZFzB6wKDJGl5KfLYQfT2ctlPQEVCXvKXEhlD7ruTCd6yQwZfhYqUAvYpLEncIQIY14SxpQqRaBQyvb0yhGECRsijGj5NnZ49srUmgf7TBCEbBdJyIZYhfhf8MOCIkzaBH0A/xuoT0sA0lT06xecAwm9b2ETFL1Wo8cc+buSAaVap+ZMHz3S0d3icqQHD2eHjp0y3vWfQEHqAp0hefEsn4KHj8Epfz+IVT8mUmhT9tGEerU+gc2V/iMz2cjDf53UwOwG6WzvjfNfpDHkzvj2kItjmPVB95gSnfM08x1bB5H3uoVk88dwq0=",
+  "URL": "https://github.com/fcitx/fcitx5",
+  "LICENSE": "GPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1593137755",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "cairo",
+    "enchant",
+    "iso-codes",
+    "libgl",
+    "libxkbcommon-x11",
+    "pango",
+    "systemd",
+    "wayland",
+    "wayland-protocols",
+    "xcb-imdkit",
+    "xcb-util-wm",
+    "libxkbfile",
+    "fmt",
+    "gdk-pixbuf2",
+    "cldr-emoji-annotation"
+  ]
+}

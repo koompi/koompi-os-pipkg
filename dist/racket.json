@@ -1,0 +1,23 @@
+{
+  "FILENAME": "racket-7.7-1-x86_64.pkg.tar.zst",
+  "NAME": "racket",
+  "BASE": "racket",
+  "VERSION": "7.7-1",
+  "DESC": "A full-spectrum language with DrRacket IDE. Formerly known as PLT Scheme.",
+  "CSIZE": "88964258",
+  "ISIZE": "479900638",
+  "MD5SUM": "ee063278d4d605fd415e736080ab9e3b",
+  "SHA256SUM": "ccdafc19a10fccfd5ab8d8788465fbf507857554330672aac452e96e81c73a82",
+  "PGPSIG": "iQEzBAABCAAdFiEESMOx8w3dD+Z+UW0WOW4+JbqxQsEFAl7RePMACgkQOW4+JbqxQsHhLQf/akVhMYHEQ4DT2uUTLFxly02YY/NHwcb7uA2lyXpii7UYdlkNunqeMD40UubKQzLPEZSCAaREuQ6TUN2iXlIKJ4S5B0pk1eh2udJ9D+03cx6rPkbNTdez2BeeToPgWZDiZ5W+IZ24eTzNQPfznX2Wk3+ywxoqv6G+3I8WEkdbQRTDJ1fN8MT3iXaIGB2NkTeOS/jUa3RoRxi3TBzpd0CCwd0Ub7iPp0fVpVd/I8l5ybCTqyv4nHfo2MIbnzNEvlKcHbMhcXP6Tmk2ZC8gdnGXzVmtC8a3uZfPzXC3pnzeJXD5A5Mge+NijRP/4qKwp6NTYcyoNUPYC6hTDob8JtkJJw==",
+  "URL": "https://racket-lang.org/",
+  "LICENSE": "Apache",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1590785401",
+  "PACKAGER": "Kyle Keen <keenerd@gmail.com>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "gtk3"
+  ]
+}

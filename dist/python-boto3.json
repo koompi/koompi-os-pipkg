@@ -1,0 +1,25 @@
+{
+  "FILENAME": "python-boto3-1.14.20-1-any.pkg.tar.zst",
+  "NAME": "python-boto3",
+  "BASE": "python-boto3",
+  "VERSION": "1.14.20-1",
+  "DESC": "The AWS SDK for Python",
+  "CSIZE": "120819",
+  "ISIZE": "1372817",
+  "MD5SUM": "b4afa85629495c814b24c3b9240d9c42",
+  "SHA256SUM": "a816e47b691c431971478bd45c5a4f79e0dea5a481ee7c6e5c9bc62a54387f37",
+  "PGPSIG": "iQEzBAABCAAdFiEEh0L3U157OUobBIFjMyycQPQNIHIFAl8I2zgACgkQMyycQPQNIHIowwgAsRQuiG2IxIJbZcwKbIPghtwPrGRGlPEzHhGDQuVmLxY1L7bdmKZGVwXtqFqTGxlFW4jPwcpqChn1Ukr1PGj49F94hguAEFWWjupbYlDmd5VwNVc3tzt4UYbQnrfNk6fE+Q4w4rJqcRZPtD+If33QXx3BxBEr4BxlNyENEZ2njMZIF9H7HqRRZTzxLkBKAad09TVNckSwfJQE0Xb92D0E4L3/Gf29VL/PmtIljPSiXFc2sKNjva4/PfF3b0ZCaoNBRyBGz/WY+dNuhqVD2GTaLy7XBrS/2U6jaButt6LTmUQapfvohxlaHh6N3x9mH216WNeH+xzUA2/g63BlmVUg5A==",
+  "URL": "https://github.com/boto/boto3",
+  "LICENSE": "Apache",
+  "ARCH": "any",
+  "BUILDDATE": "1594415544",
+  "PACKAGER": "Jonathan Steel <jsteel@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "python-botocore",
+    "python-jmespath",
+    "python-s3transfer"
+  ]
+}

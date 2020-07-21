@@ -1,0 +1,32 @@
+{
+  "FILENAME": "dhall-json-1.7.0-14-x86_64.pkg.tar.zst",
+  "NAME": "dhall-json",
+  "BASE": "dhall-json",
+  "VERSION": "1.7.0-14",
+  "DESC": "Convert between Dhall and JSON or YAML",
+  "CSIZE": "196872",
+  "ISIZE": "1035861",
+  "MD5SUM": "6bb3b422659408c497777519def862e5",
+  "SHA256SUM": "305062473601d8afade76ae77b76d925d5f0b5ff671199ad4c658dc13b9fab9b",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl759WcACgkQeGxj8zDXy5Ia7BAArl1m3ZiZNIFPWmyD1hOwmPqYCojx12kQd/CQnJEG1SL0SlO+LxFXJC1aQhBxdCeQ0FSyOn6h9tKB/yrL2gd0ONHYVZBZx4PCZieeLBbRYu873dUUNOR/9rbydKaoXJXfaBI22/937HjTfVflwmiVLzYkq24+Q1vi1suuiggqYdtcp3hbZg6zsEGgtEpRuOyqxdLsxPRoxkucJoDqcyGSLmDg/ETtjjuQIwxndUTpgHgY7BfAOBWvk1azIUaLNgZdvoWs2hJTDJ1cy8Q6fuzLuOiX8/aGWUeCCmFHukhzEz+t/XXY/VxkKsMiImBMFkO7nRv15RyDlxsPN5ms+fvMelKmU9P9dN18NZzpgxdDLB9ZGrJoIBIJXFzFuykwvKRcOf0VonCHzJ3lYpyC1VbMMYG7otxrQLv1n4a9ZXkL9uB5GeQBNXFSluuMjYQsN3rgIC+d8b22E50cexpRa8pMQoZk0f0g0jC917z1JKowBcMJ622TdYL16MGIKgR4pju5G4WI7MfkHqFZDT4o/RDlAfVX3ZRNCosr+dM8WPfw/v2Z/roe+cEIKDMLn3yIDb+RlMqaUK7XaySRs/emocVDRLNyvmmEPnmthvVZthoefFePvm9cVdI3xktB80wwzDJ0op99l5IMYvWtto036EzvBtGF7vHrIWTqbu1DqzRcdkw=",
+  "URL": "https://dhall-lang.org",
+  "LICENSE": "BSD",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1593439542",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "ghc-libs",
+    "haskell-aeson",
+    "haskell-aeson-pretty",
+    "haskell-aeson-yaml",
+    "dhall",
+    "haskell-optparse-applicative",
+    "haskell-prettyprinter",
+    "haskell-scientific",
+    "haskell-unordered-containers",
+    "haskell-prettyprinter-ansi-terminal"
+  ]
+}

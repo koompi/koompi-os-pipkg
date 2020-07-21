@@ -1,0 +1,26 @@
+{
+  "FILENAME": "gambas3-gb-sdl-3.15.0-1-x86_64.pkg.tar.zst",
+  "NAME": "gambas3-gb-sdl",
+  "BASE": "gambas3",
+  "VERSION": "3.15.0-1",
+  "DESC": "SDL component",
+  "CSIZE": "42260",
+  "ISIZE": "123429",
+  "MD5SUM": "db869f6ee5c4dbf33b115b636be1403f",
+  "SHA256SUM": "9ec8dd61aab0ecf4fe735c617a8e941f5d187c1315076fd40e9aa2c3611f0ad3",
+  "PGPSIG": "iQEzBAABCAAdFiEEU1+MAzlFDwVKTSgnBglqatHO3awFAl8C7RkACgkQBglqatHO3awmcAgAhDLjPBp+MBS4L34X5P8A+shbAVaV61VFGX8Yn4CXcMd4kkEP26ZFSzHwh4OS0/WE4324G7u9pf0wAu6Lxji18ceFUEwzsUkaPetPttNnxExuFXUT3LwWkv9RCHLsplB9NQhi//3xBBoWMt5whGzrKh9OGlapminAF11yZKIbByxPX3RnAA+xWDmT+Q3/frtWoYy4MuJKK58s6pSNJHw25doDKlRfGcPH6tdcpMzIEh35sorK6UECyHL6kepMEZ5vbsY+tSuWiI+ovdt6VOoLIWylGoJ8XMwjZuHY29t2FRSSMK/73J5LGwin73evDI2gx/snhLt33yDbnUySsaM3Ng==",
+  "URL": "http://gambas.sourceforge.net/",
+  "LICENSE": "GPL2",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1594026389",
+  "PACKAGER": "Laurent Carlier <lordheavym@gmail.com>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "gambas3-gb-image-io",
+    "sdl_ttf",
+    "libxcursor",
+    "glew"
+  ]
+}

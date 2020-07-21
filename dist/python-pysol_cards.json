@@ -1,0 +1,23 @@
+{
+  "FILENAME": "python-pysol_cards-0.10.1-1-any.pkg.tar.zst",
+  "NAME": "python-pysol_cards",
+  "BASE": "python-pysol_cards",
+  "VERSION": "0.10.1-1",
+  "DESC": "Deal PySol FC Cards",
+  "CSIZE": "25557",
+  "ISIZE": "91168",
+  "MD5SUM": "b78327010d922de9289ea3d781c52c37",
+  "SHA256SUM": "7aa9fbf57f73ffb63e87bce80792e540b06d0a5525b03f1a344d37512cdf4e3b",
+  "PGPSIG": "iQEzBAABCAAdFiEEFRnVq6Zb9vwrc8dWek52CV2KUuQFAl7l+DYACgkQek52CV2KUuQrygf/bRHGfdiG+RxtyiRpbUnHkvkXCHIz7xQM0fuFIaanDhemdm7i5aqpqvHQj0NHr5zV/O/7pekFpuj0UVZVIhw+TK9aS4qhzE6KFivxAgrcaxU3DYOVp1aKMgwYDkZIsu5TsApobaMN4crh9/n17ZqtHxt3kOsgn/NHF1ttmatpBTIqOynPaBPRJ8EslAG29srXZrLzdlaBUsQcxussGVpZ7gTLMYYcxCVRBeXxPMClUBUJ+gAbMYhrL+x8mXXMR43uDpDPtFLiomB/XL1CWa8Xhh9f9AlOpxGUb+sp23qX6kEELrWnbOyw1mM8y0wZCtIHk6flXHXVfXb0Vk6p+mkOWg==",
+  "URL": "https://pypi.org/project/pysol-cards/",
+  "LICENSE": "MIT",
+  "ARCH": "any",
+  "BUILDDATE": "1592129310",
+  "PACKAGER": "Antonio Rojas <arojas@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "python-pbr"
+  ]
+}

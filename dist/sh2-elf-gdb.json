@@ -1,0 +1,29 @@
+{
+  "FILENAME": "sh2-elf-gdb-9.2-1-x86_64.pkg.tar.zst",
+  "NAME": "sh2-elf-gdb",
+  "BASE": "sh2-elf-gdb",
+  "VERSION": "9.2-1",
+  "DESC": "The GNU Debugger for the SuperH SH 2 (bare-metal) target",
+  "CSIZE": "2704704",
+  "ISIZE": "7464116",
+  "MD5SUM": "9afa2c7d13527fbf0e8e51acb4d19c23",
+  "SHA256SUM": "42641d6b63e5fa8bfa0d89562aeb3e1f07e3d1371c316dd483e5c5fe96e2fe08",
+  "PGPSIG": "iQIzBAABCAAdFiEE0jW0leqs33gyftiw+JPGdIFqqV0FAl7bhW8ACgkQ+JPGdIFqqV0FOQ//eFrELHk8FmGSm1pXWrlAl8afg1ftIgnNotZTi6jSei8aX92rPU05Uzg5bzhTZRTMdu7DsZxt0X/8NO4TxLT91IEnVWfuMh2N/JmwaFF4+o5K4aQ6uUVL907eG0O/0TQdCzs5JG+PkJtN0qk2D1TzjSJbAyovpw3Np8E5tpDxow5fxmj1HYb6vwNv7TEFp2DUl4DNy6PN6GwAUNf7yFlCf8dyxleFpCOQIRE4jtFV10C/Yxki3wgafVUYVtA6fhobBmmQ/fxe91jXxJgAzcPKRQOm2SnWBAB2awUQZNDGN/bX/gQ6BNfiPY1gHYu7VE7Wdk/7TeEG3xgpOh7RGsD/OZKEGXw9vWB9gvsttc2lMudAjPSHZwEA/bYjooCJjrbuJg0CBSGac3iyEP8GwnZYrqOO5EU3z3onAbABXPHLEnBrCqZ3hilEV1uH3U+bA5gTXBeWUnAtuPfWmZDK9Shs3r620Hn9LuAoSZOlse/JdEp5W9FMICLDDf35P3XFmRh5mRVWhUrhMRmNxMlyOypV7ZGlXltS3Qzl3Bd4qTcboXVBu3g0mi/5HTiIye4YHfQCF4IKkUjDNiGWOJeIjlZ4P6TGlWhZcwQP3wzp3e2P0S/UTicWfewqdBt1gZNqnzOJFPuKSgEYy7Cj0JjeBNMKubG6d2BY8zm7Pc8vfps3wG4=",
+  "URL": "https://www.gnu.org/software/gdb/",
+  "LICENSE": "GPL3",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1591444676",
+  "PACKAGER": "Filipe Laíns <lains@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "xz",
+    "ncurses",
+    "expat",
+    "python",
+    "guile2.0",
+    "gdb-common",
+    "mpfr"
+  ]
+}

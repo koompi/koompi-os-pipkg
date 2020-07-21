@@ -1,0 +1,23 @@
+{
+  "FILENAME": "firefox-i18n-lt-78.0.2-1-any.pkg.tar.zst",
+  "NAME": "firefox-i18n-lt",
+  "BASE": "firefox-i18n",
+  "VERSION": "78.0.2-1",
+  "DESC": "Lithuanian language pack for Firefox",
+  "CSIZE": "517102",
+  "ISIZE": "579632",
+  "MD5SUM": "3aee71b14ab4d0899e93886a31cceb6e",
+  "SHA256SUM": "b28c622b3efeb6fef7b58e8ad82d0c52dd99818c0816a2d0c0ab14370ef9e541",
+  "PGPSIG": "iIsEABYIADMWIQQGaHodnU+rCLUP2Ss7lKgOUKR3xwUCXwelqBUcaGVmdGlnQGFyY2hsaW51eC5vcmcACgkQO5SoDlCkd8ctJAD8DiZf32ipDA1Tg/99w6bJQI80Y6htpkp8BPcYqIwkJosBALdhQR4uWG4OkZPsSdbBSjfMl3kocOiC3rf2YXjePdED",
+  "URL": "https://www.mozilla.org/firefox/",
+  "LICENSE": "MPL",
+  "ARCH": "any",
+  "BUILDDATE": "1594311501",
+  "PACKAGER": "Jan Alexander Steffens (heftig) <heftig@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "firefox>=78.0.2"
+  ]
+}

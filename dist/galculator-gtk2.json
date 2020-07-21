@@ -1,0 +1,23 @@
+{
+  "FILENAME": "galculator-gtk2-2.1.4-5-x86_64.pkg.tar.zst",
+  "NAME": "galculator-gtk2",
+  "BASE": "galculator",
+  "VERSION": "2.1.4-5",
+  "DESC": "GTK+ based scientific calculator (GTK2 version)",
+  "CSIZE": "179026",
+  "ISIZE": "1391430",
+  "MD5SUM": "640f48aeb42e6b9e9d3bb049dfec7d3d",
+  "SHA256SUM": "d5ca82de3f9b313ce1496873d1d58465e134d7234754baae4af5840389a77fb8",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl8E57QACgkQeGxj8zDXy5I/Xw/+P3zsb6rHCUlWmJ2rCjpuJzlHpU3wm44BvD+DYqPvIbosmymDRTTncRBLWVDRgVbBHF433oYwZB9WyD05oVzXy2odMAoUoCw0RFdu091NTiHtDuUuN0QIFJH1UUUtDJBQ/z8uiklQ1xLdaImv9U70XZiaZLqsh5KIJyTZsxc6eBNumluxLqonOS6kB9MB1yugonD2IdFAvXb+vNOcTM5IXes0EcPYcOyn3OcQD8tzwqNwEY050kkp8yabgyV8mfGKx+VS4WF87VG1y3v9B5AG1YI221z04xDYP/b8NhSuxnhPOOsP5yQJpuwo3UtE1ZXvjlAf71eXuEhs3rov+22S6GRGtYYSd0sBBcB4JdpOuiOBdBwixGWcaf6Q5lP8fONr+bnOmFvo9JYZ1Nm+6ybIY9Zmo1MX4PVHi+kdWHCJT/tZGpVNlaGMoS/ixAn1BbDkEbxIdMvUBrPHUF/iICFNHrBDcO+hYEBRDx09jRFwnxbvyhtqbfGb9pJTVF9+S3ESlUleqxmxn0GoewXAUWlqfnPPUIhiYdh5xg8pY7yZVSJNu44arWmKlpPoJVjtwcwPRZYtw/vw8KLUlCTGKrrokCrRWADLgsLTdmzrWn61LAsiMW1R/CsUnwxN/zNxNMGbpH5y545KdNaIdzJ3vFbvPqg54qT7TmPf1tUThCjL/Rw=",
+  "URL": "http://galculator.sourceforge.net/",
+  "LICENSE": "GPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1594156884",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "gtk2"
+  ]
+}

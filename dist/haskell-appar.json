@@ -1,0 +1,23 @@
+{
+  "FILENAME": "haskell-appar-0.1.8-6-x86_64.pkg.tar.zst",
+  "NAME": "haskell-appar",
+  "BASE": "haskell-appar",
+  "VERSION": "0.1.8-6",
+  "DESC": "A simple applicative parser",
+  "CSIZE": "24645",
+  "ISIZE": "97303",
+  "MD5SUM": "cf32e1c474fa535eb8533f03fd4f4e49",
+  "SHA256SUM": "809878961511502f8fc168a9328188c4640d937e4a839196e2c2255abf207d9d",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl6hbFEACgkQeGxj8zDXy5LLghAAo/TurErQm8vIB43E3PuKAAJMbtPPPoy/RS4jE3M30FFQZ/nQ6FUUqyE+J4GzPy74EfSzVcTYn+/Kc9HunWitxO10wqykZkv/SpudGPT+aQ4HCJTBa68dn6veWOYRhzkgvf2e9nGb0WWmP8ufFzRUNcu3DpPYPXRWlym6NXTzxsn6EqeVZheBZv/iI0WJly1Zkzfao9asdzHKwPeEhEKcFihRe79AiBwEHcze1QPlzYfTif6K3z5xwlTM0L+DXQBhg60h6ajZ+M84Zw4WQF2hsLPU7KRe/w7mjkHm0ZPL6K4N01/xTxakJE8srNTws/8s96rNixE49Gm0gB1KgyqffoS62+K/qAmum8fm9Q1AtxjCXniZuOs+HuGXNn4nsB7HVD9HbQJIF4y9VqmAtfkx3fg9tdsViNZX3Nx7YDiSaliVFxyWDliEOeq4z8GDkKRb3UcZrjK2I4qE+WnMgc598hyRG9NFFrr+tnxhwUoES5+UxYXoAQZLAG4MiwLXA3pFTzHno2zC/yM2shOb1Z9BywVzzNRf2iM/Q2sFP4F31gblZuq+1mxhXqND+EdilAc0w0iJtIPKz3kBCkVTG5uCa94AGoz7taS7Qng8KI5q5cNs5+s61Ucid1SpVml5DuMbdIyK0p8JpncOEcM0ymzYIFsY8IzBEGTvOdcoMfIMlxg=",
+  "URL": "https://hackage.haskell.org/package/appar",
+  "LICENSE": "BSD",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1587637246",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "ghc-libs"
+  ]
+}

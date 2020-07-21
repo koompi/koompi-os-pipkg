@@ -1,0 +1,23 @@
+{
+  "FILENAME": "perl-xml-namespacesupport-1.12-4-any.pkg.tar.zst",
+  "NAME": "perl-xml-namespacesupport",
+  "BASE": "perl-xml-namespacesupport",
+  "VERSION": "1.12-4",
+  "DESC": "Generic namespace helpers (ported from SAX2)",
+  "CSIZE": "12042",
+  "ISIZE": "24160",
+  "MD5SUM": "c179774a0338b748e40d2cfd27e58364",
+  "SHA256SUM": "fd3e86d835f37e83aa557ff098d7f9f29d9eb607f5ef2b63f296adf9144020db",
+  "PGPSIG": "iQEzBAABCAAdFiEEhs/8qRjPOvRxR1iAUeixSKmZnDQFAl6/wMIACgkQUeixSKmZnDSXZAgAq70tl+KBLsDdNYVL9mY25/kSkHoGW4tremSOOBDQKM1/kNVPFb+rSNMLTMbrfubWStfOq6lnC0xnkeNoYi23BeOVLIMrf91XiGaX+6EeYmO720x9Iis86CqXonaHPu3f2GBRnZC77Yh3I3SHeS5dZPy8cCCkayhvtdVE2YVxtLXN+kOfBWP3Cz/eMON5OFZ9VWWGXlHaVVDCq57V4XVcY4qR2B68OftPgg+9I1YJEVqd5s2j7MFDScHchlgibqORGLwOFPRL9KYM8GBub4yc24LIJ+hZxyGk/9qnA+nJ6Y9Ro53+G+8Bkcw0ptWo3EHLUegzODt7t9+WWiIYENk9dw==",
+  "URL": "https://search.cpan.org/dist/XML-NamespaceSupport",
+  "LICENSE": "GPL",
+  "ARCH": "any",
+  "BUILDDATE": "1589625013",
+  "PACKAGER": "Evangelos Foutras <evangelos@foutrelis.com>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "perl"
+  ]
+}

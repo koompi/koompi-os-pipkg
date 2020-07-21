@@ -1,0 +1,24 @@
+{
+  "FILENAME": "grantleetheme-20.04.3-1-x86_64.pkg.tar.zst",
+  "NAME": "grantleetheme",
+  "BASE": "grantleetheme",
+  "VERSION": "20.04.3-1",
+  "DESC": "Library for Grantlee theming support",
+  "CSIZE": "61925",
+  "ISIZE": "191171",
+  "MD5SUM": "85d8a64e1058a05805856a807d7fd610",
+  "SHA256SUM": "69ef794eee930775ab74b4e41be1a4b7976148a59c65d4664f3d7a77ad46e463",
+  "PGPSIG": "iQEzBAABCAAdFiEEFRnVq6Zb9vwrc8dWek52CV2KUuQFAl8HA2UACgkQek52CV2KUuSLvggAlgK+yGaMbDborfZm1Q4j5NGFgwCWZqO0566nmt7IGEosjGHOk6cnGeH3PeFCzINrazewNGVhN83Z8Hkxy8qM/6LA+ER/HLcmCb2/2dITG1vxj/yaKoNQnZVsBa6Y7t8HbptmzXbZB9fgPdGsEstCclA+jNUqt/Cuv+WDgcDjeLw8f/nDzBQM2Ch2ExZOPxMsiF45ODb+IFdYaVB3P9HUeR7rTTO+P805YffdaW055Uw254nd0BqB5CVzYupgM57XlF16P0BE6FSJlFPEIR6G7d3Y4Hvc3pqYrsTeOLgB/D7J3k+YxKpBDj54ySZS22gXn6ZIeFsOqulKkJIcxXco4w==",
+  "URL": "https://kontact.kde.org",
+  "LICENSE": "LGPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1594105394",
+  "PACKAGER": "Antonio Rojas <arojas@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "grantlee",
+    "knewstuff"
+  ]
+}

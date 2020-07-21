@@ -1,0 +1,23 @@
+{
+  "FILENAME": "rust-bindgen-0.54.0-1-x86_64.pkg.tar.zst",
+  "NAME": "rust-bindgen",
+  "BASE": "rust-bindgen",
+  "VERSION": "0.54.0-1",
+  "DESC": "Automatically generates Rust FFI bindings to C (and some C++) libraries",
+  "CSIZE": "1081008",
+  "ISIZE": "3690280",
+  "MD5SUM": "281e22e5a72069e017963e0b3f0186ea",
+  "SHA256SUM": "c3af8bbcda6210082bd36b601cefd172514ce1a9402969c3f622617e846f2de7",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl7X330ACgkQeGxj8zDXy5JsBxAAsbtxiPWOaKgVvFKMw96QAnDRIo2STizJmkZCE7L27XGUy6yN4CcRH0rRsaUVIiuLrAjCQAome7u8QcgWXyKft//E6S0/AZHpXTV7JTsA/ZbBK3bId3Ts3espQ840AAwEJg3GLmsxoa4ES0BuhEmhHe7clam6AzwP1C9I68Lwjcqj95rOd49iVer9iYWOaJ/VtGqqCkyF68usqtUP3yakJecJp8spZILaveSP/AwsPhh9cRZFvjs5j8/FW18svEiU5DrxkJ5vkip1IHiFtbxXPjVZ0pYiOfsXEBeu0ZB3iFKQEYTn2d+Rqt07++K1odeOFH0gXP3rdbbfFe7vpE6BwOKGfvgBDAWz8m88cd+OIf/AEUuZjq+jdUim/Zzz1Zyn79CdaEr8zFlIIHzD22lXnTS6QWgqpHLLF2vM2EA+RY4y9xEDVkmjGL+bBbgZDk3PR0zc9tAtAoYUyWAppghOap/kgLs2j1sLI9yiTZP5I0jfUFrpe7AkAOl1/pgtrvukWq1MMUjdssPas8oJrbkiaLQXcQLMamO0YTF767UQ2bGfX8NJAwXQ2ZypfZNtBnnfxzS8xZX+yxoBbVfF8ng+WGfPtT7OGJQMBVtXctGNpayAInsfwHdCL+baeNdQ+UdHaqU8uVYBn/SvzHE1H5jFv1uL5K8uHVbHoWSHHPoVt2E=",
+  "URL": "https://github.com/rust-lang/rust-bindgen",
+  "LICENSE": "BSD",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1591205518",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "gcc-libs"
+  ]
+}

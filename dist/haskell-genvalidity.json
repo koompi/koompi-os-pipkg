@@ -1,0 +1,26 @@
+{
+  "FILENAME": "haskell-genvalidity-0.11.0.0-9-x86_64.pkg.tar.zst",
+  "NAME": "haskell-genvalidity",
+  "BASE": "haskell-genvalidity",
+  "VERSION": "0.11.0.0-9",
+  "DESC": "Testing utilities for the validity library",
+  "CSIZE": "126550",
+  "ISIZE": "732588",
+  "MD5SUM": "862cc860aedd3eed5e017999d04b9ecb",
+  "SHA256SUM": "31d427537df3443691ea0afb4f6bd3e9cfd2229664f99705479966dd161cd9b1",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl75ojsACgkQeGxj8zDXy5L0fQ//cLJXZzpfG8vjtXDxoatsQ01wssfcbfMNMhI0vvi0/Rv1TF+ErBlyKiQvmr9HviLrZzqM6jmhprFo865LggkgT58SyR/os3CR/MPwtNmsRa3SAASLX+bK8MgNKNs8rllsHLERMl9p3PuAmfoWkA+qofXfaqybyWDr0yCYKjz243+9jrMywmHDcQn6vKJwsFaQyEFLL1QYhiCoxiZXz79+bprlbvqcJOFvQkXxbMT5ggsvNBKK6FzFbowdsQJJrVfDknHPwdweFZgpoPpH7NwzQ56pxRgv341YvOjxSIvIQACclAZgZszn+ehRldZK1gs4DRuizCGNqA551JpglJrRUJXahSYkJgENARj5WpcQEuc3JnOBOsaVIbZlZr30rrw2xy3ARaWNYJj3EGpO3uOYYe6cfOJv2G5+lr/PDGlwwdd3ICTz3XasCp/GPF/V5TOVhKn3dpa2uhFB1M1dlzYq09nARBKdovPvoGLLsU5J6com/dfu3m2CdbQZq6fmRUNUc3ymfrQ5TdNQhtqarcCyd8P1nAz4iCqKYfLNDdRD1phhZGk+BCN0mcjNYoSnsBVAyULDit86dSxKravhL8dQzPe+YwtTamrD/GVXp7sSndX1qi3F0y9S2RcbpmrUAMng9fishPP8OYIzY7s+zOVCyEeQJmjkhAM+T5007BBgkRY=",
+  "URL": "https://github.com/NorfairKing/genvalidity",
+  "LICENSE": "MIT",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1593418253",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "ghc-libs",
+    "haskell-quickcheck",
+    "haskell-random",
+    "haskell-validity"
+  ]
+}

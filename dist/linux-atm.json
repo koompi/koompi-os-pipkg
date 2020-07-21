@@ -1,0 +1,23 @@
+{
+  "FILENAME": "linux-atm-2.5.2-6-x86_64.pkg.tar.xz",
+  "NAME": "linux-atm",
+  "BASE": "linux-atm",
+  "VERSION": "2.5.2-6",
+  "DESC": "Drivers and tools to support ATM networking under Linux.",
+  "CSIZE": "303348",
+  "ISIZE": "1392640",
+  "MD5SUM": "0dbfcc924140e3dc76aefd38b47fe342",
+  "SHA256SUM": "410df892656b1b1e886abd588cade5f784add49312a9bea9230819b7a386e8dd",
+  "PGPSIG": "iQEzBAABCAAdFiEE5JnHn1PJalTlcv7hwGCGM3xQdz4FAl0MnEEACgkQwGCGM3xQdz6Umwf8DlLsysqvRBnYEMqOSRgpAv2AO1ugH13VmdZBFWLZcrhAdp4b+xOYGM5jhzu19qBxxaXCPLnFdxIp9NVf6TmKqQWrpeCSq4oXYlOIjJq9mBufEkqdJy090WmXwP38GinROYwyFwb6GpfOR5RWQesiFyR1/3f6Bi+8l2vm1zvlxftrFI/cDTmWljo3DHdIJHesOe64a8OvYsnL0rt5SA62yP61J4Ze6LwJLvOFax3lICCol9r+WHss/kDANVsuSKthl/POunNZaSTK5Elrnv1UwN6uX0BM98gdEJsbY72a4FsMzZ2BJlWYOfada6Z0s9/rIcbcbecexYV6JwfpkyF9Lg==",
+  "URL": "http://linux-atm.sourceforge.net/",
+  "LICENSE": "GPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1561106978",
+  "PACKAGER": "Jelle van der Waa <jelle@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "glibc"
+  ]
+}

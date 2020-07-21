@@ -1,0 +1,24 @@
+{
+  "FILENAME": "lib32-libappindicator-gtk2-12.10.0-11-x86_64.pkg.tar.zst",
+  "NAME": "lib32-libappindicator-gtk2",
+  "BASE": "lib32-libappindicator",
+  "VERSION": "12.10.0-11",
+  "DESC": "Allow applications to extend a menu via Ayatana indicators in Unity, KDE or Systray (32-bit) (GTK+ 2 library)",
+  "CSIZE": "23567",
+  "ISIZE": "66128",
+  "MD5SUM": "beed2c7ec3ddc3c9addf5e1e5ef4207d",
+  "SHA256SUM": "10c6a08a8773b44313f25d3d76a44e0d526ad1f480f744885e7de5566d118d04",
+  "PGPSIG": "iQEzBAABCAAdFiEEFRnVq6Zb9vwrc8dWek52CV2KUuQFAl5wxB0ACgkQek52CV2KUuR5zAf8DFOPTZQKWMJB2RLVdl7e1VwWojWYYbspnBFa7BIOcXxJpmwiDLAe8ABI0T4EMLYeS0knjIdUCsrzT8DGJkGoL2asC2mKCBB+/Tcx4nZ6HrMLXEdc7g1MFmObN/pDwZyzb1bMEJjNJhWHONDVDDxzwWv4IDtA25PMvlu0fC+4gxB+2QOFVwFsStCCdL3bTcFwox+yipM223+iPJNn9AuQxssT5z2BzFqyTOqRVZMq2OiCmjIF1+mT9N6q2uY2GbR5V/wN8mBTOJ4RcFSlFC7qdM1lQAx/zEsNnt+mPBwt8yDTB5f0PbRSTPpJ+vUuw0U3kwXOEjS9wVFCKn0pi7LALg==",
+  "URL": "https://launchpad.net/libappindicator",
+  "LICENSE": "LGPL2.1",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1584448094",
+  "PACKAGER": "Antonio Rojas <arojas@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "lib32-libdbusmenu-gtk2",
+    "lib32-libindicator-gtk2"
+  ]
+}

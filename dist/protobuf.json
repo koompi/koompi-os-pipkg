@@ -1,0 +1,27 @@
+{
+  "FILENAME": "protobuf-3.12.3-1-x86_64.pkg.tar.zst",
+  "NAME": "protobuf",
+  "BASE": "protobuf",
+  "VERSION": "3.12.3-1",
+  "DESC": "Protocol Buffers - Google's data interchange format",
+  "CSIZE": "2134047",
+  "ISIZE": "9656114",
+  "MD5SUM": "d1bedc2fd2e10b2e79a17e571ad72077",
+  "SHA256SUM": "dec74638348a2f449c146d7b27d41ad2e9793441ac0c998ed010fa986e205dd1",
+  "PGPSIG": "iQIzBAABCAAdFiEELjbYYgIhSC/EXLfyqRdkdZMmtEAFAl78wacACgkQqRdkdZMmtEDdORAA0BNJEJ1AI3E44Jz+c0sKfqJvKStCL5onf6UDXX1t69y5RM5+Rtgm0jOarU42dmnVFev+S2YrxfqP7BfohxBzG6FnOYLr4NXZaYiYrv6Pr+F8e7KnIk3dyGIHzod6EjhynGNx3cu3qClnzW/aTtwdDBfqCrQ8I/AkDLlupNdZQlsItUXwLUQXTAj7h4ZtWOWNWBJ7MuUfJztICY5XuHeFudiS0CLFwUoP4z+Ob+B3NqgT/mIwoLuCfRxZ8LGKvpoFYhndH1NqDWxZG0XYbRRKxSb9PqLsVdU2LI0jNuzjdoMxgo6BOMUneJGk2+r8BWb6kF9Jc/cxM00m38/Y/Cijo8OUpUQnDWMcr2ukZGoziNYbR1GNJJjLW4W0eIiRs0Z6S2fVpQ6vM57n81O1mCpFFDfnDYOmbr6bDZuJ9P2gaFlFdrHSCZKCn1YiO3pnSpbViESEWwiP9Tngc3uolfCe3a2HJ6EAGpyG9pcYa7CYNPDmY3X5yitH303MiVQGC8PFNClFGd7vyzFQlxloIJun9X0kKYsA2krICj9qGNse1OOWpMfHAPgQaUGDmMJPAoDXiqENhTqRi6oj32P2yVLMh8Ik5ZYIe5w7HNdEDPI0CFn/bVq4YHhFIqj8CZ92d/JXe2pLQFKrufuDKIQVOFiKtnUlybEaQoSMeg90iLGmM4I=",
+  "URL": "https://developers.google.com/protocol-buffers/",
+  "LICENSE": "BSD",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1593622344",
+  "PACKAGER": "Lukas Fleischer <lfleischer@archlinux.org>",
+  "PROVIDES": [
+    "libprotoc.so=23-64",
+    "libprotobuf.so=23-64",
+    "libprotobuf-lite.so=23-64"
+  ],
+  "DEPENDS": [
+    "gcc-libs",
+    "glibc",
+    "zlib"
+  ]
+}

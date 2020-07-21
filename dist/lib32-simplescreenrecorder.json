@@ -1,0 +1,27 @@
+{
+  "FILENAME": "lib32-simplescreenrecorder-0.4.2-1-x86_64.pkg.tar.zst",
+  "NAME": "lib32-simplescreenrecorder",
+  "BASE": "lib32-simplescreenrecorder",
+  "VERSION": "0.4.2-1",
+  "DESC": "Record 32-bit OpenGL applications with SimpleScreenRecorder.",
+  "CSIZE": "29626",
+  "ISIZE": "75080",
+  "MD5SUM": "fc3e8fe9ee36bec84d59b1570637cbee",
+  "SHA256SUM": "80ed0309a516601d00d618058921df5448835d9ddcb5c6e3832f4498236a364d",
+  "PGPSIG": "iQEzBAABCAAdFiEESMOx8w3dD+Z+UW0WOW4+JbqxQsEFAl7DQFwACgkQOW4+JbqxQsHMdQf+Ko4aCtZ7pgY8GFZJyBukxm8Uttsdq0z3i01AmJU+HepiLYek8ppZZImAbeRL7P7Tw1Hp+xxDiAX4YcITBicG3x0gqhrcpfjhcBNAK1rpo7bhD03DSHnbQnXKxaARwbCaRomSRfSZ8gfnE6jAIc5EEw9wSRdZ83zfgFDH3cRN7Oz6ra4W2D9cFHQRPIyohBDEWPlmPs/aDjMtD17KwfgvRT2rTLw6qoiFu9gqmM+ZK96tlDz03URcfeKIYDbTpMSSkGkg0AEB/8Z0KBgjxhWN5zv/H7brIbl1sSuK73eN/cfUXskQJyV7MltZwoTII+Cb706CnxGxYEls2qx1+NjfIQ==",
+  "URL": "https://www.maartenbaert.be/simplescreenrecorder/",
+  "LICENSE": "GPL3",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1589856608",
+  "PACKAGER": "Kyle Keen <keenerd@gmail.com>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "lib32-libgl",
+    "lib32-glu",
+    "lib32-libx11",
+    "lib32-libxext",
+    "lib32-libxfixes"
+  ]
+}

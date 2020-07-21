@@ -1,0 +1,23 @@
+{
+  "FILENAME": "restbed-4.6+104+gf74f932-1-x86_64.pkg.tar.xz",
+  "NAME": "restbed",
+  "BASE": "restbed",
+  "VERSION": "4.6+104+gf74f932-1",
+  "DESC": "A framework for asynchronous RESTful functionality in C++11 applications",
+  "CSIZE": "315956",
+  "ISIZE": "1193984",
+  "MD5SUM": "64a1280dda350583e4f7577d5f1a4030",
+  "SHA256SUM": "4a8c8ed75a2ad9330fe93e80579f74dcde7a00ea44e63663b5ca87cbef595dfb",
+  "PGPSIG": "iQEzBAABCgAdFiEEado014/g79WWrG0EnYk+xNqvkSkFAl0aVeAACgkQnYk+xNqvkSlS4wf/SkexebqIRVjjOUezUJRwMr7JWFOTneYcGE2oeUccJSJqo23UAFpB72y2MysUWqSTKNWvEOJytrnHO+5rXwE482A57Uy+Z8iOA/fEmw+pvsb+GsgDficZ+ttqbUDH0GonKvcBkPeNdKjEwyRY1PlFsp+tfkY3O2L0AVqmh/av+lUrjSwNAEVphBV3G3OAMBPfsox0mBObabtjgyJ2WF+XzHdqB+9AzcrhlBZlPFFWS9tPWshBAC1+bHypktico8WE9FK/oHpjPrAR8WMWTnZ0TQGvnUllr6aIArXyApMYlOHAYmn/uDLu+gOJLIJBblwM4uzdUsdPI26TV+VUoXdcGA==",
+  "URL": "https://github.com/Corvusoft/restbed",
+  "LICENSE": "AGPL3",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1562006159",
+  "PACKAGER": "Bruno Pagani <archange@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "openssl"
+  ]
+}

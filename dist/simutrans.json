@@ -1,0 +1,28 @@
+{
+  "FILENAME": "simutrans-121.0-1-x86_64.pkg.tar.zst",
+  "NAME": "simutrans",
+  "BASE": "simutrans",
+  "VERSION": "121.0-1",
+  "DESC": "Transportation simulation game",
+  "CSIZE": "2851663",
+  "ISIZE": "11819865",
+  "MD5SUM": "b8eacb8a56cbaa33c83a3e6ab60a2512",
+  "SHA256SUM": "917efe03e3a8d167edad1f3888612f1c4e8ed243914caa36fb1e13a61c6714c4",
+  "PGPSIG": "iQEzBAABCAAdFiEEzgvecadZqH8j8PfYth284QkBwWMFAl4WjgkACgkQth284QkBwWPk2Af9E7h+iIz9Aa100uaJhwp5txoQfzbJmTScM7jCwRXYGsD3AflhJfYKWl1LkO1PZpJ1Qow9u9anLhCE2b0GeE6zHkzoTxJXRQbeYKGqBxnDJStrChAn6PzjFWGTIWBlp7qBzYDWQz+7TZf1NN/lZrFMVn3tNnNWOhOT6CMjml8W3IKED9GAOi/0LS6O8x3HbJwFTBjQw2PBTKN2j+VT/4vGyUxRZVfNhGfcHK1+7tOp/UOSBrAZPsPZHybsBHZZsnV3rgd6cS4uOwy4q1fFKP3ixdJC92XB1jNafbYyCj1GPO1Zi7BO6JLRrrxDLpRgnhREjkaLht/UPApPwtakBVs2ew==",
+  "URL": "https://www.simutrans.com/",
+  "LICENSE": "custom:Artistic",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1578536115",
+  "PACKAGER": "Balló György <ballogyor+arch@gmail.com>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "gcc-libs",
+    "zlib",
+    "sdl_mixer",
+    "bzip2",
+    "simutrans-pak64",
+    "hicolor-icon-theme"
+  ]
+}

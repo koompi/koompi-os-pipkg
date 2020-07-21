@@ -1,0 +1,24 @@
+{
+  "FILENAME": "libu2f-host-1.1.10-3-x86_64.pkg.tar.zst",
+  "NAME": "libu2f-host",
+  "BASE": "libu2f-host",
+  "VERSION": "1.1.10-3",
+  "DESC": "Yubico Universal 2nd Factor (U2F) Host C Library",
+  "CSIZE": "49448",
+  "ISIZE": "146943",
+  "MD5SUM": "978e6c11d239a527d7be9d2aa5552820",
+  "SHA256SUM": "b0841c3b181b5c65900b7e090f34ac905d0b0243dba6ea6765d4064aa7850d0d",
+  "PGPSIG": "iQEzBAABCAAdFiEEhs/8qRjPOvRxR1iAUeixSKmZnDQFAl6kUMIACgkQUeixSKmZnDT5ZggAk24cIFAs7UL5ko+DrhXmSdp42hyBPdtYOgb0QNP3ewOlN4nwn9mL3gATgyUr9H19aIag0nMVHGBJnDp9rRdddRyCUR13OV6wzDzyOFdcWEWI2niGUu8WDE2lj1QWnTRzZ0+RjOlCT6K2BDlSPu+bJw29QKtChqhExuEmyx+gaqhL/OOuxUJYLQn9m8fUNE8x8oGMLSGRtYP2fPNlrt8EKoRbNDsaXU76ILNkaDvcV7hUrM2THZUJOlw45Q0HS3nQSvgzIsOsBc7Cg7f6YbB4LQ0993u/xlM3PXc9TMsGaphE/UCvLMQaIEZCG07W0KVr0bzbBpAQv91sw8PEXV6+JA==",
+  "URL": "https://github.com/Yubico/libu2f-host",
+  "LICENSE": "BSD",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1587826536",
+  "PACKAGER": "Evangelos Foutras <evangelos@foutrelis.com>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "json-c",
+    "hidapi"
+  ]
+}

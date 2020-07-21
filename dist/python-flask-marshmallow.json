@@ -1,0 +1,24 @@
+{
+  "FILENAME": "python-flask-marshmallow-0.13.0-1-any.pkg.tar.zst",
+  "NAME": "python-flask-marshmallow",
+  "BASE": "python-flask-marshmallow",
+  "VERSION": "0.13.0-1",
+  "DESC": "Flask + marshmallow for beautiful APIs",
+  "CSIZE": "15941",
+  "ISIZE": "55746",
+  "MD5SUM": "3318e6e51b713125073140f53e3f2918",
+  "SHA256SUM": "eff8a277e7c98bed277c8744c5d7c561340f2b7927e016c5dcb3e25e91e57af4",
+  "PGPSIG": "iQEzBAABCAAdFiEElDfdOBWnqRaePTlGr/XZUJi8b/UFAl7dZVMACgkQr/XZUJi8b/Vtlgf+KF8WUggnvxr7w/7Zg7uExOBWgnFla24YEksH7vlY4JrFDyeMZ733maykgKGekT5AXhtvZWnzSJdGHkJU6U9RopJ4wGOFQzit6FHE01ncgWGdQXvGX4hWfX/duMecvK35uiAv9TMHk3W0XHageZHyAd5GdLMc5R/n7ee8J4IQz7VoqQgXVL3E15isalf4Y41ozbUy/lRgil2VxZeLyT1D43bGYoZnfiYfM1FbJEb9xXrNRUGKaURUcEvtSv4mEtS7HpqdJzjV/JkiPDunnTvmU5Bz5JHCcVfMsyNxP9uRugAqfWSpZut42WaPMVdBQ65ZrDWxebGOyeLQLICPN5NcgQ==",
+  "URL": "https://flask-marshmallow.readthedocs.io/",
+  "LICENSE": "MIT",
+  "ARCH": "any",
+  "BUILDDATE": "1591567681",
+  "PACKAGER": "Maxime Gauduin <alucryd@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "python-flask",
+    "python-marshmallow"
+  ]
+}

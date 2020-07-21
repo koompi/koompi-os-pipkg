@@ -1,0 +1,23 @@
+{
+  "FILENAME": "texlive-formatsextra-2020.54498-1-any.pkg.tar.zst",
+  "NAME": "texlive-formatsextra",
+  "BASE": "texlive-formatsextra",
+  "VERSION": "2020.54498-1",
+  "DESC": "TeX Live - collection of extra TeX 'formats'",
+  "CSIZE": "688729",
+  "ISIZE": "3337037",
+  "MD5SUM": "cb0bffc7533fa90b27b0e864122ce5bd",
+  "SHA256SUM": "9e843aa6c4c37796b03778e99978f07cc1738b20d4bb2eb8e3a781174d57ed21",
+  "PGPSIG": "iQIzBAABCgAdFiEEROpirNvIG2oNH9JnIGy8iS0Uk9IFAl6FfuAACgkQIGy8iS0Uk9KMKA//dw9G3Zf1CyvpcWdpX1q35WepO93sCDL8WmrdhrwppBCkmA0qDHSErT6gctnqjAvIyq1O3GOcvOEsqgynf0VWplY9c8flCrHxcqH8E2aHEpNr635hIMCeVU2eCF1s1w+N6p42Afg3V2tgsHfDOtpz0xah0UvTDZoKuMepp+9SLVK5Cp8MdD59/ePnPhg9+o35Eb1mev46I4dmTI1HXmJnYxxEZtT8lCjvr1mrkh308ghx3n7Xl9S1FGoyZr6KwByZE3yCRWDfxAJWNpUsJqZ1FOIbqcO2BFRR3+0AfgQpsQCsoPQPSjLHKZUTlti5sNkmIOc9TWcrpr1nIe8TRmjmrE5l4w+cOTAkfwXfb0mfK5j1WHm1xb42MFIdUN2E+qjPbA9JQIWuL4kA4/fUk5meSzn/P8QHbC2JoSONlTxK24b65M54cut45p6v+zja4HgxVScXm1JT1ITbDwT35XnrohsrPQqsf5BXMdaio4AJtkXxYNo0op4Tu2qkWlSL9LQA4MMMwQ/+a/oh9YIORO/5mBLKYzw+Ix3teIuH0YLabKknKPFKrKfqoTsEFlOp+NrwSE+bh5hSp0KIYWg1XK133vL45su2bJIQybCOkuH1cX7V3htW6PKzeT3vONNEUvJ3KblIcp5OuhC5imV5KrwV+QA497V+300mq0SoNy2zj6A=",
+  "URL": "http://tug.org/texlive/",
+  "LICENSE": "GPL",
+  "ARCH": "any",
+  "BUILDDATE": "1585637661",
+  "PACKAGER": "Rémy Oudompheng <remy@archlinux.org>",
+  "PROVIDES": [
+    "texlive-htmlxml"
+  ],
+  "DEPENDS": [
+    "texlive-core"
+  ]
+}

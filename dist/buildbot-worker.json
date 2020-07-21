@@ -1,0 +1,25 @@
+{
+  "FILENAME": "buildbot-worker-2.8.2-1-any.pkg.tar.zst",
+  "NAME": "buildbot-worker",
+  "BASE": "buildbot",
+  "VERSION": "2.8.2-1",
+  "DESC": "Buildbot worker daemon",
+  "CSIZE": "175242",
+  "ISIZE": "1005308",
+  "MD5SUM": "4292f8621c9dd99a9245f005f260bf9b",
+  "SHA256SUM": "1d353e9309e993a229f0b3466e700840c1c07e9fcb6a098e9a80965c6b128245",
+  "PGPSIG": "iHUEABEIAB0WIQSYX6G7jYlWZgHv/xEEU6bKI8VjFQUCXu2SWgAKCRAEU6bKI8VjFcloAP4mJCgNVxM3nleCH/IjYZrnX7kRrHZTuO0O5V15XOMdQQEAnVnB3UKbHlWko7DwafW8pA96hjr4pX5Fnyc0tJPJf1Y=",
+  "URL": "https://buildbot.net",
+  "LICENSE": "GPL2",
+  "ARCH": "any",
+  "BUILDDATE": "1592627168",
+  "PACKAGER": "Chih-Hsuan Yen <yan12125@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "python-setuptools",
+    "python-twisted",
+    "python-future"
+  ]
+}

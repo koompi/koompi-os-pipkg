@@ -1,0 +1,23 @@
+{
+  "FILENAME": "xfce4-genmon-plugin-4.0.2-2-x86_64.pkg.tar.zst",
+  "NAME": "xfce4-genmon-plugin",
+  "BASE": "xfce4-genmon-plugin",
+  "VERSION": "4.0.2-2",
+  "DESC": "plugin that monitors customizable programs stdout for the Xfce4 panel",
+  "CSIZE": "34454",
+  "ISIZE": "113520",
+  "MD5SUM": "978604e3c4226e763533853300ecb503",
+  "SHA256SUM": "503d4465b568b8909b56b095730cf01dbb319440351b1e875b260cb2e4f6b6f6",
+  "PGPSIG": "iQEzBAABCAAdFiEEhs/8qRjPOvRxR1iAUeixSKmZnDQFAl7Dlv8ACgkQUeixSKmZnDQ/Kwf9EZYeV4d5/GcqzqgwtYmvb7tbmUzb9tR1xve5hWEpWNEqREYadbpp2EOuRtbMO7e4MLmRnNBgTFCAoyiqR6HoZDYB7iwaYqRLEOD+doZ8JKE7pbj3EzsyNIDWDrSdvRBt40fo61NuuAULZfEsmpc13h3lTGPJtbqY71qwlfOQPQJU4/p0Eunyl9kLVi5w8/OzS0jWyFyQjWzbjkZqyjHw+jtzLOgM9SRVGdn+Eb4fpXym01Zp/1ljCyxLztbkbFzVfG5XO+vlKdCtJ67O7Pb1kyMoHE2r6O7hxvPu6t0GvzSMh8An8O/LLNxhz5VN31N4IUH7N0p4YRdqsBztLuCXhg==",
+  "URL": "https://docs.xfce.org/panel-plugins/xfce4-genmon-plugin",
+  "LICENSE": "LGPL2.1",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1589876441",
+  "PACKAGER": "Evangelos Foutras <evangelos@foutrelis.com>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "xfce4-panel"
+  ]
+}

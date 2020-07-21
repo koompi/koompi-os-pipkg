@@ -1,0 +1,23 @@
+{
+  "FILENAME": "hexyl-0.8.0-1-x86_64.pkg.tar.zst",
+  "NAME": "hexyl",
+  "BASE": "hexyl",
+  "VERSION": "0.8.0-1",
+  "DESC": "Colored command-line hex viewer",
+  "CSIZE": "278874",
+  "ISIZE": "710964",
+  "MD5SUM": "8918eb6159102b3df31f0050d7d16957",
+  "SHA256SUM": "28af878c7f0698d940b94388ae3f366e6bc6d5ba638f4d87be403470ba63a675",
+  "PGPSIG": "iQIzBAABCgAdFiEE4kC1fixGMLp2ji8m/BtUfI2BcsgFAl7k9qoACgkQ/BtUfI2BcsgU9Q/9HcjuTCnIze5LaBr6RExQ89DNrnOyYq5dHhlTjCOJCHs9bUQSmxC6tbpo/PiNRSPpM/YQJuVHH8aVdqByNpE5QUyDkRlHh+AA0SEg+YjsQmYyPyCbvc+e70ns58CTdC5QZ8fV8h7Pn1HZw80wa/7FKuWl/X0f5uK0IKgsDDywxmiaQSLwwy04PwQUQQsL/2Q16Z19cJiTYZ6FvYqUm+lymK6+lzclwkiqsYhiQKc6xsreqbl+6sqtlL+m9LYvRRbyDKwARXzbH72pLqBFOxQJcyoqmIB8BwNdkUXXVYzonLkeUcXusZrf09jXoi3rlWhzEMkp/ziTO+EqZFVopOjTaFdvPZk9kYvrlqLBhzLb/JiYeRvcHDIFZ0Hhmy3WWIDl1EJDQ0xMeMLEjNwNC69SQK010ZKeFyZ/yHGgaPRGr9q7hBBO1yVsE65fbMeS9tXMvicA47MnssLxfBhi9nSBsmwfqFu7aNQDZSaJ4pItgfdY7jsigNC87dNMlOyBydr2uJ/vcU7moi9aP0Q/XJVNC/XWwxEz1b05fVPD61Am2hOXsCGoB7CjNcbmWhZGwpct9PGGsSe2p3QyQBytvKhWfyG60u5zmQ6yaSiAjBlCIvcv9ktnwMggvLNiCm5hGBYKjA8SCKBkbInh4TfIufTIUaLOFcxgDjdIGnjLTvY/NEk=",
+  "URL": "https://github.com/sharkdp/hexyl",
+  "LICENSE": "Apache",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1592063573",
+  "PACKAGER": "Levente Polyak <anthraxx@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "gcc-libs"
+  ]
+}

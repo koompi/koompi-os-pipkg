@@ -1,0 +1,25 @@
+{
+  "FILENAME": "avr-gcc-10.1.0-1-x86_64.pkg.tar.zst",
+  "NAME": "avr-gcc",
+  "BASE": "avr-gcc",
+  "VERSION": "10.1.0-1",
+  "DESC": "The GNU AVR Compiler Collection",
+  "CSIZE": "22504766",
+  "ISIZE": "179898580",
+  "MD5SUM": "64ba023c459f883b2dc1faffce9e9b7b",
+  "SHA256SUM": "1b52677135444b1d206f273c09d83bf636a4ac2083c6347feb3b511e0a6af793",
+  "PGPSIG": "iQIzBAABCAAdFiEEjhmSFnRl21+wRVV8sChU7XU+Dx8FAl627EsACgkQsChU7XU+Dx9Snw/+OWkHDPPqqebCPXXaMkvB1XaBpnCLHpBVXqaObc0wvL82rA6e/DxSGG4syIW7ZcrVCy/yM3rjh+/2n5O/u2pRIFUz+yALEtbG7T+m+E6ruPxdBkIxbTtxySBrCo0HaSCJQ1ln7RAWlSbeW/4AaPB/d3Tb42jlYD+O09fvwdxT4LRuNUf/jb1jRDNogjfo6L4+9YcpYCdHMRQRdhKfqxHNC3H5Rkg1zo+4DDVrigk1TEPx5CY5vtEhvKplMzIOsT6BnjHgZ5Bb682B9u4ddSoKVIAuglcH3WkYCkNA9lNQ4yIDNwLQzWPxCTbd0BuEX9TYTeJrx2BJx6gcjDYquTDPcEwLXVxOK/f+1MTWvLsf/SK1UD04gq8LJhHz0ENiVDnOgd7g4QxRtz4nikIRMU5t2/IZxb/s+Xd1rZyZ3QjNO0rb8/MqJ6sTqQhCRh2rio4jMuDeak+JU3PJjfSkhC7MWWt0aa8nAfkUAu33WE64a5VZzjIYWyXFKEzgwqnHyJxDZsr8hVwewEntQIO1azAvFbcJqXSbMUKzCeO9bzedumCm5zneJZUhzPSVqSZqQK9rT8iwBuYtsxsU2Kf5l/1wz4l/0pz2P9ivwfcm43ByS1rKx+CEBuqx5cYWTR09Eh97I4IuSs6Ry2A6obwgiZbBtfXaAl7ek4K1m2XltKEjshU=",
+  "URL": "http://gcc.gnu.org/",
+  "LICENSE": "GPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1588892693",
+  "PACKAGER": "Anatol Pomozov <anatol.pomozov@gmail.com>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "avr-binutils",
+    "gcc-libs",
+    "libmpc"
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "FILENAME": "kanagram-20.04.3-1-x86_64.pkg.tar.zst",
+  "NAME": "kanagram",
+  "BASE": "kanagram",
+  "VERSION": "20.04.3-1",
+  "DESC": "Letter Order Game",
+  "CSIZE": "7042077",
+  "ISIZE": "7910627",
+  "MD5SUM": "841db67884ccd8aaf6d080a58df3d9a0",
+  "SHA256SUM": "cdfce4b06647e97296f73cf5046b9b28dc6c9bbc85d8b89f424d32a1f8a278eb",
+  "PGPSIG": "iQEzBAABCAAdFiEEFRnVq6Zb9vwrc8dWek52CV2KUuQFAl8HBCoACgkQek52CV2KUuT1cwgAjUPiCcLxNN0biSDpaWMLXI+nE+j1o3D1ubXYgrKcJk9L+wgcoR8bhJisqPeFW/W8zA5Lc4RWAAdHehWUjdJ+Htd0Sh2qjHtY1qsT7IXW8V52E4a/mcT/PVtXDjE16at1aIVeJJOhupldYONzEQZzD2NVvPtHRbfXvPBSDr4ljWcVMf0omi22iqE57jihjumtk/0O4GB3NA3/YZS02eh90WvlQk/tqaMy5TCI4q8eSWH+4KXuTRJZzOdYumRlyk/89iaFM8DAHXblvrm1mCuJ+CG78xtLDoawYrAOz6cHPFsTaso27LFZD/sbtyIwjH2PARm1V3Y2xQx2rUDYaBqzVg==",
+  "URL": "https://kde.org/applications/education/kanagram/",
+  "LICENSE": "GPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1594107031",
+  "PACKAGER": "Antonio Rojas <arojas@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "libkeduvocdocument",
+    "kdeclarative",
+    "knewstuff"
+  ]
+}

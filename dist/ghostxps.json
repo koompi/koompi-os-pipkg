@@ -1,0 +1,23 @@
+{
+  "FILENAME": "ghostxps-9.52-1-x86_64.pkg.tar.zst",
+  "NAME": "ghostxps",
+  "BASE": "ghostscript",
+  "VERSION": "9.52-1",
+  "DESC": "An interpreter for the XPS document language",
+  "CSIZE": "2660058",
+  "ISIZE": "16962407",
+  "MD5SUM": "1648803e5ba2a9734efde4ce2bbb03fc",
+  "SHA256SUM": "7a55d770bdc49c1cd0f8f027caf74222b9bc4ac6a25cf375dc2a95952be76608",
+  "PGPSIG": "iQEzBAABCAAdFiEErcih/MFeAdRTEEGelGV6sg8qCSsFAl5zmeQACgkQlGV6sg8qCSsPqwf/dHfYsYQFWfwQ2pPY5fRmpIfDU1hBvTHxcmAE+vVtLiAUdtpobapFoSTfHP1dspoQU5CCtXBg4rxn/Byf8psrRTsrRWSRUDVL3Iqiqc1FmtJ1yVpHb0IK/IyeTPA/jvwGLbcSpFTmgsF5RkEApNjbm8AkY0pN0f8usXpuV0/qzmItaNLwRQ9oyyiSffef45TrSsR9NGcvuMCoWO56JWCIt3Y87fnHPg1mrURk/6P3ewUgi0WDoJYMuETQmwgBXtr4XVA8NO83PCO83U5Oi0G3kjuEDWOUL/yTYReGAP41vFaobh2WPrcuHyac3MLppCaO9WQUC3bzoT7Dvzu88khsTQ==",
+  "URL": "https://www.ghostscript.com/",
+  "LICENSE": "AGPL3",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1584630133",
+  "PACKAGER": "Andreas Radke <andyrtr@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "ghostscript=9.52-1"
+  ]
+}

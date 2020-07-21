@@ -1,0 +1,26 @@
+{
+  "FILENAME": "qt5-imageformats-5.15.0-1-x86_64.pkg.tar.zst",
+  "NAME": "qt5-imageformats",
+  "BASE": "qt5-imageformats",
+  "VERSION": "5.15.0-1",
+  "DESC": "Plugins for additional image formats: TIFF, MNG, TGA, WBMP",
+  "CSIZE": "53926",
+  "ISIZE": "213122",
+  "MD5SUM": "163465d9360125c2d53244f0cd09d033",
+  "SHA256SUM": "7f6c26b3e780443a594e6c64cf6930b292e3397015944b90dc4f65f521d1e093",
+  "PGPSIG": "iQEzBAABCAAdFiEEFRnVq6Zb9vwrc8dWek52CV2KUuQFAl7M1uQACgkQek52CV2KUuTDRAgAlpMPTeX+W1KMnJzOCh5iK2L1SvGZtgXM77uSbrJQ85FVlLkbGIqBG51tTnFU01IeAIFUZIJlFicVaU6nJErLjuMe34NEp56Rxk/HCXt26BPWPXhkFx6mIFWma7yDkMdhS0/GJiNz1yLuJemC4lm+vNPIt2WecpG3h69V0Z0RH1t17FM1LoIhRrhqI2JuzAj4h/J3M6iyTxo0sN7uYJcLBmlHpltrga51+0p/jBqwRdhKEZ8UeFfY+/uTDHpJxdrCLT2DK5iC6GqN5Kj7YXx3FFZCzbdBzEBs+G4cWuwZ2dhXL9M3w+XIWojmhS+C/eXZwvvPCcP+pBzodfu5di6+fg==",
+  "URL": "https://www.qt.io",
+  "LICENSE": "GPL3",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1590481236",
+  "PACKAGER": "Antonio Rojas <arojas@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "qt5-base",
+    "jasper",
+    "libmng",
+    "libwebp"
+  ]
+}

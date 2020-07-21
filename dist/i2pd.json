@@ -1,0 +1,26 @@
+{
+  "FILENAME": "i2pd-2.32.1-1-x86_64.pkg.tar.zst",
+  "NAME": "i2pd",
+  "BASE": "i2pd",
+  "VERSION": "2.32.1-1",
+  "DESC": "A full-featured C++ implementation of the I2P router",
+  "CSIZE": "1445321",
+  "ISIZE": "5724924",
+  "MD5SUM": "dd005aecb954704e37056a884e50a4c2",
+  "SHA256SUM": "2fa388cd7315fd1a5926b95b47650785d324f7957de3a58ff1b6a280c76cdef9",
+  "PGPSIG": "iQEzBAABCAAdFiEEP/pqt7aarmzKJj3eAZp0dCl9hXcFAl7W2ggACgkQAZp0dCl9hXeNaggAhGlB0QdR51hS6KHgIEcHeaWgn8XuoPzHxylz5s6bKtKaqXw7XU8rYgCfFZ2OO6r2mr0+1tpujie2tK4yfU8id19bWV78OjLIk9Bip3BlPdPpowsXbU+QEJ5Yiy4uWEmOV3nQix7RQ4zf6fXoA0p3b3aUb4wyfQdc2Ow8WOJXvZOWEm/Cu1QHyXaKxDKDAB/gZ4cJAFZew1ke5TLJTOoqzDbe5U/W8tIeysNbk9RtA5q1LTmTqV9pFrMEsQjsigJlbvWG6JXPhiR+JLn2bk6HuwUA2XIulotEgW2pqXbxrVD2qSiw1cNS2BbPxj1j+pn5FKviMgqwQ6n8sRv5vyQqeQ==",
+  "URL": "https://i2pd.website/",
+  "LICENSE": "BSD",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1591138656",
+  "PACKAGER": "Daniel Bermond <dbermond@archlinux.org>",
+  "PROVIDES": [
+    "i2p-router"
+  ],
+  "DEPENDS": [
+    "boost-libs",
+    "libminiupnpc.so=17-64",
+    "openssl",
+    "zlib"
+  ]
+}

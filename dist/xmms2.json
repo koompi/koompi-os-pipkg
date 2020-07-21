@@ -1,0 +1,23 @@
+{
+  "FILENAME": "xmms2-0.8DrO_o.949.gca15e830-20-x86_64.pkg.tar.zst",
+  "NAME": "xmms2",
+  "BASE": "xmms2",
+  "VERSION": "0.8DrO_o.949.gca15e830-20",
+  "DESC": "X-platform Music Multiplexing System 2",
+  "CSIZE": "1546305",
+  "ISIZE": "5271218",
+  "MD5SUM": "7b4546c6b85d27f1cdfeaf010ddf824a",
+  "SHA256SUM": "97f78079884ce6a90acee0a80784a2b516aa731e8b17e94d1ad37bfc20c85766",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl7vjl4ACgkQeGxj8zDXy5JNehAAmqKOEeqCOIRXVz1DldTVeULTlZiIJ6hfn6YR62dBrdV2XR0+GUelXwEIZLSpzzR+dlXuUCEfiVdjsfWKyl/XTFEL/HzHpR5Jxn/0xIr3dBLFSozPtu5bOaBHTFVSiHEqFpT/jzeLpJflLR7Ali33vOjAfBQWIjQIye5LXCG7zLmd7efvEVCBJnfWQrdd0AJZH50TuR0E8rfGmxTixVK6aRrImJrVxHDkydWMi6VgdWGzeZLXEiMeQOjwNMWG0q3LdTpQ2BA9t0bECeGqHTRw0n5UwjiOeksfbWVeZ8z0cqZ0l3RmJNdD0S/EWenhrj+paj2spdaD2TrH7Kto2qPFoqmAEtj7WRDdVP4eJmWOWfH12PeMptQylOETe9GmsnBwDfUnmDDSCpu4GhtOtPh8fpxGNirsi++PazCDl2HmNCWHHhx9Ro9i4PNBavOqdwscEAEIpEh0qAsOXx2ffresV0Q8fdTl1bu67z9wnHthM2xu4c7G1jIuAE+h7m1p6LruGh3Gnhy8mY8pXWLFIBgpQu8AYvJ1t1UEDHW4WbqsKRrSsD+UVg1ompNdU+uB7gZMutdAwkVuHK6NUdsa7v/lwf5EkyfzksNK/VEnVLFomc6pko4wXw0FGO3vHYMEdufRToCxG59QShZcmA0OIACSeuBdmG4edxaNVDLs2/zZ/tg=",
+  "URL": "https://xmms2.org/",
+  "LICENSE": "GPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1592757745",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "glib2"
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "FILENAME": "python-into-dbus-0.06-6-any.pkg.tar.xz",
+  "NAME": "python-into-dbus",
+  "BASE": "python-into-dbus",
+  "VERSION": "0.06-6",
+  "DESC": "Facilities for converting an object that inhabits core Python types, e.g., lists, ints, dicts, to an object that inhabits dbus-python types, e.g., dbus.Array, dbus.UInt32, dbus.Dictionary based on a specified dbus signature.",
+  "CSIZE": "18568",
+  "ISIZE": "73436",
+  "MD5SUM": "60072af1e2cde811ff072202e30c92df",
+  "SHA256SUM": "dba90737c0fc1816579db84436d71aa7ee36d82b17f426a71d9f559c0a47f99c",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl2/UPcACgkQeGxj8zDXy5Lt9Q//bV8Cbe0mrN9DCMzZNZZkvFPha8k9GeicQ4abEe62IZz3t/8DJFVR1h6i2g3I++YJbkPBVUj10mfnzLr7OiKEQBQc8aLp6X9oAg4ze3har3u8GWXffrU19Q+MtESJv7Uf9X9fXw5wbr/qfH3XsDQ0kjzqhz/XPj/F7H5ZXIPQzkiUoWZkcwu6wTjdYBSul8Xz+SajCcbtot5QPu0ojip/1ItAR9CAXN/8IvsKAhtSGk4shYug/eMi8V6h0kBHAIXQB1v0vkXTLHkqJyw9UaaLAO0DYi5uBjRtWNB/ZQQ//1zb5cFUBXDQxIw9JVTmPjYfolhrsH/j3z5rUTig1dqrBwV4FD7O6dATy5jNAbSMaMCivEY93xiogsNWlkQeMTp1R8FNqN5gOV1ftKqdZYt/89wkQPnCv22cOgUo6akgsE0ZoB8Wjh7JJ+4v1/TahIqaI2l1wbZ7oaVvpEX7zvoF6LKpEs0dBnq04eBb7DEf0zHMLTkLafmmbCJ8bBlo6fKEgjk0pLGd35W0tx5rI1SOURB5nwVWd3oEhpzk0Aflyz/uBtzkeFrxPSQTuZCjwSQ8cUZTzAhhTDeR+rYknIqXPrAEXm/iOjvHnCCiKtaHu4/8ExhhK/Qw1nQxJfeYitAp3FPAK//LXg4Iu86irOgqiNSfGGXc9ua1M4aCFP2UDe0=",
+  "URL": "https://github.com/stratis-storage/into-dbus-python",
+  "LICENSE": "Apache",
+  "ARCH": "any",
+  "BUILDDATE": "1572819152",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "python-dbus",
+    "python-dbus-signature-pyparsing"
+  ]
+}

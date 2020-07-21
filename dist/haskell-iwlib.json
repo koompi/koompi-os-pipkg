@@ -1,0 +1,24 @@
+{
+  "FILENAME": "haskell-iwlib-0.1.0-12-x86_64.pkg.tar.zst",
+  "NAME": "haskell-iwlib",
+  "BASE": "haskell-iwlib",
+  "VERSION": "0.1.0-12",
+  "DESC": "Binding to the iw library for getting info about the current WiFi connection",
+  "CSIZE": "45669",
+  "ISIZE": "115392",
+  "MD5SUM": "7c70c264d4737fe65404660a55abda36",
+  "SHA256SUM": "c717b153c25b4de5f02b57da909d61e3683690cdc1e639b16a6009e750f1a24f",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl6hhCgACgkQeGxj8zDXy5KI8hAAjLBwNElgSZtarpWCjDyvs2eHte1XupB1lpOe2xO3FlkeJrnq5qWOderPadEVb/YqvfGDksljsfQwkiI3VjtOGlx35TJTb+5dUwtfF7vi26LWhZ3PjYi1M5Nq6omog0oNCF7s/AJkc6oZNOkQrc2Rti9i3RLGlMNVcLCGa0CPSxEl7+KlyjeCCCyeYV/PwxlMZsUUG9dg7T1PNzsBKGJaxyBqwXtN+QP3d7qgzGJkf1Gvnp3+Dl5hPBBlriM1kd4qzmxb/jHrQTNcBGW0mb5ReZwd1Gc7cS1x/ldSYRxkRjxytL+DUmjqjfxPoSiUYWc8uHGrKyb+T2Rtbx/1xn+YF5c004JxOt1YX28LlV4gpB1h2uxXPfD1bUgRzDVZAVyKryXsyzHhrdRAHMCot6Nm23/krjMy4sXDEpkZWWQMo9kvX+F5wsnAmgNZWBhH2UL35+WFgL/S5ML4gyX7omI6B6gn+7YBhmDYp7K4o3nq3dtUqb0kjTkqVNPBivJR6ulAXkEWICzpmwd5HpusPx5ArsGEsRl63dhspxwtdLmbfhp6l8AGMBqVMh04SEhn6VNJOGQTqqj0EOJ0B9e+mhnGghLvA38zpRAmlVpLLabXJsT/y+vDZb9TWAuV5KPHymDwqY2ZQuL9Yw+Jss4/ZGf5nZevWYcHAiy5f0GjJbfE2bU=",
+  "URL": "https://hackage.haskell.org/package/iwlib",
+  "LICENSE": "BSD",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1587643347",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "ghc-libs",
+    "wireless_tools"
+  ]
+}

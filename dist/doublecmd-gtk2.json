@@ -1,0 +1,26 @@
+{
+  "FILENAME": "doublecmd-gtk2-0.9.9-1-x86_64.pkg.tar.zst",
+  "NAME": "doublecmd-gtk2",
+  "BASE": "doublecmd",
+  "VERSION": "0.9.9-1",
+  "DESC": "twin-panel (commander-style) file manager (GTK2)",
+  "CSIZE": "7654548",
+  "ISIZE": "37833916",
+  "MD5SUM": "73e5a891852e4d4a1fc60703e91b42f8",
+  "SHA256SUM": "0c3cb87195ade9c8f62ca04355a4b0a206fb082ae0d094c07f670a5e562f4088",
+  "PGPSIG": "iQIzBAABCAAdFiEE2yJ3vNUAqjglYQvd2zIzknlsoGcFAl73jhsACgkQ2zIzknlsoGd++w/8ClJnYQa/oTP7+99beO+wScQzjvkKoN36aGV936EirTVp5dwY3m2L8gdTERnpkYqDZELOZioZswNQanF0VlFDKg1xXbrRcd5jfk870GoWOG1NHhyqjQjLQ2GGVNT/meMuZf5lTZTDGs+9IipLne5tG3+4PV2EJ/NcrHJwN3r65Q+mOdM+qYEhw89y5ir5xLXOpo8WqDdF04dlXI2k09wpykXGHHY1kdhw1C3OX+E8y8Ajhha8vU+QevkWJ7BSpo5gwEbk8CcB0lLzOzu4izJVOXNBQk8RS1aJ3+WLblkGvVy/YwqaRedsz6s1iBNWkpkge8CjehsHiVzb5REwAGkbG0EOOfcG1LUFnhHw+bpt7R+Jg1XB7R3btl1gTzu9F2MXpgXW3xGmZnVdBHmwyJ4XZZOrlOUby2lqJD7jA25ng1yXS1VgOq3NUEalOO7NrjPJVTSHqA+gu84XHM0hWYMinSCImg8kcgiBMgB8jJ4n7PmOwsDZPM1J/AqWXUsFikXRaL5ytbWRuuAd2HzmYmaciDYBrWLrWRG8RogeSXNvQgbvqz2bNJ9H9mznccCwDKf03+mvzhncDvoR1iRTI3dtCrsaU0D4jO1BuV6A/XUT2vrVEo03t7pKsE13HFSgvzpHiabXU0uVwMvZ4we2CXJWEuAk2acpHNAXbwNU7rXAN6s=",
+  "URL": "http://doublecmd.sourceforge.net/",
+  "LICENSE": "GPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1593281801",
+  "PACKAGER": "BlackEagle <ike.devolder@gmail.com>",
+  "PROVIDES": [
+    "doublecmd"
+  ],
+  "DEPENDS": [
+    "gtk2",
+    "desktop-file-utils",
+    "hicolor-icon-theme",
+    "shared-mime-info"
+  ]
+}

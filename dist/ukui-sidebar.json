@@ -1,0 +1,24 @@
+{
+  "FILENAME": "ukui-sidebar-1.1.2-1-x86_64.pkg.tar.zst",
+  "NAME": "ukui-sidebar",
+  "BASE": "ukui-sidebar",
+  "VERSION": "1.1.2-1",
+  "DESC": "Parallels toolbox for UKUI",
+  "CSIZE": "383676",
+  "ISIZE": "1099506",
+  "MD5SUM": "b0c792c3157755ae1d9cad90993c08df",
+  "SHA256SUM": "5f9b267689767c9ae25a380e2194c752d339bd967206070b94c3c8598518816d",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl6LqSkACgkQeGxj8zDXy5KuAA/6AuD+JOChRCPnD2rOORBrMr/ZKrLqXPWtJlKQF9KGHbqW4+hl+OVv5NliCU/UyhnRrlWBf+z/kzwDYUxb8qm6gOIMMiuQqTogn22jSzDJqjKN6SJ9MdL1Y+xaoTGwk8ZQ/VZnlaqOs3gAhITn7opRwd2IsPuw8NBxnIQUZENHdC1dnPHedlk659UlsnZm3se6Jv0m+bp2DIfvifEJrnkydK2C/cJ4IPu8o3q13nqhHakJvW6OBbRnDWQll+uNHzmqpHzP+XuXQatoTzQ1G1UAuIFvp2WiyVhxvgWCJxPNsRGAxSdsF7YLSaKEiCT4BUFceXxj0OAhwKFKnyh9gj9K0Yl8Omf/E3t7mQmhZhlBik7tkKUhtz1Q8HKT88MJbTcbNVemwbZ42TxSvP4raTCLB5imuM5B/SH5DYMLNX53PG9+4Np1ML9kT1Gp67/+7aRonioxkL08RMxRwoC7Ts8OrIrTj58fA6WX6h2FFKulzfZE3ajyF3+zN3cUi4qv0Ng1427Ai524weyBBR6Ic1zIv0Re3RxPUb5rN2TY1X0HTyqxgtdQ0yCwT/xmulat0V/Xyzo2uIuwmQg277wnFK2QagtUSyUJ2MvkIyJsICbXaiaaYDHichKx+4pXHk8gn0LF98KXUcosFTG6vxWIjPEhVF3h+kbc3PZEdlb+QN4uULQ=",
+  "URL": "https://github.com/ukui/ukui-sidebar",
+  "LICENSE": "GPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1586210992",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "qt5-multimedia",
+    "qt5-svg"
+  ]
+}

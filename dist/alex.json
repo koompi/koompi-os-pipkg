@@ -1,0 +1,23 @@
+{
+  "FILENAME": "alex-3.2.5-8-x86_64.pkg.tar.zst",
+  "NAME": "alex",
+  "BASE": "alex",
+  "VERSION": "3.2.5-8",
+  "DESC": "Lexical analyser generator for Haskell",
+  "CSIZE": "153849",
+  "ISIZE": "895460",
+  "MD5SUM": "5cff239b0260b9438059e4bb25da2bd7",
+  "SHA256SUM": "06acf2e0fe89a82464ab6ab68e68873d0c5786be39f1f8e3dc94f85432fbbada",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl6ha64ACgkQeGxj8zDXy5LqZg/+NPKjDX0bGky6KwtowaO6o2dyVoQVXhV2FjQ8jMw/6yU/a4afQd8pXqImiHBTVZ3nfqATLCIq+92EIZu3rZgulgkGaIEoBpaJ5wCJZSlX/ZpKFLXUHriFewmGFyLz5xyaF7YD17cXqi6R0IYftO2LFc+quDoeUgMB2JDDDxU1AarxjJPjtuv57cTv/UNR8egO4oCDxUG0lJT31eXr09MnspxKC5J6C8R3dwHdfhB62BXUfkk5fjrkwc8yyfYwzDwFKqe3FyN/AfAdkrtOD5s9PhF/Wbpnkp9jDc5j3FrgiyFtPYxtY82Uv+RnnWJ260S0nJkQ4nb3bXcyFelwkprye0n5C69nd0Gbe0TvNpjzxw9dPov34pcvJT3gQX67JCm8Fn+MF0aJ2z9vtCF/Nt+tFzZ6+BAfHIcoNjSkkm+KFp45dcNXDLbiMz6MUXFQWO41jKptDjC2T79KlmioPW6ZgPwCiCvWEyYqoH8ekRAQ8zGuiI0UUGTExfjppY5yOLBk/7AsAHq5nUvnx5o63ic5oYMq3rSGMl2tG8NKyzSokDuZ+zOfHYOWsr/TQ+IbzY9AQNFrGLISxzKV3VCQ0F89EKAvksftG5Q+8orgZXZqZmdZGdlJFU7/RsPYJN1ZBASQatQNnh0LewxkrHYAloknx76BJHoi4CU2bk/NJRHJyC8=",
+  "URL": "https://hackage.haskell.org/package/alex",
+  "LICENSE": "BSD",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1587637075",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "ghc-libs"
+  ]
+}

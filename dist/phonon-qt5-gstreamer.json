@@ -1,0 +1,25 @@
+{
+  "FILENAME": "phonon-qt5-gstreamer-4.10.0-2-x86_64.pkg.tar.zst",
+  "NAME": "phonon-qt5-gstreamer",
+  "BASE": "phonon-gstreamer",
+  "VERSION": "4.10.0-2",
+  "DESC": "Phonon GStreamer backend for Qt5",
+  "CSIZE": "139487",
+  "ISIZE": "434679",
+  "MD5SUM": "d1b2746a79cf8c13e25cbdfcc2d20488",
+  "SHA256SUM": "90cf8f829c5348f9beb04ed8b8678e8b6f1fdcd839032ca40b48bd066996ada0",
+  "PGPSIG": "iQEzBAABCAAdFiEEhs/8qRjPOvRxR1iAUeixSKmZnDQFAl7DqxEACgkQUeixSKmZnDTqGggAjj6IdN/RP57WSS5y4VicILt+VATmB1pu8JLceRC79W4/gAl/kEjGbN9Nu+YTIVX3kz0wALWnAC6dq1EW6pZvR+UqL9awPms5wE8q+jqZkjAyQRpBqRxdc6eIhIO+HhRurD65shmxMLvWTLuQf3SqGbAi79jlYv7aZj0vqjVD2jA9kA9NuJqNUIurILjl4KNfzEAA4975lf5FrbCjW/6EOOeg1B2s03QLIA4hV8Taj5drXOIssMxXqZt5T9622FlwygnxJam9sZHglM27lImtlDx6mGeSNhIZosXb+VskcZFAmDYKNdS+Gs1gTGlbGtRcx4DN2Hz03Z8OwvecLBWiQw==",
+  "URL": "https://community.kde.org/Phonon",
+  "LICENSE": "LGPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1589881574",
+  "PACKAGER": "Evangelos Foutras <evangelos@foutrelis.com>",
+  "PROVIDES": [
+    "phonon-qt5-backend"
+  ],
+  "DEPENDS": [
+    "gst-plugins-base",
+    "qt5-x11extras",
+    "phonon-qt5"
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "FILENAME": "telepathy-kde-meta-20.04-2-any.pkg.tar.zst",
+  "NAME": "telepathy-kde-meta",
+  "BASE": "kde-applications-meta",
+  "VERSION": "20.04-2",
+  "DESC": "KDE-Telepathy meta package",
+  "CSIZE": "2142",
+  "ISIZE": "0",
+  "MD5SUM": "858ee264a8eddc38c0defa3cd2abaa0a",
+  "SHA256SUM": "5ca02a06156959162f53c30e794abf3bffb600aa29dc69188ee9b7311d95f149",
+  "PGPSIG": "iQEzBAABCAAdFiEEFRnVq6Zb9vwrc8dWek52CV2KUuQFAl6/s30ACgkQek52CV2KUuSSrAf/WhmH0AwsMbarGI57s6bvk78diI5gvAuw+5CW3Ta5Gq7ABDc+MXyAR6hciR0zLcskG6bjbq6LRRmNcBRbMVd8kVzGZm76hRm3KOYOQ6VcIiE8Us35lMmDsCAnHiQ7lC4/FZZVaAvSufQmRnKk1uM84eOwOmciGaz5OGiFfpWbDbCAgvYrHdd7VBL2ieIodEM/FQsFmqP0HHkeKVuuDENi3iroVdTUFsJnonjuyii0UYJiQA7QDLLX5D6xkkQ+PkUycb7ucGWLoBkLDYcAhnLgr/gRIxlDciLNDTApYtgD4qJCwdKQUiFE2uQEis2GY8OOGLuZ6u/urdKTCTGvGH1oAQ==",
+  "URL": "https://www.archlinux.org/",
+  "LICENSE": "",
+  "ARCH": "any",
+  "BUILDDATE": "1589621406",
+  "PACKAGER": "Antonio Rojas <arojas@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "telepathy-kde-accounts-kcm",
+    "telepathy-kde-approver",
+    "telepathy-kde-auth-handler",
+    "telepathy-kde-call-ui",
+    "telepathy-kde-contact-runner",
+    "telepathy-kde-contact-list",
+    "telepathy-kde-desktop-applets",
+    "telepathy-kde-filetransfer-handler",
+    "telepathy-kde-integration-module",
+    "telepathy-kde-send-file",
+    "telepathy-kde-text-ui"
+  ]
+}

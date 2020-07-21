@@ -1,0 +1,23 @@
+{
+  "FILENAME": "python-fastnumbers-3.0.0-1-x86_64.pkg.tar.zst",
+  "NAME": "python-fastnumbers",
+  "BASE": "python-fastnumbers",
+  "VERSION": "3.0.0-1",
+  "DESC": "Super-fast and clean conversions to numbers",
+  "CSIZE": "27139",
+  "ISIZE": "104014",
+  "MD5SUM": "f34723091bca7fa1fedc17b7d57e30b3",
+  "SHA256SUM": "a06925cbc3c13731e607dc5befebd912b6fa2817ea2c4bfda78b84150e323811",
+  "PGPSIG": "iHUEABYIAB0WIQTH54SUZv4jWDQ1iDdyWHNLQcMVSQUCXhRmgAAKCRByWHNLQcMVSVY6AP4gplJPd1+1LTEAj+dP7XjKsfBrs0bzJllG5AKDvo93XgD+IyVxzQFW4px6O1/KzRI0hgQxM88hPer8NVKluS0Orgg=",
+  "URL": "https://github.com/SethMMorton/fastnumbers",
+  "LICENSE": "MIT",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1578395126",
+  "PACKAGER": "David Runge <dvzrv@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "python"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "FILENAME": "perl-test-more-utf8-0.05-4-any.pkg.tar.zst",
+  "NAME": "perl-test-more-utf8",
+  "BASE": "perl-test-more-utf8",
+  "VERSION": "0.05-4",
+  "DESC": "Enhancing Test::More for UTF8-based projects",
+  "CSIZE": "5587",
+  "ISIZE": "3570",
+  "MD5SUM": "b21b2983e34412716230a2f9198397a5",
+  "SHA256SUM": "2300733b90ad234a5ea92224949b4d3a106d3fbdefabbcc42d5009b83575e38e",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl7vfSMACgkQeGxj8zDXy5KFThAAk0DHD+UcLWzbRZcKcGl6gyyi3VB3WH1NWcyQwDsBn+vMv0Dujlk86HE23LxIbz72wKYNMhSr0VEWbSzIt+MgwvrQu1v5U2jWYDTgwouPbRFMU7uwU0ukBG3SFOAEHgtVKPtchpJl/aBnoUrTaaXAtLm4L3SLR7QY1t/lSn/wiEo8Pc1LAVAz7cUZeiJXv+xPnArOUq61SM/3skRFV/qTQWz7tK8fu5i1mnQTaHKOzGtL82LGm/RlTep6UKkSxyFSWC/dcXIeEHvITS+V6K2sQRNrkXddU1eOgPITcKgTqtZaXW7ph2fTO6SFinFN5DXqvIJ4NlgTPLxPjAs0LQTi9y1uxcNuGMSvb5qa5ozwnVJmK+92kEoQwA2wxyUo3Ko+6AHrFIgd2B7liBc6r1MX0LsRAeyeUMNZxvs/hKFOqE2+AxLr7F6Ms/Vhv2G+LdefV1G+VG1GYOfs/N3N7N0DcswcCmet/eN4mUpR+rmRm9PCJs24Lpg3zYsNYCInsCwmkJC0MP9UZ5PS72YPFYblfmi5m7NG8gvsvLPPCyTOxle3TrQIUt2Ckbk+92madFS/TVzCaHkppD3+M5vZn3JSNgVJW/Mx3hPP+StMooINaPjlM7mcq3mGqYew/bM7aD80QUiEo+sAnxTOkR1MWrFS4J6RAGq+Dwxt5pIfsorgoD4=",
+  "URL": "https://search.cpan.org/dist/Test-More-UTF8",
+  "LICENSE": "PerlArtistic",
+  "ARCH": "any",
+  "BUILDDATE": "1592753422",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "perl"
+  ]
+}

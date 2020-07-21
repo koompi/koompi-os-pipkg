@@ -1,0 +1,23 @@
+{
+  "FILENAME": "nds32le-elf-newlib-3.3.0-1-any.pkg.tar.zst",
+  "NAME": "nds32le-elf-newlib",
+  "BASE": "nds32le-elf-newlib",
+  "VERSION": "3.3.0-1",
+  "DESC": "A C standard library implementation intended for use on embedded systems (Andes 32 little-endian bare metal)",
+  "CSIZE": "762733",
+  "ISIZE": "22074023",
+  "MD5SUM": "286f9dff6ea80ad2d5f65feec37c008a",
+  "SHA256SUM": "8b07d64b2a2f787ae2ae4de225fdd6f52fae9572a1dcbd0a6c223e1711cd9ed0",
+  "PGPSIG": "iQIzBAABCAAdFiEE0jW0leqs33gyftiw+JPGdIFqqV0FAl6QqBsACgkQ+JPGdIFqqV0l6RAApfXRV/l68tF/HpTFWPlC/8s1QC8kO5wOvqDVYekgtZuYsi+n3zjIMyx1Sf4b+aZQddHrBLAB9cEYDaM86LD9NnicA4QyRM5hSBcZAYQHusMEbkcAVPNGIr1PTu2pzIyDfoOn6JbpEr2cUjgwDZRAssbvMdRygvZrarVzqtgZzFOeCq9dTcNmObuEhxByVuFWuywX5ZGv2XhwKs8b8+TAA5Fcc3DJuurBFQSIZZlgwgrsNId5Xq9vI+886CumRw1kEY8YMNdm/dBk5C6sGCVEItSBWnQk6UDRpN2fSTZeRSmOH3fSXqra54ru1GvuUcb0r0QpQ+I2ZuEAevc7arvBj1RbB9+kGPiRNIe8bOgmIFq3QxBDcMYvkwPJ8LQhJH5orbJ5ftJdXlA7ZXEz3H2Q4N/i0UWV3oQnivb7QI1UOhyzv7fi/ArkFboKF7AP+jPApAfsyWAPGZhZmowNilRZI9E29fZN6PGjr88auRPf2vceFpK0RyRxkSSP4C1sXWjlqLrWajuKcGuGAMwj5qj338rCvS1wGX2tNvEQnMjiKKvOL9sZh72rfD+vKAneal78iEDkVRBI3kU355PR/oGZEU1ZF19x9vrqQ/S+qT27gJd1xjtduaY2ywg5qgKGdC4qSfnxxmiNwrxbLrKEkDWUjnzRzS6bnbMw4s1EU0fOvEU=",
+  "URL": "https://www.sourceware.org/newlib/",
+  "LICENSE": "BSD",
+  "ARCH": "any",
+  "BUILDDATE": "1586538009",
+  "PACKAGER": "Filipe Laíns <lains@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    ""
+  ]
+}

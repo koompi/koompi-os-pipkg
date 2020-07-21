@@ -1,0 +1,26 @@
+{
+  "FILENAME": "qbittorrent-4.2.5-1-x86_64.pkg.tar.zst",
+  "NAME": "qbittorrent",
+  "BASE": "qbittorrent",
+  "VERSION": "4.2.5-1",
+  "DESC": "An advanced BitTorrent client programmed in C++, based on Qt toolkit and libtorrent-rasterbar.",
+  "CSIZE": "5883500",
+  "ISIZE": "9091510",
+  "MD5SUM": "c9c4496ed8cf209027da1ab5fc299191",
+  "SHA256SUM": "641d44a1ef2c99b5d86071393d3b3bfbb62b8ed799a53847604e1d29c3bf96fc",
+  "PGPSIG": "iQIzBAABCgAdFiEEYEETBMCdNmKDQO7/zrFn77VyK9YFAl6mGS4ACgkQzrFn77VyK9bwlBAAsXsbEswhfNodEKJU/ywYi9CUMVOdMjZF5/f8Ld0aVQPSk3Ktbn2tVyZaJebX9nhfHPPh/oOe9ZN2CybWIqi/iUiN3eAYTm30Mqem9k0NfON/LvpjwRJ0lI/D3SMCrxsUCg0XqR+VESDjSqaRugkOrlwk7wtjYNYnExfHdLnmOzuUbyJFxDP61ds+v12X1isjQRrqC7eGMlMg+6U7K26mjPoms4Kygbyzd4CXTj6IX6LbAATpZp5Sd+yqdJNUaKGpQmKrf72cZpQnrHU16BqTgUoYtHED12ErBnwLfsknx+t95LLfQhMC/f8Laoo8IeU6iCTfvuaW3JMdbAmU5rTTgoDNL9Nn4hFZgmxBn7lo1SnsAKgUbRHu/2F2PGczHHpnh9I+0Qexad5mc0elCizdUE4lglTOO2pVirbyn9yr3hyZUOIQqPhDRn2ILM5cChi6x7HV+qthmGDcXLW1G7jLiboF85WSguEAezTH7/u2olgMpGbFuIcQJmWbvCwq+cUwaMjI27Mr66dG6RaKjKv764z7DKUx7EgiXuHuo3/OEQTUeFKTQHUz8IlurPVzBROqKWPINXMZhvWbAziuQDEsYYxgI/oSfwF6di1Yd6GZshSkckhv8g0jMxJKpiFTJE0bXFsFJV9XSrNyS9CCJu26ZV7vJBHvigcuBwvB4ogXGFk=",
+  "URL": "https://www.qbittorrent.org",
+  "LICENSE": "custom",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1587942065",
+  "PACKAGER": "Eli Schwartz <eschwartz@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "libtorrent-rasterbar",
+    "qt5-base",
+    "qt5-svg",
+    "hicolor-icon-theme"
+  ]
+}

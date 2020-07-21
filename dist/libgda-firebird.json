@@ -1,0 +1,24 @@
+{
+  "FILENAME": "libgda-firebird-5.2.9-4-x86_64.pkg.tar.zst",
+  "NAME": "libgda-firebird",
+  "BASE": "libgda",
+  "VERSION": "5.2.9-4",
+  "DESC": "libgda provider for Firebird",
+  "CSIZE": "57282",
+  "ISIZE": "253984",
+  "MD5SUM": "0f8364c88c427af8f56d1815410c6a18",
+  "SHA256SUM": "9d75ba3236d9e1f6566d89a462d099503707cb84dc4150b9f9c1ecab3cb5abda",
+  "PGPSIG": "iQEzBAABCAAdFiEErcih/MFeAdRTEEGelGV6sg8qCSsFAl7dChIACgkQlGV6sg8qCSv8YQf/XuEQgBR8zeCo/X6Yu7ViSyVRZHdKtLJfjXlFvVCBNWFBl6SUYAvKuAsF5IH8/qdw7GI+3VfZyfhC2Dfq7ZvlmoJcjxcAxYg1XBNSky9yAVCtyTv4iqWTkUV4EpSLy2vM/RCsUWji3OVB89sLK6NTWN/bBUoAWnO40yfQkbkux50brTRJdSjim8JJHojzpeivK3jDwE3H2pQXqlYLvzgK0dH+mfS99xUN3YjyZpZlrIfBV1REz9drsqWOW3doug0J+p3/BfGK1TcZ/rDgtcvJbjGGpY5/tc2hSMfpKTlp11VPovCn1kIjHTA63ULvHDJSqpUCEnzz3uNlGL5YJ4b0SA==",
+  "URL": "https://www.gnome-db.org/",
+  "LICENSE": "GPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1591543362",
+  "PACKAGER": "Andreas Radke <andyrtr@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "libgda",
+    "libfbclient"
+  ]
+}

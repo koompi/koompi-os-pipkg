@@ -1,0 +1,25 @@
+{
+  "FILENAME": "netcdf-openmpi-4.7.4-1-x86_64.pkg.tar.zst",
+  "NAME": "netcdf-openmpi",
+  "BASE": "netcdf-openmpi",
+  "VERSION": "4.7.4-1",
+  "DESC": "network Common Data Form interface for array-oriented data access and corresponding library with parallel support (openmpi version)",
+  "CSIZE": "676745",
+  "ISIZE": "2044657",
+  "MD5SUM": "08a29a54c042ad2154aa2dab76729dd2",
+  "SHA256SUM": "866b413f884f0b962d02c674aded12d9d939f1550e4f573fe80128c0ec85923d",
+  "PGPSIG": "iQEzBAABCgAdFiEEado014/g79WWrG0EnYk+xNqvkSkFAl6SKJgACgkQnYk+xNqvkSnPYwgArWCcHMcPZy6QkmUupazK9H00GHQmPn7l0vRa39EccFpSxwLLwtSLVARiiSgwYYT5u5X/drOqBEZxd0s+hr/ObIZsLjEB0bzKcsgfanC8zYrjsBYdYR+juEAx2eMIgYfiVojozM2uiGilfC1ccQjxoboERGgGb1UUnIyB2glDeG3iLdMYyqIL+sNl88dZeqpIrWVVhIVZw2RsUVocZxdxJrYCAlu6A8SySXfirS9YN8Zs7OujwuiXxYvenn/RKTbQhPIMFJSZFrYFK+5k5EsloTS9TXC2TDgiJXn8mFXG9X4n98qhMen4qp3UB+6BXTrSVXlPY8/5Z7ipPYyRGFIS+A==",
+  "URL": "https://www.unidata.ucar.edu/software/netcdf/",
+  "LICENSE": "custom",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1586572594",
+  "PACKAGER": "Bruno Pagani <archange@archlinux.org>",
+  "PROVIDES": [
+    "netcdf"
+  ],
+  "DEPENDS": [
+    "hdf5-openmpi",
+    "pnetcdf-openmpi",
+    "curl"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "FILENAME": "d-containers-0.8.0alpha.19-5-x86_64.pkg.tar.zst",
+  "NAME": "d-containers",
+  "BASE": "d-containers",
+  "VERSION": "0.8.0alpha.19-5",
+  "DESC": "Containers for D backed by std.experimental.allocator",
+  "CSIZE": "39262",
+  "ISIZE": "179038",
+  "MD5SUM": "bc35664d361f32b6d628ed227097118a",
+  "SHA256SUM": "18b7630d32b95325a287d8434aef3ebc66c7ba0529085c6d718b80a310ea5fa7",
+  "PGPSIG": "iQIzBAABCgAdFiEEhsATU8sh1GdlMu4OnwqcF7B4bxkFAl79AYgACgkQnwqcF7B4bxnoVg//e7Veuisfl954/JCDOy6OQoQUcc3fRjrzCvHus3j/FFOtCva3s82gig2k3MUU1lDivFozkBEEXN6+x8TDNwHxhacfC/OMI/5OsFK6g3RpbQ+rkp3oEXjnU97QouIQ0H/10C8hlntVoTgIWlLbTilR9DjmQzJ2U+v9DVZCGBi65xawk14jwo70yIXID+WpDJIoQKNMcKZTkOKMKK1K6ra9pYJfPpVXEV9gJptfZX7wE891nIfrXVoAi6Ahf5doMp7QDBkX/29poH6gUmaaqNli2yWmcRDoNXCJi6agqgR8OGhnEQErv8uIoSrWLpqEgPlkl9RMAr42Eb/RH83vk9cEZCkWNVFapTIRQigjnYcS0TpFeR2b+RkgAfpij/0GcoZUl1uAUyG+fHQKIkt4PKJ/HkVJPAiY3/ZJiaDT2La6gIEpcbcB+7uIDFLpeuR7wHu0P8OeSpWJ6/trOSwwGymKNkv2UkEk6b/cfQXgUTvUG28mGdldes7FA52IuCV3ZH4IJMSvypk5QvOMnyMUfGT1zqREFi6jHBvcnbOHNOCkAa0MiXZm2ERO7CnbS/RoDl4FAGnTaOBrPrAqVLFejMaFqWO4HHOc0FE2ZDDN5iasUJu3syNlBjVIuAnJIi43QUUwx4YuqkSNyai4hjYjHPULV33gKd05Chkq64LsPTyVdv8=",
+  "URL": "https://github.com/dlang-community/containers",
+  "LICENSE": "Boost",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1593637450",
+  "PACKAGER": "Dan Printzell <arch@vild.io>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "liblphobos"
+  ]
+}

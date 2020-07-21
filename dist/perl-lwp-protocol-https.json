@@ -1,0 +1,26 @@
+{
+  "FILENAME": "perl-lwp-protocol-https-6.07-5-any.pkg.tar.zst",
+  "NAME": "perl-lwp-protocol-https",
+  "BASE": "perl-lwp-protocol-https",
+  "VERSION": "6.07-5",
+  "DESC": "Provide https support for LWP::UserAgent",
+  "CSIZE": "7539",
+  "ISIZE": "8111",
+  "MD5SUM": "cd0012352dc3feb43100e5a2cb9f7f98",
+  "SHA256SUM": "e25980a44731b7f4573cdaa99631a9e6e0b079edc8edc26df227546327602b49",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl7vdWoACgkQeGxj8zDXy5JDzA//TOdIvtDO7vyhULqmZ2Ul4lQeRlgQLvStcyMmuZVRaGLhCrWFrEdICyIPgqmt/ITat3JDga6bZBXbG1ncMKjQidCdTLZT6C1zaAQcDEhsJ5hQ+vPdQYqLrTv5ZUj4/L6/8KmWVXinpwbzq/sYCLAoO7mDav5AQ1J/F7ROS+PIIU8KYJuZt8Et2hS9n+sUkhCekBSe6tEVh3t5Ot7ZAab0q5AcvcwY7xdrfme3b+is1oIt+ldIP86WOUZM3mlfdtPlRGekYwTLylV6rwR/TKG/ix+vv77HRpHoeg7prKevtRM3k8hBmNhEV9rUxQMqPIj9HqlqCrb9c13ldw219GNrP1b7Mr2Jl/CCyRrkIGN+UpMHypTspSvvows+VOHCHJ1Qs3Ahs9I7KKyumC0TTzRR+4nhJXAF2AsTwkhlQRbuOsPfD0RFsxxUKPJSPcbx2jF3l2STI4DXxg6z+TWgklS4DKrgrH4z6ztwbmHnGjRZnmaYLhJ2i3u3K3fHC3/qWHzj4IB4H8IILu+0uwNJjYjtbXIu6GrjA9pPxnt8VXs6+26ldiJISOZVMHIgREYW4+3Hotkz/G+py7dOjTLoo7PITGSLiTLqI83KOJB+2NZP5DipJbsJXhZPaLyq0Dhd2TE10G/VAhj1YoY9JSvZMhjpQSLPbXtx+a0ctto1hZURhus=",
+  "URL": "https://metacpan.org/release/LWP-Protocol-https",
+  "LICENSE": "PerlArtistic",
+  "ARCH": "any",
+  "BUILDDATE": "1592751445",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "ca-certificates",
+    "perl-io-socket-ssl",
+    "perl-net-http",
+    "perl-libwww"
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "FILENAME": "python-yara-4.0.1-1-x86_64.pkg.tar.zst",
+  "NAME": "python-yara",
+  "BASE": "python-yara",
+  "VERSION": "4.0.1-1",
+  "DESC": "Tool aimed at helping malware researchers to identify and classify malware samples",
+  "CSIZE": "16241",
+  "ISIZE": "42132",
+  "MD5SUM": "70a936a4a234f7758b19cf6f05de9cd9",
+  "SHA256SUM": "ae23d6af717b74ed87af94c0cc9d69843055b735fd52a9e0a0edd582e1f1d3ae",
+  "PGPSIG": "iQIzBAABCgAdFiEE4kC1fixGMLp2ji8m/BtUfI2BcsgFAl6+7dIACgkQ/BtUfI2BcshR3g//YOAA9VhEgS36EsURAYjRwhx2GYC66ZvokbiXE3Mm+anvBd04jH0lIjPSHNNNyoc1mgLe2AnYzKBLWkUVTfvX52K23eoNpO6C+jdMIQlCsbZ1f/6MkJ/9ol9+wW3gUdfVUgaQdsGAOwtcRa5/Tc0a5Xx/V077EEKiVZzLQ8MZmT6G2CZ4fIeNYXbjo/DvqkP1xBHAsP1kgwSg3JqyzQeXvqNISojknXgKI55M59X/fM1vuU7VGl5qfYuQqv+8btmtDl3waIEV/UNXbnjGam4y7DUc8eB2ea12BG6GQrIuoMpoBnCNeSyeG5Hinw216kEAbqFh+ZtInNwSpk5MNUDxW2qkb4/8vbg3zxPjrAQsySEjubxQ7D3yao7jiabGeTGqRAf76d/KSWzi7mjBRNTiNC0kozsw+QcRWM6519J4xSNe2DzOP2zKEGTy6QEKvpQUUvlcBZwVtM+4MhuyMp0cUyDBChj+cj6/hzU8Sg0lrPXo8R+KOvZJYWUjKsKJGmbVtl1DomPtFUMo6FJKNh+/g0PNjmmZQVOq2BbutzlXqyhCnQnqSqENdzKmKpyctPG0qLdMoQ0K0p6EQTs7RRmXfSf3FCibT0/2s2sXtaOnBCAawRXF68Pxn3WqZ10QGusM6ltVR55p7biMgIUiS5CcSY57EqO8Dpq69cpq+t5gnEA=",
+  "URL": "https://github.com/VirusTotal/yara-python",
+  "LICENSE": "Apache",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1589570873",
+  "PACKAGER": "Levente Polyak <anthraxx@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "python",
+    "yara",
+    "libyara.so=4-64",
+    "glibc"
+  ]
+}

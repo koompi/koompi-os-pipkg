@@ -1,0 +1,26 @@
+{
+  "FILENAME": "smalltalk-3.2.91-8-x86_64.pkg.tar.zst",
+  "NAME": "smalltalk",
+  "BASE": "smalltalk",
+  "VERSION": "3.2.91-8",
+  "DESC": "GNU Smalltalk interpreter and libraries",
+  "CSIZE": "2958793",
+  "ISIZE": "18720156",
+  "MD5SUM": "dd54c600b75a36aa49816650d3d57862",
+  "SHA256SUM": "a8ef4be4632c007d1d1f2e920ff60387d45978ec83b38434369076e409820bb0",
+  "PGPSIG": "iQEzBAABCAAdFiEEhs/8qRjPOvRxR1iAUeixSKmZnDQFAl6OV1sACgkQUeixSKmZnDSi0Qf/Sg9TJ3ju9cqJlQcuuvxR/WmujVtIunKYq1th91Z40fb9THozBj6nQ3+m6ESYA+y8zrI4bdMwgKLrDyfrA5SVO5UQWOzkyaiTa7+/yXZLDNkJ6hhxE5Jelkwc8t/r+tAmuHzQgJYP9iunBoluOWZqgrdXmUikcBr55d7RBXRKLQQdmrC0r7OU6LDeAzbo8EZcuzTjYdtF6c/hjjyDlUJFsMOu9K47ilvcobhb/Pw87Bedzf+CpCZkXPCVj5jbxBit6ynlbvMui82UQ57wAGzGvQuImVgLga/3snlBmKdAQPVc9mfbS6nltNLPpBWaS3fQddSTrQR+xo8ZS0belPE9uQ==",
+  "URL": "http://smalltalk.gnu.org/",
+  "LICENSE": "GPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1586386495",
+  "PACKAGER": "Evangelos Foutras <evangelos@foutrelis.com>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "gmp",
+    "libffi",
+    "libltdl",
+    "libsigsegv"
+  ]
+}

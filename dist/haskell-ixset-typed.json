@@ -1,0 +1,25 @@
+{
+  "FILENAME": "haskell-ixset-typed-0.5-25-x86_64.pkg.tar.zst",
+  "NAME": "haskell-ixset-typed",
+  "BASE": "haskell-ixset-typed",
+  "VERSION": "0.5-25",
+  "DESC": "Efficient relational queries on Haskell sets",
+  "CSIZE": "64243",
+  "ISIZE": "308749",
+  "MD5SUM": "12a70eca293fc6416b21056182129959",
+  "SHA256SUM": "a534d0c3b49ec3da1d5a46328d278b012bef551b6acdae3f38bc9538bb83bee6",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl75r8sACgkQeGxj8zDXy5KIhBAAkXVsK4gBIrm2oqkt20iH/QycpLAwe/5RDeXnE4SDpjbFF0+x5jbJ5R/iSjrSvJhCYdyiQcWJ178SD/cWTWV2ZSTTyQJxn6Md292RveScS1tzz+YuR0Od/6nLTjIUc79KEUcq4UPJ4zAaszXmDKOree7fk+qPJYZ6IsIxISjnJR6U0Tu4GZXgyWAe6HRcW8uTIKPRAM80ciHI6DYCDIti5adD0J1DROkWbh4Y2Du+bB9kFV4EnbStP74qYBFWNG5Q3t7RGqrVhME72QjTLlSxW/boHytTEPSsdS1XoL+6JIUNTIgau7dvnGcYz3nbfdD6+PvVEdieuXVRYlKfEgiwalJmitspOW1679s/7M94mAOuMnGOrH5OrmaEuvIWb/0FkXNkqrSxgLp1scr0vcwCjg5jypl8xv5Wym1BfqLszofmjOElss1Mbqm9UG5EXVEvoSXh+qNDw72BLVD6L6XGmLunsCja2gmO2c2jiqL6Czp7kZflrcrBcvmaVMFOSstPTqt1ANBjvz1nkE4PvCu6kEik9+9g4jtyZiB+UznXJp43TyN4plrczGOtsqZIABKIRkyUsHjOL6+DUBDxwB0VLZNqmb67omu7G7+RiiKH85/Axm6lZvLPYVLSxvKmCeuj8CmCDlAFfa/GPXdhEGpDvf8HfRBInLgLnMRWoeWXZsw=",
+  "URL": "https://hackage.haskell.org/package/ixset-typed",
+  "LICENSE": "BSD",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1593421734",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "ghc-libs",
+    "haskell-safecopy",
+    "haskell-syb"
+  ]
+}

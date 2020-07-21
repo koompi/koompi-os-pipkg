@@ -1,0 +1,24 @@
+{
+  "FILENAME": "python-mtrpacket-1.0.0-1-any.pkg.tar.zst",
+  "NAME": "python-mtrpacket",
+  "BASE": "python-mtrpacket",
+  "VERSION": "1.0.0-1",
+  "DESC": "Asynchronous network probes for Python",
+  "CSIZE": "17013",
+  "ISIZE": "72332",
+  "MD5SUM": "8d943e2fa94e37612e8c5193553c6510",
+  "SHA256SUM": "197b0a1ab0b1db390acc428a37113faed9482fd4555777760c29bada3c9a8ea0",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl758xgACgkQeGxj8zDXy5KXuxAAsWYXfYor9HjHEC6mV/5dGX+ZVAOBGGHeo0q8NFgCYNu9P1c0YDnxsfIv7H8XYkRQcu/HUuQhxnwEEiHgbp30nQhF0givZJkaZKCH/ze51vfXaAtzzD80Br4jQIEUyv3fKYr686I9vu4D1oiSACXi3LnsT7TKgg1rLW9gaX3fZP+hKi+NzL/NAq6mDcLfbGSgM/PpfBdgx8N4zvzVopc6Z07B1ooRcgR2g1xV5n9/0ji4xKbJhU4cneTPh9IETJj7u2xK40jfi0Dsew0XdKtvysqRl/u9+003GoW7e9lxPU4+PVgI6FS949IyHVJ/G8WErpekPMMyrMwtZDUb82S8DjOuN7nbb+P3fEKS7iFDzpGUG8bgvn/1tv6k98vgockdoApbMPm3WorXdOtnXSCWT35LJ6fVehJ1VQFoyfJhtvdKJQsrtKW0H3PTVzmGCTOjdQgUDoL7HtOtWkGe8odsew+ehbrGkT72K0sxQbygiyHCHekXP3RwjB6RcfTcx2ODqEVSnLHHO3xIRpdnZZf3uduK2tIxBOCvgH+94r2Rknby80TLZdG03orQbB8OJjsBaYH+QO76Frj2/X/tkT3o6wXdn9ydHxfCFUXzGC3OKQ+KyL2gyi24eRHn4krNt3wLVi2+SpE7YU3dRHCLWyT/6AF14VsrUPrpSfRr6UvtnYc=",
+  "URL": "https://github.com/matt-kimball/mtr-packet-python",
+  "LICENSE": "MIT",
+  "ARCH": "any",
+  "BUILDDATE": "1593435173",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "mtr",
+    "python"
+  ]
+}

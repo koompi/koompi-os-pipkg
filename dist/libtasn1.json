@@ -1,0 +1,23 @@
+{
+  "FILENAME": "libtasn1-4.16.0-1-x86_64.pkg.tar.zst",
+  "NAME": "libtasn1",
+  "BASE": "libtasn1",
+  "VERSION": "4.16.0-1",
+  "DESC": "The ASN.1 library used in GNUTLS",
+  "CSIZE": "124226",
+  "ISIZE": "270767",
+  "MD5SUM": "dfc4871642802b88810a3fcabca251c0",
+  "SHA256SUM": "dd43f2dcd01a9b6d832beaf662843161692fe8aa06a0562c11a8409c26485a6b",
+  "PGPSIG": "iQEzBAABCAAdFiEErcih/MFeAdRTEEGelGV6sg8qCSsFAl44bPIACgkQlGV6sg8qCSv6fgf/cZNeAvL/ku/PLLDssNoluGzdkcxxDk/qKq5ESPImFYCyuth6Bo6dYfwmoHix+AFRnw0ESSToYHpSM4DHdv7Z0/VlulfHpa/QKAyCaggkqfVnlLdCtu1ri12OLG67j93Oi2CmEqJoXy2voPZQOHJg73YmAlS5ovTsVubE0TCxnfoGVwdw//7LnmXN7oc6jzCSkwsKzKHysWqL4aIaIrLA19/Vhvz98is7uVgTZMjxFMi+CzMvHAJ1BKXGlAweHiLrAtjiC3ocuiQBHyndAuk0GcRyjC+gSqzDr4H/yVwnWs9fPcfJfNZym4AchyXe3Sjp/IRAah/z58RghQHEhXhMZA==",
+  "URL": "https://www.gnu.org/software/libtasn1/",
+  "LICENSE": "GPL3",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1580756132",
+  "PACKAGER": "Andreas Radke <andyrtr@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "glibc"
+  ]
+}

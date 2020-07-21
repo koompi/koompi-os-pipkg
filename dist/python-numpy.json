@@ -1,0 +1,25 @@
+{
+  "FILENAME": "python-numpy-1.19.0-1-x86_64.pkg.tar.zst",
+  "NAME": "python-numpy",
+  "BASE": "python-numpy",
+  "VERSION": "1.19.0-1",
+  "DESC": "Scientific tools for Python",
+  "CSIZE": "4449849",
+  "ISIZE": "27552686",
+  "MD5SUM": "7851e20ea912adcfe52fc9727959a3b0",
+  "SHA256SUM": "2694a14ace882cc8dffc81cf852dedc9396f4fdb897e1c45f5337f62caa08ff6",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl7vAH0ACgkQeGxj8zDXy5Jj/RAAsbbhd/KROdhJBahmXNmGjVHpxfdBthTXfeYQ26hIo+xWH9oBFZJtpla6m2PbEOOVh1WEUB7HiUbdspYqJ9Ge7cUq6+6fUeiavmcSPrXGsZJPg5+ddgxNp7Hun4I3fOfeLROrSDLREPB4yfD66col83rcqTUyaRx21yNekmZIW6V1/082iCnXv29vVBu4ao73q8ZLSaPkQk6Zj051cSVT/33eUPAoqMd1CjbCws16vBfTzMhSKwAfUozstuCNVXb6k+EgqId2dGso7p/AV8X/Jykc1BfFhfeA8hZ0sSVGvaISwXnD6feKDtaqn3yOpfhrLwKtJTMAWpMUw++sfBG0PsjsdAZnvLEcdqA6icN4hZHAkQZM/VNYnHwQxNX9aAfSksSuuiyS5w9MKL9vn7qMK0iGl26wehQ7TmsLP1tUA40c2eOZ3f7qkTDMxXCFkKOBVoRCT0zR5hl3zUFOb0OBt0yTLZzaNDd129zyUJOHigAkEQbRTJRIePb4cQEg/QssYmaY33R/Z9UsHOUryCKxi+tVqAbupiQvOB/lAwd3VKuzXcUjdtZyjkGa/jqDZLacKH91vXMhPUUBF4jjpIam/HrOh7a2LLVnRhngvQh4+/OO/DN2tz++8s68USLLj1BkEIOu260T4kf23twli4qXV0kTaD5iBryeKL53ccqGeD0=",
+  "URL": "https://www.numpy.org/",
+  "LICENSE": "custom",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1592720752",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "cblas",
+    "lapack",
+    "python"
+  ]
+}

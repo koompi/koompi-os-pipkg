@@ -1,0 +1,23 @@
+{
+  "FILENAME": "iw-5.4-1-x86_64.pkg.tar.xz",
+  "NAME": "iw",
+  "BASE": "iw",
+  "VERSION": "5.4-1",
+  "DESC": "nl80211 based CLI configuration utility for wireless devices",
+  "CSIZE": "89672",
+  "ISIZE": "265240",
+  "MD5SUM": "820fd13e5a10b9e6ec5f3acbea6bdc6c",
+  "SHA256SUM": "ac04205d2b7e8a0a9252b6f21d96ad94c02aeccb79489084d5508e6da1e3fd13",
+  "PGPSIG": "iHUEABYIAB0WIQQEKYl95fO9rFN6MGltQr3RFuAGjwUCXej9MgAKCRBtQr3RFuAGj+F8AQD6vZqmmwHCRhvu5WJ6z7lz6hWm92A53m/D6PozDxaz0AEAvXYCS9uOv+38cVaCidirbt80R7NWu26KkULO20zm1wo=",
+  "URL": "https://wireless.kernel.org/en/users/Documentation/iw",
+  "LICENSE": "GPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1575550216",
+  "PACKAGER": "Christian Hesse <arch@eworm.de>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "libnl"
+  ]
+}

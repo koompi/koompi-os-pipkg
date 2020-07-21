@@ -1,0 +1,25 @@
+{
+  "FILENAME": "bluefish-2.2.11-1-x86_64.pkg.tar.zst",
+  "NAME": "bluefish",
+  "BASE": "bluefish",
+  "VERSION": "2.2.11-1",
+  "DESC": "A powerful HTML editor for experienced web designers and programmers",
+  "CSIZE": "3012041",
+  "ISIZE": "9694855",
+  "MD5SUM": "25bf4a0f6102b06139e148fc7c8e2758",
+  "SHA256SUM": "e34859ae6f298083afe2d545e3c4c37791f09f6cfe18b2ae83a01bfc34bb4a2a",
+  "PGPSIG": "iQIzBAABCAAdFiEE0jW0leqs33gyftiw+JPGdIFqqV0FAl5KWn0ACgkQ+JPGdIFqqV30ug/+JP2E2PHW13gOoicos2MDCyPJaQqlU0joQToJOAzIhPY9mQubB0By2Rzt5CmbgG/IJeLe6AmobYnTRIUB8VMc7SsFfc/gY0L8NU50Cq45MxBWRx6jmUZQVygXkoPy1EfRdOyOKxPPr6ecgA2EYTzDbf9djmkU6YaYZ4FX1nWGsGyin8/hBdHwbWtuqWxCbKjXKh5vawg+koutCQoaT/3G44bQ+5YtePlqRcZSekiwpdpF3KLAoeRk7wDRx0O5BpPl+nUiA0Ek7rJq35lEMJkMmk5i1ckUBMlvvbvg3VNqCOiUFFz6H1WCcoL19YbGLFW/+GZa1YUB9n54wLS2FPTaJnDQ0Ewg9IMVte7Dwgl9KPmgrti+fefv0vono9gu5SvXFcJa6xkyP1PfkDAi7x0Bo4c0M1D2BUSQHNwDGS3tJA1nvSCUIg29Oz/KNlO1Qkjoh1s5ALQPDy1EHMe997qso0dY9OIhrLlajDr+BpBcMgp6+ljTm3nYi5W51GCe1z6RA6BkD9PU0dwmtQjyl8yyvCB3sfK1nWzlh/s7WV8SQ6kwnB6fW/3DrB0hdrYGrLl7FImYKqX4teaJjdc6q9aBsVHxRGJLKOV6JI5oBhCRIZBVOV82eZQIkNNEGo/FUu5c7Q+BDdcgzpgwxLlgnhzuTn3CFNrpoyrL+/t6jUYT4yY=",
+  "URL": "http://bluefish.openoffice.nl/",
+  "LICENSE": "GPL3",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1581931013",
+  "PACKAGER": "Filipe Laíns <lains@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "gtk3",
+    "enchant",
+    "python"
+  ]
+}

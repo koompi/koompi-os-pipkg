@@ -1,0 +1,23 @@
+{
+  "FILENAME": "gambas3-gb-opengl-glsl-3.15.0-1-x86_64.pkg.tar.zst",
+  "NAME": "gambas3-gb-opengl-glsl",
+  "BASE": "gambas3",
+  "VERSION": "3.15.0-1",
+  "DESC": "GLSL component",
+  "CSIZE": "13234",
+  "ISIZE": "41556",
+  "MD5SUM": "120d40447231895984c122f1e3a565bf",
+  "SHA256SUM": "dc9d03c18261df17202503eed0f5cf0aa7a7e18a9f255c3ff1206d28e6006114",
+  "PGPSIG": "iQEzBAABCAAdFiEEU1+MAzlFDwVKTSgnBglqatHO3awFAl8C7RgACgkQBglqatHO3ayEIwf+IByEQi8hemwfZSZM01FSyUlfVx02Fhhc7rarGcnXtbZCXF9aWixEGQrqNO7TYTplwJcmuXLvlGxe4VVytlSTly4aXVwgFv4OJ8yxQFnuekqprK8KgYQHlE5D8jmFVrNexE4EOHhStUYZ5eWh4DtPTo4jDBmkbLA8JpYvoRRlps/9NZ4NbtAs1Bpbgovy9CQs+qw8X3srVpMGUrkUTaqDNA8DPD2fb/oaUG7n1D3QLGSITN8YxJ580LYSo58685WV8YGZObldf2PJn3Njbal+4v4iU0XE0uj1wdzRehDVcsvTYoH1XxiC3o3KzMeqXHmGNjYhkClp0xye7+1aI5J8gg==",
+  "URL": "http://gambas.sourceforge.net/",
+  "LICENSE": "GPL2",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1594026389",
+  "PACKAGER": "Laurent Carlier <lordheavym@gmail.com>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "gambas3-gb-opengl"
+  ]
+}

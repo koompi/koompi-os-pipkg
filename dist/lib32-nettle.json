@@ -1,0 +1,25 @@
+{
+  "FILENAME": "lib32-nettle-3.6-1-x86_64.pkg.tar.zst",
+  "NAME": "lib32-nettle",
+  "BASE": "lib32-nettle",
+  "VERSION": "3.6-1",
+  "DESC": "A low-level cryptographic library (32-bit)",
+  "CSIZE": "311358",
+  "ISIZE": "560492",
+  "MD5SUM": "be7f890b29cc59818bc0ae2b78af7f9b",
+  "SHA256SUM": "4067d3b0f3eca57250751f4d46f976189ebdc81ccaa8111fed92235903258eef",
+  "PGPSIG": "iQEzBAABCAAdFiEEhs/8qRjPOvRxR1iAUeixSKmZnDQFAl6w9F4ACgkQUeixSKmZnDQ8dwf+LTDkL4xFrWnbPyF+YD0wsEvxLz5u4ZxKtUwjYiHgcNPmdcFnozqBtBcYGgG3PhVtKjBcO4t2ziX4JcuXcWPHHtWRfYktKeWul0xhLgaIT1cn0IFNmZvmt1DdxKF1svrw6pLIQ743+94aZc65bfGLMLq+LQiroCWMDVgLWOWtoQQdlt69E5MBhlk97KYUk9LpG3bhNgJp1TVQixTJu8iau6lglHkJI1dUDQUXjX3qtgvVaGLROb+ej6nuHIcmjZXhVOeAtzpv0sLgIegpTmKGLQdXLt03Pn4e8T5vRR4RwrBy9ReZKjIhrbTYOvLdBWUNEL9q28f/+ceGVe6Q8hj0Lg==",
+  "URL": "https://www.lysator.liu.se/~nisse/nettle/",
+  "LICENSE": "GPL2",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1588655045",
+  "PACKAGER": "Evangelos Foutras <evangelos@foutrelis.com>",
+  "PROVIDES": [
+    "libnettle.so=8-32",
+    "libhogweed.so=6-32"
+  ],
+  "DEPENDS": [
+    "lib32-gmp",
+    "nettle"
+  ]
+}

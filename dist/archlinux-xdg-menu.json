@@ -1,0 +1,24 @@
+{
+  "FILENAME": "archlinux-xdg-menu-0.7.6.3-2-any.pkg.tar.zst",
+  "NAME": "archlinux-xdg-menu",
+  "BASE": "archlinux-xdg-menu",
+  "VERSION": "0.7.6.3-2",
+  "DESC": "automatic generate WM menu from xdg files",
+  "CSIZE": "39479",
+  "ISIZE": "138677",
+  "MD5SUM": "357a302edaaa385e34b525ad10c25a64",
+  "SHA256SUM": "409825329d95888c07cb089b49f71c4e75ae7b0275641c93261eda6a69f2a9f7",
+  "PGPSIG": "iQEzBAABCAAdFiEE5JnHn1PJalTlcv7hwGCGM3xQdz4FAl4TWBIACgkQwGCGM3xQdz6c9AgApYxz7vQgtM7MdK8UY6RiXg46UfdNe+Aud7VkKNqpxWx6wJz0pxp1KHNElSmfTG42Migg1Q9sL1EtMQ7EkwIL8vMtDUX9EtnEmMZWgsD3Id1ITav2C0qxfFujWpwx03AoUQC/j2OvcVDdB4uToU49bLBY2ZaDnFaPyMDd4xzmlMXKKyBGNcwSr+j9DmwvZ3XyoUbhTEPKqxjtfuwktC7IMCir2YCCdDo+j/JNxnJsZOkXM1qKGKkTClOlEN/yntlswZlnkz4QmUS1jEKwHOZuRfrkoJgWCSY+yvnsSEKSRZJeDbDuOWE8U4uufUBrc9bCvpZTIUBCWANJ8hnoFFcFyg==",
+  "URL": "https://wiki.archlinux.org/index.php/XdgMenu",
+  "LICENSE": "GPL",
+  "ARCH": "any",
+  "BUILDDATE": "1578325884",
+  "PACKAGER": "Jelle van der Waa <jelle@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "perl",
+    "perl-xml-parser"
+  ]
+}

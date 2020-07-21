@@ -1,0 +1,24 @@
+{
+  "FILENAME": "libwps-0.4.11-1-x86_64.pkg.tar.zst",
+  "NAME": "libwps",
+  "BASE": "libwps",
+  "VERSION": "0.4.11-1",
+  "DESC": "a Microsoft Works file word processor format import filter library",
+  "CSIZE": "1797776",
+  "ISIZE": "21725007",
+  "MD5SUM": "3fb081a23c87a89f772ddfb1be59cb5a",
+  "SHA256SUM": "8947022b0a8f3aa91a5cefe6081ffdd2ec3e018fa67016fe4837f0e418bac153",
+  "PGPSIG": "iQEzBAABCAAdFiEErcih/MFeAdRTEEGelGV6sg8qCSsFAl6ISQgACgkQlGV6sg8qCSv2Pwf/clggxp2GsEcB7mcgb0XipBQnyHzIHd7MSzzl8p+jTpQnt41ST7vFxZbyePaeYLBQzxz1NsdE9gnEZ03jdYfp299rM+YUJQk5ZjjHoyQOOAGNB2/INtRyji2ifzbw2M+3jJR8s9pFSoxoBIuELcV2ncSDAFJiMFFc0Sgm4az/742F6K2HVWUyYSER+WeeCSY7MTEVXMXqU2VN7tgu66sFJYgjVuhpI3O8oYFQkoN8ycY0i6zBVV6nedkKG9/tUYqTqYLOhoMV1tK83vzGH0+U8mujUShUIo5mDCGRNZT9I/t5GMZfnAPiDYgBVVSHFQD/oZKmF9tlQJjgxpGwC29k0w==",
+  "URL": "https://sourceforge.net/projects/libwps/",
+  "LICENSE": "LGPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1585989632",
+  "PACKAGER": "Andreas Radke <andyrtr@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "libwpd",
+    "librevenge"
+  ]
+}

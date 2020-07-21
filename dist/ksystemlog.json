@@ -1,0 +1,23 @@
+{
+  "FILENAME": "ksystemlog-20.04.3-1-x86_64.pkg.tar.zst",
+  "NAME": "ksystemlog",
+  "BASE": "ksystemlog",
+  "VERSION": "20.04.3-1",
+  "DESC": "System log viewer tool",
+  "CSIZE": "2132278",
+  "ISIZE": "5441747",
+  "MD5SUM": "13f3b5d441471e6de490640b68d419ea",
+  "SHA256SUM": "9e1542498a6b20bfa7ff6c3ff613cd4be97df22620aaeb15a2679c53950fbf9e",
+  "PGPSIG": "iQEzBAABCAAdFiEEFRnVq6Zb9vwrc8dWek52CV2KUuQFAl8HITAACgkQek52CV2KUuQzbgf/Ta4Le+BMDYqxu9TQPlndiG75fy0NZHYb1seQmkEHz1wNxNvKOqT67JPxDfJCnevv5+GQB/8Kd2DMn/0AlmeAhFivrJksnZ+M8jF3Mv2ahqyLbHtarOP7djlgsjVCE9cZg56YkqX0dQhqHnXQs7eMbuSk8+CQCaWzYc21H0zO6YBZ+FdU7GmGEuC87NouKXV13DeoQzxZLvqYvekgcR7UgWS5vacXh3BQuzUFCquEnLjeWC+P1viQbMYjWC4pXxMXqFswphk+fecSk2dzfhHDyqzS2+Eu8hkPVlVJ/AABoWkW09KCCx3mEo7q4xvlq20U+AAHCirn2JWvRhq6OAZ4dQ==",
+  "URL": "https://kde.org/applications/system/ksystemlog/",
+  "LICENSE": "GPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1594114034",
+  "PACKAGER": "Antonio Rojas <arojas@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "kio"
+  ]
+}

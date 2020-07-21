@@ -1,0 +1,24 @@
+{
+  "FILENAME": "libxt-1.2.0-2-x86_64.pkg.tar.zst",
+  "NAME": "libxt",
+  "BASE": "libxt",
+  "VERSION": "1.2.0-2",
+  "DESC": "X11 toolkit intrinsics library",
+  "CSIZE": "547812",
+  "ISIZE": "2129546",
+  "MD5SUM": "98a8c2f1701151712fd7add2f132ebc1",
+  "SHA256SUM": "770334baabb841516dc9d34451465aac7d377b09b174159e0f245097b87811d3",
+  "PGPSIG": "iQEzBAABCAAdFiEEhs/8qRjPOvRxR1iAUeixSKmZnDQFAl6/wq0ACgkQUeixSKmZnDSY0Af6AouW8QcFfp6NWBzYgPSUv5RcFfx0DDDij6cWQ0mGSTdQnlS6cz+PIoP0DFEu5zvUpogurGazN5kjRdDLkJZMDfoitewnwTcfVjAS6A99ZtYXmU27I4UgcK0C2sBTvJngSWU0bp2d+gV6yV+qj5TBlKkG8h9oYHsRJ2SxWrlYMgpgXoNYquPI7Mi0nO3EnoiDrW/Q1JXqWuwx71NLQEV4b8fcCix6tb2nIWQdgmqRqmp1IhVGgPgCSKUvKQ5msDhySMpPezjSOWz99sA/cp1XvV2xwToMlcpuh+fGxpVtJ9RHb8mNA36Nsw2WELvxVXezHgeCPAfXiqaZ2sXwCkhTWw==",
+  "URL": "https://xorg.freedesktop.org/",
+  "LICENSE": "custom",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1589625484",
+  "PACKAGER": "Evangelos Foutras <evangelos@foutrelis.com>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "libsm",
+    "libx11"
+  ]
+}

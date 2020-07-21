@@ -1,0 +1,23 @@
+{
+  "FILENAME": "liburing-0.6-1-x86_64.pkg.tar.zst",
+  "NAME": "liburing",
+  "BASE": "liburing",
+  "VERSION": "0.6-1",
+  "DESC": "Linux-native io_uring I/O access library",
+  "CSIZE": "28953",
+  "ISIZE": "52162",
+  "MD5SUM": "4e9329f4f56ea01b9ea91314e7b3210a",
+  "SHA256SUM": "2c32093649414b6871af2fd135d7e32136c6c9dcdfef3f319cf6e445c87fa879",
+  "PGPSIG": "iQIzBAABCAAdFiEE0jW0leqs33gyftiw+JPGdIFqqV0FAl6chrsACgkQ+JPGdIFqqV0d1BAAkBBZB2vYa9ti45nU6d6D7F7yC08na6GYjXuLP820U+z94J6KGjS2yPONtJf0ry/c/YpLhonxdZ5GDRWn8tXuc1MJYPSg2d0dnKkGkI3nwZ9TkszPWTXuTkCzk53/Io6sWJu0kl9mCZ3OO/Dqzus9QNvuJhKwJUKlNgLz0FgGYKrUNWx5jHHoexBCFf3nwFC5XtmiS+dNsJyi1axcUE5ixPzB6ipTyl0dyiYBJiEp/mMNMK8H3SOSzP3JC+JeU510TKnIUcNkhwrBIWdAn7pP9ajLR0il7ivf8V3BnXnPr+1O9D5JRVTxiegq/g6bJ18sLIq5aSOPPuLgx/NsRCuUFf4DtWrskWukGriyzn66rpd/gNXrg4GeTo5paRLqJYPg+a5J9jBA7uS36FUsETNdWY59OnuGZYcFb3HNEoVPQ2NG4nmJ3gBy8FmuYUmKGdpqo3FwoWCOmYN5LuZTWnOpvODE148qQsd5QGTq688TbfpfdN5D3mFDm0v1i/g/EBvMetpLOAiz8gxH/fAnZ1XfxiH4ZYdg22BEYBV/sGMJHUfJi6ON1dFixqbEx8mqXDEcQ2lqaPA9YcXkhR/ov6pSZIOjGKdovqSo0MGGdmpPgKcn3DkbWgPuCtPiQmQJbjawXtoHbd8RNrOJSvFF1MHzxxsIN1esn1vD6nEzg2c/wVM=",
+  "URL": "https://git.kernel.dk/cgit/liburing/",
+  "LICENSE": "MIT",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1587316380",
+  "PACKAGER": "Filipe Laíns <lains@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    ""
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "FILENAME": "perl-module-scandeps-1.27-3-any.pkg.tar.zst",
+  "NAME": "perl-module-scandeps",
+  "BASE": "perl-module-scandeps",
+  "VERSION": "1.27-3",
+  "DESC": "Scan file prerequisites",
+  "CSIZE": "29427",
+  "ISIZE": "72098",
+  "MD5SUM": "1b5d7f9e41f0960cb4edba4b9bdf9603",
+  "SHA256SUM": "0083aee52660a2bcaf5ebc01c56b2896e7ab650da9154f2f31d637789bbe07df",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl7vOPcACgkQeGxj8zDXy5I+eBAArBzBHEReN4uA6DS8MFBiggTCFh9A5E0RMBvoDiyesPqE/3cikIspuFEsn0oj2DvZ1Df4Fk4obMs2I2hUwSNj04AhcpuY/8aZGdPjXU9H6/YuWtgIyhHpXO5rCs/3hrG1aNOxo9TbyOVOmvb9/PFZycHDUguDCHl/SY/QXqUsBZq5L2newGGy0+zr0ehNaMGOvHuKscQiJJuhaNgDkF0aE3f/9s+VXSBlH7mIl6oj3+pAyVeGCukUvDyGUwSZWobXFjcLB2D7iqGUwm1I6hI8FZMiHErD46CyiuzUGgrjrviHI3gE7DcQEti9OqhQhQ+Ubd2V7vV8tz3fPWG9kKgHP6Z9wbIQS7jaEjoKKsUh2z8P/22m4yGLqpF/lBa1tza36TzqH5BfsdeImQ/MgxSr57ZxVIm/EeznCRVmA761z818FvXqc+2hVfckSFty8C/v/yH6CcPMAB/mXXZ/LcUXsGcbIXZ25GzR26DJRdSinTTqa0Tm5rUvovrV7zshLhJ+31tpVnS90HCTaXmS52KZpvpD0DRn5Pkj6H4bvjT/NKxaxIak+2eioxQhrA4Ayz9Man5ZPNfvmUpV7T2rdq3A09peqaQKtCiWtQupp4k5BC++p9zaw5ROx371oh5e+ED7UxYFUXRLg5q4Bsot/BrqleESEBMtFmME6N6GzRsPYOA=",
+  "URL": "https://search.cpan.org/dist/Module-ScanDeps",
+  "LICENSE": "PerlArtistic",
+  "ARCH": "any",
+  "BUILDDATE": "1592735967",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "perl"
+  ]
+}

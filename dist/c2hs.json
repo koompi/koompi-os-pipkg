@@ -1,0 +1,25 @@
+{
+  "FILENAME": "c2hs-0.28.6-97-x86_64.pkg.tar.zst",
+  "NAME": "c2hs",
+  "BASE": "c2hs",
+  "VERSION": "0.28.6-97",
+  "DESC": "C->Haskell FFI tool that gives some cross-language type safety",
+  "CSIZE": "338896",
+  "ISIZE": "1930239",
+  "MD5SUM": "1ffc92b318cae3038d8a1187e88e501c",
+  "SHA256SUM": "6301073f201bac610ca1473a76827356868b0a4067becf4df8c179a6a563002d",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl75K2EACgkQeGxj8zDXy5I1HA//fSNDAAXEE6a/Pllqh28avXO3Ed9PJ7l8aJ4EM/z6PoKlmI8ncElnF/AFZKpCNiRVWGZrj/s4gqZ7jSfFQkuyIDXcE3q3A46op15yvtEJGduyhPe/I8aOp6MEUOmlUyqb9mMHC3M792Lu5tagki6osd9JuDsEKwltyofYmRaKjhR+vRJ4px+U4xEmQVZuRJphYR+QSutPDZ6/lhod1pCsPmifPE/RGHbKU15rf8xcrQDlHPjWtaMxQAIZjD1LOuFrBvSc0vL15z0nfZRJVWytrVmxPpnHbpq/gb4iIwWYGixvULN3T1CZX2aqOsQKAVAS5FwllL9XnfCgVfXFAXjufUdbGOKzhJ8mP25trqat2xEEuMFLvDb4uNZAgZmiN8FNkVtisAYRCFUVyVJcjC3Yedg07sscykzXsSUmNgSjpp3N5bvBDivbmB45giinbnUG2Nfz3kTZGAJ7wIa3Cf/ZM/+Ixs/QN7paC8IDp6bqj378Zp8/YHCWmj5YGzVLThD19GE+6SJ4TTbjaLLZj+Cg9e8ScOZnjfYUR+o234VKq4Eeo4fOLenutitSzWzOeWi9Jqw/d8+RIP4tKg7GhsFIi+Op3v2cIR9+QTli5xrl5uCYRETeMDqqAMtjH+3YeZg6XhWBy+C13YXqdvSZozhYaeT6nUqaV6DZ6D9VQazWaIE=",
+  "URL": "https://github.com/haskell/c2hs",
+  "LICENSE": "GPL2",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1593387781",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "ghc-libs",
+    "haskell-dlist",
+    "haskell-language-c"
+  ]
+}

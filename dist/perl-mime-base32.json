@@ -1,0 +1,23 @@
+{
+  "FILENAME": "perl-mime-base32-1.303-6-any.pkg.tar.zst",
+  "NAME": "perl-mime-base32",
+  "BASE": "perl-mime-base32",
+  "VERSION": "1.303-6",
+  "DESC": "Base32 encoder / decoder",
+  "CSIZE": "7106",
+  "ISIZE": "8113",
+  "MD5SUM": "d85e4ba5d956ab30ef4154cbf40a5e66",
+  "SHA256SUM": "6387c69cfa209b028e6a96753522a8a33d864aca2a8196abfc357d45524f4bb2",
+  "PGPSIG": "iQEzBAABCAAdFiEEhs/8qRjPOvRxR1iAUeixSKmZnDQFAl7vNjwACgkQUeixSKmZnDQ0jgf/UlJnreiADZ7yDS1IxRfB+qEtH90WW8jCxNtjNety5jw7bfoxMYl213pbkGF02Zl7EDDT2iY2kFaEQy/cpCA+eB2CnMfw+YYpsrodl9xSUl9u7zNfxnzxQwTD6mji8myf2Zb/hSJUaD0hL68sp+9e5G+LMx+iBcJKPRfD4HdTlIFBGh9PJMpItoKwu/ankC5d8iEeV3O9O23ktSwmGTGyh/qIiogJzywT8EF+QjWRbrY8wGe2kUN4OeEaMJ+bBCDRNvGGz5VMEg1lFzkx3fW6jdPD/O+y2r1uCjMnXTZY0ORUvyquhtYFU8J8pZCodG2IJWTTZjUT8gZecM68QDVulQ==",
+  "URL": "https://search.cpan.org/dist/MIME-Base32",
+  "LICENSE": "PerlArtistic",
+  "ARCH": "any",
+  "BUILDDATE": "1592735277",
+  "PACKAGER": "Evangelos Foutras <foutrelis@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "perl"
+  ]
+}

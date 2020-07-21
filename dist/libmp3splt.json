@@ -1,0 +1,28 @@
+{
+  "FILENAME": "libmp3splt-0.9.2-3-x86_64.pkg.tar.zst",
+  "NAME": "libmp3splt",
+  "BASE": "libmp3splt",
+  "VERSION": "0.9.2-3",
+  "DESC": "Library for splitting mp3 and ogg files without decoding",
+  "CSIZE": "153338",
+  "ISIZE": "464608",
+  "MD5SUM": "cdb4033abda94343f73415887998d77f",
+  "SHA256SUM": "b857ac4de817a47622206d046e48bed9a8e15c2ba6df4450985f574efe7666dc",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl6/1MYACgkQeGxj8zDXy5IlBBAAmXo6i2tWOWwfOtotDUxsTvr8RN1usSpvNzbfqKxrJmGt0k+N0yiZKWbw75vBzlvx3oRqOy6/4IIqAJnbEheRzBVIMIYbWMciKDK42AB7c2bZ58LDHLqKSKcNKr7/XdoskiGYeaSJ1vd3aNNSOAVKcHspF3QVsh41P22R8HlltiH/qo4pftFrdoX4X/6lF1gYnBywQETiolTGdvOISDQCNCwOg2np5X++bqrym+sghOONPmxToepZuk+auyF9U6oAZWrr4Ecjpu9rX3VtNOZdBdLca+QZa81XHg1hB6XgOoULEkKnCdHuFYPpre9sJWIfaqxRB5CwJr95vylpZmCT2dbG6HwonwKu3hFfbEPbXOi4JSRAs9zMayW51K7iKRhrR0yAb8hVThEiRsn2gLnUyAi5JtfZPQx9Rob069J7cX55VE+r7yAXVl7Fi2wurJmszzEfEx9Qvks7VFkW8DuN5i/5GkGlmQMRDBAQ5JMHcd38ENljBYSo8X+WWezZOA12KI+wRBDIXmI0aKNGwomAdh7rnZ+utEpEnmyHfYR/ON0Bsp05u8hgTy4W3h8GaAaPS98A52higKSZ9buogMLRFZ+AW/zyewwrtt1CivEisUKEJDplrUYVb9zc7gReB6T7q1Gy0MnDxj4xRPZaIFKGtkfxACai1Sj//oIj7Ao97Xg=",
+  "URL": "http://mp3splt.sourceforge.net",
+  "LICENSE": "GPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1589630094",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "flac",
+    "libmad",
+    "libvorbis",
+    "libid3tag",
+    "pcre",
+    "libltdl"
+  ]
+}

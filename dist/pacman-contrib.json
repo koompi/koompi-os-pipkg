@@ -1,0 +1,25 @@
+{
+  "FILENAME": "pacman-contrib-1.3.0-2-x86_64.pkg.tar.zst",
+  "NAME": "pacman-contrib",
+  "BASE": "pacman-contrib",
+  "VERSION": "1.3.0-2",
+  "DESC": "Contributed scripts and tools for pacman systems",
+  "CSIZE": "37568",
+  "ISIZE": "97351",
+  "MD5SUM": "022bf543d79d80d64c058471f6c60899",
+  "SHA256SUM": "72cac7b10a145fed4a7f1672504646e33e5031aa2c4335496d5afbe4acce0149",
+  "PGPSIG": "iQIzBAABCgAdFiEEBNw/sURf7KgTwn766k97MhqQatkFAl63c9IACgkQ6k97MhqQatnTKg//aefNz73I9I61OCwn8lXzR85NATvr7bey712DYFpawJlcpFxGNANmN/YcKgtQ6gmylW/3ZdPehHXSqkW3F/MfmreAIx2g2hivkDEb6ZE0am86M7K6gSSQULdLSPkRrpWap4/o/8wOZRCRLS32E4VYUYCkUQocGGeRIMq1RowDC6BkUtLmj0ZJ6f0k+g8oVwaFo9QK4rsl/y9iAE8/87gw0A1jgkv8cRbyNjBKJji5NdemO5IRrFJhLCinqywHiI5lxUtML39ZeH1nEGk+pvPsYkuA0bTDx/iU5lhRkg7gEqvwhDqOJWibwP9o5FJGuygP/iUhSBicdUoHBmT1q2DdF323M5/+PWDV2nCd3lugcV3zqizPxtYJWAOZMcxJpXLn/Qhd9KQpHjpwUblt8UFamIqaGX0noYsSlgff+UkoDFLr0T5qghIwyeQMKyM3zgQCszo85iL8SCqnxwoUOpPvzIafQjw1e7PnqGncv2bwCLN3Ufc4Ai5hpAfsCW7tk+0UkK9JW+MN1LPTaJhoPv8iGYmlGsc34ixmC0b46YP5S7Qvf3Oo3iIzEVlA9MvQGEWGWSPge9gOJmuZpjccXIPIIg3pNhWQ3nKqkAIBM9LaH3Lw7CbecLouX/raHeAe9+UkXwkDXigJ+YujsIFsvM1ZuxBKnwUtAF+eg3t/OXau/CU=",
+  "URL": "https://git.archlinux.org/pacman-contrib.git/about/",
+  "LICENSE": "GPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1589080959",
+  "PACKAGER": "Daniel M. Capella <polyzen@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "fakeroot",
+    "pacman",
+    "perl"
+  ]
+}

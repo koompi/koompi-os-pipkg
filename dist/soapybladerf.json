@@ -1,0 +1,24 @@
+{
+  "FILENAME": "soapybladerf-0.4.1-3-x86_64.pkg.tar.zst",
+  "NAME": "soapybladerf",
+  "BASE": "soapybladerf",
+  "VERSION": "0.4.1-3",
+  "DESC": "Soapy SDR plugin for the BladeRF",
+  "CSIZE": "57903",
+  "ISIZE": "161568",
+  "MD5SUM": "a6a3be28e76df51dfbf621005d521314",
+  "SHA256SUM": "1944352d89e6fe72dd928644e4442739a2fa50eea49b5814fdf89430b88a5a00",
+  "PGPSIG": "iQIzBAABCAAdFiEE0jW0leqs33gyftiw+JPGdIFqqV0FAl6KNcIACgkQ+JPGdIFqqV3zeA/8DkFxZhD/8Y28PHDrv5SbLR1yxBPhaghfiNnV+C8LLOYnOy069FINgVkrlTPi8vGte4YSsQItz71fQMiMfH8sIPAEhx86FI2LE3TtRZAr3IYfkchH9mSOReHOffVMXH8JUZ3at5D1yAZvNOMxdf3MwvV5r8DAmfxP93y4ieiG3NB5yijj9Ioun43QZT3Dp651VHm7Go4eJq3XeCvu1luS5c6VQa1Tezg5t/LT+iQ+/7McNmQByq7Mk77d2hH/5cSdOmU8D50OSc3fapA+b+5ImpY/tzn2kM9r8U0E6Hd+8m7t7YEfd8LuM+dF+hGZoA6yWFqkbjpRzjLf2n+pyDywYa1g4Pi6t6S28jKctS1gZcWnFzYhXUPM2Z604dqSfV3J2/Hop4Elh+2Rmshacxi5UF4I3A0ohpSFx/TFphMWdlbKQNUS1JCUNM779i+ZKifMh6v7onBJKAuHJ5et3S2itXV6evUU3/sXTALlqNQMg3dLX6dPzleui7WBkmSC3ONkmFZVaY4qHCVUTHXWMq1X32UF12UaWFhrmy+gMoGxT9G1hBcS2wOjjaFU3Sf1anwUCF5hF30G/VDi372kLGRmzHtEytGngsbH00Kcoz6mC0ZNj/eTiLcH9LN0UPKkiAemsFuSbpbRqdBOQ/y66wl0W6h6T6/g1W+F/AmFwuxBo6E=",
+  "URL": "https://github.com/pothosware/SoapyBladeRF",
+  "LICENSE": "GPL3",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1586113770",
+  "PACKAGER": "Filipe Laíns <lains@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "soapysdr",
+    "bladerf"
+  ]
+}

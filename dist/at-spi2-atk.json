@@ -1,0 +1,26 @@
+{
+  "FILENAME": "at-spi2-atk-2.34.2-1-x86_64.pkg.tar.zst",
+  "NAME": "at-spi2-atk",
+  "BASE": "at-spi2-atk",
+  "VERSION": "2.34.2-1",
+  "DESC": "A GTK+ module that bridges ATK to D-Bus at-spi",
+  "CSIZE": "63867",
+  "ISIZE": "226424",
+  "MD5SUM": "0905eaa25890f602f883c389c063b44a",
+  "SHA256SUM": "eff6ee3fb7ee32a8a0cfa06b7faa975a5a87c82e1e27506aacbbc13c10dcb060",
+  "PGPSIG": "iQEzBAABCAAdFiEEghj4iEmqxSLpTPRwpekojE+kFfoFAl5a+MIACgkQpekojE+kFfr9yQf/bIk0mBncbkpcrWlgvfT+yjW5jS+nQiKliMAmawRgZSJ/TxBZ6OcG1qAmgwZilLMF7oDK0ehK3RDCXlzL3+V6cluvAlHf45OhYprjvKTHxDiG7JoBtt6lwRj8gxK9vQUkH4c+MyN9Ov0FXTg5lB6V5LKJbFFXMcsPu3VMS4ggYdB3+4ovg3XFKu3CcgmBUAi5P4hdK5gyQwzQNtuN6Xz5HjIySSiBwDq7WmiPB+ejnuaEOmAhJ3c/gV2k+67u78QdlciEtxR4B4jAhudc3yhYeRVxTcHPYrwUNZ/w9K5Tkgd+l1qEFrj+ctgha9KB08KPRi+KZmBaU3NktYJbhGkh/w==",
+  "URL": "https://wiki.gnome.org/Accessibility",
+  "LICENSE": "LGPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1583020173",
+  "PACKAGER": "Jan Alexander Steffens (heftig) <jan.steffens@gmail.com>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "at-spi2-core",
+    "libx11",
+    "libxml2",
+    "atk"
+  ]
+}

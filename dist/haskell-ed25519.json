@@ -1,0 +1,23 @@
+{
+  "FILENAME": "haskell-ed25519-0.0.5.0-17-x86_64.pkg.tar.zst",
+  "NAME": "haskell-ed25519",
+  "BASE": "haskell-ed25519",
+  "VERSION": "0.0.5.0-17",
+  "DESC": "Ed25519 cryptographic signatures",
+  "CSIZE": "87210",
+  "ISIZE": "195417",
+  "MD5SUM": "81b3dee9253dd5a88631f0cb8a82d6b6",
+  "SHA256SUM": "1325332f1f2656b54021044a73bc7b550e957da93e91073b7e3dfbcbad319530",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl6hdKEACgkQeGxj8zDXy5KCsg//YyluLuDnLGjfefU8udzs5+eDgzydNstPZUEA+dGa3X1fqedUewbDZeZDR5FtqTUthVt0fq9yG/BibNS2Xw5XPza9AOtEXZhT1xLrlDF5s47g14ATMkw2m9clF6hcfNv/nccAW3PQg/Ham2KkAZZuzoAdiuU4dc7WWyIotXAs1bBN6qAKe9XuhRyjCqfckGCTc/0JSJW9kQOlODF78WJIqcNUoNLZMQWnseWuBBQaRx0qrv2z3GGwTwilPVrPurrH95Wx+Qf+qmsOgWfqq1MkxlITnKmwE81DZnrNIeRu9ZoeLdxiie65hUagFA/FgpF/UQg7+DKRVco91DMavl/y+onePFaRyAJpVmav2v7Eqb+D7CQxJgy2tP1Y+16OC0752lF9byFDq9FrrH1IbNU8cPbSGsfALnVZZkC26gc2aLDZHtUlqowkkAIy6v428Y1E3PSa+MOMqjRM+KEjswNalwzqavg8T/Y6WalsfzXKkLO0uR+lHdF/pumMx3t0Vfd46p+No448CqTsT687KtkMu6sHHaoJEHBSPCmbo9Xp0249NAZ0PL65Zr95JjFtKHFiyiwXo8duPE2QP00U9L5oil321NxRHzfGP58lIQlaH7NDTFyKA+xo9W40rZvwZd/dgmkAi2sjNRe4nd0sAq7AscHlleh4/qbIMd/Hueoq4RU=",
+  "URL": "http://thoughtpolice.github.com/hs-ed25519",
+  "LICENSE": "MIT",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1587639366",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "ghc-libs"
+  ]
+}

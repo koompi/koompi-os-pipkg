@@ -1,0 +1,25 @@
+{
+  "FILENAME": "haskell-generics-sop-0.5.1.0-2-x86_64.pkg.tar.zst",
+  "NAME": "haskell-generics-sop",
+  "BASE": "haskell-generics-sop",
+  "VERSION": "0.5.1.0-2",
+  "DESC": "Generic Programming using True Sums of Products",
+  "CSIZE": "662375",
+  "ISIZE": "10348609",
+  "MD5SUM": "68705231d27d0588b57488abd2fc3e38",
+  "SHA256SUM": "515e94a54ca98b8a094f88cd5a0fe04d63cc0363b7bee4c7befecb80dfabc53e",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl6iGMMACgkQeGxj8zDXy5IC3xAAiQ01OM+FTyFHt+h4Hq7+sHpyP+qzxBE8MndB2dGPr947OQtC8zs6HnMDn3G2nI9iSBb8RLXzgqIPspW67BxMAZHZ7pf4zKjLefpPB1HnuZjSSnHS2uJxqLtPyTk6ySiZdZbf746pnq+icgyd+YM6Qj/GuYT+bUzRoVikjH/gBYOnx6uFJr54ZRy0KN+2nRp2BS24mkmS23/s/aoiGvrU3oFdm5YX43OGkgEZJmECOof6GwbJCRsJkO3JH6C7kYXTnbt0CxroI7FZWX4Stv5glgjgOb3fzj+LQMzdp2tJ9yFidrsmFptnPJPQl/KKOdpvu+lpHHvM+TG9wpqq8sGWwh43ynRJEq+CDJoVR8JSyQnzEgGvyU+PMXNY+gV5i27fxWWpoOaH6hwjMBedJZ1MC2hX3fKfSgg5txm/qv3aMnLoWnaoXtXepcqVozEU20OliwM8WCgVHOfoG52HUfaB7VnGpvBfggU/XXMPE9QtNkbcKFu81N9I0YEWfoTEwng+OhZZxgHXp/nGNySq0eTpieIw/5DKfEUXIDNtwAC/MLwJzXOwZEnn9ozUQpb0CTyYSA7B000ra/VMION00bQp42tZl2FQB9lFugz+6h5a5u7ZHlPcaISKJn9DRPFfq6hUfXl9SXJEXGh3H7KMTPyD8DuCx4qe9hSLVZvC5WHXE+c=",
+  "URL": "https://hackage.haskell.org/package/generics-sop",
+  "LICENSE": "BSD",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1587681355",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "ghc-libs",
+    "haskell-sop-core",
+    "haskell-th-abstraction"
+  ]
+}

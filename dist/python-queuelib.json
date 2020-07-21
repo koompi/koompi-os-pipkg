@@ -1,0 +1,23 @@
+{
+  "FILENAME": "python-queuelib-1.5.0-5-any.pkg.tar.xz",
+  "NAME": "python-queuelib",
+  "BASE": "python-queuelib",
+  "VERSION": "1.5.0-5",
+  "DESC": "Collection of persistent (disk-based) queues.",
+  "CSIZE": "21496",
+  "ISIZE": "118131",
+  "MD5SUM": "ea7d541538dc489684cd8451a45292ce",
+  "SHA256SUM": "5667f9db19eb29ce0c703dbf667ec09337f7507dd4b4aaad1777d2853566ee85",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl27KSEACgkQeGxj8zDXy5LNRg/+JhVVAg96ogIVeX/w5uwrYGMtAJ8AdRYKLoZB4zz188W8mYxBTftSDSfpXPHZDbj2sstu4VYvLKyyRgtAoaBU5cit/73vUf/jSE9pSBeVTQrRcSmJranb/B/amMutvBgtPSNMPL7alAxnMGMUMbce1c5yEcKDSg7hp8tss0apwHhAiykqjzcvC2kRYecdRwuRKU1RSRCYZwSgphGN7dOYV+NrGatJtDKV7bwj+M/zKDHgzOJe05R0Bd6HP7RXs/K0sqHXr5IaucgcsQA2dpllSYDbSgIv12HVx+oxCsmivWTQFuvtQJw4FXxsll37BcxpQoQSr0MD8xvJTsRlHrkKrxx0oIYD/Z/xZoATbamKP3MBdn2dHQ2dGE36w2C4OPZUCEVAFJDrJ1zmTsxwO5JzcFIJz0a3+HoBo7OxYzBIU5Z0f1kOR6ZgfF3eyqUjw0aU92HMyaxiqIq5o2k8tkrk5W8ruoAwmlSBdRi5EZc0qlB83/I8nL0w8RkmFI7+uTxoUT05qiIiT1bKBSemy1QzTy766q1Y2hlBJT3IQoHBCF2VTK9H2T57DHJoxg6zQGfWOwNapbNLay0wYEx9OaXAzawsoOj9Yao00pcK7xZojV9XIwat0tlY66pi/KcHyHSNseUqE79Sx7Z//yK+0pO9yqsUvs5kdE6uKeoXvOmzrk4=",
+  "URL": "https://scrapy.org",
+  "LICENSE": "BSD",
+  "ARCH": "any",
+  "BUILDDATE": "1572546282",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "python"
+  ]
+}

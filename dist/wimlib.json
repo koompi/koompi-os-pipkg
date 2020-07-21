@@ -1,0 +1,26 @@
+{
+  "FILENAME": "wimlib-1.13.1-2-x86_64.pkg.tar.zst",
+  "NAME": "wimlib",
+  "BASE": "wimlib",
+  "VERSION": "1.13.1-2",
+  "DESC": "A library and program to extract, create, and modify WIM files",
+  "CSIZE": "332943",
+  "ISIZE": "825550",
+  "MD5SUM": "8e8cbaa0814637bd3a8699cd401557bd",
+  "SHA256SUM": "1921c9ad63c7747e51e58cf11b3f90e5d12411e40eee0b1cb5643b9771973be2",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl8En3MACgkQeGxj8zDXy5JSFw//Sg+FIyJGroTvyfLxIMI2jCYAAXWt1H8MAkEjCg3HYlNn3svHokm80p+lkU4DbzXGZRTi+2I8mDrQt9rVXYmVeyGL4VFeSSHj74sW7zJn89vaQJiDdJyjaO4Gt39N7YvL7W4/EEW94M79oB8NEZgl4KL3MWM7d9VDqHmfbohYSwLJVjA9VILyCjVXAQ5BBK8OHGXspNitdzBcOYjxbOJSUedkpV1eMVmz46ofCliw92qNGBHumTtyZlFKDeHDDNkovVjBw9mIhA0WiFYAzaf7ezptMFTK2y4DuGcgnr+T+KrhLQcsw2B3SpahB0PhtVb7/L07QQT5f0wh2ZrL2jLnzuJg5Au28Y9QZsje0LKqvM9f0FkP8xwAvOFtVOT+SbiAT8Qiqw7mSaJT6fwhcKh3LAw+MoLo+2nWnYW9PwmoPCWPD9Ft3ObFjVsR+ztN0zUFp6C8vJXq5ZahmLZVCwiJSlR4+pTqS2EIegBkgdhL+Pn0AJW1zG7LFQA4sWNHI15kjFggt83eZ3I35IzaPMKhfjkglLbVFTg4QPPu3DWNMKl+VaMjsJhT4u1OuVPImIJUKBhO4OyU16X8iB8up0dlOob2DQiWcqez+dLaRravK2uLDx5NgkWjB35Y37+Pb4n839kZOAQMiVdC0ZPzjgQwH02Wvf+QNjbIg1OCupd8QKM=",
+  "URL": "https://wimlib.net",
+  "LICENSE": "custom",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1594138392",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "openssl",
+    "fuse",
+    "libxml2",
+    "ntfs-3g"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "FILENAME": "earlyoom-1.6.1-1-x86_64.pkg.tar.zst",
+  "NAME": "earlyoom",
+  "BASE": "earlyoom",
+  "VERSION": "1.6.1-1",
+  "DESC": "Early OOM Daemon for Linux",
+  "CSIZE": "19200",
+  "ISIZE": "39631",
+  "MD5SUM": "28f226fcdc9d8f76bf74442097224786",
+  "SHA256SUM": "2ca7a5e57a308c9a621c5469a41f781ed94620ac6460231af5b65914d2f1f39b",
+  "PGPSIG": "iF0EABECAB0WIQQsEYxiDwLbmsHQ+fqU3SOT2i7kIwUCXwX6DwAKCRCU3SOT2i7kI30bAJ977UNESLB6/5eTu6OXHHEAJD21cgCfTMNvefH2WslaN9acQTEVGuYjx1E=",
+  "URL": "https://github.com/rfjakob/earlyoom",
+  "LICENSE": "MIT",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1594227183",
+  "PACKAGER": "Massimiliano Torromeo <massimiliano.torromeo@gmail.com>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    ""
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "FILENAME": "haskell-ipynb-0.1.0.1-51-x86_64.pkg.tar.zst",
+  "NAME": "haskell-ipynb",
+  "BASE": "haskell-ipynb",
+  "VERSION": "0.1.0.1-51",
+  "DESC": "Data structure for working with Jupyter notebooks (ipynb)",
+  "CSIZE": "121277",
+  "ISIZE": "690065",
+  "MD5SUM": "d96db9391876ba5abb29fe863f717a98",
+  "SHA256SUM": "858ca92c2244690796d7aa3346b352abbb97e1b7a2a08429944d9f3045718cef",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl76Ne0ACgkQeGxj8zDXy5LEug/8Dq1WSjuk/hDZYxnqBE1VH0MTGmfHT0dVy/dvGU19aXYqoknAFzPpm2Pl2yJfcmYPRD1ueFl5XAlKgSJdLl6AGaBXRWJXeqY66SdNue27JDfCWxtP1wzUlBolpYk0mAUaNk/5Q3PKKuDyXYbfuJG1pMzNk67QVeLQ0KRQCD14zAmjnS2+qBonrHahsxm0tPBLpaUp6GA7GbOD4kTXrof4ZUYc4DWzhl3mZCjMhmdzkM1ZrdfcnWvPwJNk/aUtNv5SQEKJloa+A416k6oio32CAH1L+Rkx+jlLEamc12OkBUEP+f4EZLgok6ntbT3KDoXrao9ogz2luX/We6mUXk2WESkxL2ecAYOIiLsRwTdD8NV+vig0o2ruMlGAL4uW/oe1vgUM5U4Xjm0jRa92i5QF16Gr74JRYp4RGZuT+SE+cLHR8bibaGeXAZG8/CtqA3iVwmOW1joT26xQf+9l+U/7afQfsi7ydvwqKGTzGCssFRr3XekkNASH2WqILwgkeR02ZsuNRuTpxJ+lf4bmtKhR7fAW9NRAhW9eWK2KNpqQ8YdYo/4FA6BMCevNotC3mo3dXJFoOHnVVyMDo74qiclGJWUK1kPjGG0aXZv0s9y68q03T6tJN8ppCHzFS5j8BnT/NQLjdRKMl2uiaZuFhOgoYSc0JsRDCey13FPa+roJOMg=",
+  "URL": "https://github.com/jgm/ipynb",
+  "LICENSE": "BSD",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1593456067",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "ghc-libs",
+    "haskell-aeson",
+    "haskell-base64-bytestring",
+    "haskell-unordered-containers"
+  ]
+}

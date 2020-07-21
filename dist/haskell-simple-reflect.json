@@ -1,0 +1,23 @@
+{
+  "FILENAME": "haskell-simple-reflect-0.3.3-2-x86_64.pkg.tar.zst",
+  "NAME": "haskell-simple-reflect",
+  "BASE": "haskell-simple-reflect",
+  "VERSION": "0.3.3-2",
+  "DESC": "Simple reflection of expressions containing variables",
+  "CSIZE": "53355",
+  "ISIZE": "298784",
+  "MD5SUM": "39c862d83f1a611a71901a86499e632d",
+  "SHA256SUM": "bd218320ffc3f628656d7e30180170e0a4a032d8dec454ec344803327904f27a",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl6hsRIACgkQeGxj8zDXy5KMtA//b3wM3/2SLaPMnEWpYnUj8Eq198Ai1lcf8JyWka2xOMLySbPyPNfdCQoPNCn0GgyUyK7DXc1SuVBzkARVS3JfnXo9BEHJhmUnBcEug698Bz8H52SynWK1pzsaCqcsQpH10C8gqaQ/OFYPt8QP4Jf0EkHDmSFaMNTSx26BxIrs6AuFHoAbv6TqyMpxJQV8MDiAoQ/9aWtgqhWT9Q+GtHuPxg1+LxVxaGA8jfiE6AW3fPgdpyzorlTsb4EI+Z9uh5FbC/Pp2yjK3Ph37c8kMe+/or5GM667yOJkGtGlUuKT1VabnPVNDM1WRY79w966EdfQMy+dsQI5JIkN2stKFqz0EzJC5s5eABf2xAZY4fDwLgAtVGx7LV1caKP/ocZCslAeVKA9SA1eQ0HCxbGL2jfD5RIqhmCnKiJw7R+MB5pyi3NfBaQMhVv/Nb/J36d4iov++xni+o40F3nbGvrT0RTqMYsLvQzq7hq1gSab38Mk/vESKDZK70XrtI9Ooz4Esl3sXal3kHRcx6hh+UGGHG6KeD++B9tQPslOjo6PzisaCIOnZcFPzMoRV4HPYv+aLbxKIQ06ZAexOAbhjDzju0kiDMHnxo/tlGEJaTHyAY31UU4KOXHygr/LpcgYQxBdTJe6FRA3xmU/DoQvacnikTERZ6W1bKbMZPqKzVtNCVM45s0=",
+  "URL": "https://github.com/twanvl/simple-reflect",
+  "LICENSE": "BSD",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1587654748",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "ghc-libs"
+  ]
+}

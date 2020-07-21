@@ -1,0 +1,25 @@
+{
+  "FILENAME": "libaccounts-glib-1.25-1-x86_64.pkg.tar.zst",
+  "NAME": "libaccounts-glib",
+  "BASE": "libaccounts-glib",
+  "VERSION": "1.25-1",
+  "DESC": "Glib-based client library for accessing the online accounts database",
+  "CSIZE": "120471",
+  "ISIZE": "1016162",
+  "MD5SUM": "f273ea91a234d6acb304a1f712f68e80",
+  "SHA256SUM": "57e39e291d9ad22971831606bd2b8464b64487ff8aa725e5091f82e69601b818",
+  "PGPSIG": "iQEzBAABCAAdFiEEFRnVq6Zb9vwrc8dWek52CV2KUuQFAl6XOUEACgkQek52CV2KUuSrNAf/esK6MXc3zOpWy3FSXLiAwvJRBrkbPVyy6zjYQcYBAv/U/w7UNbz+rK+FRNturXzC9OjtW857AS7Amh0sXLXTsIgt8nDmaPSyEl8N/prXvSd48Oo81qYx5nDogvVzBJ5vHNEeG9i5bvv+s6ZQM0yC/pKaBaPPqDjooQ21hjN85hhf01YwT0TwvIlvONrnS82GDhIO2V54Z1E/3Q321F4m617wpMp9CGr6E4Q4qJ1Qb7enPytP7c3JjDLQ6RL6zGiQdWw6HseRQf91ivMwSaSDyFqCw1HggQdsHiuNAStFK3cYTv0hM50aZ06Q4nTEY4Ne4T2hXG7AS/3SjLMe8qHqZw==",
+  "URL": "https://gitlab.com/accounts-sso/libaccounts-glib",
+  "LICENSE": "LGPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1586968701",
+  "PACKAGER": "Antonio Rojas <arojas@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "dbus-glib",
+    "libxml2",
+    "sqlite"
+  ]
+}

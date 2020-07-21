@@ -1,0 +1,25 @@
+{
+  "FILENAME": "pdftricks-0.3.0-1-x86_64.pkg.tar.zst",
+  "NAME": "pdftricks",
+  "BASE": "pdftricks",
+  "VERSION": "0.3.0-1",
+  "DESC": "Simple, efficient application for small manipulations in PDF files using Ghostscript",
+  "CSIZE": "103924",
+  "ISIZE": "810539",
+  "MD5SUM": "a62df55bc23da8672aee6f13243bc497",
+  "SHA256SUM": "830958b234aec5626344ff6c97e5aa12d1845658f3fb4e37c2433d5c66e120a5",
+  "PGPSIG": "iQEzBAABCAAdFiEEzgvecadZqH8j8PfYth284QkBwWMFAl8IvuoACgkQth284QkBwWMhJQf8DFtajBrn4BsRGtRh8vUFz9hZPw5bDwl0SKqczHbPyOqfru2g6PT4G3+smzk5w+vwDwxlSVPWlztdTF18nB/LXaam6OUc/GVfrtJnKOOE5wBwMt8qBq7e0cqJxA/n1XLUV+iQioRIuHq0EWfz+XOl0zLmasMrAAMUUxwOczcygPIkHEBZkIDVfno98A7WtprWBmhjau9k3BW1h/98a6tAlqVe8otGveO/HOhSZmqxo7qzgLH+MUa+agn3x/4c/ii2vdikR8Yxnk3EEw0+W1oMAfgOadgNFZWIO542ewYJ8Tw1E4wUQYwmRsCH/+/krpYnqGVXMbs5v0lGWgKXprlCyQ==",
+  "URL": "https://github.com/muriloventuroso/pdftricks",
+  "LICENSE": "GPL3",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1594408587",
+  "PACKAGER": "Balló György <ballogyor+arch@gmail.com>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "ghostscript",
+    "granite",
+    "imagemagick"
+  ]
+}

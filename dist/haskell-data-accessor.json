@@ -1,0 +1,23 @@
+{
+  "FILENAME": "haskell-data-accessor-0.2.3-5-x86_64.pkg.tar.zst",
+  "NAME": "haskell-data-accessor",
+  "BASE": "haskell-data-accessor",
+  "VERSION": "0.2.3-5",
+  "DESC": "Utilities for accessing and manipulating fields of records",
+  "CSIZE": "62444",
+  "ISIZE": "262886",
+  "MD5SUM": "45b117bcfda9d04e541b8ec24af7fc91",
+  "SHA256SUM": "e724e3163083d9c68c52df797f7a91694676ab2bd9ab31c63f34ffc40841b331",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl6hcSQACgkQeGxj8zDXy5KwfQ//Vn8U7StUhrObrCTjFV8KB7S6xyxO1thpEs440ocEedAORHT/syM9nl9LQHZwKxo/jgX4GWYy5z+9bggQn05IqQN1tdBUorh8BJEifSvSXM0ZiUKrIjz4ojSiFgegUaTeVtbZ0L6LQqgjdoJZQnVgM/j/hhEHjQfuJOwUFhP9uMi4m5bLtstai5MhKsIG//J0N6pS/b21pjpcuKbybB7u3bOCg1d2smffm9/olNiZJ3YO3/vQMfGGKF/NkEfW8eygvx5Vkz97RAACBQKKSUpwsi7AGDzBCGS1ilAEpHJ+MTE+/Xi0qSkV8u7OrjOoTE9gOqhVsgyLsKCk5H+1dqmWWsVZlFhds1sKOAPMdzCRTqLjk6wqByJSIEDT14BVjplB1RzXvIkZOlWwWfAN4VMaO+29/RtkZIlVA00C7sgHAjCWHB2doiBoBpYq2Y20qp0qPkJeX4iZhxHSwlqhn4GEwwI/cYjD+ZfAWRfeTbPQpe/DlJuOE+E4bvoH5r7alHZ32ni18SPcHq+Lt0OgN5dN0z3g+VBpE2igmdOajoiKqGvH7mJJsclMdrcNvYx0HdKPFhXKRvtrsCfUozoP6Iyr0b7kJtjkCUdwkxDC2gU4hs5NJn0Fte/Gh9NhGg/cF7d9/98LXNzoslsHhmitOBMd+iGH67F/OJyfyFpbSNpInYo=",
+  "URL": "http://www.haskell.org/haskellwiki/Record_access",
+  "LICENSE": "BSD",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1587638479",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "ghc-libs"
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "FILENAME": "gst-plugins-base-libs-1.16.2-2-x86_64.pkg.tar.zst",
+  "NAME": "gst-plugins-base-libs",
+  "BASE": "gst-plugins-base",
+  "VERSION": "1.16.2-2",
+  "DESC": "GStreamer open-source multimedia framework base libraries",
+  "CSIZE": "2349917",
+  "ISIZE": "18217823",
+  "MD5SUM": "351f61340f65e8e39935fe0ebca1a7ed",
+  "SHA256SUM": "50c9aa1b269767ae5dddcf6363592585d98966926adde8608b9d478001cec36e",
+  "PGPSIG": "iQEzBAABCAAdFiEEqEuNxzq4MgZ75Uw8l2rG+juU+hAFAl6/EYsACgkQl2rG+juU+hCZPAf/QTt/zMAaBGRTD+oTtK1tyo6vL0eio5onXET34dl8mL40Du9o5l9QSHbY4k1yFaceQiMJUkY7gIIXTWY7U9eBXLC9E2TXeWNMDCp/eEUPlsizx1sCLu4Cf9dXX7NcXWUz1RIoFCYunXPl1U4xb1R3EvqFck88ZBI3XnVvZUetKi4kC7okDoEK+qBqGnm7bauifTImYuYzyPT3o2WJYhQg/25Q4AD2I9xrJlPvh5tIF14nG8JdSjeIeZil8YYAAut2hJipSAKvWPQXHejxnj3BQscEOVIF+uRDV/wPW6OQ54uN/wQRhXgmEaqUoqE5VZsvKzapns6nuiWtw7KIbieCqw==",
+  "URL": "https://gstreamer.freedesktop.org/",
+  "LICENSE": "LGPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1589579927",
+  "PACKAGER": "Jan de Groot <jgc@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "gstreamer",
+    "orc",
+    "libxv",
+    "iso-codes",
+    "libgudev",
+    "mesa"
+  ]
+}

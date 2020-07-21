@@ -1,0 +1,23 @@
+{
+  "FILENAME": "openimagedenoise-1.2.2-1-x86_64.pkg.tar.zst",
+  "NAME": "openimagedenoise",
+  "BASE": "openimagedenoise",
+  "VERSION": "1.2.2-1",
+  "DESC": "Intel(R) Open Image Denoise library",
+  "CSIZE": "41154045",
+  "ISIZE": "47760932",
+  "MD5SUM": "85c1a4b653c648c25c3585ef348e05db",
+  "SHA256SUM": "fd96a99faf628273cf7ebcae1321f13fdd6009674431caf9c02f21beafdd8809",
+  "PGPSIG": "iQIzBAABCAAdFiEEj8FaBklQqZ3RvRTdOeS4d+YuuRUFAl8IehsACgkQOeS4d+YuuRViAA/8DTW2nZj/72GzmSbP6ACCixy5CiCTRZfaqz26ZSSrDe6fjVZnUjtN56Xio1cXpyxPr+Vc1GgkNU3XacMmR3CDaSKzp/JZN4KxnByJc1EK2Qzx4/XzuZiymGL26I/h5jH2a6LLHb597Wo1Lds+Cy4wlrK48+fJwf2c6mK/+itssqnQV1Jnw5pNlwrGVdtUPl9NYbvPPRmLAfO3ysx+gR/IyPbTtCqUnJPAj/5LELBJZDgG5yLEYOerh5GNICrv22hRgMH+2wi5eL2vAjEDSp0RFOAf9U8KG0dwLYj600fWXQDQ0pdJb7mVqNOC8LpVuM+Qsu7xF+TrsmfUD86vWJ5Ll8qmVWstAMnYkbo/VFRXcwQudJ5Hx3BKilCaZVHgZ7JM737yeutLkP3nEI+H8W9/2kzdcGtJx/3F6MjEKs4fy2sg7RCEa0QX1MowlmMTPjkmqd5R4wNGyS4/9BSrV5ItYcIUOHZoI5D23YCEvu0FtHL2gXxtuKRN6fcb2ppdJEvKWYzHvoHqH0nVS2OAvFn9M4Yn6Xl/N3af1irQGhrkKl35zzq5OgccnkElasE6fidOfslhhH6Fm2ms+Vq8U4rtvR+P0+0jMSIiPSmqXK0r8w2n1MW5BeJmlHoXJnKWs5wZg0FgazSD+fv+4nT8hT1RRNImRyOvxEE03a+3H4sIMuU=",
+  "URL": "https://openimagedenoise.github.io",
+  "LICENSE": "Apache",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1594390995",
+  "PACKAGER": "Sven-Hendrik Haase <svenstaro@gmail.com>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "intel-tbb"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "FILENAME": "lcalc-1.23-20-x86_64.pkg.tar.zst",
+  "NAME": "lcalc",
+  "BASE": "lcalc",
+  "VERSION": "1.23-20",
+  "DESC": "C++ L-function class library and command line interface",
+  "CSIZE": "193302",
+  "ISIZE": "903638",
+  "MD5SUM": "54af1b77de7ff3ab6aeba6420f081c86",
+  "SHA256SUM": "ceffc467f0b7797bb4d42c5c99566f52ad3f83a92912b646cebd977eb27111dc",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl8EptAACgkQeGxj8zDXy5Kz1A//W4l8WH/vM4wP6FaGwWoLbOUWq/74SNhwegje0XgQCxgxqDtasFaxF7zjVNenDdR7W2IPyI3o/U1PVjWNPvMCxT2KBf8b2xWspEAijBuJs9l1DztRa5rfv7gqMuR0BkzPLL1ouNjKatkigLWSE2rJvlsJ38hYf6aUvS6iar6xaGNYq3iEho374MQKlO1GAj5G57dr+Jx5MdEkQxfAICTGPWFueYe6wU1EEX3hmv+eo6nQqM8kcKgLrMBBYkzRdK12kgOBbITHX+wM1inCHtCtjUxOqAdXQ5uKFrEKrGp1+aI2IRViosfcnbcnzBkhc+1qC7R5dqrd6IXNEeINZZJOkobYaWKZXIj3LehOz+FxfrFVH/uLUxbM6DW3y8ratv141kUOaxf41PZ5wzYeM01gczCgtLqY7RWoZ6ZfqI21EWTXOz/eU3sMAjxzgA2DYeKveEcxxsF6Ask9eS2IfnkPdJnyH++faSFU+ScNIZ8ruSHr4TZvOaCqoXw8658Rzwe01wVBGLy1T1kNSh93St5UD71TwIdwBJCMcPdY1SblErYF37DgZ5vbuozjE1XPZaVbMDnZcaDVZKvq92AFeK8B+cD/iuFHVHLJHgvMTT5Rln/abYN+fCbQJ7GW1MCHTWkQaIYrKtImBbgQXoEvFlRbauF148cYsr7xVVtzIQvl814=",
+  "URL": "http://oto.math.uwaterloo.ca/~mrubinst/L_function_public/L.html",
+  "LICENSE": "GPL2",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1594140133",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "pari"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "FILENAME": "unpaper-6.1-7-x86_64.pkg.tar.zst",
+  "NAME": "unpaper",
+  "BASE": "unpaper",
+  "VERSION": "6.1-7",
+  "DESC": "post-processing tool for scanned sheets of paper",
+  "CSIZE": "330706",
+  "ISIZE": "432285",
+  "MD5SUM": "08e4fc8bb6fef165b46d964962c7e5cc",
+  "SHA256SUM": "3231bb2295499c57ae47b78bda883f2858ab8c712d51500e0cf56321404fee76",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl7L8RcACgkQeGxj8zDXy5JfeQ//Wqt6hPyaP5dtOwLYz3k3giDduhrn/kxEFw3CPA1E87LC6hjamKgKYfPJujNNj1P2ZwuUDS07BIKmjnx0TdOOnOvQycUrG+uPfoeTFYuMzl7jmMzZLjXv6t41xf9pdUZb5wE9BkyVfAuCAwmhy4yJJpxnyQgtbCH8uzt2GYA7hgQ9Zw0jNAuIXQbnqO2B4yVq8t1IucwPivdLTT0ITR7ofFre5fOlxPhSOZ9HqUF7XBRjAEKAa41w3jW90BD+HhqFm8Gqhs10NNW+6+3ajmzgBv84nnB5vm6thD9FtXWCuKNHonmg7Qag3/4gGJthCfrqDlZDCKhRhUidMjvZ4EMa+oHNu7PkTWb4EiOPJ0nTwNVRMSPqTejfOMjQBx5XETXiDKwpSaVvXnaMjxx+9jbrBtV1xoKPre4rctVLTHj8nEaFMfecJcnOscwckXfPOuppR8i6H83r4DPMBxUQkmol6pHwd9W2lS3oIHE0hLEwFyx4M6TXKec97BTNltNnbXkk+vnPM8JlyOZMS6trdtdS74f4aKcufzjfAOZgJ7IOl1msGGEvF3uzXhut97tse4nDCEFbGxbCMEVfHTjLv+Dgl9/j3mSVHtj4lCK2rTISlxNrwcmzS7JUJcrPMmjHLtLNPV3AmRtVjHIRuWQFG1aBvIn676thkyyEzQkH26P/EEI=",
+  "URL": "https://github.com/Flameeyes/unpaper",
+  "LICENSE": "GPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1590423687",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "ffmpeg"
+  ]
+}

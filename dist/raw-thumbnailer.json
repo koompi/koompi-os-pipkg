@@ -1,0 +1,23 @@
+{
+  "FILENAME": "raw-thumbnailer-0.2.1-5-x86_64.pkg.tar.zst",
+  "NAME": "raw-thumbnailer",
+  "BASE": "raw-thumbnailer",
+  "VERSION": "0.2.1-5",
+  "DESC": "A lightweight and fast raw image thumbnailer that can be used by file managers.",
+  "CSIZE": "5022",
+  "ISIZE": "14088",
+  "MD5SUM": "b0939e9c6c1c2e12f4e29d903e5a768c",
+  "SHA256SUM": "a301be80fbf0505bed9e8dfe8d74d0335756714efb8461f450046764a63e0875",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl8Esb0ACgkQeGxj8zDXy5IoJA/8Du2v8d55ipyWeb4dHFc4+BjiyhTOtXrjHRYfwAFE0o5/SjkBrmGmuVH4GqJcYFFwPSr+jkFDt6fZWH1yyspHbivhc/2gPq8VQ2JmMTDzomhRBQSScdvA6AWW/mWuMTmUu1SD+AgffPp8358lkpJPo777Qd7UkhpASqo/nC8mZxoLLK0ltUZru6+JeUaXNwnxM5IIoN+RvrlFgBjjtLgjVcxjcoFPCCNZIW4t/nOft31Zf75EIo+MG0qADQTgNqyJnFd0lhWRcqOBDorZ2SpwI5u931JHyiba8xpzQr9vTi/msaU2U2cFAL3tq4in8ofxT5/oMbqY1ukIJlEdHcxBp1zPf7FUCgLYkq+HXc/iyRa/KnSdi0ncuU5NuXTXFNfus//oZQxHlQi55Y7h1lZa+QewpHsPdQDxuvb9q7Ms86gLzmwQIA6ixLGxUmazIEf4KPRsN+LNeIlNRpGmvtOEjWY2C6At2uy9aNtgJJQHaUJvDLxShP8xwgH0ihRRFzLT0Rqg4DSD1dgwXNc1uYIiAMr8jUG6uu306+dghXAQnvl36CoOmnb6wWSmuPQcJjAaqJwq9TnbbMZx8Erefivfr8CgCov31QiM0ihk0tpIKdTdJIXCaxZWLjeYIpe+ahDum/NGBcLzb/h/J9NU6HCBRGkBKYxM2D5FYM9x52CXa5s=",
+  "URL": "https://code.google.com/archive/p/raw-thumbnailer/",
+  "LICENSE": "GPL2",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1594143057",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "libopenraw"
+  ]
+}

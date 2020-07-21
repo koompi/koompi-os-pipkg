@@ -1,0 +1,24 @@
+{
+  "FILENAME": "lib32-libtirpc-1.2.6-1-x86_64.pkg.tar.zst",
+  "NAME": "lib32-libtirpc",
+  "BASE": "lib32-libtirpc",
+  "VERSION": "1.2.6-1",
+  "DESC": "Transport Independent RPC library (SunRPC replacement)",
+  "CSIZE": "84980",
+  "ISIZE": "206574",
+  "MD5SUM": "cf851a7827e443e7ce468600771d0e49",
+  "SHA256SUM": "70295f81e0fc3badb1ef56d2d6e81d2fe53c60e25a40a090829543b1167b47bc",
+  "PGPSIG": "iQEzBAABCAAdFiEElDfdOBWnqRaePTlGr/XZUJi8b/UFAl6Pq4YACgkQr/XZUJi8b/UttQf+PRHDZCSvoIqMAUdSy/yz6xIjLagBQHOGMARyOsUaQT1UaWRf3SGxe7znqz6bhHJeYp1RjJCwII50A3A9pjkv2rXvEKpu1+6Ll4ztWQf9ZLeXJyN6dVUSglWEqZhMt05wvkAd8R5zXBQhxzCmrullDZpih4ISUDWu9jocJmzRWUmuzSVDbkuPGDQnaJomTdYHB4/Y/4VUq5bKHyGJyucXNLtUskGw/fYZbundHH0YzjqcMWEmsjIip9DpyaMW4oiQ8RjrD2UkbJGq6zJRDI92QDd71d+CaLL/JesPi4X1f7lvcvfZbYV+gmVznH5AXBT6ysA3Ds1g8XWxy4cc9tDaag==",
+  "URL": "http://libtirpc.sourceforge.net/",
+  "LICENSE": "BSD",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1586473833",
+  "PACKAGER": "Maxime Gauduin <alucryd@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "lib32-krb5",
+    "libtirpc"
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "FILENAME": "gambas3-gb-openssl-3.15.0-1-x86_64.pkg.tar.zst",
+  "NAME": "gambas3-gb-openssl",
+  "BASE": "gambas3",
+  "VERSION": "3.15.0-1",
+  "DESC": "Openssl component",
+  "CSIZE": "13076",
+  "ISIZE": "30644",
+  "MD5SUM": "abef6478d4d4eee8dc787a91fb8af827",
+  "SHA256SUM": "c280c74aee305ee916795fbb6473d4928f69b384424a189e3aab675a8cb35603",
+  "PGPSIG": "iQEzBAABCAAdFiEEU1+MAzlFDwVKTSgnBglqatHO3awFAl8C7RgACgkQBglqatHO3axZ+Af+MdQ1LzVGREzZRMsmPB32DyKwyyBKLruTot/yOXB1f1zGS/PcSCJKeO8gyc6VITLKpVaO+KjVMo/XYAk4V2wjFNbz8P+LAM0qd4OWbaL4k2htP2uiErh4g+cWBq7XlW6Oz3EBRmn93C5cEY8Smu0w6SnrO0g7i4CAN/SrBQ1V4T+/ydi/8DXjplehNr5by2vT50WSSKKBZoHRmKGg+upHSvy12dmfQtNP7np396exEodD1M8Wc33GdU4uGxc8GLneI4XFRCwTOs+PEQ1LNjHNTcYGJV0PjI1JaPK7LzmetMljD+Dgj6AR6rpT98tIqufaJ8TEBbK1yOT3UyXs4ZswGQ==",
+  "URL": "http://gambas.sourceforge.net/",
+  "LICENSE": "GPL2",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1594026389",
+  "PACKAGER": "Laurent Carlier <lordheavym@gmail.com>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "gambas3-runtime",
+    "openssl"
+  ]
+}

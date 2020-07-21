@@ -1,0 +1,24 @@
+{
+  "FILENAME": "ccache-3.7.9-1-x86_64.pkg.tar.zst",
+  "NAME": "ccache",
+  "BASE": "ccache",
+  "VERSION": "3.7.9-1",
+  "DESC": "Compiler cache that speeds up recompilation by caching previous compilations",
+  "CSIZE": "112636",
+  "ISIZE": "278536",
+  "MD5SUM": "0cc33684a63ddea04b2ba281b3aa3fe3",
+  "SHA256SUM": "8447a82b1a962715e27cd6e13ccc4e3cbe2add55d5c8d44b311d27c81a8dc21c",
+  "PGPSIG": "iQIzBAABCgAdFiEE4kC1fixGMLp2ji8m/BtUfI2BcsgFAl6CNxIACgkQ/BtUfI2BcsgG3w/+LPylfltoP26YB+MJ7aUGBnXL/Fp99/1utL8Ia6Nvk4HiGZ41r2Mw88pzGw464UWeUIUteJFpsvz1B2Hj59gCBoyBGynTtegPsfHR4xZ4I0knwbTA6an5ptuIv1xLK3YWbR09sw2Y39m2/lzwopzeZvMGA646DECZTJ5iHvBsCWcX7NiixO20c1U5avJQp22JgFESWxgjcgqDhqmrd5qV2oVYCuCr7k4DxTspzjJZ6zQYzbDZfCOrZgJXHIwuyAOnvBi0BSsjnsPHGuhhh95gDfD0UC3lbS0pjMdFwRQEo2azMUSihDkctDFd1bcTMw8yTN+yo02xA/BwnJfD14RiMEdsBT+ed3PUkGyFSUsHTG4cZYYCk/yZ5hfdO9sRTjdCK01vhCC0NrG3VP7Swt7uGeHA87FRbG0G7yzw9pnRgRFzn/vP9xgFgArYTIoY/9/iiznURuNdF4xBkeJnrr5IFecp18Hvk7iMGcGqyZRmPPZd/Vrigru4Jn8hSWVhALdvqBxjhMoXjHu+gw0Zq5ianrWedN2zQlj6OsKJOD54k4ZWf/bXsV5+qHFJL/bdFiFmkVpTTlwYUjhcbrO9rIvLpobcUYraaYeZIDzPgTTxkEf59F8im3q//9xbAvSNFCH1cb9sFZNBohgFV8K3eEhs9QE8ZJAGxEKCXkH11qkNP3A=",
+  "URL": "https://ccache.samba.org/",
+  "LICENSE": "GPL3",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1585591985",
+  "PACKAGER": "Levente Polyak <anthraxx@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "glibc",
+    "zlib"
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "FILENAME": "kservice-5.72.0-1-x86_64.pkg.tar.zst",
+  "NAME": "kservice",
+  "BASE": "kservice",
+  "VERSION": "5.72.0-1",
+  "DESC": "Advanced plugin and service introspection",
+  "CSIZE": "713664",
+  "ISIZE": "1694877",
+  "MD5SUM": "0da06615ba64bcdb5679cd0826891a40",
+  "SHA256SUM": "8b6b9d5c749b44b2a538e8f39cc5e8269df274922812fa4761fa90d383f01f82",
+  "PGPSIG": "iQEzBAABCAAdFiEEFRnVq6Zb9vwrc8dWek52CV2KUuQFAl8JYDIACgkQek52CV2KUuSSRAf+N4Yt+qU04l2WWI78qmxgJwv1rTkFAm9R7iw/FpLp3fjd11ErkvUZG9fVria8ze9dWso0YeZ9OTp7AWdEuIG5Jcp+TgSX46yPVhaUiZcQbCaHrj1AE/osG2a6Hinl6vTM/HNSCrP1e1yO0QW4BB1CkgBbbFtvH4JzXMLlzBzdb773BEbt+27cDzGFW9ImPSSIatGrpN28KONalJKEyk4qtaBNUniFT7Kyyhv2sqCxJPlB5Y4TZwr9fz4yPRZQXm9wB3EFDpnMMFm6VNpcru2g17a8dcIsY8cn9fFQgK9QqHeW3l0jPzd5jlgK1kulOqr9psCmtlTra1ax1vPYN4/UQw==",
+  "URL": "https://community.kde.org/Frameworks",
+  "LICENSE": "LGPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1594201187",
+  "PACKAGER": "Antonio Rojas <arojas@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "ki18n",
+    "kconfig",
+    "kcrash",
+    "kdbusaddons"
+  ]
+}

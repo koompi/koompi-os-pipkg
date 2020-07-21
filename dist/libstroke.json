@@ -1,0 +1,23 @@
+{
+  "FILENAME": "libstroke-0.5.1-8-x86_64.pkg.tar.zst",
+  "NAME": "libstroke",
+  "BASE": "libstroke",
+  "VERSION": "0.5.1-8",
+  "DESC": "A stroke (mouse gesture) translation library",
+  "CSIZE": "7856",
+  "ISIZE": "20820",
+  "MD5SUM": "fd541662c4eb4f6dda38823959fff477",
+  "SHA256SUM": "5eb9e597cb56c088256d37bde7a7a130d2e84780fe1829c04998d16dd0877ed9",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl6/yeUACgkQeGxj8zDXy5IMKw/9HmJHZbEshyLRajelNMgPJMe+OllpIhzEV6KNP9zOyx8ZkurtP9tRgzrfZ0DFk1IYaEKdeTZ1KoeDxo4G49oo7YI3ffxlIVryqTdJMQYyp3EUjjMzTkJ0O3O3rQofnp6vrhtmeWWGiN5HkZdbTf65ITj7jRCf6c61W19Jb5zP7V0z2xjvMQ9w5Iu+lWnAnzMS5p83J/iHD8ofFH0oet9FA9/55saZkyA6m85CXXMLC493mwhBq3yNpRbO6gKxMiUPMq8KgHBuLlRliBnodbRsKuu/pQTEPy22NI8Oo9/lK5y67XoBTCQZx+0HS0Apx7LA1q9OWKSxhQjehekKVqkwRNQvk1cQyrvkhbKpede3y2/UTAReR7GCsOP62sq5od3GSD3DEkpK608sRu9+f0e0VtakqGu1HA+qiJoNMc3XhC9b3izwb4KF7ZIFO3OkTFBN15Zmf3jnhrrA32Mf+e65A3+HS8e+Fxp4GJABUyoZYKEJe4tLSc2HDkijuQ+l4r1/5kFj+KyeI9IhyDVHsZ7+vP++JiL+RvmKEV6gLdglxSf8guvZ4bON7W+nGHlsvNQxolYX7GU6+lyAzVDIZyL9fyySKq8GqYPH8vICjmpRG8U6GF6LpWbySQQUJs/BLnnkW2AY2cQhMbgLEvgDdeajAbvVAtB2FI+OcykghvAiEO4=",
+  "URL": "http://etla.net/libstroke/",
+  "LICENSE": "GPL2",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1589627347",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "glibc"
+  ]
+}

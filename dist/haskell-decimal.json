@@ -1,0 +1,23 @@
+{
+  "FILENAME": "haskell-decimal-0.5.1-50-x86_64.pkg.tar.zst",
+  "NAME": "haskell-decimal",
+  "BASE": "haskell-decimal",
+  "VERSION": "0.5.1-50",
+  "DESC": "Decimal numbers with variable precision",
+  "CSIZE": "47103",
+  "ISIZE": "203308",
+  "MD5SUM": "528ee627c4d67b4183fc86c0f4dba085",
+  "SHA256SUM": "6cc48762eda29c2e8a987575b820096f1cfafb17feb1ac4d87a8baf841987584",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl75BBwACgkQeGxj8zDXy5KWaw/+N7z9Wx93QfhedwT0zrD8Li3hXkSf0V5Blw3uakQxa3y0I8tHaTdonmtSqAXWdj4Vz5L6jkZHaaI+bauOmM8g6QShMHcq6JxiObCOGUqOfyfge0n7isWlHs290hYeTsalAuoWMgEF4PvVdi2WFg434eenCUMdKUnnK1epJpX4Jp8o6LQIRSnLqssFnD1ysfYlPaqJoAD00GrQ+flQFPbESgYcX/DjLBZn1bPR6jBfjyOCT0JPpRxMsBJDPrp6tQUBl/mo+/YrtXJ0gBj5MAD0ruzcMxOi6hp+1B/crVTQy5YnYOIlsUnWbfJTe9u7G0Uqf/e/SMAuNJsw3rPgmFRteRZOqr1uEmtluUY7O26Db25jyLtbZd74QlnMq2JNTtbKx+3PzGJWyMS5bRubx29MrWw7Rp2yLp3jZHzZ0//vVv4VAQ007ootaZppdd42QJwdcRLU/JsMMQ/TsAPu+1ZEZ9oe2thXRClt+nhqNH9Xdajvq7Z+NwWdJzQ3qjYRbSbSBG30P3ndhqClyiDFEWtFS88BnWDBTxDThLtpl2g+RPK7wtFBVGTNJajYjFSu4sek0a8ufoBwnXmn1dzDAptXtceSZBGGDLbXP2NIPSJzrq8eGuzd5tr4Njway0J3ha9O/jL/8b2GFCMKjW62f6GbXY/4VTEsBZG2fPYr8VgH5Co=",
+  "URL": "https://github.com/PaulJohnson/Haskell-Decimal",
+  "LICENSE": "BSD",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1593377791",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "ghc-libs"
+  ]
+}

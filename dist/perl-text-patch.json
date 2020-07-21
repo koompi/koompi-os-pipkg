@@ -1,0 +1,23 @@
+{
+  "FILENAME": "perl-text-patch-1.8-8-any.pkg.tar.zst",
+  "NAME": "perl-text-patch",
+  "BASE": "perl-text-patch",
+  "VERSION": "1.8-8",
+  "DESC": "Patches text with given patch",
+  "CSIZE": "7998",
+  "ISIZE": "10992",
+  "MD5SUM": "6c27a26b13f218438f01f816577bd04e",
+  "SHA256SUM": "26bc9ff0e2948ec5ecd2808e00074cbbfddbd7016dfb257d231fd40170aa50dc",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl7vOegACgkQeGxj8zDXy5Ludw/+PZKJMDwsyETXTwc/xQwwEQOEb06Jzwak2yv3xC3Yb7nymFmbGnu1cjMcKzbZSyM/Nv4VNXnWGxJYCa04udJIsryFPxPr6JmsIJyCPap9v41CHs61SByQhW0OWs/ejQ1pBd3S2DZeZQ9ZxyyXGExIHbxoqO7w5gDr+zwh9Y5oaqpyN06QmRKORaRqcEU2uZe7SuZDR3wc+f6bLRcBOVmbyEn63jwBU6IPTj2c0zGZXzkPBSh/vHE6z4+DVQGw19l2GAb7gISN9qpVgaZfYyYRwmtuouTedsbTX5zmDxXmkXODTYGdlByb8xFtBZRiiNKqfSi/dbO1SF7VZAhP+upW7US17lGzKKtrn2PmCQREtouGCBsWJNrS4K8lLdBJKAiaN15MoQ/QhdV1tVAZDWQ+uvqRBxNTBlojpBXC3BwmuZhnNbenVeCR8hybTX0aWpngDIkF+giV9YMlb5WJrwEyWOS/X3e1wsipD7rVvxr81AbGn3BKUy1Kc2Dq3suk20IHNGmL76trYA+1Ik7uY7VdIyY5/00kSZm8QKoJ7ty701RDVJ64eQhflcB1TAi3o/I/1pCzIi3Al5rbSCOSQAtk9PP042Maha2LTW7jswvNYvI+jVNfQ5MFODfI/E1gKEpEHckL7NS5Dc2unE+Ec7HWhOGKJiWronwGEqjo7DDkCnA=",
+  "URL": "https://search.cpan.org/dist/Text-Patch",
+  "LICENSE": "PerlArtistic",
+  "ARCH": "any",
+  "BUILDDATE": "1592736212",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "perl"
+  ]
+}

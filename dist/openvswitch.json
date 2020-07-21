@@ -1,0 +1,24 @@
+{
+  "FILENAME": "openvswitch-2.13.0-1-x86_64.pkg.tar.zst",
+  "NAME": "openvswitch",
+  "BASE": "openvswitch",
+  "VERSION": "2.13.0-1",
+  "DESC": "Production Quality, Multilayer Open Virtual Switch",
+  "CSIZE": "3669185",
+  "ISIZE": "23157038",
+  "MD5SUM": "0247bb029b5a509c0b654d577ae87587",
+  "SHA256SUM": "6bd8cd0b781b7f7fbc04d8e64c5c3d6cfd522d552c4c20e9458bd1509e0699ee",
+  "PGPSIG": "iQJGBAABCAAwFiEEPlGL8lJv0Zeeiq5JZcEQwepDP8cFAl5oeYgSHGFyY2hAc2VyZ2VqLnBwLnJ1AAoJEGXBEMHqQz/Htd4QAIr5HbkYCVwDpa7F2BSBV4BAtF7t76vif1NZYQ3dclLygcknGrLNyC5q2YflLYwb5P77J2LZOIJmYIZSqyT9QZLn5pjw+qZe2/jj7tSMCllppfLnzfcz1k9Dgt4I1NQo2Svz+9OgFcIR860bfMTA1B21CfVh/+7c6BD31vTLHmUmWThnsxXLwvaZKRSsOfHdPb/nv1c7cb3OGohjGmCHZknxxGcj8WzjZiFMjreoV2boB2lTpRqJQOoKbDjFg0UyI+2COf8FrwrwDHfH33yLsq4mSVe15SolgjUKrEoXFZ6WhtF72wsJj4hv55p+aTLD49v45G13owYYw29t8HShS4fJx5ehd3z0oISNt5xcYaSYV0/Lax5omwcW5SZj/3kkS2xWmaBGKwYNvQayGDJ8zv/QnAtV22X7CciaMktBDrFngRNRSHSigXb4qwyaVlapw8owOWsMaCnQXvTbjXRoGXiQ3ZITS0gr3r+Ku8iOIebFiWC/RK6aJvodZwowmPOkxJbtRMYUFWOeh40Vcen3mCmRUnvUn1BA5aQRon4CvNYVD4xqOt3Q0Q8G7Lw/g9l0le/cmmgJumMdkbij9ey+xrWhM94SU88H2/A0W14WsOlUq5b7gFNjfizXEkWzIiR9geI9L3jVAtmzAa0NPAY+45gMQiKO+1SNQr2x62MJp8/B",
+  "URL": "http://openvswitch.org",
+  "LICENSE": "APACHE",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1583903868",
+  "PACKAGER": "Sergej Pupykin <pupykin.s+arch@gmail.com>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "openssl",
+    "libcap-ng"
+  ]
+}

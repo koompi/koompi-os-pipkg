@@ -1,0 +1,25 @@
+{
+  "FILENAME": "haskell-lifted-base-0.2.3.12-72-x86_64.pkg.tar.zst",
+  "NAME": "haskell-lifted-base",
+  "BASE": "haskell-lifted-base",
+  "VERSION": "0.2.3.12-72",
+  "DESC": "lifted IO operations from the base library",
+  "CSIZE": "37750",
+  "ISIZE": "173405",
+  "MD5SUM": "70120528835f9887a51c39fd5fb64f08",
+  "SHA256SUM": "f4b32e0c9d3e4a4094b6136df5c282ea2086fdaa47cab25efb5536cb5d159ffa",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl75KacACgkQeGxj8zDXy5JBng/8DD0wn454jk5cwAz9v1EY+rEZrao1oP+1g3gvaLVeupUXKD4MZkwG1ncvOajiewWW8lzJ2ZYQl3wAS1dfxVi/5B9MJFkZ64zL2P77YrqhjLoaq9nwYMCy3kT1AA3VCL/fsRz0QzGojtj+8+mQSbw1lS4yeMlb3VwhbDueGq3b9ztIrpxKyV3pTiYhkRyCjsfD7ANslOvfQGrFX40GdGLXDcCZvMkE4qPRi+z4uG52J5HogY9eE7bajtTvI3pLIT/Nz0uhhQ29yNON0TnZxDpI+9M2sNgQnHAmpDIveCT3aep6riJ7NLT/xtQHhPa7QEKB17+hpgUROnaIr5zK0OcAadLqXDtaFl9zZ+HQkFH5IayOhHf1f8xIcc/AzxIZSJQYyYMUHXtuKeEEfqBBp8CjfGVW3+ahOwR1H0rhgVj2+JBuNm7MALjKHoo101LOAWXTdwPKvJWNUTydP3OxD3Pb3H0nXSqCRIPljx0xoN0YhsqBg4S7RTBo38EtVmClNg7Jr+8WuaMNY4pAEwoZqFqO4I+2vk6cjrwTobNrJtOQWwMTilIt1kx2878t4AnOaUNK+YjZW4eLUqzmIxdPoYb3I/oi4xcNy/VPO2EXgTDPQVdvqepiCQzja2RrKT8EOWjhk0Aivus0UAPr+yDx5X/Q09f6PrxWysLQM/IJ24PjZwU=",
+  "URL": "https://github.com/basvandijk/lifted-base",
+  "LICENSE": "BSD",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1593387409",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "ghc-libs",
+    "haskell-monad-control",
+    "haskell-transformers-base"
+  ]
+}

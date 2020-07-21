@@ -1,0 +1,29 @@
+{
+  "FILENAME": "mate-screensaver-1.24.0-1-x86_64.pkg.tar.zst",
+  "NAME": "mate-screensaver",
+  "BASE": "mate-screensaver",
+  "VERSION": "1.24.0-1",
+  "DESC": "Screensaver for MATE",
+  "CSIZE": "4732657",
+  "ISIZE": "6390219",
+  "MD5SUM": "a0849d5f4df29b0c8b8211f8ec668eae",
+  "SHA256SUM": "50613fd6b52afa4a3a24e1254128ed7fba65c2a9db4ac41cb3499e0e4ab11fcb",
+  "PGPSIG": "iQEzBAABCAAdFiEEzFln1AlbTztC1F+ggaQC1POCu70FAl5VqIEACgkQgaQC1POCu70uiAgAi5PhtEEH+UNX+o3JnoryV9RcZZGKBUVh1g0A9IqtEgS9juO1tNPftSC6ortbec9wrH7yKlBkoMLguVFCdzA1cLjZkgaAGHexUQJ7TLqJfC6OYFMWgG8C6HTnN3d5wqfNakWjCsb7iUvYrNIl7DtYeve2caL6Ip/RnRKixeFuLjUihnT+kClT0hnIf/kxFNq3hVgtkSei3+yeMCUFExDAg4Pc+xD/xaubQ1P8OMCF0aAl65Az6EQRue/V/t9e1iJFkqnKnDH4v4DOEpFCkzjnK+wAoy7vGzWVlos2Ghw4pxICl2a3vws4dJABEzmiJhZE7CiKuz81ku9mUEb9K8r1dg==",
+  "URL": "https://mate-desktop.org",
+  "LICENSE": "GPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1582671936",
+  "PACKAGER": "Brad Fanella <cesura@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "libmatekbd",
+    "gettext",
+    "libnotify",
+    "libxss",
+    "mate-desktop",
+    "mate-menus",
+    "mate-session-manager"
+  ]
+}

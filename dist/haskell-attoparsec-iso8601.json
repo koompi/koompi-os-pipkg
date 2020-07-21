@@ -1,0 +1,25 @@
+{
+  "FILENAME": "haskell-attoparsec-iso8601-1.0.1.0-62-x86_64.pkg.tar.zst",
+  "NAME": "haskell-attoparsec-iso8601",
+  "BASE": "haskell-attoparsec-iso8601",
+  "VERSION": "1.0.1.0-62",
+  "DESC": "Parsing of ISO 8601 dates, originally from aeson",
+  "CSIZE": "31813",
+  "ISIZE": "107037",
+  "MD5SUM": "5d78e453742bf3bc450cb0e99c69421f",
+  "SHA256SUM": "b3163e490eb006fbc9ccbdbeb40844c9ceeb4ceabc108673e4f5d99dbdce466c",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl75E8UACgkQeGxj8zDXy5ICXRAAlMHk7xZ+Ola4yEHBcdlK0ELOgZgVHP1jna634btby1oKAUmBXw/3hV8TtaCjkklx6O6QCBPUv6ZcQpmoNecR2/e3YmJEi/iI+MICjdT5k5n9c2ldaMe53FNpq90Wb00nPyT+buyebwhb7bey5Ja7ibOiR4jKXaOt5ypBWj4Gi0BXfnCHoey0zNHrwncg6FDzC+JHxsat1tsE9wQzLE8p8P+LRizoc1IhsOfAvYrmcMg7nB5yRqYU/5VCQeHEqRQoUUbS+ED+0qXamRDT/jtpvql0l76Gcj01KLS9d+OmHfWlLjOgeSz4L0c0h6xzfIxiIv1qTRvsMWloKA/UgJ+HB5gAilGV6a9sxHiNokBuvtY0hAZ4Fq2dCNDcpeRysQx0lZG/7m3i9Jsf++W3iXwJ+QgGJ1xkmkCa/4rCml3TwS5i9tp5GYtvbN86FD0sG6nCDcJo0j9DDo88fBiFt6T6J6xZXkivawWEfqHCGje6q9+xQ4H5NbQJdkos4C3eJt0SPyNcQfdrnBVU6wrXkSrRqYrTdX9q5aLDJ72XOFsKTdwtSoixUaz1JT3aVnJwNKGXeUlQhqfIi2PVYBCPZzTDleYr5YpEQnDQGU4D7lF2QVUdKxrJYG1SmMPO0NCwvSZLvk3rt9zHNgFdG+OoEGYMXo3d7QwWuUyrZBz1bLOQ5ng=",
+  "URL": "https://github.com/bos/aeson",
+  "LICENSE": "BSD",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1593381807",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "ghc-libs",
+    "haskell-attoparsec",
+    "haskell-base-compat"
+  ]
+}

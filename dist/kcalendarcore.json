@@ -1,0 +1,24 @@
+{
+  "FILENAME": "kcalendarcore-5.72.0-1-x86_64.pkg.tar.zst",
+  "NAME": "kcalendarcore",
+  "BASE": "kcalendarcore",
+  "VERSION": "5.72.0-1",
+  "DESC": "The KDE calendar access library",
+  "CSIZE": "1340474",
+  "ISIZE": "3448796",
+  "MD5SUM": "e9337952a5d673371c03793c8b7d4564",
+  "SHA256SUM": "34da3da10452cd4df1dc7f2023d14703b441cd8b7e85bb84858c9ea0a20f9e34",
+  "PGPSIG": "iQEzBAABCAAdFiEEFRnVq6Zb9vwrc8dWek52CV2KUuQFAl8JYZQACgkQek52CV2KUuR+XwgAkdM8AXbdwbIEVmeYSF8bADuGQNfMqYGAZhjYtNem/02PDTzO0OCUusWvAvLMZDeSM+bvWLGfL9p0htitgEBXeZz89CD/wTogMIcM/qTiH/UtDI1qVOdYv4kU+rPrOasxsbXkxn2F8PJ42pnphWBvWBKFckG8PoTINd3m0YArXc2WxW63V0Zysgj6XKD6D0n+wZYYgAPe5w3NAGWkwrq8tdKm9/kliTY9prV0gcTsVmJMb9dc6rgxsZG8OcWECNuzBVBdSXAE18OfnIhSV+QDRtKTQjgKVHLQnUfJ4fbG1NpvNIh5rmr/VGONvN3uAa8CTt46ogPKAW3jE/pnqxmVeQ==",
+  "URL": "https://community.kde.org/Frameworks",
+  "LICENSE": "LGPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1594203222",
+  "PACKAGER": "Antonio Rojas <arojas@archlinux.org>",
+  "PROVIDES": [
+    "kcalcore"
+  ],
+  "DEPENDS": [
+    "libical",
+    "qt5-base"
+  ]
+}

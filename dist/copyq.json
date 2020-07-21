@@ -1,0 +1,27 @@
+{
+  "FILENAME": "copyq-3.11.1-1-x86_64.pkg.tar.zst",
+  "NAME": "copyq",
+  "BASE": "copyq",
+  "VERSION": "3.11.1-1",
+  "DESC": "Clipboard manager with searchable and editable history",
+  "CSIZE": "1953899",
+  "ISIZE": "7405923",
+  "MD5SUM": "84127f2076090b7140b507e651f74839",
+  "SHA256SUM": "9e76eba0d13be9f694027add834d1e2a89cee0e7c3035d8e93295233ecda7d2f",
+  "PGPSIG": "iQEzBAABCAAdFiEEFRnVq6Zb9vwrc8dWek52CV2KUuQFAl64OTMACgkQek52CV2KUuQpSwf+Ok1VW92yvwT/jDmHoIupuUYnnxZeghlzhaB1fVQWm9rPwKE2dqUl/b1wBS+a3NTAuusCXUZZrJio9OW36ON841gfIqwy6TpkH58NpnkIo4mtMG/3+CvKpm0VQ5+aAFKUC02wHJkfuRgPvNyiDrMe/F2h1npDGs7n3jLLGFTfTJmZSogvGlgQZCWNyHezQi7nAmjoG4MftjXvZ60wZ1g4GaIuiEAaOYgy0rX5hdoJRwVDmXU2Svobcpo36fylZMuGQoN19uYyQLkC/jhYYV4z4nVjTX7aTE8hCwP5c5h29ya76sspOsI5Mc9JvP0F50XOPmoUU/89Z6Xzb3WuSJ9NjA==",
+  "URL": "https://github.com/hluk/copyq",
+  "LICENSE": "GPL3",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1589131433",
+  "PACKAGER": "Antonio Rojas <arojas@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "hicolor-icon-theme",
+    "libxtst",
+    "qt5-script",
+    "qt5-svg",
+    "qt5-x11extras"
+  ]
+}

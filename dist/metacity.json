@@ -1,0 +1,30 @@
+{
+  "FILENAME": "metacity-3.36.1-1-x86_64.pkg.tar.zst",
+  "NAME": "metacity",
+  "BASE": "metacity",
+  "VERSION": "3.36.1-1",
+  "DESC": "Window manager of GNOME Flashback",
+  "CSIZE": "957019",
+  "ISIZE": "5515466",
+  "MD5SUM": "9d40071313bf5c2272e5227adfee1136",
+  "SHA256SUM": "0b543e53586d107cdacf8ea2c2f943b63e430bc88464c7d1223d44e11db5bdb0",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl59VjcACgkQeGxj8zDXy5LQcQ//S9DcCbCg1pw/1kqCUACF40+5IJPT2xn7geEPgPstktRksyC7h0WSS+i3ZgPRbHcBIltWwUU3sdFvCJIF4PmA10VE9k97vx02AvKs4WD4lO4DM1ovRBHSA7lFtGzj7t10N6YHkiWGYeqtVSPgJtAJaqfYOW9BfYVE/R/5kUwVQCK+r6yzZ+l81cW95+9P5vVPYkGXustyRDdPmRCaH0wBihzuqZTzwbjtKO8kqSvJyJUxw9J2EJ21UzvQRJ6vqOLYHV0mg1ey0CflpGbl7ifM0swg667o/4gbQxdyvc9u/8RrFC2mvN9wTAH/rRBwhS1WELdx3x+gKiOH4RX42jik+gFZUziTexasBKtWp/DXLoFqDqSCUlmIdjkS9XV03pqLKgQsIHcLqSkUMYdDTiqJBdSVNcEjFYk4gobHr1LCwFs9ycGQF8Mqnzp6uExoPfnlLxLUZ8pdT8Hh2tlE7cWcNqi/TYGJJSRARoSHRdl5QdpanCM5x05QBCzsa90CrzTHupFOVXzEbc/EGPuEFdHYQ6bioOIpOZn9OxDQjWNKTTlXD5qjVqyjIML8J/jNgz/5WLHuuHe53vgr0kAZ+IzHx0rDzHV0UnxAn3RPUDppY2k7rZ8CEVsQIfAwtmG8TfoZ96TKgmpB6Rdb8hSSVuHEFHxSeA7KaJvImeJ3cNZ0rC4=",
+  "URL": "https://wiki.gnome.org/Projects/Metacity",
+  "LICENSE": "GPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1585272196",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "dconf",
+    "libcanberra",
+    "libgtop",
+    "libsm",
+    "gsettings-desktop-schemas",
+    "gtk3",
+    "startup-notification",
+    "zenity"
+  ]
+}

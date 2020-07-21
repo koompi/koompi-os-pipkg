@@ -1,0 +1,24 @@
+{
+  "FILENAME": "lib32-libwebp-1.1.0-1-x86_64.pkg.tar.zst",
+  "NAME": "lib32-libwebp",
+  "BASE": "lib32-libwebp",
+  "VERSION": "1.1.0-1",
+  "DESC": "WebP library",
+  "CSIZE": "254579",
+  "ISIZE": "804841",
+  "MD5SUM": "4dd8081ed8bf05523ba51798a0b754f0",
+  "SHA256SUM": "d2f40ebabfe50a786683895ef9fa1d8f6b3ba0760d915c45d558edf56d93bb64",
+  "PGPSIG": "iQEzBAABCAAdFiEEghj4iEmqxSLpTPRwpekojE+kFfoFAl4U68oACgkQpekojE+kFfqvAQf9GBn2mnaDnNR8soQlEmbT0qOBAmQQU9E+kas2xbkxxXrYS4Ks1Wizthg6bne/MgD8Bt4sWXq85g17dJMR4iGTd6yFWGMrvEDk2JCPA+Ul4H/8TuaokaAKALTLthjMZHGAyz64qNKzmHSfvSshnIZjFR3htaxOYW23SEqeDb05eDOj9o4W7oKy3IO9YjZl8DFNZ1TMr6FgZAQcwwLPIiNDRee1E4L9NwirM/U3uxJFGp9+8vxMkXxa7ACGVPaCBPI8NEpO2ZTxDIAH7/VzSrQlmlclL9KBQDolcHdEMW5uHm2QK30U9Hik/HN7MvCYRe5TK+lTlVIAr0Q3ImEjwacNrg==",
+  "URL": "https://developers.google.com/speed/webp/",
+  "LICENSE": "BSD",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1578429290",
+  "PACKAGER": "Jan Alexander Steffens (heftig) <jan.steffens@gmail.com>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "lib32-glibc",
+    "libwebp"
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "FILENAME": "curaengine-4.5.0-2-x86_64.pkg.tar.zst",
+  "NAME": "curaengine",
+  "BASE": "curaengine",
+  "VERSION": "4.5.0-2",
+  "DESC": "Engine for processing 3D models into 3D printing instruction for Ultimaker and other GCode based 3D printers.",
+  "CSIZE": "1315651",
+  "ISIZE": "3773336",
+  "MD5SUM": "7f78e9c56a1511e76f9760121b6ebb51",
+  "SHA256SUM": "8a6711bb2d4df1a2c9f1660857668f5725e3fc998b167a6d194493585a1cf8e0",
+  "PGPSIG": "iQEzBAABCAAdFiEEFRnVq6Zb9vwrc8dWek52CV2KUuQFAl7JmFYACgkQek52CV2KUuTy/wf8Dygbl3EETV9P7Av9wLydHj5N+vKDUeVqof0h6UiBhJv1SGsCxdT+90On0iLeEmbkdVxRcmHo0TKt+YDdg037iJ5O9Z3kSWVTxXXc7Sh6+bdf+bYehnFpqUSAItSyhxxcgLIMVJ2NI4JYP/ef0eP+wxAcxePcVRNA7prEcYMtNIAt2RpuhpxeUPfibp1NfTyZbUanVU4q7LvN7DYmSnTRXRxUgkI7atGQDdpX0P3pAm1GSBtpoQijnW7FEXKZ6RAFy633Y4WrqZW5s7rKITTxXBxUIhfI3efElgOG6gqTTqo/VVeL9U4E9cXvIj9oE3A4H6rDXA9vDCyTu+k8Qbvt/A==",
+  "URL": "https://github.com/Ultimaker/CuraEngine",
+  "LICENSE": "AGPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1590269884",
+  "PACKAGER": "Antonio Rojas <arojas@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "arcus",
+    "rapidjson",
+    "polyclipping"
+  ]
+}

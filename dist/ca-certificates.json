@@ -1,0 +1,23 @@
+{
+  "FILENAME": "ca-certificates-20181109-3-any.pkg.tar.zst",
+  "NAME": "ca-certificates",
+  "BASE": "ca-certificates",
+  "VERSION": "20181109-3",
+  "DESC": "Common CA certificates (default providers)",
+  "CSIZE": "2163",
+  "ISIZE": "0",
+  "MD5SUM": "81dc5cc3f9fd19c022df9760a29ae90d",
+  "SHA256SUM": "981c9e15a36f84e39c0ed39e5619325f7b2903518ca6b29bca4ede857556c93c",
+  "PGPSIG": "iQEzBAABCAAdFiEEghj4iEmqxSLpTPRwpekojE+kFfoFAl4oEiIACgkQpekojE+kFfrrbgf/Y0CGtPzVZl8sTit4XEntHHhV/mhbBoh/019/o+Ci76qA5yOveq9bbjTP1UKdcpRSKXagtYjScf7By3Xzn+4AkDdo0cmoHEmSAfUwdaWuzBN6UcZWixIH1MZ69UTeaWQDRcDYTfHryBQB7sKs/wAtEP46NA08PWI++2YXgc6/k9Rf1BVmz7pYXwrWsU8wEZxHY49n7pgP/B93sthtpID5OE6SgI2yuU5yBEJ+2J3tjXUau+hDVYuOiZdXhnqhDiR4q+oCsKFtE1w3hjPjCuRzQi7lwzGTtqTPY2kX1iCIgr6ak2DV0IB0z8P+/d/qvW294RTYb3Voj94X+mIz3+ItHQ==",
+  "URL": "https://src.fedoraproject.org/rpms/ca-certificates",
+  "LICENSE": "GPL2",
+  "ARCH": "any",
+  "BUILDDATE": "1579684343",
+  "PACKAGER": "Jan Alexander Steffens (heftig) <jan.steffens@gmail.com>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "ca-certificates-mozilla"
+  ]
+}

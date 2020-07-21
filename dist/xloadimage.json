@@ -1,0 +1,26 @@
+{
+  "FILENAME": "xloadimage-4.1-15-x86_64.pkg.tar.zst",
+  "NAME": "xloadimage",
+  "BASE": "xloadimage",
+  "VERSION": "4.1-15",
+  "DESC": "An utility to view many different types of images under X11",
+  "CSIZE": "108735",
+  "ISIZE": "235384",
+  "MD5SUM": "45d0780ed68456dc6ad142249d84e35f",
+  "SHA256SUM": "3a893f400263ea2087edc11cc1c364860ed15f4c082c88450d7185209fa1ffc1",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl8Ebn8ACgkQeGxj8zDXy5L9NA//VwByTKOxD7YMe/aHgOqU+1YYrZKiD53HzKcqJKNnc2YBCuhHyLVIb1I5fXrT+kCgY4LL73aAc8DtkmXs7pcn4NUazCQPZBNDS819x5iQD+V2L5yZZyY/lAsvMlUxMSv1JO29WM7vlL6pP4fmwvruYo1hsXX9iaTeAH7P7cji2suLjF5FH/8fF7Ay0BiiiFxSG0BDHGW+7zWYY3hTTeBVKLrE71cPg1WOiIh0lJ7fowogwkihM278gue+mCBgKb9jqu+ifcJStpspLsrcoQhkyZ0Oi3EIcOuym3+OXezJ4y5jksXUQ7FU522BjdlyKN9LAOd2kf8Ca9ZnjOWqmGK5f1V9Dkl3KHeC+DLohRyYvWy9Wf1Npq0ZOaRGxQxEPLUCzCCXTE0vfchKS6vzWPHJa6kmCxUcKpSxpsYuM4n4wJ1SbDKMZNTSHPudIiJ15n79+CVFEaPxJksJO21UpLy2Pe0HMJuNPjwlrh8E/oW+r/8zmlZE/37zsTYLORZKajsY00lAI+Ob0o9dc3TBLzf7FuCHg2cqDJ/gi+GhVtRQkyz9evHyeSXP9JPWD2Xq2X3IeuIzLdH6yIVDfsN8tt6/gQgXKkv6fUdlRBhVuu0D6XgU16J+e7TUFGNgC7rJQGhHg5IqhxZ8w/IEoFkha5NDPCbhm+iZlpH3a11PFAZ+5RM=",
+  "URL": "https://sioseis.ucsd.edu/xloadimage.html",
+  "LICENSE": "MIT",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1594125931",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "libtiff",
+    "libpng",
+    "libx11",
+    "libxext"
+  ]
+}

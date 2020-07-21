@@ -1,0 +1,26 @@
+{
+  "FILENAME": "python-mypy-protobuf-1.20-1-any.pkg.tar.zst",
+  "NAME": "python-mypy-protobuf",
+  "BASE": "python-mypy-protobuf",
+  "VERSION": "1.20-1",
+  "DESC": "Generate mypy stub files from protobuf specs",
+  "CSIZE": "16971",
+  "ISIZE": "62137",
+  "MD5SUM": "bd8821730d656753ced9c4418890f180",
+  "SHA256SUM": "b3583e957a8c1bdb2aecd77a66dce2fbcae86653c29782135a0a0871ce56171d",
+  "PGPSIG": "iQTHBAABCgCxFiEE5VD//9SF4mShcX4wkBwcMg6w1F0FAl6AiAxfFIAAAAAALgAoaXNzdWVyLWZwckBub3RhdGlvbnMub3BlbnBncC5maWZ0aGhvcnNlbWFuLm5ldEU1NTBGRkZGRDQ4NUUyNjRBMTcxN0UzMDkwMUMxQzMyMEVCMEQ0NUQzFIAAAAAAFQAVcGthLWFkZHJlc3NAZ251cGcub3Jnam9oYW5uZXNAa3lyaWFzaXMuY29tAAoJEJAcHDIOsNRdO7MgAKV4v1AWHoRUlpht8+GtYCe2Moo/ciLDnCOhg8oiFrtDuLRQtFRYTpNzwQBtgCj9Ie6xc+BazOz27iy2bP2ICAt4/utiDa5PhcJIp//aYsXH8LjUipeByNNW10YBioGkRh97Hq0TWbe6/oytA4AATzBjkAowfybYEvbbcjoMADwKxcJ5e9RM3TtcKO0zLAnX0jjfKzOMUa0nXGj2nhbF3kLRyTOkNcTh0VPohDnXh5t+2EoLkdVbet38gL1hBZYHkHU2W0ZcR5vTq0tompbw3El5b9+AmDICrS4gx1zqBLIowexaP7yNUFhPkMhB7aNXxYUhQJIqZvYlEw3TKZkS+zjIu+YPTwdAnLCYrUGa5nk1q4ON6EWDxyeoYkfiJTP7q6ZJBemOU9Z3dX6hNxeiYmy4jemuEun0na7qCqXQZFWsHcIdxp9VhE9mfnQtvWXGWAiM+bL6teBO0dlW9LY96QNTbfCHDyzwZIoY2I4PB6BIYQFTVxTtgd5eKeBltOZwl2HHk5St+YfLLx5zgq7cNH5y61Bq1hc4+ePkVWY1szqBKgfUkIi7TwxH7GA9RjuE59kZcdtEwA8vUXWkid+TCQFhwittb0EF6epFse8xL2h5p57Z52UiexHrowYNjBg2mZgNQfQD8CeluQEMEacw2VD1/tGbJBmBNoEwj++0gNdv4OXy4I2fLAEm/zEyT00/XKNcnvLrTU6L9txOzbkQO9arH2lq1lwSV6pV6TrRLaFHgUtHoAXbK+Ro31yPwrDnSFrweBmVM/x6K/7+bUGmhebxOhUMCIF56/UhOHykzEfQKcYRdIVUp1nJuRY01Oe+PXtHiAoyeNTyrLGfbKdFpCsb+lzOoDKSQ9q71FiUZNawHfbm+w4Qx37KD/146Hq9UnosKnEUAK+zW+WxTpq0RXnPmlP72tQ9N5WKk5fSATmpP1R3L+Lqg+n5b27zkkAqY6vQFXD81YmuQzFzN4/xXlkBfR5Pb3yEbv35vzY2p0mrPOVqTupNy6/Hl0dSCjXbDXIlV17mkGYP7jgOkgQf8tpgxJX/+WFbY8BoAQvR5oiLNWPaQZ3NCNOAK7O2ErZfigA+TLozbam8Sn8zS6vqMWehK5TPAtEIchFya5bP7sJrBCRX8AAKCfgxi+ki29MnBgenz+VUk9zwtyAnDVoZJ0/BuDmQz1oLAO9DoBDDY7z5HVpvsB/OjQok+E5QgtaYSfKOA+1eIqM5xSq446inZ3qMzEw8tha2Pnh90nqYjCrN0OwIasnm0GH/CD67RnmTqBdKr9GWzKI3+aOPerQ39ELRmbaBSv72eJDDZhDeZqHfYDOGjsDrQjrRPsJS8YyEuM7w2zT3GvLwh6TTpDTqenI=",
+  "URL": "https://github.com/dropbox/mypy-protobuf",
+  "LICENSE": "Apache",
+  "ARCH": "any",
+  "BUILDDATE": "1585481684",
+  "PACKAGER": "Johannes Löthberg <demize@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "mypy",
+    "protobuf",
+    "python",
+    "python-protobuf"
+  ]
+}

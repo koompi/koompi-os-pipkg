@@ -1,0 +1,24 @@
+{
+  "FILENAME": "haskell-store-core-0.4.4.2-6-x86_64.pkg.tar.zst",
+  "NAME": "haskell-store-core",
+  "BASE": "haskell-store-core",
+  "VERSION": "0.4.4.2-6",
+  "DESC": "Fast and lightweight binary serialization",
+  "CSIZE": "46591",
+  "ISIZE": "213237",
+  "MD5SUM": "569d5a10b13e986a181a5ba2b34397eb",
+  "SHA256SUM": "ae3449343ed1b96f8cdba7281482abdab82b052e6649e2b11d51d194ebd74aeb",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl745m0ACgkQeGxj8zDXy5KPfg//VsFHjFII5OQKtcpnuiOOaHT0lCW+bI5jiRHXoJostitEYryMvogNIoeQM1pzRhI7rwxQ/JE7C/JW4vwOf2EAzGdtSx0XEh2Mk1JjVQoj2x5QuNss3+dD+WJcRRfa4ZuZ/n7oEvA1AkVs7ujI+b4+gXEzD0H9AMBu3cUFCUbZpma21R5pdTbGsOMWB6GerHioTOD8J+3Rei9pjE/nBKyXaIj9wKyJXif9rznP1H3k9Xm+a02LXzfUrsYWVRl+QtbQhNQtJtA4VDfHEmFwsoHG3JvHs7VtoRbVH2UcZU9bnWa5lfj4oCnzNQTipTZvsQS3EwvDpausezL7f8kNSTEBMQSBv5VOxiZggA0DoZ4L7MuawZ9kkKrm5OUjnh3gxzZVa7K8hsWAsI4L0Po1gVwfiCLmgX/M0dnpqP7hsed8aDAENOUrQJPehRXw6jTCzhwGTvOZkd7pTb0qtc/rzBS2owrb5slz1d5x4FzrZremrHFh86iaLRW/f2v/sXR012evtCWi1dgpDbSq1IJYS1/Wjcy8yX85uUFlicxXzg20yKxcfEoOiHylXBPHaICnEYDS+VnQSC20apzZm9O7vz4fic96AnIoHpYKEVCBRXHN5a79n4VOfmgvaR92ryr0Dm1VYRMCOKNPNFV9aMxIu25Q1Xz3g+ocUnBt5qthTr83icI=",
+  "URL": "https://github.com/fpco/store",
+  "LICENSE": "MIT",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1593370194",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "ghc-libs",
+    "haskell-primitive"
+  ]
+}

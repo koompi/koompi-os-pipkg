@@ -1,0 +1,23 @@
+{
+  "FILENAME": "pacgraph-20110629-5-any.pkg.tar.zst",
+  "NAME": "pacgraph",
+  "BASE": "pacgraph",
+  "VERSION": "20110629-5",
+  "DESC": "Draws a graph of installed packages to PNG/SVG/GUI/console. Good for finding bloat.",
+  "CSIZE": "17269",
+  "ISIZE": "47100",
+  "MD5SUM": "a4f647e8bc3ded63d1c9c3f7e6533554",
+  "SHA256SUM": "d9ea9546773d00c5b9808983a81380ef3ce3fcce1944dbb6f9991749aeb2dfd8",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl8EroQACgkQeGxj8zDXy5J+lQ/9H3ebDmNwrj0O7ey8PM16Gd8Ydw3agO0l5roscmbON7MnieirLG0TYd3Gnc1rYWb+XRjWYWHMX/Yo5hvRpzzTKZHIohHzuatZY8zFlOtdX+pGxs0r4Ny4KN6Wo69ayMeZ4TWtY8ig6xR2XJ1a5cL5/BUlLKDlkdhB6Egq56SuwobrTyQ31IXTkqVAmNNV6W3rS7gIsv/sgJwSgYwth/W0symMBYYUrx2DtREXiZ3I7sHzPu28MUR7t/BhoIM2QAaEa+566pRApmBQDGiFM/WWp5rzEqdS7laDyluq9lCA5+5XVYbJd3iO/ebWzA/8hqmECchQjIHtTLQH+JSZKBu7iub0LgyAUojTWkQK0pSuXPp7RsFY+3N2Zpo+c0byjk7GNQkhSvkKO4AQS2KLHx3qUQNPSXUzhDQOoXkv1YlNJCH1fYnS8ku2TY6DHHbTppZygudr7GwhM1PV1Kv2mMcOYKW1yEQvVbCuO9XV1zY4DUuayswzSEpSh0SWtufSLcn7v+Lsa7lq4QCE9k/64UB9rSE+C0s/ak0+bBu905pbQ8Tyov1CyQFxcEQCC3s9pF6nT4g67X7lmLW8tHKgzQAaRJ+F0bNEgOmU+pBLEyfyXaW24t4DB0olUEsPYcMYUXFv9FLOlRuP0vnD5dsVPaNvQhPmQ4eyoLcKY6LrCviM1UM=",
+  "URL": "http://kmkeen.com/pacgraph/",
+  "LICENSE": "GPL",
+  "ARCH": "any",
+  "BUILDDATE": "1594142325",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "python"
+  ]
+}

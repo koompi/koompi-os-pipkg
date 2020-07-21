@@ -1,0 +1,29 @@
+{
+  "FILENAME": "tlp-1.3.1-2-any.pkg.tar.zst",
+  "NAME": "tlp",
+  "BASE": "tlp",
+  "VERSION": "1.3.1-2",
+  "DESC": "Linux Advanced Power Management",
+  "CSIZE": "65739",
+  "ISIZE": "268100",
+  "MD5SUM": "0f7ab46f26dc1bcb72b98bd51f8f4cc2",
+  "SHA256SUM": "7b7551804e1aad0165ee7e899a66841cfa802fcdd473ee4dfff610b5bf3ead45",
+  "PGPSIG": "iQEzBAABCAAdFiEElDfdOBWnqRaePTlGr/XZUJi8b/UFAl5CXqYACgkQr/XZUJi8b/Xncgf/RmvIsgvhcUVG5CIu4vfx9PzvPlMlFETpV/HZNwMgxiYbpNJRfDULXa5+V0brd4P5VfYYey3099qqlaWGy/R58iexTqZxTWXdPV9r2bPIXKZyEeCpiRZm56FUlo5lSi/n+FX47gjcMqzNFn0xvzoQXKwZh44DLGh2CpRDRDa5uCYMZvyhEPM7ts0dy6ZRS7qJ4wgoXmZZRFhu8XdL6O88+kwKai5edHl6LK37knb7IzxgCXkL8qir5TW/v91F4+Er2MusO4TrVA+qooBkAboCNjglA0wq/ADkRy7ii5Mmi6ImsbaYJf34bhnGRm81R+XgdS3iQuXMmauQ7VALD+YClw==",
+  "URL": "https://linrunner.de/en/tlp/tlp.html",
+  "LICENSE": "GPL2",
+  "ARCH": "any",
+  "BUILDDATE": "1581407862",
+  "PACKAGER": "Maxime Gauduin <alucryd@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "hdparm",
+    "iw",
+    "pciutils",
+    "perl",
+    "rfkill",
+    "usbutils",
+    "util-linux"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "FILENAME": "gfbgraph-0.2.4-1-x86_64.pkg.tar.zst",
+  "NAME": "gfbgraph",
+  "BASE": "gfbgraph",
+  "VERSION": "0.2.4-1",
+  "DESC": "GLib/GObject wrapper for the Facebook Graph API",
+  "CSIZE": "69620",
+  "ISIZE": "497947",
+  "MD5SUM": "8b4c8daf661054bf7504fe40a6e46eb9",
+  "SHA256SUM": "8179ca83add5a2f67885dbdbe9d0667aad595d0fbfec69567fd5de74a5f17dd0",
+  "PGPSIG": "iQEzBAABCAAdFiEEghj4iEmqxSLpTPRwpekojE+kFfoFAl7BdBkACgkQpekojE+kFfoiDwgAlanFsA+x0NmkC9GO0bgrPHhclYSI7Gcfv6G/Jc6+OSVrQfghJXzQr9qqsuQBzyIiQLHKyx+BFNFia3FAX0ZuJ53lxWnpK7cXzEk2WTgG4mBb0SGAvIyh4CLnhjlw7cQ7LvEEMWFTltuiV8iefpaAC+4BJ6qg2N2gY/eRcdUP+kfk/b2rWHgBvdICWEFSx29NYz7PRto/QAfm/hTSiRzjhofsa1w4FR9ylidIIhzGK0PDwyvzpLrEIEQqhbaizz5U2vokV/DcSdnAYSkl3VoV4VK5483U40XuXLk31/LMxx/x9U5ugQF9jsEDaaYMJAnFpDNT+3MjKu1d4mjxyMOTbw==",
+  "URL": "https://wiki.gnome.org/Projects/GFBGraph",
+  "LICENSE": "LGPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1589735457",
+  "PACKAGER": "Jan Alexander Steffens (heftig) <jan.steffens@gmail.com>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "gnome-online-accounts"
+  ]
+}

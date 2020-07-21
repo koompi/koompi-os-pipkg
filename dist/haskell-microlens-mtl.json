@@ -1,0 +1,25 @@
+{
+  "FILENAME": "haskell-microlens-mtl-0.2.0.1-6-x86_64.pkg.tar.zst",
+  "NAME": "haskell-microlens-mtl",
+  "BASE": "haskell-microlens-mtl",
+  "VERSION": "0.2.0.1-6",
+  "DESC": "microlens support for Reader/Writer/State from mtl",
+  "CSIZE": "50646",
+  "ISIZE": "324819",
+  "MD5SUM": "b2a697bc2ae51bc1c616970a304591c4",
+  "SHA256SUM": "e17b0be5a4a826fe9345c6953520b924a183bce19bca00e543adcc0baa5daafa",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl6iGpcACgkQeGxj8zDXy5JvBg/9HzpMjPug+mUwmLatkDtvCgsXJ9HkSt1KHcG663YJj7bCMglyghEb2CFplAWn0vW5PHAYp5mL1BDPRvodB21JUtpQSY+TZ+UR5WR+RRdke1MVtcLX4w/OliB2mtgUtPE2CIuLKq4qHIb0KnAiE6HBT1Y6nK/HpAzMQl4jvJ1cMyrl+Vt/yAgY/bWSLk8tPdjiwf2l7Mvd3p9gDj868ad7XEFnC/bvw7+hfCKBLCqIsJ1vr7ngl7OcFzeaNOE1CmWHbr5VmT6b0bgWolHVke8f/1B+NPzB5aw37huQfotawI2xXWMtRw7HThoqLBn1V/9oHcs/5RG/2f8g4hrZRIvhWbhc/+/a84dgzr0LceXMehULRHUUkFaoWX/p46OCtkiSuKLmkzgJioPrCNbtEOpGOKXIQgRfSiXoI1/nBXBFb11qn86AaHtusgrT/yJeCHCneujKEaqd3jAd/m2wjlFQcNe1YdELbhOD6qp2wWATpApfxHU8Pqwh/GRl+5jXyCcOvRRijUbMuQ+CZW3Tjt91T/ToUjAchjWolGjNer7ipmJlag93Jl81cbkp2DUmTWF9dNs5UYu9zaFISVWk/PT8F1+I913Yj6eqBT06NfVatHxfbJXUhaZehBcZzmQ4kiZKSU0LWhEJWUVYK10LbPKRhPoRg+zGcAT4SmEjcwx+Gng=",
+  "URL": "https://github.com/monadfix/microlens",
+  "LICENSE": "BSD",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1587681856",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "ghc-libs",
+    "haskell-microlens",
+    "haskell-transformers-compat"
+  ]
+}

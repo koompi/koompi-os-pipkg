@@ -1,0 +1,28 @@
+{
+  "FILENAME": "albert-0.16.1-2-x86_64.pkg.tar.xz",
+  "NAME": "albert",
+  "BASE": "albert",
+  "VERSION": "0.16.1-2",
+  "DESC": "A sophisticated standalone keyboard launcher.",
+  "CSIZE": "1101480",
+  "ISIZE": "4065051",
+  "MD5SUM": "bd490fb3b0413ec85f0226ed156a7930",
+  "SHA256SUM": "b8048a58159eeddfa521c0636998593302f64ac196e3efbcbc3090ae4b5359ba",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl2/wjgACgkQeGxj8zDXy5KEJw//WDiuE4oVhdo5aXG1n6yHRxCvCHffiBV8/zBHkOeAak30bBFRm41L/ILNv+S0Z923kxSA77Kd+Zjhu7TW+DnFm+ftNv8SnbPzjhAeuKQBRjGVM69f0xMSaqlzEUa0jTkpQgvUV7KG32Hm8TuOIqoDECLqJ0vjNsijZPoC70Lf/y5ayIIcp4OIRDqxVQCSPuHCgcY+rqI5DiP9BPhwmL4GYyhL5RVniAtd3LjW3VPvLOK3GUHzTiohU0OCcdN+vvT2pXaPyRuriVvWV2i6j5uYdb6lu3IjUFkL5ERUcnmdu/X1Oy51YDptkPKia47y8PHrtEZTbmwRiR09tGoYRGBN4OGGr7cGWHEvJSsWY+5dqnfBxmrELOF+NCd1KOXHpC2aol87+cfzYp/eCbyGCdtGB8iCx8AngH3orK/oNBSixqdtxTQ3fkJMG7CSS4OcqfHidOEQspk1/rFwwZrIYL9gfxtcIVm+qGeeps9ES11GE7slVV23CmSkamxpvAW/q2fKVZank7nR+etiVMQkYAqvCcpWiFiuMfTSB6S0hAu5lCZZ51zOWAp4GSmbdWy6kS3Ycabcf7rJXCwzYCDkdLPiZ4LPBzjqnKYCRO/zNdyCXp1rZmv0/5JO3vueTBU6byw33AwdkjLKlKlVwNCDW5heYZbfSG6cJ1q/7w9w9ptUEIk=",
+  "URL": "https://github.com/albertlauncher",
+  "LICENSE": "GPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1572848030",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "qt5-charts",
+    "qt5-graphicaleffects",
+    "qt5-quickcontrols",
+    "qt5-svg",
+    "qt5-x11extras",
+    "libx11"
+  ]
+}

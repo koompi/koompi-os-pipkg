@@ -1,0 +1,25 @@
+{
+  "FILENAME": "gnome-getting-started-docs-3.36.2-1-any.pkg.tar.zst",
+  "NAME": "gnome-getting-started-docs",
+  "BASE": "gnome-getting-started-docs",
+  "VERSION": "3.36.2-1",
+  "DESC": "Help a new user get started in GNOME",
+  "CSIZE": "7702885",
+  "ISIZE": "63549123",
+  "MD5SUM": "ecc4aebaef824d836ff13c43bb5864a4",
+  "SHA256SUM": "031c8af54e89e2e40eeb977d118032e2d934d6283cd7ae1d1d3825bcdd6be37e",
+  "PGPSIG": "iQEzBAABCAAdFiEEghj4iEmqxSLpTPRwpekojE+kFfoFAl6k1NsACgkQpekojE+kFfpqZAgAsp4Zl0odsgbbqGwaPhctNCt8mzLZ5y6efW8spbCyYY3jlCPwKbEeLMvqSYpq2/2FkMaeYYyeCp2HBObG96M04qOs1dzXymvNOB7Zca2HQcVuM+Af9vlBoSrNAFAP3mkaFoUZwzxPJF4lW9ZlJT7D9QnESzIGxGjj9FQXDlYx3h9kpwz8eNZDqHixbhUErJP179XjudHlo7ueqzjNBfl21elhPsU3TvIvxjDk+R1dxQyp7bvnunm30SjiwKqCwbRR65+QgXi5lgRNoS1lSLTpogpFRT8Gt3eQ8hP4CKHyuF2FWmerr72CXPyyxTTahHmS4pJVUgLc+bCBhQpjn1pWDg==",
+  "URL": "https://gitlab.gnome.org/GNOME/gnome-getting-started-docs",
+  "LICENSE": "CCPL:by-sa",
+  "ARCH": "any",
+  "BUILDDATE": "1587860293",
+  "PACKAGER": "Jan Alexander Steffens (heftig) <jan.steffens@gmail.com>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "yelp",
+    "gst-plugins-base",
+    "gst-plugins-good"
+  ]
+}

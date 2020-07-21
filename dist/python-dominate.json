@@ -1,0 +1,23 @@
+{
+  "FILENAME": "python-dominate-2.5.1-1-any.pkg.tar.zst",
+  "NAME": "python-dominate",
+  "BASE": "python-dominate",
+  "VERSION": "2.5.1-1",
+  "DESC": "A Python library for creating and manipulating HTML documents using an elegant DOM API",
+  "CSIZE": "42274",
+  "ISIZE": "223616",
+  "MD5SUM": "85b2f527f41b80d6ba9a4cfe18f2a043",
+  "SHA256SUM": "b5d9033bca3e00e6598000869f431d43d125dd08729bfbd2ef3d8d4a1ea7e2cc",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl5k3CAACgkQeGxj8zDXy5Ls8g//akK2aENNz4ry0jFE3WHsb6qNbr5nbv6+py1P3+W4HnaHTaKSicjYynRm5HutHJGRwXTvSr4AsothTDLrLGz5Tpqij8xtXUXRCyUbBEYIZSRv/YWbFDoCcj1gcWGNW6aA0RFaXP8ypJj6T/rd7j+PltmOkr7sfYjJLnl7RHpLlcyAQiZjIMSGKI/ajj9lX5+QMGyFYxRt159ewgMSdQZaQHwh4ysgGbDFeKAkF+eYq6+rl2Fr5OUYJAJtY31z9YJs9QHDL8DjibAUYHKZmxmFpGHHCg3Xx+dTx80fcTZ8iRQmKVgSV7w6t+/oHKeERIgUaREo2O4wf0fVXxkamTFvZayW1Ov9OqmOAhKfyFtr5JZ1ydx+ETAoR7FwjJG196lxHgzvcgrX57G8hnRLYTeQ+Zj+Uy2EQ0ocOHbnQR0mSpYXFk5dStdUO6sGLS+Cua/jyhLuFfiO+ucrOEe7sfw77GW+kHdY3F73cwKDH2KETOiiWzSacR4VS5NiJakZCSKlD7B6F0JoxOUc+bqTNQn/tGzf87FS2Sv6OPAfjxK9EbljMdbcK5UWLH3xjDJp2oJJdqf5qc5SuJrDq0D1kaId+6umTn2kaEf3gU/jo+Wg3xN7zikRM26zxrWtO4UVbZsiTUAOqBiJGrg7SAiLFwqO7/qlJvYMniYTb63vYNWqrmw=",
+  "URL": "https://github.com/Knio/dominate",
+  "LICENSE": "LGPL",
+  "ARCH": "any",
+  "BUILDDATE": "1583668178",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "python"
+  ]
+}

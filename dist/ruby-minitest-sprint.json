@@ -1,0 +1,25 @@
+{
+  "FILENAME": "ruby-minitest-sprint-1.2.1-1-any.pkg.tar.zst",
+  "NAME": "ruby-minitest-sprint",
+  "BASE": "ruby-minitest-sprint",
+  "VERSION": "1.2.1-1",
+  "DESC": "Runs (Get it? It's fast!) your tests and makes it easier to rerun individual failures",
+  "CSIZE": "12765",
+  "ISIZE": "28943",
+  "MD5SUM": "12e83b590cafc0ca8995a28fcf9a7688",
+  "SHA256SUM": "3e26fbdb5fa45acebba8dbf06d06ee062e86f8ea4707ae7e52754a8c5a3bab4c",
+  "PGPSIG": "iQIzBAABCgAdFiEE4kC1fixGMLp2ji8m/BtUfI2BcsgFAl67Mw4ACgkQ/BtUfI2BcsiHPhAAwpNP8oe7wQN0gqcTHHXLtY1To8JOBHkB6c67NxsUxknqBYYZSrTKPBpyW2c1DpRdz2YMltckShK+YsLsP7yoBo1xiyAWDw4tynHQKk1FXzw0Ad26L9tUYOjNjLD0YkoBK5iqALfvLgxjhKYmZlQaQMrTKa/KfQtB/3yeitAk7izAky6czKD8hWEKkPYdVoIk5dd/WYEa5CIKx2c2d05ZfUpYqLYcQHqhN4Q85zpCByBBRBAXdfwNeVUjlKfUkPpSw+czp3Izcel2vj0OtSXGOtRvihhwuXxS0PKdY8hkUJr3Ovx1m+x1p69/ViKf3tHh7IBGLkNWzMCYA3Oc9M1INOMnQvumqO7SJm1UELEdGBf2tHDDrAbxPG7yNIlx4acJYNztw1pp+UG7MLJnqbcPh9HxxBe54Y7lfa/fpZAkhEa1D0hrr1aHc77O58howjQlmWL2lq2rBMUzpW0YhOvMeKnSRXsz0zF+2Mu6jEfHdqoIiBwWOkhervIg+iNB7RwBFMPt9RR9A+y/AGDq9owf/sMGWx90u67AoH98BeB78JLWEhtFrWDYYcarFffAKD2FpxZfH+Vjtf/nRaltWI2Uph86OPODzQJ2Tp98LLxAvegD0N57nwi6Iw0RUO2qlA3LxYxuq8tER2LtStXuR7EPo3iEXMFQrLmctrJI9z9wTv4=",
+  "URL": "https://github.com/seattlerb/minitest-sprint",
+  "LICENSE": "MIT",
+  "ARCH": "any",
+  "BUILDDATE": "1589326545",
+  "PACKAGER": "Levente Polyak <anthraxx@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "ruby",
+    "ruby-minitest",
+    "ruby-path_expander"
+  ]
+}

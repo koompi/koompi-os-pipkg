@@ -1,0 +1,26 @@
+{
+  "FILENAME": "perl-mime-lite-3.031-3-any.pkg.tar.zst",
+  "NAME": "perl-mime-lite",
+  "BASE": "perl-mime-lite",
+  "VERSION": "3.031-3",
+  "DESC": "Perl module that provides lightweight MIME generator",
+  "CSIZE": "65838",
+  "ISIZE": "137492",
+  "MD5SUM": "b18731a161b3c735fb75544bf53234ec",
+  "SHA256SUM": "f8fc6366bf1a5dd337b1cb144cbb058f2e27e7d42e8d30978bba9bb25f0d598a",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl7vPKcACgkQeGxj8zDXy5LLPQ/+OP8NB3IM7azba7DUQwz+G0i9cZWc/AAjhyHGHqKZ+6vYBcloAfRQBYqklGqoq7/jqmcLzUuesQrAFwx83+80IRXmbgZfwoAcjuaiy/iQyyHqLvRO1i2Tw4JT6f3nGul/ms+TKXncw8MEI9pirU/YY6o7zhRZg/aUCwJcvM9NgioBLDijeOJ8rta+q7RiBCx1g6piySASqrn80ulwWyy0l05dXDAw7vSA1cn24UGlggolO0z6XnPVsuuNAirrbC05vW1sWJc5SK5sGBgsc+6rJfTKvM136keIk/HhCI1efhnb/1QKe9sSfN1JUt9KMPUq5mJK2TgScixtx175b6SiqUQY82+R8k0PJI/oGYaV+YMYYV6Q8dm1QzAec8OEhdkOQVAkJ1OSZWSk2VjUKazT0MP8/394V4BEW0fsjCR25lY0cEh2i8R42EfhhESC9yD310wCqQ55IRTRaUiw2BKDlbUg3SO8qM2G9G01W2iPKvsDa1X7aUq4gD/5g74V97xoFfhWSyzLMqO3cU5ZMfhmqYLnIWHzSA8IKBJwVFHAR7oUW3xHRRBnyM2gXdpRC4/99wnKxo2Ai3rg6oCsl/1X/hICJtLAUj20p+5PY1pJ4khWeYxXc7c5E0BEWE1sgNXVsTk8h15yzxvkqYTXNkpcPifdvilBBSLF0nUR3o3BNY8=",
+  "URL": "https://search.cpan.org/dist/MIME-Lite/",
+  "LICENSE": "GPL",
+  "ARCH": "any",
+  "BUILDDATE": "1592736731",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "perl-email-date-format",
+    "perl-mailtools",
+    "perl-mime-types",
+    "perl"
+  ]
+}

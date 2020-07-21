@@ -1,0 +1,32 @@
+{
+  "FILENAME": "gimagereader-gtk-3.3.1-1-x86_64.pkg.tar.xz",
+  "NAME": "gimagereader-gtk",
+  "BASE": "gimagereader",
+  "VERSION": "3.3.1-1",
+  "DESC": "Gtk front-end to tesseract-ocr",
+  "CSIZE": "480224",
+  "ISIZE": "1631232",
+  "MD5SUM": "c88d484262df19b1c3e6781765a2ea4d",
+  "SHA256SUM": "14d53c76a2f46dc1354706426bf0c6dc08baf8c169c3e995f59c4ff81b8ca5a8",
+  "PGPSIG": "iQEzBAABCAAdFiEEFRnVq6Zb9vwrc8dWek52CV2KUuQFAl1jsuYACgkQek52CV2KUuSQUggApYEhHM8PzbeC+t1Hz1XkDKKrluUbMkaKtQGw3gXFzchADl75PP6vO9ztW+onr6tiibsdAPQKlLwEDoEWCAqjjIMRzKIV53wYKeyoGTNhqM2WdsAxhmdebJi8G/5gdzebykW6CwOL9PMdcwPTJJ++wMWFaNyrR9If2yeKuK92Uc+H0voEJOa5vH8+ZKdN1Kyy4g2WyxXIw/lBbej+qaowh9slTswy88eaOAbDMXXW2l0MddfhYQkAF4Zusn4DXJtn/UD8ff8ZAXJguFehPmArgRQbdfrsn+vWlqS+SGGJLtPyeG64NWmI7aDvimEQqN8VLKUjYAtjEeaeuj05qb+v+A==",
+  "URL": "https://github.com/manisandro/gImageReader",
+  "LICENSE": "GPL3",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1566814849",
+  "PACKAGER": "Antonio Rojas <arojas@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "gimagereader-common",
+    "djvulibre",
+    "gtksourceviewmm",
+    "gtkspellmm",
+    "libxml++",
+    "libzip",
+    "podofo",
+    "poppler-glib",
+    "sane",
+    "tesseract"
+  ]
+}

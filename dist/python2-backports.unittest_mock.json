@@ -1,0 +1,24 @@
+{
+  "FILENAME": "python2-backports.unittest_mock-1.2.1-3-any.pkg.tar.zst",
+  "NAME": "python2-backports.unittest_mock",
+  "BASE": "python2-backports.unittest_mock",
+  "VERSION": "1.2.1-3",
+  "DESC": "Makes the “mock” module available as “unittest.mock”",
+  "CSIZE": "5432",
+  "ISIZE": "5655",
+  "MD5SUM": "4d539f2eae60211c7b28b907013f3b59",
+  "SHA256SUM": "838f7fa2a22071b53ae71dfbd756cfbb6da9025f21dda06f8ea0b5dd5afbd313",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl8EblcACgkQeGxj8zDXy5KcaxAAkGMcPIRxBmRrp2SVCIYZHlQeta2SWUxVkgw/6S7aePAXdVn91GFxepP9IlIpWFSrzJVeuexfPvTPCcGO3FC6NAJzLBwhV1FKoti6mruZMYeXMEKRIljCF/tjGTcDdjCbQ2wwJd17h2IHPaUThPA9mXWVCckNq4FvwVMa3a0up5nYvX6NO9KCdGTGfKaFiPa4KltHa1F4uak7IEPsuB+2OMeP8624ul9Sp8o1j0YpdDV9QJjHyw/kwr1zhXGhaQ03fbGh9ZaUmj59ClMv6zZ0LqcdEoH9pFcpl2kGaD9f7KaeUJNGSldIq8++JdW8OhhdTnP6qyigfqWvKv6dyYpCGRvoAW9Da/A9OvOPvXWfVAnRI9JojZsugxpn89Phc6DF3EtgSlv3x7T+UP55h6VOofgD19ApiJcj+1j1EHsIq37Z4d30j9nmoXjsmHBgWzKcowFxgINA4yRk1/rW331/uY+QGWSvT1/kgiUKbvVzwlAEiXlpsJzyRSVgORq4Ja40M3NrlElXhYakRMi/TndIiHhPbyfYeeIxZsereSGGdKkZ0oc1mh1PUTPwzpPQP0AH3Ev+ER8ABfo/6up0uAmN7qPn8JyBPyiuShZf85X8xcZdFX82+yaotdF8uWA7hYdeb3rgPl73pcGOloBd2f8/DlJcnRZgGSRDrFzLt7rBZrY=",
+  "URL": "https://github.com/jaraco/backports.unittest_mock",
+  "LICENSE": "PSF",
+  "ARCH": "any",
+  "BUILDDATE": "1594125892",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "python2-backports",
+    "python2-mock"
+  ]
+}

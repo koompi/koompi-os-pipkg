@@ -1,0 +1,24 @@
+{
+  "FILENAME": "python-markups-3.0.0-8-any.pkg.tar.zst",
+  "NAME": "python-markups",
+  "BASE": "python-markups",
+  "VERSION": "3.0.0-8",
+  "DESC": "Wrapper around various text markups",
+  "CSIZE": "18540",
+  "ISIZE": "61248",
+  "MD5SUM": "de873fad5edcdda623cd00277e3a3558",
+  "SHA256SUM": "d55f71c86256628c7b2bbaac8bb3ce86f3e69f487696f4e03a0f6bd0ee1e2efb",
+  "PGPSIG": "iQEzBAABCAAdFiEEFRnVq6Zb9vwrc8dWek52CV2KUuQFAl4TIhUACgkQek52CV2KUuTn7Qf+LBodMmzLzXFDbdieHrGD0GjrIWdQfbPAU1StkTWVdRjfgFuFSbUZXwPlWpPQMjkrEOTk/KQsLJjuzhPR1YeSVJX2sIaneGm4MAS02cb5ezmnQR4Cd7BWuYI2wBz67MGtQJOU7yDst9NiJQNr5kYd5gyVnGDaNOwyBMRGMq6+RY441UZxfaeK9BNmGdpVEISxkeRnWELfXLHSKQNWudWK8T+umyGhDSfld7TUhPjcD4DsP5FH/WGopxficvawvQ8eOcSDqWSS0syPrvgEAModSzR2Xy9vY962MD/NeHgx/0c49wQWhUdEmI8OQ9tTySnSddAzV+tvqNRgjRxZy/vsqw==",
+  "URL": "https://launchpad.net/python-markups",
+  "LICENSE": "BSD",
+  "ARCH": "any",
+  "BUILDDATE": "1578312178",
+  "PACKAGER": "Antonio Rojas <arojas@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "python-markdown-math",
+    "python-setuptools"
+  ]
+}

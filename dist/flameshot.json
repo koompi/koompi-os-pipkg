@@ -1,0 +1,24 @@
+{
+  "FILENAME": "flameshot-0.6.0-4-x86_64.pkg.tar.zst",
+  "NAME": "flameshot",
+  "BASE": "flameshot",
+  "VERSION": "0.6.0-4",
+  "DESC": "Powerful yet simple to use screenshot software",
+  "CSIZE": "279074",
+  "ISIZE": "985658",
+  "MD5SUM": "0b42fdfa8a2da1f83a9ff28ce5dfb1bc",
+  "SHA256SUM": "1366591e849ffa61f776c4b14ae53e697b234d53855b9f6cac4b66529a079bac",
+  "PGPSIG": "iQEzBAABCAAdFiEESx3lRagB1FSb/T/vkMs9YsE9R5YFAl6EwN4ACgkQkMs9YsE9R5YJ3Qf+JO6ho/OPvyU/PXwNNpXsrklYr9Uf8BwnHLpksLglTE1mwp2TlTjgKY81ythK7KiROXTAez90F9PHoJkW+jEGVS8FN/6q/92uU0FuKuAcaV4/8e6l6B3OCe8Yb56Jlxr2dk7fYKkSG3EBXjfEdpFMBCeHDzy5Lw/D2u6ZQmksLkFpQsxhEYGt1Ehd1mcf/Cxad+TAFay6VyqGOx7mkr83QIopt3MzsZXi6sDDi5I86BZp6qxWxuQe2NmEGUEhfhH9HBQeycgil0RqBjML7Fa0BKtPqdE6ir/5017KhrnLB2hKa7F7L2w705ic78MSONbFYeT4ewqrtLfrU0VBImfDpA==",
+  "URL": "https://github.com/lupoDharkael/flameshot",
+  "LICENSE": "GPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1585758209",
+  "PACKAGER": "Jiachen Yang <farseerfc@gmail.com>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "qt5-svg",
+    "hicolor-icon-theme"
+  ]
+}

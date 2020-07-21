@@ -1,0 +1,26 @@
+{
+  "FILENAME": "haskell-chasingbottoms-1.3.1.9-2-x86_64.pkg.tar.zst",
+  "NAME": "haskell-chasingbottoms",
+  "BASE": "haskell-chasingbottoms",
+  "VERSION": "1.3.1.9-2",
+  "DESC": "For testing partial and infinite values",
+  "CSIZE": "95860",
+  "ISIZE": "443823",
+  "MD5SUM": "95bc5801251a4941abaf9adf3934d89c",
+  "SHA256SUM": "bca4ab5e2ddb10f99f3c478f9178cf7d9a5bf97e74cb45b662670f741166c03f",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl75AccACgkQeGxj8zDXy5JvWQ//QygcoAQ2Jr9mBJ9RglPG2aUC6+lYC1oWJn4JNDigu/N1XEyOQ4Lo8SsXrcVTUKyfdwsmW4b4f2Co+r4UsqiqVU3vf5hieYq77R/RQOsghJxDdfT9EbAO/DgEk1nsh96snJcg7gTeqUxniKLqkQnh8TjfhKxvJsh7bgVJ9gJ/EuOJsas4tnL3j+gEGAxXDz75H8dPzmX30rJ0dUlahQJd8W2FXCLJWmSfEUwbmSDh0Z9pri3nJxf+bMs0wbZMcIpcgZCv9YSZmg3JYtgH8BPe73kU6JejUxynHsfeUp9GCbZdUtxZ66YhAdDE7lyMnyC1cAQdZhIvYsMTJm1iY1HddmL8UHNUv+64r1rLQ9YoIVoFDmrnGKdnq3xLhjyC/BfRKxBdcNqPGNT9qW49abY1RqAzbp5l+TE7mVTL/ZpCSgPi6fW3FggxeTzzzsRTSDf4fx63h6FmODiRKQ4CAJy1VsaBjTvqUv1zWpYhO0O4LoRSSB49h1z7m+N7d2FxypAIn6jgPoEgOYXx8FgfjqLZ+Im7M8IQWdZGAvLieXYpEKbKS5bBCwADGzmr4eZv3Aq1vXPSQSzJlQDb7fsSfq20F1BDPAmUMwW3Wo+DJjfSRE9H3UGy78FVuLtsZ+aduv8Eh3C7fj+a+2ZNJltQAsrz8bU4zXgukq5LZvWJMLgX1+c=",
+  "URL": "https://hackage.haskell.org/package/ChasingBottoms",
+  "LICENSE": "MIT",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1593377187",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "ghc-libs",
+    "haskell-quickcheck",
+    "haskell-random",
+    "haskell-syb"
+  ]
+}

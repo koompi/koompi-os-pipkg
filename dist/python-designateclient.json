@@ -1,0 +1,33 @@
+{
+  "FILENAME": "python-designateclient-4.0.0-1-any.pkg.tar.zst",
+  "NAME": "python-designateclient",
+  "BASE": "python-designateclient",
+  "VERSION": "4.0.0-1",
+  "DESC": "OpenStack DNS-as-a-Service - Client",
+  "CSIZE": "97594",
+  "ISIZE": "631426",
+  "MD5SUM": "b4be6f323081484f83dd0c8d430eba9d",
+  "SHA256SUM": "61bf97fb06bc0b345960e6e9ee592135ade0ab8820a2a9685702d7ac87e19ae2",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl72S7MACgkQeGxj8zDXy5JLsg//RjGeHDBT0fL2gQ9zr+zx3MZu0VkkMjd2XNFjmjENjA6/V5bjljETMyAG2vPVrwDS11Zc/dDlCwPTwBoRhZ+a6Bg1ZWNZ+Is+UhU5ZBdKY1FaFmn9tkA+WaHXmbevyoyUlK5S+8txmVP8smbBpsxmroF7UDZYxeKn1IopMZHbJ8fzNhfS6wYkQ0b0jxEbI2JfT2CtzExqBC9T+DUO2psEuK2H6MjLR7BDFtm8ZsC9w5uq0ZSRyjgktEF5tcl63QvORg16ESdERjsKZZ5m3bclNMoZx0NbbjVL+ZJV2HdBcbbnS9AoGVNGdiRtufkp2jdL6vR6/J2RXrW+vbUJ+yqc7N0uPgF3T4bA4da2b1kdCixI8OtbENVUOb6qQIWuJPvRIK6nuXDBwJ0lt/vXPpVnoV3eqUOFEk30nnoZbbLL7ZoE0UyjEAboK9PRU/gDGKApT1NfABjsVkjFRHIUZbBFcOiNQhq1p97erNvlFzjkVfPsHnd6BGuWGfL1RnRiVsYi48P4GbL8NYSPuFmRVryy0raWX89EKz33aBhxraS2jQQilb7JKbkVCFuUc5s4hkwzLOxaY5fnMNxyQWng6CWQEGJSslydEGIKrn6QWq7rX2I+SO5ASI55x/bf5kxbPDwSLp7WGr0Gegd35rU3wF8FwVIbFpbjR8jZTqa8+t8oezw=",
+  "URL": "https://docs.openstack.org/python-designateclient/latest/",
+  "LICENSE": "Apache",
+  "ARCH": "any",
+  "BUILDDATE": "1593199489",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "python-cliff",
+    "python-jsonschema",
+    "python-osc-lib",
+    "python-oslo-serialization",
+    "python-oslo-utils",
+    "python-pbr",
+    "python-keystoneauth1",
+    "python-requests",
+    "python-six",
+    "python-stevedore",
+    "python-debtcollector"
+  ]
+}

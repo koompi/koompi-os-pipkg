@@ -1,0 +1,25 @@
+{
+  "FILENAME": "opencsg-1.4.2-3-x86_64.pkg.tar.zst",
+  "NAME": "opencsg",
+  "BASE": "opencsg",
+  "VERSION": "1.4.2-3",
+  "DESC": "Library for image-based CSG rendering using OpenGL.",
+  "CSIZE": "47980",
+  "ISIZE": "131799",
+  "MD5SUM": "7bdcff789a5c6c5b362d0ca0c3226c96",
+  "SHA256SUM": "0a1af219f9656484a6c58be111d11c42bd3c3f757043d58d8450bf03796c6939",
+  "PGPSIG": "iQEzBAABCAAdFiEEhs/8qRjPOvRxR1iAUeixSKmZnDQFAl6kGiAACgkQUeixSKmZnDR0fgf+K8nu0F+tyZgdSSVRNT+6EQl1WpK/MurJH4mc5GXB+QNMDthYgxlZY2dJ+pnyWuRPyQkfAd+HM+39goCnUKtGrjo5h6rNQwuZ2SOsq5tAJs/VYTzzERo39zlaTHxVLq9NyK5W8G7OQL+th7Dn784S4p85y7M1U1N+y1ClAqHR45TE4XKGeN/1ENyt7634GPFpLq2vY+6rhCxbuVGGx+rhaO6YHkkE9UvabMR4ltbjLfU98FweNYwVWMeuk9dWelXsHjJ0iv5u5J+CGqnNKScpwTckISgcC9sRVSBzDxsSWj026gjmRBPb//8BjC+hxA9w2rEl7wrZi3JUsdYDAOt1Yg==",
+  "URL": "http://www.opencsg.org",
+  "LICENSE": "GPL2",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1587812876",
+  "PACKAGER": "Evangelos Foutras <evangelos@foutrelis.com>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "glew",
+    "glut",
+    "libgl"
+  ]
+}

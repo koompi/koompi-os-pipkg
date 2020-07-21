@@ -1,0 +1,23 @@
+{
+  "FILENAME": "haskell-pid1-0.1.2.0-16-x86_64.pkg.tar.zst",
+  "NAME": "haskell-pid1",
+  "BASE": "haskell-pid1",
+  "VERSION": "0.1.2.0-16",
+  "DESC": "Do signal handling and orphan reaping for Unix PID1 init processes",
+  "CSIZE": "24448",
+  "ISIZE": "90757",
+  "MD5SUM": "ca74a9a844e7776e82632577ea2e0e28",
+  "SHA256SUM": "fba757635e3966b09c8cdfb63c51e2fa4857781ae948ecdc78248bf0f5d46c40",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl6hoG4ACgkQeGxj8zDXy5K/KQ//czXhH+3ELwTo+onf8+OavYS1JXj4ZahuOZKpPXf5NKx1MQ+s+KcQC1Ekw1atlonsVN7Vlg6sG6c2Ev0sNYDdZSe8O9eAyx9b3Jpde1fbn4Aibl9FtjLSderZ7w1lan/DQZ/4UY5YL3/o3482NAH6/qpdrG9fESatZppjlEwpNDpLbD3Tv0X05DYGkoyAKLsZPG1D9EfPnpf7h8fTzhBy5w9fwClouQx46BYYq7I3GNRtsR8zvPe7Q1dJl23cW0NTG7N9ImxWWqqnGNnp5OQDlzpzTQAraQ2aY3Wn9CSoiSDEqHLclhfGfoncP6UbRz3ggxSRQ/ZnZhcjKsRH49ZHc8WrBKfryZDXWLFAFjmc4m5hrncPdb9n0Xpsqq/ReJYpmJee1OtH8Rc7NuAFdOjZ1BZWR2ivcH2V5bJwncZTKH8b/8YtritO3SjeIrCU5NAmyGShPQeDN4UNxID7J9plBJzpvT2M4UxHNWPWshx9nEv6paN63+EX00EyYVUS8U6QwkTwmOAp76I62j6JlaZUQTfNfuVfSlVh6xdydOu/vIurvk0+Mz6tbasW0BrNrI2y+NfiVlpGHlo61AqyhNiL9PykYlfpIVLiB1m+Cj1ZnPFhalJbrMDIlXEmuwDjeC5IEI03Pku1WN7+18sasCGB7WLmFcBz1w5eIisBN+UO614=",
+  "URL": "https://github.com/fpco/pid1",
+  "LICENSE": "MIT",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1587650582",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "ghc-libs"
+  ]
+}

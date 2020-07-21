@@ -1,0 +1,26 @@
+{
+  "FILENAME": "lxqt-admin-0.15.0-1-x86_64.pkg.tar.zst",
+  "NAME": "lxqt-admin",
+  "BASE": "lxqt-admin",
+  "VERSION": "0.15.0-1",
+  "DESC": "LXQt system administration tool.",
+  "CSIZE": "89000",
+  "ISIZE": "386657",
+  "MD5SUM": "7ea245fb0b94f8a9a45995349a2a9557",
+  "SHA256SUM": "2ec7aef23654f2798f04508b50700ea1c34c13baaafb7dc69bd287f7cbdc3d63",
+  "PGPSIG": "iHQEABEIAB0WIQS5AcQXHI3QLG8vSWv5jvKnsKCYrgUCXqOqqAAKCRD5jvKnsKCYrsajAQCuyLyLbL2AdOLo/q3QHrPh0VDNBgFtUG0VAnLM7sVyagD43g4gmnPcuqvxzRMdEODBde6uBpA/nzydTvkKU1xeKQ==",
+  "URL": "https://lxqt.org",
+  "LICENSE": "LGPL2.1",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1587784285",
+  "PACKAGER": "Chih-Hsuan Yen <yan12125@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "qt5-base",
+    "liblxqt",
+    "kwindowsystem",
+    "polkit-qt5"
+  ]
+}

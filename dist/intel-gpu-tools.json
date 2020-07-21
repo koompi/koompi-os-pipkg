@@ -1,0 +1,33 @@
+{
+  "FILENAME": "intel-gpu-tools-1.25-2-x86_64.pkg.tar.zst",
+  "NAME": "intel-gpu-tools",
+  "BASE": "intel-gpu-tools",
+  "VERSION": "1.25-2",
+  "DESC": "Tools for development and testing of the Intel DRM driver",
+  "CSIZE": "2014128",
+  "ISIZE": "11670847",
+  "MD5SUM": "4145f47afe32a45ddae530038fd8a0da",
+  "SHA256SUM": "9764b535c4e773cea692c46ee4c2d78062829d16d5b3448a4197590c4a1b32e9",
+  "PGPSIG": "iQEzBAABCAAdFiEEhs/8qRjPOvRxR1iAUeixSKmZnDQFAl6kUN4ACgkQUeixSKmZnDTtVgf/X21J3bjFlpY039d1OQZtDtEZ9LnDlaOfPvsGnjVi4nGkXqgu5I3AAxpmbAUGrvA2IvnB5WwOJ3KgXYm7Tk/QVNIgDn237Ow7tl5+W7bdPDW8KmplnwEMdzmbQLTy6Lf2Uv3b9gSMDAHrS3MXbLeapSAloVD/maCliHk8JLIKKLnnLQf2D8Ky4L42cp8NmcDMfg/t0BA/C3dkpF8vn4tLJtON9qC0hAdWZ+Ruwh3dJkMnSmfjfvAjTa70ApM1GYLKlhWM1+nYQKvtWMiAa224sjYX5gfYX7sHrgSx7itlrAKk0/Xs5pTKrDP++4EwqLzHfxcRqthP79sg9X0WsVEqTw==",
+  "URL": "https://gitlab.freedesktop.org/drm/igt-gpu-tools",
+  "LICENSE": "MIT",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1587825529",
+  "PACKAGER": "Evangelos Foutras <evangelos@foutrelis.com>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "libdrm",
+    "libpciaccess",
+    "cairo",
+    "python",
+    "xorg-xrandr",
+    "procps-ng",
+    "kmod",
+    "libxv",
+    "libunwind",
+    "peg",
+    "systemd"
+  ]
+}

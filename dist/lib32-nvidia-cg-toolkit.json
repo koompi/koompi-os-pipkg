@@ -1,0 +1,25 @@
+{
+  "FILENAME": "lib32-nvidia-cg-toolkit-3.1-7-x86_64.pkg.tar.xz",
+  "NAME": "lib32-nvidia-cg-toolkit",
+  "BASE": "lib32-nvidia-cg-toolkit",
+  "VERSION": "3.1-7",
+  "DESC": "NVIDIA Cg libraries",
+  "CSIZE": "1964520",
+  "ISIZE": "12328960",
+  "MD5SUM": "294ef000fdc90052df6031eaf273f049",
+  "SHA256SUM": "290bf27d15f30e3c66dc53bfe24d46da6ed864a264cff50f9c8fa15421af91a1",
+  "PGPSIG": "iQEzBAABCAAdFiEElDfdOBWnqRaePTlGr/XZUJi8b/UFAlyHewwACgkQr/XZUJi8b/UCnQf+KXB4k4uDd+RwCGqiF0x7vh7uq9jEjM2ROJ67kkYRfNmQpETHJjBC2EaagdiIrlgr+VHWZsNDXofjOxpA9QsgHXAxdYm5qINheloptF6VFpr/qtA5sPtsCkNMukumyp8xtWLNmiZpkWz+6O0W/A5ZFkIYMBXVBGmSLdVEZmbKInP3rtj3YD9X1zEXkOe+AXwNZpE1eMYfitzYiEDlnXFpkx+EpDB1GKpQ18czPkJJguWfAW9ObLRBfths0r5OQLD0ctB3Yh+yHoyZjfLA8rCOWWy3BJ+U5vhgrbEnk22aAxLvnQFE9oLP+mB3s2BxSOOdtVpklIqgd6hclDOjajpfCA==",
+  "URL": "https://developer.nvidia.com/object/cg_toolkit.html",
+  "LICENSE": "custom",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1552382651",
+  "PACKAGER": "Maxime Gauduin <alucryd@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "lib32-glibc",
+    "lib32-libgl",
+    "nvidia-cg-toolkit"
+  ]
+}

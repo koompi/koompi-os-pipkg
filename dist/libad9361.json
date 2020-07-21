@@ -1,0 +1,23 @@
+{
+  "FILENAME": "libad9361-0.2-2-x86_64.pkg.tar.zst",
+  "NAME": "libad9361",
+  "BASE": "libad9361",
+  "VERSION": "0.2-2",
+  "DESC": "IIO AD9361 library for filter design and handling, multi-chip sync, etc.",
+  "CSIZE": "228056",
+  "ISIZE": "1047672",
+  "MD5SUM": "92d26c4183f4216c65ce8066ec8b369d",
+  "SHA256SUM": "6423adc429515666f8aae01d698279cb2bc243021e891fa1b52197f4d2e5d3b4",
+  "PGPSIG": "iQIzBAABCAAdFiEE0jW0leqs33gyftiw+JPGdIFqqV0FAl5lCaQACgkQ+JPGdIFqqV1NpA/+PqJtzFfDwscgqhp5TwGQ6mabKUjB1zAiXr/WmjefoCLQjOCaRPL/jp93ejgaoTlpMychyBtBTohZ1gtiND7gQjEs15jUM4f8D5RGsfUzG9D/T96HVcaxcsPzgF3Fj2oPt8zD0O2WUku5ayHHdFaODh/9qmXcq9CDE8RtggtDBOU45eBmripsya3otX9H/qFFOQ6z32/xAO0FzK5NNcBBFT2y2xWcdICIxlqKsqUcfEPG3uqugB79t6J0Z8SA/Kp/JHlEzMgB492HUzS3her7poOXwLU9yVBuYjY6AheFaksA30WRBDzMmpzEIRH4OwpiIHiXBu1hW49j0fycMYnlwkBgmEQK7/++pvh53UDkLttjDfgKcWea20kVYUIviAEgxjqvzy9R6a9KpoVMNpr7m65nHzAThFnle8AQAKv9M2MgivVnwcVUSZN+HlZElQgvB/dxvuHq/A3ZiRwLnVHWU8VOhkF/PMuoKkZroW+LLXaqxJZs/iXPo/WgT4QWvh/fx/xTCm5pIx7scEuWEGjKNDQumSoPSeSoZCAbqjYimng21dQUfPJbKwj/7HvQ6GEE+CkCPfQAEbj6gAJ6J26RWQXqFHjU7l4xv8PhbCLI6c4rySlUNs4O8wQaGgRA9mXeWzMx5Tb7hyjLXQ9rPS7WCJ6b9Il4kWcZwJxvndh58dY=",
+  "URL": "https://github.com/analogdevicesinc/libad9361-iio",
+  "LICENSE": "LGPL2.1",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1583679818",
+  "PACKAGER": "Filipe Laíns <lains@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "libiio"
+  ]
+}

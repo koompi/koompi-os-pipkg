@@ -1,0 +1,24 @@
+{
+  "FILENAME": "llvm9-9.0.1-1-x86_64.pkg.tar.zst",
+  "NAME": "llvm9",
+  "BASE": "llvm9",
+  "VERSION": "9.0.1-1",
+  "DESC": "Collection of modular and reusable compiler and toolchain technologies",
+  "CSIZE": "34942258",
+  "ISIZE": "221313071",
+  "MD5SUM": "4df42ff9510cb56878267b4774b1f30c",
+  "SHA256SUM": "36521ec8e801198480ad63b03eaa1a624d41c902f36f8e842dd2cfbc0b8df246",
+  "PGPSIG": "iQEzBAABCAAdFiEEhs/8qRjPOvRxR1iAUeixSKmZnDQFAl6Tx7gACgkQUeixSKmZnDS/QQgAhh6MU8cI1YSBrT2zNpu++kgmCeKjsdC+73So11MPlCn6WWKunhSPa0aQ8xbIULvlyIRNzQNXp9xaE5Xi4bL4sTfiFFSIqeWZI6S0Ka2iJcTqnbTk/vn6pN899QggCmqId1M+N71f43P5VAfJmhF+Ns1pYr7OxxbHNzC5eMwhcbjfjUWIyDP/8FgL97e/5R3eI8Zz1+TwIvOly5RbPmPrurFuvNpbsXy03iXgeWQnhAsbEcNByytO9xRc9V8U4C8kbte5nQrpzkiIb23hHNzYLi85/eMCZ7gBh6WczlVoEEQkIMG2n48bYv4mT2h2mpJ7z/cd6Pb3ihA1Oe9b/MP1kQ==",
+  "URL": "https://llvm.org/",
+  "LICENSE": "custom:Apache 2.0 with LLVM Exception",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1586742803",
+  "PACKAGER": "Evangelos Foutras <evangelos@foutrelis.com>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "llvm9-libs",
+    "perl"
+  ]
+}

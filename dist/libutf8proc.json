@@ -1,0 +1,23 @@
+{
+  "FILENAME": "libutf8proc-2.5.0-2-x86_64.pkg.tar.zst",
+  "NAME": "libutf8proc",
+  "BASE": "libutf8proc",
+  "VERSION": "2.5.0-2",
+  "DESC": "C library for processing UTF-8 encoded Unicode strings",
+  "CSIZE": "72030",
+  "ISIZE": "344819",
+  "MD5SUM": "af943a7eacee788d0feacc6e249e3737",
+  "SHA256SUM": "43a17e620dcf71674116c1a0b5ca568b1e0a3a99c4625ac1468c48c7f1d965e8",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl8EuRwACgkQeGxj8zDXy5J8LRAArZgqKgZCcwJBLLJazhsogMP/iTmGOV91CU9E/j/CtPapYhyG5psqH5ceQZIijX8J4mWmDEY6kwrNQgb/e3pvQgW5MjUSbh5OFkS7Xn2S5PfngVOwVRtKpzds6A+glaqs/JDli9sfbixFNDSQ15U7oep6B0H98tMrAyFqmWQTm0AH+vATEAxyXKvx3ySnNDci6sGGrnjn1R8hhvHbNcqF1+KIsI3Tzi8sXeF/DTZ1bqA/9ZxoybjMvlQ4EqDeN7ABdHEGLGjtB5qVwZ7My9VUbvkSJGZz+m20vSWJtItHEZ2Hv5Uzt/jEfZGF64+InrXhNqCXx6YbpzqdCADBc6l93X96oycPo9yfNbyu5++nDj1xQzah/KFdq0tHsnEt3G+lla0hFvGR4qwJ/irfxXYQV8F9qxnUJ3Ym0m1Ou2H4jyiFCmbKqSD+9mMwYPpkFLExp08JDg6UJb3uq8iDj397z99DP+kZAy8s+L7MzciKggS1kbCsDAz5fUOZHhBeYCgKgJZIH1VeGL/ZqKkxNO0d+53Um3RkMV4l5oYG1w7BJH5b4y64NBJVPX8Q+DB6KGkqqKoclSZLaBQzZ4at8/Og7LXopxhMMjjJaMmblB2FByjtnGrfNvH2mH5it+bXSw6OurXhHvlUQ/WlXUv+zDq797IyWFt62Bh3+CU+DnNuhkw=",
+  "URL": "https://github.com/JuliaStrings/utf8proc",
+  "LICENSE": "custom",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1594144759",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    ""
+  ]
+}

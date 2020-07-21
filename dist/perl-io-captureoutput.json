@@ -1,0 +1,23 @@
+{
+  "FILENAME": "perl-io-captureoutput-1.1105-2-any.pkg.tar.zst",
+  "NAME": "perl-io-captureoutput",
+  "BASE": "perl-io-captureoutput",
+  "VERSION": "1.1105-2",
+  "DESC": "capture STDOUT and STDERR from Perl code, subprocesses or XS",
+  "CSIZE": "11564",
+  "ISIZE": "18106",
+  "MD5SUM": "125bd2297023ebaa2997c0191859c124",
+  "SHA256SUM": "86e3b572c6d8c67355e087989448a7782700dcf12b28fcf35f50145fb53b8a60",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl7vhdQACgkQeGxj8zDXy5JmiA//Qirx8rb+BV3aqzVK42UvzSIwdTFa5GDQ+eiwuwYZbOXWeacCNtRF79LB1iX8pZPuYZUi6kYLzDhe2f0ffP+4QhIKfaisctSS9gw+K7b0aA3LhnyqnbmfMhXKaJitdnT287slfscc/Mu4sXFBG0IKI4RRLkHOUA+B53pnD/bU+AhZDLJo2deo3d111PP+FE+WD5SrwwMAJIiO92KhcfTW7pGE4/n6kklEVhpbaI+gdPWutN9kU34bFKVCfFVSHF1qdm91702jPAYln0BXPgqdecog1hng002PAdirO+55avI8IrTUT8wmWT/ik9GWOYzMIC5XRN4I0BatT8t8w2uKo5kLXtzFzZ2r04ZQ40uicbWH/12Oi9k9xdEzo8tlsCnifXiae9KzsYofa7Vl+xz2WIk53Qj4uOA/+n+c7yZ4FAdu209JmP0fmM08K3hJx5uqOjj4lciWwGhmQIhi+O4j8KT1cR3M+nL8SfbMAESrPKyVpzS8pwuDiCjEMsz053kxt8Qc+0TSI4t6LETiShqUoMa/QiDh6YxXJX+5hGlpfbiiU6qoh2arUAh3Ti2VBX4tmyDSlkH8VJ6dajh75xYTmlhHdUsxfrmdx1CcHStct5699bDuIVa4eh/PPGyGO7WXbQEya75jPDuTtROdcnmELjpHbCw791av6fYPkuV5hI0=",
+  "URL": "https://search.cpan.org/dist/IO-CaptureOutput",
+  "LICENSE": "PerlArtistic",
+  "ARCH": "any",
+  "BUILDDATE": "1592755633",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "perl"
+  ]
+}

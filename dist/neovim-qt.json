@@ -1,0 +1,25 @@
+{
+  "FILENAME": "neovim-qt-0.2.16.1-1-x86_64.pkg.tar.zst",
+  "NAME": "neovim-qt",
+  "BASE": "neovim-qt",
+  "VERSION": "0.2.16.1-1",
+  "DESC": "GUI for Neovim",
+  "CSIZE": "817511",
+  "ISIZE": "3696734",
+  "MD5SUM": "fd7170125a48a2f6d09d7389fb878653",
+  "SHA256SUM": "99597b758757222040c172c7e54b6a0474122f17a89e9e226135838c927e4e6a",
+  "PGPSIG": "iQEzBAABCAAdFiEElihV8HLHoBhGQFhk/PPIy1z5yNQFAl7zHRcACgkQ/PPIy1z5yNTqGgf/Z4fiUgiYuqZBO7PRtmWjxzwXBQljfgRXhRbHiskjcpnhscV6eOw9prCHuyyfWrwUwCDjBTI8Z3CsG+yuPUPjh/DZXGXZ9q8yYTeRo4zVrDO7uuUeTewTRN6K37aFO1zpq8iqSnjftoddlkDeV/t2IHOIKIVUBRcuPFM4xctQifqkYDshbZle31JIQw5H16CBWCm1eAoktYx6Z3RAvLB5S1mAaNjZPxEhKboJUaNSa2lIP9IR8nAJG63hUyNIW5KDxCQ2xv4+VdStnaxvbfyIngP7wagR32AU24IIsBUsVI6jQ6BnooBkor0cBFG0tVLo+N1lSHfbSdz90zBslglqaQ==",
+  "URL": "https://github.com/equalsraf/neovim-qt",
+  "LICENSE": "ISC",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1592990741",
+  "PACKAGER": "Alexander Rødseth <rodseth@gmail.com>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "neovim",
+    "qt5-svg",
+    "hicolor-icon-theme"
+  ]
+}

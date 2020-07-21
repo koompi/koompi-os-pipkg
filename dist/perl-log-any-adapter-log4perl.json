@@ -1,0 +1,25 @@
+{
+  "FILENAME": "perl-log-any-adapter-log4perl-0.09-3-any.pkg.tar.zst",
+  "NAME": "perl-log-any-adapter-log4perl",
+  "BASE": "perl-log-any-adapter-log4perl",
+  "VERSION": "0.09-3",
+  "DESC": "Log::Any adapter for Log::Log4perl",
+  "CSIZE": "6325",
+  "ISIZE": "5405",
+  "MD5SUM": "391030922e7c51c46e7bc93c70729ba7",
+  "SHA256SUM": "cdb0e11de52e2da92d56ba49ca2ad43058e025f6b8e682a383ef7c9e4b872afc",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl7vOGMACgkQeGxj8zDXy5JiTBAAmk7RajstTsJU8RtQLlGkfeMFJl6W3YWJOLriTAYZq6jpy/pM6lY8YN1RsygLHDse4vF1v6x/OtxLCpBLfN5kUGNwVxTI+0qVmFsJu/pME6k5zIOhwpku+CGPGnEhEGRWGLSIwKG5Vyo6E0aSjVxDFWHXIdOBhPsjupFuDMyvnnrCKbKNsWQiE5avWXQV2rkZmVNOt6GfcyVfaQKDRDb1REeEeNDHPo4jO/y6GslqkU+o99PCarqbYlBfJxwOfcF9dmvM2QpME2mXRpFpOU+2EtVLoqT+qDbVhy2zw4dl4f6ytJJZUJyE2eJfWzRZugCGCx1/fXCNR34pwwqLMNopu8aqvSuAjau2UOgZsoKsd6bwlK9dGJCLXKTM8bbfpnxWTbDJ3g4Tce5B4aB3qjGLofF9bIDjHQKUZdirr0NBurFCF8T6Kk5TmXxsxf4XTQJSrDUanXzyKDQ2s55uX3xQPqLe3xo/hpT3NlKQNj0OWUxxdGWWv98ufkYhJrNzBc3ayFJfdnygA9LGjUE39KhTA4V2bigzr2eINgR8n4dVofNubmVHUco/ysnWw69hzzwYON/6ZPoknNtgPVq0bcywAkThYT3+oBaOt992bPRraMalusC2+MhFGOqlRtkxoL/Mps9dI7BOkEXguLtZBYWU9gVf7r4PXyqygh+lcm2ExCo=",
+  "URL": "https://metacpan.org/release/Log-Any-Adapter-Log4perl",
+  "LICENSE": "PerlArtistic",
+  "ARCH": "any",
+  "BUILDDATE": "1592735817",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "perl>=5.6",
+    "perl-log-any",
+    "perl-log-log4perl>=1.32"
+  ]
+}

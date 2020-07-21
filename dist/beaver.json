@@ -1,0 +1,24 @@
+{
+  "FILENAME": "beaver-0.4.1-5-x86_64.pkg.tar.xz",
+  "NAME": "beaver",
+  "BASE": "beaver",
+  "VERSION": "0.4.1-5",
+  "DESC": "Beaver is an Early AdVanced EditoR.",
+  "CSIZE": "120708",
+  "ISIZE": "456704",
+  "MD5SUM": "bbfd9c4f0d81c6a40ee52633db9627ec",
+  "SHA256SUM": "25347ebe9b4ef7e6919171c139362ff1806b228b709c0d93dc4bec890ff133e7",
+  "PGPSIG": "iQEzBAABCAAdFiEEhs/8qRjPOvRxR1iAUeixSKmZnDQFAlvl/tAACgkQUeixSKmZnDRE9Qf/etJAK1SbvKRJLcCVxfC/z2H0uaCix0t/W0dMC/boH+/Tux4QQ8thVhiKS7DfB2fuVSLzQtzU/t/FaimT1vU53gisbcqsFZjfn85Hl0yw/kFo2rq3mgQEcF5iRblwsIYxr9GowmdyEB5JmK/X1+SUzNxL5tTAIskNORiEJ+6uYfD4KmaG6pvQIkPuD5wtc9rQ/CQXSI6x6WqANg2pMiunN6Wqp119KZt71/9P3McSLKxW1rilwKhzOVLHWBAgefNj1CCjL/YzT6iypGnnOd2J5HYgSp//95uhH2AlXoXeqIZngTGAvkRwp2kAl8txoo4pz9JmvhabBL3gm+2p2PA3RA==",
+  "URL": "http://beaver-editor.sourceforge.net/",
+  "LICENSE": "GPL2",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1541799603",
+  "PACKAGER": "Evangelos Foutras <evangelos@foutrelis.com>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "gtk2",
+    "hicolor-icon-theme"
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "FILENAME": "php-snmp-7.4.8-2-x86_64.pkg.tar.zst",
+  "NAME": "php-snmp",
+  "BASE": "php",
+  "VERSION": "7.4.8-2",
+  "DESC": "snmp module for PHP",
+  "CSIZE": "19409",
+  "ISIZE": "55224",
+  "MD5SUM": "fb7cc32db20045fb1a8f8d309748f20e",
+  "SHA256SUM": "aabd13ce9387e12300720c89c0f9865d5135ec3f54ab0c0890cc95f2fe963a07",
+  "PGPSIG": "iQEzBAABCAAdFiEESqR2e7ycSx0Yrii3fy1DS5dB6KwFAl8IPMQACgkQfy1DS5dB6KydrAf/X1KLMrMwZxIaRxd6ZIhpznfxayqK6XPfrx/w6UO3HBK170Zb5BlykvBvGRv3MQIHn/P8DbIRvVA/VTh2O986Q75q3fwR8AtWI2llDFY7dp8xRO3AfE4frNTprUQmdMsMeAzYhX8kLixJSYGPiCGMPKEL2WTamLc2Os+L9fCVyw6vFtp9j750d/mtOwdRRiAZYTnMjFLj6AtKsKBOf76lbh+l/aYcdzBNjBoUHtE2a66VjZa9BkiyrSV2TzjHkzByArBgZnSo7iakxq/RGVIjj8O8Mrkk3APirU80DXVYoe8m0yTA3oYsuZ+JErX66BEjSWYoRxR4edj0oDcWyD9fWw==",
+  "URL": "https://www.php.net/",
+  "LICENSE": "PHP",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1594375162",
+  "PACKAGER": "Pierre Schmitz <pierre@archlinux.de>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "php",
+    "net-snmp"
+  ]
+}

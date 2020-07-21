@@ -1,0 +1,26 @@
+{
+  "FILENAME": "kamoso-20.04.3-1-x86_64.pkg.tar.zst",
+  "NAME": "kamoso",
+  "BASE": "kamoso",
+  "VERSION": "20.04.3-1",
+  "DESC": "A webcam recorder from KDE community",
+  "CSIZE": "267375",
+  "ISIZE": "643305",
+  "MD5SUM": "e30bebe975ba94d357378be2359d5970",
+  "SHA256SUM": "3b33a3db43114cd50a5b491f0d0cc58c1c945a66b3989414e1209d1e754e6600",
+  "PGPSIG": "iQEzBAABCAAdFiEEFRnVq6Zb9vwrc8dWek52CV2KUuQFAl8HBuEACgkQek52CV2KUuQQjwgAhvfHhdQDV8ehts1FYvXRESHROmuX6/30kIvXx/KJ4CScH79MT6veBgOZ5dgNPf6fgL+ZeQY6pthAJoPWzXuBp0nj8AhzReYbkMoo23NT2og1Q9bpF9Z1hSn+auPQryudIL9ES/2qwrHYUerdOKPyyxYjIWlRGB5M7yQsX6sQL9wy73+aqCcoHdX1B+CmFqvqwMkY0erdT/gO3am6tdx2YMgJ681JGaQS/bHIAb0oWO4OwFdLD/qIxWLANBmBpxRe70RiqRgs47+tJV+sry1yb0voPrQOEGurrq556oAsG5q3KvuhNwhl7dyjCHSeuKksN42Lbhljr2oacs7J1j8lng==",
+  "URL": "https://userbase.kde.org/Kamoso",
+  "LICENSE": "GPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1594110572",
+  "PACKAGER": "Antonio Rojas <arojas@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "purpose",
+    "gst-plugins-good",
+    "gst-plugins-bad",
+    "kirigami2"
+  ]
+}

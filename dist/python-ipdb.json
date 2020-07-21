@@ -1,0 +1,23 @@
+{
+  "FILENAME": "python-ipdb-0.13.3-1-any.pkg.tar.zst",
+  "NAME": "python-ipdb",
+  "BASE": "python-ipdb",
+  "VERSION": "0.13.3-1",
+  "DESC": "IPython-enabled pdb",
+  "CSIZE": "16516",
+  "ISIZE": "45728",
+  "MD5SUM": "86385426be1163ae5e526249a6bc2dc8",
+  "SHA256SUM": "22147b1f5bb3d0269b82fb577a9c6519bebf5776172387adaa2bb1ef7aba91d7",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl7yRTEACgkQeGxj8zDXy5KpsQ/+L2jaM9LMMIjnK9OiJ0plaMERr8w4nkWDdEUtrCkdfxLR5jOPZYnyhsib53PfI9acGtT/WEvRMC+75IRVLpiNWELw3OFBoCzbOJlcugVTl0dA+GrV5DutSmzpBBMlHh7JdrEAETRd5WHbbomVVm/w4cRDyZ3zk21Mqj76O166cE66Ih3nFB6KwgSvZC0BAe/eP+faDhQpsp5YvA5wV9bW8pHfS5+FTkOtXVlcrON2ArxR0HvigUmCSf+j3FJierB2wUwc14rhllDHKcxvJ3Qpq/yBhuII1RtioA5F+8Xb4X8iAAzEFjy+mVZgsf3BAxu18XpdzktLmnJ2doi6yX1J11dPEwXL0nCsrC9zPwJMJZYR8nl9iDTdYvLG0R0blyUXc0pUGZHDF+pHu6bZQfLBVX+YpIjvr4+CDCKMqWGcrGSZLYtyKGEmY34cdmEvten0fadkCcPjjnrjjlHtRvpkn6xo+h4njv+h1bI3ybWwypusMGp0mVeZzNgfDfBWVAdQ6qmJvNh0LDAuOA0VYhlLvCrgNUoZGEZ7S8mpeAOF6NrlYe7eGhS4qeNAxFTYtZ0fd1n9VBeQK45Y6g3Z3+6l3NvFGTbOQizUUXob4R1qzzG9KBYP/K9bu8ATQCSA8cYIQCOwhQhjcJa9hBAcYPOOA5dFb2BdOhzYchULvieuP2M=",
+  "URL": "https://pypi.python.org/pypi/ipdb",
+  "LICENSE": "BSD",
+  "ARCH": "any",
+  "BUILDDATE": "1592935515",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "ipython"
+  ]
+}

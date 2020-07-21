@@ -1,0 +1,23 @@
+{
+  "FILENAME": "python-baron-0.9-3-any.pkg.tar.xz",
+  "NAME": "python-baron",
+  "BASE": "python-baron",
+  "VERSION": "0.9-3",
+  "DESC": "Full Syntax Tree for python to make writing refactoring code a realist task",
+  "CSIZE": "73320",
+  "ISIZE": "464732",
+  "MD5SUM": "5c73ad7f22b5d89b62defbdfb14fd697",
+  "SHA256SUM": "a2df438eb869f6f78383d9fbd15c027f9d53f12e664fac21080b007e0df9480b",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl28M3sACgkQeGxj8zDXy5IkyA/+Ib/fGeTMR4DZ1rUBULzIjaiqkdrRJaml3QAWbdjVRuFTWXqU/x0oPWPyAB81/nTFd8sBLDESk16plNBHI0D5wPxqRCMlio8qmAYzzTKQ/enKh2mcNILZbODvq8Nkg8U8mtxvet5tX8ugoSto4T4bo8LV4SvjHFK5u8U1W4BaU5bXyFQVWU6ayrQayXYj8UsFaS5mMEoQlgpDE1EtoAZq7KfLmMGWr0LTECmEjGQr/7YOAYBauQGeBtjp77vKFsZ+ZB3w2UW84e+656ch+0n5xPt7M44yZxjOPthmWy1lEPxZxg5I47To/aqogz6VKM9wXuT9jo1qmqI7KwRMOB/Cqd5xSnhgpDKXW0oA02DzNgASzs5Udjq3Uhrj74OsCz6gUMu65fY12y9WWs4Q1gk0dVNImcV7ixdPSRp2duAN6iMxmtS0JBK9+9AJpHrBB02I9VvQI3UaJ+gK+sxl7HzqYrPAwNnX6/QCiC/cJ8YHmqkq0P+sOkGQ/6DJcJoqnlpyT8CH0L7LTc/AwVEZdpQ64t6J6T0gnfP6d7QanlVENnj2Ojlq35BS7nLKeLfPvIoGIhMm/QICkif+2+Huoof6vKLYHKVJMO7a0KQAI4tkSxmAj6tMiIrKM2k16YtqdIBGP+u3EnrwNU3I7J5JTMLvOKtFmdxScEBhKzM2rQHjwwY=",
+  "URL": "https://github.com/PyCQA/baron",
+  "LICENSE": "LGPL",
+  "ARCH": "any",
+  "BUILDDATE": "1572614759",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "python-rply"
+  ]
+}

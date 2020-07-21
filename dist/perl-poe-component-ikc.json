@@ -1,0 +1,23 @@
+{
+  "FILENAME": "perl-poe-component-ikc-0.2402-6-any.pkg.tar.zst",
+  "NAME": "perl-poe-component-ikc",
+  "BASE": "perl-poe-component-ikc",
+  "VERSION": "0.2402-6",
+  "DESC": "Perl/CPAN Module POE::Component::IKC",
+  "CSIZE": "80432",
+  "ISIZE": "226862",
+  "MD5SUM": "c8b7bd6b763fdf89185dd1b640f985fa",
+  "SHA256SUM": "9225581fbea231b120b15c90834b51ee4547b3ce2c64503a395b4cdbe5010842",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl7vha0ACgkQeGxj8zDXy5J7lBAAoo2mD2K/8MJlOCBN3S1QDGdo9DZqUSm/JcV+cq4nE1jix72H/+ed9KzWaRj0eG734XxKxEb3Nkjk4O9WkX89TKyCv2rCWVpd9SeOdglhN6Rp9IGygQOSh82VBPtDZAaCYt30PoCjRiq/Nw0aDk7AeGEZKLTq+ACsahnk7bk4yrO9iMRVtJOlkSj47ZK3wjlqS7EadmubTXgBN3iFr4P3cSM9hru/8ObSQypvYPzRNaNqg8Eg+aGhlw0QvZ5TNaB5O2YmrvMsGCfmCPscNE7bo6pj4Pvez1HBEhvTe0uVV6/x7cGYeJ/37ykMi1a1Y3+fzuQ69HRkMp2Oxh7uSrmam+qCYcfJO5jzVU5NNUJLxRdB8Xl3Pj5wbXEvvGLlzoYwHwLFUIAdDQ9wRD+FcBN2gJIqlmI3FdngbhkxWVlozqtREiznV6AMMcQ79QY6akjySkJuefU/3B0I4khkpI39P70qDmXo2jXQEv+6g56GT9lEf6gM2KgjtQ86x7bLKZdGyDZS36rvGewV8kSPD8LR+0EAqj99W1pE9XYQOt42K/oCZAQT0H0RhLmGcBdIHUMjBXwatIA/XjwV/YnJFh1Uj1AvTYL4nbkC5He5k9zv6AQaNKPK6ArPXLZPV6/lRdfBfY5C40gzfokUROvIzFq5NHRwTT1Xig4U082hRMYBuGk=",
+  "URL": "https://search.cpan.org/dist/POE-Component-IKC/",
+  "LICENSE": "GPL",
+  "ARCH": "any",
+  "BUILDDATE": "1592755603",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "perl-poe"
+  ]
+}

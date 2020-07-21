@@ -1,0 +1,25 @@
+{
+  "FILENAME": "libibus-1.5.22+8+gf591381e-1-x86_64.pkg.tar.zst",
+  "NAME": "libibus",
+  "BASE": "ibus",
+  "VERSION": "1.5.22+8+gf591381e-1",
+  "DESC": "IBus support library",
+  "CSIZE": "7460519",
+  "ISIZE": "63795602",
+  "MD5SUM": "bd447bd1629d60aae49adc769ee27152",
+  "SHA256SUM": "0d0beaad352968e088787062f1924ceefd185acd422abe5de51f1a741c54b589",
+  "PGPSIG": "iQEzBAABCAAdFiEEghj4iEmqxSLpTPRwpekojE+kFfoFAl7FPHkACgkQpekojE+kFfqEwwf+IebfgsP0kbgoCP766Y219hBce++WYcwTr4VVBeS1JRo7OyOuj9zVSZ2luGehU1lGNLCH2tmUmTr55pmWW0wjcP5ussHx1v6JUnMVhq88Pb83ELpZBLCVKc3CD6KR3XSNcGQP1IMDlZEZqle7ZFmI28geywxytr5Hzt5y8ZEjL+7bBRe3sTHUKM/a4i+0TSYTwd4OHZWsdulhy1SdZLEjwlAeROPRs0lB88HZbLmH7cgKh9yJlGVSB2exX3in2qVlqx8onEoySjkOcAliPg0KatWCs+F6EIJFs2QPC7he2wHptfM/ezLKy1ANnfxczgZIFaMIpba7uREoL3VO8SHzRQ==",
+  "URL": "https://github.com/ibus/ibus/wiki",
+  "LICENSE": "LGPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1589983193",
+  "PACKAGER": "Jan Alexander Steffens (heftig) <jan.steffens@gmail.com>",
+  "PROVIDES": [
+    "libibus-1.0.so=5-64"
+  ],
+  "DEPENDS": [
+    "libglib-2.0.so=0-64",
+    "libgobject-2.0.so=0-64",
+    "libgio-2.0.so=0-64"
+  ]
+}

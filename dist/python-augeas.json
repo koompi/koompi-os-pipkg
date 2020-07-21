@@ -1,0 +1,24 @@
+{
+  "FILENAME": "python-augeas-1.1.0-1-any.pkg.tar.zst",
+  "NAME": "python-augeas",
+  "BASE": "python-augeas",
+  "VERSION": "1.1.0-1",
+  "DESC": "Python bindings for Augeas",
+  "CSIZE": "23074",
+  "ISIZE": "112826",
+  "MD5SUM": "ece44b4fb2b8ac5f4775da67047a05eb",
+  "SHA256SUM": "039727eec072072f5ff378c38c8d442eeaf3695eb44b650a005722eef61634ac",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl44hRQACgkQeGxj8zDXy5KcRRAAtiE5IVmJf8PZnyy5UBQDz3XjDcunqpMfTKePa0t1OBgRN+EVrwGH9D+YGSpyACFASXOdXMgoMphgdAQNyrnpqqrZwJIwmhws/a8OkKx+f+sw5yw19JoASXOKH8rFijeiR7mdvyEGqhgX5djSGHFS9/yReYB8+I0swQsCjxzcmAJelOKkScYVtUnSDokCq6YGqkO135/IloDW/zNXRrgLk3PpBqxHuU7q3qZkGkQOxVZYRv7B8WoRGfs3Em9jt8UW9POJy5YCcTxTStM1jcB1JVfPe1e3pwLFErWX2GwCNqPYKtU8MLiye8KdxTKijhtdOitrUfTfgUlbZ5UZeeUlV3Fc1zHff2A4YwfzgHJf4dwBupDVxa0Sgx03ejzHGQ+Ss6tK57MQffctyMxG7/V8MIizawFyViwJJ9M8R10RUlyIITvfRDoqMhJ8UVFcGT1b47hIo2H2ML4NYL9ph4wHl/YzRqdZw23IzGsReJr2LKUif1F4wvGWP788ZH422LRPSkxDtOGLesJrjLsbw/t6SM0u94xtJEB04JBewI2rhtzbd9WULMsgPSn540G3NsRM/dvaIslUbY4+hJvxnY6PoDJ7Gv6gMbWaRm0wfaLdLdbeZf/CFsdeS7yEFWR7rJ3kLurNv/LzdfxKP2Lv3ATqc1FsrBEUT+Sgv4Ev7wUPsgk=",
+  "URL": "http://augeas.net",
+  "LICENSE": "LGPL",
+  "ARCH": "any",
+  "BUILDDATE": "1580760471",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "augeas",
+    "python-cffi"
+  ]
+}

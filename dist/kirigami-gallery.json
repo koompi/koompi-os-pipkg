@@ -1,0 +1,24 @@
+{
+  "FILENAME": "kirigami-gallery-20.04.3-1-x86_64.pkg.tar.zst",
+  "NAME": "kirigami-gallery",
+  "BASE": "kirigami-gallery",
+  "VERSION": "20.04.3-1",
+  "DESC": "Gallery application built using Kirigami",
+  "CSIZE": "245077",
+  "ISIZE": "567406",
+  "MD5SUM": "5b4e53ecab72efcefe68e9c8ca7f4107",
+  "SHA256SUM": "568fdad67d3d38b174396ce51b617f94cd7c92f809b6581acd2cee2e695b83d0",
+  "PGPSIG": "iQEzBAABCAAdFiEEFRnVq6Zb9vwrc8dWek52CV2KUuQFAl8HIOEACgkQek52CV2KUuQS0wf/Ya6lsIJwwA1Oex4NRg+zi9ij2ugR8h2KX2PPjKFnqdvio8dgvS+g7eo72Vwu/Aim+XyfuZBI14uFQDizCplJZZuw/lsCQkMkNKwLiOtuktdkWrvr3psDFcXjoO/qhF1ap3AZzdL4Y/BwmR18JCHWl2IlCYGwUvNPh2/toy83qSu+Xb1bLV8TXZ8543SiKSE/ABnj2h8NwSPcP59hLr8F9r8Lb2LyDpG3xifd5hxgwr8UwmxUgqZGrWZfzYnqXSGEoMG4qkk2dPvdNwKxhNHa5gtSquigRJsRVNG3MwdASX2M/YKJ88GBirhCZG3qfEy4RRImPPSdL6z5vqQBvc2iEQ==",
+  "URL": "https://www.kde.org/products/kirigami/",
+  "LICENSE": "GPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1594113471",
+  "PACKAGER": "Antonio Rojas <arojas@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "kirigami2",
+    "qt5-svg"
+  ]
+}

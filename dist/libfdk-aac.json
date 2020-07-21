@@ -1,0 +1,23 @@
+{
+  "FILENAME": "libfdk-aac-2.0.1-2-x86_64.pkg.tar.zst",
+  "NAME": "libfdk-aac",
+  "BASE": "libfdk-aac",
+  "VERSION": "2.0.1-2",
+  "DESC": "Fraunhofer FDK AAC codec library",
+  "CSIZE": "707706",
+  "ISIZE": "1536436",
+  "MD5SUM": "c3aeb1ddafa7f29f45327dfa62119107",
+  "SHA256SUM": "24274db1c134f4fa98e124a122a7fb5462ab08304dd4ec8e58b10a680c57410a",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl8EpCoACgkQeGxj8zDXy5L0VhAAokX9sU6tpwb/OmzHEX/Z1awn2QoTYH/drj+72MBEGcJQs8LF8dvHO2NMvKhrZWD68vQc2gM4RU8sEalFb3OmkpyQkqjoEACaAwPRU9R35zwu3hyCKvt+T/fw19QhcwElUacWH3EZgYgo+hyBHvRBCzU0nHeG6ifIkXqp3IpxpQG3sAAImbU0fo6I8f7PHDHmNOTMOD1uPPMhSIvd3OnfKK/kwzZHsSNueO839ySkZjaX/wJ6RAb/50T6ycu/qBO4pFF8DTj2dSRyJ/8O+Dy4cXP7WPOJvsASkyMI4oVJXbAX5x8Rm7timIjnx1x9JjxpIC/B2zasPHRj7+opG9DEWHZf6/qFQDx+htMclHKiF160F8giIpI9HYZFOKl8x9sKWvCwPr+0+cA28h7wWgO0tl/tdWNtXiAPwUBIYlvDr0rX75BIVE6QLh2Ru8r3CLNIo/C+vmc9okwjmI9T/iafqBuj9p9lngZT+OXxAvOcaYIsVjRqP8nTNZbWnuU2A9c7sDHPj7KkQzLZqvdQWyzqpNDD2g/9/39Yrm0W/qLMYStbNKBcIIOhu5ZrtnPYZqZQ4FPFDM9VQeS89c9RHun6oI8a2mRme0+yYsb+BDlUf8Gwy8DKU4u208pM7ITMGsbyCGeaqNDWIpxbXxKcOVErh+b4CyPfXd4tm+Jsaomr9TI=",
+  "URL": "https://sourceforge.net/projects/opencore-amr/",
+  "LICENSE": "custom",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1594139485",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    "libfdk-aac.so=2-64"
+  ],
+  "DEPENDS": [
+    ""
+  ]
+}

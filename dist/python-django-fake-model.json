@@ -1,0 +1,23 @@
+{
+  "FILENAME": "python-django-fake-model-0.1.4-1-any.pkg.tar.zst",
+  "NAME": "python-django-fake-model",
+  "BASE": "python-django-fake-model",
+  "VERSION": "0.1.4-1",
+  "DESC": "Simple library for creating fake Django models in the unit tests",
+  "CSIZE": "9770",
+  "ISIZE": "22768",
+  "MD5SUM": "fc9a5ab63571155b49a22e8658d096cb",
+  "SHA256SUM": "afce13147c7dfa9564f47f54c07889f5f3e8ee4de078ce72a42bcbc014b84752",
+  "PGPSIG": "iHUEABEIAB0WIQSYX6G7jYlWZgHv/xEEU6bKI8VjFQUCXpko3AAKCRAEU6bKI8VjFTFrAP9o+SiLWcZNKAyglFz5BN1X4bBD2eiyEZ/y0yCfKqm5PQEAlWx0HDrWh+qrNCUwf4NhyS69S2hBipQDung5qdPZeGg=",
+  "URL": "https://github.com/erm0l0v/django-fake-model",
+  "LICENSE": "BSD",
+  "ARCH": "any",
+  "BUILDDATE": "1587095674",
+  "PACKAGER": "Chih-Hsuan Yen <yan12125@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "python-django"
+  ]
+}

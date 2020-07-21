@@ -1,0 +1,23 @@
+{
+  "FILENAME": "python-xmlschema-1.2.2-1-any.pkg.tar.zst",
+  "NAME": "python-xmlschema",
+  "BASE": "python-xmlschema",
+  "VERSION": "1.2.2-1",
+  "DESC": "An XML Schema validator and decoder",
+  "CSIZE": "349956",
+  "ISIZE": "2380280",
+  "MD5SUM": "acd17a2f9794d633001f2949a5339a9d",
+  "SHA256SUM": "e82dd7d75375690b501ed77f2841fb9ed53734bab80ab1d30bb89417764c549e",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl7oinoACgkQeGxj8zDXy5JHKg//XhLv4AjWmp9UKE6VepadGEbXLrhGcZmT81QCN4Zsu7qEytxUlt54lOX0hAsXKK+SftHw+g0L3wnai/KjTHX1W+OQy/DXsPF8pi7P/40+Zfvdwlej+InHfEi14F+SnsznHUEEE9y42RE8l1LqCkgqd08gd0NGOYP/1LnP2uzPTOtiuUtUq+cIESNhkGmNxvan/DobmPMGg6UWRbkHR8Xf7WnGf32p7coXeNehNDXsEz9mCdqexGta+gFy7qKM4iAhgchIXyAoTsMTAlwMGaln5woIB4FIGU5QsoEk5pdu4xEgGTDtViMz3fN2Soi73SfD3YACeO34xOuTqHQixiRxFZnJyHfuLE912xRMY/jTADlQP1B5Bg3oxse97or06LJW88ga6F+GGnzO9dSwxIoZ5rKU4joj+yVF2R3klzRA4d2n6d4LM8IbVxVEgjC5aM6a31Id+/7MxGzp7SZnSLpXw8ee8iY7yJjFZVDZp+VQ4EMm4WuKUN8KREJXBfTXI6bYRuZkAIUzOQDmFjMqBBVXMQ4kfwwNXBTBc7qcf+Bnu/8DxlM6+i4zrxzMG2yZ7WBKODluYio846xrOl11VYdAo/hBAHQ3ZzHS7dM6m00fznH3NmsbYYctTNN+f6QobdXzy4/PhivuKEEg7/Tt9JoBBRpA6dvSu6Ulam9IAat6O+k=",
+  "URL": "https://github.com/sissaschool/xmlschema",
+  "LICENSE": "MIT",
+  "ARCH": "any",
+  "BUILDDATE": "1592297996",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "python-elementpath"
+  ]
+}

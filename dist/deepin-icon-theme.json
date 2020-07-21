@@ -1,0 +1,23 @@
+{
+  "FILENAME": "deepin-icon-theme-2020.06.30-1-any.pkg.tar.zst",
+  "NAME": "deepin-icon-theme",
+  "BASE": "deepin-icon-theme",
+  "VERSION": "2020.06.30-1",
+  "DESC": "Deepin Icons",
+  "CSIZE": "14276288",
+  "ISIZE": "77966544",
+  "MD5SUM": "e76e77034dc6e34c8107422f0796b4ca",
+  "SHA256SUM": "b20d3626f0c32fc4d1da2d03e5e83ffac40c7566fd961ec7dd3f115a58b3933e",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl77A+UACgkQeGxj8zDXy5Kvhg//R4Dji6l+gYoIn2oY1DbiI9yyz6lNjTSDVq6Io6H758lmPuaD6gYaX5kJ+siy/CdAVzuDfZdL5DhlHPjcPk2mBsQJN0y+Tg7QZ6/5sIfqVL6LUH3WnFMvhvL5+rE5LXkRALixfwUi/W/7CYyU0x1Vuivq3DHkS+oPeTetWtrD7vAIe6bibkPP2fhsesTMgQ41YWE8HP8Y2lD0ND+sMmwdu64RWKQi/bI+zlKnG3LZKCZlmwsuQ/5Y8n1c82S427Ggv0/gFr8nh7+8AUszdr5xX2eVQliGNZtOrn3RpB6LuTWUMeE/SxppAClBtA6JcC9fERgGH6VZx9DGOHlKCfUETny2Thkkeo/16rrYCpMhzoSN1sArmj+wNZydWFtCToMvZyMbZhCM5lpVuxaLqtfeZohNLYpzWCSwAuy0mfbB+Ch3GgVj6xVKD6jo8EA8m8B3k7Cf8wLJH1naYul327OTq0N3F09BHoCUtGvFu3Oc8ngAJeE+WWki/TByPWkWqPPpOlSZCFhEEjHOIlrkDVLuH5bibUdyc6KlIDtRyhlduJ1I1EltoH2g/FO2jVdlWBq1UCtVKJbd/D157KNhDuRTZsgbPEuXTvM3gke5j6Cgkm5WH7wVr8SNzdkugV3eHRfG+VPHLLebHewXDONTQQhFUl0KY+M2GzjXzJphxZgFg0s=",
+  "URL": "https://github.com/linuxdeepin/deepin-icon-theme",
+  "LICENSE": "GPL3",
+  "ARCH": "any",
+  "BUILDDATE": "1593507519",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "papirus-icon-theme"
+  ]
+}

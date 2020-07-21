@@ -1,0 +1,25 @@
+{
+  "FILENAME": "ledger-3.2.1-1-x86_64.pkg.tar.zst",
+  "NAME": "ledger",
+  "BASE": "ledger",
+  "VERSION": "3.2.1-1",
+  "DESC": "Double-entry accounting system with a command-line reporting interface",
+  "CSIZE": "1547672",
+  "ISIZE": "13201631",
+  "MD5SUM": "38770e45bccf046ba3d943a2e129dcb0",
+  "SHA256SUM": "33977c39570147d4d54687b59d4826110e3d56a01ddf650aa21c280f783c06ab",
+  "PGPSIG": "iQIzBAABCAAdFiEELjbYYgIhSC/EXLfyqRdkdZMmtEAFAl7CxkoACgkQqRdkdZMmtECUwA/8C3In0G4Wfz8tygHnpGuh/ryM0kl3p0vrdJFy3OEKNnC/RYK2j7nodWrwjoT7aQe7+qvFnD0BI9wiONbIjK8QvTHhmLaYnBqq9Wfu7GiMmFgNo3oDgr6FWkvGU30rIOigHOvpsBuYAw+V+oup71reQv/T1CEdUEN5J4rFpzoRRRNV+1F024VOziWgZGmi6dj4+36gNiM+cI92nQwtRY6aqncUO+izaAssroxOObBaTQ4/TpHmqPFdNqmlzLsw0DbZKIKNTnNooVTbSVWr0GL43Df0QeQXHH1f6CrcFNKOZskNF2thy8+wLzYdUrONos/vmMKu1yMp/9H9nkw9vMnyz4JUCvM2IgjwGc6W8BefiBLe3Yo4+WcxuBQ8Sf9WlptHqJnFURxSeoVhq5eUBYrLDVpM+MNUBBMwAC2KVlXCPV5l5fL60MT/HvI0gGIomR58ylWv2Wn9n2cvr1kDJGmYNKIsBT9QgldtMByOEnNCChBWXy+u+lBoHJ2SNqzXQx6ZR+Qxt5oBsOkWhdAL1n4Gg/tMoFQWs6eRy1Aungbp82IGK5wRfYgib9dmLA1WR60cCZ87idaQ6YYsbZN1ddEmLbb01wMxSg7ktBJ0LwJ8B/Iibh/+jo3p1hCWhMUP1d+z7T7IHlFd6ywHnjPGsKEJZNbr5fP0JYN7TY9ZqWsY8MA=",
+  "URL": "https://ledger-cli.org",
+  "LICENSE": "BSD",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1589822673",
+  "PACKAGER": "Lukas Fleischer <lfleischer@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "boost-libs",
+    "libedit",
+    "mpfr"
+  ]
+}

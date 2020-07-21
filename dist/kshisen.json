@@ -1,0 +1,25 @@
+{
+  "FILENAME": "kshisen-20.04.3-1-x86_64.pkg.tar.zst",
+  "NAME": "kshisen",
+  "BASE": "kshisen",
+  "VERSION": "20.04.3-1",
+  "DESC": "A solitaire-like game played using the standard set of Mahjong tiles",
+  "CSIZE": "942679",
+  "ISIZE": "1739117",
+  "MD5SUM": "aa9011af461345e299079dbcf656105b",
+  "SHA256SUM": "10e8e13a017cb77c1d166f1775213026570d7f4a37f9c3ab948c71b96cc6eca8",
+  "PGPSIG": "iQEzBAABCAAdFiEEFRnVq6Zb9vwrc8dWek52CV2KUuQFAl8HBdMACgkQek52CV2KUuRReQf+NP/Cmg1jvKZwXBGmeqwMv082Pe5utnK9Fo4eFpTxcRzFPxjUdLwZsJVj38lAok+JjuXdsE2m9LFl44lOzH/ZPLzvImS47CtR79WOqG+ZKRBSSoA3Isesf8R4Q5MFOvA1NBa5sCT9IDj2TQeGtySo5Osl/q8hGtJ6dl+kf3dAxQl+0DkKlSqqfEjfP1Iqxbbxp2+AcoHVaTsIQN2gNoEcq7uEA/TILptEdQU5j5a6IBTEJBcYGKciiDJfMf73B+zhaHUx3xlAFLx7ypNMQuhfTktOXt+uiz2OfLPhZVTTH6dhn2agldg72/JEZ5JPn1ph6nHg4W21t2CNcS0fG1aN7w==",
+  "URL": "https://kde.org/applications/games/kshisen/",
+  "LICENSE": "GPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1594109071",
+  "PACKAGER": "Antonio Rojas <arojas@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "libkdegames",
+    "libkmahjongg",
+    "hicolor-icon-theme"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "FILENAME": "firefox-developer-edition-i18n-de-79.0b6-1-any.pkg.tar.zst",
+  "NAME": "firefox-developer-edition-i18n-de",
+  "BASE": "firefox-developer-edition-i18n",
+  "VERSION": "79.0b6-1",
+  "DESC": "German language pack for Firefox Developer Edition",
+  "CSIZE": "515545",
+  "ISIZE": "577620",
+  "MD5SUM": "b9e8960ecbd16d6723987f1417ace7a0",
+  "SHA256SUM": "430f82ab2467e2a42181c642015f4a59d164e5ef74c9b91ec343cc87adede949",
+  "PGPSIG": "iQEzBAABCAAdFiEEYB8g8dG7v0p4z1tt9rFhCz7NvJ8FAl8IbMoACgkQ9rFhCz7NvJ/9jAf8Cx0qkI6sYASli/A3B9+G7G3lMOqaqJfSYYs0cWSPQdG2/JlI1BuB08iYZ21aBUESnC1bG1gmrx+Hzep9gKdUDrv7cjHP9z90GeYkTuEetmj3BVjhW4/uy6tLVeL0Kvp2xqpaOHY52CGxzBoeJ7ePF4YBl3wafeLwOQ9+XC3A+92gcOPLnY2OOyJ1I1W1Oqm1co72+ba/SL5GmbWnamMj7H5xUsQVjkQVKC/WiaBSMEIUZw1UsOH2k9xszLK0xBV9Iy17lOaueEPrqWTc+KDAgFp32m6sswArLYnS1/0hDCw+wFS+PRs+UqIvDcDVYNeP6f6UzmODkI9TWSTFFAosyQ==",
+  "URL": "https://www.mozilla.com/",
+  "LICENSE": "MPL",
+  "ARCH": "any",
+  "BUILDDATE": "1594387381",
+  "PACKAGER": "Andrew Crerar <andrew@crerar.io>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "firefox-developer-edition>=79.0b6"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "FILENAME": "libieee1284-0.2.11-9-x86_64.pkg.tar.zst",
+  "NAME": "libieee1284",
+  "BASE": "libieee1284",
+  "VERSION": "0.2.11-9",
+  "DESC": "A library to query devices connected in parallel port",
+  "CSIZE": "59944",
+  "ISIZE": "125562",
+  "MD5SUM": "41f08a208c8457d5ddcd77ec0a3ecf06",
+  "SHA256SUM": "2c5f3d844975802add3937f6f842e96a431d9a5f1f6bd3cc8a5d60e97964fc99",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl6/0yMACgkQeGxj8zDXy5LDnA//V1Hn6dMMA53wpRJz9X0Myc9m+AY1zxh9L3LUotrc3RKnDzoWY3Ky4juu3daHGSRzqQ4xytAT+pqYX+OvbXfZNnnqDA7vBsmINCrY8KdDRt1c+vxjENo9NlqCwuP46OULOqzQ1XwfWKce5GLJzN5fU25TPEX0iSbjZGhH1OJ4ESA5toEaQseO762njLKlzsnJWUZuIR5vdZOMj7+J1+L4wDDCHbcjWR21VXhnEHUZ7txk+HdQ452ap+6f4Pk86UolnpO5bq5L0gcJQ7chYqYttV0giklcgm9tQml725LI5FBrrC2pj47Dfzs9WzU96aAHECvhCef+Ur0h/hYTKclkBAmT75s+QkCrhaE1Ugsxx5RckYlng5ccoQkETXLI+6bLSej7u+MuxS+q34QjiC2ZhI5Wpq8EAgyrPMSj2HyZTLVmKjh/jSmF091PgfpnKVfKfJM4KXugwSeGqYN+4M+OETzP174HV3HLEZdcKbUa/DypR1SAEYphwfKYYO4p9TMD4PzUzV7zMXFuVpmjyJIuBNedlPh+jZpYUNEyz6g3ViY2b1L98xWrdLLerX6KEEtE5CjFhldButpYMSgnt7oYuPHr+3Eld4oTPdqY0Pk9W8ZUn5kT7OHN1z6PmX2uBXW1D/mZi9Z5tk855+9Wbi7CXai4hX0mLMwvoK2RDMf2v3w=",
+  "URL": "https://github.com/twaugh/libieee1284",
+  "LICENSE": "GPL2",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1589629709",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    ""
+  ]
+}

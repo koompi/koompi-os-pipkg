@@ -1,0 +1,23 @@
+{
+  "FILENAME": "python-publicsuffix-1.1.1-1-any.pkg.tar.zst",
+  "NAME": "python-publicsuffix",
+  "BASE": "python-publicsuffix",
+  "VERSION": "1.1.1-1",
+  "DESC": "Get the public suffix of a domain name using the Public Suffix List",
+  "CSIZE": "63857",
+  "ISIZE": "200785",
+  "MD5SUM": "5b1cd6a5256fb650c6c8c06337268b76",
+  "SHA256SUM": "2a431075f6840feae50eb25b4b0303eb3ed303683bf683ca4dd76d46794f00a0",
+  "PGPSIG": "iHUEABYIAB0WIQTH54SUZv4jWDQ1iDdyWHNLQcMVSQUCXhkYbgAKCRByWHNLQcMVSQW+AP9CkXXgQBxQL2DgpT73yTr1rX6DvIL6v8CHLLeurSOFBAEA6fg0ks3jJ1otF2TWKHh0mw68c503N1GVNyAqHOA/Pgc=",
+  "URL": "https://publicsuffix.org/",
+  "LICENSE": "MIT",
+  "ARCH": "any",
+  "BUILDDATE": "1578702887",
+  "PACKAGER": "David Runge <dvzrv@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "python"
+  ]
+}

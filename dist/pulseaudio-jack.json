@@ -1,0 +1,24 @@
+{
+  "FILENAME": "pulseaudio-jack-13.0-3-x86_64.pkg.tar.zst",
+  "NAME": "pulseaudio-jack",
+  "BASE": "pulseaudio",
+  "VERSION": "13.0-3",
+  "DESC": "Jack support for PulseAudio",
+  "CSIZE": "17924",
+  "ISIZE": "70672",
+  "MD5SUM": "fac66e295a7760d4aaef73885c14e73c",
+  "SHA256SUM": "17ebab1e0e7c60cae99259fcde3541d1365eef7db4a5d2725b15d3244ef7a28f",
+  "PGPSIG": "iQEzBAABCAAdFiEEghj4iEmqxSLpTPRwpekojE+kFfoFAl4aH24ACgkQpekojE+kFfqxBAgArlNYv1G2uA8/HUYivIB3yJpARGtWFtl2y7tUfVmOnanbmURO8e3ugZOAAU99NRe1Ui+lxN5kl8v9GJZwDv0qv0t4sEt7gAdzS1RfUqKanYpCgu24HojUlvSYvKRqeDbrk0BRfmEO7Oo7Z/LWoWF9j/DHvZtv4g//FG9mQGukrkqkG8odNGkSt+56Mmql7jSrps2vLC7wNV4vxHRDuIU0b4EISpbYA0pMCEWaFGUR5Di4XIE3nmebCtc1JQBHCFNnzrI7p7xpFlgD9EWd5/U9NwCFOCumENyqbPR15nSYAOxqCJDoAYmXk5G+9BzD+ssv8VgJgW1YlS2Yz9/rB7Rkxg==",
+  "URL": "https://www.freedesktop.org/wiki/Software/PulseAudio/",
+  "LICENSE": "GPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1578767137",
+  "PACKAGER": "Jan Alexander Steffens (heftig) <jan.steffens@gmail.com>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "pulseaudio=13.0-3",
+    "jack"
+  ]
+}

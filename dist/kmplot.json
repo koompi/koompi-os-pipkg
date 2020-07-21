@@ -1,0 +1,24 @@
+{
+  "FILENAME": "kmplot-20.04.3-1-x86_64.pkg.tar.zst",
+  "NAME": "kmplot",
+  "BASE": "kmplot",
+  "VERSION": "20.04.3-1",
+  "DESC": "Mathematical Function Plotter",
+  "CSIZE": "3463155",
+  "ISIZE": "7214331",
+  "MD5SUM": "0db843365480b7eabcb83f129dcc2463",
+  "SHA256SUM": "8644e28f885a1c3b42110e792a9991ba810bbe9070bb80a1f6963a532108c730",
+  "PGPSIG": "iQEzBAABCAAdFiEEFRnVq6Zb9vwrc8dWek52CV2KUuQFAl8HBIcACgkQek52CV2KUuR/3gf/TC9vkNWiyjWoEllqN7gh9lVXZ4Hb3QfavQmBuawtYL1jnHdYJzn0Nh1daxqZ0txBts9zZ7N2Rh3X9ECH70zq+g2KnE1eobVDJ4k6+ZAWGaShWEIJSkhYb3urAUlRW8P9dq57tELRDpke5KKjqb7uhy77l5V4923WB+lnzjeOp5hFXoV04XnV0WGV/Qx/rda/iP2t5Q+zAZoRmdqFagEcxZeHE6XVtwZY+ywjpqjwY7Oyb/O4/qOeEya6DaASbU+Xay2IIs53yEPCrcDcxPzhoLHta4Ll9dfGAf8SvPGwO45Nk0PhRZ51loA3HZdDMCneknwKWSJEwdYuZBDSp6/uSw==",
+  "URL": "https://kde.org/applications/education/kmplot/",
+  "LICENSE": "GPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1594107420",
+  "PACKAGER": "Antonio Rojas <arojas@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "kparts",
+    "hicolor-icon-theme"
+  ]
+}

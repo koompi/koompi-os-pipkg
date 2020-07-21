@@ -1,0 +1,23 @@
+{
+  "FILENAME": "python-pylibacl-0.5.4-3-x86_64.pkg.tar.zst",
+  "NAME": "python-pylibacl",
+  "BASE": "pylibacl",
+  "VERSION": "0.5.4-3",
+  "DESC": "A python extension module that allows you to manipulate the POSIX.1e ACLs.",
+  "CSIZE": "15386",
+  "ISIZE": "46655",
+  "MD5SUM": "68707b55bd87cdc724d880f8bfba5e8e",
+  "SHA256SUM": "3e8684548d97c73d15218e612c17a2977c0545f05d3a6b2e599c6644bee8226a",
+  "PGPSIG": "iQEzBAABCAAdFiEE5JnHn1PJalTlcv7hwGCGM3xQdz4FAl8K98YACgkQwGCGM3xQdz4ZnwgAq2WTgJALWCgMbm7NxtnOk/9bbMWqPKqZAHXCzbeeEWLHgTzqigO3ngBChF/h9xbH//1i8o9ggqllTlyz8IBBOI9oPrWYCk4vOLbmKYclccMnqBvCy20/kQ6yHFvATATAi6TXExygl52rhIP1ueR6hSgRj/Vo+4+eD6qCescoS6eX6iW+31Eo257nQkdH7wUOgHllBUJJsei2F4ix06rb+O02KEvlTHx8txrIJMtks1P1RCSQBgPN1tLAdF98nJDDpDNJfL+t3mH1FCd6s1HVvKrUp6ts2yHb8lJJTdbKOIYWWLu7S+3aGu9VUtFYtmFIIhZqsVvM0P753dQGajTjFQ==",
+  "URL": "https://pylibacl.k1024.org/",
+  "LICENSE": "LGPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1594554207",
+  "PACKAGER": "Jelle van der Waa <jelle@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "python"
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "FILENAME": "bluedevil-1:5.19.3-1-x86_64.pkg.tar.zst",
+  "NAME": "bluedevil",
+  "BASE": "bluedevil",
+  "VERSION": "1:5.19.3-1",
+  "DESC": "Integrate the Bluetooth technology within KDE workspace and applications",
+  "CSIZE": "345885",
+  "ISIZE": "1791842",
+  "MD5SUM": "4c8bf2c9387ec9fb1448d56fc8f63068",
+  "SHA256SUM": "8478d9271b89a4169c815b18e69e6572ef0e63b7a50de926152f516155d38d22",
+  "PGPSIG": "iQEzBAABCAAdFiEEFRnVq6Zb9vwrc8dWek52CV2KUuQFAl8EhNIACgkQek52CV2KUuSlcgf/ZYcY9bGaBAAmNc4HP38YS6FagMGAYYTe/SheMgZsKmfqGGmEX4mOlhl6k8cnlrinUt3yLYV0sU1TrK82taBYbhN7eltA5dcp/PPanJL5yCBQlvywASBE661YziPgJhFsqVptFSZtbfJH+fVnIXjlDfKV6Rr4s41lWUpMb9RNbBzTAMrzqS3N/tvQQ2QLUmyAknVfrmPM5RbMFKHbKilfIhBUqhfNmiOotnLPhzkv6URxOX6Ptps9twxBpZzjKnHCVJf4N0nu4gGyuaNzTjOjKUk68NgO7BSyDDxcEepfjuJs+o+7Ru6KJlYmC2no9dluqKzyXQ/iiPLS0uZrcAuowg==",
+  "URL": "https://www.kde.org/workspaces/plasmadesktop/",
+  "LICENSE": "GPL2",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1594129667",
+  "PACKAGER": "Antonio Rojas <arojas@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "bluez-qt",
+    "kio"
+  ]
+}

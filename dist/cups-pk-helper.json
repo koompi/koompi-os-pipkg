@@ -1,0 +1,24 @@
+{
+  "FILENAME": "cups-pk-helper-0.2.6-4-x86_64.pkg.tar.zst",
+  "NAME": "cups-pk-helper",
+  "BASE": "cups-pk-helper",
+  "VERSION": "0.2.6-4",
+  "DESC": "A helper that makes system-config-printer use PolicyKit",
+  "CSIZE": "68671",
+  "ISIZE": "361988",
+  "MD5SUM": "c66707cba049abd0c8721d5ba9c3474e",
+  "SHA256SUM": "dec88a8f2c75d1a5242e56b485c0a06f2408b8a68d15a7f239267921a15e4936",
+  "PGPSIG": "iQEzBAABCAAdFiEEhs/8qRjPOvRxR1iAUeixSKmZnDQFAl6/tuEACgkQUeixSKmZnDRtcAf9EBlBNaWb9qHc3WO/SIs9a2yKH1iatvP/iUpN3w7uAYdJXHelFKrMh4W5n17dMq1ATPs0izZMvO5M5MYtenSfP+5U3JvMv2nhxark2tOGKtItGUgyO1gB5uyNMebpALZGG8fiwfSiFiPlYAgqGELN0W4OtueVeZA7KO6nqpwovlSY05JYUoa1YAvsMqH8j6VJ3Hnn/ItQhDKxQOvMlyuyxL3Xsvqga2MRz3WNboZ/DCXOHvRaAlBiDQSD3ZHojziCzumeVwAwfRU8RqtEbfV3oHdtprZYiIqezmj+s2EnSIGhlvICBpkx4aP9zrB4IJFkOdpvUmhyXZkqOSScBWUNxA==",
+  "URL": "https://www.freedesktop.org/software/cups-pk-helper/releases/",
+  "LICENSE": "GPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1589622470",
+  "PACKAGER": "Evangelos Foutras <evangelos@foutrelis.com>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "polkit",
+    "libcups"
+  ]
+}

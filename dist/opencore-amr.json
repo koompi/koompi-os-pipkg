@@ -1,0 +1,23 @@
+{
+  "FILENAME": "opencore-amr-0.1.5-4-x86_64.pkg.tar.zst",
+  "NAME": "opencore-amr",
+  "BASE": "opencore-amr",
+  "VERSION": "0.1.5-4",
+  "DESC": "Open source implementation of the Adaptive Multi Rate (AMR) speech codec",
+  "CSIZE": "148527",
+  "ISIZE": "304558",
+  "MD5SUM": "46950f3dd4803b80e50d6f91d0aee158",
+  "SHA256SUM": "d0b2f2f3e4ca1563c9f91ae9b6756e641323ea0133cd46365a9a5b19cfdc9984",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl6/2aQACgkQeGxj8zDXy5Lrnw//TBuUjKnW64dHSctu8JB53ayE3TV+kDXyfcnfPUvTxnLPW4oIr8R/dX1dZIJvtOywXsX54kIIS7VKJA3cH4xDlnjSwo8rvHQa9JFlQEOpcsEWK4nycst+QBW6sIm+1Ny0sHRo5p6UKqMzJXeF/Ye++qgIuF7rdJ6f1602mwwbWXSmQXKxBGLlT6LiMlH3nlwEtljcwP34QFSSkDtnKvEsCGZN0nbQI17TLlrPEIz1gG8QkLRxXkPypwtChKwPk7r6AtlDCexv6TYMAXqhKegYESA+1ohqfqYJcNL7IbBxhBjYqoqGsIO84VcI7Qjy/FJHIoXTVn21w3zhxZ9O1esaRE7DcVOaTMecQCYkciXLRIJLjx6wpM4V6ttSxTBRlvX9VC0k8WpEmz5WkuZZjCZQcghboy1p4y2WuuLl3YFJdygiY+MBSaow4U0IB2NNi3GovgUGlBQ7Q2t3AKgoOvCB5Q6xyOQltm44YhnKwTp9ymTRkQYynM5QzOwISEh7aXG7+2wmk7rOEJKu9RE5LsnurmRldr0wi+yg5sGYf08I7LgvtCue1bdzx4QYgB3DtFQlbxWlM0B1djgjXbSfSG+rSwaeGtXCimNLbY6XeApyKfqeBQzZOzGlzuqwSA2aCwaoezvF2CrGedFSC93L20i7oLGfajrj1VSUG9uA7HbMNKY=",
+  "URL": "http://opencore-amr.sourceforge.net/",
+  "LICENSE": "APACHE",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1589631319",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "glibc"
+  ]
+}

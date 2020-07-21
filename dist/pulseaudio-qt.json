@@ -1,0 +1,24 @@
+{
+  "FILENAME": "pulseaudio-qt-1.2-2-x86_64.pkg.tar.zst",
+  "NAME": "pulseaudio-qt",
+  "BASE": "pulseaudio-qt",
+  "VERSION": "1.2-2",
+  "DESC": "Qt bindings for libpulse",
+  "CSIZE": "210825",
+  "ISIZE": "558269",
+  "MD5SUM": "bd0925d3d6b986771f0c688a808b028b",
+  "SHA256SUM": "b638d71597f6f6926cb9b6195fc12f59791199b94856325e16213900c2aae04c",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl6/xYcACgkQeGxj8zDXy5Ly2Q//Rlj/SZtXmpCHWb9qKx743KCD+qk5R3YRYgL7LOpxGZod87gIilcnjcKAGTx5RyAbPevVXFAOuM7xvOmqNoQEDs3RnDbGqC4zYubfbkSssK7miOTnL90g3x6IhJuc2odEaTotTa1b3LgsCs/WAw+5rgCo0mFz+1LlOqAfDMOJdO2wff3p6B/hWtvhD/JI85vvLXZ4QQi0UKIp4E1kJQx9+Sf3tKZPxSnmQLFwbzHW6i4fFlJArJWPW7oNdtVNwwC46eiTzPw0PJzyB/vLieNzx0lDGny7lgOInmWZejKxbZP8AAxftYGORVzJ2YrFB9r6txo0WV88lMy5ykpxPTtuNIBgw3UudZBrzpIfBUPbDmFpbtX02OSk7pKLxx5ewaFT2Fgq2Z/MCPxIBiydksvcnalol2VwQuJ5MSZLsClUf7t+qt7Ssh6eW6ZgFLCfvpd85Sr+F/OCwK3Snu0WibHKGtNJQBXPNidhnd/jh5asUxmwrcz9Vi9LHGEksz60Q4XEeVl07qNniiK29N34l4gBlztKZREMimUTN3yN+inKoZ/b8tPZRM1q0reHK6XqxDhuSk5kP/1nM9QicyID38m/BZaWKaqK6le5ekKrzT55BIfUQqIrXsUO3FsQUz2gYyyUMGGMrS79oT2f93aHwPUoceniwFYdO6tBAslDjSDxbkI=",
+  "URL": "https://community.kde.org/Frameworks",
+  "LICENSE": "LGPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1589626205",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "qt5-base",
+    "libpulse"
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "FILENAME": "pylama-7.7.1-3-any.pkg.tar.xz",
+  "NAME": "pylama",
+  "BASE": "pylama",
+  "VERSION": "7.7.1-3",
+  "DESC": "Code audit tool for python",
+  "CSIZE": "52988",
+  "ISIZE": "210291",
+  "MD5SUM": "9932e9e6f5e435b64e93e2459282747c",
+  "SHA256SUM": "b27b34819267db4de06e0b59735276537df958fcc1da5c8c1349bb748828de32",
+  "PGPSIG": "iQEzBAABCAAdFiEEhs/8qRjPOvRxR1iAUeixSKmZnDQFAl20r4oACgkQUeixSKmZnDSpigf+Jj0kMbGffvIAbk2r53ECHjyW7ZDi+jHT6CPmOteXfxgSyrseDvacbh7xYZWe6qieUJaIR59eJGv+w88NLa3Mjt29D3qAElBehatyKQtO/nfQN7K/qISB2SL3LCfVBn7+hJs6lfMdSbx99qk1JBM+f96xn0NgVXEMHdHaKBKMcVpGFJieTgTvga4ODPczGHV7s0BJiNxUGoQLgdhs2zlOKMNhoZxN+4HSTkMBiM33kYaguyjiCc0zhrSYCHunJzCmBKkpifMnKVRnb/wV62IPv2d3Rtn1pvDi8qlPIxr3nhxym9Kgw7zcwuSbPv4IrBz/JwzdBlVXmoNNCNPEUMMwJw==",
+  "URL": "https://github.com/klen/pylama",
+  "LICENSE": "GPL3",
+  "ARCH": "any",
+  "BUILDDATE": "1572122488",
+  "PACKAGER": "Evangelos Foutras <evangelos@foutrelis.com>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "python-pycodestyle",
+    "python-pydocstyle",
+    "python-pyflakes",
+    "python-mccabe"
+  ]
+}

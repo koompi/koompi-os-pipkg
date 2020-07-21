@@ -1,0 +1,23 @@
+{
+  "FILENAME": "python2-pycodestyle-2.6.0-1-any.pkg.tar.zst",
+  "NAME": "python2-pycodestyle",
+  "BASE": "python-pycodestyle",
+  "VERSION": "2.6.0-1",
+  "DESC": "Python style guide checker",
+  "CSIZE": "64423",
+  "ISIZE": "316011",
+  "MD5SUM": "e09ef95fa53a1f0210d525567fc57802",
+  "SHA256SUM": "d4b7b7aa9d1a912e29636d3ab91b916822f064726c34cb51b8e57703d48b8f7d",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl681mAACgkQeGxj8zDXy5KfoRAAmrFKzucu+scx1rdYKiWARPB66z9dy0Xcu1xeqwugVZ9KCNah/Hx4Rhk98CRJ9l8P67ilawBpB/UXd7wn+EV2XNHuv+K28kFz17WN38+BoMeTw74be5x0ag3a4QtYivrsjAx8hzSCs91C6k3ZXnI5DJi4RswB2AafD2Wb3ifgsdecvSmtFwQeE3P8v6tGilCXlQZpnPJeA5ruh9aASHI1FqKPcCsvkNsd9jFu/rfZLC6up6RySti35RJYh+H0eYxQ49CfXhCfpxUvtcGeY7VA/7InyepdiaZrY3Azq1U9KtdQ7kw40RY1rm7X8H3/kwPU2vStAJ/yydTGkKGrcAGZibJV10L2vljhQ0H2HKlFQkzgm2rpGewaTZrAYrp4w4h7X5N8v9lAdhg3IkiPRY+XM2bosU7lji+JDEbrtUe4TPuS4LIf9xrR0QU87tINWZtagVjU3R1Dd7lLjgCU9XXhSuJy4sv8BF/0SNrui/ejGjqo4HhCcMDws+F/iaPnSqC4+puxi0nAerCKyE8dihCBK35i3O0aq3q5muc+aV3UQk3QGzLlzasdVQl4TqEv5+3XDfIKOg/tp1C1rkHhd0C5LaA61y4SXsVMrs0RgGvqFXL+hZkrv253AdUNtDuRkXffK50biQq3e61EVL8NrG0ZGyrOq0xrybflXsK3h86b2sE=",
+  "URL": "https://github.com/PyCQA/pycodestyle",
+  "LICENSE": "custom:Expat",
+  "ARCH": "any",
+  "BUILDDATE": "1589433921",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "python2-setuptools"
+  ]
+}

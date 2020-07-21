@@ -1,0 +1,23 @@
+{
+  "FILENAME": "man-pages-zh_cn-1.6.3.4-2-any.pkg.tar.zst",
+  "NAME": "man-pages-zh_cn",
+  "BASE": "man-pages-zh",
+  "VERSION": "1.6.3.4-2",
+  "DESC": "Simplified Chinese Linux man pages",
+  "CSIZE": "2501365",
+  "ISIZE": "2456948",
+  "MD5SUM": "c4ea0652ded2e055fe11fc91654c5f98",
+  "SHA256SUM": "987b790b8cca1d27a87f7310ba90d84fa5ed2c184a632dd43bdf490675818211",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl631IUACgkQeGxj8zDXy5KeHA/+PK9P6Z5Si162JAbi8Q/9JIB52BK4/Qb4LVjVP+gmpzrTFOd4X+6q2H+olw1vdZSevPgAN/PAfROpJCVrxs8iBE2ZsD/Z4IXjqS4jWc3lABC99yHVAdK9oxhmX17JrZ6Oe8s7OZo/XAyJNmV3ybLEqEqwpxOpaZCjTcQNSPL9qYLZBWnnqz/yJHxG7IM7r8zFgnXbnCR7NVPnvzsgPOLMDSpZnGp55CB3oIvRaPRzxXycne8lYsDLTqI58jRQLADByBgup4KVB1YEWTEovLucXNmyQ4wizSTi3I8zAHYaDRk+me6axn1TN3XeFPXfvJdGLah11KgppBg+gvG7psL5F4B6rfeRIS3In/LHrZ28PTkhZPee9smxSLKulzYrj/rdkGOcr9JXWViKcnBRVI/HlHbT5yJweoZvto3RkzZtb7kLd8m8iP4Ts+5uBnlGXT9Wg+p0oh8KO1dKM/1j8w15/Xm5XXgGxVbFSsZ6ersP+UmvakBw/gN6oI2obRWNQd33ik8YRj0uXerQBioWFOArewem41fC6rRpG/rFDOfntNkGCHS+6Jrg4aZbpy5kOQGEZTfIDxupLbWHJju9kdTyice1G+b1X4ogV6rn1vpPpOM5EpNU+48WxiCQ2WVjhDy94gAjW/EJz7H9F8Z0dFzLqMCEiPWJS6JmwQsvFCBxOA8=",
+  "URL": "https://github.com/man-pages-zh/manpages-zh",
+  "LICENSE": "custom:GFDL1.2",
+  "ARCH": "any",
+  "BUILDDATE": "1589105620",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "man-db"
+  ]
+}

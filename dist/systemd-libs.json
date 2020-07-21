@@ -1,0 +1,29 @@
+{
+  "FILENAME": "systemd-libs-245.6-8-x86_64.pkg.tar.zst",
+  "NAME": "systemd-libs",
+  "BASE": "systemd",
+  "VERSION": "245.6-8",
+  "DESC": "systemd client libraries",
+  "CSIZE": "505332",
+  "ISIZE": "1732376",
+  "MD5SUM": "f2af6d18653cc827a404fe72c0556ada",
+  "SHA256SUM": "2eb04807c3e23bf7a289a840e832ad868097b9e650ffe9419b798a86b08b411b",
+  "PGPSIG": "iHUEABYIAB0WIQQEKYl95fO9rFN6MGltQr3RFuAGjwUCXvHjzAAKCRBtQr3RFuAGjxd1AQCqjlo7n7Fn3/dLfAM2IB87yVYrrEwqvp2viXW8t7fRsgEAv9MLF1sV85zK/n7snE9tJ/OI2s1tJZ1sPAtvmi3b8gw=",
+  "URL": "https://www.github.com/systemd/systemd",
+  "LICENSE": "LGPL2.1",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1592910580",
+  "PACKAGER": "Christian Hesse <arch@eworm.de>",
+  "PROVIDES": [
+    "libsystemd",
+    "libsystemd.so=0-64",
+    "libudev.so=1-64"
+  ],
+  "DEPENDS": [
+    "glibc",
+    "libcap",
+    "libgcrypt",
+    "lz4",
+    "xz"
+  ]
+}

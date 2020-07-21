@@ -1,0 +1,23 @@
+{
+  "FILENAME": "marisa-0.2.6-2-x86_64.pkg.tar.zst",
+  "NAME": "marisa",
+  "BASE": "marisa",
+  "VERSION": "0.2.6-2",
+  "DESC": "Static and space-efficient trie data structure library",
+  "CSIZE": "99229",
+  "ISIZE": "419651",
+  "MD5SUM": "38911d0235a0a63acadd1736283044a7",
+  "SHA256SUM": "1afb7037a0b17b92011acbcb1cc5a7e2b748c981b68b6d4cafa5c1a4d8f05d0a",
+  "PGPSIG": "iQEzBAABCAAdFiEEhs/8qRjPOvRxR1iAUeixSKmZnDQFAl7vhWUACgkQUeixSKmZnDQ34Af+NS7RpKihOI+n5TPmKU2tuz7vM94PcSUoc0Cv8++paHGy+cs8amCO/PdFzZSR8rh6EPQKxMRUYx93AlbSjqk+qDrjZUYbcYtCJ5zthX/9oNZKzqr1IM8641jSXnILvNgQjoXlhSJ1yKmnbvEYyWpSXxVQCqVzcJXYRDvGKiv1LKU0rmVokKyQOLvxXJbcxsXI0fJA+x2dtZ2OV/hfVhlbxvXuSUcF+DyZD3+wICpVSUavUrhA7VI3qPVs91TKTWOmBsQQJeTQJ9l6QtkUZSx9ygKQ+NHqlLycbGU5E6jmaP9LGkh8eLJtpqPLtgDV3XqMWP3phq/qrD8NQ/0YARIgJQ==",
+  "URL": "https://github.com/s-yata/marisa-trie",
+  "LICENSE": "BSD",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1592755464",
+  "PACKAGER": "Evangelos Foutras <foutrelis@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "gcc-libs"
+  ]
+}

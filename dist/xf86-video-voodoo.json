@@ -1,0 +1,23 @@
+{
+  "FILENAME": "xf86-video-voodoo-1.2.5-11-x86_64.pkg.tar.zst",
+  "NAME": "xf86-video-voodoo",
+  "BASE": "xf86-video-voodoo",
+  "VERSION": "1.2.5-11",
+  "DESC": "X.org 3dfx Voodoo1/Voodoo2 2D video driver",
+  "CSIZE": "15140",
+  "ISIZE": "31288",
+  "MD5SUM": "249b1badd755692d634e7942dbb11c0c",
+  "SHA256SUM": "949b34b2d88ed71ae456c666a5f4abd0ca2423dfebd183fb23bdeea1bffadac1",
+  "PGPSIG": "iQFIBAABCAAyFiEEZkWwqMcAXnjbHXhk+Z/+D+rpmb0FAl6zhaEUHGFsbGFuQGFyY2hsaW51eC5vcmcACgkQ+Z/+D+rpmb3ZOwf8CuxEglpSvscAoGvzjFpDwwHrIsrVY+YOnygf3q6L7z1BCNeS/3eunKf9E9u7McQ43qZvQWjqlxLmNgDyGbpGvCxJ9rB5mjLrP10zv2WYwaptAO1g18WjFb3mSHP6bjWTXr2BkfavyjEkPxDJZi2m7+MXx0p6Qmyj0vLk4ZSrRvaHNvETnEyoDDUEysNRqrfvSNdNgJgELo3smslhjOPrQTGYl50uTllwD8NqhHMzcHaB93r0+uK58263Fkix7//NSXLgxsm2xvRksawG202kUY2OMdK5/CyQ6g3zdqjIIPS8AR8TVsfeuiLAKctngfcFUDGF0QQfKx9e/R1VK3jiWQ==",
+  "URL": "https://xorg.freedesktop.org/",
+  "LICENSE": "custom",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1588823417",
+  "PACKAGER": "Allan McRae <allan@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "glibc"
+  ]
+}

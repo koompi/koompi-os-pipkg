@@ -1,0 +1,24 @@
+{
+  "FILENAME": "ruby-async-io-1.27.0-2-any.pkg.tar.xz",
+  "NAME": "ruby-async-io",
+  "BASE": "ruby-async-io",
+  "VERSION": "1.27.0-2",
+  "DESC": "Provides support for asynchonous TCP, UDP, UNIX and SSL sockets",
+  "CSIZE": "63468",
+  "ISIZE": "265775",
+  "MD5SUM": "11b538963358bf9af5a3aa6a4ddc60d3",
+  "SHA256SUM": "c982d0a30ef83d080842cf49aa4e9b6acf8f02040cb1d6f954951d334b5b897b",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl4EA5wACgkQeGxj8zDXy5I7yg//QOBviPoWtrSXDgTsbzx1uYXIElMqfPCrVwKP8OIFTSgxp9MnrirS2+NK7ssqDgDylwULqRqsqldz7WNalOcofhBOQXSlh4BpmO+DBZz45DR/7hRiHdyM2ex7KuF3t3eFGoYMoDq8pp8XxcPU35jnQlUJi32agyzYL2AlI8CVewg3TiJaJLL4sMu7wEVgAQNA4/zZd8N8ff8HOyAe0y2NlGddmVh6IBuvPHQUhfRnWTMZ4XbPVWiYARSBtv+J20pwYHmF2pBQY5T67UC+AzhPGztagikJk0Atem3q9NOtIMY/eb7AtzL8hXgJHRMRTOLfwUaA4s7exijW/feVNJ9kyAd3HVHnY5t/qNBUn9sPUzMN7INSVaN5LaoD7pRx+mN608ZkSTBRCVbf/ZLgdCaFy6NFMsr+k46mQTbUpedQSNYoIMqfQZTb78T0NL5Uh1T67vx8tbTccCLyY5o7nfPisqevZrnByUlSWM1Kt+KJLuPS/eLyUXIQtBLM3+f3A/9tF8+dNgcchYcG1RoFh9sdBGj3W8t9AcVXNwiebwLcezWpwaCtg7jB/zYmJ5NeDbucNbomIhPuq1wKXzDi85utjt4U8y4Y/mcwvEXvMcw86QqmmiG2UGjrFbU0LUEl/k1vuvHjw45k+H6yq1lOkdpFYl7O6R9yjeVHfjAseXXc7Ro=",
+  "URL": "https://github.com/socketry/async-io",
+  "LICENSE": "MIT",
+  "ARCH": "any",
+  "BUILDDATE": "1577321330",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "ruby",
+    "ruby-async"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "FILENAME": "python-ratelim-0.1.6-3-any.pkg.tar.xz",
+  "NAME": "python-ratelim",
+  "BASE": "python-ratelim",
+  "VERSION": "0.1.6-3",
+  "DESC": "Makes it easy to respect rate limits",
+  "CSIZE": "6840",
+  "ISIZE": "12517",
+  "MD5SUM": "91860d1177429e1ae1707f16435c9079",
+  "SHA256SUM": "863771f353b2668a5c303d30234e02cf99425507801e1aee692404f9b68aee50",
+  "PGPSIG": "iQEzBAABCAAdFiEEhs/8qRjPOvRxR1iAUeixSKmZnDQFAl28O3cACgkQUeixSKmZnDTGJwf8DioGOk/gs24MNz6cn8ioiZ3kx18JnRojsTEPjueO1IVEYaQiGlwCnojD1rbrpn3p9jelePSOwbNoOPp1ij7+U4bxPndZ8W+gwbINKPUFheO+m6tcB3fT3h8uGZgMdAYx+bXe7Z/2SZFDCS+Fd/Cf/na/M7a/Xxy2G2MxxaBnANwc5DeWz7PVH9DrteJVbTzAPpHrjc0yG9wVjm5+oqGrngeLEeGceeAQt1BAg6KiEFu4zo7hWXLgMrLYMw3uCy/sPiOS4WDX5RvEMdFWN1dBMuVxNGUX7vhMZH0ipQyY1TNz+HkCnXq4fW7LIH+pJpL896KdktOV1WvS73e7Faw7WA==",
+  "URL": "https://github.com/themiurgo/ratelim",
+  "LICENSE": "MIT",
+  "ARCH": "any",
+  "BUILDDATE": "1572617062",
+  "PACKAGER": "Evangelos Foutras <evangelos@foutrelis.com>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "python-decorator"
+  ]
+}

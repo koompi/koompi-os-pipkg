@@ -1,0 +1,24 @@
+{
+  "FILENAME": "poppler-glib-0.90.0-1-x86_64.pkg.tar.zst",
+  "NAME": "poppler-glib",
+  "BASE": "poppler",
+  "VERSION": "0.90.0-1",
+  "DESC": "Poppler glib bindings",
+  "CSIZE": "258941",
+  "ISIZE": "2604309",
+  "MD5SUM": "17fa0400c449c7cacd2158e90ad3f821",
+  "SHA256SUM": "d49582eea04975f6953598663ceda0f84c4074bb01f2e7f91e4c035ab2977dcc",
+  "PGPSIG": "iQEzBAABCAAdFiEErcih/MFeAdRTEEGelGV6sg8qCSsFAl7+7aoACgkQlGV6sg8qCSugtggApUlV8YYPOXc5D44r5YVpUhnMrKihcG1huY19YMOcCoYeNR1951boypnwyRNWxkaYLi+L/0NMK2aLJJslhLdN9t6FaAsxDWtifbHuFtRHJhhYL7IMjG2HbolRgwH5XTnEgbCiKLxpHGYilS4D6Ca/O9spN2qOxuBcai5o1+qanuH+T4T8CUCu8ppZxy3BaU3CsHHsyMTfNoHiX1jSkpndJYGKfCoGN2jU1gpwn3sZRunxMfO/fDnnoB7yaPSCBVecKf5rOY/D0EKoatreE8HZsAiuQmQ/KA3d87OeDHWlosbYucXI1IHHG6/4zClvqriQwlz5dBWJB+TDgQ/a0wj40w==",
+  "URL": "https://poppler.freedesktop.org/",
+  "LICENSE": "GPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1593763521",
+  "PACKAGER": "Andreas Radke <andyrtr@archlinux.org>",
+  "PROVIDES": [
+    "libpoppler-glib.so=8-64"
+  ],
+  "DEPENDS": [
+    "poppler=0.90.0",
+    "glib2"
+  ]
+}

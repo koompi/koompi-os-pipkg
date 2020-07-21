@@ -1,0 +1,26 @@
+{
+  "FILENAME": "tmate-2.4.0-1-x86_64.pkg.tar.xz",
+  "NAME": "tmate",
+  "BASE": "tmate",
+  "VERSION": "2.4.0-1",
+  "DESC": "Instant terminal sharing",
+  "CSIZE": "246408",
+  "ISIZE": "668776",
+  "MD5SUM": "d9d57bafbafa1357ec73d62a573d9a4b",
+  "SHA256SUM": "e1a5a57ed3181c54c1c0974aee9a0e98f597ad1eeed406a781e105fd9771bf68",
+  "PGPSIG": "iHUEABYIAB0WIQQEKYl95fO9rFN6MGltQr3RFuAGjwUCXdGaDAAKCRBtQr3RFuAGj7SYAP4yYSD7cSgpVkKyv96Ci7jtTWT7+28FqldYUfCQX18dDwEAr2eDzppgrjwa1IR8vTrfnX8jXn3mOe7j3fwAKx8OCw0=",
+  "URL": "https://tmate.io/",
+  "LICENSE": "BSD",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1574017482",
+  "PACKAGER": "Christian Hesse <arch@eworm.de>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "libevent",
+    "libssh",
+    "libutempter",
+    "msgpack-c"
+  ]
+}

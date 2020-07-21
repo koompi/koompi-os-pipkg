@@ -1,0 +1,33 @@
+{
+  "FILENAME": "haskell-http-api-data-0.4.1.1-37-x86_64.pkg.tar.zst",
+  "NAME": "haskell-http-api-data",
+  "BASE": "haskell-http-api-data",
+  "VERSION": "0.4.1.1-37",
+  "DESC": "Converting to/from HTTP API data like URL pieces, headers and query parameters.",
+  "CSIZE": "190305",
+  "ISIZE": "1202548",
+  "MD5SUM": "5f1c9fac178dfa5fe0fe5159f7ad4bfb",
+  "SHA256SUM": "51dacd9a07c6771c3983cb9d56b5b11955e7419e22c4d243b07f84fe126c6a83",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl75mvAACgkQeGxj8zDXy5JX0RAAg17FV/7yRLRb0TTtmA1P/ep5+5yA1QpSGxJv0NuEiYGU+GxnzugiEO0CVOMNaIuo//Vk7v4zBYSdPBc1Q96VoDZ3CVzkGP4UmBfk4BKd7Icf+ORtgGbYP71wQWmNnbiYrHoFAR4Cyh3YhcfTlGvTf7K0nonBB8D7xCWciz4k/kp+NKh/ZrmPI6MYu+KhtB5qg2OPdEs9HftTVGg5GHRdTEFthM1inQ/RYQgTrdtx+CALk4tgsEddNjh0JyWWiPhggqiSy70O6uN9n2ytB0XKr/mRafA1tIyAmjJmmYEITDQcRck8IScBCXXphSRy4V5HE0Azf+93iMMWBkx6EPc++I31bW7c+2qVU1sAi6UGWTl8h2gEnKtE9mLqiDIjA+T5+zgYIvkjOXjEsWk6NrBt7JpBCWeM6CSzrb592KmXZ0zKiA51/LSn/N9CpjjbyqXyks0zMyW2GBPSfkFlvWPLNUpHeaogL3bERm7OtFj5ve/IXrk+6YY2ZjZrB44k4b88j/okzWrraJUA/CLymqlokueuEoy2kcb+PCPnfTgcvGanpCi+Qs98laUw0FuN0C4hoP2K2fJrLohXj5HEBzBzopd5QpupfybAfaIwMmIUOIDdVnGCE2LUlnpOPZpEMvAzTDyyHL4fNLVxiP5wBfJpbdA2PZQ/C0lrGaimHPhxvAY=",
+  "URL": "https://github.com/fizruk/http-api-data",
+  "LICENSE": "BSD",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1593416375",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "ghc-libs",
+    "haskell-attoparsec",
+    "haskell-attoparsec-iso8601",
+    "haskell-base-compat",
+    "haskell-cookie",
+    "haskell-hashable",
+    "haskell-http-types",
+    "haskell-tagged",
+    "haskell-time-compat",
+    "haskell-unordered-containers",
+    "haskell-uuid-types"
+  ]
+}

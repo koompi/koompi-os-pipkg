@@ -1,0 +1,26 @@
+{
+  "FILENAME": "classpath-0.99-4-x86_64.pkg.tar.xz",
+  "NAME": "classpath",
+  "BASE": "classpath",
+  "VERSION": "0.99-4",
+  "DESC": "A free replacement for Sun's proprietary core Java class libraries.",
+  "CSIZE": "9218160",
+  "ISIZE": "10906624",
+  "MD5SUM": "321ea12faa462450622f70e81bd73cfb",
+  "SHA256SUM": "e4ff6eb187fd3cbf09ee7eb71b5a2cd660f617a0b7cc9b936c049c82a4f8952d",
+  "PGPSIG": "iQEzBAABCAAdFiEEzgvecadZqH8j8PfYth284QkBwWMFAluUvb4ACgkQth284QkBwWO/zQf+LBYVCGPRomv2MZ1LnJowrvzb2BRn/TfqDvRbZsa56XGTvCU038VOxnPep0t0eSzamT2bLOSm4pqAmsxbS9lVPG0/w9umrhu+nc3+ENPyGo6/i+rV8dm4FcCuwvWEM1R6VprfSPgngkThB+W4NFWSIDVFHLAEFgZRc/PHYsH4OkM82aQTEuCJWHgdXwJghitYQArHQTggSkpbHvIB7+GmGhjOVy19vaAFDO1TBv8eL5yOFwoCH5/l/gMElRTT0c+jxOH+HNkIyjo/EZoaxcZ88B+8JlM2+yU1C1iuio63yL6BhCvJDYbOOw4jbQhecmWnYCl18FZ8lHXXDetqda9ygw==",
+  "URL": "http://www.gnu.org/software/classpath/",
+  "LICENSE": "GPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1536474413",
+  "PACKAGER": "Balló György <ballogyor+arch@gmail.com>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "file",
+    "gtk2",
+    "libsm",
+    "libxtst"
+  ]
+}

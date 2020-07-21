@@ -1,0 +1,23 @@
+{
+  "FILENAME": "google-glog-0.4.0-2-x86_64.pkg.tar.zst",
+  "NAME": "google-glog",
+  "BASE": "google-glog",
+  "VERSION": "0.4.0-2",
+  "DESC": "Logging library for C++",
+  "CSIZE": "76674",
+  "ISIZE": "230335",
+  "MD5SUM": "111d518f61288f082b99f2122760154c",
+  "SHA256SUM": "d4bae1cf63d8efa53ac2b617f5d4e335d2d5674e43a76408a3b0d1ec8c25b7f0",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl8EpGQACgkQeGxj8zDXy5IqqA//bxd+bmqsM+bREGOhw46iezwk2MAyvRisz2zrBzH0CtMqnUR4jE+GO9SUlUzmMCvxQgviom9mawnXXrCTgNzS72anEoPqIJgjXRKho0rozOnpoSW5zKncLKBVmMGV6QvuJs2Ym9sVkIgKgvx4946jwLpB0FKuTGASBv+Bf6yja2AX+xVxAb5rhiNWJ8q8RX/MVxas6ZyPEtCcNsO+qBNfS0tlugIJtFBhfH3XePaYp4IQ4yau936Nt74/nsWzjWNkTH5enCm29qCSDBp7TWaYpHCR65kzBvZ5Fezl1y36ChK/38GWzUlaIftduRv1zlcz0qRcZjba0DT1VLUEjOrMVhn9VdezmHl1sUZZFmUuod2zID6XdSehM3KjxppXdvwOGpnQd9qMX5UqLo/ghrAY+aJronCumbXxBwTyn4qAqy5VUtLwuWwtSfqpsI/1u4y5hHkqWxBE4L2gWwCv1alL4DLcFv3TGUrqRo3aefggLV06g9ctrwPP636SDeTAl5M9CHW8h5zxBnfOzxIMSB0bZFC1fni2YVaDzIlbOShVpadWOP0H1VZm9o2fpLfR7X0tk5uD9WmWlRWlDv/cKTMsZz7xbk+Hcu+ej+2mch12G6bzgnlMQagtHjHtcnQd72w6djUpx6c/hHdpHfnA05Bg97BDKsEWN+D7PDr4czoFf+0=",
+  "URL": "https://github.com/google/glog",
+  "LICENSE": "custom:BSD3",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1594139619",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "gcc-libs"
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "FILENAME": "python-ethtool-0.14-4-x86_64.pkg.tar.xz",
+  "NAME": "python-ethtool",
+  "BASE": "python-ethtool",
+  "VERSION": "0.14-4",
+  "DESC": "Python bindings for the ethtool kernel interface.",
+  "CSIZE": "21496",
+  "ISIZE": "64268",
+  "MD5SUM": "6f271d8d6f8d5fb3083f19af7c982961",
+  "SHA256SUM": "b01648a2f40ef0f9e4780619d74d2302c0c182534b44e856eb7b278a7c20c830",
+  "PGPSIG": "iQEzBAABCAAdFiEEhs/8qRjPOvRxR1iAUeixSKmZnDQFAl28OtIACgkQUeixSKmZnDQ/IAf+IlqggZ8F2hAtgfpS4fR0AEbWt2DKJAy1dWJFL+cNstldKSGpnupC41vHXbWHuTyx2QKwoXm+dZzhEFrPswBea/IfZ4V001Knbv42PRVpmHvTmIcwvjAMMW/41alwJl/axqPY2Kj6DJNbC3T+FJ/22RGdb0DJevqupgLx3yhovpe6PvAX4iyN2nzoAh+C+surH3I/j6iZzfJQdnBQGukg4KA5yNpAnhUBZn3LCgmgAGQkSU58lmqdCNpJEf+NopDslw6/p5KdYKt1ZETBRbjjLonLgfCunWcqm4z1JnMHvgMVv2Tsqnrsq4dBdGRwl5dDsTsjuMbmTQ6bAEcSUA903g==",
+  "URL": "https://github.com/fedora-python/python-ethtool",
+  "LICENSE": "GPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1572616891",
+  "PACKAGER": "Evangelos Foutras <evangelos@foutrelis.com>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "python",
+    "libnl"
+  ]
+}

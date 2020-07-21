@@ -1,0 +1,23 @@
+{
+  "FILENAME": "jbig2dec-0.18-1-x86_64.pkg.tar.zst",
+  "NAME": "jbig2dec",
+  "BASE": "jbig2dec",
+  "VERSION": "0.18-1",
+  "DESC": "Decoder implementation of the JBIG2 image compression format",
+  "CSIZE": "61867",
+  "ISIZE": "160545",
+  "MD5SUM": "20da6dae87cbe6766d8648077fb95237",
+  "SHA256SUM": "da13fbea24eed9e51621281e75a6cdd75c0d42a1186caa7b37fa465377fc4bf5",
+  "PGPSIG": "iQEzBAABCAAdFiEErcih/MFeAdRTEEGelGV6sg8qCSsFAl5wa08ACgkQlGV6sg8qCStnlwf/WO66ba3hhkEkFnHo+dDW0vzQGs8awBuCXuYL0blh5AzWhRy3PIMm7KBVmKEHIno0xJRaykTDCKuIEogQVlZdK3RBw1HIQEglUrQCNc1+077xejIzNaJQse6BDG+NzQjtlL0cPDgSg0srIFIwC618POmyXaT06nkehg0rTp07YrxuAl0GTz0X9elMLjx4NWTAoGJBsrbhR1Vo1hTKMfJtqRX8znETZ8xAnfR4aLxGpA5F2qtIBN4SInynzt4dl3Za32X/1V+YukgWXCTv29oOP82YP8qGNnY+4Hz+ZpoJTczUr1QZyACQCCUQcahLMTEvRx3PQ2LjVmxhYF6Lx2A4Cw==",
+  "URL": "https://jbig2dec.com/",
+  "LICENSE": "GPL3",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1584425722",
+  "PACKAGER": "Andreas Radke <andyrtr@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "libpng"
+  ]
+}

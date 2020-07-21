@@ -1,0 +1,33 @@
+{
+  "FILENAME": "haskell-aeson-compat-0.3.9-104-x86_64.pkg.tar.zst",
+  "NAME": "haskell-aeson-compat",
+  "BASE": "haskell-aeson-compat",
+  "VERSION": "0.3.9-104",
+  "DESC": "Compatibility layer for aeson",
+  "CSIZE": "23750",
+  "ISIZE": "75502",
+  "MD5SUM": "c5832d985e54dcf2882faa6d20b19e90",
+  "SHA256SUM": "eec7dbb6bcc0b5e8e806b2989e4116d0db78a383f9df81ba0242ca87f3b5822a",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl75NLYACgkQeGxj8zDXy5JomA//RhJLoTCv6CU3GHQTtUs1FfN6V+N9/eb8sma1r6YYRaeoSqnnCRO8Cut6V4CH9MGR2yJppRc/cnl3Gv8yvmsKW6JOezVL2j8+OkdvIbfNIy0TvC7nMAiKjcggf1FX5B1t5o4t3aPPs6CyLegpRNhO0wTV+ZW5UIBVVF5ZntLPYEQM1LKVpAkgSMYhE1YYAtQfzoaGIzGhQzJba2bMnVjbIpbus+kufnXdU8YDwZl8onkBnBxq7VocneME8k/Q3u5Lc4N9mx560o+TlmVwznWw7T8FbXqA3ZZjo+9ruw39WfJBdjZU6Wv5NvTBtI97eHtv6UdHIEX+V3GmVmnwu6fciFlvsx5lmHRcYATucFO+14lBUyP+WWKk00rSH/9iGXcEFb8dO+RvKzOqoqjiWYxjEYcz0x++lsxweJ1HCjfn5T7dhprELqLZETK3NkAAN0y8bOu62gOugoa9KKie1LctIisGP5YLrkO7Bp3sUKHCQfYdcecEUCvkUJ8JckrGdsljNgiCP0QvzuG6ackG/mWtlhsgYpTyvsw5USzLQMkkIFLeVXyCmbyyflj03yBiO/vRKnwkg7Kz4ws/cOtcv22j/U61CjItGuiG3iT5EtmvtfHmKdVSuhu1rcuhkGwo+ZYD+ES8zXbyHxo1enWSqExwxT3YDoZmJ8eW/qbJ6Er0a4I=",
+  "URL": "https://hackage.haskell.org/package/aeson-compat",
+  "LICENSE": "BSD",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1593390231",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "ghc-libs",
+    "haskell-aeson",
+    "haskell-attoparsec",
+    "haskell-attoparsec-iso8601",
+    "haskell-base-compat",
+    "haskell-hashable",
+    "haskell-scientific",
+    "haskell-tagged",
+    "haskell-time-locale-compat",
+    "haskell-unordered-containers",
+    "haskell-vector"
+  ]
+}

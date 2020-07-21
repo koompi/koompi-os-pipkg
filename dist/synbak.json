@@ -1,0 +1,24 @@
+{
+  "FILENAME": "synbak-3.7-2-any.pkg.tar.zst",
+  "NAME": "synbak",
+  "BASE": "synbak",
+  "VERSION": "3.7-2",
+  "DESC": "Meant to unify several backup methods in a single application while supplying a powerful reporting system",
+  "CSIZE": "148336",
+  "ISIZE": "491491",
+  "MD5SUM": "e354654d7bbdc1325666b7907f4b4de1",
+  "SHA256SUM": "01da0dbd08d7d19546fd5c98dd31fb1ea44fddff377b7e338c6c74beef1bac2a",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl8EeCsACgkQeGxj8zDXy5IPww/8C06wI7Ut+EYulpWLD7h6+fJkeJKTsLCYzbjO1A4TImdTzuBu/q/I1MS8UJzX5FHtHc6KuaJLItRlyYEQmwCDljd+pURR1RTP5CiSzTvxhiMzsA5BDzIiba5EtBOPu6R2OK96pTfRrcljZE8XHM+B1ibg+xbIMpG3rRDhmR/U8uHDsFCoFaz8p3JQ5nZF3V0MgLUYOewUUc+kswjShCGFZEVpNcu6ExQbKKhaRRcVTmZ1UG9ix0GOFTN91CZj0bnFBq9AWkQiHYm4bxvXYURTftDcrH0O7wSCARE4vJIcDs5XskuZhywuMkjQZk0Ofsr9ei7OxMzWyXSX9DBvQO0011/cau6um79KGwI9gQs0ZCgq2AP2sYltbM76zlW7Y3lxlE4BaYdlY+r2GjtP134LkY1JZKpJArzXBbvUTAXN8EIpJJjh1SSqdksuD7zHy1IotStaxi6kFjW1KsiewkRUTWXeaoE/m8uSMMrj5J9j1koc3T7ddfcXFdELKrpicKcr+LXfV996Hh/XTC0vyQWSikfGu5tFficxM8yVduA6gMBcuGGkuTlZK8auBbocbKibV4rF4yPPcszu+6uB/MzKpVSSx44wNrDiYD7his6jaMy4wQZSYSKjGrJsdr+WtJlwHWMkiG7r+VckuYUz63h2dicJtU0W0Cj4K7INg08QCrs=",
+  "URL": "https://github.com/ugoviti/synbak",
+  "LICENSE": "GPL",
+  "ARCH": "any",
+  "BUILDDATE": "1594128340",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "bc",
+    "netcat"
+  ]
+}

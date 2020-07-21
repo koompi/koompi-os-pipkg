@@ -1,0 +1,27 @@
+{
+  "FILENAME": "gnote-3.36.1-1-x86_64.pkg.tar.zst",
+  "NAME": "gnote",
+  "BASE": "gnote",
+  "VERSION": "3.36.1-1",
+  "DESC": "A note taking application",
+  "CSIZE": "3798151",
+  "ISIZE": "10914242",
+  "MD5SUM": "67f96a3d8907c7f8ea22217f0a0fbb4e",
+  "SHA256SUM": "1bf4d62434ba48bb2df934eab33e5e3fffb182911edffc5179761313fd6b5043",
+  "PGPSIG": "iQEzBAABCAAdFiEEqEuNxzq4MgZ75Uw8l2rG+juU+hAFAl6/BBMACgkQl2rG+juU+hArjAf+JgrNt/a8X0vrhyiVxpj5oz4nMgcsFDIb1YaWLPzBKeUP9od3QBKtm+H7wpILyhIoKOS/WTepZ5anFFDS7zvfMZ0Hg+QMU/0qxl4c5urJBNV1r2ZvGJjay7IlBvJKwuBeyJuwmMZDGyQWb7WUYazQAN/l3q/oiVIrP7b4heuOfG/LUjR7lr1KrPkubampzeWkFoCIB7zuC5dYkL1b9ZKxdQlgyYkUMmUfoAoe+SYAnjR3V4q4zMSqK9ZTDXU6rDuEzvMVTl/A8eEnrsNc2Qce2r1t64rPUarFOBPtT7MklhN0VjtkSMOmjidwILBjOZdBzNI/EMloUC2UNGGycFVgbg==",
+  "URL": "https://wiki.gnome.org/Apps/Gnote",
+  "LICENSE": "GPL3",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1589576386",
+  "PACKAGER": "Jan de Groot <jgc@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "gtkmm3",
+    "gspell",
+    "libxslt",
+    "dconf",
+    "libsecret"
+  ]
+}

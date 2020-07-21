@@ -1,0 +1,25 @@
+{
+  "FILENAME": "freedroid-1.0.2-11-x86_64.pkg.tar.zst",
+  "NAME": "freedroid",
+  "BASE": "freedroid",
+  "VERSION": "1.0.2-11",
+  "DESC": "a clone of the classic game 'Paradroid' on Commodore 64",
+  "CSIZE": "4359888",
+  "ISIZE": "5202364",
+  "MD5SUM": "de7c671b7427989f127f55c2d6477c4d",
+  "SHA256SUM": "1dab9d653928af24f51e994247274a770feb90954bed710c816a0fa58331cb22",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl8E53cACgkQeGxj8zDXy5LSMxAAoDT1yMjlEua3QxdeLd701g8YpLb7HlZuI5ujxKxaFst6xuNotTha2uiVsvIuMAHlw68m8TLUVOkAr4mHsvfEpSpU77zJmINssgGkQv0Ge7YEE6LPS9wEkcVNscWgxTQTJfTzvxGkPq/mjn2CgMzhL1TkQs0h0ZwRgCCKYt6UetbWELAuAc5RwTJRmDS0ER+rusdOmQxUNBidK6URUAaXm8DYC3513eTD9AKIpa0TOaxo3itUacLWb5NhDIg1oGGZpkAq5S1wAB96ZI19bZ4PU6fDrg5SoIhSRd1oI1Z7MOE5wMsu5Ts7zoTTA4/oNRLkjjGuyVPKyn+foRWuMPduc3n5A37+BcHKQ3U++6GtYN+BTkinptttVv+5rXs9Kum8aPM1Be7idp6NKpmp7wq4q9m9axov71LCXdT96tNgGp9ZGhZJrTgWa/WzKjcYZ0e3oMqvPlnFsTr0/TDf27hPs0gjU4dPvJhBk0DuCYUmw0LnPec4nA3JHoAHZvYbYU5SvdvHryBHNd/qna5Euj9cTctycbhWYDxPlBrZkEHMEZ/ObeYDLk9MdSMVf7FfhZGXz/YJnPbH4mO46L9c+xP5EYAZT9D1jWmUQC0OkQByQwix8OWfaYldqeY8lzVjvecpMY9UKgm/iRouyVrdTlhOK5Yrq6q4L4jYyL5Zy5XLbwo=",
+  "URL": "http://freedroid.sourceforge.net/",
+  "LICENSE": "GPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1594156876",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "glibc",
+    "sdl_image",
+    "sdl_mixer"
+  ]
+}

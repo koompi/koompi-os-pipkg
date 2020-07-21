@@ -1,0 +1,23 @@
+{
+  "FILENAME": "tzdata-2020a-1-x86_64.pkg.tar.zst",
+  "NAME": "tzdata",
+  "BASE": "tzdata",
+  "VERSION": "2020a-1",
+  "DESC": "Sources for time zone and daylight saving time data",
+  "CSIZE": "375268",
+  "ISIZE": "2464802",
+  "MD5SUM": "1156d85186300fb2ca0935b257be6d04",
+  "SHA256SUM": "f95e68f356830abdd3ee013528001d09c727c35b8777a2399bd7119af61df175",
+  "PGPSIG": "iQEzBAABCAAdFiEErcih/MFeAdRTEEGelGV6sg8qCSsFAl6iegIACgkQlGV6sg8qCSugOggAltBa4B0GQ+QC8UgC1ZVV3Y9lrVGoOiRGImehZx3wNcmfvz+VFN3KD+55fh5gOW17KStWQzFNanxOWype1yIhADSSvVQzkVEiPcLBCbud7IntPqajysQSXoQS059hgan9d7Ia57QScqIETmkkSHauCQsIFpC8gqoFAq/leUpZMgSzCzIEMu+BFPSL9WjS19FKGF1/O6KYA01fUPnRKxOX6g/AJxoItaQPJP4Vw9s606npPJ/gUrjucS1mIuNpe/cXeunh5SQG/UbR90TMR6VCeESrRSHxajqLYhGyzbuFrCLyjM887qkHAuXHQnvfXlTMOoaI4L9tubYAvOMaNbpGNA==",
+  "URL": "https://www.iana.org/time-zones",
+  "LICENSE": "custom: public domain",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1587706265",
+  "PACKAGER": "Andreas Radke <andyrtr@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    ""
+  ]
+}

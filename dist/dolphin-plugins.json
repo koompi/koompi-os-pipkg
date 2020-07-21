@@ -1,0 +1,23 @@
+{
+  "FILENAME": "dolphin-plugins-20.04.3-1-x86_64.pkg.tar.zst",
+  "NAME": "dolphin-plugins",
+  "BASE": "dolphin-plugins",
+  "VERSION": "20.04.3-1",
+  "DESC": "Extra Dolphin plugins",
+  "CSIZE": "334842",
+  "ISIZE": "1870646",
+  "MD5SUM": "656124db52b5f865fa1586ddb7d899a2",
+  "SHA256SUM": "514645be017dc77527b083868f4f2268a4ad57fb712c92c2632bd299727b97e6",
+  "PGPSIG": "iQEzBAABCAAdFiEEFRnVq6Zb9vwrc8dWek52CV2KUuQFAl8HIL8ACgkQek52CV2KUuQ+1wf+PNZja/yWZkRjwTD/8LKZnrziHJZZ51O/9uVqkVLSC5fzxuLdBjF1st4kbEE+o/hCDvPt9uJm6zElJ8Xv980aA1AJkh3LECteGmqEBKDeIcPkvPtodWk79cBhX6N/pk3aa61sM+aJ3f/XL+HGf0SqAHcFzydAl/zhJOZ67xmJEKuUB0QS/TUl7bHaiu93ytnNJ6NPUac7GUj9mxx3ij0fe3Fia7XsYxGh01CQ5J6xrVUQ09e7kyT4arbZAv/QaplScQ/oqu/MvG3dBvULhhCSuTxih0I6HugwTE1Z7SicbV45wMet4qQ3CRpITc5U5434NVxE8Y6Fliizkru1BJub9Q==",
+  "URL": "https://www.kde.org/applications/system/dolphin/",
+  "LICENSE": "LGPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1594113286",
+  "PACKAGER": "Antonio Rojas <arojas@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "dolphin"
+  ]
+}

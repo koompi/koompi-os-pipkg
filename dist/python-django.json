@@ -1,0 +1,27 @@
+{
+  "FILENAME": "python-django-3.0.8-1-any.pkg.tar.zst",
+  "NAME": "python-django",
+  "BASE": "django",
+  "VERSION": "3.0.8-1",
+  "DESC": "A high-level Python Web framework that encourages rapid development and clean design",
+  "CSIZE": "4321514",
+  "ISIZE": "27790595",
+  "MD5SUM": "62fc26df09acc7b01df71623adbe5487",
+  "SHA256SUM": "45a48e51f8770bf4184e34caba01a9e923255e116080016b815776e8553970e3",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl78vksACgkQeGxj8zDXy5KyGg/+O7j7wT5+CibNSpZJ+yEfJCre2CcY0cHjNKBG4aadpQUcrQVQyOT44WnleC/muXnegxzo+dK8wdVmcbV04DWTcBaNtkCFvUvvfEGUApHwsPoRbizH1q6sNKJJBjTowssazZf2eoF/BkOXt9V8IpD6XlsdyaoJSJoofkP8+rms/HlRHUqxA0l7xkIv/QCTOQ+MUG4mylN1VvY/LQHAwySiHempBsb1ezWcfGPgzjQZp0zScfK0UO9GxkWIKr7bXCqsqYeBTAO8Y5nxG+sXDNRFv1JEmPRiKUIyacW505DPOhxCcjHhkV0O3uXQ/vxUQ23M1Vm4f7RlBXjEv4Fol0dOG+uxmRFQoxdVPXnTD7RucmelbIc8iwfYCqsBalVfuC5E2mxZCLc2jhQE9MmQjxNNJyne64oSAqHMZ0QLZTBKXWnS9nMR/9W+5SpEuK9PjxqX7iZr3/RczNs+VdgN9vxqE3vi7Pikw+22tV2729fDsnnDCfPCbkBk4JbbC6b6wvkgr5ZaiermlTnrFeVODwBc6aXhX9zZR+g4CQomKYwaDIhTl3GZcVic5YhTww6VnjMXM19H4psdbpfD+cC64Kjgt5w8t+wnliS/kB27Q+FM7Xw+6Gk2cEIfD2mLKTRBcfn1L1RqXTKAgXFM7WNXP6P0EgZSTjd9WcK7JACyBySI7xs=",
+  "URL": "http://www.djangoproject.com/",
+  "LICENSE": "BSD",
+  "ARCH": "any",
+  "BUILDDATE": "1593621822",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "python",
+    "python-setuptools",
+    "python-pytz",
+    "python-sqlparse",
+    "python-asgiref"
+  ]
+}

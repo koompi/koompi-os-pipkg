@@ -1,0 +1,25 @@
+{
+  "FILENAME": "python-flask-wtf-0.14.3-1-any.pkg.tar.zst",
+  "NAME": "python-flask-wtf",
+  "BASE": "python-flask-wtf",
+  "VERSION": "0.14.3-1",
+  "DESC": "Simple integration of Flask and WTForms",
+  "CSIZE": "42807",
+  "ISIZE": "123392",
+  "MD5SUM": "4e2c36e503c7113772a722b4a62c4981",
+  "SHA256SUM": "c7159e33289af7d871d65e8e4e19c20629612848540ee0594be32d777f00d78f",
+  "PGPSIG": "iQIzBAABCAAdFiEEj8FaBklQqZ3RvRTdOeS4d+YuuRUFAl5D+9oACgkQOeS4d+YuuRVkrQ//WViMXlA5pmo/p94aOH+/iTSEqTJWWclYjC4ehYQYK96A+XWPs2nR1rl/C28D7JNI42sC+4s69uuB7+uLaO8nF6tM7Tfdj6TcfCivw4jog4BrV4fY5ZojMxHzVJ5uxa6+bKKKqs4Sq4k+BH59AwFUqfQQmq4XeYej2sXMzTcZSL18v+in7dEfKZkLpnFllx8AS4NWVUT2pmYln8qlwV0V9jo2XDBVv0ulKMfyMj65xgfkSWx0kL3nfRby/9ZsFdaYhptxN8435ZbcN21kLxrbpQ3yR/RWB/LeuisNlynHbEAyVSjpWNlIGkt4Ti17X7Ec0O7WF9SdCO9Ug6/YQZ0bkr9mix94tIIHRCz3ccSvDrd3B7t4BxydlYc8nmjXwwJXPDXTK8E/l4EnvWBH5C0rTqjUw9DhCgKuAxifY+yRRLxgiY5eDx8iQcg3baW5rQ3G+uuCVvG04TgMlFi6wfrGW77JWmjeKRpDamq9xIGAfwYFiAroJ1W71T/zl6W6Oh0uXti0wG/tVEHKdV1HJgDHVRO4V60B6PEdSreFpRC24HthD2sySpG6zMGj8FPwlHrfgx3ER1aTtzTlrV8iT2XPtRKqhVYawZaE8Ht2r+O3S98/ll4rYsC7yYdvl7AApgGLONxXflH8vQHM6Tyzl9AUnQT5IVWvey7AWFQtzCpjzfY=",
+  "URL": "https://flask-wtf.readthedocs.io/",
+  "LICENSE": "BSD",
+  "ARCH": "any",
+  "BUILDDATE": "1581513613",
+  "PACKAGER": "Sven-Hendrik Haase <svenstaro@gmail.com>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "python-flask",
+    "python-wtforms",
+    "python-werkzeug"
+  ]
+}

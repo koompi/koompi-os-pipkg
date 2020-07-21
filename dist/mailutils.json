@@ -1,0 +1,26 @@
+{
+  "FILENAME": "mailutils-3.9-1-x86_64.pkg.tar.zst",
+  "NAME": "mailutils",
+  "BASE": "mailutils",
+  "VERSION": "3.9-1",
+  "DESC": "MUA command line tool (mailx)",
+  "CSIZE": "1850720",
+  "ISIZE": "9142788",
+  "MD5SUM": "e6f1cfd76887b02a10364b8e449c8a4a",
+  "SHA256SUM": "3ac8b374d1ae26ce33c9c7abac0ac2bf178e23d11a7f7d8bd3762141d48f73b5",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl5ur+gACgkQeGxj8zDXy5JkxA//efe+2wQGot01d3XtSx0qnid5vCl/UroKTDsC0dhECpSL1u10AA6oil9UMCPsip1XL5ivWiz4qqs5dJc/G1kXhGnXf/8t5XZW9FByxJXCiA93uFWg/Pa+1JW0J3X4eS7JlTsxHt2sr3mFYRoSiirfOEG5EXD4uy6BtD6zabjIceKDfAMGj5GrUuF1gZC8oSaDWRNtrr7KrgLKBf2XirvMK+rmyVCvUCrzJLWrojbjoMVXGmLlojM3909iv3EtICCFfhdMbF4krai49oT07jll/DckDPCRd1JVX3wGYy+SpxCG0P/mgqJNn5k25o5ut1KkmEuOcVFeMysCY5Ftxo+uOfuV4jJq4rqnaNJhbjKyNODcfQBjGuTjudOjiXL7vFY6kT2Eb60l05rw1nQdCpsbjh+xpiJ6z78QWhS5kltgrlVnMoEVs6h+24oQSSh5tRq/TKMicDRK5t4KfC8UO9+aJXdj0DXdekos7c9vXR1XF+JlZ1IyAHoL9ely9FLcovlVSRkkwLzJK8HrzXCFeuBtjgmRb2il/Ibj31P4xle1Z3r/X1jkF8LX8wYtGWgzWu0GeweVqupl1cNsk+fOiI2X3Suzs0khNN3MUUbtEbguzDCAH0/6LbkH04mnAdreOagNqFgJhvwCX8zbP8fOyEU9NtQkKp/L4gE/7740owC7WFk=",
+  "URL": "https://www.gnu.org/software/mailutils/",
+  "LICENSE": "GPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1584312112",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "libldap",
+    "pam",
+    "gnutls",
+    "gsasl"
+  ]
+}

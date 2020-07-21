@@ -1,0 +1,29 @@
+{
+  "FILENAME": "kitinerary-20.04.3-1-x86_64.pkg.tar.zst",
+  "NAME": "kitinerary",
+  "BASE": "kitinerary",
+  "VERSION": "20.04.3-1",
+  "DESC": "Data model and extraction system for travel reservation information",
+  "CSIZE": "940311",
+  "ISIZE": "2101567",
+  "MD5SUM": "b8bd37337fc913f494586b94a232bfb5",
+  "SHA256SUM": "d4e3f03f81ffb4665dd1a91bbde54ca09b6d151fe3943133f2f66f766fb78337",
+  "PGPSIG": "iQEzBAABCAAdFiEEFRnVq6Zb9vwrc8dWek52CV2KUuQFAl8HA8gACgkQek52CV2KUuQQDQgAi3y2kqiHqP162e9aXEIkJIRu7wXWKkfDFA5IKMvZpGZJgYjz8kesc/1X9TAHydnAIC0FbqLaNqO+OAgmo2Q6pwAtLc2dW9E8lJIN4yNkewZlP2hHGOoMixIA8SeSRL+srgilGh5zMt8X7ouU9ttUaFW7GtikrMuysbN6WVSrW29cFc9r2Qsgas6Ux5mwL/VHFuue3Ngay10Y9AUOCu9O0aFVi8Te6lsnqlwsiwefK0ZlugLOhCvBtoO4MUOJEbFXrMym5/qPjVXljBwCOlnjipLOZswbuzCExU/QlcuacefbidyAz0el2+Cg48PhZ3ZljY1CNZ7t78HllNgc/eR4rw==",
+  "URL": "https://kontact.kde.org",
+  "LICENSE": "LGPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1594106150",
+  "PACKAGER": "Antonio Rojas <arojas@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "kmime",
+    "kpkpass",
+    "kcalendarcore",
+    "kcontacts",
+    "poppler",
+    "libphonenumber",
+    "zxing-cpp"
+  ]
+}

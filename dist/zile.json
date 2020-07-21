@@ -1,0 +1,25 @@
+{
+  "FILENAME": "zile-2.4.14-2-x86_64.pkg.tar.zst",
+  "NAME": "zile",
+  "BASE": "zile",
+  "VERSION": "2.4.14-2",
+  "DESC": "A small, fast, and powerful Emacs clone",
+  "CSIZE": "134525",
+  "ISIZE": "316976",
+  "MD5SUM": "8c8e9e23906203827fc55f9e1fe00912",
+  "SHA256SUM": "8357a92c970a812efb31d7fd19b86756ec057c5ec16993377e1e6302a3db0a67",
+  "PGPSIG": "iQEzBAABCAAdFiEESMOx8w3dD+Z+UW0WOW4+JbqxQsEFAl62VPgACgkQOW4+JbqxQsETOwgAsmLdUd9vikjA0LjbzOriA/dIuYBxRrFHXRynGDHmdqLfoXLOA/AMOT5bm2eEwhO8rgtZ73lyARBagMKFBI3cCORs4TqoILAn6VqHbJIPJhF5rnJFhOx1MN4vUBFVzIwY3ThDGMGuWk/8x3/P9JmelvF8VgRaIOlw1m4ZPM8d1YqaNixAb9zRiztBxcl03rX3VEpIXPzEmp9dHrlxTgyC9TIGdBXUJQDwFCmXRcACo7innBf+yFoM7et1hdBMfD5/V3UbGD64LoSTyv933/et04olZmJLlIVs59noiMcM8xyTfT4ZtpVSKiYGt2Tk/LfR9LbMNFa/uQkao7UW+7dQxA==",
+  "URL": "https://www.gnu.org/software/zile/",
+  "LICENSE": "GPL3",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1589009751",
+  "PACKAGER": "Kyle Keen <keenerd@gmail.com>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "acl",
+    "gc",
+    "ncurses"
+  ]
+}

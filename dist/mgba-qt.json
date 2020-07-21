@@ -1,0 +1,25 @@
+{
+  "FILENAME": "mgba-qt-0.8.2-1-x86_64.pkg.tar.zst",
+  "NAME": "mgba-qt",
+  "BASE": "mgba",
+  "VERSION": "0.8.2-1",
+  "DESC": "A Nintendo Gameboy Advance Emulator focusing on both speed and accuracy. Qt5 UI.",
+  "CSIZE": "1596261",
+  "ISIZE": "4961551",
+  "MD5SUM": "7f27a8436d2bcbad3bbb2e6c67d35110",
+  "SHA256SUM": "ff9071f35b83a3ef2e3533486a710fd9e92d035ae142a7eb09d5de36fd981708",
+  "PGPSIG": "iQEzBAABCAAdFiEEh0L3U157OUobBIFjMyycQPQNIHIFAl8AwhgACgkQMyycQPQNIHI65wgAnndZjwHFUXbpTQH8mQgKq8GYlmTl4boAcAXj8yuXvFefALCrLtNW77S7XG3sRzpmaITrNTyXUwwpTNN5HTwAwHf73/pdUM8rN38h4616WrdC31cMeVrVev+e+1QaGJ84L1BRcn0xmu7OilSR7MVjPDizidgs1ENGJc1WhEIYrqZ3/zH4A7+euuVafHONxAE/E+aUo23hjmUoFB3nrFh8SFGCmO19KKmj2SWFC7pJT5BkiNkHkfc9nG03TTElOk1kkvXIJukrcqIGr/0Rhp/T/88eG+3uJvvcUGo7ApPFVaCopyq5EgjRCLnhlgKEIdVgdzBAOqiwFhv0HxR+fPycqQ==",
+  "URL": "http://mgba.io",
+  "LICENSE": "custom:MPL2",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1593884736",
+  "PACKAGER": "Jonathan Steel <jsteel@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "libmgba",
+    "qt5-multimedia",
+    "sdl2"
+  ]
+}

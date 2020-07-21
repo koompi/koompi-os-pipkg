@@ -1,0 +1,23 @@
+{
+  "FILENAME": "amavisd-milter-1.7.0-2-x86_64.pkg.tar.zst",
+  "NAME": "amavisd-milter",
+  "BASE": "amavisd-milter",
+  "VERSION": "1.7.0-2",
+  "DESC": "sendmail milter for amavisd-new using the AM.PDP protocol",
+  "CSIZE": "40080",
+  "ISIZE": "89418",
+  "MD5SUM": "2b45d2b2d9f099c17083c24ccbb39e4c",
+  "SHA256SUM": "3c6e36e245bb9effb63e52e3a7971e6caddfa08e0862cd439f00e395854b51ee",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl8EsnYACgkQeGxj8zDXy5Jfvg/+OZF3MYZdQUnJRwEMkSCuxOPT89LRCgPSSSWQCW2uw0oErhGVqKZjssXfO164V/S1tVEzGDzXNDIKx0cRUtCv5YBH3HOD0cuvIILYa7W9PAZq5EE5s6/F9nDfESXBigLB0vAQpCt0mjoN2bJOTLDh415Bv5CMLqObluq3VPpjIk/JjeCcfn+PauRVXF6lGufkSFspcwORaBOkJ7pP8WUa/nykWEx5n/q1cNNiwU4Lrr4zMVOzGZuc2eUt357HLd2DhKLlxMqWHY89QF4i6kWfY935VAnxGaY8m2ZwftGsLgVCZsVdFwftDbTLXHD2YTBH7wSywk1pvaSL9V9qCR6CBfhm/BFZ0P+Mhu7dgI0ynxYvOJUd3lPIGM9L7rIMCR2fOXxt+ZkKSKxM4Vq4XgBvrDO43A/hapxY4QoPZsFKG7N2TH+O5VbyjZzZEFsZsxDqMnKVY0397CvafuXjwt0g9raFlvPKCGXw4DTMSbXW6N89psr0qie9d6KWt6k5U78XI2Ga01VuNujpbvvUNHfqi2Qe0sJbP85+TMpkhFep5Zmd62L6YBFjJgm+h/6LyR/gNQUZg6eEclAcclhNJZ77Nr09HuexDbx976niKinXmIXjaJPaPKgJPGJjpJSnLF6boxr3f/hhKU4fy+GNE2BcC7nsuOzhOWPhv78rs/CCqSM=",
+  "URL": "http://amavisd-milter.sourceforge.net/",
+  "LICENSE": "BSD",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1594143259",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "amavisd-new"
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "FILENAME": "gauche-0.9.9-1-x86_64.pkg.tar.xz",
+  "NAME": "gauche",
+  "BASE": "gauche",
+  "VERSION": "0.9.9-1",
+  "DESC": "R7RS Scheme implementation (includes gosh)",
+  "CSIZE": "9649140",
+  "ISIZE": "71406839",
+  "MD5SUM": "7c605522937833acf7c0c445ac26dab4",
+  "SHA256SUM": "47f0e0c968a1802607ce72eb1c815cffcac962832c7c7982870f197812f11cff",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl4D850ACgkQeGxj8zDXy5J1lxAAqFjHm9PUIrU+Rknite452ErwVtoLVIwjjOH5XaWXbAGqBs2V4xy7Ue3s9Fk2OiPh7QBNMMoFKQixO4YQ8pYFOxLdYNh4LmMhOKfPnSC/CxGBpmejxfix0YR/STZlGAn3vatNQ7a1k2dY6EVZICEqvFC/GFruPhjbsX1GgGZa2ZxrybKYGMQeDiQ7s9MoAeRpjrnD5jH0ta/pa2hf4TUyo1t/6sVaNUgog+SlOOJFixvEFaav3SpQSbMp/SaKd1QGg032qJpofNOEd62blrZ0sDnSkxjY9tmHiPq5bvqnDvjQqJvIYITI75Xn2Qjd9vzvKLuQPB63Ji66msgfnp0Bd+lSxz/UR9nHaOeJdRQ5LeTEG6/CAQio6HBPxAdH8MxJNTK0Qadqc7Rs99XORM6s828PwGmE1yJPPeQ2/yGBZGJxgV2q9MjnE1m2b/C1v/fwOotSppFes10hoVgjbJfj3Bmnfj6cNbHMPkjDcDq+X9Do8j7RJizHq9I0VU2drFZ5+ZJalIc0Btx9Yu3WvJfRmNz1zHR5M42Ss1VruKr4vpTqj+D8YeIYD5wU+pfV+v/qXXm8t4I3KOB8/wJso9G1k10CjswWiGMBs+t2mBF2tPeZrhsdGbWd0s3jWioOH04a7I29pO3982F1XXn1bUlVQ8KOywO+3RzvACigASz5hA0=",
+  "URL": "https://practical-scheme.net/gauche/",
+  "LICENSE": "BSD",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1577317047",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "libatomic_ops",
+    "slib"
+  ]
+}

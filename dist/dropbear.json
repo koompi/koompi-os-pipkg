@@ -1,0 +1,23 @@
+{
+  "FILENAME": "dropbear-2020.79-1-x86_64.pkg.tar.zst",
+  "NAME": "dropbear",
+  "BASE": "dropbear",
+  "VERSION": "2020.79-1",
+  "DESC": "Lightweight SSH server",
+  "CSIZE": "241062",
+  "ISIZE": "1112191",
+  "MD5SUM": "458de89b87a43d1515467e8de1ad0f9e",
+  "SHA256SUM": "c598c1d3be5d25ad466ff9b520bba123fc5327219fa092b157d19659bfe4ad21",
+  "PGPSIG": "iQEzBAABCAAdFiEElihV8HLHoBhGQFhk/PPIy1z5yNQFAl7uftgACgkQ/PPIy1z5yNR8FQf/SdZs1nnCVTu/+AGD/Ktgz9o3arEvrjQf09qnNrv083/FXLaeLuFW6asSe4yUujvKVUlOHb71CKUyikSiWWdxXfpNU0IAs4rQN40qm0KmIZ6j94tKiAWhCZ/DGgHIvcjyD9o/5jTJDRhqvwuKC6qZixWxhXCLNPh6J+LQXWWlaOmDWK7mTBWlmrJjCkSE4o+G+mRIBhz1oO8OTRzIXoQ0NcMhC4zDiJyhvT02oBymrXp1eZj4exxXvi21+tw0j2C3Q6dUcPCqTJUNVv8nRAvYBbHoNn+2Rj+OabrQX1kkrDaOFrsufxt1XnqLG56KIX6AiO0Y19BkXIuS4yqL45elXw==",
+  "URL": "https://github.com/mkj/dropbear",
+  "LICENSE": "MIT",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1592688303",
+  "PACKAGER": "Alexander Rødseth <rodseth@gmail.com>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    ""
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "FILENAME": "avr-binutils-2.34-2-x86_64.pkg.tar.zst",
+  "NAME": "avr-binutils",
+  "BASE": "avr-binutils",
+  "VERSION": "2.34-2",
+  "DESC": "A set of programs to assemble and manipulate binary and object files for the AVR architecture",
+  "CSIZE": "1992590",
+  "ISIZE": "5526925",
+  "MD5SUM": "0f1b63d6bab87c146ba444b86683cc6c",
+  "SHA256SUM": "29df07ad742c53774e29b87d40973629c85e0326ed5b94fc31ea430e3703296e",
+  "PGPSIG": "iQIzBAABCAAdFiEEjhmSFnRl21+wRVV8sChU7XU+Dx8FAl4+4gQACgkQsChU7XU+Dx/6JQ//a+lNNP1rVWO+tr9Kg/crAPB6+Ni0rhmydKYcFZM2hHveMpYRZ2uoJ8aPaCDkQdAzsV8yy+hqznKEChH378F2JzbAjOdSNEH1eCPJ6CMs+VcKCZanmz9S24Q2NNMWodYrGmCElkfqBaudtP2lUMPjLFsNPuFAQ+wh8pgBpDcdxBs6Y9ap/SROqgXFOdxwdLlj+bhewopIfJVN/Blzn5oax/wjoErf21Ij9Ari23D80uWJgNsk/+/7es6PSlWSowTf0Ci8Wka/Ywf6G3VNQoaZ4RwDxSzD1bJfxsRVTqsuVrcpUlWOm7bxo5yxlTwwSnFDIjf3u4fIJJzKdYHH51cyB707G2uDs//dhO3nQ4EdhH+ynjGXMf8IEh6C3D8ubyEEEREj7WkFuMvblvOA2mkRM1S4LKLYNqIZ+c1bQM93yiY7s8vxG4w9fCa6DVmFSRuhQ7GLcpz+shk+r034nB3Id/VzACLkSiPmdxaFLprLd4UypwssCWlgmuogJCq/YehJEZCd+tczhbTY4iAbY4tWT9aoKmPsecsYg1vWxQJjn6+lY5pJU2sAWOk1sC6s18yxYSHUPVPQ93Y6MEKKlS/EAnIlLUDSXCBfkCalkQ8ppXNwtmQP0lSpsuAXbGglmIduTHY/Y2fDnp6+tEGPTRteeTxdImDLGryOl5Sxv6joRy8=",
+  "URL": "https://www.gnu.org/software/binutils/",
+  "LICENSE": "GPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1581179282",
+  "PACKAGER": "Anatol Pomozov <anatol.pomozov@gmail.com>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "glibc>=2.17",
+    "zlib",
+    "binutils"
+  ]
+}

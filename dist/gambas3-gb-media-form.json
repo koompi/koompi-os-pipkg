@@ -1,0 +1,24 @@
+{
+  "FILENAME": "gambas3-gb-media-form-3.15.0-1-x86_64.pkg.tar.zst",
+  "NAME": "gambas3-gb-media-form",
+  "BASE": "gambas3",
+  "VERSION": "3.15.0-1",
+  "DESC": "Media player control component",
+  "CSIZE": "11099",
+  "ISIZE": "19491",
+  "MD5SUM": "adbc4de85cfad7d4f2f857d9d0c12bbc",
+  "SHA256SUM": "6a9f2638aa6c24868647a02b641988bd9e51cdc35e561b958e5a4ee101ead1c2",
+  "PGPSIG": "iQEzBAABCAAdFiEEU1+MAzlFDwVKTSgnBglqatHO3awFAl8C7RcACgkQBglqatHO3aygXQgAodJmzp4DBc9CoMhj/YA7Zp8zn3IU8S49JzkTseZ5nAQVDbhpEzvRXQEjWLeIMLsRI7N4YndTAOiqyP9/Q0u/3Cb6PlWS1b0AOfWvfBVZdDlZN3paEeKdGxfD0bzVv2Ys411XE+02T5PhUvQlg+nU0XNggkYlKo+0TciLGd6K7oR2hk5K5cAcjEqSHbaqCsNFXn6IRqUzsnrK87lxU16MyaN0mE1xWa7gA7PqcGWu8mZWEoVcgC1myystI1HPp9wOoAWyFgBhvY2R/6yHpkd1flqqczYhRVkfwv4I5xkHf2TKXc0pfU5ZRPekByPCWSn9bonPiLRgQwb+7Ee+fqPgFA==",
+  "URL": "http://gambas.sourceforge.net/",
+  "LICENSE": "GPL2",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1594026389",
+  "PACKAGER": "Laurent Carlier <lordheavym@gmail.com>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "gambas3-runtime",
+    "gambas3-gb-media"
+  ]
+}

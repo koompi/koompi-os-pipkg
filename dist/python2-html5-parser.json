@@ -1,0 +1,24 @@
+{
+  "FILENAME": "python2-html5-parser-0.4.9-2-x86_64.pkg.tar.xz",
+  "NAME": "python2-html5-parser",
+  "BASE": "python-html5-parser",
+  "VERSION": "0.4.9-2",
+  "DESC": "Fast C based HTML 5 parsing for python",
+  "CSIZE": "134484",
+  "ISIZE": "527300",
+  "MD5SUM": "6f8bc6e7ac8514b531f136bb23a1db7b",
+  "SHA256SUM": "9da7ff1c9ad1c78ef66c58bf94014292005a48af9441deafcc1c623c69a45ae4",
+  "PGPSIG": "iQIzBAABCgAdFiEEYEETBMCdNmKDQO7/zrFn77VyK9YFAl3ArEsACgkQzrFn77VyK9aZOw//RvdD5YHOC266xhsEIyauD97+kQUqMvpaT03hPVfWa+PXDUUT4Qa17NGoypbM5Plcn+QIMa2Zh4XTLF729yH/7xVMZfctvNQ9xoz+WnjHsIepO+KHP0ajRP3tV/YZEyBX21ySS4bQ4W/OBWuX+NymyLAo45ihXGX/vN2VaEiDqEsSMG93yBpGZufVRvy9xmBBPFW0ZMI4Qm5tJZzgyf19Dhj1MH54QSEbj2Or0Fwjt1IUTXNFH4QZo6EG0ig72scwgk0JJKvwobVGu6anXZr3NIK/JXimDR+ZCmKR3HM8tIN/iC7XO7ciFvQaa9QrAB8GXDF1fXauM4YYP8SWkK1SK83bFkzCXfBnzKR+7/lWGipRWfJlKUDtLDnQIU/Yc5U37M7Kf20b/1QOYCZva2NrnnHRyxTy/LRG1BWVzaz/B/01CRg5zADn42WwP3dskwvzBcYeH2LL7ZmK3L97d6fFrJAC6aglNiWLqBM6BVi3VhbA8E8HIDhzBHltmHAkVmW9crjlLyb23XQtDlBv5FfFbtgxPe8cHYTKXY6LaYCkB6tdpAHHe0rLf/D+QSM6U0XFVtHBcqHXJTR893PwM5ZXRKA4ZZdUwyv1cz9ww1wPbQU6q+OsBUPmPI8Yo2QQLABx4BtlmxjSDRZS3VaX7Q1UV4GPX1KB7qKzsWjz5lnLgYI=",
+  "URL": "https://github.com/kovidgoyal/html5-parser",
+  "LICENSE": "Apache",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1572907788",
+  "PACKAGER": "Eli Schwartz <eschwartz@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "python2-chardet",
+    "python2-lxml"
+  ]
+}

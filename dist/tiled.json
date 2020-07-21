@@ -1,0 +1,31 @@
+{
+  "FILENAME": "tiled-1.4.1-1-x86_64.pkg.tar.zst",
+  "NAME": "tiled",
+  "BASE": "tiled",
+  "VERSION": "1.4.1-1",
+  "DESC": "A general purpose tile map editor, built to be flexible and easy to use",
+  "CSIZE": "2941147",
+  "ISIZE": "9763884",
+  "MD5SUM": "a60aab73440e2e25d068917545a42252",
+  "SHA256SUM": "508dc87a7a028160e2d0c1c8adb64e2e5cc1382f9c6edc9e4c03dce9b1f87d18",
+  "PGPSIG": "iQIzBAABCAAdFiEEj8FaBklQqZ3RvRTdOeS4d+YuuRUFAl71tEkACgkQOeS4d+YuuRVHyA//TWlEg45CwEjtpgpHwse8/ZooDJPbVYVIloTZD7bpwPfblV1HnsU9gqiumXlZXd1WWeUAea50Vl8XcQIArDCq3bQ6AJ7HhfLElqPYGQW1MKzlAIq92A6c2HcaW3TzVbHgK7hew38YjqtpGkbpW+T8Qz7nNY3tpkV9qfNWUBT3NUeJlx+OKAVNJ2tiuN5DX2Fhk8u/dsfyg4m9mr5aGOPT7f5OvKsSYY71rYgqZ09O+FfPXCVZjCaOARhcxXpD6TNuodp0NhEmliE83I5CalSl29oMLi34IBdRi+J1Ck9MYIhZIeHEHBHbHKNSRhzr2EuPUEfN5CgusEOFidgzV1XaF+akQgFxHbCbaOxiHtK+YEIboBRCKe9Pb5ViXr7lU2wCzYkJJ8GqLkdGzFKcjRy2pvO3N9uORf+jiFCa1WtSQ6IjNIMeHT+uIMZptl7KBFjzsKftaIsEGG85eiJVe1CAe4PbnB4FNcRQYXlGa7G/b5nFb5lZEEwHAupmGjV8SI/h3KgI9H5goagEYLvQUAKk2Ud84W8p6TjfAEOj6PcaUXmIzIXNYzF4Nux92+epWWzZMx0Qg6B0nF0cpKKo5tuxNGTVCvPlw1YXRMscYoeh9/lZDTiz3zc3EEltBaR9aJ41YQxhhXYrwL9MMLqgc+BmkqB+SjESN4P7BJXKOL/IPm8=",
+  "URL": "http://www.mapeditor.org",
+  "LICENSE": "GPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1593160630",
+  "PACKAGER": "Sven-Hendrik Haase <svenstaro@gmail.com>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "qt5-base",
+    "libgl",
+    "gtk-update-icon-cache",
+    "shared-mime-info",
+    "desktop-file-utils",
+    "libxkbcommon-x11",
+    "qt5-declarative",
+    "qt5-quickcontrols2",
+    "zstd"
+  ]
+}

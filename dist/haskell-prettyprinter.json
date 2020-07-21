@@ -1,0 +1,23 @@
+{
+  "FILENAME": "haskell-prettyprinter-1.6.2-4-x86_64.pkg.tar.zst",
+  "NAME": "haskell-prettyprinter",
+  "BASE": "haskell-prettyprinter",
+  "VERSION": "1.6.2-4",
+  "DESC": "A modern, easy to use, well-documented, extensible prettyprinter.",
+  "CSIZE": "205043",
+  "ISIZE": "1436396",
+  "MD5SUM": "1620ebeee633131f043302345bc75c05",
+  "SHA256SUM": "d27dbc9de4ce316e7b273089ceeb5da1ea0b1ef0c567abfff2c844e0de1d0fa7",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl75nbUACgkQeGxj8zDXy5LvghAAgdfPZDsJgbqQ7wNiYEJpGvOieTkR/4QK+Y3oaGjUGj/PTXUXxkWV+irw4CBDD1Q6Ryyp8Kw0/aNnQNDkt8smwbRVWRXyZAOIFcw8h55oUNLugB+Jf9EK10JloF04npb1TFhCrt87SZvFpuaEqK9O4+UD8fBblGJtf8cSaZPCKD4FP5BHg93Fg6gr8Qsy1ZYZvkDIVN1wRgGMEaMt9/m/hyR7U2PKdBMEn3aEvlKxM4dIQbN7CQgjtIenYDhGOxFoTGqHmxb8CTHtLgTpO0WDCEMUFgOqUwsb29KMwEISnTUgYh0l7DHHbag4X+xTXW/JJcwaU+1I9/5ecGMgEmXkNT4IKsNv+CAPG/Dy618EbEa7JN3ueKBu8F7tm3vPws5izQPmqRjibDmnNbcebWAnSBhhpg3Q0ze/vhDeI9sq8ffeIYkO+8R2S0IVWe2IIv7Pncwr2l0XFRhAHnBw4LzBlgzQR/8r4qnegkxzbMzy32670ZkYZHaeIdyQvlSWpPip7Y04Qt3gU8rdfBkGT48eZufPKGwv+L+6xcKFnmsRmdmTCqBv5SCUbCCspG6rWyUjXq5kMKYIRUM4VJZdwR7N5unWzNMwgit4B6X5UBnarWvSqh2e89jW08nPz/W1/IWTQyLeBjPkPFlt+eJuu0ZIjZr7Y5HiE7bziO0+/dWuIJ0=",
+  "URL": "https://github.com/hspec/prettyprinter",
+  "LICENSE": "custom:BSD2",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1593417064",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "ghc-libs"
+  ]
+}

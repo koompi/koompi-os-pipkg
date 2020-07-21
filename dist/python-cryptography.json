@@ -1,0 +1,27 @@
+{
+  "FILENAME": "python-cryptography-2.9.2-1-x86_64.pkg.tar.zst",
+  "NAME": "python-cryptography",
+  "BASE": "python-cryptography",
+  "VERSION": "2.9.2-1",
+  "DESC": "A package designed to expose cryptographic recipes and primitives to Python developers",
+  "CSIZE": "385603",
+  "ISIZE": "2525286",
+  "MD5SUM": "ae6afb18d148bd5002a1663ec98cc571",
+  "SHA256SUM": "d9b8c2e5a83c8d6a0e1e9df637fb54998a4413ab69afd876d8e5efb1eb899c07",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl6hSyIACgkQeGxj8zDXy5LGig//Q/e4vxvKXNHlpsQPvQR9Tl+HqoMTvpTVFHyVZHmZx4irKJ7CGZNaJYfqGGDKGdS4TCyCEsyvykYa+MTmmYpTDBIWVnReMhDCfGCgd8NOi8Vux5s+U01CzRgNmqxz+/F+UviiORK6FOUOKFjigHjWXWjifdPoLWkNgaEOyLLPdJ5DGqxcwKDqxOLb5MuyNUjNM09a0II/ze+OFXreVrJdxrZKWlc3J6vY1BjnmHPjvy4m3gB36m2v63FulwNX1MZ0EWiuZ/jK9yGhjMl1A7Qby5Iyd55xqBkTVZA4UCOuYoGD7HXPpF69jjT2LEX5MRS4OMF7VMsSUetoxHmt4NgPUi9/i+0yUpwrLo1vM1Esw4wOvDqCDemIs4o4FGvtme2vNXW3Iqj219X/LruZd3y/OJLfEAxRjILu71Z1PISckt9jQeBC8td/aX7kyZx+jTQFaH++OIKB5/VzYCXojx4V2GoNbGAuNsg+qBKC6tGCJ8Hffr9mbJlUGLxvkBldSUnQgSVUAImnMKcqqv4ghc25Wd/jhklW1M071AiO6+vNfcaHLs4kN9oQ5m4eRUVE2J79jHeS8pz6vlFbq+1rGCgLZ7mZtDXQQ9GV8NveqKRTYiaDU1uKchvqt+O3lNDwb7aKHjfduyJ8dDaRg5kZLSyU8RxgcXpTvXrsuoXTCz8st+k=",
+  "URL": "https://pypi.python.org/pypi/cryptography",
+  "LICENSE": "Apache",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1587628245",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "python-six",
+    "python-cffi",
+    "python-idna",
+    "python-setuptools",
+    "python-asn1crypto"
+  ]
+}

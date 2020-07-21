@@ -1,0 +1,23 @@
+{
+  "FILENAME": "psi-l10n-1.4-2-any.pkg.tar.zst",
+  "NAME": "psi-l10n",
+  "BASE": "psi-l10n",
+  "VERSION": "1.4-2",
+  "DESC": "Language packs for Psi",
+  "CSIZE": "1392593",
+  "ISIZE": "9988814",
+  "MD5SUM": "e98c58a72993e28fa26b4c2edcf59078",
+  "SHA256SUM": "8257bb7b0105a0ea305081799591b752c9a2ccd72c4802e01c88eccfdd33856e",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl8Et9UACgkQeGxj8zDXy5IGYQ/+IH7O2IOS4skrvNHT+vCw8+hsqlLB2JwVYljD0KRS5H+fSzI2sesqsCoLIY1MiENY/xQuk4QbvWARZOw+/0SLne5VxqxeU2yxEri9r+03MyrpGuWf3L4CwgdQFC5Hc+45RZPy1gmQXBGHzasJQqYz/9kYtWnddY9IPl7Zlrbim8437cX9fs7oji/6BOpnNUyj4nU1JKWKeEpkOfxEGa6WYpauD+XReS0kunYgmxrrvnxNH+SxgsZ3gGk/WuGXZZcnMO10n9Hw44VwWyN16vfRHHCuXHFUo+N/TeMia3M2q7PPNun5+ICSvVj2IQO2+cGpXYYREoVxGP1Njkxcak7gvFmFiEowVFEh97+BArt33Fuyi16sTtBlhNJpCRw8ompMxtNcwg2Zi2tmLxxxa5wfnKhXgWtLtIr3VkKJbXdDTtNt7hs7YeA4rSzScvQxLRPAyTYlYrXsbcQNhb3SWYzAy49xJZ1EURt2uAmRfGTrRm3lJLZLrpkMKHbOlIgU4dmZ9IwFtilT+cAubO/XJc4Ls9zgAQtoKDr91R7j/lzmZw2EsSIUqCMu2z9JS2hs7Y3Av44qqWFnd/7cpOKZha7gaylbfbaY77i1sRucJYIfKTRfA6RL2xSjqSFypg4pTeNZygZrb1kMcv0PGyTR3Bo0NM4MOd+uEzqtCIhjneTguJ0=",
+  "URL": "https://psi-im.org",
+  "LICENSE": "GPL2",
+  "ARCH": "any",
+  "BUILDDATE": "1594144269",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "psi"
+  ]
+}

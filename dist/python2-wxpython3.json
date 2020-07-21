@@ -1,0 +1,24 @@
+{
+  "FILENAME": "python2-wxpython3-3.0.2.0-3-x86_64.pkg.tar.zst",
+  "NAME": "python2-wxpython3",
+  "BASE": "python2-wxpython3",
+  "VERSION": "3.0.2.0-3",
+  "DESC": "Classic wxWidgets GUI toolkit for Python",
+  "CSIZE": "7940852",
+  "ISIZE": "57771179",
+  "MD5SUM": "ca458d579e6c8220fef673a37ecd87d2",
+  "SHA256SUM": "f4bc71d0b9469aba1fa2ff09717e748ab04714f09f08540b6d07a04ae3089b63",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl8EtlMACgkQeGxj8zDXy5KTUg/+P3ASiUCD3lq9WkB62PYOcI2RE674IER+inif97fnVpnoiqaS3fkTvHCj1kQjz2MkSAIlcLb9bnnZ6aaHcI66zTOavDHcgmnK9UEx5YDzDZgZruuCmqXGYVNxTEi2DgTczwIHRG/zqJL+I/b7vu7O9uIYlgSVslyWJlRDwJ/B540wMykMuxDPdEQEKgmarG1kxf9s1tXbBBS5Fc7tG4s2HpgaTrEbVXriBdGO/6VvxvRw3B9xdRFzmW1voHzRYgLsFxAfFv72t6nyWheHQ0BniWZTJ9mIgDeuKaUaOmdx9LsWdIDWQix2r0yZHb94Dws9xezBpSCYtxiN9LP4ZEwExltp7OKYetiDeVyO+dkVUCyrUwK2fdJncbb/aMUEV44/QbE4xV17rVeudQMOKCNLZ8h9oODCPl1u8f6OpwNLAZWLQ8toNfcajEQEQgMVMqe3p2bCVujtnuM1wFHcPotQiOvneQ9b8J5r9nDDQMq4HQB92SBO7r7L7cvRvy8ZDJHcDikwmgsYrpxsZnH/TvNT+wN03+qkT3IChQmoc8/EG+GtgkhOnn5xobIzQxhswQmqXRZvd7dMIbfAsW7P8M02TODASXn8AuGi3mw7uNkltkdyzn9gAufwpNVj9tdT116RmNjKW56cwMV1bs2qruJNEgj5W0Gs0DxXdXq+aAVrPI8=",
+  "URL": "https://www.wxpython.org",
+  "LICENSE": "custom:wxWindows",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1594142774",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    "wxpython=3.0.2.0"
+  ],
+  "DEPENDS": [
+    "wxgtk3",
+    "python2"
+  ]
+}

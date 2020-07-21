@@ -1,0 +1,23 @@
+{
+  "FILENAME": "libxinerama-1.1.4-3-x86_64.pkg.tar.zst",
+  "NAME": "libxinerama",
+  "BASE": "libxinerama",
+  "VERSION": "1.1.4-3",
+  "DESC": "X11 Xinerama extension library",
+  "CSIZE": "10393",
+  "ISIZE": "24847",
+  "MD5SUM": "0d1e6cd2acebf9a8eaf6f7cd4dbff2a7",
+  "SHA256SUM": "00eee630560008c47147b8539b091063dae976c72711dc84ae068087f69b223b",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl6/wTAACgkQeGxj8zDXy5LWjw//Ruc2YFu2MJN/gahHZuFwA6+45/RPXpzcLng66r4fgVlOH5nLOoUXFnaH2+DarDoQ5YbjPQ9ilrQuygVPmvFtKj558eHbtN8hf+UUPFCfwwyuFnYk2RggF3h0sr89gmxP1EktubyCmXPvjXz9GMh4dJFvkUvZmv88jELC9+aB4ERGreIspxTWeI/l/RzGEWr0xM4ij23c7uxZNnEbAXOkFYRjCgKxAwE+FVR5Ql7M2k4pwFgCwQd3GLKPNECZFKUsVzSAYlTWtlfOuaiDkDNGcX/QDNnfLOnXVeOgoEYvveKttRy/69ad715gtITGaitvtGSACK8iWZJnzC8HS+vPKls/TfiNWfkoRN+6Q8CaE4OtuMllKjYqusTdi7KPCMsA1uLLZGT9e5stVhfkyeOa3LWzkXJIX9uZbJvkX/u71KSdKAzno7y2opL+oGVfD2TNgfa3Arub2nF0LUkz6a9NtuAlyvont7nP2lBeJXEeRapgReiWKat9Kv8iIpQZUASz682+uIQ2kykp/+J6B8x4yuajsUQhCwXfWD/aiHTxdlgVtI93GV+L8xpa6NO9RM8emvus3VXmMQ3vfJ2e9F0q53aZ6yMDLAR44HaKqt+tJFuHrTKV8cOr/kTSw3MxvyA+h481Pok9N6r2v6TSvRHnMYoWZI2AdyNfGPDkRsgbrqk=",
+  "URL": "https://xorg.freedesktop.org/",
+  "LICENSE": "custom",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1589625123",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "libxext"
+  ]
+}

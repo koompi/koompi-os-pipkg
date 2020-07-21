@@ -1,0 +1,27 @@
+{
+  "FILENAME": "konsole-20.04.3-1-x86_64.pkg.tar.zst",
+  "NAME": "konsole",
+  "BASE": "konsole",
+  "VERSION": "20.04.3-1",
+  "DESC": "KDE's terminal emulator",
+  "CSIZE": "1292657",
+  "ISIZE": "5360251",
+  "MD5SUM": "197d18a430dfa0d40920b47e857f0877",
+  "SHA256SUM": "69349d15f3eab361523d6ddf8ce4e2a2b8a9300263e6599f1e3d5517179e0f25",
+  "PGPSIG": "iQEzBAABCAAdFiEEFRnVq6Zb9vwrc8dWek52CV2KUuQFAl8HIagACgkQek52CV2KUuSgbQf+PYdZBkulAwfxr1mLKoDxhaixNE3GZCQ85A/YxaTcTDbm1d8r0Wp+QR+R5lSumV+hwwGwS6K/xqaGCvS7x8hgtPSf5w0vGlyvf1a5IgRU98o3/FfWOklCk9wAMtIijIlGwgHRm4lzGARIb304Usbk+8LogcIv8Wpcg0hKHLFQK3mzpp2P+LxAzPjfJiQ7l9mDOerbzt5lHQsg/WCD9xPrAOlI4vcvJ3CadVWBcs54GSm9t17fTuLYXCYCpT3WD9VHoijO5SDXgSI7yKhlKEt1B9+lenYiiWBooMFdopj6RqYniYXBovv/EL58PqC8ibT5LgE3mH0mxUDoD8loopNmDw==",
+  "URL": "https://kde.org/applications/system/konsole/",
+  "LICENSE": "GPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1594114692",
+  "PACKAGER": "Antonio Rojas <arojas@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "knotifyconfig",
+    "kpty",
+    "kparts",
+    "kinit",
+    "knewstuff"
+  ]
+}

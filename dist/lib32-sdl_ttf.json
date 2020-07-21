@@ -1,0 +1,25 @@
+{
+  "FILENAME": "lib32-sdl_ttf-2.0.11-5-x86_64.pkg.tar.xz",
+  "NAME": "lib32-sdl_ttf",
+  "BASE": "lib32-sdl_ttf",
+  "VERSION": "2.0.11-5",
+  "DESC": "A library that allows you to use TrueType fonts in your SDL applications (32-bit)",
+  "CSIZE": "13972",
+  "ISIZE": "35840",
+  "MD5SUM": "de29f731f6d99f7e244d644a045b43e2",
+  "SHA256SUM": "3ef60ef06574ec07553bb06a809dc369e7c83461cf2f55c19d119f494f6180c5",
+  "PGPSIG": "iQEzBAABCAAdFiEEghj4iEmqxSLpTPRwpekojE+kFfoFAlxm9pQACgkQpekojE+kFfq+kggApVzyzqEiWY6vDVRW3rOnIbkGC5qrjxxzNubYOF4HD8VnwCvaprDiE5XUZkHl/JZsMS2Gg/5xAKN0mcvH89wSfeOKK6QBEap/xZECuQy0S77HibOcbxnNLQPLRYOKy/cpShHlWGrrSTLIYm8+jP/S6vYrawleYDoiCCDsjTsjVljiIJiSB/AwYor9BvPMojN1AcYNHZ/fMyIPTUqjtwxiayziEBHk7XHm6va+Bb5S8K2tGNzPYZDC1dIv6Kaccwm1oMHh/7w8Ai66n4pmpNviArhB7DFacRqjjvFii6LXEOm+n7h1Iijc00Idwd4BMCP0RewIcRG8yF0cy1DSnVgEYw==",
+  "URL": "https://www.libsdl.org/projects/SDL_ttf/",
+  "LICENSE": "custom",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1550248391",
+  "PACKAGER": "Jan Alexander Steffens (heftig) <jan.steffens@gmail.com>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "lib32-sdl",
+    "lib32-freetype2",
+    "sdl_ttf"
+  ]
+}

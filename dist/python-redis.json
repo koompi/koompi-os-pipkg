@@ -1,0 +1,23 @@
+{
+  "FILENAME": "python-redis-3.5.3-1-any.pkg.tar.zst",
+  "NAME": "python-redis",
+  "BASE": "python-redis",
+  "VERSION": "3.5.3-1",
+  "DESC": "The Python interface to the Redis key-value store",
+  "CSIZE": "120362",
+  "ISIZE": "705511",
+  "MD5SUM": "b65a1759b7242e25e1dd2a57d0cf237c",
+  "SHA256SUM": "437f12556e93d3bc1942f378bd323f90d9c270b43426a3c8ef0948f2f9971d99",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl7WSkAACgkQeGxj8zDXy5KbChAAsKAA6GMQvw+05Hhyd0QjnHtyVhQb+hJKTAnwOBYABTyWuCeHuticha5Z5JiLesHb9YP9dEI3lIOksc9k4O9SxJqitkUzJd8LdqkN/7Qji5yqqFtpeMEFijCloZxcKoc7+niGzh9DJhHi6G5zRpHJpjKjhD0oH64jBnDM+xihbsMeK8v+pvQr7JOejGlg/eZySgT4uzknGQeCH9hSIrwD4A1Dzvom/JFMvTXk7nzEuJu2rzAp8VUQXTzWskmTinkRiYQtdB/0zaJRiXyT2gm4sRNuo06NZoCa4df/u4Ae2Xq+BUVcq11UoCJqjQ32QdB3M43yi6xqk97kguPwm+2//gWJobrb9AVyj1lmBEtFR9qjAfp6iDTmnVtWr3oWsbz5Yb+IcNx0Ollp7DC3rj5VaxyyfWVGd9NpxX3oK2CkXjXGqiZ4pIANBFxILlTp9Evm3H6y3LyefWa8TrP6eUuhsNMQiX1qTaoGsIjcLAQKusTUHg0Uz8Q7x/okC6hPHnLLvGbpINo61Px804rUiJ30FRRALm/6m3wI0vwguruEKJPqBnvN1Y08i3BiICo/Agyh+mnj4IzyxPVVYaZ8iK1cTAcBchRvur+kk8CMwegX9P8ytBHEu0YjmzIIk4H3wawvB58mxg99A3rfEPWNdWmbxMFzP3Fx4PSowHxnirU3MBU=",
+  "URL": "https://github.com/andymccurdy/redis-py",
+  "LICENSE": "MIT",
+  "ARCH": "any",
+  "BUILDDATE": "1591101860",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "python"
+  ]
+}

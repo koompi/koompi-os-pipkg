@@ -1,0 +1,26 @@
+{
+  "FILENAME": "gst-plugin-qmlgl-1.16.2-3-x86_64.pkg.tar.zst",
+  "NAME": "gst-plugin-qmlgl",
+  "BASE": "gst-plugins-good",
+  "VERSION": "1.16.2-3",
+  "DESC": "GStreamer open-source multimedia framework qmlgl plugin",
+  "CSIZE": "37331",
+  "ISIZE": "104472",
+  "MD5SUM": "901ac5c92e577deaee7ed254e8f5a4b2",
+  "SHA256SUM": "b5538286c804a3edcb0ae889dfc3758a362ffd36748f6762b3346163d46a5311",
+  "PGPSIG": "iQEzBAABCAAdFiEEghj4iEmqxSLpTPRwpekojE+kFfoFAl5sHiIACgkQpekojE+kFfqopAf+I2IoqeybRiCvnmofpgtPcjNH4i6r5kJHN2TkatQEh3chBvt7pKoPvkIC/Jp43khN4PduTdm5/gD5AzyQJJtjBwmn7oUnEWbPb4IITT9oT6RwnXoVRVqVMQpyJ574hrQytqOd5FECMx9wspotVRUMGqmjL/xHZyboqApKum4jC8MRSCE+eoCPq2f/sLFzIiyYt9B0q05XAcUeEqeIptWCOWSui8ZeNfI00EI6MqTFO8g8tC3NNgiWOdEOF08tFxtBdShGuOLCbEeG8Gdahc+HHy9sgF/niVB2z4zlLJzLXmZJPoPv24V1YDYSZ0KytI/iMt7mIvp52lxTX0UQXDXZ7g==",
+  "URL": "https://gstreamer.freedesktop.org/",
+  "LICENSE": "LGPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1584143477",
+  "PACKAGER": "Jan Alexander Steffens (heftig) <jan.steffens@gmail.com>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "gst-plugins-base-libs",
+    "qt5-declarative",
+    "qt5-x11extras",
+    "qt5-wayland"
+  ]
+}

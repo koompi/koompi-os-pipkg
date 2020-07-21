@@ -1,0 +1,24 @@
+{
+  "FILENAME": "perl-pegex-0.70-3-any.pkg.tar.zst",
+  "NAME": "perl-pegex",
+  "BASE": "perl-pegex",
+  "VERSION": "0.70-3",
+  "DESC": "Acmeist PEG Parser Framework",
+  "CSIZE": "81564",
+  "ISIZE": "138760",
+  "MD5SUM": "1ec50ed42eef87c6e0cd786a9851f6d9",
+  "SHA256SUM": "41f32166bcdca6300154c4fb8a162ff9fc97b13dae8bd4e2b4199a005bce4f29",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl7vPIEACgkQeGxj8zDXy5IJhBAAul0QxUPpUhlXNZ+HrSZhXHYYRkEjTzaCGASh81lyalKLIjbacnD1OYNiGuJSrJnDXQqlXz3737BnwLtmp4CgSyIi8BwdLys+Ro7q5FaZ6TM88m67hfGnF7od0Pgi54g+4y10rDJV4FuWN2UwcUMFuaksDyRp4BAOByM7YuXWYYI7VS7hvPBE0NWeHir0gx0BxHYocs0RTH6Xnlvn77IjwqjlFGvw2/y61H2Sa6aVOCrZEwTuOh7X7y5vTYFxdxeoiroNGgQxFo4frd2SjZTDg0tbbWStTGz4iNSXJ4TgqWK8GhhOxae37JnxOdmt8I9DccP+sVMF2P4ySXp2SBVjnozkube78dUAM8Svay9qTOeVC0c0zHGQVZabCbhfqTQRVi657kQ9/rgut+Dr/hSPjMP+DdU83QNqs5R7ezs0uYhXsJRy56ww90QsSdB9euP7zSsdeVtvS0RYj5PDlLOKjzHKkxnPvmE+I7zr9TJyg+3CQzOtogEguRohPaYlB055AyJ00cApIi2UFrHDn7iis5nfzb+fzCBMYHGaSe1fDYb9yjPTKNlihjRhJtDIQRHmsX/h7OqP/BCi2ALEnn9pYVfeWKfQTVtGXGs9Z+wn7C/mdBqls7UY9OYrZKp/DL06R5cY5r4uAHyd2gbf+OFzP3J+DBe9fwB8Uo3qNNIobtY=",
+  "URL": "https://metacpan.org/release/Pegex",
+  "LICENSE": "PerlArtistic",
+  "ARCH": "any",
+  "BUILDDATE": "1592736690",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "perl-yaml-libyaml",
+    "perl-file-sharedir-install"
+  ]
+}

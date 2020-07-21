@@ -1,0 +1,23 @@
+{
+  "FILENAME": "xdg-dbus-proxy-0.1.2-2-x86_64.pkg.tar.zst",
+  "NAME": "xdg-dbus-proxy",
+  "BASE": "xdg-dbus-proxy",
+  "VERSION": "0.1.2-2",
+  "DESC": "D-Bus proxy",
+  "CSIZE": "19290",
+  "ISIZE": "50952",
+  "MD5SUM": "d8578cfbc3a8c272ecc805832f6e8a01",
+  "SHA256SUM": "7ade7adbeab176b131a2a7a4cd82589d32ef0d9889673d119fac1c9678a45145",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl7DmcUACgkQeGxj8zDXy5IN4g/+LyrJsBhHbA+i2J+W+UfRzc2CwuGyKVnVTCVpb5HUzTeVpGaoATblSsxvozJYXyMtl4eLnc2rvJL/pBuExvk3ZFnjA9/Mi4AhoHK0Or9mjYVEop94c/mGAubZIxlhmCNXR51UjnSRrQSKLpRqgcATSsF70vdPlrBX4Tw+wgPapoeSB8bZmIuHj5O8L+l61gmZ1ihRtg7w3c9UkCYFhCD2NV7zUAuGbMotLl8dXEDvPRjxMavxqx7D12DWH1nghQOsIFjMGCPKV+ODSN+j1zf1VbrZLSkE2168lOrOZVtU+t7P2aAyA7ZJPiPmpBHM1BTzmfqoTIlxUL7QvOGHEOjuDc8hLXpyOS7mvlbNPpWZYgFfGBCgGnRWnDNtJgpRS6riz18m9J2ptvfE/jZG8KtNNbBV/mEk+x6ZRCskvxtfjy+HmQp6NR1CZkZ7GpEtCJvte5KJ0wtWCQ8WHio4XoduK62SRFe9946I5oeVdIybrHplk0pzgeoSv5PVjwU8Zgr3XFzV7FNYuO0Mequ/4z/ivZSTo+mGzE/57M5oSGf3y39eCurM/9F/+ifcIg9gPob21loJOI9JiGNmvjEupsiuZ+UF7wVpnG0Oxa4wHsxGl8YV+4CxjCykGpx0i/cVyJfzPkzwKCAek+zIEhZDakX4TMuIqq3yhJIn2OL7MbCweow=",
+  "URL": "https://github.com/flatpak/xdg-dbus-proxy",
+  "LICENSE": "LGPL2.1",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1589877154",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "glib2"
+  ]
+}

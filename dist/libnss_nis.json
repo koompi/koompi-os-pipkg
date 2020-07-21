@@ -1,0 +1,24 @@
+{
+  "FILENAME": "libnss_nis-3.1-2-x86_64.pkg.tar.zst",
+  "NAME": "libnss_nis",
+  "BASE": "libnss_nis",
+  "VERSION": "3.1-2",
+  "DESC": "NSS NIS plugin for glibc",
+  "CSIZE": "23406",
+  "ISIZE": "54984",
+  "MD5SUM": "d46b6b3459c88ae8d085b6ebe245c043",
+  "SHA256SUM": "a93e2ea40626ddbc5a76dc2b996fa6bdd6aa1901e4214a4fa2cd25730d357bd6",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl7DmREACgkQeGxj8zDXy5LjaA/9Ef+BYcXrH3TFraIiS8pkuTc9ZRnl7IcMghUSeDIKrs6WqsMfMLDBP051w1QLwuDUVQENTNyiNMr9ktfIX0MlxdmPQEqu+5jghF3B8JN5HgVJq1SJLK3hqmg1DvvcMzPKAeF3i7CV+24IMvhQAzAIA5brcHFU6dwiuGzK3kkjB0L/6azfUwT1WLL38ShLkLNDqN3u8+lzregOTK0lB6JXpascaJ7ovq7l/6oFC1Rd97s3rLOZ/pI8U05bwCNbCA50Pa9a/g1rddX4bb3OEDbLf5LYJI+8oDiGrs7MRopUCH1szWY7BHH5PeuKTuKbABSwwje2xRepr/7tKVHxBfQgzIF/E+Q/95/2AdJ/hiQV5AlBG6gKYl/VJ7eVPpZkzRdMkjXpIQCJyxI0atSN5m64rPJmJez0yebIFr1WBwHn6JVGnCN9KAqcR230J9A0Wj9VK9D8Dti+xidRO4+1NyzzLtAtO62shRn2M3Yp9Q50HADFG6sxkl6gscWpnMPPkXnoqLohuaqYvG2VI8SK/tCwFP9QFD7yyeotdCvz9rfNjK8vYaCivu3FOXLzu6cigK1cnRgHnI4LLcC9ovkTOT3dtBm4cjdD2sXA7owQEBFZcGx8wq7Sw4kXnTG/U6ZWasBj0aHxaLl+4xt9ETLCVb5jyW4VtTIP8CR80ivNfEhymPs=",
+  "URL": "https://github.com/thkukuk/libnss_nis",
+  "LICENSE": "LGPL2.1",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1589876971",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "libnsl",
+    "libtirpc"
+  ]
+}

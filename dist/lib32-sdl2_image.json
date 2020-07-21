@@ -1,0 +1,29 @@
+{
+  "FILENAME": "lib32-sdl2_image-2.0.5-1-x86_64.pkg.tar.xz",
+  "NAME": "lib32-sdl2_image",
+  "BASE": "lib32-sdl2_image",
+  "VERSION": "2.0.5-1",
+  "DESC": "A simple library to load images of various formats as SDL surfaces",
+  "CSIZE": "63044",
+  "ISIZE": "169984",
+  "MD5SUM": "3293ba95045d6786f28ea413193682c7",
+  "SHA256SUM": "4e50911a9581afba90b001d74682e0d517a1bf0c0e51c4c2b5811454c531832f",
+  "PGPSIG": "iQEzBAABCAAdFiEElDfdOBWnqRaePTlGr/XZUJi8b/UFAl0vFWgACgkQr/XZUJi8b/W7kwgAhbFuNmzAx1z3JzRBucmQI/C6hfrVEPyH+Hb6T9G7RGaHlOZe2gfv7BmY7Bpa/oLeel7KBYNVovTRRowIOnq5qJmX4x5gmBxLch830ZGZIZy1/BFJ+ezf/aijxIpSaJRDN2GLHuyXFktUepWjbdN7pXneBHvhEBYSktLoMBYKX1PcgLAJ7uAO/R86xgz9Bed39jw+hku3XcFPpM4+IxDyZ/g31YaKuRl7u7uDvPYeArnSqNzBbH/xbz1mdFHvFLaddW8UGp1RVRkjOnPZpm4zeLYHAobl9dPe1Dc2Q+CsQL4WOhrWAXna6k9vAFMriOWU/rarLTUhPbkzoTRXRThpUw==",
+  "URL": "https://www.libsdl.org/projects/SDL_image/",
+  "LICENSE": "MIT",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1563366653",
+  "PACKAGER": "Maxime Gauduin <alucryd@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "lib32-glibc",
+    "lib32-libjpeg",
+    "lib32-libpng",
+    "lib32-libtiff",
+    "lib32-sdl2",
+    "lib32-libwebp",
+    "sdl2_image"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "FILENAME": "perl-html-template-2.97-6-any.pkg.tar.zst",
+  "NAME": "perl-html-template",
+  "BASE": "perl-html-template",
+  "VERSION": "2.97-6",
+  "DESC": "A simple HTML templating system",
+  "CSIZE": "57709",
+  "ISIZE": "160767",
+  "MD5SUM": "7229373124e50f630e89ac3b515e9165",
+  "SHA256SUM": "8f634f880a63f286bca9fd18526029b0eba3d04de864e6f14dd1bf36cd1154a7",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl7vU3IACgkQeGxj8zDXy5L51A//RYsZwt1qRuyzwbsuqqNHp64e+R+9p9jnou1gZyDF/QJ7rbBNaBcDtiJvdcn1aDAthHnCt4RF8ni5gWPHBXHjqps6DKAVY+urOki1R7CAa9ZoL+QstYOnGyb6Wzt8vUa1riOhD1v9fXgkZDvCks4+Lu/AafGpS/0SCJ7sO6+tdgJTrFCzdTIYv928lakwoTWabjdcil/ruzhL4n9wDcUlf2j+cZwEMwh+Xz55e47nMp+uNm/kR+DM7CFZLVALyHAsFUZ1Lo6SDecUeDK2kgPEA1HFjh24Yt0PJ7wUdoUhlPOdsayM67vg4zzgYLLYqEldty8cMNM+uf7yXHRt2hn92KRHaG66LriHlO9EOeYodmbvc5nbOMBBFlkBRd/8tGVLvqXAxI3VMTicRT+xLY/7F7vdWRcyYR+9JPii3mPYtWwwey4755q2VvxT+LUXbIhMqF1sFJfGBBGUyKO5nXW2ipgRAgTOGVZszy32THFWOblQ2LnSMzC4tfJWxg9d1E91bah/07pgC/lzV22Ucz9Ow0GwHoiZIgzNEPILjD3o2iFP7eGqqqOK6rEanqvbYrrFw/1A6UlKayc/0T1nytgWpiSydQ4ZOqYDaOF8VtMFnDsYfoenKbjamJG2nkbHC1V99mg1Jvoe5/rD9owvjT19fsVH1XtNEHEcZTxBFmU5UmM=",
+  "URL": "https://search.cpan.org/dist/HTML-Template",
+  "LICENSE": "GPL",
+  "ARCH": "any",
+  "BUILDDATE": "1592742746",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "perl"
+  ]
+}

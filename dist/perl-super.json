@@ -1,0 +1,23 @@
+{
+  "FILENAME": "perl-super-1.20190531-3-any.pkg.tar.zst",
+  "NAME": "perl-super",
+  "BASE": "perl-super",
+  "VERSION": "1.20190531-3",
+  "DESC": "Control superclass method dispatch",
+  "CSIZE": "8646",
+  "ISIZE": "10242",
+  "MD5SUM": "6d11434732b9a684cf23d2a56e5be810",
+  "SHA256SUM": "9c512a9ac3b6f21fcea9b0708b6d1372f711dbbbd5a34527e66b9cff0624a05e",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl7vPOIACgkQeGxj8zDXy5LHcxAAlpg7YeiyYlDpNUg5LGDEsy/3hIgTYHRnyPWqugdpsKArVe7Irk2tCdWIr4Ce05HNJfYlHrItyrlCCO1100jJw92Ub8dVkEa3hvWUOc8tGUDref8rIqi4DjqPWaBTKjW+8UK269ykxVFsuVuOFpVgOl+UScUvyCa6zGBd/SpGibPMJx4+ZyeRrE9AQFzBCf/nrJo+st+WdLtZJ0Q+/GzDVK9wYBUu8i5b0JIXu7Di6WEatUO1o8DDow8i7Y2VW25dg+W1d9x6G5jZP3RyqZ7hs3WBMA9/irlZIpw4EIHx+OZCTMRnHHkK/oSJyym9YUd6RBmejXgHg6e+fbZuWv/iGuEx1igiCA5kGNBIoTwvHjN6cuCByqswEqmQsKPu1JR9YK5U1dwyNAIPDnV9Yf6WDpfHlbL+vISDWxDjCAmcHAw+PBhn4UdJ8bhI9G+eBq/uGF5mBTuCbLMmZ9CHO3gekRhnBrSas5Cnobhrkjrwb2iyjj7W13+Up6WvZjFI7KfanHoSZXM0rU4tLPOVw4ID6HzL0tZ3435h/jhFhkHr4crX1ds4nuNDGHSKnAageu3HDXPkMv2hLWv/+gsOyd7bNnNjBIWaiMB00+MS47TfB1kYQ4l1s77wxIaGj4EvODmaSrFRj2POg3tPcjYQzyYcz6/BpL4KWtCqFx9irVneyC4=",
+  "URL": "https://search.cpan.org/dist/SUPER",
+  "LICENSE": "PerlArtistic",
+  "ARCH": "any",
+  "BUILDDATE": "1592736969",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "perl-sub-identify"
+  ]
+}

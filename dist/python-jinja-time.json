@@ -1,0 +1,24 @@
+{
+  "FILENAME": "python-jinja-time-0.2.0-3-any.pkg.tar.zst",
+  "NAME": "python-jinja-time",
+  "BASE": "python-jinja-time",
+  "VERSION": "0.2.0-3",
+  "DESC": "Jinja2 Extension for Dates and Times",
+  "CSIZE": "9563",
+  "ISIZE": "19263",
+  "MD5SUM": "de6290c29f484410667d4ec41747919d",
+  "SHA256SUM": "a1ad27d3912cbe38fee74708472200c9560ae8301ec141fe8e86ec06a093d085",
+  "PGPSIG": "iHUEABYIAB0WIQTH54SUZv4jWDQ1iDdyWHNLQcMVSQUCXmyi/AAKCRByWHNLQcMVSeSKAP49Wp1KL9V20AqiPtJg/qkDsJjdOUJuUWs2L3fNcsGGKQEA8TUnfnoIzav/IWqK0tA3jk0gcfI69rB8BDIqEOYu5g4=",
+  "URL": "https://github.com/hackebrot/jinja2-time",
+  "LICENSE": "MIT",
+  "ARCH": "any",
+  "BUILDDATE": "1584177856",
+  "PACKAGER": "David Runge <dvzrv@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "python-arrow",
+    "python-jinja"
+  ]
+}

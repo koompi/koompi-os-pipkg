@@ -1,0 +1,23 @@
+{
+  "FILENAME": "libpackagekit-glib-1.1.13-1-x86_64.pkg.tar.zst",
+  "NAME": "libpackagekit-glib",
+  "BASE": "packagekit",
+  "VERSION": "1.1.13-1",
+  "DESC": "GLib library for accessing PackageKit",
+  "CSIZE": "567723",
+  "ISIZE": "4183026",
+  "MD5SUM": "9b1332b9b04f128dbc65c4eca4b0ed9e",
+  "SHA256SUM": "057b2ecaa16035e8d0de9bea2b55bc0f7a0828b9d05dd584f330f3b8d2aa9048",
+  "PGPSIG": "iHUEABYIAB0WIQQEKYl95fO9rFN6MGltQr3RFuAGjwUCXhX5cAAKCRBtQr3RFuAGj0O5APwOeG6LKxBMeMj+YrcRnTSvWO7NR8EHwnEYgQa8xFZgWAEA7/HQ2B+LKRmIZgGKeoGE5uQJyYtodRyLhuVusGTfKQw=",
+  "URL": "https://www.freedesktop.org/software/PackageKit/",
+  "LICENSE": "GPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1578498325",
+  "PACKAGER": "Christian Hesse <arch@eworm.de>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "glib2"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "FILENAME": "gcc-ada-10.1.0-2-x86_64.pkg.tar.zst",
+  "NAME": "gcc-ada",
+  "BASE": "gcc",
+  "VERSION": "10.1.0-2",
+  "DESC": "Ada front-end for GCC (GNAT)",
+  "CSIZE": "25494145",
+  "ISIZE": "134446491",
+  "MD5SUM": "59e0a699be474405526012b736b892e7",
+  "SHA256SUM": "f3fff0d7fb3635eb1df31c6b624d3a571b49970deab8fda660df121e34ed7810",
+  "PGPSIG": "iQEzBAABCAAdFiEEhs/8qRjPOvRxR1iAUeixSKmZnDQFAl7Gyn8ACgkQUeixSKmZnDSJMAgAkFFYRrcj2YVXsfg3Gu5bxvQpWQ7myZAeqc8xqgw4qTEKhtNgv2UB5ivhT+ifT8azry1qUZ9C+jalbeHk9jchVzqNJJ59WS7PYiPmq4N8rjcR+iVp64343wlm5X12WqhrARqRdUnninNM4QN04dVGFkA8f2EBfQRJig9MX+hRUo6jz4CGBvD0x62rLZ8E2TyTOCpudWZbepplMr+r4Zpuch9oa2ipvqOJ8N5zKKmqCyAK9AM7dZF8Ju7nEsFf6fkad1IKymTkL1/9dUepwGNnNpHgeGFI7A7p8QBEtDzCyW9Oc7NXtKz1FJUMPCFlBC2PETlnB6U/PHzcSXUfDdNAzA==",
+  "URL": "https://gcc.gnu.org",
+  "LICENSE": "GPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1590081605",
+  "PACKAGER": "Evangelos Foutras <evangelos@foutrelis.com>",
+  "PROVIDES": [
+    "gcc-ada-multilib"
+  ],
+  "DEPENDS": [
+    "gcc=10.1.0-2"
+  ]
+}

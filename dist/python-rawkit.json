@@ -1,0 +1,24 @@
+{
+  "FILENAME": "python-rawkit-0.6.0-7-any.pkg.tar.xz",
+  "NAME": "python-rawkit",
+  "BASE": "python-rawkit",
+  "VERSION": "0.6.0-7",
+  "DESC": "ctypes based libraw bindings",
+  "CSIZE": "44832",
+  "ISIZE": "325762",
+  "MD5SUM": "89a768b02c8155372330b09cc00c8fe8",
+  "SHA256SUM": "76fcaa60452e4cca87765c8d15eb6ca49a1a07a59288f89f09c522c62054cffb",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl27Ho4ACgkQeGxj8zDXy5LrgRAAgnyj6H9MwbtrDof0hwicZQVK7ZOYi6Wb7IcB8VJiZqY1iXVlI18yaTfO1j4RIdLKYbVpeUjscPyLUWTXoygEUGS6Aw3h8yOrWMbThLJfe4XTAjGBqIZQGowK2kq3vhNXu2n/ywgz4Fzq8aEUFmCGJXqH9eemmQhUjQEatTBs8o9mgycy4ZcYmEwOaPome0/DgKWZdhp1EQN4X2aQC6BoNwldVSJ45XiDVIaLPPgR68Aba1JSDhfx7CIcb0AOc5ZVBJBEpk9pnNjlX46iXPeheQ/tpqeqLsv79IobUkbWXXh4MUtvn6WL3XOOunqtO3Dbw/rBKauE8tibEXRKm8LpzzSVbcAWC0Wfldoz0wEhuGz5s7skVmBxatfHJ32x9iO7xCzM7+Fls74QXC5WFHNSR/iA2Iq/zpCXPZNTDEYsuGxbaIip9RJ5co8D49KgLUh9wM8o9PLqW0/inMh7NUF8YkoBFPq9m8VHK5TCOc8y6OMVd6P7HZxupteyIA0lIf8wc+oY0AkOKxEXMEmEsXzxu1l6O3AfkY0Y5HZ28vb3EmFg0i6zpPyKAtZs63bGIhgWTbG5CFO9Nw37xZN4BCkxAfGH+uRlJAtkYcZ5wB38bnYaa65NYy4l3ZZdqgGm1cSCXkcsyuF/QP3GJz1mB77kxRKOZ8v480/AlnMm5VqpFj0=",
+  "URL": "https://rawkit.readthedocs.io/",
+  "LICENSE": "MIT",
+  "ARCH": "any",
+  "BUILDDATE": "1572544108",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "libraw",
+    "python"
+  ]
+}

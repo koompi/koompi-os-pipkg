@@ -1,0 +1,23 @@
+{
+  "FILENAME": "python-sqlalchemy-1.3.18-1-x86_64.pkg.tar.zst",
+  "NAME": "python-sqlalchemy",
+  "BASE": "python-sqlalchemy",
+  "VERSION": "1.3.18-1",
+  "DESC": "Python SQL toolkit and Object Relational Mapper",
+  "CSIZE": "1569269",
+  "ISIZE": "8895522",
+  "MD5SUM": "a7d7fb65a77311790660a85d047b5c7e",
+  "SHA256SUM": "95b550d2fcadde08286231c5edfe23959d4b7a47b9aacba24417ee0a38138b1b",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl71XigACgkQeGxj8zDXy5JvKxAAwPDRIrRu7czsxZ3vmxfpMWk4GALLoVHJ7pqPqdh3lahXc/z7Y1iFMHNaSbJ4H6hw17C8lSfP8kvixAJYJVRW3N46eFFSMf1oJfWPTnI3wNZ9/7zCElCwHjMLGfQcTCN3r1r5YxMm0P4zkOQrM5+vb1oJFHIFSEggBhQJ+DQsNK0xfeLEsyiM4Nn/wrhCIdXbUgkAZVmZ+XqvQ+Vaeq8yx2uKTh885fE8tVm3jLHRxFO3oLSzGkW5VSi/NOYjRIyZ9M7oIrLrV/nQ/8S3nzmlDv9gYKeBI65VRv7l+BLUzyIASIwnpeST8TyCMOnN064A+Dwia9qOj5J4pDzcslEnGPzfibEe9MXXWw1QFTU2bHTvvpEBM+sh8UGzP8dkXYuV2QVBQzzoGbT8eqi2r35WQO22cWyk+MY6KpXbjCDA0/J/mpjiU3T76UuTmFcE5nijczi5jlL0/MTQl8PzGnaurBDfLnQhCYW/uTr2oGMQx33Ie+7uG+/Yqk9mCQ9nCIe6oi+4qvuwFvzoszZeQnQqjKbZUoGAFEBDySMWD7hRuUPj3mC8CqFwmydMPcrhLAW159nL3wNNDhkwXWWycIpiZs3aKCTAevYxhl1RAHsO36DDiN1W5dvqo1O0gqXDpZ8RGzNsg5Ubbj9lTGYPY0sa4jtfGnaLkz1rmhpk880bylc=",
+  "URL": "https://www.sqlalchemy.org/",
+  "LICENSE": "MIT",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1593137521",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "python"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "FILENAME": "linux-api-headers-5.6.11-1-any.pkg.tar.zst",
+  "NAME": "linux-api-headers",
+  "BASE": "linux-api-headers",
+  "VERSION": "5.6.11-1",
+  "DESC": "Kernel headers sanitized for use in userspace",
+  "CSIZE": "1079577",
+  "ISIZE": "4703934",
+  "MD5SUM": "5af6f15038c2b07b0e3a2a3f22d886d3",
+  "SHA256SUM": "093ca3aee905d0861870f7818837e9262856afd2b8148e52e9678b7e40aebf92",
+  "PGPSIG": "iQEzBAABCAAdFiEE82kWh9hnuBtRzgfZu+Q3cUhzKKkFAl61ZrIACgkQu+Q3cUhzKKlLFwf+IpCKkQCr3Rld/xgRQfyYAj4/rjLQ1mR2wwqEgnScI1n0tvikEuwBqSF2vaNhVN+eOJO5mIuYd3js63lMq97oJYCkJkMGfCdodGxl3BMOQOarchA3c1QWtQDumrlPJ8prSWL8keuCn189hyKJHkus73d7eYL9qb/Qqi8Glz30aZpGa23k5jMf1OTnob1VsIEyiyK5+fP91DPoODa3i58LbCdJfoaLWGXo0pO5ii38/2ShPZCXnPlsiTPNDK6RrywJthj3Vpi+ZprVfUfCFu60yEwCBopdntEs1COA035COfOikEE4N+PaEZ+JccxMfpxBH+AYHZZSK/TFzKwzZtU1Dw==",
+  "URL": "https://www.gnu.org/software/libc",
+  "LICENSE": "GPL2",
+  "ARCH": "any",
+  "BUILDDATE": "1588870021",
+  "PACKAGER": "Bartłomiej Piotrowski <bpiotrowski@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    ""
+  ]
+}

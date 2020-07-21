@@ -1,0 +1,23 @@
+{
+  "FILENAME": "libstdc++5-3.3.6-7-x86_64.pkg.tar.zst",
+  "NAME": "libstdc++5",
+  "BASE": "libstdc++5",
+  "VERSION": "3.3.6-7",
+  "DESC": "GNU Standard C++ library version 3",
+  "CSIZE": "213039",
+  "ISIZE": "844520",
+  "MD5SUM": "0a8bdcd5865a817810eaa416fcd0d6ca",
+  "SHA256SUM": "80dbce70a4c94ee46a730e9c311dbd272f1af284aa0151d09cc848a4235efd50",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl6/xBUACgkQeGxj8zDXy5L+hQ//QEa5PsKv/zUL+O2CBEu1hizwrLYKmKEIPWfdVv8lJXi/kYQbBSdpRO4IkXZI9R7BOVPTXZDcK+QlVm2n3sWRcwVG1akvrXpk+8asJ1h1xf3h1gIDZdvXkMmr8Ln4cbxmB6sGqTHPm9fMZuuZaTvG0Igk8I+QrenDUHBR4HTJNjZmmcL/PfTtX66hoGzc3rixqJTOEJocrmdHYLX0tJRwnEn3j8MoieiDqiDCVdQwUBOtenHigzfvTIC6m6xzjzUbxqgH25DR0+OUtQMFm3QA0IesKsjxoy1jNrJnqu7HErwdnLm01lEJGQmh5Mv6BxeZ8GhXgCPb0g74tXjGsQhHfEZg3IpA9EtdUvHV8/sLzUeTyIdIM+jirL6GH2W/bcbr8SpYkOveValuiUxM6LgUyErScn1hNKl4XLdKYQ5T1moigsy2DFOQi6Juaw/BbtMoxWE+Y5ZrvbQBoMSsKOA/Ihys314coi6AUjyQMcqSIVPvt53oEEaEE3PMLvXXmUeiwKAtde2NQhBWV46WQnznDQ6iyWsui5Q6NUOZDlDj/VWN89ff4DtOwNbBktvcPsq0pPV9Kr8eq+dz4JLxVxwx4CEb/nju2qxi0CNkSO5cbpAtClKh26+Pz66LXbtChH6Gp6eDLv415lj/LWMczjvfNURmcKWAwMIiBUR34ZmjgD4=",
+  "URL": "https://gcc.gnu.org",
+  "LICENSE": "GPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1589625628",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "gcc-libs"
+  ]
+}

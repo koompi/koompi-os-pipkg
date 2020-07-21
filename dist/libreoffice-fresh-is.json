@@ -1,0 +1,23 @@
+{
+  "FILENAME": "libreoffice-fresh-is-6.4.5-1-any.pkg.tar.zst",
+  "NAME": "libreoffice-fresh-is",
+  "BASE": "libreoffice-fresh-i18n",
+  "VERSION": "6.4.5-1",
+  "DESC": "Icelandic language pack for LibreOffice Fresh",
+  "CSIZE": "3108854",
+  "ISIZE": "22453226",
+  "MD5SUM": "51c46e91b56d4959593b029c09e1a2a8",
+  "SHA256SUM": "003ef6c398273e6f3f5759f4ac57620c17ee03a12e5d537a95f3c69c6b2dc78a",
+  "PGPSIG": "iQEzBAABCAAdFiEErcih/MFeAdRTEEGelGV6sg8qCSsFAl7+FxQACgkQlGV6sg8qCSuODggAl9TubqeCloxLTn0Je1+bPRoYxgYU+HZPOIj//kwVTT3/CCuUhSkfSmQfNfbhJbYS3F2T+Nj5swD3ONvM3V/CSe4FpouHDpHXGU0yhzM76Jw977lI80aCAkow0JsRCr+RIJZ6E6kzuRHXPF8u+8tDNXTJ8U2K2B308e0xm4u3VAkzyWuxnoK9YYhXIVCsvqbmH0I/oQQife/TqMau53dybnAxZ4fBIIpXupr9ZGd+oYuMSP4o8hgN20s5qtrmPqnXAoR/ZnRCaI/isjDA1IREYV9C8zEQuf6d2G6zpXG4vtbsA8L1v3r1yFTZjTnIc0Y7ziGcYx9l/lKso+YM0095Tw==",
+  "URL": "https://www.documentfoundation.org",
+  "LICENSE": "LGPL",
+  "ARCH": "any",
+  "BUILDDATE": "1593700315",
+  "PACKAGER": "Andreas Radke <andyrtr@archlinux.org>",
+  "PROVIDES": [
+    "libreoffice-is"
+  ],
+  "DEPENDS": [
+    "libreoffice-fresh"
+  ]
+}

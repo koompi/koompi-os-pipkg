@@ -1,0 +1,24 @@
+{
+  "FILENAME": "python-qt.py-1.2.5-3-any.pkg.tar.zst",
+  "NAME": "python-qt.py",
+  "BASE": "python-qt.py",
+  "VERSION": "1.2.5-3",
+  "DESC": "Python compatibility wrapper around all Qt bindings",
+  "CSIZE": "34521",
+  "ISIZE": "145981",
+  "MD5SUM": "ccfdd0d62ed482039392e4c6dabbffcd",
+  "SHA256SUM": "5a7645ce397d6ddcb2be94b13440eb0f6c971dc85241f46ce90ba58a51fa5cd0",
+  "PGPSIG": "iQIzBAABCAAdFiEE0jW0leqs33gyftiw+JPGdIFqqV0FAl7quW8ACgkQ+JPGdIFqqV1FyRAAhzZX2OJs71GacAbHrtqWT6g0uaMcQ6l6hnWkzgpypH07mbC9qnRpL6tmZPA/suHpvHaFSzOPIV3qViqHm+tgOkYnm45fxMDg1T05dr6QxQiqWx/ueaxSj70P4KsmDH+KLc3RMS2r4F9WMWzVvH63XmQd+8CIQxabFiQQCe5YyR5j54waWyrRqB6vUVDdAxUYkV6pne4E1OkG/LSjlPpfmXUu2G171ZwrazNDGz2dgYXNglJD+r6YYcoS7DKnRfZPCmZWPFcpOwsv5FmDv14nwGJrHudWG/3GOgYDVdJ3Wn3kMSi8HZM4NF9+Rk83k0/Yf2R+iZhjwU2S5LN1exRmcwkSsAZoDuZuDwP2i3pm9le7fmp3Of/1j+eGYJoaQK7K5Kers4eDVE35681f73vvsJA3/pT6x6Q8uO6OAsoHwTLtxBL9of4vW3nHDPEA0y0ZFpcH9tjZevU2x4NZLG9cizjzXPl9yA7rsyPYHm6hoHbcoVhpfj34ESS09hwGHE4zLxGB6Yfu/VNdRVl/1/9s1fxSNS9KRK/qRIAPx0LbZmfT1YRFdgBstM4AYMCGv7JFCRWd557gfy3S6M0xaLPZ69ONwCKLoEln7Ba4fFpqiUxx0E21BGq2StP8+nXF8bLWpRA3W3OyhikLMrOfA4J18qaggJU6d+zDTJ+Xr8E3QNE=",
+  "URL": "https://github.com/mottosso/Qt.py",
+  "LICENSE": "MIT",
+  "ARCH": "any",
+  "BUILDDATE": "1592441043",
+  "PACKAGER": "Filipe Laíns <lains@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "python",
+    "qt5-python-bindings"
+  ]
+}

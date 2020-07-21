@@ -1,0 +1,23 @@
+{
+  "FILENAME": "argbash-2.8.1-2-any.pkg.tar.zst",
+  "NAME": "argbash",
+  "BASE": "argbash",
+  "VERSION": "2.8.1-2",
+  "DESC": "Bash argument parsing code generator",
+  "CSIZE": "42052",
+  "ISIZE": "163120",
+  "MD5SUM": "5b36a7d5f27ca4459ed5d317bac0f8db",
+  "SHA256SUM": "dc08bc27d817cd316152613ab8ba024ee9c281ac33f98b3a5744cbfe4150070b",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl8EoAIACgkQeGxj8zDXy5IyLRAAqTQY9tAhi/MxSTXCLxv7sd3k2+8nWtx2bYra2d3MKegN+ARCLk374KXExWIh2QPiXwONwsBovGAime2gqXOdKBMgrNTBc9owyUWZjQmI/jwRCOfAhKucty8HOf6YcLFUARX/TfVF0HsNTbHZelCI2P4m7RDNMbfRhaD7XgDSkaNRjctlDNUP5QTnO9U8CO4SZWjpWpVehv1JpBeq1dzk0X9r2kS7ABNTXDaGTnBt6sgO+UuKaQZJCpXVpWvKuLNnP0jV5a5INaqVa3/6wp2vjE70bhf93Z+n6y/6wndKuMAfO9C3y2W5EabO2QoxUpc7Qo5HfIk3yfv/crHrEhz7tePUJfZsSCWfNKWbAw7h0YbXWnlUwvPpvSiPelpa7aaXvofZNEADwXkgBGair8bU1eoVfPc5MHUSNCz6wn59o5BgwYWaxw8IGRpPIZcLC7tXnZMaeIyQoCwz7yTJFIZrc28OnffSrDBdT/n2/dSkUeo9seYvdy+UOJyym2xl1d1dEFPMTqi7KVnjU25wk1xAWPuOEyOnqM/zGphzoLkwRArtXUi0eNeIgPid9FIkm/bl0FVFBBGOalk3prmX3Dn1AgM10bIstzAMk8HxrNn2vAaCjJbqtVuEaUfBz+yI9iibt1ZaUvvmr2lcFInHGLsFqbrYiXihYsYjCrG9oGDtzUM=",
+  "URL": "https://argbash.io",
+  "LICENSE": "BSD",
+  "ARCH": "any",
+  "BUILDDATE": "1594138537",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "autoconf"
+  ]
+}

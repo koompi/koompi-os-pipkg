@@ -1,0 +1,23 @@
+{
+  "FILENAME": "mpc-0.33-2-x86_64.pkg.tar.zst",
+  "NAME": "mpc",
+  "BASE": "mpc",
+  "VERSION": "0.33-2",
+  "DESC": "Minimalist command line interface to MPD",
+  "CSIZE": "186101",
+  "ISIZE": "658297",
+  "MD5SUM": "6cec27b5b47bb485b1e71918dd0438bd",
+  "SHA256SUM": "6809b6a7d8205928a7aa486d71f222e9a25d60e152943348e39416e7dadf8727",
+  "PGPSIG": "iQIyBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl6/uv8ACgkQeGxj8zDXy5IiMg/3crYlOr74ZsbLTbe51YA93OE5zKA/V1M4dqrhcxUPm1g9z+znJrx6kyR+K/DnTlvQhUITGTFDajCh+ht4Lb9Xm4Bvjni13HMft3M0UAvz84IbVdqNsmUuFaxNcN0wFF53Dn0+b9fE2WOWDN3W002V+MEjvZHrXkj3Y3lSLoRwlxreO/kHjA53r1fZxtIsVRdbVSDYKwS5BDsiA9WQtzMmBDBXCJccLW7f9+TbWczxZ9GCWueq7oiBbJmTva+rAdWo+M4FT/o0zqu3VmBloTtYoQV8jJZ3hxthr2xKIvfSmtYM0wS/S7+MQE58erhwYgRw+8LDFhcb5Y2O0P+71fweMFWvGxpTQ5H7DHdW8ycVToeIvmtmFuLwqh+6fvRQRdYHmNfE1Z1U3polpAr5zOjXbHWwMP49rHtWVvoKjBgpul77SySSFyByLPXT5VZK60M8FhR5keWArKcZMEGzcf+tQDXuk/rc0UYC/65Fd1XnusxeOk77yFc+Y0as/u7rKzcGTidD08Hc+iAykl93QvHjAArtfBJlkKEjFS93G6F2YyP43wFmLCQH4HoZ29VDXqgV/cbebGyXFKjdJ4dAIsViNFVX98L4QCEiyiIeuwaPeRLz5erjiDjrIfPRfolhudrH4Op2CVD3Rq92/sqgjQ+UcVemEimecSx9EBzJy5v5CA==",
+  "URL": "https://www.musicpd.org/clients/mpc/",
+  "LICENSE": "GPL2",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1589623508",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "libmpdclient"
+  ]
+}

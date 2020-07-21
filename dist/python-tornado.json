@@ -1,0 +1,23 @@
+{
+  "FILENAME": "python-tornado-6.0.4-2-x86_64.pkg.tar.zst",
+  "NAME": "python-tornado",
+  "BASE": "python-tornado",
+  "VERSION": "6.0.4-2",
+  "DESC": "open source version of the scalable, non-blocking web server and tools",
+  "CSIZE": "648551",
+  "ISIZE": "4212169",
+  "MD5SUM": "427fcaa85531146538d51ad1e2babac9",
+  "SHA256SUM": "d0cdd2fae2bad0ffd8994be13f4d48f76b9262ddf3de40d1afbae58fbde5bbf2",
+  "PGPSIG": "iQIzBAABCgAdFiEE0ZGnjxiB84R1PJZ+aGsGOsS8DskFAl8LFXUACgkQaGsGOsS8DsmTURAAm9PPghXoW23ZTnWlHdJEo3YALhs0QSL0eDhmTs1l5eNPPvuVKM26rOR+QQ3UFg9uoPsKvEYRFE1LmPu4/WzB5VMUrHa3A9jQcdUGVVaSnFKYx7hDFhmMtvEjoyziWCGaDuc2G0dqtEk00JFXEryz123qB0mceAscSZbrTN3/EdWEHFwXbsh2X/zLXSIFWQxRG8kuCb9vsuGu02cdPc74uQaUPAuQPLE/+/1T45THVwFNOHPsoMraWpMkbf6D2UjvytD5VTNR1VoK7k/EOrV0iejOeg56a2EEc18SwjwsO1c7Q+LrYZRmMEpB0MJhHmKrhpULlBf/B7INi5Yo78WVPvRxTVDj9KuDmq3i3PmzDRtjU8V2o51toKaUqBs7oK14b5ycmgGIU3L/sSYeQ3LsuHCH0s/l67XfQKCLn4UyvFHHudLfu3sESWmWt+V0ZydffG0VQ+XQ2D+xLzQgqQVJJ0VnVJLe2HX8kV2KgnFjk7550BOEvwwdlgfSbX/SJ4AN2PfnYpjSnIuAbukPW1zTI7VxMXnlro7rVCawVSa6vqEyzwsxAzNRnA7izkKJv51CTxi6JForvmNGzkUhPbsMFf6nZVVG2EhS8irFtucNuXFxGCkZ99fr8+Q8byNr91A4AZVx04W8+QJhlEHsVoxMNSD0Ig/sKvNHyyrsCz455so=",
+  "URL": "https://www.tornadoweb.org/",
+  "LICENSE": "Apache",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1594561830",
+  "PACKAGER": "Jonas Witschel <diabonas@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "python"
+  ]
+}

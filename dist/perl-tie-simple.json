@@ -1,0 +1,23 @@
+{
+  "FILENAME": "perl-tie-simple-1.04-8-any.pkg.tar.zst",
+  "NAME": "perl-tie-simple",
+  "BASE": "perl-tie-simple",
+  "VERSION": "1.04-8",
+  "DESC": "Variable ties made easier: much, much, much easier...",
+  "CSIZE": "15386",
+  "ISIZE": "20774",
+  "MD5SUM": "940102a40f00d11b2bd3ef6ad8954d25",
+  "SHA256SUM": "fb96f9f0e5b616f80fe39ed2ae407edec2238ce7234abda25dbf077609bc7051",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl7vNmEACgkQeGxj8zDXy5LjmQ//RntXFPY3B8l6aeLvCdkrBS31Vd6tVzw3iEXu9jOliR0Fh/MTnpgoMFpVmJqXOmD5PdewSKFYCwmzBc9rVW+KL7OpGBDLYd3QkExt02IpNCm4jOShzsKkT6NHSuUjZCarK10UTzVRmrWji/pLi7P3ALoHV8tX8DbKJOnXKjo1bgPRN5vQPPOVaiLYOduJvzNq/mJB4QV3J934TSxjJ3thehhr+UVc0/LN1fDDqpWOau/dAHv5WxYMoOqL1Bu1tq2Pfwi0TNTIbzWtIizKtO+uShSVInWQC/v4rDPmN8r8R5REa5xIq1G3+DrEbU0PzBKf6cpTBzrVmVgqpa9W/5l281ND1e/zzHC9RA0VUG298hNBeQEgHYtMBlu+dA/Kk/VTzJwrrmkciZ5KVH6nFZImgcex8Wv7hC6/JHbRkY3PpwHht+TNHd+hEP/vOeVYL3cAWlW/pJYHFu8KAKmFRkoeJz3n3jqR76fsHJjUbnOpDtKRDuSnMe20V609296DTM6Sc7bVkKJFr4G/G0fR2AMZo9LOwnpBmDgRW3z5nCauC6uJubxIS7kae4P414AWbqeoBtfJP5HyPEmJJqeDHB17xKFh6iLTHGUOc+2qdF9Wahb0jcOhkDIod0E/lEHacCFNwHomRjKKgNOAAxXIi2p0Oaf0iQeBJu6pDgMWcdVqUDQ=",
+  "URL": "https://metacpan.org/release/Tie-Simple",
+  "LICENSE": "PerlArtistic",
+  "ARCH": "any",
+  "BUILDDATE": "1592735311",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "perl"
+  ]
+}

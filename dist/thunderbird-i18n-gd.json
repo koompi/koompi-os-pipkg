@@ -1,0 +1,23 @@
+{
+  "FILENAME": "thunderbird-i18n-gd-68.10.0-1-any.pkg.tar.zst",
+  "NAME": "thunderbird-i18n-gd",
+  "BASE": "thunderbird-i18n",
+  "VERSION": "68.10.0-1",
+  "DESC": "Gaelic (Scotland) language pack for Thunderbird",
+  "CSIZE": "525808",
+  "ISIZE": "587110",
+  "MD5SUM": "382f4c6c1b561c924916ff1630fa90c2",
+  "SHA256SUM": "cb39d3f3f08137db37470bbc841fb134387d8f1654feb4063ccb9e7d88468dc0",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl78eF8ACgkQeGxj8zDXy5JPvRAAsLBWsRNwheyuawPY1jDcAJmDrLtryVc1yf+aERhvm8CbxchYH+odGRIUkxdRBicIdoI3X2sIxnb+n6R2SxMhh87EQXAFOi2aJoVefSIjAjXuY3UrbKbcackkvoHH32Qi4vFQQ4QZu2/LSSNT7nLJ2TJTyuSui2tuevI6cS0J0htEiOr2LtZn4Oze06b46hkqqYqRfzQ/m2nYhnFp69enfwmzNmuZHNOutCFpDQxVPKj3usC4Orw8s/WXZbneOUu18kuKy1hoN3I6OSb0aFipE0wGm/nvDtCBfj+C9G3GKV3o2fbQbU8zuaoepQAszV3h6x9JFPbuFWlpGsc7lG280xzDOk9YYnBIIzCStlOj50+2dW9NFiXrC8LaaGJ1QTlpeCClRIoxOje+mS6Sf927pFtnTeZzdG1B9DGVFi6sRbDT706dPX75oFs2f4v0/SU5FgcywSLbY7nuMPiwFX7ZMW60UpVLkWR3P1PUuVjfuOXkGyp5Wtl7KwRqAgopMwqDVwJaFAHN2/SOGjq8HFNRknJ6i1BbAO1S6fq0r2zJgBpBLfDHffSj2AQNkS9ZKzc9s9bATEnFhVCWyoi33Fvfvr6tO7uECZmEtYQRXc7y/uy+LHKu8rncqvkINFKgimySV0Fmy395+dfZb568sVydUxYzizWmgfKVCvHkg3a/Jhk=",
+  "URL": "https://www.mozilla.org/thunderbird",
+  "LICENSE": "MPL",
+  "ARCH": "any",
+  "BUILDDATE": "1593603702",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "thunderbird>=68.10.0"
+  ]
+}

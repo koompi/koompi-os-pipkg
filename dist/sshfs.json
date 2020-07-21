@@ -1,0 +1,25 @@
+{
+  "FILENAME": "sshfs-3.7.0-1-x86_64.pkg.tar.zst",
+  "NAME": "sshfs",
+  "BASE": "sshfs",
+  "VERSION": "3.7.0-1",
+  "DESC": "FUSE client based on the SSH File Transfer Protocol",
+  "CSIZE": "37353",
+  "ISIZE": "96955",
+  "MD5SUM": "37cd3596a8e65e4ac2bb107ae4408a8e",
+  "SHA256SUM": "47faf2efefc8e443a38875ebb9200acccd2f34839c7df879a64f8b2cba5c279b",
+  "PGPSIG": "iQIzBAABCAAdFiEE7MrITBugimzI5j+78i+x14p3rqsFAl4PgpQACgkQ8i+x14p3rqtBmQ//Wbf3KmRKxRdLlSyxNAexBc2sSrj50w0/VIbtsBpZJZnF/PK+LlBe00rbalWHfJjZvuzADlTwZygOr/eyEIHQcrdfI+lEuMwG9q5ia/B/tDf8yokv7uNl5iRSmI8Rb5VsbbJVYV8S+Qp/R+l6eX0nFscVSYr7Oi/cBWn3X7hNfnwXGLblp2Dq90sQAYiUtW4nEEjq+tJiOJ52wsdCzvxcDEm8ibs4B8/531LgYtMSnKcYIac7TkBY6tLbYdp0TbGR09RpG7tqio1Lkd1uB+9JQfGnTzKZ3i1PE1HCKV5HCYS8JktbqH0UbGxeK5QQVyyUJxDBDU24hFf8Y4cjgmsPX3IbZMe9GM9OIWK84oSHB10PkOHznEYvFPtIhaszc/x2RzekLudPttocBnXtvEkq2fKOmE4eMQj1f57GHlot9aPYzGsvR2DjA7XJsqAJYgU3VFxuYaQRspqgqOo1O9iY9/McXdY0i+Q9kENxYR1zbDXkly2yL9s1bVMtg/c5Xzn85aP4+jdl+YH/vbnUS8J10naUOg9/59aLVhP08mXPQZ7hRGYG7KBqUewxnigtwfzELN0y1gRwdWVR60/3V1yOnYo+L/6oKNjtvKYFWnv+T/YqgVsEOZAqlLSdmo4S+sTBRWa35iXpF0GKq/OSvGYvWIg4UgHBufBtcH9rQgMDDMU=",
+  "URL": "https://github.com/libfuse/sshfs",
+  "LICENSE": "GPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1578074675",
+  "PACKAGER": "Giancarlo Razzolini <grazzolini@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "fuse3",
+    "glib2",
+    "openssh"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "FILENAME": "astyle-3.1-3-x86_64.pkg.tar.zst",
+  "NAME": "astyle",
+  "BASE": "astyle",
+  "VERSION": "3.1-3",
+  "DESC": "A free, fast and small automatic formatter for C, C++, C#, and Java source code.",
+  "CSIZE": "271982",
+  "ISIZE": "1031832",
+  "MD5SUM": "a9103a3dd2cfa950a07b794edd0884c9",
+  "SHA256SUM": "412cbb1ae34931a6c8a0b5a40be566a8d5e946924e576bf3c19a54a7bfb82191",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl8EaO8ACgkQeGxj8zDXy5KdhxAAoyhRzRlmDKafNTOJEZBxxWFOG6Dv17l1pfzgIpNL3Tm4ylFmLaz1ZhMNbMiLpXk2S8AsgXxZTFpsQj4kb2sN1MfzejgGaIsvnhslRH0Oz/NbuaPQAnxTZ2kcTDe6/hbibygMYQW2BhEEE2pD5Rf1vhr65JClS8t74HPvdpmgWSC7PEOMANlhHdIdtLzFvHWZ6PhCC5zw3xxw0Kyj1l4x4KKni3tlsnGC3w1vWfXeI/ZYww59Q8zGl8LOVYLhESCs2tqM2xKIh5VShNe4h3P7D+ij75lOFqj9qok4ZD+pWyvpQ05o0lqFvPyTZ3vnbDZln841fizEGhffaHfJGlqwfkl1lCjJfiMbeFDec3l6ahsGKjUnHVV1mdIudz79oZlur0bcGl2zHNBfjWk40Nql7rE3VAuXGCspIzVTsiidpz7P6aGWCnRvOridbHicLBjuAatHpv8bew87RbMiG1VsPTYqTxnxlD1zia4Q9fugo/y0IaiCrngOqWlJOVy98NZaYFiNv4YZwWY1c2TkagEwvYfAmvUieWLOKDnXQy54LN8ZD1DxegIypTRpjSbw3Gwo2yVBqAiWPSnDw9tnTnqYbdf17YhXw8EQC0HRY0BhkRMTJJKX55f1hLRLw40bqbxi/UkoMu5HxIkgSL/W597BrKNuxljkI73LxYEgtqMVDNA=",
+  "URL": "https://sourceforge.net/projects/astyle/",
+  "LICENSE": "LGPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1594124503",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "gcc-libs"
+  ]
+}

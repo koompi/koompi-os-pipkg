@@ -1,0 +1,25 @@
+{
+  "FILENAME": "kmag-20.04.3-1-x86_64.pkg.tar.zst",
+  "NAME": "kmag",
+  "BASE": "kmag",
+  "VERSION": "20.04.3-1",
+  "DESC": "Screen Magnifier",
+  "CSIZE": "780565",
+  "ISIZE": "1418415",
+  "MD5SUM": "1f66ec8720c2635faac609c421463310",
+  "SHA256SUM": "cbcfd77a68e7c0210ff5b134709f0244d396b5e76743259feb0cf7199ac7ca32",
+  "PGPSIG": "iQEzBAABCAAdFiEEFRnVq6Zb9vwrc8dWek52CV2KUuQFAl8HA+EACgkQek52CV2KUuQimgf/dqBnNrx+VzRHGuuKET0DGF7gm1ckynxcXwXUuCiKiJ3R4pMr0UmxGt4ogLluaO53FdSOkIJGrWsM3MEgmoQXiZo3vWWAq5M8z+TPvUppbViUg0T4Oy5Yhzd6cIj1jSVckoSqUjWT0g6Lj6Sv4uZHrIDxdSN++1Q2UTxWUpRFcXE5a1l1xYAZZGWuCatKXvkgajp5ekYD3SBknQZ8AyHTtzRJl+wjiU3rsY/86LL09HCgfMglrJY0uyfKAv78mZOSmLyX3dLgk7yQ33hZwvzqDZC6AiU/CfU3CMCoeIhwni6VSHEDvad3N1+auTVmMHLCSrXuPOuNyxLqqS/5M8xJ1A==",
+  "URL": "https://kde.org/applications/utilities/kmag/",
+  "LICENSE": "GPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1594106627",
+  "PACKAGER": "Antonio Rojas <arojas@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "kio",
+    "libqaccessibilityclient",
+    "hicolor-icon-theme"
+  ]
+}

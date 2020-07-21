@@ -1,0 +1,30 @@
+{
+  "FILENAME": "smplayer-20.4.2-1-x86_64.pkg.tar.zst",
+  "NAME": "smplayer",
+  "BASE": "smplayer",
+  "VERSION": "20.4.2-1",
+  "DESC": "Media player with built-in codecs that can play virtually all video and audio formats",
+  "CSIZE": "3735474",
+  "ISIZE": "16209639",
+  "MD5SUM": "0a71c1f5b225ff1bd2703941fd9dd733",
+  "SHA256SUM": "bba82c8d6ad8748ac7d86161672a92232712d2d222d7f3189d5a937f4577ef5d",
+  "PGPSIG": "iQIzBAABCgAdFiEE4kC1fixGMLp2ji8m/BtUfI2BcsgFAl6orGwACgkQ/BtUfI2BcshglA//UIg5vWUvC32X7Irsdr0Vwg9sTVmVOkkDBTWgFXSPTIrh9wyZOfiDeRqy8OP2iVTyNckXi3/ZMlJJ9zmWgcdz6fIKyBygo6WmlsdBRm6G1FMCLrlbvqqhX6/M3ZiBlbrPFq48lsoFX0jppFVMrpZCP1eZjt9huvKIsLtH8/Ti6DN6OmbU8E+7nrOdeBstvr+1y2tKCgNjbSKg5tsVJQDPWpPl2YFMxJ3B06ZmYnKhWzbP8LKltXND5mirRU++1/gh12jpeUhB7b+yfsONxS1oSjRnFt5QAZPhTh3VHrt2w7hNB/543Qa2Kom8UUWC3g2+qatfnbcL6xwsFNJJR/UkLZV7pG55RrUJpucX6ZeeDto3DrzvrXD+7jmHglLwmL62c0XT/Tzc4bvWo0gyYTfJ5wGd+6SP5KcHpNY8sFOI5v+uYt1lSEu0nYEwTwRrJfBCBXaiQoTKdmB8/S5TAUiGIk1KbU39RKSnuJW7PVsOcJklHsHvnCccSk4zDmJcqSaJbh8XW6XCbQ2n8VR6kjjl8HTm5zNl7iJsUBxP8pHDFijsIJBAdH/C+ZhGhwwDZcMTfcPrUn2aHhsa9oOigcZHgy6/cTdT7GH9a9hXPjwibigSUeq/c1hGlENddOCbb2bV9awOSMAxGvRN7XUSSj6d5RSqmVMDmHc34dx4wxxS4Vs=",
+  "URL": "https://www.smplayer.info/",
+  "LICENSE": "GPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1588112336",
+  "PACKAGER": "Levente Polyak <anthraxx@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "glibc",
+    "qt5-script",
+    "qt5-base",
+    "mpv",
+    "libx11",
+    "zlib",
+    "gcc-libs",
+    "hicolor-icon-theme"
+  ]
+}

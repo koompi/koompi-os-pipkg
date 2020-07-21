@@ -1,0 +1,23 @@
+{
+  "FILENAME": "haskell-polyparse-1.13-4-x86_64.pkg.tar.zst",
+  "NAME": "haskell-polyparse",
+  "BASE": "haskell-polyparse",
+  "VERSION": "1.13-4",
+  "DESC": "A variety of alternative parser combinator libraries.",
+  "CSIZE": "269118",
+  "ISIZE": "1717730",
+  "MD5SUM": "986d64dd66ed63c5c68c87ee3b54ed13",
+  "SHA256SUM": "efebc44a1e6a752ca1e2b8afbc639e8f809ff29654499227fedcd4a91ba941af",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl6hpk0ACgkQeGxj8zDXy5Jc7Q/6Akda9uoR0QZilHQUhHrYG3YJ738lQm6sO+aKm6/M8SlkE8ozLoy2Vtxj++T/spY97X1CnWeMP9LDNhIfmhAbh5tBqami/Eh5bSGHIWKM1n1RfyTlZssLhcclT867YoxH4zHBDj0Ef2KNdHE8BXpTxLdhy4XP9l/XEM1xXMpfqel//ByhgLUIAkiY23W7A8d7DKOL/GhfZDs4kGIrtOPFlBoIKxNDXbp0w/AUKhyHYuVe38funmykR9uJeJMJ6eRQC2zZdK/uWZo6vcu9KDJFwrZOSGB6yd4QY2z8xh0SJFknEc/hJa3yiE7rVc3OQdzj+jOzZ7irPgQx8doEtf/EvweDVPAv0lE9ErwX+2XLXOxhk/psnqtkruWTlCCgvBwSlzBLVm0xj7+NuZZI+kRQrDm6OHTc7VSqgd6lXeWbbK7/8KQp94yiCcB56P5L/NpMszxRTA7ziLE8uKKj39pg/4j7C0BqKQ3It4vO63LAd0GD6p0ZsYxO0WvDQXZfslMZd2oTe04bow4eiYWBDxmNYkpHTItgwLULkOQFO+GXBqq2txfFIfWZzNyX0A3UUSyIlcl27s1rYROWa2rI2vL0HJzes9H+dRl247ja9V+Tb2xkiCV7gKCKe9zgAJ9qk5tPsMC08R2kvP5yXns7qkvl8Os0ABto/1viFrb4NhMu068=",
+  "URL": "http://code.haskell.org/~malcolm/polyparse/",
+  "LICENSE": "LGPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1587652079",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "ghc-libs"
+  ]
+}

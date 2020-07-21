@@ -1,0 +1,23 @@
+{
+  "FILENAME": "perl-params-util-1.07-12-x86_64.pkg.tar.zst",
+  "NAME": "perl-params-util",
+  "BASE": "perl-params-util",
+  "VERSION": "1.07-12",
+  "DESC": "Simple, compact and correct param-checking functions",
+  "CSIZE": "20446",
+  "ISIZE": "49471",
+  "MD5SUM": "5878a173e398aa79e7e4019539aa8d48",
+  "SHA256SUM": "cf5a156a01b98d84e7390fdef9593d246b530d0c03e2d6921a817486be9f78f5",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl7vNR4ACgkQeGxj8zDXy5KhKQ/8DNfb1ExTXrYViJoTp5O1BFdsLx3as9fo6k8k608ZCZExrAzF455uiI19xUVhQTdMRmu1tiCB481vHbJRce37/wZfVKWbRwdBwZcPvdfB8bVXgKZVeMyI0Hmasv/tww0fNWZoVGwKBY9P08qrMYDd6QYASY2IVMQ/xELJW9RURQhzZQt4DnoDEyGZ1aLAdUAivrIlR4fwWdDiKLBi9awn1ho4+csKfyIFbICJsx3HsbE7FfyBEJ9i8jANmV+yRHy/2BYNbyEdGRFhfaoalv/1lti0NQa4gOJ6FoF4Uphby62cuJQbwh59VumvrOwE/2TUx2a9VYfJFFwXAHOJNBg9oH5G16VkLSJ0xY5EIBPxFgB83e2BeEgCpeddnqrX7z4iGjbWdzJOqjMjxW1zQ7LjZHXxululZyyTZgdm6dDReS5NlLHdcutQBwBV6Ro2nb3a4+9SmYWQKMDLni4oN8kIvUUcQ0G55V2slWAjDyTtJFtaGK+4r5ogWtxkDwQiFc6moHxMV8J1Vqr9/mFnhm42FYIkATGXGhfxnYC/CH7+DRqFoMv8ZyZT9QsV7obBVao3qEXJaE6/aZBiBXCtvWelOVaOnLcapcze6sArm24Q+jFvOpq8zBxjcBeBnHO+xAe8MLTk0EgJB8qWWGxDDUchlh6scL7yd9aawaXTeP0wnpo=",
+  "URL": "https://metacpan.org/release/Params-Util",
+  "LICENSE": "PerlArtistic",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1592734805",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "perl"
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "FILENAME": "fcitx5-lua-0.0.0.20200405-1-x86_64.pkg.tar.zst",
+  "NAME": "fcitx5-lua",
+  "BASE": "fcitx5-lua",
+  "VERSION": "0.0.0.20200405-1",
+  "DESC": "Lua support for Fcitx 5",
+  "CSIZE": "39574",
+  "ISIZE": "113499",
+  "MD5SUM": "957d447cab42e890dfa3d0a0d4771aa9",
+  "SHA256SUM": "a0288e2b033db965a212eeacf8e2bfc8639e1f0e0b2673bb15d2322880162165",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl6Ty64ACgkQeGxj8zDXy5I3GxAArEMpBxaceZfJdpEww+mno+Tiw3EaEKBoJ+1wli+7lsBuS05Omy+IZn518F6a+NC0WD7NDYQMLObOuBAGSHUZ/h0XRUTEyeji8FTmotq4iwQb94q/2wJCQ5j7IpZkG/EDWB5geniwK3SP075T4AeLdqYDsSpxUpuGtN8bdERArp+2hAB3n5CZ+hqbl+gwkJKtW22fZIeCz1fMJKNhF3196DSS5S23O6uQN9tZvYxo3aGDKmsysTAIl4LHMis8mP5ivJHY9UZ1H3oE22+AqipU2IZirXWFK3lZD24xobRupEA73B1ApS68SC8dYFhJjujWl9lWTwpWMu0JnxPXaomQ7lKQ0eNg1EBAK2jRAFDy0hUGhA0zra5yuyJmGl2YYYDbn6UyeOsn9xg37V0gbQKfSZbN2HfTbrijBrSFlox6hVMyP51VtyzAdMw1B8y9QsyinM958ULEdB40iUeN8mUzfPB368djdGicftYns1B3Nx8BUuWbUuUWRQmjNThJXaCE4I0tRb0LzLcbH0szP5eB/PrJTSLDGRMskRzsXVgtn9AqyukZolI6vOn7YQJTK8F4TqXvke0tixng+fNLIN8rozxI5YBUIBxGOtEsRNOgnFQskXHb0A/l2/RsXFWfgZXPHGwsl+TyFvDzg4eSymu0FI0HiIwUTAOoZjR/GAHqpMI=",
+  "URL": "https://github.com/fcitx/fcitx5-lua",
+  "LICENSE": "GPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1586743975",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "fcitx5",
+    "lua"
+  ]
+}

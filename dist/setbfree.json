@@ -1,0 +1,29 @@
+{
+  "FILENAME": "setbfree-0.8.11-1-x86_64.pkg.tar.xz",
+  "NAME": "setbfree",
+  "BASE": "setbfree",
+  "VERSION": "0.8.11-1",
+  "DESC": "DSP tonewheel organ",
+  "CSIZE": "1796228",
+  "ISIZE": "13457018",
+  "MD5SUM": "b5080ad58a59dcf870fbe4d0cf2cd7fb",
+  "SHA256SUM": "af9f7fee3c3b596e2921a19405523c6bf0e337c46dc9d5e831030350e566714c",
+  "PGPSIG": "iHUEABYIAB0WIQTH54SUZv4jWDQ1iDdyWHNLQcMVSQUCXfZ0ygAKCRByWHNLQcMVSZnOAQCQHIeim/SyjTnCn22JoCCHtd56ylfmSpZQM1FyuVypHAD/frUTRrMZcdUjOtGlEN6Rb7LP7YTQS6ljUExa4hiQ8wk=",
+  "URL": "http://setbfree.org",
+  "LICENSE": "GPL2",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1576432693",
+  "PACKAGER": "David Runge <dvzrv@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "cairo",
+    "ftgl",
+    "glib2",
+    "glibc",
+    "libglvnd",
+    "libx11",
+    "pango"
+  ]
+}

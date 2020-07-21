@@ -1,0 +1,23 @@
+{
+  "FILENAME": "perl-data-hexdump-0.02-7-any.pkg.tar.zst",
+  "NAME": "perl-data-hexdump",
+  "BASE": "perl-data-hexdump",
+  "VERSION": "0.02-7",
+  "DESC": "Hexadecial Dumper",
+  "CSIZE": "6210",
+  "ISIZE": "7296",
+  "MD5SUM": "833054529efe72b99f865e7a32c38514",
+  "SHA256SUM": "a7045fb75c6b640da1096ddffbdb14c01191be3604853bdb23b9e453d04f9fd6",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl8EpY0ACgkQeGxj8zDXy5IMKQ//fdft/GAVfgDa8JCTJXSARTLaS6gK2p8t09q8d/6vWQrSiWEBN3iqAxaWOGYxZE40g+1dsxZHufLeZxvmnVmRXILNSUY8qNenC5EyqciKIM1CWe615tDvNu3a/eFPkjm+FsXbH0/L0sgoEuoXleHF3S4Xhn4qPIFbLd/HSybqEaeHe9q73cGZ6e4VHfZEUNSDZsK92oZDG6ew8l6RokMgBZTt+tSduLItVQMhNAGUvTXMXjvgw9Cik5Plg19JHOO2qRs2vPR0rqxbfM918V2CL4vmJOhwW9UFG46kOB8RibNChRipEwL4qNmvvydbafb3Ulhv8DYAdQscHs6znsbyFZQTl4qLYcZJn9kbIUnVBWEqRkMDIQY3KRoRjHlyIxPXy7aGQxgT8dYKbM24SH93B+ymx63bP9mrjHgFj94mYVC4vhmeBREKbkdR4SZn7bZT0Nnvh+iDFv1zCBV5QKygj8ZG+lw4u08L4fgEEK+8606Ar380sLlHuL+xS/xSTuhZ2xae5lZubXe7VA+LfxqCg7xhZ6L1wRzNMZZKTPS1Yk7FiMNjQYTKp+FFglh2lf/VLzIF9NSV52fFKN9kgefVXNxpnXpxOO1uW5DhANKw0Qv4LI451cdOzF7i4FLGg+RYVnUxDnrKdaReWX3AubZEVifHwh9prL6bbW5dUW+hfww=",
+  "URL": "https://search.cpan.org/dist/Data-HexDump",
+  "LICENSE": "GPL",
+  "ARCH": "any",
+  "BUILDDATE": "1594139992",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "perl"
+  ]
+}

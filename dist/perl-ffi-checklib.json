@@ -1,0 +1,23 @@
+{
+  "FILENAME": "perl-ffi-checklib-0.27-2-any.pkg.tar.zst",
+  "NAME": "perl-ffi-checklib",
+  "BASE": "perl-ffi-checklib",
+  "VERSION": "0.27-2",
+  "DESC": "Check that a library is available for FFI",
+  "CSIZE": "13892",
+  "ISIZE": "21517",
+  "MD5SUM": "67d9c6fe9aa486dac48d6b24f926cd72",
+  "SHA256SUM": "8de8e29266d4c0700f500c5bf620905b97a034a0946ecb51738fad17bd71f86e",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl7vdRYACgkQeGxj8zDXy5K0Mg/8CJz2Gq3YaU4lQbCnmdO2JKHXrndIV/Tl2DmIkm0ouHbBsMcJGanKDHuVTx6C4fI5DHsuk2rTJc6e4GbbOaKbxKK+H0oBJP3bFe6rfVgwStuxwkgSDL/J4y9BLdzMBcQD1p9LodJhvtDbbJs2bezLfNvlYPY0YVe9TelHjCHgdaIBieg33lFPMlHs8lrLHmGAqGST/jGmvX8Rmoyyo58N0sHIf+Xe1HZ7ECJ9Ko9b2zqGl8Gre+dem+OrEdynK1FA1WKVzCRuhV5IkO1wVgK+7Npb9dUr5KXAxdyb1YIbqp3lPKMvthDYMuElpp+V2qLADaR1g6i7xM6v/IS6SPDdpO+M+MD9K7KSsvglpl+YzRaTo2LQMb9dJTDT/PD8c89cw54FTWJBWpIo2f+rjmdtfscb7Lhjy6F8+liSIj7Ec9H95V51HNV/r+bkDAZEFR8AlZLMrNG3HCe6yHhurf7GRfSpkGM6sA9+fW01C444hmbGQsFuxdESucRq9dkH6sdMBX984uDv9pRJAOUad2GO8Q5yp4Q/QO5Q8ae1e2/3wNAH8w0DMk0oVcosGH0L+ONnGkM4xgJTe8xDSOPVUUh5kL0dV21zhi9Lw4ZIdGotAEodKEbDU6Iwq0vJ/h67FA2S4le3tuC5YDC15c62oEqCUy7QhVI0ghuazWIIBkUIG7I=",
+  "URL": "https://metacpan.org/release/FFI-CheckLib",
+  "LICENSE": "PerlArtistic",
+  "ARCH": "any",
+  "BUILDDATE": "1592751361",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "perl"
+  ]
+}

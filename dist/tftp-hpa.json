@@ -1,0 +1,23 @@
+{
+  "FILENAME": "tftp-hpa-5.2-9-x86_64.pkg.tar.zst",
+  "NAME": "tftp-hpa",
+  "BASE": "tftp-hpa",
+  "VERSION": "5.2-9",
+  "DESC": "Official tftp server",
+  "CSIZE": "38721",
+  "ISIZE": "89420",
+  "MD5SUM": "52802c8e50111628fab2df0520923a58",
+  "SHA256SUM": "0b52938d6313ae2eaaae35f50b2ebd210efe77e78e85f610833912ed26254bf2",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl7AUmIACgkQeGxj8zDXy5I+JQ/7BKU3mW2dkSRX3aYlhdMP27njUkKTf9h0vHOutJc1yvfwlJn6lYOzcD+GFgmOD6SypIbPi3ZGGSK833UNXnHZBeWz/5gTSr6NgDeO+Y5o/rGIR+2Hw7sZJhHqm43a35TO6hRSNDgwHngNb5YTiPXJVFtRugcaNYr4UphBC2NPbTujSgPFYG0z3DOymKgaqUt9O8e1t3XEiAIceCOk5cAyv7qlb1MoyL8Qbt+fFzLx5pMvJRuoqwvF3OHDuVTaHMBAH/p8NFP9PI8sxg5ocPPuFmUaSGPkcmlrCc9s4tdFqSD2wPjaPUxzVGpOwH4GGWGKeyh4zRh+NbyQElW74eRYH8oUwalFIbJ7ouchkRVCiVDXZip3HjG84DVCh3JHzpzsGvwkvKQz+XRVqD8CRJsmSk7h1uHVxZwcVHr6+mlJfYzRVjLf1UlwU3LKaStHTjZX1R4s6BF2IsJebS9dWvxqXq4e9UkKP+ItO2EN2s0Tork3OXx0bgu+TIvFRwfSvLUsuiXg02Z7eIcEKuBcwkR2cy8El8rkCNPgW2bcvhI7Et7mI+ZO4Xsg6shniYjmLNJ6zpqwlWsBdNPeb0a0FGXwaB3DOtGfzl004w4ricUzAYgzoe2ltYbyWu8iTGedDH4GienOHZPetCUTkuDJl0j7jD7NNfmg4L23ZEbyVdIOdGk=",
+  "URL": "https://www.kernel.org/pub/software/network/tftp/tftp-hpa/",
+  "LICENSE": "BSD",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1589662282",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "readline>=6.0.00"
+  ]
+}

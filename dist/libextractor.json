@@ -1,0 +1,23 @@
+{
+  "FILENAME": "libextractor-1.9-3-x86_64.pkg.tar.zst",
+  "NAME": "libextractor",
+  "BASE": "libextractor",
+  "VERSION": "1.9-3",
+  "DESC": "A library used to extract meta-data from files of arbitrary type",
+  "CSIZE": "196723",
+  "ISIZE": "974374",
+  "MD5SUM": "c0d9779c4aea3a37c968d4661a547cef",
+  "SHA256SUM": "2d783de1e77c209f0d3a93eb2b5252fb3cc9f95928d3d09c0dbb211291cb965d",
+  "PGPSIG": "iQEzBAABCAAdFiEEhs/8qRjPOvRxR1iAUeixSKmZnDQFAl8E1iQACgkQUeixSKmZnDTeZAf8C73sK4RBfZBOSO68h2ZlBL9j/0g3EwRuYeEeq0hHwB/2o22rLBqqzQBkkJFryqthN880BQszejsHnj5NHS2V6AHT1Jd+imbWX7AzIf9wc+1mehhI2RlCME+Dc7wDbzwK4pWNu4k+qhzgwr3KzwJGBcpHkTCPPJ8LC95WqmacICGY9aq9HaUTGMR3TBnxZU46TivYal5nkN2dv0tTtwtL7XO8TEmzEcpYaoD5tDD8+lh82kRjKCERJxfzkkV3GMNq+5gB7d6kOg7egmAcue6g8PVs58fQ3DwDR9OEm4GZPxriSFF1QvzGeR5yNToAQoYc6jzL1Gy3KFat3TVFfH/peg==",
+  "URL": "https://www.gnu.org/software/libextractor/",
+  "LICENSE": "GPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1594152426",
+  "PACKAGER": "Evangelos Foutras <foutrelis@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "libltdl"
+  ]
+}

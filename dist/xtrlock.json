@@ -1,0 +1,23 @@
+{
+  "FILENAME": "xtrlock-2.13-1-x86_64.pkg.tar.zst",
+  "NAME": "xtrlock",
+  "BASE": "xtrlock",
+  "VERSION": "2.13-1",
+  "DESC": "Minimal X display lock program",
+  "CSIZE": "7685",
+  "ISIZE": "15831",
+  "MD5SUM": "f43db98bb8e23a7b3e1654c476b00260",
+  "SHA256SUM": "be7c8b619788c838e74d2e7bb6fc661875914271a770dfef83c8a3353bd591ba",
+  "PGPSIG": "iQIzBAABCgAdFiEE4kC1fixGMLp2ji8m/BtUfI2BcsgFAl5/ovMACgkQ/BtUfI2BcsilzA/6AyA0tKbTssj6DhVYs3Xs/GIL3tLnj3hGil5hxxzZFhTnMPR1M0IDYMFP1CH4mGGX5THjA/+LOV8TLeIyKAsOP73Hw78kMoNaNUIkcBYh9uqk2YN80rZMe5wOlg+/kGoeAf2S/QXRv0f8XP6vucQg988T66jGIfsyXjNf55Ro6swg6QQm5vZyJooYacHpDxNfsEOmkcM40E9IucaTTFuts3CdARK2HvHtdM5qa2g88p4t+q8XYG4DfguXpwC6hMGaN4cThMFFZ+RNbfe1PhVvKlOXoT3XVdIC+vwhgYkPDrQLXtcc4x7tYDgB9/BFRQsTzQIW7SEFEvbQlFZggwHxdM/n/QDYOG7hEEfqDGK6wii14sewBq19ulrrBHfUlRDvqHzZAWQzecmr0te1D+xEXmn4mFExPA4suPRbiApFfanGJEk54gkL96+8ZVX9CdXP+/iVkWdSdaYphX1sg1yBZvAXWYDest4u5rMrSztiFRhnQNmBIsNymqJd6DBueXBAdTZJZRpPNQ3DlpQXJdNDRlMxTEjHUoUGKZi7Ct2e6d5YNaikpQmaKercLImUU8pOvwcfm391QoFbdw7F5c6tE60mbPj0JifeO3A4okbtkeKQoMn4xNr74cwpG/HmfK9ILnn8KSqP4eVYyXeCmOu8k8KtYrAGHE/FXJ+gFkmufN4=",
+  "URL": "https://packages.debian.org/sid/xtrlock",
+  "LICENSE": "GPL3",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1585423052",
+  "PACKAGER": "Levente Polyak <anthraxx@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "libx11"
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "FILENAME": "girara-0.3.4-2-x86_64.pkg.tar.zst",
+  "NAME": "girara",
+  "BASE": "girara",
+  "VERSION": "0.3.4-2",
+  "DESC": "User interface library focused on simplicity and minimalism",
+  "CSIZE": "73563",
+  "ISIZE": "245064",
+  "MD5SUM": "fc84052d0b25398f37dc754900f5c164",
+  "SHA256SUM": "b611a3cebe31313354c90c55c96375ec20e863a5f2a8c66ce439645eb8dca15f",
+  "PGPSIG": "iQEzBAABCAAdFiEEhs/8qRjPOvRxR1iAUeixSKmZnDQFAl6kURYACgkQUeixSKmZnDT/Pwf/QSzFoaz/e90/CdvB2TVo+ajYXabDLS+F26Nr5TMMNAdidte379lVN0rSIDbI3BXW+jdHrxTIdvBQuT5oI6lai+n1ZRstFNNFkXTp7G9VUMyiZe75YZEJXAoEHYmFQxlSPybhA8TryhhaHwjPa94xqn+l98PWn2a8Yyg8CWEfl2j5d422uJDrxfw4RDOOIOB+9opAkVkKBHiVR2K6XhddrNtJgBu242i6PFbXCfneAYpHMfFSL77qKEX3BYXnpOy9mk6/ama2kjfHQQXCA4CQwU67N7dToDFl2JanOSblZ2XCxF4GUju6jRYvei32UnXhg4x1BCBkxyaCP3+B3US+dQ==",
+  "URL": "https://pwmt.org/projects/girara",
+  "LICENSE": "custom",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1587825494",
+  "PACKAGER": "Evangelos Foutras <evangelos@foutrelis.com>",
+  "PROVIDES": [
+    "girara-gtk3",
+    "girara-common"
+  ],
+  "DEPENDS": [
+    "gtk3",
+    "glib2",
+    "json-c",
+    "pango"
+  ]
+}

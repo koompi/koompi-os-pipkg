@@ -1,0 +1,23 @@
+{
+  "FILENAME": "libtorrent-0.13.8-2-x86_64.pkg.tar.zst",
+  "NAME": "libtorrent",
+  "BASE": "libtorrent",
+  "VERSION": "0.13.8-2",
+  "DESC": "BitTorrent library with a focus on high performance and good code",
+  "CSIZE": "416079",
+  "ISIZE": "1371762",
+  "MD5SUM": "6c8c8f2685d4abc78549b588ccd5686c",
+  "SHA256SUM": "b6333c36c6aa34e9c5557ea633b181676e25ec25875f1a54071b7c26ee3ca650",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl8EpT0ACgkQeGxj8zDXy5JN9xAAlujPNd2IKaM8xoU4XYqLqAxY+tSBFsLB9CuVEDkzVt9JtSfD1KA+sMKZDUjY5t3R2ipXYipOJwkZYErWQdQN3z4nLOK5U1MO1lcpqXj4MmN9XsLZOTY719seswRNFI8om+5MoFqXyrq9TGC4szcY7wFPYA2kdm5/3t0DdAGY3HNEDXyOi1rrJz9E6dIJKSu6PEgFF3urKsZoibqNV4LOuFsQGVihrqE7tkK3iotTpE6poxbalEPtSbIWH/k/jfcSTGi/yMbcYDHMArDpBFoafNfrTnpjOuiEmrBZIkBbKG+R9Jxwrs0+m9RkZLJrJCFEi3oTftEPxHOtr8femTxtcSgjGwuEwus6/oFOALJmrrKl/3S3rtWFsGFbqxD2wAPvxCHLWr6qnihEtB14Zm7IDuD/eGd4/ba75r8SIQEOYyBoLSkU0JfddPCpINdnspSPzd91U+c15JhxsYXbHTsjRxQ/XFaUx7ArO7hXnvg/mm3MqrrycOE4PKc1L3G0JbM1WmabwaG7EnroOxngUbOzacuHjmEy/0xMgqrRwJM4xhkq9IpQY1GROqlRAo/hM5X2tIHh2qrbiQ9JRU+t3/WUhSQQwTmMilm2d7yV/NZOtQSaukortgInRi4lYoBXRkyLkNQB++gGZ/uG5gyd59RAVejPc1OfiTMdwY0mCDQCLFM=",
+  "URL": "https://rakshasa.github.io/rtorrent/",
+  "LICENSE": "GPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1594139778",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "openssl"
+  ]
+}

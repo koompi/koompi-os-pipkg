@@ -1,0 +1,23 @@
+{
+  "FILENAME": "xfce4-cpugraph-plugin-1.1.0-2-x86_64.pkg.tar.zst",
+  "NAME": "xfce4-cpugraph-plugin",
+  "BASE": "xfce4-cpugraph-plugin",
+  "VERSION": "1.1.0-2",
+  "DESC": "CPU graph plugin for the Xfce4 panel",
+  "CSIZE": "55086",
+  "ISIZE": "175326",
+  "MD5SUM": "070301451900e348c4f5389b769a41b9",
+  "SHA256SUM": "f3a49cd21883a7c6cd80f0ac4a199df9d4aa5e89cf4b756a8636e187b14c741e",
+  "PGPSIG": "iQEzBAABCAAdFiEEhs/8qRjPOvRxR1iAUeixSKmZnDQFAl7DlCMACgkQUeixSKmZnDQyOAf+JzBvfYhsx4vY9MfaxMfL6MOdF6QyYP4Bk1R7YI/LYLoRyh/eOkHsKk31YCn3MRbhi1GcGD3MEtlfbXLpO6ogdxWEK4+15oTrxLumxKzV4/UKhepTKkMNhbgOgJiyjBejhbCrIu5c2/tgmAdNMKSdT47caRM3xEXmMsOkkBOOoyn9rZosN0wCEv4EQa9HTrk/zagNufcXRBB2A4Ryh677d88gg1q8+Lx22PH++9ykPPFme7G5TM420tXJKNxfu+0ccIYBmTk4y+KtcVa9fx/DrCqblXl0Zq4MIGl80XI6X9tSB6zTLoZGtNUKylUEe0WCjQ2u6nRJx3phqDG2nKPqLA==",
+  "URL": "https://docs.xfce.org/panel-plugins/xfce4-cpugraph-plugin",
+  "LICENSE": "GPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1589875707",
+  "PACKAGER": "Evangelos Foutras <evangelos@foutrelis.com>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "xfce4-panel"
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "FILENAME": "jconvolver-1.0.3-2-x86_64.pkg.tar.zst",
+  "NAME": "jconvolver",
+  "BASE": "jconvolver",
+  "VERSION": "1.0.3-2",
+  "DESC": "A real-time convolution engine",
+  "CSIZE": "6895095",
+  "ISIZE": "10067217",
+  "MD5SUM": "2d4dee0993bed196472a25b96eb17b40",
+  "SHA256SUM": "45015ab1b353f0be8a9121716b723fdb2131bba4c13c5295354e9dbe64da4e09",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl8EeAkACgkQeGxj8zDXy5KgIw/+PhaaYFJYRYSpM/73lGkllvGWxG7jsGdc2oTqLG3z9fXPZU8On80Sl5se/+C1Kp9b3nOdZH1D/XiOWgJlBjr1isqCvxpKyLHUWZ5tXS0F9sxHWGv1LtYdVPcPM6Q3QmRAqa9YPbcCZw2Pg/rr3R2NfVdo4VdO9ufiIagaCW2zbBaAfV/KrSM6bH4H4/x+BrwaUbMw0jo36T3zSG1WiS6acjl1bqbQcyqb4waSDcMj7QZUdlrVzhLErTuD0qdXsvC7P4vg+9z3suKcoNCOWiddFP6uSmv2wP8OtIhAvhq8yc2eL3vn+6wHfwBspDNLUAwQhitFCp9vOVnPwzD6nkjQCq0h3wZqfOk5pH93AISQENE3y+6Y8Ev08pZtOUURhu/KWIlr2If1cigE2oK7+jo+6hv5IoVoRXGBF/zeM/V5wrmJi7WOu3X/ZWwKxsIaI2LLAISojDY/2gcj2aZpJuCFiMJVJTWyZPCWHWG7aEsBBSkmUaF6t6+snaAu1VYJJgJ4xrFhjPvGt+pcV2OIfV0zG7i79GE/DCnlWUmHayUOJnzc2amqUdakil1xkL158XcyIx8DXFL8JX920xSRuINUc9eIBH+a8UyZ6eOSxGevPHNclke1RCiZjoLloUB/M5HjrQWErgqwkg65jZtO1jJ2XQgZhPYOCjziBeYshcCyDRU=",
+  "URL": "https://kokkinizita.linuxaudio.org/linuxaudio/",
+  "LICENSE": "GPL2",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1594128365",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "clthreads",
+    "jack",
+    "libsndfile",
+    "zita-convolver"
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "FILENAME": "opencolorio-1.1.1-4-x86_64.pkg.tar.xz",
+  "NAME": "opencolorio",
+  "BASE": "opencolorio",
+  "VERSION": "1.1.1-4",
+  "DESC": "A color management framework for visual effects and animation",
+  "CSIZE": "455972",
+  "ISIZE": "1893938",
+  "MD5SUM": "4650ada8436003c0a90c8e23f4201ca6",
+  "SHA256SUM": "3c91c50b9a808a5b2ce9a500f2985e04e9cd5f5eedd8139e7f3451f2b68adb97",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl2/M5wACgkQeGxj8zDXy5J39g/+JA9dxVOICl5dBHikGvwNuDuSfOvDyWEVjHxL8rbQU1uCgF4pXnEwOPuGwJ05T6jgCSmIdnQlZILRFfrfiJSmzoMkOsxLItJmCBAsnN87Uw6cgzUaetw7lAm7N0EALg+/sSzMQPU+529RyyL4TBrr9Ojrbe1GbIcDd7eJbdeRHMhyCt16PcmLBcFCBlu7kshOQFOEOq2EHrHflLCxdlLNvcr7T0E2gl99xWQ1d+HbdQfD+TEt6QQd/7kqIHhmz2lXmoUilC9sHb6kdI/V90pIH1t7iNuYJ3tssweU9ATsLJXssNiZNwVKUpLpeRMnCHKaRqsf8ySnQuKMxzynmPuRIQQ2rrSrWoN2j9oolyJpLBBLbtgBeg7z9A/2x1fkn8Mv4Lw7I7MsOtTe2B81Z/1neaN53rOmi8Roo16zQLzhLoYpt3g4OTLdeQ23JWY2gWtaW74xG+vqWImau/niKdEkgFXCenfFV/WXfyRMVMfxTm0XPlB+plFx1AnumR/hHzjL7KH1BCGW8+AGFFPX0K1v/YSuwS+rmZEEVikvHYzYQ6opzOg741bAJoNM2won+b8kKtZIIPQ07F1gFQJV44d5auKXIyDhZnO1ZJ+Jy8cqA9WIIT1iiQvWwPRnxly5cRdYzBhnwq3+xN9PCOqd/reDiRj/hWGUdNdsIMetvsze6gw=",
+  "URL": "https://opencolorio.org",
+  "LICENSE": "BSD",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1572811559",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "lcms2",
+    "tinyxml",
+    "yaml-cpp"
+  ]
+}

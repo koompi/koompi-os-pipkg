@@ -1,0 +1,25 @@
+{
+  "FILENAME": "gnome-power-manager-3.32.0-2-x86_64.pkg.tar.zst",
+  "NAME": "gnome-power-manager",
+  "BASE": "gnome-power-manager",
+  "VERSION": "3.32.0-2",
+  "DESC": "System power information and statistics",
+  "CSIZE": "192183",
+  "ISIZE": "928848",
+  "MD5SUM": "f7ab21c0953965a4b165005966d24f92",
+  "SHA256SUM": "2615894dd784ddd0af6acc24917e17fc3cb10cd4e50354bf1c4334d2c3522268",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl7DmBcACgkQeGxj8zDXy5LhrA/8D5iQ1l0Papd+/NIbMeBUTzIs5TooUoFV9MrMM4BwM7/pVa/oeYjCWFGX0s8P3d8LCgUUynFQA7f+7zWJMKn0S1aPW3U6FBahJ3T1fQ32HY35CEtMCeugpDPZLrUpUvuQSVIaXL7KAmEwgkBXFfSDKyA4I7R0PuDPVUAyvr3ZJKXdDJWkTYRL2JGKSETHz6TDQ+ikjWe8BDZvJtAxZBMjEjsITrxa83D2ZPyHv976sb+m+yqanvXLTZGgBsfiEaOHA/lgMiwvGXoCFMRkaKzmIm1Y2LimWL/U5jn6el8iI3SSVyTUgfPTY2BFvf5iBONnaYUc7vhSxXv3lNRk1xQg3XFSc7tIYPQ1yV80UMJXJNsunvh5ABoWrUTwlK+gCcfZ6CGLu9dDXgcPFhDyr7U/s8w+8ekC9Yw30TOGBpqFy2LTMQJtL+ZFYGREiDH8ggpUsqm6anHNhzma6gZuU03z/lChTk/8TGRKbwxxozwOELElUItwfhvk0Juc+bQjJNcU2XgivXgXqlDJYDc43e4K5Pgyw4Cr3tjRpDwilo0Q8bWtnkUhURreKk469Vk3UhsfLvf5FCe/JGpoyb4vENUDuSO8+gc6M5W72orUsSST+4p+fVLmUIMkj0fKJomot0WBYHR1SrCk0aekPi9wI9VuUlmxxybKvF5UIvshkzP6OO4=",
+  "URL": "https://gitlab.gnome.org/GNOME/gnome-power-manager",
+  "LICENSE": "GPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1589876685",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "gtk3",
+    "upower",
+    "dconf"
+  ]
+}

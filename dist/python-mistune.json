@@ -1,0 +1,23 @@
+{
+  "FILENAME": "python-mistune-0.8.4-3-any.pkg.tar.xz",
+  "NAME": "python-mistune",
+  "BASE": "python-mistune",
+  "VERSION": "0.8.4-3",
+  "DESC": "The fastest markdown parser in pure Python with renderer feature.",
+  "CSIZE": "24956",
+  "ISIZE": "87578",
+  "MD5SUM": "244cef6c2e9963aac4fd8915c9ddbf79",
+  "SHA256SUM": "15cc23eaff68cb1bf941a959d2d1f068b3fa81f3940123471be7020c1516df8d",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl27I14ACgkQeGxj8zDXy5JjHBAAr6t5pyMzTauJYveQhwvDFjHM3kyVuFJiIaS0oCVPX1gO+k3uMnvLsrhAjHrwRbGMKHXAHGs676aMhKYYTkPzaIrkAyuIFLY47AsOsbck/EOaEqdHKmK0i6nVz1rtQ9ESvKzMS/St0nnnXgDqc8YeBhAxxFxVvwrliGCVVhvsyEq/ysm/vs3lL9VifFtM+8riDAof8euJrb6iBpN/DdjG2SJfFnecdoL5zwa/3tVtnOVtRCSpv9Vmm2+PDscNo+3VcSIbGrDi0YpJkwLTbnivtyMmM15hnyMrBWYxKlJHXM6cRE9Ka+O5ypzKoNCOxcXXLZHXD0IGr7H9iOnEkBnz94BySqM5XBatUQwRosKZsuECSKyu+jeqpT6+NhnfBf0CzUt5D+vt3RhULth7eQaLNATqXgk6IvwWfaGq2TPbuVkkj9XJwijkK8Cqx45n9V+1laZpxZyjvuKqnQ9TjI4gZ8Sex4q/pLZOdmzqbbCSiqqA2KJe/nVjmZoKnrnDLh2IJUDfcNBceuvaYgYDJJtQcNbQjGissVJ+P2QyB9IsKlVNtrDgdD/3i16zb3HCiTyY8M2nOoNeF03W/dG/5FuiGDSFjV5BqP5u7HXK+K9HATjxfLLk3BC5+QeflRY4UCPfE9B72hhy+RcTbdowBlw0DU/kXzj4pb0RTaQa4QhWq34=",
+  "URL": "https://github.com/lepture/mistune",
+  "LICENSE": "BSD",
+  "ARCH": "any",
+  "BUILDDATE": "1572545340",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "python"
+  ]
+}

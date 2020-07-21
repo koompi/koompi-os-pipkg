@@ -1,0 +1,23 @@
+{
+  "FILENAME": "bash-bats-0.4.0-2-any.pkg.tar.xz",
+  "NAME": "bash-bats",
+  "BASE": "bash-bats",
+  "VERSION": "0.4.0-2",
+  "DESC": "Bash Automated Testing System",
+  "CSIZE": "11348",
+  "ISIZE": "20480",
+  "MD5SUM": "c33a91642aac17302da9fce413919d92",
+  "SHA256SUM": "0bbe7f8b71ae9c87de84e3820671a6b94695a58185d16d9ff68ebe609e8c4368",
+  "PGPSIG": "iQEzBAABCAAdFiEEFRnVq6Zb9vwrc8dWek52CV2KUuQFAlv6xN8ACgkQek52CV2KUuS/Ywf+KtvE+UOaRaC6N9ueVhw8e8EiL5D1B0JRotecEDpY45gme9azgEp15LP0EWC0/GxhZQMRwwpYgORKFQ13j5rZNojNBuuvba+2tLmSPutipzjyItfEB0Zcz40TrCEKfWsVZTZrHSsQj7vxPC/UbCmIlVK3g3GzR161dxIcEpIBuXiSHk276bBtXZ9zOb6WLCJ42Yfph0NMtCgkXd1nodlZCxZziO9BTFQru7+pbwl7XBwhFr9Lubrj67HgBBEwjwHiXnGoEYlKPpTL9V4kLNiwh9BQZA2JaloV5FcguvBXAvAAHIllmODBFpv1PBjglyjqQ8iZMZBxWADE+0EYZJoceA==",
+  "URL": "https://github.com/sstephenson/bats",
+  "LICENSE": "MIT",
+  "ARCH": "any",
+  "BUILDDATE": "1543161007",
+  "PACKAGER": "Antonio Rojas <arojas@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "bash"
+  ]
+}

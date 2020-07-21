@@ -1,0 +1,32 @@
+{
+  "FILENAME": "ejabberd-20.04-1-x86_64.pkg.tar.zst",
+  "NAME": "ejabberd",
+  "BASE": "ejabberd",
+  "VERSION": "20.04-1",
+  "DESC": "Jabber server written in Erlang",
+  "CSIZE": "12685828",
+  "ISIZE": "21794518",
+  "MD5SUM": "216474eb9adac44eaca9a65350ceed56",
+  "SHA256SUM": "3bf8b24e8103906d3067bf21d06c302b062f0119bdff009b8774781e91158ccb",
+  "PGPSIG": "iQJGBAABCAAwFiEEPlGL8lJv0Zeeiq5JZcEQwepDP8cFAl6p/RwSHGFyY2hAc2VyZ2VqLnBwLnJ1AAoJEGXBEMHqQz/HlCUQAMNF6Olha31CSTtPjnLcVnDYEUI25fgLE+NiujWtvmyaQYZ+a0+ze+awJEF9XfnNFTiC5nq8U2rmJ6LdtTB5GjvEBZvS1jxfBsbLu2OIpdtQO0WF/V7pA5n/9T0jxjEZIm7weU3f9HfUDt6lPLIJCklQqQAw6fYem5+Bk0JXskDlI6YZ2kLsGeuv47IlIoP/qpCSbQ2sICUz9NY1N871zySod1wkJRfRaLjLJnuUKl5oGeUsdV2DoUtLPXnGcTrncjgcQZUR8JtSiJ3X7ihpe0NoAzX6dzb2CV+aIq5SUDqJyRYoTOGQspu77eTK/MUt2BkMMRvApgjvuK+H44MZxLLPJTbmBASF3A2aLU3ezn4slFpaKIiWxOxfCG9VoAQQcGP4elUgaOYp5fD6g1nODAmzBL9k5wxhiP3ewS8BxgH7xACAyhAQP5snLXnDQ1rCDv15Jkc4Iy21Tw7zupF819s2mfM1XKGS1Wzag+HryPjSnMC22INNVjuFtYef4zUHHwbVB24niuH3aKu72fDTex7Zr/x8DrfiHDkWvI6tiKP8BrmvA7L0e2ZD9hkXaSclEkbatRZiuVEikgiDjqyg3FbNoiCi+qjgckIcHL+NwjGEiqVCtJbXguR+clbFAz6q6yue2BUZPpu90rG5T73x9432wQoTGEAeHAf/JlYkzdQN",
+  "URL": "https://www.ejabberd.im/",
+  "LICENSE": "GPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1588198380",
+  "PACKAGER": "Sergej Pupykin <pupykin.s+arch@gmail.com>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "expat",
+    "openssl",
+    "zlib",
+    "erlang-nox",
+    "pam",
+    "iproute2",
+    "erlang-unixodbc",
+    "libyaml",
+    "sqlite",
+    "gd"
+  ]
+}

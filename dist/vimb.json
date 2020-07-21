@@ -1,0 +1,23 @@
+{
+  "FILENAME": "vimb-3.6.0-1-x86_64.pkg.tar.zst",
+  "NAME": "vimb",
+  "BASE": "vimb",
+  "VERSION": "3.6.0-1",
+  "DESC": "The vim like browser",
+  "CSIZE": "83791",
+  "ISIZE": "203739",
+  "MD5SUM": "002dbf1730cf2388967a352d75ca8545",
+  "SHA256SUM": "fba8cb2621bd7ac0dd04daf9b93047cbf007cab01f0487bd2229a882cbf54987",
+  "PGPSIG": "iQEzBAABCAAdFiEElDfdOBWnqRaePTlGr/XZUJi8b/UFAl4Ufe4ACgkQr/XZUJi8b/VmJAf9GiS95Y5xdJt0IR1ZoMSDgfAKDiO3Em/M0t3n+WrTTneyQ5jSibJFySkX8k4qZJEZv/uo53hk4qspk78bj22VYt3JspLpt5aA10kIPqKvVtMFCgWONcTAlMz4+gMJMmDjNAlMzjtl8vuNj+iJqo8U3uBVwe2N98+lCsUVT6wMKg5bhivlwllOfmQD7D7WUxVwEPbxtCuzpFBdT4owDeJ0dvyhle75P/UP6Lwl/DH88aF6FBZ5ny0aYQWzEI5H8Jck71NT/uW5o/doWgx+D/1SgP5sssSUDQqgGhfDVXZBB2IN9mJ0xDHAOYWpx8Wm46L/fGU8ywofInkRTLMdyN39wQ==",
+  "URL": "https://fanglingsu.github.io/vimb/",
+  "LICENSE": "GPL3",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1578401227",
+  "PACKAGER": "Maxime Gauduin <alucryd@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "webkit2gtk"
+  ]
+}

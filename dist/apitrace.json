@@ -1,0 +1,25 @@
+{
+  "FILENAME": "apitrace-9.0-4-x86_64.pkg.tar.zst",
+  "NAME": "apitrace",
+  "BASE": "apitrace",
+  "VERSION": "9.0-4",
+  "DESC": "Graphics API Tracing",
+  "CSIZE": "3610723",
+  "ISIZE": "23802970",
+  "MD5SUM": "b78f847dadf2900a4e3521941960276c",
+  "SHA256SUM": "ed4fb532addcf35eb9c4d449ff4a34b6370e8ab2b27c390482d94fc07935a3c6",
+  "PGPSIG": "iQEzBAABCAAdFiEEU1+MAzlFDwVKTSgnBglqatHO3awFAl5Czt8ACgkQBglqatHO3ayaFAf/WFbiZl4E2fzKdADGXzyqsBRm5z/+gw+QQCVB3lnAPajkxQhi5goXi2lk0qONLgrsj8rndXSD+T8KSypwbYitPS4zY981ELNajn5wG7c67Ch4UYCr3JVbbrQZgqGxIKtJSaChpLllI8Ue8VtYDBJVJuaA6CDqIUhhw0AMWPI6rbI2cDfQzkbYc1fwab+0H8+CzvOLf7XzHR3v10NDNdBrT/kQmcsVDhX5vvpa/fkJU/mv4D5dxaLbrskw9KUKYY5oKx4HhEOIHFNiwKYrDHLQpPEQsez2JVQSF/hrIgXAv7H4cK59304waT/pTkix3PxhKf35fRKlDEi1wMOFpv9SpQ==",
+  "URL": "https://github.com/apitrace/apitrace",
+  "LICENSE": "custom",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1581436547",
+  "PACKAGER": "Laurent Carlier <lordheavym@gmail.com>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "python",
+    "libgl",
+    "procps-ng"
+  ]
+}

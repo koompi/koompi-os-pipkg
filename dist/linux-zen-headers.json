@@ -1,0 +1,23 @@
+{
+  "FILENAME": "linux-zen-headers-5.7.7.zen1-1-x86_64.pkg.tar.zst",
+  "NAME": "linux-zen-headers",
+  "BASE": "linux-zen",
+  "VERSION": "5.7.7.zen1-1",
+  "DESC": "Headers and scripts for building modules for the Linux ZEN kernel",
+  "CSIZE": "23971824",
+  "ISIZE": "128692442",
+  "MD5SUM": "3bd1758505824dd28c2042c656067f8f",
+  "SHA256SUM": "af8cd8a8d3761dd955c52b55ec3483635645d7c3b8cd4bf492a301782023af2f",
+  "PGPSIG": "iIsEABYIADMWIQQGaHodnU+rCLUP2Ss7lKgOUKR3xwUCXvzLZBUcaGVmdGlnQGFyY2hsaW51eC5vcmcACgkQO5SoDlCkd8fgGAD/bYEROTvflUDYN08VkFd3mNKmxD2c89Vf2oduCImcb1MA/i5I/XYP5l3SU2+2bk3xy98TDcQiFuZ4RKE34/mgfZkM",
+  "URL": "https://github.com/zen-kernel/zen-kernel/commits/v5.7.7-zen1",
+  "LICENSE": "GPL2",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1593615191",
+  "PACKAGER": "Jan Alexander Steffens (heftig) <heftig@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    ""
+  ]
+}

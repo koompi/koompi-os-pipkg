@@ -1,0 +1,26 @@
+{
+  "FILENAME": "pigar-0.10.0-1-any.pkg.tar.zst",
+  "NAME": "pigar",
+  "BASE": "pigar",
+  "VERSION": "0.10.0-1",
+  "DESC": "A fantastic tool to generate requirements for your Python project, and more than that",
+  "CSIZE": "5877917",
+  "ISIZE": "15204581",
+  "MD5SUM": "92ba1435fb522848c67369c2a080499d",
+  "SHA256SUM": "6fc4a7972fa0948af814e6b21ce5a2f02cc3275509125ea6fc88210803e57c2b",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl5tNrEACgkQeGxj8zDXy5JmhQ//d/IB6IFascuxoqr/Qw0dmLMUJSU6ZcpFR0FzWcHalnJ4ssp0wENnnBAxJ4WBhxz/1XKzwCHSJ5fmq3zovQYdowbz+OP9aevSZzhpPCueDsf3t4ndd1aSn68h+UPDqReRaYkL5iD8vp35n7J0KZGbCml7V2aeSKO9wgz7dF/2cLTbWTndoQJJlEj1d05sEEappaZbUfvUmwhESypr3soswGPXOlK4BDjG5VqoymIQv57Z+MICsi+BychEdxkyNlQEwxlYbckWvPfMHl0XTzeLVxh+mKZvCmlT9hscwhNytdNWHsRp0MkUmSNNyOPmaXPZ31rBYM0Q8ZgoHEbz4PbU+I+n1U4HQE9WWS3rAh8gkzOfEAsC7xaUNRURves6siSfUMft2MLMwtjwbpu7odIyqJbWnbS5F5q3+XOYOQezkm8ZlYQpV/8t8qPubeN/G0xHy+wXJftDH8SKYJ6VBH0wt4HLBcFsC1zy35yZ2tVpvBIavoX2zNYe4tDXTKgylAXxa8kSwD8SAxc+OTTMpzN5Z0e1VSl0oBp2UBGMxQJCMImY9iTvyjAxyFtnQpwiTKJHL4iptoboxvuTogVS6RGScS6U9w1evDYkvhli4ALMe7Q7jf17Qrb+dSG2acIHF07qi2VGnys0x3xem75pgL2lFSuRLZBobmZgI2F0ntBJiYs=",
+  "URL": "https://github.com/Damnever/pigar",
+  "LICENSE": "BSD",
+  "ARCH": "any",
+  "BUILDDATE": "1584215586",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "jupyter-nbformat",
+    "python-setuptools",
+    "python-colorama",
+    "python-requests"
+  ]
+}

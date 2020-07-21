@@ -1,0 +1,23 @@
+{
+  "FILENAME": "kquickcharts-5.72.0-1-x86_64.pkg.tar.zst",
+  "NAME": "kquickcharts",
+  "BASE": "kquickcharts",
+  "VERSION": "5.72.0-1",
+  "DESC": "A QtQuick plugin providing high-performance charts",
+  "CSIZE": "96900",
+  "ISIZE": "350809",
+  "MD5SUM": "245ed7b79304f346f93582681c8bbf7c",
+  "SHA256SUM": "b4df90ca13e7c281993a8bf522b96a6e4fd1dc68c69f15824b5938c806f22854",
+  "PGPSIG": "iQEzBAABCAAdFiEEFRnVq6Zb9vwrc8dWek52CV2KUuQFAl8JYe4ACgkQek52CV2KUuT2Lgf/c56UbCl+DXasPR492NkFZT5eQtKDzvWXoiKiuUC7O1ghSzTVA7Swi3rQ8D3Wf4xYZQs3if1NRGuyirZYQCxX91JYwN+88QCA0vIV4AOkACEQ4lG9hS+rl9g4YFoKKAMzXe6zzpeovqw17V8wnZXy+ZG/59ZGTyb8D3g5OmfE11Ct+M+u9AJ3zxNJSD6XoqTTueG6ZDM1XwINj/eQG4hC/rPMlc+5mwyRe/vrJ9JoW1EmM8fXBCC9lPJA1oRtj6jx04R7mChKq5oA0WnfUDyYplA1en17mtzMEME/BIPF6FiSDUN35giu/wV8XFFceM7i3eHP6JVok6DFJZ/PxHGlYA==",
+  "URL": "https://community.kde.org/Frameworks",
+  "LICENSE": "LGPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1594203596",
+  "PACKAGER": "Antonio Rojas <arojas@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "qt5-quickcontrols2"
+  ]
+}

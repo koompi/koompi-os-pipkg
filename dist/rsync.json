@@ -1,0 +1,32 @@
+{
+  "FILENAME": "rsync-3.2.2-2-x86_64.pkg.tar.zst",
+  "NAME": "rsync",
+  "BASE": "rsync",
+  "VERSION": "3.2.2-2",
+  "DESC": "A fast and versatile file copying tool for remote and local files",
+  "CSIZE": "312693",
+  "ISIZE": "582969",
+  "MD5SUM": "bce11e6fb68fa64543a3a612e4fb6125",
+  "SHA256SUM": "a34a23c891630c5b34f08e20dc4cf518a375127ea4f9dfa8844e50e38d29be35",
+  "PGPSIG": "iHUEABYIAB0WIQQEKYl95fO9rFN6MGltQr3RFuAGjwUCXwLIlQAKCRBtQr3RFuAGj57KAP9F00oVE3qFYKAFymZXKMWZIW0wYeRumXaOA7eP0QWZ8QD/dkv0CWt8W+NL+rPi4C/8nK7HExnBrv+8hhhMlG/Hegs=",
+  "URL": "https://rsync.samba.org/",
+  "LICENSE": "GPL3",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1594017818",
+  "PACKAGER": "Christian Hesse <arch@eworm.de>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "acl",
+    "libacl.so=1-64",
+    "lz4",
+    "openssl",
+    "perl",
+    "popt",
+    "xxhash",
+    "libxxhash.so=0-64",
+    "zlib",
+    "zstd"
+  ]
+}

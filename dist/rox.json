@@ -1,0 +1,25 @@
+{
+  "FILENAME": "rox-2.11-4-x86_64.pkg.tar.zst",
+  "NAME": "rox",
+  "BASE": "rox",
+  "VERSION": "2.11-4",
+  "DESC": "A small and fast file manager which can optionally manage the desktop background and panels",
+  "CSIZE": "1132775",
+  "ISIZE": "3976176",
+  "MD5SUM": "edbe3c9a74b65a824c31cd2a293cc704",
+  "SHA256SUM": "73bf0806949c0d8f6944f32aedcf62eda1baa56eea6d0e72a79232082b853e49",
+  "PGPSIG": "iQEzBAABCAAdFiEESMOx8w3dD+Z+UW0WOW4+JbqxQsEFAl4OfSwACgkQOW4+JbqxQsFrcQf/RcexvKdHF5Lz6rqoN/Fwl1AtVX8V8au7UBMTfGcz3zLJtLVP/EvyH34/EogUrStxt7aYnS37WJ8f3/H+qzwwngIdWX7if/UnwE+kZeleChAXi0Ob9vF76AwyY8VLGiobHU9qnecDWJtnkrSJFSEUXJuoTCulpPZ0W1LUg+thciyCRVbfFo3arg9mwy6H6KiAkeXaN3nOy9Su6mXE8L6/HDS5p9PxyoiyxOxB2eYknf6NWLrbqUxGhg0ykT6S6Uyc+6jjIO9I4i+Ez6gxXgc5IjaV91Ac1Wbcr/H0bmXpTLsjhlqfN1grSQrsVqs8esP9S6CAtZ+XdzwuOyXkhftSHg==",
+  "URL": "http://rox.sourceforge.net/desktop/",
+  "LICENSE": "GPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1578010571",
+  "PACKAGER": "Kyle Keen <keenerd@gmail.com>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "sh",
+    "libsm",
+    "gtk2"
+  ]
+}

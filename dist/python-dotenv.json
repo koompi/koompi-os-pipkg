@@ -1,0 +1,23 @@
+{
+  "FILENAME": "python-dotenv-0.14.0-1-any.pkg.tar.zst",
+  "NAME": "python-dotenv",
+  "BASE": "python-dotenv",
+  "VERSION": "0.14.0-1",
+  "DESC": "Get and set values in your .env file in local and production servers",
+  "CSIZE": "28427",
+  "ISIZE": "97132",
+  "MD5SUM": "9d76fd9784f016e8c1a1d1685eea1036",
+  "SHA256SUM": "d933fa78158df4db8509a9007689d925ca470373fedda89cbd7c202b1e637c70",
+  "PGPSIG": "iQEzBAABCAAdFiEEYB8g8dG7v0p4z1tt9rFhCz7NvJ8FAl8InOQACgkQ9rFhCz7NvJ9i0Af+JzoIdIqgs5DASX0i7g0QBgpr5ih9ZkXAroEDt3NXhEi86qW6VhKeP4inVsbVlOXFxTualVxz6+dWYxpOumn7YwEgMzRxU2GDgUxrMw2N6K8yymXtGa7CfMWXmFqp1tYdY2DdkeHljPxfqgwqPMGUbI+4x2RJ56g5Nmby7i9BO33VVNeBjjYpS8YLz5oQfUdMGkYoCDyMcQGwiXiW1Qt0vrfuqpDRoz7TqKP4zLALZKDoBtcirT8LfutNUyCYiNT1l2zAU/NO9BbBKaEbaHmlSZ/KqgQsEFXLGeoAGF9CQOVTtwwsiFR0GxwCaDzc9cpSGnyG8/6hOco04CKVlqQcpg==",
+  "URL": "https://github.com/theskumar/python-dotenv/",
+  "LICENSE": "BSD",
+  "ARCH": "any",
+  "BUILDDATE": "1594399889",
+  "PACKAGER": "Andrew Crerar <andrew@crerar.io>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "python-click"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "FILENAME": "nginx-mod-cache_purge-2.5.1-1-x86_64.pkg.tar.zst",
+  "NAME": "nginx-mod-cache_purge",
+  "BASE": "nginx-mod-cache_purge",
+  "VERSION": "2.5.1-1",
+  "DESC": "Nginx module with ability to purge content from FastCGI, proxy, SCGI and uWSGI caches",
+  "CSIZE": "11200",
+  "ISIZE": "32520",
+  "MD5SUM": "4d75a6066d846abefec44b25dd933cc9",
+  "SHA256SUM": "69322a22d53b916f51d13e16a72bb678d0db1e87b5ade3ecdffe957ec26f1ced",
+  "PGPSIG": "iF0EABECAB0WIQQsEYxiDwLbmsHQ+fqU3SOT2i7kIwUCXvpU2wAKCRCU3SOT2i7kIzwNAJ4pJM3nY+hm3gyRVEzMIUqG/KzaDwCgh/4PdOCaBXkIUEMA/EWASJERf+Y=",
+  "URL": "https://github.com/nginx-modules/ngx_cache_purge",
+  "LICENSE": "CUSTOM",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1593463991",
+  "PACKAGER": "Massimiliano Torromeo <massimiliano.torromeo@gmail.com>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "nginx"
+  ]
+}

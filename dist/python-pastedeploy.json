@@ -1,0 +1,23 @@
+{
+  "FILENAME": "python-pastedeploy-2.1.0-2-any.pkg.tar.zst",
+  "NAME": "python-pastedeploy",
+  "BASE": "python-pastedeploy",
+  "VERSION": "2.1.0-2",
+  "DESC": "Load, configure, and compose WSGI applications and servers",
+  "CSIZE": "32087",
+  "ISIZE": "123478",
+  "MD5SUM": "3576fcf3a98268e81eb98deb06d8ce60",
+  "SHA256SUM": "955d00e78b93f88777dca394451160761f908ed11169020f6b84a543fa582293",
+  "PGPSIG": "iQEzBAABCAAdFiEE5JnHn1PJalTlcv7hwGCGM3xQdz4FAl72CjgACgkQwGCGM3xQdz63zgf+KfiXVCXBcFROWeRnZF9/Lds74sfh8QkG0GbzrRblH/jG30aq6aoJDiO3VgualUNdci/PO78mY8Jb+En9JD80PCZ06aRnocZ2gLWDgdrwVJSKsmi8kqJgpnAxv9L1CDf8Cn6NuE1KpFQ1+nbR7aNNPYwAkv91YVTqGwXsUS1HhYsF1HpBwd+pRfI1OY4cF9tLEgXQfBINElG1VZe6SZjicSXi1dz2P3T7XgbIii4tJPJkaD8iy9/pLfAQCnyQpwv2uIBGljfYbatKEJXv4Qn/WVkn0dvhPi4WQ7mmfN6efOTU9PPCuu0Fgew1sMVeohIgyjhE23Dihrk5dJ/fLitnGg==",
+  "URL": "http://pythonpaste.org/deploy/",
+  "LICENSE": "MIT",
+  "ARCH": "any",
+  "BUILDDATE": "1593182709",
+  "PACKAGER": "Jelle van der Waa <jelle@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "python-setuptools"
+  ]
+}

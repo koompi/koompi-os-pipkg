@@ -1,0 +1,24 @@
+{
+  "FILENAME": "libproxy-webkit-0.4.15+33+g454a499-2-x86_64.pkg.tar.zst",
+  "NAME": "libproxy-webkit",
+  "BASE": "libproxy",
+  "VERSION": "0.4.15+33+g454a499-2",
+  "DESC": "JavaScriptCore-based PAC proxy support for libproxy",
+  "CSIZE": "11199",
+  "ISIZE": "30568",
+  "MD5SUM": "0d3869f49b779c3daf4e502b9c56a95c",
+  "SHA256SUM": "f351b897affc81adea67cd2b16aa93af80a509537a59b4a15c36c17eea8f2a1a",
+  "PGPSIG": "iQEzBAABCAAdFiEEhs/8qRjPOvRxR1iAUeixSKmZnDQFAl7vPMwACgkQUeixSKmZnDSFmwf/bFxmlccz1JIVVQjh37TBDlMmgtd29AGMC7Ysm2Lg+uGp557vwio7pzxkSlSv7V0mYPF6K6sT6wsjSIlgurWDpl4/rEu6g1jyyKT7pK9q1zR+oYXgFx7j19i1iZE9r8PEwfZyArDkOUtEwPmnH9sLEciT5z0p2P0x0Vvh6TysMCnq+BhQpXM8Y2hixqBDQSi5TKSo6Tks/MLkkXohOlujv8O9G6jKsle9hr/c+lBbM/QbjYV5OeuqFooX21LwUOXNufLB4Wu9qWXTZTYfJIdmvKWIc74yitD66/6dzwVyv8y3SMlehTTnsxawL4ZVNQLxbTaJaoX1pDi8Kn8ypwiyTQ==",
+  "URL": "https://libproxy.github.io/libproxy/",
+  "LICENSE": "LGPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1592736920",
+  "PACKAGER": "Evangelos Foutras <foutrelis@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "libproxy",
+    "webkit2gtk"
+  ]
+}

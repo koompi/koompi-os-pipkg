@@ -1,0 +1,30 @@
+{
+  "FILENAME": "harfbuzz-2.6.8-2-x86_64.pkg.tar.zst",
+  "NAME": "harfbuzz",
+  "BASE": "harfbuzz",
+  "VERSION": "2.6.8-2",
+  "DESC": "OpenType text shaping engine",
+  "CSIZE": "820128",
+  "ISIZE": "4516301",
+  "MD5SUM": "dc7b5831531a91452cd76dad9360ab5d",
+  "SHA256SUM": "52a909fce980e55d07a8f005a66e09ce5123f45e5dd5802a392954e22f7716fd",
+  "PGPSIG": "iIsEABYIADMWIQQGaHodnU+rCLUP2Ss7lKgOUKR3xwUCXv4R3xUcaGVmdGlnQGFyY2hsaW51eC5vcmcACgkQO5SoDlCkd8fR2AEAgqfDwlDjiwtTXunCfrBDV2SgrpXPlEXuXMaF1nfJMrQA/3Gpi7IVEfNXJN8/8oqwjA0yuLKoLCmcdr+SWSaCRWIM",
+  "URL": "https://www.freedesktop.org/wiki/Software/HarfBuzz",
+  "LICENSE": "MIT",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1593708210",
+  "PACKAGER": "Jan Alexander Steffens (heftig) <heftig@archlinux.org>",
+  "PROVIDES": [
+    "libharfbuzz.so=0-64",
+    "libharfbuzz-subset.so=0-64",
+    "libharfbuzz-gobject.so=0-64"
+  ],
+  "DEPENDS": [
+    "glib2",
+    "freetype2",
+    "graphite",
+    "libglib-2.0.so=0-64",
+    "libfreetype.so=6-64",
+    "libgobject-2.0.so=0-64"
+  ]
+}

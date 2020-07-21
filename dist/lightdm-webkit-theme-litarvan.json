@@ -1,0 +1,23 @@
+{
+  "FILENAME": "lightdm-webkit-theme-litarvan-3.1.0-1-any.pkg.tar.zst",
+  "NAME": "lightdm-webkit-theme-litarvan",
+  "BASE": "lightdm-webkit-theme-litarvan",
+  "VERSION": "3.1.0-1",
+  "DESC": "Modern and full-featured LightDM theme",
+  "CSIZE": "9224265",
+  "ISIZE": "9868901",
+  "MD5SUM": "60715fd47b7f4b1be3cbcae803d1d67a",
+  "SHA256SUM": "43e908c5e92954a2ceddbfa502e661a0375144ad9f6af45d3e6de6f4683b2146",
+  "PGPSIG": "iQIzBAABCAAdFiEE0jW0leqs33gyftiw+JPGdIFqqV0FAl52WwsACgkQ+JPGdIFqqV2K1RAApMW4jPmlUNCgZ4N1mwxLETPwENOAe2ACf3XUCC2a3I8pH9LKCNPBIQFftRO/azlOXQ/tz63lRyq5U91irO7b9m/Unjz2U5nQAB5Zd/VBOUFjNvUaStuufoR78i5c1RohL94VtlwT1sNmnz8xZHtxUqKXtaxmR1H+mDFAzP9YUtbvBO4RWsBPi9omUIomrPzRUoW0+ga2O/qvy/eLpIPo5IV+nOcyVvz/SzNwW2Rno2UAcjAUMhh925b1Iir3hESBjpT00KgugiZkyupzCGYoj86JQxiwY029SIPxfnDQ2jUXMNkeMPBGXc6aX8RiZ4BZH6stj5Do3BQmXr5M4qYFfmxdVvcG32yLJehO16/tnvFnuBg8RlRz/jNN3MC6DCp5YUgFNv14UHmziGAbMkrp2pMKsjyLT2T3cmtk4AWBrIgS7LO808kqUFMSmfTgvVFK/457ao/wSp5OYzGKgBN3oMdidd/JlEtHJeg2M5Gy6QYLMhbeVNXZEdhGw2YtFxHzudyTw5Ya2i8jU36d9Micp/8fVUiawGbdYYc3LWNnMUYEmNqjUqSXf6WOA5DWp8LkJoaFFdNaeNtjTuqbKvHAXsA59xKH8VY7PPLJlFu4HX8RbcfIblv0UgD96J7SS+6JZwZDD6NLsQE94qOR5dHrNoWwUBucBtOhWOgG0YYkgIA=",
+  "URL": "https://github.com/Litarvan/lightdm-webkit-theme-litarvan",
+  "LICENSE": "BSD",
+  "ARCH": "any",
+  "BUILDDATE": "1584814826",
+  "PACKAGER": "Filipe Laíns <lains@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "lightdm-webkit2-greeter"
+  ]
+}

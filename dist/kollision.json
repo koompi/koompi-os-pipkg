@@ -1,0 +1,24 @@
+{
+  "FILENAME": "kollision-20.04.3-1-x86_64.pkg.tar.zst",
+  "NAME": "kollision",
+  "BASE": "kollision",
+  "VERSION": "20.04.3-1",
+  "DESC": "A simple ball dodging game",
+  "CSIZE": "375308",
+  "ISIZE": "683484",
+  "MD5SUM": "c4d8fb11982cfcc38e78b7cfa648b7b2",
+  "SHA256SUM": "d5ec3da53550caeae06bbab8f873332c6ad4666cea58e465f2be49504e18b690",
+  "PGPSIG": "iQEzBAABCAAdFiEEFRnVq6Zb9vwrc8dWek52CV2KUuQFAl8HBa4ACgkQek52CV2KUuQd/Qf+N7VdORAzUmFILSK+yActMwW7TvlWWyi5O+NYA9v+/xFbDbeQP5UfmRLsFBPJ/+NOaBMrdFAvG/yzdvMSV5o3lDw0rhlZHhUz/AJgw2cBVxbNrFqeQxZ2UNF1jPttzGBD6ZhXNZaQy05uzP2jtYjaNEQXLjg1XPimgSkgf18kU5XfA/qwtG9tQhbWMyVcehSmMzXAT72m3po5rr7O7mLD6be4QJkn+MtqghZ4S7YEN3j4ORxz5VvNJ4N9xgW3YemqSczZQ24wTeXHHUbkm+2zV5AP0LGTjD5wSplU0glk4tFnNbdxTSSxGExHMNdI0cvX2B01cbKLpvktxnqKql/2ZQ==",
+  "URL": "https://kde.org/applications/games/kollision/",
+  "LICENSE": "GPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1594108901",
+  "PACKAGER": "Antonio Rojas <arojas@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "libkdegames",
+    "hicolor-icon-theme"
+  ]
+}

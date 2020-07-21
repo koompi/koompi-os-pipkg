@@ -1,0 +1,25 @@
+{
+  "FILENAME": "kmailtransport-20.04.3-1-x86_64.pkg.tar.zst",
+  "NAME": "kmailtransport",
+  "BASE": "kmailtransport",
+  "VERSION": "20.04.3-1",
+  "DESC": "Mail Transport Service",
+  "CSIZE": "257021",
+  "ISIZE": "1120217",
+  "MD5SUM": "a4b4e088bd0a460290aa4d92db69d207",
+  "SHA256SUM": "dc554795e1c5fbc995972cdbe56c4a68d363dd874539b2268e48401eec236532",
+  "PGPSIG": "iQEzBAABCAAdFiEEFRnVq6Zb9vwrc8dWek52CV2KUuQFAl8HAwkACgkQek52CV2KUuSn3wf+M/TYHPielY+kFWJgcbM7eJHg4iJzSB1VfnMc/wi/W1N64vKyqpNbeqfTLdXyMDjdalsWMlWItivNzfmUOAbPOPkryKZyIJ37+DFSeCo8nffxCqAol+kGW4EsEQ50D4HVFEdEbghW7FsbXg/N5vbXglNpLuC+dBlVWkn7ntTE3stDsXrw5Upu3yjKhiW/MFtoGjojxPpKFzxcL/f+sREM6qda+k7KgYbwSE2jztoAUh/N0x56u9dSwmwFNQZxA4NNqpzj16Wm8YPcA6dXkioEua49YwSnEm68yVQ/2v1iknLuIpcCscEQQlZdBqM33l5NWf/ldAqmh6wtjdBWV2P85A==",
+  "URL": "https://kontact.kde.org",
+  "LICENSE": "LGPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1594104722",
+  "PACKAGER": "Antonio Rojas <arojas@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "akonadi-mime",
+    "ksmtp",
+    "libkgapi"
+  ]
+}

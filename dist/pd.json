@@ -1,0 +1,30 @@
+{
+  "FILENAME": "pd-0.51.0-1-x86_64.pkg.tar.zst",
+  "NAME": "pd",
+  "BASE": "pd",
+  "VERSION": "0.51.0-1",
+  "DESC": "The Pure Data real-time music and multimedia environment",
+  "CSIZE": "2416853",
+  "ISIZE": "5623073",
+  "MD5SUM": "6247e441a7034eaa80d5daeef226ec88",
+  "SHA256SUM": "5368308e08dfb1c19d98aa3adee505abada6e2ea8e763c2aaee97a96a37b9287",
+  "PGPSIG": "iHUEABYIAB0WIQTH54SUZv4jWDQ1iDdyWHNLQcMVSQUCXtuTDwAKCRByWHNLQcMVScuZAP4vYyPWpbHPJTLJE4hTvsA1fzs/c/QQGVvpB1GnXe95BQEA46+q7efw1t9t7Rv0A6TuFWVtTw2Mi5QbF/r6vYYWOAI=",
+  "URL": "http://msp.ucsd.edu/software.html",
+  "LICENSE": "BSD",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1591437857",
+  "PACKAGER": "David Runge <dvzrv@archlinux.org>",
+  "PROVIDES": [
+    "puredata"
+  ],
+  "DEPENDS": [
+    "glibc",
+    "hicolor-icon-theme",
+    "tk",
+    "libasound.so=2-64",
+    "libfftw3f.so=3-64",
+    "libjack.so=0-64",
+    "libportaudio.so=2-64",
+    "libportmidi.so=libportmidi.so-64"
+  ]
+}

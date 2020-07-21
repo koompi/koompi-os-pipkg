@@ -1,0 +1,24 @@
+{
+  "FILENAME": "sqlmap-1.4.4-1-any.pkg.tar.zst",
+  "NAME": "sqlmap",
+  "BASE": "sqlmap",
+  "VERSION": "1.4.4-1",
+  "DESC": "Automatic SQL injection and database takeover tool",
+  "CSIZE": "7235821",
+  "ISIZE": "15523426",
+  "MD5SUM": "b96f7a72207ddd8a0df0451aef7a01cb",
+  "SHA256SUM": "c9b56c154139b43f89c51c96cfadffdaab77988c9d74a64ffc32f9f6d7acc0c1",
+  "PGPSIG": "iQIzBAABCgAdFiEE4kC1fixGMLp2ji8m/BtUfI2BcsgFAl6eFcoACgkQ/BtUfI2BcsiPKw//ddmHiGWqWsj5ZgqQSxwFirpjpNup8pzxByUHkIDXH9mq8t5PrS1RgBHiyFsYb6zwjBSqqG7CgNIaZ+j7FHLbp8R9R+wmIO5hYMpwkjetQ42bPUcoLKnetkHgZiHR1g+ymgPR8CfJR8kZkS5nGvbOFc06AiUcTaXzAfgM3Glshc92P4rvzxb0havx3RXe8t8MGMgNZKzwNKE5Ftlk0269w+CuShev9Q7o4Fi2pezO6KQgj/k3ctJIUj+NlwrF3cDExMhGl7YP5Ad2/Jksyt9Nh4+0xj5xH+CEn1sBuCtOYBBlgX4+H7s56woxKTVwU74aDhSNzhmbfP46yVt+fENXGibGbuhgGj+dNC0iUB7mke3lXi19nTghZsSOOq8zaYqMy43LNiULUB8jddv266WQ55SZ0z1dLGBhpZqzqte2p93J25nqguRS4/u4xVmcOTKejMmx8FQi68FmJPzgP//BbkKM2aEkRsrhoeIcWDLwLE72iGJCWVIFPZ7Rcx4oE3IF/n7L/c3LRW9p74x18iFm0zXNDW9EMeODR8myyKhrwvKvAHJxU7tQB8STBG1mPOI2pJjYRbosYkWvcx7HcUJ3Mgb9h5+TIOPa4DfGBT15ICs3/12OIAlle2+VpDd53/tD2dYzIJOfG2kPjD1jCQ6fv+pXqXb7fSrGluCo9xWYBz4=",
+  "URL": "http://sqlmap.org",
+  "LICENSE": "GPL2",
+  "ARCH": "any",
+  "BUILDDATE": "1587418529",
+  "PACKAGER": "Levente Polyak <anthraxx@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "python",
+    "sh"
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "FILENAME": "tarsnap-1.0.39-3-x86_64.pkg.tar.zst",
+  "NAME": "tarsnap",
+  "BASE": "tarsnap",
+  "VERSION": "1.0.39-3",
+  "DESC": "An online encrypted snapshotted backup service",
+  "CSIZE": "265527",
+  "ISIZE": "980482",
+  "MD5SUM": "3fd72a3a71ba727fd02479dba1187972",
+  "SHA256SUM": "e9d846fdda4d87e3c2116ef65973bd6618d3fee8ab821c788d4b2fe6ebbfc1d1",
+  "PGPSIG": "iQEzBAABCAAdFiEE5JnHn1PJalTlcv7hwGCGM3xQdz4FAl77YgkACgkQwGCGM3xQdz5t3gf+KBTC49slVeLoUa3prM2qRTPqH3bt9Kbh33qOwzsZeiU6DRU0lsXWPcOcujlXnzUc8byPWbiiGl9Hgfp7LVL7IDR5ma7ZyAZ47UgxPiWoKeuWiJxhT7UXcM2v9LDUvEOxCohsIsHMv27iwS6IUWfn66C0J2VwrssufOF+rMZGOvt6rMFOh0K07+XYbU7clhX8fOwmFCyi0AYwFtBkjlNCqD5Px3gI+wHEy1w0WriVD4GQzisap5RcSyUZBdHsQA/g2AE15x9Oy2YlWkqN3xYnmqWH6CJmi67+LIVmH5Rw7xgC3qX0jMG536ntDqDlrhSiEeNfZz6tQ7ZrjrJFezzRAw==",
+  "URL": "https://www.tarsnap.com/",
+  "LICENSE": "custom",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1593532726",
+  "PACKAGER": "Jelle van der Waa <jelle@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "bzip2",
+    "openssl",
+    "xz"
+  ]
+}

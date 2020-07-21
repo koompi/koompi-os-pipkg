@@ -1,0 +1,25 @@
+{
+  "FILENAME": "chevereto-1.1.4-1-any.pkg.tar.xz",
+  "NAME": "chevereto",
+  "BASE": "chevereto",
+  "VERSION": "1.1.4-1",
+  "DESC": "Chevereto is an image hosting script that allows you to create a beautiful and full-featured image hosting website on your own server.",
+  "CSIZE": "3026848",
+  "ISIZE": "13528064",
+  "MD5SUM": "2b97249b3049547578b29d1c8526b5e4",
+  "SHA256SUM": "197c13beabab409d88b62410e314b19d1ca04fb3071cda4cce119b434e861dcc",
+  "PGPSIG": "",
+  "URL": "https://chevereto.com/free",
+  "LICENSE": "AGPL",
+  "ARCH": "any",
+  "BUILDDATE": "1572040166",
+  "PACKAGER": "Unknown Packager",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "php",
+    "php-gd",
+    "mariadb"
+  ]
+}

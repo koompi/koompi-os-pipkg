@@ -1,0 +1,32 @@
+{
+  "FILENAME": "lldpd-1.0.5-1-x86_64.pkg.tar.zst",
+  "NAME": "lldpd",
+  "BASE": "lldpd",
+  "VERSION": "1.0.5-1",
+  "DESC": "802.1ab implementation (LLDP) to help you locate neighbors",
+  "CSIZE": "237754",
+  "ISIZE": "711943",
+  "MD5SUM": "a552df547ea451ce93677e541f906b18",
+  "SHA256SUM": "325bb4679132abac48d23033f64965697a2f16b851dcc00251538ee3146e63f3",
+  "PGPSIG": "iHUEABYIAB0WIQQEKYl95fO9rFN6MGltQr3RFuAGjwUCXjcw2gAKCRBtQr3RFuAGjwxQAQCG0z1JVOslLVhMY77FZUg6qLDY1QYwBweBCntexl7lpQD8CUVd/p2rFx63BQ+9knO6iagKBo4h7Em6OEJqMMwJLAI=",
+  "URL": "https://vincentbernat.github.io/lldpd/",
+  "LICENSE": "custom:ISC",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1580675186",
+  "PACKAGER": "Christian Hesse <arch@eworm.de>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "glibc",
+    "libevent",
+    "libbsd",
+    "zlib",
+    "openssl",
+    "pciutils",
+    "perl",
+    "libxml2",
+    "net-snmp",
+    "jansson"
+  ]
+}

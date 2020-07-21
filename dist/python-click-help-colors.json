@@ -1,0 +1,23 @@
+{
+  "FILENAME": "python-click-help-colors-0.8-1-any.pkg.tar.zst",
+  "NAME": "python-click-help-colors",
+  "BASE": "python-click-help-colors",
+  "VERSION": "0.8-1",
+  "DESC": "Colorization of help messages in Click",
+  "CSIZE": "13193",
+  "ISIZE": "40717",
+  "MD5SUM": "ff478db850b4083fb57ed329e3bf0738",
+  "SHA256SUM": "419c999c3bca8ce8babd168dc8783f91452f63a4cccefccbe54e4fb41cf7aae1",
+  "PGPSIG": "iHUEABYIAB0WIQTH54SUZv4jWDQ1iDdyWHNLQcMVSQUCXmzNEQAKCRByWHNLQcMVSdjPAQDzXxohPunhUdzfREoPmz3xXW2AqTze29ADbHisEGQ1ZwEAuKivFECyHO7h+CxslBNd0i7TxoUsLu5Gi2mj4QemLAI=",
+  "URL": "https://github.com/click-contrib/click-help-colors",
+  "LICENSE": "MIT",
+  "ARCH": "any",
+  "BUILDDATE": "1584188548",
+  "PACKAGER": "David Runge <dvzrv@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "python-click"
+  ]
+}

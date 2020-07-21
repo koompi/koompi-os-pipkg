@@ -1,0 +1,25 @@
+{
+  "FILENAME": "dtools-2.092.1-1-x86_64.pkg.tar.zst",
+  "NAME": "dtools",
+  "BASE": "dtools",
+  "VERSION": "2.092.1-1",
+  "DESC": "Ancilliary tools for the D programming language",
+  "CSIZE": "2385341",
+  "ISIZE": "16345784",
+  "MD5SUM": "308bf396dad12b742370a1fd8cd84547",
+  "SHA256SUM": "d2d2f58cd1904d2176ddb7bd8c518fac86fac61d7d398afdfb24287df8f5b747",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl7mAWwACgkQeGxj8zDXy5K/QBAAu5xGQDojtwz1fNMiIEb4ltHc0/TPa/VRw0mI5/1YW+rWD4ayPjU3+rU7uH9pqtP6fu4pOq10UQ7/Wq/lIbVKsBhNwPt0p6sIOqYGSBubJLQascOdhhIw7zzdve3Bew/LAuNVVDmO7efuvFWMJBzfo65HstJKlWMBJ4gwZuYS51uSd9cuxnxf1SwlDRnzJk/OC/VBWo2nMK5oJVWwzxFUXXG/KIpZvaiUVokA3JKTSLTh5BJwN8+HbXLKvg11BAwPPnGvDZ1wEy+7OVdIFWEaG8YqwZdqf6FzUn2AfbQKxtadCcufQGgAWWimyv2yc9Iyv1P6lMqSrF6kC+I14pZf9ADMv9kA4NsnEq98jC2OPJRDr+q8qTAErfjNczvE1BPkcxASV9sMvCuXAGswa3ZkdnHa1ZY3EA4N5DMrnFuBjkuKOVM5Fa4dR2FhB65TDKkzyt9EgyBjKmzPFlCV6+azuBZjDiQEyLH0fc9bYe1BhSyxdT9tMhjWQgrgJb/u5iAkfQJScl04BTMbPRgk4PUynluEJOKV5Ov04gGWGuo8G5SmXt9ki55epoRWeCVJirL+x8k1l5fBmAlLIvyDJTrXucnl0UmPWjEgqTWvOveH23j3Z5CH7OwyYlsL+ZU1/ahJo1Kgqhb+vyDAsU6CghF2RO5Zs55cJ4OvbuPDXEZlZ7Q=",
+  "URL": "https://www.dlang.org",
+  "LICENSE": "Boost",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1592131827",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    "ddemangle",
+    "dustmite",
+    "rdmd"
+  ],
+  "DEPENDS": [
+    "curl"
+  ]
+}

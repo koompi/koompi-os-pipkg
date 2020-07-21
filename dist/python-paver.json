@@ -1,0 +1,23 @@
+{
+  "FILENAME": "python-paver-1.3.4-2-any.pkg.tar.xz",
+  "NAME": "python-paver",
+  "BASE": "python-paver",
+  "VERSION": "1.3.4-2",
+  "DESC": "Python-based project scripting",
+  "CSIZE": "75992",
+  "ISIZE": "408771",
+  "MD5SUM": "b25b3928c3dcc7ea9077c54ab1b0855e",
+  "SHA256SUM": "70bce551f099a6e0a31bd741c579d3ecf1b746597d9bf27184d14d5e17dc95cb",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl20sggACgkQeGxj8zDXy5JA1hAAjJcBID1A9+9PMAxD6wmm7BIouv71eYzunDpXUNCn/su0ZvcYloBUCA6BLIDJELrHqwqhRImhdB+MZPz4v6LXocPBPBq14pNrYKxyxBdzz7lzIFEyvF1bgNc234brYN4e3TrnmAW7pe4aDBoOprX+h6/J9qIGyEqdfPzaUlkCEwBxrBSr8ccxwdwebjJFfTxc7rrKT0EznJvS03+Xxo15+SmU/fHJN3DIBCDCpL4G6GnPeIjzbMXSbFHkkQXIPHOwYxgM23u6qr0/tyl4Q730EsoiVlwDaOqjLyxG11pFCeBn1B3uQKqtdeIGC82kkxY48K4SmovRkHUs+BnG7UeH1OoV7/ZdDCsidHPzvtaDaxcWlKZYCWBZ95xiZLZ3JG7p8gPOWbzJqXZjnnPT52uAw1r0ivV7dee801BrodMQrthZZpeGGXGrWI0pm0qwUWB8GkXVanCc/BRMHbVQLYXvExgZGi6DXs0RJhqcndxTmFF8qTfBf/eklzFKnUy8AZdaEEOiJDqtMSa82fhAK9Q4fqTAtuOl1RN7vntsqxTAwlCjgxDvh3hSDZDD0tzak21UDfiPA8f/l89E96U8uKKOBb6NkyIVZLc1FKkrEt/6CN2idN8VI8Med2wDnykeqCI9bmJJdajxqy7cOeU+C3/fLMxSH1pPe9rAWCShHeSvKiY=",
+  "URL": "https://github.com/paver/paver",
+  "LICENSE": "BSD",
+  "ARCH": "any",
+  "BUILDDATE": "1572123117",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "python-six"
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "FILENAME": "ruby-augeas-0.5.0-4-x86_64.pkg.tar.xz",
+  "NAME": "ruby-augeas",
+  "BASE": "ruby-augeas",
+  "VERSION": "0.5.0-4",
+  "DESC": "Provides Ruby bindings for augeas",
+  "CSIZE": "61836",
+  "ISIZE": "219941",
+  "MD5SUM": "e95ef8004427137b8de0f34d382a30cd",
+  "SHA256SUM": "0664d997d097c369f82db216d5d2b6fe9d38746d4ea7c8d67c9e0e4f244a88c1",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl4D/isACgkQeGxj8zDXy5Iglw/+PmVrI4/cb7ALJUycZ4F7F31kPmyeemgc9BtrWcG1EX4V8G2Ul3QPtKewZ7bZbFlKna0D8/SD9XtrQ15FsSN4tK93INqG+zbDv7mA1Y8aGyrj3/JS1SpeobmmluMsXuXfFzLqVkbGPbNdNzG7TDmn755NDQNDE7sQewK2KuzqK9GQcMUQtX7a5VIKnL0qn0UECQy+k7g6eOBLHKj0ooTBD/GWfnGoOjlF4MSeytDww/prdYRDy7PPr1XCYuP3a6OlTQS157ayo979m3F3rFQgQakJAaVgT8jfUf+OjZOqCeFdv5DL4yVpqtDl+fPBev0TZndl83bWQr8VOAQriwv3ASDXMOFuWmo6BcVEKyBRguG0pHgt6WXKuOPEML6Noq0Se1YHkQ/BRS8Dj+ZPXRymtp6OMRxJPa3ZsNm377p85MgmC+KcERrb+hRXuk/trNPbiQ5AiD35bznxQAn0vTcC1+SKi8NCefv+he2cJMOaTsSOkQQmOS02vlUtEKADPydPJM+iV5004/R2OAlknSwi85VRZUj9fOMMwozpSd8WPYgAQ0gi+Rh2WlyEGCLWX2poIltY7X6q4v4oOHzGe8sn6HFibf7ERwOCePZTSZASQ3Qai/QOe0/h6mTIKdpEQxUpD04Dtqrv7qPBEuNzpMzNP5p7CypASDIU5arkKnG1jow=",
+  "URL": "http://augeas.net",
+  "LICENSE": "LGPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1577319945",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "ruby",
+    "augeas"
+  ]
+}

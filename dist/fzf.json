@@ -1,0 +1,23 @@
+{
+  "FILENAME": "fzf-0.21.1-2-x86_64.pkg.tar.zst",
+  "NAME": "fzf",
+  "BASE": "fzf",
+  "VERSION": "0.21.1-2",
+  "DESC": "Command-line fuzzy finder",
+  "CSIZE": "1099968",
+  "ISIZE": "3464625",
+  "MD5SUM": "012da5ae45169313b1e9e70e4fa01583",
+  "SHA256SUM": "ce2b4d6a3da073ba23f3b43a321c0e4703f5983be28f342e8aabc35bf6bd9757",
+  "PGPSIG": "iQIzBAABCgAdFiEEBR6tamFVOJ1p2gLl63Y7Tp24h6YFAl7Y/oIACgkQ63Y7Tp24h6aWdQ//TJRoQdoMSWkzwxLEVWxeBtbI2OqiCdMNQDZWNHBpzNbs3WZgYJhvxT6fKed7jnJXTIcuR4OfR2tq+mwrDib+XkOIuSgmZWrEpwUCmSC3fyo5X0XBUE+rWoxq4AJ4EGm5MZlj6KI2B8VbGJdgVvCekWFNN1rnxLxSeFHlWU+Yz421i19hECd9FAHAfxGeKnbNT5pKYLNBU83y11wT5K7jgExMlxbbtgY4fC2gWTyPchF+npKBVWU6cI+XyOAp84PjLxUTvmcniSvrGeitRn3AyjeDIMNJgUMYwR4AMVj2+B3sZNuyGWsNj8aF0kel0g5hziQYEhdyys1S89rE094jKcyKPx4OIG5oYZuR9CEYVSlv5mf4lQS3HjVwp7rt2bc9GRdvhY09gkVAo8SWWZoOwt1Ji3WpWRhQr/+8R9I/at1HTRcwfXrfKpiLf26SMLR4cj1wo0pEBsFU9FEBk6h58gsW9VT/MT9FccInmGRNAwI82bUS3Sx4TXEyAcYVs7x/VhL41gmd9IOgIQc1jx2EbCvm5dsu9VhozxRgs6lDloJfYp5pYAm08dX0+KrVKgblwq7hKZjU7DJ0AOZCSZa6o5EQElYaqciCl8WO/6eeMM0g567gBkRzmkOSoaUQRXq11IvVokNM6VAoX2+26LMzxNqi6tgYuPvU0I16CrM/ajQ=",
+  "URL": "https://github.com/junegunn/fzf",
+  "LICENSE": "MIT",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1591278997",
+  "PACKAGER": "Thore Bödecker <foxxx0@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "bash"
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "FILENAME": "xonsh-0.9.18-1-any.pkg.tar.zst",
+  "NAME": "xonsh",
+  "BASE": "xonsh",
+  "VERSION": "0.9.18-1",
+  "DESC": "Python-powered, cross-platform, Unix-gazing shell",
+  "CSIZE": "895786",
+  "ISIZE": "6417044",
+  "MD5SUM": "8fabb59ca21ae06cb498388b72ee52db",
+  "SHA256SUM": "9f18f13a29d8c67c62494faf3f139a6d2969923d0dd7c366c0ade1622ba146a5",
+  "PGPSIG": "iQIzBAABCAAdFiEEFpcExvtJDGiSx/I8N+CvH9pI83MFAl7frrAACgkQN+CvH9pI83MGRA//T41chFEpM2O6K5jdEt3XpoHulIjA9Uwc5pAk2K5kLGLEim/pmElRLjlDifSm5MH6XHvCkLk1ryXg2wfYqCFtuBF1vP18zIUj72MiEPelqGEtFmYbd/dDYLS2BOlwwSEi4y+BFuVsbfw/gEILedG505wBz4opsoaGBSbCqSK4rTrHjpYGd+DXKiJxmjKYskv4N9sJsTBcFuN5L5B1erEjxvmRigSJ3qTy2y95YHec/1CS2H4cspnIgHHP2P0nEcfyMphHymjbRUjV2t50UkckxW4f6GaLNHZApEl9DkcE0zlSt5Cs5Sp2b8dveWscn1aUrIMT4nUbSPqImEnYFDRuFBkGSZUwS/oeVGPBb2EEstSVGY/na2w92iitmd0P5/Ykm2eMTHMW8xEc/ay/Bwq3C0JvdbmdNyn2ub3Bxip8OP/WXVB9n3m4jVRE9wXoDWWP0NFPhb7AlGfnuvgh3PQxb0tByrDXgesKJCN3V/QgdyRhecp0ertHN1jPNkCgIBXo1dsrYrixIKNtoPBUd4nY4APEUH9yFpps6fxB5WxIa9XxypjwDIvUQIWg3aWv7wSUpy0ASA+aUYym3nLvcu7Bm5AzmyU1g4Vc4eGal/T4Ep3OUi+ZJPNWYtVdwEPw/srYFxtO84CpH9vwvCMOXfl46VddiBP/Ac4mCGjQKDkP5Gg=",
+  "URL": "https://xon.sh/",
+  "LICENSE": "BSD",
+  "ARCH": "any",
+  "BUILDDATE": "1591717526",
+  "PACKAGER": "Jerome Leclanche <jerome@leclan.ch>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "python",
+    "python-ply",
+    "python-setproctitle"
+  ]
+}

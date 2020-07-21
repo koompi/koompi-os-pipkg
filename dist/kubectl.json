@@ -1,0 +1,23 @@
+{
+  "FILENAME": "kubectl-1.18.5-1-x86_64.pkg.tar.zst",
+  "NAME": "kubectl",
+  "BASE": "kubectl",
+  "VERSION": "1.18.5-1",
+  "DESC": "Kubernetes.io client binary",
+  "CSIZE": "9589487",
+  "ISIZE": "44258036",
+  "MD5SUM": "39c4018f9b340faaf8ec06dbb26eb365",
+  "SHA256SUM": "53101ffdf5b9323537b29351efeb55ed521710368fa82a354ef27db9c1ce714c",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl78uqsACgkQeGxj8zDXy5L3LQ/+IolwzevzljRs/+PnqdDVaPkFlDFMG9wuhLVLbcEgTtuaUVUAyMEaAHFQLbEpLIY93oFDumeQ7uCt2T+wTV1aQlV2nmoBfjIV0/xjz04nwRHAx6Q0HjKiiwR8TrtW6+l09rAgHmHPOjGudHCHXcoKR8ZEMZixXLiyb6BAPcx1zXLGZnNpnhPaYl8xDeuDqFzHkb8UnHI0NAVtmtLt7/cd2Tn0fAvX46ELbQ+TOkbQ2EGQNUd1jbuqGH3UBZuLEpPMy356HjFGGxpFQHny71w3nt1Tun5115pXnn/+O3HviVRmtC7X7jPRp1W4f5zII+UHgTix6MKd9WdCDEYXCt2EugkII1fz9jVtKSCDj2oVtEMbQ+Dw1WpPOz12SckDw7rYDZZHC4V39O9NFQ8pLgg8Wo3dtlOwq1X0vzj8+L9eVlbJQPcsCJL4Uj0STdxWb605ldKFiqe72YN0RxRIdzEuK/ZDYtQjsPDqmrqlSv4IgM2nAUM2cjHC3ZldnUcTHuolgcPHAOwomotVPl3nxIK689zLVWz809je9Hc9MZqD6kfJJEt7DErjwGiL1Gy4ID3M2Fjvq4AxhfUaymBVgH78X27D4JjwZQYz6ABt2n3X6Y03iokNq48kqVF9xbLllYqgQBcKGf7GbkKmoq9MTwHbMilPVmBahlcsi4avum1cyTg=",
+  "URL": "https://kubernetes.io",
+  "LICENSE": "Apache",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1593620926",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "glibc"
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "FILENAME": "python-uproot-3.11.7-1-any.pkg.tar.zst",
+  "NAME": "python-uproot",
+  "BASE": "python-uproot",
+  "VERSION": "3.11.7-1",
+  "DESC": "Minimalist CERN ROOT I/O in pure Python and Numpy",
+  "CSIZE": "209451",
+  "ISIZE": "1523978",
+  "MD5SUM": "064d7f567153453ae2a20ff74eccf737",
+  "SHA256SUM": "3fd3b05fc2b7d1e627322464e360924c905d2843926f60af7ae240c270600635",
+  "PGPSIG": "iQEzBAABCAAdFiEEU1nMa+iBGLUfXJC1YH21X/cbcFIFAl7fgR8ACgkQYH21X/cbcFI4EwgAir0SE61lnq/KrMDwVkt34dDv0oukbKSSJ9hn4c/auZHPmlCPZOzUJUaVz7r1+SwIthWLeOTLrX1o736+7WbekwH3U9pBeovIdKs5Qj7Ovt3Okb66Vx0uFooE8eUo6sHTQO6q5uOBEiGTIj3sK6X79fxiM7bYSex7oghpF79g4LYuW11ghgvY8tvwkD4yZbJ6HzdxPZhbyV4Yb89DiqfboBfDiYXwVZOOYnydao/GcFxXvy4UCzHBgsofvfK4XRpJlP6mNcctbR9HdevC9B7utPTizFq3CTJg07EcSx/MMXE5VtfhEXCS+OkJXiSo4rbBZTc1PDTsfviNrCyA0r71Wg==",
+  "URL": "https://github.com/scikit-hep/uproot",
+  "LICENSE": "BSD",
+  "ARCH": "any",
+  "BUILDDATE": "1591705828",
+  "PACKAGER": "Konstantin Gizdov <arch@kge.pw>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "python-awkward",
+    "python-cachetools",
+    "python-lz4",
+    "python-numpy",
+    "python-uproot-methods",
+    "python-zstandard"
+  ]
+}

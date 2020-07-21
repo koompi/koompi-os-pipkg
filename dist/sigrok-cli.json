@@ -1,0 +1,24 @@
+{
+  "FILENAME": "sigrok-cli-0.7.1-2-x86_64.pkg.tar.xz",
+  "NAME": "sigrok-cli",
+  "BASE": "sigrok-cli",
+  "VERSION": "0.7.1-2",
+  "DESC": "Command-line client for the sigrok software",
+  "CSIZE": "37620",
+  "ISIZE": "117838",
+  "MD5SUM": "2452e425f7f0e39ced01a344b7bcb94a",
+  "SHA256SUM": "3d3b24a69cf83fcf256190be670b6a140d425cc8c289b9853da380c80941bcb1",
+  "PGPSIG": "iQIzBAABCAAdFiEE0jW0leqs33gyftiw+JPGdIFqqV0FAl3TIS4ACgkQ+JPGdIFqqV3vDxAAsGboERg9eUP0aKd3Q3lnqcMjxDwDCYauw9n8B9bK3yUgGjFdBEaiotdUi8tFEc5KmjRXfRl6BBG3Ex2EIgzkd2jjKgi/E3NotDFIKzmL9IofRzXfXZ+XnTJwaKoMXJGhUQDvFXYazO1/cZbqPqZgSrowtxS6+o7k1Sp/3GWuSuqP3jfvd//ZAQE5WWOzAp8yvfUaI43K8235dtF/NREJK/+2fB9cdM2h9LJMCmh+s8oc5m4ZXwAH9Wkup/WCzD4ct0uFug06FLgiQAc0T4jxIE9n/p2A4IrbFjDZexvX0/Vn+T6D9bRxajU6V8O5L+vdpeaEk7pwZhymAdTgj080uEe6CjMGNTjSd+eSHFVegeTFgqZm/MjKJ1dCqEK5h4N0MpKaQodtsUxwDfH8vBT/4XKwZ9Z7GFATy0gwoF2uSKsVc8rtedoFEb6TrdKWS4IkbfBxVyR5dJcN5dhfFekGxPMJYpO073r0lQYpzYEh/c4k1WsAB6h8LnZlIDydv+6DDDIYRvz+Xc8qLwCmdcvNm64hDTZ9xy7mQz/SfrsMW4kYdxwJBiKsj4fvEAXzT/9mLofHcbD8KPc84OMJ4bh8sGotLaNyysigDjxvORLKHC4qr6sapefj70Ns4U6TmOc/POOON9k2Ws0Z6eado0f2SjB2YIVClmWkwg6vsa3G39U=",
+  "URL": "https://www.sigrok.org/wiki/Sigrok-cli",
+  "LICENSE": "GPL3",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1574117601",
+  "PACKAGER": "Filipe Laíns <lains@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "libsigrok",
+    "libsigrokdecode"
+  ]
+}

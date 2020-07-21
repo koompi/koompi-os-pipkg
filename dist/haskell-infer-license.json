@@ -1,0 +1,24 @@
+{
+  "FILENAME": "haskell-infer-license-0.2.0-56-x86_64.pkg.tar.zst",
+  "NAME": "haskell-infer-license",
+  "BASE": "haskell-infer-license",
+  "VERSION": "0.2.0-56",
+  "DESC": "Infer software license from a given license file",
+  "CSIZE": "37335",
+  "ISIZE": "151840",
+  "MD5SUM": "eef20cf7fda37d401a63dfcc6231fe23",
+  "SHA256SUM": "641105b2a86c3d342f14aa59d7bc2f3d7203ecbb50414fd22c22ba44fc92dc4b",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl75JnQACgkQeGxj8zDXy5LkvA/+OcsoA5umJU9D3mUxPBpDFVSqQdO88FdfT4yHmxpmm47xRTKcLrGEj3N5YJY7EEeWGqwl0Wv/6YJWR6MKiWG/JfMF6js0jsJx8Vv5NOjO+xC+Usewmngw+hByyyG64lxhB0eI1w2+ZiPL9ftA32jBL5pIKll8edxosjf8weS42PmyOYnVHT7HWIBBPgO3F/hTwiJVjbpP3rPjCZHX3ivB/LxPjlIBVFt1dJCFh9Jy4wBCGG6w9h0VatYiDXwuAdzhmGpZFX0JyjIDXczjL67qo+i6QoAPrEKQZNPT58MPIgKrLZKz6Ppr2Yt4/As5HBP8ZmA/ZXtMLQxa1juREnwYcUUYgmB0ZN7P/n0Oj477byAOdBxBTDsR+2azGeQ3d2R9wUyVqH0Ka/rBBjSdLb596ZWZnix9jP54rbCNnTmAX1V0jAGnYRdwtxpHCnjnmS2SN61scvW8g1nS+pcCaclJ9z+w2ed8qUrPKqvqFWDSzOAIiPlb/3xHuVeVNVL2KM4IB8I8R6fB5aO8+Ip0yfUXAeEVInjjXllHL6lNcnvDbh7ZVdv93nJ5mGdM/vMPu5YBZ8svL5/02yWwIhdFNTfmcD4MLcrqCOCZTDYvXFOSm7/T0Rq9CEG4Wl5VgEtnblr7spOVBgkk++mg8flxLa1KK06ORhaqYWFqDTUVTA/x4Og=",
+  "URL": "https://github.com/sol/infer-license",
+  "LICENSE": "MIT",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1593386586",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "ghc-libs",
+    "haskell-text-metrics"
+  ]
+}

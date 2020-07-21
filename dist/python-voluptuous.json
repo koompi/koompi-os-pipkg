@@ -1,0 +1,23 @@
+{
+  "FILENAME": "python-voluptuous-0.11.7-4-any.pkg.tar.zst",
+  "NAME": "python-voluptuous",
+  "BASE": "python-voluptuous",
+  "VERSION": "0.11.7-4",
+  "DESC": "A Python data validation library",
+  "CSIZE": "52366",
+  "ISIZE": "280280",
+  "MD5SUM": "33782334d0f58a48ade6d5d3efc1b3b4",
+  "SHA256SUM": "6e8a117a20839e6b839bd4cd8c107bda746e7a6ba2cae226a63272b355c17694",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl5FYd0ACgkQeGxj8zDXy5JiGw/9EXlaZKpwnXExwKJn2LygjY88eqYLUs+M3nzCnq+LmxKRUeZQRX7IWYaWZR6VSzNLRjOX5w2Qj7FVbiifqZjWEBc+n7ocnM7puh+qehAjZwF1W7XI+snB/Vl//SOF+Qp+12QDZVPt1jyxx8OsFNmo0d8x4sP+Kbhd32h0mIB25DHM/G/25tn3X9GSUP6oSr5yJmlhZPn4LLaByOW1mZCr60hlHpy/lSnTQ722IyzYY+ZSz0UdvFul/IX8MXo4mEk8a58QhPSsBd9DGFTdchrnvhS2cLlw7Jwxviys3cH6zRqZE82yPZ88s+mzG3+ih6HNn72S3bUgpP2fj/7dF5jU+i0C0jomC43xRHJ3GKIAjtNApkLNpQBNJKtzh/4T3MfMwTRIkXmpjjz0heDGU9xGy1i0EYJq/aYJU1zgnF2GokKqEtAx/3Xi9j/Fewm6LTlNQdZZ4+vY44XWipoS7WOXFsELIgzWCtSDfxsMaE+gJ0P7JEozG/9JDc/j18Z3I24yZHKZfHoCS4fjoRO+qoKN8UgmreSrZM8epXNfR90n9v5517dxt+tqzDCFRR6N3CAfUbGb+krL8gxM6pwf8wJSzTmYD9wjOf8avBZjY0tVc/kECQvAz+gyR/erIlyvWWZhngdtZppoaDQQJf/TfYJclbTv//bhwR0lVq1nY8TYndM=",
+  "URL": "https://github.com/alecthomas/voluptuous",
+  "LICENSE": "BSD",
+  "ARCH": "any",
+  "BUILDDATE": "1581605282",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "python"
+  ]
+}

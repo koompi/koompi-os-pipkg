@@ -1,0 +1,24 @@
+{
+  "FILENAME": "multimon-ng-1.1.8-2-x86_64.pkg.tar.zst",
+  "NAME": "multimon-ng",
+  "BASE": "multimon-ng",
+  "VERSION": "1.1.8-2",
+  "DESC": "An sdr decoder, supports pocsag, ufsk, clipfsk, afsk, hapn, fsk, dtmf, zvei.",
+  "CSIZE": "58231",
+  "ISIZE": "138384",
+  "MD5SUM": "b78f1948ee11a5bd0c1a1df4736da036",
+  "SHA256SUM": "dafc6c886d6e85764381ea3b5c3edc7a3b90330aacbdb8de968f4c6d3e78b851",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl8Es6wACgkQeGxj8zDXy5Lx+hAAjxeBb+zM2SSGGYc2ilSP5fnbTkSp/TW+bcLJzmD7UZp5kP67QX/BYOaX+4mcGk+XN/l/oRGBvEzGR/A5LalOlZ2Qk8hflqRH+iXzjT26l6BV8JIjxomY/17NXQqU2JDB/2ZOj0hEcHZYr/YfmSiOlt5f9dcvhXTEyiK3yDhVJLb5Jc6Imn9xMIkUunbIOCl2k5CDdI60fGMdLraPjWJrZj5m2wHzIN03v1HHE6EBDIqpItJU3oJoJRW/L9WvUlxZ9D8h+DE28kr6mmaF6I7DgeO40gS3zK2juKjan7KtcCoUqlbud9HuZ/YdZyMhzz2wU3rvzsbT9RnNE8miU1myH5lK4pKDLaQkm7QMXO8hT0z2LVvtRuuGQUBBkV8YZjbfrE4F8xOKGAcm9CrqGtkJO3c5G0LlpFJgpapVCiXE0KEtwVajys5wapxx9d7FOLPvB1CdTfkSjLmtgvzOGa91MsbEskRQhfXhkyuWoinpFqtl8YpTcv7qS8VPqS2kHY5S8uWg7KqhgGiZnlwiFj9VnELtmQiewOls2z3c9jaur8r7GUulCPbJs5TsbzahuKfdFK21iisAinz1goUidCmV0qd2Citkqm68RmTeLLbkxDD6aQJoSunaWfIuYhBemtXQPp1UfDA8r7oIlIEGhg/2X14vIEq0wVp1EHhPagyzYIU=",
+  "URL": "https://github.com/EliasOenal/multimon-ng",
+  "LICENSE": "GPL2",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1594143611",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "ncurses",
+    "libpulse"
+  ]
+}

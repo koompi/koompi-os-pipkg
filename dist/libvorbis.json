@@ -1,0 +1,25 @@
+{
+  "FILENAME": "libvorbis-1.3.7-2-x86_64.pkg.tar.zst",
+  "NAME": "libvorbis",
+  "BASE": "libvorbis",
+  "VERSION": "1.3.7-2",
+  "DESC": "Reference implementation of the Ogg Vorbis audio format",
+  "CSIZE": "325649",
+  "ISIZE": "1506408",
+  "MD5SUM": "04920e76c32865575af938077d1aa80a",
+  "SHA256SUM": "90a20e5190ffc879e2563c6f56645c36caf26c2f6a6e400d04b78927aecb70ac",
+  "PGPSIG": "iQEzBAABCAAdFiEElDfdOBWnqRaePTlGr/XZUJi8b/UFAl8B2lsACgkQr/XZUJi8b/Vvywf/crbspdw17rilHk2RqXwXPSubQx68iydBP5y/Vp8AYdc/nTYSVHx2wg4MQ7po2YKa5bjDw4IP6VZiFz4QGw59GIBkigw8drKPOt2FiAgR4BQ2yKXWaMuFqflLuw68aP9p6znzQ+3CnG6p8WNrXmvE7B/K7CRAV+01r5y4owyMSYv+pfvrjOoWKAPzxSCxXvvfBC6h2MCR9vkeBC4rrPxUv1neh07SRs4Klfkexdon6DygMvSdJmza9msGWgdcRewNL6AnQj/+FODBrGveHIabAvInRMMOIuNvNKxlG+NQ0qtDz+hKCn59FL5vkFjvl9tak8pkNzyXikyq3GbP/Gcnrw==",
+  "URL": "https://www.xiph.org/vorbis/",
+  "LICENSE": "BSD",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1593956403",
+  "PACKAGER": "Maxime Gauduin <alucryd@archlinux.org>",
+  "PROVIDES": [
+    "libvorbis.so=0-64",
+    "libvorbisenc.so=2-64",
+    "libvorbisfile.so=3-64"
+  ],
+  "DEPENDS": [
+    "libogg.so=0-64"
+  ]
+}

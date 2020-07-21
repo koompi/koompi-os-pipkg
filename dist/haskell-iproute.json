@@ -1,0 +1,26 @@
+{
+  "FILENAME": "haskell-iproute-1.7.9-11-x86_64.pkg.tar.zst",
+  "NAME": "haskell-iproute",
+  "BASE": "haskell-iproute",
+  "VERSION": "1.7.9-11",
+  "DESC": "IP Routing Table",
+  "CSIZE": "163736",
+  "ISIZE": "929647",
+  "MD5SUM": "d841aa29c31b59d943a483915bb8b2eb",
+  "SHA256SUM": "ece7c870e63477dec0ce7a9246dff8c39e4cc0bea82d9a4103476da18bc43fa9",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl75HMQACgkQeGxj8zDXy5JnTA/8DSNhPUbvdfrjyO4qi+wxuzIMXS2hVlmNHfCFbTJEBST4SlpFrwLOvIaKNjV6i07eQLgji+SszwjhBXCcLvPTH8UL5rjusgWGGVEL3U1vW1PZ+Jbz/kc+CilKNJGJXn+B0BbfPfzO7CQIklS4ZYnj9/N/fAbgQFKRi/oMj+Bf3KUcvFVV+Pf0J7kHy6TbiSOE3Bt+/VyFcgVdQi4eDt7RIkjHcqp1Ugvs4RS3I2rMUavkkCbAlC/O0JTmng+6vW6NwVFBpYvwzmtHp4938hSTqfKRAmrLuCa9FshZbY3U2jVSLzfADok1Kc9W+F0MOavj9i+F7XCUInZxtndnbVH0Pk+ts9iUpIfX8Lvt5DZh04fgFpy5b0WdQAUciK9+nWY/idCTGU5Ohkq2tPBrnU4Crv3jRxU4qzpm2q01tBM9NeIIuERmfGNTsPrcf9HqsrH1HpjuzUQw2EVgwiCRYiqY259n3Mlf4UkjK0KGXXoB2HJXXdlnHlo8V+fwEI90ooRvM8QJ57v18fiTn+quOE2ta92y4X2UwleNh5ZdRd8ezkNnvj185JMZfRtZuo1iVsYQqz8XM+RFXTsddV6ttdHsdc6xAzz6sLbEI54CD0Llyve+WnckPL9QGzBgcj4i8e7QvnSHOygCh9HWz2VK4h8TSm/Bz3Y6QBQZfl7GbbJ+WSI=",
+  "URL": "https://www.mew.org/~kazu/proj/iproute/",
+  "LICENSE": "BSD",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1593384101",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "ghc-libs",
+    "haskell-appar",
+    "haskell-byteorder",
+    "haskell-network"
+  ]
+}

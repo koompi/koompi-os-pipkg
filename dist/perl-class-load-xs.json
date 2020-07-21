@@ -1,0 +1,23 @@
+{
+  "FILENAME": "perl-class-load-xs-0.10-8-x86_64.pkg.tar.zst",
+  "NAME": "perl-class-load-xs",
+  "BASE": "perl-class-load-xs",
+  "VERSION": "0.10-8",
+  "DESC": "XS implementation of parts of Class::Load",
+  "CSIZE": "9277",
+  "ISIZE": "20185",
+  "MD5SUM": "db2e4a7f4651193e19a95f716200b3f4",
+  "SHA256SUM": "ad64b69205cad4e6cdb08e0b733ef32b84b7f09d8aeccd4e7b0aedc1d89441a4",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl7vhDQACgkQeGxj8zDXy5JTUQ/+KJfTnD6LnIKIwDcjDgiuvYz7oBHK0arltCPuk08D9bLf+MyHBq2DWZbWnheTk9vhHtASK9mkEobEAl7TAgXeWjwDqzNTikPJPiqStrnMxbqNnPf88MUVHkafCq1rK7lj/DuRIlMQbCLE+eJCxH4F6Uet5cxRgtdVaipY9r6JbnIjTr+XjwHDC47+FybnCpj/c+0IzC2QEi3CRLNriDd6ezzHjxdeuHDmL72yjdqI2sLyoJ8TyD6V+/FCPMVeTYRb7Jo2AOzSQwEtrEzpm8W4KOh7+hC8P/7mV+RK6jweGiPhmWH2jKqQOBe3tzfS3B2SkJgMqtZr18s2Mxom9TaMqXtFwdO60zu8DH5g4bj+XzsUjBMX7XdShhjpeUfnDalUM0Z1esdsZIshsxWH3jsyD4mWPxlSVvYDKRQPQLRHYEdiX01cPFcFO7bleShc4NcE4vwYxalVkZNyUNcxIHzZTIYutK4D2AwQXQSTC2DwBjUUcheviCJHmm+05ZrMuzrH7xOAV70XF5Cd6RSUnD9EtptuNbp2R18z1jNVtBYuWpZ7Y1XyVWtVaIL1e1XLxImAcWaFvT3Hi2QC9cQ1rx3L3MKcH4I3wTMxc1Db5mlOIiKzzEIlGH0CI7aMfPif0wPbT11YCV/j/yv93ZfoCVk9yn51tffpWekM4xOShTRhLPY=",
+  "URL": "https://metacpan.org/release/Class-Load-XS",
+  "LICENSE": "PerlArtistic2",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1592755220",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "perl-class-load"
+  ]
+}

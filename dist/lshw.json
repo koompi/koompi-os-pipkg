@@ -1,0 +1,24 @@
+{
+  "FILENAME": "lshw-B.02.19.2-1-x86_64.pkg.tar.zst",
+  "NAME": "lshw",
+  "BASE": "lshw",
+  "VERSION": "B.02.19.2-1",
+  "DESC": "A small tool to provide detailed information on the hardware configuration of the machine.",
+  "CSIZE": "1675943",
+  "ISIZE": "8310016",
+  "MD5SUM": "4f20593658e9865a84871d040e831bc8",
+  "SHA256SUM": "ab2434f85de0753cd316b5d44bf8a0b560c55aaf890a6564203331f6d626a3dd",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl6tffYACgkQeGxj8zDXy5LYyg/+JvAoih5IzwyFPlI4O88kQV/GOBUSIHbIuUTM9UFu7qWLt3DQ0yV+abQdN99mvbZ9TITuSj57pVp045SNB6J3PgQvzTxJ2Z2xOtXLCe8ug2sCXvZnlhahLc8Dayiq7tPDCnYw43nJ/EFRBTd3mDkC8Lm0eJgXoa9Zf1woLuERA+PMaR1R3nQAqVWRnQEWZlfgT/SdFYqjTK9sBu9+DGH8CZPlSAjUNLqIYrEHyRKOIN44CLb5Boi3WSKnmgAA2sQLaAu75pcslUFQ+iuAA53+9DvCnXG6ciIMQYWggmXT1m7So9vFrMBiReiue7z5RInzxjyB88lvmDLHt9vJfFcN7fJjP9thEFBHeU7C4PZns+LPgD/vTuWwvV8iBdfLGs5A2sfvE0ITkJJSCFFKayuYEcM5bjrpwUsPI01RrQPVLSwSqRhjx8QRN2+EXfHO0JYcRNNN9+ijjblJtU0vVHMXtzGkkxuubkOEM3S7Vl2NlPazneuwMXYvvxtezaiRZPTzrZKMB5kFlNe/E5MbZy1gYs7M5+LglgW0+TL5EHzrLFiyOuVl3eXJsunD35dhQ4PhE6UbYlJ/lND1H6t6eu93AF0/yAPuGdS4lljnkc/hdc8VVjY31Baf7HQAY48PMpTbJKjBq4xKt2eZxdtzTTm7lZ3wqLwxfXeEmUqe0PxdrNI=",
+  "URL": "https://ezix.org/project/wiki/HardwareLiSter",
+  "LICENSE": "GPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1588428240",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "gcc-libs",
+    "hwids"
+  ]
+}

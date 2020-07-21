@@ -1,0 +1,26 @@
+{
+  "FILENAME": "minder-1.9.0-1-x86_64.pkg.tar.zst",
+  "NAME": "minder",
+  "BASE": "minder",
+  "VERSION": "1.9.0-1",
+  "DESC": "Mind-mapping application designed for elementary OS",
+  "CSIZE": "451383",
+  "ISIZE": "2222379",
+  "MD5SUM": "2af1f89a559670e2f224fe5dfa126160",
+  "SHA256SUM": "4761b4ae40c01b671f7722b351be05470acc4319abaad636cf34ed31fc9fc60d",
+  "PGPSIG": "iQEzBAABCAAdFiEEzgvecadZqH8j8PfYth284QkBwWMFAl8IT9IACgkQth284QkBwWMf0Qf/WAhvVas8KM/ygyR0weFSw66eKW0d1zW/f5oz4ER+gHK6i4w2qmRmD2FVwAeB/jahSmBOy18hHOGe/upQCfeJXOfVooyp2LmSV3EdIUyOF1fxQ1S+vMb+I0ILG6xpJiO1mHbWm1Tn4d9gy/rIRJmh4uPoXDqjuDqBKdlCUu36dxaUh6uQmQFzx9vdykdyEig1gMX/iL85QhtlbE1uWT/ZVjXCVuRprUgaexydFvrWbMOVJH7r1W/E8sQ6pd1lMefSCG4yX0gWSRlXrXD7nsvHWAxSwmlKq8xdCxArHkqgRDOZ19HdnXQfi7BarTmR9v3q6fFVplrazRqD/D3sFBiG/g==",
+  "URL": "https://github.com/phase1geo/Minder",
+  "LICENSE": "GPL3",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1594380128",
+  "PACKAGER": "Balló György <ballogyor+arch@gmail.com>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "discount",
+    "granite",
+    "gtksourceview3",
+    "libarchive"
+  ]
+}

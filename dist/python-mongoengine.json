@@ -1,0 +1,24 @@
+{
+  "FILENAME": "python-mongoengine-0.20.0-1-any.pkg.tar.zst",
+  "NAME": "python-mongoengine",
+  "BASE": "python-mongoengine",
+  "VERSION": "0.20.0-1",
+  "DESC": "A Python Object-Document-Mapper for working with MongoDB",
+  "CSIZE": "174619",
+  "ISIZE": "1025080",
+  "MD5SUM": "ca93df78420d396d0d525d31510c0c17",
+  "SHA256SUM": "c5c597f54bad336761b6878104b35f39ef6ab1abf65cf0b4aeaf7313f3b0f60b",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl6uKFMACgkQeGxj8zDXy5IqDQ/+OBiwNhbJ4Mwk36dXJAB+OGsNqAsoTbdYrZNnfPv8Iu+zsb/ndj+rPoqZ/uwMi3DoR7yaamZh0v2pMtVShpuvH6qfSYXbG7f5/1TnHWdQkJzkolVG2fzvYfiaziR13bZEjzceOL19l2VkGU2TUs3VLuRfcSoVJ32g5monnRM88+sc1+zv+KhjaF6MlO8LZoSssRnBsEYPo+F+jazZ61vc4WcjDjKHDWTQtTu1kwaTFLLqGhl+tjd0Ameo8CJAwzh/ApcOZRxKajFh04TL+kprm/uKnrlzmriqJIw2+U/WeZi6YX+ZMVjO57ccYzSjHZmwEGSBot/iC4XXRooL+3p1sH84osJ/MnlwCKMi0Q/uiUc8UAKvwE/doAaeFEVLnV6QWU0UO4gBv39yZsy4tYNvQDQUNS7IYNGApLNFSyQvAeKbmKy0+Cds6H6byfUW7M9I43T465v2HF6sc/Z21e7gxAmYpuvOihSt/wRnQZ1QsmCw6oXzHDvP/yXoJijZYTZqRq6ePBzPgWnn6v+0/MaN1HidEigjW1hxu2zcxZiIZM5r9I6MgEcPxGItVAntoTm4AYqLcl/NGIfsqbR4HXJRKRDL9p9n2Ibg1TXOEKA0jqPQdxpxhnTgt2QM99Zd9fGUNMJ6PT9OEGxYk9soNy3DolKgHTV193GWx31AwQTZ0DA=",
+  "URL": "https://github.com/MongoEngine/mongoengine",
+  "LICENSE": "MIT",
+  "ARCH": "any",
+  "BUILDDATE": "1588471852",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "python-pymongo",
+    "python-six"
+  ]
+}

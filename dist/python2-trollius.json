@@ -1,0 +1,25 @@
+{
+  "FILENAME": "python2-trollius-2.1-3-any.pkg.tar.xz",
+  "NAME": "python2-trollius",
+  "BASE": "python2-trollius",
+  "VERSION": "2.1-3",
+  "DESC": "Port of the Tulip project (asyncio module, PEP 3156) on Python 2.7",
+  "CSIZE": "182004",
+  "ISIZE": "1333248",
+  "MD5SUM": "cad5fac029877a51dadc26f8b61baeb9",
+  "SHA256SUM": "3aa711f113d9e937cafb1e2a4ec7cdddf56a8dd7a3421d5fe19bb7dd6b528769",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAlvmEzsACgkQeGxj8zDXy5Jb8hAAtTxRoZRyMqOSlkP4nnKuxREH5k/McY/k/vDYZr0HK2mTDXT/sO1mZ0M2pdlNkvO8nM6PEVWPqPwgYHYvGVz+wtc/v3gVMlq3Gf1hdUSdjdlykaocYCo8KELDYuTjeZgFkxque7SEcR88hE24lcuJkpSHQ9brA0kM3gVUroSltipm0RvBnFD8ez8YYUc5OfFODkYG5JAqmd5Mx9rO3QPph+XS0VxBm22NDKNK3fGf5jWKDS7z0XdD7zkDJx3ivcfXQ+4oodNegN1ixGkk0/biTiCbD6/4zWuGiZTC7Y8AS4EUH1mAhf+3U2h27SyRU7VBQ64xkdCAfAYHB0c/o5MxWLkI3ipIHF2M6P4At2WX+nO3e9sk8Ci11DNQg9JzjXHZwTkppylOYuvxN06pVEmvQuOn7nIReS3H8uLS4dcmAoo5yyc9RfKSQyObErS7V4ROV4rM0DF2FK/bZslr01KouLRVPDPvH4qRql5a3Po93jHmuWUB0GneADwr1Lhl8xiCQxX2KkqA09WSJ8N8cOigF59JEXZjlrGuSnBbn6FHVZ+yjj5DERMIA/dhjszT3vChqxAgJ+/HykYnwUzc/kRc56cllJgCWcDQFv+tEH+yQH1Y7UoRzYRtxjh7O+4l8JaRel1bxZGrml+Xt+fqwBZBLxcPU4kgI8vv6tZyr5xzgUU=",
+  "URL": "http://trollius.readthedocs.org/",
+  "LICENSE": "APACHE",
+  "ARCH": "any",
+  "BUILDDATE": "1541804825",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "python2",
+    "python2-futures",
+    "python2-six"
+  ]
+}

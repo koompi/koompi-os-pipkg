@@ -1,0 +1,24 @@
+{
+  "FILENAME": "fcitx5-qt-0.0.0.20200616-1-x86_64.pkg.tar.zst",
+  "NAME": "fcitx5-qt",
+  "BASE": "fcitx5-qt",
+  "VERSION": "0.0.0.20200616-1",
+  "DESC": "Fcitx5 Qt Library",
+  "CSIZE": "169971",
+  "ISIZE": "607870",
+  "MD5SUM": "de4f433313f5d1691fadbde7ca25aac5",
+  "SHA256SUM": "dbe83c3bf2edb4c643d2859598d45da8dda73450fc39695240b0e8cb928e636a",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl7oLngACgkQeGxj8zDXy5I2yg/7B60nv7mD8Ltu57SaBgtsQGQ4O1vgv2dMsqBz8iVldvh4n2NXx45SYZd5XzVjeq5woTfsN9PjKK9HbHU4bXJ1SByIhRtGgXfR9g4/k29NJhiQiUnIrYvMpAkXygXJ9TWmCIxDUQl3Y7vV7e4PFIwJOsm7yGy+tvWuZhLrBJn5yJxXQS8T9WngNKrMEpFKErQ6e9YRVIA8zdHT79vIwBbGwfkz1Re0FKrTzQjz21zGiur2F9kLwcJYfassGf62gnqVZosDrf3C1X49uzwFqYzVzSBd/+BEkM4aWr8q++YlNbAOSPocMIDNpMWX/BywVAHTXPVppmmdhhLXv5gnLGwoABwjXEJKJr6FLQcOnsRZlVjrTQ053k5eNZ+ndFy3F+iEEPCcFG/mSaNnyXo04J8BmVuckxh9J+d8B0m2YLw/EEuPHbvCZ6Ycu5vTuorO5MgQWJlIsXOppcNxZ8zRDxV0NKWuZVdOjPTPuDktHUyL88Ro82MOyQg0B2bP8lhVyUadzfJ1ioTsCZBFgYLTaE+py0fdivKZQIiqpclNUdRlvv2ocVg0h3lUKXCXiyD1Bh6jWhLv+wDeLWOQYGAdMqYBS2KdhIcBRzqflPvqa16/hNANHldcGqMa1bvJVX5H+yKnHV0MVTKRfHBCpohfhs1Z0mvUD8bYRcMEAva0mXMUAAQ=",
+  "URL": "https://github.com/fcitx/fcitx5-qt",
+  "LICENSE": "GPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1592274507",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "fcitx5",
+    "qt5-x11extras"
+  ]
+}

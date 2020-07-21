@@ -1,0 +1,24 @@
+{
+  "FILENAME": "ffms2-2.23.1-4-x86_64.pkg.tar.zst",
+  "NAME": "ffms2",
+  "BASE": "ffms2",
+  "VERSION": "2.23.1-4",
+  "DESC": "A libav/ffmpeg based source library and Avisynth plugin for easy frame accurate access",
+  "CSIZE": "103068",
+  "ISIZE": "307037",
+  "MD5SUM": "ea86d65241b1afdecd16ae9ea4b467e2",
+  "SHA256SUM": "4451b42ee6b0d6ab9a02f791797827656575813cb4f2757f020c49fe8b4633f2",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl8Ef7gACgkQeGxj8zDXy5J2rg//XD4psa5U/EXozY2tectPjpAv7n7f6pXU/ixWvQeFegt9va74I5bA4796KuwaSAPf70r8GXCLUn9SqXpIcOs8io0gVOvKeNFCBm9WBbBfBPVILAs5x+4jwtBsrW7y7Ao1tUXg9Jc5Cm94weXcUhvULVhFkeewm8MyEhoYb+z5efIjx90m9ItO/eVYvEfBbg/TchH9njCA8JrQbkFAtmXAeU+LbkjYNaNElllnUL+yZppMnIOxrbQCB4RU31d2XcS3IHMrRqPAklB8aHudMAjKwoHdRYT3WgGPqA9wqIJ9zWXkO1AFkr2o/jYjBnfhSS4Kkz6gAUk6d6ImdCZtL5dNpG6nluN+HnIzJYz6ssV7Ntwxux1pHauI1TkZbXL+rH5InLHmlMwRd9N+mrsrvCBRQkDE+eD4ogm7Hu3ZJ694tJ69b2ekCdNwEFnqCN8IifsiMI0lMeqzHpo2s+JcQngSFVoYmp0/9sPE82zcNaAdGJe0V+ryigcy/gFREFTLw2ks7mU46tBlTYmlC8dHR5XNFaV1slxnq1aMmuROnjJsLoVRU39fh4u1RX0/rASlj+QqyRquSViECXefiQ/duQJGE+ajOn99YU1qpMmklOoR+ANh0y3cKBj9SIoUS9QbLlRI4zBtJw33Sf7Gp8FdVHNfKYSaal9FkxkXRNgRPNxgjR8=",
+  "URL": "https://github.com/FFMS/ffms2",
+  "LICENSE": "GPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1594130327",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    "vapoursynth-plugin-ffms2",
+    "libffms2.so=4-64"
+  ],
+  "DEPENDS": [
+    "ffmpeg"
+  ]
+}

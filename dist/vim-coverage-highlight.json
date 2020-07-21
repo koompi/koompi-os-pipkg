@@ -1,0 +1,24 @@
+{
+  "FILENAME": "vim-coverage-highlight-3.0.1-1-any.pkg.tar.zst",
+  "NAME": "vim-coverage-highlight",
+  "BASE": "vim-coverage-highlight",
+  "VERSION": "3.0.1-1",
+  "DESC": "Vim plugin to highlight Python source code lines that lack test coverage",
+  "CSIZE": "16835",
+  "ISIZE": "57881",
+  "MD5SUM": "0870b14367dab151ddd24973a751aba5",
+  "SHA256SUM": "3de3c0d7a22c418ec532ceb0bb74dc729cbb86981cb73ac4449a13e2c3415b1f",
+  "PGPSIG": "iHUEABYIAB0WIQTH54SUZv4jWDQ1iDdyWHNLQcMVSQUCXoSZzgAKCRByWHNLQcMVSVVlAP9hqjkH+mL3hULC3r3FcL7lZf8k/QYQrL4xFuH92Y/x5gEAtj1Wza3+3xlHs5QlOJk/6bmjRI6Rhdf54jmguPGYtQ4=",
+  "URL": "https://github.com/mgedmin/coverage-highlight.vim",
+  "LICENSE": "MIT",
+  "ARCH": "any",
+  "BUILDDATE": "1585748385",
+  "PACKAGER": "David Runge <dvzrv@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "python",
+    "vim"
+  ]
+}

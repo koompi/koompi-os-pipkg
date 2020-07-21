@@ -1,0 +1,24 @@
+{
+  "FILENAME": "lua-penlight-1.6.0-1-any.pkg.tar.xz",
+  "NAME": "lua-penlight",
+  "BASE": "penlight",
+  "VERSION": "1.6.0-1",
+  "DESC": "Lua libraries focusing on input data handling",
+  "CSIZE": "164104",
+  "ISIZE": "769024",
+  "MD5SUM": "98af6c9d0c49ba2dc93a5d24df187d03",
+  "SHA256SUM": "92013fd03611230ef5027e4e8b2dd229584dbba9691a02ed8ed6371cca73f02d",
+  "PGPSIG": "iQIzBAABCgAdFiEE4kC1fixGMLp2ji8m/BtUfI2BcsgFAlxcpTgACgkQ/BtUfI2BcsjHoBAAnQxrIjzv74Pu6nOyBmWu259bTyl22ESuTTOUfy2cmjIvGLwH7NJhIJO/BYBXcAj1hZDq2DMts6eopGP3/UpXtkFMDHT8e8gBHOXhlBR6rGm1gJLJIunRBuJFsULfKonnLEyHnb/dXx01MeCIPaj60/YuBDcd3Hs9Ig6jNU8Of+z9hTC66E2AKZRHgiE62hJZfAtUoShQrDfh6Glj+2l063n7wId4hqlPQ+AcD8DKa7/w3D3ZCj/Ab4LUgOU64PrD63hf5xbN4VMsuejn4KrPDZazHa1jS9p7eyvxfyQ3GFvnejCJ3cyEeht1CscxTFHB2lhr9SCFoWtdedmzDU+hLD313zjH//ZqShDyUoFab92ajGL4z2ey3VfT8N70Q3MagEM1Eavb9hH9hX32eaI7hPiQzwVunVgfHPlmJwi23EkjyvDR48GG9kaI9T4UI0vv/XnkeeOV58KlnPkRKxM5ZhewBso5VLIRAjolyPLj6fHf2vmttPtidyab1ZgiID4lQ408QGJdZJnW2epkHLVe3JccyJPogfjw/8vWTirJVETc2eyZKeYXrn148uB3+vuFD6oWBK+EzI4v6UC5d2yHHbO2/MLf6PR9uUBqALnAGyd2r+f+ttN9tq35V+3Ki20G7KjdOcdubmoWXNwI07PXO1UTLfKYTASWAtcwlvhf0HY=",
+  "URL": "https://github.com/stevedonovan/penlight",
+  "LICENSE": "custom",
+  "ARCH": "any",
+  "BUILDDATE": "1549575018",
+  "PACKAGER": "Levente Polyak <anthraxx@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "lua",
+    "lua-filesystem"
+  ]
+}

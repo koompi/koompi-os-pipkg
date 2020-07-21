@@ -1,0 +1,24 @@
+{
+  "FILENAME": "webfs-1.21-15-x86_64.pkg.tar.zst",
+  "NAME": "webfs",
+  "BASE": "webfs",
+  "VERSION": "1.21-15",
+  "DESC": "Simple and instant http server for mostly static content.",
+  "CSIZE": "28747",
+  "ISIZE": "58217",
+  "MD5SUM": "e3e0d0f67a7320b90b0677926952ed09",
+  "SHA256SUM": "892016ab8a632a9ff2580598e2b685cfe9d7a492cd456eca86535a63e00c6660",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl8ElOEACgkQeGxj8zDXy5KdqBAAqY11UNGaIPjGWS79CHsRDjouQokjOQ2sm/vGAb5cNUTVD+FfAFGv0DMWfZyyf8p+jcBQv2dD3Uj4WcG+Dms5/WJuerb9Aqgn20q7A1+YYkCRRVD2m3EWDjoV969SfU/hosdpspYsFzYaKnzAuFT6IscwHJ0l71MqSvUNHkfrsDH/TGGgEv4Uz4xlnM55FINVtnpZc0MBPNK2AJVQovCUxI4cl27IhP5TtYdOAiVuq0wwB+m/urpclqGq6Ls+ligaaM4ulnC9sgstG7TXBucfhOcFXjZjDjsjHNmW0CUSizSmvSmev8eAaHXntmgU6ZvNm9tpWs2FU9u3kS63HESvkDjRXPlBXSkxmyNt1CZ783UmDAWGWdIED6or4O2ZgZbdV2VQc6LrAjbWJqGB2iW8ObnMoxeVhxOYY+1iQfeVtBMOXwxLtyir+n4Nvow9NvdIwJRqxSFKX/Un+OlanC3zrcJjLMg6LjvwrGhbEDCs48dMeT1AUtqUosnQxWzRCk7akaB8Ppsd4pkVNwq1K3GvWT/BpRXMlGiOOXrhIQx7nl53+louGASP2yf/DQAIkqCuB9zK6fptjmit7ruKJA0j4hd9MGUQ3e9UjzTDcshcSDWgIvG5tnd39JwtyGl7JulI8TocZWQxTKOcXpZ82OJ0Uq3joLpdg9HxYPuiP3U2nFA=",
+  "URL": "http://linux.bytesex.org/misc/webfs.html",
+  "LICENSE": "GPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1594135757",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "mime-types",
+    "openssl"
+  ]
+}

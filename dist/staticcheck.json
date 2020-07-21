@@ -1,0 +1,23 @@
+{
+  "FILENAME": "staticcheck-2020.1.4-1-x86_64.pkg.tar.zst",
+  "NAME": "staticcheck",
+  "BASE": "staticcheck",
+  "VERSION": "2020.1.4-1",
+  "DESC": "Staticcheck - The advanced Go linter",
+  "CSIZE": "4485685",
+  "ISIZE": "15172101",
+  "MD5SUM": "309213bdccd43a0bec02e3ffdef59341",
+  "SHA256SUM": "5b149cec6bc593194fb08a12dbc7daf89a0c3b312a00c3b005d56474e41da379",
+  "PGPSIG": "iQIzBAABCgAdFiEEwQA0ZnZjToDJQPuenAL/QZ/svhYFAl6/Er0ACgkQnAL/QZ/svhZY7w//dwYBh6UpjCi5QLuHYogbRi9lml74GfSXRMPtFlAd6xcvrl6Ul1udKyhEzLGRkWOxtE1jAVf6zZjVvr/s6quRzH8ifdkUh8ZRC6d8nX2/8uoi0+Y/JOiyF/ZMYGa/UcIVJnJfwbFjTjJoG1aoT/c5rdyN+TXRildYYIGIkCnJG6HVCiddMq6Ut9Vhq+L+v5M2bV/FoU588mVUHf+4qOVMtMdymEsoEieLBmlnTeOpkDexyygzYnJ0Pxu50r840fxVfTLLiNK5XeaAO2EGA4mf3XMvqwB+IjEbXaXRTXM7SReiDrjbsn/8YCm6ByByvkB4UXBB7vx18kPLmXPnvloFx/yjcV3EHP/MdyE1NTaMfIqY38ZHaSXGDXX0T/4O1IMr0+wo/1X24vflo2if4LBJytU3U3+I4KWfnPlu+a/j1c7G4IJ0aXNU0hbJwdjcqOBhKSlRXXGepIMqFHUZFvl7sI1yjR3G2J6GOD+2m047iexRKj5OB38ANvsD4onOItRhBMOotdw9muk342LKqWytfU4nMb/3Q7PGIRfcHVru0+5LjbDcRSxuGz65+LNV27lVyj2oTAOThJSwTfIUdYqfXZecPbsHex5KXAgbkKYM+plSPQiFvcNv4J2ZluqEnFJkakRoeqAFcfv41qw9GlKC2vUQjCmSvPGj3vC2L9ga8+U=",
+  "URL": "https://staticcheck.io",
+  "LICENSE": "MIT",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1589568832",
+  "PACKAGER": "Morten Linderud <foxboron@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "glibc"
+  ]
+}

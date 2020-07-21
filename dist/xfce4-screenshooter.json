@@ -1,0 +1,25 @@
+{
+  "FILENAME": "xfce4-screenshooter-1.9.7-2-x86_64.pkg.tar.zst",
+  "NAME": "xfce4-screenshooter",
+  "BASE": "xfce4-screenshooter",
+  "VERSION": "1.9.7-2",
+  "DESC": "Plugin that makes screenshots for the Xfce panel",
+  "CSIZE": "141492",
+  "ISIZE": "686908",
+  "MD5SUM": "05206e925762feb5689703df646683c0",
+  "SHA256SUM": "b99301867c042d41b36e122a9d053e1099a799a696591ceb89605e28d2c2b3bf",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl6/yAcACgkQeGxj8zDXy5KnoxAAn/wSn/ttm4sZwHbn9l4pMpvyV1KLZLdtbvuBZ5rwSZQTwWozF/jp3dY6ZVIZe9Xvrc51Uj7t8Dl5Lp7CzksBpfajH7j1pEI2liiOZAnhecgL3SK8iaiN1zBgr5kYdocaeWewdjPxoEOGSIDxr/Ahn2WNia4ArhaOYngzz7wGc7kKh7Sr+zGQdLauRDTDWEJ4SdLQSIagTdMPsMXrC2ES3CsaPny+t9md1Qp0XIg6T6i48YSsofZksIXeKyLMX1v/beLWXEz86R9I89GbsTicrfKz/mfKIS+kH5vW+tho3USjQS7us1bFvHlA7aexehjpzgdydLRd2IYmXJBCaoJreHOEs2fp57ZV3d/86ZCGi3GhTVi7FiXF24WH5O/wXrIXq7TD0IYTbXVF0w84KjGMOxbW9HqqTAtyEgAtzKfLr3uQphrEoIYXrWfFM19Yhc2HDkAr4gbVhruHrxpfhz1n6bmU9ssEcInPQW9nl5pQaESwyN7EzulEQo19JmWa/mhUQWXSR+czXREOMKQTV2u7tfVpYgNd/YBucagSo5yrb1q2gIufIbtd0nFeXkYqbHfbfs2Sd5/3BgMAzqCTXxmrfOccvUh1CHibhww9cjAwy/dGPp/x2dr38BQAPF9Qz5+iJG8qGGJEi0uMhNGSwrI1MkCXgzBlejDtBNJkdPIFSMM=",
+  "URL": "https://docs.xfce.org/apps/screenshooter/start",
+  "LICENSE": "GPL2",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1589626852",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "xfce4-panel",
+    "libsoup",
+    "hicolor-icon-theme"
+  ]
+}

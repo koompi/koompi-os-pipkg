@@ -1,0 +1,24 @@
+{
+  "FILENAME": "perl-date-calc-6.4-7-any.pkg.tar.zst",
+  "NAME": "perl-date-calc",
+  "BASE": "perl-date-calc",
+  "VERSION": "6.4-7",
+  "DESC": "Perl module for Gregorian calendar date calculations",
+  "CSIZE": "124624",
+  "ISIZE": "388221",
+  "MD5SUM": "2e421729e97c646ab00bcb248c3d92ad",
+  "SHA256SUM": "f5e9d32518e6c716bcd253ea5b5c59cc044e797b3af89e904c64ba85b08ef4c2",
+  "PGPSIG": "iQEzBAABCAAdFiEEhs/8qRjPOvRxR1iAUeixSKmZnDQFAl7vPEkACgkQUeixSKmZnDQRhgf+InIxXmrsGeCsXAP4F6PmVjvAVWWf5+8x2oJbDaXJsdY3+5VQTGWpAKBhuBICgHe1EvfmHqb7P1QDSHU6pTw7Ku00fK75gHLN2QKW6v/rHYgUVnGvhVJpt7GM78ebDzziK3iBoltZAjyI1eijcPcCQjZZVz1LYO5vV95nfzBrMTXT/l6Vn87uY4w8mf8adc5XArGM1d20dNnLNQNAP8240n7qMiaAEXQYZxl8KSRwkxQ0dV0RfqvsRU37Uw4cheSqq3lhYGxR752ovw3xKn/0umjwBVD0iJgmL/1UHiF3DNZoalzX5KTO/FD1TWU9ITaQb4FPWrbiDOqbmNKOqR+pNg==",
+  "URL": "https://search.cpan.org/dist/Date-Calc/",
+  "LICENSE": "PerlArtistic",
+  "ARCH": "any",
+  "BUILDDATE": "1592736824",
+  "PACKAGER": "Evangelos Foutras <foutrelis@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "perl-bit-vector",
+    "perl"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "FILENAME": "python-setproctitle-1.1.10-5-x86_64.pkg.tar.xz",
+  "NAME": "python-setproctitle",
+  "BASE": "python-setproctitle",
+  "VERSION": "1.1.10-5",
+  "DESC": "Allows a python process to change its process title",
+  "CSIZE": "10996",
+  "ISIZE": "29474",
+  "MD5SUM": "b4db29f5232669ad0e56496d496ad376",
+  "SHA256SUM": "b2efeaf62e5c378089f783c32658d72977a1e01039b3fe5e12c80ff7dc4455bc",
+  "PGPSIG": "iQEzBAABCAAdFiEEhs/8qRjPOvRxR1iAUeixSKmZnDQFAl27F8EACgkQUeixSKmZnDRGqQf+Mu4hU7SFvpyxpMYxuGqxBmRWpxogwbRWfmygrE0Vf4gHux9EXv4yQg6LGcRSPyClGN72u03PDaaD3Unk1Dh5MeJS1mDcT4ma50xzJB2KEVpj5RAZ+2RO1ZchuRWsWqwh5/JSGW/z6xii9edp3Hu7B2wNo6OdqwperRe4949MYp9Rc0tUz+b1/ZPgObv8df2J+C6w7Gqf/ZJVn+Ah2pnft21TtsMfudOnt/u1agweOPNWj0vHxRrG1kD7fJTi13AbNy29OaD8puZCMl70Ue38ygcKtA8+ADRUWGlBqB74T9eA7zWxwjpPgPACluer2HwdVlhJxdnsZ0Aujbx3MdeO8g==",
+  "URL": "https://github.com/dvarrazzo/py-setproctitle",
+  "LICENSE": "BSD",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1572542376",
+  "PACKAGER": "Evangelos Foutras <evangelos@foutrelis.com>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "python"
+  ]
+}

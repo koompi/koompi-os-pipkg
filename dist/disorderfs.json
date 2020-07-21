@@ -1,0 +1,24 @@
+{
+  "FILENAME": "disorderfs-0.5.9-1-x86_64.pkg.tar.zst",
+  "NAME": "disorderfs",
+  "BASE": "disorderfs",
+  "VERSION": "0.5.9-1",
+  "DESC": "FUSE filesystem that introduces non-determinism",
+  "CSIZE": "22412",
+  "ISIZE": "57259",
+  "MD5SUM": "9d327c28889316028017331d9b180456",
+  "SHA256SUM": "f7f40a21255364e0102be004e88469efc04815d2accaf030b64957efff786d85",
+  "PGPSIG": "iQIzBAABCAAdFiEEkDurc2QOttZVM+/zRo8SLOgWIpUFAl6eIbsACgkQRo8SLOgWIpXzLBAAuYnhRmJqMBJPuIrZUrP6j+fAt589As+SFgJe9VIJKL+V4uU7T+WljoP1wzeHCax2JNbDGORJXZXy0qeol4k2+lukVZRkenM4YeTccv0picYZAwIfJDIsHbFdjFZqAksaYdK/hB2s+K/ypAxmfgvXfOsrpdrg3hD67wl9BwKKKu5mddo+oo33FXXlTIgBU67ZKhMNvbQPOrfGflm1y5hE4I6Kj8u+K0aespFQbKHUxyYt8h1XCS02+ngIDycrXXlu3PjU11YFV4GAhjXvFeyCqrwf7HaUY/3SGoCxYmCdrS96AWqFyUBZM8maDj6WzRM4eM9IS4z1hYdwpQxen55F+BwsEZXYNoDeUygXPuJRM2gLwHMjF0SUYFEBo8OMSkWYEmtWjrdhAD8bjKPNlCI54AjNKGnX7b2pCR7S6oOmkWU75bJnlDu8QnoQBhqrkVwlGhv5GlHdxnpwWuE8AZny/QHm7cEbQnox4VwSlvX1PA4QVX33kZPMCCfoHf25p5w5w0ch80N9zGehYn5jJ8Vb1wfGqvj/lr1CYCsrL7hWBzYmEs/Sf/jBfN+/CWEXW6iTXcdx2opgvy1wk/TUrcTeI0ClOQAvpE+ch5g2d9ruYE41GP1ikrkjgpm4i2p18+xki+yfNYX5OWF/tBGTkhpn4nilzZB36JgIzqePWeSlhZM=",
+  "URL": "https://reproducible-builds.org/",
+  "LICENSE": "GPL3",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1587421569",
+  "PACKAGER": "Santiago Torres-Arias <santiago@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "fuse",
+    "gcc-libs"
+  ]
+}

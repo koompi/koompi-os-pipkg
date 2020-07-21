@@ -1,0 +1,23 @@
+{
+  "FILENAME": "python2-futures-3.3.0-2-any.pkg.tar.zst",
+  "NAME": "python2-futures",
+  "BASE": "python2-futures",
+  "VERSION": "3.3.0-2",
+  "DESC": "Backport of the concurrent.futures package from Python 3.2",
+  "CSIZE": "23623",
+  "ISIZE": "138923",
+  "MD5SUM": "7bc5d218f423b41f384c2c49d61174df",
+  "SHA256SUM": "5805ead52c90ee9f1c8fad010ad3818b638d82c51ea642b34da599c02658431f",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl8EgrQACgkQeGxj8zDXy5KdJA//enu6cbzh9nPzCICSPmLPV61Es3MF03XkP3+2Fm0GriV7jDVwFaNsrKxUj3HNyezrSPeabTZ2IIvrooX26lDbBWkvdc36EEwnrfOOUI+Kf8JprHNmNYlAQgScwC+8WaA5KQiTpd+TyWuIjNwKCdwt4t+ecwl+wg0oO//WNVzoqsZyAaMTaTvRNsbAZWudOGVvoDXEo2jqFzQnhpKLmbbZpFVIGsQIm2BMWShQy9ZS3qV9LYF9dhT/MSrHTLujJ2QgTscKMW37aIo7rg4S84yATFHe4knviNjgolcksp/Ch9nR94mZuWr3pkYoaC055z5uMpRVzvUfHUss8AOjcgxnBHvFapWZb+2nSjn6LTnJrz/rWIWPOduT1hv5vsmLq6wztg2DKukzZ7jTnKODLmC1+5+mr+lbAbMah9V4CIyYSwJ/pee/YkSlmXczR3XV0EePeggu9DJhE7gK9Khap70lvM/CqMC8kMmXIVvzvu6T+7oFqW+tIz24DiKNw+rExvS5MhrUk0ktG3HyovgYgtDG7BCY2sZZQa8XPF8COow5ms+ZwzrZEdlXwXJpulR/XTW0PbWxWLkYZ1BGn0knUyHNzN999rUuK3s7q6QdC3b7Kkl+e7nN8PgfdGZpV4syI9753OPuiOUILYef26/Cy4CmFiLv5jFplv1WQcgXDDKTIgo=",
+  "URL": "https://github.com/agronholm/pythonfutures",
+  "LICENSE": "BSD",
+  "ARCH": "any",
+  "BUILDDATE": "1594131108",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "python2"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "FILENAME": "python2-bottle-0.12.18-2-any.pkg.tar.zst",
+  "NAME": "python2-bottle",
+  "BASE": "python-bottle",
+  "VERSION": "0.12.18-2",
+  "DESC": "A fast and simple micro-framework for small web-applications",
+  "CSIZE": "85484",
+  "ISIZE": "646983",
+  "MD5SUM": "213d162decb02540e9fa380202002c12",
+  "SHA256SUM": "0bc2072a8bc8a50f2f8951b1d733c21260c5dcb689630c218cb6428a1e0656e9",
+  "PGPSIG": "iQIzBAABCgAdFiEE4kC1fixGMLp2ji8m/BtUfI2BcsgFAl6ofZUACgkQ/BtUfI2BcsgQBBAAileBlgwEGYCr/ULtl8T6LZWJ+zCLVS1zjhVS5c1VBoKZCPKudSCZ/SJpp9axhJ1P/68D3JH2iiD5Rnk/ZB5KdL1FiPINK/BUMRIFUoivrHtY9rzdXaAhaaeOlO5hS57zCPR836Q1Sj79c0VU70+3P7Yvt2UN2zeIK/koATMsV0YUaertPXjexDKmX7vY+hk7/SwdcIoW/Yx6XJx/zmvMgOOTZ6FNBrv58Z4xRiNOqEqBF0TtdmbwWo2PvBzqJKsqW8ekQVEQWXaxE/8208tqx3Gv6CtuX0VUZ6KxMowWXSnUKLd15SlbqAnVq5TdO2PTg8woX/5yvz2WzmpvvSV3yL5Uf6qsAVfhxxT5pUbabf6gp7FvaCGIu+nwEHoatymVE2ivdNShbFpUq2vuhz3G1Wzs2BhSUx9n6OJ8f5urJPLuf8ZQ41DvHPaRFyc2ShYPRb5e4MwNrmly/yObqsdvQUOAMRkwB4AlCEBmw2GNS83URocNAPQiAxlRCwBPM3gYkRndOXLSfdvHGWrErY2icacFKVr/iXZxY1pbQqD+becYIYBd9QQZ+1MEaj9Td4fL2phq0wjtqssTJs216t+6lvoq2g42o6pC426EpSuBNQPy7LCOVy2qfixeihxEaU8kDa1QejYhIBpDSP3lYPdy+n3vm+k00i3gImwfpnW7rws=",
+  "URL": "https://bottlepy.org",
+  "LICENSE": "MIT",
+  "ARCH": "any",
+  "BUILDDATE": "1588100358",
+  "PACKAGER": "Levente Polyak <anthraxx@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "python2"
+  ]
+}

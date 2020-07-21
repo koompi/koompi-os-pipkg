@@ -1,0 +1,24 @@
+{
+  "FILENAME": "python-pyocr-0.7.2-3-any.pkg.tar.xz",
+  "NAME": "python-pyocr",
+  "BASE": "python-pyocr",
+  "VERSION": "0.7.2-3",
+  "DESC": "Python wrapper for Tesseract and Cuneiform",
+  "CSIZE": "38848",
+  "ISIZE": "201074",
+  "MD5SUM": "6785e64ce0fe91caddfdeb5acc9d9b32",
+  "SHA256SUM": "e7b87aeac109237e0e9abb0f566e41e884b2ec5296741e30a9d006fb05048992",
+  "PGPSIG": "iQEzBAABCAAdFiEEhs/8qRjPOvRxR1iAUeixSKmZnDQFAl2+A4sACgkQUeixSKmZnDR2lwf+LKprNmWUKtbprwxPO//CqViz+jra+dJ5Rd/6l2FSJTRAkxOkRMN9L+0822WGGh2ZqAvpAhiB13G51lzkyKqzB7uiqdvD8ZMjlqMW0NNLk9nh/LeqkKpi5CPK5NltyD9p7ns6M7BG97WyPx+B+W5qEhqv1wR9yqovyP6l+WYzVlUS2b/a2mAABZdsHeqY8PyFqg6UYwvEQqGEy1l13EiPDjd4w7lLp8epc1grKqjI27Dr4yuhhyGKpsMR6ck4Sz1hL/KydLQkLPaSHfa8qi9CV55I6oszE2qCOQNbjQpHmAh9wtEwABSjFge2VIDazczzdL/rOtg0rwxp8hX2c6FcVA==",
+  "URL": "https://gitlab.gnome.org/World/OpenPaperwork/pyocr",
+  "LICENSE": "GPL3",
+  "ARCH": "any",
+  "BUILDDATE": "1572733811",
+  "PACKAGER": "Evangelos Foutras <evangelos@foutrelis.com>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "python-pillow",
+    "python-six"
+  ]
+}

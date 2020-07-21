@@ -1,0 +1,23 @@
+{
+  "FILENAME": "haskell-knob-0.1.1-14-x86_64.pkg.tar.zst",
+  "NAME": "haskell-knob",
+  "BASE": "haskell-knob",
+  "VERSION": "0.1.1-14",
+  "DESC": "Memory-backed handles",
+  "CSIZE": "24362",
+  "ISIZE": "95463",
+  "MD5SUM": "3d4e51feb0d0a0e48106221a404bc2be",
+  "SHA256SUM": "b100f67c085b4ad7eefffc53564abc5468d9a3af0ad532de575dbffa70049c8b",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl6hhKAACgkQeGxj8zDXy5Lk0A/+MunKL42Wp6qyifKqIXCkyTF2TgA+NQ++jJgpXnu1b/IeqTjmgYYnO7S6++eaaFURU6XgmDTBhWgPA7k6YnXkeZb1wIlgZGMujcmO3MiDkEEJBta3/rp52UWuXF8b/QxZwZEMYDsfyXtVKBbjOVlg3sK/LC/IVso7Mf1uzlsMMORpZmtWTKd4wSfaWc3AzKNU9+topsxYtbhFz8hysYwZOxqvaFgEj5H6ZekiZNPVbXoXU3amodAi+bahoi1tAdNkm5U3VTC1TYUGVkg6Zx/PWtTd6T64qDVoVh1s6m+hNbEIDbmFwMwDCvdqCrY7QUbQS0yHE77P+7VCo1QgVAMSWC03ygTtKuJm0IE9p2gWA3uAL7Fw6HHILnGldq+KOaWs2G6qkaXJ9g+NWA/lFeVTahtyBMWySsW71dsQkl8jyN0j7RIMz65ekpdcD1eZajuyctQNWp41Qq2X1PnTk45xNpVZ3Q8oLd4/S5Sdtf806zk13k3/j1ir68qFpR6BDh0zRcnYl3VU+8KbB8u/moT+dzp7++DfO0PDqJEQ2Jx9OX5anpLB/4fT52WJozosic1utYvOR23WKIzZehzQvOk7yNWUEmwsbVPYe4welrUR8pLvRdJygq0R5MglLUk48T1c1HdQ2FfXXM2Vdcm7TJ7hIZxsJy/fk5kuQUfU+88j72Q=",
+  "URL": "https://john-millikin.com/software/knob",
+  "LICENSE": "MIT",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1587643465",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "ghc-libs"
+  ]
+}

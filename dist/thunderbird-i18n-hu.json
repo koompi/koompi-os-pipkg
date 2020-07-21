@@ -1,0 +1,23 @@
+{
+  "FILENAME": "thunderbird-i18n-hu-68.10.0-1-any.pkg.tar.zst",
+  "NAME": "thunderbird-i18n-hu",
+  "BASE": "thunderbird-i18n",
+  "VERSION": "68.10.0-1",
+  "DESC": "Hungarian language pack for Thunderbird",
+  "CSIZE": "555906",
+  "ISIZE": "618155",
+  "MD5SUM": "c32eeb353eb1b9e39ecea7c827b03a58",
+  "SHA256SUM": "418d648ba1324cb4d0bc7efdbee732aa4a9582ccfead76431f66fd45d668992e",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl78eGEACgkQeGxj8zDXy5ILlw//VU+rKZaDpL3voYkZBXWjd7qZA5dBGYK6bmWYJnUuzKjTcYhIAmEpc5M1T2FqPaHuCEAOluMyHmBlpn5hC0zcwQZbQitkYVA6EGck87nrtmHm4d0PXrnba0AHSdCdhGCbpxiR9B88imQTR7XOMIdeP1YtF5wVczos2Ka9MI8V/O5wSYAN746j2qRUy2vwHM20QI6CuiZzvXs6V4FZ6r80Bk+3Dg90oZRQXl725SLUeU9TLcq1GwZRO5nOKG7Yz35h/y/LIWgN+BV8/Ie6ZpKttuj+vO1zJ0TjXA+8c/A1e4go/PlVCSW6To4WTO0ku8iUeIVYkIKELo4DDBE+bH2PEO/hAPtNw3BrCJHum8UAbaMFJwOQTZpXRCO6Yekn6BceGD7qYvWIyQbLK9he5k/jKQe2ixUjlGEnDFhpiLmItm3iWmOs7xQ40gK375UgPE3/xrnRoXtBpZUOTR+Tn7SmZoUEZhpjUihZnQpsAHbgXdEv9YQYM23uRWSfElcBcOpWs9Eb5Qpc0FCm+SS4k4BvOS22+PiINN+sU5EbLjN1UXOXwE7hk3YXzjGQBsF9ggAGoPPyfCOSSdU/0lR0LWPBmn1CWt4RgO+0T8syDvW0sNmXdgd8DYUFMIYBNzsASkN/uK4RYyzYhSgGstPm0qj1MnajZ+nMNjEdBNJ+PAKqA3I=",
+  "URL": "https://www.mozilla.org/thunderbird",
+  "LICENSE": "MPL",
+  "ARCH": "any",
+  "BUILDDATE": "1593603702",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "thunderbird>=68.10.0"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "FILENAME": "emacs-muse-3.20-7-any.pkg.tar.zst",
+  "NAME": "emacs-muse",
+  "BASE": "emacs-muse",
+  "VERSION": "3.20-7",
+  "DESC": "Publishing environment for Emacs",
+  "CSIZE": "228406",
+  "ISIZE": "1048696",
+  "MD5SUM": "cebfae71d8f7663689d0bceea7600169",
+  "SHA256SUM": "419b0a7c9943f614ead69ee7c54fd2505be4ef5633ddc6abf96e81d157a6cfa3",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl8EmvgACgkQeGxj8zDXy5KV4xAAgnlhSpYcW/mMSzDd+hdvMqgSIkTtl9oGrvk6/jroaM20+kXYGnYb50z6o6AXZ8G6S/t3KDzJ/b+N0EonaNhHwgutrMisXMZpXtrUwxZ3W3seBIWI+92yB8WQ8zUoT9FM8zKVxd1yZr15eC9HkObmMQToo1RQWEEuV/Cg2rdQBork1BWyZtdSnsSdlwgw8Mne6qRfB+i8yCRtRW+EjNOxkw/w/DnypotJSQTHZh53fSlOVuCO7k5I2nUtq/I6C5o7Wjt5DdJzxY2AUpvHRCRLC+mKRNuxBq8uvIn1Iw1BrAjUxQmvvM+4aBpmq3tfhDnXB6lwPNsK0JhI8+Nor9qcstCLd449sJvR+7g5IjTHpaetKvB40eFSBMFDomXyl7/kH35UPN4LNd9x/23usDAwPpvffMIRagIYoSWV+uJrjcg4DeOQK2BDJV8ObPmirLL5c5M6MXbx3j9wAyyeaITCwo2CUlN1N4Xf7eDWZK6KQs5u6NMERNQ/HvnfoQXegc9M0P0fMf/zZljqYW6LRY0rC4f9xokEEZVhTY4bejSP3r94hj/rqWvk5bXCvMKpbnR9k73T70JytCXlI0m0ZGOAF8oSAje+phj2OpwbhEDCPSHSiyBFX8DGhM5410hO0gnMJfIF1uIXqgNZGDmDaXeZ8BHp8KMiyIA+6WPDk1ZuYW8=",
+  "URL": "https://www.gnu.org/software/emacs-muse/index.html",
+  "LICENSE": "GPL3",
+  "ARCH": "any",
+  "BUILDDATE": "1594137261",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "emacs"
+  ]
+}

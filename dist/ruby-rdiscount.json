@@ -1,0 +1,23 @@
+{
+  "FILENAME": "ruby-rdiscount-2.2.0.1-5-x86_64.pkg.tar.xz",
+  "NAME": "ruby-rdiscount",
+  "BASE": "ruby-rdiscount",
+  "VERSION": "2.2.0.1-5",
+  "DESC": "Fast Implementation of Gruber's Markdown in C",
+  "CSIZE": "69148",
+  "ISIZE": "290390",
+  "MD5SUM": "c8e62acc63b7f547ceafdf6397ed48bd",
+  "SHA256SUM": "4f9e7298815eb59e0b51f42f15e735b6e225695d873f986dd25efbe9352c52cc",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl4D/24ACgkQeGxj8zDXy5LmlhAAgmT/4+1xuzPUJjATCU8f9CbQY5zTxeZMoDUaLcCW6nwcKKbbN6FmsZCqylpWNteIe7UDc9qiOxr/28K1drvXJxooVwSfNcxAsTlyK6wHSctnsqRC+/w/h029GmOUMDZWJ5/dztPCcLOAx7NF5mQ1oPu/o/rkYEZJwxpXmwVTTyLyi/PBTwtXIlP6qJ15/mzrYZx76OeeySsCq4xDb4wvR2bAxwdBjO3uUug++UJCbX6fruv8awRWzAGJb0SC2hSCj7rjX3KRf4WCPZlV0GfqroemOCFhSds9ja+xhq/w9IWvOQmQFj7AdBYzYeS/0Y2qFHW0bgTUP0NF/Lo+B3yC3iiR3mCgsweHbh7KzqL+EkEFgE4GClscvCbIQnIYMspofr5Fg+/pMfPWhcTUgTu3/XS2hmi0v6xngSLsOZaTCJWshYZwvv5R13sJSlKhdSUhsr7cTNKxSO2cP5x5HjTD7Nv/MkJZ9fmZzjdeU0AJtkklxdmAL6ntkKU6py727RAEQzsu2441Fx1pGKNC2PoM3Oa/vYp1goKunA9NNlL5LRAFBJtk9zFUVzrhfMWtudGDv66vMMEMSASERJLZLyfMP15z7jdk1FtNgFnyEOvhkmAmEvJ1U8LM20xgfqtaub3Meo/shMF4UUOrUL+yKiuKDCbp7C7kyhIcE2udpwXwpVE=",
+  "URL": "https://dafoster.net/projects/rdiscount/",
+  "LICENSE": "BSD",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1577320262",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "ruby"
+  ]
+}

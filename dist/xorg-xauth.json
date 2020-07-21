@@ -1,0 +1,23 @@
+{
+  "FILENAME": "xorg-xauth-1.1-2-x86_64.pkg.tar.zst",
+  "NAME": "xorg-xauth",
+  "BASE": "xorg-xauth",
+  "VERSION": "1.1-2",
+  "DESC": "X.Org authorization settings program",
+  "CSIZE": "26141",
+  "ISIZE": "57195",
+  "MD5SUM": "294abc6ddabd10a5285a42385f2a745b",
+  "SHA256SUM": "3226703c0b8149914121b2a4954de0dd9b47025c2def1ff30192c86f4e64d2c4",
+  "PGPSIG": "iQEzBAABCAAdFiEEhs/8qRjPOvRxR1iAUeixSKmZnDQFAl6/wnMACgkQUeixSKmZnDQuYgf/XwDU4+u/MCOGBRTKG9PVoXbXcIHIcytgxhsNC9dVK5mqOfrwXKlNmMxukQhwzjM7DnmDpgYlUOts5qRM19SFUsMG98qEsW3D8YsovWrWeUgH5tywJbcMAGyTOkMkc1si5lShoHyw49kTGdaDBApagnSNq8pONq+r9pPY9BTJEMP/AkK3UMapUwT1hUPxv42SN/P17LPg9WhYgmRXXAPYiXN1Jzx7+7OwRLkoUeopZlANFxs980NeXWXbgOCTGP7M00VimGNKRMd34WJmE4c600V8jE+eWIbXXJbopXHB9h/tsrnUJx9Tqh2ttzhsT0fNMqdCOBFlmODL9ZrpAbsZZQ==",
+  "URL": "https://xorg.freedesktop.org/",
+  "LICENSE": "custom",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1589625437",
+  "PACKAGER": "Evangelos Foutras <evangelos@foutrelis.com>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "libxmu"
+  ]
+}

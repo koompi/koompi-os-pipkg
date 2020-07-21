@@ -1,0 +1,25 @@
+{
+  "FILENAME": "or1k-elf-gcc-10.1.0-1-x86_64.pkg.tar.zst",
+  "NAME": "or1k-elf-gcc",
+  "BASE": "or1k-elf-gcc",
+  "VERSION": "10.1.0-1",
+  "DESC": "The GNU Compiler Collection - cross compiler for OpenRISC 1000 (bare-metal) target",
+  "CSIZE": "16832509",
+  "ISIZE": "138777812",
+  "MD5SUM": "96251990a8ccc2f75692534fff8627d7",
+  "SHA256SUM": "d1f9ceb22003b2ae8f5a9c8769cd6bb7db7ebbf0058ae2ea2324d31437893572",
+  "PGPSIG": "iQIzBAABCAAdFiEE0jW0leqs33gyftiw+JPGdIFqqV0FAl7BwLEACgkQ+JPGdIFqqV12NBAAmST6Z7g1MPtMVB7Rg49OXUgb95zytswq4da0ZcpCSUYlVi+efTDyG5j0SOuann9nZP73mmezqGqNmU08DOVFhCix/TkqCBFkGdw930gdSBdSg/w3ebH5TSuvrJb+rObht/Oeyr8UqcGfpHyGxfy7Ljzjnny6+VVQE0NOF2Dp0IiMgXQMn2CZiE13Qbf/iKJ5iZYqZ56NwblUTqt1dzwqVRV52/wqBkvODQOkxk68uAMT+0ChQ7XlEuTfi3QP6ixAbHLYXXW4HPbIvARMRQ3KCAp6kILTT1yk0xxVrlSf8ZpKorW5CBGmGmlTDJTF9wWhdrsJVbGvy8jeYE7NsSnMDj1tdLims3CWNi4cj9KW7nVTXMzbmuzd/frcAOGi1brBtkl73Od7urtS3wF+xdpvwdadooU4jbtixT9ESQOsMj0wPmFpJc7dXWJ/V1U0Waw/BiynjgmtAM3CFOmYYBf69MamD1zFqZVT7hiZPbDFjatDZ50HB1tIfgVnkQYm661oHfCeTE+JUzEIfOvMTYDj6xNZAbj9fAacHK0Vn2JePvieDqy2jbn1rWtSPYBgNPrNT0QLJo8onoM63scVqldrvAKVF8ZASIJGjG1NFBr26rvdfLM1062fbVvBCnmbJSL+t4LjZcddq0A19sgookn17/0p6/wXnpJzrodJndlYQRI=",
+  "URL": "https://gcc.gnu.org/",
+  "LICENSE": "GPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1589755281",
+  "PACKAGER": "Filipe Laíns <lains@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "or1k-elf-binutils",
+    "zlib",
+    "libmpc"
+  ]
+}

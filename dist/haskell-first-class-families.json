@@ -1,0 +1,23 @@
+{
+  "FILENAME": "haskell-first-class-families-0.8.0.0-11-x86_64.pkg.tar.zst",
+  "NAME": "haskell-first-class-families",
+  "BASE": "haskell-first-class-families",
+  "VERSION": "0.8.0.0-11",
+  "DESC": "First class type families",
+  "CSIZE": "68272",
+  "ISIZE": "283843",
+  "MD5SUM": "6c965f6772d57244322419985f2641e0",
+  "SHA256SUM": "dc1779410a298fbf4e3c1048fdff4f9874ad94cb9eddf51f1506522ec21c27ff",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl75GLMACgkQeGxj8zDXy5LX1g/+Lj6dAGd5GYVxt0o1/28Ot7NkJ6Z/Ir15/tp6hbh9+3q5mh/G2bt0pp8dPycsUH6pLlUQUICNfVR8b+8Uea2BCM9WOR7oIdK785bJJEfFyBq4otQf94ANXQgJ69uvOVX4ReC+a5FOoCckCHNpX/guOcZGNF+7jVnRa1y5nWipaEA0+z0OWEl2Ve7Cp6juWu/kFnbrho+/B6p1OJ40QDQX77IcUJOmfZIwaBz4CKhUVh917QXiCbYyV6n37bB3a41/PRQYLihxib6cTdwycPmEQYyc4G5sXVWVRCGyC0WT/VC7Jx/z8GDICoTzoIhdX2cbB9NJtkDuhtkjPkSDkgdUqNrZtwPgmq46vAQzq/8per8b+D0Gd8y/h+og1gFXXKBWZK1b/NO1xLKuD/2s6Kwr3kT43AnoWpo7v6nwnwZ93QHq5BhHPLRnonVhuXgKFjimuB3gRgsAzfiwMYH8C7x0QFK9GCLS4J94twwMmFMwcb4XwYSpan/2BtCWRNhL4Vdb7ODQc4y76yZKOmUN5ImVLdwbkhCFT/m9NVzFiEsXRGdD3y2wW9yXAo+SE3VTNudwFrUx+TSwRssaCQn+CqiGFglq7zwAUWX1/FVPnuAqNBU4aXUK/WMoXvNSy1JXx2UoBCUsKIDKUlS7Xv5OiMXH72XzvCRhvsGHF6Nf6QPXFzQ=",
+  "URL": "https://github.com/Lysxia/first-class-families",
+  "LICENSE": "MIT",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1593383065",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "ghc-libs"
+  ]
+}

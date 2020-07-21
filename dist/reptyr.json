@@ -1,0 +1,23 @@
+{
+  "FILENAME": "reptyr-0.7.0-2-x86_64.pkg.tar.zst",
+  "NAME": "reptyr",
+  "BASE": "reptyr",
+  "VERSION": "0.7.0-2",
+  "DESC": "Utility for taking an existing running program and attaching it to a new terminal",
+  "CSIZE": "22899",
+  "ISIZE": "48624",
+  "MD5SUM": "35e1b9b94d2650395225d90d770a50ce",
+  "SHA256SUM": "96c0a1bf763cc39dff9985ae38a3b7dd186cccfe6f4b6ef1607f950029d5574f",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl8EqFUACgkQeGxj8zDXy5J5mg//Vqj9D82OrnBfilYRx4XCRqme8LbF/lKF2Dnl9pcMXfxTOTq7OXH1xHHSYDXOI8UHUFpweRqs3RZbhuXEAWlTjGLkfMa3iuWD+NATojDUhVnBwdLd3XGnTnjFFVnao0SWW/SIgDIKbO2/XxUXYG7DYqjO/Yvb8uTJcGY0lhqKXFIkBCkC/Fnwdal7E/0cmGBIexwkhZyKDg5hV+X/od8U1hWIngUXhSWzmydB4XQRmNc/16FyN5QUQkIOLv6c+Rley+AAuiiHg1/Kw+u19bBmWtTbsVk0zfJCa390uhDguvYaBKJeAGEvKGVp1B1YpiZTC7W7hJ684P6bQepRscVHr0ffn/P4JSq5zILPccQrT+5rds6t8mVo4F/cotiDjTuJMlXiocb8OrHkgyYm+0VyGTkEAfbqbeQtkCssGFyKwFSMSXFCKzPXQAtOaPBRZdVCK/CndjxzsJS/hioNzaZgaIa7nEKvLKSlqUBbI7ilAe4gh8YTQQ3vj5Pz8FXsB3RpVHxAyDW1ac5E+46DZXodOp+9O5OFEKKnM+iPLT5fKRjYe78OtQf6rnvrscuYqEywd0QtnFfrj9mjknr9HbJmnIJUFqme/5Z0myj3v6sBkOBxSgcnnV5x/K2d5AMHCv92ehkb9040ZCQv7RZ6asD1IYL43JZagPOecsWxwgKPQkI=",
+  "URL": "https://github.com/nelhage/reptyr",
+  "LICENSE": "BSD",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1594140685",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "glibc"
+  ]
+}

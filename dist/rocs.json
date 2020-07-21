@@ -1,0 +1,28 @@
+{
+  "FILENAME": "rocs-20.04.3-1-x86_64.pkg.tar.zst",
+  "NAME": "rocs",
+  "BASE": "rocs",
+  "VERSION": "20.04.3-1",
+  "DESC": "Graph Theory IDE",
+  "CSIZE": "1245276",
+  "ISIZE": "3473797",
+  "MD5SUM": "b5952c5453f32869f51f9dd866e64908",
+  "SHA256SUM": "663518d3b69358021f5f940191c7a4599ec48d70929465b0bd55154cb487eda5",
+  "PGPSIG": "iQEzBAABCAAdFiEEFRnVq6Zb9vwrc8dWek52CV2KUuQFAl8HBMEACgkQek52CV2KUuRvaAf/TRoZveU8tLK6vUA5wen2XS4xk/oITSPwN/jNhHKc+SK5Kyyy9s3nlVC/BEUpeQnQ+TRbWMxvL9IRHADI5a0bcsJ+VYI/pCZ9fhTssMUFojDgJLs5EFLt8ua1Xglm9TMyCCTPY8pKm4FtEuKoI6p4AbTrlzytAla6RPXfgbAhZnrOt7ECBqSpPP3z5i/6Tog1125VXNVF/Da9ful3gfRwFJhx+u5yHkoiCOsZ0vqmtZmfsXZMZcR7nvrZ7SWKGrwzk3CdvRlNml8NcHrVoD1AI5Elxd+/RzoPL5fJekOhNd6CcmOHF8DQBIpND4zy1xC1PerXLNnhvbvxQaVEE7mygQ==",
+  "URL": "https://kde.org/applications/education/rocs/",
+  "LICENSE": "GPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1594107725",
+  "PACKAGER": "Antonio Rojas <arojas@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "grantlee",
+    "ktexteditor",
+    "kdeclarative",
+    "qt5-xmlpatterns",
+    "qt5-script",
+    "hicolor-icon-theme"
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "FILENAME": "freemind-1.0.1-5-any.pkg.tar.zst",
+  "NAME": "freemind",
+  "BASE": "freemind",
+  "VERSION": "1.0.1-5",
+  "DESC": "A Java mindmapping tool",
+  "CSIZE": "25777956",
+  "ISIZE": "28364045",
+  "MD5SUM": "47428fb4713222e13d7f8147e80db9f3",
+  "SHA256SUM": "018f1913dd91f5f81edc43e2db71d8fec61c75db14c16ff4656fa840adf7bda2",
+  "PGPSIG": "iQEzBAABCAAdFiEEzgvecadZqH8j8PfYth284QkBwWMFAl74OBUACgkQth284QkBwWPsCQf+MtqqTLTJs24WTUDe+AuLxxs6Kv3bVpDmo1lVpLAEvLHMeseUSptS/EjmqAJDu8B9janqaP0VlXUkLxgMzBHVhtCdW1Z/zBYcN2e22cQgihOh9JRBVSq2sj76MQPLQLiLgY8+GwhOtk84Y+pBYGD5IVITq7B3dUnOcIVaMipuZeFZCVnxVBESZthzfJ6wlIA7Z+vL4BFaC9bP3oReid+HpgUY2V9shr6KhVhajB718yUBT6+dZh9CLuahK38zuzEDRWMSDCbgii4f1rW7jzysZYZk9KnrosjddYjytrbo2d4PYUa/x1kLITHhUnyZ6W8LlhzO7K3leMNiriibH1VIqA==",
+  "URL": "https://sourceforge.net/projects/freemind",
+  "LICENSE": "GPL",
+  "ARCH": "any",
+  "BUILDDATE": "1593325473",
+  "PACKAGER": "Balló György <ballogyor+arch@gmail.com>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "hicolor-icon-theme",
+    "java-runtime",
+    "libxtst"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "FILENAME": "riscv32-elf-binutils-2.34-2-x86_64.pkg.tar.zst",
+  "NAME": "riscv32-elf-binutils",
+  "BASE": "riscv32-elf-binutils",
+  "VERSION": "2.34-2",
+  "DESC": "A set of programs to assemble and manipulate binary and object files for the RISCV32 (bare-metal) target",
+  "CSIZE": "1854557",
+  "ISIZE": "15024005",
+  "MD5SUM": "e5e57e9ce13c85b23a3ca5f602eed3d4",
+  "SHA256SUM": "09f5fb7ff6170b457b09c1b494bda36e41b2081fded086a3febd45b0b50e4c35",
+  "PGPSIG": "iQIzBAABCAAdFiEE0jW0leqs33gyftiw+JPGdIFqqV0FAl5/gGsACgkQ+JPGdIFqqV0ACw/7B/hsNK3oMBMPB9On8+qPkhSpESxnfiMTLPaHGxUsfqbwgseIyIE/0+0qsUriciI9o9msTJq2bQndCdbFBGbssuGJ27bRUFDqVylZ36ufpPn/wF1JQHWCRcgecL+6C/L/HW/U6e0Xgn4gVwdbL45G2vo3LAJYxu6DaoQbPfJc7WipPyHBa+bqwwuAeC+PNtrRYsHs331xWvmoyhlm9q1Xbx/ydnYtGPitVfB1xojMxnWBt6i3+I2B5xKtj7rxXpqfYEs3QmZU04MPDlz08Mwu635w54DGrreWO8bXLADufV0o8TTyo40jH7A3ecPDqts+o+KcwAGWKC4dir0mBX+h4cUAV48punb142q19r9OQ5Hb6WNXwfvMpE6x1zsIZEXhuTMyR8s0EGXpCi3ukOcHsMjrm95eInZkLo8nogAMTWudBZtwSWB+A/qEx211QnOjElYH8MReGE4eu07AxkFMymPRaR3qvwscQZonb2/BELWA2RF1amq6KE1ytfP5w42QMWp6DxfD19TNHH4tQPHAZOoTFD1klSgKQA508CVDUgzzyK7U8HNpbRORIELkAvIXO97aiIYKMoEGNl6hiEBgXmOkVDMFO5U+syaImJS0wgcKm4+/+lyH/Trfa76g0sCuOxj7HTMAlWDnZ90GS0LBJDziJcTGfytWjCTHa4M/OOw=",
+  "URL": "https://www.gnu.org/software/binutils/",
+  "LICENSE": "GPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1585414145",
+  "PACKAGER": "Filipe Laíns <lains@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "zlib"
+  ]
+}

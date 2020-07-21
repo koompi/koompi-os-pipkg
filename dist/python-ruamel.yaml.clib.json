@@ -1,0 +1,23 @@
+{
+  "FILENAME": "python-ruamel.yaml.clib-0.2.0-1-x86_64.pkg.tar.zst",
+  "NAME": "python-ruamel.yaml.clib",
+  "BASE": "python-ruamel.yaml.clib",
+  "VERSION": "0.2.0-1",
+  "DESC": "C version of reader, parser and emitter for ruamel.yaml derived from libyaml",
+  "CSIZE": "152546",
+  "ISIZE": "405452",
+  "MD5SUM": "73a57e50f67838bfbfc2c5a65cea606f",
+  "SHA256SUM": "9f5a45c37e594522f0724ea69ce6e20bc47b7ba4080687fd91e46382d88df99d",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl5FfA8ACgkQeGxj8zDXy5KDWQ/+KemNr7IaectAaumVHTl27UZeSEKytWX/e3/ZfUyHxMfXscIv43IAQl7v6Sb2RMaygbVe12dpbA+2TP/UB564813ejHTNldLDtfrtRy8z34NSY8WtN/fvRE6qS4r3f9e95d/V786NDU7Db9bPC9kq+Z17jDXVwi3GIgisso664Xf/kT5neeA+j98lz2Qp9/f0WoPVUrwRLaiKcZ+1tWmOiD45dTTMWrrnccsfWpmzCy7erIEawJ8mQt6UxS9s6RZgWybU3DXjm2rTayZwa7XKvNpGDR6TclQ91NneF3qrMBlWdVwMVLBwSPEQ/RXzc0N4BgytOzaRgArmTeQbaKHR366aS5DkpaS1+FxciyAVCGFGqB9Z3go00m07NDBSPYPRY7ZLX5yIVC88Yn1c3NJzX6YJiqWorElLQvHfOKUQa7xukebkOrYSJ9PZ90bPK213rInjfWWUjTBwtOD6WKr1/JKlsTafPasRbba3E+OjLqd4Q7c2lDN7DkTOFJjSJoQgpABIDEsOYTT70Sfqm13mOwbwXZAh13Oax0T/xhSv1E3vrdAdxRIT1d2hwDarHWKZy2NmFmKbPwdZ/HRFDkWMq2FLay9qQGBYYkhB5EewncGPtI7vl5D402dI7orGdDtlquZSNHelPJOmH60t6ulY2NrEVP6efbwptT7KFpysaPo=",
+  "URL": "https://sourceforge.net/projects/ruamel-yaml-clib/",
+  "LICENSE": "MIT",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1581611974",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "python"
+  ]
+}

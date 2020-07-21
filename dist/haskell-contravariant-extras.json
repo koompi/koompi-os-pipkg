@@ -1,0 +1,25 @@
+{
+  "FILENAME": "haskell-contravariant-extras-0.3.5.1-4-x86_64.pkg.tar.zst",
+  "NAME": "haskell-contravariant-extras",
+  "BASE": "haskell-contravariant-extras",
+  "VERSION": "0.3.5.1-4",
+  "DESC": "Extras for the \"contravariant\" package",
+  "CSIZE": "93953",
+  "ISIZE": "957261",
+  "MD5SUM": "48c219e94297cb6c6e0043f654524131",
+  "SHA256SUM": "6c7a4eb2b4d84ff5d9c89414d78c332fbdefaa5ec87fdc2e9b23dcee74940800",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl6iF6QACgkQeGxj8zDXy5Khmw/8CO2dxA6N9qVepk0JiIDRR8tAjyv7yZkSEBv+XyPC22KFlaZTyqM3pIzSn2HbudSi94pLwCJYGOuVfAAihFuTk1FllMh5qa1P1pXss6WOAUyxGb13SOPNb5atEsu3/edDA/WBdTW/JXeq/Tqw8ONEPS1rho1+KHDRIEDFkS+3YTxU53DNzncj556tRF8UUa0t44Xp5cdkDYoOsRjtmj/MhUo0dB/irVnX8x33d4rX0OTS8iquWg/7WrtSbfBmlcO16m5Dt2BS5HyrKJgF7LCbVyA8UgNK5rnR6RHS9AZ/+sj3JpIiO6TiMXdMr38SMeGbXdO77or5VJ/THZnLrrNIzxy1uLuamycyapsOcVEGp8MPu+2/4XrSRp079QwvPz0Q9SqeUwVdOBi2Zp7WfOJo9HahJfwb0iXX1Ls6FIZVkBOEpJ8IO6RXciRxIvyH7vr6VqneMlpFDn+DExhWZxJNI6a/tsdwmO4aQB8xa6125EeRt+MFdCiA0I5FkRvTw+HaGjsYtfweBK/aeusE/Qe75sb8KY+bkjwBtw+ZQoLxnwpx+m+GfDle8JgDE09H57PpwcQm930Y4jIS5QB4QPxBgXWgV6e7MO7Lp8eNsne4d+CBQuUfQR0Md83f2fa8z4f9tiOyPoVMKSjTn1rO0unk7mV7FOoF8Jvopg3geTXMMgc=",
+  "URL": "https://github.com/nikita-volkov/contravariant-extras",
+  "LICENSE": "MIT",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1587681096",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "ghc-libs",
+    "haskell-contravariant",
+    "haskell-template-haskell-compat-v0208"
+  ]
+}

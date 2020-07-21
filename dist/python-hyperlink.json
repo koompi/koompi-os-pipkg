@@ -1,0 +1,23 @@
+{
+  "FILENAME": "python-hyperlink-19.0.0-6-any.pkg.tar.zst",
+  "NAME": "python-hyperlink",
+  "BASE": "python-hyperlink",
+  "VERSION": "19.0.0-6",
+  "DESC": "A featureful, correct URL for Python",
+  "CSIZE": "70039",
+  "ISIZE": "381658",
+  "MD5SUM": "6994f7b579c3764d6403742365c3337d",
+  "SHA256SUM": "0d1cbc3de2dd3fda25039ae3aa1822a4f3ed46965eed192376bfed59f35e8627",
+  "PGPSIG": "iQFIBAABCAAyFiEEZkWwqMcAXnjbHXhk+Z/+D+rpmb0FAl7TkcAUHGFsbGFuQGFyY2hsaW51eC5vcmcACgkQ+Z/+D+rpmb3B2Qf/fKsqFcL/obUnD3Emt642t06X/WTllmMUbYDn5ceAiW3H0WgE+GS8nCHaOEtHZoUESERr2+svPEJDoKTfSoexLM2AUpzYqQKKlHfkxTwpJDIJagBHmJZSIRoN+PdZSEBtFa9tQSACQllfKWv2vxqijP1n+k92mYBmePIgs/eyMnFy2XwA6Mk6G9hLQOmdCpMvil6ye2HrKvZHMFQqzmlTuoWhY2JOqa1LehKOKiMeE+25fFrirky2nQii3PM1cyzpGP/Lgi9eVTQqfsl65wuvl8OK5IDoGYILfgTsLiX75eHtI2o5CCs/WzMTBoWYDrdKlateU+7rLqyildFIkTIxeA==",
+  "URL": "https://github.com/python-hyper/hyperlink",
+  "LICENSE": "BSD",
+  "ARCH": "any",
+  "BUILDDATE": "1590923658",
+  "PACKAGER": "Allan McRae <allan@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "python-idna"
+  ]
+}

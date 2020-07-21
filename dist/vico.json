@@ -1,0 +1,31 @@
+{
+  "FILENAME": "vico-1.1-1-x86_64.pkg.tar.zst",
+  "NAME": "vico",
+  "BASE": "vico",
+  "VERSION": "1.1-1",
+  "DESC": "Minimalistic Midi sequencer intended to be used in parallel with other software",
+  "CSIZE": "1978733",
+  "ISIZE": "6349830",
+  "MD5SUM": "ddd1752c5a96c8b5857e98e79e54dc79",
+  "SHA256SUM": "b07ad2505c45a26714e4bdb808e4ac26ca5f32fe4ef690fa0f173b8442819081",
+  "PGPSIG": "iHUEABYIAB0WIQTH54SUZv4jWDQ1iDdyWHNLQcMVSQUCXpbcHwAKCRByWHNLQcMVSTEeAQDZn+LODTdsDiVzW8Khjt6pNO7e2Tenv7YIz4vywiWNfQD/T1UjJw86KE+mm0wwnc2kIxHFvj9mpkTwmfMKhxYeVwY=",
+  "URL": "https://www.laborejo.org/vico.git/",
+  "LICENSE": "GPL3",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1586944835",
+  "PACKAGER": "David Runge <dave@sleepmap.de>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "glibc",
+    "hicolor-icon-theme",
+    "python",
+    "python-pyqt5",
+    "ttf-dejavu",
+    "libglib-2.0.so=0-64",
+    "libjack.so=0-64",
+    "libsndfile.so=1-64",
+    "libuuid.so=1-64"
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "FILENAME": "kidletime-5.72.0-1-x86_64.pkg.tar.zst",
+  "NAME": "kidletime",
+  "BASE": "kidletime",
+  "VERSION": "5.72.0-1",
+  "DESC": "Monitoring user activity",
+  "CSIZE": "138081",
+  "ISIZE": "309181",
+  "MD5SUM": "4d91f89df1cd24e08f9c12c5924460a3",
+  "SHA256SUM": "433b86a0acde1932e2c307157b109d26b2ff3b7e7706bde34059dd01b268cf0b",
+  "PGPSIG": "iQEzBAABCAAdFiEEFRnVq6Zb9vwrc8dWek52CV2KUuQFAl8JYSMACgkQek52CV2KUuSbhAf+Ppe2oimRGp+MGYoBq31RfylFrMA0gWvV0PS5kUHV2L76xuYrrhVfbFl4oQPOlRpGWHsjPvpglpp+6/lj7KmUEL7n+dcNvzNEY93xowKuh2hwczjfED9tW1SeKilqFuayQv9jG2dT38FFNB4JR2q249RD2WsS3MNx8Xhy7wNutAA3SIMOxB4lxqWKIK1SanzNSI7hM2uW62klsP3yG2RSNny87FaXEKN2MAj+fw47KVVtb3Z8biKCNCiyJ++2tQd8h7DLzuKuGoZ1CCe4lebIPTcWmUMBhxgSdSGEVQGAI+FBEN04jPYACOLSY6bFYh3t7IB/0Cm6kdib3IHfbl61Mw==",
+  "URL": "https://community.kde.org/Frameworks",
+  "LICENSE": "LGPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1594202509",
+  "PACKAGER": "Antonio Rojas <arojas@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "qt5-x11extras",
+    "libxss"
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "FILENAME": "xsettingsd-1.0.0-3-x86_64.pkg.tar.zst",
+  "NAME": "xsettingsd",
+  "BASE": "xsettingsd",
+  "VERSION": "1.0.0-3",
+  "DESC": "Provides settings to X11 applications via the XSETTINGS specification",
+  "CSIZE": "27984",
+  "ISIZE": "80416",
+  "MD5SUM": "628af3054f21ebd822ff6100a20daab4",
+  "SHA256SUM": "fc9b2b3be89e39ca7fb436ad1829cc136bf7590226716bdd2e8595f87413a79e",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl8EoFUACgkQeGxj8zDXy5L4DRAAj1Mw96Zd0I9KNAmdgEy+to1bV4NZBfwNXiKHglfGoHSv6BHDwRA4TYj0Ctfksx95vEgj2/rgtMDTfz5bGt8B0KEvjbm4mV0+ATQBcatvarVwScsHbEiE9KqynJFU1OZVA2PFVj0rdPc37gDbXJqqIfy1UCFcitBas7A6xwO4hgPn/oFHpMCWYnwT5T7lcIiCEU6tl8LBkQ3d273TwsonSQt3pbRw95LKFRs90NaTeIsjOeB0HBkmQRaqIaAVqEZATisKYKEQWDtcd0ZawzHqasODSUvyDyUj46UDlarLfV5yw3FyoORc4prBR7Bg5XAEUgFGkOw6e1TbudO5W1vprKIL0i9lwtABE8nA2bUd4GoQsxH4UtOyKjdBu+jTlqzSkuwE7UAux2lMfSd1bJ50jtK+WTJpaCeIdd9R+N/fEOwsNIrlY8/84s8zTTvCJlrpshRJNyR6YAUvkmfje7oN7lDBt1nd3UWxvjLP7XJ7qQeXwH5jIBP0gfgFTmsR13o3eswLf7AnSdVSiWIvDy5H8yBeZfn+5SfAiA9l9BttWYKXVmGR5kvalIqtQ6zProjefC4ogBVNa2ydggRyP/rTD8P3Vv6gy1VhfzKydhIfttFu7T8j8moMpq62N5URd5BHdr56LMBnM59LDkThWXzvdkuOkJiIQd2mSiCWmCOtkgU=",
+  "URL": "https://github.com/derat/xsettingsd",
+  "LICENSE": "custom:BSD",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1594138403",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "libx11",
+    "gcc-libs"
+  ]
+}

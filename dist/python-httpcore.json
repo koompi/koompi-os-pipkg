@@ -1,0 +1,25 @@
+{
+  "FILENAME": "python-httpcore-0.9.1-3-any.pkg.tar.zst",
+  "NAME": "python-httpcore",
+  "BASE": "python-httpcore",
+  "VERSION": "0.9.1-3",
+  "DESC": "A minimal HTTP client",
+  "CSIZE": "53866",
+  "ISIZE": "364366",
+  "MD5SUM": "b7054864bc8321ee20b12c1911b3fdac",
+  "SHA256SUM": "b992544c05d04cb7ad9755175e0a1c28e7eac1ad64750bdd6a479b1e2942a5a6",
+  "PGPSIG": "iQJMBAABCgA2FiEEYEETBMCdNmKDQO7/zrFn77VyK9YFAl8E2VIYHGVzY2h3YXJ0ekBhcmNobGludXgub3JnAAoJEM6xZ++1civW8YkQAL/M+HJivK7a2H9ws27yJ/z6p2liU+Ty0zOIUFILizDjAvKuI4i2Pzf5rBVm9REYYS6pOPlv765j57AvXuGY1gwYWcw5XdKfT3jt+ICAuW57P5xVRECWTloAFmjVdv5LplSx5NZFPGaaQMzgZHq1NNvmd7Q2dAJwL4WsB6LX0u1BXPPz2pcloRvLrFgQv+Yio8Tx+WU7cBjJj6UJdivkCziUUi+tsiqSmLD9VODh/bxfisSvXLAYgIME0BvCMnOZAuRag0jCHESMbEfFa8+onLzFFovhOsGlbGH+V8wCItEEo2TQO/2oHSNuIZ7foieE7y6JVIVhkwD6geW6zLmSAUksYP11Za9lmjLJHRpSMOA47jwneZbYtX2NRNIEttnC/4UY00BPmrc4lJVkBjCikzj7qZdpv9nrKbKdeDlrRwOqgr6METW8EETYSEgPgGTxqhiJtIUeIzi0PZqYb+jFCn3fqcJK1oPG3mEg9OEs/Va6Y3oX0LB54DS4Kg/at7lCYhDZPTJ8iKRugtICmBasY0P3nRsm4VqTUzRuTwbk0XeMjgAx0oqVUvL+CbtC3P9cFS32JU/LFZDAEdwtnFtRc8XA4M1b+Mn5rpjYVKqKRsXUGdfTuieHmgvo/WIhzVxMYw+rA4475OXQu7qg6B1trELF5PuJM3U2i3AScGmLPLdr",
+  "URL": "https://github.com/encode/httpcore",
+  "LICENSE": "BSD",
+  "ARCH": "any",
+  "BUILDDATE": "1594152758",
+  "PACKAGER": "Eli Schwartz <eschwartz@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "python-h11",
+    "python-h2",
+    "python-sniffio"
+  ]
+}

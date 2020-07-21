@@ -1,0 +1,25 @@
+{
+  "FILENAME": "openmp-10.0.0-1-x86_64.pkg.tar.zst",
+  "NAME": "openmp",
+  "BASE": "openmp",
+  "VERSION": "10.0.0-1",
+  "DESC": "LLVM OpenMP Runtime Library",
+  "CSIZE": "368584",
+  "ISIZE": "1142095",
+  "MD5SUM": "1590e4a137a35d254a6ad53f69da04f0",
+  "SHA256SUM": "c114549b4c3416669a94fdc24d6ed1e0f9317dd9e67633928f51422dbc404f36",
+  "PGPSIG": "iQEzBAABCAAdFiEEhs/8qRjPOvRxR1iAUeixSKmZnDQFAl6RUvUACgkQUeixSKmZnDSiEQgAi5Xu2ku8dt96N5LGvCjTjfBeWPkX4hqnOAnItpUrveX0n52Nx/a0/NeMLqun/T0qs8NUPgiKcc+lgTwV8B8X6bzjPXERrLpl2SN2b0VsRGKoksKJ9C6MzAj2JJBy4NQCNm/KVx+hEAkDTqQ4MJ+7i7OWzgZz1PitxHVmSEembmdCouEkGeDAhFtDYPCQtXlVjp8op+hNkQgXpLYIEaS/mAafYIFS3AAn3ZUlJgzKNZzk5n16XyWUNl219Upabh6J2d+KGZ0cCeiHoeeN59+XKv6dJeZENZJ1psCYdUP0qUL/bO8WVvBFPZM4Q0CO3QBP9iIA/caI80zEv9xCkhK2zw==",
+  "URL": "https://openmp.llvm.org/",
+  "LICENSE": "custom:Apache 2.0 with LLVM Exception",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1586582194",
+  "PACKAGER": "Evangelos Foutras <evangelos@foutrelis.com>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "glibc",
+    "libelf",
+    "libffi"
+  ]
+}

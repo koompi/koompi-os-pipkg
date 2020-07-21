@@ -1,0 +1,24 @@
+{
+  "FILENAME": "repo-2.8-1-any.pkg.tar.zst",
+  "NAME": "repo",
+  "BASE": "repo",
+  "VERSION": "2.8-1",
+  "DESC": "The Multiple Git Repository Tool from the Android Open Source Project",
+  "CSIZE": "20881",
+  "ISIZE": "54527",
+  "MD5SUM": "a56af3785828419e77b470ec0096e427",
+  "SHA256SUM": "84ba551e82c7eb2543a50acd1099f4b6dddeb8eed18a32d7332e53b9d9bdfffa",
+  "PGPSIG": "iQIzBAABCAAdFiEE0jW0leqs33gyftiw+JPGdIFqqV0FAl7pWh8ACgkQ+JPGdIFqqV3D8Q//TWB1uC+Pm8bR2ur3ddglX2cm/q6Ez0V++weUk44wIIDpneS9AqSoYRpZnq1bvYIFLao+NI1QuZj8ZlWfvdOU6VRwmtaSOSqptXd039sdNaf2KhJ4+20Kba9ome3IAHYom8Dym80h4uw760kkgFuFXy97p91O5q49xDfnuNm+63EXE4ADx6/hRw/tqdxql1XRjBhSYDle6miDw3Pvlk0Z8sBOmJoG0Vz6iJjq2LWbcHEPayXLkSCGnjHjaOxrZ0FlvpX3dWHmDtNRQZ50gPwy6cquyQlGck1hPxUHDlYHWIoPcqadmVZQWiCSzC88IvC8MgmElyrjE37dw7J0ijXlgKcjf+eyUHkWo0Vb2rPzBzT5sOTyijZd+T+ktgjRhd6+cWatQkD8ZqABwP6GiBD+Y33e3/pdaVppWCYcrQDnLw8wpStFkO/U3WpkEDGRKUbInxrEsTs755AwKS/XGYbtKzau5DcSwWPxzyNunV9Jg/WMpq31xE6qRB3Lkme7MPb1I3Q+VxQ0fXnlpEDqnEfDKeYom+ngeuaiQ3sXpwvOtA6uIYLXw9ylAoNP7Er7kqZ8xUSSNN2cRDkGLWnZd+esjXUZq70Rs17IhFESZqL+cb/GOWfomcVfFklbp8giOsF802JFQaU79uXu1MeRNKNnCsl83b8okkA48nVUU4BlaAM=",
+  "URL": "https://android.googlesource.com/tools/repo",
+  "LICENSE": "APACHE",
+  "ARCH": "any",
+  "BUILDDATE": "1592350792",
+  "PACKAGER": "Filipe Laíns <lains@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "git",
+    "python"
+  ]
+}

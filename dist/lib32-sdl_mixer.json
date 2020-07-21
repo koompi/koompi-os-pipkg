@@ -1,0 +1,27 @@
+{
+  "FILENAME": "lib32-sdl_mixer-1.2.12-3-x86_64.pkg.tar.xz",
+  "NAME": "lib32-sdl_mixer",
+  "BASE": "lib32-sdl_mixer",
+  "VERSION": "1.2.12-3",
+  "DESC": "A simple multi-channel audio mixer",
+  "CSIZE": "67544",
+  "ISIZE": "185344",
+  "MD5SUM": "d07779224db997b0098d57597ad4e5da",
+  "SHA256SUM": "aa6b97579d886fdc960a385c7be8f5d8bc655a02c0d9980d53240f644fee0892",
+  "PGPSIG": "iQEzBAABCAAdFiEEhs/8qRjPOvRxR1iAUeixSKmZnDQFAlvmJdsACgkQUeixSKmZnDSMwggAhgRHY5vXJTsswoqR/OOQlSTcXshoWJzZKMcAeA0Z28BUSBxqCnjBxWptp6vUqMsHeuAiF2lK5rkG+eRvX4vs6mkPqHre2VDwqInkXor2COgqLh5B1uHZd5JiRSVgt88n4QxSK7ysQ1zH8X10Jn0MFdmps08mX+Kai3BTmnhNO4uauQtajukJ3/QFYymDItsatrEvfkX0yOZwEldkMYhEhBs2YbCJQrPSM/FKVYaQZ1GiMDapiAcqn7u7p2a+I5fc1O7khURummsjN0kvzyv/P+MxEvDN1zNkUWRhSTM/3rBOueKe30eO43VzG8KuZrwzz5NrGtTeVLO8NM0uZiZS9g==",
+  "URL": "https://www.libsdl.org/projects/SDL_mixer/",
+  "LICENSE": "custom",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1541809604",
+  "PACKAGER": "Evangelos Foutras <evangelos@foutrelis.com>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "lib32-libmikmod",
+    "lib32-libvorbis",
+    "lib32-sdl",
+    "lib32-smpeg",
+    "sdl_mixer"
+  ]
+}

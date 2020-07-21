@@ -1,0 +1,30 @@
+{
+  "FILENAME": "python-osprofiler-3.2.2-1-any.pkg.tar.zst",
+  "NAME": "python-osprofiler",
+  "BASE": "python-osprofiler",
+  "VERSION": "3.2.2-1",
+  "DESC": "OpenStack Profiler Library",
+  "CSIZE": "112476",
+  "ISIZE": "636515",
+  "MD5SUM": "a9100ea4dacc7a0e4e6a264b26ed6f4a",
+  "SHA256SUM": "bce1bd0d255b24f062e2e278b415015736d990f28f6e5d804351918149fd2324",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl76M9wACgkQeGxj8zDXy5IXLQ/9GQl4xy3gUgTjymEUF0JF6gB5RcTlmIAZ+mE+Of4dJ5JHLmSdDBosMhjhhh3J9xI7fajywBRgNg0kevZRJGTeQEZA0eRIFzos9lF6jZ+PdrLHFztCzn7KJXgHrJCvadjy/fFxYe1d+d3iGmF467CRBHajLn/A+skmQcPG55arYzd/DNheYP9TFYjg2yx5zmuvonI0vQEcRKXw1aITowrp/TARIPTUv5GJF76g/ZTw+VLBhu4Dwgk3Mq7ax6BJc4WmAoI4AvlFKoKFHAF6OwARLI6+VQLPUjGJhAHX36oOIOEPfvEfTyzWNV/PUJXkPn5eZnu0DELHxND0FNYr+KMcn6KMDfQRPOu7jVfR9blRr38L2/q07h+tsGKLbXoVYq+mMgXXro+zLM59kxVFshsXjNAc2bJjmPZflDRdzp+rghubG4WnPDdjW8CdQH6BW6Y0YhxIHK2tZUHX/FMpS1ZyGh2mI0ZqqPwsdCe8YDPxuG9NGv+EXRioeQNyAhUyQgpr7Gbq8VAARw49nt7jYh2Y+afmX7OQffP/QcE9Vn5wfqcPpFcS+hXSz/mM+wcoFt2gP5Jp+/OS/k2TDr1SwkrbdXah3JyYauRJP3UDZiZGDrncKmgHKH7BQtPBmmW9C3A8RnPxz5e6Oz0i80bZX8LLqd6w9aMTOcSVAsdmk6VeQ24=",
+  "URL": "https://docs.openstack.org/osprofiler/latest/",
+  "LICENSE": "Apache",
+  "ARCH": "any",
+  "BUILDDATE": "1593455528",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "python-netaddr",
+    "python-oslo-concurrency",
+    "python-oslo-serialization",
+    "python-oslo-utils",
+    "python-prettytable",
+    "python-requests",
+    "python-six",
+    "python-webob"
+  ]
+}

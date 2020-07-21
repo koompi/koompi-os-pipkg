@@ -1,0 +1,24 @@
+{
+  "FILENAME": "python-pyqtdatavisualization-5.15.0-1-x86_64.pkg.tar.zst",
+  "NAME": "python-pyqtdatavisualization",
+  "BASE": "pyqtdatavisualization",
+  "VERSION": "5.15.0-1",
+  "DESC": "Python bindings for QtDataVisualization",
+  "CSIZE": "152861",
+  "ISIZE": "965246",
+  "MD5SUM": "163f2d00d4bc809456a1f474e0a248ae",
+  "SHA256SUM": "a6991113169011ee7162442bc7dae5a0951dfe63c9d9ab36d327a84dbb45b720",
+  "PGPSIG": "iQEzBAABCAAdFiEEFRnVq6Zb9vwrc8dWek52CV2KUuQFAl7U6w0ACgkQek52CV2KUuTK4wgAgGd13kb1TezPwro6Z1DejpxKcWGXcKiuTIuP732awTclWgXDRbt8tnKBtOh1bnrdf4SSqz6pcITLvT8DHcXDhNFviWHsr+IiQLzzQDEKlbV5sY5Wd6U5z96RemNjWUxGj7eskzEj9DW7VhTSehbtOTf08xKvHa/Zy2MMdRq6I3OKEqanWh+Y+Ru18aePZjJeyaKjll+43uWYlku4DP1on0vtGQc7wdx/EN9Fr9W+A1yRE6zpXkRvkQUrjRfeWp8zRXVjoD915IeCqGAtqearZLO5C4FOZ36VENDkaVVM/06q+tLNGPxXdXXCeKGG9yAqtdIEg8NCIQ10iJfFEmJm1A==",
+  "URL": "https://www.riverbankcomputing.com/software/pyqtdatavisualization/intro",
+  "LICENSE": "GPL3",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1591011905",
+  "PACKAGER": "Antonio Rojas <arojas@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "qt5-datavis3d",
+    "python-pyqt5"
+  ]
+}

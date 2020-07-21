@@ -1,0 +1,23 @@
+{
+  "FILENAME": "glib-perl-1.329-4-x86_64.pkg.tar.zst",
+  "NAME": "glib-perl",
+  "BASE": "glib-perl",
+  "VERSION": "1.329-4",
+  "DESC": "Perl wrappers for glib 2.x, including GObject",
+  "CSIZE": "313686",
+  "ISIZE": "743781",
+  "MD5SUM": "8d9bc93d73ff54acacfcd92c628798c7",
+  "SHA256SUM": "7217686431f8e956309a943bed828b34d40864b9c21e7cf2778eccc6df57dc99",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl7vOacACgkQeGxj8zDXy5LLfw//cNY3dPSyqK2J/HV/T/pDz1LIZkA3PUj6PbLGB/Nzvz5KcI4Mj2/h5yVypGpavrgF2rtFSjtsZSkOJKgfaJJf8V+6Bne7Q7FQBanlH4GtyKv+M7LEvtPAWh9m8WEJh6NyY1yJSQARxg7aJc1X2UOiAVmlXNvdg0x2JaQSkc5F6dsSlX8v6/1jlc0iNhIVNsU0ru7y6jjaUUgqxcb/nPB22ZGZT5MC4Q+osTXakl+yPkyaG/n6dg7Y9QUjB6f91Wsh+kJhuhh6dVZFr/of0+spDb/IoGCeFPPOW4ZAHR/Nua2rxj4xVNRKM5BBMMNTib+fRULZs/sXDLLEm82uA2N3C+4SzxyWGOIjyaPWtFKVnYbbYJ7fjtG815Vtlu141EDFoU3LBPWpK/ReLAg8L3FdfaHFayBLvJLyTPsiTei14jy8X0hkr4dnZZzqma0fjb73bn0YX3Eqo5bcSOBeIQZcYlP6VJneZqWb1yKZhpK/P0N4/xK8CCfng+8dDUNAq9gw7BNZjXG2iPmRt3+kvd5ikUqYf8IXbBY5cC/v4e2TPuLFlINfe5eLjX2Ayh12nejkZIzwKMZTlGtkp5kauQ7vhi26dceMx6xKWcE54nF7NlA+5bbSQxGC5zl+Cs6iel9Pa1ky2QhbJLois6Ujzaq4FDwg8feEKzLyjuLejjfebGA=",
+  "URL": "http://gtk2-perl.sourceforge.net/",
+  "LICENSE": "LGPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1592735924",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "glib2"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "FILENAME": "ois-1.5-2-x86_64.pkg.tar.zst",
+  "NAME": "ois",
+  "BASE": "ois",
+  "VERSION": "1.5-2",
+  "DESC": "Object Oriented Input System",
+  "CSIZE": "65696",
+  "ISIZE": "209777",
+  "MD5SUM": "459bc882390749e3ed0f40e91577b83b",
+  "SHA256SUM": "54526dbb3d3330ffd6d8882a2bb7a7c6b793d9745ffa700994d78aefe0f7da81",
+  "PGPSIG": "iQIzBAABCAAdFiEEj8FaBklQqZ3RvRTdOeS4d+YuuRUFAl4rv2AACgkQOeS4d+YuuRXwzRAAk7g1fPRR4ZfhKyHMWrhIrT08oFXUg2Gsu+bUlXvU92AETy8Iruh2yWceSHhyhnjvUsiNXyCsSfHCITSjvCP/fEmSbltCCEjEmHN/UlQLuXJVHA/Q2rgfV57kLmpIHaOm3uAuWB/2gkdScSjlxnRFuIOORoY6XkhR3DMZmZ/XHQPc3SQAS02+AEZegEpGGjoBr0Rmx7rSuxAwzfdm4MbuVj1DJjq6K/oqthKoTnqHpAswGNs3xSQcTKVw63aTkBiSA55yjx8w0P7Nt/mQaWKaMV1yU1RL5G2dwQEiMaWy6273RFCFTQkFuD4U3uhtNE0qfCciPKTkrIgzwekLu4aYww6oCr1OeD8JxLU4kScvTixFLrtIa7LowUE4Snr1R05nekfc2uqd7BQd8sQWyyK+uoD/Tg2e3iDnEfS872tE80Lwc1O0WL4lAak9QqgAYxtY7F+LGAISjSWJVSw8GHon7Or/c4yM4VBsYAP0DLmPPKP4lnN5fvLI5cSMCQ+C1OVBIl6UvtGwX5Q0VaacaXnRwljAnly7sFXp5eIKKdoN0wfoAX2mGmrQxj7tdZNFsDJ3qmPh+QgB2Fo+Lf9xGcPTrCgOaSNjudt/sW2+//3WEDfVhNnZWAyqVcG6AN81icev3/abcF3DOi947Z+AluR8U36OJOpxGWcADLpqPqRYCAI=",
+  "URL": "https://github.com/wgois/OIS",
+  "LICENSE": "custom:zlib",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1579925321",
+  "PACKAGER": "Sven-Hendrik Haase <svenstaro@gmail.com>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    ""
+  ]
+}

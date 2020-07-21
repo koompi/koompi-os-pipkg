@@ -1,0 +1,29 @@
+{
+  "FILENAME": "gvm-libs-10.0.1-2-x86_64.pkg.tar.zst",
+  "NAME": "gvm-libs",
+  "BASE": "gvm-libs",
+  "VERSION": "10.0.1-2",
+  "DESC": "greenbone-vulnerability-manager libraries",
+  "CSIZE": "84873",
+  "ISIZE": "289102",
+  "MD5SUM": "e5b37ccb6aa1ccfd2a2149b6d22dfff9",
+  "SHA256SUM": "58094e576c99defae1abfa62dce846cad7e51a863f47b6108ef1a3633b3b2d40",
+  "PGPSIG": "iQEzBAABCAAdFiEEFRnVq6Zb9vwrc8dWek52CV2KUuQFAl40qfkACgkQek52CV2KUuQfIwf+M7noRxH6CWbjZonWOHuQNxAVJIuBSmfub+fnB+RqPfRco5EAOIXzbVC6KfK6Wa6SAITB578+lAO0NuiZvcJa1Ju0UZ/a39N+OdT4KjatQ2rnvFoRwVTjU9xLDZ0J6ODguAmq9OOyzN0b4f3wWS5sQtqCxFruQZuR9THvF3GVFn6GgBPBd6KWcxIhQuAGjKx2JGUHeSpq5xmY9U62E82AZRX+I6AYEG1WgnEpjwLiDmUkr0zBK6ec+ctoQl/wgL/pppl26oHViRCYfuhRJh9cLGHY7gbYiXn+S+qGg6yRXduDMFhcJC+N7JsF6Lj2hhY5VJs2+kEIVgXpEXF7IVRnlA==",
+  "URL": "https://github.com/greenbone/gvm-libs",
+  "LICENSE": "GPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1580509643",
+  "PACKAGER": "Antonio Rojas <arojas@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "gnutls",
+    "libpcap",
+    "gpgme",
+    "libssh",
+    "glib2",
+    "libldap",
+    "hiredis"
+  ]
+}

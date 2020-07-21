@@ -1,0 +1,24 @@
+{
+  "FILENAME": "php-xsl-7.4.8-2-x86_64.pkg.tar.zst",
+  "NAME": "php-xsl",
+  "BASE": "php",
+  "VERSION": "7.4.8-2",
+  "DESC": "xsl module for PHP",
+  "CSIZE": "12848",
+  "ISIZE": "34680",
+  "MD5SUM": "67710bedf1799d2ac01b2f61be9b3208",
+  "SHA256SUM": "8911d2d4bb695bee0e87d91c53eabb796061e9ec08bca20eda9805b7800afad5",
+  "PGPSIG": "iQEzBAABCAAdFiEESqR2e7ycSx0Yrii3fy1DS5dB6KwFAl8IPMUACgkQfy1DS5dB6KwdTQf+PfjLJL+58BxXkKN7meBeiUWBmDGTzIoqwRz1/UcygMAL78jEO3+kSYDzVp587feVMKvomzWA8qBOFcr1zXoukOWHJ9hWAUi9wOj5rYFfdbvO+aE9Kh1+4/gODXlz8FBH24k6UI2Wz1XF0R/7QUZJV/QxITj++zvujU8JZH/xfnzpXwnFHOCZAEgLvNYWkbztJcufFgYaalNWOT9mnes+YsAh+2AJlrkOwr5CtHvQ73o3MrGXNp/Ag229GDuyzNx7vVp1PNuY1YzpF22AUNiVut9bIcPmsPOFfgjUeib75c5dgAbAWkf1jTS4e2TsBgJcJmcnNUNwc9MFxA7GjM9+5w==",
+  "URL": "https://www.php.net/",
+  "LICENSE": "PHP",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1594375162",
+  "PACKAGER": "Pierre Schmitz <pierre@archlinux.de>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "php",
+    "libxslt"
+  ]
+}

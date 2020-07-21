@@ -1,0 +1,30 @@
+{
+  "FILENAME": "rygel-0.38.4-1-x86_64.pkg.tar.zst",
+  "NAME": "rygel",
+  "BASE": "rygel",
+  "VERSION": "0.38.4-1",
+  "DESC": "UPnP AV MediaServer and MediaRenderer that allows you to easily share audio, video and pictures, and control of media player on your home network",
+  "CSIZE": "1075164",
+  "ISIZE": "5325658",
+  "MD5SUM": "e71d3f5531451c75b1e5c25e9dea63cf",
+  "SHA256SUM": "de9c436087619567ad08136a04272bb79c046bc1ddd8c8a05fb6c19e4fce53b3",
+  "PGPSIG": "iIsEABYIADMWIQQGaHodnU+rCLUP2Ss7lKgOUKR3xwUCXv9pHRUcaGVmdGlnQGFyY2hsaW51eC5vcmcACgkQO5SoDlCkd8ddtgEA4075L5vQDZMZRBQPIRXgNR3J6tmX7p3vYlID91JERKoA+QEgeva2g4wDQH76fWn9rZN5DcUfSl6T7o7ftcXeUpQD",
+  "URL": "https://wiki.gnome.org/Projects/Rygel",
+  "LICENSE": "LGPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1593796611",
+  "PACKAGER": "Jan Alexander Steffens (heftig) <heftig@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "gupnp",
+    "gupnp-av",
+    "gupnp-dlna",
+    "libgee",
+    "gtk3",
+    "libunistring",
+    "tracker",
+    "libmediaart"
+  ]
+}

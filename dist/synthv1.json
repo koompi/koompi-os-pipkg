@@ -1,0 +1,26 @@
+{
+  "FILENAME": "synthv1-0.9.15-1-x86_64.pkg.tar.zst",
+  "NAME": "synthv1",
+  "BASE": "synthv1",
+  "VERSION": "0.9.15-1",
+  "DESC": "Old-school all-digital 4-oscillator subtractive polyphonic synthesizer with stereo fx",
+  "CSIZE": "419385",
+  "ISIZE": "2208853",
+  "MD5SUM": "49f02e059a2d5c3099af219240e1d143",
+  "SHA256SUM": "3bae6fbac285cfcf384ee6f2d9eb24fcd8e55973b6c399885b38895c0fc7e268",
+  "PGPSIG": "iHUEABYIAB0WIQTH54SUZv4jWDQ1iDdyWHNLQcMVSQUCXvG29AAKCRByWHNLQcMVSVw8AP9ncRo1dNzr0W3EL+HvFjQyYnEhwFpyT72SCrzW+ZZJZAEA3jxqSnPqlAgz/rE4PSEXsWUq/DBCm2Hxg3PargXAxwg=",
+  "URL": "https://synthv1.sourceforge.io/synthv1-index.html",
+  "LICENSE": "GPL2",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1592899061",
+  "PACKAGER": "David Runge <dvzrv@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "gcc-libs",
+    "glibc",
+    "hicolor-icon-theme",
+    "qt5-base"
+  ]
+}

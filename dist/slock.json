@@ -1,0 +1,24 @@
+{
+  "FILENAME": "slock-1.4-4-x86_64.pkg.tar.zst",
+  "NAME": "slock",
+  "BASE": "slock",
+  "VERSION": "1.4-4",
+  "DESC": "A simple screen locker for X",
+  "CSIZE": "8591",
+  "ISIZE": "20048",
+  "MD5SUM": "0e26878cc48494b9333d7e782d4feff3",
+  "SHA256SUM": "c4322fd9c040f38bdea1f59d3fd0fba5f2c4942b6850fec7eac79c7d67aec236",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl8EaooACgkQeGxj8zDXy5IYkA/9Gresd/Do+DPefMBjFwvZ6WVREzodFrAqSXrlWD08zjfUWxTxL+LzUdzM4BqR0+EVrFy1W5RYxCTujh2EnN+3vwifdGlDLw/gViAGS6CRS3z+XNWkXx9RAyR6BE6ENiWZVPw8ZSEjkYjrIyrESAVydpvQvxlrERuTd/LUigEXWmSTs6sL95YXI3I3fzseN3h63G90bP60YD43IuS/2xh6hX+0jtS1gQ1ZrsHdrWz4Vs7FtNVGrw7EcUM5u9D/aUUI0WvH7/JWfvWwlfwUm+k8YTCgHeC5Zq2w3lxN8FfNgNYJCUHdFYk2XFF1/mENIPMGj7doiwkP2a/fAFAPJaIPKH6pLz8PBmnNcFrgimHlhkaku2Lh2b0TB+b0V4o3yGdv9lsT3aT0XZezLNTjfCmwcMQVvT9GG8Z8fJclwR6tbPqBvBAkMkalmkNITDPn5WCiZblaAm3qVOJSuDwFEgk58Z0lO+glbwGXjcB+ksQU6ivPJMKJ09p2z3fkQmBYVlcpGL1UGrowxJnTgrZ1sNVO0XwjBGMte0M5WwqwFCgntUMEaw6xfqFIxBfioxh2wCaMFvrcZdcPHl3VcDFsQ08vhrnUCiPCo1JvwhAcD7OFsU4wRrC0CDaN8bhUEu4MyLkF+usKB8S7czqdjFFES/6qtHU3Mxi5TELT735jEmXLiNQ=",
+  "URL": "https://tools.suckless.org/slock",
+  "LICENSE": "MIT",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1594124903",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "libxext",
+    "libxrandr"
+  ]
+}

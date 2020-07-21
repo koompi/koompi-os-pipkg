@@ -1,0 +1,24 @@
+{
+  "FILENAME": "python-systemd-234-5-x86_64.pkg.tar.zst",
+  "NAME": "python-systemd",
+  "BASE": "python-systemd",
+  "VERSION": "234-5",
+  "DESC": "Python bindings for systemd",
+  "CSIZE": "51040",
+  "ISIZE": "260006",
+  "MD5SUM": "e13c138abf4a0b055f3ce6f0694f4a23",
+  "SHA256SUM": "9326f94f5b24fd56daec36d9f4b8dfb041e35c05ffebd3bcf1e39aa8dbc40683",
+  "PGPSIG": "iQEzBAABCAAdFiEEhs/8qRjPOvRxR1iAUeixSKmZnDQFAl6/v6IACgkQUeixSKmZnDSU3wf/RAB1ZTn1HPgMm/yI6LD4L/cb7KUYUDXf765J4cTNi8+VDdeZpUQfWO7s0bYz77CJ18GXqU6x/nCDnAIuGZzUHYjsyiE3GBtqE6bcIv64mVYhR6CM58Lu8xan8QzG5IKeGN22NjPqQ2mh3BU0/lKPGMxT1XfztcDHzGZEUDbGY2oRhQNx3SJ6SS13PVkoaW2tHrWXevXQYfDQ2WH/qlw+vbPXPKLUaly8+78PjDCQy4uELUO1v9bI1ihEtFxqBqy9z3p0KD4UixHUNiSKaX/fyImhtddUohbiMxxYQrFDjooEvcIewOMgzCrcDoHgesTTwOcoSOOaYSbtYb1R1lhRaA==",
+  "URL": "https://github.com/systemd/python-systemd",
+  "LICENSE": "LGPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1589624680",
+  "PACKAGER": "Evangelos Foutras <evangelos@foutrelis.com>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "python3",
+    "libsystemd"
+  ]
+}

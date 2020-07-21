@@ -1,0 +1,23 @@
+{
+  "FILENAME": "python2-wheel-0.34.2-2-any.pkg.tar.zst",
+  "NAME": "python2-wheel",
+  "BASE": "python-wheel",
+  "VERSION": "0.34.2-2",
+  "DESC": "A built-package format for Python",
+  "CSIZE": "46291",
+  "ISIZE": "200496",
+  "MD5SUM": "52cacdd25bd8dab66e2ed2c3bf75c54c",
+  "SHA256SUM": "7f86d02e5b93c989e1d00a17c8b50a9c7ed0c617e405844212f73520992c32e6",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl5FVOgACgkQeGxj8zDXy5KA0Q/7BzoyATwU9SSpw5wfyzAws08mRtnMIL0oOd6vaq7nrsG5Bp7hFcrAJzuvid/BFAf9MweUtRUUY5JsKIdUtxIQzAsSDq4eiBuiDo6DR6J2k9Joonx1a8bYoaIAN7V5GWOZatAGWDyQHOlMW10Zhi8L3kc4RwrBIgAzO74BnoviRhSU6TAxf8kGEVJUN6mBlqji2oVO62z2WKUQgBELLfbwznJnqiYR9iC+g/29L2MENlDAxD/rVsgbYUgO19dc6oRus4x18aDKCHIeMDX1ZAbKoaA7yW0ojrovn2nK8NuM1rE4zzkD6vdwz7MPjlnwp3J2LAvV/DySD/U8nAuoj6PI9dUCEcILcub3oMRwXyavVDPTawmvVFkLr+64vnouYnO9JdyIIVXHr5f3uO07k9kaAbsKU/02NFUks0r3i77hbiZSZOul8HPON+HqWeozDJvy9cHEZBczXL48Gn4kwONE2WrHbHpiCso/LhggBCx5AlV0jdseRHX+PkaJdRcYLR6G+65bwKc1xXA2diMSy05bzCgW6fREJZZSO/EjiUPX0qpvjkztDpo0uac0Dt/vPsL3yOrVLfY2cQRvV+yphLQD3O5CYWbLaczjE2L9n0PY0hbfHxtDBqmKgSdlGVDIyOV7OywwzJ4jCcqr6bgmFRgL0ne2h8OdnKRMS3vB1aLTiSo=",
+  "URL": "https://pypi.python.org/pypi/wheel",
+  "LICENSE": "MIT",
+  "ARCH": "any",
+  "BUILDDATE": "1581601924",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "python2"
+  ]
+}

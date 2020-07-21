@@ -1,0 +1,23 @@
+{
+  "FILENAME": "recode-3.7.6-2-x86_64.pkg.tar.zst",
+  "NAME": "recode",
+  "BASE": "recode",
+  "VERSION": "3.7.6-2",
+  "DESC": "Converts files between various character sets and usages",
+  "CSIZE": "439431",
+  "ISIZE": "1696350",
+  "MD5SUM": "d1fb9ff4ee642d157a471e21b44905b0",
+  "SHA256SUM": "00f3499be162694ff557a0cbfa76cbb64b139b058b4fb7c407e71395b9b45988",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl7Dk1YACgkQeGxj8zDXy5LULhAAsFm0DNEtUF1rEI4Rt8CYwQFfGqetMpj/ZZasXlvfbgfLhbH3jer/ncyfrBKhrvpFilVuUawt6YgoGv6VD19wPCedi8aXxRQiN/H09HpjCk46lxcj0U9HHVwhrZYrx1CzumUM10UA45qiW3uKnB8m73XciqXGgxZilvkoJD/j6h4+SkFsrz6CrPJIl3ue75nSgiKoKb3SQ4xBwNsfiJB75QTqEuSpC1n/8QxAiPSVYetS4UjcdQVr3lTTuJc1gR08TzTorUcmunBO+ENAHjD7OGBKDm8Cx4OrY27ElzSdxOhRYzMU8OpJwQnElt/rM7FkQ17IpUWLixlyT9NwQFc3uX6ZhNWFNqThXqOySF6CJlOFT51QzODxyspJ7NBWJR/iXWsQPjeloKdk+6w9woy5gyaU0Zl9p1ejmJy6XL/oOQRJUuSXNDIgRxOnWdFd3xb9K1vr77JdsU+ixpnSKL50uLi7HW3e9hZ156ceDK++Uh3w3GHtY5wN+G2D8/c/9XV6/zJs7xRZKKMJvpFSU0PCRYIBfK4oHMseDSAHY3RGAUuTjjckvuAtMjQYCjghwxeT1YTwKAZ+DOYSDMYHeuR6ESwhHxKWiuY0x3l1qpNuDNGPAoAWzl/zaWtefr8VthAKPsei127CEf9uzus+Kjc0DHFuWMHX9mdve4Mkzwt7HwI=",
+  "URL": "https://github.com/rrthomas/recode",
+  "LICENSE": "GPL3",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1589875490",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "glibc"
+  ]
+}

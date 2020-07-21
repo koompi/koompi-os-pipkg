@@ -1,0 +1,26 @@
+{
+  "FILENAME": "python-pycontracts-1.8.14-2-any.pkg.tar.zst",
+  "NAME": "python-pycontracts",
+  "BASE": "python-pycontracts",
+  "VERSION": "1.8.14-2",
+  "DESC": "Declare constraints on function parameters and return values",
+  "CSIZE": "145216",
+  "ISIZE": "744323",
+  "MD5SUM": "58f4fe2c52c054326a68da8438bf6426",
+  "SHA256SUM": "86c7a7241cca4b07d7b8a677d9f2e1ff87dae54bfe2a2d06065d9e8979431981",
+  "PGPSIG": "iQEzBAABCAAdFiEE5JnHn1PJalTlcv7hwGCGM3xQdz4FAl8K8GAACgkQwGCGM3xQdz4upAf/fr4aclQlAe0jHYDx4a/6nK+FgrPIGDRb8sxYEeZ7dfjfHyq47LlGI5FcYyvvfvkCKywx0xqoiEzSXnkFde44T4wsZ5Kyxe4e/NZPpid59htfQGV3b6A96KU723EfZkZk37iVRudHd6ohwWltNJjGR1FxakMgklLsNCVK++nJCaPB7KoDlpr59m7uk01PNTJ0D/GcLNZY6oA4HLN0994kNB94JCOzkV8NpZfr8M6k2sSwyUT7YKt7R/7dJH3YIDKGNfnhm8rFPJSJD+1417KcaJ1fS//K5njIdA/am3NWCi6kfezQ/iYAL3DmNqO56tSO3FwpGVwddUw2Yw4qS954LQ==",
+  "URL": "https://andreacensi.github.io/contracts",
+  "LICENSE": "GPL",
+  "ARCH": "any",
+  "BUILDDATE": "1594552258",
+  "PACKAGER": "Jelle van der Waa <jelle@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "python-pyparsing",
+    "python-decorator",
+    "python-six",
+    "python-future"
+  ]
+}

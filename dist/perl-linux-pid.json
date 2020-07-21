@@ -1,0 +1,23 @@
+{
+  "FILENAME": "perl-linux-pid-0.04-13-x86_64.pkg.tar.zst",
+  "NAME": "perl-linux-pid",
+  "BASE": "perl-linux-pid",
+  "VERSION": "0.04-13",
+  "DESC": "Interface to Linux getpp?id functions",
+  "CSIZE": "7635",
+  "ISIZE": "19111",
+  "MD5SUM": "0686eb71ff943539c76ba65dbffee885",
+  "SHA256SUM": "b405a6c2312880f84d6ecaebf336b3c9e8aec9dcbf439d4c3769f79f6c35410d",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl7viMgACgkQeGxj8zDXy5L0zA//XyL2fEBJVQSoyPa57VSW1YYoMhykofeXQ1Nl2EEGwwr8XZQka7pAgoMwmspYMeXNPaV2vCrq5TaCtWXYOjklAaMD6vlRO2HqwpH6fxcK2oNIQrhwk67qxLUOxAZJ6pOdvyBE5AObCsdUlPeQjec4yP49QRbNZGfyjR7NcaIAOJEt58NAn0H5Tgmq4QXwTIm0UbzJM8kU6zz9MvedpXXQcDhmcMHqJYmbvPbx0oF/0MsbAja52qOrgZ6I8/ybZUQXtZKsMx7V0jk7daGv71TBEFnQYeC9vXSWjdtvuaQBnZtnwwTMAjQ8LHRKTchJlgR/TjQwoz/dqMI7kt1NWimeHdiy9BCNQTckJvfkNqnZG6GIeOr+xCNh5Ph7PFImBsARh8Ie35Rwh1yHIyrvw4Xifh1M029AI0fctbM42ZXBdLP5RyZNT/EqtFXgvvEOxK4godyPglL5+8vx8PBW7z6Rz4BckiFO6djYSG8GRN3wt7VRtrgWQ5NLkhi5V82QixVzY3ZrjEiekcLgluIf/w2DGEewt4+RrB0Tc9wLEtNgXr3mspkjWsrf6FiYGTWfQjkXY7GAyWhXJ8S5OYobz2r+BPUggCKvz64q8jkqkn/+5BPboIxKlztJYxPrzCyolDpyEtmYcMXEhy8nug2r94JFsD1pUYjeiRDO6zli4XR4QHg=",
+  "URL": "https://search.cpan.org/dist/Linux-Pid",
+  "LICENSE": "PerlArtistic",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1592756400",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "perl"
+  ]
+}

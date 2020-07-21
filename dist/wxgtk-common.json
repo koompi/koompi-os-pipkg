@@ -1,0 +1,25 @@
+{
+  "FILENAME": "wxgtk-common-3.0.5.1-1-x86_64.pkg.tar.zst",
+  "NAME": "wxgtk-common",
+  "BASE": "wxgtk",
+  "VERSION": "3.0.5.1-1",
+  "DESC": "Common libraries and headers for wxgtk2 and wxgtk3",
+  "CSIZE": "2680823",
+  "ISIZE": "12376213",
+  "MD5SUM": "e247eb3ec51122a0b931d85a8d125b08",
+  "SHA256SUM": "666d4065583428699904a1288599d441ee62545915c10f559474099b114a26cf",
+  "PGPSIG": "iQEzBAABCAAdFiEEFRnVq6Zb9vwrc8dWek52CV2KUuQFAl63sjQACgkQek52CV2KUuQ+kQf9FVUj0WYgfEwIIWRT1pSq3C1eUyd3JezAlIMw2CxOq84vY7tugDTJilSAmzTDHywwFphzogyrmLEWewNCql943jzkQYZ5OCZ90L1N4zVGEqsfxWBlcRZhy4iB+MhQ4JExtIYy+VAyfpahEgygu4OyuIRlJ9rBGu12Nchcc9mfIsA71yIjqHTRlP/2yq78mElcmA4yY3qB4GlUeHRqDbPi9Vmhhn2Ik4Do0DdxlTY/UcGJwalmtZm3sRZmhmjggD3IR2IdFVFMyuPkS9JqxQSpg/1K3bfzvKsARXcRWxkr4SZJwwnYI2DiG2bEw09kf8A4eAcp4Rpo+LKs2p8CiCV+QQ==",
+  "URL": "https://wxwidgets.org",
+  "LICENSE": "custom:wxWindows",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1589096095",
+  "PACKAGER": "Antonio Rojas <arojas@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "zlib",
+    "gcc-libs",
+    "expat"
+  ]
+}

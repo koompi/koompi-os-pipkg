@@ -1,0 +1,23 @@
+{
+  "FILENAME": "meshbird-2.3-4-x86_64.pkg.tar.zst",
+  "NAME": "meshbird",
+  "BASE": "meshbird",
+  "VERSION": "2.3-4",
+  "DESC": "Distributed private networking",
+  "CSIZE": "1595857",
+  "ISIZE": "5324757",
+  "MD5SUM": "788957f33b4a578e8ac2c86f582b22f5",
+  "SHA256SUM": "25edb4386346d0649473ff266212e128852f93f7a2776f4313b2b0116d0ffd64",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl71plwACgkQeGxj8zDXy5JMbA//SAirMZvSN3EpVaQu1VmwuBjAUgApAStqBlxpO88ahvxvLloZ32ELyN2hT/HVvqwZ8AjlTFTj1Wab9hhOgkLHZvuDMH2xe7ypI5on3RmLEnQcE3iogpPhWhDb8ELqY/JckDzGdYRfAPt4SJtic1K+onkLvkEBuVzk2z53zl4DY5y5/wY9ZOO8OWLFZ3l4sdWziP19h4b9ldSOqA7mhZSaOXmelt010/8lIRV4Rc739e2xLjcF6fO0lRIbkR0yu23nCmwgs5zM08tS9cmTivT4+LwvdhnmO65CVDqpIuHNQXNbmNNn34OeKz7ddC2gZ/fnMWF0wxAIyD0OZ+EDXoYZHluIL/9JTxYuqaTRoYUONnLI10h31qVYR3jHq+7wWzGCQOUtV7gWsh9At4igSVYGRy13R7yK6nJCi8pqs5Z4omwswPUKeNDgBHvsSqAyI6eYFjBEQ1JrJe18XpZta9Jy4cwJaR/AwOLZsUTfYchXA+pIeI3//wwcIcYSwnSE4YADAQ0+YkWmoEvXYIdK8ZN/BbE5uBVXUxF5DYMbDrRwN+Dy9LXg4+rSsvR3bTjT+jPc3hy98uhczIu4xjM2/AlL9jn0OtWnzPQ4q1lQsVFm8stSxJUgoBUN3ULyHnC1LHMGMSvHZLPyD0SalMTJhPZLspURrBkXCZ/f6EO336FMv7I=",
+  "URL": "https://github.com/meshbird/meshbird",
+  "LICENSE": "Apache",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1593157134",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "glibc"
+  ]
+}

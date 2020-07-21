@@ -1,0 +1,26 @@
+{
+  "FILENAME": "lib32-harfbuzz-icu-2.6.8-2-x86_64.pkg.tar.zst",
+  "NAME": "lib32-harfbuzz-icu",
+  "BASE": "lib32-harfbuzz",
+  "VERSION": "2.6.8-2",
+  "DESC": "OpenType text shaping engine (32-bit) (ICU integration)",
+  "CSIZE": "7761",
+  "ISIZE": "15562",
+  "MD5SUM": "efb04f8756d879b1fc5e6c44917cded6",
+  "SHA256SUM": "572cccf3de5a666f0d28519602a17b1052e8bd3351f748d0e09407009b18cf37",
+  "PGPSIG": "iIsEABYIADMWIQQGaHodnU+rCLUP2Ss7lKgOUKR3xwUCXv4R3xUcaGVmdGlnQGFyY2hsaW51eC5vcmcACgkQO5SoDlCkd8eTvwEAynXy/9rnJBG1CCstUeSBgNrWOgQZN6sFDVgDIZFRIz8BALhjPn77LSqTpXiz7wpESDyiAM+ZzoNT+dfjBLGoEisO",
+  "URL": "https://www.freedesktop.org/wiki/Software/HarfBuzz",
+  "LICENSE": "MIT",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1593708712",
+  "PACKAGER": "Jan Alexander Steffens (heftig) <heftig@archlinux.org>",
+  "PROVIDES": [
+    "libharfbuzz-icu.so=0-32"
+  ],
+  "DEPENDS": [
+    "lib32-harfbuzz=2.6.8-2",
+    "lib32-icu",
+    "libharfbuzz.so=0-32",
+    "harfbuzz-icu"
+  ]
+}

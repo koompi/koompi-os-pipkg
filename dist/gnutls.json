@@ -1,0 +1,31 @@
+{
+  "FILENAME": "gnutls-3.6.14-2-x86_64.pkg.tar.zst",
+  "NAME": "gnutls",
+  "BASE": "gnutls",
+  "VERSION": "3.6.14-2",
+  "DESC": "A library which provides a secure layer over a reliable transport layer",
+  "CSIZE": "2849306",
+  "ISIZE": "6849980",
+  "MD5SUM": "82a5291c82d24a5f1fcf159b2496c9e9",
+  "SHA256SUM": "c67c81699cc751aae0a3b11f8cf50bb26e44a2d9c9f077d128ede7c6abc30f6d",
+  "PGPSIG": "iQEzBAABCAAdFiEErcih/MFeAdRTEEGelGV6sg8qCSsFAl7y398ACgkQlGV6sg8qCSuetwf+JmXOIargZxIm9B3TonC3qsZVO/eQ0JPSuHLc/di/6+cnmVw9lgFNr4BlW2TcyyAtI4227iAF2P4/zhcJS95SG/joVu+bx2V9VDT5vUjTqNOcBi8ix1XbZPrjxOoHsig3dZFIbxm6cIJRNm9byOThFIa1MN7I9i+83R13LwiAcgV27QyquvUOjVjOfYtNr/sl/BAyERa/NfTjvzadS0v5QZrxlo2nAKZNFVdFBeXmJuXqa4N2es9ekCark/rD5WxkFCb8zZNqZ346EpmwAlXB2z4+IyDUz09Qmt9FtXupU6RTkoQqAsgfVIWFNhttDSTzwBRwazCAIF4vOLhhurIO0w==",
+  "URL": "https://www.gnutls.org/",
+  "LICENSE": "GPL3",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1592972806",
+  "PACKAGER": "Andreas Radke <andyrtr@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "gcc-libs",
+    "libtasn1",
+    "readline",
+    "zlib",
+    "nettle",
+    "p11-kit",
+    "libidn2",
+    "libidn2.so=0-64",
+    "libunistring"
+  ]
+}

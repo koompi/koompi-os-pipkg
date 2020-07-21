@@ -1,0 +1,23 @@
+{
+  "FILENAME": "libeatmydata-105.r16.g96f8f0e-2-x86_64.pkg.tar.zst",
+  "NAME": "libeatmydata",
+  "BASE": "libeatmydata",
+  "VERSION": "105.r16.g96f8f0e-2",
+  "DESC": "Library and utilities designed to disable fsync and friends.",
+  "CSIZE": "5868",
+  "ISIZE": "17465",
+  "MD5SUM": "2c2bca905d6e07d33e7b365a8f3ae551",
+  "SHA256SUM": "3cbd2ea0ca3ec8aec50f59da3f486fef8ed169118b353178feffc3cd45ffef98",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl8En48ACgkQeGxj8zDXy5LdxQ/+PhXOb2kde6mlgrfsUvgARkVZ0oo37MX63HXe2F3NJouGBR5xCiradoiEaM5nVAzEArp2qr0FP1F8NJsIRZUHJ5lGRM8drVkfY1kUz5ILij6IEHY+VGl17NLOF5ATer1G9+G00zcOOWXX6CYcXERtDg06PEOK6HoC/E/bCmSMQ6kJQs+uhKxk03ERfkQsrAjhGYtOo+teQFQ9PIR0kg/oojHjbs5SzecTQ3rtijodIE9R+irgI2VrNeWD1Fm/8QEcFdLlzXg70rfRjBLJpebJQdo8fha3Avi9XDv116I+PF8L4KnGml/fOUq+wExjQajYMMyImBY7+crV2o1Z0ZXvJNqWDpFfDUlS3HhDb+D0EzQPMH1Cvyc5ABPTJkKyP9ZMxJDBPr+x8Z87LSLBz4iPQFer5OrR9zehfrfb2KSwcKlNFL/Tz1NCIuC6UEIZSnaahQdz6ooRPxwuO+6zLuqD/ajfDe5Pk9uMkj1kVAEuPFY7yKqKsjJdvrgr/qd/6O/1IuWbBzYvXHUKHqV8JpiV1WUESey89poWdixEm6k2BdWzXk0jUI6S/hNULodD2ercD30oDKH3RjHlzPCJHN4Ym7/3p9vvB3zLtcwwa33KuJ08NguH50zDHT/bfedfhEZW4kKXxzM/xboLl5mdoer/sH9Qj9Gr7bbROOEs2X3LE/A=",
+  "URL": "https://github.com/stewartsmith/libeatmydata",
+  "LICENSE": "GPL3",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1594138421",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "bash"
+  ]
+}

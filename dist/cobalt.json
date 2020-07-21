@@ -1,0 +1,24 @@
+{
+  "FILENAME": "cobalt-0.15.11-1-x86_64.pkg.tar.zst",
+  "NAME": "cobalt",
+  "BASE": "cobalt",
+  "VERSION": "0.15.11-1",
+  "DESC": "Static site generator written in Rust",
+  "CSIZE": "2546980",
+  "ISIZE": "9082621",
+  "MD5SUM": "a483e3f50fb66df1ee36920638fa095a",
+  "SHA256SUM": "d07185717c33376a6e59c373dad362faf5d776ae3ada23a2013eab676ab6fe41",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl5usO0ACgkQeGxj8zDXy5LRWQ/7Bc2CSxQEDDC3HKbC1uRc1j9DpRmWL56maVYQlwiB6rK7CcFA7J9ttVzCV2tysGByZFtb/q2xEQjg24ld6M6JMLQbzviAlEaO3FsjyMkr4uDUxHKERegdjGr2jgLdrdHaaW2O4nuhJdr7FvFUCw5cCtEVBI08EsOq4pmGkBsLHQRaKQ806ANFZK29/DqAoErYzOYSqSAvT1o8Q4RvAIgz+3W684J30+sGYd8/OMd8u3eEbOPIk4liXN/AZEChrvIQ0KQVTImq0BkKeT5JRMFYNlwQvSBriYYnIW/eaptOP7kzIkPoXzN0CuWhvVWOPwWvLvk06jYT/DW0Kddetg/0cTrqKcQi73O5XfyRXUtb1RQQHn29boQ5VmZHUzbY1oxiU6slUorNpF2Rw+qdfgemurjGkjM27zbtabO21jRahv9LYdvTqZW9zYFEGcsmvK4Wxt2rxks0fEESaDKVs0xs0cfX/DtVp3j7cF/QTh6lSveW31o6JBgpPq8lYR1OtEIydqqnFjRxThCvh9TLF/n3udYIGfB+5SEn/BemffgN66kAfQmPzsz1XIc+hU5ohYtD3JkHsK5okItCKvV3LGPQ9AKHZ0BNrraWxMq+jFzDREAgcbk5bWWdg5v0axxr0aMZ67p0YoqEaU6BZ2OZsQF7XXom+qskXrdQLyaEch5i4uc=",
+  "URL": "https://cobalt-org.github.io/",
+  "LICENSE": "MIT",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1584312189",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "openssl",
+    "libsass"
+  ]
+}

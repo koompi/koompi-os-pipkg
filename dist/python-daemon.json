@@ -1,0 +1,25 @@
+{
+  "FILENAME": "python-daemon-2.2.4-4-any.pkg.tar.zst",
+  "NAME": "python-daemon",
+  "BASE": "python-daemon",
+  "VERSION": "2.2.4-4",
+  "DESC": "Library to implement a well-behaved Unix daemon process",
+  "CSIZE": "42430",
+  "ISIZE": "203683",
+  "MD5SUM": "989a9e5b25ae2ad7094ec01fde2a4b8f",
+  "SHA256SUM": "bd9302730e77c56b1e8b99d403ef251cd9f237ab29fdad318ae1a744f3e5cbff",
+  "PGPSIG": "iQEzBAABCAAdFiEE5JnHn1PJalTlcv7hwGCGM3xQdz4FAl61ppAACgkQwGCGM3xQdz5JDAgArU5wtiw4YzcCFFs95z4ORTNvP56LqM/crs4QT6qIaY4Wy043BX2QzkGLnWWzLedeQovZYBVb1XitZHvF5vnz4sZlvFjImH6Fl8A/jgCbvzM76qdmbxhQsCXQgsy377cxZfE1SvCZxL8/5qCqIx7de22yGFdzrkA8cupqmiLPVsyKKqC61m++oDjJ6b9s6DbdA56iuUCKVr7+A3ZDXCkt7+i/8bHTCfYmarmgzIE4uXXnWjKcxjvqureWQ8hEet81jzKVskVxDQvXbeSenjKEwyiMCn1HjB8ziGHKEdbhCaX/hZy9xsq3MV9c5HQGPm9haBhi8jj4DyoV9L2FnL6o/g==",
+  "URL": "https://pypi.python.org/pypi/python-daemon",
+  "LICENSE": "Apache",
+  "ARCH": "any",
+  "BUILDDATE": "1588962616",
+  "PACKAGER": "Jelle van der Waa <jelle@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "python",
+    "python-lockfile",
+    "python-docutils"
+  ]
+}

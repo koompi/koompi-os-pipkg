@@ -1,0 +1,31 @@
+{
+  "FILENAME": "haskell-doctemplates-0.8.2-19-x86_64.pkg.tar.zst",
+  "NAME": "haskell-doctemplates",
+  "BASE": "haskell-doctemplates",
+  "VERSION": "0.8.2-19",
+  "DESC": "Pandoc-style document templates",
+  "CSIZE": "222633",
+  "ISIZE": "1466192",
+  "MD5SUM": "ead0479ad05ce10c6166b60b1957611b",
+  "SHA256SUM": "8f2e79609ba109b10a5ee6b94b3da284a45678a9e73c7e2bccfcb2cf3bab22f6",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl75mLcACgkQeGxj8zDXy5JiGRAAtTGYWWdxByqm0hGY+3cHofwe62kRqc7p+0cAqKtrI/Gs907/XY69xfVJZlM/93iA3m/ApIVYxntC/6yr1T9+ktA6OPEJwdZZpYUYCZukrsWV2eiT74nHVV7SOuwL2KZl6ZrAvHFL104KIW2GNrMcnYF19Ff706+pbAkNTdgUiZbX3w8GUq+/wdEPWRgveG7ocgEythnn3bu5ZHNmZBmlVnfDgP1Sk5nf+zOPuS/UajywnBN9ATJKPjhC1kzCV5fOBtGRNpmqGqquHpYxZlw2AjWN5FZPLpvx8PYGyoJPC50AOV1AnT6ZARfkSx4vsR5d2JJYydmKunHoV7twxjF0D+2m/Ux+VKwBoI2xKiP9z6XncC//Wd1uZ7a/N4qJpxnKNkwkWyE614kZ3FDjpvjA9etWLwICxG26em4WmrXYriU7bFxy1y9vKiSQvzjrfq0s5QEUtNS31U9zjhTRQcmm98CmqqWd8MdqDUThwS6BHA46CVLPeuL7HCvy/iGfRDGdDd99EWAUO/sG7Bepo97RRX24uI2k4L1E80IYyUn+RlBEQke0InXbfR/rXejBVKULgwvsimSlzKkaZKFNPwpVz92/DmlA4cFf34wBs4YPMGKJc+hPmHg2wZLCrUfgwMq2lFM3eHB0eEdwThy3bPiuNbYBs64ckiVhzjHpxCbEXSc=",
+  "URL": "https://github.com/jgm/doctemplates",
+  "LICENSE": "BSD",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1593415817",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "ghc-libs",
+    "haskell-aeson",
+    "haskell-doclayout",
+    "haskell-hsyaml",
+    "haskell-safe",
+    "haskell-scientific",
+    "haskell-text-conversions",
+    "haskell-unordered-containers",
+    "haskell-vector"
+  ]
+}

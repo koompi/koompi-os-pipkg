@@ -1,0 +1,23 @@
+{
+  "FILENAME": "haskell-fingertree-0.1.4.2-40-x86_64.pkg.tar.zst",
+  "NAME": "haskell-fingertree",
+  "BASE": "haskell-fingertree",
+  "VERSION": "0.1.4.2-40",
+  "DESC": "Generic finger-tree structure, with example instances",
+  "CSIZE": "157607",
+  "ISIZE": "1058482",
+  "MD5SUM": "aca262c0285a7c32804d3023a5c2c168",
+  "SHA256SUM": "d56760250a8f2fae4f66aadb5683fb3576af23bb3ebdcb9755fdc9cf321c8d6b",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl75BwgACgkQeGxj8zDXy5LmNhAAjkFlgjfLQLYWh6eTA3h55CaYpesorW784Z3bfIzycvvXzeDhbbPq19TDqaCj+TXiSMZZgtMVt+oPraHByfQ0v+qKi+I7v50GDn6+1D8EKDXuYstpI2FNNRIsjjObzSPoOjUk6/NIAXrlBAZsQViByeIQyWkBeBtYBX6ZME32SpaG/FiH7rrClC0eN+vs4Kwzf+OEcz5CjKBG0cxcx7pNmcEuLBJ4x5qr/45HA8kYz70Bak1H2z6g3HbLhEWWWtaztegfvtoAaqLGxyxTb0bFrWvOFYrsKHL4qI0TR5pyYBQMhOx2HrUJT7EPBzsmNAnQsZ8mdNhFSww50EFNdzhE2ys2c22hxzjCCeXn6vlIdyPUvfooCKDnyB0LyYVy9yXrymm1iY+McEaF/ly+a1FeSoyr88352xQOzguyA4hMDV3sKv9OzL3dWj1f0AP/Lgkv0GCAdv+fEn1aDgHc7FrYCADFziCWNaOx/tPL/EY3dfg/YrN0XVtuUP79huGVB9Gr30VILCmO8cs/9vBCo9nBmg8SAraVHDRuM49l4Vierm2x29+9BbdfCIk6730G12FJH2O9G4dP8xggJSYmzHD8FWcNJvUxnFwGULlcD+89AN2HWxSg4ItxAUgdGlzcLnDWNJSlyt0frMZxS2B8bNqwx1BL0od2AROJsms2ApGy2xU=",
+  "URL": "https://hackage.haskell.org/package/fingertree",
+  "LICENSE": "BSD",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1593378518",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "ghc-libs"
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "FILENAME": "bash-language-server-1.16.1-1-x86_64.pkg.tar.zst",
+  "NAME": "bash-language-server",
+  "BASE": "bash-language-server",
+  "VERSION": "1.16.1-1",
+  "DESC": "Bash language server implementation based on Tree Sitter and its grammar for Bash",
+  "CSIZE": "2649566",
+  "ISIZE": "15410866",
+  "MD5SUM": "74f56b83c4c56fc191835aff9f619a18",
+  "SHA256SUM": "b3c9cce07afb207fc5177b4c424b4ef11fbc68a60f079de99c82168fcff1b52a",
+  "PGPSIG": "iQIzBAABCgAdFiEEgFPriIeaaMtIc9MrAR/cUtqDkzUFAl7I8YkACgkQAR/cUtqDkzW4/w//TGDle51LRKvZ8VoYWlhnlbBT6ZxmAP/kW59iXf4W6LOCiiq86Yqrru+wah3J7g/XWX8XWt0tas/lJ8QtbEsErRcZM+xTq0gFK7z+eDoMyPcnVx0g0wDfcfMbLn5HtO2VtIBTY2GeVMRdH9qrNbVGp/DoI/Lsd+TzBH+ODzEPK0YdMh2kp9v9JlrWEu+MgbVuUGZWptOY17gUhEUIDK6N8q9s49FyLcLAQDZhhqUYTtk9FIcrF7Vv59ObqArGaQxV211Pok/uHUbIPNB83d0D0ntmglr+vT2LvLDX/b0MPSlS6foW7ZNdw2uRmWiR6Us9ebXuHinbMtQSmwbZ1CAbmpQTjpnXAEU4jLyj8sHJPRiZtfvGdXzXq3wBaHP/2K1grYvWAGYxF74rWDLHl5EWP2P3j0rek2gFh7r7oDiVb2Z1pbLABhhLkRcYOgKT6ggRxeVF5QtbY3muz/m8Q3OKoTBdJqC6H0c7Ppt/Swhj4Bln1anx0QfMupDXZTY3tnCiwlBNNdv42AZupNO6qQltxYTaYmXHw5AquSgfWCT6WwUJ4Epjz7bGQe8dnsK5TyRt4Acq3j7oSpghj6mYFJQnoUibC0dCFrgU3mw8jX09gMXSBykFg/YoGUZklkWpGcKUxIpHJUDX7jkLBUA4/hNw7icOgloi33f5gGX3tOwx/JY=",
+  "URL": "https://github.com/mads-hartmann/bash-language-server",
+  "LICENSE": "MIT",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1590227044",
+  "PACKAGER": "Maxim Baz <pgp@maximbaz.com>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "nodejs",
+    "acorn"
+  ]
+}

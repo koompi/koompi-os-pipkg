@@ -1,0 +1,24 @@
+{
+  "FILENAME": "sdedit-4.2beta8-1-any.pkg.tar.xz",
+  "NAME": "sdedit",
+  "BASE": "sdedit",
+  "VERSION": "4.2beta8-1",
+  "DESC": "Lightweight sequence diagram editor",
+  "CSIZE": "1662784",
+  "ISIZE": "1822720",
+  "MD5SUM": "d763057deb04fdf0e867075b6f0f3686",
+  "SHA256SUM": "d5b77d051579c28bc253c10528632456c742a05d83afd76816455731a8a1a41f",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAlvlnpQACgkQeGxj8zDXy5Lllg/+I0B9rnVXU6RUEQmJ+ln+9Yx7H0eyIYuB0StraigU1suKORbVVeesk933M4y806RGa9tuzkHFpHqSJNZQX4mz2YTWbTOlESpfxzGVnjIQWz4V8GRjISThgRhdID9AvysZBwOQirL1Y5pTVJNGw1ulet1MOHGBST4Jfy5fgXukifSOXKV6ovhUZa6JEcPaXatEZGfSeitwv4+YgKzT91hLQ7tMtmbUoXx/7lB9bYpdocvbEpI5ijz5LT0aLrjRfExpUYsccDDJ04TT3DtFEkrGMxfjLm7B+9XYVhszblrdAXLCSrOmOfIRWReuYIS2RIliGiEz+q8yBwFgxOC8jOjLL0lw3bMCKNBtv+jrRGwnb4F/hokKRn9dUGvu5cMZLhw0j2uoQqUaVst4HFzA5rIuJIGSl8eTKMS+vrQFECH9UK59o5KCxFrEYmqPvm59dHGTKTAM6a2RE4ttHKoZXgobJi/frBtYGb9cdD0PFXqWzpIhjMVUMNySBAEKRF/UPqtLEO3SnYes4oBs9sHrStxs2sb2iRtyyDeeT68rpOwcSola/Im6H2mztb80WPvjbppWrXtSPHXHSiE3iNvICthuNh9bJXs7O14iANd2cfTTUe/G1wQfIgNgte84MtfVgUaomWe1ouaZsc8ji7knqlyVckW5tulHzmHmNXTL+fwUDoo=",
+  "URL": "http://sdedit.sourceforge.net",
+  "LICENSE": "BSD",
+  "ARCH": "any",
+  "BUILDDATE": "1541774811",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "java-runtime",
+    "bash"
+  ]
+}

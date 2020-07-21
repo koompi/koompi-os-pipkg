@@ -1,0 +1,25 @@
+{
+  "FILENAME": "perl-proc-processtable-0.59-2-x86_64.pkg.tar.zst",
+  "NAME": "perl-proc-processtable",
+  "BASE": "perl-proc-processtable",
+  "VERSION": "0.59-2",
+  "DESC": "Provides a consistent interface to process table information.",
+  "CSIZE": "28043",
+  "ISIZE": "59551",
+  "MD5SUM": "5223323977bc8aaa200edc0ed2744383",
+  "SHA256SUM": "eee1d1d70bf9d7202fc2337c9c35efd72e905814f231c6a9b17af39f51fd4608",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl7vihcACgkQeGxj8zDXy5KhUw/+L5YzPIw+ljUNwqU8y7RNLmlC/Nz9QAD9zLe/8mNM1GKxCzhbMPNkig0V5uprzeEm+O07HxK+iJJryP/LkMcFqSxBmcgSuu51Lo/ISCu33KZnqO/7TC33IqagJKnSeuQLB9M0fUjCUaJ1ymDk0wJEuXmNAP78AkYmk+Is9FyYAEclbtDLksT/6vUm5khhz5PwLOqvDVLtzC8mMoIH41zBZyZJVo5waQINyPYM5tTtV13B2qXn/qFAdtBPXFWOsFYFMmdhwEeDv/bL7CKtxgFoGfyNT5gZwLxFOgX/8fon+WU9AJR9up7ovZ9zNsD83xJ5nRyb9ogcAvFAE7MLbHzfOb9pMbJ8YpZwJ6VWqHcYnlCfdwhFxZQ8MZtm+7aRqcEu1ZTNwI8AACBp9TzI0mwYCv51e9CodsLzabue+PcYGKHrGt4gCP4qlv7JloNMYLRKuSSSrxy7fKHNk+MPeJ+v5ecYtx/9rOVDi6CsFN0ilmiqsnyB1loQ4+GvwuG0TyMY2mN+Wq2WCmRXeGjCtFc34gmt9hOV0HAiOGv51hd7Ll8C0nfgLgCKavw5GUa3I/obStC+8SdIeagAzMiL20rU/j+QrgJ/ckCDY2FrYwNB+iUl7Ul3z4rzPraJIVqCZHTfhOmHnx4+zcs2KhI1MOpLvD1531upypAOD3Nch4ygGpk=",
+  "URL": "https://search.cpan.org/dist/Proc-ProcessTable/",
+  "LICENSE": "PerlArtistic",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1592756736",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    "perl-proc-killall",
+    "perl-proc-killfam",
+    "perl-proc-processtable-process"
+  ],
+  "DEPENDS": [
+    "perl"
+  ]
+}

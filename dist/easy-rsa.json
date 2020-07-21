@@ -1,0 +1,24 @@
+{
+  "FILENAME": "easy-rsa-3.0.7-1-any.pkg.tar.zst",
+  "NAME": "easy-rsa",
+  "BASE": "easy-rsa",
+  "VERSION": "3.0.7-1",
+  "DESC": "Simple shell based CA utility",
+  "CSIZE": "39884",
+  "ISIZE": "125328",
+  "MD5SUM": "67209522db849e9b1baba051163647d4",
+  "SHA256SUM": "e00034139bc0b214ec91fa4928bb88682859235a38c806c470fc9225d9b9d7b0",
+  "PGPSIG": "iHUEABYIAB0WIQQEKYl95fO9rFN6MGltQr3RFuAGjwUCXoOjzQAKCRBtQr3RFuAGj/HmAPwILOwMhavIkIE/yalR5IzdOfJHeXh85T3CYZ8fxRev/wD9FXBLogWtyfPIn409uxdhzENrMBk17IBNGKETHQLHaAk=",
+  "URL": "https://github.com/OpenVPN/easy-rsa",
+  "LICENSE": "custom",
+  "ARCH": "any",
+  "BUILDDATE": "1585685425",
+  "PACKAGER": "Christian Hesse <arch@eworm.de>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "openssl",
+    "sh"
+  ]
+}

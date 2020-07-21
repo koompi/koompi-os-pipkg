@@ -1,0 +1,24 @@
+{
+  "FILENAME": "sddm-kcm-5.19.3-1-x86_64.pkg.tar.zst",
+  "NAME": "sddm-kcm",
+  "BASE": "sddm-kcm",
+  "VERSION": "5.19.3-1",
+  "DESC": "KDE Config Module for SDDM",
+  "CSIZE": "104382",
+  "ISIZE": "389729",
+  "MD5SUM": "05d700970dc014dda226383c08ff284d",
+  "SHA256SUM": "33cd4f2c8e32fb92054b9ed4642ecda35c0e033d062795598126e8dd92012a4f",
+  "PGPSIG": "iQEzBAABCAAdFiEEFRnVq6Zb9vwrc8dWek52CV2KUuQFAl8EhZ8ACgkQek52CV2KUuQnJAf/eKSuRrYDcpUimtz/SV46/PMYdxaA3YlKCmez4hCkmS2K5cKGYRH+X51ZWDd1mSDtcundIhoWVY/y4a6XeRjNSDjLeJ8grcIEn8q2p98/u4Wga25faJzJVC023XbnVlDqK3M3J9WVwOSCK1Zr5ToEP+ZU6WKCT62XwwZ5QKT7LaiVQJ8JnVX+EGK/7231cgE77m+llo6gR+qIx96p0lXimvDOk5bMcu14DEyHEH0ZRtbDA97IKBHX1sqW5Wr6yavZafCSmT6sBv8LTh9BbaCG2YCLBuMcLnnVUnfo/kEKZgHnFyu14iKZ6yuriz0Wd8AoskjRLPUCWeUmODkzf95Gow==",
+  "URL": "https://www.kde.org/workspaces/plasmadesktop/",
+  "LICENSE": "GPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1594130904",
+  "PACKAGER": "Antonio Rojas <arojas@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "sddm",
+    "knewstuff"
+  ]
+}

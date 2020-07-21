@@ -1,0 +1,31 @@
+{
+  "FILENAME": "python2-virtualenv-20.0.23-1-any.pkg.tar.zst",
+  "NAME": "python2-virtualenv",
+  "BASE": "python-virtualenv",
+  "VERSION": "20.0.23-1",
+  "DESC": "Virtual Python Environment builder",
+  "CSIZE": "3224390",
+  "ISIZE": "5248244",
+  "MD5SUM": "c3f0c980ab38b0c350f6d3f61eab9fd3",
+  "SHA256SUM": "db2db0d5c11185538ea8fca0269716e3476f31f8f518db659306b11dd1c8ee77",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl7xvzMACgkQeGxj8zDXy5IbahAAohhnj2L9wr9hLqPr2TFRmxlmv30o04UBQRfrIVF/vB6lmnsAejAun4UvJO7C88uXyWDKqBrgJU6zOlXXXonrIOziOCxIAU1ZTGTC+eSjFxMCyUcREA6eyBibD7hdEL/Qzt/qldJT8LNnI/MCcOdyprsQEEGHwu/GifEZJunsTMGs+FghbaYJqxjFsJzMr2Hgn1hQ7PbFrKOAokdgkd3Qk6yTHM9blBlSiSCddbLn2Xq4QfnrxODm3OBUO4r1Kn5GTaVQOcP/NLSjNO2Kovw5oqexn14HG+iA5jKFvcVEP2uHl9+IwYObJOPsNZ9fIpcHWwEwmvg0NebhsTG29b9gbWUFRvT+IFCusOwR4Hawcikbnt3V9MT4Mf68HaTfy/sauYG+s7u+5wadlqrsKks2c1dM/FQAAu33WbMHMcvgGrkeJ4bRCBKb1pzzNWvE2VAVEIB9uksoj6jGKBq0kO5/Yax8kW5+gxnN4o8ADWy3bOoWRxs448BpW1K2PmhT5VB6CYfIBZDs1bwzjgeTZErMybm91DR/kPYKl9CYQ77iyXPIzv6iX69R3mtlu4trWliK9gvdGw30vuwz3EDG4SQCd8ZWxsujXwlm3mPQ9pRMkz6RpPYAvr0cbQuJ+rACf57aTvo3r8WTTfDZ2Bvy4el9mepYXsqoWC4aoF+DqUpUf8M=",
+  "URL": "https://virtualenv.pypa.io/",
+  "LICENSE": "MIT",
+  "ARCH": "any",
+  "BUILDDATE": "1592901269",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "python2-setuptools",
+    "python2-appdirs",
+    "python2-distlib",
+    "python2-filelock",
+    "python2-six",
+    "python2-contextlib2",
+    "python2-importlib-metadata",
+    "python2-importlib_resources",
+    "python2-pathlib2"
+  ]
+}

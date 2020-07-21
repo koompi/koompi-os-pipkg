@@ -1,0 +1,23 @@
+{
+  "FILENAME": "python-binaryornot-0.4.4-2-any.pkg.tar.zst",
+  "NAME": "python-binaryornot",
+  "BASE": "python-binaryornot",
+  "VERSION": "0.4.4-2",
+  "DESC": "Ultra-lightweight pure Python package to check if a file is binary or text",
+  "CSIZE": "13655",
+  "ISIZE": "34115",
+  "MD5SUM": "0d9c9ec8303ea9f5c3eb79effd8896b7",
+  "SHA256SUM": "cd772b18177d986c0081fed3ecfc17ea47bc839b4e30fffb0429266b9afd6a9e",
+  "PGPSIG": "iHUEABYIAB0WIQTH54SUZv4jWDQ1iDdyWHNLQcMVSQUCXmus3QAKCRByWHNLQcMVSeRMAQDnsvke+2j/TxArpiqCWT2RXYjNHrV1s5NuQ4BBojGiOQEAsEKD891D28ZeVSU3OldS1Nogl3m4chyP5M9NDZjV4wQ=",
+  "URL": "https://github.com/audreyr/binaryornot",
+  "LICENSE": "BSD",
+  "ARCH": "any",
+  "BUILDDATE": "1584113851",
+  "PACKAGER": "David Runge <dvzrv@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "python-chardet"
+  ]
+}

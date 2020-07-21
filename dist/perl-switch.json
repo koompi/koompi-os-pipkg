@@ -1,0 +1,23 @@
+{
+  "FILENAME": "perl-switch-2.17-6-any.pkg.tar.zst",
+  "NAME": "perl-switch",
+  "BASE": "perl-switch",
+  "VERSION": "2.17-6",
+  "DESC": "A switch statement for Perl",
+  "CSIZE": "18171",
+  "ISIZE": "35323",
+  "MD5SUM": "7ba450a104733f9e7c0467df01c5200a",
+  "SHA256SUM": "94ec99606adeeec5e44f2ff4fead9d0bdc973c258f0bb735e2205d8f26f46a29",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl7vNBoACgkQeGxj8zDXy5LZ5Q//W00LfwoMX6sZi/O1Vp+1xLCNX+ZdHxhuFY17zQQdlzftOamsXVtM5P7+Du7TdUCY/bHRpF9FJ/UXmretJimYzZM5XJzcB7SFScBLyykeiGot0ePZb4awV+0NOwTU/bkXWFq+HLHv7A1bteyGhIVoKpWgdVgTU994CApkn+49nu9fSf8Ezqf0EdvQnhhhDydzWE+4Vi+0bnXmyyEW35hvRG9oy2/3xAnPLFSycBy2yn0rMMbA+F1KPiU4BE1aVkEi3GSPFBAZL/CCGJxFIaqNW4DkvDFY0RFHaUCTaki+Lw3GKq40btaLXIHiT/tjttqkGUBxdZvK1nruwgeoGuDKPQDZSN4u4Zm50Pw4ek54Gx0OGfdfwEI9TAlG6bUGnU19unxRUgFy4DTPA8Xb3kF62D/HDWm881SEwLPcQOpGFtEsZaf167y1dZQKFx/aJK65HnWFXYe1+glDbGr8w5IG6jhZ2nhrHGnJwbzIx+dA6zyP/wFyLJFGFxVIMp4uKf18lqz7oDrRwha+KiB0E/hMFmjWBlANC9k7rR1FyTugVa3PQtt9ncesImONyBVMi6Nb4rL9twc56Utm644rvNEXNLD2nsMWQpFAbAMcZ2sZSqaBoO1X/BI9UIdSri4uYdPN28+RbrpAMLkJoIfSWFAD9pA25dqgUt/n4MoS2T0NSfI=",
+  "URL": "https://search.cpan.org/dist/Switch",
+  "LICENSE": "PerlArtistic",
+  "ARCH": "any",
+  "BUILDDATE": "1592734542",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "perl"
+  ]
+}

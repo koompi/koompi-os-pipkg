@@ -1,0 +1,24 @@
+{
+  "FILENAME": "cjdns-20.7-1-x86_64.pkg.tar.zst",
+  "NAME": "cjdns",
+  "BASE": "cjdns",
+  "VERSION": "20.7-1",
+  "DESC": "Routing engine designed for security, scalability, speed and ease of use",
+  "CSIZE": "418236",
+  "ISIZE": "1012525",
+  "MD5SUM": "255ea146b1f697493ad09cd904213f9b",
+  "SHA256SUM": "13a9ca1462dfed11f54434f2031dd26c2af01462c89aa7c0cf58b235aed730c8",
+  "PGPSIG": "iQIzBAABCAAdFiEEM+u4qOHFZTZFsSMqRaZQ4mOMU20FAl75tR0ACgkQRaZQ4mOMU2135g//Q16utcgtij1HGXpTYz9W/PjSfyTKMQe5vhlq+ve1ZS6n9B+IOPY9FvkgKvX4/kgNAYpMtaCjQGjoBJoreXFwNVA7W+HdBAocZjN8N/lYuwLVSYdoALUMxdyolMRvNxZtnjz4xYqUndjEMvIW3T1uxSrAG6DZKgOeaBGjgCmbZRjbv5H+vgmjDcZQlkeceD6g7lhFblCpO8rUC8uQ8lMD49C6mvPE7ZoMrf0UCnQaEQmxAhyrEhX/HJFjB3hxB28X8FCpy0DeKQU30+fV20qw8QBgs6lgkbgFJTvdZZZJ8wAQLGb7C9+dtOz7bGCtL9lo646Cs/JmPFKRg0h02qVmLItA08D8kuumga7UfCvxVsqpyypeHaxEbJ/BLu/p54RX1T/UEdEJ+yGdixjgzKL/X3GYu0lUcfMgsdwKbKgph/C/mQjmCOsoFLb48jo6rL/vCcIQneAoVXQJ0fu19ihZqw7oZUrcs3uc/79AHFOyCug0AokIKBGpmJ7vD/FgWjl2tVpOj4c12pDPhwu8CwACqWgiNpzPT9+/JSh8eGZlmRUtn+Cg8lzuWzhJ14UgsE2ejn2U01uJcdxwHZxC5f1WaqFn+96SOBY2eYr5Qgle2Ems1Jl8LvzasmuoTYnSk+fsRO9pDK7Bt4zEBXpX8oln2U6aL7lCmUVQbIH3wMlLDeU=",
+  "URL": "https://github.com/cjdelisle/cjdns",
+  "LICENSE": "GPL3",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1593422527",
+  "PACKAGER": "kpcyrd <kpcyrd@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "glibc",
+    "sh"
+  ]
+}

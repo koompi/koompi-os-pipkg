@@ -1,0 +1,24 @@
+{
+  "FILENAME": "ddrescue-1.25-1-x86_64.pkg.tar.zst",
+  "NAME": "ddrescue",
+  "BASE": "ddrescue",
+  "VERSION": "1.25-1",
+  "DESC": "GNU data recovery tool",
+  "CSIZE": "108330",
+  "ISIZE": "257449",
+  "MD5SUM": "b1b3526dd4525da6650ea636ba8440ca",
+  "SHA256SUM": "25c038cf578057965c51fdce389b8b42d84ac60f0866df71f876dd0781c63086",
+  "PGPSIG": "iHUEABYIAB0WIQTH54SUZv4jWDQ1iDdyWHNLQcMVSQUCXl1z/QAKCRByWHNLQcMVSYPXAP9sfNm48pCaq/rX9pkxaKkdwNF0SoX6sNFAo/r0iJ2ZYAD+Lm6cQsYWyda68E7x9djSgbvx8/jaHxHmkxfmIifMNAY=",
+  "URL": "https://www.gnu.org/software/ddrescue/ddrescue.html",
+  "LICENSE": "GPL3",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1583182736",
+  "PACKAGER": "David Runge <dvzrv@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "gcc-libs",
+    "glibc"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "FILENAME": "perl-proc-simple-1.32-6-any.pkg.tar.zst",
+  "NAME": "perl-proc-simple",
+  "BASE": "perl-proc-simple",
+  "VERSION": "1.32-6",
+  "DESC": "launch and control background processes",
+  "CSIZE": "15338",
+  "ISIZE": "30265",
+  "MD5SUM": "37fde2a1d46daa0d8646138ccb2a19c9",
+  "SHA256SUM": "3e8db46404c520f9c7e01ed09281a42eb2568c53c2afd6eb614356322b73c704",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl7vheQACgkQeGxj8zDXy5K7+A/8DWTPPp8JRDacJqT7jYMcLpePbwip0tgfSUJ4EAyc9EgY4NgAN9F8ZdsuLzcT7Wn/najSgzVuMbfz9zubrv/HJUmZAH+Sgqf+CIxpcHexEF/0bnAX2ZYz2qSw0oQW4ZJ09BuAg1Sxrl1DIwVUZns6IkZ8wJPTapUGeBbJZ3AUilq8Fu6aROGAEbuRRaJd3IZxkHiHP/6g3kWXxETNDIZf2MnKhE7iGg+NoPcPh6YdIbNr5zNYieUDHaOWkrJhlrFlyVHBE9icXiU+BTD5xApfBouqlXXcw6wFXvtISLwVgtMCWjhMt6fP2UM2tn5MZnuKtLw+gjxHCDYX167lOI3XX3neIIWlRtFAzKbaktZxIUf7x9YlaZdgLKeNnMxuOEphFmxlux3XqayMOCh8e2vB4R1lv+Dxhz5QT/4TMoOo9pnhKn1TMEWFxlE/EP9q3KEOR8FosNTCg/LFc5g1FAph1ByN1MLSB8yHvkOy6M4+dMqT4PL10/6RL/ePqVCHANPDK9ZLz69mQ0aDlTUyGHKynQeVTd+ZJaDHNvYRpAw/M6BEeKyxz3CSDHiKQwUfctzkbYUBLyGm/59onaKMjqbXhb2CJqiTqwm2sRKggVr0Dtojtbz6mEOhb6tTVO+X5DsP0/sna667jJnLV64AsdOhvX3FyjQZ9/c3+miDs65z5a0=",
+  "URL": "https://search.mcpan.org/dist/Proc-Simple",
+  "LICENSE": "PerlArtistic",
+  "ARCH": "any",
+  "BUILDDATE": "1592755639",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "perl"
+  ]
+}

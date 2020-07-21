@@ -1,0 +1,23 @@
+{
+  "FILENAME": "pax-20190825-2-x86_64.pkg.tar.zst",
+  "NAME": "pax",
+  "BASE": "pax",
+  "VERSION": "20190825-2",
+  "DESC": "Portable Archive Interchange - the POSIX standard archive tool for cpio and tar formats",
+  "CSIZE": "80631",
+  "ISIZE": "147589",
+  "MD5SUM": "199bf8e38b378c2091ae9e3c7be0d512",
+  "SHA256SUM": "72586e897dc3979970f29f6e57251eabb846155147dd90c7369ca512237f8ac2",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl8EqnEACgkQeGxj8zDXy5L8gQ/+L9iSccNNOO+oG6SQJsN4cCeNQ5tI4VaeN3hr8YMXDe2+T8UzbmQry18KG4OCAHq08E3Fsigw8qF85HssCvyo01ZZjV2q29UVxSvy0cdDKbmyuDPQdacneIZqExcBUM6h9Zd4ghggTl2OZfiMwyyX1vwUeJ0GQaSdUO2f5PPwD0qp0FwmDA2u39vF5v5ojAxShyVz5MEE6s501HkT9ic88MzV2UBY5JFqoBm7ZP5LaSjc5l6OcIgiMC0mQNRE0oIui2FK4DPY4hugosJLoVAg31ZcLuVDHiCryr0lLxewm7zbEvpusVx9lynvhjUdGXRGyqjceE/KPoKkzWKj+qmK+qMzVUMjjfJ/6GHnipkWD7s6T5bAI6rf837TLDDdSxeJhkPcQSfnsETiv1mymCZfVcT5bE6LhKFzGpMaw6FP02i5uHEBF87atSNOSDd8+4C4T3A2ZQR6SpqzWM644yuTksYo2KuAI2SGzM6kL5yditfqnaMN3TwkONK48AQxFHGlNpkKZ7yA9GUR4NphaL5rVWWeyCIrKJBt2ZTasJfs7YHD1b0cgY6+n7WEAPtgz25s7W9L7F01mOsR2BCiKdoK+zZ8tecYuBsgOpyR+tAIugwaJHj2Jn3VzH/LmDSi2UOTF2xJbjFWRFAkkHMSl+tABddtRi4FoO9OM3ttu5s/ycw=",
+  "URL": "https://www.mirbsd.org/pax.htm",
+  "LICENSE": "BSD",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1594141135",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "glibc"
+  ]
+}

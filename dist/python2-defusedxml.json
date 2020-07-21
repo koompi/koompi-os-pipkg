@@ -1,0 +1,23 @@
+{
+  "FILENAME": "python2-defusedxml-0.6.0-4-any.pkg.tar.zst",
+  "NAME": "python2-defusedxml",
+  "BASE": "python-defusedxml",
+  "VERSION": "0.6.0-4",
+  "DESC": "XML bomb protection for Python stdlib modules",
+  "CSIZE": "31755",
+  "ISIZE": "145115",
+  "MD5SUM": "41432297515c4d89858a68db50720312",
+  "SHA256SUM": "2305120294de1bc2ee0a56b8d67e0f8daec1e9d5bac03d9a0a4214ae5fb7d086",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl6/1t8ACgkQeGxj8zDXy5JxgBAAhD6NE0y/UFs9mBshTgWtqcEXWadUhtyOMXKSymnXpolCu9+o0sw5o3yH8YrUct5Q1rhfymwVFkhsoDe0Xl4V69UdyfiJAeOd6CCxK4l5sW9rSRLa1kqeJM37IzAg/lJGVQBVx2b3T6oQsBhRFlQgFZ0MOz7OaJL8plqS3XXsfAvj+4giNFx5pxCFtB6ec+A3IFs1YaRLcnGfaP4/1CYnl04d4Q5ItZRr8cPwjlZUptYNS5ykD06c1/U4qmuHZnActIQa3I+b/NUbRoTn4/FXMo/9x65XpD3xVUNoh6j5ZhbpJk76iO9rx8ghgo1Q5py31dmJ2wHk8zI3Za1CcG+QTp3hYg0I3+sukMa6YwMWrdSk2nOZe3iVEnCHCwWdWFxXFfYcyGSBYamznGwbhAM9x9t12kwwLiJfRrAzpu44UGEzTqs4wrCmWjXeiiCf5/ObunXquaGYrFuEOEt+R1tUnS8uVQlHN9PJBBvZO9i+XUkHPvvajvM1UrexzBskmeS6xYDaWnMZDEfMBmNNag/9cRuHIbsah9ZS5gf8sAruIJzCHjDfwMnMjmLmFYP6EeI9aLuwMrxmpGRNE7cBFftYuCne3L1u6N9jaoObgtFSzBYcPQl/TPlszKg0z+sRZtLO1sVk4L/SMNwJ3aE4EeV2AE4WLajMG6YBYTImLzEe6CY=",
+  "URL": "https://bitbucket.org/tiran/defusedxml",
+  "LICENSE": "Python",
+  "ARCH": "any",
+  "BUILDDATE": "1589630665",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "python2"
+  ]
+}

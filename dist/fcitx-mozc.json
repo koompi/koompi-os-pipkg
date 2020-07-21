@@ -1,0 +1,25 @@
+{
+  "FILENAME": "fcitx-mozc-2.23.2815.102-4-x86_64.pkg.tar.zst",
+  "NAME": "fcitx-mozc",
+  "BASE": "fcitx-mozc",
+  "VERSION": "2.23.2815.102-4",
+  "DESC": "Fcitx Module of A Japanese Input Method for Chromium OS, Windows, Mac and Linux (the Open Source Edition of Google Japanese Input)",
+  "CSIZE": "15598870",
+  "ISIZE": "30686193",
+  "MD5SUM": "d7960dc6c0a09bd194ddf27be1585e09",
+  "SHA256SUM": "0b7afb581c174cd00941c45052d9c12d82f0f688f39242a00f628e9143ed0816",
+  "PGPSIG": "iQIyBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl8EfrUACgkQeGxj8zDXy5K2/g/441lxEzdOydEBcib2wpI3Z/VCl51MxQKj6Kk0u42XTZTLC/aG+E4z+pvcem9oyK4NdrjnT5NVrcryKk9dDd2n0nkje1bto2cUeTwawnYnAOQS8R9+GM2V17kHOE18dOVpY8ALldVtlwWLBNKHteqctxSh5PNpHvjxB6fE0tFSflXm3PpzDBM4dnMRUvHhifT8arR0tDzZ9w6BMe4JuMdAIQ8Q8Z72FFhrXv4W2MWLRNYhL0ZjqnU/GtOre9Lr9aFhRB5v/gAcuMaWO9bx8Jyq2b0rrFrQes+MPKubgR4NMhLkTK/SxVaSmFuPOk0kWvQViwhUdtBS5zteRvEgtVA1PEByD8o2UYvl014rUMsJEKuhH6z6Yc8UnzEV7of9oZ13hFIv23XYwU8SiGN9OqmPpaM286IoLty5AC1LFPhEx9AfQnFFBVSfUlAwoOd0qGZ/2JJD7YcmtQ8y+McDMH+xwDM6U03Bv29kljOjndgSR50YL8lIz7ztTX2C3vodQBgBFmATBDFFY5pVb0Q3hP3ZuH0X/8+7DHYeBPmJfwXWb5u8jYYJ3nkfudgLtlwV4PBekv6K9saPRTkea+2W6/QKmLVkMUcfUJ/jzgkKRxUJi+7HNQ6PiiFUw+yOUs1xY5etI/iAxYTLX94afgxAhxzkcK0BBJfi3gUdNcoSwBKHrw==",
+  "URL": "https://github.com/google/mozc",
+  "LICENSE": "custom",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1594129530",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "qt5-base",
+    "fcitx",
+    "zinnia"
+  ]
+}

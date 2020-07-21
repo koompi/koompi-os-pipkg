@@ -1,0 +1,23 @@
+{
+  "FILENAME": "yarn-1.22.4-1-any.pkg.tar.zst",
+  "NAME": "yarn",
+  "BASE": "yarn",
+  "VERSION": "1.22.4-1",
+  "DESC": "Fast, reliable, and secure dependency management",
+  "CSIZE": "975309",
+  "ISIZE": "5323273",
+  "MD5SUM": "505b79a1b4cf62823aa087319e75d4a5",
+  "SHA256SUM": "73805d54c41834bcad13120db4ab8fcef48f78901e2b0e9cc40c9a06da50a897",
+  "PGPSIG": "iQIzBAABCAAdFiEEj8FaBklQqZ3RvRTdOeS4d+YuuRUFAl5o5FUACgkQOeS4d+YuuRUmpQ/8C24Y3MU/YluiUVkRJH+hhBGS4WkzsypmcWZO/qJ1cuElXi2QIJ6B2wSjwj6NB8s4DVJ06KiR32/E5dK4ihm3O8RfyLVYtH7jvseGDeIWmOtU+3U3FneqCnspYYjkDYOyWeyQlPb0FCmhMFu3vuZoS9i1wrpqeVx0BKglPsax5+cILkweOItZqNpDvMEB48Pr9IapoEt4KfWWjm/kFif/kAgUEO/sPs3hOPKV6b03kGF2oOfmm9pEx5Yt1skyS8xf5oytLJun8EsSiri6M87XSUXn7EVaFkAPjAl4Tx6b3Y/+QrMnGyS9YQTk58ST/M0HGT/yFfncnY6MYxX9Mb8TiMQh6OzBy4j+lDaiOww3RC1fqMAileOSvqZfEFhErwU3+DKfsb9zgyn4VVxaD1MLVqJO9QajXsAKuUChFxQ8RUD8SsbYTqK4xLeU6f9NGbdraq18uTckCQoPD1OVO7ZVhloLxwhEIVO0KWCo9KBk1Wd5fvAkhg0DbnR3dSFAiVrfesxLFqMIzLmpT6YIjkAUZ7+I6MgpVjx4lDVUVbJJUZkVoAarqhYtG8XJ5AhSh9IWNtT3OSpvwh+XIDc24Pr9z5T7XiU3/PFmzFGREvay91CzK6XcRA6n1yt2ZhfwE7fb61OoYBXueMmI8P+bOm4hY1UF5aClTai6SKoX7n2t8gw=",
+  "URL": "http://yarnpkg.com",
+  "LICENSE": "BSD",
+  "ARCH": "any",
+  "BUILDDATE": "1583932262",
+  "PACKAGER": "Sven-Hendrik Haase <svenstaro@gmail.com>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "nodejs"
+  ]
+}

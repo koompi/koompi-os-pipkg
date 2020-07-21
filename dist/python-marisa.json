@@ -1,0 +1,24 @@
+{
+  "FILENAME": "python-marisa-0.2.6-2-x86_64.pkg.tar.zst",
+  "NAME": "python-marisa",
+  "BASE": "marisa",
+  "VERSION": "0.2.6-2",
+  "DESC": "Python language binding for marisa",
+  "CSIZE": "34230",
+  "ISIZE": "125113",
+  "MD5SUM": "a03fd8e2609db5a8d5f2fa61e4cf9db0",
+  "SHA256SUM": "12901ab7ae9efa59be3fa755539efb512ed565a015f7aa338afed8670de22ca9",
+  "PGPSIG": "iQEzBAABCAAdFiEEhs/8qRjPOvRxR1iAUeixSKmZnDQFAl7vhWUACgkQUeixSKmZnDQjbwf/Wlk+WgiOtnYNn9tLyVoJxmc6FHdUSsrYx/5CRNv8upD3LPGZmu9HNGfhAFb9ixUhIiA/jg/sl7qDMofwA2QtSmi2cOyi41b5xDD2JhT0lOejOgjzrZJ+k1yzmt6MGEHxrSfVO2atAMeEDn3vOFqSogoDsGiFyQMt7fGnhGckJIZSsxSW5ti5ynPh6h2KXO1zwrqaFDDSVHsFYgXF30Xualc49uObGdLAM7rGwKW56O+jr0RCsTaL3uvaVtq9rTEu8yVbGinUWHYZgcjZM8nyLKIiWjXZxioS+8jYmTbkBwcM4FXgV99gljZL0qdaKNMtWat0tQAaWe1BPUutJFgJ7Q==",
+  "URL": "https://github.com/s-yata/marisa-trie",
+  "LICENSE": "BSD",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1592755464",
+  "PACKAGER": "Evangelos Foutras <foutrelis@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "python",
+    "marisa"
+  ]
+}

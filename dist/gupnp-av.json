@@ -1,0 +1,24 @@
+{
+  "FILENAME": "gupnp-av-0.12.11+2+gb5ca07c-2-x86_64.pkg.tar.zst",
+  "NAME": "gupnp-av",
+  "BASE": "gupnp-av",
+  "VERSION": "0.12.11+2+gb5ca07c-2",
+  "DESC": "Library to ease handling and implementation of UPnP A/V profiles",
+  "CSIZE": "137712",
+  "ISIZE": "1403984",
+  "MD5SUM": "3d1210ae7ed884643ed16d652bd8569b",
+  "SHA256SUM": "f6609ffd1850d9b49c47d014c05e36af1d7c3a5eb8307d6d596bf992c54bdf65",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl7DmGwACgkQeGxj8zDXy5JPnBAArFhxp7fiN9CDkaEmfxPuWbMT2PbLTVJlee0UdwE+wCT9Gz8oxfOOHRf+g5ytEue0Yeu66cAnbH4U8mkeWvBzjiMKg+o0c1S/K3WH62+AKbwPM5vWVLdDdkWnqo7n2ZPAnDihUCdAbSZ0qEz/UcvPxyhPhZa85UagJFKR0pLRg9hczqiD4j+VSdThbyrJmi7Hoh2PSLYm+UaWiMHeGVTqshjQkBI4M40hJCAGxzKito43nRtD+1+csjZs79aqv0N3+IFjviaqL36FBpwQFGJvi6gZKitlN2JLLXs4t3VjlLf4BgifdYSe5FntqVJ/DdstY86tJWx+cjFmH0qRMyqHhldDwrkKHJlxYfR8qcQuQ7FJ99IHJJMmam6z+QoT4OWiiSBmGssH6OGFRoGeMYGW4f9t5Zm49n8wZM6xCYp/H7HNdCpM4L/TDoS26k1FBpGJDkq/CbmWpyWI0j6aULOv5qv+MLR++UBTV1cI9ZApQCVx/FjYtb18CqPAdJCNoSdfZTWmSPdJdPeTGFIsE836dZ6yVowxFSuFs6HdtbjmtztKRmRRue6u/fMATg070vYGU0h7Emsz46L/O5SXBFj4wsqRIWtALv4gFgH78YgkmhiHax6+yLkYq+2gDJtbfvpdnHIG41/3vSojs6g6QDxEmnaCgQEwdSJSUn+ne0gJouI=",
+  "URL": "https://wiki.gnome.org/Projects/GUPnP",
+  "LICENSE": "LGPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1589876781",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "glib2",
+    "libxml2"
+  ]
+}

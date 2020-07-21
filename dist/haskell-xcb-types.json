@@ -1,0 +1,24 @@
+{
+  "FILENAME": "haskell-xcb-types-0.10.0-7-x86_64.pkg.tar.zst",
+  "NAME": "haskell-xcb-types",
+  "BASE": "haskell-xcb-types",
+  "VERSION": "0.10.0-7",
+  "DESC": "Parses XML files used by the XCB project",
+  "CSIZE": "121215",
+  "ISIZE": "590614",
+  "MD5SUM": "c67d1051803adc34b3d088602234484c",
+  "SHA256SUM": "31aceb5103f6afb608a08592acad63840b176851978ec49b0fed95e4dfcce465",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl6jKNwACgkQeGxj8zDXy5L3/Q/7BO8xvUoCmbM70N3lDzX5lJrPE7WEw5LIbMy9M0KYOWZ2JtBppVkbwdyD8CWvtuC1jooEiHcaiNNAfyhkohe+GzbecLdWP8n7pxIYLgCbEUiea6fHO3LSrmFmlM9W8Tp4Vos/eZe/rYJVgdXoTOdu6AAfk2YWg/WwWKkArPBoffg3zI1pvkszMxDJhaIlrH35MXDiiFFc/p2pjQlpOXcpnqaD38Ujf2cQ9OwY6u9Wn9fvd2F0Ww/CWeEMpYdztcWsYdQ9WOM7811yAuY4C/YIIp5+nGzF20R70OxQRBG6Ft0wDhGzM6EPcWS2sVdseYxFGWldfORfVMDdZcZ72b8VsLfYHjgu5RhIkqwtnIsWjOpntmPU0h4sH/wCz416LwxdQUx2Jof2QPg1JdQtHnI27ywfl5fjOTY5AmRZhbLn6v1lsKKB9+CkSYTJXOpz6eku0aa2l5GcQMlvKFzAPJ7Z9ezBXJDCYDBWOHu1H0WwPuVhjojDd95qy5t7rHSfM7BrH51/62l+UQi1N7mKwndlFRHELoxhFgmA2lN4mejssbYgjKdZ26VHBZdGAwjYEEabq9YNB6Be3uFUDvmodd9UtDodGc0q8IFcuCrtnfDL/XSJ9Uh83pr9Vws6vFT61V72E5cNCI2486JQJys1GzlySWCZEm7pRRAl2EIuhAvhch4=",
+  "URL": "https://hackage.haskell.org/package/xcb-types",
+  "LICENSE": "BSD",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1587751039",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "ghc-libs",
+    "haskell-xml"
+  ]
+}

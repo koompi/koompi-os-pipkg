@@ -1,0 +1,24 @@
+{
+  "FILENAME": "python-snappy-0.5.4-2-x86_64.pkg.tar.zst",
+  "NAME": "python-snappy",
+  "BASE": "python-snappy",
+  "VERSION": "0.5.4-2",
+  "DESC": "Python bindings for the snappy compression library.",
+  "CSIZE": "26983",
+  "ISIZE": "110420",
+  "MD5SUM": "f31f6b17b051c597f77f14e043a52754",
+  "SHA256SUM": "46d0b6b33d93c99fb55fbb0f99da86554020caa742c65bb1850072155bb64b04",
+  "PGPSIG": "iHUEABEIAB0WIQSYX6G7jYlWZgHv/xEEU6bKI8VjFQUCXwgv1QAKCRAEU6bKI8VjFVhaAPsGubGk+qxJ8/VToLv7vljAelERxtK26hODkHHuZVhu3gEAvkcpVzKUTVTl16FghUH5qCwKeMuVI8Z+n9Ec4cXG/Bk=",
+  "URL": "https://github.com/andrix/python-snappy",
+  "LICENSE": "BSD",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1594371959",
+  "PACKAGER": "Chih-Hsuan Yen <yan12125@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "python",
+    "snappy"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "FILENAME": "nm-cloud-setup-1.24.2-1-x86_64.pkg.tar.zst",
+  "NAME": "nm-cloud-setup",
+  "BASE": "networkmanager",
+  "VERSION": "1.24.2-1",
+  "DESC": "Automatically configure NetworkManager in cloud",
+  "CSIZE": "29695",
+  "ISIZE": "68653",
+  "MD5SUM": "dd442ac88b0eb609f99131e9c42296e2",
+  "SHA256SUM": "4eb642526fb2d329e939f3c51b59fdd58c275559fe8dfe5dcd6a02a6bc0b2e90",
+  "PGPSIG": "iQEzBAABCAAdFiEEghj4iEmqxSLpTPRwpekojE+kFfoFAl7RNdoACgkQpekojE+kFfqFsAf/QDMQubOgq1S7x4Dq/yZSi3TvGOkA4TPTkMQClliX+dkMq9tKeZn3GHqqwuZAU5Uws8CjE/Kj624dDogXO0cX55D8GAFCiS5m47SElD4T2PhbPm60G4YA7tVDc6ibEI5ui2EHlQaLIvSRzbwr8sBWYmTyP5wzPe1qWBTQuU2jln8S8s5M0VCZsZ3SYUZtFCfqSFhU2kmKHTQ3mMHu4MueFQeDa1jUNORwHANNyPDBOODvl+CAOWt6QWuPq93ItrB6uSmGe9B0nI4TDytUzTqvrn3GaA8+Wwyjs3n+P0C9WAxIuegTbnzFmkWUsHA9S7bmpySj+BcaJVb02PsnnaTcXw==",
+  "URL": "https://wiki.gnome.org/Projects/NetworkManager",
+  "LICENSE": "GPL2",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1590767922",
+  "PACKAGER": "Jan Alexander Steffens (heftig) <heftig@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "networkmanager"
+  ]
+}

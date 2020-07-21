@@ -1,0 +1,23 @@
+{
+  "FILENAME": "fontobene-qt5-0.1.0-2-x86_64.pkg.tar.zst",
+  "NAME": "fontobene-qt5",
+  "BASE": "fontobene-qt5",
+  "VERSION": "0.1.0-2",
+  "DESC": "A header-only library to parse FontoBene stroke fonts with C++/Qt5",
+  "CSIZE": "11799",
+  "ISIZE": "28718",
+  "MD5SUM": "d28e63310a840d7e1029d42e0166a219",
+  "SHA256SUM": "c7af1efcee1d81350e9194363aa6b2ce91816852b52c6bc9c0c79c02e12246a0",
+  "PGPSIG": "iQIzBAABCAAdFiEE0jW0leqs33gyftiw+JPGdIFqqV0FAl8GV44ACgkQ+JPGdIFqqV1ZUw//XWnbPZErgMVcIKUriBAAofEoVnWFlRnX8cpZtch4zCej5Cc1QWy3MsFRAo3Ue3EcYmYHgpAwfb2Ep3e1nfoPjaPXDHguqwYj6Ks0WLNnvPabQTx5tRuPyN9VsqtelF4X7cd3IBtoT9EzTAGAyULvp0XmYVpFkXqJ2JlpCJv9MXKbNbS6jzzrxcQQD/30hYdGijkoPOZQ03iZt+1BHBxdUQf24JJDUGm0ex1M+qEm/af1I7yMiXGo21tD/B81KtI3ckST2HoKDOXvDCh0+lftzcBsOCZt5VDY5UJiZcWhxjvfQx2TUKzV4T9+PpR2xchRUxcnozPafhvoJl1cXwr0Pw7wDOSjv2jG1+nC9Y1cMZpaImEtPugdOqLupeKp763dWv7ddUmraR2KlkKpWMYjQuddVgrFPuXrKUxdaCxmWwLW4rkjMuJkQz4j54pVUtcgkkjfieeiAjE7OPIEc64n7ks5UOI3uLcCmC77vAN07PlcSGADZDCNwqP/W12w6aPj8RnHnSkC9GeUP5fNuBYojb5PTwOUz411He17AokQJSOy+CLN/3dZgRzSGIHklLVeyyhXqOnb5J5eFNIOjBX9yAp8Ke9jSqWd9cLYFJQKQXJVftwgVoTwdHw2Lig/m93R/u9hMaBUJNVoy08qv696EuWpR7go12au23SMTlgMroA=",
+  "URL": "https://github.com/fontobene/fontobene-qt5",
+  "LICENSE": "MIT",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1594250981",
+  "PACKAGER": "Filipe Laíns <lains@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "qt5-base"
+  ]
+}

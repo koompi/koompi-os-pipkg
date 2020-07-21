@@ -1,0 +1,26 @@
+{
+  "FILENAME": "gnome-color-manager-3.36.0-1-x86_64.pkg.tar.zst",
+  "NAME": "gnome-color-manager",
+  "BASE": "gnome-color-manager",
+  "VERSION": "3.36.0-1",
+  "DESC": "GNOME Color Profile Tools",
+  "CSIZE": "1112552",
+  "ISIZE": "3371592",
+  "MD5SUM": "a645872b4b406d374e37ce70d022b696",
+  "SHA256SUM": "b53ebfa43f3cc35995150ab85bc7afe96b200b7b1d526814421e9cd83240ff1b",
+  "PGPSIG": "iQEzBAABCAAdFiEEghj4iEmqxSLpTPRwpekojE+kFfoFAl6EnXYACgkQpekojE+kFfrkrQf9EOK5FAPd5+8uZZLxRygEISXfXaECAkHIZ4rqjMFbZnLz3xpT50yzYwLeBlqdWbqFvddrXdmky4ZgzFCPK4r4CAq2nPJwhyXhJK4F+JB4TSso9hf0KeKM4stjg5VmosvIxSS9q6SP9WjiO0Y72WwQEo+CApo0a4fzzOFeSyClECHmRdm/T5yz++OS6e5SmRSEJB11C4f8mh/o1Pwv7VWDpjE7UgS3Z71Qj/ccrfOLeb0VeUsDPiOXwF3NcUI2ZGljj+icfgkOwbKThwqtsPNC04zbCk89wHLQnuphVk7Mb7Q3vM03RxeBLF3YLNz3fp3x3Y0EwVxKTSIo3vtOog4lUQ==",
+  "URL": "https://gitlab.gnome.org/GNOME/gnome-color-manager",
+  "LICENSE": "GPL2",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1585748739",
+  "PACKAGER": "Jan Alexander Steffens (heftig) <jan.steffens@gmail.com>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "shared-color-targets",
+    "colord",
+    "gtk3",
+    "lcms2"
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "FILENAME": "cgrep-6.6.32-48-x86_64.pkg.tar.zst",
+  "NAME": "cgrep",
+  "BASE": "cgrep",
+  "VERSION": "6.6.32-48",
+  "DESC": "A context-aware grep for source codes",
+  "CSIZE": "244808",
+  "ISIZE": "1482019",
+  "MD5SUM": "eaba410beb41b346cf392d3ae6bb4beb",
+  "SHA256SUM": "6fa3129b96b56cd12de2ff38dcd90758d8019168899c6b708a70d326d516565c",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl759PQACgkQeGxj8zDXy5Kbyg//UTG2PLhRHQHs/qI+INL7BzYbk0oVAkh8s3Ns9XLBjOGIibuMJDMgxzL20a8SjatDhvO7uUfQgvrhXq6nc+sfCdQFqETRuvlH6E98C8eG3joPeD7VOV7b//WCDbtmEp82qvIyR9fJnSy6pPL6cT54jsYdtjYcahVo8OvUkb+qwwyySP0BFyuOLocWyCNrv605zbcnSJlSzT0+TGLuYV/Sd+pcfKw1mMj3yTL4EPQuuofwtm36Be5iGr5EVhbx9ZphRxhZWQJtEeTjKuyQXEqm2i1KXdcHFyPqCIYGWTm5xmlovTieNhzUvqd3q9Y9FaAQOp2dqPJPlAJNL3fwDYv/T6MIzL1SrwZMa3nk1eqsdEKEd20ghnQzv1MYy9VyJxJiMu4MQukf/87jM9ZHIQnlEf6wCjjU2OVmFfTcJ3M0rhCXCG0DgbbdcWhZ3XqsObC970us0IWhmCupRY21iYaWya9FV1vdvkFoQzbhj8DNfdLgc/fYhofWvI2pTpWX1xyMn4Ncc+Axe7v1+G6S4NvXrZsM4Yn+j1Qv2KlTHCJVKIArHIhHnrV2czB1tTssff08f4BIUGHYPa0XZz0bGvSJiGQvXrly8l2Uta5pnLZXORF5dVjtOT/nhY8tRWc1TzxwHMnuazHVFHAGXK6nymhIJ4yYDGD9Z54kOE2MLyk+CMY=",
+  "URL": "https://awgn.github.io/cgrep/",
+  "LICENSE": "GPL2",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1593439435",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "ghc-libs",
+    "haskell-aeson",
+    "haskell-ansi-terminal",
+    "haskell-async",
+    "haskell-cmdargs",
+    "haskell-dlist",
+    "haskell-either",
+    "haskell-extra",
+    "haskell-regex-base",
+    "haskell-regex-pcre",
+    "haskell-regex-posix",
+    "haskell-safe",
+    "haskell-split",
+    "haskell-stringsearch",
+    "haskell-unix-compat",
+    "haskell-unicode-show",
+    "haskell-unordered-containers",
+    "haskell-utf8-string",
+    "haskell-yaml"
+  ]
+}

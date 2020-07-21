@@ -1,0 +1,23 @@
+{
+  "FILENAME": "jasper-2.0.16-2-x86_64.pkg.tar.zst",
+  "NAME": "jasper",
+  "BASE": "jasper",
+  "VERSION": "2.0.16-2",
+  "DESC": "Software-based implementation of the codec specified in the emerging JPEG-2000 Part-1 standard",
+  "CSIZE": "304111",
+  "ISIZE": "1406101",
+  "MD5SUM": "c374cc01a485b079be95077978af7650",
+  "SHA256SUM": "7b406b5ee84496ed32dc0acc28dd75fdb2d324d8e44ac585c8e502a7b6b92015",
+  "PGPSIG": "iQEzBAABCAAdFiEEhs/8qRjPOvRxR1iAUeixSKmZnDQFAl7DpEEACgkQUeixSKmZnDR4FQgAn2SqIRosLrGXtgEVCMswTP/KCHMl28yzKGTB6lVu1oOAHqT/lBg3g7KloWetwvyofxj2YQz9rxOwY39xE38T3Yt2l2lagLuWWHOz2Fn6jq0rp4/oYdFzHxBOLk/b5UPBYw+pX4tj5DXCDgDWfpLCFOvOanp80lOOfZWjVQ6StNE4lsj/o+Xe3IJnKv90cf/BISLOBqv8xkOYfL2zwNlu9kkY1dO1g0w0bJ0ZQrYypdUiTsaZhOwX8fEC7eAYS0XDQwEX+p7mEwMsOdrf1LPJV8BjzXC8lRT/3JJ2EMh8peTv9s6W/jGpYvZg1nI3l7rmcbgPc9grytxb3mrM9jIkPg==",
+  "URL": "https://www.ece.uvic.ca/~mdadams/jasper/",
+  "LICENSE": "custom:JasPer2.0",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1589879779",
+  "PACKAGER": "Evangelos Foutras <evangelos@foutrelis.com>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "libjpeg"
+  ]
+}

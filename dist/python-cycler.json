@@ -1,0 +1,23 @@
+{
+  "FILENAME": "python-cycler-0.10.0-6-any.pkg.tar.zst",
+  "NAME": "python-cycler",
+  "BASE": "python-cycler",
+  "VERSION": "0.10.0-6",
+  "DESC": "Composable style cycles",
+  "CSIZE": "13101",
+  "ISIZE": "50771",
+  "MD5SUM": "da44b2a34cc4b4b5d92b907c271e09f7",
+  "SHA256SUM": "e126e501925cee892db51d9c444f93081c47229dfcd24b97397e89012fa85e1e",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl5Kyy8ACgkQeGxj8zDXy5KBKRAAvnBveh13jqbMmz2DmrIS1vTe+za0TeDB10BaO/F2V5MWDApMDBNYo1ATXhydVolOnNYztWNFYfQ2EePOUSQWMn5/3j3eVAIT3R5g3qde5/kiMH7nwme86cWLUhq5/MhIudVJz7xkVdcLsqs0wUNynkJwyWgKuawdeO9n03YZIwzzNTmUlAyyJugT1nrRTgBudrLGgBlcPnlI5Ay6h32UfaZ6YDai1PMW4ByNH2Yw2JMcQyPfBfginLqg9nq/NGTH3B0NdYAoX1TG3I2VitL1wbYW04bO5GO+nOeDyRRGtMP54wIAfpCbrIyZ2jVbJ91bd7VLWviW1dEFrQHSagH7dlfnHx6XU0um25s6dTJ4kcUDk+bbDMIn6cEL3UMDqS28BpzlG+rIn7tK2TRBxNEaP8/XYrpHUr3VHe1KmhyC3Vo3IYtRjnA2nMIewuDRtgfCDBUgfagEFLvTDO3GvUxGeoAaqkG+AxDDsLCzBs2yIojHnjd8xW3sXuDG2mSmKvrOiOtYLRu/iLK8uOhoZZzXThmVm9A/6wPy6bpxnCl/0nhU2cTXSOiDvo+RX8TjpNr5rRRwuhQqSm7HtY3mt/DRSFVFxq9BIKlB1dAqq8FiCORS0C/W6UYQBg6U9l4zmhUgSwL7XTVIiKtktXK1zwmfb30mJvMZT+H5K10VNgJw7+g=",
+  "URL": "https://github.com/matplotlib/cycler",
+  "LICENSE": "BSD",
+  "ARCH": "any",
+  "BUILDDATE": "1581959926",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "python-six"
+  ]
+}

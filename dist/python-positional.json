@@ -1,0 +1,24 @@
+{
+  "FILENAME": "python-positional-1.2.1-4-any.pkg.tar.xz",
+  "NAME": "python-positional",
+  "BASE": "python-positional",
+  "VERSION": "1.2.1-4",
+  "DESC": "Library to enforce positional or key-word arguments",
+  "CSIZE": "9764",
+  "ISIZE": "29021",
+  "MD5SUM": "b4c74aabf51a08e4b96edcee4f672fa1",
+  "SHA256SUM": "1f92d46c4282fa83df0226b4f0e53c96dbe73e7c6ae2f79369e917c87251407a",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl2/dJkACgkQeGxj8zDXy5Ig/g/+OHrdK0fuPwXt9m5O86zSGXydKUvt3Y3sRRE310o/Tgfeo7MWhRKU1xQIDKJouH2rzL0wGe4DFBiZwG52Ie3oNj9vJ/7aE1GFBb7+rnBVzOmjHlRMn/Nt4ABhkgmVjtOxlv2dBQq2hp7wDa/Gk/x9YJ+2STApaHfRZANz9kqRymRBufdggceRQN5DeFDm+gGWuzzaqQ27AujkLBawlmXvbd1eJNIsiyLBVt6jtywfH5m7DfqSSP5Zb3Gcjd7mzAnpVB1UY2bqYCySAVEa+oXCg/Re/Qw1nmvDP6Aqvmjxz8Yg+e0yzzIU/c+F0WfSr4i/xFUU0wcUCvY2Wm7JQ8zlklBq0uCrR+JgS6nmcMJhxfmJNxjbgKX9KtqHjxHf9fc3MjwsTzf5nUnh5Y5jpW0sxFjWLvg5ZP8n0KtA7f4p56032vN4qboG8GZgTL2ybgG64VY4qokEp3UAWnGjjslL+A0e9UYXS1Bj+MxnO3naLyUjlQEBefPqfLfBRUhKRpzuJdAe5qJ7cdyBq62eJELAapGlh8PSprIBakRQA8zDwWfA+zEhjOxH6ZJUkuneLXzbhVhSUhBIYX3WXVqqRkLVJj9SsAu2Q48gDi/22WX1DwoOg8FvhRJhEDeTxKvJhf25nwOIRhujjMkN1iZOzU9D3t2tMtKi6G9nF4fI4aD2S7U=",
+  "URL": "https://github.com/morganfainberg/positional",
+  "LICENSE": "Apache",
+  "ARCH": "any",
+  "BUILDDATE": "1572828289",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "python-pbr",
+    "python-wrapt"
+  ]
+}

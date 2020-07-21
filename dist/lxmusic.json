@@ -1,0 +1,25 @@
+{
+  "FILENAME": "lxmusic-0.4.7-3-x86_64.pkg.tar.zst",
+  "NAME": "lxmusic",
+  "BASE": "lxmusic",
+  "VERSION": "0.4.7-3",
+  "DESC": "Lightweight XMMS2 client",
+  "CSIZE": "119103",
+  "ISIZE": "485544",
+  "MD5SUM": "5fd1d235df6de587e330e963779aa7da",
+  "SHA256SUM": "178e74c13eafb861c7eeb2550791e1a657c4781dcca9394f67fe5e4ee59f3688",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl8EuRcACgkQeGxj8zDXy5IArBAAjnNWUpkpoVjixGOGLCQ3OBmZbxn9B7Gg9rK0+5eGAKDqmWNNcE2wDchLk2fC8z5rdb0OCBdeFiKQlmAjWPKHFZtrevmFSkyZiA9HKNzcG6wBzJpbsa9oRKwbdDosbbu2lD0CavOQsmZsQ284bCY8Dc37SDU/1HLdp2H+aqGiWeU0u/TkjBI8aoHo+/vKrOUuYBwincCKtsCZzqEmjQetPzR9p6Hc0QGZfD6jkDwMfQvcmL/T1fBMaFClQ1PoWioLP18mpKLeX47CQzG0T/h6no4O/sPtaPx46nz1RJOfCZSrUgTvgPu9qbQ78F6Va5HSM0NAs1TQ0X9Cv5yGJL+50ZCSZA4CfSb7blkWfhhIbwoJxNoGADyahXWR6U7K488YP4lnFh3iqawJEDQ3FuxNvd8bxdssZqACrz24aMaPn2X/y/4C01fZA52xrKzBuCJp5feWHbgxFDEujw1fqbo27xBWdMbuFjZoHrcOPF6r3PlITpkqpaGkx2IiJsaMBx8khvnhYJo0rLhOqSOexDpChpgl29NIbT+udCwUJQaGfaMf+udPPkmzuoxJvqKAO+CvGFd+4lE6EQPZaDri2NKyqy9WLmq6F/OL+JP07ZQXPgoyw+NcR8+rEddePucB7slFIEKoMNgHOInLjgW9o0TtD/SnVK1V837Kf8+Kt0WcVPE=",
+  "URL": "https://lxde.org/",
+  "LICENSE": "GPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1594144894",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "gtk2",
+    "libnotify",
+    "xmms2"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "FILENAME": "bcunit-3.0.2+12+g3c720fb-1-x86_64.pkg.tar.xz",
+  "NAME": "bcunit",
+  "BASE": "bcunit",
+  "VERSION": "3.0.2+12+g3c720fb-1",
+  "DESC": "Lightweight system for writing, administering, and running unit tests in C",
+  "CSIZE": "78440",
+  "ISIZE": "413483",
+  "MD5SUM": "d0b3f54a1515b773add5abd65f4b0b94",
+  "SHA256SUM": "5354dda8a73e20c87249159d749a24825deccfd7fcb20e096f0db4b73835405f",
+  "PGPSIG": "iQEzBAABCAAdFiEEFRnVq6Zb9vwrc8dWek52CV2KUuQFAl3uti8ACgkQek52CV2KUuSyHwf+L35ArwxOHiaf50p8U4SDbUINDFuhxwg5iXn/v26Ol8rTUT2LLkmlHznqmky7JEbDk1gS+cWwtkyoQVEnB1sriVgvWAgmTosWFedYT31d6cPZrKYwU/+qQ4bNYNKB82CLjy9QtTJIbWleYrcsj8U1M8CqRU2wZdrKfFkAFvPfjnC0xC7JSpNsHOxulu70o6bA/+JqudQ9HxL1N2O4i/ZP4y5ZHDn46hPJ0wUBpHv9uEsJwK4myOW1MbTD41mQD8EicQab/EIiztHGY82f4TJsyzm2+xSoNzfWWveCN6qL0eutjU3vhyABxOxfCP0zqXRQIftbgYHzdp5CdQWm6AgFUg==",
+  "URL": "https://github.com/BelledonneCommunications/bcunit",
+  "LICENSE": "LGPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1575925228",
+  "PACKAGER": "Antonio Rojas <arojas@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "glibc"
+  ]
+}

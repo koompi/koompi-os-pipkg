@@ -1,0 +1,27 @@
+{
+  "FILENAME": "xsane-0.999-5-x86_64.pkg.tar.zst",
+  "NAME": "xsane",
+  "BASE": "xsane",
+  "VERSION": "0.999-5",
+  "DESC": "A GTK-based X11 frontend for SANE and plugin for Gimp.",
+  "CSIZE": "1700323",
+  "ISIZE": "5061056",
+  "MD5SUM": "10806b2ec28e7a48b3a276721c6331e9",
+  "SHA256SUM": "2c71cd3ddab26fdc8df56ec95a471f7c0ceff8963ab39ca9c54485afcbec2ca9",
+  "PGPSIG": "iQEzBAABCAAdFiEEFRnVq6Zb9vwrc8dWek52CV2KUuQFAl7ZAqYACgkQek52CV2KUuTFjwf+IiOYJ5/5qGgl5/iENtIbpeGsNpP861E/dDbRdfIcFdAqC+cQ1QIRmrz4K17Q/RosS08Tfr5PSJKcaUlWe+o2Yau6XXzXq4YxfQxTXM8YcGN0lejKzonGhYnoCwhaIEigQyMrrQuGQ66sVUDa1ETz77Hzl+qmDSdmZ+G478bC1303c6Vd7DpmI0x5dzw3eg37hyySbnIBcF3q+nyOUaGpwaQqPMOKuGrC+b1XCAqG8zuc7MxCFvvKEL6vL+6TZV8nuAtuzj8bGZ1w+q28fHjqbmlp6RO4Sy3PGIBqeWeYOOe9Lc1PnyvpHI/U0TtHqW6/Kvvrv65e/Mr9FLL4S0ez6g==",
+  "URL": "https://gitlab.com/sane-project/frontend/xsane",
+  "LICENSE": "GPL2",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1591280213",
+  "PACKAGER": "Antonio Rojas <arojas@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "gtk2",
+    "lcms2",
+    "sane",
+    "zlib",
+    "libjpeg"
+  ]
+}

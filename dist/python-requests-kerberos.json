@@ -1,0 +1,25 @@
+{
+  "FILENAME": "python-requests-kerberos-0.12.0-5-any.pkg.tar.zst",
+  "NAME": "python-requests-kerberos",
+  "BASE": "python-requests-kerberos",
+  "VERSION": "0.12.0-5",
+  "DESC": "A kerberos of useful classes and functions to be used with python-requests.",
+  "CSIZE": "18129",
+  "ISIZE": "60576",
+  "MD5SUM": "05eb256ec56e11660fd3c0ff81a119ab",
+  "SHA256SUM": "0fe4235ad31ed953d8b26e49923a2fbc6f29608b8e94898e1d6527dc3a3e3c84",
+  "PGPSIG": "iQEzBAABCAAdFiEE5JnHn1PJalTlcv7hwGCGM3xQdz4FAl68SioACgkQwGCGM3xQdz4FQgf/bXEg4QKolqAttoYrp/QHCaUnOad4mW8DdQVIuOKXHffPsuKAvI6aOAaNdwIVOFJvuG92OKEWmLXr16Gd+j6omL8cWJsBhquqJz6hMns0cVmlo3mmRRtxTl5Gws1A7Og59saIh8B1o9cSt3fRwxlf3HUt2cE6w+uCT5hejl0gQnMwHThjsGeCvgR9Kzzvw1Gv8I3vehKu51+k+kLHx8nKYP0xNg9Lr8vIT3pVLbAJfNt3bXjHYMFlePLdHa5oGncuOCM6l/ROvOANdW7jmf7LHyWi5LPsU09wdDjYNHEzXHY4geWU4WCTFcpveGKBxTl9LVeHQa1/jYxVRRCOMmUq6A==",
+  "URL": "https://github.com/requests/requests-kerberos",
+  "LICENSE": "Apache",
+  "ARCH": "any",
+  "BUILDDATE": "1589398043",
+  "PACKAGER": "Jelle van der Waa <jelle@vdwaa.nl>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "python-requests",
+    "python-pykerberos",
+    "python-cryptography"
+  ]
+}

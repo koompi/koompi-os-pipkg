@@ -1,0 +1,26 @@
+{
+  "FILENAME": "suitesparse-5.8.0-2-x86_64.pkg.tar.zst",
+  "NAME": "suitesparse",
+  "BASE": "suitesparse",
+  "VERSION": "5.8.0-2",
+  "DESC": "A collection of sparse matrix libraries",
+  "CSIZE": "1128037",
+  "ISIZE": "3563018",
+  "MD5SUM": "391282318e0ad743baefea7e2d0d6bf5",
+  "SHA256SUM": "51e348580012af10bbb17ea96fb41e213a488cd1fdfafafc93a2aa854465cabe",
+  "PGPSIG": "iQEzBAABCAAdFiEEFRnVq6Zb9vwrc8dWek52CV2KUuQFAl7/b4gACgkQek52CV2KUuTiVAgAi8f+zRGXesj3sbE9fssv36gWXt19J06HDI4z6hRxJpv4fbY3WmTIBgZ4yi72ZGXdnDYr3LjRdyyn3CihLEJPB1iJOQP0XafUef/T36SkD9CCfrQgzxdYfXiNSmfUOkDxS8I9FWUMoUu6NqqcWaZ4a51qouSOmZ8rkgfoJ9R8lip3IKDRsN4VkXcXwSC1Fo81ZXtLG/EywGfIXw7s7OY95gxntF1eA+X4eL7pFY/U/77832/jKJH5jJKPYr8MwNCTC8BrfOixLFUvY7PkbEs9YPk+dH2o5qs818JIaJEcCauKpeoLkJ+CyDvb39ynKjf62Uj4Zd5dsJFOELrRfTenKw==",
+  "URL": "http://faculty.cse.tamu.edu/davis/suitesparse.html",
+  "LICENSE": "GPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1593797645",
+  "PACKAGER": "Antonio Rojas <arojas@archlinux.org>",
+  "PROVIDES": [
+    "umfpack"
+  ],
+  "DEPENDS": [
+    "metis",
+    "lapack",
+    "tbb",
+    "mpfr"
+  ]
+}

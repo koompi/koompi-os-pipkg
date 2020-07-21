@@ -1,0 +1,23 @@
+{
+  "FILENAME": "perl-par-dist-0.49-6-any.pkg.tar.zst",
+  "NAME": "perl-par-dist",
+  "BASE": "perl-par-dist",
+  "VERSION": "0.49-6",
+  "DESC": "Perl bindings to create and manipulate PAR distributions",
+  "CSIZE": "21584",
+  "ISIZE": "49171",
+  "MD5SUM": "b1bbddba0d7e32e6dcca1e75546f5635",
+  "SHA256SUM": "b158b44dfc6b4afa6d397f7f88ae8ba6221c898101d2a8fd995cfbec58541633",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl7vNpoACgkQeGxj8zDXy5IVShAAwOj5NqxxDGPFeANAPKnRbMYdfDiDKfJP+yuSnJWTvjKt37iMCHYTrXxTzH2MZpChQkCgcnkDnV0K3HEQQkHwhZUQFvrzcx0NNbF3FstXUoiZ0WV1XxUIigLotzZRuP4hOFg61RNMpwMpDwdaS16ILUwvLZaS1XpIEgIc5JC6pDjR7w8KIQzRPTg5sc8pPApk6uMmePriqgZNjXc5SCaNRhKyM+fv7CG7SshJoDoDDKdLNfdm/WFYizgk4A4wPLqpGrBA2OcTyIX+3a0FNGXer3veyfsj55P8gQBX2XXRYehusuuJ3+ccNKGCaaw6iwVTbdFRMVNWfIAfvRNgwIMqVmQEHj68CggC9x6tl1XmktUbrnxcvtmOQ/8l/K5eSzRUw9YtWsw4+bFkNsn1bTb+CqvxzG2BCKMLXIMqx0yWuF9ZMZ7ODInZmGbhynuwbjFsy0lYwIb0R9R2ppHt313nyTcKqAsTGjysObFzhazMF5HtdF3Sf1z9PIWwJVm8FN++6jhL9ZhNDGz0mn5VlVZ0zal+O/SUR0kPTd8Q0NdbKwjRqneXIl0fhRnb+UFGqndBtiLZ4U12+sqQCCtpMgfoMjf3+KGkLD2KMbnAYRzNuHLEpB8hz2UlV9IE2khqayhA/ZWivjZNUL4gVoLeTrs0xWGcjYAGV4dY+FiQ7mqPjSA=",
+  "URL": "https://search.cpan.org/dist/PAR-Dist/",
+  "LICENSE": "GPL",
+  "ARCH": "any",
+  "BUILDDATE": "1592735362",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "perl"
+  ]
+}

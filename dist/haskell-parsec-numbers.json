@@ -1,0 +1,24 @@
+{
+  "FILENAME": "haskell-parsec-numbers-0.1.0-11-x86_64.pkg.tar.zst",
+  "NAME": "haskell-parsec-numbers",
+  "BASE": "haskell-parsec-numbers",
+  "VERSION": "0.1.0-11",
+  "DESC": "Number parsers without the need to use a large (and unportable) token parser",
+  "CSIZE": "31353",
+  "ISIZE": "176251",
+  "MD5SUM": "59cae2d8f1a313e2290e00802a5610aa",
+  "SHA256SUM": "dc7b89870198f65a4d1d3b007aa7d8fbe764dc4b5fe9aeaab9686a4f3105b1a8",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl6hn44ACgkQeGxj8zDXy5Jw3g//YRbtCHv3zA5LZ5Bo9lsTMEc/hKKtZyqfREEqF9vmNV3aE2rZBDFYTVertJR4jkQuXShknA7wMJ3YGpLHJFNhY/reXOW+7zQejnjfTRVaK5kv/ytcuVkL6+5GTlfbvgEaqjio2kYOtLkiowkuceqbMCdQn7by7UFvk0qqS/as3IZFsar7lQmMIRg7Yn2+4dYzh2ETDN4amzpxtNL9FGwwcKheVTZgOe7vNFbsZXbNrw/6xjLVuJSdVeO1VEmJw465X5kMuSwXkCDOWOYTrAOTZGk7fdR9jkGSX0JAlf7ZigTSwj+tIDXSQ7Edr84xIbz0SrpSmNPvuM8BR4ZMKEIARzIKu8jtis+1B9axSV65N6FmyrSzkzvFdLoK+yufPkhFKlafl/NAvkPTTWJmemfOHFF5ylb2J+VQ/WBKKOC+ZEORnVU3ceB6equeIw4IRcCk5BsAO8o3mWJWt6kutbx+5sGWPbzpEISjsUYGt8ydeNzkD+tEfWluLnZ/sdTz70WkaPjpH9XLhOaeb93v/RI5wRC277baiYhcNhBvRCJmgUV7ipeK4awpcuebjV6SiF/UhK9EfCa4vnFQAhSWLDUAlfDuXBHp3y4bamVQ3vtfdYJ/bDNArmlnL1U9dLlORFlLSCVudPskooo3QRx1DnPpSu5/Fj6Fy4Lpp6FVsFZDyjs=",
+  "URL": "https://hackage.haskell.org/package/parsec-numbers",
+  "LICENSE": "BSD",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1587650359",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "ghc-libs",
+    "haskell-parsec"
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "FILENAME": "python-mako-1.1.3-1-any.pkg.tar.zst",
+  "NAME": "python-mako",
+  "BASE": "python-mako",
+  "VERSION": "1.1.3-1",
+  "DESC": "A super-fast templating language that borrows the best ideas from the existing templating languages",
+  "CSIZE": "132704",
+  "ISIZE": "715816",
+  "MD5SUM": "6e60efc91e6fda351499a5a02c3fa8b8",
+  "SHA256SUM": "4e0da5712dd41875755f1d737051a29b5b4830104984443dced23c33fb44381f",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl7Rzu4ACgkQeGxj8zDXy5Kxzw//dthasaMTutu/bIsf6+Sp8CMrhBinmjDPdjZn7+atA989/K8vS4kZP0XpFNXINWs4UdZw313HCVErUHpaU6CDJm5rkR+C3cYI944j4YEx1L10nW4Pyc0rXOBcroXvbCBHfNPFKn++B1wTX3a8RXnmxDcDuL0UFHgEXAxzoWJQzze7UExSxX6/ndpr4eQCM97XrEv0Fib65bLuZ2vh3CQYj9D1XxoAI8MlkyzWEAowIzkVrsZeVisxNmOL49dMYKd4TP52DDmiLREAQXzkVnS36OuwINjyWCiGiQxFYIoKkhqBKLDKl1ojOrz5fW2hSv0EJBKq0WIaS3py51eH4LXnrLxf5fVQEBiBrZGJ1SNh+dVjInyCd66Le3DVWy1AfaBFwMfNfyEHxZ3eNLIrHuAx0CVIkdMsn6HZwCB/q+LAW7U/hiNN1r7rQrpgtyhrZZo63/4JxQRq0Uze/8uDw8h5C9ziWed1P5rlRvFApXDdptpw/vV7F9xnsjMDh+P0ufjNvH270pcH+0/tB4/XqsbAeOTbK+e9TjFn5+p+7SOZanJuDAAZBzsdUDIqH9d8hj+39NGVx+zTq4M9LzvC6psvDaTYgVcSXHWTrd1Ghf1uKXBo1vyc1hUQ7neWhY2nc1bQE7yUXEh5OkCEuwn1Otc4gldNAO8h4t57EarsH1b12n0=",
+  "URL": "https://www.makotemplates.org/",
+  "LICENSE": "MIT",
+  "ARCH": "any",
+  "BUILDDATE": "1590808218",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "python-markupsafe",
+    "python-beaker",
+    "python-setuptools"
+  ]
+}

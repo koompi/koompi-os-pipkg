@@ -1,0 +1,27 @@
+{
+  "FILENAME": "python-jupyter_client-6.1.3-1-any.pkg.tar.zst",
+  "NAME": "python-jupyter_client",
+  "BASE": "python-jupyter_client",
+  "VERSION": "6.1.3-1",
+  "DESC": "Jupyter protocol implementation and client libraries",
+  "CSIZE": "158023",
+  "ISIZE": "664382",
+  "MD5SUM": "a7173f681c95d31e8d1100931b512f07",
+  "SHA256SUM": "cf9169f1a6cd30526332d9544e12686fffaa6d01229ed039d0d256e7f8088199",
+  "PGPSIG": "iQEzBAABCAAdFiEESMOx8w3dD+Z+UW0WOW4+JbqxQsEFAl7ZldAACgkQOW4+JbqxQsG9qAf8CIoTtiN5slRFcnxQGC2RDzsKSMw5K0oVwOdwul1uxbCzu8Mc0pUkj4cjBIYaWxUH9PwYQlVAgNyzAVS50uIJLFqAYClfrcu2oTYreY6qKcpT/k98VsMCdP1GPXeFdgWecTWmQYjxxQlsh+Fw3HAdRW4VESJ5C+dlTFp9R+KmJUqmUwV8aNmIXQTKB7iejhlWLehuBB/wOpFQRbPi9TK2uAFiO7+awgcSbo1Mge+Cfc6JpKFplOpa+cyAv3s8/dvXKxhXxXD/a4yjd9gTWjY85QvzlXDmQ6A2RGExhm+xAnkpd/15XLFF/vOFz4YELEFqlM5mP3jJu5zd4tq57Ur3fQ==",
+  "URL": "https://pypi.python.org/pypi/jupyter_client",
+  "LICENSE": "BSD",
+  "ARCH": "any",
+  "BUILDDATE": "1591319832",
+  "PACKAGER": "Kyle Keen <keenerd@gmail.com>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "python-ipykernel",
+    "python-traitlets",
+    "python-pyzmq",
+    "python-jupyter_core",
+    "python-dateutil"
+  ]
+}

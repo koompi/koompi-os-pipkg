@@ -1,0 +1,36 @@
+{
+  "FILENAME": "deepin-api-5.3.0.3-1-x86_64.pkg.tar.zst",
+  "NAME": "deepin-api",
+  "BASE": "deepin-api",
+  "VERSION": "5.3.0.3-1",
+  "DESC": "Golang bindings for dde-daemon",
+  "CSIZE": "14562062",
+  "ISIZE": "95205202",
+  "MD5SUM": "c87c32b344293eba53fd0ccd6058dee4",
+  "SHA256SUM": "bc6009904e2aaea85892a070b79de2e5b7bfcbd64168eef3623c8bcce4209fc2",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl8BoRAACgkQeGxj8zDXy5KzQg//cpOc+n5U9CNe26A6txzuLjC+NvGrsSRdElwv7SHTucwTrJy5WasowXrZp6RPNlBG1K/PxEkPKcYVyJUQ9MJwENoZHTt/i0n7N7eGmW2MQiLNoOfyW/VjZPU5YbO0mYXi+ZAcUViUKjFHv3oTu9ZkNdjAQlIrbb3ppi11LAPwHo4aAUMw08CUIGAoKWuyRbAJ2RPt0t/MWvOMNQNZuhTPsuUrfmnepDI7391yXSxMDGoNViFCuqkM324GuBXGoIRQGuHPk2aLcdH9d0SIZk/yIEuKm3KNTEaQNWrEW3XcoDcj6aMEcmIKSFjIOJ9bBygVUyz1e9N7iJ2jnYSD7Xe/BZRNxxe+ayku6r6Gx36jMCsR9GhQd8Dl34UNIkQGBEv3zm4NaVy2O3Z51oz82t4qG1M3FTiWkCynbk7Tvci6Bf9PSHtI6es+phD69ZMO8zzacR82SUChVoVu+QyPzhlU4Ej7P5lNXDTUm+srJ+TIIS3taVJlNlDcyr6gvZKM3rnosuyIa8AyH9U0mvlAL8wHaDkfN14Rdp6XS72rvuXXC104xZRE/Ipanrts0VMVP849Q2mfnlvO0YB5X91zj98pVXYKwOvoh5COVzKhOqxZpaRh4YCk55HBfAg5AlIc7tw8oOTGnxo9bNZORubgWLtjJVr4iZrU1nuuuyO+kbs44oM=",
+  "URL": "https://github.com/linuxdeepin/dde-api",
+  "LICENSE": "GPL3",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1593942017",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    "golang-deepin-dde-api"
+  ],
+  "DEPENDS": [
+    "alsa-utils",
+    "bc",
+    "fontconfig",
+    "glib2",
+    "gdk-pixbuf2",
+    "gtk3",
+    "libcanberra-pulse",
+    "librsvg",
+    "libxi",
+    "libxfixes",
+    "poppler-glib",
+    "util-linux",
+    "xcur2png",
+    "blur-effect"
+  ]
+}

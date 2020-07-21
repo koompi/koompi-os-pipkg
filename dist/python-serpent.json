@@ -1,0 +1,23 @@
+{
+  "FILENAME": "python-serpent-1.27-5-any.pkg.tar.xz",
+  "NAME": "python-serpent",
+  "BASE": "python-serpent",
+  "VERSION": "1.27-5",
+  "DESC": "Serializer for literal Python expressions",
+  "CSIZE": "18480",
+  "ISIZE": "74221",
+  "MD5SUM": "6529ecf11aeb1c005190252af8d8449b",
+  "SHA256SUM": "40f742675f5c6a502a83eb10ee9b8a025c29708f01df8b6a5cf019360cc0b60d",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl27EBYACgkQeGxj8zDXy5IKFg/+IBqejKMDIlayN+dQsYb5o36P06M3wPSbH6Dxq1TqGVd4CGbHgzCoiB6UgLyoa+fG4p+5qvfrouoQb+BD/lnii7EbqzFjDWo8x4tUKeV8GtwSCIezObnOvbhKHophH8EW4i9wJQVGcGk8n5vc5B2jv5+NIGjnXWiqIsCEkgoHYGFcokvBV91tEZ00TJ2YqkvciXW/x1ZYM964N7M1RaNTjQdkdhg2fSGwU1gCswah1YjPaSBWHow+QRVV4AYVuIXmxakwtEiHQkonoo2sIBgT7hygUtmCp0CP6qOMnJMpkECGhAi9NQWkcnqDzJ5tsXwfcDWLzVFNZ8kJR9N34ruEN7I+ELQbrTCnPT1/l4aA7nEkf40jqh477qiSMvGRCti14KqtMRhAUhe8nl3JE7GttxoB65fj4dIQ+qD68loCJnusbrGETBZYzlDf7bOU5PXvMO0gBDQmYF7gUp5yqMhWFg60Sq8OzMblc0NGclDQa9U5XbsvSeVXQVbHvhVjsdB6CT3r2FNKSSCLyi664QHHvlL6vhsnGGAmQmN7FgzZcZmB5rMqWXK2EfTytutAhPe1yR0vm0bz99mDzXF997N1tdVg3+8qOJjRROgHiijmf5mpgRCTZNIQCKnyOXqdklA5J91Z1B3XNZZTk9AL+sGTyFA0wMoYkYOJ/U7AStFTSys=",
+  "URL": "https://github.com/irmen/Serpent",
+  "LICENSE": "MIT",
+  "ARCH": "any",
+  "BUILDDATE": "1572540415",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "python"
+  ]
+}

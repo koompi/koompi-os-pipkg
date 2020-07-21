@@ -1,0 +1,23 @@
+{
+  "FILENAME": "perl-digest-bubblebabble-0.02-6-any.pkg.tar.zst",
+  "NAME": "perl-digest-bubblebabble",
+  "BASE": "perl-digest-bubblebabble",
+  "VERSION": "0.02-6",
+  "DESC": "Create bubble-babble fingerprints",
+  "CSIZE": "6296",
+  "ISIZE": "5739",
+  "MD5SUM": "52e09508ba6edd506b0d47252122f1fc",
+  "SHA256SUM": "ab92a65fd17647617666d571727a4b0d2ada2fefef5f8b938b5926add8554800",
+  "PGPSIG": "iQEzBAABCAAdFiEEhs/8qRjPOvRxR1iAUeixSKmZnDQFAl7vNcYACgkQUeixSKmZnDRi+gf/bgJ/ZJemn1pZG0ompPKTdRbl7/AtkMHsH5TqGSKJpVwUm0koktccbbXH28NBwhbQzIpwE1jnPmln53Vwyvf2kVB1H/se5M6mHsjCU+Xdr5l7pwm2CenjCpCogzpOBL6jV+lRaL93s0o2GtDC7OV9psZdPTtx2T4E8EvbmAWu9SdcEajCoFa6JKjPjBskGFXm+GZ2c5IXQhZ0RU2XAEvtSwFj0c088OL4aJE8cTmstq6y8QcgkQ5goivCTPgMgM0YyDgWWlkYQQqrqC0eG58d3hIrWMMRUGJ9Q10NITwyfNSJQB8o6esK60mCWG/RfLfmBLooRPJxzoNBopThwddFsg==",
+  "URL": "https://search.cpan.org/dist/Digest-BubbleBabble",
+  "LICENSE": "PerlArtistic",
+  "ARCH": "any",
+  "BUILDDATE": "1592735159",
+  "PACKAGER": "Evangelos Foutras <foutrelis@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "perl"
+  ]
+}

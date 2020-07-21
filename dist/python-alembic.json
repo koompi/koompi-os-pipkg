@@ -1,0 +1,27 @@
+{
+  "FILENAME": "python-alembic-1.4.2-1-any.pkg.tar.zst",
+  "NAME": "python-alembic",
+  "BASE": "python-alembic",
+  "VERSION": "1.4.2-1",
+  "DESC": "Lightweight database migration tool for usage with SQLAlchemy",
+  "CSIZE": "261695",
+  "ISIZE": "1625623",
+  "MD5SUM": "9712c247a916d04297418105b3942ad1",
+  "SHA256SUM": "66da2e4e51dd70dc971464e47ff2f2ac55262ee5e2bc60529e6eacd49de302a9",
+  "PGPSIG": "iQIzBAABCgAdFiEE4kC1fixGMLp2ji8m/BtUfI2BcsgFAl5/fJsACgkQ/BtUfI2BcsjU2Q//Yw74cfKWe8JQU6qT0Akf5sb12r0awdP0ZRwHRo7zjbl9mxfb0zbI1lPOwk74cnhNMW/4kLY+tNlyxcbOHLVKIXOrDaxkYW/TTloeppfo7VwatBvcS0/ZrrqFF6Y1XyjNEcCTTNs8DKzU2jmUnxHVrBBY6MjXs9tg2XwcibK6JuyQLauQmwAzDjrUDgLh9FvprLNPRuPFKds/ED4C3ZnlprzKDgkCwa85AlDMV4fVaQz6FDBj0AOiBiIA0Bn/yu6OlWMZZ3PemMZb5/GBspL9r/vFeTRYe5TAPNN7mfl2akxNECaOSP7QceAYdgiG4/IgoFEltiDsmpaKI0oZk4vDqrtVVyKkEUzPppyxpiISD/APl/bjz0mBzh6krH7kn9Lr8NaV36fzYYlRDVic1wf+YlkdlVhKTjTOolFQeEsqiRPeL6myMMyyVMx+oWO+1AnR/qx29/OaG8FaDu1WcoUzHnvr6Yc7piFUi78W2kamPpvw4vOIYaWDLJgkfvzPxiu3LWBa6I470QNNB0HhdjCRz0u5rqIaS7ZbybpW4usnvzFAKK7RuTrgspbFW5RnowU7lJKyc3Qshz5CeAWq057Sg6exrZtlKddbCFxAUHjzhKndgFF9XtWL5qRTq4LIVoKgcuEK0e3bi+8VFpHJ4kar2ebLoAZv4eeqnbK5MPP0CDw=",
+  "URL": "https://bitbucket.org/zzzeek/alembic",
+  "LICENSE": "MIT",
+  "ARCH": "any",
+  "BUILDDATE": "1585413203",
+  "PACKAGER": "Levente Polyak <anthraxx@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "python",
+    "python-mako",
+    "python-sqlalchemy",
+    "python-editor",
+    "python-dateutil"
+  ]
+}

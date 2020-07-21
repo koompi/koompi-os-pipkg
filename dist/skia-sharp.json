@@ -1,0 +1,29 @@
+{
+  "FILENAME": "skia-sharp-1.68.1-1-x86_64.pkg.tar.xz",
+  "NAME": "skia-sharp",
+  "BASE": "skia-sharp",
+  "VERSION": "1.68.1-1",
+  "DESC": "The Skia 2D Graphics library from Google exposed to .NET languages and runtimes across the board",
+  "CSIZE": "1705984",
+  "ISIZE": "5414174",
+  "MD5SUM": "efed8c0bc19fecc5fa3a49de5c98d44e",
+  "SHA256SUM": "498b802a0d6d1fbbd06835e30f459b65f1ad065e13daca0fb5ea76a5f2b45b1d",
+  "PGPSIG": "iQEzBAABCAAdFiEElDfdOBWnqRaePTlGr/XZUJi8b/UFAl35M2AACgkQr/XZUJi8b/VmMQf9H3j92Z/mnXgeHcpbr9QiRxRsp3VP1iWbSVhDGlHfkmk1fCoWjFoGn4q5ftSpONWWdWtKx3aaGWpUbfsHW83GjdplbrwXYOwZv3tNbeROibLypC6UZJI4AE4wiQVHbKvr5NFj0ZaD9KpKBBlXKHvPhPF9CrKwbFMf2lqjs3adUb+O/tA7GiF5v7TL/neKcmB+qZCsvjiJrJ3st4ahQIXW+As/D8VaYREt12VlNprBxyR7GWVJhX62+wgtIRH45wXsaR6HbkWc3w2t0MPkz1nhSVSmTXKATbgsbhlyoPwEq0WK6cYDcYgiTZ3LffjwddTLpTJmx30UoHXsVaeI0zALGQ==",
+  "URL": "https://github.com/mono/SkiaSharp",
+  "LICENSE": "MIT",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1576612193",
+  "PACKAGER": "Maxime Gauduin <alucryd@archlinux.org>",
+  "PROVIDES": [
+    "libSkiaSharp.so=68.1.0-64"
+  ],
+  "DEPENDS": [
+    "expat",
+    "fontconfig",
+    "libfreetype.so=6-64",
+    "libjpeg-turbo",
+    "libpng",
+    "libwebp",
+    "zlib"
+  ]
+}

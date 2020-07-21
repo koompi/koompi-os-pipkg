@@ -1,0 +1,24 @@
+{
+  "FILENAME": "xautomation-1.09-4-x86_64.pkg.tar.zst",
+  "NAME": "xautomation",
+  "BASE": "xautomation",
+  "VERSION": "1.09-4",
+  "DESC": "Controls X from the command line and does \"visual scraping\".",
+  "CSIZE": "38600",
+  "ISIZE": "179674",
+  "MD5SUM": "02b0c26be1edd8a1570c424b915eea36",
+  "SHA256SUM": "ed194756ff42b9076d98c34e4b44f6bcaee3f8d05bb13bb36d238aa5372c3336",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl8EbcwACgkQeGxj8zDXy5LRZw/8DI6sj3EYy/Jz5kKqq5qWA4i3f4ford6eW4pMM0l7n6Y4y7PDw04cjXAkIhs1Gh2FasybMkAvaZwv0CeHx38FhmqnvQZanA1sFwKDi+ktKTqVHRE6xdTP/ZTMNwS3db7dBrkTvHMGFdjHsvp7vYUeq6rEyXWKAhu9BE3Rxthbg/bKDCXRlgZhNU0E+DILxWthnV5oIsln3i2Ggd0FP0/hx3KXue10Cf72WCSDgC0KC4TLgq8GqQxrtVB4IoRY957MJxoQW6pfTlrsAAP/M7RS8xpsNWhFkuG8aiGxOECJ1z6st7z1GN7AEKtbZsMZIeuXZcuhkOplgF/S92RN51KekPpKCzV5KAGRCLe779+g+C69XWH6JQJKP9ElA91EtCyL86jYJThqkVIzaW/grrVZ9e33iTYL5zK4Tboel3O/2NnXNibdit9sUwUCDZi6vNeJIy6ARNBsrq5NwvQQ2BE2LMJHxcJh+rx95FwyZ+zH+rjnaBFusizlRQtxzPqXDXqb99PccCHyDA3QR0n3XT4FwgpRLBi3DWROZuxXhus/zHOJE8ivIM1bOHgxMiuPpnubdzeYrjgIZnWK/2OMVkXSGbDcfl13eyweHemM4uFAd7+JLAkJZ3VEEKIK0ymlztoqQCkr1Qffy1CVAo6Btaac9myQygDqAI2MUJSvojqJ9dU=",
+  "URL": "https://hoopajoo.net/projects/xautomation.html",
+  "LICENSE": "GPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1594125735",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "libpng",
+    "libxtst"
+  ]
+}

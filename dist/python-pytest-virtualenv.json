@@ -1,0 +1,25 @@
+{
+  "FILENAME": "python-pytest-virtualenv-1.7.0-4-any.pkg.tar.zst",
+  "NAME": "python-pytest-virtualenv",
+  "BASE": "python-pytest-plugins",
+  "VERSION": "1.7.0-4",
+  "DESC": "Virtualenv fixture for py.test",
+  "CSIZE": "15766",
+  "ISIZE": "41860",
+  "MD5SUM": "a17fd7cf8b98bec8ee4820a77914b53a",
+  "SHA256SUM": "aafaf0635bbd5a2d9bfdf727d827a07b8c733f4db7c557f9c0b2f4b9d6f7aaae",
+  "PGPSIG": "iQEzBAABCAAdFiEEFRnVq6Zb9vwrc8dWek52CV2KUuQFAl4TGUwACgkQek52CV2KUuQbCwf/Wrp2MFGPy4YG6FV9XiyDt2BPbyDBL4gFa84LBZU4FUWh2/FHguSI+3AK5ZTDaRJlT5Kyc1Mq8w56WeWcAWf3+NfCUjwZYaaZEoHbrZy9+Z4yJERoYXothNiW+fWEIGiJhhvhScCw1f9aBhabLRIu6a/mC5w/ZiGPIbkO6p5ry/VKdLT8LEHfCC5um2yIM5LtVG29uIao/iavhPmUlJ/fngvCbDLbG+FrVq72ysfQWriMD0PmzrE8c0RUdVClxPiCSW6SrZ/wsC4BB8KVnNBfG2gPM8u7yOFG8nzVijL9xWJCIPDZvymph4CLb10nN8TFh/6lx+zrOSOTsgR9hVAiqw==",
+  "URL": "https://github.com/manahl/pytest-plugins",
+  "LICENSE": "BSD",
+  "ARCH": "any",
+  "BUILDDATE": "1578309878",
+  "PACKAGER": "Antonio Rojas <arojas@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "python-pytest-fixture-config",
+    "python-pytest-shutil",
+    "python-virtualenv"
+  ]
+}

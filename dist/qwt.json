@@ -1,0 +1,24 @@
+{
+  "FILENAME": "qwt-6.1.5-1-x86_64.pkg.tar.zst",
+  "NAME": "qwt",
+  "BASE": "qwt",
+  "VERSION": "6.1.5-1",
+  "DESC": "Qt Widgets for Technical Applications",
+  "CSIZE": "3819206",
+  "ISIZE": "19288017",
+  "MD5SUM": "ad008549be8c0f4416f25b0d9fae45a6",
+  "SHA256SUM": "4a8bb102c0e011f30a52e173e96b785082672c4b3efd2d2b719f72a9b5524e1e",
+  "PGPSIG": "iQEzBAABCAAdFiEEFRnVq6Zb9vwrc8dWek52CV2KUuQFAl7bjQ0ACgkQek52CV2KUuRWFwf+OOsP9DGaNDPSfbDLkNlJg83gBof+Vct5bTyyHCTH+CwrU1rNNLA/c461iv0OHOdoYmfFmM1iNemVD298//Pgh9OFkW1n2qjZx+/0SHJD6frQLD4cCg/jpFvEIeqZ1sK12xXGi/VylnC9Gollmzyxs7DqgoqdsTT282B1KfjW7cHunhrkPEVvkGA4YS8EQnSrT+YSFWQuDUYy5wrbYH+BUfULUQWh+pwkDT34bHYsO+LqlJqVA7O/jaU/W6nwKUxK4+nMLKW9fMteS5CURlMJuZvAoJGAxO/tnvuvQ4Ic/OISWP48+3dbdFf35wJQk610OlpLUaEv26t5zSV+erz3IA==",
+  "URL": "https://qwt.sourceforge.io/",
+  "LICENSE": "custom:qwt",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1591446575",
+  "PACKAGER": "Antonio Rojas <arojas@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "qt5-base",
+    "qt5-svg"
+  ]
+}

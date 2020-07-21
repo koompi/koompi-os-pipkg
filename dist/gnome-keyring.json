@@ -1,0 +1,26 @@
+{
+  "FILENAME": "gnome-keyring-1:3.36.0-1-x86_64.pkg.tar.zst",
+  "NAME": "gnome-keyring",
+  "BASE": "gnome-keyring",
+  "VERSION": "1:3.36.0-1",
+  "DESC": "Stores passwords and encryption keys",
+  "CSIZE": "846115",
+  "ISIZE": "4486647",
+  "MD5SUM": "9983da37bc38be529ca17c9a7ea7ac93",
+  "SHA256SUM": "ea34b3d4b761d2239d1b314da12248c87091248de4bb89748d76fbe5de3394d7",
+  "PGPSIG": "iQEzBAABCAAdFiEEghj4iEmqxSLpTPRwpekojE+kFfoFAl5os6MACgkQpekojE+kFfq64gf9F6OkDJarEaGnoqN+0LXKvsNur35ZSYwYp0zkKG/rLPmJxICLSZjjCtRwG9k7EOljXl3FPsFvro2InNNuFnkD0IEOI74dFeBc5c6v6qbMeMnwfZVSigsnDnXgWd16VDuZXtbJ1N/thCx2p1WvW5NNDMepI9QjT5HTdrLZCVoZqhov602O/zyFHFt5Jvyes54adZEQroVY41JUmZ44HAGAoHVui69z9F8a4/y6dT5Bumg3d0cY66m6wkKaiWK3/d4IueIFKIkKqrol3SJ0RoShepTzSNpy60628XliH0w5xviTotSXIqbOWmn/XW3TqHs8WL80UsrM14WjJ4ON8a46Fw==",
+  "URL": "https://wiki.gnome.org/Projects/GnomeKeyring",
+  "LICENSE": "GPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1583919651",
+  "PACKAGER": "Jan Alexander Steffens (heftig) <jan.steffens@gmail.com>",
+  "PROVIDES": [
+    "org.freedesktop.secrets"
+  ],
+  "DEPENDS": [
+    "gcr",
+    "libcap-ng",
+    "pam",
+    "openssh"
+  ]
+}

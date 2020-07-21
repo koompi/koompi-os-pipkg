@@ -1,0 +1,23 @@
+{
+  "FILENAME": "alsa-firmware-1.2.1-2-any.pkg.tar.zst",
+  "NAME": "alsa-firmware",
+  "BASE": "alsa-firmware",
+  "VERSION": "1.2.1-2",
+  "DESC": "Firmware binaries for laoder programs in alsa-tools and hotplug firmware loader",
+  "CSIZE": "3478213",
+  "ISIZE": "14803366",
+  "MD5SUM": "46dabb538a688a2147e971fa5b81ec28",
+  "SHA256SUM": "96061301ddd1073e2087a004f37fdad1f40f3624dbca514fb4d86fbb41989b13",
+  "PGPSIG": "iHUEABYIAB0WIQTH54SUZv4jWDQ1iDdyWHNLQcMVSQUCXigwiQAKCRByWHNLQcMVSYVrAQCumNXqERVXMo3SnOBwJb9T2YbPoozlH9/gUIAtNOLukQEAx4DRqXR5f6SJrnDXAf2HuJt3DgT7DR3gTpqGeKEy7gM=",
+  "URL": "https://alsa-project.org/",
+  "LICENSE": "BSD",
+  "ARCH": "any",
+  "BUILDDATE": "1579691488",
+  "PACKAGER": "David Runge <dvzrv@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    ""
+  ]
+}

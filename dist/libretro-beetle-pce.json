@@ -1,0 +1,26 @@
+{
+  "FILENAME": "libretro-beetle-pce-1021-1-x86_64.pkg.tar.zst",
+  "NAME": "libretro-beetle-pce",
+  "BASE": "libretro-beetle-pce",
+  "VERSION": "1021-1",
+  "DESC": "NEC PC Engine/SuperGrafx/CD core",
+  "CSIZE": "428108",
+  "ISIZE": "1000040",
+  "MD5SUM": "fb984a3e82dc35a5d1688f1447997c22",
+  "SHA256SUM": "3144b76b327ff14eba1863ebcc8d51430ba1e9782a10751549bba1924fabc8c6",
+  "PGPSIG": "iQEzBAABCAAdFiEElDfdOBWnqRaePTlGr/XZUJi8b/UFAl7xz4cACgkQr/XZUJi8b/Wc8wgAheoEC74398FruBpzrKJHWkMNqjku21evyLMiw9DYfo7XVQvgJM7J9ofF4mrozUERVsSi+qD58mySme7BxT1/P8RYFKrjIK3aTQ5gc5wo9jaRTrbfq4BZyagW3V9fqvTM64brM+hq1UsP2cWZ4Ox1kX1fZiAFT3xC1+mX9rI65I/GyYuOAukZblJv2hK3neqOEaoIG+UrVGCN797mh7i9Q1g+ryk9b6iAK5oC+WJLuVwI6vd912sYweAS6/jhJyAfq6HnwhIHdId8FwGa9vWnmoP1FFbbEaWl0FTn/+HhCW5M/05a3EEqNmULHBY+AmThvEy+koaUYc7V38SqTMIQkA==",
+  "URL": "https://github.com/libretro/beetle-pce-libretro",
+  "LICENSE": "GPL2",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1592905582",
+  "PACKAGER": "Maxime Gauduin <alucryd@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "gcc-libs",
+    "glibc",
+    "libretro-core-info",
+    "zlib"
+  ]
+}

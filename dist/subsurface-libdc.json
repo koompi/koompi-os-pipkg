@@ -1,0 +1,23 @@
+{
+  "FILENAME": "subsurface-libdc-4.9.6-1-x86_64.pkg.tar.zst",
+  "NAME": "subsurface-libdc",
+  "BASE": "subsurface-libdc",
+  "VERSION": "4.9.6-1",
+  "DESC": "Library for communication with dive computers",
+  "CSIZE": "264372",
+  "ISIZE": "674217",
+  "MD5SUM": "29f22dc68a4ac18744160f2c73c7a2a6",
+  "SHA256SUM": "360bd91a7afd6637c421dac3939862f5861a8aee539d35fc9a5ba958362228f4",
+  "PGPSIG": "iHUEABYIAB0WIQQaYNxEJF0G/vkGI9bu7uLu7i7u7gUCXu8XOAAKCRDu7uLu7i7u7pxzAQCxsUilJqlITB56QyZxiAzccWojK6oK0aChVz4SeAeg3QD/e30XLETNjhxAoxLsXRvPUwSPJ4ygKSDuONtdb+IwWAM=",
+  "URL": "https://github.com/Subsurface-divelog/libdc",
+  "LICENSE": "LGPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1592727303",
+  "PACKAGER": "Gaetan Bisson <bisson@archlinux.org>",
+  "PROVIDES": [
+    "libdivecomputer"
+  ],
+  "DEPENDS": [
+    ""
+  ]
+}

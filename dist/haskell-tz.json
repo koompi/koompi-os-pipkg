@@ -1,0 +1,26 @@
+{
+  "FILENAME": "haskell-tz-0.1.3.3-40-x86_64.pkg.tar.zst",
+  "NAME": "haskell-tz",
+  "BASE": "haskell-tz",
+  "VERSION": "0.1.3.3-40",
+  "DESC": "Efficient time zone handling",
+  "CSIZE": "104839",
+  "ISIZE": "509066",
+  "MD5SUM": "bb149af53521271cd1ff2828b910ab93",
+  "SHA256SUM": "0e29362871ad311234ee33ea07273a2832d9e118893780fd893ad84d0edd2ca1",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl75LSMACgkQeGxj8zDXy5ItUA//VXbAAauzYBxO7ra2EbgXEKD2aA20qXqfikvvAChzZ30UnrBjy2R5Rf2D0DD1J+23SFpca6NMTCmag55+B8TuwUJUf+GDqmDo4bIj6RTeP862/9IPKoZHzPzSAjw3Oy+hNxa/eEk0mHSiYAAqwyN5FaxHDsRbeH1sCpp71/8ER7FSjO+Y/YGVLYrtJThG38mQKYgSYJep4JX3a4a6F7RwnkA6nMDOacoeeprShj4Qud5VxkbmdXnxojm6cdorYW7hD1Q2O8Dx8fqsgauuw0oireWG6t0N10/Lq3ZiQmL4AfqMbDQ+eTLhw6KUB4gSrUgpK0cAR2mpUJXZDMK8wduOBwbZrMbAX5kp2NHpy0Hx7AthR91blsorypOvSnPLCI8tuLwOjp3fExUw2VNJBVNRbRGGU2XQsJx2amkhb3FqvLFMDz9ZNo9KhLqNtLmubEtsGlJFS6Ne+MEHDVccoL2D2WUZCfvMrzZMey08cNuENIFemyomkUwUswWZtvXmSfS0/txbW1RtCt/zc3fT92eo4ULHlAvGkUv2QFDkgi1hRmnSIfK8ueQQTR1zg1afaN2CNJLRAbzyZFU7U2qP3EtdBCOV384FZqaOOVNPGUfV+iQln5W6BBAPRPBi3+4bdjaYzfLq8Rh2qvr1VbQtaXkwwL2/VFQfl35hGDhd58T4j6o=",
+  "URL": "https://hackage.haskell.org/package/tz",
+  "LICENSE": "BSD",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1593388285",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "ghc-libs",
+    "haskell-vector",
+    "haskell-data-default",
+    "haskell-tzdata"
+  ]
+}

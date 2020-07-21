@@ -1,0 +1,25 @@
+{
+  "FILENAME": "restinio-0.6.8-1-any.pkg.tar.zst",
+  "NAME": "restinio",
+  "BASE": "restinio",
+  "VERSION": "0.6.8-1",
+  "DESC": "Header-only C++14 library that gives you an embedded HTTP/Websocket server",
+  "CSIZE": "191357",
+  "ISIZE": "1172101",
+  "MD5SUM": "bc8af71cda60718024bb0da35e698509",
+  "SHA256SUM": "1e83d165d5a5f55f86e16defe5ee119e1572b1adbc036bdaf64c173681a2adaa",
+  "PGPSIG": "iQEzBAABCgAdFiEEado014/g79WWrG0EnYk+xNqvkSkFAl7Os7sACgkQnYk+xNqvkSm/xwf+PXP1DV7KDT4wLz1E5snk883UtXv8vWjE4fJ/FWDFd/X4uj29+E3kSk65tXJWDqZSiGztgjXjOnMBizhPKuEptNtQtzALNRi4kCiYWUWAuJ6mNdYnIbozyx+G/5iUsq4vkMkp2qdUu7VjUPunPnvd6L0IsjJQ4XpXD5CaqfEAXmnZo0AJ7Sd6kW1e57+EbVt490+u5GG/pQFezwM48/5kSmjTuFnylZohYGfu4lFXcJ+GpCallwneyMuUyDOtunF+cG8QhW8tC6nNNX1Mj79a8je+soFSH1mmh70i6rjQs21XSqS2m79Gfg5Yb+LYA92DeHgmQb2xpjUuxoVfcNwtCQ==",
+  "URL": "https://stiffstream.com/en/products/restinio.html",
+  "LICENSE": "BSD",
+  "ARCH": "any",
+  "BUILDDATE": "1590604640",
+  "PACKAGER": "Bruno Pagani <archange@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "asio",
+    "http-parser",
+    "fmt"
+  ]
+}

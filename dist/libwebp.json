@@ -1,0 +1,26 @@
+{
+  "FILENAME": "libwebp-1.1.0-1-x86_64.pkg.tar.zst",
+  "NAME": "libwebp",
+  "BASE": "libwebp",
+  "VERSION": "1.1.0-1",
+  "DESC": "WebP library and conversion tools",
+  "CSIZE": "344986",
+  "ISIZE": "1112517",
+  "MD5SUM": "7e3ac94dd8b99e8ca793cca9519bf2f4",
+  "SHA256SUM": "2813185c22dc023fc2829dc3c0f09a215ffb30bacd757ae7f86ddf50b09d998a",
+  "PGPSIG": "iQEzBAABCAAdFiEEghj4iEmqxSLpTPRwpekojE+kFfoFAl4U68oACgkQpekojE+kFfplFggAp0TgiMsIrQWAQgoCWwnSIf5XyXVqwLNk8XWeoO0Vy5xiY5cZquXaxx2tJRlMTG/uChZqZs8rikVs2o9S6Kt62CtidWn5I4wstWXbipeKH6XZHILIHbXlG3bfcA60tdr4ZwPn72VNXdN7W/5MyhMjADp4BSa35FCoYTceudiDsA/B2dUHEmKm7jfA0fv+hG+rkdlwEniM0TAvGGFMtSDHQzyZT6RPHgVYRiSR3+itP/uGITsKiont4RDSjRiVM/bTsZrZjrXJCH0pZq5YX1XmfWIuqjuY9G3/p5CJa+om1yn/IAsHfleOncyeLUdYsIfLaGrjasZWq87P9NE0ICs4Eg==",
+  "URL": "https://developers.google.com/speed/webp/",
+  "LICENSE": "BSD",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1578429319",
+  "PACKAGER": "Jan Alexander Steffens (heftig) <jan.steffens@gmail.com>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "libpng",
+    "libjpeg",
+    "libtiff",
+    "giflib"
+  ]
+}

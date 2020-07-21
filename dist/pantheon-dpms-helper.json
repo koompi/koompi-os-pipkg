@@ -1,0 +1,25 @@
+{
+  "FILENAME": "pantheon-dpms-helper-1.0-2-any.pkg.tar.zst",
+  "NAME": "pantheon-dpms-helper",
+  "BASE": "pantheon-dpms-helper",
+  "VERSION": "1.0-2",
+  "DESC": "DPMS helper for Pantheon",
+  "CSIZE": "3538",
+  "ISIZE": "2033",
+  "MD5SUM": "2eeb9b951b90b7ad43f135185e09a2f2",
+  "SHA256SUM": "99a64dc23550fab2b0a5e7db381f3479fcfa8aee491c0b1e44bd63101c68c45f",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl8EbZYACgkQeGxj8zDXy5JFbQ//cdvOUiebvDqvwjUXXdK2WW0KMo9kvLNsPe7ylz0yurU/FlXXxxIBEydC40F0SfbRKLgeNEzLwi/Pl8qh1as8AGKkkXHXcYkf22UernRe5HzBE0ucOpAZOCmGy2zHytlnmVE6PiGuhC3Zf+kqmNxMHCPSnDs2m3pgWrIXzznSMmFTx76mD5L9FYSSPdqib7i8m6OKlsHafvKf8aSxCUYzwKxwq9C8LlX6Az24+QfqjXpGoBGFVpbCnk5sp22rioCnPRHVVQAVAzlTvHW3m9YxbSsuMGXSSIUzLzIqQW3LzlFSzNdPCvO9CU6Gq5bHEtGT32Qx6nWOz64AZOVdvGRqR5o8PXNRpK0qTW7CP1oymy22Tg1QmoGK3pkgyrTxcpSimHCkgMtjpB+MXVdaZR0vTd0BmY57pIKVPrfyLtuFbUtM6SFdHZT1tVWBki8J+MFGGwTFt/xi9ePdgymeLfburJf1iLlO7eiGynIoTf4kl7n7xZWBCYqBnkaliSCJzHA/AYN0gum7Vi69bvnyQZQs0ihz/OVgqCvFPjwc44RSDir9Nkce18SG53BaqvQSy2aTDSC7mmRCcID8sZ+EArsHRoaop+BXTiRjvKFYUKBr185m9upFcJZ0R9sR4fc9X2fvcFzxShccvLFeP1aJKPNbtVZHHW0FFWEQPMT1IcLPRTc=",
+  "URL": "https://github.com/elementary/dpms-helper",
+  "LICENSE": "GPL",
+  "ARCH": "any",
+  "BUILDDATE": "1594125604",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "bash",
+    "dconf",
+    "desktop-file-utils"
+  ]
+}

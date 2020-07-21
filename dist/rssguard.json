@@ -1,0 +1,23 @@
+{
+  "FILENAME": "rssguard-3.6.3-1-x86_64.pkg.tar.zst",
+  "NAME": "rssguard",
+  "BASE": "rssguard",
+  "VERSION": "3.6.3-1",
+  "DESC": "Simple (yet powerful) Qt5 feed reader",
+  "CSIZE": "2571030",
+  "ISIZE": "5903707",
+  "MD5SUM": "b71de4120197fd68911be72ff9ccfb1a",
+  "SHA256SUM": "0efe79b6b9ab66d1d167b1b6cfe26a978c1febc7aba660c0445e54a84c0cf563",
+  "PGPSIG": "iQEzBAABCAAdFiEEzgvecadZqH8j8PfYth284QkBwWMFAl8I0s0ACgkQth284QkBwWMlGQf/f0HBaZsVyBrEKpnfILF77lzCqce8X47bT98YzNEQ+tSxuKLZ0R9c66Oa18cOnw7PUxWGad+F1i7mjVxrHK3unpSroVj+cp+fygH5033leyzG02uHayL936S+/PWz8FvbhlET6TJWqZfosm3OiLGPOyMj6OJsRjvnBEdXe9fpgOHoJi3XnlP0D4k0MVgnqstHAXPRalH73J84PZ6yEfqG5LRHL+CU8R7YiY+On2rnOVxZ12JTdWcR0gX/254xhVvJVxTCuHxEeefTo7nOtuOZN6/2yKL/Jjtap4Gy+UeLJebggtKhN7Miy6YWocyHLAj7ZzlDjXoSW6tdHmpKff7KGA==",
+  "URL": "https://github.com/martinrotter/rssguard",
+  "LICENSE": "GPL3",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1594413629",
+  "PACKAGER": "Balló György <ballogyor+arch@gmail.com>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "qt5-webengine"
+  ]
+}

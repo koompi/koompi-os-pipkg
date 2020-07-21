@@ -1,0 +1,23 @@
+{
+  "FILENAME": "intel-mkl-static-2020.1.217-6-x86_64.pkg.tar.zst",
+  "NAME": "intel-mkl-static",
+  "BASE": "intel-mkl",
+  "VERSION": "2020.1.217-6",
+  "DESC": "Intel Math Kernel Library (static libraries)",
+  "CSIZE": "130545247",
+  "ISIZE": "980025518",
+  "MD5SUM": "24dcaf1bf9ffd2c4c32c9595819c3ed0",
+  "SHA256SUM": "c65031cc8aa096c6184501162f23a5a1a4479176b4ff19aa41cb86e99c37a791",
+  "PGPSIG": "iQIzBAABCAAdFiEEj8FaBklQqZ3RvRTdOeS4d+YuuRUFAl7mu+YACgkQOeS4d+YuuRUHJw//f2U2HmeU9TifwpWRNCQfGBef+C4e/aoOPa9kkJ7NDEMGnbHmrjtPKaHuEBMaCavC9hXusVWfHwlZ4576vuWvdBY7cbwjPfyHVGDJw3E6d5XFnvodYUOmPBFyymV5hoyXHgeLBRtED1Z1n9IIInjxM9IhaxpctyUETHmj+CFxTDSZCgeQVh2RhkkJWYTFwD0gpquztRKPzrNgQhjyZnximdY/J85tz1vTyxWxH3xwqzKr7rHZ1/Wody29x22q5NU6M10dnpw7A7SFbMC/9EYS4LmAlyHX2cJug1gQXSzBIrRCchidAAWUM+P3dhL2pGLh2wOSmh3tM1KSvF1AodGn5XkzfhTt9wi360qqUfbOXB/mbQsILcAEIa7anUmx4dyB2TCP8fB1qFUAloF07QNxgCedn2CRooPbAN2SdyK0gqLXvJMv2LWpgf0WSvjeqSsoJoc+ZSixRBEH7cW3wC2LFrm0wXygJ3sb59gh7Aa3f8ycNSAco6SC6sdDNiUcE4fD8iK0YZL7lFqFIAcGz9bXholg3i95GYeXXLLH9sfrAS0ru6q3xCRINglKc997XZK1UAy99fiPCE2PHrIyPeSwYbaevudEvYdo1rlzB3CTLR+n0QFBfl4rQHddUXTNtN/vIaMi8EYypizps89XaRawN9Md5HB11HNTREbTtuAFCmY=",
+  "URL": "https://software.intel.com/en-us/mkl",
+  "LICENSE": "custom:ISSL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1592179454",
+  "PACKAGER": "Sven-Hendrik Haase <svenstaro@gmail.com>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "intel-mkl"
+  ]
+}

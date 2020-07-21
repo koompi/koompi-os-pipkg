@@ -1,0 +1,25 @@
+{
+  "FILENAME": "perl-poe-1.367-4-any.pkg.tar.zst",
+  "NAME": "perl-poe",
+  "BASE": "perl-poe",
+  "VERSION": "1.367-4",
+  "DESC": "portable multitasking and networking framework for Perl",
+  "CSIZE": "438950",
+  "ISIZE": "1213191",
+  "MD5SUM": "3a16ba154e90687324a2d594a23ce306",
+  "SHA256SUM": "4330cd381e8b3979585d2ae0540ed5457b48654d6417553d79297f3bb205751a",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl8EgesACgkQeGxj8zDXy5IaDg//Ubn3XIQ0sXCh56Hrrko9nIRhZYAJYHR2I8DXhUxOrsnTBfkwgUM2732qvtOznltKDK423AKi+PFO3U0dm+asXJ271DUMynBiYtB9wb/UsueADDnIuSN3WkTxmcYH7d809E4NtBW1ONW4UuYQjoW3D7hEpAbnIDSNPqpiRvC2fFfv/MSenzx0VqHr9nsSW3oSz98yULH9oe/jEmPSKjKlDi12QEOuEzCnx8bsMYxSrL+dkAvUXzRHWH5z7p8jzigoIH31Dn+AlCBuG7dRa7/9LKEc8DEP4oS5nfoGJiBVNQ5OTFeo7JzwrhovrQRU/FbkddOMlyQNoujukxyXTUvz54Qap8OuZ5ebwtzHrbsBQxu5l3qYow+a1/CS1ZNygunUbLKuvu8pMP7yLf4/TvZJD5N7NMqIAYqHEmhnndZxDfJroikR3FWlOYK+9fKv04qF4QkDNhAqeGr1tJoCBdaGDrFX3USHuRDwLsKYEj8ulRBKONRCg31ipY/CygI+w9ddCUsBuMUUvgLgDA54dFWu/XP9nyA6GIScsL+gMEgDMQXMC+6LR1l1xvkndqwYSTfX195JbZKhJxhZw/He0lp/gNU2GmXduh5s4RazT8TiijwYJAQSXCUIVw+SRwZOSTgfbil2KXyrgh7yaEv90uZk+dzIybteNBKsE7El1Xtg0+M=",
+  "URL": "https://search.cpan.org/dist/POE",
+  "LICENSE": "GPL",
+  "ARCH": "any",
+  "BUILDDATE": "1594130903",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "perl>=5.10.0",
+    "perl-io-tty>=1.08",
+    "perl-io-pipely"
+  ]
+}

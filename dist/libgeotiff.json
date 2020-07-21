@@ -1,0 +1,25 @@
+{
+  "FILENAME": "libgeotiff-1.6.0-2-x86_64.pkg.tar.zst",
+  "NAME": "libgeotiff",
+  "BASE": "libgeotiff",
+  "VERSION": "1.6.0-2",
+  "DESC": "A TIFF based interchange format for georeferenced raster imagery",
+  "CSIZE": "104351",
+  "ISIZE": "427647",
+  "MD5SUM": "73ecf76e878faef8b8f58b71260a36e4",
+  "SHA256SUM": "6e1ae6656c0e17e88627ff2ad9d741f067c0d61d466783c0b6e6bebba5983e58",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl8EsGEACgkQeGxj8zDXy5LkdxAAi9JQNxa8hZ1bnLD9PhUR2UT01M1aK0jgfeA6LMtpC6OSXDDOkO5GSZs0Xdb1QPN8eZ5RDk6xTszgZBMX7r7kg7qfV/EfZ2T7NJ6TAPbjYion4oc78nsDx5FXp47CAN9HXXnEmPGs46F1atMacn8hufO3o4KbyEaSJoupH5sM12Dg2ZximGcSVQ7V4krA4I5IyxadUZOfp0iMUkTP+l4DPEjydUUUWc8z4KIR8nshvwqndRsKY387+RKJfC67ma14gHpPrUnIwKjhZEuJ4pUFF7fJqIyKG4nkyeBd8+8iyMaef9EMZjQ5g9lfHkxnTGKFeYs78m383Qb2axiC77ENr313J1tLSTTEp87TCuuXWo9l89uA5PCTXR4A5BkSZvTHfr88gfz+NEM0mo1bpeoxSdrZz9+Q99PFK66pnRftpe7FQocVBTj45H+XOi6mO94J/KfoYDAUq4JnK3n4iJvum91HF6RmS+xutZiTREeiUg8XdPx9Cc7Y6eUINvQv4GaIQO1ZHqgS0qB8oDhaYZnz7Vc1QZKUxFzUaE7y8IEme6i6CV5ERZ44oYn7mASu263aQCKg+VoAIlfM6ngdsq9pj1/TMSvPB5NnN+zh1hkMo7zdgvJiA0eS5EPac2iP9oAFuWg3+BJQxNQph0uJ3CVddF3dqj6avsYij4kszVrrXFw=",
+  "URL": "https://github.com/OSGeo/libgeotiff",
+  "LICENSE": "custom",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1594142792",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "libtiff",
+    "proj",
+    "libjpeg-turbo"
+  ]
+}

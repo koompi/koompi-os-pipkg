@@ -1,0 +1,23 @@
+{
+  "FILENAME": "perl-file-which-1.23-4-any.pkg.tar.zst",
+  "NAME": "perl-file-which",
+  "BASE": "perl-file-which",
+  "VERSION": "1.23-4",
+  "DESC": "Portable implementation of which",
+  "CSIZE": "12409",
+  "ISIZE": "16730",
+  "MD5SUM": "b032eaf2cfa396fecc85d22ee8a60c41",
+  "SHA256SUM": "686fbb3d5e57033d15e33ebcf57631ccbab0498366be72cf9ce92e9d9591cc84",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl7vN4MACgkQeGxj8zDXy5L5uhAAqv92CldlTUydc+0xhf5Azv5f632ASwdhwwkKDTCucw6IqqRbDfeKvTU4O7wqT78Z5BReFvNaBISuxVX0tAxTKTcFXGMvDa94MHqp+qax2BXOramq4zDr/9XtshZbD1V3v1Ard5X8cVCYR55FDyfIIILddtdYorPCAk96fhizoLmUhU3Zq8/YOpj6Ym94FWRx8wFBVdnGXy1DIRdpJ9fiCELQuNOO72zX2kIRg5EREGhookKKlKUnzVfO7ciLRY7XQ/BgykQsSE9udhKMxOtZ0Xy5e6YkHqAvI4qWzQanVAQks+nNIq+A/dQrrR++nC7Ojl0hW01Sm27Nvw1chM++gyhCIn/8Si5r4Jgb90TujR985Yu7R8iB1/kxxXYE1e9q92OzT6dHsqD3q6ONEOmU3lX2NZB4ONwA/evKs6mY6pThWPag/zgPUW1rb3uIKpVD16hBfbgAooUd4UkyvslWGejYhFi2LzDF//aYwvXbpjbaISqT1rw/Js7OiJjBm31iGAs/QFblnClNOCOhQdAEwetXWeDxEEgRPqy9StighPWuOIQdmVnzswDG8tmn8XlERj+sUY5thOt0RGvG20UE6inSXvq3X9T2GzrJ5J3o/fkwbVD7MYCca8EuE3np8ls67Rn3Qa3V+l7rsB9UQ7YfUi1pTFNi+P+S6Ujc0PEmQ7k=",
+  "URL": "https://metacpan.org/release/File-Which",
+  "LICENSE": "GPL",
+  "ARCH": "any",
+  "BUILDDATE": "1592735500",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "perl"
+  ]
+}

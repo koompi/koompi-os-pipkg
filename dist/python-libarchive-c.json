@@ -1,0 +1,24 @@
+{
+  "FILENAME": "python-libarchive-c-2.9-1-any.pkg.tar.xz",
+  "NAME": "python-libarchive-c",
+  "BASE": "python-libarchive-c",
+  "VERSION": "2.9-1",
+  "DESC": "Python interface to libarchive",
+  "CSIZE": "20932",
+  "ISIZE": "91888",
+  "MD5SUM": "55e60646e840c996eaed4774844b8a72",
+  "SHA256SUM": "c69c3cb6f33cafc0cdf4796beb607bffaf0b530ad60bb9fcd3c74951b0d8b69d",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl27OPkACgkQeGxj8zDXy5IF1BAAlQ+gJpiuh/WHOI9BXs9zLGyCvkJ4nErcormpDU4btAV+bskAtutVPWpUubsnHPWzWO+QTW+sbs2CtraDT5uS3lfYwHUSKuOrct72o1uh1phk+MfwHMtYQ4SjtozVk5NKXmbOa+TkNnka5eyc9ihENGHe0G0IBi0OCzDzsQ8glveJL+LWkHHjj4erOAWDqnSv2eWVB3gE5YstUiMBSHSSDseFl8dvT+MP7uqS2ZvxRNazguqNZEQbc5YDZAMHK7nSE95t3DSXhvPHga33qAtGPMaEjjzLT4G84ueEFkWsOP/32NQpwaErGNFJWPa3+UgP4XdCbsYSfWLOZzDAc3xfll3liAGfclVKDHRMf4+3mhbV7oh11/+Q1WAGri/L4/2hV+++8nbRQRuNmDJyLW/g6tYcCJBQTZBmMwERvqXIQ2ydWSBKxPhzu248v8PJt9gwcatflZcj9GQtbkWRPO8a4ayfxx3RgeM3VwsRMI8ZrumdgwpYeD4oRffSehH+ZDNpwDQvAbMZhRftfv4Hut9l9o8NWHpUXdZReFYy5taSnySJuIwWTWNN3YBS6JHvm04G1FWchv0S6Ya+CTx32ZauSSAE8eL3hasLhlcX4XHadLAX1N/MZ17IBimJ6S7Wg9vQgjwgMy9wXHdCznEFv+z3EDK5BeBlhoTMaH2o16kGz1U=",
+  "URL": "https://github.com/Changaco/python-libarchive-c",
+  "LICENSE": "CC0",
+  "ARCH": "any",
+  "BUILDDATE": "1572550856",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "python",
+    "libarchive"
+  ]
+}

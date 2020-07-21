@@ -1,0 +1,23 @@
+{
+  "FILENAME": "dropbear-scp-2020.79-1-x86_64.pkg.tar.zst",
+  "NAME": "dropbear-scp",
+  "BASE": "dropbear",
+  "VERSION": "2020.79-1",
+  "DESC": "Lightweight application for copying files over SSH",
+  "CSIZE": "19428",
+  "ISIZE": "43232",
+  "MD5SUM": "b6ee16e4a801dcdf634fc6958cb7e5ae",
+  "SHA256SUM": "e1ceff477fa10a86faf89e8639db6ccae6f12be75df3d6f24f4bdd6a6acf044b",
+  "PGPSIG": "iQEzBAABCAAdFiEElihV8HLHoBhGQFhk/PPIy1z5yNQFAl7uftgACgkQ/PPIy1z5yNT+rQgAnBv/TZPFxQcFd807Ok3njXAkC7gb+YYl+xpklfYeljQCGs5JIOziFZpJsGMr1Osa9IVtPIN855As0LCYmBUesK0r1yokUbHfCMm1hIrz+v903+DJcZDHY3R21M6KD7As/LbZgDA7YDpL2zlBo4HXj1Rr+ObvTQb3Xi7gGF1hkzyik3YghQxJCqVsHuDOhjzf3HDfOnrQXI4U5AzL10AXJDIhNh8jgZmVnanwW0xK/12tTvUposyUBxwX3EI+9xWxw4ObDOJA1Sl0pHhes4VbAwWyD7XbzGGDesway0ULTQdUlCoQ5HXsS2eJvCnvqf8hlzhPzIgJPZ+TibrcJKBhqQ==",
+  "URL": "https://github.com/mkj/dropbear",
+  "LICENSE": "MIT",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1592688303",
+  "PACKAGER": "Alexander Rødseth <rodseth@gmail.com>",
+  "PROVIDES": [
+    "scp"
+  ],
+  "DEPENDS": [
+    ""
+  ]
+}

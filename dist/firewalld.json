@@ -1,0 +1,29 @@
+{
+  "FILENAME": "firewalld-0.8.3-1-any.pkg.tar.zst",
+  "NAME": "firewalld",
+  "BASE": "firewalld",
+  "VERSION": "0.8.3-1",
+  "DESC": "Firewall daemon with D-Bus interface",
+  "CSIZE": "785468",
+  "ISIZE": "5939444",
+  "MD5SUM": "eee04246b8f1f662798ca67530ff3a83",
+  "SHA256SUM": "9334ce1a134c9873cd2a5ee7be58c484953bfc34dc9e2823b89503d540fa5091",
+  "PGPSIG": "iQEzBAABCAAdFiEElDfdOBWnqRaePTlGr/XZUJi8b/UFAl7/cBMACgkQr/XZUJi8b/UTtgf+LShA5jPQVUBhlRQwqFo+GSBeSgFPwAYXWQGE0R687YpN+YP37T4BTahEcEbiYYumW6PbrsRZBATB0EpVBZylPv4vAsZqaBggerKhJD1oRwjXy0ykNFmfXX4Gxy71n1FsaqgOA1bDgtNAGe+bfwL55yAW322VT6Xyswv8WpJ7Z7Wn52LELL9ZNF2MqBVMdkZToTT6YlH3exsFrDfdgZQMzIhElZ79xTyQ+DyJ93gpXKQrgcTE+F3WTstzAj05A67QMxtqT/tq/keOjx1KB1lZxOcPEwbSK6I76xnmoyrlXEmn3HaDJLUV2aog7OiNP/Pgx/5ramFNvEaydehhzFsWcA==",
+  "URL": "https://firewalld.org/",
+  "LICENSE": "GPL2",
+  "ARCH": "any",
+  "BUILDDATE": "1593798635",
+  "PACKAGER": "Maxime Gauduin <alucryd@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "dconf",
+    "glib2",
+    "hicolor-icon-theme",
+    "nftables",
+    "python-decorator",
+    "python-gobject",
+    "python-slip"
+  ]
+}

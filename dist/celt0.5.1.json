@@ -1,0 +1,23 @@
+{
+  "FILENAME": "celt0.5.1-0.5.1.3-5-x86_64.pkg.tar.zst",
+  "NAME": "celt0.5.1",
+  "BASE": "celt0.5.1",
+  "VERSION": "0.5.1.3-5",
+  "DESC": "Low-latency audio communication codec - SPICE version",
+  "CSIZE": "52039",
+  "ISIZE": "137860",
+  "MD5SUM": "b6b135ae03b360de7c22aa0468825a01",
+  "SHA256SUM": "05461ffc886f0b3f0bb4de9d9f915c2b0ea22d7ad55792351f6617290cab71b8",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl6/yfwACgkQeGxj8zDXy5IzMg//YFbBZM/inf4i7qdWK2rQbj/2SlnTBEXMZJ72XOOlqzl18cuLyXvMo2acdvpeWBpMahF0PO1Qv1uY4aZktR0gh/jdmeIkDbrIGgwTxtHk6FaPID145RLs9Ego7ePD50Tei4odywul3CFmU9VyHYVvI4QiwIk1Wwz/o0xzIOgl8mpDGWYl89Yk2RGv+O3lYG4/lenmbtMxzR3YJCW9Vb1pAYQ0e5wZr5PbXe9bYNK9Ztwa2WBUpeB/oSHjiPB8wT6rseXClbsZGgfRaVnxMUPgynKWvCme1cGcQlKsoeIN3IbrGJdT7wRA/1D3hU94EUwVf+Gr+3N7nxh4E/rKkJTguzrZnaU1C2PjilN7SEv1k+57Pi3C+/iMpZADfP9tnx80l3UfEu8/BggzDXqvU/NNVGFCCpdmTipHbswAKpuf/8JpajjT66Nd/1vlEVLghkt8R0mW4up1GlwL9fmOfB9Iqn2J4BQU4zk+fLpEJ3C7GZfiyeNmaRVJqMwioriqzcCWom0ujUqtTVWb4zfyxpEdKQCuK+I/ChykQnOn5+h2E4+ZJVcjXTyv10zcl1+rPkDleBmMiNs/uDezHRjqkF0GU9wIkPQ7XfJcTxP8DjpRPJ4rdfoHXIBAlqNMkAoQuLadnXBr3kkrILP7jM3me9D6hQBVa+MY+aAHWYiZKOtbI3k=",
+  "URL": "https://www.celt-codec.org",
+  "LICENSE": "BSD",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1589627359",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "libogg"
+  ]
+}

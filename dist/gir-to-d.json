@@ -1,0 +1,24 @@
+{
+  "FILENAME": "gir-to-d-0.21.0-3-x86_64.pkg.tar.zst",
+  "NAME": "gir-to-d",
+  "BASE": "gir-to-d",
+  "VERSION": "0.21.0-3",
+  "DESC": "Create D bindings from GObject introspection files",
+  "CSIZE": "366986",
+  "ISIZE": "1582240",
+  "MD5SUM": "da2ae2d2c4f65011453ec6d73750b583",
+  "SHA256SUM": "a8be5b5dfa5e483c7ad5586e8ec4ecc76c1defe7fd3e5465a7740ad48096b3a3",
+  "PGPSIG": "iQIzBAABCgAdFiEEhsATU8sh1GdlMu4OnwqcF7B4bxkFAl79AO8ACgkQnwqcF7B4bxm08A//VHpMe7KfP/Q7zDStaG3aFO2h4v3uaf0F9hTI41+22Ipnf6kb7tF/5+kEe75Xhq5qW+m71evocaRLpFdFGDHJNAggmlrP/ZyQNtDuDaAsmPvSC5zJcmiA7Z1F6O5oJzWyb0RCJQnS3Yi5YHYwxRsusvWkK/r5ZRucjbPnfmBgBeO1fIyskU1Tvsdf9j4Jv9QKtdvSMvIE146yV63iYByYN9dmPJTkpflFiuO0AAv4YCe0WS3yY1wffwvlDiRgF12Imgfk5oMCCH/X4mBz0s4PtanqwpUlzTKsrL9+n0bRU4FpCJ4sPw2uRwEbkED4cOgpAbo6v/a+osLpTTQdWDZgAnAHXvMLk3mo3wErX1tAde9O9onAeZ8vsRpIhNczE+GU3RYlbjvuFS2sHBaHNi+zH67hh6IbaIDN99a+CqX7+g8a9eo+zH/5Klq5c7ohibY2/4kOSgVeTjdvAfSsh7ur52+mcWN8Aw4enefMyCf6lAzL5v/xDN435Sl7JGSk3f+99K5t5Xvgjgr2Pya7kBtXXbXDBxz+xSfm8KYein7HUg68aZcU0AnRSa6IDXmM59l69n7bCBeuMh4Il3wh1CdL2c7VB8fr+SbbDxb8aDPSO3vq8lYAOr15Pv29HTs8Q8Q/6LPIaRLA9btIIjyObRZ5SR4ec58m7iFwRpndjZJV9eg=",
+  "URL": "https://github.com/gtkd-developers/gir-to-d",
+  "LICENSE": "LGPL3",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1593636865",
+  "PACKAGER": "Dan Printzell <arch@vild.io>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "gcc-libs",
+    "liblphobos"
+  ]
+}

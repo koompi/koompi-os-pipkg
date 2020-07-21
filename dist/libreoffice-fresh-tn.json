@@ -1,0 +1,23 @@
+{
+  "FILENAME": "libreoffice-fresh-tn-6.4.5-1-any.pkg.tar.zst",
+  "NAME": "libreoffice-fresh-tn",
+  "BASE": "libreoffice-fresh-i18n",
+  "VERSION": "6.4.5-1",
+  "DESC": "Tswana language pack for LibreOffice Fresh",
+  "CSIZE": "221649",
+  "ISIZE": "1260006",
+  "MD5SUM": "91d116789b770232ab4c35120a3dd5cf",
+  "SHA256SUM": "59fb0e8375fa7a28f7587a7916d54f009660662ecbf4de7c7acc4dab8d0a4577",
+  "PGPSIG": "iQEzBAABCAAdFiEErcih/MFeAdRTEEGelGV6sg8qCSsFAl7+F0QACgkQlGV6sg8qCSt5UQf/RGOzYEZ3PVlAZeWRRPF4RO1jsVIrM/r3bS5mpqgw/VEV3XdU+zeFaktPH1fG16zGezyHdAGntFkHuLIL+i5Ghjoyq9I3lDmluUyKA0XGI/3yHJbIzM72yv7kO261W3mQexpO9rhCqnYq0OVxCQ/L7sxDh5ycLxwJsMaxGqPwq2p6up2ET66R+HvXy39JJFGgxNGMn/KLjP4jcAOV+oeZdEIEWwXjJBPe1cJqLPKMUdLV1x0LZIiQUoY0dO3poA2lTQD3jXkSPVdhEw1Lws5wyLHV3A7+EVNHfXiMZOt5nmz3lgSrFHfmlyHWluPRWIj+WlHA4pgNKiTLYiqVKI8QLQ==",
+  "URL": "https://www.documentfoundation.org",
+  "LICENSE": "LGPL",
+  "ARCH": "any",
+  "BUILDDATE": "1593700315",
+  "PACKAGER": "Andreas Radke <andyrtr@archlinux.org>",
+  "PROVIDES": [
+    "libreoffice-tn"
+  ],
+  "DEPENDS": [
+    "libreoffice-fresh"
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "FILENAME": "gmock-1.10.0-1-x86_64.pkg.tar.zst",
+  "NAME": "gmock",
+  "BASE": "gtest",
+  "VERSION": "1.10.0-1",
+  "DESC": "Google Mock - A library for writing and using C++ mock classes",
+  "CSIZE": "192566",
+  "ISIZE": "1026657",
+  "MD5SUM": "4d25d718b85e5b09bd78c3b8901b067d",
+  "SHA256SUM": "0ac89cc4fd2e83edf00ed76c6c18049fd7d647dc0b022155219342589f89e9e2",
+  "PGPSIG": "iQIzBAABCgAdFiEE4kC1fixGMLp2ji8m/BtUfI2BcsgFAl7KvxUACgkQ/BtUfI2BcsjSsw//ejoGQ4HuPj8lXVRHnTQRp7JL7uEHmQwNfjByyn0YocbVov+PixtHxBihu54tmOZ1PYr0GMaZlVBOI/OZpdYjlw9I318WSkPHRvDFT/PIAat5f2BJrPa0qPSO8xQGAroeaaBO1buLqh97wguBkybDRxVN7weSgD1FtFaZsMjagJXM+rhpn4yhQXbrU27O/N+1xFdT1rOqUsmq70nokyYUqeX0IFK0skMkTtxLpuq4K6dzRssxTLTbem0+aLCm+A80FFAjor02Prj/YT4RgJDHyiCHlngw0fXKKoG+uNxUd/WbiRASIu+KBOychS42jLEvJbFJwsCYS5npnQXY+NDVRLuy1zmflvNhg5cye9S40q5bfePgLYEZbMEMjY/2hwUfVYqq/t3A+Xy+QeEgkugNpwTBuSx8GZCvMQwlIjdkztOBG1svIJ4ccF2cMukdR8MGPA55zPunGu0vr00gIICv/Uc/+JFKp3aOLfjoGwFRW7vZ+iURkTJukWP2H2sZOYNyOAv9RMmJgkQMaqn/TE77hlHCdGHefF1Pp0NC3NAlphzOaa8h+mGx2vpW/oB58TPrmrKpd2xYuqojrjN9C/PZ+UEYpjPlvhRxviQmWh2JElu6WNixUm98hOU7W/FIYCmZ5sQJTorRAIVYv7PkrALqzoLR3ydB/+wib/UkgY0W6dA=",
+  "URL": "https://github.com/google/googletest",
+  "LICENSE": "BSD",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1590345204",
+  "PACKAGER": "Levente Polyak <anthraxx@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "python",
+    "gtest",
+    "gcc-libs",
+    "sh"
+  ]
+}

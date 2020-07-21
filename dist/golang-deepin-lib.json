@@ -1,0 +1,33 @@
+{
+  "FILENAME": "golang-deepin-lib-5.5.0.1-3-any.pkg.tar.zst",
+  "NAME": "golang-deepin-lib",
+  "BASE": "golang-deepin-lib",
+  "VERSION": "5.5.0.1-3",
+  "DESC": "A library containing many useful go routines for things such as glib, gettext, archive, graphic,etc.",
+  "CSIZE": "1489175",
+  "ISIZE": "5522607",
+  "MD5SUM": "8ca5baafb0232f773dc5ff3676df72ca",
+  "SHA256SUM": "930a5aab79d444d689434a0c823581e85cef011be6b7c44b96992bc32eca071f",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl77FioACgkQeGxj8zDXy5L0aw//b4vkLdX3C6lEOotg6HlcVnlFtcgbuARNH89amsDSsbXo+Tx0BviP5wxDgPF/rhE2lE5KfcgbFMJHhT1vuAOb/5nCpT2viFDcE0sAmC5cinZu4C0iReoEUotZ047DYXbVYII3RXvqh4bOZmdIuJnDM+klniugj9OjNsI7Rhn8ChivqQfag00L+Vt9vnEJz7EnvZx/g1uvVzwf56FUrMXpAr9XTJjsCFPrIeZ+j+zFZf3VGecSzXfxmCNNZZiEioTzOmPR6YdakzGXWHZeEZv3xUDPEjkAhLlDEDtOMoxVdyYbbu9uBipq7AxLTQpKLPlXnTZZPYZmfGu+rhnPzVDZvIDtn7rSJhp4gbINu9hX94lybSZq60Isz4XW5cSul2fJyV6kMeCcceVgDVgMBnne7X5Bae5JVG/K9/hZ6S2Fx+jeHa1rtOfrq4UldUCf7t3p3Gva16gRPGYlPX8KsKhCXSSVSLLsZVYi3LSFnVqxb1nnXRtJgCEHoTbfeZTO+Lwsj11eQwiL15IaO8AMRpOX9swhY5XR24fQm1FXQqdK8ayJ8q1rBCayM1QCrkRo1TqZQCEyXO0TT1MYuIqZhpafb4hA4dYs3NU3rw8GaJrHUZthR4EvhfLv5na1bcV319WQP8z4D1ddq4PXFUzcwTbrdoM19ryaf912HjxKUly82Wg=",
+  "URL": "https://github.com/linuxdeepin/go-lib",
+  "LICENSE": "GPL3",
+  "ARCH": "any",
+  "BUILDDATE": "1593513157",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    "deepin-go-lib"
+  ],
+  "DEPENDS": [
+    "dbus",
+    "go",
+    "libpulse",
+    "gdk-pixbuf2",
+    "mobile-broadband-provider-info",
+    "libx11",
+    "golang-gopkg-alecthomas-kingpin.v2",
+    "golang-deepin-gir",
+    "golang-github-linuxdeepin-go-x11-client",
+    "golang-golang-x-net",
+    "golang-golang-x-image"
+  ]
+}

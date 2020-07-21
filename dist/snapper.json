@@ -1,0 +1,27 @@
+{
+  "FILENAME": "snapper-0.8.10-1-x86_64.pkg.tar.zst",
+  "NAME": "snapper",
+  "BASE": "snapper",
+  "VERSION": "0.8.10-1",
+  "DESC": "A tool for managing BTRFS and LVM snapshots. It can create, diff and restore snapshots and provides timelined auto-snapping.",
+  "CSIZE": "748044",
+  "ISIZE": "3030532",
+  "MD5SUM": "d1b3ff10fb7f00fdba82421793841c5d",
+  "SHA256SUM": "3655c4cd5bb8305e9537c41d8ce5a78a92f5b65d7817db921ceb83ad91ad51d0",
+  "PGPSIG": "iF0EABECAB0WIQQsEYxiDwLbmsHQ+fqU3SOT2i7kIwUCXuytyQAKCRCU3SOT2i7kI/3jAKCYDlrQLuEU1eexZaLUHqfMVkXENQCeKOK8axyN31Z1dXFrNdICEYGnKzM=",
+  "URL": "http://snapper.io",
+  "LICENSE": "GPL2",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1592562050",
+  "PACKAGER": "Massimiliano Torromeo <massimiliano.torromeo@gmail.com>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "btrfs-progs",
+    "libxml2",
+    "dbus",
+    "boost-libs",
+    "acl"
+  ]
+}

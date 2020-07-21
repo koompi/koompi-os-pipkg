@@ -1,0 +1,23 @@
+{
+  "FILENAME": "deheader-1.6-4-any.pkg.tar.zst",
+  "NAME": "deheader",
+  "BASE": "deheader",
+  "VERSION": "1.6-4",
+  "DESC": "Find and optionally remove unneeded includes in C or C++ source files",
+  "CSIZE": "20952",
+  "ISIZE": "74952",
+  "MD5SUM": "77d3ad52ad056b81d4f3bab9aec16bf4",
+  "SHA256SUM": "86bea1a9ceb087bb94ffa903c4e676b241b58cc049398c249c4c27567fa82403",
+  "PGPSIG": "iQIzBAABCgAdFiEE0ZGnjxiB84R1PJZ+aGsGOsS8DskFAl77V7sACgkQaGsGOsS8DskvLA/9G9+KuSgStH3Iq20KjLccJJrnwoIy+UYHmEtyxyM6N1crs4ejjs2gVpmN14FVspXYhgf05tk0l5f/+6+RELmRRwyKmZxqYMKEm5QuP+ZalPsfqHi+XHvvii6sThtq++6WtcBacaOQ13Uw1XWpCVuZ9x2J76bdC2NNYsxPqNZk/IA5vFFMyz1txtmgVL0thWAoKiaH0+9rjPd+PvQ9Daf+1QHYERcWApC+aBr89yi8L3UkFp837FhpduIYxQexUOnifYBSk9rub0d5ZbSrGzj3L8dniPqPCMl7+JmsUPcEaQX8FQbcX47Mvun5VZPKGGEqs5lHGzlXPboA2jfwOf0jAWoulEecftglFMDjB559BPUUciXVftS3uBS5I6Jldbt4UumMcqjuqVStflbMhBxgSNKu6BpIsQ1BYlSMtPFTyNt1XaR+hCtd4g0nD7qzmLubc7yXaQg207EGem6bFnwiMhF7NtZc+x5RD7AOF5PIUP6R9RTWD/r1xOTFbrgSE93wv59T2vxn+NhdqbKnegKGwYM+3OEqo34xjns4dMd4jiNtHeheqW5ku9G10RknCT5yYBuLFH/8mlCaeKr/kLf6AWgNaviQo6u40KoTYyrgYyCakTIlsK2T9c2+nOdJyo7FoXmZOBFaLWkjOfdXEKWQ8gch9yoFFoV+EdsS6uSKM1E=",
+  "URL": "http://www.catb.org/~esr/deheader/",
+  "LICENSE": "BSD",
+  "ARCH": "any",
+  "BUILDDATE": "1593530281",
+  "PACKAGER": "Jonas Witschel <diabonas@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "python"
+  ]
+}

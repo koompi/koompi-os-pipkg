@@ -1,0 +1,24 @@
+{
+  "FILENAME": "celluloid-0.19-1-x86_64.pkg.tar.zst",
+  "NAME": "celluloid",
+  "BASE": "celluloid",
+  "VERSION": "0.19-1",
+  "DESC": "Simple GTK+ frontend for mpv",
+  "CSIZE": "202660",
+  "ISIZE": "792204",
+  "MD5SUM": "9af3ede41bcd2280f057408293b910a6",
+  "SHA256SUM": "d691b3267dbee6c8a57bfd33c0148eb218e3b2e15ff4070391cda98aae728908",
+  "PGPSIG": "iQEzBAABCAAdFiEEzgvecadZqH8j8PfYth284QkBwWMFAl7OPVEACgkQth284QkBwWNs0ggAlS1WIjBzudQpF0Z2C2GyvYgxQ2jR/sWkUCJ4KOVF0u/RlITPgGwSLYBOU46uYEWJPhrvXEOb86z+rQuzCvC7P9BVumx67HzNfGpVlUFO3iKIOygaZb9gyX0HkBiFfsVXAz65sa/LP2ipaX4RzlV7d4cEoiKa8gkIlmoZC4l2NCFIfW6NNZ5wvWH7FNDSZno000tJX4BQQ4m2yplfYw6UFYiKessdgJrWqGAtO7awvRuYr73RxYaHy30cHzm25BCYmNX0L+yHCqwehyoh5GbUb2Vc2wzcz3sORPtHDR5zJgIjZC4s2oaF8oCGUSCjBw0Fs7CYRQ1cOu+3w3jC51Yo4w==",
+  "URL": "https://celluloid-player.github.io/",
+  "LICENSE": "GPL3",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1590574195",
+  "PACKAGER": "Balló György <ballogyor+arch@gmail.com>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "gtk3",
+    "mpv"
+  ]
+}

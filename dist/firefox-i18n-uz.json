@@ -1,0 +1,23 @@
+{
+  "FILENAME": "firefox-i18n-uz-78.0.2-1-any.pkg.tar.zst",
+  "NAME": "firefox-i18n-uz",
+  "BASE": "firefox-i18n",
+  "VERSION": "78.0.2-1",
+  "DESC": "Uzbek language pack for Firefox",
+  "CSIZE": "459099",
+  "ISIZE": "521137",
+  "MD5SUM": "c235753a79a560f54fca13b827eef6cf",
+  "SHA256SUM": "24bfb93a863e5a4ba4ddac945d4ad2b8f818ffc3cf51079c7e3148fa6529bcfe",
+  "PGPSIG": "iIsEABYIADMWIQQGaHodnU+rCLUP2Ss7lKgOUKR3xwUCXwelrRUcaGVmdGlnQGFyY2hsaW51eC5vcmcACgkQO5SoDlCkd8cUKwEAyAQPusRatlUSUfoEXCg3BKGJWZQlakClfhtl/u6269sBALnyHJc5LmgueElR9TMtwX74W2wVVjrYIMuPmNgtP/sH",
+  "URL": "https://www.mozilla.org/firefox/",
+  "LICENSE": "MPL",
+  "ARCH": "any",
+  "BUILDDATE": "1594311501",
+  "PACKAGER": "Jan Alexander Steffens (heftig) <heftig@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "firefox>=78.0.2"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "FILENAME": "python-ply-3.11-5-any.pkg.tar.zst",
+  "NAME": "python-ply",
+  "BASE": "python-ply",
+  "VERSION": "3.11-5",
+  "DESC": "Implementation of lex and yacc parsing tools",
+  "CSIZE": "78508",
+  "ISIZE": "321626",
+  "MD5SUM": "93fdef2067d12f1d5d5ad26e9925cfc0",
+  "SHA256SUM": "2f9dd5b291c87146f1bcc3d83bf88200c68f52c04e98ce457455af8b1f1090c6",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl6/yywACgkQeGxj8zDXy5I9ABAAl5JnG4QLLGz92uBHxAifFCNFXa2F/MZvOSVD1ED2Ww53pGh3v13vJO9j61KemnQpf9ijX9bcVoZdLUnDvQ8Fz4fbN/ZnItBU7J9lB77i4H/jM+RPNbfkilCTuxm81+NJ+Q+w82laYQxK4LwmIYotTZM0nbtX7FNBSTJcK55zUUoYVM8JGT18BGuDPUnW1Wmi3N3Vnzocmju67NuxlMut4gt7gU9QFyBIK6Fzau0Jc8faQpuDR5yFgs+fO9Z+ROm63xxNMcEl0Zt+kG7B2BTzh8TRLpI51EewZ+htfjjTo5zWPITOPx8CgCDtEIRQaN0Z/x3ch9rGzN8gw7nS0SgF8jn1yAnI+4BjsZXKDagQ6NXrQL8spC+6wKbcJ9S31MYlKZD4sKRpkBH/mKZD7b7tLTGjHdLCLH9gmjNqlxszHdMOwzzrnUNeaGeX4tLMAmDXW/H2f5siCfvwastJ9HKHjSHDmBTwRE6c99NKwhQ8Vuem4QQ0aGI0h5dgmtByySuIRePsHGijyIzXh08z22Hupx4kCjH/LEAV7k5+fE/vQrxNoiO9WBsfDp2Ls4ArB5iEXMx0/8YrmUmEdil5R9kAXBW9B7iagMuf0wW/P8DJ4cAZQhXujxWifD5No5YQUPUOtp+YIwRyQiFAyium4S5ruJs78yT+urLCuZIMuQ1COeI=",
+  "URL": "https://www.dabeaz.com/ply/",
+  "LICENSE": "BSD",
+  "ARCH": "any",
+  "BUILDDATE": "1589627668",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "python"
+  ]
+}

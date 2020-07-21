@@ -1,0 +1,28 @@
+{
+  "FILENAME": "gssdp-1.2.3-1-x86_64.pkg.tar.zst",
+  "NAME": "gssdp",
+  "BASE": "gssdp",
+  "VERSION": "1.2.3-1",
+  "DESC": "A GObject-based API for handling resource discovery and announcement over SSDP",
+  "CSIZE": "69688",
+  "ISIZE": "407812",
+  "MD5SUM": "3ecad1987b3d45064623130bc2309bfb",
+  "SHA256SUM": "da9416c68b564f4d9d0e37d4ffeb6177dfae87e819d10b2603dfab80a13ad373",
+  "PGPSIG": "iIsEABYIADMWIQQGaHodnU+rCLUP2Ss7lKgOUKR3xwUCXvE4tBUcaGVmdGlnQGFyY2hsaW51eC5vcmcACgkQO5SoDlCkd8cvpwEAhiQl5S/KEP98jVGbXe7UPlx1VapvfyXu9e2CUsl9K3IBANOw4829Vg74ZHmVMIS06/7SgMtOZU5WEBEEoADBJEQN",
+  "URL": "https://wiki.gnome.org/Projects/GUPnP",
+  "LICENSE": "LGPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1592864831",
+  "PACKAGER": "Jan Alexander Steffens (heftig) <heftig@archlinux.org>",
+  "PROVIDES": [
+    "libgssdp-1.2.so=0-64"
+  ],
+  "DEPENDS": [
+    "glib2",
+    "libsoup",
+    "libglib-2.0.so=0-64",
+    "libgobject-2.0.so=0-64",
+    "libgio-2.0.so=0-64",
+    "libsoup-2.4.so=1-64"
+  ]
+}

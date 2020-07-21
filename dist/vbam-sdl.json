@@ -1,0 +1,27 @@
+{
+  "FILENAME": "vbam-sdl-2.1.4-2-x86_64.pkg.tar.zst",
+  "NAME": "vbam-sdl",
+  "BASE": "vbam",
+  "VERSION": "2.1.4-2",
+  "DESC": "Nintendo GameBoy Advance emulator",
+  "CSIZE": "707046",
+  "ISIZE": "2782946",
+  "MD5SUM": "2548d6f447b20557cc2cea4aeda92381",
+  "SHA256SUM": "0b118dc747c36649f36d328f198209ab1eec3e9ed07cb778696804dd9e5e6e97",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl8EfPUACgkQeGxj8zDXy5I/YA//SHSjDObkyxDKm7AdewWv2StFufroy292T7h1zHc/9JerHYja7QZPOg5K4/EdgtW7Xo+HjOxMd97VgomOMc+xbZIEEp3OXBAEPbZ8cBjcvvntto5gAoxcfhty3nZ6MjXF8gwOgZRi+H9+eY+9tdP3OaUfkRxUgS8Gk/cU3VWA/NDZNs/EQ5YMGEZnw81vwBeiv99Cj4z7SHmhLHmr4pLjpkuA+cnzlF6AyKc83djPha53URBHEMz+jIVq/JbEDyU8NVi69wzWJ9HoTcI2h5I+Y3w5UNaUOBz4Mb4ka3uz/2y94GeirGu1reBzESYJIShHtNF3xhoBhDEjotGwiskw5hJW02ls9Wzb18SLMt3zxEexW7/CkC+Ogm/cVC2u9l8MdCtPAdCn3YtQ8Jk3V593PJVSZtpk5C8Ns3qyZQuA0GV1Zg2iCxc2PfJkpBryc43yVU/kbvMgSKku1YL2cIiQfckP6Q9OPUhTFjnicn/1Fi+hMgu1/t8u3KeypcWMYRA+Pd9canYNsiWH4P5OTzMZxqXUirDkh4SXA6iBqHAkURKkj2kOAzoQHPj5jR/ekvGSynffuIoyMYiSZHJ7UZwZ48kCYPPZoVlTPedl/wnXfxjGecRREgeeVKYIx95t00DmpBKX3v9vXUFs7FP32p799Mffgdj1G3VhNxHymBNlPQs=",
+  "URL": "https://vba-m.com",
+  "LICENSE": "GPL2",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1594129279",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "libgl",
+    "libpng",
+    "sdl2",
+    "sfml",
+    "zlib"
+  ]
+}

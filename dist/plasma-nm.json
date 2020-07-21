@@ -1,0 +1,27 @@
+{
+  "FILENAME": "plasma-nm-5.19.3-1-x86_64.pkg.tar.zst",
+  "NAME": "plasma-nm",
+  "BASE": "plasma-nm",
+  "VERSION": "5.19.3-1",
+  "DESC": "Plasma applet written in QML for managing network connections",
+  "CSIZE": "1393962",
+  "ISIZE": "7767996",
+  "MD5SUM": "7c725bc506080df4de4a0b824cc8a746",
+  "SHA256SUM": "9f82fd5b2f3ac5393e3f7656dba3c5e2cbfbda67cab640173133eb3722731885",
+  "PGPSIG": "iQEzBAABCAAdFiEEFRnVq6Zb9vwrc8dWek52CV2KUuQFAl8EhWEACgkQek52CV2KUuQxKAf/YwwlTEZFt6Gjoutdhk6cY/dxlo6bRCEDxYKEMrCcqbuge2Mqxcfl1Q/FkA0xMwJyZx1INTcf93/Jzq5+8s66qmB4hi5M26gRq6DzYjnYIKrUkn5Sv7CHgllUtEIddZDhyf3TIgjVrv/Enk+9QZK5gudJI5kXxPasUjoPUuZCwFWvoQ9kcSsNwwjivNC4YkVm+sgTs1bdJ7aZgqgy4a+72CBjBO+9wWCG59bqmFAR2Nvfam5tYgvNnL70nEkcklDJJv5CNOWvA2Fg6EpDolYyzZS1cRuZzmz6DpYg1y9gZXD2TieLD5duOyY2f0USIoagmKbof0cgpII3fMTNdGlTMg==",
+  "URL": "https://www.kde.org/workspaces/plasmadesktop/",
+  "LICENSE": "GPL2",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1594130483",
+  "PACKAGER": "Antonio Rojas <arojas@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "plasma-workspace",
+    "modemmanager-qt",
+    "networkmanager-qt",
+    "qca",
+    "mobile-broadband-provider-info"
+  ]
+}

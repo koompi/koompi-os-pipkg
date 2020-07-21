@@ -1,0 +1,26 @@
+{
+  "FILENAME": "openbve-1.7.1.8-1-any.pkg.tar.zst",
+  "NAME": "openbve",
+  "BASE": "openbve",
+  "VERSION": "1.7.1.8-1",
+  "DESC": "Free-as-in-freedom train simulator placed in the public domain",
+  "CSIZE": "11010599",
+  "ISIZE": "70723585",
+  "MD5SUM": "3fbceddb53fc3c0b1df51913c76cb7a2",
+  "SHA256SUM": "8973d57514a25ff9653b13799244ed46cd6878de12d47008f11aa249d90d9661",
+  "PGPSIG": "iQEzBAABCAAdFiEEzgvecadZqH8j8PfYth284QkBwWMFAl8I1zcACgkQth284QkBwWNfQQgAgqtcQOLA+gAVLfc09HcwTqW3jBgaT+86UiOw7Q8BicIP5yKQA+dCixSQGG8Yn6C6HPkoL6Ani3ze09rvK08K5J8UjKTnrWqAZoYIoWTxHuPWFk0cmk8w9Fiv+HwMb/KRrm1AAooPtLkwfg84u1M7yTd+pjEC31RsbPC/kpnDeIkhhZpnv65zwH6c/zoh8gqaVgtIUCWXUMpFLbCV1pr/1irZtShuXxv5b3yO5ZKyWKKRlf6rFN6kbSkZDKfYKpe7fdgkCIuobpISdocZB0Nac3lr3Ij8SsIF82nPG6xvI6cb35SCt2vddJAORA/c17lmM4aLE5rNjFpsCaMHlQi7bg==",
+  "URL": "https://openbve-project.net/",
+  "LICENSE": "MIT",
+  "ARCH": "any",
+  "BUILDDATE": "1594414783",
+  "PACKAGER": "Balló György <ballogyor+arch@gmail.com>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "hicolor-icon-theme",
+    "libxi",
+    "mono",
+    "openal"
+  ]
+}

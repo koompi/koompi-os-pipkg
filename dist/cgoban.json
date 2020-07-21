@@ -1,0 +1,23 @@
+{
+  "FILENAME": "cgoban-1.9.14-4-x86_64.pkg.tar.zst",
+  "NAME": "cgoban",
+  "BASE": "cgoban",
+  "VERSION": "1.9.14-4",
+  "DESC": "SGF editor and client for connection to IGS",
+  "CSIZE": "225074",
+  "ISIZE": "527463",
+  "MD5SUM": "b68bff30c57097e74d39765046617253",
+  "SHA256SUM": "8bfb76d20f9c9f9c9024a1f23c2bd8b1e98dcba2da1c111dfaa63db211421aad",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl8EpssACgkQeGxj8zDXy5LKiw/+Ls9RpLLKrrjvtbY22RlAKAIk3nW2hPK+gklr6uM7+w6R8iTgNZRrghzEZ7NhYXbK8cUgzzHrHpdzrTjiffz/mfpUrPPMmk4dPt4LLUrrOA7YlpGpv6yIl7hOMU/T8RCRp4bxbg3bjnOXrXwGn+0plANHod/w02dacwK5vhOdlONn5l//wTlZscHzj3OWnhMZ0EBAZfDZDIIROS5HhglIw6Vf+IRXbgRAxGn0dcMdJGTSU7OHzC1BHjaAoRwCyxsJ0VjoJkJvcAtY7tgIf5xwUxufMkKEaN5u6WiPKve6S6momWfAf2e15zIGOFjwhxx5spWKRHfZwVNWkWS1JONg88ouwlu4OYMRJEKceDnU0BsfjvtzsqATzYC/rXF+xQnorQGpSqMOUj7POnbR6af4q42C6kycR9reZRCDD/O0SBP0wOJhnpQT/5HfopYqr/Kmx0alKEr0eEWtUygW0cVwODQtfeKG1Wp4PxavY7eFLW0fgxuC2NGZSgiq6gm1RZTL/o8eUEnbVfZaiXW5OB4bfuQ65FSuPRQmyX4OoMvg+NdfbPthNLpgu5ETSIXxb0QLsDxkVAsJfiBB1wL1JJaKrbeqfuSP0psY6G/CBgDpyeiArCy/C0ByXb15xR5JsHk7iMiVaIwRjDjRsBp1h2p6KhwWufca4HGURl1R2up3lf4=",
+  "URL": "http://cgoban1.sourceforge.net/",
+  "LICENSE": "GPL2",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1594140229",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "libxt"
+  ]
+}

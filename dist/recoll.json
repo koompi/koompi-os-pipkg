@@ -1,0 +1,28 @@
+{
+  "FILENAME": "recoll-1.27.2-1-x86_64.pkg.tar.zst",
+  "NAME": "recoll",
+  "BASE": "recoll",
+  "VERSION": "1.27.2-1",
+  "DESC": "Full text search tool based on Xapian backend",
+  "CSIZE": "2188439",
+  "ISIZE": "7567880",
+  "MD5SUM": "a394b4985de706f942312615d09b4fa7",
+  "SHA256SUM": "1563ba06410710c5951a3e1b9e2817466bfce2fe107f61c8f43bd26680951d3a",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl7mAQ0ACgkQeGxj8zDXy5JxFQ/+KfLDipn3W5HSh+e0216ZqKwK8pEqGDMhAe66Nb/YccmDNuxq/VDfEucDSIRHaspL0KjpMu+ofUqR78uqVlo8UZ2DA8K0DQSCh6vP4o+hoVwl4snfiAvw/S91Zmh0PAsQ2wa+dYztAxt+vG+lRg4SAnKEgtFhbNjMnO1nM6nmVu63ZKSaGH6DdNKYj/9dWcoG/OXF4Igpypyvx7OcIJjmIRTnZMKNhXFDlEUco+VMxa1KvJAJ/EF+u22dOytXIsFPrIUHqQ82nOWx3TvigpM0qHZVEanrmoh/4rA/a3XwitXNNPBThEyeCk8RI3rweOvJImmEGTKWA0lZPDW5Ikx9ezfHTa+aFY0HSaUzP8CYQpbWlaCKwFgpmR6LfhlFP6MdmPU/MJ2YL4APLVgcMBogEKiTfSSDNnGdg1sQuET1TgcBjb5BXtTlngHiaroRAwTOyDn0GOh1GuA0C0dHgyG9cmPY9VMPvXXdKUw2pnEyDrCwpOGgkCbmQ3xR8U1fNE7s7SB1MEtUlXDvhu3uWXXc1/NhiJ5eUjgYDPTNkZTOOvDMqvg3EdC25fGQVkduGbgIub693B8FXP9UIPNwhJz7dCp9iCHRD8+01Bvigj2jptEvL+KRxyWrJGsRrZm0LXzMhVqeMqdlnnnae/uTE4COaBVmY7DDDv6LXhQRk1DYF5g=",
+  "URL": "https://www.lesbonscomptes.com/recoll/",
+  "LICENSE": "GPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1592131323",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "xapian-core>=1.0.15-1",
+    "qt5-base",
+    "openssl",
+    "hicolor-icon-theme",
+    "qt5-webkit",
+    "chmlib"
+  ]
+}

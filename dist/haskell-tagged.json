@@ -1,0 +1,23 @@
+{
+  "FILENAME": "haskell-tagged-0.8.6-10-x86_64.pkg.tar.zst",
+  "NAME": "haskell-tagged",
+  "BASE": "haskell-tagged",
+  "VERSION": "0.8.6-10",
+  "DESC": "Haskell 98 phantom types to avoid unsafely passing dummy arguments",
+  "CSIZE": "55910",
+  "ISIZE": "299064",
+  "MD5SUM": "d2cebc1e43ba872f25e1bb72024d50eb",
+  "SHA256SUM": "223e82970fca8b82ec97e926dedb1cfc2ead0a9913a9d00926584cf67136b073",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl6htasACgkQeGxj8zDXy5L7FA/7Bn67x/ENsywRzWohRRHbtHkyQDRUK8YSySLCb0/UsPddbCVlDzD0g3gZQg+Q8yvhs8PAXgasZbtAWSygR5P2J2sXEBN6855nd2UNk8DyWrnMiUpIJfO2Gz4I8KPPJfDQnlRbZK+N2tXODHoTS2iJ0p8sMqYhpC1LOQQ4BJ7JT9jCs06zSwKUvpK1sR+r8nJBEQFV/sQxrvGMcskWXG7bDaxj9qGJ9TMXbj0NsPgHC0ZVz3XVbdOCQuCRwpYXVRufb1+fOzBRvTdtbFJ3VM6+v7JyCCWlW35umT/vE5ZPYhbZ1GKCOe/BUzE8fKpcspmeaawgm/liotRnqa2YujI1LntwYcm1QO9/GkX7/QQUDtpIR/MfsxZLAWHHTJojrXgHN0jzQ6qXHF1BkWYowkDGfqBgSW5kEkZQAfFixvzl54aNLS0eZBRZ6xQr9g0lk7Ax5Llq1iQfO1c9QyjdxqEUzSSeWb4Pymcmppz0XZDdqJbqMzlDNcW9O7wRsy754jIlZop4ees1GGUVxzZwyXr0SjP3pNQvL+dI+N0xbtm+ZsK3+hmZAZkZWzdFjRlldDPI8kcOnFxDmUpt1slb6Nh0pMfeMP1KTIqYrKSb4/RryDaNCLP+gAnTth72ICKUR2b4fEVh/t9rOGhvW2QUlkF9yqhAdoYWHvrDxBB70/RpWpg=",
+  "URL": "https://github.com/ekmett/tagged",
+  "LICENSE": "BSD",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1587656022",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "ghc-libs"
+  ]
+}

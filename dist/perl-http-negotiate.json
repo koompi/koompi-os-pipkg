@@ -1,0 +1,24 @@
+{
+  "FILENAME": "perl-http-negotiate-6.01-8-any.pkg.tar.zst",
+  "NAME": "perl-http-negotiate",
+  "BASE": "perl-http-negotiate",
+  "VERSION": "6.01-8",
+  "DESC": "Choose a variant to serve",
+  "CSIZE": "12953",
+  "ISIZE": "20303",
+  "MD5SUM": "59c9ce81a14b43792b374ac5959b80a9",
+  "SHA256SUM": "52681c75760bd9e3e7104ce275c7dbf2a5d615cb71f5bc5a0f5eed854fe6b8a1",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl7vUzkACgkQeGxj8zDXy5Ixyw//flcc7ioq1ErgdZPe1NSOmgaymqm2QziJl/BMLfoQrACNH2N2+1bS14hoQrsbAIQa195EPYmJJyohrKl4CG516IzobKhGtpToAkuNMw0v1EgaqSnBsVROPhoICGJZdbLn/6CVG8XORet8MMQ85XmY+RwELKsYl27E7n2khVCp3K3ImHJ10jLfj/7qZzaTQSv7XSa5V2mXwgi3/UGWTUm9VLYHmv6SYAYwMtT/2xkaNpmKKA9CUgd62pct0YaVPY7LMPKhAIkHrddSGcuMxSNY0YNVmq2/URhTL6r83V9x9eRxUZ6h1c66YxlPgpne99xmpOxnT7M2KDKY1Qx5o7WqVfpEDuS8cw/cM6OuQtOKxk5qg1u8gIJOItNLfchmB64bIw61kkAduNGqt/wMczyClvfoDFlR1RxHfcYkmVRsTIMHSIXkCj78Fm25dLVqfefot8uYvBkQfL+EOblgHGylpTaXVvUlR2ru/Bvms038uwv07y82F4S1kmwHeRmh8rjcmTk9dU4rYW+QAF3eAxy79LQlfLVB50a4UwzG+f/AWfgxZtpN8csKTx8YVFj53NqDOg78W3c80vLJfsRtKw7TeyIzuvH22q73DJlt1iwCYEVf7LLpfkllUHhkhQjCCrwHB8z0P9O47+2RW0P8iELF0t2sQuOALD7RdRc1KfITJ68=",
+  "URL": "https://search.cpan.org/dist/HTTP-Negotiate",
+  "LICENSE": "PerlArtistic",
+  "ARCH": "any",
+  "BUILDDATE": "1592742696",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "perl",
+    "perl-http-message"
+  ]
+}

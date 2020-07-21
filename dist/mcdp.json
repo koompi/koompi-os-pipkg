@@ -1,0 +1,23 @@
+{
+  "FILENAME": "mcdp-0.4b-4-x86_64.pkg.tar.xz",
+  "NAME": "mcdp",
+  "BASE": "mcdp",
+  "VERSION": "0.4b-4",
+  "DESC": "Small console cd player",
+  "CSIZE": "14580",
+  "ISIZE": "23552",
+  "MD5SUM": "d5a1a2d9fa2df9b2aa783432256db972",
+  "SHA256SUM": "dd6db3beb605d7df1977f0460718d31d139206eb3f128fad37b535653f55a1cf",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAlsVRbQACgkQeGxj8zDXy5I1GA//TBvKkebTriISa4/rKLPvronhNRaZR6uBbXt6qvE+a6Drm+TLULn54wyLcD/vYRaSLC9f6PTmWiePClgVn0JLNY62GNMtuynejiHADfAxg0xO4C0QGrhWeCY12zm4kS1brN8QbPQk6c+5IZSCRZG9qn7W5CQzVO32LAKZ+gvMBdYMSZt7QkmnNhOmivp4aFrTYv9wrDeD2dn8aZO/BJC8zvM0NCkB2CKGm1rncVMUzQbZsSRNhy4mBkO77ZRgJ6dfl+r5f9QxozcGKKDmdwAy9TI2+L5FYstGOq4ay+fPvEb84A81icmUoy1/KjWIYqSIyBpCIJH9l0JivV135yiQLxqJrBSRCmW/6cPXiKHz23AwTx7hkRYpngF/vIED5tkhxmJcsgBaR8pDW/TPMjG6K6QWZnn9LApaf0oa6nYmMg9wTHx/PQgDiY/pXPGxbgNuxoLoCSlsbM2xTpkoGWERe5r0CIjqyxr5eJKAmsmTPprcdlG0aE9YxlSHNuPtxJaahw9hwmPZG0jO8oqMw9yZS4DufSJxSYo4WGN/6plWQWc9rm2TD59MPqB+VBZPxlzs0H4l9qSExnDb7EEBMmrfYOokXTtm8AMOaMCN3SokeZb1CtLpthMN6lnl433rIuPUcrMdznYpKU8Knaa2VI2tvqLpxSOwsQI9qaLt91zIGBo=",
+  "URL": "http://www.mcmilk.de/projects/mcdp/",
+  "LICENSE": "GPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1528120730",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "glibc"
+  ]
+}

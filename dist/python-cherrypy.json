@@ -1,0 +1,31 @@
+{
+  "FILENAME": "python-cherrypy-18.6.0-1-any.pkg.tar.zst",
+  "NAME": "python-cherrypy",
+  "BASE": "python-cherrypy",
+  "VERSION": "18.6.0-1",
+  "DESC": "A pythonic, object-oriented web development framework",
+  "CSIZE": "461783",
+  "ISIZE": "2653508",
+  "MD5SUM": "7ae7972f849672c35e5ffeb2c9a5da1d",
+  "SHA256SUM": "a21f67caf624f3926f905e1b7def7ab518f826a8d0f9d213aa26f7e5251e22ec",
+  "PGPSIG": "iQIzBAABCgAdFiEEBR6tamFVOJ1p2gLl63Y7Tp24h6YFAl6gXSEACgkQ63Y7Tp24h6Yo9BAAnBD2ss7DYAJJCeBKLwecr0lxOGa+x+rUKSUXf/OyaRzMcRl98bKSGxkPi+TF3hIuupyHDT96Jvz5ZZQoeu5ovNvRLg0qDpKgK9MEvdV2KjJmY4SLgYsg09kEMOwh+y54tZQk0zLHdKyTAuM0uD5rSXN6Jta2SuPZU3u9nhhKhnZvDf21akpp+Bdfvpb/IBCjRgkgIpxLHFw8HPVibUI/bOthwwkW3zLieFXvmmPLwO3dZWQ+QNk1POW90IqRSLdq15dt/FQRtdhqoIftfx8Ctl5yBkYf4ZZu3x81YCG4axHMawLQ7UwpSqm8tKX5oDr73rAaRlYMWVJsXV3i8f9B5ZBKI2dL7ekKlDnMz98lHTOZrRJJ9+VbM1R3//hYd2EEX/9P4s4r3KgUkljWAwT7ESJ3bL4t8QgdUE99sj/aThsfQ4L41ZfGbX6FAdCyjnEyt3N1r2Q111vXSmyL4byoF7YBaN4qaFwsogSsa7ZgfYQd68NyCrr3cbOOSAobQ2TQMK/PnoEL8nJTkGCHoI/nWqzIpjU6YYJ6UmEv8/bYpabvs8kMQca8fCJG3XeURJkwsP1C0yNx/ZmJpSsSXxnWOJp83tvoOcQjFgztHOUWb+DinDofpvtO38zLTFqAt4/O7LVnEXWw54lPKmi9pHZt4Uqfr8igCPuHz9yhbMOHqG4=",
+  "URL": "https://cherrypy.org",
+  "LICENSE": "BSD",
+  "ARCH": "any",
+  "BUILDDATE": "1587567709",
+  "PACKAGER": "Thore Bödecker <foxxx0@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "python",
+    "python-six",
+    "python-cheroot",
+    "python-portend",
+    "python-jaraco",
+    "python-more-itertools",
+    "python-zc.lockfile",
+    "python-tempora",
+    "python-pytz"
+  ]
+}

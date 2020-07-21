@@ -1,0 +1,23 @@
+{
+  "FILENAME": "lensfun-0.3.95-2-x86_64.pkg.tar.zst",
+  "NAME": "lensfun",
+  "BASE": "lensfun",
+  "VERSION": "0.3.95-2",
+  "DESC": "Database of photographic lenses and a library that allows advanced access to the database",
+  "CSIZE": "357760",
+  "ISIZE": "3151775",
+  "MD5SUM": "e7032864645d6c9b920b1f4a1bae6b76",
+  "SHA256SUM": "75d859a50866999ebbb94b6736d0eb4035bdff1a12aa6dfbe9e184c515293506",
+  "PGPSIG": "iQEzBAABCAAdFiEEFRnVq6Zb9vwrc8dWek52CV2KUuQFAl6/vpUACgkQek52CV2KUuTnIAf+MaCAfbXFH10GjfAB4AKv/XgAgHpxLplsEqOIbQHrMLrabGtePZkBZAWEdFOy8FvDF6ggrQrjdMLDgqnzNituNTQNflKzChDDv0n8kGlJ6TQfw3+v3KHPz/idLbnWIyk3pdPWrVB0/Ra65gEDsOM5jFngWe8bysf8+On2RiWh2ELAMA7vM8SF/lli77Rhc8W38oQYpVcCBpf1hSL+5m/RAiTX3zX7E2UVkEHEhPOULHpSa6XeZXmlXZz+oa+ySbO3MYh2SZynmjCdQsns3IPBFr5HJz4FRUgCQm4RQ5JHXvOfRJUhsOiMlxCVFuLVDy7XOVYyezu5Th7hw1nTsfk06w==",
+  "URL": "https://lensfun.github.io/",
+  "LICENSE": "LGPL3",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1589624391",
+  "PACKAGER": "Antonio Rojas <arojas@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "glib2"
+  ]
+}

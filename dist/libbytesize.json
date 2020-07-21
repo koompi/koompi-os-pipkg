@@ -1,0 +1,25 @@
+{
+  "FILENAME": "libbytesize-2.3-1-x86_64.pkg.tar.zst",
+  "NAME": "libbytesize",
+  "BASE": "libbytesize",
+  "VERSION": "2.3-1",
+  "DESC": "A tiny library providing a C \"class\" for working with arbitrary big sizes in bytes",
+  "CSIZE": "23410",
+  "ISIZE": "81453",
+  "MD5SUM": "79638540bd75adc1eb70838a51e3a257",
+  "SHA256SUM": "b78bd4d59982fd573289c41d5aefffde8839d7a404455eda43576d171f88b81e",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl7NHOEACgkQeGxj8zDXy5I9ww/+Og4hDjXRaEtzQx7V3aBtfc9NtLP5RajiVi6jLp5Ax2wiUiecOvrFjE1FoxNYwnW91ZMzy/zcb7tYVdR2mBO1fmaU1X0Ja19NOaYuJkYvetsz6xXijPGk3DACtY4FVaYekCRcEA9srSLsJEknWchydf1pnzAZmYor1o0o4+hme2/QaOkroE6BwpCYUoaRGi2NLqn/wep0MVc3ak3N7VZQmhLVSGAWq/Q6zRj3v/ftOioBbPy/XBctcuL8RcQNRaGHtPw4f1IAb1TRrlnov2J/SQhyVMEs/gjEkv4ulKBGkAZmZFPutBIxjykBoVWKTw66dpJKoJIShc17SmGEvkWP8WSeisNiNfUCeLFhVBOIWPyPsm4HRidLiicatHMIf2W7uWI7btlVRHUBSdzKNh0SQrIGAfGA4evaTDKwmZDj0j6LGyhEfvsdvcKNQ6dbqMAcYJUJsuZ/3/EKcAbw4vRo2SUFnAEs4MjoubaQm0BouOyey+x354mj8/Zpm978T8JSmsVw9NbNSx+dCcA2Hr7qoj/A3RmIHr5fopZn6tZ9KaVL9Fmt7W85xhmCt8TVl0tsqCbptErtsrPD5GjXGKa98ZaHo0nX12Hj9KYNQmPhOma7vxqsTRgtEnyTHyVTRwnQaTI48NIAKnfafcpLvjCJg8kMdEae5fjea6q21+jCkCU=",
+  "URL": "https://github.com/rhinstaller/libbytesize",
+  "LICENSE": "LGPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1590500386",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "mpfr",
+    "pcre2",
+    "python"
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "FILENAME": "python-rtree-0.9.4-1-any.pkg.tar.zst",
+  "NAME": "python-rtree",
+  "BASE": "python-rtree",
+  "VERSION": "0.9.4-1",
+  "DESC": "Rtree: spatial index for Python GIS",
+  "CSIZE": "39610",
+  "ISIZE": "284128",
+  "MD5SUM": "44a2a3b3c2208ff855922a5f88986aef",
+  "SHA256SUM": "1aa815335ac899ae1e5e86010e069be15f266c3810fa6863347d1af1a435cf3f",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl5C/zIACgkQeGxj8zDXy5I7Lw//S8Y6GaYjZ2tIoyO97UZBIG2bNEC1Qy81c3ZofQ40Ava8JjkRWGKixs5cafA04X/WR2OSdyOgJTSQ/qcG6Gt3WttbnrUuwU7s1gNMT/Ba+CO44L2pkspJvpotN+ZTvYqxTgbf6B8k0tADZIE0MPjZlSc+sS1saqigwz1RnbNx4987ESMBvCAGk/q13QgLTNNcfszYCYTRtfmjgvky0Z/33mNtJYXh+Gp8dO7Bwuyqts957E7O78ijYDCLuFmOePbX4ZIceFCltHrmS+2aQWxN+7eNfYwsMQinwWX516Y60bfB1fsXH2lbinK+oJ9YMb0TshBulxyPr6k8qX6iGl2W2KMf8IUvljaQmWAYWlpir34V9ouPqUNY/L6eRbm3perBqRzL9pni7TL9wgpgsc0fL2ijpik3zdrqX9Qsdj/ueA8iUt2x6f9MUlGPPTRv8zbgC6dVgnOFKmmdbwndDYfLjTcxRZOHph3Ls99XDKeVsJ33J6ZW+D8unlFQIamUB2FR3fIEvXOZ7fQHLOOLNMI6T9doS30IqfTmhBeN978Vk+ONKkshVYHVOefFq6CH5USRllySl7IK0zXAVwrrpMGo0hOLPE4nOeoawJTPljx+2RM5iPnxacreBnyZHSFC6YOzLDklRdVFtAZ1pQUEiil4Wur5QSNTKmBobveS09vYsbY=",
+  "URL": "https://toblerity.github.com/rtree/",
+  "LICENSE": "LGPL",
+  "ARCH": "any",
+  "BUILDDATE": "1581448974",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "spatialindex",
+    "python-setuptools"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "FILENAME": "ruby-path_expander-1.1.0-2-any.pkg.tar.zst",
+  "NAME": "ruby-path_expander",
+  "BASE": "ruby-path_expander",
+  "VERSION": "1.1.0-2",
+  "DESC": "Helps pre-process command-line arguments expanding directories into their constituent file",
+  "CSIZE": "11354",
+  "ISIZE": "30687",
+  "MD5SUM": "b22adfa581dcd21e981693d2ff60e94a",
+  "SHA256SUM": "7ba55c4ceefcc8d3dcb5492df8cc19b68cf4aedeb79732a5b19cf19f77dc2d8a",
+  "PGPSIG": "iQIzBAABCgAdFiEE4kC1fixGMLp2ji8m/BtUfI2BcsgFAl67NtMACgkQ/BtUfI2Bcsj6tg//dTQRTr1Zw2yn4318ypVjtL9qirRCSs/1XSSae1GQEhfNsH1IPqw+Rc0jh2w27NLhuecjO8HoFXrqXWcWGb91jbuQDU2vDuWt/QCxwh41lZbI4d8TutsZk+6GhDP+33O1cQvGQmFYlyWvhWu974XHVfdUZVnpkSIv+dzIcIkUBQTMFOvFnud8n8r87S3ar/N/xDNA7fbNyuWVPds/y9yasQTelRH6LCt6Tq8UykIeSeuiMKhBTeFt/gChG+41n7OGyDDxN9pE6TTm7kZ2j7YKSV6jTPlLCVZPtmnQ6+NRHpZ+ycnEuYNLDE8cyprwDQHRNwuQn/GZZXMX3r+WrYyRA6gKvuK3FItGqx1VBEXVpI0hjcmz6xfnL9FxT20+lakS66RyhUxr0si43s3V99BxPf6vdEk6HRltwIblMiTBSbxbokyWm4AcY/V8k0gR4LPjqZYgi1WsMElwfx0Hxzw+D3xWEgcm8Mna5mzIshQ5TlvK85QcsIm5Qw1sF8H3hoy39N3oYkiAlZ/NaL9t43I5KYqSJIRallzkwyzShHYcJZd9YOJa62MuU6X3pje2CB7gIJt35KEnjvcofr/7KyzrX1nHWZEAhZpwXojs10T3m8K6Bd+7l1a2VXCSIi8iysnNzOhLAykMMo4l4FPGX2FgUKCWzEsmfUmDLE4lMZxAwG0=",
+  "URL": "https://github.com/seattlerb/path_expander",
+  "LICENSE": "MIT",
+  "ARCH": "any",
+  "BUILDDATE": "1589327550",
+  "PACKAGER": "Levente Polyak <anthraxx@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "ruby"
+  ]
+}

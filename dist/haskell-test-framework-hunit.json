@@ -1,0 +1,26 @@
+{
+  "FILENAME": "haskell-test-framework-hunit-0.3.0.2-86-x86_64.pkg.tar.zst",
+  "NAME": "haskell-test-framework-hunit",
+  "BASE": "haskell-test-framework-hunit",
+  "VERSION": "0.3.0.2-86",
+  "DESC": "HUnit support for the test-framework package.",
+  "CSIZE": "16980",
+  "ISIZE": "52284",
+  "MD5SUM": "61cb929ca8f50dff57c4454087009e12",
+  "SHA256SUM": "7aea444d1beaa2712dce728c82578a9e8152f6556c88f78b422322c8252692d2",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl75AGAACgkQeGxj8zDXy5LhgQ//Yt6RsgKtlB9F7aClup378+npntvyRAMdN4qp1YI9+/n7aH4Spa1DhVSkVTpPfeUPhEZUY2veI3Cn2hnw5vEd8/iF6BZxoN7ha4PYQrvEXj4T/k3WV869hjqwUOcxpcurkO4tTuGWmmsuotSiO6I7z3Ueom+0vQ7Kfhr6sWE+rxzAvHQfTABpZJpxEQFApXIrx1i3Bz+Ynu7vYo2Pmk1CYrz+CJFkMnKkKqXYb1aTZedPZ8bowqQbl5OJYqmf1m4gm5DmYMUsbV8ZRmx8XjR9zpHovByIzK9yiuMSLl5cUK9vFhriYV5HpaGOd5M1me1TUB1y0UW1qgmNUpC/FdfWGS36e2GX9D0lW5+JD42dbwXYtH7D3kVHLCCoMWqgr8rLQr4DKh4hJ/7DSDc+3EFcw6JzZBd9+V3trAY9p7vitvjE+o+i3dDd/f7ph7rv2S6OB1fkwEiDscaL6HsXWWtO8qLhTxUmIp+usxT3nYMndvC52MDRfFgtIVahL7zBXi6zMUeITRPd0mbvpMZ9ljvxw4HZXLpBOQhhahrlGswUdGA1/LNNfpsulglFaW08M08U7zDB6AtBduYkI1ijIIq4CFzgDsMsm7QuwOowa2llvDKdP6FDmEE7EaFIl+g94VwuZwlmPnon0AnMvFe/aaTLKz72kzn4rUllxFIbcpL81TQ=",
+  "URL": "https://batterseapower.github.io/test-framework/",
+  "LICENSE": "BSD",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1593376843",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "ghc-libs",
+    "haskell-hunit",
+    "haskell-extensible-exceptions",
+    "haskell-test-framework"
+  ]
+}

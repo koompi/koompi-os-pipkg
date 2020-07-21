@@ -1,0 +1,23 @@
+{
+  "FILENAME": "python-venusian-3.0.0-1-any.pkg.tar.zst",
+  "NAME": "python-venusian",
+  "BASE": "python-venusian",
+  "VERSION": "3.0.0-1",
+  "DESC": "A library for deferring decorator actions",
+  "CSIZE": "19892",
+  "ISIZE": "78148",
+  "MD5SUM": "fd306c98a3f988e7cb08a6f0aa5afdc1",
+  "SHA256SUM": "816087983d9cc2e1d676b0f8466a3bc699e37491de73eb6b0186725bb2c8be69",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl4V2H8ACgkQeGxj8zDXy5L/Lg/9EX4RNHECUIQCHIRAm6MWIrg9tnPXIR64MnfaKIcMoQVTuuaM8Xa8ZXwrVvn2V7GsvUSQ+Mb2jZ0oSp1umsoQdALjjrJrPEiFktyLK+hYaCXoPjT6P9IPvJib5a0zCurvCnng33fPzA28SajEYMSjbssLblwESus7iU3bxyax+1JIIAY4ogW8nZi/pbeZxSNgRZNGAoIgeETWDELAISBb8nGRr+0fWleHAJlB7O+QTAnbsUzyoRzkJjTxR6OCuvZeheosbelzKHY59bO/1HlOgHEp8AMH1+7BiGxwntVee4qadyG0NWnqPl4DG5gMsdwcMjLNAchBI7Kzn3/T2ZiEK0R0XJpVJKKDt1YJw8K5m08kAkCZfSpMrNPHlc1EW3CaLVq/0ZQ8l/rx4eBQiCeY0siSOQQNS8iByZOTAFlcx618ueeJ/pXYs6AtvcBPOGh9Yw1vfIvOO87sB7jh8B0wN6DDMy3sMObI4pni3TaOB8J3CmOYC5DZeu0CtudnyGJ8OYMPJh1vAevav3HvU07A0ux8/l7O5uAX2UvY194RHKr1uGg5udZ63m86ygb22K3eLS2GmInwKAUalKJ/pS8skP0xigilEDAeKoJUHCn1W5Cwt2eE2Z6n2sM+KfhH0FGsK0M0kwlaUAdgk7FOHmUaNIN8iWRvGKb82Oslz2OUvVI=",
+  "URL": "https://pylonsproject.org",
+  "LICENSE": "custom:BSD",
+  "ARCH": "any",
+  "BUILDDATE": "1578489301",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "python"
+  ]
+}

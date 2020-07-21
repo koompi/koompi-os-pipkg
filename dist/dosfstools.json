@@ -1,0 +1,23 @@
+{
+  "FILENAME": "dosfstools-4.1-3-x86_64.pkg.tar.xz",
+  "NAME": "dosfstools",
+  "BASE": "dosfstools",
+  "VERSION": "4.1-3",
+  "DESC": "DOS filesystem utilities",
+  "CSIZE": "58804",
+  "ISIZE": "182212",
+  "MD5SUM": "66e911294a80fb18a273d65e722da0e2",
+  "SHA256SUM": "36f00ab44a352ee17d5c0e877c29fdf00ca16015b6e34812a13cab921c879c1e",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl3MK4QACgkQeGxj8zDXy5Ks7hAAoCv4CI1DBU4mrNC6lYFMSmrANh9i497RsyGWfDlgxh3sWSfbZfRW2Q/Xk5E7AySGqbVZIsWHuCyNnZxiwfGdh6mMiLGtTmoLhSfINd6/bPWQLz4YXNnIZO13o9F1wqUNLJyz2qQMLkN8Cn5SU5QJsATFvQ/UKKirlYA3chdOoPt5fXy6aVPR6aWw/Zy9A1/ZWcJjdi7CiTuQOtar8zOvD0AeTcDU58zhLU6fEKeAsJEOITJs8PbeGoCdf20TixTxeIjLjCTxtEtaYxC/c5q8HZPlGH3uynqiqob4OAXrADiLjYNlHFQkQYs7or4AZimcRX4UaO28uDMWM9T8+NbRzyn1+rsrnmhK7CuU4Hop3hab8PIYbU4pGjKieL7JgO9Ux2f8F4zpahniFL7xddbZG6ceAG7t0LuWMrQd1uyCsq6IjTvZepkPfA/JYYGIhgm41r8/EHKPbRxWiUYIK7HuWMi1i2183M9y7NlQCEHhtOgwCL48kFocXHJvtm0ctVLonJzjSJAs1WWQRzdXQXxSKcsk62P1Z+N3RUxeDeRfVVQ4DonAETpRg3KdaoixXnuzqALvuZKpE57vbpDt5HU7DYkpPSQlx5Z67ftnR3RUnHJvLl3h3h/de2aW4f7tKCXJA7wljCXn5QBROJhrtHca46Ky4HQB+0SQdk6cPru69gc=",
+  "URL": "https://github.com/dosfstools/dosfstools",
+  "LICENSE": "GPL2",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1573661542",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "glibc"
+  ]
+}

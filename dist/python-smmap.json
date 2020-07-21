@@ -1,0 +1,23 @@
+{
+  "FILENAME": "python-smmap-1:3.0.4-1-any.pkg.tar.zst",
+  "NAME": "python-smmap",
+  "BASE": "python-smmap",
+  "VERSION": "1:3.0.4-1",
+  "DESC": "A pure git implementation of a sliding window memory map manager",
+  "CSIZE": "39390",
+  "ISIZE": "168216",
+  "MD5SUM": "f4754f1236acc92c43be9da0b9dbee8f",
+  "SHA256SUM": "7e0b25368aea26d5acd4ac88ed99a4743e87770f01e0fc363ddfe3b0184074f6",
+  "PGPSIG": "iHUEABYIAB0WIQTH54SUZv4jWDQ1iDdyWHNLQcMVSQUCXrHQpQAKCRByWHNLQcMVSQe2AQC9GyMnUJzmM8aLtrdyFXfDQwnm5Gnl9mYfMiyfxiI2PQD/fTEo7IFr3vGVVUahNdzJphT/w9tEARNupNpUXje+aQ8=",
+  "URL": "https://github.com/gitpython-developers/smmap",
+  "LICENSE": "BSD",
+  "ARCH": "any",
+  "BUILDDATE": "1588711520",
+  "PACKAGER": "David Runge <dvzrv@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "python"
+  ]
+}

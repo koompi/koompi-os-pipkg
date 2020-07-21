@@ -1,0 +1,24 @@
+{
+  "FILENAME": "lib32-glu-9.0.1-1-x86_64.pkg.tar.xz",
+  "NAME": "lib32-glu",
+  "BASE": "lib32-glu",
+  "VERSION": "9.0.1-1",
+  "DESC": "Mesa OpenGL utility library (32 bits)",
+  "CSIZE": "173284",
+  "ISIZE": "509952",
+  "MD5SUM": "149b6c86488a97a2e54de6bd222de73d",
+  "SHA256SUM": "37e3a3bf8ea3a881d6da89b7c9b5f9973368a22ed75ea22598aaa863ba643334",
+  "PGPSIG": "iQEzBAABCAAdFiEEU1+MAzlFDwVKTSgnBglqatHO3awFAl1BN30ACgkQBglqatHO3ayGHgf9GT5MRECFUISyZ5GCueYv0kndhr5+/OGsXKfFRZ88nJUmdo5zxKoWzak+wan2OycbKtt+FsVgsMGKTO720J2igp+n75AGatOEN8BrCkb3FJ3X2lJwtWtPfAsVC7S310m7D3qjczDFQnE4mVeVFJDGB01QkgxpWqjI+Ok+3kcTGWrmZjUQAw1Mo+110LxcsRus0rX01zct9Whx5J+Z8COJycje6c4VCfsj6s0aEdHoW/Luayz0qOjeU8yPUjBEQi2BuydW2ccxxYUWW4qM/pUeVY46ybrWaPeRw9K9Epb9NicvNGq+Gj32znS+28hnuAZHzIj4rGAp6a7EardScOiUWg==",
+  "URL": "https://mesa.freedesktop.org/",
+  "LICENSE": "LGPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1564555095",
+  "PACKAGER": "Laurent Carlier <lordheavym@gmail.com>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "lib32-libgl",
+    "glu"
+  ]
+}

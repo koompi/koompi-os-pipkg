@@ -1,0 +1,23 @@
+{
+  "FILENAME": "haskell-hxt-charproperties-9.4.0.0-5-x86_64.pkg.tar.zst",
+  "NAME": "haskell-hxt-charproperties",
+  "BASE": "haskell-hxt-charproperties",
+  "VERSION": "9.4.0.0-5",
+  "DESC": "Character properties and classes for XML and Unicode",
+  "CSIZE": "921915",
+  "ISIZE": "5956987",
+  "MD5SUM": "94e12edf501de30e89dc62f8bc1969e1",
+  "SHA256SUM": "793760ca1ef4336d6c9d7dd59d6185d292fff7966424988cd6a79ba85c10f2eb",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl6heF0ACgkQeGxj8zDXy5K1xA/8CFNGmrsrWLQyAF1e/8vRHLxqw9xbK4NC3gFJ17yjffM3SARm69RQKdJ4UIl4SnwUNAPJTw85sr3LTlt45+hca9nOmz/DUGpe5hd9lUU9duCrwty/ZL283dNuwcGtwAJcz9IfgE3jSDHpTpuGlwDOhifqFfz2XMEo/efQjlNVgkVDS8BFu7W1hanjRlMUJqnnmC0cF0SVWBUlGFagE4ReTvLFjQaRIBvvD96AxAvm+vSMzE39OjVTVgE5916LR1cNoSzev8WlYu1UEDbr9QNjpDuRDKqEuqMFRF1xV/4zS26QeaPVylwaXEeODymDKCJby+LF6nGDRX9HjHPl7MlDCUEArPby5VupA7F25rUkiAjc0UwupZHw04JjHTtWj3y65D/0qJj3P1UOh1wyHR6BV1Xe3JBzUFNZbeC7VWuRwBQYiG4wvtsv44LtnKYE6Xnek84V9xFf33FRLyPWnkEGRr4Lwf9bFFhCYTVxom7ckZahdlSN04dJoeW7eV4gZ+PiuqgZy9iFTGxoTfw9NyEfzvgaSSk2cDdE9pbPGM9hIz2uVdWzQtocClmCqK0n47RyWpe2xSok7uBb5HLuKmRWmuApOPLJ4Lw4JmvWJdItA/rQywyA0efJeN6WVsIL9+NVpRodAhbm271hN1C50DhRCsHamNuY5VGLYhwCI6xnlSk=",
+  "URL": "https://github.com/UweSchmidt/hxt",
+  "LICENSE": "MIT",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1587640318",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "ghc-libs"
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "FILENAME": "perl-ppix-utilities-1.001000-3-any.pkg.tar.zst",
+  "NAME": "perl-ppix-utilities",
+  "BASE": "perl-ppix-utilities",
+  "VERSION": "1.001000-3",
+  "DESC": "Extensions to L<PPI|PPI>",
+  "CSIZE": "15644",
+  "ISIZE": "25508",
+  "MD5SUM": "01d190268fc1046db6df17de04343785",
+  "SHA256SUM": "c550e71a9b42dde793884b9140d39aae2ca4e2be96425b5d0fa84a026aa7b332",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl7vdQwACgkQeGxj8zDXy5IoQxAAusPJ8t1Ee915RBzTfcYbnAkd0OYIKq7dy6Bzd8xYwOsVSVZIlW5tBgQ3KBrS4uQguDGCTtHPdZfmVSSJKzUbcpzOis+hztTNZDis44TGEmXAAnVebIGbhjyArMCfTJ/geRrh27ZR6i3we5AXQ5wZSPG2n5nmMgCee+9xbCYeZWOro6npTph/8me0HYD+CCm63kn4DH6M91KOAuup+IqHdppxCn3cN9MPfyi+5XjOCBTuhm3TnDfAKOEsKuetOZq21knrHw5xJAS/0U3Ar6sab/cgPCljwGucXXL82XcGt+lJ2HUd6WJ9LGANI7l6gVr2U4L4K2QvqvXejozRZejfBleb4s/H4/fonVCKRe4iujbgG6KIFfeKX3wi7xBPgtimQ8qN9lhmO1Mu08IcPrEQk6s52rbXB+V0ezohuUuxhb3d0efsRDlyQf2CrQ6uMtgyw83ewoiTlJoXaQmrKMyjXIbbfIcr5vJOGbz/e3luazmCILCpv3rJOHkFQC0htKAQek+hjYdg76XYqycqm9d9PyvJjL7z4lB1QbtZVhl4D9jzwzQ3AYcJVGUHJf+4S/VdeAlC0+ar3VgpF81tKFWaCjvZ2lDylFXBHqRvqmZd2i0rFK4l1BsE5unSFhS/KqRpL++PCvjApk/3TbeH9BednypcDdTQ1sgIvNAQjfN8F/Y=",
+  "URL": "https://metacpan.org/release/PPIx-Utilities",
+  "LICENSE": "PerlArtistic",
+  "ARCH": "any",
+  "BUILDDATE": "1592751353",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "perl-exception-class",
+    "perl-ppi",
+    "perl-readonly",
+    "perl-task-weaken"
+  ]
+}

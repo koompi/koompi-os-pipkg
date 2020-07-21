@@ -1,0 +1,23 @@
+{
+  "FILENAME": "libxi-1.7.10-3-x86_64.pkg.tar.zst",
+  "NAME": "libxi",
+  "BASE": "libxi",
+  "VERSION": "1.7.10-3",
+  "DESC": "X11 Input extension library",
+  "CSIZE": "151885",
+  "ISIZE": "495741",
+  "MD5SUM": "9e2017a6df6dce6ddfe5a77d76855785",
+  "SHA256SUM": "0097563cd3cc7d0293d27f9357d95ccc5056bb19e9092362992c3e6199fbc4d9",
+  "PGPSIG": "iQEzBAABCAAdFiEEhs/8qRjPOvRxR1iAUeixSKmZnDQFAl6/zkwACgkQUeixSKmZnDTTcAf+JQF6YepifA72luoLhMvLVLniEO8h+CjzvBf6o14kI2GWJSYKSwsA2yJywkEAMxPVEfqA73K8qkGGpPT5mb13ToR+dL35eOojfdFrMIMyJgi5Szf72cJI3m1JCCPtt9X9Kn89XkT6guBdJYDbo+ZALQB59bm3lNqeEBS7aLQQu1x76XIzSf9QIaqJJMorgauWSVYNb19sAfFbDtmXqIm4cc4HeFCVssBoE8o2LrlI4064HarkC5Gpi/c01fZR2D9GYh7/L6+jdgTjZNRT4oQYds/PqUADBCmYFkZIOKaDQ/2rZNCJzXn88EsmTXUemtjlVLTS6Kr2P9O/Q61tJ9A6Wg==",
+  "URL": "https://xorg.freedesktop.org",
+  "LICENSE": "custom",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1589628466",
+  "PACKAGER": "Evangelos Foutras <evangelos@foutrelis.com>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "libxext"
+  ]
+}

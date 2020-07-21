@@ -1,0 +1,29 @@
+{
+  "FILENAME": "engrampa-1.24.0-1-x86_64.pkg.tar.zst",
+  "NAME": "engrampa",
+  "BASE": "engrampa",
+  "VERSION": "1.24.0-1",
+  "DESC": "Archive manipulator for MATE",
+  "CSIZE": "1217390",
+  "ISIZE": "13526358",
+  "MD5SUM": "5306a3ba488a8fa52a66667f6777c3bf",
+  "SHA256SUM": "dc42b567406a13585bd8f8759670199e3223a3882d7bcb42dba87d750ce7fc32",
+  "PGPSIG": "iQEzBAABCAAdFiEEzFln1AlbTztC1F+ggaQC1POCu70FAl5Vg7AACgkQgaQC1POCu70KzggAptEFFwCsdrY9GDQIb+vThKXAVPM/qO++h3kaUSqR/DI7UI01ebZxUbooQb0+RY6OHic81fnNys9Hz50+YjtSJUI2QBrqKhTOGkDhQbDvGyCF2HiTKCz3lXwYzNRRGXTlDVxsXGqrPlH3aYl9U7DYzQjwhmkKWV23t7LOJAAk+yckNOv4aoDqexXFlLy+OJbJXzcQg2Z9Y7cfETnj/DZiCCOuJkcVjyu4uX3tjrnnQnLNrHamFIOWYHT+8RSEOzAClHpxCNcn7BkuJRUeDFrtL1cCzcUyvltF6gIIMYezk9VuabDckhxqZtrVf2F7V3lCRElHK82GXHGwlqOkralkNw==",
+  "URL": "https://mate-desktop.org",
+  "LICENSE": "GPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1582662269",
+  "PACKAGER": "Brad Fanella <cesura@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "gtk3",
+    "gzip",
+    "gettext",
+    "libarchive",
+    "tar",
+    "unzip",
+    "zip"
+  ]
+}

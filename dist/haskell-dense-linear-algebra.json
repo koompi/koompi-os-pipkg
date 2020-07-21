@@ -1,0 +1,29 @@
+{
+  "FILENAME": "haskell-dense-linear-algebra-0.1.0.0-50-x86_64.pkg.tar.zst",
+  "NAME": "haskell-dense-linear-algebra",
+  "BASE": "haskell-dense-linear-algebra",
+  "VERSION": "0.1.0.0-50",
+  "DESC": "Simple and incomplete pure haskell implementation of linear algebra",
+  "CSIZE": "49974",
+  "ISIZE": "210727",
+  "MD5SUM": "9d659380b15d639ab9d005234fb01379",
+  "SHA256SUM": "50df5db90e90e56adbc5f00d3de251c66188bb139481d9e7440c98c3856d86e8",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl75pEEACgkQeGxj8zDXy5J/IQ//dCvMKWdFP87GruMy64IwdXnst+4MZO46eEie3/pk+VUqzzVhr90JzGqTsQaUT3p+/MOQwBk2d+1VzQN0bGZJkM1+QCx4YP+pnix/QJfWbSkq14Sdh1BT809Dqv2hCO+rDzlRmrbb62JNalhgSYizYNZoVv5RmoLL0EstL5G1HideagfP7GykBjKcZt1ES2h75r78z1iCy4XZZG6byma0GSx3jz+OVfpClicHVVSihX3Go6rf3XCDDn0g05oBcBwnt2PXgRotBWnNNu20IguEmjAw13ptALEYEZzHf6mmPxWbbKklwareBuCW/peud6+luZgyKdNBX6f3GSYCZl+9HnjrxxafB+Hyn6uINix9z4Ua95ZBIEpOZ6h1saMP/N/yoSLR96NfZbbKIBWN5ZbKZ/lk5TeDs6IvqpB5T883+IFzQCXxN6F9TH7W+wjoDnTA7wVRP84sEApfMFUEeFu/tZpcyAnfyz+m7h7QHHgwFJIUQqdeBJTNoM2hBo4oks3niY/DCY1cYywPI3SNnXscJhFZv9aE9koGu0pBP8lGBwdIovGka/SB6eJ4lipnNzfvF1nwMJlwHyNJuooxybRWk+QKaJpK0g/b+lB6GoBeRFzRGu2O2rVhnshJmjpoGyrF1tED8wmArRRzGMH4UulIUDJpKDY8Bj7I80fQmzmMsWE=",
+  "URL": "https://github.com/bos/statistics",
+  "LICENSE": "BSD",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1593418789",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "ghc-libs",
+    "haskell-math-functions",
+    "haskell-primitive",
+    "haskell-vector",
+    "haskell-vector-algorithms",
+    "haskell-vector-th-unbox",
+    "haskell-vector-binary-instances"
+  ]
+}

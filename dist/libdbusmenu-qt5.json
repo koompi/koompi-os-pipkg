@@ -1,0 +1,23 @@
+{
+  "FILENAME": "libdbusmenu-qt5-0.9.3+16.04.20160218-5-x86_64.pkg.tar.zst",
+  "NAME": "libdbusmenu-qt5",
+  "BASE": "libdbusmenu-qt",
+  "VERSION": "0.9.3+16.04.20160218-5",
+  "DESC": "A library that provides a Qt implementation of the DBusMenu spec",
+  "CSIZE": "163072",
+  "ISIZE": "615344",
+  "MD5SUM": "7ee82ccfd32b23cfa6eda33de52d3491",
+  "SHA256SUM": "9b03d8c7c35b6c27d84e795a81736065bb56ab005b8abc012f109a66a6650aa8",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl7Dj+4ACgkQeGxj8zDXy5IRbxAAgWd7n19Pxb75Py7ItcBq6tCG85EV19pP9SlVLfB9svIynnbSvSC3XA8zbDM8Jea3DgDeEYbqqfZ8kCLpJz7PhX7TAhITYbabBfql66jWvHWwUAth8scn8uqs8BbDeeqJoQHAhkKfOvlxN/PYT68An1J/qvDq7DX2HpBPGO8RmVE8PYcHbB5c6K6pCUzFu7LPoKP+YIcOov5d8Sfedp3/HT22DKiwrYFNhxQLI0JC1q58yzPiuy/A+zMr4EizSua8FqARG8u1xvSxYs9yuI1OdKLXduB6Wj7XOo570SYLR1z2BCeOtYhUHSOTYTxtyYi69BQ5CSmmVgDZyA+KQyaPxXZIFoCecDAYUvFhHTBb3vfOP6uosBN+IWI4joS4Lu6JNdb31ci9V3NMYD3zIt4psIEGXnEqMgrFG2fBhJpnp+uiLjcSiGf6gxp+TaKrJgCuGiGTshOEWjjL8U9Sc3IgraaSPJ1TDskJNzwMdRqWUKHWgC/yvHdaOtBQTl9KI0E5rMQ/vokA0Y2LRezxOJXrF6MCvjgr6kLZ5XB9QnejEg7rKBn8Gr0XZ1aIyPeY1DADjfQB3AtbilR/RYQE8ZtAK4Nlypvs++1t7riY6CbWqFOtpZb5sWzbiJI4mGN4vjk6i/w8YGp57kf1psSwChrSuPvzagVcKF0OOe9WF6agIDw=",
+  "URL": "https://launchpad.net/libdbusmenu-qt",
+  "LICENSE": "GPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1589874625",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "qt5-base"
+  ]
+}

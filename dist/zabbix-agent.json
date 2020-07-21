@@ -1,0 +1,24 @@
+{
+  "FILENAME": "zabbix-agent-5.0.1-1-x86_64.pkg.tar.zst",
+  "NAME": "zabbix-agent",
+  "BASE": "zabbix",
+  "VERSION": "5.0.1-1",
+  "DESC": "Monitoring agent for Zabbix",
+  "CSIZE": "268891",
+  "ISIZE": "836409",
+  "MD5SUM": "27aafcc79fad13ed3a69e18da0620438",
+  "SHA256SUM": "b6d904defa4514e6aa7172ec79999991d10a159262e3fd11a3307f7373cf38cc",
+  "PGPSIG": "iQIzBAABCgAdFiEEz6avFeXHQUn8HYwIbRZVwUzhwT4FAl7iAzsACgkQbRZVwUzhwT4TMBAAxkyNVLbigsCLk7Jjn4Uf+hy6NrV7XZ+lFAYwxgbhfNXi6+bXATQ0SSfQ+//6tiUGEroiq7zBIel0JXPZLDsHrYkzFBUuTmG/goTbAzEcirFAb8GM2fvgjkbCmM/gU9r+c0A7LaGrzJYO8+Jxoqv5MGEHLg1meuYnhkbBHu2L/65zE5NUpA8uYb8i4JnSPRW66+2eUvbiIjfUeOJWJnxSFgi4hgPD+mnkg43FcZHCaIt95q6ATiEk6jD5XQoMQvDpc2JsHwqfseH0jxD8fZY8FL/LimhAzdbfmPUJ7UmoptZIIwgHpnVNB5CCTJKhiP0W1XPwp1Gyp4ZV+5FYORCXPpJu79/w9q7C/Mug90U7qDnJmQnbmWoU3XCaVa260upMwcpmTpDfKGaL9ucKxXgs9LCcaw3A5dzbvncV4AvtcC93xh9NQQVvO9PwHuDUgjm2hHZw7pjV9JPAkCmmQO+EQh2qt8hDhIm37iaEzAQRROATf5DEDB3iqHIj7URXcDHqSu58kEWA0VXnGKPq+TNbVbiZMcmZqchaz12NqrO5r9SjZwvecTxsR0fHIW7e/d5G3z6EkL6T9DlPvzztHHCo8LAzRze0SdAzO6ODrbIbd4FFuMb6NT66g5iuTaBd/tWHTalDHit3KQyxVAfbYpuw5wZz5fIZnPPpQ8nW4jREKrw=",
+  "URL": "https://www.zabbix.com/",
+  "LICENSE": "GPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1591868945",
+  "PACKAGER": "Florian Pritz <bluewind@xinu.at>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "curl",
+    "pcre"
+  ]
+}

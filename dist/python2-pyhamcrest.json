@@ -1,0 +1,23 @@
+{
+  "FILENAME": "python2-pyhamcrest-1.9.0-5-any.pkg.tar.xz",
+  "NAME": "python2-pyhamcrest",
+  "BASE": "python-pyhamcrest",
+  "VERSION": "1.9.0-5",
+  "DESC": "Hamcrest framework for matcher objects",
+  "CSIZE": "48612",
+  "ISIZE": "356433",
+  "MD5SUM": "c89a06f2f409bd122b12485573e7a1e4",
+  "SHA256SUM": "2ee5051810ba136bc781688643ce3e88a55e15946ed48eed1d63ca512cac87ab",
+  "PGPSIG": "iQEzBAABCAAdFiEEhs/8qRjPOvRxR1iAUeixSKmZnDQFAl27FcgACgkQUeixSKmZnDRYXwf6AsyzGm2VVos06xBQv9Dk7TAJ/+MZoAxtLP7P61cMr9zB2J/59LcPzqKmLWOjDeRCcz5PsuWshjCLDpEimDBNhtc81UQ7JenjUQwCmyc9K1XNamWjkbQ6Z3X1cEBkCKIOv8KeBcz1dyHuS/k6aohUH2wnOs8DIxkwmszkV9dkTvXE/qNoGtMNajXxamIWLBA3ozKqEDHfFKprKWKknKpM4maGfLjwU9Ltevusr0xXj2U8So3NVO9Qs2IhEQKmQKtNi6CAXayWFjiyaWcYOf+medp6hv55xM9ydLZzbL1SFJ6TuAtBkz29qR8wpeIRmOE9AgF090ykp6FBzuucLDzJYw==",
+  "URL": "https://github.com/hamcrest/PyHamcrest",
+  "LICENSE": "BSD",
+  "ARCH": "any",
+  "BUILDDATE": "1572541869",
+  "PACKAGER": "Evangelos Foutras <evangelos@foutrelis.com>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "python2-six"
+  ]
+}

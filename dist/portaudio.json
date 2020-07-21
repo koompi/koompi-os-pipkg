@@ -1,0 +1,27 @@
+{
+  "FILENAME": "portaudio-1:19.6.0-7-x86_64.pkg.tar.zst",
+  "NAME": "portaudio",
+  "BASE": "portaudio",
+  "VERSION": "1:19.6.0-7",
+  "DESC": "A free, cross-platform, open source, audio I/O library.",
+  "CSIZE": "105072",
+  "ISIZE": "361980",
+  "MD5SUM": "a81c4a44924b7578bfbe4ea1d11295ab",
+  "SHA256SUM": "71c6167ba83df113ca6bfe67338d72f7ac356c87dc48cdac47f1ea55818e04d9",
+  "PGPSIG": "iHUEABYIAB0WIQTH54SUZv4jWDQ1iDdyWHNLQcMVSQUCXtePcQAKCRByWHNLQcMVSWueAQCqMhdYpPg6yYrU3+RO9JbtvZ0YDEzziEG/5douVw2wbgD9GzifHF3KPLPxGerhbGIMMhguQIxsmOZI5KOafjZiCAI=",
+  "URL": "http://www.portaudio.com/",
+  "LICENSE": "MIT",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1591185129",
+  "PACKAGER": "David Runge <dvzrv@archlinux.org>",
+  "PROVIDES": [
+    "libportaudio.so=2-64",
+    "libportaudiocpp.so=0-64"
+  ],
+  "DEPENDS": [
+    "gcc-libs",
+    "glibc",
+    "libasound.so=2-64",
+    "libjack.so=0-64"
+  ]
+}

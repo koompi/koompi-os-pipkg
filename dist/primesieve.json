@@ -1,0 +1,23 @@
+{
+  "FILENAME": "primesieve-7.5-1-x86_64.pkg.tar.zst",
+  "NAME": "primesieve",
+  "BASE": "primesieve",
+  "VERSION": "7.5-1",
+  "DESC": "Fast prime number generator",
+  "CSIZE": "101316",
+  "ISIZE": "302773",
+  "MD5SUM": "1dbe2354d25ed1cfa0df28c193431d7e",
+  "SHA256SUM": "6dded044c5bb6b460f9a2447a47a9a307d64bb5105efa8447c4fa16584f3ae37",
+  "PGPSIG": "iQEzBAABCAAdFiEEFRnVq6Zb9vwrc8dWek52CV2KUuQFAl5OViMACgkQek52CV2KUuSsQQf/a8axQdmHD/JygWhFySd9TtJrynUL2O15ZbmB8wxSxPdgm8YuMwL4dVsOv9t6W5JKt7pC2pgk0iDDWSf6BzQun3aqBkbZojut+KbifFEwsAJ4sTUl/p3gZQfK4BsdiKq2hAZEKIYWOu9YJuAK81pGwwD59+Nw2iuVGopvI7qX9zxA7VAdajJg+0K1S06I+lVmFoaRz7/7cgwLOMWwuy9KrlM07gXRvLlLYxcGV7jqdxfhuS2qXgNu7MpJ5LbazmcKTBcLS5rb7qD7ueZuYbQQtMR0VJ8IbpOLaKyE3USWzgsycBpu4A45XNrXW/uJ4mqNMTmaIJmcgzJV6vF1pPHV5g==",
+  "URL": "https://github.com/kimwalisch/primesieve",
+  "LICENSE": "BSD",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1582192063",
+  "PACKAGER": "Antonio Rojas <arojas@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "gcc-libs"
+  ]
+}

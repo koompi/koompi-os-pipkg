@@ -1,0 +1,26 @@
+{
+  "FILENAME": "softhsm-2.6.1-1-x86_64.pkg.tar.zst",
+  "NAME": "softhsm",
+  "BASE": "softhsm",
+  "VERSION": "2.6.1-1",
+  "DESC": "Software PKCS#11 store",
+  "CSIZE": "375335",
+  "ISIZE": "1463492",
+  "MD5SUM": "e0b564328323c2f94c59daea2337220e",
+  "SHA256SUM": "60ad0342194ed4a70a67f80601c5e8865b1e19b47e3e542c08494616ecb510f5",
+  "PGPSIG": "iF0EABECAB0WIQQsEYxiDwLbmsHQ+fqU3SOT2i7kIwUCXsTg/gAKCRCU3SOT2i7kI3lQAJ9kEtTazYcFQtKKR7D36HjJ+7pK0ACcD6TvjhLxjAgSw0bL8GBgge7BIMQ=",
+  "URL": "https://www.opendnssec.org/softhsm/",
+  "LICENSE": "BSD",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1589908676",
+  "PACKAGER": "Massimiliano Torromeo <massimiliano.torromeo@gmail.com>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "botan",
+    "sqlite3",
+    "openssl",
+    "p11-kit"
+  ]
+}

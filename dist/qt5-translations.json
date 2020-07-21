@@ -1,0 +1,23 @@
+{
+  "FILENAME": "qt5-translations-5.15.0-1-any.pkg.tar.zst",
+  "NAME": "qt5-translations",
+  "BASE": "qt5-translations",
+  "VERSION": "5.15.0-1",
+  "DESC": "A cross-platform application and UI framework (Translations)",
+  "CSIZE": "1661163",
+  "ISIZE": "12368848",
+  "MD5SUM": "aba5e8d22c230ce99346b4b109ed26aa",
+  "SHA256SUM": "25a77a20d3cd2c251760941c52318617da1c49ae963bb1c2d06801a0d8d49094",
+  "PGPSIG": "iQEzBAABCAAdFiEEFRnVq6Zb9vwrc8dWek52CV2KUuQFAl7M1mAACgkQek52CV2KUuRRywf/e+7faJk2Mn1SrIbE7mH+lLk7+t8yn32h7YdVrzTGFqWf5mKkMM5DIUbLUzCvPcdXlVocop1B1OEnB1UDFSPkYBXM9UEFJNoi08RpBVlezEeJi82Wwj/8koHx3ANfaFkezCGBmAjAc8atMbm+KaW/kexA0TQGaFWX+wMdE6aw8OkTDAejMxpuTk9ASgm9SEonpecZXYAemMd9HEjQ/6yV1OHam/bJXOS4xE3ecorqyIP1Bvq91R5Ex5rTxrREXEM2L21pi3UiOxBdFxBoteRrydywNZOhP/YM08Vo18ow/6l2/l1sduWDvRXGslngYS2/aQtbxbzMtB98/Rsos3Lrkw==",
+  "URL": "https://www.qt.io",
+  "LICENSE": "GPL3",
+  "ARCH": "any",
+  "BUILDDATE": "1590476521",
+  "PACKAGER": "Antonio Rojas <arojas@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "qt5-base"
+  ]
+}

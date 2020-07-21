@@ -1,0 +1,23 @@
+{
+  "FILENAME": "camlp4-4.09-1-x86_64.pkg.tar.zst",
+  "NAME": "camlp4",
+  "BASE": "camlp4",
+  "VERSION": "4.09-1",
+  "DESC": "Caml preprocessor and pretty-printer",
+  "CSIZE": "9905471",
+  "ISIZE": "172246984",
+  "MD5SUM": "5fa51f321ab59c29126c6327c74dd519",
+  "SHA256SUM": "59a0e21b10d6c8847ffe68203bca10f203f9a317422534e9cccd9edf73ab7173",
+  "PGPSIG": "iF0EABECAB0WIQQ1W9uX7Uck5rOkUOej2VYqWJh0qwUCXsLG/AAKCRCj2VYqWJh0qw7mAJ0QgDV+MgFI6tekKII7cN2uKEpg4wCglZBC/4/mNrk9Jq/SAAaQfWLG7tg=",
+  "URL": "https://github.com/ocaml/camlp4/releases",
+  "LICENSE": "GPL2",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1589724444",
+  "PACKAGER": "Juergen Hoetzel <juergen@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "ocaml>=4.10.0"
+  ]
+}

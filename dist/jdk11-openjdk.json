@@ -1,0 +1,28 @@
+{
+  "FILENAME": "jdk11-openjdk-11.0.7.u10-1-x86_64.pkg.tar.zst",
+  "NAME": "jdk11-openjdk",
+  "BASE": "java11-openjdk",
+  "VERSION": "11.0.7.u10-1",
+  "DESC": "OpenJDK Java 11 development kit",
+  "CSIZE": "80123374",
+  "ISIZE": "91728090",
+  "MD5SUM": "c75ddf11df2baf3091c1b4b563a384be",
+  "SHA256SUM": "96c82c0e147489c4d82b1c6bc97edbc3ace334e1314b0f7dfbe6f875369a46bf",
+  "PGPSIG": "iQIzBAABCgAdFiEE4kC1fixGMLp2ji8m/BtUfI2BcsgFAl7JWS4ACgkQ/BtUfI2BcsinmRAAii8Jgku8xfVB/Q1o0NRqNsbQ9ikhF5XEcCUwu9XaGiBOXsD+uaFM3FvNEDpjAb5TdDb8uFhia/0R38zVKLp6IMfQjKCcwAkb1MoAAcqurUrol+s79N/lM+ZWUpd/sr9bqc0b02jvXDM2GS/NhOyDwajeeSJac7h3iYm1/vaprwxqlZl3HLO5vYG4zKVPZif8JiBfhwBBDsDs6lWmZPnhS4ponVeffmNqfO1uKD37RlT23bW5JYLIuAlb0Nk2ozM4D8h6Fmp3ZSsgHHeULjjt11IKtChqzCKCoWv74fGGO3s1bXOr7Nn5UUtmCjwUZVYUSkksRvizuszILfKy8w3SKWK8Oo6rhoQVZfj4ev0BRKyN2a5y7zq97laVVcyoyeUHVB/iWZDEOgWkXqrXO1z6uOSR9xg5pHaaJTZpp9Nqh5tYFcJ/hsGnFzUQufcQ8+0+28eti15xp0bqyYYuLAQvUM2ZcJ7yrzt7bpVaQ4sY+5IrXKx9Hly27nvTzk81cDwn2yjrSZ6jITDR0Wsn4F8uaEoFaqCDSQGkm7V0/1k/ymQ0zovuEm+97jruBkRzZ5aYDjwb/ZahHmfIApoPuzYYALBa3Mz3p9QKFzYXYRm1NEgq1wlfaGkPHMS7KqTAs/2p6/TPkqxyMRCYA00byLtg/CrlQUdX0xwEIJ7UPUT2YqM=",
+  "URL": "https://openjdk.java.net/",
+  "LICENSE": "custom",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1590253143",
+  "PACKAGER": "Levente Polyak <anthraxx@archlinux.org>",
+  "PROVIDES": [
+    "java-environment=11",
+    "java-environment-openjdk=11",
+    "jdk11-openjdk=11.0.7.u10-1"
+  ],
+  "DEPENDS": [
+    "jre11-openjdk=11.0.7.u10-1",
+    "java-environment-common=3",
+    "hicolor-icon-theme",
+    "libelf"
+  ]
+}

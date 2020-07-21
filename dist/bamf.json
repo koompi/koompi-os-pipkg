@@ -1,0 +1,24 @@
+{
+  "FILENAME": "bamf-0.5.4-2-x86_64.pkg.tar.zst",
+  "NAME": "bamf",
+  "BASE": "bamf",
+  "VERSION": "0.5.4-2",
+  "DESC": "Application matching framework",
+  "CSIZE": "179957",
+  "ISIZE": "1010703",
+  "MD5SUM": "70acb04e86b5c5f5ad8d2b0a70d8c53a",
+  "SHA256SUM": "32225fc93ecab7be10579b6dc2e833b953c560129820ed1e8147acc4a46416fd",
+  "PGPSIG": "iQEzBAABCAAdFiEElDfdOBWnqRaePTlGr/XZUJi8b/UFAl44YB8ACgkQr/XZUJi8b/UcUQf9FphVu0RwHCRzJmqwWOVv6sJhv6sAlu5h+ttCQ1i4xmFGQj6xD28pFgRZLE9Aelax0s2K8C9cu2eBO7gb2xkGdw2f6r8u5/p5AAq+ZMqu0Y03fufiYyYokNftKOEYl8rENbMpI/4RQNVQrQ5l4b82Xch+4e2j5vyLZqy7yyByzh96JjM+wplQowZViiWraSEjKD4L4oFwDG4iZkD4w7nT0IWaIhLx6cCY8ehhRQTr8d7/M9JDdCR/weayB52WLym3ofAAQUvD/2lUoLnqo2BEMv6Z1G1XX/2K7vUlEK+nWK5Y394pJ0z2Ao3EJHSFFPvI99+HM4OSWVjgQxZBMp690A==",
+  "URL": "https://launchpad.net/bamf",
+  "LICENSE": "GPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1580752794",
+  "PACKAGER": "Maxime Gauduin <alucryd@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "libgtop",
+    "libwnck3"
+  ]
+}

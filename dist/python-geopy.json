@@ -1,0 +1,23 @@
+{
+  "FILENAME": "python-geopy-2.0.0-1-any.pkg.tar.zst",
+  "NAME": "python-geopy",
+  "BASE": "python-geopy",
+  "VERSION": "2.0.0-1",
+  "DESC": "Geocoding library for Python",
+  "CSIZE": "128740",
+  "ISIZE": "949876",
+  "MD5SUM": "6fa9ee078d3086a0b1fdd2e8a8c01b73",
+  "SHA256SUM": "7e15c2a959eda929709a0d433f1d4bf26a117afb79b379425b16c5cb85c61c26",
+  "PGPSIG": "iHUEABYIAB0WIQTH54SUZv4jWDQ1iDdyWHNLQcMVSQUCXvm3iAAKCRByWHNLQcMVSf5SAQDJjCCFXNPcv917K0OrwLyFtuMGLPfWAz1RWBq3TqVIDQEA8pqzXoP3ROUpEUN+7Pf6oIDUyoK44AcN+QDyjhV9EwQ=",
+  "URL": "https://github.com/geopy/geopy",
+  "LICENSE": "MIT",
+  "ARCH": "any",
+  "BUILDDATE": "1593423628",
+  "PACKAGER": "David Runge <dvzrv@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "python-geographiclib"
+  ]
+}

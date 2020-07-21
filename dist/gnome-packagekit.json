@@ -1,0 +1,26 @@
+{
+  "FILENAME": "gnome-packagekit-3.32.0-2-x86_64.pkg.tar.zst",
+  "NAME": "gnome-packagekit",
+  "BASE": "gnome-packagekit",
+  "VERSION": "3.32.0-2",
+  "DESC": "Collection of graphical tools for PackageKit to be used in the GNOME desktop",
+  "CSIZE": "1139251",
+  "ISIZE": "6944511",
+  "MD5SUM": "5071d3961ff14ddcd2b4fd62b2694829",
+  "SHA256SUM": "a85b0771c5058a39dc150b155dc9b7d7f137d302ffc7019b6e6ec7b0b36e3124",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl8Eoz0ACgkQeGxj8zDXy5LHnA//Y49SiuOx5iKgHqpjWE5gYstR5Avl4Yoy+4ogNXdS/eC/iabnBKJPcEzmnJtFIozpePlDg7mgijmpxQ5xiRycNnj5PMCc3t2zgcrQtSYiksl4TyHJrfhd9xBpC+iC8Sz/WENJPPCps7xqo1fcAHWfHQ9zcGNUMs7G8VPW1NhM8jvKqmv0RNj3XenNOSnYRwpFTuDqRDuDkaBtQLZ+67ICyWcqMmjXUjX3yWLVWe9Tq1bNLVUfhJntAoZYs1AZcRckzzVqzaY/VrhVUhDYRZ02rr2JyAnhcvt0oOdZAUMbzuT8RGYuv4gUanTG6YmP60C+J7yxIGwjydOYLAyrhFu1gEIoTc81j48ou6j+v4VxpRE9KwoqETL0tBjLNIHfQaIlKF9AcE3yHh+dJJIjyRXa9UTEwUERpnbsITDfiBcZHXJasCIQK3xL+J0owlTi+drkDG2paKBUN0xd8v39jeZZ7Gq7lpJLtKhvM7CQpRwAfCyxadDdxfqZK7TQQpbrgx9XF9fJunp1Dvg0jRYksWCV4Myg2cfQOqAFtQd0PB7ezhUBjgRF3EFVZCoWRY35k1BENMFF2+V0cVKsc5zpzc/EWakFkca4uxEEkFllLIYxhyzpfbq1MkxhQqBbywRP47tmtwyIOkB2zK8sLxGmwtgm1fOJUEVZ3OAGq06hwraomlc=",
+  "URL": "http://www.packagekit.org/",
+  "LICENSE": "GPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1594139294",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "desktop-file-utils",
+    "gtk3",
+    "libnotify",
+    "packagekit"
+  ]
+}

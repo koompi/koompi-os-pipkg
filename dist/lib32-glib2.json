@@ -1,0 +1,32 @@
+{
+  "FILENAME": "lib32-glib2-2.64.4-1-x86_64.pkg.tar.zst",
+  "NAME": "lib32-glib2",
+  "BASE": "lib32-glib2",
+  "VERSION": "2.64.4-1",
+  "DESC": "Low level core library (32-bit)",
+  "CSIZE": "1190286",
+  "ISIZE": "3802147",
+  "MD5SUM": "2c81c64a1db73ee1c2430b2bdaa9e884",
+  "SHA256SUM": "c9bba96ccc1e64fedd624b159a14c1374460f09118fab3dfa4f772887c1876ac",
+  "PGPSIG": "iIsEABYIADMWIQQGaHodnU+rCLUP2Ss7lKgOUKR3xwUCXv4ivxUcaGVmdGlnQGFyY2hsaW51eC5vcmcACgkQO5SoDlCkd8fYnAD/R/kZXjM2sqZm/KhvsJ0CaOVKs+fiqbQieWyBhpMqMWoA/2WD8MCXapXeYJD1V/7SNsX9aP/DRi/Cp56dfd8RXiEE",
+  "URL": "https://wiki.gnome.org/Projects/GLib",
+  "LICENSE": "LGPL2.1",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1593712696",
+  "PACKAGER": "Jan Alexander Steffens (heftig) <heftig@archlinux.org>",
+  "PROVIDES": [
+    "libgio-2.0.so=0-32",
+    "libglib-2.0.so=0-32",
+    "libgmodule-2.0.so=0-32",
+    "libgobject-2.0.so=0-32",
+    "libgthread-2.0.so=0-32"
+  ],
+  "DEPENDS": [
+    "lib32-pcre",
+    "lib32-libffi",
+    "lib32-util-linux",
+    "lib32-zlib",
+    "glib2",
+    "libmount.so=1-32"
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "FILENAME": "toxic-0.8.3-3-x86_64.pkg.tar.zst",
+  "NAME": "toxic",
+  "BASE": "toxic",
+  "VERSION": "0.8.3-3",
+  "DESC": "CLI Tox client",
+  "CSIZE": "1043504",
+  "ISIZE": "1984725",
+  "MD5SUM": "840f9a034d3ffefe380a37da1490fb09",
+  "SHA256SUM": "b692b04b0791e1dc5e5fc4f351247f93f8e455808f1e6e3262065df313750752",
+  "PGPSIG": "iQFIBAABCAAyFiEESx3lRagB1FSb/T/vkMs9YsE9R5YFAl61H9MUHGZhcnNlZXJmY0BnbWFpbC5jb20ACgkQkMs9YsE9R5a7QAf/TLmwR4TFbkR/Ny5ZQE91YH0ioMdEXkzrMn+aFwW+3u6+IaI740oP/e3RViNrdLgXBxtat1vqtCCFDqzKigzTHPXGodpkLx29Eaw0ci9MazPtCYGcJeCoNzsCJczOX4b8avFm+w4oTgamYdySuxqeylP68hy3xvJadOIJjr3Z1XuVeatTL0z1mu325hL+2dlpqmF1hCGqLz0sE52ZPRrXXS7exTajiWhNri/cTKaMuAzvPTzEYWeKaC4MRcoprneaoKwFv5qXqtC5Tvh0Zgx6K5g4LRuk9O33UEFHCq60KAmsBDrkDXEmPOrbk/6k8prOdWAIX5ZHsRDNRmzLElVQZA==",
+  "URL": "https://github.com/JFreegman/toxic",
+  "LICENSE": "GPL3",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1588927482",
+  "PACKAGER": "Jiachen YANG <farseerfc@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "curl",
+    "desktop-file-utils",
+    "freealut",
+    "libnotify",
+    "qrencode",
+    "toxcore"
+  ]
+}

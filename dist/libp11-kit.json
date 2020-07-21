@@ -1,0 +1,25 @@
+{
+  "FILENAME": "libp11-kit-0.23.20-5-x86_64.pkg.tar.zst",
+  "NAME": "libp11-kit",
+  "BASE": "p11-kit",
+  "VERSION": "0.23.20-5",
+  "DESC": "Loads and enumerates PKCS#11 modules (library)",
+  "CSIZE": "483619",
+  "ISIZE": "2784532",
+  "MD5SUM": "f67dbc4db9b721e87f9fcf4f1b0d134b",
+  "SHA256SUM": "c8b450fedce625001c819f02da14dc573a79a3cf6a22bddb0b2735bef135ba4b",
+  "PGPSIG": "iQEzBAABCAAdFiEEghj4iEmqxSLpTPRwpekojE+kFfoFAl6tZtEACgkQpekojE+kFfpGtggAiJTxD7mQFa8wI84GZUIQrGtlccPKY/kj+tdwPqCGk/3KW1Vc11o7WlcQ5hytbBnQiLQ3bzqeSZIeQ5Rqsyv6FoQQk3I4jltBhvcW08pxh1yuVVANi10U9Rn+mV3qxS7sJrYL017mvou17aVwVu1DFgMzvQVy+H3j6z4v8MPQXphG8svEoXT9RM4o+WXcF55KF+rsAufzJV17p1tE4Tio2pX9KnfC8dDsS4dRojoHERKA29tM9AjNJXbfRr+xhzVbw6EJTp71w+xHp35KfdsO5UDHOkJiwYbDZwFsxxNNJKliOLFjiz7/OD7aA1KrdAxVT5mSbeuEk0XcLF3Up4Xxfg==",
+  "URL": "https://p11-glue.freedesktop.org",
+  "LICENSE": "BSD",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1588422038",
+  "PACKAGER": "Jan Alexander Steffens (heftig) <jan.steffens@gmail.com>",
+  "PROVIDES": [
+    "libp11-kit.so=0-64"
+  ],
+  "DEPENDS": [
+    "glibc",
+    "libtasn1",
+    "libffi"
+  ]
+}

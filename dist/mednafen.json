@@ -1,0 +1,26 @@
+{
+  "FILENAME": "mednafen-1.24.3-1-x86_64.pkg.tar.zst",
+  "NAME": "mednafen",
+  "BASE": "mednafen",
+  "VERSION": "1.24.3-1",
+  "DESC": "Command-line multi-system gaming emulator",
+  "CSIZE": "4717150",
+  "ISIZE": "21309181",
+  "MD5SUM": "7c34b1270639cc85b22695a0cfea3e77",
+  "SHA256SUM": "3df0a8df1f8d6f43879f9214777325cce603d9be4996813733d2cefa216ad75a",
+  "PGPSIG": "iQEzBAABCAAdFiEEh0L3U157OUobBIFjMyycQPQNIHIFAl6x3/EACgkQMyycQPQNIHIy7gf6Azj03iGpPELp3IejTTZ4vQ7vvZ8BwDP5ASHKDRsXTv3AvTgZ57MODphMZ8m6Fhob+4K3knakoVKrHfUh60Jfb8RNhfTENkFt+eyxZ6+YCJ9gkSgCU8I1sbZukDdDGXicV77U3xaJPlQWiPfnv7Qg9e2mk8tD2w1gAUG/7W5Md/yBU4CpNtVfC7bzGufXAbs/AbIFZNRZbfr7jCq7lkVpJAO7BPZNvDfGwP3TavyXY1YOae2v0ingAyLRsq/Gb7UoEN2JVdcOB4uOy+Ah9eMnCfVPJZSoByyu5fc1dB4n5WTFN0aCfi5s9WA5qoOsItyxaZb9ULv8TeDhGzYhC66OEg==",
+  "URL": "https://mednafen.github.io",
+  "LICENSE": "GPL2",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1588713262",
+  "PACKAGER": "Jonathan Steel <jsteel@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "libsndfile",
+    "sdl2",
+    "zlib",
+    "alsa-lib"
+  ]
+}

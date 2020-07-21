@@ -1,0 +1,23 @@
+{
+  "FILENAME": "python-ldap3-2.7-2-any.pkg.tar.zst",
+  "NAME": "python-ldap3",
+  "BASE": "python-ldap3",
+  "VERSION": "2.7-2",
+  "DESC": "A strictly RFC 4510 conforming LDAP V3 pure Python client library",
+  "CSIZE": "439818",
+  "ISIZE": "5671927",
+  "MD5SUM": "16f1f2f314c69913a5a14378ff0c8bbe",
+  "SHA256SUM": "ff10d4c1625289211946b31f439f67ee2ae61650546684dba8c1227139aec4f0",
+  "PGPSIG": "iQEzBAABCAAdFiEEzgvecadZqH8j8PfYth284QkBwWMFAl5vzQIACgkQth284QkBwWPvzQf/WsYX8Q8TStDTR3uFVNh4Is28anDi78CMFtYE4dqjPcZVhW50hIg6ix+5B1YCypfoXA7N1sq6nLQkOGZIdJ73E4UOVvx26hfnGM79G+Jv4qBJbtHdJhl3/l25zv2NmTJJMazhObIPUNl4N0AKmHbu9RR4zueyBa4y0LiQqADtTkWEcWLf/U9odUNzCkCc00JVuR3Ws+Z0YcI0HLY1j18IQ8gDysMd1NDX4GG9os601XmEpNwGQFEvTl3HZWfoQk5v8rtbFjzlF2uvzDggxm3c6JqfOinRQlskJwVTVjI7jb9QFjyldpx6eN43618RJOGq5HP6byNx5B3ZEyYpd83Tiw==",
+  "URL": "https://github.com/cannatag/ldap3",
+  "LICENSE": "LGPL",
+  "ARCH": "any",
+  "BUILDDATE": "1584385219",
+  "PACKAGER": "Balló György <ballogyor+arch@gmail.com>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "python-pyasn1"
+  ]
+}

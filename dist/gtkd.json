@@ -1,0 +1,24 @@
+{
+  "FILENAME": "gtkd-3.9.0-8-x86_64.pkg.tar.zst",
+  "NAME": "gtkd",
+  "BASE": "gtkd",
+  "VERSION": "3.9.0-8",
+  "DESC": "D bindings for GTK+ and related libraries.",
+  "CSIZE": "4872234",
+  "ISIZE": "33652016",
+  "MD5SUM": "b316ef7f1b1a0c0893d6177bbe3c0a04",
+  "SHA256SUM": "6ccb64c6179f1564ff0ff5edc4c8236b2e2c423ca297ae294866a8d74959e56f",
+  "PGPSIG": "iQIzBAABCgAdFiEEhsATU8sh1GdlMu4OnwqcF7B4bxkFAl79AL0ACgkQnwqcF7B4bxms5BAAsXn7O9nv2E9MVk1LgiJZf2aotlUHTIcvXZ62BM/kFd01LsIMX0fI5ozTgAv9JEJsJ9fEYKBSgXHS7058C5tfu0xjQjKDJF+pdWvwazgiDUcf0bQUXdI2Hy4829AIGukH60QescO0o2sFufRI4H7u9CtzgoHviah+RY6UtkIi0s7jfRyQim/KmULGVHtjmm8d5P7voi+FLx8CUN/8HLlSis7sAnRIdNGe2eunrbkQdbmhZRoEq9z8HtZ99f+447OZBRTo0Ma2cELJ0A2zJE6oSjtbHGzfjD9C14cnjFY8ynCD6VcrL6hHVIEI2e4mt/2Y7YxBsoYmOIPwTTVVmR9yTRMVhF32wnOWittSl8OcTUepNPI5OMo+ITeZFxDdZRNn91FKKQ35pCeMP2NENs45eW5GST/vuN/e5loFyUFm8O1f+sjL3pckSGIDp9wuI9KoDLc/onh8kj1XQjw7/1kPqqJ2ZOhaJrwckwQqC18rXpYTOookwgFv/KbOo1ntQ21R+YaI2ZfbBa/qO6baxo4hGDWdrwRLkcedwbukyS2K1tHbfzu4IzD7oeimR79f33k9roVct53H63S78nL6jYFBLvokh2R961OoGjeLMLOtgf8ubcnrbgrlOJLoUy+2TJn/iEDm1b75pfeVURtXIMq2x1HP/jkVrM5DZam4j0xo41A=",
+  "URL": "https://gtkd.org",
+  "LICENSE": "LGPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1593629748",
+  "PACKAGER": "Dan Printzell <arch@vild.io>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "liblphobos",
+    "gtk3"
+  ]
+}

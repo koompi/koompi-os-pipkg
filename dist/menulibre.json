@@ -1,0 +1,31 @@
+{
+  "FILENAME": "menulibre-2.2.1-1-any.pkg.tar.xz",
+  "NAME": "menulibre",
+  "BASE": "menulibre",
+  "VERSION": "2.2.1-1",
+  "DESC": "An advanced menu editor that provides modern features in a clean, easy-to-use interface",
+  "CSIZE": "221072",
+  "ISIZE": "2116608",
+  "MD5SUM": "73fa4c54829228edeccf6a21f0911ccf",
+  "SHA256SUM": "03c515e8da56faa288a24f15a0d290a91f165bfa619d2300a80a62f89317017e",
+  "PGPSIG": "",
+  "URL": "https://launchpad.net/menulibre",
+  "LICENSE": "GPL3",
+  "ARCH": "any",
+  "BUILDDATE": "1563095358",
+  "PACKAGER": "Unknown Packager",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "gdk-pixbuf2",
+    "gnome-menus",
+    "gsettings-desktop-schemas",
+    "gtksourceview3",
+    "python",
+    "python-gobject",
+    "python-psutil",
+    "python-xdg",
+    "xdg-utils"
+  ]
+}

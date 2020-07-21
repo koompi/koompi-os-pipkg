@@ -1,0 +1,27 @@
+{
+  "FILENAME": "forge-2:1.0.4-2-x86_64.pkg.tar.zst",
+  "NAME": "forge",
+  "BASE": "forge",
+  "VERSION": "2:1.0.4-2",
+  "DESC": "High Performance Visualizations",
+  "CSIZE": "1088040",
+  "ISIZE": "4590260",
+  "MD5SUM": "bfb451cf939530ea2a1a7b31f20b3885",
+  "SHA256SUM": "3f9f9703e1ea743e27f4c0831d9beb445b30f9797f7ee76b829e42b24186333b",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl8Es3MACgkQeGxj8zDXy5LXZhAAvpGOODOOeTtyzgIfehJ4o1XEI/3zbQDyKghEh4IY8lk2MorZ7r604/54i6BnhRf7K/Affj2VSQTQKk41jYxNXk39X9S+Pu5H5j40Fv2n7oZA0QoJMr3mLE9jMlP47SSHLFbcW3syxDRymjXQGzTcpy1LhH2GSEhrAFYlOJV3irV4mY5IfqiFi3ZENJIP7667j6WJDIal/UbP/ymrurfpTzX9HmLgXvn5eDUDpFAgpbHRYWUH1Pr8O2XnKHvOtL3BTYdZDYBlOT9gCxryTcUJFR+qYsDm+SoHf3D6EZxzPNNQZcKyo1DAgPzbOBLWmE8Fq8i3Dlg+vpss8kCg5EQUbYo2VCXHjqBfElNo/HEIrvid6HyyXpp5XkbnaumimPujewE9ek6/0kAJYXjwaSZ9Zy1ojsm0k3sx0F3zb1cTZqi/tlOfVZctWQoGlUvwrq7ThtC62Xu04JLYDRWiacROgPqWvD8b2rCv8FiLKZiaNxTMa2awVm0FRcUVIndV3HtjaNfwgZ3H7yIRHhbu431xX7EVZaRo2R3GYjuAodXv09LUFRMzgGwyeSG8vRfu1IMfLBLL7Kvb9NLx1n52Ze8mBliPV94bmoYpPQDMpT3a0spopAD3MfA2caUoXxwgNUdzE+Q4w6FVmth2RhDwf7BabBQ/5c242ghDc/+RCs/lDDA=",
+  "URL": "https://github.com/arrayfire/forge",
+  "LICENSE": "BSD",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1594143457",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "glfw",
+    "freetype2",
+    "fontconfig",
+    "freeimage",
+    "glbinding"
+  ]
+}

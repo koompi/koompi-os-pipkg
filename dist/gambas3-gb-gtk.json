@@ -1,0 +1,25 @@
+{
+  "FILENAME": "gambas3-gb-gtk-3.15.0-1-x86_64.pkg.tar.zst",
+  "NAME": "gambas3-gb-gtk",
+  "BASE": "gambas3",
+  "VERSION": "3.15.0-1",
+  "DESC": "GTK+ toolkit component",
+  "CSIZE": "223329",
+  "ISIZE": "734131",
+  "MD5SUM": "f91a34b7c4782db62f393fc218b64879",
+  "SHA256SUM": "f15c4385b9eade2ccc22882e176799cc53fa60cafcb4a709edd12cdccde68ce1",
+  "PGPSIG": "iQEzBAABCAAdFiEEU1+MAzlFDwVKTSgnBglqatHO3awFAl8C7RYACgkQBglqatHO3ayyngf/Ulm/yVrP1nhAkzSAyf0kUcbVmz79ALuOSmEgt8aiH4vKHVVEcAnHxFBpY2lXhJk4Jm6YUD5UmphgH+WV0Kb0N+7+MmFTxJ2Dd4mF+KnjzcmlE0eczrS5KrlCgcmdMONX38/I+dS5pmpOnNwc6BuvBVPvslqk5AJu9iCxKwpRtIK0tYGA7pja0OXLa3KAr2XMOxYvInlIsvwYgz+WWatuYUgwtHpqxG14efWekrVpDWvzPvHv7nStP6wvI7gCiOe9SW86MPzPVcDj+qOPpNTpOiffGZaUVR8HyHuOc3LBqZGNWnLJjaaVAfV7PMgiB/y7vn7c1lefguACTQ1qzSGanA==",
+  "URL": "http://gambas.sourceforge.net/",
+  "LICENSE": "GPL2",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1594026389",
+  "PACKAGER": "Laurent Carlier <lordheavym@gmail.com>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "gambas3-gb-image",
+    "gtk2",
+    "librsvg"
+  ]
+}

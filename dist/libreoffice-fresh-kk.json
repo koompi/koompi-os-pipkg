@@ -1,0 +1,23 @@
+{
+  "FILENAME": "libreoffice-fresh-kk-6.4.5-1-any.pkg.tar.zst",
+  "NAME": "libreoffice-fresh-kk",
+  "BASE": "libreoffice-fresh-i18n",
+  "VERSION": "6.4.5-1",
+  "DESC": "Kazakh language pack for LibreOffice Fresh",
+  "CSIZE": "648467",
+  "ISIZE": "3265181",
+  "MD5SUM": "ae8f54da5bc0fbfb9cec051125f7d252",
+  "SHA256SUM": "3355d1e7f6b953c539c3d84e24afe2526f556ffe520324d4853e079c9b5692ab",
+  "PGPSIG": "iQEzBAABCAAdFiEErcih/MFeAdRTEEGelGV6sg8qCSsFAl7+FxcACgkQlGV6sg8qCSt70wgAi6e4BYHkib5PTjXv65xSin1F/26ZKTX1ul3oiuX8TjLlKRmSptxbTL41FxCqTiPjwBtKFBVY6yD26yPQSMXZtUNRjP+iwNltzQxkReIHLv9K4bRsofvbZiFf/PC5yRiWXbMIvm85Kv1XAKU4dP8BrpxyM4lP7iezoxWkfbGESlFH/jFtOk+SrSbGIljNNFGIUzlWxlV8WoSYd4Oe5LL3e+3k7JbjQnekFN4764Ju67wis4CNY8yOzTtDJYfjlczVmPgQOluTRkY7v38bRwBxngfbJTrRMin+hJcSNJEBcaxHyjxoENPQs06bIerrIs5iTISR26jLggcoLo5zLlWFeQ==",
+  "URL": "https://www.documentfoundation.org",
+  "LICENSE": "LGPL",
+  "ARCH": "any",
+  "BUILDDATE": "1593700315",
+  "PACKAGER": "Andreas Radke <andyrtr@archlinux.org>",
+  "PROVIDES": [
+    "libreoffice-kk"
+  ],
+  "DEPENDS": [
+    "libreoffice-fresh"
+  ]
+}

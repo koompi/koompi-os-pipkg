@@ -1,0 +1,24 @@
+{
+  "FILENAME": "python-pysmi-0.3.4-4-any.pkg.tar.zst",
+  "NAME": "python-pysmi",
+  "BASE": "python-pysmi",
+  "VERSION": "0.3.4-4",
+  "DESC": "SNMP/SMI MIB parsing and conversion library designed to turn ASN.1 MIBs into various formats",
+  "CSIZE": "155373",
+  "ISIZE": "838418",
+  "MD5SUM": "b792e559f8ea1abfd0592c5e74b032ea",
+  "SHA256SUM": "a94fb7b33d647404a582a11fa1b5b48c59a6f7ca196a381bc6e4894f92335495",
+  "PGPSIG": "iQEzBAABCAAdFiEEFRnVq6Zb9vwrc8dWek52CV2KUuQFAl4TJkUACgkQek52CV2KUuRFCwgAh2PfjahSlDj15SkXoNGz9Cf/tLCrHitxbFfXi0oFnBW2b2ox2YHKgt2MXLXAgwjATS+Rj5dJe7Qjz3bzyec0qC0sXgGtYqUNALTZk1pGIIDN0z+ohlXVqP5dgjtaQcmOPHwJq7mcYkykBW0xHuc38sG1K5kxKu5WTFOGp4CgiTiv2oPkLRP3xN2yWngNor/23oDQmUzXko/SfN0n7XBKf529lPu9AcSzr0jydl/6fNYQDRVAFnRA+audW0skJ5wsDpYDZlBS4RmiFX0Clm0lVSdrsijPOAf1TAhBjtI0kzo2fCkIPN66JZWuwGhYfqoNi3fBoYlLESblRsBy9e+ULw==",
+  "URL": "http://snmplabs.com/pysmi/",
+  "LICENSE": "BSD",
+  "ARCH": "any",
+  "BUILDDATE": "1578313231",
+  "PACKAGER": "Antonio Rojas <arojas@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "python",
+    "python-ply"
+  ]
+}

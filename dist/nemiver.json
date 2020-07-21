@@ -1,0 +1,29 @@
+{
+  "FILENAME": "nemiver-0.9.6-8-x86_64.pkg.tar.zst",
+  "NAME": "nemiver",
+  "BASE": "nemiver",
+  "VERSION": "0.9.6-8",
+  "DESC": "C/C++ debugger for GNOME",
+  "CSIZE": "3581471",
+  "ISIZE": "9710439",
+  "MD5SUM": "5250936393c4c3edda0dc9d663c00c13",
+  "SHA256SUM": "e49b4861595bbcc866eaf6dc062aaabcd458749b3244ffbc8a95028b19e12266",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl8EfMAACgkQeGxj8zDXy5IsqA//Sg4uZuJrycpCj7AQyGU9JK0IkzuG3YOgB/b52cbeBvYtziKqg3dGSzi/eEZwDGlWaMubjhm5plQ0AXIqtyAHrqkw+d1uPWqFzpYxvmqa3IhsC4QyDZ0bFdQNzOZZ9Um9vQPBcX2x4UUIMhMYkaBe9IQrC4AZ9xJ1+tvtHFiV2bnO6bOQNLb+J7sxTnF2yEuJtLZH0ff4vujuSVnnmVpwfJGzkU40wvtj2svDKyBFLlElrOhZzexggl234UqcidPS8yy2ab8CtA+nE8fMRTZzfhwzRDzzRK5Og1yV/pM7+LDgV0XT6J0RzGn7g1ffZRcxwqTTSMoeqH/wSYuRCXuJgnQN1Gha1DStJG+li8WNTHoyQ4k/rhwXDYVqe8kiw2UjftdPtlFTjUqjdfOsoAPxFbN+51eUbe+kNxTXfwweSjCV+AsFuvmt9zPsobfdhDbHyTRDmcmYwYtZREb3L8IwBP4BoWgnPgXnRJtoO0oKLHSy+0Djaofg6RIBHEOvMPDKA0WRNoi0vGAsDt3XrkMeE5NKuwAYmgHz/TPoM9MWDQ1CWmEYLPZptIVRV1TBhS0AMb7MDhGFkYn90AVjKaDWHYW/97qEI3wa/VV5cLHsu3RnNN6fLBkvJuA8Ipr8D5AHRtvbpvuomeHfJLeTFyMzR7fPG4G7tVPZn50TtK23Q5g=",
+  "URL": "https://projects.gnome.org/nemiver/",
+  "LICENSE": "GPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1594129395",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "gdlmm",
+    "gdb",
+    "gtksourceviewmm",
+    "libgtop",
+    "vte3",
+    "ghex",
+    "gsettings-desktop-schemas"
+  ]
+}

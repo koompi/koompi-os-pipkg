@@ -1,0 +1,23 @@
+{
+  "FILENAME": "python-django-rest-framework-3.11.0-3-any.pkg.tar.zst",
+  "NAME": "python-django-rest-framework",
+  "BASE": "python-django-rest-framework",
+  "VERSION": "3.11.0-3",
+  "DESC": "A powerful and flexible toolkit for building Web APIs.",
+  "CSIZE": "875733",
+  "ISIZE": "3349830",
+  "MD5SUM": "4fd71e23cda4d8ee5cbc3a356d89c0cb",
+  "SHA256SUM": "71dd4ae756a1e22b62a7a5fd89caea8ce102647c14b159e95a375300a79c4af6",
+  "PGPSIG": "iHUEABYIAB0WIQTH54SUZv4jWDQ1iDdyWHNLQcMVSQUCXmzfuwAKCRByWHNLQcMVScJcAQD+tQSwbcT8P48PfC8MCXo3ZIeoBWTqfqXYevO2twIt4wEAvXoR4PKYdZNvDkRv+CxjogU07A9gUXQrPLD5Rn0vJQA=",
+  "URL": "https://www.django-rest-framework.org/",
+  "LICENSE": "BSD",
+  "ARCH": "any",
+  "BUILDDATE": "1584193419",
+  "PACKAGER": "David Runge <dvzrv@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "python-django"
+  ]
+}

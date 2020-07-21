@@ -1,0 +1,24 @@
+{
+  "FILENAME": "lib32-clang-10.0.0-1-x86_64.pkg.tar.zst",
+  "NAME": "lib32-clang",
+  "BASE": "lib32-clang",
+  "VERSION": "10.0.0-1",
+  "DESC": "C language family frontend for LLVM (32-bit)",
+  "CSIZE": "23305918",
+  "ISIZE": "97635458",
+  "MD5SUM": "d29f225306b5b6a15fd0c4c8ff723a30",
+  "SHA256SUM": "242f08ddfdcfb94b0498ee53d677c3e4bb1da17ff22a634c3b2df18f1b29cdc9",
+  "PGPSIG": "iQEzBAABCAAdFiEEhs/8qRjPOvRxR1iAUeixSKmZnDQFAl6T7a8ACgkQUeixSKmZnDRSowf/Vh0OXI9bkIbcddsdr+Bro3cIh50Js2wk1DGlELqsjo2F9EvcZTEWr6WhS1DLS2HdqX318lI+9tZu6PW1XM0hB5IHLMuRRzxM6fpBNIOp2fNf72D9rJ/zedkzLlMIqUdAdaByxRUgTcnP8myrCRffKvlITd3mW7A1GgNZPLGqjKlEG0dzbDeZ1YX6dEB6bIxfKqZYC1LDxi6iKaYqz+UyBiDu8dRCj07GHbknjPJ/WVgUEjhs/XBgHukrmKxWAaFV5HGrpxiL577LI93nFDa4xqcrRXg3zZcvZVdHuspvdFBSagluSQwSbZZflLwy8+pD0c2afdND0M18gO9NfDeBhQ==",
+  "URL": "https://clang.llvm.org/",
+  "LICENSE": "custom:University of Illinois/NCSA Open Source License",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1586752431",
+  "PACKAGER": "Evangelos Foutras <evangelos@foutrelis.com>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "lib32-llvm-libs",
+    "gcc-multilib"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "FILENAME": "rtosc-0.2.0-2-x86_64.pkg.tar.zst",
+  "NAME": "rtosc",
+  "BASE": "rtosc",
+  "VERSION": "0.2.0-2",
+  "DESC": "Realtime safe OSC Messaging",
+  "CSIZE": "292341",
+  "ISIZE": "2189861",
+  "MD5SUM": "6458d646fdce5e20f1813e24d64e3a0e",
+  "SHA256SUM": "db4552e616727f13d1aa837672f470ba5984beeab7c126f58c5f549519f6acc6",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl8EbcgACgkQeGxj8zDXy5JKyA/9Gz4OPEO1+yahd0B8apeuAem2zRDKWXwZ8uGa0qabgd91hRueYES9W8Qsma6tJKD65upK4Y9rtTFjvB6gPI32RLAbsV09M0WbjYvoyQk0iNPOusaOapBi6Al/eQk35pQGv8PoOxrWn5Zl+U5MTzKWv+Hj8Z+yjHFFd1jU/WssJjVxDMUZ2ooxsvzGKD31gf+OD0zi0QRy7B81PJnRdVvZlOCJ8pOFAWfnpkq92IolMDg/VFm41a4duGtsmiSnlrClulZlrCF5LbpRPWhqVIe8yfQ9ikDJRoQY2tYt+tOLNvGW/u+oshtf0/GM5gfZ+I4kD8YfKdA0Fra8u2ASNTHs7GC/5ZzuF5pfmEHfyxdswtpp/yaAOQ6QvMOefa7HhKfwuD8Rz0nI9uVIlfrbvl3lTSizMAZwavkrFuU2cxUhqReD7NDUIVaJUn/ryATiVOIIC3DJ2ihcdXRUZXSpp3kfHljTxAx/VQaWovbH2sLGbIMdo4q0cH9OJ8/3DAqRR/le3u6gNhEQnXORld6TmGnfZMhKqa9VyLMvnbczkW/bh9NFzsG6hZmtTOl/fXpAEi156FWuqO52S2XIVX3Rb9ens+i8eUlXYy1YCDmsftT7sXmomOjhJFqv8UkcjIgnV3djL0kay7SAcDu/DpmKavrjIttL+bxjFCAQRwRF4tBaa3Q=",
+  "URL": "https://github.com/fundamental/rtosc",
+  "LICENSE": "MIT",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1594125693",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "gcc-libs"
+  ]
+}

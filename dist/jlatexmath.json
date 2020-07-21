@@ -1,0 +1,23 @@
+{
+  "FILENAME": "jlatexmath-1.0.7-1-any.pkg.tar.xz",
+  "NAME": "jlatexmath",
+  "BASE": "jlatexmath",
+  "VERSION": "1.0.7-1",
+  "DESC": "Java API to display mathematical formulas written in LaTeX",
+  "CSIZE": "632268",
+  "ISIZE": "672384",
+  "MD5SUM": "51f8c5c90965e47c2e238480c211c9e2",
+  "SHA256SUM": "0a89385053a7784083707b83f6b87d02f34375a34b406e2a86026b041ad8c333",
+  "PGPSIG": "iQFIBAABCAAyFiEESx3lRagB1FSb/T/vkMs9YsE9R5YFAl3x7oIUHGZhcnNlZXJmY0BnbWFpbC5jb20ACgkQkMs9YsE9R5atXAf/a2plg7+Z1xt/42g+CQwDnWX3SVS7buPQHIlrvRrqQ5iJmEOuixidw47gHvST+VBkDoBYG+4X1EKHqm6bHr5GxUYmNy3KM/CJp1/57f7zZaXkBxgPTubjdFkxIxWA24SckQDuvy9yH5cgW41l1/tZz1ZCj4XnSBevezaM8UWeOBUmrN56ca+DdUuiZsqqjEo5jOuW+9zQkSuJ8ZnhQA+JY5VlBF3fWSywc/ZJLC0mPyMCJH0dkJ1R2HbUsb6rK126V2AQT4xJtL8jmDIJ7Ld8lplz+n1BtZIoJxv/d7MGC/j/DMWS4BD6TxKeOmStH/5zVBpGxxgttEUXOm7IY4ehWg==",
+  "URL": "https://github.com/opencollab/jlatexmath",
+  "LICENSE": "custom:GPL2",
+  "ARCH": "any",
+  "BUILDDATE": "1576136269",
+  "PACKAGER": "Jiachen YANG <farseerfc@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "java-runtime"
+  ]
+}

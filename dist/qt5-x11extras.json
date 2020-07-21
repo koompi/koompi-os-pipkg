@@ -1,0 +1,23 @@
+{
+  "FILENAME": "qt5-x11extras-5.15.0-1-x86_64.pkg.tar.zst",
+  "NAME": "qt5-x11extras",
+  "BASE": "qt5-x11extras",
+  "VERSION": "5.15.0-1",
+  "DESC": "Provides platform-specific APIs for X11",
+  "CSIZE": "14830",
+  "ISIZE": "41616",
+  "MD5SUM": "d4c24e0a6bf13a15345c8a27fed4109a",
+  "SHA256SUM": "3b1ece03fbf5a98ac9e7ec6cbfc1796f489205dff51b9e6d9dbea9805245b70b",
+  "PGPSIG": "iQEzBAABCAAdFiEEFRnVq6Zb9vwrc8dWek52CV2KUuQFAl7M14QACgkQek52CV2KUuSd9AgAg9saRCYKsHsWuzmTX+oAf7TplCCPlzW4K4VdUdFth1PffJTN6wvVCXhAga/bHVbRfjY0tNm8EfEyrUuz9zhoH3R1QlGnQIR9/n1tK+xfKP/GKCMTWbMI9NrHcmmXbvRcqIp5/4FqviE4AXU4o3K84jurlRCph54uQKZOmO/THwjZ+ezeRAkSZJ/vwcqhSj7KUGk72o9d/EhI2YM5bT1sq4jZcTvI+o/YmehUAIFM1gNwUFG3jT65Zl3yK9hS6xFV8wvAsOerttublPJrowvaoaw809Rl9WJxye8f4HlCyGzLQJMo8P2J3YGoz4VJveJwMmN2V/oH19HzKYMsDwo/vg==",
+  "URL": "https://www.qt.io",
+  "LICENSE": "GPL3",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1590482210",
+  "PACKAGER": "Antonio Rojas <arojas@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "qt5-base"
+  ]
+}

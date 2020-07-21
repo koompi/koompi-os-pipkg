@@ -1,0 +1,24 @@
+{
+  "FILENAME": "openzwave-1.6-3-x86_64.pkg.tar.zst",
+  "NAME": "openzwave",
+  "BASE": "openzwave",
+  "VERSION": "1.6-3",
+  "DESC": "A C++ library to control Z-Wave Networks via a USB Z-Wave Controller",
+  "CSIZE": "5764646",
+  "ISIZE": "28990191",
+  "MD5SUM": "1a287362b215f9014cfbdde3a99c6de5",
+  "SHA256SUM": "afbc7efc8366e84dd0d550c253d6fd92937e79e4e3b4ea8dd0a9781ed1342289",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl8EnMEACgkQeGxj8zDXy5JZbg/+MeOoy/1Ma9Pn9VIKnokOASNlTjuP8oox8q8q3mVJTdT7XV/k45eyNMYH4g7iT0160xr1MKeMucSMbDGAisQjhN4VT33zRJICiiZQgBM/vF/GPtefk+4IwQmXvyNSoCgHGbc00yEXdxgm5ZL9rBEhIGXi5TOtbP8EYOB2jBr0xFqWYFoMCagVZJSJ+JH9g8mHX3DAi3ilotwLjVgjNb+xHZ3jDEmdGGXS74dux6RXIWXfDMFnO7YiJE13Le9U/zQjvbbDMkjosbL9ogmEPxEm0A5mrud370KwItEZm/jUeetwHwYHjpiYJQ4UFRKhIKdyLu4BJfQyLq3idnWPWercS09P9SN5I76ATr6WL1QShw5aYvgMnhisT6cC6DEebuh35dyBcHm9b90bDZE24Qu6KYLLXI4qLGuqppKpSc3a8u4OWW0UWBMyNCWI3Hm1VtbIsF3dDGk7MO5HxNKTnJ1lwX0emNfpoLQhC8FnrUFBeQzTco5gHIy8vjlwvqL4SfuDc4JWABMIxZI/1acls+XPz9t4QJNyTwT0ktS5mGDshqjnzE6t+1wzhhjmza9ROm1556ZAUlLUiMjADCGC0DQyXienLf7RHu3CgxzC0QTY3RNrxkfuDpQCgJxIA1XxfUbwUN6nkM5wPXkhj0Kp+Ut5c0lob9oH7QjtJMJGNoXEeKM=",
+  "URL": "http://www.openzwave.net",
+  "LICENSE": "LGPL3",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1594137683",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "hidapi",
+    "tinyxml"
+  ]
+}

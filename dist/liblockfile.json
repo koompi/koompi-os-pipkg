@@ -1,0 +1,23 @@
+{
+  "FILENAME": "liblockfile-1.16_1.1-1-x86_64.pkg.tar.zst",
+  "NAME": "liblockfile",
+  "BASE": "liblockfile",
+  "VERSION": "1.16_1.1-1",
+  "DESC": "a library with NFS-safe locking functions",
+  "CSIZE": "17757",
+  "ISIZE": "45008",
+  "MD5SUM": "0f5fcbdef2ee81850c4de3d5e9c746d3",
+  "SHA256SUM": "1c839b9204d16d38e628f64895bbbab27891e831dedac9757378abd06354e6c0",
+  "PGPSIG": "iQJGBAABCAAwFiEEPlGL8lJv0Zeeiq5JZcEQwepDP8cFAl5oyDYSHGFyY2hAc2VyZ2VqLnBwLnJ1AAoJEGXBEMHqQz/HWakP/0Z2N1CnD1cix7akwQvL51SbnqncWejjCBp+xtVZP/nSBYY7C18kVJKMp8bdCiUxx9AlTEynsPtkKePTWLHCR3LIlMuQp4/ApFbBolkJqjXpW1UCQaC80mEs57LBWXo56Su4Fyw9lJ3lcN4AsLmkwGAB4TEBgAO53h7CZhC7Cema6jliUnLtkBPQldxoXsawtbc07uZceLY1/PGXe19We6y5VVS9kDC1ZCGQ6rA5SsRbVvZ8L4pFQPMF5fBWHmQ8wf+r3YZz+BW+mhXMP9lBAeFJZyI0IK/Fq2WJPxihR1094eH8cpeI/KUr/k6Hwd+Yu7Z0qIdofQlLV9Ns0ZMqHXpGXOLJrFU+LOz/0hWV6V6S01EY1+TRYgToA0mTfhxwim6zpGZT1iDIFYwL+nQIOI3dd5AiVmkIWCV7TNVpBnVBx/cNISGOsWUulFHG7Oww3I6PygrIcM4lAyeoSr1lLwPap4IE2RcxmCLT3trui5fFolxMNVSsj1x3ur3dM/jT5ZKy5NtGp1npPMvqO+2IsIgP5GPJGDMfkLFaxXgggUJZJCRNB66uCiyp2lK65u9DCXqFYywvlJeVjDgDMAY0BQ3rIUF/CyDoC55cqQf0Lt9CN47vBonNhHE7Hyr8SjCQMZDZ3RPrijTAFEqARpJSS8SkNV8B57Op7/DjDmvegDoK",
+  "URL": "https://packages.debian.org/unstable/libs/liblockfile1",
+  "LICENSE": "GPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1583925190",
+  "PACKAGER": "Sergej Pupykin <pupykin.s+arch@gmail.com>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "glibc"
+  ]
+}

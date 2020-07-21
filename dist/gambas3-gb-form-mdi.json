@@ -1,0 +1,23 @@
+{
+  "FILENAME": "gambas3-gb-form-mdi-3.15.0-1-x86_64.pkg.tar.zst",
+  "NAME": "gambas3-gb-form-mdi",
+  "BASE": "gambas3",
+  "VERSION": "3.15.0-1",
+  "DESC": "Form MDI component",
+  "CSIZE": "54002",
+  "ISIZE": "161586",
+  "MD5SUM": "6c95c6e5e76b5988a8609c9ee33e20f6",
+  "SHA256SUM": "f689a432e80190d2b9f616ba571ce47810b33f3b38a7c2966574963de4e53adf",
+  "PGPSIG": "iQEzBAABCAAdFiEEU1+MAzlFDwVKTSgnBglqatHO3awFAl8C7RUACgkQBglqatHO3axdxQgAvXL2p5CtANBtOeSrU+J2wmY52MWm6FdRIjeHNAGMly0zmh4EgqlzrOM2xWUFu99HAp/l9OJhaq3GvgrnN2/vmOtrq6MZ44TVnL0e/M8clbRkeTD/ibEnoSn+BkpRw1GqX45B3Yvo66eO+ihwgApujJQ0QWh6HTOPzWDNEOJyv0ZLzYL8G+O2REYcEbo9XofwKzxeWVy5Cjp4M4kmw/MPxCMZGWO+BhSpkH6EbMSn47Y4cCv+dv5ywRSXlruDt7+BmeLw0ijEFGWrPuLERU7OrQrVLAZeWKA/sRkcAqV0TqZAauqtayZHVRLpVs3wp0+WJLpdhJTGR6sm/w0QmnuAiw==",
+  "URL": "http://gambas.sourceforge.net/",
+  "LICENSE": "GPL2",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1594026389",
+  "PACKAGER": "Laurent Carlier <lordheavym@gmail.com>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "gambas3-gb-form"
+  ]
+}

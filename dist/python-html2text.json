@@ -1,0 +1,23 @@
+{
+  "FILENAME": "python-html2text-2019.8.11-4-any.pkg.tar.zst",
+  "NAME": "python-html2text",
+  "BASE": "python-html2text",
+  "VERSION": "2019.8.11-4",
+  "DESC": "A HTML to markdown-structured text converter",
+  "CSIZE": "32658",
+  "ISIZE": "97129",
+  "MD5SUM": "687dd9ff9bfd9adc2bbc5ff344ee4d9f",
+  "SHA256SUM": "b19f877c7c192c9699d37186732fbe8cb49f968ce972edc2ae2137ea7a5672e2",
+  "PGPSIG": "iQIzBAABCgAdFiEEYEETBMCdNmKDQO7/zrFn77VyK9YFAl5EF00ACgkQzrFn77VyK9bpZw//d6RSKCqjYBVy6ZiUbrwEnmaRqpkefMyohaowdozbCf/AVepnED8954imkKAdoRNLrl3YzSi02hzE1P13w20PL6geeOgn5DSQxcpmxbgZUW0nI/ftpeRARRlMbP1fX6uHG73IwC41kyyF4SkZXhhvR6aBPya46AzVAdp2R7D3H1rJrWSlxJhsXa9L+YPmZlZ8TrcI3Acsd6xdakewY6Oqd85QylnaSSRVKL/FnZex7u6ceeyNck+oVtPeIJw7f9smRrgzXiRaWTijCnCokMp8el1hg2AqZ/ybtULWKeAjbx0tD0fnYq4LyzezjPMYRavXlAq7ZAtKHpMm1zvdmidAJSThLacvj44UKncvQSR/UuPa63alCzoGxk3I1M9S/nlr0TTGTk1bshfU9oUyLN1oTJM+lICbEa7CkcfZsXNylfSLWUhu0FyEPs1zw/9eyarPyDnmAHLi1nlKPaIv4SdxTH9tCix6PyqWeNfR488nKpYAa25r7akZLsg6FYxwpu/2+dGqTizsSTM8MNT+fjqiIZhpoLROfxGIbw3KRzKCKFFS/GFXRO3l5H+AKHmIaLULqlOXi0+xR/bLFV+0Kr5ParRsm9QGD7/4ZcxkSg/DlPb+hkqlU3rBdLUIkKi7xRk6bOGFOkYaSFs99vk0SBgg+MG/qw+9fkt3iNT9Lcd176A=",
+  "URL": "https://pypi.python.org/pypi/html2text/",
+  "LICENSE": "GPL3",
+  "ARCH": "any",
+  "BUILDDATE": "1581520578",
+  "PACKAGER": "Eli Schwartz <eschwartz@archlinux.org>",
+  "PROVIDES": [
+    "html2text"
+  ],
+  "DEPENDS": [
+    "python-setuptools"
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "FILENAME": "docbook5-xml-5.1-2-any.pkg.tar.zst",
+  "NAME": "docbook5-xml",
+  "BASE": "docbook5-xml",
+  "VERSION": "5.1-2",
+  "DESC": "a complete rewrite of the well-known DocBook 4 XML schema (DTD, Relax NG, W3C schema) for Docbook 5.X",
+  "CSIZE": "144166",
+  "ISIZE": "6669243",
+  "MD5SUM": "950df858bb789ffce14eda27f5aa9327",
+  "SHA256SUM": "1614ad7f52ebd488668f3c0e679a72a081e53fe758beb6d9b78ffc49d03d63a5",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl6/rfIACgkQeGxj8zDXy5JRgg//X7I+J5TXPI/qbNFL6fXbkjZPr9OSbS2yvR1Oby06Nzl7qjFX65DbkeyEi9L1thVMA76WBsW25CqAounE2cM0tWfa8OI9aQDQSYrrERmbkGuGW1VzIe2TzgdRWsObD1Rk122fFzvhfTFVSC+p0mG32sPWrF6Ly6Z6msU1HjScUH8YrpjwU0lHpuQK4Ij+9LB9Bc5wXEhrvspko6n6WsgyyDs4wILm+vgBeRpqF/hSSCv861jVAsylPcFPg+ow0PC5a3Kp4mmMipcjE1/29a21zy+7j7gOTvo3HJnuGNr+xeDhLduVhvDxm+8A2nvezwTK0X8UCeSVnEz9iMe9X2PjyjX8Od1alQlI+9J23cvdTLaZd/D5owCiGEl9/gCVykyuSiBSysl/f73UmlDS36GTHLIcZBOybsTXFGlabuEIjjm1fpgncyILYldB353F2oCmpCGP5/DZr59QH/p+VL7BqY4WuHpt3iZBfFIr6fz8IIHWRxVaD7xbGTTELpgF0VNhKqhDmSxzvyrrPxZ63LjwAPv7o4jjN1VWc/kTErYZmtnSeA/MXBRydQfBQPsXB3c5JfxqXltO3++ZeGIJglNziIP7BsGCUgExWk0HfcPXSPH0hKbWFXr5NysoEwZ5pGdOVBqk0JAMIHcAmQ0KoGirDJatqLWt0MrRHjZRaJZuRf4=",
+  "URL": "https://docbook.org/schemas/5x",
+  "LICENSE": "MIT",
+  "ARCH": "any",
+  "BUILDDATE": "1589620191",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    "docbook5-schemas",
+    "docbook-xml-5.0",
+    "docbook-xml-5.1"
+  ],
+  "DEPENDS": [
+    "libxml2"
+  ]
+}

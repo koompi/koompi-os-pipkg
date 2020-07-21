@@ -1,0 +1,23 @@
+{
+  "FILENAME": "perl-algorithm-annotate-0.10-11-any.pkg.tar.zst",
+  "NAME": "perl-algorithm-annotate",
+  "BASE": "perl-algorithm-annotate",
+  "VERSION": "0.10-11",
+  "DESC": "Perl/CPAN Module Algorithm::Annotate",
+  "CSIZE": "4876",
+  "ISIZE": "3159",
+  "MD5SUM": "6555bb90cba7f17d693747c61fa5dec3",
+  "SHA256SUM": "66a1c3c6c93d33c1e1e1038f813379914a83fab65b600bacfec329bea13382e0",
+  "PGPSIG": "iQEzBAABCAAdFiEEhs/8qRjPOvRxR1iAUeixSKmZnDQFAl7viO8ACgkQUeixSKmZnDS2/Qf+OHUijjzLpeE6kGH5N2GOtuaYsSJLba+CuRRqZ/iRUi4uK7GBQdkvMsdCv3zSlEFJDF6zNDXHRy2tryMr12KsygrZZPJ0ujftIwcmiUXE6fE6pj2C3YcrmuWNEoL5kp9a5IoT3GRdLwT3sL2J81iH4E4k4VMACDFyuKHykCf2qi5uW3XSaxV4XHSyhqhO2jkFImuUEe5D+HrsFYKoZP7QcVFXAurbYu2T1cgIxG0s4p+/OtRuoblaCeKPHpfOhYAXsyT/IMrJ/t6racnQAgX/7hNHfF4lM1+9feUqkCIP5nhZ2EORhOxhN6LkC43tsrSIVWsWAJG35nz4ADwcCYARWg==",
+  "URL": "https://search.cpan.org/dist/Algorithm-Annotate",
+  "LICENSE": "GPL",
+  "ARCH": "any",
+  "BUILDDATE": "1592756447",
+  "PACKAGER": "Evangelos Foutras <foutrelis@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "perl-algorithm-diff"
+  ]
+}

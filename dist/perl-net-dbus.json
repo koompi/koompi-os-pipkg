@@ -1,0 +1,24 @@
+{
+  "FILENAME": "perl-net-dbus-1.2.0-2-x86_64.pkg.tar.zst",
+  "NAME": "perl-net-dbus",
+  "BASE": "perl-net-dbus",
+  "VERSION": "1.2.0-2",
+  "DESC": "Binding for DBus messaging protocol",
+  "CSIZE": "178416",
+  "ISIZE": "545662",
+  "MD5SUM": "25e28a0dbf367e7ae11456785030ed0e",
+  "SHA256SUM": "92b7732c9de5359203b47801c36864b24856eb8a8c1b927daf08f2d7e1d3a491",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl7vijkACgkQeGxj8zDXy5K4fRAApklPUHuMV1RP4ZZGrZw1s0835G2pS2ELV40nkMByp3+XdjAPB6MpOTaXNOUA3zBeGuh1HW4rTGzDvJBBMsmm8ihMPt5FJjrsQve6+b3iQjbCJxlpstnnUZHTChJxQHHpVuKkjyjGDsju1Z260Xuo0i6Ai1LT7S/9egypo6PsQD2yidJzkpkHaYzmKD0KvbtwSIuVRW9P8Gvu82VvZDaoZ6EqdnzHZsyJWrVNqCIoSW5jzV8Myz54P8l4fIX7bEvtzNaQ5ASgOcQAArvwjQyl4g3ydUbAjSTqNKPvZd+aWPAXumPamde16QMwDyBwPxDh26sMDOYsFeXp+T0hOSdz3Q3Ysu8KD9gjrZ+0nntetpc+RB3m9EBq24OrSoBAIlKH8mnfya39rlbBIKrspR/23rRHANdIMXbAuCC+w2Pzxj6knKNYa69hrnVZucuwxmDlqjbVb73dE/cOQ4r6pruUNrnuf2qKLJrTbO5vQosrwVflyskIPfZGUBbEnPcnPlgzbrDP6loFS8OWBV9BwKqnluMkZRlAQMApcQV0ZSU2oHiMAVgPItqtPJRXPlNslVAASTFwhS6PRKYpL+2PfLjHf7GuCPmN+wPcaTP01mKBAUc/i/EnyelU2WUtg3jhHNAwtMf6NLZ4YNDjfjm1uR1Fu134GPu4QHrqadR+H6CtEXk=",
+  "URL": "https://search.cpan.org/dist/Net-DBus",
+  "LICENSE": "GPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1592756579",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "dbus",
+    "perl-xml-twig"
+  ]
+}

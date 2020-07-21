@@ -1,0 +1,26 @@
+{
+  "FILENAME": "libretro-beetle-pce-fast-982-1-x86_64.pkg.tar.zst",
+  "NAME": "libretro-beetle-pce-fast",
+  "BASE": "libretro-beetle-pce-fast",
+  "VERSION": "982-1",
+  "DESC": "NEC PC Engine/CD core",
+  "CSIZE": "357515",
+  "ISIZE": "789752",
+  "MD5SUM": "54a6a3ba2b917e9a57859416ba72e5e9",
+  "SHA256SUM": "13c43227c57db508dcfd9237a3d50bdb2a7234c9d3e4235e85d5c9b79bb6c5a5",
+  "PGPSIG": "iQEzBAABCAAdFiEElDfdOBWnqRaePTlGr/XZUJi8b/UFAl7/aLgACgkQr/XZUJi8b/WPpAf5AcmeHH2BAFivuo8tGDLoVOn2HOMMtmGPHjKo5bnu0DXehZjQkzUn3E4PWvIe7823IjuZ8Vf/L71OnUdSqfKaiXJkHCnXfD5V8RMUuxlkZ5BjyOyys40TScQi5ae9XC18u79dUl4Tk+7B8XZ+0yXYC1XVCk/sTSx0ynLLSMpIyKTgByJ9ovvnFibnfiVKrSEtFe1SC+k5HEuogXBkAaQ77D74hJarECVYNmvRJIYscAUJniPpkajeR7wzTo0a2dPAQNVuH+wgUEmCHQgQjAWW9NEnMGmamidSvOKmo97o+nhLzigaH9JzvnKn8QPKM8K1YIMJ9nFRyrF35jO0bLki/Q==",
+  "URL": "https://github.com/libretro/beetle-pce-fast-libretro",
+  "LICENSE": "GPL2",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1593796773",
+  "PACKAGER": "Maxime Gauduin <alucryd@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "gcc-libs",
+    "glibc",
+    "libretro-core-info",
+    "zlib"
+  ]
+}

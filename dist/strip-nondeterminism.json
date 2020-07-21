@@ -1,0 +1,26 @@
+{
+  "FILENAME": "strip-nondeterminism-1.6.3-2-any.pkg.tar.zst",
+  "NAME": "strip-nondeterminism",
+  "BASE": "strip-nondeterminism",
+  "VERSION": "1.6.3-2",
+  "DESC": "Tool for stripping bits of non-deterministic information from files",
+  "CSIZE": "20360",
+  "ISIZE": "59193",
+  "MD5SUM": "382271aa8ecd3ae824c89ff4ca93f32b",
+  "SHA256SUM": "f196b136b968ded2abe4af9c7743cd5897c485505fb1c7fc50b7485b1f6f4f11",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl7vikQACgkQeGxj8zDXy5L/Zg/+KGqDJCkh9tSbOphUFr8saIgMtOaYM9Pa0D6Ak1B+/C5g+lX6HP5Fcy1nhzUbt10KJCrPRstk2aNzwC3wgb0xtn9ntx+o0KHhSQIm6jtAvkWefzcZ2TsGvmQgkWFQDa1D40ybkUHKLtdY9wd/Ei7YC2qhLQWMm42Mz/3/qwy5mRKLBhuW7dysAPZO3yM7Soz0P963S1nK5+bkAfCgt4jzdOvuwxwUdm6WBDmZ77V8xi5XB7Xd037n8Uf7yol8tRpTfnfoNBGB4wiFiO19OuGeeNlqmL8SEq9LUnnag2wYrFDFUbWbQUIXKz5ZbDEfcQllX4Ok+b3Mp9X5WIPlD7hV775j0U1d4TH9uTpYHndKdm9Jwo5g8+aZ/WAKJThsOCoI6WfhMEFoOAJjqJGgcL6KUQfDKFpgXx/qWLRgv1ivDlB2qc7RHlWDybul6KBpFqW9WWRH8nOrPVVTkmR8ySX8gUhh2SL8ZP7yOReQZo+4+VvkEq/KdZzgpso0A6NU/rSfY0AtRkL18exqN4F8i1KY352VlZKUkk777/k17BgWojqiCfu9J9LS3w5OZWnXkLQkvXfD9J6dINhBo/shFVeeYAdwoMNBigP3pn7KFMuOgCRkF6DYzeDtGKNZ9pSw+quWUv3BORgtTzE5h+7Jh1fjy7yU2hnWfo403FS9mZrnfl8=",
+  "URL": "https://salsa.debian.org/reproducible-builds/strip-nondeterminism",
+  "LICENSE": "GPL3",
+  "ARCH": "any",
+  "BUILDDATE": "1592756724",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "perl",
+    "perl-archive-zip",
+    "perl-archive-cpio",
+    "perl-sub-override"
+  ]
+}

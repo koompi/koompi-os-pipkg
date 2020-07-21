@@ -1,0 +1,23 @@
+{
+  "FILENAME": "perl-clone-0.45-2-x86_64.pkg.tar.zst",
+  "NAME": "perl-clone",
+  "BASE": "perl-clone",
+  "VERSION": "0.45-2",
+  "DESC": "Recursive copy of nested objects.",
+  "CSIZE": "10689",
+  "ISIZE": "21518",
+  "MD5SUM": "9f0e605544d61442b6640be65232f0ca",
+  "SHA256SUM": "4e28bd72c78818cad451fecfed647368c98fb28387c3bf2eca1248ff499c9f59",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl7vM50ACgkQeGxj8zDXy5JjMg//Qhiz+DwH1nkd0UPYIQ+Zihx4CsXBZKQd0Cw8OHW1IEStFhXKn4RToq8Go0mJ5ismfkQjpDIuPiqxPgVSAJPxsHcktlTIKWdi3VFWvgp2W0LRdW5YJBFFuJQvM03Y0olibqVxXPs4aRIcERp9e0UkgEW/Y+mTX0QUB/7ySdmipVhzkzlp52ouzZz9vcRVzosywvLjXH6uACgjK+rY1aLvvTkF6twfZXqwzHTkoixVS8+fZir7l4f1pM7zEV1Z55D8IPwypBRX1Pkwz3XOzJ8JQCjYzAM+iqb1nll4QC5GHpKOTWUXb/3Xd/kOwkGRt2MFukZ7ILoZ4BWd7tPrI2ymE1vSg094Y2Hu+KPPQnwB9vjpnvEpjuneAUcevXu6eGJuOkPRu6ZvQFCs/CaKuQW7djMFeGF0fyK42X4x5CiXx6y8higzmaEK331dKv61zJIXgf21QVjjgxu/GI7bdZUaPwiCKnEWMHbUq5t3NtLV4KwqJcUDAo0BX0Wr9H8PPfkKLJKEqpXsPgbVTb+Cdi8CwY9H9CLLbn60QIzMzsrgcBB6A5t4CNFW66+W12TsIzCtb4SCh+M802AnSMx2DACZuT3hDJwQdIAIPaDpAd6P3lhmcuAXBXOA0Tr/17ZakTS5cN6GWdVYGvQoCtXmXzOosDUMXJYm4wZzEVZtDKwLoQg=",
+  "URL": "https://search.cpan.org/~RDF/Clone",
+  "LICENSE": "GPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1592734429",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "perl"
+  ]
+}

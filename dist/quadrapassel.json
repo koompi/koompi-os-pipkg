@@ -1,0 +1,26 @@
+{
+  "FILENAME": "quadrapassel-3.36.02-1-x86_64.pkg.tar.zst",
+  "NAME": "quadrapassel",
+  "BASE": "quadrapassel",
+  "VERSION": "3.36.02-1",
+  "DESC": "Fit falling blocks together (Tetris-like game for GNOME)",
+  "CSIZE": "268740",
+  "ISIZE": "1153900",
+  "MD5SUM": "5c3f1c1e1abf40f57d046c64d82ddcd2",
+  "SHA256SUM": "cac10b711001659b90a96cdeffb69d7b0fa90fca78d6cf9c2983b882a8c54b94",
+  "PGPSIG": "iQEzBAABCAAdFiEEghj4iEmqxSLpTPRwpekojE+kFfoFAl6mNwUACgkQpekojE+kFfoQzAf+OyT9lgd6wR+rDUZo89rDlCkJlhwMaImc2zQSh2creetzlTaPAFu2j0PxpsJ+WEYuZHmhKoxL4HSVm2rmiiNDS2Jd1iBD0fAaLNoTHgEswWNPNJeznDtdfmMfYEbeLu4Qr7E6bVFoq+lqAOt1fZGdb2NR0Y5jtasqGb5SorpLAJMMSpZzsIbFedgXaJrePV8ySJoueKZTa5LEUDSw0vqyAimkpPozRymAjlgJvQngWneWjZHIpPen2JRbjvnd4Su4l9cjycMgrCxcSM8AktPlz3NAfrseCKU3x2KBftsBjdz0bJSZ31z43p8QTdExCEV656yymuGLtbrUMpoodToI7Q==",
+  "URL": "https://wiki.gnome.org/Apps/Quadrapassel",
+  "LICENSE": "GPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1587950869",
+  "PACKAGER": "Jan Alexander Steffens (heftig) <jan.steffens@gmail.com>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "clutter-gtk",
+    "gsound",
+    "librsvg",
+    "libmanette"
+  ]
+}

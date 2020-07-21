@@ -1,0 +1,23 @@
+{
+  "FILENAME": "clojure-1.10.1-7-any.pkg.tar.zst",
+  "NAME": "clojure",
+  "BASE": "clojure",
+  "VERSION": "1.10.1-7",
+  "DESC": "Lisp dialect for the JVM",
+  "CSIZE": "17115409",
+  "ISIZE": "19479251",
+  "MD5SUM": "1b173c8e703ac3588355e98627c69a0f",
+  "SHA256SUM": "1cda976a7bf0c8574ed3cd2fd77b7986529125440bc9590b410e4e567c1c0474",
+  "PGPSIG": "iQEzBAABCAAdFiEElihV8HLHoBhGQFhk/PPIy1z5yNQFAl7qPwcACgkQ/PPIy1z5yNQ/tQgAvdqOJwVvqNw8XUTM9LXnIEnfn38ASEjRcbe0olJiRgrcS9CPuS0fHPfMRAyed1i7OC5zZLvv1rUEzDsGFLEKIUDXa5dyW1vj7Ru7blgdaDi2UaIBshCUj1CIGTaBUkN4bl6ecfVXuQgsiHf1NSWujMo9/jwax5rSBe82HLpHzde/vUB0/w8fnFiZZ788neADf49IyBbJw1/COMHT5lC7i0gpkqyRXSZiVRYoZWUlpCYlmuBCpooBSqSU8WVRLytCw/YoJCUcNCeLdGZFGK1ra404Wc2iQP9RuiauhhrjLW+GDOU/Yw6qMu4K6q6HSm0kfayRMerL2oggk+glQ90DQA==",
+  "URL": "https://clojure.org/",
+  "LICENSE": "EPL",
+  "ARCH": "any",
+  "BUILDDATE": "1592227316",
+  "PACKAGER": "Alexander Rødseth <rodseth@gmail.com>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "java-environment"
+  ]
+}

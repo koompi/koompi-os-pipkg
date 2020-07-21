@@ -1,0 +1,23 @@
+{
+  "FILENAME": "firefox-i18n-ach-78.0.2-1-any.pkg.tar.zst",
+  "NAME": "firefox-i18n-ach",
+  "BASE": "firefox-i18n",
+  "VERSION": "78.0.2-1",
+  "DESC": "Acholi language pack for Firefox",
+  "CSIZE": "437324",
+  "ISIZE": "500654",
+  "MD5SUM": "107c62d96162a96163e055fbb41868ec",
+  "SHA256SUM": "8c28f04b3fed149bd8d40586ac24c4f9f2f2f0c74a85c916f06669b6d98a9b40",
+  "PGPSIG": "iIsEABYIADMWIQQGaHodnU+rCLUP2Ss7lKgOUKR3xwUCXwelnRUcaGVmdGlnQGFyY2hsaW51eC5vcmcACgkQO5SoDlCkd8eZwQEAwXh6xc59Y+kNleUrv6q58kV822932aNYzH+ZsEnrTTMA/1SXUGoahq4m9UH6H/1mmHtzE3e/YIpP+tRGRN0bFY4M",
+  "URL": "https://www.mozilla.org/firefox/",
+  "LICENSE": "MPL",
+  "ARCH": "any",
+  "BUILDDATE": "1594311501",
+  "PACKAGER": "Jan Alexander Steffens (heftig) <heftig@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "firefox>=78.0.2"
+  ]
+}

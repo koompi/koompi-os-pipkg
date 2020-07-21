@@ -1,0 +1,26 @@
+{
+  "FILENAME": "libjcat-0.1.2-1-x86_64.pkg.tar.zst",
+  "NAME": "libjcat",
+  "BASE": "libjcat",
+  "VERSION": "0.1.2-1",
+  "DESC": "Library for reading and writing Jcat files",
+  "CSIZE": "64890",
+  "ISIZE": "437743",
+  "MD5SUM": "015c80867299d9881cabe5b496f0b43f",
+  "SHA256SUM": "3c3197c85eda70860706769a6cb22f3f1f925f5b844e9b3b3cc9519c0f3db267",
+  "PGPSIG": "iQEzBAABCgAdFiEEado014/g79WWrG0EnYk+xNqvkSkFAl65n4MACgkQnYk+xNqvkSkyYggArWqOlBIobEES4qV3rO/aPu6h4m7D8Bq2zYibx2orEyjSFJa+aehcBu6a4UWT3mIR9Flq/Dn7xwvEnvINVzEG7KQnssLNvm1v0FeLN3jEkzSg8v/hjXG+rm0w2UPeWWHh873vcj/qXp5nGKmXBWW4lFq1DcEx9iFWqYMpBW8b9qIrQCxAniKOds3t3iS6nSN1K3ShovJbwFZ7dCNdRNN7u/khuMI7SE+DKJaO/MdNH/G7+jtsF8SlSY1vZJOTA9ThSM+mRxx6tLAPxcQuoMQa+ibCyMKji6BfV+zqAwOHzfUxMy5jvGk9puw7/ygwk/r5KHiH8nXp1X3tMg+dW8pDBg==",
+  "URL": "https://github.com/hughsie/libjcat",
+  "LICENSE": "LGPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1589223214",
+  "PACKAGER": "Bruno Pagani <archange@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "gobject-introspection-runtime",
+    "json-glib",
+    "gnutls",
+    "gpgme"
+  ]
+}

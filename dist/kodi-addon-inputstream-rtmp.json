@@ -1,0 +1,25 @@
+{
+  "FILENAME": "kodi-addon-inputstream-rtmp-2.0.9-1-x86_64.pkg.tar.zst",
+  "NAME": "kodi-addon-inputstream-rtmp",
+  "BASE": "kodi-addon-inputstream-rtmp",
+  "VERSION": "2.0.9-1",
+  "DESC": "RTMP input stream add-on for Kodi",
+  "CSIZE": "63813",
+  "ISIZE": "84578",
+  "MD5SUM": "55da3ccc407365014b0bb2b6b6e0723f",
+  "SHA256SUM": "06292b676e814520d37c62f76b46eb2ee9a0bc0ed15917a857d8eabd9446bdd2",
+  "PGPSIG": "iQIzBAABCAAdFiEE2yJ3vNUAqjglYQvd2zIzknlsoGcFAl4/8ZwACgkQ2zIzknlsoGdoJw/7Bq8KpUjfpJaSsTs90sgMY9gfkYOCBmPHgKLDlSyJRmiGu1BFrUEUySpP/SMlsPb40csTVGYsamyuKeIQhbRHlQAZA/7X10osG131DW41BKHLL07M9fQidlEV02TXEHy38bvqlo5FknYnZtGlQwlMb8FzfrAdgbxdbDjWp9nSWtWpgz58U029nLWxzeGLQLfZT2W8CATL5yGwpON2SQ2MMdtUuLwfNlEMYyKW1FPyWn5lXLb2S5/83xV0v3tOZEpojYtX2n9LDSM+MevTlcUjOsWd+TZ1kJjmIz+AEGRTzuo5cxyh7vzgLL3CO1RjDZeRIfSai8KEV03pDwi61AwfjlRZIXY2lcH79E1Ib5PIBjeGVP2M27+AbU25CDJMcExZiuv77Y3AHKeBcf5M2UXxA+A/KWa+xBm8x5jCnRkZxeOta+tVsTUH7wTyAAABm893K/g3KybohbLaxGd1cWohKtnkru/A4hK+ZMxr/fOSspI4EOVTKKVcnj3H/wLvgLBeQcKZ/xC1fs9DuuBMskquEuOG/bpc96P/Zf0sU7zDm02hqNy0RmXG4RjPwNXs4kIWUqbwiCnFOnYTjx01n6ZiU3a4213V86v36lPXD7azZyUWepeJnM7xz2fwCorpRPmM5pVaC3MYOuRq3BpABxatRXmEYtF3eqqgMYQ0Z5k7EzU=",
+  "URL": "https://github.com/xbmc/inputstream.rtmp",
+  "LICENSE": "GPL2",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1581248858",
+  "PACKAGER": "BlackEagle <ike.devolder@gmail.com>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "kodi",
+    "rtmpdump",
+    "p8-platform"
+  ]
+}

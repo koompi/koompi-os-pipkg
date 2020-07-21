@@ -1,0 +1,23 @@
+{
+  "FILENAME": "python2-beautifulsoup4-4.9.1-1-any.pkg.tar.zst",
+  "NAME": "python2-beautifulsoup4",
+  "BASE": "python-beautifulsoup4",
+  "VERSION": "4.9.1-1",
+  "DESC": "A Python HTML/XML parser designed for quick turnaround projects like screen-scraping",
+  "CSIZE": "185461",
+  "ISIZE": "1429704",
+  "MD5SUM": "4f406d32db4cc518fbd0ab069f75e85e",
+  "SHA256SUM": "4500854f491a4fede793ee4d2645cdb3d20cae54ea2eba63112faa6b327373d0",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl7C8KkACgkQeGxj8zDXy5Ja3hAAsiFu193VSUdfmhxHtOwzBk+ytV67wK6kJdbK2gCp5Yg6tXoPWUF4RpIw02a8gd2IpCDqehs+pebH324QuaAoAumlio3JqTpi4XkhqE2FpjFEPTji2EkiA1p/JrU+xAMR2XCRUxHc7Dyqs+vM2W1MtWIxFSOtSulEhpt+d9v3mUmYcf1mDK+Ld41LxKRugQZ3VGaqNmHMKhlpn1sxMuwKNjQokOzdEv8VHYQWHCL/IrTWvw5USXXQtYiG8C93cQJ+uO2lrXgbyhABN21SRNBuVUf2100vpDlNRuEd/LmnVaxPCgeKFlBcn6+kUDHxo5SfxFMNI0N8FjozSJ8OxSgvU3kisvgzEpSJrBYpVRdZHMCN4LRdAOgfxXyPieLyVN5jcJID9UiKVoEwEMYKdOlI4BeyED+FqI71VEi4bqEyHp5uQH0jiTeGYQmFLLIq/eqLnVD1p5OhYVUvcWXpM1RJaA/p0aTeHf/dY0sS0zElnMlh0DgKF+6RL/FFwtrENiupR9XTZsHxj1bMJoW9EjJJlpEyMDfVuT8H/doDEqYAOqte2sByh56Sv3tgGcQJPTeG75DIFvOPEn1PRC6fb/Y/oC9qpukDOiVXaykJ44vX9kfu5LBxU3kICdCm2Wnb9nbwmmyNu4xad0uU5UoD5k7s5TGq3o11dRWFEcOqgs4tnr0=",
+  "URL": "https://www.crummy.com/software/BeautifulSoup/index.html",
+  "LICENSE": "PSF",
+  "ARCH": "any",
+  "BUILDDATE": "1589833827",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "python2-soupsieve"
+  ]
+}

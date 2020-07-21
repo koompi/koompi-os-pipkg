@@ -1,0 +1,24 @@
+{
+  "FILENAME": "python2-ndg-httpsclient-0.5.1-5-any.pkg.tar.xz",
+  "NAME": "python2-ndg-httpsclient",
+  "BASE": "python-ndg-httpsclient",
+  "VERSION": "0.5.1-5",
+  "DESC": "Provides enhanced HTTPS support for httplib and urllib2 using PyOpenSSL",
+  "CSIZE": "39592",
+  "ISIZE": "214847",
+  "MD5SUM": "38aac94a7f4342a9c7bd89861074cf62",
+  "SHA256SUM": "87569891c27d438ae2922ba14e271cf24531524c90a5ce0952fd133bd2157c87",
+  "PGPSIG": "iQEzBAABCAAdFiEEhs/8qRjPOvRxR1iAUeixSKmZnDQFAl2/4DgACgkQUeixSKmZnDRcxgf/X6XUO1RKjRpB1Ron5gRkqBO00tdXNhbpBvmArpykOG827kwob1bk/IJdbnmrudzt5vqQpdJwIYnApYlISeMmIPctJ6t5ZWZ2HK8ninptlW3MsB+ewLD4FvRRJV7UdI9MRWGoNLmJsEKc72mov7uMHzx/a418nK5nzyWDYImlEBccHB4XhVjATI77J9a6qg9VA1RW6+A7jniaiJqP+79rup2qqbAwx1Fp4LblD29I/TRuGBIUsXy4lTcoavLGWlXB08vTu7NCEohXSjATg60p/io2iXUltZfx2pyrJh3sC5jegPHlSb/C1/NZ1xdlC7wuAFKZxQYVUgq3BM9dIYtgYw==",
+  "URL": "https://pypi.python.org/pypi/ndg-httpsclient",
+  "LICENSE": "BSD",
+  "ARCH": "any",
+  "BUILDDATE": "1572855835",
+  "PACKAGER": "Evangelos Foutras <evangelos@foutrelis.com>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "python2-pyopenssl",
+    "python2-pyasn1"
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "FILENAME": "python-pytest-xdist-1.33.0-1-any.pkg.tar.zst",
+  "NAME": "python-pytest-xdist",
+  "BASE": "python-pytest-xdist",
+  "VERSION": "1.33.0-1",
+  "DESC": "py.test xdist plugin for distributed testing and loop-on-failing modes",
+  "CSIZE": "58638",
+  "ISIZE": "280631",
+  "MD5SUM": "0c0619cdb63d546d1347123e726d9b01",
+  "SHA256SUM": "03c19e4d3c10895d8cc5821870f0708d7e16cd55aec2b05a21cf16a5da0316b3",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl8IYh8ACgkQeGxj8zDXy5JvoQ//WkaRDU7kTLumrGQdBMP6MvykE7rw64HvfFr3si/E3oncBk2A4l6uV5Xd7vsTq1+55kUD3JH6hfLtCz7ykFAQMlXfBgCCYQe+4lzCJ8/BmITeQfsVTZckT562YIm8Jlh2zJ/Yi7L08zpRPQbDD5MrJKnCoitNeSSFq0viJh4HJxDlQosbM9Av3pqmt8gWAoW/nWPezm89nose7hrQOgj3Ruw/Y7SFDpkTHVv/3HKGMJtwWgtjeTjZ9W9f8IIeBX/LT/nM7EMDAoVdQSwU1KCDnVIh2a4ibMwmoyZij/llRWz8eE4bUVmuoKOK994ak/MwozaOFqOhedhJKXXIMSDo5+UH/Ippq4iajBkyCJhXgCgcDHAWB8Eh9SBqya/FUjgY7Zrx9FoEm+dmW4KdtGan5D1mEyACXdVSWtMjO11GSfgwAvSJlG4BrmSXHBgv4/wkKYRUKD4AibCSNAe2nWAJHKaZQHfDXdOUVHlZ1EeLBgR6dqR7V9YHTNMCShg8VkVPstfqTjrJhOs3qdRmUtPLE6iTL/NiNr7QqnWHgXzhuK8+GwYoXHUAHiGFZA3z16tP16iypslaj85CO63A4bHhG7oOMw+UI0sP46/8yW8gC4Nya8PaRNCFNxxlJWALVL4AGjBEwkZLD5REjdlhQbwVpwl9uvdw5iraXmOPxUdBqVU=",
+  "URL": "https://bitbucket.org/pytest-dev/pytest-xdist",
+  "LICENSE": "MIT",
+  "ARCH": "any",
+  "BUILDDATE": "1594384795",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "python-pytest-forked",
+    "python-execnet"
+  ]
+}

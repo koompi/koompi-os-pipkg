@@ -1,0 +1,23 @@
+{
+  "FILENAME": "numactl-2.0.13-3-x86_64.pkg.tar.zst",
+  "NAME": "numactl",
+  "BASE": "numactl",
+  "VERSION": "2.0.13-3",
+  "DESC": "Simple NUMA policy support",
+  "CSIZE": "83424",
+  "ISIZE": "227800",
+  "MD5SUM": "cc7cd92e6745fee41721e03279e5bcef",
+  "SHA256SUM": "d7bce1e18ff38807e1dde49f5ca019479a487e804afdc743fb4eadbd6a7449c6",
+  "PGPSIG": "iHUEABYIAB0WIQTH54SUZv4jWDQ1iDdyWHNLQcMVSQUCXo4NEAAKCRByWHNLQcMVSejYAQD/Ibvvt7RGjmWOh9g/WDMpGSU9vVgu9Qbc8goluxauBQD/eEyWvGgPvrXJaNAaEVb+n41caeb28ofuRvdVxHvsqgk=",
+  "URL": "http://oss.sgi.com/projects/libnuma/",
+  "LICENSE": "LGPL2.1",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1586367569",
+  "PACKAGER": "David Runge <dave@sleepmap.de>",
+  "PROVIDES": [
+    "libnuma.so=1-64"
+  ],
+  "DEPENDS": [
+    "glibc"
+  ]
+}

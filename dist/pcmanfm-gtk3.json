@@ -1,0 +1,24 @@
+{
+  "FILENAME": "pcmanfm-gtk3-1.3.1-2-x86_64.pkg.tar.zst",
+  "NAME": "pcmanfm-gtk3",
+  "BASE": "pcmanfm-gtk3",
+  "VERSION": "1.3.1-2",
+  "DESC": "Extremely fast and lightweight file manager (GTK+ 3 version)",
+  "CSIZE": "314837",
+  "ISIZE": "1424465",
+  "MD5SUM": "69020ce967cf1fd0a3a54a3686a48cfd",
+  "SHA256SUM": "2dce979f435ff1203936485753947d3376dc2d32a44cb3b351d49b6ee061ec71",
+  "PGPSIG": "iQEzBAABCAAdFiEEzgvecadZqH8j8PfYth284QkBwWMFAl7Pg8cACgkQth284QkBwWN74ggApqQ9F+SJTHu1l6FesFG1BnUniom5BrxaynmUJIcp8UJ/PTeKYdcQF7nb25YWKQXoOcJ7JoTDw19HLDqER5ZWsoUEdQTlPS1Vz1oIVCJ1tA2ZezsWlvnnLbMVm+kE8VLU4IfpVrVjJpdthTbJXbDl24zpZAR7G1+YSF5ja3/vNxaScSMW94asvAqtJGXIL+tg3dUDVVryTt9twyW8/lGt/vDcqGa1xZZh+ynXWVlo/MK7OAQBDFRyp80JPCDNe1FfQX9F9ufklb6BbdEY3f76wqVgmZVkYq7wj+CGxUpYBfkzWrEDyaow2h2wNqATVOg42inc4L56W/6RbCZEjfDUzQ==",
+  "URL": "https://lxde.org/",
+  "LICENSE": "GPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1590657940",
+  "PACKAGER": "Balló György <ballogyor+arch@gmail.com>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "libfm-gtk3",
+    "lxmenu-data"
+  ]
+}

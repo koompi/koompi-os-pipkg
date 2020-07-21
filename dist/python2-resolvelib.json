@@ -1,0 +1,23 @@
+{
+  "FILENAME": "python2-resolvelib-0.4.0-1-any.pkg.tar.zst",
+  "NAME": "python2-resolvelib",
+  "BASE": "python-resolvelib",
+  "VERSION": "0.4.0-1",
+  "DESC": "Resolve abstract dependencies into concrete ones",
+  "CSIZE": "18944",
+  "ISIZE": "89863",
+  "MD5SUM": "52325d0ccb2b6b70f76fb3b3b4ecc38c",
+  "SHA256SUM": "feddf436328379de7b5eb222bc478c80a7f016f15f46673e85b8ef233719dad8",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl7tI9cACgkQeGxj8zDXy5K08w//dfkhEUG1bupr3tOfn9NEqcXQItJtWpKrff7UimlBBnzZ1J5o+uF4Sbh8qzVZbH1P3Or71FsiqOa0+E5l4Jkg3VOJzZbCizY3NXTBvwMr8NArdvTbZkioiWtgA0mEMsH04L0kAEqcCPkaj6VMzhqWaJLnL2ApkyPW2KRqQjCRjcZsX2oj3yphb+mkY0oXoY6gac7QC//E8sq4A0jCPmqNnUoAQJGg/AQUoY2uWzCqZRtX6rTCkJuX4vQLJIVyOJnjmI3y0o74FC2DVH3MNV3n+rdwpX7eg1u+bqMJq6ZbsvvI55GzNcdZI8H1OCdZNkgwUOn7HYXF/fqGNBlTXKd/0i4fZ6JyYMWscHdJshxWYSehcOYN8bMCF6rIZeaEyCheszASNGBRhhaCXA1sy2ONnhQFyw1ddvKD/BEPMbXlUyO/1XzQu6UyB7BuhvyQcC3LcU8Mf8YF3BOwNuSH3GrSZ9YOE7SAmYNx6KaYwE0jLDc+oG6tJ1Zd1wlxjVxHeOKP1Tu8NCZtQd8TRK1yHoBssYe3mAXDZe09NEY2P8mtnqII31W4jzFLbk5YtUlnSnnS8rLRj1PELX2kRB55EvH+jSpu94jIaMQlJRAN3N+n3OAtXZS70403nP/UaFGQO3zYPxGlPwqc6x7+yxwcDnGUqDL+4jZWr3hwTD8GYLErhUU=",
+  "URL": "https://github.com/sarugaku/resolvelib",
+  "LICENSE": "ISC",
+  "ARCH": "any",
+  "BUILDDATE": "1592599415",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "python2"
+  ]
+}

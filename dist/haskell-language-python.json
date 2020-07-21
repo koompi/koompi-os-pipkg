@@ -1,0 +1,25 @@
+{
+  "FILENAME": "haskell-language-python-0.5.6-10-x86_64.pkg.tar.zst",
+  "NAME": "haskell-language-python",
+  "BASE": "haskell-language-python",
+  "VERSION": "0.5.6-10",
+  "DESC": "Parsing and pretty printing of Python code.",
+  "CSIZE": "961216",
+  "ISIZE": "7422692",
+  "MD5SUM": "93364323ecddca96eba6b60342ec919e",
+  "SHA256SUM": "e716f99289a064383eca676d386b4fd1202a771033383552466ffe5df59d8fff",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl6iIB4ACgkQeGxj8zDXy5LAAg//RZB927qY3GwK6fz1nCkR42wTupS1P9+NYQBgQhqAIlh6Dvz+NgCE/BwdHRAj6aWQi4zvaa4TL/sbynHEsD8dKn5E5jcVztsX1sxkDwg/pYFYQVtqHtTkYxJfQ8xQS7BcC//1nyYobcr8xD3LwjY2Jo0VEEeqDdTIOOmiAfa1vkCxQiSVgaopLG7Li7MSXsKZk0biihM1Fvk4umNxoRORp7cbJgC6ytDwwWEsGvDFB4LvfaFENQ4y0mlfcXEmn0xrJSPV8nU4r9o/CpwkJ6+q7VFfRTUjjvwVxj/IKFKmSOV+TXeHFT9x5jS4wJ45mnnvRb4TinEJpAB0cDHAV9fZ/tal85TeZmXBIzlDdQu7wf6GaBLoa/VLdIU5MMU4b4BPmAFIkObFwqqmBFeNunD2GspEIrNO5v7TbcZ2aJnivHH1ChrbO5iT/F4DEbuaXDR+qtz6lEP+/Gv1Gk2id6UhxcIQz+oIsc+x9vo05YbSSaTZ6P5zZpXRklT0LmDcTCw6sWrUXvHLueosxZkiayzNljjQsdjQa7dgROmzWjJTOe7AsbhnzeHWz0QYOitEBJYS+M53boqyZWAcOlwBV6lkrq2uKu0IzLEm5oM1D6qSlvSG2kpt/DBZpWowVXJauaHn0bttpFrKja1BYr5JApaMYS/uBxACZJRPi1r91oNRlnQ=",
+  "URL": "https://hackage.haskell.org/package/language-python",
+  "LICENSE": "BSD",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1587683173",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "ghc-libs",
+    "haskell-monads-tf",
+    "haskell-utf8-string"
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "FILENAME": "gnome-initial-setup-3.36.4-1-x86_64.pkg.tar.zst",
+  "NAME": "gnome-initial-setup",
+  "BASE": "gnome-initial-setup",
+  "VERSION": "3.36.4-1",
+  "DESC": "Simple, easy, and safe way to prepare a new system",
+  "CSIZE": "1109993",
+  "ISIZE": "2304695",
+  "MD5SUM": "a6100307e0b44cd0bc70b0549f744989",
+  "SHA256SUM": "eaf8797aa3d3bd919a906a74dc6cd8c47c314b2a0319cf6c3512f0ec3e65a68b",
+  "PGPSIG": "iQEzBAABCAAdFiEEzgvecadZqH8j8PfYth284QkBwWMFAl8IxmYACgkQth284QkBwWPkJwf/Yw0cNkyuSRMGQB7iU7rtv1kEQWqC966zxvmiJjkBYhbGpkE8++6BgsuTzzi6tTUzKIA1aG8G1+BBzwpZTSXA3MCEnCAgnCOl7hxstEQ5PVfYgQSDpzj6qGJdhrQbmgPb4RnzmDrCLGh93bDZLYn4FYnV9iD/5UVfljKDVMZVAbfclL2oy2rLv5jt13seZgCpFOzF6aEchhgh59kCmxOsZf0RrNsEn+DB1gDnfyExY449iHV3aYJ0zsLKmFUbLrATPMU7+Qw21gkc0bCZsMuQCNkZtIrHiDWVWt6lSDv3itsxhB9Q8IQEA5L/CQBm0s8CzNtwTtH5RIFtbrXxu1NMUw==",
+  "URL": "https://www.gnome.org/",
+  "LICENSE": "GPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1594410461",
+  "PACKAGER": "Balló György <ballogyor+arch@gmail.com>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "nm-connection-editor",
+    "accountsservice",
+    "cheese",
+    "gnome-desktop",
+    "libgweather",
+    "gnome-online-accounts",
+    "libgdm",
+    "libpwquality",
+    "libibus",
+    "libgnomekbd",
+    "libpackagekit-glib",
+    "geoclue",
+    "malcontent"
+  ]
+}

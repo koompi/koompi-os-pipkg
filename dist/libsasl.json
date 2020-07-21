@@ -1,0 +1,23 @@
+{
+  "FILENAME": "libsasl-2.1.27-3-x86_64.pkg.tar.zst",
+  "NAME": "libsasl",
+  "BASE": "libsasl",
+  "VERSION": "2.1.27-3",
+  "DESC": "Cyrus Simple Authentication Service Layer (SASL) Library",
+  "CSIZE": "149611",
+  "ISIZE": "520188",
+  "MD5SUM": "a4f9cb3ab7e2dbc2d403ce8e043d8fdc",
+  "SHA256SUM": "f277ae8d07bf0633104b266b4200104e4d77743a73feeea20c49f7ce7ff1aa81",
+  "PGPSIG": "iQFIBAABCAAyFiEEZkWwqMcAXnjbHXhk+Z/+D+rpmb0FAl6yhXsUHGFsbGFuQGFyY2hsaW51eC5vcmcACgkQ+Z/+D+rpmb2nFQf/TPeEWrCCtsvYDiThUPpj5xoPWz5C2UPVAq2gSn+PxFRhV1thgK3UW2YOe594QIeoOo58pKwZYmGfi+LzYXdh3WvyXKsmN9qw+pD9rkhxRlHGJ1rY0Vf54x99PlC66YALOibpMuDDXDuspot306Mx5I5IwF1K+1SgrVlnURH1ZJ6q+jRYEYg5QQcu5KolxMNQmPwNjp2eYxGcMF4A6jB3p0Vi2V/w0gYwWBmb9hfd8/HwsUy+6BnOgHjZitApFrNv7nhIOtwIkEGLQTbjFQMXaEfLo5y7egTwfSgqyilENmeU+Hzu2kQIoC0SVdeOMjH9VbWTP8HhNs2d+glOFI+5AQ==",
+  "URL": "https://www.cyrusimap.org/sasl/",
+  "LICENSE": "custom",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1588757600",
+  "PACKAGER": "Allan McRae <allan@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "openssl"
+  ]
+}

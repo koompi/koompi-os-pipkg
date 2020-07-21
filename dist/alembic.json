@@ -1,0 +1,25 @@
+{
+  "FILENAME": "alembic-1.7.12-4-x86_64.pkg.tar.zst",
+  "NAME": "alembic",
+  "BASE": "alembic",
+  "VERSION": "1.7.12-4",
+  "DESC": "A open framework for storing and sharing scene data",
+  "CSIZE": "960465",
+  "ISIZE": "4113229",
+  "MD5SUM": "17edef67eebc1dcc8f10f0157af9b3a4",
+  "SHA256SUM": "13e7a7fb51557fbe5f01638ac484208ed3842bc14d469e9cfc68f899f3aa76ae",
+  "PGPSIG": "iQEzBAABCAAdFiEEFRnVq6Zb9vwrc8dWek52CV2KUuQFAl66ZSkACgkQek52CV2KUuSexwf+IPistOT+2KGzoge/AFDU7YtaVztoMuZ4+BWev/srKcoB5MjIjcjWpQgdBu3VzxRHoeFnHGXTYlfunWcTlhLaX4CkISLXoCHiSC/0DPGQT3R8Z6MCFGDs/igHEt+SzGwHSEMjrkTtUc4tPXIXNOmEYOD01+iB8nyDjpEQqigwyfToIrC3YImKP43WqNtJGuzd24GNDnU83sj098SGI5foq+4WmBtJ85656l0IRHXFT9hwpJgOQQzoE/r81NZH5KuykcvFF7aIWyY0gz+oAz0Puyxcl0DHGIUp01Zu9MeWqm/thlxeb6klpI5HKUIYGEL+ovaaTB3MjXKBfGMzWcTtjA==",
+  "URL": "http://www.alembic.io/",
+  "LICENSE": "BSD",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1589273724",
+  "PACKAGER": "Antonio Rojas <arojas@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "openexr",
+    "boost-libs",
+    "hdf5"
+  ]
+}

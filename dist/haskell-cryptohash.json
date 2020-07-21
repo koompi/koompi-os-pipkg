@@ -1,0 +1,26 @@
+{
+  "FILENAME": "haskell-cryptohash-0.11.9-139-x86_64.pkg.tar.zst",
+  "NAME": "haskell-cryptohash",
+  "BASE": "haskell-cryptohash",
+  "VERSION": "0.11.9-139",
+  "DESC": "Collection of crypto hashes, fast, pure and practical",
+  "CSIZE": "102203",
+  "ISIZE": "541600",
+  "MD5SUM": "b40eaef9573f6276aeea8e0d5f9c4bb7",
+  "SHA256SUM": "d691180141c6b04412eada457d15ec02548eb240f0cfeb9bd71799aae745432e",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl75GwcACgkQeGxj8zDXy5IuDg/+MpFBjnC0e019k8yZb6tqrsvmL2AU9FqiDIvvL3D+NKJrgpmK5RUKIWrdCys+oIDTMXh5XFloGl2D4NpS2CaGYJwYgtUfzg3zSpxbHYMemGLWCpCifF33F8T+MB9Xo73cw4DkOkVAEwQOSY9MPEqHYbIoKzqgAIC9al5Y/X4IoX/o8o3yfS7wAEpc7MAb8XROBppxxO+MT10+4GolYlSXm8fzP6wJ/iMAxoMFf4LjnVODvGa+RmsKq8QO4yGZEccMqK20twgWyElOqxzmWltoaB03jp6zJZODdUpKHtGuu59sIl+KyPAoHb8uZdHFNz6v4Pe16j4yY1vfOD4OOaSgwu/VlH8Hl/0djeFNqB53YeZ9kwkV9xcYmuc7Eeaym5Zz0TCX9Pv/1EupHUd6Kyw9iIvkzkDnj8eqWt1UgAMxGYbr8WYZ3FIA1e/fl2o3hLgMIbR8Coj0vG24oxo3NlDT6C9cSvjN9xu9dDTEY61v8MalY+xB5tV+W5FZ53HUCRLB3N4oWIj1+PGzA4UvWJ+KhXp9KQsqQmbBABHWgGx3te7bg+s1WvUPLLClycxyaK7AGzwRVo3U0yjkBOK+uFb1vtA+6fNS4ba/Md6h1uzVdPIUTgkKtQQWyoxene/7CmDSQd/cXdIc3LLszQzmiP3DVxZKEDBwMgLMxTWAj7aq8tU=",
+  "URL": "https://github.com/vincenthz/hs-cryptohash",
+  "LICENSE": "BSD",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1593383661",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "ghc-libs",
+    "haskell-byteable",
+    "haskell-cryptonite",
+    "haskell-memory"
+  ]
+}

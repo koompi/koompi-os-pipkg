@@ -1,0 +1,29 @@
+{
+  "FILENAME": "certbot-apache-1.6.0-1-any.pkg.tar.zst",
+  "NAME": "certbot-apache",
+  "BASE": "certbot-apache",
+  "VERSION": "1.6.0-1",
+  "DESC": "Apache plugin for Let’s Encrypt client",
+  "CSIZE": "125588",
+  "ISIZE": "751866",
+  "MD5SUM": "7f2d1ea65b1e75f0b43fb229d8d2b5ca",
+  "SHA256SUM": "f37e39d47a2845daa38b412c7d1f42ec70628d23a1c536f3591a5e3a2de81a59",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl8FjxAACgkQeGxj8zDXy5Lllw/+N+/l1Oh9JUwjBOZwj/Q5xx60s/6yVW9/wSIpQpYVPcm6YRFKCO/BzyunONTE9HtV5NdJV5nZnQGOkNR04i05Tyqss/p1bawwwqc+oPOP67riJWf3pz/wIalqcjPwXSwdIm4r+jIJ8lTBTPtdzBJp9McNXZl5Z3jmoqStmaaYfFZiT2sKPRg/MPXcpGqtCy32bRsP9C+jLjr7Pr0p6PdcFgZb43dc3XtGOIecpo2kBacs73t0ZK62T1Au0huOgofbuEsamM+oTZpAsjk4QrEUkDnH+Hx8kteTK6ghEE8cWdPhIzyyO4n18/kLCzoTLurE5S1/xRFG7Tt71uK49G4zLaTaDn/dPQr2nDKLkBly4JGO8BxNOa7V8WskmWA7uK9dFq+e4PFJ21jzhYSCSxyD5geaVl6MLl9K/8TdWA1DiIVBlrso51CVNnJwBwxC+z4Y3r9I2VcG0k0MZqgvKjzcErFjxGpfrShDRYSYZjiw0JJA4aIE/td4YJlvA8Nvi1kfGMyai5RoKecbSbpVMOxl6F3QZcHzZfE4q8z5HpOYanZOxOLGVQpGYAtpxowz7jUFiWuC2OXaXRFKDNq2ZzeOYF3RJXbaJwo7T3TlbjtflKR721amyS3zuKy48kt4scXG3PfDm6baZfDTrnGfmRemeH1Y2PuQFBYIve0aO0IXdtk=",
+  "URL": "https://pypi.python.org/pypi/certbot-apache",
+  "LICENSE": "Apache",
+  "ARCH": "any",
+  "BUILDDATE": "1594199679",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "certbot",
+    "python-acme",
+    "python-augeas",
+    "python-mock",
+    "python-setuptools",
+    "python-zope-component",
+    "python-zope-interface"
+  ]
+}

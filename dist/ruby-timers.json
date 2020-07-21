@@ -1,0 +1,24 @@
+{
+  "FILENAME": "ruby-timers-4.3.0-2-any.pkg.tar.xz",
+  "NAME": "ruby-timers",
+  "BASE": "ruby-timers",
+  "VERSION": "4.3.0-2",
+  "DESC": "Schedule procs to run after a certain time, or at periodic intervals, using any API that accepts a timeout",
+  "CSIZE": "23548",
+  "ISIZE": "68945",
+  "MD5SUM": "90e70009e9cc541894444119b448e131",
+  "SHA256SUM": "05321f1b998b786df3b79e4477f9b731c69a63fce25e98cf7e01051cd3d96c0b",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl4EAA0ACgkQeGxj8zDXy5Ir5A/9HMtsf0gaVzydikZXuVjKAArNwlgndNq8NrdPCYv9dR08CstQ9Lhlv07Yf8pgzUAc5PaGhrBO55ashzbYHtFBZg8OTPdwTLhB5k1IoGb9kmMdKfFnZaQDB7toqvLBD5qsFO/oXdpqdzPMkf61eJe9XUtSZ/jGXuGxVmVzjfcNNSEJg/XycXXhknvX0cl/3nyuo7eAn0cCgPkgZzkep5T/FwMUINYL4shd+wM01ce8BnsEGhKH3cqfyQDhf3uX1dzM7DdyXRljvsjhEOoYh/8ixYri8wHF7ssD+TrIbI8RK/lIY8Bzqog/Eztqg+uCzRTeF8uMUHyRVtFRTj5TjK3b/c2CJEO0ui9nEQZKziIHZIvsF3/+C6a5kmRNvju7fdb0SsxCQELjlRsVMqIzldazKvSk/zFFQeYC2tIpjMKAEx+3PvpRrOmxKRoQV9h7BWxykuHDd04f0oHgAXeNKC8ETKXxlWUG2lthpymJmF6XtrKDNw/8Pn6rQszljKFymFOC3xq9UJ1No+ClxejYDXpzL1M9HmiPFfkufUjfCzVODmZdIgxnmmHcYfXjlzkctP9YQB1mdXQeAltWWu8Sk5CHp70tTbhOMMe9VrYpxSEy+bXXQ9BSc4tgPl68eM1PEvz7t8lLZ5Nzk2Tmu8uQISSajlqmOQQ1BhK4aa9z7+RNjLI=",
+  "URL": "https://github.com/celluloid/timers",
+  "LICENSE": "MIT",
+  "ARCH": "any",
+  "BUILDDATE": "1577320426",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "ruby",
+    "ruby-hitimes"
+  ]
+}

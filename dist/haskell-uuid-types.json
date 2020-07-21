@@ -1,0 +1,25 @@
+{
+  "FILENAME": "haskell-uuid-types-1.0.3-31-x86_64.pkg.tar.zst",
+  "NAME": "haskell-uuid-types",
+  "BASE": "haskell-uuid-types",
+  "VERSION": "1.0.3-31",
+  "DESC": "Type definitions for Universally Unique Identifiers",
+  "CSIZE": "57951",
+  "ISIZE": "264292",
+  "MD5SUM": "c81feb407a77860895100b81fb330f2d",
+  "SHA256SUM": "281e6e6aef5b4ec5b9bc3418f313420b106a5ad1af6d89f347c62d9735019372",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl75M2IACgkQeGxj8zDXy5IxtA/+I1dmIH5N41uCWgyzb1QdmwiKQGvIYJoCKAHHjbTc40GBhGnXCokAvbcSmPmTNS7vmRFQiBOETNdo6uxWQUvdZvihvy6vqYGH28O2ptm8VivdU1SpyAoYBkitSgg9xK5LANHsVGDAunYuggPUg8jzgA5tAKzaCz5PiSvn9dqKSA3fN2ukF6igOqoFhRLL+sblCKSStWXSw/DPABpHko/3anlZnPNskGHMF8+2KdSFuKsclZSwL4VaONegHWG+wGaqTxYF8Q0xPqJkaXweDVJktBt/9nR81mdhaTH6+v2OWkU37ocB+kf5FicKSlbk8S8ZWiDyFRi7s21DvkIl4f4luF8YHhJTglDzG4mFVLNIE+7rqtXDKHkAqSgM8/KGp5HPAuKWaT8rVdi165PFOWI6rAu1IiKXhuOPrrF9rSws5Voci/EkgZL8yEOqU9l9+rjzTgLgM+ileRZ1gw7Fc6tHeKuovPpFEg8b+tI4R+OgHuFMrqaX8s82MK72+6JVXwXnnO7ybB8ts3OyWzCHFmmuWt56OUFOxktb4yq4T5/hADUaeH/XkvgBTVIbS7yGT2oJ+bxPJfBLXEGDu0TV2JGi7wZXAuVBq8UAmCOUFO4k+9kS5YZf5qVNkcblURoVmgshl7vEolncYMP4pV68xabUuDRdCux01EkhxkLKl1mLHnI=",
+  "URL": "https://github.com/aslatter/uuid",
+  "LICENSE": "BSD",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1593389899",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "ghc-libs",
+    "haskell-hashable",
+    "haskell-random"
+  ]
+}

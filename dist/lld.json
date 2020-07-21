@@ -1,0 +1,23 @@
+{
+  "FILENAME": "lld-10.0.0-3-x86_64.pkg.tar.zst",
+  "NAME": "lld",
+  "BASE": "lld",
+  "VERSION": "10.0.0-3",
+  "DESC": "Linker from the LLVM project",
+  "CSIZE": "2496656",
+  "ISIZE": "19206616",
+  "MD5SUM": "cdcead833251e0da82a5c0a0474b76b9",
+  "SHA256SUM": "2b03aff1c9bb55a46d95e43eeed912365d9cc79b53a334e2317bce336befd773",
+  "PGPSIG": "iQEzBAABCAAdFiEEhs/8qRjPOvRxR1iAUeixSKmZnDQFAl7VuIUACgkQUeixSKmZnDSOHwgAlLel2LbWpyRM8qv6tn+i2qfEnDzYnTgJshMpjLWeUjwjjVUx7ZVVN2bCPhm+1fvBO2cmBSs6JcNTbn+ygofTflYgHDmOpPxXETv2OiZXDyllIZ6JVo3vuUMJHz2SvD6egvVj7/Xo1SlOTE0tMGSzj74Bo/7An2KKqDYa3Z5UDIoDTrGlUxC8F6njYEO5TwOU+Lw6ycDPMq85+yqvuRUfWcNPqWDBLWLE3GYD4fF6wrxNr6b9Wff+ag7nJNW/nqXi3wz6NEIWSmI6crOhxiJBGgMj7bCvOgVbhvQrTo3Fd5n85XojhsSArwkqtfCF9zWBcgkq+UNaVljlp95Q+jdILA==",
+  "URL": "https://lld.llvm.org/",
+  "LICENSE": "custom:Apache 2.0 with LLVM Exception",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1591064113",
+  "PACKAGER": "Evangelos Foutras <evangelos@foutrelis.com>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "llvm-libs"
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "FILENAME": "gnuradio-fcdproplus-3.8.0-5-x86_64.pkg.tar.zst",
+  "NAME": "gnuradio-fcdproplus",
+  "BASE": "gnuradio-fcdproplus",
+  "VERSION": "3.8.0-5",
+  "DESC": "GNU Radio source block for Funcube Dongle Pro +",
+  "CSIZE": "193096",
+  "ISIZE": "1006935",
+  "MD5SUM": "22a045ee758e9f810359dd2f5add2804",
+  "SHA256SUM": "2c865dea9f1d3bd48e09390b7e3192d29e934728918010d44b74a39b94d961ac",
+  "PGPSIG": "iQEzBAABCAAdFiEESMOx8w3dD+Z+UW0WOW4+JbqxQsEFAl7Qk2kACgkQOW4+JbqxQsE6FAf8DbUIY1XzQyeWpFaUmnM8t39IUfnLBbOHjoPUcC9+cH1RskphBvOwuGWrAjU9X1UgXefzszbi/CSdm/ypCfaVRsGaxCCZabYSOhkChe/ZwLntr71QnDiosh23kUln90jv7GBalh7FXZvFE8kyzKEUVaxNVwA0X/ZHccD6uytzz+mcIKQnY9chgxmM2K1kYTBuQwxXYu0BSJHcp5yNwi3MWcNDe2i5uQwkCDbSSjrEqqKp3iFiCXVyaWlc5TsiJclbWGF6QG2b8R0FEVTo5xQHpQf47o2Bp2v6L17zxlh7PTxgByP1ORMSLI/msxgn5LRRtC7gsKX5k8cVjSOYGj//DQ==",
+  "URL": "https://github.com/dl1ksv/gr-fcdproplus",
+  "LICENSE": "GPL3",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1590729825",
+  "PACKAGER": "Kyle Keen <keenerd@gmail.com>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "gnuradio",
+    "libusb",
+    "alsa-lib",
+    "boost-libs"
+  ]
+}

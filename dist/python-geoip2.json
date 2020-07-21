@@ -1,0 +1,24 @@
+{
+  "FILENAME": "python-geoip2-3.0.0-1-any.pkg.tar.xz",
+  "NAME": "python-geoip2",
+  "BASE": "python-geoip2",
+  "VERSION": "3.0.0-1",
+  "DESC": "MaxMind GeoIP2 API",
+  "CSIZE": "27412",
+  "ISIZE": "195216",
+  "MD5SUM": "b4ef8ed6238738bb8445cc4f7a51116e",
+  "SHA256SUM": "851b1534ec5396b2a7bb108836e000b9a5cc10ca20390c33f07a93d41a7c638d",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl3/uz8ACgkQeGxj8zDXy5KGiw//SuyWnde4A0/0ryP+dRCK1SKYpVRUeu8c83M4Vpzvj7OpY/gjqB4d6O8Yb4rYSOdr3/NsyaJX6QC5SKk6YepWP8QqrPyomdJRm+X1FuZx+CoHq6aWUgPzu8Qn4QfwgzODUG3AuQwrOd70zIV5Ej94NtN/coqYq603/oLYJ1xKLRA/SVfPTzIFRd8adZg4DL1McMXCCiwGHs864EfFpEPXMwzFm4hkNLQsD1CKQkHjJfeXwn8PdsF8FwW76NYQt2zHkPshuL3GD4DARkvjbhKDIvGEIcMIBGI98bElk2l7k/d45moBBVLnkPKLjFr1kHabt+MFCo7vGK8GGjpRugbpbpjMXdPsjzkYJuppbn0rKONH4m/jh5F+WEbhcqCe4UrTOxyM+1+l6B1hyH4d0Vxn2tQRUOZOWWdsrWI3EoQ4dGD7gt5my4q0a+7ULHlzLMffNTcielwiyzp03oT/UoYS4BWwiRvISechXlIaT5MV7f4jWvuEMEPK5Q93alqH6z94k3Pq+tV8cMm+TXPHSobC/OXr//rqYREEdLk9Dh17p0c1asHHpJEC37iAngVbaVWbRWzr0vVWOBothjxr8qV+VMbqb/sq9xl7QdjFjIYY1fkG+ryjtu5cushhqNw4AkN2Qfkty8TIR19N/OojsJFY+PNh3anOD54aByHL2AL+KfI=",
+  "URL": "https://github.com/maxmind/GeoIP2-python",
+  "LICENSE": "Apache",
+  "ARCH": "any",
+  "BUILDDATE": "1577040675",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "python-maxminddb",
+    "python-requests"
+  ]
+}

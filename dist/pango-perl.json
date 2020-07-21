@@ -1,0 +1,25 @@
+{
+  "FILENAME": "pango-perl-1.227-13-x86_64.pkg.tar.zst",
+  "NAME": "pango-perl",
+  "BASE": "pango-perl",
+  "VERSION": "1.227-13",
+  "DESC": "Perl bindings for Pango",
+  "CSIZE": "158356",
+  "ISIZE": "377134",
+  "MD5SUM": "c0d225818342351c8bba3eb54c62f358",
+  "SHA256SUM": "58ce52422ad0633810a6f3b4b46bf7de8ede5957cd062250768b19a81e6cdaba",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl7vPZMACgkQeGxj8zDXy5Js1RAAkVYHC2y4zle3B/GK6LhvMMe660BfdoNQ/5c9TSGlIaNoRLRUGfnTjvFXUdGHdYTD72HLmHDxPrQHcck+yNQ1KTyIbgs1Lq5eHnNf+RjS8sld5zNAhKuYLvQKRKIoHg+jeg3ovQruE5VA4zrX4gvNEp6zwpg6XZU5LoXnMmTRJh/vky06r5J9kkGzQ6TnAt9rfawDy+x70zTk4G0PmX0yJICkH/a5wHPoosQrcOqRP8sYc5vDYaCDt1x9CoQPN1IaUYvxy1NK+v0J6dRBAPb1LU1G68LnnZgLPxQ6nyX09K/B6hFqfUA5VStPJSBpyOb9FCXPYvrvZcnQu/0k60+4IrUfy8C/XmMsNiaEFCYGzA+dXEktq/vSwOzy1+PCjocMoRlVbO/PWsK5qFCLdv3aj/B7/+8gt5uXqVw6xFarwXW3eQkmw8ngjeCXJTM9QBTbSAkdGnnCUJj0YP9iDwqkjLSKOthch2i9nTT7JSC+U2pY6VDcgUgvZ6Qte6gheYSFpuh3LExMeaqPJgblz5J9Gw049ZKAHtjgctk9e3KCipU2Wn1BA8G+OIRFbfMwo5vjSFDxzYud9uutxHeTHvq2rhxx6B5zjPbWupCrYLgqslu3vYPQ5bWuSy/L/0JDz83B8FwOeijkjUrKjGRa6v6oFn72iGsgZTTzre33RDoNXQI=",
+  "URL": "http://gtk2-perl.sourceforge.net/",
+  "LICENSE": "LGPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1592736980",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "pango",
+    "glib-perl",
+    "cairo-perl"
+  ]
+}

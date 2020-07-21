@@ -1,0 +1,23 @@
+{
+  "FILENAME": "retroarch-assets-xmb-1:323-1-any.pkg.tar.zst",
+  "NAME": "retroarch-assets-xmb",
+  "BASE": "retroarch-assets",
+  "VERSION": "1:323-1",
+  "DESC": "XMB menu assets for RetroArch",
+  "CSIZE": "46482419",
+  "ISIZE": "62230615",
+  "MD5SUM": "e2b35041ec4ad47f1d98679838a7dac4",
+  "SHA256SUM": "2b92b7036e0cc24c5ba025155b86c838f1bbcce25ef9840e491f73005bec4b84",
+  "PGPSIG": "iQEzBAABCAAdFiEElDfdOBWnqRaePTlGr/XZUJi8b/UFAl74JUMACgkQr/XZUJi8b/U6jAf/UW949KhUjmYkVSsa2y3ykzR84eo2zkkJP+Qk2I+q5s0RrZ7RyM1PHBVW1U0KZ9/KBN/LxEOWMVKNnCWvwHNKnmGiPvjYMKD+OxkjFftjwMcNXX+SoIjF1VnZycEYFyR1qZyeHabQ2+4ZSFLsKXtkXxOE1e1w+k5FL5ds42OBpLRfqxNXRx0U1nOc702vLs1+Vubj+4ahsqRgr7WvBFDkTVJxtzN9cVhdlSSeFRJoJ0Q1aXmLbPUlXvOBY+XwNdm8qJ4Ti9E4Ubfx5C3Ggk/bvFAF9ocsgecDN9UqSGML/z4GPJx2Lpme+70wqX3gdX7Fx35nsOQQST4iYOY9Y8W5cw==",
+  "URL": "http://www.libretro.com/",
+  "LICENSE": "GPL",
+  "ARCH": "any",
+  "BUILDDATE": "1593320663",
+  "PACKAGER": "Maxime Gauduin <alucryd@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "retroarch"
+  ]
+}

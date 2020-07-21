@@ -1,0 +1,23 @@
+{
+  "FILENAME": "firefox-i18n-vi-78.0.2-1-any.pkg.tar.zst",
+  "NAME": "firefox-i18n-vi",
+  "BASE": "firefox-i18n",
+  "VERSION": "78.0.2-1",
+  "DESC": "Vietnamese language pack for Firefox",
+  "CSIZE": "534628",
+  "ISIZE": "596833",
+  "MD5SUM": "5966cc57c0396797333e9997d700522c",
+  "SHA256SUM": "119081b8a62ef606761cd9a61edacc5c2b971ec011c6032766995928107c4db3",
+  "PGPSIG": "iIsEABYIADMWIQQGaHodnU+rCLUP2Ss7lKgOUKR3xwUCXwelrRUcaGVmdGlnQGFyY2hsaW51eC5vcmcACgkQO5SoDlCkd8faRgD/QbrLH7fINMbnriNgZzos3HBoQWRfGuW/svq61ijzjQEBAJFOgCmsLNDglolEqq+u5IHsyG4OAc2YrmMJtAYbjzMD",
+  "URL": "https://www.mozilla.org/firefox/",
+  "LICENSE": "MPL",
+  "ARCH": "any",
+  "BUILDDATE": "1594311501",
+  "PACKAGER": "Jan Alexander Steffens (heftig) <heftig@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "firefox>=78.0.2"
+  ]
+}

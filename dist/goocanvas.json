@@ -1,0 +1,23 @@
+{
+  "FILENAME": "goocanvas-2.0.4-5-x86_64.pkg.tar.zst",
+  "NAME": "goocanvas",
+  "BASE": "goocanvas",
+  "VERSION": "2.0.4-5",
+  "DESC": "A cairo canvas widget for GTK+",
+  "CSIZE": "279811",
+  "ISIZE": "2970824",
+  "MD5SUM": "93a510633394f760752a1b0fbbc8e890",
+  "SHA256SUM": "029aa22d02b75a02c18ec48a38d0f8f86da192196d8c680c9e2326a4b68a8334",
+  "PGPSIG": "iQEzBAABCAAdFiEEzgvecadZqH8j8PfYth284QkBwWMFAl5mwVkACgkQth284QkBwWNGrgf/SD9E7RH4TYNjh3QrjIX24kR/bE/Aqy+IDr4r3nUFlFn53sYHun0wVOFczgr76R3pBvem9Q+HhADIf7IJYGbFWN8VfNX6Ml1qc+GuXpZ3cngq5AtWYyYt5U2ZdauxtTtkt29OuLPyWdLalEk4fYg45TRhCOHaH6E2k5MhV4957RE61m8PteY284229ZKydEQdZN0q9/xpp5oB+ymEpYBUf5NdvUUJh45jq/fhFtAxMJupcxb7GjrtMmak2x6EvlJKPiUU2o2pQwUV/FB4d84ifvM95gf7TvV5m6GDtYqCvyMFGIDFFvxP0/HjPCNekQHRzcCtbYdpdN5BMe7sKpQyqA==",
+  "URL": "https://wiki.gnome.org/Projects/GooCanvas",
+  "LICENSE": "LGPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1583792248",
+  "PACKAGER": "Balló György <ballogyor+arch@gmail.com>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "gtk3"
+  ]
+}

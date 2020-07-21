@@ -1,0 +1,23 @@
+{
+  "FILENAME": "python-deprecation-2.1.0-1-any.pkg.tar.zst",
+  "NAME": "python-deprecation",
+  "BASE": "python-deprecation",
+  "VERSION": "2.1.0-1",
+  "DESC": "A library to handle automated deprecations",
+  "CSIZE": "11452",
+  "ISIZE": "35932",
+  "MD5SUM": "8b3858b5412a4c00e8d894471c094c59",
+  "SHA256SUM": "7624074d2d49d6ed63eb4efa409761f9f46724e3951895cf63049f53c9d98222",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl6fmkIACgkQeGxj8zDXy5Jt9w/9HisaJE6XL79iVQcKXVnwedBehr1+ETIt6RnxSvlrJHbnITg99RuaEloiXddz1CD7gxH8bENwSegGiyspkUh7HDBKXZOd2oMgI9+Y5AU2zxpXbIcSJISwVVgbTwp19SoYNQiYnRvQQYb2AdN1s7/5bloZByT71sUDEmboEGatQGSLvemQf97L7CA7lbpafwJHCZ80gieyGLdievltnbsulKEEh78uqallUIDgUL/bmlfNCnkJhin23aMaEDWgkZM29yjhnKXRfWanWpkDSp0Tx5qOYEryswNyz66GFnnC0pZyt4WN1vkfLoib2AjSMiPqDkgmT9pLvpiP/NtzBh2gGWIA5lntder/0QOM3neoZbtvTlJSXT04N6mcT592AowSqQyEhEpGjmeDn3f4wVjMgmiW4DvADeyScqWnnBO0U1fw0ojZNNuaHBW3/mfpm3N5iP+3BJsBbeJk1nQiTXb8IKDrvPTDyHeayNfn78cOZvECEbaNYYD/RbLSSEegcP5E4DE04unTjOa/TQC5wkup1c0yCwnovqyyyu4LNyn0uf9EbB8TOJxu7YCHmT2+Iof/p1+DZT9OqoaBdqkcm/vO1UrC5bVXWzkHWxAK4GuwRI/xPriZqpXm72KM2tXu1A2+HGEPAUF+nx6tQ7tH33QjVEn5+jNAEisN3opmnLSHBoo=",
+  "URL": "https://deprecation.readthedocs.io",
+  "LICENSE": "Apache",
+  "ARCH": "any",
+  "BUILDDATE": "1587517985",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "python"
+  ]
+}

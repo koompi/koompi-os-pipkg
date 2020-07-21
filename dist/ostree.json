@@ -1,0 +1,32 @@
+{
+  "FILENAME": "ostree-2020.3-2-x86_64.pkg.tar.zst",
+  "NAME": "ostree",
+  "BASE": "ostree",
+  "VERSION": "2020.3-2",
+  "DESC": "Operating system and container binary deployment and upgrades",
+  "CSIZE": "608045",
+  "ISIZE": "3561582",
+  "MD5SUM": "135f427ef860f2f041c257e96a1b9b97",
+  "SHA256SUM": "5e333bbf8ff5240621daaa559abdc1d5ca2f3194ab3484e08c14fdb72af1dfba",
+  "PGPSIG": "iQEzBAABCAAdFiEE82kWh9hnuBtRzgfZu+Q3cUhzKKkFAl7Hx7YACgkQu+Q3cUhzKKnzUgf8DKz8c583TUJvnDjIpocgL5q2LcUGs5pXg9tgHOSa0CdsW4U1U40gv4DbOmO0f4udm0WBjby/cXHModoLUEAUPJXj2C5XKUAdMQ4zOVb8QDdOkpcfhQfcABL9L/moYAHgZcDa4BeF61SulbxtVnvI9nV9c0VlY36HU01cUuVIa2rNT4BaJDwIH6ugxfDg45t1Q947xG5Sv+nxoCW6ai3v8VzHkqSl7mruTgZuZHgGrRcxiO7skoIUSNUTwL9eUY28KAlAUrUNUNbbl3XRD+XqSjQI2HLcKmAhFizMV7HUdujv5f4v0qRueZXpN4eCcPhI6hgydu4kNWoj8DezFrlm/w==",
+  "URL": "https://ostree.readthedocs.org/en/latest/",
+  "LICENSE": "GPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1590150809",
+  "PACKAGER": "Bartłomiej Piotrowski <bpiotrowski@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "glib2",
+    "xz",
+    "zlib",
+    "libsoup",
+    "gpgme",
+    "libarchive",
+    "fuse2",
+    "util-linux",
+    "openssl",
+    "avahi"
+  ]
+}

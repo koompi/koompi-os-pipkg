@@ -1,0 +1,23 @@
+{
+  "FILENAME": "ipv6calc-2.2.0-1-x86_64.pkg.tar.zst",
+  "NAME": "ipv6calc",
+  "BASE": "ipv6calc",
+  "VERSION": "2.2.0-1",
+  "DESC": "Small utility to manipulate, convert and calculate (more than) IPv6 addresses",
+  "CSIZE": "1123073",
+  "ISIZE": "4837145",
+  "MD5SUM": "93b10b4a32692249857c132416b0711d",
+  "SHA256SUM": "ccb4692ddd40901bcbbfc355682cdb2c90aff950cd8e574dd1b01b6d0b9949ba",
+  "PGPSIG": "iQIzBAABCAAdFiEEjVflzZuxNlVFbt5QvgHsIqBOLkYFAl6kIVEACgkQvgHsIqBOLkZ32BAAn+cKqAAnVXdHMcahN6uBcytXDEa0TsT7PfkYboXOsUNaIxsjmjjLYtb8O0UYzqxWV6qGoqlFnxRnsU+zstP996T+GoS8h0gX0ESyMPKtPh+jy+NMiYL2g5l+HVUVj2hTBILCwf3nBOntuhiLQXMh1jfNy1yQvSmR1vDNdXtza1fqLZm8pdDlXr9xw/5yxk9Vx0e2wnpMxLnaq0sTqrwKh6kpROL6FP2TP8iVkghkgn05p7idrYfIUZMrdemIK8Yb14ohFOqF68d0mzdcIcVOoWyB1CWZababEoDlHuhh7MqFDOU3ns++LX6hoT7ktK8oCZUXPxQqZCGG0I6evCH1cNnll1Kre1AwItlPqJvz9YOFQAflNCgETsTj8pZ87qXKWlAvmucbxUMwaKhdQ9ME3HhYhZVPK1Me3PjkjZeFpEA35mY0YBNK8ITzsV/0yuHro/z3FITA91JQdTwexyePZf71YCvnYa2B8+VozEJRq+x9FAi3XOfYbmVCoopyswcZQhvDMETB6gXgrm6vMFNGwmpO2MRuvuyu2ZDVlV8Fttmi2VAHBiGxZgeJlqhzoGr1oq1+U5SLgbBCDlNaLfYpGO65+TQKLB3KvLmsJ6U36UFYZBAd6Q4uXuUaBMHZIVVAb7wGxyFl6plrceKWCgvvpB6uDfySgefxKs2x4p7YRxY=",
+  "URL": "https://www.deepspace6.net/projects/ipv6calc.html",
+  "LICENSE": "GPL2",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1587814343",
+  "PACKAGER": "Baptiste Jonglez <archlinux@bitsofnetworks.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    ""
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "FILENAME": "python-lz4-2.2.1-4-x86_64.pkg.tar.zst",
+  "NAME": "python-lz4",
+  "BASE": "python-lz4",
+  "VERSION": "2.2.1-4",
+  "DESC": "LZ4 bindings for Python",
+  "CSIZE": "33229",
+  "ISIZE": "169935",
+  "MD5SUM": "dfdcfa1e3b55e11963d921d76b5ab48f",
+  "SHA256SUM": "1faf48bf7ab6aa7f96b1bfc8825b5516b7ba19f919508f776411d2197eec4d92",
+  "PGPSIG": "iQEzBAABCAAdFiEEFRnVq6Zb9vwrc8dWek52CV2KUuQFAl5K+9EACgkQek52CV2KUuToDwf/e6sU3V8atxg5cVdJxyQKktucN0xgqXhXO1nW4UWVMVDZADKlOTiIyXSyDCBrwlfRHD/hr/epq7OsAbCMLl9OC8MpL2XbgKp0Q5cQWOHtbRf8SzE1OXMPoJ2mcaMgT8grbMeH9j7X04C6W1QD2XHC4oTwL5uRLc2qIraRjqcXwxev/SfGZiZOuEFS5syCycQzDnrYdRdSSwaEISHuhGwCU0L9Hz8NacvlbO508HlhWAQitSivu72bH84juqtdutSWGWkgv2sGFOMq2HNyVDud1c08nP5+GMFO//N7NZ2FXj4yrEdAI92t8wVPKOmNptDwGjDbBXw5sMEK2u/+Xjzt9A==",
+  "URL": "https://github.com/python-lz4/python-lz4",
+  "LICENSE": "BSD",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1581969926",
+  "PACKAGER": "Antonio Rojas <arojas@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "python"
+  ]
+}

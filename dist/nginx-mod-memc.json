@@ -1,0 +1,23 @@
+{
+  "FILENAME": "nginx-mod-memc-0.19-6-x86_64.pkg.tar.zst",
+  "NAME": "nginx-mod-memc",
+  "BASE": "nginx-mod-memc",
+  "VERSION": "0.19-6",
+  "DESC": "Extended version of the standard memcached module for nginx",
+  "CSIZE": "21907",
+  "ISIZE": "63418",
+  "MD5SUM": "9394a27e80733d10641f2fc45981e4f1",
+  "SHA256SUM": "b4987d3f72f0d3a2b46253d32f8ad56118b0ff417a432bdf4ea58802e0a7aa24",
+  "PGPSIG": "iQIzBAABCAAdFiEE7MrITBugimzI5j+78i+x14p3rqsFAl6gmPcACgkQ8i+x14p3rqtRsBAA1Bwe5DQJMW/tcjKZ7TE0VzViwx+JwFxilIGvE7mPuonKp5Ee3aMrbvQiQ60iNhrJpkcsRbn4ZaH+bE0PrjyxHl/M74aPK3ko9Wrer0pvUiEa4/HY66bBD2Ue9eZJLVKyOJRVjbAqMzMnY8ZBQMTbGLx978DNFoB68vubqgyk+ukIrF0adckjpxQ4Azc/MLVF1hchMgv3DqPaLcIfibXR6N4AmMqiQ1i3js2c1Y2GfjXKeuMo9S1hjzxxt5dgCm0mroM0Dz17RNXkBvTYGttTuhmhEAzfhMdwVW3PZ/KugVhRU885f8x6zMCF3/aW0wQRUKTcoFw7muQkaAoXgo5DUN/g0objQCDuF6B/wWwRyRxJlAexLa6B3JQa6fuGUyqzXuLeqaulTtXXlhigo/Ku07QahRB6rahchagUwiM0Y2688tzw7j+LZYrFy0LSMyTGErKg5SfNbRelqgtuDNGklvdmUf+FJQd+QjiMCMU9JM5TK3GOGrFccszUykiO8k2xKFg3vlM04fGo7nsFB189Mf4G37SjhRc87ljvxUjYCtHHEM4csROqhlH3guznaRtf868osdSAAdbjMVAVAKnVMQyEGnpNb28WKUuMxGkBuL9u5hmMa7fdqMuq9mU38Yr4lIE5O5c17/9qDcxJHgFDIVyr2JxkA0xlAdQOH8Tq4FU=",
+  "URL": "https://github.com/openresty/memc-nginx-module",
+  "LICENSE": "BSD",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1587583196",
+  "PACKAGER": "Giancarlo Razzolini <grazzolini@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "nginx"
+  ]
+}

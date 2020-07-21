@@ -1,0 +1,27 @@
+{
+  "FILENAME": "switchboard-plug-applications-2.1.7-1-x86_64.pkg.tar.zst",
+  "NAME": "switchboard-plug-applications",
+  "BASE": "switchboard-plug-applications",
+  "VERSION": "2.1.7-1",
+  "DESC": "Switchboard Applications Plug",
+  "CSIZE": "82692",
+  "ISIZE": "285109",
+  "MD5SUM": "a884b7b4546bb37ef413dcd2eee90fe4",
+  "SHA256SUM": "2a524f19287f8523852fc6e66752cf55edac66c4aabe0aa8d4466a61de58b6e5",
+  "PGPSIG": "iQEzBAABCAAdFiEElDfdOBWnqRaePTlGr/XZUJi8b/UFAl6OzeoACgkQr/XZUJi8b/XCSgf+MyaZRn+9A63gnY4KZ5zhtawrzt57ZsY+LGPLyw8E/LpEudqaPv4ICPu8P4n2RDVngljqGBBTrBmniJQyq2IAF4yryHXUWvy15R3r36Dit2yGzXB/Ovx5jF91pA5S9z7W2FRrf9PXOHOsxhUqSDKkNVrHnZHV3Nx0NcjYhPR7Iv8BHYjIDjRy4n29y5/HM4zo3VKFxmQyg+8KKK/BdKDi/oMUpilsL2zxSrmW3MDtPn4BgEarRIiKUCnbeNzE4H/DSqHbkRg18yN6LLgVWaFne3iqJZMHcfEnUpcWKBzN5jaotaxsef6NLouyOoDC5kZvetKDoOKKJZ5/aTAzR2D4dQ==",
+  "URL": "https://github.com/elementary/switchboard-plug-applications",
+  "LICENSE": "GPL3",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1586417088",
+  "PACKAGER": "Maxime Gauduin <alucryd@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "glib2",
+    "gtk3",
+    "libgee",
+    "libgranite.so=5-64",
+    "libswitchboard-2.0.so=0-64"
+  ]
+}

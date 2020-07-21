@@ -1,0 +1,27 @@
+{
+  "FILENAME": "ibus-libpinyin-1.11.1-4-x86_64.pkg.tar.zst",
+  "NAME": "ibus-libpinyin",
+  "BASE": "ibus-libpinyin",
+  "VERSION": "1.11.1-4",
+  "DESC": "Intelligent Pinyin engine based on libpinyin for IBus",
+  "CSIZE": "856772",
+  "ISIZE": "2401260",
+  "MD5SUM": "92a95eb87a0e74dc53d4b70e67a9eb66",
+  "SHA256SUM": "2c6cd3990c55fb7f62d8000d8c08516ffe675b67bde504cd9760596c20a09553",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl7ehD4ACgkQeGxj8zDXy5LV1xAAn9pcAC4DQBEG14hflvoRUPM5YUT81TR0buYYFUo3aDsUmTPgqJ/O99YGNj4HCBLqyX4j4xo6/Wt5fUrT/6NaKvUv8hK2hdzVpHZzMuCByEUJkFa4/xrygKPElZ9gQYw8mPzpjPiEqaxyMgE4eVNENUSlgcUgyvNRMlMSmoKUTrn3QZUymEdboGRIp6TPaEjKaQh4LxBFAv1rcd6DMEkx8aNNU2RPgZrHoYVXj8H9aAkbO9R1dKRNWamie6p+4wIaGGj4h1OOanW7sxt7StbnSvKO5ByYfJUga6LUpqwRyp8Aw4bAUhxdFDpkTv1xKZJ0CBYLiCyQB0pu0jczDlqEEBXsTIS/65CzoEtQJ57d0+DTLQAiNs9Fz+b8D6crCgNoBX0BLGjiK1QnE0fb+l4lz8v8nt/DW+x0yS++4cYiPcIjDcBSbzzDFjypZcq8AI4eW4wQGSA5Vvqe4PcUWZM3mbwxDVljiMcIYi6TMjXIndDbgaER5N54kbMowjtGipG0Q4TwbtlFZNTLOyNOLoMfNYkU5BE2xZ9cLaUzzSMxcrSpUAyDMy738ahnSb2HubLA0noorsl4Vt0ALID7GXTgBnWS4M128HaKIRW/9CS7HJmtobN9BQLap0n3dmkgNQ2o5ZpbYEZXjm6dy4Yg2FtcUaPstrbm3oNVCFJbWUzJyWE=",
+  "URL": "https://github.com/libpinyin/ibus-libpinyin",
+  "LICENSE": "LGPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1591641057",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "ibus",
+    "libpinyin",
+    "lua",
+    "opencc",
+    "python-xdg"
+  ]
+}

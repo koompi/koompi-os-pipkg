@@ -1,0 +1,25 @@
+{
+  "FILENAME": "python-pywal-3.3.0-2-any.pkg.tar.xz",
+  "NAME": "python-pywal",
+  "BASE": "python-pywal",
+  "VERSION": "3.3.0-2",
+  "DESC": "Generate and change colorschemes on the fly",
+  "CSIZE": "77140",
+  "ISIZE": "276500",
+  "MD5SUM": "6c9d969ff872e21c43a52a53bb390ee7",
+  "SHA256SUM": "ab6f59f5c654e7d71000de789312d404cc2afcabcc0e748eea79bfb9e968bad7",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl2/1vwACgkQeGxj8zDXy5Lgsg//TOqcJ0o2DknMAOc3uFnViU/uYrVJuSIU7LB2Zdoqq5pAb5JNcrHveNVZ0jwfSDFVj8QNlQ1w8h6nDJyvQXpsWjZs6DZLroXKl8+u76iwxUjUoiY+bDWARnz1wsIWUlDKubIaZdJC5IIrnmC7pLuIxIfpa5TMPCxtvEzHXQobEq8QglgfxTcl+JXX6W+q8wDjwqvoJN/DinwbwLi0oje+4siKNgEpXxlVXw7F/e5iCfpemsDtWLKME+PmwsmwPMPgD8wpEK4/lubwZJiUjPsspNtR6/EjT/v3KPIkt/RKWyhFwJNWwbvUjiKqzIggihDhKo+FyOXL4pRTknrRdbonPnck6PGi7y22Zku3Y6nc+7G/grrjwXO+y3KUWm8Ziqz4+oe+ogShNVQnAvX0Ob8UVajq4+wjiSKxq85j2LX+yJ8q8AI47aSsOzktvBdm6s+86lS43FBIC7vkZwpIoXolq6hm8KV7WU5RHKrL8Lwl9jC3rIyNBxxcMUxAjgI8jx8kb71UUUKLtFoAY1NV/g4QrVTJkxpJowydtrYZeXh2Q0VHYE8wStDWYQfuDPAdOHxLB2YVxafKCWgwsWAWIGtgA9Li258ycQLtFCze43Zg1ngS5tyZ1BeYzf/8Amiv2gT4K98fGevqMmIFAZU//Y8Djm44FmjggJ3eTkhF8gFsP70=",
+  "URL": "https://github.com/dylanaraps/pywal/",
+  "LICENSE": "MIT",
+  "ARCH": "any",
+  "BUILDDATE": "1572853469",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "python",
+    "imagemagick",
+    "python-setuptools"
+  ]
+}

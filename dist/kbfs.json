@@ -1,0 +1,24 @@
+{
+  "FILENAME": "kbfs-5.5.1-1-x86_64.pkg.tar.zst",
+  "NAME": "kbfs",
+  "BASE": "keybase",
+  "VERSION": "5.5.1-1",
+  "DESC": "The Keybase filesystem",
+  "CSIZE": "25736537",
+  "ISIZE": "113845887",
+  "MD5SUM": "7d3d08b4fdc2c33c38719eaf0e5bad7e",
+  "SHA256SUM": "830193d4ae7bf1cca2bb4bd50ec7748938c03f98d3d0c7692c02ef57c33a8593",
+  "PGPSIG": "iQIzBAABCgAdFiEEYEETBMCdNmKDQO7/zrFn77VyK9YFAl7PNzkACgkQzrFn77VyK9YG6g//RWcKtHo0MxYdFc/ogzc0UMbkjbBznHqemovkWvD/aZDO5iKKX3zv2jLJcZR310/UeNeTkGrB9kW83sZUobb5uT8ZmhhPdBvsMiFZsu/D8f+xNLjiS/6pfmJpHFqgr2lSPc6lC718+cBM0Egpnax+lz09QqM9tL5nloHIMRcuXsK4AlpipUrQmyJ1Le4ouDgynpZGrrIuKcIJvln32Fp5OwLhXTs1QGSoxT4DzxcUIrrjs5h98Y2JZacmHqdfuyPL+dWKdBQtxqNu7mkJSOjKxlHcqenlVM7fmC3SfmOvw+QuKMevrA8tTpTw9CSIoQDi6zgYo7vbO9RVQM5lTjMm0Ry1ncilxK9GsR8/cwN6STbCO8hXHPvyfORO59AuDiYUvkTKQxx0Zveibpneah8sKWD9UQS0v7Shm6xjh59v8cRGsfvHeOH13Hqhn3wpk1TMXH5AsJAqSwxeg33W5g7Du0w49PCDqh/cOSytselppB2SiVyjfwJ8TKUJp4ZFGlAKP8TJoSxXy0KGGhxb4SxlMcaRkJyHYfmLrb9pUSgMMXYXj3nL1OBLrpq9f4WD0iY7EIvUmReTekUHKxd3vaYJLYMTxaXVVRv5Lv5TZSbP3jLQIceLoXU8WR9ya7odVFGCVe+bAnPlZrEDMvY2LONMoPmMM0BqIYU+YkMkT1DdBd0=",
+  "URL": "https://keybase.io/docs/kbfs",
+  "LICENSE": "BSD",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1590632021",
+  "PACKAGER": "Eli Schwartz <eschwartz@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "fuse",
+    "keybase"
+  ]
+}

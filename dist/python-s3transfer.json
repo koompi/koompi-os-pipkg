@@ -1,0 +1,23 @@
+{
+  "FILENAME": "python-s3transfer-0.3.3-1-any.pkg.tar.zst",
+  "NAME": "python-s3transfer",
+  "BASE": "python-s3transfer",
+  "VERSION": "0.3.3-1",
+  "DESC": "Amazon S3 Transfer Manager for Python",
+  "CSIZE": "102606",
+  "ISIZE": "690562",
+  "MD5SUM": "5287e798558c774b90a0d11118f552a7",
+  "SHA256SUM": "ec316ca9945fb422195a10d262ce946ed29ea46cbf15519a022ed586b6b898b4",
+  "PGPSIG": "iQEzBAABCAAdFiEEh0L3U157OUobBIFjMyycQPQNIHIFAl5ILqUACgkQMyycQPQNIHIkxAgAgKVAyp+3OhPc8J30bqtV02eSoLXm9uz6gHDLVdx4VA/dxnAJyXX2jVOQmGZWroZB48Upt7AZ8lGTf7wkMvMyvaYZUrqSdq7jWcSjb0NPqesiEseNIA8ZHBm8krW3V60Ovgf1F2yGwoNrfnfkCQQjK2xT9w+kWE/xaKCV57xcBVmxSk6efGSie0VEJ/KBLnjapi2ojNSQ5Tzxo6zQOl0Bv9hxFplqWkqo0/hLoiJy1GEim5iybsOiW06qF5Dnz4ix9nQX3/TO/2cEeUUqRYyEoRVECpou17wvAPB0HjxPCY/DxO9Qo7NQht+CSHUrMcvFBk5K6h8F87yEIihJTr06nQ==",
+  "URL": "https://github.com/boto/s3transfer",
+  "LICENSE": "Apache",
+  "ARCH": "any",
+  "BUILDDATE": "1581788791",
+  "PACKAGER": "Jonathan Steel <jsteel@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "python-botocore"
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "FILENAME": "uim-1.8.8-5-x86_64.pkg.tar.zst",
+  "NAME": "uim",
+  "BASE": "uim",
+  "VERSION": "1.8.8-5",
+  "DESC": "Multilingual input method library",
+  "CSIZE": "2941529",
+  "ISIZE": "12535872",
+  "MD5SUM": "8185cc7220aa1c534aaef14988971c38",
+  "SHA256SUM": "60ff89e5d45c6df303751bd8345d7c411c767397a2fcf57ed14aed77448c61b3",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl7DsMMACgkQeGxj8zDXy5LlhBAAj8jD68OBu8fZvNieUorO54p4IQpidpgJxcS2egvy14Qh8K/OSllq7/Kj0FMHFSf3H27q9QqMZDeoztKN0gmuiLg7WiR7+OqLf8PDe0nBB/dak8S8BtHks8EYJ9v5A7jPRTNkeQsQ8Gp3KdbE7bF9B+9ynM/wELrooDU3kjxzSW7UtKBFkHDgSakS7rmZx7JppJQke0VXRVkOtJ05RtOAAmAPTq6KMUcilcF4hBnCX3iA20h8lQG8dn9+YjMaTO8eCoHq60KdyZMWLgJK+CrbFFj6ENzbabd0YBIk31ir9FiF1PFimBwgfyCID6SmBJQUFzm7cN8sNllSqUJn8ntWQVF53J50Fq01+BG0zEqGP6EPmBUp+zvBo5Ofy4dNYnDosxi8xlMfu7UikbPfGQKspVnWM3jL4qODiR62noYziXnjlPlz8+axWL2nIAf5TTMhPNJpMdgbloDFTdlWJ2r8KU7nJnVah3pugjRhJXBJuwBRcBHued7v7H1yuDYnzKVuKqLsmj01pnYnSkizscNkSZp97R0iE+ex7WDfCKFGUTSHZqrXr7zX7jXbMMDVx/5LByhFvIA7wDUk/5clWvCGJXTPCnQ9g39eVc9KzzE2pBgvxr3cRSABVHBlw+DVB4IPqv6VHcx557GLi7kUhPr7O0PbM2dsnnwGqHv5hZ/SXNM=",
+  "URL": "https://github.com/uim/uim",
+  "LICENSE": "custom:BSD",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1589882935",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "libxft",
+    "libedit",
+    "m17n-lib"
+  ]
+}

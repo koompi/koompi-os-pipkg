@@ -1,0 +1,26 @@
+{
+  "FILENAME": "lib32-vulkan-mesa-layers-20.1.3-1-x86_64.pkg.tar.zst",
+  "NAME": "lib32-vulkan-mesa-layers",
+  "BASE": "lib32-mesa",
+  "VERSION": "20.1.3-1",
+  "DESC": "Mesa's Vulkan layers (32-bit)",
+  "CSIZE": "269237",
+  "ISIZE": "636891",
+  "MD5SUM": "1cbda2b68c643948f936c25f674b9764",
+  "SHA256SUM": "9cfd62f1102eb7e1f9ed330a382ba012999b5a105ae263c05b0aeac0d2233e50",
+  "PGPSIG": "iQEzBAABCAAdFiEEU1+MAzlFDwVKTSgnBglqatHO3awFAl8GuBAACgkQBglqatHO3ayYWgf/ebIbQHgDwPdeIoHGDVP79vtI+047VS6ULcydHU0+vCzTM5UYWBoPasaXD7H25PEYDonIzekW02QRKFnTg6Lix9+Eax5pob7cv6NlZvwaBqiSORDwEfgmv+iYr7FPBawOXFIEXtxffhBHkDZQ5X0yfiMIKC8tXaU0IIcHpMyCjA3f8/MiTpdetHgQKwK60IZywj0RHToKIDEhjO21tXl6yEfxoqWn330T+D/DFxPoThEXK4m71gmAZLWPC2ijcWv9fiXcFcYbSs40lxxjRA1FRwCAzJO92Q1Bithz/Lbe85SAs4Vy9uiQAVKhOzBn41qi421tv15Qi7K4x1fSGvimiQ==",
+  "URL": "https://www.mesa3d.org/",
+  "LICENSE": "custom",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1594275090",
+  "PACKAGER": "Laurent Carlier <lordheavym@gmail.com>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "lib32-libdrm",
+    "lib32-libxcb",
+    "lib32-wayland",
+    "vulkan-mesa-layers"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "FILENAME": "bluegriffon-i18n-nl-3.1-11-x86_64.pkg.tar.zst",
+  "NAME": "bluegriffon-i18n-nl",
+  "BASE": "bluegriffon",
+  "VERSION": "3.1-11",
+  "DESC": "Dutch language pack for Bluegriffon",
+  "CSIZE": "623717",
+  "ISIZE": "739472",
+  "MD5SUM": "d6c70e3046cc2f9d7b49284b498c96a3",
+  "SHA256SUM": "2d7ff79169783b0b4a5e86b56de630c656d2f40c497b00e33603cd958e646181",
+  "PGPSIG": "iQEzBAABCAAdFiEEhs/8qRjPOvRxR1iAUeixSKmZnDQFAl6m7eEACgkQUeixSKmZnDQo0gf/XAJ603BVb4Xi6bw56HshN2G5EiFTzIOJJQzdsqz6Kz4uV1ozvgzaTeEoEGmD6UylOrNJafWD1+/Q01Vs96YxS+9W3tHG6/f/H2yDI/oOyUJK1VK3bro85veJfH9j6VA4MDP70diVlDXpW/dHSvJchOFX9sl16jXE+OYs0aMbGNwQtSr/sxnXobqnSXaIwWWuC0VeZJHlHGC2B74TKemCzsG9oyuunZS+tAjhIIF9xDoEp+lOX5g551PUD0CduyAfuC1hA3d5z9bq8NhqEYq4YKxBgFlqNXEPb3pMwR6jLEEX6wPr5jPXkBWDGeO5bVPIcQO+ItART+K2Jdagf59IlA==",
+  "URL": "http://bluegriffon.org/",
+  "LICENSE": "MPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1587997405",
+  "PACKAGER": "Evangelos Foutras <evangelos@foutrelis.com>",
+  "PROVIDES": [
+    "bluegriffon-i18n"
+  ],
+  "DEPENDS": [
+    "bluegriffon>=3.1"
+  ]
+}

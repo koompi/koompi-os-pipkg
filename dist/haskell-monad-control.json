@@ -1,0 +1,25 @@
+{
+  "FILENAME": "haskell-monad-control-1.0.2.3-72-x86_64.pkg.tar.zst",
+  "NAME": "haskell-monad-control",
+  "BASE": "haskell-monad-control",
+  "VERSION": "1.0.2.3-72",
+  "DESC": "Lift control operations, like exception catching, through monad transformers",
+  "CSIZE": "28945",
+  "ISIZE": "168134",
+  "MD5SUM": "1a9c86ca8613a2d6c360cca8cde7fc17",
+  "SHA256SUM": "cc892828e9e998306839a68467f1f348c9c6f7d5deab50394ef91f49a4ea432e",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl75KYAACgkQeGxj8zDXy5J8iRAAmoGGX2lOxXIEGx3ArJMHkaPCOncCY1c20mo5xj8gnWIIaH6ryfMmkEDmsauJ7XBQMai5qLiihamE0NDkRwTej+Ijw+z7PZ0YbrshZqFuTV14aY1xvviv5nD+W8kR0dNA+p5tlTqIreOvfoXSV3P6P30K0AiQG2PHXQ0bPI4EyPJAAq/A4hGV2TJk/ZQFToeV3ANcAWxGk6IEDRMqR3XqjHkvoGoNoVN+/PHTXonQq1xAeHIhiCAKbkZvezf59JTuew1ghb8VJEY/oDflHOEfluXinN/GbLvXBFqvcRLPkQKobHhReYWRffUW1DAsXMWaBzJ9zcDMejQ6TJsiZ9rA+sILg46Nar9zVgewMYOQPKps3WRWlGKGPyc+2X5UFm2lUM4JZButE5iOsuKzv1LxCASrg+GLN85Nr5t02Hm0DM7IJmIVQ5BeaaVlbZ+ZN7WVq79Gljpf1rdE5jGwz6LAUaOYWjP5Hf+5RerGZDhnW1RMmdSm9plHynyf3UDbCvn4t9KzX0eX3A0lTeh1nGT3WuP3inY71R8cK2bJuapJBfafaAe0gpEa4kfYXf4aczU8XhO5H2sEaVJXFnCHgczCje1irC8knTlDQLViXwrO9r5iHosm9O++SMfqtz3fDpPQvB6jR0PGdatgRDTnIjLHhSWbswo3/8Hs+7voq9rQ/pQ=",
+  "URL": "https://github.com/basvandijk/monad-control",
+  "LICENSE": "BSD",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1593387371",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "ghc-libs",
+    "haskell-transformers-base",
+    "haskell-transformers-compat"
+  ]
+}

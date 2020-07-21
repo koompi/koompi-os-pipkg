@@ -1,0 +1,23 @@
+{
+  "FILENAME": "brook-20200502-1-x86_64.pkg.tar.zst",
+  "NAME": "brook",
+  "BASE": "brook",
+  "VERSION": "20200502-1",
+  "DESC": "A cross-platform proxy/vpn software",
+  "CSIZE": "4283017",
+  "ISIZE": "14747016",
+  "MD5SUM": "9d4f59edae6699c1e3f8bbba18806ffd",
+  "SHA256SUM": "a7d6a48553b67cd7a91da6ece984a3d2872671902fe751a4dd0ba49007823d33",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl78wPwACgkQeGxj8zDXy5JWbg/+OEZrtmcBNAoDh1H2ArNjyBtIJmG6p93Wu8r6qnFgYC9U4e6Ao0R60z98ADZs9+8JoAvtCc3VNYWJNXpMHGyjuHmdb+2x1G3Jj4MEHYutkO+gP5/INjNgGpUnXz//cAQXHcB3u9KRj/89A6m+XYSUxyrLQb34Yp/LFdWR6k97/ecXoFCWafEDrdpQGnARSqnwl82hLExBEqghVd353utvUe2OIinVJFaHuCHo/FoOldlTWqO/ehahVmk2tdWXmohKtalOChrKuM96uGppWu73ZwmhNUYdLSVvJah8nN8j+PI2L2aP9Mp6cvrPubryAmtM4BSZwMtiNAj/G2P6RCZnO24T1gmQagEAtNxQ5A9Kyobfoaq3AqO34CjGid54DKv2nyEKN77YKpKf78pY85xpSeH8bnIopoea3hFPA/H+U++ejoJA2fFr2QTwJC/TeOeC2n47EJzdINQbQmuLR1mCJi9hh2xvIBH1A5MTl/r+A/gmk5e+pWhmPWZOQYwHFaXhKM90YKVVAa7/3ywamNOsfFfAxRXqdrIXYg6sa1vLXOCbLNUiXTJarjWK+pcMrlTKtfHZ5Ags1PFXLu2svfO+8vy0Njir+CF9v6nhXv7pDnWBmefE3Dc/InwPYUKB2LsQ1QuyMCk4CGgi6Uxy5eTSwY6hnTpFB+qk32BOMCe7i1s=",
+  "URL": "https://github.com/txthinking/brook",
+  "LICENSE": "GPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1593622661",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "glibc"
+  ]
+}

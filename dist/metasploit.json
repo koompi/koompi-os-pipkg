@@ -1,0 +1,31 @@
+{
+  "FILENAME": "metasploit-5.0.88-1-x86_64.pkg.tar.zst",
+  "NAME": "metasploit",
+  "BASE": "metasploit",
+  "VERSION": "5.0.88-1",
+  "DESC": "Advanced open-source platform for developing, testing, and using exploit code",
+  "CSIZE": "68446797",
+  "ISIZE": "300290432",
+  "MD5SUM": "a1182dc6e51fa59b0772d7369e7bb62f",
+  "SHA256SUM": "de9fdd266344ceb299c2f95cf50cd85104acc9278ed8a924da5fcb45db7e4daf",
+  "PGPSIG": "iQIzBAABCgAdFiEE4kC1fixGMLp2ji8m/BtUfI2BcsgFAl62o4gACgkQ/BtUfI2BcsiXgBAAjCnxt9nECuwYis02sYpOES17XSt0jxy+pYDHyM5yt3dCinLigyDIZzl81Rh0TCsG3aXCUhhKKoGUwKPEbvu7oY/sj1OQQFKu5opQm4d8OdybZHhkJ/kywJh9wQRKAk8GEfJ01jrBKa2IV17KEy/tEq1+yk+yNkMb2nr7Bj32wLaxxKje/iW3phNCOiBy9wLQ3sMtXUhDIs8XcL1BtbOX2nq5VpyVQ/JcqtIA/ngQtEGX1hGSOmE9QNEGvLvwhn8e/i/GOoftyNA9rEdOpW34ywfz3krEnwyLWh0RWBquyjnVmvQ8BMJaya0tSS6F04ssbtdCIxVGIvtuHX0++yoXAQuRVGmLXGpdFdA525ihlfe2//QDCj4rKg2Hxmj7T+eNGfNwCqRNKA7s6vIizNjlpNtcpgvYfioYdbRSebaUbRZdZXjIqqE9aS/7W9WP1069SA8HPtLx2GVd0vP1mlwJvjxXfs2OHuE+6I369NZd9IT32pSPdDnHK/cL6RcP0/Qoot7kkEk/6ipCvJRKzYzvMB52kZ8qG5iR2K/OkKBKMeHjNS9oKW6aOeuweV93alkhakpRUJ1GV+F7cwI1e5x2O/9QmQxebUs32q8aul+xPnNflRhvjSVyN7u6qUZWX6HLJxxisrLAMxFBWEqu9FzpOHirAAG28mrWP7zCnOSHmkw=",
+  "URL": "https://www.metasploit.com/",
+  "LICENSE": "BSD",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1589027506",
+  "PACKAGER": "Levente Polyak <anthraxx@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "ruby",
+    "libpcap",
+    "postgresql-libs",
+    "ruby-bundler",
+    "sqlite",
+    "libxslt",
+    "libxml2",
+    "inetutils",
+    "git"
+  ]
+}

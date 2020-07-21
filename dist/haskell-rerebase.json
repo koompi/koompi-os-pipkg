@@ -1,0 +1,24 @@
+{
+  "FILENAME": "haskell-rerebase-1.6.1-17-x86_64.pkg.tar.zst",
+  "NAME": "haskell-rerebase",
+  "BASE": "haskell-rerebase",
+  "VERSION": "1.6.1-17",
+  "DESC": "Reexports from \"base\" with a bunch of other standard libraries",
+  "CSIZE": "238261",
+  "ISIZE": "1953060",
+  "MD5SUM": "78d067e15b460682cc0a6ae525ac6240",
+  "SHA256SUM": "d265bd56cd279918d09255263e04844f6bcf1f364f73ae60ea5009f8d781576f",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl75rZQACgkQeGxj8zDXy5IYuRAAtSD2Wrmen6cV/9WCqOQJmVhzv70nrBu2Yqijy0kyYiioH6FgRjdCkUjxErIg6boI9qSe4cAWCRGinqzfzrfvOQdmg5Yrfxd7P2YBLWGRfwr6iBp0elfhGZEJdDwKAB+Umi6GJUv4Az6B8fT/ZqD+o5TS0lTX+S7CWaAJMoJFS2nwAX3OCePMKVomDjFy0WjZ47fVfKo25fMQh+AZytypkVI042ffT/zZ7767aU+nTtU108ze3+ACM75hkVzyjuVEupyWETCUQz9nLRfIjASJFY2Pyjfj1GavT2sbmNJtCNjYlWCghM52frBe6WvsQicLHQHE/AMQ2gUbIOAg09eZTuPtU8KWtvzskm4qCEvZJThweFR4Ef0abt3cVHFsCJ7HMttATpgko3VJhvCpy4h5+ot+RIjV4/UEwlFqHmZoSaaFmsWLqt+sr9I0e/vyn7JKbVRfmeGTHACMNfyKQZl2uPb/ez2KIV7mfAa/JWgGD40crClWnv+RoEHI62tMM2b+Mm6/Qgzhty9BImr/4zqMbjY+eEils0ID8ESUz43QJPKO3RoM5fNjRu4/jMW/N79CG0lczh6OVgmOCWFVsinceNYtG6b/RQxjWdBV47OH5zzAcKf6aJWE/dumdfYVpCnjJYmlnPK0BMYpCYf6k/tzNBQzX0SibI7Tn3aTth8n0uc=",
+  "URL": "https://github.com/nikita-volkov/rerebase",
+  "LICENSE": "MIT",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1593421174",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "ghc-libs",
+    "haskell-rebase"
+  ]
+}

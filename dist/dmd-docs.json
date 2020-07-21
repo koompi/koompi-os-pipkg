@@ -1,0 +1,23 @@
+{
+  "FILENAME": "dmd-docs-1:2.092.1-1-x86_64.pkg.tar.zst",
+  "NAME": "dmd-docs",
+  "BASE": "dmd",
+  "VERSION": "1:2.092.1-1",
+  "DESC": "Documentation and sample code for D programming language",
+  "CSIZE": "2633283",
+  "ISIZE": "58920096",
+  "MD5SUM": "503f02f57f56a726669ea05f3e9d6401",
+  "SHA256SUM": "abce4272d26963e422b7c2f1e3edbadd5520771b05c52b1ab2d956f71f1ab823",
+  "PGPSIG": "iQIzBAABCgAdFiEEhsATU8sh1GdlMu4OnwqcF7B4bxkFAl7nrsIACgkQnwqcF7B4bxkQqA/9EnmGmw62rFdYRbwpyVIdsvUkFgS1k7ms/JivwZXv9S4I5E2EkT7MPnNw/QPh3CB5+2SOwOB0Gfgi+XIELVn2G+fqrie82ocJVhIt8syZzppofobYX20dwMN0OhN4M2iJy710gwpPQfrquG+8wDLfzedRDVXiS6Ecz9AbrkHuskHnuOI23Q9L6j4nCRtlE1WIkazysLy0WwsRX3GEnhca1HfHCgUMeSTtp/am29zqtdGkDb038LKjlTQfoL+az9XxAolQXzxcSz0B969IHu9+OOiJMwS/u60B1hE7SyyeyufYgwJd/1EUQNuWXZUDY27iQDgCfYSPI7e68j8tW331LdxX6f0lU4WS1b7J/GemGO/PXu70pm6rKyb9KCwvozuWa2BXbg7q8smZEzIH3nfVLU4UinnESCE4rdNIlT6kidKCyYaiIfo2kWEmtDCT7DhKoqjxcYrTd3EAQqVbWtMvq1stT/4iEy7omeIUif27L1YIC0qZ87p0lOjN94R0Uu25/9FhbE6Ghh7PvaY1vhuGHqQJ6l7UmiMcJ3SeM2Tj7dud7mH0tcWY6b3juHdZr0hL1lcKseQygHgJ9HKQHG5vV1anDtAdzEll6LlARwCvbD/mwAym0vcHaAojWhp4mYfEFTHOjq7B+OzYNu+Sp6lomjwiWGZ+wNhdvUukqIA/p9M=",
+  "URL": "https://www.dlang.org",
+  "LICENSE": "Boost",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1592241335",
+  "PACKAGER": "Dan Printzell <arch@vild.io>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "dmd"
+  ]
+}

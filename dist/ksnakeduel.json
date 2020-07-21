@@ -1,0 +1,24 @@
+{
+  "FILENAME": "ksnakeduel-20.04.3-1-x86_64.pkg.tar.zst",
+  "NAME": "ksnakeduel",
+  "BASE": "ksnakeduel",
+  "VERSION": "20.04.3-1",
+  "DESC": "A simple snake duel game",
+  "CSIZE": "714700",
+  "ISIZE": "1654972",
+  "MD5SUM": "21acf785dcc0e368fce2b929aa644d5b",
+  "SHA256SUM": "0a51eba4d003932262dfe18254a70cef2a2214dfb402181f70d3921b93f518f5",
+  "PGPSIG": "iQEzBAABCAAdFiEEFRnVq6Zb9vwrc8dWek52CV2KUuQFAl8HBeYACgkQek52CV2KUuSVtAgAhUTuTUkSuSnsLly8BuMuPFDIRbr+YHbkx50nkbcbYmRMrWdYuVDyqeLNCGhYJIA7pyh/0QEfB3TySUIdd07rypI2C8cfcYMFVS3RQrKoLm+NE2DXpOLeOrxiEhj7yFKO+GKVYLNgCXnAofIsrKmcomnCZECMegOCldtOokId0pN5bnrWU1i4KeGFtC2OD2BYQi8ur1ot4Qc5K1bIIDPig86waBiR40Z926T9uDoDnLX5a39e8PB8kj4ivCxkC1KhN581cjhWVl1BXf0ecogRsUbC0VHmdQidsy0KG3Oy0UtsylM4LdwPAQzWLDCtTJ+SYPkvMsNF/dzImVwBmtbBag==",
+  "URL": "https://kde.org/applications/games/ksnakeduel/",
+  "LICENSE": "GPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1594109174",
+  "PACKAGER": "Antonio Rojas <arojas@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "libkdegames",
+    "hicolor-icon-theme"
+  ]
+}

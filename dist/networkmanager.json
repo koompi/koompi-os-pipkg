@@ -1,0 +1,35 @@
+{
+  "FILENAME": "networkmanager-1.24.2-1-x86_64.pkg.tar.zst",
+  "NAME": "networkmanager",
+  "BASE": "networkmanager",
+  "VERSION": "1.24.2-1",
+  "DESC": "Network connection manager and user applications",
+  "CSIZE": "3401882",
+  "ISIZE": "16533908",
+  "MD5SUM": "00744e0d04241b6281e6e872cac9db19",
+  "SHA256SUM": "490abc0383e9a03c8ab145dcf04531ce37a01c55107fec3bc30ca4acfc335c1b",
+  "PGPSIG": "iQEzBAABCAAdFiEEghj4iEmqxSLpTPRwpekojE+kFfoFAl7RNdUACgkQpekojE+kFfpuEQgAnjBoVCBi2B/M6mU6NxX6OI+EJAijtB8p46Rs2RCOyA2xylDAp8RLPIEYojRXfqSGKZ/wq93eDNj9+uVy/usUqnidoAg4UdklkkNm6UHSCtDa+CuVUZ3uptpNJ7GKcjk4r0R4wfyWBHqBxaF+K6crRXHtRCzLCplxC9uUSb8Sex+LBTRSIZUrfZuNPRE0nFEquZRK3W4CqZwFLgUdlrXDUoQ8AdpXR+ahOq/i175uwC+iNRuqcEdWYZ+utGYk7TQ8JQHQSsseuvAagSAO5RptFbaS4g9qkN1lg7ISoHvmGgkyomQvo0PgAPeOQX/Hd4Ygmbhk23p6Uxdf6piTBIQlig==",
+  "URL": "https://wiki.gnome.org/Projects/NetworkManager",
+  "LICENSE": "GPL2",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1590767922",
+  "PACKAGER": "Jan Alexander Steffens (heftig) <heftig@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "libnm",
+    "iproute2",
+    "polkit",
+    "wpa_supplicant",
+    "libmm-glib",
+    "libnewt",
+    "libndp",
+    "libteam",
+    "curl",
+    "bluez-libs",
+    "libpsl",
+    "audit",
+    "mobile-broadband-provider-info"
+  ]
+}

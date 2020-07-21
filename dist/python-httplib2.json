@@ -1,0 +1,24 @@
+{
+  "FILENAME": "python-httplib2-0.18.1-1-any.pkg.tar.zst",
+  "NAME": "python-httplib2",
+  "BASE": "python-httplib2",
+  "VERSION": "0.18.1-1",
+  "DESC": "Comprehensive HTTP client library, supporting many features",
+  "CSIZE": "117340",
+  "ISIZE": "376255",
+  "MD5SUM": "617207cf771e861a64d71421413872dc",
+  "SHA256SUM": "d5c468093384e6887b9d11e0ae484e785855c1918dcebff63b34e3231866068b",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl7H39wACgkQeGxj8zDXy5I2qw//So3XpDW/SQdOxkfKLjaq6O3/mdN9XZGUW/mnlARRvDkSsv//lusHypvNa8QpT/WBDGhwKUPzF0ab+nwccL3y9oGCHWjzpTPOrFrGoBpDR7oVK5wf+NOoiCBqLLbgDUzfhHRtrI9vI3njqe4OC94Wu63n/RIIdQJNi67ZaHIhp4z/oFNkp5O0B19vfNYabRJ6ladhVRZPNwdPMnfAC4HiEludHd24CJZI8x4o6fJKTETWU7+8wbUqtjMr6FYPLuo7NoSpSLELM+xO7lXyZf0L6tkiIYhoVbpammSFSJwCKDrxmcg8Lec1o6H/RXmtv1Hs3RJk0tcu9dY/bhxxoXxHXO6gGe6nck9Os62yw5FlzNmnsoCy7IvCdaQoomPbUh6NFNK6CB7C2AYrk8juCxfgh5SL97hEZamslAl28C9K7PhplzECYMBl2XL6h1TaKTQDzKzdvdL60/ZDbYBAcocAU2fm4vSobzNAojUjvYGrhjNrMKqbqAND93Gi2rl9SM3rtpZ9PSUu44rmtgEZF4GDHGu6Bzk1H3OR6tQNjvN9TeX5aQjMMKiSlKUqfXBaOX6wthVLxte4GOPfFNvyIlypE32xhBENliZLOf7PjHaauYNuNStMhf+8sORrk64np8Z1qTlA63fhSj0B+D4fe1hqq1hO1mUy5CI56RIqtiJo8uo=",
+  "URL": "https://github.com/httplib2/httplib2",
+  "LICENSE": "MIT",
+  "ARCH": "any",
+  "BUILDDATE": "1590157190",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "python",
+    "ca-certificates"
+  ]
+}

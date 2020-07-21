@@ -1,0 +1,24 @@
+{
+  "FILENAME": "oidentd-2.5.0-1-x86_64.pkg.tar.zst",
+  "NAME": "oidentd",
+  "BASE": "oidentd",
+  "VERSION": "2.5.0-1",
+  "DESC": "An RFC1413 compliant ident daemon",
+  "CSIZE": "40020",
+  "ISIZE": "73171",
+  "MD5SUM": "c14304eddf219143ed3383fe8dd1f9eb",
+  "SHA256SUM": "94bac0e13afbf38d34f1e13f7a318055cb871af8a7d242bcd0e2b1b65f0851a6",
+  "PGPSIG": "iQTHBAABCgCxFiEE5VD//9SF4mShcX4wkBwcMg6w1F0FAl7T4aVfFIAAAAAALgAoaXNzdWVyLWZwckBub3RhdGlvbnMub3BlbnBncC5maWZ0aGhvcnNlbWFuLm5ldEU1NTBGRkZGRDQ4NUUyNjRBMTcxN0UzMDkwMUMxQzMyMEVCMEQ0NUQzFIAAAAAAFQAVcGthLWFkZHJlc3NAZ251cGcub3Jnam9oYW5uZXNAa3lyaWFzaXMuY29tAAoJEJAcHDIOsNRdFJMf/3isCDC8llekRlD1E58dLvSJcwlO1Zuejms4nKJyJXHmGiJZlkm9tEmnAjt9JxmhNGqaa7AS/WvYPF2NsZkyEWLfhy7xPAszOCXMG2IKEtlVqPUTTDtHSk0vDz5Si+qqzvzAiob95yKRX4SNTqBNXwX3W9xpGBHbmE6rfNr+qkIbcZOoVAfxbvgwGBFZL0OYtExG0HD3GNooORhVuhExZ/XVkIeGwHw9k9mx2rqKVM4bHmuYwV2TTjXj5RUxZ/oN/9uXgHJnm7l/lIyMmgfoRTZFdb8rSoakC/PhrQ/LhOaIea0ekEzJM2b6JPc0cz15i9wIUH5+xf4c0JvDJtRYceG4vYYzTSt3LWOsWjr3eUYP7eql1M/DdNfTlJVArXalKzQSyhTiEwHnS5J3ZxiPeVSxMKxE796qt8vhy0GOknWRdMJ4NOt4t7aaBZeTgPFeEuqDtJhN0Wy3EnrTuJ8TyLQqniw6OlUM3L437cPxHgTr1YXqQYkUDbr7w6oVqyGoUY1h5SnuV3A4CuGvgKYgT1FeF+jtjvtxSi7BJxY7PvmUyHeJBSyH7TKW9LPNkNhU8TzDySAdjiDGTvffJdcJQuvbtzBK3niOLdSNGs/KIKqbzozXkMxYcPf7ETuctvTPkH8Vrwwf4CoD500CrGIIl1TeZ0N18/b+BboJUhnrn1dhx6UzIZXN85y3Qw/lPTyobAri+tAWhCNnzSpjAo2fEhh9/72SAXz8BtqcesZTg9Ga1KH4AlZhduBKlecMyJ5MKGmp0tCe+2cXQJtWFudoJe/L7fyLbGNGMaquEReZG+ab1r8EER2YE2YilOJpUA6J/oDvQmYRqUZD5O6w6xRPJzrBNRL7YsmwuNnuBZEotPkYyzSGOR+jIEzrLUIxGoX8d9Mqe++8MGcXLHpyo91Q/8UtB6Lgr/BmKfQ4on+cp1IIpQCjxLfDRhg260YEXgq05xEMmPQcxiLQ8UeBd28ued9ycUuf52xZVZeczQceHgt8yrUE5UXqK3uRBUhJd3OOVhFTbKvzfWwo+5nYdfdZm/phH5CdoVG+gmDfVSm17y4EdxWP2vMRLXKo2Ks9lPVRZFGkcv+di26LTOrUZ1WvxjrTshIkx5Ezx2Z4GQB+ySxl+eqXYG/hNHle9yhhX/sifnGch8lZfvi1JoGb5eq03lZaqM7mr6UUXfSvUuDm2pz48mGNKGI2pDP4MejV9DsgSwjBR0ExI6S8Lw0E532nUMEckv5tEqJtwdz8zeJi7XAyxPPl4k15M3VEOhvvUyJiH3HTQEwRnzCsKEZGdFNkqhjk/gtjQi+CMHy3NtqI4vD9qO7AbYRGnF60qK78sJ3jidFhzez/itmmIM7lJFGT/I8=",
+  "URL": "https://oidentd.janikrabe.com/",
+  "LICENSE": "GPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1590944102",
+  "PACKAGER": "Johannes Löthberg <demize@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "glibc",
+    "libnetfilter_conntrack"
+  ]
+}

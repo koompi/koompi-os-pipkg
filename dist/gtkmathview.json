@@ -1,0 +1,26 @@
+{
+  "FILENAME": "gtkmathview-0.8.0-7-x86_64.pkg.tar.zst",
+  "NAME": "gtkmathview",
+  "BASE": "gtkmathview",
+  "VERSION": "0.8.0-7",
+  "DESC": "C++ rendering engine for MathML documents",
+  "CSIZE": "668848",
+  "ISIZE": "3217647",
+  "MD5SUM": "a966af954e433751c981312f25204bc9",
+  "SHA256SUM": "8a353e3e2fc9c69177f103f3c487970c0deae2def36632d0d2370682b914f916",
+  "PGPSIG": "iQEzBAABCgAdFiEEqEuNxzq4MgZ75Uw8l2rG+juU+hAFAl6oQvQACgkQl2rG+juU+hAuRAf/elbUGsUUgTaAgT/vzcRk59CdgW4G3lYFRG7OCeEMPZLDRPglkd2kenR9lxjw3milLI4/gRayUZqrAJT6uW3mB9leu4X7y5AjZvUoGxR4MrnjGiKF5kRUK3FCyJz3A1LXJFVxXbhNfd+Q51OtoXzT5dmlBHm/BacQ6NIgenki6qeD0UmL/oQkZf6L9Z2o/ozi+LGLSpxyrKRUSRogb69/sIuWujOMD6FBFxEa84vmpjOUFxTzfWZ4V21pM/Gla/LyKXYPFFsQRoPJG5rApml/TlHBOyIBmBQpPEtFQHpn7PSddidBqlu50hraXzmF6WaalwdCt49KSjUFib6H4/ymGg==",
+  "URL": "http://helm.cs.unibo.it/mml-widget/",
+  "LICENSE": "LGPL3",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1588084695",
+  "PACKAGER": "Jan de Groot <jgc@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "popt",
+    "gtk2",
+    "t1lib",
+    "gmetadom"
+  ]
+}

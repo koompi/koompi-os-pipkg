@@ -1,0 +1,24 @@
+{
+  "FILENAME": "pim-sieve-editor-20.04.3-1-x86_64.pkg.tar.zst",
+  "NAME": "pim-sieve-editor",
+  "BASE": "pim-sieve-editor",
+  "VERSION": "20.04.3-1",
+  "DESC": "Mail sieve editor",
+  "CSIZE": "543858",
+  "ISIZE": "1186191",
+  "MD5SUM": "024e8b6750d6cc692f9af17f8276ddde",
+  "SHA256SUM": "29b3d5e79b16fe3172a062d11cad5501b6f8234788f45d40b1c548e7adc2cf53",
+  "PGPSIG": "iQEzBAABCAAdFiEEFRnVq6Zb9vwrc8dWek52CV2KUuQFAl8HIJkACgkQek52CV2KUuQzzwf9GXr6ijc9LjdJmhJwQ43dCDIMB5Pc7EeszclDh4GFNXJDc6pzYKnQ7baFlVpj9Db/ryodthS6a7EyRTtKQdk83rCU6NP+xyR6Mbb5GJb7h9+Bjq57wfgeIbxP4e6aMRuIyy3l6epLD13LPqbhAlprAQmyfTQTtxlmI3/8So6kk9cUmJCKAPUEt27pDGrQdLGZurat0pMCGksy9w6XLG8k1kF3+1aO6Wev9SR71ZV6kiM4uvINHCy0uTQL8It/lyGhuaru94rUgtBXds8XJ1Tu9ky9Z5KtSw0cJlTIhXO768bJoaByrmN3fHFhcXe0ZeqIWti4QX4IkOh4JzbpGJvVGg==",
+  "URL": "https://kontact.kde.org",
+  "LICENSE": "GPL2",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1594113108",
+  "PACKAGER": "Antonio Rojas <arojas@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "libksieve",
+    "kuserfeedback"
+  ]
+}

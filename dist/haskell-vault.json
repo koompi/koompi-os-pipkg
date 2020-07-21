@@ -1,0 +1,25 @@
+{
+  "FILENAME": "haskell-vault-0.3.1.4-9-x86_64.pkg.tar.zst",
+  "NAME": "haskell-vault",
+  "BASE": "haskell-vault",
+  "VERSION": "0.3.1.4-9",
+  "DESC": "A persistent store for values of arbitrary types",
+  "CSIZE": "42196",
+  "ISIZE": "185704",
+  "MD5SUM": "9f96beef925a6912a1bc0ddbe30fd4c1",
+  "SHA256SUM": "611fc8bcf0d1319f6c3772c14ee2adaa834eec12fd1e8ac4f94db3be5f00f52a",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl75o3MACgkQeGxj8zDXy5IOzxAAoFyAFr0kcm0WJj8ObZ7cD2PcxeEJRpRYpG89mWqm3sVdstiX1nQnBeXB74yWj5AQNSACfSV9BdgSG/snzbPokgu+tE+z00Ls0CsDYQN6z5efQVpDYxRj5dUfOmRk+cJ1PgdTOmgqt+15DQQ2X9FvmsuhqfIAFGzkdJa1eyRLKKzpLL+tqnaM4BZRMP1gb+j9hTdvFky7OQkOr/209gMqzDXtpMvEfAVAUemMHQ44ZNIMvn5XK63gfKUCrHAxPwjal0VaG1IfJYsPSIv4GZo0cosIAakSynkhKbdVr9ddekcnIZLlGSSVZTIQav89E/bNyxG3vLDZeLe3Er/1mPhJbQ0YGdWCbMbVTLhOgx81W0bUhkG2LL22bLBTDlPMMpLD1O99HHVhajZxMrhj8AtBfL/c2BCDLjt6EIFTb5vcH5Phz/NQJAEmI2w9OpYPyfAub+CJXbkr1nzwauU+T2woqum5XSp/HluIot06tDQKKwUwNnW2ejpibeY5hAeXKNNNUJaVJvsjwCyjinXV83aMO/n1xLoKbbMd7v12afmaV2kuG8uEtx9CHz8G2EVMshAgAjSfV9ue4KNQl6c1nn195SeROsiqL3GBROaV5oHzbIaJfzmXI1ObqzfY9T2OdajxWj5Lmrwz2cCMgWJce5fGznulcGmsOaWN8E3e1iCKbTg=",
+  "URL": "https://github.com/HeinrichApfelmus/vault",
+  "LICENSE": "BSD",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1593418589",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "ghc-libs",
+    "haskell-hashable",
+    "haskell-unordered-containers"
+  ]
+}

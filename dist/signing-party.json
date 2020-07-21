@@ -1,0 +1,31 @@
+{
+  "FILENAME": "signing-party-2.8-2-x86_64.pkg.tar.zst",
+  "NAME": "signing-party",
+  "BASE": "signing-party",
+  "VERSION": "2.8-2",
+  "DESC": "Collection for all kinds of pgp related things, including signing scripts, party preparation scripts, etc.",
+  "CSIZE": "159028",
+  "ISIZE": "466423",
+  "MD5SUM": "570c69eef3a9d3ce6be6abe262144578",
+  "SHA256SUM": "fedff710f16a1b0584691dd2f65ffef7b4bfb5265e03fde224b207812c8c5483",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl8ErKIACgkQeGxj8zDXy5Ln8A//UhGQjgKkR5s9oeXBx0kZ7j3gt2nvxocuwnUZIGhkIQxplti+fUanpFEzgAmm3TpkJ9Iqb84L+Ij4rZ93O3adq+DY178EAmYi3cm0VUfB7vt4gSkbRBPSrJAZGIUpfn8KmTMyHND6y8Ogt20h4+jbE3YiBkjjZUCvstQhJD7odRl9936oa+6HduuAQqHYVNVhDyeZ6MWDexBLBAcpSJhhmBxQ1dfek3L8m4Wd5W3ryj9AuBAwcji81DeqUBiOueN9hZN8RjVX1lP1sXJ1fF719d8rbqVAAqtAwQa2u4roXBzw0B0kho92TkaczhcuPFBB+pI0HWRQpUmXK/WCFXj6pv2W0jUf8UzUBV0JdW84ZV0dkxl9sWpoO+cbKKuy322+bi/CbtVFTTps+2Y6Xf39RvDOSKW0J/+kj0bbxZL2kWgaqq0+g0GWkDivGzQ1HXIWmK5C5RDcrpRDxkEluJ/QuzYUhktcbfDcpYzlaA44zw7tEKF0iTfc9cMce4xbZpi0cxxkKB4lcagV6qGk0EaY8CbBPcmDy0cr8/l3XcnRuIje0E/zmmB0k0yapfjzKsAW5p816k8IlpTkTXFFlornob+hhhgg6DpS86Y96IMoaNNyhlb+WqI85//4P5DBoiRNwQJV74owOt5CkNHDXqq0y9BroWvYavcZlF4cklamxho=",
+  "URL": "https://salsa.debian.org/signing-party-team/signing-party",
+  "LICENSE": "GPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1594141786",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "libmd",
+    "perl-class-methodmaker",
+    "perl-gnupg-interface",
+    "perl-mailtools",
+    "perl-mime-tools",
+    "perl-net-idn-encode",
+    "perl-term-readkey",
+    "perl-text-template",
+    "qprint"
+  ]
+}

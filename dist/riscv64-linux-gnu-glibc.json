@@ -1,0 +1,24 @@
+{
+  "FILENAME": "riscv64-linux-gnu-glibc-2.31-1-any.pkg.tar.zst",
+  "NAME": "riscv64-linux-gnu-glibc",
+  "BASE": "riscv64-linux-gnu-glibc",
+  "VERSION": "2.31-1",
+  "DESC": "GNU C Library RISCV target",
+  "CSIZE": "9784964",
+  "ISIZE": "46742795",
+  "MD5SUM": "0d7a7d9881c3f17d612cf8c37d080ae3",
+  "SHA256SUM": "79c16841a671c2bec058587ac6a6758ffb5b5153ee0d0c65d88e62b7b7e3fcf4",
+  "PGPSIG": "iQIzBAABCAAdFiEE0jW0leqs33gyftiw+JPGdIFqqV0FAl5lV7oACgkQ+JPGdIFqqV1tMw//bsEhwvBrbUGS97R/6OdemNm7KbE3ar6+nsHI67OgO/pecuLYvnc96vTDSnY30dPlJzt9ALWDakenwLbf4FjtaIR+VnzmO5xPJ4but/PVcT6ISD8n+seTGeiu/jMDlIhnvMNG+j4Y32MOuoEUGbOKEMYlCOO6/P1nslYpBlXJs/R9legtELddIQ99d4xARTYMPFSbXoxKJ33ODbaiHFhzP/0HUaMDt7q2wcDMHEKkRlg0Bvjk+4Dwg6E5auSJ6gK9AXUJhgv0yN3Of22ifwcnxT4V/2MZqiYfPXS23x2lp3R4ctM2x8f/EcZnoqAD3Z2pv3HtGnL12gu5EyFcztz66I/EgfIDtvlflWd0o4k0eou40TF1wJfHPiZHP/7uS3FMTlnFkea7+TI+kFi93sTV6csmWZjjLLty5GNvmpG0y5k3gFDSHp0f4TupS4QCOgExKj6kxbOaxo8xsI6C0UfZF5t8rc+gr34z0BUEWyJTgcmRHbk4MTHrr1K3ikP3VCXl4Mvitn3iGsptficW5KWHQ7/qBPZl/gPu4SxDtOTGFTd45e6Xl+zPMvucTqobIo0cpXNV0iJRh6jigVnr7crL/I9cr3HOuvK7Y06vYaoVJVZvIHTTI/hBnZQlEe4vacvYS/Z+c9xWXnhqh3TLaCslHFVczK4Q95hlOBmKJ6V/GDc=",
+  "URL": "https://www.gnu.org/software/libc/",
+  "LICENSE": "GPL",
+  "ARCH": "any",
+  "BUILDDATE": "1583699297",
+  "PACKAGER": "Filipe Laíns <lains@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "riscv64-linux-gnu-gcc",
+    "riscv64-linux-gnu-linux-api-headers"
+  ]
+}

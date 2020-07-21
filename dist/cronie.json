@@ -1,0 +1,25 @@
+{
+  "FILENAME": "cronie-1.5.5-1-x86_64.pkg.tar.xz",
+  "NAME": "cronie",
+  "BASE": "cronie",
+  "VERSION": "1.5.5-1",
+  "DESC": "Daemon that runs specified programs at scheduled times and related tools",
+  "CSIZE": "79948",
+  "ISIZE": "238994",
+  "MD5SUM": "b525467549ed8373780a79ee88fee81f",
+  "SHA256SUM": "978c839e2d9b11acdf358f2dd120adddec21e2bca21474c3ccecc84fb360a368",
+  "PGPSIG": "iHUEABYIAB0WIQQEKYl95fO9rFN6MGltQr3RFuAGjwUCXbtGOQAKCRBtQr3RFuAGj5HoAQDgUh2t5aEFEMT3xPJHDA+WCtJrI6ekFG9ekhdE7ztpZQEAmeLICUdCLY96h1dkFPTuCltf4hbsnRKn7QaxZ7ORBAk=",
+  "URL": "https://github.com/cronie-crond/cronie/",
+  "LICENSE": "custom:BSD",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1572554236",
+  "PACKAGER": "Christian Hesse <arch@eworm.de>",
+  "PROVIDES": [
+    "cron"
+  ],
+  "DEPENDS": [
+    "pam",
+    "bash",
+    "run-parts"
+  ]
+}

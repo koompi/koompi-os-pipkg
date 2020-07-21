@@ -1,0 +1,31 @@
+{
+  "FILENAME": "non-timeline-1.2.0-3-x86_64.pkg.tar.xz",
+  "NAME": "non-timeline",
+  "BASE": "non-daw",
+  "VERSION": "1.2.0-3",
+  "DESC": "A powerful, reliable and fast modular Digital Audio Timeline arranger",
+  "CSIZE": "798036",
+  "ISIZE": "1197382",
+  "MD5SUM": "f4903e59d78866f80d1a1999e05e1a01",
+  "SHA256SUM": "683cb08e6b0402d53fc2892b7ac90a05e15e64d16d333136de480dea34030c97",
+  "PGPSIG": "iHUEABYIAB0WIQTH54SUZv4jWDQ1iDdyWHNLQcMVSQUCXgZtBAAKCRByWHNLQcMVSZOYAP9KMAj2tPtHTIcIhdLiQ3R24yAGoxhvT3OuvoI3KbFj/gD9EFkLFNKx48EYtUzDa+ckySscYMXULwdfwfNSt0LF2Ac=",
+  "URL": "https://non.tuxfamily.org/",
+  "LICENSE": "GPL3",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1577478424",
+  "PACKAGER": "David Runge <dvzrv@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "cairo",
+    "gcc-libs",
+    "glibc",
+    "hicolor-icon-theme",
+    "libjack.so=0-64",
+    "liblo.so=7-64",
+    "libntk.so=1-64",
+    "libntk_images.so=1-64",
+    "libsndfile"
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "FILENAME": "kwave-20.04.3-1-x86_64.pkg.tar.zst",
+  "NAME": "kwave",
+  "BASE": "kwave",
+  "VERSION": "20.04.3-1",
+  "DESC": "A sound editor for KDE",
+  "CSIZE": "5812917",
+  "ISIZE": "14264903",
+  "MD5SUM": "4968b4fb8476355acf6d53113b9f858d",
+  "SHA256SUM": "891f14704bc14e82962b05a2ea2ff4a25a8bd6ca2eba5982c91e4b3e08163021",
+  "PGPSIG": "iQEzBAABCAAdFiEEFRnVq6Zb9vwrc8dWek52CV2KUuQFAl8HBv0ACgkQek52CV2KUuQwHwf+PzJewWo9s71kO4SEXd3566fse7RESqWWMWX7ea7h9E+8r8MXwpHeK3g/QTXKg3w3qgATQN6D1TH1bKeifb9QkFyJgkfLA+EfxkaRuT6ytUNoPl5aJ9sAkY7emr9RPrM9VzBKhQW7U6pBzIXevtFeet10hDI2SSkoOS05MxXBGx0iRO+lKTpqy0WJL8MNVjRDoerlF+6P7eCv1t+fGuuZET2Uf75pRsaUNbeLCoc2SAtRvsL4Qal2VSCmYkl7mGT+ksxadit98h/e/HB0PVp+PSPul8ITGFDbPHYt0W9TMqXnfX2wTduZcdenYZy2YUHzsQ1Su9mTkrPgoMTwLeMCrg==",
+  "URL": "https://kwave.sourceforge.net",
+  "LICENSE": "GPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1594110817",
+  "PACKAGER": "Antonio Rojas <arojas@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "kio",
+    "audiofile",
+    "libmad",
+    "libsamplerate",
+    "hicolor-icon-theme",
+    "id3lib",
+    "fftw"
+  ]
+}

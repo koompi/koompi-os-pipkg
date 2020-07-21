@@ -1,0 +1,27 @@
+{
+  "FILENAME": "ruby-gdk3-3.4.3-1-x86_64.pkg.tar.zst",
+  "NAME": "ruby-gdk3",
+  "BASE": "ruby-gdk3",
+  "VERSION": "3.4.3-1",
+  "DESC": "Ruby/GDK3 is a Ruby binding of GDK-3.x.",
+  "CSIZE": "36025",
+  "ISIZE": "119918",
+  "MD5SUM": "b59fdb6c6ca09147a6bc51df4255d5c7",
+  "SHA256SUM": "8249e378808b7998c0c9976a27b0588691af2940e07ab99af2c529b445656c4a",
+  "PGPSIG": "iQIzBAABCAAdFiEEjhmSFnRl21+wRVV8sChU7XU+Dx8FAl7ib5cACgkQsChU7XU+Dx8B1g/9GHi67sn6cuyXooHeIAbqzr7hWpJ7yWeSdkfCzb3Re22EV5WMcriogjv+Zy3pDz1wm+0HL2O4F2DTwqmh9xqgO5/GSwTTVhMC6aFIgrJU2BMWrxrwuBbp/xnralgweoj0KRzkOHCVy6Cn9PkA2hA26YHct7UwCxH0ulRRVmOmCYsqI63u/IgXqY+zjEsdng0+iE43gFF2irHkHwWZKznYYJt7yEUkCzDfMK879q2wdNgJd0YTmVSmsufvhuvecIJ9qMoZoRix0dYgXEH7Vl+JUqacSLnFLupvg6NEYc1OFnJ+yH+VOlHqpxLv2IHsuuULYH1OzYTd/4zjGY0Uu55lkMBhZz1IwPTKfV6TFjmy0LcZD3t5gHnCfC0rkUToi618s5QEQuUBxoCx3LtOt+/9h1j0APXdR5ra81w7I12xHmOobIeaxIdP/dWouRkBjnZznhM9NlHL1bLRFxgshnAVVCYXsGkywvVmr/CLRZZy5+2dDo+Ib1N6c4WzsatcBgokHCWRIlzv1y0BR8IeLVMUy4+B3l1bsx4jdv3ArEiYTHLPUSmGSR3og1BAmGXsKvczmEigPoRwPaFoEQJwVt4WhwzH0k6at4gN405DWS+/d7oNdVAapLbuNTTWwq5yM51gLj5InGpCxY1lMaBTCGBJxADgam3AezQML4lSeBf51xg=",
+  "URL": "http://ruby-gnome2.sourceforge.jp/",
+  "LICENSE": "LGPL2.1",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1591897989",
+  "PACKAGER": "Anatol Pomozov <anatol.pomozov@gmail.com>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "ruby",
+    "gtk3",
+    "ruby-cairo-gobject=3.4.3",
+    "ruby-gdk_pixbuf2=3.4.3",
+    "ruby-pango=3.4.3"
+  ]
+}

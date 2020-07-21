@@ -1,0 +1,23 @@
+{
+  "FILENAME": "firefox-developer-edition-i18n-ja-79.0b6-1-any.pkg.tar.zst",
+  "NAME": "firefox-developer-edition-i18n-ja",
+  "BASE": "firefox-developer-edition-i18n",
+  "VERSION": "79.0b6-1",
+  "DESC": "Japanese language pack for Firefox Developer Edition",
+  "CSIZE": "551652",
+  "ISIZE": "618119",
+  "MD5SUM": "ae5eaafd6f38c8ca83c43fa0c8b78d7f",
+  "SHA256SUM": "b85185fd87a9571d7e49e8518e13b2c09ba47114508488a5ca53fc1475421af4",
+  "PGPSIG": "iQEzBAABCAAdFiEEYB8g8dG7v0p4z1tt9rFhCz7NvJ8FAl8IbM4ACgkQ9rFhCz7NvJ8f9gf+I3+cCCa/xsRShHOAfCfSC9labJgb2uw6YsKwiCSBqFs6m8x7raer8QaHfB8D1tgD3BOq2mA1r5Jt96LnlocE9zwQ1tXIOBhwxB5hdzoT+N9P+KQ4ZZ2Cgdz7TZWYnVup2+xuTAQqVqHN6RiUd6VFCKUSLLB8iVWW/j+jIaWKAhvKpyFd85OGNqNWpAGo0mb0c6i/DtE0ngcn6o7fyCEa5unyP5uk0RHPmuP4psBx65MyuiV3PQ5eA35G0XsnRzwkXc7lvdGj1eFxc8vdCaV7jdymFEaboS0JzdRG/AaBCvcIQwyk4i1ROW0dH8zlpgdt9xhGVgdKVNtkBIHu1iLPGw==",
+  "URL": "https://www.mozilla.com/",
+  "LICENSE": "MPL",
+  "ARCH": "any",
+  "BUILDDATE": "1594387381",
+  "PACKAGER": "Andrew Crerar <andrew@crerar.io>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "firefox-developer-edition>=79.0b6"
+  ]
+}

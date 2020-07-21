@@ -1,0 +1,24 @@
+{
+  "FILENAME": "knavalbattle-20.04.3-1-x86_64.pkg.tar.zst",
+  "NAME": "knavalbattle",
+  "BASE": "knavalbattle",
+  "VERSION": "20.04.3-1",
+  "DESC": "A ship sinking game",
+  "CSIZE": "1438642",
+  "ISIZE": "2202359",
+  "MD5SUM": "b1d05aa09f4eb6a91a1de30ece9370d8",
+  "SHA256SUM": "896d3112d1c787cf808229f41cfbc383a3765ebb0ed64edf8ab79bffc0745175",
+  "PGPSIG": "iQEyBAABCAAdFiEEFRnVq6Zb9vwrc8dWek52CV2KUuQFAl8HBYoACgkQek52CV2KUuTAnQf49junHNyR56b6LdYfRk7myTKON0DjCPBkIIkfTwBCT387n7u2WYqAC00kkwSTQlszA8e/T8qWHgX88Yd+5mGu9Xw80i4EizN91ybmZWhzy1gxkYYZciy3BL2PXFhRFURksxwVP/AmWr/XjTFA2fkXnqQz+dNJ5eKPwOYpo1QO1VRxgR9b21v+OF2++TyaqF39hubHAWUze1nQzLzRnVTjcW+G4N7/5Gg/Sywgsm1ezb9LR8VBqEGbqFz/kzIVjImUON+6gzm79WAHR0b73tf0ohNJbDkc/PDOBzSsQ7jAUdkvQDeWcZsINzBNB5MrDQXeWxBvF1YvbYLnABV1argU",
+  "URL": "https://kde.org/applications/games/knavalbattle/",
+  "LICENSE": "GPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1594108722",
+  "PACKAGER": "Antonio Rojas <arojas@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "libkdegames",
+    "hicolor-icon-theme"
+  ]
+}

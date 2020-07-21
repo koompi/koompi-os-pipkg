@@ -1,0 +1,23 @@
+{
+  "FILENAME": "kaccounts-providers-20.04.3-1-x86_64.pkg.tar.zst",
+  "NAME": "kaccounts-providers",
+  "BASE": "kaccounts-providers",
+  "VERSION": "20.04.3-1",
+  "DESC": "Small system to administer web accounts for the sites and services across the KDE desktop, including: Google, Facebook, Owncloud, IMAP, Jabber and others",
+  "CSIZE": "52085",
+  "ISIZE": "192479",
+  "MD5SUM": "e59388b1aa5b5b83f9ed00c685d19a5b",
+  "SHA256SUM": "a7dbbcc770a84a7479172031be84ed3469c66776271d76716a122949cde346f7",
+  "PGPSIG": "iQEzBAABCAAdFiEEFRnVq6Zb9vwrc8dWek52CV2KUuQFAl8HAoYACgkQek52CV2KUuRj2Qf/WaIabUxR3p/nWLAmggfthZb0zd6fdY4LnQrzMj+jJjCI/KuM8AWqEwXfXmKx5eOXz37PsW+FYMRRgGQ9TX1LNZGK1zVKWMg9GmGRyn6IRF6zti58KGog5YD3FbNSojkBZ0qoEUlUBEWSXrK/cGbhRfx6yv26xlqY7zZ3Ka/ZSmwgkk0xoAJ0iu4Njln7N6KkherZxd9c3zwfDfXdild1y0FQBYjGMg7x2hzCFxMP1niejd22vOJ9+10kwdvPljYfYSGP98KA9EPG1vE6wIKVoFq2hNDEtaiE7oP8/Y0S3a6G5GhObVNlfGv0FW/EnqoHA3OdgY6AjHp9IQ2BRNDQZQ==",
+  "URL": "https://www.kde.org/applications/internet/",
+  "LICENSE": "GPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1594220971",
+  "PACKAGER": "Antonio Rojas <arojas@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "kaccounts-integration"
+  ]
+}

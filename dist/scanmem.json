@@ -1,0 +1,25 @@
+{
+  "FILENAME": "scanmem-0.17-3-x86_64.pkg.tar.xz",
+  "NAME": "scanmem",
+  "BASE": "scanmem",
+  "VERSION": "0.17-3",
+  "DESC": "Memory scanner designed to isolate the address of an arbitrary variable in an executing process",
+  "CSIZE": "26180",
+  "ISIZE": "58421",
+  "MD5SUM": "2b5f1a809f9e10e0d21bce7da2d1f0a6",
+  "SHA256SUM": "a150edadaa6f6760941e0b45b2a157a6034c0ee2661c1ed8a467f2c13bbef811",
+  "PGPSIG": "iQEzBAABCAAdFiEEhs/8qRjPOvRxR1iAUeixSKmZnDQFAl3IbzEACgkQUeixSKmZnDRDZggAt1PTjyqhnvakRZsCKmF02swqianP1N0gSVrkjXsfbjGTAfYVCWR7Hf3alMH7wfsuKIA+SDOKHKaTJbbcUtR4TZsUkirIsPad2mVXEmE9/NJQF0bfpvweg461WbWF4nHfwF/OR30L47r0bUZBok/1RsrzZWDp39wGbQ7hVM+RGOB3pz39jE9WvlBEa1D4iNBtBmjFKhHfpviv1N+9ZrJ6zgd2YHgr85Q85RJB36hGLsWDVT/31JxzLkHahYSktwDkgsp2IqwGi8NR83iSnTdACJScE8bOVg+822vMwgJUEWyHC0juqP74d5g4vM1SihlTuAYRigszVRS9Xek60EhrbA==",
+  "URL": "https://github.com/scanmem/scanmem",
+  "LICENSE": "GPL3",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1573416698",
+  "PACKAGER": "Evangelos Foutras <evangelos@foutrelis.com>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "libscanmem",
+    "glibc",
+    "readline"
+  ]
+}

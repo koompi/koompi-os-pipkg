@@ -1,0 +1,23 @@
+{
+  "FILENAME": "python-priority-1.3.0-5-any.pkg.tar.zst",
+  "NAME": "python-priority",
+  "BASE": "python-priority",
+  "VERSION": "1.3.0-5",
+  "DESC": "A pure-Python implementation of the HTTP/2 priority tree",
+  "CSIZE": "14556",
+  "ISIZE": "52564",
+  "MD5SUM": "e7882e3dc62c83873548956ac5d88f25",
+  "SHA256SUM": "99105d39e8cead890881fe9a38f536c6a0f62d476268644c5a03544240c018d5",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl5W8ecACgkQeGxj8zDXy5IHmw/9Gw8y9/8vpxFsdp3ORkxzlhgj7e27stjnpXTozdhtbxoMIcQ0nMaHKoW9Cd51V0jT0Qfx2374Up7UeVPN/77RO8CYyZtmHI8kp3/AlqZ5eI7Sw12KodLbUsInfziRhk5N+N6NmkZ51C+dV0mDUQnZd+P+8ZXCzKObTLJY7B4ZzvIfqjPuh12nVFFaePf+Nzcwnu4DbLAI5EeAByTtftweLDIQ4X93gO5QiWg3Z/fyLHAC38fRHYW3hZxBkPKphNcaMt8S3IcE0Ca2PSLwFtz6QKC9fny00UUcgeeMWOwYfcE/hR0VA973oj6Arv/O5E+G25AssxM9jYu0CoNFsyxCVplhH3/AyL7lfD43y1onriiPs++I98DKtcEydmnoqJaGJeozV8Z0Kk2cI+O5CVFrVP0vWha+hEQCGiexU9RVbujjscmhBFvNMwKRgf4xbfpodTIK3tBoQb/3N4tW8+A5Ggu1ts0s2Yanpk/VblQhw9gEfhPvHC1f3Fz5Fmlq6JHlx28U6L4I6kuo5cHN2KhZDoSnn3Z5+PWAKhu3Zy5RmSEB8JzyXd9o7oP/pe9gHrcKop05IzTBpd3LTneBZ9lbMKLhtPPuBOZgLytp43+7YxzIKDD9VfY/C+dL8z6yu6pdjZrsLet6SEt9tEbPD0lKkg0pXT8d8DAlMGefKitnAjA=",
+  "URL": "https://github.com/python-hyper/priority",
+  "LICENSE": "MIT",
+  "ARCH": "any",
+  "BUILDDATE": "1582756222",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "python"
+  ]
+}

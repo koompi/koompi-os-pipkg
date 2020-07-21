@@ -1,0 +1,23 @@
+{
+  "FILENAME": "python-tabulate-0.8.7-1-any.pkg.tar.zst",
+  "NAME": "python-tabulate",
+  "BASE": "python-tabulate",
+  "VERSION": "0.8.7-1",
+  "DESC": "Pretty-print tabular data in Python, a library and a command-line utility.",
+  "CSIZE": "42745",
+  "ISIZE": "203986",
+  "MD5SUM": "0548b6f69a86de44f7b706cb1a2b9641",
+  "SHA256SUM": "cf516d56d321a60ccd2654362302f12fd592e37f0b7b3a4a3e70b78d25fc6ceb",
+  "PGPSIG": "iHUEABYIAB0WIQTH54SUZv4jWDQ1iDdyWHNLQcMVSQUCXnef+gAKCRByWHNLQcMVSQbpAQCpsYtLPCYpcPVCO/v5XWUr8kOPS6GGZ21l6FplVB8DiAD/dHeLTPMP6TFWR9e3jSOWH6q90YpAY9xoBqFKloHMFQc=",
+  "URL": "https://bitbucket.org/astanin/python-tabulate",
+  "LICENSE": "MIT",
+  "ARCH": "any",
+  "BUILDDATE": "1584897997",
+  "PACKAGER": "David Runge <dvzrv@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "python-setuptools"
+  ]
+}

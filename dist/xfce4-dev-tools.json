@@ -1,0 +1,25 @@
+{
+  "FILENAME": "xfce4-dev-tools-4.14.0-2-x86_64.pkg.tar.zst",
+  "NAME": "xfce4-dev-tools",
+  "BASE": "xfce4-dev-tools",
+  "VERSION": "4.14.0-2",
+  "DESC": "Xfce developer tools",
+  "CSIZE": "16829",
+  "ISIZE": "51579",
+  "MD5SUM": "112125ddb896cb1c64d8363476794b8a",
+  "SHA256SUM": "57fcc30654ef0ce7224d3aa33e91922285eff8db229f5039e24ee4c01a19fe14",
+  "PGPSIG": "iQEzBAABCAAdFiEEhs/8qRjPOvRxR1iAUeixSKmZnDQFAl7Dl/wACgkQUeixSKmZnDTyuQf/fZgxcqY44Pidy321T/gjAq5ii1uEbaeBp6O7zSJnFFxo35tUdK5+DzNpHti0YeFQMaXw7tuPopYYyATeNqdjDUNXo+ecFr7cVKIXwA/jWnU2q13hVqFyhPBYv9ERP0SfqtQYVJkYF++0sCZ8aD6YVzUtwT4m4T8avtLgDVWW8jVHaElWfD5SvaPIq/3ar0O94faAa/KBA23CDmNL63coQnW0KBILd2Oft7X0JaI6Dm9IhaomR60dR3Uud1NRrEBpi4L9B7DiCKP0uWIrrsBPavhOjpO5q0APUUrFwcV9ODQ8DMGJG5pFNroXMcTswm/akbRw1lsoIIH4XLmbtvhayA==",
+  "URL": "https://www.xfce.org/",
+  "LICENSE": "GPL2",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1589876712",
+  "PACKAGER": "Evangelos Foutras <evangelos@foutrelis.com>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "glib2",
+    "intltool",
+    "gtk-doc"
+  ]
+}

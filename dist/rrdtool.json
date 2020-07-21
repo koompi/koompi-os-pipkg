@@ -1,0 +1,25 @@
+{
+  "FILENAME": "rrdtool-1.7.2-5-x86_64.pkg.tar.zst",
+  "NAME": "rrdtool",
+  "BASE": "rrdtool",
+  "VERSION": "1.7.2-5",
+  "DESC": "Data logging and graphing application",
+  "CSIZE": "654799",
+  "ISIZE": "2054611",
+  "MD5SUM": "aab5988fc0654656c3852cee491fd2b1",
+  "SHA256SUM": "e31e6b1489faf8806d5580d791a8c006dce81740e0bbc3db6a3aa39a3196f884",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl7vdnEACgkQeGxj8zDXy5JKmQ/+KvKwv4R933fmVdoIuLbugclWGJXMym2/XeAO8OAUyXUGaGIC5LlWHkCWB6XNORA9q18xjksY27EwQEhoJwj0f/RSoTSSyBXbiiVaeOQ3VHaE9lWjGFBn8OnQVKkbQQJyL8D4Y7XVABSWRUhLWFZmx2YTFdl6e74xUdJqSW22a6YzT52B0IxCfVBZqBYlQ5ZAN/g69q2LqPAIdJRgq0kWzj4+q3fWhksnWqJbBE9rFB2t0bQHfmzFlV4eg8VZ4TsxQ9zgdB96MuSVqwBkAGCavuye26s1GJDNfSGdeyzHJkCfwazfS2b6hXf9pSMo3jUQYBAtFJy12am5KTgCPRmd9OrRgf8OmNDAjz1jV96czi6u3e7EnXk+zSZUYPGGWJP/C4AJC5LvsSOi+6QYIE1ZLhN3yxvFvqbKhHZvmQsyiyLx3r+sAn0sekJ4XoQvJzXcnnIm7GIlPbF6Ogx6sMWVvqr250pIp4Ek3K1fVw2FxUek9S588GDM8RqaPgqE9t8W3U63wYNSVdm8eta4f8f+c1goV8JjUxbXCYGSPHzlYTybmo/veCjxK9OUwshy2TOnZhl6AmkSQzQrDXU8ZaWiMSjp1GpNJo1xYH6EU5gt0Dp9m+L09a1n8g3jKYRRRJmOmvhkJw18Z7XpHCoiYUvuFaNnY4brmACyZ5fiwJ0L0Hc=",
+  "URL": "https://www.rrdtool.org",
+  "LICENSE": "GPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1592751625",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "libxml2",
+    "pango",
+    "ttf-dejavu"
+  ]
+}

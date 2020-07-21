@@ -1,0 +1,24 @@
+{
+  "FILENAME": "fuse3-3.9.2-1-x86_64.pkg.tar.zst",
+  "NAME": "fuse3",
+  "BASE": "fuse3",
+  "VERSION": "3.9.2-1",
+  "DESC": "A library that makes it possible to implement a filesystem in a userspace program.",
+  "CSIZE": "125134",
+  "ISIZE": "461128",
+  "MD5SUM": "1989adc657fdb7f372dfad0b7d2e18d6",
+  "SHA256SUM": "a58b0521b605232ebc1ceb90873f6d30695e0e50833f22f8bbaf2d36e120d26f",
+  "PGPSIG": "iQIzBAABCAAdFiEEjhmSFnRl21+wRVV8sChU7XU+Dx8FAl7juWsACgkQsChU7XU+Dx+eKQ//WdbT+fLyWLsDxqJQ2+fbBiFd07jmoD4EMghZIWZLEQx0xhs+mexoWAByxiVsQ4GyvTwaF14J//kdklDAZ0symJl9DlH7RJSxE9TIVnSpkgBrtPuYobymqp0/JiaCud+I/WnP6wLJ2PK30drnd13p4Nr55PPM3y8nGusE2jZvy9zJHR4f6KmI7fUfG+69wY9KsDgbvW5rmtUkkzXEbVMPtFAVmk5XH2Y57RBSjRUsI1KKqh1jIyOgOYCu1z8kzJqKTfR2+QsRjPFLzRfyd5MazSLS9J7xk2qbk4bF3LZNWWD42HxFTp/HVEEXkXzPXyMtW0+Eln5BpwltPHJnfOnvQRsGdkFcove7gES7kz0A2DDI8gYAB6zlQDifzI62pZ7eQ7XoG57gCHFeHkqr4bjJEcm0xK98xpL/+/zJrvJXt94cu9hhcZvNR1jm/64ZqTDkwiFFvT+0fdFvpomlR/UX3olb9mOmctylQ40gQxdJO/Op78qMEqSKxn9qPIduvGjeLHsTh81uaGZoT7C8YjLCYrT2wn2rVWiSm5WV+ziept3dEJPTU/qVum5tTtl9Ih2MDYNt5kM27DFCveJHnqq8eGbNdYiEHlDx3nI8lf+w81lCRJUhFwJ3uh2tpoqupCNawP3T3+gDVqJ7iAgdUPRk+1BCGVEwKCATVKsYCdcGEo0=",
+  "URL": "https://github.com/libfuse/libfuse",
+  "LICENSE": "GPL2",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1591982265",
+  "PACKAGER": "Anatol Pomozov <anatol.pomozov@gmail.com>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "fuse-common",
+    "glibc"
+  ]
+}

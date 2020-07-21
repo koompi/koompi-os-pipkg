@@ -1,0 +1,23 @@
+{
+  "FILENAME": "python-apptools-4.5.0-1-any.pkg.tar.xz",
+  "NAME": "python-apptools",
+  "BASE": "python-apptools",
+  "VERSION": "4.5.0-1",
+  "DESC": "Application tools",
+  "CSIZE": "440476",
+  "ISIZE": "2910230",
+  "MD5SUM": "e3f0d9f01c17af579a59728169c49d78",
+  "SHA256SUM": "92f1b4b04034321580847eee384af6b523abd3b3f8914945791e8082fd606e23",
+  "PGPSIG": "iQEzBAABCAAdFiEEcXAmqdR3n8U5QHJmQPVXtzFJYQYFAl3PDIEACgkQQPVXtzFJYQYu7wf/XiI3BRrlOmRw+hD+lY4tOhT0jPj30wz3GjcHFCUs1M3rGAc0AOJIGBoBxFXNpJ264H86ZwzxYZWdrdtV6cnkWu5yuFOSema44prPCNACuu1QTmO6B5UjvATsRsIN5u3JSwkMAtj0Yf/kvIbFE1pVTy9xvXD+qo8af8e6Gq+/MxrLEikJNvjtzqgv3OdAuzMcLBia6HwPvsbdNPFsd3d6d57PeGH3n2WWoTjdCo1c+gEf7Ame8klgmbUSY/dwdmW8GtWAqYnCJReSkDQNFrV9c+m4Wkf3tI7TS9hiViALkm3JB0AtNjvEIs6x3wb55J9iDELICP7dN1jpoOtJEMal8Q==",
+  "URL": "https://github.com/enthought/apptools",
+  "LICENSE": "BSD",
+  "ARCH": "any",
+  "BUILDDATE": "1573850207",
+  "PACKAGER": "Andrzej Giniewicz <gginiu@gmail.com>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "python-traits"
+  ]
+}

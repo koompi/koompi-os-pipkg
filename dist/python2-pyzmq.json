@@ -1,0 +1,24 @@
+{
+  "FILENAME": "python2-pyzmq-19.0.1-1-x86_64.pkg.tar.zst",
+  "NAME": "python2-pyzmq",
+  "BASE": "python-pyzmq",
+  "VERSION": "19.0.1-1",
+  "DESC": "Python2 bindings for zeromq, written in Cython",
+  "CSIZE": "425948",
+  "ISIZE": "1922452",
+  "MD5SUM": "47d6452b50312333240da967bf301839",
+  "SHA256SUM": "2352bffb140bbc64f91df06141095a9c1f19463e18e4e0ced834ac26a3d8be8c",
+  "PGPSIG": "iQEzBAABCAAdFiEESMOx8w3dD+Z+UW0WOW4+JbqxQsEFAl6+GgwACgkQOW4+JbqxQsEQGgf9GYBiGeTr7B1uE0QPxIff27ZlrheK14KQMjEa1FKkD9hnBEXm4+BFc0/36I56P3mNlWAtW9vbifOGafTC5vlFWyD5JhC+hlEJU8N81ZpQ9i9McB+TtMu3+wG7BbcYw4ufchOYn8sIz/t38Q4QTAlz0h7kHrBntJDRhR1Ef2lXvX+xFCH/qWVB+yJq7xm2QDrZ84tuZwEgDgCPdYRD84gEMyUh9JApRRFoqxVFYcTJlEGappaMqSNJJI40RXmFJyewxVlZZKTB7ztZR4OEc7109tJLi3LpylXCbnToehwQkzfzRofp1zX9fsmi4whgBsFmXW6uMlW0au/fD7HEx3xJIQ==",
+  "URL": "http://www.zeromq.org/bindings:python",
+  "LICENSE": "LGPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1589518754",
+  "PACKAGER": "Kyle Keen <keenerd@gmail.com>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "zeromq",
+    "python2"
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "FILENAME": "fastd-19-1-x86_64.pkg.tar.zst",
+  "NAME": "fastd",
+  "BASE": "fastd",
+  "VERSION": "19-1",
+  "DESC": "Fast and secure tunneling daemon",
+  "CSIZE": "84960",
+  "ISIZE": "203441",
+  "MD5SUM": "c5e14d1d7a6d7dba3f83f8fc714e4e6c",
+  "SHA256SUM": "14ed0e27bf7a876a801b17f01a81adfa2b2b73599dfd76ad3c29bf5090483a00",
+  "PGPSIG": "iQIzBAABCAAdFiEEjVflzZuxNlVFbt5QvgHsIqBOLkYFAl7IKn4ACgkQvgHsIqBOLkYjww//ahDOkAYIyLQstrWAQykvo2f5+A3AdjrzE+oMjjjH0pkTZP32hPxyl8J0iaMT4TuayVEUJ+dlTde/iXXHQIYuzHbATcuUbD42YeQiLAEwqdF6LLT6fCQmQQBWbxRf4MGVFJqUbNNGTGI0q2mmg960ysfr9fxhE7v4vyLCYgnL5Dg0x0/YiBN2yMJ8Hij3KSgyl+DIhTpqU9LQ/RYNuRQEiF/PPndd+3ZOtg6djY2Y11nFatzi+8cHJ/tq2ffP+5PmeSom470RDiC+vzBXkA9kH0sFDOc2SxA2853tEsoKQzFXzSvJycOXJXgOHlEQBYBrXdAAmxCSLse5yKy9J2eLN1QkVVqUDq10wYel5crd8J2q9/3UPlsk/S5TlAR1sTo9I5584V6ojXW7Q88r+r5G4+99bcdvc/5M6AD8zfxeam4m2Zk9LzwS0mPGA8RTmsjj7BKQhemmUY4uVvSN+MkSrDpbrHJtBlrmVl+m28PSWL/EOAqNaVV/u2PDzTcxMMBlwJye04gj2DeJLDaSwbqCkI2cIV0dXqfEKE0Fkt9AN5RLUvaRLAvAgJUQ2AafJmPLkFVfu30bu/5267vyiC6QqKGvcIWmDs8w5e9G83LSu6h/ZCZM09I6kA8I3LK6I5x5fft4AsRJdFUeJNSRIfE0qFJpUWMGg6hUECbaiTfzioY=",
+  "URL": "https://projects.universe-factory.net/projects/fastd",
+  "LICENSE": "BSD",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1590176328",
+  "PACKAGER": "Baptiste Jonglez <archlinux@bitsofnetworks.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "libcap",
+    "gcc-libs",
+    "libuecc>=6",
+    "libsodium",
+    "json-c",
+    "openssl"
+  ]
+}

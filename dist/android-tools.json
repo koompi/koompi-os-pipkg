@@ -1,0 +1,27 @@
+{
+  "FILENAME": "android-tools-30.0.0-2-x86_64.pkg.tar.zst",
+  "NAME": "android-tools",
+  "BASE": "android-tools",
+  "VERSION": "30.0.0-2",
+  "DESC": "Android platform tools",
+  "CSIZE": "2250100",
+  "ISIZE": "8331131",
+  "MD5SUM": "f93cc6013639c9c6048be705e2fc1286",
+  "SHA256SUM": "968d458751e0be5573cb439c69b2453b7d942db332340706098c654fe6113635",
+  "PGPSIG": "iQIzBAABCAAdFiEE0jW0leqs33gyftiw+JPGdIFqqV0FAl7By20ACgkQ+JPGdIFqqV09LhAAizH35+2+OLZO6L2xmSp4XK1TmlNQYxgPrgcp8O4zxlgZ3ruCgTpIwUczyQqg7aZdIKx5Iypk/3MoOxcq9hEJaWvogGQ8iUJ869ZicceSU1n8daI7nwnZVayr+24PKEKICFLjeHm+D82yY1XLJOfg3Zg8qs6Dg4olzlULKqfERigm46EzSiojfYwtsV9BpuEVYylbLIllhedDJe1p/v7Tf2PyAHTJBDMcDVS/+0WK7UEDmQCLHCJ3V2BN9IpHhkG3105D135e5PmvzRxepq2GAA+C0+5nvavkmrp2BKdp0MTrHlZwJnitKR/6tnKhsMDlfILqcB8CC/IDRMMZ59U5KKCQ1Rt4T16eiKEk4+mTh0Xi0UdVEgMn7dTJgGRc+Lf5Ql1j/CQ9ajEg6qhT2vMSq9OcqlBza5f7WUNHRUbV7GhZ2QZUYaFPfWa8QHk0pB53YD4otuErgxuV+O+bDgd5oh1cb5ms1IjgTS8EsubBchHLWtR2XAW3gYrD1J1WUg9hDWuGvqGHa/UY2JgPiu+cUGMMrL31IGWkjH/CYPNlmh24KW6iUNmZq3FgVSLluogJN0mObo36JL/K+MDTQrOnYXw453i+uQW4RUc2h3WasE/Gesq41Cy8Hd1YGlpdly6kDMK5Kts3WfaxzW2NO9Y/zBBZCoPyNUSiM/nNil8uIEQ=",
+  "URL": "http://tools.android.com/",
+  "LICENSE": "Apache",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1589758699",
+  "PACKAGER": "Filipe Laíns <lains@archlinux.org>",
+  "PROVIDES": [
+    "fastboot",
+    "adb"
+  ],
+  "DEPENDS": [
+    "pcre2",
+    "libusb",
+    "protobuf",
+    "brotli"
+  ]
+}

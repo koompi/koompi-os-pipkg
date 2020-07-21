@@ -1,0 +1,24 @@
+{
+  "FILENAME": "python-hypothesis-5.19.1-1-any.pkg.tar.zst",
+  "NAME": "python-hypothesis",
+  "BASE": "python-hypothesis",
+  "VERSION": "5.19.1-1",
+  "DESC": "Advanced Quickcheck style testing library for Python",
+  "CSIZE": "409733",
+  "ISIZE": "2223919",
+  "MD5SUM": "8efa5256eaed4c4ea19bea34fe7dc8e6",
+  "SHA256SUM": "535f06cb0fbfa3cc3e687c069a370fdb69f50e9675715bfd426611e97f750efd",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl8LgBcACgkQeGxj8zDXy5Kxvw//WDa11DNRU7F078KXh/0ZAhzjBZ8umPzeb5uUWhj5br2A8/eHTh+ocWdRFMv6enL4qrH/sN5fbUUvyqOEhkk13/spLdJMTurRWBmQ/DzlcKHvsL6IrDAoVGCHnFU3JhU2Yr1WYlNlgKU5T9wgRlbzvYVftLNtZ3NqLhsjpwjkUpexUAsXZyaKEs90+Hj2EvQiRwDActFrbz7scWwzFneqKH0lwLYHr7yfpwa1OtDx3syhejeV7J+ep+ESQB4o/+5WRoSxnL2ERen0OePjEn9VBUonLTTBt4rgEQVapB1NxuDFyMmTMveuxa3NhjtgRcD7XkWu4/sfOIIYQOYUTJhqM6cOSZigbfeuG74ENHDvaa3M9Rf869RQz45Aq1r2Jrj8Hu3Kkv5XTGcDLr/m0XL6ZzKo9aib3pjQPXzARblR7frmtWck3SgtalE19kbr7aP9oIYJ3/LM1574KkxRl2n+X6Bv46smLmujJe7lAoDwxvTKJQJo4r72ZpK/4OaTsO9+Pmh9jgE4B8UVOxfrc+s5Cc3YEMY1V8Zwzeu6/ptMrEOG8sUdT4DYPUUq95P20lILK6KYuizr43jSEapTMUKXEhL0tnEJRXLcQtFCPY4DaRcUaA59GmN/TPeRFv3GZfPujFWUqF2Iffg37U2D94KjGiIfUoBxWnAY4ByhC8Dw2vU=",
+  "URL": "https://hypothesis.readthedocs.org",
+  "LICENSE": "MPL",
+  "ARCH": "any",
+  "BUILDDATE": "1594584948",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "python-attrs",
+    "python-sortedcontainers"
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "FILENAME": "cclive-0.9.3-21-x86_64.pkg.tar.zst",
+  "NAME": "cclive",
+  "BASE": "cclive",
+  "VERSION": "0.9.3-21",
+  "DESC": "Commandline downloader for popular video websites.",
+  "CSIZE": "166144",
+  "ISIZE": "543926",
+  "MD5SUM": "2795942ebe052fa93f33a446b1478f83",
+  "SHA256SUM": "2deca1872b488a074aa2fe556752222aafb8be388bcdea3945a3c48f0cbba0f4",
+  "PGPSIG": "iQEzBAABCAAdFiEEhs/8qRjPOvRxR1iAUeixSKmZnDQFAl4vtL8ACgkQUeixSKmZnDRZgAgAizn3Quc5ogURQMSzV0kOxxOEFYLHh9+oOWCz6UclG/8UnmAlNHiJIoW9avkvwZh525VBP0QDY3uZqEXjJ++FsVYsRoRSdN0BRXfdYxOrljEug24hg0DBv2M2jH3fpwlh/0fpCua+nH+U0l3l7W05/SjqwLguAyr7ow79agZMBUUUcoPke7dFxrtfebYYwFI4hwgk/UJ0MK4EHgofnfz4QzGivd1LeSWwPeEIw2Qn0/ColAszRuNRA/2sYY1zDW30DKK/CwrafF8yo4SIUTMPj8BoeGXJlyqqJycp7/rKsj8T6vNbeGebEVrDXhzHso0m4ln9pT+aTxfrlszUO0Ft3g==",
+  "URL": "http://cclive.sourceforge.net/",
+  "LICENSE": "AGPL3",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1580184696",
+  "PACKAGER": "Evangelos Foutras <evangelos@foutrelis.com>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "boost-libs",
+    "pcre",
+    "curl",
+    "libquvi",
+    "glibmm"
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "FILENAME": "jack_mixer-12-2-x86_64.pkg.tar.zst",
+  "NAME": "jack_mixer",
+  "BASE": "jack_mixer",
+  "VERSION": "12-2",
+  "DESC": "Jack desktop mixer application",
+  "CSIZE": "62982",
+  "ISIZE": "269390",
+  "MD5SUM": "bf8363509fdb527380398e0f2ebef4af",
+  "SHA256SUM": "abfa8b341e661fc2b2483f9e31c63d7e11287415182d5514e574703179d4d219",
+  "PGPSIG": "iHUEABYIAB0WIQTH54SUZv4jWDQ1iDdyWHNLQcMVSQUCXvIUbAAKCRByWHNLQcMVSYkXAP4qiJQ3HNp8O38oAtl5LUHsuu25tCWUNiZa4x88ilnm7wEAj9DP+C9jDebaiFeDrxNHEOUWItrxiMLggC8/UOk7eAE=",
+  "URL": "https://github.com/jack-mixer/jack_mixer",
+  "LICENSE": "GPL2",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1592923178",
+  "PACKAGER": "David Runge <dvzrv@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "gcc-libs",
+    "glibc",
+    "hicolor-icon-theme",
+    "python-cairo",
+    "python-gobject",
+    "libglib-2.0.so=0-64",
+    "libjack.so=0-64"
+  ]
+}

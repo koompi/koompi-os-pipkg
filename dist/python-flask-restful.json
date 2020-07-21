@@ -1,0 +1,26 @@
+{
+  "FILENAME": "python-flask-restful-0.3.8-1-any.pkg.tar.zst",
+  "NAME": "python-flask-restful",
+  "BASE": "python-flask-restful",
+  "VERSION": "0.3.8-1",
+  "DESC": "Simple framework for creating REST APIs",
+  "CSIZE": "43470",
+  "ISIZE": "202270",
+  "MD5SUM": "a8de2a296cff8858bce8666ff1198f19",
+  "SHA256SUM": "e963e19b145d14f1f44aa3e83aeda95bcac8fcb365ebb69f950c1809849d3b2e",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl5C/+EACgkQeGxj8zDXy5K+Hw//YAZgZXEBDDUrY6GC2brWZAYx4tYRzo5H7q4yvYkBO7f9Vr/c58q3Bzq0gorHkrIOl+sHOjtCulmcgdbjvweivUKHALFTnekiLxchZALravan4bJgb/xFzOaicOPrVjmNPW7lcvIc+5duwcQcRCZosn43AgkeUaTJYNlSJZjNhi4OA8tsrH6cS2XdnNfqEBd9Gp3oo2EislN4/pCOdzSzL73rSv8Hnie1NhEe7TAPAdJq7aO8nUxaKsXI9rpDWejNVtIR6dtxi9Ugdzx2VISEh7MAMwSbe/k8cVaj8h52WtB9PXZoJveYpwSHcNWcWZSKjoMWnNTyG8KK2pycmWoKTKedEjbIj7JgqAyF5b3ZZuAwoYDU/LMRx/TdPtT0dS/jx9fABAJnzCYaGt2i0TqyvRdEeIK5s56ICEYczrovW7olJpGOsl2jVsvVFgSGWsuiiLMSIGWO/Qzq86dW/zVfABEBgiYEnCHiq5/VydLCgvPLvgauTDw8kn1vlJ+XidxGYOduH8UBOj1pIr2TVxaAoBC4lQA2xmiiwgjVDjBXCFBGrYE/2HFx98wQMojMjzgm/EHsRyEenTjqmGd5TwPHniU1wzCPp/Hpgh8s77m9tgIDITB8wThE2RhMksJmOY7vFr1hT5mzFJXIBQLTcWcBViyBgLJIAaP6NUy6urelqlM=",
+  "URL": "https://github.com/flask-restful/flask-restful",
+  "LICENSE": "BSD",
+  "ARCH": "any",
+  "BUILDDATE": "1581449152",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "python-six",
+    "python-flask",
+    "python-aniso8601",
+    "python-pytz"
+  ]
+}

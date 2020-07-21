@@ -1,0 +1,25 @@
+{
+  "FILENAME": "haskell-binary-conduit-1.3.1-122-x86_64.pkg.tar.zst",
+  "NAME": "haskell-binary-conduit",
+  "BASE": "haskell-binary-conduit",
+  "VERSION": "1.3.1-122",
+  "DESC": "Data serialization/deserialization conduit library",
+  "CSIZE": "22566",
+  "ISIZE": "78479",
+  "MD5SUM": "82e7962131a5f23b69af4b1fc19ab880",
+  "SHA256SUM": "3a89f8aba5a257081275304c0b15461dedf7e3f5b98a5cfea6f0838f7e62c032",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl75pmIACgkQeGxj8zDXy5JQiQ//R2gfqVlMWcwmfbozJlDeKK8cL3Y2XIzxKbJ1YFc3/y770ek4fA+CPV3Uh2PLzkLYw+LMFzqZn23KegGlv1IBWALGuL3JSTcY0tyF6OFdy2d44LtdtDoOpTa5+8lBU1BZI9GpfIjMwcOr7Elf5JruA3oqiqs8Vn0txM8RJrNupl6VXmDp+5MgAaheFCiK9pRATC3hVm2Y2WhBBF1JZqOQ/uA2YQPr6CiKFeVOWT1zlmN1k1QlLfXvbPylp7s/ib38K5u1t+ijDhs1/Ll3EAemLLU4YeLwguB0Uil3isDbJZlOl7sAHXLrbClZDbn4UwODvDq0h5v76BwOaiQHRmq9dnp0K53pEbURKKOcAaSISLBSbmQ72Kl9zmqHUEI66PrNEdnVLu+q8HuO7pO3v/owVYwzXyYqecQgMPkKphhEftX/7cfQGUwkuvVKD+Et9/z4W8+0MNoY8IS3/hJB8VgCFVzzrlSIXLD3zclFkOEUk5JpCweILB9hVsuJ/Hz+LwNSRY7uT/PDBxAZLdU+0irXPPE9EDNDMAXSFzusQoy+Uw3mHCFi+l/D5kSr10hk5ECMSm7/Lv9TU2uu62ekRwmYOXc+18tXpr3lJyIiTlZggnyzjrjx6MSVBu/J2KMxdxdNpWXEKXQ2zRETJYcznJy/CyIJAPgzfB4ipjvpQ4E7Cn0=",
+  "URL": "https://github.com/qnikst/binary-conduit/",
+  "LICENSE": "MIT",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1593419339",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "ghc-libs",
+    "haskell-conduit",
+    "haskell-vector"
+  ]
+}

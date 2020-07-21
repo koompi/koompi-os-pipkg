@@ -1,0 +1,25 @@
+{
+  "FILENAME": "buildah-1.15.0-1-x86_64.pkg.tar.zst",
+  "NAME": "buildah",
+  "BASE": "buildah",
+  "VERSION": "1.15.0-1",
+  "DESC": "A tool which facilitates building OCI images",
+  "CSIZE": "7864571",
+  "ISIZE": "28752341",
+  "MD5SUM": "f50ab4155c4a745c42a2c6bddaebee87",
+  "SHA256SUM": "965e44c33369aaffe2d33c89067e836b278b6b0f3b33ab98c1126bf42287da86",
+  "PGPSIG": "iQIzBAABCgAdFiEEktnGzemaICTWkKdu50JoO6CMsv8FAl7rT5oACgkQ50JoO6CMsv/+kQ//eWq8fVVgrzXJ5N1ko5uDoru+tFEKWqUjjgq1et9gCIGbwAji9Lpz88pOdQ+qojt6mAgyE+i3zhkLflklMr4VnYtxlLiDnw+rJuD0hBifp8ml7ooQ0VLfE+WgKA3f6XtsSK32GYVAJoo/GwWFXyHPYfimFfJCWIP+fCDwzDf/lI/j5DI2xHcGNcr5TaxOh+YuqS4qx1LxrlVhsztoPmVbbE5ilEwcv428MsZ0/Ulp647xjkmW6E1/ihqC23NhaHBzUELcJ/q7TSelJQx2kbAwQlBne1Z1gIO2qwP2h2JY2Nx60fO/oNgtff0AY7R/T+/p/DuYxED5KD6RgXKm5TFoq2FTpHcgCoCdKNqfuUfDfHmzWRS39SIo2gD6R8gMuY4+7jdOomIHvMi9j3y6QFpATn6Q3iGgWFjUPT7zmGMT4KUFSGi9d4CpAHcAaMf9sJB9ShV/rPPsui2952gDtoXxGS1wLkQIqIEkmP0Lqiu02CLvQfDAFUP+MbRgJMWCZL9znJqpHqG9EUz2oygDkqstBhGQUG9LKF1T9mt0rxW1Ebf7QeXymSfe2i6q17UJg9h6QcQQSM0StC9JcBs9tSoadUkfwlqXuEAys8hEn4J+RNzzJnKUyt7v4+bMRnU0J/83ghfA4bKCVCFX4e89bX+Af5njAMU9OUlBBt0rPUtJMCc=",
+  "URL": "https://github.com/containers/buildah",
+  "LICENSE": "Apache",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1592479503",
+  "PACKAGER": "Morten Linderud <foxboron@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "runc",
+    "skopeo",
+    "slirp4netns"
+  ]
+}

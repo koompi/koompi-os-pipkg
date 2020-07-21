@@ -1,0 +1,23 @@
+{
+  "FILENAME": "python-nose-randomly-1.2.6-4-any.pkg.tar.zst",
+  "NAME": "python-nose-randomly",
+  "BASE": "python-nose-randomly",
+  "VERSION": "1.2.6-4",
+  "DESC": "Nose plugin to randomly order tests and control random.seed.",
+  "CSIZE": "11600",
+  "ISIZE": "30312",
+  "MD5SUM": "7e0d700c0d0a977307748b6f3009214e",
+  "SHA256SUM": "3ad39b663e002ed694096b4011058eb0eced5f50f9c118eab94a2d0680010a6a",
+  "PGPSIG": "iQEzBAABCAAdFiEEzgvecadZqH8j8PfYth284QkBwWMFAl5wDn8ACgkQth284QkBwWOEvAf/dlG0ATnmow0S8BUJKaNf+vO1nk5UzN+rcQ4JwEidLmzzSaOQohxhE/QW/2hVwfOqgjrhZmY98/vQRnprHPNqQn+nk++pOflv5RsSfoT1t8OqjPMTClDAV2evMKlfwDKjKap+KHaHF6R25vbhRRJQFquLRFiBJcOulRgEFSLhiIhn4WK/yZmust6bhAzoY1pPC/H7ZIlg4Ley+XR3deA3AyWj9VmCyWnz36ueIA/oZr9qOPVQo/1vTamJOntOH1WkB21ILHejLKUAbawEJIinHxKUv7Uf6iMKBTihO0jnuu44T+5EQ2UoXgQ4E1N2SQ+D6+FOlaK5BFDqNjXPR0rDsw==",
+  "URL": "https://github.com/adamchainz/nose-randomly",
+  "LICENSE": "BSD",
+  "ARCH": "any",
+  "BUILDDATE": "1584402002",
+  "PACKAGER": "Balló György <ballogyor+arch@gmail.com>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "python-nose"
+  ]
+}

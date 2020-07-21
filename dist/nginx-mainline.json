@@ -1,0 +1,27 @@
+{
+  "FILENAME": "nginx-mainline-1.19.1-1-x86_64.pkg.tar.zst",
+  "NAME": "nginx-mainline",
+  "BASE": "nginx-mainline",
+  "VERSION": "1.19.1-1",
+  "DESC": "Lightweight HTTP server and IMAP/POP3 proxy server, mainline release",
+  "CSIZE": "576512",
+  "ISIZE": "1652886",
+  "MD5SUM": "8e5b99535bee79f3d1c10969f0516d64",
+  "SHA256SUM": "d824aa2c2f40e0959ea408fe9d2ffd01730f4a06d92dbec931ef9deb5f3df111",
+  "PGPSIG": "iQIzBAABCAAdFiEE7MrITBugimzI5j+78i+x14p3rqsFAl8LuDIACgkQ8i+x14p3rqvtJw//dwgLzMeOub7OgfWYCFzuIUxXyOjjWH+Byq0fPhE60psyTJhJ7qmBF50olsd/wZi8kCx8H0Y1UlQ4dMzyNH051197QlEIkOLESnJLdr+9QH0z4dHfjIqVU1cxI7VvsLW0rq8A4yI+6YA1CbWK/CAJ+nQsEq7Pb1jDmPVBusch9S5n3eI6qlJnR1tReVqSuH+Q1FgXqyVJdJnQKsvcH+rwUeEPxGMEgQMp1MSakB25Watk8ceuH8fJjX2eVMSZgtn38PF6f6FX3f/NB+krLyqMBbS8SykkfLa9MzAGJNYpqf4f11ZIUfGzMwJs7c4rDXwoDBEJ5EAWoqGBTQ9BSEHXFK8i4wOOlth425cyIN0UHd8+bswEA/0DUsx/Ug5h64fUbVyglV9e1TUThYpUtzn54pCdYcpZde/7ICcn3887tOGGsLSlW53rCRa47zQElkgHYWMq9dKVcAJIhAXuuK/41L3eoTQOyStgSHD99NimO6fLJqwEHIVDI9j/30IBY42jXxJQZloYf7kvuKyZqUihy1TEi/16nhqfLvVLDijI1cSFTGZc1n8OnE2pt5qEIxiyCn5k+T//UurvYbOq3J9HpJPoacRRLYuHMseAJmPh3RI9glcwNcNpO1nbS4+FcTyvR9fBV8o4RKmsyVzrJ8qxdiQH/axVVpfAmqSjfTiwnnY=",
+  "URL": "https://nginx.org",
+  "LICENSE": "custom",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1594603489",
+  "PACKAGER": "Giancarlo Razzolini <grazzolini@archlinux.org>",
+  "PROVIDES": [
+    "nginx"
+  ],
+  "DEPENDS": [
+    "pcre",
+    "zlib",
+    "openssl",
+    "geoip",
+    "mailcap"
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "FILENAME": "libnfc-1.7.1+204+g4ae4cc8-2-x86_64.pkg.tar.zst",
+  "NAME": "libnfc",
+  "BASE": "libnfc",
+  "VERSION": "1.7.1+204+g4ae4cc8-2",
+  "DESC": "Platform independent Near Field Communication (NFC) library",
+  "CSIZE": "149474",
+  "ISIZE": "571988",
+  "MD5SUM": "ca9af0164d5d7edd99f1d86cbfb02456",
+  "SHA256SUM": "1848ddbbad8812c759f09bd9a449540374fa4a63e53c5263aec59aa8418c3341",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl8Er4oACgkQeGxj8zDXy5J63w/+PYOxc/il+c7N9XnxeEq0GJ+GFKhknZ4HjBDzJFz8Dp1tNB7giOkiNOBVeUVTTpudh7zqwljYfAi8FTzOGoHqBRGi5AvmpAdlntZ75c4x3W1sj6QQsmYEn2Bvsafny4IAxTeDHwXNEOcKSdr+vGVN+WtM5E05sSfnKb8JKiKsPg82oi/XlJ8mpPVaoSIpNVoC9bq5y8LP/H2HIpGWz8XdFxk7k7xnt9hyUjUzJeVOQTxZsTKHJi/VGETNJKPB1n7UeQjOtq/IpQ8r5QfupOV7zFQGyj+gvMWKTEVbsid9ytJUeZSd+XZQF3sa58FYc9lG+6pMZ5jAUqHtLc+xGXydX6G0tjmXi8aKJYSfvD8jFuEdKVn5P6QSt9WYsQ3emct896xGkygdsClkTNRr2Pe/pbMbulpDDjaIzrWWEoL+VYJzhpiV62AcuHCrq0Qmq7oKR7ZBvbtL7NcGx/c/TZFxXRJ7X1wFyS+C9U8lAtLwz7PDsu3+pBbA9EL0/3xkRnmGARcH/bgDE6QQOpnd8TAiI0EE5qS+NLD0g+BdSABRp6brUZKNNDEZ2BySHjwYU3KCEQoJzh5FpRh856ClAAt81rdkoleqM7Mz3pmicnzScaVD2zRHeUz+srSGGiZlofnALQsQEQoN7hwV5EmjRrS8F1asOUfLx/WE4C3HqzjZ1io=",
+  "URL": "http://nfc-tools.org/",
+  "LICENSE": "LGPL3",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1594142534",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "libusb-compat",
+    "pcsclite"
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "FILENAME": "libisoburn-1.5.2-2-x86_64.pkg.tar.zst",
+  "NAME": "libisoburn",
+  "BASE": "libisoburn",
+  "VERSION": "1.5.2-2",
+  "DESC": "frontend for libraries libburn and libisofs",
+  "CSIZE": "740794",
+  "ISIZE": "1707705",
+  "MD5SUM": "ebe5cc6cc2e9a53c178bc25ef4b81e89",
+  "SHA256SUM": "5f73b3770780d9ba1222cbae41b7e9ab3da82ed31ae052cb239e4b2f142cff3d",
+  "PGPSIG": "iQEzBAABCAAdFiEEhs/8qRjPOvRxR1iAUeixSKmZnDQFAl6/77QACgkQUeixSKmZnDQ5PQf/R7nU0XEf0JU/Wki2RRGMu0kvl7ZgZX6VPwE5BF8KqqzOl8arvXEqRJgJNr7uXfzFzyEkg5ZHu3QIFtbjO0L5cTGT0tjUuO84g4AklGyuo0hJdDyApxTZ6S1t95DrBJ/usWab17UYnq5cjC7EOaDi7/MRvxI5G9j4dKAnPWzffBnaXKFRguRm6pw6sIv1s1GCKjqLsbntydmhLTAGTZsEHSZH4an3qdfdQVxA5A1Dc/KgFxDMk8H2fNjkZBTMLXJkm0DCi22XJHdwhsZO+in43JzTNv/mGQDUdY0JdsR9wKuk8gtsW2SwsbfHuX8bjpI7Lga7qoYsuHYgJwkp1LV3kw==",
+  "URL": "https://dev.lovelyhq.com/libburnia",
+  "LICENSE": "GPL2",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1589637019",
+  "PACKAGER": "Evangelos Foutras <evangelos@foutrelis.com>",
+  "PROVIDES": [
+    "xorriso",
+    "xorriso-tcltk"
+  ],
+  "DEPENDS": [
+    "libburn",
+    "libisofs",
+    "readline"
+  ]
+}

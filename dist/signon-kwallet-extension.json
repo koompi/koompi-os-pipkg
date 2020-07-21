@@ -1,0 +1,24 @@
+{
+  "FILENAME": "signon-kwallet-extension-20.04.3-1-x86_64.pkg.tar.zst",
+  "NAME": "signon-kwallet-extension",
+  "BASE": "signon-kwallet-extension",
+  "VERSION": "20.04.3-1",
+  "DESC": "KWallet integration for signon framework",
+  "CSIZE": "12899",
+  "ISIZE": "34728",
+  "MD5SUM": "043b45bb99f6484d88c14927b6399604",
+  "SHA256SUM": "78a64bbe128884de181634bca01931c36abd5518130b01c2f5a7811c1fc89534",
+  "PGPSIG": "iQEzBAABCAAdFiEEFRnVq6Zb9vwrc8dWek52CV2KUuQFAl8HAnUACgkQek52CV2KUuRS7Qf+PvJaMJ2o5ZFAuwi1ew3mnjuePrEv/GSk3r30uO3xvEOOT4nOgSalrK3PZfUWbGXIu93ZSt9Ca2sq0qVT+dGXn5osqTRMcpd18PZQiEJzG/EczKpvHaBozD9mVXQw2SVBbwj4nD75kSABGi42dgKh8nUgYYAMfEXGuucYga0e7xvd0Uz72pEdfWl3/PQYa0U5SPAUOzGepq6OSqkoNcEgUYB1X3lh36DUzS11lOFXRHqrmhFH9fu6/o8v3qUwBeEFckghdXU9S+zp1nHrWIAs/DFpSLOFaHM8yztYDjqcQq1AZ5xt2nWPPhpSfveb86rl/bOB0KBvEAHNF+SGfEWKkA==",
+  "URL": "https://kde.org",
+  "LICENSE": "LGPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1594106201",
+  "PACKAGER": "Antonio Rojas <arojas@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "signond",
+    "kwallet"
+  ]
+}

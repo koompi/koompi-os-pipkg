@@ -1,0 +1,23 @@
+{
+  "FILENAME": "perl-module-find-0.13-6-any.pkg.tar.zst",
+  "NAME": "perl-module-find",
+  "BASE": "perl-module-find",
+  "VERSION": "0.13-6",
+  "DESC": "Find and use installed perl modules in a (sub)category",
+  "CSIZE": "9735",
+  "ISIZE": "12021",
+  "MD5SUM": "30099634fa729288586e1c8ed97b5d22",
+  "SHA256SUM": "1506058eaa9a696b42ae9556f40374c0cc2dcc1a5a00c4cec39950a827cac32e",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl7vOOEACgkQeGxj8zDXy5IgCw//Tcl/5CxFrbbni1PEjkeOYWaMxo7UV4kB+clISGKCZu33ztq0Fy6ZGOnGHWjAcDB5+LsEN5b+HEfh041GaK2HKUmNCimeEgSOYp0VXEg8r4d9ank4fT4O6mdXeiv8imDKxTc9J3bovKTGBNYzsAw/JGXMij+nMuXVQKfFfFx72XLmY3Pl4VSaMpfHtNhkGWCzlfM3DvW+p8bXB6uUdr0K1IhZhda0HvGqUMn7xoIyLjJc3TbGN7tEsO6+yBWSqmURHRwL3s/a5ZmVYJ7xau+TekwB0Id4ZfUloPpTsq2hSZqRb+fbb8riSV9fpyJELjEKNRfI5RszS+lvYJjvJdlldsMPR8HG19nbLtvxnHG+B2gEPMfGpuhlwhkjdnfRQ70V86GJgAgpaA8j0LbQCaa8BTRoGybpt3VM0Ncllh5hWpx6OSzUH13/nCx1oZ8l+3103NTO2ZrC5uFMN5U063Sf4kAe2aV+Li6ogBbZnnodKdQ9b+55bCH7JdvwrDEGlKSjSEuEscY0rj5MGkKF/fXkAUo1LyS7ujAVqgUoZmlPN6JdmeVgMaJNzeg7tZbL9fxbJUsaB2hhX6YPgf1+r9ZrvpAFuL1EUsVAbmEY3czYm/+18YY5xXkfYQLrix/rgXRS+vI/GlUxCt1UuzqPOrQKSzj1sKkgb/GZCzpqbLSyx+g=",
+  "URL": "https://search.cpan.org/dist/Module-Find",
+  "LICENSE": "PerlArtistic",
+  "ARCH": "any",
+  "BUILDDATE": "1592735769",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "perl"
+  ]
+}

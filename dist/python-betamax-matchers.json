@@ -1,0 +1,24 @@
+{
+  "FILENAME": "python-betamax-matchers-0.4.0-4-any.pkg.tar.xz",
+  "NAME": "python-betamax-matchers",
+  "BASE": "python-betamax-matchers",
+  "VERSION": "0.4.0-4",
+  "DESC": "Experimental set of Matchers for Betamax that may possibly end up in the main package",
+  "CSIZE": "9080",
+  "ISIZE": "23204",
+  "MD5SUM": "a07c94838843793ac04fbccb1b14b23e",
+  "SHA256SUM": "f3f7f232094cb8a56854baeb16f53b36fecc02e83b9d7a030d6e9ea9fdd164bf",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl2/3VMACgkQeGxj8zDXy5L39A//TQgw67CdHtVT3855HsvmjyQ3C2Eom5WyoBHhQlxSMxggKU/jABqLiIZGW8+VpWdbYbQzDZ+LTs8gtbhl/45Ibma68rUjWtQMVgNoVnH/VizTRj4Res0g6ifTaCugCN9RXiaXcWojQ/cIPdHyEewY8EOoGoFkIqBhXeyqOFB5FSC8GqreBzTUyha7g884EL8ysvch/nVSn2WGqIVvZFnEsreKNO6NDuvCFr/ZK+yAjSDZicT5gXCJyS2+R1bBviMHowEmVCqAmCa3s27tL3bR/4elA8NdE1jTVo6zjP1oPiLuyw4Y8VzUzUojsijmuZWzjXX/p7MIlY36BLwvE9fFGSNPJqV8hvg/shIe0QHyWoBcjcvypZwUoYyGk5ijuiiaakr/vIhpF7eQKSLEJcLYUUcQRL4QFih2066OWQzSrDbxs1KXl/7/WPgk3KHIwDUgM2BWWSiU5HtvcYnF06zBRMF43QhVtNbI9pPSqB5PEBZ7RJsBML3n4wOu0DMyMBeynLcgSkFmbvGn6FY6zOji6LCW6Cmpgp3m+kwcayxNXnJ7vaHrM3ZLvhJYYiWbhtS/fhajq/0O1Dwlu9TmPMrVRodLCRCEoUvxthIbjsxwdcfa9Gf6q88V9Mz1uxLy9mv8sdpuyZxUVdwZJVvUAuASsLkRjMKlcbH1go9XFyyZI78=",
+  "URL": "https://github.com/sigmavirus24/betamax_matchers",
+  "LICENSE": "GPL",
+  "ARCH": "any",
+  "BUILDDATE": "1572855097",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "python-requests-toolbelt",
+    "python-betamax"
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "FILENAME": "swi-prolog-8.2.0-1-x86_64.pkg.tar.zst",
+  "NAME": "swi-prolog",
+  "BASE": "swi-prolog",
+  "VERSION": "8.2.0-1",
+  "DESC": "Prolog environment",
+  "CSIZE": "6630361",
+  "ISIZE": "31890190",
+  "MD5SUM": "171f1b8ae3cfe7c744bc7714d9d124d9",
+  "SHA256SUM": "cb9a177453dbe277b842a2897e28202e2b0c5e14aa9dc5fe8c03120d09dcacad",
+  "PGPSIG": "iQEzBAABCAAdFiEElihV8HLHoBhGQFhk/PPIy1z5yNQFAl7uhr0ACgkQ/PPIy1z5yNRlxwf/Wfcfi9suj1kGQuaacaoIaEvVv+/EahbULA6pmG7UVWgYgoznK2NqH2BeTZN/r8mCb5n+GVr/Fur8HvyJf0J8p+OLp8O6xSftX4FYLuqaj4iWon2+QRmBCpARC+/IouqVifH9tkLgII1dvBYIQ0BzA+jZPZUxwieSMLwpGGNEV5OKEl9G1fvPTPKz7RhvPoGR2qVqnhauIj5Im7SObjBhvd7xBjRH9Plk6jmZBSSw1uFBHMpaxxgFITfiIvYta4raSy3Lr9Yb+iHsDUtvqjk3x6WwbiX9QG3OKVB6pp0fNgowu1UBr6dPIMJewxI7qN/Wbzi1xibZ0q522WqHisaKoQ==",
+  "URL": "https://www.swi-prolog.org/",
+  "LICENSE": "GPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1592690130",
+  "PACKAGER": "Alexander Rødseth <rodseth@gmail.com>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "libarchive",
+    "libyaml",
+    "qt5-base"
+  ]
+}

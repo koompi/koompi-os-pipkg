@@ -1,0 +1,23 @@
+{
+  "FILENAME": "python-husl-4.0.3-5-any.pkg.tar.xz",
+  "NAME": "python-husl",
+  "BASE": "python-husl",
+  "VERSION": "4.0.3-5",
+  "DESC": "A Python implementation of HUSL (revision 3)",
+  "CSIZE": "10172",
+  "ISIZE": "25233",
+  "MD5SUM": "7f7688fb877ab28dba77039d6f913582",
+  "SHA256SUM": "d23aea0fba0786a280a13942e69f1c7ff4f45d0d8dfe6c5bcdbbdc605fdea082",
+  "PGPSIG": "iQEzBAABCAAdFiEEhs/8qRjPOvRxR1iAUeixSKmZnDQFAl27DgMACgkQUeixSKmZnDRH7wgAlbnFUFEbzptn9EhX78ZRDiMSsxepIq5TAjwSHFhQYUeDKpykIUx1NrzbQvmPwSPiRFc/YIE53i1bhRH+rv/CW2lPUOaP5i+5nyT1kyH/x4eb9A+66NgFYODHTpZ2XZ7WvmZT8TNghJpSCVuiv02ZQ7ibr60FG8624GRkTInIfN/WER6C2NsYvsVwtQmojpsoz/A3BVGerjyXFv3cco2oyJKKjgXADAwQVVTXbIVSfvtBF+WBiFLS3J8PRLbRZ7JfTXg/l2oreXksTYXcJbiJaP7MQYEfmtzmZZQq0EW+28EP7x1acvekHjeAEGS9tQkkhwHlYTuKy+VPmnaO+418Kw==",
+  "URL": "https://pypi.org/project/husl/",
+  "LICENSE": "MIT",
+  "ARCH": "any",
+  "BUILDDATE": "1572539890",
+  "PACKAGER": "Evangelos Foutras <evangelos@foutrelis.com>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "python"
+  ]
+}

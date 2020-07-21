@@ -1,0 +1,41 @@
+{
+  "FILENAME": "haskell-warp-3.3.13-6-x86_64.pkg.tar.zst",
+  "NAME": "haskell-warp",
+  "BASE": "haskell-warp",
+  "VERSION": "3.3.13-6",
+  "DESC": "A fast, light-weight web server for WAI applications.",
+  "CSIZE": "265229",
+  "ISIZE": "1318541",
+  "MD5SUM": "a9a269a2f6810e0bec2b04b3f53d8898",
+  "SHA256SUM": "54f1ec909d9501e3ded5f3a0aa52de90e2345fa535e30ef7fb9d772d09333833",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl750+gACgkQeGxj8zDXy5KQrQ//VWDRR+SxXJhRG74kwD7LXac8A1Z4p+drQBG+tOVnmzNI6tBQv7NvxIV1YZiJDCYPNfwBk+ydZ2YrMps9MQOGaMjyDNeake5NQzdaJWIO+NKCTM+sY+RRRAdxWTkp+pAFD6TlU5+7v7OTXPC2GIwvjdFZD99PZzd2kwaGB4FZZVQ/+seAWjVAyTyVg9RRmmE2fNf4gqAACEBjuzChZ6QXlCEWn+ttSgrCd8+G0XRWVnhK1vIwezurznc+iAT+OCTBQY6CfwlQggyhIB+nLvxuPDvSXxiEe4Kr7tLC6PpEbJPE5oYL/Gy+zqn2Y2t6tKrsb3nIK5jdw8Jduh4B93kGm6GThXJKlpuIuLnlG9BcDHPVyLknEdIIlrOxt4SvLPu8jmj/3lBzAmahHJgBZyyX1mCE9Bb0AyATtugSz3AwW6gBFST6kjeAdjGw+G5pl15Yo8TUxlcw61tGnbS3RQngVJ2G4ttc1CeVDx+vXqI7R1rs4HV+CemGCPO8wiLIKlhaK9tHsjVmN0Wz6iKfGvGunXIK0vmVWinda7ltIExA2dUV9XAIUqdzyDf8vu8JFYiCez4JFkEhJUFTBVi5SKRr3HVIgfbmgUDFPptVzASxRNMXBpXtK81NRZ/hQxx7jWyWVMno2ldtaZfwf4rRAPO/rhy+r6ACnjMtrMkPvw0Z564=",
+  "URL": "https://github.com/yesodweb/wai",
+  "LICENSE": "MIT",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1593430951",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "ghc-libs",
+    "haskell-async",
+    "haskell-auto-update",
+    "haskell-bsb-http-chunked",
+    "haskell-case-insensitive",
+    "haskell-hashable",
+    "haskell-http-date",
+    "haskell-http-types",
+    "haskell-http2",
+    "haskell-iproute",
+    "haskell-network",
+    "haskell-simple-sendfile",
+    "haskell-streaming-commons",
+    "haskell-time-manager",
+    "haskell-unix-compat",
+    "haskell-vault",
+    "haskell-wai",
+    "haskell-word8",
+    "haskell-x509"
+  ]
+}

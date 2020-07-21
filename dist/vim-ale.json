@@ -1,0 +1,23 @@
+{
+  "FILENAME": "vim-ale-2.6.0-1-any.pkg.tar.xz",
+  "NAME": "vim-ale",
+  "BASE": "vim-ale",
+  "VERSION": "2.6.0-1",
+  "DESC": "Asynchronous Lint Engine",
+  "CSIZE": "266364",
+  "ISIZE": "1337414",
+  "MD5SUM": "89dbf8f99ea264e0158cebde5220304b",
+  "SHA256SUM": "5334b0d98994d0ba8d4bf445e3aa23684bf3adfc90f9d8eef2480255680364a0",
+  "PGPSIG": "iQIzBAABCgAdFiEE4kC1fixGMLp2ji8m/BtUfI2BcsgFAl2zf2wACgkQ/BtUfI2BcsiJJg//V4stFr5rWsgRH3OU5ft5RG1GAE9YUp5Ni/AOhG/RdJ3Fq33d/ZoqqebaHjhNK/g2NLv489zB3BrzdeKPRDitE0eCBqRQKT/RBDyDn/xKWr49uMU3DsT5fYKhgIsvyjuoat7T3tKwukpJXuk7Vd++2zgRFcGoHcLhlfWOhyODxTLWgZmHcSgQjBY8VYvKVM7HAMidKmihL5ez+Okljg5ZfSzbmCgFdn125D3wjtfR+zqsEPCXAfI+Fm+eDUhnWSg96IUfquSD08+XWUQZEP3kFLwgCSQJfUyVqBDqXmIc0JDLEw5Dhhx19C5ymt5yEXaVbq2BuccTfFWJIT5yggUCYPHM8Kvl0JDic3Rwtj570NGS2h+pWKhik6EEWIDGLoxcxIW3vq2UYO/LLm9pn6OnRZU+NtsliJD6NzLZaqLBM5NFEqvFLHpWsQFZdsPPQJAkYWoHcKxWYBmAG8rBzvL9oLJvTxif7NQlOlY5Ef+/OA7dIjOa0/yr+pB1tZrVvmWh475xaEYxCKJ/vv37GPo9Q6EQtnbOQ9rc/jowExcCYMnvB1HjJrKPKcwIbH5DhjNfnTN9Jx18BOjrgThUmEbqnhsVWt8cYZH/xSEaYgGWWrLMJNrt8REtO76zi6sqwtQd467KXpszr8J2M0Li1/6bUQ4Z6YEeukhMs8lVv68DN0M=",
+  "URL": "https://github.com/w0rp/ale",
+  "LICENSE": "BSD",
+  "ARCH": "any",
+  "BUILDDATE": "1572044328",
+  "PACKAGER": "Levente Polyak <anthraxx@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "vim"
+  ]
+}

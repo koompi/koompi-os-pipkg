@@ -1,0 +1,25 @@
+{
+  "FILENAME": "perl-ldap-0.66-2-any.pkg.tar.zst",
+  "NAME": "perl-ldap",
+  "BASE": "perl-ldap",
+  "VERSION": "0.66-2",
+  "DESC": "Interface to LDAP Protocol (RFC1777)",
+  "CSIZE": "256045",
+  "ISIZE": "500956",
+  "MD5SUM": "244e0a214ac2d17a64e00e8f0af9b352",
+  "SHA256SUM": "111788fec00b16f5d33c01c02433744c68d7b6d199e8c16b3f8908087f739160",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl7vOUMACgkQeGxj8zDXy5I6MxAAkaYTCjbG/xgS7JwZdNX5CPCzAZUgO/R//B2XxZt1VEuv6Jf1Dk1h7IuLncDE6xVLOBtMnnF1B3GKUb7S/NfHjQonPop7re73A2Ecm6O25yipe3XMQ5pRGxOB1L1TO84FTOj6sSEonRzBJ9c/jlorZ0jvmFa/rFEi4vJQ4T83YxyrWT+qSA1TceED08R3Kqu2vDpJxMrivrIa5gFObEiGqpyAmPnEgzDz+ma+kOuY68fkPEydR66Tw/00oL23lNLaAQoIGDlOF/3Anz6KLY7OL52klNYpk1VB7S+MX7WFKRwnj/74q5+TnDOXUAH0urH3qMVB4X4/HuoNRq0KzpNsEc/GoCAU35KI8jT3sXxjjuRrsUFiVw/PpzDLNA8CVi/K8GvvG2ym5wonggwiLEGsyHNvVWQu0zTCVRaFi149+bd86tlTWa58YB8d86SBX7ENC/DN3iJ5j67DkdVkKpHvK436tiBUKyrgKwG2bw5lfeRyVOQY1MVfKbxprfPr6zBL6m5vUVj4eFROyfeuSJ2IJCvacBq0uNu6XHqRY2hlVROsBZJyESGaOdFMnrcF9sEkprYFH0XDQf81b5AK/H4CcO1oPiWCm2XDl/5fZ5P0ggA79MYQ8GtRV+fPSUDeabwL3GScH/AF+1fKXWeSblbcktV0sOmJeKO10BFyVpUS/VI=",
+  "URL": "https://search.cpan.org/dist/perl-ldap",
+  "LICENSE": "GPL",
+  "ARCH": "any",
+  "BUILDDATE": "1592735865",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "perl-convert-asn1",
+    "perl-xml-sax-writer",
+    "perl-text-soundex"
+  ]
+}

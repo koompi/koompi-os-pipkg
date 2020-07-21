@@ -1,0 +1,25 @@
+{
+  "FILENAME": "ruby-gdk_pixbuf2-3.4.3-1-x86_64.pkg.tar.zst",
+  "NAME": "ruby-gdk_pixbuf2",
+  "BASE": "ruby-gdk_pixbuf2",
+  "VERSION": "3.4.3-1",
+  "DESC": "Ruby/GdkPixbuf2 is a Ruby binding of GdkPixbuf-2.x.",
+  "CSIZE": "33534",
+  "ISIZE": "109467",
+  "MD5SUM": "0793417e646c5829bf8e2e27c20ffda9",
+  "SHA256SUM": "5045125ec6da4bb5228ed8712edd237e5aa03d70ca22600514f957a7f7f86bda",
+  "PGPSIG": "iQIzBAABCAAdFiEEjhmSFnRl21+wRVV8sChU7XU+Dx8FAl7ibsgACgkQsChU7XU+Dx8TnBAAxd6jGQw7ob0sCuLgtpCNSmPneM0wW9uWjyDGZaUywHkiONWP/W6nsBphd9pUgY21yhtsby3b3uPtvhVweap1rZxL+b2A6n99MLd9bDoo7acgPWLrwYUnUirUmT6MiFAeslFNZxV5TuAjYE/aRL+R67iLGxh8ivmMY9qgBYu6YkehZhwpWzmEPfF5H/WPFXEB4fQFdyfekSAWLIFEe/4GTky9Q3qNa4Ec5V5B73MvR3XbuxF5QrSL5kLU5K50/wZoYyABiAEl0MRBOi2M5ofeQk6AYUqx8zoYlrz2y2NlwSb0EXmuji3x6QPGVYaRRR4z48JFjj8vhg7fuJLk5cHd/otKhWay7e1cusXvzrlqVgEm1O0w095XllJQ7C8DU1AVioNO66XBcLAX8zEYRFSBvjNPz5CiGp1IRhUlYbTQg2LkDqqHaSRo5ZUvoZEb9Xpcv38ree9OgFDSemqrMj3CCgopDoJQneWJCT5wpIW0/zAzoORiB5jupNwy2D1axP4/qr897PkkdoISo9YVvLu/ZZ2ikDdVMLqRffMQi1q85rySTTIM+OsGFcQ34xDAYVA11d3uOvV54NXkZIk3xAkogsRKb6Z4JI4C3SZ3Qm+Z95a7HA5gYUEuEyr81KU/rmh8cPlBt6KiSTN+OQy/PNA2eAm0WVtcI/4MYj+X5g6U7bw=",
+  "URL": "http://ruby-gnome2.sourceforge.jp/",
+  "LICENSE": "LGPL2.1",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1591897782",
+  "PACKAGER": "Anatol Pomozov <anatol.pomozov@gmail.com>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "ruby",
+    "ruby-gio2=3.4.3",
+    "gdk-pixbuf2"
+  ]
+}

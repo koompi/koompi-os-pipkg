@@ -1,0 +1,25 @@
+{
+  "FILENAME": "hefur-0.6-11-x86_64.pkg.tar.zst",
+  "NAME": "hefur",
+  "BASE": "hefur",
+  "VERSION": "0.6-11",
+  "DESC": "A standalone and lightweight BitTorrent tracker",
+  "CSIZE": "286190",
+  "ISIZE": "1162833",
+  "MD5SUM": "d12944e116b9d768661709b14c3ab8ee",
+  "SHA256SUM": "81380ccc8859fd8bc50a59cb6eb3630f693f3f1d843d29d4071c093cbacdb760",
+  "PGPSIG": "iQEzBAABCAAdFiEEFRnVq6Zb9vwrc8dWek52CV2KUuQFAl7E1/gACgkQek52CV2KUuRd6AgApFB8jMCw9tSdaxG1jPvaUctG3ZlWhKq5hlOYLMpSkFFBD3FSuHSf1x4ceB53B+Gn+98LLxcKJSfugg9pXkEEM7eE5sGxkM/uvGOPYgOZpdqonsy4f/8bbVT5xRJEZgZ2TK3t07dOEM5Bt9+PxjDFPqXuCk+Mix2NmhrtipWP06vyPIQixFpPtaVLCLTQwdYl0BdgnMJxGW64g57FblYy9uGCpYueCkFCFwyS0JQfXJZ2T/kgFemtd54BHKwdnrClcJXhND3bxk3hFrcDFmPLw+WK5z410guWpg9C0hjOpt9n1hgfeAiI5teGxfFXAj7CTJLQEqfzS3Jg7TNt0KcM3A==",
+  "URL": "https://github.com/abique/hefur",
+  "LICENSE": "MIT",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1589958553",
+  "PACKAGER": "Antonio Rojas <arojas@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "gnutls",
+    "xz",
+    "protobuf"
+  ]
+}

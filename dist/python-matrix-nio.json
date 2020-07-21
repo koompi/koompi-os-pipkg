@@ -1,0 +1,35 @@
+{
+  "FILENAME": "python-matrix-nio-0.14.1-1-any.pkg.tar.zst",
+  "NAME": "python-matrix-nio",
+  "BASE": "python-matrix-nio",
+  "VERSION": "0.14.1-1",
+  "DESC": "Python Matrix client library, designed according to sans I/O principles",
+  "CSIZE": "239733",
+  "ISIZE": "1806060",
+  "MD5SUM": "a0227f1a06e126cc68ea1a6a5a216243",
+  "SHA256SUM": "a283e515febc6bec4e7c092dab16a3c5e1fd96afdc90e50540140d99de52ff4e",
+  "PGPSIG": "iQIzBAABCgAdFiEE0ZGnjxiB84R1PJZ+aGsGOsS8DskFAl72XoUACgkQaGsGOsS8Dskndw/+LK94r1VqmsXHegfzT1FJN0oHDW+oXOOzXs2/beoxHcu6ZrwowpoOpfSfM6GUKT2xBqhNcBxEg9ZgclYnMw6qAM8LwXa33/scZXDC/3mJoxB6hA7f8dmjOEVAKlnYzwb3QVVRFRpKCpCwZGOzcqANC5lM31BAQKsJaTsCBe/806gWKpAhOg4c2iTdI3F84HZkt2gaKEMOJoZGOK31HWPp9sFDQH1HrPJMOwaZKXQYW+xCF9NCiROujyF4YwVic5wIgrOYZzyst51CwHiKjeU2LNA3l9wu5SjJR8EgrM3T4pBlBRIF7JjpoSlK9AQW5ZiwpswPMXLIWrGvtqBoQy8Op74vORAXPYqYbdqYsjFWP2Lu74tlhamQ9Pj7TwzPL+Y5IF9ZW/SxqT1BRhXxKJLZM15d8G1YffnVu1c5WB9VxWynao1zi+eekUDLzlbBMaV1hkM1smGhZoKxHnS4xf9B38G/x+EYaJ6tH7mtbWZkgcCWdBOxRjeBaY+0Esk+sv/Byna5vYu8+gTyEfhU2X8QtakC/HTbwW8lvLttEGvCrrzLNPaWv4PPCbqDe0flZB2p3Qo1ITHgwSE+BEDHLOrrES6xkKjBZkR5Ot6kv2SaRq/Z+VVerGTFZlZWz4qqAJb3Q27H272lhy3+KMUgaxsmoBGQLhGiOAx6Ioh7nkbvqXI=",
+  "URL": "https://github.com/poljar/matrix-nio",
+  "LICENSE": "ISC",
+  "ARCH": "any",
+  "BUILDDATE": "1593204275",
+  "PACKAGER": "Jonas Witschel <diabonas@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "python-aiofiles",
+    "python-aiohttp",
+    "python-atomicwrites",
+    "python-cachetools",
+    "python-future",
+    "python-h11",
+    "python-h2",
+    "python-jsonschema",
+    "python-logbook",
+    "python-olm",
+    "python-peewee",
+    "python-pycryptodome",
+    "python-unpaddedbase64"
+  ]
+}

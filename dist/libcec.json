@@ -1,0 +1,25 @@
+{
+  "FILENAME": "libcec-5.0.0-1-x86_64.pkg.tar.zst",
+  "NAME": "libcec",
+  "BASE": "libcec",
+  "VERSION": "5.0.0-1",
+  "DESC": "Pulse-Eight's libcec for the Pulse-Eight USB-CEC adapter",
+  "CSIZE": "266587",
+  "ISIZE": "938171",
+  "MD5SUM": "eca7415f05c01a9381b9dd82def456e1",
+  "SHA256SUM": "61a34ac4ea9d4d1b70d09d0d9cdeac603ba04af1c35c80cacabd38e2a5982bd1",
+  "PGPSIG": "iQIzBAABCAAdFiEE2yJ3vNUAqjglYQvd2zIzknlsoGcFAl6m2/8ACgkQ2zIzknlsoGe+RRAAqjPvfv74XDB/su3JXZ4BqEVpNZ4RsDU+BzsRUFd0o5/WSP9pkwZpJfDcz/R0QviJGX2Vw2zICb1cBS54nFS6cmiAGrWPH6pkqgUWp2j4+GeIegyWSgMlHLCkylwWdCMHLw5LQxfO5oTT2Xs0zkI8hnIqqF8ebnwCyVvI1ie5ABFznLLELRggzjqkr5Ngf0Iw+deuNQd7fnVbasynv365bC++JYtrv1VvO2psXgRRJBZiMZmUkqm+p5x3m1RhnIE9ABlBZPlWbhKnrMi1bRSRDqwZDxW6VZY0wamDZvpOiCOKdhvUg8WTl/K8K3CrqEFbgRqgt1DvcyrqPVTYkLxmSJJPfRt7DBJh8c/Lq2YO/Gq64wgl3DarWL543hADzWuN0ainSBcDvfU9WZeUsnL6EHoOsE/Y34AMYMAhv262Dq6GnngdimEZdilgbFVOEHdEVdBiMZysK1myPNV5UtkYRqtMiWQazz1X3E7N5Cvadi/UyKBKvGI3N9MM/GgDa9AoaMLX89OPMhSRKiDLn9z/N+dQuziAfmGO/H68l2X6l7mhTlXUdwsqiWHCngQhLQNWqljX5qIncrtMyhNgOzeWmqbOcDr3/4WCf+lWIKNRY3gwT7kJQB+UOU0iq62vXiGBvWqu/gKMx4M609WXPlBNNVtc1Ku/QgkBCqy4VONnf58=",
+  "URL": "http://libcec.pulse-eight.com/",
+  "LICENSE": "GPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1587993546",
+  "PACKAGER": "BlackEagle <ike.devolder@gmail.com>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "udev",
+    "p8-platform",
+    "libxrandr"
+  ]
+}

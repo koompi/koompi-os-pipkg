@@ -1,0 +1,25 @@
+{
+  "FILENAME": "haskell-hslua-module-system-0.2.1-46-x86_64.pkg.tar.zst",
+  "NAME": "haskell-hslua-module-system",
+  "BASE": "haskell-hslua-module-system",
+  "VERSION": "0.2.1-46",
+  "DESC": "Lua module wrapper around Haskell's System module",
+  "CSIZE": "32439",
+  "ISIZE": "134403",
+  "MD5SUM": "11062fb167514cac40972911b762d87a",
+  "SHA256SUM": "1be7b8591718c5b71e4a7fb34571b3e1012c2d88d096769c5136bb60a1fd590b",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl75mfAACgkQeGxj8zDXy5JWqxAAgwRu9RyeCLCpuHyHSjb1xf7K85kSsrnqq6m+x1M+DpOqv7BFBobQQEJc54WkDgvgAyXyTuEhBy6O62YaZMLKN7Xogi+tcp8BvrIi5gibFEySn21KkjDQYI6h0lhZ1aBdZDXuV+uqT33/OA75kgB71p5LJgaH2iRX0bYuDr7dUIpMzZI/yDMCWojNfNfpxQfuUktmpO1LJzWFPaiIjKfHGXwKfVM5lKEsA+8nA8ifu6Cw0MoKX5thV2ENtwNzTZnrDwyr3dadQpjqe5ZFK2uAhQhTJdiaG2WTkTH02JgKSnoeqCoLbvlafA27iupliv0+1tL50niOtLKUnLHqV11nc2ckofbNC2921SpbfZ4YP/VbirB2vMpRhrbHccyXDBfkHRSMD06Y6IGPtnxjX9CTQUisTp6mP1sjKL4Cfbvgq7jGrnSsOdgGoJ//aHNqbbk+Dv7piyguD5vjRSM159LfNZc9vLimthBcHHGpIAoAIft/XXbWMXBTAUuvut+nmt7s3gexR5YfnGASsgFpUReblCKaST8XQScMh2d1eivj6z07cTmg0Ea/F3WV79tndDtRITzVAkv6AfC+sPtmcE6p4mrl9wprXDkT63WKDz6IbY49hDQVwnVtuqtzZGvkpYk9fsaShwOZjXZg/OIfCVRdOMGFV3B6kV+UxD1FOh/lt08=",
+  "URL": "https://github.com/hslua/hslua-module-system",
+  "LICENSE": "MIT",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1593416151",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "ghc-libs",
+    "haskell-hslua",
+    "haskell-temporary"
+  ]
+}

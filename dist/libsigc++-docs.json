@@ -1,0 +1,23 @@
+{
+  "FILENAME": "libsigc++-docs-2.10.3-1-x86_64.pkg.tar.zst",
+  "NAME": "libsigc++-docs",
+  "BASE": "libsigc++",
+  "VERSION": "2.10.3-1",
+  "DESC": "Callback Framework for C++ (documentation)",
+  "CSIZE": "4844742",
+  "ISIZE": "17249439",
+  "MD5SUM": "86935f8784164d35d81b0ff2c3ec6d90",
+  "SHA256SUM": "c821b78a772a829796bb3b6516cdf2383c1a5a2df339cf0a6ba637dc252978df",
+  "PGPSIG": "iQEzBAABCAAdFiEEghj4iEmqxSLpTPRwpekojE+kFfoFAl57Yz0ACgkQpekojE+kFfoYhgf+NLGv5odNOHZr/Ho+6l+E+jxdsupFeZKNZ4W8l9w8pXMkMHgI3hqEXN6Rqt2I/oxNOU4cPE1XTKXtkPYid2AI8JTujMGlanyyQpqtKMsAVacZyFh82WMrGIuZicynXXVDYH8NAJMME/i4V820b1YQYuKPyMaz0QxRVb1ovrspTtFGhnThHd5BCppmWbcLFjs/uIOEI5N3/hLCwkjPKxEAWV2Fjpk5C+XHjQAIUVUxhoR4B+kI8ehaGHFOJOtZ6bpjRqbr6x5Rc7Xl82yt4xhM34wXVnV11TiT14pJaqR5yX9Su7SxKTq29Kzkae94gwUIOJqocHoyIc1D+k2pq0wYlQ==",
+  "URL": "https://libsigcplusplus.github.io/libsigcplusplus/",
+  "LICENSE": "LGPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1585144556",
+  "PACKAGER": "Jan Alexander Steffens (heftig) <jan.steffens@gmail.com>",
+  "PROVIDES": [
+    "libsigc++2.0-docs=2.10.3"
+  ],
+  "DEPENDS": [
+    ""
+  ]
+}

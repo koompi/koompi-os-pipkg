@@ -1,0 +1,23 @@
+{
+  "FILENAME": "brotli06-0.6.0-2-x86_64.pkg.tar.zst",
+  "NAME": "brotli06",
+  "BASE": "brotli06",
+  "VERSION": "0.6.0-2",
+  "DESC": "Brotli compression library - legacy 0.6.x version",
+  "CSIZE": "320628",
+  "ISIZE": "820703",
+  "MD5SUM": "f11ef5cbbe28910ed835ed5accd5d43e",
+  "SHA256SUM": "41da303cc67563e9989eb78386a97e4add41884607e7bfcee4c6605ec6735577",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl7LxLgACgkQeGxj8zDXy5IutxAAnGeEdofPuaPemLncYha8lJuvb+9Kc3ZXXrGYVsO8xPX+opudd+PzUKk6dyZbs7GU4nIxTnQb53baEzg+85p45/9xvUDQ86Xz5pOmS1Tb3QA/VGYqr2yD5B3v3k6EBWekvYyfyinN0uE5qoUCx8TMAep3cavHFZK651sGPaJBuHtYLnyVza1SVED1jnVjeaxGgCv2sK8rsguun0UtjkXb34DIVL0wCg0iNb/2IWTYb1xwHkJ+voEcu3MyRSF7RhlYF31qeh9J+35BSfRbs/F1O7a/5pNr7PuqOQoFSmGDpmgRKfzh1SgqgyunO19H7QClkPnD2EddAgtgxmHup9Tg2NqFhRUjG+DvNowT1HPC4LoayrpqGRLAY7KMG3ZUxqHEhzmEADJQML087QAwyiiBfkwsc7N3jtAXMyp0PXc6goiVmBVA5jKyCHIPBKiFFiYT1O0w1xRI3uJTvr4/1Irehor5yPZh6oa0LFfUW5Bu2TxyMemp2ewZyxt2mZ2LGCAx/mYR0eSaOClzp6hyFAatum5RSFFniRbCQqXFBz12DNwGi2TBaEMR139Y4K/t9kauBJOEiTS5w+l6zLKxjIFw2WNkcN2HzN47wGSD2V6cL+jANmGtk48pnr0VQYNEdxQbHWu1dhOSj61Eqmi73btqZkI/T5V/Mj/B7RjNsAQvQ2U=",
+  "URL": "https://github.com/google/brotli",
+  "LICENSE": "MIT",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1590412367",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "gcc-libs"
+  ]
+}

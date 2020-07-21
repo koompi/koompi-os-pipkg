@@ -1,0 +1,23 @@
+{
+  "FILENAME": "qt5-lottie-5.15.0-1-x86_64.pkg.tar.zst",
+  "NAME": "qt5-lottie",
+  "BASE": "qt5-lottie",
+  "VERSION": "5.15.0-1",
+  "DESC": "A family of player software for a certain json-based file format for describing 2d vector graphics animations",
+  "CSIZE": "111962",
+  "ISIZE": "398982",
+  "MD5SUM": "2df27d57f1601a52be780a86f5373ce7",
+  "SHA256SUM": "857eff1fd27f1e657e7b3d0ddb6b233fa5247a862e85d2c95516c13ad8c6da1a",
+  "PGPSIG": "iQEzBAABCAAdFiEEFRnVq6Zb9vwrc8dWek52CV2KUuQFAl7M1usACgkQek52CV2KUuS0NAf9FFW525NVu/SaQA7PTBsxTglJZ9oyh9HBAr2zbVmuwDxEkGNSkew8x6nkz/ywSQl0dcZB0t6RaqxE1h+ADdhK5G9MG9G5vmQi23b+UN1A5qt9c1Gw1skL8ML9Z5io5RsvBJG6MUzDFX/C1DvN0HVIAnWvCd1bOcWUBeBtYDdELvz06WJkW+sNykt7wDqZodWS0r1RyDwhy2NUHu5U/ZHqmqXlAPH28ayUgoo3izRJNXcBiO2gZqhWMrtSWsl9bor0MO22iYrFzxVYgVrbjx5PRD1c/y+UQGMvuAweI5y7GaJBmHidTajwMprJrdrR9wegliYnxHm+Casid35r40z+2g==",
+  "URL": "https://www.qt.io",
+  "LICENSE": "GPL3",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1590481261",
+  "PACKAGER": "Antonio Rojas <arojas@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "qt5-base"
+  ]
+}

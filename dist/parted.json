@@ -1,0 +1,24 @@
+{
+  "FILENAME": "parted-3.3-2-x86_64.pkg.tar.zst",
+  "NAME": "parted",
+  "BASE": "parted",
+  "VERSION": "3.3-2",
+  "DESC": "A program for creating, destroying, resizing, checking and copying partitions",
+  "CSIZE": "552756",
+  "ISIZE": "2364164",
+  "MD5SUM": "60fbbda5c33e72b41021f35a9f40f4a7",
+  "SHA256SUM": "bb85768201907847251997e2621e0a3dda6e9739ff287169c656004e73ec1015",
+  "PGPSIG": "iQEzBAABCAAdFiEEhs/8qRjPOvRxR1iAUeixSKmZnDQFAl7DqfYACgkQUeixSKmZnDTEZgf/Q40VLwQt5TCigxLBar4KwiaHuzvhbMsclfNY12iyo0MXWO/6C4ddag2uiXIm0S8Mjio9TPQSgsk8Mmu/xXoU9S7oqlZXhdkdQm4TTJwiMpN0GjTrDivzivFAluCZ24TwOIBrztHvi2e3FRlIsZihAzIZYOakl1Vf5MdeLrzoojLtrLZF/04DIhYTtkAjqE+ui+sU2ZpJ8IKBfsr54+LSKD202/8WlI2NbBmHmsyjJS/LLNbTe9bli93zRzcQc86gMmmKACPsL/thCrvo1TrGUhiSDnyNylhAGfQlxvf9DYb/AT8BT2IDTJOLtCN//JUvK/TfeS0k3ojLYlN2MqVI4w==",
+  "URL": "https://www.gnu.org/software/parted/parted.html",
+  "LICENSE": "GPL3",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1589881226",
+  "PACKAGER": "Evangelos Foutras <evangelos@foutrelis.com>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "device-mapper",
+    "libutil-linux"
+  ]
+}

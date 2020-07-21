@@ -1,0 +1,23 @@
+{
+  "FILENAME": "python-tlsh-3.17.0-2-x86_64.pkg.tar.xz",
+  "NAME": "python-tlsh",
+  "BASE": "tlsh",
+  "VERSION": "3.17.0-2",
+  "DESC": "Fuzzy matching library that generates a hash value which can be used for similarity comparisons",
+  "CSIZE": "14872",
+  "ISIZE": "99154",
+  "MD5SUM": "c20126901073734d417621515c0f7050",
+  "SHA256SUM": "94aff9908cafd68e31084a639f9bc608dc00b45238982299e4f5f4f178becef0",
+  "PGPSIG": "iQEzBAABCAAdFiEEhs/8qRjPOvRxR1iAUeixSKmZnDQFAl2+x9UACgkQUeixSKmZnDRIrQgAj6jMDgGSW9+rk0o5qjRv+BOS0QtPgODDpRjLnmGtEDoDIKp1L8T9BuoMc//EU3BX7W3eDJAz/kCMT7D1rb3G4Oh77oLoaOh7xvPdWa98nHVLfy6fCObH+qN+s91JKCHg2XE1+farG/BNHZH6NXvz/dwWrZivgnD5jU/gs8hdlVZ8lKoE0Afy2nY37KBK0z534zCybRgwHJLAo3CnDyBJbdQ+x5Nv1xOJieEL1mEaHrkwaDwQ/kHST9wqJu1GDZwA5F8NtxxCVTg4PjJdAin0ywKByfzc/elPQLDgVO4sXEXeQlrHrqPqNyGvbW4Gp+uyuFCJyz4YhpHD4qTGF/kRLw==",
+  "URL": "https://github.com/trendmicro/tlsh",
+  "LICENSE": "Apache",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1572783994",
+  "PACKAGER": "Evangelos Foutras <evangelos@foutrelis.com>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "python"
+  ]
+}

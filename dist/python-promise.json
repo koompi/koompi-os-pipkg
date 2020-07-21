@@ -1,0 +1,23 @@
+{
+  "FILENAME": "python-promise-2.3.0-1-any.pkg.tar.zst",
+  "NAME": "python-promise",
+  "BASE": "python-promise",
+  "VERSION": "2.3.0-1",
+  "DESC": "Ultra-performant Promise implementation in Python",
+  "CSIZE": "37419",
+  "ISIZE": "157578",
+  "MD5SUM": "6b964fb2e60a82e7a7849a84cebb39d0",
+  "SHA256SUM": "69fe6b0aab7f1e3d09e0468584dc56f8bb67362a860a307f8f8c2c48f5431f7b",
+  "PGPSIG": "iQEzBAABCAAdFiEElDfdOBWnqRaePTlGr/XZUJi8b/UFAl4S/PsACgkQr/XZUJi8b/Wbcwf/b5jR+i6nfLMDSWm+edlOZbHApwGePJ7PHr3/d0pc6vYJHEdE5cAkfxH0lyRMSnKD91x2Hq/OxfRIo3KxnnHAGUvHnk1tiJlGn4GKsHBcNClVewz16VOJ3/ZkwYlCwD7aOu8i9EGy2HsCPvwvJhvF6N9E4YkFBx49ZmOA+weEtLhSyuZ/+UmeDljcPfNDWUwMxZRRwFQm/rq9SGoeCUjTkhDZwO2WD01c+rOmV6O6eCGnbKHfW1DviO00wXBReVVOcWD201El56a9cuQhTFGHwR6zYnBgeC2fA9VcLIPol+Rhy5s2JhxTHf4UMhTWnhTdO/NcoFQ9aDeUGmo6Nq0GHA==",
+  "URL": "https://github.com/syrusakbary/promise",
+  "LICENSE": "MIT",
+  "ARCH": "any",
+  "BUILDDATE": "1578302698",
+  "PACKAGER": "Maxime Gauduin <alucryd@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "python-six"
+  ]
+}

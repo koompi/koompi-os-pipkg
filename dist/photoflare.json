@@ -1,0 +1,26 @@
+{
+  "FILENAME": "photoflare-1.6.5-1-x86_64.pkg.tar.zst",
+  "NAME": "photoflare",
+  "BASE": "photoflare",
+  "VERSION": "1.6.5-1",
+  "DESC": "Quick, simple but powerful Qt-based image editor inspired by PhotoFiltre",
+  "CSIZE": "728519",
+  "ISIZE": "1680475",
+  "MD5SUM": "eda0ade9def73cc1016742ff4e1b9da8",
+  "SHA256SUM": "7b81be398856968b02db6f159aae91ee77d14d769e59782225f5acfe9ff1c02e",
+  "PGPSIG": "iQEzBAABCAAdFiEEzgvecadZqH8j8PfYth284QkBwWMFAl8I0+kACgkQth284QkBwWNhewgAs5AZcL518OOvRx445QoW4pP0OBZW7zrrnBmcIp5I57UoCL58MiATIGKm6DpTifGu0bJ0hbNtMuJcl6igMPzmqd0cYx72fapSbDVADh++9jftZ5wWOdbCarucBg7DuJwhFk09S/Whmmpl0XwoBN6xNzCSTnlNvCJp2dZJM52hI/9rH8Bl367JHEdRdVodkMIb6OFGgy+Xr+SrfhvASvJd4YgwP6p8gQ/05Mt1yAIk9CC/s0uH0oplceyu2N7BOdvTFGJX6kCYRDIT/7X29QZ0hSskuepkd/4Cqoa5u62dWhKaFjg0vrPg69yIAKDsH38X4WRUiKZHJ30TaAG/O6OmOQ==",
+  "URL": "https://photoflare.io/",
+  "LICENSE": "GPL3",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1594413997",
+  "PACKAGER": "Balló György <ballogyor+arch@gmail.com>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "graphicsmagick",
+    "hicolor-icon-theme",
+    "qt5-base",
+    "qt5-imageformats"
+  ]
+}

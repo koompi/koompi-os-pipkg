@@ -1,0 +1,23 @@
+{
+  "FILENAME": "xmlrpc-c-1:1.51.06-1-x86_64.pkg.tar.zst",
+  "NAME": "xmlrpc-c",
+  "BASE": "xmlrpc-c",
+  "VERSION": "1:1.51.06-1",
+  "DESC": "XML-RPC for C and C++",
+  "CSIZE": "376744",
+  "ISIZE": "1502566",
+  "MD5SUM": "91fa0253bba5e00106de6a2e56408030",
+  "SHA256SUM": "70e228fc7af477ca9c98f4ac10974b60b5906ffe4f2957b8284233cb908fa4e8",
+  "PGPSIG": "iQEzBAABCAAdFiEElihV8HLHoBhGQFhk/PPIy1z5yNQFAl5UIAMACgkQ/PPIy1z5yNT4vggAjteOsdYDfJ6+J+z4Zugyxt2va/LsZCLNkn+xvVhozqAjcLxjPD4+eYChsFapGymFegVjIfWSsmZgWJoX3fszgxmppht1qCsTrcICR7yCY6tF30o8/uPGepkkrvphSFEPRYknhkWTXff4wUUZP03HrNWccRJ/X6g9h99bY6BfNQWl6AEATryBvz1pQXR95Y0K2c0HGEYiXjSovSgrz3i6aiOol28YfzEdzNnwkirEyh7Yw9zxBl8QRKJlIYtLPAKCUxjgrYK0/KQdY9gi2G/+6CITX7DcNMrRNWMIfNBY+Ye+ZirKNuVORCYa6CYLdV/Shpt8A1rsIsXgmUGk14fEsw==",
+  "URL": "http://xmlrpc-c.sourceforge.net/",
+  "LICENSE": "custom",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1582571393",
+  "PACKAGER": "Alexander Rødseth <rodseth@gmail.com>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "curl"
+  ]
+}

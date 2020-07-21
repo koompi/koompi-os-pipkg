@@ -1,0 +1,31 @@
+{
+  "FILENAME": "dblatex-0.3.11-1-any.pkg.tar.xz",
+  "NAME": "dblatex",
+  "BASE": "dblatex",
+  "VERSION": "0.3.11-1",
+  "DESC": "DocBook (XML and SGML) to DVI, PDF, PostScript converter using latex.",
+  "CSIZE": "1433788",
+  "ISIZE": "7942330",
+  "MD5SUM": "c57eaa05a0fe08686e14946453f034ed",
+  "SHA256SUM": "97b7b1d7b9fc958c4bf477ab782ed0085f79012006beb696395e39a8de48feb9",
+  "PGPSIG": "iQIzBAABCAAdFiEELjbYYgIhSC/EXLfyqRdkdZMmtEAFAl3IhhYACgkQqRdkdZMmtEC5WRAAxAHkjLN8PvkCl0Nakt5S45D5bKD9Vp9iy7e+RblyVoQKBktZzfwXM6NqIPbCBDfIeMulELQIm0beVsKOtie9EfriikOeP72CA3r/tsKA3HhT12GZzw+P0tFrNkqCTJp47s8RdHDMAgMxTJWhTvDaRHTDPGHzVUu9j/pfPEzoUnQR4UuEyFZrcmXLTTINzjNmdpSRiI5CM4K11t7GMrZo9YOBvlVg+rEdOCuEXvkzpPezIiL83Vf7CHEF8HxLM/gEsaaOLPNdiF7TaK/jcsL/KVs41Lwctw0WvowyyEWX4QlBF9VhhIMUep5k9uqNEket1TJoo23gq0rpQW7D0A/W/4SWGZLvxNrSUI62J40S/x0k2xVNZ5N2kZm4fSFahUEdNRzaQKaDjWULu0LR3MQaWtmwDsZ5NLk2D2ngqhTj0mjzNHdP1b+6MZBhPcYXeEkzq+26WwN5sXJDuJCY/nKsxVcn+EOIKvi1z8Xz62PUBn9m6qN7ZvZE7TYgHzHpt+Ph4A6zdUo8hntxd+MqliYnjVTbamhuaYyIpCmvhj/28YUCq0B/TZJx19mW0IgSfNi1zNOq/sg7td93Hx0TLPuK5TdFeAOo9IPm6ZpK/lxGMs8NnaS2q696f1AOYHzDDzzQbaeOppRItgtoKX9C62FcmU96Ibv8gJG2fdjOwUJxiBk=",
+  "URL": "http://dblatex.sourceforge.net/",
+  "LICENSE": "GPL",
+  "ARCH": "any",
+  "BUILDDATE": "1573422371",
+  "PACKAGER": "Lukas Fleischer <lfleischer@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "docbook-xsl",
+    "docbook-xml",
+    "libxslt",
+    "python2",
+    "texlive-core",
+    "texlive-htmlxml",
+    "texlive-latexextra",
+    "texlive-pictures",
+    "texlive-science"
+  ]
+}

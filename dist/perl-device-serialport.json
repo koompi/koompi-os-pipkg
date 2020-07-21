@@ -1,0 +1,23 @@
+{
+  "FILENAME": "perl-device-serialport-1.04-15-x86_64.pkg.tar.zst",
+  "NAME": "perl-device-serialport",
+  "BASE": "perl-device-serialport",
+  "VERSION": "1.04-15",
+  "DESC": "POSIX clone of Win32::SerialPort",
+  "CSIZE": "51179",
+  "ISIZE": "142403",
+  "MD5SUM": "dff45af1210f9d496a275fde2adecf82",
+  "SHA256SUM": "79787959ab19dba77a1618324d6c791649224803255e9fe7f7da7177eb3c45c1",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl7vhecACgkQeGxj8zDXy5LR3w/7BCk1zV3eCElz73ric5kGfIVN6WMsXDWR6NJl/pZ1nGpLOv+mwqV2JNSoQsx8Szw1GHc4StsRsaP1sZxUVSLrpZiwwdxyuEKEBOT8poSBSYG+bHZIFCB72oWOh6i4UrTODAq4WOBIYImNzHKFGmJdKLPcxXxfP2/sNNJsNO4omwTb61z8zqJ/zt9ysTyJwXDneBJ5eFwtkFqpsuBSy4D+5i2MVjIiXT6mB1pLjKfoalV/R0WdvlNVTUORiuTVXmqzUKp/ZsnTTTcs3Xq8pErMTFYRA901EqqcxU8xWmOvewLC4Zb151cYMBu5GNwmeJmYPc+zgvLM0+lhoYmrk+gPo3n1fS6xInzEBA1DB/FQ4YwKwCI3R/RAxoejJcdEz2O/qrIexn7HN6fO6y1xItF94XmQOeNG5I3OKP8BauYvizewXkh953HZuXljmJKiiNlaV6E31FNdPuyKLmc85tMGRmdYcDYbw34WjxR8h4YB0g0JtkjzzcNV0Qb0TraTVWSdm6ElpXRwe1jciei4H0w2svkDrkkfVBk6ro9wSvEn2XvLe87vx7efKMmfsPv7J1IFCpu2OwknQwdkOmtDms8bTEzrN1fn7sAa2Ua2gM6vtUAB4eeV24u7Q8Iwm+xNyG59n3E0jc52DR1jrpqUOXOnuINCOnCR44D7i9Waa9gih28=",
+  "URL": "https://search.cpan.org/dist/Device-SerialPort",
+  "LICENSE": "GPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1592755443",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "perl"
+  ]
+}

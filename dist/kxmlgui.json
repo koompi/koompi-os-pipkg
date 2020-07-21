@@ -1,0 +1,25 @@
+{
+  "FILENAME": "kxmlgui-5.72.0-1-x86_64.pkg.tar.zst",
+  "NAME": "kxmlgui",
+  "BASE": "kxmlgui",
+  "VERSION": "5.72.0-1",
+  "DESC": "User configurable main windows",
+  "CSIZE": "1646706",
+  "ISIZE": "4392455",
+  "MD5SUM": "6821ce078e730466b72ca9a88a569585",
+  "SHA256SUM": "6427f8e2a7c68c77881da31e7c0228c2080a4b1d08c9b8169fbfcc1eed46e114",
+  "PGPSIG": "iQEzBAABCAAdFiEEFRnVq6Zb9vwrc8dWek52CV2KUuQFAl8JYGYACgkQek52CV2KUuS4jggAhxW9G6aoiSeo9IIdlkVEia2AHcHCBPRzBmppoGDaT7lNHoADBqf9Ex5NpQL+nWGTOZ999WyD9gZfOUnqKUBIGI/JTGCxS4bazunN9pghb3bW4cT+CMJei9c+QnGvglfED+2aFKfe0cKGrnQ0i7x12WA+UKzVGunmFexzXon3/qZxYeuoQbZu6ymY1E5PMdlNvFTSmZ83ikqkOZyylbWg1hPgqFdL/ylBV57hKMoWOrY7NfqiO450mPy3WGjsWxuf+kXUR9anFeyFIgZfTB02gW7BU3SUhSp4/uovfMr7smDKx1FwqUZgrEg+mn6I1YK2HaYmuVqCN0/3ccxDwNqGuA==",
+  "URL": "https://community.kde.org/Frameworks",
+  "LICENSE": "LGPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1594201462",
+  "PACKAGER": "Antonio Rojas <arojas@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "kglobalaccel",
+    "kiconthemes",
+    "attica"
+  ]
+}

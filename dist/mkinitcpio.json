@@ -1,0 +1,35 @@
+{
+  "FILENAME": "mkinitcpio-27-3-any.pkg.tar.zst",
+  "NAME": "mkinitcpio",
+  "BASE": "mkinitcpio",
+  "VERSION": "27-3",
+  "DESC": "Modular initramfs image creation utility",
+  "CSIZE": "42790",
+  "ISIZE": "103946",
+  "MD5SUM": "0dcaca53ff12f6c542d404daf79d70b7",
+  "SHA256SUM": "d0b4dae40024bf798e25cf11bc4819fde04362e4f375c2f8a120248fe7b6c508",
+  "PGPSIG": "iQIzBAABCAAdFiEE7MrITBugimzI5j+78i+x14p3rqsFAl5UKpgACgkQ8i+x14p3rquM4hAAhH20AUirFiWR8MwRGVezBAjsaaMBuZcP451Xzn4knouJjpgg8WuStO11fN1645KHs/PwIOXu4XL9veduAuUHl9WgwYw+YiJZzPaeDqJnOuQPj6L9AE8xYcH8B5D1OYiIYfgsJnIO5KLW01mDAyhx9xEk6tuKJ9ttQFSiwUQQBSMTvhk9No5ND1GNVwad+BMQcRDewvQ+7GEfAn3a9vF2k7gJS4uv+q3SEA/k9vPMIWz5RywnPwmh+3BD2WyIdudptMMb3zCg0y/NXLW856c95r+XaNEvuYcEv5HPe7GhXEp/MutuCEqttBxfIt0fPCCMQKJIUP1/HnPW109gPykeJP0Raj7Mpywm8wR4zCKXZ4ypMLHxSJfy+fyoj0wwuxX0efxwkFRObWGEjai92ptxRSRSbpgCRKaiiH56ECK7XT8+SnoHTr6rfdmBrKJZAOeFxNKqo5/sn4ihVlwn+qGRkIumMSrOpm5FJ5C+zgLkOu8mmuDUcy8gR8BdVrOQb0NxEk/ZfvBmXskH7IO/5/eZPjEqQotz5EUhFHnhkjnDB/j3rez0P4eQ/xK6iMUeURaaEWaUuBc832SUMrWNDMwLGURBKnttqVv9J5ZtuTwbn1dAb6QqgamXijId4b6ehyrc5kTtY2kbxjO4I1T3e9AI06nBf7srBtp0WkM7pBHDin0=",
+  "URL": "https://projects.archlinux.org/mkinitcpio.git/",
+  "LICENSE": "GPL",
+  "ARCH": "any",
+  "BUILDDATE": "1582573988",
+  "PACKAGER": "Giancarlo Razzolini <grazzolini@archlinux.org>",
+  "PROVIDES": [
+    "initramfs"
+  ],
+  "DEPENDS": [
+    "awk",
+    "mkinitcpio-busybox>=1.19.4-2",
+    "kmod",
+    "util-linux>=2.23",
+    "libarchive",
+    "coreutils",
+    "bash",
+    "diffutils",
+    "findutils",
+    "grep",
+    "filesystem>=2011.10-1",
+    "gzip",
+    "systemd"
+  ]
+}

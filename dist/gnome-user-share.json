@@ -1,0 +1,27 @@
+{
+  "FILENAME": "gnome-user-share-3.34.0-2-x86_64.pkg.tar.zst",
+  "NAME": "gnome-user-share",
+  "BASE": "gnome-user-share",
+  "VERSION": "3.34.0-2",
+  "DESC": "Easy to use user-level file sharing for GNOME",
+  "CSIZE": "68151",
+  "ISIZE": "275315",
+  "MD5SUM": "819461d310b4e5a4fe14a28c0030aadd",
+  "SHA256SUM": "f8be5cd91be32c27a6495ab43255cf27942155b0669c5b37723213d9485d2349",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl7DkVkACgkQeGxj8zDXy5Kc5RAArGZ/F/L7WZD9h+E2yam6+9IYVR9E/9QKbrFfdW3uWDWr/iM5DMsV8PdMEYorHgNPETYRZIatwShvBFJ1YBBLkIGptjIQb10LYEjpkH++On36PvY7zozdqIp79j/nnG810Iyj6KTdRCiifc1xj1V7X5FMFyZAPHQh3y/6D22PZmV4FGWRVherMNLJwAFYCqcXFimJKcct6mBGZndLhDoDtmtRL+vlY++G4rQq7Gzi36gQhLVZRjMQsJoTQ/HMfU2l9pJSfGh/7DjEOG+a84sif1HM1xOHb7Y3hlp2obljacfLLzaHz8NRgoYdr9G5qROhYOheGl3BnQvZ35yMXBUJd4oP5zAIIsFbcMOEdDqzx4f7Baxd8nbw8hTCAN/FK0S3LdFnrrdLDsaZY0SyUvFoBZuhiPnGQhoTscMRShd8ILFt5PpX82f+SQ4sC/pl+rCpV8QpCj+d9z5XNp3O8aoNC463+bQax8i9Nnhvg22IAx04mpFpnZznOO2pRCsESioKaw7YX63E8sWC8W7Al/ikoUTwL0d+s6IVNh6iw3gKO690G7L0dJd9c/m9wnGsD1oSs+plgf3HEQRtehb0tqKZfxXA+dMjlHTAIaAmapyS7tpZMTQYjo7Mgmr2ezFrjzBeFH0c5Gc6aGOUUj6+ae3Z1835x79Xno1y/l5ZjYQXmVU=",
+  "URL": "https://gitlab.gnome.org/GNOME/gnome-user-share",
+  "LICENSE": "GPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1589874983",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "mod_dnssd",
+    "dconf",
+    "gtk3",
+    "libnotify",
+    "libcanberra"
+  ]
+}

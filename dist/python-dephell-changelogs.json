@@ -1,0 +1,23 @@
+{
+  "FILENAME": "python-dephell-changelogs-0.0.1-1-any.pkg.tar.zst",
+  "NAME": "python-dephell-changelogs",
+  "BASE": "python-dephell-changelogs",
+  "VERSION": "0.0.1-1",
+  "DESC": "Find changelog for github repository, local dir, parse changelog",
+  "CSIZE": "13014",
+  "ISIZE": "32226",
+  "MD5SUM": "1472a22ad718c027799a077cbf76f6cb",
+  "SHA256SUM": "51862f128995ce6012fbc8c06a66c111cb4f0adae96fadd27d47f417ef21a3f2",
+  "PGPSIG": "iQIzBAABCgAdFiEEYEETBMCdNmKDQO7/zrFn77VyK9YFAl6B/TYACgkQzrFn77VyK9ZDjhAAuqfKD223ezo7B1JkzZ0+z7ueI6Avf6hDKG8SYzRWaY8MQY+Lw+JwoXFpEl2LPY20jQzNYxvr/jRj67skuwGIbKBOuKWwPIBHUowhnY00FX1Mc6GsOW9UoFr4v1O562lleO2rYdIGrZe8Jwbq+GxECY3BxioC4CbOhNfgl445lQtQImIAbCc+YrW6VhKl1Vp0ktfdlb7O19Re2jum6kwKpG0PLzcFTw0n3BV+9Z6Xz95EzdjsUkU7CE4uNDbHPZOyDhxCHft3Xwy7bTVYxhQsNWUrl3Y1mYthH5y5GAOYdOyF2lDXE6HzwmTHjMjNJm9valWKhhsMCM1GuTRtnx/B12d/zwjp3Yms5VhHVI6lQQiO/0eImNvKie0VSrM7GiEwng+Bwimj+Z91JVJZlow994/KRalp56767eXD4A3KwUi3mqJ/YABJPkKjMw1WN1GKG7FDZPGQa36Z3KGgqDV34qDyghho6vl407B5gFmIluoulFRuqOf7xkNs6xinc/QY6/Gg/CgXs/hVMomjS9/xMIuStysC4yO+FvLK0i6nuQu8l9VrV9lUCiG8jJfmTfd8D7ObHbz18yVbxFEm4CYd1B0OQhrLcO4B6NucdP2BI3XGDHZayqrJkFjp5fk8QLlAhsVJf98NX/sYOj4o1T9VfjnoCkNvFkIVGuQbk8BCvJw=",
+  "URL": "https://github.com/dephell/dephell_changelogs",
+  "LICENSE": "MIT",
+  "ARCH": "any",
+  "BUILDDATE": "1585576951",
+  "PACKAGER": "Eli Schwartz <eschwartz@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "python-requests"
+  ]
+}

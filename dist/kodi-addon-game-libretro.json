@@ -1,0 +1,25 @@
+{
+  "FILENAME": "kodi-addon-game-libretro-1.1.1-6-x86_64.pkg.tar.zst",
+  "NAME": "kodi-addon-game-libretro",
+  "BASE": "kodi-addon-game-libretro",
+  "VERSION": "1.1.1-6",
+  "DESC": "Libretro wrapper for Kodi's Game API",
+  "CSIZE": "101148",
+  "ISIZE": "244448",
+  "MD5SUM": "85225354aa3c6802cb88808530df82f2",
+  "SHA256SUM": "8f422723b14440ed7c268446637c8d711dfba7adc0018623934a2b05df8ebf22",
+  "PGPSIG": "iQIzBAABCAAdFiEE2yJ3vNUAqjglYQvd2zIzknlsoGcFAl8FfXkACgkQ2zIzknlsoGcTFBAAnJUtddYGD5gXvx6xUwTFu5fDIp5bRUOIqP9/b81eV0NP0kk7NwsYMqkc6cW20Lqmas0dc6rRZ9BenGpkHSVRuKeLqFXtyZAbhYJh0rOaHssSiu+1JZ0h9A+z3MMmJ0MgWCWsguAOmVB8NQ2JjeEDTnSgJjUE2wr9s6ewM9AuNTt3NRVbVQ4qVRsOFv7HVa6/o5q7b483yG8qvXMqgwn4y/KlFXUZycrpGVUtnqnOq0EeM+Sw5fGpMKswExTJBWA4EujDrJoiRctpmKznSa/Y4Q7lpxtm23qu9jzhbRo30C9KRHQC/r3Ae5jqQM8AC/7kiiZIA/afvNhDgedaVKdpoq7Qhe2gy7e2AJqiAiAAFG3UK9YjYMrC0pI1YyP5TuuO2MzvnXaCr3QMgxsL/0NE/Yxhy9oulh94AxpExfQ0DFfVmC1f7Ka8MQDkfME4gZj2DGA2/kIaeKba6GHGNy9TiiqyjWkb+tNpQ7zB3+09U2AeXpnynfF/tYvxEyUuk1b4YFC7JlkVSdbV5ndInWzeQRX1Ib525i0hIIBeowXKo4XH6gaO0/rA2lwJsptL869iUSC36sdUDaC1kGfdM/v+nt3mcNcZBb0Zy8yyRE6SQlfGI7Sx6YJYtTN3wa+Fkzw4+eUFc/XJEmO7+8i3gHDMep48GC4eKsNNj0MyIzp98jQ=",
+  "URL": "https://github.com/kodi-game/game.libretro",
+  "LICENSE": "GPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1594195270",
+  "PACKAGER": "BlackEagle <ike.devolder@gmail.com>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "kodi",
+    "kodi-platform",
+    "libretro-core-info"
+  ]
+}

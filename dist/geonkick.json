@@ -1,0 +1,28 @@
+{
+  "FILENAME": "geonkick-2.2.3-1-x86_64.pkg.tar.zst",
+  "NAME": "geonkick",
+  "BASE": "geonkick",
+  "VERSION": "2.2.3-1",
+  "DESC": "A free software percussion synthesizer",
+  "CSIZE": "1560113",
+  "ISIZE": "22612760",
+  "MD5SUM": "12d2164d74f8fb3b68fbd07f49aaf9fc",
+  "SHA256SUM": "72f626548d4c53ec8ceddbbf1c10a0aba55d0aa3417c201285b58b2211d7080a",
+  "PGPSIG": "iHUEABYIAB0WIQTH54SUZv4jWDQ1iDdyWHNLQcMVSQUCXuOs4QAKCRByWHNLQcMVSbaiAQCUXHDuy+GqGY5kX2pAANMZ4A/rVggcniwem49VZVSZ1QEAwV+eXkBCViy90kjhWqht3SB9mnTCLTlyQsxIYyTYcAw=",
+  "URL": "https://gitlab.com/iurie/geonkick",
+  "LICENSE": "GPL3",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1591977719",
+  "PACKAGER": "David Runge <dvzrv@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "cairo",
+    "gcc-libs",
+    "glibc",
+    "hicolor-icon-theme",
+    "libx11",
+    "libsndfile.so=1-64"
+  ]
+}

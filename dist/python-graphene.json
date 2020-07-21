@@ -1,0 +1,26 @@
+{
+  "FILENAME": "python-graphene-3.0.0b2-1-any.pkg.tar.zst",
+  "NAME": "python-graphene",
+  "BASE": "python-graphene",
+  "VERSION": "3.0.0b2-1",
+  "DESC": "GraphQL framework for Python",
+  "CSIZE": "169112",
+  "ISIZE": "972613",
+  "MD5SUM": "c3af2018e25dc6d2466a39e65a4bf4cc",
+  "SHA256SUM": "c12013c1c57eb93f4f7be8604475c33738555f36906d5da48708b85f18286d0d",
+  "PGPSIG": "iQEzBAABCAAdFiEElDfdOBWnqRaePTlGr/XZUJi8b/UFAl7SX/0ACgkQr/XZUJi8b/Xi+ggApDER1fjU0U+kv6SRTiN9J1knoQcuxdbQYQ8ck1y37E6UTGCaaBj2T0z1iQQd3dBVcPRGt3SMT+93jq18CkXvW6sc9npiOPuN0nn65dpOtRw9zDUOCRRSR8PlMLjId3IC7FfVmxWTby4owhyw+pqNMqQaJRhLZ93kmhpYpIes619ZEYmvnhMGe0B3rxyuP+wejMScI8jYZtQQFLNe5+VsRjqvbQ4hUB+7KDt5ORXQm4M2qlzd9zKc9nVO4xeugD3Dt0mfTvpFK21Y7ZdkM3hPQyF560FSJMkbsWGLJfHx8OzWk6vnxw84YO7pNa2w22v5HyMoq+NJASY0ie/jxDFitA==",
+  "URL": "https://graphene-python.org/",
+  "LICENSE": "MIT",
+  "ARCH": "any",
+  "BUILDDATE": "1590845355",
+  "PACKAGER": "Maxime Gauduin <alucryd@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "python-aniso8601",
+    "python-graphql-core",
+    "python-graphql-relay",
+    "python-six"
+  ]
+}

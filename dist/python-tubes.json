@@ -1,0 +1,26 @@
+{
+  "FILENAME": "python-tubes-0.2.0-3-any.pkg.tar.xz",
+  "NAME": "python-tubes",
+  "BASE": "python-tubes",
+  "VERSION": "0.2.0-3",
+  "DESC": "A data-processing and flow-control engine for event-driven programs",
+  "CSIZE": "87392",
+  "ISIZE": "635417",
+  "MD5SUM": "375144197ba7510d1b6a917f635ff917",
+  "SHA256SUM": "43203599c5564f02341ea8cd21c7514d5a751c9d6ca582290eea04a3d208591a",
+  "PGPSIG": "iQEzBAABCAAdFiEEhs/8qRjPOvRxR1iAUeixSKmZnDQFAl2+A/wACgkQUeixSKmZnDRtkgf/S11XWXrELB+Ppme8nHqyX+czy1+kOkp5+o5Hiz9RggpBzaevSfh0YhgBE9uP1NmqwFA+RaSM9F+CVvcHt8b9YgbIwTHHDFMzt70nVnvP8beO6M7IDKkYeD5OAMXA1oOBWeekO9FV9V75Hqc3aqNf/Qb7jBmUmNT/WxhdWfTLFfjJ/ObG98YuA0HE4fO4iQ5o2bhH/XMfQXAknof8w/C7+Tfu7oC0RFNvG04s9xxk3oU6zA3qiSJrr30nZuAdGA+L4Q5EmxHdEfhjZQTptwRA35BxMApTLkwdf2nimTmQQ4gI5X3+gMbdBmEIu9pDeUzRqsveMxCAd/vZbo4GR0zwSg==",
+  "URL": "https://github.com/twisted/Tubes",
+  "LICENSE": "MIT",
+  "ARCH": "any",
+  "BUILDDATE": "1572733929",
+  "PACKAGER": "Evangelos Foutras <evangelos@foutrelis.com>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "python",
+    "python-characteristic",
+    "python-six",
+    "python-twisted"
+  ]
+}

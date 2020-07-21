@@ -1,0 +1,24 @@
+{
+  "FILENAME": "picmi-20.04.3-1-x86_64.pkg.tar.zst",
+  "NAME": "picmi",
+  "BASE": "picmi",
+  "VERSION": "20.04.3-1",
+  "DESC": "A nonogram logic game for KDE",
+  "CSIZE": "1183067",
+  "ISIZE": "1858913",
+  "MD5SUM": "694af1ef51dcb90bb8a7bec30cc81408",
+  "SHA256SUM": "8a32173f4f25ce75183bb08428bef1daca8c445b5561cced21cf3a1625524656",
+  "PGPSIG": "iQEzBAABCAAdFiEEFRnVq6Zb9vwrc8dWek52CV2KUuQFAl8HBjYACgkQek52CV2KUuTZhwf/dOPpIIIq5cLgF44lh2jpwS38odimcOPL/Y8bNHisXMt5D8trA3eHpq3RR17qjI8nmyErv/W9tNkS1d8qGfXToLlZLWRtWm0FsJOS8EZROt6g+UjjCFYiRoLTj7d14NEwITM2XZ2zCBoR5atlC+m74nlvBM3WBAZjk+o1YgyZF1hILVuHFUN55xm/49EgLM/Wggs0GviR84EFu/JyFj4p4vrLFrrWUWzlwxCLYUFUmm7MRT0corK31EMN7T4mxSr9ww32k51i9qbVl+4e0zfHRW4qFVBUlAz+ir9JBrQjFvSkescD7IH0fiQKBaP2PiygngbiZob2J2rvXld8KBHVFw==",
+  "URL": "https://kde.org/applications/games/picmi/",
+  "LICENSE": "GPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1594109556",
+  "PACKAGER": "Antonio Rojas <arojas@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "libkdegames",
+    "hicolor-icon-theme"
+  ]
+}

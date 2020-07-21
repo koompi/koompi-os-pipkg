@@ -1,0 +1,23 @@
+{
+  "FILENAME": "gambas3-gb-opengl-sge-3.15.0-1-x86_64.pkg.tar.zst",
+  "NAME": "gambas3-gb-opengl-sge",
+  "BASE": "gambas3",
+  "VERSION": "3.15.0-1",
+  "DESC": "Simple OpenGL game engine component",
+  "CSIZE": "10824",
+  "ISIZE": "23024",
+  "MD5SUM": "73599e7be600f68ad7b9cba30cf6e70c",
+  "SHA256SUM": "4ccb74f5dd43fa4a04d2404c7850ea127fb011cd87cf103d961afdf536f66dae",
+  "PGPSIG": "iQEzBAABCAAdFiEEU1+MAzlFDwVKTSgnBglqatHO3awFAl8C7RgACgkQBglqatHO3axr3Af9FnGoVkGAMfjX8QsuEt/NqvN1OA4OzTyeD5xVsKGczbyKnOXT7eEEzSxZBW+1IOxPRppT1dAhMrrKGhP2ksuFomOVqEtD/kOXulxqDri7uDVRjNtKMa1nWMuv2TXcw5Qs7KByn159+GPcZbdqP4+MmXRp0wudpYm7g+sHMeA0Qv4gkbJzVbnojwPDiJ0moEFJLCrJ+X+vpa9ZO0n6wU5tGFqgRyaSO4V14SfHETMQfHLC0Dhbgs/IwcDYXZ/kt8ZILwGMpQnJQ36kUl2hGyz9B2a2WlZhgMnBiDagC/C7us9MFmU87hfBJ/j+mamoSFxuNdLKE9GcW2+WbFjL77G3Og==",
+  "URL": "http://gambas.sourceforge.net/",
+  "LICENSE": "GPL2",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1594026389",
+  "PACKAGER": "Laurent Carlier <lordheavym@gmail.com>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "gambas3-gb-opengl"
+  ]
+}

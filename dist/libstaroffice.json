@@ -1,0 +1,23 @@
+{
+  "FILENAME": "libstaroffice-0.0.7-1-x86_64.pkg.tar.zst",
+  "NAME": "libstaroffice",
+  "BASE": "libstaroffice",
+  "VERSION": "0.0.7-1",
+  "DESC": "filter for old StarOffice documents(.sdc, .sdw, ...) based on librevenge",
+  "CSIZE": "1987562",
+  "ISIZE": "51434646",
+  "MD5SUM": "ae0c65afd45e115e6b0e00113b3b2f49",
+  "SHA256SUM": "19fa7b08f5670e9575d5ca752a81f6e1f9b27906e814886b45b639997a4ca829",
+  "PGPSIG": "iQEzBAABCAAdFiEErcih/MFeAdRTEEGelGV6sg8qCSsFAl6NalsACgkQlGV6sg8qCSslwwf/eePVKzUSk91vKk4sPS9H5VcJajKBj+/TTjPkrYnUCynGVhptfMYp5iGSfBX/F2X7n4WSadILorHbXWx73m/VUUQWUsBFfrIqxbzjYIG8uNeU0vT1pXl3m0h9tbe/tXDsEZiM84wtWa7jACMdy/WQQDaEpy4iNx1azH+eSYK5IuiJQc4fF+yCmAydFRCrx2Ev3OloOwYz9yk5Ns75xJ9yZeVj2lukSCPA9/XCjjSvrLnZUVu3LUtowea5EfVAZMR7eGdCSiVx14BOpxCtewTQ2DOXU7AXT/QLW/ug8MfLuZBTHLEpdWJRy4ryfBzEoYoJLo5W+IZ8IDiUOxuskotFLw==",
+  "URL": "https://github.com/fosnola/libstaroffice",
+  "LICENSE": "MPL2",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1586324311",
+  "PACKAGER": "Andreas Radke <andyrtr@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "librevenge"
+  ]
+}

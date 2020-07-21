@@ -1,0 +1,25 @@
+{
+  "FILENAME": "ccls-0.20190823.6-1-x86_64.pkg.tar.zst",
+  "NAME": "ccls",
+  "BASE": "ccls",
+  "VERSION": "0.20190823.6-1",
+  "DESC": "C/C++/ObjC language server supporting cross references, hierarchies, completion and semantic highlighting",
+  "CSIZE": "477838",
+  "ISIZE": "1388016",
+  "MD5SUM": "d600ad6fa55f6785f5be96a3f98743ac",
+  "SHA256SUM": "b8652ce54b426d8f40fd25981886d58c42b818f052cb1c95d22e75624480097d",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl6hUGEACgkQeGxj8zDXy5JEiQ/+NeQwRK5X4gK7PRiadne+xCiyHsQzBrTu6Zu5bNWrKk6K4TnlzkEsljKljPPaE9h+ZDNshOy4vGtR3oCi2P53QKfE5DGRiXb+DaWfcL5wOuJj93GIhg/druQ8wfcOija3ddp+8yAo7+9dwzOWPRMQMiV3o0NAlq5HIIInaLtoHEWbOYXHAVaed6rJ4qgilOG7JQyj5pEiuGH3WRtqdNtqGNZuCHH6Ty8zVr69wyWBs/k+FlS1XkXBFIHW58w1vvIXCzD5LeBDihiP0mdF8ORyivHpcIF1qPIy05xwCYiJmslrzt9y50xt6WQu6MpTYWuUfqTwBnJIZvQ1sqzxNjpQhNO8BtT3YAqtBuVyFKiyedp1lB84ONrvu1sCipn7/tP3QDptVjDOCs/4ATD5uw2rxHc2wi2SSqQy9R+7ygIS56UVk2jZ8pHA8uCWuBtgtpy/K16yQ7WQl2QPkytAVmC+1Evi+zIXiLHHOE7CvFM90ggWCdcP/YQil2td8627H+EjwW8eQSDiNLuk3my80gY523b1G3CoZc8eqQ+gpzn0u4N05x9ArZJM0ZdBEaN0cXOYSbxritXxiea9yONR4BmU1A5qvcZNqfY0CxjtbcaquqytQnLD1wl41vm9C2vtxRq+RAveSo8jCRvdD/185dpqNzXn38gVz7feIWay2S4Z3uA=",
+  "URL": "https://github.com/MaskRay/ccls",
+  "LICENSE": "Apache",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1587629454",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "clang",
+    "llvm-libs",
+    "rapidjson"
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "FILENAME": "python-nodeenv-1.4.0-1-any.pkg.tar.zst",
+  "NAME": "python-nodeenv",
+  "BASE": "python-nodeenv",
+  "VERSION": "1.4.0-1",
+  "DESC": "Node.js virtual environment builder",
+  "CSIZE": "34823",
+  "ISIZE": "145472",
+  "MD5SUM": "97f586f8122c9a624a3ea38068f96c05",
+  "SHA256SUM": "5c9536c514c4cd1545da09db89213e8aa3e2d3a020f9eab3f15f7a96bdb33737",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl7WSTwACgkQeGxj8zDXy5JJXQ//Z51Q4AOQBJtTJp4WAnNuE61Gu9jbiVFdLSOCk6ls1Iz2/jlro8P2RVD55t0VXPaMLH9tYhO806xSdHNJJoIzuer2ECvMFgK2SX6VKFteapIbq4/ilApHA+vFN7PWkSM20vq9wSuJ3wILIvOMBzfWHnwdyW0H7LgkcIhMFD+6dC+Tm3BFt3dScwuITzU3VrbGZpB63KxbWlXl118xFQAlvswGeCCs9tvCXWxI5JRKhb+PBno2AUiEZB79i5Sq412ICE7b293vfS/2ik77S1RAMo2VXxQIL1rkT/DibxERct+SPbqKw0GxfaHMq5IZEGT8L0NQZjrfISdTk2Ire1HhMMjFUGkrsKkWlXInb9zzoCqEepaClh+nV7CLp7nqsiHTRd20hDk0/OrEMWRC2oqpmRoSvfhHey35t9YavboJItoeYONBg3YyC5AmYs02SZBBv+B5XTN7Xv+nf3DqwRmDxPAF1W5q477BaZ+6T1mxfI1xYmX2GLidhxLu6i5G//IL5+xeYCjslPMClB+fniWMFP6f5Zf6xxOOToYLHdAMXeGsSbEg+1KthWAVCq7fLDGlfFmEaduoxTyq5rAsXREIaYo4C83iUcIDrnqXqL8uBH2gXuQZDRambU6024ToVGfKSQE34sSmfp4X2S6ZGoMRp+Rj2WH7xZtptj5DGKeQfKI=",
+  "URL": "https://github.com/ekalinin/nodeenv",
+  "LICENSE": "BSD",
+  "ARCH": "any",
+  "BUILDDATE": "1591101688",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "python",
+    "make"
+  ]
+}

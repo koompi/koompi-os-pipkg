@@ -1,0 +1,28 @@
+{
+  "FILENAME": "lilypond-2.20.0-3-x86_64.pkg.tar.zst",
+  "NAME": "lilypond",
+  "BASE": "lilypond",
+  "VERSION": "2.20.0-3",
+  "DESC": "An automated music engraving system",
+  "CSIZE": "6112882",
+  "ISIZE": "18358290",
+  "MD5SUM": "b9c5040f77929c5aa1ff321367ebfc90",
+  "SHA256SUM": "6727fe6bde8c41ce749089e04425566908601eff5ae63e9c7ee3305af58fb423",
+  "PGPSIG": "iQEzBAABCAAdFiEEFRnVq6Zb9vwrc8dWek52CV2KUuQFAl5vNQ4ACgkQek52CV2KUuQSvgf+LKbl1nEk/w+dQ+EzBrk+A9rroptquJkSbdlXYKfAi8IHfkFQAoNN4UF5NWuOvubrf9GHe8vOS0DhjtbbL2rGv5l1U8VIMafWV3LvNdX3V1Cos+yb1wH/nq7jfcRNFkfubZUsqjRdeK0tmVswGqxKLWwljtpCbsZLwOos1XN4+sGqGhQODu31AVDznwXKYd6Tz+1m6E/S+I+I4i52qBVaQ4Gf7/mSBNzEMMgY+5MqnArK7jc8V+xnZKkmJwQljAdpf8t+/XFsHXEmk4xJyFjP653Bq6d96GpeS8kkjCoZ5KQyWWYbfkMy8fnoXu7zop1eEd+fL+qtV+ZTBE3B9yro4A==",
+  "URL": "http://lilypond.org",
+  "LICENSE": "GPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1584313314",
+  "PACKAGER": "Antonio Rojas <arojas@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "fontconfig",
+    "freetype2",
+    "guile1.8",
+    "ghostscript",
+    "glib2",
+    "pango"
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "FILENAME": "kfind-20.04.3-1-x86_64.pkg.tar.zst",
+  "NAME": "kfind",
+  "BASE": "kfind",
+  "VERSION": "20.04.3-1",
+  "DESC": "Find Files/Folders",
+  "CSIZE": "432605",
+  "ISIZE": "1265148",
+  "MD5SUM": "1a6f9028106e62c07a87dbdc3f075bb8",
+  "SHA256SUM": "4e84056c825e942219c375c7b58ab7b9aefee4a7a866a0a4de59d4e651f07068",
+  "PGPSIG": "iQEzBAABCAAdFiEEFRnVq6Zb9vwrc8dWek52CV2KUuQFAl8HIY4ACgkQek52CV2KUuTPKAf+IAKbtqcUxdCQxdinQXNiobrnRih7nbu2fIVkQ8wXNeKulIAMEYHojHtXupCH5+TFGo8qATQj6xonMy3Dwr3nXpWSUWFd930kv1ZHrtukk0W5d4KQMVzZWZVanYboB1Qf0nUJGvdMRGpz3nlhPye4Mbo++IpmDCr7h5Qbr9COE9kPCABZgxxo5hYKFeEJSsHQTYFR639K/XmEDUx0+HVON52jesM7JDJICzLH85YhF8cfXm/IkBO9zHb9H2LLGBV1Y0DtiuclDGPGjRiOaXebTbDgOmDqB+8tO07h6d7L5kSaQ6UmvNdafPyN46i7p7MxR3jrZUvK5HUCm9/fbRgyaQ==",
+  "URL": "https://www.kde.org/applications/utilities/kfind/",
+  "LICENSE": "LGPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1594114555",
+  "PACKAGER": "Antonio Rojas <arojas@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "kio",
+    "kfilemetadata"
+  ]
+}

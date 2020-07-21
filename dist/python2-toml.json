@@ -1,0 +1,23 @@
+{
+  "FILENAME": "python2-toml-0.10.1-1-any.pkg.tar.zst",
+  "NAME": "python2-toml",
+  "BASE": "python-toml",
+  "VERSION": "0.10.1-1",
+  "DESC": "A Python library for parsing and creating TOML",
+  "CSIZE": "32922",
+  "ISIZE": "150607",
+  "MD5SUM": "0264ed4e7dacfd54801207716c8930cf",
+  "SHA256SUM": "8f57c7b8a42cc7eb8d052f931771189f6f4c89b97d000638a903060eccd067b2",
+  "PGPSIG": "iHUEABYIAB0WIQTH54SUZv4jWDQ1iDdyWHNLQcMVSQUCXr1pPQAKCRByWHNLQcMVSb64AQCHjn8YhGmvUQjz9uLqlITnq9u7YB+Tk6bEVKdjoJ64sgEA3fjqhnvE4trwzd1gyuvo2izSyMRE4LHCrGMqqxh6WQk=",
+  "URL": "https://github.com/uiri/toml",
+  "LICENSE": "MIT",
+  "ARCH": "any",
+  "BUILDDATE": "1589471442",
+  "PACKAGER": "David Runge <dvzrv@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "python2"
+  ]
+}

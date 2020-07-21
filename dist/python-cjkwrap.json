@@ -1,0 +1,23 @@
+{
+  "FILENAME": "python-cjkwrap-2.2-5-any.pkg.tar.xz",
+  "NAME": "python-cjkwrap",
+  "BASE": "python-cjkwrap",
+  "VERSION": "2.2-5",
+  "DESC": "A library for wrapping and filling CJK text.",
+  "CSIZE": "6916",
+  "ISIZE": "16895",
+  "MD5SUM": "43d9d9592adc7b3854c02ea0dbb30ef6",
+  "SHA256SUM": "4fca0fc95b28b57b1294b066007a2e2c12e3ecd2a8ade796df47fd71baa7308e",
+  "PGPSIG": "iQEzBAABCAAdFiEE5JnHn1PJalTlcv7hwGCGM3xQdz4FAl34twcACgkQwGCGM3xQdz4yzwgAoqOqSARlPOF/TpppInUaBmSfod0s16uZq1vncScYJJTkzkjpbYszwuteodtaphuZ31IpgR164u5cC1V9pm7EojsshV6tvCfreQiXiSj5sgzT689Ek9psew31f+aH+cc/w8L5rn7iosxkMEU6bz8bg7/qQqDz/WuxjVFXsk75MegxKpw4E9uznTSvOfPU/2zghbmM97zId/x6FkwiUJpUK8pfq7y9EDUinzHBNSrokNO2BH3EqzgFw0iiagA2wY8f7DTD7M9R4O5MjXZ11Bnzle06d3rlqvcsLZogzS186RfstBdsoYzdJJtuaj5Xbh4KBrJtcKvKlF0x/BtBug9jJQ==",
+  "URL": "https://github.com/fgallaire/cjkwrap",
+  "LICENSE": "LGPL",
+  "ARCH": "any",
+  "BUILDDATE": "1576580395",
+  "PACKAGER": "Jelle van der Waa <jelle@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "python"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "FILENAME": "ocl-icd-2.2.12-4-x86_64.pkg.tar.zst",
+  "NAME": "ocl-icd",
+  "BASE": "ocl-icd",
+  "VERSION": "2.2.12-4",
+  "DESC": "OpenCL ICD Bindings",
+  "CSIZE": "53320",
+  "ISIZE": "225294",
+  "MD5SUM": "ed6a37e0f7f1b6ce440ba62d93240d9d",
+  "SHA256SUM": "a2fca045cbc43db9efd1ac21dbf9cc87f5597ffd69f4a853c6ba973692b5eb13",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl7AUrUACgkQeGxj8zDXy5JXFg/8C65K26ErH16ISXIqQJdA4YGiIUm3OUk4SrgC5Yx48cI4HTtwjNryaO0jibk5Cq9hlYJESmmSEOtj53N6LQVq6I5f0iKz/Lp/xc6r05lQW7Wz68NUH/ZUUKPhzRQwOFCCTGOzx/e+mP0W7dW0mjSSo7MiS2JzIWu022S9vXR4YUByQvTxdSqNYv5anNs9/ZlwY1L/WMy/FEguKeMiQtunWRyt6THh6sQ/7A5AC+vIbtnZEZcGl/nnB2Z2HNYKwSqrF1pXDPnVdKrXch/p8bKFobkyP9bm+MR2zerqgr87OUkYYB6e4aq14AlNphNP5fflEpJgu5Ll1IJ4XRiY5cujKKKZoaFV2ZdRGXWQNbIvQhVRmaesu6B/AvibruHIxycPZaVEnN+U4+UZY7K3q01Kzk2oZryUQLpVSpd9BnPDo1HEy1kDjdySAHbdv0ScDPDh6gvU/XZs99CweRdW4CpRGNNcidsIctMZ6A6cfpQZ88rD3nQne7ws9wA5Ta0YTNbUh+r4z7Zmy44qWmhgPg1bGfi3XfmF+aDGag8zbT6GO+mgyNhtc9bSRVnc1WTMeDSqrqQ5jM7As+6mGfWKc0xt4NAN1q/LkHkhpg9rtZV5wKrmZz8XV3kLsk+j2y5N7W5gV+Z1qraonKkv4wewCbwE5uqj1ToZ5jYtJCjwG5D0pc4=",
+  "URL": "https://github.com/OCL-dev/ocl-icd",
+  "LICENSE": "BSD",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1589662355",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    "opencl-icd-loader"
+  ],
+  "DEPENDS": [
+    "glibc"
+  ]
+}

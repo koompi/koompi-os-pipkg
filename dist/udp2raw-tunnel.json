@@ -1,0 +1,23 @@
+{
+  "FILENAME": "udp2raw-tunnel-20181113.0-3-x86_64.pkg.tar.zst",
+  "NAME": "udp2raw-tunnel",
+  "BASE": "udp2raw-tunnel",
+  "VERSION": "20181113.0-3",
+  "DESC": "An Encrypted, Anti-Replay, Multiplexed UdP Tunnel, tunnels udp traffic through fake-tcp or icmp by using raw socket",
+  "CSIZE": "130945",
+  "ISIZE": "516796",
+  "MD5SUM": "f76dc0b9ee6d7ced4e1b1977c7f67ea4",
+  "SHA256SUM": "0df5cbd701a35e961945af17aa41c6a3b4a17af6234289393f25a286d3e69f7f",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl8En7kACgkQeGxj8zDXy5KDWw//b/OZV0T1GJTMw/AKDP3QZNGDKX4jf52MYib1/RKSbUOAGLUvKo1t3dps7IzM9+lfGAm/ng4mmF5zqOt3D5sUYe3n5MUIyeaW/hizA44QzNNz/DQKWWgoqkPysO5tuX7gO6weTZse8RTeKLExOOhP2avdtuknT1Lz2P9KpoWVOBoWrmus7qDvdIeE2goznHdk5/kVFPMH6PEF/hEL9eYdpAV1v9mEN5wEU94Z5PXaUFkad+CKjoO8lNWaAcB0vk6kTxYeIGdebZ8mr4fCG13/ybat9mVWdBd07KJxcXzdcJKqjVp2nssCDGCcWwzlpBnTMHZ/LtRje5pnTmWHptk/q7u3FY64rc2zhjDMqM+68SGVtEu7V2edJ04kRhKPh5tVb6O+AXUQxzTQY4g2qVs2m22nwNfMsxaTQB3NdVADSWJKJvMUAyVLrMGLnwKsH2n9/C1niCTM15A89+gNholwHmqNyzpMzOEY48LuR2XUGofxwvE1/nV2+NHmM5cCJ+BSiy013eME3jMKSe5QY3J/TNZXDkU3vjC9S81sAUWYrIcXc9/95OB5+vXrt/ah37K4IYdelPqTu18QZUDxx+J4EkOeAflRtZNBOw7WuiwtVhRSkzmAbgoql55laFvTsQFTebLMkj2QCLmzij3HQgNfAfVbBfkwoY6alAsRQ5requQ=",
+  "URL": "https://github.com/wangyu-/udp2raw-tunnel",
+  "LICENSE": "MIT",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1594138470",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "iptables"
+  ]
+}

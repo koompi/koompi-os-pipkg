@@ -1,0 +1,23 @@
+{
+  "FILENAME": "yapf-0.30.0-1-any.pkg.tar.zst",
+  "NAME": "yapf",
+  "BASE": "yapf",
+  "VERSION": "0.30.0-1",
+  "DESC": "Python style guide checker",
+  "CSIZE": "242324",
+  "ISIZE": "1976859",
+  "MD5SUM": "794f761b4dbde1e8633aa7e7f423810a",
+  "SHA256SUM": "baee249dd0fa70713fd7f1f670ec99ec607a335d154ac9c34782d80f37f0124b",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl6iHXgACgkQeGxj8zDXy5JmURAAud62I8QO6rOLnJ+D3IS5r6Gy+4GhUoR3XbB43+mTPpSOTyYsAWuJdbdaZtsLEz+PZvHpsDekQuLiM50YgH9VLephYfE45++LQRwlhgcp+nFbAiVZI2nTvP+bdyqv3GAzlvPDF7gG3YXQDKgo4Od6VuXO5pPKhV+C5jwgiwxdpSZXTtARPoXS/Embnr24o/2grYEQH55wtx87hqpQ1yUfsmxBW+nIhxTRzQRrD3VewdQqNBEAzyj1i2UsEPwxwUdot3hUkFHhBujrErUKd6H8sDfrlBHXPbzaj+xOdjiBQ/lIPKBR9uCWUe+ZI07MtY56sNi7FmC6QhZkYWDWQ/TALkhDss4izjYpa291nMsYpGPPFNUbbzAlroE5Mpr9ge7WAh3eYVJg8UeZAEwHp9hT9Eh2CiOjkK/1s6Qh0nn6PvWSJnBxvaPHEayGv9xeJqk94YaKvwqVsBXVJ/ZG5aI0xwrrqaYILE1T5OwlWRTuEve6L4vlEpnaZ1aco76qK65SlBzI5cvW1Hn5Aa8a/789AY/8VlqzjFHr5FnCcnvI/bVCPsm5wTZN7CzphAWrwhHAx2kXxONxRkggLW8g8YaXMotA+mSj4u5jGLYWtzmPP0FFLiYATOdsPusnyZc8M/KQtiwT9QRCRhv4UVvu1E0y/NaXT35fmjn2dxVcOFVq3C8=",
+  "URL": "https://github.com/google/yapf",
+  "LICENSE": "Apache",
+  "ARCH": "any",
+  "BUILDDATE": "1587682641",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "python-setuptools"
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "FILENAME": "youtube-dl-2020.06.16.1-2-any.pkg.tar.zst",
+  "NAME": "youtube-dl",
+  "BASE": "youtube-dl",
+  "VERSION": "2020.06.16.1-2",
+  "DESC": "A small command-line program to download videos from YouTube.com and a few more sites",
+  "CSIZE": "2295867",
+  "ISIZE": "13229282",
+  "MD5SUM": "93a328de40ab054dbe2dd265515516b7",
+  "SHA256SUM": "2cb92cdb0b70db713d74929cace167bd4a5e3302e4a7ae8d608454c7cd49e540",
+  "PGPSIG": "iQIzBAABCgAdFiEE0ZGnjxiB84R1PJZ+aGsGOsS8DskFAl8K5DIACgkQaGsGOsS8Dsm56RAAkeeQmVQvDBqJ82JN57KMWcm0U3UZ4O/gF1315ZUyH4Mecc9zQ5LbPs7ZSTK0dgvsTjZ9PXkYZeGkUCk7so6bPjBNzh4VmLvnCr9kKrGAsuGJBkbYPSUVnZKdBJIJ0O8NutYWLQOLQVH9DqQ+C+jlIV9oJGbucbUIBE8d+1qKuer6dkOICb2zJkEeT7dlyh0dJPZe3EVCRib91kyhjJl5s7nKjikaHW2Cn/NcCUFmsPzFUMCt6cTSWlC75Sl5zSJt8z4+SlWK+f8F8Lpbzjg0VszoS5sC/5d/UdjM9zk6VGsZLVk5WbHtNW+EI2pVJvmlucxoa4xriRAsKeAptHr8ojF6ylMHq0ANnoEYAyJozNMfIPQqzQ0u50FaQ3+iH4lfjLbZzDptV0Hg5RGxmkoE6cK9oNxx1Dwd6lgN7hD+tPuup8qmEWAhKGXcCn8opsReTRKfqxrAdX0l7EtqJhTPiliO+K73gCLkBcwXW0I1XUC12vqdz3sl8AcljXjpGnkbym3ag+4z8DLEDx0YHoldMBQ9AP1h9z3tJHfefhKat/D1ORjDCzClDuF2eL2VBCj8ql6YNVBbhhCHFwOa5OGYqILt+PEql09mdbUc5gYtOV0nsheqDk/TsmRFEB6kfp7c1WVwtYbEwub4THUsgmuRKKl9tUW6MUd5DmpW47Sr3kY=",
+  "URL": "https://ytdl-org.github.io/youtube-dl/",
+  "LICENSE": "custom",
+  "ARCH": "any",
+  "BUILDDATE": "1594549210",
+  "PACKAGER": "Jonas Witschel <diabonas@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "python",
+    "python-setuptools"
+  ]
+}

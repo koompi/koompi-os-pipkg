@@ -1,0 +1,23 @@
+{
+  "FILENAME": "logcli-1.5.0-2-x86_64.pkg.tar.zst",
+  "NAME": "logcli",
+  "BASE": "loki",
+  "VERSION": "1.5.0-2",
+  "DESC": "A command-line for loki",
+  "CSIZE": "22607492",
+  "ISIZE": "108956640",
+  "MD5SUM": "0a1acbd430757b0bb83474e836bea58e",
+  "SHA256SUM": "ffbfce5e104a374cefcce44f62c05f9f99f4fc5e53faddfa65ea9156499b4b7d",
+  "PGPSIG": "iQIzBAABCgAdFiEEHiYzy/cw8s5ux6twRbQpqPnZ0ioFAl8FhF0ACgkQRbQpqPnZ0iqZAg//cTKk9dhGlgKlWjQUzIRpNG1JyxtKmTbkR5CuLZ4UKLATS1fI/OTRE8Ne9M1Dqp5v+m/hFjnDrk4MIRMEsyIK2EkEi9y1RLr9Db+cGkBvlQZyP1A4Q+1RsjMGosynKzkdv+fi4coTPjWyWrMh9bhjeUnKNyt+mG0rys0zX9Sa/pe/4k/9PM9CRKaOBRotDrLFn9Pgdcxwc5L9yP2c451zHeb4qwfRkOIbqEpZOmuewmO+Y1xs5vBJ5xLvEs+EdMamr49TAbboNQLZ8Lz0N8JaVykU46jq+kEBa/TAnH3RGtlgClKxfFJksBKFzktzYHoLSaeRD2fbXGL5F7ZcasSSrWRkFBVTjxPnk2aGmz/M5HlrYUW0LqkRpxZs+39htLKn2pFQX+SDvintIE4IpWFnamnui1C1s4PwZs3xG6LR62iszi5QSfYt9VqZAmDSQMFdlb7EFyecS28ENFkQAZnM2ZnRIEyXdaBQLXemuswQTH9kPiVB8YTFUm8bD1vS4+kKeMvW6FOlYUFqRZ8g40EC+RMZeWkNjIURFN2r3+ayRXx0yQfe5uJLCFSi0x+oxkllW4mGRo3e/G1sABLr7OEBVLR06Puz30XgjzvpLPKDdGi9KjoOB6plDyi6YnP0GK1Hpicdc9vkRVy08tZStogqj3ArgcLW9l6SPDeYAC7XjcM=",
+  "URL": "https://github.com/grafana/loki",
+  "LICENSE": "Apache",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1594192782",
+  "PACKAGER": "Daurnimator <daurnimator@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "glibc"
+  ]
+}

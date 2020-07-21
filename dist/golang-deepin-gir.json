@@ -1,0 +1,24 @@
+{
+  "FILENAME": "golang-deepin-gir-2.0.2-4-any.pkg.tar.zst",
+  "NAME": "golang-deepin-gir",
+  "BASE": "golang-deepin-gir",
+  "VERSION": "2.0.2-4",
+  "DESC": "Generate static golang bindings for GObject",
+  "CSIZE": "111795",
+  "ISIZE": "1078648",
+  "MD5SUM": "3acd2588ad2e1f4779b9e742314d3c0d",
+  "SHA256SUM": "f3ce7adb49c5e46cadb6764ff2545b66d6676cdc855ede9d7957403be844c5a5",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl71oOAACgkQeGxj8zDXy5ILvg//UkZ86J4jfio5LsMZ1fA5zODgG3XUqAWyhZbdSAGXm98pVUdTB+Ta1c5g3EpQRWFvcuS6Y/VDLZ6tgY6y2KPpcCzOSZPbyMHDi72JLiej2b5iqWDRFpsglJ3kemBlnkY28t+j5qik4FeHHuTv1TqVa7pABOz0tQWeUkwxPG2NVJVwAT1Bf0gDBbmA3sbBN6g60aqH9U2f71SPjZJ8Kp8nTTbLb0FtnZQeOBn6BLkDowN+w4ns9sh2+ZrEPNOiWMMSKjS/ZOOscBp0bTGt6qU0Ki7Sl6iLoZrsAztyBkC/piA8f8Bb7Tcg+6aAD4S2cgNd740fgbzV0U1OvdkN8Q2RKxZjena+YmhBHTx8DtzL9yUXE3wr9pn87h4sguD8Rh+BM056jERcPMWlvMZvKWwpbirWhbQi8iuEqAbYQeL9pjDqK1x8aiHNdKAbpPmgHN4kAhAFGMheqTqSFHK1b9PYD4kGvCuzngQ4Sbm7T0G+Wi5CsQEbo3zIx929UrFs15pP/h8jphMkF7/S0SZmDSwccLS8njYVhwFmIG9XwyAGkL4yBABafo5niVrGHvUlfAkn5WGzSZpiCsOlEdFpmD/VnUwF9AMVLyKvIT39yxsydXM9G/S7XjnfBM53WlqGnI8Dw9aE8fB74ofFJ0SKlR5dgRBLdDL7uwa6jh7X/saz0kA=",
+  "URL": "https://github.com/linuxdeepin/go-gir-generator",
+  "LICENSE": "GPL3",
+  "ARCH": "any",
+  "BUILDDATE": "1593155659",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    "deepin-gir-generator"
+  ],
+  "DEPENDS": [
+    "gtk3",
+    "libgudev"
+  ]
+}

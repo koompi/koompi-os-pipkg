@@ -1,0 +1,26 @@
+{
+  "FILENAME": "ibus-pinyin-1.5.0-7-x86_64.pkg.tar.zst",
+  "NAME": "ibus-pinyin",
+  "BASE": "ibus-pinyin",
+  "VERSION": "1.5.0-7",
+  "DESC": "Pinyin (Chinese) input method for the IBus framework",
+  "CSIZE": "502282",
+  "ISIZE": "1389400",
+  "MD5SUM": "5bcfc401897e753049a64d685445fca8",
+  "SHA256SUM": "907a9737ddf86c28a8d27473cd3586f4eefc5f5f318eec7fc9dfccdae962170e",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl8ErQAACgkQeGxj8zDXy5KEjA/+KBh27McgAhM62fbBBymkmmbtLQmzXQ9XI0+bE/uLcB2U53GYzifi4SggFhxC9QwqjpxKuc5zQ/oZRhoFlirbUcIaz9e6rK1Je3CQPivfS+R4cFI+GtA0JPJPCXvawa9awCWIyqFVbgnQRH6oPZk8g3aNSOLioZf3XyUg4aiqFFQZuLjAV5kJDjfSi+KFZsyxpnprkHNvxY5TKYLlurLAKuEY1DCynImg/Oba7h4nfGzIf7XpMIqy1I+lp9+oyEGqs/7jqsvrsFP89ZrlVxkoULPMYxbMYSUl1ThjBqpWn6Inhcn5s2BbzTr/4Tq9HBghLQZuYrkdktScOxHw+sjwQTPZA3U+UxWBb+zKYhvxtpY3fesbIYvF4xw42smp3QXy+oBe/PxpwWRwxubE/zkX0HP0Vi2UJJxyz5ODVCqT64zkTDoh7JlwYcuvow+uvZsKL18v1i9hfsAjFIkmrrK18q14WdNhOy8w5kclaRCGLbSFtkSTRKAHlWZW0ptNKcWFMRlOazvLhcspR5M/QJ9vJPuMpl6o0JuK6fuqEtYIMuHrRy6T72Qx/LpvyZNTLnUk0c0oSvn6MeIWHQA935bzkQ0Op7baJahOFU3MJFdZ0E4utPWCnAtqZXufnQeJp9KnR5SYFE9CPSB2vP8XCQzC1++dWMS+tnaHTdZIoyFVeIA=",
+  "URL": "",
+  "LICENSE": "GPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1594141851",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "ibus",
+    "pyzy",
+    "lua51",
+    "python2-xdg"
+  ]
+}

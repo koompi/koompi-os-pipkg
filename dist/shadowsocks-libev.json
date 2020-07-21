@@ -1,0 +1,30 @@
+{
+  "FILENAME": "shadowsocks-libev-3.3.4-1-x86_64.pkg.tar.zst",
+  "NAME": "shadowsocks-libev",
+  "BASE": "shadowsocks-libev",
+  "VERSION": "3.3.4-1",
+  "DESC": "A lightweight secured socks5 proxy for embedded devices and low end boxes",
+  "CSIZE": "188616",
+  "ISIZE": "818001",
+  "MD5SUM": "362b6299a500ecd40e77ef5139d332d9",
+  "SHA256SUM": "e5edd17d24b263cb21a327ff74c59c1fd87449258957e3f516f3182e42cdd722",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl4Ym6sACgkQeGxj8zDXy5L8bRAAma4QzIrWpbFDuHe8RvZqIe+aztTMZi3GDgOP/ClGVx3bLrIUfs3vMi+M8Xi5UNXziqij4GaaJ3bDyqwbgtHsoP1zhUl2KStZ82fnnDthbQyOedVers0kiI3dFZudh3QGp5qFwPwwQjycYqaq0esmBeaL2QL0bD6f7I8uNp6bWUkwULU71iiJL8/+AvssZvCHyBS3LcZ2MvI6zOC7PcZvq3cbF1BqaOW6aiQQnnBUla0Jn+t1hRmvTU22wkk0KWsoH9Vc975zlRRMYKT6D4+Kuwhi2qM+aLsglVymvfk7hPZQNH/LwFphcpNhehqCgC1bWJt8NoJEpl0SLBeGAKgOqgt8DpuLzisild8+uRPicIvgfYDq+/Rm0G46LBRx4SktkrwvNdw3oScDxYOT5HVu3UEsAlnY9mLfpYwEnn4i+K473XiuJWWm7DGyAkXem3sQwu2m+YePG27bzBtVw6hgUa65vbkirB5VhrtPZ1UMjFk77iOII/nRRhIFMf/1DUj2wUzpdHjyQRsCZWeDCVUuLPTHvZ5TI8GjBSHX/EzLENtokNZEsu+2oGP0nYiDaDqCS/3HLPhd2zrlowxIbPw8H3jRCtcpSiZ+tl08l0gJBBWRly/gaukCuA6wVXEruXRK1qoRmL1alUhkTSI3pEvnSbEPX/lVbvDO9tstBbj/1Vw=",
+  "URL": "https://github.com/shadowsocks/shadowsocks-libev",
+  "LICENSE": "GPL3",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1578670304",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "libcap",
+    "mbedtls",
+    "libsodium",
+    "libev",
+    "c-ares",
+    "pcre",
+    "libcorkipset",
+    "libbloom"
+  ]
+}

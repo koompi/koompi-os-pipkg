@@ -1,0 +1,23 @@
+{
+  "FILENAME": "bluegriffon-i18n-sv-se-3.1-11-x86_64.pkg.tar.zst",
+  "NAME": "bluegriffon-i18n-sv-se",
+  "BASE": "bluegriffon",
+  "VERSION": "3.1-11",
+  "DESC": "Swedish language pack for Bluegriffon",
+  "CSIZE": "635918",
+  "ISIZE": "756522",
+  "MD5SUM": "e01a4f8a613a3877718398970bf0a38a",
+  "SHA256SUM": "68cbd7de2fe31bc5d2e3a9dcbb75609a34b18a75defc2aef61243589c4dd8913",
+  "PGPSIG": "iQEzBAABCAAdFiEEhs/8qRjPOvRxR1iAUeixSKmZnDQFAl6m7eIACgkQUeixSKmZnDQo3Qf+KXdoCQOJIWcaWdVdh4qE2QdXwBlkZiISTT9cDDF//DlVgcL0d4xMtHnR80Rgb0yv2xtnOQ62wQcLRNR3nULJU8YQ7dDMjIxUFxNz7nypqy0KcLgZlfwTwQxLmTwyZgjpctupsRXKublWRoZaVTlD2O3M2VjMi5Ju0YrBOV4K74oMnLeueyNwWU066JNp+BYFJi72tfvDHiDk5V2V3GOV3WRBqTcOADIh5WjCZ+iWksbE3SaoXC7x/uN9AbznFKPIPt1VgAiPbhJ5vuMrRCaalrHjb0en2/o6ft/XJwkgo8C6mglgGoxHxsiHpfLIyVm5Wglv2/L/k0oZFRSDyAYqqg==",
+  "URL": "http://bluegriffon.org/",
+  "LICENSE": "MPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1587997405",
+  "PACKAGER": "Evangelos Foutras <evangelos@foutrelis.com>",
+  "PROVIDES": [
+    "bluegriffon-i18n"
+  ],
+  "DEPENDS": [
+    "bluegriffon>=3.1"
+  ]
+}

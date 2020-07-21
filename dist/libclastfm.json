@@ -1,0 +1,23 @@
+{
+  "FILENAME": "libclastfm-0.5-6-x86_64.pkg.tar.xz",
+  "NAME": "libclastfm",
+  "BASE": "libclastfm",
+  "VERSION": "0.5-6",
+  "DESC": "An unofficial C-API for the Last.fm web service",
+  "CSIZE": "24224",
+  "ISIZE": "76970",
+  "MD5SUM": "dfc3222b9b77d49ce68a106aff67f74f",
+  "SHA256SUM": "a9111294b0c95fc61eb0dd2a2a5f4272e2e1fe2565f30823c50a54de74d7566a",
+  "PGPSIG": "iQEzBAABCAAdFiEEU1nMa+iBGLUfXJC1YH21X/cbcFIFAl3GdkAACgkQYH21X/cbcFI4JAf/Q6nE21749lLvuEtPinK8Bf7ng9srMCrloCnz8cmPAuIaxEIaiov+uAmK9SHfzGHlsha/4PDamk70wHMFupTsZU2c0n0ckSm/2yhz8X7qWoLcLrBYfYBcKfsbsxr+8jr3uOGunfNGacI6MdFvNzapBjpihk9pEQmKZoMs+HOI8OkIJFg+IVwIre3cl0qbRqImT0UhGdcuWVPShBsXUTji+EjlO18jG3WrUe4+OTlpoRa814rP5PEorOC63TxoscyRXFW4ZR2rEYq6tBSrj99+xhJniYILqquQSnUXyjP267ewhtqyft+/wIDF07tGS9ZEc/DpYbDXek/+oloCyaFJwg==",
+  "URL": "http://liblastfm.sourceforge.net/",
+  "LICENSE": "GPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1573287389",
+  "PACKAGER": "Konstantin Gizdov <arch@kge.pw>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "curl"
+  ]
+}

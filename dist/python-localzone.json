@@ -1,0 +1,23 @@
+{
+  "FILENAME": "python-localzone-0.9.6-1-any.pkg.tar.zst",
+  "NAME": "python-localzone",
+  "BASE": "python-localzone",
+  "VERSION": "0.9.6-1",
+  "DESC": "A simple library for managing DNS zones",
+  "CSIZE": "15882",
+  "ISIZE": "56231",
+  "MD5SUM": "bccb9d0517f817db1bbbf1b41dccc65d",
+  "SHA256SUM": "f8d67bf017c8b424a7d38d5bafb6e21be87fed853c6ce787efc4ffdf5da9d54b",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl40yjAACgkQeGxj8zDXy5Kmjw//S8sMSv18NAORmeq4RtYloKYJ7JGeVos+TT1W9K3QjymXUFwQfjTr2XEhLpElXxNYoCLvpXhBta5eZYDmandlg2KrjfGo1U7u/RQ16FC/13tM/Ow7PM9alxjcCECU5zLw9Ct3Ia4LXXTk2lBZOW0NHm2PW18xsIgYPHpgkpriJ5OsGgBMYVwUi6FrIYVj+gVDPNI+llDjWExij5qPHGkei3Dvez3bEXRqENDdPGq/+vxvHPdB5yTnyyoEgipXw1OwXYs8NW2xDapCMaoTWQbTiJ9jX7oNuzkOZp+NFO2QzMS3etHgsj+g/TFnHRx2YQzZ5A1ncbtlBWRnZjnE+XTP0696hghOSvRTMVYsEou7TJ1/zMAecbo5ok6qqiq5xYvvqRpPRTWQsxxcNxzpIb50YqxCg+azvYXRmgUUO88BFNP/DNEB8NR75OnjVWndnlZFxAP+cHDuPAO8R0/Tt+rH9IjbN9a1vVM5cs3FaLDn8MRouAromKS64PgW2KHbqXnKmbCoW9AqzOHqeXfOk2edJs6vE8fQ+F0v0YXH6ZRlsc32thwmUCDXe07jPVisLeSHIHWltbwf5tKi/pG6yloxGa9PuVZQwyMc7EKTWfX1FtQXwJYv35sJTtGijq1IcEqieQlSmc3eKErZacr4jepYcIR9dLBS8zVQzuNkh9879QM=",
+  "URL": "https://localzone.iomaestro.com/",
+  "LICENSE": "BSD",
+  "ARCH": "any",
+  "BUILDDATE": "1580517861",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "python-dnspython"
+  ]
+}

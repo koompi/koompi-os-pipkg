@@ -1,0 +1,23 @@
+{
+  "FILENAME": "libsigsegv-2.12-2-x86_64.pkg.tar.zst",
+  "NAME": "libsigsegv",
+  "BASE": "libsigsegv",
+  "VERSION": "2.12-2",
+  "DESC": "Page fault detection library",
+  "CSIZE": "10676",
+  "ISIZE": "27437",
+  "MD5SUM": "316ed0c41ab19bcfddf157a76ad2b46f",
+  "SHA256SUM": "36f18d4f501a592d80ca5037c8b10ac802c5e139543d2e63def6b9127a3da641",
+  "PGPSIG": "iQFIBAABCAAyFiEEZkWwqMcAXnjbHXhk+Z/+D+rpmb0FAl6zr8YUHGFsbGFuQGFyY2hsaW51eC5vcmcACgkQ+Z/+D+rpmb0QfwgAxbnW+xR/BaEUP4IWvf4c7aevTL7t9k/GKELKP7ZEgUbMKBqtDll20M1l8RplrsOBIhSxla+ud+KVCIij90gey4gmw0KVddjC3Q0/1woXyv6UPE3WYSkECf4WYIEPaDIt+P0bATIV9yFWYBD6HZOVaqUewMyiz6chouj5uwMO/0o8bknyVYu+KGFlqbpmnO1JYBVcgLLFrtO36TG7Gxwx8tBuwpmRldL3RIo7b2KzS/wyi25dkXRwr3iJR0MXTvk+Nc8lP6I5CkPxpl7/Yc1Y2lv74yGT0InM08M7sLEg9xztZ0V3nG/4T8WPU5kIAs1c97F2L1WlyxcMd09Jp1JnPg==",
+  "URL": "https://www.gnu.org/software/libsigsegv/",
+  "LICENSE": "GPL2",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1588834204",
+  "PACKAGER": "Allan McRae <allan@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "glibc"
+  ]
+}

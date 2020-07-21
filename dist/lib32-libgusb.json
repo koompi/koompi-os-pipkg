@@ -1,0 +1,25 @@
+{
+  "FILENAME": "lib32-libgusb-0.3.4-1-x86_64.pkg.tar.zst",
+  "NAME": "lib32-libgusb",
+  "BASE": "lib32-libgusb",
+  "VERSION": "0.3.4-1",
+  "DESC": "GObject wrapper for libusb1",
+  "CSIZE": "27378",
+  "ISIZE": "85952",
+  "MD5SUM": "ae7324970dcec6b3282c2a71110d82ee",
+  "SHA256SUM": "9c720c0f8020be1d0238ad3ab8611e104943c272a36ae2c1f2edec08c74a21e3",
+  "PGPSIG": "iQEzBAABCAAdFiEElDfdOBWnqRaePTlGr/XZUJi8b/UFAl5TjlYACgkQr/XZUJi8b/VV/Af/Svu0weIpYIQJqX8/21caL/4gol3TB4oXIXofmeEgDrwc3928ePWz946Sb3dMNhjE9gNx5T8Yt/O8gAgxvSZLI0ih8ffS8ReXgpgaBUipvND5V96fjhctMekf0TJaBME3rekwKbbhe5W1CCqvLtiwioDSleoLJczLGO8SjymYsQx1B3ucwheucB1/TT+yPvkCF6cD+2FkpOV/0yDQlmOF0X/BHGJ+Gu4c3I1saRx/ThN6+QAYKvozYSgkQCZlW4WRN0Enxg0GUtJgk0axRm/ZulO38h98mXhrZtPea4dVIUkDfBHmXefhn7VYQRSbC2XkGttJCtDIqpM47j2j2IdsDw==",
+  "URL": "https://github.com/hughsie/libgusb",
+  "LICENSE": "LGPL2.1",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1582534203",
+  "PACKAGER": "Maxime Gauduin <alucryd@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "lib32-glib2",
+    "lib32-libusb",
+    "libgusb"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "FILENAME": "ruby-test_declarative-0.0.6-1-any.pkg.tar.xz",
+  "NAME": "ruby-test_declarative",
+  "BASE": "ruby-test_declarative",
+  "VERSION": "0.0.6-1",
+  "DESC": "Simply adds a declarative test method syntax to test/unit",
+  "CSIZE": "5772",
+  "ISIZE": "6498",
+  "MD5SUM": "6bc60da8a340298bf18e2e1cee617757",
+  "SHA256SUM": "0cd56e651be7cfa1a3449466aeee7355e53b066c3b389386d6e5b6eda42f932b",
+  "PGPSIG": "iHUEABYIAB0WIQTH54SUZv4jWDQ1iDdyWHNLQcMVSQUCXgyM0wAKCRByWHNLQcMVScFmAP93H2hO/R0N8wn+7Aubu1V/bKH7hA9dW9H2vYGpeoVmxAD/VoCEq3EzvUOSb65zvmr/moSHmpcLc11lsMhKQb94jQU=",
+  "URL": "https://github.com/svenfuchs/test_declarative",
+  "LICENSE": "MIT",
+  "ARCH": "any",
+  "BUILDDATE": "1577880701",
+  "PACKAGER": "David Runge <dvzrv@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "ruby"
+  ]
+}

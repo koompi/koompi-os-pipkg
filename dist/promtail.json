@@ -1,0 +1,23 @@
+{
+  "FILENAME": "promtail-1.5.0-2-x86_64.pkg.tar.zst",
+  "NAME": "promtail",
+  "BASE": "loki",
+  "VERSION": "1.5.0-2",
+  "DESC": "An agent which ships the contents of local logs to a private Loki instance or Grafana Cloud",
+  "CSIZE": "14944043",
+  "ISIZE": "71425806",
+  "MD5SUM": "9db5917871512b97e7e923e0fbd4e6dc",
+  "SHA256SUM": "d67fc815a48d01f7480f6d3a8184d3c4312f9aeac150c1fef3775de43a822109",
+  "PGPSIG": "iQIzBAABCgAdFiEEHiYzy/cw8s5ux6twRbQpqPnZ0ioFAl8FhF0ACgkQRbQpqPnZ0ip1sw/9FH434ZRKgMaqTTf408MHAvgqd+63T3QgzMawJPl+nqKSCXCmljbRlWdFRjG3vzNpV9bjCYJm5vXpFBDN1maAT9oGgcCDlJWtuDkMwdiWewjU0Llic9oMrS+Z6XQ/IA6yoRQoEmEj/laImquPjxMFOENGaRf/OzwnV0PVxPwiTmELidpSlMVeo+Sz3MY4+ZT56Iah7tMZ6FGD0Q09/4qhD7LZQ+/OnxrB8FCCWBvx2r15HQ6tpRko/dS0t90cJqvP91xw8ohEHTfMjCYvQPsJBn52zFU5Tk1Mw2OiMitZvizj1dH49F+1U4DyDilPo0p9EnAkNdI3k1i6UX1OZr2pWhemYyXQ0637TVRVaA0PVFOA7jZ0Lt91uoSQ2I1YFt0d0c5TRFyjI2ZR9FQrVAF4kp8CkNfo478jC7LG5mEAUu5tBYlejiz94CqgVxrImz/FeohrGQlNZVca8hqhjCSo0Iw46kOif3QWzRacK5lnEDuKaeq/Ak/1xKuYMHS7O2wZ+s8deLXaZMHLLtad+nZNQpWi/09/pHLC1UFV7IHebZ8rm70oMX8p7L5TALbVld98jkWxBhCZBWbeeKPLLVnQSnJYjqkTPRKEmB1xbAeLEyqqlGCpq4aGEWIKmQ+nUmzks7FAWGCDby+ruHlqeIZCfNzBCfn0zZH18REFC4C7rhE=",
+  "URL": "https://github.com/grafana/loki",
+  "LICENSE": "Apache",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1594192782",
+  "PACKAGER": "Daurnimator <daurnimator@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "glibc"
+  ]
+}

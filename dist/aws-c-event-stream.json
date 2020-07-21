@@ -1,0 +1,24 @@
+{
+  "FILENAME": "aws-c-event-stream-0.1.5-1-x86_64.pkg.tar.zst",
+  "NAME": "aws-c-event-stream",
+  "BASE": "aws-c-event-stream",
+  "VERSION": "0.1.5-1",
+  "DESC": "C99 implementation of the vnd.amazon.eventstream content-type",
+  "CSIZE": "21969",
+  "ISIZE": "64108",
+  "MD5SUM": "f6ed912d84dba9021e437265494d1b3a",
+  "SHA256SUM": "c3f7bde89eba565c9e0f2e5d807512bc37a77453ca4b09c77e797b8ac578fa1a",
+  "PGPSIG": "iQIzBAABCAAdFiEEjhmSFnRl21+wRVV8sChU7XU+Dx8FAl7w3oUACgkQsChU7XU+Dx/cwg/+NOCY2W85NQD/8e4MZBS2hg1Qbws7ahxlR736P2YgUun0hLIA6eKxxpPdskt7yfhQMkSl6s/GtTYrowGn9zGMeuTSNu/Oq7XA8qaMoQ160YaITUG2vimeMbxDU66YicAMMvnKjx7yIWjXyk451/zTPX09I1fsNhm6cY5rJl+hRiwe7ijI7OA7/ACL6X901Fe1dOjh9iZomdyZcYDutbX4az2UohPVY3DWzKRR97A8FLsOtQSy4ZJ5L+FQd2Mvqj6w1mbi5t0ksO+VKDFrn/WmWNfa2/QR7d5WaBHnxMnaEVshTWPZbWQ+RfC3EpsdP9sOCKHb/5YKqtkt7mI1lJQfjqddeycCA+/ezDiVztLTbAA669ILkgsM9MUwsZJfekWQyRZGeyD2lBtc+fx0y2FGuel2E4tzfWDTntTqw8u9/mzK5M7dSJd/envazbfu13OzUttNeFJjOQYKkUe9mP91iF5IdfrdEsBQ5zP7A3NDK5j2CcYIzXAjHmer30jg3PdB9l3vjGaNu3nO4PkCcNwAfwYvyUYYshtQcS8epZciVrr0g1867N+22lT79DmM4pdHfXz50dpkVZguF7aJELDDFCENbpFfObg4ahXbJarNTufqmVFy3kc+BiA1mVxHfQMQT0X2RfNo7iyF2lhwG4gOZaGfKO25TWVcW2fSwwbL1rk=",
+  "URL": "https://github.com/awslabs/aws-c-event-stream",
+  "LICENSE": "Apache",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1592843888",
+  "PACKAGER": "Anatol Pomozov <anatol.pomozov@gmail.com>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "aws-c-common",
+    "aws-checksums"
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "FILENAME": "lib32-libiec61883-1.2.0-2-x86_64.pkg.tar.xz",
+  "NAME": "lib32-libiec61883",
+  "BASE": "lib32-libiec61883",
+  "VERSION": "1.2.0-2",
+  "DESC": "A higher level API for streaming DV, MPEG-2 and audio over Linux IEEE 1394 (32 bit)",
+  "CSIZE": "21032",
+  "ISIZE": "55296",
+  "MD5SUM": "4db36fd8a17bf7c700535b745d340b98",
+  "SHA256SUM": "8038b209baf63319e6d6eccd9ee5bdcb213e913923239e2e5a582c5cb79e4eda",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAlsPTE0ACgkQeGxj8zDXy5KcJA//ZCC7IsPFZ9bkHHDs19KT/8bvRPRiFB2ClCeEAcnPSbbp2yKzyGHNQ+W67IRDVwZQLMcEqJR2G2zGFOcn4L5MBWQzcsJtbuGcjmaiMO45dS7Xu40ZPm2rduudaO0xJDJfUgRzgkr+94IMhaEKQ9z13hzV8bX6lF6vOuK+4tzQ5yX4XDUbubGr4J1PMDqDLlyTRdQydpdQmV9MYxONy4xfHJMx5Ycp0aSS8ujn/rN28P/d7Ix2NPrNFfz3I+tUBZTb3rI8DVxuNnP0gj9OQSliX+Yv1kyAeHAnZsfJW17IKxGLOHWTbvzMAB+xgFloBgi7wahkw3aMgsmBNkf202YZ7x0KnYXJXhE7WlfZlb3oj8Xe4z020mNN9BNQBD+OWGMI55j+N9ep7DejfveSXFsfsl5COoVGpp/ZWxopvQFCnl27Xny1zh3qlIIZcHhXVCYmA8cul4Qr84x4lSx0tbWfW7pltnE+80SeY1ruTM+yvYoWvqYl/ztS/6fz8zzSfpjmtefQvr8o7lSlNUvEP99lhdCEt7591iwW7fTmS0o8lX45BP7D8nlf/Hvz7FBwkXBmORxOJk0mNw8Y0sNO895CdGb+qkIprvSgTb7ZyYRtOBhNnGzkIhPuG38IzPwgw9BxvdTNucLv8tY05vUxsCDLkqQQ1PdPz8QjklIoAnDbrHg=",
+  "URL": "http://www.kernel.org/pub/linux/libs/ieee1394/",
+  "LICENSE": "LGPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1527729200",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "lib32-libraw1394",
+    "libiec61883"
+  ]
+}

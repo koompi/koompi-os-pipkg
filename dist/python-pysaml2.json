@@ -1,0 +1,32 @@
+{
+  "FILENAME": "python-pysaml2-5.0.0-1-any.pkg.tar.zst",
+  "NAME": "python-pysaml2",
+  "BASE": "python-pysaml2",
+  "VERSION": "5.0.0-1",
+  "DESC": "Python implementation of SAML Version 2",
+  "CSIZE": "497210",
+  "ISIZE": "4819784",
+  "MD5SUM": "cd53dc02bb945a7717967084247c385d",
+  "SHA256SUM": "03061dffb80de63aa5ec2808d66a8fc392fdc25c4e789618e0a4f3f24d9c6a9a",
+  "PGPSIG": "iQTHBAABCgCxFiEE5VD//9SF4mShcX4wkBwcMg6w1F0FAl41b0VfFIAAAAAALgAoaXNzdWVyLWZwckBub3RhdGlvbnMub3BlbnBncC5maWZ0aGhvcnNlbWFuLm5ldEU1NTBGRkZGRDQ4NUUyNjRBMTcxN0UzMDkwMUMxQzMyMEVCMEQ0NUQzFIAAAAAAFQAVcGthLWFkZHJlc3NAZ251cGcub3Jnam9oYW5uZXNAa3lyaWFzaXMuY29tAAoJEJAcHDIOsNRdSR4f/ihTp0BdO+krngrdh4KFE4T8T0O+6AntbQqGehUmHxcqeOjzgiRSRt4+OatYKZ8W6MpzyOIGXy8qf8K1skdMPLF/VTFWSPjy43h9WUp6xzx8oLP5bfYv4x9GcM5Av4j9wwksleacUMAptcucBnOX9XLdvJeyqqNEifoPAVXpSZhi5fkxymRv7I3Gj90saeC6d6REBmlW3xwMKZyPLwI8tkGlANVEG/DTfKdiMzfB1YM2RZT2v+In51XoYWfvuiwwXfQ0qM+DfoXlLdZsl/AYgSvzffVh8wEhAqfdmvhfVkrwwu+hxBrFY4TA/EkWZvoRSaIfxcuGXyO8ymvra7PUDKjDrtvVNiGhcoppJyaMsgDBL+ZFnetYJS2iLQ55nWJCX2YF8pxvNamEqSt7FblOb8vD/erKDncs/WP7YwfjTWxz9WJWzeJ6dgXEfr9L8i+Qb+JqgzEsiCTCqFLXkEx2skKFG4jT4Q/hanRP9wN/v8r/llc+OzVjgy7BtxOdG2rY3x1UqwA8UG9PaxtPbfCI57vEJgKj3hyu6ErJ+u/Om7x3u7H77MDLGOh61EMSq4NYQeaxPGTYshyyfVRG8d2l+WOPCvTB+j+ueamK57RFL6TkVhfIm8mxdsePHg6hOFBf31VlhcVHAhWu0i8Yp1Vwd1Wvc7OiGLmEOYhDmXmTvrLVbl0mlUm2ScxbqZMNcJG0QkJ2/WuKLPCrkFi30x6+oEK+WcqyUDEL+ca+RMElUMIecPYUd9c3uaDTSWYKLZWfeinjJyIkHCRXUTcHEYYWlGCuV8iMcxJ5vwznrKfiUXpzU3JG0YLmV3a/1Ag6jdgOKk+469gfCyURKk2UM0o3lhOHqwaTCyqCTofsGf+/2rITkWKO72qIz/ej2Yq5Engn5WY+Dvm3BnQhhCOX1A/X2AMYE/ndFcUoYXZZ+A61k+hLinXTLkK4jQYfHCf1E5gTBK1gZFgKKqu5j8iCnRk5z0sqw3yqRLXc6des7TD1TqtAWGKgATzuIN/IaUtxg3+AO2u/BV9Oz/9WmEiqTRHIZwfRVh93Eo9MgWSipWSLh1qUYkPQZKqI/YcPap13KO6QkCk1w+ldlwCpbulNiPDHFnt9kOBKQ6ECuZqs1D+UqHdYlXKi62bPH2gvnymrTdMjk2SMFXREpqg4mvuAXAAKXPUdOJSlAPm56KlFR704tTdGn02rGGl+fvoKxQn3ONrHXxxdNMO8v97K0Q+ceYOfgTpUkl7yG3/eBJ2wuncOjNpKtgKYgNFq414M5EW+Y73EPZ348uDCEaTXlCKa7fF8paV/AhUFU+eR3BsyXrrxKhnuUHpbeax6YAE/2PibAqUJpPyJ0DIuRwr9Ux4A3JQD9rA=",
+  "URL": "https://pypi.python.org/pypi/pysaml2",
+  "LICENSE": "Apache",
+  "ARCH": "any",
+  "BUILDDATE": "1580560136",
+  "PACKAGER": "Johannes Löthberg <johannes@kyriasis.com>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "python",
+    "python-future",
+    "python-requests",
+    "python-zope-interface",
+    "python-pycryptodomex",
+    "python-pytz",
+    "python-pyopenssl",
+    "python-dateutil",
+    "python-six",
+    "python-defusedxml"
+  ]
+}

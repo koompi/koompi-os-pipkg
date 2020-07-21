@@ -1,0 +1,23 @@
+{
+  "FILENAME": "buddy-2.4-5-x86_64.pkg.tar.zst",
+  "NAME": "buddy",
+  "BASE": "buddy",
+  "VERSION": "2.4-5",
+  "DESC": "Binary Decision Diagram Library",
+  "CSIZE": "61942",
+  "ISIZE": "175141",
+  "MD5SUM": "af5a04ad8eae1fa49af30d388aa799d6",
+  "SHA256SUM": "b57d90a6e9b0e236fc43c20015d03526639be1f541cb814b00c1c81ae0f1c2ae",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl7LxQAACgkQeGxj8zDXy5IRIg/6AhU4TCFBC+IyYCLeYfVqh+cTD1THfh97SDakNgBdqo+Xvd7JJe19RWIGNYk7UVWOml4GG1Pa3wYjkZmgkLB0Dygx3qBu+bPTwCzvhhpGbG2fndjkYeZQc9xVCftWFzE+wyl77OylfHrlc474sldQZFgn/v9KK+6fmBkQ+EUatZ93kP7NMoCeFWQeYcprDTOA2oRmE55vbhDptFgGSa41uO4EYcWGgRJx573qdaJ/9+IH2ASn3r1iDrbMWXPZ3br3veLBJugAGWMQ6qRoFBPHrcsk9sfRKjMf8PQH0/+1WnU4swnvjswvuh9VUSkitqfn7fNv+e6CnSVD1/xK/H85adcftnpfX+eRVrqbjhXhyRLGlbXSIQpuHAHYLHsqrD+oFkf5H4WZXg8EVp6F/TZCrT0RBz5WpFx4k7wqn5ctmKYf/jC3A59rdOErWak4bph7GdS8rW5m/KU6U0yb9TiCcT650eova8DQEWx9/Lhw3F7tP3y7CI1dyy7vhejUe1NRqD5vDjCYMuxwKA6Ul2QHZGmkkYMe+sgvvMglyfzPLnQxFkrHfoqJ7dv/XvpzYeRAJry1/a1JAiF5NZnrW7lYC7Gg2L9Hm+mmEVkGtGxNBBtraP28Y3mOHmvkAYjqJw/0TtzTHmdx+Vw2PadoctSwNghqn0uAugU/kYl0a2iA6hE=",
+  "URL": "https://sourceforge.net/projects/buddy",
+  "LICENSE": "custom",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1590412476",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "gcc-libs"
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "FILENAME": "gnome-session-3.36.0-1-x86_64.pkg.tar.zst",
+  "NAME": "gnome-session",
+  "BASE": "gnome-session",
+  "VERSION": "3.36.0-1",
+  "DESC": "The GNOME Session Handler",
+  "CSIZE": "325327",
+  "ISIZE": "1420703",
+  "MD5SUM": "26c7ef16229d59752ea0b653d2cad505",
+  "SHA256SUM": "a16c5b7322dc92560390bb19e324b28c34e610638d6e8a609bceb181ed6a5699",
+  "PGPSIG": "iQEzBAABCAAdFiEEghj4iEmqxSLpTPRwpekojE+kFfoFAl5nW0YACgkQpekojE+kFfrlHQf/UZqnCDBuAFAasgGj5MkKBC902Ogflbo+AagQD93WgiSHe7MK8PSlzhgmY1q6ZBMY4VEglhrJwA2Qh2ecNhLZld/9+YvSyv2voMSzknv9hFqc3mWqMipAYg9qLCoJ0OPhpa2Z1ZHPzlm/9hsVOVw2Ys8UPz5T5YmTDaYTgkDQyh4jdSkKq3fkU7z6rDuVDzU9IlK6E0PI06SHp1iH8zE8fsqJPH7NYfXwIlFUVTATy8nhjWI16Tnin8Pcn8VNsvqMjQuYscAh0DpigJf5sPFmv0YoB3YPqCnAR07jVYXWuQbba1FUKnDiS7ORVgvYGamUyV0snSqzEDEjI577pRvplQ==",
+  "URL": "https://gitlab.gnome.org/GNOME/gnome-session",
+  "LICENSE": "GPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1583831761",
+  "PACKAGER": "Jan Alexander Steffens (heftig) <jan.steffens@gmail.com>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "systemd",
+    "dconf",
+    "gsettings-desktop-schemas",
+    "gtk3",
+    "gnome-desktop",
+    "json-glib",
+    "libgl",
+    "libsm",
+    "libxtst",
+    "systemd"
+  ]
+}

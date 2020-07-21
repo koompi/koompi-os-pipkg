@@ -1,0 +1,23 @@
+{
+  "FILENAME": "qt5-xcb-private-headers-5.15.0-4-x86_64.pkg.tar.zst",
+  "NAME": "qt5-xcb-private-headers",
+  "BASE": "qt5-base",
+  "VERSION": "5.15.0-4",
+  "DESC": "Private headers for Qt5 Xcb",
+  "CSIZE": "24356",
+  "ISIZE": "123757",
+  "MD5SUM": "bb47c6107ee6b093697cc6c8dcc23ddf",
+  "SHA256SUM": "0d9cd1217c5bfaffabf0a30d29c57ab3d861152b18b8b6a92e533f7dc2e96dbb",
+  "PGPSIG": "iQEzBAABCAAdFiEEFRnVq6Zb9vwrc8dWek52CV2KUuQFAl7/EeYACgkQek52CV2KUuS4YAgAkVM/PWDHjgh7GzQErm6hT2/H+xgZgLeVA/N50HpjmVxEu+ys+llTwsQcaQLwJDfR4sFkxU6BUfghpf92edhIJO3gfIvYp+vaHDFlc+R0E/GGc2prZ+2utp6arzJAJ4J3CIMZX+/j80XWJgvDHvDh3JEHzOrxL45uixzalLM3Bhv8OdixTXjUJgovZUhz9/sD+o+Nm6WGk1c+M1hWUWqvE8KMzrPJHrCeECBa12x4oLfvx3Yg7L3+OsesNGC3nqJdmGqQBGxsCN6OyVv6Rdk2cdlwZ3dz8OWti5TsvYeVglA6R8S6S9yzMGQNfMdTPjCyfTbZ958HW4XThPhQtwjqBA==",
+  "URL": "https://www.qt.io",
+  "LICENSE": "GPL3",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1593773785",
+  "PACKAGER": "Antonio Rojas <arojas@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "qt5-base=5.15.0"
+  ]
+}

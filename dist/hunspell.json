@@ -1,0 +1,24 @@
+{
+  "FILENAME": "hunspell-1.7.0-3-x86_64.pkg.tar.zst",
+  "NAME": "hunspell",
+  "BASE": "hunspell",
+  "VERSION": "1.7.0-3",
+  "DESC": "Spell checker and morphological analyzer library and program",
+  "CSIZE": "280984",
+  "ISIZE": "803238",
+  "MD5SUM": "8ae7147ea629ea679f72a0312a1e6c92",
+  "SHA256SUM": "e36e81628df530e5fe607f96f9bbea74c5d572fc4dc446cacd79aaeda97b559d",
+  "PGPSIG": "iQEzBAABCAAdFiEEhs/8qRjPOvRxR1iAUeixSKmZnDQFAl7DkBMACgkQUeixSKmZnDQrqAgAhp1sWVnGtsE3Cdpenk3Pv+7DOrUbn5Js22xb2179+INXbSoWSWP1HMzPc7GYy4fbj1eY7eJqiqbbJ2WAywn8caHWYhciroNWjH2bXV25/26EmdB0c1zUUxsSjFfMoIyQBG7xDF3lR95VsL9nNNFEjBta7AFyNOZUJ+0e69ESS1pibf8f3I2EqB2FfMwrHN6FnilEKWcrxhitfUvahBmyZ5ZiAsf7qz0cbIG7wtT03jcDappqYL43zk9SehkNqHVzmQX7uY0N2HUFkiS6fXiCjQi/NMezIBr3QagK0FJQObKF+iBleUKmGRc4Swl29t4I5dhqBUUY21neIjHR7bAFDQ==",
+  "URL": "https://hunspell.github.io/",
+  "LICENSE": "GPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1589874664",
+  "PACKAGER": "Evangelos Foutras <evangelos@foutrelis.com>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "gcc-libs",
+    "readline"
+  ]
+}

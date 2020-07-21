@@ -1,0 +1,23 @@
+{
+  "FILENAME": "python-socketpool-0.5.3-6-any.pkg.tar.zst",
+  "NAME": "python-socketpool",
+  "BASE": "python-socketpool",
+  "VERSION": "0.5.3-6",
+  "DESC": "A simple Python socket pool",
+  "CSIZE": "17708",
+  "ISIZE": "59008",
+  "MD5SUM": "63498dbe7cd71643da5ccb34423a384c",
+  "SHA256SUM": "9c0e8558569bcc5468bc7879b1dae72e9b162c97173af5bc4d715d94ae88a6a2",
+  "PGPSIG": "iQEzBAABCAAdFiEE5JnHn1PJalTlcv7hwGCGM3xQdz4FAl73WeAACgkQwGCGM3xQdz5piwf/eIys01Y+BGXHy+pLFX6ywM7PPAYssQDlMRm6lRkC+pFuXBB1Q49XDubXXhKlDYcVY3yIv8sHju+hfeHzeBZXZ/4iuAbLw0pAioW5kdLQexwyc0qhDoYT+Ejvp+kzYtucc0i8CFwV1y3hgwifdatwvI1qAycq2I+hU6YgR3fFs5pryE929Gts7+7ovjYXP1y21rpowaV5O2GzECnzqooR3cMiGRD9HU86sT3BtCUh4PV5LziC9szpmAsUV1+m7GaLBt1lQ0JRb7GskcTn9maiXWz2s8iW2IHMMfcCf8OwgM3aMiU1+Joz4NYAevKFgmpAx8mlcrUpc/WTlwfwS2F6PQ==",
+  "URL": "https://github.com/benoitc/socketpool",
+  "LICENSE": "MIT",
+  "ARCH": "any",
+  "BUILDDATE": "1593268654",
+  "PACKAGER": "Jelle van der Waa <jelle@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "python"
+  ]
+}

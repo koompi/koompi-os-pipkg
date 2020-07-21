@@ -1,0 +1,23 @@
+{
+  "FILENAME": "perl-locale-codes-3.62-2-any.pkg.tar.zst",
+  "NAME": "perl-locale-codes",
+  "BASE": "perl-locale-codes",
+  "VERSION": "3.62-2",
+  "DESC": "Distribution of modules to handle locale codes",
+  "CSIZE": "278047",
+  "ISIZE": "2255485",
+  "MD5SUM": "511a10a8966e26990ea8ed29846894f4",
+  "SHA256SUM": "5681ba327f160b6034117e3ff2ca0666c5750f3f80e09c6046fa861adf12a5af",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl7vhbIACgkQeGxj8zDXy5IQIRAAoBDICVd8uCmE8j98VDG1P1lYzZBKtIkOwwDGIz5GBpgeWZ4VkvHym+R52+vB55quc4lHyKrEd1Qad1+bSdGQAaS6de2Wif3nzDj4nax6wgGV/8nlHrTf64NlDU3Y1gTSNT2RSdZHQAa+Cpe9vQlj+aCqj+b1am+x/PV4iZGePBoSl+Q0iriDC9McoHHusYP/x8ui9LJSkSmd2GOrt4cqvNGcCpKGRAfayIt3U+Fqs4xUOlZGZlV+mg/ppX7GQSqMaFUcQ/uFS+P04ArfOyovJmodbAjSfBEyxQo40Veak6i7/1g0nVBstjmHpD9Q9SMxZgGRGZPAvkYz3dmppm03Gp1MWuPy56xT3psrxYlv3Me+xN6K9Y5z3vnhN+UKxkNgJeS/zVSoZoR51tjga5dSJNoNzkNOSKAQWhzyv4cz5PSElMPfb9Q3XIQeHGGgiLBp5d+HC9TtMCnsE8YaU1mqaezoAHHPoictWVztxxu7LrZBhX4W7YaEoMZDvk2GCP5YuROnbzyZURLE5CpNM3DxYtl6ot3iSMLr8YPeqgfenJR0N5x2GthkCV1yaDBD4mJBFNN4xsHw+ZroXYBuuaB8raxRblNZg2IA1ThUUHySRN7qnf7m3vzZvLU9Q/+BKE8Z0D6Rm4blz8bSDtLTC5LmPWDcrHxDKG97QGYPVSwbH+s=",
+  "URL": "https://metacpan.org/release/Locale-Codes",
+  "LICENSE": "GPL",
+  "ARCH": "any",
+  "BUILDDATE": "1592755401",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "perl"
+  ]
+}

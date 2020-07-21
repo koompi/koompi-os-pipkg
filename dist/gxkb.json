@@ -1,0 +1,24 @@
+{
+  "FILENAME": "gxkb-0.8.1-2-x86_64.pkg.tar.zst",
+  "NAME": "gxkb",
+  "BASE": "gxkb",
+  "VERSION": "0.8.1-2",
+  "DESC": "X11 keyboard indicator and switcher",
+  "CSIZE": "56046",
+  "ISIZE": "94260",
+  "MD5SUM": "8624aeb440612cc2ef3e1ae0f29df6c1",
+  "SHA256SUM": "171b381d93ce2d5d3c1e748302aad27fcc7cf715193084b511c2559857b21edc",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl8E5qwACgkQeGxj8zDXy5IBhQ/9HtUMjeG3w0nn3a667eDjUwrlEUXbo+B35amrrpVOpOGN1DaBkP5HhAD7mtFrvcZj5FE5duzd/LAtEsmcmM+4UQlgRMW1esc4AneoOqxmVIYRwPqPIOBkl7jYRx6ag8Ojxo3QngECkZ5k2LZssrivtyR67mFbozmu8EiEjgHF205zwcoJ78No/SqmTXGmtzaHi89/3kVipFRNSF26qBOq0/L5mG6SwZmcgkvE0q6ugYBWKsHmnD59pYHJaQgMc9uesWrIhdz/l1vIagZW3UShEvv+brxpiM+pwt3fmnjxlIp5pwbJ7MSQo227vbi+VoH7uYpCUqJ3K+eXBISSkxK4tkJVgiF8UeK+9oi825n8KFPuKCHzdCYUVQe798GVYvHJv+0KdVEv7t2qhKoCj34jAi3YiSq3xm408hgV0efTz0S6Ogti19w0cEuVIk9l81YZLWEgGxGVpQnS6YC8C/lQqIHrSMjEkCThbJQ8BeWio76OUXnSa1ZDj4bHIdazwiKMS7fK+qZMRePmo0AupNiaK/hlPN0LZEcH1hrIRkyIUM7rHOljCngskOoJO0pzPXVP59lBBwXUcslw6kAdNXVHc5JyyAq7PFiDXAImUlOU8i66ZEfhnwswxpCARGL+PW+rWfVVJwKNJy/S0ZTZLO8MQnaae8TKldaGPGnLkUw/P9g=",
+  "URL": "https://zen-tools.github.io/gxkb",
+  "LICENSE": "GPL2",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1594156692",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "libxklavier",
+    "libwnck"
+  ]
+}

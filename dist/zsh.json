@@ -1,0 +1,25 @@
+{
+  "FILENAME": "zsh-5.8-1-x86_64.pkg.tar.zst",
+  "NAME": "zsh",
+  "BASE": "zsh",
+  "VERSION": "5.8-1",
+  "DESC": "A very advanced and programmable command interpreter (shell) for UNIX",
+  "CSIZE": "2222749",
+  "ISIZE": "6521270",
+  "MD5SUM": "b4daf77c325ce2564a1e2d9be127e9c4",
+  "SHA256SUM": "5df92934f801c24305cb51972b5ee69038cad336c1578ef34faffa69f6fdec0e",
+  "PGPSIG": "iQEzBAABCAAdFiEESqR2e7ycSx0Yrii3fy1DS5dB6KwFAl5JgwQACgkQfy1DS5dB6KxdOQf/StN5RY+YwW2WQ4wgMDKJ6eELgnccaBa+MDtLstSFRlXE4alFpIZ/6wFIgfLlK06MY0SDgXz8z8PnJYtAkABBcwh7Ey3/j60pY2O5jCQ5JcAJteHxU06R+oWTeP1dfhoTwNSjXoj8wLOqtAjQwHKpmbcsV5GmhA4/jejoya+0IqxrDb717zRouoL4s5b7XVmyH0dHDfzvBuq7MlEeQZCtm5WeISpwnwI++9Pky145UvNdqGCkCHveTFCMq9GfBw86gQMDzGC6MFrgfHsYJMft1g5i2Qz3kJ5+JnpmcgilGhbu2AtrZtenkarNVQ1zc9TE2UEMk7lw1rKXnE/ztq1tFQ==",
+  "URL": "https://www.zsh.org/",
+  "LICENSE": "custom",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1581875721",
+  "PACKAGER": "Pierre Schmitz <pierre@archlinux.de>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "pcre",
+    "libcap",
+    "gdbm"
+  ]
+}

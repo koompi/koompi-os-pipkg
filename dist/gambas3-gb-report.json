@@ -1,0 +1,24 @@
+{
+  "FILENAME": "gambas3-gb-report-3.15.0-1-x86_64.pkg.tar.zst",
+  "NAME": "gambas3-gb-report",
+  "BASE": "gambas3",
+  "VERSION": "3.15.0-1",
+  "DESC": "Report component",
+  "CSIZE": "160148",
+  "ISIZE": "726418",
+  "MD5SUM": "a3844f93d8cd39f897e963e7473c9d32",
+  "SHA256SUM": "6da4d75540a7484a56565db537df0a0220384eeb795193eebfbee7896dff55ff",
+  "PGPSIG": "iQEzBAABCAAdFiEEU1+MAzlFDwVKTSgnBglqatHO3awFAl8C7RkACgkQBglqatHO3ayvXAf/VELrHenwW28hkz7UOyXLI11ogkjqsbgjhZ9WvhoIm/yEZ4DP9KAMTofhv0iXjRZ940AW8qJ6THqJB3FjN1Jd6K3FUNa5DASNHV36GTh0wpt/jYnt+YO6xSxna0EkiRQjh3FV+l1NVx2zbUIUxYs+bjeeqDgNvEwrjWcbMWZ72Fqo58Pxsw2j2xs73tgIovyb8eLai56uoAY088loikqOfm1l79F3HeXWbs+LOmCj5vVRsdN2A8gVrFGaZkuuXqmOpdlDS3+4Ma6INMCbo2Ie3v9SH92DIEtdXgsqYsazcOAaePfI8b0gWNowk8Gt3Acm9XjLMJTATyuvThZ8BZKFeg==",
+  "URL": "http://gambas.sourceforge.net/",
+  "LICENSE": "GPL2",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1594026389",
+  "PACKAGER": "Laurent Carlier <lordheavym@gmail.com>",
+  "PROVIDES": [
+    "gambas3-gb-report2=3.15.0"
+  ],
+  "DEPENDS": [
+    "gambas3-gb-form",
+    "gambas3-gb-image-io"
+  ]
+}

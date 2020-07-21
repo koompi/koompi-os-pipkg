@@ -1,0 +1,28 @@
+{
+  "FILENAME": "xorg-xfd-1.1.3-2-x86_64.pkg.tar.zst",
+  "NAME": "xorg-xfd",
+  "BASE": "xorg-xfd",
+  "VERSION": "1.1.3-2",
+  "DESC": "Displays all the characters in a font using either the X11 core protocol or libXft2",
+  "CSIZE": "18364",
+  "ISIZE": "41554",
+  "MD5SUM": "dd2525f0e7e9beafb446d5fadad235d2",
+  "SHA256SUM": "6504a4754a261a7570429ed5bac431d9e20d743dc477abe456f2259e6e617d11",
+  "PGPSIG": "iQEzBAABCAAdFiEEhs/8qRjPOvRxR1iAUeixSKmZnDQFAl6/6bcACgkQUeixSKmZnDTAWgf9GDBkiHXuMsToT3jDmFdM7voWnoQdlmoTx3mhbabI/XaR3sazWLiui/W0dGbqIQ1QdVIZLU5Y45SYBW1esVlaG7Ipu67+X+E8WcI9XyMivLWrYwFvQQ5wYZM9vfvoGQ6xvtLFjVHdmbMt4QbNtsp9eISyFErkWyI4s5pkJKNPs2qhQ/GYp0X4jk9YG+7sqC1tTmPHvJAcZBmmFUqhuwigwq68OvHp4WXqSaKnj3kzva0jTuZB0E7LSOa5NQ+Rx03S0pGdB+lhtEiS+5bCZA/Cy7cQwLiU9iiXjL3XT6HAXEnt1ikquOM5SUWAG1GOXdW5To0/+C2AXBx7nBgIQPKZFg==",
+  "URL": "https://xorg.freedesktop.org/",
+  "LICENSE": "custom",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1589635491",
+  "PACKAGER": "Evangelos Foutras <evangelos@foutrelis.com>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "libxaw",
+    "fontconfig",
+    "libxft",
+    "libxrender",
+    "libxmu",
+    "libxkbfile"
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "FILENAME": "gawk-5.1.0-1-x86_64.pkg.tar.zst",
+  "NAME": "gawk",
+  "BASE": "gawk",
+  "VERSION": "5.1.0-1",
+  "DESC": "GNU version of awk",
+  "CSIZE": "1166584",
+  "ISIZE": "2790732",
+  "MD5SUM": "c368f6cf5ea4d50be5ba533e98614183",
+  "SHA256SUM": "d18f5bf43b29eca3f480652ff47bec62b76867dd68920ec8df56e6a7d310c098",
+  "PGPSIG": "iQEzBAABCAAdFiEEFRnVq6Zb9vwrc8dWek52CV2KUuQFAl6WrDgACgkQek52CV2KUuTnVAgAjb0aBvWC8E6oCdMk5u6ayxHk4UZyXhBfQhSDcF9c7LIWguSaGh6/BPQ+OfF2QaXO64s+hN82SItieSo/C/jgjmqnN42a6blOwTRT9dmLg73ARfL2QgBiOdDLeQJwwi7mqZV3HnlwBhccAQJJkUOlDshzXe4DjDWahFTC9ozkWtSM/MN1IQScwpwX8dmHZkONaFhQkv7QXrS1Hq+QvCe/oyn2NN+dAI76aatovNahe9ZCE6939KEZJqxIvrbh/iTUoX+J9Yui/0qFb/utV5BCMkIrd+9j2XPdoj+lelz9o0/ZbUnM+Umz+kGMXaeWNLrPQbtcVo7/5rZb0aKMvIc7Fw==",
+  "URL": "https://www.gnu.org/software/gawk/",
+  "LICENSE": "GPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1586932694",
+  "PACKAGER": "Antonio Rojas <arojas@archlinux.org>",
+  "PROVIDES": [
+    "awk"
+  ],
+  "DEPENDS": [
+    "sh",
+    "glibc",
+    "mpfr"
+  ]
+}

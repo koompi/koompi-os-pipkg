@@ -1,0 +1,31 @@
+{
+  "FILENAME": "libratbag-0.14-2-x86_64.pkg.tar.zst",
+  "NAME": "libratbag",
+  "BASE": "libratbag",
+  "VERSION": "0.14-2",
+  "DESC": "A DBus daemon to configure gaming mice",
+  "CSIZE": "2832869",
+  "ISIZE": "4363366",
+  "MD5SUM": "e15c920e51361b4fc48d19be9d41cf78",
+  "SHA256SUM": "c1a5cf1c36693b9d5f5da7beaf2daa94a93823f01d56b549bde650e9b48cb317",
+  "PGPSIG": "iQIzBAABCAAdFiEE0jW0leqs33gyftiw+JPGdIFqqV0FAl7xA6cACgkQ+JPGdIFqqV08/g//V5Jiy1yUtZ3Zyl6Zb/q1TkwVc4yhUAtM4pWh5Uv9D3mKG9MYVrb2QFcYFT8Pug+KoPdVxSKAALAalVmQTZ8hfOCjWeDdTGcb1P6/HVK/z/3SI+01byws7L5YpK7DBLwT331YuS7WwOnTj0bZfM7qTD6NceVnmHhJd6rO7iaFhuv8ZrXVN5sjzzBsmjuUP2bT1NBONvLMqaSvkKroXZS7TSiGZNFkpga85pbecrhwLLPBge4mIW7OLo5V3wd3x0sOwdLen/Fltb6J+HRhlw72QXn/OLdFRSmjfAARXkgor1DYGAoMYKCPrEQxeiGef5uw4NVvfR5aasCsukjYVp18Uo4JhjC6mljwZxF8NHfHUZN8p3ohl2d7as4L732/AgKZtQzownb7aOgmNInq7KRU98POn63pXwLJk682mewZzcSvsqDSMsVni3naufd9xaodTIU6+WPy37fMuJC/EAKYtaZZ9x0Ybw0lUcnq+vcx2hA2uxmbzjgn4bGGJlylLMqRoREynHJdf7PsNrLODRZRpwUizxyWtc6y/Pk+IvBO7bgOLSuKMPjTv1Lo8UQClr+OHQbk88De+q2AxPaRgmyXiFZGJRxCiK/4OLs07Q8w04iEhNQ09sWU1CuVYCoYlrcWCybgZ1hhdCXNOCHv4Q+Ty8xMlmgaor2gEnzmj9xlKOE=",
+  "URL": "https://github.com/libratbag/libratbag",
+  "LICENSE": "MIT",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1592853299",
+  "PACKAGER": "Filipe Laíns <lains@archlinux.org>",
+  "PROVIDES": [
+    "ratbagd",
+    "liblur"
+  ],
+  "DEPENDS": [
+    "glib2",
+    "libevdev",
+    "libudev.so=1-64",
+    "libunistring",
+    "json-glib",
+    "python",
+    "python-evdev",
+    "python-gobject"
+  ]
+}

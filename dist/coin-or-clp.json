@@ -1,0 +1,24 @@
+{
+  "FILENAME": "coin-or-clp-1.17.6-1-x86_64.pkg.tar.zst",
+  "NAME": "coin-or-clp",
+  "BASE": "coin-or-clp",
+  "VERSION": "1.17.6-1",
+  "DESC": "COIN-OR linear programming solver",
+  "CSIZE": "1132409",
+  "ISIZE": "3491715",
+  "MD5SUM": "a158241e391e0c4383f927d73d3858e8",
+  "SHA256SUM": "51b0aa613ceaf65d0b31e8fd3382fa5809556e679d3374efab3e0416e6d76fbc",
+  "PGPSIG": "iQEzBAABCAAdFiEEFRnVq6Zb9vwrc8dWek52CV2KUuQFAl6S0XkACgkQek52CV2KUuSgVAf6A6JDqYwgwIqn9WQWIycMwPPFOLDydke2Pu3QwhYRXs90BZg1Pf52N1V/F6VdaymSPUr+qD44zr9uJcXOqaVn60l1rsIWtWw8tk4HZNcpixFiICtz+zm+gWwXISeoLRRvd9z7jDs9zzcyVm0EE43tWPGHK1xyvqRWCOICvOJdWln32bqwrHTkA67ZVg6CTGVyzCoYLnqNBxlwS44DkQMLZx5pgoKUa6r2pApd4bdL9jJV/FkqU0+ibHkX+b3mgmyzfb780B8nPCJ1LTdQxCWKpEWJ1aq4spPXjsoYuWep/sdKflFzcx4wW1M20o/aSoBXlxXvsrXWS4JVwsXDWOd7+Q==",
+  "URL": "https://projects.coin-or.org/Clp",
+  "LICENSE": "EPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1586680109",
+  "PACKAGER": "Antonio Rojas <arojas@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "coin-or-osi",
+    "suitesparse"
+  ]
+}

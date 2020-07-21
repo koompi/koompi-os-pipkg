@@ -1,0 +1,24 @@
+{
+  "FILENAME": "flyspray-1.0rc9-2-any.pkg.tar.zst",
+  "NAME": "flyspray",
+  "BASE": "flyspray",
+  "VERSION": "1.0rc9-2",
+  "DESC": "Lightweight, web-based bug tracking system written in PHP",
+  "CSIZE": "4057108",
+  "ISIZE": "17859720",
+  "MD5SUM": "f5d9354a09c00ac27caeb3af624614eb",
+  "SHA256SUM": "83605d84266081224d96daf6ff33e62340cb727fea9e8c056bb58fae5488cf7b",
+  "PGPSIG": "iHUEABYIAB0WIQTH54SUZv4jWDQ1iDdyWHNLQcMVSQUCXkBuMAAKCRByWHNLQcMVSSRAAP4qf4dnzq5ZXmKG7o7lk7KoEtSmMRHMLEqRpanVGb2CSgEAinQhD0tzc9G97hH2krn6R/G3dNIpqvjekIxk95UfoAM=",
+  "URL": "https://www.flyspray.org/",
+  "LICENSE": "LGPL2.1",
+  "ARCH": "any",
+  "BUILDDATE": "1581280713",
+  "PACKAGER": "David Runge <dvzrv@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "php",
+    "php-gd"
+  ]
+}

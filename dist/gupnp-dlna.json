@@ -1,0 +1,23 @@
+{
+  "FILENAME": "gupnp-dlna-0.10.5+4+gc947eed-2-x86_64.pkg.tar.zst",
+  "NAME": "gupnp-dlna",
+  "BASE": "gupnp-dlna",
+  "VERSION": "0.10.5+4+gc947eed-2",
+  "DESC": "Library to ease DLNA-related bits for applications using gupnp",
+  "CSIZE": "103414",
+  "ISIZE": "1027713",
+  "MD5SUM": "f084a2c04ac73adf2708be12c3a03311",
+  "SHA256SUM": "9b8ec6715467c6d9d48b22106ee131185bdce8916f454b8210b3b440f6ea616a",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl7DlP8ACgkQeGxj8zDXy5IqXg/+Il8Kq0f7jkDTicubKi4ds1omhmiQ8KvO0Rp1xPGvP09HY9mDdnK1njGxV8gQL+SuHAVS0z9lINRQp680iyNC7e1OoFRWLD+4aCOHlW05JNkTkidGYTWW6qHRwMBONSYMldWgQ8MhMWDuOCI3QXj+KsPgwaFmJoyN51QLzPsk5JB3BX3jsX/iU6xzMY1jpAzxgFnu1FjUMwuiS19RamRmxAdwGSSYsmp2drnuiKzfrGOi03h7+KBUi7+ZG/KaCYCqqJaPRaVU0I3aMF3lSUtZsUj85AVM7xOGQIfviV6FAWswVDenT6ebvUktdrAkNHxOWDoeg+KU46tFKInoZhAuBcx3um75oFqUB47ozMt/ScSlLHuJll0qD3zWhGC47Dupd3vXBugad3Cs+IFqJdtAwR/qM7BO2Uf2ctCF7YdWHUhMw7WJwa1jEi/XiGU/kIdL8znX6HB2PFA+YGo4DvjnapY14Wwj3lzcEBFwfru/iRMSxn+lBz+fBWFde+v9hDornSatMN9M7cTJ7xMw5KvZ3r5A8kBaSAX9KjbTUyr5R3aPfHszN3zrPtx5wslFPg3LLkD49HWlTDi1Ikv/aP9h2nQcB1ihInLbTJjRN0crpIRB9BSVXFhft6Sg0Iu5BXu9AhIkPW+TnyWArfQOu98/4OSYnT6tr4FsjOdW0qPgOYM=",
+  "URL": "https://wiki.gnome.org/Projects/GUPnP",
+  "LICENSE": "LGPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1589875910",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "gst-plugins-base-libs"
+  ]
+}

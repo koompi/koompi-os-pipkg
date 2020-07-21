@@ -1,0 +1,30 @@
+{
+  "FILENAME": "sigil-1.2.1-2-x86_64.pkg.tar.zst",
+  "NAME": "sigil",
+  "BASE": "sigil",
+  "VERSION": "1.2.1-2",
+  "DESC": "multi-platform EPUB2/EPUB3 ebook editor",
+  "CSIZE": "3322037",
+  "ISIZE": "16438900",
+  "MD5SUM": "93af9bf8e822f9f30d338996ca524b27",
+  "SHA256SUM": "3e56b44f8a98a639524fdb9ee31d562556d9d55f0f895d5fdab57729e3af3482",
+  "PGPSIG": "iQIzBAABCgAdFiEEYEETBMCdNmKDQO7/zrFn77VyK9YFAl7ccU4ACgkQzrFn77VyK9YOGBAAilxmpZ2cP8VVLGQysoi/z0hPBUeTTtsQbttegEWLndLAoGSToqtUqy8D6DQsUqcFEJquL34lnI6O+ILxhlwCejEPaS8ciH1ZVsLK5tu5nbct8FZEbe1BGif49ojfp+tAybazxkwkT7NmuPeef5ELT16AuqbvIFrtKb9CqsgdC3eEESmgNbCsEPtlSDLmn5QAbCIehCNACuMW38Zb+B7GQ+BsI3XGXnQsuVkQzl34OmE2My8995ZlIAIsp/TkCoDmBoYZGIsx3014PFbpxEyjyUtpZ65lEZzSE7qbZjWdx/5szodWmzMhCjrWkkduAMvmv05hw0I80Uib0qdt1QQS39CWG2ij1Qoydj/J5diNEXJscPNfFUjyPh0duYG/eNNf+0kwyvkQcmY0FghjXQr62PtTa/gkNRYgR6AFWVC6PCvL5TgLdLxGgeXhYcE4RnsdwXjQ6WyM72Bh4Qu0ktFCqVcA2h37kxVwz4kd/GfN2uAOAyxlCPECh4fGogsv+7tqginGmg+UajRB9JUQj/nSCIqSRidHojf7sRMOJdhdg5WgiIwKbwnl/aJ2b4CBiEDY0se8WxrjjFlWi1ZRkOs413KFDKPvRpPRu4xidyTCmbaAhGzV+yeTRXUo0fzIH5Gta3OgvCp+gGO74BITzIyzl5I5gLPDRObjFc7heNoKP3s=",
+  "URL": "https://sigil-ebook.com/",
+  "LICENSE": "GPL3",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1591501682",
+  "PACKAGER": "Eli Schwartz <eschwartz@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "hicolor-icon-theme",
+    "hunspell",
+    "mathjax2",
+    "minizip",
+    "python-css-parser",
+    "python-dulwich",
+    "python-lxml",
+    "qt5-webengine"
+  ]
+}

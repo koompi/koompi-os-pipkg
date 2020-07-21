@@ -1,0 +1,23 @@
+{
+  "FILENAME": "python-pilkit-2.0-5-any.pkg.tar.xz",
+  "NAME": "python-pilkit",
+  "BASE": "python-pilkit",
+  "VERSION": "2.0-5",
+  "DESC": "A collection of utilities for working with PIL (the Python Imaging Library)",
+  "CSIZE": "29356",
+  "ISIZE": "119002",
+  "MD5SUM": "3a9e580158fdc74f7115e674e5d956e0",
+  "SHA256SUM": "10262d80c6d3b46444302947200f604e0d0698a7b6cfc7366733c5ef5bcca21e",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl27H10ACgkQeGxj8zDXy5J+DhAAhZOAEe2q6py4fqV/4glcwPF0+3BXYFLvB/ym4eCgzdXyckkE60B83wbTM3yq5XsFZZQsqVQdrmbOFt5Oe1L+7uMI07Pip1OBdW0g1euAyy2ZVlooahggKtIvfL4nkhmikzkUJ7Z6m1pgkjpQnWbYTzYCl7JUAlPzJ0fHJ/ySCX39H/qJs9MplU/FVyLAsQLxIS8s3tRWZmNsfx75FopzspMFci3g7j6VBqU8kf6UKqT61tn7h5F6LkxhXz9tXGJucuZAzz++XGtQxkMBIoyMKA1IgZPeIUl6bRNbwm7z7k2QO4iIEwd2K4IPN3+an8SYL/jcZDzeLScnhkP9PUQRrYKGYZPETWQFh5+xDkCs1iWB6Oppry0enUte+3jmws60IsOSjXHgk37W9AQ8HOmuBhSIrkcKOTWfFkH++xYqfxd7yxIBDkX9l/mGdL0IbJq34T86FFGPumqvVy/ZqYUNGppx+GnarjAdQZtDGTyB96B/cNwi/ZJCMyMIpxFb+WN59mZsRtlgyMOVicC34HHZdCcAHvThjyqepmOWvbEvz98UbYp61/PLzliw0WFaMTbXCNBRFuqjq9F2o6K+hDDWIbkyRGzj1E2eiPE8nNHQ0DoSlw9tBoe4GUX4zoZ8Z2rzI5cFuCeoXXZHmplemiJ+u8z5/uFpNwF/nC0048psszQ=",
+  "URL": "https://github.com/matthewwithanm/pilkit",
+  "LICENSE": "BSD",
+  "ARCH": "any",
+  "BUILDDATE": "1572544324",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "python"
+  ]
+}

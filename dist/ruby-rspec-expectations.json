@@ -1,0 +1,24 @@
+{
+  "FILENAME": "ruby-rspec-expectations-3.8.1-3-any.pkg.tar.xz",
+  "NAME": "ruby-rspec-expectations",
+  "BASE": "ruby-rspec-expectations",
+  "VERSION": "3.8.1-3",
+  "DESC": "Provides a readable API to express expected outcomes of a code example",
+  "CSIZE": "182872",
+  "ISIZE": "753800",
+  "MD5SUM": "883cba5813b7d5a939e065d607c1383d",
+  "SHA256SUM": "9262e43101a8009ba2627d47587ec87e1dc636956bb34cd40b1b4f0168be67f6",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl4EAGIACgkQeGxj8zDXy5IARg//ZnSQiszUrjTLAYcAcmcIfYAzbXhxuGx41D4bM+ga3MbFjqUVTXO7QSeA7oO005AbRnCA+RmSI8SS4DK2eh+0O1mu2YKcJoTsNQ8aVXFqF2ArD66UAdjzKm45TCkq6hfqRoO6BSb2rNE++oDDQN4veYW0VsG5yVMwV1ehbXKQ24rBcQSMripCOFVKRaOKHIThp0wshkFTZHF8sdT1juwXDia/B4N8qEieTs14BrnFbcgNFLbW1JUzAEBzsV8tFUy+6C7yAuEBrGQd58qfxsnW03U/yYwr133kWSUu/CtlcsQs03Xq+oLtf3U7SpJ9vdJtA0oc9sqSRfG0elWQPv+NZ+mRZBounKnLGNB1kX82zMYMdGdQoJboxF0BHnAIgWzAqEbvRFuaEkGJIvvuDAFg42V9Qqb4Mn7hApfqG5FkY1JQ1HqVAm6jc6JT9GMSxDNh0J7ez0FKdKfaxFJyNyqSQDPpDGQl2fsLI73CT9JU8l/pFC5NnHI4TE5mM4rmyjB7dUoNIpQnDVyw7rL2Lj7krV1bHpf9Vy5oK0ROkwq7wH9OOOC2Wtvv9wnjIkLiAztfn4oJsbBZx1unaiENmzLoMRflB1mc2hY8QwDBxkQ822DWeTD/n9XVIQKwA8FkZwxhKWDjEy8TLoYIAGJp3ZXCwwGQnRJ2wJFLT5580Jt9oe8=",
+  "URL": "https://github.com/rspec/rspec-expectations",
+  "LICENSE": "MIT",
+  "ARCH": "any",
+  "BUILDDATE": "1577320513",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "ruby-rspec-support",
+    "ruby-diff-lcs"
+  ]
+}

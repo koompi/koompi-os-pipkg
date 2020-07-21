@@ -1,0 +1,23 @@
+{
+  "FILENAME": "speexdsp-1.2.0-2-x86_64.pkg.tar.zst",
+  "NAME": "speexdsp",
+  "BASE": "speexdsp",
+  "VERSION": "1.2.0-2",
+  "DESC": "DSP library derived from Speex",
+  "CSIZE": "460645",
+  "ISIZE": "561943",
+  "MD5SUM": "65d77318a8af2e3cf30f50a847eda8ff",
+  "SHA256SUM": "72268364ee755bf6040c5099e221c9f8f842f755a9edad726587ed7bebb98bb9",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl7Dle8ACgkQeGxj8zDXy5ISOBAAlJV+gGksEyqaTiW2nrj5H7bkS8WL2BZZdx8pWiwQ6cfATvjJhCUJ5+chv0BuYSOZUmMjg1mpcLUY/RAN/gFiDTTN0Nzg+3QtI5MV/Fy4YqgbJjoV2ejY2pPuBZNgDfiVb5QMVDfAqbpnKdkUff8RzxQm29DcRGDuunBgUY1yDnOtzxhb2FFaeNkMbGaQueEj2C0c7ak5MUsVJlB73I64JGXqxomHjA8/Ld4QsRmp8ubDfq5fn1vH46ZeEs7OAOQfCLGlYkX+cjsYxLSpU/Y435jW8saQHpZIrMRT8UxNGdOcVxaV8Vs8vjdQwCaDgnUKoZVJSHoDi1mpJIyfACGXsS33aK0+TL7joQnNr35RFXt8EcKQrfNuupUZ3X0HVTX6O2CDcbTUxYMYGV9Gle4c5D4ugUAsLjH8OSYVVN6YxBf5GyE5zbt33/cto6pkBf4hZ3YzkxC015FDxMd9ycl90/gMJdty+YEPRQ6GmoVbXVyJigJySx7VHiLOsBp0HqrNPLBy1I5djWh6sQXJrRQEYv80WNpbe3i+umVGBgd8FFMeEg3Yr/xOxk7DcerRGBkxhqoLRPkKmc5eVlnk6d17x4C1xdSQ5c7nIMwHqL8dLCtWeSgG+Q1dspMtZ6GJMr6yw+TzB7TltklUIIpvGQr7ntYd0VlTBaO3Gdsiy1EStU4=",
+  "URL": "https://www.speex.org/",
+  "LICENSE": "BSD",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1589876146",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "glibc"
+  ]
+}

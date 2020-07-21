@@ -1,0 +1,23 @@
+{
+  "FILENAME": "perl-test-utf8-1.01-4-any.pkg.tar.zst",
+  "NAME": "perl-test-utf8",
+  "BASE": "perl-test-utf8",
+  "VERSION": "1.01-4",
+  "DESC": "handy utf8 tests",
+  "CSIZE": "10214",
+  "ISIZE": "14148",
+  "MD5SUM": "8cae822cf90f7b786be41f26e67e597a",
+  "SHA256SUM": "376f11f37224c2eea11dff6cb4ebb709773688c6ad1c981a46c9ffc93cbf12fc",
+  "PGPSIG": "iQEzBAABCAAdFiEEhs/8qRjPOvRxR1iAUeixSKmZnDQFAl7vfMAACgkQUeixSKmZnDS2qwf/Qq6Y0XB63e9PoWUeaKThFQReOIeSwJSIelJij/INNa8qBucGubmfhN+vu87NHcGSZBZEpyzPRf+s/Qj0zR+Eec8EwvQLUBGcRi8bMRn4eTXVlPMWB2+akimLeS7ZncZWlFgCs2fJpOKYNheEf0A2VmwpF0P5sOIAXml2lWna6kr1dCuz+jEHUUDwZ3wevyjYCNc42p6JpsVzDGRau3aV35mmwsCw0rKHZzEFUTi04okkPi6gaQMdNczOETPMhB/+JPXNW40GAMIvqaIAAozAAWkzJvBvOXvUOf9tAAwcBHs+7PaCF5OVxjRHxemYFTgsip/f905h5Ezj998rZw5BRg==",
+  "URL": "https://search.cpan.org/dist/Test-utf8",
+  "LICENSE": "PerlArtistic",
+  "ARCH": "any",
+  "BUILDDATE": "1592753328",
+  "PACKAGER": "Evangelos Foutras <foutrelis@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "perl"
+  ]
+}

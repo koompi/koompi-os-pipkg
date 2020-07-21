@@ -1,0 +1,27 @@
+{
+  "FILENAME": "mosh-1.3.2-12-x86_64.pkg.tar.zst",
+  "NAME": "mosh",
+  "BASE": "mosh",
+  "VERSION": "1.3.2-12",
+  "DESC": "Mobile shell, surviving disconnects with local echo and line editing",
+  "CSIZE": "202277",
+  "ISIZE": "742610",
+  "MD5SUM": "60e66b99726c4ed8d3aacd37be7c3257",
+  "SHA256SUM": "d95f3c80fe641db9f58eed681c80cbe7f1dd4c27295c107ad3d72eb865111d83",
+  "PGPSIG": "iQEzBAABCAAdFiEEFRnVq6Zb9vwrc8dWek52CV2KUuQFAl7JnXIACgkQek52CV2KUuQxvQgAlryQIAKBVaqePZNJTQ/lanS2Gs9dlh2edMkdu/vHDuScLiq8WZBMGijoCS9HUqF/cGtebV5qNiVuQC+MkWJ2DB5dw+h2dVYGWWZ8eB4rxIua1zDYI6pNE5/ygqWwtOy4cywaJP+h3FeCSazlXwnXNOq2n4RAZfrY7bh/ayuE7IG1D7/Zru6Rzt4jmh3P3OsxMXXwyF3MgbVK21rlkDz9A+kJmKqrT8blT1mI/h7lNgrAJns1Yn7rzis3eTKsPo2DrFdxE+i9yDeVdzkWEKyOXPtYGOCG/lB8AtroHR976o3bXFfiG2UvQ8Ze9hw0QpGVYNFCbo07ouTcW7LcHk2c3g==",
+  "URL": "https://mosh.org/",
+  "LICENSE": "GPL3",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1590271180",
+  "PACKAGER": "Antonio Rojas <arojas@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "libutempter",
+    "openssh",
+    "openssl",
+    "perl-io-tty",
+    "protobuf"
+  ]
+}

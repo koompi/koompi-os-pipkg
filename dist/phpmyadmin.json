@@ -1,0 +1,24 @@
+{
+  "FILENAME": "phpmyadmin-5.0.2-1-any.pkg.tar.zst",
+  "NAME": "phpmyadmin",
+  "BASE": "phpmyadmin",
+  "VERSION": "5.0.2-1",
+  "DESC": "PHP and hence web-based tool to administrate MySQL over the WWW",
+  "CSIZE": "8785879",
+  "ISIZE": "44998190",
+  "MD5SUM": "9fd153cb0d08de3cd27562866a59f6a5",
+  "SHA256SUM": "a8e172a0e325e1248b9ebc5b52387a07db258c7d65f1b12e626e137173866106",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl53T0MACgkQeGxj8zDXy5J/rw//WvmsVLkyujH19fHjGXjI2e0utIvgi0NcYMkQlLm1lyduZ/ikLRyRjDXbe7buo6/DSaRLRHSLnn3SR4CcV4EaAu/KUZX+0Z37cq3G/YWieVTs8GGOViJqEv1bwsf/tDTd5RRL7IMrONMFx5arLYr/oSexc4hs6AcOAdACOecxSN2klSe43jioq8JXf3Easx0goxpre4XnG8stntqRg+vnlsdaFDRF+ZvJBhRTwqXXh8Y4CSFbwyc5lpXTt51lnBeZ5OaVK3UaoWaqcsuBQPFipyEJ0B4B7DF1Ec1+e4RbQQx0yuRb+VRY6uPZWk+6ps0cxTtf6/rzeJJlnZv7oUxuAMGFGKsS6KCl+V6wnPckKV6vVOLIPNdpiJKc3sACA108nI6Uoo0L3kN3fsJzvO50USHBtqGGAR55xEJFDGMUMYPevxhsNzqGiV6wZfnTdkEtcnefhhVzBdBjnYeP8NViTbnDijIj8QU/ECfyeBEYEljLdHqVrc4cNf9ZW8kH5o2PicdZgEYDdJVFiFANfCkjr8FJ3zumD4fBcOzRAN5chQ0mH1q6YvvolHlcPlqw3rjTEtxuXE1WKk9ep3vzqGJh6OlrU8jtNiZiteU21+STyPK6mbliWeHgBmNOu86O0TNrXGIztZbRjdDpzqRsusHyB0Ni5+/EDNsxX6TFs/07K9o=",
+  "URL": "https://www.phpmyadmin.net",
+  "LICENSE": "GPL",
+  "ARCH": "any",
+  "BUILDDATE": "1584877308",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "mysql-clients",
+    "php"
+  ]
+}

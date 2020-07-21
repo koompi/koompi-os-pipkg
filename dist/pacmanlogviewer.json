@@ -1,0 +1,24 @@
+{
+  "FILENAME": "pacmanlogviewer-1.4.2-1-x86_64.pkg.tar.zst",
+  "NAME": "pacmanlogviewer",
+  "BASE": "pacmanlogviewer",
+  "VERSION": "1.4.2-1",
+  "DESC": "Inspect pacman log files",
+  "CSIZE": "68805",
+  "ISIZE": "175051",
+  "MD5SUM": "bd13b5edfe31d77418b653f10ba7743d",
+  "SHA256SUM": "869886d474f4d9d6e5fc689652c150224cc9375e0f07c83edcb09c5452cca6c1",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl52ZxkACgkQeGxj8zDXy5KkUA//eBG7PF50tOGB0FbZUaiHiYwEcM0zGTIQsuoVBleApGnd/dbN6QkL6RtHsdP3oFwhIGg+oSCxvX+xvge2cdHD53di6nzXKo03HIv19nT2//eWswNK0J7SRMnVTNHiRDqupCeFPs1tUlfrX6MBVvc13Jr25MS2xc1iKlLZY/BVvn3QxfNMVCrYC8Zi93QvtkXfmtmxxOv1Vp1wwrwMTBgtSs4BT1ybZicL64o2IQ2lozMjdGJ9GM7agFhntQKbNo/qqj47J1rZ5XbcHFftVsybaEKIBcNxpFMa1zFquqFm7ZRUsF7Udf2XiZHLLKSL83CWnjOV7M1tRScAflhQsbpw4U3w/RyALCNOTZ0whP4+73T56D5FjrDf4+8+idNaPs6eQZ7hD1Mt5iuv9jSHJBPA+OoNC1iKtwpzoQB8ZnAbGx4XCv18MvBfRjB6UniMHgtdlaLywtp0OL6wWCEDR6YkOxkTJJybHP5yJaz0pn6qmH39bpzh1fZkz6WzY9kS2kacLub2NcwIXg4vssJPzqd/cu/r1OQarGfvtQqH9UJn4tQ5e8d1v/lTM9pO5lbuLA+kQvTpfVneEYMMfF7Gbfqpq14iJQG3Pko2Lqq12A9QLBrKHmc+ke09hFbIbC+7pbFga0iRfBgoFQJDY9do8FjY4FE7EqAWLBEUtuJZ0E/rX5g=",
+  "URL": "https://opendesktop.org/content/show.php?content=150484",
+  "LICENSE": "GPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1584817897",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "qt5-base",
+    "hicolor-icon-theme"
+  ]
+}

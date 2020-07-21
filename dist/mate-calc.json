@@ -1,0 +1,24 @@
+{
+  "FILENAME": "mate-calc-1.24.0-1-x86_64.pkg.tar.zst",
+  "NAME": "mate-calc",
+  "BASE": "mate-calc",
+  "VERSION": "1.24.0-1",
+  "DESC": "Calculator for the MATE desktop environment",
+  "CSIZE": "896252",
+  "ISIZE": "6330669",
+  "MD5SUM": "88628096d9034c0348443fa70a4da499",
+  "SHA256SUM": "45b20e128fbf94730322d1a8e5a650c9dca1e8cadf644e1b69e84d4ab364f7e2",
+  "PGPSIG": "iQEzBAABCAAdFiEEzFln1AlbTztC1F+ggaQC1POCu70FAl5Vj8MACgkQgaQC1POCu71pUgf/av35Xn6MxDJfvPieOUAad6sxvbqMz8tiV/+1b6hoFcS6RW1pjsK7Y0RoHjTM8YV5YR2yJ1MLz7NTSwsfrA370xteW6T5lb+3agf7cq48ABB3V0YqH5n/Vi1qNPftmY+x6bEE7Sim7nicvGqKvd7q66l+4BI81YVhTcq4T89qpbfOKM1f4QYQoJ18aNC9ENenHrmCYNVGENvzSb2sJv2tuLihwUVmkaWS8HHoqbXBpilPLabgjidn5OkPISky+WohgJkdjicUsUqP/nF+J62wR/SEW2BS9juN8kLd5XnOV/ubvAZMhZRHdNUNn1UnwMuIqr2O7UC3MT4IaOjcChELGA==",
+  "URL": "https://mate-desktop.org",
+  "LICENSE": "GPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1582665516",
+  "PACKAGER": "Brad Fanella <cesura@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "gtk3",
+    "gettext"
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "FILENAME": "kdewebkit-5.72.0-1-x86_64.pkg.tar.zst",
+  "NAME": "kdewebkit",
+  "BASE": "kdewebkit",
+  "VERSION": "5.72.0-1",
+  "DESC": "KDE Integration for QtWebKit",
+  "CSIZE": "67080",
+  "ISIZE": "231246",
+  "MD5SUM": "773ea877106fe80efe0ad07f7521f666",
+  "SHA256SUM": "64ab0e3bbc335285fd801d1f334850cb1638ce142e0a15bc805009467e03c3cb",
+  "PGPSIG": "iQEzBAABCAAdFiEEFRnVq6Zb9vwrc8dWek52CV2KUuQFAl8JYnoACgkQek52CV2KUuSfnAgAlTE4cQYDvlEG0JBSCAJS3+wgoPph6fzmf4s0lz7IidSzklnCstfMjcw6T9Sjy15sTgu2iX8+6FddIb1t6hUvayYT1r/qwG/fNTh6iGc8PCveY9Z1BcFKBLg3zVV7U6dd/zL6bSUT0smtZPKmDGSKHq1znJpudHu5/GbnqJVPhm6ZK2RPjji3nCiczIIiDmW5d6q8mj3Ykb11xnh2YtxhB0OLSomMpDam9uZVKeZTP0SrQ7FDL4ZtfmCQGEJs8yEwErdZKf8DA1ox3rk/ANr6WGh5pf7sy9usVBi/7W8VSkEmqOrdvxYp1I8lM+klUdR1rDjk7R7uFTNYC9CiTbHWnw==",
+  "URL": "https://community.kde.org/Frameworks",
+  "LICENSE": "LGPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1594204343",
+  "PACKAGER": "Antonio Rojas <arojas@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "qt5-webkit",
+    "kparts"
+  ]
+}

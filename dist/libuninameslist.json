@@ -1,0 +1,23 @@
+{
+  "FILENAME": "libuninameslist-20200413-1-x86_64.pkg.tar.zst",
+  "NAME": "libuninameslist",
+  "BASE": "libuninameslist",
+  "VERSION": "20200413-1",
+  "DESC": "Large, sparse array mapping each unicode code point to the annotation data for it",
+  "CSIZE": "458570",
+  "ISIZE": "3177493",
+  "MD5SUM": "4c0863b53e538ce80e7155829d8d55b7",
+  "SHA256SUM": "955aab1a44f339c58c0874fac9970637d038cb8cc8f4090a78539ed69cb62f14",
+  "PGPSIG": "iHUEABYIAB0WIQQaYNxEJF0G/vkGI9bu7uLu7i7u7gUCXqZ4OQAKCRDu7uLu7i7u7kiTAP99BJuX7H2LFP99103TU4BLl3RNTZgAlR9Iyz9UiLrCeAEA9uf8Xs7tpQehNaW7GNxAQOBVSpPQFuhJJWVRoxe3kQU=",
+  "URL": "https://github.com/fontforge/libuninameslist",
+  "LICENSE": "custom",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1587967980",
+  "PACKAGER": "Gaetan Bisson <bisson@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    ""
+  ]
+}

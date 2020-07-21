@@ -1,0 +1,24 @@
+{
+  "FILENAME": "libnitrokey-3.5-2-x86_64.pkg.tar.zst",
+  "NAME": "libnitrokey",
+  "BASE": "libnitrokey",
+  "VERSION": "3.5-2",
+  "DESC": "Communicate with Nitrokey stick devices in a clean and easy manner",
+  "CSIZE": "273388",
+  "ISIZE": "1569439",
+  "MD5SUM": "e6fd0f4f175996dfeb4f8e3c1bc0ccfc",
+  "SHA256SUM": "e47f10cc23d1ffd03ad24e4a0955c037e098621ecf4dfc3366b1bf84da75f2fa",
+  "PGPSIG": "iQEzBAABCAAdFiEEhs/8qRjPOvRxR1iAUeixSKmZnDQFAl7DqPMACgkQUeixSKmZnDSEsQf+M0t0t2wanH5Z20sOAU9qoNmKjyujlQ/jdQcw/1FF+d8u+WDikyCtPXQMXqCT7dnl+JbiTo1sRqsEwZbSQsEXu8U0DjFJ9hir9ev7wtNw2CiOnCrZxdDBc8SliDCslBCWiNC4/4dbVc4wBJSTGOqU+hWP8/erzu9TqiuIaLqP5+sMgwiug78RqUi/F2F3qy1IJHGVBZPRdpDjHOmXWoh1YV/JkZMgVUkQEzEmMHDwkRKO8eke+FvLDnAfExyxLZp5gf3WpYkHgayOsFaJx7xslbLE2V6BcUPsBgHDscOfcDQc9SAQDMFGsP3ESwwNXF6424AR4OaqZ9aCpz/kRw+Rtw==",
+  "URL": "https://www.nitrokey.com",
+  "LICENSE": "LGPL3",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1589880928",
+  "PACKAGER": "Evangelos Foutras <evangelos@foutrelis.com>",
+  "PROVIDES": [
+    "libnitrokey.so=3-64"
+  ],
+  "DEPENDS": [
+    "hidapi",
+    "libusb"
+  ]
+}

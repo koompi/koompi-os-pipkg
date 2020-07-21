@@ -1,0 +1,30 @@
+{
+  "FILENAME": "lib32-libcurl-compat-7.71.1-1-x86_64.pkg.tar.zst",
+  "NAME": "lib32-libcurl-compat",
+  "BASE": "lib32-libcurl-compat",
+  "VERSION": "7.71.1-1",
+  "DESC": "An URL retrieval library (without versioned symbols)",
+  "CSIZE": "270647",
+  "ISIZE": "636356",
+  "MD5SUM": "32d4759f61a24b8962f6b89c206d6d3c",
+  "SHA256SUM": "6f96b2d8bc40562af84a26778949717dcfb6ac4674757736f344ce8b7dbeb448",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl78xAIACgkQeGxj8zDXy5JlEw/+I4iaW7UXkS6HPxds6+GAcfxRd+Bjm6rHQ10Yroz3KrJPL1+ZMksZ+Ls0/aVElyCJOtCnA1aXH+pWX52W601EyYWSj8AWmo6cN5NGjXCX7W+W0Y/XZyR2grb1sNXR0Jp8BYjRLsimfJx9XBKwD4meGxlva6sgPdQvQlGYCt2MT5ULiUosKfhLl8c0WB72XQdOXDuh/JRxuqgwzS77HWLGGnP4TqIqjlHUAjU1wS8fIj9VuCXNTkI2ibcXwCf4D7EKBGCfSUraJ7BHPKnxCU/Ui+NB9fhEgDJwJiCr3BOk422o6F5CtOuZPxh6sE+I8DzWYe3sPYKcQvEdD5DuE/ifhZHoY2CzxuRz5eEWq0blVxSImdO0wliWad1djDt/adeBeqlJEd1XMcwQMdCw3k70kBEY6oFt2/aXbQpAPMUzbmzNm7VH0Pewxq3qfUXOT4DhHkdetm63BUMUAmcKZ9C9PlxC/fZR1EWejGIU4+lzhvu6erWzW66Cc3ERu+aLu56nBm5batTLe+7qhiDmsaj897yFaRdkur4sgwQYQwLJnC0DCypycKMHa+oXzCTXhQfaf7EaE5tXzJk/UCuDChcGMWgu2dXacNJc9DQCwjyNhBExnC6//uR5NI98aZOpH2JJQi6yGH2rFHJyYUpoKf85MwsxxRE4n7AYgUd655uh4VQ=",
+  "URL": "https://curl.haxx.se",
+  "LICENSE": "MIT",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1593623499",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "lib32-curl",
+    "lib32-glibc",
+    "lib32-krb5",
+    "lib32-libssh2",
+    "lib32-libpsl",
+    "lib32-openssl",
+    "lib32-zlib",
+    "libcurl-compat"
+  ]
+}

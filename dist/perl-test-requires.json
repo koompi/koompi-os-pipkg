@@ -1,0 +1,23 @@
+{
+  "FILENAME": "perl-test-requires-0.11-2-any.pkg.tar.zst",
+  "NAME": "perl-test-requires",
+  "BASE": "perl-test-requires",
+  "VERSION": "0.11-2",
+  "DESC": "Checks to see if the module can be loaded",
+  "CSIZE": "5896",
+  "ISIZE": "5541",
+  "MD5SUM": "b4395c4926b670d43610d4588b986566",
+  "SHA256SUM": "e1688c65ff914bf3ddc23d05d9e3b707bf461ad236b1740fc16846003bad9162",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl7vMtcACgkQeGxj8zDXy5Lfaw//U/xStuoXnejsic6NWwTqVLos+iPPG6VXDmVxgNQhKBcCvu44jtIuZ69q9dayF3aZkACrrAhn1C0STozIQ+KoY5RYWv6T/Giljb8W6eci/YV/gnWkKwjjbe+2Etl8F/gD+sHusrwjwyqBl2BeVFWCo3fylAhEDAMUHmBMRANiBmIgOnezPWN/7UhnHWFZSQFyk2f3WE4yy41yrkthcyG/mbYoE/Er3K4StC9OsBzqidb10JyYFJ7wF0EwRnueeYMxF5ZTCEcnxT9U9skClQxIUGG6yqdFR23C+2gbWgRv3AvnzGbRO6G93bVL3sOECRb15P0bygYmQPHYI8F5c1YdG15+cEICBosa4H9sm8KwQ3huoi2Mvn/1Iaa0259zxfeygRCE/4ikhkSwC2nGmTs87HfOP6nWsIAhrvIS3U+GLSIrVg5Kto5XgqVIG3QCpWbS+ynhd4gBAuz7ak4KMpWqTIBBCkOMOexosC5jN3wvHLkFxHwo+xOLRTs3SjZKTudLaAar1yuQCbg8uy+NULXUZZ7Sy56bB+IopDKq9+aTEKmC+QYMzSKqxdL8BZUlOpPsVJdyqOuxaK9v4YnyQ00KvgYaiH0dwfIYX/5M/+ZXO286x9U/p0teiR+z93L7fbWjlJhH2ul94L51srUVA6URaM+rdfGzr52YwuD2rDC9Nac=",
+  "URL": "https://search.cpan.org/dist/Test-Requires",
+  "LICENSE": "PerlArtistic",
+  "ARCH": "any",
+  "BUILDDATE": "1592734386",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "perl"
+  ]
+}

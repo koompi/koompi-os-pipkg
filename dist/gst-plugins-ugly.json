@@ -1,0 +1,30 @@
+{
+  "FILENAME": "gst-plugins-ugly-1.16.2-3-x86_64.pkg.tar.zst",
+  "NAME": "gst-plugins-ugly",
+  "BASE": "gst-plugins-ugly",
+  "VERSION": "1.16.2-3",
+  "DESC": "GStreamer open-source multimedia framework ugly plugins",
+  "CSIZE": "209551",
+  "ISIZE": "686485",
+  "MD5SUM": "6627367f85b45668ada62dac2aa3b57e",
+  "SHA256SUM": "7208f536d41b5ab43e1912dc4d028bd647f67546d3c465ea4e5c44ca1c7276e7",
+  "PGPSIG": "iQEzBAABCAAdFiEEFRnVq6Zb9vwrc8dWek52CV2KUuQFAl6JtqMACgkQek52CV2KUuSIbggAp0erhDIQjCi+SIh8AWC5HPUzLFDdw3cOf9ypYazrArF3ahuW/KnqfYLOGlrugWly2WZ28lQiobjns62+1sDoVZDRQw/rJF2uTWrDsv+QxRgPUPSDIS/TBVmrNHKBxIR5mftpn/DiVoW1bUO0s4j44tZdkdc8TuTTDcM3+/SekdlzmPXuGYUtxu55HoqfOHL8Sak+TiZLC2fST0A5k8nmVekbmAWvl8OGCKvBk0MWwvzH9A6fMt3MVKmEcFxwu55rFa7pbuLx9VFDepQf5m0oxm7lUSRD7usNwbZqSNO2CoLjE/blepB3+A9p4B+clAw2YmSaG5JtTMZ5QBi8Z0TJUw==",
+  "URL": "https://gstreamer.freedesktop.org/",
+  "LICENSE": "LGPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1586083439",
+  "PACKAGER": "Antonio Rojas <arojas@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "gst-plugins-base-libs",
+    "libdvdread",
+    "libmpeg2",
+    "a52dec",
+    "libsidplay",
+    "libcdio",
+    "x264",
+    "opencore-amr"
+  ]
+}

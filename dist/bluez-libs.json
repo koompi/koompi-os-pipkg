@@ -1,0 +1,23 @@
+{
+  "FILENAME": "bluez-libs-5.54-2-x86_64.pkg.tar.zst",
+  "NAME": "bluez-libs",
+  "BASE": "bluez",
+  "VERSION": "5.54-2",
+  "DESC": "Deprecated libraries for the bluetooth protocol stack",
+  "CSIZE": "81354",
+  "ISIZE": "291172",
+  "MD5SUM": "a9a4b5abb3427fe453af156021f16e4e",
+  "SHA256SUM": "10ce53da43f95c5bd19068c76540a32c66f233a8c7e17b3bcb6dba72faef8f96",
+  "PGPSIG": "iQEzBAABCAAdFiEErcih/MFeAdRTEEGelGV6sg8qCSsFAl6kBtAACgkQlGV6sg8qCStJswf+M5al4B7WG7Cf6JVLxu6goUgZETUBbG4/fpOmwO9hmbQQiOejquuvi1gRlmAwFlrhmvQ310yEwm0UQXfVjXwdY2efyBVSsJY9qhgNXY5rQRW0i8Xi/g2SdvJArErgEAUbScZmMbqQE2iND3w5oH4Sw86f1loQEtuI1cInLgTVMCFWV8YLvNF1u3NeyKQKoVsFXBoIcrSHbq7+i5SNJFlPUQtwMcM/TqMPwkarm73nl7ZnhDVJ7Fxvy8Lfz4DwPJpu6f9K0AQKYOfg7PHDQrONvpFfZd4nxmlGhDjCG5kdBPcuHRmGGHdFXp0VCDu6RCIL8sGQKvyu1V0+vUnHkBel4Q==",
+  "URL": "http://www.bluez.org/",
+  "LICENSE": "LGPL2.1",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1587807808",
+  "PACKAGER": "Andreas Radke <andyrtr@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "glibc"
+  ]
+}

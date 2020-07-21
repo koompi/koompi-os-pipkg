@@ -1,0 +1,23 @@
+{
+  "FILENAME": "haskell-wcwidth-0.0.2-10-x86_64.pkg.tar.zst",
+  "NAME": "haskell-wcwidth",
+  "BASE": "haskell-wcwidth",
+  "VERSION": "0.0.2-10",
+  "DESC": "Bindings for your system's native wcwidth",
+  "CSIZE": "9107",
+  "ISIZE": "20776",
+  "MD5SUM": "7228a86884c6d569a12b47adffc95f00",
+  "SHA256SUM": "a4526761fdcd97c7ab19b47887a50826e2c266ddb2d84c578bdc356460ba108b",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl6iIRYACgkQeGxj8zDXy5KdPA/+MFIFUTGqeMtFEECPH04Pgb65qtWHsi0alvhbqhwpMjCypYm5sejQR+z+2GkmrSOoFg1PHTJQQrqPAQ5j5Ll1Sj4F9RidNX3UAYGJcS/DV04sgSIFHIi4u8qImYG9HtbPFqwB0FRLdoJgrYaQADKmgerByVUG110uFnwRJT8rfwdkwG64z2vv/IwLw6AXsdN7t3i9xM+JFzwOG9RYHnAsUJ68QO0BBgnnNqQ5kfE5Bg5X/ZYEE8V3xzD21QlhO7jmYmMbwt/7yQxzhm1786WWbD7F+t94l9sQRy4Q7Fp79HOVeNHsfEnMuthh8GnvXHMPq2lHFObQDoXFcnL8AfkZkwmTjdM3hsccqWoHdkgQz7x/tac1ukhxwAwMEz9N33wihFUKVVCWusCpbqb/A8SigF0t6Y3x21IYnt1in/QI1fyIozLsjpOi+qAyCnHEAzZF7GkCU0jKsfjLrDxzKMEWpy20GYhLGyp8I5tt5HmW3T1IhuSxjwOYn4+XvPPRHuMZC09Nc56RudDR1KkcWQzemIRif76A9wPjz622ZlmtR1EqV04q4vnrmdjhYc1xDA2gm9mHCDl9eghbqHjg/2maIBYRclD11FqAShf20Y81sDTerl+0EIkLxVVAFfwIQXkU6HuBNdefLllGo+1Wpx6g6YZUWwwanPPV7IfKPd8QXUo=",
+  "URL": "https://github.com/nikita-volkov/wcwidth",
+  "LICENSE": "BSD",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1587683520",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "ghc-libs"
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "FILENAME": "gutenprint-5.3.3-2-x86_64.pkg.tar.zst",
+  "NAME": "gutenprint",
+  "BASE": "gutenprint",
+  "VERSION": "5.3.3-2",
+  "DESC": "Top quality printer drivers for POSIX systems",
+  "CSIZE": "4821072",
+  "ISIZE": "31936540",
+  "MD5SUM": "806ae02dce2bb00f0235e93fe7338dbe",
+  "SHA256SUM": "d0cb4a6f9b42cd2e8cebec25dc37d50a10a962b8a4c6da08185f9d1379648470",
+  "PGPSIG": "iQEzBAABCAAdFiEErcih/MFeAdRTEEGelGV6sg8qCSsFAl5CpvgACgkQlGV6sg8qCSvRHgf+JlhLIEVpxBE9a/lyMkoTg5PaVLdgi2MNonImPggvMArnmv0ibkhq9PsHw9qcqYlzaToSLDJqS9F251gZDSRSt9wyyDKeS0Rj6+UitKn39Wiq7ZWGJ+jb7bRlY+Z1GvCvZBdClWSl2Tl5R8HggDUk30/l8THfDKbUl81g69jFIUgI9mxGm6nZYfhaDFsn7M3WqjDN7QqGYA3dqCMhyFBHkn4L8YZds5y4J/9kSzpZu0BZDIq5RQklV2pEO8GEH3wDzJ2K/d7l6lndBt04E0/cILZSZUXYca9PGedhFVP4OtG0tGEZ/UhEiufabrNSowqgVG844ZJc4F6ejc5uqlEPmw==",
+  "URL": "http://gimp-print.sourceforge.net/",
+  "LICENSE": "GPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1581425454",
+  "PACKAGER": "Andreas Radke <andyrtr@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "cups",
+    "cups-filters"
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "FILENAME": "lxpanel-gtk3-0.10.0-2-x86_64.pkg.tar.zst",
+  "NAME": "lxpanel-gtk3",
+  "BASE": "lxpanel-gtk3",
+  "VERSION": "0.10.0-2",
+  "DESC": "Lightweight X11 desktop panel for LXDE (GTK+ 3 version)",
+  "CSIZE": "1327045",
+  "ISIZE": "3359198",
+  "MD5SUM": "570eee4b5d9c37f0ae3b09afd410a635",
+  "SHA256SUM": "d588e02a0d0c2f508e989497d5727335aad6c0588f599fb2eef481c2256a7e2a",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl8EoLcACgkQeGxj8zDXy5LH0Q/8Cq5j4dO5ojAytLGb7o3DEOJZSVSu/7hPntzw/yEElm4iBEYlmGpOW2GLVbEF6WJbcpvigTo/JEgSOExKuj8MeW2f0JEGW9qUT0jIyDdxj2ljI/SVkRWL2kWxaifOVEMp5dKXj0MOvlQn96+Txqy/aqUhhDKWjZVUKZZ1iJMYBlFwntqtWpc9+pTAXp/m+2Lw73AL/9h6qpfImCjzjbVtkaMhv9b1n0d7foa4hZKgkymHG5ZxhMPJ0oJ1F3d6ZR52mgczLs7gpgrWCQeYg9NQl/ZBiOFivSMt8xxeq2Ms5IJpxiuZKt6r+pRvzsXNHl0LpOK2cR+cGyImAC0QTCNxe0PvRnVWeeD1wXwwBG6wpyQmwemBg4vpc8E4QGtEpB+ulshObIYyxROd0Nnll8ksEjAez9I38IgvszfFaDDQp3Os2bW0uB3LMarFGZ+2vtLRzy5KMEwrclsYU8CfLBEaNUGsG+aY4iMv53PkmJ5Iz5rompz6bLzS9eva9Nsm6Xiy1NOuOcs5eugZQREP98cw7t0NaGhdn4RXVbeUgmG6EDINocmjVxLSAVnI9G+Tr6Uvb9nfL2nbS4i7rZmTEiOy/I/4Vik0QvC93psCwhdin2lnSCNY4Ff99GrKFteVg8hsU+cOMsRdKQP/5cIZ5lbMGBzBuOBSbCFeeiGtwE4CxyY=",
+  "URL": "https://lxde.org/",
+  "LICENSE": "GPL2",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1594138609",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "alsa-lib",
+    "curl",
+    "menu-cache",
+    "lxmenu-data",
+    "libfm-gtk3",
+    "libkeybinder3"
+  ]
+}

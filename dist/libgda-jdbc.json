@@ -1,0 +1,24 @@
+{
+  "FILENAME": "libgda-jdbc-5.2.9-4-x86_64.pkg.tar.zst",
+  "NAME": "libgda-jdbc",
+  "BASE": "libgda",
+  "VERSION": "5.2.9-4",
+  "DESC": "libgda provider for JDBC",
+  "CSIZE": "86868",
+  "ISIZE": "290876",
+  "MD5SUM": "dcd546e5a20d1a30353dee0615a2f176",
+  "SHA256SUM": "b796a081a6903cf69542a173847a02cf8284952f669a6133a455485f809032a6",
+  "PGPSIG": "iQEzBAABCAAdFiEErcih/MFeAdRTEEGelGV6sg8qCSsFAl7dChMACgkQlGV6sg8qCSugGgf8C5WXjgdtQmRXKnysUGPE8Md375bkK0bsYVHIxhEK7EwReDJzdu9avt7tvZo4NuKeYZSCG8sLqYGStrydHI8e8HI3sRAGlpYPpoiEo6IyrO6EIdPzC8VynV4JIHbqXI0fYoLqLRBD+KL6UANMGj05qd2ON34AqZ1WJP9LjgCY/YZ1dLuyOfRpIqA2PHj1DdPBpFk/4w1WP7XjcBUX5AtePaZvw5/4G4m5k5911mnknaNG5aVp9qpsCS/A1kEHTUn8XvUUydCzFrbDI7ju+x/QlQ8YY+GVRxpPel5fgsftchnqiNNX7QmDyxN43T0R5NIO0t19UFrDtRpCDNIcvHc1iA==",
+  "URL": "https://www.gnome-db.org/",
+  "LICENSE": "GPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1591543362",
+  "PACKAGER": "Andreas Radke <andyrtr@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "libgda",
+    "java-environment"
+  ]
+}

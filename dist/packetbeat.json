@@ -1,0 +1,23 @@
+{
+  "FILENAME": "packetbeat-7.7.1-1-x86_64.pkg.tar.zst",
+  "NAME": "packetbeat",
+  "BASE": "beats",
+  "VERSION": "7.7.1-1",
+  "DESC": "Analyzes network traffic and sends the data to Elasticsearch",
+  "CSIZE": "16464086",
+  "ISIZE": "67491706",
+  "MD5SUM": "4ba255484812c2d6f36fc8ebd92c9433",
+  "SHA256SUM": "fbeaed2b7c577a6f60925fd0421e71cc88ef16b47fe80d10a5b5de8959b26bee",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl7wXwEACgkQeGxj8zDXy5Kzow/+PXgdCZgrHXpAJLvEvVnbB+lolQPval5h0ZLk3htoS1l8pkVl9SycQd995gldvKtpgdyFYiTIEVD4RWqLHjHX0MSTM6GRznjnKOuLdUhKRqNpqPfCzgS0CLAm7uF+6OL7ke37sgrZupgX6br0vzFscZOp7ax4mijgKBMJIn7bwASYD9b1ZgMJBxkVUJ6FB00eidNSOiTU3fnE5UArQb6ifw+YY06wPwDiHJ2Q1Ke6EJHVWbnqFvN5LieQJEHcFmbuE/XF8Q9dcBK4JW5ZaXFlGnym5HAqJO5V3EosbF8iisotC71ji6s57qlXzdALaL9oANC+rIZKjG7mP2C/k9K2/F56xS8G3Mu9GO0Nat0Lxd9mYHsOVmTagTVt5tEyZIcA2r/fmUGYRebxObrc1cdFzBcJpur4f+hZFNHZ+rw3xW0IhVDOkqKoMUSlKwGinQMPETl7U1iRgNtUPtVoAp483j0nuGinbv0pTvvmDQJCYJgsHT1Ds9Fo3fv8S139lHW3Luo1pUBqORdqmhMTWcGZXjg5uum3UesZ9GFDpYC5W7sQ7I06kC4LhYiv7UB1cdXgN2pePX5nIrg2Uvz3DEHZFO682bBvXOVUqmGKSQx1BLcSl+52QkajCkNped7TTmn83rYoYPOR29a0rnxMBnvx6joOcS+5dio7iBirDul+ToI=",
+  "URL": "https://www.elastic.co/products/beats",
+  "LICENSE": "Apache",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1592808465",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "libpcap"
+  ]
+}

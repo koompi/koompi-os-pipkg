@@ -1,0 +1,25 @@
+{
+  "FILENAME": "minted-2.5-3-any.pkg.tar.zst",
+  "NAME": "minted",
+  "BASE": "minted",
+  "VERSION": "2.5-3",
+  "DESC": "Syntax highlighted source code for LaTeX",
+  "CSIZE": "807948",
+  "ISIZE": "854244",
+  "MD5SUM": "2ecb3e3d27851fe32efe565cc281a306",
+  "SHA256SUM": "a181a47980577ab80c1e0b70ad8b20ed087a4175a2abd8336fff9e0096d63e4f",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl7L0qkACgkQeGxj8zDXy5JN1A//SK3NM/o0bsKpeVl9WXinXvIQZ8puhY28PfCfyYMOZ2o544F1znqVQnKNHjZnpKSUXf79CviqjCZ6Yy6p4M5CaSPxhADFX5QMSzRqc9GrKjkqt7ACSDDbYMythFhdNS7WICCoMjui7t9AcLgcB9qq2FQJdGfNsXVgMtKzf0oebArDkQx+BensfkPkAkeYAKsovYL9yOfP1V1aUZT+AZw4XZdxxYEUC8nEKMfB9VOfEJNmidvUOldiPXTlXCblhq4cOGZqO7c6s2vituqdv23QDkfDW10HI0VLGrSRSKlMOG+L//6eG6FKZPCzgJa8ExQPavwm1OVyuPzrmjuSR/QGoTE3VGQTTCjwO2N1BGiNZssUSr75XTHv29nAFu/qNJrZEfFNdmyTRCB+S+IdEyiE98mFWNWiEdkH5k0+dkqv/KSl0djfl244YyUxA05AdyU/kfy68cg0CaM5zaP9P7d5+oVQ0uwsYiWxJZWBHg0wZT1uULLj5RMnVlLtr4uOPXPhNVU0fY9QzkUIGNQZbteKEzBDrcRxokIkyrNbp0+yHhzZjrDqJrQeM8Tl3iaKLMqbePZvF9fo/6adAtzNNLtci/g5Ek7Q5MXB/DLcNa1Vy2ea90Sj48Fg9ALyQCaa59rYVzkkuciGfEQ4qX39axmDhhXfqALCwQe8ab5X5GhYeuU=",
+  "URL": "https://github.com/gpoore/minted",
+  "LICENSE": "LPPL",
+  "ARCH": "any",
+  "BUILDDATE": "1590415930",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "texlive-latexextra",
+    "python-pygments",
+    "fvextra"
+  ]
+}

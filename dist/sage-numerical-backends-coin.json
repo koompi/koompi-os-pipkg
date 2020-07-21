@@ -1,0 +1,24 @@
+{
+  "FILENAME": "sage-numerical-backends-coin-9.0b12-1-x86_64.pkg.tar.zst",
+  "NAME": "sage-numerical-backends-coin",
+  "BASE": "sage-numerical-backends-coin",
+  "VERSION": "9.0b12-1",
+  "DESC": "COIN-OR mixed integer linear programming backend for SageMath",
+  "CSIZE": "79206",
+  "ISIZE": "241174",
+  "MD5SUM": "dd85471a039a24994066dd1fbfa26c09",
+  "SHA256SUM": "99969eb7d717dfcd9963f8b9857f4e1aec0a14357e8b6aee5faa0f42ae969b12",
+  "PGPSIG": "iQEzBAABCAAdFiEEFRnVq6Zb9vwrc8dWek52CV2KUuQFAl7GHj0ACgkQek52CV2KUuSwiAf/Qx9uS1toFnSViMqXKSOUD7759bFdkJ3o27UeK6cyPBKgoYIJup6zOZSWf5YxqNe/TDLLkP8wVAmnSi9IszMdF/S1TmXM8B8hcGSJYtZrPZ1bKwqAUfeF2bL0YEX39dS9xN2aMTcn17M5goKPifMTuyMkaebKI6Iv9vb8uuAebrpezs+FWLS+uwvGnZprUvZflSz5pOIUGxnBPgEufwnSc6Gyw0ZJyvxnO3azi2X0UvFvf1/HIOtbFTcusRzUBjstLWdT5hsBXcAH7uc3xS+94svle4qmst9e/QZ5erymU+m9Ytaze8hEwZyk2L/Pi5Vt6FL06v2vNGUSA5dhrEdmLw==",
+  "URL": "https://github.com/mkoeppe/sage-numerical-backends-coin",
+  "LICENSE": "GPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1590042066",
+  "PACKAGER": "Antonio Rojas <arojas@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "sagemath",
+    "coin-or-cbc"
+  ]
+}

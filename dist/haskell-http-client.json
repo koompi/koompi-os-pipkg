@@ -1,0 +1,33 @@
+{
+  "FILENAME": "haskell-http-client-0.7.1-13-x86_64.pkg.tar.zst",
+  "NAME": "haskell-http-client",
+  "BASE": "haskell-http-client",
+  "VERSION": "0.7.1-13",
+  "DESC": "An HTTP client engine",
+  "CSIZE": "336136",
+  "ISIZE": "1727601",
+  "MD5SUM": "783c6de70c69c91da45871faba6018bb",
+  "SHA256SUM": "1df0f8634f230743a4584e8931813392c9ed4647d69bec9654aeb2cbe540f2df",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl7502kACgkQeGxj8zDXy5K2Bw//dlerjm1uXvrbDs50ZQsBkRuQC8yaBi2wfxKEoBim523/lMLA6keFyXWXEbpV+loa/eJ1J7euGwv7j2AWrSKZx3l+FljBkh3VFvmhocmKFJNnv+Qab6mamCoI9zqWPjATz00TFddK5uJ7dRjxCzpe2+k/zdojf9LfYHe7rvunlCxBranBq3nZl4LHehJ+BlY5R77SUQWZRrkiaZGxC9uNHWWraAl12bc0ln7ph9z+jFHMfYQw+vlSw4Mv4+Qv32x+tR1a5uUOmDsYTxMJmi9kYxL7Sx3vpipX+RxMdd1daTbZOFwig3ffH7Axn2ugutp4qk5xEk72gSiX2mpqx/gVHOSFwfUFfEmVXkV3L7nIOzL/5Qb05NkoU6u39KbnSorN+GS5399N1ms81IrytbWHyleAWH99QZPtPo6V0i99pinbIZxxuSSjk1CUh9oRGfEiAZat/Osf0dOmrJQQcpDZ2UFb3H+hkNzras1bLNPGXdOEsiNdFk4UKwcL0r3cOmS4eeASElPe4ukP6qN0HSkFMYlV0BW9a0LeuztL7QdTn8dBWHyga4HSVWJCRB+03EDrKex8DK2rvdssyYmA7WCg+4zB66Ny7qoVx702Iz4x0dK32+QmPREfAq23Mw0Di0+lQ78uxy39TUcp7jOmqgd2Q2/6QOWamT18e5jHn9PBu2I=",
+  "URL": "https://github.com/snoyberg/http-client",
+  "LICENSE": "MIT",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1593430828",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "ghc-libs",
+    "haskell-blaze-builder",
+    "haskell-case-insensitive",
+    "haskell-cookie",
+    "haskell-http-types",
+    "haskell-memory",
+    "haskell-mime-types",
+    "haskell-network",
+    "haskell-network-uri",
+    "haskell-random",
+    "haskell-streaming-commons"
+  ]
+}

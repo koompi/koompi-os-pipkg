@@ -1,0 +1,28 @@
+{
+  "FILENAME": "mldonkey-3.1.7-1-x86_64.pkg.tar.zst",
+  "NAME": "mldonkey",
+  "BASE": "mldonkey",
+  "VERSION": "3.1.7-1",
+  "DESC": "A multi-network P2P client",
+  "CSIZE": "7989074",
+  "ISIZE": "43992502",
+  "MD5SUM": "33f67a6b027d4d10192d6d7d21abb140",
+  "SHA256SUM": "964157ca8486656268f39b6593bf700ada40f39a44940733e2848e3d433a4a37",
+  "PGPSIG": "iQEzBAABCAAdFiEEFRnVq6Zb9vwrc8dWek52CV2KUuQFAl71wGgACgkQek52CV2KUuQ1WQf+MmhHHu+F0jnu+/0Vgf2QWC7ZBDaIbds4Irhx/A3D//QnEs+B+TrKUl0uof3WzH6PiiZLlizpJcbzB65tZhpezvR2bqJFAPiSMp8GukkZzoBzpuUmvMBuyroD8V5CKv//YqSBsfOpUgR3Epoz/smEiQsPgOpJXm2k+kXGGkkuNASrSRWA2kxv+qPDsve0etQrske/qdnCB5eV2b9GqqwHreFpz5lJOPhomxeCmXsrPDPSY1CFG2vhmtSF9qFLKG9hSdQmSjn+9zNBhG/+PWXuLE7GzVH/spmk3L8/5rr95lJvFOHJG4wiWKw9EQSPqEUWHn86sAOUqYAEp+QFzmuCUw==",
+  "URL": "http://mldonkey.sourceforge.net/",
+  "LICENSE": "GPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1593163625",
+  "PACKAGER": "Antonio Rojas <arojas@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "file",
+    "gd",
+    "hicolor-icon-theme",
+    "miniupnpc",
+    "libnatpmp",
+    "libminiupnpc.so=17-64"
+  ]
+}

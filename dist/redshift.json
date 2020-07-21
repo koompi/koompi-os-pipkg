@@ -1,0 +1,26 @@
+{
+  "FILENAME": "redshift-1.12-3-x86_64.pkg.tar.xz",
+  "NAME": "redshift",
+  "BASE": "redshift",
+  "VERSION": "1.12-3",
+  "DESC": "Adjusts the color temperature of your screen according to your surroundings.",
+  "CSIZE": "134220",
+  "ISIZE": "870354",
+  "MD5SUM": "73809cc64441c9011edfc19802125da7",
+  "SHA256SUM": "732d0ec02668cd3d715311b10c983fd0ea115199d4f4ab8eb824395b5a231329",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl2/oREACgkQeGxj8zDXy5KOEA/9H3YB7APQaEoMcQmo5h0yBi2ZygBjsIPOAqSgoLyE9wGcr3/mqElyy4ZNVg8RpBPUYSb33i6BWrCC5S0JLlGf7Xq7Wk5rX/NURYHGdQqs99CMu1j3+pN2pB+L1tDfzsp2pwryO+iatA7uZCBHpKUb3Qhp0Xl/DkofVHjySfAhmKyB+sfYAAs/cqXh5Kz5H/ybjJbL+jSifI/XTgZs9nBnv5IdRNM7aChYpgNsLBXzZiXAlTsCLcll/K1FPDl7BoEmsBGFnKxgD37Zy1vsL8xtsPyZLz0ZXQ2CP/46ItLfBnAJTVib3GEkTlLTLmdJUBBpNmLHLljsrW7dmxK3JnlJu+G5hPPJdd4eAygBSEw23TycPm920oZ7Hx5Yf5KBP0NmpR6Z34oGS+aMrNUY8RcR8KohTZGhoH6ak5sxMFwDtoVHJFpIL0d22hkX4mAwtGRFrhcjixQ+oJfOYKzAsdcS5gti3dFGiwH5gwSkIVT8SwLkHYRBBRJP7NdAwf9rpOlDET4RR0Z+xYaC4LAeFpyvKMLji0ujbwfhd2CbbX+tnR+n8s/13mCTw7HLMPueXoo6c4K5XzptkXLYYJ8M3cf+23g9sp5yaEm28p0VyF/st0ZTzT0RG4gkKARiofyJcoIm9kFCPviznaILsAYaBjHu8XsyJWH5uSnM1S5xxYid9PU=",
+  "URL": "http://jonls.dk/redshift/",
+  "LICENSE": "GPL3",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1572839662",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "geoclue2",
+    "libdrm",
+    "libxcb",
+    "libxxf86vm"
+  ]
+}

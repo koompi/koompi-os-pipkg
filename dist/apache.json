@@ -1,0 +1,27 @@
+{
+  "FILENAME": "apache-2.4.43-1-x86_64.pkg.tar.zst",
+  "NAME": "apache",
+  "BASE": "apache",
+  "VERSION": "2.4.43-1",
+  "DESC": "A high performance Unix-based HTTP server",
+  "CSIZE": "1725238",
+  "ISIZE": "6582060",
+  "MD5SUM": "b7ca1139a682519f4287c18ec1f4642c",
+  "SHA256SUM": "ae7f3273c36efdd2c4a1fe2b2d6bd0b3de5539c07f4ba50f74b3c2692d6fc980",
+  "PGPSIG": "iQIzBAABCAAdFiEEjhmSFnRl21+wRVV8sChU7XU+Dx8FAl6DjegACgkQsChU7XU+Dx8AVQ//WYDRa9VYDGM/mI3+qmQtB9Jeygl0KvP2loLAAVy3Q9w70nNO9JJlrlXFez36e7dtpn5TTuL9Y6/sGOzX2HsPkrG3iFaePVTlNoH5JoGBoH5/SrlAR+ExHdiZhcj58GAQK5y97ncG0PJPVD4i7qJImLQfpBTr2DFDopZyRgHyNAjCYO5kc39AEGJ+/lTZOfowpbeV43Vhpx77okFVYTz8e8FAbYV7xyYBBCM1xXfT5NQrdzIQYTgYLo1dgwewi51KAy+T9RIW7B2zDI5tNgopGp1EK4UnTL8CG84SFpd60DYm4vElcdRO74FdtobDe3YLBBoHpduXRfrN+dUBVdVuh2YAiGNbOo7hHw2u6bfYUgEKLmQUw5rHciZmmAhX6Sq4tfWizqqKXoz4bv5/MheJtwOBwYn4jOGhrIZzKe+pRFwCUHE0PqgqgIcJkAaFZMnSoqPEcwuulAXmhrj3EPJTLat/tqOw23arH3ryVTWWk28WsnR0I/dZNd5pLLY1mfDEC4KG/qMDvYOwlyfuWNOafG73N1YINH7FXjuWKm75g06FkZ0H/uW/Y+YKREFqZUcNqCVGn0QsAHOPQkQcK7ilOT1Ohg89etn9UyB7sbEnKOyHZF1FKHtZFzP3IevwGlPCADVzWhvNNSk1XpeS2qwbI0a3Qca/aE/myDJmvQfOFbc=",
+  "URL": "https://www.apache.org/dist/httpd",
+  "LICENSE": "APACHE",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1585679723",
+  "PACKAGER": "Anatol Pomozov <anatol.pomozov@gmail.com>",
+  "PROVIDES": [
+    "mod_proxy_uwsgi"
+  ],
+  "DEPENDS": [
+    "zlib",
+    "apr-util",
+    "pcre",
+    "libnghttp2",
+    "openssl"
+  ]
+}

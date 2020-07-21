@@ -1,0 +1,25 @@
+{
+  "FILENAME": "unichrome-dri-7.11.2-10-x86_64.pkg.tar.xz",
+  "NAME": "unichrome-dri",
+  "BASE": "mesa-dri1",
+  "VERSION": "7.11.2-10",
+  "DESC": "Mesa DRI drivers for S3 Graphics/VIA Unichrome",
+  "CSIZE": "928480",
+  "ISIZE": "3531776",
+  "MD5SUM": "7ca36c3ae0fe803cc3556ebd970e9cf2",
+  "SHA256SUM": "69daf4fb9d672a44fdf5732f99e333b024bee37c3955d915e0115571b7eecd99",
+  "PGPSIG": "iQEzBAABCAAdFiEEFRnVq6Zb9vwrc8dWek52CV2KUuQFAlsbA4sACgkQek52CV2KUuRVhQf/biTEt3+Qu9a1OIh1sk7xycI009IZKRgZEHox9AvKPfU0lrI72pli6LWUvQo7Vi3B5JHkAll6dIORnHZgHTy1N3+suCwE1CsW0QAJ4H7fjPu10UTCykxBDyq1ee1VnvUIjiMYyabXAsKsCqzhN6lP1caMz0AHcdV27m5u6al8mcxqsioJ/AilNGn89pbmtAzzVq55ykhYYBHz9fOH/6qhcGdUcw5tjukz+XDHd2vF3xioB2CPpP2zPHlvljdpzS2TPlvbALlTscv4Lsbu4pTblPeC7foQgeLfkT+yZoqpvKzXf2c0trk1TiY07XIxjvDfCCuM0LiUvXawE71V1asgbg==",
+  "URL": "http://mesa3d.sourceforge.net",
+  "LICENSE": "custom",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1528496842",
+  "PACKAGER": "Antonio Rojas <arojas@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "expat",
+    "libdrm",
+    "gcc-libs"
+  ]
+}

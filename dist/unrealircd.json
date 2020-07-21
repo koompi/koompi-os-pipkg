@@ -1,0 +1,28 @@
+{
+  "FILENAME": "unrealircd-5.0.5.1-1-x86_64.pkg.tar.zst",
+  "NAME": "unrealircd",
+  "BASE": "unrealircd",
+  "VERSION": "5.0.5.1-1",
+  "DESC": "Open Source IRC Server",
+  "CSIZE": "871512",
+  "ISIZE": "4514724",
+  "MD5SUM": "ddbece4236066f133b9b203566bd3451",
+  "SHA256SUM": "ae568e56d6ed370b279804fe0b4faf5a4f0749c6165f1c7673a36a32e303608d",
+  "PGPSIG": "iQJGBAABCAAwFiEEPlGL8lJv0Zeeiq5JZcEQwepDP8cFAl7SPHsSHGFyY2hAc2VyZ2VqLnBwLnJ1AAoJEGXBEMHqQz/HwXYQAJd8hFtsFL1a9TQ2/9bVhtk3iwswNPITzdAMrhkp1bYhpJrLs8pf36v9YbYhT1WzKlDmY+t6vpj/kHyKPdQaeJLyREXBQU/XJgwNV+ACpoaQ/HT38mHqj4LEHbParHVSmJjjSCOBZsMtsZsLTR9C/62jAvUZXxZ7Tux+nSC5ewtAaX7bGTVDxBBsrU3Kh6bck7bPbDrUMhKBull362C8Lp9gcR21FLULswZe7Odx6Yp1fKe3vEyZrPYTrWM6aZVH31diDckKCnR6R5T1T/IHUhR/nHZDYuhP2z6mlm+OG/nAA3PgNWmgZ9KTF3iil6f/RGtKX9djkJlFF8xIRPsIM6P6fxen7wCXkji8K7xD+Yd6pdZN2c4qS6OCNjo8c7MV4qmsowKseTsiMu1UIycPuWjFFzHoqNQ87bP1+YzboXPaR4bAGR7CRWeq9eWjpBKicumJR0biMd4xhzymVhmtuGhhCymJYRyxAl/Xj2OL6Ydpb57UpVoXpJ6bfEFWkXRlREZhXwgE0Ozdc70qDT1LHnkuyGtvq9rl2WL2y7gsFfv3IauvE/EMuBlbdLOLtE/g5wYicWdEF5c49aMxOerYJZL8b5cgLG4AWGsTHcnJvKnIyeDy5ZJEIT3OlUP0wspwwhcA3aN+qVaWK5mC/FOk8+rHK5ge9h3XLRMoyO95tnM6",
+  "URL": "https://www.unrealircd.org",
+  "LICENSE": "GPL2",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1590836098",
+  "PACKAGER": "Sergej Pupykin <pupykin.s+arch@gmail.com>",
+  "PROVIDES": [
+    "ircd"
+  ],
+  "DEPENDS": [
+    "openssl",
+    "curl",
+    "c-ares",
+    "tre",
+    "pcre2",
+    "libnsl"
+  ]
+}

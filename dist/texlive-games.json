@@ -1,0 +1,23 @@
+{
+  "FILENAME": "texlive-games-2020.55271-1-any.pkg.tar.zst",
+  "NAME": "texlive-games",
+  "BASE": "texlive-games",
+  "VERSION": "2020.55271-1",
+  "DESC": "TeX Live - Setups for typesetting various board games, including chess",
+  "CSIZE": "502419",
+  "ISIZE": "3473268",
+  "MD5SUM": "d7522b063b9c200cabd5bc48d1dab6d1",
+  "SHA256SUM": "5b5c98a4514229ee5330c5221d77d1e6ae66f554ac68bc9e9844ecc5b4c25470",
+  "PGPSIG": "iQIzBAABCgAdFiEEROpirNvIG2oNH9JnIGy8iS0Uk9IFAl7dXIcACgkQIGy8iS0Uk9K+6A//eNXxxvgxb2tYlzj81vOMaiJjCpBeJCKJsD3h/NznbWlMmUJNYxdYCe2tJC+SoWNNqZ0WTIocqvcgFLxTWQVUBxvWFuyYTFu5uRNI74Rn671qu5qcxaV/bE3KEuvyFdhM6mi8ITdba23DoAQ1A2m2/Vy28HRhpwVRl/9rZUNLi7kCTfcSxCvSaAd/KXRLn56SVbpZQpiDtbJUVm5HuC5uf6iRJyU2FBtQ2xUsOWVcREIB+B7BAyqaBzCTG368WDRYlYotad04HpWK1EKBZToTACDMuyo8ktk6EqpCLd8uAxSzNYkX+o3DkC8MqQE5hrO3O2O+JfzIs5SdC3OTStyOLGpB0mznM4OJmELNA8bUGrWuYfC460ozuQ2h7vQzd82QD9fctnkIS7TVJk+oeAQMhZTPsJXmAeuslNC9H6ePfpDekEJhzoRHaYNqDHHisPAXsmlmTkxJMUqRtprXYl6GNrq1JItK2/8vNTPb96do9fpHnYK+WaIbuR0K8WKerRiX1IVYUJmXo9CGZrSXbkEVfER09djMQu6mYehMirTv4YN1Zter13t9yMmDwCeNwQRfUGEVGmwPVaRDN98aWQXF5v2Tk4ft2w/o0MwLgBn+pzLYbk62ek0PWBRdSh8o/IPcU63aaNCzqsaI8bFf2BzNQMcU7zhescOY+samU/6++i0=",
+  "URL": "http://tug.org/texlive/",
+  "LICENSE": "GPL",
+  "ARCH": "any",
+  "BUILDDATE": "1591523774",
+  "PACKAGER": "Rémy Oudompheng <remy@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "texlive-core"
+  ]
+}

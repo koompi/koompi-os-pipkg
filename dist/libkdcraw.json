@@ -1,0 +1,24 @@
+{
+  "FILENAME": "libkdcraw-20.04.3-1-x86_64.pkg.tar.zst",
+  "NAME": "libkdcraw",
+  "BASE": "libkdcraw",
+  "VERSION": "20.04.3-1",
+  "DESC": "A C++ interface used to decode RAW picture",
+  "CSIZE": "42437",
+  "ISIZE": "123769",
+  "MD5SUM": "66b660ce87fd99c242d94fe8da2557fb",
+  "SHA256SUM": "3b1d3708b2e8b78f90a095f2368cc94ba7f462823c6252a68d4cdf97a4894862",
+  "PGPSIG": "iQEzBAABCAAdFiEEFRnVq6Zb9vwrc8dWek52CV2KUuQFAl8HAg4ACgkQek52CV2KUuRSwAf/TFM8eYt13cEQoiNQJ3/3kG0MaDN31MrTvdu7qN1NEIwfGW4xd93yR+q7O2CCYU5vkjcrS9Xj1sM8IH1abRZKHtTnDPAQOLHYcbd2ool20e+BBszDK3I3pyb5cvkj2/YpRSyNa9zayMRFbt8h8XWS2XSQ/fJ1wu+4H4fvK+88uFb+mikuOhPkDEtXf5Uz9um5eouId3FQZRr/v7v/ruXaBmb1reJxw0RsJrd3rchOQLc2jh7dYxe4i5kNrd7wIdkorCQ3LE1pAGHvekVXxCX7dkjFw37S8hyA3mrutE1jzOESJotsH9gf5Tl1YKFzDq+eflpv0fUMuiPpEX6uQG5ZQQ==",
+  "URL": "https://www.kde.org/applications/graphics/",
+  "LICENSE": "GPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1594103509",
+  "PACKAGER": "Antonio Rojas <arojas@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "qt5-base",
+    "libraw"
+  ]
+}

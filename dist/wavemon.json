@@ -1,0 +1,25 @@
+{
+  "FILENAME": "wavemon-0.9.1-1-x86_64.pkg.tar.zst",
+  "NAME": "wavemon",
+  "BASE": "wavemon",
+  "VERSION": "0.9.1-1",
+  "DESC": "Ncurses-based monitoring application for wireless network devices",
+  "CSIZE": "62043",
+  "ISIZE": "145624",
+  "MD5SUM": "288debb1fdca9f6402c849b17e268d53",
+  "SHA256SUM": "20ddfa5bc759aeaedd3c0b8e5ef93f496bc95023ccc4236e31159c0ac89834a7",
+  "PGPSIG": "iQIzBAABCgAdFiEE4kC1fixGMLp2ji8m/BtUfI2BcsgFAl4h6QkACgkQ/BtUfI2Bcshz0A//U8X24Nd2veoAqWvM473+rPE01GA8sVTlS3pZ7/9JIEAew4zLRZdIi7iHFZGDx++dOaLIOtevH6hVbjNgjNHCgh/7VZBBgUcv+b5KEMcbiIXMtUvNtqqHZcY0fwd/v8mcBc+PHqtQT0Cl0fQ6lH7QubrKpz7Qyjiaqtk5G1EkajpRRSbsH+NkhcNNvNDJQWzgJUM31svBzGm68aA1r3LLkwqbrrDzGKxAr1WUpSeFKSiV1levLZtnTjGTkX1kbp2KVW2X0TfkKzKngr6wV3/J631Wbbag7Nozrfd1ZRkzpWs8PEdk63pXI2nI0Ul/nen8GjldDzxQz9ivYOycfYFcYN4svJHBUndwGhy9m4P4M3QBfcI3IfkyKQtiFj9z7SXLaxgR0DGMc2kWsAai6J8kmao0SvxmkK/U4/SxmigY9ok5xMsnmOgJw4jza8tKE0uButfzn18+Yq+er/L6HGSKZqZtCv84EY9MD4N3x0/mPcWEPAnoxSIB7bzLdUTufrY8iVipSI/vGv2om27LX323sk4e7j3by8r41WmPCcYD+ryKkYa9HF6jRP4ms3wQPeTQTX19cTQpCTYZbqhzKM5xqP+/Y8FuCTuo41+vb1HllR2nS1HROPkzG9sYFyNWUu5wenQHnfZ5uP8AJZDzp6IHspxJNBrPezoTG7rQfuIxXvQ=",
+  "URL": "https://github.com/uoaerg/wavemon",
+  "LICENSE": "GPL3",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1579280628",
+  "PACKAGER": "Levente Polyak <anthraxx@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "ncurses",
+    "libcap",
+    "libnl"
+  ]
+}

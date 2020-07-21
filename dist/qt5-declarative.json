@@ -1,0 +1,23 @@
+{
+  "FILENAME": "qt5-declarative-5.15.0-1-x86_64.pkg.tar.zst",
+  "NAME": "qt5-declarative",
+  "BASE": "qt5-declarative",
+  "VERSION": "5.15.0-1",
+  "DESC": "Classes for QML and JavaScript languages",
+  "CSIZE": "5069313",
+  "ISIZE": "25921881",
+  "MD5SUM": "98e515fa44140f7c86d2a266e7e4c9f1",
+  "SHA256SUM": "6d1b8e2c2d36f664eb85ac57fff73927066fd1ead36d1f17a35f796156bb2f93",
+  "PGPSIG": "iQEzBAABCAAdFiEEFRnVq6Zb9vwrc8dWek52CV2KUuQFAl7M1i4ACgkQek52CV2KUuRDBQf+PRPg24j/ARXjt99YNDXUPRRDyamSZQEAgrNWK9W15aXeVBdqrTP/znMvKWMhHu31H0hmSQdyM+0W1RXmyWXWCmJXpa5S2XXwt+kL/A+PkLVuOavF+hN4ThklF/gk7o2GoFCeTe8rQbCjwjOtfchhXaWoDslLUgiteyTVXp5oepiJB1PWGkfdkDQV4t6Gx8EkLtCGd9YAEWtFsOICoR0wxNYls25ETI6zn16lfx+ikPHuYzDFPzAPKAtdd/mYTOP+dld64rAp5cFOR1DrUfsOX3XNkXoheXSovbrSMLOHCl7Qjorlh9x/mcyFbJ9PWtd6WuC4bKNBEsoe52cSUbc5Aw==",
+  "URL": "https://www.qt.io",
+  "LICENSE": "GPL3",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1590475888",
+  "PACKAGER": "Antonio Rojas <arojas@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "qt5-base"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "FILENAME": "firefox-i18n-xh-78.0.2-1-any.pkg.tar.zst",
+  "NAME": "firefox-i18n-xh",
+  "BASE": "firefox-i18n",
+  "VERSION": "78.0.2-1",
+  "DESC": "Xhosa language pack for Firefox",
+  "CSIZE": "402313",
+  "ISIZE": "458898",
+  "MD5SUM": "c72d9f54b544d129d9f0f5062b110e5d",
+  "SHA256SUM": "71a90baecdd68de9478254610c2c30e748414a47aea9b606f6c75277ec82c222",
+  "PGPSIG": "iIsEABYIADMWIQQGaHodnU+rCLUP2Ss7lKgOUKR3xwUCXwelrhUcaGVmdGlnQGFyY2hsaW51eC5vcmcACgkQO5SoDlCkd8crewEA4VcBCCoofuX5TIPcjnUnhekpDlxQZtzWJTT3FG1JmaUBALDugEmvRi8HFhVLSvlinr57/BAsVxLFYfSWjNLnZTcH",
+  "URL": "https://www.mozilla.org/firefox/",
+  "LICENSE": "MPL",
+  "ARCH": "any",
+  "BUILDDATE": "1594311501",
+  "PACKAGER": "Jan Alexander Steffens (heftig) <heftig@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "firefox>=78.0.2"
+  ]
+}

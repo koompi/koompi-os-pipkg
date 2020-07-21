@@ -1,0 +1,23 @@
+{
+  "FILENAME": "firefox-developer-edition-i18n-pt-br-79.0b6-1-any.pkg.tar.zst",
+  "NAME": "firefox-developer-edition-i18n-pt-br",
+  "BASE": "firefox-developer-edition-i18n",
+  "VERSION": "79.0b6-1",
+  "DESC": "Portuguese (Brazilian) language pack for Firefox Developer Edition",
+  "CSIZE": "494504",
+  "ISIZE": "559901",
+  "MD5SUM": "51e850ae55a2faf54652cf1cd2f68197",
+  "SHA256SUM": "fe47e8d3a198796bb91e408cf002b2db29c975497f2d719e51e0f42d461485b9",
+  "PGPSIG": "iQEzBAABCAAdFiEEYB8g8dG7v0p4z1tt9rFhCz7NvJ8FAl8IbNAACgkQ9rFhCz7NvJ9gqgf9Ey5hza4IWO9XT3aUrycsAvpCfyymci6akbBrWBlEKsm8DfVOMlQ0JWR9fRf2CLagOFcIDpeTrOTLVqtk9UFVIXDcScgRaCQmDdKKdGp6jonzgnSqEiRN4Rpft+/Y9uT2InL0UIKbSDtRlqtoMnv36gRQFT9MlUOu+TSCp9FpN5AUigd8Sl7XKYo2Ki4rTSKnLNC8EuwaylPXyXO+WrseT6c7euVl3dW5zSZ5gSfbd4KSZZ3/E5ojf3h5ut/GAEaXMfwdJolvr4t+TBfthBuA7iHxcjzevXW4G3W4CA8CizUS7Znu8xGA6EVWveE6EioJRGzspOByWn62pqJnwP5Qjw==",
+  "URL": "https://www.mozilla.com/",
+  "LICENSE": "MPL",
+  "ARCH": "any",
+  "BUILDDATE": "1594387381",
+  "PACKAGER": "Andrew Crerar <andrew@crerar.io>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "firefox-developer-edition>=79.0b6"
+  ]
+}

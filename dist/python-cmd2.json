@@ -1,0 +1,26 @@
+{
+  "FILENAME": "python-cmd2-1.1.0-1-any.pkg.tar.zst",
+  "NAME": "python-cmd2",
+  "BASE": "python-cmd2",
+  "VERSION": "1.1.0-1",
+  "DESC": "A tool for building interactive command line apps",
+  "CSIZE": "179083",
+  "ISIZE": "1041817",
+  "MD5SUM": "42f576afa47e16dd696503cd955df96c",
+  "SHA256SUM": "eefe0ee87656fe467b6e30bad22deac588f9c60fb2d5bf09e92bd3a01993c2b5",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl7ce/8ACgkQeGxj8zDXy5K/8BAAsyifcjHFTJIos8h0cjo+HKFNFjV5kODUvr/UMIn+eNVH0vIJx37D9rw5ujNB3isD9/iLRH+tXZ67QjLq/iX39PRRRpA9+iDZql1ju1Xo7geufcu6CIInhsbudHunuHj1g21fDNK5iaLXqabNV7ISJMtl7Hx0eoUBT7FQ6M0axsppHtzrk31t0vWLSLFt1TB/989SjvIO4+AYyuT/lzN8CsGENGlkel2AJt+CAbjZji+epg4Luqu+EtV5+bOs3vlVRgOzHjfcN5u6WkwnoSxxJcV0NTVY2mhj9q7SiVGxBxVE5twA0Z16ChmhD/VQ7RM888fIJQYQXRbHQ5gTWxwEKZdXvf6atSox3R5lEtYv8X2MLjL8wjkRV6QM7OXHg4q6KRkQltLPEpX8y/Z1bHamfjwm4YTGW7ghwvWtRS1dFgqvQl2+OHJrTJEPh6TRiqHaVlwj5L+aU+NrcALtmLwX1CcMETBPHtgL03gUYGfcPshPaPc2JA5Sts9zHw0uuQZphewkHDUvkeMD0ADvBeqCuAxnQ+uxRJT/QUEUHwqtyyipUJfT/fEXXihDX4XelUVIUCi1AJmOdT2TrYvf4ylnuxka/HFlDCn0AEMHQOVrpAGXDu1NRudOPQ8EmRQxr8N8uMdSRQsD7GWiKvuX3llOk4j1xMZr6D1ubGTZBaLY2Zg=",
+  "URL": "https://github.com/python-cmd2/cmd2",
+  "LICENSE": "MIT",
+  "ARCH": "any",
+  "BUILDDATE": "1591507937",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "python-attrs",
+    "python-colorama",
+    "python-pyperclip",
+    "python-wcwidth"
+  ]
+}

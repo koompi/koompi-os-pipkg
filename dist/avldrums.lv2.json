@@ -1,0 +1,29 @@
+{
+  "FILENAME": "avldrums.lv2-0.4.1-1-x86_64.pkg.tar.xz",
+  "NAME": "avldrums.lv2",
+  "BASE": "avldrums.lv2",
+  "VERSION": "0.4.1-1",
+  "DESC": "A simple Drum Sample Player Plugin, dedicated to the AVLinux Drumkits",
+  "CSIZE": "26870268",
+  "ISIZE": "48374128",
+  "MD5SUM": "a98f551da60b0f4a50942c971f3a3254",
+  "SHA256SUM": "18c7b5da44ac20b364cb9a4ff4700e323628e8dd60dbf17409ab7bc9a0087010",
+  "PGPSIG": "iHUEABYIAB0WIQTH54SUZv4jWDQ1iDdyWHNLQcMVSQUCXfZrjgAKCRByWHNLQcMVScPMAP9PD9buQN6oeJVw2NgGuWInhhuksYJgeGMguW+hu7soHwEAlhwNX7gjQs+E9BNQMh01rkzM03MT9IU0q2+NlLJ0mgw=",
+  "URL": "https://x42-plugins.com/x42/x42-avldrums",
+  "LICENSE": "GPL2",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1576430323",
+  "PACKAGER": "David Runge <dvzrv@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "cairo",
+    "glib2",
+    "glibc",
+    "libfluidsynth.so=2-64",
+    "libglvnd",
+    "libx11",
+    "pango"
+  ]
+}

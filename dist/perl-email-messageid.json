@@ -1,0 +1,23 @@
+{
+  "FILENAME": "perl-email-messageid-1.406-4-any.pkg.tar.zst",
+  "NAME": "perl-email-messageid",
+  "BASE": "perl-email-messageid",
+  "VERSION": "1.406-4",
+  "DESC": "Generate world unique message-ids.",
+  "CSIZE": "6556",
+  "ISIZE": "7649",
+  "MD5SUM": "e8c879fde4f25313e564cdc9149f5aca",
+  "SHA256SUM": "503d3949b39de9df6e3ba29ddb3552665575908ac35f4c248210094943fe5e09",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl8Efv0ACgkQeGxj8zDXy5LZIA/8CNCE+PLN/c45kv8tPlLXfeIBDGmbkCCVjLbosuT8Yc7oaEEsW2g5+vJ9HtFtOYNOF/e8QBX5snvKbXlFh6oAzu8wSfuasrAYVCc/W786SRhq7bFjToMzJJAYNC+QPGMG0FIfs5Kf3+/mJpN1S6poRjoPYKVZhptyZxwNMN5NMJ5AsG6hVdxjGI4/88XMeU3sqiky/d3zBiA1to+VrElrYy4wjasIPldNqHLmuOqUSfGQY4zdaKBVuZFpL+zMNvU2rxDcZEs5LRXrSSpck+IqmbrmJgnnlQDV+wmXsmnbGlw3VWbWAnElgiEnY45qkqjWhh/y3P/HkxkquPUlC67sCr84oRtyJ4yeANfZ6OUzEVGG6Jy6Kz2zjX8iZfGiGdfkjAu5R6N/buuLLOcnEXt6lvT3+bUvjugs0qjuxMwccC2IshtAzYu/yIiJbk8PCyQ/WqN3ftmeID/rZNLKowCIhlUuLIUsIkLp9NvSrvlDCse68EhJnqwxtuGfSI2MXGQePAw2Xp/XNEvUo0ldEh2eJ32B+tFlS5u97Xse+zESWa2TaUFETAi4FEr7mrhpIAyk3wOQwGhaJPIZSpCg2ykG/1tag9BJEBcIQT4yAzZGrp2rllUnCUH7Wc2ZFMw6KJ0tdYl2/ay8Azy6TpKg5CBkwVgY47BDUhprdqZCTaGJQuY=",
+  "URL": "https://search.cpan.org/dist/Email-MessageID",
+  "LICENSE": "GPL",
+  "ARCH": "any",
+  "BUILDDATE": "1594130143",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "perl-email-address>=1.80"
+  ]
+}

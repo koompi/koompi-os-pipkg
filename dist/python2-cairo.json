@@ -1,0 +1,24 @@
+{
+  "FILENAME": "python2-cairo-1.18.2-4-x86_64.pkg.tar.zst",
+  "NAME": "python2-cairo",
+  "BASE": "python2-cairo",
+  "VERSION": "1.18.2-4",
+  "DESC": "Python bindings for the cairo graphics library",
+  "CSIZE": "62024",
+  "ISIZE": "266143",
+  "MD5SUM": "0847f22e1348d0c2de7f03f391564e31",
+  "SHA256SUM": "8215ed17e816d569909a43686f71920d9f3dd5bee86665ec9de9c934ca670d42",
+  "PGPSIG": "iQEzBAABCAAdFiEEFRnVq6Zb9vwrc8dWek52CV2KUuQFAl4snWoACgkQek52CV2KUuQ5/wf+K076zh3vTKTRi5ojbxR+NqBRvvVyqENSVQjJ9xaJA+S8Y4b5bDDqGvuijyqLeNIEMFuEgLTABtn1SjOJ9bYgZq+2NmW9xGV213m3utC9W+RSMg+i3Nk8vVe2M0bZUoF6fGZb7gA+vs5V53ssPg/LiR2PvkHKxVqsoNGgiy7IDp2xEIQT3CrFgzpk2ndJSPwhpYIjtDXO6UM8KzH+kKR/14zB/9nsvQS38rTr3h0LOA0XpLg8nDPwPDMdoY178cgeBKMPrvnCO+rYx4aUeJtAhWE/tfpIov233wxaR/FmwPJLqpbGODE+/Pw/r/AiPCx4KS+YpPLt0ae6nStiOIaxNw==",
+  "URL": "https://pycairo.readthedocs.io/en/latest/",
+  "LICENSE": "LGPL2.1",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1579982102",
+  "PACKAGER": "Antonio Rojas <arojas@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "cairo",
+    "python2"
+  ]
+}

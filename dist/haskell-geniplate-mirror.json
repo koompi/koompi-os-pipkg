@@ -1,0 +1,23 @@
+{
+  "FILENAME": "haskell-geniplate-mirror-0.7.7-2-x86_64.pkg.tar.zst",
+  "NAME": "haskell-geniplate-mirror",
+  "BASE": "haskell-geniplate-mirror",
+  "VERSION": "0.7.7-2",
+  "DESC": "Use Template Haskell to generate Uniplate-like functions.",
+  "CSIZE": "68312",
+  "ISIZE": "342682",
+  "MD5SUM": "38a4b19c3d3152543fa4c13bb67a18f3",
+  "SHA256SUM": "d7c0f2eef08b3d493dbb95c42e2d640e9f789afb180a6db451f2edd5e3d5c505",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl6hdtkACgkQeGxj8zDXy5K98xAAgVpFL32Cb36KryL3e36ktLB7kS+e/aGdfbYQddY3r0oFMvo0N01/agHqrsie9UJyZDIgiQqZnC8ngsBHXaBSa++z/Rxd7Z9ZHcYP/0vpze4quMkZV59siGdoiZJbJywacAZ+UCOqhStdXHN0Ly18rCeYMbIkRTJyKREgGPpXS/fSHA/9HMziyyDEM9yUsf3tKVa2z+BK/Ih/q564A2yKpTHW1JeScgYjVWwzr4y06D7u+kmxh0cA2q5HlVZrOryhJQTx2cUhlZ0h21Pjhp03L8GrBIbowGKVEdeWrV/FMIWgZ8RTmH53W72Mb8zJYWwlvXFbwX500QC16djdwDk8/BKf2w7OTtlTqAefEIKCx0gaH5GnwpVkZxdHxu/0zBlR+dUOuLySI9USDYCqBFK8Drls2eam/ooMOZc6oQKFNniYFB2LXGwInilijN2hvK+75no5ekqnyrGqUMO6KClynaxlrHeDyZsf5Wj2ydIz7iMTyaFgJrGeOu8gKM6eVdSYTvbF3n761C7gwcIOg2WF4aLLPvyuo60roKhrXT0IMeV4K58I1Kk6AtiCxYNckKtMFK+eO4PrM9XDM8g4jKSVjvhuDkJjJcHmXIS9eXvE6Djtf3QlhwLUyaJzR8MAb17rrXxoY8f/NFA/Y+pHR7NzBdDY21u7Is4VqTzWc5DfnVY=",
+  "URL": "https://github.com/danr/geniplate",
+  "LICENSE": "BSD",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1587639940",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "ghc-libs"
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "FILENAME": "ruby-async-dns-1.2.4-2-any.pkg.tar.xz",
+  "NAME": "ruby-async-dns",
+  "BASE": "ruby-async-dns",
+  "VERSION": "1.2.4-2",
+  "DESC": "Asynchronous DNS resolver and server",
+  "CSIZE": "30076",
+  "ISIZE": "240028",
+  "MD5SUM": "0118eaf415a92dafbdc4af2ec16053d5",
+  "SHA256SUM": "7c26c99f29e663491c0f85bd70a3314a221cc73d7bbe0c49aeb946ebd5151e43",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl4EBfAACgkQeGxj8zDXy5IkWg/8Drp4foI1h9LOYwgKJJISFyQlE4dlwgUmjSQGvhWudBWlw96rThBopHQmIZIPgWHwx+MPmlbjZJR2bqTwqiJ13ENDQWV4qaJpPa0ge8HCuxduJ8CJ5BdrQizw7zKxHWzav6RXOoKzT+qnYJ9MuzpOYTeO6peMhvNJm3f/AdjRumXEeEpgY/sCN27+Mr5HWlO0WrSC34Xeu3X1pCCR3RVzZIWDBUTsa8BAxcEsA28N8JxIGcocUZVTpwfK24SYUlPNg3YQ13c/XqOYLAqO0HlzTyHEmNRr6MNFilE0AgXTbR3CdtrSzELvgvIeT2cOjVaxSmJTAyyluQ5hAo9gOThnJENfZhWmof3vsYpJvv9I+j6Ky93IC7WSyaPnn/zdNtVvUBLu0VgPUWO2+ri8wfRpQ5c4vyPloKtPk4s4D9rAvkCmVsSmEhYlPGNeV021RXGD3XmmERJHHqWNxR5hJ2ZvHc8BXaXHuf53NgmyRCXxQ7oXwPFl2NgHJdxlilUBAjW5ZgugAonrIa/akg2mSLsnH6WXnXB00hSKWzBZXFpsNE/rgYghug/uZ+Up3vr7cJWqzmWiVNQ/XGdnhXjKsnaHJkpeg/kCJlbOrbue+8DiR6Y5cLvPg4phJ0zKaKYLXNMjOyVeQqSlfLaoBF3SrELeYQvAymIfxC/wR9hOmHi9hmw=",
+  "URL": "https://github.com/socketry/async-dns",
+  "LICENSE": "MIT",
+  "ARCH": "any",
+  "BUILDDATE": "1577321936",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "ruby",
+    "ruby-async-io"
+  ]
+}

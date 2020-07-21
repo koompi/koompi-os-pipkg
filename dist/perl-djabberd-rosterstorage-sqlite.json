@@ -1,0 +1,24 @@
+{
+  "FILENAME": "perl-djabberd-rosterstorage-sqlite-1.00-9-any.pkg.tar.zst",
+  "NAME": "perl-djabberd-rosterstorage-sqlite",
+  "BASE": "perl-djabberd-rosterstorage-sqlite",
+  "VERSION": "1.00-9",
+  "DESC": "DJabberd sqlite roster storage module",
+  "CSIZE": "8156",
+  "ISIZE": "14729",
+  "MD5SUM": "729163ce0cbf142f49594e791520e824",
+  "SHA256SUM": "c6fd1fd669b703726d4c4ec4ec76cbe560a92af860cf7c2f93a92661930e54df",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl7vhcIACgkQeGxj8zDXy5Jntg//Zjd2k7kRVLVqAk1x1ZPOH5JEwU3hK1RbytI+DsWJQeTogONz38of77KsVOmWWHjKxFBxLLoexrbyaqKTPAxpcrkvbYuz4FZ7KMYgEF/XkF6anEFGLFXNgEetRHgO7ZZhRZtgmU1aQy7T7nNq3Tl/75M5QJmxeLw8jU4NNVt/bKRrEPfpq+tgwbw3NjbjlbcMy3DgVpXf3TdFE89eVLag+heY+0fjjdijQLDSQQq7yx2iLqcYC/FYqCmFBfDpYWi/FDmI9NtktbP7hah3gX6+0t3xkRShdhAnfUUQhr/AyUz0KN32xY4Ncf2fw28ozIKDZKrnBpV1BD8U4/naLt4e/Ki5l2hri0J3AIKftQwX0KOwQK3HoR+U6KjOrYH3LlpL7lruKAYdQTL6OGVk3Ob83aT5IuRahYSW9XykcLNSL9lN7EH1FxHkL0vhTRwLf+C12dUypu/qUhdJMCJWtuyGyyFHoJy394cOnte2L8BDaJtHlcMgLeuL9MA5l09wfwJ/wNyw2RASrURVRngJAv4taiN971INnJJG5sALgbb69C7za2Of8z0WaYwUI+b+FMU5MKUt9LpUa17GTuQBnz4kf9V5wToUKxYqDQOwOMcaq8v54EFKf7fnp8FE/lRkt9yZ3yV+MXgnGDek4dOgyBDAZlEXBZrvGqqZCuSmuZkFZk8=",
+  "URL": "https://search.cpan.org/~bradfitz/DJabberd-RosterStorage-SQLite/",
+  "LICENSE": "GPL",
+  "ARCH": "any",
+  "BUILDDATE": "1592755629",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "perl-djabberd",
+    "perl-dbd-sqlite"
+  ]
+}

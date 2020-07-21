@@ -1,0 +1,23 @@
+{
+  "FILENAME": "v2ray-geoip-202007080004-1-any.pkg.tar.zst",
+  "NAME": "v2ray-geoip",
+  "BASE": "v2ray-geoip",
+  "VERSION": "202007080004-1",
+  "DESC": "GeoIP List for V2Ray",
+  "CSIZE": "1055284",
+  "ISIZE": "5250582",
+  "MD5SUM": "9a562ecd22ddf0c2974fc8696b899900",
+  "SHA256SUM": "a2a54ed3d29d52bd00933271f77f86241792af43f7e5796168a6b7774f80430f",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl8FjDUACgkQeGxj8zDXy5I9nhAAg9EsBaXUmuV/VoyWoO4X6CsdP1Qe7nTZtc2flnpR/byeT3VNNEuti3pH/0Zm4GuCqu09siVkDAXWQzIHylTvk4j7ShciSgxQbOZkKrreu24wqxjPckWRl+910+zu9h7HTGqAPL10vsc+nbJmDB7DOa0xJLmRqs7XUsmmPkHMDzY1KhaxDb1wEcOyEMZwSZt8SwxOTNddLydQPGsPm6y1/tUNoC0X0Srd324IIK33fAtJr1Tg+te4ZrLChyg94LT+fXOHvlNJ0fqZIXFz4yHuWjy38SqfQzWdqUhHEfb/g4JRszkl/1f7HOzkJO/o0BraPVXH1UGaSVa5XsefKWUOCA7oocSGzimuOLOWNscPtulyvxp6JN/VjtcEzomylaEP+5lL2O6O0C1un5KPGK2E6Vecrcr2paAun/9c4qI7n4O6Tu1SM2NoTHKJgeZswg3kdgCHUZsSxaPcKPezesC2+QT1oFfSc23lj+t70biwAsYc77W/fUmE6+9Z2nAMGbS6y0kWVwqi2BidDW8IXbCFbSj8mxyRssN6o4CltyOCAZVXAZlDzbchf7WlRl7+4qJiYzt0eNFLrkkrNRbc2WZmiyeBpnAWXHWeTdbSj2UrajW8AS9u82BEQsPP90DE3oFC8TO0M6iFUt2CsR/tBip6gAAEnO+Rz9DZorHuqU1V89M=",
+  "URL": "https://github.com/v2ray/geoip",
+  "LICENSE": "MIT",
+  "ARCH": "any",
+  "BUILDDATE": "1594199047",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    ""
+  ]
+}

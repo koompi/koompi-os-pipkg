@@ -1,0 +1,26 @@
+{
+  "FILENAME": "lib32-dbus-glib-0.110-2-x86_64.pkg.tar.zst",
+  "NAME": "lib32-dbus-glib",
+  "BASE": "lib32-dbus-glib",
+  "VERSION": "0.110-2",
+  "DESC": "GLib bindings for DBUS",
+  "CSIZE": "56478",
+  "ISIZE": "161285",
+  "MD5SUM": "e734dc76fb6cd5fc45fa9faef13e6e78",
+  "SHA256SUM": "ee0f4ff6d2e4509d60b73f2f13a76b4f65d77e48ad54f7b87d9aae1181728b9d",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl7L4QgACgkQeGxj8zDXy5Inyw//cYasGZS52vEcI17C/D5B8YDxCWeeJvC9TPzWAgtK+bLa3uFHepZ2Q3sAFtufnwWpz4FIkIyjRkEKUNXWaWoihG4DiI1evwbZyKUOTfTAuY5Q0CWZ6LIKFCO5itqq9RC9ZAjo+0BBx4zlz1NBy5Ybzz1jGfW9dGwZj0xCJ9BU1jo8uONJA3uatL+660HgkF1V2U5kafT+K++arpBw99QyAwqln3TGmFactex24ymIcDNlLegPbv9zr9wW8px9NoAxPZQFfLatbz0+st16ANphsF+FWwq6K8yz1YBglxFwkVWJHH620yxOfA/hUshlMQjL4yyHdVswvbrXRGqTqcE7AE8VQ1AvHFpgI+Yb1FsDcRmacyOxQq+He1ZNu6In0QI03fCIM7zqDf0rwsYJRe2CVK7A3s1CvojiGH3oIZRzfeURp85CQhOuhKD0uMxEcj/0x5CRdkqS89L/4usR9uyH4T8gFCFPExbEBprkPWtC2kcHeY7BPE19IMgqnWzX/GLOYQP7Ihcuk3G8qBxMwgsN0q6DE/pJQqEUKwsjmM/pBqU96JBTfsPeNHY+5H/8MiyGza7uuPXH6y/H4U6OvRiX+yz5phDnCeV/xpo90uVs1OvG0CdS7sBzlvcGA1rETN/emxJ9c5i5MCwZRWwC39NhUkGkOGid1tjpBjSz5W/F/gE=",
+  "URL": "https://www.freedesktop.org/wiki/Software/DBusBindings",
+  "LICENSE": "GPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1590419645",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "dbus-glib",
+    "lib32-glib2",
+    "lib32-glibc",
+    "lib32-dbus"
+  ]
+}

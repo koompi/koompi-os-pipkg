@@ -1,0 +1,28 @@
+{
+  "FILENAME": "khard-0.16.1-1-any.pkg.tar.zst",
+  "NAME": "khard",
+  "BASE": "khard",
+  "VERSION": "0.16.1-1",
+  "DESC": "Console CardDAV client",
+  "CSIZE": "572431",
+  "ISIZE": "1677458",
+  "MD5SUM": "ffdef5d6e1b43deb1c8a5a8c49eeb7e9",
+  "SHA256SUM": "29fa0e6f9ab72960cb320f43482c99080d68b1fa5f674dc7cb8fed82fa5fff1c",
+  "PGPSIG": "iHUEABYIAB0WIQTH54SUZv4jWDQ1iDdyWHNLQcMVSQUCXozQKwAKCRByWHNLQcMVSR/bAP9MnBNBN8YkSbPCkro4LmqyRdlJGa1WXjDsNPaSdmaA8wEAhgc9PX3ZLW+A9y0OHN7DULA35jOY9MptVfefVMiWfQ8=",
+  "URL": "https://github.com/scheibler/khard",
+  "LICENSE": "GPL3",
+  "ARCH": "any",
+  "BUILDDATE": "1586282718",
+  "PACKAGER": "David Runge <dvzrv@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "python-atomicwrites",
+    "python-configobj",
+    "python-ruamel-yaml",
+    "python-setuptools",
+    "python-unidecode",
+    "python-vobject"
+  ]
+}

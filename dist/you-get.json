@@ -1,0 +1,23 @@
+{
+  "FILENAME": "you-get-0.4.1432-2-any.pkg.tar.zst",
+  "NAME": "you-get",
+  "BASE": "you-get",
+  "VERSION": "0.4.1432-2",
+  "DESC": "A YouTube/Youku/Niconico video downloader written in Python 3.",
+  "CSIZE": "276170",
+  "ISIZE": "991065",
+  "MD5SUM": "4e16fd3cb908140500cbaf2f4841c957",
+  "SHA256SUM": "78b6262e5516cad3382e3df16147e5fd43ea21b8e12c700a5dfebbf3d817f57f",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl7rztQACgkQeGxj8zDXy5KTBg/+PLiSNdsUA7OSy2tRZqk8aLk/RKOdUCk31dkg+C2xMOFiHSe7HOAGcdR4OnL+nMs8fz9PPR0YshFDKlOcvNHV9Qw3dO+ngNVJZpky1O5litwx3KEVODnjzZZoiRZJZ+siQnDhXtVYdtB/s0InDRncFZ5uxRxzXOl6yty0id7Zm57Fthp+i7UpFIT9TIR6jpyShZabT5NcrXtYOA5NRLY/OmMEieb/Busvs5iFTmbIjsy6sVasGpbFBw27I8Jlqc3pDLotIr7NStSgQjNPiCQIUJpZvq6tWYuV1chUtLbqAdWgWI3hbD5BvsRkf2sWc9B7RLZdrN3Zhqi3B5gtyBdIb4S3B2oGzJIzA8CNuvhWbCmj3A9YSuHxfz7OYZ67xQtWJodBsVKHIIwbCSg11mxnYMWQVLpO7jZEL2vn4jxCIHKGmmafRMIB6kcuBbM/EDtieltfuj2qcO08Jl/cL3aKZS7vtpQpoXmdp5Rk3Bi0hGhNZLm/11MEsmeO8dL8oiiSrVOQ3+aQb79+ZwNeG96mgG9jk3mPqr44MXCyebwUCuHfBUsEswLvtoj1HsqhFO7PByqMMl4JQ3aYbK1P7u7QF7WyYvltZ31/uXA9aLJrmHbGtgUe10z7F35zAD+Z7ImyE3TLLuk3HCGNUOsWUHmcOOZISMoiABN5s1Z33ub3Skw=",
+  "URL": "https://www.soimort.org/you-get/",
+  "LICENSE": "MIT",
+  "ARCH": "any",
+  "BUILDDATE": "1592512124",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "python-setuptools"
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "FILENAME": "haskell-servant-server-0.17-71-x86_64.pkg.tar.zst",
+  "NAME": "haskell-servant-server",
+  "BASE": "haskell-servant-server",
+  "VERSION": "0.17-71",
+  "DESC": "A family of combinators for defining webservices APIs and serving them",
+  "CSIZE": "216471",
+  "ISIZE": "1198217",
+  "MD5SUM": "4bc1a7f09e2f076891dbfed9d76d414d",
+  "SHA256SUM": "bcceb68bc9ad2ef714d39a02ebfe98e9e9e815516b5a6cb9aee7b15932c3f783",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl756+MACgkQeGxj8zDXy5ISKA//eCZ9GlGArFsnbPDMsf9+VyDCMQizWU4UBPzOk+VBDKgsMFgfNMshvH5R6YQEXaopuPq6ajf8caDY6GsuD+mowSGlOD/ntZNULuFdy/K50DS2uRKWjjxMj/niaOtLKfg2Gr5F6JSs/0CamKpZUZd7fI62+ZcKR+9ggw8zRMtVq7u4Eg4/Pj2KmrFm/drvXFCdp8I6cpNEq5QMnitAbk9anSt8uC9x2oilqe2KlppRHrgMqNUlncsCjFD62jlGqWFu5+TpQKAYDhFUNavRRJe4UyofLxWSWr9WwKnfa4Vm/f1euFaDxLWw9eE6t1LwjrV2w/vLpZzXe4TaCc50nNMaFTwKsvrnTTd5PEtRh4Z5gA7llLPVLYElE5Gh24iNuSK/33wtQ3GjSvvWsjbJ1QQON3tH/F9VPlOAw/F6uBUrcuPsDoKHSGtqIqx8bww0dhd6gxPs7q6JYAgwVLZ6cnZ7qMXuYVo2PsP2YIUPs3nNWbTDjDfNXBMaHh/AVQBXbuif5UuGj+qd3yvZkncm9JWssAZoT4ZhVjrIamKUPRlOw0G3W5rvLFAY5hXnuRKyG8flcRv2S0TvJyziKMBjnums3f79jxvDQ4ljvS0I5zqWJ1EKb9sJuJRJVVr6fqYXbovWDwUTvWxi1bmuj2p2yoPvpWoaRpuFeUoObrP4CjDWIYY=",
+  "URL": "https://haskell-servant.readthedocs.org/",
+  "LICENSE": "BSD",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1593437084",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "ghc-libs",
+    "haskell-base-compat",
+    "haskell-aeson",
+    "haskell-base64-bytestring",
+    "haskell-http-api-data",
+    "haskell-http-media",
+    "haskell-http-types",
+    "haskell-network-uri",
+    "haskell-monad-control",
+    "haskell-network",
+    "haskell-servant",
+    "haskell-string-conversions",
+    "haskell-resourcet",
+    "haskell-tagged",
+    "haskell-transformers-base",
+    "haskell-wai",
+    "haskell-wai-app-static",
+    "haskell-warp",
+    "haskell-word8"
+  ]
+}

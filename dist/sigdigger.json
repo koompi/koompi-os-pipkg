@@ -1,0 +1,27 @@
+{
+  "FILENAME": "sigdigger-0.1.0-1-x86_64.pkg.tar.zst",
+  "NAME": "sigdigger",
+  "BASE": "sigdigger",
+  "VERSION": "0.1.0-1",
+  "DESC": "Qt-based digital signal analyzer, using Suscan core and Sigutils DSP library",
+  "CSIZE": "2050038",
+  "ISIZE": "3293248",
+  "MD5SUM": "bc7388bb9397868b9761ec158310ad0d",
+  "SHA256SUM": "ef9c2f7721a1a3828168103a2a5009c1680a66c8ca54b21d4ed992cd98f963e4",
+  "PGPSIG": "iQIzBAABCAAdFiEE0jW0leqs33gyftiw+JPGdIFqqV0FAl6Te7cACgkQ+JPGdIFqqV0B+g/8Chkdz1vINsB8UzElFQZ8jduOYYkimjnrkDdV5Z1QSKg5ZjIznivz8ZHZKkEjOMvuBWu2O+UIuwP9zXfjm7jxsP6foOHPdTALZwMz4I0N+c1SwNUNNR4b4yZkW21/zvhP1J5XYyOvs/qlLpjyv7JEIzBlQWeuJwMB/MhmjH3ciDScn7rC/437CxqZcBy0aCloIcP6ls72873L9BBmS54qMvmo6mczoOsmA7cOc3vtDSMUTEQq/I8l/Lu4BhtW5IsuXokiyRYAZ/ivADb7xHU9YDbjI7uCgrcmGDO0I75ouoSLLcE8nDObS9KzWyE83+P/yPnM9pi/fbL2v669siuA+SGwuM60b+I3uyR1vwtvvQN6bjKm+/Jl/cyo7hnFFGWE7z1gTAgyVXvOSAWKvTv9Su+smyA0OgdmexsyH510Wn7uBEVwfY4yf359EuR+gin7MXZk6FuTSJ8bxZo+fd5NYYBjJbxiQ9A2k5deXH4SvI+YOS31am+nC14hVBvgxWVVQZ+BUNRcZ2/njNZvc2AjhkvDwkS0voXAmLIcZ4cG4zW11/dg5A/zE39EjVY45NyBXUyk+OdU4UwoV0BrxZrWLgODRJWEI7l6NRdTu3nlsKMnur8v0mJrMbGAxOo3T9tjrsWPPNX9Yha8wzNZ5zFXJJYZccOppJXkVY7kQA+B/Uk=",
+  "URL": "https://github.com/BatchDrake/SigDigger",
+  "LICENSE": "GPL3",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1586722239",
+  "PACKAGER": "Filipe Laíns <lains@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "qt5-base",
+    "sigutils",
+    "suscan",
+    "suwidgets",
+    "alsa-lib"
+  ]
+}

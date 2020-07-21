@@ -1,0 +1,23 @@
+{
+  "FILENAME": "ropgadget-6.3-1-any.pkg.tar.zst",
+  "NAME": "ropgadget",
+  "BASE": "ropgadget",
+  "VERSION": "6.3-1",
+  "DESC": "Search gadgets in binaries to facilitate ROP exploitation for several file formats and architectures",
+  "CSIZE": "51377",
+  "ISIZE": "283500",
+  "MD5SUM": "8e19a43ac67e52b33b3d3e996d6365fe",
+  "SHA256SUM": "93f0c7d2267729e9547bfa499a92b840f2bdb235a169037fd8da0abd911aed6a",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl6sXZwACgkQeGxj8zDXy5LDMw/+KrKl6Xzpf3WTNrxAgj5fDhJAoXrkVKsk+qQKDWH38QuxgfjHGNTvEbq5Ob5EkSzQwzKV6bD55YoZlAQlUYLd7MBpsVBpDS5JDXgWjTv26cn5WAcfxC/UO4168cJc993IJRbgVtPKwdZaIz1epFd/EDQS7RoTIZmhksez3pNaAdAumLoeeiB7D1NvjDBLgfzJAVJNcA8L0Ik8FKVmG5LJDg0MvCSf67IqT4ABuI2FOYqG66jAFFbgRLrSETCrve6a+HpsM0LdT4WnkKJ306CqrM4Sn6CGxWykMj+zT2crimTU8OmqY1/u+H38b4TcRdWoHZNqmIYSqmoFBzfYpjqB/B9iJ+Rkl7fnoRyzwbEovAlPc+aK7WXBL2SYbjozOMvxCoaefGlQaJ1QdJ8ay7x7R/prhCAkHkD393gHbe5189slyf4X5BF87k87yoAehx6WPvG6QqE+xXKx9PJvrpminqch11JZSwe/ivz5ehyOVKi+5pH6DyEXgJyi2ShhjzV21ex+GgmL6bINEi2rn7QyrS5Bfa71gF6+6V94eQIO1JtI50utSD0Wt7aFEVQDI31JlC3Pxtc9uzUkn+PVsFAhCymt+FE875rhreJg73j7G/YTGiVtq4yNWsWlEdi6ZDhjOhjf8P/zmNbQyLXKvKx3lTVbk8C9o3rLjOCkWwVMA98=",
+  "URL": "http://www.shell-storm.org/project/ROPgadget",
+  "LICENSE": "GPL2",
+  "ARCH": "any",
+  "BUILDDATE": "1588354351",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "python-capstone"
+  ]
+}

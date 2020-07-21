@@ -1,0 +1,23 @@
+{
+  "FILENAME": "firefox-i18n-zh-cn-78.0.2-1-any.pkg.tar.zst",
+  "NAME": "firefox-i18n-zh-cn",
+  "BASE": "firefox-i18n",
+  "VERSION": "78.0.2-1",
+  "DESC": "Chinese (Simplified) language pack for Firefox",
+  "CSIZE": "535051",
+  "ISIZE": "600177",
+  "MD5SUM": "556d68d30ea4a6130856849bb433d0d0",
+  "SHA256SUM": "19badd9fe4657893139d4e512d00e35bfedc38677e8405dd16995293c56db4f7",
+  "PGPSIG": "iIsEABYIADMWIQQGaHodnU+rCLUP2Ss7lKgOUKR3xwUCXwelrhUcaGVmdGlnQGFyY2hsaW51eC5vcmcACgkQO5SoDlCkd8cBCQEArBETz36pF3ThHPIaI1+uCBTrUCp9d+epaa3vtcV6nqMBAPo7etp9LO7pd04ej3X2dVi2G1xfh/kEDKM1iLH7n9ML",
+  "URL": "https://www.mozilla.org/firefox/",
+  "LICENSE": "MPL",
+  "ARCH": "any",
+  "BUILDDATE": "1594311501",
+  "PACKAGER": "Jan Alexander Steffens (heftig) <heftig@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "firefox>=78.0.2"
+  ]
+}

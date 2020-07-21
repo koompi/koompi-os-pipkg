@@ -1,0 +1,26 @@
+{
+  "FILENAME": "lib32-alsa-plugins-1.2.2-1-x86_64.pkg.tar.zst",
+  "NAME": "lib32-alsa-plugins",
+  "BASE": "lib32-alsa-plugins",
+  "VERSION": "1.2.2-1",
+  "DESC": "Additional ALSA plugins (32-bit)",
+  "CSIZE": "71209",
+  "ISIZE": "304272",
+  "MD5SUM": "afe1cc985b22ea0270c6c4e2775859fe",
+  "SHA256SUM": "b9b991f7d6ab56d7b75ab66989a4170f225ed9846c56cff77cf096df587f8f7b",
+  "PGPSIG": "iHUEABYIAB0WIQTH54SUZv4jWDQ1iDdyWHNLQcMVSQUCXk/66gAKCRByWHNLQcMVSYXAAQCwa2Wwz0CNRW5pDND4Tio2qjth+81R8ETv/sbr0ZpUCQEA8BE7hY3yN8uAXho0eYmjOw3U+uTlub5bQc9wpuRpMAg=",
+  "URL": "https://www.alsa-project.org",
+  "LICENSE": "GPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1582299639",
+  "PACKAGER": "David Runge <dvzrv@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "lib32-glibc",
+    "lib32-alsa-lib",
+    "alsa-plugins",
+    "libasound.so=2-32"
+  ]
+}

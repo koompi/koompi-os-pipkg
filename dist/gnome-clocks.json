@@ -1,0 +1,29 @@
+{
+  "FILENAME": "gnome-clocks-3.36.2-2-x86_64.pkg.tar.zst",
+  "NAME": "gnome-clocks",
+  "BASE": "gnome-clocks",
+  "VERSION": "3.36.2-2",
+  "DESC": "Clocks applications for GNOME",
+  "CSIZE": "295138",
+  "ISIZE": "1416663",
+  "MD5SUM": "1c0e09176d6a40de8fc6dd26ffcafaed",
+  "SHA256SUM": "39205818ab657271a73f9ca553ecc5f73817877b0957060214d7c1d9398e17dc",
+  "PGPSIG": "iIsEABYIADMWIQQGaHodnU+rCLUP2Ss7lKgOUKR3xwUCXwisERUcaGVmdGlnQGFyY2hsaW51eC5vcmcACgkQO5SoDlCkd8c7wgEA5QLkFZkyXl1vSIui/lrQCbOOwzTbf5k+M8nWHcG7fA0A/jcwh93Mu6oAb56/RKiwNx48Tc5uIx7m5tCyx4wgQTcD",
+  "URL": "https://wiki.gnome.org/Apps/Clocks",
+  "LICENSE": "GPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1594403339",
+  "PACKAGER": "Jan Alexander Steffens (heftig) <heftig@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "gtk3",
+    "libgweather",
+    "gnome-desktop",
+    "geoclue2",
+    "geocode-glib",
+    "gsound",
+    "libhandy"
+  ]
+}

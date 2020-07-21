@@ -1,0 +1,30 @@
+{
+  "FILENAME": "cups-filters-1.27.5-1-x86_64.pkg.tar.zst",
+  "NAME": "cups-filters",
+  "BASE": "cups-filters",
+  "VERSION": "1.27.5-1",
+  "DESC": "OpenPrinting CUPS Filters",
+  "CSIZE": "893876",
+  "ISIZE": "3151018",
+  "MD5SUM": "d71644cedc4a9572d136c257300496cb",
+  "SHA256SUM": "fbbda3a131fa975ef7cea073070b4f5c43b140540c85b01d2597147b741aedb7",
+  "PGPSIG": "iQEzBAABCAAdFiEErcih/MFeAdRTEEGelGV6sg8qCSsFAl7aXuYACgkQlGV6sg8qCSuwoQgAirj1R6DHpmVag8AhTdxboP05c8w/icPzDs3ApMX0Z8lZSzDgDt7x4ckKUtpEXWLNLoh06UpCQ9Ee79bD5wAmFR+xegG34yWixcVtHkf2qlF7eysw0jhbrSQsB9zpz94PV3s/tP9nPiHrLXdYnocVIqMEGkXc/jxmcFn+h2o0q/MBmkfPtY4vQHlnZ9pGwdVqTZkBDz+KzS+3r06hGyzc0+kYe293UXLRRXFabenDQOkgqecvBm/+0GVkkCJZEv3I99iQt+rQYz9cVpfIrO1mlypSF/scjg2yv5JMFwUtVG5Tp4gj/hji0+TBCwgFvbUR4ZltjTpCOEwUgcEOyUiomA==",
+  "URL": "https://wiki.linuxfoundation.org/openprinting/cups-filters",
+  "LICENSE": "custom",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1591369142",
+  "PACKAGER": "Andreas Radke <andyrtr@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "lcms2",
+    "poppler",
+    "qpdf",
+    "imagemagick",
+    "liblouis",
+    "ijs",
+    "libcups>=2.2.6-2",
+    "systemd"
+  ]
+}

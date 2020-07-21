@@ -1,0 +1,25 @@
+{
+  "FILENAME": "python-cairocffi-1.1.0-3-any.pkg.tar.xz",
+  "NAME": "python-cairocffi",
+  "BASE": "python-cairocffi",
+  "VERSION": "1.1.0-3",
+  "DESC": "cairocffi is a CFFI-based drop-in replacement for Pycairo, a set of Python bindings and object-oriented API for cairo.",
+  "CSIZE": "119628",
+  "ISIZE": "1146810",
+  "MD5SUM": "dcbc5d78e58dcbd1164c09796c7ca1aa",
+  "SHA256SUM": "c7fbef592a49ee33b668a74d569b05f280b4d545338abe86507cb907f64307a2",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl2+x4IACgkQeGxj8zDXy5KBbhAAiEsthco32tZJkZm85CKb/I3Kn4X8jDK4hVjfOibf9VVmh+jmp/w6OPzAib6vnvySIYHAiMdZYZhXbggFwWjt7uYukJhof+/K5cgui2g6GadHSEeniJtmIQwv5IC2xZ/fVdygUbbN2IH8ce4+3c2Mc+v+2PU4MRKaCKSr3nXGJ25zxmnpsTd7TpDbWOHocvaAH1YR3QH9dt1V3n/5VcAF88wrQAmcRXGKRzW3YthAyryUhymIRajgM3skmFsvhyhwPnA14zOUKOAEs9nBhLdTHipqbKRvdRzGVBRZbo9DqVYas6T/r9DD/HN0d4xKzBBU/spmKXwKqAfqYbawvwdT/GAlivqHJ6Vjv9tBx4WKqDUILtTyesdNZnOg28Gvb7OrsgXgwZiOOJBxtkHr9rUZtLQvYaA5CllzYH1FwgnNMdZTtmC+M9Rpe32+ozzOg7tizLgJYR5WzA8S+FYyWDk5hUPL33PLZGxO7YlBKylFsCLi4rEiMQCk7g4O0sa5EQy7vE8FSl+9SnYfNmyfkdNMFfZ+3L0qmkeLivrXliVFoOy9qsZzjLQYZKFg20A4TeoESKj8OErTGZDJNAbVYt5suQrdVEnc7Q9gwALwx9eaJSoUKZaim5LaoM6lzQSvMrrTxacond5myxnfSzV0JVBEgsX4SfX1OyLk2NNSHUqMZ2Y=",
+  "URL": "https://cairocffi.readthedocs.io/",
+  "LICENSE": "BSD",
+  "ARCH": "any",
+  "BUILDDATE": "1572783917",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "python-cffi",
+    "cairo",
+    "python-xcffib"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "FILENAME": "m4rie-20200125-1-x86_64.pkg.tar.zst",
+  "NAME": "m4rie",
+  "BASE": "m4rie",
+  "VERSION": "20200125-1",
+  "DESC": "Algorithms for linear algebra over F_2^e",
+  "CSIZE": "171086",
+  "ISIZE": "717394",
+  "MD5SUM": "e99ca653c94d1165451d83fa4b4c5c5f",
+  "SHA256SUM": "45308488930e9d2ccebcb2c71504a69978d62ce89efb9228fb10d30ef7a63ee9",
+  "PGPSIG": "iQEzBAABCAAdFiEEFRnVq6Zb9vwrc8dWek52CV2KUuQFAl4wYN4ACgkQek52CV2KUuQauQf5AbKsLhWiMe59QE0b24S73HBnNLMQt++n3e8zKgmaLXn1jSEAUw265+GDifcRKsrtSwfnbuMCR8symf1I5/VWxaj0/v8xlVkX7KfSUWohO0Q+ZIWRhSGe6kdXThCt1eU/eI/fziZtvDmmYBqRYnABcelwsuY4V9pTE+xSJQ9oPJ3p4WUjKfYJ+3z6s4p8hhPE3+YXK1u1PifSxVTn1QY4pO6N8wJwSThcfmsohZ8TsmIzMyIPhkLVsOwnsdRBlW4IqSeYJZxXlruv702VpMb/KIlc6bdxOnxGb61u5HD6O65GZpYU6Yc9nGMaE44zG3xtEgOUPKmjysoniaxneLr2Cg==",
+  "URL": "https://bitbucket.org/malb/m4rie",
+  "LICENSE": "GPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1580217955",
+  "PACKAGER": "Antonio Rojas <arojas@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "m4ri"
+  ]
+}

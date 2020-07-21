@@ -1,0 +1,24 @@
+{
+  "FILENAME": "libgda-postgres-5.2.9-4-x86_64.pkg.tar.zst",
+  "NAME": "libgda-postgres",
+  "BASE": "libgda",
+  "VERSION": "5.2.9-4",
+  "DESC": "libgda provider for PostgreSQL",
+  "CSIZE": "166239",
+  "ISIZE": "1629387",
+  "MD5SUM": "55092d2d581410f7b98679a55257ee71",
+  "SHA256SUM": "0588061c5cafc04cb600ca86f0f8110b4eae797baf3e66a37b853a86e25d30ac",
+  "PGPSIG": "iQEzBAABCAAdFiEErcih/MFeAdRTEEGelGV6sg8qCSsFAl7dChQACgkQlGV6sg8qCSvCSAf/di7YElAaXUG40woiq18VKudXEeWEAb320gTfBPF8VRSOqyzhLoSk+w/yJ2nGotzCKot56x7WKi48oIpa2n8OC8xzEi6KyDPpT3MefQWKfxP9ZymIVhlUPSz/cX5rdgBGrLg3M37+yC+Qex5W2zKqtgvEdFMM+s559NPvOEQFJU+q5paIxXMDGE4hW36YlDgLRQwma03XTGejEBJCIraxRCATotlpovk+92KdXmOtdnQi35LUcJXtGSOJ9LwQg5TgH+Lo4/aJ69jTu6oTz/1C2T/dFWaM7aD3x7zcACxar0897VLBYNS015bMqy87twY7jDBW4X+/hrpPdqpvG5ub2w==",
+  "URL": "https://www.gnome-db.org/",
+  "LICENSE": "GPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1591543362",
+  "PACKAGER": "Andreas Radke <andyrtr@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "libgda",
+    "postgresql-libs"
+  ]
+}

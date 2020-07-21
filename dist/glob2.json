@@ -1,0 +1,33 @@
+{
+  "FILENAME": "glob2-0.9.4.4-39-x86_64.pkg.tar.zst",
+  "NAME": "glob2",
+  "BASE": "glob2",
+  "VERSION": "0.9.4.4-39",
+  "DESC": "An innovative Real-Time Strategy game which reduces micro-management by automatically assigning tasks to units",
+  "CSIZE": "10790532",
+  "ISIZE": "29552415",
+  "MD5SUM": "7bc588c3e8dec2181c905066e27ced42",
+  "SHA256SUM": "146ba6e1e3730ade6f77df06c2641f7cca8da3e45e28c0b5319f0b58b6d18d08",
+  "PGPSIG": "iQEzBAABCAAdFiEEhs/8qRjPOvRxR1iAUeixSKmZnDQFAl4vuI4ACgkQUeixSKmZnDRU1AgApy9a14xPIY8OKI9nePs6muPeFv5jjJdlhNv/6aMBo4obTXGGJbXSuV7xUrMdQ59h/rDD0BXNV8eKUrAmhILmXjxBLANKNdFiRxq4Lwmzexn7pueqOISKyi4Uzaai4LJcMi8UXZ0dmVAqWvuQuEaGMsv50qu4ZgjQg4lvKBYCP8J3OPh4S1QQZb+H57iHjkej2Tv64a1K/uNov9fpWjqkpWaZvm14kqy/MNc1sw4/7cekAmxEEoqDgUx0Z1QRQ3vNO7h9rWddD+rkStV2Ku8dY19W1uAWS9hjcl28Kb7yveuvDAI02315W9o4g9P9/iZPLZt/ERaXOZEhx9amGRqAtw==",
+  "URL": "https://www.globulation2.org/",
+  "LICENSE": "GPL3",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1580185231",
+  "PACKAGER": "Evangelos Foutras <evangelos@foutrelis.com>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "boost-libs",
+    "sdl_net",
+    "sdl_image",
+    "sdl_ttf",
+    "libvorbis",
+    "speex",
+    "glu",
+    "fribidi",
+    "xdg-utils",
+    "libgl",
+    "hicolor-icon-theme"
+  ]
+}

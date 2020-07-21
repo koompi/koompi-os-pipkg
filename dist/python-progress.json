@@ -1,0 +1,23 @@
+{
+  "FILENAME": "python-progress-1.5-3-any.pkg.tar.xz",
+  "NAME": "python-progress",
+  "BASE": "python-progress",
+  "VERSION": "1.5-3",
+  "DESC": "Easy to use progress bars for Python",
+  "CSIZE": "11768",
+  "ISIZE": "38595",
+  "MD5SUM": "9459d960e91f80ad63e586d4a31de858",
+  "SHA256SUM": "4128d9d160db6deec61d7679b471ac1a8151e5ad6a55db0448a95ecd41941134",
+  "PGPSIG": "iQEzBAABCAAdFiEEhs/8qRjPOvRxR1iAUeixSKmZnDQFAl27ED4ACgkQUeixSKmZnDSPvgf+ItTqtVCC7H1MxkyQFWOr7gbfmGLu/k/Aj2ThVWfgCKn/P0kh5RJUqobv4gTII/RD8GcPi7iE5PHDvcjLI7ZYqyQS+iKk9TS4JqhDK7Rsh9miYDHdy263heUw0DNOgyEpZe4y46mQWgNP75v0IGwssyz76lFMHK1g+/snPOMF077doyCQPALjeAX4K2qsanSEqc1fHaq5bw7pjVvB86IZp9AWHN7e40+LVAzYAdBSMvLPSlzL/aUiTh63UGnFvakh0PhA0/Pa342oVyBeOOq4eL4CxLajjaNBHWIfhNQ+WZgdDsKbSqDvT/sm81pQEk1mY1HaMHTBNnDgnQpcVmLZwQ==",
+  "URL": "https://github.com/verigak/progress",
+  "LICENSE": "ISC",
+  "ARCH": "any",
+  "BUILDDATE": "1572540395",
+  "PACKAGER": "Evangelos Foutras <evangelos@foutrelis.com>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "python"
+  ]
+}

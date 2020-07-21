@@ -1,0 +1,25 @@
+{
+  "FILENAME": "kactivities-5.72.0-1-x86_64.pkg.tar.zst",
+  "NAME": "kactivities",
+  "BASE": "kactivities",
+  "VERSION": "5.72.0-1",
+  "DESC": "Core components for the KDE's Activities",
+  "CSIZE": "322285",
+  "ISIZE": "781720",
+  "MD5SUM": "0186ce22576f6baa8c09ea5dadb44621",
+  "SHA256SUM": "9f728bc6e879a04106bcd98c94aee0ecc325a318003c5ed24dd891bb5816b686",
+  "PGPSIG": "iQEzBAABCAAdFiEEFRnVq6Zb9vwrc8dWek52CV2KUuQFAl8JYPcACgkQek52CV2KUuQUmggApfzsQFHuVFZ3t5V+ck0m/UzZ/43/nIX0PSesLSct3nHqNtNlP8GBiOOC9lmbpgUyZ5jr8YzS/mVwPnK6mD/b9g/NaUU4PpN024TybKo8pRcHJl/w9h+kYEb0+sDr2a7aFw1dXXADXiaVfmLsEY5ogcLecvnioaof/8cMKI6qmHFJm362cFmuMYg9fKOj7kON45nHUNrlP9CAhbpSXcQEvxCwo+8sDuXH29u5wgWkypN+ZD25cpe1SZlSEOeX/ZO8uZBpBDANV2fJZ3zyvOMqbckCfsVPfr0jG1gn3zh8+SuU9lMrHQZsvkm1Ucb9U00C6aSaefYCqpQ4wpDtPYzn9g==",
+  "URL": "https://community.kde.org/Frameworks",
+  "LICENSE": "LGPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1594202241",
+  "PACKAGER": "Antonio Rojas <arojas@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "kcoreaddons",
+    "kconfig",
+    "kwindowsystem"
+  ]
+}

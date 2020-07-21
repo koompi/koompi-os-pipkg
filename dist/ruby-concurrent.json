@@ -1,0 +1,23 @@
+{
+  "FILENAME": "ruby-concurrent-1.1.6-1-any.pkg.tar.zst",
+  "NAME": "ruby-concurrent",
+  "BASE": "ruby-concurrent",
+  "VERSION": "1.1.6-1",
+  "DESC": "Modern concurrency tools including agents, futures, promises, thread pools, actors, supervisors, and more.",
+  "CSIZE": "499522",
+  "ISIZE": "2097158",
+  "MD5SUM": "b5c417694691fffb66086fde0b6010dd",
+  "SHA256SUM": "1777020b9c25bf2bd708947e6fded219bac5c774ecd2b370e3a39330be7c07d4",
+  "PGPSIG": "iQIzBAABCgAdFiEEba97gI+d8lE5YgAA0hRh49/iBg0FAl5RFjIACgkQ0hRh49/iBg2fhw//Sup5cD9iu/GsJtJ9eNqS8w3Kh2j8ZLFfTyR9GpgJqxherJvyXCX2yeeUVufr7KtSKc388LoaDrUhYnl7YLNHHwaWhyjwNu6Op7MIOj0hutLduJiDXIMU9kFGg3/GfNvitAGUr+Y0uytdnTmkRhWkgYnobBylHhGZ7JjsC0ZoZHPxlykqyDISbia04AbtWQvV8PLFzCnd5RVzGNGCBto8dz3B4comt2pB+LT1a1zVRIN7ulMZETgzuWSjiwgeoDiVEdtFbNPfc+sht/PjtKSHSY/myf7fahGLWbzSPWWOJefL1W6xIb0n1aSN+o19XRgvlfG8vtthIy29tzQGzZ+8Cg8zduAQ457dQLYSV4J11+jS0uZApRePZPZuMnHbEVQrSo6FTJBVUXc9+moBMpet2fVAFxdIChTefiqe2//8BjjjsIVSRYma+SgDId9ibiK1bIt2UuXiFuDsTA2m8YGKj81j6S/feJfoWDiYxHpaq6bydXxacmM9oQm5nRJIvgo1taiEkPqiJt3HlwuMmD1ybdwbAuJo7sOA9/Y8GoxXloTkE3w/p3EnVjgt+xhRMDsi5jXsDMWBro6MU+k58miqdBvF1Eaea0IURAhDhLs3nFie2lz/Xp1cMubmonejf7d/8lubLBu+Hb9bVXArobKQAakl3C3fFooAMfcK6lEoJIY=",
+  "URL": "https://github.com/ruby-concurrency/concurrent-ruby",
+  "LICENSE": "MIT",
+  "ARCH": "any",
+  "BUILDDATE": "1582372310",
+  "PACKAGER": "Christian Rebischke <Chris.Rebischke@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "ruby"
+  ]
+}

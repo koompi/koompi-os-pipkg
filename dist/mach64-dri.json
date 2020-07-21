@@ -1,0 +1,25 @@
+{
+  "FILENAME": "mach64-dri-7.11.2-10-x86_64.pkg.tar.xz",
+  "NAME": "mach64-dri",
+  "BASE": "mesa-dri1",
+  "VERSION": "7.11.2-10",
+  "DESC": "Mesa DRI drivers for ATI Mach64",
+  "CSIZE": "942868",
+  "ISIZE": "3597312",
+  "MD5SUM": "637443fc03bcb5190aa0d855f9897088",
+  "SHA256SUM": "3dc3e1eddf9ff60bd050d9a04e8816920a7d775c75a221dd7bbb4632e76ea393",
+  "PGPSIG": "iQEzBAABCAAdFiEEFRnVq6Zb9vwrc8dWek52CV2KUuQFAlsbA4sACgkQek52CV2KUuT9LAf/XOtRczjzSmQMImX3NvIR79zsiCepijLCZ54WisttF57IUMpM9r/leLVo0jFtw/r1ZBb2wrryKKoZsuGHe8RMn5C3pIuTlA38sc4LkidFLPPaS0TkFWFTW35i3v9dfpmMLkRnNjKBFUEupZGrii8CuGSnzj3wJk/pZRYZ7eBYBUagBaDy/sUKVhzvPX5h/9ValZwB5KlYFmM3dsXbYGWVJ7YMX454lGmIul02UrBQnaaN+Z2jcDm4ZzMnh8vdWsfLUS/s7OOTeY9VTpMTkJovDmzSA+jnaiNKeD2rh1+m61jwbbRWwqkAVRvuQ+8ltMaY4aYym/59cjqZs+bEkS/Scg==",
+  "URL": "http://mesa3d.sourceforge.net",
+  "LICENSE": "custom",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1528496842",
+  "PACKAGER": "Antonio Rojas <arojas@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "expat",
+    "libdrm",
+    "gcc-libs"
+  ]
+}

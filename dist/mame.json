@@ -1,0 +1,30 @@
+{
+  "FILENAME": "mame-0.222-1-x86_64.pkg.tar.zst",
+  "NAME": "mame",
+  "BASE": "mame",
+  "VERSION": "0.222-1",
+  "DESC": "A port of the popular Multiple Arcade Machine Emulator using SDL with OpenGL support.",
+  "CSIZE": "79284092",
+  "ISIZE": "407155983",
+  "MD5SUM": "722cafe1e2996258bafd79394ef1a308",
+  "SHA256SUM": "607fdd93dd1419cefc93d91615981455c7e7a7dd07eb8c691cccad13ee6e9a4b",
+  "PGPSIG": "iQEzBAABCAAdFiEEFRnVq6Zb9vwrc8dWek52CV2KUuQFAl71oAkACgkQek52CV2KUuQsfgf9E+C56h6aBWMYu/b5XOyD9KvVPX7heIMkCN2CNNYTqH1YfK6hykTAOY0DdzFuXJaBXTYEd5ObqZVS6xk0Re5gb+pJJE4eoi8s5p98JtLrQfl2dXf2ckncnsTIQ1badR6n21K3je7nJRGb99LEPwbAX2ZXWEBuXpWKv2xXQZdgzfmFncWRgA34b0NiyCBdxd6CU5zDBHGiRiE8N7mWW+I750d5bz4goxXTVgvosmXTF7XeoYxJxFYIqHTvhUL7HuS9eRt8byHfiM6gS/jTs4xkfH+MQFNGAv3CFnoAmhBwPXOsjxDZM2EePVpOzS5Gll9MTGs2STCLedhCRS3ZYvDCJQ==",
+  "URL": "https://mamedev.org/",
+  "LICENSE": "GPL2",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1593154143",
+  "PACKAGER": "Antonio Rojas <arojas@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "sdl2_ttf",
+    "qt5-base",
+    "lua",
+    "libutf8proc",
+    "pugixml",
+    "portmidi",
+    "portaudio",
+    "flac"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "FILENAME": "haskell-path-pieces-0.2.1-23-x86_64.pkg.tar.zst",
+  "NAME": "haskell-path-pieces",
+  "BASE": "haskell-path-pieces",
+  "VERSION": "0.2.1-23",
+  "DESC": "Components of paths",
+  "CSIZE": "29896",
+  "ISIZE": "126844",
+  "MD5SUM": "537ee722148cfd24adbe9a425afef561",
+  "SHA256SUM": "ac14f0f18800b15fa1179f3d69814ca31dce413ae8fbb59406f1144c8f10c7b5",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl6hn/EACgkQeGxj8zDXy5LuMg/9HvWy8KDdO5LElFHR88Ab0aXE7P8B94/37Bj/dRqtxTDohe2eUIgTvwYOwQ7weGojV4cYmwO0KDAzlJvXtY8FO562hOHmLqtYrniyVMD+rtpQMKzAgqEpYdk8aNLQls87bMOEhkW5MmSCxBVvqKT0TZ2kXwBkmfIhfRlObXdgCW0kD+7DaOWZZfiyiKeXaHBp993JFDKk1npuoLFOIQGm3DqEIkUl1svTh5GEYpnatGZRxRaj6XlgKXdV+A56WdzXD8nfiWyyN6wWyAAkKjflMYTioja+YdidDolwnw9UnafTeS6OfalQDnZc/b2/iukLEqAugxD9mOij47peoh1iv0yGp0bvbqpE7FyNvy+7TrhDPjAslzJPzx1afG//0fz6HE7dVZ6pPDtDspmEBaNNetZicVHyiPLKULZha0MGtEhcgXu5q5gB0S+SUHzr7LBb9R5yt82Qsp/2+CU6Og+gJGaphlD9Xvzib6bAEAebpuFx6RjYCtp7/S176UtfBt5rc3pG2dprS+mjNxsUyouTu4FcPv5OVW/pShSUQ0s7g9IVKRdMaCRLXGrZmYTX/DwhKiLMAHwelpWny77hwLJVvE82BNryhfqkHMjxy4FFRwl1g0kFfhru8a0d9WRFwOTd2kXKoh8SSjoTbX6coIfIId6h6yZ1PgrDuQlIHU6UFOg=",
+  "URL": "https://hackage.haskell.org/package/path-pieces",
+  "LICENSE": "BSD",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1587650458",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "ghc-libs"
+  ]
+}

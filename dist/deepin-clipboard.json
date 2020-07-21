@@ -1,0 +1,24 @@
+{
+  "FILENAME": "deepin-clipboard-5.0.0.4-2-x86_64.pkg.tar.zst",
+  "NAME": "deepin-clipboard",
+  "BASE": "deepin-clipboard",
+  "VERSION": "5.0.0.4-2",
+  "DESC": "DDE clipboard manager component",
+  "CSIZE": "117421",
+  "ISIZE": "371584",
+  "MD5SUM": "8367a75fa4fc0b8b5db1c1b225196062",
+  "SHA256SUM": "31810a41d10d26a7194834a21d45d83158985df336f234783edf13522df2fd15",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl8I4JMACgkQeGxj8zDXy5LCcA//friZDjgUVDsUwYtpvLJqB2saWZ0WUEInZjWNadh4+E5OUTF7nnWx5INwQPvS7hCd3memV9cZzrm6tLac8NKmssku115jSrT6n+CNWPPPC7/lG7h8opdgzryXp4XG/WhGwm5aKesx9+hXfqtoVimnrIeZLJSq2JAyGS78s5TJ0RiTsH/zj2pv8GEDsTyA7uIPQc2SbhBrOVs4UFJfgkbhsQ5B2YtjR0xOSESnshUhC8NaytyXXe2/ILyS+ttkHhkI7z2djtSHzTj8eCL8fu+2yxsNgOQYRLK5t8oVdvwPAnJpa4AKseHPkhDq0xzn0AcdN4Ak+P7Kfm7g1Bn2ZitdiKIen0HKOVeV3E4LdaXa33joGP28LQSt/kPRgIfu0x8S9bsYlK5bFF5fvghSzrBaa71c9yBOipKx1vsgx8F+gOgMEZdOIF1gq4NeG7x4rkVT6Sf9mLXMcDZV1fZAkCuHxXb8oX9xk2Hn2uOjOf49BEDYyrwzS0sFJlYSUBPYIFArk+5+RVM5vyjEVR08d3Vf0P0Of019Vfa+lVOyhirk793k8oajZQnElEpjTYV7O3o+SuXoI0Adsqdaq16KEAz9ULo57enxk5fSzaeVNebMaFqFvaxUwKK66afdWLidjs1gZkd46CxKHz2qXsMcWa9KSaXwBVyNw9C6hauXsfzuWlw=",
+  "URL": "https://github.com/linuxdeepin/dde-clipboard",
+  "LICENSE": "GPL3",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1594417256",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "deepin-qt5integration",
+    "gio-qt"
+  ]
+}

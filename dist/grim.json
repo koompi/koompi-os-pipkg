@@ -1,0 +1,26 @@
+{
+  "FILENAME": "grim-1.3.0-1-x86_64.pkg.tar.zst",
+  "NAME": "grim",
+  "BASE": "grim",
+  "VERSION": "1.3.0-1",
+  "DESC": "Screenshot utility for Wayland",
+  "CSIZE": "14262",
+  "ISIZE": "32720",
+  "MD5SUM": "51a0d913e301d7c7e112ba6c0d9f1a8a",
+  "SHA256SUM": "6ac66f9d0586c8f50a55283545a7e2a34ec60edbee6cab6a8b98c22372720fcd",
+  "PGPSIG": "iQEzBAABCAAdFiEElihV8HLHoBhGQFhk/PPIy1z5yNQFAl4gcNcACgkQ/PPIy1z5yNTh8wf9G4D/AqwmUIFi/VNirFK1irGGPUUKBkqrtrbaWgWDXJJ3EcLLNnC9AINpfWkhJGHhYXLyeCf6eSEKxjX57qkNifwFWxyrsrWBGUg9Q4IFphq+7977BjC5NeQLINDyt0TMd/sq7VKHcMt34UUyYuBXX9hfKkzIEMTedy7o8/xPD0RUM3y0stLPkFJXxvh1x8QuL3ZmrCgR62bOGZTDW6kbwEXmw1a1Qv4iZo7t4DYhO+X+XMfC7AwhZgeezmI0voRwvigzH7rg1xkJnpNZtI11ULNgN/iV7lraXvalM1IL+hMzTf23fYCMTMcllS7lqqevtgHErRLEDN3A95b2NTWLjQ==",
+  "URL": "https://github.com/emersion/grim",
+  "LICENSE": "MIT",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1579183937",
+  "PACKAGER": "Alexander Rødseth <rodseth@gmail.com>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "libjpeg-turbo",
+    "pango",
+    "wayland",
+    "wayland-protocols"
+  ]
+}

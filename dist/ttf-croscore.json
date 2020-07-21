@@ -1,0 +1,23 @@
+{
+  "FILENAME": "ttf-croscore-20190926-4-any.pkg.tar.zst",
+  "NAME": "ttf-croscore",
+  "BASE": "noto-fonts",
+  "VERSION": "20190926-4",
+  "DESC": "Chrome OS core fonts",
+  "CSIZE": "2368369",
+  "ISIZE": "6033489",
+  "MD5SUM": "05f062e9fc1097c3e8b5869e7c5904ff",
+  "SHA256SUM": "d06f8e16c913f0b784a7ec41df3845a10fbbdf3a4e2ff3699cab465daca77367",
+  "PGPSIG": "iQEzBAABCAAdFiEEFRnVq6Zb9vwrc8dWek52CV2KUuQFAl4aFo8ACgkQek52CV2KUuS88gf/TqCGJ0EK5oJMVqtGaExd0agM1qIP0r2y5KioSbgWZtA8wCK45d96Z/GNZvROw59kMU+K6wKkHRK3BxB73hhzmaNEPblB6bKpKyleFVH7/v9xrhZlqZKNBCq3DhvN58PM6lrdLs8r8s9oXxbckMHRn/ocupTagJUo4nRm3/CwhR632/O7+LSRG6IF70GoSqzi1EP2FOHrkKaVH+xkpmIVeOhlg4YxM9+lDMBD/4P7ER/eg3YvtR05ff+2a4ztowK8JooueUZgofvba+FJiX8TPiDspSL5cOTU6epYn8o0PZ5M4w9IsLXWRvOXdo4acNzlhUK/mpuEeSa5b8jRzNBspw==",
+  "URL": "https://www.google.com/get/noto/",
+  "LICENSE": "custom:SIL",
+  "ARCH": "any",
+  "BUILDDATE": "1578767568",
+  "PACKAGER": "Antonio Rojas <arojas@archlinux.org>",
+  "PROVIDES": [
+    "ttf-font"
+  ],
+  "DEPENDS": [
+    ""
+  ]
+}

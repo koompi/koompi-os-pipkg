@@ -1,0 +1,23 @@
+{
+  "FILENAME": "libanjuta-3.34.0-4-x86_64.pkg.tar.zst",
+  "NAME": "libanjuta",
+  "BASE": "anjuta",
+  "VERSION": "3.34.0-4",
+  "DESC": "Anjuta runtime library",
+  "CSIZE": "445426",
+  "ISIZE": "4055535",
+  "MD5SUM": "c591ce693128b1d3506195aeb3bba90a",
+  "SHA256SUM": "74a25332670d35aa78b01d2fc9ef17f35be6cb63d89b5694c7a22dff87837903",
+  "PGPSIG": "iQEzBAABCAAdFiEEghj4iEmqxSLpTPRwpekojE+kFfoFAl6zO1sACgkQpekojE+kFfoqSQgAnvRg12+rKtBE75WAoir574JKWOyc3g1FpL1eVbDvD/hi7t0mVAMbbQYPoUyQkrNT/meSgOCTWB/SPbK7ZaMKPoh2tiOYzCIy5HloCRjR0vdesv+i3ik0y3ftyU7m5MKJhgUYpLgdQoqJvlXEUExrC/yTzwQpxq9//cltw3dsAJwiXxX1OUlZjYQ1o9GU2LPmU4Oq9rOzCkhXJqWcb16zQOOfGqPWmOKdf2Thp5Rosfwm54OhERHIl5MC5OLXjAVvpz95knaD3+VUMl17nv1brl6loQScbQP/zUyadvP8eXGj7ZT9abi+Dbg4iSoYCS02VwYWVDTfMVCkLNVNvF/LRw==",
+  "URL": "http://www.anjuta.org/",
+  "LICENSE": "GPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1588804057",
+  "PACKAGER": "Jan Alexander Steffens (heftig) <jan.steffens@gmail.com>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "gdl"
+  ]
+}

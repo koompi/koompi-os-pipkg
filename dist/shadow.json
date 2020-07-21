@@ -1,0 +1,26 @@
+{
+  "FILENAME": "shadow-4.8.1-1-x86_64.pkg.tar.zst",
+  "NAME": "shadow",
+  "BASE": "shadow",
+  "VERSION": "4.8.1-1",
+  "DESC": "Password and account management tool suite with support for shadow files and PAM",
+  "CSIZE": "1199288",
+  "ISIZE": "3925443",
+  "MD5SUM": "45acff0ced7590ea734850b1e2faedf4",
+  "SHA256SUM": "fb2f1782b825cf3232821c6eae093963ddad6e8a49cbe0adb94dbec9315b77d9",
+  "PGPSIG": "iQEzBAABCAAdFiEESH6swIVXrQggiNq6HrJjj/VsDFMFAl45ZKUACgkQHrJjj/VsDFNVIgf/esYtZ+21u0JYIqvjwfAkFbKY6i8ofqMitdDFQTmjhn8sikECnlrew2aF+zEELkhMBTBSfqzwLQrPgcpCuVnUfICcrGVTYOT2hj+XZH9/csng/I5I2/WKtfTBHxT9wg0ipJ+GOzmI4aZG6xWOMpw2y8N5OZv3v7WPcm4w8WTd6MckC61nhGowA3UNI3j6uO4Ar62wXdU3YX7aKIjTyGgvpsyRIlWdKBMP6T18FyRRhu1SSi1KAmvacrW6n/bt5XNEmegJj5V546lEoIvwXLRXwkXyN8RFfoI4vk5chAzM2X8BSwQUQWl5/hhST5bhfZs8grC19uJxSoZLt6y2sibfhg==",
+  "URL": "https://github.com/shadow-maint/shadow",
+  "LICENSE": "BSD",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1580819472",
+  "PACKAGER": "Dave Reisner <dreisner@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "pam",
+    "acl",
+    "audit",
+    "libaudit.so=1-64"
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "FILENAME": "python-rdflib-5.0.0-1-any.pkg.tar.zst",
+  "NAME": "python-rdflib",
+  "BASE": "python-rdflib",
+  "VERSION": "5.0.0-1",
+  "DESC": "A Python library for working with RDF, a simple yet powerful language for representing information",
+  "CSIZE": "410874",
+  "ISIZE": "2466371",
+  "MD5SUM": "ecd9294842916b0a59a9dd18611d0c28",
+  "SHA256SUM": "cf6ec95f0308013834118d55a332657ae05185a329284dc302041ca460e7d9d9",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl6iHC8ACgkQeGxj8zDXy5JfXA//X7niErzwI7n9fwel5lbM9uf/N8FU4XGmdMOVNDZcfST3TsLdSFEtOvbVn+8J0qFRGd1O7M/VUB56nVgZgE0bDSJ1DQySj/ya0cnWdzzyNqy8nuQLxXsokopyPJIuGGd+Ha6s0c2CcgHX8D6h9KWA55rybVvND2ceEen8GNodnXx5ltXPlFSADEJQA57oIjgFID8Vx12MpEreDN/upWCvmRr9IDXWU8l30cHdLgRd+G36QfaKEZHExaAMVmYbsVecLIwEMBwJqakhxnqDwXORsobmJxXqJ6BL+bOskU0aJ+B6vrIP5pa/ifXQWKjETFiXj4Cb3rBwlJ67qhdd3dIIvV0rvQfn2GfXmZsEo9fabvlQ7McGFGTDgYdoMPwKt9j8Zu8nKoVQsSHZfxS0LQU3i5BQS0CTyPUSz2pdJwFdd08COlIrzU615hypVZORLqrhEmAIDcW9GaClSj4RdBzMgHFPRWAA9oTn8r1IwxiYQ9QeRDSmV4HBgmZXYB6XTpi3kRs4YU+7LlRLnbA6VjMdCKm60KdLb5bnfWmR2Iev8i0Q2fQW0cMc1wtHDmKg81akWmw89twfdajNUcJPupg1qyvRCV+1zUtSvx5/k1pJjclrL1EdLx8lZkqJOG95vaey/RZzauwD7IssVtP+ESChgQFNkLq8VijDmL0HmnXsDKc=",
+  "URL": "http://rdflib.net/",
+  "LICENSE": "BSD",
+  "ARCH": "any",
+  "BUILDDATE": "1587682263",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "python-isodate",
+    "python-pyparsing"
+  ]
+}

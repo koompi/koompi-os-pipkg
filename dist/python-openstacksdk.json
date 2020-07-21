@@ -1,0 +1,38 @@
+{
+  "FILENAME": "python-openstacksdk-0.48.0-1-any.pkg.tar.zst",
+  "NAME": "python-openstacksdk",
+  "BASE": "python-openstacksdk",
+  "VERSION": "0.48.0-1",
+  "DESC": "An SDK for building applications to work with OpenStack",
+  "CSIZE": "1469260",
+  "ISIZE": "12819035",
+  "MD5SUM": "85debf7d44b6d50213f5abae71e36f1a",
+  "SHA256SUM": "2a55cc881f26338c9d136c6bc7a4a3bd7535c7efb150c6d26c50214d396c10ec",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl76M4UACgkQeGxj8zDXy5LmWBAAlwgp8et7yuK+IEmz5wXCeNpn9u38DiTBooxuf1BnMW7XnCvChFvWy7xEHmzC/SQ5mB8Y00Xuiz0858XJ+ok5fgsxCPds2F8qzVNi8Hc7fSvAZv3uQPO4aimf+XvMXlPjfcT5ebZNwHyrClynx4Xf7q6pcCnxT66sH/N8s9YFX3xGrHMo0v390soqlfQuc8pqAwVXIrWX2SbP23oyXml1sPtZ6dyN3M+hISWdTx/9uITEBA4I/u9Ts7hFvYUhFQ9mX8TQws2VrTjv4GGzXvGmGcPQfbT6kWKEhzWGcZofI/K+pEDkaz1oyBczeLr6a9kfVfyeIrr+dDa5ZVw2xjO2F2C51pKbe9HD1+QD54sFM3YV1Iyp2lNVzzLAKqpAMNiCyjKOi3pIOWHyGIKGICwnJ//98s6WWFXm7B/CTiNlSuWuA5CcUx1khxtBtOaWi2C7p3HG/A8EkxoUuQK0o5PmQLZYmZZk+0nqGV4BwDGIF0I44aCXAVnFqzC5w6SPYwXfcPKwtqfpPiSphZS5PWTYiqOHGtxR8lfTmgpTHpD1iT9lj3YFj7xgk3tufNviw/XOzC86hg2D+OvMYOPQcFnCY6GpDzWcJQczzuzftJEgUJxGuHE7y1zUTdQqZg9lJcL7/RFGT7UHotzxa6rtoIfho2/iLVr/im478jPiQI6chyY=",
+  "URL": "https://developer.openstack.org/sdks/python/openstacksdk",
+  "LICENSE": "Apache",
+  "ARCH": "any",
+  "BUILDDATE": "1593455295",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "python-six",
+    "python-pbr",
+    "python-yaml",
+    "python-jsonpatch",
+    "python-appdirs",
+    "python-keystoneauth1",
+    "python-os-service-types",
+    "python-deprecation",
+    "python-requestsexceptions",
+    "python-decorator",
+    "python-jmespath",
+    "python-iso8601",
+    "python-netifaces",
+    "python-dogpile.cache",
+    "python-munch",
+    "python-cryptography"
+  ]
+}

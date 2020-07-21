@@ -1,0 +1,23 @@
+{
+  "FILENAME": "python-flufl.i18n-2.0.2-2-any.pkg.tar.zst",
+  "NAME": "python-flufl.i18n",
+  "BASE": "python-flufl.i18n",
+  "VERSION": "2.0.2-2",
+  "DESC": "A high level API for internationalization",
+  "CSIZE": "30495",
+  "ISIZE": "105870",
+  "MD5SUM": "995aeb263ff2902eaaee5aabd390e3cc",
+  "SHA256SUM": "c45a5a8d8f44176f1eff16052e05c37aa834b66de1545a5727e4051ee25935e6",
+  "PGPSIG": "iHUEABYIAB0WIQTH54SUZv4jWDQ1iDdyWHNLQcMVSQUCXhjwCQAKCRByWHNLQcMVSXu0AQDfEkl4gy76DxY+RHsljVsm01SdPAhyg4MEn9TlDbs8MAD/dzpNWsBfqzBbDW0FqNBn+tu3uvqBcMd2djJ6W7UtXA8=",
+  "URL": "https://flufli18n.readthedocs.io/en/latest/",
+  "LICENSE": "Apache",
+  "ARCH": "any",
+  "BUILDDATE": "1578692500",
+  "PACKAGER": "David Runge <dvzrv@archlinux.org>",
+  "PROVIDES": [
+    "python-flufl-i18n"
+  ],
+  "DEPENDS": [
+    "python-atpublic"
+  ]
+}

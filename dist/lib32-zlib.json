@@ -1,0 +1,24 @@
+{
+  "FILENAME": "lib32-zlib-1.2.11-2-x86_64.pkg.tar.xz",
+  "NAME": "lib32-zlib",
+  "BASE": "lib32-zlib",
+  "VERSION": "1.2.11-2",
+  "DESC": "Compression library implementing the deflate compression method found in gzip and PKZIP (32-bit)",
+  "CSIZE": "47648",
+  "ISIZE": "100352",
+  "MD5SUM": "a1c232bbf6000aa7a8f97272f4965aec",
+  "SHA256SUM": "9c08b48f4bb33eb96046cb178fc311c0b3ea9061973b966be96c8b04b30a029e",
+  "PGPSIG": "iQEzBAABCAAdFiEEhs/8qRjPOvRxR1iAUeixSKmZnDQFAlvmJtwACgkQUeixSKmZnDTfcgf/Yhe7rmWoxX1DijdadkVHmO4YsESNSlL1dtC5OTyItGRezfBOFzcjvt+mGaoxui8kAWs3/t2pMaN+DC3OU85m0PMBbmMEmMGYQIulBoO7dDBp6+xd6J+J764lFsLq1EqxUgaECQ3OrDpQpYZ3D5EzlNbMW9lJN3oeMg+RaStIlMns5m4GVxo81H2fqHdrvhGkAmrb7sDS9ksJYKwOyY0ujfNshtRKGeN2U6O8nK57iIUNzpCbp+Fr5nxQi70n1Hdh3J6bAAQGmxKyEvOXsJHeQbxVqawr+4ERIQmUCA4gz/i3kB0Hn4oVMsZSkreX+D+K5Eg51/sUJqqSz2ql8nGd1Q==",
+  "URL": "http://www.zlib.net/",
+  "LICENSE": "custom",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1541809869",
+  "PACKAGER": "Evangelos Foutras <evangelos@foutrelis.com>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "lib32-glibc",
+    "zlib"
+  ]
+}

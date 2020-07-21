@@ -1,0 +1,23 @@
+{
+  "FILENAME": "firefox-i18n-oc-78.0.2-1-any.pkg.tar.zst",
+  "NAME": "firefox-i18n-oc",
+  "BASE": "firefox-i18n",
+  "VERSION": "78.0.2-1",
+  "DESC": "Occitan language pack for Firefox",
+  "CSIZE": "514175",
+  "ISIZE": "576253",
+  "MD5SUM": "ebe7ce766fc893ecf0fc6415f8a72ebc",
+  "SHA256SUM": "24be3ce29f12c5146a5e1948c76f25a615e0ade7887896054c3614446214a124",
+  "PGPSIG": "iIsEABYIADMWIQQGaHodnU+rCLUP2Ss7lKgOUKR3xwUCXwelqRUcaGVmdGlnQGFyY2hsaW51eC5vcmcACgkQO5SoDlCkd8fXPQD8D1EHiEpkViKrWPQNH8U+FAxybMk77dmd1d2VHugLVb8BAP4gfzSAquqifsNrb1DRC1YWKdILNODfO8rfP60Ki+4N",
+  "URL": "https://www.mozilla.org/firefox/",
+  "LICENSE": "MPL",
+  "ARCH": "any",
+  "BUILDDATE": "1594311501",
+  "PACKAGER": "Jan Alexander Steffens (heftig) <heftig@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "firefox>=78.0.2"
+  ]
+}

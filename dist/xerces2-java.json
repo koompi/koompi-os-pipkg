@@ -1,0 +1,24 @@
+{
+  "FILENAME": "xerces2-java-2.12.1-1-any.pkg.tar.zst",
+  "NAME": "xerces2-java",
+  "BASE": "xerces2-java",
+  "VERSION": "2.12.1-1",
+  "DESC": "High performance fully compliant Java XML parser",
+  "CSIZE": "1625978",
+  "ISIZE": "1885324",
+  "MD5SUM": "5fa0b25936fb1bc40142bf9ed0de4e12",
+  "SHA256SUM": "d67fe96967672f8c449e452202d7909b06e9a7b7a5a3074eed2850a8c8cdeb77",
+  "PGPSIG": "iQEzBAABCAAdFiEEFRnVq6Zb9vwrc8dWek52CV2KUuQFAl71yLIACgkQek52CV2KUuQXIwgAl+BMdZY9mSzJ4j+QjsE7bv3Wrxx8UIj1y2lMWTOlqDiY/wbjjdlAS0QrkC4BkSRVpxG52ITZtcXBE6twcnCrY3rCJo+c2uaVUI2maOB4PlSVm1b54aDSPNxVpLOsJDm8T5XKFnyqTmywH+18opVVPKARXu/lGTsaYjTyTwFG7ZL6I2ZFpCkeJUc4Zw7OrCJxsMh962WS9HxXviNNEJpWYFi4ZEB87SsHXB6ftG3FbGF4CNvsDwPKrYhsrw7MamT2+onoa9Ljel5yXeOALhHirSIOUrJM71gG02OA7b9cw5WHHESVpD8ET7kyzsbokyF9U8RY+lRRQ8mgtPydo5RqzA==",
+  "URL": "https://xml.apache.org/xerces2-j",
+  "LICENSE": "APACHE",
+  "ARCH": "any",
+  "BUILDDATE": "1593165969",
+  "PACKAGER": "Antonio Rojas <arojas@archlinux.org>",
+  "PROVIDES": [
+    "java-xerces2=2.12.1"
+  ],
+  "DEPENDS": [
+    "java-runtime",
+    "java-resolver"
+  ]
+}

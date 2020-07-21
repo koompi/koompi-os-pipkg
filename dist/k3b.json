@@ -1,0 +1,32 @@
+{
+  "FILENAME": "k3b-1:20.04.3-1-x86_64.pkg.tar.zst",
+  "NAME": "k3b",
+  "BASE": "k3b",
+  "VERSION": "1:20.04.3-1",
+  "DESC": "Feature-rich and easy to handle CD burning application",
+  "CSIZE": "11319030",
+  "ISIZE": "32957726",
+  "MD5SUM": "c48b5d68c8e809a676efcf83e8355d8f",
+  "SHA256SUM": "cfb6c3eed707dc0719cfcfdbd35e30d2bf4aab75d2b7f36cd4402b0c96c52c05",
+  "PGPSIG": "iQEzBAABCAAdFiEEFRnVq6Zb9vwrc8dWek52CV2KUuQFAl8HBs0ACgkQek52CV2KUuQVzQf8CLG6bBCytDscX9bnkRZETZd/pB3ZeN8UsDaSeeRVyknuQx89SVHXv/96X9WpkBrXV5+hLwfdavzKrD3xDnWEOOQC1+5rDH0CSKrxvziVAbA9401J+xUZk/bGjuIvoean4R7v3aqloYyTTL6t6FiJ0OuwScXv+4h1rmGSgI9GZckrEvIwbXHeK+iS24hcbuvhYwxmVsAG57eo0bC2bPSGG9/2BnWTP0/KFCxu8WfWTdV40fHiwRuD3Chff7tHBSadvbl4f7aC8ib8rD6iLApFT5H02vGZAPU/km8mX7qWchYdGp+oqZUzRK4UcIQWibwmQroJer0gU0+jYlTnAEDxGw==",
+  "URL": "https://userbase.kde.org/K3b",
+  "LICENSE": "GPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1594110422",
+  "PACKAGER": "Antonio Rojas <arojas@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "libkcddb",
+    "kcmutils",
+    "knotifyconfig",
+    "libmad",
+    "kfilemetadata",
+    "knewstuff",
+    "libmpcdec",
+    "libdvdread",
+    "libburn",
+    "qt5-webkit"
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "FILENAME": "python-pytest-flake8-1.0.6-1-any.pkg.tar.zst",
+  "NAME": "python-pytest-flake8",
+  "BASE": "python-pytest-flake8",
+  "VERSION": "1.0.6-1",
+  "DESC": "pytest plugin to check FLAKE8 requirements",
+  "CSIZE": "11598",
+  "ISIZE": "28885",
+  "MD5SUM": "ea8d2a6aacff3602a1c155d54b59f80c",
+  "SHA256SUM": "701261ae35aaacc895d9ff0e0b435388a26d9452ae7428817eb22bff4a5ae144",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl68R2oACgkQeGxj8zDXy5IqKRAAuDSt6EUNV2FR/lChSlhgV1cd5wOqQyNNislEGb938G+Q6K0J6F8V+jTmzH4m+r+zO4etaxLebxlU8H4H90lBd3SI9IqQfRfXSNaslRtu7A05jRGbhPDHSr5b0KvZ3mHqDvQEWkUQdnN63lzsF3c2JzhzEeTiW7a/TvjyT9EVa0YjNEK2dgkePFLtX09VKZy7R000qQpNuRbX1Jx37o3E9JjwQaEmHZc1r3Ngg+DoNrVg3EWsNXWGX3tJbAafge4y/3oSIPU4YRHvjTgDHFmTjg15qHT8VOn5KK0wVZhbXEKPAv40i7zSahAgm00nfrCRcWquUd1Y7aTGimvpZzfPStwA41zfAXJAHBxpchFqsfMjQNpyi4WiuNGBmjP+UET53vQpw1SF0cIwb/mnFES04iFJhyH3TeRdu375QIr/LPKHplckF1+kTclpUGWY36fWCS39i2JdRmCQ/RGKfe+jY/92thnIleh6hNR2iW8P7ZHCBAhBPEBmuHx5CPLo1LmKtMQNTiv+FLiHjKbeLF9Itz3qF25hqiy5Hg27jbUZaT1hzyqwJLNRYoUVKgxNLvaWYrBQ3nxgIErSoxuhJYAfiQh6xyreG4E0ZlJ3vVo+ptrzN6Z+6+F6S7muWAmQm5xbYDmOq2pe82QEWzn/Ua4jJdyiWuMjUszsrn9hWI/5yWk=",
+  "URL": "https://github.com/tholo/pytest-flake8",
+  "LICENSE": "MIT",
+  "ARCH": "any",
+  "BUILDDATE": "1589397319",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "python-pytest",
+    "flake8"
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "FILENAME": "mariadb-libs-10.4.13-1-x86_64.pkg.tar.zst",
+  "NAME": "mariadb-libs",
+  "BASE": "mariadb",
+  "VERSION": "10.4.13-1",
+  "DESC": "MariaDB libraries",
+  "CSIZE": "5743280",
+  "ISIZE": "23130822",
+  "MD5SUM": "dbaa7bc3308736b74eab582258c6ced4",
+  "SHA256SUM": "8f24caa03d89131348caa6dfb117d270416374b4549279d841acb0500a76bdcd",
+  "PGPSIG": "iIQEABYIACwWIQQEKYl95fO9rFN6MGltQr3RFuAGjwUCXrpBMg4cYXJjaEBld29ybS5kZQAKCRBtQr3RFuAGj5TKAQCT0I493EJ2CBkeqo/mjGtbKothD8jwHv5sCHuiNsvKZwD/cnUUC6U+Jm3+5qrvYP9hEkRsKeSp2xCU9BT5vtOv1Qk=",
+  "URL": "https://mariadb.org/",
+  "LICENSE": "GPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1589264170",
+  "PACKAGER": "Christian Hesse <arch@eworm.de>",
+  "PROVIDES": [
+    "libmariadbclient",
+    "mariadb-connector-c"
+  ],
+  "DEPENDS": [
+    "bzip2",
+    "libaio",
+    "lz4",
+    "lzo",
+    "openssl",
+    "xz",
+    "zlib"
+  ]
+}

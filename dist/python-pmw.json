@@ -1,0 +1,24 @@
+{
+  "FILENAME": "python-pmw-2.0.1-5-any.pkg.tar.xz",
+  "NAME": "python-pmw",
+  "BASE": "python-pmw",
+  "VERSION": "2.0.1-5",
+  "DESC": "A toolkit for high-level compound widgets in Python using the Tkinter module",
+  "CSIZE": "487424",
+  "ISIZE": "2154822",
+  "MD5SUM": "c584b8e1cf3e275526cbd9fd7a24627d",
+  "SHA256SUM": "cbf5901235348209b9ad1125d8d85e63d8035cc286572d8e26558ac1f8403ae5",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl2/wQgACgkQeGxj8zDXy5JGLxAAj2hCgZ2ofm5a08+cvPeFCItowZRsCCqqYtDG/O/9GL9luUsn+UdZ8CInmLeUuTrOq/GTqCssoNMca5Jzh3I+/34WAslMkk/cr0PuAE9n6Csaxr6LSBN5A3TryY08ygs6W60J/vc5sW/hN4xXv0vv/TcLZfjG8KaFFemBUiI5pNOm2t5fnOv71iW7T/TEd4tma/u7buxiPfBqatjWNYvsCWblajB4+A1LnAWWh68hMb4UDEhQmltGMHcX5+dZU4FXBlfkNQ3AbwwdjcJ93p1RkN2vZ0iUEsYmu05u4jAHxmJ8Z8pidOA9iYiiOlmeunM5ObRcqYosD6f48RWL3lT7jLRzCbDlF/ukGXb48Qe8TAM6CbZk8IxgqYCIpqCyUsNGGw9FQ5O6Qmrwk3SM7zkONpcuLwDEn42eFFgxmV30D6+Zd98o8HLMgekFduBT4TrQkFz1Aubdm50tlh1KFNsmpQ+zOXCZxvmzDqrTkuXXA2/HAPgcABkTBq9p0DY7KiCiJK4iYKKCTqQxIkfaMGMRH7/+yne7xQzW3VXqsU9gOxekrIL+P4QnPAIop7lSogVKNrmBMDJyqf6OtzX0wz50qsuDyBd+xgFUXRIgaUhJQw1eQzSAJrjjPzM1rVAO96g1cdCzjzC1N92hweSAkQHxSjluS40lfcXJpn3yfxk6Lyc=",
+  "URL": "http://pmw.sourceforge.net/",
+  "LICENSE": "MIT",
+  "ARCH": "any",
+  "BUILDDATE": "1572847812",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "python",
+    "tk"
+  ]
+}

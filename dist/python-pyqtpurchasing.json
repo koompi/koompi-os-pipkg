@@ -1,0 +1,24 @@
+{
+  "FILENAME": "python-pyqtpurchasing-5.15.0-1-x86_64.pkg.tar.zst",
+  "NAME": "python-pyqtpurchasing",
+  "BASE": "pyqtpurchasing",
+  "VERSION": "5.15.0-1",
+  "DESC": "Python bindings for QtPurchasing",
+  "CSIZE": "16566",
+  "ISIZE": "52146",
+  "MD5SUM": "6aa3b3b57b23f192a04ce026aa68951b",
+  "SHA256SUM": "f2a6d0c59128ad5f9e59b3b110dda5c81cb96cb3b76e6c4802e290a19f1bfe3d",
+  "PGPSIG": "iQEzBAABCAAdFiEEFRnVq6Zb9vwrc8dWek52CV2KUuQFAl7U61gACgkQek52CV2KUuQJUwgAhBM6aICodTE4BLyl+jqDARDcVGeX2x2XPu7cHH+IuwMHm5rYgYGc3V1EkIUH97AWnSzWqocqUtClMqo0oqy6vmMJa9JE3rpjdjYXVUoQHRFDLoovlKPJg19ReIVH1xs5n1kB06QoCmUProNBcrUnxOkxS/2igc/v6wylvZHTpzBSB94K0eH48OtvuXoe6x6avtjmh209YvhtTQ4Iqv21ZJhiFdMCt315sOy0jtvxoLntJxN4jYiP+/dgiEimbWXSnVwN0rC4gqf92boOvALz6VhEt4uz2437/Ga7wBv7+QJijbDatf91E8HPVB4OnTAXlRw8migEDsboesy2MoKt/w==",
+  "URL": "https://www.riverbankcomputing.com/software/pyqtpurchasing/intro",
+  "LICENSE": "GPL3",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1591012131",
+  "PACKAGER": "Antonio Rojas <arojas@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "qt5-purchasing",
+    "python-pyqt5"
+  ]
+}

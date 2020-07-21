@@ -1,0 +1,24 @@
+{
+  "FILENAME": "lockfile-progs-0.1.18-2-x86_64.pkg.tar.zst",
+  "NAME": "lockfile-progs",
+  "BASE": "lockfile-progs",
+  "VERSION": "0.1.18-2",
+  "DESC": "programs for locking and unlocking files and mailboxes",
+  "CSIZE": "8745",
+  "ISIZE": "113672",
+  "MD5SUM": "1fc6231bf0be914d5b771206c8b72058",
+  "SHA256SUM": "ff0f2a113fb0f89b30fa7820f76d1cf917a75ae714b080a51fbb49197e6cd861",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl8Ea0MACgkQeGxj8zDXy5KPphAAsCKYACz0yCVVkygt2sPekWXUss3cLWbMQYW/YjCGNctF33IQe/657iLSAyMYDuuyk3aVgQLg810Yng5ejWzOI1VU8s6SmXeKaBv9EM/LIvwQFsORTRFw8Tu/RCJEBIJBa4j8wa5jt90ukmWWYbZzaQF/ImT+ia5xFijLpDKFNiuPHwAaiVu6LdKAUR0l44Ch3PABmlRb8xmSuqcWkQOyYNCthrM1Abb0IdeP55A0I0fR1XjIVN1qHIE6qDgic9dDwRVSCD1Yvd6nk+093Ymq2RSkcLKmlBDKvls1mbpE3nGBd8LYxNKjyCBCVBT04XR0RlFGz3io9W5+deqrwaJJWSNBLI69g2D3TtJucpfT03eMoV9SnUxby+011eGLSCQelE8g1jy0rDk0/iVWcuzK8Y82j7sHQURn7+dLtWsVp9vB/JkjBBA/sBzJzdufX/ObT03fo6M3jlO3Sb9jz9tx1Y9WcCHRab7tIcCfC5DiwFIsCmOJa40Rh4LRZgD7p7hMqt0RQq6hdFxFvXqhPrgVZY/j1r/4s5s7D/gr/0xeU3vEPgkJO2U4Admpmtpti+Rbwv0z5ccS3ljAfhgW4sOVuSQDmS5MTnjJuGR2Dhjrv2hdqb3HOLbXjtaGXkPYsVpYLYpHs/JbdRJNV6N85yMN1Dg1Fmy1d9qEgNBogzu9xNE=",
+  "URL": "https://packages.debian.org/unstable/misc/lockfile-progs",
+  "LICENSE": "GPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1594125106",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "glibc",
+    "liblockfile"
+  ]
+}

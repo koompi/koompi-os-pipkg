@@ -1,0 +1,25 @@
+{
+  "FILENAME": "python-scikit-learn-0.23.1-1-x86_64.pkg.tar.xz",
+  "NAME": "python-scikit-learn",
+  "BASE": "python-scikit-learn",
+  "VERSION": "0.23.1-1",
+  "DESC": "A set of python modules for machine learning and data mining",
+  "CSIZE": "5413724",
+  "ISIZE": "32514473",
+  "MD5SUM": "d1aa5b77441e7a78bc528f68004ec81f",
+  "SHA256SUM": "bfd733877f1a647c5ef94810c9412dab17c9e1dd047fc59e76d16ff85f113783",
+  "PGPSIG": "iQEzBAABCAAdFiEEcXAmqdR3n8U5QHJmQPVXtzFJYQYFAl7GjFQACgkQQPVXtzFJYQZcfAgAjTY+/4ls7EAwRgdsSt4gVRkYeORtJ9V82rO3zBc5TsUHgiWc2v5/6iXLmavtDA+yb/1hJhVTqoIEeuzrOyJOjP3RXBTmijgYqU9lMWGX79QSsl3tgJbu9z5z3gKQYuFjj+untkeajIT+QJq/QIWSg+Kkn34v5YuyPHQnfL5yahk0oPwBj9ipIwJAaFGTZeYe/X9Aew4b2TK3fEL20TSIimM0KWK1MSIKx9830PysoTzdlXNyY3usSHTxgqycEy7PKe3BEYICshQ/4bFvET5GZoPVfeDunPqO/qJ9WHxtvRNRSwEDZAYWPkuXvcn7w/QfK2Ar/nTz6GY9qH/qe+PjOA==",
+  "URL": "http://scikit-learn.sourceforge.net/",
+  "LICENSE": "BSD",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1590069795",
+  "PACKAGER": "Andrzej Giniewicz <gginiu@gmail.com>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "python-scipy",
+    "python-joblib",
+    "python-threadpoolctl"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "FILENAME": "libreoffice-still-te-6.3.6-1-any.pkg.tar.zst",
+  "NAME": "libreoffice-still-te",
+  "BASE": "libreoffice-still-i18n",
+  "VERSION": "6.3.6-1",
+  "DESC": "Telugu language pack for LibreOffice still",
+  "CSIZE": "431402",
+  "ISIZE": "2501987",
+  "MD5SUM": "603af1ef6f3dc188d640e430395abe51",
+  "SHA256SUM": "ebd18cce470b3e99cb4e3422c2c2ef90850ed79e977750d8f3ff38e904624461",
+  "PGPSIG": "iQEzBAABCAAdFiEErcih/MFeAdRTEEGelGV6sg8qCSsFAl6tSvcACgkQlGV6sg8qCStfDgf+PoUyr8flyewTKr3TcYxAOt0k6yaka1GccIf7QlXnsgyhuU/tSJHuOAWKZMTlc/RHF2fPl1JFOqUUVBK6k2WywJVr6rR5rxFiokHH/QTpS8keVodYZ4oAd06tsardC02W4t9JcAobpWSmGdF06qecduxluGNIM0RwG0l9rKIKnAWkFdl6yPqr37BD3sqll4XRP63tKTnR+EdGBbgJRi2RAtjtvQUgUcLwUcFXpfS/3Psg80iPnQgZoNjDijeT9wfLAwAPAMSXrvZEDw8EgKCpdSkxIKalA96Gomm0ss8EpOnaFl7PMtHkfbu5AzP5H+6WM7q2SJEho9lRh3JlVKBIFw==",
+  "URL": "https://www.documentfoundation.org",
+  "LICENSE": "LGPL",
+  "ARCH": "any",
+  "BUILDDATE": "1588407321",
+  "PACKAGER": "Andreas Radke <andyrtr@archlinux.org>",
+  "PROVIDES": [
+    "libreoffice-te"
+  ],
+  "DEPENDS": [
+    "libreoffice-still"
+  ]
+}

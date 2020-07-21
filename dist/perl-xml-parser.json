@@ -1,0 +1,24 @@
+{
+  "FILENAME": "perl-xml-parser-2.46-2-x86_64.pkg.tar.zst",
+  "NAME": "perl-xml-parser",
+  "BASE": "perl-xml-parser",
+  "VERSION": "2.46-2",
+  "DESC": "Expat-based XML parser module for perl",
+  "CSIZE": "167187",
+  "ISIZE": "455405",
+  "MD5SUM": "953522f5fdb92d1bfc084f2b20a58406",
+  "SHA256SUM": "5c124e4d941e6f8fde7b5066760e80e324b3a2df5da721f190a384e8c97aa498",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl7vdYEACgkQeGxj8zDXy5IpzRAAizlX3LpMGyCgLC/bcHFISHqLUmtzBtwUMgWRfs/S8n4QnXplrx6cENQva5SBa5R/jFwElaOsaOjgTv3c1VRsCl96wDs/dZ1ibNeQYOev8xvIV7K6/GLba8WN+QxM7fq22BNHL0uYK9ClB7M17X/aUHzEaJ7JGx+xUUXCv0cn2d2LpMgwKUYaeEH2FzXrhSliv5o3BxCtfdJcOfDUjp5bD4jVaBMtGi3Kl02JlJ3pp4YoBdS18ZP0L1rK74SjbDXAJ+cbJ18nz1WvmSRdwcck1jWXTXGkLwAriSpcNRt1HVGCglTpOJrGQiWAWb8GxPCoqVYszHAXIFYwcooPqDtSlFBBT4q8R2Rih0pmIm6IyxG30JfIWTgFjSyJwzovHh6EjZ7VYVEoQuxX7Lij2NnrdmPdTEiaAgaR+JEQxxD1iQxJwim4lmr+8GRRjRXjXdcEJPTezS6ADBmDfqC0jnUpIaeshDLGTWloZBEnixIqxSN1iCq8b9WmDnC1QiKC1S2bqAfWhMYdtQa4drRL7tm/9io69zek+BtCv5aQVGDA5QUhmfoLQmKkI2NbM1PgKHBkGqJBHV3a6L2pIJaV1oQ7/9wtVtK2wcc0bBPTmlZkqdHtqH5+NrJvVIV/nicCzugwAXxaLosp9aRmyyzRlmld+2A7pUEzLXupR0aIoCyqfv4=",
+  "URL": "https://search.cpan.org/dist/XML-Parser/",
+  "LICENSE": "GPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1592751454",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "perl-libwww",
+    "expat"
+  ]
+}

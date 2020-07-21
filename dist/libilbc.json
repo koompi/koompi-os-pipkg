@@ -1,0 +1,23 @@
+{
+  "FILENAME": "libilbc-2.0.2-5-x86_64.pkg.tar.zst",
+  "NAME": "libilbc",
+  "BASE": "libilbc",
+  "VERSION": "2.0.2-5",
+  "DESC": "A friendly copy of the iLBC codec from the WebRTC project",
+  "CSIZE": "57322",
+  "ISIZE": "109308",
+  "MD5SUM": "0a0d0b7c25521603bdfc991d6c573a51",
+  "SHA256SUM": "dc96b3983cfe4d9c9c4063be7535aa2bd3b010eb9867a3394af32c0fa2c6a679",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl8EpLwACgkQeGxj8zDXy5K2dxAAsu+BvHTy/fN0yJ0ooJG5CZOSqxR8FaQ8gLcFI/BDc6fQCULCqJCTn6Vh5YEEQ+9A8hrDPJ6dHmr+emT89Ut7k96Pq2QhhJr9V1E8rOoOC0PkXs+acrfQemf/ox6+f9ESZYQ3qtjd/CD7rLCFXh2b0HIV3/SRgHGmFf3W/AGkLruSK/qBowWvV1fyF9pABaUfJQS/7q4HH9+Cifrb6imWqHvDFBfaTkmGsZChbIBQKe5QYpV2hBTTaJn4W04fTC7X1F1btOlrpYMb9ZqIPNlnXSwulF8/c2n4izjpFwI/IVz07NbL2dNddO/pDhevaoj3sIeu43H2IGaMXSDLqjuzCY3xt+vHyHD3mrcBAQnZS9tjN4B2JAbxQVWoXdPfvzpsttcBp8N5ZDo7ZlCxS+40CTFMkAqG9fD07S1AtjONQGscxLvFkoBK1nx+mUsCrx54mCzrqcYh29R8JC/3g3TRfKsUENYyNTAFBrFKsh9qha4PHd0BDSEn/QwnB0l3TYCZwFXK+Ixd0GV0eWv0oKBTGd1svcEzh1GAl9askTE+VK9yqxizRWMWfbuUxCUwPmfrdZJAzoJX4wULgpAyIebymGGz+Hd2prViGOY2TwCJfi/wxxrzYJCaL5d5prdBSX/vAwGjTakcvaVN6mKnllfjSmIW6X2t89jOzovU+eqJpak=",
+  "URL": "https://github.com/TimothyGu/libilbc/",
+  "LICENSE": "BSD",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1594139813",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "glibc"
+  ]
+}

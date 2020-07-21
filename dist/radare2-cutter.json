@@ -1,0 +1,34 @@
+{
+  "FILENAME": "radare2-cutter-1:1.10.3-2-x86_64.pkg.tar.zst",
+  "NAME": "radare2-cutter",
+  "BASE": "radare2-cutter",
+  "VERSION": "1:1.10.3-2",
+  "DESC": "Qt and C++ GUI for radare2 reverse engineering framework",
+  "CSIZE": "2265299",
+  "ISIZE": "5263355",
+  "MD5SUM": "3d6706f3642370e2b0111d8992bc9281",
+  "SHA256SUM": "d63b828aae11b442efdad525cdc57e86be40c9ed11866689a92bd49be35a4cb0",
+  "PGPSIG": "iQEzBAABCAAdFiEEFRnVq6Zb9vwrc8dWek52CV2KUuQFAl7OdM0ACgkQek52CV2KUuTqSwf8Cao9CfWHfOwIc0gFDTT0lk3H0/6/uRn2hYNQQ9fwe0NxfSHik+37kTcwtmAB+SoZBUGLGf+iO0wpwSbCVH+k9c0RpDZor6oCoy4Njb6fiWBeo1oiKU7MFr5w2vsfovQyEua/v/DSbAJ9Q7d8Y/A2gcpH7Un4w8UK/uEpA2Oik7NAHBHNOqr/xWAOlID20XQFaUuxiLYKCJNMmLDb4M8K6+X0I88YZCS+Qgzm0DAUduNu36yR5zC2K5Z/O8XBxMglOiBaXZmAmuCyidBJ8oQvvR6ZhSePOTvn9SYwSIocIHo0BDhxApnS6hH0wy1BwmlVjXVNJECMvQCfb6E+l5KWQw==",
+  "URL": "https://github.com/radareorg/cutter",
+  "LICENSE": "GPL3",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1590588469",
+  "PACKAGER": "Antonio Rojas <arojas@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "radare2",
+    "capstone",
+    "qt5-base",
+    "qt5-svg",
+    "qt5-webengine",
+    "icu",
+    "python",
+    "jupyter",
+    "pyside2",
+    "python-shiboken2",
+    "graphviz",
+    "gcc-libs"
+  ]
+}

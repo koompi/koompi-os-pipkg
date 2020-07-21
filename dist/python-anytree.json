@@ -1,0 +1,23 @@
+{
+  "FILENAME": "python-anytree-2.8.0-1-any.pkg.tar.zst",
+  "NAME": "python-anytree",
+  "BASE": "python-anytree",
+  "VERSION": "2.8.0-1",
+  "DESC": "Powerful and Lightweight Python Tree Data Structure",
+  "CSIZE": "46732",
+  "ISIZE": "324816",
+  "MD5SUM": "106f7efe1f35dfe00c5c3760a5253db2",
+  "SHA256SUM": "75846ef7877a13dc1f344beee4636b2b2e24fc8865c9cbc2092d1054d03ab13a",
+  "PGPSIG": "iQEzBAABCAAdFiEEghj4iEmqxSLpTPRwpekojE+kFfoFAl4fIt0ACgkQpekojE+kFfo48QgAt9AcxsCXmZ7U7gYUn0HWmiYT2M24re0zU2KucP+l8+Eu0WAQsl7dZl5ntaJUj6nBKgaKYLX0heItV1nNBiiI36Kqza7NPjCb0creqSPX21TSrRl+DYNZE2XrLzRra588cx5NdbY+Y/NauciF9oBZToyK7zgyH3dV3OPQTAHM8n+v6JIePU1u6qKW9s0TUwa5Nh4KsVpPL9oyDMwsH/oqt+laPV7TgOlS0YTHdm6JTZLl2LSlPRe9EfttyBzGKvI+H7Sq8UO+X9QM2uX6Rk9jDI9LzKTXGIAM7LJu7+zDqkNApGn4Cq9PFgoqma5LMlnqxb8WczceaezBlav632kFnA==",
+  "URL": "https://anytree.readthedocs.io/",
+  "LICENSE": "Apache",
+  "ARCH": "any",
+  "BUILDDATE": "1579092280",
+  "PACKAGER": "Jan Alexander Steffens (heftig) <jan.steffens@gmail.com>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "python-six"
+  ]
+}

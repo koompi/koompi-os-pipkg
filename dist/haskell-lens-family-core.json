@@ -1,0 +1,23 @@
+{
+  "FILENAME": "haskell-lens-family-core-2.1.0-2-x86_64.pkg.tar.zst",
+  "NAME": "haskell-lens-family-core",
+  "BASE": "haskell-lens-family-core",
+  "VERSION": "2.1.0-2",
+  "DESC": "Haskell 2022 Lens Families",
+  "CSIZE": "73778",
+  "ISIZE": "393138",
+  "MD5SUM": "9a54660e50a9898166b7c630a40e559a",
+  "SHA256SUM": "9057adb0a2f0db5c9092195fb0b6672cb39f748af504a8d58bb287053aa1222c",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl6hhMgACgkQeGxj8zDXy5L0gQ//XHTn2SzLI9YHVkL2THky6ep6zstWyTgK2Jaimqqccy00GcEOnZ7uQVpO9H0byiZxwhxUuSjTf2oq5fyq1PCs2JX+l8bNDutUXaUEv3iX+PvwSBaaSv6t6rjcCiiT4x6IrioGGQQ48mLmPOAtU0AfgbJh2k2m9BuZ7TKua7vAd2HAWJNWyYV7J8oFW5mmWffADuv4kDPFp+EjwxtcPIPyQkIc+pAh3goobjchTPyq+ZY8vf9bSbkFQfr8kLU5EfFL56fe9Uzz34OJHVZ2X0TrS64aqZhJ3UFVwoyDcamU/dIjUAr1rCpwUxMm8+YfiOkhfC8fZiiQYiZRuJ2p6sJq1m4bSkLbhn52NtWl8HvcZZHs1DgMDIsgSh4HGngrtuvLeYA/S+0R2F3KRUPPBp1n2AN5pO/W6YqT454R2cMsPAI3c7217/ukZWHT5txUeR4CPQxCN90bCow70VlltmPKUB3yTIX4IOZdzSZmogXz9sY6UomiydWK7D3WfGUiIkZqGb8LaDAn5DUogNz/gqauIiOsrZTiO8n65uwTZf1UnrPiH2fUVlXUVd+H6STZe6/bI12GPEIUqavI27KqjCKuIp74dK3kTdH2MErKtQz/rjOQqbAAS6PdasD77OEL0BMlvOomvSC/Fj/EPoG5n2rMCOKGP3lKPmrRcRG6CW189WE=",
+  "URL": "https://hub.darcs.net/roconnor/lens-family",
+  "LICENSE": "BSD",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1587643506",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "ghc-libs"
+  ]
+}

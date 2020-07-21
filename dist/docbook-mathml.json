@@ -1,0 +1,23 @@
+{
+  "FILENAME": "docbook-mathml-1.1CR1-6-any.pkg.tar.zst",
+  "NAME": "docbook-mathml",
+  "BASE": "docbook-mathml",
+  "VERSION": "1.1CR1-6",
+  "DESC": "MathML XML scheme",
+  "CSIZE": "3866",
+  "ISIZE": "4531",
+  "MD5SUM": "01eadc61e92dea8e1d546aa823f3a925",
+  "SHA256SUM": "d354957b3e3d6e33607ce6711fe1c7e24fe9831c8d52a905e723d0cbbbb82b97",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl6/vNsACgkQeGxj8zDXy5I1WhAAr5geaqy8gm+8LVM6tEbvE/COK+paBtj/OOa9LJS2FagQ+cJJjIWHL4B53yPTCegWqXM5XJpq8PSKjKzkhzU8RKQlkX/amg+vun8cyZfA8psXb3RLRgDczsQphREMLPo4CMAlhv8CsqKgL92s3Bv8ILCYukKS3ihMqs4MdJLzxxLdO+t+K7geiY0WHzIG7dsU7fqvSA5nSfO6C5bkStaSGfYLDtmmjbE1d4O24RY2wB/IBmIAH/3UIX/VQygYGHI3tLFpYkAQNp7WeVL87AK6tf59Zl+kDTu50t0ZQAXUeDMeludxgeH9CK++N57eb/b3cGYVeRrVZVJk7klWPBVK2AkYLrKkFSVLPIH//ivIixKgp+h62A9K0YpGwiwdpn9tZfXhMEh9BliFA5phOMSE5cT47Qeg9da/LGnd+AYBZjhuQqEYxT0oUAE0wWXxAEjL6fnIdDw/0PiXiX5P0EHbyTeRlGA4bdVEGevkO+GQOl/KRlKmmciGuewZFLuFRiclQxcRdgx/KWVeIeiCHf481g0v3M4UDMoIe3mm33rWGcETySaHaqg9UbNDHlN+WVzTB8dBzDQUFUUlnKBe3bSk7nwwO1F9I5rpr+0BHGiVqzuKo1EOxW6RdVXlNOSrJNzsBS1/A025mz2qJpTRVtYZXIRXMcWDGpXOyyBOzW/LVdE=",
+  "URL": "https://www.oasis-open.org/docbook/",
+  "LICENSE": "MIT",
+  "ARCH": "any",
+  "BUILDDATE": "1589624012",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "libxml2"
+  ]
+}

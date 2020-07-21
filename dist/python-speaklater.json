@@ -1,0 +1,23 @@
+{
+  "FILENAME": "python-speaklater-1.3-7-any.pkg.tar.zst",
+  "NAME": "python-speaklater",
+  "BASE": "python-speaklater",
+  "VERSION": "1.3-7",
+  "DESC": "Implements a lazy string for python useful for use with gettext.",
+  "CSIZE": "7704",
+  "ISIZE": "17106",
+  "MD5SUM": "2c7c39c5779618fcaf2fd7ea511adf82",
+  "SHA256SUM": "41d9407efd302b33833c80c32a5337d21b0c4d6ce0fe5ef388f9783478972237",
+  "PGPSIG": "iQEzBAABCAAdFiEEFRnVq6Zb9vwrc8dWek52CV2KUuQFAl4fR9IACgkQek52CV2KUuQQpQgAkrPPxuKGH8tJCKZZOClaQ1swchHtRSGUlncIf4vybnA05s0l8oHnh5hB9HRyXJCCvyNWU8yuQ2aLjMClHb1TnSffYPN1nL2aEGSr0yeObLDuydfAvCVuqnJPQsACXwOKiUo2/3+w2i5HJaTad8ucygjv+me9bGP4qKSyEAE7qBGHQGbOEbXaKL8n6/YSl5+rSFTxlUIYR012XvkTrkY22Lie4Tb1UEpwRQaEpO7DnOdR5h/viRWdot46PzeAArSrvfKRC29UwXP5wviY7qTGlEUmozJD1yZxTJh8n8lI3ipcJDeie0ZOFYc08QC4t+fNW5lxM5rKvxPEVaiPGYM0GA==",
+  "URL": "https://pypi.python.org/pypi/speaklater",
+  "LICENSE": "BSD",
+  "ARCH": "any",
+  "BUILDDATE": "1579108262",
+  "PACKAGER": "Antonio Rojas <arojas@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "python"
+  ]
+}

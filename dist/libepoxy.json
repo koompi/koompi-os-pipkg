@@ -1,0 +1,23 @@
+{
+  "FILENAME": "libepoxy-1.5.4-2-x86_64.pkg.tar.zst",
+  "NAME": "libepoxy",
+  "BASE": "libepoxy",
+  "VERSION": "1.5.4-2",
+  "DESC": "Library handling OpenGL function pointer management",
+  "CSIZE": "457458",
+  "ISIZE": "3422990",
+  "MD5SUM": "9a05e7949a62cbfe8e17cfb457e41bd4",
+  "SHA256SUM": "6a888aff75ecc8435f3fbf35d75b107035136f304dc2f6fab0a434bed2f4ac95",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl6/ynwACgkQeGxj8zDXy5IYsQ//cUuGjg3LyMY9JzFFMh4dXi3Q+F9zTWK/rCs1h9OZ5XN0bQ75AY7VYt1g8RBNcmYOXtdpVzU+v2QHDuAWPaQCrSdTA0ri9zr8Ov2pWKFc6k8++dP3PF4SftN/LodT9pvi1x9nHZqOB3rQJx5/Tz0h2IScKik2RYQWQ3GovocHbBmBYaUGONSSd1iM9z9C5jd/NC/bfc+B0EwOyiflcA1tUkeAVFuxtwjvTl3iv6wOgHxtp/NljSUMnV+H9z85VRlHm0fjgEpmFJ5KObN/14qTlJOsig6ULBtk/7lv6ILMvLzN8Xvut3i5CrmIeBnlLUGOyNt6wPNV3opu9tMspha5Bbyr9bMAYsIyRbIGJdRtHvFepVLn3qMIQyFJTa8nmzWyV0NBC4dRQYwFWz9xwkozb9BRHc9AQwxa3kz08BkouFYZdSoxgYEs2talsD+zEnNUyYN/hM4YnjW4ys/jlqpe3xwVyQ9kIhxOHhVwdeEYX5hzlXaKQ1ADANv12ygx2NFwbRVUExO0sj04I24nWHaHwwG/2vyjyEL8cwxX1rQrtY1SdInc7cC+AxLq5t+ib5W3NhfPy9uDh8OOkJzL0DXm0Vjr74lFnbDTGbXjmGqnWx9JNXP327ZQlJXUyVAic8MBAeFJ123gxtcPrDSbc8EdMP2sm55QKzbZjyp6MgsstC8=",
+  "URL": "https://github.com/anholt/libepoxy",
+  "LICENSE": "MIT",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1589627472",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "glibc"
+  ]
+}

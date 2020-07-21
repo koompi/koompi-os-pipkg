@@ -1,0 +1,23 @@
+{
+  "FILENAME": "linux-lts-headers-5.4.50-1-x86_64.pkg.tar.zst",
+  "NAME": "linux-lts-headers",
+  "BASE": "linux-lts",
+  "VERSION": "5.4.50-1",
+  "DESC": "Headers and scripts for building modules for the LTS Linux kernel",
+  "CSIZE": "21183161",
+  "ISIZE": "117115423",
+  "MD5SUM": "189cbace8044744c4b64c85a20482a78",
+  "SHA256SUM": "044c4e68f17b9f162e549760462719482ee4ac2a2a796c91053fab1e90e58a34",
+  "PGPSIG": "iIsEABYIADMWIQQGaHodnU+rCLUP2Ss7lKgOUKR3xwUCXvzLZBUcaGVmdGlnQGFyY2hsaW51eC5vcmcACgkQO5SoDlCkd8cVrgEA4PzPXKBJBCR9o/ZmrlUxmNkkB7Jq/qRh5ETrd3iAXb0A/15jLXhnQn0S3DhXDrd4om55kQfvuzMzibCcwFljJoQF",
+  "URL": "https://www.kernel.org/",
+  "LICENSE": "GPL2",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1593615183",
+  "PACKAGER": "Jan Alexander Steffens (heftig) <heftig@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    ""
+  ]
+}

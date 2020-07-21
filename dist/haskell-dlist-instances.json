@@ -1,0 +1,24 @@
+{
+  "FILENAME": "haskell-dlist-instances-0.1.1.1-21-x86_64.pkg.tar.zst",
+  "NAME": "haskell-dlist-instances",
+  "BASE": "haskell-dlist-instances",
+  "VERSION": "0.1.1.1-21",
+  "DESC": "Difference lists instances",
+  "CSIZE": "6776",
+  "ISIZE": "11041",
+  "MD5SUM": "696702dad013003bec80b3f00ff8454f",
+  "SHA256SUM": "7102615770c3e5e037c82dfa2670699a497a7a02b73de5bee546e5bc348e788b",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl75BaMACgkQeGxj8zDXy5I1yA//d9KwTRwgNBurmHkMruMIdeNj+SggGKW+b9dc3wRzmH4+M9TD1d/x3BMueMletgRTNJnC80zw5G8IntVrjt1Jaf0JNc5WzgydNeCHAqKq/tvntFMAwdBIxP5uyM6Ib3NZ3ZtooZg6ife/aSKwPwtAqwYCHD2XwmzDTF/Cdv56eeT6c6FvbVrHwJpS723o+zHxxICmCVqSe8noIB+XjTmPxbja4Q6bVR/OdlvTP7ZQDFFQ976ligOBh3mqzwExBNpeWOV1xvyEP4GrCgf3AUj8gN3ZrGpLFN+PBRPazQV1AYS8WaQiPaORISyjW67PNe0fJFKLQHEpfWM7noxk4I8Ecp0QFgBuYlgaRUtMwQLLLO6iIvjKVI8PGJwnHVjV/5xHQp52eTKDjOKXVeoMTIWlMSntpRSVjzGvG/mi2UDONBNxO8d+1Nb3TFb9VtaDrZFbYbGOg3CObgfJhBjOMsK1D1vNujYELt+GuLl+qmoffFv+LHIpohfBkLyfEF/aFuIzwXt2xMRgSTAGvAtAnmSHNl0MTdx+U5ZlIGj1GNo6UzI9fXpplGhpcHdcfyKdVYz2QTtDf6WwN9zkqxMoeiI0e5Orjq45aqNk+ypCPkIFIBldH6uFADpH7FNyOBUIuVInWMPiP2JisEPKo7vufRoQMejL5YoCbkF9ahP5XXC8ZxE=",
+  "URL": "https://hackage.haskell.org/package/dlist-instances",
+  "LICENSE": "MIT",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1593378191",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "ghc-libs",
+    "haskell-dlist"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "FILENAME": "perl-http-date-6.05-3-any.pkg.tar.zst",
+  "NAME": "perl-http-date",
+  "BASE": "perl-http-date",
+  "VERSION": "6.05-3",
+  "DESC": "Date conversion routines",
+  "CSIZE": "9927",
+  "ISIZE": "15041",
+  "MD5SUM": "f8a5bb9db26bffd974c2e28a3a220c6d",
+  "SHA256SUM": "bea5a33a098b30339990646164126e287710e457b721f65966e0d11727fae6df",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl7vOJkACgkQeGxj8zDXy5K5eg//dG9bHTFfmRw6mf9TUCqV/2jKme0yHjWlLr2LU1h6OmMFBEYSIrL882RPV3PhKKGNhTAwlYnfFepx6jA9dLiwlhpZuLaWuyowpFZfXJSwrIggxRPxbhi5s52Pg84YySu2NIMiSmPkcLSoN9mf8Eo/PdWu1iBF76ChBfxNYZLh/FwkJZ7JjC3RQBRBaXqhytnrAmA4t6+Kj+s3CkkV4NI40Vn+vAm4qrT1VnlL6jqCyGMQdGkUsIvgi4w21qXEhmBMeqBn/zvG1p2ojCSr3nzcXSjsOn2aJjKiD0wAWeVH4arwNn6saxVTdBTMqtN23Sgu7/BskQzKrsGyBqwrKfckvfAaRyxinZkaPjnsblTuxF1CXbIpo13fVF4pXP8EdDa8K6laR4BMtU2Ldh6d33zi+4pY2ZFQZFKa9kDUxTKfT39fEOrzEBe3wWX6ZYXUQyIjFBiMMo/C4qtMcIG4wwSJWsn5+hvWAs/9sWaimg4PMpchMsSvMEHj4kbv5ijV8K6/46ptHRkhWvj2YlvYKWb9f23snUGHNUcoAZSn+y5KddhafkW1j2T2+1yhTubLw8FdZc4jjwIpd4LYQEMJ1MeNFZ3rv/u0IAufLMVnLtF1UG5UaLWBmq2VFdd5Ew15GBLXWVdyY6Wi6PexWd5YEicRDgKWOVzSrZe7qW4AwX+mnoo=",
+  "URL": "https://search.cpan.org/dist/HTTP-Date",
+  "LICENSE": "PerlArtistic",
+  "ARCH": "any",
+  "BUILDDATE": "1592735862",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "perl-timedate"
+  ]
+}

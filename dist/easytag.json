@@ -1,0 +1,32 @@
+{
+  "FILENAME": "easytag-2.4.3-3-x86_64.pkg.tar.zst",
+  "NAME": "easytag",
+  "BASE": "easytag",
+  "VERSION": "2.4.3-3",
+  "DESC": "Simple application for viewing and editing tags in audio files",
+  "CSIZE": "819460",
+  "ISIZE": "4135770",
+  "MD5SUM": "1ad1e83ebaf57d80de3ee90a597d8c12",
+  "SHA256SUM": "20dbff4d674fc3cadf968de88cb51f113d89d340c20ed7a34a4a15a763ff68ed",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl7Do/0ACgkQeGxj8zDXy5ICMQ//QRlSBOtpANlcHD7ECtH+sDoe8wY5JFVHhVvaESf3KSoUA5IYe5XjHLH2whanPRDk3sa63wvaJTxfdzxDYormvidqsVkf6QoFEaXuBkazo/6khbq3yzbrbS4bqevkn6A17sapSvSxqNdgrdemQwzsN7U1XAG2KeR9eQlC2fVhdpgl/QGdDu3sXcMZx6zvkobkmaTDBCcYUSR/5t2qqGEAI65TNZJOG4bfHFFxjUDo6JTNkLOuXYlBG2/yMGR3yT8Y9EGlao4Ab4hNcFKqjGJ2tPaYh627T0uT9lMtd9XWLhb8e+3IPTp0DfFLXZ8NmzcaEaBxYWkrPlT3BuFJiG4toERKVlkzGfxAAfSjxl8L0jJNj50rZ0CCl0trFlVzpWGmeVOhCSaQ3znIRObnJxJ+9mWofsRI6pSusJsYxmCQgChlYZbDhQinDVID9opJFC5VkSfbi1zsueCXpRYY0S7c+S6kkxYSp86OpuZ7gzoRMqmrsUc6rX3jdsTu+rHIaa7xxTnHLiJQuQp2OhRrrHWwyPCfaRudQsetOyGeRQX3qiPuONN+SAFFlj+cQroADjS535WZymktOhA+T07ISjPy/8CZ/zv+Mbcn++wNnEiOwL1aUPRh9dCsHtwnjLIhaGk38NuRZs862CGjzUfD04lMTalYFsFfyhbsUHP7ASXE0Gw=",
+  "URL": "https://wiki.gnome.org/Apps/EasyTAG",
+  "LICENSE": "GPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1589879744",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "id3lib",
+    "libid3tag",
+    "gtk3",
+    "libvorbis",
+    "flac",
+    "speex",
+    "wavpack",
+    "taglib",
+    "desktop-file-utils",
+    "opusfile"
+  ]
+}

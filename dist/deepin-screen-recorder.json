@@ -1,0 +1,26 @@
+{
+  "FILENAME": "deepin-screen-recorder-5.8.0.11-3-x86_64.pkg.tar.zst",
+  "NAME": "deepin-screen-recorder",
+  "BASE": "deepin-screen-recorder",
+  "VERSION": "5.8.0.11-3",
+  "DESC": "Deepin Screen Recorder",
+  "CSIZE": "4540857",
+  "ISIZE": "5996998",
+  "MD5SUM": "6084a689ad8bbf58f3823a111e6c9afd",
+  "SHA256SUM": "29887426b77ecb5263368eedd55904276063014db81b500eac9f3a772d7d239b",
+  "PGPSIG": "iQEzBAABCAAdFiEEFRnVq6Zb9vwrc8dWek52CV2KUuQFAl7NZrUACgkQek52CV2KUuTvDAgAiPAzJNOf46VhDM0cmAmnVt44NdwxIhQEUyZuV6g/aNrQndDCryPBP07ODvXmGY+JKsQbnOAXgggXN8+KJp9NIgJ8bwtIJEobD86bxrXj0dAeayeFO7mKi/HaePLjcI25I5nSw+lc843UPRZ7orH6g8//ZS+ZXeb7CxxMQqc9j16cV/blppTrSi0cDeiREEbd5EfftEKIIroprF65fny7P4hijU9eIYIpPcIjFbGp0VzKKFfgybZYbClQZYn7Sf/IRSv1lC0FJ95A5LvY3KDBl/ebHWVlCGPhzFDv4qovb493X+B+k/3Bm8y5eINI/BUIbdL/iw7wkndI03jzxzGNuw==",
+  "URL": "https://github.com/linuxdeepin/deepin-screen-recorder",
+  "LICENSE": "GPL3",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1590503309",
+  "PACKAGER": "Antonio Rojas <arojas@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "deepin-qt5integration",
+    "deepin-turbo",
+    "byzanz",
+    "ffmpeg"
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "FILENAME": "python-tensorflow-cuda-2.2.0-1-x86_64.pkg.tar.zst",
+  "NAME": "python-tensorflow-cuda",
+  "BASE": "tensorflow",
+  "VERSION": "2.2.0-1",
+  "DESC": "Library for computation using data flow graphs for scalable machine learning (with CUDA)",
+  "CSIZE": "221591909",
+  "ISIZE": "2715001701",
+  "MD5SUM": "0f710c8ab8abc742e9c22ec6858b3a5d",
+  "SHA256SUM": "182a7c1f16eeba17e405a012faf7855171a132a208f1fe794c7361e275348895",
+  "PGPSIG": "iQIzBAABCAAdFiEEj8FaBklQqZ3RvRTdOeS4d+YuuRUFAl6z9WkACgkQOeS4d+YuuRWGLRAAyvR//fH1XapTTrxoU4zEY/ZVwMxd19pqv/9Xph+hK/Ui/odMKTr4iK9qocVXRIIyWfRfQTKC8bC+YsFEwwBC1kPj2MOBIZdk421vr3ix8boLirJqiK9ogNZjrZg0R7Bm9h4Ph+0Ca7V+AiiUtDL9Kxs44Cv0gpWDenuy88vG+uA7vmJENrNNk36YsKzRXiwMaO7+YNciEShOJD039xoYXy+fSY2rVU3AmjEkGKRkVWL66F0wZD5f0NdShLkqsgGkbjv3KfwAL8KLQc0JXtn/FA5jSrUYvOiPEWm++eMVeFJZ2PaQqmmwuzhHF/YbtjVre8CLZa/B8L+ikjHzRWBN2cs0fMOYwLUg5fSkFzep0/gA82mmEGDFaVbwVOLkR6ejKNx3DCaptBuygyztE+kYcepMQQALCxMDdTGQq4wdcafl8ESE6+aVq4ZpJvZKLCv2vI277XH8/acuPJaIL2d24xCoQgFbqPJSVDtvPIhpOdvxDmVcw1+d74SS/2NbCZVy1tbk8jjaK8QUjZK/PuErPBGSY+HvlHVPkio5MV2bqQMatO5Y6M0FbfgLYBDXvsePwcz8cMkte77cTX5DaivZSLvOelYYYa4abQNNF9d4EsiR8qeqTa7iaH68InKEszxmZmPlsbDG2SizDkelU5s9kADyLj5Vp/ubhn8+zFQI2IY=",
+  "URL": "https://www.tensorflow.org/",
+  "LICENSE": "APACHE",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1588830008",
+  "PACKAGER": "Sven-Hendrik Haase <svenstaro@gmail.com>",
+  "PROVIDES": [
+    "python-tensorflow"
+  ],
+  "DEPENDS": [
+    "c-ares",
+    "intel-mkl",
+    "onednn",
+    "tensorflow-cuda",
+    "python-termcolor",
+    "python-astor",
+    "python-gast",
+    "python-numpy",
+    "cuda",
+    "cudnn",
+    "python-pycuda",
+    "python-protobuf",
+    "absl-py",
+    "nccl",
+    "python-h5py",
+    "python-keras-applications",
+    "python-keras-preprocessing",
+    "python-tensorflow-estimator",
+    "python-opt_einsum",
+    "python-astunparse"
+  ]
+}

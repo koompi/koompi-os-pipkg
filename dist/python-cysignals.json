@@ -1,0 +1,24 @@
+{
+  "FILENAME": "python-cysignals-1.10.2-5-x86_64.pkg.tar.zst",
+  "NAME": "python-cysignals",
+  "BASE": "cysignals",
+  "VERSION": "1.10.2-5",
+  "DESC": "Interrupt and signal handling for Cython",
+  "CSIZE": "181754",
+  "ISIZE": "668225",
+  "MD5SUM": "90e7e69bbda4f76c9795bc0958262266",
+  "SHA256SUM": "58d790630bd30bbffb37628b7b0012cd0e8d9e96ed0e3f2a889b1509d1a19c90",
+  "PGPSIG": "iQEzBAABCAAdFiEEFRnVq6Zb9vwrc8dWek52CV2KUuQFAl4NOhYACgkQek52CV2KUuQSUAf/caJl+pee8g1B3sR63nWvxCbrhsYd/ErSsKsdHe4TXvOSD5kais+ny3Dlt0WWCVs+EEmYPFeLgoDWZ4iZ2fdsxdec21svwUQUPFgRKSAtnnPT8rTR1MgODYYMZ1TGWCIEiDqUHHH6U6s+391akbi3RBczYYU7Ry+9QLnXFduttEKPOyJfYwwkZz9LqojsJ9bAhW/Rnu/Uk1M/k9N/xZ1wvm4DR0ixciPsuBfA+v0p6KSKu1Q19xVyvYB2u0MyGWuj+Mr7y+uzQduagoDPl27bAqf0AtTmv+O23uYrEseCsg8eN15CRN1Z1brw1N+dY11c4hGtXTSg9/zgPpnvMa2Rbg==",
+  "URL": "https://www.sagemath.org",
+  "LICENSE": "LGPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1577925075",
+  "PACKAGER": "Antonio Rojas <arojas@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "python",
+    "pari"
+  ]
+}

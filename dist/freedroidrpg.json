@@ -1,0 +1,29 @@
+{
+  "FILENAME": "freedroidrpg-0.16.1-4-x86_64.pkg.tar.zst",
+  "NAME": "freedroidrpg",
+  "BASE": "freedroidrpg",
+  "VERSION": "0.16.1-4",
+  "DESC": "a mature science fiction role playing game set in the future",
+  "CSIZE": "221115084",
+  "ISIZE": "238055564",
+  "MD5SUM": "e8898e92309c17c8d9acef30550f2e87",
+  "SHA256SUM": "98fa8fe44052d60fba53dcd502930ac1c54b2ee4e339520470196cfed7a919a5",
+  "PGPSIG": "iQEzBAABCAAdFiEE5JnHn1PJalTlcv7hwGCGM3xQdz4FAl4M+RcACgkQwGCGM3xQdz5LRAf/d0gR6m4XRLZOQDQ+FAtmrD6Ova6wjlTloytHP9UNOj/D284P5d/yNCuQb1ncLAhpp8D63EEZ5ptks+Xq9AoccLlUF7BkxhZj0AI/cAHcn/yqYQEJcX4aRCkH+pMOxweX4P6qPWwyCUC8p2JjTepeWmhnv7P1COQdlxiF845lvjrXhcAWeQa3KUGBOMXbYIUjEITm6sJrUKyyafdJcjaivDWtPJjfo8J6wExssX5zBSIFdqdyKoRqFEPsKfh1RjOePtp/2nNyty7SWwzLzBBGnF3YPv5mp2GCwJdNpg4tL6Uf79e+houKcReViYR0iB3MxRAFeIQQv00JWGr4F7L9FA==",
+  "URL": "http://freedroid.sourceforge.net",
+  "LICENSE": "GPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1577908280",
+  "PACKAGER": "Jelle van der Waa <jelle@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "sdl_mixer",
+    "sdl_image",
+    "sdl_gfx",
+    "libogg",
+    "libvorbis",
+    "libgl",
+    "glu"
+  ]
+}

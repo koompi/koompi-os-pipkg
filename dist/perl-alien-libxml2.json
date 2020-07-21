@@ -1,0 +1,24 @@
+{
+  "FILENAME": "perl-alien-libxml2-0.16-2-any.pkg.tar.zst",
+  "NAME": "perl-alien-libxml2",
+  "BASE": "perl-alien-libxml2",
+  "VERSION": "0.16-2",
+  "DESC": "Install the C libxml2 library on your system",
+  "CSIZE": "9329",
+  "ISIZE": "12085",
+  "MD5SUM": "b096bd54d8320fd5eb2ed5b2474bd272",
+  "SHA256SUM": "ad97eda452e42308410111469877a220303cf800b9777aec3f1636b5330164e2",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl7ve88ACgkQeGxj8zDXy5LL7g/7Bis1jIQdPuJxpWkAg2C6emOq5kgTLor/mw2oQYV46pC2HPx/XRLdkcf+r2hmGVT049Y0Yv9F2Krcr+KJgdlfw/e/WOj/UpFgA6VVq7CoAaBCTX4y/XXNXiSRT5j7t1mUu4d7iAtPbKBWcYBfIfDyb15Ao8aZ3lmRIsAzwtzbv5TbYw6X4Ywf4d8v+uw9mM1aK+pfly/gzSxZ3AMbhrKnBgq18PS62WT9S0v4t3xEDJKkzw3Z1w5Sejne1e718+y9tp2zMiA8GjEJ+KZrAxrVQ+omdZdQ2ejpRwTg1/Bz5Ojhzp0wBCkoF77Q8VRW+BTsrtfidnOhsOBBcTYyprf+BrVsjmNqgyaDd5dD/9rM8u6u9zfJWboNNLz9bD+/SIF5noen9VPPBzf2eWb3gTSB9ankIqvAuQJ3jFPiRFJgG3tHyn9HPeIrIGANU51apM0VZMGTgwTdYABMusaaVieQI2ynQpTm5i30hZYL3/rrU7g41A/uoRszLb5FV+SC0oLZnpu2leZQ8JC87eznLPxkgu+dNqlk1CFT8fxXgdocYr+5mkraZXX2a6Bhy5XHI/+nOB/zWAkwcvZv1f2DiQqrXU3nsCdvMzEmp2yS8xQHz15csgbL92ymx/OyhxvU79p+t5XJemfFCjb3suNelI/GPx22YCG6/+w+swSgqO6MbYE=",
+  "URL": "https://metacpan.org/release/Alien-Libxml2",
+  "LICENSE": "PerlArtistic",
+  "ARCH": "any",
+  "BUILDDATE": "1592753075",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "libxml2",
+    "perl-alien-build"
+  ]
+}

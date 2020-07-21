@@ -1,0 +1,23 @@
+{
+  "FILENAME": "web-news-1.6.4-8-any.pkg.tar.zst",
+  "NAME": "web-news",
+  "BASE": "web-news",
+  "VERSION": "1.6.4-8",
+  "DESC": "A PHP web-based NNTP client",
+  "CSIZE": "40919",
+  "ISIZE": "130480",
+  "MD5SUM": "fb0af9dac29cae1808972a83879e7c63",
+  "SHA256SUM": "ec97171d023151bf7f08ad9961c80a5657e88b4aa72ddb99cb0d6a3518da106a",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl8EqHgACgkQeGxj8zDXy5JDHhAAtAoHw+eOpt5Jis8/sNUR35jsff/x0mKjDGyo4N2JcHwFr8PfxAdeILlt6ggC/4ShPVscs/vmEIHWrG0LGYQqD5AUEg1j2UEWVwW1ClJ9w+J55KjCU9Xm8HIq1pZvuR69vFv4CnqzbZztTlS8FhPniZIkqYNAP+aOJ/Ti/iQsDy2WbCc12OjxMZPh9U5DvtCQ+AS8laMcX21dxJL8r7Te2zXkXnhdEO6xkuV6PF3cF4h9op/2D+pnGGvtwXnU6+nzzDbvsEBCTzcVO67cM3fbfWAvPpUCic8fxuhdRWQl6bcQBZ7JdmYyUSgLdYnE+WPhCFbqAX3gXBjGfP7XBJUro4E/pBlrgTG3wKgdcL1xTIqgW1bu8a6Bew0fOUBGGbcKo9KBxUMr8F4GRU4MjBahMgFZgVxqvu/JOTyriJtdv09YDt3lpl9cKkIgP5jfoRubk0NUXotkBuSP99yCgoRMxW7oYU9tjFLW3Q0nqbiSzm8sKIrGXFB0iunvX5TcgnTplCYFeZLe8H1qS5QzqBqfxwxq/NSMwZo4A1b1u81euCwCN0Yl9ID+V2oTJgASPiquMiT8xWLis0as/HNh6PeDQ9mPGG72InrMoja8/uYHPip9XsPwbvgBTIYJRAsUVWxO5gwGM/0RwSf1UWnj6qB+21j69HvMwci0LQVYSnHQrQs=",
+  "URL": "https://sourceforge.net/projects/web-news",
+  "LICENSE": "GPL",
+  "ARCH": "any",
+  "BUILDDATE": "1594140770",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "php"
+  ]
+}

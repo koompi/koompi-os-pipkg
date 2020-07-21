@@ -1,0 +1,23 @@
+{
+  "FILENAME": "perl-tk-tablematrix-1.23-22-x86_64.pkg.tar.zst",
+  "NAME": "perl-tk-tablematrix",
+  "BASE": "perl-tk-tablematrix",
+  "VERSION": "1.23-22",
+  "DESC": "Display data in TableSpreadsheet format",
+  "CSIZE": "103111",
+  "ISIZE": "257025",
+  "MD5SUM": "c6abe6b886120dbf5e57061181190c05",
+  "SHA256SUM": "c9c7289e1bcd87f7d04490410cff73adbcbfe72421c1743f0ce949354095e7e1",
+  "PGPSIG": "iQEzBAABCAAdFiEEhs/8qRjPOvRxR1iAUeixSKmZnDQFAl7vheEACgkQUeixSKmZnDSxGQgAuIdd/G4xLDvCHE5L3iPv3DSY6YTLhWUOsfmLBaXOUCipIr6+DhMEC6NEBnYpBmCpZdM9woV6gEJslpY1w4CzztkEw8jcxitf01Aj23HKmhQ0z3ZzdlOBY820lg1HLC9Uap3e70C6ItThFIv+gVQZNA/36sTGbK4wl4t9kAxQpR108kBFfN69xz05Ox6rTpUrRyDSw6O+z3ldlsmfDob4ffG9qy9YXiXFh1nW1GQAB0RHr0EGnntOH3Y6PuvfUEtgA/4Mz41Rx9bVH0z9sTzrbCdj4ntlM41FiT/UlRH42Fqz91+1W74AB4BF9piZPMDYVYP5i3vX9zxtlE8YHorf6A==",
+  "URL": "https://search.cpan.org/dist/Tk-TableMatrix",
+  "LICENSE": "GPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1592755652",
+  "PACKAGER": "Evangelos Foutras <foutrelis@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "perl-tk"
+  ]
+}

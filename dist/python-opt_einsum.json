@@ -1,0 +1,23 @@
+{
+  "FILENAME": "python-opt_einsum-3.2.1-1-any.pkg.tar.zst",
+  "NAME": "python-opt_einsum",
+  "BASE": "python-opt_einsum",
+  "VERSION": "3.2.1-1",
+  "DESC": "Optimizing einsum functions in NumPy, Tensorflow, Dask, and more with contraction order optimization",
+  "CSIZE": "110457",
+  "ISIZE": "583868",
+  "MD5SUM": "1a097d38a39e06693876fed89135fda5",
+  "SHA256SUM": "55e1f34d3f0cc09df6e997495500e2b26420c70252967f71c8fb612f728b9c10",
+  "PGPSIG": "iQIzBAABCAAdFiEEj8FaBklQqZ3RvRTdOeS4d+YuuRUFAl65NvkACgkQOeS4d+YuuRVK4g/9HdFCpPXTq+o+en+20obJg4wlYNJckE7mOlZ+K6YYikYBFLbk4b0pr6MUNu7jmCiz2Z7lLEF1yEoS/qkYQFklkxU6b/JXqckbekRbKfSLqms5GH2dTp2ztMjBaMD3uHW4311Cms0YhxpFprgq9TfTDZUGSsj1LbKUDlh20ouibmZmys6GDMA2Ip4tzx5D0Z68PTrWtx1/bamC/0Vu+z3pMPjZfvfTviIu8GRJd9BHlLmOCRP/vOmg/b0gWKT8Q4mq2QrC+IO0E4KlslPmhgl4/T/ETNJI/udmRXHPC168zVLMxwbPsy2Ta5VVkvUBqTp8hvar++T4MOlYsEEwHo8ot+aQPpVqiaLzF9ddUzfUfOKjS7EajtoqaRxbpPzMydmIRnc1uFUb+oJyZKcoU0udiuWTlhfloFLrgRRNqo2541xezVD+nQ6MuUbfT30gZuPCyS45bljZAhrBAKfWhpNP4rqMBxkZ+iQ3YNCXbNps4YcjsGZZfu6nrfint4AnhKYjT29Xv2jyqGHodi0/wFzTlZVy5Uz1mv0Gyh0Gg0Q2jtvJ6k2/LQw+S+8L1dY45WhuCb/5+3HubFu9XChvUu0bXDkvYWZ1Pm9gZDHhLPM2EHY7wzoYzeFVQJo/4kWaEUcWP7OWcuJrIYgZWFOo+brjf2KJcLNguHseTyHaFeeSz40=",
+  "URL": "https://github.com/dgasmith/opt_einsum",
+  "LICENSE": "MIT",
+  "ARCH": "any",
+  "BUILDDATE": "1589196490",
+  "PACKAGER": "Sven-Hendrik Haase <svenstaro@gmail.com>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "python"
+  ]
+}

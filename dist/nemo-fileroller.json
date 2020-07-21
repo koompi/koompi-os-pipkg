@@ -1,0 +1,24 @@
+{
+  "FILENAME": "nemo-fileroller-4.6.0-1-x86_64.pkg.tar.zst",
+  "NAME": "nemo-fileroller",
+  "BASE": "nemo-extensions",
+  "VERSION": "4.6.0-1",
+  "DESC": "File archiver extension for Nemo",
+  "CSIZE": "8925",
+  "ISIZE": "22208",
+  "MD5SUM": "e45f572fa75cd468532ba59005e7d180",
+  "SHA256SUM": "ecdf452bb6e110a51f1345bb5cba1b0c435d6ee508190603fa9c954f19dfcb94",
+  "PGPSIG": "iQIzBAABCgAdFiEEYEETBMCdNmKDQO7/zrFn77VyK9YFAl68w9IACgkQzrFn77VyK9ZUXQ/+MtHcKSufMp/wcuzQL/nR6w2vXkwaNgvzfdDF8Y2etACnimsK882YyN7eJPa+dwxP/9fI6BZlmWnFVXiWHaK+e+0Vjjv1DL72PXIP510qhVxb8jWaR0dt7X5Pnvkzfl+2mM4MgYDPhqVvhXmKTom6KxoqrOG3yqEzGcHsRDVP1c0rvGPV0+Kviu90LrRNyGI8UXcWTCvr/w8+FFXkN1pzVkoJTpVdZPlCjdJ+iB0F/bnWGxUQUJHXEzW2uE1AqWIw8IfzNQ6M9lpRT7shBdMISi+DiYfbPexCd9nWvbBhw9OQxO1jSnfi9XufU2+C9Wyz09uLavYnoiIQ4ZPedY4hYrqB3Q6bgstxZKRjwSzHMBoZpTOhiuNJ0xlH6+dt4mjMm/BQRUlmod+T9w30mfIBT26yaI1yG27A9R6hp7cdfcS+s2UNQzzkADfTA60JpTLScVVAYBoY3DuwRlIbOhDFL5OFZ0oy5L4nS1SPLmAEQ5F4Q4SFnZ0kIQwyR2kWZ5A4I4ZkjznMbFQxGS5PDy4mfX6sinhU1JzZh4Vz1OFi7LPHIlvxunRD8ppDmTsOkEneqmuphOP1kDe9vlvMJ20qOA6o97eCCxdPDdpTu7Y13sJMXrArsWeTO2E6S/ce7ruVjQEAr0cDlglIGKLQIsG/v0H6S5lOD1MoPZQBnPoMRpE=",
+  "URL": "https://github.com/linuxmint/nemo-extensions",
+  "LICENSE": "GPL2",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1589428185",
+  "PACKAGER": "Eli Schwartz <eschwartz@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "nemo",
+    "file-roller"
+  ]
+}

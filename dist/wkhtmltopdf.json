@@ -1,0 +1,25 @@
+{
+  "FILENAME": "wkhtmltopdf-0.12.6-1-x86_64.pkg.tar.zst",
+  "NAME": "wkhtmltopdf",
+  "BASE": "wkhtmltopdf",
+  "VERSION": "0.12.6-1",
+  "DESC": "Command line tools to render HTML into PDF and various image formats",
+  "CSIZE": "177182",
+  "ISIZE": "639778",
+  "MD5SUM": "639f76affa2b1f628c630558a1cd5669",
+  "SHA256SUM": "ff758e33ad61b1ea14edc34c00de8b398df9c3c4b5626cd509cba55892accb01",
+  "PGPSIG": "iQEzBAABCAAdFiEEhs/8qRjPOvRxR1iAUeixSKmZnDQFAl7hUGAACgkQUeixSKmZnDQb9QgArC4WnlA4TWJnSnOz9nYnCN/WZFaTPJej+rcz5m/ZYiw3vys2BTnZ541MEtH2BSA4Bc8stdBvQInQHeos6ZEHf0jEHXNAqbQr2gxVjmjaW8K54yvpwIUQ7to/7eWIY7TNUJoTBAsS9LBW2HG2/0YmAfZf2MYLFGv/7RPo/xTy9TXp/9E2vGUkCLb291ERB6O/+0jDiNFhSMlV8Fe/j1lMVQEHxFLOhJqTs086eqTLQjaz+HBAQ8suSNHkhYaZa9k9rbgi4b5BWCKkRWha1NcgHyLiCSOpCa3dmAoAAbLuhQUr3io6ExJIDOBkQMZzSWmKOv2fU9ocac6W9pcusGRReg==",
+  "URL": "https://wkhtmltopdf.org/",
+  "LICENSE": "LGPL3",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1591824201",
+  "PACKAGER": "Evangelos Foutras <foutrelis@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "qt5-webkit",
+    "qt5-svg",
+    "qt5-xmlpatterns"
+  ]
+}

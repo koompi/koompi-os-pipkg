@@ -1,0 +1,36 @@
+{
+  "FILENAME": "deepin-file-manager-1:5.1.1.25-4-x86_64.pkg.tar.zst",
+  "NAME": "deepin-file-manager",
+  "BASE": "deepin-file-manager",
+  "VERSION": "1:5.1.1.25-4",
+  "DESC": "Deepin File Manager",
+  "CSIZE": "4939410",
+  "ISIZE": "16272983",
+  "MD5SUM": "2070a47e5b0c21daf3275975d01d91d8",
+  "SHA256SUM": "130d188b551103af9bec84028783edb2db57203877fd39fbff16de8f8518d781",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl7nbF8ACgkQeGxj8zDXy5Kd6A/8DO+s4k944o3RIlJotyAkRU2z1dVYXLe2uHTQfu6IfD8vjBNjC5+rn/W+1OFChjPhEbxyfiTJX84dCPClLiH1+Pz/19+rsWcbpjT7GAaE+GVMGrUPgyNbVEMREB3SL/R4K0UiREw5a8YLpDXMrbSvf3zyFzAijNAXinOnoeTOt09nh+dDMt4XjlRb+AmJml1jiCMkLZZjSbDInfrgs8NZP9FRyczDVWVYOgLxKCn7cKx08fmSp0otkEb4yPzVgrqtArQafCohod2Yi7kRg7ytP4yQbwncI5RMbAFcYGVIKNGr4Q5YExZ/k5reyhUOzWvf7Z3Z5u47biWN81bEBMgSamELK5DOvTD/7mXn65VIVB84pjicwDFfJy3JU3Exkcnqzb3jPl8smy2jBavr+RVqEqxSPzPzuwD7hjsfLkKL5ShY+6nAShTRsiqFcY9Iq1TLoa5lb/xffP0Rt2rkpHrnYRtfxCq2efUQkJGlqEWocpaLmR7GXUJoJ2rjdEZBQ6rpFB2ebxPZ/rvhJcNE+GzntUYd1r4+KFMY45vivST7bnotJ1b4PhEccRKqkQS+3xP9g1MXnQdSzaVt4/nDyzR4ElIq6fiDjL9hy/O38ihMXOx52vLmX7VTQ/ZuByiG//WmDMWp/OFR85IV337ZMG+rTfzdMypL9TabS9u0aFal0Z0=",
+  "URL": "https://github.com/linuxdeepin/dde-file-manager",
+  "LICENSE": "GPL3",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1592224579",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    "deepin-desktop"
+  ],
+  "DEPENDS": [
+    "deepin-qt5integration",
+    "deepin-anything",
+    "disomaster",
+    "file",
+    "gio-qt",
+    "libmediainfo",
+    "avfs",
+    "polkit-qt5",
+    "poppler",
+    "ffmpegthumbnailer",
+    "jemalloc",
+    "kcodecs",
+    "startdde",
+    "taglib"
+  ]
+}

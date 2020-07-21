@@ -1,0 +1,23 @@
+{
+  "FILENAME": "python-pytest-asyncio-0.14.0-1-any.pkg.tar.zst",
+  "NAME": "python-pytest-asyncio",
+  "BASE": "python-pytest-asyncio",
+  "VERSION": "0.14.0-1",
+  "DESC": "Pytest support for asyncio.",
+  "CSIZE": "12967",
+  "ISIZE": "36521",
+  "MD5SUM": "56bb7707ffa354b44a6d86b951e748c5",
+  "SHA256SUM": "8154a3372a060e0cd5898129b7ee7c05cca4e9a3ab454db78b04934587cfa359",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl7zVHsACgkQeGxj8zDXy5LKdg/+NXEQhRkFqIo5xk0Muj/o/n28SNE04xhWaaerVDMI7j99oDDoLNy4jds9EbgVB36bLwMEZpB4bQR7FLXHGp7j56IOOT9f4orwvpvKAvCohsBYEg8bTn3E3TBTMmfnv5FxeXWsen99mpeayumI93qActwuhiJdSHbYDhifOj6k75k+XhEv/DlygnS2YSZxF4sH47BtyQOUzm0XBTxUe6WtZJ+vldrqONdB6gs4P0GWCdjzImc0VHUuzmLw76eCjcKjPxXv8HGJzDGyQVJtAKsToX6c51toFg/DfEQL+nTB68Q2aTNR43XJjlFsgOo+qd8u9QAA2pc//20EDVtzh9EaagdHUVjz1oTwxrJYmzK3Sqeb9+Zlex+orB+VHDZsx5AZQulK3+9XuQGHzKOp3KtERqeazehDSaqTzdo8unWqEkaVbscO+rHU3jKpv8ZWQqVB5itsZhCOt5AYK5l+j+ziTh5f6jl91ipyHoRIE+GILV2Rtd5CjH2nk6DKEWVDSdQ88adx/u0SfIwIpx0nQ8HnXeNJdrva0/vEq3HEpxt9KWSNLVqKlHWCWfSB8HqQpVxA4naH8NAvVeKkiKWMN+/Bp1hAoGz5Dw5/G1xfm3M5bmAQuvpbis2pPqolKSkO9dSTpMNrKCuf3yoGbvt/kz/f351NmKlxPfsSUC2JFYCmijA=",
+  "URL": "https://github.com/pytest-dev/pytest-asyncio/",
+  "LICENSE": "Apache",
+  "ARCH": "any",
+  "BUILDDATE": "1593005154",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "python-pytest"
+  ]
+}

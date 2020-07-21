@@ -1,0 +1,23 @@
+{
+  "FILENAME": "perl-algorithm-diff-1.1903-6-any.pkg.tar.zst",
+  "NAME": "perl-algorithm-diff",
+  "BASE": "perl-algorithm-diff",
+  "VERSION": "1.1903-6",
+  "DESC": "Perl/CPAN Module Algorithm::Diff : Diff also Longest Common Subsequence",
+  "CSIZE": "39726",
+  "ISIZE": "105466",
+  "MD5SUM": "f35afa217af1035167bd76533167a139",
+  "SHA256SUM": "bac5f30b970e5c7755abb2911c3eeda560895f9891905a3e688d85f42478219c",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl7vMxYACgkQeGxj8zDXy5JdwA//eFSsXqRo9tBiKlpj6g7kWt5bEuoJccONACxoW789w6iTj6NZVgKH8laX8YzERbnHo85JToNx14/TIfNSUYuHtTzMEnEZcf9+lYMgJ71iMbKPY5J6DuG5kx+Xk/BdAD/UNzVZRx8fz459W0MAjrM6houKhIrBah2ShfC92Ioacp+plwC+8H8ucB3pSzlWM9lu30+2uOt1g4+3gETmgeDqgsNqAE2iVcLyKNTmH7Bbc4bOZLli9kBJLOssqNMdYxucqTpRP/NeEEUUiO9w0P4fHKQe8z6KpEJLliRirMnw/dHLx1fN/Y0CXAUEaMjf3KWM25RPuYVsBVXtDW2JNL8zkC88DtjlAPJnX4GT48AvDmp1Y2q/BnVFWVg5imWzINFPqC8GSWkgmk6Cbb8S8CUUNsNBe9oDbK4HfX+QdVr/d5pHDwg46673JF/n3hTWV0JnkaIAIM9lBciF/R2X5K01Jz0TKfnpSSqQcHfvJBD0Gjs441bhK9j0wRWiJ9qfNtNwkGhmEUazMAevFoM+BbKS9POwGGJH/ubV1tYwYkgsbwJJB3u7ezFiaS67fvA049DpmzeHkqlWh52OV47Zp419Icf3pWp8tmlz57j81TTm/ZliqG2Dh9H30o/oVNqkkqDodmEpjztyywCAC530RiC1GVC5Ta81Pu1XYobB1zR8/RI=",
+  "URL": "https://search.cpan.org/dist/Algorithm-Diff",
+  "LICENSE": "GPL",
+  "ARCH": "any",
+  "BUILDDATE": "1592734215",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "perl"
+  ]
+}

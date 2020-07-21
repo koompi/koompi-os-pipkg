@@ -1,0 +1,23 @@
+{
+  "FILENAME": "docbook-sgml-4.5-7-any.pkg.tar.zst",
+  "NAME": "docbook-sgml",
+  "BASE": "docbook-sgml",
+  "VERSION": "4.5-7",
+  "DESC": "Document type definitions for verification of SGML data files against the DocBook rule set.",
+  "CSIZE": "54144",
+  "ISIZE": "371299",
+  "MD5SUM": "636dda9c98ddcb50febf032ef3494656",
+  "SHA256SUM": "76d43be93940df5ac0410ef2a161c91d8d74ea38a5c43cf1209f2db7eb70d949",
+  "PGPSIG": "iQEzBAABCAAdFiEEhs/8qRjPOvRxR1iAUeixSKmZnDQFAl6/rp8ACgkQUeixSKmZnDRRYgf9GstvA6UVk7zNpSIScPc5OLK2lFz5eDAVD67POGEQIsfgi6PJWI7Zp5Ai1Nsn+ldyubwAVeWjMxv1fr6pQbxQWRzcrXcpcJNhDQpFjs9rDt9F8vj8JoU3w9PcrhxMsMmCrxUgYRibn/BwNeVcaY7fKS17pzksM+RU3FfnWKvpAZBYaxGZDPce7SLGzTvr/2Sc2sz4z91VPh/n66dmcGo39/L5mV///dzaNmurA/M9Rb7FAaSmsn15fFSiPYPL9f5eqTPdR/1JC9AKTO09+FXo2yqrB5mLPBMT3Xwn82NJfoDvt1LeaEe3OoI1zKBGRt1QW2wjseRIiQCwtA+TzvBypA==",
+  "URL": "https://www.docbook.org/sgml/",
+  "LICENSE": "MIT",
+  "ARCH": "any",
+  "BUILDDATE": "1589620369",
+  "PACKAGER": "Evangelos Foutras <evangelos@foutrelis.com>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "sgml-common"
+  ]
+}

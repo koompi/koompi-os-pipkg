@@ -1,0 +1,24 @@
+{
+  "FILENAME": "ufw-0.36-3-any.pkg.tar.xz",
+  "NAME": "ufw",
+  "BASE": "ufw",
+  "VERSION": "0.36-3",
+  "DESC": "Uncomplicated and easy to use CLI tool for managing a netfilter firewall",
+  "CSIZE": "169296",
+  "ISIZE": "811393",
+  "MD5SUM": "0bb6b53278febd5ab616ae112afc61be",
+  "SHA256SUM": "6e649443c64a98573cd60029686b74d386c8c2deed205f7fe095f988ddd9cbc0",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl27G+cACgkQeGxj8zDXy5K0QBAAsJPfFqzFqnXhVF4exS+IyfTlbfTPHF4SZus/dN4+uz0OIvFmpvgOm75kh/nCo2hn1eP7SEEHcsQp37OApIEXTbdU4cymOlQL9Nx13gjB0jk3Ir5/5bhu+jHyy21diC38Ca9oIKyslqrv/dOrQgiHvByNnfyg02uEmzrXg8mXKIA9YK1qczG+d8qqmUg3+VXkWG8KEqZfyoxPgwtxaYnESNUOAKIA3Lgi9oMmNZoQNPbZuosNHYKeconio7vgEvwFEwM99SCQoQVec3JzAy3JQm8SJj35EHjhplIX5VDIIqpYJy8VS1mN7csin3WgavnqCr3Ek5r5DdZFpOOq9vMw/7YTOWmiGu77BslPIZnvj7Kl4JOzxVgepSQnrijj5ZGEHf8PysU+fDX0ITcUOh3je4rHvCCkuMnXI/utd8muGBGULSI4T9wMtpOhr88komI7xLVpJmVBsY6HhWg7PdjHwkjBGnxMi57N5sebZH0/ivLlQB5ahL7BBZi7j1eE7UDhaESSvgUnwK9W6Zd48JXTM3sU+QeBSflWJJVOo/xOXnQSoEfem5h35vrIAxj5MXtcD1fPxy5huvSAAwNyIAk81DsQ1nr7XRfbygxtjsl73P23OfUpUpQNFip7eyKZKlpNtSXaG/avhF4TBfRDz3jUjXHBgDLkKn0jb+ehpZDEXS4=",
+  "URL": "https://launchpad.net/ufw",
+  "LICENSE": "GPL3",
+  "ARCH": "any",
+  "BUILDDATE": "1572543436",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "iptables",
+    "python"
+  ]
+}

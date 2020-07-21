@@ -1,0 +1,25 @@
+{
+  "FILENAME": "haskell-http-4000.3.14-225-x86_64.pkg.tar.zst",
+  "NAME": "haskell-http",
+  "BASE": "haskell-http",
+  "VERSION": "4000.3.14-225",
+  "DESC": "A library for client-side HTTP",
+  "CSIZE": "321608",
+  "ISIZE": "1605934",
+  "MD5SUM": "11e344c4f0309d9b3e7f543aad3bde0e",
+  "SHA256SUM": "f6979025fbaf17f90f91b1effc1f60c81a736165193c07769c36bf718cfb19ef",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl751FEACgkQeGxj8zDXy5KlpQ/+Iw0vaZhHSwyd21NV0E2bVl6tPj67uM9bH4DK3jh6dtBjK5BWYRcpDTvsxB3T2pjWZr12kRxoW6MH7YZBWIz0a1BBMTihdG3a7cJmDnRms+KlgfgZ+3Ato3xNUFTNiieECAq423Qll/X/+ePlOXkGalp69B7F3tqkB6aWmNAx8KR69d8MFta4CzchsLApTL6FE5+pJEZKxMcLtUku+ZbMgirxBjWcV/ZV29kF5twYc3og5VAo7W3Tq/WkaJ5pBFyNB67CTIQHucUjPV1xFWrSuD6HEHOTGz/fGYp1C5DDtr05GQkzJCXJkvraSOPxM4mbk5oKsmE8UwcXjkWO3DiYVHyK5kwub3h+lBq/CKaSPY79NNWlHTZyAtk4lNjb0aTa9zrWRZjriZisuBWYjj0Rt+YsxmIyBUQpXKxiHW4aD9qPqt+Yi8mxqOEVWjR4V9vror1jh/wnBFwxA4l8Qp4gYYITZJ8rEOOGQqG2d/RvbiaSxSc1HUhQqboDPLM6JoXBRwY6HRBnSua4OlJKm9jGS5Za6kkSTsFf9XlpUVHSshga0Zc3JBkGRnYIm+NFeIYnEdXUVM37HdJHJzHV2HMVYXm05dwTPXB8tEDemnOs5iahCdRjn9lGT7UMUyeICalSQBBvs3Up36AA2Vmc2sWmy611Gdcsf0PnWl3d3hHqoYQ=",
+  "URL": "https://hackage.haskell.org/package/HTTP",
+  "LICENSE": "BSD",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1593431038",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "ghc-libs",
+    "haskell-network",
+    "haskell-network-uri"
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "FILENAME": "tk-8.6.10-2-x86_64.pkg.tar.zst",
+  "NAME": "tk",
+  "BASE": "tk",
+  "VERSION": "8.6.10-2",
+  "DESC": "A windowing toolkit for use with tcl",
+  "CSIZE": "1976448",
+  "ISIZE": "4981148",
+  "MD5SUM": "8aa3c03e28a29f6d7b2ec633aaef1de5",
+  "SHA256SUM": "0cdbc84590075818b6137a41e1608644d77d22500091cc83b51d28db6962eddf",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl6/3fAACgkQeGxj8zDXy5KjRw//a8ZA7dui4NyD3VWZQaBQTlpCPPDPhKRrCafZZDxi+rBHuBnJwbFR2Hbx6Fxo1EYCaAZCBFRA9a4XAgiRodfeXpWpzYmrHI5XZ9R4bOKafeoA/tU+mfyYcdcLtt909SmkccpK3IR9ELRmAsj2F9NbsbrO9WtBJafaLvkKwA3Wn2lsOZ8fUGFKKz92DNqLmSlZ5ukI0pDB8avfeCQpZ6iCAWZfRhhSE+B/HPc56PdXTtYYppB9wPp81WJCS6BAMPKu6cenTTHxGu5CL7HSkmVIvHvK38WtNtWIXfiR8y4jN8dZWX4ZJ5g7oa+rgiZckI9INbRreosdc5nZxhgKBD1s9Qqexjv9UzoUKSyKGFtbdgF89AjG72iiDqLVedY/lSIXe1wLxvXfUSUPCn6NNafB2uhRfbfVJwsBFShvRDS6qLWaTi8Qhrq7bASLf7cuRGZdUm7f/IMPj8ys33eQZ9KkN/HRq6Lc3mo1oqf5rwJQRQ6RG+qqni3Gco1hdvoe9XeoBEDvI94sFVQPY2NWEafzu/68nxAUeQTm+8STSf9aJNFNzVO62ugYeo878bQcFvfVJzbBEAe0jAsxzbog+W79Y4GpiwwyYwBTQje1AUApiR5uzUC1RFaelLoGuZ0hXksOq8Ll8AvhnjTm67fhfgDKee6ABqo8PRsDJy3sS7w45jo=",
+  "URL": "http://tcl.sourceforge.net/",
+  "LICENSE": "custom",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1589632250",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "tcl=8.6.10",
+    "libxss",
+    "libxft"
+  ]
+}

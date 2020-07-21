@@ -1,0 +1,23 @@
+{
+  "FILENAME": "cuneiform-1.1.0-20-x86_64.pkg.tar.zst",
+  "NAME": "cuneiform",
+  "BASE": "cuneiform",
+  "VERSION": "1.1.0-20",
+  "DESC": "Linux port of an OCR system developed in Russia. Supports more than 20 languages",
+  "CSIZE": "23371422",
+  "ISIZE": "56020279",
+  "MD5SUM": "b0dc8b286c65662eef2f5e326cdf4a09",
+  "SHA256SUM": "6fe1a2b1bc61fb5f065dc17a251f473b2ec24a9b8badbcf12cd1301a5f8d58f0",
+  "PGPSIG": "iQEzBAABCAAdFiEEFRnVq6Zb9vwrc8dWek52CV2KUuQFAl7Srg8ACgkQek52CV2KUuQMgAgAgGfVSMEEUjkbV9wyp75lk67xDdhjueHpMZPhXz1HjEGlc2oL56kwmtYWVBh0O1zKJ+uPVGj2vfk57D305TJOBIiSBogdmshjhi76tt6pYpOR5mISdYAKio91ftSc5OQxNU6CwwfPggZQkRb5XimGxweZqFqOvmhhAgILs1P2fFAxMBZv2VzgSZwn+hCTsP8O8UIoQSY4SjvNb4pfmyMySwLTkIZMAhji0SPJzwLRi1pTXm/ZNxu3+dBi/sWPCnYd2kUKwABpkvdJPQ9nokSzqPln9IZg63w4q/gOKt8Vfrt14aLor3vH9NNTUh5PzMlqjkZP3bTHFP/HyT6r4QbumA==",
+  "URL": "https://launchpad.net/cuneiform-linux",
+  "LICENSE": "BSD",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1590865311",
+  "PACKAGER": "Antonio Rojas <arojas@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "libmagick"
+  ]
+}

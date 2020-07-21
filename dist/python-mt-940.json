@@ -1,0 +1,23 @@
+{
+  "FILENAME": "python-mt-940-4.19.0-2-any.pkg.tar.xz",
+  "NAME": "python-mt-940",
+  "BASE": "python-mt-940",
+  "VERSION": "4.19.0-2",
+  "DESC": "A library to parse MT940 files and returns smart Python collections for statistics and manipulation",
+  "CSIZE": "73676",
+  "ISIZE": "746436",
+  "MD5SUM": "2d8e6513fc721f82fb9ab466e050dc7c",
+  "SHA256SUM": "4bfa9e95eaa74c86aa27d705486055db836dc7399bbc39ac7bb0e68eb5750d2d",
+  "PGPSIG": "iQIzBAABCAAdFiEEM+u4qOHFZTZFsSMqRaZQ4mOMU20FAl3tuZUACgkQRaZQ4mOMU21D1w//eZb/W+W9OL6W7Q02q6gvG+3lz30BeoYH+klZNnjYPpsQhSBI+oT6VVk69VV2tbLtw7tgt62pKqb+6/my2VsEJiycS3kWIQN001I5PrZV5oF2klzr7PXjf6xvMZQgfAfOnucpQWavk5tCZVPSgdcbr0cm1xy4aWkuehgeu+2s86Iim7PBFcxu1ARC35Zv7ji+Qdir8Ow5/EMkKHLb6Lh1ot3MA2LpAo7kWKxAWqIABmfy8F/3Up6I3jE35IK5YifD55t/4Wtr4WW606sXkLkGqibOZEqRIgdccaaxLZ51gsWMnoTiGrKSzaRTRhbOUHMzvvYS0tzIRakIYl5B2UjAxGdkf0QXGK6L3HoKKQQhhV+X/5MmXVh9K8419O63UTnVjJknCJBEC2OPi0J0r+XV3Dw6KUpWU9x22ulSzuNdOPVrej2NYQ7K8yyUtiA5N8rUlIM4lz/ZuTpCWdKVIyJCnCMifs2NHfkXtktg5voPPE6ljxz4nwhbMASWXamWn1z7t58+VxJmUHhZ34My8+D72nJecnyIBD2n1bur0ejLWuHZbVA822LW7OLgjuWXIKClCBd9jbS1o8GHBl8rM6C27PsO2R4t6C4L+8kBAixbTiwy7tDcoUPctS7q+kmpe6CojadpZ5AebfWKbzA8yQTqsVozUSpP8Yl+1N/CnyGTmMc=",
+  "URL": "https://github.com/WoLpH/mt940",
+  "LICENSE": "BSD",
+  "ARCH": "any",
+  "BUILDDATE": "1575860582",
+  "PACKAGER": "kpcyrd <kpcyrd@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "python"
+  ]
+}

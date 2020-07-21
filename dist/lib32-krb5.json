@@ -1,0 +1,26 @@
+{
+  "FILENAME": "lib32-krb5-1.18.2-1-x86_64.pkg.tar.zst",
+  "NAME": "lib32-krb5",
+  "BASE": "lib32-krb5",
+  "VERSION": "1.18.2-1",
+  "DESC": "The Kerberos network authentication system (32-bit)",
+  "CSIZE": "919056",
+  "ISIZE": "2645586",
+  "MD5SUM": "9dc36673ebef49a0d1069b249f77d4aa",
+  "SHA256SUM": "c807764a2cd0149035667a08080b1643a997570df2603f64351c327ab87b1737",
+  "PGPSIG": "iQIzBAABCgAdFiEE4kC1fixGMLp2ji8m/BtUfI2BcsgFAl7JTZgACgkQ/BtUfI2BcshiyA/6AlKh9u7844ZFG9Nq8yaZ/DROLST4P2F6l0/EDYWHuuVZV4coK6eIhMIioa5mkEHG5YXT2dyaFaax/6XglSuZ/C4Sj6Ya2Ew3vscLxxH8GHBo9okipGDMORuRZpA5OhxjJdsxoZ+ycok7AnFCoIyEBC5TuW7YWH5Gq5uggngTwloE0wS99nTqEF/OhP+6n6I/hzKL+TFE/9LljKxgd1dWzPQEPcmZ90bqEMInCthzi8IXt3IFUnxBee7nCA/0hWPPuxxeGO/JGt9xyFifh68Vioo/DCVoMAZh91t0hLdwCuqEjVGCkMM3Mgxu+Z8CfnOv72a22uN47bntMKfapvn2SnHucQQHywNF3rMJ0lnfjB6oH/YXXsArrm+o3rJiMITf56Go8jsrPWOX2GAU3kB6pWxyIRB2KYERwiOuc5hT2a6pXRF5PE1D8tmcSrzhjM4cmSntFyh7gCJ9AXHPVtjfmcw6bi8cFZBIYbA6n/wZ194Y0q+9/UOO9pYw1jWNjryesXJVFREAhalhtWSSeXDk7szoNk7peZlsxaOUlKaoxfR0U+jyusc5lejWPI5an/634Xv7k6BZ6g7pcH6hx2kDyKQaSm9MJj5Q08rxSmAXnGQYuB8XWry3byTAplWYc7BEtYz1gg1I1u7TOrAhb/K1+WZq4WCzXCgq6BcFTsjUnH0=",
+  "URL": "https://web.mit.edu/kerberos/",
+  "LICENSE": "custom",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1590250812",
+  "PACKAGER": "Levente Polyak <anthraxx@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "lib32-e2fsprogs",
+    "lib32-libldap",
+    "lib32-keyutils",
+    "krb5"
+  ]
+}

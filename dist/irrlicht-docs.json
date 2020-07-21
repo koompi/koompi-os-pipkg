@@ -1,0 +1,26 @@
+{
+  "FILENAME": "irrlicht-docs-1.8.4-3-x86_64.pkg.tar.zst",
+  "NAME": "irrlicht-docs",
+  "BASE": "irrlicht",
+  "VERSION": "1.8.4-3",
+  "DESC": "An open source high performance realtime 3D graphics engine.",
+  "CSIZE": "8254898",
+  "ISIZE": "65907020",
+  "MD5SUM": "9c910abfc99588e66a543b79d24cd505",
+  "SHA256SUM": "6eb4e6d2c127230845ab619f05f2d1a7817982e7d059b19789fe6a2f342749ce",
+  "PGPSIG": "iQIzBAABCAAdFiEEj8FaBklQqZ3RvRTdOeS4d+YuuRUFAl6DJZsACgkQOeS4d+YuuRWRgA//Qbn7r4QbC3gOcsTroRDl6nXwS8kjM0JjwxSwO+JEAhWvgcKQ/1tgl9zAg0kJ1cUoAscJNplY9DfO46b5ckATUV/PmA3ClHQ5/JmIkLLgqy14vT2Obs66QaRogrpz19ACw/odto1jUwjUUpdRyMUV3GQsl/ufh4C3+vH4T/vZzIz7MwYI+k9st/qb+bpAicggmDZ7jrWB5zOBc3+676vuqqyY85ZbX1RnYjkELlvJcm+bc9l42IVoWwyhlv6KF31kVyMHABh+XVlvZkoNU67KMZcbvVDVEKLFde6/G6VOsI9S3xYtl/v61lGaFbjIvYt+kL4yJTZMSMNvcWFacVJ9fngWfSSw68BhBHddwT6Pd69ci3ha7BlCr2mNT3f9iEbB3QYdUlVv5dKk05Nun8A4lW4ZPkG+E1pk39HaSJ2+0sLM3Lt73bWpP9X1V7+oK94bFgNHv9XsM8ewQSn/cQuxTvaLhn1q1T7clsGqRm0GHBboaO3CLsEZlzSHmxHBH1z8Eg95wRXwDWwLrlEPMgoBhQWNJV4nrb/dIaRCZo2hT1BHg44J5pgOs718yT8yKRGDzIon+vsTmxOhut5NVmKolnhZmesblYotWS8OWsILRlli5ofiy5JoTxp3NsLZS/4OTD61BI+SY3FLJzGDQsizAB3uzl25WT2IvNTaVcM5i8s=",
+  "URL": "http://irrlicht.sourceforge.net/",
+  "LICENSE": "ZLIB",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1585652595",
+  "PACKAGER": "Sven-Hendrik Haase <svenstaro@gmail.com>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "libgl",
+    "libjpeg",
+    "bzip2",
+    "libpng"
+  ]
+}

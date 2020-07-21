@@ -1,0 +1,26 @@
+{
+  "FILENAME": "perl-curses-ui-0.9609-7-any.pkg.tar.zst",
+  "NAME": "perl-curses-ui",
+  "BASE": "perl-curses-ui",
+  "VERSION": "0.9609-7",
+  "DESC": "Perl/CPAN Module Curses::UI",
+  "CSIZE": "174310",
+  "ISIZE": "545000",
+  "MD5SUM": "049f3cdeda818ae4577954f278f91169",
+  "SHA256SUM": "2123e7c69f2a22d602bc7547da6eb4226aa55b31e5ab23f8dba08045c6f660b4",
+  "PGPSIG": "iQEzBAABCAAdFiEEhs/8qRjPOvRxR1iAUeixSKmZnDQFAl7vhCMACgkQUeixSKmZnDSXkggAsqaWuDGaW/1S6oyTGrMFoGiKrNn6380de+iBNFXFJJVkqj8ZTE/pu0zGarsfKTzvdklzD0bGsBKIkJKf5GcO3xWfcsGb/Kv+QMaF8XSgPeqmAKHghAGsMPU6hoose4GiVhRRvs5l4ZvpW/Sdy0kdxsLmAV4bg4tIlyW9OWiz1GiWyatl+1gzxLr97v0GnIllxcUecgzqM/+KMQC6ukYWNkbbIMqe4lv3WpJdDy9MXZFKMaRBLfJIGt0sqUsnZfDOY2/W7xmThWGnI/uV+8xa43W+losbZZ0Q3HiVfilpv6CmdvFn2aeXOjXwECIsqjdHaElR40N2j2ktaZHk1OB/wA==",
+  "URL": "https://search.cpan.org/dist/Curses-UI/",
+  "LICENSE": "GPL",
+  "ARCH": "any",
+  "BUILDDATE": "1592755214",
+  "PACKAGER": "Evangelos Foutras <foutrelis@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "ncurses",
+    "perl-curses",
+    "perl-term-readkey",
+    "perl-test-pod"
+  ]
+}

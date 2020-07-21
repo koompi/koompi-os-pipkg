@@ -1,0 +1,24 @@
+{
+  "FILENAME": "python-guzzle-sphinx-theme-0.7.11-6-any.pkg.tar.xz",
+  "NAME": "python-guzzle-sphinx-theme",
+  "BASE": "python-guzzle-sphinx-theme",
+  "VERSION": "0.7.11-6",
+  "DESC": "Sphinx theme used by Guzzle",
+  "CSIZE": "1540720",
+  "ISIZE": "4623099",
+  "MD5SUM": "6ca9e7f14927ef0333ea0bde40ebd427",
+  "SHA256SUM": "527da54fd81faa89f10d4d748cb9c4ce491b0c4b21dfe6a1667774bc05e8c4d7",
+  "PGPSIG": "iQEzBAABCAAdFiEEhs/8qRjPOvRxR1iAUeixSKmZnDQFAl2+A+UACgkQUeixSKmZnDQeSwgAngcMcF0S5l5oJDIYvLkocJ131dT0mG6iLEZ8bL0bIoAEyHVM9MOcnkg9C2dJ3Gym9IdsyGd/VIfOEkdTSm/a4ua+jHKGntaSNDAuytn3VVRL+l2xqwbvOfdkDfeNMMQMNI2yQPUfiH9jp7lshz0iPhX6b6seLyGG6vIvoYsQUbukFlQSRtBQ1rW6IZ/OsPkBsUrQUTs042S/qYc84OwO0tzgLuT+yGP68rcKYJSRwp/TLMGArq0DZ5xBK9cY7cn6Dyk9+LwHdWRbwfr9SP9lendURHktPb9IAtbIUqCzDzja5WvyQYqs9b3QSGOP8xPf6240afzb6SHZ2PXeS/1cww==",
+  "URL": "https://github.com/guzzle/guzzle_sphinx_theme",
+  "LICENSE": "custom",
+  "ARCH": "any",
+  "BUILDDATE": "1572733891",
+  "PACKAGER": "Evangelos Foutras <evangelos@foutrelis.com>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "python",
+    "python-sphinx>=1.1.3"
+  ]
+}

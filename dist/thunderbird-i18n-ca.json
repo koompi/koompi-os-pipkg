@@ -1,0 +1,23 @@
+{
+  "FILENAME": "thunderbird-i18n-ca-68.10.0-1-any.pkg.tar.zst",
+  "NAME": "thunderbird-i18n-ca",
+  "BASE": "thunderbird-i18n",
+  "VERSION": "68.10.0-1",
+  "DESC": "Catalan language pack for Thunderbird",
+  "CSIZE": "516916",
+  "ISIZE": "578440",
+  "MD5SUM": "3b9c3d083746cf4420b0b7538f0d74a7",
+  "SHA256SUM": "32c41898998f9867f31eabdc7a0a96f58a718c363b876c4232c018b2b2f8f325",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl78eFoACgkQeGxj8zDXy5LNaBAAtMCaVLeMW1tLqmVSt7/C46g/M4WmAPPrBjpGdyGqschVVWdaMBk2Iv/ApCtQi/QcWo1TwGkRhjXiXxjopdox5pkEklcqxskL2vgTdZSAiX94bIeQXbbthNeHF/lBHGhFgOUTLrkYtrf9V9aDHOd59pGXjlgdMWboMb4XbftSgxeti24oUQEs7gheoVDv6qXR1MKhyTeOQiF+JOvcD6RBEj7nwsGjpJtsEtULtsGvO9CY28EKj1YLKpOl71jDt0WaUoQEWF1w7RLyeo7aQcNA7ZiJT65ewzFCQDGUURmvRXb4N70zJntVxROY6duac4pFl4tkR0gtaJMzLifkvh9nb6/E4VGe4VetkdrBS3OciWcxQMlpznBnp8eNVF+GLmEKDiYh/i2rLo5z0heDjb4EjcdmpkEAOOxwQBdgRDE1pKLNlPjYle/8H45eowMYLnF8dv4qbDkJcpqaL2FmG7NlQZ6mbnAIReXxsyByYW5AiwTzOg7pvnV9MUpxOgBa46qNcRP7f7reDQp8rAMHhQ3hZDupm1GNEvS3xC1ZeqZwccYHctxQLz7rMtDwUQ8+XflfXFR8oDajeWL//VW0djL4EZglWgjaOZwjiS4Pt8Xm/ecAd+93EegFqk5z4eQ4tQfkQl83H6jVo8KGzgkRUdUHX+9/yXd0Qjj/7wfGvrqjRUI=",
+  "URL": "https://www.mozilla.org/thunderbird",
+  "LICENSE": "MPL",
+  "ARCH": "any",
+  "BUILDDATE": "1593603702",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "thunderbird>=68.10.0"
+  ]
+}

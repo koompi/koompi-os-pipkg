@@ -1,0 +1,25 @@
+{
+  "FILENAME": "cgminer-4.10.0-3-x86_64.pkg.tar.zst",
+  "NAME": "cgminer",
+  "BASE": "cgminer",
+  "VERSION": "4.10.0-3",
+  "DESC": "Multi-threaded multi-pool GPU, FPGA and ASIC miner for bitcoin",
+  "CSIZE": "384865",
+  "ISIZE": "980183",
+  "MD5SUM": "1205bf1327e6fbc5cc93f5bb07c463f2",
+  "SHA256SUM": "71937449dfaf84c69ba243b68f82ca01beae44bc04dc643de098a15eb0de185d",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl8E5/oACgkQeGxj8zDXy5LjFw//aBhIzAD8Y4Mb1K2NGA9BVpvfwKhWCs85O9hyIjHRSxIFG085xKMqRRJ8Yf+URadYbo/ML73NPIZ+/RFY+rJNevmzNVM/iUejoCbSnM3hoHicXBiMmTFi2FpTdKrudzlZZq6z4wHcaWWhYwsfyrE+DIvt2KMTB/ilRlQjQwm1/qsTgAdjxjstDpgdTe1aND23+dt4lgW1QHdakP23+7yqnuGVbiQbS1Kp2yR+5ueN96LRgj2rlICzBikFsgObMDQd/RUIFG0adFMUzDkiibt8dQszq/5sudavLkJIO0Gb2cQZ0w1qQ7jDlQjglLn7xD0Kx9nrKHv0wo7wIniXH/uAUtuNT7Zl4uKm/3h9CLO/vlHiukawMqJ5b2D4d6sSlgge1Q3COOQWkI4ytyESng97WiuDDK4VwCFxjasF++vDc022B7EAraOnkzfu7KMcgrHAgfaRxN81jtmC81iEttN8N4ZVKThTzgqVg4w8y5r5ykZ65yi44LE/osGJVl3YbiBQT8Xg53qsiyAfJT9ENJC31eX8irwsdirN16mu2MRlYQMCkJVMhGOW7Ki7dRV6pVqtrewLFkmttDpkF+LT8PoJOM7Az9HzKCWhufzOStldCEBqdoYRY+D/l/10ANE8qkvzT8QzKj7JrNwOG/PYoxTNitFf91a2nbQYXjV6zD2CSWQ=",
+  "URL": "http://forum.bitcoin.org/index.php?topic=28402.0",
+  "LICENSE": "GPL3",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1594156978",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "curl",
+    "libusb",
+    "jansson"
+  ]
+}

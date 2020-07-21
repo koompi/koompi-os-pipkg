@@ -1,0 +1,24 @@
+{
+  "FILENAME": "jenkins-2.243-1-any.pkg.tar.zst",
+  "NAME": "jenkins",
+  "BASE": "jenkins",
+  "VERSION": "2.243-1",
+  "DESC": "Extendable continuous integration server (latest)",
+  "CSIZE": "63989522",
+  "ISIZE": "67042423",
+  "MD5SUM": "1178910d129154f0f164fb31d78257c3",
+  "SHA256SUM": "3dfe74a891cc2996ae506f7851a31b3e580c09055c1d943d3338c1efbfcf0de7",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl78vLMACgkQeGxj8zDXy5Kb6w/+Mp15/BHxSq4ls/DQBzQ8pdKUvV8GHwla2PBqqF1wKxg7UAmQo2PkVqmYVuUsBSeYANyGNxg3HBPmHm0mdf4HukckdIBRsCD0IszKByGvV1QEOBEeKxBIoCJ1lMnjjx5QvtVPlTozlfeFioOYU4QiK06m2dCf0Wpeg3Vv00aiS7D1dbCv2XjWvJA2PpmVgVFMcYrC4+vmFD6joQN3wL77zLu5pW0FWL+QS19cpX3UHo2zYvQpjmQcKDMu3ME9sVh2wEl7eqwmFHBaKEMgaOJISrnfCgljcSFigchu6nJaD4ENl9azgH24cmrbHq5dryr5XhqNxjnbbwazFYow/UM6B6LDyfHvB40avkZqd61k9y+/ksn07q7DEM43PbW6gqLoieKKJlBI0kH1kPWntIV2/JDJBGcU8imeJq0zDl0JEHD5D3xs2IlpRVITR3v3n2U5v35RTDmchx+QB9CHTYc9P7Zktn64CEDjGGdLAIMv6zMDDWzSq1l7k5HoRHRET76lMj3sa0+vDi6V66XLrmPYY+3oxfEnz/YxAqA7+HOLARQrUUMu4Y/omhXKQaa+rqC1f4J0WtNzBBPgXgzw0TCZeXhrtffhDLfXkUZi3v0F2ehsIOw9PLf2EljVbIwbxUXwh/C4fU/yIp80Vhfm6WLxfpSTZo9/cZHDJCjRgrfDUew=",
+  "URL": "https://jenkins.io",
+  "LICENSE": "MIT",
+  "ARCH": "any",
+  "BUILDDATE": "1593621456",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    "jenkins-ci"
+  ],
+  "DEPENDS": [
+    "java-runtime=8",
+    "ttf-dejavu"
+  ]
+}

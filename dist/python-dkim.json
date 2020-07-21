@@ -1,0 +1,24 @@
+{
+  "FILENAME": "python-dkim-1.0.4-1-any.pkg.tar.zst",
+  "NAME": "python-dkim",
+  "BASE": "python-dkim",
+  "VERSION": "1.0.4-1",
+  "DESC": "Python library that implements DKIM and ARC email signing and verification",
+  "CSIZE": "65535",
+  "ISIZE": "255382",
+  "MD5SUM": "084e659971162fad35787979d4386fea",
+  "SHA256SUM": "3af90ca9444eac22c3b740e448ff9a161bce479db4620fd9d7f7965676f99e70",
+  "PGPSIG": "iQIzBAABCgAdFiEEBNw/sURf7KgTwn766k97MhqQatkFAl6Lg6AACgkQ6k97MhqQatndPw/+N8XMRxKS34DRjTJ61MHpIFb5MJFr6wnDdpN5nlhZH5tTG2RL1r+tKObe51vEyaUf1WHHslYQ+xKiqgyGpl0+PVj7qka0KyRR8Jji/4Zqf3GxH4gdNLDeQE0ZMhKu7j9aNcrkELvFXc6dEouYpFjpQgof7kAuQZ3LvKr4yL+8gIHxOovReKHEdkhtFD/FZ3cPYE8tYbYnANKfXm2ilMzPDSr3PP9hGs0Tjtyis5Ott5mlIjEqD7oYbGccYR+xhesQVfCalVNXkKb8/oUXVy0hoD7mfriXqzgmydB2hQ2BSHPcRKLaHaUbowEnngiUP0MiEx77rY82cISCEahfiTpVtvk6RvWg0xwKSb3AgdPoQ52R/To5GMop8b6YSnDQgjFaEAOkv4QjpX/4x+xVpd3tqXCnibPPjbHV/HrN5YL288NuzkO8waQ4VJJnKgrPfv8b+8l6ADZmvYjn+PSG8V5TeqGVrtKvcgbcyZ4WXTf7IlvdWUfOgUY2WYllndCSXy8XOUxdB0l6Dn7Bo2QgFuXy0GHt8jNMJW8VO8L0E2zcrBJgEvTguJQgmVp7vkaGiTGt1S7QkAtoryiwclmnFnC/Qf+9BJHlTsYVVj6GufNrTQhDkpB6xwjDQPG/s9wYyRbhaLi3jU5jKQTa4z+/gGbfJ1yOOU3Q+Nyl/el9Z+gpa5Q=",
+  "URL": "https://launchpad.net/dkimpy",
+  "LICENSE": "ZLIB",
+  "ARCH": "any",
+  "BUILDDATE": "1586201387",
+  "PACKAGER": "Daniel M. Capella <polyzen@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "python-dnspython",
+    "python-setuptools"
+  ]
+}

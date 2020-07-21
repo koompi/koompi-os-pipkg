@@ -1,0 +1,26 @@
+{
+  "FILENAME": "pyrit-0.5.0-4-x86_64.pkg.tar.zst",
+  "NAME": "pyrit",
+  "BASE": "pyrit",
+  "VERSION": "0.5.0-4",
+  "DESC": "The famous WPA precomputed cracker",
+  "CSIZE": "124423",
+  "ISIZE": "727573",
+  "MD5SUM": "31f07869794d2767c65357abc47617be",
+  "SHA256SUM": "6f2af341949719fa1084583a83287e6f1f55c669d742628f7370a632a9a83ee1",
+  "PGPSIG": "iQEzBAABCAAdFiEEFRnVq6Zb9vwrc8dWek52CV2KUuQFAl7SxLgACgkQek52CV2KUuSCvwf/drkiHcfPu4886NkoHOwZAVqmKP+AzXdUmf6NgCLJOsndzuIj9fWqgQz+3fNeIQgSbY6aL3umMr4WTLT+dbWeiKSC9L5le2vmCjgkybsDp1OSRCZuJh2rItpKPMWV5j6sk/d0F/tpYdavW0um7ZsALZzURNIijCyll2Fi/S9sTXayYEvnYp0g6QUwxQw6/OYtZ2Hl10ejtyvGvr2BTwlmSgth7V80wxNH00fvtMUt6DbEVHVsh+omfQQRysdy0d0c614WJSkdCKvMDQYhDb34y7NNMsyc85ePNpmM3YwIGy5bU53YuWDpzHdThf6zeHUPeWuVohDGyBIUgMJyvMCXwA==",
+  "URL": "https://github.com/JPaulMora/Pyrit",
+  "LICENSE": "GPL3",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1590870933",
+  "PACKAGER": "Antonio Rojas <arojas@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "openssl",
+    "python2",
+    "zlib",
+    "libpcap"
+  ]
+}

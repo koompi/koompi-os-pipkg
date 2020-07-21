@@ -1,0 +1,23 @@
+{
+  "FILENAME": "riot-web-1.6.8-1-x86_64.pkg.tar.zst",
+  "NAME": "riot-web",
+  "BASE": "riot",
+  "VERSION": "1.6.8-1",
+  "DESC": "Glossy Matrix collaboration client for the web.",
+  "CSIZE": "8270868",
+  "ISIZE": "24309713",
+  "MD5SUM": "9503c5b813b8501eee24f8908ce360b7",
+  "SHA256SUM": "48cd3edbaef68a214ab82d503b6a298b349a585a3a4a074795e9edc2dfcdc92b",
+  "PGPSIG": "iQEzBAABCgAdFiEEado014/g79WWrG0EnYk+xNqvkSkFAl8LWDkACgkQnYk+xNqvkSlgRQf9FEbfBwUTbLrLX1hmLdwH70QmGzIXHy+N2FDb1bhga6oMVNZjMXskihuImIrcT8cgr8FzM+zp3LxGJa56NjFaUAvxTqblIcHjuifEcfBfN9jzFlVETE4UGUV3sFPDva8dHVq1lUKm5UK70KK4jNDi9RZ0YUX/40/4s0kZRlqhdLFKz9i4jKq9FLsoscF9WE+8AyCa6+OpcvNdlXOt8fWIErIiGxn1qwWvdQKuhJboeZYtotWmO5ZB5E3ZoLmqmMThb8y6qZUvRTSKu2suVaCE/28q41GvIrEJM8c0wPb1ZA9U1VHv8fCdpFOyjjgHb7o35YWxl4fnjph0MUNhfiAlsg==",
+  "URL": "https://riot.im",
+  "LICENSE": "Apache",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1594576739",
+  "PACKAGER": "Bruno Pagani <archange@archlinux.org>",
+  "PROVIDES": [
+    "vector-web"
+  ],
+  "DEPENDS": [
+    ""
+  ]
+}

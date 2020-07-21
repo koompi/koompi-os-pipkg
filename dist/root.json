@@ -1,0 +1,43 @@
+{
+  "FILENAME": "root-6.20.06-1-x86_64.pkg.tar.zst",
+  "NAME": "root",
+  "BASE": "root",
+  "VERSION": "6.20.06-1",
+  "DESC": "C++ data analysis framework and interpreter from CERN",
+  "CSIZE": "115929119",
+  "ISIZE": "378894315",
+  "MD5SUM": "1e10849e6050863d52f39e4a2790c5d5",
+  "SHA256SUM": "5eecd4410fa0f32948f9cd27198db31cd439d32d1e738d175ba013979f6e31af",
+  "PGPSIG": "iQEzBAABCAAdFiEEU1nMa+iBGLUfXJC1YH21X/cbcFIFAl7nc2QACgkQYH21X/cbcFKMhgf/cKWvO1ZgJa3u/cjcCG01978NHXgoS9QiWFuX2EYJsKyLq1ytbtBbNE1DoYZ59NwR1TjUQCq9UGNQG7kYGyAUCxvAIxRsKaMdUHVZbqmoFFv2BpRGrwVJZmaAq9tpKnxlUJH8E+1cbiSO32vP2eXl2a49phPBVD8iHmFDH0nMdHq8Xyqjiaq8P2hsTJntd9kzfEbCPmMwPA82foEw2h4kPlfaSSLUDbEnqvRxoPBxC3ntUTmlbysPYCB05fdq49UEcULtQDhnF7pWmqRHUCquT7p+GK3iSUx+66klka8sY9S1NP+qH4I/8lXtedmhsb7c0xEk89T6Lw2yjo9xe3rYfA==",
+  "URL": "https://root.cern",
+  "LICENSE": "LGPL2.1",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1592224477",
+  "PACKAGER": "Konstantin Gizdov <arch@kge.pw>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "blas",
+    "desktop-file-utils",
+    "fcgi",
+    "fftw",
+    "ftgl",
+    "giflib",
+    "gl2ps",
+    "glew",
+    "graphviz",
+    "gsl",
+    "hicolor-icon-theme",
+    "intel-tbb",
+    "libafterimage",
+    "librsvg",
+    "libxpm",
+    "python",
+    "python-numpy",
+    "tex-gyre-fonts",
+    "unixodbc",
+    "xxhash>=0.6.5-1",
+    "zstd"
+  ]
+}

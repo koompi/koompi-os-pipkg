@@ -1,0 +1,23 @@
+{
+  "FILENAME": "gambas3-gb-db-3.15.0-1-x86_64.pkg.tar.zst",
+  "NAME": "gambas3-gb-db",
+  "BASE": "gambas3",
+  "VERSION": "3.15.0-1",
+  "DESC": "Database access component",
+  "CSIZE": "38531",
+  "ISIZE": "103071",
+  "MD5SUM": "82031b4b8f2801a60dd0bbe5991ffc7e",
+  "SHA256SUM": "44547c8e9c942d8f85aec5c113e9f9922c1c6c8d228f70059974f7b00440df90",
+  "PGPSIG": "iQEzBAABCAAdFiEEU1+MAzlFDwVKTSgnBglqatHO3awFAl8C7RQACgkQBglqatHO3ayxmQgAr9LPHZBF1FICDMBMyIDrQ7hiOF8XZdQNHA44cJiIAW1K2w/8AlwdOOtm96RluVuuaPs5lPINIwruHD2/9QDFucgMlkogF2SZfpwVl3L4W2J88WCcunr/2Zm9yeprERSbg3RJf0jUnxJ7g/rVGiOYIMYfnodGOkeVils0eG9Ud2HZBfdmiUOVBK2Oy3knnhwcPopRI1rPhTrtDyXgaeda7MBAIdew/nDrZEUVYoKS9/mwYF8P+rVYgN4WDvNl2PtyYOqkmmf6iEbOxWR1ObGXCeyB+tr1ZBpaFj2DoELdBfBNAcNEPpSCmkQ3DPONxk/tVGXxeZKcFC+7cD5EvAlhPw==",
+  "URL": "http://gambas.sourceforge.net/",
+  "LICENSE": "GPL2",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1594026389",
+  "PACKAGER": "Laurent Carlier <lordheavym@gmail.com>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "gambas3-runtime"
+  ]
+}

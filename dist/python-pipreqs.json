@@ -1,0 +1,24 @@
+{
+  "FILENAME": "python-pipreqs-0.4.10-1-any.pkg.tar.zst",
+  "NAME": "python-pipreqs",
+  "BASE": "python-pipreqs",
+  "VERSION": "0.4.10-1",
+  "DESC": "Pip requirements.txt generator based on imports in project",
+  "CSIZE": "33707",
+  "ISIZE": "99624",
+  "MD5SUM": "af29bdcd1ff73dea30ca982288eb22e8",
+  "SHA256SUM": "3669d0653a71568857031fd122c407944d256869ae55d4e48b4c94a2b933696e",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl5DAh0ACgkQeGxj8zDXy5KEYw//QeXdgcY/pIpsBwQ7zNh/nPOJ5ZQ5rfvChyT3+OXyHo3m1eqpkLfArKZWflIarpw5QU/Ptu0bPEYhsAXMV0axW483NoAbOfS7OaP3W7ma0dFMEGwZHecrmwGeP0q4TOUJv38voFwJp3Y1RQem/U0uRatlzEMgCirjLL47KXNpTsWJOC6OKVm/W1Xd4bGG7c9J4SVhmJMf0F/aXDRY7cScPqTuIxiRp/XCqia77bKKy7tnsmd3jlRqjMNA8fLqtWimJzzsxfuOBF0ChwmlBbBudEhfhC6EJ8xkI8gJBJNFjQXE1Uvyk/cCXVk5p2RqeCwUbjoECXZWNiV2sJxC/9NiTmU2dZcDiFV9kInCPh+n7ruR+dwGNCqKtnNAdFDJTkK2wypsxAjSMIrO6RTlBm286Q//Ltmqps6SEoynOcdLPvuxyrRT4zd301oUj9lRQCygoq9Z4gQJqT6DOJ5Veu7+FMhTCdsCsdQkKaPLtP+hNckbf4s3W5Y2/UiUDtBayT16oKQYnoSm75yAJLd/zlxeg55v0nW7EOLmvbbNMp5NsXtyFpVXlKqbBgoWwO2O9ZPK1GOso83BvkhKqWmVIBvuyIqlWazDmsHZ9/bNRBVQvDOu2Xv3J4B5XNysHeI69uvCtiG6tWJzmjqlHS2U50igZgVozMTx6Fk+BwgXKFJ3Aio=",
+  "URL": "https://github.com/bndr/pipreqs",
+  "LICENSE": "MIT",
+  "ARCH": "any",
+  "BUILDDATE": "1581449727",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "python-docopt",
+    "python-yarg"
+  ]
+}

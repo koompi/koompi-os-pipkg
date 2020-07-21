@@ -1,0 +1,23 @@
+{
+  "FILENAME": "python-args-0.1.0.20170708-3-any.pkg.tar.xz",
+  "NAME": "python-args",
+  "BASE": "python-args",
+  "VERSION": "0.1.0.20170708-3",
+  "DESC": "Command Arguments for Humans",
+  "CSIZE": "9108",
+  "ISIZE": "30897",
+  "MD5SUM": "a86aceb81caa61afe0ae92111ae29f9f",
+  "SHA256SUM": "a3a1ef5a146515fa8a89ed6503bed085b7e9ae729394a0d0f3dc602ea36aec26",
+  "PGPSIG": "iQEzBAABCAAdFiEEhs/8qRjPOvRxR1iAUeixSKmZnDQFAl27HF4ACgkQUeixSKmZnDTjHwf/eePkKhbbs/IgOVgmdYursbcnTrpkZjmOFByCraFau6pJQOiJLNb8PfQrQHfCO4wJ0KvjcGZoxtYfXp0gFyQKZrWR7T/YDgFXTABZuZeIFjs9SDMYna47l/QAIZOrJ2rJgCAzP3Yh+76V+p5LW1QfYJ4NB7sGXIxftHoQZRl26hYPAOZKHDOT8L4U37v//z5mXBPQ8BSffIDHL1Tc7watWLGd2qNdiXTBQ4PbcKso0Vu9vKost9UX7NByN1Aed5LnpMSwNF5OEZ0ZFUAnt1pGoZ+gSe8zurYvGCdZfg9+YbxopmBAFJnENpzTI4d6UYCol5rdUAxqKe+jm+sKilTYaA==",
+  "URL": "https://github.com/kenneth-reitz/args",
+  "LICENSE": "BSD",
+  "ARCH": "any",
+  "BUILDDATE": "1572543564",
+  "PACKAGER": "Evangelos Foutras <evangelos@foutrelis.com>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "python"
+  ]
+}

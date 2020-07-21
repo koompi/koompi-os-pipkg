@@ -1,0 +1,24 @@
+{
+  "FILENAME": "libmesode-0.9.3-1-x86_64.pkg.tar.xz",
+  "NAME": "libmesode",
+  "BASE": "libmesode",
+  "VERSION": "0.9.3-1",
+  "DESC": "Simple, lightweight C library for writing prifanity XMPP client",
+  "CSIZE": "71312",
+  "ISIZE": "333543",
+  "MD5SUM": "79ba7ff5d09d1b8234ff4c80bfd86c21",
+  "SHA256SUM": "fa203690484d4fb3aa19f514d76914172a3e8f6efb29a788a71050962c46b83b",
+  "PGPSIG": "iQIzBAABCgAdFiEE4kC1fixGMLp2ji8m/BtUfI2BcsgFAl3J5kQACgkQ/BtUfI2BcsgyVRAAlWB0/FLRHurzfgLkQ0e//zNYFSiDf5OhXn/hJTOlGN6lMIsFcCfVobgmirXFRHg+i4IMAI9JZVrhaQialnID+QttYgb5rJ9AXBhvppXg088PLTfriiHaLNFV2AYavqaUmsbOa3gBWo1GcRh9o0HRbvE1jC0xFBzbo4MS+89rXEeerzSP9r//tIMTddIRIujyfosoa7g8Z1JaTILvMJ39hRArX0OTHjlrWka6VLsUTII7MkbMNjpEsuS/S/Pm1HhuKgXAeW0Thm1neK1YltLLlhNFlE+H//FC9wDg59clOA+pk2juRnNJkd9Z0VCtcflSkCaFz2oLjPBru7aHKVAJhMfrDAAm56dU1SeMQp+w6uK7JZkyM3Fd8ZiEQyMmqGJ13nogr+m5R0aihjfyp+87fXHppcV4T18DQdImdmn4x/CZGwX8jRF8O2G/FpRMa31rQ9KBG+8IViI8lQcwMgVwAzzosUOQw/02pwcr5HhyUsRtDqRRxKm+TeNnC/dnPgnbwZPgiajcAZOs9divdpb9mSde+vWewGcGsovyr1cjPO7jmO6lS9XAd3I5flrfQCs8h2dwl2gfaE311KrkHWz2NO7YWs53kikAMmREeObTS1rlr+yl5rZsX/OUhlQ7iabTiULZMImmSLyvwFwx86dkyyeajxas9/jEDN5P75kMfO0=",
+  "URL": "https://github.com/boothj5/libmesode",
+  "LICENSE": "GPL3",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1573512673",
+  "PACKAGER": "Levente Polyak <anthraxx@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "openssl",
+    "expat"
+  ]
+}

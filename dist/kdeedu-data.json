@@ -1,0 +1,23 @@
+{
+  "FILENAME": "kdeedu-data-20.04.3-1-any.pkg.tar.zst",
+  "NAME": "kdeedu-data",
+  "BASE": "kdeedu-data",
+  "VERSION": "20.04.3-1",
+  "DESC": "Common data for KDE Edu applications",
+  "CSIZE": "342842",
+  "ISIZE": "4044799",
+  "MD5SUM": "cd3de574fda716d4778c6b69e50507e8",
+  "SHA256SUM": "d9c73cf1bb73f14840a8755c5eebc53a9f5fd4571e2c66ff4aa8544cd4e0b423",
+  "PGPSIG": "iQEzBAABCAAdFiEEFRnVq6Zb9vwrc8dWek52CV2KUuQFAl8HAfoACgkQek52CV2KUuSa3Af/RtZEWqF4G2eeaJ5sI35m942QUl6VxdgBwyEGmz3hcWaDLuIU4EM2q0OicSdXgjxLWcWZmsq/254nNCScQkuWtG2UYldUeIL/eusTb49LRQFAeHl1WEfvKnNHZ0sPaeXwo5apUxEqlpoEqO1PvrqR2K7q5IL9esRLmXSTU/pxtkfexdhKcwvxAygByq09t1uyw5FYsx42LPRo7m2lknVwHmafsLi4OwwgxuT5SKBRUd2u8nEoc7FiXVSQaT5hwgfeLKmsPGISUGqfF9iOobw3pLpZgKD8skimS2Qi9IxDeJQOzNOIwojN6IYjF8tEZuT0T1Sd6FsPP/cMbHss4Dg65w==",
+  "URL": "https://kde.org/applications/education",
+  "LICENSE": "GPL",
+  "ARCH": "any",
+  "BUILDDATE": "1594103447",
+  "PACKAGER": "Antonio Rojas <arojas@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "hicolor-icon-theme"
+  ]
+}

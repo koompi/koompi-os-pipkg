@@ -1,0 +1,28 @@
+{
+  "FILENAME": "libquvi-0.9.4-6-x86_64.pkg.tar.zst",
+  "NAME": "libquvi",
+  "BASE": "libquvi",
+  "VERSION": "0.9.4-6",
+  "DESC": "Library for parsing video download links.",
+  "CSIZE": "44922",
+  "ISIZE": "125906",
+  "MD5SUM": "868e447f13d753cb0208e0346823d8d7",
+  "SHA256SUM": "51cee17cbde2a6fe5c616db4d6b93b018354a1da20d8619f339c51e0d633a044",
+  "PGPSIG": "iQEzBAABCAAdFiEEhs/8qRjPOvRxR1iAUeixSKmZnDQFAl6/8NEACgkQUeixSKmZnDQDfgf/Sv8bxJyzsqLzzU9zUWqIEAO1HiqXsX+l9cGlPJ3/aUHXgFI6XdUErLKVUywihlLD8mPU+BDnJPAP9TZ4ZlPKzH6twEpGBbqR63DriZWk3mzFolzG920UNpT0WmkENwcvjNktFt8Y3uJDDXi8pHVTVulJpZBr4MbuausAR6PzDfd/2+mp6G4/4+bGsNV1mpl3aqbQvbQRjwEDDBTzRwA38cOm8oX66dVbJwZk66THhwfsm65iIHgzRgbTtIFkTbtnew13sFNaPbFCoQWanY58cMoDKzxeSZCz40wjovQVz8QUgwEMukbUwoMUsNquvrQa/B4ShkbeAHxdc444DGNHUw==",
+  "URL": "http://quvi.sourceforge.net/",
+  "LICENSE": "AGPL3",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1589637267",
+  "PACKAGER": "Evangelos Foutras <evangelos@foutrelis.com>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "libquvi-scripts",
+    "curl",
+    "lua52",
+    "libproxy",
+    "libgcrypt",
+    "glib2"
+  ]
+}

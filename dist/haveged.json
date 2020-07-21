@@ -1,0 +1,23 @@
+{
+  "FILENAME": "haveged-1.9.13-1-x86_64.pkg.tar.zst",
+  "NAME": "haveged",
+  "BASE": "haveged",
+  "VERSION": "1.9.13-1",
+  "DESC": "Entropy harvesting daemon using CPU timings",
+  "CSIZE": "46679",
+  "ISIZE": "154147",
+  "MD5SUM": "7f76f9f5eb125664e13c630e879e3517",
+  "SHA256SUM": "0d43d8aa2f17ddfb187bc8cddd4c0b25b05e5aae06e2963eaa60a66f51c7b3c9",
+  "PGPSIG": "iHQEABYIAB0WIQQEKYl95fO9rFN6MGltQr3RFuAGjwUCXvj69gAKCRBtQr3RFuAGj+LxAQCr0a5AZn0lJe0DW8rK0GQATB2NW3TVHfmJ2MKZHoLxDwD3X4GaGr3EFSy4gooVUsPzTjkJET6EjSYdOrek3TxeCg==",
+  "URL": "https://github.com/jirka-h/haveged",
+  "LICENSE": "GPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1593375367",
+  "PACKAGER": "Christian Hesse <arch@eworm.de>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "glibc"
+  ]
+}

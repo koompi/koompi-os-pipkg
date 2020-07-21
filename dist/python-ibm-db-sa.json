@@ -1,0 +1,23 @@
+{
+  "FILENAME": "python-ibm-db-sa-0.3.5-2-any.pkg.tar.xz",
+  "NAME": "python-ibm-db-sa",
+  "BASE": "python-ibm-db-sa",
+  "VERSION": "0.3.5-2",
+  "DESC": "SQLAlchemy support for IBM Data Servers",
+  "CSIZE": "42964",
+  "ISIZE": "233036",
+  "MD5SUM": "b0d352eb5a9c53ff423c7c2d00ce6a4e",
+  "SHA256SUM": "aa2938b9cca5d6083634317fe025ef832fffafd03c226bafb42e676e74f9762a",
+  "PGPSIG": "iQEzBAABCAAdFiEEFRnVq6Zb9vwrc8dWek52CV2KUuQFAl3FvuUACgkQek52CV2KUuQ45Af+Pz1F5U6F0B1SxBcKE31D5ZEjp9M3DN8KOJWHk5oO7LRMKSKqjy/txV2BEuY2aQILHjEN3/e78rDPkmmZXlhU1+vkvZZ2SzYkgayWk3g855mhFPVIl3LItbxkHiqcucpBgcF3fsuO214FYydVrj+kIU8mkeB59fchGuyzlY8m+k0kdNQ9ley4RI5TyFTDpD+i4O95KV+oCQyBk+AtIPSTG6lwrlMg7mrqtrKU4TfUJ58/Q9xWFDwtqLteT2y/LqfiAFecZx+5S9+sp0aSo+h1BHD0xfCksGqKypaJ1D1pMeZDhwXyHdUeeF0YbUXkJky0Z9oOYYaNQ9ppVBFkTZMYlg==",
+  "URL": "https://pypi.python.org/pypi/ibm_db_sa",
+  "LICENSE": "Apache",
+  "ARCH": "any",
+  "BUILDDATE": "1573240514",
+  "PACKAGER": "Antonio Rojas <arojas@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "python-sqlalchemy"
+  ]
+}

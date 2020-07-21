@@ -1,0 +1,24 @@
+{
+  "FILENAME": "dfrs-0.0.4-1-x86_64.pkg.tar.zst",
+  "NAME": "dfrs",
+  "BASE": "dfrs",
+  "VERSION": "0.0.4-1",
+  "DESC": "Display file system space usage using graphs and colors",
+  "CSIZE": "659710",
+  "ISIZE": "2173232",
+  "MD5SUM": "06e551688c4e40ca154a1a3709671726",
+  "SHA256SUM": "4aa2296a70e452de0418a706736ce9f0ef94577dae230d32b09905f33f1c635a",
+  "PGPSIG": "iQIzBAABCgAdFiEE4kC1fixGMLp2ji8m/BtUfI2BcsgFAl7VSZMACgkQ/BtUfI2BcsiROw/+Pi/5+5wPfsiy0OK/jRON0dOJ8UECNQqYBQ5tREOftUhuaGLNr5lU5rCvmPC2o9a0vq0Ch7k9TDntLKDfBh1/Gu8llwDMJ/hKfnafJpA3jfSRVdcVLEnLGbqRVa8yTCYYejlAPeFN2kaKT1kcDBn1O8jdKqrUrm/hi92xwUg2hRTIzBiJ9KKpjmWAizxsBg1aEQS5V9lLMH4yxoOzcBxMEzQQjOuowokdQL5Z+IQah64llxpa1jT2Prv77wJE9oAWXxlD2KQcdtxiZpN3T1v4/Remqa8B3EXRAVgrZSO8q3rK9NWzi94ZTb6rG3x9w51mWigtFJQmO0V7/pt7EkHlFTva49eWYff7qKLleIJiO5ceeiXcGNsQ/eQKI+/r1MUNZ4uc5Zyksd3bgUGEgq9eFXDNGek0BA8kSgIqW2Ofio56eYyC0h3rI6HkeuBlgTsB57slDbKM1aG9QSTT9O0/u1XiuV/aq5iNBsRN/xPnDRoL/SJUAYqUUaXb3NN+UrOa6hCE4dwMn1JuVb5oX0lvmE65OolL2EImlWNIpSqz7cb+brMEbZqeQ/hi5gRV5gWGz6OoOHsm0oRBcHhjs6BHM81ixk5QiRP6gcreJ08RqKtSsHD1rvCGpguvTKSMJQozPNvhNK8gOr1le9GnGUR/vhNi8XguTcvcJt40bwn0XiY=",
+  "URL": "https://github.com/anthraxx/dfrs",
+  "LICENSE": "MIT",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1591035868",
+  "PACKAGER": "Levente Polyak <anthraxx@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "glibc",
+    "gcc-libs"
+  ]
+}

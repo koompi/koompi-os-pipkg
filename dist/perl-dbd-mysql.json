@@ -1,0 +1,24 @@
+{
+  "FILENAME": "perl-dbd-mysql-4.050-6-x86_64.pkg.tar.zst",
+  "NAME": "perl-dbd-mysql",
+  "BASE": "perl-dbd-mysql",
+  "VERSION": "4.050-6",
+  "DESC": "Perl/CPAN DBD::mysql module for interacting with MySQL via DBD",
+  "CSIZE": "230458",
+  "ISIZE": "652085",
+  "MD5SUM": "dd5424226ddf1409f75c91f18d837dd6",
+  "SHA256SUM": "e35400aa59a3eea7448b2c6fd6c65d2bb35950847e63cff5b2c163a5f1df307d",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl7vPQ4ACgkQeGxj8zDXy5JJSg//ZmbQdQwzC/cy0fpONBhq3lTO+ggef0VYNU8TSI7be486MigQlUhr5VGISB+2ba5AeHSx/K7NG2DzBNnC8grziK5JlIeG/sfN2b4Rj4pna3cWeraHsIFO6Fmn0/yCmE7V1OpnoBO63/3hKvuF1z0DayC7/HRiae0oQUdO79SRgnwamWW6VE1ENER+vV1ayDpSsxRnoPmVvZVPzdES0fXZT4i3XUzinH3AOWENxTHdyshqqzweTWmvWFvxXxJYictCwTYRBdWLP3HHZijI6pV4zUvBSlH9kYYeFpgPNvSgPaLP8wLsC3a5B9W33JBnjEtem8gq1oWbjtXNOhahtaZ14Ji8NnELMvGxcAcH3G/rG5IYNr5gA71h+IV3K3ZGeMmnJ60sGEZR8hXfacpGCIQHdFIgzgBT7S651rd7+d65aqthXvQ6Zcah0e8LkKUWtn9zN9qSYNgPtJW/firIAOGaRRWoDWgwjlyRSe9tg+4OKJ7v7DNkyIKXxcKjsvUf6G9SOV+EwI+w5fhHcQrVfHbhUtb5O41schDZv5d1hAI01q2lotVHG/O/PE5gkL4YcP9PO2uBOBjgeIyQ6fO1+NSL4MaTTrsmGlOb/ehug/pk3Fo7I4L667yox5aC75HftVx3RuUnRlFwohw8jGs2uj9DKR+g8fal28gPy1r8s0qR4WI=",
+  "URL": "http://search.cpan.org/dist/DBD-mysql/",
+  "LICENSE": "GPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1592736963",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "mariadb-libs",
+    "perl-dbi"
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "FILENAME": "python-librabbitmq-2.0.0-4-x86_64.pkg.tar.zst",
+  "NAME": "python-librabbitmq",
+  "BASE": "python-librabbitmq",
+  "VERSION": "2.0.0-4",
+  "DESC": "AMQP Client using the rabbitmq-c library",
+  "CSIZE": "56236",
+  "ISIZE": "165588",
+  "MD5SUM": "9ab5880efc18580149fee692a790dd54",
+  "SHA256SUM": "3cfdd2c8d3b354d6bc4db8322a223bb6ed382ee495ca53b753703711cf468628",
+  "PGPSIG": "iQEzBAABCAAdFiEEFRnVq6Zb9vwrc8dWek52CV2KUuQFAl4TIT8ACgkQek52CV2KUuQ8Xgf/fDIADGpGwHlgyYItAGWrxRG1k5nLO7VHBIDeOoJAzO58A7aFmrDpyBBj4x/smImvKMikBbid3oy/S0pp/UuS1N6h05EjVStRZHQ059QUFN/iLI/JoUCOzUF9A6icUyTyVdrcyXpgk2ZTIA+AYGlkS3aGY+uoO7MCmyn88tnXhkwMTiyRDptNSsT1gdLXYUYCassPWs9i04eiCyB3GDJVGa3wfqARW7N8mLAN4JBGzfZmzgN5rzPg+lHDnw4/889hRCgvoVVRouFCpSPwUu/9/xTEcR+QRDZwk4HT8XPBb4H+hAQc8nqgMZHFGOhD14wcotJfvqXQA1sKvgNTVybZXg==",
+  "URL": "https://pypi.python.org/pypi/librabbitmq",
+  "LICENSE": "MPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1578311934",
+  "PACKAGER": "Antonio Rojas <arojas@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "python-amqp",
+    "python-six"
+  ]
+}

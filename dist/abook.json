@@ -1,0 +1,23 @@
+{
+  "FILENAME": "abook-0.6.1-6-x86_64.pkg.tar.zst",
+  "NAME": "abook",
+  "BASE": "abook",
+  "VERSION": "0.6.1-6",
+  "DESC": "Text-based addressbook designed for use with Mutt",
+  "CSIZE": "76820",
+  "ISIZE": "204176",
+  "MD5SUM": "92da038653909b5159fd15f642032d40",
+  "SHA256SUM": "8f02e7a54858d45286da1cd0f65e1772bf42ccc6b214e39da5b1a481607c0e7b",
+  "PGPSIG": "iQEzBAABCAAdFiEEhs/8qRjPOvRxR1iAUeixSKmZnDQFAl6/9F0ACgkQUeixSKmZnDSoSQf6AgAhXsyfZFU4Dofn/HEx//h+TwvqocpiaeVkU5TUzPJ61vAcx/EJwTOx7YyG6W+SRcsMeUDdbjPZvBgsADcscBzj0YUTucONxK/1DOLCqtMFcKL2fEVVppOuGhPIhCFa0W6O0t22oOvRnYatpolzp+0yyMD62Dfif7Bptlyc1pVjub6sWWSbBeCexk2W4rkG8BWuclv1iypPhPSoaGO5hbioYa/upLYclnKCRVeCVaAXGXWMGr23m3C6L1XQoPcNxjITQMng+KTGWZGxnuJhqJWeLSa9gXtcgBfI1sfX9cPv1c/buHoNxTvNazv4Qa5yPhPHWMedlSKvkqCGsQENlg==",
+  "URL": "http://abook.sourceforge.net/",
+  "LICENSE": "GPL2",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1589638195",
+  "PACKAGER": "Evangelos Foutras <evangelos@foutrelis.com>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "readline"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "FILENAME": "python-bottleneck-1.3.2-1-x86_64.pkg.tar.xz",
+  "NAME": "python-bottleneck",
+  "BASE": "python-bottleneck",
+  "VERSION": "1.3.2-1",
+  "DESC": "Fast NumPy array functions written in Cython",
+  "CSIZE": "108008",
+  "ISIZE": "524285",
+  "MD5SUM": "c5cad6396762f00cf5cbc3a732fc02f5",
+  "SHA256SUM": "7cf7a14cb2c251cc39d0e0bf0994b78c3642266f3e66e61a82037775d1d370b8",
+  "PGPSIG": "iQEzBAABCAAdFiEEcXAmqdR3n8U5QHJmQPVXtzFJYQYFAl5mEN0ACgkQQPVXtzFJYQbhtQf/S6LcSB4zpdVeEw0eexvIgZU6iSMdjb98WO2vWticR1BgUopP4Dx8RIcU+PJfymxhMj/wiQNA2V8tmAtP/Cc4t5TFsgKOJ/O44Bl7kYsHM7AqhDpNZkNSfS0mp4THEMpBKEuZrNaRP91DpaAavu5Jce7ejz3PI2D35mBHfw3th6MBZpZ+9mPFzp9ndP5V86dansgKv8Yztp5zCY8a7TIVW0TrqRoRHVoBxWVWPgG+d/rOUZeWM/gqodtZVdeQWs3aWCEeU1bWn7rfaEVQCg6G4M3tDI8H7XE/FNJblxFmYWuAz1P4RUFYdHt5kE+3ywDg1y4uXedqjco/PzQ5GodepQ==",
+  "URL": "https://github.com/kwgoodman/bottleneck",
+  "LICENSE": "BSD",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1583747257",
+  "PACKAGER": "Andrzej Giniewicz <gginiu@gmail.com>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "python-numpy"
+  ]
+}

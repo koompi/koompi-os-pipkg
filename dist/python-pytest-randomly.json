@@ -1,0 +1,23 @@
+{
+  "FILENAME": "python-pytest-randomly-3.4.1-1-any.pkg.tar.zst",
+  "NAME": "python-pytest-randomly",
+  "BASE": "python-pytest-randomly",
+  "VERSION": "3.4.1-1",
+  "DESC": "Pytest plugin to randomly order tests and control random.seed",
+  "CSIZE": "12202",
+  "ISIZE": "29096",
+  "MD5SUM": "314114a3bea00ab45cefcf2466c36ed3",
+  "SHA256SUM": "76b421a78a11cc9b3e26e1b1ccd2d736d34f238d5d838930cd65fbe4ac384745",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl8I4jYACgkQeGxj8zDXy5IR+w/+KrOBv3tocHrEuIrVs3Ugine6AsGfQyWTcevdkZ+hmxt78Uy9epz3sgvZH1wtTHrWtJqt561XCjhcm9TWCPKKSdrGHsZ+Yy7rEzantvsoUU9PG7TMSaAMBlnVdbJE3lHV5mPr1/1skz+1D+kYqGsLVdo2mkxdGut6iBGzxLwR+V8RYal+4coGCzEyV0/UBeLJ7C6gyof+Y4637VTO+KNWHuKwYo2KDG5/4s1/jwXCfx4AvVFPaL/IVpHY8vtmzY0xbN/xKibKnemx8LmtPzEo7KF9tvlqliNDUS6gxyIKAcfF+r3+u1nr/NQK/yeijttv+8tDjaBAwuYyCmxWtq5NlEt5JA/P1URk0xv5ZasiJts47FvwqF42180bCgEAT2sqNG5vT1cwxBPJb8qwuJJfIt099co/W3QjaPn+rO4eW+HAMV2fjbTXNWrrQyP48gk9B3Png2zQoHF2PldtIztz8mAmynpty9/yJhbDaQ+kTPu9QFjKpWviseIvzUVfo3xNLAAdLS3Wn7R6ltU/+BJiGeNVsKXY79bibtuqVjWC9CVOitMyp8glTiaPfT3npuKpIG/WLi/SvlaH5iiSt8fXedlXJzpIjo06IDiAeBdLCjBIaCOlYwvfzbyz7ihSX7GZeoUPYSYvas7pmB3BzapPi8p/yfXCgUU9MoIZtqDxBqw=",
+  "URL": "https://github.com/pytest-dev/pytest-randomly",
+  "LICENSE": "BSD",
+  "ARCH": "any",
+  "BUILDDATE": "1594417685",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "python-pytest"
+  ]
+}

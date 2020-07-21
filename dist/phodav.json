@@ -1,0 +1,24 @@
+{
+  "FILENAME": "phodav-2.4-1-x86_64.pkg.tar.zst",
+  "NAME": "phodav",
+  "BASE": "phodav",
+  "VERSION": "2.4-1",
+  "DESC": "WebDav server implementation using libsoup (RFC 4918)",
+  "CSIZE": "55989",
+  "ISIZE": "178530",
+  "MD5SUM": "d9742d860beb267450388e5ba0038e4d",
+  "SHA256SUM": "347c3ccac49e55dbdb044f1506a4b73b2b6bb1a567e110e78082d9113c53ec05",
+  "PGPSIG": "iQEzBAABCAAdFiEEzgvecadZqH8j8PfYth284QkBwWMFAl5k0i4ACgkQth284QkBwWMLiAf/XtSFhZcjdrEAL3DRx5bbJ4Peg8oVK+bi5f9y/5n3FjZA+UskZpgDngeTe6yNPfUIhAkNj9CT4hOT+tiv6JQo1fWo1bpiAgA29wNZxf/guJHujRiB/Fkrr2jNPj01B025otycN6krTStx8yMrbZ/6THxIoo6/DfKNnUxwmF51U23AFJM6EaI6Yd7/P2VtVbuGOw6quy3yLMWSj6QsLlHFgcXnP7hR+AdpYYo2addZIUEC6wijVeiB29iwskGqNaCoUdaQSEl2H6Y+R/arXHGNpXpEECzFnYVQtyW+3fMvrumk47/YYf0RCT1Unpyd8wPgy/LAktS8hmwYKiVIoKFkdQ==",
+  "URL": "https://wiki.gnome.org/phodav",
+  "LICENSE": "LGPL2.1",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1583665678",
+  "PACKAGER": "Balló György <ballogyor+arch@gmail.com>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "avahi",
+    "libsoup"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "FILENAME": "libexif-0.6.22-1-x86_64.pkg.tar.zst",
+  "NAME": "libexif",
+  "BASE": "libexif",
+  "VERSION": "0.6.22-1",
+  "DESC": "Library to parse an EXIF file and read the data from those tags",
+  "CSIZE": "479270",
+  "ISIZE": "2641466",
+  "MD5SUM": "197a951fc564f010ad4a017bbb45e86a",
+  "SHA256SUM": "77a39c2b397bd9aec8dfe945b715321a139a11c494849f892223e9e9be4fb32a",
+  "PGPSIG": "iQIzBAABCgAdFiEE4kC1fixGMLp2ji8m/BtUfI2BcsgFAl7JUBAACgkQ/BtUfI2Bcshfbw/+JXDFIyN3xBKAWqUNCfDVQ75ByZc3pK82U9IHQ4DiJnOFtGJLMrAXi+uSeH72WhDvj2aXgj3QW8BYOLpl0vG3OSNrvmYmDuKXatIrQo9Kkf1NbNcMjr0qiyyb8ajJr+ic+KUd7zjdDf9EYxzCsFh6OZhFsO7hnGlsTUPldfU33oOGMVxzBVsvBNw5GSAztuSOJEQfst7RJOgUF6/4lF6GiHaU1KD5J756XMgIo7Q3QDohZCCDMze2ML2Fuo/s8KrDbYJLqwqisr4y16ml7G2Vge4Hd8sVFo/0Wm6+PxlqTkIcTfTo6ntGaN2ejrBpzM1r+MjnAWIUaGxwevsFp4Zvibrbyo16x/Cf3Iqd4733HvytHwuV+nQ47UNbALRNHA3ioszpWsQLqOVzxtmnu1S4f79MtWL7nSWWf0hBzHqoQy5F3hIzYk/HN6j4e7tj27v8N5X7zVMVoxhzDWKq5bGBN1+vmFs9vEvHsnO1Caxh4Jfdb/6X+9N9cDOcdKs5Q2wiCZA99NXR9srFLrTR3jmuCpzgrDZdK6Jdz+zyvc98DLFDuZvkpQj7emDc4/mj8U79KDhws9rm3i5MvM0R7fwzxrtgyrmT9rfAdLrpcJjT0c12KIm50XM4cFK14uH3a38c0svn0vhc5SSSSF7pYDvfE04QAjFpaacX1N9e4ytnERg=",
+  "URL": "https://github.com/libexif/libexif",
+  "LICENSE": "LGPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1590251484",
+  "PACKAGER": "Levente Polyak <anthraxx@archlinux.org>",
+  "PROVIDES": [
+    "libexif.so=12-64"
+  ],
+  "DEPENDS": [
+    "glibc"
+  ]
+}

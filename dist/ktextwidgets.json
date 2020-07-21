@@ -1,0 +1,26 @@
+{
+  "FILENAME": "ktextwidgets-5.72.0-1-x86_64.pkg.tar.zst",
+  "NAME": "ktextwidgets",
+  "BASE": "ktextwidgets",
+  "VERSION": "5.72.0-1",
+  "DESC": "Advanced text editing widgets",
+  "CSIZE": "870646",
+  "ISIZE": "2246709",
+  "MD5SUM": "b4363047f014fd8fafe4995861ad6e6f",
+  "SHA256SUM": "ec463b468a0df0def47706029d32668fb14c8a5b0b23bdf965b0d683947f4c65",
+  "PGPSIG": "iQEzBAABCAAdFiEEFRnVq6Zb9vwrc8dWek52CV2KUuQFAl8JYF4ACgkQek52CV2KUuT0gQf+JSvtiCLl5ixu2+XH4hvwG7cJXLs/BmpNd1CwTdorO4kc4kWZ4CyWP2tb60iliV3GpvzuKyQ5vC4kKKEb2MBMdP6rUxRFjGHYj0YYtG6wBFqiVQILsMlp9Z6LBkeDxS5SIDLjbtek4hlLLu3/2D+Uror21LTgRWTPhJmvzDeaaYw7/a6xTd4JEJqK+OTyYveL2XHx1IIXNCy5+KbHXIgfugUAK184PBouqb1B652kBRdeOXgQtTtb/wh/e4cmp0omaRdBA/EqQ6SHGrV84E7ni2BAurFFpcw9LP04qIS5cEZTORuNFwNKdwjs6u2Aq8uviyoiAKJaURSLnE8nsY9wrA==",
+  "URL": "https://community.kde.org/Frameworks",
+  "LICENSE": "LGPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1594201418",
+  "PACKAGER": "Antonio Rojas <arojas@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "kcompletion",
+    "kconfigwidgets",
+    "sonnet",
+    "qt5-speech"
+  ]
+}

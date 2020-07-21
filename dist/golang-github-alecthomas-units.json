@@ -1,0 +1,24 @@
+{
+  "FILENAME": "golang-github-alecthomas-units-0.0.20151022-2-any.pkg.tar.zst",
+  "NAME": "golang-github-alecthomas-units",
+  "BASE": "golang-github-alecthomas-units",
+  "VERSION": "0.0.20151022-2",
+  "DESC": "Helpful unit multipliers and functions for Go",
+  "CSIZE": "6028",
+  "ISIZE": "9724",
+  "MD5SUM": "4fbca78b6bf722c525354b1ab0be176b",
+  "SHA256SUM": "1a30f74c33233e02de30f295418bf2e063c37ec3888395f3dfbfcf758f11c88f",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl71odQACgkQeGxj8zDXy5JB5hAAp+UH+mQri11yghUnhIWdfyzyvLvHxE/d8efRdDqGQgqm9iptUzLuIvNP6ajQ4kcpQjZ4veUvnnJvGuhqitr5soIuuQpLF0bXD7qDnrsy8l4t2k5fKcXB9G2tjWitOZYKuZBsiWzAo2dhTMrpvdT29iRRiQG6cU78MhD0nfwU+5dWxXUwFxroaaUUn0I2C+CenumYZcdXfsK395xuf7yxGl3j5GFmHd92BQJSL++L/oLlNVO+wNzQf+B+J3CIDdI14ktSag2PITVokMCjI/yLqMZj2rCIFZVTSrpacFIIXv7lMq/hlQAS/imYEbGPkvKDQ3zsXrIeF3qZBfMnmEeQ4KYTBgCyd5MXTDJmp58W7WjXZKqQPALZXXFvk/s58R3zU/ED4quFJlyNDQUQrWIXXtThKROGBjfA6j5rRE3RBj9DPHs+RRmSvsUFlQSaH5FFo1ERzelbPDeq5ihk4mS/k5AnJaCePHfGIv3pZbRYQr2C3cCLWdYQ7HcEgxGVk52qFY1EWPRrQPO7jTtxMdgMtt+SAuzaO9qm4+S7hhNskGnI63ZkWaTTT0Z/9+bI5jmswO0NOOGPtljvW4YE47vajTKQU9NFPLa+nrTSGSvg9PDqO8+TY/xH7ru6kkFAj+lpA/m9QbHqk3m/J9W42mP3YK7TooZSf4BdfvRKkzkrUOA=",
+  "URL": "https://github.com/alecthomas/units",
+  "LICENSE": "MIT",
+  "ARCH": "any",
+  "BUILDDATE": "1593156017",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "go",
+    "golang-github-stretchr-testify"
+  ]
+}

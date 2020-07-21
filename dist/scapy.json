@@ -1,0 +1,24 @@
+{
+  "FILENAME": "scapy-2.4.3-2-any.pkg.tar.xz",
+  "NAME": "scapy",
+  "BASE": "scapy",
+  "VERSION": "2.4.3-2",
+  "DESC": "Powerful interactive packet manipulation program written in Python (tools)",
+  "CSIZE": "6164",
+  "ISIZE": "3267",
+  "MD5SUM": "c361e0aa7dd40d74bfd8d1099e27f00a",
+  "SHA256SUM": "4da1fe2e5f34c68f5f692809ff7be1411e9bb148464ed4137ff764c0db85ebe2",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl3BJMIACgkQeGxj8zDXy5Is1g/+JxNCc53W151F9400Hthy5WlIWQFVaMVMLRa+pkXOSR33ovCY6muuyuiO2UkdJB/Zwrj6AGNVuCnM+kbLHrgNOtMz86o6+H+wrdT0/gka9V2EvKZA4KxlaF3Xfr4MX56iqeDua47P96s+yiy2RADlQ5AusF5Ebzgj9Tpcxg/iqu56xyFRS64OM8I/Ovlo/rZsmR7bwLI4yCykQuy5cGRZvPv7/N++95wTTKYoTnKthVaxnFyyneLQJ4WHqvfwtXjV/2qxzagk8CF7oSYgGStcU50aIFkVuSngzX7DYyfhW0JWc8MPKJIdqbtaf05e5StuoEQhJeNoVxaaPN5ycm5d0+xQyPnWIp6XtUkYh47bvcpMKE6NRg1NdhubzO1YGImc665vJDwsqOjnPyIJ/egcPlAlCofaST4ZhstNboPlTdU21vnhCaQ7u4tL4zLClCBWtP1rd5PMMrYKXWwdBrAXNShSidKpN9gRPL16gvBXpPYMd39f2lHezTauEMoLpTYDs6NlH+OYUYxx91UY17qPSxA1MxVWiFvB37Dy4iaRPltPXbpgaOlss0RoEL103Ank0sQD9JOHE9BhNTHpjsojqIypc8FCEbuA8czwF+lXH8W0M6k/1r5vtWF0jnKzqoz0ZnRYZm3JzwCFtM2rMO/XnQqGkr9+cQhrOHOgALwsgRY=",
+  "URL": "http://www.secdev.org/projects/scapy/",
+  "LICENSE": "GPL2",
+  "ARCH": "any",
+  "BUILDDATE": "1572938728",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "python",
+    "python-scapy"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "FILENAME": "perl-data-uniqid-0.12-8-any.pkg.tar.zst",
+  "NAME": "perl-data-uniqid",
+  "BASE": "perl-data-uniqid",
+  "VERSION": "0.12-8",
+  "DESC": "Perl extension for simple generation of unique IDs",
+  "CSIZE": "5395",
+  "ISIZE": "3763",
+  "MD5SUM": "253aa8f534fdfaf54319d80784188052",
+  "SHA256SUM": "e7b4c8a75280a88ae71b477688c2f600c383d3898ec35415de3ca16c900ea259",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl7vN9QACgkQeGxj8zDXy5KRUA//cQliTNroxEdgsZu7C5Zo1358E3TZ/olVkNlZITsB0sMewW9gMn6qqvYyQ11UrC5bE364+Eb8sEOR9cxiD+NWqeyQ04M+FxD4ET0KRxBEY14DA+DXTtjHjxrklqWwTPWmMvY793FJxGElsBf6Jgg1wYRNODOTh5Yq3+quuf5Aw8Vufi4cHybbYT3V56vEbVc2oXfyD76lpZPqRzxW0eeCmWqKGr2V3viZoIxXpkT6yzbJ+sntZBENHOvKWI4sf054/CqhKf/vvMJRNFUWw9+XyrjUmHT2D3Ib1I+RrtSOGZMF+im6yVOxvWe6lXITj3BdAxOfJ56fDDsJvAI0eYtM3e8GDdgHWrO14KcBMFFx8z/1gAjXgFDqljVJEZDAboTpHPGzCFHR8GFk9SPejGIxYDMXge3aHeUjLZT6dURsR4C98Al6hR03eLeN9nkG5P7llLxzHdfVCIhRM0dfTYNmDHhddbF73rn4mvMoJ8QGM39/NeARgfDK8YFVG07baPVq36/n3Dwkx8zRJyigSwElJDAe4YO39IIZ93uVDqmZlORRJEUK7iBw3QFdvFf0BC3ZO/cK8rx+j/WdA98SG3lCxvCf7ANzNc2X/mKugsBs4kJYA0aO9yGmgvs0ixIeiNBtmuSj5yiptqkGRsy4zERhfMG4SHNInboazGPg7MI6oWA=",
+  "URL": "https://search.cpan.org/dist/Data-Uniqid",
+  "LICENSE": "PerlArtistic",
+  "ARCH": "any",
+  "BUILDDATE": "1592735682",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "perl"
+  ]
+}

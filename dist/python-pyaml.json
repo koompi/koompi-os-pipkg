@@ -1,0 +1,23 @@
+{
+  "FILENAME": "python-pyaml-20.4.0-2-any.pkg.tar.zst",
+  "NAME": "python-pyaml",
+  "BASE": "python-pyaml",
+  "VERSION": "20.4.0-2",
+  "DESC": "PyYAML-based module to produce pretty and readable YAML-serialized data",
+  "CSIZE": "28580",
+  "ISIZE": "98760",
+  "MD5SUM": "54e6e95b45801d7f54c800b2bc436921",
+  "SHA256SUM": "43274e05792841a6a02cda35cdc0388a40e145261d02fee9469c50a66ea073c2",
+  "PGPSIG": "iQEzBAABCAAdFiEE5JnHn1PJalTlcv7hwGCGM3xQdz4FAl668X8ACgkQwGCGM3xQdz4rNQf+O6aeLNexNRpPWfiW8npTRTKWZnIAGOjgr6X7WzPMV1MdvaDFTdq+2SCzUctcK0EetvB5VKIANJNpXbzDkSEXQWGyvV4M3wMCVzf4pPguAUiyXM97T1mpL2hiif6Lib7Mne7K0Xq1QPTVm3aGZ6ID5JyjbjMT0L77WQM7x4fs3cUIVH5yV0YVhMPWBTn5cqkqmVAGt2IEyEEuqNW+ye1EyscYlSAZPDq7WSQOCaLT3uwwpY+3870vNRJvim1NaDajyegODKZYU+nxfx5/WOlpv6IVzNyO2dQSP3SKlmcNq+zS1w5/bYACTwQopg59KKMNIr2LCwzSmQJpcLdtOFA/Cw==",
+  "URL": "https://pypi.python.org/pypi/pyaml",
+  "LICENSE": "BSD",
+  "ARCH": "any",
+  "BUILDDATE": "1589309705",
+  "PACKAGER": "Jelle van der Waa <jelle@vdwaa.nl>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "python-yaml"
+  ]
+}

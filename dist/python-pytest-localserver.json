@@ -1,0 +1,24 @@
+{
+  "FILENAME": "python-pytest-localserver-0.5.0-4-any.pkg.tar.zst",
+  "NAME": "python-pytest-localserver",
+  "BASE": "python-pytest-localserver",
+  "VERSION": "0.5.0-4",
+  "DESC": "py.test plugin to test server connections locally",
+  "CSIZE": "22354",
+  "ISIZE": "62080",
+  "MD5SUM": "1a4e1da100bdf170f5a383f93767157c",
+  "SHA256SUM": "ca986ac122370f98eee6f103b2aeaed483dc762b18fab6ed3467abfc744b4a7c",
+  "PGPSIG": "iQEzBAABCAAdFiEEFRnVq6Zb9vwrc8dWek52CV2KUuQFAl4fSx0ACgkQek52CV2KUuQVmwf/QSqE5tDKDaDQRYfEsqutMTdWn38CNuQbn8qejQh4Fd4EWpfCOrmCreu/daxaiJ8JmSDow1cfuvopOoHLFXYLLi2UxrzVNON+SiCHZic12egf2qkkopgcR7RDRCHX8XSNIYKIfM/SzIg/pOpCpQVTDsp5QiyS+Pzq2GRcLBpmbAoV+JcEGfcX+vsv3UNMCbb5VQnWuB0R/4Zb5AoOYZt6xkGd7CapSEOMQysdE98vFV7+QpCf1JBv9nYKBrXu4+uoXUhU00EhFiP/0QMu1/Pp9d5kJvUWoJC7abhIoIcMN/ICFFQbWAXgtzv/MF0KHF6QWORon35fBZRLsedBGpm7rA==",
+  "URL": "https://bitbucket.org/pytest-dev/pytest-localserver",
+  "LICENSE": "MIT",
+  "ARCH": "any",
+  "BUILDDATE": "1579108726",
+  "PACKAGER": "Antonio Rojas <arojas@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "python-pytest",
+    "python-werkzeug"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "FILENAME": "python-asn1crypto-1.3.0-1-any.pkg.tar.zst",
+  "NAME": "python-asn1crypto",
+  "BASE": "python-asn1crypto",
+  "VERSION": "1.3.0-1",
+  "DESC": "Python ASN.1 library with a focus on performance and a pythonic API",
+  "CSIZE": "181614",
+  "ISIZE": "1269267",
+  "MD5SUM": "514af2a718c2e05e969a5ab562f2c1e4",
+  "SHA256SUM": "b67e5f7932868f0969f875e89e25e9804ffcca575e2657899891aa3e5962f53f",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl4Qz6wACgkQeGxj8zDXy5JuOg/7Bg4bu9ow7Tjz129lYfOc/StC9cVJ6r54h2DVHku7Qk0HqOMu5qUKwt7JYTwvv27Kh/971nI6ELnefhBDYWYIjjAg7xX5sLCV31E2yUnVovDwsLnGtJJn4detxoPWPBusY/aEOxWKE7t0Tf/LNid2bVSVb3hR78cBs99Tz1xMJpIHMJCunT6pI2foVzB/M3LZBBqLdTh7oNO7/EYz7g6+eMndEZka0HUp19S3XTNpv0rv7n+hz7ESaDiSsl0Xq1otzTYs7LYuNj/fNmLeWAVmdJpCVaVSQzcBAV5aDSJDN5ik67Ag/Ud1wGyzxyNwkbJtrhRbNMYapC7KhsacrC6ZVtwGuQo+XTBlm5OERC+oAuERTdS162fD03Kg7NQrXitPgCyAImmpoeYF7EuS+nqb5YHxfDufc2sbOyuDRRkOkmDnVgqZSFetNR5ky9CQBkP+8PJa1lFP0xyjbJW1i8Kyzy7TEfnMq6yU0JOUrlp8WEMrkCCr3qFU2nrkYghzeWZlwsX4d7cdCPSCF+yD+EoBna/U0GuA/h29fkPY4ihtOFBTandKcorND3n2sjGK80G6Z/AvZd42Rpy1BftZiVPBzT2ghQo1CUnQzaoAqm9FLnvUVjQfrD6x6ogrLT5mzfGAS5EfHzR2HUnwJryU/GrNuLU0sVc4oOYU4QqrX8xqD9M=",
+  "URL": "https://github.com/wbond/asn1crypto",
+  "LICENSE": "MIT",
+  "ARCH": "any",
+  "BUILDDATE": "1578159900",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "python"
+  ]
+}

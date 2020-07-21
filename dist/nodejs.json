@@ -1,0 +1,28 @@
+{
+  "FILENAME": "nodejs-14.5.0-1-x86_64.pkg.tar.zst",
+  "NAME": "nodejs",
+  "BASE": "nodejs",
+  "VERSION": "14.5.0-1",
+  "DESC": "Evented I/O for V8 javascript",
+  "CSIZE": "7980263",
+  "ISIZE": "28276597",
+  "MD5SUM": "cb04e98c30fe9aeb55efcadb38a4967a",
+  "SHA256SUM": "af5d5cad9519537193eddb119264e4cec5c4524d000a45b132f3d2b5463ea234",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl770wYACgkQeGxj8zDXy5JtWA//Vmd3RGBusu7mCwgUPb9ovWTLpj2vcRZKlc0dj89zmCMgHi0Eq+MK0BSoL/iFA9be8sFrHpXsso81DE9I0KZ87lkGCdTQma2GPZfrEEKvZ15AaJe1GDDWcT46XFkreNLBqrpX2LNaF143NMrR1CkM2VX0/VzpbF6z61VNPlG6Ux6moD7HSBKCFYifl78b+DPHSLDdb926IPj97hvM/OdYaHWzQLUaQ2hHBGgoLa7azSeB2fbz/6RBg6QXSCuypGNm5ApUWkCgCC/CJ+WZ3C0ZBSL1TnZmOv7Pyx0tuwZ1FEleS7mWEO/dSD4sMjMSKZdKVpBVmhsom9hRFDErCJSk+UBDOo3X70zJrcLCQ2wpDWdHFgEu6f/pYR5QK3c2cugR0MyJs5u6DIR+GR7FYZUNaZSZD79UkLvEOaaAsRltlywqVkCfH+mYNHYs8AjO+xCMwQsnjhBckFAQIvBRA2wWTJdATuR0P4qZ+xTgWbun4J4gKlAzaNC9fBLBarHudBVNJYZSfIVST1ZBUA0PEUP/0URzOf6depTEarC6et28AEJerAJByPliigG50DzWkze1759sI6v6zPSLWt84wEiNnxFgjETTSHSOAJbD2nZbS+IFldfHuiv8A19e2nh8tdzWwiv4mVUrxz55q8JCJLgEh3YYDBQBvKgYxJaCMJXTwuY=",
+  "URL": "https://nodejs.org/",
+  "LICENSE": "MIT",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1593561171",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "openssl",
+    "zlib",
+    "icu",
+    "libuv",
+    "c-ares",
+    "libnghttp2"
+  ]
+}

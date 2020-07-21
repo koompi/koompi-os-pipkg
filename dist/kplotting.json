@@ -1,0 +1,23 @@
+{
+  "FILENAME": "kplotting-5.72.0-1-x86_64.pkg.tar.zst",
+  "NAME": "kplotting",
+  "BASE": "kplotting",
+  "VERSION": "5.72.0-1",
+  "DESC": "Lightweight plotting framework",
+  "CSIZE": "241557",
+  "ISIZE": "485938",
+  "MD5SUM": "c9fda18f497d104a096dcb6ecb06e420",
+  "SHA256SUM": "b74a61f34f4d17c813fab57d664914d3248cc83ae4d7461a09f6aae2fc4407ed",
+  "PGPSIG": "iQEzBAABCAAdFiEEFRnVq6Zb9vwrc8dWek52CV2KUuQFAl8JYMgACgkQek52CV2KUuTAWwf/Uofw1H0DzKZUsuXGdXAYaaP1JRt09vosxR50QM6SilLWToUoKkAA40Q6MfxeAHVJGTPXXPBDQWPE0mq8HD9KUMO/62nmiWPRP/VN2U2S+9gxGLJdhWv0Z3WpkIk+2qDl/IoWfUttncNEIXr+ioGrLoAYz9xh7Dd0Hj+G90v9yiusoC/0GBwZa//mZP1JA2Dz7hBKFItKqwcSgwCVnj4fGvdzH8mCZx2M1nv8lPYooV9yO/00qzf0YzwhKIWzKCmkt45NKW64hNp0a9BHgrD09EHU+hbts6raOY/LV6yS4q8Da6lxyD5tdfMxgym5VUiwqZN/lBa3r+LvoFRvPnXRCA==",
+  "URL": "https://community.kde.org/Frameworks",
+  "LICENSE": "LGPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1594202044",
+  "PACKAGER": "Antonio Rojas <arojas@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "qt5-base"
+  ]
+}

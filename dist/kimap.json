@@ -1,0 +1,24 @@
+{
+  "FILENAME": "kimap-20.04.3-1-x86_64.pkg.tar.zst",
+  "NAME": "kimap",
+  "BASE": "kimap",
+  "VERSION": "20.04.3-1",
+  "DESC": "Job-based API for interacting with IMAP servers",
+  "CSIZE": "242773",
+  "ISIZE": "860614",
+  "MD5SUM": "94c638b9fc05ae48347237c719d1a4d5",
+  "SHA256SUM": "9bb3954d9c43d7550da066066e49d107169f05e5962fe1272563d14fd46500a8",
+  "PGPSIG": "iQEzBAABCAAdFiEEFRnVq6Zb9vwrc8dWek52CV2KUuQFAl8HAr8ACgkQek52CV2KUuRbNAf/S6p+twjXUa1uS/Ut3lSL2hsUl30KAAHDW9mBmLs2cVAYVINnRgHXQJbGN12A74d0j0JZ6s5MM51PJ68Ze9Fs+LV97dLPTDd2jheS6+KoMOF9bpsKnV0CkSKWy60a9BMm9f/y/xV95vap5bIT8i93C8+UzH5nSzjf4gO3/ykJShkMWHvXaQYx2CIjWgFaEYMd7Tauu+Z1g9aLOs1TT3rYhsIb7D+XgDexTClvmzKtF3obvndX25piPElMbKpllZZl4qaif/DVavNzvdqH56A5qJHZqx0LFWpNbZXycMzuvaYIFbC/7F//tCyAqGpRUxJ327phDKHx1dzeR0rddIUQbA==",
+  "URL": "https://kontact.kde.org",
+  "LICENSE": "LGPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1594104222",
+  "PACKAGER": "Antonio Rojas <arojas@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "kmime",
+    "kio"
+  ]
+}

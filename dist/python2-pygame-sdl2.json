@@ -1,0 +1,26 @@
+{
+  "FILENAME": "python2-pygame-sdl2-1:2.1.0.r357.6474370-2-x86_64.pkg.tar.zst",
+  "NAME": "python2-pygame-sdl2",
+  "BASE": "python2-pygame-sdl2",
+  "VERSION": "1:2.1.0.r357.6474370-2",
+  "DESC": "Reimplementation of portions of the pygame API using SDL2",
+  "CSIZE": "995992",
+  "ISIZE": "3551197",
+  "MD5SUM": "41e8385f5dcb4c518fddd46de01a7255",
+  "SHA256SUM": "9257a958d35dcd26372b5798954220696a274286b1c3ce90505234ee12fe2712",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl8EgjUACgkQeGxj8zDXy5KVEw/+JHShJPPjDIjqMOeojQJuqI2NHse+CQ8iHdgUaJFEpK2nMQH5K7s1jLalWlvK4PXIHWqqX7SL46rii5wL837gYc3+bWYaOATz+Y/lO6Ii+yaUW9Nsc+laKw3tG6s7mTuMHhwGU+/v9p3aADND7jZphHBtGuksbjky/CDLIiczUXAAJO7x7CeM7A+voh7A1AbmuVWEShBX4h86Te9QaxupbyqGzNzBHVs2lcgKjnYVcBiV9zuTTtyb3S9GFa+eXrCUXsucs1doYYwznKJ+0FQG1pKgwUaitN278SHGzLZi1EhldqmcV62xfmlWTDGmxlo8a4T7TvETnliXsRqRdFrCdDKoiGOi/0pPDlsEPIIdEdliCRPRhVPXoeUqFfb8CM+OVFts1ksk0yaPKoIbu6YS2KAvfsi+iy9IUPcMCUVdoulZ3q7rWCaqaYJ3qJL+Gp17tJ1acOQF3Mmrk5EL3i1fqo1VmaII85lAsLBBJfZHGRKwhs3TZGp2rW0cZViOLFQgISbcaFslc8eDmvWCvVVAT5p2gLwspA37NsxwxOmWb39+VJU4/SKLT80ZRKMT/BYLVRJkML88MybtGK7jqIZiF66bQKGwMU0CObXWUZC7LSo0nG9BoiZRdWAyCsh5UWfndX07pplH2/3z8fsn0UBTT8H2viV7yimFVcF/7mifrag=",
+  "URL": "https://github.com/renpy/pygame_sdl2",
+  "LICENSE": "LGPL2.1",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1594130849",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "python2",
+    "sdl2_image",
+    "sdl2_mixer",
+    "sdl2_ttf"
+  ]
+}

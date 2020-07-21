@@ -1,0 +1,23 @@
+{
+  "FILENAME": "sh4-elf-binutils-2.34-1-x86_64.pkg.tar.zst",
+  "NAME": "sh4-elf-binutils",
+  "BASE": "sh4-elf-binutils",
+  "VERSION": "2.34-1",
+  "DESC": "A set of programs to assemble and manipulate binary and object files for the SuperH SH 4 (bare-metal) target",
+  "CSIZE": "1943688",
+  "ISIZE": "16418405",
+  "MD5SUM": "ebd4e2135659ecca8a57d3a79b46b5ab",
+  "SHA256SUM": "60368a8e81096bad7db31fff07cef01dec9139371093febdcbc0949df6b5ddf2",
+  "PGPSIG": "iQIzBAABCAAdFiEE0jW0leqs33gyftiw+JPGdIFqqV0FAl5/rC4ACgkQ+JPGdIFqqV2BKw//SttKJ9cAxoJ/ZY4SoLOZlvuj/0c7700Av4HdgvG1UaR5df1FiIll2OY7KBVEKpUcx6uDCvy5k03o1UpoASkxKAbtnyENcMTfWoBjK756o2kOTUuo3VsS8ZZLFS2ohk+hunNEs8Fw9foZ/cZOZdwPVn3U/1hVM+jb8/OfG5Yq9r09/tYvOY8BmDnP9vKt8MZXSXhclYWyrEvSed4ezDu+L0hcDgESALzcxeeMNp6jFfr7Nkk1Pni30vVl2xeQ1wphMPrCGU/0I6xEL7r4ndlX9ITFhVW0gkwIF7u6RYeeLBSxgaKuT4yKSbbw2ngZi0H9Fmp5xTOyAZZ6Uolp1kvB2exbt1TTPWfDC3+rIGN+TLO5zqagJey0R1CMlL6EoYZXuVlaf0wD02oPXl5K4CRWJKlDsg9HiY265ZelzgpRPSEGp1K56NW+2lf98gPXVVIhRIWJMwQmZcKdS/OLTDMM0I3ztPSkARXmO2VvUi/SmRpscv2S7F4j+i4kQ4kcrN6qrbzb0kLQuts9o1XdYGNFa2QxADdwIxp/+P/Ah2uvXo7CDICGI4fwTUIudLKQBmog+v9ZuIDvFMUCoZJFDMDQ834ReG7/OqyiGZZG9Kx9Mnbs2+RmkXG49uL5cDZUVE284u0YlTfE6LZjT9sDLYGL1NXsUUWQu4PM/cVTSSnfnWA=",
+  "URL": "https://www.gnu.org/software/binutils/",
+  "LICENSE": "GPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1585425358",
+  "PACKAGER": "Filipe Laíns <lains@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "zlib"
+  ]
+}

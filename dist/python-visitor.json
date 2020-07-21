@@ -1,0 +1,23 @@
+{
+  "FILENAME": "python-visitor-0.1.3-3-any.pkg.tar.xz",
+  "NAME": "python-visitor",
+  "BASE": "python-visitor",
+  "VERSION": "0.1.3-3",
+  "DESC": "A tiny pythonic visitor implementation",
+  "CSIZE": "5800",
+  "ISIZE": "9169",
+  "MD5SUM": "7b38068c31f2f57aea0da0a130ef2249",
+  "SHA256SUM": "ff45576c2e334cde9319d727b7c55638094105b11f910f2bece21e01549ed594",
+  "PGPSIG": "iQEzBAABCAAdFiEEhs/8qRjPOvRxR1iAUeixSKmZnDQFAl27H5wACgkQUeixSKmZnDQwVQgAp9ykZd0Q9RigNiOtpwyIS9nK18icMjMBkwt/FvFzTFqxVWz9PMoV1dI7oy4Spd3fGVUAbXgGEEHLm+/rTo/BVeMuSo4wdgpfMczIZuAM3Zd2xyoQ/FmDrJ3d2pT8uw0UgIdLujSsEV+1xWUdjEFXcrladp1WeW2pgTPm1ibym79FBD36qLKVaWd1eoIY5u2UQqT/IvRMZqQNM2Qyg9lT7aPSLCwvsP8i5aAtS4Br1+IBVCkC6V4ARuQP7Qr2/PFB2WnZ8nTAws1ozVkCigK1C4UdAN2qZFIFBRvjGa1hjUV4Jon4a1IOg2+j0O11YlHyJ6ONsh4Eej9MVjvlf+XVtA==",
+  "URL": "https://github.com/mbr/visitor",
+  "LICENSE": "MIT",
+  "ARCH": "any",
+  "BUILDDATE": "1572544386",
+  "PACKAGER": "Evangelos Foutras <evangelos@foutrelis.com>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "python"
+  ]
+}

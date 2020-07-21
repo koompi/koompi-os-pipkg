@@ -1,0 +1,23 @@
+{
+  "FILENAME": "python-cchardet-2.1.6-1-x86_64.pkg.tar.zst",
+  "NAME": "python-cchardet",
+  "BASE": "python-cchardet",
+  "VERSION": "2.1.6-1",
+  "DESC": "Universal encoding detector faster than chardet.",
+  "CSIZE": "100482",
+  "ISIZE": "285174",
+  "MD5SUM": "e7c91732e73486f7260d3e51845af4b6",
+  "SHA256SUM": "3baa398ce28211d8efe16c47e1ec9ca44f5553cc16c36cbf76aaa0f12526a9b6",
+  "PGPSIG": "iF0EABECAB0WIQQsEYxiDwLbmsHQ+fqU3SOT2i7kIwUCXnNylAAKCRCU3SOT2i7kI3OHAJ9wwcp+9VooV85FEq0iTLPUBzG99ACfSx/6QTImOaSjj+UnTsnlce0LH0A=",
+  "URL": "https://pypi.org/project/cchardet/",
+  "LICENSE": "GPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1584624251",
+  "PACKAGER": "Massimiliano Torromeo <massimiliano.torromeo@gmail.com>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "python"
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "FILENAME": "pim-data-exporter-20.04.3-1-x86_64.pkg.tar.zst",
+  "NAME": "pim-data-exporter",
+  "BASE": "pim-data-exporter",
+  "VERSION": "20.04.3-1",
+  "DESC": "Import and export KDE PIM settings",
+  "CSIZE": "448892",
+  "ISIZE": "1452503",
+  "MD5SUM": "50747dcbb3104488f88d04fa1246c849",
+  "SHA256SUM": "772f85854f5a4455d0c105f7ca646799a0c29c5833b36965d796dc11d8de90d6",
+  "PGPSIG": "iQEzBAABCAAdFiEEFRnVq6Zb9vwrc8dWek52CV2KUuQFAl8HII0ACgkQek52CV2KUuTSTwf+M3fJM3h0cjR+K0VVp12Isjg9VqFqXXRgLnrUbkdbz6JIq6ohqsc0QAxa3pP38lj8ECfGls8HQkLXuR18ecMbnP5mHL8TstBYGzG5O02TTEtsaxM2GrsAK5b1eAv6MBYm5HXhpkp6vzSIrVJyikb+9fotKLI5+Qx++mN/AjSo75zzMruESN5t2Rhg/DfXmw5Pq5q3Q+ums8dYoIAXnOxf0a9vhP8TKj/jeBFyXQ9mOnsVy/ACqyoaJuWBXuTwWY+Xw+z2XcNhTzEo7rFswGbqeORQin3iYDQ7UU//wv3rMt7XhqYPOyQpIloD+hqhHaBM43lFvE3/KDwCfQgQe/Okcw==",
+  "URL": "https://kontact.kde.org",
+  "LICENSE": "GPL2",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1594113048",
+  "PACKAGER": "Antonio Rojas <arojas@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "calendarsupport",
+    "mailcommon",
+    "akonadi-notes",
+    "kuserfeedback"
+  ]
+}

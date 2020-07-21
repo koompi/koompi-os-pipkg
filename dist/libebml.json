@@ -1,0 +1,23 @@
+{
+  "FILENAME": "libebml-1.3.10-2-x86_64.pkg.tar.zst",
+  "NAME": "libebml",
+  "BASE": "libebml",
+  "VERSION": "1.3.10-2",
+  "DESC": "Extensible Binary Meta Language library",
+  "CSIZE": "73599",
+  "ISIZE": "278893",
+  "MD5SUM": "73209d54ef4a191e9927b38989231a7f",
+  "SHA256SUM": "8da29bd1a1fa4e1d398625883fbbd64ae53bd74012d97fa024b189fd3db64531",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl6/rNkACgkQeGxj8zDXy5KOlRAArJuK8d61z61H1LcibI5qX/MuE1wUHoZ+3Liq6rR/S4n70ZR2S7N1WmiaqoVqm5zEbWGiDQmn1rziLJlhV/fHCMyinwWoPJp4lutA5pVy8pMqlqRHPI6W4fAjV/sgAkpxbRqD0oiUeymGgWvvpmpda3e12hBOF5wGYD9qb1MeOhisnAF0FfOCJfklGMJlJFIAPtD4C+T8fLokdK34zzaRCHAnr2353JEauXLmMXiZXpdKll/DWiEDVVpidldDvvod5PqcK96d/Y9F6/0kJI0bYNbCkAkA3j83DjjyxBYHtwF0N713xdMYxZ1VJPlEfm6VhxBXzKFgDQb1n7jUOGbSSYJIsvbDBDUYDKiHMFE8oHNzhUlZ6GF1VP3/75M/fAAZa9/fAFMJ7pKiPTwWNLcLwNc90FyHC1KQGffovKQWL/YyFq07b6KqZ+RXl02CliJe5x7YKNkH2v+dGVyXGR+Y+kfX4YJTvkfr3f+EqAzxqKWysqArcUnRtRHhF/v/x4e3HymSaXUrPahzdnCQ+OKomhUwwqzInlbsj6vsEyViwgRMuOaIDSh5Ss0Rv8v9FwuwGrZqYZNc0nnibMTed7wcWiCZDa9eBXQgaPIZyHjyD/3ROryGyFWxB/SY4x722LkZtlIMSU6jywi+OEfuzoeXtsSlLk2FMvoTx5uqKHUtSdA=",
+  "URL": "https://github.com/Matroska-Org/libebml",
+  "LICENSE": "LGPL2.1",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1589619907",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    "libebml.so=4-64"
+  ],
+  "DEPENDS": [
+    "gcc-libs"
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "FILENAME": "openmw-0.46.0-1-x86_64.pkg.tar.zst",
+  "NAME": "openmw",
+  "BASE": "openmw",
+  "VERSION": "0.46.0-1",
+  "DESC": "Open-source engine reimplementation for the role-playing game Morrowind",
+  "CSIZE": "8365568",
+  "ISIZE": "32850929",
+  "MD5SUM": "0a2fb33b4c9f4aa8822b52d044181900",
+  "SHA256SUM": "396f85b16728fcc3e884720626b482c2d06ae22535b133400ebdbf62d2ddf3ab",
+  "PGPSIG": "iQIzBAABCAAdFiEEj8FaBklQqZ3RvRTdOeS4d+YuuRUFAl7mva4ACgkQOeS4d+YuuRUO6RAAlDiaAruEwZKqrWy0SiHj0/QwTutNFc51FnBKX81EQ5Ngo5Wo/KIqMDF0aLsPJAb7Odxd+jUhY+9ervARnpQA6Le2dYIpFvpWF2iprhLdyA6LbFbUGskYHSHKx8meEcPnOTzkLdfeGRRQ914UVhOQ1lL6EUiVZRfHhR7KzWdt4CJT6zzdwZUjP78LOJqLKrBZIpLBGSZhbXpIzl+8Yel4eV31ah35EoGAtte8N21JjgWru56Vk62krCbVHGv1H5HAaNP+/DKVN5mQG9kuCwdt1xS1DsCrfTMcBvaB1zBG+Egs53XdDizfS7LxAk7WHhrGK7WfyfRnDLRb77ae3NZDxq4CGGR1zIDsZaOVoAgR9DVhefag9GApFW+gItKICwxXS73ZAoERSBSsAZfxt7BDF1mx75s7VT3THDql3jfJumbwZpP+X8bnenESb67lpcgIy8DCs92eXZyIhq1Gw0/Ut520om1RhYEEqRZt6ePbUQS2WVlA32sL56xdpHZVArWruKBvZ+NeiqGv8820AWJagbQwECtxtWgYAQY/Fl0sCHtXLOeKrov4gFNDSvrej1n33BtKGaKRpwzqtIXW5dWvSII1Zgwtjk8NVBkNbik/YAIm5jycTdEZ5GwEmdPX3vZtFTfzIy+Du1ha/AlCmuMDiO+6OgG3XXRMQ5C7+oON0Hs=",
+  "URL": "http://www.openmw.org",
+  "LICENSE": "GPL3",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1592180012",
+  "PACKAGER": "Sven-Hendrik Haase <svenstaro@gmail.com>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "openal",
+    "openscenegraph",
+    "mygui",
+    "bullet",
+    "qt5-base",
+    "ffmpeg",
+    "sdl2",
+    "unshield",
+    "libxt"
+  ]
+}

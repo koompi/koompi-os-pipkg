@@ -1,0 +1,25 @@
+{
+  "FILENAME": "haskell-equivalence-0.3.5-26-x86_64.pkg.tar.zst",
+  "NAME": "haskell-equivalence",
+  "BASE": "haskell-equivalence",
+  "VERSION": "0.3.5-26",
+  "DESC": "Maintaining an equivalence relation implemented as union-find using STT.",
+  "CSIZE": "62157",
+  "ISIZE": "415487",
+  "MD5SUM": "7804a95e12c9ab20650a7c9fcbf16cf5",
+  "SHA256SUM": "87e489c9802abda04830395aa6a491647d1b20889ec71e2ef28a81769b5fa562",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl75FwIACgkQeGxj8zDXy5InNg/+Ip0Xbardkffvjq4fXOQiJImW/HK2rlGxzFhjgjdH4O0BuaALZ4oni7iJLPZZJ5WHSbMRMrvg4NDYp/o5eUD8H/mgNXxDBy++GCvXf6D9lKnNIx2B27iSCXRX9E5kEdy77LOKNSVg4cuyAsP93utcyLNgB6qFLoyWU/WGJyX1nlpWMxxURs+Nf4R5IwdiNzX0+QGgBumurPAOzX/Ig6FzAHX3I4n8zWJJnwS3D3OcizywYj0b5KP1igEg2fEWJSiixPYHrkGzR5QvfMNoBCK4qdIG5nWU857YNsKd16f23WAHHdRkDmSbGPkOYd+NZOr9MLWufQ40kuInasrYQdsU6hHfTxLT44XkZrS2vAu/jFyQ6TD7rubPXWOEkRch+BaeK/t/WLEXVRljUZxRVLOAqXFuxCQAw3aXzpKCACohWT1YK1H47kwFQeaq/Qi6tld+A+4/5lOx6BqaLeHZlnYxPPiuW1VCopJ0mPewnlgDYbL2sxnVVMjBcMOI9qwLPXEE5GZleDg48CGIAQAQV1/bfG+7r9+avPISvRgdRs0CBuZYGoTW5/9QNgiGVSBkI/VnovU1t4l/0YKB1ynPUk0gUqcQd646rwP51h7I2ipZUARftID0cfNpSDK4sHklhkpdNbGE7xAXssGj106IASsPvfDLEEBAOrKmcXn3GLhLE+k=",
+  "URL": "https://bitbucket.org/paba/equivalence/",
+  "LICENSE": "BSD",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1593382624",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "ghc-libs",
+    "haskell-stmonadtrans",
+    "haskell-transformers-compat"
+  ]
+}

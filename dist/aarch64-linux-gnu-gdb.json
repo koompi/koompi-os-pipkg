@@ -1,0 +1,29 @@
+{
+  "FILENAME": "aarch64-linux-gnu-gdb-9.2-1-x86_64.pkg.tar.zst",
+  "NAME": "aarch64-linux-gnu-gdb",
+  "BASE": "aarch64-linux-gnu-gdb",
+  "VERSION": "9.2-1",
+  "DESC": "The GNU Debugger for the ARM64 target",
+  "CSIZE": "2912726",
+  "ISIZE": "8410935",
+  "MD5SUM": "6d8b34403bbd1a953fcb51db06529217",
+  "SHA256SUM": "f0073c39915d5546fcd6591150330a7d9b3ac27c66ba00e7f6fb1a5a7d67a637",
+  "PGPSIG": "iQIzBAABCAAdFiEEjhmSFnRl21+wRVV8sChU7XU+Dx8FAl7QbBYACgkQsChU7XU+Dx+1Fw/9Gz7/oZ4dxRluAOKcn1LyvQJGNXOVYJijRcCyDLV7/Zb2QKFTtU6eLitXOypdGzL18mMgUeMQDJxSMYYsyxetzDMGVrSRKeaRa5zDBmekPp1/gqgc057aEisPIzGyeL4fgSxskM6qnUN3EuNLC/eAQQv0jVomK5ADxlvmTszgVde06od3tA0QpywIOz4RD9p+jpCMmCe2ii+usGi3ptCEMds4dFEGtfNo/O0SB2CJyJ3vCq2S39usowf18pioSd35qP3/uMbbonunFv7EXZcEt90aTaLwRdqS3ZvM4wEoIGxnAkSG93BkUhVuPlonOb49rUrecf/Pkz5wCBYDJ1YSO2YG2lzkR71bzEYyobZGBpNNQxWrfgMunJfR0+ETEa3krA0S9gZMG+E27L+SBX3er5xQHpqNbrun3D5mmkjQ8WmwI0QSjZTxbtI9Ge1ze1UERV0q//CdPcq2WDP0kQGEL7deK8kZL7GUPrjK9hp9qQZ1Le761QuyyMDLOsNeMehJWDsfDyPxawRJ8B4ABjAqiz3ZoCe39n1ZEdnO+DyoTZlTqssHkARdhZy0nDDmbxmmvkULuLdqIve5VtmLGdwiv02R30S1wZyZJ5ZRUx6SPO5yB+e0BWOLlKBWcAX6XYgAlC+2LBrpgQrQXTbxgNlgDwqUA6Q5UOdSrnxE6P+GZjE=",
+  "URL": "https://www.gnu.org/software/gdb/",
+  "LICENSE": "GPL3",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1590717314",
+  "PACKAGER": "Anatol Pomozov <anatol.pomozov@gmail.com>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "xz",
+    "ncurses",
+    "expat",
+    "python",
+    "guile2.0",
+    "gdb-common",
+    "mpfr"
+  ]
+}

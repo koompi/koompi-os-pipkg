@@ -1,0 +1,36 @@
+{
+  "FILENAME": "haskell-aeson-1.5.2.0-6-x86_64.pkg.tar.zst",
+  "NAME": "haskell-aeson",
+  "BASE": "haskell-aeson",
+  "VERSION": "1.5.2.0-6",
+  "DESC": "A JSON parsing and encoding library optimized for ease of use and high performance.",
+  "CSIZE": "1005938",
+  "ISIZE": "8352458",
+  "MD5SUM": "bb154321ba45ca2779c1bdd9a18d1736",
+  "SHA256SUM": "31afc8852b80ccb17c04690dd26e521d33b7e6557d7174dcdc7e77ba8074414f",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl75NIQACgkQeGxj8zDXy5IKPg/9EI29bwcnWDlbdyON51LedT3GvMQzqCU0FdgmuPemq8gd1KoE7PgtcWM2Yyz6ozElekz+CJPUTnAz+WCgF0oqTF4R9sGyzyeRmPpVIyeAGsbXk4lu/sRff/b9IfBmg8v89cEePMua4tDDDd5n/mljurPKgfzVsn3Rvpt47YQQiPaVS2+0HNwyYIQJM7K0y1uEyZ1H11hC8qUx74U9X4K6CCT95oFuAOtxtXpvmm2dBX8vXllvV2YyvVojP1JXDzs8AvacRL+5sliASp2STU2MPqYaer55ZJcmxNSbIVsLD2FItTFGYIJ2PdtPn4CenFE/WDZrXGlKU/miG/ZPYnHZ6rIUTSrGfL4WXcrwKpyeGbUo4jVw8O+zAjM3EvLAzmyLbA7RcKEQ2ozmpQ3q/2qOyBol32Adqzq2A1Bb5Lh4If6GphXsLagMx1JlqZ1lrTiEHVdt5pnwMl+t84nP4e6wHl4S7sURWr6YXprLC2h1R03i2SHd4frzfi/k//n/gPyNus4auksoeGKiVIfwZH44cq51OTR7i+D0gMUnlOsKN9vfuDvAlM0rqHkOnzUkHiblkaOAzj1rXitpFvgvN7HJoekg1mAteXwLMcgDT+KDwgyeKlgeA6zgftRpCD8fxyefhH2PJJ4/Y5wz4BAeFRbwfUpLj7kc/fpwTd05bCj0GoI=",
+  "URL": "https://github.com/bos/aeson",
+  "LICENSE": "GPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1593389985",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "ghc-libs",
+    "haskell-attoparsec",
+    "haskell-base-compat-batteries",
+    "haskell-dlist",
+    "haskell-hashable",
+    "haskell-primitive",
+    "haskell-scientific",
+    "haskell-tagged",
+    "haskell-th-abstraction",
+    "haskell-these",
+    "haskell-time-compat",
+    "haskell-unordered-containers",
+    "haskell-uuid-types",
+    "haskell-vector"
+  ]
+}

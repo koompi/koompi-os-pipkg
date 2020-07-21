@@ -1,0 +1,23 @@
+{
+  "FILENAME": "perl-email-mime-encodings-1.315-4-any.pkg.tar.zst",
+  "NAME": "perl-email-mime-encodings",
+  "BASE": "perl-email-mime-encodings",
+  "VERSION": "1.315-4",
+  "DESC": "A unified interface to MIME encoding and decoding",
+  "CSIZE": "5918",
+  "ISIZE": "4989",
+  "MD5SUM": "d0d35de73dd889b6a994e65f0ee74090",
+  "SHA256SUM": "1be62745b51454eaafa6d9b38843fd063a86a2b7a4b855efc4ab933d29c294da",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl8ElxMACgkQeGxj8zDXy5IG7BAAg87DggTLdl4OfMpvbwjodJJADWi16iPRkG7qOhRtBTWBZGGyEtLMcRR3WSL+4IzeNXQ27k7gAdZPBseu0Ebxu7ixIDUGFSbPtIaPsELTOIbTR5xgCWCnGMsOL1JiokPcQKaibCBjeoLqZ3Mef3ehJqO3R6iNqe/bTDNJU6ansdRlbRXOcmFZ9kKsyV53DznDZsor4GqUAN3Kku0BsvpGG4fI8i1Weaspv+YsXoQle4zn+jOEm9tjMCy4hrkjUYTCf0HHH1dSkb5KG18912abL++/JikslvSZlxRr/JArj4zNfVKZ3XCvEYdPPmyvFud3csry0yO1SEKUtVPsonqB6HmpXsjmuHVr9RkDE1ukmVzzZjrZ8lef86gM83/kfa34C26DQifvF6FH/keWl5aKyXs2gZ6ThlObjoAhoaQkbp+fSAA7FhGoBMEo6zJkzi8vAAxi2K6Tzp6GlB336eXni1Wfy0bEXqZWWpob33hToaSkzn5SK7kq4FBU08UZqbpvE5je9LlG9VpkjQD5M9zDw7j7ss2GWE02v766ZYMh0IuKQii3EL/lN+hixExJEmfdJXWhK5pBH+bfVWZpbNeghj4x4M56ZTfw4rzcj0OOgRAOpuGSZIKFK+AuBaA745g+OfUbpKdagosXnueYyOOhVMdNMkXgtsEpTxQfYbqd0+A=",
+  "URL": "https://search.cpan.org/dist/Email-MIME-Encodings",
+  "LICENSE": "GPL",
+  "ARCH": "any",
+  "BUILDDATE": "1594136323",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "perl"
+  ]
+}

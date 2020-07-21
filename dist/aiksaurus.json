@@ -1,0 +1,23 @@
+{
+  "FILENAME": "aiksaurus-1.2.1-7-x86_64.pkg.tar.zst",
+  "NAME": "aiksaurus",
+  "BASE": "aiksaurus",
+  "VERSION": "1.2.1-7",
+  "DESC": "A cross-platform, open-source thesaurus",
+  "CSIZE": "348010",
+  "ISIZE": "693340",
+  "MD5SUM": "8a5768ee82c0d9a48ead9692a8425410",
+  "SHA256SUM": "7432d64be7875455533da40631910bc2ab02ba84b5227571d949f9661ad4500b",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl6/zxMACgkQeGxj8zDXy5IKNxAAp7tcc+8Y6uL3wTyLMTAs8+5y4QF+SXjNSkKKqNr9Zb/k3yFbxfeOvgPaQnWgnnM5Tx+aMm5hofNkMhQPyFfe8JYMOKx1f+gn84gjEbRUAbwegksfl7Xo8FAm/Mr1cST1ojItA2AWQgZdHmAGPzY+STqLhvJ2XGFG7JwYTU8DQIcBLtFm+YkkHz7LvVs/9qoVYYLZDTE1KDl/VvXJ32o3uioaF9/eiklHNTq3w68PkVWmIm4DOukswOGPLvCtyXw1FWcjSfs4d/W4puYeQkfMaVS+tXR5mSJnCGvedo+MohAn5DXgJx7J4ryMFv4A6M8NunHHj6SpELYMqtZHIITFWOJvt60vxEuKMsLRxzMydeD8yTBIN8vf3qO5QRl1iATNll2sLfMx/sYusHvXgO9Tc4LfPwQQZ7R1LMY99+wx7Y5bfYrn6ZZyTcY5Dh2xQ+LQYLqKlNiytkuobXGqO94oJbRvy8kH6I5j9/m5IDF0zR6K0sT5PBp8a8fwmWtn3AjPc/nNpvHxURbBwPXcNKKMuyJ/eaLqTdu5tYySZAGzCBqgq5nfTVHzwlm17TT0vuTe0SIrt/IwKMHEO5Ma4KSuULnN4ulT1+Sj8B/Fzue79roMnMQFuT/1N+6bF5+0yrs17vo9sb7WP+vdMzAmDv8L8ngNUQPGy9HIiGFpTkwT5TY=",
+  "URL": "http://aiksaurus.sourceforge.net/",
+  "LICENSE": "GPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1589628632",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "gtk2"
+  ]
+}

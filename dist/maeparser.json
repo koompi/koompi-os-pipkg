@@ -1,0 +1,23 @@
+{
+  "FILENAME": "maeparser-1.2.3-1-x86_64.pkg.tar.zst",
+  "NAME": "maeparser",
+  "BASE": "maeparser",
+  "VERSION": "1.2.3-1",
+  "DESC": "Maestro file parser",
+  "CSIZE": "107700",
+  "ISIZE": "377615",
+  "MD5SUM": "fcb08540aef7ebf529318e6962a61c8f",
+  "SHA256SUM": "c1852fcfe86a84c65b3b46c6e5b98d70aff5d01b0528e379e91011f9257a88eb",
+  "PGPSIG": "iQEzBAABCAAdFiEEFRnVq6Zb9vwrc8dWek52CV2KUuQFAl5v5kIACgkQek52CV2KUuS7dAf5AQ5Ba1hQMP40txhGkmvzi4FsBpvcHFCs6QgAcXaa+ZKp4R1Y3V1QYTm3n5fVK1qiMzBexyZyVUn2xRsZYGnzLv3YaDJYakJ1L6b4Xr3lBHVLeqkshPlxMdIv4MR4YXB0Qi2ey1+2gbCAFeg0oqgng8SInM3Q+bpqd8xiIXM/tbXsYl6C410wuYqhjJSXYSsJyBkFIdMgru488WJlQnyI4f/r+JA6LgOo6IFHY/AJWloxrzjdITqMV02+UHDdhqW2mE2l3LAlxc0nfRxhhlEEEfIChK1e+46e/AOrv2xGpmffXLJk+KX0gjX+VC+TDfkMslTo1TdoDY6YJHWnUVE0Mg==",
+  "URL": "https://github.com/schrodinger/maeparser",
+  "LICENSE": "MIT",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1584391433",
+  "PACKAGER": "Antonio Rojas <arojas@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "boost-libs"
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "FILENAME": "lib32-pango-1:1.44.7+11+g73b46b04-1-x86_64.pkg.tar.zst",
+  "NAME": "lib32-pango",
+  "BASE": "lib32-pango",
+  "VERSION": "1:1.44.7+11+g73b46b04-1",
+  "DESC": "A library for layout and rendering of text (32-bit)",
+  "CSIZE": "191092",
+  "ISIZE": "510507",
+  "MD5SUM": "e2dcbbbf908ea11b1464ad5fd2410835",
+  "SHA256SUM": "b278e5f07edd33153dbe0774a79fabd33f52df0ee185191823238b45d802d4dd",
+  "PGPSIG": "iQEzBAABCAAdFiEEghj4iEmqxSLpTPRwpekojE+kFfoFAl5CIDQACgkQpekojE+kFfqMDAf+JBCE0CqUHYNDKMFE9wFDHX+MJszh75VwgYYStY0EJ04Tlr/o/6R1urCVaDJIJ9rDLOJAR/EtGOAgyCK84ailkc6gitQN8rXiAgCBopqBVDeW8QYzViM/1gt1er6W1MmR+4u3zXhpvSDXxj1PdxTkmRAERi3gHSnvOTbahN0NOVg4hAPBsK5LPAuAQGpFgg6fcS3xydS37S+UnjfQyygJdt3M97tgRNqatYPaFeBkzdFIHlOZH74LN0zxAMJvIr2mHnFpFsquMU9TWJIImbJrfnReR+SThPOFmWtiWfaRXwSPgFRHL/YvhOhArIKn1805IFHqQ3euDloVwzXz0F+avg==",
+  "URL": "https://www.pango.org/",
+  "LICENSE": "LGPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1581391283",
+  "PACKAGER": "Jan Alexander Steffens (heftig) <jan.steffens@gmail.com>",
+  "PROVIDES": [
+    "libpango-1.0.so=0-32",
+    "libpangocairo-1.0.so=0-32",
+    "libpangoft2-1.0.so=0-32",
+    "libpangoxft-1.0.so=0-32"
+  ],
+  "DEPENDS": [
+    "lib32-libthai",
+    "lib32-cairo",
+    "lib32-libxft",
+    "lib32-harfbuzz",
+    "lib32-fribidi",
+    "pango"
+  ]
+}

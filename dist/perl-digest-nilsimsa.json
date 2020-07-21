@@ -1,0 +1,23 @@
+{
+  "FILENAME": "perl-digest-nilsimsa-0.06-20-x86_64.pkg.tar.zst",
+  "NAME": "perl-digest-nilsimsa",
+  "BASE": "perl-digest-nilsimsa",
+  "VERSION": "0.06-20",
+  "DESC": "Perl version of Nilsimsa code",
+  "CSIZE": "14163",
+  "ISIZE": "33585",
+  "MD5SUM": "f017b12701c5b91411a4c112caeb1bf8",
+  "SHA256SUM": "b370a35c0c728edaa89205d6270485cf595f3363a833608e44abaf4f60ad7d8e",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl7vNxcACgkQeGxj8zDXy5JTPw/+MHYffknwJhRMuhRrvbEOti3PJwiy0WPxgks5mixWhmXwgcSa5UCXRaAbhQiuJfwIonJd4briEUMKQjQKgi1vhTTfDMb//Jdw2ykE+UT6Kk3QnEP0z/sFTMUUrLxZR1yxLSk/A8CInxfqFPFPErBxijVJM517jLGM2ron0Tgeew9rTvLvC33fUmNPdOJLHs7iYt4cTOxI2tvbCYed3lrNolYuWhicmSaLMQPvqHZrUWD+6O+Z55HyrM7qtcsKxDwMq+v9ooyh5qTIhfFBaTC/OOzIlYOAswvZ6DRC4c8CjGoGNcz2R3U8T+egob0gOu2qPNWfIXVfhtMtA1i70Es/PAKmMBVNpTSR7axkIIEcJ8fV/lvaw0MTay80ldLVbsKX9sD0Qucdri9dVEXN0rfCzwfP5t8os58K7KUEkgPJTBy036tCWO79pjK3T+K+lCIUbY6Ol7T8GQDAFf9GZ50T5nc52oQ00gCdFng1gFbMSb5KOnBzwQ8PYfHN15O/Scnyp+HcRhtVZvc/ZrM6OAijf+YKzyyfzTNsXfkN+RuUAfaXplLTOgYSDdrBh3Jwo9QsKBADvSw6tuUdBdyw2GW1JlOL6og0gOWOlw+riJ2Tc6SMyMbdfrAXKOr3jTFDrP/nh78phOLbkroX/50V717K7HtYytQyYLXNYy3Uy86OwIE=",
+  "URL": "https://search.cpan.org/dist/Digest-Nilsimsa/",
+  "LICENSE": "LGPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1592735312",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "perl"
+  ]
+}

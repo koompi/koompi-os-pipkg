@@ -1,0 +1,25 @@
+{
+  "FILENAME": "haskell-vector-builder-0.3.8-24-x86_64.pkg.tar.zst",
+  "NAME": "haskell-vector-builder",
+  "BASE": "haskell-vector-builder",
+  "VERSION": "0.3.8-24",
+  "DESC": "Vector builder",
+  "CSIZE": "40380",
+  "ISIZE": "129738",
+  "MD5SUM": "87842ff00e79312ca90abbce55dc0425",
+  "SHA256SUM": "cf9968591f52e59286ffa10b1dd37f10e7d53b473da6e75e97db7bae461da2e0",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl75pPYACgkQeGxj8zDXy5JtTA/9EyzqsVWVLp9CYS6MP48QjzaGudU7p7EuweDhUPGxDI6l6xOpvchfE70P8s+gtvEZh6+SqhBn4j2dpnVi+QTuXZQADLqPZrF2LsPJ0zZ14L60+hcYrT7L2Z9TbaBsEhUD45P0mgnuRR51kfRhGcky4Wok51fsJiE6HboAVkHhw5z2f4iufPQVmYeaPKoGJmTXI0rbopNjSe467B6DKyvkE39gpHG8D+R7QNVnOzB8Vr5RqIcpuuArDbIvlFnXTUTCgUfMj+3piyHkzA2lfRvBu4fk2T47s8chyPO1XHdj4ZsPCFo8DT6KY4WILgdG46vAYJGr/m7AMu3te9ikHYQC0MtSkSRe2Lfaa/bz0GKgjjCPsG/JR9qqUIAGotMrDdPYekCzgY3+3P4hbPSS3UA9oQGQJSmLdWh8lj6rF7bywe5qsZ8eSDCrlLW9iQD3conOt/2xjwuUpDApbtQ1Vayri9rdjaoAPxtDHSD91N/bB8vWjfXFvwpDhFbxveU9O9B+SacgceSlw/dRNTUXAbcXpVpnzPtFIhB2wjOjjinTlmiOFna7NPcMc2THKufFZWdTOqxe0DgKmptRv2EQa1aSd2+LBBi/6atIEEYp0DMv8fiaI4+Lg2eblMnfIHh61sNrBMj3R0z0pofxWaKI3iMBH0sQ1v9IVqp7hlBuPIqoYek=",
+  "URL": "https://github.com/nikita-volkov/vector-builder",
+  "LICENSE": "MIT",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1593418974",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "ghc-libs",
+    "haskell-base-prelude",
+    "haskell-vector"
+  ]
+}

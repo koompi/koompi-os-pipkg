@@ -1,0 +1,24 @@
+{
+  "FILENAME": "perl-extutils-installpaths-0.012-4-any.pkg.tar.zst",
+  "NAME": "perl-extutils-installpaths",
+  "BASE": "perl-extutils-installpaths",
+  "VERSION": "0.012-4",
+  "DESC": "ExtUtils::InstallPaths - Build.PL install path logic made easy",
+  "CSIZE": "13200",
+  "ISIZE": "24252",
+  "MD5SUM": "10d525beff49b15b967a718650c5abf1",
+  "SHA256SUM": "ac31100972185d058d8fadd16c5e5f9e1d85a88c6f256b32b4c589522ea97f76",
+  "PGPSIG": "iQEzBAABCAAdFiEEhs/8qRjPOvRxR1iAUeixSKmZnDQFAl7vON0ACgkQUeixSKmZnDSpCwf/eZ0iOzm96rGyIJWZN5NfRp6fVpTwHWJSbBfKrglmVsC/NkQIVy4dMD6ew+i9kgzP4s5rYCfthM4GAFxvU5houv/omxCTS1a/8V7D8nr+P9dWkrZmC0uG5MWyi++P7jUNrQGBdyJN/eEZ4tGLDnIIrucevkgkRYGAH90YfJBOK2AZg5rSmgN//J/hnLiOOY1EOpMomY7TewQisMXeAXXSZQSAH5ic2vFPu2gkrJxP4Uz9iPeKkhw56XtgvF2jiNwMSeY/hEKqQvHeQJYRfVQqb9gZI0LCkco+g/8zN/VEKfjKWF3pLBXID2QgnQF7RzkgFrElxHeyp0Js5fINynz3iw==",
+  "URL": "https://search.cpan.org/dist/ExtUtils-InstallPaths/",
+  "LICENSE": "PerlArtistic",
+  "ARCH": "any",
+  "BUILDDATE": "1592735949",
+  "PACKAGER": "Evangelos Foutras <foutrelis@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "perl",
+    "perl-extutils-config"
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "FILENAME": "truecrypt-1:7.1a-8-x86_64.pkg.tar.zst",
+  "NAME": "truecrypt",
+  "BASE": "truecrypt",
+  "VERSION": "1:7.1a-8",
+  "DESC": "Free open-source cross-platform disk encryption software",
+  "CSIZE": "1027823",
+  "ISIZE": "3592468",
+  "MD5SUM": "45b991e85593f3455093519427ade9fe",
+  "SHA256SUM": "372ff8de48d4170df75e7564510e0bcdcafc99425d5a9b43cccab58ff39962a2",
+  "PGPSIG": "iQEzBAABCAAdFiEEhs/8qRjPOvRxR1iAUeixSKmZnDQFAl6/8/sACgkQUeixSKmZnDRPEAf+MMP0K3hzQUdDuDKeuqEc2fPQishZiW0GEShi6ZhxFxzAUOP5nWtj6HAd1DPMOsXCUb4MBsykpaoHUVfbWm/+Rmc+bngbkrnjhbUYqTv6xWSqPbyuPtVfnWdujPaT97Nesvh5hzSABUfGVxL8mh4zpWb99q+N7V+r48kspusGuKt4q2Fac7+qDC+A7bo0UgsIWXE5OJ4CECIX1+QrjYb7odV1U4t8fZL3Nmk3Tn6t8zGWL6+0/QgzE3HP+rh1giY42a5dH4C8MlckZ8US6b0hFACFmOYP77q3EIfbOWeKBrXmc3vxmeljnwNeFBFGerrbt1kBNYVx90T7y6epbL2rSQ==",
+  "URL": "http://www.truecrypt.org/",
+  "LICENSE": "custom:TrueCrypt",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1589638089",
+  "PACKAGER": "Evangelos Foutras <evangelos@foutrelis.com>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "fuse2>=2.8.0",
+    "wxgtk",
+    "libsm",
+    "device-mapper"
+  ]
+}

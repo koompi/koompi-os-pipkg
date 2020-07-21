@@ -1,0 +1,27 @@
+{
+  "FILENAME": "swiften-4.0.2-1-x86_64.pkg.tar.zst",
+  "NAME": "swiften",
+  "BASE": "swift",
+  "VERSION": "4.0.2-1",
+  "DESC": "XMPP library written in C++ with Boost",
+  "CSIZE": "2611926",
+  "ISIZE": "14514084",
+  "MD5SUM": "910385c5e32bffcec09b70a0fa76ac27",
+  "SHA256SUM": "808631498d3e7feabec7b538a6275809642d5f83b003d57ccdb0cb8320f83306",
+  "PGPSIG": "iQJGBAABCAAwFiEEPlGL8lJv0Zeeiq5JZcEQwepDP8cFAl4yslESHGFyY2hAc2VyZ2VqLnBwLnJ1AAoJEGXBEMHqQz/HgXEP/RrBH4NFbpPwpUdYDrsFahxeT+Sw66wAzb+RRXCYJBYp1Rz6aR0KF7Br6uSG2x6Etz4ubx3gFVgXaGB9HMkseglMfl1X0uZpGj9be8XgNq+0z7BB8cKxHvjrgnYPxBg5EPG4I+HT5jCZafcxqrG84LMc22i8u0J1d6ounz22KYOZgz6r52Ym26DVdNk3QXVdHp0pL5PfxrPHvUPYnL5NgipM174P+Y1cIu7xXW9EVM2/AdPvdqPVCE/0R0c0e6fPL4IhgDNIlGsPCoj0399B6UxKVqkmA+ob+JpvP3S901ETMACH4Ks9uX4cjgbfd4hte/AoQnp24tpuWzYwUMqJclAnhCOhiV4lB7h0A1NiIkTkZTW0W+C/fqc6ITvppWxD/6PyzxxYg37AKFFEaItWFCNRHXOI+MqaXAnXoxvOIvJygy/G+warOSUoQfgkbKszzbvcU6CBoWLZN3MrGQ1KV/pfEkRgHNm+rLDGsxMHywQBR6D8uqYhofexjC3a4bwQbK9cQEeg0KTQwEbBkMs+1JHRycnVDvIk3E6Yhu+d6Xz1FIW05V8OBB1WOaZEJ5EZlUSScvofh1u93IlUl7Fvq00gIzkHGme14x+u8pvACzacoTdRSi2abtrVcSdbyMHqhjY8kx7ZWpkjBKUU4m/HV7/DACJ55tnEAbq6BMLYgmpD",
+  "URL": "http://swift.im/",
+  "LICENSE": "GPL3",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1580378569",
+  "PACKAGER": "Sergej Pupykin <pupykin.s+arch@gmail.com>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "boost-libs",
+    "libxml2",
+    "libidn",
+    "avahi",
+    "openssl"
+  ]
+}

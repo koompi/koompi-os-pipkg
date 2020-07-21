@@ -1,0 +1,25 @@
+{
+  "FILENAME": "obconf-qt-0.15.0-1-x86_64.pkg.tar.zst",
+  "NAME": "obconf-qt",
+  "BASE": "obconf-qt",
+  "VERSION": "0.15.0-1",
+  "DESC": "Openbox configuration tool. Qt port of ObConf",
+  "CSIZE": "124253",
+  "ISIZE": "637156",
+  "MD5SUM": "51e2252862c1e0b34fa3458b44639c71",
+  "SHA256SUM": "119be4c946b00beb74b9561d37d6be787ade4dab188a0bace5145512fd7582e5",
+  "PGPSIG": "iHUEABEIAB0WIQS5AcQXHI3QLG8vSWv5jvKnsKCYrgUCXqOt8wAKCRD5jvKnsKCYrj94AP0Yr53Rgc41nojXu05ysJO4b4dtKZG163O5wRtv4Nti6gD6A6yCQMyIcQCvRoN4kWQYICNC/J2/xQBnxaCJcr+LW7I=",
+  "URL": "https://lxqt.org",
+  "LICENSE": "GPL2",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1587785127",
+  "PACKAGER": "Chih-Hsuan Yen <yan12125@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "hicolor-icon-theme",
+    "openbox",
+    "qt5-x11extras"
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "FILENAME": "xf86-input-evdev-2.10.6-2-x86_64.pkg.tar.zst",
+  "NAME": "xf86-input-evdev",
+  "BASE": "xf86-input-evdev",
+  "VERSION": "2.10.6-2",
+  "DESC": "X.org evdev input driver",
+  "CSIZE": "35235",
+  "ISIZE": "76935",
+  "MD5SUM": "36965c8cb625b887ade3ef5b38ded0a1",
+  "SHA256SUM": "b7f5796a0adb6fde82c6ca9dfca2ba44a8f65facf85c4fd66ff86115c71b3cac",
+  "PGPSIG": "iQEzBAABCAAdFiEEhs/8qRjPOvRxR1iAUeixSKmZnDQFAl6/8oMACgkQUeixSKmZnDT7Cgf/SPMCeLPVjEe6yYoqTsPJd0dusiuZGk8pxP1JvBRUwLQwW39Y84GP9UBJOYVxc2W2EptAZPfrmaym0Hv5/ZD6/e6tmJaTR495KZa5DTl9RB1wgWPu6eZoe14a9eAq/wwVprbapRM8VPzkCagJKmZ2Af9rTFPgylhMnUurV4rZ+mfiRO+e9jiWDIF4bMrXTy6r13dNm8nPwvoPX86EhdQhVfaXxe7nt2SvSDE77O0Zz5m8ym3WPnGu02mCgQF07LXN+xHhPer24i3PmNxmSUFVos+ZvSsNdV+AX3alU9Ft050l9j59czyp9BJI81pPCIZ1RPQhG6rUQLEro7XJothiKw==",
+  "URL": "https://xorg.freedesktop.org/",
+  "LICENSE": "custom",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1589637701",
+  "PACKAGER": "Evangelos Foutras <evangelos@foutrelis.com>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "systemd-libs",
+    "mtdev",
+    "libevdev"
+  ]
+}

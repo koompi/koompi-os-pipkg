@@ -1,0 +1,24 @@
+{
+  "FILENAME": "perl-module-build-xsutil-0.19-4-any.pkg.tar.zst",
+  "NAME": "perl-module-build-xsutil",
+  "BASE": "perl-module-build-xsutil",
+  "VERSION": "0.19-4",
+  "DESC": "A Module::Build class for building XS modules",
+  "CSIZE": "9723",
+  "ISIZE": "15486",
+  "MD5SUM": "52d4811f84a3d2b79c8e3042b468c42a",
+  "SHA256SUM": "c41591995f6b20208fbaa1c3372cb654688179bc0cdb0240c374a3056cd284af",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl7vfQ0ACgkQeGxj8zDXy5KZ6A/+Lt6cZJJFmtCSkmhyzPjGSFGh/36IMrH4Ktjyln5fe5csMO2nJV/DCQnkyX1ul5eDSWTULRhxiVFV6NnqCXd4i7mFZY78W7GEgVY+6mp8o7bJwgoCUfc/cBS8Ov16OFH3oOQazKmYlcdtK8vAW7UwC7dggixWI17cAuPQvT6Lv7MwwxJrXH516IQH8k63y46eUUHqZ0iPoV8L6eHbji2ngqrCjaX0Lilvw8Dls1LrAMvSK05x2cy05aiPlAeP8DmktTqarrSepiDfT08KLjuPGJd6yceiIp5Ob+arAxEUsEeFiiuCkT27ItDlaF8HJ9MK7yRXa4Dwy2tjmwWW7mmgpwr7h+1hHAHBUm4bXlCQEc4l3wOPsqGESMQL05yGLik8rstM8xMSepE/BIfQaVRhG/fe+bFDu4DMjgy5mwaMpktLM9IqMrz1XQsuUKfMrZDKvW6fD+xMUGjZMUHwOLErywvmpCSOxialnzYDLG7LfSM+TCKWc800/RAE/pl3Jq3q0UnU+tRObhPLR8ypCIC5xHDgCTc0hcmisPzWsWcPzTNH/c0DBgYDCnQK5kqasp2Ayucrry76Ii1F83m9tRZt3ckqGooROD1xKMtGp1G/L7SdOrR2aOTOBBQ2MiOh5Gx3yveFJzrys2nnoBEkPWTdY/HdHE7D5VhJzq4kLygLTFA=",
+  "URL": "https://search.cpan.org/dist/Module-Build-XSUtil",
+  "LICENSE": "PerlArtistic",
+  "ARCH": "any",
+  "BUILDDATE": "1592753399",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "perl-devel-checkcompiler",
+    "perl"
+  ]
+}

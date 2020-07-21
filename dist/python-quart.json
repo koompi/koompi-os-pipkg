@@ -1,0 +1,30 @@
+{
+  "FILENAME": "python-quart-0.12.0-1-any.pkg.tar.zst",
+  "NAME": "python-quart",
+  "BASE": "python-quart",
+  "VERSION": "0.12.0-1",
+  "DESC": "A Python ASGI web microframework with the same API as Flask",
+  "CSIZE": "148121",
+  "ISIZE": "939570",
+  "MD5SUM": "8b0aaf889db9466354ed34c783f3834d",
+  "SHA256SUM": "59159d6f2cab012363ef3a1c9a5f4fd1e9421ed8183cec5bd2c0a75fbe59e990",
+  "PGPSIG": "iQEzBAABCAAdFiEElDfdOBWnqRaePTlGr/XZUJi8b/UFAl7HA2AACgkQr/XZUJi8b/XBsQf/UpGHG3yoLt4j5DwUWShTyQb/bv3pp8gWvyz/o7rHa7YdbVtqPf+kDaahl5dwFmhXw3bzNn7tfzsPlRtgHfyXCbXjv9XoC8hqUZOY9nDFJczbMk8PspypqjfUq4Nd+dX/GW3zWeVdLP9E4m/hzCmnTSzxwTFcQwomfXnvHKHCG25erdsyq9MAhKRW1EfQhxg3SAM88ZsdeGtLVjKQwz9aZ99MAHXaWmIJAexSdtv6ssH2iz4VbgmF4gAviz2FItQKUdM0urkhFjrgDl1FWOzvgWQ/UzrsSV4X4QCJ/gGXkWbCoDzveG3zixPQ4e7jHv6VC0hrE7lbWZJG7fHoUMEmdg==",
+  "URL": "https://gitlab.com/pgjones/quart",
+  "LICENSE": "MIT",
+  "ARCH": "any",
+  "BUILDDATE": "1590100793",
+  "PACKAGER": "Maxime Gauduin <alucryd@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "hypercorn",
+    "python-aiofiles",
+    "python-blinker",
+    "python-click",
+    "python-itsdangerous",
+    "python-jinja",
+    "python-multidict",
+    "python-sortedcontainers"
+  ]
+}

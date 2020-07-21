@@ -1,0 +1,23 @@
+{
+  "FILENAME": "python-pythondata-cpu-mor1kx-2020.04-1-any.pkg.tar.zst",
+  "NAME": "python-pythondata-cpu-mor1kx",
+  "BASE": "python-pythondata-cpu-mor1kx",
+  "VERSION": "2020.04-1",
+  "DESC": "Python module containing verilog files for mor1kx cpu (for use with LiteX)",
+  "CSIZE": "131465",
+  "ISIZE": "952088",
+  "MD5SUM": "5deb49d6a3e8fc0baaab508409640973",
+  "SHA256SUM": "59517f815524f0be009e86cd08f1265c97618b4dbbd3d8ad235f4c592ad1e85f",
+  "PGPSIG": "iQIzBAABCAAdFiEE0jW0leqs33gyftiw+JPGdIFqqV0FAl6oUAoACgkQ+JPGdIFqqV1FeQ/8Dxz1E+0WMXeg6BsxiVpaSkXku+qDO08aqlXPHI1l0kx0yVwRAdXYRTqg5XfnqkWtek23avugA0vmDJhhKv6hYLomlGdFf97De0d2KRLHK9O7Az56IYx0BalUHED1HRiDhPAgEaVy8etn/d66RhAvmnjS4M2aIxKe7Ty0rhXyfDB3Tf2hAMIOkB6fia9qWTSB5lT7lQww/VShDvEA5BwVzADiQX1JzbcztY+r+QlSfj7/V8Z92hxPjGLxQu315uMgXIlSoh4JcuiWTIMUFvrnIbdDQj63u8w1+chpDZWtJ8qei/ApRM4pfWW3sklqvf+NWznun9GwE+Y3y8gO0NF19kQGPKnA6r0bKnmyM4aBr7K2KpK0iBvHxe2FoFSCe5+iNRohi7FqziG+h6qXucSCJDI5yWuqtlCkcWdCPvOQxV8XIjKB145PWUG9AnzK1m6djqTTQsdGpiZVXsm4xoGMLaLs+ro3dxvWZ7P9UH+JbE7Aj0NHuUu5j6FvS8OrmCCafp2vY5vNcudHyjETwkHjp6p5GdOYUUflR/9rIK+NzjfPwwFofCg+QvkqvcT6G+aQGPidIH2y68u43EXer745t6o1KmrZOXuOaZcnAO0LN0tbmBI0QD8LZu3loT5gk/nocBVZbWdbfLzWgyxtfuP85hS2aH5OmyP6Q4zeazo2z4Y=",
+  "URL": "https://github.com/litex-hub/pythondata-cpu-mor1kx",
+  "LICENSE": "custom:OHDL",
+  "ARCH": "any",
+  "BUILDDATE": "1588088813",
+  "PACKAGER": "Filipe Laíns <lains@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "python"
+  ]
+}

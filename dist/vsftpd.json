@@ -1,0 +1,27 @@
+{
+  "FILENAME": "vsftpd-3.0.3-7-x86_64.pkg.tar.zst",
+  "NAME": "vsftpd",
+  "BASE": "vsftpd",
+  "VERSION": "3.0.3-7",
+  "DESC": "Very Secure FTP daemon",
+  "CSIZE": "122021",
+  "ISIZE": "286819",
+  "MD5SUM": "e24e7f0612405a1864f34e9568f8ad1a",
+  "SHA256SUM": "f89da5ddc4f445b797b77285d54b2c5ba543466331d43c89578563957846dd51",
+  "PGPSIG": "iQEzBAABCAAdFiEEhs/8qRjPOvRxR1iAUeixSKmZnDQFAl8EzC4ACgkQUeixSKmZnDSnkQf9GD4G0Gi6Kb01UAU5XLp9Ykfltqzu/plEW0+S7Bbqk1FvxDzj2WwkCdXazSc0i0iUhdYne7ldT6kLebeqZpqorgu6MqBYodG8jXrlLHI/RqVRQ/LNzc4ILHfha8z+U287w/hmXVT807jz0rP5u9umsDie9Xe8eIZnck8ega0NVf7N127QPPqK8pf2eZr00ndmhBjuo1kuhD+jX/dpNImYkWAqxdYbIaE7vYplBw9h5iA24gcxbPbKHKSQMjYVTPMqtWPeGVahoYkttTX8ozDvkYZA/zSXkjl8MxyZOkFM1wHEYUy1c1j89gWtNL9CAcW6gGBHB73eXxVMkEbkRVyJ+w==",
+  "URL": "https://security.appspot.com/vsftpd.html",
+  "LICENSE": "GPL2",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1594149916",
+  "PACKAGER": "Evangelos Foutras <foutrelis@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "glibc",
+    "openssl",
+    "libcap",
+    "pam",
+    "libnsl"
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "FILENAME": "maven-3.6.3-1-any.pkg.tar.xz",
+  "NAME": "maven",
+  "BASE": "maven",
+  "VERSION": "3.6.3-1",
+  "DESC": "Java project management and project comprehension tool",
+  "CSIZE": "9127676",
+  "ISIZE": "10898924",
+  "MD5SUM": "93db951c0762f1ab15d64848abeb840f",
+  "SHA256SUM": "14f771f36006eb8eec548134dd6684a257c6a84b4c1be88764412883cbb4da2b",
+  "PGPSIG": "iQIzBAABCgAdFiEE4kC1fixGMLp2ji8m/BtUfI2BcsgFAl3e3HYACgkQ/BtUfI2BcsgarA/8DyPAIEZ88ujEUbSMwOF9hSkdN2iDKy0hRD4FzC0/SWEeLVU1Mg/o3Poc2zMCZQTEtPen5n1XTwb0peYpZe+58heYXPitEVxbf0xg3JaxIRIbHtTcVvijC6FP5KfifoP76GLEUM+BEfVWK8T57Xln3MNy+zW/C3wlopFseAslIOpP6xx7bGUXn0jPKiW/139TL6Z7bETaa8/BlobdADEcis/sAWJYhTLanf0xY5sMtib0F9qlHpW1M42EOVpajVSeoj3/ZCk1ZvnwqRm8YEG1gpr5vT9t7iNg4DDHOslN8kC+gCbwYWPQ1G/+V9tU7YNDidckWobVpFbZWN/arsrZUDb+E9grMPyG/x7TVdLngT7gFeNxBF8u15EPdbFjf02JKqLcdsVOBlVMhd8E3IJzBd6S2HG5Z43/gnmNugoLUygzWBkTh9gzfNDIb0JGMReRcUjKjogqbeuj7sqtF4ERHVTJmkC+SQw+ONl/uG6VaKcwMp3H7d7yu5k2V6j14/bO+0EoO1PKvmj6CidemigCYTJRzC6h0pUMhbdDdvTbY5BW9tXMkRvzdhfptKLWSIPpUoSSLOxCCirpKVP3R7hdJk1aoE8TVdkGN3TtdqGF/joQ24SXD4gO7OCvKG0HmiDTTfT02kvlLLoj2/HZWb2X8/XtXxvVmc57O8WCvWCFp6o=",
+  "URL": "https://maven.apache.org",
+  "LICENSE": "APACHE",
+  "ARCH": "any",
+  "BUILDDATE": "1574886272",
+  "PACKAGER": "Levente Polyak <anthraxx@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "java-environment>=7",
+    "bash",
+    "procps-ng"
+  ]
+}

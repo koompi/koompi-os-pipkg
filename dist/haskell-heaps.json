@@ -1,0 +1,23 @@
+{
+  "FILENAME": "haskell-heaps-0.3.6.1-7-x86_64.pkg.tar.zst",
+  "NAME": "haskell-heaps",
+  "BASE": "haskell-heaps",
+  "VERSION": "0.3.6.1-7",
+  "DESC": "Asymptotically optimal Brodal/Okasaki heaps",
+  "CSIZE": "90186",
+  "ISIZE": "502550",
+  "MD5SUM": "1310572f890aa6e3844b231e0a5c8afe",
+  "SHA256SUM": "17835974f118f618c4bea766d117fb4c33a9e7178c72de7a14cb3e5ae4ee5310",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl6hd8MACgkQeGxj8zDXy5Kq7w//bksPjpCNHM/ovIaF6x043DIcN1+zUMR8JGTrk0Na2goD2Ocd/E4gUxMR8m768ELu3UEGmpkYFhxmSRrOy0XmuFb4EY1HqGZ/ws4F5IE0uO85QtSnqJ8hdIk0FzQloEcb7dFiXaW3JIM1sUli3Xj0wVUbCqGe9bz2+S1qcolbT+netquZX30Lgm7Q443dk8fFoCIYzNxWHaXZtpk4Tu05VTKFyoX4xkOUyP54fXHtCzYZMp/Py6nXJgt8YC3F7pvtJ2Opbw8IrDNgIeM2Tv6kuZWAE+Wk3fZaFG4h0ckj8/GWDJZBc6Nj5jhzgyEMcwchyFfVGKN7G65OpgSKlzbuTTSS51JCO6KCSYby2cQiMMp5i5Dz/3/D0UrnnZ8DE0r9d0Y0BFx8mOLTzVsI0s08+TnQizRvuW0/LYcyyR+DqdD8WBgj4bBggxE0WEdwtl2MEvGO8CUDXF/S2xDNUKq1ovo+g8tjjIw+XdfWWQch1IiD4jTYA2BoS/ZAGtAujQ4hX/x82F5aXZzb/Q+s+J/uIBB2cQ5lL/Mk/Ih9nTdn5XpCVCjizITaqP2B7rosFyp0LjhKB7Cg5CfkIDO2m981Bt+wWL5UOFWH0mhCyq+3IWW+V2V0T5RwKmxaQm1wvx00Ghxqg+mhQWezzxaTAvG5lWH/EBbbnEHJka2ohX7i6xY=",
+  "URL": "https://github.com/ekmett/heaps",
+  "LICENSE": "BSD",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1587640171",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "ghc-libs"
+  ]
+}

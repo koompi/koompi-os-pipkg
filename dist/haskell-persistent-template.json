@@ -1,0 +1,31 @@
+{
+  "FILENAME": "haskell-persistent-template-2.8.2.3-59-x86_64.pkg.tar.zst",
+  "NAME": "haskell-persistent-template",
+  "BASE": "haskell-persistent-template",
+  "VERSION": "2.8.2.3-59",
+  "DESC": "Type-safe, non-relational, multi-backend persistence",
+  "CSIZE": "165311",
+  "ISIZE": "838279",
+  "MD5SUM": "0d1c71929899315878fdb22f46d44223",
+  "SHA256SUM": "685603e34a33b285c8aeadbc12ea566e55d8eef7b2be03f9b375701fa8f25586",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl75ww0ACgkQeGxj8zDXy5LWZg/+INe/LgjGI++DVQqxEpcTSCEpmohv+64iSOSQ1hWSqP+mPao58mGcwKjpTPmnz68Zcx0sYns7B/toGpVM8OHJaD/cNUTzeWbMD4wQokbiD8eGSFdvET7UglzxyByrKAVrLsRAC1kVtfvDXOE3A2jc0QAExi1/FzbTw4wmRQHeezpm/0YKj8OrrmQ206v7oXeo0Fr8jlws9l2Ndk2T1Cg9LalFA53JfJmd5LfZIbUluyikhgxMK99rKdu7t9CZ4wtxpdqj+2qiOnk52HM0FLSA8njTlh5Nm4bVIhuSTllYgdBEz1nRT1mg0gooF+8QAMhGE7DCweBjqV+WnabJB/CfwlJxALZCl8OH2vZwatPTeZrwYItfy57K7EXvzUdknHow8xZG0PsWnXJvCIvXy2QR56UKPs99ipCBTrfB1MhRlUQtVNMQ/GccYtftG4u+wZuhjCJnN0p1vBbRi///stzfb84jnDnpg4PYD1/itHHIBTDrEcYBPJxzvh6hGPLqSBg/Q3iHYiixAC+aM1Y/aJrTAafu4zTwtjm1d3ChQQ/3gsr/H4SRhtkPaKcxUcstm57C3c9lRMiUbdqVhXAtNva8WTLiKCww7E7fo8CMBACUbfm4hZg/9o6EIJhVBdPgVp4hO0dcymM8x9FXRA7BOq5OjsSa404qOQs+FEzfJOfgC18=",
+  "URL": "http://www.yesodweb.com/book/persistent",
+  "LICENSE": "MIT",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1593426636",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "ghc-libs",
+    "haskell-aeson",
+    "haskell-http-api-data",
+    "haskell-monad-control",
+    "haskell-monad-logger",
+    "haskell-path-pieces",
+    "haskell-persistent",
+    "haskell-th-lift-instances",
+    "haskell-unordered-containers"
+  ]
+}

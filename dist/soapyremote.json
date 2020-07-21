@@ -1,0 +1,24 @@
+{
+  "FILENAME": "soapyremote-0.5.1-1-x86_64.pkg.tar.zst",
+  "NAME": "soapyremote",
+  "BASE": "soapyremote",
+  "VERSION": "0.5.1-1",
+  "DESC": "Use any Soapy SDR remotely",
+  "CSIZE": "196126",
+  "ISIZE": "768302",
+  "MD5SUM": "a92579c29a1036cb765ca98583245e54",
+  "SHA256SUM": "1d353951a53eed6fcc913e52196a67b13b2a1e8ea1ac38fd99a894b402aeadd7",
+  "PGPSIG": "iQIzBAABCAAdFiEE0jW0leqs33gyftiw+JPGdIFqqV0FAl6KNfMACgkQ+JPGdIFqqV0X5w/9H4wi7mKYxbUgnL1QUUen/J90seWj0VkDaaQg1DkFjIAm2V4lV9+XH0O5CmAvN9vTbx0PelZ2/M8UijTbV3gQEW1nDQ4SP84fCmggwVGejOASwL3tyoH+UIi5x/qPUrhwy6UOZ7U/oKisfKxxaouRvm9ypslgy7UvhSQl+GanGMWP1H1C5Ij8DR/AzJYTlzBzGGZWR8hbZVY3snakvVqagruBFvNJyUVQg8uFjAal0rrNDid9Lp51HvdowoawUpz7kPrG7gauTFSPC/Z4saOyC6FPNLifWsaOED97/ibHzAEXMyAZZNCXZrR14RsutlwjdyeNf5wMzvBnLSkA7r1476oRTN9ixbDwSn+e+PZy6QodZRC/W09wrQWHRTdzlAKZ6bKjR7NEtsFREntM5FLjDdSTMuzz+1DXwDSLZvGhrkEfIaha+qLmjr51FUnHSKEsbo8rSkRbZN+q/QFJm+ki/A7AGFbcIhxaVv/aKOA1cDb3v7mGbsFBGKw/rnmBmzwkcds98hxkpMggykW1q8O0FUgfZLZpAPznODHf+X+qF+aZ8X53BxNZdCuRYMgZMepkJxcISkaPiUSvPGYDdm0vMLZDiirPPhDtK+FcaZ1VDNH/2pqApFMXSBBEggpo3wUWpQGcDswdUKAZ2O8bEmYU9hLgZtb3rcF8Sno2K/qO+QM=",
+  "URL": "https://github.com/pothosware/SoapyRemote",
+  "LICENSE": "custom:Boost",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1586113984",
+  "PACKAGER": "Filipe Laíns <lains@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "soapysdr",
+    "avahi"
+  ]
+}

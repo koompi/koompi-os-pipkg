@@ -1,0 +1,30 @@
+{
+  "FILENAME": "libmodsecurity-1:3.0.4-2-x86_64.pkg.tar.zst",
+  "NAME": "libmodsecurity",
+  "BASE": "libmodsecurity",
+  "VERSION": "1:3.0.4-2",
+  "DESC": "ModSecurity v3 library component",
+  "CSIZE": "605573",
+  "ISIZE": "2552596",
+  "MD5SUM": "188d0ea6242c207287be520e252a66bd",
+  "SHA256SUM": "f6013af5dbf60dd12bcbdd13068a1b27f92381aa92822a613cd400c437ebc9e8",
+  "PGPSIG": "iQEzBAABCAAdFiEEhs/8qRjPOvRxR1iAUeixSKmZnDQFAl6m+voACgkQUeixSKmZnDTEtgf/exhwRUKWP0/4zJf1kiRVJvK/EPgJYX0gwr0flV/zNMot4o5nFTy97tf2CbwW5JqkizVDjCGpQ/nIeh0h57kaNtNuWmkgVHzvAieIjxjSvCI5BvYb311wbH81k7FLVGlgjWfKZfwLOF6fjOOEfQH42NIb7uX+1npXZxeq69pnmT/zzuOqCqE6JougokoDY3hGPuV/g9zQqK52vl/nKonRb4SB0IDS/nff+Lm3nP+kCycqVHOTSEmW1aZxzzL81V9AyoB0RMpK2nZDS18NGy27vQM1vDOgM5mTn1kaD4+L2P8pYQbjABV8lk4/IPyIrGt5q7OSotZmr+QkH4HUctGx1A==",
+  "URL": "https://github.com/SpiderLabs/ModSecurity/tree/v3/master",
+  "LICENSE": "APACHE",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1588001402",
+  "PACKAGER": "Evangelos Foutras <evangelos@foutrelis.com>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "yajl",
+    "curl",
+    "libxml2",
+    "pcre",
+    "geoip",
+    "libmaxminddb",
+    "ssdeep",
+    "luajit"
+  ]
+}

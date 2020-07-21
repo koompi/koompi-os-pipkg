@@ -1,0 +1,26 @@
+{
+  "FILENAME": "libical-3.0.8-2-x86_64.pkg.tar.zst",
+  "NAME": "libical",
+  "BASE": "libical",
+  "VERSION": "3.0.8-2",
+  "DESC": "An open source reference implementation of the icalendar data type and serialization format",
+  "CSIZE": "615026",
+  "ISIZE": "7278990",
+  "MD5SUM": "ed7dacbdf8ecd07befa9b45a48fbc051",
+  "SHA256SUM": "a09f5f00847a59fa93dda610174e07b646f707093e0e1f47077cd22bb3bfd75f",
+  "PGPSIG": "iQEzBAABCAAdFiEEhs/8qRjPOvRxR1iAUeixSKmZnDQFAl6muP4ACgkQUeixSKmZnDQl/Qf+MqzlOrql+S4syoJCeBvxWS9lhn70Vlkl6a3w9fsOnaGow1da2YbM8Ye9KK2T2i4Aemugd7LKNMH8YVxtqcCWYFD//pmNtLZuSvv0bOZ7JgOKhjhLOWERwSfG6GtnympPFwayQtjXBZlH0R1Psq/iGm+L+u6QOM4AeUH0RtmDPXyfSDaEwrhuZjgAtpflpCbR/Pro1x7J2UfDOPvEBUPZYnY/k3rJCRG1/35cw6deMDaJEsv37ZCcmZelb27BwIL5k6l9+xpGLGXxS0OHPcpQv64BSxNEHRDGodve7yfN+9kAzPPsfHeQlXVvKm/88m3Uifv+Q5QL9et1cuBZPXvskA==",
+  "URL": "https://github.com/libical/libical",
+  "LICENSE": "LGPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1587984564",
+  "PACKAGER": "Evangelos Foutras <evangelos@foutrelis.com>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "glibc",
+    "glib2",
+    "icu",
+    "db"
+  ]
+}

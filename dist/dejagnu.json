@@ -1,0 +1,24 @@
+{
+  "FILENAME": "dejagnu-1.6.2-2-any.pkg.tar.zst",
+  "NAME": "dejagnu",
+  "BASE": "dejagnu",
+  "VERSION": "1.6.2-2",
+  "DESC": "Framework for testing other programs",
+  "CSIZE": "148074",
+  "ISIZE": "542208",
+  "MD5SUM": "bee3dbab07f6e5f57dd61e02e1419abe",
+  "SHA256SUM": "fcc2b5a2370763601545254d6bd424451f2a8d1a4883ca10c1c90c16b89fdf4c",
+  "PGPSIG": "iQEzBAABCAAdFiEEhs/8qRjPOvRxR1iAUeixSKmZnDQFAl7DrC0ACgkQUeixSKmZnDQHgAf8C4if7j1Xlq8UDucCz6gMME3FqdBlBKdCKQS0Uq7VMcYrRlueCS7vUjDfiP9bKWWEjtteZ92H2TU3240hlDO3G24IpjzLEPMIpi0JqmQipn+T8fITh0K4VKwjDP1R2d2h8Po5TtLkzQDyQ1OYsUbrAQweMwpZs5ZHzQTdTyd0JTHWEnf8iizy3LjqTkdi8mlwNO1dQNHvYhb5oOy1YQmE7UQjhjwaLcpR5bH35SxQ0YJ76Vn3mSWxetiWC5zs9yR9uaCk8k1c/cyQ5SuQmD1y/10tjvrD6S9Gk+8sTUl8kbZTeOjx2T6eWtYPY9twEIFvZH2XmfZLtA/v44+wo9+ihQ==",
+  "URL": "https://www.gnu.org/software/dejagnu/",
+  "LICENSE": "GPL",
+  "ARCH": "any",
+  "BUILDDATE": "1589881879",
+  "PACKAGER": "Evangelos Foutras <evangelos@foutrelis.com>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "sh",
+    "expect"
+  ]
+}

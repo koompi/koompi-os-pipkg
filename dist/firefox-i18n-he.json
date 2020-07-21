@@ -1,0 +1,23 @@
+{
+  "FILENAME": "firefox-i18n-he-78.0.2-1-any.pkg.tar.zst",
+  "NAME": "firefox-i18n-he",
+  "BASE": "firefox-i18n",
+  "VERSION": "78.0.2-1",
+  "DESC": "Hebrew language pack for Firefox",
+  "CSIZE": "520501",
+  "ISIZE": "582418",
+  "MD5SUM": "eb5ef1e8eaa93d759c6e935a879dd181",
+  "SHA256SUM": "5436af5a195280c3f29245d290ae1135a63ca335b3ec1ecd65015aa42285a452",
+  "PGPSIG": "iIsEABYIADMWIQQGaHodnU+rCLUP2Ss7lKgOUKR3xwUCXwelpBUcaGVmdGlnQGFyY2hsaW51eC5vcmcACgkQO5SoDlCkd8dnvgEAsxFPsjzPb+eT5Ofh8tX2EbWhezNpJldUNYdDNow0E5wA+wV3sNYddljZM1pHZcPtZTg6c1G4WRfscfd30RV0pqQO",
+  "URL": "https://www.mozilla.org/firefox/",
+  "LICENSE": "MPL",
+  "ARCH": "any",
+  "BUILDDATE": "1594311501",
+  "PACKAGER": "Jan Alexander Steffens (heftig) <heftig@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "firefox>=78.0.2"
+  ]
+}

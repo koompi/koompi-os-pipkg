@@ -1,0 +1,23 @@
+{
+  "FILENAME": "black-hole-solver-1.8.0-1-x86_64.pkg.tar.zst",
+  "NAME": "black-hole-solver",
+  "BASE": "black-hole-solver",
+  "VERSION": "1.8.0-1",
+  "DESC": "Solvers and statistics for 'Golf' solitaire, 'Black Hole' solitaire, 'All in a Row' solitaire and related card patience games.",
+  "CSIZE": "19121",
+  "ISIZE": "45023",
+  "MD5SUM": "9de9ddb6f10ee5bbc1af1361478f9b09",
+  "SHA256SUM": "1cc2f3be0916bc06fc44b84cbd420f721f0f2a27c9034ad1b98a4cd289b6032b",
+  "PGPSIG": "iQEzBAABCAAdFiEEFRnVq6Zb9vwrc8dWek52CV2KUuQFAl73zAgACgkQek52CV2KUuRtqAf/W6Lo7ei9PH2XGW3zwzW/N3UfI5vyHxttfcVJvNJJCRi4C895wJbJQHniiNvg4+3t2elzrRnloXETl/dX+PJ2qbsZNlk/4EUZ9bhE180ZTtpkOYY72h8//yspcS7R8+TnR46cMk5eKeMstBye0ulUu7LTXzYWEs5opTfEGdGH1XEkTkDx0AtXT7bWrtA8ywGTxa0491UEXGHtmlvczEi9b3AEqhw8MqEP2QNO+g6c+rDkcR2VbPeBnXKvCpnpNxjrEjl4lh5syVN2a3+m7z17a/9TO3PHiFDfsfH204eo2UyFdwaRT5UtvHmMgfg2t1lFTzOJp3uynTn+2in+VMhD3w==",
+  "URL": "https://www.shlomifish.org/open-source/projects/black-hole-solitaire-solver/",
+  "LICENSE": "MIT",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1593297874",
+  "PACKAGER": "Antonio Rojas <arojas@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "glibc"
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "FILENAME": "python-igraph-0.8.2-1-x86_64.pkg.tar.zst",
+  "NAME": "python-igraph",
+  "BASE": "python-igraph",
+  "VERSION": "0.8.2-1",
+  "DESC": "Python bindings for the igraph library",
+  "CSIZE": "1857879",
+  "ISIZE": "6429385",
+  "MD5SUM": "45741284609ec93bb075486accef34e4",
+  "SHA256SUM": "296c1d250e78022f88b5f2bd746263e646a4bbb1668f6c96aee818859c068081",
+  "PGPSIG": "iQEzBAABCAAdFiEEFRnVq6Zb9vwrc8dWek52CV2KUuQFAl6on2IACgkQek52CV2KUuTHAQf/Y2RCPAHPTkGkvr9VVIG3KcLhkLlGDQAh/dVwpXrV5Dkt20wvGz30LMQMwI4Cj9Lma45SnbzzLW1PW9Bh+YLwphcYl4XU71Gxf6hbqOsTd7KZjFhXOu+lmS8ShqTiyhMgQTzWWBGTZ9tzLtBgvWLy/Pa/oCG0buS9WCK7soN68qqU10PXgdSRf9Xk8irQIR9+dUq+rs40Qecq0BaYEugsevzuOBVw1OBzpGBibW3AlbUKFyNvNDLDjXikNuYHfubfNa5oE8ZtfIDE2z19EG4NER0aZgvdwUhejH9Lrh/stR8W7TlvWSTcLRylBXUr6bRCZd6EkAh44CMj2dlofS9hpA==",
+  "URL": "https://igraph.org/python/",
+  "LICENSE": "GPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1588109046",
+  "PACKAGER": "Antonio Rojas <arojas@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "igraph",
+    "python-texttable"
+  ]
+}

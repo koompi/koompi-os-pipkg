@@ -1,0 +1,23 @@
+{
+  "FILENAME": "firefox-i18n-dsb-78.0.2-1-any.pkg.tar.zst",
+  "NAME": "firefox-i18n-dsb",
+  "BASE": "firefox-i18n",
+  "VERSION": "78.0.2-1",
+  "DESC": "Lower Sorbian language pack for Firefox",
+  "CSIZE": "526148",
+  "ISIZE": "589026",
+  "MD5SUM": "f76ffef94a71f68e18c5d30c82d0129f",
+  "SHA256SUM": "dabbd874626c4ad73b92af403a10bd78b0460d789e3352064d8aa8e3eccc202b",
+  "PGPSIG": "iIsEABYIADMWIQQGaHodnU+rCLUP2Ss7lKgOUKR3xwUCXweloRUcaGVmdGlnQGFyY2hsaW51eC5vcmcACgkQO5SoDlCkd8djbgEA383Tm9htEw+jxSHbHLS1X0S0zO3Y7kMxkh4PObRHj90A+QGJAIUC1emXaKqXUOAZl/dJDYgwJUFEH1bxlJ73o9EJ",
+  "URL": "https://www.mozilla.org/firefox/",
+  "LICENSE": "MPL",
+  "ARCH": "any",
+  "BUILDDATE": "1594311501",
+  "PACKAGER": "Jan Alexander Steffens (heftig) <heftig@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "firefox>=78.0.2"
+  ]
+}

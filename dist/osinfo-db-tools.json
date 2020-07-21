@@ -1,0 +1,26 @@
+{
+  "FILENAME": "osinfo-db-tools-1.8.0-1-x86_64.pkg.tar.zst",
+  "NAME": "osinfo-db-tools",
+  "BASE": "osinfo-db-tools",
+  "VERSION": "1.8.0-1",
+  "DESC": "Tools for managing the osinfo database",
+  "CSIZE": "42733",
+  "ISIZE": "134100",
+  "MD5SUM": "cbb056dd15e5bc42323f321188e93468",
+  "SHA256SUM": "8ddf73b4d9e201387f602085b9304bfbf8a3394bca44a36e3eb1ce58e3d2dc60",
+  "PGPSIG": "iQEzBAABCAAdFiEEzgvecadZqH8j8PfYth284QkBwWMFAl8Iy1kACgkQth284QkBwWNwYwf/eRenjtT/lLm/4Ckvj1GK5JomAnZA5JTubHEyVecEvYETKZNmhfRWkr8RjI/XO+GsWGpauWsm/IYzxc1aE6aTH5JArAnVHtobPaxnq3ItVpekiBnxm57NbAek3SPDhrK2IffbDv2HtUeoU1IljPB07/hpNzsymI0frp5klxqA9vQ7ESM3JM1G3xOhSheKUcmaQW6AXad4LtLyh2qsSBTfAv/ovIlMQh1nq5D0lBAjSJqpSFtZDkg2VDdy84kAJCvtWJgV35z8ZwKrdoU1relkQC29pZNDUiZkEJuZ1uLtlDw+XnlANfp1pcW5abKKCYieyjWXMop6ObN62qJzkWkE+w==",
+  "URL": "https://libosinfo.org/",
+  "LICENSE": "GPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1594411810",
+  "PACKAGER": "Balló György <ballogyor+arch@gmail.com>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "json-glib",
+    "libarchive",
+    "libsoup",
+    "libxslt"
+  ]
+}

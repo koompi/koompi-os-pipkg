@@ -1,0 +1,25 @@
+{
+  "FILENAME": "vim-jedi-0.10.0-3-any.pkg.tar.xz",
+  "NAME": "vim-jedi",
+  "BASE": "vim-jedi",
+  "VERSION": "0.10.0-3",
+  "DESC": "Vim plugin for jedi, an awesome Python autocompletion",
+  "CSIZE": "36572",
+  "ISIZE": "115526",
+  "MD5SUM": "5802b6c57b5d6d5b62f78d4cc0683d78",
+  "SHA256SUM": "fe2935f00013d8a8391b6e75b38bc61ce71a24c7b90dc95dad430682aa75e4b0",
+  "PGPSIG": "iQEzBAABCAAdFiEEhs/8qRjPOvRxR1iAUeixSKmZnDQFAl3IdN8ACgkQUeixSKmZnDQpFgf+LXQlCp5pq0EmZjedecaeim5gjM19Cht4WZXixbbrC20UQSELdFbn3W8FrP3fH0KJLq2HKn/haQWVmnw7BlQXH8vNxBByWO2UHGdEtEWdujAFEPkAnbJ5XNv10bnOgrgiFfwVrSSTam4fjlxXAB2nC53+hfo9vZEbHIE0xsmi6FvgX7UVB/3OO4SkTKZQGpUHM5KGyVvjC2aINZnToIzEnK8GDM4IR+klguHTytBwa45JJiMWnndblfvZyi6fhice7RMDyT0e//ei2mO+Fh+qn79jN2ImXZClAGrOagVvQSwfUnvQ0koTIJ6OyN8jwnMSIvY8HoKjxYAh674bgVnHQg==",
+  "URL": "https://github.com/davidhalter/jedi-vim",
+  "LICENSE": "MIT",
+  "ARCH": "any",
+  "BUILDDATE": "1573418180",
+  "PACKAGER": "Evangelos Foutras <evangelos@foutrelis.com>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "vim",
+    "python-jedi",
+    "python"
+  ]
+}

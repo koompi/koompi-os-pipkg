@@ -1,0 +1,28 @@
+{
+  "FILENAME": "openipmi-2.0.29-2-x86_64.pkg.tar.zst",
+  "NAME": "openipmi",
+  "BASE": "openipmi",
+  "VERSION": "2.0.29-2",
+  "DESC": "Full-function IPMI (Intelligent Platform Management Interface) system",
+  "CSIZE": "2230888",
+  "ISIZE": "5687916",
+  "MD5SUM": "de9d73e8c3f32893fd9518db9625f841",
+  "SHA256SUM": "56053b12017296de10ee314edb4b11017e4465d94a9c88bb4b079026c4a0caef",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl7vPYYACgkQeGxj8zDXy5Kd7hAAq9jF+4wYF5Xj9k7fw0FEPWSHDxYbv6wAQk6dWlBhmSpxVxLjv6M9hkZ0p/I2vZuER6WM1+68x+tqj+sVGkp3+HYAvSFQNKheEkWBKwbMiEE3nQ8bw1/T/Cc0Vko7EsMr1BkUjLvPF8yjgqJfl12wejJusPZ2aoqFThXzETvjF5vLwJ1hoJGXHFZ1UaAxMVWi2YDv1WGYFOd2heGXsA/YlU3Tk7bAWNc33wY6jUQhd//PhSPBXS1imkke5bVMcAzHvZoDG0qFgRQCQJL1uT7amDcBPKhiIDuSF/cvuF3sIIWlp+GNg0wr4duN9gp3rpq8FfWRRz/OmpYKLZ46RAOKW3FmFBlSZr8qjTRkk94P6r0d9g/pQbOE7J+U8YLuXXpIJtgtp96+Exd/5W6IBNT3mtWile5fdzkv5qHD8X2uZ2Gqke3m63SoeaUZWMECR7V6gYxAxlCtyOL663xaBPEJq9gTtoY4oaJyoKcJP+H8fHBn0VsQ9se1K3SANW5Pta385PpcN/w+uKXQM1EK8/iLpkLl9P/Q/mvqoANKQ8qG7vDCjuj84JXWgn89DoxnXwPdr7NpDFGKNtXbhi1iqfQZ1JWp3FFpx7SNTDF91NPRFBfMux5YzxACQ8Wv+dmI29750ZOadCXZHnr4j9rM4eAzCVYr4TKtk8osaDMYWppnMEE=",
+  "URL": "http://openipmi.sourceforge.net/",
+  "LICENSE": "LGPL2.1",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1592737035",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "popt",
+    "ncurses",
+    "net-snmp",
+    "glib2",
+    "gdbm",
+    "libedit"
+  ]
+}

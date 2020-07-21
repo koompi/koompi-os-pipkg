@@ -1,0 +1,23 @@
+{
+  "FILENAME": "nextcloud-app-deck-1:1.0.4-1-any.pkg.tar.zst",
+  "NAME": "nextcloud-app-deck",
+  "BASE": "nextcloud-app-deck",
+  "VERSION": "1:1.0.4-1",
+  "DESC": "Kanban style organization tool aimed at personal planning and project organization",
+  "CSIZE": "2090862",
+  "ISIZE": "15282632",
+  "MD5SUM": "cdfcde752664fba73ee152317403dfa5",
+  "SHA256SUM": "df21458376900f3b0a35dfe50accf37c2d9225b0ed24cae075753b4621cd1cce",
+  "PGPSIG": "iHUEABYIAB0WIQTH54SUZv4jWDQ1iDdyWHNLQcMVSQUCXvwusAAKCRByWHNLQcMVSYt8AQD8ade5uOYoVJ2hsO/BDi43X9p9Wghoh7JCVwo0WkZALwD/RXHFCjEsoKz7U2gG3dC1Taci9AHXV+6/SO35qREzlws=",
+  "URL": "https://github.com/nextcloud/deck",
+  "LICENSE": "AGPL3",
+  "ARCH": "any",
+  "BUILDDATE": "1593585162",
+  "PACKAGER": "David Runge <dvzrv@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "nextcloud"
+  ]
+}

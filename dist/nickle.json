@@ -1,0 +1,23 @@
+{
+  "FILENAME": "nickle-2.85-1-x86_64.pkg.tar.xz",
+  "NAME": "nickle",
+  "BASE": "nickle",
+  "VERSION": "2.85-1",
+  "DESC": "A programming language based prototyping environment with powerful programming and scripting capabilities",
+  "CSIZE": "372316",
+  "ISIZE": "2202470",
+  "MD5SUM": "8c110e402cc23911804237f526eb1b3e",
+  "SHA256SUM": "0729396cacb3dfb239f8046eaf273b9e36fb2ed93d86fdd45d35603b9ea5d687",
+  "PGPSIG": "iQIzBAABCAAdFiEELjbYYgIhSC/EXLfyqRdkdZMmtEAFAl22+fYACgkQqRdkdZMmtECmBQ/9E50qDdmvVw3fH3nJS5OHylH/uKQi5j+pGaNSTcKiH1FZjl3+Eaun7jbAG0udv9a2m5lq1csRCu22ZrZ1DH3h89JJdITz5UMy2+ObBU3ZpeVgs+fqsLfUV0vq3LBJj6Yedna4Xea+CZRFEswo0FUAGJkY0udfjtSYu7yD/RumzH91WdBy2GAa0W63LgSd4UcG20QOkMBr3epjrnE3Vs6m+YDesuJNLwdPKzmagoPFbxm2hnrI4dq8LfqUcG86DEq0DKH799w4mZSGa0YxaEQLf7jh90roDzw8nwwy3Wsqf96jLrcBLWY7gne5Y2RjD3jR4tak4k+DPyLZYUzkQY8ZBycKu7yNZkFTOeGP+u+a/GM/oHGySw0+zNx7cGE7HDzW/zbk8nH3yqGXfbB+BIrpmUylbLc4mrchAW2a5auifwfFMbOABe8GYmPUNrwDQg9mqhQBmIa1ObAp5MEBpt16RzujCfJU3816lDvu77y/ulbdn/nvx1CTiKC6EFOwykZcQfXsIAL7pavwO2eQllVU1cXIbxrXay/Q6tPOalrJdpsoePFe3SPHuEsrUcCir3e+qRQpU3QvcKMlFBCiFf6Hr97ADjEgmtYbX3GNxZ4+3XdwpMtli37lRopgcPieEM31Bxyc6DmgSvZUPnTZMEkvvcgBXhMRVpO3NC9iUpAWenk=",
+  "URL": "https://nickle.org",
+  "LICENSE": "custom",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1572272533",
+  "PACKAGER": "Lukas Fleischer <lfleischer@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "readline"
+  ]
+}

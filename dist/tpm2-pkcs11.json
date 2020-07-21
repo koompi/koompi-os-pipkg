@@ -1,0 +1,35 @@
+{
+  "FILENAME": "tpm2-pkcs11-1.3.0-1-x86_64.pkg.tar.zst",
+  "NAME": "tpm2-pkcs11",
+  "BASE": "tpm2-pkcs11",
+  "VERSION": "1.3.0-1",
+  "DESC": "PKCS#11 interface for Trusted Platform Module 2.0 hardware",
+  "CSIZE": "127672",
+  "ISIZE": "472337",
+  "MD5SUM": "799513ad2b5a685f06c4e883a456b7b1",
+  "SHA256SUM": "7129a5aeadc5badafc52b16312f3648490f6eb00c2f30b7744f877235b7832bc",
+  "PGPSIG": "iQIzBAABCgAdFiEE0ZGnjxiB84R1PJZ+aGsGOsS8DskFAl8EeCkACgkQaGsGOsS8DsmhmBAAliWcwRSmWEHRoPTAegsIxzGw9iGYxq9Hn0sTK5IXugMMHei0v4anK+mGIAwnkGMTSC0cRRrg/jTeBCrg7qACDysyPOfg8QvjIKKDflsVNx2+uzUqa/sTt7h1CUge9NsZWHCys0v6mUbXCxsdDQSKz5wqeGB99Bi+DLQX0nxODPOyLV0rJEcIif5ruXP8jMSn6RQ0NPG4LbxWyFGAEqXpJV3yFLmYKvSH0ktodiY5h5tpHVUPR7BdoqmZZ/IKlGu2xh6AiaecaKIWqn0e+qqW4BmpyvlSp++2cL+NaPzPnV3or5MAbavdYeCCF7KkLEaBIQS24e+z1SPm4GuqzhwVZt6dwzIVRYgdc3N0Fkhca9Jft4PcXbOUAVDb2tSfGM265IRpWxD2p/7gxXIJeW8OcE+yDRdX/8CyivQMgCRGQDLxj9aBEyWHlYl47Q34+tdjDznQ0GnMHplhNyjpOWCWMBL4F3ej1AKGkv0uASm6iI2bH+RJmofcoNmOMoVUWSK4Lhf9xuBwqRC/d2GzioSmadDNkVQwkizCyk3vxNLpMP2Gc5pYotXlgUQTGmvp3AoJRL1KBnjDzq+HDIaRna1pkOS71j9B6QY1x7rWy1/rYVjgPv9f4sCRMdQGTl3pJ/OaevM4T14T7BCe+Yv2WW0NeQl4866dxDl9iiTrMl5/vy8=",
+  "URL": "https://github.com/tpm2-software/tpm2-pkcs11",
+  "LICENSE": "BSD",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1594128269",
+  "PACKAGER": "Jonas Witschel <diabonas@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "libyaml",
+    "openssl",
+    "python",
+    "python-cryptography",
+    "python-pyasn1-modules",
+    "python-yaml",
+    "sqlite",
+    "tpm2-tools",
+    "tpm2-tss",
+    "libtss2-esys.so=0-64",
+    "libtss2-mu.so=0-64",
+    "libtss2-rc.so=0-64",
+    "libtss2-tctildr.so=0-64"
+  ]
+}

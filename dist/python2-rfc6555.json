@@ -1,0 +1,24 @@
+{
+  "FILENAME": "python2-rfc6555-0.0.0-2-any.pkg.tar.xz",
+  "NAME": "python2-rfc6555",
+  "BASE": "python-rfc6555",
+  "VERSION": "0.0.0-2",
+  "DESC": "Python implementation of the Happy Eyeballs Algorithm described in RFC 6555.",
+  "CSIZE": "10428",
+  "ISIZE": "33280",
+  "MD5SUM": "7ab4372688facefe9b0f5765cbf76b7f",
+  "SHA256SUM": "2361b063ecd7df9c1ba04bc12882484674594b8930b44667673ad6e83df96641",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl2/wVEACgkQeGxj8zDXy5KGFw/+JFwZDOzELTTXaoOl+N6JoEd8ZF8jLHSAUz3+zmwoYImIUanJLshv+glOafoB0MRW6rRNC0B1fB7Nyfqk2L+SgWkOVVEdY77phucRZ1SdFnm8NdgYmf07eVU/A+aGUIJKkpBiq1saF7HyjQY92FtyRu19mCwf70/nk9JdJW75Zf4euy4ESriXM+3K0w06apuOVkYmcJPnGTOrqaTFK97H3hg2gj2Xno+yWDR9+Um5cGojIqYC4X+bmNCziRvLWRWsGgfrjsiY9lu8wPtydb3YkY9znqMcNry55QomS+E1EnrU+JS6+d2KtPrmrlhIAH20Jl9A0We1ae04EKppS14v+/hKtWOsr+F8i7cSzbTgkr+Yn5Dz78jE1CIuKtZAYs+hL3foSdVlPIb+Xf0hRCQe7JVwihLabn4MW9ePIy4809IPbSXaenrozbTbVJ4oR6cfBp610nembtcjhL5A06ZfSKARqSrmN3KznLGwTAolsPfvulJLvdvttsepVvJRYgVcussTENvcmuf7RJgIu/8srd8fiDCTRUIM5K0zV4iCWP5wvfykHPDmqDh0k3v3WjtHTDF0zWvmLRdDdOw667FW1MiYgIa9dYHpvI8vpozjr0IG/XOOxyET6Pa51jl41YU8rfFuhq24IPG9ktQRzbTuA/hsLJSofvjL2C9CqsHo17w=",
+  "URL": "https://pypi.org/project/rfc6555/",
+  "LICENSE": "Apache",
+  "ARCH": "any",
+  "BUILDDATE": "1572847919",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "python2",
+    "python2-selectors2"
+  ]
+}

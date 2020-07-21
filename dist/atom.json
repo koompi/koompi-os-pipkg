@@ -1,0 +1,26 @@
+{
+  "FILENAME": "atom-1.48.0-1-x86_64.pkg.tar.zst",
+  "NAME": "atom",
+  "BASE": "atom",
+  "VERSION": "1.48.0-1",
+  "DESC": "A hackable text editor for the 21st Century",
+  "CSIZE": "47426923",
+  "ISIZE": "213806286",
+  "MD5SUM": "bfc9bc34f4232510d2b0d44a2fb02a2b",
+  "SHA256SUM": "d84aff740925c9fe7876d4cea12575e4844d350beed5d004bb33f1c4ce7de254",
+  "PGPSIG": "iQEzBAABCAAdFiEEqbZxDXYPZhfFMHRuyEe2rrBUQWcFAl7hfHsACgkQyEe2rrBUQWebfAf/aIPX2dUvFD9aSv4NbrOgSALl0AlnjyfL01/LH/nQUvJ5mgnDGeXQZBefSnRlZgE5R7+tLW9Pwk52mkLy3VUp0bz8YzA61qMAW35mfTZOQjiyAtSzJsVFporTzncqklkrJ+K6yhYN8KFA7B3K+oNjJY8Ab45sRN3gZ4yMVSW4BEa8B/yDRdUczo1lXQcZyk5LVBP2mrLKh4pZ1WH0KzUlFeZ7fJZB5nPXP/ZjrlR4LywDssJJBd6E2miWvqLqlIt5zRa0wXU8bjsq5D3Fu3Y9aJ0urxgJdwQE4y4XvlBGVwsO7q/dWZWwmG9P5KpryGhfUCmS9mV9jAY2eAu2ipocPw==",
+  "URL": "https://github.com/atom/atom",
+  "LICENSE": "MIT",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1591834178",
+  "PACKAGER": "Nicola Squartini <tensor5@gmail.com>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "apm",
+    "electron5",
+    "libxkbfile",
+    "ripgrep"
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "FILENAME": "mako-1.4.1-1-x86_64.pkg.tar.zst",
+  "NAME": "mako",
+  "BASE": "mako",
+  "VERSION": "1.4.1-1",
+  "DESC": "Lightweight notification daemon for Wayland",
+  "CSIZE": "40933",
+  "ISIZE": "95044",
+  "MD5SUM": "c745529dd8f11b7d99e4f668606f86dc",
+  "SHA256SUM": "2cb37abbcbc8779c9fb331d5e10f43471714267117f95363decd7eadea677626",
+  "PGPSIG": "iHUEABYIAB0WIQQrrTV83XSdUIHyTz2YyyfgKmgI2AUCXhq+7QAKCRCYyyfgKmgI2C2GAP0VmobjLAN6kTEVxb6UAwu0Gx0V/qQ/TN0S6PEz7J88yAEAzmOfptc4ykl9hgGcZbtXMj5uzyuqFGv/0EL7PEC2ug8=",
+  "URL": "https://mako-project.org",
+  "LICENSE": "MIT",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1578810861",
+  "PACKAGER": "Brett Cornwall <brett@i--b.com>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "gdk-pixbuf2",
+    "pango",
+    "systemd-libs",
+    "wayland"
+  ]
+}

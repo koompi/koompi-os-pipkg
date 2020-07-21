@@ -1,0 +1,23 @@
+{
+  "FILENAME": "perl-sub-quote-2.006003-3-any.pkg.tar.zst",
+  "NAME": "perl-sub-quote",
+  "BASE": "perl-sub-quote",
+  "VERSION": "2.006003-3",
+  "DESC": "efficient generation of subroutines via string eval",
+  "CSIZE": "19450",
+  "ISIZE": "33691",
+  "MD5SUM": "a071ba1b06dac667274fff18e38bcd16",
+  "SHA256SUM": "c88bb03478bc5741ecc11be123bfad18ec73c31df1824823e9922abdd49c172a",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl7vPR4ACgkQeGxj8zDXy5JGKxAAuehJfPU/r1FIm0BGyO2a0rzQ0tOewwvsPpa4EHhTzJVeYutJg1bpMn2ms+rTIZBZgKKdznSyE3Cnrm8x2OZ+PusrxfpZmGqCuIs4Y2DdPWq3d32hAukWhh2TFGUhvMydL7H6UWbJxrZ1DZZqZ/AW8gFQb+WLgugEBirhAb0OEjeElxkJEcJNh6w6vT8poh2fmqttpQH/oKAPiTmC9oPtrR7XGJEjSCTsGGwMr3zZzHra3LPGEy1fnxA51gMlIBpvB3cKuF4+PGMNUNRTsH1AmrqVeIMo6pL7vYbAsOPU/HBqBWKd2BU6/lEF7uRpBm2Vic+Lp5JrxcLjHuWFcGFOf9Ssjk6qHvgN/89qgFRw2wpKBqzyY2oqgFH/CCLnEvXea2Zq/CrZxm7OZk+4k1IY0wWcJ1CtreWvsif9YLTa7YgFhvHlJQFdhbr5qz98S7wsCqumNw6L1+bz2H0eGseccKy4g02+hYzKLiMiIk+VrQiO8iUfHLHDl8Sg3KglIRptAfXzEG3fttX4wD98AMm4gvvpv6bzBu5qwHGPaI7IgXnKveWaX6sB2Ei1Z3R/D0vAr8+FDub1qX8uJzFlZwXAi1z3vR0RY3JTfHjDYs/vHcRKpDpKlzYOtwKaZCL6Dyp9wpR4nsftm97+0DzqoW5VeS5c9bvyXDodG5kufpk1dCA=",
+  "URL": "https://search.cpan.org/dist/Sub-Quote",
+  "LICENSE": "PerlArtistic",
+  "ARCH": "any",
+  "BUILDDATE": "1592737030",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "perl"
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "FILENAME": "libkcompactdisc-20.04.3-1-x86_64.pkg.tar.zst",
+  "NAME": "libkcompactdisc",
+  "BASE": "libkcompactdisc",
+  "VERSION": "20.04.3-1",
+  "DESC": "A library for interfacing with CDs",
+  "CSIZE": "72601",
+  "ISIZE": "200365",
+  "MD5SUM": "91d1c02ce95c23778137aceb245b5ba8",
+  "SHA256SUM": "8cebefe8a8176a1719abb0c7f146f17c72d6ed39eb79497abc47b8f4c2398f34",
+  "PGPSIG": "iQEzBAABCAAdFiEEFRnVq6Zb9vwrc8dWek52CV2KUuQFAl8HAkIACgkQek52CV2KUuTL+AgAg4qDNXmwwxBJG/63LncS1G1RONKaYcdQzbYQkzMmsJMVeKSFvwDnzSZYfYYthQxalF0IxLb1cS2onvB5UAIQGHUDjQopvUawHV6G/eJRaGiLm++QnYgJCWKWo9BOcTez6c5cgdsL5zNkig9hXM/T2bGwXQqd79J3OQ4TUl+hH5p1j3Yenj+s1Wz062Jj8rZieI/bShb6Ok7wErEPwWICXs55SzTf/Ztv9GbnXkpGbZWfsTxsLiJ4PDZI3znMED+fTVerBXqt77hmkbh7Af8c+juBiBA9AP1awDTM+QD6aomwtnZWYDLKNVmqIC+7GPdhORH8lVbRnbsPsm8+Yr7Mng==",
+  "URL": "https://www.kde.org/applications/multimedia/",
+  "LICENSE": "GPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1594103755",
+  "PACKAGER": "Antonio Rojas <arojas@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "solid",
+    "ki18n",
+    "kcoreaddons",
+    "phonon-qt5"
+  ]
+}

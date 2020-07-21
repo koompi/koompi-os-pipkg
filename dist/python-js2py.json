@@ -1,0 +1,25 @@
+{
+  "FILENAME": "python-js2py-0.70-1-any.pkg.tar.zst",
+  "NAME": "python-js2py",
+  "BASE": "python-js2py",
+  "VERSION": "0.70-1",
+  "DESC": "JavaScript to Python Translator & JavaScript interpreter written in 100",
+  "CSIZE": "1707377",
+  "ISIZE": "18999765",
+  "MD5SUM": "fd7f5c3c2a61dd5e120cc7100b2dcec4",
+  "SHA256SUM": "2cc7740741edff8d187d39b43ea5455aa5678303cd4a79aa1c2921a0141ab7b8",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl6XNgwACgkQeGxj8zDXy5Jlxw//diDecOycqgOWqLg1vIN5WXplLBkQs6/4raCEar1AKSWMhaM90d7PljcyUnzAVmI9miOcAWOq5sdlwknRoOjByV0Wx3d26uke+jYH8y4TAilIsYF6+XNEW7CzhAu5Dan26/lcU/Vp6BMwIp70SWKH4d8kWwvgsnDDqlHE+lPI9IuhJsYNre0ZwmYsa2b5bm8dVnnC4CVsUKIT2FDb/vY/vWswQV/sQFdbqN1lOKwV888PtAMV3tKA812yzTK5rvUHodItgmXqccoX3h32TP8+53lgKssP4VhYOag3+yngbTJOAL/pVy2vvOqZqdqZfIjK5rORrzyyQsuTxrdJc1zrfWXjmvPch1qKifGUqwHkKv8Fv3Uz1MTARP4ktQZxvs9u2QE/3CLEX2qDzE7ZVODyxUaiUYsQnCqIxBh9FiUViE9AbE5re7kxpdPv040nYM82q9LZgdt655PGJ5sgEVK4SuKxYzqi10NEyI/MvGsxwHR3P2OCn+OU689EFBiYecyqpD2S3IkQroUH6XJtLVTlCLKm4hJgh9+dBofYcM4914gM9bYSajHbqJlzoHT3vXSHKSultATQ/kqz9BikfPHhs2Lk61oezkSczifQT0F7GskO5K/pkQWQsSH34NCGizMSmx09pF0ZrNvGmOM8K9a5N+Hfz6Q0e6hCw8fDuhgTcLQ=",
+  "URL": "https://github.com/PiotrDabkowski/Js2Py",
+  "LICENSE": "MIT",
+  "ARCH": "any",
+  "BUILDDATE": "1586967909",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "python-tzlocal",
+    "python-six",
+    "python-pyjsparser"
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "FILENAME": "libksba-1.4.0-1-x86_64.pkg.tar.zst",
+  "NAME": "libksba",
+  "BASE": "libksba",
+  "VERSION": "1.4.0-1",
+  "DESC": "Library for working with X.509 certificates, CMS data and related objects",
+  "CSIZE": "138930",
+  "ISIZE": "321281",
+  "MD5SUM": "d515754c116766c3d01492753d63577b",
+  "SHA256SUM": "0f4c587a076760c9e265878bee522d32697ec1a0c8c1f9d56856b1c1cf937e2f",
+  "PGPSIG": "iHUEABYIAB0WIQQaYNxEJF0G/vkGI9bu7uLu7i7u7gUCXtYiLwAKCRDu7uLu7i7u7k4xAP9kJj1PR9Ld1w2LKCyIVsRGXc20cpS2MWqUbErhSAZp8gD+JKKJMWtXr8xoklSKwIuZ+JfBnKGaSrRE2ny/jVjr4Qc=",
+  "URL": "https://www.gnupg.org/related_software/libksba/",
+  "LICENSE": "GPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1591091524",
+  "PACKAGER": "Gaetan Bisson <bisson@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "bash",
+    "libgpg-error",
+    "glibc"
+  ]
+}

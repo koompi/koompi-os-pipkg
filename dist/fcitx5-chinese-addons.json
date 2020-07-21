@@ -1,0 +1,27 @@
+{
+  "FILENAME": "fcitx5-chinese-addons-0.0.0.20200626-1-x86_64.pkg.tar.zst",
+  "NAME": "fcitx5-chinese-addons",
+  "BASE": "fcitx5-chinese-addons",
+  "VERSION": "0.0.0.20200626-1",
+  "DESC": "Addons related to Chinese, including IME previous bundled inside fcitx4",
+  "CSIZE": "1181524",
+  "ISIZE": "3777191",
+  "MD5SUM": "64638c1c189953ac1cf2c8f8ee34080e",
+  "SHA256SUM": "70f34d3781f5fd65a28147a45d1fb55cf64d958daf59ccb5939c5879a19811b8",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl71XYMACgkQeGxj8zDXy5KdMQ/9HPN/PMqO4HAA2m2r1ls53tW5fgN3PCdFxMa/oLKqKenmWRsY+ZOBcAHmROMO4i5QLbW43nDO8XfpoRyQP5hwwnqyXH9ZzhvjV74PeOKSev7fPG6hIPRcbjxyPjlQehUX7Ccuv5U1Zs/eldcKNyEUb2YymM2mmOXlClyBZQKkbu4iyR437oCub87yyk9JpDMafcg2Cugfrgu32/r5+q2fK3j/oWQs7yY7QelszGRoEp/W2OO5S5QyjECw+oy0C5Rlyo4PM8j2t9z+fOfZFbVbTlsrdgCLKI0TLrIYlHa2urSk/xwTWyZ5C2j6F0vIi5QGMbJy1u5VCsh68RNyG6xWNHgwbpbLS3ihifiRfK/YHM6p54fhpyCyvaShk6Vkq6JPNrIDNyFba4EiRuSU8RpvhCwMy4a+X1mwgFeOYYlxWMdL3Oh8LMVdSg98w+p/3abuCbnKqbn4fud7LMiaCyehlT74gDwI4xxi8jqAcV4sT5YlzXTTT57eIZL+yjR+IudvdP8oo4pH2ymHNfSXMDpnlWIt3FgKEnHUL0XLoLpDYwIYIlBx6s/5M3pDOJDAfwe14dZHEH6KGcpMJPYKWrf/r3UnmHwjECqeqc8Ndt6Wz/oA8khQpGDb9v6Gm4criMCegn3/qrRO1dj8hoddOG6ufHgHwuqgBwMlaYwFK2o0h9U=",
+  "URL": "https://github.com/fcitx/fcitx5-chinese-addons",
+  "LICENSE": "GPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1593138476",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "curl",
+    "fcitx5-qt",
+    "libime",
+    "opencc",
+    "qt5-webkit"
+  ]
+}

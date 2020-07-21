@@ -1,0 +1,24 @@
+{
+  "FILENAME": "lib32-libx11-1.6.9-1-x86_64.pkg.tar.xz",
+  "NAME": "lib32-libx11",
+  "BASE": "lib32-libx11",
+  "VERSION": "1.6.9-1",
+  "DESC": "X11 client-side library (32-bit)",
+  "CSIZE": "571896",
+  "ISIZE": "1394688",
+  "MD5SUM": "918e8c92c8b246c34cf42b2a9ddc26be",
+  "SHA256SUM": "51d5900d7d9f1565993d94f05e8b1b71d8f342e2a5baa4cdaebab9bf5b645b0e",
+  "PGPSIG": "iQEzBAABCAAdFiEEU1+MAzlFDwVKTSgnBglqatHO3awFAl2eKC4ACgkQBglqatHO3awT4ggApX8frz9IxVHqr1N1Hyc+6ZYj03wPNUdv8CK6nqQwJdqr8eR+qRFTph3uXCzzgvL0bNUeolxE3TyD1+tXM+Ijmkl5oO3jER7kipqEY5Mc3BcRnSQku3IRiuUV7XTUhxpNatDwazCGWkbmEcVOk0b0HpNUeAfzAgyfWo7oNnvtVP1iW6AhAfdOxFidOUh91HQvUcoLCeOrDYN8z2T7D1YhrZHpH3uFAgLS+B+MaT/dLaT0xDzuC7ziyMykgxTSNtoNOt63FeB9jq1Gu3Uy4boCiebpioU8wyDy/RYPyCAKXImWXT6ZkpOFgdaAZr3+Nw9QOq6f7HK6VCYlH41+O+uycA==",
+  "URL": "https://xorg.freedesktop.org/",
+  "LICENSE": "custom:XFREE86",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1570646008",
+  "PACKAGER": "Laurent Carlier <lordheavym@gmail.com>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "lib32-libxcb",
+    "libx11"
+  ]
+}

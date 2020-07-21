@@ -1,0 +1,25 @@
+{
+  "FILENAME": "lxqt-build-tools-0.7.0-1-any.pkg.tar.zst",
+  "NAME": "lxqt-build-tools",
+  "BASE": "lxqt-build-tools",
+  "VERSION": "0.7.0-1",
+  "DESC": "Various packaging tools and scripts for LXQt applications",
+  "CSIZE": "24195",
+  "ISIZE": "109298",
+  "MD5SUM": "8e3d661a11d513d97bf2251cc6df4a35",
+  "SHA256SUM": "e90db7f248cd333314a67d536dcfcecb865057a7d766b536d128cc6d5c0692b4",
+  "PGPSIG": "iHUEABEIAB0WIQS5AcQXHI3QLG8vSWv5jvKnsKCYrgUCXqM5JwAKCRD5jvKnsKCYro0qAQC91W+fdI2LSBkYFS57QXmO8ReJ+s9G4bokUzofWeFoLAD/YYjv+Ju+9D6bLTHkqsu6KrwRdCw8eVrbVUCLJJBoCd4=",
+  "URL": "http://lxqt.org",
+  "LICENSE": "LGPL2.1",
+  "ARCH": "any",
+  "BUILDDATE": "1587755250",
+  "PACKAGER": "Chih-Hsuan Yen <yan12125@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "cmake",
+    "qt5-tools",
+    "git"
+  ]
+}

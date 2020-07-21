@@ -1,0 +1,25 @@
+{
+  "FILENAME": "haskell-mutable-containers-0.3.4-38-x86_64.pkg.tar.zst",
+  "NAME": "haskell-mutable-containers",
+  "BASE": "haskell-mutable-containers",
+  "VERSION": "0.3.4-38",
+  "DESC": "Abstactions and concrete implementations of mutable containers",
+  "CSIZE": "63983",
+  "ISIZE": "369212",
+  "MD5SUM": "3efc66bccef8b51c5add83414b31be3b",
+  "SHA256SUM": "07dacf95170a55c1d214f9ea86eb161a80451461e92ef3797ba86939028c9da6",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl75p1AACgkQeGxj8zDXy5Ij4RAAj2SII4UPBFaRTr3KfNIi33crsCi6RHIegj7sulKE44uklGVplNBfOJQgj/46cfzzeLND7j91U57z6ZD3IX4JyuXr1Oxr2+dnQEQH20laVtH0F6kBVJK7kw5+7vkRkSLvq3QPZ82RuhKjrcSKH1xwDglYqYV6rTppEejLeuBCgIwyIvE7UoredPXfqFVh5uHJuvGn8Q1TzyubC2cRhymkwIfXbWKFqYaEhyVRXyZAXr7EOhPMMF2OFomquKmT3lGN/r1XW4tV9PAXmyRUIYFAcaXrVsjXM5v3QhBl48sZte+tcgWpI1iuJbHIPdUE6te9V9uiNWfp5Ly1eZmy/9ikl/PhkFKYaDVhErY97TYJsloU8dvRvpAIk2R94+70wYtiW3hj/oNwFI79d7yveH4aAFSDRnuSiKX8+DmcPfM8VE46ZS3jDdf06cj0H+7yzwBUTcvytrXpuHmxK62E+sLF2hysUgRvu2nvvmItEuD2sjHTgzmU3Kq7ZsvXSjHwX6giOWlroKu2tZQ3Y3VfwlJZ4uvVZFO49IwIx17j4vPEXBEiSSiScVF6O4Eoe+Epz+/nyH/xAbvfN3j2qSfDVD1zePO6GikwcyHNuesUJGydesH5ZF6+POLlb2fkxIePyxITobOIeH3daY9zmn0eQcq0IRWJHNGnlh2w8ydGeyN+ywk=",
+  "URL": "https://hackage.haskell.org/package/mutable-containers",
+  "LICENSE": "MIT",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1593419568",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "ghc-libs",
+    "haskell-vector",
+    "haskell-mono-traversable"
+  ]
+}

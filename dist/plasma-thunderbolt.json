@@ -1,0 +1,24 @@
+{
+  "FILENAME": "plasma-thunderbolt-5.19.3-1-x86_64.pkg.tar.zst",
+  "NAME": "plasma-thunderbolt",
+  "BASE": "plasma-thunderbolt",
+  "VERSION": "5.19.3-1",
+  "DESC": "Plasma integration for controlling Thunderbolt devices",
+  "CSIZE": "105586",
+  "ISIZE": "412180",
+  "MD5SUM": "18d5e2a358c8d112d028bc997043d62b",
+  "SHA256SUM": "6bfc73cc615ac4b89250b65c3c353febc7565fa2e68e615902416ada579b02b1",
+  "PGPSIG": "iQEzBAABCAAdFiEEFRnVq6Zb9vwrc8dWek52CV2KUuQFAl8EhX0ACgkQek52CV2KUuRQiAf/YWdYReTJEC2BHLZ38diQyUoPJXtrvVaK4iN7P1qCniXEvwACbqqrqrzrlyhgY9doakildnaF28oZKkpAGtKpxDqIzHDUGTqyxZQa9cNtZJ7MG7KP34Sp5hZ3ogmmZhHHEQ7sVaa6Q5rVdG8tuZYhenDdxXIfNbbMkv5KfsMYdBgI/Bm/iQZcHqMSrcaAA3XTI34nai+qEaaVUeHqo7aRTo2wT0TWKY+dlb3Mfr83NyTKyoqOfXwh2v1lYrVjHS+VS4+ZtP//K0NgDjtSiCQ/IMAGU5FA9e4+Fz5X3SMgZtnfaEMwBz1zVK7O4mMHtGnFzQBVVRmCtekBi66114vBNA==",
+  "URL": "https://kde.org/plasma-desktop",
+  "LICENSE": "LGPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1594130763",
+  "PACKAGER": "Antonio Rojas <arojas@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "bolt",
+    "kcmutils"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "FILENAME": "diet-ng-1.7.2-2-x86_64.pkg.tar.zst",
+  "NAME": "diet-ng",
+  "BASE": "diet-ng",
+  "VERSION": "1.7.2-2",
+  "DESC": "Generic compile-time template system based on an XML-like structure for D",
+  "CSIZE": "192183",
+  "ISIZE": "821273",
+  "MD5SUM": "b066729fa0a20e6188ef60f2cb236b6d",
+  "SHA256SUM": "244a57d2caeebafc7565308cd4a75faca39b44afe0a59a9f921b2135d7edc13c",
+  "PGPSIG": "iQIzBAABCgAdFiEEhsATU8sh1GdlMu4OnwqcF7B4bxkFAl79ASgACgkQnwqcF7B4bxmPNA//eeSyf1pxtmD6H/I1d5NRfU886iUvXHX2fkDGzqvOs7D7r9brEOQiKOCr30P1FHzWfjfrmT3Jl/nm3Vh5B2IWT8Q/xup9DD2V8tjdnfRIgMXnUR9+MKRizyiAT2RDyoKpGrUCSV1tB2DqX3S3amfaK2FcEMBITLTipn5RQFRPfWWUtRM7qOaLMurU4AuLg/XnrUYQ2tDd24Lvv8mLlRR2fvq5P2kDGsSSRljt0Dg+iYVO8SZOXY9PlMYoqtai6Lau2wbG9wHv/UI2+mh96Kay9+7bxW3IDGcsyWHvknjho/4Bgdni5xIglSNNNNJM00QUGpjtkxwJ8SDqtHDkXvaN3BIxFYzCW7RCH8/GCY+8+PtpNttHmxj6buHoRjj5gkhMlBMoIcUWqBdqdGk7vx27Tj8CFdY04Hqw1SGbG7cpoPVQUTkyyS9EesMOmH+QTAbgx9QDVmaZU+cx1cq8Gd002cb+oZtpN5ZH5CTcwVp8gf3otva8kwJqfg72A4zsyG8juFxi2k0/tnCIif24LH+9hZI/ZLCGZoEZE5eEeWn92bpdrMTara1nbbr72az5VgGpSKD94gz1jTpx75qbjvtHbWGUlV0WtTG+3oa5H9VxpwBgQti1+mCkzcxrLEPHQ7YtqZ8SdtW1YxH/KDrHvXBYz6SfL5YzUlAWvqbHSJy+abM=",
+  "URL": "https://github.com/rejectedsoftware/diet-ng",
+  "LICENSE": "MIT",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1593636803",
+  "PACKAGER": "Dan Printzell <arch@vild.io>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "liblphobos"
+  ]
+}

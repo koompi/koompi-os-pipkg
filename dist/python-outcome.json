@@ -1,0 +1,24 @@
+{
+  "FILENAME": "python-outcome-1.0.1-3-any.pkg.tar.xz",
+  "NAME": "python-outcome",
+  "BASE": "python-outcome",
+  "VERSION": "1.0.1-3",
+  "DESC": "Capture the outcome of Python function calls",
+  "CSIZE": "9880",
+  "ISIZE": "27036",
+  "MD5SUM": "bbab1fcd0c19bc483ca9e77387d91acc",
+  "SHA256SUM": "673d8259c3b9343cb8fdb6574a7d81f7fc8923ce03a9b1951a1025ed04e9fa9c",
+  "PGPSIG": "iQEzBAABCAAdFiEEhs/8qRjPOvRxR1iAUeixSKmZnDQFAl2/RiMACgkQUeixSKmZnDRWHwf/bLuRQatmW2GYrH7kX6iyCwepcKZ+z5MNQHc4ZOxK13+PyYZLSSFrd8QFj7ZDQHMeRtUs5mn+Val/dQhPygRJiO2inLFxSAuwNH9fVSbMpV+bfnkXS1wzFOeQUP5rb3eJvXkZxQ0kM4CodSwK8G3FZnVPTjQUSaiLJTErTuW3LrrqEfrJ/ElxGXCnVOTL2C3TQza+EqFe/lZLjVqN+zBHuq/cvF4WUgZB71RRKZXiInYZX6Gk9k3yD0zpa8NWkJjU8EsiFrWcS2+JN8bAsAcJHBE5nlFeF3wvqqTWETki2zdekV9T06NxDwxRPBJfvxCKj0k/gYSl5n02pSdUEOYFlg==",
+  "URL": "https://github.com/python-trio/outcome",
+  "LICENSE": "MIT",
+  "ARCH": "any",
+  "BUILDDATE": "1572816316",
+  "PACKAGER": "Evangelos Foutras <evangelos@foutrelis.com>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "python",
+    "python-attrs"
+  ]
+}

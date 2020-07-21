@@ -1,0 +1,25 @@
+{
+  "FILENAME": "lib32-libwrap-7.6.28-1-x86_64.pkg.tar.zst",
+  "NAME": "lib32-libwrap",
+  "BASE": "lib32-libwrap",
+  "VERSION": "7.6.28-1",
+  "DESC": "Monitors and controls incoming TCP connections",
+  "CSIZE": "17930",
+  "ISIZE": "38728",
+  "MD5SUM": "ac2d2779b40394edfa705acbfa7e9cef",
+  "SHA256SUM": "7245ca91dd0520ca0163df5976d3ba355ef0512099845bac99c4c7552ec5a99e",
+  "PGPSIG": "iQEzBAABCAAdFiEElDfdOBWnqRaePTlGr/XZUJi8b/UFAl5x7zMACgkQr/XZUJi8b/XRjQf/cCP8k9atfbJWdYBns+75ErjLe1UAwI8kJdp7NeMqXGEMFcQNL3lGJDT9qDavpem39YoXqoEqW2E2QJFhloBhrammUlS+Q/2CXtywIlaP3titA3zjx9aSJ9xuOnJgNpHWwiN5Hym4uBKcfOOrnIm8o9TcdjHuVem69WfLlB0tSBUH9ShIZoLT+MwtO0Rmdtqhon0X4Yo6jqzPMtX6o1iS4eAr0Po2PY1YH3s8ABcQJv0RfQsREujCUxZA1Ap0qejyuek+FlV2+urKnhzVp7H4XNSKfFYMOs6kbmUod/HRVL/vkTMaXBUNNw5deqDWGEtDv7KOKv5cr3dCKxbB/QMJPQ==",
+  "URL": "ftp://ftp.porcupine.org/pub/security/index.html",
+  "LICENSE": "BSD",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1584525011",
+  "PACKAGER": "Maxime Gauduin <alucryd@archlinux.org>",
+  "PROVIDES": [
+    "lib32-tcp_wrappers-libs"
+  ],
+  "DEPENDS": [
+    "lib32-glibc",
+    "lib32-libnsl",
+    "libwrap"
+  ]
+}

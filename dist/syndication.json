@@ -1,0 +1,23 @@
+{
+  "FILENAME": "syndication-5.72.0-1-x86_64.pkg.tar.zst",
+  "NAME": "syndication",
+  "BASE": "syndication",
+  "VERSION": "5.72.0-1",
+  "DESC": "RSS/Atom parser library",
+  "CSIZE": "1047084",
+  "ISIZE": "2259960",
+  "MD5SUM": "aff1ff4e50ce286aeee27001f48ef151",
+  "SHA256SUM": "fed1e84ade81e9309c72dbb0c890c80ee6f8fdca279ab064b430bc3fd8d70277",
+  "PGPSIG": "iQEzBAABCAAdFiEEFRnVq6Zb9vwrc8dWek52CV2KUuQFAl8JYmgACgkQek52CV2KUuSVDAgAhs4bQifAybkaQZjDIpUscpBliu1GKWxJSxQrR4Ru86J3h7mYhrxaMasiDdastihkqIy8Ota0vv3/OTwQDdB6BCL89z+1doIsb9DKIgtMLF27ipmnANEYRwhxqp8TV19Eok5wcMhoSo7nYR4Btoq+kXhsYJg1YrHkj27dTAZfL37l/DcFipk6GRqMTiw+Hwe55nWvsHhF9YGzu+jDDfsO2JM0rd9rGlyVueEacfsT0Y+gEQceGNfAVS0tgoP0FpEN1KGQKKnxpszeDxjnM/9T6xDJQWX1xS3TBaNRduyAGr3HPYJdZuKk79D5rq6NCqttpDxO8pnTbE1+KXwqWalQQw==",
+  "URL": "https://community.kde.org/Frameworks",
+  "LICENSE": "LGPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1594204210",
+  "PACKAGER": "Antonio Rojas <arojas@archlinux.org>",
+  "PROVIDES": [
+    "kde-syndication"
+  ],
+  "DEPENDS": [
+    "kcodecs"
+  ]
+}

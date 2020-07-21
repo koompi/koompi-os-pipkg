@@ -1,0 +1,24 @@
+{
+  "FILENAME": "python-dephell-licenses-0.1.7-1-any.pkg.tar.zst",
+  "NAME": "python-dephell-licenses",
+  "BASE": "python-dephell-licenses",
+  "VERSION": "0.1.7-1",
+  "DESC": "Manage OSS licenses: retrieve information, generate",
+  "CSIZE": "13911",
+  "ISIZE": "49275",
+  "MD5SUM": "b534a656f259b006f910014627c871ad",
+  "SHA256SUM": "1e041393100c71224dc6142385fc492f364a8e5ce1dae7862519665276333d38",
+  "PGPSIG": "iQIzBAABCgAdFiEEYEETBMCdNmKDQO7/zrFn77VyK9YFAl7CEqMACgkQzrFn77VyK9ZglBAA4xM3KNe5X0F8s4Zal+4fsVlsvpe2wLLwrTsx6gyRNY/lkl2ICYokJqb+k5Hj384zh09W57mUxqK8A862k16AlzsgmFH7STw8gw3ekFyREjnGd/GbwNLQ5iKOGVK3NaeG66hfwe1RsNqz2JJdHCTjIRQ6JC4Ld4N8ONZIYMIGOBeSZ81oUX+mk70WHJZ/RZWvV+uIrYkpCAZ39r11z+LLPtYwdUqgz+qfwzQoJRwdjR6Ck/+34AYO4l7zzG+JiN4t63gV8V1+HhjD7l5TvGWRSTRoQDUIJnzGhmQDKHvf/8DyzDmMkP6A8bjdniMBTAmXJ80gzm1ftHyJhQBmt/pF5CqkuQuZc7YXYjiFSFmSbI2iRDXB8nE+pZJdGz5tC2QkllhGEbh5JPuGPlCEYuss30SlT0TNquAZLgkiSAdBElWu30qfgdWQ1n7HsETYVaVn02EH5n5BIT4oS8z2rT0+kQ0qF83s2lo/ZrNiaOfEWaJHNOYpTf5Prkwnep2bD1PvAsSupJuk2zOrJ+xH/Uvqbq9uce5Nhw0lINvJ+4jUj2wBKI3jwidI0zjyDQ2vrIocE8UVTyB0vVrXM5YcbugUdaU8dS/5gH7I3XmgwPpf2SM1P3U1f1S/Q6dyy1ysE/Dl0v3Ds3utrqaTOxo+y1dKFOxzqU9rpimKeX0jKaFnFL4=",
+  "URL": "https://github.com/dephell/dephell_licenses",
+  "LICENSE": "MIT",
+  "ARCH": "any",
+  "BUILDDATE": "1589776648",
+  "PACKAGER": "Eli Schwartz <eschwartz@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "python-attrs",
+    "python-requests"
+  ]
+}

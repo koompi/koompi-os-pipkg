@@ -1,0 +1,23 @@
+{
+  "FILENAME": "python-ukpostcodeparser-1.1.2-6-any.pkg.tar.xz",
+  "NAME": "python-ukpostcodeparser",
+  "BASE": "python-ukpostcodeparser",
+  "VERSION": "1.1.2-6",
+  "DESC": "UK Postcode parser",
+  "CSIZE": "12944",
+  "ISIZE": "100886",
+  "MD5SUM": "ab48bfef2afca5465f773f80842a6960",
+  "SHA256SUM": "0cbc070558739df1eac03a2dea92caae2dbe03e3b921f71f80f27de98a773110",
+  "PGPSIG": "iQEzBAABCAAdFiEE5JnHn1PJalTlcv7hwGCGM3xQdz4FAl3G9t4ACgkQwGCGM3xQdz4ZEAgAgwzIB7yTgr0ZVjdCPAh1ueRRzI4K7lAPYxezC9LK4D3M3t51M/qSRTE4RHlBNya/xtfjYNBk+r2GA1RestKhZBe2e++LYnnpFOTxiVzHRGm1n/CfzldAwCcATrQk3V8F3HG9xwqkRFN6/7cWtCIM+P5Jl2BWPBmuNHKljJxY2RMfqZjw/UjyHOMDPuKsjzcI46NtNydM8w1dvYZXGpwnzQqAe3hUK7vyf5rKtztDZ/zQE+EkU7yUo4JO610LP8PKQlwgmJ/Femzle/U+774A/WvRxnstN/4+eQfCv8RQrWPo0MWbojzoiG9BKKqw0oV4B6+d+hLCJZ+KFW+fDFrfMg==",
+  "URL": "https://github.com/hamstah/ukpostcodeparser",
+  "LICENSE": "MIT",
+  "ARCH": "any",
+  "BUILDDATE": "1573320336",
+  "PACKAGER": "Jelle van der Waa <jelle@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "python"
+  ]
+}

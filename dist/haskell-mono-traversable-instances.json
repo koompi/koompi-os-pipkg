@@ -1,0 +1,29 @@
+{
+  "FILENAME": "haskell-mono-traversable-instances-0.1.0.0-42-x86_64.pkg.tar.zst",
+  "NAME": "haskell-mono-traversable-instances",
+  "BASE": "haskell-mono-traversable-instances",
+  "VERSION": "0.1.0.0-42",
+  "DESC": "Extra typeclass instances for mono-traversable",
+  "CSIZE": "32350",
+  "ISIZE": "150680",
+  "MD5SUM": "f9f2a7aae1b0095657d680251b4c66ce",
+  "SHA256SUM": "25ef9ef4bfb1a475a9723e294626cb8753e1f832179b37edd9d85de0aa3ad66e",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl75uJMACgkQeGxj8zDXy5L1VRAAtejVnNwTnwJKDjP3vLumYHwYNbsmBl4cvkxHh+1FSZvTlPzZl3yx6MhbJbYqzvCvrjP2/7rFC0acnDH8n9evg2Om2haH4S49oSpPNaaoYE8+WGw4srp0dPWMlaE3e/UdZ98L93cGZ+Qu8wHx+60eyCGlqIpQ18FR8hh3RPannW3MYgpFTr4uLkaZ20+AjP+2ZQYPS7E7N3T2oCgfsmL8Ck4+O8yrooQoh6hAuHoLZtMeWiY8/SCGwAah68uV51zUOF6bKDkJYow+SiAtHe21S80fanL0eCpbV0myNefsSLgbpsn9/sBTUcDtwZFRdXdaV2xXmNwu7Mpw9q0dHmVWj34yxTRKrDL8vbU9nKvfrP6jJSbTaqf/o3MMYOzTuCuGXCcN1GoOYaXQ49y1Mh/eBdiQNPKFm1OtKx8eVDDnLb5bTpbmddOWlUMJQ27RKhcmY95gXa2T5Zh7/hREp5aY6Q61RX60l4HVk0kQm/DdR625wt5eGivBEx5m5BHRcKc3FT3uyg9Ek0PwBojtIevx3PwcM6oB9w4XpQhWBcC09bWYzcUakPufheUi/DpJ1Sx4+BWqXgyR6pNGigxGhJMRINKHMeezeEhUMwmzHOSZHXvuDg3rq3JvIXLV4KoKt7SSmC0VWJlP+NI9JTnMVp00fhHUgxSVGeIj0jafroLhO9E=",
+  "URL": "https://hackage.haskell.org/package/mono-traversable-instances",
+  "LICENSE": "MIT",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1593423974",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "ghc-libs",
+    "haskell-dlist",
+    "haskell-comonad",
+    "haskell-mono-traversable",
+    "haskell-semigroupoids",
+    "haskell-vector-instances",
+    "haskell-dlist-instances"
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "FILENAME": "libretro-citra-6962-1-x86_64.pkg.tar.zst",
+  "NAME": "libretro-citra",
+  "BASE": "libretro-citra",
+  "VERSION": "6962-1",
+  "DESC": "Nintendo 3DS core",
+  "CSIZE": "3302219",
+  "ISIZE": "10378648",
+  "MD5SUM": "91b2aaee7b6c445087799e64c020e8d8",
+  "SHA256SUM": "f3b50b6b807e70dba860f889e0d511163cc7706b70e4e1199d1dcaa4ac276ec4",
+  "PGPSIG": "iQEzBAABCAAdFiEElDfdOBWnqRaePTlGr/XZUJi8b/UFAl4ptBwACgkQr/XZUJi8b/VBdggAtPlKSbSOht8J4rGokGSSK925PLipHxr1lIw/E3ilBFO7vEsRtUX/l9wtabNR3RZjHVVQJPGdnCTgPWznsTsWJ+TmjbahWyAL406krKL7PbMIqbnk4YSwkOJl2rybDrTj2NHx9WSCo86oP/OFb0Ny2naJkl7TjA9qMsc4W0AiR6HZyIUgFxWkgi3Ck0hOiqwMNRTjMV/fVKlFwq2QUqzTcRXMhyR2IAehb8nKrenEN9iXPV6QLaVijdMBv2I+c0sjRUeUdVqxV0cPwp86d7lpleAL55YtoW+6rr+CDjBybJ8VPuYNiBqMWxNsVhgKEHz9qlT3MPfYb3b2YZ+hmPr6Yw==",
+  "URL": "https://github.com/libretro/citra",
+  "LICENSE": "GPL2",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1579791235",
+  "PACKAGER": "Maxime Gauduin <alucryd@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "libretro-core-info",
+    "sdl2"
+  ]
+}

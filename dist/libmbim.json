@@ -1,0 +1,26 @@
+{
+  "FILENAME": "libmbim-1.24.2-1-x86_64.pkg.tar.zst",
+  "NAME": "libmbim",
+  "BASE": "libmbim",
+  "VERSION": "1.24.2-1",
+  "DESC": "MBIM modem protocol helper library",
+  "CSIZE": "304932",
+  "ISIZE": "3790268",
+  "MD5SUM": "298210e0bcefc6c1ab783db1ca52745d",
+  "SHA256SUM": "f1c9cdd5b19895f339307ca819093837e2d129bd37c431275a617cb95ebf3021",
+  "PGPSIG": "iIsEABYIADMWIQQGaHodnU+rCLUP2Ss7lKgOUKR3xwUCXwo9mxUcaGVmdGlnQGFyY2hsaW51eC5vcmcACgkQO5SoDlCkd8cbzgD+OsGNXNHnVTGTZDvJH1nnbm5O0mC8vaiNRyhvkgCgfgMA/jWQJ97vfWWfMi6MD41T1FSVvgNsuKzD13e5iVk6jOcP",
+  "URL": "https://www.freedesktop.org/wiki/Software/libmbim/",
+  "LICENSE": "GPL2",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1594506515",
+  "PACKAGER": "Jan Alexander Steffens (heftig) <heftig@archlinux.org>",
+  "PROVIDES": [
+    "libmbim-glib.so=4-64"
+  ],
+  "DEPENDS": [
+    "glib2",
+    "bash",
+    "systemd",
+    "libgudev"
+  ]
+}

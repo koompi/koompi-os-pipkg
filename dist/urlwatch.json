@@ -1,0 +1,30 @@
+{
+  "FILENAME": "urlwatch-2.18-4-any.pkg.tar.zst",
+  "NAME": "urlwatch",
+  "BASE": "urlwatch",
+  "VERSION": "2.18-4",
+  "DESC": "Tool for monitoring webpages for updates",
+  "CSIZE": "74578",
+  "ISIZE": "354721",
+  "MD5SUM": "78dae16d18b9eb6da90685a954d1fa1f",
+  "SHA256SUM": "75b5a3f6889e09f3480257ff79a894a8850f4e5800ead995deb3d59e7048cc6e",
+  "PGPSIG": "iQIzBAABCgAdFiEEBNw/sURf7KgTwn766k97MhqQatkFAl7ELHoACgkQ6k97MhqQatmAww//d7qENcIIQM+aR3qnJUrhO4VObKRkWQqozuakvMaPiSL1Ii/3ISnB0DXXXGuS6Ncha+eGv3OLQkW6GwSfFtgf/NaImiwQAqGbUg37Yv2tuOKGktFztyxNqhODJlUPmzkyqsxahCM53yBa+TwR9iDI43QWOxiiZl1yXJVSlF6bzHp4/6UCWQbH8KPqtQ3RFa9CzPBQNvS8KkUvkRNmV7D8hw6Vo+CohZ+7ctlnIBqfi+ujLnM9jnvOS7iOfbw6aO+VeLPSAFRtme6C7UDHkU7/atGU4+Xm1tehjMmjy2ULdT6igV4aM8o4oKKRMKualQp/sApn3myA/Gfe9K6kJTi+OHApJIpnkb57WkqEZXijlbc3btQ466SNy3jpg2rJNy3B8b/o2I40V8APEEZQdfkB1A2T9QhkQt3iufQvX1ou6geW+XrKHMNRygFO9RRSesxsPpb8xW2bVqhRzrwT8KNZsebIoX8QS33/7iIXU0tWhcosa2FMnYOsKBM38BHDKt+pfGdDAqEo3/rbmjUv5hB0AWb0oj9Fd8T2RdfGFOB35C4oYUkmAWG8FMcLJdsEyYeWGVhS19OSQ7DXh0A4aBo1llK+zElw8E2Lk+99N745CAVVgOqWaAC4wyjii5ffnl+YANttgaLbi0WdzLl0ZDsGg1PD93Az/LoOg8ytcqsNr30=",
+  "URL": "https://thp.io/2008/urlwatch/",
+  "LICENSE": "BSD",
+  "ARCH": "any",
+  "BUILDDATE": "1589914561",
+  "PACKAGER": "Daniel M. Capella <polyzen@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "python-appdirs",
+    "python-cssselect",
+    "python-keyring",
+    "python-lxml",
+    "python-minidb",
+    "python-requests",
+    "python-setuptools",
+    "python-yaml"
+  ]
+}

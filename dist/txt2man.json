@@ -1,0 +1,24 @@
+{
+  "FILENAME": "txt2man-1.7.0-1-any.pkg.tar.zst",
+  "NAME": "txt2man",
+  "BASE": "txt2man",
+  "VERSION": "1.7.0-1",
+  "DESC": "Converts flat ASCII text to man page format",
+  "CSIZE": "15051",
+  "ISIZE": "26691",
+  "MD5SUM": "b161d1c4e419463a8ca8564eb6abecc9",
+  "SHA256SUM": "92e3280574f15e1ec09425d1f4be73400e70cac835d6a95ebea27c8cde468876",
+  "PGPSIG": "iQJGBAABCAAwFiEEPlGL8lJv0Zeeiq5JZcEQwepDP8cFAl7uNAQSHGFyY2hAc2VyZ2VqLnBwLnJ1AAoJEGXBEMHqQz/HAzkQAMn699NVMp6w+37CplUxB0Mvvs6zHd3s/l0bMZz+sV48qffQrDPV/iquqZPN+QZgTC89wc0/XDBHJx/cJWXFmF0mL2cN3PD0bRDN/uUmOkv6PeACEjK88q3Nlqd1XC2nzhuJfYvj0aKb4S5RYqegP4rpRCcu8RDdjicwpfslvhE5OMH0Q9iNtRta/TQ08+tzTtumHUDxS6CRXSPxSiabpeiM9fYMH9WDRbnEYsrL62GT1vr8qjNg7I1/m50AvPO2SC9RRyusT5h7akOVc4x62SW/V6nCB6XtxSGQPdQ2enwX4sUGyKRzVYrJrBzuaol7bYcJpmkUs62zONvn3QS0qRN3C2hAXetwi+kd/OoRtCXAbev74/42ZSV+wurdYramNStl/hbmMb2livBPEzyB+mlQ507K3OQnWrIfy+3G6ANR8YmibBHZjMcp2tdTDhbll9K/h+i80QeTPkiv4h+eXzA0kyN6Haek9joiUrWbpnMMXsfAGZL+KvV9k7VYjYnEz46sxPwR8JYH8hmRXfqiSYiXSjcyQJBHVmO3hexcStYKDQBQLA1rRL89uYJaStLqTZfh2kAebScv+kHGTvPxCAr/7EgXnxeilgpXl8iEEbF8Ts2bIlAoslLtcVH5wqIR/AHNkoP9KcCGk6wAKIKL6ZK2R0NOklSdL379UDPY27x8",
+  "URL": "https://github.com/mvertes/txt2man",
+  "LICENSE": "GPL",
+  "ARCH": "any",
+  "BUILDDATE": "1592669009",
+  "PACKAGER": "Sergej Pupykin <pupykin.s+arch@gmail.com>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "bash",
+    "gawk"
+  ]
+}

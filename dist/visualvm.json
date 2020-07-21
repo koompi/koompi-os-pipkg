@@ -1,0 +1,23 @@
+{
+  "FILENAME": "visualvm-1.4.4-1-x86_64.pkg.tar.zst",
+  "NAME": "visualvm",
+  "BASE": "visualvm",
+  "VERSION": "1.4.4-1",
+  "DESC": "Visual tool integrating several commandline JDK tools and lightweight profiling capabilities",
+  "CSIZE": "10026372",
+  "ISIZE": "39821341",
+  "MD5SUM": "f0dd29ccd4b2446712b36c2776724605",
+  "SHA256SUM": "5dd3a2f13c2abf79e559e37bf82b545b6daadffaa4567e964258cffbe99ed93e",
+  "PGPSIG": "iQIzBAABCgAdFiEE4kC1fixGMLp2ji8m/BtUfI2BcsgFAl4+pS8ACgkQ/BtUfI2BcshbjhAAq1UF+WNdB4Ih4iDjGHS/Uv7z1BfNdgo140MVBu1FU9t2P5GhcCc+nJ+nZ2gAK8E7JSN68l3cEHdkoqtwpfqeZIsvP81JlmELiRiHfdMMGNrS5+HOGqUSRwMuwqoIapEy2lD+d5rPC/gGHAVqLsYL8UNube0txHZ/NyRJgjsDOe5ehox2k/dBPt7gOmXk2f2Sg7tVfl+AyoSDlJX/384RX4oq5UJT4gKhLLBskkwzX1nWxR2Pzvl+5oEjmIu7JrIWcqMh543k0npJqya2VoE2D/6WLMNWBT3F+d6OTX0Bzt9HutwrAHDa3rqhRrvPWEA4grqF4Ru+dzS81csDpuU9rD7S7KwZwoIEGkHUC04UbBFdtdZqEhzXPjL7C0J2gr1O1MB1UOKMzg70usSv4HHbQU7WKJuj4tMugid08YpKp8r+BH64JFxeh5LW9WsY27KtgrUVmtBCGZ57/QvwyCzsxHq54B+lN8/wM9BABXNffL2SxtenbQewrzZ2C+OyySy6cCBqcewUP2GXYu2Oq13dYz2FSzi9cQBqaj5TeGe0GMQuWNAkIdahb5JKQJ9n4JwUxmvBeWNIxreWDfTwjyx8hdm/jdbHnzWPqbMhsJHCEYa07hgH1Go/IAOE2ws7fhQJPEq1kYhMbKvIigpJHEv6rt4akCdZR8TRrvSaYGrVr90=",
+  "URL": "https://visualvm.github.io/",
+  "LICENSE": "custom:GPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1581163700",
+  "PACKAGER": "Levente Polyak <anthraxx@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "java-environment"
+  ]
+}

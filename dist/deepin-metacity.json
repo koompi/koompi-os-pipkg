@@ -1,0 +1,31 @@
+{
+  "FILENAME": "deepin-metacity-3.22.24-2-x86_64.pkg.tar.zst",
+  "NAME": "deepin-metacity",
+  "BASE": "deepin-metacity",
+  "VERSION": "3.22.24-2",
+  "DESC": "2D window manager for Deepin",
+  "CSIZE": "1131415",
+  "ISIZE": "6737303",
+  "MD5SUM": "eaacf9d9fa1e23d420f84027ff2ab9ff",
+  "SHA256SUM": "2737f932ebdb369c18b95e97699c78f5edb0da1f35fa49311a108b12e1aa8fa2",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl8EgeoACgkQeGxj8zDXy5IISg/9FVxn0SjhOJwEN4zAc5UQ2Y2DwchQqhXv9U9Eanrzhv/ZDJY+VhsD1lGUgeXDvkg1vkPFAcq8iwxMaznxqOXi/LVnhqFcBfDNMiAPa5IOBJ/k4o265QAF/hL/C5GRKHixY2fV+HIExnHxJv49TLp4AkAHx0+n7zEuWRE9xEAkG5Irjct2Q/LUAZuGd3pWLD37EEeVv2WwmB/OoXambdoSDUDITfdOhKfkJHkcOgo89d7RcOuv88OwmvGbCDOwNzGJvXJApLEZ2DeH4AW8d2+AgF7hZ2QFKe43fSWoKz577sO5rD2qwKPDPM6XJGeUEzuu8I2gSReJIo6+5Y8hZpGz1+LLxkYNotUtAnmFINedpHV3r2AApZHsyi8BToFAetsvxIMe69N3dm7XefNtwpD7/35nXNTneRO0pPCmJg8m5pUg8WnUG2vRarRxXLuvGIFV/+guAwRyId62zGGwtY7p+IwKEQxnlDjGne0A5wtr+n1bR9iyjxN9msoJCZIPl2E+Q8WlCWFOGz/SagzNTI4z7rgOcmiC3HkG8yQ2SkmCUakKokuN1JJGs+YStgJt/n4NxXyjpMBHOOSN4HOU5xfpCHZnidG6K/lFTrdGNkhQ8gYMlNGmVb3A5fRjPXeilFFoA8YOLTaT5Lurp6MOMicmjfJrodMHN754QwkNT74epEg=",
+  "URL": "https://github.com/linuxdeepin/deepin-metacity",
+  "LICENSE": "GPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1594130759",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "dconf",
+    "libcanberra",
+    "libgtop",
+    "libsm",
+    "deepin-desktop-schemas",
+    "gtk3",
+    "startup-notification",
+    "zenity",
+    "bamf"
+  ]
+}

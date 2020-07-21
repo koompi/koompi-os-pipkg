@@ -1,0 +1,26 @@
+{
+  "FILENAME": "python-adal-1.2.2-1-any.pkg.tar.xz",
+  "NAME": "python-adal",
+  "BASE": "python-adal",
+  "VERSION": "1.2.2-1",
+  "DESC": "ADAL for Python",
+  "CSIZE": "64824",
+  "ISIZE": "364533",
+  "MD5SUM": "2a7a2ffc9b2c437e6034b840df12d69f",
+  "SHA256SUM": "8a0d691c293508ab5bc066b97da0c5f80be5ff8a7e044b6a4ac89763deaae48a",
+  "PGPSIG": "iQIzBAABCgAdFiEEBR6tamFVOJ1p2gLl63Y7Tp24h6YFAl4V1YUACgkQ63Y7Tp24h6ZIOBAAgGOmw+6qAfQe5yDroQUNIycIDS6ix+zTpSJjCYv7Xt5P9CWByp8BBv2gj4Wz5IXMMWzvTWCfTmQ2a7TOd/3s53K+7lRmptlhkDYW6VYJDCeK4qbQSnQ0aO98omsVS5wMVFBHWXLWCI9UDQvjbMaXetHxyvbb8kUhfkJhvUUZFuhRMghrlZc8eM9XfrPe7yyOyrBzNY8vkDUAvMHNR9FpI02TO4P9Etc9ZYx9kV8o2u8uYyPdzZxb9OILxxKZovdkeAG99NYHiNo59RqKl9XU5XzSZOFioETUXfyT3gTqkcAz7zF2ertosq5R8MXfly6hBJ9X/5DD8jWZp4EB3YvWpLzl03OiDk+H89Ur10YBE9koTs3K150SoN8hP0BjDQnoZM9otqUWodAixpnfCUwG2ranVFkHB+tBovsGlRKUob8rGiuAnxjhS/+LcGseEIdMwEcowVTHzZQF1z7qRTo/FHIm41+zD40IxN6vI31gyGE8aismsiQl0haeAhotXT5GvY284oMkySvdqNAKp2Hk4T+ImKkGEaqqNv2OUyHYuUYZg+/4S4DPy08ns9Pg7bcJ2WoEXysQRyErZ/fEC5iJBHhhXU9Be+vEzcB1tlEgSw8I/H8kxz2QUzA3u0BTHxSCBleArPychynssupvyLTScj9ZkcdgU8/htLObRYrKGYQ=",
+  "URL": "https://github.com/AzureAD/azure-activedirectory-library-for-python",
+  "LICENSE": "MIT",
+  "ARCH": "any",
+  "BUILDDATE": "1578489139",
+  "PACKAGER": "Thore Bödecker <foxxx0@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "python-cryptography",
+    "python-dateutil",
+    "python-pyjwt",
+    "python-requests"
+  ]
+}

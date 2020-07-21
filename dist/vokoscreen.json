@@ -1,0 +1,25 @@
+{
+  "FILENAME": "vokoscreen-3.0.4-3-x86_64.pkg.tar.zst",
+  "NAME": "vokoscreen",
+  "BASE": "vokoscreen",
+  "VERSION": "3.0.4-3",
+  "DESC": "Easy to use screencast creator",
+  "CSIZE": "905842",
+  "ISIZE": "1561705",
+  "MD5SUM": "c9f9e4f93ff39954a48cd043bdd968ad",
+  "SHA256SUM": "e585d8c582a610636db70849fcd6c1ed35825ddf6ec02f68ec60c4afc224c08f",
+  "PGPSIG": "iQEzBAABCAAdFiEEzgvecadZqH8j8PfYth284QkBwWMFAl8DsfIACgkQth284QkBwWM6fAgAtduWbvkRqzFPwY5tdbvK+qyDQBu7QLiuBS76rN6rh4Rq2g4ZNRVxCG0SZyjzVLHL5cOeIgx2kfLffWUQzcrZOemAuQtaTlgoc/HXnjDdDysd2C+TDREKP9ytGdR8GTX6JoJ7980CPyIiQN4AaAkl2BFLbPlqs94RZkAp+uZI721qu9KmX7VLehWhp3kd1bxivw4eFKtw8Kw8KGL1hUr28PNPp/p6JrzOMtRj5GZE5Bg9iywEDC8gPfqGRKf7M8TAsOJOFpTKFvKOxeEZ65IZrchytRJcl0SAjlcj2WgymkKX7aCgA8LgZlVVi7bvCFRcIiOpaoSEjQfi2bfUNMlCRA==",
+  "URL": "https://linuxecke.volkoh.de/vokoscreen/vokoscreen.html",
+  "LICENSE": "GPL2",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1594077467",
+  "PACKAGER": "Balló György <ballogyor+arch@gmail.com>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "gst-plugins-good",
+    "qt5-multimedia",
+    "qt5-x11extras"
+  ]
+}

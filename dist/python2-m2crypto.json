@@ -1,0 +1,25 @@
+{
+  "FILENAME": "python2-m2crypto-0.35.2-3-x86_64.pkg.tar.zst",
+  "NAME": "python2-m2crypto",
+  "BASE": "python-m2crypto",
+  "VERSION": "0.35.2-3",
+  "DESC": "A crypto and SSL toolkit for Python",
+  "CSIZE": "262508",
+  "ISIZE": "1570011",
+  "MD5SUM": "cb2b2ee1d58d5608921dc9cd6f009e66",
+  "SHA256SUM": "a5a9ef24679cad645e409b7aea0a26d77b4744600bb20d1b60aa0b19d0ce4372",
+  "PGPSIG": "iQIzBAABCgAdFiEEwQA0ZnZjToDJQPuenAL/QZ/svhYFAl7bqaoACgkQnAL/QZ/svhY3hxAAiSAOLyHyd4ANLq0uzBIOVYjuCmVE8Fq8p/Nb7W3pFD9JueCNC4eT3O+iePp5lYNtcyjEzkfvfxPVDZcgML3iA+jhiOQ77y6KbwTYj0zP61KyUTeJsTPTEPLuZOBb8BnWn6cu4H+OnzX25BanXSHlJAMv/2IH/6mf6zmxZqpbq6ncbBizWkO0ccH1GJM7Wy1L17kPSbXoNd1Pu8WZufAVgt+Jbz2KLFXVUNYvgREkGMIwE1XWsGYJa3Esq63D5qRw11EZmk3n1FMOYM4t18nr2VS3WHC/V9Gmq/3+9diFmuMtGOw+dlPESfNfcXyjsCRhP0DTae5XNL+Ap5dnzYnifwjcJB04HfedKWVQ+F2o/zAYg3wO4lhQbCteZo4bPIK1w6C6BnozPu60AtIO41v9m9zNzaG53q5E3uVXb5yed8MMTgvsFo70nZkDK/MtPUdibJciy9Fvo3u6n+mzSeFk0W2MSa024y5Afpf5e4JIK+k+fw21FV5md/d3rAg/BIiT6lM4tTe6ucpduDrYgG66ohH898qiyYnWgWWQ11VEIYuicS6cKEtU/2mRRfYf1FvQBX8saiO+Hxnx3YFJVerCfE9KCTpthpXmcfZfYTrGp/jJoeci+vTzYWHQTfPV+a24VJW7MpjGc3r97h+/B2ca7IVxnAz9qkK+WCHgyqdOvOY=",
+  "URL": "https://pypi.python.org/pypi/M2Crypto",
+  "LICENSE": "BSD",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1591453733",
+  "PACKAGER": "Morten Linderud <foxboron@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "python2",
+    "openssl",
+    "python2-typing"
+  ]
+}

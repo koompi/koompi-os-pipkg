@@ -1,0 +1,27 @@
+{
+  "FILENAME": "switchboard-plug-notifications-2.1.7-1-x86_64.pkg.tar.zst",
+  "NAME": "switchboard-plug-notifications",
+  "BASE": "switchboard-plug-notifications",
+  "VERSION": "2.1.7-1",
+  "DESC": "Switchboard Notifications Plug",
+  "CSIZE": "73492",
+  "ISIZE": "248084",
+  "MD5SUM": "3a7413ee17eb81fad44948a16d26583d",
+  "SHA256SUM": "61770b46a236592abed802288d667c4fbac4940aaeea1f6f43736c3153b480cd",
+  "PGPSIG": "iQEzBAABCAAdFiEElDfdOBWnqRaePTlGr/XZUJi8b/UFAl7RIhUACgkQr/XZUJi8b/WXTAf6A0Zgt3bdRSTxheVSO+lkWqwvSgVQQ52ue7Q+MFw55kw4P5HI5qtgeTU8I6PCv6oQlmq4S9JTQFTJRFKGClvq6N/RvpqV+bOFry28LY8mWqZ8QyHRhd96LwjFS3R8VKA9v266gJvkZbsKiJcOQAU5xc6j4Ydkwq2I4s9weVv/jvweqKqCsCnmjuSOtr6KrmzuAyrVAiE/WchcdylEx9CSqjtt/4ZjKQtSSeJ78SrdBtO97KIvOUMYA1iL23j85068PH3R3QF0/evUne7r5JVF/y0G+JD6/mHtluYijhQfcqeEQG1idGCMuKoHbmiKph8+KRCTZXhjNacSTdcZwNs3Ag==",
+  "URL": "https://github.com/elementary/switchboard-plug-notifications",
+  "LICENSE": "GPL3",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1590764010",
+  "PACKAGER": "Maxime Gauduin <alucryd@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "glib2",
+    "gtk3",
+    "libgee",
+    "libgranite.so=5-64",
+    "libswitchboard-2.0.so=0-64"
+  ]
+}

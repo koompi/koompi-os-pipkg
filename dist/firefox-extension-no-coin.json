@@ -1,0 +1,23 @@
+{
+  "FILENAME": "firefox-extension-no-coin-0.4.14-2-any.pkg.tar.xz",
+  "NAME": "firefox-extension-no-coin",
+  "BASE": "",
+  "VERSION": "0.4.14-2",
+  "DESC": "Stop coin miners on the web!",
+  "CSIZE": "78084",
+  "ISIZE": "90112",
+  "MD5SUM": "04ea711d45999ab5dd8537ddfa1743be",
+  "SHA256SUM": "78b26c70e1ae4612ef37a99043f32af3f13de37b677a9be74b185f4476d5afca",
+  "PGPSIG": "",
+  "URL": "https://addons.mozilla.org/firefox/addon/no-coin/",
+  "LICENSE": "MIT/X11 License",
+  "ARCH": "any",
+  "BUILDDATE": "1522598901",
+  "PACKAGER": "Unknown Packager",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "firefox"
+  ]
+}

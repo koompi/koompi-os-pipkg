@@ -1,0 +1,23 @@
+{
+  "FILENAME": "python-pytoml-0.1.21-4-any.pkg.tar.zst",
+  "NAME": "python-pytoml",
+  "BASE": "python-pytoml",
+  "VERSION": "0.1.21-4",
+  "DESC": "A TOML-0.4.0 parser/writer for Python.",
+  "CSIZE": "19164",
+  "ISIZE": "57811",
+  "MD5SUM": "f00218e973ea635c36ea2285615319f9",
+  "SHA256SUM": "4998aad84edeb995f06a6af21e54a4a536317c2f7e4d4aae7c374063b0cf3dfc",
+  "PGPSIG": "iQJMBAABCgA2FiEEYEETBMCdNmKDQO7/zrFn77VyK9YFAl8CJSAYHGVzY2h3YXJ0ekBhcmNobGludXgub3JnAAoJEM6xZ++1civWUb8QALL2jpTbkrwYPuTTeuoXfAxiVcl//uX/Wm6JPGkhZNLvu4SiF7XN4XEQvHZ9dJxqWMh8PDoaDNg5uZ0GY/aI/ae3L6L3ta8o66S7tPrwpEEyIJ+NKR0P1RvrJ4UT9dVDo6GDDweP1haA+GEk1C5rNOgIuAk7UIL41CBkedD0gZ/Vzo+OmvYIO3NnKQEjjSHMZakp0Q+EWIUWH4iIlmcg/GhBXQjvDFsDo7oGuItkvfZFXZ+S/0ndmnLG2qExyneZbubXfmI2SyV81ArCKdrvrv6Fm5lQo7K8kOiQzGwiR7jYnRA2EkwO5dFSRG+Z3TNYxtp6CvQ0qqAgiy74ZfmZ3LtIR51S0yO7RoSHb/1JNx/gVDjbRef9wIOEEDSCdd5E8ZVxwmHGpGsygggUsgrVA1ugcRzb2HLDAo9hH/0dWETSKqTDPSP91BgQMcbdzgmVVSFcg5Qg8/XjDgzan4ukdUJa0Mf+0eh/gDQst7iGSKQvy7jmAv69FoP7AvGQstGEg/FO/z3drl5MS1OjbY0SwiZ/KxGd2t5CkThT7fc88sI/lEmXHITUKMafZhKLRxHSn7uZOyVr68oWXkYsS1aD5s3SHEKM8WWEz6Jhw5PhB6xF6/jeUYbMXuPSsWZCveAFydoumwdYYiy4LLSLJ/4XgKNwCptzcU+PPP7SFkvHYuJV",
+  "URL": "https://github.com/avakar/pytoml",
+  "LICENSE": "MIT",
+  "ARCH": "any",
+  "BUILDDATE": "1593975278",
+  "PACKAGER": "Eli Schwartz <eschwartz@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "python"
+  ]
+}

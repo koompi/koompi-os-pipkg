@@ -1,0 +1,23 @@
+{
+  "FILENAME": "lxtask-0.1.9-2-x86_64.pkg.tar.zst",
+  "NAME": "lxtask",
+  "BASE": "lxtask",
+  "VERSION": "0.1.9-2",
+  "DESC": "Task manager of the LXDE Desktop",
+  "CSIZE": "68458",
+  "ISIZE": "263942",
+  "MD5SUM": "c7707ba7c37c8e1e876a5cf04c8b0130",
+  "SHA256SUM": "9aaa286defe155c7531942c88b32a6346ef9161bab977aab8c6c6feb5255307f",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl8E5zEACgkQeGxj8zDXy5J+WQ/+Lie/5OvdoW7PC6VYcw9lH5REcTllR+L1Y1lhArk1jYBCH/5wu1UkuMcZX0c5jtWE9wa98wwNZjbV/+JFIkTyZlj8WdfKpTvZ+5NYZgtf/MYyzQEiwi60n13jB2kx3fe7TawzDVXO+oCUKbU8D1bG6LdBhUq9qPgpvBf8xnBv25CF0wXoz8S1Pswr4NxtpsLM6wpsx3aYZL4zNCzXWFc0dlvyW7BFhGV5ZDmDZjD+ddWo+tMA0udAXK/Xh4HMtraeB8xlnu7hVpebPqV7BxasmYNVipItvbRoQb/K6CE6MoF18JixyCByMT4dIyNOl3t7eLPO5ur5Xw/OYB0mZnk07gGGEaJLbqXIX++lvQR+0nIZsw4MZNydYshzlEc4xtacw1tMMKNbaPp0b+c1KIpE6tdy3Htw8VCEogvWk88tEUXXOMbZRz5SKeqK4yUmmkCcnLemTN1hlx6H1TVtEXJWKgF0sFa21lLh6taUjQg0juxWI5Ewwl7JRQBkEsG+REjWFoH4kAUgigTKAxq/OR6yaDaFI/AgUATCyGKTGodsFFODZfahhY91gZB0RZ/f3ceCiXagZaTGaWGiC8P1PKj7lM3Mv7BTyVfHNGBSd0iMrPuMYpkvNXgzeqwo/itWVrG/YCqGf7iY+/IXDD1muAszg/vbtjcfhn6qEOxjZ+Pd/og=",
+  "URL": "https://lxde.org/",
+  "LICENSE": "GPL2",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1594156806",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "gtk2"
+  ]
+}

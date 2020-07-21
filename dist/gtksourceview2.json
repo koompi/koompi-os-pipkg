@@ -1,0 +1,24 @@
+{
+  "FILENAME": "gtksourceview2-2.10.5-5-x86_64.pkg.tar.zst",
+  "NAME": "gtksourceview2",
+  "BASE": "gtksourceview2",
+  "VERSION": "2.10.5-5",
+  "DESC": "A text widget adding syntax highlighting and more to GNOME",
+  "CSIZE": "733081",
+  "ISIZE": "4592815",
+  "MD5SUM": "5b25d51ad063292a28c43e4b53028a1d",
+  "SHA256SUM": "0dfee8f3682ad5bc3d8426010922fb9652ff8311e5e3b43db025fdf3ec1d951e",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl6/24cACgkQeGxj8zDXy5IgSA//dAm2bGQgW4Lrre1MvfzkVkIA/HX0eijwbGS32HW4m5Ikc7b+QDs6Ju8yZiLDeGVeUjeejc2lVL+Bfr88bt+4y3021lPQup+xCoQh5LvJ0UsP2KuLuYrwM35GE3lt16woxvg5MoUfLAq6kde6qpQkqgJLpidET5nGG1CLTAutga0qtWU3chck51f8lTx/gs7IwPsP9dqNncSqnKLdOTVv6wYxSPWDmmoEuObirfbuw602Ujf2Eqs+7TjpYmRZk4myjvzzufi80ulijMj6awXIoe0E4lhrVRgw3N/CQP04fNbf/4ZQ9yY9PV+IfPLFPhmS9IWbIBiMfc4eHIUJRO421Pj0/9yDr4UpQ74jPokb+esLoMoZT/mZKaup1Q2fZ9x8e5n+MOHEukPgkK2mf/eAaL9D2cHlunWCtnKZlDh9Cdae77+pzDPTEWxoBU5ZxIZ9UkFDfkgPYtGaHysvWIIvko9K+jvOa81ZgwXUEWryp2Y2m0jEIECqJKLoTX3BQ6JsyzZkk5BuNtugLR90eIviTWHy+tHm1P1yiGON7DyRey0NMAT9UhCpbfbTmjrQoZ5F6hLcGoPdGOgeLXrjHQND9bFJHnDUayQR98uJKX/XeP488vhcQU1ekuvUNjEKdSoiilDAZycUkIGnhVlJIxeaYKULVpJkSvwd8OiqjuhewNM=",
+  "URL": "http://www.gnome.org",
+  "LICENSE": "GPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1589631842",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "gtk2",
+    "libxml2"
+  ]
+}

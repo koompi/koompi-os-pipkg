@@ -1,0 +1,23 @@
+{
+  "FILENAME": "libreoffice-fresh-sk-6.4.5-1-any.pkg.tar.zst",
+  "NAME": "libreoffice-fresh-sk",
+  "BASE": "libreoffice-fresh-i18n",
+  "VERSION": "6.4.5-1",
+  "DESC": "Slovak language pack for LibreOffice Fresh",
+  "CSIZE": "3331995",
+  "ISIZE": "22776415",
+  "MD5SUM": "104b31cbcea939005d704f410f4bc9ba",
+  "SHA256SUM": "aadba42f29c04d65dfcbae762f2663c32a949f1c7db000896643310376d2c0a2",
+  "PGPSIG": "iQEzBAABCAAdFiEErcih/MFeAdRTEEGelGV6sg8qCSsFAl7+FzkACgkQlGV6sg8qCStohgf+PAEuH5qGtE2KGxgQwxiiklwCItBIpVyHTUMZi3tEut6BFvFu0cG/c3DJGyjPNSmu3O3amp5xtKbxM+BvHw0+G+y0E1Hl7IsbyTDtdGFcz6D5n2TyWO/ubGrKMEzN+8mqMLaIRBlfU7aFkd4BeGv9iXpLxSMTcfbZ/lTfA6lpeycijIVjsyG3huXWHlbYTYmn76q6G5zceuyHzaUgV3odWBUBEhVdpHg8xxzWvU3VQfyRT/uUEALiNRM49UJy6jXKIRT8K46Gqv8CgFLC6GbgNPojgjNkaQk8dzuTlvINTfNVtVO/lqGxtc/Chs4U9gyJBtQp8JWY8mwERcQeDkXNyg==",
+  "URL": "https://www.documentfoundation.org",
+  "LICENSE": "LGPL",
+  "ARCH": "any",
+  "BUILDDATE": "1593700315",
+  "PACKAGER": "Andreas Radke <andyrtr@archlinux.org>",
+  "PROVIDES": [
+    "libreoffice-sk"
+  ],
+  "DEPENDS": [
+    "libreoffice-fresh"
+  ]
+}

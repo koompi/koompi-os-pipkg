@@ -1,0 +1,23 @@
+{
+  "FILENAME": "libreoffice-still-tt-6.3.6-1-any.pkg.tar.zst",
+  "NAME": "libreoffice-still-tt",
+  "BASE": "libreoffice-still-i18n",
+  "VERSION": "6.3.6-1",
+  "DESC": "Tatar language pack for LibreOffice still",
+  "CSIZE": "147284",
+  "ISIZE": "1049551",
+  "MD5SUM": "c33724ff8a9f84fcbe2b3136b8fbf25f",
+  "SHA256SUM": "3c6085764ffcdef4322bee814373f649b159bdde99dd959f2d642923e9f920bb",
+  "PGPSIG": "iQEzBAABCAAdFiEErcih/MFeAdRTEEGelGV6sg8qCSsFAl6tSvwACgkQlGV6sg8qCSsD4Qf/d0tkNUDCyW9DmM0P5rtms4f1dcG6uRtqn+2qd6ZlmBA+XOR17Clw+JgC2I6rr2Zpm2Pw5KdVxPrLGehFsWGgmJoZgSLZk6aI3zLSdnPgTxMA0vDTkQmqIEdAOjwfHN04w8KsouCU13aVvHFY+JmKj1MWWJF2R7gW4CwvJO++rePyR39SlgSyVzS1cjya/fx6fdnsLEvO8i7db7qLuKv9Shg7NeYDTf04WlIsC79aPaE1PQz/1nYiyGleTGzYm22YNCUcxMOom8TbmsVq02QZ0w+k42tNx+gEQX/0AxHOgO0Qi1cLx/5UD+A5jBtkXt8TlPdSC/beS+rK6ikpLnPZ+g==",
+  "URL": "https://www.documentfoundation.org",
+  "LICENSE": "LGPL",
+  "ARCH": "any",
+  "BUILDDATE": "1588407321",
+  "PACKAGER": "Andreas Radke <andyrtr@archlinux.org>",
+  "PROVIDES": [
+    "libreoffice-tt"
+  ],
+  "DEPENDS": [
+    "libreoffice-still"
+  ]
+}

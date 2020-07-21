@@ -1,0 +1,30 @@
+{
+  "FILENAME": "fsarchiver-0.8.5-2-x86_64.pkg.tar.zst",
+  "NAME": "fsarchiver",
+  "BASE": "fsarchiver",
+  "VERSION": "0.8.5-2",
+  "DESC": "Safe and flexible file-system backup and deployment tool",
+  "CSIZE": "102204",
+  "ISIZE": "257051",
+  "MD5SUM": "4dcda13d59812bc57219276fe122873b",
+  "SHA256SUM": "9178feadf593ae1f9489da0d7041b4e8e22428775130b21dc53dfeeaf08611fc",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl7DkPMACgkQeGxj8zDXy5I4tg//e88wC93aiIWRBqKFOM0LdMFLEhdkm/BNPx3maCG+3eK8Dy5I2cNy805fvjKRmiQMKJsSXlIPA+9DszEQ7aIE8xiTdHFMr/ZS+rk9qejc+WrNj8BPyRxy2pU/W8xCgpGHld9xYHTHj59RhebND2FvNkQQ+5sE/uZCa7yIoNkFNbf92EQnphmbo6hepqyH4FndLClz8TVTfH0kFscRPKtyKKJxXQ0ZlegQCMpPHP9Z5RANbQn10TUYc0MwbIau/R5u0YQqpP4f90B6qxeVuP7eTlldmChejdzBzJLHAxQEMuN4X2ATNqCxLP1BWrMVY7X1T6KxZymt9HsGuvTbKdHLOw+8NpXoDbYUryRvBw5l8Ie3SA57Cc6FbF45WAIt2V2qiA+tfnZRfo0m5nNO91Z7nw/i6ngCGFu64vB5TrNxHkldNBz048i8zF04OlMMZFE3v1ScjJeH14Y5Y0EYwUa1boZ/zlatWiS0uuvQ2teSgtJuaFJrIJlqwyGCsCyVhiYqhJH5afbJxOtIL/mMxJtSPXVuYai188pzLm3cIL/ofmxa9Kpe6A94v7VfFdn0F3ltz2hmbw6LdDyABNpgKkwIaKLswKWAxXMVOf3blIajKWPIklgJjlcNdBG6BQP2w6uIZ5NIcNWGcHQUj9NFPuvdOyPFdOF7OjlpYnhCqv7WYBY=",
+  "URL": "https://www.fsarchiver.org/",
+  "LICENSE": "GPL2",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1589874899",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "bzip2",
+    "e2fsprogs",
+    "lzo",
+    "xz",
+    "libgcrypt",
+    "zlib",
+    "lz4",
+    "zstd"
+  ]
+}

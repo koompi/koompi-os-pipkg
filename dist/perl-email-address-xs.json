@@ -1,0 +1,23 @@
+{
+  "FILENAME": "perl-email-address-xs-1.04-3-any.pkg.tar.zst",
+  "NAME": "perl-email-address-xs",
+  "BASE": "perl-email-address-xs",
+  "VERSION": "1.04-3",
+  "DESC": "RFC 2822 Address Parsing and Creation",
+  "CSIZE": "28533",
+  "ISIZE": "71352",
+  "MD5SUM": "76a3196951808281e7f898d7716e889e",
+  "SHA256SUM": "32bdd5a2e1c79a54f0c9a26899978cab7e4bcbd2d85ee135a515b514c812424a",
+  "PGPSIG": "iQEzBAABCAAdFiEEhs/8qRjPOvRxR1iAUeixSKmZnDQFAl7vhlwACgkQUeixSKmZnDQ2igf/cBSZtGXT8IR0UtU5APieN8oW8wmAz59z1U+n/op7+WwxE3sI6IkBlMlCamdP93jkbZBCHy88tw7jP8v0QJenpPQ7hHs8fJ7H708J8epZsJgNnhv6dBPysnOA7AKbGsnGws4FXCdd1o0BPmwqUn6HZCa3ztYVactg6ecoPle+iEmW+Olz2jHeQpFfbs9Baa8q0YLR2dWzMhekRVoCNjslWY8ajt+5Eaq4P8qCm4vxJ8nx+F4EAuFKT5bbdl3l2j/9vsgdbWBV3u62lcXcexdkrlycDVqboEHProX3AdQJsBPKnynM1owL5wW5Y7NCbQmwCZYNSSzchGDL/uGcq1cfHg==",
+  "URL": "https://search.cpan.org/dist/Email-Address-XS",
+  "LICENSE": "GPL",
+  "ARCH": "any",
+  "BUILDDATE": "1592755789",
+  "PACKAGER": "Evangelos Foutras <foutrelis@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "perl"
+  ]
+}

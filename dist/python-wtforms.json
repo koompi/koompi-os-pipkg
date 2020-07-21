@@ -1,0 +1,23 @@
+{
+  "FILENAME": "python-wtforms-2.2.1-6-any.pkg.tar.xz",
+  "NAME": "python-wtforms",
+  "BASE": "python-wtforms",
+  "VERSION": "2.2.1-6",
+  "DESC": "Flexible forms validation and rendering library for python web development",
+  "CSIZE": "321120",
+  "ISIZE": "1805404",
+  "MD5SUM": "02832c344ca08481a5b353001f8c3369",
+  "SHA256SUM": "753b4cad9f0633ee6bbc0c43d93d99ea68d394d99722de55de3c96a3b0c1f1b8",
+  "PGPSIG": "iQEzBAABCAAdFiEEhs/8qRjPOvRxR1iAUeixSKmZnDQFAl2+BcQACgkQUeixSKmZnDQbcQf+NZx+0h4zRWSo3Tsi5okwy4v8uAz4xuKlY7Bn1R+wgb8D9uKbyy/5p2/cNl37OgBvqhj6GTtypGcDjcTjGVncmdYVL0AF6tsLA4Ig/pPX4e+MCZZcenrrNSJXkSRv+mqHQR29Y+itdQNuIFvPl4xIkcKnZHV6JFQY/vQXsA8ANXC1Mm+TEtmcAmuBhHo8Ji75il4/v+97mRNSU9aHyQzW/4JyDSf2QlKzL8yYlljLjUvr73jEGF/b7kiAS6kpKn7tdcDZG2d+kqX954746RLhnFu0Tt9O/XzvJGQrA3PfJ9vquG7D5OyBPx886InJyfbbHTqAAHHb9CrGCBJFhZ9ngg==",
+  "URL": "https://wtforms.readthedocs.io/",
+  "LICENSE": "BSD",
+  "ARCH": "any",
+  "BUILDDATE": "1572734355",
+  "PACKAGER": "Evangelos Foutras <evangelos@foutrelis.com>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "python"
+  ]
+}

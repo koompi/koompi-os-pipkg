@@ -1,0 +1,23 @@
+{
+  "FILENAME": "libmfx-20.2.0-1-x86_64.pkg.tar.zst",
+  "NAME": "libmfx",
+  "BASE": "intel-media-sdk",
+  "VERSION": "20.2.0-1",
+  "DESC": "Intel Media SDK dispatcher library",
+  "CSIZE": "53101",
+  "ISIZE": "274194",
+  "MD5SUM": "665b6e825b0614a8fb658684e5b03d87",
+  "SHA256SUM": "d816fe60c07967dfbee646c207e74f331e4725b24e30162a3e31cbd9a50e63d6",
+  "PGPSIG": "iQEzBAABCAAdFiEEP/pqt7aarmzKJj3eAZp0dCl9hXcFAl8Ic1sACgkQAZp0dCl9hXejKAgAiiqekUjxB15EjxteQKlM+ORkHB6gLbJzpmea6xYOQSuwLACeAfQBmU5HZY2QqKz/RLGvEnI2E6eE685T4gLw6JAmUAHg25KppugcMC0lsLksFjl+WXWGUT7mwM51P8SEBZz9NqbjfQC2Art+jjvUvUqCRwUCmwI7rRp1XjGxn+SqVPDolVOFevvdKSuKH4SZyadT6LFy28+8YyUVp0v4LcfqysRGk22V/i+NozjjxHB61XOPAoMdlzPU3IB61LJJZmhdAqdJxtRpHRmyEAPunTuYOc0cISDWJsGInf9SN4/irTj0lMy1J3sid1WZkCfbSMa+XUqGOnkPGwxJnIZUgg==",
+  "URL": "https://software.intel.com/en-us/media-sdk/",
+  "LICENSE": "MIT",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1594387601",
+  "PACKAGER": "Daniel Bermond <dbermond@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "gcc-libs"
+  ]
+}

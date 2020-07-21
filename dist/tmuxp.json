@@ -1,0 +1,27 @@
+{
+  "FILENAME": "tmuxp-1.5.4-1-any.pkg.tar.xz",
+  "NAME": "tmuxp",
+  "BASE": "tmuxp",
+  "VERSION": "1.5.4-1",
+  "DESC": "Tmux session manager built on libtmux",
+  "CSIZE": "51772",
+  "ISIZE": "237899",
+  "MD5SUM": "0a8a7583e5ddb73d683a49cfe1c445ce",
+  "SHA256SUM": "d0bb64e6c1a2a5ece405eea27941f18a76525eb3e864f38956f97d2536cc7182",
+  "PGPSIG": "iHUEABYIAB0WIQTH54SUZv4jWDQ1iDdyWHNLQcMVSQUCXcPG3wAKCRByWHNLQcMVSRFnAP4mURguVgq1j+CRC2XfgPH2LW32qCP2b9mto8FF9X/FoQEA3jEv83lMEpgnTDh2ALVLk/Egk7OpTzBKNVtBcb6naAA=",
+  "URL": "https://tmuxp.git-pull.com/en/latest/",
+  "LICENSE": "MIT",
+  "ARCH": "any",
+  "BUILDDATE": "1573111126",
+  "PACKAGER": "David Runge <dvzrv@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "python-click",
+    "python-colorama",
+    "python-kaptan",
+    "python-setuptools",
+    "python-libtmux"
+  ]
+}

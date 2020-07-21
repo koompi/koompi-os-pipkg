@@ -1,0 +1,23 @@
+{
+  "FILENAME": "firefox-developer-edition-i18n-cy-79.0b6-1-any.pkg.tar.zst",
+  "NAME": "firefox-developer-edition-i18n-cy",
+  "BASE": "firefox-developer-edition-i18n",
+  "VERSION": "79.0b6-1",
+  "DESC": "Welsh language pack for Firefox Developer Edition",
+  "CSIZE": "502836",
+  "ISIZE": "565219",
+  "MD5SUM": "503e7dc7c0bf5cce491154e6f06071c7",
+  "SHA256SUM": "f6397a1e2d411b73d8a7bd7162472931fe58307b0b6553576a361b283bc3d2e3",
+  "PGPSIG": "iQEzBAABCAAdFiEEYB8g8dG7v0p4z1tt9rFhCz7NvJ8FAl8IbMoACgkQ9rFhCz7NvJ/mvggAvDaW0/DVIXyBtkn2AVrMDzqYq/21I0Aq73Lt6P0JJFW9WSoOxMC2loRra0epRoehMMruk6pm5z95HhzPBEGh4eq9aOJmzLBDkh0VBVEG7YIuuaUImPEAqR/2rETwZOvPnHjVBFfgnMFGwSLBFu0dztqmcSjsLCG/nk4IQUPjPUnP8qrgTjBhLAfGgRxD1PpZvkfniBQdnO8WYfETszANKfukgvJ5vTbw/XI0QkpyzUeCtkwcKYK9f0gTbVdF/h2QI6oBdfAUgwUasVJPy2FBnOAsBg5K2H3lYjRv4M/Xj/Sb5hsPHrRXRovXn/TENE8tmVPr73bvoOH8c0okLqeA2w==",
+  "URL": "https://www.mozilla.com/",
+  "LICENSE": "MPL",
+  "ARCH": "any",
+  "BUILDDATE": "1594387381",
+  "PACKAGER": "Andrew Crerar <andrew@crerar.io>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "firefox-developer-edition>=79.0b6"
+  ]
+}

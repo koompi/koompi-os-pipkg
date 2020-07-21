@@ -1,0 +1,25 @@
+{
+  "FILENAME": "xdg-desktop-portal-gtk-1.7.1-1-x86_64.pkg.tar.zst",
+  "NAME": "xdg-desktop-portal-gtk",
+  "BASE": "xdg-desktop-portal-gtk",
+  "VERSION": "1.7.1-1",
+  "DESC": "A GTK+ backend for xdg-desktop-portal",
+  "CSIZE": "186364",
+  "ISIZE": "854467",
+  "MD5SUM": "3a71b6142661c083fdcf451280caa22b",
+  "SHA256SUM": "c5efe44a6297c0de5d77fb60120834fcc122cd2e37989d71c8fa0ea4d3db9aee",
+  "PGPSIG": "iQEzBAABCAAdFiEE82kWh9hnuBtRzgfZu+Q3cUhzKKkFAl6NqWwACgkQu+Q3cUhzKKnjtQf+MlADSeThCaAIOFqjqE4ojXqjM8v2/1ugSP5PINkcSQ4AR4AomqCh2kbZoSHTG+sRRQl33liOmBM/KD0K86DJv8XcA6QUDh7dfhxqwl83kqwLimh6qonaXXnEJY2R9nP8rBpdjPRJG75Hxgn8b715ez3Z+h3zMtpngYxLKWqYWX3CVLIcobxSagjnQ3CekIv1OzRM5uNr4ZlunBzMM6uoBX0W3gh5BQLs6MR15l0lpuoQ6xIAcKgWWmvjuqOF0JGi6UubLbhgn3jtKqYuUhDi4AjarH8AWcWmeiHsaqe0rfwW0U0wvckE8H5aJRHRdiAzEpgE/6XqnqEcQi56TqWIFw==",
+  "URL": "https://github.com/flatpak/xdg-desktop-portal-gtk",
+  "LICENSE": "LGPL2.1",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1586342161",
+  "PACKAGER": "Bartłomiej Piotrowski <bpiotrowski@archlinux.org>",
+  "PROVIDES": [
+    "xdg-desktop-portal-impl"
+  ],
+  "DEPENDS": [
+    "gtk3",
+    "gnome-desktop",
+    "gnome-keyring"
+  ]
+}

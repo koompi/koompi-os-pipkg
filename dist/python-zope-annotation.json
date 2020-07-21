@@ -1,0 +1,27 @@
+{
+  "FILENAME": "python-zope-annotation-4.7.0-3-any.pkg.tar.xz",
+  "NAME": "python-zope-annotation",
+  "BASE": "python-zope-annotation",
+  "VERSION": "4.7.0-3",
+  "DESC": "Object annotation mechanism",
+  "CSIZE": "17444",
+  "ISIZE": "65070",
+  "MD5SUM": "daae6fd8b73b1fb9d3e58eff4d90227d",
+  "SHA256SUM": "5c289ade8d7378164d499c7b173bd842e4e7fb268055078f7496379bee8b28b4",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl2/8eoACgkQeGxj8zDXy5J4Yw/+Oeh6tGQ+dAYHDZwyhKdGb3TqNrwpKUeYJcgrvZ4NT0Scivg1+M7nOLTGjDZ4QXZTs7lnYWXhfpKVuRjMj//lJTgk/3pUZrgDighoJ5LSxPwfXJHH0a8U/DnpC+SaAKD0IJwvBnzQefauJf1YUDvsE/U9Aybn3j789tMr8E7VmoO7eJcH6+6znxQ0DHyeZSpIWhA8dafZReKteX3E0/E+LI4uGvyNLXcteDxlEfc4uAPpZ20MOC4FrLpkzlMMb4rYLYAkdwKbyxPhv5sXaiXUyAOCpMkQjF2QeJ/gtxcAwSv+Eu5r+ORxtpaMBI2Gk29AJStHe9Gn1o1aQDKMEqyxU8oWQRJGPCLzzQ09uRg8oFlxweqV2ZlhXrJnbue3pJZMQCzch0hNvWhLlGBY5M+0T8xiijccELMxNLMX1oxdcWx4nyCF4Faz5g9zuPk9snnQhPrLoMjEuNOrr5/jGPnR5vTd4VG7wd6yxMVf2j7i1mZxZlG9BjIGuUMKxwgHu/msqJPr2ESKu/qeJa7Pq9Nnl0wi1buOabySNrvi2w9SoK2zBQbM20elPGJzBc3tBNVss/3aubEPxgkRLxtyDWVGcxj+AnO8VTFM4NEjebQpsv5xW9AzozcsrCLsl0QBwrv2uPGVB4NEm5QtJJ3v3iKT3hMh+cHr97C68zSOH/wjoVg=",
+  "URL": "https://github.com/zopefoundation/zope.annotation",
+  "LICENSE": "ZPL",
+  "ARCH": "any",
+  "BUILDDATE": "1572860363",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "python-setuptools",
+    "python-zope-interface",
+    "python-zope-component",
+    "python-zope-location",
+    "python-zope-proxy"
+  ]
+}

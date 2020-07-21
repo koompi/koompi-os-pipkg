@@ -1,0 +1,23 @@
+{
+  "FILENAME": "mpdecimal-2.4.2-3-x86_64.pkg.tar.zst",
+  "NAME": "mpdecimal",
+  "BASE": "mpdecimal",
+  "VERSION": "2.4.2-3",
+  "DESC": "Package for correctly-rounded arbitrary precision decimal floating point arithmetic",
+  "CSIZE": "220522",
+  "ISIZE": "1022118",
+  "MD5SUM": "3dd7c1b420f23413c8ae3a9c6c1c3807",
+  "SHA256SUM": "eec8b44589ef45bacc94265da4d10c1f2d4d6b8cca586485b82917a03a8134c7",
+  "PGPSIG": "iQEzBAABCAAdFiEEhs/8qRjPOvRxR1iAUeixSKmZnDQFAl7Dj9kACgkQUeixSKmZnDTvhwf9F8pF4hGR6OSvlqjtUXpYpjipCIFqMT8zejjEHUhGzDhiYFOrgvsih5rL6x8SoBG4VH2Vgez4aYAJ6Z5/AQp05meSP6ltTnr1HiVy3RFe4TgN4LBsU0gdpa4PJXEDCSOt+nkhIp72K3L5Voy9QMqWiAxlspQ0ixfFId4qIXzc3SVBEZdAFdYAirgI7yusM+cO7GbbfO7twuNDYvjAH9vOj35l9dvQbcROVRZds9e2/N7kEFd+lsEA2fGbeK3IWXXg71NOApNwqBcUzIx95Hbb/J5zufcXK7cNzPW8w8euD2MNWhWUCTKSTZnGMY26C+54AcbvsWM3g9jabUHQY62i4Q==",
+  "URL": "https://www.bytereef.org/mpdecimal/index.html",
+  "LICENSE": "custom",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1589874628",
+  "PACKAGER": "Evangelos Foutras <evangelos@foutrelis.com>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "glibc"
+  ]
+}

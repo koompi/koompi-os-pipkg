@@ -1,0 +1,34 @@
+{
+  "FILENAME": "percona-server-8.0.19_10-1-x86_64.pkg.tar.zst",
+  "NAME": "percona-server",
+  "BASE": "percona-server",
+  "VERSION": "8.0.19_10-1",
+  "DESC": "Drop-in replacement for MySQL that provides improved performance, diagnostics, instrumentation and MyRocks storage engine",
+  "CSIZE": "25337509",
+  "ISIZE": "159666006",
+  "MD5SUM": "5230c16aa5954d6238da817e805d6e63",
+  "SHA256SUM": "80c176150e317c309d7d24de765415ebf2fbda1c546f1451053bef5a9eb66ff1",
+  "PGPSIG": "iF0EABECAB0WIQQsEYxiDwLbmsHQ+fqU3SOT2i7kIwUCXsuDWwAKCRCU3SOT2i7kI4H+AJ9eL3rzlrTBoIolmDI2Rdy3GVsu4ACgomC4CMEICmdHQjofsYGQ0VRY6OI=",
+  "URL": "https://www.percona.com/software/mysql-database/percona-server",
+  "LICENSE": "GPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1590393657",
+  "PACKAGER": "Massimiliano Torromeo <massimiliano.torromeo@gmail.com>",
+  "PROVIDES": [
+    "mysql=8.0.19_10",
+    "mariadb=8.0.19_10"
+  ],
+  "DEPENDS": [
+    "libaio",
+    "systemd-tools",
+    "pam",
+    "jemalloc",
+    "numactl",
+    "lz4",
+    "zstd",
+    "openssl",
+    "libtirpc",
+    "curl",
+    "boost-libs"
+  ]
+}

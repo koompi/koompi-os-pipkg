@@ -1,0 +1,23 @@
+{
+  "FILENAME": "python2-ptyprocess-0.6.0-4-any.pkg.tar.xz",
+  "NAME": "python2-ptyprocess",
+  "BASE": "python-ptyprocess",
+  "VERSION": "0.6.0-4",
+  "DESC": "Run a subprocess in a pseudo terminal",
+  "CSIZE": "21008",
+  "ISIZE": "69576",
+  "MD5SUM": "fe647c060a8818704adc31d0d71e83f2",
+  "SHA256SUM": "89e8568b185fc7ce8e4d6de075d998bc15b472dcf720ad85ca3fdc8bf919138d",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl27HSEACgkQeGxj8zDXy5LqnQ//UCINA4qrYA+TWBFWyM1eMEnuaw48PFiOFptWR9qInvFQCGe8nHdYPsGaeXQaiEvMGbDWevc4IbOLneLslbJ3Stk5W38J8BzZm7eh5XdWXV4tkD7+fZXAYeSM3Hn0nBNwnb9nokbETtjYDHu5CgfRVTJwI0IFPm5Dkm/8TJCEOZkmegxtgqzqXVMQKZq9EvnP/GOWQdTIpyjvE7vau4S6o19qM7m9J0qvV8WVvXFyDXxcuR1QDEpgyhu5IdWCZ3j+w66vmdJ33wWnqy6CeKjIpEzg1dpx032LcuLQ1noX6aBCUIMHVZDzXVrvtRhocajKaBMDpR1QrJ8yrgDcBAI6pre/1wkJOXLQexixMfwtKVU7+UEJmjDqG4KAXpU1yIiiKOh/IRi+Qsl0XXX70u6a4UBBWMjp4X4QZrAot5Jq/zAvgk5FHVnUIM8zkvDQEYzqSInKXI8Nx0eHt6lqRBTbWY7b8IiEL0UP6UBp3+J0cTkQ+KpFs3TgBPyQ9FcspMddnEKNQAoVUM4SBrWsVEswJDvO1qPvi2bk45eqmaZ1lCSbnewnI491a39DReGRDhIgGz7/8Q8hTEyQKU+gGAeRDzB1n+0LaHNCEP6lZEOdOlliR1NqZ2JkXiTVX5mJ56yPrm5HKQLZOE+/ql8yon2vfesXzZn92fhIJwoauxFul6U=",
+  "URL": "https://github.com/pexpect/ptyprocess",
+  "LICENSE": "ISC",
+  "ARCH": "any",
+  "BUILDDATE": "1572543747",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "python2"
+  ]
+}

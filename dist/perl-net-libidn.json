@@ -1,0 +1,24 @@
+{
+  "FILENAME": "perl-net-libidn-0.12-18-x86_64.pkg.tar.zst",
+  "NAME": "perl-net-libidn",
+  "BASE": "perl-net-libidn",
+  "VERSION": "0.12-18",
+  "DESC": "Perl/CPAN Module Net::LibIDN",
+  "CSIZE": "17539",
+  "ISIZE": "41409",
+  "MD5SUM": "4895bf9bc7751b57f7f8fe709ee8c21e",
+  "SHA256SUM": "64e156269448eb0b8c745eb273642304f8188a0e657a7238b65f3d5e4176febf",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl7vib4ACgkQeGxj8zDXy5JZBA/9GlgmEB3yYYu1XT2Ak4gJdW2zIdPExbDBidV4X6rkFIhPoU2kfuDqe9xFuC8Wco9698qsGssRUshMkBQLuNW6trqOkZ7dxKfohTxa4rqCSFtXkx6RTnEYO2mtdavkxUNe5Kbk7YmXrnbYe/0qf5aIQOgZL9UANZIPsqTzW1uXneG+jzhXyHMpAhvpgWwKjv7+YQQ0+RBrYSpl/xEyYbL0WNVGadp6zrPiXqX82pQhF7OGuZnqNWH31bW+5t7QCiUExAsO7sd9i0sNgGmHVnRgyIUsH9EFttBXPDEojgkCWhLo2ELlxLIclZhqbQme/dk4XQf34X7OY1fN7quVywJcFo1ZXIwyaBxtu/N4SeXWxhNF15hkOxCNBNBRk7VgAj1udSysWLz8ATRQb+GSdVTSOEVsQa8KgEwzFZCQ/1LBYiQSSwPJCJ5e6iXg5UhOi0vqqHQGHggwxgfO7aGE+Kns0LeGwW2UklrhjsEkYZajofFGcPCVnrzA+PCZHOtYZZPdxaHyxs9mkGkQMJjNWEAqIgUFwX915Cq3pu8pTcZVamNqKtUwN3l7COhY348oR0wIk3wMsJO6kFgxCDJf/MfKrgdWXPzJWBkC72SmEri/ZbsqrWbIhxo8SAxTB/K9xeNuL1Iglb5y+pSmBY3rtXkhDxVoo+FCC7sF4jm/HSY2be0=",
+  "URL": "https://search.cpan.org/dist/Net-LibIDN/",
+  "LICENSE": "GPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1592756455",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "perl",
+    "libidn"
+  ]
+}

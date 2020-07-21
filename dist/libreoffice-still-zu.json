@@ -1,0 +1,23 @@
+{
+  "FILENAME": "libreoffice-still-zu-6.3.6-1-any.pkg.tar.zst",
+  "NAME": "libreoffice-still-zu",
+  "BASE": "libreoffice-still-i18n",
+  "VERSION": "6.3.6-1",
+  "DESC": "Zulu language pack for LibreOffice still",
+  "CSIZE": "257779",
+  "ISIZE": "1411900",
+  "MD5SUM": "c4d149065013aa8d714c6beb56a02014",
+  "SHA256SUM": "ad7932c7268686d27d6908ba2c5435f61c68158b849d07188143c2e61312f4ef",
+  "PGPSIG": "iQEzBAABCAAdFiEErcih/MFeAdRTEEGelGV6sg8qCSsFAl6tSwUACgkQlGV6sg8qCStHfwgAqgsS8zyWgLESAmeEjwjVQySTfKyqAKButvXK2XqfRJL2JYQI8bAtStA7buLA58gcHQF0s0tiqJ//aX5Bdg3iecixZarev1MCPGHZxdqBDjG8I9H6Zb7WVOBMO0OEjZxbRUx3NdEsdwkNB0TyZP0jmXX1lkKvYaLaxGCz5NaSzer8Sk4qbiKwRmFK7X43ljDYNVIBw9QrZIiAczE208GuVnHcasc4p2ZFGJIXJQLfJEfbX8MMcOSyFgy/cWUC6miWKFLabKeUhYHiS/UzfcnoTDV8xLVlvVTRdD1hM1BseuofZOfuYjbCYg5gsllnlkU/kpopoWbzWEHwdYACRh6iiQ==",
+  "URL": "https://www.documentfoundation.org",
+  "LICENSE": "LGPL",
+  "ARCH": "any",
+  "BUILDDATE": "1588407321",
+  "PACKAGER": "Andreas Radke <andyrtr@archlinux.org>",
+  "PROVIDES": [
+    "libreoffice-zu"
+  ],
+  "DEPENDS": [
+    "libreoffice-still"
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "FILENAME": "haskell-tasty-hedgehog-1.0.0.2-44-x86_64.pkg.tar.zst",
+  "NAME": "haskell-tasty-hedgehog",
+  "BASE": "haskell-tasty-hedgehog",
+  "VERSION": "1.0.0.2-44",
+  "DESC": "Integration for tasty and hedgehog",
+  "CSIZE": "44072",
+  "ISIZE": "216272",
+  "MD5SUM": "8c62fe6791114b4b9f028e71b228a027",
+  "SHA256SUM": "1683f878f4ad0c60be00ac7bc5cee361e8efea0ca670079df6a32cace2de009a",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl75wFUACgkQeGxj8zDXy5LMtA/+Iguh/uk0FaBlTQzbt5JVOghI7iNa0cpjJKhBk8HiDFwxVa6BFtuYAx2ucx6iP9KxOMrJ+sBVN7l8EoJzWovfc5sHt7PqW2KegZvcYZzdcdu47QWpgW8cljIPc5yxJjmBHPhUpPIh1+G6VEEUenroBbKe4Lb1cxfcRnTA0QjtUVqjDaj6Ol4R6xLTUjG3vaI+Vv7wxL9AoFY8cuVTqhY7PVG7Ac1C3sQR6PL9vL7Z4W6xfVulfSIxdCqyi/B0X3HgV1F1Ai2+L0NO07dKmXPiIu7BgPZF/pTN3GP9SXPWC5Q8jGiywqTud1iX/Ah46770FwU9sbfE3+gUhMvRPpwg26A9yeQjYzvxfzOoJyFa5FFROZcNqyn358cl/fO1E/VQ9yyL6ONS4/R7nHzzL/o2eSf/QEWDXWwVEb85LJmAXV1Kr6h1SVVqsDWXF2uhldQwO5F8cWRYe/iIt2mlwHKtJ7LyrQn1vyLFtUdLPCJLqAQKiKamB4dmf/q7pRJJ27mATjwFsaBL4z2OflyVWikVbrDJx3G4Eu6gbonLb7AkPrlIs6VoEu5PfwRGbP0nN2p4mGOHQtrdzeXfFMXRfar7jCM9opcU3I6NxEYeYiGqk0r1Gyq22SvyMMxhU3P9lTzWutcX7GincvFSwM2B9qY8zb/Wjq2qXQyauFV7xnbt1Vg=",
+  "URL": "https://github.com/qfpl/tasty-hedgehog",
+  "LICENSE": "BSD",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1593425978",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "ghc-libs",
+    "haskell-hedgehog",
+    "haskell-tagged",
+    "haskell-tasty"
+  ]
+}

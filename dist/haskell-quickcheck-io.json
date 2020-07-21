@@ -1,0 +1,25 @@
+{
+  "FILENAME": "haskell-quickcheck-io-0.2.0-73-x86_64.pkg.tar.zst",
+  "NAME": "haskell-quickcheck-io",
+  "BASE": "haskell-quickcheck-io",
+  "VERSION": "0.2.0-73",
+  "DESC": "Use HUnit assertions as QuickCheck properties",
+  "CSIZE": "18029",
+  "ISIZE": "61128",
+  "MD5SUM": "70993db303971ff4a00b21e8036b445e",
+  "SHA256SUM": "d46987199550d209b3b5651a31fa3ccac9e2f233c23bc5f1df019c1737cbf74d",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl74/oIACgkQeGxj8zDXy5J9TxAAsYsrW3hHC0d6EssF8o1U5QIWXMB2obHCutwjXJ9LYzGUQV8xG9hJzcOVUyw0JzvxQEOx3blT8GxNRBjcODnj0WP5Z0WLh7I6Li9IXTZz/Y4U8SATU+HLDBwt3DJcCl651xaVY+RG4yPdI53s/GjJHQ0XYNAFNTNH8kA2CJG8i26TV+f0JcTO0ACr+35ybs534VG5mJSb43IwlN+cXfMkt9V+R/dwARK5tLRr6mrwWlHFDHS/LZhFF1Ivf3cOb+EcDCg962BJNoCx7kiQwHN3//IyKuqk27nsRGCHBnERF5r9/olJLqLrxIQk2ZxcQse2hnylaa9YY2OSJT7GZfYYIU0xkKp8QInu/dwZn6H4P4IuRduwQENUlzhDtDxJyjTVD05NXEc28Yk+VrheX7oQme5a06MtfW9fEkmIhU6ypLe7sxLlh2hY8mLJrK5BuwuKZfkLJn2dpbqNrszPA5IhZQ5iGEkfQon+iOQZszmqSn3t8pBJ8m03q0BM/6MCfSlxUKZFpbsm2AAlWvF33UrLOzLumPxrQJesvjfxX51N9X5TdqZ+wcMhKNz1h119cSwswkGJTKWpr4oLG6REYn0PPadk/GHy4/V5MS5AenfXDgZui6KNXgkAVcCtwmS8Fp+C2QMvhGS6buxFEuErWsKyCwXaTcPdDwEYAY935ajuHtY=",
+  "URL": "https://github.com/hspec/quickcheck-io",
+  "LICENSE": "MIT",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1593376360",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "ghc-libs",
+    "haskell-hunit",
+    "haskell-quickcheck"
+  ]
+}

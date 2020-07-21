@@ -1,0 +1,23 @@
+{
+  "FILENAME": "cairo-dock-plug-ins-3.4.1-15-x86_64.pkg.tar.xz",
+  "NAME": "cairo-dock-plug-ins",
+  "BASE": "cairo-dock-plug-ins",
+  "VERSION": "3.4.1-15",
+  "DESC": "Plugins for Cairo-Dock",
+  "CSIZE": "3480620",
+  "ISIZE": "10354611",
+  "MD5SUM": "c89ded381ee063443b1fe63974209733",
+  "SHA256SUM": "044f3adefa2b383767597b59c968de6cd20d04a609e7bc9b7dd15f370da4b28b",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl4ED5gACgkQeGxj8zDXy5JBOA/+K8RtpBYUqcdi/B24pSndL9hYwE1pZFRr/C+wefEEWnmN2iLXMyDR3RdN8lxAIY/RPTvKjjOf/h9a5ZBRVlrA+CgLJZyTq0Gq/T1rD3F/FVKI8eA/oW2EBAdrC/aSp+zCAHzYLsjfBU1lFY17jIRIGZNiZSyUpfjZa/a14xqUcFE6pU+T6YSMZAmAYFtckHBayUvgyE1BXMkZELI372nC8nKMAe05jGdeNX9ZrXPrend18GCajhKvKTgyk33STW1cXkaZ7x+yhMlaCndEhHaRLAFj9roS52w1B1iX7Y9BKj28nz0M+ZOpJ5TG9mYZDhwpTw9RGHk857Xxc1n2QwMx6x8GhE1lc4IlJauMUAYlfSaulTu925H2mECzYaKEiqGDjkpaE3DLZL2DFNLPTvXax97PQ7NnD1d259Hm4Lm0tkViz3E/GBDIrSkCnS73tvXivVfuwzgftag8I9WqEZEsd7yr9xKi3w1qADVKaA8c9v4ctI+hB69qDzWiazwOhjNIJ/2GqfOB7m6f3Q+Yvscmx26prJyv+KQ4Cyipy4enFQDcg5gW7iWzZ8R5cOdHJ9hBlw4fqQ6tMK8KvXvx1tarS1QKb4BzabY/nXw8BZecEkMo6jhgZU/UgPHgRks1oQl5hTDuvUOvslWrF4TEcLoF6LjjrCyUTht5PVmkHR9pHRI=",
+  "URL": "https://glx-dock.org",
+  "LICENSE": "GPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1577324337",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "cairo-dock"
+  ]
+}

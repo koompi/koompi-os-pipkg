@@ -1,0 +1,23 @@
+{
+  "FILENAME": "python-parameterized-0.7.4-1-any.pkg.tar.zst",
+  "NAME": "python-parameterized",
+  "BASE": "python-parameterized",
+  "VERSION": "0.7.4-1",
+  "DESC": "Parameterized testing with any Python test framework",
+  "CSIZE": "33083",
+  "ISIZE": "151174",
+  "MD5SUM": "fa91bcc81e284b9ca44187fb363388c9",
+  "SHA256SUM": "34c2f03c49fbfa7c9390e630df525f7381b7371858e053717ecafa96651edc59",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl6gCPMACgkQeGxj8zDXy5LbsQ//bi1V9fkVysH0KDvQ2JA4+rlcwEscT1P2xut9Reav7StUnEHO4w51f2nPBCP16Yd3gfrDZ22HfVn0rz5GkM1Ro4JRQTn8ElYPkGYkvmUrwRONjQQvmT0zDltVJqw3dUxpcFy85X8xh9LyxVKqqPpx5BcbAGzjJt8potCEW2/fPqSS+zk0pQdNJ6Yz2VcMKNPyqHL9WrHxJ2Sk2VjTsUAlwR+TWYi7TIIRpqEhFQsOURvZZ1Y/MWrt1f/GWOmWluHLskoZXcFBTW8UsG6y2PxrBC0VCCbrK4GTK+laYSELsUVXn6yaiLrtP3x5WqvaRkMYMnat0whByJRKLuDfY5gyyYGXxpIfk3N2XuP6gXDYz7y/ItBWJCMSzAy9cxWaJrMV0TOgSJXF4wZFBYNgq9P+JTfJ0iBUTEtg9ejotwVhGLBddFiLyRc8zAVtK42EkvyRQRKe7UwC0AjlX2N+X8oiBzXoM9czoD7wFtA8gWT4lehF9UloNEL2JKHUIahTUi8/HbtQ6G2znWCsW2LRqonwC3R4PviD4sA0BBReh/Q8bQ9tuH9wWB06hQgLFKDUxDRI/Ow5TNff0hhXNkGhHbzPE+pwir3vRpVroJC7Jl8LhJ6m/CXx8GYTAHRV/Lw/BEolSMCi/2fxDYLXeWcZKf4A9vCQIUe2Go3fd/Ep+3tjqS8=",
+  "URL": "https://github.com/wolever/parameterized",
+  "LICENSE": "BSD",
+  "ARCH": "any",
+  "BUILDDATE": "1587546310",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "python"
+  ]
+}

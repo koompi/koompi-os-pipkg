@@ -1,0 +1,37 @@
+{
+  "FILENAME": "haskell-quickcheck-instances-0.3.23-6-x86_64.pkg.tar.zst",
+  "NAME": "haskell-quickcheck-instances",
+  "BASE": "haskell-quickcheck-instances",
+  "VERSION": "0.3.23-6",
+  "DESC": "Common quickcheck instances",
+  "CSIZE": "140492",
+  "ISIZE": "743952",
+  "MD5SUM": "4f4b7abc5228d8e538aebd70ffd81655",
+  "SHA256SUM": "c057ca2dadc06b0e17cb5ec712aace15c34f2ccc08947aa12c5ee20dab69c77e",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl75M40ACgkQeGxj8zDXy5LoJw//TEzH9pdwy8nrkN0ytO2VZeH/SkAI1KOquBTw089q8VynjoBRevXx4wl5+KEFE1h2B4SmDNCDqS+8DapRZNm2qEaneNUXcsQX28iyuSYqLh8N/bvdoCf5SSnGimLPLKVJ0xgdqFbn/61qRr+tfNkgYU4NVb0NPstdLmee8CQ9E3U7CspH46Pku4ARM5qbn5aFnBGad7Ze80KfseUaakaHpCjpjBt3wA/a1rLGtETwYrXXarxkrDBTpvLXYeSvO2WfhWz1Iq8xRTseRR0EWzBa2BQfZo+Y6erP/xLhSE9/Koi2BCqEAkcQJKDUSZ+ESxxvSHuzjbeJA2VD4m0oNlizFCgvpWpRE54O9YIWeSKxWzc+ybzuKnX4WRfMydZYhlAtpnL6tTLr9hoBcHQzyz6Nu6d0SuFjTPKAkHxuwkKdjHs/TbRaoKXY/8B++jIYaIDFANox/LlQcbLhxyxSAJBQC+HGREwAwcB2eRUNV7K3w6+iLFJsjWFrgyEeoGurlkDwdBvPcHC/3Oxs3EpIjP+nS8iSOlEAfBPs9n4lyKW3tuOZpvx/rfSaGOPCU4gTZ8L2JsT3KAmzhsgVDaoHOg8fCvzBqt2Otzw5dpnVMR7nKjF1u3/CjKrK+aaYpTxlnL3UkmvGbLcJO/13YwK4v29rK6vdV+MYhlUjsa+uLr6RnP0=",
+  "URL": "https://github.com/phadej/qc-instances",
+  "LICENSE": "BSD",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1593389940",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "ghc-libs",
+    "haskell-quickcheck",
+    "haskell-base-compat",
+    "haskell-case-insensitive",
+    "haskell-hashable",
+    "haskell-old-time",
+    "haskell-scientific",
+    "haskell-splitmix",
+    "haskell-tagged",
+    "haskell-these",
+    "haskell-time-compat",
+    "haskell-transformers-compat",
+    "haskell-unordered-containers",
+    "haskell-uuid-types",
+    "haskell-vector"
+  ]
+}

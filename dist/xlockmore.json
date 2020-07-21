@@ -1,0 +1,29 @@
+{
+  "FILENAME": "xlockmore-5.64-1-x86_64.pkg.tar.zst",
+  "NAME": "xlockmore",
+  "BASE": "xlockmore",
+  "VERSION": "5.64-1",
+  "DESC": "screen saver / locker for the X Window System",
+  "CSIZE": "1357604",
+  "ISIZE": "4130110",
+  "MD5SUM": "3ca333e8f9000eba143cdf98809318ec",
+  "SHA256SUM": "15a669984e78538dfc3692c52c82c254376b9691de618eef6f638da27408e6f5",
+  "PGPSIG": "iQJGBAABCAAwFiEEPlGL8lJv0Zeeiq5JZcEQwepDP8cFAl7nd6MSHGFyY2hAc2VyZ2VqLnBwLnJ1AAoJEGXBEMHqQz/HtYEP/0WyayF0kcvrfi0EYfArQbgezGL+2AhnnP2KhIX+2OJdtyAY+9vj4W0UPb/oxig7D9QXZn7BIyXxpd/q/e2OphJcvX7ksJKjdh4tKPTyiewv+kor8ISaocd/auSV4qai3AY/qUHI5hPKQLOYWEpKwrjKV5dA6f9pn1HhxT6xeub1aPh4KY8nA/H5ryAGJC9cD9j9MqDmGqTNtmiZiRWyKhbZLkHvG1KAZ0RoBNCGhYLaUd6aY7V6jL/5y5iRv+XmR/J8/IGXwq9Y3AgF6OF/AOrT9J2T+tVrB9xHWBpuMYuq+ZbT0e20GmjnlRK35ymjKpkxgvIABt9wiXd0AGtXQ4FDRGEHlMb+vhfzk2q2ZWUxmBsogPND4ABoDIIYINYo3R+N8WNRtRPPgy64Ffoj9ywHGU9xKkZhJjl18i0seqBIqV16wVX8TRoOVXH9HXCX6eGkpMTJuM1zqmjWHlgyvsUXVVxvNJ/XhJcez93NcyQ4UQ/pH+2K72ENUe90Ki3QOpepI6yECmKMdF2zec2hguU4w15Tszj3aj6F41Bh6gm9bCl5eiichQhGa0l2k08XWpGK1fm1boJS3e7LZ3eOrhAL/B1HhOrwhbQLnnPWY5l0jaHTId77LTRhnrtJBnL7Si5Ri5UzxAunDctSiSyf4O4tgInO5On2RbVsDbvdWlKY",
+  "URL": "http://sillycycle.com/xlockmore.html",
+  "LICENSE": "BSD",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1592227067",
+  "PACKAGER": "Sergej Pupykin <pupykin.s+arch@gmail.com>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "freetype2",
+    "gtk2",
+    "libxpm",
+    "openmotif",
+    "pam",
+    "libxmu",
+    "glu"
+  ]
+}

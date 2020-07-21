@@ -1,0 +1,23 @@
+{
+  "FILENAME": "dbeaver-plugin-apache-poi-3.16.0-4-any.pkg.tar.xz",
+  "NAME": "dbeaver-plugin-apache-poi",
+  "BASE": "dbeaver-plugin-apache-poi",
+  "VERSION": "3.16.0-4",
+  "DESC": "DBeaver library for Microsoft Office documents",
+  "CSIZE": "11210696",
+  "ISIZE": "13872155",
+  "MD5SUM": "a24d8672751d3be0ca214dca0e073a6d",
+  "SHA256SUM": "e045f19ed6cada0402ca8cf3a1e1ecc9e5367c0db37ce98cc2850738063259d8",
+  "PGPSIG": "iF0EABEKAB0WIQTFIYRkNtdaMpR5Wye0NgIEslDw0wUCXfU7fwAKCRC0NgIEslDw01EEAJ4vCHVw+2BlK3D3BvChQV2ARyIzKwCfY8aR/hPzdPkmt9vqJ2jU7GdSkzU=",
+  "URL": "https://dbeaver.io/",
+  "LICENSE": "Apache",
+  "ARCH": "any",
+  "BUILDDATE": "1576351884",
+  "PACKAGER": "Fabio Castelli (Muflone) <muflone@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "dbeaver>=4.2.5"
+  ]
+}

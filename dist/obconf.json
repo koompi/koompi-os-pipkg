@@ -1,0 +1,25 @@
+{
+  "FILENAME": "obconf-2.0.4-7-x86_64.pkg.tar.zst",
+  "NAME": "obconf",
+  "BASE": "obconf",
+  "VERSION": "2.0.4-7",
+  "DESC": "A GTK+ based configuration tool for the Openbox windowmanager",
+  "CSIZE": "135513",
+  "ISIZE": "784240",
+  "MD5SUM": "ae5c28b563bdc0256d9a6d21c2728aee",
+  "SHA256SUM": "9162190a7021b928c16e43456422dabd50693a812e18d8af5bc964cd3705238e",
+  "PGPSIG": "iQEzBAABCAAdFiEEhs/8qRjPOvRxR1iAUeixSKmZnDQFAl8E2xUACgkQUeixSKmZnDRSJAf+OuRkR7NEBQQoxW2r/TrkjemyNWhqnlnSPC2eiJSFG5bwkNzjIm/nDdzRsL9YvLXoNyOWhAKtJ/Mz+GhpE1BGxyyDwlnEz532KhQ0em83e2BrqH9UbZplZ1WrEjAJ+brqY8CCu4WYuNtjx1VJiriIhmUqL2xXFycijrncTNGwXcoqvxzgGHT5usJBhWRhT100PwnYWmHX1C7PWj5kdYYsETZJFvLkFvavnVBXj6kndJuMAl22UfYeIsafRCw0B81O7cIcPqGMhZIlt/qPsfoIBOYNGRWJNyj93csIn9foCekHetv94vr/1jIVaZHx3WnaOwuW3E3jmXqCHMmwMyTzig==",
+  "URL": "http://openbox.org/wiki/ObConf:About",
+  "LICENSE": "GPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1594153671",
+  "PACKAGER": "Evangelos Foutras <foutrelis@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "openbox",
+    "gtk3",
+    "libobrender.so=32-64"
+  ]
+}

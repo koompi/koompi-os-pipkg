@@ -1,0 +1,27 @@
+{
+  "FILENAME": "haskell-data-serializer-0.3.4.1-34-x86_64.pkg.tar.zst",
+  "NAME": "haskell-data-serializer",
+  "BASE": "haskell-data-serializer",
+  "VERSION": "0.3.4.1-34",
+  "DESC": "Common API for serialization libraries",
+  "CSIZE": "121299",
+  "ISIZE": "829790",
+  "MD5SUM": "4690f5cbb12edff1de4b07e856383479",
+  "SHA256SUM": "9cb222beaf019e6299016c173f939f85c1aec3f6b4ca0d22ed3c00e517620875",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl75nI8ACgkQeGxj8zDXy5LYBg//flHG+szuYo8MTSXkabOgmG7pY0MsZFySx7PEutd5czcw+l3YEgQex/JfIrobrISNLipQdbqt3ZOlqYcE5S5gd8a1Hqu3BXgBFLrQx7ug8empJ7HornrzfAncF9hT3VdrAstBnCq54+b7Xj5hZGoi1Eg5Fg8b+iNCZ7UyO4nwxVV64ciW51AweOmkHST4BVkbzbXM9dO7+WKzsvG1G81+iuwArcasOsC1iY0H+WEdl/rr8skJVOVmDzUMw2gKnhixyVd5gT86c2yZwDfpUUPyWiF8A/I07L7bLd211NSLlo7ku0d/QqwfB9KBVgPj7YTn0819R51ZKscysg/+5CUD9XeBoMr/9wgkgAhRtRRXkm9bare9nUdQlX0uEkBJw9/bZ6J/ad8EeWlqkSkKd012O1Ynon8oTwA8Pcqzkp6oEbJoOynYBN7iJwhMJTYx34ip3qC+NN9dF2Fv0err6zlKYKyEbV768jWw3p/MTle6SaqJlooMAZU68puwOmvfVZu82I7RkT/BwSqlfesMmhibJ147627gJFp5LJ3IiQLHgAmB7/qGkpNaHqy9XHckXRvD5g57Qc63LhuGhqvdeWq74pprvaJwZqY5Dn+/Xc4gJ6QAEa3ZLmHPWptVD1tmE5zZMotOLXI7KgoAO1aMvt3ocH/E4plrZydYPlh+0gdlFxQ=",
+  "URL": "https://github.com/mvv/data-serializer",
+  "LICENSE": "BSD",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1593416813",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "ghc-libs",
+    "haskell-cereal",
+    "haskell-data-endian",
+    "haskell-parsers",
+    "haskell-split"
+  ]
+}

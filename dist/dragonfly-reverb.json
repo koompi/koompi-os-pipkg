@@ -1,0 +1,27 @@
+{
+  "FILENAME": "dragonfly-reverb-3.2.0-1-x86_64.pkg.tar.zst",
+  "NAME": "dragonfly-reverb",
+  "BASE": "dragonfly-reverb",
+  "VERSION": "3.2.0-1",
+  "DESC": "A concert hall reverb and a room reverb",
+  "CSIZE": "958939",
+  "ISIZE": "28000863",
+  "MD5SUM": "b5c4c09b8434a7d8b524e6db81e50290",
+  "SHA256SUM": "74b62546f32876e5c2074911bffd86601256eaa64ec07ef53c1de7d15a9ceffc",
+  "PGPSIG": "iHUEABYIAB0WIQTH54SUZv4jWDQ1iDdyWHNLQcMVSQUCXvxJKgAKCRByWHNLQcMVSYUJAQD/HIHg/7xLHmHym0JvafNVJJZNcmZ6htqbVZ0KtOZdBwD/ey+55AHciZvo9ZSJgFzTk5AQazZifL2yKNFTCFbMDQc=",
+  "URL": "https://michaelwillis.github.io/dragonfly-reverb/",
+  "LICENSE": "GPL3",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1593591029",
+  "PACKAGER": "David Runge <dvzrv@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "gcc-libs",
+    "glibc",
+    "libglvnd",
+    "libx11",
+    "libfreeverb3.so=3-64"
+  ]
+}

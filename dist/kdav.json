@@ -1,0 +1,24 @@
+{
+  "FILENAME": "kdav-1:5.72.0-1-x86_64.pkg.tar.zst",
+  "NAME": "kdav",
+  "BASE": "kdav",
+  "VERSION": "1:5.72.0-1",
+  "DESC": "A DAV protocol implemention with KJobs",
+  "CSIZE": "412491",
+  "ISIZE": "908806",
+  "MD5SUM": "1fd3b425753973544456b609efe1947c",
+  "SHA256SUM": "0f9d35599adda333c9def0ca05714b852da53347efb1b22d0758c83d80de3038",
+  "PGPSIG": "iQEzBAABCAAdFiEEFRnVq6Zb9vwrc8dWek52CV2KUuQFAl8JYaUACgkQek52CV2KUuRIxwf+PIv9HA1Hs2B7q+AUiF798NB1p7TXtZmvAhF3Ira5acXCk8GBTDFfE6UJ2QNwlLFn1r3FUp6ceysVSRN/6Ulnz+woEJOPICB75MQqmQkJ5PwoDil5Fsmbo3Mn1YjLQ41gmlLsOpKwA+zcuH4gakdCpUMIh6IoRU3Tiiif2K2ecq0TS+9K8wDeJJPLmqNFuHc/ozwbBTMTAwnH7VwW0nbWzWbaYZ75ZcCjkX179RHMHLPmaggc9s/nVuIN00jy32UHV/P+qDrtpRqEazrti7vbctpw9UB1YHlRscrbpyTezFq56867b6XVqF09DD2nRNprBAjzkeoX7aeUbrIFs4zbgg==",
+  "URL": "https://community.kde.org/Frameworks",
+  "LICENSE": "LGPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1594304919",
+  "PACKAGER": "Antonio Rojas <arojas@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "kio",
+    "qt5-xmlpatterns"
+  ]
+}

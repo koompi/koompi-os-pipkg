@@ -1,0 +1,24 @@
+{
+  "FILENAME": "translate-shell-0.9.6.11-2-any.pkg.tar.zst",
+  "NAME": "translate-shell",
+  "BASE": "translate-shell",
+  "VERSION": "0.9.6.11-2",
+  "DESC": "A command-line interface and interactive shell for Google Translate",
+  "CSIZE": "44137",
+  "ISIZE": "201601",
+  "MD5SUM": "d91cea6fee7068b987fd899f9b3fb0bc",
+  "SHA256SUM": "8bce6a365952df31a0a7582e24723fa9165f305ece6fbbe15a42000a4d0a1ae4",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl8EunoACgkQeGxj8zDXy5IrPQ//Q5l5Zkz6ywuQhArACARN3IQtXHP3xl+w3G0ZaRRJZj8l9iIDC1SIh/VkZJ/XjloGmuCWgTitJYD8UyDsWYRXrMZZkR4n4kUOWzSGAMJBFAjaMExyTKWjPSWKn9djp6i6k/aHtW4s7ZTgKUSq7ozkHbmzn42MnxMEmiX9RpTKxm0+0sWwv7WtMw7Lm8Xa679cuY/7irOewE2f28nQ16HZCVsYjMz7SLZN2xgdM6d1lOXyYrUzx/U936OHPpnYAJTDvyc/5uGLGAGwmUTcjrG6H5SBz3HlGU2VbNHods4p3OLKXdKkCgPuLUVl9BdCAmNRK/vkHCzc0M/figVEmlAmPX9J14X5Pde1rR6S92kc1Xi8goe4o6XFQGRE34PkOR0RNrggGTcY/FagzT6v0rIaeEzqSmmhKTxru3h1ZuDQvfgKtjZRTmQ06aBODS39YhoKplvLTuRzawJPuSs7eFwICQlRVSK628HA6GiNmkzB2JzLmTUwwY9RuBTelVT4/atbolYVQWinWr/M0lBMQNi7JHKMXvADLTICgv/7EthIOsEKn/ZPSN7xwQXZWctpuIVpEkeWIvUga6rtGP0/47+VzepVIw+NOP6EpYlB3s3tKyrta+Ry8B5CEOpt44ws00kNLvTt5tUth2EDneyoO3sryh+ar3UMYH62giJ8Mq73+hA=",
+  "URL": "https://www.soimort.org/translate-shell/",
+  "LICENSE": "custom:PublicDomain",
+  "ARCH": "any",
+  "BUILDDATE": "1594145342",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "bash",
+    "gawk"
+  ]
+}

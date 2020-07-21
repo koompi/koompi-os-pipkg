@@ -1,0 +1,23 @@
+{
+  "FILENAME": "perl-perl4-corelibs-0.004-6-any.pkg.tar.zst",
+  "NAME": "perl-perl4-corelibs",
+  "BASE": "perl-perl4-corelibs",
+  "VERSION": "0.004-6",
+  "DESC": "Libraries historically supplied with Perl 4",
+  "CSIZE": "40242",
+  "ISIZE": "105387",
+  "MD5SUM": "e36b5cfb6cdf7b78e4387e97405bd239",
+  "SHA256SUM": "9f6c040cf55201f52b6ab3f6705fe4c8f62a10a8c08ac0b5025a3395463e3a22",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl7vhWYACgkQeGxj8zDXy5ItoxAArgKw4FVFWCIBrUYS1JFmZH9GB5KlC2OspCtpMM+gzAhRMZE0hZE3Kg7rFheixqopRBOsDsnPB4fPnY1Q1L9qnOInq/HW+yqNl4ODoDuFZ+rOtJW3ALIT4P3OYASi6t40yfzvlq2aJv0U0QC3L8K+UNC3CfS0aNz+SJUr7frBBsyPVUMBBEAC1KqfAn6rld4B0KiAbFpZxlthzilomlxvBXm15vF3kbqZW5QJgYaDyJHIXT8xS9+uLN6oiPzTHVjIjPzvyTStGt+bcgxfjqaH3lIgpQ8A6Z0PoJlWnmnHGoE9TUbK4BuSRxdvwxBuvfAZxRNoqsoctC2KukrTgqDDMkFaL63P82hcu3yv+etBrDkZxmYoHyN6ZUf0zvgjRLLRTrzszjFpJPTgLkdl0EqBtYeYhuZBh5ALtXu8ZDx5ehmlpB+uRQo5UmCPeCeBNJKslgz26qeH0yewvzRY4nnzbpHlyR+2LHXp90IVhD5DpploAXXWhUE3BMVcUtcIN+QgN9/xTcJ4B3vwYvK142lJ4GDzL3oJ7VZJAXPtQwpLWj6qmfm9uQTAznmasxqDO77y0+oLI68ozc2CI/XM2KKXR9B+7Z3HQqbxZ2qVXDDB0by1r7cDvv5uCyLd+/pW8f1+B1iNzLB7xtmdhg+SaOzVJpUqbTgfxOhPeQfeBi3y0D8=",
+  "URL": "https://metacpan.org/release/Perl4-CoreLibs",
+  "LICENSE": "PerlArtistic",
+  "ARCH": "any",
+  "BUILDDATE": "1592755489",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "perl"
+  ]
+}

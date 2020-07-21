@@ -1,0 +1,25 @@
+{
+  "FILENAME": "zabbix-frontend-php-5.0.1-1-x86_64.pkg.tar.zst",
+  "NAME": "zabbix-frontend-php",
+  "BASE": "zabbix",
+  "VERSION": "5.0.1-1",
+  "DESC": "PHP frontend for Zabbix",
+  "CSIZE": "3535198",
+  "ISIZE": "42905712",
+  "MD5SUM": "6b0bdfc5ac031f87fb1e41c01093dc2c",
+  "SHA256SUM": "da114aef75d64f3822f9d206c12df04671c66cdace3a71dbf21a7c514d723c87",
+  "PGPSIG": "iQIzBAABCgAdFiEEz6avFeXHQUn8HYwIbRZVwUzhwT4FAl7iAzwACgkQbRZVwUzhwT7Y5BAArlAyf5JXkHRK0RN+C3cSIP+VRA1Vvpo2p/F/ij27RDbBpl7iX33bUY6B9gy3xfufoOmAb8pwMerc8oP/QMaqmC1NCRqvGsmu7E1AxIkfnUiHyFsHWppVAkldO3KJq4Q+93MmU5O7RojM7ImNZ5GLVyMP4oR2MAg8IZ8un2ZDP36qCd2sCrmS++R3DkPg/tjZtk2UA3MRNEhYLwZbKixEFFZE4DLpVw+R5kDeckOJvfFjWIE6ySNH5KazWb+DpsfKDUvpjfGsLB3qZUM1okM2WhRmaMbRodaTl3w2456ICBjV5TJJEIoezWvNMcYYEBj6i7UlPXjlViIdfFpL8Ucf35+S1xzB18i1a46WRv0XxusZOKU1cyCONqfkcmXLhhkv5SEsYzV4Ww9YX3J4gJIMMqtDuEbK5dLqHQEQpecGHbevwDFPCKbQr4cp3PyTPmbNiQugeQtsb075dUGUrunik0rjLNt3CrdEZ0XKd9A1L1j9hq4Hc3CgujgxNhK94iV+y5aAg8QBlEDjIN421Bb06XuhOTj/JunzQpY3OcLor6IKQYsVozkddnI84UBajEHpluZjrO1RZ/oWaHb3FytsSf1a3k5V6aTf6DABdDnbYGkbsPEB0fHJOJ4qxvxRcSfA73hr76xgS+KmAqWZVTFar5lVyhlw2z5WQQSXFP3MUlA=",
+  "URL": "https://www.zabbix.com/",
+  "LICENSE": "GPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1591868945",
+  "PACKAGER": "Florian Pritz <bluewind@xinu.at>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "zabbix-server",
+    "php",
+    "php-gd"
+  ]
+}

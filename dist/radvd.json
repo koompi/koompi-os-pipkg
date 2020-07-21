@@ -1,0 +1,23 @@
+{
+  "FILENAME": "radvd-2.18-2-x86_64.pkg.tar.zst",
+  "NAME": "radvd",
+  "BASE": "radvd",
+  "VERSION": "2.18-2",
+  "DESC": "IPv6 Router Advertisement Daemon",
+  "CSIZE": "61770",
+  "ISIZE": "144736",
+  "MD5SUM": "24f62a2248a6b4fb6738339e2b2d4377",
+  "SHA256SUM": "c6342ae5a01a6e93bdc98eb544bb3f27d4e57a3e5821e1eb0b7c20a288b6b73b",
+  "PGPSIG": "iQEzBAABCAAdFiEEhs/8qRjPOvRxR1iAUeixSKmZnDQFAl8E0NEACgkQUeixSKmZnDRHMQf/eTk+QqDn/+QAqhyrtisFMYVM98N0LHW4CrhA5Ul3pBFzZsm2HvPxxzc6QN3tJwvRTlBJif+vcDuz/XgHsEnnMfRzl/ARQi6JY/zAXYUiGE7AnQGc95svA7GnICiURDf0j2E6t6m0rqmBxi3kRiAfovqdxlNqpLy/UpvdkyrIWWbvk5iYFOBw+yA0zYleiM1GRSj39x/d1NTJUN/pk9c4PN5hBMwvXeZGFn4cyoe6pAccuYz1mOPY1H+tpRG//uOPI7ZAqU/E3bBuF4WgreHU71hy0QmueiXZRpfLguDhGjITj3EkUGG8LmYeYGqiLDWKudyo07GgsO0UW/FuB4zICQ==",
+  "URL": "http://www.litech.org/radvd/",
+  "LICENSE": "custom",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1594151099",
+  "PACKAGER": "Evangelos Foutras <foutrelis@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "glibc"
+  ]
+}

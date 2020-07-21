@@ -1,0 +1,23 @@
+{
+  "FILENAME": "noto-fonts-20190926-4-any.pkg.tar.zst",
+  "NAME": "noto-fonts",
+  "BASE": "noto-fonts",
+  "VERSION": "20190926-4",
+  "DESC": "Google Noto TTF fonts",
+  "CSIZE": "23195011",
+  "ISIZE": "95622929",
+  "MD5SUM": "3090328289224ce3799d6303d2e4f473",
+  "SHA256SUM": "44ea1c5fb78513dcdbf40220142e322315502de45020f93e33229d607af9e08e",
+  "PGPSIG": "iQEzBAABCAAdFiEEFRnVq6Zb9vwrc8dWek52CV2KUuQFAl4aFo4ACgkQek52CV2KUuTimgf8DKc+NKD4PVDZiejHN/cuQT6YXdJ828cGbLEw/o6P7tQy5Kuqmva0TNyuCUw3mN5/Z/Z40sydS5eogW5w2wpAfbWgQK5zXNgV2KL3Kff3AGBx26BLmTIVkdS1dO5MsY0PEwmRDQWa4cAD5J0vK7oIjudJ7Ovz0zsoZl23cncakZarMGmHyqox/vJ+Uh2C/Sxs3qfi9UMKOVRsgtb95jzyyBR52png+YRdxzqwlBITqarPXEjsN87S72+N5+wVuFwss4qphlWY54Ssp6V9dUfnTHikNjE2PjobfNTNn2hpEl2EAEXuKWsZeSF33SKesnbUOUMuiHjzaFWuwy8XyPVUxw==",
+  "URL": "https://www.google.com/get/noto/",
+  "LICENSE": "custom:SIL",
+  "ARCH": "any",
+  "BUILDDATE": "1578767568",
+  "PACKAGER": "Antonio Rojas <arojas@archlinux.org>",
+  "PROVIDES": [
+    "ttf-font"
+  ],
+  "DEPENDS": [
+    ""
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "FILENAME": "compiler-rt-10.0.0-1-x86_64.pkg.tar.zst",
+  "NAME": "compiler-rt",
+  "BASE": "compiler-rt",
+  "VERSION": "10.0.0-1",
+  "DESC": "Compiler runtime libraries for clang",
+  "CSIZE": "2615920",
+  "ISIZE": "31466706",
+  "MD5SUM": "fbdcf9ed4972393075d00e5c5721ca99",
+  "SHA256SUM": "ba6656d75fb458f3cb0c5f29e6c311c6d1674337e5869f3a119a385a83fdbb8f",
+  "PGPSIG": "iQEzBAABCAAdFiEEhs/8qRjPOvRxR1iAUeixSKmZnDQFAl6RUhEACgkQUeixSKmZnDSytgf+M67khd2lNRL0sLUGfTvw5/O10KCqrb0XXJw7wxBih3hKiTLaUnuFdxfz6dsBfAgFz4jgDboJqdeC2bmTLkKFzgsxmOCiFQYK2zFIYo1K7fM1QUQIdZAlbBgxCNzMNLcvL86yTBkc0UYi71Nt22IbPjnnTRiSQWbiGpoieDmdoxG4PCkLf9j/eoY8t5xGaRXivb30iQII4s7qoPiSjT8TEcHl+gZfRUaadsZLZ35S16v4LKC0BYcfPofA1DWMgKIxxSiM5XJ2lvB3t/KbRMRh+JWpDF+VWMYnlin7nIDdjb9jHPX1AVvIc48mxD3II85usLy5rMwxBnI8nr6DkDM9NA==",
+  "URL": "https://compiler-rt.llvm.org/",
+  "LICENSE": "custom:Apache 2.0 with LLVM Exception",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1586581894",
+  "PACKAGER": "Evangelos Foutras <evangelos@foutrelis.com>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "gcc-libs"
+  ]
+}

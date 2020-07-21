@@ -1,0 +1,26 @@
+{
+  "FILENAME": "scummvm-tools-2.1.0-2-x86_64.pkg.tar.zst",
+  "NAME": "scummvm-tools",
+  "BASE": "scummvm-tools",
+  "VERSION": "2.1.0-2",
+  "DESC": "A set of tools that enable you to convert, compress and decode game datafiles for ScummVM",
+  "CSIZE": "790553",
+  "ISIZE": "3594142",
+  "MD5SUM": "9855b7f23ca2bee98302272b59bd594c",
+  "SHA256SUM": "6fd934b78e3cd9b59e734b176fe9bd54730a5e6cc430911ab819ccd09499a64d",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl8Em4QACgkQeGxj8zDXy5KB/A/+L5wB3bInNIhma7VNYcTP9P+q1g/6hYck5ve3iQQSqWBsyoa2BM+D2jHUuHkwFrwk3lmlHlbjpGu9fimSiLUB4F/9jzvwId0nOgsMNQQEuDStN7X7iQkRmiMV2ax1gZRQYGc2WM6YfzyHw09BmSQ4dx4+ynsedgt9Uh+Od8FpgxYoGwD8T2km7/aSIx9CakmTRT3lvX2p/Y+J8VnR8OGjguudH1nT6EgTMOHecHQbmErlEpr0Np/7YWuWwm/Q/BopSxy6R/tIlqsgX+nIdOq9qD7lMbodY4vtO3N1X525i+Gnr8SURlKOEdruPYCfbO/OPmntMYiKxMjub9ERTLbaqfcAg1vNU5p9YCkPiFdrKjx6ipvVBTS4B43hHN2DG/xdiIqp5qbEA63BxUy42GBDQzZM+gWA5hgRPTEEx1Gln+6h71V2XtiAYDMWUXmh/gmSCbTwa1eMtaoVRFpIoteiG7jliuvEu58AtaYcmDk/1souJ4sSRMnkbJXiUrepORAjqBTYxUzuXViLQn3c3JLhAP5E9EF1E9YwuhUrOQhoJYsBeF9sssdrg2TOwDzNanFsUMYfIKUTPcSuSD8IAeCtBiF/KbGTqUJmHbYWqDvxMkaOQPVBN4LSpnaw5phuzd0ny67SFNKu0yi5J7yzpkBwvJ1KNLxklCN//20BT/z6BAw=",
+  "URL": "http://www.scummvm.org/",
+  "LICENSE": "GPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1594137353",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "libpng",
+    "wxgtk3",
+    "flac",
+    "libvorbis"
+  ]
+}

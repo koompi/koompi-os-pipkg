@@ -1,0 +1,30 @@
+{
+  "FILENAME": "xorg-server-xvfb-1.20.8-2-x86_64.pkg.tar.zst",
+  "NAME": "xorg-server-xvfb",
+  "BASE": "xorg-server",
+  "VERSION": "1.20.8-2",
+  "DESC": "Virtual framebuffer X server",
+  "CSIZE": "757666",
+  "ISIZE": "1867347",
+  "MD5SUM": "2e984184ee7a5c566dbed5e37e048651",
+  "SHA256SUM": "b7d6918f8dd5958759d03583701a824a1433f223aaff011601971e9dbbaca63c",
+  "PGPSIG": "iQEzBAABCAAdFiEEhs/8qRjPOvRxR1iAUeixSKmZnDQFAl6w9VIACgkQUeixSKmZnDQySgf/QjRDz/vRe2fVvap2X1iYGpiJEwoApNwizcItgztVIS959cOAQF930G859sjx1Qzaaw1PHK4m2VHdPXG7TY5QpTk5R+HcntTWra6O+7+zDOHCu+ho+vz1D3CET+K0o3x0THmJpgAFV6L530oolHcQZShNDYxON29I1TzYHwfhtZWUJEfP1Wza3+RKrdh1gTubTRYj+bvZxwtKb2ubO0F0v3J5ncX4UobRVgUkUVtrPSgoDGGWxH4tD4rsRuYj3WjLPE9e5xER5vGdK2dxm6bUJXqE9UyYOZ6Oz+D8F19Jm3JZi0xJ2FGcQA7Z7p+hYWdJCEHRmNTeQPlgulqkOrVjzA==",
+  "URL": "https://xorg.freedesktop.org",
+  "LICENSE": "custom",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1588655297",
+  "PACKAGER": "Evangelos Foutras <evangelos@foutrelis.com>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "libxfont2",
+    "libunwind",
+    "pixman",
+    "xorg-server-common",
+    "xorg-xauth",
+    "libgl",
+    "nettle",
+    "libtirpc"
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "FILENAME": "mkvtoolnix-cli-47.0.0-1-x86_64.pkg.tar.zst",
+  "NAME": "mkvtoolnix-cli",
+  "BASE": "mkvtoolnix",
+  "VERSION": "47.0.0-1",
+  "DESC": "Set of tools to create, edit and inspect Matroska files",
+  "CSIZE": "3775265",
+  "ISIZE": "19203062",
+  "MD5SUM": "030d28693b5c33897f95ce184d57b718",
+  "SHA256SUM": "d0f2c306ef58a8ee6ca2c2e08381254c49f9fa29c4be5a8f8117b21d10a6fe5e",
+  "PGPSIG": "iQEzBAABCAAdFiEElDfdOBWnqRaePTlGr/XZUJi8b/UFAl7S3KYACgkQr/XZUJi8b/UEggf7Bi7ftxBX1+J5XvI50lordnbJhEQ4mkRFWSXIkwusaBi9cDpDkSORP+ydsFOeCOaN29LJoJ20Y/JwoTZuZatv9pVtuzKVxnooK+GQbnteHsDBQuGfoxeAXzsMchMAIQuVRrUP7ybzz+EEsJYpQVxxJG3DJVwCkv11THLsUbHgfJYyB3ToX0acDjCgPKMPb8szMHLQftcT7niP8fQpxDXMcCzs75auixByxCQ/+gjkQMUJ0BJso+tuUAzDdV4RIBs4aBYsw2BLzCoEHuQ3BDeR7DCru9ettSli8U7y+a3q1c54KRZ2J5mOtj4mJ7AIn3/MVNFrthNt2WxfjayIlU6m8Q==",
+  "URL": "https://www.bunkus.org/videotools/mkvtoolnix/",
+  "LICENSE": "GPL2",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1590877168",
+  "PACKAGER": "Maxime Gauduin <alucryd@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "boost-libs",
+    "file",
+    "flac",
+    "libogg",
+    "zlib",
+    "libebml.so=4-64",
+    "libfmt.so=6-64",
+    "libmatroska.so=6-64",
+    "libvorbis.so=0-64"
+  ]
+}

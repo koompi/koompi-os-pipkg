@@ -1,0 +1,25 @@
+{
+  "FILENAME": "haskell-crypto-pubkey-types-0.4.3-137-x86_64.pkg.tar.zst",
+  "NAME": "haskell-crypto-pubkey-types",
+  "BASE": "haskell-crypto-pubkey-types",
+  "VERSION": "0.4.3-137",
+  "DESC": "Generic cryptography Public keys algorithm types",
+  "CSIZE": "277074",
+  "ISIZE": "1867449",
+  "MD5SUM": "af45b24e21615dc2654a382d02ecff75",
+  "SHA256SUM": "f1728a9db149e5f5faa0010bf179dcdfabc3b1a4c70a967488de645373a61c63",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl75Gn4ACgkQeGxj8zDXy5LoQw/9E+w/dwi9C1gyZhMaQiKu5ljXd/6JZKs1jbNYoBezjAtADKwFH4PAcLg+YVwyloKhCMIKyzUrB6ZN/e3S/Qrh6impVvMGDmS3UajQ4hm1NE1kuoLnnbnq/oHCatFU0648DdTjb+/50bVDe9f5mywVBN0G7HDD4DmWCEC7vXz7sZZQCppzZ1pNVuVORmalyEcUyJWIHjDlFZKa+ykvGjAW0Y+gm5lQFmpaEY4+F+citeYHYvCsmPH31lKo5fHEoKEbDskFKYi8ijNxvr8KzhUqDPegKsROZ89mCGxFthWnV+dSdTHSWv8dFRoGm9QDcsvewvPKMVyWeGSPQ6RWXxCFcBxwN0vZU3ATju1i/8HiQ546tnuH5ht3hwokH2gV63NC6LSgWr0NqHfAGp4fZuVHmBs+sjPfYYWYMTb4j167gt5HYZ02Tf3EakzCg9arHuxZfrQSO5pKefyhBDm5W5KmrvUXFvL+9swBdPd2Qs6E+tS/01gK8BYkN0z5HkGn2VzH6VjEZeDBkHl1JK5hOBDss4vZ4M68Xhn3YsAcBafKSGEYSgmTSRQWILTpu0URCyd6dOLITdM8yNbRPxQ8u7/7x1CI8Rs6pQlf3x0PtES7+40uX0cYQDSr2aQjhU17fMYkD+DmMBIMhQThopdWudYEnatjCg0BS+JbEBr1F2yCrl0=",
+  "URL": "https://github.com/vincenthz/hs-crypto-pubkey-types",
+  "LICENSE": "BSD",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1593383518",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "ghc-libs",
+    "haskell-asn1-encoding",
+    "haskell-asn1-types"
+  ]
+}

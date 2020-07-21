@@ -1,0 +1,27 @@
+{
+  "FILENAME": "lib32-libshout-2.4.3-1-x86_64.pkg.tar.xz",
+  "NAME": "lib32-libshout",
+  "BASE": "lib32-libshout",
+  "VERSION": "2.4.3-1",
+  "DESC": "Library for accessing a shoutcast/icecast server (32 bit)",
+  "CSIZE": "48872",
+  "ISIZE": "128000",
+  "MD5SUM": "68bc587ccea84d59a2ca7f80a65ebc0c",
+  "SHA256SUM": "55cdc902a45d3f91e429979b1a5fb576d0e8c5ad986db3a2db3ddb31cce83112",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl0Qd1YACgkQeGxj8zDXy5Ki7w//d60woezO0CmBFscCKyC/lCRP8uvD5AgDM22VKo7GePMpKee5SUvnigPTHu5ZwTYWAkbvlcUaIe3n69HHhh6sfnLs3IrIVsOOya2/Ga7udJvSPrOEj/D/r8wdWX7nQA+SJi4+w8ROD3DY4AREZcz+kP1ropnvr/xQqous4eQwX8FY02lHBc6QGCc2aenPCezliI2pmKuLRvVLcAHarh30lDQnF4xIavSy8xCHu8yPE9rs46lTseB+wU/dzsRRDVGYUiBkqPTEXiTyn+AkPGsXX85Dm0/dZBuImDFsaCw5+BK+0ovXHGycT6gBAyn88twNUBxV1V+BbnhZuFRAqQ3UYRRkCUh+p1dnF0MKvygAp7fp1G6OoLfBKlPRC7bKqxuZhaUggZnV53WyPP5Dmyor/L28XJtxDKlUg7ldeyQPJwYQleSWAftOc9rZRH2e1hjftrHlveEnQ4be61y9xCKkvkhPZ112/VfHBaagFlEFA9FAaiP0Si4H79+pUX187yDdanLRvyECZPq0DxA0KakgmjmnoER7JzXVlr7zA7+/wszvTVt/AqenHjRQL2EyYCFPTnP6Zl+TCjku8eSpZ/bfj0A0IgBAgi0FSl+FOkC3E7sZr0WD4nr3qrD9zmQ15JiqfguV0QuK+dsS8VPZrRplawUYZmtisZslr/6/OB7pgWY=",
+  "URL": "http://www.icecast.org/",
+  "LICENSE": "LGPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1561360180",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "lib32-libvorbis",
+    "lib32-libtheora",
+    "lib32-speex",
+    "lib32-openssl",
+    "libshout"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "FILENAME": "python2-scandir-1.10.0-3-x86_64.pkg.tar.zst",
+  "NAME": "python2-scandir",
+  "BASE": "python2-scandir",
+  "VERSION": "1.10.0-3",
+  "DESC": "A better directory iterator and faster os.walk()",
+  "CSIZE": "24894",
+  "ISIZE": "99372",
+  "MD5SUM": "b6c632f81dd470944dfa2ec47027e16c",
+  "SHA256SUM": "0aba7b3f6820a0633aab38ed5d9863395def868b3028456e1c18e96a18387679",
+  "PGPSIG": "iQEzBAABCAAdFiEEFRnVq6Zb9vwrc8dWek52CV2KUuQFAl6hWPcACgkQek52CV2KUuRm4Qf/cJgLlhGD34fiLUrHEeu/YnakDkF1NsB61Rwli45RBPLbuHb5ycxLEcAhU4+G6yJe/JpY+G1wDXDKG1jxpwtcSYhzvGjYiq7C+1BP0dMZxjq20GXyxTO3WUWinNUo8isl+1DWhwkN5fLA65PojFAtDpbj0cyoJIeX07JQUbgxhuZqLxvRCcfYCOgVKHMxM7lzyyKCkALHGJWaGGl3Z+s9PpUy4nvLBQ0BBXJKCJSXQSnL7cW3WZKsYnLBRPTEpcvelaBE+elkxSx6YWIy+tZ8lpysXbm3pSgbsEqM/43PXWYfV/MU4D5KYqy9asbJjqh5u83VQaYItp+rNPLS9qfVEA==",
+  "URL": "https://github.com/benhoyt/scandir",
+  "LICENSE": "BSD",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1587632303",
+  "PACKAGER": "Antonio Rojas <arojas@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "python2"
+  ]
+}

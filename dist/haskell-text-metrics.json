@@ -1,0 +1,24 @@
+{
+  "FILENAME": "haskell-text-metrics-0.3.0-58-x86_64.pkg.tar.zst",
+  "NAME": "haskell-text-metrics",
+  "BASE": "haskell-text-metrics",
+  "VERSION": "0.3.0-58",
+  "DESC": "Calculate various string metrics efficiently",
+  "CSIZE": "52350",
+  "ISIZE": "287888",
+  "MD5SUM": "49a4220ab507da2e3721a080ecffcf5b",
+  "SHA256SUM": "c1d8acd6db3ad7e3cce3a0af1c1c058e86200adba7d7871b4e2216f59d80c6a7",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl75JkIACgkQeGxj8zDXy5JfTg/+Nwabs1mp3JWKTx/cxn73ZldE+WuHd6uEMOxyw9FpVCZ19oWHxp0Ei5z9LetIV267QP3CTttdCxkrJ1xNHRMXv2rWVjmA56SxmJe0FAbTGFdI0ADl3asgHFshO4sQJRapIntJ35G655BYcIJD7T0vwy2hH21AYVI0UZbbvTSgOsO8ixqOOc2wdtN4eutMCmrHjkhZGhgweYcDCIo+jT4i5/eR+QxpV5ekmX+yZ+7XyrRmbWmMOKKPIIZLSqVyK3fC83k+SVJZNiIKxIu0WbKMM1H4CR39VP6WmSRcpCc4RMgpyINGrHfWFbnt1PkZPlX1V1BSdOwI10U3HVfLlAgRkoyQNzqEZe7ZMc6Nn0WjtEjzGldwFc4Kcc9e+QSXKSMcgBhm/+fcHF9ElFNxXWMHJEe73rVpr3IVlHmCFmw7yon4ps3jGQXxbVHLlG9Fi+86DNswbPTX4xyOzv8OhVUU4ovvLDwe/mrWjgJ7nn33jnr88vOj2SdpiwFuqz/4pYrDSb/kPcOH59M70cSlopExAndcbYGVzz1+6+wa2wd0uCecUVNipoCDExEMNJo29XW6VqWy2f29wIA+EKrLchnPxUaiNz4qbMRucXVJFrxvEWMTn5e+jroyBX8gbto1LeUR1sgYAdbojSs1rM4o4Nra9sC111UpOo2+Xy61yBfYzdU=",
+  "URL": "https://github.com/mrkkrp/text-metrics",
+  "LICENSE": "BSD",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1593386530",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "ghc-libs",
+    "haskell-vector"
+  ]
+}

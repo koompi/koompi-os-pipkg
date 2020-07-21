@@ -1,0 +1,23 @@
+{
+  "FILENAME": "perl-scalar-list-utils-1.55-2-x86_64.pkg.tar.zst",
+  "NAME": "perl-scalar-list-utils",
+  "BASE": "perl-scalar-list-utils",
+  "VERSION": "1.55-2",
+  "DESC": "A selection of general-utility list subroutines",
+  "CSIZE": "54322",
+  "ISIZE": "119248",
+  "MD5SUM": "7d07058c6e1b9a35db080223e66c3b61",
+  "SHA256SUM": "3c39b31d2baa5ef69717c8e1f840ffe7d7df57dac746b52aa2cf000f21778b23",
+  "PGPSIG": "iQEzBAABCAAdFiEEhs/8qRjPOvRxR1iAUeixSKmZnDQFAl7vNSYACgkQUeixSKmZnDSWoQgAuFfqGVaEd0enhhX93XnJ71Fkwd6BUAeL2A1AU/oQEiUdu8QKCp79S4wZzJJvwz2DHMJHJTcZFZhAQ2hmoxwlAN+maLQSabwyp6VCcoU0bwcChCNdMFytkFVvhDDB3KW2fd/UhuFt200NTzilaFcelWIw75pbtNCB2oV4qs7r7trW54kAFI0Z55Ig5rf0H9RwAM9fik8bXy26r9mUI+xdzJW85QSfaq4Cwyc3FnLtngg/nxD9PVbqqegUvgYRP2NCKk+UGAvPQTj1garrRbW+anNbN9Kt/6p6T8VWPSts41hdD0Yf8ps678oDZrkbJhN/bc5ALSFNunzMXR44fokzlg==",
+  "URL": "https://metacpan.org/release/Scalar-List-Utils",
+  "LICENSE": "PerlArtistic",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1592734995",
+  "PACKAGER": "Evangelos Foutras <foutrelis@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "perl"
+  ]
+}

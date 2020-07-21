@@ -1,0 +1,24 @@
+{
+  "FILENAME": "perl-moox-late-0.015-9-any.pkg.tar.zst",
+  "NAME": "perl-moox-late",
+  "BASE": "perl-moox-late",
+  "VERSION": "0.015-9",
+  "DESC": "Easily translate Moose code to Moo",
+  "CSIZE": "10276",
+  "ISIZE": "13084",
+  "MD5SUM": "c836fcb3be71534ed7b504b50e8af23a",
+  "SHA256SUM": "4fa51d11a5df9defc2230bef658f2139c50048b4fd2c9e7c6c44324f0a0a2c89",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl7vfhoACgkQeGxj8zDXy5IaVRAAtpnWv4W2Rb82AvTeXnaWUXL4XHPONLEvm3CJG7g7yaP/2WjB0zep8oDXeAShq2sv61OIxXHpxDgR4BXhz5l2TGzyn7XEkA+F/dMCJGK1wh39D0iuLT0YFtw0WMxyocvnGCpWaPNq8rdhQon7SPxXT9m0Hq1+GhtJwnLoSrbajfRYcdR62zfp8Kw4zWUgQjvj/sUbyhwEzGn+hHsT6mLNd91XSsYSytTkJqyjvlEfzWkt9oiOr0bWcGa7I113jKUPSg1ts6u/Vxq8SvruMHniE4K2Ft52mUTBX7y6nsw2Mn0xEPPFcClBwIPWWXN9OekAHYAH6yGZq/nI4zXFjYSGhdD+/JyCb1ERNYmu2BfruS+/yC8ZBkwhklySHtUB7t/ZHQU9s8+uzLi9MgwI25ciYO+BzGAwkZjUjyQ0NIotMXzicrBSNPUzu707/mTBec1ppauKXmSB5a5Zmz+2khWqScC7E0dXutHXfkAou0hwFP0TgQJXvyykGhSoHfVcC09BOsj7Enk6EWlzvSJzjKtaEMGiKDjtbRUdy2WpUl+vk9onC9Fb+G9eVa4q4L1++6ImSXeTSPIiemXgTxROOgXtrNRx+ZIJKULIOj1k5iKCytW5l1JQXf4Q51tdXrzk8CveIkmLNuRYNBFqsmiEM6Kv1O4KQtSCkAkbL9V9QH8c8Mg=",
+  "URL": "https://metacpan.org/release/MooX-late",
+  "LICENSE": "PerlArtistic",
+  "ARCH": "any",
+  "BUILDDATE": "1592753454",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "perl-moo",
+    "perl-type-tiny"
+  ]
+}

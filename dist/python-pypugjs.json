@@ -1,0 +1,25 @@
+{
+  "FILENAME": "python-pypugjs-5.9.4-1-any.pkg.tar.zst",
+  "NAME": "python-pypugjs",
+  "BASE": "python-pypugjs",
+  "VERSION": "5.9.4-1",
+  "DESC": "PugJS syntax adapter for Django, Jinja2 and Mako templates",
+  "CSIZE": "71391",
+  "ISIZE": "322703",
+  "MD5SUM": "d3776554737adb71a6e44514d77c706b",
+  "SHA256SUM": "37a6a753627b0c14f81e7c6846e35c73ced1e52644b7e0bdc38f9b485a4ffbd0",
+  "PGPSIG": "iHUEABEIAB0WIQSYX6G7jYlWZgHv/xEEU6bKI8VjFQUCXtH/ugAKCRAEU6bKI8VjFWuXAQDMEV4BPhinhBTN1Xemcqq89hJb7Hm/fKPPiR/Kicw4vAD+OOUJUmA9e4rwe7xx53M7ws65G5hejNj93K7K9cG3KEA=",
+  "URL": "https://github.com/kakulukia/pypugjs",
+  "LICENSE": "MIT",
+  "ARCH": "any",
+  "BUILDDATE": "1590820711",
+  "PACKAGER": "Chih-Hsuan Yen <yan12125@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "python",
+    "python-six",
+    "python-chardet"
+  ]
+}

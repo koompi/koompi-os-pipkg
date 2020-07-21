@@ -1,0 +1,24 @@
+{
+  "FILENAME": "innotop-1.11.4-5-any.pkg.tar.zst",
+  "NAME": "innotop",
+  "BASE": "innotop",
+  "VERSION": "1.11.4-5",
+  "DESC": "A powerful \"top\" clone for MySQL (MariaDB)",
+  "CSIZE": "133906",
+  "ISIZE": "489675",
+  "MD5SUM": "469442f3a0dedf70ad9c1323f470623e",
+  "SHA256SUM": "68d649e46e832cbc943a241df142ab6b8efc3b0be2345f11c0eb75551134eec7",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl7vhq4ACgkQeGxj8zDXy5LQzQ/+MPRH4LnbkG0nJDbbAVgOv+IMJ1qrIgvQ9jqqozG5lFAQnI/UtIQYazV9Z4ovyfrSezaZHMav4gn6l58RixnqkTDJGcVONZSd4IL5q/wDx+XPqs8gvOzaB2nqhLni8dp05T1FZ0G/opGMoC637FJ/D9oZk/eu6Qgv8OMAG6bFIYrDzn8xg67W+tiBVa+LVl/BAHGNKkfir0fQigViA+9slEgosa32Y/q76lPXVfFoGr+Nspr6jkB53zrX4WoGx2PJgjI0/nSW+JgHFpoNB+3xcZ2ZxsKeBcc5RIM1RwnOOp8Wg+79IG0WfCRzF2klzRwkC1q5tVGezftekbV7yrnerKI1chzAfhuMBAGt2YVN+aDSCOAHYTufippUGIjl6bdqrNR4vmaM3C4oRvRGu8h5TBbCfswKiOk/lMniiWp7eK/sdNpiynbjjAP+odixuPGlbT4wBC+NWONk5T2rE6YuxCftc3beAks3AGnGFffv41cfPxX7W2c1zUcBJH/fFScl8b0z/2eUd67omhruVCZB1PsER5mA47L5S3w1/ZpaMLSho5aun0+BJKXQ6fsfKGWTrrt0PiOLG01PcrBjIQ5U0yaBqGPS9SRmtb/T2I7yIiQUMK5UnKzuYZ5ajbh+0SHznc10rqFe43d7VMk1DOfI+MuBLNz5x5Fmwe01Pi+nV48=",
+  "URL": "https://github.com/innotop/innotop",
+  "LICENSE": "GPL2",
+  "ARCH": "any",
+  "BUILDDATE": "1592755811",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "perl-dbd-mysql",
+    "perl-term-readkey"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "FILENAME": "libretro-scummvm-93164-1-x86_64.pkg.tar.zst",
+  "NAME": "libretro-scummvm",
+  "BASE": "libretro-scummvm",
+  "VERSION": "93164-1",
+  "DESC": "ScummVM core",
+  "CSIZE": "17400400",
+  "ISIZE": "55075568",
+  "MD5SUM": "79364dc4722c60c58f8f245a80c66a01",
+  "SHA256SUM": "5c25e15435e0c92e36474ac03a5f9fa221faf46d041e4956b65b1cc12c947137",
+  "PGPSIG": "iQEzBAABCAAdFiEElDfdOBWnqRaePTlGr/XZUJi8b/UFAl5/vfMACgkQr/XZUJi8b/UgaAf+J3EBp2MIKc2IhyjIKcMqm8yAIPPYmgaLr/Jzt5YivdLls0YF7BeCp9SCDbs07ni1Lo7o44GND9GTCChw9LBOOWtS1t8EZSJ+Cs0PwnZ4TtWN5F+rQZ6nYM2mJqUcvxPZG6ow5LZKXxDCegeZh0ekgtuq/fi2cmeoXxMFkz9GN7Wcb6RbMlCsIwufI/+gpP/tpmW37kpXLym9tjFod0cagkuzaUpsdAdup02crk6wVaCXLVNK3QmZgGXg2ZnrMnj6D6mrqGBD0wEofaWjtjGBsdsuSk/Wt0IqZAXrBijXPUa2fSmJtTv3nGofesmDNjlHFh5OjYWRP6pUodudiYFDLw==",
+  "URL": "https://github.com/libretro/scummvm",
+  "LICENSE": "GPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1585429863",
+  "PACKAGER": "Maxime Gauduin <alucryd@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "libretro-core-info"
+  ]
+}

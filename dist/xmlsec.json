@@ -1,0 +1,31 @@
+{
+  "FILENAME": "xmlsec-1.2.30-2-x86_64.pkg.tar.zst",
+  "NAME": "xmlsec",
+  "BASE": "xmlsec",
+  "VERSION": "1.2.30-2",
+  "DESC": "XML Security Library is a C library based on LibXML2",
+  "CSIZE": "719661",
+  "ISIZE": "5108259",
+  "MD5SUM": "81296ff6e9ab3b8bbfe53dcb32b374ad",
+  "SHA256SUM": "1cc4d64c8ef1bff3c65437e539af8ed9010744e127307044d4a987a1e1482a10",
+  "PGPSIG": "iQEzBAABCAAdFiEEhs/8qRjPOvRxR1iAUeixSKmZnDQFAl6mq8IACgkQUeixSKmZnDQ9bAf/Z2ftbRu4EmK/Ggol6ydlkrJIyq1vExz1ye6u0O72oP6BEoPb5dlNA1sC4QMI8iGoO1MaE/PlD+xXIAKSX00NOoI1ng0HH5cdpWo2bGkb8J/kL3drOiAO8RBN15etEbXK0vDOkDXavgb1vQZP4CcdL8L+DPOrGX+2faQTqczsav97A9trPPpevOV+fHojwTgKRAR0y60H3+RySav8rm4dgb3ZEOpFGbRwjdZ4coj1xFN8jDHz8FmDS2e9jHsc0r0F3bKiddkCzGfw+PFNOK5NUrZkVGzJtC1ojhb9MNOfDm2qSUsi8bOnFZVsyE5yWIEM/VY4AjCCkKQBvADS1+gvVg==",
+  "URL": "https://www.aleksey.com/xmlsec/index.html",
+  "LICENSE": "custom",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1587981075",
+  "PACKAGER": "Evangelos Foutras <evangelos@foutrelis.com>",
+  "PROVIDES": [
+    "libxmlsec1.so=1-64",
+    "libxmlsec1-openssl.so=1-64",
+    "libxmlsec1-nss.so=1-64",
+    "libxmlsec1-gnutls.so=1-64",
+    "libxmlsec1-gcrypt.so=1-64"
+  ],
+  "DEPENDS": [
+    "libxslt",
+    "openssl",
+    "gnutls",
+    "nss",
+    "libltdl"
+  ]
+}

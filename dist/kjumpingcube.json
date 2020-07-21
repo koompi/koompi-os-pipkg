@@ -1,0 +1,24 @@
+{
+  "FILENAME": "kjumpingcube-20.04.3-1-x86_64.pkg.tar.zst",
+  "NAME": "kjumpingcube",
+  "BASE": "kjumpingcube",
+  "VERSION": "20.04.3-1",
+  "DESC": "A simple tactical game",
+  "CSIZE": "426933",
+  "ISIZE": "1199268",
+  "MD5SUM": "6745cb53ea38b1b35c61d4863f5ef2f6",
+  "SHA256SUM": "db8bc42c9a92fc3c23bf501913fed955f25cee57c16316dc199f9851d84f86f5",
+  "PGPSIG": "iQEzBAABCAAdFiEEFRnVq6Zb9vwrc8dWek52CV2KUuQFAl8HBV4ACgkQek52CV2KUuRu/gf/b+sRNRVo/dzAuM89BKg03b+gacr+yahAAAogwQoKZSRb4XwqofGKz/+HhvT2Yq1KI5hrU3GfZvmvJ15nzHFu1f0JL8nCFq0lcNYgbpMOythz2qDLMAql3OGQCAZOdgDcEGaNgYGE9VRELU0XCYCidyPX9jOMSYIFX+shSxtFKDTutAx9CXbRudXjeyI8S6n8682VAsfKOFzKwCLCIcjbZBQrjuiUHHD71iHKs+iL7FTVJ+ueDa7QJ/jzTpgIEfcBLZ3eZFMBICCrHaWsqolx+m2c+9oGqkakEMByLw5jfL4wiJzK5taz/o9/9t8p9kUGK/wo2Qznlw8bNeyd46AC4A==",
+  "URL": "https://kde.org/applications/games/kjumpingcube/",
+  "LICENSE": "GPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1594108514",
+  "PACKAGER": "Antonio Rojas <arojas@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "libkdegames",
+    "hicolor-icon-theme"
+  ]
+}

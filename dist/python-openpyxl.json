@@ -1,0 +1,24 @@
+{
+  "FILENAME": "python-openpyxl-3.0.4-1-any.pkg.tar.xz",
+  "NAME": "python-openpyxl",
+  "BASE": "python-openpyxl",
+  "VERSION": "3.0.4-1",
+  "DESC": "A Python library to read/write Excel 2007 xlsx/xlsm files",
+  "CSIZE": "364072",
+  "ISIZE": "2329842",
+  "MD5SUM": "92f2febce9cf01e1fae60de2ee30e36f",
+  "SHA256SUM": "f315f52b1553a5e1665dc305d500ea9dde13af2b59961f210ceb10abfcd51866",
+  "PGPSIG": "iQEzBAABCAAdFiEEcXAmqdR3n8U5QHJmQPVXtzFJYQYFAl742j8ACgkQQPVXtzFJYQanoAf6ArVx7r5tlVh0E5QhZ9UVZ/1QBjCspQxqCkAj0b0ZxIpl/GxjGSfZRud2v8HT73BX8u/WqLfZ4i7vga6npPdn7T2HVI61RV9m3Q0tKAsLrbo8DdTxBJaKO6c/iuMiIsgFlgyeoRePFyTVKgkOFYRIt932uMvNeJ2I4jpcEoWajzdc0n/BVEZUOiAXXyWXApIBCTJymVVa8yHWcZcf2zOhxYVAkorDUljWFJGAaM/99CUtPjuWSZh1VmZUN5cJcGEJyhALfw0706TiA7FyK06hZ2kXqldLaEi8ouAYcRmNZbXJKkQqa94FbWzCK7BxjS1HquOQTq2M+KnLARfJDIfKhg==",
+  "URL": "https://openpyxl.readthedocs.org/",
+  "LICENSE": "MIT",
+  "ARCH": "any",
+  "BUILDDATE": "1593367071",
+  "PACKAGER": "Andrzej Giniewicz <gginiu@gmail.com>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "python-jdcal",
+    "python-et-xmlfile"
+  ]
+}

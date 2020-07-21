@@ -1,0 +1,26 @@
+{
+  "FILENAME": "caja-sendto-1.24.0-1-x86_64.pkg.tar.zst",
+  "NAME": "caja-sendto",
+  "BASE": "caja-extensions",
+  "VERSION": "1.24.0-1",
+  "DESC": "A Caja extension for sending files",
+  "CSIZE": "47800",
+  "ISIZE": "201424",
+  "MD5SUM": "6a14a51f148412bd624e63121d42d313",
+  "SHA256SUM": "c9b4ee278fa0f5771fd77771eaec113f263a283c67a327326bd013752b1a289f",
+  "PGPSIG": "iQEzBAABCAAdFiEEzFln1AlbTztC1F+ggaQC1POCu70FAl5Vf3oACgkQgaQC1POCu72HLgf8CC982mcY02IJfs/iwP1flMV4OtORpmX04O8RewJ52QIf9mKo+UopFklrlhEWk+LXgkTG9NeUL6Pv9nYCE1Q9xa3i2UQpj5rVCNd2Uq3oI4I3ek5nSWrTnBlCpoXyGQd2uC1XaWBKb1aG6cgS8hfGRkvBCsS4+4dflNo+XhJa9lu/rDS9crOI9AOWBdb2VeyKhsfyMm/Qq159jmd4a0fUGcq+Ktf+Py89Qwh7SQiyQ5GUv7RejH1zUmCXPxMhIOWbMlCDhzLtCWazZ7zD4N9hXbhpc8OiQet2hLE1HO+DlTGkKn7c07OQ/RY4jktrqgl+qb8sadIB2yD3HtBo7uTDLA==",
+  "URL": "https://mate-desktop.org",
+  "LICENSE": "GPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1582661427",
+  "PACKAGER": "Brad Fanella <cesura@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "caja",
+    "caja-extensions-common",
+    "dbus-glib",
+    "gupnp"
+  ]
+}

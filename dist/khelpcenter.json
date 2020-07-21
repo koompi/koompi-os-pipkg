@@ -1,0 +1,28 @@
+{
+  "FILENAME": "khelpcenter-20.04.3-1-x86_64.pkg.tar.zst",
+  "NAME": "khelpcenter",
+  "BASE": "khelpcenter",
+  "VERSION": "20.04.3-1",
+  "DESC": "Application to show KDE Applications' documentation",
+  "CSIZE": "4479935",
+  "ISIZE": "16343001",
+  "MD5SUM": "dbff90d553d8a877021e738944f0c05a",
+  "SHA256SUM": "09bd3f86fabdf131acf177a219a6646d056e4879c66326954ec708b4208a7e63",
+  "PGPSIG": "iQEzBAABCAAdFiEEFRnVq6Zb9vwrc8dWek52CV2KUuQFAl8HIScACgkQek52CV2KUuRQJwf+JaG+TfZ6nFzSZUaui6ORkhMlEKqw6xj6xzweFVWrbaSq2Z6EAYKmg4yCvn/9hEbH81djq6B76VV7qbDLv74cXXLmWJdlCIYacn2/cX5BIVJVOeiZaoA9dKN9heS2zO7H9GzGyfPNgsKRze9MY1SKzBjvA4jmPYh37ygVWnrRzZYTkA778NhVh1zHNr8OoeeVpM9sDXZMxm7hTOVme7B7QN9fOnk+uLLLdPrtiSLQmn/P9QcKQRocYv5cCbDHn12vwOcfp9aygzrERaBhXIIrPSinLHHjTAbWGMeB3zEfzOIn2zaMrzxADDSzWQQvqy7b6Vg/Rva5AAcw/jc2AQ/8og==",
+  "URL": "https://userbase.kde.org/KHelpCenter",
+  "LICENSE": "LGPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1594113984",
+  "PACKAGER": "Antonio Rojas <arojas@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "khtml",
+    "kdoctools",
+    "xapian-core",
+    "grantlee",
+    "kinit",
+    "perl"
+  ]
+}

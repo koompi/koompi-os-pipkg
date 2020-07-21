@@ -1,0 +1,27 @@
+{
+  "FILENAME": "milkytracker-1.02.00-4-x86_64.pkg.tar.zst",
+  "NAME": "milkytracker",
+  "BASE": "milkytracker",
+  "VERSION": "1.02.00-4",
+  "DESC": "Music tracker inspired by Fast Tracker II",
+  "CSIZE": "1220354",
+  "ISIZE": "3809470",
+  "MD5SUM": "3e4df1c3a347389568a23cae03ba3437",
+  "SHA256SUM": "2950837f657c07dc2fcd802a6fe48b03e8cf995ce1c0318a92509700f1bbb561",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl8EgowACgkQeGxj8zDXy5IoXA/+KbOJpUvJ2GCm9QUp+EH/PMRZbvP4Unm388DjubuUxzWd6cwtFpPR7otd6piKPovA2XEuw2+q0whVr1E4uFOf8jYVvIsusqobZRjWVSYbI8boOhLvElJcmIojjOR/aiXY3bsI3xGLKJ2DVbhi7V0swj7S7463gdHKQAvGDC4Qc6bWloY8E9YQAuaDjeTmoeXaPgc8COcP1qHtCzikI7S4/LO/wo2eGXa/3fMSYDiOklcnk/bsnxhmzkhZIyAgc8zAFYrKu22sVDl1sgNvqbEy2HCypNQjXTYaGreKZSLBBs4Z4woY+aZDFDJhUSQQJcT8gl2sZM++2ceFzSkj74LdSrU75z/Wj+zTGfTflaL8kkLaQpNN7EXl6iOXtcf2ZvpQGEejzaNcyXI5onel7FTNNUaQip3EDfjF0QTn7L8A/XfV9dAP7bDW49LOkDe2uhmG4JgGuzfxy7UaCsBQ/vFyIf6rig7bTMmiB8r8/nZbwRJhvT+OvlN8r+a6yQVgeypkE3DamuHiHZ6zOPQcWL+1egVMZts+rRyG7SrxWLLBQkhUyyEMj38jbUnoKgE58TjKBl6akK8aI1l49JSlwYJFaJeq5Tu+kQMHBFAqh6sosr3L9CJQLWDESE+3orZhuDd8s3uNylokZb4BPHzb3wG8A7197W4tITIcxauj71gE+1Q=",
+  "URL": "https://milkytracker.titandemo.org/",
+  "LICENSE": "GPL3",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1594131049",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "alsa-lib",
+    "lhasa",
+    "rtmidi",
+    "sdl2",
+    "zziplib"
+  ]
+}

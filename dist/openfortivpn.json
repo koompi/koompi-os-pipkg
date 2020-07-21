@@ -1,0 +1,24 @@
+{
+  "FILENAME": "openfortivpn-1.14.1-1-x86_64.pkg.tar.zst",
+  "NAME": "openfortivpn",
+  "BASE": "openfortivpn",
+  "VERSION": "1.14.1-1",
+  "DESC": "An open implementation of Fortinet's proprietary PPP+SSL VPN solution",
+  "CSIZE": "46788",
+  "ISIZE": "108669",
+  "MD5SUM": "e15be8530814949b04253c1f6d6eb552",
+  "SHA256SUM": "1af57a02a0d37de50cd33b546541d5a49231ab95e7d55dbf0cc6ad95fea3c62c",
+  "PGPSIG": "iQEzBAABCAAdFiEE82kWh9hnuBtRzgfZu+Q3cUhzKKkFAl7Hx50ACgkQu+Q3cUhzKKkVzAf+JHk7EEzgwYTffyVGnVFLs5pZMbmF0XjEcgtsqmXEA4JAJOzoQYCRBWcDJtyIbSLl8d6OcIWBwxnqlpPggqHQ4kzml9aqKNrtAwie6s5Nhf5kRwV2Z/G1fj+MAqPSdqZVNbofVGpEJAJad6F0Ya151j+m8EPuhxQUEliwSzEXCbPxMZzOdt70BfYxhKYSnte4FUwvoQSPNXV9itSweL4RABiStAqvcdrNEM5draobkAzQknTz2A+UCADqLyOIWjqCWz/48HMiQgYXbxR7/OfHUp08p+BNZ7K1hXi+uGrMOu4yMdX+N3pHOQXrMgXcpW70kvPyT88+L16j94hpZbvtxw==",
+  "URL": "https://github.com/adrienverge/openfortivpn",
+  "LICENSE": "GPL3",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1590150710",
+  "PACKAGER": "Bartłomiej Piotrowski <bpiotrowski@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "openssl",
+    "ppp"
+  ]
+}

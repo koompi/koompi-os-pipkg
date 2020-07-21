@@ -1,0 +1,23 @@
+{
+  "FILENAME": "python-jsonlines-1.2.0-5-any.pkg.tar.zst",
+  "NAME": "python-jsonlines",
+  "BASE": "python-jsonlines",
+  "VERSION": "1.2.0-5",
+  "DESC": "Library with helpers for the jsonlines file format",
+  "CSIZE": "11792",
+  "ISIZE": "35670",
+  "MD5SUM": "f0542bccccabce36af6916ea43d3987d",
+  "SHA256SUM": "94a466128b65f8b54cb3ae3cc2e3e5e007b4e99c9ca4e1a3b40f98049b163638",
+  "PGPSIG": "iQEzBAABCAAdFiEE5JnHn1PJalTlcv7hwGCGM3xQdz4FAl66/FwACgkQwGCGM3xQdz6Kcwf/bpt3Yu9S4tCRreAX0SzcydQZNYsEuNER+ATmbGpV0KnsMog/g6JI14TmXuROZ8Fz6D/5pLYESyUbqEVilAC/H2215ous7YMDbz05K3ivp5AeM00KgVFjh08HuQDNdonpYUSMyWrMzlIw4PJxC2UzqywvkWxupc4PnBGKZMEJvCKsUqioZi8mCt9MZKeUKcGPS+fAUkDSVqUzRQM4+fWFqTTpRvIELwWXCZ5oClanD1WQ+bwBFZGgNV1yVQs4uNYXiD8+rsR2+N/PBXiUPiJVvLh2nxNewHrTr9AupTaD1aKC2G3cEV+/edaCQSEJAsYxmr+AlWKtE4j9dgNSwnZJ4A==",
+  "URL": "https://github.com/wbolster/jsonlines",
+  "LICENSE": "BSD",
+  "ARCH": "any",
+  "BUILDDATE": "1589312480",
+  "PACKAGER": "Jelle van der Waa <jelle@vdwaa.nl>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "python-six"
+  ]
+}

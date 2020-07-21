@@ -1,0 +1,23 @@
+{
+  "FILENAME": "python-contextlib2-0.6.0.post1-1-any.pkg.tar.zst",
+  "NAME": "python-contextlib2",
+  "BASE": "python-contextlib2",
+  "VERSION": "0.6.0.post1-1",
+  "DESC": "Backport of the standard library's contextlib module to earlier Python versions",
+  "CSIZE": "16024",
+  "ISIZE": "56951",
+  "MD5SUM": "4dec30307d7f42937144d970bf76b49c",
+  "SHA256SUM": "ee9a9463f7581333ce1c01dde3cf006b25d8d5bf92ef07ac08eaf8d2cf4abbb4",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl5zacMACgkQeGxj8zDXy5L6+RAAnOJcsJn6QhC2gZ/P8qfWOfgl89VPOb06WilwAnWKUwCxo6uCZWWYfTzAVvNAtYmNZtuZYSF3ufs+eGEzusqtsOa/ZyqWEG/f2SxG5ReOV+A3P/OriXetKegPTZ4+zu6zgF4T1UsJYttDZWReORkti0kB53Zyz+EQzNPCAW2tKqVFubb4Fl7Gbh+l1aMSZ5d5E92v4gKYmkR6OcrkdtGqmv8oK6ydmAidtNHK54pRD++kEHGjeZ7r8SWZxZrBTy6qC1TpLjt7xTdwwOA6TsxHECGQYY4r2BDzbM5OUrn9AQ3s+rLnclQ7cEpk6C8DNWBUUkC5RAsxTQI3mtFp3BPNwpj3r9CaZdOvvuugW9dMjEC41S7Jp7N5afM2O6Y3YRO2Hyf9PufgeEsFuS6U426JBaICrjNGKvfTHAWcbvM7NVQmzQ34TflC4pwrEtn7HMEMfLeg7ldsKdQ17SvpsBRH6zunhOubktp26OIedY9TlOg0CNQ8QwpeBuh9HgYBVxEes8If5UYflhJhrsdzKxksTQlJINZlpwzyusIbeARbwZyHop4vToG4DhdOJ3XJ7+CVM61oIXhuBAF2/CFE3K6ry42M5ybRtGn02sRvA0WQuiHx3LH74/nm7Nkd1YWYXzc2MPSqNOoRWpdjmQNj59+U4hLiEov4ost0SXf4O4uIL+c=",
+  "URL": "https://github.com/jazzband/contextlib2",
+  "LICENSE": "PSF",
+  "ARCH": "any",
+  "BUILDDATE": "1584621966",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "python"
+  ]
+}

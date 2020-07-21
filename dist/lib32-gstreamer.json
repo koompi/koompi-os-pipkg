@@ -1,0 +1,27 @@
+{
+  "FILENAME": "lib32-gstreamer-1.16.2-1-x86_64.pkg.tar.zst",
+  "NAME": "lib32-gstreamer",
+  "BASE": "lib32-gstreamer",
+  "VERSION": "1.16.2-1",
+  "DESC": "GStreamer open-source multimedia framework core library (32-bit)",
+  "CSIZE": "1040733",
+  "ISIZE": "3464903",
+  "MD5SUM": "0099783df79e3626deb11fff786968b6",
+  "SHA256SUM": "33877a8f2427b7b9c00d5333f77a789002b96a3138051f677991352b62f4094e",
+  "PGPSIG": "iQEzBAABCAAdFiEEFRnVq6Zb9vwrc8dWek52CV2KUuQFAl4QWEIACgkQek52CV2KUuRyigf+LTzBt9NX4znAALzIzcPAwTahZimlJ7974CoJ5m7tLtFX+3GZ8oILa9vUYqLBUH//KpIKb50vJXTSC2qx3zOGiMGC926kjqfS+yKM20JFtjhtTCqOgrhyaiGxvV3BE3xD724Ci8JIpQn49MVSBlVEOuWE+8jZdrADtUhK8QmJFfXugPYuOZC+f/+ALlG3sWu9HIl86S59YPh3N/nvr387RYrDucIOX4kadMf5pgdY9yfeMJQTf3j4WyFo+GH8bDIuQSYzGQGpLIkQsdiVIdg06IYdVWXs/cO19rnEwtV3azzne9HWjFOrhwBy7zIP1xYvT6B8qR0NjCVACGeu+fTt7g==",
+  "URL": "https://gstreamer.freedesktop.org/",
+  "LICENSE": "LGPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1578129278",
+  "PACKAGER": "Antonio Rojas <arojas@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "lib32-libxml2",
+    "lib32-glib2",
+    "lib32-libunwind",
+    "lib32-libelf",
+    "gstreamer"
+  ]
+}

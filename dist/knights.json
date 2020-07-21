@@ -1,0 +1,26 @@
+{
+  "FILENAME": "knights-20.04.3-1-x86_64.pkg.tar.zst",
+  "NAME": "knights",
+  "BASE": "knights",
+  "VERSION": "20.04.3-1",
+  "DESC": "Chess board by KDE with XBoard protocol support",
+  "CSIZE": "3806242",
+  "ISIZE": "5342267",
+  "MD5SUM": "9e607da4ef6f14b437cb1af039e6621b",
+  "SHA256SUM": "651d88b25e09ba6613fdef08b323b7bfedca933cc1846ad46d33284eb2f45d48",
+  "PGPSIG": "iQEzBAABCAAdFiEEFRnVq6Zb9vwrc8dWek52CV2KUuQFAl8HBZwACgkQek52CV2KUuT/6wf+OlOI5cFtfEltnCNxOSQVQ9ciBvjhWu+8rwo7icbRu0RF7QhU/ukJXfOTRMJ/1Ni38sdRppVaZNwiJR4TJlWNMYT2WS7TGzX6fxiaHzIbX/Lh48qv8lhTLyow/jpK3VcMHphu2Ej2vZzI/Je7RAmslJWY+NeO6B9LyeNTPUJFVOXtlqaqmeD3GwY3yx2RZJrAiSh2p/Fko48YqW00OSRmdKNtbDSoZ/UfCT1Hd4ImLV/leRsfVcRZZcgxiESnsxflDe5nXAx6JfXM0cpbiVrgnsrS5FyY67jfwLy5wBMaGyFXk92winjds8uWvcsgDspm0COQKTdLjitV694EKTqYvQ==",
+  "URL": "https://www.kde.org/applications/games/knights/",
+  "LICENSE": "GPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1594108804",
+  "PACKAGER": "Antonio Rojas <arojas@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "libkdegames",
+    "kplotting",
+    "plasma-framework",
+    "hicolor-icon-theme"
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "FILENAME": "pcaudiolib-1.1-3-x86_64.pkg.tar.zst",
+  "NAME": "pcaudiolib",
+  "BASE": "pcaudiolib",
+  "VERSION": "1.1-3",
+  "DESC": "Portable C Audio Library",
+  "CSIZE": "8534",
+  "ISIZE": "24975",
+  "MD5SUM": "1e842b09740f987d9cbcc40577c16d30",
+  "SHA256SUM": "534c74d785377497de2833d507f0ad4a0f23430f675b6581c989690b8acad103",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl8EpRgACgkQeGxj8zDXy5Ih/RAAlf/IJPX0qKzxoAtNWOvFHJfYClKSXVeJMgb2cXZLmeUpGZP3xUXMzRUuyQ8/7nD701R9cssBzE08zOw6QRfm1YE9Aempz+ya3YGD76U1ZiLktpC1iSP0vaVjrriD9Jh/zfzIhhZ56GrpSJ93zydG7qkLWZ5mRgZ2vc+8DDNdNbSlLdPZkIeBh6nOr3DqLlGarHvObenDFeZ1V9GTLHN6uqjfaHFKGzsKjTWpmf9ZBuGA57vSAtvDuz3yRKcDoYwLijsJ70WifF9NBBJ456TPDDvXgpM9I/oqMTVVIEcxKDRqO4RCXXOxua6LoyFWgE743uxHhGNOc/S7yYBfYjf+f2cY7ypqBNxraVY9kFrcqDjNPlEwLN1meMGU3WEdi7tq6+VWiM5/P6tHmtDCwebsaRBEyEaQ+FgxGZWTTaGwYPfVqHfQF5Svb3TDyhjAdrIMBBtfiYhVJ4q2+/xCbSAlkbM6zm+fNXkIn3lTOgmK9QsKVNFJ2ZhHcRl+I0Wg5D3gzX7MserPF+s8S27YLgvLXLHhoMdWUNaiqOr11UAooABffrCKgmHeg5LBLrWyv58Y5Fmnr2ETLFkVLVDF3TgYpPmw+o5trA3WkOG19Z/6zTe2aBZ3gODoe4jXGX6tBXkbDP9VJazAENqh3L2niEHQ3NyypN2Phod4NbGe3vr/QAY=",
+  "URL": "https://github.com/espeak-ng/pcaudiolib",
+  "LICENSE": "GPL3",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1594139833",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "alsa-lib",
+    "libpulse"
+  ]
+}

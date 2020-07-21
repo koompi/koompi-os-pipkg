@@ -1,0 +1,24 @@
+{
+  "FILENAME": "perl-module-implementation-0.09-6-any.pkg.tar.zst",
+  "NAME": "perl-module-implementation",
+  "BASE": "perl-module-implementation",
+  "VERSION": "0.09-6",
+  "DESC": "Loads one of several alternate underlying implementations for a module",
+  "CSIZE": "8802",
+  "ISIZE": "10865",
+  "MD5SUM": "62d6ce0f38b49021f53c21f0f9dc1005",
+  "SHA256SUM": "49d0b8cd284bb012bcd419d7a1ed3163ff7a19cb9476229842ceddf61f40988c",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl7ve9IACgkQeGxj8zDXy5LNzw//UTadvL+F6uyztjgBQOpXng2vCqpdP0gYKOCfx0hgc7W3nbE++32F+AqQtL6vwiinbo2Vfj7EDyfKzNtVJJ0KfRhq4lx81+osgXREnjo9ynNQ86JUa350tAir7ouLRnnmzXIVRekGZbQ86IhhMhKttfe8ER5uf0jbJ3AV8uFdUYGzKU7nUZpL0O5NyvpoFDEQ5mJWPONc5OefprjHMpl7oA0B8m4BXVwU7A7S5UFn0mdl59jWM/mRqyOGOYu0Mpq2lvKSVsvq9wXGYyXv4Iag3RE/1GwWDmBws2MZXO1VNtlMShqSguF6thele2G+8Dxn03fv893eeT+W0Z7dNH7feK6pDELpd/2wJ60SgbpJgS9fnpYjsR5p/TXV5QjuKcCSsEVPUyoDO9UGfIwpb18znLfIbRIVUe/gKa/d5Lh0p54pO0qVmVk8oioPWF0hHVeSZdhSIf6YiapWwsETZb51pDX2baB4QYoAIhHl5D1o0JIxHj+vlrUSbiJwAbjfOjM0ONuwDDg75/s2Rg88kOCjwLxW0LmFAS+KrkGe5OpvQZrEFTFF8+0KRfb8Z/pimebrmTU3KpwXrywQ3uBgmB/PBGh3RCHR+kq9YTtydKFMAm3X87rSuE6B80xIVjwtHXz4mwgMz1PavGLMk4NqJIDpjpnLrHl0fZ5EEhNlOIfrn7U=",
+  "URL": "https://search.cpan.org/dist/Module-Implementation/",
+  "LICENSE": "PerlArtistic",
+  "ARCH": "any",
+  "BUILDDATE": "1592752856",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "perl-module-runtime>=0.012",
+    "perl-try-tiny"
+  ]
+}

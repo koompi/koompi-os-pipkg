@@ -1,0 +1,23 @@
+{
+  "FILENAME": "mod_fcgid-2.3.9-5-x86_64.pkg.tar.zst",
+  "NAME": "mod_fcgid",
+  "BASE": "mod_fcgid",
+  "VERSION": "2.3.9-5",
+  "DESC": "A FastCGI module for Apache HTTP Server.",
+  "CSIZE": "38357",
+  "ISIZE": "100160",
+  "MD5SUM": "37d0c0fcff0ed880888cd8447c890f69",
+  "SHA256SUM": "3cb0779ac0a5ec81a35ed5f0ddd52501eaf94caa0237c39710473618c40d0d06",
+  "PGPSIG": "iQEzBAABCAAdFiEEhs/8qRjPOvRxR1iAUeixSKmZnDQFAl6/82IACgkQUeixSKmZnDQj2ggAkqVvOf5rveEib07hykGvQvjm16msSqq3Jx1ix26TbcqHNYPEhjKGtHAlYYsAZejpL56yMGE+b/ozIXgLGFON+Ca0ZjQaoCPg5qwRcuDI2B1eyOtZF3YnrKKyQ390aBE//q3HErC+lSWpqBSLXAqxPJMbBcDp2PyxhhO+r8Y5s03LSlJHK5wlKulBBkJmOxJ8xZrAqZhbAClBQOuUr3EPweEw252rMwGx1k3+Ad4HyeXQqwnzXUqUvMUBScSlSz2Ad7yovw7DMwppXwWHvxazweoBA9Ke0yhzV9Ijb91pnzNcf/lZzsRLPYN1tquTfQrOHHN/e8tEBhd2OC+kK7VPnw==",
+  "URL": "https://httpd.apache.org/mod_fcgid/",
+  "LICENSE": "APACHE",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1589637971",
+  "PACKAGER": "Evangelos Foutras <evangelos@foutrelis.com>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "apache"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "FILENAME": "python2-pluggy-0.13.1-1-any.pkg.tar.xz",
+  "NAME": "python2-pluggy",
+  "BASE": "python-pluggy",
+  "VERSION": "0.13.1-1",
+  "DESC": "Plugin and hook calling mechanisms for python",
+  "CSIZE": "28316",
+  "ISIZE": "140222",
+  "MD5SUM": "c402c26fcdf5c126536fc25e47f5b103",
+  "SHA256SUM": "ee61f0040fc1f81febe8d18d9197f375b8171de8558ad7e26945e0791ca95304",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl3YF4gACgkQeGxj8zDXy5LNHQ/+NLE6y4d+MWLwAK+YhApKrGe5yQha/AinzVVZzQKyljIgfrvs0k37Tm+GnzIQdv1tHGtxI5e4D8q5aKQ+dI9L0062gk7Nhr5iaBJsOlDcR7tfOmEJ96PfnrCLCPN+fxafsbyTkpZeS1F3NMp+FmjzHWpkrEVhni+UAbKSPdNq5xOktZ3TCIEq8pns41EgYM6FNG/K2R8jhEug5ESeU/GDCvaiIiLZ/Ms1xbg68QJvzLJFI8MdgQECPQxr0DZfUkyAUgtjNuHLs7K2OStsI82dtYhJfXlvwxMav9jQcSjQAT/xAWWdlG0V1IbH1YO4ANuQVXdYZQfnERfUM7KVN161r18iGbN0+LpWBHiRIjP9z12wXYm3LbfBWn3y1gwHz4ZwXEty33AhqMCVq3pv3P0wGMbRjsloqa/1iIWnND06find/P51uek8APrlKpYGp9bjdtYnEmFmYsCM+tv1edus6Mhax2J7jbtDqtQ3FautXIjwehN73ie6JNcFdJafPSolsqGcHKz7uTUgws+z3mlrI1znK//KfdA76Nz2zhkO8nsJHXvm3aGdd7n+TStsNFxx0cN5Nfpqr4tQ7kWTN39H7ap0IaBCOKXl5jMn7TepeVncpskICBoHFtuy0BIrlyBggFgftJBWCL5GTtdAbLa/HubVGsw2rvs1CCEkmnImNEI=",
+  "URL": "https://www.pluggypayments.com/docs/python",
+  "LICENSE": "MIT",
+  "ARCH": "any",
+  "BUILDDATE": "1574440619",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "python2-importlib-metadata"
+  ]
+}

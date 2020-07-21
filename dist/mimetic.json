@@ -1,0 +1,23 @@
+{
+  "FILENAME": "mimetic-0.9.8-2-x86_64.pkg.tar.zst",
+  "NAME": "mimetic",
+  "BASE": "mimetic",
+  "VERSION": "0.9.8-2",
+  "DESC": "A free, MIT licensed, Email library (MIME) written in C++",
+  "CSIZE": "130672",
+  "ISIZE": "482082",
+  "MD5SUM": "1b7a907a1e770afcb76b5b37a723c441",
+  "SHA256SUM": "c8e509ada039af254033a2f456b250081452865c63e37ca2627aabfd7b1852cb",
+  "PGPSIG": "iQEzBAABCAAdFiEEFRnVq6Zb9vwrc8dWek52CV2KUuQFAl62iSkACgkQek52CV2KUuRhmAf/YYEtTRQPHl0TF7lPJnc6EUCZjv74WHBuhN8VGm+MKYK6MYFeqM67QQqF7BWJrJaoUOZkTSo8XLI9+FhRl1eDF+Th+0YCtUmULqOPZNtWREls8Ljuw3xsrW8fCHRQjKDv/enCUupv7W/k340ZKmIeKmcQpgsfrhGeMuozUcT5cChkFzZkwUFJBZ+FtrZgHw8REXPT+a7kG2LcTxuDXXxlJ1tJuHd6d9S1EyI1gx9yDwckhS1xVPb6b+f+/qWcrFqc6cPVlRuxrS8md188g3Kfo0DLiL8q4fpiVz/x1hb/79XWV08SexcKc2QzG92c8Juy3RxpdCwt6MoVwtFaFUdd5Q==",
+  "URL": "http://www.codesink.org/mimetic_mime_library.html",
+  "LICENSE": "MIT",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1589020907",
+  "PACKAGER": "Antonio Rojas <arojas@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "gcc-libs"
+  ]
+}

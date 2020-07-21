@@ -1,0 +1,26 @@
+{
+  "FILENAME": "edbrowse-3.7.6-1-x86_64.pkg.tar.zst",
+  "NAME": "edbrowse",
+  "BASE": "edbrowse",
+  "VERSION": "3.7.6-1",
+  "DESC": "Line-oriented editor, browser and mail client",
+  "CSIZE": "404616",
+  "ISIZE": "1185914",
+  "MD5SUM": "8ee6017fc208f799ca95083e85e825d1",
+  "SHA256SUM": "2df3a0241b8daaee5361f729d8f6c474c002e815beaf54cbe456cfc3184e7ea4",
+  "PGPSIG": "iHUEABYIAB0WIQTb59PdjIHVjQoT0OdrwmoXubcBigUCXnFWKwAKCRBrwmoXubcBiiCBAQDs9ifq7B8SfoRjgxvxhrJjwf5fWixhfEIaITB2Sq86RQEAnsjRZiuUJQ01l1SlVjerLeMQPms2QeAQjhQP0H5UNAw=",
+  "URL": "https://edbrowse.org",
+  "LICENSE": "GPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1584485881",
+  "PACKAGER": "Alad Wenter <alad@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "duktape",
+    "tidy",
+    "curl",
+    "pcre"
+  ]
+}

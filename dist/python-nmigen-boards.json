@@ -1,0 +1,23 @@
+{
+  "FILENAME": "python-nmigen-boards-r105.86ae791-1-any.pkg.tar.zst",
+  "NAME": "python-nmigen-boards",
+  "BASE": "python-nmigen-boards",
+  "VERSION": "r105.86ae791-1",
+  "DESC": "Board and connector definition files for nMigen",
+  "CSIZE": "68614",
+  "ISIZE": "373925",
+  "MD5SUM": "cf2e03d8d3e27dd9e6831759b5500f08",
+  "SHA256SUM": "7922ab48300a3ef37ca2fc8a887585516ae4e2a149e74df1bd2afec1c7312a86",
+  "PGPSIG": "iQIzBAABCAAdFiEE0jW0leqs33gyftiw+JPGdIFqqV0FAl7dhXAACgkQ+JPGdIFqqV0nmRAAp95Duh2Icr2wlJ7eC0RtvTSQ5ETEubXRTMwkDQs4iQT+eU2kburjjAY4O5NuF+SDHzlIlZlGyVrotyqq0EPhObi2kpf84cdWfLcVd1gsyBm3v9WEV85CKo8c83QhzUCIaMK1gLS/KKty+RZANDKFOaL/FejIFzzWEfcxkQIp8E2auzPjSLaie/iqKOuZRzatKH8dwr2ciZr4TgiabH8fV7ZBjLD8W45CewN8K0B76ie/zq/9xZdYYaPXzCDchwiGpE/3Xzo9waRBRCh3YAn3YNsCjsj3uWUXIFotlIc8NelMW3w82ts/Mpwqf5MuePY+dEE2OvQ1rstQ0i9yZORDtdddQe6OmxlFfY6yduN5Tqtu0VaBrmflNl8eD1sP1/NYoyRT33UFWET+3nG9EmabP1ng9uSovcLOaQRIoiaB7fpIoB+vHeDWn000M7ep5pKidTRWmrVjrYtOkN53B/XNNI7TrHkwnasYrCgl7MpbzTXfZ/92/fTpABGdPXncesfBWG5bUcRqRHzF/HcnE1Fw2RWEGBEUt04BZBVPHfM0z9ReAcrcrGiwUnNI/pQY3Q+N50O35wVgSVNUo7ZGh0NqghQZIhTSX3L9zpAa8i1plkOA/EFJsm/oxZOoZ0mqkGSNQPRDP88YpStbLmNuXZDvp/qdZiXHqMZ3G0H5eDsVySU=",
+  "URL": "https://github.com/nmigen/nmigen-boards",
+  "LICENSE": "BSD",
+  "ARCH": "any",
+  "BUILDDATE": "1591575899",
+  "PACKAGER": "Filipe Laíns <lains@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "python-nmigen"
+  ]
+}

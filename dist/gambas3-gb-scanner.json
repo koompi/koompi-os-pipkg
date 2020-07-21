@@ -1,0 +1,25 @@
+{
+  "FILENAME": "gambas3-gb-scanner-3.15.0-1-x86_64.pkg.tar.zst",
+  "NAME": "gambas3-gb-scanner",
+  "BASE": "gambas3",
+  "VERSION": "3.15.0-1",
+  "DESC": "Scanimage frontend component",
+  "CSIZE": "19478",
+  "ISIZE": "41392",
+  "MD5SUM": "d543c98f3230553258b10761801cd3f2",
+  "SHA256SUM": "30d7bacbdcd684aa487ef6096a7044573b5acfdffcea45cd2b844365f308bed8",
+  "PGPSIG": "iQEzBAABCAAdFiEEU1+MAzlFDwVKTSgnBglqatHO3awFAl8C7RkACgkQBglqatHO3axJpAf9EdzjM0r94Nduw1Z7mCf33VDdacKnjZ8iRbdz+4ox/kk9evnFfA0R5j8UyeJgKYy7MhsC52CcHsZ8htCh4XmoKB3QLxOkFgGzAl8OXeVoujcj8qAV1UQwR/mQoABPT0UjrLLDhGRrt7+jSRNyR3C8MD6yKFBv8OW5ZPtAZZSwoXAFXfHsD5OQ9rtSZeolZERUD9do/GZoSTTDVLqhx6XHR6++7+VTCPGAjBhQ2s8RDlkddU+NVMLO9ReALk4PneB7K+0CdsWea9+N76/XsR4D4pqXLwD4RrddK8tFpGk1nlMYZa/eQhBXjKUkHDujqE/5rb/Oxvkxf7XABgVD2m/yrQ==",
+  "URL": "http://gambas.sourceforge.net/",
+  "LICENSE": "GPL2",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1594026389",
+  "PACKAGER": "Laurent Carlier <lordheavym@gmail.com>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "gambas3-gb-image",
+    "gambas3-gb-settings",
+    "sane"
+  ]
+}

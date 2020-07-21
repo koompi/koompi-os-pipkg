@@ -1,0 +1,23 @@
+{
+  "FILENAME": "haskell-only-0.1-15-x86_64.pkg.tar.zst",
+  "NAME": "haskell-only",
+  "BASE": "haskell-only",
+  "VERSION": "0.1-15",
+  "DESC": "The 1-tuple type or single-value \"collection\"",
+  "CSIZE": "20392",
+  "ISIZE": "75764",
+  "MD5SUM": "07fa718f7c82c8ef6d08f88852fe7b00",
+  "SHA256SUM": "0bf20f537eac15a88764f6ec2dfd729a7590a30d4c8e77917e7e01d3d88c3112",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl6hnjoACgkQeGxj8zDXy5JNDRAAt/+eK7SFEgsepl6oktQPqpUM3L7qlFekWEKFFS38YfFySoPZHYKBV+qaWDr29/nWKweFtDCfSvq10+8DWWkMewWrG5dH29lkJEIlbjj66Glr/XX1Mo8vU+1VKTT9EfQr1A6BecwRyMTNmydNWmuLB88csM90uwdlnG7FsS/DDSN76FGyONqzOuzKAeSxWxt8mnPoZeeDUCI4Af9DXWTuulyrksprmrKLButZr7HCkYLR+y+JEsr5RBt09opDObyaze1f/hmEmq7PZ5kLWVUPCHHLpDg6RBEFxtJb3RVta9NM0AA0fmUHJgqt24yylTCE6oPN8kF9wwf1RcOl6XuJcVB5kteAl/4fT1YBY4WV7RexE8JouuvAVIdeGxM3VmGriOw/t9WYpaQJWE2hFGS57J/vLvw1+imrKqRVfGk/UJXGSJ45cNxeXzNkS5xP4ywGM7teo8lsccJlZ89YY5wYfs+kNPfGoIyZhmXrou8KzVCEZoQpg/Xk8tX/9r9HpyUWtnJDGg0I4GkmTkcY/uf6y3A82znKlzqzPNTB1gvDgCXA3FW063uaTnBFvxgZ+a4ep+sulWWTLBXIMFY0oeOr5pKzoqZ7PO16RNSeYfg/y8znfuABOmEJW4Ifr0hrHuPXwvyfR5NVhLyaf0+jXl0kidFUaSg/yMq35OG5R4wuexw=",
+  "URL": "https://github.com/hvr/Only",
+  "LICENSE": "BSD",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1587650020",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "ghc-libs"
+  ]
+}

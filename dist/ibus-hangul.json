@@ -1,0 +1,27 @@
+{
+  "FILENAME": "ibus-hangul-1.5.3-1-x86_64.pkg.tar.xz",
+  "NAME": "ibus-hangul",
+  "BASE": "ibus-hangul",
+  "VERSION": "1.5.3-1",
+  "DESC": "Korean input engine for IBus",
+  "CSIZE": "48420",
+  "ISIZE": "192584",
+  "MD5SUM": "5aee0e98e343e307b9de66ac2ca18fc3",
+  "SHA256SUM": "61b7af63a9d832582ec01f951a35c4e1695e3e5a3083ec087cdf459384e5453a",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl4D6QUACgkQeGxj8zDXy5ItUw/+NSIQ24InKPbCQ+8LsfF/B/0cckntgedWI5Oou7QMX9z+bvYuFoyp9tm68qO64ztX4ghWE2MPOm8+E9t4yNvScTgzSw6tiT5d7yoZJVbmty/htI9szKsTjcyrLp1Bl+ccgNDXgPeAmMa6xF1rv9yc5m/73v7n4V4oyMKgTbVitkMh9uVZdsLmDzcbThTvlM5xV3iEvKJQEMIY2ePu8LqQ2x01UTK5oHBkpygR3njme3J+gKlqXa9hqLPkR2QdvF253mTzQiCrrjkMZkf6HNysBxWfCSUPQaBMv0dwDMG3mMF+p/wLZ1r8QXJ3Yc+mCoMj37ytKsmF2ocLr0eqYAw08T0COW0VFuu4osXXCXc7QOChz/mNWb6xHtI+1kwd9F5weoUHgtupjGp1jT8esVq7mPE943jbD6X4wIABhnCejbCD5Uvf86Cm3sNgGKjMZUtJLnZta/JlG84g7anr7mc86Qmt6YUendsseEzEYiRNavDj8jKOUg3COlXPUqAqqAkGKWRD7z3vlNekOEo5HFUREpYyDmhMndGn69mx2Wc10gkYvPKcfMcpYXv2hNPAAEv6YDkc7XL9D/Tfg3cZ9m9zPTauAAzDZxZekPA6Io5de8iCjDOVVOrMBsyqlDBJ0tE6n1U6YRUSplXdKTrk8Dy1MlfkU+OeJLcHRcwW1shC5hY=",
+  "URL": "http://ibus.googlecode.com",
+  "LICENSE": "GPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1577314491",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "ibus",
+    "libhangul",
+    "iso-codes",
+    "gtk-update-icon-cache",
+    "python-gobject"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "FILENAME": "xorg-xcmsdb-1.0.5-3-x86_64.pkg.tar.zst",
+  "NAME": "xorg-xcmsdb",
+  "BASE": "xorg-xcmsdb",
+  "VERSION": "1.0.5-3",
+  "DESC": "Device Color Characterization utility for X Color Management System",
+  "CSIZE": "17708",
+  "ISIZE": "43437",
+  "MD5SUM": "1640b5cc9671c66149b550c637999ec0",
+  "SHA256SUM": "cbe7ded0d3fdd6907ac8fa1020d79c3ac99df4372b870df80a7fc4fb80755160",
+  "PGPSIG": "iQEzBAABCAAdFiEEhs/8qRjPOvRxR1iAUeixSKmZnDQFAl6/8H0ACgkQUeixSKmZnDRevwf+KmxJAhDJbYfmgq9Mo5GRBUvdcM1pUJDKhpTHh/i5kRrk/kcV39Bywb5Pq1buIN3W+o34nhCmNCkxMYi12M/Cl2q0IBeiA/T+N6cmisDIN2yAkMdeGTa+gVsbsdKe/jAbx78UONApvtazFzYEwZZKLnbpdCl5fa1qGUqwQApl/LG7iHwbQvW7oEx7TdP3ZXb1ZbCWqelWQbWW70OoukRtwieivogRCedUjwgo3nlshBOyIDDgnHSHDy4n5vQNHguq6ZNvSZS4kAPTJKUPOFLUpDXf2n1xGmyANSHFP0V/aAjXZYYN50JFv+9zNQT/yMkBmBndDJch5Sg1YW0NVE363A==",
+  "URL": "https://xorg.freedesktop.org/",
+  "LICENSE": "custom",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1589637205",
+  "PACKAGER": "Evangelos Foutras <evangelos@foutrelis.com>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "libx11"
+  ]
+}

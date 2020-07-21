@@ -1,0 +1,26 @@
+{
+  "FILENAME": "tomcat9-9.0.35-1-any.pkg.tar.zst",
+  "NAME": "tomcat9",
+  "BASE": "tomcat9",
+  "VERSION": "9.0.35-1",
+  "DESC": "Open source implementation of the Java Servlet 4.0 and JavaServer Pages 2.3 technologies",
+  "CSIZE": "7169928",
+  "ISIZE": "11797223",
+  "MD5SUM": "115b8c86a027e2755334bf77baeab421",
+  "SHA256SUM": "56f749b12c25e125fe9e07f693a599de7efd5b33ec575fe09d70ab5154f2630e",
+  "PGPSIG": "iQEzBAABCAAdFiEElDfdOBWnqRaePTlGr/XZUJi8b/UFAl7PdJcACgkQr/XZUJi8b/UqKAf6AqJ/pOeRSrqTpEmVy9LYDvKrvueTTCeD54913OEFphaEqy3dCzGBvHGoYGBlxpjVI4URYXjBeZuhKxpCsTekC+JHgXRQ6pK+OK5FJVPsYakENYurJeofp22G5/aqZXNDWD/2io/ezm0u4gHd/M7fPU9d8A4ZOf+28Mq++gH/ULD/DRKaGR1lqCsfFiLb7oB0NlYFo+4BGHn5sMpXKTDLCz5A9ebr1jm05zooaUZmhvl97YwKAJA8rqqImL3uP3+VKZJeTlsu1ordhB6O7RUzJ4KDtBUOyiew5PZx3KhoO4hR1dG6HK0f6LIuGUgGJke8OW0vbRhUzcinzVR35pZbQA==",
+  "URL": "https://tomcat.apache.org/",
+  "LICENSE": "APACHE",
+  "ARCH": "any",
+  "BUILDDATE": "1590654029",
+  "PACKAGER": "Maxime Gauduin <alucryd@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "java-runtime>=8",
+    "java-jsvc",
+    "java-commons-daemon",
+    "eclipse-ecj"
+  ]
+}

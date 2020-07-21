@@ -1,0 +1,23 @@
+{
+  "FILENAME": "scrypt-1.3.0-2-x86_64.pkg.tar.zst",
+  "NAME": "scrypt",
+  "BASE": "scrypt",
+  "VERSION": "1.3.0-2",
+  "DESC": "key derivation function and encryption utility",
+  "CSIZE": "30950",
+  "ISIZE": "62832",
+  "MD5SUM": "9647ad44d900417f3b6ddc86702d359a",
+  "SHA256SUM": "47e3dc0648cf9000a5e495615aea6962d4fe7fc307051f90c61fae83cf8d25b5",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl8Em+IACgkQeGxj8zDXy5LBHQ//Tsbrx2NQca/4wdz8pYqkyhOXEurfCHfwu8Jl7IOSv7ut1vXU4OdBPUK4yZZPmqkDsRhG9eh5cg+xwjhO+awIhk7jpkuMjMK8X8dwm2SYM+GkL+A+fwh48mn4RLebDTu56/Oe3YlhQbq5kyzjkJScjU41KoGGfaPYonMuPxVmnNv4GQivqIuN7ddbqck+FP3nWmLk00LZFIixEwqMtfTkmm7jBGmG0eOcXgtFh07YB3hZ3sknonsP0Byju9COHq/880rIDt99XsMatirp7VygrDIwZJEH5XcFjiNiAHji7V1xWjtbxBHMXCQHJnsO5M8h0hDGazto8bDb5HB5FH6/8PT2uBDvJJp5Qt413SO5x4hKDWHheAg/4rsJSpLC98TsvpoLi7d/59L/F0FPY9tz7UOi59vxfZw4d5IzzThT2iYSfCsMdl1YF87ToTamogoKKdDumwqNtNlsaEuYQGwFtMdBGWHI6sFZzofZtmSIF/X3qRpQxufvzDUkjUTndDNKHSi9X39EEh+UBcisbkANVXToGaSYqz7xiqEdcexYrxwxtIKCNsEKvQP8bIhneltA+4SOhEZx9XZ+YiSnVCzVg+HWRfFm4/M7MPjtBDVdD1uSeim9n9BNQp9gOEG34j8xi+71sDgk0Yj07xiC4YvzGZ4askoDxvrM01OvdOaatl0=",
+  "URL": "https://www.tarsnap.com/scrypt/",
+  "LICENSE": "BSD",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1594137474",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "openssl"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "FILENAME": "libreoffice-still-rw-6.3.6-1-any.pkg.tar.zst",
+  "NAME": "libreoffice-still-rw",
+  "BASE": "libreoffice-still-i18n",
+  "VERSION": "6.3.6-1",
+  "DESC": "Kinyarwanda language pack for LibreOffice still",
+  "CSIZE": "287105",
+  "ISIZE": "1556896",
+  "MD5SUM": "86dd40b7c7c88debd2d898c6c851d82d",
+  "SHA256SUM": "56918dce21eab7d8581de9591d409eda3c4a9862e8c10c3a328246b5bb4b9e4b",
+  "PGPSIG": "iQEzBAABCAAdFiEErcih/MFeAdRTEEGelGV6sg8qCSsFAl6tSuwACgkQlGV6sg8qCSvFlAgAmC/QHTAeayQqDVoc6MiQ/o6xY4YDfkr0L6GpzCbH+fo3KqJ85IevSviqTp3k9bd1gSxzENUlI4KGCOwTXUbASXxVR2LM492dbktMXoD8AFRmZUa2hkb3J6DHelnHaON/dBZG3pP9CNxXPLtXxpvMUWDmYMBIhqTQLxS1YuSznqEVViunu+dFvSWqeszhSm+VOvKqwIrFsKKp2gs0BluxeHAOvlxxz8GqwGTp+UTwaXuRZYidVIUAh4KopDlrWus7ytFGwcHV3IfwarCGZTkK+b4sqaQv27M67v4HlswmxW1OG5hu0qFguVPskI+EzxK7r8WqvRYjuIG0f8NCzYFyiQ==",
+  "URL": "https://www.documentfoundation.org",
+  "LICENSE": "LGPL",
+  "ARCH": "any",
+  "BUILDDATE": "1588407321",
+  "PACKAGER": "Andreas Radke <andyrtr@archlinux.org>",
+  "PROVIDES": [
+    "libreoffice-rw"
+  ],
+  "DEPENDS": [
+    "libreoffice-still"
+  ]
+}

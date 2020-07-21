@@ -1,0 +1,24 @@
+{
+  "FILENAME": "gambas3-gb-markdown-3.15.0-1-x86_64.pkg.tar.zst",
+  "NAME": "gambas3-gb-markdown",
+  "BASE": "gambas3",
+  "VERSION": "3.15.0-1",
+  "DESC": "Convert the Gambas markdown syntax to HTML",
+  "CSIZE": "15792",
+  "ISIZE": "33627",
+  "MD5SUM": "429822e56dd33f52a5e6d4e4346048a1",
+  "SHA256SUM": "a9ca3afdd5f3849abeeae1db3aa8bd4c14b6006ab8829171e5e43eb3423bfbde",
+  "PGPSIG": "iQEzBAABCAAdFiEEU1+MAzlFDwVKTSgnBglqatHO3awFAl8C7RcACgkQBglqatHO3awpywf/Ti3scoHdbLgvx03D5aiTuel85SfXjZnNs5Dyn0AZFakTyo9KAzSU+xLvY9Sv9e3buzeieQgWf2XFdVG4FdlHE/eUPrxKFWaAoVRqzsVgUKZ3CeNme4hoL4dXLJs47E85AqeYs0FHq9euAXGuFJ+sFy8LJmcupECUTm2hrEIwPU/TTASRP0h4mLaBB59AtdTXeHAe2aF2HFG+qjho+yANXn1cyhmplmY38e5EJ4OHjboQ/qiDfjdXbHWColceI0UiYODyy9kKPVzMQeZGKy+pA4mRFY2PqivxvgwbSXSZhYMsK3iorkdx/3KHMY5JoN/KKTZ1I5abp51BxgS/9oG/DA==",
+  "URL": "http://gambas.sourceforge.net/",
+  "LICENSE": "GPL2",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1594026389",
+  "PACKAGER": "Laurent Carlier <lordheavym@gmail.com>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "gambas3-gb-image-io",
+    "gambas3-gb-form"
+  ]
+}

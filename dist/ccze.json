@@ -1,0 +1,24 @@
+{
+  "FILENAME": "ccze-0.2.1-11-x86_64.pkg.tar.zst",
+  "NAME": "ccze",
+  "BASE": "ccze",
+  "VERSION": "0.2.1-11",
+  "DESC": "Robust and modular log colorizer with many plugins",
+  "CSIZE": "44787",
+  "ISIZE": "349172",
+  "MD5SUM": "dd75d6a8bad219c891b7fc0b2c214dd3",
+  "SHA256SUM": "3d7e01b0408ccc983e364923ca892b957c5b74334a779174cac680aa24eecb54",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl8EhAMACgkQeGxj8zDXy5IxgxAAqAsaTY0jWNK3NIbMzyFmGM34Qiiufw3JzcSkBMAF3ISJ67Vy+If/xir6wYDfcXpqTMMNl6S97Ry2ZfKELT0iT7GR5P6o1uHDzrp1v2kH2lUbtcj+XCf/4X3NPlb1cgM/5s99/Tu6uUhXjKcc1av8c/dXAnkL0R5vg2ratzIGyQTvr8EVFws863mTqzIJqhfhpKaALSk/AXfWmCLu+ZrDg29iqmqg3s6tTmvg19jHu3os261RQDNstFNmocQooyMHttOCvhsWgX2UEVjmfUsK86hsE5QRCgNqzTeibeZTMljWgekH+IHf7SXJwyTWWTWViz/UAFYIJtPljg9h7P+/peB5FPo1v11hxXoQ82eKMJE6BZpru8Tr8jhtqRAV8wD5fTosIK3JE9wruluTKHDegTvioZPjLxrgruKTKvcNMFLWt4djB3+lw+DdE6nsvJYVTNySZPMHIuTboRP9p+nOzSjNPnUEdwlSABKFZwGRifimEDMYVsFPxD33CiJmPqNg++tgBmJWv8JiDMnM/4v8DRGRxnntSvoGY45iABosL+xkCOlJj0GaejuJOkq+rtpuEa+cgVFjy0PcRa8chTZERKGeQ+9adk+3+ipWIz6p8tYcmsPCABzvQkSBHOGuHrJXw6pIHdqAcKfRiCl6myDTqCnAXlb0fPZKUIg0zKOSks4=",
+  "URL": "http://freshmeat.net/projects/ccze/",
+  "LICENSE": "GPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1594131436",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "ncurses",
+    "pcre"
+  ]
+}

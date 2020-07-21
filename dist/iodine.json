@@ -1,0 +1,24 @@
+{
+  "FILENAME": "iodine-0.7.0-4-x86_64.pkg.tar.xz",
+  "NAME": "iodine",
+  "BASE": "iodine",
+  "VERSION": "0.7.0-4",
+  "DESC": "Tunnel IPv4 data through a DNS server",
+  "CSIZE": "53124",
+  "ISIZE": "143360",
+  "MD5SUM": "92751eedbd4cedca9b471f4ee74ae34e",
+  "SHA256SUM": "3c09fe0dbd323fc5c30457c8320bb20a534bb2ce1f0a0970d904ecd1bf532175",
+  "PGPSIG": "iQEzBAABCAAdFiEEFRnVq6Zb9vwrc8dWek52CV2KUuQFAlsbcLMACgkQek52CV2KUuRmiAgAhwLA2VK/8pzzLn+4taayXHes7zIcDW/koauvdGStY/MryD9VLxMS0tm8wtujWUiK7NNvNr3oqWWdhWTQAmiYJSca0gxMFYDaHR70u9AekGlX3AfR1Jd/iHIsyj9woxF67OyCQiYQjULk60ZvHnTKOB37bABOBYQtNchqrH8j+bsgAy+sehQ9YB7WMD1oYeyuaQidhuvDYycfdCnRRFA6q43FQKta1qZff9lAmmwIKc4idZbqUAXwimYKjse/Cr/42e27LwfScmZ/38vMAP0f1gEjQnbEoblI4SyWyN14qKYlIe0jkJE5pfFmpJ+vAd+cOHNTCX02+pyI5AgtGYb5aw==",
+  "URL": "http://code.kryo.se/iodine",
+  "LICENSE": "custom:ISC",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1528524857",
+  "PACKAGER": "Antonio Rojas <arojas@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "zlib",
+    "net-tools"
+  ]
+}

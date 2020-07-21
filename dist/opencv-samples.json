@@ -1,0 +1,23 @@
+{
+  "FILENAME": "opencv-samples-4.3.0-7-x86_64.pkg.tar.zst",
+  "NAME": "opencv-samples",
+  "BASE": "opencv",
+  "VERSION": "4.3.0-7",
+  "DESC": "Open Source Computer Vision Library (samples)",
+  "CSIZE": "33765087",
+  "ISIZE": "55401991",
+  "MD5SUM": "c5fc8321be9b70befb544f2310c0ca49",
+  "SHA256SUM": "4a160de31d9c380d97472672b4c57f6dc0c2a8e982f8edbf757b1e405010f5a3",
+  "PGPSIG": "iQEzBAABCAAdFiEEFRnVq6Zb9vwrc8dWek52CV2KUuQFAl66ZGQACgkQek52CV2KUuQ6mAf+KzGsF0QvYX0wtLUG21Rd76tISf8+LzRO4WCNBjl17xebf9pxXtljBhDe6IptMMtuTlBr+EJCIXBdMPzptmSwtz4jDJ1X0E+EJlCAAP0Qr+0wxJKlQwk9mFyAN6yXGuOkqZ5jISYsGKenzTo8Me+zlZyJTMP4k7cUKTHrhWivO1euRdrK0+y7AFKrOYI6A7BpTlsOxA4VGO8kPr62xL1AvUcqnjiu/Iv3nhZntUDBwepJjkmIV1ZYZW29Me7jcowgFLpw8C0V4wGpk4cd3GRO0OtKXhkcaX6SJWQ5O3mf71zfrGISpaNF0T7/H3yzDqwTG5BzfGcB2cRgvsHgnc4zNQ==",
+  "URL": "https://opencv.org/",
+  "LICENSE": "BSD",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1589273112",
+  "PACKAGER": "Antonio Rojas <arojas@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "opencv=4.3.0"
+  ]
+}

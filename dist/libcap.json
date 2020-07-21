@@ -1,0 +1,24 @@
+{
+  "FILENAME": "libcap-2.36-1-x86_64.pkg.tar.zst",
+  "NAME": "libcap",
+  "BASE": "libcap",
+  "VERSION": "2.36-1",
+  "DESC": "POSIX 1003.1e capabilities",
+  "CSIZE": "59340",
+  "ISIZE": "165381",
+  "MD5SUM": "0859621c8e0649650bb2bd55ca73fbb8",
+  "SHA256SUM": "7743b11154993cb0e46474eba211583b95d3fb0f0bae5a7622b593118372381c",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl7ozH0ACgkQeGxj8zDXy5KitQ/+PV/EfMpTFVvR51FCzNyLtcbYOc5AYG7iK3UKQBhlJq0yYmr/WiQ849kpYCb+oeTncRoNB6QBaQ0KrhJIKW4P6kdLsi1ixDraG79Be3wjIrJhaV+wzmWfZu9z667Q6mLUvyh6DTSmJS7DPl1gpgJiZeGRfHeg7ZLCU8/zb+m/lp5HQqys5QqiQHmkolt9WaXrnkcc/sxWUjPtUj9v5QsavNnMnWMXc+80DVIJnbqf2wRKW/mzW4QsWkz3uubsYmGe/FSFOOuJg7NlagZwQ9nFEhCzg2yV/T9K+b0cSPuMGcshuY2OulJF2A/bY44sKaJf5dc94AhzU3q+QRlIVo47DfdmYu4ny7JUGh3cF6n8TqpAukGMXl/FvraMPbJ1WTQnUOda5DYDPCMCiGR17NSXX7FIef9izOBTZcNg0hXFeJhYWMh0VYe1siGalpz+973Ts0jEzNWglrtKxR/gAi0/ftzrld1RlvMY/VpdyH2hSyGYzMl5dzciRg00J0lVwS22t3kPSu4AltP7WxQVK7uzw51sveBoyk8dHqnqeNneoZa2IHjFpmf+E88ZChceSklocZz2CeeIUlvGx2TWoCO4yGKT0dcMtSErxRq66YR34lKtWMMAs2N23BxoRAuv8b3ITYzC4HEa7RpLoxwiBy1TNcCdxtCcr4aWqIr6PpFa5MA=",
+  "URL": "https://sites.google.com/site/fullycapable/",
+  "LICENSE": "GPL2",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1592314977",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    "libcap.so=2-64"
+  ],
+  "DEPENDS": [
+    "glibc",
+    "attr"
+  ]
+}

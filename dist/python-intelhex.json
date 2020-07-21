@@ -1,0 +1,23 @@
+{
+  "FILENAME": "python-intelhex-2.2.1-2-any.pkg.tar.zst",
+  "NAME": "python-intelhex",
+  "BASE": "python-intelhex",
+  "VERSION": "2.2.1-2",
+  "DESC": "Python library for Intel HEX files manipulations",
+  "CSIZE": "70837",
+  "ISIZE": "396155",
+  "MD5SUM": "9d98de79d80be41086300bd3ac673895",
+  "SHA256SUM": "f62cfeda27744061d63c024eff829536388002b13b85585826d3c183c4f30feb",
+  "PGPSIG": "iQIzBAABCAAdFiEE0jW0leqs33gyftiw+JPGdIFqqV0FAl5/qRQACgkQ+JPGdIFqqV3l8Q/7BLABZhrHjkORoOomjWUaa9mcS9MWdgOD3O+7pB9Lh4vkXWjH30KZ+YGr7ErrzHIj6jdKDkZ+zi67VQgXdp8vZjDU0gPbx7kll01fTMWHlCxqsLuQUwZm7GLSMMIkWRpZZAUseebgFCvhF/S/smoK2RHm+lASovQhLCp2zeqaXUfrKkl7vhs2E48N1YWW+ov7g6QghNaxO6PYBi/ZGng4vo7+IJd+p/SjRwB61U4abubskG0QjCL/lnRhqztBmDNvdpKznyCASxLc+QSJKWBkC8mpej2UX5V4cIKWtifSs+Q4NpPR6REc7p2pFYU9jopZB/OZEOc4/7rCFg7rLak96Qknhkzs3TNSC3KyQYkJ2XcUlGJklpxyIWrTfYcM02AwedDeYLUXpx3kG1U6y6K2KbVejdy1Wtn+HPxHAr9mMqySXeGMId59DE7LC4X6pAhl10Vs/GKMzqneW+pMYwMKFJCZWiBzyTV/d6riFtqK9AZH8vdQfpwua3VV5+WWUAKrXP7SjrYWnNsdQVuwsAs2eAx1nyVZHA5PmqJph3ZDq9D3W74eFZ8lyLQXlnEhjQS4I9mE7OgW5AjtNfByN1MxkNFk66g2SXaYsLo70Kooau9WQ+gSrbB65y+uziLVTNmZj/U+VARQ9D8EB1V7wV48D7OR/O4RNgfEDI+OsVs14P0=",
+  "URL": "https://github.com/python-intelhex/intelhex",
+  "LICENSE": "BSD",
+  "ARCH": "any",
+  "BUILDDATE": "1585424611",
+  "PACKAGER": "Filipe Laíns <lains@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "python"
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "FILENAME": "haskell-persistent-test-2.0.3.1-53-x86_64.pkg.tar.zst",
+  "NAME": "haskell-persistent-test",
+  "BASE": "haskell-persistent-test",
+  "VERSION": "2.0.3.1-53",
+  "DESC": "Tests for Persistent",
+  "CSIZE": "1802976",
+  "ISIZE": "14709586",
+  "MD5SUM": "bf5f0ad588ee26f0404ca19242130c81",
+  "SHA256SUM": "a3c352e88395c52bb6f83461fdfc4563a6feda6bc6c941da164b36c002efa1fe",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl75w4QACgkQeGxj8zDXy5IRfQ/+LimDfiEcBefpeyOOj5D6YUKXM35wBE6Osp8pmC3X5/vTursW6wVrIb3om1CeTCDE6oGAf6uqi04Euc0y5maHMSPjeMKtxsofRvzcfwab4Xkyimj3ed04Yjq7ZeRawX/mTwoSlhNtcf5Yz0O/3TqBDFITRLznlXKEpkym/gG4fCIPHZlLpqkWx0HkR7La/+cG4pBKEF7Rls0XOR5tsnESqc5WUvGqMTBIRJsQ7MAmw/E+sHKbCTwexs5Z4zykS+vQ2rgz19fTY33EiJTQE5aRnIYDt6FdnDwwUGAViQSt2eoCThI+ujRV0MhIjUVXcTY6gPW8GB1H/ff9ZU2qmaywrP3eOovQ4fHE5apSMiZHztj0aZbq1SSTrAj2WJDtgkgINbnIEoP0mCKjNKBpPWQ/wDk0K23BbFLdFhQ1xxoJ1Hc6Wur7/GwyfHqhYDZRzSvw/75idZE5e5bQRn1jooqpxx++PHIlP3XbQGaRJS9HvsFuzOewPEjN3GNuRxHJVDuCThVQkPoG1Q0Ynth0wtoYvaWCYqtN2yy80yvlHd57cnmEmcBGUJ/4ujUqIByE2Z4IIoiEm877FfYZgloQtBOn4JmweDYqFJFITg/Xthc9WMwJqw4NPiQjvDUZqj4jNuIGuUTuNSQrFyjJ4+C7IhNkvNRHQ+0aAmSJTPpa/YUOeFk=",
+  "URL": "https://github.com/yesodweb/persistent",
+  "LICENSE": "MIT",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1593426724",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "ghc-libs",
+    "haskell-persistent",
+    "haskell-persistent-template",
+    "haskell-aeson",
+    "haskell-blaze-html",
+    "haskell-conduit",
+    "haskell-hspec",
+    "haskell-hspec-expectations",
+    "haskell-hunit",
+    "haskell-monad-control",
+    "haskell-monad-logger",
+    "haskell-path-pieces",
+    "haskell-quickcheck",
+    "haskell-quickcheck-instances",
+    "haskell-random",
+    "haskell-resourcet",
+    "haskell-transformers-base",
+    "haskell-unliftio",
+    "haskell-unliftio-core",
+    "haskell-unordered-containers"
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "FILENAME": "broot-0.18.6-1-x86_64.pkg.tar.zst",
+  "NAME": "broot",
+  "BASE": "broot",
+  "VERSION": "0.18.6-1",
+  "DESC": "Fuzzy Search + tree + cd",
+  "CSIZE": "1335759",
+  "ISIZE": "3913974",
+  "MD5SUM": "9976f1b048c378369ebc24d4408281a7",
+  "SHA256SUM": "63f867a2a6a6afd541a76e4226cdd0b8f133d85e910532959087f7e48f113d06",
+  "PGPSIG": "iQIzBAABCAAdFiEEj8FaBklQqZ3RvRTdOeS4d+YuuRUFAl8L0n8ACgkQOeS4d+YuuRUHzBAAq1/Gvnc5vVVarBXEsgnp5GdGub2HCWrmao2Ia97JTVC8AxWopv0IFC48qrs6V4wR5x61E2/2L82TR88S49Zo4o0t/j5GWGvaTp0PhQTV0K52LepwRSQo1J5ryccuof1zS/vsbMvdPkxFprHRNwqtbOrdJ3CsNivB9nJix9Pq8Ml1gMB2adPnHpvJjrpX39hUa8imrKJ807/Y3+wZNmKuKtbpO6cMktcdYbRr1QYQlJO1SqFAG6Z2j/iILnR1bBY9wYKIcnByiROz386OJHYtbilop76xnIhRin3zc9vIhjjeyXbqiqQm1DxYA2Nuoulae/hJ80bXU1B/4QgSfAzo/9EL6cp5Uny3P5bWSqHFVqj+coC3JAkUnHrK4lXoFG78DH0y3ANdRW8Dm78NaMuoLleLf9NSlmpqNlLjiSVHmQS6hnUe9bmGZ1W+RcDpnSqU1jhiTI6eeek9tqTIYEeAz6whz/b1UTqcAyrCXeZTFum5aYupvJROITejhoJ2Pl1fn2LhJ7lYPEAlFR3A77dBvq1Ve8ETpOKB6DIBZhTR0XTzm1g3+EdRrEd6gFctPjWkXxY673U55EEMV0StQviYwvzatOJTNSQx1tcz94RDmRaFjrXvZaFuZKSivZbD/jMnUWnsSEwiQYf4kOA7WUBNHAkYeCSX3uH1LficCBslpsg=",
+  "URL": "https://github.com/Canop/broot",
+  "LICENSE": "MIT",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1594610110",
+  "PACKAGER": "Sven-Hendrik Haase <svenstaro@gmail.com>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "gcc-libs",
+    "zlib"
+  ]
+}

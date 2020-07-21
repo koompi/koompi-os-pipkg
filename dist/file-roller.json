@@ -1,0 +1,30 @@
+{
+  "FILENAME": "file-roller-3.36.2-1-x86_64.pkg.tar.zst",
+  "NAME": "file-roller",
+  "BASE": "file-roller",
+  "VERSION": "3.36.2-1",
+  "DESC": "Create and modify archives",
+  "CSIZE": "758738",
+  "ISIZE": "4023363",
+  "MD5SUM": "24048db4e6bcfc6c1b89b84e01d462bc",
+  "SHA256SUM": "f082b4571c8b9ed1850a08e78bb502f815983adb640cb71fe02df95426be3b12",
+  "PGPSIG": "iQEzBAABCAAdFiEEghj4iEmqxSLpTPRwpekojE+kFfoFAl6ckJMACgkQpekojE+kFfpq4gf9E4EZqw0qH9OQDxYmhhj9hJKA2tsLjk5a4uFty4tgTv7uZd0yFIIQqM35yMtydmu4I586NCyWjoBVq6nVB/gxAYUHkKWTjNx1/DWjKbAgpMubozB7IAnCOSqk3BLa5daSwIU/mKsk5POiT8Zc/eX+L6AiUEF5l5fPbtXTSosIpWkwM5S0BzbWzhGPN5pyUIK+TJorfoDY54ssGLXHIpENlraqddnkjgSs7gbCjffIJfxFzIwqwfisZzaRIj8sfkNRs0ojFo4DMOjYcQqzf1Ry3iSNr9Ps4ZBNrjFOKx5BHZ3cifOUdhjnf5B1vSGIyyC4K5zsCUK6uOWtqtBsyBsUoA==",
+  "URL": "https://wiki.gnome.org/Apps/FileRoller",
+  "LICENSE": "GPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1587318804",
+  "PACKAGER": "Jan Alexander Steffens (heftig) <jan.steffens@gmail.com>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "gtk3",
+    "dconf",
+    "libarchive",
+    "file",
+    "json-glib",
+    "libnotify",
+    "zip",
+    "unzip"
+  ]
+}

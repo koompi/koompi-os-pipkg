@@ -1,0 +1,23 @@
+{
+  "FILENAME": "perl-netaddr-ip-4.079-10-x86_64.pkg.tar.zst",
+  "NAME": "perl-netaddr-ip",
+  "BASE": "perl-netaddr-ip",
+  "VERSION": "4.079-10",
+  "DESC": "Perl module to manage IP addresses and subnets",
+  "CSIZE": "84712",
+  "ISIZE": "252019",
+  "MD5SUM": "50e0886b1925e7465cc5bd532c8940cc",
+  "SHA256SUM": "08a91deecfd52441861f8df870731ec50d353de80b34b937d684c8465105e944",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl7vNZEACgkQeGxj8zDXy5JPyw/+L+mS9Jd9f0Ye27GMPd1covfQNKu05xdIRqaFAyFzXikS8DNuBcyW6RFWIWWDTS/vZaP4MAUQEGigLR0ZDsYcFyhnkW1EUYOYJzvGtmvQoAz6KU+5nlIH+HnLzzQ6T11zHeR5OZ7cZ5nqvRt+2aIkYJdPkhIsPctBRGZOzw8TWXF0oNbsqFONqo+Fm4V9kZ7qPE/9V4/lYTbI6d/lQLMm3sGKeEIVfDdZUA5yXfaBdeNmwziFrUsqlG6lBEaQIDNczSMogsb0dJMb2b220q+WHrxKLOXc/j+WuQEetzm0QiIJsCOsaQc+PMmB7xkfBiWVPunDzbNqnf/DIGCrhvlPhyPkBg0FnhJo/mAEYARSwEnRj7YFwVJTUxvnIqU6vY7TPPcnYcScMGRqJ7TAihxLVgLyW8dDcLl1IgF0h381vVYdtWCVWFrfWCxbL0RkvKWIobfCeyvmcBfMW8iEKAcfr5+Jh36+8b8LhfZyCJ8bzkO+Qp+DCb8NuJbdM1fLK2EShVTcugzL0PzDzEnaweeqHcy4BCsvn7d+7SMVJv8a22UJ+okmWvbNhaUbuSulp9yABKeKGN36e/9tGLzv7sgV1ggwlgHT1hIgbY/+iL+U5NdBS7SsQTj4+lx9p7gZYqMYYH0Z3+Os6FsuM9uhjESHQkRYN+LfaBvz9eZYxhmN/nw=",
+  "URL": "https://search.cpan.org/dist/NetAddr-IP/",
+  "LICENSE": "PerlArtistic",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1592735070",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "perl"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "FILENAME": "python-typer-0.2.1-1-any.pkg.tar.zst",
+  "NAME": "python-typer",
+  "BASE": "python-typer",
+  "VERSION": "0.2.1-1",
+  "DESC": "Build great CLIs. Easy to code. Based on Python type hints",
+  "CSIZE": "37543",
+  "ISIZE": "170895",
+  "MD5SUM": "77287634ff2db09d33d3061f5a477e3b",
+  "SHA256SUM": "b3d82cb516a5ead841bca2aafe88e43e35f4fbc17353e90565b3107cbba600a0",
+  "PGPSIG": "iQIzBAABCAAdFiEEj8FaBklQqZ3RvRTdOeS4d+YuuRUFAl7OtXsACgkQOeS4d+YuuRVSCA/+JCFYbzUZnD+InOCh3AIKE2pb7z1TaoYF4X4yt2uKySQ+naxqPrmDBQntfOcyEY2rrGyS6uUqnCgS5h+zW/MBCDVL3qTeFCU5+E8qCS1o8kawEkDRYEr9+4cwQhTV55Z1wmR7VHrk4riVDgHA4LIzSkPuTquJbmPE7W29ZZ+3+j1V9QZbU/k1m3+AIFT8+kwODKPCc5LU67Q5vw1kQTL/hVpl6hyqhUr36KqhtJ/wZ6s5wRdtSIfA6wYelC/qTb4DTcByeIH6WzZeeymPoGixZ/0YaDpxQ5f6mycSqttTN/FMjTvs/zwgoaeNZu7mOHZ6dP3+/GMRaLohuIinsh8HJbecHfrldvck3icvv+01V5czgAGqIX1SZSVevBJ/kcnHIIiKOSVJFZk18NC+zvjYAazl8pIXlkBl7xJSkBycDHoaVzWDS7meQndzUU5DmDna1STsSbZ8OdakOL1szhmTn3WFIrW7I0JRNBYHpp/2/V6iPIb7dftFEzVYOuvgZOIoOM8GO4xu7kScJ0HsQzGv3/vSMCDbkA7jJezaa0l7N6UaXP5DlIK7lq8HV0CQHtbKw5Qysr/5ELyeIvBe7yPgezA79FHICVaC5eQdmMQtbupzjHx2JplpS+B/xRkemMVzEyPU5g4De1njpiv4sRr4Hs4n4K1qNsKctyijL5ASgDU=",
+  "URL": "https://typer.tiangolo.com/",
+  "LICENSE": "MIT",
+  "ARCH": "any",
+  "BUILDDATE": "1590605135",
+  "PACKAGER": "Sven-Hendrik Haase <svenstaro@gmail.com>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "python-click"
+  ]
+}

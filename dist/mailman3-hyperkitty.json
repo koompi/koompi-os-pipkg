@@ -1,0 +1,25 @@
+{
+  "FILENAME": "mailman3-hyperkitty-1.1.0-2-any.pkg.tar.zst",
+  "NAME": "mailman3-hyperkitty",
+  "BASE": "mailman3-hyperkitty",
+  "VERSION": "1.1.0-2",
+  "DESC": "Mailman plugin to archive emails with HyperKitty",
+  "CSIZE": "18101",
+  "ISIZE": "67014",
+  "MD5SUM": "68e8c22b49aa16d3bc63a38166f5ed7f",
+  "SHA256SUM": "e6ba7358cf0158117c90f8fbc5ec1d20c707adc66cc48a8912c3198f648b16c6",
+  "PGPSIG": "iHUEABYIAB0WIQTH54SUZv4jWDQ1iDdyWHNLQcMVSQUCXhxB/AAKCRByWHNLQcMVSUHSAP9/anW9diAcGwsYcwugXJCdGJxfUATXscsAlWjse3VViwD7Bc1ULRQiCEHERTSWzD2+cidw6pPe1Nur/W28oP7RUgM=",
+  "URL": "https://gitlab.com/mailman/mailman-hyperkitty",
+  "LICENSE": "GPL3",
+  "ARCH": "any",
+  "BUILDDATE": "1578910087",
+  "PACKAGER": "David Runge <dvzrv@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "mailman3",
+    "python-requests",
+    "python-zope-interface"
+  ]
+}

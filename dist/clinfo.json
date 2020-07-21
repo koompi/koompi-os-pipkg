@@ -1,0 +1,23 @@
+{
+  "FILENAME": "clinfo-2.2.18.04.06-2-x86_64.pkg.tar.zst",
+  "NAME": "clinfo",
+  "BASE": "clinfo",
+  "VERSION": "2.2.18.04.06-2",
+  "DESC": "Simple OpenCL application that enumerates all available platform and device properties",
+  "CSIZE": "40211",
+  "ISIZE": "109225",
+  "MD5SUM": "17b088730e88cde169b1c5a2a4f3e610",
+  "SHA256SUM": "58e8dc905564c33cb4e72409024a85f6841f04520bfdcc867b575ae8edaef850",
+  "PGPSIG": "iQEzBAABCgAdFiEEado014/g79WWrG0EnYk+xNqvkSkFAl66kpgACgkQnYk+xNqvkSmYAwf/cDzQHDsESldmi3ZVylu9So/VcbPVLM+QKFT4D7Qbh9UN59oIBgi5NfbvT6F9G0GoPgwMW8MJeu4RGsB6Vu4uF9vy4ZWNJaxeX4f5PBiCtP5xhaFdu6SPPXz0KaapVeazxm2ScSDAcriemvhKG1zrhikoG/XdYbwsTwK0J7iEhAYC/X4jq1dDwl3WIb/aNqqn0s/KyAZmpkHMFCS4qmEVcjTXZ2cxdXTh0xDJXBXGw1kNMYJIq/D1dpKlqvfUG7deIvcucN4GXS29jxiRpkKVsHKoDd6ZXEtny+GQ+qUy6oxydq0q0hfdP+9qSvkiiY4DTV5SZQLmyyIp1x+IV7Hh1w==",
+  "URL": "https://github.com/Oblomov/clinfo",
+  "LICENSE": "custom:Public Domain",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1589285163",
+  "PACKAGER": "Bruno Pagani <archange@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "opencl-icd-loader"
+  ]
+}

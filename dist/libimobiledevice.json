@@ -1,0 +1,25 @@
+{
+  "FILENAME": "libimobiledevice-1.3.0-1-x86_64.pkg.tar.zst",
+  "NAME": "libimobiledevice",
+  "BASE": "libimobiledevice",
+  "VERSION": "1.3.0-1",
+  "DESC": "Library that talks the protocols to support iPhone and iPod Touch devices on Linux",
+  "CSIZE": "375005",
+  "ISIZE": "1617169",
+  "MD5SUM": "3e7f1342d7b76c6ef13a92af39807ff0",
+  "SHA256SUM": "bc8b71109d657063aa245bb631a2ae00b021c45166b6e3f68df332f6ac9e4131",
+  "PGPSIG": "iQEzBAABCAAdFiEEFRnVq6Zb9vwrc8dWek52CV2KUuQFAl7pyl0ACgkQek52CV2KUuQH2Af/ed3aerxro2LrWAZSSrCGnQlqD5TwDNC6RD16jW+IWTZjadQCwHZWCU/la7e+/X1G4DzD1Jyg0+u+MGOwpFa/4jy+1cTC3fEeKnjTDjkhNM+b9nkfUCSolefSDnLj+GQoBaZwvO0NuA+uMUZDXc0zGAYrFQsBu5a3ZwUFyhb83YiFYxLGidSu5lxZN0wq1aFh5qZipneq2f/wg1+RURHu9zgneLyHKvbJlFS3SBCDos/yuBGKf57zjjpj6lBx/tGDpNvagVvp8aQIxeBcTjXEo/8a1O6AWF7RpHFpi4nFvzkEAtLtrurvH5ZqzXyjffZ0D/JV4p/QBZ3GutwqpS/YnA==",
+  "URL": "https://libimobiledevice.org/",
+  "LICENSE": "GPL2",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1592379878",
+  "PACKAGER": "Antonio Rojas <arojas@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "libusbmuxd",
+    "usbmuxd",
+    "gnutls"
+  ]
+}

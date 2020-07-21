@@ -1,0 +1,25 @@
+{
+  "FILENAME": "latte-dock-0.9.11-1-x86_64.pkg.tar.zst",
+  "NAME": "latte-dock",
+  "BASE": "latte-dock",
+  "VERSION": "0.9.11-1",
+  "DESC": "A dock based on Plasma Frameworks",
+  "CSIZE": "1068066",
+  "ISIZE": "4558084",
+  "MD5SUM": "39749475f68ccaddc64d5d16ac072ab8",
+  "SHA256SUM": "75e6787bfcacee4184e810d83bf46703212c2ab2884f858b55be31e5ac551073",
+  "PGPSIG": "iQEzBAABCAAdFiEEFRnVq6Zb9vwrc8dWek52CV2KUuQFAl6SOjsACgkQek52CV2KUuTOwwf7BW5QIANZM20ijA1WguxltLQQp8VOn/MZll1sANOyVaoKFJS5nmfzfl+uD5lYLRJVwhxMIhwSUu7c5CNobhLmMgCnoIWg8j+Y/xO0SKBY6Z9DYnaMutFnciuUOWK6kMUi2R7LgkRm8FKsTyfenIYOO0+qg/4/6Nd9lVGnB24tNwKxq+8hYBZj07gYtWWYRqcMnXrR31M/7dsds8f+mnf0kyWL+a55nG4xyl2I3UTpH3LpRB1QZMJ3nZe65Qmq+W3DAvzGhwwCFmTE8a7o50HMNOigk5rMpgp2kw/9sNfWFKyznPizqkBk3MqHvt6g4pFyrNTCn8bTpoc+j/ZLn8j1sQ==",
+  "URL": "https://store.kde.org/p/1169519/",
+  "LICENSE": "GPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1586641379",
+  "PACKAGER": "Antonio Rojas <arojas@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "plasma-framework",
+    "knewstuff",
+    "hicolor-icon-theme"
+  ]
+}

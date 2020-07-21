@@ -1,0 +1,23 @@
+{
+  "FILENAME": "ncdu-1.15.1-1-x86_64.pkg.tar.zst",
+  "NAME": "ncdu",
+  "BASE": "ncdu",
+  "VERSION": "1.15.1-1",
+  "DESC": "Disk usage analyzer with an ncurses interface",
+  "CSIZE": "45844",
+  "ISIZE": "88487",
+  "MD5SUM": "87bec6767705532f69637efa1776ede8",
+  "SHA256SUM": "9cd1aefe21ae948f224493b0f645e89f5ff1758054afed300d51717c92a28da6",
+  "PGPSIG": "iHUEABYIAB0WIQQaYNxEJF0G/vkGI9bu7uLu7i7u7gUCXuE/AAAKCRDu7uLu7i7u7hlmAQCQ4hXcKW4FuZV1kfdHF825WARuWEDQn8a6Ek9ESr1gHgEA3Sm4S/SGrxhIpnQesPTgeVfctGJ4nT/4VPUQAw18agw=",
+  "URL": "https://dev.yorhel.nl/ncdu",
+  "LICENSE": "custom:MIT",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1591819949",
+  "PACKAGER": "Gaetan Bisson <bisson@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "ncurses"
+  ]
+}

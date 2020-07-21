@@ -1,0 +1,23 @@
+{
+  "FILENAME": "alure-1.2-7-x86_64.pkg.tar.zst",
+  "NAME": "alure",
+  "BASE": "alure",
+  "VERSION": "1.2-7",
+  "DESC": "Utility library to help manage common tasks with OpenAL applications.",
+  "CSIZE": "108681",
+  "ISIZE": "765744",
+  "MD5SUM": "196e6a4d27871f225cd7b2f0b5451962",
+  "SHA256SUM": "6e7743baf4367a4ccc4280c6780389ebe67d654cfc45b4f21a08144ccff9a1c3",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl8Et+sACgkQeGxj8zDXy5KAyg/+LWkdLZ4znIh65WwrURtzV0dJW5PB2A1cpzZmwx1c5oydHXs9Q0nnhJJLlNO/vuECUhpZd4Rm68nIJLphncoa6MwCBMf9aBDawjpkGIw5G89c8nhTspCcXwKq08XMbs15lzke8qzuhOgNk71IkfdDawpCd3lmEfDxzGv6Tn5VGqb+sZj1PwNkG7x8USHjgnQlfKFIa0g4cGuc+8yk1c8yxYFhSW9FcmZS4mwKgvfGayjK3kjwvIONhObuB3+1op32tPQJ2ZMzj9W3+6cBlLmcHeZk28yFKZAhqXIL22E/SUZYJgEcwnZs2YD6/te8XwSo5VkguVnKIRiCfGRs3V8rSE/E+/Bdp8m4n+8jO89BXhnUJsIk7Pnk0/ozyacGhoe/TeF/Mk0eQz4/aQSV5+vHcvApsvfd1QP4Kw4qvNfvlHRgFbnCngtRnFqqWgIEGJkCcgRicuYcRjR5dOe9ELYZrCmTlaEfKRCH3H+se/Kn1N9bm9QsR5t/jhbtqJwN6hgo0BqkPHGdfXjOTWH4I40l5MeuKber+9yE22NK6OhkzWkVD/+0Oo4boVUXKFkvzG52gI8A0mMybD4JdZNIHxiQqLDaTR3iKRerDkG6K4e/7bGsEHOJ4/iWG/Bdqxw5mO1vmhxc7/F8MUCU3qYpT7nlDD2WqZygAOGOin9lQEpIJag=",
+  "URL": "https://kcat.strangesoft.net/alure.html",
+  "LICENSE": "MIT",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1594144714",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "openal"
+  ]
+}

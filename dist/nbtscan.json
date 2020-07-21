@@ -1,0 +1,23 @@
+{
+  "FILENAME": "nbtscan-1.5.1-8-x86_64.pkg.tar.zst",
+  "NAME": "nbtscan",
+  "BASE": "nbtscan",
+  "VERSION": "1.5.1-8",
+  "DESC": "NBTscan is a program for scanning IP networks for NetBIOS name information.",
+  "CSIZE": "15619",
+  "ISIZE": "33602",
+  "MD5SUM": "e303aab15e018ccb75cc6443d58b3862",
+  "SHA256SUM": "d0131d59a46d4995b50ecd37e64ae2f783dcf8bb095313d4237639ccabf4ef7b",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl8EgHIACgkQeGxj8zDXy5Ij5g//RJTClGhFjb0r3E7DMpRtTeMsYLxqtAHzw2xYyUOeKDJi68Tac9Kmgl6YLwm3lB10lARO//eMn9OCu048NgeO27PszFqRlw/WTBLZQoLH404etpeRDEse7BFi4uqrkoJuB/i1e0O6OGzRFtcnbwLMYFdKZF1kfJENK3THuMyaD63W2IZVLZh/R9INu19cxdLbtHHL2qkzAwZwaegcrQxsp8HsvE8WBZmOfgK8Z27VTaAKYDEaX5btuPxU+BQO8u5JVOig/e4VItdCxkFm7dvin5+cziil8w/Uez3qFs50If6iLvOYraYC66ZzISLoj6yS+Q1v9vxD20XUcULfe285Corgy7QH63YqHwRLkVwLtNtofz/wLpQN9ZUM1IW6Xx+MPd5iftx75IGrjRmW+2+ipejqnCZQ2liVEtQlJId1N92CgIMLrwgVgb0EsYBfprCX9Cyc7ZkqIaI8UoHCAQ0ZBC+cNHqP7pDtkw33i21aork/WTbyZn9Kijr/jlIwRLtEWMYkdtASNwInUnq3NaM/xGid9FjPfNAeD1F9eMTRUoqPcIdgfWJfwsTbAQ+QpAxxCHWORV6T1B7d3B3tpV1x1v2mxsfokUns/JA4ea+JsSwi8z6aI5rg8mavDKCGxw93M6K4Ul7wyZH/B0hx0uJ3gFCaG8DcY73Rh4zmYISzeyE=",
+  "URL": "http://www.inetcat.net/software/nbtscan.html",
+  "LICENSE": "GPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1594130523",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "glibc"
+  ]
+}

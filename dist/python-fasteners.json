@@ -1,0 +1,24 @@
+{
+  "FILENAME": "python-fasteners-0.15-3-any.pkg.tar.zst",
+  "NAME": "python-fasteners",
+  "BASE": "python-fasteners",
+  "VERSION": "0.15-3",
+  "DESC": "A python package that provides useful locks.",
+  "CSIZE": "33081",
+  "ISIZE": "153336",
+  "MD5SUM": "68fb767bd56ec78bbcf2ef3f3ce3c304",
+  "SHA256SUM": "5b33847bf515b33e75fb72a8270c7f2c7275a8174e0b5c1e026a25ee9859d8f2",
+  "PGPSIG": "iQEzBAABCAAdFiEEzgvecadZqH8j8PfYth284QkBwWMFAl5vwV8ACgkQth284QkBwWP5NQf/dR6oJLpH0odjLv4WIbWMHNQZ42J1wRBDWbHfBbdGeAMIFwma56vTNcXNj6F85qOwAc8FpUevYtZZoexHIMeOQyXzNf0HNDsuUGteAqgNhVHgzVbIY720eo2un11KLCNbmJsMIi4F+yTxr0gu20w/Y095VxqGXIB5JwY72td/LfEMHdE0ctp8G4gIf1pxN45PLG1L+7IeDk41aulqfymQWF2W9ETiGAVmPpy1ZoR0vj7ZUDCCbprr9yKUBih1LHzCco2ZxHTJ5lLvgSLlwDAwE2ISrHQVy8NTijf3cCR5BByKfxdwKNuIhofS5ItQOh/wp0EjjbrJdimEBuj4gitQgA==",
+  "URL": "https://github.com/harlowja/fasteners",
+  "LICENSE": "Apache",
+  "ARCH": "any",
+  "BUILDDATE": "1584382279",
+  "PACKAGER": "Balló György <ballogyor+arch@gmail.com>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "python-six",
+    "python-monotonic"
+  ]
+}

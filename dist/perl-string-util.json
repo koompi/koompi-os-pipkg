@@ -1,0 +1,23 @@
+{
+  "FILENAME": "perl-string-util-1.26-2-any.pkg.tar.zst",
+  "NAME": "perl-string-util",
+  "BASE": "perl-string-util",
+  "VERSION": "1.26-2",
+  "DESC": "String processing utilities",
+  "CSIZE": "16725",
+  "ISIZE": "32431",
+  "MD5SUM": "d22e2d940b9d2983c1847e2d32d4f5fd",
+  "SHA256SUM": "3ea83649d0f53443693e69301bcc027bdbad8b516847d80b82790a64b16306c7",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl7vOFIACgkQeGxj8zDXy5J71xAAun+NV0YZOhVRIfd2qfAFd75mOxKIvuHiwvs1tj+GXcyvRRSbmHiYnH+4TGS5xFAU8ov1rbHEKYYU0WGqtft2d+641H7Le1Nrkmxzr4kgIoPYMUiSWKdXS7sBYzYvAkK9JL+6BK3EPU/rdj7T2pQEbuWAbl9ewTtxO0xOoWGeP6t+MPZkuTX+ZfF/huDibmX7QbWEDYnPgJqp8DNmLMl4QOOHT+2fG9ARFC9X2lAzrzUZvH+sLgHxPw/popOX6nzvCzGAXhAcL5mESL9iDsp1V9UIEPKbc6eZ7TrwUqx1W6fV3xRCpGxqRJ2YB5L4ogZOMCntghUqMicd0A0voLcpM+q90DGFLobT8H1/8KL+qDuBo56+C0ZCKPvFV3SidO0L5zYXMgTMmM8S7itt7IPmkxRwqDVWsnPyTbcfGLLl24CFI+s5ROEi5eJ62uES2NyX3OnEFsyPHQQiOGGUGy+PqEzVtq7/65F0IutnIeXMFr67N1HQrgM9ZTuwcmUIxJtur2xe4AmVnh+9sZRVJcr2zeTikPDTPgP/GRQ+s2yTVfzq0s5ze5FIkaQ0t/NlnuUMuALAVbc9nIRVjoWK/CVa1PSX4xY6O8CCFNcpiTMRpOXOohf+MVoOzVweHI3+oSHISXdZUHe6pNbqpFjXhZIUCpnBMvzydyx/7yBqcDj0hJU=",
+  "URL": "https://metacpan.org/release/String-Util",
+  "LICENSE": "PerlArtistic",
+  "ARCH": "any",
+  "BUILDDATE": "1592735794",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "perl-number-misc"
+  ]
+}

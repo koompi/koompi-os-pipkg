@@ -1,0 +1,23 @@
+{
+  "FILENAME": "libreoffice-fresh-sw-tz-6.4.5-1-any.pkg.tar.zst",
+  "NAME": "libreoffice-fresh-sw-tz",
+  "BASE": "libreoffice-fresh-i18n",
+  "VERSION": "6.4.5-1",
+  "DESC": "Swahili (Tanzania) language pack for LibreOffice Fresh",
+  "CSIZE": "267265",
+  "ISIZE": "1493714",
+  "MD5SUM": "b7a11701a165f0c21376e13e55b9118c",
+  "SHA256SUM": "c3c2ede59d19610727ca9ab683b6c7d216567a81f1f33774e641bcf8bc8ae900",
+  "PGPSIG": "iQEzBAABCAAdFiEErcih/MFeAdRTEEGelGV6sg8qCSsFAl7+F0AACgkQlGV6sg8qCStmPQgAo9TWCuVT/DbRFnTBZzXT7f9ZSmvtfmvuLN8yTEC40sCrLnLgHI+M9BYfKJJYw+ReuTnokpJTuD4b9YeNUV1ulSdbkz3F2iJTzBjw00xQmwt9sMqg9d1BfrN5qv5aWV/XxPNNtLsPNNUhQjClTkPc3pg5eYxAY6Lmb6bVAJgiEcCvi8QwF0jYzV7PTBlRxMeW/TqkAfafVY1aFTwWSyHWaC4iG4z9dULPGDLe5j29yVm68wGY+QKAIgsbwoJM8C0eonskjJ4N7wZwQPrlGTxBPLQtoWfC3SUxZsZvLfDTzqPLDlhKoeT/1eMuobdk0AQhr5b1B2PVU6+Iq/Nt3R6qGQ==",
+  "URL": "https://www.documentfoundation.org",
+  "LICENSE": "LGPL",
+  "ARCH": "any",
+  "BUILDDATE": "1593700315",
+  "PACKAGER": "Andreas Radke <andyrtr@archlinux.org>",
+  "PROVIDES": [
+    "libreoffice-sw-TZ"
+  ],
+  "DEPENDS": [
+    "libreoffice-fresh"
+  ]
+}

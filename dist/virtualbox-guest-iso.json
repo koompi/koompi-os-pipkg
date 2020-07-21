@@ -1,0 +1,23 @@
+{
+  "FILENAME": "virtualbox-guest-iso-6.1.10-1-any.pkg.tar.zst",
+  "NAME": "virtualbox-guest-iso",
+  "BASE": "virtualbox-guest-iso",
+  "VERSION": "6.1.10-1",
+  "DESC": "The official VirtualBox Guest Additions ISO image",
+  "CSIZE": "43070250",
+  "ISIZE": "60453872",
+  "MD5SUM": "9d297b7a50b61ab945e1cc94dce84dac",
+  "SHA256SUM": "611ae9dd569fc14f8a28e0b495395ad8fd8b79035056ff7a1d1f997bdc68ee71",
+  "PGPSIG": "iHUEABYIAB0WIQQEKYl95fO9rFN6MGltQr3RFuAGjwUCXt361AAKCRBtQr3RFuAGj8O2AQD5CuycerflH82z+D5NqYHxMtlFtk5hNfWIXPBTtanjfQEAgJRa4ee3oIQrQ5VmFpx/PJEJELBHZVxlOGNj79ULJgc=",
+  "URL": "https://www.virtualbox.org/",
+  "LICENSE": "custom:PUEL",
+  "ARCH": "any",
+  "BUILDDATE": "1591605918",
+  "PACKAGER": "Christian Hesse <arch@eworm.de>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    ""
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "FILENAME": "nginx-mod-passenger-6.0.5-1-x86_64.pkg.tar.zst",
+  "NAME": "nginx-mod-passenger",
+  "BASE": "passenger",
+  "VERSION": "6.0.5-1",
+  "DESC": "Passenger nginx module",
+  "CSIZE": "474355",
+  "ISIZE": "1750493",
+  "MD5SUM": "a041dcb2277108fc1d4e669dc54dccbd",
+  "SHA256SUM": "964b1f93338e8b47805436fe8821367e619afc891b8e32f92f7add9faf90709d",
+  "PGPSIG": "iF0EABECAB0WIQQsEYxiDwLbmsHQ+fqU3SOT2i7kIwUCXtU1XwAKCRCU3SOT2i7kI8sZAJ9H4w+ArE5MTYoxhnjDeCbjXqanJwCeMKQrjmE3ori50dTDueaUevyH3yE=",
+  "URL": "https://www.phusionpassenger.com",
+  "LICENSE": "MIT",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1591025396",
+  "PACKAGER": "Massimiliano Torromeo <massimiliano.torromeo@gmail.com>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "passenger",
+    "nginx"
+  ]
+}

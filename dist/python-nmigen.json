@@ -1,0 +1,23 @@
+{
+  "FILENAME": "python-nmigen-0.2-1-any.pkg.tar.zst",
+  "NAME": "python-nmigen",
+  "BASE": "python-nmigen",
+  "VERSION": "0.2-1",
+  "DESC": "A refreshed Python toolbox for building complex digital hardware",
+  "CSIZE": "309084",
+  "ISIZE": "2089648",
+  "MD5SUM": "85f838cd6883d2d1dfc7bcb609c14083",
+  "SHA256SUM": "0120f3126bd7e679349bfa868bf3148bb626df8f9c28554621242e35f5ddceaa",
+  "PGPSIG": "iQIzBAABCAAdFiEE0jW0leqs33gyftiw+JPGdIFqqV0FAl573VcACgkQ+JPGdIFqqV2uHg//Rlr4SJ+n82rRp6hi7IadyD/plypNbKY5K2b1NISC95h+fmRgJ0hjNFPlnz6wEkFhOTaj1XP2CQmPpKGUv1h/SNZ72ooRr9N8skzPNIUonlyDoo1Vx1joDln9SWB2VXQeV8I043RkC8q+/+Hmoe77RTl5fCqd+Zug//o+ULp2vmoOYCk6uPqzuu27djdy43OiVRZceMG+deOQdxMWL/1ryw91VPiT59omX3EGunxu07rEa7PzWgtsoUesOenE3YHm9kZcYCvl8aX0S2J4fqxXT3fiazX86l9ROY79k2WVTwTBxDoWnOenULKVKiSTz4RI3Fihhd93iobhcRtWEgnWUbhEnYOuuSuBUp/qkkdRdlUn97i+hGgCw+7sipwD1fpi23SlAUuwd4uv6W1umQBIdUjMlWX4Qe3Z3yesk74rHZPVUNot7hNJsk8DTT/NxxAPF53K/AOgzCrNrZWXBX0vwr3FLQdMCaYDlXTvd0CIRSdnKuPDxd9aCGylooaepCxCltT/BHwNakUm6ExA64eLDa/mqlBof7etkcg8uqe+ChNrCMbGEBH12JX6TRiQxBO23rwZG5tnuaAyKc6uOi95DEyh8wPl+O+4Yigqb8xuJePlCRMRRWUTYXisnOjf6TUxzXVFCBRpLh1nw+4XPrEPQ4dhDzcKayQmf7d2144SNiE=",
+  "URL": "https://github.com/nmigen/nmigen",
+  "LICENSE": "BSD",
+  "ARCH": "any",
+  "BUILDDATE": "1585175845",
+  "PACKAGER": "Filipe Laíns <lains@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "python"
+  ]
+}

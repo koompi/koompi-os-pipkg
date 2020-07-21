@@ -1,0 +1,24 @@
+{
+  "FILENAME": "python-nosexcover-1.0.11-5-any.pkg.tar.zst",
+  "NAME": "python-nosexcover",
+  "BASE": "python-nosexcover",
+  "VERSION": "1.0.11-5",
+  "DESC": "Extends nose.plugins.cover to add Cobertura-style XML reports",
+  "CSIZE": "8445",
+  "ISIZE": "14045",
+  "MD5SUM": "f419720de31e40f9d72440e0fa2c77f0",
+  "SHA256SUM": "5a4ce91961c89763d9c3fe3a6afed96465b849462884ff8fd7664a0f342b93fc",
+  "PGPSIG": "iQEzBAABCAAdFiEE5JnHn1PJalTlcv7hwGCGM3xQdz4FAl68UJYACgkQwGCGM3xQdz5qAQgAjrrAxaov9ZBPcJ+uOHl2NJzUhKoorNEljAbDfYY0dzEE/UJsy7zrDBWdOhRRA0+FgH8NUettV7IqEv0UEigkbuL8NUHgWu/VJNx9v45tvveX+c2K/GWJT9BmfPL37fHahH93UlSFjkefeseV/LwCR7ACpRalcHGPTV1FEyuxcayo1iQ26ZYmjcLgqAnhOzFp4hcbDzg7BYmRYLauY0w8ADQzzCP1ej0qfXF1N8ZKtgXGhQeC+IJ2BnTZnMZ5Vqlzo41Z3oYxkE+DXXOSJAZa4Ukoceimwi/oaTTPFCurzjnsSwSvxtmO0nNX7vCv5IWDRxH+ItO/wcwF+aUdtO9vRQ==",
+  "URL": "https://pypi.python.org/pypi/nosexcover",
+  "LICENSE": "BSD",
+  "ARCH": "any",
+  "BUILDDATE": "1589399652",
+  "PACKAGER": "Jelle van der Waa <jelle@vdwaa.nl>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "python-nose",
+    "python-coverage"
+  ]
+}

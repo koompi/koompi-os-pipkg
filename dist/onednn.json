@@ -1,0 +1,24 @@
+{
+  "FILENAME": "onednn-1.4-1-x86_64.pkg.tar.zst",
+  "NAME": "onednn",
+  "BASE": "onednn",
+  "VERSION": "1.4-1",
+  "DESC": "oneAPI Deep Neural Network Library (oneDNN)",
+  "CSIZE": "6929547",
+  "ISIZE": "49044981",
+  "MD5SUM": "177c337ba68e0d9ade05ffee83dbff0d",
+  "SHA256SUM": "44317a0247ec41e4dab5ccdf6d18c31d3bffdba2656e5c17c6ad4e5257039d3e",
+  "PGPSIG": "iQIzBAABCAAdFiEEj8FaBklQqZ3RvRTdOeS4d+YuuRUFAl6bYN8ACgkQOeS4d+YuuRXX4g//W6PRkzP++2lv4XE+yZxJx9ht1S0gpADtJXVYqECbuP81nrBJr4MZ7K1fN7x2lHY6GadvjSiTiIGlSc+Kp5q00PeBwnV+k3Fykuzfkn8L2jP+glUYNoBOrEolI1jjthcyNZH4vhUqYYTZAK/xEob9fxlnkO0HyCIWese+lXrVK13yck00UbnbSazWq+KZygOmSi43gbAmhnqNz9FnAcxhjo5He3PNa/vJoyw5fN+rQ7+N+ALeDtzmIrHEYYzSUksyMdpvetoPA0LouRqrNH2ChwRAVro0v1dx9FvqxUnpxG0maFnzCH17RuiWN3KkpKHh2BcLGUNUMWtj0PHrRF4Xyg0yShtPqZ/nezR2TBWJRi+zj32uvYtfiw7Zfav0AYbmon0NGtVi5UIjSvvWuPVNcHO8v35UvnhnqFCoCav2g3VA2XN+Pjy10YF7MJoI/YEiumo+K0ZPM/5wU12WnhlbMXi6NwRr738jpmK0YIGHNMluAK1j5tKSE+agH7q/MnAyDrXarAgHQ5gVvmOL2uEGfOLiZg/6F/ICnOMjUF7KuZLQ+JgpBmdzPzc8yx5G0XeOAonREaNR1lhgZ7P1P/RqO9TlpqxHL9gA4dGtzOZCS+lr1zoPsEEwGMbFFs83aiB9LdBgIT3Jh62eDrEZE+U7p+lI/0LuVG7cktlC6LqyoeM=",
+  "URL": "https://github.com/oneapi-src/oneDNN",
+  "LICENSE": "APACHE",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1587240903",
+  "PACKAGER": "Sven-Hendrik Haase <svenstaro@gmail.com>",
+  "PROVIDES": [
+    "intel-dnnl",
+    "mkl-dnn"
+  ],
+  "DEPENDS": [
+    "gcc-libs"
+  ]
+}

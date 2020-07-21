@@ -1,0 +1,28 @@
+{
+  "FILENAME": "certbot-dns-rfc2136-1.6.0-1-any.pkg.tar.zst",
+  "NAME": "certbot-dns-rfc2136",
+  "BASE": "certbot-dns-rfc2136",
+  "VERSION": "1.6.0-1",
+  "DESC": "NS1 DNS Authenticator plugin for Certbot",
+  "CSIZE": "11508",
+  "ISIZE": "29372",
+  "MD5SUM": "de4e8d4afaf1dc0aad2e18f06a1e8fcb",
+  "SHA256SUM": "27ef0de5a4c52aefd4ef230a93873f751fd0cdc5b3dfe57fd4761e0f99031aa1",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl8Fk5IACgkQeGxj8zDXy5KNdA/+MzWy5OPs4QJLR1rfOJMSCU8NORxRlXwFuSThSqRzuyq7D12DsAO6qJlD4Pq2LIk0kzjl+UZVjLtttpA++ZrrzLSBOZEBrRjoX0izlE6VoOhnQDtUnDKfeq60RjicjWXbBufTpN/bdgqwsO1HXwaB6A6f9CMaSOCVdE4jsrFhRytS1Q5X7wnp+Lk9M+m1FEcYVHO6b/WCjOEKcyiRGdvy/k4/rnOAuIuLLV04ffCWf/FJkJbyMiXWKm0K/iPIMG9X0UFBc8VUUZCUoHuU2FAMqwgKtykM3sF99tXrR0xAdA6NFnXikxUQFv2Kv/GUbleXjJlsdbxmvzq/a+wGTMIv2rj9lz1l+xe/CdRkAeedMrOnCjzZGZ2J66vvqpiJw5IIgyWltZx0zsOwnrwwRtW3EdXKMnXRANYiTRaJDaGcjmU7Bu0F6pspFzA5nCRBrrvjCUBHt4zBDIS6qMPMjIm5ha5st2TY28r15B7QQCilx12/zSOut4J1wUGrwcJYL22OUbhSQRdkotakiS5xkcZcDbuYCnbpZFylWKBISrygOvLFC0RBLHIEQsCl3jR6VkKwU2C1XIgseUGZIBRpHGsfWuxieXKN6ruyh2tlymRvLVG6gBBWladOuSyKAIhy3NVT6vaHXGSu3rL0m8PL/gQYzzJEznJEJhyqhZIH+mFgF28=",
+  "URL": "https://pypi.python.org/pypi/certbot-dns-rfc2136",
+  "LICENSE": "Apache",
+  "ARCH": "any",
+  "BUILDDATE": "1594200688",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "certbot",
+    "python-acme",
+    "python-dnspython",
+    "python-mock",
+    "python-setuptools",
+    "python-zope-interface"
+  ]
+}

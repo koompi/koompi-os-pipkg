@@ -1,0 +1,24 @@
+{
+  "FILENAME": "perl-ipc-run-20180523.0-2-any.pkg.tar.zst",
+  "NAME": "perl-ipc-run",
+  "BASE": "perl-ipc-run",
+  "VERSION": "20180523.0-2",
+  "DESC": "IPC::Run - system() and background procs w/ piping, redirs, ptys",
+  "CSIZE": "103993",
+  "ISIZE": "267730",
+  "MD5SUM": "896599455001fffcd09b006e98674cd3",
+  "SHA256SUM": "937f518d856c6f055d7139e90f10134e8a540b7ed16ec5fa4fab788d1cd676e0",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl8EsxwACgkQeGxj8zDXy5KZ3BAAkBLvC9Dv+1k8d/UH4KoWmUCQdsS+dj4ky9cDI1gldZwvjQY6oP2iWDRqhnov30aAZGAo/JmDS+9e/xDiJ4ifs3HGgEGmdTk/MBmtVSVUECnI1Aen3s9Qac9tBE36umc1MX6bXqV1WpXG/v3CTAX0HyfFuUTnrl9ajOBx6nSpy4kXMbs3g3oRhcVVLoxNjbrkPwBen9yETqHuazSCJvu7zq8Jv6zlyV8zMiqKmzvghYuegrydOYRLox73ihXu7kvTvS6ngBsX3GNQU21EpUqOTcS1rfRlIaxlVqjMv/oFhhTsYNseSXvQ8nTqgr7tgkzfxhGG+GcfzD9QDOZBhpl1tcl9cfT3XEPAhwUYD5ZolZQxTMX/uF5FbyFzKs4DnCIDsUysrOEU3ZCr3FbJNEh1jjc4JdMYsJpLgTzx8Xdgy1AI8FEyS8aBOpb4Adsr/GBRaObOJzluLr7w7saQOhSdTSQae9y6bg3VlPWPiGxMRFHzlc2Iv4zE7h9AUqRkBqHZ4LDpeq2tHfnfd6nUwGNle1XxNrvSuiC3M8oPaoyiJPn+zE2LEG9Pa5b3G6o9wcjnHE4UqIUcFImw1c1U/cZc27StrFz9d2P3cYIiHDcI5s0TvSN/XgYPy57OtP5x5eQmP32bYQBrvawepDVP62DZFUnH2/qH6wOy6q0jf3NVcQg=",
+  "URL": "https://search.cpan.org/dist/IPC-Run",
+  "LICENSE": "GPL",
+  "ARCH": "any",
+  "BUILDDATE": "1594143467",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "perl",
+    "perl-io-tty"
+  ]
+}

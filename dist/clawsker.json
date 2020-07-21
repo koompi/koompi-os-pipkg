@@ -1,0 +1,26 @@
+{
+  "FILENAME": "clawsker-1.3.1-2-any.pkg.tar.zst",
+  "NAME": "clawsker",
+  "BASE": "clawsker",
+  "VERSION": "1.3.1-2",
+  "DESC": "An applet to edit Claws Mail's hidden preferences.",
+  "CSIZE": "112237",
+  "ISIZE": "436026",
+  "MD5SUM": "b52783eafa597da6a56a30176ef77a16",
+  "SHA256SUM": "8fe46a367b1ebd0de355632ecfb08a07b4090a1992abd4506e45d21c3ef43c5c",
+  "PGPSIG": "iQEzBAABCAAdFiEEhs/8qRjPOvRxR1iAUeixSKmZnDQFAl6/2TIACgkQUeixSKmZnDTP5Af+ICwoaO2QBTPi7YhSdjMQ6BstB77RLCKPBNZjoktg2EDcfI2ZiuOcT9W1p1IZq42Gk/3UsJF1npR0CpI/aNTC58FEMaaAjH8t3PYFyjxGnPDc5jXwYv5q8HJCWfIvnSccC/5xMYhZQUUw6d4+bVN20Q6IQLWR4N+PShhuXnDM2xxrPB20qIb0hnz+zRQ0ErSPowege1sw780LIDpx4afAPuXnTp7AWKh0V99J3ubNrwxNTCcBk/l3NylbjEtlYQoMs7uyS/tn/uE0zOC3dn0NOOnCXSW0mJUUOIvNXfUPxwwiVsMOkwBnOci6Cc1kWCjmdX1fzp3RzbSlgMMQkV/9jA==",
+  "URL": "https://www.claws-mail.org/clawsker.php",
+  "LICENSE": "GPL3",
+  "ARCH": "any",
+  "BUILDDATE": "1589631016",
+  "PACKAGER": "Evangelos Foutras <evangelos@foutrelis.com>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "perl-gtk3",
+    "perl-locale-gettext",
+    "perl-file-which",
+    "claws-mail"
+  ]
+}

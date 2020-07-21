@@ -1,0 +1,26 @@
+{
+  "FILENAME": "rabbitmq-3.8.4-1-any.pkg.tar.zst",
+  "NAME": "rabbitmq",
+  "BASE": "rabbitmq",
+  "VERSION": "3.8.4-1",
+  "DESC": "Highly reliable and performant enterprise messaging implementation of AMQP written in Erlang/OTP",
+  "CSIZE": "14865615",
+  "ISIZE": "15523393",
+  "MD5SUM": "5e8b2dea92bbd5819763c17b7846ec40",
+  "SHA256SUM": "a129ed572c9ea92d7a9e44cbac84ad887b42fc4afda197a71a11d058b965b18a",
+  "PGPSIG": "iQIzBAABCgAdFiEE4kC1fixGMLp2ji8m/BtUfI2BcsgFAl7k6a8ACgkQ/BtUfI2Bcsj6AA/+ItOIx81SyY9ds+vpTqMSE+NbN5jGWG74DeAvg3M6n1j7U/II8xEQ05AsUUSSNxblhyjEp2e7sBa0UZaynBUllDbhW7evQhlq8naVsSXwNnpc3iOT3uMy/UDRH+MkX2VY7RW0lf3QJc7mIZnvBBxe8OwVlUkNwz124DcWleH3RNUH61qiLovf/PMp8AW3+GtlV+Ectqe7h8VchL7jkrTN9/h8ma2EWBDe4ScSJ+IaZvGqQX9uvMWuoB1w2A6mGljyifdD+Td6XeuanyfV6Hb35qrolZzeWjs7nAyN8RZmMaf9AD9lD5EEuk3shZ1K/iScpDqxdJGhLSkgi+sWRyf1Gur9KB7W8x/VAdCbMXOR7nnoyfa5cKXL6A2T5cNYHeHOdvNbok2QEY+Vr0jSmJCjXWEFu9R+3z9oXlYZD9v900nvIxepN8Llq+qd8cZEGXTgn+dh7TdWR0J/W+Eg0VsMcDK3RuvVrnr65o9NK9iXrPfzpwKkeZHDsh4DMB4sMva8L3RA0L08G6lfz79smiJ3HLdhu2938B+QYNrvmNDpH/YUv1K/j1fGbYeRPiQL5DEBF2kUl6fYHxDF+U6HAZNIe3tXZ2WA3TBXTefrS5/u3bpbjbZ7V3PlqIROHpzGHiqtaiUzIpo7gDaNKnbucuFg/ffe9jmlK7Wss96Ds8jx/PU=",
+  "URL": "https://rabbitmq.com",
+  "LICENSE": "MPL",
+  "ARCH": "any",
+  "BUILDDATE": "1592059749",
+  "PACKAGER": "Levente Polyak <anthraxx@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "util-linux",
+    "inetutils",
+    "erlang-nox",
+    "socat"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "FILENAME": "ruby-fakeweb-1.3.0-1-any.pkg.tar.zst",
+  "NAME": "ruby-fakeweb",
+  "BASE": "ruby-fakeweb",
+  "VERSION": "1.3.0-1",
+  "DESC": "Ruby test helper for injecting fake responses to web requests",
+  "CSIZE": "117251",
+  "ISIZE": "311900",
+  "MD5SUM": "7081e89af3a25a296de30c783c8a3db0",
+  "SHA256SUM": "4e6e57e98b329fd044435263968c8453aa1e2df49df3bc00275b7b3a3c9b5edd",
+  "PGPSIG": "iQIzBAABCgAdFiEEBR6tamFVOJ1p2gLl63Y7Tp24h6YFAl4YaOgACgkQ63Y7Tp24h6aidhAAvX90RQy9BtlmwvyLFKe3UrhnPVEF91JCi85i5l3WeCE+R0f8YLxmherOmNyq7Ic7Xy6yXN07ll62TSB6Nt6ry0LaYiUux5L2EWY1rlmksMdhrLC6guN9gkuGQ94gRCsLBZMVDf6TmvxIzHxOiZrRVMsPMYkFm43WcTdtICGZEXTWLrsFCWyRg+Ivs+fc/74tLReGkWbB4LmDgRsQGQKaun/ueWqD8zLf8Do3Oq/j6dxZ9hY6P4nbzjmTEeZHFDHy6rMRe9p7LblNutpIWHTKfTTS0hULreldloy/MmSU0AuGH2DpZcWYmuOm2Ve7ScfVGB1tQ63ajY5vH+heamleE4XlhONdcQ9UkQnwY3enVinHzyCsbm7LAv4hW4CHehmeTGFtMPmC5c7+vT0NSMwPV7Smd6mkMowsd7hhkFYA0PMi1/XF2Vv6ZGDZwHRZz0ilYah9TI6GPVDkFZH5X1ozKB7vWnwNY7inqqccQ/d9aoKXCkktylVlZJWuAKiHiIE71r5NNNdYajG87Xr/ZDNzGUioQlVXFcZr/Oq1S6yeXmayPQUlTISIgKaSL0YbjIwmIQFTtf52pIdLv4AFBLLLrlcFEbhdtvMKX5RBG64DbThublID1+a2Zcl7zyjUIwhPq4DwivFyuQKUsO3NIPycZ8yPrVFEGfiEpHBrhSgKxrQ=",
+  "URL": "https://github.com/chrisk/fakeweb",
+  "LICENSE": "MIT",
+  "ARCH": "any",
+  "BUILDDATE": "1578657994",
+  "PACKAGER": "Thore Bödecker <foxxx0@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "ruby"
+  ]
+}

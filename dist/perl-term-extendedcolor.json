@@ -1,0 +1,23 @@
+{
+  "FILENAME": "perl-term-extendedcolor-0.504-2-any.pkg.tar.zst",
+  "NAME": "perl-term-extendedcolor",
+  "BASE": "perl-term-extendedcolor",
+  "VERSION": "0.504-2",
+  "DESC": "Like Term::ANSIColor, but for the extended colorset",
+  "CSIZE": "21624",
+  "ISIZE": "56531",
+  "MD5SUM": "75d7666f87f8fed7ddfc500bace4eef1",
+  "SHA256SUM": "b51eccc01599f6a151810b2f2ce56efb0c4ef3337b43e3c3fa8bd69ea9c611fd",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl7vNhoACgkQeGxj8zDXy5KQ5A//bLBjbM5kEh6Os3sCLNGsOHgjqzMHGuQXM1U4yBcV4NQtc9dI6MQG397gIgnMsY91WGpdS9eutRCw8tG5SXYkA8D8WurJ6h2MMgYoxPQN8e/FGTAKNYjInBQqSDxkGnrpc21ZniGV+fZCXBSd3lRRKFOokfVDrlnGN7Z7KodiooGEqrMcQMjsAZwrfPJmjJAqqTi9fAwlWJlK1hDLJIAByYJzoZjshhT04EflQ2KNxbj/874Yazu7gkLh/JH1P9zmOFvXF12aLlvIrXlRLvquAO8pGJb86yjzTKJXg7USiAamXzjwhupIzHGoKqFJXcILIve43MQfm2FKoK85w/Sz1adWy9IxEceSCU9u5+BnGpl4ZmaJn99bHvn2cvRAwlgqbODUBGHW+HucRfdMLZCfe8/0uhim2QmJ6DnA5AafnWbF01R+etVZeAfqb+WkKd/ha3tgYhaCAAQ8KStjRatdtR6Rri0+aOzQHIcyEmbpYphLk2i4vOOw4jdfb6R9OpM28/nylr0VX0Tc4YH1RPk7xJm+RiVQNA69WbWPVF4H/SARZQq4z0smv0CtPp7fW3GbAslNQjLvkdA1wD2cXSkY8lTRN8y3bmn0feJi0liMbtnVjVRTLmZ04jAPXEQeqbE4Gr0Ejim/t9SNnsznHze83zTFF0L6rO91XpQ+XkgEoDc=",
+  "URL": "https://search.cpan.org/dist/Term-ExtendedColor",
+  "LICENSE": "PerlArtistic",
+  "ARCH": "any",
+  "BUILDDATE": "1592735234",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "perl>=5.10.0"
+  ]
+}

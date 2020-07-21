@@ -1,0 +1,24 @@
+{
+  "FILENAME": "python2-unittest2-1.1.0-5-any.pkg.tar.xz",
+  "NAME": "python2-unittest2",
+  "BASE": "python2-unittest2",
+  "VERSION": "1.1.0-5",
+  "DESC": "New features in unittest for Python 2",
+  "CSIZE": "152056",
+  "ISIZE": "1386496",
+  "MD5SUM": "8f87f4f5f28712a716f6300e33f56d14",
+  "SHA256SUM": "f34256be7093e4e19f6563442660fa9eaac73c4d3ef2030922242369947e0867",
+  "PGPSIG": "iQEzBAABCAAdFiEEhs/8qRjPOvRxR1iAUeixSKmZnDQFAlvmJecACgkQUeixSKmZnDRPyQf9EwuxgcjwjHCBQCZu6R6shBBS/5k5lX2aQgQv1/hkKzYvCPoCaUrVhe3P4xRjm1OgWJU8qLTCqDmRcbYMnPmNJqPT/sP5sxa9oZzwaEmbJ7JU8UOPAPUtxz4ACHHHfppxYdrYEU8nmGBFyoApjaxRBFWUi+WNbJEdpgmK173hiHAsMeHf+mVxWUer0TQC9pOfGM5TUVkZRAny2d8uJcxZuqLEGli1BkKQ2Es/0LSUC+fulBq68yABVwhR+PMhvFKMBIwUaUNArGdfji3FW5mqD0bfCENNp9fXsRZaXAIEGtRGx06jKeeYTCener6zqBwTbmRe+QxNlwcTZoM4QFK1BA==",
+  "URL": "http://www.voidspace.org.uk/python/articles/unittest2.shtml",
+  "LICENSE": "BSD",
+  "ARCH": "any",
+  "BUILDDATE": "1541809626",
+  "PACKAGER": "Evangelos Foutras <evangelos@foutrelis.com>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "python2-six",
+    "python2-traceback2"
+  ]
+}

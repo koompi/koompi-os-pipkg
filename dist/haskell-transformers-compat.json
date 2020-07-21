@@ -1,0 +1,23 @@
+{
+  "FILENAME": "haskell-transformers-compat-0.6.5-5-x86_64.pkg.tar.zst",
+  "NAME": "haskell-transformers-compat",
+  "BASE": "haskell-transformers-compat",
+  "VERSION": "0.6.5-5",
+  "DESC": "A small compatibility shim exposing the new types from transformers 0.3 to older Haskell platforms.",
+  "CSIZE": "61673",
+  "ISIZE": "323022",
+  "MD5SUM": "501434425d3670020861741c22339e7c",
+  "SHA256SUM": "972514baa6ce172a830b103bfff7f597d186f3df6d69f0fc6f3a701f42a9aed4",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl6iGnEACgkQeGxj8zDXy5LncBAAoI9G9vJmH9sTwhYaTlyUMtUnW4K6snuSeqLGTigQNlbtjYzrUxgjonwbi/fXhmlXPLJucJoNfpIBdg1BWAenmbD3JLM+9eRGsc8fciGa7WZFTWrK0zgwNXT1RiJpFVyysQ9KO+lPIH4haQMqPcEDR0chtIiqF2in+L+8MAyNIsMNGX+Zev3CdStPWmQtvOCx1S5Ool1BvFSlDCxzbBvRSlM7SiIMPR+oGpDlJKzxpGCV5O5b38fwVzMVzBSNNiPBZ5J4VQ9w9SACkUkC/FBQr3ehLNO6ZhIQDqBIpjLfEYoyhXE6YaCoHsG2T151H/mqeEnEut7LYQoRKPy/zKxyQYxzxY007ok1Qlvoo2PqpuuZHwt/5LmACcj8MTj815Gwl/tvS39pbA0Oe6qzqo3viqCtNFY1gtSzZbUKYFjzmmikTz2XxOPV4IM3S2KzgmT41c7ooVQb+FBi7CeNs/u4hmwW4Phin4iwAfTyYAmHmJvYisrYIAGDQrllaVy3Ye4UW12AlN69EI+pV1XpybG+VwiQtHr8R+s9HjwtvlBmJWH2zSMdazWsWGyJ5L0L3Wd47gC4VES4SipFLLHns1Ttz+PkHl/HZNHOQzW9QgMbKllWbXHlYNFaYw2I/bHGFdZCMaNnFcW6GPD7vEfDS8d7IkJ21mWFMNdxVWVXPQO16JY=",
+  "URL": "https://hackage.haskell.org/package/transformers-compat",
+  "LICENSE": "BSD",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1587681817",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "ghc-libs"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "FILENAME": "libretro-mgba-6762-1-x86_64.pkg.tar.zst",
+  "NAME": "libretro-mgba",
+  "BASE": "libretro-mgba",
+  "VERSION": "6762-1",
+  "DESC": "Nintendo Game Boy Advance core",
+  "CSIZE": "306748",
+  "ISIZE": "1271526",
+  "MD5SUM": "03b28dceaed6b7e49b86454975541efd",
+  "SHA256SUM": "f4414b5fb56cdece1aae66bca1cc44ca4d0160de7277f4eca864360f3137adf1",
+  "PGPSIG": "iQEzBAABCAAdFiEElDfdOBWnqRaePTlGr/XZUJi8b/UFAl7xOTUACgkQr/XZUJi8b/Vr9wf9H0M7ldqeFHDJNK2FETX5cOKhYsJABih0eVItwP9YaJZmys00HQoJ7oBCzVhx0DJITPNhyhLxMXI5WYngJ1lBxLTSdGdmiEp0+QJ/zyyMuXoj70Hf5rzk2R1Ow4/++eILvG8HcphpXJ2RXm8eVtNYVVoKXj4R9tFiweqiVijsx6bUd28h3x7qGUxEN3tuYDMEJvSld83IkuZ3W4RS80tRkbO/Df67HOH9tq+RtGXV2Q69Fy+shWg3hftdLJF6LoLIKhEFV3Kj4ZwFIe6+/pwojmOPhMOhlXhoOFinhOE6MmPSzXku15/e+PI+h7PTpWknkj+YTTYF8/+R4tGXKGi88g==",
+  "URL": "https://github.com/libretro/mgba",
+  "LICENSE": "custom:MPL2",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1592867075",
+  "PACKAGER": "Maxime Gauduin <alucryd@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "libretro-core-info"
+  ]
+}

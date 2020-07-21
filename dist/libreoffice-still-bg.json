@@ -1,0 +1,23 @@
+{
+  "FILENAME": "libreoffice-still-bg-6.3.6-1-any.pkg.tar.zst",
+  "NAME": "libreoffice-still-bg",
+  "BASE": "libreoffice-still-i18n",
+  "VERSION": "6.3.6-1",
+  "DESC": "Bulgarian language pack for LibreOffice still",
+  "CSIZE": "2448160",
+  "ISIZE": "25449463",
+  "MD5SUM": "6b9ba85bfb4071ce1148ce0e1bb6a3d1",
+  "SHA256SUM": "17f331526d285147c6a9e59a92ab2913e3ca26d4590aa686b34c7d6bfa818ae9",
+  "PGPSIG": "iQEzBAABCAAdFiEErcih/MFeAdRTEEGelGV6sg8qCSsFAl6tSrQACgkQlGV6sg8qCStVSgf+MaPMKxR/hWt9SUulVkri03cPY6lgtWaztqsB+2GaNXtgLoYVwDVLpPrI8fq72z0gqJ2FkokoPOTa2Qa32uoEn3ES2taZC7iWvOGB1n45/i1lIwQkKcvWcJ2cpl7Vd/Ud3pPaPLXLMRxceakeexzdSJQXRHqJmYyM/4c56L5AnsY8gCfX7dra6m7rwKIVJPFGn8suqxguLALYs9T6ZHiMRo+k6t2QCA78x6DWIb7OVnc7o3l8m3jISXtJKCbU94w1s/+5GsDGIrjsvW9FPTvfWK5Vv5XGkfduR76EZYSEEkHon0UB5xW/PcsZk5wefVnSp6F00K4n/rs7N5eH8KJI/g==",
+  "URL": "https://www.documentfoundation.org",
+  "LICENSE": "LGPL",
+  "ARCH": "any",
+  "BUILDDATE": "1588407321",
+  "PACKAGER": "Andreas Radke <andyrtr@archlinux.org>",
+  "PROVIDES": [
+    "libreoffice-bg"
+  ],
+  "DEPENDS": [
+    "libreoffice-still"
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "FILENAME": "device-mapper-2.02.187-3-x86_64.pkg.tar.zst",
+  "NAME": "device-mapper",
+  "BASE": "lvm2",
+  "VERSION": "2.02.187-3",
+  "DESC": "Device mapper userspace library and tools",
+  "CSIZE": "299348",
+  "ISIZE": "854843",
+  "MD5SUM": "223378aae808c3bc0fc459880983050e",
+  "SHA256SUM": "1ca683b950aa6519f9d2fc5df9db4aebe64b1904f80093181490eae336100eab",
+  "PGPSIG": "iIQEABYIACwWIQQEKYl95fO9rFN6MGltQr3RFuAGjwUCXtYBUQ4cYXJjaEBld29ybS5kZQAKCRBtQr3RFuAGj9zmAQDJK7qMdQ/omJHKngCQAp9Rz2726GEbjXIs13+mnCrWzwD+Llj0JWTvaYQVvPTTNmuA4tFk4EvNLIOe5XgzYX6OtgM=",
+  "URL": "http://sourceware.org/dm/",
+  "LICENSE": "GPL2",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1591083199",
+  "PACKAGER": "Christian Hesse <arch@eworm.de>",
+  "PROVIDES": [
+    "libdevmapper.so=1.02-64",
+    "libdevmapper-event.so=1.02-64"
+  ],
+  "DEPENDS": [
+    "glibc",
+    "systemd-libs",
+    "libudev.so=1-64"
+  ]
+}

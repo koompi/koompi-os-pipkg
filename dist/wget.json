@@ -1,0 +1,28 @@
+{
+  "FILENAME": "wget-1.20.3-3-x86_64.pkg.tar.zst",
+  "NAME": "wget",
+  "BASE": "wget",
+  "VERSION": "1.20.3-3",
+  "DESC": "Network utility to retrieve files from the Web",
+  "CSIZE": "739557",
+  "ISIZE": "3020502",
+  "MD5SUM": "8b95e806a4a8fceee56559c7102c9386",
+  "SHA256SUM": "110b8d122ce213c96a2383536262d55360fa271450796e30774625e86e561224",
+  "PGPSIG": "iQEzBAABCAAdFiEEhs/8qRjPOvRxR1iAUeixSKmZnDQFAl6w+bsACgkQUeixSKmZnDQANQgAr2Ww/hOLvTA68ncHCyTgPO/D47DKYYdUj1Zq+EgLmihH5rEtbmirEvSH4SUrkustfDu9DmCzKNRoq70y03ehVgGoNQrYzGQ6f24eqGRQ1m062GO7bNufefS7P58rC3/zJ+ylSfCZDHz1WwqhW/Vw+p3GDVJkgfmNbQ3dcDCXDLnuvNmQ4w/fYaf5lsBxuwp3F0+H4V9eq0m/gfxWfsq4g47b87qcI9TgKZzNGtPUHD5TjVh6mrI2JkYAMITHfvIszbNZJjcFRtxiz7LW8mo6dWtslNcuSIZNltkFT/BWwfimM4X0cE5+ahRl05wxoOX113b+uKKKqMX24du60bApzQ==",
+  "URL": "https://www.gnu.org/software/wget/wget.html",
+  "LICENSE": "GPL3",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1588656501",
+  "PACKAGER": "Evangelos Foutras <evangelos@foutrelis.com>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "glibc",
+    "gnutls",
+    "libidn2",
+    "libutil-linux",
+    "libpsl",
+    "pcre2"
+  ]
+}

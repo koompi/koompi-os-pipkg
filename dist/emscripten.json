@@ -1,0 +1,26 @@
+{
+  "FILENAME": "emscripten-1.39.18-3-x86_64.pkg.tar.zst",
+  "NAME": "emscripten",
+  "BASE": "emscripten",
+  "VERSION": "1.39.18-3",
+  "DESC": "LLVM-based project that compiles C and C++ into highly-optimizable JavaScript for the web",
+  "CSIZE": "244173332",
+  "ISIZE": "1156254352",
+  "MD5SUM": "41ceace87629e673605215a95727531d",
+  "SHA256SUM": "6c64a7e22d85a7872840e8cd8d798e01371c33818d6b7db10ba37769be737a47",
+  "PGPSIG": "iQIzBAABCAAdFiEEj8FaBklQqZ3RvRTdOeS4d+YuuRUFAl7m67QACgkQOeS4d+YuuRU7TBAAqR0hlpb6LGvxhiqnVAOrW7fTJ/ChhNzCAAogwxAOkWbWD09yE4KZKL9ktCMTP5SDdJb9+20AGa7Dcm2ZMObWHquY27xRd/ECts9c28OEOK8iMRmHBinX9BqpqD7WEXiCbKdAqbpGhaWzx///DIAp6UDMc5O4gSi1WmP/Xsa+Kn8Rh5G4Lorx1Ac0xSgYU/RhVyJUl1FOCWKd2VqvYPBDhlWTHh57mAkiJuFLoLAxPtaVQ6oPjQlTc50YuqQTbQjCqHi4TpCMiHf2rwL3MCpX456VrcpdXpwH+r8e7UeZHFbcbS4eOG+n2AAcD3NjGVYvHtGcu3/R6L8vBVjAfTKFN8JMmvkbgLoT59jJ+fj1MyTcgV64riqdwg52cz/LewyWHxLEmvKkaDV1VtuToxHdU5/BeBr9tvfEVmdCAsnTjViJzcqcFH9siU5nIltCgi5Hao/vSWXT7IOo7RrdvfWjeGMxaMF2UEsA3I8ccY7+JRpBLI621tFEFx7iig6xzAwXwRtqX/Q3Pl3rV+BTWnav6Ofn0J3C1E22EYFIeWu4v5pSycbfz3nsN4Feb6SKWj1ioI0I1U331Welda43C4ghb/ghJf7zZowe+uSG0t+xyEjUmgrinXiR9YPta6Wo2tkKzhzKEwEi0Bt9wDjF1+AVjjL1n9JckLNegslISW3MujA=",
+  "URL": "http://emscripten.org",
+  "LICENSE": "custom",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1592190466",
+  "PACKAGER": "Sven-Hendrik Haase <svenstaro@gmail.com>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "nodejs",
+    "python",
+    "binaryen",
+    "which"
+  ]
+}

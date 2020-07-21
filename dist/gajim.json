@@ -1,0 +1,33 @@
+{
+  "FILENAME": "gajim-1.1.3-2-any.pkg.tar.xz",
+  "NAME": "gajim",
+  "BASE": "gajim",
+  "VERSION": "1.1.3-2",
+  "DESC": "Full featured and easy to use XMPP (Jabber) client",
+  "CSIZE": "6972928",
+  "ISIZE": "21970067",
+  "MD5SUM": "9c25447458238d793ab131694685c584",
+  "SHA256SUM": "51f526c1e4ff5ce27a8b959cd65c33bc6d098d1afce2acf1e5cbdde0248aa470",
+  "PGPSIG": "iQEzBAABCAAdFiEEhs/8qRjPOvRxR1iAUeixSKmZnDQFAl2/3AQACgkQUeixSKmZnDSmqAf/QHi6VTjh9o5U5bku/qgGvAxIMhkOENBiTQ5+6Lus+AmMdrH7EJIznp2LhOcAjnj0aoroqNKqTJCBDhtf+X/NlXMq0tN2tQoWppZPlE7NwZHec8irNR1PklfrWGzLytYyEwjRad5FRNSQoIu6BVniGLn7wXWMZa9/kd+4UjlRm1+ElG+1frdLuJbuUhx0TxtJRvBzVACBYLDAOU2IHQq7WOfQZnvomUGk/LJB2rG6NjFv0Muw/tShKhQYvsZ0naZ/ppx8W6PdWW7lpsu+g6f+qluQqGMSgWl6lXLsuqavg83byfWcKHbnRUlCX0mSDsd3S/QLOoCOS0b/F1bbOv1UwQ==",
+  "URL": "https://www.gajim.org/",
+  "LICENSE": "GPL3",
+  "ARCH": "any",
+  "BUILDDATE": "1572854724",
+  "PACKAGER": "Evangelos Foutras <evangelos@foutrelis.com>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "gtk3",
+    "python-cairo",
+    "python-gobject",
+    "python-keyring",
+    "python-nbxmpp",
+    "python-pyasn1",
+    "python-pyopenssl",
+    "python-precis_i18n",
+    "python-cssutils",
+    "python-distro",
+    "hicolor-icon-theme"
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "FILENAME": "springlobby-0.269-2-x86_64.pkg.tar.zst",
+  "NAME": "springlobby",
+  "BASE": "springlobby",
+  "VERSION": "0.269-2",
+  "DESC": "A free cross-platform lobby client for the Spring RTS project",
+  "CSIZE": "2959926",
+  "ISIZE": "11643716",
+  "MD5SUM": "22e1e3de86189cddae03e9d205cf46eb",
+  "SHA256SUM": "db3bd4d34c7e9c91e920adbceaf10b108557cbb41cd8b868684663349129845e",
+  "PGPSIG": "iQEzBAABCAAdFiEEhs/8qRjPOvRxR1iAUeixSKmZnDQFAl4vqHgACgkQUeixSKmZnDSUngf/XmjHG1d+ThUzPgptSU6QYwQtngikyqE9LTynoxokFfehNLQKu+6QJmTgBvESCjANfUEf4FhhvBtcc+0Lk/CkU6gUlKxWQBzfvrsMvAMapnSarcD2dxeTLa+RWbHQcEXngoV7nwGKIM0JdsIj97a9FQA1tKw2J7KfnFpEyz9wM3PPYudAcLmn9/fBduUqEzXIiXzZfRJ3n3T5wleoR/6v5ORG0DDSq5e9uXauhopH44Icq34CJGxqfXwl816as395WHOyd/sUeX4+FKNA9yd2E+CHrQzOyfmpOUjXjltd3YnKAlUeRimTAzQkbVfwsJ5KInwTjKo89f/7JpV/mRfCpQ==",
+  "URL": "http://springlobby.info/",
+  "LICENSE": "GPL2",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1580181390",
+  "PACKAGER": "Evangelos Foutras <evangelos@foutrelis.com>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "hicolor-icon-theme",
+    "wxgtk3",
+    "curl",
+    "libtorrent-rasterbar",
+    "boost-libs",
+    "alure",
+    "libsm"
+  ]
+}

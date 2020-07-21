@@ -1,0 +1,27 @@
+{
+  "FILENAME": "gitlab-runner-13.1.0-1-x86_64.pkg.tar.zst",
+  "NAME": "gitlab-runner",
+  "BASE": "gitlab-runner",
+  "VERSION": "13.1.0-1",
+  "DESC": "The official GitLab CI runner written in Go",
+  "CSIZE": "10023183",
+  "ISIZE": "43431850",
+  "MD5SUM": "848d393e80ef59de00a34271e7ad7e4f",
+  "SHA256SUM": "3d02fdd775a2e3668ca120ef4e840ae1955da84cde9d2a316e7e0a16fec734d3",
+  "PGPSIG": "iQIzBAABCAAdFiEEjhmSFnRl21+wRVV8sChU7XU+Dx8FAl7vrdcACgkQsChU7XU+Dx8AyQ//ZVorU6KPonRjNkeOs9lev463SMN3i45ORXQBz23heFKM9dH3GpGAGS531duIoEi4NItTYNdOyTH4P1sd+gRs0/bJvKgzK1jl6nEpJUqIKxmq8yEwIg4VRoXkowIfTbba3fdfPDRrhPV9CfZOMpQdvZcmcL36pBzrLueTjQRF3lSv/4WFvYmw99Kv+cGgJb+v/duo1sFYzQPyIpxlvn+4wrIk+tvN8GssnzIr7PtVXPygsiHjavROXPzQXJYYHZQVCcj9Z4+9FYZv70clvdW+x5kfArvutYSeLGzUCuLkBU1MK7s2mZO/tqYyD+UFrZaEFubs8HpNtfWbmbt9859k+Nb98cSB8t/56pmezsYw9E6GV8YOrUqsGqhYDIV4/m80Ltlt4Q2bOkGaapvd553j9GWl3g2W0ESvCKBHOnrBEJ56Ob67go/fJfyzoDkls7gOe2Yw0yUFhuA8gkgINVM4uyI6mr7leXzxc7LKDcN4XUSGYEoBabEJ39dcURpYA56I4ckbJtncIKTa2+OEkW6I1CsM6Yxt3iON2cPPQFMczS7vMis1ZXx83TA6lf5JSn4h4wQWoOIUyBD8f5m0HGa2gVw1ETLwFkMIMU17EWedmf/3DC0PhhuY5wtCIZ01Dv3cjUuIDeMWnIUvNyKZ65gfTSB1mNdE+izLw6V7yfploaM=",
+  "URL": "https://gitlab.com/gitlab-org/gitlab-runner",
+  "LICENSE": "GPL3",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1592763402",
+  "PACKAGER": "Anatol Pomozov <anatol.pomozov@gmail.com>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "ca-certificates",
+    "curl",
+    "git",
+    "glibc",
+    "tar"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "FILENAME": "haskell-base-compat-0.11.1-7-x86_64.pkg.tar.zst",
+  "NAME": "haskell-base-compat",
+  "BASE": "haskell-base-compat",
+  "VERSION": "0.11.1-7",
+  "DESC": "A compatibility layer for base",
+  "CSIZE": "78074",
+  "ISIZE": "305436",
+  "MD5SUM": "46b96a3178a0dead686f949ed19437b1",
+  "SHA256SUM": "ad9be31f7d225cff368627bf2d61d0f00a580e8231fd9643ff9b1c9d335ad80c",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl6iJFwACgkQeGxj8zDXy5LpmA/+P9p8wslT3PV7pq9tsp5kUzeZ+l3NNWkE7uZHMHt/krbgKmx+qu+bIm8qbHD/ohtfPIpo9KX3oFlg5vblOZ9DdDMwMMd0wP6lwfw5lh/qquFISguH4lElHVKElWyqy+LZ6XBuJ74vwWcu+ypS8c+135uqKtoZYAwQdKTSUu59K58dbNdG4/LDP4NHqnkTrv/duU4QskieMXO2vnaB8/tjLqfZe5BFdP0EEtw7j71ofxnJFrPXNoISFinU9Ddf8PxXx1CYgKt7qZlwbZeJrdlj9ahO1GtwM2x6ph4TtnEGhajd9Nqw1JCRGNDGi8VyE13Nzo89xAhVRGh9e4NwWV9cTYLiAbFWvYBjit2c8A9eD7L/S5oPr9nL6I6ojWafstkkHQZQuT5SbyrY5tkiaqt6s7Ed0qIFpshbNjt2NrXJFKFGeKfoz/mhSgs3C+4uJf0B6AHzcWsfL90n1UmA9MBLaJryEveeerk+sknKf5+zrbH+PddPvyKrE39Pp23pzfmO3umcDCJ6eJViGywLBU1oHeAUgKhckLizhAEqyJQ+dn6Vp6YMfydrAKbSrdeoezmIpybNOUrK1YjjzleAwbmrrkopHvzCfq4/xjg8FEBdu0f2fhuBv+UNipEdQ4Emn57BMchlOOFQQiAB6E0JrMDCHjE7P5le+OKgyEpaaNHCDxg=",
+  "URL": "https://hackage.haskell.org/package/base-compat",
+  "LICENSE": "MIT",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1587684356",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "ghc-libs"
+  ]
+}

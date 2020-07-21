@@ -1,0 +1,23 @@
+{
+  "FILENAME": "haskell-stringbuilder-0.5.1-83-x86_64.pkg.tar.zst",
+  "NAME": "haskell-stringbuilder",
+  "BASE": "haskell-stringbuilder",
+  "VERSION": "0.5.1-83",
+  "DESC": "A writer monad for multi-line string literals",
+  "CSIZE": "12123",
+  "ISIZE": "34242",
+  "MD5SUM": "7b2767f9d13d6e8d09ce1d6b32f68b9d",
+  "SHA256SUM": "7fa761227fd4db94e7cb01aaeb1b8655666a30d0b48ad116c5ffda24343c98aa",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl75F/gACgkQeGxj8zDXy5LcLA//drw0HTTxB4xX8CJkZvQ9puOCuibnVOXqGEzbPHRuxMYEtZOzxILqsq16zd8n9jqwr7J9Pk6q/hhDQWpUjMgEYr3feLaTgemig5vzFnz/Fcpyu69E1YFac09VQkQjw6XXFbFWGEGoonjKJ5i2h+8HsyfstQ1Y5YKei8pCcLaEJdgJP/nCsmd4Q3uPkXrpuPbVS/H4+XikszBTDdrfVPjHgcC5QthwXHnfxb/zb7j0ORGQIBiO7SLz7+RdLRkGBVuCJ8+H3rikCqM5Tf6ktndaMgP2Ejs9LRb/i5OkQWTHYIADPx38G/E/WzXkTbvw9wlzshk3PA6IbjBP6xdGNsvb2Uo93YaVh2RIcvxAwIq5a4rhzFosbZpPZ0vDoFYbPyTqs2Rc5HFaBP9rP4z2Z+RPNDFisvYHjY1EDrns9CuxYx3PIy6zwNAFkOCp6DlTpzJUxd8myIYmjSDTlDW2x+OmnEzk/ESXA9E2kixIyQoglABVFDkV+xE1NFlQ4XcdNp5jd6+xNkYE7XzyITSJ8YzUc37hNOjGM6m6e67KkVZA60l/yLweGAusjwrmjK5t4w5A8Coz74vqSEriuCBkd6E6tkMQEPmQNPH8zE1Mgm/iUGVjfxyyvH6ykF10Z8G7naYOCO/XdN44Urzs387uLprLLnxs8K7srlQpdmDVlhAQrZU=",
+  "URL": "https://github.com/sol/stringbuilder",
+  "LICENSE": "MIT",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1593382880",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "ghc-libs"
+  ]
+}

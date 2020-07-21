@@ -1,0 +1,26 @@
+{
+  "FILENAME": "fdm-2.0-3-x86_64.pkg.tar.zst",
+  "NAME": "fdm",
+  "BASE": "fdm",
+  "VERSION": "2.0-3",
+  "DESC": "Program to fetch mail and deliver it in various ways",
+  "CSIZE": "150109",
+  "ISIZE": "380418",
+  "MD5SUM": "f7e37e968995d6e712b24d362529a2cf",
+  "SHA256SUM": "0319508cfc26afa80d417aefb918fc1793af0007cf2c893f805510fb9f6e6249",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl8ErqUACgkQeGxj8zDXy5IYAg//cKnOKXvJDviXOtUPdgYyKMlLUeR4k33r6lOjnZQdNc7QW/7OQvsTuzEO0KaGscFMzTVefNcB/pScq2Rbr2OX1fuXi2Y6fK3FPua8qQ7QxvJG9fKQSpiB9M3rGTjiKxkYUT9rpqeispjfEkU37Xvxi165jU9baTUjFIE+HegdqaLx3dwjvIurMyapZZ55LXomXqAheBhQGpELypGmxXOdEp3OmGh+5yrmSJM1U5S97WT/yBG0eAP32WrnTKeozyBbtQ2i7OYRUS2zZ4PUqFvHFMu5TPJVxl3fpq1pw4cUMBQ/YgR5c6geZq2gJbXrShM+QCFCgRax3T6PkKS41HC8FnsqXnviDxKEXsM2Dl+iV3b/8gpalmTgC+4JG3pT9KQ60iK5YU5fcw5x5m3Ihqy6ph4Hfp9Mh2jexQmTXaGSYDLKTpLn9bcLfFE58hXlPW3b3yP7O/MnHxRDlB2xE5eGFu17mbKd4SUVE+tzPZGpU/kDZcxhYPoTbVJf9h3/2s+PQ2Sw8n6VwSJeUXUbOsAPmu3Mo7pP8zNzaTBxzEuu5LKthr+sIYGhjvytA3GFrDwE5uVt116OJbjPDdAfwjzKlyPYlnctAP5t7ZwicIlBmQ/WgUr/3ylnfN7vzgZE+kOfNf44CcZoDNcdsxOF4ZWkf+A3ICnL1Yb4NSguY0BE8+Y=",
+  "URL": "https://github.com/nicm/fdm",
+  "LICENSE": "BSD",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1594142243",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "openssl",
+    "pcre",
+    "tdb",
+    "zlib"
+  ]
+}

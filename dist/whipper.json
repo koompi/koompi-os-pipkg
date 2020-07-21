@@ -1,0 +1,33 @@
+{
+  "FILENAME": "whipper-0.9.0-1-x86_64.pkg.tar.xz",
+  "NAME": "whipper",
+  "BASE": "whipper",
+  "VERSION": "0.9.0-1",
+  "DESC": "A Unix CD ripper aiming for accuracy over speed -- forked from morituri",
+  "CSIZE": "167840",
+  "ISIZE": "909147",
+  "MD5SUM": "8b85800d418caf0e302f39e99e2ff11f",
+  "SHA256SUM": "fd630184949967dadcc472b13c795b05989fbdffb1563de9ce23f7e6785ee26e",
+  "PGPSIG": "iQIzBAABCgAdFiEEba97gI+d8lE5YgAA0hRh49/iBg0FAl3rvvkACgkQ0hRh49/iBg2tTA//SDgXszXkQomNgw1NmExhFrzdgbV5inpyauCqvxEqr5xzSIi6vhJ4L9jOOX5LC0kpofeXaB9cAVVrxabrqq2rl433aQRBXUrkp8zN+99fVKIhfZZCf+NCsmoGwiQRX+EpMMd71a9+3WhOLLmyqcbUI5sERb5XTJiwnoVMCpp7QbNdn5tgvXT7QwRZ7qmZ23KAIaWgP1UVGPH6xcy5UJdLOKpStHgYY0GROfEqtpTTxekVIL8jCBU/Ml+b+jYGddFdlgpJqpVp3TaXNJlY0twFKbp6N3oJpLsWrbFlFqsQMrpFUoYGEhapVVgZxqrM92kKSRp0868JG7L1QyuU2cnxvrgRmPfLem40p4iGvyTajnSkri/5+1VZkPnsHeqa8dJKmB6kQ1ytaiTKizLcNoBfDMmyfnwNjHl2q2cWRJaAJk8+4pXxrfBlZHxbld53rA9/bc087+SAjPQ7uhGhSKVFozW2s7kNiaCcfYzCz3maO5hUF7PV7D8tlXq3Zt7xArAAYihQmjhZV9yN9fPd+JIksud+/snbVs+Gy0BSOnvVfzr2LDh1YyHSIkCF1c6d0+OLtC1IuqUF8D3ERtXNJlQlTSzxPZGIQ+WeoeGwDfHweNMB69/LSLYMqem1lNaBml9BqPEMAuqqwi5Zw4nq5WZRzRRrBDJx8gP+9C9BsQXoHZE=",
+  "URL": "https://github.com/whipper-team/whipper",
+  "LICENSE": "GPL3",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1575730741",
+  "PACKAGER": "Christian Rebischke <Chris.Rebischke@archlinux.org>",
+  "PROVIDES": [
+    "accuraterip-checksum"
+  ],
+  "DEPENDS": [
+    "cdrdao",
+    "libcdio-paranoia",
+    "libsndfile",
+    "python-gobject",
+    "python-musicbrainzngs",
+    "python-mutagen",
+    "python-pycdio",
+    "python-requests",
+    "python-ruamel-yaml",
+    "python-setuptools",
+    "sox"
+  ]
+}

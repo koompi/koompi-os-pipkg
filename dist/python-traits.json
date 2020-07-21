@@ -1,0 +1,23 @@
+{
+  "FILENAME": "python-traits-6.0.0-1-x86_64.pkg.tar.xz",
+  "NAME": "python-traits",
+  "BASE": "python-traits",
+  "VERSION": "6.0.0-1",
+  "DESC": "Explicitly typed attributes for Python",
+  "CSIZE": "430364",
+  "ISIZE": "3177968",
+  "MD5SUM": "93991442fa7b58e5620ad6992e63e2e6",
+  "SHA256SUM": "6bde57b683a636904fbd7dc63bf7747c0e6de58517afad7e02dd212c67202fc2",
+  "PGPSIG": "iQEzBAABCAAdFiEEcXAmqdR3n8U5QHJmQPVXtzFJYQYFAl6z8h0ACgkQQPVXtzFJYQZGWQgAlw6MS/b4wwZb/+WkFHu+xr/+gmrI/7OIKtViTXK/mNXx34Tlh8ODnoN2EBAG2qBKbupkTGfpOrErxja+ceUzHKlPtzqAZ5g7vliUfWbOYQS/7BfigxYL6shUOq1YS1kaE4DQEZ/7DuKuS4N9lFw2Vd8jrLDE+vTGsmYuqJ9NeMT5GdaaMR4ztWVvgMRRr4zBW5hgGFcgucPrSxbNwdu2grgBB0Xlvu9bY2w/CPUzNG0XFpphTxcyw/u5/pRmv5BSN9UJmRpzelgIO+zy1SU2AdNo1n1r4A8f2e/45QcX5lsImzDejKwZpZ9b8mb8OR//rjhP5YDLOfIa9wglknZ/zA==",
+  "URL": "https://github.com/enthought/traits",
+  "LICENSE": "BSD",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1588851194",
+  "PACKAGER": "Andrzej Giniewicz <gginiu@gmail.com>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "python"
+  ]
+}

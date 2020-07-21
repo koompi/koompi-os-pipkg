@@ -1,0 +1,23 @@
+{
+  "FILENAME": "liblzf-3.6-2-x86_64.pkg.tar.xz",
+  "NAME": "liblzf",
+  "BASE": "liblzf",
+  "VERSION": "3.6-2",
+  "DESC": "A very small data compression library",
+  "CSIZE": "15796",
+  "ISIZE": "49152",
+  "MD5SUM": "eeb12ae2c31bd3d58e754b2ae46cea0c",
+  "SHA256SUM": "2eed97a782613ade0f97678b579f4eb18647e6b6bf0c079df4ccb12175cacb37",
+  "PGPSIG": "iQIzBAABCAAdFiEEkb2IFf4AQPp/9daHVMKPT/WhqUkFAl1LLkAACgkQVMKPT/WhqUnEqw/+Mf97UGFIVd/u3ep1yvf06qWz8Tqx6/64/lGf/TFxLTpe1R3Z9NyLFrzDiDY6F2ooXCegZp7iXIcMKAODPlyJfWXZvlJZPn61zS5JVCKpCxx1EY+KuhxXPJTznQRDa2ngiMtoxtLXssZeQxD6HoGOZNFRJIK1GH5qnKNw/4Yq8xpHC6Jxnrb52RiX4hhjYlHEpZsI485wcvgqM7DU9lS2AjXUmN+8zFT2tP8YameITrUvw3/i3kMVtzqwGAJBYE0b8al4hQ/Z3k/4NyfrdD6OQ/1hY+VX/TLSjW6idAGG7X6fuGYIFWB5PN7dHcWQXO9cCZHemfea7P0I6ZIlibpK3WPrLy7LwUnvi6wotAt7Elznx1KBFrPO5m61lq3RJCE/0puNNDejSkrsvoxEjZ7tov/cxxGFrpRy/rIX95H+24Q8/+7mV+oLBTo67OGx3evAzGaG8tkPGXEDLZ/M6cKY1JgzzwHQ5sEa4t/8GFDE+FTA3faSFm+yjtO0MeTNDGwEAgjf3TfOcvKxoHKL5QrEunRreYZcwGYqAQWE01UB+7NLA6kRWK5ilP2AOjEpFdDReUCdvz3qA96JfHNA3uQ+zukeuGs+oGSVR8ZVSQBCrikkpBTEclnan3z8N2o8AHSO55a6mcEAZzbMJ8pU3hVIICwoEfe8xtNokRg5IXEbuuI=",
+  "URL": "http://software.schmorp.de/pkg/liblzf.html",
+  "LICENSE": "BSD",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1565207913",
+  "PACKAGER": "David Runge <dave@sleepmap.de>",
+  "PROVIDES": [
+    "liblzf.so=1-64"
+  ],
+  "DEPENDS": [
+    "glibc"
+  ]
+}

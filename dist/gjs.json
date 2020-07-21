@@ -1,0 +1,28 @@
+{
+  "FILENAME": "gjs-2:1.64.4-1-x86_64.pkg.tar.zst",
+  "NAME": "gjs",
+  "BASE": "gjs",
+  "VERSION": "2:1.64.4-1",
+  "DESC": "Javascript Bindings for GNOME",
+  "CSIZE": "298675",
+  "ISIZE": "988832",
+  "MD5SUM": "679e0e3ce98b4fc5efc934c713819e58",
+  "SHA256SUM": "ff3dd5f26940356ed64e04ee5fae29ef1fd3da9daa172fd5789f94ec305b9b9d",
+  "PGPSIG": "iIsEABYIADMWIQQGaHodnU+rCLUP2Ss7lKgOUKR3xwUCXwOBYhUcaGVmdGlnQGFyY2hsaW51eC5vcmcACgkQO5SoDlCkd8caTQEA17TS5zHepzgzoQpuiCp2d3vgQ8Ql8j98rpKmqsOCN8YBAN+t4OI3Rolyk4/xXd3sV0X1KknjZgW/noJiYhiLIPsM",
+  "URL": "https://wiki.gnome.org/Projects/Gjs",
+  "LICENSE": "GPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1594065107",
+  "PACKAGER": "Jan Alexander Steffens (heftig) <heftig@archlinux.org>",
+  "PROVIDES": [
+    "libgjs.so=0-64"
+  ],
+  "DEPENDS": [
+    "cairo",
+    "gobject-introspection-runtime",
+    "js68",
+    "dconf",
+    "readline",
+    "libreadline.so=8-64"
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "FILENAME": "haskell-one-liner-1.0-25-x86_64.pkg.tar.zst",
+  "NAME": "haskell-one-liner",
+  "BASE": "haskell-one-liner",
+  "VERSION": "1.0-25",
+  "DESC": "Constraint-based generics",
+  "CSIZE": "92051",
+  "ISIZE": "801502",
+  "MD5SUM": "fbb53368dfedd169d53db61995fec99a",
+  "SHA256SUM": "96709f9ef8f9035829dd3308fd43d45ace91b3094e4086297f04f3c37f0e650c",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl75EK0ACgkQeGxj8zDXy5KSJxAAt1vaf6wysdmpTp9QXiT4KrHVc07uV19yi5S7jTXlOO/Na+5EjYpSFGTVhldIp7UXn75yUis5RURW9DNtNg0sbdLye8z+SXRVOn3Zbi32u1l4iXktVaMcBW4tYLdz7D89ui2cFkC3h9Lla5AkS0zyjsb8ZBToD54TJxrFC7zle/FAS7RpEI4LozQ4KYVu8LfzWLpLYJM2o4ZUOyWi2hfc+gMrNStyWenoATDQmxke3uAqww6ebZ0/sCZsm3nmLZ+kSx4MwD1u5sWHfG4VesNgkF6BXLFKSQgR07uqiBkTqmpjT28unE0Kxq7Oewy/5nYGVFGG6G7HTzzdUTaDO1s7sZYbKYmMp5jk22MSlIHWcuMdekOZn8N4FFqUWu7DBTt1iwq0SKNYkiZQ4CLj1qFWXicvfaKPU6jVZXs16FPsloMYjJ17FNxggK5WojNInr6mM8sVV0fr/btwfoTaK1iqp33ArNV8/llkQoMsg71GdVpT88D0olcwr3WBj356SZECLVf+sMIJUG+orwNACjHdRAG7/B0Lh6Yb6O41PPCbxsA55ggq9sBv4U2n2ceXBYDZ2r6A36AjQVtLIyqw0dz2E2JYA05UocS7yMzd7khNqbo+CRK7Kdqk0raFNCTEs80/KUqMart+9cl2jm1QQ5EBrSZQN/aM5Wq/1u85au0JLWQ=",
+  "URL": "https://github.com/sjoerdvisscher/one-liner",
+  "LICENSE": "BSD",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1593380984",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "ghc-libs",
+    "haskell-bifunctors",
+    "haskell-contravariant",
+    "haskell-profunctors",
+    "haskell-tagged"
+  ]
+}

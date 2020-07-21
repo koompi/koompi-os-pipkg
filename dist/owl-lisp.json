@@ -1,0 +1,23 @@
+{
+  "FILENAME": "owl-lisp-0.1.22-1-x86_64.pkg.tar.zst",
+  "NAME": "owl-lisp",
+  "BASE": "owl-lisp",
+  "VERSION": "0.1.22-1",
+  "DESC": "Simple purely functional lisp",
+  "CSIZE": "287185",
+  "ISIZE": "2623022",
+  "MD5SUM": "0487c672c400bfe6eaee3cda19b367ac",
+  "SHA256SUM": "6627b4ad7318921cc7b5169fe9f9d496e6c2e35751baf313af179c71b88fd74d",
+  "PGPSIG": "iQIzBAABCAAdFiEE0jW0leqs33gyftiw+JPGdIFqqV0FAl4w1N8ACgkQ+JPGdIFqqV2y0w/9Hb5/m/VTjno8Meeh3+B0oMPz2+EfAJ/+qBsIgK3FuPy9g/QCWMqTwwF55zzW0sucmKQe4fJ2BceMJ4dJm8JqV+RuDR52Wj7+H0Z1gwmhWXbupljq5j3OftR7EpFWxzEICVx447mC5VhRBYmgw87IzJ2XINnCL1FOKiLIIyqt6zGHFKxWeVc4WT6mM033vvx2OQRQxxJu03DxyUxdriR6Nt8ZGBIxuXsRENL42JUQJueLzFAfCnbWfhCDZl4MTH7HHrxBjbBB6j4aiqXGG6wUSviaL/f5cV9NVSrVqDH0VKMxFY/2Nw15cm379TJxJTwRvrA3bLWToNV04VBCdj13TbHGV8n59+2Ub3nf6vSXUXo98t+g1jQSeuflE+9FTGBMvHUmzfvQwAls9bcUuAk5NFCEBRDM11jIlM2KdarmBS9+JQcjpmhjPiSrlzZLwXzzYT/hr+33w9MBCH6+0gAra8p+btlUxT+PW4552OKPuH98HFeiM/beGOZ3XPPQeDtaxmpTrsDXHZ8gLOA3HZps0zUEXyzKFZXP1lOFtlqtsCgFCJbfxnqjGRJfk3spSIw7Gk5sOzHXLGfqfUrVNQbuoxdFS4MofihXek2eEgw5PAKv1OgUpMrGD6idLVRMlzSnipVs4PNkEMcnbTG3eflDFru0WV3ATY7CU87U9K54Zj4=",
+  "URL": "https://gitlab.com/owl-lisp/owl.git",
+  "LICENSE": "MIT",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1580258376",
+  "PACKAGER": "Filipe Laíns <lains@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "glibc"
+  ]
+}

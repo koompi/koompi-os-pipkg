@@ -1,0 +1,24 @@
+{
+  "FILENAME": "python-distro-1.5.0-1-any.pkg.tar.zst",
+  "NAME": "python-distro",
+  "BASE": "python-distro",
+  "VERSION": "1.5.0-1",
+  "DESC": "Linux OS platform information API",
+  "CSIZE": "34782",
+  "ISIZE": "153338",
+  "MD5SUM": "134fb4ad1d39a37877702a52e477fb36",
+  "SHA256SUM": "cb40bc6115704dcbfe39f87a6092ec0de4c9c29f9d931daa27ce048f452836c1",
+  "PGPSIG": "iQIzBAABCgAdFiEE4kC1fixGMLp2ji8m/BtUfI2BcsgFAl6kQDEACgkQ/BtUfI2BcsgWUg/+Jz2rYjlgkAw62FgrNGu7aWT5eT68cAt+ZQfAEP1di3ezWm347+/tIymrltRoF3fTUVXyfT6Xjk3q/ceT+QIatycya/inwVEfRt3rxFzXlptHTA2TGhqFtVlLp6TlLFbau58BFtKf+XGt2P/C1GhJO9f4CHMlGg4Dvp+adQB4OqcdjIYC8F6BaVg13Qrks0C6Gnqd6F0d9N6VIa0Mt35B2hAEYfCYlqrws/rkm+NMRuvZ5nyaWaq9p/DhntL6jeA3zoRh4QGn9EQAKu1hwAKJQX7NsubRkk8p9WWoF2c03o7SC2S9gp/Fj3TNzbmg/ijtZXfdYIsydhauBhT+IOxCf2Ja1Lq1ZvWrI16DuhyIFuMEtAWjeGoWOnqZKetd8LtzzqSE510MCq7yYEyDCnl2KFo3svMiqoATY/ycmMinNTuFVnh5udYQYpIRpQ12wDvlS7eH7Q8J9XT79Rf9HXrKeQp/SXemo8LdiZfUD2KA+NmRDII0zfnbK1/ma0pjqHe15yslHe0EJipMvjdS6JBD4RLiEAXZe6dz0ISeiezfiA74IDLX0WZfgYAH7B/6nCA+cHcNBMm/GMMR/UACWNWSW3/rmBuZCR3/UaSYwI8qyvcmZHBF/Y7ab1ySEYmf2JILeHtu45ABur7YVBtU6qUJwDuycuavgFSR9g8IWWkx6S8=",
+  "URL": "https://github.com/nir0s/distro",
+  "LICENSE": "Apache",
+  "ARCH": "any",
+  "BUILDDATE": "1587822599",
+  "PACKAGER": "Levente Polyak <anthraxx@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "python",
+    "python-setuptools"
+  ]
+}

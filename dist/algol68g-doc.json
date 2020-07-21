@@ -1,0 +1,24 @@
+{
+  "FILENAME": "algol68g-doc-2.8.5-4-x86_64.pkg.tar.zst",
+  "NAME": "algol68g-doc",
+  "BASE": "algol68g",
+  "VERSION": "2.8.5-4",
+  "DESC": "Algol 68 compiler and interpreter",
+  "CSIZE": "2675899",
+  "ISIZE": "2997138",
+  "MD5SUM": "9801b0929b29ada7bc7f99d9ed55dc85",
+  "SHA256SUM": "2a4dc8df211c34e4394db9da9a69aa011975404acbb444ffff9a41cb9689ba47",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl8EcfwACgkQeGxj8zDXy5LjLQ/+O4Yz5gvDO0+jRgFRKfWDTpyLDlVqM9okPiORjKdmGVZfALs198pp/hQZYvy4yiIOMW+z7oB3QLRAN/hl4oW49xlPry/ulpP87jJDPFIQoUGhAAZQ0u/yyFZs8LGcTtYogdBRqGS6+XCC987WP/kabfbE0Q+Q9vQTlIEJifWiq2clLUTkzCTkp8ulvdyOe7DJQbD0PzITLlG3bfGdbQepwJe9CU8vgIME48b/lP6pSNsJN/pvEvhCXyf+hjvhT135TAlU0BfBo5UZ3gqqLmicDFX5Y05ZlCYaHyeVjOX/ymU/JHu8eqQ6yRLoQMljKnAvGnVrax4y5ie/82I4YJU5Vo+jdQSePl8LyD8yj3KF8fqVNaY/TtIhOEb/vkbOVql+tLOT8X/ZsfKZZ/LvlBrgu+AWKyTPH62CZTvdBGv+/hmUUtABYgPidyEm5UL05Y3Cc8n+dWAumrWHvXDWZZTPll4x4v/a+3CW9F9l+CdP4ygp97hhMm6EfDpKHC8UzIcN9qSycH64M4o+D3GkYEnyy0NdjJPDu4xG1FWtnVgw2EsEniCWSXi3aR1FJCkYw4mWx5xB6RUsRm3ILCu6XDhssZnzIPdNKAYqBgTD2+d41uxf9oIST15Hbap0tQU5ExVmWhHxczXB5tQzRU7agVcjeYceCo1L4gfKXLMbsb9xP5A=",
+  "URL": "https://jmvdveer.home.xs4all.nl/algol.html",
+  "LICENSE": "GPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1594126769",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "gsl",
+    "plotutils"
+  ]
+}

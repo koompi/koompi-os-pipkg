@@ -1,0 +1,23 @@
+{
+  "FILENAME": "libreoffice-still-nb-6.3.6-1-any.pkg.tar.zst",
+  "NAME": "libreoffice-still-nb",
+  "BASE": "libreoffice-still-i18n",
+  "VERSION": "6.3.6-1",
+  "DESC": "Norwegian Bokmal language pack for LibreOffice still",
+  "CSIZE": "2321449",
+  "ISIZE": "21074685",
+  "MD5SUM": "cb82708b4d2ccecddd61c715e3fbfac9",
+  "SHA256SUM": "c1158eb8c0e06b39a0a7a30d7c8dd9878565ee7eec618279bbc14a3965a32e3c",
+  "PGPSIG": "iQEzBAABCAAdFiEErcih/MFeAdRTEEGelGV6sg8qCSsFAl6tSuAACgkQlGV6sg8qCSsRNgf+I6OiAM/GwxuMTNs8sPMKJ2rL5uW5SN7LcGkDJ4u3N2Jf7iRhrJ2jcl+Cl8+Pz7z+t7F+7OHRZ3LE3x5+kKFnuiI0xuIVzPF8WCt8QVraehywlBkYi7CE7bdVIaT4qU4tM0C0a7tPk1yElWhQ9i3kfr2eBNh7Tbo5CFt+PjXUsIYOKezIfM/kHa/Fa6QXarLd/yL0UPKWtILx8WW2AwixXPtfi0DUBq+8FBWyaqlxPeinYu+s3a3nTWNfFhe2xiTrP2DD4l9aNcksJTfNjQM9Q+5sfhywCo++Aogo19rfEZKV0xvbEF5cewv3IFuNxtcipc+g+2bg4Uh7BmeJGLP91w==",
+  "URL": "https://www.documentfoundation.org",
+  "LICENSE": "LGPL",
+  "ARCH": "any",
+  "BUILDDATE": "1588407321",
+  "PACKAGER": "Andreas Radke <andyrtr@archlinux.org>",
+  "PROVIDES": [
+    "libreoffice-nb"
+  ],
+  "DEPENDS": [
+    "libreoffice-still"
+  ]
+}

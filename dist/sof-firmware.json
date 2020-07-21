@@ -1,0 +1,23 @@
+{
+  "FILENAME": "sof-firmware-1.5.1-1-any.pkg.tar.zst",
+  "NAME": "sof-firmware",
+  "BASE": "sof-firmware",
+  "VERSION": "1.5.1-1",
+  "DESC": "Sound Open Firmware",
+  "CSIZE": "444075",
+  "ISIZE": "5693380",
+  "MD5SUM": "bd0fc958da78a7bf896444e242b27cca",
+  "SHA256SUM": "cff53e5a78afab16fd68f11d175e2e95f1d45b50c17729b87efb4518ce822592",
+  "PGPSIG": "iIsEABYIADMWIQQGaHodnU+rCLUP2Ss7lKgOUKR3xwUCXuLGqRUcaGVmdGlnQGFyY2hsaW51eC5vcmcACgkQO5SoDlCkd8eILQD/RRRd4sL2NDqujq+YRvmRW/EIQMJrWPsVcNUbkSn+jmMBALjNxZpLyIuPqYntv+uk1x6CTNL5/cJL5GG9mtAZEdAN",
+  "URL": "https://www.sofproject.org/",
+  "LICENSE": "custom:BSD",
+  "ARCH": "any",
+  "BUILDDATE": "1591920274",
+  "PACKAGER": "Jan Alexander Steffens (heftig) <heftig@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    ""
+  ]
+}

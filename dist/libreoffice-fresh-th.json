@@ -1,0 +1,23 @@
+{
+  "FILENAME": "libreoffice-fresh-th-6.4.5-1-any.pkg.tar.zst",
+  "NAME": "libreoffice-fresh-th",
+  "BASE": "libreoffice-fresh-i18n",
+  "VERSION": "6.4.5-1",
+  "DESC": "Thai language pack for LibreOffice Fresh",
+  "CSIZE": "394010",
+  "ISIZE": "2297305",
+  "MD5SUM": "923323e381ad41271eb85dbb437e295f",
+  "SHA256SUM": "d2645669eba6309ece6d8572756d3cca2e1c78d27a12b63d1a1fea2c3c31c920",
+  "PGPSIG": "iQEzBAABCAAdFiEErcih/MFeAdRTEEGelGV6sg8qCSsFAl7+F0MACgkQlGV6sg8qCSuKJQf+PnMC2m+XB+84fJVDSDexN+VBU6J3y75bSopLJ2uyEsrZhnE+XE3Cqwn2Ur2P1/Ze89hAusp+m6ifK/68rjUEr5q4Egp96c2TvxpoPoyFDKwlMuGRBKNggopG6FH6CZ83m/EpTXNLup71mKKzc8+b+kpNkuNIplrE/7mpAyQhgOSuP+uwvZcrpih3qYBEINcX5G/7ilLJMbejCfPTQaSd0+NFzIhnptbb/ZYfcC3xPo9l/GZUAueuagbeXKiIW1sJebQ+oT8QyPzFUlkR+RentHsttPZh7vI6gKP8kcCT4xBtAyT9033b12A1G0S20xn8+Q4LDmy6lVl+bn7K/VBMaw==",
+  "URL": "https://www.documentfoundation.org",
+  "LICENSE": "LGPL",
+  "ARCH": "any",
+  "BUILDDATE": "1593700315",
+  "PACKAGER": "Andreas Radke <andyrtr@archlinux.org>",
+  "PROVIDES": [
+    "libreoffice-th"
+  ],
+  "DEPENDS": [
+    "libreoffice-fresh"
+  ]
+}

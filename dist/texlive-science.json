@@ -1,0 +1,23 @@
+{
+  "FILENAME": "texlive-science-2020.55390-1-any.pkg.tar.zst",
+  "NAME": "texlive-science",
+  "BASE": "texlive-science",
+  "VERSION": "2020.55390-1",
+  "DESC": "TeX Live - Typesetting for mathematics, natural and computer sciences",
+  "CSIZE": "3433710",
+  "ISIZE": "14355390",
+  "MD5SUM": "c3562af6a6eee6325d34afe260375e5d",
+  "SHA256SUM": "76bd436ba01b3f1a1fccbde6349fca99ffcf56038feb1561dfaf18e92d554470",
+  "PGPSIG": "iQIzBAABCgAdFiEEROpirNvIG2oNH9JnIGy8iS0Uk9IFAl7dXIkACgkQIGy8iS0Uk9KofxAAjwN+hDSRg6RkV+rsBCuV7nKEDUZFcphTESjqK3SMCSx4APcwGncOykKdTFHu9MXOM4gh6Qg2EObBbQUgo3FNGq08N0qazOdKYhc01UBqbsS0GzniWSaUb5+kS7+o4CiqrTwSB66LnbtI9iGwZrZ4hv5lO/vOr+jEO8GHUyIzhQL72p2hRL+1UxiVKbHMkAHksZkvdZb77D1Kn/0lp9dPnCXecLkW4L5a0cs5rE4rfjTxOeEcLw2qHc8IQbtA7bRc+8TmkiqTAqtiCqSbQzurTfSi5Ib/rMZHkxryEB8s5CYgfBIcdOlRqLe+zIWkoayotMVhW91zRRP+FxjU9AMGX5wgMmYu25ljRC/dxyPTQejtQENmkh7qwX9mFMeVeQ805ACbYl2wy2J5MDAvl8TfubSny5BF4yDHlHUp19g1944hd+agJgGnIdPotMtrz1Ll2dFeb6szUMUKN+QP/xDhgYS2KeFBrBt4By3ZyuzfpdeGj5NrNRvwiuO/aJeO3RLjcj1zkd5v+OrOshnZYgnNVD91a47+Tn6E7SUWiWiUcdpxKt5zxqCnrVfi2t9Bri9MZtTiEAr2wcsUb7idV69VZLfJCOOb4cEHi1l3h9vlFX0KVTGuJDH5W5/basKOw56ixvB51B/NxUKojMJba7acnEsa89oyLIYnBWAYskUB/v0=",
+  "URL": "http://tug.org/texlive/",
+  "LICENSE": "GPL",
+  "ARCH": "any",
+  "BUILDDATE": "1591525385",
+  "PACKAGER": "Rémy Oudompheng <remy@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "texlive-core"
+  ]
+}

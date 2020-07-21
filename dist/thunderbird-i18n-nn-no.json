@@ -1,0 +1,23 @@
+{
+  "FILENAME": "thunderbird-i18n-nn-no-68.10.0-1-any.pkg.tar.zst",
+  "NAME": "thunderbird-i18n-nn-no",
+  "BASE": "thunderbird-i18n",
+  "VERSION": "68.10.0-1",
+  "DESC": "Norwegian (Nynorsk) language pack for Thunderbird",
+  "CSIZE": "508525",
+  "ISIZE": "574950",
+  "MD5SUM": "b5d1b5e80725397df9bd7c429f326b5f",
+  "SHA256SUM": "4ed7f925c995a0a3ea9b0614ccc37cad4ac9362c17c6733d2714e87ab6ab1aaa",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl78eGQACgkQeGxj8zDXy5KeMw/8CZ04CTXr6+hUG2PCluMxEEtwks1n3JQE7hDfWU1KgD7hBa82qOrL5yKqXZP/grJJuWIDwgkxYNchb6/RE8eEvMi+XrXXQm9zfGcy81FPWJ2n4E6P9MEOYEi7TVMCtx2ATeTeaxi+lPHSKr10vLOKneeq9IIu6LZcpR9+OCdga1F8jZX0lDw3IZGPwd6lqhp8wrG9/GEfZubSsUN03xU5CxdvKfNjy8G67QNDZ+un3of3a6QV2LelrgA0KO1Jpf2hF2ItWgSZ2KvVtl9nOVfXmcF4QvgAiGxZhpDj7Q36aFH9xdjq5FGRpbH+XXu/k530pK7ipFtCmGqEawK3Xv3wWqPnThBvENU40TbL2ei7ji+wwW5A6mXGvlAuJSpVaDAqW4yals/Y+PfPihCzSuB08I+uZon/KdLYTPDVpuIsgDOkc3UOaFANMkCZ4PG6wW6vWG/dMTBjCvHT9iyH3gGBiw/sNVHXpwj+gm//rKvrgaUdkAabmvleNFrRTQf2NgvqEOXiQBQbIAfAW9zt2plMiDlBEMJw7n3sQ4nXFSLwFFCljFfucYmNJO8jMHnCN5rx6cVbyJecypJ48Sbbi2oEtgOw4+CXsFI7tsQ9/rhmY4svyriufXO9QlLGx73RozmDrUNfqXrBQHWxb6U2GrUIpKbtlWJTgR4eTGPqbTgg8RY=",
+  "URL": "https://www.mozilla.org/thunderbird",
+  "LICENSE": "MPL",
+  "ARCH": "any",
+  "BUILDDATE": "1593603702",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "thunderbird>=68.10.0"
+  ]
+}

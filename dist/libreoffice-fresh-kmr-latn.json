@@ -1,0 +1,23 @@
+{
+  "FILENAME": "libreoffice-fresh-kmr-latn-6.4.5-1-any.pkg.tar.zst",
+  "NAME": "libreoffice-fresh-kmr-latn",
+  "BASE": "libreoffice-fresh-i18n",
+  "VERSION": "6.4.5-1",
+  "DESC": "Kurdish language pack for LibreOffice Fresh",
+  "CSIZE": "280086",
+  "ISIZE": "1496998",
+  "MD5SUM": "7c284de0971925f3f2b121dc20199ecd",
+  "SHA256SUM": "ebfad8c6d6c1c34184103cbad134fa63fa2a8054e42af1c6b7ce56c98fcee901",
+  "PGPSIG": "iQEzBAABCAAdFiEErcih/MFeAdRTEEGelGV6sg8qCSsFAl7+FxkACgkQlGV6sg8qCSs92wf/QnQcq9D9EduQmpPO0yr6Jd7sxeZahR6HuJKOGdBUq80B0M3NsR+ir2xZL9yQUrRWQg0IGSJZydB3EuVvhY9LV8kT798x032iWbLTQmgmiXsUD6UlWM3XVhFq0Xk+jKuxRnKxDhHh/K+z7D4PbqkUT7nmHAsTdnVulKGZarLMKH7ffIfZGlxYAHBc5ATNWY3zt2okysVOLIAiPWxDgq9KKVuN9SJWkKVF8LGme/cWFhaKv7Gct/a+1zHim4wn1nrEWVy1M9MAWOAyT283P6J2Ii8Pxs3HPq4WbigZNEz75bvmW+WQYKr2Y4P3QsPsKmVxU1AZQe0DbcsLN8Y6NZ5RZg==",
+  "URL": "https://www.documentfoundation.org",
+  "LICENSE": "LGPL",
+  "ARCH": "any",
+  "BUILDDATE": "1593700315",
+  "PACKAGER": "Andreas Radke <andyrtr@archlinux.org>",
+  "PROVIDES": [
+    "libreoffice-kmr-Latn"
+  ],
+  "DEPENDS": [
+    "libreoffice-fresh"
+  ]
+}

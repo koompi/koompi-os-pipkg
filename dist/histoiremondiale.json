@@ -1,0 +1,23 @@
+{
+  "FILENAME": "histoiremondiale-2.1-1-any.pkg.tar.xz",
+  "NAME": "histoiremondiale",
+  "BASE": "histoiremondiale",
+  "VERSION": "2.1-1",
+  "DESC": "Atlas historique - survoler le monde et lire la description de la période",
+  "CSIZE": "4167116",
+  "ISIZE": "8173899",
+  "MD5SUM": "e68a8e209af208bb47c14b7170f43a0e",
+  "SHA256SUM": "92c9e9c84520c537cd3e13564cc3c1eda4f6054b2c177b17dd16d7fa1e8e9514",
+  "PGPSIG": "",
+  "URL": "http://histoiremondiale.net",
+  "LICENSE": "AGPL3,",
+  "ARCH": "any",
+  "BUILDDATE": "1592068406",
+  "PACKAGER": "Unknown Packager",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "java-runtime>=8"
+  ]
+}

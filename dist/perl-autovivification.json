@@ -1,0 +1,23 @@
+{
+  "FILENAME": "perl-autovivification-0.18-6-x86_64.pkg.tar.zst",
+  "NAME": "perl-autovivification",
+  "BASE": "perl-autovivification",
+  "VERSION": "0.18-6",
+  "DESC": "Lexically disable autovivification.",
+  "CSIZE": "20992",
+  "ISIZE": "52009",
+  "MD5SUM": "0ff7a145440a1f55da47540911bde689",
+  "SHA256SUM": "f91d6f9e1175ec042692362cc18369a79d27d6a7562b1f03b639491e995a85cf",
+  "PGPSIG": "iQEzBAABCAAdFiEEhs/8qRjPOvRxR1iAUeixSKmZnDQFAl7vNfUACgkQUeixSKmZnDS++Qf/XBYYW5BslPmXQwzo3P13u8gJ10nkDOsEopqYXhQ9Sn9vBe4o8cW9H7r0EBs/A0fAA+YgpEAJjWFmQSTC3hIqcmdpapcPh9+zYx0Ha7mOnkTreUrjjLz9Eribby+hLs0MpJDwuxDpXrvK41W1hjQs4BWecUWRag6M/UCDg9VzoTrrP4jvyFypeSLjmOgmDsNcTKXb806kn4z0FyPNq0RFXHVCmqWKVkOKhkr+tByNf6EARhyjvwuF1tvCpZ+N1ybylk768iQ8jxB7D4SpxyhFjlWsNe3hMuMkXiaVYjvqX4Z864ul4aqCMHqnYMcYDc7+he4AiK5cDHiaY/s2C+6PLA==",
+  "URL": "https://metacpan.org/release/autovivification",
+  "LICENSE": "PerlArtistic",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1592735201",
+  "PACKAGER": "Evangelos Foutras <foutrelis@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "perl>=5.8.3"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "FILENAME": "filesystem-2020.05.20-1-x86_64.pkg.tar.zst",
+  "NAME": "filesystem",
+  "BASE": "filesystem",
+  "VERSION": "2020.05.20-1",
+  "DESC": "Base Arch Linux files",
+  "CSIZE": "29959",
+  "ISIZE": "41562",
+  "MD5SUM": "6dcab557ed2c85432db9e2058b6b9bf1",
+  "SHA256SUM": "1aebf78a97dde99243a83d8edf321718f60a7be790448b84a3ed8660439202a2",
+  "PGPSIG": "iQIrBAABCgAdFiEEVyJOyaX8pvvJK7iqShr8NF6+GPgFAl7EYSEACgkQShr8NF6+GPg4sw+/aQMcCTKj6D0ugccKCjy/OP7g5TMdV1LqM5XWJEpOB8lRXTrCRrKgIN5v9woHeTvqqooLHUqnRl35bXcI+kqxwQ7iaWkZobjmTf/TsDvTjTG/XzjqHGnxUfHdx3/b8a+taXLaFvJgq2RV++eeTmcAz1vdjtdJq+fYt+SsmBLXLjF+IWwW5DxBbnRYsSuWDgrugb+w8pIgtuec28zbNejPU8Wp4mKlbXTKEnnDYkj/WCMiDCXJIglP22DtQbgWgrBUabJ9o4ScYqO/PTnbaKf79jefvAaxSkjOihfljWlWwZ61+OQPXkSCMRFChhSanNYpUVpoNa/icbYgqV/fNYtx83BjKMOnVI5l5oMrcvnQ9jsBhqMhPT0wYN8nANZBWe2mbfMNYISzaVfJ29unV9V1cwlQodhQEI32v5qYpH+bnz/Rj2gZO8z9+Q7oj8NFEZHAM5ChfQRRcE4oSFX2zvyW8rHqHUF1hZKvUBV/3/XyXomjRDVtjVLHkT47pyYj5QFX42DvnLsezJbRU0SS2n4wfgk+32DIf9de5ZWmQeQllJFlMQObB5d15ZUCUM0GvaSxjY6s6aNWUAKz5DdrP4ghTRzL3giU4dVn07t7tpVeErBT+OEIQBNCSpNjo5Cn2wM4irbihseX0XYTr/Aqp1phCUoHt5VVsJQ5",
+  "URL": "https://www.archlinux.org",
+  "LICENSE": "GPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1589928151",
+  "PACKAGER": "Sébastien Luttringer <seblu@seblu.net>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "iana-etc"
+  ]
+}

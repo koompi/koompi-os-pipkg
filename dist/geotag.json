@@ -1,0 +1,25 @@
+{
+  "FILENAME": "geotag-0.103-2-any.pkg.tar.xz",
+  "NAME": "geotag",
+  "BASE": "geotag",
+  "VERSION": "0.103-2",
+  "DESC": "Match date/time information from photos with location information from a GPS unit or from a map",
+  "CSIZE": "3172216",
+  "ISIZE": "3380224",
+  "MD5SUM": "911d87c34cb7c0cf6b94e583f4381932",
+  "SHA256SUM": "ee1a0e4bab215063bea2f43dbef8792b7642ee60609071c3139e40c4f180d235",
+  "PGPSIG": "iQEzBAABCAAdFiEEzgvecadZqH8j8PfYth284QkBwWMFAlyHo4MACgkQth284QkBwWPEywf/W9AL8ULjXhfhpKli8P/B+WsUWyI1X2gbSaQrXFe2VTWZGTHHO3nREimdqVbEfikicmYK1ljU6s2yEamLnEQGehOTGYpV3exgEm/vg5bTxBKHCH9HDOVdsUHLVtNnT8s/DBbtDVpT9cHIFcSbhmL25DsT4vmw9G7UgQiVmg9tJPZfzfqTQOwxHpLweGbfMRil79gcykCXlflHxayHrYPo5JtShWsF1ugoVpfRS2rwE9wtNLbrTmHSSwhG2W1Zu711hk4WpO/DYOKp0Y3J/+bFLvDRXhsmfwqysmuwcBtdqbz2pTX2nsrioNEfB5Ur40ZX3xaPukR8Aj+hjBvTkkHTnw==",
+  "URL": "http://geotag.sourceforge.net/",
+  "LICENSE": "GPL",
+  "ARCH": "any",
+  "BUILDDATE": "1552393003",
+  "PACKAGER": "Balló György <ballogyor+arch@gmail.com>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "hicolor-icon-theme",
+    "java-runtime",
+    "perl-image-exiftool"
+  ]
+}

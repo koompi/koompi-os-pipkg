@@ -1,0 +1,23 @@
+{
+  "FILENAME": "kdevelop-php-5.5.2-1-x86_64.pkg.tar.zst",
+  "NAME": "kdevelop-php",
+  "BASE": "kdevelop-php",
+  "VERSION": "5.5.2-1",
+  "DESC": "PHP language and documentation plugin for KDevelop",
+  "CSIZE": "1328908",
+  "ISIZE": "8112298",
+  "MD5SUM": "cdaba7a91979190311aea18ecf6d6aa2",
+  "SHA256SUM": "46ef68546a5cbc066dd3a32f096bd124ef470eb47b2b2fd73454b442d952fc20",
+  "PGPSIG": "iQEzBAABCAAdFiEEFRnVq6Zb9vwrc8dWek52CV2KUuQFAl7WZVUACgkQek52CV2KUuQb9gf/QyQv98aVmVvrd9sBa75YiDC+hpj9xwMp7IQY2f2ttZy/PPGG5a1XwIuuH57ZQzUTErBRRYMHETkJ8TECWxi945zs+ITyZIYQcwIuJG8DFq4pi/5uPL3A3xhAwViy6x3arnuNsLALS9tt2/hhaeYXhBSP2udXn4xqkiTwmXs0YwORRR0AybezKKzzBzNjnpzeGGflL8WM0lg3yRhVwu249ejQG7bOx4OTI8EBrC9TYYAFgkfN8fBK3od+DOLXkGEWuVW84kcudIJ3yraRFuiet59emMvjUpcl64CfD/0HwzeWqWVhenw6mZAI/gMFBVKrjZnDr1ZB+4aWH9SosrYkYg==",
+  "URL": "http://www.kdevelop.org/",
+  "LICENSE": "GPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1591108670",
+  "PACKAGER": "Antonio Rojas <arojas@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "kdevelop"
+  ]
+}

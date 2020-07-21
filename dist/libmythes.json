@@ -1,0 +1,24 @@
+{
+  "FILENAME": "libmythes-1:1.2.4-4-x86_64.pkg.tar.zst",
+  "NAME": "libmythes",
+  "BASE": "libmythes",
+  "VERSION": "1:1.2.4-4",
+  "DESC": "a simple thesaurus",
+  "CSIZE": "10048",
+  "ISIZE": "19519",
+  "MD5SUM": "019f24403c74a2f9147728f5cd22bf08",
+  "SHA256SUM": "5ab91fd110f47dd62d2a73688770a62eaf30a84babeb57a2fabab25ccbc9555f",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl6/wu0ACgkQeGxj8zDXy5LqsQ//UPWpBdNqp6lzpfJhz8pyqUL66LostjWf8aoDVct3R/kvfO6thueGLu8SDlWculM7CDRYUVsndGBTfWvIi47ITNPwT98pEWpTWXC4QrO07I6UMN/SJeo9X0Ng5Cfz+Mz7UQgEMm6zPhnHrEsAyyVfnT68x3qyXSvDx4wy92GaRMKMvEoxG1IAaZI6Z3/bqaFvhk9uytjX6ElzqG0izVWUf0twTFOep5RqMi66Qqw2Vw3QC7Po6wUvmg62Hv7Vm9qN+AynliLB1Q/u3pHmbq5zS3DEI4O4I8nm0xYf1NpAjO/zM1IIW3sKhCPF9+czRlGgQ2aMyHZb2jlpU2DJ2QKkUYFB9hrFt/oowERjD4EX2S1dO288jFbO4MTe1Mcg3rpx3DKj3r5ZhBNkjvIgD5+9J4VTPknkq8o9xMikCGF6HOhBOfqMiW1FiwORzUO6ML9QCTGdhKn77D6cSRwA+/notGcU+11skJhp7/Zf1tJeVfeMX3OJtKiCB6g5Q4OjeMPZl72so234Zb12cuaBsDMc4yyeQ8ElasFsiQa9AOXgVJfkhmMgIR6rp4fQcKurCuE58KdQLFa66LmlKW8wxWTftFg0I2iLc06HJZzOSUY8XbD8vpzgV5V0/03wCtdp0gkokRvhXSq40yfsMHlPZuI/xew4HZSSpckdaHIc2rJAnBM=",
+  "URL": "https://hunspell.github.io/",
+  "LICENSE": "custom",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1589625565",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    "mythes"
+  ],
+  "DEPENDS": [
+    "glibc",
+    "perl"
+  ]
+}

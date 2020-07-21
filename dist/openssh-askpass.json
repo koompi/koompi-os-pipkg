@@ -1,0 +1,26 @@
+{
+  "FILENAME": "openssh-askpass-2.1.0-3-x86_64.pkg.tar.zst",
+  "NAME": "openssh-askpass",
+  "BASE": "openssh-askpass",
+  "VERSION": "2.1.0-3",
+  "DESC": "A plasma-like passphrase dialog for ssh",
+  "CSIZE": "822125",
+  "ISIZE": "2734080",
+  "MD5SUM": "ac1b54f1b8807e34db53dff629fccb62",
+  "SHA256SUM": "d6069b4f44482cb19ced5f6e01b77bbeb8b393986a9040ba0492cf427bec47b1",
+  "PGPSIG": "iQIyBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl8Eo2QACgkQeGxj8zDXy5LTJg/3V3qWRS5pPJV/5dEYSQPgxabFcVnlkkiGfBAOklm99vOtzAMVLKOK/2Nlufy0oxD0mc70gL63HpwteasFZT1BndtBlDH5StQG3q4tqIEFMsiL2SJ3Zf4LtmksdkX+aoekydn+CrM5+f7cHFf9865W/ntG8ujGC6AzFFLi4ZnwiWLhD5M2BrVu8LlKX+xoeC7cgf7RipwI4TovD3wTy3uZOJfPqMzyxS0D+K5/cKa+MazxnCG8yrNa160Cl22aD5UxmK0BQD27OL8bqpg/3LVhCy7MhN0ITTxTFu0W7cViwBVkWXv5c1vhC6764YsaMQEtnbC6t70hFbSyTIfVVTvEHo1BFCNNHTUfDdEnEMVQdCYjhC2zcBxMqAYkeE0g0eHNIiIbTKB+8q6Z8CF5tTTDvX0DdOSVPy++7xXFxInhxNI6I9Zzq+NRAgTgfWU1C1pjgnKg/TbnYFw5CPzSVyuLapNFFmnpfoOKtdPTnmz7OGN9V4sqC3b7fINDbHa6gvV3jYnemrfs7ydN6iPtp52idox5HjZfAwl3604mmgjyxffvk15D8fxO+aB9KUaEBeFIhc8zgxOzof4YR1QIKUTp+Tz0+fWtoxdCYZ1hk4372scUy4JFrcJc9ushsjeoGi2ruOZShfACdNry+AFnmXAMT6gaPTC2luGYU9EZjb/TGA==",
+  "URL": "http://hugo.pereira.free.fr/software/index.php?page=package&package_list=software_list_qt4&package=openssh-askpass&full=0",
+  "LICENSE": "GPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1594139338",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    "x11-ssh-askpass"
+  ],
+  "DEPENDS": [
+    "openssh",
+    "qt5-x11extras",
+    "qt5-svg",
+    "xcb-util-keysyms"
+  ]
+}

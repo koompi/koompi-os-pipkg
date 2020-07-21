@@ -1,0 +1,23 @@
+{
+  "FILENAME": "python-txaio-20.4.1-1-any.pkg.tar.zst",
+  "NAME": "python-txaio",
+  "BASE": "python-txaio",
+  "VERSION": "20.4.1-1",
+  "DESC": "Compatibility API between asyncio/Twisted/Trollius",
+  "CSIZE": "35670",
+  "ISIZE": "160752",
+  "MD5SUM": "39ccf31a95d27ce4e595fb52a7c30563",
+  "SHA256SUM": "dd6bfb8850b5efbcfc469d3ec8d725668f65a4728d4c7b244affc146495f25d7",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl6DygMACgkQeGxj8zDXy5K9Ig/9HV8ZbuH4yMWjriR7D5E/nULZ326y2syLrzewhiQFEDyfJncNoYTllsboYYpzoSX278oEQAjQRSToq5FJQhyWpKqLZ7WsCITUMSx05YkkihbB2xugmgq9P8xqp4tVnm1jjl9k6wW5TejgeMKy/qgSYBjuS35NhNgT3YoohtlhBq9cSNgivViJzhycyMJxo+LndLGV0jGAOPtaZCgtN+y3IFMpoLxLoUlbLJRRNZxFajB1/WJIdMWsIHadNZ5axWlfxcjs4+cgtAQ7ilAD6Q5Wpca8x9E9T/QgcidzefMe+rf/RsXgKZGIgjsUczajhpO4fXVwBQOCC2PYh1GGDeSAgLGPyErbdtsH6Y/EkmFqYGmvYWTLIx3jh2k3dQjc9DeiWxqOjGkV/maKIR+3yeeX8v8FEV6YU+JhpSoxrwaTBG6dUQDjjUNfULyuIRPRFBPvyHxEhTKYhi1RlBygWQuncV7WPAR+02kCd5CzNG1nI51LRRkcxx8cA79iD635ZBSmJLgRM6unn+Idwzmzd8z8E7crRXW6P1N67qTpGuKIRV/0imjwW4k0Rbz5PXevVQ5SHLQLOTJcqrCvxcXnPXMNGi4ECglQR3QvZtOTcyqF5GpMzJzDGQQgppcC4IUHvrSx/+y2AWeh6uFjAa9jnTABqDVJoNOd5vrD5YJ98fbwQLc=",
+  "URL": "https://github.com/crossbario/txaio",
+  "LICENSE": "MIT",
+  "ARCH": "any",
+  "BUILDDATE": "1585695205",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "python-six"
+  ]
+}

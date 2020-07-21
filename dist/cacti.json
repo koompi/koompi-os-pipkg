@@ -1,0 +1,26 @@
+{
+  "FILENAME": "cacti-1.2.12-1-any.pkg.tar.zst",
+  "NAME": "cacti",
+  "BASE": "cacti",
+  "VERSION": "1.2.12-1",
+  "DESC": "Network graphing solution using RRDTool",
+  "CSIZE": "19120736",
+  "ISIZE": "55264417",
+  "MD5SUM": "7b628a5eb58c415a3deba30a8a61248c",
+  "SHA256SUM": "748e78ccdc1166138c006b549c69a61ff8a95ecfa1e2081d1f908ce44bb5b40e",
+  "PGPSIG": "iHUEABYIAB0WIQTH54SUZv4jWDQ1iDdyWHNLQcMVSQUCXrAn4QAKCRByWHNLQcMVSSGBAP0a9NU5ytpJF2zdqUfaddz0wIGhMws0XKNjt4Sz+iCJvQEAt1JgZnvGz1kfC2BTFdBR8kG65wVDkWNCkd9OX2dSPAI=",
+  "URL": "https://www.cacti.net",
+  "LICENSE": "GPL2",
+  "ARCH": "any",
+  "BUILDDATE": "1588602328",
+  "PACKAGER": "David Runge <dvzrv@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "php-gd",
+    "php-snmp",
+    "rrdtool",
+    "ttf-dejavu"
+  ]
+}

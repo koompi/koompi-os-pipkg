@@ -1,0 +1,23 @@
+{
+  "FILENAME": "python-flake8-blind-except-0.1.1-3-any.pkg.tar.xz",
+  "NAME": "python-flake8-blind-except",
+  "BASE": "python-flake8-blind-except",
+  "VERSION": "0.1.1-3",
+  "DESC": "A flake8 extension that checks for blind except: statements",
+  "CSIZE": "5640",
+  "ISIZE": "6043",
+  "MD5SUM": "2b8fa81f88eb4aebf4304d406684ed9f",
+  "SHA256SUM": "9bc1e7152da77da9d331d6d8d99c2113b5a6700dd7d618dd4061c041029082b5",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl2/0uIACgkQeGxj8zDXy5L83w//Uaa3jXpa8dEi3FpOvAdOkVtD6FRpk74rhZODb3MdmSs0jnJnRYjnM+ZSivcHZh5dGlj3JqcicBimrS0HMRINdcOVVwc9dIpFo9QpnSdvbkSdRKyqAKWBDjM2eW3vUFmnCyu/+QRxJcfLvE1krAUY7ju9IAQUdzPg6cKXRjbGgjf7bn6JcADXOlbyFn61rtmB/nIuhjIRoNv60eOdtYoDcI+AKOfVSujUSLHLmiViyBYEoSixDGmjbd06X6W/xNtJbwu3mown9d2goUIH4Z7xS6GIDimH3SwIXsA+9r+6Ho5gTR0cMgVr/lpLKDkgiVl7u/yuEp/Z9Q/fk6b0LDnMQe8+pQK8IFzNGuXEPauMJ/DpgmojgcdXqi72zbIGEcci8TKaTT/DKNYrsihGVUhsiEXxdJ5v4utZsYycxPT98i1p/uYCaywW75lQru2mJiSg7D5YaBmC2vYlFvGHY+CmCClSaxeRFs54aazvwyRJMCoLCAzIBor6+m3hW2v80NerOxWLegBgIVEHHAa0FxG3qkP6frQPZdbAJ/0yCvjZl6i9QIm1tCm1eeWLXsRyAQ/JHHVyU1WBSoAVX4lghm4krRKPJKWAik5zrCvLB2ZbZX37zckp78Z01IfMA4QoqhXLp507L2e/rW7AtNEEUiDq+5IScSpKJf/4xJs7ngw8Myk=",
+  "URL": "https://github.com/elijahandrews/flake8-blind-except",
+  "LICENSE": "MIT",
+  "ARCH": "any",
+  "BUILDDATE": "1572852416",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "python-setuptools"
+  ]
+}

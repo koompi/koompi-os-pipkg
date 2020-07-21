@@ -1,0 +1,23 @@
+{
+  "FILENAME": "libxv-1.0.11-4-x86_64.pkg.tar.zst",
+  "NAME": "libxv",
+  "BASE": "libxv",
+  "VERSION": "1.0.11-4",
+  "DESC": "X11 Video extension library",
+  "CSIZE": "36274",
+  "ISIZE": "61365",
+  "MD5SUM": "4c781a518dc9387dbff74cd32e1062e1",
+  "SHA256SUM": "4faf0c2b2fddc872c43e9787d2471509ca81a6c429a7c1cf7454b54bf8c28016",
+  "PGPSIG": "iQEzBAABCAAdFiEEhs/8qRjPOvRxR1iAUeixSKmZnDQFAl6/8WIACgkQUeixSKmZnDQJ/Af+KJhHn6WIMsNmJrzbqqFRRBO2LBU45kka603Oado7ix1N/udo2MokTskwiJheQJVEMc3Y3hkKT/KWASKOm6/umWZ6M61MMYh9UjhfsVFHbQvGy38kzblG+YNfqiVYWUVEJG3XsJcX4Y1HbJIL7zvFa8TR26KeVTtY7P7eZ8eIYQ2V3B7n0L+NC064z4biPxX+ZIUCRniX5vvoBfquQpzb4VQrZT77yekoglXiOG3yy/QISvqRAqdv8jt2hQX/3cMAOOZm87AVogKmzxjGkEjxhw3nUq3mpZUO2FAA3ZZIKA5g35YkLVpaPPjQ/1CHJBmFS7qoRZrh1MPWF+WRd1feGw==",
+  "URL": "https://xorg.freedesktop.org/",
+  "LICENSE": "custom",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1589637435",
+  "PACKAGER": "Evangelos Foutras <evangelos@foutrelis.com>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "libxext"
+  ]
+}

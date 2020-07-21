@@ -1,0 +1,26 @@
+{
+  "FILENAME": "lib32-mpg123-1.26.1-1-x86_64.pkg.tar.zst",
+  "NAME": "lib32-mpg123",
+  "BASE": "lib32-mpg123",
+  "VERSION": "1.26.1-1",
+  "DESC": "A console based real time MPEG Audio Player for Layer 1, 2 and 3 (32-bit)",
+  "CSIZE": "248620",
+  "ISIZE": "664206",
+  "MD5SUM": "fa41a111815d20d271647e83d89d07c9",
+  "SHA256SUM": "ffce765419090f6cdae2f495712ba6a35adf5ad70974deb0e2e232a44c612a9c",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl7qXjEACgkQeGxj8zDXy5KCDQ/+LjgvpArb+0tpqB/lqhKzHiAVl+3HvPC1CILsMWJ2+udIPZ3hZgHgrXwEIUXv8x9cmrDHFYQ54m9Zlv+W3feGwNq1KOxx9sKwJkHu0ncJY57C33RnPqKR8Nh50aqzBr+BlwsJNgOVnj+lx+8B7ePVEpbp68gxVa5ovCCvQdR111tnU9txH1RDu/xaGRlxOtKVT1VBAeajb/Z3P5I/3cYF452JQDnQs+O+Od0KpUNrNxOw/R+4cUbp//P1X8SN149YdQh++E8Ig0UQWl+2CJr4yDyvOO9h2iOr4U8JAXM188Ote7BEDL0m/4EW3M1SD87kuQjMJFFxEiXGmYu2pRWajU34+jeiy97jBxwlRS9p4Lbmi80Cn7MhlAJuA5kb5NSkbUHFMsOS8ylrlbzyqaMMLLgY/sngJHWmqCMfdLgQ/3ZVVgBvJuazhcvgL20NRRt+s7fq3i/Zn6NOzJQTYgjPjeqs9Ilz8DcKQu6s+GQk4jNM8IqQPrBRwq6J/xb35aGyKhhWmJFpV5HHjMBRglACkrEDDO4GJcB2EqO676vRcxEmIkA8yq87VZcODSgqxzQ8pYUbkf10YglikBOiMVtI8MBHawqgeaPVs+YIeAG27ugg/36wvjv6WGUHgTgVgQMJrIDRjUyXOBSGcmbfgiVGFR415w7tbU7aAXOmJ6U1bNE=",
+  "URL": "http://sourceforge.net/projects/mpg123",
+  "LICENSE": "LGPL2.1",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1592417768",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "lib32-glibc",
+    "lib32-libtool",
+    "lib32-alsa-lib",
+    "mpg123"
+  ]
+}

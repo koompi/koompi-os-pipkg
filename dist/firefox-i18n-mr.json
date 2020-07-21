@@ -1,0 +1,23 @@
+{
+  "FILENAME": "firefox-i18n-mr-78.0.2-1-any.pkg.tar.zst",
+  "NAME": "firefox-i18n-mr",
+  "BASE": "firefox-i18n",
+  "VERSION": "78.0.2-1",
+  "DESC": "Marathi language pack for Firefox",
+  "CSIZE": "538449",
+  "ISIZE": "599907",
+  "MD5SUM": "b800e521dc05786e586262b1c0d53cf8",
+  "SHA256SUM": "631c4823eb2959bb39f7b997940a30d4d6b61867cda8a701325f588c683ee2c8",
+  "PGPSIG": "iIsEABYIADMWIQQGaHodnU+rCLUP2Ss7lKgOUKR3xwUCXwelqBUcaGVmdGlnQGFyY2hsaW51eC5vcmcACgkQO5SoDlCkd8cTiAD9EYwv2+wQeH/ImPcghA4p/TpNhrEjA5bd50sSuyxeGrsBAJsfbTlBqDGO77Ls+EfYJgy+WKgN5hn6tAbzTD/AUasN",
+  "URL": "https://www.mozilla.org/firefox/",
+  "LICENSE": "MPL",
+  "ARCH": "any",
+  "BUILDDATE": "1594311501",
+  "PACKAGER": "Jan Alexander Steffens (heftig) <heftig@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "firefox>=78.0.2"
+  ]
+}

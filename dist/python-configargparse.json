@@ -1,0 +1,23 @@
+{
+  "FILENAME": "python-configargparse-1.2.3-1-any.pkg.tar.zst",
+  "NAME": "python-configargparse",
+  "BASE": "python-configargparse",
+  "VERSION": "1.2.3-1",
+  "DESC": "A drop-in replacement for argparse that allows options to also be set via config files and/or environment variables",
+  "CSIZE": "30874",
+  "ISIZE": "134989",
+  "MD5SUM": "09027fc352035e6f26cb22b4fe6bf0ef",
+  "SHA256SUM": "358bab4001731cf7f4ba37a9abc3a502a5c844c20b00822ec014ba3efcc32629",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl6pObYACgkQeGxj8zDXy5KXWw//VM/RKKdOAAH7BaJHzbOrKQWs5PsrtwS0SMofgEcPALkvNHbDQSER2V1nNq4mQs2CHMl1HrqAdNI1Is3T8eL/AO+H64Tv8vahImIqz6xS8RsMZsw+IR/hFE+AvGnZnfROwa8KwUPBfTi/TvnTu2Rjjeo7Pau3siIkjIcxgzcwj4IIfTX+OmKhEavFX89ZGY1dV4RokNmNCf96gykjgufpIulmLVRXMKuoZxsJb28GoEy/82qY3p9wNDwagyLpnpIVR85mDbHiGHDP/7BhTCwcaDMIlCN7O/bDU9vrCb8Dcvl/1XDuYq0IpkLJoobDZUv0mGYxqNXsYuqa0zVrfVvpWoIdXmXAdGIQgLskgrzkyPSOdqnKk0nu4bgnJcLmfkYVNUMrRd3P28GX52iQyeEo4HAd6zmraPbTiPg02VmMRdLlfmN5LB5naAAP+EEGwmb0zFNkV0hlpOmGKe7VPD2yXKk/isyO6P4hCv3Mgv1hxcf188ksxIiTXhNTukXHCoDUg1TCBEGKdd/LdGDhDrYVZaGnJ5lmpZJyxIqAUIeyyvwVB+Yn4qs7EBAhpQqfDUgTAtj2/Bx17xHeB/rlhkPxwusKl8WywBKTBIsUom38Si4lR62nHU6p8pCmAfEOAGgym8cvT2tCYrk6d3CcBUagLN7Ybee781Rh+pHR5vHiqU0=",
+  "URL": "https://github.com/zorro3/ConfigArgParse",
+  "LICENSE": "MIT",
+  "ARCH": "any",
+  "BUILDDATE": "1588148627",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "python"
+  ]
+}

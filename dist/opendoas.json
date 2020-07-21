@@ -1,0 +1,23 @@
+{
+  "FILENAME": "opendoas-6.6.1-2-x86_64.pkg.tar.zst",
+  "NAME": "opendoas",
+  "BASE": "opendoas",
+  "VERSION": "6.6.1-2",
+  "DESC": "Run commands as super user or another user",
+  "CSIZE": "23620",
+  "ISIZE": "47720",
+  "MD5SUM": "3f53675549bbba967fb6e4ebe5429588",
+  "SHA256SUM": "c9e90013d91bdec1697305807e616d1f4ec2a43e8c3a7802d27c1edf08eaa7b3",
+  "PGPSIG": "iQIzBAABCAAdFiEETybpAjd1lZYpwlYz4yvNk1imWuAFAl45zXkACgkQ4yvNk1imWuA5aw//f4iCTPYcTTZZxh28abpzNbjbfUmSk8q66W24YYmtOk8wJHxFZJyhm/YML8FMVFvSBm92ehLiUCt2vvACzFfjZnk1Q6Mf4XdQu/INAhjnoDq9bq1OdVDFbLJhnTk2kl5XAx/ohM1MifdETEuuBEZ1yWwG2XTnQ6ui59NSh5xQMiSRnRt5zwO4OjBWYCvsGnX6u/jG2WLXdK9CEJtTrTfZAHxSpbH2U4zl5NqqGI9engA/pIiAbWavxslGKOSJrYFal45+Ky+dBUm+ofTCLukbYuwEcG4onTKZ7vSVKKqzvJW5VskpscDP8JQxk6J1b9knqLxWBfnos+b1JdHG7JVY0NeEU8VgCi+9z8KxVGKzm1FX9Nbz0Zc7h8vfyoNW9ffC3dHjYEU02Ghw1EEDHaQd+2Boh9bsvBL8R5CfhWQZh+f9J8OMiZlVzo7SxJLWBiSyFjZNest/+CP3JnxNLovZU4PYXX7zFMU/Cmfd6gGw7Hi2JfrV32AYuarvTa24a6QGp6JogAkeTGiTKUNE+0FcVI8TqDgLfQq5x2Z9m+tIlKNfSX8j2U1aD1SZXfVlmlFG0FGn1kDNcTSNFFwONNASkpbC9uLh4LAcwsqVPivAMZ3I/fsP1BdWhRkWh+tPFgtNKyXPl40gJVkq2Nhf6jULqJUDt3QaFCHdy2+cGEuijfU=",
+  "URL": "https://github.com/Duncaen/OpenDoas",
+  "LICENSE": "custom:ISC",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1580846358",
+  "PACKAGER": "Ivy Foster <escondida@iff.ink>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "pam"
+  ]
+}

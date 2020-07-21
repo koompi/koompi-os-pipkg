@@ -1,0 +1,24 @@
+{
+  "FILENAME": "js185-1.0.0-9-x86_64.pkg.tar.zst",
+  "NAME": "js185",
+  "BASE": "js185",
+  "VERSION": "1.0.0-9",
+  "DESC": "JavaScript interpreter and libraries (legacy)",
+  "CSIZE": "1413198",
+  "ISIZE": "7554864",
+  "MD5SUM": "fc6e1c645d6b70b9bf6fff988c1ebcc6",
+  "SHA256SUM": "015c5511041b1b6221d3f2edd4452139ef7fc15e3a0635d80ed44eab0ae7ab2e",
+  "PGPSIG": "iQEzBAABCAAdFiEEhs/8qRjPOvRxR1iAUeixSKmZnDQFAl6OSJ8ACgkQUeixSKmZnDTSfQgAtQTjduYoWYBJCHFlSFeuwWzl9NppD8e8TDnidWGvnsxzsIpVoumjea3EfmOfQMdLcQPDhQaAsG2J+AxwyFL8VSe0gx0lGfz8qcQeY8ERQFTXdUqZ+zwZ4LIUbyJ97wvbcDp8QFz2GcmtoTMHnZvwfP2bOgT4sXeEP0As91A7rjQFkRs8nny0h1l5zhRShsJcyNz276dck6eGqyap/NnHuDoLMaLg2LuiFZFvVige06qZtjVFSyn8NTP9jL7Q1ANXAaqO7HBV+IRfvwequ4rHC7YKhbzNokeNe66t2Tfcam5lkB6/965sT/AYBfxLI2ZFRYa4jfNrcNHZHmh+0ucRGw==",
+  "URL": "https://developer.mozilla.org/en-US/docs/Mozilla/Projects/SpiderMonkey/Releases/1.8.5",
+  "LICENSE": "MPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1586382919",
+  "PACKAGER": "Evangelos Foutras <evangelos@foutrelis.com>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "nspr",
+    "libffi"
+  ]
+}

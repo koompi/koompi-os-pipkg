@@ -1,0 +1,24 @@
+{
+  "FILENAME": "python-wikipedia-1.4.0-7-any.pkg.tar.xz",
+  "NAME": "python-wikipedia",
+  "BASE": "python-wikipedia",
+  "VERSION": "1.4.0-7",
+  "DESC": "A Pythonic wrapper for the Wikipedia API",
+  "CSIZE": "20612",
+  "ISIZE": "79572",
+  "MD5SUM": "c4c37a1952124671c3e6d1116d8b12dc",
+  "SHA256SUM": "fa47b4c0b981c696d159792b7153343e500c2d0e79f174dba113dea51b2bc497",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl2/04MACgkQeGxj8zDXy5J4QhAAusw+OWVihQzPifOw7rXtQIr2z8EfYxcmdRR1JPOsFz508RP1kswWuhc9BxoI6/NFVeG9G299hHKzcqwCMCyMWSVxieijeRYvtOYeDLm0yygLPpEvxpCsC/tLNzxl5yNnjkTKqJqO5sOAZEQOhZyB25js+B+in/aYFJlu5lEYxQCGTsmF7auflgA7jY8ALkxqbXvri+CL+SXVW71DUJ8VQkAvOg19IJQS1FHryy6Rzc1Eq+PouFYfMzm7qDU9FuQaYXAh1o4jS0FTtWjKBUJdnx3BlIW7a5P0M7ee0D43WZQRacVyNYv3TIktXRHq/h4JAMS/hDFup92AC/WiaPtPtO7k+h35nT0hVwZYoQE5HORaOyht0UH+xKcVFzKjM/yKMfgGHuPLSHnaX90iWBzlM/FGFA/DQEPNaCohPTo3RFnNZoJFKV4X/Fj6G+1E0WHaD0LBCvOOhMqanOqX3G9gDq/GsstSy5eAdJvLBwFzIGM/gjuKrlTrQg+ZAg9PO2lcfYUuqE75tbpXeE0IOSwIIOPrpAioFgF8awZltOnkC91TdTJ/P/5ckj7gZyuQDL5sR10jwK5fW8+r5pYVMO6seQeP9AyV1EUiLA9fJ6kFJQnlQEcZWJnbZ4GRXVseCjwaBdz9qQvDvqXq2IK7i/0+sXPMIWArTCf0QtFzWsPn7fU=",
+  "URL": "https://github.com/goldsmith/Wikipedia",
+  "LICENSE": "MIT",
+  "ARCH": "any",
+  "BUILDDATE": "1572852500",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "python-beautifulsoup4",
+    "python-requests"
+  ]
+}

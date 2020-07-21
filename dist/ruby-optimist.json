@@ -1,0 +1,23 @@
+{
+  "FILENAME": "ruby-optimist-3.0.0-2-any.pkg.tar.xz",
+  "NAME": "ruby-optimist",
+  "BASE": "ruby-optimist",
+  "VERSION": "3.0.0-2",
+  "DESC": "Commandline option parser for Ruby that just gets out of your way",
+  "CSIZE": "33940",
+  "ISIZE": "114622",
+  "MD5SUM": "07ea527f4b33158db1b3730e9887e9d5",
+  "SHA256SUM": "0b4614822e84ba120459b48b98ba85ea7ce64d3d1c746ed07c54c61b319b340d",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl4EAQQACgkQeGxj8zDXy5LXsA//dfFvxfxBycLmKGRwubMjST3yjTbS5gOUbVA8dr0lmbzsOa7Mz4pInmCmZdviLpfIOMSEBtU1CGDpRvC6dZxY8dsw/IIN179zITZ9SFCFmSVejWRapqQGOXITlGF5tGhIeXmQE0FlOWEyVbu+5pZb5KRG9sGnLHsS+SwdU7Ovo9bRkNJ1ndZxAFlH+hli7qpRsXOevfK9W4pKxDy/PtLDpsi69R6XNc3hXOByDKHWhv0HkZisH42qJase04rvP07W9Z2i3BzlRpYXDmZWsnU9l3zSHzmTtwUDia9WvTF0QLsoBP8my0kb7SuO2YYBGtoRbAWm5WQp7PA0aC2AKOkWYloC/K1x44GPoe8UOKUgjqBvmjguzr43aUCdEWDeQt4s4fRUgOhc6Xg8aP5wlF8WZiAJX2qBHnpUnGpzkyycFFfhaa3NSYTZVqy7dtxoLRh8P79gMyTUm8h4gdxgHJGHRgub0L/yMZM2j3IJsAgUi4AfOwzq0gxYCCU0++npOMz5g2WT9BSvxjix2rmeXATH5azZskueupkvH6gtpmuhiybFO2i6kK7lumDKrYYv4j8qorMYB8F/AG0JhnfyWMQE4XaW2RAqodsDpHMPhShO+ye3k8UquIy+ylz9IKILlNmIj5nKIjwMu1/C090qy2WSINQmVQiCacGNvtxvgCS5hqE=",
+  "URL": "https://github.com/ManageIQ/optimist",
+  "LICENSE": "MIT",
+  "ARCH": "any",
+  "BUILDDATE": "1577320622",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "ruby"
+  ]
+}

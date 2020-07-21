@@ -1,0 +1,28 @@
+{
+  "FILENAME": "wingpanel-2.3.2-1-x86_64.pkg.tar.zst",
+  "NAME": "wingpanel",
+  "BASE": "wingpanel",
+  "VERSION": "2.3.2-1",
+  "DESC": "The Pantheon Top Panel",
+  "CSIZE": "102340",
+  "ISIZE": "351040",
+  "MD5SUM": "b8fc6caa30d70b25f80b08c00f6443b0",
+  "SHA256SUM": "bb11fb3bf3b32291f724292d4ec83c10f8ba74b1c881f7eb174c57eb9210a843",
+  "PGPSIG": "iQEzBAABCAAdFiEElDfdOBWnqRaePTlGr/XZUJi8b/UFAl7wv4QACgkQr/XZUJi8b/V6Bgf/aj5QtVrc48MVjeiMnjoPs24YjvR1+BeEnQPEiLSoGX3pGbszGBbjN1EOy5UOMAxGUHfoNhc5Jez017X9OYCmpswsMdhwesuuf8fRGxkd7UAKBbM1Ap/fumIeRu/GCfx0uCQuqeZ86tEFyyWFYAT9C3L1LWHrud3uPLcV6uBLLiPzJBhxbdbO/cQBF3H5wRp4xmcjjlM9LlFETEKuBeZ4U5qW2vwTTLihBnVrDWVMwi6Dl1U84JuRyL4wZqs/aeJLQcZaHjwwNQetZutF2cnjHIfkIYN4FsGJ7hxtdicdUh4VxSDSx+S7D5Y0Qmcl3GwStV/lM8iQgfuGCIqUEhSCsA==",
+  "URL": "https://github.com/elementary/wingpanel",
+  "LICENSE": "GPL3",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1592835921",
+  "PACKAGER": "Maxime Gauduin <alucryd@archlinux.org>",
+  "PROVIDES": [
+    "libwingpanel-2.0.so=0-64"
+  ],
+  "DEPENDS": [
+    "glib2",
+    "gtk3",
+    "libgala.so=0-64",
+    "libgee",
+    "libgranite.so=5-64",
+    "mutter"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "FILENAME": "python-memcached-1.59-5-any.pkg.tar.zst",
+  "NAME": "python-memcached",
+  "BASE": "python-memcached",
+  "VERSION": "1.59-5",
+  "DESC": "Python interface to memcached",
+  "CSIZE": "28175",
+  "ISIZE": "143069",
+  "MD5SUM": "4471d7f6a1e3120cdd5470d164f4b04e",
+  "SHA256SUM": "ccb0a1f9a3868d099535753a5da9343d56c960bc1fb7fc5c1d3ad72f13045e3a",
+  "PGPSIG": "iQEzBAABCAAdFiEE5JnHn1PJalTlcv7hwGCGM3xQdz4FAl67xR4ACgkQwGCGM3xQdz6Ntgf+PIgOLvha3TH885DvIoI0E2SRe/Sters1VP2pUzvufBYp8/5kRGdFDbkt5xw4PdZde4upbrUb/dWrAxOV+2dLYiCyVTlrfPK5ufahiQNeI169BKa44Mq16lxOvB3PKZluuT3kCZiEdme2ulnfm6zMs3bpvruJ40kJ3SC6Eg03wDtGu/dDmuWVO7+xPY6nAZrgaj91AgZYzzpWwQ7HzqoueyyvBAtJHpKSAukhly/FTnaMLr8UTYNcjsCVgwVgr+kmtMgjpON/nKJ59vm9l5QzajUOXhk5UORPxsMCIJrTvf+1yUYrBgZIg57urFuLkd4neBYvN/KD/pyj/zZslG8fIw==",
+  "URL": "https://github.com/linsomniac/python-memcached",
+  "LICENSE": "PSF",
+  "ARCH": "any",
+  "BUILDDATE": "1589363778",
+  "PACKAGER": "Jelle van der Waa <jelle@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "python-six"
+  ]
+}

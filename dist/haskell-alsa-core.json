@@ -1,0 +1,28 @@
+{
+  "FILENAME": "haskell-alsa-core-0.5.0.1-10-x86_64.pkg.tar.zst",
+  "NAME": "haskell-alsa-core",
+  "BASE": "haskell-alsa-core",
+  "VERSION": "0.5.0.1-10",
+  "DESC": "Binding to the ALSA Library API (Exceptions)",
+  "CSIZE": "50965",
+  "ISIZE": "143814",
+  "MD5SUM": "8f729af031eb14d97006c449185c0200",
+  "SHA256SUM": "112ec9a21c472d3e7102905d80549a11c9b89b0c53f2d0d924a4d71b3a0ff6e1",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl6hdXkACgkQeGxj8zDXy5Ls2w/+LrAS/XmM2jK4WpkwyjZhyCOkEt9zM46rs8h1z/r/bMnPQ3xA4FD2MwnuRGxDH0IfoC5/JGULxBeG25pZ/KjZfeHmwEPY6dk1zY0poeyTbPXUL9tKVQlEr+K/hg2PbkDqtAzkFbSYurXZLfFQeM8thnhr4BF2jP7uzMX+6T8Dqb3I05vfg2P7GISR73RyHdAHFuKrTP0EPhQZNPn055iWstJe4RSO0Vv6NCiZCNaqyLv1MLDuImFcA3l94Z/XiUEtAPcTBeVe3WrLKhF4myympEFW6Su9AZt39Qd8FSgMAZ2Io/t5AtW/RGppTl0etccvf/B/uq2qs5IjObNsiQEuh369yI2u9cLss2czcBfGERL18vgEswDpAwuaJnClPmuMUjK0cZKAS8U5/N3N/TFO2JShDqL90rEQ7lRhsAeIjue8/SV79IEqEREXZ3X62bqw/VhiQs8ZJEexSSNq4JhJEn9bANtFDYU4O0ws8iFrL167vgnL8qZTh5E9GK0b1c0J/lQhjiQJBd8RYAIQuakkjGHyVJZc8EpA0AsxO/hVWKfUcVL0W01qPjr9MFRCG344o72LLAjXIL6EEPY6TR+rZGaHTQckXeXOCu4LG+H/cOddgNL5qpoCZKiLw+PpvW2qEMWwfilYLTlJlmfsvA3jyRCL3aIkDlbrjCIhstVVBTE=",
+  "URL": "http://www.haskell.org/haskellwiki/ALSA",
+  "LICENSE": "BSD",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1587639591",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "ghc-libs",
+    "glibc",
+    "gmp",
+    "alsa-lib",
+    "haskell-base",
+    "haskell-extensible-exceptions"
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "FILENAME": "haskell-bower-json-1.0.0.1-184-x86_64.pkg.tar.zst",
+  "NAME": "haskell-bower-json",
+  "BASE": "haskell-bower-json",
+  "VERSION": "1.0.0.1-184",
+  "DESC": "Read bower.json from Haskell",
+  "CSIZE": "116204",
+  "ISIZE": "713025",
+  "MD5SUM": "38bb0b8e8a7545d7a86cb6ad0242e108",
+  "SHA256SUM": "380767ea91684a7b8e6614e2edb28219c97e5a7ebff23311e561906e61e9a388",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl75qfEACgkQeGxj8zDXy5I00g/9GzDMyJis9gIm4OfB5VmynqeNSvkP/Dt9wyGA8RDbCnkixJdSmHzWoHzj9BmJJyFE9R4D7jPX9qi5fCBae+PNZhn1OviC627bsTYwPPcTM7a2TnuH1z02fbFZtn+L9Bf87U+etQZse+WeUw++cby+EB0bFQ9na/ZlcDqBK2TNTYoSnVOVq3j0q/as8aDYmJKa5dbh87OK2Dq2rA6G14Lc0Lg/WpJ/kkB40dqc+F2hASB59OgH1CKzaXxmTa1OIs7bH8YwfTK8gpUeTxlmXUJ8g0u2B5M7bp4u7SK6qrKs4SxxQ+QC8U8GeQMHSRPtWeFXrjhTjcTm25AyIKRb7E7KciWteZ22THxq7fSt4yoBYU6OY5n2dVypp7hdNSz/G27N5Cm/yggvcaAPda4GFlf06om2ZF9Nm/UfTQBbYIHrOok/R5x4hpWc2PyglpsJVu3+78zrx7CGXl2QVpOzevp7HFw37o3p1t4a8J43zNYrY5uM3nXVevaam85JOY+8QHPHEHzTFl4iFx6qSmA4LUQzptJ4kktB1vl6AD38KeFCUNbYJ3OLnqQdI4vL+tI/aYIgGcOX6UlXyPTIwa7eLQHj3FwJgnMldBdPbNQVocwKUHxNMhytgjsFh8o6nvyfIryVr1LY4PV8dzjzHBmUDYXhz+k/iGAWGr4rR/SpjqeK0To=",
+  "URL": "https://github.com/hdgarrood/bower-json",
+  "LICENSE": "MIT",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1593420240",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "ghc-libs",
+    "haskell-aeson",
+    "haskell-aeson-better-errors",
+    "haskell-scientific",
+    "haskell-unordered-containers",
+    "haskell-vector"
+  ]
+}

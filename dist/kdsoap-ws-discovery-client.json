@@ -1,0 +1,23 @@
+{
+  "FILENAME": "kdsoap-ws-discovery-client-git20200316-2-x86_64.pkg.tar.zst",
+  "NAME": "kdsoap-ws-discovery-client",
+  "BASE": "kdsoap-ws-discovery-client",
+  "VERSION": "git20200316-2",
+  "DESC": "WS-Discovery client library based on KDSoap",
+  "CSIZE": "285449",
+  "ISIZE": "951476",
+  "MD5SUM": "939c50a2784f1120c01e2a14cb3ee755",
+  "SHA256SUM": "5d9c9f2c4835b7532c54e8ef59f7c43e914cb7455392940c214171a6577da027",
+  "PGPSIG": "iQEzBAABCAAdFiEEFRnVq6Zb9vwrc8dWek52CV2KUuQFAl53vAwACgkQek52CV2KUuSy6wgAnHfDoNYOUMI1tG3oc52kDKu2UPSr+1HWi7XG+LrQ4vfGbMeZf8FFwpJQPU2yq9XHfZJl/RHubmhOxIUUIMQVcboxUi1AcgTt2nsydSiOggKWEYBTcqpYV5uMkmjSv9pzIyys8K6Rxd/6bybXS+OCQCRSIqhR7zU5zdRxlHdxUrHuGCJtDB5NrfbrrfwU8bsVs8QmHRVmtY1+oWombvaDvAzQNLlk4UET+GBue5TXi8pnYIOplb+FKu1byZMZzcx+ziUUBTe8wkT404UcOaJNIoZ6F77rGnNLmJ2abgx0zGbRpqMuBPzeam8vmMURC4jyCiahRqmh49Q08MEmKFaYqw==",
+  "URL": "https://github.com/KDAB/KDSoap",
+  "LICENSE": "GPL3",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1584905074",
+  "PACKAGER": "Antonio Rojas <arojas@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "kdsoap"
+  ]
+}

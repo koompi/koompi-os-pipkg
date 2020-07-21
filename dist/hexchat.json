@@ -1,0 +1,33 @@
+{
+  "FILENAME": "hexchat-2.14.3-2-x86_64.pkg.tar.zst",
+  "NAME": "hexchat",
+  "BASE": "hexchat",
+  "VERSION": "2.14.3-2",
+  "DESC": "A popular and easy to use graphical IRC (chat) client",
+  "CSIZE": "1378021",
+  "ISIZE": "5767307",
+  "MD5SUM": "f5cc86b2daf8e4d160c8df88898d6efc",
+  "SHA256SUM": "120e6c5b98a9372c4c5936869ca3e83875db4404badbd186905b27eb5132dcc8",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl7vhc4ACgkQeGxj8zDXy5IHHRAApOrpDyOubl3LXQQhmS2HEFjY033tZW/AMVfir5lMs3Xmf4IG3PL+me6/r1YGPSErVejruUTLxWmBz4xmvLwDEgdmbkHDLprRcr/iPCA/9znZTkkOtL7f85/4bPAhDc3sFlBtpnpFHPgQkTuiZZKrBU/Cj7c+UoAZeYKKWGTxvKPPyCxQh3gDZZEvjc0uYhu72ZoKwVrTYHvWW6GTIaawaF5cvGt6f0ayy7wUuWZcvwEKe74VN1/0E+O6FeL64AxJjYOpOaK6nPAtD/w2wEU8KbSxP9mkjp+V5rBGWznmOXF9p4i3Fp3egXfqHa7uoc5+FJDx8RyONYfpcNBXBL16m9UR4zM6XyvQmXUOUE84ltFUnE6Rv1QzU9BYE5fX2rdV3bjUBfljQwD7X4fY9IdEOPfL76xPf+asN5IgxPRtowv2+OsRFStexC/0CnODS5f9tu7Apj2rqCvY5p73pNTzimZIk60PWxpw1xjnGwETKF4d6GwadD5PGIbh8+ul2OY5/pHLZJJKQSWvT/ZASNI6/jz59IJOesCJavpJwO0nvzZuztHCdsJgS3aBUZ6Qz71jy1U1PmRgSRJY4ISJvpt9ejOhIMAyU5jYBRqfc5PWcCir1zCuJwnQpXAYzOr+wcBu9Gtz16HYWu/5a41roU6KJx1ToJLFNf4TnNSSwdavDBM=",
+  "URL": "https://hexchat.github.io/",
+  "LICENSE": "GPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1592755586",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "dbus-glib",
+    "desktop-file-utils",
+    "gdk-pixbuf2",
+    "glib2",
+    "gtk2",
+    "libcanberra",
+    "libnotify",
+    "libproxy",
+    "openssl",
+    "pango",
+    "pciutils"
+  ]
+}

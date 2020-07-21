@@ -1,0 +1,24 @@
+{
+  "FILENAME": "browserify-16.5.1-1-any.pkg.tar.zst",
+  "NAME": "browserify",
+  "BASE": "browserify",
+  "VERSION": "16.5.1-1",
+  "DESC": "browser-side require() the node way",
+  "CSIZE": "1139678",
+  "ISIZE": "5424446",
+  "MD5SUM": "60346fda7d191b197fc6f452970b0a3b",
+  "SHA256SUM": "df626b6a784cd2bc20d953ded0be65ed7b97d123318e6463ec2fab5adc81799f",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl6CCsgACgkQeGxj8zDXy5IGXw//Sxp7o70Y9qbElptjg8GKjZ/vifiwakM+kLLUrU7VNNyESxWcZdO9RPGwmGUSLZLA2ziq+AiYKeilNZqrTuSx1ceJqaTchrImVWbOShFKx9ETENlso+3rC8uSc7ZfydzPyYBCN2hU1s48U+lEl691qxilwVxxdzL7qyTBuw+i9PYKPynouRjo/FT/9fJErdyXWuMfdXxRnCSoojBvEceGlvLWrnQScdnGcNf102gZRwF8jVOx/Ay24vt+ISMJEhQiyufmunHXgPATyO9n6sistt8Kqv/r/6+0IS2gD0hHrormjv3zElc6BVxcb+IYwkUmJqKzJ+l/b2jeqRpd2t/iWxqSd4jYdpaW49R+FsnELmRV3boI2s3UsWVJyr7slcYCK09ZNQBlFkPrDaS4ypcNpWIdoyC1jdIS3P3ilx+U2ek5RCk56Btsmh6UpmuGy5aeq9kn+B67y/Hh6+2FXapyYajiNtKmeo4mhBevkJDxSlVxlBVvn+jtmAP4d7qT7oSE5DHdE7gxTGeHE3EMRXADOJ+lzmQP8ALRHXeootG8rgW/oF8n6fjfyMD4AVcNbAdo5+3sji/weORsdvb+cfBZHgKAb316cIju/rX52PpKPnJ764PZi5P+BfKKjY/CFALuDqvZDIAVfdhGvjsViYBVOUvCpu0gWa5lI8fx2JXHUJQ=",
+  "URL": "http://browserify.org/",
+  "LICENSE": "MIT",
+  "ARCH": "any",
+  "BUILDDATE": "1585580514",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "nodejs",
+    "acorn"
+  ]
+}

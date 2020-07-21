@@ -1,0 +1,23 @@
+{
+  "FILENAME": "dateutils-0.4.7-1-x86_64.pkg.tar.zst",
+  "NAME": "dateutils",
+  "BASE": "dateutils",
+  "VERSION": "0.4.7-1",
+  "DESC": "nifty command line date and time utilities; fast date calculations and conversion in the shell",
+  "CSIZE": "335320",
+  "ISIZE": "2073553",
+  "MD5SUM": "a4140b40348abd29fb091758948e2c2b",
+  "SHA256SUM": "ab332baea20cc09e04b8bf9d85f9acc8bc09718bbe5bca7868e3e9b74eee83dc",
+  "PGPSIG": "iQIzBAABCAAdFiEE7MrITBugimzI5j+78i+x14p3rqsFAl44HNIACgkQ8i+x14p3rqvYhQ//Y0mzV0mTh//Fh+DYLT6VsVBC792iuKTSxwunzMI+slnHWcFXHPxl11LP0HFYnO/zle94UD1fNUoZIIw1tQj5YOEr+BmMBlQ8mbsXaSooCP35xQ42CWj8g7A5GPJVLg5VDHEYVEVbpPMpB1Mjk2Pf9cvZ8ly2u7LK6Cat82oycX/m0JXkCynOi+ng2uqjIop7OtYjO4HhGzd1egBDdBsQTzH/z4FaqB0jIi1Rvam6ETBKv4pOMxn1+gojP/NZ6VuwPho0VDMOTlR/eNcE/WaAQ9jpONBlbd+/ZpLhDA0FYtMiUOQDWG5xUqnpgg6QT+ZqW3QE6QunFxXS1HLOhnmBYuVNRjuRbVmCy0ZIAo2h6ygRQctzypDWo84GxHyGmsd0s4Z0fQRqEXjMDGUSKa1tI+hZ2/yB9XXFTjHleb6G/IKhhLNuq2gdYSmyb9tkUv8X9Z0cT1HnaXzxjG6aSeJiZHx8T6n+A7KzDRBdW+s8oOlYqd+GOC6uV1m7TKt1XOdScdQh+unt6+ncjdovyvuA/dImtijBINsQ6cYraaRoCiYTE2EN631FxRey87Si1fTvXNNcspaOXIDuJqzxZoiWkJ4tOsFytCZKfNIvIP4AzrLt9wldsxg/kODRQ9t18AYDrrNziD2trvKpNmhVAe5fGaH9HoSi4YzcsA8seGtBNQY=",
+  "URL": "https://www.fresse.org/dateutils/",
+  "LICENSE": "BSD",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1580735584",
+  "PACKAGER": "Giancarlo Razzolini <grazzolini@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "glibc"
+  ]
+}

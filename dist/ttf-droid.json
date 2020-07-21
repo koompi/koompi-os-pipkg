@@ -1,0 +1,23 @@
+{
+  "FILENAME": "ttf-droid-20121017-8-any.pkg.tar.zst",
+  "NAME": "ttf-droid",
+  "BASE": "ttf-droid",
+  "VERSION": "20121017-8",
+  "DESC": "General-purpose fonts released by Google as part of Android",
+  "CSIZE": "4178497",
+  "ISIZE": "16051939",
+  "MD5SUM": "ba702ac3709152c359ca0d8c2bc6f825",
+  "SHA256SUM": "72681fe1dfe6866d3970499e854838abd65b86d0a75269a95fb2f32a26c7d011",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl8EpRAACgkQeGxj8zDXy5KiVg/9Es3UcNaSFpoHqBHquV2wRlLQ5SwPtn9Sga7jmfmwwKgKeSc6Jlghmw8RqK8KEWm+Kg0KZfx+VtkezDhQhqlrQLrg1mf5IFLdaY7IwdpQ6V2ZbNP2GkLUwbxzwyEug8J0Jbqz0bXuKVbtSCiZCdjc1pXeSqUW2IedJCcuYKVk/CJ0DbOmZe741PcnjaZZOLRnBtMVXwSAZaK8NW2/sA8++cxd+EUBaZ8pQJ5J1NxZIzufg2LaGjeohxLMDu1B/578+6CcvGrKgq/lkMHiMm4lnZ+ID3cvTSTeUSiJp6G8SnSCThB9X+pkLi17yprLSfNIWvqXf4a5WUx+22IkVWmIpSKxq0l4yIMm3F3unPnOT3cQH8ChiEALNEd81OjTAg9a+mZAPdg+XmhU6TIamiBAF6AuTlRBZ+6tEvxFc8gEpzvP7GOxgZNJjja5CeJ4x4nFFh/aZYZ/REulx0oH5cp4+TNnk0Kbm3Aiaxo22cdj6bP5FmLzcyFi6QkUxDjDcQ7nwsDiFqoKerrpcwFroNPbayQTvIXJSx37R32MYhBpbNiY0MixfGvb7xS8IPXL+6gUTSwtBXcbabdTVqBGoisMvh5xWPsgw5HtU6jJRcsdsoklRswEbuxmNpj7gQVLCT4oEf/ak2EL2zg6qYRmFT8G+uxZLwDZlGg6SNPxuQ+kV+A=",
+  "URL": "https://www.droidfonts.com/",
+  "LICENSE": "Apache",
+  "ARCH": "any",
+  "BUILDDATE": "1594139813",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    "ttf-font"
+  ],
+  "DEPENDS": [
+    ""
+  ]
+}

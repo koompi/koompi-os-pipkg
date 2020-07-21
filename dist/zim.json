@@ -1,0 +1,27 @@
+{
+  "FILENAME": "zim-0.73.1-1-any.pkg.tar.zst",
+  "NAME": "zim",
+  "BASE": "zim",
+  "VERSION": "0.73.1-1",
+  "DESC": "A WYSIWYG text editor that aims at bringing the concept of a wiki to the desktop.",
+  "CSIZE": "1745257",
+  "ISIZE": "7661383",
+  "MD5SUM": "049391c2069c271a44d81e8bd67dfe7c",
+  "SHA256SUM": "7e78e392a4ba00ea7fad3c8fd9f2a9f65003525fbeb44be9cc2cc23da71b67ec",
+  "PGPSIG": "iQIzBAABCgAdFiEEz6avFeXHQUn8HYwIbRZVwUzhwT4FAl8FkywACgkQbRZVwUzhwT5W8Q/9FlvbH+LI0Yj1vuoMgdarsa8sCBMCeUr9noxsgIyFSZxUhHElN+F+VDRyGpo1US5HpxoKByDdH0NUN0ZnVjfV7mdu5/JVNF5plpfjRw2Yvqjg9pEwGatrPDK3l0uH7dmIhFC/Tmo2eWJvAzwec71lNJXU8VhE5qh1BiCz7pIVSopJ5EFUZZc9zM5cX7siryKhmHU5Gf/1nk0/5LYfe8lagVUxkTKt96Ola/PNxna8EHs23OOHqkZhu/FTpAyrOuKD3U2XcmnlICwnFZAOQEU1wAykLOcHJsMC/6NWy1CTWsveWu5GQEFUiVdX+gc3SgSbXWIwu6rj7zhsPTchfFR5audxDIMuV1YrLg6u1dEpggbmwg9BbwMEisvemjUuUI0Yrb0On0ZHBhyhzaihQKToAbusfsIflgrb3AMLDOvMwr6tQdQQJuOCAKmZnioSfkqzTvj2Z4f6pTxY3tTu8VAiaWDmhVC+9496wB9FxMN+NJid7tXn2h2FoLY29P+1huFewrvmu0sAOxOCXt2lIFtqNYCNFTxORXgZCUvg/mhTDZa0Obg6d6ZnO6U5Zwvz2o/AiJ1aI47JYj40/9Yn7R9rh/eU+WFTH/03voImDgUakyZvEiO9yvOpawvrwmoJU49gClkGxPQNIcincQZDRqqLCr/Gx46zblPHRYYORvM32/w=",
+  "URL": "https://zim-wiki.org/",
+  "LICENSE": "GPL",
+  "ARCH": "any",
+  "BUILDDATE": "1594200778",
+  "PACKAGER": "Florian Pritz <bluewind@xinu.at>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "python",
+    "python-gobject",
+    "ttf-font",
+    "gtk3",
+    "python-xdg"
+  ]
+}

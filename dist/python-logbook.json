@@ -1,0 +1,23 @@
+{
+  "FILENAME": "python-logbook-1.5.3-4-x86_64.pkg.tar.zst",
+  "NAME": "python-logbook",
+  "BASE": "python-logbook",
+  "VERSION": "1.5.3-4",
+  "DESC": "Logging sytem for Python that replaces the standard library’s logging module",
+  "CSIZE": "176687",
+  "ISIZE": "854013",
+  "MD5SUM": "2e80b8f348cc035cfad7ee6047a91572",
+  "SHA256SUM": "e755f4e8cbdcd049165d3c1188b30d8ba79f5fb1b1e35a73b6bcf02ad568258f",
+  "PGPSIG": "iQEzBAABCAAdFiEEFRnVq6Zb9vwrc8dWek52CV2KUuQFAl4TIdoACgkQek52CV2KUuTKqgf/Uy+mSzXSXHl6exPQ+dxc2ud9Dx/sBfoXUh3bk1nH5IGd2UIOsHerIJHtFy9IPhfT5lS4BiRZdcz0YCReHpSr8XGgZCz0Ul0wjtwXQOtx/7sWRy99RpKB3vCJGBbATdNdEr5ladYX0ykblSalidhzw/Ad4Y6+ZWW2anncWXM/V3GurRQpWtf+1bJhTon2GnLjiUTGobu8kUO+qctSqg1wWWR/GCXiLvlA+EZmrQ6A5q7LzPFtX7txPVvfehToiYSeYtxgDDzzYQR5MvoSPi9oVgMqa4mLAelTSknGII2yA5CRJmsguYo7Sh3yAeHuBKMjmV9stpfsOo8qmJCIf6jz3g==",
+  "URL": "https://logbook.readthedocs.io/en/stable/",
+  "LICENSE": "BSD",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1578312036",
+  "PACKAGER": "Antonio Rojas <arojas@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "python-six"
+  ]
+}

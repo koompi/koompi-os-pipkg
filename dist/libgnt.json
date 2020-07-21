@@ -1,0 +1,25 @@
+{
+  "FILENAME": "libgnt-2.14.0-1-x86_64.pkg.tar.zst",
+  "NAME": "libgnt",
+  "BASE": "libgnt",
+  "VERSION": "2.14.0-1",
+  "DESC": "GLib Ncurses Toolkit",
+  "CSIZE": "185143",
+  "ISIZE": "1481968",
+  "MD5SUM": "a6a9ad4729792a9d723985a9765359c7",
+  "SHA256SUM": "75518e1e1a1b9ea78f236fdd38f29e71612c73d401367de5c734af3a0c1df089",
+  "PGPSIG": "iQEzBAABCAAdFiEEhs/8qRjPOvRxR1iAUeixSKmZnDQFAl7hKzgACgkQUeixSKmZnDTIdggAuw0CzsdipOJjidkXlvbXBC6EGCdPOidrZ6hX9uenAbNpRKBnzAwWHS7Tq59Yywc2RDbAmIg+UHoJMdxt7VZPpMjrm8pm8O2a/vNG28oxwHBGZeegX+2uwCemswpHABKSStd/Xz73nz0jiLpmWbsncaJKHZ5n6IkMt0HmDes1wv6haYO9/sML0v5zRDyZ5t1o3F4U/P0gy4UwFf0u6IEqMcA0I4RUJPh2fi0wxwx+g4wCZz8nnWIWcxzDPF2XxEKHFqrX2MhWpSWfsyDqBojcgYRNtL7Cj6snB2QZpgfZg9lAGtmEYD5SNumlGtV4R/LM2tX/qr8hpxsdNBFl7b6xeg==",
+  "URL": "https://bitbucket.org/pidgin/libgnt/",
+  "LICENSE": "GPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1591814928",
+  "PACKAGER": "Evangelos Foutras <foutrelis@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "glib2",
+    "libxml2",
+    "ncurses"
+  ]
+}

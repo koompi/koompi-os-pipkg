@@ -1,0 +1,24 @@
+{
+  "FILENAME": "perl-net-libidn2-1.01-1-x86_64.pkg.tar.zst",
+  "NAME": "perl-net-libidn2",
+  "BASE": "perl-net-libidn2",
+  "VERSION": "1.01-1",
+  "DESC": "Perl bindings for GNU Libidn2",
+  "CSIZE": "17982",
+  "ISIZE": "46290",
+  "MD5SUM": "96b1bfbae7802ed64a659270ff75e42c",
+  "SHA256SUM": "0ade9d526a64e69d0548b75fe9812877af4eaec74012871bc6c76c3d39bd0345",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl72RmAACgkQeGxj8zDXy5KqRQ/9G8K030Tovn+mb4PIbCTUhid/+SWbhCdfBDYWGHBclC+Nh4XTy70UgVZwj04tnlTAyIVgIlCMDEpl+Io6dMOHhXsE1ctqsRufwB47WdOGt/PW37K3y721sXhDECujSU/AnrKlqnbehcDuc2mwdxd03xa8VKnwyae0MpU/I/MdUB7BqufZ9dCAOAjlQe6aDcWIPk7LB+GJxemZWRnV9ZQwI90YP9i9zD0qWqMFc7Uv7aJ/z1FtK2wjoybaf0eeoAAojsze/46keINMLVoxYxo46xzu+B+u2N7UWGFD/NaOqYFT4NSlnMbkCwh5QPH4jCLhT6zw3LwdkzM+LyVd3ELqxFveI+tF9nP78g4e5GZbXRINQ0fNy+DxFKChN9J+hbbTWhWjpmsykVwL/3ZHDv8NyKKE/aw1Je7nSLPqdMn5MtyO2HXDpWSMsa64O3/blwC8bvaWonJxCTeQ6OtsfjEBx7tn+3ccvSYUxidYoMRi2KFX4gmOG9xgRxpcyAtOfpoOz4Xz4I1YUKddUz/ZpuT6xB8qXrM98ziELOThM6S2tjDqBhjxozNplAdnOCWfsu8LabM3trbOfWTWf3vbK7ZaOwiVEGc7HDu0NPn+Zme+U+Ex545pdUA2mxay/wBL8D+fHvJzGF3vKhJoZ3L/OP0JM6cEykASmeAs1tPMepE1H6M=",
+  "URL": "https://search.cpan.org/dist/Net-LibIDN2",
+  "LICENSE": "PerlArtistic",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1593198097",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "libidn2",
+    "perl"
+  ]
+}

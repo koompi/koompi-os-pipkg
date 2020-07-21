@@ -1,0 +1,23 @@
+{
+  "FILENAME": "firefox-developer-edition-i18n-tr-79.0b6-1-any.pkg.tar.zst",
+  "NAME": "firefox-developer-edition-i18n-tr",
+  "BASE": "firefox-developer-edition-i18n",
+  "VERSION": "79.0b6-1",
+  "DESC": "Turkish language pack for Firefox Developer Edition",
+  "CSIZE": "515167",
+  "ISIZE": "577407",
+  "MD5SUM": "15082cb7f00359abe59669dd99975d03",
+  "SHA256SUM": "571af10d3205e2ac1588f914c3f72ff42cb8f72f5c6a0f58f2d2489895a97eee",
+  "PGPSIG": "iQEzBAABCAAdFiEEYB8g8dG7v0p4z1tt9rFhCz7NvJ8FAl8IbNIACgkQ9rFhCz7NvJ+Imgf/TjC0/FlffsIkq98+SLT2g+sOFjYUVXztfCKHrsuqJZtdUiFnMmQllYcRpsOKbB29+mFuZS4cWLF8IOmRh+PiNdKU9Ixb6B2r8qdOaBURWTtbOKIRU3jlxtd0xc+ragukxHaBCVw+vJDsepznGrt4gIufNzFwfjNm1D8IS4exDSsGQLMeeyeWWMNW6aCDtGRSO/4kmsJIKQL3cVlEGIdxmLXiWfLgsUimAeTim/AJ23qemWYpZV4tQol8X9B3tpX5Onrb2JfIQ1aYpf9A/Hvv15zn4PSvSDp+8nS9H1AwL6h9P+7Ey+ekuk36UpvEy6TjXf8na6akiLHYHQ9GU482vw==",
+  "URL": "https://www.mozilla.com/",
+  "LICENSE": "MPL",
+  "ARCH": "any",
+  "BUILDDATE": "1594387381",
+  "PACKAGER": "Andrew Crerar <andrew@crerar.io>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "firefox-developer-edition>=79.0b6"
+  ]
+}

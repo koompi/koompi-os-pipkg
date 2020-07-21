@@ -1,0 +1,23 @@
+{
+  "FILENAME": "aarch64-linux-gnu-binutils-2.34-1-x86_64.pkg.tar.zst",
+  "NAME": "aarch64-linux-gnu-binutils",
+  "BASE": "aarch64-linux-gnu-binutils",
+  "VERSION": "2.34-1",
+  "DESC": "A set of programs to assemble and manipulate binary and object files for the ARM64 target",
+  "CSIZE": "3966496",
+  "ISIZE": "31273098",
+  "MD5SUM": "2fe4cb36bb5573ab7e6234766202e697",
+  "SHA256SUM": "ced2d7d18563491047e911105d97c93ac30d0cd6ead20ded1eeb1e535485e5ce",
+  "PGPSIG": "iQIzBAABCAAdFiEEjhmSFnRl21+wRVV8sChU7XU+Dx8FAl496tYACgkQsChU7XU+Dx+5GBAAwckarO0fhps9BEXUDcIO7zhvTUVpq0p108tMnl5hwviovmsLj21wi5PVJac5DzhxFRoBZgzWJIaQSBEJ89QNfRuoCuQwS5/FPlmUb7r9hR8Aq5PiEzbAJVMYi/hOiMBL1IT6iILhGvrIpMDTI9sLDjOHgLf9lvqELUVDy3IWZoxdQptyZLMYNNQ55jNfCaybI/eOkQCMzk0L0xUo1CJhaCCYlonYNMOJU7Q/NSOJEmCDW3Xq0IHvERRfnatYCNk0ijbXjP4w5HFtWbiX20u4Ec8p31zWTuJS5A57maybEYCmqTrBZvCAY5LZfAGW6xdB6Jgb+suiPMMmXwM7WDa77p+j8hkh+6kHa0GPqp2g0ctHJdlf9En9QoaLJF05KcZGfqtKaARgqVjfDqR+/ik5LE44zvN3cUuBGfqD5xelDPJM/39Yhp3SzrPTbueFZ75EA8DEBRrkcvIkdBESoCtvOIkHYtQg02vc92gKRCWpQjLle7JZEGjK/u8CPmXG98oAXcgjrQyQzMtTV8hKa8Oqei7ytPajnYQodDnNozQkucguUlEnESUeT5xL5V76Xvdw1B4QgSC2LLmj5ouaho+pmFNs5eCBIsU87V8Tf9z9/3pIPFhzxmB4k41pCNzVrgPCHICA5PYBvyQ+s0nhZLabrIvMWtIciyzJCoVP/60NhHg=",
+  "URL": "https://www.gnu.org/software/binutils/",
+  "LICENSE": "GPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1581115888",
+  "PACKAGER": "Anatol Pomozov <anatol.pomozov@gmail.com>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "zlib"
+  ]
+}

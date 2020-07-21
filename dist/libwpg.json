@@ -1,0 +1,25 @@
+{
+  "FILENAME": "libwpg-0.3.3-2-x86_64.pkg.tar.zst",
+  "NAME": "libwpg",
+  "BASE": "libwpg",
+  "VERSION": "0.3.3-2",
+  "DESC": "Library for importing and converting Corel WordPerfect(tm) Graphics images.",
+  "CSIZE": "136729",
+  "ISIZE": "1458044",
+  "MD5SUM": "54af47b29f4a7c1eb15c04175da92300",
+  "SHA256SUM": "80cbc75d907ae459f841fecce2d4b4280bf66b023d3bfe27f051cb15cba5f3ff",
+  "PGPSIG": "iQEzBAABCAAdFiEEhs/8qRjPOvRxR1iAUeixSKmZnDQFAl6/1HQACgkQUeixSKmZnDT/Cgf/SBMSXPfZY8Aff267+UK2/0m/MBRHAW3wJPzRyhEkD8yfS1jia8I4xRQjPaQe3KEcKToCCrhHgmDNso/HySu92dI8rqR5AZxJIjCrQi8dBAEK6qPJqR4WpAhNer77IZpwvHJgjnLP4DHitPxlyfAn84/niXQAXJOstU+Y0ogSA/mwVigk9fUTGS+tTHpXhlOZ3VhEEJC6g/dvYrc0fs4J9IoEwiQfZWhiKyrHzciCUe0KH/DNyZum5+veNB1l0xZNePe/RX1iaak1Mqnd1GkBfetxan1Or1K6I4D3sMCBGomYDEblLkMwJObN1PMdHB+TzX16LeHmWp7cXCvNSXmCKQ==",
+  "URL": "https://libwpg.sourceforge.net/",
+  "LICENSE": "LGPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1589630028",
+  "PACKAGER": "Evangelos Foutras <evangelos@foutrelis.com>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "libwpd",
+    "perl",
+    "librevenge"
+  ]
+}

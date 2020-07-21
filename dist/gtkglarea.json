@@ -1,0 +1,24 @@
+{
+  "FILENAME": "gtkglarea-2.1.0-4-x86_64.pkg.tar.zst",
+  "NAME": "gtkglarea",
+  "BASE": "gtkglarea",
+  "VERSION": "2.1.0-4",
+  "DESC": "GTK/GL Area libraries",
+  "CSIZE": "11665",
+  "ISIZE": "33940",
+  "MD5SUM": "0ae774881d1165a8aaabb5c132ddb753",
+  "SHA256SUM": "a1a019642268f51156ebdcf1a10dc64609ac01220c632d7b74fcbc364e5cd7fd",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl8Eu3UACgkQeGxj8zDXy5KMLhAAiyveBE4MgTnszYNcPJBDBc8yhbzQZUHoon3saS2lSIUOv+WM6eP5s2FqKChQNY2xpELsl5iPnj/wmJ4RfrMfKFT8IfLQ1VCgBe0k52sIZ8PhEv0mp1MD3uRCxCuWM+i0h4WljC1a4v8UEkSjpI9JnNJEt+QwhOzn47K8zMLE5PKgnVsvxGUmSVPH67aaHQY39lbC6ZNiY/ei6b19cIWgvLEimugkqjPVDeo7wxjgeTVpEGn3QhmzkXXZGv8gjnJsIjDEGXtsgQpSgUTfHeYOEoI9GzgfJfWq5mkP65yH20RiRTWiHhDq4QIPMacst9ot/gUivwHOwWAjpnXf69tfry4HLzJl7nAwr4sBcOM3g6jA4PBhVnTIA89zATQFrZ3Radg3fE1JUkdQiXmVYNN2dTjpmnWj0+pxxCBgizvlxHgHZX99Qc68oKhAwOuvaagC2UwrvutAejrzRJUuFDAdtFRaVjzxLId3e5VZLoqm5SW3IV4pcUuzxU28faZ40K29p+ddx0UlQhEX9sbkNwSj5mKsjJnJClcH15LhIJpihpNggWikYuiPnAkDYgBCX1PIUWO4oabBNRSo5+CSLBMmGloo/VeOBY5dLvkBTQCPu3BLpv5e5tJ1ENDiBCL2wM0FoFqXFJBacIt7tIoj+ZjV+DHfLEwjN0xGJpwYrpSkNlw=",
+  "URL": "https://mono-project.com/GtkGLArea",
+  "LICENSE": "GPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1594145566",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "gtk2",
+    "glu"
+  ]
+}

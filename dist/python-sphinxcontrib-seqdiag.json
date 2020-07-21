@@ -1,0 +1,25 @@
+{
+  "FILENAME": "python-sphinxcontrib-seqdiag-2.0.0-1-any.pkg.tar.zst",
+  "NAME": "python-sphinxcontrib-seqdiag",
+  "BASE": "python-sphinxcontrib-seqdiag",
+  "VERSION": "2.0.0-1",
+  "DESC": "A sphinx extension for embedding sequence diagram using seqdiag",
+  "CSIZE": "13369",
+  "ISIZE": "33982",
+  "MD5SUM": "becf5ac910968ea9b2b43cc200f673f1",
+  "SHA256SUM": "279d2775c9d5c695a8ecdbc521a3a05988830893d9cc36c09174c0308a562c1d",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl5P38AACgkQeGxj8zDXy5Kdww//Xl5+bYvOA/uZyT45uE97X4n7+qXyW0IXwxhHyYlrfT31bIEKOy13O4ut3K5sEAAsTfI8lJ0A0osbQMNTXcr/2H6CqWtZvWyokAPUGDfYVG4S+SO13v90JK4p3osdWGfa+JCSJctuLHIiMwOLvucDtBS247IsMrJBT90GMahMsIzAFgiUbRRDitCsKY5vRrYiDNkOnBzoheMvDO6zwLUNUxLxF361F8J8dc6cJqVB7H6wbkqaTnPUvaIUGIvGq6oamuXXRQNcKK8ywmPQjYs3m4lj67aMi5dkBnr7tcD3yJHQ4DUhl+653XfAJpGLQW5zeTT2zfr/5kJ1ZnX+MqhTjd53ZnSk5V+72L9AOQACgPeO0foA6CuYsTxUqSvxzwE/sLJT6p0+r8xoJRnhox1o1N8DuvoDCzu+5vLZBQq20tCv+iKj9QrlPV8ZbiKk46sunD9BfPpwuq+Yk+i+Nzg82Yr+j8bR1Y2JuZvUXqkW5BBFo4llpUPOAP/raON1eazjIp0fFEBr3g/F96Gs3z0vmB8yVsyY8sBaxUP54/l5Oxfz5AcmdIEzqYQ26l+vMHopWY9n5//adp9D4XzSslqm6IWGhzVYbyEZ7LeZD1yT/HyUAux/CUIwyz6LcKnjn5Aq+yeWEZjCJyEtXsWT9G1ZOuRPsWv4W+3F2yFMGkOSiog=",
+  "URL": "https://github.com/blockdiag/sphinxcontrib-seqdiag",
+  "LICENSE": "BSD",
+  "ARCH": "any",
+  "BUILDDATE": "1582292896",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "blockdiag",
+    "seqdiag",
+    "python-sphinx"
+  ]
+}

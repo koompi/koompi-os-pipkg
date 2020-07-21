@@ -1,0 +1,23 @@
+{
+  "FILENAME": "kustomize-3.6.1-1-x86_64.pkg.tar.zst",
+  "NAME": "kustomize",
+  "BASE": "kustomize",
+  "VERSION": "3.6.1-1",
+  "DESC": "Template-free customization of Kubernetes YAML manifests",
+  "CSIZE": "13444976",
+  "ISIZE": "58276976",
+  "MD5SUM": "5fcf65b6bea776cf604c712a5d8eec7b",
+  "SHA256SUM": "f51124193b7eb7f9bd5eb6003e382b3815e53542637028f39532d8284d92c88e",
+  "PGPSIG": "iQIzBAABCgAdFiEEHiYzy/cw8s5ux6twRbQpqPnZ0ioFAl7vdwAACgkQRbQpqPnZ0ipWvRAAp/OTVMiMQErS0dNEg1WvrDwjhVrCzgVjKcCet/hhLnWcpT7pih+iVIk/3h5EZL+2W7Pm6KE55t4Z55lO34CL6uMdClCC5jzjYBkuT76o+b5jTfovDsM/ZrhZLhP18kWAK1urPzB3d91Y0Qw3426pcjBQj3VJhYC5kQqDiDGMdk8z/0HmFmw+T602trz2GMf1uuRQwaJlHd9cWz5OUscEx/TpGRpe8A4Lw8G4vkTZZXkKimF02j5v8t+uo9XVsX3o/mDnAqoIxFQPtzp9jJ9Ga0/0qRQMye30BYsJ4JA0onhc6GQDts6GUIFdZdHExJmXmwukvAJyVqP8A/KKEym3kDR9jHikjq6Wxc27PyUGVn01iX8KiFQLqVxSsWtRSrhmOZpD5FvBamO1x7J2LfVNl8dMqSjP2kbasJswxQ2RCrbOiW2/UcE/l9klmt++bqmxxsu74FsWqoueeijmCt9mehnfKeClek26ufEId1/2d/CuPiUFlf7Duo0AYu07VFBHAHhlx/7Utyg7vJVdilteoCkRLS9lyWCuPC4xByo/uzVdMonJ6GUNQFfFrI1uODux2ffK+PR04K56pc2eN0YZK+kCi++ZqmkdJXay1FjqaVw3gS7/d3Ns6AQni22lRLis6tuVDAPoqmg0cBsTjVHeQTx/CJVqk3GH6gFJmu6Bm5g=",
+  "URL": "https://github.com/kubernetes-sigs/kustomize",
+  "LICENSE": "Apache",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1592718949",
+  "PACKAGER": "Daurnimator <daurnimator@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "glibc"
+  ]
+}

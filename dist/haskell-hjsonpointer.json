@@ -1,0 +1,27 @@
+{
+  "FILENAME": "haskell-hjsonpointer-1.5.0-102-x86_64.pkg.tar.zst",
+  "NAME": "haskell-hjsonpointer",
+  "BASE": "haskell-hjsonpointer",
+  "VERSION": "1.5.0-102",
+  "DESC": "JSON Pointer library",
+  "CSIZE": "43492",
+  "ISIZE": "193336",
+  "MD5SUM": "1f9b0d9a91a7b94b790b95519334dd10",
+  "SHA256SUM": "c7587b8d5c8a1e6fdcd68e01f5a3c5c68974ea8260de4241ec60ae85b7501fe2",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl75mqUACgkQeGxj8zDXy5KaSRAAviVyx3fl5p6vmLQc99jPDVNfp64IBV6itCjF30T9EC7Jse7qUv1Rnu11mtlDrrR68NJrM+hrV0DrXrDEmeboC+CprMqMHFGGbEy87R5N1KsngjtX1NrbZnLfJYYPhQjfvZaRO0GRYeONQ938iwd8ozJzPghG6jk0Wj04qAog0GPF6lfdBWPhNp2CpIXa0vn+pliZNcS0jQzgyLEk0ZdZElptJFwOpLnYwMAaNNPQG3RGnChIQJy8wDynkBvuUlq30nbKDhBNYwv4xCArG0j7PFnGsP/FL/582JhiNF5QBN554vjb+hh2if8R263GwBvXcwTr+dkOLabQFnYHEN/BqQQ6RKp08y10qrzuRWaJ8S9mlKJJ1BcdhwqjB9hYRK/s7G9mNyKlIW3PTGXgDFHnJCmOGN3stb2duVq0kq8e9bfHIGjBe1FjoqRtPhocHv7/4+AsJ8i/wJFNDFpFRpV5CQkpVggromMV7m7ecXqu82GMAfxJN78kSumJJEzMNQaUcU5WCFrzs0c1/PoE0pCGnBaPy0VF7OWWQSqzlIW1lsW8J4BMiHWv48x8hyv7UncJacvByjVvl+qHmYYaS8ZBXDxEE/VbZeiUSQpA/NE0IvSQV6X5RSTPtKnNrFZ/ghS/6tumN0s6GY9J7DTLhgWmtE9dC+NPDfz4GT6BvL+mwBs=",
+  "URL": "https://github.com/haskell-foundation/foundation",
+  "LICENSE": "MIT",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1593416327",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "ghc-libs",
+    "haskell-aeson",
+    "haskell-hashable",
+    "haskell-unordered-containers",
+    "haskell-vector"
+  ]
+}

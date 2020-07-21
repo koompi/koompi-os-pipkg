@@ -1,0 +1,24 @@
+{
+  "FILENAME": "kipi-plugins-20.04.3-1-x86_64.pkg.tar.zst",
+  "NAME": "kipi-plugins",
+  "BASE": "kipi-plugins",
+  "VERSION": "20.04.3-1",
+  "DESC": "A collection of plugins extending the KDE graphics and image applications",
+  "CSIZE": "1548945",
+  "ISIZE": "7537358",
+  "MD5SUM": "b1f541095ed6d5891186d737e7bebce2",
+  "SHA256SUM": "ec6c6b727a17138de290ea6392763600a7ca3fae7e9f4e85425fee82440f5bc6",
+  "PGPSIG": "iQEzBAABCAAdFiEEFRnVq6Zb9vwrc8dWek52CV2KUuQFAl8HBmIACgkQek52CV2KUuTpcAf6A/gs2JJzUiLyq8o7wRUdu7FRu21q+lQzSacybtPp+MaLTVoSFqYNzFJMxKzln7E5EoKtiJgr/WO7TBpnMz78oesz3MguvAjVpnybBvIuZE9UD5ICDqutMbxTJ0M+OZYSrMug7sQRxZeqlILXFoR/k+EUF/8j7XLwNGQ+2ROzPjlt3xhqDh5IvQmwcFd6PYvNxABERa/7+1YREdqjAMq31Qh7pbyrhWGamXqP8DOvnMB83Hwdjwa3es7n61h0hADCqsd3dZiOgrCQUy3+huv3EufbRXcgNmr/v8WlWO7DZto+PQKbPaLXOeDyXhVhxdGVn68Rv/qU9uMT3LiX1nRy0g==",
+  "URL": "https://userbase.kde.org/KIPI",
+  "LICENSE": "GPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1594109783",
+  "PACKAGER": "Antonio Rojas <arojas@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "kio",
+    "libkipi"
+  ]
+}

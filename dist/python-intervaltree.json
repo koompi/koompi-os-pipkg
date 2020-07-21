@@ -1,0 +1,23 @@
+{
+  "FILENAME": "python-intervaltree-3.0.2-2-any.pkg.tar.xz",
+  "NAME": "python-intervaltree",
+  "BASE": "python-intervaltree",
+  "VERSION": "3.0.2-2",
+  "DESC": "Library providing a mutable, self-balancing interval tree for Python",
+  "CSIZE": "32152",
+  "ISIZE": "201075",
+  "MD5SUM": "0b1c11817f94636afb4620c54f5c0c7b",
+  "SHA256SUM": "7899097de4ff07bf6b94dd79fd6365f357d1bff3482d5e8caee1691b41ea2de4",
+  "PGPSIG": "iQIzBAABCAAdFiEEM+u4qOHFZTZFsSMqRaZQ4mOMU20FAl38Wu0ACgkQRaZQ4mOMU23wGg//WchxzXj4CO+iFpA+SkKKyZy4NGPd0+Mj5n0uq3COFkYDcg5vrMMoONH+Nhkt5Tz13vElUc/2ohqnUZJCMjJ+VzvuwaJEIUG2g20tgzph1sRAjm5Yarw3vu5X4aVs3mD8gEVaQaPuiR7Clr87DJf1fC4k3D/O7LTyRMfcAcUbJp428jHow6Pz9wspyVbE8CKHIYgFqOCQCQqy49CCs0zYp3ZOfYls8bwUSHOg4tf31ZpRQzi/7f+P/2SNu1tAWVJdOB8qGkeUKoG3EY6U1MQUD4Gicg+HFMPBBXPN3/e08osOrXsxy42enJp2rnrm/hv4r/6ZP1ujzc1wCZv78bNo68O3itrQSOOJFqTt0T82DxgMG3aPP4sLjh+Qiv0qSSaJzyWAk8SsH8jWuWUyeKZ3n8fBD3pN9cEn4WUhNE1UOnUDYGd59t1w3clXT/H5CUQJEXmwsW8305oGSjhd77AfEcJVpcNoC72eQd57PXgzIj6zfJv7PygFBOcn3Dg4JurqwJ6uamBBGDAhoywHoAqZosEyZ7w7ZBxojXe8gS6gpJnAlSTdCTVe5WgfVwqj83+rppp4fCxpmMDypxZlg+dcEbh2wCXn2CH5J1Ep/8n/9+spsQFdBwN/ditqO9nJI9+cJSa91RChLGWYvOTJpAir30oCM7SMxBmBPjnMhSfpJiw=",
+  "URL": "https://github.com/chaimleib/intervaltree",
+  "LICENSE": "Apache",
+  "ARCH": "any",
+  "BUILDDATE": "1576819140",
+  "PACKAGER": "kpcyrd <kpcyrd@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "python-sortedcontainers"
+  ]
+}

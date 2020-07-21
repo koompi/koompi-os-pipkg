@@ -1,0 +1,27 @@
+{
+  "FILENAME": "nvidia-utils-450.57-2-x86_64.pkg.tar.zst",
+  "NAME": "nvidia-utils",
+  "BASE": "nvidia-utils",
+  "VERSION": "450.57-2",
+  "DESC": "NVIDIA drivers utilities",
+  "CSIZE": "68685398",
+  "ISIZE": "262786816",
+  "MD5SUM": "eaedb76148049da13e8c0212c3631a57",
+  "SHA256SUM": "9291a5603caf0044ec3f67a1f71acc6e7d3cd711002247079257e1ea88b9f3bf",
+  "PGPSIG": "iQIzBAABCAAdFiEEj8FaBklQqZ3RvRTdOeS4d+YuuRUFAl8HQYUACgkQOeS4d+YuuRU+lw//V7P+YJzckOmTE45Hy57EjMTOC4IuD7HJStzNSixmGK+I3kIGeNjMC8GmagoLJoaEYY8uuCxsblC5i321Y9DWlSAIp59lM7srOGuPKtbpwgxMwNZc8YTPIcOetjM5R33z5Ie0ECa3wbEQwbLT6ptJGjZlATfa+/2Hjtvaudc1byb45oY6qcEQbKeIt5/IaPL6gU57RyYLlq5x9AmkG3LkffAMs9crnts6Clns8lmIbTBaaFGvgHrTDhtRsE8ZNm9o5ibo5CveTXFpKsSctHdrmNUCvN3bAXfAhAbzugHacx3L/CCTMil7Gagw+0YsXpZygZOREdCn5Fvwn1trjQs5iHC+iHWzfVYskDmwJ3Rh0RJhe7hsWbcjpYgTAsOcaZfzl5yNXT3p0orUM36QwmBoCbvljerFGwxhcnHhaS+njVZr6EC6qsZYdDP5/C2x8fSHUQ3VB258HWJ2+9pBPN9Jaj44+RJ57RtVDBOTfMR+kYYP/gwphdwxErlC5Qg47PktqNILSeWoiAL6nTc1/2g5loHiG2BYzaVYDe0oyud43Pu9vOepRDtSxV2tlT7U8jkhsHlZYT1AtsWTBkwVlpc/gIhKRBlUtS+w4JWaX1coTt7Q89U8T9COEtmZv4fz/p+faAftis4hz0N76VEAWF06Br5TYJeL9Rhac7JNz+EwW8k=",
+  "URL": "http://www.nvidia.com/",
+  "LICENSE": "custom",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1594310785",
+  "PACKAGER": "Sven-Hendrik Haase <svenstaro@gmail.com>",
+  "PROVIDES": [
+    "vulkan-driver",
+    "opengl-driver",
+    "nvidia-libgl"
+  ],
+  "DEPENDS": [
+    "xorg-server",
+    "libglvnd",
+    "egl-wayland"
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "FILENAME": "pantheon-code-3.4.1-1-x86_64.pkg.tar.zst",
+  "NAME": "pantheon-code",
+  "BASE": "pantheon-code",
+  "VERSION": "3.4.1-1",
+  "DESC": "The Pantheon Text Editor",
+  "CSIZE": "558742",
+  "ISIZE": "2334097",
+  "MD5SUM": "4f4f37ac276d50965d806cb62333621f",
+  "SHA256SUM": "9c3be4d5156e1b20e078e48b7f826e2be489fa23a791310dc0768fb9919cd78f",
+  "PGPSIG": "iQEzBAABCAAdFiEElDfdOBWnqRaePTlGr/XZUJi8b/UFAl7ge4kACgkQr/XZUJi8b/U5Kwf/XtaIdBl38PJboiVZbP4VyTsDzLC9XO8blL/urCa10Dle9x8jetGia3YMGL+/SfDqnoLQ15KAdLLYMlOLu4dDfJsN+as3UC56xVErL4cedIpwlJnR1F+2/VaDC7Zes+8XTcddrkO3Np37JGx8OTWx/rq1zOPKOSwRqMXwiP1ObGn+pW3r/eaWCfnbNdO5CsTIiLA2QV2JjOMH5haLqrj5UKz1zfM8CjjAxoJ9UsML/X2yaF58RIrCTHDDvpaKFUhjYRX56Ets1asmMtCO+o1iJ/ejZkVTJ+pmPnm8YJjNRPC9fIFMRDoyKJ/bfhqo/DiVgNRBeW1LAcv3q4aatW1Iww==",
+  "URL": "https://github.com/elementary/code",
+  "LICENSE": "GPL3",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1591769936",
+  "PACKAGER": "Maxime Gauduin <alucryd@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "editorconfig-core-c",
+    "glib2",
+    "gtk3",
+    "gtksourceview3",
+    "libgee",
+    "libgit2-glib",
+    "libgranite.so=5-64",
+    "libpeas",
+    "pango"
+  ]
+}

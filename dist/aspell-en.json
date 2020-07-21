@@ -1,0 +1,23 @@
+{
+  "FILENAME": "aspell-en-2019.10.06-1-x86_64.pkg.tar.zst",
+  "NAME": "aspell-en",
+  "BASE": "aspell-en",
+  "VERSION": "2019.10.06-1",
+  "DESC": "English dictionary for aspell",
+  "CSIZE": "1261326",
+  "ISIZE": "4324688",
+  "MD5SUM": "9784c419ed4b8a032ff9928b461956c1",
+  "SHA256SUM": "69eedbf5539fbbd07db2e885aef4bc4c5811cae73c782c876999ef266e3b7b8b",
+  "PGPSIG": "iQEzBAABCAAdFiEEFRnVq6Zb9vwrc8dWek52CV2KUuQFAl6RtIUACgkQek52CV2KUuQxYQf+PpVDcNliYRV+2LfHQfmKlThxzSD1XmuJha6S8r7sSvGupq75yx3VKAwbFNaTCepo2t1zyZdHRUc5fBeFGxlR6tYT9cjoPJgpva+YAxNiLsexaJvmdpFNeLP88PLPw5jiMgZHli/7MRUq1QPB/JvGqA290wRK2Zv5CdoJW+r6v4bk5fJ5TyH8TUib2H0lzWU1oI+6uuVsFuDnlwCKj9HvUsNxsKjPfsmNdMP3owU50LLVN7mcm8NN29M2K4/BtIBmmwaK7xkiIDOJVGVFexQe0LwWg+n1B9lKnRINiVPbaiJAv4PvedbqjW7c4OtdD5QE14x4TRaiyHZhJwKzmtnMgw==",
+  "URL": "http://aspell.net/",
+  "LICENSE": "custom",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1586607008",
+  "PACKAGER": "Antonio Rojas <arojas@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "aspell"
+  ]
+}

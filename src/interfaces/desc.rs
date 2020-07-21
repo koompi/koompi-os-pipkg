@@ -145,7 +145,7 @@ impl DescFile {
     }
 
     pub fn export(&self) -> Result<()> {
-        let output_file = &format!("./outputs/{}.json", &self.NAME);
+        let output_file = &format!("./dist/{}.json", &self.NAME);
         let mut f = File::create(output_file)?;
         f.write_all(serde_json::to_string_pretty(self)?.as_bytes())?;
 

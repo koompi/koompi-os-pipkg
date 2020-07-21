@@ -1,0 +1,25 @@
+{
+  "FILENAME": "python-feedgen-0.9.0-1-any.pkg.tar.zst",
+  "NAME": "python-feedgen",
+  "BASE": "python-feedgen",
+  "VERSION": "0.9.0-1",
+  "DESC": "Python module to generate ATOM feeds, RSS feeds and Podcasts",
+  "CSIZE": "88690",
+  "ISIZE": "535226",
+  "MD5SUM": "dff635ea857f626aad09504798e1c713",
+  "SHA256SUM": "f7401839d6af0fb25fc070c288fc3c9b6276eed1e1bceb65b5a9d7d9f5324cef",
+  "PGPSIG": "iQIzBAABCgAdFiEE4kC1fixGMLp2ji8m/BtUfI2BcsgFAl67IAkACgkQ/BtUfI2BcshECA//ezS85UwBrM2IvMHIR3LiF5NrEvQcSf4lJKnkKi3QXjYUwJlt07XBtauAYcBlaVdrtF+2oABaPpHQ2ucHj+c2KmyMzaoodhU+I6GPzz00gviiU2Mbcn9V5f2EhRSxK9aEOD4Y57/p0kSkRhMgrvkKkV7Giu8zgf1muZQYaAyh8RuZkaYHAuq9zxjLPAZM8f0holoD4Z4MoOHyOClPbFQ8C7wSP0WH4j76sF//AQaLOlJ32PVFcRfNIJxWw/undR6uiH2fMZ+qi/3pR+2jrRiq0hxwzvcPBAmQd21+i2mpmOAKbrCumIkqk0UqqosbNxW8GjFzWJSt8JfXSzzADSd4ImFbFyHO63s1alGjOWHtqwlkEnO+l/8AzI3MFa0zW2J5e70jQIN4416MKeoKUpY1vHMkSipxjIKL/NxxSJg8Z+twJupt8sIDATM16M/BdbSHyVAB6+HVkVhNQZBkgfYc/Fbvs7Y95PLTdfLxtAIEdtWlBcVR6NpkUEMIc2XQri8MyliSLjRkC7ELlj4T4OReQ12OXtOb4BzInGPTTg2QkxlN1xyRt2f2CmknYNcFbZhe6kaw73SpuuxUfZG5yKd1CLgH5/AZgiYqc59hn382wziWbXg6YjPorXVFMOPfXbnkge97qG0TUQ3HQyPzxnOVCIxBe3g3rdP2oTQTBr8yHKw=",
+  "URL": "https://lkiesow.github.io/python-feedgen",
+  "LICENSE": "BSD",
+  "ARCH": "any",
+  "BUILDDATE": "1589321653",
+  "PACKAGER": "Levente Polyak <anthraxx@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "python",
+    "python-dateutil",
+    "python-lxml"
+  ]
+}

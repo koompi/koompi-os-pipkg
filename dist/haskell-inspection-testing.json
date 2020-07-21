@@ -1,0 +1,24 @@
+{
+  "FILENAME": "haskell-inspection-testing-0.4.2.4-2-x86_64.pkg.tar.zst",
+  "NAME": "haskell-inspection-testing",
+  "BASE": "haskell-inspection-testing",
+  "VERSION": "0.4.2.4-2",
+  "DESC": "GHC plugin to do inspection testing",
+  "CSIZE": "111546",
+  "ISIZE": "539320",
+  "MD5SUM": "efca79518a6389994cdc5c4fdfc2c1d4",
+  "SHA256SUM": "fec44d6ac7afdcce1fa9bf6606782fa2237d2153464b9b60a605e0d89aaf49dc",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl6hedgACgkQeGxj8zDXy5LCYA/+PYhZzYmwrYvTURKukqg7wtF04Mrk9OUq/AHstCxckVIHQPNiT93GEFs3CzrcCB6bFP6JaDQDZZdX6KlX3Bhkvzfg1N6NHLOOyjc3q+20eCHa9z4sPsxK1OvOXLuX9UV7xPEbum66RPjVylXK23lnkgkOxWRMusmO6zuOFHyBPMAxBMJp+j8zQ9SfalLS2adBzF73cnFdaPVsiESxkDQenz1cx+v8+YDdMsrjBq3u+Nnu4w5rUlhr7A7eLP3oe7T+O/drejGqgt2gW1u/HqxclfStdZyvECO7fJqQMuwasnZ0qFDBOgGG8gHql+Qpru8S4Cxq2Zn5lesxvm4cIwdY7hlWIVvLAGbSAVOKdy2ZLrzWyjjb0dc7otEhQlKvIApsmFBeMmV5AApYsImYGZp8N1xOK4Koe1BZt5ndQ8rVTuTvkZ2YJhUzglVuaVR3RKRgsKEA5S7ILuMhMS6uwWP9/BbCf40NvRU2Ook/TbtqnvhQRBz/+dJr229X4xm2+UI0/rSftIVfosVh96NHHeA4wD0UUwfmlv9SiNXW+7KWZEpCxT3v3SJKS+bvVYyKsi6SjoLkr1Nge7BjLb7pOqV7j4CfgpUp2yWrfeCCKsgJaQeAeMlKvDT2FaR25Jc104HojHsMruvhC7eEu6OSnaFV9Y1Hpj73dH+5+3Zsz3Y9nSk=",
+  "URL": "https://github.com/nomeata/inspection-testing",
+  "LICENSE": "MIT",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1587640694",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "ghc-libs",
+    "haskell-ghc"
+  ]
+}

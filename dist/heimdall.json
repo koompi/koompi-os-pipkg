@@ -1,0 +1,23 @@
+{
+  "FILENAME": "heimdall-1.4.2-3-x86_64.pkg.tar.zst",
+  "NAME": "heimdall",
+  "BASE": "heimdall",
+  "VERSION": "1.4.2-3",
+  "DESC": "Tool suite used to flash firmware (ROMs) onto Samsung Galaxy S devices",
+  "CSIZE": "120820",
+  "ISIZE": "386532",
+  "MD5SUM": "a07e00a7613b73828d728607c49a0365",
+  "SHA256SUM": "cf5feacae85c076b0f58667102a8bf4a0ce09468165b2e6c1bbae25b920c9f65",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl8ErygACgkQeGxj8zDXy5IgaQ/+PEu9YgrsgGDTOXQdEBcdMHi//1+UfKSBB9yLnA/IXeXgVYSn2XqZdKX3deJYscRZGwBpl1mIQRSGoydWmPmEqkr3wLJmMUQgGpsksUvhMefCupmGKSyFfx6YBFNVSCvqW82B6B+SG7/uhEHwRy+Bg1BFurCmM+6h8trjxzX0KV6PTv46x7hb1CThGYI4kOPtQRggD6eNyQTEUGwPHjtwTTcMswA5Jiugm/mzu2JO1EJPFnpQNIYKq34RrOCoCD4UUfCVKlfO+aouC4dJT6NZbQHiK7z1KGzRww/Bl4e8dP8DxINMYbyqVqGDQxuE7gbifv7tN+Kmjpste+BxZ24+RIMGhpcictFmRPC8CuC9cpxqm5Y3KDYV8O1IWwn+TE8XRWgsAgHEQU10ES8xLjb9Dmmw8Knx/6/996Ak7kp7qUgT1fHcIQENauafrEDfUpoQxzJzvU87d9F8lmYplySkjxrO40FGf8o+WDhu5osTg9mTiJZv6g5tc5oliVE8N+XH13xsFUb1JfO4eu3YY1V3CUia7tJZoNbfS4t849Q7HFCm7F9Nkk/43Ghtb9RxEXHNGxsbHl6P26B4F92McwY9z57ESkLGXIlPOae5gcND0HV6PhwEiwsKk/qQnKBCheNY9Nd8cDSssYCC9YcouzSwKyqQOHY+tuOQf6HlZL7PjuQ=",
+  "URL": "https://glassechidna.com.au/heimdall/",
+  "LICENSE": "MIT",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1594142423",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "qt5-base"
+  ]
+}

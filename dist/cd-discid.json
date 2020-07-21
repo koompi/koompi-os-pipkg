@@ -1,0 +1,23 @@
+{
+  "FILENAME": "cd-discid-1.4-3-x86_64.pkg.tar.zst",
+  "NAME": "cd-discid",
+  "BASE": "cd-discid",
+  "VERSION": "1.4-3",
+  "DESC": "A backend utility to get CDDB discid information from a CD-ROM disc",
+  "CSIZE": "6094",
+  "ISIZE": "14841",
+  "MD5SUM": "d6b5b5f14b9ec69e410075ffa7d6110b",
+  "SHA256SUM": "d83f5dbc3f38c356d40787f798ba11aee4b9176a5ca39b27321ed92c033329de",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl8EkJEACgkQeGxj8zDXy5LIIhAAgMgos1J/yaNZmF3pfmI9vbEGBVGIKMb73EUcL/evS9McYTLVA6jDxEYNa67ayq2bImSGltBwsMWs2tV5g4H3Bp5vqz2j/Z+nSqg0b8jHQh+9MZIsr79y0wEH8oxfvbXAq9qhnfzgTQBqojz07InOdc75ctZ8LAxQnkNs6YYlE0yh25LUXzuZm/E/SUNr+Y3qnUlxFeNlVcvTAoNVSl4amfz+SSIgVgkalsVi4wfJCgSyoEDvOK/hMfvSUQWaF3Z3bDTziTlwFhcX9GdmwgYO6D441vlvdyyhQIMsv0EqJBOlsFEF0JMGevi9Fr19VJ8o5/CAnw+Rs8qTt9Qu6WwAnLrBV4wNoNRXodDe91ci83yDX5YJMMPzDGptkvgtE5dnLXHoKE5qozaZRFAbfy6gn7owO2w61jso4o2nphfjsy3u3LKLm399qIZZ+HMLIsYJw1BytTrtO+yh5hBxzA4BNEFHiE9deTaMJmNjZJTtIeOfxcAU/fz4k+s8sWtqMT2aRBEnQrvdM6QmPOMlvhkQPYXN3gi/6bzj6iJAfzK+alaSUMAia5b6J8c+Z9yhO1ft6OV0G5PvY1Bjfd8xBAiKKZax58CF1gFv4KGelzViUF0BFqCW0egY1FJojbjH8wcfP/5lnDWLcigs5s6S/+wus34jCsROJEN21Spg5q3yhcA=",
+  "URL": "http://linukz.org/cd-discid.shtml",
+  "LICENSE": "GPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1594134659",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "glibc"
+  ]
+}

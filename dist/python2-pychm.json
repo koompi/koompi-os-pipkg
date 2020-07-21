@@ -1,0 +1,24 @@
+{
+  "FILENAME": "python2-pychm-0.8.6-1-x86_64.pkg.tar.zst",
+  "NAME": "python2-pychm",
+  "BASE": "python-pychm",
+  "VERSION": "0.8.6-1",
+  "DESC": "Python bindings for chmlib",
+  "CSIZE": "24351",
+  "ISIZE": "99845",
+  "MD5SUM": "5204c7cd1a0173d4401794d9cc12dbf8",
+  "SHA256SUM": "df2a6a9511ad7964557226a3333fefec18960b967d94d46c94bc96077bf1052b",
+  "PGPSIG": "iQIzBAABCgAdFiEEYEETBMCdNmKDQO7/zrFn77VyK9YFAl4NHKwACgkQzrFn77VyK9YW1A/9H+k16ripXOuBfTY0Ex3xJMR2si1OknEBL4uNjnAxySP2sStlDQWg/kj4+Vz0m15wGIArDfpJScurvoWohvk8SsHo0wtJ72ae1If3b6LZHKWg2w34mX5bcDfCfCGjY0BnDyraS1tFxLTnWtmiIa0Ownj0tFl+uyTCdANmLHCa23gxbHE/8dLcWolDwqdCi+HB2YYDPCGvqGTYHLY5wD7uVBzY69RXVT3rnymhNIP0zfBe5A13Ce5Im9xlIU1nYpFkMzReYygm3Nl6t8H/eEe659gRbZU1DlIdADkJGhobA41azjR85MnYPWW7+EbGN/ytEFvDxVaY+ORihe5ZmBKBos2uRpFd3oHvwtoN71GxhmJttcd/W0zgnnjFOIYoU2h1a6WDwIYyjqak+ngJMkOj/szB6FJIM15cQRavs6Q7b8wVtXi+p/guIGWTuxqBp955HY+HjULy1V0LVIvsbunvIky4tN1dyBKRa4IErIPl4j98kFwl2495+FDLep86BJWwBBiH7lIQw65l302PrAJm3n5+K3H4jaod7qrHQz/vxLxTXkB9xMlzgA29E0RJPyzs95ZsPKj8NQLkkA2BGGcKa66aQrktk41X0GwofDuoWKlsQox7diedoXj0cz3LiiaiLZVpDr4eWlRC9dyvgfPN7nviKxJR0t2L67+7Cz/RJbI=",
+  "URL": "https://github.com/dottedmag/pychm",
+  "LICENSE": "GPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1577917450",
+  "PACKAGER": "Eli Schwartz <eschwartz@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "chmlib",
+    "python2"
+  ]
+}

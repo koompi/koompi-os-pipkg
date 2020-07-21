@@ -1,0 +1,25 @@
+{
+  "FILENAME": "lib32-libxi-1.7.10-2-x86_64.pkg.tar.xz",
+  "NAME": "lib32-libxi",
+  "BASE": "lib32-libxi",
+  "VERSION": "1.7.10-2",
+  "DESC": "X11 Input extension library (32-bit)",
+  "CSIZE": "28876",
+  "ISIZE": "75292",
+  "MD5SUM": "5e8d1f10dbfdfa48fadca7f43f91f61c",
+  "SHA256SUM": "261642afd12400c52d03d5c25ee35f939cf1ca4126dd39146c8e2de5455942f2",
+  "PGPSIG": "iQIzBAABCAAdFiEE7MrITBugimzI5j+78i+x14p3rqsFAl377hgACgkQ8i+x14p3rquZfQ/9E2AXhW/Np2kzYR7jf08Bx0dG6wGrm+Ik61Y4LvDxAClxRCAKTNQMBbfAHyoPoj1qhxppkHmaefVEutLFmTyurgVgpbSoDgJIcP5MuiZSBhaosBVXJvrVzdUOZUdZl24bWEy+Car0DYHIBqDQYwPx7q0CafOhFeiLuYtoKPJV8HWyf+xFgklRgG9hkMkgNa9WqFeLZoI07Tc88BPWFPbr07OFfssjj9piiTKoyntwM/EMAlvU/cs72l23Ba+GgWpFru6ygI7hN8yTUS8Z2BQUJ2xpUPOfpxixmNvMdPjYdII7yObzCu/ZrE+IqLMoxTAsFZVEczRx0JA95hmB0P9yARt94Ny53a1Jf1zCANWpQ1RqyT7QD2meUpvI4jlgnrI3bayGdAiyhMpTahE9lAh5eLtfXPCGZmOyByYbRAcXetMD80jP+MKEk8JkMH1IZYwemC1Vv2ygaLhbNIBsny5iLYN/ChZg92afUVkOELXTSRfD8wTVgDO5nYuerwy8M8VuIYfHJxOHtZ+++gP4lIfoVInI4aXKb4r3zmctVim1JwdjVMw+ohYn7ysXuY11VfspzSCus5MdYnU6UbbsmXbPUs9J3NAhIueYg1f28vp4uNdSLQUk4Z43AYgO0vDhPi6Oq4WQBufQPOwHVoqcJatbr8SQktoFUE1ZwEl7XD/QLVE=",
+  "URL": "https://xorg.freedesktop.org",
+  "LICENSE": "custom",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1576791410",
+  "PACKAGER": "Giancarlo Razzolini <grazzolini@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "lib32-libxext",
+    "lib32-libxfixes",
+    "libxi"
+  ]
+}

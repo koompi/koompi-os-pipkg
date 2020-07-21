@@ -1,0 +1,23 @@
+{
+  "FILENAME": "expat-2.2.9-3-x86_64.pkg.tar.xz",
+  "NAME": "expat",
+  "BASE": "expat",
+  "VERSION": "2.2.9-3",
+  "DESC": "An XML parser library",
+  "CSIZE": "96832",
+  "ISIZE": "320923",
+  "MD5SUM": "d267e734c20999f108592f7f138b9dc2",
+  "SHA256SUM": "0abc0aaddaaa6ebaa5b5340a69d875d2a4ed4cfc866c125ab5a138641aba40df",
+  "PGPSIG": "iQIzBAABCAAdFiEEjhmSFnRl21+wRVV8sChU7XU+Dx8FAl4A4LoACgkQsChU7XU+Dx8zmQ/+KyLo7SQfTXno1S/HFYK7f6PDdg8hhlRW9pu/th9jFOlOwpoGwxO8UiNnRcpGxzRmAWltAVHdx59btCtrhUd7QWX1lqkYZ9xnzFfHVSs72e2/ZpGXU1yqE6sPkbqmG9ouy5BnFVtcTVCevIfwEQXvyQBZ79qOi/rZzxXwipJQN9dd3f+VBSu4iItZLWv5mrjaPkV4EwVwJA0fguRc3ZwSI2xLzwQ2CeKDEedeo7FWzsaUc1WvHAICoSidnv5eOgo5CcH9QeNxI0BPeAu1jv4twQN+kfrcRaRp6MAWRtV1OT7Enz+IopK10tiJLzF39QMCYMxR8cUvyiortHj1orB7c5OgTc4xHaVoOethN1cOVABYerR2ekV5qh5IgrYW34FE6Fv5/YxR1Tx3CS/3lp7v+ZQ2dqbztmOhDWokrEwa1nuNdRQ5R1aM5QdgYave2LEQUjNMNukH/dxR3IrcIS5zPjqLvkhm4k+zjWIyztA/LgHIoYzSSdRwBPsiy3Bj83NQ5O5L9rZhCpAsvkuxtBN6J/1oDNFSgbuNOs7tFUKF3pEGdh7k49SugWJVQUJzdUlUiTAywOVlecwapbY/grL/KrgXqhhDW0cNrqsnlnlngOaV7ZUoy82GBA146vFSdPb10Pjo72b0fKDRIfz02QGjEZhGIkrkPxDhSphykgzjuD0=",
+  "URL": "https://libexpat.github.io/",
+  "LICENSE": "custom",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1577115706",
+  "PACKAGER": "Anatol Pomozov <anatol.pomozov@gmail.com>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "glibc"
+  ]
+}

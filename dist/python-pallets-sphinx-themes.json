@@ -1,0 +1,25 @@
+{
+  "FILENAME": "python-pallets-sphinx-themes-1.2.2-5-any.pkg.tar.xz",
+  "NAME": "python-pallets-sphinx-themes",
+  "BASE": "python-pallets-sphinx-themes",
+  "VERSION": "1.2.2-5",
+  "DESC": "Sphinx themes for Pallets and related projects",
+  "CSIZE": "33732",
+  "ISIZE": "118351",
+  "MD5SUM": "bf3141e0a6de5051772706f29daa553f",
+  "SHA256SUM": "b36bd5667e4ee6d194360f60c2fe20c1d2922f6444c4a3a90d474052ea4acf8c",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl2+BHUACgkQeGxj8zDXy5LAsg//XQwK26xAcWbzFhxr2bbtKwqIXxsmAeoeLt9ugDDt7XER8xw1l3JgNvBGOvcCrTwMau7cXEbePEnKNRLzNza8wg82p1jG/Hbcetjdei9+i7n+mAXoiHMEnOcJNiG2ET3XBCQFAz/HdEQKoUYv9lqGUan5xSI8Y9a3Sdrl8OGg7uzqtNXj2QJNH4wI2YkMCtkAr9Y7yrUerd7y3d89rCd9iOrChHGKpdejGoUa1Kb3KC3DuvMq5cifZXTXrro/a9/Wj3uqW7k4dCqNc+5Wy1h65UmfmZFhX+WM52XiIlc4ImbZigNESMZsf/DuyQFM2Ur6kgvWuYbENubnMurx3L/ANG8+GlRAFmz40cuEBiq8ioeprvNrxJYlKYLbm8MV/OiXxbm8lpTTXXIB0b+HFEMqaVlAsUI4pslu36jLJQep8VD8wc7VJgc3INpo9n5sd0qOs1wwbtHFrk1K2dgVpJOFcU1q+ACZy3S7N3U8++9whIDe2ezjxdHy7klFORPf1z44IlFZoXlScWm0mpaAGX6tP/LCuL1x0o2wE28nTPJw+QR3lXcK+LPdHCAbafWMEmXb/2LpHasNXlJlNw9/jss3UGBCNQlQebI3nwNypBpxuQwJoKfJ68FQht2OVaM/Fhzg+u+WnfE5S3i1i5U6BlQfbGHjbeIA8wQUmQw3LiG/MZ4=",
+  "URL": "https://github.com/pallets/pallets-sphinx-themes",
+  "LICENSE": "BSD",
+  "ARCH": "any",
+  "BUILDDATE": "1572733997",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "python",
+    "python-sphinx",
+    "python-importlib-metadata"
+  ]
+}

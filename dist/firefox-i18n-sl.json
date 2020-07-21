@@ -1,0 +1,23 @@
+{
+  "FILENAME": "firefox-i18n-sl-78.0.2-1-any.pkg.tar.zst",
+  "NAME": "firefox-i18n-sl",
+  "BASE": "firefox-i18n",
+  "VERSION": "78.0.2-1",
+  "DESC": "Slovenian language pack for Firefox",
+  "CSIZE": "500520",
+  "ISIZE": "563038",
+  "MD5SUM": "f285a105fe9a458b1f61a18bdf7bcacc",
+  "SHA256SUM": "ed8913186f32e829d27fd65372f993ad4b1e6e4792c9ec6711983ae4d31598e4",
+  "PGPSIG": "iIsEABYIADMWIQQGaHodnU+rCLUP2Ss7lKgOUKR3xwUCXwelqxUcaGVmdGlnQGFyY2hsaW51eC5vcmcACgkQO5SoDlCkd8dNXgD/XoQE+5u6b73a1p+dBweuxgloh+8XYWlSpLhno2IKbisBAPv9DfwVs97eSNhTqIB+COrhIDkXtuPxXFw4bzIJUKcE",
+  "URL": "https://www.mozilla.org/firefox/",
+  "LICENSE": "MPL",
+  "ARCH": "any",
+  "BUILDDATE": "1594311501",
+  "PACKAGER": "Jan Alexander Steffens (heftig) <heftig@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "firefox>=78.0.2"
+  ]
+}

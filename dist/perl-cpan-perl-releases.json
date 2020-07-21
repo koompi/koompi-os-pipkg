@@ -1,0 +1,23 @@
+{
+  "FILENAME": "perl-cpan-perl-releases-5.20191220-2-any.pkg.tar.zst",
+  "NAME": "perl-cpan-perl-releases",
+  "BASE": "perl-cpan-perl-releases",
+  "VERSION": "5.20191220-2",
+  "DESC": "Mapping Perl releases on CPAN to the location of the tarballs",
+  "CSIZE": "8015",
+  "ISIZE": "13813",
+  "MD5SUM": "79cbf7f151a99c427f6a4510f4260f57",
+  "SHA256SUM": "4219948e33230fdc53baafefafd19812275765153eb276719f95ff198b267551",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl7vNVsACgkQeGxj8zDXy5KGhg//YYovYhm4sSlEqs/iT6nqKzaY8mXvIhY6WmJ5FAuDUimgniXuZhV7pPubbA92hW8mhcQ5r0UVxTzwhW/qDiUmf+uJfx1xPhD/9/QcaaQwrke3l9T1FDmb6x88hDM19e5HRwNNXslfNmibiI8eboI28A4Noq3ldhGUqI/LnJFFVxHmRhen0X4HuJBsipB2H77X35xkcGd70pukwin2RSQxHZJu2w9Gg5x0tPZMBOWO7FrTAFeB5A7Qlljr7qGwRzS8Hcu3CVa0jLyYAXiyCxxAQEx8epch7DuWEvTcBsFH+53CexHiM89Ia0se4QWQW59I8BvlPjcPU5oGKQKtof1pz3Q52R4OjUjPHMyDoagebok+OOhXDz6jG9zg7clpPNF3SzXlKWTrm9iseLXU8bJlBTUqIoGdEV3qV1Ni8EnqX3UEa6vABLjkBpNiJAUdjlQlXn8t6SedK+r4cF+V59QPdwFKXekf0RLU4OOgmwAm0BTkUP4K/qGXr9V4dbKVlu1xHzqSGtiBW7kVaNgyZgY/X215EHiHqlc4cUcGb9UsfnsNK3L48KMDplja6KnjTT8cbEaQV+aWVpaMS2VcSZTdo7FJy76Rm6aTecY3gzi56p99kMKY3/OFMa6xI4bhjiEd/SpOGOwtnz3WdehFKXdKkc7TH352+6U1Y1AyC8nRBWw=",
+  "URL": "https://metacpan.org/release/CPAN-Perl-Releases",
+  "LICENSE": "PerlArtistic",
+  "ARCH": "any",
+  "BUILDDATE": "1592734865",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "perl"
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "FILENAME": "virtualbox-guest-dkms-6.1.10-1-x86_64.pkg.tar.zst",
+  "NAME": "virtualbox-guest-dkms",
+  "BASE": "virtualbox",
+  "VERSION": "6.1.10-1",
+  "DESC": "VirtualBox Guest kernel modules sources",
+  "CSIZE": "31521",
+  "ISIZE": "103679",
+  "MD5SUM": "e4ccd10cc8bdf564c5e38ea11c02adf8",
+  "SHA256SUM": "aa01c481ffd298ca094b305e28d5c9cda487d5f6b83f83e7746880d5d7a85269",
+  "PGPSIG": "iHUEABYIAB0WIQQEKYl95fO9rFN6MGltQr3RFuAGjwUCXt36egAKCRBtQr3RFuAGjxifAQDeLutQbn7BWTIMwHCrnauYpSUB7q+bie6VLPSFpRzMZgEApEHjVOopOKjFgYwT69Rh398njhwo8wqY5ydoqD/QHQI=",
+  "URL": "https://virtualbox.org/",
+  "LICENSE": "GPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1591605224",
+  "PACKAGER": "Christian Hesse <arch@eworm.de>",
+  "PROVIDES": [
+    "VIRTUALBOX-GUEST-MODULES"
+  ],
+  "DEPENDS": [
+    "dkms",
+    "gcc",
+    "make"
+  ]
+}

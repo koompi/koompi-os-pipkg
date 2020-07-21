@@ -1,0 +1,25 @@
+{
+  "FILENAME": "razercfg-0.42-1-x86_64.pkg.tar.zst",
+  "NAME": "razercfg",
+  "BASE": "razercfg",
+  "VERSION": "0.42-1",
+  "DESC": "Razer mouse configuration tool",
+  "CSIZE": "104840",
+  "ISIZE": "320230",
+  "MD5SUM": "0e58af15dd2bbd5190e1f08eed8e2e2d",
+  "SHA256SUM": "76df7fa634ec39f57839e528339290d969a69b2fe142b45917de972ce0e2dd12",
+  "PGPSIG": "iQIzBAABCgAdFiEEBNw/sURf7KgTwn766k97MhqQatkFAl7R/pkACgkQ6k97MhqQatnf6hAAncKMaRdMI1upSvtLWiW9tzcG12Ph5Fd8JKRTaJwkonmm6M7grbmsWLjc598NBCxqhctidInWpLfWl1FJawHxjOjG36FhqMe7nX5xMB4nDMA/e+oTVPnWB0qUjTTvZ4U5EgN5T2Y2qnuWq/ODTxMhnndtPRj4diRz5ryaaepUoa6b7uhgzHmhin9zf1i+HiMJNeR3NisueFzNHMYq3Mr7SZ62UICcD2y7dADHNgaYlk/aMsjtVgFh4XzUflvjHl7vP/I4EPJ0+rktDWtXTgkFgOR7PkPjoFG1jiffxlthDzek6GWHIdjDFl571M9u5NMk68FAq9KYz5/FOWP1Xbo6VfYwmeYGfzmUGW64jyu1WnRFLmRbl3Iao27f2/m1GH9fMVk5ahNxzavNFz2LrJHRwii+do419Ug/8oS1/tRgRIZfBaS8Lg+naldbhRDzG4aQSovUuYbPs4Dm3Ok/CkQqBY19RvFBMIL70Xn0okzCr7X8+Lx/kpiCeuZTJ8wJiKDgSjTUOyoHJlcLxcRHPlzU6gWqeY5behRqc/nTwpQxZiKyqsGZUY+YwR3AgvGIzbkijBpEFAvqOL73E79b4uHnexj/cejuhkXsRT6c847dpoKHkRVQZ81WWBfjH9dN0Tsus5soVDCcqhxZevz76F5RnOX6hU8fqQEZBszt0qDBiUQ=",
+  "URL": "https://bues.ch/cms/hacking/razercfg",
+  "LICENSE": "GPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1590820297",
+  "PACKAGER": "Daniel M. Capella <polyzen@archlinux.org>",
+  "PROVIDES": [
+    "razerd"
+  ],
+  "DEPENDS": [
+    "hicolor-icon-theme",
+    "libusb",
+    "python"
+  ]
+}

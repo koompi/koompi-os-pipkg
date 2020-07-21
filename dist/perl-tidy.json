@@ -1,0 +1,23 @@
+{
+  "FILENAME": "perl-tidy-20200110-1-any.pkg.tar.zst",
+  "NAME": "perl-tidy",
+  "BASE": "perl-tidy",
+  "VERSION": "20200110-1",
+  "DESC": "Parses and beautifies perl source",
+  "CSIZE": "350190",
+  "ISIZE": "1551971",
+  "MD5SUM": "f38ea6eab9499451825fc4d1b89c7435",
+  "SHA256SUM": "b316a0625e30b62a45c1e2139330a2acada9a1c487965ee52692129f927e304e",
+  "PGPSIG": "iQJGBAABCAAwFiEEPlGL8lJv0Zeeiq5JZcEQwepDP8cFAl4YpRcSHGFyY2hAc2VyZ2VqLnBwLnJ1AAoJEGXBEMHqQz/H+UIQALeROLJPAWPUcnEHLiUIuLEDEp2ZUJQIZjWdTPNNhYi+kZxUlCUSF8jKr4XDOp3sSFYe2vMxrDEtdSGIgWVEcOiyOG3xFi31CZNpwTreDPY/EZFjQjw/bi3jgycYMSlrLM/cmTXA/gVlDZbdF+IOC6Pb6h3EjBm7Vy0P7exJa2ePiykWJcwxiy9FQ0MCoN9Gv0ZsAXBSmdUghycMo/xUDwypyZ8uXw+51rag4HM6clZW77LUOgb9/jQMigD1rAKJjtBjMXPKxtQ36o3+FVJKqLfN21v0AyJ/i71L5crx7WaDEX2CSn2z/KFGVEUfRcNdZFAvYvfcSv06bGdfVCUBlDQVbuzecijqnaLoUSkz3eqF27jJzZ0UDrk8VlgIRODEUlpSNlzuUCena/7Dj6Q9w9HWFUM1hj+VJMzcLl6JGowvu7vtLgKF5KcrM7dC5ZKpp2Cpv7qN8fipsYkSgrH3+NrUyFdNV1BWb8ZTVd6DSQmFpH0dj6AtkBmgoDcqLKWh1+2HNhM2qv3dCsculSH6EWHbe1TUjC0nJm0virdXRUOBkvQym0vNR1sO0HnZh3YEM3Hioe4DjQRoUm8h9GZBKj7n1SGkxscJkceFJizia++NiHdEcLslgH4zYSvwDBTTwS9Atv5pYSJNNkpe3qD1mOF1LqNaNsQjbEgJQR99bD1S",
+  "URL": "https://search.cpan.org/dist/Perl-Tidy",
+  "LICENSE": "GPL",
+  "ARCH": "any",
+  "BUILDDATE": "1578672957",
+  "PACKAGER": "Sergej Pupykin <pupykin.s+arch@gmail.com>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "perl>=5.10.0"
+  ]
+}

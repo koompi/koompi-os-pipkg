@@ -1,0 +1,23 @@
+{
+  "FILENAME": "python2-statistics-1.0.3.5-3-any.pkg.tar.zst",
+  "NAME": "python2-statistics",
+  "BASE": "python2-statistics",
+  "VERSION": "1.0.3.5-3",
+  "DESC": "A Python 2.* port of 3.4 Statistics Module",
+  "CSIZE": "12825",
+  "ISIZE": "54450",
+  "MD5SUM": "c7a260149834310e127442d47f5f78c8",
+  "SHA256SUM": "a9c1c40cf8a714f7b90253630133578028c202bc7de23d09d458fcb9899832dd",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl8EtdgACgkQeGxj8zDXy5J+uQ//T8iRalLK1luNPLSO+8H5B0HbUUqfl92ZWNL3BXaHFCGU9NWLm3Xkraj27BNjHWOGeQWCSeenvkh56cel5olhC8TzP7/+BrXhVqSRTcYnd1duaDI47waNoHOi/4293NI/cL2DK6l3PT1FjzkRPTua8DEMs0dS9UH4iia9P/NRLD0iaCXfnO97AKVedaTTXk4yLtmeSWYklhNmhO+saPzwbgN8hjSyfXIbMOaMMHE9ABGz1JgiJWkzfgM3sTuG7L8yn9gZEXkVVkkgCkXXYayJoJKPW96uO2YYboXtBa3lxAHUjsY0WK0t7zFIY1qBoolOcB2yccQof1hfoGgdUMMGWv3uQB9WrjNxaxNZW6ID3K4jd58vGCyNVqMBpuw14hGQ7Vi3fR+z94XVbnqcHSkardAQf39kzECnoZG/c6qmYR4pQdshRssRfh5tev2q0pa0nIZD+TnUGk4MaOh+x15vxqQG02A7JX4MYB6uL2LMy0L6YlFHZYtKE4L/bqDdGTQKr5uqwBL0kIoYRkRISzDCMpx4OFtqYk2jMUXl/2m9L0VJdEMSIUXxyf+hK6OIhs4A6yUpBjR/XYbpAQI3iYaSyyjD/IPRti3obwzGBjq7iVBsuzXnv5x/Nj6nh+phFGFAwU03Caj788VYc0rJCvzST31MNltdS9j9kV9niX9tUnY=",
+  "URL": "https://pypi.python.org/pypi/statistics",
+  "LICENSE": "PSF",
+  "ARCH": "any",
+  "BUILDDATE": "1594144030",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "python2-docutils"
+  ]
+}

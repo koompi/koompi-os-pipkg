@@ -1,0 +1,24 @@
+{
+  "FILENAME": "python-pyqtchart-5.15.0-1-x86_64.pkg.tar.zst",
+  "NAME": "python-pyqtchart",
+  "BASE": "pyqtchart",
+  "VERSION": "5.15.0-1",
+  "DESC": "Python bindings for QtCharts",
+  "CSIZE": "165607",
+  "ISIZE": "1012526",
+  "MD5SUM": "63bd85795bbe9520a73c9747f0611fcf",
+  "SHA256SUM": "349626cb23877bd62f5c1ecfbead2b0204bf2f82788245ffc487877bfde40aa7",
+  "PGPSIG": "iQEzBAABCAAdFiEEFRnVq6Zb9vwrc8dWek52CV2KUuQFAl7U6aEACgkQek52CV2KUuSW6Af/SDf81AHHcZpIM48YHzNcDvCn7lrr/xej9V9qhjCyOweByFFnyJ8a2jt2veOU4TqH+MtxoTLoKkn9pq8gaNTQpYMVRftwhXT26TwE3ORbmVe4ZqwLRIkpItN2LvOezcUbvBes4cbpD4QoyyDoma0enzlhddn8aaVgiSpgaN4XEOkegDQCJbCLiXzvSxoVSTCDjbr4P87p9hLfDwHITfL9DtARUWdBgYEDokfJLRxrPhmijlrkFWXEb+NZgAzvrCtI1ac0HDlpv5N7d3/x6TsToOsWYV1hbJhkD7Nxviu1qW7iXV1NEFnGXFuHv4V1jf6ccu8VK3D3YUAaWm7RZqz5Ag==",
+  "URL": "https://www.riverbankcomputing.com/software/pyqtchart/intro",
+  "LICENSE": "GPL3",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1591010633",
+  "PACKAGER": "Antonio Rojas <arojas@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "qt5-charts",
+    "python-pyqt5"
+  ]
+}

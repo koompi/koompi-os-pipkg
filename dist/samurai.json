@@ -1,0 +1,23 @@
+{
+  "FILENAME": "samurai-1.1-1-x86_64.pkg.tar.zst",
+  "NAME": "samurai",
+  "BASE": "samurai",
+  "VERSION": "1.1-1",
+  "DESC": "ninja-compatible build tool written in C",
+  "CSIZE": "33417",
+  "ISIZE": "71943",
+  "MD5SUM": "73c81f9457909aecae0c68a5becbd8f1",
+  "SHA256SUM": "5b74bae3c20528283df11955f578e521bef67007b2259112a87ff3e6b6b2ee5c",
+  "PGPSIG": "iQIzBAABCgAdFiEEYEETBMCdNmKDQO7/zrFn77VyK9YFAl6BS1AACgkQzrFn77VyK9ZizA/+O9/tCBfCTj095ckADviDBebT0L4TTTfy9yXo+CUSD9uK0epeR2YqUGMwKH+42lG6W47wk4eZVoGKaXBdpuxB7I483n+IOjOW5Lg85XlcU6sJUo2D/x6IQDf4g7+aWJVPYp8c89d78bse1QW0xqTcQQ0ouzRgVqVLACtaeDJYWrLh29N2cEhGIZUbUqdsSnox3C2am3bKsJ2ut8vSHD/D+sNjGwVillG6eHaW+5Z7oMMj2Zfwj0kHwHr0MKX0IMklqC8kt4SRpJXk55spzCYmgQ6wmZvJbOrESRXNkwS4GKquulTpjrRlIP2cuq0vITDJjIr+uKmXFNfbMkJYDtR2Z0ay6fKC6uEGhDGhAxz26gPOI51Kp+eSYIx+6Z+2pO4bJX3ylgeAFlgGIYVwDao07GJmLVRFMZobZjwNR4kLxiMLs94thJpQ0Qi9YGL2Zo9zjMB9F1mGP5CeWgfuzR6qelKbxfiW77Tjt2uSvdex7J/PahBV64Mkx6UtAS0eXqGk24SNws2+54VBSIiGtRIiPclKXYCLQt8LjTjBuJ+zOvDW99y04ZvZjUfAokqkui+lW0EK/Wno4jmwHvo/4Bqj+7+wpIyI6OK67ptUE9d81gZpErgoN7dFyxJussIWUBQ3VzOCp4O8hj9rYGOc95AeNLroJ3Eh75DuOT1n6XEoCtE=",
+  "URL": "https://github.com/michaelforney/samurai",
+  "LICENSE": "ISC",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1585527420",
+  "PACKAGER": "Eli Schwartz <eschwartz@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    ""
+  ]
+}

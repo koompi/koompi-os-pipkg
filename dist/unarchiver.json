@@ -1,0 +1,28 @@
+{
+  "FILENAME": "unarchiver-1.10.1-10-x86_64.pkg.tar.zst",
+  "NAME": "unarchiver",
+  "BASE": "unarchiver",
+  "VERSION": "1.10.1-10",
+  "DESC": "unar and lsar: Objective-C tools for uncompressing archive files",
+  "CSIZE": "1418508",
+  "ISIZE": "6061755",
+  "MD5SUM": "71df270041c659faaf3996ab9be4a9ea",
+  "SHA256SUM": "562d208041f6cb1be15d4fd382c53589aa0d086ba33549005eb21bd61e094180",
+  "PGPSIG": "iQEzBAABCAAdFiEEFRnVq6Zb9vwrc8dWek52CV2KUuQFAl6tNrkACgkQek52CV2KUuRntQf/Wpe/GRChwnmytA924nIB9qT5vRZ5E7mR6RTHs6pboBSDW3bBEKhtG94vbJwyyei+mMX2Qr259SDEkhXnA/ePxqUGTgC2cKcG1UIfbvzVUtWx9dei61afixe3NcmAuxh1uPrfS+iWK2FJrjNe3yfvnwQXGNamQBgU40v7WlbpNwfrj9uysMr9Pm+E2AEjQgofmdDfIkHp8GxIxV42c1avL+ysUVBon12W6IMfbd67r+2S0hAPL9jLM+pV/jzcxS/+z8uAnkSJk3JfFk2kN2gL8Au38LuXCR9ks2ulyyD7MqdsTLoiWxAk6XOY4mwmQD8ubBxCBIFksHWvcQmsLZ+BKA==",
+  "URL": "https://unarchiver.c3.cx/",
+  "LICENSE": "LGPL2.1",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1588409961",
+  "PACKAGER": "Antonio Rojas <arojas@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "gnustep-base",
+    "openssl",
+    "bzip2",
+    "icu",
+    "gcc-libs",
+    "zlib"
+  ]
+}

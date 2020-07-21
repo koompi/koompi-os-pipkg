@@ -1,0 +1,23 @@
+{
+  "FILENAME": "firefox-i18n-is-78.0.2-1-any.pkg.tar.zst",
+  "NAME": "firefox-i18n-is",
+  "BASE": "firefox-i18n",
+  "VERSION": "78.0.2-1",
+  "DESC": "Icelandic language pack for Firefox",
+  "CSIZE": "464872",
+  "ISIZE": "527499",
+  "MD5SUM": "d0cd3e7977d0fdae696aec3f531d3520",
+  "SHA256SUM": "a3837e3314897d24acbe4237416b973765af4b284d2437ece7b4af285a88d317",
+  "PGPSIG": "iIsEABYIADMWIQQGaHodnU+rCLUP2Ss7lKgOUKR3xwUCXwelphUcaGVmdGlnQGFyY2hsaW51eC5vcmcACgkQO5SoDlCkd8fx+gEAgxUSurJ+2TkTC5cIi+IU3WzyaxLj2yx0bhSY5Oyx+soA/29W1oSDwxVLGXAkXyMM3YwnFLJFt5aKJKyzx1Z0bqAC",
+  "URL": "https://www.mozilla.org/firefox/",
+  "LICENSE": "MPL",
+  "ARCH": "any",
+  "BUILDDATE": "1594311501",
+  "PACKAGER": "Jan Alexander Steffens (heftig) <heftig@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "firefox>=78.0.2"
+  ]
+}

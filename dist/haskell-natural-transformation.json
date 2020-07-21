@@ -1,0 +1,23 @@
+{
+  "FILENAME": "haskell-natural-transformation-0.4-15-x86_64.pkg.tar.zst",
+  "NAME": "haskell-natural-transformation",
+  "BASE": "haskell-natural-transformation",
+  "VERSION": "0.4-15",
+  "DESC": "A natural transformation package",
+  "CSIZE": "14299",
+  "ISIZE": "44277",
+  "MD5SUM": "56dbffe8e33a94a3ac398b0bf20c3e7a",
+  "SHA256SUM": "4c267a5871821b61f69eed876dc707928b8e5afac9aa3054852a4559621b9d04",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl6hiEEACgkQeGxj8zDXy5KYRg/9Hj8xXEjdBt5DucVtC1ovDLBlUlWAr3Tm3m2F8i1gO0gWsGfd7SyP1hHVOLdtw3sd+vO+953rGOHN7GGFqid6cCl3jhZOmXlADn4UFYKV/pbXxyS6HLcug5lOQ1dFiOUmScQ3csD4k6Wb2cNtJGV6n+mtKd/4/+1dfAukCU58txqnqN2FXeP37pb+tyZntz/EGz3ZcC72vDRRzGcHhzMn5lwS2jjIoIRL8oc/AGWCQfrBWnpZVKxyJkT9dXg53532owwVVTU9BcP3AYbbcZwrV1VVk07IS32eRk8HsGCJKktpX8XIFDW9lzV1sBZrT7YIKZi8H4sf6rwX0HXDvOpzHAAWwaRljBHfUbkUO2t0JYV59dWURBjUIl/1R7CHQmicHUdvVEcp5311msI5AIY0jkHuzmFROv70Qz0qSIIhdGbosL35CFwKZ7GzqaArE7TwH9VhkGdMLMlBOd1D0DLrfiH5oxCHz9VfNY6oNjS9m++HIcIaeoaKL4EzoBOu6Z84j/lFddwM4J9rrMmvUnCHt8Zmd0R4PgFTLZHGps8B9NvGN81up5k2qFRWgDUmTDf8MiaY4zuo4LVKF2v20LSrBnaYg0PYzQxe1XTZcz1Lzc8pjbGYgpdBDe5wZTVRU2ZW5V4ESezJUXJFz9UkDBjUUla0nBVf8emCaOD62hzRZrA=",
+  "URL": "https://github.com/ku-fpg/natural-transformation",
+  "LICENSE": "BSD",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1587644393",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "ghc-libs"
+  ]
+}

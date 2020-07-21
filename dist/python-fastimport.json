@@ -1,0 +1,23 @@
+{
+  "FILENAME": "python-fastimport-0.9.8-1-any.pkg.tar.zst",
+  "NAME": "python-fastimport",
+  "BASE": "python-fastimport",
+  "VERSION": "0.9.8-1",
+  "DESC": "VCS fastimport/fastexport parser",
+  "CSIZE": "68060",
+  "ISIZE": "410545",
+  "MD5SUM": "3224c2c0728aba9c1a480169f0722d06",
+  "SHA256SUM": "b2731562b73a5311b1d2e51aaebb6bc0ca587397e82d39ff3b3cbf32cfde780a",
+  "PGPSIG": "iQEzBAABCAAdFiEElDfdOBWnqRaePTlGr/XZUJi8b/UFAl44bsIACgkQr/XZUJi8b/V15wgAtHtiRsHZNY6Z/uaDspyaKuW1T38GVsloNJPdALo58ymVlip00wIjHZKBes/w7lKeLloHJNRSQ5+iXM/CC4kfFTl6xhoeIa8IeggSg7doVqat+xOGKPTKQmOMTyHv5faoWyhZHxxqXHoS0a1ypXYeihrIZzU6AAxJAs5fzK570hN5EoZbzrAheN4m+TPsBFSndS4TpW4JXondX6YQ+DTZvRZB7HJQFl736vd3Lhk95Tr1m7ykWSJ4sNjyRYTjjZ6s6z+lQeAaBArgyBoPxXCAebt+UMm/V4iYwtWRSlqpOI/217fZpCj5xbsMrvFWL7v6mWIQR25ovnmueg5LxJmi3w==",
+  "URL": "https://github.com/jelmer/python-fastimport",
+  "LICENSE": "GPL2",
+  "ARCH": "any",
+  "BUILDDATE": "1580756250",
+  "PACKAGER": "Maxime Gauduin <alucryd@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "python"
+  ]
+}

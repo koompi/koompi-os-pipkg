@@ -1,0 +1,25 @@
+{
+  "FILENAME": "akonadi-calendar-20.04.3-1-x86_64.pkg.tar.zst",
+  "NAME": "akonadi-calendar",
+  "BASE": "akonadi-calendar",
+  "VERSION": "20.04.3-1",
+  "DESC": "Akonadi calendar integration",
+  "CSIZE": "500521",
+  "ISIZE": "2211552",
+  "MD5SUM": "7bc07d9748013949f6f73982a6f7eb4a",
+  "SHA256SUM": "a3d4817b4bbc8d21c4769efc032da32edb284bc4805705052d04a02fb6f33d83",
+  "PGPSIG": "iQEzBAABCAAdFiEEFRnVq6Zb9vwrc8dWek52CV2KUuQFAl8HAyoACgkQek52CV2KUuRfrAgAi+lx1cyDCM13c87Mwj+jJcjQAqrOMW01Y6C88vQZgDTEkRo8baL4OyDL1vqwX3M/brEs+Z2ix98x5abBRVb2lRo6CJw6VaLVXDSlQeHqxtHEqZ2pUt+k6aymm/BhM63mXmP6328nDqr/3dyr6Lpf3NvVt/pYQJcnNB8WrxrO/loQFB/x5JHcOFTlYUKQcg4Djo+BYGQT0HPKbraJKPswD39C1xQZmbKZNmNMsoYtUyNxmpyUk302WJOdXlhQxlKlihiaj5uX1dl97iIK1xInzhPO0ZFixdfhP+O59VyOzn2LB1xBYSzvKNnx18l8SGuqMP6jmyt1B8iZQbOmJU6VzA==",
+  "URL": "https://kontact.kde.org",
+  "LICENSE": "LGPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1594104933",
+  "PACKAGER": "Antonio Rojas <arojas@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "kmailtransport",
+    "kcalutils",
+    "akonadi-contacts"
+  ]
+}

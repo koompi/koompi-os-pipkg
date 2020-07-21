@@ -1,0 +1,24 @@
+{
+  "FILENAME": "lib32-celt-0.11.3-4-x86_64.pkg.tar.zst",
+  "NAME": "lib32-celt",
+  "BASE": "lib32-celt",
+  "VERSION": "0.11.3-4",
+  "DESC": "Low-latency audio communication codec (32 bit)",
+  "CSIZE": "56196",
+  "ISIZE": "101183",
+  "MD5SUM": "2fba592c459ca4d56972e7205f7ed50d",
+  "SHA256SUM": "e9dcc8515bfb8ddbe4f020049d5a15902a567f78a8aeabcfa10ff926ac680e5e",
+  "PGPSIG": "iQEzBAABCAAdFiEEghj4iEmqxSLpTPRwpekojE+kFfoFAl61LaUACgkQpekojE+kFfpzrAf+LsGOhPxuSEotnIyreqsNvXo+UR2AbInjYzcWyFYD+EG9kk6N+SJhHreZvXOoxUvaTZmXqZHy5ps2XPsupdUTJHslHXtttsHj6SIi2d93cuK2jlBQRrrGkE5ZKZ9lrDnrPSCEKL3n13QWrHOutRU8csI2xcMAkTgC6QNoXWi3RTAWq9L/+tJjmpYTpBUw5HzXZiklZ6IAVwexPTLMitYu97OudxrKzRjhgPWO7tu1A12aA9pyUH6ZjIyg0gcLJcSg8oILNYkuS4RSM/OjRVSy+CfvrpW3xQk7PAbyPtAJDuoXNDHnKQM4GkRg4IuiN9f7sJXCUWAQ2stKKWjnczs0iw==",
+  "URL": "https://gitlab.xiph.org/xiph/celt",
+  "LICENSE": "BSD",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1588874494",
+  "PACKAGER": "Jan Alexander Steffens (heftig) <jan.steffens@gmail.com>",
+  "PROVIDES": [
+    "libcelt0.so=2-32"
+  ],
+  "DEPENDS": [
+    "lib32-glibc",
+    "celt"
+  ]
+}

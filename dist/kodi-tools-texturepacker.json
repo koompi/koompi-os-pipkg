@@ -1,0 +1,26 @@
+{
+  "FILENAME": "kodi-tools-texturepacker-18.7.1-4-x86_64.pkg.tar.zst",
+  "NAME": "kodi-tools-texturepacker",
+  "BASE": "kodi",
+  "VERSION": "18.7.1-4",
+  "DESC": "Kodi Texturepacker tool",
+  "CSIZE": "36716",
+  "ISIZE": "76056",
+  "MD5SUM": "6d644b23171124d4a696088c2313bd7e",
+  "SHA256SUM": "bd9e42350ba1ffedbfab8491d471058921416741bcade902a48263822cb06dd1",
+  "PGPSIG": "iQIzBAABCAAdFiEE2yJ3vNUAqjglYQvd2zIzknlsoGcFAl8EZzEACgkQ2zIzknlsoGd7xw/+JdpGT3+VsKuamdiFp8GgMXhTIoOQ9I4xxvgwmFvtElgoWAiYBEcucB3gpEVajtYokuhxPFmlOe0IvQZobaVcet8BdbsS1Q/r2pfGFofuQoDjCmQU8GCowu4icT/JOxlvygZlxJIxwLHjUfP9Tdd05JbGnOlNIWqZpY/e8/Qzp4bHTsl/6XDEWrf4nMdrvgrYSbbwRINacUjuBrE6Xq6a1At6QoxvXbc0KNVY1PwdisAg/fEWKwXIbnB3xsefcUngXTIRnwCaC2Q3g/JKI0wKuJowoJS4in+iSR+X/QLWTuITxmeEWm7gfzoQEtXlxADduPiui11Tf6rQo7fXmAMmHUj4yWVlCgnGwij/IGfce382i4YoW9HMag0tnFHIuKnOxqd2wgyP9IbAxQoJ10CXY5fpsaxfVZSbqhbe6DRPqmWueAPbpsTHyzbs2HBpv11w7pUyIXTQcEA+ppSCQ28GWI9mRW50WJxKmLAbDUcHU7Hl3Rxk368T3qzSEoM9Al/GYEaA7WBBZyUwK+v+gjAjcBwvyzVfXhwriMQeip1PSqL1ds76DCxi+ttN5aMCaTSqGQJSt1TRS4IYbUvsNk525kQgiiEPqeJKQrxm7YmuACnDmBED52KS0QKsAJGftG4H4qfyxSry5fEDH4VhnRBPYZ628UYNGqQcaOC5rHlifxM=",
+  "URL": "https://kodi.tv",
+  "LICENSE": "GPL2",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1594118601",
+  "PACKAGER": "BlackEagle <ike.devolder@gmail.com>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "libpng",
+    "giflib",
+    "libjpeg-turbo",
+    "lzo"
+  ]
+}

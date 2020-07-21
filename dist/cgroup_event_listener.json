@@ -1,0 +1,23 @@
+{
+  "FILENAME": "cgroup_event_listener-5.7-1-x86_64.pkg.tar.zst",
+  "NAME": "cgroup_event_listener",
+  "BASE": "linux-tools",
+  "VERSION": "5.7-1",
+  "DESC": "Simple listener of cgroup events",
+  "CSIZE": "6206",
+  "ISIZE": "17320",
+  "MD5SUM": "478f8a8115a9e6d9c82cba96b11f935a",
+  "SHA256SUM": "ecb6269b4fc2b489cf7be287940452f0c0e4047af97f33e48aedb6eea3f405d7",
+  "PGPSIG": "iQIrBAABCgAdFiEEVyJOyaX8pvvJK7iqShr8NF6+GPgFAl7WcvkACgkQShr8NF6+GPgzrw+9H8mQWfzss9M4p220f8tUB28XZGPWtRdn9itxPRATbO5MUmllP0vpAPvKbCQMCDTCWkyBIBsGf54MxQytBgvtaHwMfu3ORoDRBMDMfu9W57lGGCY/X9BXtseBDHmdrEYetVbauRaCGSnqOuqdTMkbULwKarqujDqphAzpU4y3hWgEF1tmfEaLbAZkUYSkrGS9N8I6JwSzUDQaRLNDD9IE/CUQVXGT5aTmj/CwO36XfhOUVT41ccY8YLTuWeTu608OlbdgN9T2aEnMN6qZCxNnW646l5I8W4awRw8aJkB8F1jl/dyPxZdeQOHbGN/l/x4d7mKJZ1cf1BWDB9C04CiN84W4bs6lfV/cC11UXH1UZ3IRwbEPOw/4qg+FpVNw+JD0M8FZwOwlpkItxQyqpNtiStIHcYPKnQF1nVtRgO81cC4KNzPfbb4aiQ9xAie4FpXENxEqclhKQbEKPsaS8YLX81q2ynUmT/JQdErhlXRAyutUes+jGun53evqODfJcrsP4s15uM8lsw/rOOG7Uty07O9Ca9wGrydtpVhwpCUdsqywv9MafteSjbT8WhxUWd40NaLRZ/FwLDExWux7uhTkGx/pb0t3zp0okf4QnHzMPD03btdAw3SnultdTq5cEQVQlJfEMffYjQddAwBPNjTBeso/wM55pI0I",
+  "URL": "https://www.kernel.org",
+  "LICENSE": "GPL2",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1591112032",
+  "PACKAGER": "Sébastien Luttringer <seblu@seblu.net>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "glibc"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "FILENAME": "python-pasta-0.1.7-2-any.pkg.tar.xz",
+  "NAME": "python-pasta",
+  "BASE": "python-pasta",
+  "VERSION": "0.1.7-2",
+  "DESC": "Library to refactor python code through AST manipulation",
+  "CSIZE": "85160",
+  "ISIZE": "496715",
+  "MD5SUM": "fc873580f624b2ba2e8e6e45873adcd9",
+  "SHA256SUM": "9ee903617d583556f6ebf43e39362228b3de2d8149e20828242ce260fc5a967c",
+  "PGPSIG": "iQEzBAABCAAdFiEEhs/8qRjPOvRxR1iAUeixSKmZnDQFAl3IcD8ACgkQUeixSKmZnDTHrgf/YnNqK69vMLspiyM3ncLpKNPJMOhXKEkMT/Rwrm5mLMJp+vbQGj+R0rzp3pJdz4VG4xLlEV4puhtuM/PM2h8QEGnrT6Db4n5Rh0lq27tqAIleutS9VZFhKLd26kL+6AC6zpxgg6PWLy50EsYn9DZ+rzE6edd+iAXsFuR1C4bdNTrGbCIkJJAjEISFU2Abb5rpGr6wwkMiuPmlJ5FKskSTiJTa6R6rRhktLqszeGAiUbz2YJAULXxxJgfSmyrniqqIIDCNGJsCYF8Zr4CwZf8A6FKtWDCFCub8PWkHgnRWR8vaZa/6KLVF9rca/s0HXHukApfFLeSHp3Kr2oaU02Kb5w==",
+  "URL": "https://github.com/google/pasta",
+  "LICENSE": "Apache",
+  "ARCH": "any",
+  "BUILDDATE": "1573417003",
+  "PACKAGER": "Evangelos Foutras <evangelos@foutrelis.com>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "python"
+  ]
+}

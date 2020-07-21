@@ -1,0 +1,27 @@
+{
+  "FILENAME": "lib32-wayland-1.18.0-2-x86_64.pkg.tar.zst",
+  "NAME": "lib32-wayland",
+  "BASE": "lib32-wayland",
+  "VERSION": "1.18.0-2",
+  "DESC": "A computer display server protocol",
+  "CSIZE": "54629",
+  "ISIZE": "179174",
+  "MD5SUM": "24f38fef718a3be2c0b53e9862736b92",
+  "SHA256SUM": "6d3f798fb4a3234fff9b563efe3be5f67f1de40c2b3579ff6a6c32d623e08d8e",
+  "PGPSIG": "iQEzBAABCAAdFiEEhs/8qRjPOvRxR1iAUeixSKmZnDQFAl6OVa8ACgkQUeixSKmZnDQg2AgAqnVL1KkMVsJtoi3rMiZDdBb4kIAn5IIXujlpUc4i4ig0pHSFJCjMsUXI16PVfp32pnaMhgcpwLxrj5QjBwIyLLDsYSW4I6PbLfjMF09sWk49fwVGpzx1+WgWUEi+F/Ay59x2xS3lYEwLOKA4tma0+yO3dLONA4phzDCw5CGk1qEB+D7YJyYxuy49DHuSAbnS3/S4D0sypU0VJGV6GgxsZ8iojWeGPCd+/mvlAj6rvWjt1nC0N57nH/wufbz4DP7OPIPfJ9zR+XT/Oha67r0zwxpx9Y24/qDGj7SdmXKg8qwmZutQUBFTaQHJoSZ+qnd1GR2zPSeKe5DERp694LQaHg==",
+  "URL": "https://wayland.freedesktop.org",
+  "LICENSE": "MIT",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1586386306",
+  "PACKAGER": "Evangelos Foutras <evangelos@foutrelis.com>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "lib32-glibc",
+    "lib32-libffi",
+    "lib32-expat",
+    "lib32-libxml2",
+    "wayland"
+  ]
+}

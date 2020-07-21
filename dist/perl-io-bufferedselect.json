@@ -1,0 +1,23 @@
+{
+  "FILENAME": "perl-io-bufferedselect-1.0-9-any.pkg.tar.zst",
+  "NAME": "perl-io-bufferedselect",
+  "BASE": "perl-io-bufferedselect",
+  "VERSION": "1.0-9",
+  "DESC": "Line-buffered select interface",
+  "CSIZE": "7399",
+  "ISIZE": "7532",
+  "MD5SUM": "208501e75d76ab511b74dce8bbfb8e9b",
+  "SHA256SUM": "bb1c1548c2ec5bd14f9d1997decb9f8301e28326c64365035bdf8fc2d1402878",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl7vhFEACgkQeGxj8zDXy5IaHg//Q87/PwSdcxVY5PQdFf3WEhR+S5urBZUt7Ys3b6so2CtWtU7/SxipJOdyDQWCuq1IV7jeoBrhHas9ctuMG8W4EnXRQtx3FZCQYOzoPPGqBdK8u18M/BUJSj44FBc1W5oW8xu7QAYw+8duohJ6Y03m6ZZ/hyOrWWmfGIR8XzCvE3wsfCz08k4VbOHm9sfRwTCWhvQiAjiU5DpLkYH7CS7Lc6ja4sq+STaD1/y69KeJwBmUlBUbnDnjXojAc5kYcB0yC9rzFtQCg8iUkEzQeZwBOzSC/cPymhlEXlI/BznmF0ZvB7eMIuYE0cEtU1AT/CZfQt+qpqgDPrcL7nMImeqvVER9lu4utiEDuba+HEGoYDNCPKNgb1v3mLm/7HYkt3wec4Pd6jyYDv0FrhuclmpzNCk2mQkX/dAAE9ousHyCu5uJhxjXAD99xqys7OhH8wQJkdNerEJImsLvrablZ70ZuvCU0WhojcSYMU8aWGdJYRHyiCWePG/B5MCknrgX/3Ug+iCXfgvxtS1s2uvA1FxNzCLfX2PNfxTzOE91h5eMZZtsDaxFQAXKUsLDGAmcfu657IwQbQ/fSDnhOn555yoZ/j/1598V+hm386fx3NZghpXtAfE1dwC6Wer07GO5afHOkGNSCViRxtg7SSX3D2lARzDfPXgqBWQ4D5U9AfsOaQg=",
+  "URL": "https://metacpan.org/release/IO-BufferedSelect",
+  "LICENSE": "PerlArtistic",
+  "ARCH": "any",
+  "BUILDDATE": "1592755246",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "perl"
+  ]
+}

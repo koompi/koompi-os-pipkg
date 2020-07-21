@@ -1,0 +1,34 @@
+{
+  "FILENAME": "polymake-4.1-3-x86_64.pkg.tar.zst",
+  "NAME": "polymake",
+  "BASE": "polymake",
+  "VERSION": "4.1-3",
+  "DESC": "Open source software for research in polyhedral geometry",
+  "CSIZE": "38180494",
+  "ISIZE": "177345138",
+  "MD5SUM": "a7b78d9bee69001d337b47dc0e7ce3c0",
+  "SHA256SUM": "23ea53f6abc8e1fedeaa0cb41b435f9ffe81df25c6b390940b68b5925908502b",
+  "PGPSIG": "iQEzBAABCAAdFiEEFRnVq6Zb9vwrc8dWek52CV2KUuQFAl73JzsACgkQek52CV2KUuRFcAgAkojAriZ3m2jqdZUZ8LHiNy6Ew05jJwEbkgPHx1bqikQ0lqsvNlAMs/UN3oSqJwnr+l7GNw/z0cyO8gLPDwGhy/2TgG3ypHOSneM1Kf3KvRrVbJge9HHEs/cNIvioxz4GWWXCDoOAAz3wZNGyWNMu2BtrHA+wkGqT3CpBYlRXB2gKkcIJDh2tJPhmMLU38eDNAbYsTzdfnK/bSJj1QCaUD5PyCDE1XLH9zW4TCgLREtewpPt1tZlVEJi6WZkmVIof7kNZEdDypsEjcsClDGqXpqH3Q9CI97hGRc6nZ1Yp8R/DWxYyjn5RkgSSkr8HibHeSWMVObF+ivDLsjYhyyImdg==",
+  "URL": "https://polymake.org/",
+  "LICENSE": "GPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1593255016",
+  "PACKAGER": "Antonio Rojas <arojas@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "normaliz",
+    "singular",
+    "ppl",
+    "lrs",
+    "perl-xml-writer",
+    "perl-xml-libxml",
+    "perl-xml-libxslt",
+    "perl-term-readline-gnu",
+    "perl-term-readkey",
+    "perl-json",
+    "sympol",
+    "perl=5.32.0"
+  ]
+}

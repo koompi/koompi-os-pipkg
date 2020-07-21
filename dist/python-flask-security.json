@@ -1,0 +1,31 @@
+{
+  "FILENAME": "python-flask-security-3.0.0-3-any.pkg.tar.xz",
+  "NAME": "python-flask-security",
+  "BASE": "python-flask-security",
+  "VERSION": "3.0.0-3",
+  "DESC": "Quick and simple security for Flask applications",
+  "CSIZE": "102184",
+  "ISIZE": "494565",
+  "MD5SUM": "c7664944d8791b51a40acdcafad6e201",
+  "SHA256SUM": "75ba0013d94dce4e79f4ef73495530559ff66fbebff3898f110f8d4b98a83162",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl2/UccACgkQeGxj8zDXy5KA8g/9HnUbPBmE8Bmvfq7SqGz/cj0EqKL5ptjv3Mj41TOGJehMUWI8XywF0G3L0+rfolbneiZJ5NE4RWes2vRwu7tVTizovf2TMgnNtolYtlDVuBA3+LPoA5wFrMSx5IZYDgYka7x9WSx9XEpjlrtdX5kbyZn0bJV2OLuv5mbB+qrm33d6outMMae/tYclNeVQXxQNNtVz4fAoSk9vHY+r6MHomsad3BuaN4PXYzFqWujNq3glzycALTAEPMvl6CHy0jjTiBLrpMN3bUn/754/7TaZvRLvsK2PUJMxky7mWANJWaa9KYzs32xJ9FOM/3UzsR8EmGFuKMnym9Df9vF0fkxv5qB/Y9egMHhoWvTlgnXUf+94SblvPmpAvQfH+Fl8rNozhzIqdQd1zHZG+xuD4Q240gytF+rRRZ3mG78tUPXOc8S1z6g10MejbBaydsdDlFjkgLvPqB9pCAY47hmkBZRZT1x9/3nABDDiirn6mgykTkDIfnFX6eZo5qOgUBTC3t/jFtPS794opgDnyNtx9GxUGon7Lbds0NGu1er/uvzStoQzkgcK2GQHFKdoUiol6aBXVTpsWK+IeAY3sSRzOc3idTme3ZCoR7GpnDURC4tIMm/sDI0vrYqFtEEOUFsmCD3HEke22UEuReitXqzh1nR9+BsZTA+Ru1iwE2QpOgEQPts=",
+  "URL": "https://github.com/mattupstate/flask-security",
+  "LICENSE": "MIT",
+  "ARCH": "any",
+  "BUILDDATE": "1572819353",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "python",
+    "python-flask",
+    "python-flask-login",
+    "python-flask-mail",
+    "python-flask-principal",
+    "python-flask-wtf",
+    "python-flask-babelex",
+    "python-itsdangerous",
+    "python-passlib"
+  ]
+}

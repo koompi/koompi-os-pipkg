@@ -1,0 +1,23 @@
+{
+  "FILENAME": "libreoffice-still-gl-6.3.6-1-any.pkg.tar.zst",
+  "NAME": "libreoffice-still-gl",
+  "BASE": "libreoffice-still-i18n",
+  "VERSION": "6.3.6-1",
+  "DESC": "Galician language pack for LibreOffice still",
+  "CSIZE": "2341076",
+  "ISIZE": "21378224",
+  "MD5SUM": "efa9589c18d3fb94e80015eeedf1b106",
+  "SHA256SUM": "71f0ddec2ec055c0e385671576d0752bf2ac0d7c040b9d572cb2dfdd9b1f6a8b",
+  "PGPSIG": "iQEzBAABCAAdFiEErcih/MFeAdRTEEGelGV6sg8qCSsFAl6tSssACgkQlGV6sg8qCSt44Qf/cr051cCOHy1/LJJHmF0sf9pwtLEg4sn+5/2zqSvEOs8D3An5WubVIuWH3ubi+A6EsHlVuattVNk65k/Zbt21+XT4+XZqu8WBkH8q6RePy7inBZxGjF6/CeSSf8/QBGcDeYOy1xfFUgmQDc12STIgV9Bv5htBYt1vnH/+Djv0bh52XpClcygPL+ikz39etAZvqIsCFdu9WnFCV3GaiZBFsnua8VplXog0N8BrhcKEkkCjOtPIqpGyQlwLq1ygyfd7pEs0uH0hQPn2nxGZ4CGvC8zt7my79XFn30VOYca32fvLC4pqYRhaPkKKZX2BqUFiq3UEaCnaxeiCZVAfPEZi/g==",
+  "URL": "https://www.documentfoundation.org",
+  "LICENSE": "LGPL",
+  "ARCH": "any",
+  "BUILDDATE": "1588407321",
+  "PACKAGER": "Andreas Radke <andyrtr@archlinux.org>",
+  "PROVIDES": [
+    "libreoffice-gl"
+  ],
+  "DEPENDS": [
+    "libreoffice-still"
+  ]
+}

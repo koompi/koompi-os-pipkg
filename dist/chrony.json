@@ -1,0 +1,29 @@
+{
+  "FILENAME": "chrony-3.5-3-x86_64.pkg.tar.zst",
+  "NAME": "chrony",
+  "BASE": "chrony",
+  "VERSION": "3.5-3",
+  "DESC": "Lightweight NTP client and server",
+  "CSIZE": "272686",
+  "ISIZE": "889524",
+  "MD5SUM": "f2ca53636ae51f780f1ec40e7e443fe1",
+  "SHA256SUM": "6a8a000e65f5eba0c480c3b60b755a17a6d1e735b008ae58defce98505a8fbdb",
+  "PGPSIG": "iQEzBAABCAAdFiEEhs/8qRjPOvRxR1iAUeixSKmZnDQFAl6w/AgACgkQUeixSKmZnDSb1Qf/dtPx9wi4zeDRJt6ztBg7PfZAJcYoSsPysYAJQMQJZBi6lKhiCqf3Gmxkdo+n8A8qWNEFaRCdDus86G1Dvnrbi0i+ZTDOLCmRFxM2mlirTmXU0eck21sTEuA6Bdk6tTos/Ni4zkHPOipxJ49yWEF9UFT3l2Wh8qskwbQyf3fOnxBpl2XLAGhQ54VbvkzvH7841phPGZw1ZP1TRw6248IJ+4n8jwx8heOImovO67PeqQFO7zVyP8u8k1GSt7HcpShLlfDPrKZ00Ag+8qVzZdu031uR8+FafizN8uYCzX2VSCiwv0YsjXKp+oRbAmtPi/4CpKs4LBThsKR9qJccfemfEQ==",
+  "URL": "https://chrony.tuxfamily.org/",
+  "LICENSE": "GPL2",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1588657138",
+  "PACKAGER": "Evangelos Foutras <evangelos@foutrelis.com>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "glibc",
+    "nss",
+    "readline",
+    "libcap",
+    "libedit",
+    "libseccomp",
+    "nettle"
+  ]
+}

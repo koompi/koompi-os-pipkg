@@ -1,0 +1,29 @@
+{
+  "FILENAME": "qsampler-0.6.2-1-x86_64.pkg.tar.zst",
+  "NAME": "qsampler",
+  "BASE": "qsampler",
+  "VERSION": "0.6.2-1",
+  "DESC": "A LinuxSampler Qt GUI Interface",
+  "CSIZE": "321535",
+  "ISIZE": "1051479",
+  "MD5SUM": "dd12e6e981f085c8f65c436be0abade6",
+  "SHA256SUM": "df8163e176ba8d1d0e9c63d16b540e4df2a2e3480390cab942b4c11a8d4b2f93",
+  "PGPSIG": "iHUEABYIAB0WIQTH54SUZv4jWDQ1iDdyWHNLQcMVSQUCXnpgfQAKCRByWHNLQcMVSXSSAQDGDBZpmMgMisenNeErI1Iczf+RbMXgr5iyPOUOVRj6uQEAgqIm2G4jQml4fdOXr8Ut5FVQ9gni0VwGtsJrsaB4bQU=",
+  "URL": "https://qsampler.sourceforge.io/",
+  "LICENSE": "GPL2",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1585077535",
+  "PACKAGER": "David Runge <dvzrv@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "gcc-libs",
+    "glibc",
+    "hicolor-icon-theme",
+    "linuxsampler",
+    "qt5-base",
+    "libgig.so=9-64",
+    "liblscp.so=6-64"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "FILENAME": "python2-monotonic-1.5-4-any.pkg.tar.xz",
+  "NAME": "python2-monotonic",
+  "BASE": "python-monotonic",
+  "VERSION": "1.5-4",
+  "DESC": "An implementation of time.monotonic() for Python 2.",
+  "CSIZE": "6816",
+  "ISIZE": "19608",
+  "MD5SUM": "d2ad16f559088e4ea1015a40427a5234",
+  "SHA256SUM": "8a6c60fc966b878721ef25b801b559b533470e45afb97b1d756c3e619197a561",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl27IYsACgkQeGxj8zDXy5LVTg//ZaRaHe7dSln0/xKpcv97RQ1SiGLCj8LrG+2+ZQLgsuHIT14c+j+4X8mHbXwLqKo2AGwK0ehAFNkLPlajqS8hd64SAVTjmaGzE/OJ1uegJmaH0vVnNyBBwb3Qphdf2yckOarvqQH5yUj6mQN0Hj8oREM4jwbb7NAxFl3b7tE/xYRilEjHYW+1HX5FLaWZ30BYyz2vUDjMJSCzp7a6F9YurN9IhpVkl4wGXVOYhqJImoKof4Eo08In3IShSPQjgAVO3QoYqVH94Y65aOT8/GqMYL+H/QIwOA/JmmrFtk2OBu59OGcCxPEE3NctDwTr1MSOZyWMbWZeUi+uxsBHTvglJn/u5VUYQlMtAGxwM5/OIg+TGlyl4HPLlZF06j7nK4G/lkiTsFD3w1yJblWxr0Hj6IQ2o4InySyoBTDHf0G2q6TJufNYxG2HtHgksgt6OxQflWtN1rmc98cBfpcYZ+9JztaWQELMCwwTFezTdIjoj0GcybR9KSOqnZd1G4bApFQmvhg/RSpr6G0DZFxYPxGD3k13t4EeTgVXgGskRT6EtMFol4the4sskAzKuvkq7l5cDVghvXExKgBl5FS2ODTIkysomL4nnrJdCcv/TQ2gQNFuEQ5U9BkLCFqiBnZD+NcPZ3+K4+ApmCj/1C+t/ChCiLbQbx3ZqCJas5TDG+KnMwI=",
+  "URL": "https://pypi.python.org/pypi/monotonic",
+  "LICENSE": "Apache",
+  "ARCH": "any",
+  "BUILDDATE": "1572544877",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "python2"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "FILENAME": "vkd3d-1.1-1-x86_64.pkg.tar.xz",
+  "NAME": "vkd3d",
+  "BASE": "vkd3d",
+  "VERSION": "1.1-1",
+  "DESC": "Direct3D 12 to Vulkan translation library By WineHQ",
+  "CSIZE": "153156",
+  "ISIZE": "694272",
+  "MD5SUM": "4f2003658f6059fb70fc429933011b57",
+  "SHA256SUM": "8abc424b72e1c35c0981009ddc1787240c62fe506c3e14309b83d556a6771bf5",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAlxLRXUACgkQeGxj8zDXy5JRKg/+OMKqYuLxN/h+oSsnctUYOABKefnL9Ra+B7z8wvLNyUwe/YTXLLOr9jJwQNRShYkmY4pM2Vfo2IOCmrTJfH5I0uM8NUl5fKc/fgQnValacA6eAG8jMN9ezea/ZDlLfG/ieAUlAydTfeM6SeS983rtZuW9BsCIKXRWtFTS8BKCimqJbSVn+0Hhi1obcC3+r32U6AprKGWC+lyMCkOkfA9QA5qm94rb+M6scKBIhCYEA8/lprS9RxZyjYfBXwBryU0Pmj79ZUQfVLjoBC3k3OpvJVTz/qigZqqHcTs/GZqmgWjG9cRbTwTL8k3ViT4CfJErRAi0+sqc7Agzw+aOFe+AtiQEWOsM27dKoFC4upWFaB8ujiii5ble7sHtt4IYNBg0B+dpp+t2q11XA/wMdbtLqM7lFd80IjnOWsSxTGPgAzvAoI1I+w2fu2OHeCJ/W39AYX7dmKCoLZQ2VMv4Xy/sIgYgM9rIESj7wxoRIPKr3jEmwDrIPPGPqBNcxMfsyrATyfTItgVHkgRao6/kYVgrVKYYubVlyTolGyxSbzgzyZXS7SelvpDsh2QbK7NRda/ZcWElfp1/PJn9qWpAs3K64rOwBV5UOOpi2UT0nakIvxd+t0MI3uyBZ66sCcIEdrVB+Ba/SXVwFWoIvDJKvAttgE1vHb7wwaczzUwqPXmZJsU=",
+  "URL": "https://github.com/d3d12/vkd3d",
+  "LICENSE": "LGPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1548436786",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "vulkan-icd-loader"
+  ]
+}

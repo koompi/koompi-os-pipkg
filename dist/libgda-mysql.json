@@ -1,0 +1,24 @@
+{
+  "FILENAME": "libgda-mysql-5.2.9-4-x86_64.pkg.tar.zst",
+  "NAME": "libgda-mysql",
+  "BASE": "libgda",
+  "VERSION": "5.2.9-4",
+  "DESC": "libgda provider for MySQL",
+  "CSIZE": "157839",
+  "ISIZE": "1475289",
+  "MD5SUM": "a00ac8d635976690375d3c81d3dbb3af",
+  "SHA256SUM": "6a06132642f0248c46634e72efa9936730ae9856fccee6b37bab1789e624e046",
+  "PGPSIG": "iQEzBAABCAAdFiEErcih/MFeAdRTEEGelGV6sg8qCSsFAl7dChQACgkQlGV6sg8qCStWbwf+PmpZKbXzEi87QHYaI3kHCX6B9Ilvn+o3LK7qbQipi0V5VxlYWi5F36yR0qI4fyEjUrApTOAGKq7mqXJBj5jMZIB/gHlj4wXxBQ1RhA8IhtIepePQqho8xUfUKleimQAL3qa5TwAtL3DR+tr4Zh3UcpB3tn/1DEK9iz9zo46/ObJTEPBXL//2SP/jajJvVYjhuT2Ql3HCXI3R48FkcDOHTteFup/kDhOzEgi73Fu2WVaC3LtIZwi3O7BTA7ysxhIaa4lN1a2ZCqdXKqDELWcyPg/qALorvHFaVG9dW33vFG2EsAdWjcDPRjVSLhBHNpUaXbjQYgqv/ybg5gosR5vQDQ==",
+  "URL": "https://www.gnome-db.org/",
+  "LICENSE": "GPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1591543362",
+  "PACKAGER": "Andreas Radke <andyrtr@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "libgda",
+    "mariadb-libs"
+  ]
+}

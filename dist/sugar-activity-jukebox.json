@@ -1,0 +1,24 @@
+{
+  "FILENAME": "sugar-activity-jukebox-36-1-any.pkg.tar.zst",
+  "NAME": "sugar-activity-jukebox",
+  "BASE": "sugar-activity-jukebox",
+  "VERSION": "36-1",
+  "DESC": "Media player for Sugar",
+  "CSIZE": "80328",
+  "ISIZE": "394390",
+  "MD5SUM": "e196f67082e21427b7ad57954eb9a447",
+  "SHA256SUM": "5ea70b81b340b2984cbd67e0786c60290bc0a8bd2c4875f57ca5f477ae72a504",
+  "PGPSIG": "iQEzBAABCAAdFiEEzgvecadZqH8j8PfYth284QkBwWMFAl5mpawACgkQth284QkBwWOHLwgAnBB/0VRfRA60h1sK6yVm0/iVhbVm0I8KCWdpGITNMSWCmBo94KPvIXKhZ2WwRPk/qh0LFsZz818bXHgqib8qMoW9W4ydlAMk3je3E+5ElZsXxB7rc7EjKKFkG1teH9OJft5T8diaxghgZ9kMTKBC+7WIEw1RUK3HRKgrL0wU3f3xXz3e9Ckv3s/ej38UrBLjnC2o7dH13cOh7DZSDTvoyfEyhv1D9CNGsDJ8K0r9ZwWMP/wLzHFYEA09Whb1SIRFpOhvQL/MkSgVhHYNRDw/btobaQErjjLh0p4wTL7ZZcnee7ngCekj7QMMQ/It+OaFmwoQ+8jHipq5W4GY33ZXAg==",
+  "URL": "https://wiki.sugarlabs.org/go/Activities/Jukebox",
+  "LICENSE": "GPL",
+  "ARCH": "any",
+  "BUILDDATE": "1583785343",
+  "PACKAGER": "Balló György <ballogyor+arch@gmail.com>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "sugar-toolkit-gtk3",
+    "gst-plugins-base"
+  ]
+}

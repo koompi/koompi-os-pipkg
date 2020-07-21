@@ -1,0 +1,26 @@
+{
+  "FILENAME": "zcash-3.0.0-1-x86_64.pkg.tar.zst",
+  "NAME": "zcash",
+  "BASE": "zcash",
+  "VERSION": "3.0.0-1",
+  "DESC": "Permissionless financial system employing zero-knowledge security",
+  "CSIZE": "3605917",
+  "ISIZE": "15591797",
+  "MD5SUM": "009070c95fc135bee13731d1a3d9c5e0",
+  "SHA256SUM": "f3e03b9ced806b542ddda814c4d6142285c314b71aee73f202a4f154d986dba2",
+  "PGPSIG": "iQEzBAABCAAdFiEEqbZxDXYPZhfFMHRuyEe2rrBUQWcFAl7TVaYACgkQyEe2rrBUQWdHJwf/TK/ibUqJsb9xhB7y6/SgTg+bOhtL3EjpPyVuYbU8hb713eAcRkEOM6IcRfRB7zCFEPgMBrJN0fNCfq1ITYcODjBJSF9W4tcOZgAx/GosyKwEEE1NKCdcFkfsQ0I/8ODxHc3FfvAy+q9SVkWRynPYPVvDPpfgpsUtKe6CnW/2g1CWHttzqOu3fFi28UI0vQvE3MPhAKVyLPc49dMgYRKuA9CKt2ZKNSX1YCS+jaq0MGh0dHUs+vtrphNfb81YStAoMewxP76raEaUONTX4IjOJXuiB6YzY1TaznKk77rHbtcS1kPD5Z5N5IG9QzLDLJADLEoWVaPz8RoQ0VGGdF+KIw==",
+  "URL": "https://z.cash/",
+  "LICENSE": "MIT",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1590888624",
+  "PACKAGER": "Nicola Squartini <tensor5@gmail.com>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "boost-libs",
+    "libevent",
+    "qpid-proton",
+    "zeromq"
+  ]
+}

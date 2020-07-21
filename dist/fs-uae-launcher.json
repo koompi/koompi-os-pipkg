@@ -1,0 +1,30 @@
+{
+  "FILENAME": "fs-uae-launcher-3.0.5-1-any.pkg.tar.zst",
+  "NAME": "fs-uae-launcher",
+  "BASE": "fs-uae-launcher",
+  "VERSION": "3.0.5-1",
+  "DESC": "Graphical user interface for the fs-uae Amiga emulator",
+  "CSIZE": "9898120",
+  "ISIZE": "28572228",
+  "MD5SUM": "30f6cf554f12f89b4377cfef22c44038",
+  "SHA256SUM": "b39424793c720b0b20b76cefdfd9596ac918ea1b774fcd7552876f482b4c3c16",
+  "PGPSIG": "iQEzBAABCAAdFiEEP/pqt7aarmzKJj3eAZp0dCl9hXcFAl6x2/IACgkQAZp0dCl9hXdDaggAvWgtiMu9Y3DlJkMXPjIOHtO6RTXU3DrnaCyAeBnCnDnLYsBfZKd0XectWxhFK9jJiB/ZIuMqa+cutADhvhUywZHI4gAvGV8m4RCcd4vMA/io7Ilya73MX0q3M9ki4lXN/pvxZZhFfw3b1AomiYYOgky2MKBCPX3Ze04aaAPdMrMERM3TwVW8AH+utjuBbRhED2FPIA18NmpSImoaogkFF4Pxrb637EUX+HcQuSU8MOCzjIAZ5qq0trVyFaCPcHxkqSUVP6Q2fg40OQK2/+4G+mkFAJHGWNp9qoOHqwlK/VkuT0SeoCduOssUAZxQy3wYe4JxCXCSzrmidIxLJ+kU8w==",
+  "URL": "https://fs-uae.net/launcher/",
+  "LICENSE": "GPL2",
+  "ARCH": "any",
+  "BUILDDATE": "1588714352",
+  "PACKAGER": "Daniel Bermond <dbermond@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "fs-uae>=3.0",
+    "python",
+    "python-opengl",
+    "python-pyqt5",
+    "python-requests",
+    "python-setuptools",
+    "python-six",
+    "hicolor-icon-theme"
+  ]
+}

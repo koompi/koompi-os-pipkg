@@ -1,0 +1,23 @@
+{
+  "FILENAME": "protobuf-c-1.3.3-2-x86_64.pkg.tar.zst",
+  "NAME": "protobuf-c",
+  "BASE": "protobuf-c",
+  "VERSION": "1.3.3-2",
+  "DESC": "Protocol Buffers implementation in C",
+  "CSIZE": "102894",
+  "ISIZE": "317675",
+  "MD5SUM": "4eeda8a39b2e2ec8c79d72304d9111da",
+  "SHA256SUM": "338825a6328816b7cd5617662a9417a89de40dc90cb818292ee6106c0cc1633c",
+  "PGPSIG": "iQIzBAABCAAdFiEELjbYYgIhSC/EXLfyqRdkdZMmtEAFAl7CxwIACgkQqRdkdZMmtED6Zw//eLKjmpKM4CJr7iIaKJouh0jNOnSGKj2bRxJBhkGUuXr9VJ/xZGj0K2I4BkNxE1Em3RS9uFc43vozm/9+3dcTqsj8jgCNDzywSNpWzRBNjycGdxpHqtxbpAWsbN0rhSe2H41UWlDhzYxpZ5R9sQCai8DjCpVAC7nBTEptk9aGXgXQ8Rnl8iowCCN67jFaE7/w3hDk0T+VQZJcPST4c33JyFJ7uDgPJWT5+ItaUA0Pm4InY2YO2p4sXwj0oq5MMfCqqfGddMnoePr/zx4oZJrXRtvD0DpnvQUn7WBDoSNuJFvPJrpEJFMhVKvIT8JwrRY92rXPdWLBl4uoOKeOPc5uh+vy6oCfpoYc5BSleQ9ign9v/FZCKRYfvWZI6ogN+aiJLJFxwoJxveeAP2vG0O0L6GF8+fiWOR/UrcGk7BDEgqp3fEmTryTQ3hfu3n+4WnLBdcWQHdR/7OMLU27c68aiaFBhQ+1mT+KIprUGE6RmPqJgyPYOM3z7Z4ZCn54tivEYM1hbeCXH6pBwLdToxq5cjtizVeX2L9hrxj6jQhHvR6DSuPk2SEZziOnqqatfv+T1fGPjcBcDngJPUpYH3txyiHx39v60puplTPmsWmps8KJNFxHaeK+4F35vW0VGDFBIWsl2NmW/zpX+PFNoTDdGA00WFhyh+tkpvzC/nU3X64c=",
+  "URL": "https://github.com/protobuf-c/protobuf-c",
+  "LICENSE": "BSD",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1589823169",
+  "PACKAGER": "Lukas Fleischer <lfleischer@archlinux.org>",
+  "PROVIDES": [
+    "libprotobuf-c.so=1-64"
+  ],
+  "DEPENDS": [
+    "protobuf"
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "FILENAME": "synfigstudio-1.2.2-2-x86_64.pkg.tar.zst",
+  "NAME": "synfigstudio",
+  "BASE": "synfigstudio",
+  "VERSION": "1.2.2-2",
+  "DESC": "Professional vector animation program (GUI)",
+  "CSIZE": "4351158",
+  "ISIZE": "15689076",
+  "MD5SUM": "9a7d62fbf42f7d960c0687a22b03b453",
+  "SHA256SUM": "6253fa93e400af98d8dcd8046bd542122ef911998ef83a08d355687b737df078",
+  "PGPSIG": "iQEzBAABCAAdFiEEzgvecadZqH8j8PfYth284QkBwWMFAl7pVtsACgkQth284QkBwWM+6wgAjZ5BEFqpt1pvp69PRWU3skv9mVRwZ0dD2qwHAAmb7Y/2ikPgHIgPH57ogdstmXjNLU0G2NP1YwbCXOKYKJSd7eXQyVxwQ3LBnobopCjx2glyqAwxzog58vfBm6q1MJLKBW2/qrIwTIoo+26cJTRoC5ejnfgjvmdIK/zXp2FMc5U63AKVfGYOSn4KESmZKwb938BKM/mTm9vxmrv6ViWqKln6q9PApuvXyeIDDcqVRPp/XQImq8R+3b2WuzS/H7WuMNzCzga2I3YjVtYPkux6LtcuOMOPlq/CVQzBO1KACuZdLf1jUBYUIlZvUY6v022hfcBVki4pzoDmXJrFJjDXYQ==",
+  "URL": "https://www.synfig.org/",
+  "LICENSE": "GPL2",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1592350278",
+  "PACKAGER": "Balló György <ballogyor+arch@gmail.com>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "gtkmm3",
+    "synfig"
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "FILENAME": "libretro-mupen64plus-next-1:228-1-x86_64.pkg.tar.zst",
+  "NAME": "libretro-mupen64plus-next",
+  "BASE": "libretro-mupen64plus-next",
+  "VERSION": "1:228-1",
+  "DESC": "Nintendo 64 core",
+  "CSIZE": "1448453",
+  "ISIZE": "4370240",
+  "MD5SUM": "79a69c4bfbdad5cbc974e86c8f5fe0ae",
+  "SHA256SUM": "28f583be9ecf4607b5ca8ccaa37f221662e9504cb4ee3c8fbdbb53f1941dc8ac",
+  "PGPSIG": "iQEzBAABCAAdFiEElDfdOBWnqRaePTlGr/XZUJi8b/UFAl6MwKkACgkQr/XZUJi8b/VVSwf+Io+7Q459qL4JQeI7qkRyNbzgVd7gtLn/kX9bx2WwXdzqKGl3MTjMEictBqCGcMogD927T3rD++Wk17q0eWGNnaw6RFeQPpc8azNq5T4+v4zkV0XXsJnRJawTDhtM79Vv2Fpd/6f0kzZUV+pLnQpoF6R+liy6Ceq2g8Jr5yO9XpfANNif5eyzy6Mz4n89fIHDzFgVRetXbYfDJA4/UGIB/zthUGLgNjvDGWka2PR808wj63zCVt0W2C1nJbMuhIZP60jh1tYCiHkhT3zpgipW7En0r7XsLTJsknaCcjnAC/sLeCXOrG3r0yW+GNY3eR+iIwBVa6948oIj33M5eLtbBA==",
+  "URL": "https://github.com/libretro/mupen64plus-libretro-nx",
+  "LICENSE": "GPL2",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1586282286",
+  "PACKAGER": "Maxime Gauduin <alucryd@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "gcc-libs",
+    "glibc",
+    "libgl",
+    "libretro-core-info"
+  ]
+}

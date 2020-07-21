@@ -1,0 +1,23 @@
+{
+  "FILENAME": "cargo-edit-0.6.0-1-x86_64.pkg.tar.zst",
+  "NAME": "cargo-edit",
+  "BASE": "cargo-edit",
+  "VERSION": "0.6.0-1",
+  "DESC": "Managing cargo dependencies from the command line",
+  "CSIZE": "2511248",
+  "ISIZE": "12233560",
+  "MD5SUM": "2110ad89f0be70ecc50c484041adcc7a",
+  "SHA256SUM": "0c37feabeade2d4d33d6ef0ccc8422ab0ed176a5f915c62c9291ef9cd2be608c",
+  "PGPSIG": "iQIzBAABCAAdFiEEM+u4qOHFZTZFsSMqRaZQ4mOMU20FAl6K9iwACgkQRaZQ4mOMU22/Bw/8Drr/dBMDycqd+yHSSCnQiIzDdmYIXo2yfYCGRC2lBCubQpIZpWpYaTbxmtpEXuHZwsk7JIoTtWV4ri6rHa+xfSZZMkOFsWV9+lERe8/th5cexm51eSYzrifePGnFMnJPqt7fgl7M2ntz/B7pBTWeOLoNT8iC8ekdzHaL6bLkssyHVi86DRMKdVMluFOh4OSUV6YrHaYHjFZ4rPPmxA4lMdrqqLXL+YewOdj2vKA5inQHn+wlmn+BAfw/94TbHR/WPXoMRUyr/iCRho11TjOYaoWNXaEF/gjI41NLgmMprswN8OgZHReHRgTf+d+C37MIkditp+qT9Tq1tg+LxgFbrZksXzMndcSYfl0KRcwn01veTG7rFR0eMeOfuH8RI45XhT7qwmA2bKMhM6RGchYTZ8My4bnowmoZW4982oLDCzPuQUmzekWP5DUCt0HrzuFxHzgWT9DIlvAZhiUYqaMbJhoLXNvQF5qdHD5eXjV9V9HENMX+JvV/uUU0PKrwaEfB1HgOILdRRH9TVBRwSorA6oCqtBJEn5f4NaNzesgFQh3YGIf79+b//sZrSXOnBJXr96DzxRT0PIu+UAtFQnTnbklbuRhakRAqtYxoMCUoF02kh2ws7z+3dp5ZGzIUZMu2J+3R17ywhoVYxIj3Gc95+4LpL80+3WZUTUuXJqvp+/Y=",
+  "URL": "https://github.com/killercup/cargo-edit/releases",
+  "LICENSE": "MIT",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1586164803",
+  "PACKAGER": "kpcyrd <kpcyrd@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "cargo"
+  ]
+}

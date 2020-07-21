@@ -1,0 +1,24 @@
+{
+  "FILENAME": "perl-text-kakasi-2.04-20-x86_64.pkg.tar.zst",
+  "NAME": "perl-text-kakasi",
+  "BASE": "perl-text-kakasi",
+  "VERSION": "2.04-20",
+  "DESC": "Perl frontend to kakasi",
+  "CSIZE": "17464",
+  "ISIZE": "31699",
+  "MD5SUM": "ffb654a44a65416035f07564c8055ca8",
+  "SHA256SUM": "c68ae3cacbab80950caf3e3b36299ca69671c98e5eba3e14ff1dba0b822e7420",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl7vhhoACgkQeGxj8zDXy5KXvg/8CEEHPj4GloppMZpGXw7jwm2/nwdgIEX4Jb7tLvHZieec/93QqyReqMMVViYHHCPu7JpeHg/Q90jUJLUXdTQg2e8DsooBoNDW3nkh4Oxdcm8PVTTfALN4bmMtKsA5nmXMwQzgkyhDDFLNc/NpEZ2xaYVwaV/UuHV/FaeN+65P40OY0AchILpjUgN+2Jh0/eQG1r8F36vQoDqS7uZwnRSXOq2uVb9q3UFXHmTWUljQmqKMZKBt+c18zVvjnq7/rh02iPXEW9kHVXZ8rvi6tHJgUUPnMpsBv1qtr7yJcPltlB1oexQYJ2J+OdeQV/vcGq6ooDJq3294VfKpSh2GSQTrIcR0F2IQqS6LH+Mox2K6lob31+OykIM0GfG7WA+cnJ9ibMbk/ptJKQza6YnNuQjQ4r4vEH6KbQkwgdpI59epca/nYqvkp7sfjJKujhDnLkk+MMLFYNsbOTYGWI0DPVpsgD9Vuol3AL5D4ZU41RB2D/MOmiefORusHW/GCf3GhY8hZ7AHGiurepgbSgLclxyd3X/upkHQFS4kB9z/Oxk0KFTiaFmDV1gj6SDAtnubiD7N/jxjHBCixVBGebFQXTarFoI9bXCcvB19xEBtxYMZpjyxna1qKERYb07d82V9oAcxoJ65pjxi2zuoHRvnR3mdv0+V4w9qDtbp+rMn0Jj2ckY=",
+  "URL": "https://search.cpan.org/dist/Text-Kakasi",
+  "LICENSE": "GPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1592755718",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "perl",
+    "kakasi"
+  ]
+}

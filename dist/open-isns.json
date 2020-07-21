@@ -1,0 +1,23 @@
+{
+  "FILENAME": "open-isns-0.100-1-x86_64.pkg.tar.zst",
+  "NAME": "open-isns",
+  "BASE": "open-isns",
+  "VERSION": "0.100-1",
+  "DESC": "iSNS server and client for Linux",
+  "CSIZE": "147246",
+  "ISIZE": "693520",
+  "MD5SUM": "16fbf5e466e8cc4c3d79909a3c555c38",
+  "SHA256SUM": "370ef48f8ff8e15aeb8ad23d50226419929da7dde618fb30486902c6d5ec4973",
+  "PGPSIG": "iHUEABYIAB0WIQQEKYl95fO9rFN6MGltQr3RFuAGjwUCXiqScwAKCRBtQr3RFuAGj6ZfAQDKHp0ttxTZqStdLXzjW40bh33yNrrqZAAhfgZoZT+y7AD7BkF88K4uk3rw/3PQvkmYkNxIpZ1L02MS4zBUnwX/9gU=",
+  "URL": "https://github.com/gonzoleeman/open-isns",
+  "LICENSE": "GPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1579848257",
+  "PACKAGER": "Christian Hesse <arch@eworm.de>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "openssl"
+  ]
+}

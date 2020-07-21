@@ -1,0 +1,23 @@
+{
+  "FILENAME": "libreoffice-still-af-6.3.6-1-any.pkg.tar.zst",
+  "NAME": "libreoffice-still-af",
+  "BASE": "libreoffice-still-i18n",
+  "VERSION": "6.3.6-1",
+  "DESC": "Afrikaans language pack for LibreOffice still",
+  "CSIZE": "468053",
+  "ISIZE": "2170311",
+  "MD5SUM": "a464d893936ac49c585b4f591f32bd05",
+  "SHA256SUM": "9bb08a95efbe710bee3e7e6df47cfe5ef2b27a28c51e9b93189930b010a8da5b",
+  "PGPSIG": "iQEzBAABCAAdFiEErcih/MFeAdRTEEGelGV6sg8qCSsFAl6tSqwACgkQlGV6sg8qCSvhRAgAoesXSzcoTLzb14CDNJ7Hu+ILwJBociSQaeNfbk5zJdbi4ehmRMDGS5JzJeAUdJViVURlXhw+jQOANi/Sq6knYPoW6YCXBTBYVNigK8RgCtO/qoIrif0l9vjzntXdYF4Ld2OKw8/hoU2mtnXlAfFo+/9vYMiF71JwjBXYV8nqXDJ+8S6N6BtFQ3I3cDXMc9cPuPJ6WcvtSlDzBIYW+9qRbFJas/JMq5K6iuiIkt86qxnJ9i8xIpfFn8QyyvvXrOvfNNdjvZ1WYSEtvKYne7MH3qyF4W+vPNR6yIEc1fkatzhsEnvaYrQbG6+/F4dojD8L6i/3LlBlTlkQBXDGreR4UA==",
+  "URL": "https://www.documentfoundation.org",
+  "LICENSE": "LGPL",
+  "ARCH": "any",
+  "BUILDDATE": "1588407321",
+  "PACKAGER": "Andreas Radke <andyrtr@archlinux.org>",
+  "PROVIDES": [
+    "libreoffice-af"
+  ],
+  "DEPENDS": [
+    "libreoffice-still"
+  ]
+}

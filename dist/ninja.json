@@ -1,0 +1,23 @@
+{
+  "FILENAME": "ninja-1.10.0-1-x86_64.pkg.tar.zst",
+  "NAME": "ninja",
+  "BASE": "ninja",
+  "VERSION": "1.10.0-1",
+  "DESC": "Small build system with a focus on speed",
+  "CSIZE": "114649",
+  "ISIZE": "293205",
+  "MD5SUM": "4a8194c4efd37544a5d351697bbb7308",
+  "SHA256SUM": "2f3b79175cc759271fd57e34079e3959934049661094fa98c68ec470ad6674ed",
+  "PGPSIG": "iQIzBAABCAAdFiEEjhmSFnRl21+wRVV8sChU7XU+Dx8FAl4vUjAACgkQsChU7XU+Dx+HOhAApJ2yjmdLyGR1M3GVZ51zhoR74TgsvcHP767uvlULQRd+EM7qU90LrhwXSTTewMlE//gfSi3/t/ffl0dPVTqr9gxMyUUGHt6Vscm044gxn5xYb4pHVClpLAwRo9cbx8QU0IhjvVLB8uRZNYusq/Ozg6Oc/x7wIbILF1xgNuG/yRQYcXKuACiJFeG/1cczmiiYXj8yV+QHHAhsjzJNNihQya3cRNlfoB8VLizNld79TRLcvU8JJeu/Jt9kDXVaEFYg4vpWv7LeySq27L4khFP1BG3xoM876tv8LKQrwXieCaT7YDDQBO6X/AibSySHC0r1TX3BhVpjzxhCmusDVr4nyzbaAOhaOEZV5+knQbCV4gq0R/WMRglwLrfNkwRHg7/w57zsBLVAqPOQmv1P6lvS3E+XU8wePdFEmCJ23TpPt+bDv625i7FRF6b9k3xp+QMfLPLIQyEHq17eqLualpkIjneTKmddT99G2EOoovB/iEbbui8nQYMrKyPO+Ky+xEpLdgLvIs+8KIgpQ9B4RmmZfTX9R0ePyDXYYMn75n9dpmLi9bd9oDErxUfjDuTh8nEyRDdtAt2Z4wWFPVIt1vQMfzxCdO2Rwq5F0TaP9kcacah3X13mSBziOw0y/ht96V+Eid+7Z3r1A/SciG97NXUylH2/i4cc8yAa81gnqWY0Vkc=",
+  "URL": "https://ninja-build.org/",
+  "LICENSE": "Apache",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1580159278",
+  "PACKAGER": "Anatol Pomozov <anatol.pomozov@gmail.com>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "gcc-libs"
+  ]
+}

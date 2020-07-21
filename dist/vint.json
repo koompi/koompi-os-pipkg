@@ -1,0 +1,26 @@
+{
+  "FILENAME": "vint-0.3.20-2-any.pkg.tar.xz",
+  "NAME": "vint",
+  "BASE": "vint",
+  "VERSION": "0.3.20-2",
+  "DESC": "Lint tool for Vim script Language",
+  "CSIZE": "147844",
+  "ISIZE": "950208",
+  "MD5SUM": "95f1909bf60689d519c5b9eeb7226e4f",
+  "SHA256SUM": "28a80e14737cb56cf5d63fe04486d1c5b743fb9ac2634fdf9d970b921d23f185",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl2/hmUACgkQeGxj8zDXy5IKVg//cI1Ug5mC02ZlNt7Y78PxI+g0mAVKgodFtdvqC5axIBkfq20eXkSe1Avs/81o+RdAm39/XUGuKEC50tYpw6GN3ARryH5ynTPTiBq7cFMtJ+vXUxWOvc5+3W0J0XAVymjUmI7gFWLIgZhGsrZm9jIfvXcaoL/dnkeoqS4PUTfgkmE1+xx9SJ5wojj1b69M7G7+S0iZV3EKSEXegXE9tVdTHimZjn/BmFNTzpuHIPP5317HvrhpbgzF2hmrZmWqa7VDP0fIoE5/KmS0oIFi1xMuoAw6rLnoTKHB8tELz6b7fEIM+t56QiZ1y032hKIYZtFEXdPFfiIVrQlVU2frzrD/UqL1OdIii/IIscGxpsMR3f/DqsoMsKHKfum2l8K+I9XwtT4ktu79Z0SoSIcbdO3hnEHHgnFnPJ2NmWiWIGqWsQvUdPF8xl455pHe9Lye7dkAVLJukchbzf4SaM82zCgEUuz5abHiEWyWjeeY44as+GLbIBQsgI5hbcKyOSG6zBfcQPS407WUmCPdAtVlFOFZ3AsMOI8ZvnzXveW+aarn8FLMzC5b3a1dxjVHrULA9kBboOZhg/Ezz5aW2L5fZye8up0OX7H/rGmY/jtRPH8S9MsjeibgXeiHsUxBimVS174eL3/MDYV6edZNFAIMNaJ0HlWm8+ajE5wJPydTsNPOxYk=",
+  "URL": "https://github.com/Kuniwak/vint",
+  "LICENSE": "MIT",
+  "ARCH": "any",
+  "BUILDDATE": "1572832836",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "python-ansicolor",
+    "python-chardet",
+    "python-setuptools",
+    "python-yaml"
+  ]
+}

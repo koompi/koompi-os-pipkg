@@ -1,0 +1,23 @@
+{
+  "FILENAME": "dnssec-anchors-20190629-2-any.pkg.tar.xz",
+  "NAME": "dnssec-anchors",
+  "BASE": "dnssec-anchors",
+  "VERSION": "20190629-2",
+  "DESC": "DNSSEC trust anchors for the root zone",
+  "CSIZE": "3124",
+  "ISIZE": "809",
+  "MD5SUM": "1d9e53afd169efcab052def4090dd3d7",
+  "SHA256SUM": "3d3bb1e9401db9734536c4b4e7a8da9cd40a76c08fd9fc7964d654f045064942",
+  "PGPSIG": "iQEzBAABCAAdFiEEhs/8qRjPOvRxR1iAUeixSKmZnDQFAl3MOroACgkQUeixSKmZnDRAdggAhkfkEeaiau2KfR9FxuqsPCLeecqbEbvy3cArbTi93H+G18jfoAX+TzCPu8MGMtXCkWqv10x1na5ahkRIahd3vu4XLJ+pm+lrmGAq3LgcNqfkxv7XlSyPHsKwKVW+cQLE89GmaJ3iybci0T1Fo3k/2FnAju+WMgIC3jK1VcDfreyt+l1Zwlixewx/wLs8QfKD1tIU8h1W82rkMs2Hi5G5OVIfBdSQfyduu9REjDmfYxTFV1hfUjzUdU6dun4O5CRwa2BuhWcuqfhVMlBe9zBUGd7LvZdJryxnz90mhwpKp3Xx546G8gOu17Sjot+OsaJYtFwSGHI+eM0655REbYoQ/g==",
+  "URL": "https://data.iana.org/root-anchors/",
+  "LICENSE": "custom:none",
+  "ARCH": "any",
+  "BUILDDATE": "1573665449",
+  "PACKAGER": "Evangelos Foutras <evangelos@foutrelis.com>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    ""
+  ]
+}

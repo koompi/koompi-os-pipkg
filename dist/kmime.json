@@ -1,0 +1,24 @@
+{
+  "FILENAME": "kmime-20.04.3-1-x86_64.pkg.tar.zst",
+  "NAME": "kmime",
+  "BASE": "kmime",
+  "VERSION": "20.04.3-1",
+  "DESC": "Library for handling mail messages and newsgroup articles",
+  "CSIZE": "174638",
+  "ISIZE": "611263",
+  "MD5SUM": "40921715f5c65092b7d7a428ca2fe329",
+  "SHA256SUM": "8f074b55cf1bc608adfe53996231609a6a80d9f0899773408a609f8be79af725",
+  "PGPSIG": "iQEzBAABCAAdFiEEFRnVq6Zb9vwrc8dWek52CV2KUuQFAl8HArcACgkQek52CV2KUuQmJwf9F8kRIuboo3d+pefEKNMIm8BfDrS8H4RL/kCmrEWOLAH0FoyiSWuIwu8l162zqB+tu/tjQ1WyoB6pLWm5Mm58t3CGj/da+Cr7ECuedhBQ5rMli2/db2KbE+6NJ7/FPT5ic2DGEHofFtSs/nSP30EjRkmQWjq4XClxi/28sSnjgbIOYphFkIEri2x2MRiPRuc60oRViwWai0ZdYOubCXJsX0RKJ6nH/rI0Epzki9XX8Jx49KXL1iMtEHQ6qQyXt7OYIzyDHOqPqObHe75joDDznuXqELjToCH9oMpbNF3QI7jdcDKqlui3gBoqorPua/gp2h2559mojuDEjgUVFmXCgw==",
+  "URL": "https://kontact.kde.org",
+  "LICENSE": "LGPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1594104189",
+  "PACKAGER": "Antonio Rojas <arojas@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "ki18n",
+    "kcodecs"
+  ]
+}

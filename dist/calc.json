@@ -1,0 +1,23 @@
+{
+  "FILENAME": "calc-2.12.7.1-2-x86_64.pkg.tar.zst",
+  "NAME": "calc",
+  "BASE": "calc",
+  "VERSION": "2.12.7.1-2",
+  "DESC": "Arbitrary precision console calculator",
+  "CSIZE": "886747",
+  "ISIZE": "4625349",
+  "MD5SUM": "1d395c0485e35ab3c6b7319360b529e7",
+  "SHA256SUM": "8dd51a26750191711fa3c6d0f17225324298c7459c6b0432c67146e26e1a3451",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl8ErlYACgkQeGxj8zDXy5JUPw/+Pw7lkwjDPipZAyPVeqoNPHBpkWXl/867TmDmwkZZYetkYRBlXgA5NCwXFyq+DsbbhkkScNNRL3N+hU4Gz34EE8TnCVxG/NQKj+RsaUbhP07KIwQ+L+99pYrb6RUQsaclJvMOYbxM+tFJnRbd9mMCwx2Ljd9FcpsSrNTTwu/iF8/HCoei3e184pGqALeFNNOFCvbpTQvVXRq3vvHI/LoeK9icrQNIxKBSJQ3hozrRJxnHyiEERajModgUASvUrT+E87CJqx+J/PpuwS7wUTmboQLWHYeVroqwiXu+d+Tea/+l0z95lpVWeqHHDG/Qswtm97puATxVCYbRSGlN+TTfDUin0VCZRU55MZev+OlXSMKhFntGr7gso1BjKksqJJIFrKj6bct/pJ9ViGGAr+LxO19U3Hxyjg/KNbrdsk7XR3FCwMKKe99OizrD3DuR5qE2gEpKg/FSdFSINN5zX8ZMMVVkEVHmwaarfOB7rUZFWOinZJoK6sD1BdQs4SEjhF77fh5sHFPtE8jtJHhZC40cwVReG6NMVZJv6r0uUhzT+d2KhYhLCp393ljLPo/5denfe4N4ZXwIiTRKohGiezJy+9BcknjdFoDv12TcFXj5LnAtEbDQKDTr/zmrZkfhqc5dPv1ZM4wM4HTMpR0y5nWMCMgvN8/dRxm7PjLA7xciyn4=",
+  "URL": "http://www.isthe.com/chongo/tech/comp/calc/",
+  "LICENSE": "GPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1594142125",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "readline"
+  ]
+}

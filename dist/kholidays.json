@@ -1,0 +1,23 @@
+{
+  "FILENAME": "kholidays-1:5.72.0-1-x86_64.pkg.tar.zst",
+  "NAME": "kholidays",
+  "BASE": "kholidays",
+  "VERSION": "1:5.72.0-1",
+  "DESC": "KDE library for regional holiday information",
+  "CSIZE": "379807",
+  "ISIZE": "1072081",
+  "MD5SUM": "478860194f00f2bc4353b41aea29b965",
+  "SHA256SUM": "807bb72444f77eaa61a4a3f5a803cacc5d6497a1714b6738e7e6994c0f323444",
+  "PGPSIG": "iQEzBAABCAAdFiEEFRnVq6Zb9vwrc8dWek52CV2KUuQFAl8JYb8ACgkQek52CV2KUuTePAf/bFqR0WHOPW1SZtWqRpD8CYCw+vlpRouNHU6zZqLbSHbmTCEicIL2kuGIb+7/MlLfaYcFXK/sFDrnCPPvQK4aArsodjGcRrLQ1EV8cui1J1ToAWewKpfqwsrMjmDHy088TwyVDj3tSd1d8bORN4j4HJ4KGXaaW+WPkfJKQQgP//Op2a2yTdK2x6S7ardhcBFUOUzAxByLz4hg56esqxfo763vn5UnKWZXiim1eS8JdmFUQ1RXptEpNDKFr5upn4TuNX7ZGHhv5KjYVupDnzcORwO7dgiGpmrK1AJEtjJeTazdU+nPDP90KUHWOBd6lTC9xYzZuYyfNiENK509lgLo3Q==",
+  "URL": "https://community.kde.org/Frameworks",
+  "LICENSE": "LGPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1594203406",
+  "PACKAGER": "Antonio Rojas <arojas@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "qt5-base"
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "FILENAME": "uwsgi-plugin-pypy-2.0.19.1-2-x86_64.pkg.tar.zst",
+  "NAME": "uwsgi-plugin-pypy",
+  "BASE": "uwsgi",
+  "VERSION": "2.0.19.1-2",
+  "DESC": "Plugin for PyPy support",
+  "CSIZE": "20619",
+  "ISIZE": "88728",
+  "MD5SUM": "8452d71aa719b2fcca570d68806ff556",
+  "SHA256SUM": "56954a9bcd4ad106590207f25c148d54226e00b403484ba1451e9d83e3c889f2",
+  "PGPSIG": "iQEzBAABCAAdFiEEhs/8qRjPOvRxR1iAUeixSKmZnDQFAl7viH8ACgkQUeixSKmZnDRi5wf9H/cNONgYgLbBGZaqSWtuYpHlUI7myyU9BhtRqx2dKpKeXw4BkCFAt+60ZNEuwEvanhhMZSOel4o+3dVaroMdi1LB8P4Qmu4rJqXmt/lgumPb7/pL449c0Q8kfO4gh/Jm/jYlPq6aklK9D+IXwsMkkqVMn5eV9ZBPSBmTNCR03rCR4ZNajcenql6ZL9+rUj4m3C+AvQIWk8IFsKccYkUTnbLHmyWpbL4g3NwPZnc6XAY33Y04+2uSfySOSJLLUwPsafugh6hYi/9Zg6Eiqg+agW0L3iO2k3qsbKPoORoZGfimnWgpbrW26zwpUmrREcj5oth6ha37/LAJKkzRrZi3SA==",
+  "URL": "http://projects.unbit.it/uwsgi",
+  "LICENSE": "GPL2",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1592756215",
+  "PACKAGER": "Evangelos Foutras <foutrelis@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "uwsgi",
+    "pypy"
+  ]
+}

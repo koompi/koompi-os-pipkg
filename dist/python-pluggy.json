@@ -1,0 +1,23 @@
+{
+  "FILENAME": "python-pluggy-0.13.1-1-any.pkg.tar.xz",
+  "NAME": "python-pluggy",
+  "BASE": "python-pluggy",
+  "VERSION": "0.13.1-1",
+  "DESC": "Plugin and hook calling mechanisms for python",
+  "CSIZE": "29408",
+  "ISIZE": "128174",
+  "MD5SUM": "8a7bb9d5237066d0d8c97a9209ba9c73",
+  "SHA256SUM": "bd31822d91070ff426a51e3307da4cc278fb61ac502ea71f96ca4350bf8d20b7",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl3YF4gACgkQeGxj8zDXy5Ktyw/+N+2ayitZjJ9dNkh18TOj/OQI+XpBE0gYplaAODAfn305zkanwqXVHBpwh31GBF+9f/nyWddojVXVylsfIi3vcUinZ2c95NY1wiaEKkMiKQal2tUTJ5XZXcpmOKqiKvIiYNaH0Jwmn/6IK66+JlXvDrWGJl2o/qXaK193vr15mzo5nEodjZjhEWlA9bEudEe3GLJ6kwCg3Ac0yubS6CZBicv5paOkF1STg9lwy20AdIuBNmu+mqtxpHi5ej/R7o4EOUvrBvpJySwO6B9t06iJv92u9oQa8gpO45N2YdUuAHGQ1NwJlre7dnhWiRHXfVAOkYYOmztPOsbxsZP54a0QRjP/qXpdPK7VZ57IEHqymlvWthThOwijhc/9qyV6MpPGEg6Os79SgagCxuup3qDymBL9kT4/TkvHcRbdcSVRPu0Dhm3o0F6N9dRKyfTgTyhWxvykbqZk0NtXZQEdEmqE1UImKy3D7SVAQgM4cddoHZn82bMLU0T+/C6ccohWrLOolFRODApTgGUro3CONtxMfeNTSei2XfbgoBX59MqvGjbZNQeLt8EcomnoZE1E18C9zXWIxjHcwtqqOeXhuBJ1ermORdhRpeEV9HC4d/QCid/39TV4JJltxZg2jP9qGr2Gsr5Rzwo7paBfjM0HYM41/vFn5Rrp7HTS+0nt+uaHV/E=",
+  "URL": "https://www.pluggypayments.com/docs/python",
+  "LICENSE": "MIT",
+  "ARCH": "any",
+  "BUILDDATE": "1574440619",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "python-importlib-metadata"
+  ]
+}

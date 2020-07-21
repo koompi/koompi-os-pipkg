@@ -1,0 +1,23 @@
+{
+  "FILENAME": "enjarify-1.0.3-3-any.pkg.tar.xz",
+  "NAME": "enjarify",
+  "BASE": "enjarify",
+  "VERSION": "1.0.3-3",
+  "DESC": "Translates Dalvik bytecode to equivalent Java bytecode",
+  "CSIZE": "186732",
+  "ISIZE": "4729754",
+  "MD5SUM": "b0935d89ee0497dd426928880262319e",
+  "SHA256SUM": "12a89e856ee9564dfb16384443c1bc414367e9ff9ee08c8bcbdeae27f9982c35",
+  "PGPSIG": "iQEzBAABCAAdFiEEhs/8qRjPOvRxR1iAUeixSKmZnDQFAl3Ib4EACgkQUeixSKmZnDRNmwf/UHNs123JqCuVrjc+r4hJgbUm4ULQXnkWjlVNyFdyHdbxyYgLyp4d9f/g4sNTn1bLo7FvJlFcbxzqfUdmFCPS0udqbS/guc8zz91BOPP3TTNkD/VQYybGI/j6Aw+EewwKp5jxUqmCS68/TjKDkfac76oX+g5PBZJhZxlzuhsl2dIHIuw2UdGHXDFyCuPXzd2/cdOQcxvsMKiJpSf9B0rcZPCjgE1L/nbQ5c14MTdlXRiD3n59R5NrweLOdy8izcvpkzplC+MwMix9DZV2/roI4kkI6R1M7qhQ08aJqkVKs4kk79j5AP4r9ti5m0DfoED9OuUrn60LgzA+5gDzsAWQyQ==",
+  "URL": "https://github.com/google/enjarify",
+  "LICENSE": "Apache",
+  "ARCH": "any",
+  "BUILDDATE": "1573416783",
+  "PACKAGER": "Evangelos Foutras <evangelos@foutrelis.com>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "python"
+  ]
+}

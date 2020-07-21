@@ -1,0 +1,24 @@
+{
+  "FILENAME": "python-typogrify-2.0.7-8-any.pkg.tar.xz",
+  "NAME": "python-typogrify",
+  "BASE": "python-typogrify",
+  "VERSION": "2.0.7-8",
+  "DESC": "filters to make caring about typography on the web a bit easier",
+  "CSIZE": "19860",
+  "ISIZE": "84488",
+  "MD5SUM": "6a6a31003ab2b6d7c5eb29824a07c223",
+  "SHA256SUM": "8de79551ab8f03a82a3f36653e20919cc5ed4df12eaaa6b197c78a7b11d2079f",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl28OlMACgkQeGxj8zDXy5IE5A/+LBrBeKOphstuuAG6tOoWnHZ/YQybyHY/U8eVndtu9FBo9VTrbmA35775sk/PI4mlJ2u0C5L9q97vvw1CYaIZmM1g1j/rHX1bvUngsfsD2hcQ0daSvD6gXDYknELO2n5GCxkNnu/RUyGgi7YERdu9bJ/we5BOucWc3XqMDhulDSCAdbCg04Ko1lqVn0reAssk4e8cleNplIcCLF7PvCfNA4EVN7Uc6FXOK1DSU8JK+eAqLeSv2iM4RkotB9fMaLpqC5HpoarykjfUGRW8ITn9jt/Zl6/pqcJP6C5988vlbCqJkG5m780U6ZtvjmRlKQSgfdqK5tluP/N5SkKiysLHHECtQXuejKJRtudmPzv/lc6KBXAx4XsH5zZ4ycbxmtgadCA79BYUyIHQi8tIr8H0VVpb9e4YsSG6WWZDd5pJ6FAL6Sl1V4ILU4rU2ON2hENzsrrEoNAcUQZT6j8U8bCEDuv9O9M7cC0gFAHq++m6UKjZqNjmzuq8SBAQL8I/zohQSEO+K+VKTHQoR9IQyAPLl4dlRVt+Bqy9UWuNfWnss33uCrnwBVQwybDP61fytAB1dVtsiAtsskGnPm9NK1Z/SxUwUreKIXnn32yytd0r2sdvJ7DgYnGPMC+c0O2AkZQwjkav0zSiMzE+xiq8ZMj9fyeOkR4e2fRJIVhXtM4yr1I=",
+  "URL": "https://github.com/mintchaos/typogrify",
+  "LICENSE": "BSD",
+  "ARCH": "any",
+  "BUILDDATE": "1572616755",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "python",
+    "python-smartypants"
+  ]
+}

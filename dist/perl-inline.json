@@ -1,0 +1,24 @@
+{
+  "FILENAME": "perl-inline-0.83-2-any.pkg.tar.zst",
+  "NAME": "perl-inline",
+  "BASE": "perl-inline",
+  "VERSION": "0.83-2",
+  "DESC": "Write Perl subroutines in other languages",
+  "CSIZE": "54246",
+  "ISIZE": "113208",
+  "MD5SUM": "b3123c833ea0886438272d6552f7cb41",
+  "SHA256SUM": "ebcf91c79a9ee2a9961792582fbdf23985cafe960c4b0f1e89a586623447f2c2",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl8EtLQACgkQeGxj8zDXy5J8XRAAiDM7N+duOdl4XCVz832+dm9pXHLHV8wXs6c+69qd8oqZNhPlWZgW+xayU/6eU+DGxxXGJ1CuY3xGJp5Z9LFPfXoM2seUlHHlP6fY9wDVPTHsyerl+wq75kcAfIU6xO606B11SOqEYmBBnwQfmMSsTUE8cKUQ1XPRMKqiiX59yBgksviCcbnrH6iFrr/tN3bJclBbwlAINoDzO1OPZs7XcKsR2V1PrtgshlSFFL/DMDOSG6w/zgNxh360KhP4J83W500nLVq6AtM3bT1drBlo9Ck87SjFKi1+ongnuk/87gy7BFrqH5PU+Y9LZcvCDNIsSdqDM2GH40un7fnxhWBrt+ZrB/toMXsEQmMLRLNb4lNXEoWblxqUe9PY7BCYBvSw0/6DeMGe2cmL0sQDD2anl6bbe6Tg1NIzPBMmvxk+obPJBIPOz5WLIDgb9ay/SbG8iYlNVddJCIXGLCEql8Ll4HGpaTn9Jij0I+SSBaG73HWJr/CT/F8LeC4zlCk8vm+sGikySxQSNtbQKqEKWf1D7fJ3ONqQ50rec1+69jIEvnuffeNkm+jKsjRbMl+kWH96SW/NBP+XECtYZmcZEAl35y8Xlo1uOCSIujYWd7R22Jf0Oy8RyOCXPiGQolcy2u3i0VKoxgTPbjvRC8Au/MRCDHSW9kwvMX97Xt3iZoVbxT4=",
+  "URL": "https://search.cpan.org/dist/Inline",
+  "LICENSE": "GPL",
+  "ARCH": "any",
+  "BUILDDATE": "1594143882",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "perl>=5.10.0",
+    "perl-parse-recdescent>=1.8"
+  ]
+}

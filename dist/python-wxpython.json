@@ -1,0 +1,24 @@
+{
+  "FILENAME": "python-wxpython-4.0.7.2-1-x86_64.pkg.tar.zst",
+  "NAME": "python-wxpython",
+  "BASE": "python-wxpython",
+  "VERSION": "4.0.7.2-1",
+  "DESC": "Cross-platform GUI toolkit",
+  "CSIZE": "9015941",
+  "ISIZE": "49632325",
+  "MD5SUM": "c94521523725ecc2eb7f00fac65d9796",
+  "SHA256SUM": "70dacaa71a0e6113d377f3a0202444da5bf0481e82bea106dae201c0e1c0af94",
+  "PGPSIG": "iQIzBAABCgAdFiEEwQA0ZnZjToDJQPuenAL/QZ/svhYFAl44kxYACgkQnAL/QZ/svhZ9nw//RYap9s2RhY//fY0MAuzYN4x9ocy7TwxFw7AdrAhAozV//1UN0SXtRQOPeGSws3/HbkciaUCZWaOGuWvydEfO5DirN2DjXDyqV649WtWLUVurxhtF/ER3eeR2Qbvh8/loam0VkDviQ0k4i44Ng8YeJpaP0/B6YULSICl5XzlhDMPqj4bQY0s7heEOEr9Yw00BM3jwEDCqBj245FyzW20mB//1uE2JXdP0zqqLgzpHBaJOiT8hk2VMfHlOvOS9cFas+DHH3df9QmcrkjMCAXajp+xyLlLujmISRlXfUEhNvUk+eonj2xsrwG+I/f+o5AQgWPWx5f5MNegs4C1rI31O1bR47V6e5KGeCP87Pq9GNc5OqEpMjDvyEYGRu2BVYboZsheV1WDxPHceF5iJjRTbulU/Qllnq2SJUFb1OCQc0WzfPJ5PCZwoWj189eKRu5OQsdW3Ae9W1Fy3TNMhO7nGYtmj0sa+O+SgXZu9hZx5mMLmBaQ7ghPZcc96dzx8XT9CjFUu2wBOzqyeVEVmgbXFaAM79XxId9GlXTl9T/VY/Q7jUDi+T9GztXuxRc0JEL40EBzbN0h5HxoTVe+YLvT7uUaneeW32YMSi4b/gYYDR4O3L0Hgz8dNrr+uYljntFOPZ19AuT/aJE1jdvCbX0qsGSFreCvIUk7nEu8qiKdC924=",
+  "URL": "https://www.wxpython.org",
+  "LICENSE": "custom:wxWindows",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1580765004",
+  "PACKAGER": "Morten Linderud <foxboron@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "wxgtk3",
+    "python-six"
+  ]
+}

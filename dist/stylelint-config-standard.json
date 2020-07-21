@@ -1,0 +1,24 @@
+{
+  "FILENAME": "stylelint-config-standard-20.0.0-3-any.pkg.tar.zst",
+  "NAME": "stylelint-config-standard",
+  "BASE": "stylelint-config-standard",
+  "VERSION": "20.0.0-3",
+  "DESC": "Standard shareable config for stylelint",
+  "CSIZE": "10118",
+  "ISIZE": "34711",
+  "MD5SUM": "498d2c68828d245386ec373fe09a3946",
+  "SHA256SUM": "7659a2081380f8bb85314153a5b48a2dccc06bc9b0ba6628abf39abe91f97fd3",
+  "PGPSIG": "iQIzBAABCgAdFiEEBNw/sURf7KgTwn766k97MhqQatkFAl7DeQoACgkQ6k97MhqQatn3FA//SENUoDMz/QQn5Cq0xRUCLF6OaV17hGeRuZXkMY6t+6PGQg1pvj4pFcPpyBtoxuggpr9W4W3B+MbGu2lCsGzZlcfTZR0vwzvskzS3hZm7qRv56nIhHYKLE1NvxoAb0h1rcCz2H2Fr5la5lALfgBEJmHyYJ8hGPHjO/kmJ2VzoHGIPtvsaKFOwW+QpC3qTEAyD6ZDCNC94d5zOP/wkf4tgN8dD6MHgU00vIHuOVhx4co2RF3M+UHmA3N2mNySt8Y+vxcOH11c/8B900Bi04Ph/Bxi5q5rYF+tqmhLrbYUPErI6ASZisOSWLxEiwac56Z4JjrWGiPrblP3SOoH73Hkb4FOUEykhyki8GnQMrlP5v4TexAOUdzLivmFfitJCHIJ1O3+YmFd+RejWxENbsAUmR746uwx7yQIJ6suh8cHQ81mAgrt/fwnjeG4wOG8lHom7VvelJGzNNCw8QeDwXYvMiS0b6BCFktF5nR1l/t5MDTLzgAFXb+Id4VsG60MaPqvOmQiwx07+W61HCV66oEEhu+ztIDKvrRLw7D1ge4IvvmdYvJkJct8jsTJtZQcI2Y+Mniv4YMy5kOHT4ApyTHoJCYOfylrhYdybzl7WUec2cFYqMfRJdopJo/CUzew2gqNvbghMCsbCCoCNVP5Hu7+94/tPlulmZr2iyJILK2nuLN8=",
+  "URL": "https://github.com/stylelint/stylelint-config-standard",
+  "LICENSE": "MIT",
+  "ARCH": "any",
+  "BUILDDATE": "1589868724",
+  "PACKAGER": "Daniel M. Capella <polyzen@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "nodejs",
+    "stylelint"
+  ]
+}

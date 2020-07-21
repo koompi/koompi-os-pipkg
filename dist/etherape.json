@@ -1,0 +1,28 @@
+{
+  "FILENAME": "etherape-0.9.18-2-x86_64.pkg.tar.zst",
+  "NAME": "etherape",
+  "BASE": "etherape",
+  "VERSION": "0.9.18-2",
+  "DESC": "Graphical network monitor for various OSI layers and protocols",
+  "CSIZE": "773526",
+  "ISIZE": "3085374",
+  "MD5SUM": "ee5697c59309e655b3adeff7d201a444",
+  "SHA256SUM": "ec57239bc7fb016337897826dc2bec904d163916427e6a6082bad21d0dbf2410",
+  "PGPSIG": "iQEzBAABCAAdFiEEzgvecadZqH8j8PfYth284QkBwWMFAl5o/GoACgkQth284QkBwWMVYAgAiN3a4gfAvPHsEniYJWuRcJ0hZkENeip1j6nabVkfuAXejqkpLKxwiJHbRcnlAeH+WWeB0Qq1Lt4heQzL9LwT2x8UcIHhI+0pOiAKNUzliLuf8cxsOpn26CcgXFgMGFYRGrVhmKG0Ku+dMoJzqOSW4bC7JfRP1sqOMarNb1PNWhIWtoZxowSPZXsdOPKxpZs6OZrUiKLcoI0nykGx3ucSrXSU2t613TAxoP9xwHPj28+2ucTPP38GM5lWynzzuCA54DAhW2pBh9Mk8oDuyoOigPhkbvrCuavo8g/XtulPO8f7CS/JOYt3Pzdftk4G5XsDvRTl/G25+NdzZjPRyclBEA==",
+  "URL": "http://etherape.sourceforge.net/",
+  "LICENSE": "GPL2",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1583938564",
+  "PACKAGER": "Balló György <ballogyor+arch@gmail.com>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "glibc",
+    "glib2",
+    "libpcap",
+    "popt",
+    "goocanvas",
+    "gtk3"
+  ]
+}

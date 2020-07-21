@@ -1,0 +1,23 @@
+{
+  "FILENAME": "perl-gtk2-trayicon-0.06-20-x86_64.pkg.tar.zst",
+  "NAME": "perl-gtk2-trayicon",
+  "BASE": "perl-gtk2-trayicon",
+  "VERSION": "0.06-20",
+  "DESC": "Perl interface to the EggTrayIcon library",
+  "CSIZE": "17003",
+  "ISIZE": "37087",
+  "MD5SUM": "4deb1bde6bc803c58aa8913ab80a2523",
+  "SHA256SUM": "a608a72ddcf868b3afb6df747ac7e658a493c1f80465a6b9e892941a2f7c56fb",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl7vhy0ACgkQeGxj8zDXy5LQnw//Z+sixb3/fOTlF0b1pxRbf+HQ8ycM824QSrwSqswBcre6di0qHBZdJkUrSp/2utVH6wwIxx76WXTVZeImr9SiUzxahYB0aSTb7OaTHaVBQhhEq6UChusI58iqtX1g+PHB73MmrjHePDc7vzhJoGDSC2Y/xr7AbE6ZRBJ4U3kw+PBBHGTGTufw/pzu4o/1OnadFc45RhpOV7uJu7KjwzAyYw3l0aWc4PuNvmdjBkE8nZ17nYEspuq7ocj6IQCAdU8EOQd3fGQlIqOqG0cXyh2WoIOIEVwi2ugoh1qkvMhSHjiGnSIEBngKtpAVEepDcwMLSPI3uYQSPN0aqro504OOSU/nQ34/15AB3u7KumClOLoDMiFSUj3HFt+gvNrnTYDlhWCoz+5CjmI9A3P3+Puu18o03wMqXwimWW0RCGA+LjIu2GUP+CwcYGBllK4KqyRnjEVBkO/MOqcKlr2NoiBh5ddqLpN0tq7IZazHmleZQin4jKRjzd9a5w5xV2TnGzUi1XpDnuhO4gDjbpNoD6goDYc89fHUVhBk9Y1QB4g237AIDswlTd/qUm7N9V2k9nqruFPGx3RrhbtU29RQ13d7MNcJ1Svd1pC7ZLOmbJfViE91c3PI13c67UIDWC80O717i42JrBEGa2FVOYGB2QXZIDYJXNVevn8jGxxvtXxzNQI=",
+  "URL": "https://search.cpan.org/dist/Gtk2-TrayIcon/",
+  "LICENSE": "GPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1592755749",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "gtk2-perl"
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "FILENAME": "haskell-chell-0.5-42-x86_64.pkg.tar.zst",
+  "NAME": "haskell-chell",
+  "BASE": "haskell-chell",
+  "VERSION": "0.5-42",
+  "DESC": "A simple and intuitive library for automated testing",
+  "CSIZE": "102582",
+  "ISIZE": "481530",
+  "MD5SUM": "f40b64ee55493772bc220e8119da8189",
+  "SHA256SUM": "f1f797d26cbf49a67c8ad5b68437e33006468d566101bca5071c6eef56a367ff",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl75Af4ACgkQeGxj8zDXy5JsZhAAsGm3FlafksvLKYD0VeORKhbfVGDNqOOjq/rmsGMvHggMKvkm43jYTMCGnVYs8yBM6xFZSt7lbHPqtN23XMbZWImwzPn+SJZrG3vO50BGtGTj0U+7wAadXYHLeyttjWBp1Pymw808ZQbfyBdWNK4WfWXrrVVanKjzCh3k3jr7ucJt2u1bJDWFL5rnWdK63eJoVEn9AVBXm9ekPIbcXdl0I441Tp+kbNSzRkv22wXVwE7R5AsXqXX+7ErnAUFtEQO5EkhkYCCC+SM7fCLKNVeXzhj0zx/j6+7cf6WNZSvokimJ5A5id2rZzbTKNLENYrVIjEKfQDos8CFienEBu7aSFvJE3U90z6PohaCk/Dqe397Jdt5aM96kwBBnXQP7DbSi/a/fF0E+pgD9uPYyPI7jMaEqlr1JKYNospFfOaAEIX2fCnpaavfu2JKywX2hOMHZEEki6qNVAvA/H/ZF049hS7QHbg+hm8IWNlmRSPUiuBnoAsEHgZDtEvHACYM62Yh9zIYroflcAsBWHZ0R41ZBR4pnKlwOKkqx5TXwtpfi3H4X/q5/tR5bVhVh6jApewiqZTqJFQPE5Vi9dt/pYD/fxEome7uO6vrpfOUqYIIevYAlt3s1UeE/FijAQD2o2l+k0a6GQgucXyxOcfqvMFMiNtBeFIB41KR1E+2fB83gvr0=",
+  "URL": "https://github.com/typeclasses/chell",
+  "LICENSE": "MIT",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1593377246",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "ghc-libs",
+    "haskell-ansi-terminal",
+    "haskell-options",
+    "haskell-patience",
+    "haskell-random"
+  ]
+}

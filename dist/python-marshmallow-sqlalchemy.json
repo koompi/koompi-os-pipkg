@@ -1,0 +1,24 @@
+{
+  "FILENAME": "python-marshmallow-sqlalchemy-0.23.1-1-any.pkg.tar.zst",
+  "NAME": "python-marshmallow-sqlalchemy",
+  "BASE": "python-marshmallow-sqlalchemy",
+  "VERSION": "0.23.1-1",
+  "DESC": "SQLAlchemy integration with marshmallow",
+  "CSIZE": "28408",
+  "ISIZE": "125373",
+  "MD5SUM": "8efed9cb94fecd05b76542b6ccdfb3df",
+  "SHA256SUM": "c7ba46b4e82ff065007c349ff23c3cc41dc3249bf63441f95177b4cafcd825d5",
+  "PGPSIG": "iQEzBAABCAAdFiEElDfdOBWnqRaePTlGr/XZUJi8b/UFAl7S5hAACgkQr/XZUJi8b/XxvAf/fBRHlevVewyDfoNenD4yxIm0n2IcFwzAoRnZ0OH9my+4zEyjXXQkuEdHMWv0vBITOfZbP5NTBaZuD+cskzKXjYwNYtSpuPFDh5Tfq3iBAh8UGfO1LhEnsSJ2CfwhG3TwdUfeeOLp36va7lya5acAk5bnOS/RX8GDIBCRpE7dsX9r4nuHBETDw4lcq+Qg9R2o+TImOpiy3W6nXZH6eiZKsnqS17SvoJdxGxaFY+2I4qP6PL9PjPFWkkcDfJwv95c9DG2HL5VNooIcOXhaD3YZas/jYnh9Vd1KsHsL+hDKHvXXQrYA9C36swLHIRMmqwUib60rljDMLMQycWVNTIVDRg==",
+  "URL": "https://marshmallow-sqlalchemy.readthedocs.io/",
+  "LICENSE": "MIT",
+  "ARCH": "any",
+  "BUILDDATE": "1590879743",
+  "PACKAGER": "Maxime Gauduin <alucryd@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "python-marshmallow",
+    "python-sqlalchemy"
+  ]
+}

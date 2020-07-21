@@ -1,0 +1,23 @@
+{
+  "FILENAME": "xorg-xset-1.2.4-2-x86_64.pkg.tar.zst",
+  "NAME": "xorg-xset",
+  "BASE": "xorg-xset",
+  "VERSION": "1.2.4-2",
+  "DESC": "User preference utility for X",
+  "CSIZE": "19896",
+  "ISIZE": "40733",
+  "MD5SUM": "b948e96d1723a811328527f96d6cca97",
+  "SHA256SUM": "85a188ea0084f81aeba2d6b6fc3e09049de0d8ec8244137e64fb94b46fb11b3a",
+  "PGPSIG": "iQFIBAABCAAyFiEEZkWwqMcAXnjbHXhk+Z/+D+rpmb0FAl6zd/oUHGFsbGFuQGFyY2hsaW51eC5vcmcACgkQ+Z/+D+rpmb1tsAf/U+2eD4rXvEMqiu33IHpfdZmIsJyAKoel2ErylYAdS7BcBSOZMmWUeH9DhInxLQ/UCoWQKBUWMNhXl/ijrpgIlbh3rgpot8wxlPafG2gvNsCyNfdmLPRwkrjJ0G0A9WKvrdPxs1G95O31q1+mlNd5NV6up1lqUBU937A9zuVLHMAOFOXeBRYIXkYC8TBZTTPdHhcFS8jcazlkzJZ8FnHq2UMAqsPnx4N20XBDkRo3TwJQb1RkShxuZcXHwG7JGkRcNEeCqyJkVlmaKYDUphgZvOV4Bncl84PBwSWMGGEXHvCIIUQ/VrmKgtI6kJ+OJLho0wV/A5IlzcyratyuB/0EEA==",
+  "URL": "https://xorg.freedesktop.org/",
+  "LICENSE": "custom",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1588819933",
+  "PACKAGER": "Allan McRae <allan@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "libxmu"
+  ]
+}

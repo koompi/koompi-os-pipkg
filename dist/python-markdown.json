@@ -1,0 +1,24 @@
+{
+  "FILENAME": "python-markdown-3.1.1-4-any.pkg.tar.xz",
+  "NAME": "python-markdown",
+  "BASE": "python-markdown",
+  "VERSION": "3.1.1-4",
+  "DESC": "Python implementation of John Gruber's Markdown.",
+  "CSIZE": "114108",
+  "ISIZE": "472642",
+  "MD5SUM": "7945d434df19a36a8062b39751f466fe",
+  "SHA256SUM": "55aa581fe81c21342a57cb191d762ad4b761bc0322e12fb0f56946587bb30cd3",
+  "PGPSIG": "iQEzBAABCAAdFiEEhs/8qRjPOvRxR1iAUeixSKmZnDQFAl27JGMACgkQUeixSKmZnDTOgwf+KfDSkKr2fW/KbPci3JZAdlP3mgPK+/yYgRo+n5InG6xh0bNCqgeVFXxinQt1dT9+M6DiAGW9HWhzCPIzSx/k0dotFiSWugSqJg7I4JRmSj32KuykYp2OwrCTKCsaD03TnYrZzPL4furswobYtSosMrjPk8K1kBbPkkq2VmK6PB98G3a/0aIi8V7J1tCm0b0W4xHRZcqtyFAOZaqtg/C7wiWhWP6WHxrW2XzKHLLlHfSkzDuVdpdiPNReqTjxKblwpKztbx9coCAsr/xNzMari/n4qqEz1px0eXyOMXRsiDH52RP/uKdv/ntIkEAiDi7peNM9yFN3JVyOKq5GNhx8JQ==",
+  "URL": "https://python-markdown.github.io/",
+  "LICENSE": "BSD",
+  "ARCH": "any",
+  "BUILDDATE": "1572545604",
+  "PACKAGER": "Evangelos Foutras <evangelos@foutrelis.com>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "python",
+    "python-setuptools"
+  ]
+}

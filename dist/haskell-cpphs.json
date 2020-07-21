@@ -1,0 +1,24 @@
+{
+  "FILENAME": "haskell-cpphs-1.20.9.1-3-x86_64.pkg.tar.zst",
+  "NAME": "haskell-cpphs",
+  "BASE": "haskell-cpphs",
+  "VERSION": "1.20.9.1-3",
+  "DESC": "A liberalised re-implementation of cpp, the C pre-processor.",
+  "CSIZE": "178162",
+  "ISIZE": "993344",
+  "MD5SUM": "ca78a37dc849a1f5ff4e8a8adb13346a",
+  "SHA256SUM": "5eb0977eccaf88f8f09587eedb26e47e5aea275a15ebb2c35a1375cd16c7773a",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl6hpn0ACgkQeGxj8zDXy5J8hg/+O2LifQLYHVHYqsAodbP5KL+gpox8IvG7yz1TeXCp17RcyPEhD6CYHg9MUG6FLmMA5vmWKF0XeJsEeU48hnbTVfvIB/KHLbAGU+mmw2YyNNzcEsl+c0BoS3sC3yZvTzcq2hYNEhz5wjicowZDolbxj3FzhyC5hhoHsvRKw55GTb+10Lm2wE7OufOEJRgWFThrOw0eZ9s7P8z9Yszr4dsQIZ5zgejX6y4D0Z2t2rZzDSYiUirONKqr54EkCvAL1Viw+uXlILQuj5hASsEN6kdR5Pm5iR3k0LvLs/BVf3t8O3Dci4qpYZdrq8iRiKs5eJ48pfuYY4lp6lbxGZ+vRuGGoeAtSo4BGcABC6YneKlJlq11qGCm5yLZ2laSAVWQcgQdiLlF5P6Spg9RUTXQia6a3HejpM+84o9sceEAt79tqEWDpZtZbtHG8nsIbvEyxXCcKwfd+M0LoqgHaQNbesRTmwYoQIVXhxHsWsWykVJXb8QRnOSpVYTQfmAPVw1NCplPBX4o7WSjTo9VtknYAv1SWNoDWuXf2SXEq7hqzANpvlcgnx6GLJO6icPao1yxe5N+VJIsMwF+Giup9gTRrAmEBbNO39xvUSViD2p+NUM76OA10nVxQkWZs+fMF8AQBB1svTFfCdWfKkVUmQBVvhw9Tv5ppuanOx/tSeIY+SDNqDQ=",
+  "URL": "https://projects.haskell.org/cpphs/",
+  "LICENSE": "LGPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1587652128",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "ghc-libs",
+    "haskell-polyparse"
+  ]
+}

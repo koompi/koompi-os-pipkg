@@ -1,0 +1,23 @@
+{
+  "FILENAME": "live-media-2019.11.06-2-x86_64.pkg.tar.zst",
+  "NAME": "live-media",
+  "BASE": "live-media",
+  "VERSION": "2019.11.06-2",
+  "DESC": "Set of C++ libraries for multimedia streaming",
+  "CSIZE": "1600866",
+  "ISIZE": "13953981",
+  "MD5SUM": "5a1505f4c2ab409ad972cc5f1f5aff9f",
+  "SHA256SUM": "f7bffced141121c89abe18fce4de3261f0d6ae47a3b04218f3f0bccec25cf92e",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl7AWHcACgkQeGxj8zDXy5JW0hAApdoPIxqMqys88V7Wh9Ce6KfffZT+kB5Gt3k9Eif8bsjSyvtAXVMYEQncYoSX0C20PxnTNdzJbuu6dZIEh+F7/60X+3yGfNExWB71fVbqZ2vf/wUhCE0Coq78mGRIIaBKaqPiylAeIKbuwRF6LC6PnbL6hvNItp0RfH7CqE6o1wEr6cUZ/s/lVQJKJhjeeC9dmRy1KQHJDHz5RYmIfxeVW5M8z5asFOQ/3lElCMk5m74MtEPcKUqGszN3RkYDitpe3Eg339uixRwNJRnAOmCQHNBLG5fPF0/zQWH/AUlYd32eEHC3Gp58pZ5rUhpGBbOn8kAr8vSH6MI4l5hRa3qr6vWUHDDrRSawW/VHy9QLS5oWEBo8cTn93YuH1OxW1CMcsXduWbx1GjlpvtA+7ViyP14bkaMOYmDU4rvJUOrtMdMnmo6aTaE4yNB9WTtBEX9Rzap9nUL9wK4W3DJPsp4GyRhEh8HUvTW2Zv0JQBA9yi1lAjLmMP540zCn2d14Kk0kWvDRrdvswz8el+b8qjyGfvtFnKxvRq4eUaoEuy0sDab5kPNBzlyt4HPcnaRln36G9bkssjNZLTYvC+1DrclfIQO8/qoA1vv5JqSOkGsl2npobsPjnKPvQYhv36JsctPl63Xnn9LVkt+jvIHjqnbQZXtz3M2Lax24O5aTb2Bu7no=",
+  "URL": "http://live555.com/liveMedia",
+  "LICENSE": "LGPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1589663831",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "gcc-libs"
+  ]
+}

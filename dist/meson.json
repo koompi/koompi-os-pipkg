@@ -1,0 +1,24 @@
+{
+  "FILENAME": "meson-0.54.3-1-any.pkg.tar.zst",
+  "NAME": "meson",
+  "BASE": "meson",
+  "VERSION": "0.54.3-1",
+  "DESC": "High productivity build system",
+  "CSIZE": "1062737",
+  "ISIZE": "6136181",
+  "MD5SUM": "3decf067d99a0aea36ea5a320fc7a502",
+  "SHA256SUM": "6c5d6db8b14f00013b489915fee3e5d386900bb724c31c15597bfbb4d315941f",
+  "PGPSIG": "iIsEABYIADMWIQQGaHodnU+rCLUP2Ss7lKgOUKR3xwUCXuo2MxUcaGVmdGlnQGFyY2hsaW51eC5vcmcACgkQO5SoDlCkd8fa3wEA9T31/O4wpBAMo54AInk6YaTnZg7m8ual5+XLEPvH+ssBANdYxw26Xu7fWflEAcXK1VGHNH1LsbgMJswuyJimqIYN",
+  "URL": "https://mesonbuild.com/",
+  "LICENSE": "Apache",
+  "ARCH": "any",
+  "BUILDDATE": "1592407371",
+  "PACKAGER": "Jan Alexander Steffens (heftig) <heftig@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "python-setuptools",
+    "ninja"
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "FILENAME": "solidity-0.6.11-1-x86_64.pkg.tar.zst",
+  "NAME": "solidity",
+  "BASE": "solidity",
+  "VERSION": "0.6.11-1",
+  "DESC": "Contract-Oriented Programming Language",
+  "CSIZE": "4168028",
+  "ISIZE": "23046624",
+  "MD5SUM": "c56a11460a114db56054debc605fe343",
+  "SHA256SUM": "ee558251e35ca57de9973a8613c5564eeda3ab67c1646c9f59f05caa85f6d2d1",
+  "PGPSIG": "iQEzBAABCAAdFiEEqbZxDXYPZhfFMHRuyEe2rrBUQWcFAl8FGg0ACgkQyEe2rrBUQWe/7wf9FA8bRWFawPTfbHPNHq93lduot6Wc0edORVXDYq/U0phpgT7vtd6fgi53Yw2sOcptWS3+NiQyLJMQjJxbzdBpKcGt1/bC7HCG/rc+VoVCpKb2GxycMxl6FS4DKzbIOpy8rWHwniZt3Gnlk2B4Pe7Fh+BB/l4kD0xkwYuaJZn3qKBgtJG+K5CvrcJpTNnWe7IpEPRPNv+35FCySKZ389nBF/obW2LEHdpa1Ued7R/qJrVopDVSCCEebOw3zfY9dkqTQk/7w4Wii20Gl6AiPsbEE/ZLC5KpZePvdthAzd+zgYqMggqoYQ7sosbsuVXxNdYYeNx9+I6tHfECnx7lQK0MZg==",
+  "URL": "https://github.com/ethereum/solidity",
+  "LICENSE": "GPL3",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1594169591",
+  "PACKAGER": "Nicola Squartini <tensor5@gmail.com>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "cvc4",
+    "z3"
+  ]
+}

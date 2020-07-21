@@ -1,0 +1,26 @@
+{
+  "FILENAME": "gnome-latex-3.36.0-1-x86_64.pkg.tar.zst",
+  "NAME": "gnome-latex",
+  "BASE": "gnome-latex",
+  "VERSION": "3.36.0-1",
+  "DESC": "LaTeX editor for the GNOME desktop",
+  "CSIZE": "738945",
+  "ISIZE": "3973306",
+  "MD5SUM": "665033d5cdd53a891b3bf0c795e617ff",
+  "SHA256SUM": "de43db9fcbd073bdd4d29667362ac6451b48313afe017ca8c5d9d17ff5a2256d",
+  "PGPSIG": "iQEzBAABCAAdFiEEzgvecadZqH8j8PfYth284QkBwWMFAl7OecAACgkQth284QkBwWMQyAf/cqi6FaGzr3+/8m7ayW37rdQrrs9YaFH2tIissIbwbe2w+1UNFWhXoCmEgRBoBReZfHk3ahZZMTOoIj07fnfbqgZPMGMH5m1fd5ruisvyz/AL/9Yu+wzKWDDQLyUfqKiv13C9KppT1moI/Gp0brbUgTxAogc4oEo2QK/GbY4a0lOXQAokLucT/tVfGl7lZrQjAG3ighqfMpJaAv3dTT4pFplvDenGpPqP+uzp3xVOsnRLkYURtG4wX+zbBqbFyMXoLb+YrXRmvBbqse8UrN1swWaMPVMwm6xg2DkI168bql7P5eMVLmBcz7BXHg6JhUM9t7eu2OMmJoAP0ZoDo6/uwA==",
+  "URL": "https://wiki.gnome.org/Apps/GNOME-LaTeX",
+  "LICENSE": "GPL3",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1590589813",
+  "PACKAGER": "Balló György <ballogyor+arch@gmail.com>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "gsettings-desktop-schemas",
+    "gspell",
+    "libgee",
+    "tepl"
+  ]
+}

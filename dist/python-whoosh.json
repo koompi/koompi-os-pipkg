@@ -1,0 +1,23 @@
+{
+  "FILENAME": "python-whoosh-2.7.4-5-any.pkg.tar.xz",
+  "NAME": "python-whoosh",
+  "BASE": "python-whoosh",
+  "VERSION": "2.7.4-5",
+  "DESC": "Fast, pure-Python full text indexing, search, and spell checking library",
+  "CSIZE": "621864",
+  "ISIZE": "4619693",
+  "MD5SUM": "48991a7aa6ee0571b8b219974ebce0f0",
+  "SHA256SUM": "7710192e85c98e7c769aab34f44ead4e16d4831c37d7caefffe4ebaaa757cd56",
+  "PGPSIG": "iQEzBAABCAAdFiEEhs/8qRjPOvRxR1iAUeixSKmZnDQFAl27EuEACgkQUeixSKmZnDSFwgf+ITjYKQh9tlN8UuPPCIz1a1jW0G1WKaED5orPhhQw/DoTa+6p7uodATk8vjuhDmOj9rX1zc2O2GCxs/MiItRpYC0GxOIyru0uhE2ewA5cliGeUdbbqkqNQTN3Rg0QayCGO6F7CMm2PFtKlxzytVHK3/S5GJGT0apzxJjCHbFRQv7hOh1LY3lLo2RdhIqbDe1Mo587vkPY09KLEEYPOrqZHlp+X12WBszjuXJKtuDFUcAmykWG8hWQ7Ntrn17xz9J+Y+Zv4I+EIxY4dAaBBKV0+cvh++g6/nICj3EIwITFuCsV0PVknz1fc1USLzKdY0Y9858ScvatRQgUwAGKeLb2Zg==",
+  "URL": "https://bitbucket.org/mchaput/whoosh/wiki/Home",
+  "LICENSE": "BSD",
+  "ARCH": "any",
+  "BUILDDATE": "1572541089",
+  "PACKAGER": "Evangelos Foutras <evangelos@foutrelis.com>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "python"
+  ]
+}

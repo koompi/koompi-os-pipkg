@@ -1,0 +1,25 @@
+{
+  "FILENAME": "haskell-uri-encode-1.5.0.5-112-x86_64.pkg.tar.zst",
+  "NAME": "haskell-uri-encode",
+  "BASE": "haskell-uri-encode",
+  "VERSION": "1.5.0.5-112",
+  "DESC": "Unicode aware uri-encoding",
+  "CSIZE": "14192",
+  "ISIZE": "46112",
+  "MD5SUM": "fc60f9f314f53948eb5150c5b2e318cd",
+  "SHA256SUM": "2c284f568101514c82e6f995b876d32e1409090debc5ba7f34d0b9dc45999676",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl755VUACgkQeGxj8zDXy5L6/xAAt/Cte7YqEmhH7grNGp7fSUYYrPFj2yPliDoskljlbGzKWQCXXGbdcQyVnNtf9v1+xpTXxXmU2d23vVlPBmbTbowEFxWdZpBRti1SiPUd0qmjQ5WvYCLJP5SHH6/YdVITWtrAjvk8XJKMXszGVEGYrpdXXX2qSYz6q5yc1/QpA7hA04RgyWvawuLRcgajxCnY5BNdtzGfLEGeI0wtjElqu/6ijhKx0nGKGF0S/3lCoUvOiUq2u1pR+/6X9Dj0nDilmttpAQeAeUU25oKaYrmw+KNoDAmEqsZ3o5DoHpoL1HpvllWjIE0TcrI9DUzi7IHq17oPILnsj0GNIb2ILBJ432hmZEzUeA//GXsY9qUtFCcI6zjyicd5YHjQ8/LkRZ3GaxGFGiHnnnpsZgSzyBFsMdnS5SjLFRUIZkuEOfeATy9QGHKThl1IMz0aTx43VC36BmeFsR2VbrInX2DP9nBQyHKJAOyQEaXheyAkjqnPwipnffEgLJqaFpuSGSYGtF+Cjdxqhol3Aqfa7zEVYpXVeJpdu+y7rUrqbqVxGhQQL545GQYAf94Sd1owGPT0QP0KdDuxnY2Wvw2h3npsDXWQnbjV1J650Fk71viC/3KMlb9cMrfjaDUNFEqKjic24TTiPSLzNUHAR5+rfmzbb6VhFb8l7gZEOWrR4be2DV5nZLI=",
+  "URL": "https://github.com/silkapp/uri-encode",
+  "LICENSE": "BSD",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1593435457",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "ghc-libs",
+    "haskell-network-uri",
+    "haskell-utf8-string"
+  ]
+}

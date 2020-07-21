@@ -1,0 +1,23 @@
+{
+  "FILENAME": "thunderbird-i18n-fr-68.10.0-1-any.pkg.tar.zst",
+  "NAME": "thunderbird-i18n-fr",
+  "BASE": "thunderbird-i18n",
+  "VERSION": "68.10.0-1",
+  "DESC": "French language pack for Thunderbird",
+  "CSIZE": "545635",
+  "ISIZE": "607811",
+  "MD5SUM": "26ef3b7f7598a3b118ea88119c9f2fa6",
+  "SHA256SUM": "ed1fd8b4289c9eda50247ab2e275742e2389b7e9d2793093b9db315182b03af0",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl78eF4ACgkQeGxj8zDXy5Lc6hAAlUQB2y+Th/1j6g6mID1spSi+FNNLuKyq5yV1SLNwG8lJWmO9nI88AQx4S7fgKjNBCwGa3YW8+ygUGoPSuqVdqSq2+F5vCxDzgEKUTMArE9A0m/nE+2XYJOQrrCMndSi/IA8H6TDMnv2BKVJpoxOG0AA8mmBMWa9eQKrkNAReh3UmZAiWBzIxqWpop7kJXVl6bl9vo8QNWIA0O6VyVbU9AZiSTs+bZ3KbnRQyH7i+o2JkxGU30Yw2J2QAJ7Bfh+G9koubwcqQ7b/ELfh0Peu0dKRyHxMwYbqxNl3DAMqhCGVyjJSycadePaYi4gyZo+GSs3dfRkMl0BM+RyKK4cFogMAiWrDsWRI9lEc5Hipkr/CVEgSE0aoTB0Fxt4aE72O0aEuwOFKGd4ZbqCU5BHbfA99KNHDNGj3Komq5bPMB04RQL2923HY9c4C8+Tjyx5EK124+RvBZ2R1CfZZest0EY+iQn74a8Ee5SlyNcHqLAg+x5G+b64KiINfBwQam0Kxu4cVpEoS7D854aRphCbrq6wUKd5UnUm2ejQjira3Z4GS3P7J8+PPzYjIZD13sYp9gdzc9qR89H3On/U23jaNbcbjjYelLqw9aN14ABlDHyY64O6DOlNG9lKp151i6xd7r0N2R8kdqkl7yxUEZIRzqQye+FXda5Puqeo/B5DVDBuY=",
+  "URL": "https://www.mozilla.org/thunderbird",
+  "LICENSE": "MPL",
+  "ARCH": "any",
+  "BUILDDATE": "1593603702",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "thunderbird>=68.10.0"
+  ]
+}

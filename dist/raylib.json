@@ -1,0 +1,23 @@
+{
+  "FILENAME": "raylib-3.0.0-1-x86_64.pkg.tar.zst",
+  "NAME": "raylib",
+  "BASE": "raylib",
+  "VERSION": "3.0.0-1",
+  "DESC": "Simple and easy-to-use game programming library",
+  "CSIZE": "544736",
+  "ISIZE": "1622866",
+  "MD5SUM": "7ba1997079adcd774b2f84e9ce0e6854",
+  "SHA256SUM": "a426e06478daef53c1b4952891a6505c6858a212896f8d002b615cce21e7d4b9",
+  "PGPSIG": "iQEzBAABCAAdFiEElihV8HLHoBhGQFhk/PPIy1z5yNQFAl6J9mkACgkQ/PPIy1z5yNQiAwf+Jnp3nJi71hQPBH+fKNkwlht+2+jl0tcmk1hdp5OzVrfnSdYJrw6eATJti++gAJd7WeJE9vJHoZfS9+07f/Rlz4XM41zd7wK6kWInCR1RsFrhmKcibaJe6MHfchq2X5uzft2ANeGbMqaYAdEGgxCkgINzYLvEJwyS2Nk7wzdpr4RZqpeDx0GSIzm1ID0WvadK29AsWkwmneVqyI1+9othtZNiTErw58TW6FePO007MFm7XbLN26W3vqF0iQhiqZGxHrOwkg4z7jOXPlHfoLrI/umiOuLM1+bPQKtSp9EH/dDHPLb+D8fxGfUAQ/g0ydxRrXRkhEk4s61Yjl12kjjJaA==",
+  "URL": "https://www.raylib.com",
+  "LICENSE": "ZLIB",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1586099706",
+  "PACKAGER": "Alexander Rødseth <rodseth@gmail.com>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "glfw"
+  ]
+}

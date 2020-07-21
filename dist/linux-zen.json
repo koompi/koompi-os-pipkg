@@ -1,0 +1,26 @@
+{
+  "FILENAME": "linux-zen-5.7.7.zen1-1-x86_64.pkg.tar.zst",
+  "NAME": "linux-zen",
+  "BASE": "linux-zen",
+  "VERSION": "5.7.7.zen1-1",
+  "DESC": "The Linux ZEN kernel and modules",
+  "CSIZE": "77541319",
+  "ISIZE": "82792211",
+  "MD5SUM": "2b2a28fb6ebd020a81e67fcf9f4b404f",
+  "SHA256SUM": "95fcdf1fb329e3a60ed36f0b996f86db50dd7e44ea31e5c6aca4fca81c51991d",
+  "PGPSIG": "iIsEABYIADMWIQQGaHodnU+rCLUP2Ss7lKgOUKR3xwUCXvzLYxUcaGVmdGlnQGFyY2hsaW51eC5vcmcACgkQO5SoDlCkd8eWSAEA9DMygaE/G5UyOiPwuzuez1+F2DH++BFMbYLzzpH6QDoBAMqFiGR88ISxBNnaeRU6XmqblzGaM90wlFki0IIGwYAO",
+  "URL": "https://github.com/zen-kernel/zen-kernel/commits/v5.7.7-zen1",
+  "LICENSE": "GPL2",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1593615191",
+  "PACKAGER": "Jan Alexander Steffens (heftig) <heftig@archlinux.org>",
+  "PROVIDES": [
+    "VIRTUALBOX-GUEST-MODULES",
+    "WIREGUARD-MODULE"
+  ],
+  "DEPENDS": [
+    "coreutils",
+    "kmod",
+    "initramfs"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "FILENAME": "perl-test-without-module-0.20-6-any.pkg.tar.zst",
+  "NAME": "perl-test-without-module",
+  "BASE": "perl-test-without-module",
+  "VERSION": "0.20-6",
+  "DESC": "Test::Without::Module - Test fallback behaviour in absence of modules",
+  "CSIZE": "6980",
+  "ISIZE": "6626",
+  "MD5SUM": "401516499b7b2df73544ce62cdf3838e",
+  "SHA256SUM": "6341d79369139985e061b0cc6c46a4532e3c1749b302c4ae6d4111886a7791bb",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl7vNCIACgkQeGxj8zDXy5KKvQ//ZgHGPvrZdhb7sDSZ5ddFWF68F9ejqQKbCm2F6zDSl+KtsLL890PBffAUutVl3STfpfLKtyOK295pqeqOsmOI/qvOpLMQF52kJlQ+Maltv1nF2N/rZ+f37CCx4z79qY7r3itj0ljEszh3uaQtf4VTdsbtEVx3cMhpaWXk6COZ4X1pRyrVpA2b5pKnAG3hoXmY9KA4GUxmceUhOHN9S/43UNEtM3v8Hxg4PsDtlHf3WNN+ETvgLZXcUEQ0QptXM0LFtvkEQvWakQeNyiEp2p07cbZ/unhrfzDbkJ4qPv4UUaq5FrYFhUnT0OwS878O+WtUXA3LiJ6MGX9yy4V6GkFfFMwt8uyjvNx+bAXP7d8WqeTVIjOIWRyGOLsTasx8Y+E4g+n5mimCDPyrl+lOQV0SGd9gW8iQc6Ko/VJrJHfxjO0wZNfAt8/cpGl0DUMRJNV61YU0HMymT6J7QM++PrDw6E5CCSbFpwGjBNNdjV8nZRy8fu67dpiCOuk8LAG+6NSKxSLndGqbReTxv1DkiAlWGxL++fPwBxUlobWF0fEmRCjB4hQDjkRLB9RnVqGeSst1ccdTYmigddGsS9Ox9at/X4ZIP/q646+MP0f6GN1yfLGjrxMLY8hqbJqna/a6+dUtIkyRPk3L1xhOYPJA2a18FN37Hifk72RMpAKg7tReKpA=",
+  "URL": "https://search.cpan.org/dist/Test-Without-Module/",
+  "LICENSE": "GPL",
+  "ARCH": "any",
+  "BUILDDATE": "1592734734",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "perl"
+  ]
+}

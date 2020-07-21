@@ -1,0 +1,25 @@
+{
+  "FILENAME": "kglobalaccel-5.72.0-1-x86_64.pkg.tar.zst",
+  "NAME": "kglobalaccel",
+  "BASE": "kglobalaccel",
+  "VERSION": "5.72.0-1",
+  "DESC": "Add support for global workspace shortcuts",
+  "CSIZE": "252086",
+  "ISIZE": "637296",
+  "MD5SUM": "ec9a890d193b577597a300616d342157",
+  "SHA256SUM": "62b4c2755a1f36ecc2b66559e046ad5cf0d2664a082757e991cc26be054d9a9a",
+  "PGPSIG": "iQEzBAABCAAdFiEEFRnVq6Zb9vwrc8dWek52CV2KUuQFAl8JYDsACgkQek52CV2KUuS2tgf+IGauWscSDmQZgHQmC4cJGtMxgIhz/KPFhPRhKGrfrruURgRHyIRUEqHOEs72ikney9o9JQDfKeGVXYu+6+qjOpVgh+CkmyCqcafgsrR6nC0hod1JFZjjI26hUqoJlwxR3wuYlmRrsBoO+r8q5d9BMMsFDPQ64nt9MhsnzuLyqPoR8rtXi04nJ2ul8dT2g9EujfdmMNEWnE3KoKrwjXSlZVsxcA5Y6y3iJm8xmI2MT5vN190X76DsArUpiEoUGOTqZdwnOLoBj5YZ15Mexar6scbk+5YmAi8BUjtH//oS7rM4ixCaSAxu0/qsCAKun+qG5qnocmW30mr9lt6juIiPzA==",
+  "URL": "https://community.kde.org/Frameworks",
+  "LICENSE": "LGPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1594201231",
+  "PACKAGER": "Antonio Rojas <arojas@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "kdbusaddons",
+    "kconfig",
+    "kcrash"
+  ]
+}

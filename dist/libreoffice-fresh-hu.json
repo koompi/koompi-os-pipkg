@@ -1,0 +1,23 @@
+{
+  "FILENAME": "libreoffice-fresh-hu-6.4.5-1-any.pkg.tar.zst",
+  "NAME": "libreoffice-fresh-hu",
+  "BASE": "libreoffice-fresh-i18n",
+  "VERSION": "6.4.5-1",
+  "DESC": "Hungarian language pack for LibreOffice Fresh",
+  "CSIZE": "3334663",
+  "ISIZE": "23408473",
+  "MD5SUM": "f16a99dbccebf17ab6b15946954a4fc8",
+  "SHA256SUM": "4af0a65d6c3a17c96b8d9dac306745cff400ffcef27ba1a9441beec3e1e02514",
+  "PGPSIG": "iQEzBAABCAAdFiEErcih/MFeAdRTEEGelGV6sg8qCSsFAl7+FxIACgkQlGV6sg8qCSsseQgAsKYlD1atiyyzZ+d3xK2ayY74YXFByyYqe7wb/4HE9/mDk0/Yayw3VsfPAZsy9KWmDmN8Iadg+69701MJJTx0VNsX7kR4xGWw8xb0elG1VIM78mngQS1B8mfzJKL3BA2pgKcx0rBlMBPeUJfRvp0vy2fO+ppKvp5tHBMZaG34tPLw6XJ/GVjLHVM7v4WYAm8WFUHyi2iPQ7PPK+wZt5xa2dG0sdvOk38/JrWBnqvGP9iVkaRMloZmGy9NWJNqH669PjEBX8/EjjlobaofoUogdZWSGA+DoN4FRO3Ix79HTsq43JfE2QUAm0XpfN4mCwqRACosUzsRsc38yMWuvis79A==",
+  "URL": "https://www.documentfoundation.org",
+  "LICENSE": "LGPL",
+  "ARCH": "any",
+  "BUILDDATE": "1593700315",
+  "PACKAGER": "Andreas Radke <andyrtr@archlinux.org>",
+  "PROVIDES": [
+    "libreoffice-hu"
+  ],
+  "DEPENDS": [
+    "libreoffice-fresh"
+  ]
+}

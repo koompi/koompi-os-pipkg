@@ -1,0 +1,23 @@
+{
+  "FILENAME": "java-rhino-1.7.7.2-2-any.pkg.tar.zst",
+  "NAME": "java-rhino",
+  "BASE": "rhino",
+  "VERSION": "1.7.7.2-2",
+  "DESC": "Open-source implementation of JavaScript written entirely in Java - JAR",
+  "CSIZE": "1167229",
+  "ISIZE": "1237402",
+  "MD5SUM": "951ac3daa0917a2f9d3502b54b1103ed",
+  "SHA256SUM": "3dbf441388629541773bd16aee353974cb4af912141fce4ac1a37c0167f38b60",
+  "PGPSIG": "iQEzBAABCAAdFiEEhs/8qRjPOvRxR1iAUeixSKmZnDQFAl6/rxgACgkQUeixSKmZnDQuCwgAkTABi+m+423LlPVJjUqCiZHPzZZA1pxRuSi0Lw2PZQIE+u4uyOBvGcTwLmn5qYcimSxBobic2mBGTxzvYAqRbgRKJGPgh4AnwZdzOQsxVIl3TRArgSd+ijAiPu9xjJY1fesHqg5jtGsWYzI3EvEMsQTrN4aRoabrzxxOp43FV9rM4wcFjqz16+A1FSl1illUXAm4mt6jvVIkMlHSgtpu9fmhE/YNchsRbEQiqExE9j1YqguI9tAaiEQKxvMeM56hnEb2mO6cC3hk3LJG3AUz7pp/jgPzGVnS09w4J1Pv9toJL341c4Y/nnIZSFLYUp/pHAJhba2VLU1+nK/hpO+4ug==",
+  "URL": "https://www.mozilla.org/rhino/",
+  "LICENSE": "MPL",
+  "ARCH": "any",
+  "BUILDDATE": "1589620467",
+  "PACKAGER": "Evangelos Foutras <evangelos@foutrelis.com>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "java-runtime-headless"
+  ]
+}

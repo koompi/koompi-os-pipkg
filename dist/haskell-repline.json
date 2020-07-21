@@ -1,0 +1,23 @@
+{
+  "FILENAME": "haskell-repline-0.4.0.0-1-x86_64.pkg.tar.zst",
+  "NAME": "haskell-repline",
+  "BASE": "haskell-repline",
+  "VERSION": "0.4.0.0-1",
+  "DESC": "Haskeline wrapper for GHCi-like REPL interfaces",
+  "CSIZE": "39372",
+  "ISIZE": "181500",
+  "MD5SUM": "33951fe144a2118b03b9abf07b9b9277",
+  "SHA256SUM": "ba9e7f38fe9a04aebe0b23ff0303d199619bd1c01058fb85356e5e9531c0de3e",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl7xpTQACgkQeGxj8zDXy5IdbBAArYuMDhZ4q9/WC83hzI7GjHPrma1asAbkmsukw4s52va1M6EqxQzczEMc69Ub9vPqXlST8qw2Af0PnknSvmOJY7VaDhvUyttHOKRv02f8sTI8+COyygm4d60rs20dgZyRkUcU2+8epYkEPfqcwG5J/twJAzESu91/SzeEpgdZXygKxVk9H6ZSniLw0G5grGc00npWA1dsTV9yFB0LsVSqDCLyU0IIfVYXfNxQHl+9kfz89W3YoK8XiAV+B7XFU+4o+oZmKHK7NGjmxxu8ZDijP7CqD4zzqBjFjY1/fPt63lfZcQfwaVKHDh/Xd4LnRtzXWnWswLDIXh7XbK2lw+Tgq549/cPeNp6wqPx6B6Ow0N6XwtH3uRK6L9Fjnvj1tQDHox1DM3MyCDw+NL6KlS8mtgwQzZTxs9i4XiNLaECiFQsi0s8XABww0TF4gVOwjpPc2Sz47zUwVv3OEBBXvCBMjnZsAPN8cZc+UNMeNWiOKQFcd2E7WVChrQSL0F8FaPVRtM0YqTv6v8pGU2Ts4pHcoAtluYL2TBHvIZySiqLgU4q4QNfBx1JETvTJBL9j3giw37Z4To2VlkfjDeiRTiD/9yy+eRcY9OKYcjboHCJUtqw8/rwyFAnxx9msuDK0rgWtM4Sls6dDTWucyB2W3EwOo2ofTCPJiqClQLQK/GV18v0=",
+  "URL": "https://github.com/sdiehl/repline",
+  "LICENSE": "MIT",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1592894745",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "ghc-libs"
+  ]
+}

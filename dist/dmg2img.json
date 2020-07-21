@@ -1,0 +1,24 @@
+{
+  "FILENAME": "dmg2img-1.6.7-4-x86_64.pkg.tar.zst",
+  "NAME": "dmg2img",
+  "BASE": "dmg2img",
+  "VERSION": "1.6.7-4",
+  "DESC": "A CLI tool to uncompress Apple's compressed DMG files to the HFS+ IMG format",
+  "CSIZE": "18104",
+  "ISIZE": "49720",
+  "MD5SUM": "8c37bbb1916296173e8d01b3cd482c29",
+  "SHA256SUM": "da08502b5eb4ddd3f5cea4d7c84dab618472dcf1661d4aff66a8bdf6055997f6",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl8Ec/QACgkQeGxj8zDXy5LVjA//elCMEg02AODXETU6UaCf9hzCcjDWWLylJyxekb2a6KiicQxqfvtwtsFootIhVkqTNvOs7lHtZolD/ccoZm+WWDUZOwJeJcw8BROLudKen9dJ/SESNDu+aUc7G6GftSA6JQmY2fQcAwyEXLR0jLnJcFBpegPwPhpr4Q7yCPVObin3B9g14SlyDgSu/XTNJ3TUf5gxgjmc3enK1mFCE1xJIYcrLiNzF4nPuou/RBAumVRoTSzc86lzVj0d5xziRCFx4gE+z/gilXL3Ng50g0sJShWQhLDPWj6iau7wnAG8EHNhUQLpnWCx/CCI+FLCDzuYWFAYKXGcBiYgwrwZ2fq/zZlOvDLRTWJJOoudO0bk8FSq5HeEGJKNAd0gXR7U3EhQKJyHNUfpgsYxv2d+i1oD0b7c57/QvgFAiPGrOddyPuEWJTGlnKFZIlrpabWUCDqcYNuaYGwMQ+LDwO63Bsn7mdESW0uu3YxNo7mXZ0fGGLrH/iHwr9UjapB/T2malePWfhG/nQz8llLxdbrrxXysjUC0+1tubajpZj2OGcc1y980DEIJFEqveZVkS1Y6jT2HLtSnnwfLAMYQyWEKu7Een4WuTbdPaLf1ZHUtvmukXsVddVr1BtxrydJzyQwZUVlN/YIAYwLARwN2OjnHVE3D6YWv75IySMmm8HHh/dMRz+E=",
+  "URL": "http://vu1tur.eu.org/tools/",
+  "LICENSE": "GPL2",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1594127246",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "openssl",
+    "bzip2"
+  ]
+}

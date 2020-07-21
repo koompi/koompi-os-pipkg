@@ -1,0 +1,24 @@
+{
+  "FILENAME": "chemtool-1.6.14-4-x86_64.pkg.tar.zst",
+  "NAME": "chemtool",
+  "BASE": "chemtool",
+  "VERSION": "1.6.14-4",
+  "DESC": "A small program for drawing chemical structures",
+  "CSIZE": "243891",
+  "ISIZE": "1111368",
+  "MD5SUM": "a29bbced0654b3f91277a31aba50bc8f",
+  "SHA256SUM": "b3b6dd498041e1f23c7657144c3a1c91786bf2029c5044e024dce9cb9618a46f",
+  "PGPSIG": "iQEzBAABCAAdFiEEhs/8qRjPOvRxR1iAUeixSKmZnDQFAl7DrUoACgkQUeixSKmZnDSCYwf+OMq2d31n+pvkTHk30fSKk8jUbtAPbX/vJdMHnCb8/7ir/6hjYwZ9luNtn7g6zSiKMWm8xh1mUXAeQSaXkFStCz5IzDm2W7KKdXan1+7LPgRGshNfZ6t0//b6XakkrA2nsLwlWRyQTudIifJgIgkrSlBllLoiYBYjXm5dqRQMUKXUVmxRevB1St0E4yqCuUuvWMzlNrJ9fadVqVMwH2bkvoHzzGExE6zuD1z3TTWkYxOyphT0dFP8TQwO+qcAY9o9n5yYDb92VsBo24P99qp+cxJhI0MebzZiAUvhUzG1h5xj6cYjxpQVtiou+qGIqDPc2ev5A0AcubzxV0ziRhka+Q==",
+  "URL": "http://ruby.chemie.uni-freiburg.de/~martin/chemtool/chemtool.html",
+  "LICENSE": "GPL2",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1589882158",
+  "PACKAGER": "Evangelos Foutras <evangelos@foutrelis.com>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "gtk2",
+    "desktop-file-utils"
+  ]
+}

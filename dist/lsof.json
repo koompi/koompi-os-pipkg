@@ -1,0 +1,24 @@
+{
+  "FILENAME": "lsof-4.93.2-3-x86_64.pkg.tar.zst",
+  "NAME": "lsof",
+  "BASE": "lsof",
+  "VERSION": "4.93.2-3",
+  "DESC": "Lists open files for running Unix processes",
+  "CSIZE": "112603",
+  "ISIZE": "209548",
+  "MD5SUM": "8f73fe3b9dd414423bf0263d68965290",
+  "SHA256SUM": "e2cacca4e5047ddc41528660d1171c1039aff7533932061318e5506de1a67ff9",
+  "PGPSIG": "iQFIBAABCAAyFiEEZkWwqMcAXnjbHXhk+Z/+D+rpmb0FAl7ZnWYUHGFsbGFuQGFyY2hsaW51eC5vcmcACgkQ+Z/+D+rpmb2J5gf/eyXMZjeLJ6oGRDsSLMlTBTdMPiilsrEWMAtCs07US45Qe1fs7cH4P7JhNo20/y+2L0S3XxQmaIlxYui/f8fSuAibwNGR7I4ltfzFCuc1WK5pmCXB/uS/ryra8zumsBfwlLl0u8HEbQWFlOckfsgDwtdC6+1YHNwxlXGDQ3zumrfDk0dj6hpKizOGXb1Th9HWw3B97ui9E5CntB9GA0RfDJv5yfh6W3xmShWTqeTaT7Q2FKOnMGKtlMZ7r5SlQT+PblTxf+8jdBEi5esuJ2JD+YGw4K3sqM4oBSD9g783tugkevTZDl4U3hYmKxfhYBPeWRdMXzKS0Sr6waiemOUXnA==",
+  "URL": "https://github.com/lsof-org/lsof",
+  "LICENSE": "custom",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1591319733",
+  "PACKAGER": "Allan McRae <allan@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "glibc",
+    "libtirpc"
+  ]
+}

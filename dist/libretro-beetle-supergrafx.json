@@ -1,0 +1,26 @@
+{
+  "FILENAME": "libretro-beetle-supergrafx-813-1-x86_64.pkg.tar.zst",
+  "NAME": "libretro-beetle-supergrafx",
+  "BASE": "libretro-beetle-supergrafx",
+  "VERSION": "813-1",
+  "DESC": "NEC SuperGrafx core",
+  "CSIZE": "365004",
+  "ISIZE": "862232",
+  "MD5SUM": "91c6e2aa6f9ad9813cfb5bb87786ec21",
+  "SHA256SUM": "ebdc91442f1cd282a869b5a30bbba1f4c2fde5e4897af9e0f78f1d2cc0adf0a8",
+  "PGPSIG": "iQEzBAABCAAdFiEElDfdOBWnqRaePTlGr/XZUJi8b/UFAl7yg/UACgkQr/XZUJi8b/UYQgf/dJzn3tXlCC9zqggl5Up0l0chrfTgo51cs5erfUSrF/UWjmt2lkWGSdpYzA5RY9BOkQBrX3GM9ZAtP+mQ+BOEXmqDK6SfY09iyWmqCSxOypDsgkITgH7ze38DKq3Eed0Qsw6NUHBGbt85j3LTArAR5fCfVUXIfuI6E5AJeIjCGtSiMvNyMxESP57jsZRA3p6aJDP+OtqfdYPCY6to5DzFMGc2Ui9LXG46SGNbgyRscnFMIeRstmi1+YYBJuu7Q5oSmW8mdMB92EXj+jLP2+9M9PKbzaNo9n9n6mVvb8B5mzvy16nVUZYFIULqSeb0CwO4TZRa7nBht7CzryUwXP4NzA==",
+  "URL": "https://github.com/libretro/beetle-supergrafx-libretro",
+  "LICENSE": "GPL2",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1592951778",
+  "PACKAGER": "Maxime Gauduin <alucryd@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "gcc-libs",
+    "glibc",
+    "libretro-core-info",
+    "zlib"
+  ]
+}

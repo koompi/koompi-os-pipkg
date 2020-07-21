@@ -1,0 +1,26 @@
+{
+  "FILENAME": "kscreen-5.19.3-1-x86_64.pkg.tar.zst",
+  "NAME": "kscreen",
+  "BASE": "kscreen",
+  "VERSION": "5.19.3-1",
+  "DESC": "KDE's screen management software",
+  "CSIZE": "230124",
+  "ISIZE": "914725",
+  "MD5SUM": "9a641ac16d4ba80da476ff4d6ab71769",
+  "SHA256SUM": "92075a104a73966de61e3e13cca5ad11764b4bf0c521c9fee0343878cb8a691d",
+  "PGPSIG": "iQEzBAABCAAdFiEEFRnVq6Zb9vwrc8dWek52CV2KUuQFAl8EhR8ACgkQek52CV2KUuSLtQf8DovHFyZhCEj8Zk7IYVQNrWoQhDvrXtYwpDdgCK6RFzk8WPCUl7JF3zELSvVZVZi5fF51hbhUwys58eesYgsIHGwI0uAEG7p6DkwRO3wqrM5MuFmtKNWSvOz+kPkwDM1g0nvON01+XrVoVrpxo4HhBGsDt8Y6KVxRhpOlzff9SzGsXZHg1syruBVaakzHE6ASNG5cf9dT8MSkHxOydI8zmxi843VlZlV0y2A3oTJadJUM/mFpz51UbcxqFgz16GFVBTT77aPEx1L5+sn3fTZL7nMZ/yAy4sNoTvTPznJ93qI1RXYCd7IleWvEstOxMDeEsyCzTsHj+JTD6rUDGh2T4g==",
+  "URL": "https://www.kde.org/workspaces/plasmadesktop/",
+  "LICENSE": "LGPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1594130082",
+  "PACKAGER": "Antonio Rojas <arojas@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "libkscreen",
+    "kdeclarative",
+    "qt5-graphicaleffects",
+    "qt5-sensors"
+  ]
+}

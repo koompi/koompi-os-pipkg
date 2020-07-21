@@ -1,0 +1,31 @@
+{
+  "FILENAME": "checksec-2.2.2-1-any.pkg.tar.zst",
+  "NAME": "checksec",
+  "BASE": "checksec",
+  "VERSION": "2.2.2-1",
+  "DESC": "Tool designed to test which standard Linux OS and PaX security features are being used",
+  "CSIZE": "25481",
+  "ISIZE": "111851",
+  "MD5SUM": "03900337e4d41c9fa7c38baf837a6ce4",
+  "SHA256SUM": "9bbac171d4245db57fddfc7fa52baf92da839922579970c426a62d6f79626fa2",
+  "PGPSIG": "iQIzBAABCgAdFiEE4kC1fixGMLp2ji8m/BtUfI2BcsgFAl7k6AsACgkQ/BtUfI2BcsjVGQ/9FbMyCvCPu9m4JvlxLmeLaSq9vh7oHAhBpHDJLqA1yOkFY1JkFIgLsGJSpnf9xe6CiDdUPCtf6IUzWCAEGX96K/T5Vcv9CVB1zB8VSd/BxN0a52TMF3vIwEptwi534dK0zftFZ51W7TBHPD94Hjk+iYPKgcsfnzowOwbofiJypKYbjePdCvR34wHHJzQ8GAAVJi3c8TOW+maeO1kbMMB1WSTqg8+jROW1aB0ILFQ/DhnWhfwkIxJrafof+YpGnWI3ZRdjNTzUkerqxd584qNuwX7EzKT/9BQ74LxIW5yZSqNZxwU9ZVPm9gaZelcTIyO8YtTl8tOZ8KxgEkPHddkA4pQ+MNpIUrasxBcxStsvqDqYuNvArjcViNic5E1tdO8cwvkWcr6/clTca2weSLVScycoizXl1pmSWwJBz04QoKEp9LqlTKkWEYNlenTFnEyqgbyLrYGgbXlS2yyAbaS2tfLiflb7S86Yiy4GD7h0BpTXg1iCefIxog6g79IsmKYI+6GByAdJWt2VP+pT84T2JfhBSpjnPMbljMTktLy9P2GniH4LZfO539+3OZ5VK6v2Mk4tz48BawRDObLDEgySpT3VcJHqfCwYZpzmMBstFw4pvaRHGhIZob9urbYJwYpjDDO8dKcwuXMjyeRZJzD7MlEtqWb2F/hEjRuwNUpbjhI=",
+  "URL": "https://github.com/slimm609/checksec.sh",
+  "LICENSE": "BSD",
+  "ARCH": "any",
+  "BUILDDATE": "1592059048",
+  "PACKAGER": "Levente Polyak <anthraxx@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "bash",
+    "binutils",
+    "coreutils",
+    "findutils",
+    "procps-ng",
+    "awk",
+    "openssl",
+    "file",
+    "grep"
+  ]
+}

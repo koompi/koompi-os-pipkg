@@ -1,0 +1,33 @@
+{
+  "FILENAME": "hydra-9.0-2-x86_64.pkg.tar.zst",
+  "NAME": "hydra",
+  "BASE": "hydra",
+  "VERSION": "9.0-2",
+  "DESC": "Very fast network logon cracker which support many different services",
+  "CSIZE": "284327",
+  "ISIZE": "1534153",
+  "MD5SUM": "1498a5dd605345336f351ef57e6efbf7",
+  "SHA256SUM": "bb2072ec5e9a76a5d1a9905cfcccd9b6cf32b63037b9338541b0ad86b19a812d",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl8E6G4ACgkQeGxj8zDXy5KYxw//bgpxI4J5RkvgO/tCq9GRDw7xtmZtSLYIkv5KkEveKiWDkfQlNGskSkW5rqxBvkjnOvp0rs+uI5DHKVCSxRwqOyaw3Eg6IwObNRqsy2hymEu+ZvVbDdIAEPaoe4RmXynlQdKS9B1eCgnXMFQ0zzMGdKQCHPe+xun/3P1R4tIqK1xHcfhrh6YjCnJPnNKPZwbBwimmJBaCWQUdgGM5WriHNc03Bc1P7rlbg/NAx6YRCj0xns+Xbc4DnHzm1FBUbMg1RMIN2oUtQDR96SRMX1x2C8iSpemgEtnXOLcARgC9tKMwnMdW3gpYHfvzG7tHFCgOSiTVfTqRK7maFx5ATq0C3vr2V7Gx1mL7FtcsGGodKforrHvq7qnkKLPSO+p/jGJi8QcI/TofaU9KXPPOwEzhhgrVIerCmPDYdc+FSgMAx7cp4DHS2vRwc2AC21upcZ0+TverMGKFMtDp+dxSjCaoGFJ8HJqbFzhab/s6mJDVMFmXMJlrHO1MT7Oi1/opfEqA0aEd/DhPI/I3QTJq9UQA7U8GjzTEjT1lzZIy8LrvOh/6BO55fTZZO+lbR0UvwiiFMpK4EoRFDZfBiPwBWxrYn6oFbDGPbeeHNjk9LtwOga3Cby2/MGYjg4+morO/N1mJzHpqUK3HUcG69F2xtDBHvHx5tuW5zSY8t0jqCuMAhsM=",
+  "URL": "https://github.com/vanhauser-thc/thc-hydra",
+  "LICENSE": "GPL3",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1594157127",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "postgresql-libs",
+    "subversion",
+    "libssh",
+    "mariadb-libs",
+    "libidn",
+    "libfbclient",
+    "afpfs-ng",
+    "zlib",
+    "openssl",
+    "ncurses",
+    "pcre"
+  ]
+}

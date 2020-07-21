@@ -1,0 +1,23 @@
+{
+  "FILENAME": "help2man-1.47.15-1-x86_64.pkg.tar.zst",
+  "NAME": "help2man",
+  "BASE": "help2man",
+  "VERSION": "1.47.15-1",
+  "DESC": "Conversion tool to create man files",
+  "CSIZE": "174527",
+  "ISIZE": "355507",
+  "MD5SUM": "a39a07bc695bb4f8452b83c6165c1bcb",
+  "SHA256SUM": "d2ad25cff1ab8829e43749f6506e02f30e0ea4206a48c909dcb4992d35fad2f6",
+  "PGPSIG": "iQEzBAABCAAdFiEE5JnHn1PJalTlcv7hwGCGM3xQdz4FAl6uqfwACgkQwGCGM3xQdz6zQwgAhxmL60Dpk/LuPaU9oAowuMbsFQii/oujpOljc0KJz5vKFlndKWMiHN/BeVRB37B2sz0aVuQu2gvUO2HTdigbx8OZcir3j189QZUEVLW/LAYLoFJbl6qwx4JLTC54mz3syCWntehhjPKWtO252hO14NEzA1kR+0AsTH5LHzmrNkVF2dPhhYaiYwtVmOD0O2WKnyLU7ZW/+sjxSNxHj1UaNJE0t34isfA7omfALol7u6ld41f5dI2t9aUKxnfAeSj21nQFELRsqS0YC8O0dshZxWbzOXv1tXMi20jI97Au9lJxAFVHYUD9TETu8Zl8gm26BxHRI+r1FblbcEsrtN37rA==",
+  "URL": "https://www.gnu.org/software/help2man/",
+  "LICENSE": "GPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1588505024",
+  "PACKAGER": "Jelle van der Waa <jelle@vdwaa.nl>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "perl-locale-gettext"
+  ]
+}

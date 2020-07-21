@@ -1,0 +1,24 @@
+{
+  "FILENAME": "pystatgrab-0.7-3-x86_64.pkg.tar.xz",
+  "NAME": "pystatgrab",
+  "BASE": "pystatgrab",
+  "VERSION": "0.7-3",
+  "DESC": "Python bindings for libstatgrab",
+  "CSIZE": "60056",
+  "ISIZE": "206689",
+  "MD5SUM": "02398692600b3ec71600b8f0db095b54",
+  "SHA256SUM": "ad5fd8ce7bb60582cb0263bb74b50eca52edd8fa2a114a829e597e9bb97dbfe5",
+  "PGPSIG": "iQEzBAABCAAdFiEEhs/8qRjPOvRxR1iAUeixSKmZnDQFAl2/99gACgkQUeixSKmZnDQ76Af+PvTCQnpSfEmndhlVOPIoNRs4LV7Wt7emuvgK7cOqkvB0ulqYx94bHIXVqEZNPUvPtimuxLe2ri1sGJGscASsraW4fbr6BDFoqEG+h94y7mWKTqCmatjegEdPKh3afaqQzLIq91b7XgPe+0jPTLLOqxpYg0mw34nl7IymE3xbh1rSX7bG/7gufEHfBfZLM7mym94DssBB86BrpW09xnxjjZtRmEUps3QQ3dZoeVfe8B+wK/Pj1ujVwvzmZ4GElWgraOEvPeWPUziiNPlBgNgr/0usrmabmr3byzo4HIpam68TTjOkCwcNNB6xBeTQtwC0ioa/YEtQMcslkY9Apdj5sQ==",
+  "URL": "https://www.i-scream.org/pystatgrab",
+  "LICENSE": "GPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1572861884",
+  "PACKAGER": "Evangelos Foutras <evangelos@foutrelis.com>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "python",
+    "libstatgrab"
+  ]
+}

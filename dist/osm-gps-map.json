@@ -1,0 +1,24 @@
+{
+  "FILENAME": "osm-gps-map-1.1.0-5-x86_64.pkg.tar.zst",
+  "NAME": "osm-gps-map",
+  "BASE": "osm-gps-map",
+  "VERSION": "1.1.0-5",
+  "DESC": "GTK+ 3 library for showing OSM tiles",
+  "CSIZE": "88858",
+  "ISIZE": "527024",
+  "MD5SUM": "331ee203f9544285a365b64a986f375d",
+  "SHA256SUM": "cb62e300d3b42de69a274a3cad109ed4afb0220e0b7d7cc09349cad11fedd564",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl8EpycACgkQeGxj8zDXy5JbeRAAkgc4ldIja1jxrF82AGf5nlHDkUNrvcg9F9lJ6xx1GcnPyfwlVcp4whs4TW4fh8uzdl9pktwSj2e/FXTsYH70GT+DwzQNn2j9xIB861rMONu7B4Bvu9dmnUGb8W06KdbjG2GoxneD7htU9Fq4Y9+GZWEMV2ZzLt5lvT6NZwvk0llEgGoUg2A7e96+9K4Ln3l3j1xPYAHeLL6+LHatCNZ7fler1dfK7Py3f8IVqFnRkncxf5GWW4bpAACHnO7wOGpZmN6ECkajKVIspwqai58BWRN1BeezqQp3Z4KFsb3NWLBeYX4hg6TFqPLzZnd5Twbnuq+l3jTZF4ZSoqGsIq/oRoqsF6SaRWP8oGTqtxTJ3hNlpsFpyPW63OayXMUmmiECG8rOO58iktFKqHfD40jmJp3Iwe+X5PUkPoYKPUmCPgNe+dgipo9VznFz6l+ANRfSjTsyZ4v0UIfZ9dPTjl8iOBzFAjn16A8Q6oQbL7zYWHLOU512kMpAefqACxhekakerXMhvQ608Gz29emHSCm/w8b85GRHdx4JaQRalbiLhw2K13zT3GpLSgQcRORbORCgZnoditxBp6gzVC0gHJfeyaY66TMhDffZr4WbcL5RgQ/jA7o/yXx+xYLIUiqesqGeg51kb9UHZewTI7z/ezww0a60GtC71m4u2dJLCcw4ZaM=",
+  "URL": "https://nzjrs.github.com/osm-gps-map/",
+  "LICENSE": "GPL2",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1594140204",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    "osm-gps-map-gtk3"
+  ],
+  "DEPENDS": [
+    "gtk3",
+    "libsoup"
+  ]
+}

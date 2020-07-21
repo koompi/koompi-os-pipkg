@@ -1,0 +1,31 @@
+{
+  "FILENAME": "kdeconnect-20.04.3-1-x86_64.pkg.tar.zst",
+  "NAME": "kdeconnect",
+  "BASE": "kdeconnect",
+  "VERSION": "20.04.3-1",
+  "DESC": "Adds communication between KDE and your smartphone",
+  "CSIZE": "831467",
+  "ISIZE": "4035283",
+  "MD5SUM": "82bcc0b123f54091d1143e02c3dfe598",
+  "SHA256SUM": "4ab127a5269ea82c255b9e224852e92a2b8acf347d61fb45e60a126e0a638a67",
+  "PGPSIG": "iQEzBAABCAAdFiEEFRnVq6Zb9vwrc8dWek52CV2KUuQFAl8HBwcACgkQek52CV2KUuQvYQf+Mej6KponsGIqsUsOT/UujmdLovYBa+mc5hRzRsTv7qSdw3Itr5so9iGLTKXz3iRLDb12zGQpRCjj9Nz/+47tZax/wrcEYHmXiSO6w38ZtVC2N/tWQYzXiy1hjdLIhQp6J1MwU1Y5njYOK3qFMI530ZNnAWWIJvdcxvFLJKQxkOUmQzv4h6SUQPkln5gkFr5M6qReUEPezGaIlvVpaFfNjBESbHKj2Gj9xjWGU/i3vGINlcwdREXw1vrOmyxZVoPcfCilTollp9JPZnseACdnZ2M/YP1gEntlxVaiKNLa7QXXjPL85EiGeL3UIINGzqlkfgpm4RNnrrtDWdT8RAlPvg==",
+  "URL": "https://community.kde.org/KDEConnect",
+  "LICENSE": "GPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1594110899",
+  "PACKAGER": "Antonio Rojas <arojas@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "hicolor-icon-theme",
+    "kcmutils",
+    "kwayland",
+    "libfakekey",
+    "qca",
+    "kpeoplevcard",
+    "pulseaudio-qt",
+    "kirigami2",
+    "qt5-tools"
+  ]
+}

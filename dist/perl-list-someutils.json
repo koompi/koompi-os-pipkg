@@ -1,0 +1,24 @@
+{
+  "FILENAME": "perl-list-someutils-0.56-4-any.pkg.tar.zst",
+  "NAME": "perl-list-someutils",
+  "BASE": "perl-list-someutils",
+  "VERSION": "0.56-4",
+  "DESC": "Perl package that combines List::Util and List::MoreUtils in one bite-sized package",
+  "CSIZE": "26598",
+  "ISIZE": "49880",
+  "MD5SUM": "fc3a3f267fb3d34dbf1e6faf8acd62fe",
+  "SHA256SUM": "561e80092d995974a4b1829d82c363d2d3697e34404db93f2a37d9373963d2d2",
+  "PGPSIG": "iQEzBAABCAAdFiEEhs/8qRjPOvRxR1iAUeixSKmZnDQFAl7vfQQACgkQUeixSKmZnDSDbwf/cOJpE+5B4t1DWjN4ZKQsUc6K+ttWR9Pn2l35eO2SAZs0SQ35yzs+VrGE8oLPEICoIrJcAZR6AmbtN+m4X1OK07BPbin+v2K41s8CIQtfFOcjjuBhUjjrBMto1zI2sJD15HsiXemCE6gGFehKnHer4UijlcnTp+XiO/49JAmlePd+uIUHKy86XE2RT6ErccUxnR6C4M52VIswSuTgLadAxOHl12RiZ2os3opGlap8jMMo36NvrayIs0LuKsRWcT7M4PDLB5Teyl8eZnvpQfGZtxhqSChQoAUn4hDRaNSY3cjLx4vxO+kzFrF035YiAawI7aVOhTx5YliVrXJrvOPjPg==",
+  "URL": "https://search.cpan.org/dist/List-SomeUtils",
+  "LICENSE": "Artistic2.0",
+  "ARCH": "any",
+  "BUILDDATE": "1592753390",
+  "PACKAGER": "Evangelos Foutras <foutrelis@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "perl",
+    "perl-module-implementation"
+  ]
+}

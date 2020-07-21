@@ -1,0 +1,23 @@
+{
+  "FILENAME": "python-pylev-1.3.0-4-any.pkg.tar.zst",
+  "NAME": "python-pylev",
+  "BASE": "python-pylev",
+  "VERSION": "1.3.0-4",
+  "DESC": "A pure Python Levenshtein implementation that's not freaking GPL'd",
+  "CSIZE": "7513",
+  "ISIZE": "17320",
+  "MD5SUM": "3858105eb8eb6e0ee8aabbd643f478bb",
+  "SHA256SUM": "69f991b7294e5c850f93200146aa0b3e133d686de26c56d1c5b00638de25297b",
+  "PGPSIG": "iQIzBAABCgAdFiEEYEETBMCdNmKDQO7/zrFn77VyK9YFAl4NJeIACgkQzrFn77VyK9YYDRAApOh2F6aPAb+vG4gu6tbvwiqzF3ybW8vs4+AU3g5Wj0nACRLTKrxsEDeFNJ4HJqUzUZO1r23wtsuA6fJIgcRiXALE/0IGOuvS/vy6sE2ClbJKD4DLfYzoqTJVYl4bkrnPq1yijgFlRAvWIKY0WyLH+qLpT/uxfgGESR/VqAMMu8m0gGAW3/vzOBYavH3Ns2WS5pbhAGfGWi0PCkkcp8OuU8vYltNtND71ZrQcLcdTr03MmCfllw3pw4+jpve0Z2rx3dzke/3j9o82xavJ7G3ZINNiwUmHs0MgFCYaXZKSjZPucWAcAkrrfak/jSnB0vLyy6bI4CuYYSNv/wNtiUIWoWRV8o0m/F92wfUOesinIRP628KSEI1X6WDWgPFnwxz0ppGvhht6q0iwSTFquiLb01i30DiZvRbjBbBWNBjPfLlO8fKJ84WH6LItbINZZCKMAGoZiLKiTLl/NYEQDD5L/sszA1mSqCRHiEUgJcAuEckbWu4PNdwzgHWWnIXrRQ5N+vzM6KTJa5x9UJKRKkZd9gNP1Tz/ChnFnAbHO/9lqp764Nchj+UdMjtRxpTpUd2pLuvTnzE9eObIqRJOhrl7bUdKpd5bwpo5tk5BIfYodTszulYRqu1AzZF2aDFQBFP8cfHCRJXnMmeUrIUB+OrR9C6425VZq77YjZbo0pmk3PE=",
+  "URL": "https://github.com/toastdriven/pylev",
+  "LICENSE": "BSD",
+  "ARCH": "any",
+  "BUILDDATE": "1577919918",
+  "PACKAGER": "Eli Schwartz <eschwartz@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "python"
+  ]
+}

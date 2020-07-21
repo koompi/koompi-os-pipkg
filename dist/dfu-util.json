@@ -1,0 +1,23 @@
+{
+  "FILENAME": "dfu-util-0.9-3-x86_64.pkg.tar.zst",
+  "NAME": "dfu-util",
+  "BASE": "dfu-util",
+  "VERSION": "0.9-3",
+  "DESC": "Tool intended to download and upload firmware using DFU protocol to devices connected over USB",
+  "CSIZE": "30329",
+  "ISIZE": "96258",
+  "MD5SUM": "9103c33e70ae4720c5a8c12e4668c103",
+  "SHA256SUM": "98f729181c8123a295580e01310af1da2b9d3527c499eb576cf5d89136890353",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl8EnswACgkQeGxj8zDXy5Kzyg//WdpQJoRyOREV2MTJP0jQEzLU2GrCGXkzxIvqIU+3gwJFVDsen2q9vImoz1Q+WnpQzJCbOcpM1RmLYrnRHVYLVkiIN8J3jYJUmaLQKceUmPL78uEI3kqF8b65uhqpiA5mkzYJ1w9y+Jb19wBgqpGtxp5KMYNFRbrMWdsdILdwIdQRZjQGqlnzwMKRzLRjsgoVzenh4JBKPICVrq+KtVyoolZBigXdQ027frwBxaJK2Wc0EMwESDHp5J1yloEI0SJWm4TaQqDi0ICo9fXXqHDbTZ2y/Ho8ylk2IQMdnkpbz67915rP1jFOdmXM6dAoDni9TauKOSZLAW/ptRblycepZM60Z+MVLUVgMdVW9eJCyoJ/o88brP9Hqykv56S42xZE5xchYfJGcguPspygU4nv0K7KnMfv1PwWlDdZoVB4no9D67Y82CNfRjbGYZhm2kq+yH/q+9dckZtJezz/59MdcEN9KDsL4h0t0Y2fKfz+7fV7W12XyamgUJjGxKWk4F+8sYfIhOprEg0bua7/WIJthVD+kCLbn6eBIiL9zpDoYfg5dLPdJsuHm6UxZUvGsc8HgUV65S1embzlHE0d6sN/OJ6kMP0YESi1pRmHR71tR88MWxTc6mihnDVy7nqHKSRAF9sCDFUBJGVpgOKrvxsvq4jsqZ0RAZu2xuIE1kt/EgE=",
+  "URL": "http://dfu-util.sourceforge.net/",
+  "LICENSE": "GPL2",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1594138218",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "libusb"
+  ]
+}

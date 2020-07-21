@@ -1,0 +1,27 @@
+{
+  "FILENAME": "python-sphinx-autoapi-1.4.0-1-any.pkg.tar.zst",
+  "NAME": "python-sphinx-autoapi",
+  "BASE": "python-sphinx-autoapi",
+  "VERSION": "1.4.0-1",
+  "DESC": "A new approach to API documentation in Sphinx.",
+  "CSIZE": "91967",
+  "ISIZE": "466084",
+  "MD5SUM": "ab5421e52c94c43f6afc05d9f7952c4a",
+  "SHA256SUM": "0736a6e7d940d8e97ac362fad93451b1b7852c5bc68ce8527e27923027328714",
+  "PGPSIG": "iHUEABYIAB0WIQTH54SUZv4jWDQ1iDdyWHNLQcMVSQUCXt5+zgAKCRByWHNLQcMVSZpjAP9HVo/9v6FceXCoLHo3YndfsiQM+qMTQiRVumU7HgBy+QEAk60J8hx8Pz8xPIXRqILq/n/ovphg6WUcwXXHS0acDQM=",
+  "URL": "https://github.com/readthedocs/sphinx-autoapi",
+  "LICENSE": "MIT",
+  "ARCH": "any",
+  "BUILDDATE": "1591639704",
+  "PACKAGER": "David Runge <dvzrv@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "python-astroid",
+    "python-jinja",
+    "python-sphinx",
+    "python-unidecode",
+    "python-yaml"
+  ]
+}

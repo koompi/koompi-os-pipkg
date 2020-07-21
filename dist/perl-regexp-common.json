@@ -1,0 +1,23 @@
+{
+  "FILENAME": "perl-regexp-common-2017060201-3-any.pkg.tar.zst",
+  "NAME": "perl-regexp-common",
+  "BASE": "perl-regexp-common",
+  "VERSION": "2017060201-3",
+  "DESC": "Commonly requested regular expressions",
+  "CSIZE": "176650",
+  "ISIZE": "491585",
+  "MD5SUM": "82f1cd022256f9f951274fa59c6afb62",
+  "SHA256SUM": "052ae41aa913ebe14a5a29fce55694c950b5529af7d1e4aedd471911f601be3e",
+  "PGPSIG": "iQEzBAABCAAdFiEEhs/8qRjPOvRxR1iAUeixSKmZnDQFAl7vN08ACgkQUeixSKmZnDRjQQgAhs0wfQ1zAMqXNi70UUJwk9sWRm5vmkwY1O7DII9Z21Z3VMgH9VMiBHTvbM5IJ9SCi2H/mFT3W9lrb0CA4xb09QPkPiRpIDgBJKvS+iYRaXmlLumECdzjwehDu+LRgy/ab28CtCvlIKu22EOj6t11lezXvrMNnPqZWK6xNFAzDCzWjBNBBs8oXTpZKoDqzKMBpKM6ZzK23bHAfqKyrhOnAIsoDa9iEO5BXtaeg/XD6GE6iR3P69aUseKQPBIAjdrZbC6n7lg2zgNKP8/lB+B+zlKUL9bPEQc+EM3jK8xOy1afw5r+ngoyrZWQ70h/Vwmgu/UGKITrTTLe9p8Kmk/NHw==",
+  "URL": "https://metacpan.org/release/Regexp-Common",
+  "LICENSE": "PerlArtistic",
+  "ARCH": "any",
+  "BUILDDATE": "1592735535",
+  "PACKAGER": "Evangelos Foutras <foutrelis@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "perl"
+  ]
+}

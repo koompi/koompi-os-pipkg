@@ -1,0 +1,24 @@
+{
+  "FILENAME": "gnuradio-iqbal-0.38.1-1-x86_64.pkg.tar.zst",
+  "NAME": "gnuradio-iqbal",
+  "BASE": "gnuradio-iqbal",
+  "VERSION": "0.38.1-1",
+  "DESC": "Gnuradio I/Q balancing",
+  "CSIZE": "124248",
+  "ISIZE": "608897",
+  "MD5SUM": "3e0dcf29d0af3888c7825606b273b099",
+  "SHA256SUM": "a18d1b0aeb3ac7a946615d49a46d37ca5b8ded4f80a969890c99afff8d505634",
+  "PGPSIG": "iQEzBAABCAAdFiEESMOx8w3dD+Z+UW0WOW4+JbqxQsEFAl7QklMACgkQOW4+JbqxQsHvDwf/VgJoxzQzLkh518b907S3HJcfMio65Ju+OpXM6M9AWer0GTtEWwG5skr/DYlKWPaYaLAm1XAJMOjsJXA5tKqnd/lyayuryj9kYZbk4fon30MwhcvZJrT6De9QbqhgZuwxcKWnT4MPbvjq5/PDKDN/efCBTFBR2+k7Di3EiewbETkoegQJ+AezwxuynqzsS5B5RqBF5ceYacC9cWVAZqRADgXc/5QJOA+ffWa0KGuLUN1N5fhKcOv0q13Zz7cicVzDQLxdaSdD59o+SBXw9/lhn23eAN8wyxxt1lHR1U9+BdFSST6B6nWy9qsKvNP4+v4tIwgJAVgn+mcRphdzXO53fA==",
+  "URL": "https://cgit.osmocom.org/gr-iqbal/",
+  "LICENSE": "GPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1590729528",
+  "PACKAGER": "Kyle Keen <keenerd@gmail.com>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "gnuradio",
+    "fftw"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "FILENAME": "reactphysics3d-0.7.1-3-x86_64.pkg.tar.zst",
+  "NAME": "reactphysics3d",
+  "BASE": "reactphysics3d",
+  "VERSION": "0.7.1-3",
+  "DESC": "Physics engine",
+  "CSIZE": "283954",
+  "ISIZE": "1312028",
+  "MD5SUM": "c9230b67d4b0d21d9005fa215f0216b7",
+  "SHA256SUM": "052603371e17619307c794c0c99e236640a05799e2e60ec3fca6e897096346f3",
+  "PGPSIG": "iQEzBAABCAAdFiEElihV8HLHoBhGQFhk/PPIy1z5yNQFAl5stqoACgkQ/PPIy1z5yNTEaAf8CPi91zz298vaunnP3plldcR+jeR3AFkPm90TYQbeCJnKGUyZfeumC0hcrZHNmpPsUgrLZVHZpAyFFwSPj2VbBnvQxmVOnNrUsDe30TN+HF8640VNqINWQu9LDSSTTACuvAj/e4hOOA/B/3/ALprruiRfwaTVEtONc3iuYpLA+FrIfvGnM7iF6uL0GliCWYod3Xao5/3EdST6D8YSoCEmafCjZUtu/alUHCXx2dxGmz0tAszLIEGjriJK6E73UQY3U8J2oxBH5qi7tGhyf+tk4zsFKNClrsi2IoOpE9KYCSrbVSv8zM6AhB0wxWw3sN5Ef9PpV7zli3SzG9wrVNldBQ==",
+  "URL": "https://www.reactphysics3d.com",
+  "LICENSE": "ZLIB",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1584182875",
+  "PACKAGER": "Alexander Rødseth <rodseth@gmail.com>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "gcc-libs"
+  ]
+}

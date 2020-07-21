@@ -1,0 +1,23 @@
+{
+  "FILENAME": "qt5-websockets-5.15.0-1-x86_64.pkg.tar.zst",
+  "NAME": "qt5-websockets",
+  "BASE": "qt5-websockets",
+  "VERSION": "5.15.0-1",
+  "DESC": "Provides WebSocket communication compliant with RFC 6455",
+  "CSIZE": "82987",
+  "ISIZE": "309427",
+  "MD5SUM": "cdf5f8add7d2be4ee78d7fe27bda6e3b",
+  "SHA256SUM": "91ada24019d0b9de6c11fb3fb8111f363c3d850fdf3fa712c044d4c93d5baf6b",
+  "PGPSIG": "iQEzBAABCAAdFiEEFRnVq6Zb9vwrc8dWek52CV2KUuQFAl7M1oIACgkQek52CV2KUuTQ3gf/Uh7G/3HGRsTAk8ewKWrPhqT0sPm7AzhD/vwMoza1oIBPXzrlM63Q4JaX2T82zBc2UJ7QtxIFEeZG42LCYXI/+junf6B5c+LMkPdoAAn8H49DyhkcgDBhO3cNm8ZeBNFgq+3YsLvn3MNMBHPuUFbfFWSF9uG0d1iVGaaS6HdDGY1lY87zqIxEibahJOd7z3/zewMWpQbFNlgP8ZACoseMrSIV8w2mQd6AwCiu9BKltM9V0v0o3WslUpqQ+snHnaAEKJzLEZFQ7BLpPuNmAacQIoAzvzYbMFz1lrEdLpjyX+Rs04VHvEK4Ks1dEMBHtSU0rLwGbVa+3Vc8jAeXn1HJwA==",
+  "URL": "https://www.qt.io",
+  "LICENSE": "GPL3",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1590478700",
+  "PACKAGER": "Antonio Rojas <arojas@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "qt5-base"
+  ]
+}

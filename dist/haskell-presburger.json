@@ -1,0 +1,23 @@
+{
+  "FILENAME": "haskell-presburger-1.3.1-14-x86_64.pkg.tar.zst",
+  "NAME": "haskell-presburger",
+  "BASE": "haskell-presburger",
+  "VERSION": "1.3.1-14",
+  "DESC": "A decision procedure for quantifier-free linear arithmetic",
+  "CSIZE": "106563",
+  "ISIZE": "528940",
+  "MD5SUM": "914d611c5df82c07a9606ed1da533027",
+  "SHA256SUM": "a79ebf63d90af9993bd242099639b9162788f9c64296573ee4aa7a60b4fbeea9",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl6hpv0ACgkQeGxj8zDXy5IBBBAAolMkuaHA7E29WJOQwF/Vj3HAjGgduQvl40ayTgXZQXwWi8fLzxqRR13c+D/hg8n1J8bM1Lpq1gUooV+KFTt9diQHTaq6KjU5GHZR9Q6e8OHC/oVt74Rrpkm2CKX+FPv54ad2l/Gm357L5DfsDyBRPP2aOHRRid2mnI7cV94yNtbxeza4Sq/2+AIzFQ2p/16LZYK4NiQJUsa8B6exTS5pg2ew0tlqb0FZjsJewvCaIQZtIS9SE/6eFZetqWSiYtKTHAl2zHLICOJn1qoFMk+0ppjietFsAQSspcARjsH8gnIZc0O/7y0Wh2H34nww6YTWmlQjJKqNIYdkTMzpJ9OTlZwf5I6xfN1YWYwJy2860PXifvfna8P+ZG5dPp2zoSjpGjlUeROqB6a5dYepNX3HWzIOD8d+0AY5u2vLtzJDFbYJyxwgsmR2YLjKUvGqu2rrj3mj6R6ALMimugCrrJk+hZ9dKDpVQujWd44+W3kL575ElNuXX72a3H2sBPx8OQbga8+ebIOMuy/UShZMrOGodroEl4yBi8Sbuc/lfnY/UbOXTFuMRkjM2FN/+oNWalwR6LAukC28C73UvJ8ZBvv0UIrzl8m0aF2ZTsBsQcAqbD8kBL9qo02zy34Ny2hKep+43MNHG4BBHtGVzd1OCkShPNS0iH8vJxj+EjXc1d6uOFU=",
+  "URL": "https://github.com/yav/presburger",
+  "LICENSE": "BSD",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1587652259",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "ghc-libs"
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "FILENAME": "kbruch-20.04.3-1-x86_64.pkg.tar.zst",
+  "NAME": "kbruch",
+  "BASE": "kbruch",
+  "VERSION": "20.04.3-1",
+  "DESC": "Exercise Fractions",
+  "CSIZE": "3836942",
+  "ISIZE": "5481146",
+  "MD5SUM": "6c10c6fb490484f3d9a532a2fa7cf47a",
+  "SHA256SUM": "b6c9f3ef8bef41389cce52118fc09e8d3d83fa16668cc6d1244565b2e1537a5f",
+  "PGPSIG": "iQEzBAABCAAdFiEEFRnVq6Zb9vwrc8dWek52CV2KUuQFAl8HBDIACgkQek52CV2KUuTTUQf/UzfivVD2AVCJ2JRyke+TqcJApmKATnuP21vhlyyvbFIn/x6JWBznJ/ixRQzdsi6EutMc9cPwO83aBDjaK/AGxTTXfgkWt1WOX9wVzfWKqt+J5Qt0HQ1vzSQI0ULDPkhhon24D8IvwVbYPA/kjuxDVH2QK/L1MYRyIjEhNQ53H35MLAvHhUSx24kYVJYZ7QoqF/0XMX6jwQyLVe2mHW49qN3jDwBWqmnyx2xCl1hfHpfOzODr5UW9ERerLiCAY/UoRdiGh0MZ3NmH0eUDAuH3a1wUpyqXfnyWeL6sLI6KB+YE/K8LQSk9pg1PmnXAzA+BrAiMPpaORd4h84a1ymO5hQ==",
+  "URL": "https://kde.org/applications/education/kbruch/",
+  "LICENSE": "GPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1594107074",
+  "PACKAGER": "Antonio Rojas <arojas@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "kxmlgui",
+    "hicolor-icon-theme"
+  ]
+}

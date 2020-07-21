@@ -1,0 +1,25 @@
+{
+  "FILENAME": "couchdb-2.3.1-4-x86_64.pkg.tar.zst",
+  "NAME": "couchdb",
+  "BASE": "couchdb",
+  "VERSION": "2.3.1-4",
+  "DESC": "A document-oriented database that can be queried and indexed in a MapReduce fashion using JSON",
+  "CSIZE": "19657729",
+  "ISIZE": "41175523",
+  "MD5SUM": "1c8b03e827cbf7d58f0629266cf4e8ab",
+  "SHA256SUM": "d33071d8d65363a593349a29593c2dbbefc691e726eafe6a6a6a91c2002131ab",
+  "PGPSIG": "iQEzBAABCAAdFiEEhs/8qRjPOvRxR1iAUeixSKmZnDQFAl6m2lkACgkQUeixSKmZnDQdpwf+KKw57fGh7OV0ELOTxJ6OAMBZ949YcPK2G63r8GRbSJAYg2Bu7Y3/hzzzK7ZmhJ5iufnavMoJpWGsm30HVajdabuQCTpudwoY341jtAkFPs/8E/ExsThlGD81CAZm/lVUhmsKDGcM85h5qYtn8U0cnpipSkzI3c65UxeyRJQGkjPaPcErS6v66eTs/kvVMzJG+z2PLKDqhF/vdYlBj8NVKj+YHjtSdBNwIazKTc5VoS0CnmWxbgNbeT0e58iHZ4Eb8eAxI3/hepx69XtNQzTFyFIES4PnrOrvaji4crkb1c9FgU8Fj6my0OgLOsMbekIuCAsWNVGrtLzOmsQTZPPOpw==",
+  "URL": "https://couchdb.apache.org",
+  "LICENSE": "APACHE",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1587993052",
+  "PACKAGER": "Evangelos Foutras <evangelos@foutrelis.com>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "icu",
+    "js185",
+    "zlib"
+  ]
+}

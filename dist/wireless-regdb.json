@@ -1,0 +1,23 @@
+{
+  "FILENAME": "wireless-regdb-2020.04.29-1-any.pkg.tar.zst",
+  "NAME": "wireless-regdb",
+  "BASE": "wireless-regdb",
+  "VERSION": "2020.04.29-1",
+  "DESC": "Central Regulatory Domain Database",
+  "CSIZE": "10161",
+  "ISIZE": "16171",
+  "MD5SUM": "ad6b381bc1fc72f81f192f06de5dc17f",
+  "SHA256SUM": "260ba15617f1b61aae463f12352a2a91e07abc544ab367f0a68db4c247a05308",
+  "PGPSIG": "iQEzBAABCAAdFiEEFRnVq6Zb9vwrc8dWek52CV2KUuQFAl8BsaEACgkQek52CV2KUuTVIwf9GEbZ11nl9qZ8Ely7Kjq8+EvqKYrfGcO5NybuUHNn+2e7T40AD5tdG/kH9OF8ry6C2yUf/o2Ii2dxYFU6W6ZSaYjZkO9YFjuyTQi+oxarbU15z8Jd3Kl+PCf4rHwKgVMw68zPFiS1uGiIf5lcfP9so6PXxoifdbjplLSCQFH2GGEPm9EbgzS/y+/WUbRVld56hr5Z+VMJ6eJAWes2h5+Z7nZ7BFeoDq8AZ1wTavzaWvsirUXyLDk+POQCyjNXXEY94vf3RqiEgkrDPWc5oxID0bJfnDBYjIj7mVV31ckMjg3L5BeKcPoliTzQ/GJ6FDfS0YnibcVmxDgJ1NuQdDpOOw==",
+  "URL": "https://wireless.kernel.org/en/developers/Regulatory",
+  "LICENSE": "custom",
+  "ARCH": "any",
+  "BUILDDATE": "1593946406",
+  "PACKAGER": "Antonio Rojas <arojas@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "sh"
+  ]
+}

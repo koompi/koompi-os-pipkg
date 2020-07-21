@@ -1,0 +1,26 @@
+{
+  "FILENAME": "libchamplain-0.12.20-2-x86_64.pkg.tar.zst",
+  "NAME": "libchamplain",
+  "BASE": "libchamplain",
+  "VERSION": "0.12.20-2",
+  "DESC": "A map widget",
+  "CSIZE": "220125",
+  "ISIZE": "2234488",
+  "MD5SUM": "577f856fe1937e3175e5a2fc57298217",
+  "SHA256SUM": "ec4f5aecdee57b8548d571af87e8a3e48889374aa0ea2fe75663a63630541ee9",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl6/3OEACgkQeGxj8zDXy5L4rBAAgU53hepzFlS3gk5WJ3r9wKVWYix3K5I/06d3KkB2+GPI2MpRHKJezgNTCQOn9p0JzezfB5WgzPScLQkNtxooKv75nOXNwp31LuRZwyfqslCemKPfzewRCILJStO0pG5YXrW4eEmkNQTvzJ3zaUgyEsFu4HCQdUKnaDf76XCaFK8QE5IxG4oURptu7jrL7FTXFnL8IuO1qjGuBxe0fqcLnTEtWWoryTsi59wS3eY/6MCbuB6XnC2neNKO3scQAkpWHqUdVM//fTcgU+JnjEVBTVkHg7/HnxUFUa5L7cqARzbgDBUuRkf943j9Hmmd2bMzeKZ5lYYxY/0KJNX3E3XoWWWt7KEafPwidnuT7Gylm9qUaaNPE2jOAUcmKolmXH+bfnt85mt3fi/07U61FjjGqSFYS+mFwYNC4dFVTo+Bytk514OGiRibJu0zrec9swg+20hKLgNcSs7PfpQqHYJO/iaIVKBoMU1+3owcVd3yZ96INkMgXQ/uhocjAVmzlN3Q5rQWSrOCaz6CsNDajVK/uvI71H/P4PTAH6QMl/iYhEcWbucxsQNjz/ZY08/Ub5oh5tSRnNIz1UV33gqnVD1pCSxm2aAHiycHTs19PcOpxnhTEWbt1O9GwmIkOj2kafb9Gg3MziOUmcPhvbJCOCv+y53w5qX9FSR8TJQ0it/UuQg=",
+  "URL": "https://wiki.gnome.org/Projects/libchamplain",
+  "LICENSE": "LGPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1589632169",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "clutter-gtk",
+    "libsoup",
+    "cairo",
+    "sqlite"
+  ]
+}

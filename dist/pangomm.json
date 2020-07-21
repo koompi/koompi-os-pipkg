@@ -1,0 +1,25 @@
+{
+  "FILENAME": "pangomm-2.42.1-2-x86_64.pkg.tar.zst",
+  "NAME": "pangomm",
+  "BASE": "pangomm",
+  "VERSION": "2.42.1-2",
+  "DESC": "C++ bindings for Pango",
+  "CSIZE": "98841",
+  "ISIZE": "477761",
+  "MD5SUM": "e494ce34eea9f3241fbdabecd10eef8e",
+  "SHA256SUM": "468eddd4459d01f814b4668c31d03e8ca647b2964f26f300e83dba67c2e7ab40",
+  "PGPSIG": "iQEzBAABCAAdFiEEghj4iEmqxSLpTPRwpekojE+kFfoFAl53kEcACgkQpekojE+kFfqh8Qf+JYqzqNBaT+4CUyX/hsMWYD12XHm/JF+7qzFLoP2Nu4zEWdShq6nSD2b7hArSU9Upi1oT9f5eUaFzRaaE0cR3DAlyK+7ks5Gs339Ny0wfTP/3iYDxVrsH3zC0VLfdgbDNkiJNjWygf1o82F/dxK2nD7HL+8YOiWDqbL0di7HnAQbE2WMxsx2YRTqhFhXAIaPUgws45Cf7KyEAvsM36tC3xyMhQhj6l1M7ssK78bGsvJr9HYC7agc6iSP9Z7F+DdKBjZQbCAZ2+xtIypB88IzsgZIsB8EKQamaqabPeRHQStDxIvxhwrUm+A7PkT0zAc00P5wNH7pxDqR0MSIXF2fR5g==",
+  "URL": "https://www.gtkmm.org/",
+  "LICENSE": "LGPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1584893442",
+  "PACKAGER": "Jan Alexander Steffens (heftig) <jan.steffens@gmail.com>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "pango",
+    "glibmm",
+    "cairomm"
+  ]
+}

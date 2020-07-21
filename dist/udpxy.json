@@ -1,0 +1,23 @@
+{
+  "FILENAME": "udpxy-1.0.24.1-1-x86_64.pkg.tar.zst",
+  "NAME": "udpxy",
+  "BASE": "udpxy",
+  "VERSION": "1.0.24.1-1",
+  "DESC": "small-footprint UNIX/Linux daemon to relay multicast UDP traffic to client's TCP (HTTP) connection.",
+  "CSIZE": "42133",
+  "ISIZE": "171785",
+  "MD5SUM": "9a975a7d678db9027c519323d016d989",
+  "SHA256SUM": "f63eec9d3cc48a5eb2c81fd4eb3e087c25aac2546674c8eba9cfbe1c10821ee8",
+  "PGPSIG": "iQJGBAABCAAwFiEEPlGL8lJv0Zeeiq5JZcEQwepDP8cFAl7uNdESHGFyY2hAc2VyZ2VqLnBwLnJ1AAoJEGXBEMHqQz/HXUQQAL4/1QNBMImISWEu8eBmsZXA0Z8BB1ZfCkzkdixYX67lz2nuyCNr5LeVRWe8eruFkdzuRgzQjnjVd3fx1edKszPCfCF6wQc4Pun+XEkycu52Ca3H6PUEGt8EO0Fe329s/wuVmq14gP978QYKtVmwljIazLpV8/1aXXTe4xNl5ioX0hYDx7bgk2BjHqx0+hibgT7QX5dPkw/seJA6qqML5Kr4mOB4KH1KKDeJG6FoOve78xup27kT+KDc+jd8HnvXgMFl2KFK3zFrkhEEcMBJ87FnaImLm/jP4FxSyFLSGamHRcE/8sVgFgdtvgoP6x1C7Sdw5GfV26JdwqHrlAwO0ELKRtWq6fcB/pH4YWw8jMzBpv4fK3qq1eG7yhMi6wmKCb2sSKLxhkbXbxV6ajQC/5X1MYKqkr0w5u0e7dCpdiz0jRPjR9AUydEwJyrmK0ap/uTBbrAQc5MXI4J6ENFDmwp5eq8ucuF3+h5ImcRhFPB6ibz+0HXZ6/xJnRi6IwugELK5Y7LVVyU5fv7Um6r4uVsHihZ4Z7oN9xsgqTdnOIBErnZ4D8URCv337hDeopj4HcNTIJ5OBwqAPmmgVxB/WMgBQC6ohHAmpBkVO9WYOvAUSU1Le2tNLzn/yFZX9SvOCzUlJ8CeyaFUm/NADWurZ0wWEpcRVNKMQA/18867HFHH",
+  "URL": "https://github.com/pcherenkov/udpxy",
+  "LICENSE": "GPL3",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1592669600",
+  "PACKAGER": "Sergej Pupykin <pupykin.s+arch@gmail.com>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    ""
+  ]
+}

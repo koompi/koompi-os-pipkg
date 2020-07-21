@@ -1,0 +1,25 @@
+{
+  "FILENAME": "pgpdump-0.33-2-x86_64.pkg.tar.zst",
+  "NAME": "pgpdump",
+  "BASE": "pgpdump",
+  "VERSION": "0.33-2",
+  "DESC": "PGP packet visualizer which displays the packet format",
+  "CSIZE": "20180",
+  "ISIZE": "51437",
+  "MD5SUM": "4087a3c0fa7d6a236554bd480978413e",
+  "SHA256SUM": "4a4cc722fc3e575110a54560d193931f312d5e051bd8cd7d6a48676d19989e08",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl7L4MAACgkQeGxj8zDXy5I4ZxAAnDjNMgS9fs3b/uB8cizVps87TrUbimDB4zcyNUxR2ljJbDXXF58rUDgu2HY3hBkvPaA+Dv/gRHThGfo3IFmAf0XK6hC6myWLA5kMYVx9N+NCRUbkglnkoaIv2RkYIDGLlzKr7NizZtZuDBE5OprHskeCAMmBRtyQpUd4O9RFsfF3DrWjN6e9iWVxGnVb1B4zMIB4Bt6jDs/D41thzfiIG7lu1Bpz74omIOKzh60Lz+92mKfjL6xD208/Xp6kWrhZPhBbAMzI8j8S10DwFOHoBSp7K4Y2z+diw6gmhEEpKkpxRHHfd2uuCnxW/V9bCnUfavk5hwu3nooBIR2shE8OL3rw3kypWBrwY+IqqeOE59oSJZP2UoTcIie+swDWF+ptK/RRin7qTrTriaEOyTi+77osxBlKQQOoPzrU2lnSK7PLzRpPhdTEqRF9qrLkhpNCVL8x1GucXqSbuAbByayIbnwdJM4kniDeKg9wQLBv4KzOA+oZfHcAuhn9MjMYfMRa3Vh7i7f5n0E3THX+2zwCUH7+qjGr9F/4EM2bA16qfm0Y2wQxCQ2TqVbkR9m+B8OReTMDXEzsI3OIRdpDb/rMs4qvp/oUqYymOXYi2t3Zo9niRYwJpp62BVVidFHc2SMq7GaPC6YWDc0IFbl8EHyoc3+zuUb4x6cijcrEzHdTYuc=",
+  "URL": "https://www.mew.org/~kazu/proj/pgpdump",
+  "LICENSE": "BSD",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1590419564",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "glibc",
+    "zlib",
+    "bzip2"
+  ]
+}

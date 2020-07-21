@@ -1,0 +1,26 @@
+{
+  "FILENAME": "qvkbd-git20170102-2-x86_64.pkg.tar.zst",
+  "NAME": "qvkbd",
+  "BASE": "qvkbd",
+  "VERSION": "git20170102-2",
+  "DESC": "Virtual keyboard written in Qt",
+  "CSIZE": "45403",
+  "ISIZE": "128078",
+  "MD5SUM": "be7e8f74a58bb71e9a6ec47a9170a81e",
+  "SHA256SUM": "e1e5f08da2fc41a7f35190d62e29111a34cdea85a57af468b23271ee6afa7f62",
+  "PGPSIG": "iQEzBAABCAAdFiEEFRnVq6Zb9vwrc8dWek52CV2KUuQFAl62jxkACgkQek52CV2KUuTT1wf/b2PdhPgAdNkfXLGoWV7HmlEKj4PILOR7y7r9TzaVrF9T7u5ocVaBMc0+1KCkKNjm+RP/RMLyqLQ6cppAfSdNk19L54z1Zzz2L1a8bntHy0QvT7BQd3rsQG53wwKMS1m2IjkWy8XmDwrOd25/+ljH/Bs2gOQQeywVlJL46le8WYOOpBDMT8Ir/PDHxAboWSf/gYMbghaUq6Go5+T7PwaPak7j4j727GYCKcMgj/8aqVj10qXzHxVDOnJv6647ngCPVsRfG9x3qu2yARJU9ZekCHUrqaY0wQwMwKHc8663aAxXQUjFOrzZPYSYN2BgjokhSfW3XyAkM9isWnbcVDGFWA==",
+  "URL": "https://github.com/KivApple/qvkbd",
+  "LICENSE": "GPL3",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1589022432",
+  "PACKAGER": "Antonio Rojas <arojas@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "qt5-declarative",
+    "qt5-x11extras",
+    "libxtst",
+    "hicolor-icon-theme"
+  ]
+}

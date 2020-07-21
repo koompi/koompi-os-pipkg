@@ -1,0 +1,23 @@
+{
+  "FILENAME": "antlr4-4.8-1-any.pkg.tar.zst",
+  "NAME": "antlr4",
+  "BASE": "antlr4",
+  "VERSION": "4.8-1",
+  "DESC": "Parser generator for reading, processing, executing, or translating structured text or binary files",
+  "CSIZE": "1895927",
+  "ISIZE": "2091946",
+  "MD5SUM": "5c44e91d9f3a4c7aab66ae2392d231dd",
+  "SHA256SUM": "253d27ff780580ebfd70938488bb6fced3b430bda39d13b40418e2822f17f749",
+  "PGPSIG": "iHUEABYIAB0WIQQEKYl95fO9rFN6MGltQr3RFuAGjwUCXi4OawAKCRBtQr3RFuAGj8SZAQC+PINTjbQSWMFGJjHSOgNH/iC6eCxbqmupOwB2ki0mzQD+PLW4fbi0bW12aVYRSsPfgzCA8tx0PpgCQqNSlxv9Gwo=",
+  "URL": "https://www.antlr.org/index.html",
+  "LICENSE": "BSD",
+  "ARCH": "any",
+  "BUILDDATE": "1580076517",
+  "PACKAGER": "Christian Hesse <arch@eworm.de>",
+  "PROVIDES": [
+    "antlr=4.8"
+  ],
+  "DEPENDS": [
+    "java-environment>=6"
+  ]
+}

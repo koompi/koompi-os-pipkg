@@ -1,0 +1,25 @@
+{
+  "FILENAME": "golang-golang-x-net-0.0.20191210-2-any.pkg.tar.zst",
+  "NAME": "golang-golang-x-net",
+  "BASE": "golang-golang-x-net",
+  "VERSION": "0.0.20191210-2",
+  "DESC": "Supplementary Go networking libraries",
+  "CSIZE": "833055",
+  "ISIZE": "5287202",
+  "MD5SUM": "bb7bdc6c67b3d56a3133f54862d02abe",
+  "SHA256SUM": "7e6de0088f94c696e30cde960c29611b86236e36124b73f33bd9b6aae37ed1bd",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl71pa4ACgkQeGxj8zDXy5KG/Q//d7Dk3DD6Qve++rmScA4zCAbg4LX4JELhRdrd4alrVqaPrkOnWa12vZdajmTUnhNpV555DLEW8Qd10C9hY4zs/flMvE08Sq2JRP9Y/t++vLSLQ8AWyAUHAw9QgEIoEJDtKrXoPU1WfwGRAGXOzni82s5EhRPJq7Nvp3hGNEC8ZBZaC6BWlT3uk2XSv2qZLYoDFlQdZ3aVRr83D6GIjF6VUsfq83QjHrlilFJxZs0f1jEq2Gw6iZVshY2K41Uw57bckUuLagbTDxLq8f970G8rZzZounChR6UlKd2S8ONAw5Ykh85aHQ8uIEJhjRmh3rKvwjh7xHi6pJ1YFDxfQrNFOBqShmMyunc0ovU19TXC3nYFfu7Lvq+Lij6GjKv4Qm6wjlxYVCLD120xlOaJSkIcNp6A7X84LqUk4VVyDHuDpQoYmWIfzX85gnt5Tlb4VhsIIu6rr3dqWkDtC0+VJPObgQ9j6CWi/luwSdvjHk1w/4PDLP5COYrJb7MieEqqgPehg6seiyUuWU/X0gnOewBXwPbUDvgdlYszmClX9wpdG1jEMx4UoXaOxLO5Cp3Ww6LLWX7wCe0jO/i63VoDTcD8y+Hu/EupWvwC36UMQNMJ3QuE86+8rgCzTqjvDegqoLJXYOHkAifvYrbvYdSpx4ayihzld1eUmkTRoEt2rDYgS6Y=",
+  "URL": "https://github.com/golang/net",
+  "LICENSE": "BSD",
+  "ARCH": "any",
+  "BUILDDATE": "1593156715",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "go",
+    "golang-golang-x-crypto",
+    "golang-golang-x-text"
+  ]
+}

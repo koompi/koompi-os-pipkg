@@ -1,0 +1,23 @@
+{
+  "FILENAME": "python-ioflo-2.0.0-1-any.pkg.tar.xz",
+  "NAME": "python-ioflo",
+  "BASE": "python-ioflo",
+  "VERSION": "2.0.0-1",
+  "DESC": "Flo based programming interface in python",
+  "CSIZE": "494764",
+  "ISIZE": "4151314",
+  "MD5SUM": "e76b0e8987fc9e850845aaf8c39a4183",
+  "SHA256SUM": "7ce8597d122caba547fea127c4d8d4f29013541885ea456a8d92c2f14710335b",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl28rPIACgkQeGxj8zDXy5Izyw/9Gfx3sIA2Y2BBgfKT/7zkWYHINdBNqNLms5XlGoVgOqyYR68z5gqWtaew3G3he/gCqOEsP/CxuQ51s8UfFU9ws1mYd8Hk6yQWm1vzCzNT2JfMfzzPVxda2zUVBSp5lqBVjYMaUTSlZJS5+FlJhMNqHgaeqM/Ep0Rc+BjYTOuiltalp0hP8+qK7686KrCEbojUExRIgy9CbQAwhSvk2i6oa9aTo7jFz7tuUsMIuAer2MbjnaRIQBxIaIEMsmfarMNgPZJyNT4/E3RfCqFBbOHLUkEB0gNkFtvUMiu4Jmc4OfoCus9uM5zkMF6Q/2SS5FL3qiCe8w9l1PV/5MS/qu/zlQNPGxaNryAvlQo5HbsfVxxouTmPMdLNgaIHpWW3wvlauCl3ll8MeGFETEM9ZTVsgcCqfq4c028IXOPgu2GELo8s7tuQjqWDLov52entbWjrg64DyJJAVYMHkwq7x2TsrXcZRcspzfXKMPlmzVA123ogW0da989R71eSZyfnugXIdbFv8XXMs+dW80lv38YyKDm4ZyB+GlOw5lTA39qPouHKyme0gJnj2/hDVkwVJxk2DV1erbAeAkh56pAOiqM+23XDeihi1+lIU2CNJDLdwKkzuPFvfDOx+ZfC41o9p0F01OogCKRvvo9K9L/OiUDXx0o7+TXKZhf1km1OH2U3Xqk=",
+  "URL": "https://ioflo.com",
+  "LICENSE": "Apache",
+  "ARCH": "any",
+  "BUILDDATE": "1572646045",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "python"
+  ]
+}

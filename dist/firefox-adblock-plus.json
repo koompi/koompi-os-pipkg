@@ -1,0 +1,23 @@
+{
+  "FILENAME": "firefox-adblock-plus-3.9-1-any.pkg.tar.zst",
+  "NAME": "firefox-adblock-plus",
+  "BASE": "firefox-adblock-plus",
+  "VERSION": "3.9-1",
+  "DESC": "Extension for firefox which block ads and banners",
+  "CSIZE": "2198454",
+  "ISIZE": "2275572",
+  "MD5SUM": "f1126cbb458b8234232b72985300fff0",
+  "SHA256SUM": "ccc20a338431b9fd2d20d911f9ad4931a88b5c383ee74ee34573d4c438bafc3e",
+  "PGPSIG": "iQJMBAABCgA2FiEEYEETBMCdNmKDQO7/zrFn77VyK9YFAl8B6s8YHGVzY2h3YXJ0ekBhcmNobGludXgub3JnAAoJEM6xZ++1civWuE8P/2DthxSGGD+ymEOhd6WEu+A+dMLM3CBp19+gZK1ogvnwk11zehFoCh19AvLuCktgMhyO07sHRdDothHxQQl1B3L9d2c1gxIcBKTBCmvQAEGrDjMkThas8oJHlKKZPqcdnFFKqY6gH2o3RyNi8HP/MuS8vRyEsDoioXKNTHQ2uMwXyK6tAKLHq1IIBbT7RYvSTq4WPT+dd2nBIViOCgeZVfr5C2hXJnFuo4GSD33B5dba01ownAj6Mon2AAkNur060d2R/lLp+/1ma7qSdpbFA63EMxPcUtCFKqckQ752BwaQtRABX55YxGKaZa3KPGjMBW4Hrp4JYdWFc4/MQyyvZIYmLLkmyJafGITqn91pkHYxS3Kj1Wco+I1HCNshWFZEaS+al1LKXxC8sUVcKfEAsMvLZctI9UhnbyTNZdrzXQ7S4za4+JLHk89lfxa105XQ0TapDShHI4UaOoD1xWijVxL4W9B7HuQntaIFHRM9K/ua3lwjFBqqTe2ksy+8lzKJpRxcDgMxN3kzdXozroOedaTLEJIljdGGFh/4XlAWssWY4bizPpaoaXf7JImjaX8zIhZkIKYVpdmsd3nzfAVtpKavRkSC0iX5wt22Rc2o0ALrdMalIioXEt/G9S79AGVTuN9A+oI7/S0RR/DP+UbzR6R4LABa5ey7WrGkCuB00cJe",
+  "URL": "https://adblockplus.org/",
+  "LICENSE": "GPL3",
+  "ARCH": "any",
+  "BUILDDATE": "1593960033",
+  "PACKAGER": "Eli Schwartz <eschwartz@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "firefox"
+  ]
+}

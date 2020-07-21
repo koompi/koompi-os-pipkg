@@ -1,0 +1,28 @@
+{
+  "FILENAME": "dnsmasq-2.81-4-x86_64.pkg.tar.zst",
+  "NAME": "dnsmasq",
+  "BASE": "dnsmasq",
+  "VERSION": "2.81-4",
+  "DESC": "Lightweight, easy to configure DNS forwarder and DHCP server",
+  "CSIZE": "362663",
+  "ISIZE": "764260",
+  "MD5SUM": "fa036354d92caa7be0df03496fa256ba",
+  "SHA256SUM": "d775e06e57a133404f139301186c0a9f5fd650e39e530156a2519a8d3d3a1542",
+  "PGPSIG": "iQEzBAABCAAdFiEEhs/8qRjPOvRxR1iAUeixSKmZnDQFAl6w/CwACgkQUeixSKmZnDQ6qQf/RmBYn7a7DVLBe4LHAZ5rYJDC9RGK3g9WALXy3Jax5BVhtBoR3v9HeF0zm5kZFNYH8cmWjt9cCM3KgMrs7WMoU+JJT7piqv6yNhk0Kq5DkChTAVEfid2+m4X+3ls7ywwwa6ZaCHQNIjFCpxJfg1wJIAqYfXNZugRWFefHede7+/NjXj//uNUHg30HJv15K1HuLfJtp4VNLLn4/4KbYfhWxEicNMRdZ+hbP5KQlDj3jl0/pBoMhpecf/KCUNwCLIPL+QcRIPiLNCFChwlk8En7MSIDSqAu4fPCij2zd24uh41htbaDM6DSXev8EtL5ocxGuaQLjOuvvzbyjZj/Ce2w/g==",
+  "URL": "http://www.thekelleys.org.uk/dnsmasq/doc.html",
+  "LICENSE": "GPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1588657175",
+  "PACKAGER": "Evangelos Foutras <evangelos@foutrelis.com>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "glibc",
+    "gmp",
+    "libidn2",
+    "libdbus",
+    "libnetfilter_conntrack",
+    "nettle"
+  ]
+}

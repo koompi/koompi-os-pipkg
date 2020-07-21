@@ -1,0 +1,23 @@
+{
+  "FILENAME": "ranger-1.9.3-2-any.pkg.tar.zst",
+  "NAME": "ranger",
+  "BASE": "ranger",
+  "VERSION": "1.9.3-2",
+  "DESC": "Simple, vim-like file manager",
+  "CSIZE": "387449",
+  "ISIZE": "1908883",
+  "MD5SUM": "1c6ca650183e95eda7fdde6bfe255537",
+  "SHA256SUM": "0f113e4d9b1ea996172ebd8a40ea233070f545908902f7be62af17c640898268",
+  "PGPSIG": "iQIzBAABCgAdFiEEBNw/sURf7KgTwn766k97MhqQatkFAl8DlIEACgkQ6k97MhqQatkajBAAl8m+SIgBumbO5oOImpi9OkGoGiUD+BdzHUfi+gXI7KV+LMYys9GQbxg+6ZyZI1bSIoy3xqh6jHB5De/WVV4og2NFDNtpZrUlXl/lqDazYMCzhDCIdbzemWH2VMDEiPX7MHUw/7StslZqw1pYfG4BCdzGohr50vj0TpmbAqzVifuK5zhKShxa2ruSzC+ds78plmrGgoRmSSzLpMU8Y9NArIJH/3uxcZPL17IkFvz9hO1iRoNnBlamTyrf17VmVOSm3/jlwMkxTzXVi2+tE67GtHRbobWoAuNpBs0q8O3OcQVR8p2N03N9m4JZU3n/5DaMFxfcPfNIZolxSm036677Ptfo19hogKouz6l3xQ2UH4dmZO3KoglzfnxkIr/3eBqdap0Lb77ggAYYgNcuhlaEHT7eOrZpFBE3r34/jcM+7BiBXlboH/HqE7ytPeF9p9xpAt0VZZ53nUBsED3S+eGzu4GrSpVomA8C6P0/8fwvfuHGvIXodkqg2dVjd7bVlZLKWjFObRQmRu6wPbAEwUN34kXkYZEGUsL6MVcSTY7VGAsBNO+MMKwrg0vxpSuHgPGw2pRLt598O6p6uN6bTP+NuyyzPzVhC/nOXrRIxNHih44HErQqRQu+f04kJ0oqHB7UVjIDyCbufIxQmtWt/cY44J3mf1Ev6m4Wg5tIO0MWe7I=",
+  "URL": "https://ranger.github.io",
+  "LICENSE": "GPL",
+  "ARCH": "any",
+  "BUILDDATE": "1594069872",
+  "PACKAGER": "Daniel M. Capella <polyzen@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "python"
+  ]
+}

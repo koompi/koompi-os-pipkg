@@ -1,0 +1,23 @@
+{
+  "FILENAME": "haskell-parallel-3.2.2.0-10-x86_64.pkg.tar.zst",
+  "NAME": "haskell-parallel",
+  "BASE": "haskell-parallel",
+  "VERSION": "3.2.2.0-10",
+  "DESC": "Parallel programming library",
+  "CSIZE": "42095",
+  "ISIZE": "227113",
+  "MD5SUM": "889b7069206544a77d5ad58eb762272f",
+  "SHA256SUM": "ca27e3aa58fa314ff171963defbd9e002245d199568d1782620808947820e9ea",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl6hn2QACgkQeGxj8zDXy5Kfuw//UHTT25S2p8N4XbzdzJrCzbtyS3X0uclJxF/LJgCCteqDOFs1Onz1LlJ7Y/t9JUQseeH9c2srfdI7bjlUYD96VVCLAl37aYeEJTYB+V069VY7+PMv4MdT7EvPGGuCxz/y6W0swTbiSf+0bSsaL6vr+RT19EGenUQ5RmZhP5q7uB7Ic+IrUmj8R0NWypTMndA73rb1ap3tYk8VSunaC+Zecq9n93ylSP/NnSmXjXKDZKN/QutbeRqpbFsp/sYV0jKCw3+Lh1dZQoSiJPi9n+9UYO20rt7NUocvvty9N4TWNKDB/nkNVvcLIuiZeYcH4nQhWrThAGj1nqRSwgiiMiCMRr6Ee8MKcCJ9vr5e3wClN0FN77O7Lup6gHg8QLRVnka/yk20kzIqQ8onYU1CsC7glTuNICqn6LFPeJ9QOjXX3L196pFgClH0jx9U/w4vwTremvdTnliEGhe6fNhUSp5uC7c90gi5ZnIHvIo1fuwUGrsjHuHqF8f1K8ffr3xviVG/lrne3npxinvF48cRRvOKEfqwvIxZCk/j0613wrjvqgNdP+5gaMTCn+3x5PaxJZBNk9yBR3Xx/WOXSwb/A4t8ji70bWZCxUFWlScwKs+wWXkE7rhcDi+RtjE9EqihBld8p74g2h9u9BgIOq58v+mKErw1Ovpm6p+QlgEBDyCYS7w=",
+  "URL": "https://hackage.haskell.org/package/parallel",
+  "LICENSE": "BSD",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1587650317",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "ghc-libs"
+  ]
+}

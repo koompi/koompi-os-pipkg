@@ -1,0 +1,25 @@
+{
+  "FILENAME": "libmemcached-1.0.18-4-x86_64.pkg.tar.zst",
+  "NAME": "libmemcached",
+  "BASE": "libmemcached",
+  "VERSION": "1.0.18-4",
+  "DESC": "C and C++ client library to the memcached server",
+  "CSIZE": "343240",
+  "ISIZE": "1020482",
+  "MD5SUM": "c4879d1a5b81bd308bd8d15bc319a166",
+  "SHA256SUM": "1f6b3c262ff6614b1615a38d1cf1e0b6da6021168aa6a4e6da57bf356d7bd1fa",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl8EfQ4ACgkQeGxj8zDXy5IV9w//b4LpUgm7Qy56sD0CToEiQDh4sK8BWEdUVL1zXoSl5M/rI5P4OJAfJoVGAXpqT8wDMqNCswmfVsXfmEzOe14aCcJZ9LnTFb5mF4a7ZuT++5pUJ9FoKPl3UXAbq+bjax6YEtuviukZSj3GCSB6ombDu/HKROLmgI8xE68kgqtgKNLVXW1ffO8ikBFmpi4z2y6L9Nc8YBHmv44FwWCdDlMOcpF7VV/ckFToz/zjdcetVJHykzig7agQSY7cIAuldlP2h/EGaUspkuOutHGIONzJzjdHwWmQSnU/O8Fw9trMU0St7HXdcj2vSezc/qDNkZAXXraCXIfSuHjlGsxKspTo4UpWVH76UHH+gAZKLukAPqINXzOuDgNzh4b0/njmUFM1u5XoIoX/wjX9F0Qz2r1cb3RZkrYC+trkk4uwY9E1kT0vTDOCy9r6F4pHtD/RciQu9t9Uu2Pwu6i5ptdicZNn3Qf/uALGUo8qgsZfF8zLZYvB5JeDWlw/IfxLlqAgZTlqxyJvtr0E631BF4yHDkqj1wRMjUiezagUoYqYLrzWh60UGZshmysIgVolxZZvYzeuH/apcygvURPa7dYUvEjBAJob22xI3CqCgx+/BJvHAnbZmRals++BeSS7BeTk19ugIY2cJBZJDzDProvlVJ4rxY/AT8hwOjaXmUkO+HnIYDQ=",
+  "URL": "https://libmemcached.org/",
+  "LICENSE": "GPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1594129320",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "glibc",
+    "libsasl",
+    "libevent"
+  ]
+}

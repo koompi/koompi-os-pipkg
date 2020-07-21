@@ -1,0 +1,23 @@
+{
+  "FILENAME": "amdvlk-2020.Q3.1-1-x86_64.pkg.tar.zst",
+  "NAME": "amdvlk",
+  "BASE": "amdvlk",
+  "VERSION": "2020.Q3.1-1",
+  "DESC": "AMD's standalone Vulkan driver",
+  "CSIZE": "16823950",
+  "ISIZE": "61111692",
+  "MD5SUM": "ae8af52ff54f0ec5ba0889e2e0efe740",
+  "SHA256SUM": "23a9b2c213339366e99ec6433a1d09929c2321aa2bc08ff43b8199df6b6bea21",
+  "PGPSIG": "iQEzBAABCAAdFiEEU1+MAzlFDwVKTSgnBglqatHO3awFAl8IUNAACgkQBglqatHO3ay6nAf9GOmmJHHJ1fOtUUXFPnsbnz3Icmmhj1k3ksBgvpvBgNNRnSiHAyYK1KHKbpEj6rEpvgkTNLv2eNO8JAzKT+ELDnUaY72rZ9km1CmVj3tWq870hBhyFmmfsBuLI8NbUIyQHl+oyrVgEchW1SgvFAcAwyPM1X1x91ypQS54s+PleojRAaP+/lRkt0kIzHh80IpBuMOsoGJ0PTEGYgq39sNz5NhGKELZFxH2QaMcwqab5D+YStPmeuMUS4O2auyP0B4cYENKeQlEtImcI7MDUb/tef3tjLJAjMonuI4wn2fXKxNvo8FjSFyafuRhCXPN2CkJsUe0HRnIe1U5sU+JYiyn4w==",
+  "URL": "https://github.com/GPUOpen-Drivers",
+  "LICENSE": "MIT",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1594379668",
+  "PACKAGER": "Laurent Carlier <lordheavym@gmail.com>",
+  "PROVIDES": [
+    "vulkan-driver"
+  ],
+  "DEPENDS": [
+    ""
+  ]
+}

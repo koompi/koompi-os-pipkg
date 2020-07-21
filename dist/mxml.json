@@ -1,0 +1,23 @@
+{
+  "FILENAME": "mxml-3.1-2-x86_64.pkg.tar.xz",
+  "NAME": "mxml",
+  "BASE": "mxml",
+  "VERSION": "3.1-2",
+  "DESC": "A small XML parsing library",
+  "CSIZE": "720064",
+  "ISIZE": "1572989",
+  "MD5SUM": "75fc884f3531946103814c5766b101ea",
+  "SHA256SUM": "937e0a5f4dfe014a1094c239c5878190d9ae571865d3f2332b8f7ebccb4b5af6",
+  "PGPSIG": "iHUEABYIAB0WIQTH54SUZv4jWDQ1iDdyWHNLQcMVSQUCXfdRKAAKCRByWHNLQcMVSURZAP0bLMqcivn3UpvfEY/J2zi7bj2ihbQDTz3Ul2qj6XuI6wEAkaUMdYiX8Nuo+rk5XhvN+M+KkDKqyGGCkzP1U3i5rwc=",
+  "URL": "https://www.msweet.org/mxml",
+  "LICENSE": "LGPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1576486480",
+  "PACKAGER": "David Runge <dvzrv@archlinux.org>",
+  "PROVIDES": [
+    "libmxml.so=1-64"
+  ],
+  "DEPENDS": [
+    "glibc"
+  ]
+}

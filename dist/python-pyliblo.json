@@ -1,0 +1,24 @@
+{
+  "FILENAME": "python-pyliblo-0.10.0-6-x86_64.pkg.tar.xz",
+  "NAME": "python-pyliblo",
+  "BASE": "python-pyliblo",
+  "VERSION": "0.10.0-6",
+  "DESC": "Python wrapper for the liblo OSC library",
+  "CSIZE": "86676",
+  "ISIZE": "255123",
+  "MD5SUM": "1c04907356fc1ea5f993c2611c849d1e",
+  "SHA256SUM": "f9adf3c9f286f439fbae81f6adc17c3b12308c606269ad1936ef82c341054c4f",
+  "PGPSIG": "iQEzBAABCAAdFiEEhs/8qRjPOvRxR1iAUeixSKmZnDQFAl2/82YACgkQUeixSKmZnDRvtwf/YlfmhU6GjOKJeIYjRZOvD7zTf1scC3vp2nGlVISM60a0oAILS5tTdYCo06RAvpDIP/ihcqylvN8OzB+Z3H6+3oWwbVFbE4cnCeq/9UNURXuj+EH4r3kmPqfiijT81MpcpdVVK2OggiTMxTumCTdfTPTfPmpaRWdrwLrS/fn2+o4yT+EQeK0/X3MZM00A3lpiHYfEP2ZavIPsOV//kIX0PXtz1rSnpZPkW5HenGp+/hjBYZldUW7sujNvlKEZqjvj7NGnNHtq+R257Iii3gYhKGOIcUYxkBg7VNGBDcr6FSxpIUY+Tj3gUwZNRSvW61xJ0Jdv7M2SUWV6sHnWEj5BJw==",
+  "URL": "http://das.nasophon.de/pyliblo/",
+  "LICENSE": "LGPL2.1",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1572860724",
+  "PACKAGER": "Evangelos Foutras <evangelos@foutrelis.com>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "python",
+    "liblo"
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "FILENAME": "digikam-6.4.0-10-x86_64.pkg.tar.zst",
+  "NAME": "digikam",
+  "BASE": "digikam",
+  "VERSION": "6.4.0-10",
+  "DESC": "An advanced digital photo management application",
+  "CSIZE": "103000519",
+  "ISIZE": "168629013",
+  "MD5SUM": "4c19459445a182920cccd096ee66ce48",
+  "SHA256SUM": "62fd8c1e4a174902d55749277ceca13fcbc8f9ec20e07d6537d775a5c4994ff9",
+  "PGPSIG": "iQEzBAABCAAdFiEEFRnVq6Zb9vwrc8dWek52CV2KUuQFAl7WXssACgkQek52CV2KUuQLQQf/bUH4C2xdV1QzV+CvNll/VcQkds1Fp/eXXlN/hwFwgNngLRQjBei9RA5nuAquqTbEm8J001s9Lt4pallTe7O4DdFmMImhZTfehJfWEfVKl59DaVcOq2k5oqN2TabAM/Am0JsOS2gW5BSDLvxN8kRPdZ8o08bzf1066tNAEQiRRHsUKe9BrI4as4d+zSgu10X/cBqrPvp21PGzRgPMH/45HNMFDGxGaryDX/4PMK17Le+aQ5kc4ny+Agn57FeyL8Z2bL5ERFx6Dp1gUEG7tV4CoyuCBY6buhlf6N4sOgJaVv28HR/VLSL8espOcm5iXiqvJKew4Q7gTl0bqXs1fZFnKw==",
+  "URL": "https://www.digikam.org/",
+  "LICENSE": "GPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1591106585",
+  "PACKAGER": "Antonio Rojas <arojas@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "lensfun",
+    "opencv",
+    "akonadi-contacts",
+    "knotifyconfig",
+    "libksane",
+    "kfilemetadata",
+    "qtav",
+    "marble-common",
+    "threadweaver",
+    "kcalendarcore",
+    "qt5-xmlpatterns",
+    "imagemagick",
+    "glu"
+  ]
+}

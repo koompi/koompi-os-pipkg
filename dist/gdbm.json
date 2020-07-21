@@ -1,0 +1,24 @@
+{
+  "FILENAME": "gdbm-1.18.1-3-x86_64.pkg.tar.xz",
+  "NAME": "gdbm",
+  "BASE": "gdbm",
+  "VERSION": "1.18.1-3",
+  "DESC": "GNU database library",
+  "CSIZE": "164216",
+  "ISIZE": "501481",
+  "MD5SUM": "35180c8d24117c455b3f39c841e16892",
+  "SHA256SUM": "e37926efc01633392007b2a6a55d56711bf3a2bda44a573886720aafab3715a3",
+  "PGPSIG": "iQEzBAABCAAdFiEEhs/8qRjPOvRxR1iAUeixSKmZnDQFAl3MPTIACgkQUeixSKmZnDQ6yQf/U7zNe0yh+cBt1CS1dFjgSn1c18j68VbmnwjGBEc79x4YenzitNVfMfVOnKOkDCY2J2tBBZAOA8UF9qReh3JMyl65JSoh8rNzMpSVfLPCgJX5n0R1ZO9Y+EePGDujR0NsFDON76gkcjFIf5w5FRf6cRlGrjb0OiUyoYsSYEqt1Ue903qZgzf0jTlFV+mrCthkK+gZqXwe77ii/OeuE2p6u/ZrY7iC7k0HeXz+n95cW8fNV4cCdvawAXXbzJWAnKLF2/6Lcr4djM8bUPCXgoiPb3QemEIonMdmnss7krD59/+HjP4a/fanOo/BneXAv7UIs1hJgFpVmXReiMI4xkvb3w==",
+  "URL": "https://www.gnu.org/software/gdbm/gdbm.html",
+  "LICENSE": "GPL3",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1573666057",
+  "PACKAGER": "Evangelos Foutras <evangelos@foutrelis.com>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "glibc",
+    "sh"
+  ]
+}

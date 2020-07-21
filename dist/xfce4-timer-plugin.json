@@ -1,0 +1,23 @@
+{
+  "FILENAME": "xfce4-timer-plugin-1.7.0-2-x86_64.pkg.tar.zst",
+  "NAME": "xfce4-timer-plugin",
+  "BASE": "xfce4-timer-plugin",
+  "VERSION": "1.7.0-2",
+  "DESC": "Plugin to track time for the Xfce4 panel",
+  "CSIZE": "56950",
+  "ISIZE": "196599",
+  "MD5SUM": "def19a344a7b8042c3bf6fb104e7ac69",
+  "SHA256SUM": "758f63fab46c983b326d1035e166863e5fb33cc163643a90bf1c82b6d2934101",
+  "PGPSIG": "iQFIBAABCAAyFiEEZkWwqMcAXnjbHXhk+Z/+D+rpmb0FAl6zf/UUHGFsbGFuQGFyY2hsaW51eC5vcmcACgkQ+Z/+D+rpmb0tgggAvCh9xF7gjInXPAesYU96sJBUOevN9ueRKnsinChLT8+bKpAwv0xJntjoqhuscpNLp/sXw4EcAl0zEFd6heOYjMSCDYaQMSEtP9/N4PoioVGhMozlTAIyXub8m8rX4ZXIAUl5hwxvFdMIKFELsgu3IpTITtrJi79rCru5AgKAdyw8TD8LHwbOeHTqnckqXtZOKJmN9NpDU7l9woOGE8yNKO2hIu89nzNNgVjPb9X9UkJzsH2XhhocZjnQIpBnf6/DeiyGvas0oDZe2PSCV89sRQXKdVtkXXMaXgR7In6CC+clX/Roovbk6jfNko1HsfHa978Q3/ejym1TK4zcYQ3ETw==",
+  "URL": "https://docs.xfce.org/panel-plugins/xfce4-timer-plugin",
+  "LICENSE": "GPL2",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1588821954",
+  "PACKAGER": "Allan McRae <allan@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "xfce4-panel"
+  ]
+}

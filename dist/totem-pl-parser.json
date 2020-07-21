@@ -1,0 +1,27 @@
+{
+  "FILENAME": "totem-pl-parser-3.26.5-1-x86_64.pkg.tar.zst",
+  "NAME": "totem-pl-parser",
+  "BASE": "totem-pl-parser",
+  "VERSION": "3.26.5-1",
+  "DESC": "Simple GObject-based library to parse and save a host of playlist formats",
+  "CSIZE": "189932",
+  "ISIZE": "887053",
+  "MD5SUM": "23effcc3563a7f619478e5424cc91e2e",
+  "SHA256SUM": "60de0699c6b34c26b31c15845e361599b62a4e91df736a32025435b096f73d08",
+  "PGPSIG": "iQEzBAABCAAdFiEEghj4iEmqxSLpTPRwpekojE+kFfoFAl5ZRVIACgkQpekojE+kFfq7yAgAoc/WSjJDxYRE9K1GqfBMP+BNXg/9xoaoUKSIadi36gIWAUb1SOsNw7xKQZ0O5yJsGUeXkXPBlN1Y/AC19M4YaAexYtXUK2epZqs0rmwoZmW+l68B9Lcf3PLosgvbP3jx7w2nIdV2J++ui+/bxY4m3RGn26sx5knVswni224IsSTnG7IsaYZ0dKr8V5MXDwJI7pMVT9MRdWuZRQsC9tAUYsGbb0ADPiZUrjdySh1XftOqYOMgPXvfhBTGOqLIyCaTxdchho9T1yQazvmJitnEqdJaa0uEj9YSqGDY18jl1yh7NGDtoJKO6GQeWkag7kAunHIjlTi7rtthmhJ64ZyhdA==",
+  "URL": "https://gitlab.gnome.org/GNOME/totem-pl-parser",
+  "LICENSE": "LGPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1582908618",
+  "PACKAGER": "Jan Alexander Steffens (heftig) <jan.steffens@gmail.com>",
+  "PROVIDES": [
+    "totem-plparser=3.26.5-1",
+    "libtotem-plparser.so=18-64",
+    "libtotem-plparser-mini.so=18-64"
+  ],
+  "DEPENDS": [
+    "libarchive",
+    "libquvi",
+    "libxml2"
+  ]
+}

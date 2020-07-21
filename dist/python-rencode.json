@@ -1,0 +1,23 @@
+{
+  "FILENAME": "python-rencode-1.0.6-3-x86_64.pkg.tar.xz",
+  "NAME": "python-rencode",
+  "BASE": "python-rencode",
+  "VERSION": "1.0.6-3",
+  "DESC": "A Module similar to bencode from the BitTorrent project",
+  "CSIZE": "50076",
+  "ISIZE": "150930",
+  "MD5SUM": "1b006fe69a6541841dc01b6e39d1b2e5",
+  "SHA256SUM": "cc5ed58343f5f5fd4ddaa859bfd4aabb1abc791590190bb9875dcbae9cbffa1b",
+  "PGPSIG": "iQEzBAABCAAdFiEEhs/8qRjPOvRxR1iAUeixSKmZnDQFAl28MgQACgkQUeixSKmZnDSUxggAm5E/klB4edtW94AkimKUyy1qAVARE4GTtbWDtoYDS8SoXV7Y1+ce87zMB2C5TXDtciLmNwgNG2/dZ7oHj+zgpru5I0uI6wL4OL4sHmhmj/DCOO4RG2xIbqhD/hj284qucK6UWFcvpV+JQCqQ9iyJ7lwRsLnv6Yj8e5zZHQOtS+l19FztJUnZh0OkzIRfK4vmXQ8hJV+cIc389HJ6mWgj2sAHqEuEeauKNnkbTFii61RJicNTDuGufSQkaUsOeygTpO9CqntIZVG2J2PtOATzoYEJewgQqajZ+1vTQxsPoWmBhuICVxlmV1EBfHDyNQ87qjRVisC8Sz/+H/6iHsO4jg==",
+  "URL": "https://github.com/aresch/rencode",
+  "LICENSE": "GPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1572614623",
+  "PACKAGER": "Evangelos Foutras <evangelos@foutrelis.com>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "python"
+  ]
+}

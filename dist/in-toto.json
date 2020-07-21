@@ -1,0 +1,29 @@
+{
+  "FILENAME": "in-toto-0.4.2-1-any.pkg.tar.zst",
+  "NAME": "in-toto",
+  "BASE": "in-toto",
+  "VERSION": "0.4.2-1",
+  "DESC": "A framework to secure your software supply chain",
+  "CSIZE": "88649",
+  "ISIZE": "618679",
+  "MD5SUM": "f608bed459d63e319b31beb471c6f3e5",
+  "SHA256SUM": "593acf94eaee5814270cf1e249d2ed1a86be0095541dd301114001fadd2ead53",
+  "PGPSIG": "iQIzBAABCAAdFiEEkDurc2QOttZVM+/zRo8SLOgWIpUFAl5vqrwACgkQRo8SLOgWIpXDfA/7BY+tmjdI3Ahm1/qI9Qr2wVmwbHcRsuWEnvXyslCGLz41FILrr/AuIkHQOGOkjiNvW/+RR5XX4Qz01XXGwHtIAUW21fxeHiYkmQ0sshCLxgxMSaOgB+UU8ofsGyvXEJgprSAU+rLFHXQZKNrPbdD+QLH2aitx3eO7c06jN29f92zB+4VzyLbMUXiqxt9WxvmMqeXbU5gfxjOV3swAvwzVH/5xNnEoDJfvNdHfz5BFNs2KHu9W7hf6t198irIir/dzMIhrXFt287IZhZeoVoCxS4QBAx+cKhLfQ255wnt+3oSlevSmmBzz2Uz/SwFAyYM0fgtEQ6NIhwRYGu5ToLMCIC0ZyCZr4q0rIm/B25LkOrHE2XBBS0Y1KrdV4ZM7AUCOein48ON3Y636i7jLPjY8jlcg6NIz+TNSNFBn1ckouM5QgIlwYyXv1mdBc1939OC/pdsSYb2eDv045fcjVp5tuWjE2h3hNDnun50BzF0Js/ZeQCHnARyW9rirdJRXP+gbObaGr5Jx2MNB+yHwWaNaYDclkUHwM1F5P2ld5ab2E75+TZeZo84cwTrKQxStEHfGJqMAx8PXqtqoV3B03jtb8mhsQwi8Xgo+OYtwd41DRnaAncccJfQGQbUL7EdY77awyjvBjsnKLE243HYCW9qtKU0jXwZoXvCeyqOu2YuqRrQ=",
+  "URL": "https://in-toto.io",
+  "LICENSE": "Apache",
+  "ARCH": "any",
+  "BUILDDATE": "1584376349",
+  "PACKAGER": "Santiago Torres-Arias <santiago@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "python-cryptography",
+    "python-securesystemslib>=0.12.0",
+    "python-iso8601",
+    "python-attrs",
+    "python-dateutil",
+    "python-six",
+    "python-pathspec"
+  ]
+}

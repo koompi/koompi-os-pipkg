@@ -1,0 +1,23 @@
+{
+  "FILENAME": "sthttpd-2.27.1-2-x86_64.pkg.tar.zst",
+  "NAME": "sthttpd",
+  "BASE": "sthttpd",
+  "VERSION": "2.27.1-2",
+  "DESC": "Supported fork of the thttpd web server",
+  "CSIZE": "67569",
+  "ISIZE": "156788",
+  "MD5SUM": "f651fcdc2b92278f6a9d90b572372dd6",
+  "SHA256SUM": "36f45ec0b520fb27c2607f097f14e87d5281907219ec16f576046b961d539ade",
+  "PGPSIG": "iHUEABYIAB0WIQQaYNxEJF0G/vkGI9bu7uLu7i7u7gUCXrNhbgAKCRDu7uLu7i7u7gFgAQDkJ7cDDvNTkkurlJR2Zs3199zyQbMGSx10Y/dyDXp9IwD/dHQSTSLTGOrWaAc60rmYKvy8cEFidzW6Vtic4eabfQE=",
+  "URL": "https://github.com/blueness/sthttpd",
+  "LICENSE": "custom:BSD",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1588814134",
+  "PACKAGER": "Gaetan Bisson <bisson@archlinux.org>",
+  "PROVIDES": [
+    "thttpd"
+  ],
+  "DEPENDS": [
+    ""
+  ]
+}

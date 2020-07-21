@@ -1,0 +1,26 @@
+{
+  "FILENAME": "bslizr-1.2.8-1-x86_64.pkg.tar.zst",
+  "NAME": "bslizr",
+  "BASE": "bslizr",
+  "VERSION": "1.2.8-1",
+  "DESC": "LV2 audio effect plugin for sequenced slicing of stereo audio input signals",
+  "CSIZE": "468713",
+  "ISIZE": "725331",
+  "MD5SUM": "9f7af6b4b98837f04e444ed6f3b08eb7",
+  "SHA256SUM": "3619150648f32405c42c60b9108f8116406d67136e72e1ec882d3ed488ddfc20",
+  "PGPSIG": "iHUEABYIAB0WIQTH54SUZv4jWDQ1iDdyWHNLQcMVSQUCXuNxPQAKCRByWHNLQcMVSdebAQDkJyTj+sTnur/sdWwIla/kXZ2Zh4Twa0gOxKkQ3CcEQwEAgnRZweRYvoVemlEABK2vm0CpeyL3IlsJCevMTPdv2QE=",
+  "URL": "https://github.com/sjaehn/bslizr",
+  "LICENSE": "GPL3",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1591963838",
+  "PACKAGER": "David Runge <dvzrv@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "cairo",
+    "gcc-libs",
+    "glibc",
+    "libx11"
+  ]
+}

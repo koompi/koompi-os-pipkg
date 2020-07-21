@@ -1,0 +1,23 @@
+{
+  "FILENAME": "python-unpaddedbase64-1.1.0-5-any.pkg.tar.xz",
+  "NAME": "python-unpaddedbase64",
+  "BASE": "python-unpaddedbase64",
+  "VERSION": "1.1.0-5",
+  "DESC": "Unpadded Base64",
+  "CSIZE": "4688",
+  "ISIZE": "4805",
+  "MD5SUM": "a2d30e982861d1f7bbd065fa15a30b6b",
+  "SHA256SUM": "ce6d3f4e439e49574fa3d3e6c902c4de79fd4517afef6b839a5e3da06fa99ac0",
+  "PGPSIG": "iQEzBAABCAAdFiEEhs/8qRjPOvRxR1iAUeixSKmZnDQFAl27HXAACgkQUeixSKmZnDQ2gAf+NTKSSWKlACVJJQ9qj49+op+PMFqw2IIT4e4dX8Df50rCOUiHopatFArItp52WFLbj0IkG1LuYvBpzHF2EWsFvEQpAIuvMjjMnNjmWKjiySDUPReoHbgLNbbe/BXkwv6DdzQUvTK9jGuMSemz5UBXz28NffDBIyob0wL5u0gtvEajB31NLVmVWzCHrtv7Seq3PLB5Yo/RmMQhj3zuaRuGdH5F6miSrY7kHw3jgC2E7EQvMrvDW2mAFTJfEHDrzYrowbqfVODKkccV0SiDx+oarxskyfFgK2mNYeSOicg/1QmaH4lGrs9+bvRnnyiMfUIbCnjEapw/GlNCjVpPJViNZg==",
+  "URL": "https://pypi.python.org/pypi/unpaddedbase64/",
+  "LICENSE": "Apache",
+  "ARCH": "any",
+  "BUILDDATE": "1572543833",
+  "PACKAGER": "Evangelos Foutras <evangelos@foutrelis.com>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "python"
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "FILENAME": "libgit2-1:1.0.1-1-x86_64.pkg.tar.zst",
+  "NAME": "libgit2",
+  "BASE": "libgit2",
+  "VERSION": "1:1.0.1-1",
+  "DESC": "A linkable library for Git",
+  "CSIZE": "612753",
+  "ISIZE": "1865423",
+  "MD5SUM": "e3814fc0970fc82021ac7017473ce525",
+  "SHA256SUM": "36ab4498962f06f4b23327fd53d6ce9dc2054cbd52101559f4fbe53f64a8cbea",
+  "PGPSIG": "iHUEABYIAB0WIQTH54SUZv4jWDQ1iDdyWHNLQcMVSQUCXtkxgQAKCRByWHNLQcMVSat5AQDOEHpy8WlmKi2TdP4Azp7c/rvxj0W8tKXaUvOFnqehDAEAg2CsVSYuaIsVFQVAH9IBh6vAi7JmWl2wR1WXGthQIg0=",
+  "URL": "https://libgit2.github.com/",
+  "LICENSE": "GPL2",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1591291931",
+  "PACKAGER": "David Runge <dave@sleepmap.de>",
+  "PROVIDES": [
+    "libgit2.so=1.0-64"
+  ],
+  "DEPENDS": [
+    "glibc",
+    "http-parser",
+    "openssl",
+    "pcre",
+    "zlib",
+    "libssh2.so=1-64"
+  ]
+}

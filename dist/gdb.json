@@ -1,0 +1,28 @@
+{
+  "FILENAME": "gdb-9.2-1-x86_64.pkg.tar.zst",
+  "NAME": "gdb",
+  "BASE": "gdb",
+  "VERSION": "9.2-1",
+  "DESC": "The GNU Debugger",
+  "CSIZE": "3787619",
+  "ISIZE": "10158912",
+  "MD5SUM": "a69fd4f8b83cff2b1b5e6b19fe8963c8",
+  "SHA256SUM": "5e7d5ab4d332697efca71df0ef42fcc31fe9f79dbcd66c4a8b4d74e1f17c34a0",
+  "PGPSIG": "iQIzBAABCAAdFiEEjhmSFnRl21+wRVV8sChU7XU+Dx8FAl7NURUACgkQsChU7XU+Dx+ZEw/6Arf0SA2OBlVz31uAAqt3URIrkTGMgK3223dpBgb98LNp8c9ViyQuF7wTaYXMez58RQXQcfFdMW0yVP8EKXQ4LqfRNGxI0LfPFTFimF6pDtkv1mRLygnk5F0PbyParfLZSeRRwodVCXImLly6lQYoAaU6flRbd4Srzr3ZzSeaNRs0nSLMx0MdhrSZvimlqA1AhhW1QuMcNUCdr4xT74+8GimgjqFZlypsL5bSsUYI9Y5nt8Z6pnUd0hQ8eq0NzKv5geDnsobfxqPVHL2DlHdI02VbVUyW2FOuAcI5W+K2Kuu2QrtndyfIcIeJu+t9rDeUhILnMBqYcGFDB7Kr9lRe/zIi0jSLlmNiFT4sHrJc0kqzATt3ktbvFaOj7p34ZaCdvL1FtD3fK/Wy7tKC5xVKe78D74D20bd4hUQZhg1irJpr/1Pys3rkieQVY0ofd0WyW8eNy5IMgEbpY5j03gcaO9V9qthkA8X/t4WH755p35NZLs/xD+qVtYPdpNvx5U+AZWmEYrJqlqb56GlEnhPHQvBd5xWu1E78PoL1wy5gAI1+AZXtjrrmxfWvqERaGGvFOn1c4falCOJtA1VV8b++YVtT4GX69f4IH7Kgd/k+ryHOowTbbCxG7+x3314eUV7z5PMtCel17mjS2UXjM145idcxJvpJWYiz7NFGc+sZbIQ=",
+  "URL": "https://www.gnu.org/software/gdb/",
+  "LICENSE": "GPL3",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1590513130",
+  "PACKAGER": "Anatol Pomozov <anatol.pomozov@gmail.com>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "ncurses",
+    "expat",
+    "xz",
+    "mpfr",
+    "source-highlight",
+    "gdb-common=9.2"
+  ]
+}

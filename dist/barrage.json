@@ -1,0 +1,24 @@
+{
+  "FILENAME": "barrage-1.0.5-2-x86_64.pkg.tar.zst",
+  "NAME": "barrage",
+  "BASE": "barrage",
+  "VERSION": "1.0.5-2",
+  "DESC": "A violent point-and-click shooting game with nice effects",
+  "CSIZE": "281141",
+  "ISIZE": "1784015",
+  "MD5SUM": "d6fb23ceaa692ced715a36485c8f5056",
+  "SHA256SUM": "c3a14a47a29885b6dd239bcae15ff8132e0dd17c3b5262649ba308a4738791ec",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl8EnO4ACgkQeGxj8zDXy5JNow//XKrSR/GZG92OitgzcdOIoqRB6Paz5MLrxybbWySzf358UOBZYzypy5DxP89v8VyzscT7Bu9BaMblbJclQemjnUA3VtVPNnRREVPp4RfDEgZJ+bC+W+LXLsiD/6+wedAo9gbb2wDdM2cPUlIMFPTLNTdFBK6bZ5zd/Eqt/V9xTQ3ucL713oBIMb45Gt4PLIOvGCAWvsztf0J2vmiEzUNQXRgEO4B5M/FAvjeJ8Iz6f/WKFMFdtdHGKijWF19BZVNux2f7yASC44TMTJodEexwVVfu6x4bEJpDK4BZoc9d/LzOlBbLadif+OIpWP3XCqJaR0RyZcx7tUxuh29scIqi8tMRh9L+dqsqP4irtp3rPArwAIuQsF84xgib7Wnwira15bQ6qxJFulyRx8b71SH1plpofnQg+FTGC9N2PnQJGic2nojcRata2SDNM/7/uvO7CU3JaM02jD53EqWcEW7K6GbtsFpmTnJ1+e610yxpwymQ/Uu5+hnlV1aEV+D8CJL4OuPuZrXSTbUB7fwPQ4aXUn88/+3JQhnNewOFUTO4+C5GyHYWWVircRpvTmsDj2ZORi9o0o/1hiidH5HOPo22rKnCObI5v35fQXiwUemUN7Xf3co74ALSW9tvs5qhxcSco1N74OgKbfSfotMzXu0Q3XonOOKaDJET8F1DVJXo7n8=",
+  "URL": "http://lgames.sourceforge.net/index.php?project=Barrage",
+  "LICENSE": "GPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1594137813",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "hicolor-icon-theme",
+    "sdl_mixer"
+  ]
+}

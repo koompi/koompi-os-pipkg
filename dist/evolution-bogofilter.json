@@ -1,0 +1,24 @@
+{
+  "FILENAME": "evolution-bogofilter-3.36.4-1-x86_64.pkg.tar.zst",
+  "NAME": "evolution-bogofilter",
+  "BASE": "evolution",
+  "VERSION": "3.36.4-1",
+  "DESC": "Spam filtering for Evolution, using Bogofilter",
+  "CSIZE": "12572",
+  "ISIZE": "28773",
+  "MD5SUM": "d28745ca2b8328b6a8fcf51c27b95dc9",
+  "SHA256SUM": "351d6c2d651101bfd89e9e57f30f704a8bd0a7ea7b72312b89f649fe733e0e45",
+  "PGPSIG": "iIsEABYIADMWIQQGaHodnU+rCLUP2Ss7lKgOUKR3xwUCXv9nmRUcaGVmdGlnQGFyY2hsaW51eC5vcmcACgkQO5SoDlCkd8c0/QD8DEAp3xm4ZHIDGGXkn34Qsx/uVPQNEqKhfg//xnXJAmABAIzEvfN/gNMv1B82ihARlLAiRTfioi6fy/BYNwugXdcO",
+  "URL": "https://wiki.gnome.org/Apps/Evolution",
+  "LICENSE": "GPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1593794365",
+  "PACKAGER": "Jan Alexander Steffens (heftig) <heftig@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "evolution=3.36.4",
+    "bogofilter"
+  ]
+}

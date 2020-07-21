@@ -1,0 +1,29 @@
+{
+  "FILENAME": "haskell-aeson-qq-0.8.3-70-x86_64.pkg.tar.zst",
+  "NAME": "haskell-aeson-qq",
+  "BASE": "haskell-aeson-qq",
+  "VERSION": "0.8.3-70",
+  "DESC": "JSON quasiquoter for Haskell",
+  "CSIZE": "57913",
+  "ISIZE": "269060",
+  "MD5SUM": "696c819b956ace6019434f33ab7d9eda",
+  "SHA256SUM": "7c8ff9c4239f8236f578760b2bd60be569a40d7bd0c7ce488a82066e17d7153f",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl75NRUACgkQeGxj8zDXy5Lgcw//V3RbQYdXx7GpiW6mYA2Dh+1DeF8f3Cqj8Dat+hmmqGt/FPm65R2za3GQZA/summn+DTDqbRt4L9m1qsYGzw6m0+XT9XIU/K3rkTTFla6+bycFmOEpCVTbAaa62xFnX15FuujIbFZ47IUcVWR6eeucdxz+0j3B551TCMV+RDr0DqVR4mjVeB53RkV0OgqvkRTBja0TXRoQ/6oKPpVq/2JmApuMMEKKfA7cKG6o8aU/GYfXI8QJJMsoqG103ZI0hGEtQ1rhCyAJRJF9R+uubmuIyjtkbWfvpdRUN7DpQSksVjgNWJYcwxaa7R5ufzMPZu63E9GId9ZVUdKcQXuIIzOJX1ROaOkCvEe6NxIYFwqH8yxi8e4J34LijF9SPzxOpLDm1jK2N0C8AXjM17QEyZGMJrp6WKziBblMDENAWEJMxO0ETQl4OIl5mplZNv7THdAhAmBafRSmyenLT1i6t2Po1FM7O8ovi4SEP22D0qBFzhVTrL2LjLHVXayiF8JdAOrKhZK5rcTrIgFSVaQq8j0AX3P4ynVco6sjnwRnN7eYXh3m0yR5/9/fQcd2V9XsMGphnUzQ7pz+qcRHj54+Pv/gWItVAz2gEe8V+PaEcIjD3Ki2/KjM13xIXzxqPskUGFxrxEcdhU8KaNeEBE8MN3IwGgtS4Fgga4eusb9zfjUHbA=",
+  "URL": "https://github.com/sol/aeson-qq",
+  "LICENSE": "MIT",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1593390323",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "ghc-libs",
+    "haskell-aeson",
+    "haskell-attoparsec",
+    "haskell-base-compat",
+    "haskell-src-meta",
+    "haskell-scientific",
+    "haskell-vector"
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "FILENAME": "mytop-10.4.13-1-x86_64.pkg.tar.zst",
+  "NAME": "mytop",
+  "BASE": "mariadb",
+  "VERSION": "10.4.13-1",
+  "DESC": "Top clone for MariaDB",
+  "CSIZE": "20424",
+  "ISIZE": "62527",
+  "MD5SUM": "9ca9ee6f3fecb7ccc7d0e1c892334ca7",
+  "SHA256SUM": "c1c173f08a5c0e72f503370759d693fe64dd1c93ac8ce17d90b13d2a07417ddc",
+  "PGPSIG": "iIQEABYIACwWIQQEKYl95fO9rFN6MGltQr3RFuAGjwUCXrpBMQ4cYXJjaEBld29ybS5kZQAKCRBtQr3RFuAGj67RAP9y4SBKJH/nfAm/unw2RUc0VIjnQ3HdOmZzxk/gimQwtgD8Dif0dmVKW/DHdzgKJcwf2ONK93SDT0mnuajLuQwW5g4=",
+  "URL": "https://mariadb.org/",
+  "LICENSE": "GPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1589264170",
+  "PACKAGER": "Christian Hesse <arch@eworm.de>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "perl",
+    "perl-dbd-mysql",
+    "perl-term-readkey"
+  ]
+}

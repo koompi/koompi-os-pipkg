@@ -1,0 +1,23 @@
+{
+  "FILENAME": "unifdef-2.12-1-x86_64.pkg.tar.zst",
+  "NAME": "unifdef",
+  "BASE": "unifdef",
+  "VERSION": "2.12-1",
+  "DESC": "Remove #ifdef'ed lines",
+  "CSIZE": "22162",
+  "ISIZE": "49901",
+  "MD5SUM": "615143517843ff6fa68595e886e49501",
+  "SHA256SUM": "9e53f98234d2e5837558d04b57f600070dc0e44be3ec37e08fbc2f5cffcd4bb7",
+  "PGPSIG": "iQJGBAABCAAwFiEEPlGL8lJv0Zeeiq5JZcEQwepDP8cFAl5oyKoSHGFyY2hAc2VyZ2VqLnBwLnJ1AAoJEGXBEMHqQz/HOngQANT7gQAvi0m3WZvnD12rBmdoQKt74JJ2sfXUEXVSu/jDjP2IYUUmeeoNCv8vWCB5+ZZDpP6lB/R+Pkd7NgpHGknv/B2NThRhQr5Jy1h+yE2oPncU/jihu3oCxWN0mUFl9a6wYzkYeW79KvoszKweKRdukYpADivcc7ScawLj7Y2eTXjz06tyQ8HQbgVC1dp4HR1Qdmoql82vjDeqOE8gqaI5OGbpVtNuwEupqkpQuXVje4AleUhI41832Z/vttSzcDVCiEE0LUpMbeYxvcsEtosVqpFNBdRE4i26RFcRyuW7X9k263IQBMjsonEiMCVOHyThEBV2Fu0mwdgDv6SrtDKm42iAj2VU3H22JcxsGk0fOJNECF8jaOMrcnQjYuclw82YrNNQH/IjiaWlBY/Br4/yhV8LIwlR6jVcuJuGVFj/alEhJP3uq2k6Ty4ucK9A/HORQIRMNdsipU8SN0DkaeU3VRIFw57MIFCSSAtV2nir3oBR1dsJsqmgcbbJczcwbT19Gy5GaSOgwk5ECuOnfg9LkC4KNaI4dJYY/11jQeh2RdOlRyCWZcYPdIx/GCjgT8R1jpnGCiGkRslXFbVIj6mJ96v5KBqBELO872PN6Y9ZWmA8jsWKo9lJfuntXOVCgeBqHHzwbSe5RZREK36j6M8gAvgEu6c83H1buE1wsS2a",
+  "URL": "https://dotat.at/prog/unifdef/",
+  "LICENSE": "GPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1583925215",
+  "PACKAGER": "Sergej Pupykin <pupykin.s+arch@gmail.com>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    ""
+  ]
+}

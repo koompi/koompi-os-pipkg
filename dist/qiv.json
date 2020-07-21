@@ -1,0 +1,28 @@
+{
+  "FILENAME": "qiv-2.3.2-2-x86_64.pkg.tar.zst",
+  "NAME": "qiv",
+  "BASE": "qiv",
+  "VERSION": "2.3.2-2",
+  "DESC": "Quick Image Viewer (qiv) is a very small and fast GDK/Imlib image viewer",
+  "CSIZE": "72609",
+  "ISIZE": "133273",
+  "MD5SUM": "86da8120f9ab5e893e43d804d9213585",
+  "SHA256SUM": "b8fd392ee023f1435dd1eb96d608f0c6ed30ba92d092c98c1ab889db38de2d4b",
+  "PGPSIG": "iQEzBAABCAAdFiEESMOx8w3dD+Z+UW0WOW4+JbqxQsEFAl62UO0ACgkQOW4+JbqxQsHvywf/Wf5mmBLgQ8M0mh6xDGQVwZpPrznDdfibIVnWVNudhXTHSlEodOwb72LO+UAHkQrKCj6YTHbmUU1ZBx8CG6D0951fBAl6jJeUtj60P7OrRYNZepNc1IBsZs5TO4DAB3x1+5lRZF+WvNQ/jDOR6C/T6LcSdyqu4jx9BL+ir+ePzu0jwQilk7a3H4iHQSHgOoVKVRk7RJD5xGYPNaqnx4NA9oVw0GxJyhGcoUZ15QdVxhhDw/yldcPhGDHEoHAIBwxVnVqemGigfk2BO8cTeptGii3ik4g1fgshLaeHqXMOGftlJcVxta6NuadpRE5ZuOpFXBeq37br+To4Is6XbaDSqg==",
+  "URL": "https://spiegl.de/qiv/",
+  "LICENSE": "GPL2",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1589008759",
+  "PACKAGER": "Kyle Keen <keenerd@gmail.com>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "file",
+    "gtk2",
+    "imlib2",
+    "libexif",
+    "lcms2",
+    "desktop-file-utils"
+  ]
+}

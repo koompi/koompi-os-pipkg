@@ -1,0 +1,23 @@
+{
+  "FILENAME": "fping-4.2-2-x86_64.pkg.tar.zst",
+  "NAME": "fping",
+  "BASE": "fping",
+  "VERSION": "4.2-2",
+  "DESC": "Utility to ping multiple hosts at once",
+  "CSIZE": "28052",
+  "ISIZE": "54592",
+  "MD5SUM": "4ffdf2e5198834a1c5917d8b9cb6a878",
+  "SHA256SUM": "dcb22f512b006c084e6a1238fe92c08a0736b590b12003422aa4986fb828ee9e",
+  "PGPSIG": "iQEzBAABCAAdFiEEhs/8qRjPOvRxR1iAUeixSKmZnDQFAl7AUg0ACgkQUeixSKmZnDQlDgf/UN3+oFVtZjKYb7z4PRm4gElREOe/HKxJWi7X5LfG1NZQdXWCUg3bOCzYzqykiCBGVITJv6hRn3VduGC7b8+j8sEk1DtuFB+cE5Ebdc6dNsoXfF+Y0d+ZS/0KuIYITO5uHyEe+T4ng+VeuOUdurZydAwRoArbGT9VH0u1BB4b8Tv0vhPmWkT2zyHkhKGlhb/0fx+ti6RYHjwvjpEynmhXZ66V9pspn4XWpXxOpLquHB/ZKmSvm+SACDdV8Va0uNmIfv3AiHLYxcalJ5XQ7nWdEZZMUDNJy4hA0YbhS8ys8DUbCPs6rmC3LMH30fhmzHiat4ZTjBoxdgpUvEGeAXX60w==",
+  "URL": "https://www.fping.org/",
+  "LICENSE": "custom",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1589662202",
+  "PACKAGER": "Evangelos Foutras <evangelos@foutrelis.com>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "glibc"
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "FILENAME": "python-z3-4.8.8-1-x86_64.pkg.tar.zst",
+  "NAME": "python-z3",
+  "BASE": "z3",
+  "VERSION": "4.8.8-1",
+  "DESC": "High-performance theorem prover",
+  "CSIZE": "194317",
+  "ISIZE": "1739773",
+  "MD5SUM": "037978d8782da1eb791e7ff5777febc6",
+  "SHA256SUM": "0d92ebd6668837251ef0d41ca8dc9fc0a0d09b409a91864b1ac1c0d78452dcb3",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl64aJkACgkQeGxj8zDXy5I2rA//ZKNuJFUi48q4XGOyGtJHPHdBfot59J5UUtoTaZIcFpxllzzNwZ00hJD897fdteKWqRzoki3l5ORIWa+HMawK3PcKAjbjkTOh4eqel2iwIzUezbZwlMZ1InziPJ0U6Pr4RMwjn5l7Jgh38AZGroOcLrK5S+pyDFqMu79Q+CISHJRSuN9OnmP11xK3dZI+xmDeNccq/7FX+g1Iu26h4gcSNiu+OYPmgY86klsCg5WHTlziLsOHATp42OkrlTGASxFnkr2Kw3FILmoYvuJBBh3Flu0Vrd3LeV0QgCnVhJb/y8e8KgfkJwb+PZ/r1iV5CSPmUAKaYVIYkGdaEivfmygMXWs/Tf05Y+fnE7xyfgAvJ3nZy2v/sVimcCdK8Hit647NWhKqHHmOI1QsCYf4ea0t6v4Ax1AF78E+zdIg+nCrhlZeBk8K6LJczcMH+n0/M3QclVO5j144osQryYcOVyoxucYHlFYj7Q1epBQ6EeTpkxS+ht3fR9hRdqqBMV42lbmTokxZfa8gnLBm887PpNHeuvwrJadPLPONWQs6ne+yz+bmZXDa3BukcJbOnomaoztIEhhjnzENJYjRtozOJoEXUw0YE4Xd1oICaP1mamWhhu86ZJAFgy4o33veV26ucM5aBFeOqe32xWp4vkI3lNNhmywnbLzq1lZpr+HwWI4twnc=",
+  "URL": "https://github.com/Z3Prover/z3",
+  "LICENSE": "MIT",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1589142074",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "python",
+    "libz3"
+  ]
+}

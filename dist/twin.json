@@ -1,0 +1,25 @@
+{
+  "FILENAME": "twin-0.8.1-1-x86_64.pkg.tar.zst",
+  "NAME": "twin",
+  "BASE": "twin",
+  "VERSION": "0.8.1-1",
+  "DESC": "A text-mode window environment",
+  "CSIZE": "801844",
+  "ISIZE": "7900585",
+  "MD5SUM": "710150744e6f293d31665bdb7b7dfb18",
+  "SHA256SUM": "0f8538fc1a54eaf3056c307a21c92c62da97c7827c3dced73768ba8c21e424ff",
+  "PGPSIG": "iQEzBAABCAAdFiEESMOx8w3dD+Z+UW0WOW4+JbqxQsEFAl44eAQACgkQOW4+JbqxQsEuBwf/f/12qpUZEiwcIU/nbYrNpnXZcH5A3+0Rgg31P36oxhnZDvk2hjQlMCDTT5uhj/aGSGGgJQHqtdBgxC4906EN2qidfbR3Uw1dUUCecCE2AEvwuVvMY1syWNLEmsdNfSdhG1Dest+8ki8aZ2svJ8pLdFEOK0UBGDB/ffhCeVkyCdFtvgBdZyYJMIpsJWHT3SWuexAcBpgeviEGlqX/2R4ydnY/a/YBuX8lXk/6sOBUqISFNJG7mggmWOkkcrZDXuBzESjrRBcc+dtGFIdc59XULm/fcSv8ODLMA6/vz7Sgjcy7vYvTFmddax7HjcsJ6usEFuaJqlD7oyw21iN4E/ReIg==",
+  "URL": "https://sourceforge.net/projects/twin/",
+  "LICENSE": "GPL2",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1580761429",
+  "PACKAGER": "Kyle Keen <keenerd@gmail.com>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "gpm",
+    "zlib",
+    "libxpm"
+  ]
+}

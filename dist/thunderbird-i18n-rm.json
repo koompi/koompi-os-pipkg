@@ -1,0 +1,23 @@
+{
+  "FILENAME": "thunderbird-i18n-rm-68.10.0-1-any.pkg.tar.zst",
+  "NAME": "thunderbird-i18n-rm",
+  "BASE": "thunderbird-i18n",
+  "VERSION": "68.10.0-1",
+  "DESC": "Romansh language pack for Thunderbird",
+  "CSIZE": "516017",
+  "ISIZE": "578050",
+  "MD5SUM": "1e1f6197dfa9cd98a5d125eca6a08e94",
+  "SHA256SUM": "1e2c73ec3b6efcc7eccfeb5c7ec3eb4436630e8792f9e885cc5e181a84620d8d",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl78eGYACgkQeGxj8zDXy5IPMQ//QeD10fbPiqHvsk0FiMSDu/fln7vKpXTO1FpI31nwQ7BJcqFIvRJU3DM8NsszT8irrF61f088VqCOfJtZoAHuTU84Ojn7PmYQ0zvjYHaQb5QISaQod6TL374Ar1Wc85zt/tT/StOncyGtAQzoUv4U6EuJv9ZA2vsNth2hT8FDU3/5H6dzQpZ30iHt3k1nRAeaIf37783ecTT2wEFzq7U0nyxr2UtN2uIJQ2glOxTyleuykSIhJ9l5l+X5oQEk/Tc/7h1wQpQ/hOigXG+lGy8DCPZnwMkihbFjtoK5LNAejYRYghht/Y9lAvZglVaruxX/xRCkIkyUfRnrmlQyWbiRSAWCkKyW+MemUf3/ZF+z2TbVx4Yn9pc4nq4d1L9mWtfupt4TgDKBP8vKD/SGeHVr0Tb93gG7+BvkBR/e6+m2ELkiJpsvwCoLWUWzmxCd+PDkVVq4GutSSTXyHXs8PAbV79PzLniM9sTZvb1JQJUmQ26D46kBamSjl2+2CC+vRb55lFoC8psIUqszvKzCEyjpuGuHJ8YKz8FAjAbP3DNii9trSFCTScjkUP5SVrtX+Of79FE3bIO9MtgLPJ2ru5gcf1793TkOL7kn7bU9ZVj4p7R8mnEOm9IcYo63XMLO3sOR65kLkvxtqmBYFNdlOb/waenm8N/h3+D3+YGkMqG+n8k=",
+  "URL": "https://www.mozilla.org/thunderbird",
+  "LICENSE": "MPL",
+  "ARCH": "any",
+  "BUILDDATE": "1593603702",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "thunderbird>=68.10.0"
+  ]
+}

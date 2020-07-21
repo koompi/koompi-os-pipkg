@@ -1,0 +1,25 @@
+{
+  "FILENAME": "gnome-2048-3.36.4-1-x86_64.pkg.tar.zst",
+  "NAME": "gnome-2048",
+  "BASE": "gnome-2048",
+  "VERSION": "3.36.4-1",
+  "DESC": "Obtain the 2048 tile",
+  "CSIZE": "109725",
+  "ISIZE": "425569",
+  "MD5SUM": "ed2203ebc368e2d284aff72735141a89",
+  "SHA256SUM": "88577f9c162f7cd72d91421beb64db544bd41dc746a9a3b2e3d137a4935af7ef",
+  "PGPSIG": "iIsEABYIADMWIQQGaHodnU+rCLUP2Ss7lKgOUKR3xwUCXwJE7xUcaGVmdGlnQGFyY2hsaW51eC5vcmcACgkQO5SoDlCkd8cWRgEApatA4t+v/kXO4e01BIxto6vN5+iPTx3doLrq1crGxWUA/3ZBlRbO4qCwm3CUVhppltwn5NulPGGOH3xoiJ9u1QQA",
+  "URL": "https://wiki.gnome.org/Apps/2048",
+  "LICENSE": "GPL3",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1593984067",
+  "PACKAGER": "Jan Alexander Steffens (heftig) <heftig@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "clutter-gtk",
+    "libgee",
+    "libgnome-games-support"
+  ]
+}

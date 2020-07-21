@@ -1,0 +1,31 @@
+{
+  "FILENAME": "cantata-2.4.1-1-x86_64.pkg.tar.zst",
+  "NAME": "cantata",
+  "BASE": "cantata",
+  "VERSION": "2.4.1-1",
+  "DESC": "Qt5 client for the music player daemon (MPD)",
+  "CSIZE": "3230263",
+  "ISIZE": "11988175",
+  "MD5SUM": "47fb5367efce48d8793a0707db65ec48",
+  "SHA256SUM": "2bb32424037daf9ddda10f154a24ffa68d170ce9deb0c4acdf4de0bfde0470cc",
+  "PGPSIG": "iQEzBAABCAAdFiEEFRnVq6Zb9vwrc8dWek52CV2KUuQFAl5TrqcACgkQek52CV2KUuQOvQgAgkgoP7vfT6cxEhNCkIfHmqD+uTyG3uQCQOclUMz5NZTMoehfzJ46QHB36yGubArYBPX6iEdbckgCcXcsvMMiPfFHjEIOAg9zdc0eglod+bFCSr5rRxPpJALrUCc/vWOd1jOqpKZnSVoggELgCDDIB/fKyEWp1MTjtIqxWsjJBWIRitaTFp1+SS2ooXfmz7ErmvwPLBI/yhLsaaimUNhtTLyip/VtQRiQ7FUvcEmoHMpnbeQugAz7jekm4R5buMdjmTcURO9q3ysqQWZD1QlWZFdIKVgNQpTitb4bckIAFcuvICaYoOyvNCbqC/Hl402N1qs7UaWwwDhaChYqu5vCJQ==",
+  "URL": "https://github.com/CDrummond/cantata",
+  "LICENSE": "GPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1582541520",
+  "PACKAGER": "Antonio Rojas <arojas@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "libmtp",
+    "libmusicbrainz5",
+    "mpg123",
+    "qt5-multimedia",
+    "qt5-svg",
+    "taglib",
+    "media-player-info",
+    "libcdio-paranoia",
+    "udisks2"
+  ]
+}

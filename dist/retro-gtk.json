@@ -1,0 +1,24 @@
+{
+  "FILENAME": "retro-gtk-0.18.1-1-x86_64.pkg.tar.zst",
+  "NAME": "retro-gtk",
+  "BASE": "retro-gtk",
+  "VERSION": "0.18.1-1",
+  "DESC": "Toolkit to write GTK+ 3 based Libretro frontends",
+  "CSIZE": "85677",
+  "ISIZE": "450825",
+  "MD5SUM": "a2a1418236a604d65f68c9f96a0b1504",
+  "SHA256SUM": "130cc09e0a041ae0880eb3b3ae34a994dba5ce35b5137201766f0f35255ed3bd",
+  "PGPSIG": "iQEzBAABCAAdFiEEzgvecadZqH8j8PfYth284QkBwWMFAl5k3tkACgkQth284QkBwWOPIQf9FsBo1s3pzjG2Ql7ZAReX9V55SHIYPcSyvw5ZLJNYhnMfzF/1klY6V29Sftpw95ggWvhzpR7bNVCyxOuiy0diXchM9huzCgU+iSgeN9SUxyikB1+noo+4euQMzUzt+2WHzyPm46WdSWL4miNXQLXK/MWF7pHr1nAREri0lPxxFOisF5dxvW8vFZOuaRNl0mQPSMXfh535AgjjzsZsrWuA2bBnoHqFVLHS4kdR2YZnH3Spv4HRxoPfcKEWUhw2Zq1hW6VZ9qtkZtARbkwCoOkDB3yErIf9SZBmVHLDrlHKpw7HP6+SwSFDSSzvxwgHUPJdcDEVbRNaXHYdYvH16rVMGQ==",
+  "URL": "https://wiki.gnome.org/Apps/Games",
+  "LICENSE": "GPL3",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1583668902",
+  "PACKAGER": "Balló György <ballogyor+arch@gmail.com>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "gtk3",
+    "libpulse"
+  ]
+}

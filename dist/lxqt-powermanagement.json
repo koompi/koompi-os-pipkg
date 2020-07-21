@@ -1,0 +1,30 @@
+{
+  "FILENAME": "lxqt-powermanagement-0.15.0-1-x86_64.pkg.tar.zst",
+  "NAME": "lxqt-powermanagement",
+  "BASE": "lxqt-powermanagement",
+  "VERSION": "0.15.0-1",
+  "DESC": "LXQt power management daemon",
+  "CSIZE": "114823",
+  "ISIZE": "549609",
+  "MD5SUM": "f396fb4ee3fb94b5bb1d2a110190c441",
+  "SHA256SUM": "5f1e11a1f0db9c935aaf0af73104e82140e11de75aa731fcbb9c309789579b61",
+  "PGPSIG": "iHUEABEIAB0WIQS5AcQXHI3QLG8vSWv5jvKnsKCYrgUCXqOrkgAKCRD5jvKnsKCYrqioAP9ioeym5cZqR8cnh0gd9Hd5+ZvUW2Pvj6hQsvFsHQeHZgD/bZbdgJZI5r/4p4ETx8WQZjChyryH7kVBxS1hGSqBUqI=",
+  "URL": "https://lxqt.org",
+  "LICENSE": "LGPL2.1",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1587784455",
+  "PACKAGER": "Chih-Hsuan Yen <yan12125@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "liblxqt",
+    "qt5-svg",
+    "qt5-x11extras",
+    "upower",
+    "kidletime",
+    "solid",
+    "hicolor-icon-theme",
+    "libQt5Xdg.so=3-64"
+  ]
+}

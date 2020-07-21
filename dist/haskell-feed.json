@@ -1,0 +1,31 @@
+{
+  "FILENAME": "haskell-feed-1.3.0.1-27-x86_64.pkg.tar.zst",
+  "NAME": "haskell-feed",
+  "BASE": "haskell-feed",
+  "VERSION": "1.3.0.1-27",
+  "DESC": "Interfacing with RSS (v 0.9x, 2.x, 1.0) + Atom feeds.",
+  "CSIZE": "422216",
+  "ISIZE": "2507345",
+  "MD5SUM": "1c57aa4ffe7b698479f323467c7c9a8d",
+  "SHA256SUM": "78c2b5352d617176fe68ffd5044b266e7cf9cadc7da111a56174c5777d789e23",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl758jsACgkQeGxj8zDXy5KywBAAtx9iDyh/vnFCBilBfTHby4hp784Qc7go0j4QFQZWnDkFSJ8j2YkF00TXLwx8ajPA25M+tHFXCUG44DZW2SYp02CQPLEHEMPsuMYPhF+EHfZHrNQBDvpiFulvz0lLBtpuKALT5714yKjhkkg/o4YGUrjVD2Ce8EqktuanR7mD2BOek2mrW5g2ZipoTuxWN+uSCFs+dWvqNP3Ra0vzf4yakTcFBDVKGYGG0fYZtAemSQ0WPApxaXxNkCkn83clEuRtOV0WPn9BrGQOlfNa/PQFd1+ulSxNSiSBcfckTIb156k/RT9GrzIjBeNbZjTh7ouPVEFBTzOvOaN8hiIDY5xV1kRrzmWJ/80QzqNRiG0CCigngzFXbEY5q+v3MilJmlSZvlQjmTo2dmYVWhF+DxjXAcKsy3vw2VS9LnC6su1cuZCArYSHEEB4y5M9gV2yUPNxzntZ7EsR89LVpLEiVEWPjE9iy+Ab9SZleaYWYpeXBLM4KDftUDtnHAtIuukLlSDYxy8kRwUtY2nDXtDDvRHJP34leHdbg+8e06kksZ/gP1jqPlQnK70AINZhYyKV9CJ5GgvJoHMnRHRTVHKowyvMzvSSq3XJtSQPiRNRoB/hUFmfNQdgaP7jCEfFrFUm2rrPccsuc8RMK9I063AoWnFsxEOEJ/VwAohSgg6xM9PLt/w=",
+  "URL": "https://github.com/bergmark/feed",
+  "LICENSE": "BSD",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1593438744",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "ghc-libs",
+    "haskell-base-compat",
+    "haskell-old-locale",
+    "haskell-old-time",
+    "haskell-safe",
+    "haskell-time-locale-compat",
+    "haskell-utf8-string",
+    "haskell-xml-types",
+    "haskell-xml-conduit"
+  ]
+}

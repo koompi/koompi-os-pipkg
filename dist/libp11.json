@@ -1,0 +1,23 @@
+{
+  "FILENAME": "libp11-0.4.10-2-x86_64.pkg.tar.zst",
+  "NAME": "libp11",
+  "BASE": "libp11",
+  "VERSION": "0.4.10-2",
+  "DESC": "A library implementing a small layer on top of the PKCS11 API",
+  "CSIZE": "49733",
+  "ISIZE": "187116",
+  "MD5SUM": "be5e7310f3cce11ddd578bced0ef3241",
+  "SHA256SUM": "c90108dc69be4f5c651fba48a3c7da3de1d44006bb9f2077599aa10b65879eba",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl8ErOcACgkQeGxj8zDXy5KvehAAt8BhyH+u9Yo/TmurM4vYVYg7Qa2yjsh/9O1U8/qVsmyYKOyjq8kr4d2JZkdVXBMVG4P9PF4JWx3eyVhPLg3OpxcKzSLN476qyeSbkQOuhs6x2p19MZIiq8aTuorZYCGT7YHaBz4wkzqUmwD7SqLejJzpA+cC2efmK36iaR32JwQmGbGiYlqXlFNkvLYYrY3HPC3KOnZpBdRoNkcK0pes819Vt1RUhTumgSbph/0vwNiGOs4JKkTZSal8Lehk5XwRbgHa0d8wbsk5uUowCSxWtm7oOAlPIMzUEqt6sJRpbyra/UC79A9elrplS/XxlJSo88hYsnHLqiMsO50RZ5cjfu9wfO4rKplUgvMQPwbQv5hmUFOscmYHow3URHh2Uq2Vx0NoWdRkSxkqd6WTZLBf95PdA+HAQtziYeqTC449rRPSGKBGlZC2mGcSgNqY1/ljwWc7Cnnsv1ZiLAn8clPUVvxokPEQuifCjATfjD8B4PVbXoH8brIIaN1o+0iT712Kg4KB0rKVKXSBu3k0IMYdYpS9dd9BZ2JBaQKJPphbeV6gRza63qoVjiEmtPxXPPJGKGzr5u22Vg4voNwPyAjxxLeNseGLRpdyWWZzgFBhHZv7+EYYg5inS/d/zooQ3jSXVxOYN+dEXGAAGY02LzCHAEHQqp2+Hc9A+umT3GwyWPc=",
+  "URL": "https://github.com/OpenSC/libp11/wiki",
+  "LICENSE": "LGPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1594141865",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "openssl"
+  ]
+}

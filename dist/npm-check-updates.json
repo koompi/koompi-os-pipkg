@@ -1,0 +1,24 @@
+{
+  "FILENAME": "npm-check-updates-7.0.1-1-any.pkg.tar.zst",
+  "NAME": "npm-check-updates",
+  "BASE": "npm-check-updates",
+  "VERSION": "7.0.1-1",
+  "DESC": "Find newer versions of dependencies than what your package.json or bower.json allows",
+  "CSIZE": "2696928",
+  "ISIZE": "14043225",
+  "MD5SUM": "0a3049f6a6188999e24bab41337931ee",
+  "SHA256SUM": "e09a92074ddba9cd5622a278403564325f989ec030e61ed68a0709bdc8884e07",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl7g/m4ACgkQeGxj8zDXy5JKfw/+PRuB4yuzj4nJxt3itz2gTLXY4awD0NzZN4dFGlX9svOGfIru4cwn3ZOS81VqjH0v6kK88tof/RdDJ0D7A8UXtmim/B9kBqCyzx6KXuRTkvcww0/qhqK2RhzgKy0JZHrTLV8K6N9Cq6SYBB6mu8dhjt8NFLQJG6/xoOhEw+SMhliHLkTLdcwxp4Biioup9X/vgvw8YweAx6cqWb+/g8kTLg3w0oW3Eh6qREjaunf+8YB0LYctznTicMquFhlYN1uCF47pp7YO9vD4HVG3oAxbQL4toHfYmFeK+oSU7lCoIJ6sVCAujAOFZkYZU6F3Ut4kbzAFP0DreCDes6P83JtJlYPbbPhJKb/2f0m/yrn+EAx/vURDNXuFUlK8f3IJYc3Bi+RXwf0N05DNY7elDk9UGq7JU+Sbfp7yrUjahev/gUjJBNBia1y49CbfRS8uhZiZ9bX9WJibpqd59kOncKwjNdhBoIf/CbzBFPR9QrS9wxW34mrkGNWoM7KAC5nX2P6qQpEV64n1Vg6U+y8iwFh7vByGn7aKyQ2xU9y4auLejy+x+S9NTWqLP7GODJiMJXc98I6d+JMhC/by4uZO0Cy2Xc7z8yxbu8Nrsij7QEYr2ILgYS4IYfGy2DvMOYBR1RVXrwRveuVSLxvMPB9DPUp/og2m6b+hnzxi2Qa7o2ShcVY=",
+  "URL": "https://github.com/tjunnone/npm-check-updates",
+  "LICENSE": "Apache",
+  "ARCH": "any",
+  "BUILDDATE": "1591803388",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "npm",
+    "semver"
+  ]
+}

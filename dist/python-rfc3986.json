@@ -1,0 +1,23 @@
+{
+  "FILENAME": "python-rfc3986-1.4.0-1-any.pkg.tar.zst",
+  "NAME": "python-rfc3986",
+  "BASE": "python-rfc3986",
+  "VERSION": "1.4.0-1",
+  "DESC": "Validating URI References per RFC 3986",
+  "CSIZE": "44718",
+  "ISIZE": "243772",
+  "MD5SUM": "3d5a7c6d397f187d3c6383a371389132",
+  "SHA256SUM": "1a0e7b646276c0d513b76718197e8f67033a5da7cf698a63cc370c68edbe1f36",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl6iHq0ACgkQeGxj8zDXy5LD4w/7Bz6w2DtAmh+074yOGb6MN1f3gaaVNMRzo0BdQQVBwPB92btoH7w9DU62oy2Sdtqq2s93M5B1fMw1U/U3j5PYrOi8jlWuiN4XHAKvk644ZmDxUQUAHxe0bs5/axh6TJj8Zvphi8bmQKaGQAiGpVwRIVD8w1NihcHfg8b2sIUiWeUywcTqzejYfAM6fdSNrx/qguFbSNZD/6HopGuOpYWfI/51NP1MgP7WJPeE6o1ac8Y1IAJfwwOrr6M0HpmmwEMIBEPdEpEHRmmsmb1b5N8ae+WVnrfE/7seQD5WSObkiFoCqzANrNwj1wShEqhnzT19RPEDDG8SLgdBY80kJ/xKAk5ru/mysh7NP6pnOj5tm7RbR9gxCy6aLGYpXIcZyqwYxl8IhN/qGO+viJ9BzkUf2WD0mNzsQygUdik9oAV0+upsjxnadGVNGJaxDgDenllylLxM9PCxbBUVXn0PoLVkev2Q0a1SYAGUk/J5rbklIGUvR/P/OSCGXbkDlVa+lf/mthyBuLPRqgu9FB/liZYfi6qDaHh8e0iX38eivaHZ1eMyrVXIbnS9hyJtlMVoI8KsQXQ9lrAzb7oH+fRXabNm2UPrDoUM1mAq3F/klED41mivpbJw86p0kmp7hcQQVC3sifZ8TknK5R36/2/FDd1atLe0tX1ro1pO016CFEofwRI=",
+  "URL": "https://rfc3986.readthedocs.org/",
+  "LICENSE": "Apache",
+  "ARCH": "any",
+  "BUILDDATE": "1587682963",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "python"
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "FILENAME": "ruby-crack-0.4.3-3-any.pkg.tar.zst",
+  "NAME": "ruby-crack",
+  "BASE": "ruby-crack",
+  "VERSION": "0.4.3-3",
+  "DESC": "Really simple JSON and XML parsing, ripped from Merb and Rails.",
+  "CSIZE": "496985",
+  "ISIZE": "2619805",
+  "MD5SUM": "bc7a8d2a194a2f1418b4527629e73be6",
+  "SHA256SUM": "01272ae752ed413d40bc9d99bc5403121a73f001c34ae596d88837140043a79f",
+  "PGPSIG": "iQIzBAABCgAdFiEEba97gI+d8lE5YgAA0hRh49/iBg0FAl4t3hYACgkQ0hRh49/iBg1uEBAAl63NBpq7ukDYIjRr8m1VF7Vd90cqSqePO1VNTc2JcFMurt23tjUiNRgHU4bLuv1DiAUpKaNLTbRBiE3cK0+zdPSPu5VlHskfevbqOR+d+RDWhnWlQX2/VhWCEMmLp3Y+Uuvc4ZMGf+5C8hqULEJ52SgnW2XrNJldcxkyFx+3PiiB8gFi6T4twLxLlnIlan4UzKFRjw+3PcBnAj8HGa0QkiIYjZXAPDbfr4sz0ArkZud1zfEf0gYdoDT81xHHwI+1wTCmQx0Xh1/2D2H4BauQNHuFbwwXwFS7Qxc1HjFgLQxR4afhAq4gEz8iEOQ3QmfCb2eBCVfnqe0pJcszPP3uWYUl/5nCf3uxhXqf0StKR/xDBJbcfroA4OU9HfBXkD32RXf0qECWxYLX24vJ2SINM1wYr/1SZcDeNC2znN9DfG3ZeYuZh8CQ917fP2ExDSKbKYRbb4uGQ0Mkb74pVbDjfQFHvNKyR6YtlZSfJr4Ta0XY8LcP6wT28w4LBYslzxbiYk0BEin4zPXJE7h7K24FSjGq02aKlUjVYQ4WuqJRKJirWfBbAhk3dpX65eMFawYfVBvLHDXXzcn1AtF8cfIuObvQpLBSmI8vbPttTtJBkVDrplOylnwroPc4Br1v8mYGJVAiX20XkW0SXoxU8+sxSqAcWsCovm9+yRREYQBOGug=",
+  "URL": "https://github.com/jnunemaker/crack/",
+  "LICENSE": "MIT",
+  "ARCH": "any",
+  "BUILDDATE": "1580064164",
+  "PACKAGER": "Christian Rebischke <Chris.Rebischke@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "ruby",
+    "ruby-safe_yaml"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "FILENAME": "python-pprofile-2.0.5-1-any.pkg.tar.zst",
+  "NAME": "python-pprofile",
+  "BASE": "python-pprofile",
+  "VERSION": "2.0.5-1",
+  "DESC": "Line-granularity, thread-aware deterministic and statistic pure-python profiler",
+  "CSIZE": "50079",
+  "ISIZE": "237609",
+  "MD5SUM": "917caae2a5244c2cc0c723cbb879254b",
+  "SHA256SUM": "d22fe873dd140b98a44e0ef11e11187e982cbe2c36a0d3acd14bff6163c9cff5",
+  "PGPSIG": "iHUEABYIAB0WIQTH54SUZv4jWDQ1iDdyWHNLQcMVSQUCXwMdxQAKCRByWHNLQcMVSa/5AP9Kel37EDWPXHV/G5u491Gmv4HwKGCqR1X0ws4LIwRYWwEA3WsS3DgSdnwbQfBLkVmKYBV1kf4SBMOUqua5AVgIGw8=",
+  "URL": "https://github.com/vpelletier/pprofile",
+  "LICENSE": "GPL2",
+  "ARCH": "any",
+  "BUILDDATE": "1594038894",
+  "PACKAGER": "David Runge <dvzrv@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "python"
+  ]
+}

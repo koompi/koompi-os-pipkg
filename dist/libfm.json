@@ -1,0 +1,25 @@
+{
+  "FILENAME": "libfm-1.3.1-2-x86_64.pkg.tar.zst",
+  "NAME": "libfm",
+  "BASE": "libfm",
+  "VERSION": "1.3.1-2",
+  "DESC": "Library for file management",
+  "CSIZE": "568831",
+  "ISIZE": "4292921",
+  "MD5SUM": "7bcd9dfd802f8f64ddf48acd6a7e69d2",
+  "SHA256SUM": "af624c2ecc8ba3a80560f073b1ece133e7327fe711c89a1a35fc3db1256e5a37",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl8Eb64ACgkQeGxj8zDXy5Kf2A/8Cn7GMQ7lXZAFuKQfv3tVIWxr1J4pwPWNJsUMoh2ATvehqM50GIRMsatWGq8PKLLIUhTxHbcvBRNNpLwVO49gZQ77ABp0HT4FKhj27iCRTlcL6R7NhlXUZyvh0HoLi4VK8pI78HvtmROiX/KcuwsirZiZNuPNqZLiMZ/YPvJg4FdofotR+xppiUmMaa6Sl7gc6ttpd+RUI4cvKlAg/B8Q6XataLpcJjY6UBfnlgIJWS69vXEEGCA0dEMv7FRiQax2155r4BHiRI4EgyezRk0IeZgi8BBSfJgZGTQhE9u1f2DOSSfunlmlkGSAJDhhfONzFdVkwfYad9AOjSf91g/oyxKG5u9gvOkHO4KyHimMTD5SsqFcQf7gyOO99MyxJ3jJvoWa2jvO3kiaq38I0Dijm9JHiF49+0zVEX3rp7qNDVymWY6CSpC4RmSiQU2t6I6LC3wEdBbUZgc+nBFB7EidMTiR9oqEy3qcX7s89mb1bXbmCSHgbtOwh+lCJ0iK7BOqyaA4nQ9HrCaCC06tEMbX8eW89fV6Bcy4UKSsRJXbeprGSN6fbjbXeC4JZ+XPeN7TTo6mih0UnprPaG0ZWwu0SQOttBtpi8wVxjtLyjDIfYdleFYfTLVzoCO1l+9R+RWsJ9pdXlmxjAEnigICyNkCEymIvhOSv9ZIOrUCXsVtP18=",
+  "URL": "https://lxde.org/",
+  "LICENSE": "GPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1594125959",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "libexif",
+    "libfm-extra=1.3.1",
+    "menu-cache"
+  ]
+}

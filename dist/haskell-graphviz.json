@@ -1,0 +1,29 @@
+{
+  "FILENAME": "haskell-graphviz-2999.20.0.4-19-x86_64.pkg.tar.zst",
+  "NAME": "haskell-graphviz",
+  "BASE": "haskell-graphviz",
+  "VERSION": "2999.20.0.4-19",
+  "DESC": "Bindings to Graphviz for graph visualisation.",
+  "CSIZE": "2523926",
+  "ISIZE": "17671967",
+  "MD5SUM": "473466d17f6c3cf6790c4038bddbd313",
+  "SHA256SUM": "02f7e2c08faf604b2dff44791aff53696252e0ef2d190b4fabaa444341f114cc",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl75CQgACgkQeGxj8zDXy5KkAhAAqO2Gxf4LPUs+2jEcMH7GGRDB4EIdH2iBPeXCSOAd0Jl/DeDEsNWRFNM6xasGZ8ya/KHABObiG8WUL4OJtfVh8h49YWOrpyCZkcLNKgCxoFbcJKYvEdt4tkYYcK5zzs+dN2Re8oOC26BePy+eVFPQXa5dZ4GTQXCeeWUG5uGohwAXOAVVGk3jXhJzIP6YD4B2eyuuTaqp2ANutT2c5laoj/Dct2OgmutbtesYtJ79h+dqW7hC+OlQ/l6LyML8SKZsHdZNxgvyT7smwpNg9K9IiewYghbdRPhsQ+Rk1j04rbJGni+wHUOGJ4m/wkheGVWqp2WcoRwMT1uwT1Ao8b1m9Jr2HA1RiYG6gOrBBRngdPw/pvf7fyFmZs3qMxrnc0Y1V17Fh7LJ1Ut1DO4P4fhnaKW0Ty75rOS1kr2muKiZMJ0pLdXmO+KS/ZGQmw0wgwIVBmD61R5avMcGlsBJc3EvVK/XWrpi4Bz/5Qo4JCsvwo3dIvqmuz+86W1CQ4xPSjAjyZKPLlucKbuyoN59Z8SRdgXdp4XgaFQ2csbO1i13Rp17xTzlinr8zPUPD8BV7k1ZNBw0omptFhR6bEiLg7vm9dntgj46WNfkY+ikYEYhov8XudcY0j79qVynU65RyYUbCLuYvtyL2zBA6H4vAfaSOO7MDHKFQeHZZ436g1Ipb/o=",
+  "URL": "https://hackage.haskell.org/package/graphviz",
+  "LICENSE": "BSD",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1593378948",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "ghc-libs",
+    "haskell-colour",
+    "haskell-dlist",
+    "haskell-fgl",
+    "haskell-polyparse",
+    "haskell-temporary",
+    "haskell-wl-pprint-text"
+  ]
+}

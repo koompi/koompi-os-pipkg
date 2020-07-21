@@ -1,0 +1,24 @@
+{
+  "FILENAME": "man2html-3.0.1-7-any.pkg.tar.zst",
+  "NAME": "man2html",
+  "BASE": "man2html",
+  "VERSION": "3.0.1-7",
+  "DESC": "A Unix manpage-to-HTML converter",
+  "CSIZE": "18262",
+  "ISIZE": "36941",
+  "MD5SUM": "0c3d26e2a9eb001b9a6f6cb879e08db0",
+  "SHA256SUM": "f13794c65d01a59ed10fdd737a6d396478eadd05bc187e4e2daa81ca118da3a3",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl6/v4sACgkQeGxj8zDXy5LsTg//SrzqqQRmAPf6UqMfRdkrpl8SN7JIG8kNByBAHxjjqVrUs5KOsNM3QWjd1zzR+Y8zF8aH0P1yZavtoNrRDANUzETzDzu5T/FgKw52CLHWbqFUJFZl80cZ+LBfNRyya4SgeNyz0A8fgVTUYdsds87WkooSiYLsx0KJ0oYDKHNH7KSr6tkyjuh7u1FuP+uOiglRUn88bK+pyVEO1eE2SNlr2wCbCPO7I3dAJBRjU8wXeEfcamN6qFKQQX06hd4L6DjJXFjEPrfHXPkkKcXqwOqNjhmZdJlxP8UQ0o6OnaaPnwdFXs1M+P/rj2fhhmu72wAjzeSiR1nzyVVmr+vA7FeuxM/wvfsWu62BQxCIfW0/hx0nJpoY7dcZLHIzVtgW7TJCVGbUGorJwU4e2WGvhItwhgGS68SUgPhDE9WkojkByesBAu6ryBMFfFKWb5KFPqYEzGo28aRQF8GYFsS2+xzA+BlVi7c+fs0h7iCzuIhPqSgIVIiVaw3G1XZbgflTWbai5xWReKYoLWu+H5c7s27lmRVW8sLUGOg1zFPe3AU8v6wPCh5A+XKOChugU83ssz0I45bVxAk9fWuGTPQBafXjgFXYFWFbQrhpyWRdVad8Y7Z9AQkJUGcNuchjQp6Cdv4z10iENvfqCCSXmixcaR36AgAebUztHPZtaqhodngxYic=",
+  "URL": "https://www.nongnu.org/man2html/",
+  "LICENSE": "GPL",
+  "ARCH": "any",
+  "BUILDDATE": "1589624689",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "man-db",
+    "perl"
+  ]
+}

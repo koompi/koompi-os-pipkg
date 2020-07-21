@@ -1,0 +1,23 @@
+{
+  "FILENAME": "thunderbird-i18n-br-68.10.0-1-any.pkg.tar.zst",
+  "NAME": "thunderbird-i18n-br",
+  "BASE": "thunderbird-i18n",
+  "VERSION": "68.10.0-1",
+  "DESC": "Breton language pack for Thunderbird",
+  "CSIZE": "513598",
+  "ISIZE": "574852",
+  "MD5SUM": "304f04ce3915c141b20b16e112350de4",
+  "SHA256SUM": "b987b330cd2541444bfbaca8623eb156219fd294a5b4f4a4b905d64f15adf7cd",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl78eFkACgkQeGxj8zDXy5LM6xAAtnJQDp7z3/ZuwYRQQ+Rc6Nm8ELF6XvTqDbC2gnRORyoNcqE4s8LBrJonMf9YphHt5YTPWJy+u4mrDGPVO5wkqXK+t4nu8VisFUeFs4c9pNu5B/r0GvBmn3iD4cUdNOCi7iSwcgScghcdbnli1SJmXM1C/Pa+ANuzDJmeoYYSpSKj69w3D2WTOEh+TPAf9Q+tB71Ql3fUzPeespUjb06ULIRdYfVDMb3topwRKw8BJZPueYSD8fFYfn52/3aLsEy4D5iELUSDqhC04FeKLncbOsilm17e7Pi1X1vj0cYvAeO3Q8rYzthzHpDnnfXtVnsigcH8yccsJrOp7F1KuSDA//EY4i8rq4ucbffkKOWOw6OrMa/feZFNhAe/lkPU675esOxPrXPTE+jzHSsWtQpfHFFwBv2FDOxS8Z2yh5Vrhe6vwQ5HP3W5n7Z5aNBFvw40iO5ipki/SuvDGKILcijVh/EAkYEmqyvxX6KAv2ro4G0N7aZ7Td/hXFl6nh5RfaitGliza5flPG6ygmzfo6rZNXRce0F0ZFELEcITaOizD6MlCxLwpwsmTeca65hv5RjPhRQbIylpoXiqyxpyfCa915pXRP7+y4x8t8spE+cqmngy4y0uWNajycFYHVA1us/nVf9XLrvz5AKiwJmVE+9tGmvmjopHQ7wpZyC5/2/pYeM=",
+  "URL": "https://www.mozilla.org/thunderbird",
+  "LICENSE": "MPL",
+  "ARCH": "any",
+  "BUILDDATE": "1593603702",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "thunderbird>=68.10.0"
+  ]
+}

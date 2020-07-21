@@ -1,0 +1,28 @@
+{
+  "FILENAME": "gnokii-0.6.31-19-x86_64.pkg.tar.zst",
+  "NAME": "gnokii",
+  "BASE": "gnokii",
+  "VERSION": "0.6.31-19",
+  "DESC": "Tools and user space driver for use with mobile phones",
+  "CSIZE": "729655",
+  "ISIZE": "2562814",
+  "MD5SUM": "0022597f5fdb3e0dd9fba5cfc4871d82",
+  "SHA256SUM": "528114f9d2344d4a2d5ab979fdd4c5278b528c365d9f2981e053972c14a42d2c",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl8EswoACgkQeGxj8zDXy5JjaA//WAAoPG7LXNa67ifyemjrR7vZgnaybt8HzrdZOOZ003fKH18d72ReCS7v2BJTMZeE1IFUb0GF8+pDUxWuF10IUNPMBYcwk260XUImaonWjCHCfMsNGyALos9eJfYGjencTBOITOfjg+Rv8Khq0Iw6ozSKrAYEuNKyoWy6eMuKoSGRz/4Dc4xjOVkRRwy9k0uiDqVpHnBVB7t3rgVMQL80nZyZFobpOUTHlqEmYuISKgQ2Th6kreZRj6ziOpiAUyxTBQzEvf+71pmIVkt3Xs3ayVPBGmWLKdOez4N62r+AV8z9/P/LyjyZ0MQuwhGtq2nBUPcm5aTV4yxbIWbhbLKfPbhJL3AnaTttnUX8KQkQ4dnXFxFU26BQIoQIKZJyBKRP2576xxv9EXJXcM0qM305HBHDqAvVBMMSYxazWg3saD6lPTFka5/JzcnuWEM51zvkS716ZXDaaBaq0saNCDJtsY3Rhp5/MwA/PX9EolIVSVe5wgO4Kp4SiWPSX/D2TYW1mfV1KE0lPh/0Wu1u36X8dK37WU32hlflIEngA3v56DT4EhzbuVSTa/bta6E/XoZq22EZPaM3o1FL7uOFY8fXpzBeujrUJe/ZXAgM3Mx18pc8NKCc7l6eqwepUR99lNTCJmbdpHb4BWe2xv3QbISW6stE/CkXUx//g+kJSuLCvTw=",
+  "URL": "https://www.gnokii.org/",
+  "LICENSE": "GPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1594143309",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "libusb-compat",
+    "libxpm",
+    "bluez-libs",
+    "libical",
+    "sqlite",
+    "systemd"
+  ]
+}

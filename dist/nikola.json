@@ -1,0 +1,40 @@
+{
+  "FILENAME": "nikola-8.1.1-1-any.pkg.tar.zst",
+  "NAME": "nikola",
+  "BASE": "nikola",
+  "VERSION": "8.1.1-1",
+  "DESC": "A static site and blog generator",
+  "CSIZE": "1278058",
+  "ISIZE": "5518679",
+  "MD5SUM": "f59fe3b15a7292d4d2b22e11d1898624",
+  "SHA256SUM": "df829710afc35200bdfe830012bb68ff93fda4973e22d628203650d4b181eab5",
+  "PGPSIG": "iHUEABYIAB0WIQTH54SUZv4jWDQ1iDdyWHNLQcMVSQUCXwMUBAAKCRByWHNLQcMVSf/XAQCSRaez42CvuIBmo8fHpfL0F3ton6Pgm+EawMffPfpkgAEAsvYzB+5QyWI3BVvL43wippZHE01gpl1chfDfd6BzNgo=",
+  "URL": "https://getnikola.com/",
+  "LICENSE": "MIT",
+  "ARCH": "any",
+  "BUILDDATE": "1594030446",
+  "PACKAGER": "David Runge <dvzrv@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "python-babel",
+    "python-blinker",
+    "python-doit",
+    "python-dateutil",
+    "python-docutils",
+    "python-logbook",
+    "python-lxml",
+    "python-mako",
+    "python-markdown",
+    "python-natsort",
+    "python-piexif",
+    "python-pillow",
+    "python-pygments",
+    "python-pyrss2gen",
+    "python-requests",
+    "python-setuptools",
+    "python-unidecode",
+    "python-yapsy"
+  ]
+}

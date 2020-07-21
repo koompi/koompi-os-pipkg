@@ -1,0 +1,25 @@
+{
+  "FILENAME": "lib32-libjpeg-turbo-2.0.5-1-x86_64.pkg.tar.zst",
+  "NAME": "lib32-libjpeg-turbo",
+  "BASE": "lib32-libjpeg-turbo",
+  "VERSION": "2.0.5-1",
+  "DESC": "libjpeg derivative with accelerated baseline JPEG compression and decompression (32-bit)",
+  "CSIZE": "264044",
+  "ISIZE": "1561955",
+  "MD5SUM": "e1efb2886c92e9c61a80cdf3e4f6909b",
+  "SHA256SUM": "93f14165eeb79b555571e650067ed04648ed4f4f9e719fd5e8686383f8127daf",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl73nXgACgkQeGxj8zDXy5LgoQ/9EiH0zzqtTT4qHsVdJ+OmxrKMot6jqgRlWRTg8BP7BF9/+m2eX2EDrueDYHzuylv2W+h4qW6w5fWROWayfsZiU0O3pAhJPJ7tu+TSACDZM3C5P/51EHq6X6bSsVoPC1H9+U6YEeGh+G/vDxWCa4H5whbT1v0VA91M480w7AMMrRFPtZ5mVkJL2UGzqN7GZ8MUJhkSQEZlJJHlGRxj9TegonZvXQNleziQ3LADrJHVMmmjPFaBFRoHCQHfvUaxng6igjtWNniMumzmbevF7QDeNgmh1t7JuVcvIWpXWcau7h9DJ+XHsBoMa7JX890RQIj+1A+N9D8GsRzJVw9S4tOSECfMzcZBmOjiNe5M+zjafotAtDOAdkqS3wIS4gxUnTjf2XwAt2G2wjXRAjyvhzJE0eB7u7cnBEXBZaF8sDMxOr+BQsBoIGy8SDZ5aXpPlsmLjACifb3vb1STQA1E4qfvWBHU0YyVZ8U48Df7LbN0l9JqLBpXm4bx1M+6FOqNH/qEPrFf2ToY1oUZPIBsG77KaNwnqwOha9i0dCL4j3CWadKtZZE81wqlyGU++duaQi2QVQh6aBfb++fevERwYIU2geZbrgC728YwdOGYkLE2CQxvgbk1LYiZ0s4IRqeG8lke6q+puuFM8wR/UWUvLC4jZV+Vv7A0GyUVGym0hs/HAw8=",
+  "URL": "https://libjpeg-turbo.org/",
+  "LICENSE": "custom",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1593285860",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    "lib32-libjpeg=8.2.2",
+    "lib32-turbojpeg"
+  ],
+  "DEPENDS": [
+    "lib32-glibc",
+    "libjpeg-turbo"
+  ]
+}

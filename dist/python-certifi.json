@@ -1,0 +1,23 @@
+{
+  "FILENAME": "python-certifi-2020.6.20-1-any.pkg.tar.zst",
+  "NAME": "python-certifi",
+  "BASE": "python-certifi",
+  "VERSION": "2020.6.20-1",
+  "DESC": "Python package for providing Mozilla's CA Bundle",
+  "CSIZE": "151566",
+  "ISIZE": "293195",
+  "MD5SUM": "c628e20de423ab95ebcbd5df8f58d9ae",
+  "SHA256SUM": "8656334acd90a6b84afbfd292fd81f0fc496e10fc7a21932c28b8d3fa3d9a1a0",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl7wTmYACgkQeGxj8zDXy5KGZRAAngnIIA1b2wOSSl/R2QMmAebU54F9iQC4bqhcFIsJEjfc5QFSRPl1zrg8AnABlBpc11adVB3x2Lcg5XXMb8HyAuLUFcpGeRb60UedFL29nDxr/lFOXOjvR+J5AQ55FyS9Yx8Tku+R22PqSvIDfUwSDS3g8hV+tlCck7FqW70/BbfqSip3vWPuqfvU3+uCVjL9EzG3ByKNSHOxLbX0NQTNVvM7yg5vLKW5zqO4pEBUjdQy8Lc1aqWsZBtK0+M3a/mD9y2DoNXd7vZoYJ655G5QLc8g8APqafMsgEW49/mMzaHDU0ZkKQJiBQk2wOKBD8AlOzRM7E1itFRUU0073KZCLJsRtWEOXYPW97qoi6osBbCN1ilV0tA4LzFDAVE8G+jlCReT2F7N2KofAKoeq3tVk0JGccXtEpPiIzeLAleB3ei6Y8TQ5UZt0NOXonioEB2KXHz4nnTCAt6nAeYzmkNHVrcXIdAO4cPwMsIhj8QCbkHXU7bRZ8qoQ5eQDn2+ywuu0x+3Tu6hs3JJc2N0lMv2qc2rWYVm9N1UKbRRn7a5XjaKsuTFq0AWmOK+BAF1d5XEpAp6Br9vEqZnFdaxyDtH8bBXLF/ip5/OnmvQ8IOe4FHQAXjeKgjVo5jaVEf0phyuZFdcDkP3PcbQ2oDVdKspWi5Q0dcze+ALkE+KFds1XHU=",
+  "URL": "https://pypi.python.org/pypi/certifi",
+  "LICENSE": "GPL",
+  "ARCH": "any",
+  "BUILDDATE": "1592806979",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "python"
+  ]
+}

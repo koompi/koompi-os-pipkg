@@ -1,0 +1,37 @@
+{
+  "FILENAME": "x42-plugins-20200411-1-x86_64.pkg.tar.zst",
+  "NAME": "x42-plugins",
+  "BASE": "x42-plugins",
+  "VERSION": "20200411-1",
+  "DESC": "Collection of LV2 plugins",
+  "CSIZE": "1521619",
+  "ISIZE": "8171150",
+  "MD5SUM": "b05d050e568ed89255a9e878eb727429",
+  "SHA256SUM": "6c4bf0e2c077a48a38c71438e4f14b2b77f9d7735149f56608be727cf77e8eb0",
+  "PGPSIG": "iHUEABYIAB0WIQTH54SUZv4jWDQ1iDdyWHNLQcMVSQUCXpJVtgAKCRByWHNLQcMVSelxAP0ZQAl83JFXW8yV5Gh4t0zpuRnleNGiFfuOT1FbD3dPiwEAzAoHHphK8aLGhprrC2lfDnoHh4WJYZbE0Xz7fVqgzA8=",
+  "URL": "https://github.com/x42/x42-plugins",
+  "LICENSE": "GPL2",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1586647455",
+  "PACKAGER": "David Runge <dave@sleepmap.de>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "cairo",
+    "ftgl",
+    "gcc-libs",
+    "glibc",
+    "hicolor-icon-theme",
+    "libglvnd",
+    "libx11",
+    "libfftw3f.so=3-64",
+    "libgobject-2.0.so=0-64",
+    "libltc.so=11-64",
+    "libpango-1.0.so=0-64",
+    "libpangocairo-1.0.so=0-64",
+    "libsamplerate.so=0-64",
+    "libsndfile.so=1-64",
+    "libzita-convolver.so=4-64"
+  ]
+}

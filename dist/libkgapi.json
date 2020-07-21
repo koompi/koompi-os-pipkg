@@ -1,0 +1,26 @@
+{
+  "FILENAME": "libkgapi-20.04.3-1-x86_64.pkg.tar.zst",
+  "NAME": "libkgapi",
+  "BASE": "libkgapi",
+  "VERSION": "20.04.3-1",
+  "DESC": "A KDE-based library for accessing various Google services via their public API",
+  "CSIZE": "504795",
+  "ISIZE": "2668516",
+  "MD5SUM": "9af4a233cf585ea0efcf5f43ed96588b",
+  "SHA256SUM": "11cf143fd3379923e07895151dc175b7d4b1b85fefced9631490977fcee28fcf",
+  "PGPSIG": "iQEzBAABCAAdFiEEFRnVq6Zb9vwrc8dWek52CV2KUuQFAl8HAvkACgkQek52CV2KUuTTkQf/XsUnWHhib1OHS3yNk5hrmdyvwcZUwGV5toF9/dDfazU4S92plp8sTKBSyK87/u3Yzl8kIo3Wtw17hHjI3aISl21xUn6iayDGiThTAcCtaKSXfnekKqZp1rjwpWOn42TEcvUTzBy3YkMTQXI56FajO74I+Zl3V3z1xONfo7tsproAwEUVQRS8daFkKkM/LCMbp3G5aDjuJfrGku20Nb22uzg+EkSkCl31VqTYsetN7cgZRQXxH/+DwzrbDq5RiSUnpDb2LoHYoS1DY/x1RagTbDc2VNDZrTP0tSa2qtJLuFtSonOkiNYFTODoCc7vtznuLJx6CfSZiao2nHApyHoD+Q==",
+  "URL": "https://www.kde.org/",
+  "LICENSE": "GPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1594104621",
+  "PACKAGER": "Antonio Rojas <arojas@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "kcalendarcore",
+    "kcontacts",
+    "qt5-webengine",
+    "kio"
+  ]
+}

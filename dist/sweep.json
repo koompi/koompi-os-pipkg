@@ -1,0 +1,26 @@
+{
+  "FILENAME": "sweep-0.9.3-5-x86_64.pkg.tar.xz",
+  "NAME": "sweep",
+  "BASE": "sweep",
+  "VERSION": "0.9.3-5",
+  "DESC": "Sound editing and mixing program",
+  "CSIZE": "360508",
+  "ISIZE": "1555456",
+  "MD5SUM": "f6f4b21c92c7f91a65e5ca4401215d00",
+  "SHA256SUM": "0e958f7b6818422a647e7b20af17bce129919a5d47417d39746ecc1942636a8f",
+  "PGPSIG": "iQIzBAABCAAdFiEEkb2IFf4AQPp/9daHVMKPT/WhqUkFAlsXCbAACgkQVMKPT/WhqUk9jw/8C6DGA17gZtS41EhEd7euTNreQkdWOqN+nFqwbq1IN/Jk4+m2LYGV6QI59QkxA8LaReWF0zEjINIR9laxApL5pN/qXKG7zDo0r3qaW6ys4g2XAcbIwW/pZqpMo7xSO4n6Rhz8CP+t0AIrXK3Fft3dlkV+GvuAshHYFpX2zk1thGFtNYL0rgQafH0+JDHxgWVHbcr2bS1COaKLDU85U6zHoj1CiCT0qq/Kd/Nakq1JGdfs1yZHiWfnsDPkEQk5zB2SyW9mAcz7zCDetvXp0PZ+LJYBFU1RIjGasLN+31AoxlPviey0zwKoOLGQ+ufHQNZpWbJsTI8wlJSJCYSyDwrgkkYOfDPcKugdeQaZxDvIkwsr2Wzet2nhX8nR8/DJCescnlr2n8MoWOMNMlk5h+hd1icd0M1I/x995z1iBzKlB6YaNd152dFAB/9sa3ZtJQivCxcswR9w+uz8zSzr7RpIWSfFBL7uQg4lIdmv7kDHi4AtGG//tB4aN5YFX1DT8LzlGtoUrPU/uvlNHpDaeiolK08SPEua70chsbv77+8PDw2tW/Zuma4nn9LnYeolrjlClGVsHqt+kdJO+PpKp6QLHsAvU+DdSteFNCrC8e4AbeaLO5VRqZegzhJhv4ldIzGVyPz1Arsl4lt3EzTzNEv5G66xy0WoXovVwfwfUnbZlLo=",
+  "URL": "http://www.metadecks.org/software/sweep/",
+  "LICENSE": "GPL2",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1528236083",
+  "PACKAGER": "David Runge <dave@sleepmap.de>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "gtk2",
+    "libsamplerate",
+    "libmad",
+    "speex"
+  ]
+}

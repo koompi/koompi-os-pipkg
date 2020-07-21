@@ -1,0 +1,28 @@
+{
+  "FILENAME": "icecast-2.4.4-1-x86_64.pkg.tar.xz",
+  "NAME": "icecast",
+  "BASE": "icecast",
+  "VERSION": "2.4.4-1",
+  "DESC": "Streaming audio over the Internet",
+  "CSIZE": "1476448",
+  "ISIZE": "2142354",
+  "MD5SUM": "5f0cc57a1c8b239856b92c6a613358ff",
+  "SHA256SUM": "87b107b83d3130d684fb23c7585dbc8bed36bfec060d8037859fa2a11c0bba2e",
+  "PGPSIG": "iQIzBAABCAAdFiEELjbYYgIhSC/EXLfyqRdkdZMmtEAFAl22+40ACgkQqRdkdZMmtEDS/A//bwL4gSuTR+N3mWo5+azNsBS97EPNu8LgLyrK/bNyKtt9njYMqI8PCKv+qtqd6/H/HWueeJnHMgOgPko8x3RQu3XOC86sbAhB5i1kcrlEPxRglFHY/qHhA6aAOQ6DcXyl8cgdcyAkZFqyu8up7tFFoSsNLfJCVtKF6R5mcgDAvHYsE7/9EjtS4VSJAKVywo/ueu2k3p791VVm+Exem1txYJwrLs4ew42omqSyyEbUjuUkOkII/wtimzWzSBG5Rrrp6j+GAhWlgvOOl3nlvZlEekMuCCkrzT1g1f+Sic/V10j39AhIiNbxpNNZkc6lXVMdHVo6jl1j4cGZ4FSqphSA3MfGgUJgIUqtIgmAt9bzXb3OjPZoMIO89BQlLj74qiHC+5lJHOVh52uQYiUFCXFtzEZPEi5wof/wSb3LLMSQe6GHUzKkSqB/QxxQSY0WPvRv45q7QUnZHIMw9CDBwp1hCiieYX23zO5WXRCBHDWN0p0PPvwF/gHN4/vLZO+nn3BQLTlr2WvmzAtU0YSvmSmVsMvpDzjXW02+crif55WeqU5So4guBNnAmt+P7zAcxq2ID2bZF5c7ZSRRXSOeyBVBhDVf9cOe56j0XsSDU9JHJiu7WNMAGrTXFPehLHgd2sleD2q7T4rECGYvgkkR+MHvvjQxNX4cyaMezCuJxXwkkCU=",
+  "URL": "https://www.icecast.org/",
+  "LICENSE": "GPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1572272924",
+  "PACKAGER": "Lukas Fleischer <lfleischer@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "libxslt",
+    "libvorbis",
+    "curl",
+    "speex",
+    "libtheora",
+    "libkate"
+  ]
+}

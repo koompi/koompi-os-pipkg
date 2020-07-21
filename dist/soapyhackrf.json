@@ -1,0 +1,24 @@
+{
+  "FILENAME": "soapyhackrf-0.3.3-2-x86_64.pkg.tar.zst",
+  "NAME": "soapyhackrf",
+  "BASE": "soapyhackrf",
+  "VERSION": "0.3.3-2",
+  "DESC": "Soapy SDR plugin for the HackRF",
+  "CSIZE": "40076",
+  "ISIZE": "108328",
+  "MD5SUM": "ff34c1528acc07feceba2c205e480d06",
+  "SHA256SUM": "6ae6b7f7fb5fc027b19a91c3052ebcd6e208f6ba6f70ac7def7e39ca5fa638ca",
+  "PGPSIG": "iQIzBAABCAAdFiEE0jW0leqs33gyftiw+JPGdIFqqV0FAl6KNc8ACgkQ+JPGdIFqqV1j9Q/+LvJj1Ekd0pvHYRRtOGsniM0juOz3dEQ3CWsoRC5oGXVNFA1quBhDKU8XUOqzGtsWW/8MUthqjW+0btEViG6MegGIbwLFrMrQ5Xxqp7YzgPtKSW7ikpzeLpmDK+Ae3gabIlM/eqMa236B6ZVafTHhb7yobu46eQWWXzEqIy1JMUb82IQZ3ayhRty+WWxDFzVdaOi+r7JaTBrWDCiUeQOS7inMoKW+E1XVERchA8NOQYz5rTNy2Y/EgNPplVHILf6+yr2R+rBEAuEUAhc9dHNi1qU3VdrecIma8Jh8T+0AMYUVabia+05ITO+U1iyx5K1lR2O3k3ad7Hrmyj/aNy9PjcWbtdW040tXFH5GvMrSDhMAuIOIdMHm+Q5bm+YuEEwJ0KQmaSJBEJ8Be58r54bNHVLbU7fcZvgnl4C5K6ItuUOX9wV37wurNjxWXSWG+VlsvNkiaXtC87RriHh1Y3koD7etXRDzUCyAItTuO+paonRbrJjLuqk+nowX8G3Vj3GEJyg6goCOZAHuhMOpTfMMYugvyVLxPG/ETT+fUPp7Y+UmmGgJaccRKEKXWtG5oRq4X7PEtHn2wtOj9yG/dOuM5JUHBXH4lKs0DoZr4jN0WDR3nM5Iph8HLy3cWJlnFYiAUC0tYvpZ4tHe5LYqqQ+6ho46JMwEuVrEjJrygv2TkHM=",
+  "URL": "https://github.com/pothosware/SoapyHackRF",
+  "LICENSE": "GPL3",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1586113802",
+  "PACKAGER": "Filipe Laíns <lains@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "soapysdr",
+    "hackrf"
+  ]
+}

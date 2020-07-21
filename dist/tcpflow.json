@@ -1,0 +1,26 @@
+{
+  "FILENAME": "tcpflow-1.5.2-2-x86_64.pkg.tar.zst",
+  "NAME": "tcpflow",
+  "BASE": "tcpflow",
+  "VERSION": "1.5.2-2",
+  "DESC": "Captures data transmitted as part of TCP connections then stores the data conveniently",
+  "CSIZE": "297470",
+  "ISIZE": "817520",
+  "MD5SUM": "3cf254757d4d4ab652663e272fb7b926",
+  "SHA256SUM": "258f283106c3bad25cd885278974dbfac0c74a040195cfec4c57dc7e9773d1a0",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl8EocMACgkQeGxj8zDXy5J5Vg/6AmuGNn3xjnab4kPaJwzpx6qN1/l/R+8b6QdN3K6Iq4UPVLoVsBsW9nri5JQhGzeeRe4xOECbVm5DKgrKNvYUGvdw7noRG86+bSEUm561KGcSbbEyEw+TRVFC7YyR5uyIciCcZvG7VJSsleCDI0sW8V5OzOn37xXECAB1iaaDBvSAyVt7MVyxFb4rUmojtp7kjcv4KS32qNGTo6uz/sg98Ir16qCpkNZBlAN/tciXvICQhbJxpYL1+P229FlpOfBpPhOwsUwrzOEegb0yWyOJVHgaapV1rdH24tkqNlVHoXZ+fH6Q/29Qm5J6leHqUwNqwpqLGgk027WNri37Y7CP7ppbHShgRoQrUgc4ZH1LfLGl9HSGgBAva1N5Tl2BEJf2jEcukDuQklHmxjJ1Q3AzdRyeM7gQ5HEy2ntPD5HunGT6eqK/kvcQSFuXuTdFju2ig3ONPdV5SjAIJoQnlQfXebynI44lUZUaJOeA8xVQdNLLw3pfVEYJzGB71tlSmZfxJXNmTNY4v58ytLe1m0quK+Rm8l30qFzArwaWi4OetRtHaymqX3B9XoiNLEj8OeSMKGvYat9iCjK7YBRsOC/RQv4w75c3qzx/eTthHWzOUCqh3UXLCBzqJ2eYpmDJ7lskn6P/MBJD5Zinri5DNCLmy4mNDLSf0uMrgfjNQ0kAH3k=",
+  "URL": "https://github.com/simsong/tcpflow",
+  "LICENSE": "GPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1594138741",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "libpcap",
+    "cairo",
+    "openssl",
+    "sqlite"
+  ]
+}

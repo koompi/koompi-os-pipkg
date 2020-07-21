@@ -1,0 +1,30 @@
+{
+  "FILENAME": "choqok-1.7.0-2-x86_64.pkg.tar.zst",
+  "NAME": "choqok",
+  "BASE": "choqok",
+  "VERSION": "1.7.0-2",
+  "DESC": "A micro-blogging client by the KDE community",
+  "CSIZE": "2034274",
+  "ISIZE": "7934995",
+  "MD5SUM": "b3131fae9c9f44d1818f4ce841f74e5f",
+  "SHA256SUM": "917498846b61eefce636bdf5a007f1729a0905983a0fcd19a3698eadd3132a08",
+  "PGPSIG": "iQEzBAABCAAdFiEEFRnVq6Zb9vwrc8dWek52CV2KUuQFAl4+mMQACgkQek52CV2KUuRe6AgAozU16I5/Dz79RK2KMzZgFzlbAOZ3cobBaxnmxe/Js0N6sDjBzubjJ6zObGVZUV8M4kVP3lm5I+9/guJFEwvzO1YAw/csajB+lwTXtJa/D6SvmWITVcoJEw8d+qVSIqVnqA92k3B4bHsVybwoyWoNwtD0jC5UU0Nb15oMgAeBd/IqNRMQ/EBzIdOlGbWWo4JoJYsjlZORRkIcl1lmmj/awDYJvkyZtXu37/fvn0Q3wd0Adc30Ox8XWayhFCbPgcLFBsp3iYrwdEDkSTTeYYznroyL8yfuzHAqXbyBaN1PUvkb4FYbkt5XtAsunUMigOG5tUC/TPOFHBs6PbCunFG1MQ==",
+  "URL": "https://choqok.kde.org/",
+  "LICENSE": "GPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1581159976",
+  "PACKAGER": "Antonio Rojas <arojas@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "qt5-networkauth",
+    "qca",
+    "knotifyconfig",
+    "kcmutils",
+    "kemoticons",
+    "kdewebkit",
+    "purpose",
+    "hicolor-icon-theme"
+  ]
+}

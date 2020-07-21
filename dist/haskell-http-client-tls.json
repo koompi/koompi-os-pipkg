@@ -1,0 +1,33 @@
+{
+  "FILENAME": "haskell-http-client-tls-0.3.5.3-259-x86_64.pkg.tar.zst",
+  "NAME": "haskell-http-client-tls",
+  "BASE": "haskell-http-client-tls",
+  "VERSION": "0.3.5.3-259",
+  "DESC": "http-client backend using the connection package and tls library",
+  "CSIZE": "50730",
+  "ISIZE": "204518",
+  "MD5SUM": "41beac382e2c6a475c18fdc8b8752f5d",
+  "SHA256SUM": "0abe7a2cc4296e75ef8f52558ba85f9a16e0c90a81970f3504aaeb1d08412c47",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl757VcACgkQeGxj8zDXy5ISkw//QrBGV0BDCu7kZ+FFQRWzQ2bS8/gnZv/3a3HZta+Sx0qpvZ+ILLer6CgD1U3PCCQh+S+cIELV68KImc3ihMjIYybfK7QrRRv8ioHOtQAI6Fw4bG0zOUsGmBAQ4Q9rjS1u44usswUFE5jsWwZq5f3Y8QMgB8gS1+q3frr+LOBA827+n/DyaM1sIM3uco0JHhXtkm5OWWzez70m5E6a98upjkd0xNX9WqVl8Ie1u0zwcwsEVqvjMs+gl+9+sn/s5XMpBgJeA43WgO48TCYTTS0ka5VG83NNW1PTadMBXeYLbYV6J28J2JE3DoKn4UTsRCZzuKhF1qaCr1omLE6U9Fw8OKJL06iRRH3aKv/0YAYjXH+a/SE31WWbNxHxtxrxtuq6FIY1U2jYYSXsPfg9RXTbtIW2VeZOet/FE1H8xCuIV1lNr7CLlK6FVPXSS+bbOVgnowuywUjcPinEDZZXNbraB8fmOqFu10RFlmB7fJSWiFMCuzcYVLUNFwjNo1JFw/ZsdgwdueNIVRr5BqbCyUI2vqp0QJFq4Ay+ym2/l3+CC/Eq45wFi9ti1y3LZMWqkplhwjiG38KefLzRuaJen2OM6kStwUEYyM+ryuYbx6jiqZvuLT1WJYpLG7rqhsMfGdc1j6FtZlV7Z0Qk0SLNMWV+Ry/rQX5Fob52l9p7og5n59A=",
+  "URL": "https://github.com/snoyberg/http-client",
+  "LICENSE": "MIT",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1593437502",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "ghc-libs",
+    "haskell-case-insensitive",
+    "haskell-connection",
+    "haskell-cryptonite",
+    "haskell-data-default-class",
+    "haskell-http-client",
+    "haskell-http-types",
+    "haskell-memory",
+    "haskell-network",
+    "haskell-network-uri",
+    "haskell-tls"
+  ]
+}

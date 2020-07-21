@@ -1,0 +1,23 @@
+{
+  "FILENAME": "vault-1.4.2-2-x86_64.pkg.tar.zst",
+  "NAME": "vault",
+  "BASE": "vault",
+  "VERSION": "1.4.2-2",
+  "DESC": "A tool for managing secrets",
+  "CSIZE": "24460658",
+  "ISIZE": "115352611",
+  "MD5SUM": "2109d9d96bc2b69f2d7ebe83cd8841df",
+  "SHA256SUM": "e394fe1e08b5ab24cc32ef62905d86b1f2d74bbec3e70c107a0da93a7f41b4fb",
+  "PGPSIG": "iQJLBAABCgA1FiEEktnGzemaICTWkKdu50JoO6CMsv8FAl8B36UXHGZveGJvcm9uQGFyY2hsaW51eC5vcmcACgkQ50JoO6CMsv91lhAAgicOXCOfsUWOZopjB8koq4C4XD6LKschXatSCmZ7y9WnGa6qtX1V9tfA9NVN0E5IlZ3nx1upjkJX0+utE61Ropr+wzu5C2ercM774NNb4iLxCc1jEoQ35UTnfjUt7IvbQ/It9t6l15toH22ENxG4xKHxmolW6H9QgOlYKH9eHO1UoXDrcpRscdvPPuotAtn2svfjpgPfaUqNgXrnHZO3WEas44eMBPc54HTA8Irifx10dYqzMbBkEDYKG+acidlejXf0LqFnx9duWwRa7DPxJxffRbdygZg8mAf9S7BVMhmCZwM4UMg/3q3ZPTomThmRidsQE+Ny543uB5K3J86hojLYy4BqHC8y3bmJJlJ5STzAGNTWzMIOoLIaeGXSdN5zZfY5Ups3bH/Phtr2/T/ikqOIkgmdn2pupWVyulVDNFP7pxG+cLQOjfAbmoZJOhPsWlDfphEyY9ixNbx5ygZIO1+nuFteQsZgE4umUmk8em2VEGQIu/Dy7wv8WdAwk3iLZXSEYQRusXTR0Sy2fv8DpE85CSYTRc9bXE7FW40Usf+WpR8G59lVWjXguDHXw8TBEV2cEh+/SLIc6fXQF/mdob1A9TmmxP9ZNDhTOT8fIqy77Z2rTVaWGJhcrtuluuIGGHqxGv++i5vZYKW2grGNJ8QHZM1Abve8TceGYpXXQhI=",
+  "URL": "https://vaultproject.io/",
+  "LICENSE": "MPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1593957883",
+  "PACKAGER": "Morten Linderud <foxboron@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "glibc"
+  ]
+}

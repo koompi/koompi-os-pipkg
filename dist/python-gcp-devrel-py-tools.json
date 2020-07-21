@@ -1,0 +1,27 @@
+{
+  "FILENAME": "python-gcp-devrel-py-tools-0.0.16-1-any.pkg.tar.zst",
+  "NAME": "python-gcp-devrel-py-tools",
+  "BASE": "python-gcp-devrel-py-tools",
+  "VERSION": "0.0.16-1",
+  "DESC": "Tools for Cloud Platform Python libraries and samples",
+  "CSIZE": "28053",
+  "ISIZE": "107400",
+  "MD5SUM": "848255131aea6e1c43698fc065694d46",
+  "SHA256SUM": "6ab309b20ec5513eecfc9ae463ed75f2c4f6501847e4bc94b883d46bb974d4f8",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl6fnpAACgkQeGxj8zDXy5LP7g//f26xfutBpP7OD4zcG9QBHbA5WQX0sQngO3V8QvNju4xpCQmpKhhweBSxrXT0M8/T11tDyHHnIrIzHUBM+AOUZ8glzXEbtl9s9kW64fNJ6dybopbDol2bFRLd/+fwMUzod0szRbp8r1olvZs+YxcuYTq//tbRYaTwxU2dohzERzrXMbeJTBCNvnfq3UW7qEHsyWEtllYj5+/W6kF+GiIAQiVduZHOHMIYHSSJzZNTPXp2hsP/L+3ucfOdrCb/ectRh+aCX8jW/zstGb+l6NgTB0JGG2STnTB8Wz1fFE/qgcPNyJzNnzIVRtSqseEXIAR9oHpiBV+8D9AEc95R7+G/CjH9YlF3ayumEMNG5DsdnLbxxli73/jmPsP6MPAGF4X0JhZfefXkAF3fFPy1Mivs3DT7TdfdfMkftT7muzepBJVbvu7TNPjmoelLS012pPOmL10+19tiOtHqlzxJZdoEdGkY/aBO+1cWt2Dpjnnb+QIQoHFuD4ZEF0hxhvHfJ+x1YIAcIF3iHMwQXWLwGk7vjJWxXjtL7mDfsdFy5MYl2QNmua+f1vd5ZYJ9umQlg3b5gZ6URma+tA47vSSbqPvuUcXWHoo2pVtbyv7kbASXjnm0q6A0u6mN38DtUoclMOtAz1oxdBMp4Xxp0ZNGbjyf8vw6XzNR7eKoZ99JtTp1wEc=",
+  "URL": "https://github.com/GoogleCloudPlatform/python-repo-tools",
+  "LICENSE": "Apache",
+  "ARCH": "any",
+  "BUILDDATE": "1587519063",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "python-setuptools",
+    "python-requests",
+    "python-retrying",
+    "python-packaging",
+    "python-pylint"
+  ]
+}

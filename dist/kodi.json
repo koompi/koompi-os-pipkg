@@ -1,0 +1,30 @@
+{
+  "FILENAME": "kodi-18.7.1-4-x86_64.pkg.tar.zst",
+  "NAME": "kodi",
+  "BASE": "kodi",
+  "VERSION": "18.7.1-4",
+  "DESC": "A software media player and entertainment hub for digital media",
+  "CSIZE": "20179467",
+  "ISIZE": "36989248",
+  "MD5SUM": "9037f15111ca15d76231ab74c0419eaf",
+  "SHA256SUM": "cf8ac5a70d3d2b1234516c1c806923fc0ee32238a31fddd7b286d5dfc2b2b795",
+  "PGPSIG": "iQIzBAABCAAdFiEE2yJ3vNUAqjglYQvd2zIzknlsoGcFAl8EZzAACgkQ2zIzknlsoGeJ6w/8DGoVcqCRR8eHksAsw+bixePhJU7TB+ZYMrR1xCsTXbJWTSFY61+jx53EZtV9T+w7L8VNoEAjALGCZiyf5fjPmG/YVB5nS1Gz6hZEe8DRwly7Ram30tXQCjUJR+Y/fKuReEymOwXuJ93RtiZ55dyYN+S5DVX4oZVo8iyNUpsQ2BWJXY8bn1dDP535cYY88PBkPRnxFwXM5ShpYPN+Ecq4S9x6EqfeO52fxwn/A9x1xMJSaq8n3MA3mZEEI93H664wU2b1/1Fwq7J/i2a3vsdUbR4/QAamjdroa9hExmW7m22Db+61PO1XynhtLd2j0hwnkCFHYXkmMAfo7EPqvGLHtxwU6KMMMlWUniS0JHNRlcg/MhNHbe/FBjjgwEXSX94eEub9BbBm/yaDlHEz1LjkiCn8LHPtyamT/YUPMfgV2pBNA4VnXLe0oVwDEOtLxzk5niunUmfvbY34xJQiDPTy4J+RYsQAfDx7OGy82/E+61kDw8070zziFVtKAQ7sOdZcC48I/A+px8hB66qHN5hY/5+4Zcsi42EW9PAbJiHBl/nwdWRRj3yL+2vSPGgugEEL607NnzeIGWHfjY/aSThU35yy+m3W4SHTCvYR9y2ZAVcqnmRcI9BgsjAI3LUqWK7+TK/HZll2Coi+R3RFKhkXQbqUoJZnKZat0pbEjZGklak=",
+  "URL": "https://kodi.tv",
+  "LICENSE": "GPL2",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1594118601",
+  "PACKAGER": "BlackEagle <ike.devolder@gmail.com>",
+  "PROVIDES": [
+    "xbmc"
+  ],
+  "DEPENDS": [
+    "desktop-file-utils",
+    "hicolor-icon-theme",
+    "mesa",
+    "python2-pycryptodomex",
+    "python2-pillow6",
+    "python2-simplejson",
+    "xorg-xdpyinfo",
+    "KODI-BIN"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "FILENAME": "knotifyconfig-5.72.0-1-x86_64.pkg.tar.zst",
+  "NAME": "knotifyconfig",
+  "BASE": "knotifyconfig",
+  "VERSION": "5.72.0-1",
+  "DESC": "Configuration system for KNotify",
+  "CSIZE": "211953",
+  "ISIZE": "549838",
+  "MD5SUM": "1032c1d02ab3d67a8aea180e3daaf3d8",
+  "SHA256SUM": "4b384475a7a4016b88c834b3977772f979482ce6740ef7127c596bf0f15969f8",
+  "PGPSIG": "iQEzBAABCAAdFiEEFRnVq6Zb9vwrc8dWek52CV2KUuQFAl8JYdwACgkQek52CV2KUuRi/gf9FJkocBPXpBV5vs1+AyOtjqprNf1uoaH/VojQ5jWT7IWJB7WkZBH/iLbKWrkqh+MljOCB4G7yuTMvez/xkRdBGXQRfCl3Mj/frLxfCr1CR3Y7966VojAU/lCxXsI84ixHHmNctlrnPLkhDelE8Oz5YA7Z6WATUVMX/3ePlbBPF/C+Snrc0E38VGqL63yrgR0mmEjZXMbSa1wViiYE8lbpGxJ7fmGmCQUBz0ALNLmiDAaGHV8CKnpx5s6kQudY1WxwMZGGO1ErLIdWqhzAeWbUwWZWSqAQKj4EWi+7FhYM7UetJHcPlVonIYinEdVIhikK3aetaGgyhmDAWP0eziynIA==",
+  "URL": "https://community.kde.org/Frameworks",
+  "LICENSE": "LGPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1594203515",
+  "PACKAGER": "Antonio Rojas <arojas@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "kio"
+  ]
+}

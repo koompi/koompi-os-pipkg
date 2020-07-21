@@ -1,0 +1,24 @@
+{
+  "FILENAME": "s3cmd-2.1.0-1-any.pkg.tar.zst",
+  "NAME": "s3cmd",
+  "BASE": "s3cmd",
+  "VERSION": "2.1.0-1",
+  "DESC": "A command line client for Amazon S3",
+  "CSIZE": "177298",
+  "ISIZE": "677433",
+  "MD5SUM": "60d263f4dd619718efc7724a17917039",
+  "SHA256SUM": "70481b898fee8b1ca7343c0d5a065a58d062226822635f38fd60dbd0bd3f58a7",
+  "PGPSIG": "iQIzBAABCAAdFiEEj8FaBklQqZ3RvRTdOeS4d+YuuRUFAl6ZTIgACgkQOeS4d+YuuRXjeQ//X8XJJ9rdp+y0BDmcOtngT6WnyXJ/uHxskM90/2gp5SLTb2OPhi1y8QMh14uc0/A4+TNrotxUO3FVuXN/qQbfmi8SSY9u9hY7AIiA3mHzn7hfj5XHrx0kSYpNVLpeyuuJL2+RbCTx0o+HEKl4O17rbaCj53Hj7Fosg/4xVAM062agUPUB53ZKNEpE2iUtNK8qubmxkTKU4ffEMfc+H78rmxPbxFBicNHJtBT816mMqjZ/NXrBbXZgvYC6LcoyUJjxJk8SP1ZVFvc0K9BsFW6aoenE8ijvgm41jr9CqjJ16xGbpAi0uT4C39Uz/cBAkT6RStcpLHsi27OcLDwtYOBXfITPmqsCyfnXKnHhrfMdAuBdVeJHt0R1Pdfx8faNsFfXtg5m/dWkP0a5OUa9XhU8dEteHRu5EbHllAer/o2XnwXTtM/CnLeOdUGDBBv2tv53eJl+rrDsAsOnPwQDuuZYGdBkjs11jFJnq6fIP33wLl09hYE7riITIUit89yey8H8JD354POCinOSwnLz0AoQ8rcBMeY/1JadkSQ5F9x2cDodNR8xHrgWvzIBY2DLWA5W2LWCgpCe1yiozEqZqWBUiTAtOecYFlo8x6FEeEcnuva1ae2QVYU3+xJE3cGKlVtZiaU/GDupg/btsKwBtL/7odEd+8/12uJkf9iOcQuahF4=",
+  "URL": "http://s3tools.org/s3cmd",
+  "LICENSE": "GPL",
+  "ARCH": "any",
+  "BUILDDATE": "1587104870",
+  "PACKAGER": "Sven-Hendrik Haase <svenstaro@gmail.com>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "python",
+    "python-dateutil"
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "FILENAME": "texinfo-6.7-3-x86_64.pkg.tar.zst",
+  "NAME": "texinfo",
+  "BASE": "texinfo",
+  "VERSION": "6.7-3",
+  "DESC": "GNU documentation system for on-line information and printed output",
+  "CSIZE": "1431131",
+  "ISIZE": "8938183",
+  "MD5SUM": "499d285aef41938813362e59338eb707",
+  "SHA256SUM": "2359bb9a3e830adee771a9664abd5645e0b9315c217e1bc2438aa6055ec46e39",
+  "PGPSIG": "iQEzBAABCAAdFiEErcih/MFeAdRTEEGelGV6sg8qCSsFAl6laKEACgkQlGV6sg8qCSsl6Qf5AfmzVy2udNheJlWi7DdH1wcJKalNy8sap4DB13v51a5JggD6uEO++zc9J2pq52iYCEizm2vUs5AR2RlHGUEk2ztlOH0x4teY8D87s1Vl2y7mplQUl/guVEkMI3h5uWrIdWc3n/HEVdCeUDJFJ/IU7olTfbWN4+kFSIPX1g5RqipNYpuDYHQ3hjWRxE2ch8lco4g1IC52s7zfjVH9MtOe8djURlruj4QsxAYl/EY6w2P6OI6m31yrEs8x9FAN/0E7YKKpC7M/W/wGEuLSmPKX38a/VpyW13CoOMjm28bYG2x3KSbm4kA5tmGjvMPPLu3tZHR8ehevzsPYxgMjFzFa5w==",
+  "URL": "https://www.gnu.org/software/texinfo/",
+  "LICENSE": "GPL3",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1587898370",
+  "PACKAGER": "Andreas Radke <andyrtr@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "ncurses",
+    "gzip",
+    "perl",
+    "sh"
+  ]
+}

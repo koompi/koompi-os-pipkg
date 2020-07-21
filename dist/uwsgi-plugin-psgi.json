@@ -1,0 +1,24 @@
+{
+  "FILENAME": "uwsgi-plugin-psgi-2.0.19.1-2-x86_64.pkg.tar.zst",
+  "NAME": "uwsgi-plugin-psgi",
+  "BASE": "uwsgi",
+  "VERSION": "2.0.19.1-2",
+  "DESC": "Perl psgi plugin",
+  "CSIZE": "38115",
+  "ISIZE": "109424",
+  "MD5SUM": "bd6e00bbdd0b0be1fb3090b90d5b1ebe",
+  "SHA256SUM": "96ed12320db405a8759614fb70b05d05f2a034bc487c3fb799864c0d636750cb",
+  "PGPSIG": "iQEzBAABCAAdFiEEhs/8qRjPOvRxR1iAUeixSKmZnDQFAl7viH8ACgkQUeixSKmZnDTtBgf9EOv7f9PnL0m3GI9FQjrIZgA0TZ0wPrBuNk761FiZVexonMju5goynRMNah6BJkXjTAkiXHDvXiOVpm2ZLvrB/qzNLtD/bzJMTkwOMcwSh2Ix1zVE+8DpmPVU10DQ90zqnwq5MNYNwLOqODJd2WuNtKS8bbOJdEfSE+xqZLkQRXl29tVLbykPm2aWu2zxDClJ4R9+H1HzFjXVde459ScEG7c6fPOvoWv4M5LxRFPXxbMahkL8IY4Df+ac2zYRncjw1Gc9WPHW+ak64/+Hz/rAuuOM5kig8jTvcor5qW1Sp8uwTYOaV9bTgU8dyiKnjLdAndaOqe6AaW+vDhZNJvmFug==",
+  "URL": "http://projects.unbit.it/uwsgi",
+  "LICENSE": "GPL2",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1592756215",
+  "PACKAGER": "Evangelos Foutras <foutrelis@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "uwsgi",
+    "perl"
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "FILENAME": "flint-2.6.0-1-x86_64.pkg.tar.zst",
+  "NAME": "flint",
+  "BASE": "flint",
+  "VERSION": "2.6.0-1",
+  "DESC": "A C library for doing number theory",
+  "CSIZE": "2827877",
+  "ISIZE": "9751606",
+  "MD5SUM": "8b5e466d2e787f0d480771e969b29c47",
+  "SHA256SUM": "22597996b26cff68d8ec7b09c470677cfac4d4bc1e532c3352a998de118704d9",
+  "PGPSIG": "iQEzBAABCAAdFiEEFRnVq6Zb9vwrc8dWek52CV2KUuQFAl7ah2sACgkQek52CV2KUuRB1gf/apztohMI84SSKxDGhbcBM90cToyMqMqRaKNB+UmGtaI84u/43EE46JV/+ScIJC0fBfzPDDfYwkvrV4YgewNezE6leugIYr6ovZ4bTsrAMMfYLyhZ3Ks2RVf39e7BLe6CyUppo0IkvKKZdREyxzqdBzP49Kw9Adv7VoZG8KnuZLLWa1OYeYK50THsfsPn1QsD0K0zWGTsRViAKtqeu4/NQy5qexFKcgzvd9bmN4sjF2blI8Nm3FV7iix5I6VPwRZGUf6K/gufspmsKTLcX+a/AQqaD6Bfr14IwP/4XqI9BGUlo8ODkg7LkadeBbRVGfBb9QEAkWnRVsc6m7CqnsPN8w==",
+  "URL": "http://www.flintlib.org",
+  "LICENSE": "GPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1591379632",
+  "PACKAGER": "Antonio Rojas <arojas@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "mpfr",
+    "ntl"
+  ]
+}

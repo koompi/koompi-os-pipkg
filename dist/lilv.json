@@ -1,0 +1,26 @@
+{
+  "FILENAME": "lilv-0.24.8-2-x86_64.pkg.tar.zst",
+  "NAME": "lilv",
+  "BASE": "lilv",
+  "VERSION": "0.24.8-2",
+  "DESC": "A C library interface to the LV2 plug-in standard",
+  "CSIZE": "82821",
+  "ISIZE": "319823",
+  "MD5SUM": "f9f9f08339cc3f209fd4b7e136fd3e07",
+  "SHA256SUM": "7dd354b1e388a70c2b5c8b084e33115c5a7a27d8683c8094cd4c517450c591bd",
+  "PGPSIG": "iHUEABYIAB0WIQTH54SUZv4jWDQ1iDdyWHNLQcMVSQUCXvCudQAKCRByWHNLQcMVSaMrAPwP4TBJjgwuFpIRnHxKvX5ctsBcBRUY2ubTOD1SY6A1qwD/SnDVYGrd5kPqRxT8TzwNhpV8BPLzYdqE0x3sh2BY4QE=",
+  "URL": "https://drobilla.net/software/lilv/",
+  "LICENSE": "custom:ISC",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1592831316",
+  "PACKAGER": "David Runge <dvzrv@archlinux.org>",
+  "PROVIDES": [
+    "liblilv-0.so=0-64"
+  ],
+  "DEPENDS": [
+    "glibc",
+    "libserd-0.so=0-64",
+    "libsord-0.so=0-64",
+    "libsratom-0.so=0-64"
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "FILENAME": "mc-4.8.24-2-x86_64.pkg.tar.zst",
+  "NAME": "mc",
+  "BASE": "mc",
+  "VERSION": "4.8.24-2",
+  "DESC": "A file manager that emulates Norton Commander",
+  "CSIZE": "1910595",
+  "ISIZE": "7315480",
+  "MD5SUM": "677dae542d840759f3ebd7f3b97ae8dd",
+  "SHA256SUM": "b589d7ed246d40893d5d9dc51da9e1fc7cee77826cf9f674f4333745aface11b",
+  "PGPSIG": "iQEzBAABCAAdFiEEzgvecadZqH8j8PfYth284QkBwWMFAl5v8FYACgkQth284QkBwWMBgwf/RdOXzlPnKKd0C/anl4WJkqiY5dBbcqFjZrOQ2jTOgdC0dlbkw3wkdVH3b4ljYoWTgFUxxsYqOqyll0nVdtKUGGz03sMEDFBzcTk+EsDkuTYQ7dGHEmElK0ZOkpAu37CsJjLnwHVzvF7SurynWbW5OWTtTEJlz9cyZiBjF14Rzjn+E5RLJVRsaAdd15K2hfqK3BGsbCOh0kZZjMDGglgmir+Mwz4zb49EwRRJk7BlV6x3ncU5Zsu+Rl9NlbNSF2UvPpx7fYJYZzrfQNmEV20nz8isbscsRmC7tovJSTZCOlArkQV55oHHWMt5MU4kMpvf6l94z7WKROOnYnA/lzLg5A==",
+  "URL": "https://midnight-commander.org/",
+  "LICENSE": "GPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1584394186",
+  "PACKAGER": "Balló György <ballogyor+arch@gmail.com>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "e2fsprogs",
+    "glib2",
+    "gpm",
+    "libssh2",
+    "slang"
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "FILENAME": "exiv2-0.27.2-2-x86_64.pkg.tar.zst",
+  "NAME": "exiv2",
+  "BASE": "exiv2",
+  "VERSION": "0.27.2-2",
+  "DESC": "Exif, Iptc and XMP metadata manipulation library and tools",
+  "CSIZE": "1930781",
+  "ISIZE": "8817060",
+  "MD5SUM": "e4b814d52f5e410b15f8e24d91a6ecb3",
+  "SHA256SUM": "49591abb16265ff661e8ef00483cc37beb4a589027f2fae6529a2ed841dc57d6",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl7Dj/sACgkQeGxj8zDXy5KQSBAAs3bNJCHrnV2Xe/nZwb67DWyLYjeInekcMnAKYZmDt+eFctT/EWohCfw0rEoI7Dcr9YwjXV4nfLlGWARaEgHB/QR+9EyiovLHnDVVvtrEEmPVE5D6VtN1KhGDPgwY3bnLZd+Sllmf0jOG5okJq12PLZL2dXAuyUC2KLRzbDUqZfRKciOFFwRYOGP1qn0w3uVWqMNTt6P8skuoeygaWIb0NJZr7BSgr9HgvMi0JcF6QgNcjhDitN8qCuqiTCeqE6RglyACFHn8EwpJqrmUO34Z7jZYZpdd1vYRP1/pJ5PzsBgMoI97Y6odiCBqTQ7kGV1AG9gWp9Ov2NKibzgrJ9uqgBCTvIrN/eaMRYb1qShapbfHN1DBN73YvD7v2i6yWG0csm1DgoCwYglmHftlGfwSWe7BVmaOb3Tt4rRxZs4KjJxcWyhBWIczOrB7nqY2GbMmKSXFLp9P/BT1XyqUmpkvVeCdXYowr8KztrV19HLH1TIrb/jXLJq91j3X5Qa6ct9Byc0YTJx9c8owd42VwoUwG/ebe4CH6gVbP5/PpB7xQeJD/MZd3FgEGT/Nf3xVOVKZMyTWiryXe+ohf0KgxlcUM96ehEHX3OVhysO/sVcYdbb74z09ybkpS1NG5fbdsX4ci2jO0yX0lQa65wKDryxjA6YsekxzI9Iy9CcPeX8yTl8=",
+  "URL": "https://exiv2.org",
+  "LICENSE": "GPL2",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1589874608",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "gcc-libs",
+    "zlib",
+    "expat"
+  ]
+}

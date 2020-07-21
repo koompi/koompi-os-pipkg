@@ -1,0 +1,23 @@
+{
+  "FILENAME": "python-beaker-1.11.0-4-any.pkg.tar.zst",
+  "NAME": "python-beaker",
+  "BASE": "python-beaker",
+  "VERSION": "1.11.0-4",
+  "DESC": "Caching and sessions WSGI middleware for use with web applications and stand-alone Python scripts and applications",
+  "CSIZE": "93709",
+  "ISIZE": "494149",
+  "MD5SUM": "0acf252831c3d9f09172dca073265442",
+  "SHA256SUM": "4c533ef309e0d88e1374bba16b40accc9dba4df99020c359d5ee51aa9f2c5a29",
+  "PGPSIG": "iQEzBAABCAAdFiEE5JnHn1PJalTlcv7hwGCGM3xQdz4FAl6662gACgkQwGCGM3xQdz4r5wgAnBzYdEtUMycjHI+pKVZDCsQ22PdoEo87ULylpNgELRWKJSt1f8BpEHJtsnfX0H71YIeH+od4A3JKWRjRIQHYZaPGD8oeSupAlGnviApDd2vqP1Q8fO/OLmidOPb6iUUuFpehfpe/NvCo48tKxdF21WBPKF4VV0ETscgY64kq0RaHcstd/maIvEtZtLQHd8DQaKWCWMsxk1XskojgXn/WwPEoz52cdfdI44W6V9CX4UhwrgoME8hwzC7lHhkQfZuF0iFTjSY1sEFY8TNJiaw9cjse8vzbdBg388iZ85jlORl0H93BTjMQ5fofgyWPWqISMR2o1+N1ONEjFEU3ESKViw==",
+  "URL": "http://beaker.groovie.org/",
+  "LICENSE": "custom",
+  "ARCH": "any",
+  "BUILDDATE": "1589307791",
+  "PACKAGER": "Jelle van der Waa <jelle@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "python"
+  ]
+}

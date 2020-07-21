@@ -1,0 +1,23 @@
+{
+  "FILENAME": "firefox-i18n-pt-pt-78.0.2-1-any.pkg.tar.zst",
+  "NAME": "firefox-i18n-pt-pt",
+  "BASE": "firefox-i18n",
+  "VERSION": "78.0.2-1",
+  "DESC": "Portuguese (Portugal) language pack for Firefox",
+  "CSIZE": "500912",
+  "ISIZE": "565637",
+  "MD5SUM": "20498ed41bbea5dd8156ecb176342153",
+  "SHA256SUM": "b715b4e4fd63bc0aacb33524bc73226458c192fbca3a0d921183135311d82c43",
+  "PGPSIG": "iIsEABYIADMWIQQGaHodnU+rCLUP2Ss7lKgOUKR3xwUCXwelqhUcaGVmdGlnQGFyY2hsaW51eC5vcmcACgkQO5SoDlCkd8cFMgD/Z3zOkhTwpl1Ya2lt7jcGLXinsQt6iDrq2j2iBZ11MvUA/RjLbi+pNJOsF7j7QZTlYrtaoejrUygs7RYaOl2TA+8L",
+  "URL": "https://www.mozilla.org/firefox/",
+  "LICENSE": "MPL",
+  "ARCH": "any",
+  "BUILDDATE": "1594311501",
+  "PACKAGER": "Jan Alexander Steffens (heftig) <heftig@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "firefox>=78.0.2"
+  ]
+}

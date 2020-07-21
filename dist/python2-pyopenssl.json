@@ -1,0 +1,26 @@
+{
+  "FILENAME": "python2-pyopenssl-19.1.0-2-any.pkg.tar.zst",
+  "NAME": "python2-pyopenssl",
+  "BASE": "pyopenssl",
+  "VERSION": "19.1.0-2",
+  "DESC": "Python3 wrapper module around the OpenSSL library",
+  "CSIZE": "80444",
+  "ISIZE": "608343",
+  "MD5SUM": "83dedcd3560f55ef23611de7fa65dab8",
+  "SHA256SUM": "46f2218052ed6278e3ddca49221f90ac1098fd4b2b918a469fa33577f899b86e",
+  "PGPSIG": "iQEzBAABCAAdFiEEhs/8qRjPOvRxR1iAUeixSKmZnDQFAl6/vQ8ACgkQUeixSKmZnDQ7pgf/T8Mb0zdQSQBSZiM9yV9WnyS7yh1PT23wdvY9fwsGzzbjisEfbWyo4G6RaL8kA1yY5ZIHEwEUvI+9IcGj0hKs+bmSassZppG1E+DZTzA6kb3nJvlgOOWKOuGpYUy1c/z9PomZ9sM/BHM8+viKAAih6Yj3LykO009p7nAMTB1koYesFfcU36sMW21jp1NJN4XdNe1nb62pH4F3QChSrFYdMHciDYv05mO27T/IdKTqfpIOeF97cGzPCDwwmrhRHk/THKr0WsZZiHmdLsvePi57yVO+AntZrr153Spa9KnKQV+1a/+zgD7Gb9jgG4Laz5aZCryk/+AYBNir+fp7TVDnNA==",
+  "URL": "https://github.com/pyca/pyopenssl",
+  "LICENSE": "Apache",
+  "ARCH": "any",
+  "BUILDDATE": "1589624007",
+  "PACKAGER": "Evangelos Foutras <evangelos@foutrelis.com>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "openssl",
+    "python2",
+    "python2-six",
+    "python2-cryptography"
+  ]
+}

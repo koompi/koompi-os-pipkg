@@ -1,0 +1,24 @@
+{
+  "FILENAME": "python-requests-file-1.4.3-5-any.pkg.tar.xz",
+  "NAME": "python-requests-file",
+  "BASE": "python-requests-file",
+  "VERSION": "1.4.3-5",
+  "DESC": "File transport adapter for Requests",
+  "CSIZE": "6368",
+  "ISIZE": "10416",
+  "MD5SUM": "ea88e740b1a788cc478cc36df21a84ba",
+  "SHA256SUM": "9560f6e800996139725c3688543465c87b00c7e9e8af208405f0a7b07804f0a5",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl28MkUACgkQeGxj8zDXy5I3pRAAulQsfdewGgIVtXb9YrGy4FQoOUBo2J0lfPdWrIWk95vK9O8EzkNBUpQV1wdokXDIylL/mxDXLotSYBGO3LicJeKsdmVNhF5sqiZtSlF660qGXZN1SxpSAHmQJADtc1bHZ77Kd5mOp17jcI/9Br5n1fIRBXZSeI7cL1Vu7Ot6ht3JhJhQCKmTaLAJdx3Gd0TcIxlId5M5BEo9+haPKxzN5tkN3NhwEQa2UsXOfzoCmBb7qQviI9SUxkpb5Pig57tZt8rbH5b6uvt5DGpNpLl08u+no9oIqZJF+LA9kbh/rERHl16RsjBxTXp7tLzE5oXTIulVqp3Vsc1svEABchb49o78UZJz9C3hNesbP84esg2mtCfOPkD2p5o2w47qzs0EaTVuVjAPAvVYnM/Jmmfd/05xPxI4Io3Fvx/OIVzZC3RbnPjXkD86Cr9UnGToTioxTkCFaS9allEDBdBPLluqnX694SzBVUf5PHcbtIxTBLou/Fd0NB7ninAeGMO3runmw3ZoQLJgEdXU+5oTSrgRwZp4LpqNA97MCwdbG/XnS7KeC5mbtnwiwX3+NDSQq6TyVcUNXdrqYJM/4oJyOdsWIUHfvqXxU6Fwdx0pKvw9N7HWmC8anvShyHCk1GDPyEH2GN/gy9je4cdS3NaZax9TY1wdaPFeRW6tkEsBe/AiNrE=",
+  "URL": "https://github.com/dashea/requests-file",
+  "LICENSE": "Apache",
+  "ARCH": "any",
+  "BUILDDATE": "1572614697",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "python-six",
+    "python-requests"
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "FILENAME": "polkit-qt5-0.113.0-2-x86_64.pkg.tar.zst",
+  "NAME": "polkit-qt5",
+  "BASE": "polkit-qt",
+  "VERSION": "0.113.0-2",
+  "DESC": "A library that allows developers to access PolicyKit API with a nice Qt-style API",
+  "CSIZE": "74375",
+  "ISIZE": "301436",
+  "MD5SUM": "4f50f9bbec66f5ee3ccdbf115c7edfac",
+  "SHA256SUM": "7c612369efde5e92f739b2dc373ef1a0a8690c1f860f6e7833393297a2de5b94",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl7DlPkACgkQeGxj8zDXy5LdKw//SsTXRO6ttg2sP2a0jcsvMVC5yRcX3M5GCwp1pBtOQi4EOG/xiypmUkh30LacfhHb3R39pZVVJ681fuJocxo6GYHtxMpHDomCdOolE5rd20z5kwUOgLaN1kTKndQY2ARIlOJU5lPJvgwHx5yu8am/pF9W9STiktMHONo93sUSlNDO3rera3BqrP7qcdLBiOvBc9EWUBQBV9SSuqqffMzR2n4AG3gREFASpfqAeJleHn9VWzCsegRrHw2FPkJLnfWFeii4qr4IFmm6Mn6bP8ATIvYgS3KaJoFEvuqs663ghJdr4NuIQX4w5w//eABqG3+fbCOtej+SZgc2U3FcDe1LJ+46vfXv425Q6+4Fq8YXfVPhp7gZ5Iw1kCxwRbAYJJK4dTHL87QVtJpzSYLHp9gO/97RQO69N8Z9hNvlUuMX+mJpzrHuoi4HhfYeHKsnFEB4o24/eKlIaKJUAfOHcV9Cxilzq+6QZbGK3lO4w4KrACqlW2OHPuktuMlWqbBDW5Ja0od+L3gKTxt4SkQF/Kc5T5pYvuT1h7SVEd5dhFuXKq1fqXLc4yAiqsEnhvmt85lnq5Hp4rX0m3uXtJ02nQrIhnhtDeitm4ef+IUtaIep61TvZXce4UzFDG1l4vrv+p2vMTlxNT3Ok2cS7++GOgXDq8BqoM71eNwEpP52NgeShv8=",
+  "URL": "https://www.kde.org/",
+  "LICENSE": "LGPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1589875929",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "polkit",
+    "qt5-base"
+  ]
+}

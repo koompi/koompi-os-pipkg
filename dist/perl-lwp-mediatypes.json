@@ -1,0 +1,23 @@
+{
+  "FILENAME": "perl-lwp-mediatypes-6.02-8-any.pkg.tar.zst",
+  "NAME": "perl-lwp-mediatypes",
+  "BASE": "perl-lwp-mediatypes",
+  "VERSION": "6.02-8",
+  "DESC": "Guess the media type of a file or a URL",
+  "CSIZE": "20107",
+  "ISIZE": "58689",
+  "MD5SUM": "e9b26273f3cf147065c2bde08501aedf",
+  "SHA256SUM": "4df844bdce63ba79a15ac2e2c18a6273e49814e4eae40f5e2463bdd3590343ef",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl7vNfQACgkQeGxj8zDXy5LTPBAAkcMllVf8qWrXw8dg3nyLsFf1Cn++iLHIurhBOL3/Eqbg/RGJ3dPHowXUaPLAMRGf9iFpX+U0FLreap1Vu9rZmu3d4phkc/twpnKcbfFiU7iQ2RM0fLPw+SDuxHmFCNQNsrDJnRSdLQ3nBR//6+fufIkADzfkbL0cup//W8xGz2tmUw2by7VcVprExu1vySxN40+NF2R7Yiug5BciAVL+7BxCk7Eda/XYAR2+BKzP0km/qYbNeZqY8IUSme7tI6kz9vRlAowhQDu79SupjtwMLQjlonw0FTz6xVRdudHriLRfjZ28DBzTGR4H7aHkLiLNakAtzbCSIx2/FDM2d4PQlRoeO6HazNUHCnkA7bM6qEBRAyREsTLC92y4lBg0NeKbgT5xzfbeZ0WcxLd47IPzce2MjlSVsfMAZjKFacUt+0Mm3Zh77uB7yR7a+SKtbAFX7k8Od6/F1C4+wZ6HlGO/u5Ksx+qnnhHs5xIRPstP95gFcQW3Dm8APubHY+qGIWf9vzjjzqsfHCOsh7nYDXFJbBCAo0BbScFv/9yRgMMWqJnUEjFDLbUoKkcMF94xFLWC9YBt+32uSCMvZeEnv28q98XWA/0As0AnRRZ+0BRYXz2HR6V8gjUZTVqgc10p+c1IpaSJ295wCk49kbaiBghp9ewlq6ts3DThE+wxUhj/8eg=",
+  "URL": "https://metacpan.org/release/LWP-MediaTypes",
+  "LICENSE": "PerlArtistic",
+  "ARCH": "any",
+  "BUILDDATE": "1592735205",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "perl"
+  ]
+}

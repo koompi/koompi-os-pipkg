@@ -1,0 +1,27 @@
+{
+  "FILENAME": "perl-test-output-1.031-7-any.pkg.tar.zst",
+  "NAME": "perl-test-output",
+  "BASE": "perl-test-output",
+  "VERSION": "1.031-7",
+  "DESC": "Utilities to test STDOUT and STDERR messages",
+  "CSIZE": "10961",
+  "ISIZE": "26447",
+  "MD5SUM": "1435cba845c6aafc92e1e02aeaf57f54",
+  "SHA256SUM": "84b0b2692415ea62062b5f2146a9ae8026e034e8c4654b39ada4b81611ffed79",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl7vU1sACgkQeGxj8zDXy5LGNhAAr4IpD/W3P6XZxv4JDOxrZqdcSUJBfwZW7MFjtrD0aDyiDu8CYUng2dTA5SL48m869GeVXAA0iikhORZWqVTbHKUrHIF6hMPr1Pm4HgE6f2N1zwswNvaoWnQXEtG5BkIHaPfCRvXqfQLt6TmvHuzcLVvuSggyPXeTEDur3xreP5uBKezeTGhos01wiNwlcj1Czaue8DsHhN8gss8IjFjcRorVBxMBKSYUImeqQRJL8xNztul+RF8tWkfDjMyjGhMMOt6k9yKQV+c2RbyF54Lh/Es8/VdpaI4QN3yJhOeKkmNGiPnedt3G81dCw/gCmNRT4G16FA5i42tqPk+FMyksqAa+J20bUyvbjyRI8wYi8+FDyxToH6JTmwazxPINTUbjfpyPJ94f+ZA02ZztWbah4f8YGbjLRTSMOgEQ7GV7Z0H2/GE/f3nRSvBz9Z0liE3IbMHx2JZjbuEj0NgVt/XzS7Tq2ntJfQRRyw0bCYG3vTvK0lWNgs+f7/p+rrJRRT7cnAHWf24LPwc6EX/W85ZQl1v0NmYsvDyX2LskJUYPeQGTW1KWwOMEAoq6JZTKlrz75kXtnH7vQdGA7GTSxcAbpBbwlIPQ6OK9+vnHSXutvOXvyWQhP9gx1Tl+STxSp4Ohkl4L2eRlxlHwOroZe2x4IYZVwzncjvJ8sUYwwF5xxmc=",
+  "URL": "https://search.cpan.org/dist/Test-Output",
+  "LICENSE": "GPL",
+  "ARCH": "any",
+  "BUILDDATE": "1592742723",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "perl-sub-exporter",
+    "perl-test-simple",
+    "perl-test-pod",
+    "perl-test-pod-coverage",
+    "perl-capture-tiny"
+  ]
+}

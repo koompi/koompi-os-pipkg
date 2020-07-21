@@ -1,0 +1,26 @@
+{
+  "FILENAME": "gammaray-2.11.1-3-x86_64.pkg.tar.zst",
+  "NAME": "gammaray",
+  "BASE": "gammaray",
+  "VERSION": "2.11.1-3",
+  "DESC": "A tool for examining the internals of a Qt application and to some extent also manipulate it",
+  "CSIZE": "4077184",
+  "ISIZE": "13823073",
+  "MD5SUM": "a0cf2af1277cda4621d36138c2d773de",
+  "SHA256SUM": "87889079bccbee1153f641fe7f3ccdc440791216a363cbe9d5e62b117dbdccce",
+  "PGPSIG": "iQEzBAABCAAdFiEEFRnVq6Zb9vwrc8dWek52CV2KUuQFAl7NZ+0ACgkQek52CV2KUuRBHwf/cvoZWlXwcMsudMFHNgMPeBy9+6zZ2ZraIcvMqDRw6akobR7VXFNKJkV/SD1waDpi3XuPOChWgQcB/XnK2aQs4ooMhun+GmHcLYvLjI6IgOPQrqgPtoGBXcE9sBl28SYl9DlFUe0YQrNCzb00xt7n/wsrBzJXQDiJimHxhbBJ+Z6AqL3yWAQhoVNGc30tIE0D+4XuVRBdd8u7uq64DeK4o+YGKQ0QZ2nI+Bn4mTH0tpgKgf9KaCAnyHqNNl7GGevGA+f+Ogt0pzeZ81ljOxSGztuBYudDPIltNbG0InlQycReaeDY6BYB1QzVvrWyJk2KKw2EsoxSirBy8v6jLodGpA==",
+  "URL": "https://www.kdab.com/gammaray/",
+  "LICENSE": "GPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1590516394",
+  "PACKAGER": "Antonio Rojas <arojas@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "syntax-highlighting",
+    "qt5-tools",
+    "qt5-svg",
+    "qt5-3d"
+  ]
+}

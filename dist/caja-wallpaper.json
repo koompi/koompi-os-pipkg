@@ -1,0 +1,24 @@
+{
+  "FILENAME": "caja-wallpaper-1.24.0-1-x86_64.pkg.tar.zst",
+  "NAME": "caja-wallpaper",
+  "BASE": "caja-extensions",
+  "VERSION": "1.24.0-1",
+  "DESC": "A Caja extension to quickly set wallpaper",
+  "CSIZE": "9510",
+  "ISIZE": "19007",
+  "MD5SUM": "dc3e0b6312cbe60238efefefe08ea368",
+  "SHA256SUM": "3303f3b121dff5a4787c7079e8a4a55f180c8eacba76360c7fd8d9752b5f095e",
+  "PGPSIG": "iQEzBAABCAAdFiEEzFln1AlbTztC1F+ggaQC1POCu70FAl5Vf3oACgkQgaQC1POCu73gYAgAh8fzZk2wQTUDiNiVI4dqkJm7lwBkcm4fJeJDqzPHSDj3Ly73F8zBsnpFOqPpf/JW7YW8XYc7hvhlAWswPwlu3vZTs8QCH0UitHljSS1SfYrwSM/cc9vyfyojl2h1YWxiXCMC6Ku7XDBUGA1NqFXhaMSV2IjtKo/T44KalWNscjc1a2N3/b8tJJhcYRX42kbhQFIWwYnmA2cDDHB47owlucI0PQDJGHiJoK3zLWfyYLFwxYu5LWpmxflosKWbvKpyL4RqdqyTlThlTSVJq+ThiUw9gqp+dNkv1WQ0MG+3LFfSAfz1OH7U3N1eDXNN7wSTfKFDuP2eVEnEXE4imkLd4Q==",
+  "URL": "https://mate-desktop.org",
+  "LICENSE": "GPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1582661427",
+  "PACKAGER": "Brad Fanella <cesura@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "caja",
+    "caja-extensions-common"
+  ]
+}

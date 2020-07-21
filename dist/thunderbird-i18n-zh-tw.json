@@ -1,0 +1,23 @@
+{
+  "FILENAME": "thunderbird-i18n-zh-tw-68.10.0-1-any.pkg.tar.zst",
+  "NAME": "thunderbird-i18n-zh-tw",
+  "BASE": "thunderbird-i18n",
+  "VERSION": "68.10.0-1",
+  "DESC": "Chinese (Traditional) language pack for Thunderbird",
+  "CSIZE": "560485",
+  "ISIZE": "627475",
+  "MD5SUM": "fb7d8bad6c548e36c96990c6641ee1d3",
+  "SHA256SUM": "4e3cbee80baf8636310d433572be0c0c45ccc45c04841bdeeaa5784cf4b4d7b4",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl78eGoACgkQeGxj8zDXy5IJlQ//brSEvWxYg4nfhC9wtt+9bR1o5NTBfkzIM9BYdrae2k4Y0POLcmtFUf58V5V0O8g2uQXpNxGDdnqojnwqAk/dlkzti1/y/GCH+VGsnBjSOnv55Eh4V6OVTSc3VlNjaX+nm+pYj9833KdrTDBsUftlZJhDIDXTJO5TddWCI7/KBRJy2A6EaP275W1AxTM3hUmzugyXFzbt6GKjyl3pkw+KG07YJIefJ0gOeizxojik2V5K7pItqmQe3xghUXLPneJGHXzXqttZ7MWlmZcH+9KxluRDlACclMq7RToT8SjLwy2xwp49kNJBio8mws5C3dtQ8b5auUBByE4lNnu34Qlnq6GIDMB2+eJLbpeMAURmKdpW4+LpFHTGI2jJlAG6Jm94hC2yvpmWwa7WAtcyhAO7/pigHSYCpXHtA73LRxreACLPq5CklMDB+zdgp+h0BSVhezRCehhyoDF5hWE/306gZeRSvNAiSwi2A0qG9tsgkwXKxOtZGfB8LXkIeMtNnBQHs77HZCNc47my+/In9iMO6+tfbdXkBJ6hlYqe+qTV8RYURXABxyVYvLeySN0O+F1grIuBL4uvUgiMnjTv+oVxp2qPNwcX60z4Gu27/OoPREOSNK8G7yBdM2s785nDW7kWlRmUPO4Dj8rRAk2x8T15K8xc8wdpEQ2G2em4Xe7Eous=",
+  "URL": "https://www.mozilla.org/thunderbird",
+  "LICENSE": "MPL",
+  "ARCH": "any",
+  "BUILDDATE": "1593603702",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "thunderbird>=68.10.0"
+  ]
+}

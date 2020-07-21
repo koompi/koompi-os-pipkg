@@ -1,0 +1,23 @@
+{
+  "FILENAME": "python2-ipaddress-1.0.23-2-any.pkg.tar.zst",
+  "NAME": "python2-ipaddress",
+  "BASE": "python2-ipaddress",
+  "VERSION": "1.0.23-2",
+  "DESC": "IPv4/IPv6 manipulation library",
+  "CSIZE": "33202",
+  "ISIZE": "234727",
+  "MD5SUM": "a1b0b26d6bcdbc6346e51c1b2bf9421b",
+  "SHA256SUM": "11d0958c09da4c04b6ad4c65005e0eb342c15f58ca181be067c72ad8e31ae711",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl6/0KYACgkQeGxj8zDXy5Is7g//esWPqKgyAj2lJ1pvH2kaccd47J6gVn2dNjNnxOPOFg0u8vD+nkx0/XTpDz3ZKGk5my6tdDGjmoK08ki4CU2qWRA1YAsDhs5Q5jxPEaxFDiaYRJpMfY5Nhj+opiUNoRSdPZ38X0jazIfCvOHFtU7cRfV1uIFwFLUZLd6Qlj/k+kB8Q31tYPmc04kpS526ZkDo65Y9FMwEOYVSK0i62ASL1Gj9uaos5FGsVs+JIxGjFSE9OY+o+dM8LVYIrxfSCxR2jQ7IxM2OmRi3NsJWoYSy9Fb4VPfIOUx29RzuHBZPX8smdvviT2+ly4gACenCzMeQSWIGnVtljBbV+9uosjdxBnOyhO+f+LbxU6I9LYqRcIHKGV/XIJBpVAtc+lAp7wVWaSGV1jIvn2FNS2BfkhnbiApomns1yPB/VNWQ2nnXQ9U/Vi3bXwMY6rihxRs7hMdTfuQKY37r7OLAUmKm7C38CNkJ18806U2G4JIbAngZ1Pp4UvApa+EomC+wgD+mi8AY44m9k9uuMN+lIgbgeRinpcWBtNzvetef6LqftBd+djkQktYpkAK2x+98xvKfzlYkS1g39ubplqxOvMCW17CvuEW33p6AdQSNR2StaY000yNJS9CKRVe8oTsAOCF11y8MU1rO627i9OrLZPHWAwg5iSlYTfrliznh33VmJn8785A=",
+  "URL": "https://github.com/phihag/ipaddress",
+  "LICENSE": "custom:PSF",
+  "ARCH": "any",
+  "BUILDDATE": "1589629088",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "python2"
+  ]
+}

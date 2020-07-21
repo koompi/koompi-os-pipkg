@@ -1,0 +1,24 @@
+{
+  "FILENAME": "dwdiff-2.1.2-4-x86_64.pkg.tar.zst",
+  "NAME": "dwdiff",
+  "BASE": "dwdiff",
+  "VERSION": "2.1.2-4",
+  "DESC": "A front-end for the diff program that operates at the word level instead of the line level",
+  "CSIZE": "67960",
+  "ISIZE": "172190",
+  "MD5SUM": "eba553b24c81e20234cdc97287151479",
+  "SHA256SUM": "bf2c364f19b27ecd8fbdd85084128dba08b134b189a53286d4d4d1c5e31a7105",
+  "PGPSIG": "iQEzBAABCAAdFiEEhs/8qRjPOvRxR1iAUeixSKmZnDQFAl6m/gYACgkQUeixSKmZnDTprwf+MpQh1Avnik5dhahDVeTxXMBOoKSugvUOxbgeHnehWVWTV3KsLRlbdWAaRaUCqC9Ya6C+vSxzeskR/huweqr4x6x1tujqhAtWjv03/6UwlHPWuyPrJa3bdDOktZfgHkg0YrlFEkU9xhFzivs/FnSAhclBxKFKrWUASpdquhEfaRXqwJJmGIMpYHEdYMeH9bLfeREgMnPfATIuzU9jKx3QH6VS+FyVpKkdForIBUpmNADxNbV1gzaIo8g8Uq74yRwfH7NxqrI7ol/uHhxC+RVETRrTh3fMb6ae8jJJkHHsMzXmORSFK/t1sEKjN9B+Q0kQ5W4HpFkvj0I0eGzifmWvaw==",
+  "URL": "https://os.ghalkes.nl/dwdiff.html",
+  "LICENSE": "GPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1588002295",
+  "PACKAGER": "Evangelos Foutras <evangelos@foutrelis.com>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "diffutils",
+    "icu"
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "FILENAME": "haskell-concise-0.1.0.1-180-x86_64.pkg.tar.zst",
+  "NAME": "haskell-concise",
+  "BASE": "haskell-concise",
+  "VERSION": "0.1.0.1-180",
+  "DESC": "Utilities for Control.Lens.Cons",
+  "CSIZE": "12516",
+  "ISIZE": "30007",
+  "MD5SUM": "9ce4cab7f4d0c226aba86d02a6ead6b3",
+  "SHA256SUM": "f7a09718b55f607ea7135c51679cd31a414e561ddb3e07c2f30d48cacff7b631",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl75q2AACgkQeGxj8zDXy5KI0w//a/waRhRKmYlNw7KY3Bqdo9llmNxMwIhRJRAuMs1DHMO+138NhGq9c/U6+06NpcpKWqWWuIug814C1DR3zZOsYUD5S+hykpD0eeudB1Ck65FRv1mxvNS5NTf/a5DyD1PkEttx5RKggIQJ5KKzeJV39jjgTNzDVQUvzN89msFrsNFxYZxxnO3FuCjLOcez72I/OTadwMMZ47dXyjvVXcELdpSX5/y9NV4SF9Jv9BxEeIuERSJCOXlx9xlT+0Uav6YKMmF0UDpZ6oEcm3mRg+ngRQvvIdLCvi+pBdssNnWM4py9aHLm3yvetyDRSljTcg9eEbG2S5cQDbIabxgj21EQJT/S/eCYXLokfB59X6DYhs7AQgdnNnUwvdxEsEmeJcqBQzBh4BdImjO7UCShNUN70+VUJoiPnRuGyI7FGClMH/lfJye7qqf58Fgq4SPXxSLMGXHIcwltJjCL4DoZz3lnBz6Y8vLygLFXioejOSbw4d2Puq2AGMp0cYskxhEUk/qfH3b3qbECfTHd1pgWYdlTBNSHJFlBLv2Bw8s1kr7JybRXe5tsTAZXLSPQjkqzjnnInNiHmMVJ/Pr1HYb4ZPaBvDWzqqZv17s3Emb2N2a0CKxgYRdwnvKs0N0ozlWbNGh0+VzW3+0km64ZnxtqBPOGSUOP4JAwbVJR1PwG0hb53+E=",
+  "URL": "https://github.com/frasertweedal/hs-concise",
+  "LICENSE": "BSD",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1593420611",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "ghc-libs",
+    "haskell-lens"
+  ]
+}

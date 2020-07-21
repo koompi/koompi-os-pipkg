@@ -1,0 +1,23 @@
+{
+  "FILENAME": "firefox-i18n-hr-78.0.2-1-any.pkg.tar.zst",
+  "NAME": "firefox-i18n-hr",
+  "BASE": "firefox-i18n",
+  "VERSION": "78.0.2-1",
+  "DESC": "Croatian language pack for Firefox",
+  "CSIZE": "498718",
+  "ISIZE": "560786",
+  "MD5SUM": "6ad62fb02ad349b2657017d5c438865e",
+  "SHA256SUM": "9d4b9c827fd1f9042bc1e13650858097dabc04a2f33a01a1819811ce85a7d2c2",
+  "PGPSIG": "iIsEABYIADMWIQQGaHodnU+rCLUP2Ss7lKgOUKR3xwUCXwelpRUcaGVmdGlnQGFyY2hsaW51eC5vcmcACgkQO5SoDlCkd8c7LgEAiFI/OeWnmLn+jgStfA8Dl8NM4lOAoh+hUFWJqmOs4C0A/RzqwXZak2Ogpw+1IQV58A885e1h9uJGIJjc/MB6UFAG",
+  "URL": "https://www.mozilla.org/firefox/",
+  "LICENSE": "MPL",
+  "ARCH": "any",
+  "BUILDDATE": "1594311501",
+  "PACKAGER": "Jan Alexander Steffens (heftig) <heftig@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "firefox>=78.0.2"
+  ]
+}

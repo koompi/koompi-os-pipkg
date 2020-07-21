@@ -1,0 +1,29 @@
+{
+  "FILENAME": "haskell-timezone-olson-0.1.9-5-x86_64.pkg.tar.zst",
+  "NAME": "haskell-timezone-olson",
+  "BASE": "haskell-timezone-olson",
+  "VERSION": "0.1.9-5",
+  "DESC": "Pure Haskell parser and renderer for binary Olson timezone files",
+  "CSIZE": "105341",
+  "ISIZE": "454917",
+  "MD5SUM": "bb5ac848b50e93257425afe964f95ca4",
+  "SHA256SUM": "6875cf7903f6b9668db6b8c82c80355419a0aa3a46cacf9af38ef8de443b1169",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl6iGkwACgkQeGxj8zDXy5IOYw//cmu67UWMkkx7Fhj9GD7b98e/l0oAVitjFdJ6pvMjYCD2hJ40D6wRqpXNrbw0Fz9f3F5VmjfTkvzlbR8W0KelmT302csokOpS1bOjmkzYTRl5qeN9kG9EYnR30zlinSiPnc9UyHAdoADIi53iVNMB2yXcr1fnztY2JDUIJuG6wH0c3E8sTvMYbLXplJveos6LmK73e6J6tPUCO73+UbsgdSDcAkX7Ed26yG5YJVpjZ0u9XpjWrAw5he4GzSUoEy9gfEw9kyGkCpPQXNkkZOxNq6GlR7ogt/ya4HcX86FEcJT5k1+vxadNihprtOSVV+Xjm0kefWJWojPM7Ypg+atLgRfGVVhGKlKg8jKQVj+A1VwoBB96grwA9rEY0aYbZIc6JeOTWbyswhNs3ktVx+DmPhEZyd+C3fODh+7gzV1k25ZDJk+vdSsjm9P4RO6qAyw5KopIa8t1gxvsb9NrovRAoNu9R9HSBbbTL/0/ZZxavcu9zGHTF4xqQZxJwnefTpBgDa7ETxm9IqiVaWuj0RNSWN2oPPJSa4FwsXrsxp0swyI1iADSP5yZDfHkzsO9nq06FvxC/Xuld6cxm5DCIboxNVC6H+LlJbGbzzimogTFsrKphzgVx/jqgrFrppE0vTADVTnGqpQk0uCLze8R1lb4E5HTxDexgqt2pHsGivc526c=",
+  "URL": "http://projects.haskell.org/time-ng/",
+  "LICENSE": "BSD",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1587681779",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "ghc-libs",
+    "haskell-base",
+    "haskell-binary",
+    "haskell-bytestring",
+    "haskell-extensible-exceptions",
+    "haskell-time",
+    "haskell-timezone-series"
+  ]
+}

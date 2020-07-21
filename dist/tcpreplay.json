@@ -1,0 +1,25 @@
+{
+  "FILENAME": "tcpreplay-4.3.2-2-x86_64.pkg.tar.zst",
+  "NAME": "tcpreplay",
+  "BASE": "tcpreplay",
+  "VERSION": "4.3.2-2",
+  "DESC": "Gives the ability to replay previously captured traffic in a libpcap format",
+  "CSIZE": "207435",
+  "ISIZE": "791518",
+  "MD5SUM": "b9d93d8b82ed5e7328a0ee468e098c34",
+  "SHA256SUM": "dfab63787f80058a609f1f31e1b9e12ad0f945b64c85e67cb0af2b20cba7a202",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl8E530ACgkQeGxj8zDXy5KZKw/9GZhqJ7JhkDdCSJyYZUJ+ujQfiy8O+biAGefh3zPblRkjnf5kHpCqWF2uR+N299C9Dhbwy6ihuTQI4NSBrYtpQLOK/5v81fXABzDHuoAEYhJez9bMLxP4jrnxMqReG220qG3EWk0UZ7MrZAU9xf19iMwuOwPM3lsrEYb61wDm+kSuAkXnVYJjjfmbk9iFtSr+MuED1iovBNRkbOamW/vQe7kCEN3pCURi+GMXV2aHIj/yV+/z0It9y/WdC6TBB2WjGvLMfSYbXD35Xq5Q9M5A98DJxpb8NZ1kK/b9uOLgBZLfLVfcrtH5wqSXA2jnlLaOspiqb9zkL541a42Ukz6VGKliOkW3R/aox6Yh/kpqZRqIi9t+wVAB6Kf+n1guHG1r2m8P9LGtD8rL7TT6fVb/kCBc8D83ZEUoConuySPdkgN7zq1radQuXYbsUq+WhIrUKEqTdXfoaNcv4O0CZH05MK9GS8aJRy+YW8N2fyvIowLRPRVi1e63m41m3QYDe5m4o/AaxyNoDUbD1xlXyy+nAqjs4VQq375lqTcztm14LxslLbPlMxah0RKm1wyQhyVsjM4ETJYryYj+b7h6IMH4yNxAAqoRy1gF9q1NE5bZR+7RzqUR6DJ8gshDs8gT8V5R/zAc1O6VAmiz7LhqMo5Riy1jI4cI7POw/Hrtx99BIyc=",
+  "URL": "https://tcpreplay.appneta.com",
+  "LICENSE": "GPL3",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1594156858",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "libpcap",
+    "libdnet",
+    "autogen"
+  ]
+}

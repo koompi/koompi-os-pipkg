@@ -1,0 +1,23 @@
+{
+  "FILENAME": "python-testflo-1.4.2-1-any.pkg.tar.zst",
+  "NAME": "python-testflo",
+  "BASE": "python-testflo",
+  "VERSION": "1.4.2-1",
+  "DESC": "A simple flow-based testing framework",
+  "CSIZE": "42414",
+  "ISIZE": "171168",
+  "MD5SUM": "b29b4d07133d187af116ca0a3f9a3957",
+  "SHA256SUM": "9867f5c811bb4c8cfebe9a53094831f7e0bd09617002c1956332eadb0a05c48f",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl7h0wUACgkQeGxj8zDXy5KLZw//VRt/IgguORDIz/mOAZ0Db9jpLWNT+j2JX8ZzLUWVoljXGGzvP00xKWyu0wdMgegauiybAXWG6s2j/2qgexgqlTdGhxpc5qFP2gdYmFprJX9xXFjZdtmQNYwBJVSvZfU84H4mP/oC0TPu1WTs/yZwfLxzU705bPx9qpsS+b7vUwpcBQg+JZjS6pkH3vWAZVkrnkibLnMXSQDiJb5F+JG4KHyhj1QJ3lBWlBrWj2/yy4t8QqDT6Blpc/B+UlFLGneBfqavek1YA7sthEueIz6niEBFcKZs70QZlNoAoMRfFGZYDPkwJRkbMfztsP00/jTqQiMScOQS9MV+wFV6DpL7tytHmq/CoRl05b7PmvricZLwQ9sXqtEM4PHXHI/IBLdNxJOdhA85uaILpsKCAhZ+gmmVxcqCI8UWdGdAlVjpSBnFkKbeCNdj3d9c42X5XKNYgopuxhN3/ocewAX4PvyGKtt/dvHog7OO8NBBxH2MNGPNzjdnc5+PPPk2cJtMWz7yHy0h6o4ksfdRCWnYvV/zjlQ2XxkGMnMMaMCQ8nhuAajA4UBz+7dYL+MgO+O9izilsClaY6M+rb1yBDSrYQ2/DBErtqF4qOSMq51PvkJUSQNI+hT1xnh/x327FZbiAumZ1IlW2SkrZEo5G/bmmV4ejQ6wqQ5KTT7+lJ3RR/xq0ws=",
+  "URL": "https://github.com/RaRe-Technologies/testflo",
+  "LICENSE": "Apache",
+  "ARCH": "any",
+  "BUILDDATE": "1591857900",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "python-coverage"
+  ]
+}

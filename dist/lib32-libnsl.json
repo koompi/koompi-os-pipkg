@@ -1,0 +1,24 @@
+{
+  "FILENAME": "lib32-libnsl-1.2.0-2-x86_64.pkg.tar.zst",
+  "NAME": "lib32-libnsl",
+  "BASE": "lib32-libnsl",
+  "VERSION": "1.2.0-2",
+  "DESC": "Public client interface library for NIS(YP) and NIS+",
+  "CSIZE": "40732",
+  "ISIZE": "95774",
+  "MD5SUM": "164ba5d300dfb4463967681dfa25dfce",
+  "SHA256SUM": "5f3fd923c67541dc0ac6ae344c34bc133ecf4313878470a060f8e2d70033b452",
+  "PGPSIG": "iQEzBAABCAAdFiEElDfdOBWnqRaePTlGr/XZUJi8b/UFAl7RNw4ACgkQr/XZUJi8b/VufAgAihX+hKEugj1Vw0Tl6mZLZwPzny/VJ4Csy5/KPEc0BbE8KQ40iWGIP2IvsaH0pcpdtgNtWgXDPlaZv6rAtizwyQJyPhWNDL9gCF6qv0slJ5oPPBPcO+JzzEw9yflK2FgrhD1jhknOGEpZPfk78CLovn18H/n8zkYPi8+mIRCV3Tmmc0asVO/E/9puM7/xm7FXUK2HYj95OsB7dr2UUO4ErFhhGDRcpOAGsDIZG/XSdtWa97pi7w0jeHI4EozUDNSAtMmfN0OoTu+UyntpAXp2MGyNSDjVbtxOQ+pkgpQPMg0+a78KAXPwiClULDXHtO9rWZr+YfHpCmQ5APBHzm572g==",
+  "URL": "https://github.com/thkukuk/libnsl",
+  "LICENSE": "LGPL2.1",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1590769375",
+  "PACKAGER": "Maxime Gauduin <alucryd@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "lib32-libtirpc",
+    "libnsl"
+  ]
+}

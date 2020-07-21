@@ -1,0 +1,23 @@
+{
+  "FILENAME": "chuck-1.4.0.1-1-x86_64.pkg.tar.zst",
+  "NAME": "chuck",
+  "BASE": "chuck",
+  "VERSION": "1.4.0.1-1",
+  "DESC": "Concurrent, on-the-fly audio programming language",
+  "CSIZE": "7305788",
+  "ISIZE": "18902046",
+  "MD5SUM": "75274eebc318c768a7abc800eeb55e06",
+  "SHA256SUM": "ee3e4b05d60f1a5ad8367adcab30587cdf0925f2b8c41a1d8f2be29ffe7d6955",
+  "PGPSIG": "iQEzBAABCAAdFiEElihV8HLHoBhGQFhk/PPIy1z5yNQFAl61u3wACgkQ/PPIy1z5yNTR2Af+OGnsFR3qt6FpcvX8BYUMgQV3P8RFbdkw0AeaJxxNF327B6qaCdPtssQPI96ap++3PXw7CLi7a7E3kV5t3k5RLj4Ty44FOj++BRI6DpAGrdBZ86okpEwE4D+2p91CRVIc7no576bhC9VZ5xb5aYfZiZrd18DX2c9F2XQiuk2oYFYnmOU4hwZOJ0trug/raPnMsSPp996mhrnOJZwfXeCKgXykzlCIMAP6xo2uSxH05TXUEBl0/Ao33pPAL+moKgGK1QKOw/nlNk0pnWh/QKPMsgbLc+9gOgaOMAblso91C1SXg+QooO/9ZEnyO5bcQXs9FLHj/7GBCtaQhsHZZw+7KQ==",
+  "URL": "https://chuck.cs.princeton.edu/",
+  "LICENSE": "GPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1588968144",
+  "PACKAGER": "Alexander Rødseth <rodseth@gmail.com>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "jack"
+  ]
+}

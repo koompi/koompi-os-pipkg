@@ -1,0 +1,23 @@
+{
+  "FILENAME": "libreoffice-still-es-6.3.6-1-any.pkg.tar.zst",
+  "NAME": "libreoffice-still-es",
+  "BASE": "libreoffice-still-i18n",
+  "VERSION": "6.3.6-1",
+  "DESC": "Spanish language pack for LibreOffice still",
+  "CSIZE": "2434421",
+  "ISIZE": "21897661",
+  "MD5SUM": "39656e01a2a8bed69f934bdc4ea870e9",
+  "SHA256SUM": "e17f738dd13f87b959510497ff41fca90b72798b0c16c66da176155b50cb52ec",
+  "PGPSIG": "iQEzBAABCAAdFiEErcih/MFeAdRTEEGelGV6sg8qCSsFAl6tSsIACgkQlGV6sg8qCSu6VAgAlck6ijZXD3LF0KYTD46awJTbCyaIxuoxmblRZ69U3wIa99wadV9fy7aZzigSLMvDQevBoClv0VGshWTiQnEzH/hbbRseqB7kHhKp9uDkRE1KAkBXNy5JPrrf/x1ey3dkuXdes85klwJ0XR14l5EsJCEu819WShIQHDw7FB+nIKLzf6ayQvh5t6aKAZpuK8NR3Mc65MHNf8Ux+d7gTnsCyirhDp06sjohlLaIRRKa66FSpotNScidWDjHW0Cf4fwAs8xC/r52PI/C/WGVtwkF5GbOjv1NZXfsq4XCi0q6dOX+yCSUjdwnjsWMPdCKnbz5h/rfozBYtll7yUh0eNhoew==",
+  "URL": "https://www.documentfoundation.org",
+  "LICENSE": "LGPL",
+  "ARCH": "any",
+  "BUILDDATE": "1588407321",
+  "PACKAGER": "Andreas Radke <andyrtr@archlinux.org>",
+  "PROVIDES": [
+    "libreoffice-es"
+  ],
+  "DEPENDS": [
+    "libreoffice-still"
+  ]
+}

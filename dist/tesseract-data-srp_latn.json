@@ -1,0 +1,23 @@
+{
+  "FILENAME": "tesseract-data-srp_latn-2:4.0.0-1-any.pkg.tar.zst",
+  "NAME": "tesseract-data-srp_latn",
+  "BASE": "tesseract-data",
+  "VERSION": "2:4.0.0-1",
+  "DESC": "Tesseract OCR data (srp_latn)",
+  "CSIZE": "3831312",
+  "ISIZE": "9375025",
+  "MD5SUM": "0e0d84b28528cbe71be2c925875f73b0",
+  "SHA256SUM": "dbdd115eeaa9202e4b300392aca04122d8e353851b612c07f2922a26445382e2",
+  "PGPSIG": "iQEzBAABCAAdFiEE5JnHn1PJalTlcv7hwGCGM3xQdz4FAl78dMAACgkQwGCGM3xQdz5ouAf+Ji8F/C4QZ+eMMsarj/8h/R7PiGA0oUfj4LLgj5ZB3Zl0Yt5vzlhW7CXbBK5Vilik0gTbt+CWJxJKcqProfR9rM8b1/g5k0A9JgO+y5FSsOFVk8m3Ya7UcW97clHMexajPmCgr4TvlXZk/30AZ+beVRWBz9AGf6zuY/KoGjjt5ywUTHhXe+CKwO2Cah7qeOFU0EEVnl206BeZnMHNKVwExdMvnLHfN/I+IEou+9zj2A1K1ATkv90Y8gArNibaCoBtMk9Iv43PkET9tASsVWfBb01M7puMOh+MEDYGSap5A/MygG/8dBRnbXngoZr6VwkkojKqnCnefuoX0flt1fjriQ==",
+  "URL": "https://github.com/tesseract-ocr/tessdata",
+  "LICENSE": "APACHE",
+  "ARCH": "any",
+  "BUILDDATE": "1593601400",
+  "PACKAGER": "Jelle van der Waa <jelle@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "tesseract"
+  ]
+}

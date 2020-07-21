@@ -1,0 +1,23 @@
+{
+  "FILENAME": "libreoffice-still-ast-6.3.6-1-any.pkg.tar.zst",
+  "NAME": "libreoffice-still-ast",
+  "BASE": "libreoffice-still-i18n",
+  "VERSION": "6.3.6-1",
+  "DESC": "Asturianu language pack for LibreOffice still",
+  "CSIZE": "2125690",
+  "ISIZE": "20403963",
+  "MD5SUM": "9774effc630905d0562c26bc44aebdfe",
+  "SHA256SUM": "82b302dc4a5d0fffe9648531de67119d8429734bf429d6d8998dd76b833c62b1",
+  "PGPSIG": "iQEzBAABCAAdFiEErcih/MFeAdRTEEGelGV6sg8qCSsFAl6tSrIACgkQlGV6sg8qCStEPwf+LpcU9fWOGFgZhDFDlQNnjXp4lFEsnufOrns2QorjfLiF8AJ2yyWFUAo71xZZYN9HwiEelnxsIImKo5EBnaXkc2X0HYuj7nVvPBysWLRhTGUROlld20bJjXIUafN5/H8wIBnSlNNqsxH0Y2PIhGshUIw5vffBiK1M9mY4bbgZTvHIUJTUjBbuJAwvKVlLahSUSrInGRvL2qpgg3+3IUfUAjMTLj/cmo2EoEUsCXGTSijqI3iy1cDKycQphW86L2EPdKHtXAeOrV+1DCNbTvK67RdQtrvCeTktZEq1JTwEMLkorAurAYJnpjNe9aIeaYm53PgfwTEqM1Vh8PMBVuY3oQ==",
+  "URL": "https://www.documentfoundation.org",
+  "LICENSE": "LGPL",
+  "ARCH": "any",
+  "BUILDDATE": "1588407321",
+  "PACKAGER": "Andreas Radke <andyrtr@archlinux.org>",
+  "PROVIDES": [
+    "libreoffice-ast"
+  ],
+  "DEPENDS": [
+    "libreoffice-still"
+  ]
+}

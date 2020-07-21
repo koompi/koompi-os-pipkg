@@ -1,0 +1,23 @@
+{
+  "FILENAME": "libdsme-0.66.2-1-x86_64.pkg.tar.xz",
+  "NAME": "libdsme",
+  "BASE": "libdsme",
+  "VERSION": "0.66.2-1",
+  "DESC": "DSME dsmesock dynamic library",
+  "CSIZE": "13288",
+  "ISIZE": "69512",
+  "MD5SUM": "6a48e19bff1f9dee592610d9bce7b490",
+  "SHA256SUM": "697f2682f3717b1b3a919eb8f2d2a081aaabde1027e774a0bfc3db0d264ccf83",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl3ql20ACgkQeGxj8zDXy5JbjA/9GW5qydiBUHgJj0kFNwh6emh2BUg3MB+C+PRMa1MyCTZwdjcbdYbL9WEUK79n+PHQe6iIams2rbIPoip4czbEYfHXa9JTnN9cocLpjhUmyUVFADD/PyGySlE8fg8eYAuIER5nnAxyzMFUwuJ2Sfwp33oLs+sFYZBB7wtzuoGBQqQ9D1qjDydMjDMFv8o4NwSZdu5Rs2agYvShAhNgECEOOQmCxPBHbQCxhHyb4AyhN6A7rDzo/vv2eM/lLFHPL3Dwe1pThXxSzIQtc2JMsNcRxAhJXTTZ60ROiq5vIgA3bPXdNVjYEwQYcsKs7J6rRduJ/9IX6ztjDRUwX9PnWDMIsLAXG0TuItv+pNxBGM8PaNPR1CS2yqZXFcmyRrdBaab1hkRZJKk41qV/P5R1amzMiOXwyPrLmjpCepOXBKr96J/gYTzVMJgjIZVeFH4FyNggwvr5MSS5sS2e3R6XGlqZKNiAj8kJHHD1JJ2RWxQpnaIg+Ay5botJ5zqiQJFmL4lpxvcdsjQGIQY/BQk2mlAPVniz8YxBWdE707jaRcLGBq4AOA/4q77WhTWOwu9rM2yggiBQ5GJz7EIFpwlUoMP6z3gPXaiD1lDJVYu+vSs/Df/oELLPL6BxtAzTJv+XtE0EI0hKn0YUJQZLkcPdF+VS/deGOOOJFzSNgA5xp6ZSv6U=",
+  "URL": "https://git.merproject.org/mer-core/libdsme",
+  "LICENSE": "LGPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1575655254",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "glib2"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "FILENAME": "python2-pycparser-2.20-1-any.pkg.tar.zst",
+  "NAME": "python2-pycparser",
+  "BASE": "python-pycparser",
+  "VERSION": "2.20-1",
+  "DESC": "C parser and AST generator written in Python",
+  "CSIZE": "180390",
+  "ISIZE": "1455232",
+  "MD5SUM": "a041af1c08e11b155ad1c43b16b099e6",
+  "SHA256SUM": "e0d7b44696be8478429529c1e4bbe87afb7f66789de4cffeccfdb58f5acd59bd",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl5fzu4ACgkQeGxj8zDXy5JxmBAAh1/jONPlL5jjBkYo7Wl/xll9gBgQwIGIuSfyLm+WbkWN0HxXgkLOWdB9SOIrM3UL1RsjbNEaWJeRwkXG2rB+dDp+GRu2FCZn9cJg+TyaBGKBo5hdaYvuu9B74YvgVkRRPiWT0zGWu43O8d5KsXVmcH0VFjzxLW1kLKLFY2joukW29h5a+ynfmkEeUQhYuPWwnuq8fmCIsWOHfB02oURY8RNGIYI/pveaxN46k+O2BmRJ4LtocnVGPfHT8bzY4mNIrOYSkSmB0HbtBR486kGbkIFwRfPR4cHyn1uggcouJZ5vkrPbW0iBNv3ZlOHqcFVQn4wUQpINX26GmzIDrUWOwyoT2sspAK18qmV/CmLTcij+jVbP3CG3IMLOaXUxFci10T2lV7t+hRxuGUgVjLkTdNh8SHInTfrWslAfThL+dEUCu64cnR0+OIuQiNN0YoGcrMVRlTCqse5laHeh5tvRHovlmI3Ghe6VRBVuhHLMWf1nB+W33kePE6McI/HTsbzOnPrrYvKF0dmghq32T6FXty7SskpYNFeFgewpyEY2jrZPDnc3s/zgrYlyc8xgrv0Lk0FEkO0QbtvmBZ3f7iNRs/HQ2fd6uH1l4k/a/PXuJyLE4QqSR6FkKRMBqova7XvV1jG3Gb5vXLq8scUbtkVhDng0GSozl3PfuCvfHKvgyWc=",
+  "URL": "https://github.com/eliben/pycparser",
+  "LICENSE": "BSD",
+  "ARCH": "any",
+  "BUILDDATE": "1583337160",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "python2-ply"
+  ]
+}

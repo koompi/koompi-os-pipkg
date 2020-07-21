@@ -1,0 +1,23 @@
+{
+  "FILENAME": "aspell-es-1.11-8-x86_64.pkg.tar.zst",
+  "NAME": "aspell-es",
+  "BASE": "aspell-es",
+  "VERSION": "1.11-8",
+  "DESC": "Spanish dictionary for aspell",
+  "CSIZE": "496629",
+  "ISIZE": "1465997",
+  "MD5SUM": "59ad146a62cdb543ec8d05338d6c40b2",
+  "SHA256SUM": "88a6e8bd35c95f048f679264cfc25dfbe7513f7234df1cead985584431dac139",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl6/2KsACgkQeGxj8zDXy5JKew/8CLd/3+XwDFhwedDa7FZ/fzSMTN8Fz5VAl3cg5f+4KgPxmjy3tRB1Wb83XC81Di9H7bctGTJ39JGkp0ZEXFb3fklrLKdWULKj93QCqTcCglI58jRns7vSUd+ZfWN7x3uMD0jD+ArPNOcuNAMyA8NPUB5Ws4A9zrCKclLuDi2vqpIhyQ5RIJya2+8Zl5t+yiX2wb5zUw1v1g5PevDuleFjyx7qw8AJohzsGCjUADX7OJWnUEL/iRFPn65/v0JRAehRNsDJl+DWAKnj8KaDgcuufkq86eNX659HdsLZm0xN/lXJMnUckUw3EsqlbX5WWv0wTEl9OZgdaTs/8X3OAmmgB7OYE5F/ZdDNzmtJkiDewTwZYw0GDtHuIp+scLK02r9zn3j6E16z8/uk2HfRGwkSOn3O3IAuThQFospEiaxuM9MIBnSL7itglJTZ8IpdvwUeKOe7E0Mt0WXUeZAgv50JO4+bND18TMiztcozpNbaCncifg4VzuuXvWAAS2xQjjiv2/2ZoITwv7oYFTcuhOuSVfAvuPTJkpE+QDLtD84XmT/DEEWGzqjcFL04mEFf186ogaiZavkeHAfclzjqUv5sMU9Hy9pbg3w0Iqi91DYDy/jz0RzT2BTHQcIhFQUxiXdwLtBZyr+5tP4fQFkClc40meuigMY/iKDTFpE5Nmd1Ew8=",
+  "URL": "http://aspell.net/",
+  "LICENSE": "GPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1589631135",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "aspell"
+  ]
+}

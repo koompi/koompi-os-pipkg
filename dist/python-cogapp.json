@@ -1,0 +1,23 @@
+{
+  "FILENAME": "python-cogapp-3.0.0-3-any.pkg.tar.xz",
+  "NAME": "python-cogapp",
+  "BASE": "python-cogapp",
+  "VERSION": "3.0.0-3",
+  "DESC": "A code generator for executing Python snippets in source files",
+  "CSIZE": "49864",
+  "ISIZE": "334005",
+  "MD5SUM": "6f35c10fbf8f99f3e6eb1249eeb6015d",
+  "SHA256SUM": "e6edebbacc38b817faf0171e5c4d4cd937cf144fce48bbbaad85cf7e8015d52e",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl2/ffAACgkQeGxj8zDXy5IDVRAAmEjuBbb6NyAEsS1FaWRAOIytLkmIOYsLY1nQ6lcRGwWfZTPvR8qixtqW4auAUVNOnldSKaWoW7MgWzV4Tw45YzK9uoDY0OfbQfS6tvc8HzsK9CqcYWt+rKlwdamjr/pHDuUxi0egfB5gnoyFcqAOn8DmYwS0KIo+X9XiAVCggeBuxYqft7QS1g5/0aWP2k+Ctxkkbw7RTdi/TlDrlKBVEeHl93FoKNUmaZWJbvqQnjbeWF45dz3bk0DX++UGJe3Vg1130MlYbOucg0KwMPgO1RkcMEZbrhyqpjas/P0hIesvQDDcIMN4Wo497DaLSBEebYBByAyRBZKa3MtZTsSjMOevMFE3tkut3LsR9lLRQh+gTAyw/q6StlxWm3bJCRPYiU83te5g9KRgESA1JrVfndg6HrGwQBP5MKF3f3H4M5XqpiChp/U6TGqHVoV5tB6+djL+shBaWWp1fiMaRlwBQzYZSWQqGUm/f/qinTpqIe/iwSZKIxvlNzQqznbVgPyyT4xBzd7OFC4Zc7hiT5D+6jvuT8cFrEc6OCuprK/1Z9QjFeb0lSxXAia1VI/y3aH2FiPHsQAizNksF0ZLGZ5PoxCaA/wlZRdIuCW7CUlEWIQmsDDzq0E6UHvhzeHKVKnAHmp2bkY49QHFKbwbGM1A5bi0qP6CqLmaFljmHy8DMGM=",
+  "URL": "https://nedbatchelder.com/code/cog",
+  "LICENSE": "MIT",
+  "ARCH": "any",
+  "BUILDDATE": "1572830676",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "python"
+  ]
+}

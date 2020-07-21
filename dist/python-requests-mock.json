@@ -1,0 +1,24 @@
+{
+  "FILENAME": "python-requests-mock-1.8.0-1-any.pkg.tar.zst",
+  "NAME": "python-requests-mock",
+  "BASE": "python-requests-mock",
+  "VERSION": "1.8.0-1",
+  "DESC": "A mock of useful classes and functions to be used with python-requests.",
+  "CSIZE": "29935",
+  "ISIZE": "117196",
+  "MD5SUM": "71962cb59ce3cc6ea943375b648fba19",
+  "SHA256SUM": "8c5a12c0c8922d885a10448fa0739995afc00f4746771e05ee44d083bfb21a84",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl62UuYACgkQeGxj8zDXy5Jf6A//UNzM1TJ4+bQn4HNlLMutuxIPM9ei6EA3DRdtZU6DnzHVrt0NDdHDASCZjN9H6igaocyAoMT7zqAXuc0VJTtp9S6YQPJExoPpkTZ684647RhxKS2A6O0e7HFB9K1VMyzacwG8cTHkAxKhuQorcj0eSgdUEcaI5w7z/RGasXFgBsMR+PN+nt3kvktwp10hL7GFkqlycUBfmK60pJpllEKDge14iWVPAWo+zlo946X72HRGzX9T6C+wkvSmsbCv3oaCsbcN06S8lobXY6EOGBst/vn47XT977pEIi6RtpvsacFn1CfDqht0Dz7Iq0IeWqnuKKru52Wq1hXhoawjUgAEDaDXxez4kdO7DHf3Tl7X1EFYkaby37u5ZjTxowE1cU2fZmNXSHRntI325VeIc+2D/C5jioUUkPaUQSgRdmHu7T5N/D/ZWdW5lAIZO0r0/kECMF2Gd9UmjRHsr4jaOUfrXt92WSWft75WC8xaejXPAd/y5e2sSgJgp2MmN+n0Ueg4xtzQx6JId24Z3q3y4BpZFplg3KuPJSGRMFTLFLLBzbAIUpgukapigvE2tdd3Mt+TnWcefED2pTPhxkQN3asVa5amrk9RKcl64Z1JBCzyTh9ivKPYjzGlrqr26J/CEDAy3e95WTkREgivW9coLYdul83CeF3FJC4aZZxummG10i4=",
+  "URL": "https://github.com/jamielennox/requests-mock",
+  "LICENSE": "Apache",
+  "ARCH": "any",
+  "BUILDDATE": "1589007030",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "python-requests",
+    "python-six"
+  ]
+}

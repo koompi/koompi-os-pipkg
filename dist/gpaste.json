@@ -1,0 +1,23 @@
+{
+  "FILENAME": "gpaste-3.36.3-1-x86_64.pkg.tar.zst",
+  "NAME": "gpaste",
+  "BASE": "gpaste",
+  "VERSION": "3.36.3-1",
+  "DESC": "Clipboard management system",
+  "CSIZE": "216287",
+  "ISIZE": "1415072",
+  "MD5SUM": "e3bb159bc7be83586ff4a4a18b151334",
+  "SHA256SUM": "691a52307c109c7e8e52cb5738cfd7884f0d10ef390b8f58f5bb47f47e303376",
+  "PGPSIG": "iQEzBAABCAAdFiEEghj4iEmqxSLpTPRwpekojE+kFfoFAl599HMACgkQpekojE+kFfoH3wf+MQGSqIKkMGQridrunlBmQErOOSuYUDj66CudnapliNq0PxrtiZXKpOtcMBN0SDB8UKdVCJgRcxc1sbWLYfySEQ+Nw2qJWINyt3rX0S9QzBCaorLHlAJTC5zcsA0OuV8RtUaTJw/iPXRgDILgwPGtonSYkZgG9cIQQSjqFICIw1dFe/jpfst0Oa0dJeHolwQhbNhhGudQZTpuTnKvFpwb5bpNgpoNMtgl1YPBK66hLpNvvOFbbXRLfT1ys5RLT5YOTneGqTojKofGfLbtEPUxDoDnfX599GeR4aQerjAjwfhY/ymDrpTPqUgaEkO97QEfpOhUgpOW3jQOE/G1TQET5A==",
+  "URL": "https://www.imagination-land.org/tags/GPaste.html",
+  "LICENSE": "BSD",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1585309638",
+  "PACKAGER": "Jan Alexander Steffens (heftig) <jan.steffens@gmail.com>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "gtk3"
+  ]
+}

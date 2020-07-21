@@ -1,0 +1,23 @@
+{
+  "FILENAME": "languagetool-5.0-1-any.pkg.tar.xz",
+  "NAME": "languagetool",
+  "BASE": "languagetool",
+  "VERSION": "5.0-1",
+  "DESC": "An open source language checker",
+  "CSIZE": "168747404",
+  "ISIZE": "304759973",
+  "MD5SUM": "44f4097cd63a101900e27bba7bcc041a",
+  "SHA256SUM": "c09cd583ff7442ed8cf0f12cd4e286fb9cb072ddeb87369dfc99ffd40caa5ed4",
+  "PGPSIG": "iQEzBAABCAAdFiEEcXAmqdR3n8U5QHJmQPVXtzFJYQYFAl742OQACgkQQPVXtzFJYQbVQgf/bLTvN3VIVB0sXMwhLu0h4yJlUrYTH9gSAvQHF1phkRDVnC7JzFWxVLJ5lR8/ZdIEFLBrlyWuTGgmim2/Jn0ys4e5HizDpygbDIuxBz0Nsoafo8nQqxjOYVoGB8W7jawnst2P4v5H48QD15AR6ITUPw5Eoud8P/1mM65X/AFAdMA5IsPCusZjt0vBtv05VBC+m8Gh7PbDdtUvno+L4HP3XOwHgEEyUNUXyeksMGskWghWDyhY8EVyjoSEWg2tLrsaFZXTyS774g98H9ujjM/Ex7RZuxsyguYpUG/ggkLyQ1YVu0gN6ggap0eDNlTnp1qiHQtexm+ej0lASPESfkMUxQ==",
+  "URL": "https://www.languagetool.org",
+  "LICENSE": "LGPL",
+  "ARCH": "any",
+  "BUILDDATE": "1593366523",
+  "PACKAGER": "Andrzej Giniewicz <gginiu@gmail.com>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "java-runtime-headless>=8"
+  ]
+}

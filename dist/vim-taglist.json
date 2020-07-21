@@ -1,0 +1,24 @@
+{
+  "FILENAME": "vim-taglist-46-5-any.pkg.tar.zst",
+  "NAME": "vim-taglist",
+  "BASE": "vim-taglist",
+  "VERSION": "46-5",
+  "DESC": "A source code browser plugin for vim",
+  "CSIZE": "45640",
+  "ISIZE": "222652",
+  "MD5SUM": "1e70673e4e48bc2b416a79eefec2a3fe",
+  "SHA256SUM": "39b2bd4e8c1e9bbd577852bec818cae42ef2c27c20a3ecbc052b0940987af61d",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl8EpGYACgkQeGxj8zDXy5I7aBAAjIhMV5/wPD8AxNuAl24z9QTc0WtCjed9lAQ07MuuAiwB+2Xp1cnlfo7LrCfSWRA2dvyPLChUPKnORG99EZiw8g01Z51WIAkXgDRfvC1xm26T+Hbg0ZU1B5SyWpgK3BBWb97gnHam2VIddA/ze8CxioPPQzAaKiHH/FJ/756NLHOQaK1OL71uHDYEHdFBgXapTvdnuxWYviSZNOnxKGGNiFI4JJfKGk1Bj9+gDz/OrEEJmmIr/u75VrfvWCB+fvBi1D+J4hCf5MRQwyIUe+tOepcGDjQhHD4n/SNyAnh0/Ji+q527aoQ3udkQZuhZSea42VkepkHW/Tjbc/m3ltNgCI0hMF2IhjD2H+zmT2S4j8LWYTnYLDT3Qr+F9pgpwFloEGtiHH9ziwJ8TDX7lxsvql7bW8MXlkpzq8m4P+WU74IMEHs7aajykhdzUbHnCoWHI/at2VQ+UdHP2upKfkiqD4KdshcovDhBzT3ge0aYuAswEeEqmpEb5nO8DWBlvlptYvRSu/Ke3mCyvOe0RW+baSEQnOEiXHPlbRzU4Ej7a925uRdROAfEAYnCPo+0jNuBdhwnCOQeL58qhQvVFL40GyXMSG+vUcZLNvSkoPmPDuK8ZjgYO0cA9HZn4D84kD32QmlPOzVlt3X4HMAqK/CQBqk0uz9PpMwLM7OKKvk2xYU=",
+  "URL": "http://vim-taglist.sourceforge.net/",
+  "LICENSE": "custom",
+  "ARCH": "any",
+  "BUILDDATE": "1594139733",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "vim",
+    "ctags"
+  ]
+}

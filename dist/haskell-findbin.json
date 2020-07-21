@@ -1,0 +1,23 @@
+{
+  "FILENAME": "haskell-findbin-0.0.5-12-x86_64.pkg.tar.zst",
+  "NAME": "haskell-findbin",
+  "BASE": "haskell-findbin",
+  "VERSION": "0.0.5-12",
+  "DESC": "Locate directory of original program",
+  "CSIZE": "11594",
+  "ISIZE": "27836",
+  "MD5SUM": "4e3a914e80cd757d8d8846e3478063e6",
+  "SHA256SUM": "03a6fcf86bdbd6a05eec14e547a9dbb8a9627071fbeea6a7c4a0775f197e3e8b",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl6hdhIACgkQeGxj8zDXy5JDdhAAqSMsTqP6ddeNwoF+OPGQlGmkT9AztQjMHGL2Q15232CT9mqVhyGQwQeedkqKQ9JGe/8mJkc/HDfnS82qRexERVZ+NdYzzId2wuVVsl1u0P7++a4EfGfXTRl9Gjmg/E5c+ivNi/TP4pDvnlLJjkAOBNj7DzmL1qZr6jWN7vt9AcripH6ceVDvyAik0VfG3UYA8YQwDUsbXCdfzEP/1KhG2vCix9lUtxhNlIWIY58HKm72KtVYloEGH/74u4ARsHtDhxzyrf+jMWrOodH5tlP0AQUm3LrxM7AVeygpOJ4GJZ2EUi9rCkzMdJgv5MSj8eET8zqEfroJSPsNMcXUlGCCZuyC9QE7DfgqMf5FmduJnLzT23NRVySKiuhOfQJng4XS4VnhPnJbm4545/39Hyst1qPoPbX58jRYjpUevVcFzA2vjwqBIExpFJue5zZ4qrCBPgUVHWybhuc8YXSxUJV2SdEdpkDKpVNTqyVJRo7Ku0ERxuKCpujFdKc4MmovszKMJGT9mfYdUuSzpsiR2Xp2++xrhbu/7u+FR1DUg3DtO6qpIsqiOtC+BJaV7X25IjoT8aqChlcBPMHQ1N5EMx6IjwFuJv6z33yBx1/wTvcuAEQ+fxColSfaZ4YWHVKjZxC/+Ut8R+UOJA0W7SzuQoaByMP8jQ1juEyB6K6lKUvoMyE=",
+  "URL": "https://github.com/hspec/findbin",
+  "LICENSE": "BSD",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1587639742",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "ghc-libs"
+  ]
+}

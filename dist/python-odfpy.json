@@ -1,0 +1,23 @@
+{
+  "FILENAME": "python-odfpy-1.4.1-1-any.pkg.tar.zst",
+  "NAME": "python-odfpy",
+  "BASE": "python-odfpy",
+  "VERSION": "1.4.1-1",
+  "DESC": "Python API and tools to manipulate OpenDocument files",
+  "CSIZE": "208941",
+  "ISIZE": "1406957",
+  "MD5SUM": "b5fe2d95f1e6f692252508d74ffebe01",
+  "SHA256SUM": "1047423b9481ea01010a5b8d62b7a61f79e6489816ab7c9218d6a56ea19deb42",
+  "PGPSIG": "iQEzBAABCAAdFiEEFRnVq6Zb9vwrc8dWek52CV2KUuQFAl5kOPUACgkQek52CV2KUuRSBAf/ZEX1MsHzKoaBdOEJGHcnW4pFP4MiY0c/dvKalX5fPQ6MwUN3PsFB+4xyowyt3vSdSiVCJTU+1msZYNjq2AsLZKDMKWJMlFD5982qS6yGmh6LK9F5s9ZNagLagt1kZgs8bNuY0varON4PwdZOxguC+ws2UohdmPcjul8SoownM/HQvmiq1DWTpdB3hKSvDdpr0ikxR7kh0i1I4Apt8vHG/s84/gZkwmy58SH3hwZ6muqVuKNoPGKMPAwuRdImYW2DdRKXyXzBQZIGDs6MXj8Zl2UgPDFTco71wkgYgkWJsqD/UgQ/oLHEVB/gWc/saEpBSBEUJIA4q5Pvs1BUBoRDXg==",
+  "URL": "https://github.com/eea/odfpy",
+  "LICENSE": "Apache",
+  "ARCH": "any",
+  "BUILDDATE": "1583626442",
+  "PACKAGER": "Antonio Rojas <arojas@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "python-defusedxml"
+  ]
+}

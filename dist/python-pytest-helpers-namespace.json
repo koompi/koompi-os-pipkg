@@ -1,0 +1,23 @@
+{
+  "FILENAME": "python-pytest-helpers-namespace-2019.1.8-1-any.pkg.tar.zst",
+  "NAME": "python-pytest-helpers-namespace",
+  "BASE": "python-pytest-helpers-namespace",
+  "VERSION": "2019.1.8-1",
+  "DESC": "PyTest Helpers Namespace",
+  "CSIZE": "9789",
+  "ISIZE": "28490",
+  "MD5SUM": "c72cd10afc2809d83e53455d0decbb86",
+  "SHA256SUM": "381714a35d9bb1445f4aa74942ea3a45423f0fb3fe02a287c2cd6de8b5cd14b7",
+  "PGPSIG": "iHUEABYIAB0WIQTH54SUZv4jWDQ1iDdyWHNLQcMVSQUCXmzxOAAKCRByWHNLQcMVSW+pAP4ho+jRYIhAhFM5upxfY5XfwJhEhwxPGXwn5OGJxShIFgD/fZtafua7LWqOOrUnTRiF558hpY5pTfWEJN2aMVCYZgI=",
+  "URL": "https://github.com/saltstack/pytest-helpers-namespace",
+  "LICENSE": "Apache",
+  "ARCH": "any",
+  "BUILDDATE": "1584197817",
+  "PACKAGER": "David Runge <dvzrv@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "python-pytest"
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "FILENAME": "haskell-glob-0.10.0-45-x86_64.pkg.tar.zst",
+  "NAME": "haskell-glob",
+  "BASE": "haskell-glob",
+  "VERSION": "0.10.0-45",
+  "DESC": "Globbing library",
+  "CSIZE": "83388",
+  "ISIZE": "352152",
+  "MD5SUM": "ccf0da586d0613b6bc83c259c91aeec1",
+  "SHA256SUM": "bb0dc618ed2d3820d20bd51dba2da9dd3fd8bd7655e190f95d612310d5a2611d",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl75CHMACgkQeGxj8zDXy5J7uA/9F8/+t1hOaFs90V1ufgbXH397HfkhEilJZgF6f5tQjJWlIl5ZvRZphrz4IojJH9wBGP9Aik9MY6vVlLSc8b/gM63lrxVJVLpzJv2i7bv6VXlX3wZ6/aRE6Uugl0B70X72+RidCHoWEV3TKXR091NcDRYQbrGy2x04zsMFBn2AzvQvGvKcfMG50e3BC9kEARvt/kojpm4uV8ypDVJpforovtjgXjXKZFCRA2EQ02FY8bEFEikQaz2iqJJedL64EI8gkrdSCiGitL1Y9dTYmMsCZMUbV/OF/QcogwtGSVmrSoE9XOyi2oYnItbLeLIYQgP7MbrLHFIi3ZtuPp3eph4OiC1zdeTQu35MqFVsPh/EAYryJEAaG1qU97L0EymIlA/wEJ/dWfaSPfxxt1kM0PkJYUskUe3iu9k+j862P0SLGr1uaxo2Q1JcK6rmkL/zc+fd9hF4aFaHhdbwEoGUakc+6bj38XBIbu0vv7UlB4EayKhd21rlC41NG4+sFId9I18WYf4bVM9WQivDsGT10PYhyw0omEgofAstYLugps+2kZDvUTwNClQFjJPblwdzr8T8GhR0tGbVFZW4vG5nqbdFAYnIg8/+BOL0z7XWTCOFc6pwHW8Eba16C+l3ZpDv44W3eMMZlPxiI7BOr163aVmtfAAUzcNjvf0UBr7kcDjMtmA=",
+  "URL": "https://iki.fi/matti.niemenmaa/glob/",
+  "LICENSE": "BSD",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1593378897",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "ghc-libs",
+    "haskell-dlist",
+    "haskell-transformers-compat"
+  ]
+}

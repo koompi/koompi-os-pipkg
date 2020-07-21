@@ -1,0 +1,24 @@
+{
+  "FILENAME": "gambas3-gb-qt5-webkit-3.15.0-1-x86_64.pkg.tar.zst",
+  "NAME": "gambas3-gb-qt5-webkit",
+  "BASE": "gambas3",
+  "VERSION": "3.15.0-1",
+  "DESC": "Qt5 toolkit webkit component",
+  "CSIZE": "36183",
+  "ISIZE": "125737",
+  "MD5SUM": "22a8ce153a8d7659b86678a0b527920b",
+  "SHA256SUM": "380f7a82d2e3f5aeaf67b55beee6748cc3d5016e3ddc12eebf452146fcf7b9c5",
+  "PGPSIG": "iQEzBAABCAAdFiEEU1+MAzlFDwVKTSgnBglqatHO3awFAl8C7RkACgkQBglqatHO3azAoggAj+rAhyDsQdtRK/NjxhEf2Z4tPqw50jCAV0+oWHryzb0jIq28q5Cbj+i+JBbsx7tgrBrsvP7A9HJiHHEexXBlUinzrOBgNudRgUjf2lJ1uQBKUh8QV4rikXuVdhwiJoogWTYSj9ym9s4Os+KRKxYJqRqMqub40RNsD2gECQ+lZMs3T/iw/eB0GC7pm8crAxmCjfsUGTazSWe2PNUXgMoVBDYuMcoMbKEPeIgFNCncRXq8Bsr2DxPK1GXIIpYjeThmAoGsdvrHhmtZKQvTKnzObubGv95XVQEPZXHSGCUEDdoyNECE5PrEh4NN88Ol/Ww4V91t3m8XPIylwnmrcEK+sA==",
+  "URL": "http://gambas.sourceforge.net/",
+  "LICENSE": "GPL2",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1594026389",
+  "PACKAGER": "Laurent Carlier <lordheavym@gmail.com>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "gambas3-gb-qt5",
+    "qt5-webkit"
+  ]
+}

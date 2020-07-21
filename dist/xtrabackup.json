@@ -1,0 +1,28 @@
+{
+  "FILENAME": "xtrabackup-8.0.12-1-x86_64.pkg.tar.zst",
+  "NAME": "xtrabackup",
+  "BASE": "xtrabackup",
+  "VERSION": "8.0.12-1",
+  "DESC": "Non-blocking backup tool for MySQL",
+  "CSIZE": "14408677",
+  "ISIZE": "65430754",
+  "MD5SUM": "c7dda3754153ef2d2b25fd0bd0dda10e",
+  "SHA256SUM": "a743ddf6a0eaecf5f149df0528a1b92926640e880862defd1eb932d5acd2f60a",
+  "PGPSIG": "iF0EABECAB0WIQQsEYxiDwLbmsHQ+fqU3SOT2i7kIwUCXuEGeAAKCRCU3SOT2i7kI2u5AJ0d16mIenxSXH2CiZXP5SBLD1xo/ACfZ8O2yQoFF5YNSPhtI6bnKHRfobI=",
+  "URL": "https://www.percona.com/software/mysql-database/percona-xtrabackup",
+  "LICENSE": "GPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1591804371",
+  "PACKAGER": "Massimiliano Torromeo <massimiliano.torromeo@gmail.com>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "libaio",
+    "libev",
+    "libgcrypt",
+    "curl",
+    "perl-dbd-mysql",
+    "numactl"
+  ]
+}

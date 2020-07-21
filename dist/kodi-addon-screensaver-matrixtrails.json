@@ -1,0 +1,24 @@
+{
+  "FILENAME": "kodi-addon-screensaver-matrixtrails-1:2.2.1-14-x86_64.pkg.tar.zst",
+  "NAME": "kodi-addon-screensaver-matrixtrails",
+  "BASE": "kodi-addon-screensaver-matrixtrails",
+  "VERSION": "1:2.2.1-14",
+  "DESC": "Matrix trails screensaver for Kodi",
+  "CSIZE": "1217159",
+  "ISIZE": "1842655",
+  "MD5SUM": "a5bf6e525271889f3a0fbe2c29fe3f98",
+  "SHA256SUM": "baf9b011553314c58817e39130216b10326f117a22041e8e7b28cce4e4b1878a",
+  "PGPSIG": "iQIzBAABCAAdFiEE2yJ3vNUAqjglYQvd2zIzknlsoGcFAl8Ea4QACgkQ2zIzknlsoGeswQ//RIylsuqYAeJb2gVHwAs58QLbG4wybDgvl+LoRa75SGILpCjHo62Mil2uoGslZoav24IgcIXiqko5qZddZL1UoTjFpd91Kaxcpv9xSmr3ZyiSnT/3QHgfiZa2yxWe6GIbZQncm2Sw6uzSJX3vrt4QzSJmVcvfgi31yHiqu5glcInZDuo93uK4O6dVE5XmuXSfrMOc7CBSyHpocjA8IZF1gXZYsBY1TNCWH+xl0WmzDXUYZqtBF5zZ0vze6uou4d56Jsm+h33/0XwpRhhlnVPT5S6S8/1GiPPx6FVuRy3UG778BQZL4GDD95dh7r/1IOYrHS6ZUUwksLTzeMkJNWfIRG+wvZYGadbnmwsOo53EAGd4KfXfvlqp4ZiQeeBLNt3P7wMXMTglAO585jO8SV8QJVrvXeQPnqkCpuGNAb1QnWIiGSSRVnxAJz0BkWqJL749nNCopg+Yc7iduLkkSEEdGmKuxADKSyxfbdZZPVAL6YrwjL66DI4+r/HkKyUQOToYPv8BzWT065b+pQ4E7g2+b5lsvk7UMGqFSkBroF3023wxGFNION3fEd7CJb/mAY4xEN4aiQX6nQV2VuZQ9FUovFS+TixX9DEG8q8YglsiG01z2T5MLIuU/xMq8JiL7ioTV4UjxeilpoBK0B5Y2aYWNdsBgNWMMte9/k6q7Rop18c=",
+  "URL": "https://github.com/xbmc/screensaver.matrixtrails",
+  "LICENSE": "GPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1594125128",
+  "PACKAGER": "BlackEagle <ike.devolder@gmail.com>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "kodi",
+    "soil"
+  ]
+}

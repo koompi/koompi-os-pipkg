@@ -1,0 +1,24 @@
+{
+  "FILENAME": "python2-gobject2-2.28.7-5-x86_64.pkg.tar.zst",
+  "NAME": "python2-gobject2",
+  "BASE": "pygobject2",
+  "VERSION": "2.28.7-5",
+  "DESC": "Legacy Python 2 bindings for GObject",
+  "CSIZE": "316311",
+  "ISIZE": "1925894",
+  "MD5SUM": "3b215e0a08acc244170c5b75c99e1839",
+  "SHA256SUM": "983560602b49612e36b89ed1cbb4475c3ee0e4b018281399494f42e12d139b58",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl6OdJMACgkQeGxj8zDXy5Lgqg//bfvNbYT/ZgIqUjzKHFg93bkyOx41PRuHSy9Z+hwl8u8Fu8HMgrCDeWYRSP85gE7/tmjbf4Ct58FiTMQq8kxzOvZniyuhG1DOQwkwHU5MvRNf7TU1CnaaP15nZF4sNHMd1zqcR26Kkm9wXo/CGVPiL2lBX/OVJJyi58LiGXXUlm1iOccfMNvVVbuLhUlW4UDyUD6qruq/vOBrRqJHOZhxbCUwl5fAScl8rLjR9QDS/rCNmq4JWfuaJY/eIjOPxeofdMAfzVSbcHBg2AN7FAcKoyvibyqzNi7y5hBYlVnwdK+eF6X9V3jfARwecSxEKcZPrv59bAXs59c/0eSV+N1nBpNqv7FG5H5VtisnrHn+cQZRNxmurAYUjvSq4InO5HG+4ttoi2PO+N0EPbGaAy9547z6naDVzAnbdxdELoSmDemqX5p2ebcXZ40b6AVWdkLkmN91i613ftdheo4jzJnNw3Of6TTpe5PlBQL0IAre1FxhBrGLgEV374b9fiA12tqhoermRBEw181NbZ8vADdHygsaL7QKXoaxfqlQ5ealyGmXWg1A5YjH5RRppZnPVXWolQ0/TQkmvUxetlDpVYMSa1GOBHFmdHwSxbTuYcgu78ClzD7BQgUQGggDtuuMfRFJ+bPwBVrF5zoqKl+eH27AQZONH2m9CXHkqZfkQBIGPp4=",
+  "URL": "https://wiki.gnome.org/Projects/PyGObject",
+  "LICENSE": "LGPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1586394206",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    "pygobject2-devel=2.28.7-5"
+  ],
+  "DEPENDS": [
+    "glib2",
+    "python2"
+  ]
+}

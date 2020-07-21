@@ -1,0 +1,23 @@
+{
+  "FILENAME": "python-flake8-debugger-3.2.1-2-any.pkg.tar.xz",
+  "NAME": "python-flake8-debugger",
+  "BASE": "python-flake8-debugger",
+  "VERSION": "3.2.1-2",
+  "DESC": "ipdb/pdb statement checker plugin for flake8",
+  "CSIZE": "8544",
+  "ISIZE": "19580",
+  "MD5SUM": "46e223377909c65de32c75fe03b4ea7a",
+  "SHA256SUM": "7a959f5a98804d0dcda8ed5e144a38f598dea6c642c8c6d9a22e8ea82c59d7e2",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl3DWjwACgkQeGxj8zDXy5LYNRAArIWKQG0txBPzru9AGpSKTrwLUGnY29YYoXJOkqPY/DZ1HSgGo7IZJ0RKecTZ0ah44ly07dcpzUM0MeKURzhzW5oSgoHSCnDYLk+O3tC0JKZVXJ3A24cVC91EvuXuItcNgk8/C0Ol33esI/Zdo0I/ADY0lw5Q31F4BIZy6RSY9bcUmr9spCmbo1jnq3u0nf3b9t8hOTaDv+AJchT0uDZFSW1nQtN7fArD3D6kdEUMLaXXbsB36KY0dHQi5xw7kTfUSS+jz7iogEdMdRa1r8lYh0E4UGRiaO95rOkdqDlym0x7VPFO1BoFOJC40gDoBSjZQFEYFtA9mP1j5v1swtKcRCD1BFnD921y/TaIfCNtuR4yydIoDhdGZj4SUzKmGm4Fd8XAjLjqYOfktFZGE+K5zIy7qIDya9pXJDTQ/FmndcqKpJ8SVusdZnsF07YSMXQ9xdfw/2v18bmLvBAVHV3gRClnBiktu7evMXH8Dwt69zCLnjZVEzLDj68qX6CW7B3DsVEwdSDime90XwsVeQudcuLwxmgdOIWX8m0QSbE4fdv2ZUk84urxU8lhfMhlGCUiXndB1Bs3FjC7crfVNgyDxgjTiEk+WhVjCqIrH51pIlj4e1y/+MJK2+w3VDQQJIugiWmnhRgKGw87OwiHDW7p7Hn1CdorDeFBPlQKcD+NFxQ=",
+  "URL": "https://github.com/JBKahn/flake8-debugger",
+  "LICENSE": "MIT",
+  "ARCH": "any",
+  "BUILDDATE": "1573083071",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "flake8"
+  ]
+}

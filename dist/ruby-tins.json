@@ -1,0 +1,23 @@
+{
+  "FILENAME": "ruby-tins-1.16.3-3-any.pkg.tar.xz",
+  "NAME": "ruby-tins",
+  "BASE": "ruby-tins",
+  "VERSION": "1.16.3-3",
+  "DESC": "All the stuff that is not good/big enough for a real library",
+  "CSIZE": "94868",
+  "ISIZE": "483900",
+  "MD5SUM": "c3339095a0cc5abd7330227afe9f9b80",
+  "SHA256SUM": "9d8c87c3cb9f8ed5ff6c0ad8894f27549771ce48fbe80e0cbd45369e299c6a4e",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl4D+0gACgkQeGxj8zDXy5J3og//UVMr9Yp8a45z76nAZq0KasC+zIt3JwpWxJAT1ItBSLzgfKfRMQQsHGED3k5H+Ttv1vVpbQcMGedmW6XmB3aHdo2FVCDdYEyGuRuUg2DWu+ZRRqbihMsCQvPM/bVvy+hVP43Ug8auTOudLEbHy+Clj/l7r7t7uAJJWF3xRIy+0i/9R/JMLiglIou37kwXv1RZs2ZNldq/ankDhGG8nywWX62UTmuJgn0O7zjeCSSkB+o03uKZJNdXJhqmTAzi3qafq8XvNIhcJFzlHMB3ojeQsbInkpOweXOcoY90NKNs+LFcxgSMOcrMQMPSXQsXuP7qMDrMj5/1ACQ5S0urd2CO/jT4ISzjtd/a+XeBaqQCrdCrgGg8k73rdGVXZRY6HTl5FCnQrYipPXSfiZ3K1NhcOHzMxO+yGy6hdpINlS0s3hPDpc02t+yzQkTbsYfrcrbYJYcl2Nl//ibOzPd9nEixNOmvzpHSbQ7uYhhRxa1NRTvoWv6t9vk56SDjFQCgse0vJ9mzTJY08r0/g0U+Khlc9LEUXAPl/lmzuRJIRJ0cSHw01mRMz1tm99S9l5VXMeRGy3cxv/UOLIMIOyUFHVDd9v2EeSSsFhheaCZwAwcTL7dyDxuJftB/msw0qJOv3l783FnwdXZQW6uOEXyO/JCNg7ltAbi0vuWFSzxZyWrmhjQ=",
+  "URL": "https://github.com/flori/tins",
+  "LICENSE": "MIT",
+  "ARCH": "any",
+  "BUILDDATE": "1577319213",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "ruby"
+  ]
+}

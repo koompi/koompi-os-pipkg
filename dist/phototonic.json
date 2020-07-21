@@ -1,0 +1,26 @@
+{
+  "FILENAME": "phototonic-2.1-2-x86_64.pkg.tar.zst",
+  "NAME": "phototonic",
+  "BASE": "phototonic",
+  "VERSION": "2.1-2",
+  "DESC": "Image viewer and organizer built with Qt and Exiv2",
+  "CSIZE": "272412",
+  "ISIZE": "897089",
+  "MD5SUM": "986ac85d73ec472608eca984ac8fb52a",
+  "SHA256SUM": "4416814c1195e9ec508b11184583437a75c2dd11dd3bd8f3d60f7861f5229276",
+  "PGPSIG": "iQEzBAABCAAdFiEEzgvecadZqH8j8PfYth284QkBwWMFAl8HaT4ACgkQth284QkBwWNU2gf/d5Ax4vnyRk1G/jnERpmNV2ym9jFsfqOuRoPbLmHIYEEVbUSZBmkzOs53Lm75eqS9RmSHpYZmpD3dSjz8PVS8G3B1T4cgFEbaoXwcSIct5llqkv24ll2YTt6LSQQyQTbdD5gZNzLY6n1FDuInq4RH5K1Deigqydm3jss0JyNmF0BPffxRVssObCeO3/K3dXel5PwbMi/o1ABYz1MW4DxAvSLvIFw6zNQU6OLlVnepgDOs7RnErf/tuSdDPTYl+7BUGqAwGfpWfnxR/ZvvvTVa0tKJ7o3+2xoM7iPUP7d33MJP37c79SoDW0hTNSDicv3R4wsXQgmXUmgoluHJTtRWcQ==",
+  "URL": "https://github.com/oferkv/phototonic/",
+  "LICENSE": "GPL3",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1594321096",
+  "PACKAGER": "Balló György <ballogyor+arch@gmail.com>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "exiv2",
+    "hicolor-icon-theme",
+    "qt5-imageformats",
+    "qt5-svg"
+  ]
+}

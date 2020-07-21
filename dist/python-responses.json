@@ -1,0 +1,25 @@
+{
+  "FILENAME": "python-responses-0.10.15-1-any.pkg.tar.zst",
+  "NAME": "python-responses",
+  "BASE": "python-responses",
+  "VERSION": "0.10.15-1",
+  "DESC": "A utility library for mocking out the `requests` Python library.",
+  "CSIZE": "21640",
+  "ISIZE": "82173",
+  "MD5SUM": "bf828f882d9700c019669877efe70d42",
+  "SHA256SUM": "054c9f4332442379e10d00412371f3a022864f2f8d2a33f53ad4256db1bc5bb9",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl7jErcACgkQeGxj8zDXy5LZARAAm8//tubJtbdKdQWlSI0xaEvGVDQ0whfwGPqJ5tBpWIXig1aZz2F/Vo4fM9Ok1vsHCq8Bh86m5cO/jGnXcS3jLXexROWXvKeytd4ALfX9Mstf4ip4/9u0wnxVB2y7a9O8ABq/wXFrSCKFPnT0mULj1yQSp8CnsWm/p8IrMz1aShth5ZkM8B0UzcanTu+3WuGZ2EZwRu6P4UvQZsoGLnDsJxDghlqmTh7fAtI5J0gPWAqpTIYufteU3otqqy9esX7KipQB94nwpGI58DFwH5KVZZGuSyKHYKM9US9qW/LWaadMLwxGmZ5p/djhMoKMJMk625OtlnqQOiyDKx4tvEChhKccXw5vPcf8UP8IGWqwMcEz8tLzu//HpAzjgvf7vkrOyia+Ekwo5rKXFhGx1SJFCkeR807ox2FyagKcbYEI4XzUx08KiSvW0YN+NKv12soC55kn5piJCXiWrxrAfauerrReu+mTwOT8jZGmdfE/jFJCpqs/rrqnHUcG0LDcEYMXAhAnv3+taQPrHMA8dJw4OgXC11jqwSBtbi4Qxz3L3d6Qn9t1Q5YoJdau29VX95rHzYbT2G0uKMD16Ebjx3lI5oc13LL7ISe641ARssojBBkIbB3wdJS8cOTvoPoAyTpWO0qaiqco5S1/B6AcJa28AjgWir8pU7C0SA8XSQUSBTU=",
+  "URL": "https://github.com/getsentry/responses",
+  "LICENSE": "Apache",
+  "ARCH": "any",
+  "BUILDDATE": "1591939651",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "python-requests",
+    "python-biscuits",
+    "python-six"
+  ]
+}

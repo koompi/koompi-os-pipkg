@@ -1,0 +1,32 @@
+{
+  "FILENAME": "lyx-2.3.5.2-1-x86_64.pkg.tar.zst",
+  "NAME": "lyx",
+  "BASE": "lyx",
+  "VERSION": "2.3.5.2-1",
+  "DESC": "An advanced WYSIWYM document processor & LaTeX front-end",
+  "CSIZE": "19659772",
+  "ISIZE": "66295550",
+  "MD5SUM": "1c0c9fcbe76e886df483020a9f506f01",
+  "SHA256SUM": "1f66fbb5329440af500958cd52aabfe65542c633544e4ead6fd308389020f03f",
+  "PGPSIG": "iQEzBAABCAAdFiEEFRnVq6Zb9vwrc8dWek52CV2KUuQFAl79gB0ACgkQek52CV2KUuT70wf/W0zHCRDTu0xYH5wed+nyJjTa+AJ1qU3paht62FcVIGEJu44gztnrSAqqpuvf8w79KZUEGE641IOZJFaZN+BFAbWiRJQyqoux+1bhzNImU6SQrz719PMVuiOQH6/pe6g449sLpkqWP25G2FSSXFXqohohADk82O5eZILJWl/07bKguI8W4o6QLRVYfKqsSI1xS5QrbJCgjxyXzNAZ7kTlLHm4jTmL7AmqxDj0MgyBQckokue1mZDHZ64v/1zi64slbVaoAKIsxaz3AVuNe3XlHKJ1TkWerzsXDmSCkv5dS9XVN4zESDe23XhTESPtDkms4AfqqHmLI+RI6lrtkb8kSg==",
+  "URL": "https://www.lyx.org",
+  "LICENSE": "GPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1593671071",
+  "PACKAGER": "Antonio Rojas <arojas@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "qt5-svg",
+    "texlive-core",
+    "python",
+    "imagemagick",
+    "enchant",
+    "hunspell",
+    "libmythes",
+    "file",
+    "hicolor-icon-theme",
+    "desktop-file-utils"
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "FILENAME": "kreport-3.2.0-2-x86_64.pkg.tar.zst",
+  "NAME": "kreport",
+  "BASE": "kreport",
+  "VERSION": "3.2.0-2",
+  "DESC": "A framework for creation and generation of reports in multiple formats",
+  "CSIZE": "1164912",
+  "ISIZE": "2898034",
+  "MD5SUM": "10861555612c0e5a26674ac6258f594b",
+  "SHA256SUM": "c01a5c9a628c999be048bebd3951b0e536c09385e8f0f2e870dbc99eff78eb2d",
+  "PGPSIG": "iQEzBAABCAAdFiEEhs/8qRjPOvRxR1iAUeixSKmZnDQFAl7DqJcACgkQUeixSKmZnDTc4gf+P3eLTRfWvdTaS3c5TUyKTMzzcSH358hG5xB2672PGAeoCGKp/lITBeW07Z+LrTsz3KK14aHfEmD1UpNVWoQx8aZwyw3Q/Vax5Ya7J2OxJXQSbPOMoqeG/+XsilXRjGJUMpVRr9xgaLIULKaUgWgPqY3GzQ453YD/HzO7rb2jdzFv0QP3SLTwszZNDiH0MrtJFGnf46ijLbpmVKU8YdwPzt25PxZ7ImxJAUT0ZPohpS6bkQzcyR7G8wcTgHa4Cb3L8zVBsD+x0DsMm2r/ndArFIGteF0BD+l8ak70QKCYbMT9nBMg3bRZnamJfUsCy4S5QiHLzZHQzemZ232eknrZQQ==",
+  "URL": "http://www.kexi-project.org/",
+  "LICENSE": "GPL2",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1589880921",
+  "PACKAGER": "Evangelos Foutras <evangelos@foutrelis.com>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "kproperty",
+    "qt5-declarative"
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "FILENAME": "libfreehand-0.1.2-3-x86_64.pkg.tar.zst",
+  "NAME": "libfreehand",
+  "BASE": "libfreehand",
+  "VERSION": "0.1.2-3",
+  "DESC": "a library for import of Aldus/Macromedia/Adobe FreeHand documents",
+  "CSIZE": "682355",
+  "ISIZE": "6166233",
+  "MD5SUM": "03741f38959ea2fab8325d87e7d33a1c",
+  "SHA256SUM": "6b9ff2b3d86780511bc5a3e42d455b39a57a0c4e5f188eab1bf539e2fdb56d3c",
+  "PGPSIG": "iQFIBAABCAAyFiEEZkWwqMcAXnjbHXhk+Z/+D+rpmb0FAl7DYxcUHGFsbGFuQGFyY2hsaW51eC5vcmcACgkQ+Z/+D+rpmb3mPwf+IgSQnHtkD4uHIevtHhvqAwpf4vk3EKhnhET2TLED6GCArcl+0MjMJn0V0ZOVD3f13wQ/wyUpUq8E1ZX58rT9xhNzh/u+rfntEnIuG/kiSE0zoVEJKyUfvOp9NvXuyAGPBHw/l6CyUhe60Lp3G+aMSVLHl9+Cd9htJJPDSCxmpqiLy3NwBoO2bRrebgvAEVzuX/PTGpp9YXxjqS6F+Wj4sHFiGnCl/QvMCymceZ4hOc14Ln1TPkEbQ6UWHsRMD4n8oz58ppTEZG/ljRO83SJzsOOceDJnXkCW8To2yy4dr/9BxHeKbzjRzP7A5IxI8cuBxCFoTmbOm0wCcWU3LyEpZA==",
+  "URL": "https://wiki.documentfoundation.org/DLP/Libraries/libfreehand",
+  "LICENSE": "MPL2",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1589863092",
+  "PACKAGER": "Allan McRae <allan@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "librevenge",
+    "lcms2"
+  ]
+}

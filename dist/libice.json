@@ -1,0 +1,23 @@
+{
+  "FILENAME": "libice-1.0.10-3-x86_64.pkg.tar.zst",
+  "NAME": "libice",
+  "BASE": "libice",
+  "VERSION": "1.0.10-3",
+  "DESC": "X11 Inter-Client Exchange library",
+  "CSIZE": "80144",
+  "ISIZE": "369675",
+  "MD5SUM": "3f1a23565b2543d5f3bfc37bf12fb639",
+  "SHA256SUM": "1e3955f34198403b3a830c8fb4f43057a53363e3308d7a12d284db44ac3bdafb",
+  "PGPSIG": "iQEzBAABCAAdFiEEhs/8qRjPOvRxR1iAUeixSKmZnDQFAl6/8voACgkQUeixSKmZnDSAlQgAoSWdC9n+kqZX7KC0zKzK/nRr0VXe63acnKBteTw9ippVhlvU4ucFi5eBmP8D1cX5uHVIScaa7nVKVCHXaFfMs0fRSp3ZKSk7OdJa5nSOEl5NLiYXDRLLEJGocplQMOHIED09/1ONUHdmCUTAlM2b3fFkx7kXtnl1vIaK2CV0ZJi3fclxlM/QqJNWYF86nu8WSl2e3Ozf9ceHQR0iS/D2mk1Hp0ZeL21v7WvR78HhR0+WhJo3hBe352oTux/1c/mYm8E4YODCVKlf4YAMsFsOUGH5mHoXJzlCqKwsxToIJ8Aug6NUlufLX2BGtwvSUZp0HaOWV2z3jR1E7WRGIF/Xnw==",
+  "URL": "https://xorg.freedesktop.org/",
+  "LICENSE": "custom",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1589637856",
+  "PACKAGER": "Evangelos Foutras <evangelos@foutrelis.com>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "glibc"
+  ]
+}

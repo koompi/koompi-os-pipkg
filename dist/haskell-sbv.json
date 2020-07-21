@@ -1,0 +1,29 @@
+{
+  "FILENAME": "haskell-sbv-8.7-1-x86_64.pkg.tar.zst",
+  "NAME": "haskell-sbv",
+  "BASE": "haskell-sbv",
+  "VERSION": "8.7-1",
+  "DESC": "SMT Based Verification: Symbolic Haskell theorem prover using SMT solving",
+  "CSIZE": "3934023",
+  "ISIZE": "27757732",
+  "MD5SUM": "c47dd334baffe004fe13847eb1a8d4f4",
+  "SHA256SUM": "a5dad188e1a02ba35d9838ef141ffa125409960a167ca6f5a41b72d18ae338e4",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl78x6MACgkQeGxj8zDXy5LbdA/8DF8pRMWwsGRFjYlPHQsxJPQF+rUzaWMo2a3O1GapIduHZGxSCTFYfoXkRCkCYZevorJIXK/M40VWNbkZR34FlR2p/+0iRLCE1vYlkrsJrVquzE0KQaThcvpRoDyUAHnrzgtF0CMm0STiCd4bs+p6uAuYESKm4MT2l84g18xQsGVEnVd0VR3pqJxGpTBEFTpYExjjx8zi7d3QBkV5Q7a/Gt8UIHYpIbMl2xUFaHQS1WFVVDFTvgWfYUrGSpmDLzf1GtmD0R1ziX83gkVndFwyXlskN8g7Y+f1MstUJutx/U/Iu+DuxiicXXqZZKtWFQtfKQsjbHcH3+4sz3KbdSodNc40Ttkf6r1N4ULxOE8Z919xGdOwoLHYrGzPVNh2FmuM/OSzwXTee4Qco/JQ3DyTUQUDE5juwiE5QWjXAxJpVIUTWzvYOOv4Tm+TksrQQr4gy/FMKNXDn0KygSLxyH8iJ66vTV7Mz0SRl1TeXKaUtTwSAxuBBgDURhoqQsLp5ZE7doI0E+jmXNACkasepEv0cCGpW42ODbNlIzorUJIyPGfrkRiirNsAUfFj63uWE90t5mzvq5zOLQooHNTpt/63BVmPII8lhv6/aNQAamMgi2IHpYhbWROu2+ywvEOlF3Y3WNk4oZy6qlv0pA4kjZAmcbF0hMB4rWFU39IUJ1iSX94=",
+  "URL": "https://leventerkok.github.com/sbv",
+  "LICENSE": "BSD",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1593623879",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "ghc-libs",
+    "haskell-quickcheck",
+    "haskell-cracknum",
+    "haskell-async",
+    "haskell-random",
+    "haskell-syb",
+    "haskell-generic-deriving"
+  ]
+}

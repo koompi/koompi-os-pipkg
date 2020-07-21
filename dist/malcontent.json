@@ -1,0 +1,29 @@
+{
+  "FILENAME": "malcontent-0.8.0-1-x86_64.pkg.tar.zst",
+  "NAME": "malcontent",
+  "BASE": "malcontent",
+  "VERSION": "0.8.0-1",
+  "DESC": "Parental control support for applications",
+  "CSIZE": "204981",
+  "ISIZE": "1095648",
+  "MD5SUM": "023f2f3e763b593e7eb758b05f366c38",
+  "SHA256SUM": "44d49b089d915391be806c6ce7ef7fdba4501f39b8c9633efaa3063154c28034",
+  "PGPSIG": "iHUEABYIAB0WIQQGaHodnU+rCLUP2Ss7lKgOUKR3xwUCXtmPygAKCRA7lKgOUKR3x9XiAQD6J9oLzhTrTBpaUPvFZoZGm5e+9qRtbDK2yuEKsOpysQEAwYHXaGcqTYGCtaTAH2GS6aHrnYdUz4CCVPP99IRTnAw=",
+  "URL": "https://gitlab.freedesktop.org/pwithnall/malcontent",
+  "LICENSE": "LGPL2.1",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1591315997",
+  "PACKAGER": "Jan Alexander Steffens (heftig) <heftig@archlinux.org>",
+  "PROVIDES": [
+    "libmalcontent-0.so=0-64",
+    "libmalcontent-ui-0.so=0-64"
+  ],
+  "DEPENDS": [
+    "accountsservice",
+    "dbus",
+    "flatpak",
+    "glib2",
+    "gtk3",
+    "polkit"
+  ]
+}

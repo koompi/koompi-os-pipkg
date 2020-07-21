@@ -1,0 +1,24 @@
+{
+  "FILENAME": "haskell-hxt-regex-xmlschema-9.2.0.3-21-x86_64.pkg.tar.zst",
+  "NAME": "haskell-hxt-regex-xmlschema",
+  "BASE": "haskell-hxt-regex-xmlschema",
+  "VERSION": "9.2.0.3-21",
+  "DESC": "A regular expression library for W3C XML Schema regular expressions",
+  "CSIZE": "113983",
+  "ISIZE": "603457",
+  "MD5SUM": "763a08e64b1d216ddb242a97abdd697e",
+  "SHA256SUM": "20834a6c56298d9767825bb6ae3e24034cee8b37051640de32a53c59daec02d5",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl6heIUACgkQeGxj8zDXy5LPzRAApLR6aurHxpdaE9w+wEWMXm3y9XzvssKGDMs1zpxGFF5Bi3TMJEKVi2eWIWbphZQ/UGFZBBvQySOk/sB96BTUycpyjNsDMfT24vJBeeT0rRsoueOJ1p5f7gB3a3zvJvZ/N3Z7JbekTPq3NEXHqzH3s3Scp2FIjZxXgEqqcmjnLu12QLdlTEpnIWug/8mMSYh+EijqXhfUcyZ55khFwxCOYvz0eQovj+qCXFK/n2A4TwlZ2RhOXEfhssTaTxykHNTuawOLldG08taJLp+X451868fb4SKfP9Yj1pPQF0BARvL19r2vOn/VrqLPV0PoLNHYT2EMWPbs7UG6CXkx11GIOKdp/4ite3q4Udeyjmaha2sQsHDqEktGTJRF3F2huKnqWj8LGjmTyhDLZ9Oce0/z/NWxdRbgY16knSkXSwElrpcX/yGYMxxLFZoQ0wEdfZ0gBkYQ/aIRhjam5J3yJw5cWfJn3BXfnAHH6bi5W2OKeZp3W/lZTc73Ye2y6svm+roWe7cmHcysIFlqKnkqdCWs2HNONg9CI5bSdfIWL+06jYjOUcu6r3snCh+EK44WWXAGC4snwS+w8L0AwTYzkFEud2F8b9i9nQelIfBH+q4zaI5T2vMWp4oRRPx1QWybXVMAgZQyAZtUFgzPyLuCqTYy+nekV2x4DiXIZQKrXZZE+uQ=",
+  "URL": "https://www.haskell.org/haskellwiki/Regular_expressions_for_XML_Schema",
+  "LICENSE": "MIT",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1587640365",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "ghc-libs",
+    "haskell-hxt-charproperties"
+  ]
+}

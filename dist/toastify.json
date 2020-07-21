@@ -1,0 +1,23 @@
+{
+  "FILENAME": "toastify-0.4.0-2-x86_64.pkg.tar.zst",
+  "NAME": "toastify",
+  "BASE": "toastify",
+  "VERSION": "0.4.0-2",
+  "DESC": "Commandline tool that shows desktop notifications using notify-rust",
+  "CSIZE": "437196",
+  "ISIZE": "1363232",
+  "MD5SUM": "e49872a8c4ec9337bb2b6131588d547e",
+  "SHA256SUM": "c7fe4f122fdf75c7498b9979cb26f4081377d0bdb0d7352ad5b594b0accde0b3",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl8EfVUACgkQeGxj8zDXy5LjKA//YXsJeoFEDOHCbsseej9gvRENjWIdcjDj9UaEY46eqkldmAlcdiv+Trbj+62ffivzGcRDQUfXCqpBrgl/1P1LPpTP9NLBbgOffL2oqc6serIURNlQgv5sAvPr4uWyRrgQvykBdYtq43MJjRgf46JSyxoHqu20kMrtQUlYQRNdP8K2pu78/DdYXLpRu/tG9fmeZkcW4HpM612d8h+XMHCc4MSL8XBjJe7gF/ozbaohFvti1R0fchnIYjw6r24GiNhjey2JAx9LrSMSQg1ue7tkwrREvDIsrv3pDG3p4KGeYgjrjQ+pbPYF3YTpdodG2BEwJf90KlXYjv6Ry0xfE2BonrXvkd/V35EjVaRJ7q8C1z7GedNzP5OxhioEFG1psA5F+URg+6DF34JF+icas4Oe1Ug6XlVF2dn39ySS4LJPvU+lV994PC6HblHDvicjtgXMn7lFdm+J0/ktjsndvBXrl4K+qs3jmezkA/4NvofPdO39elsGxDiYPm0ko/CESm1bATBROSPqa1Z/TLnI8oMiLYbk80XM81YiBJNsakY7ZzBJZfDOqveS0QiQL3o1BRJzaJ2J0viIFQmWUJg5+YaGyyzdbzOZnD/v1SRlxXy2PZwb/JKGhcRFrGKK0ExAF0ImnnfwJiaXc1lLz5N+ebGazKzVgAC3Agj1+Yy+5l5dc5Y=",
+  "URL": "https://github.com/hoodie/toastify",
+  "LICENSE": "Apache",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1594129681",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "dbus"
+  ]
+}

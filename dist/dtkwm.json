@@ -1,0 +1,24 @@
+{
+  "FILENAME": "dtkwm-2.0.12-8-x86_64.pkg.tar.zst",
+  "NAME": "dtkwm",
+  "BASE": "dtkwm",
+  "VERSION": "2.0.12-8",
+  "DESC": "Deepin Tool Kit Wm",
+  "CSIZE": "20871",
+  "ISIZE": "56462",
+  "MD5SUM": "81ddf0002af0cdcd0ed834bc685877be",
+  "SHA256SUM": "d8b63a2e1f133829a38b4cab05301e29f166e25753be3662012041157e45f32a",
+  "PGPSIG": "iQEzBAABCAAdFiEEFRnVq6Zb9vwrc8dWek52CV2KUuQFAl7NZv4ACgkQek52CV2KUuRhGwgAl3MF7aEuQSMXzRfALCDx7aa5Xe5nT+4JgOW6sZOLv03ngTslvv847IXH1XcvcgfjxewfpfTCIRbawf466aMRdekBV7tnrc87yIullxUkJLXaXTQqJ0YqsSY4GLxWXZaNy+BkFAjGd4OYLo2ZjiosZnbhRloZnLT0pd/jv4NywIvekOB2BiTOAQJZIKBpjmqAPB8QvMN2vqvYXspoV9fWKtRWNOk+SwT+XyXrkZiYSajdN76QvkZ3FAABGCOFTKwO2KLkFVAg03YZnmDFpHNKQTlA2+A7/UQuLu11yes+oSfOeTIHWrn5M8djAVxUYwSKQmn8umA8m7fRbcaLDSeI3w==",
+  "URL": "https://github.com/linuxdeepin/dtkwm",
+  "LICENSE": "GPL3",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1590485073",
+  "PACKAGER": "Antonio Rojas <arojas@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "dtkcore",
+    "qt5-x11extras"
+  ]
+}

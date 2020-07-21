@@ -1,0 +1,23 @@
+{
+  "FILENAME": "sip-4.19.23-1-x86_64.pkg.tar.zst",
+  "NAME": "sip",
+  "BASE": "sip",
+  "VERSION": "4.19.23-1",
+  "DESC": "A tool that makes it easy to create Python bindings for C and C++ libraries",
+  "CSIZE": "188559",
+  "ISIZE": "502021",
+  "MD5SUM": "b8dfe71b98297709d10ccb3c43b5266e",
+  "SHA256SUM": "ff595a619f8f0c7f0b8bbaaf26dba3691523d6890b091d61f41fcdde63d78b59",
+  "PGPSIG": "iQEzBAABCAAdFiEEFRnVq6Zb9vwrc8dWek52CV2KUuQFAl7eRhcACgkQek52CV2KUuSt4Af+O96TMkWDY0Nx04zgzD0vh5fpVZ45MhUVzQ9NJ2L4hBmg4YpiHW9xtlH4ZPGPIOmmGnnuQ+7h2rWcMbCIPU7fIwGgQ43rHgt/z4uqtBV30507vHhwZvxZVV7Y8H6M/Pyf+OeWmSRKEG66AfU7d7a9pcPblMViA1J1rwW2/qENKEPTkBLfqYJdG2AMI2uUHwHzNpb5ZcaU8Oqrcob33XBRx0YeiVRR4YA2QJYdrRJFDeT+86siaSt8XKJi0TwXW8tEJbQm+tG7/7AOwEefxALEsA0Me3u2Ysf0JkOgixjm0Ki3TwHYWFGFPKgBQnfWp3Wjuu7byH5LSJr2ZEInrx+vug==",
+  "URL": "https://www.riverbankcomputing.com/software/sip/intro",
+  "LICENSE": "custom:\"sip\"",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1591625154",
+  "PACKAGER": "Antonio Rojas <arojas@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "glibc"
+  ]
+}

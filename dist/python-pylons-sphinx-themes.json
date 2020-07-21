@@ -1,0 +1,23 @@
+{
+  "FILENAME": "python-pylons-sphinx-themes-1.0.11-2-any.pkg.tar.zst",
+  "NAME": "python-pylons-sphinx-themes",
+  "BASE": "python-pylons-sphinx-themes",
+  "VERSION": "1.0.11-2",
+  "DESC": "Sphinx themes for Pylons Project documentation",
+  "CSIZE": "137504",
+  "ISIZE": "169591",
+  "MD5SUM": "766b9767928099c52e5440aa19f1a4a0",
+  "SHA256SUM": "d0bf6425612b242a864b3c05a79965511d6ccb028bab792f07b5373c588bc111",
+  "PGPSIG": "iQEzBAABCAAdFiEE5JnHn1PJalTlcv7hwGCGM3xQdz4FAl72DwsACgkQwGCGM3xQdz7Bcwf+KUOpJ5xq6Ocaqw69ekGtfoWzqrDx1gVS5kjKmXyLQ/i2/fKf7+vsbK8E3ua0C5TfjM6PjNkXZ+h6pdwRrVMjzQgOpCmzxR4TyTQvAD2Ap2uIpBacyvhmpp38oCw4rkFFr+Q0+w8C+pEIkZEaegQAx/XU1cQCK16V3Oj3gQLm1YkTPWmOumexv3Hs36MYT3oIB3f9q3NExtO7RobtP9oxevKOQn8AlsUyFD0ky+1DFo2PSfmT114csrCg2R2sBjrHqRJFMDBkYbk0tW2ShD94Ig+iXGGSyMNeLWW5wNljbFe3cKheBofmiIawlCw5uCeGo8lfx7u1zjETh195VXx4pQ==",
+  "URL": "https://pylonsproject.org",
+  "LICENSE": "BSD",
+  "ARCH": "any",
+  "BUILDDATE": "1593183957",
+  "PACKAGER": "Jelle van der Waa <jelle@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "python"
+  ]
+}

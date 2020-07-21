@@ -1,0 +1,25 @@
+{
+  "FILENAME": "python-simplesoapy-1.5.1-5-any.pkg.tar.zst",
+  "NAME": "python-simplesoapy",
+  "BASE": "python-simplesoapy",
+  "VERSION": "1.5.1-5",
+  "DESC": "Simple pythonic wrapper for SoapySDR library",
+  "CSIZE": "14192",
+  "ISIZE": "39203",
+  "MD5SUM": "b5aef53463c7f228d6407bb893ced48a",
+  "SHA256SUM": "99cf0051f4e70b0b71faab0c5ae80f79426cbfbd270e7b48784bc4df15ba38fc",
+  "PGPSIG": "iQIzBAABCAAdFiEE0jW0leqs33gyftiw+JPGdIFqqV0FAl73pk4ACgkQ+JPGdIFqqV1+QA/8DonsBpbBuUw1ZFtzajiSziqmxSzms1Fu/wR3exqrrJ9g1JeK6+6SGL9HZCm6eAsrFyDh7qrhlkkOVLjHgGa4G99kJ+6mJVfeyiXVTbKXpSZ/RSPsweMuvrDl04vII5hWMa+NCFtZw/k0lZfN6xecDrjJGEBPXKqmrvYIt8VeNNuQcRf2KHJk5g2tHfP7Qok+S2SkEjF/l66JzgeBVXSIunD6mvDQ/vcjnqWcVXjo1lJqA/3iJS8ZvCAv/An6yQHchW6c8VkV9UoiRsJpue7UXvsmfGwQwui+MpY8WvL4oVf4OwfakvJjSBVWysTNAjp47yKd7e3YRr0qVaocp5VPszz7VBsQu6t8YjIwlmHx0bUtBS1TM0nk21arRN4C5nFeVDDXQvelBJqJAb+u/Atc+FweHJT/hymlfYaDF8oSUr3x4bq7NceoYEg7II0nTWI5DfBGEjwF7nK7TyyXjDjeACNCWiBTmlPz6Bh2zwft9fhaDr8XN5KAn/f30IhWRqDhwMwoW4XqcQv/tWrU7Am5SHztdaZmIdWnktvdeYh1Y08Ln38CrOIxuPg3zrgAgvM+PFHSGZbk/o0N/D8qNVO8Jf1YXf/VhF2Azwy0HZLCsHlqmPe1oRVl9tIEEq8/Kgft0JodmaeehUExhTtO8oXghlHlKyWBJhN2tSkrQZxJYoI=",
+  "URL": "https://github.com/xmikos/simplesoapy",
+  "LICENSE": "MIT",
+  "ARCH": "any",
+  "BUILDDATE": "1593288224",
+  "PACKAGER": "Filipe Laíns <lains@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "python",
+    "python-numpy",
+    "soapysdr"
+  ]
+}

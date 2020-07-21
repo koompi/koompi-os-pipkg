@@ -1,0 +1,23 @@
+{
+  "FILENAME": "xsel-1.2.0.20190821-1-x86_64.pkg.tar.zst",
+  "NAME": "xsel",
+  "BASE": "xsel",
+  "VERSION": "1.2.0.20190821-1",
+  "DESC": "XSel is a command-line program for getting and setting the contents of the X selection",
+  "CSIZE": "18660",
+  "ISIZE": "41130",
+  "MD5SUM": "66926ed13e93de4f287e414378b64ab9",
+  "SHA256SUM": "50844c40433754b9d31b08bff2f435276df99439816a9d6be93c0e98ab925327",
+  "PGPSIG": "iQJGBAABCAAwFiEEPlGL8lJv0Zeeiq5JZcEQwepDP8cFAl5oyMASHGFyY2hAc2VyZ2VqLnBwLnJ1AAoJEGXBEMHqQz/HqRgP/0W/xzfrAKDb57MA2F1BobMhcjgdJB687JiouFv3OrXEOvm9wNDc67gseeyXLomen2lJJGjM9El30XIun/U8N3F5T4SghjzuGGQyFSsQa3rv2AaNaeExCh1VFufhEC6RvBw7A8xgYHUBsKwUbIzzAHARO5fHPN/pf80saEEeG+RFedcXcAqMAE7AByJlPEEuzQeClLpRmyc8gNcuIfrxOlPyFlmqrstP47ZDs51E21MEGGlAJ/wPz4oTyxLTzsKJnhqF5zy2IrYguvFaFqGxyuuUrSI8MEOOwUM0+h+f7g5WxWvLBlzraZLPa/NHmByvfNQn2C9WBipggdFf1KgH/UFzl/quSJR2ocCY4M9b91u8BsdydqAKu1KrvajhXyhqWFM/6BKBwYsCpnhZy12eIDoUtRWuoQlnqRFd08tTu0/ApA467dnU7ELwpOSMaHWorCbZeWUj7uR+WOF2+JemVtKoaAoZS/F+BKMYXNZ1AIFoxFX80QzX/EHrPdHC9EnSvCEOiPFe9ER7DPlYf0ydcSporsnXSp1WnPgIqHr6Qk+kW+eUtI2PIBJYKb/busICWDoOjklvVTAIEioCaSTiKF32LRog7lfdSWJwdUmvhyAFbBRcae2MbzZrnff6EHLipoL+XDcP7Nwze0GnqiXV7nC8l8H96gmXvomJn64lAD1S",
+  "URL": "http://www.vergenet.net/~conrad/software/xsel/",
+  "LICENSE": "custom",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1583925121",
+  "PACKAGER": "Sergej Pupykin <pupykin.s+arch@gmail.com>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "libx11"
+  ]
+}

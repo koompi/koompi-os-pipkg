@@ -1,0 +1,23 @@
+{
+  "FILENAME": "perl-net-jabber-2.0-11-any.pkg.tar.zst",
+  "NAME": "perl-net-jabber",
+  "BASE": "perl-net-jabber",
+  "VERSION": "2.0-11",
+  "DESC": "Perl/CPAN Module Net::Jabber : Access to the Jabber protocol",
+  "CSIZE": "92868",
+  "ISIZE": "438131",
+  "MD5SUM": "185b46d80dac0947e874c0a460b0daf3",
+  "SHA256SUM": "2064646dfc7de543f959654da96c0f9d9c7d6ff50dec694fc1d8a64025660664",
+  "PGPSIG": "iQEzBAABCAAdFiEEhs/8qRjPOvRxR1iAUeixSKmZnDQFAl7vhPMACgkQUeixSKmZnDSfZwf+I3LDbuzSQaxYsFSvmMvx4VG07tGFIL03GBSFcyIjPvGjbJeGfUzF7DGH/F4rzaGZmiPNU6aCCILNJ6+liEj4zrgMtIeNvn0KGLfXOpgQlkPtrWmsO1/WyYx84vZgSnUoG+RzWsipvsNkFor4TJwGKtS5tAzyAWgi8JQlDZWzPjV/7dHBjH551L0NCDFaAGiG2tLqY5hzNJ0DNzPWl0rggveatgX9hIQvfkiSVBx2ja1lbj4+Qvu3LKXOWrS0Efo2ikCGtkzeofY5zT7kQa1DWjRrP7R+VDbWbszDMjh5Vf4TquA2TFOJcqyQopA5FI6gCHJh3hepkppDhkSKVFl+cw==",
+  "URL": "https://search.cpan.org/dist/Net-Jabber",
+  "LICENSE": "GPL",
+  "ARCH": "any",
+  "BUILDDATE": "1592755426",
+  "PACKAGER": "Evangelos Foutras <foutrelis@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "perl-net-xmpp"
+  ]
+}

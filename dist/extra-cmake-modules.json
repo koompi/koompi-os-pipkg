@@ -1,0 +1,23 @@
+{
+  "FILENAME": "extra-cmake-modules-5.72.0-1-any.pkg.tar.zst",
+  "NAME": "extra-cmake-modules",
+  "BASE": "extra-cmake-modules",
+  "VERSION": "5.72.0-1",
+  "DESC": "Extra modules and scripts for CMake",
+  "CSIZE": "274213",
+  "ISIZE": "790005",
+  "MD5SUM": "2dd99b05c9b4b0b05c4f4d8fde5707c7",
+  "SHA256SUM": "fc7cdfcd157404d3138f13c297f209dab3b36c79aeb2c4bfbddf6961c91f8f94",
+  "PGPSIG": "iQEzBAABCAAdFiEEFRnVq6Zb9vwrc8dWek52CV2KUuQFAl8JX4AACgkQek52CV2KUuRFTAf7BQhgVjBfwWa0TYRxczed1udOKijorDEro9ZTGF9djpS3GOYE+dWHkhDANrle60a7NEyTaTMwKiVplpK/PrfUdWl0nc72NkptDt4HAkd4nHiJmmP3An3u7iRot9TBoGog2XEbP5h3AJqe+rPc6S+hjvt/fpMd088bmal2ytUSKqrt7jo3qYIrjdPuyXaW0pzLgMEWcsMs4VdrsR0cgCC1Bdmivk94mUD/XQ2XML5fKUNFuAwCymc1msyAxr0DiSYoXup3a3fWu8WPfsKsGQb0X6NBcbtcDXyULU/W7sy5lzXgx/krbZWAEq7991h5z6yDwX92tjBmzba0k/v0bK+SBw==",
+  "URL": "https://community.kde.org/Frameworks",
+  "LICENSE": "LGPL",
+  "ARCH": "any",
+  "BUILDDATE": "1594200208",
+  "PACKAGER": "Antonio Rojas <arojas@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "cmake"
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "FILENAME": "ruby-sass-listen-4.0.0-8-any.pkg.tar.zst",
+  "NAME": "ruby-sass-listen",
+  "BASE": "ruby-sass-listen",
+  "VERSION": "4.0.0-8",
+  "DESC": "Listens to file modifications and notifies you about the changes",
+  "CSIZE": "63916",
+  "ISIZE": "196038",
+  "MD5SUM": "c9ae72c8affa7e5e4e901bc627bd59b6",
+  "SHA256SUM": "7c9e91a1a69b8bdd2dd535d0e03b55707552af19a592a6ba0421524284370d11",
+  "PGPSIG": "iQIzBAABCgAdFiEE4kC1fixGMLp2ji8m/BtUfI2BcsgFAl6/JfMACgkQ/BtUfI2Bcsilqw/+OQAfsp9+MSPrCSRgqJhxhr8znxq31aQE6aLk/3GFlcMXCK7UjyBqDI/WQbsZDvnAv9WpC7kUD510z2MMxSQ30ZKYhPzQEcN0HmUxmJNmSzwuBBbTAkHEQLwrpMLCaxBkzjvZbgWorz1w4yGkHvT2A63fVaBW2OBUv+XL9EAjHWqhNVFfBVI15KrIA6u5k4mT/o+3E/+gqOF9SUUtcoops1leMRDYUu9GU1At7STj1gJIxpuXMfd8bgS6p9xMMOIjrTL3ejGfb1ymmnokZM4dBWl8v4odUbyNDzpxMeVBybSl+SJavwjD9MEFUDo2rGCxP7TRQyoyxa27/JpTZBeX1txuMuLMAjz0ZvP0NK6IGEtD6M3x2cQTMIK6SKnkN3S/lJgmLIK5OMgESg44FtYXIj6pCdA/6CIV12mpj9QuqVUCwQrC3Pt2nkusWN9yZ8zw4OL+8NaQeA3AIV+VgRPrY0KAWMbEzaTVsTm34LqmytiLodZaR/ZoEyMCzhHY1OJBCjJzVrB/GzjPpKiuymCcTBCy6VRkioSBn72WbTwfH5t0Yc2IvkJ4pZTo/+vwYfYT4UePN6tiNHJNOVReHtREE/NBvEP/maCEZzE14mre7nrTiVRbl7eBiXs9a5dldUKXelPfhKKnbcetUW7zC3YoxGF0oEqcVGnDRgTcPDfr2VQ=",
+  "URL": "https://github.com/sass/listen",
+  "LICENSE": "MIT",
+  "ARCH": "any",
+  "BUILDDATE": "1589585365",
+  "PACKAGER": "Levente Polyak <anthraxx@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "ruby",
+    "ruby-rb-inotify",
+    "ruby-rb-fsevent"
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "FILENAME": "tigervnc-1.10.1-2-x86_64.pkg.tar.zst",
+  "NAME": "tigervnc",
+  "BASE": "tigervnc",
+  "VERSION": "1.10.1-2",
+  "DESC": "Suite of VNC servers and clients. Based on the VNC 4 branch of TightVNC.",
+  "CSIZE": "2127223",
+  "ISIZE": "5656683",
+  "MD5SUM": "bdcb45d717dbf781ef449d9ce19839df",
+  "SHA256SUM": "e26361630782861a6d221fa1fcc2e2228e65712a6117ebbdeaa58c3446f82a07",
+  "PGPSIG": "iQEzBAABCAAdFiEEhs/8qRjPOvRxR1iAUeixSKmZnDQFAl6w+LQACgkQUeixSKmZnDR6NAf5AQ/hFPSyErz+zXtAmpROyag/BbuKbjH59quplZSVd7cQ2BMHMggEb1Ns0bcF3/dKsAK2Qx3zUDHWXbbVEsaed5udOND2AC9yNvlPWyTlWTPQKU1PgjNJUPq2IUVhfgAzUsULkKwkdoKq43eRorEs+oK2W3aAr3O60jXhAjJBL1QIQ30064JdxsBiduQzSoVBTZvlZSTgftKt5QIee9e4cFNOYdKCavicFab0FC1i7rRaqxuXTKtCTKv4yU6+Hwhf7uX635swmF/QQSacyNJo4gliqqWFyceWf7lRVbkbMw6RNjtZO24sm76XBfre/m9/pyUVzpAGdcDw56uMZ0YboA==",
+  "URL": "http://www.tigervnc.org",
+  "LICENSE": "GPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1588656175",
+  "PACKAGER": "Evangelos Foutras <evangelos@foutrelis.com>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "fltk",
+    "pam",
+    "gnutls",
+    "libjpeg-turbo",
+    "libxtst",
+    "pixman",
+    "xorg-xauth",
+    "xorg-xsetroot",
+    "xkeyboard-config",
+    "xorg-xkbcomp",
+    "libgl",
+    "libgcrypt",
+    "perl",
+    "libxdamage",
+    "libxfont2",
+    "libdrm"
+  ]
+}

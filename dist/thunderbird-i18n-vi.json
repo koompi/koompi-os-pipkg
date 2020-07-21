@@ -1,0 +1,23 @@
+{
+  "FILENAME": "thunderbird-i18n-vi-68.10.0-1-any.pkg.tar.zst",
+  "NAME": "thunderbird-i18n-vi",
+  "BASE": "thunderbird-i18n",
+  "VERSION": "68.10.0-1",
+  "DESC": "Vietnamese language pack for Thunderbird",
+  "CSIZE": "561757",
+  "ISIZE": "623422",
+  "MD5SUM": "d4505dfe2c815aa2151b51f76a9ba7c6",
+  "SHA256SUM": "efe299e72459a5904f235959e31c9078388cb7279886782bb35ee211685d7973",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl78eGkACgkQeGxj8zDXy5JlHg/9GYhet8O05AV4ixeY7deQVUKa0wGvS78ARlpqnv9SeHKzKJBV9XXkQvCZJDzLaD8s+MfOpVKtgbtaN54fBJF+P8MFs6LdCGAVQvm3fJ7lJwHzr9IkXofyxOF9duGlTqnTXdAlqxWJWLiOvcZDRDd7dZXE4DvdxTPmKRo4Paamg9Ruv5CqWwJRCD8149pIWxZObzsJ8SrTposdCjR4msTQw7QahjaIrdKr7NncOX3SSef95C5chCVCR97jFCa8h7kOLn4QxuCORGZ6K7OAead2zisIJGjClMDv+K5125r10w9PsHHKIgM/c05jC+f2AsmrUmxUkS5MJBPfdvMf5jj6TQd2lJOFYE/v61vU5vtu/F1In9srqfF4xeB5zDBKHXl6kBWYDOnhIIp6q7O48IdBOhxMTGp0QMU/eDQHV+7Dl64ZZe1PzrEfid5f1MoA3X41RB+QmQr0HeoxoUvERIG0r1R/U5apEV1GEbEk6ffz4lTMt0ElLRNtqv6UVFNT580f43oqLmRI6f+XuiY44inhvFzGo9C4ytLTfP82akplGjeefht7s6phJjK42w2VEJhGs5ZnYIyIMbEoV/ZRUh2gRuxDWhq1rxQ0SMrzDasomWQpK4tKLx1vIjANdZaZeEnFkQo/khKCzkdR0Ah1Eby3V30WB7XU0+LlYCvCXPMWYWQ=",
+  "URL": "https://www.mozilla.org/thunderbird",
+  "LICENSE": "MPL",
+  "ARCH": "any",
+  "BUILDDATE": "1593603702",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "thunderbird>=68.10.0"
+  ]
+}

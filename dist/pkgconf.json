@@ -1,0 +1,25 @@
+{
+  "FILENAME": "pkgconf-1.7.3-1-x86_64.pkg.tar.zst",
+  "NAME": "pkgconf",
+  "BASE": "pkgconf",
+  "VERSION": "1.7.3-1",
+  "DESC": "Package compiler and linker metadata toolkit",
+  "CSIZE": "59553",
+  "ISIZE": "160086",
+  "MD5SUM": "74c8dd17b14b87f6285646b622ad6cc5",
+  "SHA256SUM": "ceb4ad818172c5a68a1710936fef97b2bd6b94ea5cef6e8a0903de466fc83125",
+  "PGPSIG": "iQTHBAABCgCxFiEE5VD//9SF4mShcX4wkBwcMg6w1F0FAl7T38ZfFIAAAAAALgAoaXNzdWVyLWZwckBub3RhdGlvbnMub3BlbnBncC5maWZ0aGhvcnNlbWFuLm5ldEU1NTBGRkZGRDQ4NUUyNjRBMTcxN0UzMDkwMUMxQzMyMEVCMEQ0NUQzFIAAAAAAFQAVcGthLWFkZHJlc3NAZ251cGcub3Jnam9oYW5uZXNAa3lyaWFzaXMuY29tAAoJEJAcHDIOsNRdVN0f/2rQJ6RKNNXsm4ziZHNZs/EcdQPJbiBZcrX2socJtKe300HCj6JldAFoAcC5h5nMM5qogzdsMpGmvJNKN6V5Tij1zuRUhmcOrQyZRP1GayY4dx3j2kWBqUtuSeuTx1o6BIqf8+GaI5LpYN7v9bTatF1gej1O/0LRsk4qIoOhv3GpK2R3JNcyqWUI9UqsSch4TCVdZpNbOXQgJ9gcxc/8C2bs7y9lnA6YgdTzSspw70bCyQuPX1s/sXqQyNkg5m2FBXjKx+wAKEZKCLPzO3GjXmR7jytm5skm5ZvJHf92gh/D/YYZBMisRGS1YqZiCJHcNwDcyJ1muxluJStbE2FtKqDNVOE0rp5zhl0luh7/a8M2DnKOzmgkPFPG8tdrSwB+atNA5V+ySrhn5i95OWDVPQfIzTKf+SNNxk71yAFBaG/5rQKN0w60uUroTsJuVwzB6e3clCus90IEFDe+d2ili0vMyH5F22j288ru85fXNoSi+kvu4fypN2bptsvgfgusABvTG0IqPxdcOyHbmjXl2tp806C/cP1zNs3/wqiAylse+fEFMz/gO5qAvHl5QGZiIGdSZ/VcjbRiZPiE4HxbFBZcUVXi16maufGwSS3HkRxMDhRjt+vN/Cu/Qzy3ufzliXvtDhDTjh21OhCwrYV8JsAN/zlNNphhTBjq20YdIrMk2hNcjxvbQiHzp+mumjMyyXPWdgulvn4x0tg8o0juGoAoscNnOxR2/CD0aKJ5/+u4arh0KiQB2fXOOueIZ0HoTxPVxyx4/mfxIWuQ4zA9wZHznUWQcV6YqQPx41C1VUuENkVibU0j39zlUbEAXYoFgYjfyAGC/zyJw59kafyooncv2P1kvM2K2XJ4Kx9S32/s6hVMpLYkVJIBc6ZJs3fR7Xv+qpgldYpTokRo28o03AVcEQgTussJSCwmpR4yvjvy84CHNiMOe1PW0jU4KQlrVsIAtKI4/AkRvU03ppzMpf3A4LyFSQDKtSQOS17WOCWy8Lf7XN6Pl6UT9C8eW94jUsEXitjyWWGVswQPmmZ3LoB7YFzvX05iFmFLBjhtkWa6itf5SexW1waBsnIbmMP27n3ytnLHLRxOPVRf/88kzuQwOPi1UuFb1+o/4eTsKm0Zy6TB+mJmEbe/WCM71TcT6TANFfTvZN/BEyKJQ5LgE3nDh8TaTlGgsTxamcAh0n9bFBomnLqXUAQTKbrzd37nU0s7Gp/Ei4cYkX9oaSt5aP5VJR2yYYpQGU4hRyEhkoEyHscr7vmhaAQt59GlHvNsG9qe31vnqPguxgtQ67kSatzkmW+gs87SAChOiYSXvgb4ZHivfnqIhkr7D9yV/I/51bm3zKBzSUr5CGDPbtDjXgs=",
+  "URL": "https://git.sr.ht/~kaniini/pkgconf",
+  "LICENSE": "custom:ISC",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1590943623",
+  "PACKAGER": "Johannes Löthberg <demize@archlinux.org>",
+  "PROVIDES": [
+    "pkg-config",
+    "pkgconfig"
+  ],
+  "DEPENDS": [
+    "glibc",
+    "sh"
+  ]
+}

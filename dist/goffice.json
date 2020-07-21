@@ -1,0 +1,28 @@
+{
+  "FILENAME": "goffice-0.10.47+2+gfcac4d61-1-x86_64.pkg.tar.zst",
+  "NAME": "goffice",
+  "BASE": "goffice",
+  "VERSION": "0.10.47+2+gfcac4d61-1",
+  "DESC": "A GLib/GTK+ set of document-centric objects and charting library",
+  "CSIZE": "2336744",
+  "ISIZE": "14234281",
+  "MD5SUM": "ac0e3060f52684535f913be67025b402",
+  "SHA256SUM": "81f765d21a02056cb381e15c9d36f7e53f62b4d4c461fa58c8c658045a938b5c",
+  "PGPSIG": "iQEzBAABCAAdFiEEqEuNxzq4MgZ75Uw8l2rG+juU+hAFAl6/BYQACgkQl2rG+juU+hAiHwf8D2Uy2qYEdu91Qz861MvVK7PPJ9zlFK2lrcgJg9C8mR+RgzEm1cAl/L/umN3e7wyCEbnzO2xcmoH3q7zyDC9X8Fwbt/0HCPwvJrN1a+q33Eq8+R2LW7kZkP7KJdUsuZU6zo/KZqa0q2DCcRrGworRqXJytusPyt2NRNf3DMMARVSuKqGNLqDCijgq6sXPbNO1jPhp6o7Hgpx17eRrU5UgDzn9gw5h6tPYOYcErXeGUqau5n1BH5k9GqY687zpmeh91yaGiKUwoEGOXQXUzZpROV3H1rE+bGcDN0PJCPvuJbKZvHS/MHKS0DrncyaJtjoQMYxYa9CfxjsuXEdYUm05pg==",
+  "URL": "https://git.gnome.org/browse/goffice",
+  "LICENSE": "GPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1589576846",
+  "PACKAGER": "Jan de Groot <jgc@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "librsvg",
+    "gtk3",
+    "libgsf",
+    "libspectre",
+    "libxslt",
+    "lasem"
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "FILENAME": "perl-acme-alien-dontpanic-2.1100-3-any.pkg.tar.zst",
+  "NAME": "perl-acme-alien-dontpanic",
+  "BASE": "perl-acme-alien-dontpanic",
+  "VERSION": "2.1100-3",
+  "DESC": "Test Module for Alien::Base",
+  "CSIZE": "11508",
+  "ISIZE": "12058",
+  "MD5SUM": "53b13e9af65d38caf6598db5bb319f5b",
+  "SHA256SUM": "4c118b950b7f4fc568c78de1283d52586cf65d6bb3dcb7a9700ca0c517be6969",
+  "PGPSIG": "iQEzBAABCAAdFiEEhs/8qRjPOvRxR1iAUeixSKmZnDQFAl7vepwACgkQUeixSKmZnDSOgAf/Z0Q49n0txnfBnhdQrvxGka2f2kPSECRLyfg8UPaD2hlC0qEfV/IesKfIWTNqVKnf8AYm9mG0kbkBIZgIGl9deVKcuuKKe8IZEYWFKntD1fZAA7BJ/jbngqn5kAblcGcW5/ha1tmGJ6yoiAb8Y3EecoNri9T0Q/NS3WjChgNiBq6lH+XHHtX47EoUh3Zel8LOFoIz/iUtu6uLtI3C7idVxwvuKRQFtvZxWi0idtUQ3sHzlI9Iw5jyDTYrIzLvPSufush3DktDHw6sCMKQ4P/q/xd+9ntg+pQRATXZBp3yv9gAG9N/ecoUQmV7NoVSAKBdT3G9LRWqzJizIgVobQurGQ==",
+  "URL": "https://metacpan.org/release/Acme-Alien-DontPanic",
+  "LICENSE": "PerlArtistic",
+  "ARCH": "any",
+  "BUILDDATE": "1592752778",
+  "PACKAGER": "Evangelos Foutras <foutrelis@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "dontpanic",
+    "perl-alien-build",
+    "perl-file-sharedir"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "FILENAME": "python-shiboken2-5.15.0-1-x86_64.pkg.tar.zst",
+  "NAME": "python-shiboken2",
+  "BASE": "shiboken2",
+  "VERSION": "5.15.0-1",
+  "DESC": "Generates bindings for C++ libraries using CPython source code",
+  "CSIZE": "168026",
+  "ISIZE": "417738",
+  "MD5SUM": "f576df51ab990c1ef15556ec0683fdad",
+  "SHA256SUM": "4641740050985362eb14e87d2ec813e81f57330d9d5ac47b5d73de1ca35f0184",
+  "PGPSIG": "iQEzBAABCAAdFiEEFRnVq6Zb9vwrc8dWek52CV2KUuQFAl7OZVYACgkQek52CV2KUuTszwgAmEbSeYJCnStFXInAY5oJMZ2quv+flZCBWyRvypvEFdC8aG9n5qVx0Cv3VCZCFdeLFP2OyevqiwhqZrQ1oJt9f3/jGgnJk0skPBhhFxgk+7jJT8Zd2FQnkAQcT2cTCIB9cThyTCfQElz2zQuyLgZ5tqZJWznpXVlYcMwQAAGMku0aTERfpy+hBRwtDdVTJeYpVemqI2+JdpQBiFmFc8bMsAvuGH9fClF7n34Wnl3AcNKmrKP67R/8cE9t0/wzZatzLnO0iwATsVhY8eHqSO6AppxHuiKKifnbdjngaCzXCIcJORGR3fKm5Nnbt4GVMxrYIafm80MERhQ1Pieo7rB1tw==",
+  "URL": "https://www.qt.io",
+  "LICENSE": "GPL2",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1590584576",
+  "PACKAGER": "Antonio Rojas <arojas@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "python"
+  ]
+}

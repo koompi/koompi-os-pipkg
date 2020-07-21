@@ -1,0 +1,26 @@
+{
+  "FILENAME": "netpbm-10.73.32-1-x86_64.pkg.tar.zst",
+  "NAME": "netpbm",
+  "BASE": "netpbm",
+  "VERSION": "10.73.32-1",
+  "DESC": "A toolkit for manipulation of graphic images",
+  "CSIZE": "1911600",
+  "ISIZE": "7803103",
+  "MD5SUM": "afaad5e4250d4a485066f90091aab7a0",
+  "SHA256SUM": "617a9a622946f38200706bf2b49c3b46b7acb035293573e0371a118d19ca93f0",
+  "PGPSIG": "iQEzBAABCAAdFiEEFRnVq6Zb9vwrc8dWek52CV2KUuQFAl8BqFwACgkQek52CV2KUuSXnwf+LCaFenG1WVCi/xt2xlOT7b4Oi+y2rUxS3Dc62G4VY8W8ubpoR1iCpE9cM6KxgVZ5EX3lsGHezOx578T0ZJ4KtT4YL/drXNyn/aeBFdzOlVaxr5eJ7mWwQHZjwvVkHOmXN/fWSUyg6JdrLFeNwUERn7ETkLoDeglmEkrEZGPfvcqgm/OoEcHlbJ9gBEjzdLEi8jwvHM5nHGJ1Ji9oDOcmr4t0ZKixpCHP8LiLw6fS94InbWgbL6q5UfXbdSIiJiHTi2swQKP5P4+I37ltZN31YirHqMZmIKT26bETb3iRe2LAcxiIwfGzmOKoliV+fI1Wg3hrBDz1uj7nTUROIhYInA==",
+  "URL": "http://netpbm.sourceforge.net/",
+  "LICENSE": "custom",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1593943930",
+  "PACKAGER": "Antonio Rojas <arojas@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "perl",
+    "libpng",
+    "libtiff",
+    "libxml2"
+  ]
+}

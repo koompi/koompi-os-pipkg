@@ -1,0 +1,23 @@
+{
+  "FILENAME": "haskell-patience-0.3-2-x86_64.pkg.tar.zst",
+  "NAME": "haskell-patience",
+  "BASE": "haskell-patience",
+  "VERSION": "0.3-2",
+  "DESC": "Patience diff and longest increasing subsequence",
+  "CSIZE": "50874",
+  "ISIZE": "249996",
+  "MD5SUM": "5f650ae6aa9af94a1bfc88b80f9fb9b9",
+  "SHA256SUM": "132310a2d5f6332e93dc387106833e3a117a2b5d0047ec9a1d001cca90c4cb14",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl6hoBoACgkQeGxj8zDXy5LC1RAAjKAfKVJ1fY/D7OBGn6LQKcnflhdBD4zsSYpul2pZB5onCDpZ40g33SqyXS8pjho9v/210ZEx8jz6a+mWEsuvgxl5fJzaJT1lXCtNTLSsLeGuXaN816xa//e6cloYXY/SqP2N7RmA4mC/a0U/47qD7BQjG5BdSodAKdOOdNvcWFtbTl3IpjWgkNdpz7cWQfihlJR5GCH3aNJ3HnJiF66sPBlOdoW6/FFPaq/d3m1dQCG6+X63CwqGemGKPjqKQCNeCvYqOD6KxWlp4U+wOs53QKIWUc7//7Ufqm+y/voOlXbSnbZftJXlmfh1xu9AqvVmNsVzyv6Ou2J8kQ40A95dLYuVKsTWHPtBjuF8akAq6ibNqxhxtguyEmp+zLodizw7/BWZQ+FtUElVd0UfGfiBI030ocqCn/ZUHt+4+N2NA9ty3spE6jN4AmIbmcWLIMRK3lb0TfxavRQCK4XfyKb7+p3fEhqO13ZEZjfmXfYTrtzTV60DMpwH0N+YiUO6mdvcgze+NqMigf07quLVGBV/H7wiHvbuaAX0eDPtYc2e6oI5szT1XUCRdTvQVy0IM5W1+Bt5FM16ZzwsFdn56/vPAEa14YP0vxnIJCa0lG+cBWP7ybDDA2/0zZRKjq1bMo55/ebLBkm2hisi5qulwjopt2MmMYJ0/M4C1jAfQvb0vNY=",
+  "URL": "https://hackage.haskell.org/package/patience",
+  "LICENSE": "BSD",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1587650498",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "ghc-libs"
+  ]
+}

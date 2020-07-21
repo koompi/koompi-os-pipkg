@@ -1,0 +1,34 @@
+{
+  "FILENAME": "flowblade-2.6-1-any.pkg.tar.zst",
+  "NAME": "flowblade",
+  "BASE": "flowblade",
+  "VERSION": "2.6-1",
+  "DESC": "Multitrack non-linear video editor",
+  "CSIZE": "8809289",
+  "ISIZE": "44194853",
+  "MD5SUM": "c01e0f3c43ce4da2cd940f3d39e04cd9",
+  "SHA256SUM": "073ac4887a11ddb1ea9c9a0bd535e841fff55abac392361eb9f66085e40dcc6b",
+  "PGPSIG": "iQEzBAABCAAdFiEEzgvecadZqH8j8PfYth284QkBwWMFAl8CbD8ACgkQth284QkBwWOwJwf9H7jhV57yPa0r4YVtObCZcJXwDdPanCHZMlZJeLIhtle5V/EmLfN5d0gpQ1m1ilmhL8DXDyIjzrih53Gu20CRoYQorNlG6x0TLb51+/IGDxdCffplCZce90rriogx7HI8PZjivjkRz4TciSSjXoSyFBiwlRpVdVY4wiiwrvMnR3mvZXbqzTbVxjpyrusCuQfjcQk/fU7SfSZ10ozl/Ac+hXrthi9w9h8KbCRZpxbTT7UUOVqeEhoF3927aiTX/6xhWAclLXSjtJ4K2LTKssrP77GjKoQGJ95D8KVMMHK81+B2zQVCdx9rDi4Jh77cDhqKaTVpzgEeAomxcxhQNc8wKA==",
+  "URL": "https://jliljebl.github.io/flowblade/",
+  "LICENSE": "GPL3",
+  "ARCH": "any",
+  "BUILDDATE": "1593994204",
+  "PACKAGER": "Balló György <ballogyor+arch@gmail.com>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "ffmpeg",
+    "frei0r-plugins",
+    "gmic",
+    "gtk3",
+    "mlt",
+    "python-cairo",
+    "python-dbus",
+    "python-gobject",
+    "python-numpy",
+    "python-pillow",
+    "sdl_image",
+    "swh-plugins"
+  ]
+}

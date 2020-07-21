@@ -1,0 +1,23 @@
+{
+  "FILENAME": "cfitsio-1:3.48-1-x86_64.pkg.tar.zst",
+  "NAME": "cfitsio",
+  "BASE": "cfitsio",
+  "VERSION": "1:3.48-1",
+  "DESC": "A library of C and Fortran subroutines for reading and writing data files in FITS (Flexible Image Transport System) data format",
+  "CSIZE": "602976",
+  "ISIZE": "1997176",
+  "MD5SUM": "93b86c736f8b7d7f4e1de91b7e9737c8",
+  "SHA256SUM": "42f971760f4d78d89d30c2496b2b56ac1f11a2d0dc63de0e8a30d8501c28ecba",
+  "PGPSIG": "iQEzBAABCAAdFiEEFRnVq6Zb9vwrc8dWek52CV2KUuQFAl6r7dIACgkQek52CV2KUuSRkQf7BwbZvLNUArZKqO2ptZr1FF1OU3rYN9uZ2hir6j1oXIyIRcVm7qlNXtrKPm2RapnnV3zRj4Kt2dOJV+Ivs7+gQCAFZsZ6xoUIKii2LVrCJKtrzjBDNTuXYtiTBYZjLiTl0LODPd87DUr7XUAhAd+wLm9ffsUofpMWhgKxBqwa3oRBWYd2xBQ3gXbow0aAsUxz/kfXl7qvjrVlrj9t6lvYGZmASp0hS4M8W1KBAXZYaPmJqZcRpukUbqDNDKH4sNlEnGRBd+dL1r8hKEZVD3HH2eQLDrIs1IzrikPQKys9xKAq8M7ePt/vLtcUr8FZwdCJjqguW7yDmYlefAaK5GT+0Q==",
+  "URL": "https://heasarc.gsfc.nasa.gov/fitsio/",
+  "LICENSE": "custom",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1588275916",
+  "PACKAGER": "Antonio Rojas <arojas@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "curl"
+  ]
+}

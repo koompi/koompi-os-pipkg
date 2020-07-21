@@ -1,0 +1,24 @@
+{
+  "FILENAME": "xf86-video-ati-1:19.1.0-2-x86_64.pkg.tar.zst",
+  "NAME": "xf86-video-ati",
+  "BASE": "xf86-video-ati",
+  "VERSION": "1:19.1.0-2",
+  "DESC": "X.org ati video driver",
+  "CSIZE": "166386",
+  "ISIZE": "528478",
+  "MD5SUM": "e1d838b68a193c900660b2deadd667a6",
+  "SHA256SUM": "a137deec5f5bf5f9217a76e9b1b7095064c3e9a7afe76758c6cda4ceb264cc6e",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl7AUaoACgkQeGxj8zDXy5JvWxAApM3xo9XxwpZd9AF5aXMoktRLRapeaq/sH7M5APa9OvIk3YNe2spliK6c0QT8oL5D/EzkF6P4j3fU5Is/J19uoGIEV0QOfLtp+eFPoWiN+Gqt6e3o9zgRMCJ9GrEbcDQnMjVbrEpyV2OhXqYkWwpWrb8cZYx9sxbWlYfzqPriCDiBIPBXwr4BzqXC72iepa6JCTRmK9jX4SMJrvnR9TlUaOHyXtvemxn1xjRQxvIMjk+d48OHQ5A28QHVspoUqHPcPJEuTfIVfx2Gj+st1CutSfOeXaE1BgQ33R8nHrbzYExAE4O5n0jkn2nPvinFooBKrhJeeaqKb4krW/S5HadBs8G8VaAJIhoquiMwuHSRltxj9zrnyfMBKYQGK9p1Ki7r1u7QTfIELsRDyAnyiIEBwZDRmjxv/K78vEOWL2DTE21gTf0ZmzBAho6CIh4Uitf6R6c/g43igJd4pc8/4n/KOtrX6arwtDjtlHrort8H4M9yg3htIfskHxIQqgbZQ2wwZKiY0gpb0ESc33cY0PKDrnyg6Hi6rHECejcn4u86zK5/SJVuETLda66rqZrPfRuNkZTY6cPHVpsQ3/ZUv/H2CBvH8XuiA0+G44apfE2rsUe+7xS+1ydFj58u/uAYuQsfSppC7pvWMVb/tpO07mlcQ39YP2nRTXJSmLIs7OSFGtY=",
+  "URL": "https://xorg.freedesktop.org/",
+  "LICENSE": "custom",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1589662086",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "systemd-libs",
+    "mesa"
+  ]
+}

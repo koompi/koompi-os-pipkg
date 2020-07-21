@@ -1,0 +1,23 @@
+{
+  "FILENAME": "python-werkzeug-1.0.1-2-any.pkg.tar.zst",
+  "NAME": "python-werkzeug",
+  "BASE": "python-werkzeug",
+  "VERSION": "1.0.1-2",
+  "DESC": "Swiss Army knife of Python web development",
+  "CSIZE": "414830",
+  "ISIZE": "2229084",
+  "MD5SUM": "a4bc7b74d7e41c8ec1a726ceca388f00",
+  "SHA256SUM": "2dd2ee763689379f57d34fbade1eb98bf06dfc11b4253493c27f8b4fc4c5ee9b",
+  "PGPSIG": "iQEzBAABCAAdFiEE5JnHn1PJalTlcv7hwGCGM3xQdz4FAl61qDsACgkQwGCGM3xQdz683QgAqIr4g0H2hG/tcHMozHKk//SF466aeuoc7sMygoZdV5QVIY37u8bTCSUk8w+U304gY2Y2wWsXfYF1mD8ZlpGUCIxGZmQkn/Lwdko/1uLVYQWoRJZ+SkFSJCjwGZy633zewxemHV4xozY67yg9sK754ojliXjuv1g0G7kvm/KTmRyLkeiHLBcTcBMox5ps8m9FNBI4CzRejYIxCho6uFSWHgK9rarwR87wEnqrOWElW4ubv5p69KB6fAQxg5pwuZfbDAjAoFmTOLEgM+YmbLen8BWUjKA3RvqPH6Pdv9MR+sWIgvOebA1hEzSPUYzQ2WXHIn+FL5BneH1iRXE/cAElfg==",
+  "URL": "http://werkzeug.pocoo.org/",
+  "LICENSE": "custom:BSD",
+  "ARCH": "any",
+  "BUILDDATE": "1588963155",
+  "PACKAGER": "Jelle van der Waa <jelle@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "python"
+  ]
+}

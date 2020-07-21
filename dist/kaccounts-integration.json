@@ -1,0 +1,26 @@
+{
+  "FILENAME": "kaccounts-integration-20.04.3-1-x86_64.pkg.tar.zst",
+  "NAME": "kaccounts-integration",
+  "BASE": "kaccounts-integration",
+  "VERSION": "20.04.3-1",
+  "DESC": "Small system to administer web accounts for the sites and services across the KDE desktop, including: Google, Facebook, Owncloud, IMAP, Jabber and others",
+  "CSIZE": "94222",
+  "ISIZE": "367497",
+  "MD5SUM": "104a548c5e5a8dd15e14d4d2ce62f72d",
+  "SHA256SUM": "0ff3146d755df12f716e244e8766a903a5bf20c2fe9f6730b9bd4676b7d39232",
+  "PGPSIG": "iQEzBAABCAAdFiEEFRnVq6Zb9vwrc8dWek52CV2KUuQFAl8HAn0ACgkQek52CV2KUuS5qgf/a8+yTBDAVa+CcHvB2jdQsPV94yx8UZYH7a7KO96zf1BttkKRkInaAmhforZhSFLXSM2ozNFG/TlZrPUJLBoCPG9Jw6uuQJsX1ntJxhDUCUPoY6jcS7sFxs9ImaXaMt7vQ8AqGLw5+g/Dw2juIoKc9FYFlWjhe3ONKGUrfsuJlDVIc9PVwhgzajChA6HEuhQugVb5UegFyRR3O1uC46muIENiUumlX3SlPWxgOGveiQb80UI4iTjE1FTxI6Tvt5rkNiVjMOuz/bvD9t4zNUZzmulEM4oMg/8ChyrNnlgT3z64jMLWo7QgmZLw/9TQBRQpE5i28gsAaC3hravW1VV/Cg==",
+  "URL": "https://www.kde.org/applications/internet/",
+  "LICENSE": "GPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1594220899",
+  "PACKAGER": "Antonio Rojas <arojas@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "kcmutils",
+    "signon-kwallet-extension",
+    "signon-plugin-oauth2",
+    "signon-ui"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "FILENAME": "libnumbertext-1.0.6-1-x86_64.pkg.tar.zst",
+  "NAME": "libnumbertext",
+  "BASE": "libnumbertext",
+  "VERSION": "1.0.6-1",
+  "DESC": "Number to number name and money text conversion library",
+  "CSIZE": "171639",
+  "ISIZE": "715867",
+  "MD5SUM": "6b08c62d31953dd9e54a64c4782c7210",
+  "SHA256SUM": "a2ee7360028805befeb8b84a095f3872a3e1c7195e4ccd99d3e98acaf5cbe835",
+  "PGPSIG": "iQEzBAABCAAdFiEErcih/MFeAdRTEEGelGV6sg8qCSsFAl7X+DAACgkQlGV6sg8qCSv7KQf/UA0EzWMJas3SSrl5LiUz9bgKY1nz19QyxlfQh0bvp1hidACvVC1LbjEWnvX/QyRoMKSCSPhZGTAKXo1hUKpKWaEgSTSqPmjHDVw4F4KdEVhF+20YVASr1K3FMcLtK9lhbhh49j2sDUxqDe3rjmctsqJzNk4v6yIY7aux8hIye9ndUv6xTnOKq/Q61i4xRYybMi1Zp3uffrHfjS96sm2CxvK4RDZuotx5lwXvLDF1ka9rRe9CSNL7meIcAjjev+DKUE5c+jrGdWt+PvU6iz84/tT5avvuSI1r7ja+Gsvtlt0LTOAlSYS3wxMI5gZsajzjTlMoDp6/nVk9hL03BWHzGw==",
+  "URL": "https://github.com/Numbertext/libnumbertext",
+  "LICENSE": "LGPL3",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1591212001",
+  "PACKAGER": "Andreas Radke <andyrtr@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "gcc-libs"
+  ]
+}

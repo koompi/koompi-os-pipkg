@@ -1,0 +1,24 @@
+{
+  "FILENAME": "python-pybluez-0.22-4-x86_64.pkg.tar.xz",
+  "NAME": "python-pybluez",
+  "BASE": "python-pybluez",
+  "VERSION": "0.22-4",
+  "DESC": "Python wrapper for the BlueZ Bluetooth stack",
+  "CSIZE": "60492",
+  "ISIZE": "227619",
+  "MD5SUM": "6b37633f922f0f1ea51ce311a6eb2dd1",
+  "SHA256SUM": "f5913cdddfb909aa9d6644c664a1b68c9f648f2690e9431a03cd7fafc9571b35",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl2/31kACgkQeGxj8zDXy5JEJw//X4LN/42dCteeG3BBUqUtaI64A4W921jvmya+iRgx3uZ2ofk6Dm1YUP6wbCzivbGof53jW2Jap3jE2KsIX7mXpSvun4mixzWuKaCjyWAs9YOsAn+LL2dnEGUIn0IdI6MTmHr1Or+l/eG4V7tpiq7CiYs9Kt0oMAIB9/a6+PryyXvksNgvg20bn59s2QrF7esya1I2df8WoCpzbK6mB5pfo75ZL1z+NqVv+8rURVdk7Sr0mNdroxxghU2nd6q3+WlSXgUu+Ad1kK6o4dhbzwzBjLSLTOMC6bbOpnp2OME1NnU+vCGSVstx2rb2mzk/hX0vgemMM2BoNJEuZm6xadQOmMGrbTIcAMSIPoMbr4Aj7pM3GoytnhX4HS83cTdvfkHt6GmjGvi9/OAgbdl4er1w5opNRBm3mWL8TtsqG5MW/k5fjEHxfQXLo33yZqeLGPEaSsSkHYvF24ILR9RgoRniMgiWM3yCKIL4G5x48sb2UF/dkYZAzoXt/Lu9ELsNcypw3qKX4lWkhmlupZoICBs58snSDwVW2V/kKFkHw+ZpJ053UCssvfUhEEz+DyWcp9cIQ0d0/2OjwDBikIHUxG0200vWoKOM6tAZqtydVmyqkzfXX5bepqfNDviPG14zj34ptIQVkvUWJzg61y5DvLxaPFjrriCzIenXmFuyKRMyGu0=",
+  "URL": "http://karulis.github.io/pybluez/",
+  "LICENSE": "GPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1572855577",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "python",
+    "bluez-libs"
+  ]
+}

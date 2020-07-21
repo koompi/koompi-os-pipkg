@@ -1,0 +1,24 @@
+{
+  "FILENAME": "libkate-0.4.1-7-x86_64.pkg.tar.zst",
+  "NAME": "libkate",
+  "BASE": "libkate",
+  "VERSION": "0.4.1-7",
+  "DESC": "A karaoke and text codec for embedding in ogg",
+  "CSIZE": "117333",
+  "ISIZE": "338416",
+  "MD5SUM": "99b7585d1d9871fea0b479e9010ce270",
+  "SHA256SUM": "6a66cd24dce12ab5c6c9d7cb332b1f26361c66b13616ff9cfeb6b9074805de10",
+  "PGPSIG": "iQEzBAABCAAdFiEEghj4iEmqxSLpTPRwpekojE+kFfoFAl49r1EACgkQpekojE+kFfqxQAf+LsMqLRggZnke6BMS3pVor/sKNRXHC9oZh4c3L9CzRiY+j0fAChKiwa+erzftpbIgQ1BOPmd4IHS8vVKPjhg3Zsalj6gG1tBxdoNv85brXC5LdeNDR3DFlWAKjDFfvTpjOPWL/rsZ3J/yXcM1+iwogyDrmNXJH13Q09U9p3yS5tNx8Yo51n8Eac0Pti/R3EduQKt+SE6vS8IbYoIQbG8d+OQmh0xWYXGRmMHUsOmyVNlomhXJoRDVC8gE4bRCbj11pxZ2c/O0ICgvfXNnNzFXySU+G24vh6QMvWyimJNhseVe72r+EpOQoqXDVhXrcgod/Pq8x+QLsQOFV1/RHQ2KQg==",
+  "URL": "https://wiki.xiph.org/OggKate",
+  "LICENSE": "BSD",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1581100666",
+  "PACKAGER": "Jan Alexander Steffens (heftig) <jan.steffens@gmail.com>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "libpng",
+    "libogg"
+  ]
+}

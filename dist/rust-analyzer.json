@@ -1,0 +1,24 @@
+{
+  "FILENAME": "rust-analyzer-20200706-1-x86_64.pkg.tar.zst",
+  "NAME": "rust-analyzer",
+  "BASE": "rust-analyzer",
+  "VERSION": "20200706-1",
+  "DESC": "Experimental Rust compiler front-end for IDEs",
+  "CSIZE": "4946439",
+  "ISIZE": "23543479",
+  "MD5SUM": "dd0f99c4b3f0849907b03e6627e543ad",
+  "SHA256SUM": "5036a87ae35816e5e9cfcdb2cf036afceced6df06a7b408bfa6ab4337c9906d5",
+  "PGPSIG": "iQIzBAABCgAdFiEEBNw/sURf7KgTwn766k97MhqQatkFAl8DkfAACgkQ6k97MhqQatkM0xAAlB1h4xc3NYHC3JkLHqoafXy9lG1yBBaAGSwFwKnBlRp92VyptjFMhlm/Mipy7tHw2f05s9+yM7NLrtkfLh0Vp8WTH2wuvYQ9XLZ9HhdmrM5ZhQMjhoYRP2ID3fqQC+KM9aBHfLjalD6SaYxIqcvWU5WUqn4BU+YYD/9YOVwXxHWE2fXeo65CUMCGDBnQhzwCHwshwhATD1AXKnXJq8DReqeRqQIfkBL7zBvBPx9tg65Wckk/cwjhxiAl73i2+zBliZOVd4O/XW0Bs6PUY0s+p3IXyCeWKliJxRqaRqb3L4F1CBIIV65tJKHNIfN5Dl3mLf0CJ9cyxlnBNG/RcbjKIMYsqOLxjOVP6TPG6viH++gxl6OFXqJWoeqPlM9UuMgfMAapomfdL9Aomv4oT6+/XB4Dl4dvtBNrUEU/397nSKvM0K+E+rSQvVuF84+HWj0d6JpUQ2ebmajY1XNoWmHvHW1j5TqORjjUqfPMWfnVg9FR3yAUGykcLn835MzTWxg+41q2f7arHXaqsMhuaHFLXTlv5NRyes3Jat688OjGiuKcmpyAKui5LNC9JznvtBlPjyldimzlzgFQMJsf27FTRrEBYeA8PDKQajvIdex4nc/NvpGxM+qJeuDCuxgoXv/p/gzCZKfTI19rtgJYsdkJBjGiZEuAjAmOj9RxADn/XA4=",
+  "URL": "https://github.com/rust-analyzer/rust-analyzer",
+  "LICENSE": "Apache",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1594062679",
+  "PACKAGER": "Daniel M. Capella <polyzen@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "gcc-libs",
+    "rust"
+  ]
+}

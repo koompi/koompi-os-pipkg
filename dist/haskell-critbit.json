@@ -1,0 +1,24 @@
+{
+  "FILENAME": "haskell-critbit-0.2.0.0-63-x86_64.pkg.tar.zst",
+  "NAME": "haskell-critbit",
+  "BASE": "haskell-critbit",
+  "VERSION": "0.2.0.0-63",
+  "DESC": "Crit-bit maps and sets",
+  "CSIZE": "120281",
+  "ISIZE": "660686",
+  "MD5SUM": "d2b454d3a443fbd02fbe9702ea73b605",
+  "SHA256SUM": "2c665917936f3a05933b450e1b64e0d9b4e21114d607f7464f63943b05bce5d7",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl75AzIACgkQeGxj8zDXy5Jevg//dLXY7lhXpl8VhV+jfafeZnMhJqnLp69SoaJn/zodAXlX5B5AyVRZOUNifxS9M78WsDEHM9PSbvMQQs/gueqqZIEGESeWWVh7N8j8ZtC9NGjFHbxJOy/VDc4ERI+DrRbNx259QnqiJS1S8QS17lewHZwAWlAnBG84yvRP6it1KMc6t5XUdoS/gGioy9CmM6nkEUeIiwXQsmz6LHkRGXLcId+XbVXFXMFiLucNjPWEbtDhgZZytcIenEg5QpaHnXSnDtMO/s0kLOkdIFwefrmYJ0bpG0SbStQjAfR0EG5dT6eGQXUK9nalqC1qgBaJ1QezhEmEr8K6B2MY7mAO09wCprgQjXXh+Lg7+n97qEhJwUksldLJbyTZ9nawInp57oJwL+7GDc3MctqzyBu3HoKoiGKLtS7qXSE0cMDbz6c1DGOsavINFsiYkvGbXl5girx47j5Kkv+xAHR8WnkPrwcdKI2K9ZMSYIgwG/VuXKG/0ELW+U5qcvKoJeQuB44SsF3lTg1id6XcpgofD1la9+dGUdOtAQR2DgiV/iccU24gMqqIBWkhoOmyc2owMrjnoBz3c3y9hAPAQs6QZg2dcDw0oiZn+FzuGxiu2i+DiApFimPPFwFIH9q+IYKw/NhpRvT0c7XAxLHs6y9myhNAliGYlnxMxF+8ncdkolqeeKDNq9Y=",
+  "URL": "https://github.com/bos/critbit",
+  "LICENSE": "BSD",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1593377554",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "ghc-libs",
+    "haskell-vector"
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "FILENAME": "python-schemdraw-0.6.0-1-any.pkg.tar.zst",
+  "NAME": "python-schemdraw",
+  "BASE": "python-schemdraw",
+  "VERSION": "0.6.0-1",
+  "DESC": "Electrical circuit schematic drawing.",
+  "CSIZE": "58349",
+  "ISIZE": "315210",
+  "MD5SUM": "2a16f46982ffda1eb7e0f10bb69d2c85",
+  "SHA256SUM": "bf82d3c49bfc33ae28a50be3959de835c9f6402623871ed11dc1ea2e43e5d661",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl5ELhEACgkQeGxj8zDXy5Jk0RAAmEMZvT8YVL6UN5kFaSDoGPbnw2je8PI9AUwTDDZxVOAS4TIbRO1ICztrdL7YkesoQpvIbPvO+oax5MpWuPnEUmM9f6nnBpIY+fqd3E/JvKSddO774tTQHciY2wHcOfXN7Kl9fzl1nsmlByi9QBipVBtzGwspfdeL2x1m2sRsPUqWIFuhBTz1S9gx1UsZIFF1dTzBP/vL8N2fIJMOJlRoH5PYaer6Em8TFvUmgDKjUjZ5FrzkudE64ML13wm/17obVBRDCMipO/r4gOwx4iyi8DpHfC+XrjhEGKz5oGEL4rxjqEnL0ygs530weBRafYNQtfShhBSLp6LRtupeicUGIhZMIslZEFFca+uJkWWXEThXcRhiE6je4YzjLWV31PuoanGNYxTkkX7PgIrp+j5iGNBHsVhZ8l6WRA3dHkfp4KToSjzu0umVPjFDvPTO9YYtMIYmg3icFSf2Def7t85xXd+NSoHjJJKpLdIKKF1AYY2mbi1pnQ0csJ6H0hEya7vm3ditqhdUc3bM2yhVOiTm0m2O2SS6Cp4oN3vPQhA3pY8jwAhgupHpBaCOTkMXsqtuqDFyEyOMtn8pXPEbU+Lmbq9Qd5V5+6VBuvBGIRjbz/IZiU89RQz919Hu4oCfaFalXcDZvsF9egTuXgNpfANZUHfoqGzxiwvl0EL2bPnplRk=",
+  "URL": "https://bitbucket.org/cdelker/schemdraw",
+  "LICENSE": "BSD",
+  "ARCH": "any",
+  "BUILDDATE": "1581526033",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "python-numpy",
+    "python-matplotlib"
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "FILENAME": "btrfs-progs-5.7-1-x86_64.pkg.tar.zst",
+  "NAME": "btrfs-progs",
+  "BASE": "btrfs-progs",
+  "VERSION": "5.7-1",
+  "DESC": "Btrfs filesystem utilities",
+  "CSIZE": "872711",
+  "ISIZE": "5261587",
+  "MD5SUM": "144b2a2334f20b3bf6ef8130fce5b3e3",
+  "SHA256SUM": "b9909affe5da4f7116bbcd5fa17f938628bf3bee4c994bea0c8a416d12d15a71",
+  "PGPSIG": "iQIrBAABCgAdFiEEVyJOyaX8pvvJK7iqShr8NF6+GPgFAl7+1C0ACgkQShr8NF6+GPgyOw++K8+iUtFs7fdrpaKhS/mOwgz5Pq0z3OY1DUeGpo9AN5QVXYc9uk5VXyf9KDfC73Mb0v2bSlaYklPqEcjQ7iUJpF0Znr4plvc2w/ayjgOrij9piLCFa7DMQn10SqDapBs66J9jzyDLWsw6szUIdYduZsTVNhEmCAoquxkdQEaeVtCCaN6i0yRbaJsnaMC+ifsb9ZgaLT8WhMX0bY/kRdbVi1ik9GhhjNMN4NuRLOEBrdCEYj0pnmwnKn9WaRXGNc620kdUnMlDRx5t/UlpAFx/vtQ6PvbbSRv+SHf/yOave8BHWgAPZsmy5NeYk2DyaRYyJsTXlLhT4SS4csYrNs7ih3rOcA/8s3jkz337FjyoKYcWQGx51aeZBf26yamiDUV5vZnFvUZl7F4Rur3Mf+Zr1twmTA0HlaMFr1usks5xoLHU7KOsZWq69kif9ohKRy9nRb6er3+hZeHddVMOP71qPsJVemM0tq3itXgrRXC0SW9MduvRQNNKLmz0rGj2NxiG3nCQLsZ9jRnZDM6FiPRSUI9CZPBT/Jvdu8JyCd+MzSbEvkSIvjsI8KpRjy3psbC+fYGxI2vHRPraxTp1vjUTID0EpmBg9ZVugKbo/KAmC8qah7dSgbD6FZykg8vb7DgdP/bVR16ZWc/Vdh6bE8rRt0iUnSNekVw1",
+  "URL": "https://btrfs.wiki.kernel.org",
+  "LICENSE": "GPL2",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1593758413",
+  "PACKAGER": "Sébastien Luttringer <seblu@seblu.net>",
+  "PROVIDES": [
+    "btrfs-progs-unstable"
+  ],
+  "DEPENDS": [
+    "glibc",
+    "libutil-linux",
+    "lzo",
+    "zlib",
+    "zstd",
+    "libgcrypt"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "FILENAME": "perl-net-ipv4addr-0.10-12-any.pkg.tar.zst",
+  "NAME": "perl-net-ipv4addr",
+  "BASE": "perl-net-ipv4addr",
+  "VERSION": "0.10-12",
+  "DESC": "Perl/CPAN Module Net::IPv4Addr",
+  "CSIZE": "11380",
+  "ISIZE": "16243",
+  "MD5SUM": "009898d9d25a9392151879b606577358",
+  "SHA256SUM": "f65ea5749ab66f20c82a065af9795d341d5fce907ab8a158854a71fd6041bbb3",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl7vh64ACgkQeGxj8zDXy5J5Ug//cFa+Q/68nSS3k/HT0bgQfu/fVZRZMZR5tPqYHBfg9c4ZSAX3qoi33KXuHHFaI/EGef9JWOfFQeQHQM346XI/MOmQqgR3ScSaJV4tN6Xoer76fxHQeF2SgO4ompvbvaCxZa7WA9IxaEXq5EXkt1Zlx2kq9gRC8l96yqKcIXDT/zWilpsNzhZGr2rpRT5FXPXk+1tOcv25DC4Op3N4sJCqctZS0a+FpWY8PJFO6DGRkwhu9/EtQPxgrbp7XqCW0dOHzxjkM5JWz4sRwXQV1VrzPWrA5U/JoGh1GyGZBkMoaal2/TpgnFR5leZv57vPO2mKF0GQWML5gKBG6pgxEllhAa0mTIVJTSJdwXQ09JMxyhJ6JuyEs49llnB51AEGAQ6YdGyMdxIWUR2Am89pxc7iSNEP217VWs2zf1s4iwxK0StxDcpdD8r2XH9nyEZktCDhSW7kjtqB1eBCNaYbWi480CwNfD34IIJjIQLvBY02cZWPEVBdk6wQ0vcrxRfFt5alEozPaJdu44jZbXOuR3NzZ8UU3ihlUN2i3Q71SV5Hkebhv9adgFj+6SoASSNBbaxGBAmIQj36eNfTw0lxQ0GIe9df4dckYQw2nHjdSaEpZ8pTBRXIBjOagIIbfzLK4GMtqdzo6Z/jZHKH5zUJXApvD4pG3O6OMDE4FtpShA++svk=",
+  "URL": "https://search.cpan.org/dist/Net-IPv4Addr",
+  "LICENSE": "GPL",
+  "ARCH": "any",
+  "BUILDDATE": "1592756121",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "perl"
+  ]
+}

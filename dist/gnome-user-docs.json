@@ -1,0 +1,23 @@
+{
+  "FILENAME": "gnome-user-docs-3.36.2-1-any.pkg.tar.zst",
+  "NAME": "gnome-user-docs",
+  "BASE": "gnome-user-docs",
+  "VERSION": "3.36.2-1",
+  "DESC": "User documentation for GNOME",
+  "CSIZE": "8329088",
+  "ISIZE": "45889584",
+  "MD5SUM": "b8f5ae74e3a6fc73b24fae1397322beb",
+  "SHA256SUM": "58f9ba39c117169094862e27e1508c1e1dfd7015e27c438879dbfddd71eaff34",
+  "PGPSIG": "iQEzBAABCAAdFiEEghj4iEmqxSLpTPRwpekojE+kFfoFAl6k1NsACgkQpekojE+kFfqFdQf/WBIuKobjMp6JNfvYNMmPWqsILsXbbLE32VFb1RgPp+SYEte7xMy/4jkqjRulYdECk2T7bMK5mXDincwuGihl29aurWp4+b6jC7U3vJ2nO+hgW/wDCnL8qxgRCME41YKOa76Nl/CeGQP8Kpm9pQOFgoht994UrLa4Q+zDhxvHwnEnPVMGLopsP/NnvWPPy/Wbv0l720iAo1XpN1V00oIg/MqKgjz33rkoIlZDVkslpJHCVki1gPjROLoj32DhL/Dk5htjDOX2CCCkLKOxmmAj+mqvMCcWCOx8OBSopcOazrYrfmbJUIgpkv3/H2XmRBQ63oZxXiAROi7bXxwwgayi6g==",
+  "URL": "https://gitlab.gnome.org/GNOME/gnome-user-docs",
+  "LICENSE": "FDL",
+  "ARCH": "any",
+  "BUILDDATE": "1587860290",
+  "PACKAGER": "Jan Alexander Steffens (heftig) <jan.steffens@gmail.com>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "yelp"
+  ]
+}

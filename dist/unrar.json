@@ -1,0 +1,23 @@
+{
+  "FILENAME": "unrar-1:5.9.4-1-x86_64.pkg.tar.zst",
+  "NAME": "unrar",
+  "BASE": "unrar",
+  "VERSION": "1:5.9.4-1",
+  "DESC": "The RAR uncompression program",
+  "CSIZE": "142904",
+  "ISIZE": "320424",
+  "MD5SUM": "aa6760b779ce44030c6406c462401064",
+  "SHA256SUM": "9fb3116ca31520b883a7571a294ea01534deedbcc684d8c1fb4861cc0e69103c",
+  "PGPSIG": "iQEzBAABCAAdFiEEFRnVq6Zb9vwrc8dWek52CV2KUuQFAl75pCwACgkQek52CV2KUuShCggAm3f9BHA1wOJvZ405nsCOIF9sHmQM7qF5fyl6RuoMHvNtj5Z8uQb9zsCaJm6uGuNVvqdVWaA2pgoB7346jN4yoAF+WvLUhc3buXS9REqcdDgwpXTYjeEpi+EeLGD1OTuYSHXUm6pj3BBAper6zEslvG1HluGhBtKBjGxHmWUPbfh12uH7PWDVHnG0caLb1WFU3bafPP0CPafQSR/pKcMW0HuSa3Fl7q3yu+q9OLPN9h+vWQ4OOdiq44g8kwmxeZ+aLxyQacfHUpHuavVkClPGcDo/Eajbu0VSQR70qHItatkWVZCEehMwuvuoM0i1VamcBh1OZcU8CSbYmArHjyU3fg==",
+  "URL": "https://www.rarlab.com/rar_add.htm",
+  "LICENSE": "custom",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1593418723",
+  "PACKAGER": "Antonio Rojas <arojas@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "gcc-libs"
+  ]
+}

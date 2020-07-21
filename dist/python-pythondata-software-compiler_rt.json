@@ -1,0 +1,23 @@
+{
+  "FILENAME": "python-pythondata-software-compiler_rt-2020.04-1-any.pkg.tar.zst",
+  "NAME": "python-pythondata-software-compiler_rt",
+  "BASE": "python-pythondata-software-compiler_rt",
+  "VERSION": "2020.04-1",
+  "DESC": "Python module containing data files for compiler_rt software (for use with LiteX)",
+  "CSIZE": "1504440",
+  "ISIZE": "28434023",
+  "MD5SUM": "cfe14d3b7f8bac4107e5a0fe93c2306c",
+  "SHA256SUM": "c1299ca93b6803bbe47e97dbfa92cb79b879ebe96dcd44f769fb9232e2b4dc94",
+  "PGPSIG": "iQIzBAABCAAdFiEE0jW0leqs33gyftiw+JPGdIFqqV0FAl6oPC0ACgkQ+JPGdIFqqV126xAApO7D9XyP1F6/W2NRidGuezPYbG3A4QErcUiII/+/sBY913foGRz2s6JO4+Rue+h96nI6i3qHX7E02sUBxIaM2prPkRdxQMpxp5+QydpA33f1VR+v9+DYKLyuZ3Xq8Wc4XInlWyzTM/nQmM+W3fpqK2wVXCNkXB+T1Guvz6xa6HRHhI9ofs5FLGbboEmnz0OEgok4Xs8CMkO3l0uG48MH+TKY4bO7O+tWs8c7D+emdKuuKOLLrVeUnQj6insWxrGYBpHOOFjV0ozZSJM0KksJqR2mtEaa56I3fPLxD+jFOkI3I7zvYhy5vzFFTFzeL/ehObBmFGHsjaPuvdsyFZYrcMkZaEf/+KJWoxYMImYA4MZMBzbnfVOH/MgoVitdww6VMvBCXsNzzKJ3bM8Tjksx/uRVQRNC71wF1WUPVy0ll5rlmIRCuUiarI1L11OaFU5pJmJGTkFGxtEeIBkpX9CFnnAx0xEevIICr9c/QeeOTCQ4XA9T0b1x0X0u56Hh/CwVNwx+Ix7645pySPN5jiYL007CniZnyEAfLexaj9ZvVSJzKieWKO78eIWiz6XbRGHcEO+za2A/rlKpracrA1ripqa7Ge9f/8w2xkRjY+3b0qil0FJmSnfz+VA6KS9g8xgWOrTxlioNR8+FVU7tLwbOxf5e74OH74eI3/Jyb1VGkB4=",
+  "URL": "https://github.com/litex-hub/pythondata-software-compiler_rt",
+  "LICENSE": "MIT",
+  "ARCH": "any",
+  "BUILDDATE": "1588083637",
+  "PACKAGER": "Filipe Laíns <lains@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "python"
+  ]
+}

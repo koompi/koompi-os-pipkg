@@ -1,0 +1,24 @@
+{
+  "FILENAME": "haskell-wl-pprint-text-1.2.0.1-4-x86_64.pkg.tar.zst",
+  "NAME": "haskell-wl-pprint-text",
+  "BASE": "haskell-wl-pprint-text",
+  "VERSION": "1.2.0.1-4",
+  "DESC": "A Wadler/Leijen Pretty Printer for Text values",
+  "CSIZE": "63652",
+  "ISIZE": "304630",
+  "MD5SUM": "3fb5fb6d1b4a5a026febe2414672184d",
+  "SHA256SUM": "dd0ee25bcac5c4e21d895de743be575606ca3b0dd26680041bbe3deec9be9cdc",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl6iI5sACgkQeGxj8zDXy5JF/g/+Lf8FFx6V8oGWJlG0I8hTOEvVDQk76gz982rgW1BW4wUmrADG090fsVWxHN80GGnY3CTFDF6n+0xV0cc4+69CHL6n6et1vr0vmz0Y8+2JaB2m02Gf+Okly9hofy6WKEEA5fsgeEwyYzUWIZqvzFMy5QlVp0Di21fHNvjUGXpLYdgwZH4A/JCkAefr9rKX2NfvIm0gCo++LwmLLzpoH8G3wSOYZwmCu9mQyFOfzvdR3sTQPpNxlT0ykxCKe+eTNCBlbOy8DO8IlbS3o8qB/3ee2VBttF1PLhCOgPIiMmIlRk5z0eSNqUW8O6AkKHxMBWuwkF1Ud96OYM/w/Z0r67M0XqHAuG3XwgsOvWOQC7woIvq6SzCnLoFnkAuChjByJC1eprQcSAd6UiJV2rPC8cliMu90QS/wB+zwDVWBdmi/Qxyy0rn9qmRlnzLP6mtTM/v6THZ8IyJyp3K5Kbp+R4GXhNFcwfVz/nYD647uO1XqKwdHauGEAHcNwFHY0IASczh7Tm8DqymQaDpEGeJtZFvtubap9Hh1a3xcTLld+WP0uy862rgr2ZCfW46MPcDlOYoPwqS63flXz5WnCr2nOQgNUgfZmS5vHyrMeeOf9282OVOQfH75NHXQ3A+me2NOzeqRI/NXe2RtZ4vXDGLlDd5Avazbq1iE9ONKJ68Nt8lJpsM=",
+  "URL": "https://hackage.haskell.org/package/wl-pprint-text",
+  "LICENSE": "BSD",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1587684163",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "ghc-libs",
+    "haskell-base-compat"
+  ]
+}

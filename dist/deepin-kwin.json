@@ -1,0 +1,25 @@
+{
+  "FILENAME": "deepin-kwin-5.1.0.4-2-x86_64.pkg.tar.zst",
+  "NAME": "deepin-kwin",
+  "BASE": "deepin-kwin",
+  "VERSION": "5.1.0.4-2",
+  "DESC": "KWin configures on DDE",
+  "CSIZE": "362161",
+  "ISIZE": "1413183",
+  "MD5SUM": "9651e6b4ee1cf65071e6ef376f0d38b8",
+  "SHA256SUM": "bb25e24b0011170e97839e01e83a7d81fd5986ad7381bed4a1e6780cea78645a",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl718VgACgkQeGxj8zDXy5LmZg/7B0t3P7HlGJrmKJaBhXe54XTL/NN11UFxkkjJHF3jE2DZI04E0EnEE72eFyPLGNckZ3lTpfa3BC+OJHjFYT6Dwz4v1IfOaT1nREQbffbaow3oySOYMb0pSPrkJEFPSEBKoSe3EYxL2eypfM3juczaOFTyNpW9cLsAAsoWGoWgoAayFA1hZ3vaJc6FvV42YntdLtsLSuzARrP3RGeuPiWZf6y2aAkDJHxoptypo41jKs9HnZUVgxC8pKX/9mmMozKdOrkeyrGUcsLzeMKd992E5Oq15DypGziuVX7MKSb6afXYrykU6mGRW8daGZP2A5/teveCCSqZrOq40xpi4MOSX2BpYJKXvpSCsYNAYrnc+3v/48+4pAz0Ze4+8XxqiZu0d4LauebVrpgv/EWdKEDGdo4gGF+PaToFLLulBV8BJw7GvGD+n19Ev5sf+oY3OfsRggq9GXPcuCB5MIbURiyI+blrpxDQ/Rctwdtf2v7+h5jh1Fq8xIZmhsM3ZVdp9heyLdf8ZBuYFjE1Okt8NJLcgRe5cUc/u8C010MXjqpcu5BWknX4JpzVhjB9PtcZcCyBZVomTTTCEfNSfc7EB7huL8QLFebGV2rku7k3sTEA2xQp2DLS9mZ5VWJO2XjznqIRVTAYXAmjs2bquxg2Er8Dx/EAdoI0CLI0zY9EvcXyzyg=",
+  "URL": "https://github.com/linuxdeepin/dde-kwin",
+  "LICENSE": "GPL3",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1593176117",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "deepin-qt5integration",
+    "deepin-wallpapers",
+    "kwin"
+  ]
+}

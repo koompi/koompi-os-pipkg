@@ -1,0 +1,24 @@
+{
+  "FILENAME": "evolution-ews-3.36.4-1-x86_64.pkg.tar.zst",
+  "NAME": "evolution-ews",
+  "BASE": "evolution-ews",
+  "VERSION": "3.36.4-1",
+  "DESC": "MS Exchange integration through Exchange Web Services",
+  "CSIZE": "553738",
+  "ISIZE": "2318167",
+  "MD5SUM": "e424be5d5344d9fe278f98f9541eacf4",
+  "SHA256SUM": "053a234bc3cad36532de3518dfa60cc3f8bcd6e9a2cc9228fd18d71302093d98",
+  "PGPSIG": "iIsEABYIADMWIQQGaHodnU+rCLUP2Ss7lKgOUKR3xwUCXv9nmBUcaGVmdGlnQGFyY2hsaW51eC5vcmcACgkQO5SoDlCkd8e3igEAoCIVpPhZRaC/TgTBEhLjrw+8QZwGptco0XRzkpYxDskA/2W361ulD9bdy8r4v+vlDGBZD294c7opxfg6ui3BnAAE",
+  "URL": "https://wiki.gnome.org/Apps/Evolution/EWS",
+  "LICENSE": "LGPL2.1",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1593796273",
+  "PACKAGER": "Jan Alexander Steffens (heftig) <heftig@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "libmspack",
+    "evolution"
+  ]
+}

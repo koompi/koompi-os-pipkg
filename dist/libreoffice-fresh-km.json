@@ -1,0 +1,23 @@
+{
+  "FILENAME": "libreoffice-fresh-km-6.4.5-1-any.pkg.tar.zst",
+  "NAME": "libreoffice-fresh-km",
+  "BASE": "libreoffice-fresh-i18n",
+  "VERSION": "6.4.5-1",
+  "DESC": "Khmer (Cambodia) language pack for LibreOffice Fresh",
+  "CSIZE": "3280327",
+  "ISIZE": "27918022",
+  "MD5SUM": "caf84b6ebc8590d7fb8e8b2f301bbc49",
+  "SHA256SUM": "52d333087758c0faf275cdb0dfecf80f8030446691f7e48e34d6ce22e49bb18c",
+  "PGPSIG": "iQEzBAABCAAdFiEErcih/MFeAdRTEEGelGV6sg8qCSsFAl7+FxgACgkQlGV6sg8qCSt+Xgf7BGskYV2XI8CTDgKiJ46kZEM5akRZugHvO8LhRx+5mllr7WGtPyPgyCCe7PsB6qse+bsnsBMyHul3NgHwBlmoc/THHm3SfnjWvVTduxjQEPg+3YHXa8iZM+bLnIDJyXDymuJsJ3lJDCMlN3K75wvARi6UPCuqSCO/f7bdIIxjw1mBFz69lxPH2bu92VtllUDPisM/E9QLtZK9vF4oIo6ObYxjp/2B55Y+DFlzE35O9GTYkaF5I3aZxflUd8lnnLne5UuGhEOrUjAEumixC3WxZzdcecK0DitLKhvcbtj+0xP+9VsOnO/uxNTzUOA+9jXed7CLJrePoxNzqSUMVBZSYw==",
+  "URL": "https://www.documentfoundation.org",
+  "LICENSE": "LGPL",
+  "ARCH": "any",
+  "BUILDDATE": "1593700315",
+  "PACKAGER": "Andreas Radke <andyrtr@archlinux.org>",
+  "PROVIDES": [
+    "libreoffice-km"
+  ],
+  "DEPENDS": [
+    "libreoffice-fresh"
+  ]
+}

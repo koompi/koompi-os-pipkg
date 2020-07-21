@@ -1,0 +1,23 @@
+{
+  "FILENAME": "python-cleo-0.7.6-2-any.pkg.tar.xz",
+  "NAME": "python-cleo",
+  "BASE": "python-cleo",
+  "VERSION": "0.7.6-2",
+  "DESC": "create beautiful and testable command-line interfaces",
+  "CSIZE": "34628",
+  "ISIZE": "148253",
+  "MD5SUM": "7ac474256f3589b77d5cc3fb91814e29",
+  "SHA256SUM": "62e3be8f314b42a5c55d4d0e92f73a4e98d86eb325dba61dd0e0cd1b5abfc0b0",
+  "PGPSIG": "iQIzBAABCgAdFiEEYEETBMCdNmKDQO7/zrFn77VyK9YFAl4Izo0ACgkQzrFn77VyK9YrMRAAzf9pZ8bC0z4Ha2MEy+UtnMgII+LL+EgNMYTUzxLhKvWzI6y9pcswkoyWUQyX39vuTjUB0o+oWvWtRRF3+HJX6oV+cGYTvbp8Y0vsvS0OjGL6g1NMReSpYeKjww38b2Kk3B9wwC3QXThQ/z9KsNofq1Dm5/l/E07KulpM0bBE59amTphwI/zCPET4tOQtCgBr2xmEaemEQJrLWD90RAmymIdQXWvBznIwOVjXtIi7albFbQnafJ2b5M+ppaDdWx3s0PqHmsNooAXka+RQTT31rNNwB77vRJQjR1w/Ix4D0n5IlylNpeAs6cr1C+thsJr14LUji9266rBIoSVTpCDb2hXuaqidhPex913ovqj+/nGxf6wPmph7O+rXz4CxBxaj2GzbVEnt4uc/who3I4h0MUMBUo/xED3W+7+USy31eGnCTwyI5PFofQfMiJta0Vl8R/GSyMVavEh84vh5w9WwA9O373WC0VrokwDw7KHc4sCTjBRuHN4YfJt8T/QB2xzj/ChMxXynQOByL+PX5PHcE26HDmIX01I9VF9xTI1xakRrFMbIOmzrnG82dRuagSvgfc0AJavMgdgANgxKPaO98oYMSv/N7UAXXbHtnxXNRKCXZ42YDGQfiY97KHxIUotqQL8sZlz8JP8rXqG27faFEWt2IJhSPngbvbL8JxQut/g=",
+  "URL": "https://github.com/sdispater/cleo",
+  "LICENSE": "MIT",
+  "ARCH": "any",
+  "BUILDDATE": "1577634707",
+  "PACKAGER": "Eli Schwartz <eschwartz@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "python-clikit"
+  ]
+}

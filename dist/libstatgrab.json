@@ -1,0 +1,24 @@
+{
+  "FILENAME": "libstatgrab-0.92-2-x86_64.pkg.tar.zst",
+  "NAME": "libstatgrab",
+  "BASE": "libstatgrab",
+  "VERSION": "0.92-2",
+  "DESC": "A library that provides cross platform access to statistics about the system on which it's run",
+  "CSIZE": "110832",
+  "ISIZE": "440063",
+  "MD5SUM": "eeddf26907be9d1e7038c78d3d7cb6c9",
+  "SHA256SUM": "5ce2a7e62fb2d893d5a21320445f18347ba8df335294a750c9912e50fa809de6",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl8EqCUACgkQeGxj8zDXy5JnEBAAl3v/Am3H3Du+N9Vh6/cgWNfSHTGnAQkjVO2M8kP0HdaCFpCmaGNNbXEzEqdbjaFtTBg9yoRIlmqSsYPX9s0umLyJ0SwF+TwCqKTJryC4ku2GdOlre/ZO1TOacz2AVr8urun9zNDazeDEdKDwSzouFUH/7WjUgyJ1PfnJeKxY5F6JdiALxJ/71yvqixNKmhrLPQ+YBppN8ivQuWVCZVLYV8ReitBP6qLl51h08XZNMg4209XBtjc0wiDqeMW64ltoxxwco02AcWBtieWpozPnuWyg89XfeOUCPkznzLpX0jIvYwacY9ic9l6mxdvk6VAQbPa1t7EFAHNzsxFnMRZpcODF4yPlRA0YFzeQGvup3MhIU2I5LK0dQifiLmeLqoP3viCt66cCUbcE8016ypMC6TKNlRt+Qzm6N4Qt5lfuMXv5EbfNeB+bzq4deuPO/Q7XQm8ZR6fB8iL1eFenAw7Gs0MnwktFdkB1vpUdz6I2NxXtTe2UPDKDxlhE0FNcvnleSfD4tb4W4Pda4kvEar6IRpEhRHcxxl74DD0q06zlYVXAbhd/7Gu2HdqLaVfRLGRFUgjPC4juMz8Sha5VD0D4fRsY9EfFwQ+GLz99LYtLENoNwmFgrbHSSqjwCCvJvPqQA3YO+AKzj+KwTSXeuAONdP3OF6gO2KOt8lZpxmPT8Bk=",
+  "URL": "https://www.i-scream.org/libstatgrab",
+  "LICENSE": "LGPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1594140563",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "ncurses",
+    "perl"
+  ]
+}

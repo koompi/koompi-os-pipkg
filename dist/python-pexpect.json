@@ -1,0 +1,24 @@
+{
+  "FILENAME": "python-pexpect-4.8.0-1-any.pkg.tar.zst",
+  "NAME": "python-pexpect",
+  "BASE": "python-pexpect",
+  "VERSION": "4.8.0-1",
+  "DESC": "For controlling and automating applications",
+  "CSIZE": "77885",
+  "ISIZE": "325471",
+  "MD5SUM": "3c21f2ac21fd17ce9e987d67d98c9e1e",
+  "SHA256SUM": "1416f0ecdff39f76dbafb6b7190000b5144a3ebf1c60a1cb1593b4209181c901",
+  "PGPSIG": "iQEzBAABCAAdFiEElihV8HLHoBhGQFhk/PPIy1z5yNQFAl47K58ACgkQ/PPIy1z5yNTmkAgAlxKSCjt/chxHTQ1VAO4jDcQlAz1wuafc7BVnFwNisaSB1AuMxVChCbmPOE5PxJ+SqjlMok4+r+b/7FushpmDom7Tr3/heA5KUcQJGUFKCAOORlNf4wgqijt25T2i3gVcHGnDrq/HnybLmQartm7QZKsqys3/6HOgxTJT7Suwgxyrnh934klEfEvF5iJlYRCVBd7h30DI7oSoG2aHkv6aVrQABOXRpujEs2ShIb4DJgVOfhDfcO2PVyGsRM4PXsClPMHWgQwv/lq0b4SZ74y0HxumrpscW1Onx/TcmMhbSg6BR2q5yTDXMRj52piBk+Pdp8PONpqaZNvlMzoW5DvZiQ==",
+  "URL": "https://pexpect.readthedocs.org/en/stable/",
+  "LICENSE": "MIT",
+  "ARCH": "any",
+  "BUILDDATE": "1580936065",
+  "PACKAGER": "Alexander Rødseth <rodseth@gmail.com>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "python",
+    "python-ptyprocess"
+  ]
+}

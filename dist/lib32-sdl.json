@@ -1,0 +1,26 @@
+{
+  "FILENAME": "lib32-sdl-1.2.15-8-x86_64.pkg.tar.xz",
+  "NAME": "lib32-sdl",
+  "BASE": "lib32-sdl",
+  "VERSION": "1.2.15-8",
+  "DESC": "A library for portable low-level access to a video framebuffer, audio output, mouse, and keyboard (32-bit)",
+  "CSIZE": "175604",
+  "ISIZE": "484352",
+  "MD5SUM": "a3286d0bf4726dcc6bcb75d26c6f11c4",
+  "SHA256SUM": "e2316ac28ad41aae08362181a3908ec10a658865d77f42527c84ac1cd320b028",
+  "PGPSIG": "iQEzBAABCAAdFiEEU1+MAzlFDwVKTSgnBglqatHO3awFAl2Z9nsACgkQBglqatHO3ayFRgf/VaMYZrCWNG8Nk/kEiLVEMqBpDK3dVribImhsQFEauK08NXbjfm+gZExKWI8iig8Efv6/ycCOUlkMKV3kfcu5rozE8ngTeM+G9A06hlgxi9FGHa+URpkHS3FdR7t7sPkRvKm8dQNPQAX+2JXKTURdaD7ctuZTa3FnX30HIkBZrHB2YHyKjZc6lzzcZktMqp0unXjtsLBAy+ZTKCOA497JnpCYWBFNtOq8LtNnQCu1JY255sM7g/3zWKxQDcu3JC5bCY4NkKPyzBudTqBLyblxHI06ZVymQaZcrPlyD5TLWdLsf2/pHkhkhG+f8+mu0p/sX6RCIw8p3c28n0AV/OCqwA==",
+  "URL": "https://www.libsdl.org",
+  "LICENSE": "LGPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1570371001",
+  "PACKAGER": "Laurent Carlier <lordheavym@gmail.com>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "lib32-libxext",
+    "lib32-libxrender",
+    "lib32-libx11",
+    "sdl"
+  ]
+}

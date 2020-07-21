@@ -1,0 +1,24 @@
+{
+  "FILENAME": "haskell-here-1.2.13-137-x86_64.pkg.tar.zst",
+  "NAME": "haskell-here",
+  "BASE": "haskell-here",
+  "VERSION": "1.2.13-137",
+  "DESC": "Here docs & interpolated strings via quasiquotation",
+  "CSIZE": "35021",
+  "ISIZE": "130654",
+  "MD5SUM": "35265e2a4294a9ffaa4739ef08395cda",
+  "SHA256SUM": "9ddc1f4ead2b3c41b1e8c83d30de12fe718c07e98626552742b1f63d92df9b72",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl75J5EACgkQeGxj8zDXy5LNRA//XeCmOciHeQKOU2ISzwqWEAs2nJeGdQ0ebFzTF15TYhf+qWEI1QCRlul7ijqPJl+cXhsiubcPZtBN3KVwYU0aJuHTdZkD0mdlDYrA7bFyCf2gesumJq5jG2SzEkRHLafJhF9Xtp8QSrC45Oy1LME2JO5pniBkySsJGVm073s/y+ex7l2Qmm5ZgF2EfAP5BfQdUU8bZtgnSUt7cwgZEXfJqw09mDke8giBMVu+pb7Ut27e6X/ygSuyVss705A4biaELwJQ0pUvgmCxx8rrV0Aq43vjrreTaekLpV9fBVw61kGZNNLJ6ns2k5RPhhb3LnNG0EPZ+1WeW+DjVVSXxRqT/xXZxKsn58CCCdzpJMzlL3OY2uvcD3dgyghQdMxBhrNs+C4kCxU/mw5m0V78992zauTS9tqu1g/rZ9UkziokLaG9pz9toGZOzpz7HfD49FpbDxi93n/92mrlU8s0u4R+7xwQPiFe/lHKSbMGNtw//CIMzkHjMSKc0sPqvfIpKBpOXyOptkOR3OjSUfvXMZm82WzDE9rNVKkzWmm3L5bXAamgclLVDAK+QYI0RTbVeK5fHwPoVXthreIDAte25rU8t7JeNaUlO1PItkcVgpCPXabre4slJ74c9i3fu6PAN0kWLc8I2F5uyw2b4WyzliDiVxuoy6a+XQJv75g+83HF4sY=",
+  "URL": "https://github.com/tmhedberg/here",
+  "LICENSE": "BSD",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1593386870",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "ghc-libs",
+    "haskell-src-meta"
+  ]
+}

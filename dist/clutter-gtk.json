@@ -1,0 +1,23 @@
+{
+  "FILENAME": "clutter-gtk-1.8.4-2-x86_64.pkg.tar.zst",
+  "NAME": "clutter-gtk",
+  "BASE": "clutter-gtk",
+  "VERSION": "1.8.4-2",
+  "DESC": "Clutter integration with GTK+",
+  "CSIZE": "50012",
+  "ISIZE": "262295",
+  "MD5SUM": "66ee9c2f6d711217c1061f8d3538e99d",
+  "SHA256SUM": "ac45207ab14606a5cb87fcff5d77a171dbd483a955ca7a7b05689d82cde30755",
+  "PGPSIG": "iQFIBAABCAAyFiEEZkWwqMcAXnjbHXhk+Z/+D+rpmb0FAl646Y0UHGFsbGFuQGFyY2hsaW51eC5vcmcACgkQ+Z/+D+rpmb3g+Af/fuCD+tCDNkoGL358dfKzeD7l4XbRJ+eL4IoPJlaDPXN4wIO4/NsrpQ9+7R1yuzGN/RmNG4ojcVwZ/PVGGkf9dSWxtpHS8vWdlQcQDKuVb5dNOAWS7yOp3k5XSK5gIMXjGavqiMCyeRsZdUb9FeDNsUVwdxC9eVNWq8SdTzPVV+Lhib8vmx99Vz2fqeor/gB8rKRGfOxmMA0l9a7pE1CcLqCvVu9/O5q4jPyTYd0miwSXrMvPVxr++Id5+GSMBTKZ3i/gJKZhLwpXGWIoxSLILjYo0NahSdWabpZuRoiPrFmvUjCidJ/ZVJr4Zd7Z5VtLCpo4fqTMvKinlsBCQn6qKw==",
+  "URL": "https://gitlab.gnome.org/GNOME/clutter-gtk",
+  "LICENSE": "LGPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1589176619",
+  "PACKAGER": "Allan McRae <allan@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "clutter"
+  ]
+}

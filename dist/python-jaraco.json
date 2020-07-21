@@ -1,0 +1,25 @@
+{
+  "FILENAME": "python-jaraco-2019.10.22-3-any.pkg.tar.xz",
+  "NAME": "python-jaraco",
+  "BASE": "python-jaraco",
+  "VERSION": "2019.10.22-3",
+  "DESC": "A gaggle of idiosyncratic and questionable wrappers for the stdlib.",
+  "CSIZE": "58096",
+  "ISIZE": "223291",
+  "MD5SUM": "b861b488a2a784a1fe3178c7b5d3acc0",
+  "SHA256SUM": "e12addfe72dd9eaf4d4cb760dde73edee76fb96d662f52421d8c646e7a3f881f",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl28PIoACgkQeGxj8zDXy5Ifsg//T0fqL7fHk+uuVIE83Er29CDSS8MXY9QF7Dgzi0p/GGfEqB44ZKSqstBqojwhAZfQg1ss641QAxwKB42gq0JMiXyOkyZoShsub3PDyuuefDNH0+fFo7bkshWoq3fvvAV9JSaxJr73wNOKMtSApZ7iieDYimkx/uiBvCptKOXlqWypnhnkWVTnM1eiLKj3XlphDNwmQcd9DybX1LU8PNhaoHHJikq6ctueOPm5i8QqYE4B0deB8xP9vfY7IHLVqMhWWmB0eohBSdstN/aphqu+YhOYx91cW4UWXnYAAFiNs+DfamUCSTrr/QXihPwCH2P5hX4STYrqbfegiYY1MIf1Ln+AnJZ3mjsapKk7Bmu3ZojsY01jietXTK6cLgSAH1DP3jzXEwTRq6Ou3NjrWGf7m7aw2ia5210OY2FunhkoR/numQBrxTV0v8Am0axJ7OaVYcBXxvo+x3kFjKt9ppnJTLZFE/zLZhx17QFK4Bb2YtLC+JujTXufqNEdkn8SbkBvkYvuGEfucU96bJ8PBt79QWbOWSsKTKXWp73DKYDZ0hrVS3lPTWvoY/zaaUAcu7h0qRsxAQHrQhngDv0E/9ilzF1EVpXKEBWFcNyIm4NdXeawKqVezqIhGHzOHVgT1HcR8Izg/uilq+8yPhLvJOtVNIo1jqfXJyUKQnDfmuQzBzw=",
+  "URL": "https://github.com/jaraco?page=1&tab=repositories&utf8=",
+  "LICENSE": "MIT",
+  "ARCH": "any",
+  "BUILDDATE": "1572616922",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "python-six",
+    "python-pytz",
+    "python-more-itertools"
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "FILENAME": "pekwm-0.1.17-5-x86_64.pkg.tar.xz",
+  "NAME": "pekwm",
+  "BASE": "pekwm",
+  "VERSION": "0.1.17-5",
+  "DESC": "Tabbed X11 window manager",
+  "CSIZE": "267876",
+  "ISIZE": "818176",
+  "MD5SUM": "ebbb5c242a15dd3440ad2fc415c27b2f",
+  "SHA256SUM": "da13f03ab76407b2762424254ef604f3af35a07e18b5309d053345b27bbde375",
+  "PGPSIG": "iQEzBAABCAAdFiEElihV8HLHoBhGQFhk/PPIy1z5yNQFAlvonwgACgkQ/PPIy1z5yNQ8twgAoUhWDmncg/1cT8/ghGk7F+GDLQ7DWVe+eno0SZIl0875jyvKEngbn8p0UklkeezDDihiKMaLbgOZqQk4U7DVgB0BCOyoLUtzBROSXl8ppWx+mNlbYdn+Boop5rXRW7a5mmW30ddkXU/zSZCtQrN8fiPinvCu2aI7fHHOXp2t6WTIc48vcNFORz4JVdn3+GxvOPRx8/1kH4kNLkzR9zbKCA97snMpmtOSEAu7wzP0cxZU4ZBokjbeffk0Ocb3wiXjEp+8mHpWjC5/MssbfH/y15J8nbJDxTCNzpAhNgX52mxgtqru4HRKkgY2txQmAtzF6qnwyehJU/EUgTS9D+tV+A==",
+  "URL": "https://github.com/pekdon/pekwm",
+  "LICENSE": "GPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1541971542",
+  "PACKAGER": "Alexander Rødseth <rodseth@gmail.com>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "libjpeg",
+    "libxft",
+    "libxinerama",
+    "libxpm",
+    "libxrandr"
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "FILENAME": "ruby-rack-protection-2.0.8.1-1-any.pkg.tar.zst",
+  "NAME": "ruby-rack-protection",
+  "BASE": "ruby-rack-protection",
+  "VERSION": "2.0.8.1-1",
+  "DESC": "Protect against typical web attacks, works with all Rack apps, including Rails",
+  "CSIZE": "32052",
+  "ISIZE": "98086",
+  "MD5SUM": "027572ae6386225e16295b8a2df37954",
+  "SHA256SUM": "9887e8f845beecb0e22f556506ac1420c28e69d83d2e3e214300d5c927211b0e",
+  "PGPSIG": "iQIzBAABCgAdFiEE4kC1fixGMLp2ji8m/BtUfI2BcsgFAl67PE4ACgkQ/BtUfI2BcshO2BAApAvuXkCUE29837ADM2Atq6nJG2oQX9EaOHQp4wfROUOaDV8kjB7jKvlqjapuvA//L9un8jzz/iBCI/MZye/1KV1LfgUFLbGVDFW2cSmdesSAZ69PJrdBZFAGqJG5AfdBkXwkjAuIjytOgiuYVZTPKb3iF2Amcyh10Tc777H7Jv3WukYowE63FzfM+jeVVOuY9EK9u8tgYHUwc3+8lprrM6gYi0D39UFB0pSwcH+OvZUP3PpTMr4FFtk23++1TMIkvWjr2zEXnOrv2JMOIUvjldG1IYj9wXG0mh3rpUU4nsb0gvGKUonSLDaeYphSvlOxfcdgF7ifTaPsnqZcHxdrlObplsSht9g+OIeQZIDP1QSR5K9oKjUN2Q2NoD5SRKY1iSOJ2FWSddRbvZLXwNv+mT6A7z5eGktHwrbvHN6w4FN9kl/wMo02MTBjI/UqhuFn39To82LVu0lvFXmGs0rVhJKEPwxGKuKwsCUF4OOA1HsDVLqXqjZtTtsdYa8+ejMK0zbOLk2t8EwNCh0CYDmnOyMGXtTjibhE6AKclityBKr5nx0lunMdpW/01BuDoyy0tXMzG0pYQ55ezFbCCg30Bp16Mj8AyabxpsMEHccE1yW29gn/RjLB4+1RI8pfwhej6EOCmTNG+vW4RG7tdmmW5I22O0MYqqtA+cyVhEg0lVk=",
+  "URL": "http://sinatrarb.com/protection/",
+  "LICENSE": "MIT",
+  "ARCH": "any",
+  "BUILDDATE": "1589328954",
+  "PACKAGER": "Levente Polyak <anthraxx@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "ruby",
+    "ruby-rack"
+  ]
+}

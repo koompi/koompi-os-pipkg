@@ -1,0 +1,32 @@
+{
+  "FILENAME": "haskell-adjunctions-4.4-145-x86_64.pkg.tar.zst",
+  "NAME": "haskell-adjunctions",
+  "BASE": "haskell-adjunctions",
+  "VERSION": "4.4-145",
+  "DESC": "Adjunctions and representable functors",
+  "CSIZE": "150588",
+  "ISIZE": "1067766",
+  "MD5SUM": "438da53c547c666a3705a798f6b69317",
+  "SHA256SUM": "c89592bdd7b2b99302839ec177c51c60bcb06da313515b84ea8e064cc5e2ca30",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl75qY4ACgkQeGxj8zDXy5JW1g//XJb+6jnG4atOdhSvV+4WCEMS9scQkKQpe945KpBLDy+BbXErfRW0bfpZxfdb8QOZnFRDjuFdi/XTLgi0LY77pR6Xf8Xo+LD2AELJViyxDAfe11c7VztBJfki6KeXC4zLh6ZwvBysBly8Ym7qh64/hfvPeaY8y0b10Qyh+TqIQtZa7gPskbWHP5/x/xxbNi9osdXHknfCJwJp/LhA3grmBMwVREcmHYQ6HCWDmrE6mxt/SawliY57S6Wbv21LVA2Xx2kj5XqTe6WdMXJJHVDGnhkmoW5Lbx+iaZhQsWnBrZor+L2Kiw1XbHZPWrr2D41Kc0WTx195PyhjInVvGWpFJ0XaBjrlKmOLcLGFSYJowTzV5SxbaUFG9aPLLErSXjwUA8tQ/mGW80/0z1mTzoolkd1PNxpfy2ZiuaJu/coEoUHb5LlfPgiPNiLhlbyI/AUeqMFIRo6IUktz/XEV4AnWjdfMMgfwJZHNAWSMdC/nnrjfBuROd2MkSdL4hKWNVufb1pEEiSpQL6n85gNB2NREX96QBDvTkTeVAFZQyXTpQudezQpaJ8ThzrHK8dAjrzH9CZ0BLZxXRGCTWzG1FXn8/uTyFEGI40l8js1MbyIdZSPsjhSd2wOiRoDHcUd+aFGs6lfOY2hWJqWSzu0rfWQpIjih8fw8fxnBSM7GNrrL9Go=",
+  "URL": "https://github.com/ekmett/adjunctions/",
+  "LICENSE": "BSD",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1593420142",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "ghc-libs",
+    "haskell-comonad",
+    "haskell-contravariant",
+    "haskell-distributive",
+    "haskell-free",
+    "haskell-profunctors",
+    "haskell-semigroupoids",
+    "haskell-tagged",
+    "haskell-transformers-compat",
+    "haskell-void"
+  ]
+}

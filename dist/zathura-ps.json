@@ -1,0 +1,25 @@
+{
+  "FILENAME": "zathura-ps-0.2.6-2-x86_64.pkg.tar.zst",
+  "NAME": "zathura-ps",
+  "BASE": "zathura-ps",
+  "VERSION": "0.2.6-2",
+  "DESC": "Adds ps support to zathura by using the libspectre library",
+  "CSIZE": "8310",
+  "ISIZE": "19765",
+  "MD5SUM": "df2c5e146e1f02bdc313a90e097f25a4",
+  "SHA256SUM": "94c42bf10ec90240943fc8405883813af43451797fe3ea04413671e1e0e1c11e",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl7L5vUACgkQeGxj8zDXy5IhiQ//VO4GeoABIYgvgyDArg/94L9WsQlzC2nsXWvC9cN2nlYhEUOaLCto5zJgPsa9/Pd2Og1b2F4hJuLRK+FlKQt4y9FSdVMZRXYWxbjbfyHOcONnLxcVC5Ud4oPCra1VSIR+FixcIMz2K0HnGU4USMS3S9y6A1E/frQB9eYROtA6fin9T5KraDii5f99/arENczK7ogBT7mTMl5n465Be69PQ9HpKp7B5inMC++B0ZRDGUYwRNtv+RP/u6odiG2BR1anTKG5PBqTQlffm/FXX4nBMRmVB4u9rUatrGIKdlhuj4WlI1XzxZHcPSArz2bS1386WYH5jECjPappgXTNU7Yk/fUbAUqWhfCkAEGa6y9JpwXQjFA1tblnc0CZ7O1RSEB1GPJ/OJioToavCwqRaQJM/MJg4rL0WsUKeID5WDH77gfoLvzji+kpsnywvaUCux0aV55ZrHIqZ7pEiQHIfvXZZvdpDoDAvryfFn3UCiHPI8eNLsiWsQWA+69/7i0YQAjp0KHt3XMsCdVZyO/VoO0Jv746x9utZ6znCVo1ACOXoo8CD/LkFN90VyDP3iWI20pXgNvL891eojybWT/rAkt3Lu9PLV7XUgROXn5QRcynynKgXyuGt+SGN1mO5roJPRKmUauGWxRS80qmpyn9aM3FMjhjXnObZTPAMMfUgBMYdmw=",
+  "URL": "https://pwmt.org/projects/zathura-ps",
+  "LICENSE": "custom",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1590421101",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "libspectre",
+    "zathura",
+    "desktop-file-utils"
+  ]
+}

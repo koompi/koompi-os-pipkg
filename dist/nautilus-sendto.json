@@ -1,0 +1,23 @@
+{
+  "FILENAME": "nautilus-sendto-3.8.6+14+ge8a3604-2-x86_64.pkg.tar.zst",
+  "NAME": "nautilus-sendto",
+  "BASE": "nautilus-sendto",
+  "VERSION": "3.8.6+14+ge8a3604-2",
+  "DESC": "Easily send files via mail",
+  "CSIZE": "62963",
+  "ISIZE": "221825",
+  "MD5SUM": "c5f62266944871285ff1a941d4e9da33",
+  "SHA256SUM": "30f6a73fa65d940a8db0f3c8b1673b9f82d84f96adbf744f442e7ec789c53f5b",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl6/tIsACgkQeGxj8zDXy5JPsBAAgCN3nAc65sbEXBxzwwF9CALF86XCUZGonWRC4EMTX7XWGv2TKINqu+9OGpSXyMbt7DhtahCnEpMPdAzGmzx3VrKpgODebEnep5g48YTeEvrsKwgTC1OcolFaPoYRN8thVu2mMqT+FXhxrCGE4Fj+2Dmd39xivaLsri30s8WWz/L31C8b0YTvrKCqGwF97QZWJYzjv6XmeOeX2pcQ+FIG4VKvywi6pv9qq5h1GawT9uQDlO8vUWDaYVCrl7J1Oz4vHhXx0kuYol48XYF4E33xEnTDMe1OdurGsLaFfh/s6Fvg0Ds4FPPdKBdKS5FXzjwntW8Rk8VWCMijbmExP53HDPpQdhG61GpyTMGKdCkYiwS/21IWf/zVSmPIah/vgPvShrFXwkyhW12PEqectsCFL2DUn281v/PmP3w+4a7EtTp+opxND/0pKtXphKShiMkr9/zA2GZCl3YSiKX17Qv/xOwH5cAj+UzdS7xit6tCXusnIMZbsW00AzWcoj6vZddXe55fhjGxMZ0yNg0r254Ii8tHTdKPjs+Dvzr3AkTdQYrOp5Tp/1ElM3nWcnNSpekmlvhODEd2QaSZRQ+IDGLqpG2IiP1Kdfnmt3k52/QFG1odYAGnUiOjmzxSpqRJXGWtPT3edPgSTNRlRug3PN8EfeixvgDqsD/ITNfxEqjbxrM=",
+  "URL": "https://gitlab.gnome.org/GNOME/nautilus-sendto",
+  "LICENSE": "GPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1589621868",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "glib2"
+  ]
+}

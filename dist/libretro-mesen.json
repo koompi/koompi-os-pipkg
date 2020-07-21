@@ -1,0 +1,24 @@
+{
+  "FILENAME": "libretro-mesen-2903-1-x86_64.pkg.tar.zst",
+  "NAME": "libretro-mesen",
+  "BASE": "libretro-mesen",
+  "VERSION": "2903-1",
+  "DESC": "Nintendo Entertainment System core",
+  "CSIZE": "1380328",
+  "ISIZE": "4740736",
+  "MD5SUM": "a13e2d6d44fbe245491c287813520da7",
+  "SHA256SUM": "e2ef1e5420054067c8e9ef2a5dc4f814feea090d59fd762517253424148b5b51",
+  "PGPSIG": "iQEzBAABCAAdFiEElDfdOBWnqRaePTlGr/XZUJi8b/UFAl7/aPYACgkQr/XZUJi8b/WUPwgAvF5buuXBKBLE0JXmKQK57fRaN+8o8UUT3hhcAAESDb55BSEOmVPkLSbkmfaIC0sr00EfiAlrmma1m4FoixXOudtBL+zyKT81FU0Db0d6RtGLKnp3ox2a6cZ/sV0b4bGHFMRfAYNAanX0sk5kBB4HCnAuIMAKZUmoyOvKgem+U9gYcEEa+Hh4fWSc2RIVpHFgnYtnj7eaDtoAqQV5ZFz5jH2I4uOYH21iPhS5uPJXY1AKb87iFF8C5UfyGDSgxG8u7wZW9eFxTwhJZxMZn6K6wcDE+nLy7tJKt9RVm7QrcFi8i86z9Sxv5B5nZ/w+F9uiPBfNtqguAq2OYA9zuwUWmg==",
+  "URL": "https://github.com/SourMesen/Mesen",
+  "LICENSE": "GPL3",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1593796806",
+  "PACKAGER": "Maxime Gauduin <alucryd@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "gcc-libs",
+    "libretro-core-info"
+  ]
+}

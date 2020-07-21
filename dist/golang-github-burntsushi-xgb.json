@@ -1,0 +1,23 @@
+{
+  "FILENAME": "golang-github-burntsushi-xgb-0.0.20160523-3-any.pkg.tar.zst",
+  "NAME": "golang-github-burntsushi-xgb",
+  "BASE": "golang-github-burntsushi-xgb",
+  "VERSION": "0.0.20160523-3",
+  "DESC": "The X Go Binding is a low-level API to communicate with the X server",
+  "CSIZE": "159003",
+  "ISIZE": "1943122",
+  "MD5SUM": "a879d751523562c19462c4506cb9939e",
+  "SHA256SUM": "df87bab8a4d542b886490cb25006f79ae422f55e2817b4f729c6a0d25964d2fa",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl71ooUACgkQeGxj8zDXy5I3ZQ/9HuVlcAuY8N2awfZ+mkXP0IxLteHDsWRApGBsSPzxoTHCSmueKSnGjIWjdzrjB3PyfZQjq/S0eREMdfzME47QYmrXG+eDtST97EuPM6iYZW4PJPOrGYLvTt87SHcGCgEYcoC0h4kAfHQZTrujyMRBBuf2mmQz4QdUJsSvrXC7qpZ/Umm9nqpF0/SdLjflJo0S6QOBIzlQbAD4H9/xbFGajKkp9lG354Q6WuB9oafpVjP6BJfmE0XiVpQwHAiYTicca5lMNHg8Ut7jViYtuEDslv06bkzsZIk+185JszV962wjrp7dNI0PL3SYgpIem4zyr0qjEGulqyWt4SIAxmDQbphveOcxpG/eRPVxVjdv4CAWEgNoZC9JTXGKOYV0aRper6lInmMahZANQa8LQWYGN2pSNC1x4Z2xcmNOpMyJK4ODrj5+F9wl+VaR/KQkO4ywRbv5LvifpcL0b2lIw0Tw1nGTMY7KFMrnr+ZGIbFDo/OlhWx7B4qWS9aViJ0lwr7hlB80V1aAK3fQYqK0G6jUGH4UasF6XHu+xHdOMAaMF1VR5rro8Ir2MlZRTbAtddVzSF5ZBYs0ksn0CazoGRbTjaGYDcsH2EX64i7Hg2Ngo3+Pv+6/d8mBo/UYbcbpEG42C79RubNlExd6YiXps7BcrodiB/QsBuZwlglh/kG+EnI=",
+  "URL": "https://github.com/BurntSushi/xgb",
+  "LICENSE": "BSD",
+  "ARCH": "any",
+  "BUILDDATE": "1593156177",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "go"
+  ]
+}

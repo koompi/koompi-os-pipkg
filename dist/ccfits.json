@@ -1,0 +1,23 @@
+{
+  "FILENAME": "ccfits-2.5-5-x86_64.pkg.tar.zst",
+  "NAME": "ccfits",
+  "BASE": "ccfits",
+  "VERSION": "2.5-5",
+  "DESC": "Object Oriented Interface to the CFITSIO Library",
+  "CSIZE": "351269",
+  "ISIZE": "1597517",
+  "MD5SUM": "eaa411dd0683cdca32b546fc5d901a6f",
+  "SHA256SUM": "087fe5df22a58530b458c1623f2b9d9e91f49b27c33a88ed8332d8cf58647de6",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl6r9jMACgkQeGxj8zDXy5L9/hAApjUNy0G4evrQvJDOWbW9dRg8UXJyCelLPmkiDHB6gfQpPh47utsY5E2vJrElu8jZOsKbBGqfmDNGazV/Y87I+BCRHTvjyr6nuZXPCY4qB6dzuO9Sj2Om38mc6CtWKph2Xt3x8bLCFGKWAzghbRrKZTw3/hj8M5zoQYHOGBgOyd54AIEXRVFOfxYkocRUpDLovwH2lPcTlbrm8MMOoqlGmBgdv5djJtGhwL4TGgqD69OzPc4qEtaANmQvFSdJyTRP0YeJQF8kLosfP0Wbm/COaehzgB4CywFkKCJcHirSw/tZThEh0PvlLdxwD4589j2Xfw9jbS8ei9bewfeHtnfWFhF0lbDwpH+k1lvr+qzHFYB3VqrrgAEMuyGaJ4fdtkHbdcVV7ukP8+VzrWbmYVgHSAiRoY6RQNO7exeIzK5py2YydJulZ2h4+umVyQthW/wetbtySyYLHzDKCPu6ojnwaD25wJB67hlP0hcMeF3c9xT7aX+Fq5iagC+IaSX0r5p5gCgxzyxdKDO/0Jn51QkQ8IN/8iU05qGU7P/ZmXPnO4ApkXo1s06qiSpPw7jBcubvKxa1e/LI2TxoeDPiUDit8ptOHJBRKH91SrpXJBlbihENas3sVhJKNlWaP/b8SXu0niA/vp/X3zdIHBYkfVTuyFvah9iiGC+b6xXx5hivuxE=",
+  "URL": "https://heasarc.gsfc.nasa.gov/docs/software/fitsio/ccfits/",
+  "LICENSE": "custom",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1588327928",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "cfitsio"
+  ]
+}

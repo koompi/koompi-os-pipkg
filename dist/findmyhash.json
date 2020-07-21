@@ -1,0 +1,23 @@
+{
+  "FILENAME": "findmyhash-1.1.2-6-any.pkg.tar.zst",
+  "NAME": "findmyhash",
+  "BASE": "findmyhash",
+  "VERSION": "1.1.2-6",
+  "DESC": "Crack different types of hashes using free online services",
+  "CSIZE": "13219",
+  "ISIZE": "75803",
+  "MD5SUM": "4096116aa53af6831c29e260d10de211",
+  "SHA256SUM": "d1cb23408e40e214d05840f2c9c1c3423d5c7cb831d717454e30a98ddc7fed38",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl8Eo28ACgkQeGxj8zDXy5LqFQ//Ya5kk5u/moH9SBpEHxXulZBJDHAJHAHj11uzgiRmUeri+Vb6DW1RvUif9s5mx72JDEghp5VOdgKunJZy1nCZBy+yZuN2uaQxsRy+PYwSpxgi5Fs1H4BmEgekGzE9lLbElufHMmzaIEg398ObUXeVFgqJ/4O63Jj54guBeI8TXboT4SEJ+0Sh5BYCoY1ot8wPF2o2rWIrT6oeStFCx4odG50hDxdjiqRDMG6nknhc09gv9Y5yyhDmDUArw71AwYk7xv98y/VNcnOXeWRl7S2qwEsurnvD2lmG3b9/LF7t6fK7j2RKa+o2kZicV+rhn3kSWzPKr9SjFcuFBGPhuFdk1EyCk/0Gv9pRNfrY02SdrZdpykDqKd3Pi3ZQc4MUOHUWJMUtYV88fIjAzJe0P8cNLbJQA92cLyDDFNXP5Qyf2KkgjIeBwoSmuBm/lAPaYSAJn/Zu9X+5ErXcxLMpvd2vkrd3wD4SPaknDJSwgFrzofgMxai6WwcL+n5L0wf84zPehLjoJ87513itfs9J6bWN5zzvDL9IQHiM67o7f0/eLzHHOigDhr8nXTP2ho3VoB56qa55Jg88axhdqK4xMNNwN1L/VOnEzJyFkz8f1eQeMcH2WImLtA2h//oN3M17JtmYDw3yauuEbwoP9Y7y4LAalQtXzNTUdUq+HqvLzRsmTYQ=",
+  "URL": "https://code.google.com/archive/p/findmyhash/",
+  "LICENSE": "GPL3",
+  "ARCH": "any",
+  "BUILDDATE": "1594139454",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "python2-httplib2"
+  ]
+}

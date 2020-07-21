@@ -1,0 +1,27 @@
+{
+  "FILENAME": "haskell-configurator-0.3.0.0-121-x86_64.pkg.tar.zst",
+  "NAME": "haskell-configurator",
+  "BASE": "haskell-configurator",
+  "VERSION": "0.3.0.0-121",
+  "DESC": "Configuration management",
+  "CSIZE": "151902",
+  "ISIZE": "757369",
+  "MD5SUM": "22185a68743207634b145c3dc4eefc08",
+  "SHA256SUM": "bb338bb3f041accc9e7829a28df43a2939a7020ee347c55bc1aa75b37e00882e",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl75LyIACgkQeGxj8zDXy5JYQw//WHrOfHJnryLTPTIdYk8yygWnMfVm5nR8uWLUqitGlsxtTRXo7B1knWQbrDX3Alerd7B5ZKFDfPIChwPFaQlVZFU4MnUngXCBEbZLJkkf7YrUnQAYi4HOS26JB9Zfuoe+F1VbjrmlAaF4zNstQyA+TsRrpUEm8JOg2EBkxhu2avI+CymJHU1lQBKJcp/Bh03npNYuoEomazn8zjmY/rtqKCdd55NKMpchYwr+8FiKRNi+CXUvd9UgW4IUKbNG2M/m+MwYuseV0lyijddbjvj947U0ejydTCI4FgiS1afkC/Kk6ILPJLmJpQYgT2aP2Adzqfzko+OzVdETntNtKui1hOdsnPrlmDXqtEUIvjXaSug2K/boNLAA/hvv1rzf3fN1o4Th4bMh1PPDt5OSs/DzxKgTQu6gLzS1RPMhbol3MbT+WeqFkZ4F6IQk1gjT0th6OMMnC1jy1zAv2UmaABuJqQTTUb1L9M/27x+PNeyXi20Yt31sve+ghtPkwdLX3yA14izhrMo6QAQKQF1TLmU0S1xRUrhXae/ljMPONCMX/JUTVEzy2OeylfCfdCAUVj1InUi9uBHVGRNdxX1drp1cUFVRXbdlpvDucl9SBw9ZpuM1tf53fVsG1BqKlMCvvTOVK6l8WmrgTwQjcWJHFPAeBBbKpadmLYdwidRmVAOZstU=",
+  "URL": "https://github.com/bos/configurator",
+  "LICENSE": "BSD",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1593388803",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "ghc-libs",
+    "haskell-attoparsec",
+    "haskell-hashable",
+    "haskell-unix-compat",
+    "haskell-unordered-containers"
+  ]
+}

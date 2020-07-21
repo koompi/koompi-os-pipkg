@@ -1,0 +1,23 @@
+{
+  "FILENAME": "libgsignon-glib-2.4.1-2-x86_64.pkg.tar.xz",
+  "NAME": "libgsignon-glib",
+  "BASE": "libgsignon-glib",
+  "VERSION": "2.4.1-2",
+  "DESC": "gSSO client library",
+  "CSIZE": "63524",
+  "ISIZE": "406528",
+  "MD5SUM": "79e04e43ec995e02ccd8dee18c273a3f",
+  "SHA256SUM": "d098fcd17a3a1d2283e8d89b52c9ab828c9fc9d181096fe8260b5ea46fe4b9ef",
+  "PGPSIG": "iQEzBAABCAAdFiEElDfdOBWnqRaePTlGr/XZUJi8b/UFAlvsAL4ACgkQr/XZUJi8b/U0Swf/bcQdBhBdjVK9UJulso7o9eXJ7PpXXnOWjCwErJi3gV34zbMtzs/8v1pZX8ti6JcQKFWMtaA2FBlRqQVLd4xzNDSfGUFIuUAOy1bjAnNtg/fz1ZFCis0PnMLSG599MysIOPjgXo1pmgezXPFnX6U8EpQACXakuAJd5syKYSQCNFY2XXhmgCO2uHzqW7hcmz8XnEdedaI+8mbXiqIfMeNWg6hjSaXq5B+cJ+yH+GnBl3TOpAV3JQ9IjYi8EcdC1bjMN+N8CBJqgltWXpNDxRRE3JWregS3Ic0cx3tJ5Ho1d0wpoXVGtK5D5tT2NVunRN20k/9LLCh1Jf52Ff7DTtCk/w==",
+  "URL": "https://01.org/gsso",
+  "LICENSE": "LGPL2.1",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1542193253",
+  "PACKAGER": "Maxime Gauduin <alucryd@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "glib2"
+  ]
+}

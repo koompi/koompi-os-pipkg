@@ -1,0 +1,23 @@
+{
+  "FILENAME": "antlr4-runtime-4.8-1-x86_64.pkg.tar.zst",
+  "NAME": "antlr4-runtime",
+  "BASE": "antlr4-runtime",
+  "VERSION": "4.8-1",
+  "DESC": "Antlr C++ runtime",
+  "CSIZE": "477179",
+  "ISIZE": "1768202",
+  "MD5SUM": "46d45a21c4f7f5d8e40a2d25d4ee24ec",
+  "SHA256SUM": "3f51d6a2ef408488b24beae40d0890cd0302f8ffb48865ede78918b09a41d778",
+  "PGPSIG": "iIQEABYIACwWIQQEKYl95fO9rFN6MGltQr3RFuAGjwUCXilmqg4cYXJjaEBld29ybS5kZQAKCRBtQr3RFuAGj8O6AP0VNOl33SiX+GkAzTBMOohBmg0GuGIy2dGFmRbfflcxQQD9E64hMZ60So0M+3wJUzWOUtXP1c0dEgrvgsFjRGQYVQU=",
+  "URL": "https://www.antlr.org/",
+  "LICENSE": "BSD",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1579771462",
+  "PACKAGER": "Christian Hesse <arch@eworm.de>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "gcc-libs"
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "FILENAME": "python-atom-0.5.2-1-x86_64.pkg.tar.zst",
+  "NAME": "python-atom",
+  "BASE": "python-atom",
+  "VERSION": "0.5.2-1",
+  "DESC": "Memory efficient Python objects",
+  "CSIZE": "115726",
+  "ISIZE": "472142",
+  "MD5SUM": "a7942371386726e1c93ff1b38797d72f",
+  "SHA256SUM": "dcdeaf95887e3a56aaf7f6e3f9efec12f6f00c590aeeb837e042e3cf5415fc5e",
+  "PGPSIG": "iQEzBAABCAAdFiEE5JnHn1PJalTlcv7hwGCGM3xQdz4FAl8K69QACgkQwGCGM3xQdz5LQQgAtzJI1d1Ak9hNJuYLVJ7tphUYjgMuRD7/E1MHWBuRLfo109cWxDLqGqqJcP+MC2xjNsKDNy66I5kSWqvnFh32bpjo+T1ZR2R1GovRqjrlEBy8qbTZ4iP/TIyfONSoz4Ukz6iwS+EvupGXyq1U/AuY7ilg95hv6dP+VdUs9/MDydL3PrBx4cR717+aelCTllkirZ1G5NuOGWqoQ1zZLK55CyP3oBv8FSJ+CJWrGBACEbHv0Yu/t5AA0HdDbRVO0Bz/YQpe4i5ROTIxIq8K75fETnH9HoLmsAD2JWgxwWrRDv9kWy+vGUp3TocJFcw1IIJ+UO2HDCEW2iZqaEKk1SoGBA==",
+  "URL": "https://github.com/nucleic/atom",
+  "LICENSE": "BSD",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1594551043",
+  "PACKAGER": "Jelle van der Waa <jelle@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "python",
+    "python-setuptools"
+  ]
+}

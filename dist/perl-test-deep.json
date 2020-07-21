@@ -1,0 +1,24 @@
+{
+  "FILENAME": "perl-test-deep-1.128-3-any.pkg.tar.zst",
+  "NAME": "perl-test-deep",
+  "BASE": "perl-test-deep",
+  "VERSION": "1.128-3",
+  "DESC": "Extremely flexible deep comparison",
+  "CSIZE": "43436",
+  "ISIZE": "98574",
+  "MD5SUM": "50a490673f558bffae145465070c4840",
+  "SHA256SUM": "a210d6085917b0173250a33eeb71d7a24b48cf4afba4da69efaa0d48d88096b9",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl8EtUsACgkQeGxj8zDXy5Ku3w//WmG1+3ZVoHnX6eX3FzfKCS2sjgI1yfqygi46pHYLLt7Qa7/ilreDRiw5BAkPR+RFihO+WsCmu8gcK+oPZb6dpy6t7BBQsfGPAO5KzA2zSiJmFiEr0yao8HZ7uUVqe+4Nsw5/vA290R8KNMkpHzU3QvXphz3agJRh2S3FNZyG4Umjnc8K9ipAvBU4I0MdCGj00nzFbw+8FriATrIJJZf3ilvx421A2mdTSUbn1VGL36fN+ezyfbiVPV4ypub4P3v4ACv1sqcIx97aODp9Grqm5U2+ya1wvdXSdeZ/D6LLKjhkKknA9m0QL+BoQMHn18EZCKPbb3AHMCsV+ddPY33UmO/yW2EQzbw9wYT6PCBkJEufFspNuxYu+Y5MYeDcd+tL9vUzi7Or5x6VEufskGQ4f0jzmPIn4fIBTkvMZw3eO8u7pqKz7Y2M5cafZVZd1EycYQj54AB8MbZJcGLlSKg8VLdpmMAPk5dO+E9tCmUz7tbJ7PMwDKLWNLwXuE8TYvfQG9mJwVur2omFve2zaGRSwDnvCkRhOrC0V7z+yty05BxtehmYpXju773v71xZElnpLpYOdID057Do8sDyt328EhyhpE4gfLcAMP+h3saQEZnDTgBH4ziUKim2qdARrThkrcVChqJ2l3pQw+VftHHoGmuiuUHIsCxLf2iqQv/YiZc=",
+  "URL": "https://search.cpan.org/dist/Test-Deep",
+  "LICENSE": "GPL",
+  "ARCH": "any",
+  "BUILDDATE": "1594144038",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "perl-test-nowarnings",
+    "perl-test-simple"
+  ]
+}

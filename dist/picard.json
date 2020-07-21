@@ -1,0 +1,24 @@
+{
+  "FILENAME": "picard-2.3.2-1-x86_64.pkg.tar.zst",
+  "NAME": "picard",
+  "BASE": "picard",
+  "VERSION": "2.3.2-1",
+  "DESC": "Official MusicBrainz tagger",
+  "CSIZE": "1801951",
+  "ISIZE": "7945676",
+  "MD5SUM": "95ae0cf27ca0b68463fef38f5cf0e525",
+  "SHA256SUM": "3347564f20093440b48beb763eeb3e49393b37b05dd1f4784ca738a7a747f5c9",
+  "PGPSIG": "iHUEABYIAB0WIQQaYNxEJF0G/vkGI9bu7uLu7i7u7gUCXrRVuwAKCRDu7uLu7i7u7oYJAP9xYpIWs+o+E+i0AcbalYOr7Uy3KU4lUhZWU7Yd9TRmPgEAn68dHXeT5svtRX4vDK63IInBW1zxR1su3XcWj8uljwc=",
+  "URL": "https://picard.musicbrainz.org/",
+  "LICENSE": "GPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1588876601",
+  "PACKAGER": "Gaetan Bisson <bisson@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "python-pyqt5",
+    "python-mutagen"
+  ]
+}

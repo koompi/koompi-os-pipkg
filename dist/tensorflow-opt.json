@@ -1,0 +1,25 @@
+{
+  "FILENAME": "tensorflow-opt-2.2.0-1-x86_64.pkg.tar.zst",
+  "NAME": "tensorflow-opt",
+  "BASE": "tensorflow",
+  "VERSION": "2.2.0-1",
+  "DESC": "Library for computation using data flow graphs for scalable machine learning (with CPU optimizations)",
+  "CSIZE": "105291110",
+  "ISIZE": "619797297",
+  "MD5SUM": "ff46cbc42555792361136866dc53f53d",
+  "SHA256SUM": "8aa5471acd30754f0a70dd9a23615d5da2a531bd8421bc4660a090f48dba2935",
+  "PGPSIG": "iQIzBAABCAAdFiEEj8FaBklQqZ3RvRTdOeS4d+YuuRUFAl6z9V0ACgkQOeS4d+YuuRUNJxAAprKd4YIo4YZdaKq01J7EWbMcfJqcdAXg5ARusQZcZSWDxuVK999m62qergCAvA9fkjCNePrWhHNNSOFvcMVfZ7jbDafOkA5RR0r5aHwoio/ZSmsr/O41gphCDTR0BDzeh/CRKdSU9BR07jDejKJLP4+ZIKGA6pvE0AFrHhpzZhodEgGbwmevK9LaJPpFlqTnuEZdR/JcL/pvEEMDjeiOYv0ZDM7ZHOUU2MsKnMu3rgbUh8eVAJXwIfe+Cv7Qc6C1XJGsBG4OV9KIFYr9q+gCrPvszL3wnujttr0bK25rKOxcLv2/wVYJwmKDIaGKMDkA68B0l2Z4Zpv3ymYfsXDW01Bj96NUP8VZZJ8WVcnzmDaNjMht9EqzPIGgMT4uMd3Vxkqz0UdE61Jp5YORILU9v4oycUlvSSffPjyIereKlzi0Dr4EhN6cStjg8iBRT1z1yWTCUCFGgueLq/1dgA0zu+Qs2tsk6BEK5FbWaJQU8sPU0j6r71yZDXSqT6VKkxbpo7jiW+TPxUkdYuqc6R+rsOUkP565UJguGR9+9LNmVjhkQp0yNtkB0mqoOBtaDptnseC3WeWZlSwl0gfMv8sS9FaxEKgsnWBTzp5H7pjAL151wJIKBAkQbhiQMH1p4QJA+/OQSoJZlx91g1C8ogz697ucwoAX+Os3/teWBtTc9Ms=",
+  "URL": "https://www.tensorflow.org/",
+  "LICENSE": "APACHE",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1588830008",
+  "PACKAGER": "Sven-Hendrik Haase <svenstaro@gmail.com>",
+  "PROVIDES": [
+    "tensorflow"
+  ],
+  "DEPENDS": [
+    "c-ares",
+    "intel-mkl",
+    "onednn"
+  ]
+}

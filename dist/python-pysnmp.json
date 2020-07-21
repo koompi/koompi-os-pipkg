@@ -1,0 +1,25 @@
+{
+  "FILENAME": "python-pysnmp-4.4.12-1-any.pkg.tar.xz",
+  "NAME": "python-pysnmp",
+  "BASE": "python-pysnmp",
+  "VERSION": "4.4.12-1",
+  "DESC": "Open source and free implementation of v1/v2c/v3 SNMP engine",
+  "CSIZE": "553048",
+  "ISIZE": "4019100",
+  "MD5SUM": "1dc682b68cc952f0b009c3e0a1979a8f",
+  "SHA256SUM": "f8148c303efa1a6a98a271b46ec46ffd9c45e6ef4fe9555d33ff0d8ee9d013b9",
+  "PGPSIG": "iQIzBAABCgAdFiEE4kC1fixGMLp2ji8m/BtUfI2BcsgFAl3RZ6AACgkQ/BtUfI2BcsiLwg//bYrF/FcNZ/twT40WaSrW3EkVj1SpqTkIE2q8u2nb1lELt1eIiOiVG5umFjak4MT8M3fskFri4luTEoIrW40qyx2fiJN97hosI/LmQsEbLjjL4XZ16CwSDZasqlwOC30rJfv6yF9Jt7TUuFgIBDs33DYpsicR5S+QevdMx4kFJT1XuQKqxEVHmx4vc9k6RTXKbyACgqNI0/KHnFetE1YjnYcLQolsN+9T96Cnzcu/FSr8slVeEF+G76tOBEm81zKMkDC2Wjh5qfafCIwgrJD7fuCNCI6zvjCBAX0z8s1fHsRtlB0sr0JlFVlIeFnK5zE7OmYToNTLY0roXHACi+Tk6VokdwYnl/JuDlBmzfaSbABxegmxnMc0bSOIrt4/5q3ypUssyMHYAGmpA769GTIBYG3BiQgmBQoJnPFUUdc7jLrPtHgf+qyCO/TsdAR8idOAXpr36A9Fcmtl8LcjZtRdZvHq942yhdpE6Bl5KBB3qD9RfHh6O0wsvQiJtdAEamC6SkZW72QpdHBL0Pb60EKRMtEMhqIJF5927MaZntx9lnwlBoPFkOawwX1cfWIsIEDJxGa4I8Mq/j6nrRJ0HkEDcbXM6bqBnhWFv81f0L67gZA0cnifGrSFEu8BQdxRRu9EZIHxucu2CzJGQ3ysYBSh9yROd8x2sDHOgVUAglX9GlA=",
+  "URL": "https://github.com/etingof/pysnmp",
+  "LICENSE": "BSD",
+  "ARCH": "any",
+  "BUILDDATE": "1574004570",
+  "PACKAGER": "Levente Polyak <anthraxx@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "python",
+    "python-pysmi",
+    "python-pyasn1"
+  ]
+}

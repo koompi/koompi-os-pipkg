@@ -1,0 +1,23 @@
+{
+  "FILENAME": "qemu-headless-arch-extra-5.0.0-7-x86_64.pkg.tar.zst",
+  "NAME": "qemu-headless-arch-extra",
+  "BASE": "qemu",
+  "VERSION": "5.0.0-7",
+  "DESC": "QEMU without GUI, for foreign architectures",
+  "CSIZE": "54392154",
+  "ISIZE": "569407629",
+  "MD5SUM": "a7a8f0d38f776c237dbd026695e86648",
+  "SHA256SUM": "bf264cdb30efe48ad2f317057817615677bebd55de008ef3e74eff18e18cfd17",
+  "PGPSIG": "iQIzBAABCAAdFiEEjhmSFnRl21+wRVV8sChU7XU+Dx8FAl7We+QACgkQsChU7XU+Dx+zow/+NeKBjjktdybi1ysEdf3qJnIyvbEzdvWDr3q7IXqjYWHnahyToacHQceWAi1FJAs/BGd3cqkaXpML1K8chh6mjVixTdGKgozobcenyYQVvcnFTX/myr7Z34RgXfZqylZpv1GfER5Px37MQUPp1uE11kOk6tjPmqc52iUboC8Iq0S8UvECjZLvT0Df5aR+w75Jc/AWpjUybmSUsF239b9pm74uog5yf0AcZ+8PjYW1rB0917IUUHNoPlYmQt4feqAQub5zaDOEQFX7WKKFGiFXE64cT4+mtsRrd1zLczmW3VqJ5z7rAFbTSmkKUjM+iOPBuKGIafekjA231VJKcAXUTOKn88Pf9RlpOUUcsUUouqRjNpGLVK0udtxN4vH5jEPSLacyt3jWo7tPM7PB9qFO5KkjWrkKDXNuDbgRXVMMfYrl6VmLOyncLabYK2vCnSBylgpwfqUmjkzNTGiEFq4+iMBhPFEy+a8Wg7DtRxbxT7wxsqf7JN1QkcIUgMM6nSE9Mpmsa2qwV9TUCFzfam1UroVl9I8c2fVDsZgHLzCVdXhfJoQ6BQPPD3Of46EXCeUhlITHNgOIuhcjNTW4DWViHMz2D9bz8zSVYbpy3qq5XHBakc+qrlYYvGEWggpj+PDHqdDuKbThpDnahieBVIz321N9y91GWqD6J0Vp0djTuO0=",
+  "URL": "https://wiki.qemu.org/",
+  "LICENSE": "GPL2",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1591112784",
+  "PACKAGER": "Anatol Pomozov <anatol.pomozov@gmail.com>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "qemu-headless"
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "FILENAME": "ncmpcpp-0.8.2-12-x86_64.pkg.tar.zst",
+  "NAME": "ncmpcpp",
+  "BASE": "ncmpcpp",
+  "VERSION": "0.8.2-12",
+  "DESC": "Almost exact clone of ncmpc with some new features",
+  "CSIZE": "801720",
+  "ISIZE": "2892530",
+  "MD5SUM": "f88b735ba7eab193decd4863ac7f9ac5",
+  "SHA256SUM": "40c2bd0ef5f51faee86ea1e575465ec5140caa919fd17cb041219fff1b91f0b8",
+  "PGPSIG": "iQEzBAABCAAdFiEEhs/8qRjPOvRxR1iAUeixSKmZnDQFAl6m0OcACgkQUeixSKmZnDSX9wf7BUprbDYjJX2z3jD0nKhcernlMIFEkyzWMR/kfY08R5H9sC9WIVuknYq/c6S5tn6ihcVO7C+aXQBj7KWGLfKC3NLa6e5eZjdyndPaICXe0INdFdyiqacB62xyb/33KIKL1TwZ5M/fgo3S6WyU46Su2DefNeWxRj7bxQLHtHaT7hiADqXboBKRi1iyizvxV+Eujj8GO322T6zC0knRWZ8vWDqDjt0gsKYgKi83mRVHOqA7jPrxL6V/z/rvrCTnBmh4D8kf007pWp4qU7d6idkg+IzhZbl4qMT29kvvw2TrgIZ808qubt7Jjf8zeMnoPG8BT3E/ivPSec8QETD0/WfFPg==",
+  "URL": "https://ncmpcpp.rybczak.net/",
+  "LICENSE": "GPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1587990629",
+  "PACKAGER": "Evangelos Foutras <evangelos@foutrelis.com>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "curl",
+    "libmpdclient",
+    "taglib",
+    "ncurses",
+    "fftw",
+    "boost-libs"
+  ]
+}

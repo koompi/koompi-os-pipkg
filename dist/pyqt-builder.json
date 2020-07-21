@@ -1,0 +1,23 @@
+{
+  "FILENAME": "pyqt-builder-1.4.0-1-any.pkg.tar.zst",
+  "NAME": "pyqt-builder",
+  "BASE": "pyqt-builder",
+  "VERSION": "1.4.0-1",
+  "DESC": "The PEP 517 compliant PyQt build system",
+  "CSIZE": "3964426",
+  "ISIZE": "13270303",
+  "MD5SUM": "66c34bc6aa1ae9cfadeb10af10afc34d",
+  "SHA256SUM": "d63f4a80399c0c2d04909a4e7aa080732f3c581ece396412ceae9245ef508c0a",
+  "PGPSIG": "iQEzBAABCAAdFiEEFRnVq6Zb9vwrc8dWek52CV2KUuQFAl7UyZsACgkQek52CV2KUuQL5AgAoCnuXnZLbfCU53yb8EjmoHeqDcxNYgAJ7d/e+OODSQSv1l5PEEnNUbdSUORTAafXecx1umZYI3cPkqDBpRhkbIfCy5SlYg05CmQvFrCA3gEVz91Sho/3ZQY/Fmmm2pOU4n0fmo/ZBJYqjpqd80MGwqaxR9HsnCHiXAOb6VWBIftyf+4D5lTGOV3CE5ISkKCspMOOVQw2umH1nQjVo1wHynrbS/RI81U3AwUQXGqisM879s6I9MQ/8XArN+v9GIJeh0gytNcZuAVXCdb6t/by3/pdEr9fU+JAs5kRN0b8TzWhlvSzJzzjZVEvgt4PMmxlND78X/hiMn1EYlevUGsYWQ==",
+  "URL": "https://pypi.org/project/PyQt-builder/",
+  "LICENSE": "GPL3",
+  "ARCH": "any",
+  "BUILDDATE": "1591003506",
+  "PACKAGER": "Antonio Rojas <arojas@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "python"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "FILENAME": "python-lhafile-0.2.2-3-x86_64.pkg.tar.xz",
+  "NAME": "python-lhafile",
+  "BASE": "python-lhafile",
+  "VERSION": "0.2.2-3",
+  "DESC": "LHA archive support for Python",
+  "CSIZE": "19936",
+  "ISIZE": "59808",
+  "MD5SUM": "fb99ff781192737d40a963bf94e1ebae",
+  "SHA256SUM": "f5729fc06c9785d8aadca5024f4bf03af8693902d0aca337ccee2f11386d8d10",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl2/3ZwACgkQeGxj8zDXy5J6ixAAioU8kGYj26/QXioXCfYLgBkmWNSHhZRHYUwAF4QRCB/e6snchBIz8bcbEkk3L5dPzA/8VjMqCR1ekLThG4GttzFSZxacse9fDPj6M8C9OQoYC1l6cJMwsIpmN59IBf0OsAQGMCOPj/Q95vO2Uvas1AOsjB/JiHMcvY291ZbpSLQ1yk+2cRRkkSzwZuoL0qqTgsrTzJgzYFlud8DfbYIAy1JNl4wcYLTiwjHl6AvA0rTSzYjreV+UYuHPfLVo2VadLX6HCFd2pa1EFwdpdRC/Az6MIJ52H56AOJTBz9Oip65B91pXe1QCcs4fH3bKS/O5DKZO3aU2RL7kGfQWeHR+CNABq7ia79c1WmJc6oVeCxgnauKabdgt/lISGvTuyvcwaqLk+k7HllRzF4Aj3ZrSFXpwRWC69r/v54nd0EoPR3urbPi9yFyEH9fipH9pkYUC7STv3g1rz72BEkrONy6flTpzRwejvor2GF6bGS7Ga7PF5WVrejm7pmhWsEuLSPRn9wK11K+8aHtKU1EuDahkvNG6vxv0zvD6BNSANjS/RCAEbZtFpszc7CVsKg0Iw7T08vSx65YdSHNSGbGhMpZJBXY8hGexputYYgUOqyfLlQixLtR0AHvfNqFkYVYTkA0mYa+l7iDRqSPAGTf1yrdh7+v2Pvc/HYWetZayN8Zsu6A=",
+  "URL": "https://fengestad.no/python-lhafile/",
+  "LICENSE": "BSD",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1572855163",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "python"
+  ]
+}

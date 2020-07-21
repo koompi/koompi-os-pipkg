@@ -1,0 +1,25 @@
+{
+  "FILENAME": "python-oslo-i18n-5.0.0-1-any.pkg.tar.zst",
+  "NAME": "python-oslo-i18n",
+  "BASE": "python-oslo-i18n",
+  "VERSION": "5.0.0-1",
+  "DESC": "Oslo i18n library",
+  "CSIZE": "45805",
+  "ISIZE": "239620",
+  "MD5SUM": "d4c0d1a8cb061a4f90161c6fe2476f96",
+  "SHA256SUM": "8115191f87ea334bfcccb6c8b32b1e6d1f100b11db21f61daf58c04850477511",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl7ZI6YACgkQeGxj8zDXy5LgoQ//ZEUAoiqn4kcxBSJPoO/s2R63PrxBGxM3aZ7R3fFVYWqkdFLmdtDNwaWKxUZ2I4Nd3vmvrtvZufRLjQoDb0RjyoBQDS1b6k4MIvWoZvGqkHJ6cMJTILBcpB+AUSBIYepOUH664udWbL9NG9jRY5GDzPKsRl3r20o+0QgW0zMHBMyrIAF6g2F+RSm887De8bleODsT71jxZeop0YkAsyysUkCxkdqi7u58xu7p8KGgKP1VYNb9WUYZO6YmcVeAUxfCsmT+0QF9CYu9BQTJ5LBEczE9c2S3dEugI55EzrGKJtgOJE7oq+2s4h3pQqr+VHuNaq/KhekZmCqONcuf1OhBArdDJ+YEkMyeJoEYvqNJXeu6fMExux16e7ZurVWZsNao2C+rc3zJyMBbp61gjgZnxxxYGeYnCIalSW8Qg3eFDXtAvINYk/MSe5JLNeBO2ybFBvXsUP14fG563nosYllpZqaUC6s4nzZezpiiAqsrBYNuC3YazGH7gR+P/UF4SC3qM7DjbwTGlGisxZnDWG8OhaGWFopZJ0h6VLdQUPgfnO11TJVPq+3MnH0r6EgDw+QdjxML3di8MKoykQpWgPQlRyO6+FxF864ISpdTpbR23mKxtrr0S86k3gY2InvJcvLaQw7iEX2VmBZS7ByxHtZ7LRyLwSbSlVWigqDTMLDzlbE=",
+  "URL": "https://pypi.python.org/pypi/oslo.i18n/5.0.0",
+  "LICENSE": "Apache",
+  "ARCH": "any",
+  "BUILDDATE": "1591288636",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "python-six",
+    "python-pbr",
+    "python-babel"
+  ]
+}

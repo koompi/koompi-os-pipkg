@@ -1,0 +1,25 @@
+{
+  "FILENAME": "lm32-elf-gcc-10.1.0-1-x86_64.pkg.tar.zst",
+  "NAME": "lm32-elf-gcc",
+  "BASE": "lm32-elf-gcc",
+  "VERSION": "10.1.0-1",
+  "DESC": "The GNU Compiler Collection - cross compiler for LatticeMico32 (bare-metal) target",
+  "CSIZE": "17333656",
+  "ISIZE": "186194389",
+  "MD5SUM": "79876760fbc71348f6547551dd6ebd35",
+  "SHA256SUM": "8f11875094a7867dd7fcea319c3759f16dba0433f04fbf84d67d861d7618fcc4",
+  "PGPSIG": "iQIzBAABCAAdFiEE0jW0leqs33gyftiw+JPGdIFqqV0FAl7BxRkACgkQ+JPGdIFqqV1TcQ/7BvKejk3mr6xQFxUp/GeQ5byNy7FgIxnhRxLs0pnbtgTsCsGT7C1e3dBx5UE2I7VHEkIt5TtWLJHqhckpHWkc3FwTbIUtE1Q/jGr6SQe/ZAcG+sBB4KQGMZOkkbkzeeYBE3SakAzRHrG3bN7tl8MDwctCcc75J0zYsSMgU8m5SHks99fYqqrlOnLcnmnneepsVU0VYEvjsjHKdgKincaq+p7xVMvUsON2LWubFLo01jBfI819QEcHA/QlwlfzCZo4HSqXhuUO/h7AJ4LP3Z0FfahmQ7R9ObEuS2qF5TWpT8mL2D0a59Iz5onoxin6sFzbWIRD5yOef9vdwt/pKRJaWP/f+8PVuMe82CNCUpoxZG74CkKEQ+mKgo3q1vg+vJ4rXfUNctpV+hNRZpgnPh+nzxxcq9igFBD1jXB6ZPvUaqt+1qC3HyghX09SydmV7T82V4KWiM3cVUaXjZvV6IC+Z/9hKIocZE6ACbEF0TItLrbxAV9Gdh8iDmMctWgUlYppr+UwLDJOQq2MeVe4pLiwgon741OFCKROEuy7BVB5kk/KBwJ/Pu3nL6XINy2pFXGX21XcCmYX7nv6xPcxqgp8RN7yy+Q1xKiFguUmC8daUOeT3HtqOmUdirzvb6eBPicsg+AM9v2bJ8Wao4vakjnmoh0AQp4W8at+22SVpu4x6Kw=",
+  "URL": "https://gcc.gnu.org/",
+  "LICENSE": "GPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1589756271",
+  "PACKAGER": "Filipe Laíns <lains@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "lm32-elf-binutils",
+    "zlib",
+    "libmpc"
+  ]
+}

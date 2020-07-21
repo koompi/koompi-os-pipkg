@@ -1,0 +1,23 @@
+{
+  "FILENAME": "qt5-purchasing-5.15.0-1-x86_64.pkg.tar.zst",
+  "NAME": "qt5-purchasing",
+  "BASE": "qt5-purchasing",
+  "VERSION": "5.15.0-1",
+  "DESC": "Qt In-App Purchasing API",
+  "CSIZE": "37510",
+  "ISIZE": "146825",
+  "MD5SUM": "45db4ed2476bd5c403e417c928396969",
+  "SHA256SUM": "806e3b80f7ebd049691f16db93cde6b11526630d762386b40642774817acf8ef",
+  "PGPSIG": "iQEzBAABCAAdFiEEFRnVq6Zb9vwrc8dWek52CV2KUuQFAl7M1wgACgkQek52CV2KUuR0EQf+JJxXpyw5C5YgwLxNpFFnN54q2fgyVkd+DcUOORNsiarRABhLEIEllpsCTdNhsI8j1S7WiNIb8V4tsv+TAdWwCy/lfFk5IkFyBfMT67y6+96u/2et5CiVZHOW7Qdt3N6sgYQWTsYRV0g6zBG8sI4oK6BGWL+kfGz6JRrMRTEdXz117uvLdxwsT2Cde+GpY01p9YoYLYWzFSRhzL3CKWk3W/fZduP0Av0PV/tvL1wzoZJP7O7rTdhVIudSnn4b3AksF3Xui8LZYZaCi1ZIqSQglXR7fwTQH1nrwbhTXxEsodk2yz3BwUU6VFasdRJp0M3p4bsMmULRXeaDVBIWdOxrDg==",
+  "URL": "https://www.qt.io",
+  "LICENSE": "GPL3",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1590481452",
+  "PACKAGER": "Antonio Rojas <arojas@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "qt5-base"
+  ]
+}

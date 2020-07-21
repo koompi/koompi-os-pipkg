@@ -1,0 +1,30 @@
+{
+  "FILENAME": "quodlibet-4.3.0-2-any.pkg.tar.zst",
+  "NAME": "quodlibet",
+  "BASE": "quodlibet",
+  "VERSION": "4.3.0-2",
+  "DESC": "Music player and music library manager",
+  "CSIZE": "2123662",
+  "ISIZE": "10639327",
+  "MD5SUM": "dda516447a93c98e9947aad52959abaa",
+  "SHA256SUM": "83e006a6e3444fbea0b3b64401dd01a5e9b1aad5d14831e2eea5f3088477afa3",
+  "PGPSIG": "iHUEABYIAB0WIQTH54SUZv4jWDQ1iDdyWHNLQcMVSQUCXleIMAAKCRByWHNLQcMVSS7pAP0XywYGiwhigJafOKzV41bymmtQjhVG20NTnvACImgIBQEA2JkBpSXHHkteS7Q71hKBuxGJ9ojSY7U2MbAOwEYnQgY=",
+  "URL": "https://github.com/quodlibet/quodlibet",
+  "LICENSE": "GPL2",
+  "ARCH": "any",
+  "BUILDDATE": "1582794581",
+  "PACKAGER": "David Runge <dvzrv@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "gst-plugins-base",
+    "gtk3",
+    "python-cairo",
+    "python-feedparser",
+    "python-gobject",
+    "python-mutagen",
+    "python-senf",
+    "xine-lib"
+  ]
+}

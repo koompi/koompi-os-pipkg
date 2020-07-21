@@ -1,0 +1,24 @@
+{
+  "FILENAME": "erlang-nox-23.0-1-x86_64.pkg.tar.zst",
+  "NAME": "erlang-nox",
+  "BASE": "erlang-nox",
+  "VERSION": "23.0-1",
+  "DESC": "General-purpose concurrent functional programming language (headless version)",
+  "CSIZE": "40818698",
+  "ISIZE": "104222253",
+  "MD5SUM": "f63cb795becf11a5c89f7c8d2a129732",
+  "SHA256SUM": "d520f12480bd4c68ddbfbaeb34d0cc0e2808d999aea175fa05a6cbf926d0efad",
+  "PGPSIG": "iQEzBAABCAAdFiEElihV8HLHoBhGQFhk/PPIy1z5yNQFAl7uhJUACgkQ/PPIy1z5yNRcWwf+Ow1etTyyBpACN1sTtjK7gV9pC+TyAjc6+W1kTjeoP1JzHa//wKeSmSLhXoks04ZiwWGZZYIzuWWVov1UtOKIndAHx2uMi9s7NmkCJzsQG8tf4qqiwiU1cp3SYbBWzhg667nmU9O577/SV1ykyZXVo/lho7Hs43g7wEx4SSMXn+rqg5n4oU4zTfhHOVb6o2/umyE2hU8JQ8eF+2kKWkx+hWSxDI31B4DCY1E0Fm55kYNeyz0dZIzuv7fVgAcgR7Qf1YcK6HTElGo1xl+4/Pnr34HcnjpgClSUWw0zh9ph71utc+O3LfN7h6XYkjhf7HutBRUKwiv+4SXNthG/M+mZ2g==",
+  "URL": "https://www.erlang.org/",
+  "LICENSE": "Apache",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1592689269",
+  "PACKAGER": "Alexander Rødseth <rodseth@gmail.com>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "ncurses",
+    "openssl"
+  ]
+}

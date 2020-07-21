@@ -1,0 +1,27 @@
+{
+  "FILENAME": "opendkim-2.10.3-7-x86_64.pkg.tar.zst",
+  "NAME": "opendkim",
+  "BASE": "opendkim",
+  "VERSION": "2.10.3-7",
+  "DESC": "An open source implementation of the DKIM sender authentication system. Based on a fork of dkim-milter.",
+  "CSIZE": "295488",
+  "ISIZE": "1068327",
+  "MD5SUM": "29f0f07d353d37a0038b3b7a766bb330",
+  "SHA256SUM": "6eb5d734c504448fccebc64f491690cbb1ac150f7d9abcaa1b82ea03d84a0b86",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl7L2woACgkQeGxj8zDXy5L+UA/9FS3jdfxU9B8hDFl+zN9ucaCU6KMO2dR76I7HVq41kEbCH9wsD+Qu0SgV9At9agMprqH0tJ/pLLOh7aVMGURF2v4sb9ua3WRaLKDexgF0EgXTGAzGuL8V64pu1lw0IjsDyEw6LJg0Uzq/bNa0xoXqrPEoB8DnSGcCgs9ZSTJ78hkRybwHffgQfm409eY0qWWMvunWYE1X3+gvJ1qFRHL3J8m468aksMD3dsC49byN+SbakwTcKUEhwNaK1+WST/C5E5CgQ1XXNpYDDEaOAUgP0bfzJsxhW0/Dcb9YMOKaW4LLjjmhsTKkIDU8ik1hOKeg/nQwNn4rh96t2ioBsyXmQwO0PDNrePowvL9jWchS1htp1FkWREqiPjM1Ezb6OG5V+sQHbGuWZ9GTTZ0mcVVWTwuHiCQtpD2U9729LT5dM+e9KEPunNGg3XOA8ZSMSwoehz5AnrYPSTv25oFf3k1OKaJU1cHywvS7iF6pwN6KybNzgSGZ15hFPFzJv7rLKSvakDxbmeCr7SyDO/hYXUzoxSdjFvA3tPmFyL6gtcY6b9c5lnBx+sYqwM+fBGOeliR5Scvnd0454kTNbKiKtDVsam6KdBzPxELlGd4c9WOf2ESkNbJpHmWZY3WDLTN/FziAPkWxc9H/HE6RmQJuL0ixsyAsk2GifZeB4hNiDUaCdfk=",
+  "URL": "http://www.opendkim.org/",
+  "LICENSE": "BSD",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1590417988",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "db",
+    "openssl",
+    "libbsd",
+    "opendbx",
+    "libldap"
+  ]
+}

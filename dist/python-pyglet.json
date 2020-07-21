@@ -1,0 +1,25 @@
+{
+  "FILENAME": "python-pyglet-1.5.5-1-any.pkg.tar.zst",
+  "NAME": "python-pyglet",
+  "BASE": "pyglet",
+  "VERSION": "1.5.5-1",
+  "DESC": "A cross-platform windowing and multimedia library for Python",
+  "CSIZE": "1317901",
+  "ISIZE": "10454929",
+  "MD5SUM": "eebef7612aeef620b8dbfe1c2cec4585",
+  "SHA256SUM": "db7f7908ed3499e90a2c520cfeafe32ee667cd730367a8c301bfed6b0a397236",
+  "PGPSIG": "iQEzBAABCAAdFiEESMOx8w3dD+Z+UW0WOW4+JbqxQsEFAl62bXAACgkQOW4+JbqxQsFMUggAqXA+OinMEI0j7dmmCnDZl5Xp1CAI4bXe04PHBeQnnNMJ7rC/iSqFL3w0nTBst6TJtgws8QX1Uj4do+kLXBlhGXuZ8f2GIeR1HCHoWcZdZVRXQIK0YdBe2sszlP1pYRE6QwWmZ+o2s6vgrosFdABINuDBF6r3NbC1xpOVwtBwdB1YlUUpBw5qRgz6aQmsnk6+vsK7QNLS24g3H6ylqiznE52W5n9WOXl8gsAANnqS0LxYel4WYZryxdVVgKwJEiuSBKGtkYL2vIqr1c2ONvSrea5KRFX14b9S/or5fnQPNkOBRTDIK5V8fowJDWP8XQyxaT5xcOqvZ+TsvvFr//TA6A==",
+  "URL": "https://github.com/pyglet/pyglet",
+  "LICENSE": "BSD",
+  "ARCH": "any",
+  "BUILDDATE": "1589016129",
+  "PACKAGER": "Kyle Keen <keenerd@gmail.com>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "python",
+    "glu",
+    "python-future"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "FILENAME": "cycfx2prog-0.47-2-x86_64.pkg.tar.zst",
+  "NAME": "cycfx2prog",
+  "BASE": "cycfx2prog",
+  "VERSION": "0.47-2",
+  "DESC": "CycFX2Prog is a small and useful tool to program the FX2 and do basic enpoint communication for testing purposes",
+  "CSIZE": "13437",
+  "ISIZE": "31144",
+  "MD5SUM": "04b92e0d6856196f9e26153bc289352e",
+  "SHA256SUM": "25928ce38e03e5ce8a8d9966c24743ca571b263a32fb74d2102883f81dbaeeac",
+  "PGPSIG": "iQIzBAABCAAdFiEE0jW0leqs33gyftiw+JPGdIFqqV0FAl5D9twACgkQ+JPGdIFqqV29zxAAj1WfLqDBYFtfnB6s9o+28ot8DwIjoylQ2RShbS/EH8irNpcr6kTIcxDmzr+m+OIs9Q/HLuLUrZCPNZPO8N2+HDXDQS0gCobfqexZLu5pqI1CTh64As3LMuzkj57Xp7FTWWvl3QLkCCj6as86mDL7j1Blf8BKyj4VTndXgGdzGcgHF7tDGcih0k+PginmGYOPbYa7d8hXyt7zEgiTOEmvHTBZhm+KUeRzpNaFqsayVQFNwzgvM4GA6JiQ90td1d3/0cI5KJ81VCK6Z2FOO4Dc6K1rM5BSqd4DyYKcxbSRDb7hhIwtuOzwQhN9HEjte1rhRkcMffMicpIYyhav5Jr8hW2wAPMZOvvwmwLBLHN+wwRhi58MO1PlYCp/f/fhoQR9X0+SuF286iq+H/vlJjH7wma3J/9LZ4aT8aORlFqjHNTLwlIoqOyv6Nsbwxm3QmxDg7rY/a8dBl7z660Cxai4iM3R8kYztEx58mTIcWbsXxUTOyr3T3uuXXmtvI64IYvqcSqjriilEinDHwSrNJeBmetSX/5POKqVPB8QneKDOWYBcE4f9Rb3QzOvNgAjxG0Sd2z5Mxw1Ql0x83vARHz+mP13Itw49HUy/CwV6lcDb+Sw6w3f4w2uBaHfWdZawQ1i2d6F5cXLtF6Y8rciUCLqt23qJnisX/iBGM9eslE/6dw=",
+  "URL": "https://www.triplespark.net/elec/periph/USB-FX2/software/",
+  "LICENSE": "GPL2",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1581512352",
+  "PACKAGER": "Filipe Laíns <lains@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "libusb-compat"
+  ]
+}

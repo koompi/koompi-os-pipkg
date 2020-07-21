@@ -1,0 +1,29 @@
+{
+  "FILENAME": "nextcloud-client-2.6.5-1-x86_64.pkg.tar.zst",
+  "NAME": "nextcloud-client",
+  "BASE": "nextcloud-client",
+  "VERSION": "2.6.5-1",
+  "DESC": "Nextcloud desktop client",
+  "CSIZE": "2615662",
+  "ISIZE": "10697796",
+  "MD5SUM": "1e63b933139efc32d0c5dfe04f470db7",
+  "SHA256SUM": "738f99fd3a2757dcdaeb8aea7dea9346ae9e6242c6a20e374b068e1c960018eb",
+  "PGPSIG": "iHUEABEIAB0WIQSYX6G7jYlWZgHv/xEEU6bKI8VjFQUCXwhw6AAKCRAEU6bKI8VjFXZsAQCY7koNHnCvAo/tS7oVDlFt6uBfUy0rQs/hy5hSp2Z4PgD/ejj+xxShHW7NwOzYUkRpBk3uT5hH29qHlepApqChfrA=",
+  "URL": "https://nextcloud.com/",
+  "LICENSE": "GPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1594387603",
+  "PACKAGER": "Chih-Hsuan Yen <yan12125@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "openssl",
+    "sqlite",
+    "qtkeychain",
+    "qt5-svg",
+    "qt5-webengine",
+    "xdg-utils",
+    "libcloudproviders"
+  ]
+}

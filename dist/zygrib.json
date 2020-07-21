@@ -1,0 +1,29 @@
+{
+  "FILENAME": "zygrib-8.0.1-3-x86_64.pkg.tar.xz",
+  "NAME": "zygrib",
+  "BASE": "",
+  "VERSION": "8.0.1-3",
+  "DESC": "Weather data visualization, GRIB file viewer",
+  "CSIZE": "8750480",
+  "ISIZE": "30860288",
+  "MD5SUM": "b82e614258a112614fa99a77ae6fd38a",
+  "SHA256SUM": "e81c9b5f82244ca48fe330ec85fcc2c36c0592c158f4d90deabe6aa10b84e084",
+  "PGPSIG": "",
+  "URL": "http://www.zygrib.org/",
+  "LICENSE": "GPL3",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1500834645",
+  "PACKAGER": "Unknown Packager",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "qt5-base",
+    "qwt",
+    "bzip2",
+    "zlib>=1.2.3",
+    "proj>=4.6.0",
+    "ttf-liberation",
+    "libnova"
+  ]
+}

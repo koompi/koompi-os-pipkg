@@ -1,0 +1,23 @@
+{
+  "FILENAME": "python-rdflib-jsonld-0.5.0-1-any.pkg.tar.zst",
+  "NAME": "python-rdflib-jsonld",
+  "BASE": "python-rdflib-jsonld",
+  "VERSION": "0.5.0-1",
+  "DESC": "JSON-LD parser and serializer plugins for RDFLib",
+  "CSIZE": "30073",
+  "ISIZE": "114895",
+  "MD5SUM": "aabc572ee050c8647e0faa8e09c5f39c",
+  "SHA256SUM": "0ca4a4b56ac7bf143223e6fb680465bfc620ae7a9ca5d833b8b1e9a6f81a2b0c",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl6iHOQACgkQeGxj8zDXy5LFFQ//cg4SuovbmghBZp0Yr9Hs76wrnoMmirogga3pxM/JDnnbs2BW2cAPIHC/DC3CCjUkp2Jwgpq7JbBvD+jfiEzLBGtWLfpd1Biyi8VJBmq0E2TO2+/cLymxEz1mcSJpP4ouIOjYBzvLH9DKocwoHOXQuPhfxaK0EAY4WNIBBRwkdK93T9nSdCi6jHrFTLQScBvXh/5qV3G0CbPYy/0sgWrpTtSF+Jjmme7x8/3LuQwwRcFDXkP3Y891YC+mwkc28rd96DS9bJ3jIlNdL8rpO9tGwugQJCayEAhhAdBaZXUOA3nw50ovB9JX4icaAsUgGlhtY96S9rb4jOoa2ramCNRM1itg64gbCWD6F1jTeSafsvWfjHD6AbUzCE3ruavftcCWHi6o2MFRYIXKHsr5VT3QpfsUPx4iJOPfK+7BtiIoSkhHEnGlZ/XtCCQNZWwanKuDI6dopgKrtpEBBAxtFXt1ZzbvCEdggDRWQJOJq6RHNjzVUbvpNTKWqWqz6XnsyvMe94ifwFl6IQ/Z4oDwz4prFr6JDuLdttFXFtpKRNyY05EG4ZhYdnU2bT/0Nuc5rzGZwR2MrPPZVinuMHHCqjF4PNommDmYjErhLc08s7H25wsQuCTeuWXiuK5blJPCDXHHmI5J/YiojxUqD/9HGbRrxo6l/cLGXLpR6wmOEOavS+w=",
+  "URL": "https://github.com/RDFLib/rdflib-jsonld",
+  "LICENSE": "BSD",
+  "ARCH": "any",
+  "BUILDDATE": "1587682427",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "python-rdflib"
+  ]
+}

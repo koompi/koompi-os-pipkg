@@ -1,0 +1,24 @@
+{
+  "FILENAME": "lib32-attr-2.4.48-1-x86_64.pkg.tar.xz",
+  "NAME": "lib32-attr",
+  "BASE": "lib32-attr",
+  "VERSION": "2.4.48-1",
+  "DESC": "Extended attribute support library for ACL support (32-bit)",
+  "CSIZE": "8760",
+  "ISIZE": "18432",
+  "MD5SUM": "9b8eb31977586a100d3d082928bb506e",
+  "SHA256SUM": "38cd3c356a0fb32241d8555dc0dbbafdd847b4f8162139e23e4aac2afb9d0acd",
+  "PGPSIG": "iQFCBAABCAAsFiEEAv0cepNOYUVFhJ8ZpiNAdEmOnO4FAlsv9lsOHGFyY2hAZXdvcm0uZGUACgkQpiNAdEmOnO6Atwf/cIvA/BLJZDeisTzEWT5jUCelcnES34Mz8Sr6eGRoLdvATAj2yORvVInRIGJjxGB4/xvuHfqxEkWeKtFDITOSv6p1Mpg3qQ8FXYZdtm+95MNALNlnC/2P3xmJ41viO1J41ElBtcFg4ZjWDfHsKZkS9zE5RwZs4erKz2PqnIS71SzKdi/hRkHnwT04orBOuhfa55f8MIHqaEuc72GK6b+YlT5HbMWjcAuJgXAK5B0lNTJyiOM21KekWyer0AILtX45+EedRaaG27XwW/Z0bXbsmwInPgzxZG7PYScRmPOE1sk0eA8IPsBmiaR+dOd14Yjv24g78HSHCxuyoEcLHVChRg==",
+  "URL": "https://savannah.nongnu.org/projects/attr",
+  "LICENSE": "LGPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1529869847",
+  "PACKAGER": "Christian Hesse <arch@eworm.de>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "lib32-glibc",
+    "attr"
+  ]
+}

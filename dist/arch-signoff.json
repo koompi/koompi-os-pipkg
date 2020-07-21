@@ -1,0 +1,28 @@
+{
+  "FILENAME": "arch-signoff-0.5-1-any.pkg.tar.zst",
+  "NAME": "arch-signoff",
+  "BASE": "arch-signoff",
+  "VERSION": "0.5-1",
+  "DESC": "Sign off Arch Linux testing packages",
+  "CSIZE": "16222",
+  "ISIZE": "44713",
+  "MD5SUM": "061e7de32bef379660f7c1df38ad3017",
+  "SHA256SUM": "e770998207a21a9bdaab9ab811c0765a3025d0dad1b6f5d43f5f8ed18f616f57",
+  "PGPSIG": "iQEzBAABCAAdFiEE5JnHn1PJalTlcv7hwGCGM3xQdz4FAl7lO0wACgkQwGCGM3xQdz4auQgAjLkbFbbOospIUakdFh70nv8JXML0IrLwMRdZ5GZKt6BdXrBPOAHmigeangQVrXtjdtqHntdYBtsGGko7uThTpT5ENGWIrp6vBRwyh6GqKGkCwFEfBEYlokE8BBY2SJMggesmVdJOOXDENiwOJVNAAAv+IoexfNeMUIIOO7pcadZAeCgvhVOQK4TcGwOKEdbsCrmOsRhGqvyaYrTtlt08mB3UfPgc2Dl07Q/dIeY/nX+svigem19+nMhJkGk1JR1adg43wv5qoInsvWKeLC4Shlo4GVvt2YuXEfjadDTr8xqcU9l5VvSxbDPNXT7xYv4cJjQCM9JKcStkXJh9dDlJXw==",
+  "URL": "https://github.com/archlinux/arch-signoff",
+  "LICENSE": "custom:ISC",
+  "ARCH": "any",
+  "BUILDDATE": "1592081140",
+  "PACKAGER": "Jelle van der Waa <jelle@vdwaa.nl>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "python",
+    "pyalpm",
+    "python-click",
+    "python-dateutil",
+    "python-requests",
+    "python-setuptools"
+  ]
+}

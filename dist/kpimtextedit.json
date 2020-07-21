@@ -1,0 +1,25 @@
+{
+  "FILENAME": "kpimtextedit-20.04.3-1-x86_64.pkg.tar.zst",
+  "NAME": "kpimtextedit",
+  "BASE": "kpimtextedit",
+  "VERSION": "20.04.3-1",
+  "DESC": "A textedit with PIM-specific features",
+  "CSIZE": "358447",
+  "ISIZE": "1580483",
+  "MD5SUM": "c9f3ab63addc70d7835d5d92224691f3",
+  "SHA256SUM": "5363d4e8e29b8c2f4a161ff41cc6f3ab09e1590814b683f7b2b1e74a8d4a3a55",
+  "PGPSIG": "iQEzBAABCAAdFiEEFRnVq6Zb9vwrc8dWek52CV2KUuQFAl8HApYACgkQek52CV2KUuQXqgf/U82FTbKyj6jhu1m06LdKWtgTRLVQTe72TwWzdQ2od7hDMibT7MkUkR3/Lk70MvFBEsEThCVTgBV0YAyc8yYuw9+qtTL4YD1KxKY/DVxKpI2nIGE3PhtlnM/vQySQghxeddcQ2bZkffKezZ+YqcWUVjqQEJyB38RjoJXBzTHqjd0SaWWx9DzokqLhyKHOWFH3ncWRxw1eVtqL5yJhCs6mHFYaCjACjwIptus10nRVRtRkgyAbdvP6zJnn3h2Ef5KOm55wBglH55chCNlwplg3TdXYmn+nmHUTromF0rciG8R1SwaPilTTxlqEAObiLwpHneiR/3cXG5uxG5lJ9QX5yQ==",
+  "URL": "https://kontact.kde.org",
+  "LICENSE": "LGPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1594104013",
+  "PACKAGER": "Antonio Rojas <arojas@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "kio",
+    "grantlee",
+    "syntax-highlighting"
+  ]
+}

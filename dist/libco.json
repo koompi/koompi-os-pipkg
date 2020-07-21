@@ -1,0 +1,23 @@
+{
+  "FILENAME": "libco-20-2-x86_64.pkg.tar.zst",
+  "NAME": "libco",
+  "BASE": "libco",
+  "VERSION": "20-2",
+  "DESC": "Cooperative multithreading library",
+  "CSIZE": "5359",
+  "ISIZE": "19436",
+  "MD5SUM": "6bbb5037ea67e3d815571199a93eb6da",
+  "SHA256SUM": "e74b5d14e538d58f13ad3edf3280c334169ce48b341207ef87715278877bd832",
+  "PGPSIG": "iQIzBAABCgAdFiEEktnGzemaICTWkKdu50JoO6CMsv8FAl40HE4ACgkQ50JoO6CMsv+mKg/9GFl6PnbJ7S/i7EkKXYJ/T4TlVmogG2/tnvfVpPcFBydtFqeO8A+3y3g8pAYRIeHLTWK9LrmUwDBr5pb6mWKkkMwFLQ9QKXkBIxegQJmz3wFQKTPb3nD2Rkbl4u/I/PyvuB2kFrywRpWedHSNKT0A3ZAwTCbBJ3bCTC/DMg6Y3EX9lh4d/hsGt1iAczlOn0zlw9dIzgyJtgIFdLHLPRVVkWTzLy85oXzvNkjDEcKXdKnqJ3UOZwssAuLdZWl1mh0g6cNHuGTORyWCGIfztr7DRasRY8GfktH4eRVwsKoFUnsBe2TC/VGR0eGnrx0faJsg4a6wnFcn4i6RvgrRWWEx45Oe4QbqftOCbCdZEwBnVXKWDqttfB1jQZdiSBi0316FCcMmhqTknOPe8vY4pUsQitNFF+HOmJlg/ZjWd8EwHERXvl8+UpsUNrbf9CVA76zuud7m9c/HiKYO731394pgvB8OHPw51uI/IFWPqi98/NQjfZwgSgclXCo/6HbKXonVbnDc9C4u+zr/feSeHTn9stS3wtK8UXrCAuxhz7D/1NSnHFW6e6u7Wn699TUbPerUrcxCOkN+wuVA16O1n9eyxhje3B8+9G8hZOhjWwNPrAIzmEvi7mD+ptAddCFH5ifI38HXDMn4ivS+bF3JghPV1K8GGWmCTJ7rdBAlZu1Zlcg=",
+  "URL": "https://github.com/canonical/libco",
+  "LICENSE": "ISC",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1580414871",
+  "PACKAGER": "Morten Linderud <foxboron@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    ""
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "FILENAME": "woeusb-3.3.1-2-x86_64.pkg.tar.zst",
+  "NAME": "woeusb",
+  "BASE": "woeusb",
+  "VERSION": "3.3.1-2",
+  "DESC": "A Linux program to create Windows USB stick installer from a Windows DVD or an image",
+  "CSIZE": "255285",
+  "ISIZE": "568840",
+  "MD5SUM": "befcdbfddbed6e1f36e27c2ed08ab52a",
+  "SHA256SUM": "d7de43d2ba161dcf7f5c03093a3c4b9903539d50e01fdb805a4f8eca64decef7",
+  "PGPSIG": "iNUEABYKAH0WIQQFx3danouXdAf+COadTFqhVCbaCgUCXvqqgV8UgAAAAAAuAChpc3N1ZXItZnByQG5vdGF0aW9ucy5vcGVucGdwLmZpZnRoaG9yc2VtYW4ubmV0MDVDNzc3NUE5RThCOTc3NDA3RkUwOEU2OUQ0QzVBQTE1NDI2REEwQQAKCRCdTFqhVCbaCo2aAPwPh92ina8OY4Ti3F+hKsiopd4TF5DaiX2GlZPw7hG4igEA8oAuUwncVwy5fDPG9cnye8ewmP8qf6LXwf1JsljcWQM=",
+  "URL": "https://github.com/slacka/WoeUSB",
+  "LICENSE": "GPL3",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1593485921",
+  "PACKAGER": "Frederik Schwan <freswa@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "dosfstools",
+    "grub",
+    "ntfs-3g",
+    "parted",
+    "wget",
+    "wxgtk2"
+  ]
+}

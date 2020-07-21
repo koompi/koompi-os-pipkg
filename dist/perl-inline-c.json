@@ -1,0 +1,25 @@
+{
+  "FILENAME": "perl-inline-c-0.81-2-any.pkg.tar.zst",
+  "NAME": "perl-inline-c",
+  "BASE": "perl-inline-c",
+  "VERSION": "0.81-2",
+  "DESC": "C Language Support for Inline",
+  "CSIZE": "49358",
+  "ISIZE": "83850",
+  "MD5SUM": "e96095d1708c7c78e9a0469464d45d03",
+  "SHA256SUM": "ead3252662e3c4e42ad9b71bd46fcbccbe500ca3305a6b77d1ea9e7505075990",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl7vgswACgkQeGxj8zDXy5J6xxAAqz//iPhSsu14Qthqp3WDEHYHwiJryHiDM3iVllhDz2sv6Fim6CUMY7iOFXmcyuMpbga6OzyfcmZRoGMdAtge3eQIvR95SbDd+JZws1BJzCBGmjj4PR/NCqvd2K7KUW5zwdNMARHGXQVwLVkpgCLdUI0YXz8rUQPJP2Uig1jjmthdfrvAex8JBRdT9yZFNef/B+FuND7u5suXtostWa7RM7sL8s/akYWnL3NbkaV9yHaZ2K6pylFUX8yp9BiaSRi9FiD7TFCZrhzR0tf1tw5o2YSHAJxXIubZQ1SWvdWTq4uI1tiMcrwO0opSJc4Wtk4kbpVwraYembcuvMzZbM56427ff8mC7VCJ0J4QcMLZv5OFMBM4vg6Uehj5InQpZgQjsN3eaYJyIY6xLyIxG6KWaDRmprgygwUX6eVxPzzRCmYUEj0BC0aJoMOVYW9Vj2e2GMmPHmLKXRxpg+qfwMBWPUoces71+7sDvQ5TojatoSdsfAj3vYWkzjl0F3rrO9t1HaOCkvvqK+F2dGZxWGIftQY4xInPzOJY7y9Ps1450EfiFuMZnHnuwkwDKgiqVT+ZPEaVi76K+bJB/pdK4zOK1T7PDPsnLwiZdCcgsrox6hVGU6ArfcRvdolZ0qmKO3yRnvxqhv4w3TdgBxp4RlyY+iTTMOfft0okXWuK7xAnmwg=",
+  "URL": "https://metacpan.org/release/Inline-C",
+  "LICENSE": "PerlArtistic",
+  "ARCH": "any",
+  "BUILDDATE": "1592754570",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "perl-inline",
+    "perl-parse-recdescent",
+    "perl-pegex"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "FILENAME": "haskell-src-exts-1.23.1-8-x86_64.pkg.tar.zst",
+  "NAME": "haskell-src-exts",
+  "BASE": "haskell-src-exts",
+  "VERSION": "1.23.1-8",
+  "DESC": "Manipulating Haskell source: abstract syntax, lexer, parser, and pretty-printer",
+  "CSIZE": "2440191",
+  "ISIZE": "20190841",
+  "MD5SUM": "82700c211a3bb1d000144e45f9c592f1",
+  "SHA256SUM": "ae907cc12f4f95852526b4ba073513f71234ccede5cdaeb4e7926b7712a7bb3a",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl75JK4ACgkQeGxj8zDXy5KfBA/+KMRbsv66eDXz0qgiKXiiXhZNkNE+3c/wc2pOPOvFzt2bVdCnPHDRVvr9eNpwdjn8BOR3IvBwTp8i/dxxHeV/GC8c9VEjQHIDSDAR9YrWf0lTu9KHKw1iga3STz1ZllhSLkf6gdhOTjCX+z+voSfmPk8VfMLWF5HW8MPV+mrZ2PquBQ8w5+dSqXTiGdqmY5X1bo/jhobPxPeYLpfVJYrhX2qEG+KDWe0wmuNLXuGDOX4BUGAHVwek5A+dt3/ZdIE9rQJqx1UywI0YYmoYRhFWXhWKBo/u8hK6QViqoSqUkbvSY0x/aEr8qyU/59PjK5oR45lVQogyzNHwiixC+TMf4or4kHa6deUS1nuS618+dRsdTdaASqEl9oz90Z1HG+HpH8sFkurI/OmW7mBeQA0i758nbFnGOHYCmS8Bg1WanBeC8msaFKJbSCbxAqtGG3cJhzHzKLfQ2vHPD+yX8TPSeUpkEf2aVDgjpVPisR6bp9G9ElDFdQcTWQEBWccCtcDHNVMOi1Z4hL8DY9j2nMsfRW+r+uUts+vxKLBGr+ivfPDLvGBFW852V5W6k/LNdycMhCcqpIJFNHqCTyo4ToSoCjiRgrfdmoGZU+AFBWqyOfi18aK5cTj5TqsiTgoENFiVy4pWA+FYMuer3l4Y2Sev+bKVHJBHq2eY/LRsVp/YWU4=",
+  "URL": "https://github.com/haskell-suite/haskell-src-exts",
+  "LICENSE": "custom:BSD",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1593385880",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "ghc-libs"
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "FILENAME": "perl-anyevent-i3-0.17-6-any.pkg.tar.zst",
+  "NAME": "perl-anyevent-i3",
+  "BASE": "perl-anyevent-i3",
+  "VERSION": "0.17-6",
+  "DESC": "Communicate with the i3 window manager",
+  "CSIZE": "11427",
+  "ISIZE": "17901",
+  "MD5SUM": "c43401974c6a477e12ced3f85051f195",
+  "SHA256SUM": "1e70004e6b4bc599ec27be2f334f2497d190cde74d0712b8c20de2003c290450",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl7viHwACgkQeGxj8zDXy5KpoQ/9HmxYlRWn7tl5tuk0XX2ICIp15nKJ7dgzvN3GdXclzhgfwFE8HToXAklrRZvQj1sf31146oalnU05dhe0N24HYzIzobQzTLgydMGfw+/SREXSWEXcaO8+ZCvu04qMkVsp1EV8A9e5Yx0w3KesQq4qNaNYlr+A9jRMGUgSL9uUTo/nhDdAI8T+7RFzbi+NOY+3iKfynPDWGrc7EX8MJT7Vjo/uylYNxsRdlfWo0o0Q08dMYI5FSxCJoCGgnBY5LHDy4m6YqCVLzGSXoogRZA/+rYtqMTEFV6VN2VxRGtt1jE0w14GppEZ8pZyn72Zs4NGqyr57g6nDdKdT/w21iOayuUJz+YVdx9PYElSDemGY3THoEgRwxVEY2lm75aMWNaDhEuoKtWhP0jxIGt5dYyl1I9ZyfjJBkL+V7fi1PAZhZRWi7xEzpy1EScRT9A7HHa8sPaxth410KC1NkAXEMkbrFXkl/H3+t1MlkmAFoQy7Th8SRN/c4DQcODbLRmoJC3NQHVcrDFFSwVGrM7wlqLcpWXM7IBB9ka7e3RxVshjcLXiNQvDDXY56Ng63Lr87dxvuU2iNdxiYeMPCIYv8KshwsVyql9Qsnz/U0fgNONUF5II8QszRqX7vR3vsDvVE/BSP0tr/eyKedXJLf3Dh8KYIl0CPLUwUAbKskh1OntHDC+E=",
+  "URL": "https://search.cpan.org/~mstplbg/AnyEvent-I3/",
+  "LICENSE": "GPL",
+  "ARCH": "any",
+  "BUILDDATE": "1592756327",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "perl",
+    "perl-anyevent",
+    "perl-json-xs"
+  ]
+}

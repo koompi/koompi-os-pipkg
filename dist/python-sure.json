@@ -1,0 +1,24 @@
+{
+  "FILENAME": "python-sure-1.4.11-5-any.pkg.tar.zst",
+  "NAME": "python-sure",
+  "BASE": "python-sure",
+  "VERSION": "1.4.11-5",
+  "DESC": "An idiomatic testing library for python with powerful and flexible assertions",
+  "CSIZE": "40365",
+  "ISIZE": "175558",
+  "MD5SUM": "2bd48256081d9e520268daedbedf12e1",
+  "SHA256SUM": "858abe9df653456c0d726fa574d0764d4ee4f92a6f0f759e4fb8ad83d8dd7c83",
+  "PGPSIG": "iQEzBAABCAAdFiEEzgvecadZqH8j8PfYth284QkBwWMFAl5wEG8ACgkQth284QkBwWPtcQf/SjtFZ97h6Q4qlgKi40bn8JOAmtwWoFTDUzwSt3xZXkaJTGHPs2Vp2vKzzGQV7eDtqpgiBZYPWwLyislhcVjV978PuAhJ6C2jFE+36+9zrMFbwOoqulsUv5omD6qcIT0v6Wz1LMSIX0lAAGeI4EloZf2l3G4RcPY1bMqWxKFqjm8vDffbQY9UgQAf8H9+ei8fAdyJk1Fl5Q8Agpd0x6qeX20Fx9rhZaeDBCCWqke/xrGBVJvxKVzGrqSTFMVv41BA+sMs5eySR/QhYTkrqMMJrzUvkUP6EIIoit2wtoIh3wQFthhHSzAsKdlRf9YnZXkIh8gLyWkYwX7MjzroX/Gwhg==",
+  "URL": "https://github.com/gabrielfalcao/sure",
+  "LICENSE": "GPL",
+  "ARCH": "any",
+  "BUILDDATE": "1584402511",
+  "PACKAGER": "Balló György <ballogyor+arch@gmail.com>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "python-six",
+    "python-mock"
+  ]
+}

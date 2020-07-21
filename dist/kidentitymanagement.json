@@ -1,0 +1,23 @@
+{
+  "FILENAME": "kidentitymanagement-20.04.3-1-x86_64.pkg.tar.zst",
+  "NAME": "kidentitymanagement",
+  "BASE": "kidentitymanagement",
+  "VERSION": "20.04.3-1",
+  "DESC": "KDE PIM libraries",
+  "CSIZE": "112519",
+  "ISIZE": "392825",
+  "MD5SUM": "620410ec865e09708ea4959470b3c735",
+  "SHA256SUM": "5e4c2cac41ce43da35d44c3124d72f739a24b6c341101cc8cf3cde35b153f192",
+  "PGPSIG": "iQEzBAABCAAdFiEEFRnVq6Zb9vwrc8dWek52CV2KUuQFAl8HAp4ACgkQek52CV2KUuTo4wf9EhvZAmfa10REJhFwm+jQO2qfOmuiDDHFwSVOjQ3p+L0hjOatN27B4YSZH7P8FlkGsOkoZ73tk+lQhk/Vk3s3VrMpgBCXyu54uH6abucidbDYPrmXCfPVCEU8E+VfEo0ZnND0Aa2nzPQjpakAFUwUZuY5GYG653l1ttl45yc/kojbDJryN6nhOkLEzkaahub8x489dUItD6A41TZ0QfGqkUVN3tELHsCsJjyqlOJ9tqDolxJhXvTL7/cRWG3s1TrzgoHgLDRcyi1+Ns5Q+F45tu6IyWK3mrnPteB0auYvaFz6WyTIA8aropCDirVJ+ktkHf+L5GVYXV5/Hj7BieqvnQ==",
+  "URL": "https://kontact.kde.org",
+  "LICENSE": "LGPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1594104062",
+  "PACKAGER": "Antonio Rojas <arojas@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "kpimtextedit"
+  ]
+}

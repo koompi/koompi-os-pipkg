@@ -1,0 +1,23 @@
+{
+  "FILENAME": "python2-retrying-1.3.3-7-any.pkg.tar.zst",
+  "NAME": "python2-retrying",
+  "BASE": "python-retrying",
+  "VERSION": "1.3.3-7",
+  "DESC": "A general purpose Python retyring library",
+  "CSIZE": "10745",
+  "ISIZE": "38580",
+  "MD5SUM": "a5d5ad5e1b267788c56ae68a7d3338f4",
+  "SHA256SUM": "92c9ebbb58e00680bcf15afe80178714e395c7f61398aefeb48991902456dc53",
+  "PGPSIG": "iQEzBAABCAAdFiEEhs/8qRjPOvRxR1iAUeixSKmZnDQFAl6/tg4ACgkQUeixSKmZnDQSyQgAnuJznpMkf2l+/CPLnhQsSxuPvDklcaUwLpJdsaMoQnIT2myMHFX7a2kCrd0zZN7kkwm8c9PhS6oAaBNanL60a+JEVfXiFLxlUeVseAQbjDGoqghMafs9fbAtcyQotAF1Cb3F+3jkyyYpzxWMFqnEu6SG/aPjDBiTt/jb+1+45yosk2mw2ds/ZfM4tbIEuj+WOb6cWTHSmiIavbZMsAyjwVWZTWepvP079gkedzdu3oFihxaPlVu0uugIYw57YtxWU79umBYOoGRrXB5z0OOVDeJOc4aY90LZR8N835QuGuCYMNplcw5wLA0d76SAIxgTbHl/YUexzKSJMkRs3bfk5w==",
+  "URL": "https://github.com/rholder/retrying/releases",
+  "LICENSE": "Apache",
+  "ARCH": "any",
+  "BUILDDATE": "1589622264",
+  "PACKAGER": "Evangelos Foutras <evangelos@foutrelis.com>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "python2-six"
+  ]
+}

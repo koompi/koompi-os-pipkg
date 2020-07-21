@@ -1,0 +1,24 @@
+{
+  "FILENAME": "mate-user-guide-1.24.0-1-any.pkg.tar.zst",
+  "NAME": "mate-user-guide",
+  "BASE": "mate-user-guide",
+  "VERSION": "1.24.0-1",
+  "DESC": "MATE User Guide",
+  "CSIZE": "8221011",
+  "ISIZE": "77338070",
+  "MD5SUM": "b5d683ee33f0d6246ba2dffe578e8bfb",
+  "SHA256SUM": "7a340203ece52ec4a25964ed49410007b4120058365d4db86bfc791e369bbc0b",
+  "PGPSIG": "iQEzBAABCAAdFiEEzFln1AlbTztC1F+ggaQC1POCu70FAl5VnwoACgkQgaQC1POCu73dHwgAoPiyFTXj5dbWeZc/UisM00XUe0NC7LaIDVu7QDbql8Si/X2Ne3ATcykSBAJ+vjihhphfyA97apzG0CvXxaIQ2sAGOasn7yQdmObssvFMJD3bOZk6b7c5yIKsNjTAyjvtCnjmJ9UtNROJ/VBNeNUnVF4IeV4NTV0nJzxv2UXIyPcBQS8TeLQxqiA8O4BjV6xScGoNLZVPEbgus805Pm3iaEDs3DQiY7NJzUqUj0RZAAjk7S+vWaRBwUYwDgUslbQnh3pvIpQeYokglJSqr3FuYHMl7G7/78ZcLf21y+6H5KdmbiO2FKOBnNd7RultE1wS7UBob7SdFTmBFyh2su5imQ==",
+  "URL": "https://mate-desktop.org",
+  "LICENSE": "FDL",
+  "ARCH": "any",
+  "BUILDDATE": "1582668922",
+  "PACKAGER": "Brad Fanella <cesura@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "yelp",
+    "gettext"
+  ]
+}

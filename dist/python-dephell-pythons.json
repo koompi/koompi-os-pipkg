@@ -1,0 +1,25 @@
+{
+  "FILENAME": "python-dephell-pythons-0.1.14-1-any.pkg.tar.zst",
+  "NAME": "python-dephell-pythons",
+  "BASE": "python-dephell-pythons",
+  "VERSION": "0.1.14-1",
+  "DESC": "Work with python versions",
+  "CSIZE": "25688",
+  "ISIZE": "86095",
+  "MD5SUM": "9404ac7046a3a4379e81f2e04e4f1211",
+  "SHA256SUM": "a0127f9f7aba0a730cdf9679805231ac5a92227cf9fd2bab6e275ca27e2363ed",
+  "PGPSIG": "iQIzBAABCgAdFiEEYEETBMCdNmKDQO7/zrFn77VyK9YFAl4LV3sACgkQzrFn77VyK9axEBAAhRrZ8m+wSU93TAlaXoOs8WzxUCqW/HBU9QxP2tYE9xqodk3HS8tPzao555ewlIIVDnSIJeJEH7IYSb3JP7RqxHVc6YHigvQoJSGJ2S9D/5DeIEKAtzFKGvul8BHVtGjeXl1qsBn8jumQ7wds5XZlGatEB742/QoZDSkRAR4KmLN+BFjLyK8e0IJ0uxcfi0lThjVHZIFMPWOl4Z3WAUSW/fk1vjjmYkGeOnpejA3cnFVQBa20yRPNI2jv3nHQjhzBA3tSGgYIis/QYJw0SVY3Ew45ZFLG1AWNJR5Gw6FtRv6P4LQ8vPr/NgRv+fZsnrJ4EniLBieTPb5a10epFGJbaaAK9jJXYdwjRuN07MtAGF+JNFwO6/K2ikq5js2bGkiyjTuP3/PH59UTMHEGlAPPUJB09h/e8iT104WO7mL19O1PSGAWIScESFUhPTvJo3nUH157Z6RLnEjjNDJUQSsCdZ6GnGVCrb7DoR39/SBYCZn/mr3n/TfGwzS6s0TqQQxakqg5/B8Wkn3vXTTVHeclGffzC7r3olG7yOHWK0BJfVpir3S1MomwpC+7BCPZrI04qXBoqYJGQt37SViK7YybkIepOWBrsuArjI0aLRRm1fHTyGMrRYfM0D8akiR44JR0YpKz0CXRKK4be5rd3RUhgn0IKV0++EoR3gcQlMj5k+0=",
+  "URL": "https://github.com/dephell/dephell_pythons",
+  "LICENSE": "MIT",
+  "ARCH": "any",
+  "BUILDDATE": "1577801513",
+  "PACKAGER": "Eli Schwartz <eschwartz@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "python-attrs",
+    "python-dephell-specifier",
+    "python-packaging"
+  ]
+}

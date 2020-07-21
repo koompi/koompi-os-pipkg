@@ -1,0 +1,24 @@
+{
+  "FILENAME": "haskell-filepattern-0.1.2-20-x86_64.pkg.tar.zst",
+  "NAME": "haskell-filepattern",
+  "BASE": "haskell-filepattern",
+  "VERSION": "0.1.2-20",
+  "DESC": "File path glob-like matching",
+  "CSIZE": "78343",
+  "ISIZE": "355377",
+  "MD5SUM": "05a88142536875bf26dcca3f8337909f",
+  "SHA256SUM": "d8ef0b7026199c5ed13a4c0c0825b8c047deac31b5fb1ef64c91f6dbd1b8814d",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl75mVYACgkQeGxj8zDXy5LFng/8D7rQYS2nwI9Ax/fuC2MxE9toeWccn/dxabuQ4Fv57MwmPtGoxWE+mxGXaEeB1g981MfJX8otgG+Z3seDQEYsuoMpT0goveaX42Sk88LfHilBWVeoyXaoIx7bnn/8JOxSVmLVAk+Qj6kwNBUpSPF170MSrdHWhjC5Mb2UWOZlPBSwg0CXKFAANxAUpM5J9LlYkgA2cQ+VDhJAKj/RXuCSSiSn38ln5r3xHruLkk/QYQtaQl3ibRCPmdPH8CRrRHGjyAjFYaheXpACiIljoCDJyPs6t2bUxWA6cXW6cSsupvgBXEcNa42bbIfiEawRSvQzUFbwHZHF05WZ7kKnfYSG41bX6iaTJrOI4yPdK3mpssJX4lml+sqMlvTnH4RPxgF25Sysg2D1APxo1iOUSx1OCppzWVvhTZYprhaV0UR0sfzniB+yEnJUtgvVCwVGfpyOXNXdQc3DjKQ3sDn1c3RZ8DEoFiiTbwCVxTn8jg9eJnNrCIpP8OK4KpMdTGl43W2FXQTGINTgBJv8eJ++7r5zJb8UUrXcez8KBl7XrFe0Jub/Dx5SCKEljuxL5nHgLNu7REEmesiqmrF4pHog1DwuRBwxNci/Rxa873KHweSLISYjLXy44r6VAzLQ3L63+1Ay92d1mqXamswump+M++vddAkLqLoJEOIc+kZnQipZ1No=",
+  "URL": "https://github.com/ndmitchell/filepattern",
+  "LICENSE": "BSD",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1593415992",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "ghc-libs",
+    "haskell-extra"
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "FILENAME": "libpsl-0.21.0-2-x86_64.pkg.tar.xz",
+  "NAME": "libpsl",
+  "BASE": "libpsl",
+  "VERSION": "0.21.0-2",
+  "DESC": "Public Suffix List library",
+  "CSIZE": "74908",
+  "ISIZE": "194099",
+  "MD5SUM": "c647336ad7e5d2b60e7155125578c6d1",
+  "SHA256SUM": "914bacb0aed4a476665393870700a092c72d3617dec23b9d6b58836f8382576e",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl3MQVQACgkQeGxj8zDXy5IVhw//aGWOQ2TpVFNOzgFDZ5MbzlDeZPR3V00g+PB1Bmuh1RmB9TfknKPFcmGoY8oUfkyLhUuPbtY3vx6YoD5s/vJ6t2Mn+QfY8mKA9QfMpS13hqjR/kcOBv9gVRo/aujAUCLNk/rG/orCk1iOroxn7J5/Om0kEu7C+dS7oTKUYfw3eTjaQkUHkfwrAI/MMByhL6ObyXbuMwCkucBRi7u0BVGX7at+hN/KBtDo+TnJHF48WZHHIdTQ16ayxHAPdXwJ0/bCckkMq0vZHj1pWLdjwxoIawNIXg/zd1hebqH60e9XJRV9k24VdyJVd5RglgHRReH0kAG3qWUxQLkzIFZSieFOByBdNWPTpMP6JyAUkOTJWXq6Q6ojjmQTGib90TydflYVm1ThzAQ3UurXA/om1IfaoyByXLagqhgnhG/un/9AYLJCHajBjYoc0+FEBWoI/NCJp1AP/kbE+T/ropVebKFZN70We8yzRelEi0o6NlHC8dlis4uVnXBFyR7txPAvyT2VveorHDoAIQtwfB8lCtIa/GhEycCvaQJUhyyb9hn5Aq4rLlQxNRy+VB9wCdvzluNIItKwBdypsh2RRGPq+hJvjEM83aUlKJj3Fj30JRCqZ9Rr+W0Vqd2LXRFxUcs2ci34X24Zc2iB5je1nC2Dmd7DYZcuiR9njCylKiTspkHX4lo=",
+  "URL": "https://github.com/rockdaboot/libpsl",
+  "LICENSE": "MIT",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1573666083",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    "libpsl.so=5-64"
+  ],
+  "DEPENDS": [
+    "libidn2",
+    "libidn2.so=0-64",
+    "libunistring"
+  ]
+}

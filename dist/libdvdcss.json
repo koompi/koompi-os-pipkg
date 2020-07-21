@@ -1,0 +1,23 @@
+{
+  "FILENAME": "libdvdcss-1.4.2-2-x86_64.pkg.tar.zst",
+  "NAME": "libdvdcss",
+  "BASE": "libdvdcss",
+  "VERSION": "1.4.2-2",
+  "DESC": "Portable abstraction library for DVD decryption",
+  "CSIZE": "20464",
+  "ISIZE": "39604",
+  "MD5SUM": "fd62339ad0030dd7e15b3575d7ac16b5",
+  "SHA256SUM": "a697609776e74fdcb92cb20f549b811be6fbc148d6882c5917c1742fcf0281f4",
+  "PGPSIG": "iQFIBAABCAAyFiEEZkWwqMcAXnjbHXhk+Z/+D+rpmb0FAl60u4wUHGFsbGFuQGFyY2hsaW51eC5vcmcACgkQ+Z/+D+rpmb0b7wgAmJhIERoLkPwZExl0jVW36lIakOiBSLz348JevomoXLzl9plU4AjhAkJJUa72Nn0MCHrUgexkAnp5Dha1sbqGGq3pPKy4w73NwxR2hyK5wBP0NNvq8zk7GQqoTmftZvfXQtwEnkd5jBLOyJtUdTXM+x3LcOpER6zIxntLTxmpO967VQVja+wu3RZYt8RHDH6xMJy67r/Y9QB760LoHGTNXGp8dxugs8/EJxiAKNoqNgcdyvWPPDZsVhX1NE9+S2J009jFcR7S3hF9vrHD+5Jhqeow3sLGJ1lSbJv3p0jJRgcaP2pFKvZDN9cPTB9HizKqPAM+/OcOxPJpDxDEseq2XA==",
+  "URL": "https://www.videolan.org/developers/libdvdcss.html",
+  "LICENSE": "GPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1588902619",
+  "PACKAGER": "Allan McRae <allan@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "glibc"
+  ]
+}

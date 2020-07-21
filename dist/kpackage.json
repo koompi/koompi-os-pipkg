@@ -1,0 +1,25 @@
+{
+  "FILENAME": "kpackage-5.72.0-1-x86_64.pkg.tar.zst",
+  "NAME": "kpackage",
+  "BASE": "kpackage",
+  "VERSION": "5.72.0-1",
+  "DESC": "Framework that lets applications manage user installable packages of non-binary assets",
+  "CSIZE": "361245",
+  "ISIZE": "1096165",
+  "MD5SUM": "d5cb8d71ff97df88cfb1d7fbf43d1de6",
+  "SHA256SUM": "25e1d1205fb410e65f08e57a4a8e249c4d80674016a4681528f9930cbcf91c7d",
+  "PGPSIG": "iQEzBAABCAAdFiEEFRnVq6Zb9vwrc8dWek52CV2KUuQFAl8JYK4ACgkQek52CV2KUuRm8QgAnWb+t8EvbZZJBKqWSq2Za9ndhQv86C8/l3Y7S/rnHQTX/yxlYGjhIfYbiZlge87gmAikZUJ9Ijy9ZszvYZz1w42Q/lHb3u3+roAJB+T1vyZBjGVILC1WU4M7Jhk80skgtt57BNzBwW8NdYZbFP37sLwVQmeCUr7s88G5ESBY3/y9HbQ7ZjgWgCNk8iHdyy077l3DZc4s8XPUNQ5cwGMJGi8bTU7cAJZS76UXscLZVmitEZQz6oit/SvxCPWL8qKGiSfU6M5CeL0EzctcmFmgjTUKRjKC/UTBTrCFDWHUoGC64bK0rfZ7tCU0UiWCOtGRFZZeQf68xDeZ46KoMraU6g==",
+  "URL": "https://community.kde.org/Frameworks",
+  "LICENSE": "LGPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1594201902",
+  "PACKAGER": "Antonio Rojas <arojas@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "karchive",
+    "ki18n",
+    "kcoreaddons"
+  ]
+}

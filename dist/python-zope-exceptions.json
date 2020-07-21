@@ -1,0 +1,24 @@
+{
+  "FILENAME": "python-zope-exceptions-4.3-3-any.pkg.tar.xz",
+  "NAME": "python-zope-exceptions",
+  "BASE": "python-zope-exceptions",
+  "VERSION": "4.3-3",
+  "DESC": "Generic exceptions and implementations for Zope",
+  "CSIZE": "28084",
+  "ISIZE": "166422",
+  "MD5SUM": "3a07e5e2d993037f827c1ea303d1ea73",
+  "SHA256SUM": "ce861709c52078293bb82c1cb9aedd49ec9a5d1dfe24e7ea8cdb0b516c56634b",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl28MikACgkQeGxj8zDXy5Kz9A/8C14apynwKzU1BUyc4dm/IKOtI8T+9hSsoExmIMq3BqEKDEek+k05YEMn3mZwTa9cVBXWvBOtSoaTOMTPuO4afrRgViv4mqfdX3NnFVtk82HsXa2UenFdc0oGHHDUrB2GqnVR11rMkG2KUZAja76IcafhQYsPV1JcS0o4dkthsmyIwCrQhwRJ4ABGVecckkmYCyLU5BUK1TeWY63HoMPl/sAcQHWA/oZvfU12+oMY5ueteKnET6t6bfGPyO62x8BOcPEwibfUY7Nly7ztLiRj5GC7hBEcM5pObXMv9Y/0SDJ1zCcw9gH0IHPK+BSO4TDyvsyBmrG47VqrkaWbufZWw5Sdzriw+9Na2v3GvBeLIK4Kcqn2Bt8f5dwvOZgoOSqZDC6lFIItQD3rxzQP4wGoCo3jH790bWp/EKnvXk57OahHX9viWDyQKaUQzbqYPB07Gy3+OIlvj0cPdQ+QaknPPurX59nn5RdWGVrsex9R+BKmPNSiGxtASE2k9Wp7NB5uk/2P2lIoNGltAkYRCEV94DHB+WayVvcUmVFXwEZ1A54AgsBOqCf+KolWWIBASK/vrmQlyyx3AbGium086Lb+lpruCbiPnC4hLIMjRzqgddsH7YiPfpyYez97OIsPgL+oHGYAxVrmCdxKoRRGp7UZvRSQJanvHcE8HXvZ2BPAM3A=",
+  "URL": "https://github.com/zopefoundation/zope.exceptions",
+  "LICENSE": "ZPL",
+  "ARCH": "any",
+  "BUILDDATE": "1572614658",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "python-setuptools",
+    "python-zope-interface"
+  ]
+}

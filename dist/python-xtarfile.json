@@ -1,0 +1,23 @@
+{
+  "FILENAME": "python-xtarfile-0.0.3-1-any.pkg.tar.xz",
+  "NAME": "python-xtarfile",
+  "BASE": "python-xtarfile",
+  "VERSION": "0.0.3-1",
+  "DESC": "Wrapper around tarfile to add support for more compression formats",
+  "CSIZE": "6644",
+  "ISIZE": "10944",
+  "MD5SUM": "28d22dcc0a6a9edb4fe9a4236ee87db9",
+  "SHA256SUM": "ecda3e5558885cbf78b5e40795a43b0c9732fd562649d5abbdc37e0ba24ea6b2",
+  "PGPSIG": "iQEzBAABCAAdFiEE5JnHn1PJalTlcv7hwGCGM3xQdz4FAl4Mu8gACgkQwGCGM3xQdz4P0Qf/eJh4ojK8j41FOvMpDM6YuDwnBRnn9N7ndPGoDbyOtIHo+1CcImjjTNO8gSBsOXk1I8Z7FbOODfctXDhbk+jW03qgj4uAuoMydwSEIxM8sN7f8KXSYD/YajvhIySf1gMQHWfnNxnvVb3BYpneq1p9sqnPZfnFvxwXysJOvfx1yP45yBfOMAwwPiLOMsGiKRqhKlic0tg1dat45Lgbc36atSl1aDWax3O5JoOQ4GihtBsBAY1a86DxY9VH6cp6KXYxAPnDDOxmQNPw0fo9+hOG5u0UWf1zOejz4ga0D/CAAGOPQXn4sO7YTQ2JDnTXuliOEPKNNTkYoXhg5M3bXX+82w==",
+  "URL": "https://github.com/ascoderu/xtarfile",
+  "LICENSE": "Apache",
+  "ARCH": "any",
+  "BUILDDATE": "1577892339",
+  "PACKAGER": "Jelle van der Waa <jelle@vdwaa.nl>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "python-zstandard"
+  ]
+}

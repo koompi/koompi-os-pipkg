@@ -1,0 +1,25 @@
+{
+  "FILENAME": "xorg-server-common-1.20.8-2-x86_64.pkg.tar.zst",
+  "NAME": "xorg-server-common",
+  "BASE": "xorg-server",
+  "VERSION": "1.20.8-2",
+  "DESC": "Xorg server common files",
+  "CSIZE": "28581",
+  "ISIZE": "130263",
+  "MD5SUM": "67208ce2b3ea36c1672986c3271cc9e6",
+  "SHA256SUM": "76edea8a3537ccfe5fb31f05685c67ec1a2fdfda15750c0950abca396f2a9979",
+  "PGPSIG": "iQEzBAABCAAdFiEEhs/8qRjPOvRxR1iAUeixSKmZnDQFAl6w9VIACgkQUeixSKmZnDRs3ggAqFlGADkExVPjdknbNzHwQmE5vubADmrG2G02D8bLWWkAOTyf9b8ljsfu/qfowbJAYCHgcL664FqRPEuzsaWE+ULVwUduvpjNvvVNoiScPZasDD2SVN+qJM2iUNyzqZ8yACpK34OJVDqdwx1utX6xF0+Ocvf8ahR13OIW4iTie5Vey6vOs/DnyOy+EPCEAyLt8n4gG1AO1edmNPEXJYUwYH5W07gWyCsF47HObAvGOkfmJc//oOMCyP6AQ7jxALoYRB6SjaZwUqf0yur2eaZ0+BmO5xytukiJcflxwKtW4gdrzsjS6n5ThaU7vzi4i+RwWhOaUFhkhKgz4XPNSL+GQw==",
+  "URL": "https://xorg.freedesktop.org",
+  "LICENSE": "custom",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1588655297",
+  "PACKAGER": "Evangelos Foutras <evangelos@foutrelis.com>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "xkeyboard-config",
+    "xorg-xkbcomp",
+    "xorg-setxkbmap"
+  ]
+}

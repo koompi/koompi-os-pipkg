@@ -1,0 +1,25 @@
+{
+  "FILENAME": "gwakeonlan-0.6.3-2-any.pkg.tar.zst",
+  "NAME": "gwakeonlan",
+  "BASE": "gwakeonlan",
+  "VERSION": "0.6.3-2",
+  "DESC": "GTK+ utility to awake machines using the Wake on LAN.",
+  "CSIZE": "95242",
+  "ISIZE": "354877",
+  "MD5SUM": "49fb1a13a81a885a7cb01833cba4714e",
+  "SHA256SUM": "50ccde0053767fa92917fcab3477f51b047f75a238905f435ccf7d6010032e0d",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl8Esn4ACgkQeGxj8zDXy5Ismw//dC0u0UZtFvJBU/L8WlIsGf5PmUNsWSh09EwtzwpogbRSIwQavjSaZnU3VNG4W1bR5xNG/Joi6BVYeyPfwVCyUtur/Q6A93Qx0TeN8oyUY6NQv8xpysMW+7oFQG2nawIDQPvts71F/6kjx68BD29s1qdHP3TplGyim1qAVLmZQjFHBcE+QykHTwM1UsYnRhs2GSgkrx3weVHeaB9isR2VqdJ3PTRDdG4RZgNHxcCofm2XqsET+hji+H743jRrCWX+xZkIpCgMMd4jUtR9uMSG2qX7Mis4KgUsEVnpEHslhsAxgf6v3XarkcWdolEt/k192Dx2v7jcd2s2/paxvaFsOvcnS945aQneBXxWqywyx1CbKaWwdozV2oobISGAPRDdXyBaRxE3zwjmRLj74x24fcSdLyM61zOK79UVFaHpoD3NGjRel3HvH+PglYkmn+sX/w/wkpHQlqkrL5RhD9k9hVJiEQ0DAGvjy3LPWGycxIZ4CL0iDj01m24vuXHs0ecBIZPfXLHfJYh2PAyLn0eZX7oNjrNkFuxuRm3DdRosY7Izx/zuSrGgTOcuj92ZPsEH61zZS5CPb3ZymrR1xFU55B/z2KqejhOJbiEJXTg89DPj9C6OI8HOu+RQqN20FEDvkVmfD5gvxVvL0rP5z0XVmWbnX0d2huEEgCQkwfbwuVM=",
+  "URL": "https://www.muflone.com/gwakeonlan",
+  "LICENSE": "GPL2",
+  "ARCH": "any",
+  "BUILDDATE": "1594143332",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "gtk3",
+    "python2-xdg",
+    "python2-gobject"
+  ]
+}

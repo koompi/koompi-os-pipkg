@@ -1,0 +1,23 @@
+{
+  "FILENAME": "oxygen-gtk2-1.4.6-4-x86_64.pkg.tar.zst",
+  "NAME": "oxygen-gtk2",
+  "BASE": "oxygen-gtk2",
+  "VERSION": "1.4.6-4",
+  "DESC": "Port of the default KDE widget theme (Oxygen) to GTK2",
+  "CSIZE": "438244",
+  "ISIZE": "1547842",
+  "MD5SUM": "04666384b560c90a264739d776b88720",
+  "SHA256SUM": "80e03d4c14cc626c8959f6658a6dda99b9b7ce9267738960fc95ed95f1919981",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl6/zqcACgkQeGxj8zDXy5JqNQ/6A0OVp5Wz4oolBJLR7Ajf7cj9WpNUk7ffMZ7kKEp5Ff3QbRAEjWClPefJOFhyMc4eYDZ9XaGZk4KMUN+FLAo/oc2DGqfpavXLet0xLfKuRMSqGENaGXwKbEB8/S5fVEkriQPya3xlK1VtCGdHtAqJbjJomw97X0nThR6CWAf5KUK2foM3SGFkVNUVqSp6Y4YUlq11llUiA3xMlAzSDLlwYvj1e6k7V6yigPpc5uekJKj4Sv7m6tx8v/Dr4WIgg+vg8SWEy3pdZEp3L7WDwetchoxMMiTssWcML10DcSd75cdq18cPsmRV1Zx3wI+9jkCkB0+8hKG2rzF0mBwWa0o/sXVILn+rjQImSqc8M4mgTAQDqCiRB3a3U4wLIh/QGMYDjxz5mOr3hpW5celcwUdL21zGQl/Zn83w2dwArqcsgCtu7NyxeZHTHHMIoF8n8BOaS5ihOJ1xr+M1SS6s1BGvf1ND1oxrBmlXDwyytR69gcIMSsJuQNlXpKpFzQhTdsIUZvsicCbjbb8pp2QWrBbkrr2ZyrQ51R9rcWkUPlajLdrE5TSyR3TwcFO9SVloEYopQU2mwGiA7kU8vpQ8+vyJIIgvSALsyojTmR/qDj+UhlXouU22rF4w3ux8RneZbg8r2uvYP93twZS37YeGzEeEbH7MEzgyfVt+Cn2RQ/lrzgI=",
+  "URL": "https://projects.kde.org/projects/playground/artwork/oxygen-gtk/",
+  "LICENSE": "LGPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1589628458",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "gtk2"
+  ]
+}

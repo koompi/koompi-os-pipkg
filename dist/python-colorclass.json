@@ -1,0 +1,23 @@
+{
+  "FILENAME": "python-colorclass-2.2.0-6-any.pkg.tar.zst",
+  "NAME": "python-colorclass",
+  "BASE": "python-colorclass",
+  "VERSION": "2.2.0-6",
+  "DESC": "Yet another ANSI color text library for colorful worry-free console applications",
+  "CSIZE": "35555",
+  "ISIZE": "191868",
+  "MD5SUM": "e864ef2777d06bc689394db714387381",
+  "SHA256SUM": "cfb1dc6a8a4b06a87d193d8be3e04ce09bbb927af6dd09820e27d5483f97cf10",
+  "PGPSIG": "iQEzBAABCAAdFiEEFRnVq6Zb9vwrc8dWek52CV2KUuQFAl4TGxoACgkQek52CV2KUuSW8ggAl1PxxnIF45uTmrS/cUCAISLanTXw0V+M7NJcPakZx1To3MaWMJfGu+KXXNGbNY64kcnwKy8QUqICJamvIteVXXh9+pmtA0p4vDkXQnHCFbxYDC/xQCb4EWYleBJftl0hofySy0a3GlZ/eYHlHGPXM8TPlAq/XHTp04uCE/xenh5woGgQkRmIBkN94S6k5wJVoQpLqu8q5rbc0QTUeQdqW9+x37Y47M1vupUXY6gXRYIRok8QHakCeAoe5Ew2RzmX/AM6fGEeVz0cBNzQ6ssDhzXxvQRmemR4SVEsBCiuEg3DPn36raIyotiWYbM9o1SiDf5FbnhDW+IKkHyMWVB+Sg==",
+  "URL": "https://github.com/Robpol86/colorclass",
+  "LICENSE": "MIT",
+  "ARCH": "any",
+  "BUILDDATE": "1578310357",
+  "PACKAGER": "Antonio Rojas <arojas@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "python"
+  ]
+}

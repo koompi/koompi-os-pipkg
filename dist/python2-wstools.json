@@ -1,0 +1,24 @@
+{
+  "FILENAME": "python2-wstools-0.4.10-1-any.pkg.tar.zst",
+  "NAME": "python2-wstools",
+  "BASE": "python-wstools",
+  "VERSION": "0.4.10-1",
+  "DESC": "WSDL parsing services package for Web Services for Python",
+  "CSIZE": "103711",
+  "ISIZE": "817928",
+  "MD5SUM": "8fddc83c2e5d7a711b84d13a13c1c09e",
+  "SHA256SUM": "fdaf51821caad8ecec1ad9905cb863b9b4be4b1c004e0459ae530d1e529332d0",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl64YukACgkQeGxj8zDXy5LVfw/+On2N1qBX/LpOIYO+ggY+K/YAuo0WXutDBY/iP86tH6rc81Q/2VRXGqBsXQghnfzJU2MqAGRgYeSrcl8sAqmJtkF6m17qWfeCqqvBRI6eVwp/vZFtmP79/tl9GH4D9TYlqO78kSPbi4XyIPfBf1qzYQ0uyrs41790wR9+ix0+ryqiP3NAvVIre+hkcl2AYlTjMXWTsGhMk5dt9a/Yae9TJZiS4eyyQzEv+L/KhKCXPfZVgtE/fdSBh0jYC3kdbYtdFsCLxID95pJCPa0u0GO++x4+UVQrQ/qOTuPnEiwUnUoK9JT9NHKF9zGp3s8mW1nusd0r6/XuSCnLqxbR9zvL+R9/bSo5mehO7hw59cKfzn/Rr0fI1awvkkVL4SF2Z2ZhVe6QmbPX0r3zVC3BEJo+5zNDwtDzmSOKq+Lz5TmyNi2G6V+q8QlhsADQC51kAworty1RKagKz2O0H0P7MiIFlHIutQnNkuyda8zR/5xjrODvZRi3j4cBa8cPdhciNoy4gBt9c8P65L1hmln8Qp25gCzY+bDSc+6bWC+Fekqu/Goa8olNpA+s8s/ozCyS3EjjdFZjxmJGop4wnOCJBs7TCAFh6S0D03IiI6qbf9ZzLFHpHc5zC1URdcZg9FPwZ2PBMtG89kbjFb2fxhV5n9a5aj08GvOz+xbUAmQdXr6HiMI=",
+  "URL": "https://github.com/pycontribs/wstools",
+  "LICENSE": "custom",
+  "ARCH": "any",
+  "BUILDDATE": "1589142159",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "python2-six",
+    "python2-setuptools"
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "FILENAME": "python-httpx-0.13.3-4-any.pkg.tar.zst",
+  "NAME": "python-httpx",
+  "BASE": "python-httpx",
+  "VERSION": "0.13.3-4",
+  "DESC": "A next generation HTTP client for Python",
+  "CSIZE": "99311",
+  "ISIZE": "525712",
+  "MD5SUM": "8494ea04da74c84bc5e0dd99353dd64f",
+  "SHA256SUM": "52a610d95ba11b0b95f5afa4d549a65f9945c4190ef09dc134616be4074c66ef",
+  "PGPSIG": "iQJMBAABCgA2FiEEYEETBMCdNmKDQO7/zrFn77VyK9YFAl8IeLkYHGVzY2h3YXJ0ekBhcmNobGludXgub3JnAAoJEM6xZ++1civWLCAQAM/1//mfatUb7wc3K5X2Twb3XxbYUDSKF5s9zo8HXjkzzILLcS25DmA9IrL20+KT4RKdma5dJsVlpC03B8I6ZPMmL728YZG81+FUbyxRK+EVvQoT7GHtMu4T/yQjaJxgCWz7KWow6HVx+nUDzViqqkzUpbvPw4KoaQzAn44MtO8VbQG+FAhhyyTbEpQQFUIcn1J8k/1yNujeNhnb767uzHbv/zrt1zCEemz0rmhNlZGEbt4sQod/q6tFhTMUlXSs1KVu7jfvVragRa5fX+AANvbZl7qiyMOZOSumT+U0WDxEqcnYIc1GgcjOaLxEcoFZtDq8dm/wyl6rMkccVXjF/XgZXHvKS96jlycm9rMrqeslKa7ZKoCzf372zW0kDCis6tOzXBOP8+I6kIIQ+lKr9mH/Pfx3KQnm3CzdcXNaYez1z6x1YKK2DVClR7HRj7R6dZ0C7IkwLDw2co9lmNwYByqx0VnS/KGqs+xQ+Cvnti0CKyKiXqRzhdFETv6Q+vZqEks4+ANip6ptdgNmTEW9VAZYt9Wf0leUqD+m666zyEUsu/BImLbrDo5SJRV7hP79++slSQrX6t1nBClwqa36v8detzWNfxX3TiZlyxo69+eeCp5yPyHKCCpINiXcJ9HxrdAH973bzRvHOC/hl5lwydLsVUbz/erGMTuK9xP3qig8",
+  "URL": "https://github.com/encode/httpx",
+  "LICENSE": "BSD",
+  "ARCH": "any",
+  "BUILDDATE": "1594390541",
+  "PACKAGER": "Eli Schwartz <eschwartz@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "python-certifi",
+    "python-chardet",
+    "python-hstspreload",
+    "python-httpcore",
+    "python-idna",
+    "python-rfc3986",
+    "python-sniffio"
+  ]
+}

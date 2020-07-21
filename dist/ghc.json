@@ -1,0 +1,24 @@
+{
+  "FILENAME": "ghc-8.10.1-2-x86_64.pkg.tar.zst",
+  "NAME": "ghc",
+  "BASE": "ghc",
+  "VERSION": "8.10.1-2",
+  "DESC": "The Glasgow Haskell Compiler",
+  "CSIZE": "26355051",
+  "ISIZE": "173179277",
+  "MD5SUM": "1192fca45676997de91b0e13ee1609cc",
+  "SHA256SUM": "cb6d596be376c91f669c886183cc1ae9f100e78184ff4da03b79047cbaf06b72",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl6havUACgkQeGxj8zDXy5IGzQ//eUhzcKgxvvAu9HQq02p97y9GGmCVXS7OdSKgWd/SxasqTUK6V4X/ZSwIo79Ml3Je0XaWupDLquaFVGF1XVJ44/1N13gQyI//glhgZmDzuRbeQZBexPTPDR5kjXI99SBs3hR2Svpz60k6Lh1fCNDNEN5U4RuddiMiVfGpPTcP4Wh0LaSoxB+mIMrB65uzOQMPvyZSYw7fFThBJJLEoumJ5p7pcc4BUEBuGAWMgNxFfdZ2ChcSXJQFAGO41IvOMH6Mla70FjSk4R//S5OQuTqH4yQpoOa/ejEdzhniOvosImcLq7krX5Ix65a0/6HnkfGna2fdnLPzYcdCrzPbVlNXfMkY8ZoZyDtksKZ4s48d1PbMaetT3KRYbR3paISKLVma1TC21pPU7U/xS6xNs8dNdnpDtyHICSQE59oS9Mi2r9BmepD6O2dIYqM6R6wHxJS5gooZU6N35Bd8e75iV91qZWBSTrEEmOWLHtsCDEL7B/9TdCjsGvLcuopd00TbKA8CeiTZYdi4U+wYyGX//LqjKlNOeQ+tnlbRmEI37zoT9IDX78sqcQ9ISQDf+njkm7ujd/D2+0wy9XjaFIZNAxZfBqB+nAypBwuts3lny/BXimIsoauhSSbR+Mb3HeAtbaX2C1jAJjDL6tTQeduroPcAnTPPK9/FincsH9jhw0lfCAE=",
+  "URL": "https://www.haskell.org/ghc/",
+  "LICENSE": "custom",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1587633789",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    "haskell-ghc=8.10.1"
+  ],
+  "DEPENDS": [
+    "gcc",
+    "ghc-libs"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "FILENAME": "haskell-graphscc-1.0.4-18-x86_64.pkg.tar.zst",
+  "NAME": "haskell-graphscc",
+  "BASE": "haskell-graphscc",
+  "VERSION": "1.0.4-18",
+  "DESC": "Tarjan's algorithm for computing the strongly connected components of a graph",
+  "CSIZE": "21477",
+  "ISIZE": "63695",
+  "MD5SUM": "cfc71ae59b29907a336262c429d7cb3f",
+  "SHA256SUM": "2a9bb3b4d918310ce468ae65e28e5f6e0e62748727374a1ec7e2e074755beac7",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl6hd5sACgkQeGxj8zDXy5K0uA/+LPuL67+GZ4KOpkRbTaHdVRcNVuR1EKpL4XaSVQK6zlDbUUzamZVor0cy65/iqS8gvDr7cGm8oJWf7AAREyfod6D93hMo+2AVQCeHcMumnZO/EW/hRhNpN0B7bIIYUw6wDzXKc6Trs7LxQyvnnOPtonwXBN5kWeI2G8+ygf8Mm4eE9K9MzoiSNds5E/ojOMI47Qz/rQPzOg+EkPCijGNf9XVOhjZGsWOIjuC2KTLTb3pIpaA4Cp5xB05meTUe1ZGAk2Cq9o+p15V+rn7t4pK/DZYjpAO1WKvPKex4QL9GYlisPMglU2AbzwpeflNTckMZXGtpzlkeCvQCokffU5462+nj8yimGAQ0v0q3mXSz8tlG5aQxl+1LhTE+I6ZzZvQ6VDw4XmEPf0+fnqVNUU0+7/erSyHcPxZWQbpOoZS1vXgaR3qufZpf5J8jm7fe4MBFI1RiCU75bslkarGBfTavPkz7sY8yfsWjFiHu7BD+lCuB6Fo4yeg53HMepvOS5GGnk2Qz4ZP84z3MNeSizlAA9HFg8F3+LEXs3EKyFRZb9lvEBTb/s/g6GmfL0iIZBU2Rs04t84dew0t4SPw+TwvvzdRb34BXCl4321YAxo0vvmH5auJQAnwsp6O0kSyUd4bmy7D/6yiSi9dCcIbpf5ytESwVxIMGrd9IvP9wrNwKyd8=",
+  "URL": "https://hackage.haskell.org/package/GraphSCC",
+  "LICENSE": "BSD",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1587640135",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "ghc-libs"
+  ]
+}

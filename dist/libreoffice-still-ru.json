@@ -1,0 +1,23 @@
+{
+  "FILENAME": "libreoffice-still-ru-6.3.6-1-any.pkg.tar.zst",
+  "NAME": "libreoffice-still-ru",
+  "BASE": "libreoffice-still-i18n",
+  "VERSION": "6.3.6-1",
+  "DESC": "Russian language pack for LibreOffice still",
+  "CSIZE": "2485335",
+  "ISIZE": "24194446",
+  "MD5SUM": "13f4e0451b3804546c2d87b0b35a3b17",
+  "SHA256SUM": "74500e12d7687d7e91281b5b29d6e6f28b8baaf104554a0a8cd77f8cc40d5e1a",
+  "PGPSIG": "iQEzBAABCAAdFiEErcih/MFeAdRTEEGelGV6sg8qCSsFAl6tSusACgkQlGV6sg8qCSuxqwf8CyN/cmKvkHnTAsTmpstYdmvFfWVy67qGG3xXdiGre5C22WIFEMDtUXrxMzbFxhsHI6u9+H/0ly75eOP6nm8qQ6iMShJhi4GXw4Ft0xcbsfXClkw1nJk1g9/pGWiPuqii7DkWkJZ16iwIsEKooefYM39YNdB/pW3BjdUVzrUaH/jcMoy/j9r4SJn72JGHQweGthRrriONQy9YV6y+ui6QajwlQ6FNwrj4V1yZnOOGCECm0/R4TYx46DhciaFncahxAGDooMwILrE1U9jNxXq9ghP4yI9NnRXfU/my2boIsePLYFmRODPvgNE93nYGO3dIvRbWk9OvL4yd4G8W7Ka9kA==",
+  "URL": "https://www.documentfoundation.org",
+  "LICENSE": "LGPL",
+  "ARCH": "any",
+  "BUILDDATE": "1588407321",
+  "PACKAGER": "Andreas Radke <andyrtr@archlinux.org>",
+  "PROVIDES": [
+    "libreoffice-ru"
+  ],
+  "DEPENDS": [
+    "libreoffice-still"
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "FILENAME": "perl-params-validationcompiler-0.30-3-any.pkg.tar.zst",
+  "NAME": "perl-params-validationcompiler",
+  "BASE": "perl-params-validationcompiler",
+  "VERSION": "0.30-3",
+  "DESC": "Build an optimized subroutine parameter validator once, use it forever",
+  "CSIZE": "20968",
+  "ISIZE": "48606",
+  "MD5SUM": "67e3d0941cf1e1a92c902e37a8bb84d1",
+  "SHA256SUM": "2cd9005c728bdc413d9a15ac97a5f3c8c7059c140cb2755fb0e9eff9d88bf709",
+  "PGPSIG": "iQEzBAABCAAdFiEEhs/8qRjPOvRxR1iAUeixSKmZnDQFAl7vdW0ACgkQUeixSKmZnDRwRQgAmKIbVWZcXcx8Ei9WAQscndaqJOC9N0x7N7AKMRIZPPQQCTAabpTX8XS5DcPFdMslXCMvgFmy97EGi0uvVJqwoa9Z7HEzvQdfiekRCDaroDNiLh4Xa5xNNYAsIAwB4YwHc5d8Ngziufw0q3XZi4CzKDCC0TuzOaK5Jq9ArRcZ/pA9v1eUdd8H7pArUy2qSkOP8mvSUtYA3xJDOx4p8kKWRYCZpEPDnYVi3ilPRKwgSwFwHWOIc9PTgO8Lxb932tVu6amH2D5rsizYkAESoRUmq3NK9tvs34bn5epjqPj33z0pzPUANFYArAgyXy7vINSSScVR8IVgUguo7xwkkqFAkw==",
+  "URL": "https://search.cpan.org/dist/Params-ValidationCompiler/",
+  "LICENSE": "PerlArtistic",
+  "ARCH": "any",
+  "BUILDDATE": "1592751452",
+  "PACKAGER": "Evangelos Foutras <foutrelis@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "perl-role-tiny",
+    "perl-eval-closure",
+    "perl-exception-class"
+  ]
+}

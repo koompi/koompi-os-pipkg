@@ -1,0 +1,23 @@
+{
+  "FILENAME": "haskell-mintty-0.1.2-11-x86_64.pkg.tar.zst",
+  "NAME": "haskell-mintty",
+  "BASE": "haskell-mintty",
+  "VERSION": "0.1.2-11",
+  "DESC": "A reliable way to detect the presence of a MinTTY console on Windows",
+  "CSIZE": "7924",
+  "ISIZE": "16688",
+  "MD5SUM": "c5319b6e641c6ba483736d29d4db8e9e",
+  "SHA256SUM": "84c3582abaf27afb22da8c892ab0ab2a6630e11aef293bd5b963330a00ce62fc",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl6hhmEACgkQeGxj8zDXy5KpnRAAuHnVSPs7zBjlTvK3xdH9iqvzM1t+aiNYJwFA4OYwsWHr2TaJbKWWjGXq4CQji4/51c0FshMnvVfnboS2Gb/J1RRgVDd0jrUPO3oicOrJpXt8FX/XiYRFksuyzsX/b3SWb2kAdVLqOUrLT5POzSgWa9g0XgSKyJ/hXUGtLvSFggXn64fbgrzLOWkisqbnVPXfLBN4lRjdbR6he/FD7tdYHTShcSO4nmFkNKY/bseADN2I8d0q24lFFY+JizjUArOP0zAZFuUZcnqoy2FMue/KQh8tdGdCroF8ml0es2edYJST5+EUysMsQU6o5/CkFj1RXAqNzOGJMxAuHzAT80mGfEoj2szL8o/YUprpNSlcNpkhUa1vUCzussdhH8ivCOxo7gYdRbqP8oTTdJoLH1fOF2+dEabTbmb0WGLyhOA8ecmIx/iP7O4qkmiOTo5yB2nr6mi6JJXSoc9l1B7KRMvHVGSEE9K4/9kq+vI4TOV0Xfd4OkVBfr9GreYhPEqZNZNJhBfyjoZPxt1lkKRBnAAwAu8p3KwhPK7qYtcSgPD7HWb1DlquYbtLHQ2MhAtgtQwbAm4w7wWeE1K2tWME57yuXpvYi/NF1vyGswgbyvLKdVDhMkzgDxDKcfQlzgxgLoslRHZhvhFZddnUkDydu2S10HJR+hWKHX69dyNdKIhlYC0=",
+  "URL": "https://github.com/RyanGlScott/mintty/",
+  "LICENSE": "BSD",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1587643918",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "ghc-libs"
+  ]
+}

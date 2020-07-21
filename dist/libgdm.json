@@ -1,0 +1,25 @@
+{
+  "FILENAME": "libgdm-3.36.2-1-x86_64.pkg.tar.zst",
+  "NAME": "libgdm",
+  "BASE": "gdm",
+  "VERSION": "3.36.2-1",
+  "DESC": "GDM support library",
+  "CSIZE": "95451",
+  "ISIZE": "941603",
+  "MD5SUM": "74876ae366edf2ca85a4f78cace7529d",
+  "SHA256SUM": "1593cb9871731db2c4dd5c886a4cd2b331de711fec5e1c38f0a7c2e0818597c7",
+  "PGPSIG": "iQEzBAABCAAdFiEEghj4iEmqxSLpTPRwpekojE+kFfoFAl6w0sMACgkQpekojE+kFfq4nwf/SeItQ32JgM+SwB1NeGJIVxpyhnLzCqxMmcfCl0kl7NpxwKcZRON5cHU+v3aZG0wm6fzKHpEYMajh499yM63p1j5FTrwujhdlACO1mPRFpz8r4T26tUTuHGhT5+TvNSzWwIQxw4Dq1RFPN0k2J5IEoz9xBxXbI+WuWb4CHCZXvpmSTgfSDaTYR2mK0wVARKQZ8RXnCDyD6sHfxrZ9sOcAYy0DRBi1pElEV9VeiT+z623kit8Niuo+6+Q3FShTuNS3dTwYhyK7VaR7MZs1xOoW8lRz9FL2vbZHRahFGJtKGZiJqnmeMTlHwibi3si+N7W9Bt2FsByrY/rfbU4qeLzFUg==",
+  "URL": "https://wiki.gnome.org/Projects/GDM",
+  "LICENSE": "GPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1588646397",
+  "PACKAGER": "Jan Alexander Steffens (heftig) <jan.steffens@gmail.com>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "systemd",
+    "glib2",
+    "dconf"
+  ]
+}

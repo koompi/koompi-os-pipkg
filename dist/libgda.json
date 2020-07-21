@@ -1,0 +1,30 @@
+{
+  "FILENAME": "libgda-5.2.9-4-x86_64.pkg.tar.zst",
+  "NAME": "libgda",
+  "BASE": "libgda",
+  "VERSION": "5.2.9-4",
+  "DESC": "Database access library",
+  "CSIZE": "9741445",
+  "ISIZE": "28328039",
+  "MD5SUM": "c89f8dcb2eae0a42ce9e07b4c5643e48",
+  "SHA256SUM": "48d5a091f4f36c476d90b04dffad4798886c579a68eb8864806d2b61cb3b88b9",
+  "PGPSIG": "iQEzBAABCAAdFiEErcih/MFeAdRTEEGelGV6sg8qCSsFAl7dCg8ACgkQlGV6sg8qCSvYFQgAqhX4NWr6ggbYItUOCYfVb6cnG4mDYc9Wc34GoBqFOEPbCptLm2X69dwFUxBfMm5FzDxr7m2aMzuYvMSgUObHTfPgC5HbGpTtxswg9EzisDCWkFUJ7iEZFH/TxbPniJUT+BWmh+KxwdlnWFJMv2IJGQxUFA0AEwTKjMDC7XwyWe/0fE/b5hfWrwJejiaJt/tYQ8G1ML1y7Lb+8vm2we/k2xHucFvJYIaED4GfLbut9jo+J2o/J9siguVW5uCioudI3CygQdOlfME/fxF7BVVRT3BKoBsYKJJOuDLTjTpIodlD9NhWnyi3iTqdjNBqBXnw9DIcpm1IxMXtjTo0BK169g==",
+  "URL": "https://www.gnome-db.org/",
+  "LICENSE": "GPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1591543362",
+  "PACKAGER": "Andreas Radke <andyrtr@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "gtksourceview3",
+    "libxslt",
+    "libsecret",
+    "graphviz",
+    "goocanvas",
+    "iso-codes",
+    "libgee",
+    "openssl"
+  ]
+}

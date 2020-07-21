@@ -1,0 +1,26 @@
+{
+  "FILENAME": "python-eventlet-0.25.1-4-any.pkg.tar.zst",
+  "NAME": "python-eventlet",
+  "BASE": "python-eventlet",
+  "VERSION": "0.25.1-4",
+  "DESC": "Highly concurrent networking library",
+  "CSIZE": "385107",
+  "ISIZE": "1960708",
+  "MD5SUM": "043e343a58ecaa434e9d154f7eacd8d6",
+  "SHA256SUM": "0c745b4c497b6d78a2e42b34863b39399c38f01046960e2ebea4e1f1e9d374d9",
+  "PGPSIG": "iQIzBAABCgAdFiEE4kC1fixGMLp2ji8m/BtUfI2BcsgFAl6oqNwACgkQ/BtUfI2BcsiVXhAAwOqvnrrtUsSqys3DdHSzqbZ4W+gzIXr7McrX/ALq5/5++rgoAwMk1FDLRdRA7X0jeW5PZLZzAbsWaVjQ5F+7BG4/jW2DqXGYvcagdAaVyaR2ZbXeOFL82QoiAA292uGegP/fUZBo1XTWvso6js8FtlOM+a5yrOFHVga8W28US9B2LEo37Ux+9an8+5dpgKG98LLYfdS7SkuK9RIWW9rtkuS4LMdjaO18EcrrPib5Pl75Pn7Tc6ZJpOV423ATkITPqPvRlrfxE0rin+O/opS6afSjAWUWG/GbemHwE0HJFdCUdnN0yef9J+1FRTi4HsZUgfb9JPJ/CJGSOtFQNg4/Pzb4CE74IUyCeyNUXDE9T6KYriK+Sd3fejNUrszPdBE1jJLHGnPmhqt1VvHz+NAZj1AsPix+zbD2/J1o6svyZOfQTM/T2jzgqL8F6t/xkbABt93VKPopWXjwfy9g7Jx+kAsCdh8uiENd551sBK3mIOX7iij5loKeKX+xdvDOANqtnaNnszPvYpD+d9JCvvgjVCHwtOsQfuIpyVu9QfeAPFUvwewB4dzrL6uZVN8uxpHnC1SqIKfTe+yrZyRhhkE+rJecf4Fd8H5KVd3I+B0YJuswRXxe2BgVHeEj0RlYPsT74TXuACeL15SN1Rm5NrOMtTG79E6m79BkgGB2OfADdEo=",
+  "URL": "https://eventlet.net",
+  "LICENSE": "MIT",
+  "ARCH": "any",
+  "BUILDDATE": "1588100966",
+  "PACKAGER": "Levente Polyak <anthraxx@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "python",
+    "python-greenlet",
+    "python-monotonic",
+    "python-dnspython"
+  ]
+}

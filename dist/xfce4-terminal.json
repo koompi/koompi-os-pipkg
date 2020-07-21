@@ -1,0 +1,25 @@
+{
+  "FILENAME": "xfce4-terminal-0.8.9.2-1-x86_64.pkg.tar.zst",
+  "NAME": "xfce4-terminal",
+  "BASE": "xfce4-terminal",
+  "VERSION": "0.8.9.2-1",
+  "DESC": "A modern terminal emulator primarily for the Xfce desktop environment",
+  "CSIZE": "404297",
+  "ISIZE": "2075338",
+  "MD5SUM": "90e79188bffc22debf63ba62217fb3f8",
+  "SHA256SUM": "5dec86f2a6ef5fc84e3c88814ee41876ecf882a76afff1e60ab41cae21f5bfde",
+  "PGPSIG": "iQEzBAABCAAdFiEEhs/8qRjPOvRxR1iAUeixSKmZnDQFAl6BF/4ACgkQUeixSKmZnDRqwggAl33hs33DDDnd+QWrh3tCkbxL3kxhodgx/c384gt3TKyEbqMMyQfbPFu0fCXgceNmREQi+KieVlHiGKO4J2A4BSLhPtnOEobatcALhePqEf8hMPZZ7Zb7HGswNCA8dGSj/wrNphrVemafOb0HnUO1yloANyiTi1I/iq+JmW2yKig1vFSYzhI/TgS5yMCVD6h/SIKYdnqPtQK93NABeS96MMVp2LsWCXWigpS7NSSNzY0l2t+5OunRLRo3NmIrIxYWLpaaOJouWZkty7Hf0JSdDZNWaeyCLUDvWCowUk7AMyJUTbxMy6WgUXiKXnWI4Qk+UPNjFAsVzqbvr3ncwrSWrQ==",
+  "URL": "https://www.xfce.org/",
+  "LICENSE": "GPL2",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1585518541",
+  "PACKAGER": "Evangelos Foutras <evangelos@foutrelis.com>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "libxfce4ui",
+    "vte3",
+    "hicolor-icon-theme"
+  ]
+}

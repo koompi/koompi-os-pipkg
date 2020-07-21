@@ -1,0 +1,24 @@
+{
+  "FILENAME": "haskell-cookie-0.4.5-5-x86_64.pkg.tar.zst",
+  "NAME": "haskell-cookie",
+  "BASE": "haskell-cookie",
+  "VERSION": "0.4.5-5",
+  "DESC": "HTTP cookie parsing and rendering",
+  "CSIZE": "33877",
+  "ISIZE": "128262",
+  "MD5SUM": "32b90fdca5c336a5146e2e23828a4b8e",
+  "SHA256SUM": "b1c6fab983c48d048713dbb06c85693c09adb5996e95ff6e4284332603037826",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl6hcf0ACgkQeGxj8zDXy5JMVg/9Hyr2/mRObKzlXbh7p5tAhfMXUP4QJeSnOEXzbwtWsT0vlZE4rOrkj2qiLvxhQXlupnqKNI5qYZSVvfh7rDqlHqELmPidNHN8jT9mn1TFzFCmu0mlL8DRz2XSQMT9uG/2vcJ4aW0ceE7dqnVhVLV+vdpr5fS8BQj77xl9RBS8cAWwywTWCLraX+hIYvW5KvwsdsgjR3EFFwH7qEDiHZP3L1ZhTGWqXUc6dmggM6hopsqz7ZX2M6vRY0JMPxCpOkUDw0rwsjzEp4bkzc82SVijBO4RUBDaNyeUnWIi+XEy5VgXzVKrfvpxWXlxw5xOOraRaG4bylzWUlik3di4jpnLGacRvEV1e8bnS770Rtb2XNe+45wYSMbOAwWTgmZ9Ml+qMDiM16TfIDeapFBX26IHmTAy7oI+ir0rcjLC7bZzrbSk64Llygn7DeD4wN0cuy7ZNMnFV5Zpbcsg6B573bjmPiQ1L+OUCemTvz6IwQmWn+UhHGYn87F8RfXq8BxqkiG0tkKJRQugtTriHWo8bAVUyrBsyvxIqXx+LrLx+Zi4SW1d3ctSWI+IHu1SBo2XMzHbQdxTgIHBctgh6Ux3/mZ2IVwGEH9z6RM/MFsyXjq9vsK/IThRLdmCkhStg2LbBS3yHs3y1Doi/b5sLCC7Lw4TmxgctdGamnniWsNFlnu+iLU=",
+  "URL": "https://hackage.haskell.org/package/cookie",
+  "LICENSE": "MIT",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1587638698",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "ghc-libs",
+    "haskell-data-default-class"
+  ]
+}

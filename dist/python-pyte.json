@@ -1,0 +1,23 @@
+{
+  "FILENAME": "python-pyte-0.8.0-4-any.pkg.tar.xz",
+  "NAME": "python-pyte",
+  "BASE": "python-pyte",
+  "VERSION": "0.8.0-4",
+  "DESC": "Simple VTXXX-compatible terminal emulator",
+  "CSIZE": "41320",
+  "ISIZE": "219935",
+  "MD5SUM": "6573bc40f7ee5cd3b693266c4870f736",
+  "SHA256SUM": "d4a7df0348eb72d9d342b9b92f2b51a6716eea3aa53795cba93c8875eba6ec7b",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl2/RVMACgkQeGxj8zDXy5KPvA//c6lbNvYyBXiz/1GD3U6GCAHeSvlKCq+Rb9Dzew/36g2t4FdH5C5r/YX6va4LmeHczldSniEBeMlK6IS43dbpCcue1F9ZrMw+dOa9z28UDWpJu2HmuFK1YBrnfsn4aPhcfjVNjuiGevyIvPkq8d63sZ2S0bx4KZJm3nwRzphKOOsmRMXPzPdX+m/JfN3wVI7sHfmOrI6ep0Go2skFVmGwVtTiZdSGq7qhuhPsV+KyyTWAccLa1BnxbpeHgdozP/vRpLnH2JbTGVNX1o3zjCDvDRd61SCfaobzfciiiExzyR/cCJ3LmRXPnpreKGbW64ut1mNRHo6CG7tn/kt5/ERli/ZMvqufOdP61QXuix61x9FwUCblNR+Weu1tliORb3WMkhjoKcHmZ3NxXyHsztxId8YodQvEF6kU+X61I4k0KTTke4GHk0fHWE2AMib2nXm1QfGi2r4mXsL+fd3AmO50HfVWLTRgjgAssjgz5dAsZEBju7/ZNrgQ3uBm6FNJcT/sSo3l1Mj18h0aUUGA1Kwt16iJBkahdL3yV/4isC2qW5G0kmIaQanJ8d/jp4tUy7m8kVcw3x4XCkjR54Wh7MCacBpKnGvR14KdMD/oqOPaU1UtnMeSC7AU8tSaBHejd4/dh90tLdjM3OZzkD0cbOIbXHxGwraMNnLzDShXrSXZjU8=",
+  "URL": "https://github.com/selectel/pyte",
+  "LICENSE": "LGPL3",
+  "ARCH": "any",
+  "BUILDDATE": "1572816174",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "python-wcwidth"
+  ]
+}

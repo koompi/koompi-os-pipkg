@@ -1,0 +1,24 @@
+{
+  "FILENAME": "d-feet-0.3.15-2-any.pkg.tar.xz",
+  "NAME": "d-feet",
+  "BASE": "d-feet",
+  "VERSION": "0.3.15-2",
+  "DESC": "D-Bus debugger for GNOME",
+  "CSIZE": "73636",
+  "ISIZE": "353191",
+  "MD5SUM": "09038298404c75d77da4bc0c914ead54",
+  "SHA256SUM": "1127a4738abf3e0dccaa18f8e3d336568b8b0aef1b92df037db1b8287a2d0102",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl2/z+gACgkQeGxj8zDXy5KkDQ/+KbM014TVnjEIje0Utmgn+dPvk6t5Koe1ntT/mpiNiknMKSPWMvoFjNMA+Jrq0cuGW7BZGEYbOHElxp7mSvED49an74De1XP3xxZHPC0fHgk7KOuR7LV3TLa9lp5lemlmqwVIIr7X1g07a5ff+F9WghYwMpa3FjNWEqz2tKtEZq5VHO5rxpwyvvu3xPZ8VfR/pjmsnh+socYs00Vft6NQiEM+/S6a4Ft2fwJieFaJ72hhXmpX+B7YeSHUkJ82vNjTlbKTE48PqUtbb/5r15l3jYfGPdywnV8PSRzUCqtuKqOCcvjjOR/bxys4XSc7uskyj3mcoifnQVuIML5ioXYHXhVQjBE/52lB+5peqY+Z0BzuI8KJLcRJP1zOqNrGQDfJBgptc7rCOe/Xy8lWvnvA42yPwsIoHD4PnyAMkZn1/HfVVhn3nnM9GCryuIm+XuXacI++1uGsFaFBkylvEWox9H8r9C1tD1hJogP44/C2JQs2l3SEw8YJQmod1xs2DJPwO+ulDHVfAnOPiFOQQiGkESFtm/aR6NMvG8hvXvOvzHo+Qx66rBQTEdUYunNiUwbzK0a9dVXkHdXYcjMkjWAGBwhPkbA+c9nq1wSqND2GCpXAqP60TR+sgxxZwAWybZY9NPJ/ohk2HZX0ZWK0iC0zTb5vlaNgnCuoP2x2rLqFFI4=",
+  "URL": "https://wiki.gnome.org/Apps/DFeet",
+  "LICENSE": "GPL2",
+  "ARCH": "any",
+  "BUILDDATE": "1572851607",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "gtk3",
+    "python-gobject"
+  ]
+}

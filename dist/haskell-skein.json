@@ -1,0 +1,26 @@
+{
+  "FILENAME": "haskell-skein-1.0.9.4-36-x86_64.pkg.tar.zst",
+  "NAME": "haskell-skein",
+  "BASE": "haskell-skein",
+  "VERSION": "1.0.9.4-36",
+  "DESC": "Skein, a family of cryptographic hash functions. Includes Skein-MAC as well.",
+  "CSIZE": "85419",
+  "ISIZE": "597224",
+  "MD5SUM": "afa523b111d9b25b35d5f1d0638bfaa7",
+  "SHA256SUM": "67bd396efb424bdfd8baa77a4dd15c51e21ae42add2ddc061d0466bafd1ff84c",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl6htloACgkQeGxj8zDXy5L1oQ//aFuUrUWNT1dLs1yiR8vxspQjxaNnMPKBbayMUgxZmG+E4bx+CGLUyQ5eka0Bt4fd5dSKC2MSoNZDI9S62vqVD8d0KpFqxUwBn9Gi06+yIipmaI9R54idGyFY79tHfpQk6yeI/DhJGDPV48g+bwHgoUFJV+14mOGiPc1oVbmorVP6WpcEJWkXDrofOtejLJxzSrzTZA74ttMmwjAk7aeJE466E0+P3teVbHkxPc8LjYEilOFuPX/ycQTUvXyoY1+f2YIgbzSeZ7ar16KCywLPH6V2gr0KHuGqSeemSobq598IUGrT/pTE3A7fIVXPP+w6Glb+XUBKOxMhPzp8ECNnyLtQvKsONLCAjr0ss1X7MG5Lzpp7zldQjIlx6fPEL33SQ164AJvvfevUg29pwPhgzBHGIGjPdow5wk98ysQEbU+luMmiQzugQ+AkpQ7VqkKTuKXzJHpiHbUr9rFUEqHYukKh+A/wQx4UBneWwuLtNAgkN0y1qqEZIIFJFuyFqMXFmjrSGIQyfzBJ2hymjEGOCtdm+CMQ7m0ishmK8ZlSBxEwVO/q+Gwy8haKGwRJFoMACWCwZsXfNxe/fH2JpK7vvh794vW3EAXjrOxzpp1O6YHWKguA5yfJ0OBIv83xAxoWa7luWfOra8EyfAUysh7FDL9Z4uvg3orO3WwPSz1M4Jk=",
+  "URL": "https://github.com/meteficha/skein",
+  "LICENSE": "BSD",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1587656193",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "ghc-libs",
+    "haskell-cereal",
+    "haskell-crypto-api",
+    "haskell-tagged"
+  ]
+}

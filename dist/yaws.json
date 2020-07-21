@@ -1,0 +1,24 @@
+{
+  "FILENAME": "yaws-2.0.7-2-x86_64.pkg.tar.zst",
+  "NAME": "yaws",
+  "BASE": "yaws",
+  "VERSION": "2.0.7-2",
+  "DESC": "Web server for dynamic content written in Erlang",
+  "CSIZE": "1736133",
+  "ISIZE": "2785434",
+  "MD5SUM": "7a883dfa0d276162ac08e40e39f3e27e",
+  "SHA256SUM": "ec5d031dabb4076f7f146790ad0ce5de1b62767a5146475147e2029875d100d9",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl8EnscACgkQeGxj8zDXy5KbvBAAqB9H83vtty5cFgxP21/hMo6H4WwCPDQrqk84hPJINhIKgTuBgKrQ2fr+qJn9JDtPrkZgvBwZXHQhB5E1zq4stk7BexLO6URK/SJXU68+C44TYLQ8QkgHFYTdpzrjhhClBIKYu7uT/X41YODt4Y80UyKe8iS3y5RCetVBTKRV3mbe7ert60snle7t+L/HwAdDwOd1NmibObGsuUYlkxMPw1xwsZez9CVMQjxLSCAif8gdGzz2ylbNoECcWhJFytdwOmv9PNelgCh0iRLKV/UVdsUrjPaiJvOpDTavBNEPGHIrzEYMHCkBDrfNwLVvSJCqu+zuWPU0aSXJXqv3MGGrEDb8uO3qGkX0lQ5pbhAEGh7hdTFlyux79QGs8lQp/hb8IVjet+SEv58U+Ta38w87pL5H36g8z1vEmZxAemhsuQ/1AzqJ62s+day2FQJeGqjaNLV6JUahTQVrowfxRM0IsQx4oApLyzwTMDrOS48hLYT4t5eFEfX9YM71jQTwnWj4ReSZvo5OawxVOgoh4Ugn8ZEm2W7y8UlOmOd7hmAZXofpedPRA9KHWkCGwuETaMuFcdlVzUVg886xeahJUE4R+WLWEOfpD+fjFMJkxx5za5+VVjXhAIN7qbuodqRyiwXqVdoNqObS7PLlpj7qRFLE45vt49+Ko6lsn9VkSZ9Fkb4=",
+  "URL": "http://yaws.hyber.org/",
+  "LICENSE": "BSD",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1594138228",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "erlang-nox",
+    "pam"
+  ]
+}

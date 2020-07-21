@@ -1,0 +1,36 @@
+{
+  "FILENAME": "variety-0.8.3-1-any.pkg.tar.zst",
+  "NAME": "variety",
+  "BASE": "variety",
+  "VERSION": "0.8.3-1",
+  "DESC": "Changes the wallpaper on a regular interval using user-specified or automatically downloaded images.",
+  "CSIZE": "717751",
+  "ISIZE": "2856127",
+  "MD5SUM": "b53c0fb88a18a1fb3425a5fc165b62b0",
+  "SHA256SUM": "320a9d429f41df5cee29867edf43bb7af1b99894170a37d5d73d360b664e4479",
+  "PGPSIG": "iQIzBAABCgAdFiEEOO3RiGdWkk4SJOSVJOTNsAE8JYAFAl5X63QACgkQJOTNsAE8JYAoDQ//TuCl1qH3NMKziCa3egCdDAss0IqrUCi9oGo8gIvws3VKRRO+ZTF16jNm9FLNc0tqY9mE26pq1seXFfo1ma31jkkF6MM53PWmu1rAIdNfbM1UF8Z7GlMeqK1FCZt4EE2YQrWAVMPjIYiZyoXhO1LiFucoI5H0b0ePess4hOWuVKS4/P6UK8VW+1nxu4O+ppUHzZVXwwasMRkAClvr9jNzXbdHO0YSOl5/dNLGsUJZIU8WrXpUOfrY1KWnMku+AHWH0+PB3DXHjvHRMLQKJCgPlAs5npIr7rjJYtRUvuZ/FOaMAfcESdR5D1FeoaMwYl7NrWGrRUsY7c9wMN9WLd2M9sKCUIKuZELkOsUoHHlzMljzo92LKOpY0+nOqqO5gCns4pFVB7V0H98L8Uye8xGvGaWIn1DzdVHfSWoHuE1hhatfr6UCqz/keo6FnGGvGCDSG6hc90nTFoS/fAN4Vs2QVNohcVmRlGa4p08YXifqcWCiHQnpSanFX/Yn6TTKcGXy/5vSTiGtVvP0vgbL/eXwnY/wl25ONty+XMAgJROpt30KtwqtPIDKw/nUHc2iYtDHBAfEU0HUp9euDzZQj2QG5fl0/JhQhllMCo7BHUcBXx763s4K61C7vbQfkRkFOEOPRQ4y8evWkXOHSR/r7zF2+9oPm/5Xia/iXUax1ebDMcE=",
+  "URL": "https://peterlevi.com/variety/",
+  "LICENSE": "GPL3",
+  "ARCH": "any",
+  "BUILDDATE": "1582820014",
+  "PACKAGER": "Jaroslav Lichtblau <svetlemodry@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "gtk3",
+    "imagemagick",
+    "libgexiv2",
+    "libnotify",
+    "python-beautifulsoup4",
+    "python-cairo",
+    "python-configobj",
+    "python-dbus",
+    "python-gobject",
+    "python-httplib2",
+    "python-pillow",
+    "python-lxml",
+    "python-pycurl",
+    "python-requests"
+  ]
+}

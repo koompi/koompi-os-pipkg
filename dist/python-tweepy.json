@@ -1,0 +1,27 @@
+{
+  "FILENAME": "python-tweepy-3.8.0-2-any.pkg.tar.xz",
+  "NAME": "python-tweepy",
+  "BASE": "python-tweepy",
+  "VERSION": "3.8.0-2",
+  "DESC": "Python library for accessing the entire Twitter API",
+  "CSIZE": "60788",
+  "ISIZE": "362975",
+  "MD5SUM": "1d3a4a80a2534991a3b5022fd1376298",
+  "SHA256SUM": "208c44efa356f704617d19e6b9ff1d5df46e165b67ae19255a9d9ac8a4fe8202",
+  "PGPSIG": "iQEzBAABCAAdFiEEhs/8qRjPOvRxR1iAUeixSKmZnDQFAl2/3jgACgkQUeixSKmZnDQ8Ygf+O1vKDNjxcjapZbDCJF2JBbnanP3Yl8A5QPUe+RAeyFga4uwc2oHsOdj7OjaoHStL6KDMoA+4J14lQbkpvp1h14AvKohPZZuQ2H+A+fkr7wiSmLeFovD3/LPi2vl9VAcECqW2+ekg67UdgR0+bS2qnH05SjLwJgCVEqouUdBqO5FNz3pIZcPCpL6R5rbx05tP2+laEV34KqhWD22LOr322iW5TkF4Kyr6Vdm5IBgy0iMHOylhWCFqQjRUrrn9JAUgSqq8lD17Ls36RoQp8n1x7LpAQRgLqXvn2XB2Cl21nzot8jrOSWPiZZybDqOOhz5QD4GAcaip1tzWxkXAHNCYzg==",
+  "URL": "https://www.tweepy.org/",
+  "LICENSE": "MIT",
+  "ARCH": "any",
+  "BUILDDATE": "1572855329",
+  "PACKAGER": "Evangelos Foutras <evangelos@foutrelis.com>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "python",
+    "python-requests",
+    "python-requests-oauthlib",
+    "python-six",
+    "python-pysocks"
+  ]
+}

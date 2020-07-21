@@ -1,0 +1,24 @@
+{
+  "FILENAME": "skanlite-2.2.0-1-x86_64.pkg.tar.zst",
+  "NAME": "skanlite",
+  "BASE": "skanlite",
+  "VERSION": "2.2.0-1",
+  "DESC": "Image Scanning Application for KDE",
+  "CSIZE": "2528761",
+  "ISIZE": "3022584",
+  "MD5SUM": "f0b2b357f0fa165af56b324da180e950",
+  "SHA256SUM": "a3c43b8a8e1d5a68d42be1aae605ac7b9f6fff1710c83aa303e7a70a21e8fcf5",
+  "PGPSIG": "iQEzBAABCAAdFiEEFRnVq6Zb9vwrc8dWek52CV2KUuQFAl8Lee0ACgkQek52CV2KUuR98Af/d1WCwb6Ts0T/J4+u/fNevcysyWT+5obiLNdhqlDTp4NENAdWRfX4w2loZrYZtrzhn6vbgKXB2cxgn2DhTSE+V92mqsQVYZZSJfFCP4w/UHDgav0LIbw7gHrQDdO/JXHQu5twFZpz23lSLDNHnLKb5YAmUmEhzvfzIr4uwjqrzD1le0S1KTyYAZx9nvciJFo0w0dwALRefpl5vQntkRg03PaqNAeEHOl2xqA/aqRdObavkKO5Kmn6OPT2sB07VdfWVCNJOtWcfP7f9VYzY0IIWrrghAekgnGML2tnUnj4NLSeyDSy2lGVYk/0jHTtfAD/wYaLUqSDigqM+sEMk+xS+Q==",
+  "URL": "https://www.kde.org/applications/graphics/skanlite",
+  "LICENSE": "GPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1594587544",
+  "PACKAGER": "Antonio Rojas <arojas@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "libksane",
+    "kio"
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "FILENAME": "lib32-fribidi-1.0.10-1-x86_64.pkg.tar.zst",
+  "NAME": "lib32-fribidi",
+  "BASE": "lib32-fribidi",
+  "VERSION": "1.0.10-1",
+  "DESC": "A Free Implementation of the Unicode Bidirectional Algorithm (32-bit)",
+  "CSIZE": "23119",
+  "ISIZE": "116251",
+  "MD5SUM": "ba78b6b9c16a04210f5e07be6f2039f1",
+  "SHA256SUM": "ee2619a6e6b1af8375c48a5e4f55f311276ce0970a3e55349d05b64c401c3b57",
+  "PGPSIG": "iIsEABYIADMWIQQGaHodnU+rCLUP2Ss7lKgOUKR3xwUCXwN6DBUcaGVmdGlnQGFyY2hsaW51eC5vcmcACgkQO5SoDlCkd8d/owD+Mh4o98tzP34htB6Frb+38wVkylUdo8U9k9ZxMgIYq/kBAJvxy+7jwl+YvSlRvJr4GbDnpqjBoedxOeNrrIucIlIL",
+  "URL": "https://github.com/fribidi/fribidi/",
+  "LICENSE": "LGPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1594061445",
+  "PACKAGER": "Jan Alexander Steffens (heftig) <heftig@archlinux.org>",
+  "PROVIDES": [
+    "libfribidi.so=0-32"
+  ],
+  "DEPENDS": [
+    "lib32-glibc",
+    "fribidi"
+  ]
+}

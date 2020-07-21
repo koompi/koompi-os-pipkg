@@ -1,0 +1,23 @@
+{
+  "FILENAME": "python-numexpr-2.7.1-1-x86_64.pkg.tar.xz",
+  "NAME": "python-numexpr",
+  "BASE": "python-numexpr",
+  "VERSION": "2.7.1-1",
+  "DESC": "Fast numerical array expression evaluator for Python, NumPy, PyTables, pandas",
+  "CSIZE": "168248",
+  "ISIZE": "643655",
+  "MD5SUM": "fd1b2f004a2d9df877473a38b7d76092",
+  "SHA256SUM": "1885cca2855b5517b12847b3b4358467432c9aeac5b2a6a8be34b5f3c93448c5",
+  "PGPSIG": "iQEzBAABCAAdFiEEcXAmqdR3n8U5QHJmQPVXtzFJYQYFAl4osUYACgkQQPVXtzFJYQY9jgf/QCaZrToN/db2es2kGR3nS+Hcnc0ABFUhxy7yyvEikcArLXz7UjWdeMNEeRdeqRlD6PFOXPvFjYQynSpqiGOknJjRldkJ9cl2xYM0F39NA6Iz/Tay+4Agaak6BvLTh1+peLwsgtH8ahX/AOXVeSS5z5ryvcCFL/Ggd0G31FRKMoglhoed27m8VTxumdxSR7cyFG0TBIEZdvKxx3ezWl0CHprh+mTKifajg9yYe68ip1F6eT5TFvLOnTo3crGbq3f9nvx6VYnqWUGfbOqq48Q3mBEBy1hsyGlVQoLwchx1mfDJCtWdkhmspdp4dEDMcXYHI44bYqYcvD75l0W4V9CMTg==",
+  "URL": "https://github.com/pydata/numexpr",
+  "LICENSE": "MIT",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1579725086",
+  "PACKAGER": "Andrzej Giniewicz <gginiu@gmail.com>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "python-numpy"
+  ]
+}

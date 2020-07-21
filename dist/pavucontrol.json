@@ -1,0 +1,25 @@
+{
+  "FILENAME": "pavucontrol-1:4.0-2-x86_64.pkg.tar.zst",
+  "NAME": "pavucontrol",
+  "BASE": "pavucontrol",
+  "VERSION": "1:4.0-2",
+  "DESC": "PulseAudio Volume Control",
+  "CSIZE": "164449",
+  "ISIZE": "953771",
+  "MD5SUM": "528261a5d7254eb7620793f4d7f772f9",
+  "SHA256SUM": "f52517fec0a82a2d9b4e3512b741d627aab952bc2c68262058c1f8fb02c920fa",
+  "PGPSIG": "iQEzBAABCAAdFiEEhs/8qRjPOvRxR1iAUeixSKmZnDQFAl7DoBkACgkQUeixSKmZnDQ5OQf/XaL8DAPGfxOMcXggOeMEEdg41URPgIVNjAmMgzks7T61/qYynE3Stna43SoAeG2SF95v8M3tplKAl5n8agmhZjVcKG3EOISFY7PC0fVzmaAtvsSEURiDwGlA/4BXE5LYvrk4quASE56Xr2lPmxAWA+10HPHr7iCnEwqAXm4zFyD22ATZ+1pfPtcZVn3uQPpKpWThZXCRx4E5C/+E40BCTQm9XXHKNDmyeLs/yO6mg1LVNwohEtfLQBKwMtDy//erfv6jAgANXVv4uEcmr1xR3xPvifbialZFr3F0AR4MWPAinCVdFcd07R9RTjKFy32DfJetnaLhc85u7+Uyyg7fmA==",
+  "URL": "https://freedesktop.org/software/pulseaudio/pavucontrol/",
+  "LICENSE": "GPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1589878762",
+  "PACKAGER": "Evangelos Foutras <evangelos@foutrelis.com>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "libcanberra-pulse",
+    "gtkmm3",
+    "libsigc++"
+  ]
+}

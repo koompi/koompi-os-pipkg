@@ -1,0 +1,23 @@
+{
+  "FILENAME": "gnome-tetravex-3.36.4-1-x86_64.pkg.tar.zst",
+  "NAME": "gnome-tetravex",
+  "BASE": "gnome-tetravex",
+  "VERSION": "3.36.4-1",
+  "DESC": "Complete the puzzle by matching numbered tiles",
+  "CSIZE": "1038853",
+  "ISIZE": "2692591",
+  "MD5SUM": "df5247af268372ce38c91b4aa7fb4f90",
+  "SHA256SUM": "1420351b46283f82a79fb66ed66873ceb0160df6c1aacf34c763b507d62e12da",
+  "PGPSIG": "iIsEABYIADMWIQQGaHodnU+rCLUP2Ss7lKgOUKR3xwUCXwJE7xUcaGVmdGlnQGFyY2hsaW51eC5vcmcACgkQO5SoDlCkd8ccmgD/bsE47f4ANaz+fcnQK9/1w8RBQj5AES0JORwVN1rpzhQA/1o2Dq2IKmIVGWzcvRcKBcpVGgkYK1DuK3c3bfGT42IC",
+  "URL": "https://wiki.gnome.org/Apps/Tetravex",
+  "LICENSE": "GPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1593984061",
+  "PACKAGER": "Jan Alexander Steffens (heftig) <heftig@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "gtk3"
+  ]
+}

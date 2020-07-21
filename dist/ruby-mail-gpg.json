@@ -1,0 +1,26 @@
+{
+  "FILENAME": "ruby-mail-gpg-0.4.0-3-any.pkg.tar.xz",
+  "NAME": "ruby-mail-gpg",
+  "BASE": "ruby-mail-gpg",
+  "VERSION": "0.4.0-3",
+  "DESC": "GPG/MIME extension for the Ruby Mail Library",
+  "CSIZE": "45648",
+  "ISIZE": "168890",
+  "MD5SUM": "3a5a5a18169ed76033ec259f6bff4c76",
+  "SHA256SUM": "454b603f3b9a1c997f8e350bdb12e45104e3c8eccbd1d94b3b655e270f0ec5f7",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl4EDcAACgkQeGxj8zDXy5I0fQ/+Ip6jXdDfHScHyNP81Ti0njTHEvSx2T9KQnFndGYuhUWc6SpUvo1WR7klhpuXmaaUZYSnvUWTz/XFgwhIPNH637Z6ec0rRpdJDGY75cNTAVxtFWaLHWOSa4pejdsKHHlLGTqyMVxPjZ4FDB/2FVG8TxOZJpgoRpEqsYsfBHCpF1VWdXnIu1l9wGP0i85PadyWqXP9880Gxu02UFW7AR5P2CCukE9qSW6aubpzvbCYrvwgZFfphK4HtR5W/u+n/ZKPPAOpvVmn+0bOoB6otS0L9/z9xdNm7raMfHlJkavRMKAbYMv5rbDDEM6DH6qLCpxgxr4k9w/AAecw8Vk1g3nOVEd5Cu0y48VB79V7x3QaXISO06swC2RIwYrqGrt40zUyVJSm9w0gk9r47JN1puxKnaW0ujhfC5AfDtQ7OaM4HF6uDz4G8b4DwHCn8zhs2/xtAqR0nr11nFxQZ+CpIkHKbpwPClQrvYz3r3rIPoFdgyPfu5n0cs9utZiNFz0hwdJjTzJUQGnfXokSblIeBGcWOkRECNYdv5wGq6kizKCNK2h5GSMslxBq3Wnl4AFtRv47QxNdgoGtVbxeM53HEwZv7R5nSfLUxmRkHx3t+5J5kr0Zi3L1PuQ/8c8Z/w1pE3vrJ7xwASdPW7AvEeKKqrhcjU7l/dw9Oe8fy9jEWvLB7nY=",
+  "URL": "https://github.com/jkraemer/mail-gpg",
+  "LICENSE": "MIT",
+  "ARCH": "any",
+  "BUILDDATE": "1577323936",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "ruby",
+    "ruby-gpgme",
+    "ruby-mail",
+    "ruby-rdoc"
+  ]
+}

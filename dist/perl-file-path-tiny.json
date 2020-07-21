@@ -1,0 +1,23 @@
+{
+  "FILENAME": "perl-file-path-tiny-0.9-4-any.pkg.tar.zst",
+  "NAME": "perl-file-path-tiny",
+  "BASE": "perl-file-path-tiny",
+  "VERSION": "0.9-4",
+  "DESC": "recursive versions of mkdir() and rmdir() without as much overhead as File::Path",
+  "CSIZE": "9218",
+  "ISIZE": "8726",
+  "MD5SUM": "064359cd1027fd4055e83e4be35d434d",
+  "SHA256SUM": "4c950b5117652e3b6b1ffd0da8be30f146f70339a481a330597b3c680d461f19",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl7vOFQACgkQeGxj8zDXy5J+OQ//UIiOHHEZpTeklyOMOcl+kEHOGtMkZ9JmGjnQVGjYvjJqthzHnkRzuigEEnYaoUm84qB5IiWd+aFMUIsxwDuh0fl0AdbQerQRAPhqnVReIpU6xqV5qGxKlk+M62IYWRYIucUfbyGyVqllBBbHrtESKOwYk5nyRcCipx14PgHgqZ85hSWK63yNTpz1WABuGzY0YjO5GHBvKpG4dc5F8Y6IZ4qNR0e+tECor0CKOMA3CwIZRqTTRc8xB+LryqRScWG/JUf3DHz2FF00F3rtrZQJAC6A65faZdrPgLwKSqVX7iKftMWrofr7s1hAEZeyHYmrMdr1XKR3/oW9Pdk0GrbtgwzuPXk8fFL8o+PAhUzYlIAcfnaRTLWCyRdkqVIWz7cgQ7Hp4l6QRt2pLyoU7vCF2k2fC+qnXi9ceYy89r9pwbaFCO6swOn89boZlsqdnt4rukBnw2sgnb+uuRIobcM8iIA+bPkJz/X7oC8St6gXw2nboGZKs/7F7T1p30ibO7hMObMdliK5ehmenHNh/NbNqdly0GceWX8rNH4JqqMFgxIXvVSWERDmMl0QiSI4XrPkVbX/IrSbXIL0VnyG2+VVJowJEuvhVTlBKsDXXw2rdijB5z6IJ6QwuBrOSCi54+qJLUkEznInIKFsYYaiQHXxCDuZJL7432vcnBx5c4fvv6M=",
+  "URL": "https://metacpan.org/release/File-Path-Tiny",
+  "LICENSE": "PerlArtistic",
+  "ARCH": "any",
+  "BUILDDATE": "1592735632",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "perl"
+  ]
+}

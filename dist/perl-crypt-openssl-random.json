@@ -1,0 +1,24 @@
+{
+  "FILENAME": "perl-crypt-openssl-random-0.15-6-x86_64.pkg.tar.zst",
+  "NAME": "perl-crypt-openssl-random",
+  "BASE": "perl-crypt-openssl-random",
+  "VERSION": "0.15-6",
+  "DESC": "Routines for accessing the OpenSSL pseudo-random number generator",
+  "CSIZE": "9705",
+  "ISIZE": "22122",
+  "MD5SUM": "c48ee72103ee930d59a638d93f7729ff",
+  "SHA256SUM": "bbdb8735f93a7b948578c3ec16717efe6c47a6744b9dd697e62ffa8595fab6ce",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl7vORkACgkQeGxj8zDXy5JWhxAAjghv5pp99c47T2S6TuzE7DHGDK2Ug/3/GbkmLg+Fxxe27nSO3/A0MP1yRZWHkAmql+a5nI+P4PT8YnFvu/GUhjuq+NQsFvu3Iqco1A0y4uBIMi4I44qVKLkCT3oo7SRNklQOJPJMAzeVcUAXcbxh+jIVbo5jgZ08Xk+HAf8+etSbTsXm/RIcxIuJ442YVZ0LDUZvHrynaoI0/ANFedyEp2wqZlz9XAEND9MnUdF3By27T9cNvgHLnJf6Z9QR87FbYW9eEq0hdcc0hYVZdYNXnfasWL7/Pl1+UH91APaJTKlucS4yhLB5yAOaCURpdLb+Nx+OEq1n5KncD6NTVfl65wct1+LGRlbpJ1UQtMozMzvUNs91+AnVWpxgzYDhTKvBiI9F1W7io65/ZTbAt22VfVV/Amam/prk6wsMEO96yJpOB6/KzIKnkLZfJBWTFEnwUMQFBuLthp9hvgTXmxNQ/Z4SYKOKILuHw6TYnkUTkjV1H+7OXqmRQ+RFgVYMGSQyYoen7+k29Aujy9OfOD76SEJhRVSycEm19l4ZOEZVpVF1TkgKVaGvPXK8WaLlP2pz3YGwUFIqMP0/svX3kLuLwU15YbQQ6+6AltXod7v5Bh9JN9ZcEveSzx0RiDcp/FqNgwuJvcRzf9mzvNaRyklIoT3ZmXg4iWPM0VeRcOShcbs=",
+  "URL": "https://metacpan.org/release/Crypt-OpenSSL-Random",
+  "LICENSE": "PerlArtistic",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1592735999",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "perl",
+    "openssl"
+  ]
+}

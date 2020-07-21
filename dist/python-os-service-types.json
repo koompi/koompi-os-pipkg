@@ -1,0 +1,23 @@
+{
+  "FILENAME": "python-os-service-types-1.7.0-5-any.pkg.tar.zst",
+  "NAME": "python-os-service-types",
+  "BASE": "python-os-service-types",
+  "VERSION": "1.7.0-5",
+  "DESC": "Python library for consuming OpenStack sevice-types-authority data",
+  "CSIZE": "25113",
+  "ISIZE": "124088",
+  "MD5SUM": "41e7e39d4aa8037f3861ce4980d490b9",
+  "SHA256SUM": "69e3cca3bc7d5004dfcf2c7a07842805130743c3517fb59c65e298fd08b93fd5",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl5FbmgACgkQeGxj8zDXy5IvVA//aevjdwurJCzfvPxtz1oQ2p1PDcU+l+FMFUbrwP1b2e+IeUwOUR4Hw/yqed2ZXz1bEiA9nag0NLz9HuNzOTbgWKyvxgkWg2UYR3s8MoNaRkX8AawLCJmIFP8T9rD9aq9EQFwTG+Asngkq1d6z4EbS94CzGHzOGrr5ZyaDrr0tuETdMJo4R6h3b/oymgY6saJ72LBT0MBfoQqW6/Q+LJ38ZgLhH0Jr7eP79BMppmspF2jz+OGS0MFwA93nzY0XGgcg8sx94bFSe1gNQ7qKUU6CbOF9WsfXKQi+GFfwlX+hQGqSreVTQAaRmyWsj2Vi9dRaZYtmyIxg3ntPAwS5ReBcU4XLQv01xYTyQwbg5GcJpcFra193QtTsYpfCw2uIJ43VloqbHCcqeGOhejc7jGFetJAebTVE19VOycsfWGF542o1JXXxa02c0UJn2hDkUGldaAPNuUFIJpZ52JvfsyswcQ102KyN3/iMr6zLG2/6Dw6yiTW8iHskoHfJf2CwAUHXa/T2W82MmKOQ3/DR8OPLix8vVzhfqGmwg+yYaoY13/99WyrgmRcuBiJY+Tr3G8sEYjpHVu1ofYJ1oeQhognQt+wo32tTALTOYT8YVUbRKi/MFMbG5fOafnZyjIK+JjDuAupTrVw3ncV13IgD0dgQVFMijAdwNXT/hbOLlF1x0VM=",
+  "URL": "https://pypi.python.org/pypi/os-service-types/1.7.0",
+  "LICENSE": "Apache",
+  "ARCH": "any",
+  "BUILDDATE": "1581608530",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "python-pbr"
+  ]
+}

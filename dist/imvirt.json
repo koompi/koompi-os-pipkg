@@ -1,0 +1,27 @@
+{
+  "FILENAME": "imvirt-0.9.6-7-x86_64.pkg.tar.zst",
+  "NAME": "imvirt",
+  "BASE": "imvirt",
+  "VERSION": "0.9.6-7",
+  "DESC": "Detect the virtualization technology of a machine, it is run in",
+  "CSIZE": "25121",
+  "ISIZE": "156045",
+  "MD5SUM": "8e69d0c2889587e075d52e23648dc284",
+  "SHA256SUM": "ee2241405a1c80df2852ff04efd13b8321f11e4ecc8e2c774eb90b240c66ed71",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl7vieEACgkQeGxj8zDXy5ITUxAAlD7mmZnQ1HxsJwEFoio5lEt3lucrc74FxNFLmFeNvzcMQdGw9RwYLEhtBiLZGPUVNPbMO7vOWqyElgPQJW8hC2jaAqZQODErYc7Y/By0cLLQeda8LZy6FRWz/BJTlqiko/9yWh0uwT1b/H/9445Mj71dAdLmVtD+lllJVMMOKIn/kEdueFosjg2kyyNb3WSQce4XoL1iw14Lyt9pz+U06NsRp68NV2KmAlKaRzZvJC9tk67m5FfquWGiSE2a/QFDfI1tjwRtaUWZMNEavtq6LO8D3ircNfyiHpAS30IQjE7b8pzyTsnB6mmWRmV5gTxAq/TGDOES8o3IefRmU9B5N3bmk69ZshW2fX6EimPdtVPk+yHh02XXbkcbr2NfKDL41toKIE8ZQk0Gj5aKLsUnEv4eI5LCxyCIzCxblhmJjPTAjWK0RE3bUyITohJdxS4+lP98+ufPuMvI/D4IJceW3DSuuVrnGdYapif3py4ygwum6vDock3dJ2E65wCvUKd+vQUjNw3EU8ZNESYyoBsvKMrHEJbMTR9vmQ3hflsrJEEfW4skG//4aX1qLuOvqenM3YQBsiaF47qDqcg8GSNIsznkVLYIct2d3Ztzg29zmvf9NA+iILoH1TOEOvJdRuR3FxpkLduXfqanGrKTlQUHjpgXSOfHTy2U0HTKrGFT+NQ=",
+  "URL": "http://micky.ibh.net/~liske/imvirt.html",
+  "LICENSE": "GPL2",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1592756492",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "perl",
+    "dmidecode",
+    "perl-module-find",
+    "perl-file-slurp",
+    "perl-data-dumper"
+  ]
+}

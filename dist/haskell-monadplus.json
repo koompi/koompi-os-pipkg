@@ -1,0 +1,23 @@
+{
+  "FILENAME": "haskell-monadplus-1.4.2-17-x86_64.pkg.tar.zst",
+  "NAME": "haskell-monadplus",
+  "BASE": "haskell-monadplus",
+  "VERSION": "1.4.2-17",
+  "DESC": "Haskell98 partial maps and filters over MonadPlus.",
+  "CSIZE": "20701",
+  "ISIZE": "78535",
+  "MD5SUM": "8a2eb93e291c0397549c8807ec413d67",
+  "SHA256SUM": "88cdbae749089ce4a56aea6af7f70c53cf66717ded7aca00ae0a165bd99c3e4c",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl6hh2oACgkQeGxj8zDXy5KhqA/8C2P0/GD8xLu6OxCT84No5i9EpLLB5ez5k0/oSgKSpERqb7+MlidT2mcBtnGtSD5fVtgUGKE6Lfzd8xr2BlGDvDtb/pF0NikhpdILVu9snQ+hwyAjt48588JzOii8uWkYBWVGuPb974jovJzMQVKDUSeWcy3BEwzNk50VrXZMMlGRF2Fcr9cc9E9vAKgj4GdYKZYeok0+k1ARMB3tVmNHjfGDn7pfSuUFtOTb+8tc1KVGgcV3lZ+beOCOVx7kqXY9VB5D3muW2T0XUeYv/uurFfAxLK1inias6vTxOdfw3bhBqvrRhztln85ukQRaknHthsZqnbKspzXlXgGRRUNaZRTR4XqfK+2MH212CWLLPuPfHBvbmW80k0k8V381qBsdwmH0Ldz5n7GPql5m8ECV3zTZnMBAt6Pk8cJ+PkAhYIG4xrkKu18DEDYMmGQyb+/CUfyGM/rngDxlnBAxmRKKPA39XGSk8WZdrhLDSHCTgbryRNCwg98AV0LzLIplx5aJuNYN/7mwyq4vJ+kOLBc3NmZf5+40PJrJa8yrnIFobBfzJ6hMHms+W/a5sPZKK8wwNMSAwLQ/jV7uxvH/17z1zLEA6nvppFEAHAXolOAYEj9x5F/ojxaGjMVed37Sp22ovoNnhogYtRIH/PQJe5mRxXsC2BmSMLGPD7AZGlgJeeU=",
+  "URL": "https://hackage.haskell.org/package/monadplus",
+  "LICENSE": "BSD",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1587644172",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "ghc-libs"
+  ]
+}

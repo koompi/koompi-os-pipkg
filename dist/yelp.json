@@ -1,0 +1,27 @@
+{
+  "FILENAME": "yelp-3.36.0-1-x86_64.pkg.tar.zst",
+  "NAME": "yelp",
+  "BASE": "yelp",
+  "VERSION": "3.36.0-1",
+  "DESC": "Get help with GNOME",
+  "CSIZE": "854462",
+  "ISIZE": "2721779",
+  "MD5SUM": "b6da57b9c0e3155f80bbe102462840f7",
+  "SHA256SUM": "761e2d1475e2574262b5f3d2431f3ce9875de1c7ef0318ddcba77cfefaf52d85",
+  "PGPSIG": "iQEzBAABCAAdFiEEghj4iEmqxSLpTPRwpekojE+kFfoFAl5kk6AACgkQpekojE+kFfrxoAgAmSlW1rI0u8gAc2NTXTvpfrmn4qOJBF3KD77YJcdpnHNBrQXQvKTJee/h+XWHt4i2KTwpS78N0RhIQK48gfx7khH9VlZ9t/ZaWOp9VblpwZarzX4Pq02dt6GLboK66otbZWICmeTAqE6BQ6XthHiWMg5O9sKnKk9DlzCfM9q6BL/GEkJ+S+3sVPuJ8pweh9B+jsEiz7hZ6K55rlz4+ajA/zJ0Gz/aMZZLWUYIpB5ZrLE7SxJdOFqwXblucHWEhanbObp807rBykxrMGF6CRbHZa041AO66l0FWid64aZXm8TwomXHCdSePusJc5CvFWLyly1HbXNekO90ybjZISwekg==",
+  "URL": "https://wiki.gnome.org/Apps/Yelp",
+  "LICENSE": "GPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1583649561",
+  "PACKAGER": "Jan Alexander Steffens (heftig) <jan.steffens@gmail.com>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "webkit2gtk",
+    "yelp-xsl",
+    "libxslt",
+    "xz",
+    "bzip2"
+  ]
+}

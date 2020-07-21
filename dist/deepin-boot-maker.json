@@ -1,0 +1,26 @@
+{
+  "FILENAME": "deepin-boot-maker-5.4.8-1-x86_64.pkg.tar.zst",
+  "NAME": "deepin-boot-maker",
+  "BASE": "deepin-boot-maker",
+  "VERSION": "5.4.8-1",
+  "DESC": "Tool to create a bootable usb stick quick and easy",
+  "CSIZE": "1043339",
+  "ISIZE": "6306765",
+  "MD5SUM": "b3c08a73cc4e236780e6afb419a09723",
+  "SHA256SUM": "dc8d2a37c92d3e0f91c76e51574a0ed052895a014e03480a3315a0c8ff2f440f",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl6pN40ACgkQeGxj8zDXy5IVWg/9FDt26bJJnDHJ7GZVqE7XSh3ohGEZp8m53WC4UXJrTgUfjofifPc+PY5JvTMY/ElsH6xR1zZZMeMUmiM6LU2FzfFuOaZPIduOKWlKQGHizzInoRBV7v7iw6YEsC0Oe/kim3q2y4qfqQf6um82SXx/eBwMrJAADldeavSjiUETfUutIDQHfkJ4dcAj3HKCZ/Qts8aMjo2eiGnP5zp67otH5BlUO9FAtikNIpI5e8L5BBvmcY36D/munimVnIdFFou4RNIPBAPfRGY0+yL7gXTu/OqDXLttPiJhyjgKddgExToU3Y7YWr0Ywn4ZZYHO2P9rwyN5eeE+nGrDggx2KOa4Xb1o/MA9UWl349wxNDruR32SbSwyYrHn9SMXnsVxjMJPuakVwG4v3uhmvicq7WWU4tlwzQHTM+hpuky0QOAlCqJ4jMz5ls0PN9oYqap7Jk0ZIWvqPTQ0t51T3lrPczm6z9PWCdzLn9bY2K/QPvFrWj5IHuakujVMLJs3fr6G0EvEZ+j3paIw6gGTHgbdqGiLAMXDSCZE9fFDYGe7n0AF7JVvE7c+PTIljhS9brkPWTHxzvtr6yJDbpff/98HIUL6vdu2ES8gmLuy3uUR1UUdp6EaCASHUOOMyNLgMyLmBPsgM36KlzJ/x2y2gY8YmRdetZ2fiPbSzViXiKJq7kIag9U=",
+  "URL": "https://github.com/linuxdeepin/deepin-boot-maker",
+  "LICENSE": "GPL3",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1588148034",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "deepin-qt5integration",
+    "p7zip",
+    "mtools",
+    "syslinux"
+  ]
+}

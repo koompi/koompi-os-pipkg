@@ -1,0 +1,28 @@
+{
+  "FILENAME": "gperftools-2.7-2-x86_64.pkg.tar.zst",
+  "NAME": "gperftools",
+  "BASE": "gperftools",
+  "VERSION": "2.7-2",
+  "DESC": "Fast, multi-threaded malloc and nifty performance analysis tools",
+  "CSIZE": "626191",
+  "ISIZE": "2391653",
+  "MD5SUM": "b5e301e3892af01f3a7cf5da7b7ea69b",
+  "SHA256SUM": "c6b3ec64a11214a43b870472c8adf713299fe505b6c2e993506d3318ee3d8074",
+  "PGPSIG": "iQEzBAABCAAdFiEE5JnHn1PJalTlcv7hwGCGM3xQdz4FAl6z2TYACgkQwGCGM3xQdz54oQgAsLOTSfCfjVoDCOA+fUe8Ri/jXq61O9V4J3RrmDVw8l9ppN+PYFM5VPOY2bAZoK9vUghpAURADQc7dluo9UfPF3nPrqiqOTCJ29T+Qxmas70p2K7WJG4MGig0DnoI21u42UZohGL4J6dGp5faiTX1ZkyH/ZwSQvdcNMlHKDrCe1Zk9O2J+btU9BJqpOEHCGjKkxK08h9rxZJB1XlQNKhIxWkqtlBqzAATAYmhDJgOXsXIMRfjtp9nhGbrW1Syww7pkVzzYyAzZu4ZJ70c5E5/L63r4ECq3ZK/9EVKs40SGChWkF4SevIDLLAsBRjPPclAyRU+NJ4xqTrwiYkz32KaMw==",
+  "URL": "https://github.com/gperftools/gperftools",
+  "LICENSE": "BSD",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1588844348",
+  "PACKAGER": "Jelle van der Waa <jelle@archlinux.org>",
+  "PROVIDES": [
+    "libtcmalloc.so=4-64",
+    "libprofiler.so=0-64",
+    "libtcmalloc_debug.so=4-64",
+    "libtcmalloc_and_profiler.so=4-64",
+    "libtcmalloc_minimal.so=4-64",
+    "libtcmalloc_minimal_debug.so=4-64"
+  ],
+  "DEPENDS": [
+    "perl"
+  ]
+}

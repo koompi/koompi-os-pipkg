@@ -1,0 +1,26 @@
+{
+  "FILENAME": "geogebra-6.0.593.0-1-x86_64.pkg.tar.zst",
+  "NAME": "geogebra",
+  "BASE": "geogebra",
+  "VERSION": "6.0.593.0-1",
+  "DESC": "Dynamic mathematics software with interactive graphics, algebra and spreadsheet",
+  "CSIZE": "16741682",
+  "ISIZE": "76284572",
+  "MD5SUM": "d00c3b8869ea9ee1bcb1e1d19aedeafd",
+  "SHA256SUM": "dc722a0f6474cf4e3437ff89f325bbf3a7e71d56287fb309cc7b8c633bc87733",
+  "PGPSIG": "iQEzBAABCAAdFiEEFRnVq6Zb9vwrc8dWek52CV2KUuQFAl8MJAgACgkQek52CV2KUuTOPgf/RTpBiwKZKCQM/wa3ccP+ZGDonS02flPND+ddDpyQcNcmySeCRx37p/d8FzZwKV86TCWif+Fe1Tb85WtbwzUq/BhNw1C8UWYHM8LCvT1gQyquWcBBob7yyCLolLWPXLu5wCsI51q8osuzy5u2kYgotvvdIzqBJRTiFH3k8hDMzNmbpv/tfbhtP0WN60D4/oy4/7hr6WlL89b/THUdLEigSjzc/Z2wrzwg2y1Vohpk0wAoBbfsTVYYNI5a6qNy9we+YdROg9bWWkYLhcaeXnwGIN+BQy4wad5r/pxh0mJLgB3L3rEi08O3z3gcczLloS//p0WLnQrACt81BDzkOzzUOA==",
+  "URL": "https://www.geogebra.org/",
+  "LICENSE": "GPL3",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1594628528",
+  "PACKAGER": "Antonio Rojas <arojas@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "desktop-file-utils",
+    "electron6",
+    "shared-mime-info",
+    "xdg-utils"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "FILENAME": "vhba-module-20200106-54-x86_64.pkg.tar.zst",
+  "NAME": "vhba-module",
+  "BASE": "vhba-module",
+  "VERSION": "20200106-54",
+  "DESC": "Kernel module that emulates SCSI devices",
+  "CSIZE": "11540",
+  "ISIZE": "8873",
+  "MD5SUM": "1c1a83e372246a3e4f4dd0b4f93b4ad5",
+  "SHA256SUM": "3fcb156d40a5d460844d711a1fc3b3aac9f46555695676c1af4585c627790bc5",
+  "PGPSIG": "iIsEABYIADMWIQQGaHodnU+rCLUP2Ss7lKgOUKR3xwUCXvzLWxUcaGVmdGlnQGFyY2hsaW51eC5vcmcACgkQO5SoDlCkd8exegD+KDIcuQ46pvJgyMLKr8kf9+Hi2gJ7kSl2qZFYgFUHlgQA+wZfO57R58HFzGenxs5/tcY3QXCYFe1n+GKQp07xJScP",
+  "URL": "https://cdemu.sourceforge.io/",
+  "LICENSE": "GPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1593617976",
+  "PACKAGER": "Jan Alexander Steffens (heftig) <heftig@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "linux"
+  ]
+}

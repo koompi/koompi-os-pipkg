@@ -1,0 +1,28 @@
+{
+  "FILENAME": "xfdesktop-4.14.2-2-x86_64.pkg.tar.zst",
+  "NAME": "xfdesktop",
+  "BASE": "xfdesktop",
+  "VERSION": "4.14.2-2",
+  "DESC": "A desktop manager for Xfce",
+  "CSIZE": "880765",
+  "ISIZE": "2551824",
+  "MD5SUM": "7d4c480768f13d14af492c82b4ce0f57",
+  "SHA256SUM": "dd52e92907106fa611e470de4b68fecb4d69099d42981aa94c45d9b0ee78fb95",
+  "PGPSIG": "iQEzBAABCAAdFiEEhs/8qRjPOvRxR1iAUeixSKmZnDQFAl61zP4ACgkQUeixSKmZnDTaugf8CMWfXMHpJ393P1VhRSVj761jFTR8q38ZlRfJHfvhSzWFs9FpiEG1ucd+TzdU8qtZx7BawwVQFGn1avcSv1KENi05shbzTVU4pwKsE/iINPmNQnnFFXX4JdYumQDzE/ubT4glgeNBZYLaMu0+ENLJTQkT2lVNcbXxiADwU9MmTMolh70SBq8KLgUGH+YbslwB1Kd0q1He4hL8X9O3s5aM4iF739admBaH9hjwOlgYKJpfMLoxJzPxeAOgnyw866q4/wZC5zA2MeHW7QXtjmN6Lm2/FUqnHzKtZBXv+MMaMfYJB5hL/6f3nU7s8wbP7rw+FI1cjabvOPU6jn/D1gY8dw==",
+  "URL": "https://www.xfce.org/",
+  "LICENSE": "GPL2",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1588972455",
+  "PACKAGER": "Evangelos Foutras <evangelos@foutrelis.com>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "libxfce4ui",
+    "libwnck3",
+    "exo",
+    "thunar",
+    "garcon",
+    "hicolor-icon-theme"
+  ]
+}

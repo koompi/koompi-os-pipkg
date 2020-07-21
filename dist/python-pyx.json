@@ -1,0 +1,24 @@
+{
+  "FILENAME": "python-pyx-0.15-2-any.pkg.tar.xz",
+  "NAME": "python-pyx",
+  "BASE": "python-pyx",
+  "VERSION": "0.15-2",
+  "DESC": "Python library for the creation of PostScript and PDF files",
+  "CSIZE": "518860",
+  "ISIZE": "3675842",
+  "MD5SUM": "22a62effe3c0186b89ba5fef7a1cab7e",
+  "SHA256SUM": "4aa7412f643eb712eefdf8d27905539a00646459be84ad9838e0a6b59b1e55b3",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl2/0W8ACgkQeGxj8zDXy5LH+w/9GvQYpyyHJwnzqaIid5Mg2XwU6HDqz7sAzv8TbqmmbaW2tJ1O6GbQBYVWDP4UYPyKAox+KHZWSMjmateyulniLHyJimhfc0dwRLsRRFnvheRfXRgtiAdr5Uucx3SxlF0t6mhz9yTNdyUZgvbsOdG8uBJetp4/tYetXBip3581RMv0M1nU5o8eNRoho++8ylHAHr+LT3S39SB+HPLTNti5WgDTvGTgv86srO07sHmD8ul7PGKI6xFV0uROwS+7CSJ7RfCtGZ3jubI5ZGTJfHUppb3EMFLz0bMn6rA4T3zhNPfvd9okuBtiCBbvurhlo9FQsVwj99jTnZOpshnI/1vSJTFjOXoh63NLg+An1/HYFRNqeVOs0LbWPdvdXVw20VC9ZjiSj+wCb7gKth5FKKWnuUbyi9CK99l+1bAKfdw894SMV61xz3QhhYpj7zLHjcQffuj9753lQnzYUtbpiBik9iJq+ESy7SDDS2sOi0mQ3Len7/IeLKyhsCZXMvR3qsrVoW9tX64ndOFrjjVL9tdio1MODXi3w2ESBkuCwp945teSD9YsqLcfXr63Pqn7N45bGH3uzyPlgMWGyK479q3wqiA+hrN3FxX/ydctBopsRrPaONhcI6WuZcXmKxfY87s7HDwJgpB7SS+BbYrCnsJCe4AV1WWVJ7HmroMcVgxxPJc=",
+  "URL": "http://pyx.sourceforge.net",
+  "LICENSE": "GPL",
+  "ARCH": "any",
+  "BUILDDATE": "1572851975",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "python",
+    "texlive-core"
+  ]
+}

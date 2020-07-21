@@ -1,0 +1,23 @@
+{
+  "FILENAME": "qt5-serialbus-5.15.0-1-x86_64.pkg.tar.zst",
+  "NAME": "qt5-serialbus",
+  "BASE": "qt5-serialbus",
+  "VERSION": "5.15.0-1",
+  "DESC": "Qt module for general purpose serial bus access",
+  "CSIZE": "180709",
+  "ISIZE": "707590",
+  "MD5SUM": "29bb88b2682813373dbd63ab5b7660b7",
+  "SHA256SUM": "90a392dabe2639925d99917bc3fc4bffe7454301b58633235ca5d19d7371f9e7",
+  "PGPSIG": "iQEzBAABCAAdFiEEFRnVq6Zb9vwrc8dWek52CV2KUuQFAl7M10IACgkQek52CV2KUuTT3wf9H+moJR/urrahmuCahnbB7B3RFgg1MeY5+rOWhyHY8YZO8wkpErSOJ86nR5agJDykLJ4K9OamshuuYgCFQgyxJ4DnwQy6ijjF5OHPlgSOVrWXuzqVgAeAD6T87/DZ0cHrwjzk6AA2zXC32LBxQtwrdNRui9u6WOf8oZ8GsNoVmaSV5hzIiNP3kzIO/VrLPhc1xcgZ6+ImFmEN+WgS1SJWTAOMdh4otBLfX/ezcObYD5iG5dvcKPTnwH/LJRSkHKXiZGHoijKuV3s3XDOuK6sA1WJoNx5x7bw0XVuL4pY3IBxdweyS1bqO3jQVNDgaceAIrh6NZAGJgmeOWKBs/kNJbQ==",
+  "URL": "https://www.qt.io",
+  "LICENSE": "GPL3",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1590481874",
+  "PACKAGER": "Antonio Rojas <arojas@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "qt5-serialport"
+  ]
+}

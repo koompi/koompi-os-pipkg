@@ -1,0 +1,23 @@
+{
+  "FILENAME": "perl-file-slurper-0.012-4-any.pkg.tar.zst",
+  "NAME": "perl-file-slurper",
+  "BASE": "perl-file-slurper",
+  "VERSION": "0.012-4",
+  "DESC": "A simple, sane and efficient module to slurp a file",
+  "CSIZE": "7824",
+  "ISIZE": "8898",
+  "MD5SUM": "495396d4b12d120082360c7296b3f07e",
+  "SHA256SUM": "4286b7898c479a0157eaafe0646861f85c158ffb23317482952028dc6c0a17f6",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl7vOKoACgkQeGxj8zDXy5KpSg//UusbKBWe+Rqg+4cgS5bgwEusgWc6nNxuNTj8jdQFWmSyIzbje0HEGhtgQbTZLGx+LBHpJS8XgkI747oRaQHs3SRjLDPMq9sDNSZMbcNKaDDjzg9r05La7tkKZiQmcCCjJJ3oKHVub9RBL8aucUMXAOE662jXK6mSe7/P8ihLCp2O0vo/Jw7XFCOaMD8EsxvSh1E4egSGOkHBSwCPHg4yTCdGNN4JDfqZsglR/wTG81KAH+dDzFF0CfFoLcyaTqGoVlgJucavxpjQsk9fycBjmVd5OzxYC7gD6Kpgw7wuUYCyyNldXSzQTixPxyySDzBvpkSZOnn+bUXt0JIeGnLk/3hyW2tDp3iGQ07NQ5z/qAJ/g8uZQ89wZCKETvMHUNm670hccqBs5EpOmGn5quV72WSUM36/4S2ldG2o+mvlFS/YXT7AheY2SW4fJ3I+V2FcZYZ3r/UXZ6k2O7ploluYLDrgRNfXp6JZhWsW7SrRio95uBjkYr5j2ogyf/ileHB4n3s14jDHf2IY8xuAYKny6JLVeR1e0L97SehVf3q/Z6v2DCDi49S3j55mO3ZmpaTGBhvIJPc4gh9w4/IDtX/HS1yPIlcYSbkkA49je+ul2ehwoB9Ug2dITjkEZZraEom0jGIGUvP95TckA5RfI9IqBzr8RTrxyuqHW+wb6hx1OaE=",
+  "URL": "https://metacpan.org/release/File-Slurper",
+  "LICENSE": "PerlArtistic",
+  "ARCH": "any",
+  "BUILDDATE": "1592735881",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "perl"
+  ]
+}

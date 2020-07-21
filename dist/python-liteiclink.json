@@ -1,0 +1,24 @@
+{
+  "FILENAME": "python-liteiclink-2020.04-1-any.pkg.tar.zst",
+  "NAME": "python-liteiclink",
+  "BASE": "python-liteiclink",
+  "VERSION": "2020.04-1",
+  "DESC": "Small footprint and configurable Inter-Chip communication cores",
+  "CSIZE": "81385",
+  "ISIZE": "583099",
+  "MD5SUM": "0d1b320b6dfbe0e456a83ba045b513bf",
+  "SHA256SUM": "d54b24871139a179936d2fc52e6780dba15bbb210523b0052a27f511d2d9089a",
+  "PGPSIG": "iQIzBAABCAAdFiEE0jW0leqs33gyftiw+JPGdIFqqV0FAl6oQpkACgkQ+JPGdIFqqV1YjQ/9Er575eGiPyxIJ3MRFY+OQ6Y5+dSiHsTZnB/9uj1CSI9ScU2dInS+UaT7wgpQFoyCxiZkW+Nef+BHFyOW41d+WE6TtkW0inQ0NFxQlgk0muYrk22FAVkK8MtD5qRqU212AcoV2FqicA1iPHMfiCEHO/xipYnfZ7RW3cBd4ZqCdJp4RGfqlTNKc04pczT4biulkNgzHHMEl3c/74QQevgVk4jhUovxIAThBaUwAfWB4Qaygeia/UArO31Gz1mRdaBpoFrJsT06seTCNb96x6CLB0h+zdXRnGG3GkLzBRiOAvdDaRW8pQ9fJyy2pvqRn8VRfvDJjrZuFRVxmJli5rV9K2n7vdMMSz4EkPNYAsBeS2a4o4/tTvf8IQM1Cbv0y5MrIBn1wGXw8KLP/rZPB/xJgfCLH/xu+M5/BIr/mNKBVJnRJTFf4ljIz3PFb8HVvD3++5x3SeJrK/ME7ydGM2rTiqNv6qnDK0549nC4MxEeQf9eWDXR4XRXJoHVDAWb1jiqQsIlf0c1d2U9hcJfEQhpkil052nG0bKP3k6oI/wEXRPCN/yMfCgV8AexYiMv1tGzrSmbVUTZT4jGb8SVMie/2e77n/IvP4qhgKkV0b+h8FNdIrcpye6GFaa05nA6PZhtgJFVjPddpLorjTcqzOBp2WtpxxVTvYyvDjZZzAO4tGQ=",
+  "URL": "https://github.com/enjoy-digital/liteiclink",
+  "LICENSE": "BSD",
+  "ARCH": "any",
+  "BUILDDATE": "1588085367",
+  "PACKAGER": "Filipe Laíns <lains@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "python-migen",
+    "python-litex"
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "FILENAME": "haskell-genvalidity-property-0.5.0.1-19-x86_64.pkg.tar.zst",
+  "NAME": "haskell-genvalidity-property",
+  "BASE": "haskell-genvalidity-property",
+  "VERSION": "0.5.0.1-19",
+  "DESC": "Standard properties for functions on Validity types",
+  "CSIZE": "106114",
+  "ISIZE": "719130",
+  "MD5SUM": "a128a02cb92706d2f06a7ab3d197ce80",
+  "SHA256SUM": "78fc435a0a57092e752a18bc2f25f06fd8506b8cd0233b0057409030991871de",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl75onQACgkQeGxj8zDXy5Iejg/9En3/0dGXOn6fuiArPaTrtj1L5eh2E60R+BSiHoYSzcdgQtxSTOqSIcsBgeMklZqWlEGXsdhKUmYAYAPNnbs0bCUv7bAJdu2QJ4D2epaSggqs/5rpYHC5BkI9bM+o1tii8Fe7GYCUbEBKn1rUUI/stWBMZZMbaC1oLiANsSroaZP9zwgPEc5UIwHSXM6eHwHIF3z/4+JoSlXbbaVElEYN0mNwdsvfc1qIUYx6vi2omRqUHsV+0bUpH5WOJPADjKQki3f0TlRXUwhY+Xr7BpUcZcFjC4k0WwKOzdzu/ql6MJnutHjPGREPRYOIpv+2u72TJs/vA0VgXB0X4LJDAWfP9igUQl6FBifv54lLwXWX8dqo8oqeb8+ui8LcEgsNvdhuEjuns/VZa+9wzpPLk7Jtz8AW3flYV6OthGrPhcHT138Bx9A3RxAPFIAHGNUCjtRfQK+cU2mT2tQn8UDzmlY/klUIYnL3zitQM63SJIyi4M1VVSS81w1xJWJb7h3vq2N4I2tZEe9e+U6fU5QyrdEVfEhhHJ236m3BZbWPkn1ZnWuxWUSv0n5BoCe0Lt83Koekn56HqYepSvWcXvsn8FyNOqQCq43/JodarC/p5HFE1pE9xA/ZNrkrhzO7LIfzMhP7tgermAEGS28FSYAkPwPeoynXZTntB5gr/H0bR5s33B0=",
+  "URL": "https://github.com/NorfairKing/validity",
+  "LICENSE": "MIT",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1593418317",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "ghc-libs",
+    "haskell-genvalidity",
+    "haskell-hspec",
+    "haskell-pretty-show",
+    "haskell-quickcheck",
+    "haskell-validity"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "FILENAME": "python-testfixtures-6.14.1-1-any.pkg.tar.zst",
+  "NAME": "python-testfixtures",
+  "BASE": "python-testfixtures",
+  "VERSION": "6.14.1-1",
+  "DESC": "A collection of helpers and mock objects that are useful when writing unit tests or doc tests",
+  "CSIZE": "169128",
+  "ISIZE": "1132002",
+  "MD5SUM": "b4cee28372ef12f952172f3aace4539b",
+  "SHA256SUM": "c7377eab8772564a826d07c50a55ddd5cd7a3753e05efa36cbb5347dd25f7bff",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl6eNIsACgkQeGxj8zDXy5KjUxAAl+nw0IQB0UkFdegcxk+4Pc6/STjGA9WQvQBsgO9rWusASk3R3MZIHpaL9P/4UdEIzLOXvisDLJdHfIeyfZyhX/QwQ5P6vw1vNxctk9HZupdKNIuEUObt7rpV0RoTt2Da2joywS2Fb1d+dh2vFx0TpE+OhsRIj+VSKzXBZw/eciHuqxVf090D8F9TlxHrDIJPrr3O0ysMlcucygaxwWR1K9CwcongLVqYC2MN3kh1wDnTbSpSzoGktuFOdV0qDOuhVS7QEHti8/hP4Xeg+w2RHp83caQlKpbPQl9xmgUODlN2J3wO4DjXR0KJB9UmHZ4cEsipZFe2DbeXIA+bJ780zucXMNl0rha/QcShEBJ0K/QEyyl3fjUTIFieA2t4OFjTcmCFEXrR3dXePzZ87GiwcudXJv8YkcYftDhW3Wb7VnAjySiIFRg0nPjrtYD1Dvl4Gjp5peSVDDbiGpFwEnoUfcVoZv+Weg9M8Z9EzS53hNVfJkfsZHRDk5tWlD3lgoH4soEr/U8eyDQpqEd3/2BnEBhYjid5cE1MfKI/0rZUNc0/FOiWOAwet369YHK92bmHIPzBZyESchIWMSjUToTo0ndlWcJvz7N9Tr2RHukK2yJgp51rGuaDp4p6q/1Xfx7Qs4jHhRo27Xiw65G00N7XcLKauExQTRuPVsbyDYDE3Dc=",
+  "URL": "https://github.com/Simplistix/testfixtures",
+  "LICENSE": "MIT",
+  "ARCH": "any",
+  "BUILDDATE": "1587426406",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "python"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "FILENAME": "perl-text-template-1.59-1-any.pkg.tar.zst",
+  "NAME": "perl-text-template",
+  "BASE": "perl-text-template",
+  "VERSION": "1.59-1",
+  "DESC": "Expand template text with embedded perl",
+  "CSIZE": "48498",
+  "ISIZE": "95038",
+  "MD5SUM": "c5785597a6221d56f8dedcee26ab8f3c",
+  "SHA256SUM": "ac0e5119ea3a30886fc75b889addab3186d5689efdf9c77d8e29f44565ace5da",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl7/lUEACgkQeGxj8zDXy5IPqA/+PVi0e6urlFp/XHwzRG5Swqf9GFdqSlNz0LI+YL6TnkE2mlWwvNVNbs2WS0XBVcG8WVrXsbYCeeFykIb7ZD119JsgHAFY4AP/o/8i94DiGdV/r7oTcRGkUE/fv2amTPmDMUJrHLR85I4yjRI5jaE5Jn2lWok+HbQ1A8xm5QyPYgOFuFdSgwlJW5i0MtbiFay677tq2V2b8oBoqixyp7f9gjLtOJ7cBCAHZL0yGPaOHMc1PCJXTZ0mtR2HadrsoA+NuGMpSUYzKsHMjVnCh2WhylBi5naTeS3nIyQd3xsjV5lk3OCQ8eC3gf2J6xrxdx6W1u1NW2ZTiCfxA3YUb90XQVEjMxqj13Nr23sfGfBPdUre4ltAvNyJ4GD/lkOn8RvDcXfVFnsjqtWXKaTCOvMFk6Ym+x5kUOHLFx58uwQ1gPpF0eWcjWSMQ8RZwtsaQz3jmuzGGjdzAuuszbL/3veUzl7AdRSHXoFC9skT6foq4a1PI+97xnThsIctc3Ju2BaJ6J/ZJ8cfnYksF72yxOBmtAybmOPTHkLnO2P+ah8fTaDiB6XTGb1amJvpYpvwpjjfIDnhcvoknmeEC+OHj1WabILcSj37QA1LeEMLLIFESGbwJ7AGnrTin4NbXpH27LEMZfrtdkMSyYZW9lHGncREyARE4Yi9o5arLo+d/N49Fko=",
+  "URL": "https://search.cpan.org/dist/Text-Template",
+  "LICENSE": "PerlArtistic",
+  "ARCH": "any",
+  "BUILDDATE": "1593808159",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "perl"
+  ]
+}

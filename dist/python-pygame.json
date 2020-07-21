@@ -1,0 +1,27 @@
+{
+  "FILENAME": "python-pygame-1.9.6-3-x86_64.pkg.tar.xz",
+  "NAME": "python-pygame",
+  "BASE": "python-pygame",
+  "VERSION": "1.9.6-3",
+  "DESC": "Python game library",
+  "CSIZE": "1989752",
+  "ISIZE": "6672858",
+  "MD5SUM": "08df28e91a2975b1b14369e5cb76f2fb",
+  "SHA256SUM": "9e6337403fc01ebf688d7cc74023138014d3144ec50ebed33e5ce454a555d26f",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl2/h1MACgkQeGxj8zDXy5KJdBAApMYSfn1+eC8Ub5vKdJK93ZzA7h4iux2tycrnk29kNXmmpnfwD9WwUXCuGYHXkDGCwH4zagpOgB0Pw/+nQMKZ/iXuAQK8elbdKZ/LeT8Fix0WfXOgmeNcPzp2mDkvQecLVUNWyQy2/BXLakf4qbp8b5JLnj9/J387T+qEVz791lADd1Z9yfJmSsxhLiXWkDGst79Y6EUFrYaoqwsMihSMUYotoLh7Y2kSkn7SiL++fbD54i4nsUViuCGHKyT1WxmE6shISj0weszaalCuhEvGM2ihz9k+BUhxqSIq2CT8T6jcBIYr+UdiGp5LQnBFfAG7HSAShEYBKgI+eOTVPJEG3XEBYp4aN4yWIT6VkM+rjcEgG5i6LpBtXk9asQOd7DJCm/cRV41LaO5S2rpLHRzWPO8UOLRZvdX+WnSjWUbim2gjxUlN81tRVxCEYRK0udHEEz9CpBAPJr5O8GfW67B0THQGWQIWyLuwZccnN0xzBT0QYe6vz69qtKpMP94Ky4olfl5pElkamD7k3YrAeP4vc/WrVdnnqpZFo1qlmqB0J9vdjYTjds8OeMkeGfc5xqUTwXZtRC1jGDcU1bxgTtZDp1gaPhz/VtkZ1rc9GmHCHbFZKqwgLpqpCFH4jJEufqYde4mdUyMI5S2O7jqi3bSQqn2gwZhOC6FRgOm+Asb7vVY=",
+  "URL": "http://www.pygame.org",
+  "LICENSE": "LGPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1572833009",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "python",
+    "sdl_mixer",
+    "sdl_ttf",
+    "sdl_image",
+    "portmidi"
+  ]
+}

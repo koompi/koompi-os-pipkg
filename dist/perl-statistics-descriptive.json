@@ -1,0 +1,24 @@
+{
+  "FILENAME": "perl-statistics-descriptive-3.0702-3-any.pkg.tar.zst",
+  "NAME": "perl-statistics-descriptive",
+  "BASE": "perl-statistics-descriptive",
+  "VERSION": "3.0702-3",
+  "DESC": "Module of basic descriptive statistical functions.",
+  "CSIZE": "59134",
+  "ISIZE": "148479",
+  "MD5SUM": "362eb3780514e21a44862294295bcf72",
+  "SHA256SUM": "e26180a31f6fb3e45616db928570a0c045dc5c499802ddf0b2874b5467e1ac4f",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl7vhH8ACgkQeGxj8zDXy5Ia2Q/7BsEpeKqS2PI5ZMpQs9Ssv87yXHoZsiP0gLRz5mMVbo1L7OOQxUqMu61Mz+531lip+8zBsANB8pWHBdRzVhVtHMZVv92Hyjf7/bLXliUqD8sX0zZX/4sb/9X3JGgiz7X37VgeYSwd8DguiInskLmswnEnTb2yxVx5GFeQZM2t65eVaDt6InetyFHrnMeYgPtW8/fvjCvKoYgVehKDjtapWXgtEyEjFzsyeUDwSoZpK7CYaJuXtFjZJxV2S+qLseNXDJMEBs3vnUIoJArexEwnQiVhz7dIm6DXTjR7M1gOXLRYqhg4Qob3IdSV7kNs4/8aSZxXwfNnM/f0oe28el0yz5K/6VMpwOnoaKmKAY4L9PXx9hvRNOpk/gz/QZke1t26dlIU73E8sA1sTVcvgMiqcfqpZc8fsR7X5HoQwotxl8/RAKC5Gqm7B9iF6X766bBKHLVRLMsfYVW4XW8oSbwr3z5yH02gkKTfzLMaZDm0qqRuxUsSH6Mp4RhA44AEky51tWBQWaODJv+HLdT6R1L6Z2oCSWKn5zCp9tntk0LKbEUe8DBs9gmFgF5Y7ClBQadE7s4wNsKP9ENaxCIgw4P5DpO8p1U7M04PnuLyY5XKtwqKZuUeLzL2SXr1trg2AXfR+qzXlCvcUbjhs+6jg8gaUww+RXIc0kgMmees0U7xyqU=",
+  "URL": "https://metacpan.org/release/Statistics-Descriptive",
+  "LICENSE": "PerlArtistic",
+  "ARCH": "any",
+  "BUILDDATE": "1592755306",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "perl>=5.6",
+    "perl-list-moreutils"
+  ]
+}

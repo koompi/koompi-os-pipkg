@@ -1,0 +1,28 @@
+{
+  "FILENAME": "haskell-nettle-0.3.0-77-x86_64.pkg.tar.zst",
+  "NAME": "haskell-nettle",
+  "BASE": "haskell-nettle",
+  "VERSION": "0.3.0-77",
+  "DESC": "Safe nettle binding",
+  "CSIZE": "211975",
+  "ISIZE": "1510710",
+  "MD5SUM": "c9a432325ddfb3028a897cb9c3b29edb",
+  "SHA256SUM": "34c0525924c1459ccf5553312cd66e9320eab70d48905d556eb0c039e73d0e85",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl75ILYACgkQeGxj8zDXy5IU2BAAhdRNk+vjKvVRLSyG33TlbXbdb7cxs5EQ/OG4w87+SwuaBGUQD5m7ZeNdKSqHfIeodofD9X9dV2QvE5/YSNczx678AhXcWj+vUVRTcSziw/S52KTKDdey6c3oHEnlQ+Y4GNVXOm9dw5xgPNJIN50XUgxe2Ondh0dau7ITLsmQxuoS2O0xuo8TjMqi1kWtFBGb+W8wcC3TRWo6dCbGi8qu0eNRtbgM5nmTvzH7Cfbh6MbgnEh65EvOXN3uhXfcx9v9tFmIe87uvCTEjRJhuI+OBbyYt47PSK+veyuIRokP9Re7qkk9oo6SAPtbJrXFmqCgjFZSAZXB9w/2HIK9HUBo2BVq8LyaDSq66OYTszzTHiiHxJNESrF/FeZClJUHHEYHad6NbUuqxXL+sHXT+hyhorjdf2bwVK1+3926X0UgVkAeWXbBXSOqJNaIjHhJeIwTj3MRSXzjTJH7puGC6ssTER9az07HDNVM/OVpPP/Op2vCanmwWjdY7p+0ApYNHtqSN+Am7RBYK31HIhxrirD5mIxTCnUZZaWaaFBgrleBJyvowdrPOYOrsSlu+8bM5fXbO6iiaSv6xS4arC+clB4h9Bpz74ietDMRILOZfDyh7fk177XUP5kIJVPgiZwwLS2q3gzSvGAq8pq7Gw9+XwylCmsjOPVS2BAmmrCy7ndYvvk=",
+  "URL": "https://github.com/stbuehler/haskell-nettle",
+  "LICENSE": "MIT",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1593385113",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "ghc-libs",
+    "nettle",
+    "haskell-byteable",
+    "haskell-crypto-cipher-types",
+    "haskell-tagged",
+    "haskell-securemem"
+  ]
+}

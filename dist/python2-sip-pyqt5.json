@@ -1,0 +1,23 @@
+{
+  "FILENAME": "python2-sip-pyqt5-4.19.23-1-x86_64.pkg.tar.zst",
+  "NAME": "python2-sip-pyqt5",
+  "BASE": "sip",
+  "VERSION": "4.19.23-1",
+  "DESC": "Python 2.x SIP bindings for C and C++ libraries (PyQt5 version)",
+  "CSIZE": "59388",
+  "ISIZE": "157297",
+  "MD5SUM": "56f9b744d6a373ad4ff9136a928858f4",
+  "SHA256SUM": "f04c1adee8650cc7015a468ce603e19a6c95595a8f488079d069375ac0fc9a43",
+  "PGPSIG": "iQEzBAABCAAdFiEEFRnVq6Zb9vwrc8dWek52CV2KUuQFAl7eRhcACgkQek52CV2KUuRJWgf/c42G3CMB9XuZl/kBRnz7kIfhP21ix7cY4bRKk74OPHAEvxeeU50nDesR4J2IHcZaWMThmUCqIhI0L7ujhN88tJyo3mfzNJtdVfpvF6cAOUNys/dSOZNWF6hZTc8MzHW+1PUCyta7LzEsYIOrJgmH60Pxi7C3EYudliogbWYJvj0h2Ln0qLDz3mbsl3vvA55gZQYVZXCGX3PL+sdnTNPAlkkr4Tx9Flpb5u9zYUYZcPJuUkoiuL3ENTSCnt8wqUpaVL3CwRqFRUnh366yBDizIchbJIRXziP6EMUvAWP6G55+kvi/T9X1Dtg2Xw0M3tEorJKihZgVRN3nUeqs5FoEyw==",
+  "URL": "https://www.riverbankcomputing.com/software/sip/intro",
+  "LICENSE": "custom:\"sip\"",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1591625154",
+  "PACKAGER": "Antonio Rojas <arojas@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "python2"
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "FILENAME": "esptool-2.8-2-any.pkg.tar.xz",
+  "NAME": "esptool",
+  "BASE": "esptool",
+  "VERSION": "2.8-2",
+  "DESC": "A cute Python utility to communicate with the ROM bootloader in Espressif ESP8266",
+  "CSIZE": "107448",
+  "ISIZE": "743305",
+  "MD5SUM": "9bd5ce446b9e370bf3b39f545e16a21b",
+  "SHA256SUM": "4790416da7a3a9b17439e292492261e353b2f55cb058b558e3db92bac3c09f69",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl2/t6UACgkQeGxj8zDXy5Il1RAAhZS+T+SMuWzBJcKI6gjsNXd8jOQh83hq5iAIHICLKKs5PVUZ9qX+Q1xs1oO/4VlMO+2IoZkD7wUhatJARkqyLXv0TDRCgdKka0wxrK8YT8lGCGeYMSFL3jzZrInIc3SquNhz7za6ooVSL/y08+1hw6tU1uo0cx32/pmjac1VK+ASukglC+bKPpHGu+U+nUajViOrwycu+AU6rsbYpbbSedFNlK0d+HWO4Y9t50hTLKNs6bRSoyfcMu7IISo88Z38155LIlrvnflBNM1li77IBZKv6AM8TSFfFUID01tQBy5Lb/r6A8rk/Lj6oa8jjcAaG9vXO2NzqjTvUO7KUpa+BKdY92GhtX0BAORgeCEdY7vQj+1+SoBZdjohYEqB8JjrU4WwgHxdsx3cnU0Is5NcLYKLslzhA9+LkhMcv8hqEWWA/5Y9PuyluFz5u8BQrreLWmHrETLpR/Q7YP/b6DRJem8qHUo5QoJFrqkStaZ5mdY3m+oih/OJ3vTR6hZsWUBVPSqHqGs+6RwmdeIp4+wYmA+Xs7wdvF53Bn10Aelo9kR6cFb9qIWfCWak01Y2qeZPc1vSJk4TxxCpwxE2CqbAb/or96283kyJ3fSVbMVWgYbPI+YKCS3/TTNYerc8csuFXFcYppB3qwEGaVy0ppcOm+y4V6FTcyJIo9GGJ8UAmiY=",
+  "URL": "https://github.com/espressif/esptool",
+  "LICENSE": "GPL2",
+  "ARCH": "any",
+  "BUILDDATE": "1572845289",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "python-pyserial",
+    "python-ecdsa",
+    "python-pyaes"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "FILENAME": "python-lazy-1.4-3-any.pkg.tar.xz",
+  "NAME": "python-lazy",
+  "BASE": "python-lazy",
+  "VERSION": "1.4-3",
+  "DESC": "Lazy attributes for Python objects",
+  "CSIZE": "12408",
+  "ISIZE": "72571",
+  "MD5SUM": "3799fdd4d55027bce0cd6260ea7e38f6",
+  "SHA256SUM": "8c9652f1d26394fbd4bf1459df583cdc06c960937edf8114fa053555a130e364",
+  "PGPSIG": "iQEzBAABCAAdFiEEhs/8qRjPOvRxR1iAUeixSKmZnDQFAl27E5wACgkQUeixSKmZnDR4fwf+KVHIxRxpGszQjm10EbXF3T3jYdNdhVzrUNQltgyvUfnPHrtshR2HOVjZXr9C9aQQZtuMVafsfx/0mlFrHlPQocarvYWOjxtRMx+V9vTJz9ofJf+Hd7emLLMCFmuJhjiockSsgXD8mbEVREeTTrJ7x2CHT6Zgqpm2qXU/DZJC8hbWMo3VR4DJToBUx1rEYr8WoSbG8zA4oNMYfGPmYRWwdnhQOa/kAvCqreTUo5JqEPMc7t23zq2SjgfnLG9Pljvm987WHmllDGH5NACbdL2cX35sYeSiNuhjulnM+jiOxNtF/LGwWMgd+hngRJbb6W2K3Ri+8JqWvu2f1VZJJY+w2Q==",
+  "URL": "https://github.com/stefanholek/lazy",
+  "LICENSE": "BSD",
+  "ARCH": "any",
+  "BUILDDATE": "1572541312",
+  "PACKAGER": "Evangelos Foutras <evangelos@foutrelis.com>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "python"
+  ]
+}

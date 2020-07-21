@@ -1,0 +1,23 @@
+{
+  "FILENAME": "python-scripttest-1.3.0-4-any.pkg.tar.xz",
+  "NAME": "python-scripttest",
+  "BASE": "python-scripttest",
+  "VERSION": "1.3.0-4",
+  "DESC": "Utilities to help with testing command line scripts",
+  "CSIZE": "15856",
+  "ISIZE": "60266",
+  "MD5SUM": "a042982ef51b0b6a30c930e714083bcd",
+  "SHA256SUM": "2c584c16fd1994176759f49ed9748bfa75476c84aee1e24324fe43f41184ae6c",
+  "PGPSIG": "iQEzBAABCAAdFiEEhs/8qRjPOvRxR1iAUeixSKmZnDQFAl2/60oACgkQUeixSKmZnDSnHQgAi7OzXpv8MsbtzAGxRw5xgC3WoV7/0Mh9EzSI041QK2hqCdQ7lznkEkb7UWbOE/GPFOPHRLS8bpIwQfpiNxTqy0FQfxfYT9K8jBY0lSExy9GrrakYGKxp6P7VYGI5RRezYIZBUPDdR4o5JYiYdodEan40e5+kLsW8U2fb/65ZLWuSvIeuf0AiYlRvhWg5mYj/2He0Egw74PB1yxpM+XsHT/3QGYOiagEgVdi9Dfsnax2YY4V4GmF3kelXxOPK4zju7BmYRTYHD6AnYtUA5pe0SGb4hcj4wpCjtUfLobGr3iNFQQ0qNIycfuChvR45Dmt18iuOixu6y0kAhzqz45ESfg==",
+  "URL": "https://github.com/pypa/scripttest",
+  "LICENSE": "MIT",
+  "ARCH": "any",
+  "BUILDDATE": "1572858657",
+  "PACKAGER": "Evangelos Foutras <evangelos@foutrelis.com>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "python"
+  ]
+}

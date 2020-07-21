@@ -1,0 +1,25 @@
+{
+  "FILENAME": "babel-cli-7.10.3-1-any.pkg.tar.zst",
+  "NAME": "babel-cli",
+  "BASE": "babel-cli",
+  "VERSION": "7.10.3-1",
+  "DESC": "A compiler for writing next generation JavaScript",
+  "CSIZE": "752872",
+  "ISIZE": "4428506",
+  "MD5SUM": "e10bd3cc7051d49b1e9f44aa540c1495",
+  "SHA256SUM": "1137e3d77449370b8cbce58a3b96fc1247cd3604e8b8ba6a8e86e2fa90d65285",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl75whwACgkQeGxj8zDXy5KRBxAAh2dmeAwmXuZXG7QL29kV1oh3QIVyOquwDmXRuu1zRRecJ4YZ4uZuQYzNK3O8XlFhVOh5y6ZEI/v0YxtgpUgXzDrkM2X6gAe9dsaTHa2wimPKSQNyOnfNAonzk/cUrv41cDI7Xo26oYObn2+MQyc9iyfOoKJi/GtTrTplFq5EvR9a6UGfADLqW9tHEjXr1m/qeVkG84br/ZRROxRbDdZKVcWchl95DeqH8XjOJ6Gf6rmEp8kXAI6EuGEXhfK5LaXlPc9MLPzYIeUoPHyf61nExNKUBa1NCtmcDOC9orU0o3LAnKtHtoy3CUA+t79/4aqu/o+Hz8IG4vubC2ojOs1WyH1QW1oXo3IXWMTbFW3MShqojDu6yaXziYVAYuHKzdw8Mc/XfJzFu12U0EVYcNk5BTDkIuXl5mR5ExNV1/WopbcfOGBq06G3X0Axv+nXS3G/YDqm8H0wkwgD4Z8wwM0nmmPtnyycQXiWq0hOaLXCJp27r7Cv+0bhfOrvVb0uTJ049UysHOPcCiiQbpRhI4qtyQBX9aNuSldp1O3VfAMdEFr7CgLREfA0Dc7Iv+pUeJ6EGqBKN33qmJpuz80c+uHOex9x/rom+T7UhFFBWvVvyOVRDzh7D8KM0w13+yhY4ewI5E/CZZvVTIyz5n7xEU4AYCDYPB0F1KMAZfKqYRew23Y=",
+  "URL": "https://babeljs.io/",
+  "LICENSE": "MIT",
+  "ARCH": "any",
+  "BUILDDATE": "1593425751",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    "nodejs-babel-cli"
+  ],
+  "DEPENDS": [
+    "nodejs",
+    "babel-core",
+    "semver"
+  ]
+}

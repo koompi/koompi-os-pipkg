@@ -1,0 +1,23 @@
+{
+  "FILENAME": "firefox-developer-edition-i18n-ur-79.0b6-1-any.pkg.tar.zst",
+  "NAME": "firefox-developer-edition-i18n-ur",
+  "BASE": "firefox-developer-edition-i18n",
+  "VERSION": "79.0b6-1",
+  "DESC": "Urdu language pack for Firefox Developer Edition",
+  "CSIZE": "548176",
+  "ISIZE": "610575",
+  "MD5SUM": "0aceca6f5f69ad8e139cea1eb1f49a80",
+  "SHA256SUM": "d73e2e08a96f2f3f6b847204a183db1267332c6fb53dc5bb7ced8490a92a6259",
+  "PGPSIG": "iQEzBAABCAAdFiEEYB8g8dG7v0p4z1tt9rFhCz7NvJ8FAl8IbNMACgkQ9rFhCz7NvJ9GLAgAk5XiTQacgj20sfP4exYytk1pKywSrqZEyhH392i6MPWDk2DorLnfwKxA7paDQDEz1JpWK9As+vpAzfN91TaOPLNXQHL99EG82uoIQxFMDaNL4GR9yp1h9ffFcTWEFNnp8woMhjCd24CIT6D9uDgo7wOY393a/OoHEaihvHJe8hitAvL7Y6+zW0dUyPw8N7dQd6L8twKj3Y0soctNq89HqkkOLaPSomQk7dwJfQcDBdybUvtLDquTizyUwkJQ6HLGCPew/r+t168u7QGBhLnhWwbsb8Q/PVHQw6Dc6BDVBqKMhRadnB5DwZ8fj+CNFmNj380prJTAQnw8YF5rApx6FA==",
+  "URL": "https://www.mozilla.com/",
+  "LICENSE": "MPL",
+  "ARCH": "any",
+  "BUILDDATE": "1594387381",
+  "PACKAGER": "Andrew Crerar <andrew@crerar.io>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "firefox-developer-edition>=79.0b6"
+  ]
+}

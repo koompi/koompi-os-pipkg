@@ -1,0 +1,23 @@
+{
+  "FILENAME": "firefox-developer-edition-i18n-dsb-79.0b6-1-any.pkg.tar.zst",
+  "NAME": "firefox-developer-edition-i18n-dsb",
+  "BASE": "firefox-developer-edition-i18n",
+  "VERSION": "79.0b6-1",
+  "DESC": "Lower Sorbian language pack for Firefox Developer Edition",
+  "CSIZE": "527719",
+  "ISIZE": "590735",
+  "MD5SUM": "b871eb3986f660c5dd565c3ea0bbd388",
+  "SHA256SUM": "f841da4ebcdf7ad16f07ba9a5e8f6988131a5c77faf9a291101d0f876dfeee01",
+  "PGPSIG": "iQEzBAABCAAdFiEEYB8g8dG7v0p4z1tt9rFhCz7NvJ8FAl8IbMoACgkQ9rFhCz7NvJ8UCQgAqGpGMz++dnRat+GN5qtF9fUkECJ5cYOyexFlXZbIgdkWIa217nrfIbWWiOBRLJsQUU3zVETtG7oIEOShHLCeqCJ2gyIHZAM37O2KtWoYeF0eutxcB88oh8zZp5ChgumOnrcJeaO/eFBfu/L70BVGitQKnjM1fZjd7MKxKy0fewIid3FF84xPdTcwTaRKxXpj8exZhLuz5/qXALQpV1Jh9Zear3wNtAMg621UNjJMvdRHRnejZ3MRzjCL5wl+/0CGscgyeepRCgwW1rW3lvmL1cGFQIAVegmjfM9yDNZVhjvJXKEao/2wKGCgIIuHyaLtsze5ziDI9sheVmXYITtVqQ==",
+  "URL": "https://www.mozilla.com/",
+  "LICENSE": "MPL",
+  "ARCH": "any",
+  "BUILDDATE": "1594387381",
+  "PACKAGER": "Andrew Crerar <andrew@crerar.io>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "firefox-developer-edition>=79.0b6"
+  ]
+}

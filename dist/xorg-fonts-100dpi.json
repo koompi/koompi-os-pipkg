@@ -1,0 +1,23 @@
+{
+  "FILENAME": "xorg-fonts-100dpi-1.0.3-7-any.pkg.tar.zst",
+  "NAME": "xorg-fonts-100dpi",
+  "BASE": "xorg-fonts-100dpi",
+  "VERSION": "1.0.3-7",
+  "DESC": "X.org 100dpi fonts",
+  "CSIZE": "12469637",
+  "ISIZE": "12774597",
+  "MD5SUM": "14f6bda50418b58292cd584f141a46a1",
+  "SHA256SUM": "bda96fab28872be630a2a98273e7106e42a2a780fb8aaeda835a153b098bee18",
+  "PGPSIG": "iQEzBAABCAAdFiEErcih/MFeAdRTEEGelGV6sg8qCSsFAl76yDkACgkQlGV6sg8qCSvuYwf+MDZMS91mXUYamSt9zj+2NzspS/UkSgpqGyCDWY4dWMw7iFp/C/0jb+KqeRz1B6dClMArAEVWqSFnOdC3if2q8wDiv248488vJfJ1fAqs4Fusk1oft6NyQ/ykF05dGQ7R76VhUOMvn4oK6kEAdZGxLHlhCx56g1SvYXjsli02+joP3q7Ky1uFlz4ssjieBQ4RJami3YCzmgbvanh61aXMonfsrDrhrj+My+zRDMLxMo+AON2SsfBK/Av/cpKYnsRKg1HDbxctDlW+LcVk8TFOaIQ6t1eEH89P/3n2SuTXCOnmJDycKkkCgIki2OtYNTBFxTCaTgMtvOdJQOtNu6oH6Q==",
+  "URL": "https://xorg.freedesktop.org/",
+  "LICENSE": "custom",
+  "ARCH": "any",
+  "BUILDDATE": "1593493236",
+  "PACKAGER": "Andreas Radke <andyrtr@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "xorg-fonts-alias-100dpi"
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "FILENAME": "kdesu-5.72.0-1-x86_64.pkg.tar.zst",
+  "NAME": "kdesu",
+  "BASE": "kdesu",
+  "VERSION": "5.72.0-1",
+  "DESC": "Integration with su for elevated privileges",
+  "CSIZE": "238078",
+  "ISIZE": "508886",
+  "MD5SUM": "bbb34be83e9dacf7e5bef74b33b0e176",
+  "SHA256SUM": "409134650094de6cc835c08976a08fa2eb1d3798d35a94b73bea1efe1badd621",
+  "PGPSIG": "iQEzBAABCAAdFiEEFRnVq6Zb9vwrc8dWek52CV2KUuQFAl8JYa4ACgkQek52CV2KUuThKAf+O4dBaHXGiCqWEJX74YEVNGovFsgQNuD5NdGcFQFDnEyRgA7ohdPXgaBKUQ3E0gXwZVCd8Jxi1uMCUAtYtJqjFhynDNyQXRk4k5b6PmalGbw5Z7o9mtNfQyuDyrqE/9lKtu0RDdQMecjLpszuh3BkJq0x/2K6zX6GhQVWVrhCg0Ewit3SRPEzBN9f9NZWJX7lNqHSsEt+D3wEYTnIOx40MHBdGbrWvALbeaBGjZkgqhpVng4XkizJQQ78HJ7oowodYFdx2ROX2QdWBK86cZxjV8swBRHYuFZyzdg2HEDfVHJdD+C+WF2aq1TNBfR5DxMWa1a0rfkjMgull3ngsApCRA==",
+  "URL": "https://community.kde.org/Frameworks",
+  "LICENSE": "LGPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1594203335",
+  "PACKAGER": "Antonio Rojas <arojas@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "kservice",
+    "kpty"
+  ]
+}

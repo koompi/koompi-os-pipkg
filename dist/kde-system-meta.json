@@ -1,0 +1,26 @@
+{
+  "FILENAME": "kde-system-meta-20.04-2-any.pkg.tar.zst",
+  "NAME": "kde-system-meta",
+  "BASE": "kde-applications-meta",
+  "VERSION": "20.04-2",
+  "DESC": "Meta package for KDE system applications",
+  "CSIZE": "2089",
+  "ISIZE": "0",
+  "MD5SUM": "d9311161ede986df3ad0841d2eece6f6",
+  "SHA256SUM": "3e1c882977a21e4a99f03f1b66e9abfa6185bd84ad55e6190ac20d2a5767e941",
+  "PGPSIG": "iQEzBAABCAAdFiEEFRnVq6Zb9vwrc8dWek52CV2KUuQFAl6/s30ACgkQek52CV2KUuRNcAgAjZiBOcO7zOzlMWzIIENZEbk0j1/ZhE+1LkdMS2I531XIFMda70bxSPG5j4adUy3FBxHpe++w0wgxNZsFswZmkVDLqFYnyh+12XwONHtVskeNgoHsirCgWPYGT46/XtG37mW4GszaoM7YonBxHLD9RLtLavK5PSK2e+mNBgg3aMCMw1+PgnV2sbTWLfjNG+WfrUr/8jZ28D+A4hiAZ3GNLwnAYcnQpqqRvDs9y3KtRGp5DRmZNrPJK2rq9LR4URjBNX1uJMesslaPDrtyjQD38V0qtyqXiS0de65GdLM4S2IIRKEGsN8OnYua9oSKEq9juSi3f78hxJ0Y8pFQDv2fmg==",
+  "URL": "https://www.archlinux.org/",
+  "LICENSE": "",
+  "ARCH": "any",
+  "BUILDDATE": "1589621406",
+  "PACKAGER": "Antonio Rojas <arojas@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "dolphin",
+    "kcron",
+    "khelpcenter",
+    "ksystemlog"
+  ]
+}

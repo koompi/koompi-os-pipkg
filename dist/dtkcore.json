@@ -1,0 +1,27 @@
+{
+  "FILENAME": "dtkcore-1:5.2.2.1-1-x86_64.pkg.tar.zst",
+  "NAME": "dtkcore",
+  "BASE": "dtkcore",
+  "VERSION": "1:5.2.2.1-1",
+  "DESC": "DTK core modules",
+  "CSIZE": "316371",
+  "ISIZE": "1076308",
+  "MD5SUM": "eb25d2d93d3feea431530f968246d62c",
+  "SHA256SUM": "ea78ee85a45d57ee665915b5af3057aafbb7a8f75f3f09f27fdf65a5dc4f5c7c",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl793fMACgkQeGxj8zDXy5Ku+Q//Vb1hVQvElcOPe8Y2pcaCXOPDcqA4KhTTb6mrPWhLQ5eGAcg7fW/TKX8BnSmwigXRksB46Vd7VQ60KeJWI6KCgDWsFAUfojDk3c1JVZgIuIaMkA3ha5NuU5ELT7fXh2mejoqqkuccMkBgBJ7wXExE/pY6jSlxLF9LN1LMx+FipYQ5mqn0pxd/FuWaSXDcBY2XLc41gL8VEK5IljUMMo0VtOnysj+Exgszhw02sGwrF7aQ7A7QzsFNgyyDEvXQgFC8tVoesLX5Zkh8e4ZUmkNWJNyYezO7/qiaPd5w8NxIAn0bCihQcrWI9ng3jpdr07A3wrLgjUEhPFW+K25uy2or5RLp8J/y0EPnahPY9gNFZmIKHGM8NvS0ikn/0zQdaihHTSObUX4cgMiQyDhD/Al0+KG7bPVYIINugWnUPFkCFLdCDasovKxy5IO0QbVJ5yqhTIMGXdGbGBCK/iYWk6DutuLMaZv7dk/qxwq41anMj0c1tp1/7x6Hcm2r05qrKWV+RbGRLnN1YikQPOSFi6i5vsHnYAMbZjhhlF0vIEo3wWUfgW7mFxeVU2zAt3cbOkC5h63dyoljgYO5YFUqYmBM9AWrtf6htG1PbE4e/kQ+yynFFbcIbWE5QSaMPyyRQYkOkxgbu3DjvwQxgN1opKnw2qbayB6ZKxhYd2kskhyYJjM=",
+  "URL": "https://github.com/linuxdeepin/dtkcore",
+  "LICENSE": "LGPL3",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1593695526",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "dconf",
+    "deepin-desktop-base",
+    "python",
+    "gsettings-qt",
+    "lshw"
+  ]
+}

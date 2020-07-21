@@ -1,0 +1,23 @@
+{
+  "FILENAME": "python-pythondata-cpu-vexriscv-2020.04-1-any.pkg.tar.zst",
+  "NAME": "python-pythondata-cpu-vexriscv",
+  "BASE": "python-pythondata-cpu-vexriscv",
+  "VERSION": "2020.04-1",
+  "DESC": "Python module containing verilog files for vexriscv cpu (for use with LiteX)",
+  "CSIZE": "2449867",
+  "ISIZE": "22211257",
+  "MD5SUM": "e9c11b598bd89db2cb82a2ffb4f20ce7",
+  "SHA256SUM": "e83ceb1a8aa625d31c921447fa8d898ae6cff4026b8ff5b9348ec15ce53d2050",
+  "PGPSIG": "iQIzBAABCAAdFiEE0jW0leqs33gyftiw+JPGdIFqqV0FAl6oS+8ACgkQ+JPGdIFqqV05PQ/9HTEs7qDQLGkQeUWIKWRiW1P66p4dOxVwPJ/SCCr7aOoR1YmxP1Rmg1Wjeke+js6DUecFsgmbmEBeTH3nDkOe2cdJNJqraYm7CVK9nseQFHld6ylB09U/JNaDc9O8CgLQkdulAZ5hdnxl6U31C1dUNsTDTyIHZPhrD11qru+66rZ79SsHFYXaHqd9unWnWXYfk2UeVgg5omWXVKWOF1TTPXTNVQSFKT8VZP0u5NKh3+W/3MBNsRmjG5suv7pVEnNsyE3Cj9pREVKjJ9/QGqGPUPJpy1qBZHEijACZSeAT4L6t3YXUH0S1q+SNQE1q9WWVD4ZNSTbI4w95LSrOoXFajzmUeWhVzIsaRDO8PjK4kq5G2a6Dz61aX7D20V4C1UlSbhPdf490TvwLwgzBuNMYqyx8FaSdIka4trpZ5D0Iv0GER7j6vK5Y76yjaDUWhj4tFvItM6/n44eJvM6VyAinQ5lrwQdStKuwkmY3fhRM2hKMXtw27+NjcDBbJRPSIqCKsuKh5Z5W9JNEh7va/4LeRaIzn39rESIA6DMaSWmanXAhjFGIsWyneF7TDoSMbtfDPHS8ex9Xyc4I5kEHCG1blhmE2eFrj4BLSkWCyBtqLtNFBXqfCqIgISMJYhgBKV9jHTpJzYYq4gnXYZXWxnlkfISL5gNRLtWMrWAA9t7Lb3s=",
+  "URL": "https://github.com/litex-hub/pythondata-cpu-vexriscv",
+  "LICENSE": "MIT",
+  "ARCH": "any",
+  "BUILDDATE": "1588087744",
+  "PACKAGER": "Filipe Laíns <lains@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "python"
+  ]
+}

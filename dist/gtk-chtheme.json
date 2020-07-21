@@ -1,0 +1,23 @@
+{
+  "FILENAME": "gtk-chtheme-0.3.1-10-x86_64.pkg.tar.zst",
+  "NAME": "gtk-chtheme",
+  "BASE": "gtk-chtheme",
+  "VERSION": "0.3.1-10",
+  "DESC": "A little program to change your gtk+ 2.0 theme",
+  "CSIZE": "12568",
+  "ISIZE": "39488",
+  "MD5SUM": "ca03c79d90596cf4acb0f8256af835af",
+  "SHA256SUM": "ab2c4fcab2f24a34e2bf9462453e283c4bf8a616c67e95ac8f772127123e3e62",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl8EuA4ACgkQeGxj8zDXy5JQOg//dNlc7I2h2Q9vriRWw9tcX8UlrNf0hvpHUt7bDzM3Zf1qG374nVAHv0Lc9lejJFQwsHbLh/L8cML9uYBfRqTJNYng0h2+ZEBjJU0MsyXfE2H5C56bnrb6ckXFLs3HAc5Ejcz/wJnNFF2lH502vT24M0GmeMyBdg5GU5jMPMSGa8IdhvUnGODdciFn3HQ4HTBFaslfwSEpVq5BIxG6UDb1Ae/tut33FfCWsXrb6A3ZUfB3g/6ef8mFkFC3ZfIk1DjQrNno1Yl7h6igJSx65nOw9ryo3PhEiTTnVpQoY/F6I+mO8E86GooG8CIXNDv+E77Kmu7R955p4qhaJ2W6rn0JchJQ2oN9bt+NMMgmyru8HKNAPeOcwFRBRx58GzwW3O2h8bQKiE5ZuORXfBKyluusHSrTTgFRwPLhHPofneaGbioZEEvXEKu/8nVbnVpjoqVtreyy1M1LojMoRy4jmLDg8YOBN3GiHmZPNXUxbFPJM529kdzWN1rLIzA8WyAVdbJYU1ujTp7t/IiCN79aStUU8TUzLxakU5Wb/sIsITpYKiTSq1teIJ/dfOHiihrD/3+8rYrN+UgLv6t5cyJYM9jlEMzo3C9a7AFWJz1Y6jOFOqoyFiWU76fcqH4uuVNq+VWpr4SruXqNaJOYpBwOcdMSRpyCuo4xj88hNQjl6h5pkEM=",
+  "URL": "http://plasmasturm.org/programs/gtk-chtheme/",
+  "LICENSE": "GPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1594144761",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "gtk2"
+  ]
+}

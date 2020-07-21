@@ -1,0 +1,23 @@
+{
+  "FILENAME": "python-cachetools-4.1.1-1-any.pkg.tar.zst",
+  "NAME": "python-cachetools",
+  "BASE": "python-cachetools",
+  "VERSION": "4.1.1-1",
+  "DESC": "Extensible memoizing collections and decorators",
+  "CSIZE": "19865",
+  "ISIZE": "79923",
+  "MD5SUM": "3870e880a48183a79a4c6aa5bde546f8",
+  "SHA256SUM": "d59241efacd289b1bc1d58179864b436bd632e1074fbd888d9a5f6c41b77fc60",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl74/DIACgkQeGxj8zDXy5I9Eg/+M6T1JgsRWwRFQbcy+mYMkA/n044UnYFZpVxUKbKVt/EhOmpFx140ifkkiEn7V7rtAg9Qg2/qDwa3JYE/iyEUEiHa2eVYFura2RotE1AaA7z0xYVMKICVw5cCKnyNQagPY6vEv86124b3gYk/wpc53wz4sBfYiIeitnEEfogJrALqU/47MkXk5w/oft/ouVTrfbM8Xnib4457Jqp0IpVEzV4e8WtwhquADL2HBoEMZmZs6FkXrT2XGESviCCf+Nvi8BN5tlXLMNPMUZ1t5TTfakBZZ8w6DpBUisBVwwIPqv0hmJBrOjqFN7Cj+zFMJR2tQb6Fzl4Bd/Wrr7iGdJiU94YxZXj/OGMSgaKJnPCVmP1+7bGpsIaq5+FCHOZDWS2DIlaWNvNkEAZhAbeRO4nT/GZSkBSrzkAzRFSwzJxz/ZV2hCmru+M6wKAc1tmmStMBcQvOXAx83SGLqgD58jaVg7z8ggBX+oPFtX+buJK0WbfHer8ggXgawkJIOZmyfh3QF3sWZb+3uKtGgudSWj8ylQktVsNtpyntnGoUFjx5zRAzUmn4wFis8syzuZQkmCAAqNAr37UkDydOq6/G1Ms5VpbuqaLkO5plwZO39g9oKA01JVYpzi/GqsJTQEwXJcbPlWqQxINuKtkPgBvbCteclwcSpCRKc2nwy2fW2XSp2bM=",
+  "URL": "https://github.com/tkem/cachetools",
+  "LICENSE": "MIT",
+  "ARCH": "any",
+  "BUILDDATE": "1593375772",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "python"
+  ]
+}

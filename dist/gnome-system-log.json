@@ -1,0 +1,24 @@
+{
+  "FILENAME": "gnome-system-log-3.9.90+160+g4b07190-2-x86_64.pkg.tar.zst",
+  "NAME": "gnome-system-log",
+  "BASE": "gnome-system-log",
+  "VERSION": "3.9.90+160+g4b07190-2",
+  "DESC": "View your system logs",
+  "CSIZE": "1065394",
+  "ISIZE": "2113229",
+  "MD5SUM": "ad5eb6ff48b006fcd2d479c563c70be4",
+  "SHA256SUM": "514d750d460e5f89f8cfc099927d507f21746481c0e99c2a0f6f42a284596281",
+  "PGPSIG": "iQFIBAABCAAyFiEEZkWwqMcAXnjbHXhk+Z/+D+rpmb0FAl65JPQUHGFsbGFuQGFyY2hsaW51eC5vcmcACgkQ+Z/+D+rpmb25AQf/Zd8Wa1K0jNnA51YbpJpxwm2ELVX10xmT7z2e6zj9WWRyjBQswlIUxj09/J/RWQ8cvoilSBecGTYCpW/k7k6UDChZD8KOlg7bSmk4U6U7W9ri8+Spa6mlrFca0sgMRGvw0YBv/2T0kOp4nmFYCjyZmIqCS86HFV8XvQsawiuzkuz45c5gZ+fM3SrchEJzNH9NA33AeuudmG3/ydhQm1FkA9OgDSY/PaF5d+xrstGLFjoPKIRbbhrypA026jrNE8mMDiqs9z+yxUS+fIypR+wD3JXIbJD8IOm4Q1g3LdX/d0Ufe7n/mrbx4TVAjKq4rZKmm+U/GfHT70kZZpDybA/jJw==",
+  "URL": "https://git.gnome.org/browse/gnome-system-log",
+  "LICENSE": "GPL2",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1589191730",
+  "PACKAGER": "Allan McRae <allan@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "dconf",
+    "gtk3"
+  ]
+}

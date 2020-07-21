@@ -1,0 +1,24 @@
+{
+  "FILENAME": "lib32-twolame-0.4.0-1-x86_64.pkg.tar.zst",
+  "NAME": "lib32-twolame",
+  "BASE": "lib32-twolame",
+  "VERSION": "0.4.0-1",
+  "DESC": "An optimized MPEG Audio Layer 2 (MP2) encoder (32-bit)",
+  "CSIZE": "50863",
+  "ISIZE": "132601",
+  "MD5SUM": "b56a529013f2368fb31eb036dc912070",
+  "SHA256SUM": "c733c641f65cac9a181cb67faa7fa75e274d5bbd4a14cabe9b042f0349c1cca1",
+  "PGPSIG": "iQEzBAABCAAdFiEEU1+MAzlFDwVKTSgnBglqatHO3awFAl4z2FMACgkQBglqatHO3azzkggAjFHhU1N9PNN1J6SIpCrhxw8rwOFjqvQJxhlr3Y81ZlUh5NXTNAOOraZRvSLC3n8I7kJdWKrcN9kspdxy1kU097UR6wOUViEXPfomyX1T/dUAvGivcOjtv1ffK/xq7kXPgflZccaZ9gCcfbcvxaWGWnZ3EaWfMorcBkCMnxbAIHHQktMzN61dQg/JcK9+5Uyk5iIBME3B0TYJe13SiJNqafgr36yLfHSOmIJEeU4e6tC1m0IlnPqzbQumiOWaCkMjjIt5IK2s3ddPdpehIWahN06teAh1pcayb/1QHUYC98ys9xdrjjiPBlxv7c9TemYXxNIC/F/IKH8zJNvg0NjxYA==",
+  "URL": "http://www.twolame.org/",
+  "LICENSE": "LGPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1580455981",
+  "PACKAGER": "Laurent Carlier <lordheavym@gmail.com>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "lib32-libsndfile",
+    "twolame"
+  ]
+}

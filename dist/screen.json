@@ -1,0 +1,24 @@
+{
+  "FILENAME": "screen-4.8.0-1-x86_64.pkg.tar.zst",
+  "NAME": "screen",
+  "BASE": "screen",
+  "VERSION": "4.8.0-1",
+  "DESC": "Full-screen window manager that multiplexes a physical terminal",
+  "CSIZE": "618176",
+  "ISIZE": "875953",
+  "MD5SUM": "0808a785543e7e79196ca42e10894b83",
+  "SHA256SUM": "21f038a3383dc56bb210223fbd438a68fb80f6020425fb5736e5fd328fbe8923",
+  "PGPSIG": "iHUEABYIAB0WIQQaYNxEJF0G/vkGI9bu7uLu7i7u7gUCXjxpNwAKCRDu7uLu7i7u7tYpAP9troKQZ0f57nQWsnliSp5xGatyJ2+DRERvjkOFTNeVPQEAvyQvaBgc0HcSKz2t/sX/9BK6zYy3OJ8EjS99IePzFAQ=",
+  "URL": "https://www.gnu.org/software/screen/",
+  "LICENSE": "GPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1581016905",
+  "PACKAGER": "Gaetan Bisson <bisson@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "ncurses",
+    "pam"
+  ]
+}

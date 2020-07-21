@@ -1,0 +1,23 @@
+{
+  "FILENAME": "python-cbor-1.0.0-4-x86_64.pkg.tar.xz",
+  "NAME": "python-cbor",
+  "BASE": "python-cbor",
+  "VERSION": "1.0.0-4",
+  "DESC": "CBOR rfc7049 for Python",
+  "CSIZE": "25052",
+  "ISIZE": "88065",
+  "MD5SUM": "a583d634486445df2572f31e911b20d7",
+  "SHA256SUM": "5158ddf330c2afc68d2ec7bcbb3e2de590d93cc9e4529bbcf03d1209cd1bd6e9",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl27JfwACgkQeGxj8zDXy5JRKw//cTtVpCUg4yb5D7TYOLCd6ywrwuXKxvNjHbuVRd2KuzMybubrnosSn2FWrB5PSJClyMzXvK79DF5p7JLGRq6ZRobOh/Jl6um3yl26sX1x6DiyUfw0E+d6PEJBa9tvsD8wD6wcVV81m7ZnOvirfo5MM1yUIOa0KQHgrJDwHqpnTyaidCsm7YtiFhpJSCDxGb2wP1j7Y+TyYo2640RViR80jlDuEKS07vCe2iSuy0xB9z+y+OcB9Q2XQl0k9D33ssPes54SJip5c+UdAKbBrsfk0V/e+Uief1rFs+e34iwMcxHRjMtWCTU6ocTzEXlIoeZFloaK8Ra59bT6cqE6XEMdBrDR2QppAYmA3o1M4E0j4lmu6afIStMn26oghELQKXJ0MqaO52qDtn2571dtjXP0pty6/52OpztnyHJRRmpU5FRED/VKY+4OxMfmWz5Sj2ptK46h09BNHq2i/ses9CnMxpTa7mbA6WKNezVYzj4c8EgRnRYaNtMq3fXy2zl1ZOcukPD/HoKADHi6yT0ovLtoUVpjfvEPcyF/7QzkIN1ZWxgOEF6WwYsi42fjJJkxTeulh02M/wSFdXbLV16assbb/ACxZR6S2LNB3YjeXHElXbdC7Lq8UWPqQthtjr9GMDqBEBGJUIg8lJW4AvTZEwmq5fuRSR4pIr/zyDcsz5VF5OI=",
+  "URL": "https://github.com/brianolson/cbor_py",
+  "LICENSE": "Apache",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1572546001",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "python"
+  ]
+}

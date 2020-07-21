@@ -1,0 +1,30 @@
+{
+  "FILENAME": "gnustep-base-1.27.0-1-x86_64.pkg.tar.zst",
+  "NAME": "gnustep-base",
+  "BASE": "gnustep-base",
+  "VERSION": "1.27.0-1",
+  "DESC": "The GNUstep base package",
+  "CSIZE": "2490111",
+  "ISIZE": "12495883",
+  "MD5SUM": "ab8f98e181a24afe329e22d37e5f93e6",
+  "SHA256SUM": "159331163281a2d85a438eef96914351d3d3cacef2d4c2e03eb30b8f6e47462f",
+  "PGPSIG": "iQEzBAABCAAdFiEEFRnVq6Zb9vwrc8dWek52CV2KUuQFAl6tNisACgkQek52CV2KUuS4OQf+PeYG/ip0As1B61rPyHi52m/pe+4+yS3fPUrTrxFpIpmTpvpkVqwmhdahaqVxb/5TsWJdxVEAqXqL9ALmm/6IITZN/L+/m5+WA0jJntiZQdhLYq9LcrduDiKLPRBPAb4dkycN06p9aLdVEmmP0ldcFh1XT/ffJrwxqMUzfBLloRBU092BnKEjn879oEk4unfApko3Z3vQCoJFgJL+bk05zTkAAyIeqquQ4eaBDPkFGbtxkEUxGrhpeqxOsRD8mUSF7mtUlS4EnJpOgoD/LEQ2bQOJAu+PTFiZScPfMPGhMjUBH3JOXrYe26ZjjcXzI4L5hNADuNC3cMkxKZDQI43PNA==",
+  "URL": "http://www.gnustep.org/",
+  "LICENSE": "GPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1588409612",
+  "PACKAGER": "Antonio Rojas <arojas@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "libxslt",
+    "avahi",
+    "gmp",
+    "gcc-libs",
+    "openssl",
+    "libffi",
+    "gnutls",
+    "icu"
+  ]
+}

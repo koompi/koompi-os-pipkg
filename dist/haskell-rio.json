@@ -1,0 +1,32 @@
+{
+  "FILENAME": "haskell-rio-0.1.17.0-5-x86_64.pkg.tar.zst",
+  "NAME": "haskell-rio",
+  "BASE": "haskell-rio",
+  "VERSION": "0.1.17.0-5",
+  "DESC": "A standard library for Haskell",
+  "CSIZE": "230963",
+  "ISIZE": "1135107",
+  "MD5SUM": "568a5845818178c00d687c17c0a3461e",
+  "SHA256SUM": "92c3c70d62914ae8f4bf215ed158345f99f89571598ab6e5cb8d5a0415af2f1e",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl75MUgACgkQeGxj8zDXy5IDIA/8DI08rSfOGijJH7ezBT4omKqQMnG8UHT77o8hNHsKA+hzOEZS5ltJoGcKSIi7RWt6fajPPAVBlC7Jlb4rPA+4/4vOK7BdfHKd+EKbnaymopblWhSHSbVo6y8f/aTzcpo822LHmLOx2OWa2kMT+S614eqNk9qHzaVUwTrFqm4QySz0glSSydwceNovkplTTDrS8DhaRC5CDvQo54Eil+UEZ+Cn8lQaRL0mydQ1em6RcYnTZ6Crl2yu+Z8bTNzFZysCSGHMr3BrvTXEN97DKC13tK9oXLm3R1TkHWL68DmYYPLOfUzr4pRGKDhHswxiGLKFz40KUMcTfZLXzCk/taeo9dtdLqaxOcjnuPVil8sAsRE8CROUZ4hSoOXff82EgC8JVusoojF94aeOW7rNbdW6v9wcZ+vjBNGPnoe9faKFO/2n+yEC3eqODzEH6weSNebVgI4soJuetmmonddhH3PLlGRznfAzYTYvl9mxatX+qkprh7psSdUJsHeLzx4lXm4FNsd63DgkXz6F2qE4nvvKxHtE17YMCCEbexRmuhDnHOpgWweGBgbtoffXot5tMC+g1heLO9+Azn9BALaybTsQroR3s4+PdHm2wq3hEd/BmeXGCewoBqjEsDS4joi7aVrnG2kZn9DKj44AoY31aYS//xpZh+MHAfKWPuX4dwlR+dc=",
+  "URL": "https://github.com/commercialhaskell/rio",
+  "LICENSE": "MIT",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1593389347",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "ghc-libs",
+    "haskell-hashable",
+    "haskell-microlens",
+    "haskell-microlens-mtl",
+    "haskell-primitive",
+    "haskell-typed-process",
+    "haskell-unliftio",
+    "haskell-unliftio-core",
+    "haskell-unordered-containers",
+    "haskell-vector"
+  ]
+}

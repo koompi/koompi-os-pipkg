@@ -1,0 +1,23 @@
+{
+  "FILENAME": "mpfr-4.0.2-2-x86_64.pkg.tar.xz",
+  "NAME": "mpfr",
+  "BASE": "mpfr",
+  "VERSION": "4.0.2-2",
+  "DESC": "Multiple-precision floating-point library",
+  "CSIZE": "321504",
+  "ISIZE": "780446",
+  "MD5SUM": "f5c5401a82d93293b971fbff909536ea",
+  "SHA256SUM": "d3b1bee4e31ebc13371cdc8ab11941a484452c596e20fd67d297b154ca5e0ee2",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl3MLikACgkQeGxj8zDXy5LenRAAkNM7I78DzGY4aWd8FAOC8p6W2jhO2T2J4L+FKq7CPjUXwrD7XKiXrfoWTzPFPSaWBbz1aVKJ+Z8d6d1I6xuKQORAdBYpE/+LpalI+zUpsU6MipBH/dcIgDxFyeqQTdze21jqL21V64nAAJoIYh9fGdMezFa04JVguJdCYcGgL8MdDuz6dXq6yGnn66nXUsOjPNUw80GHhHhIsgUA2Jwuh00u+vqaPI1fQrwEJVFvQ3SqR47vgX2R24Opq8fh36WYPdtQMvPQuoLlkuSGCcmCC8KMwcUJA2nwPi+ZWFb7qscq74QFDW4BfVlkTy+QuSBTeOHfubpCMR6H44pg128zzj1pk2WY3ViMW6vCQkg5HbFQ+rYEBypM22+V5hNiGyAPwN+2/24FD3LyEoA07t2E4eK9rUdT5I43KoiM04PH2TwFuVLrMbxqDBMW7N1729qOxWhC90olLMMxcrgRPmeRehJiuuCS0NexDQe6DH1pxUZbechvykg6aV+hj2pPTOyfhsmDx32hYtRmKdD5d0MNWIMEcCc0wZIQsEKo1rCTPHmIjV7RXnWB6IET+oasuZ5RIMCTEZXwLHZjsE3kBie/N6SCMxybnW5RgJXYGhnBWxdQ3/AS8kvxJTODt1EQAxbqcQHqYPeAfyPysjG+0+P4/DBifLsS9Bfy8qUCescNrrY=",
+  "URL": "https://www.mpfr.org/",
+  "LICENSE": "LGPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1573662177",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "gmp>=5.0"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "FILENAME": "gnome-menus-3.36.0-1-x86_64.pkg.tar.zst",
+  "NAME": "gnome-menus",
+  "BASE": "gnome-menus",
+  "VERSION": "3.36.0-1",
+  "DESC": "GNOME menu specifications",
+  "CSIZE": "156605",
+  "ISIZE": "659329",
+  "MD5SUM": "2b7b0b3c41abaec2aff8030fc1be8a69",
+  "SHA256SUM": "1a99e470b27508cfb0b1909a433fce4d4bd836290e076edf6529feb91c9bfc09",
+  "PGPSIG": "iQEzBAABCAAdFiEEghj4iEmqxSLpTPRwpekojE+kFfoFAl5os6MACgkQpekojE+kFfpuzQf/cCzjq6uLJr3/jxikB+78d5M4MTL0LO9zGPDiU2ZwDQ5HWJtYsYy2sMgLIs/GPA6ipdGbpze5ZLU0ByXWvf1hVLbDla0Y980VuorHgxMQIeVteTAMPt9lmXSL6d+qY0fPWkP0We2yuYHF+tJtoqSQfMlW9J4waaUPgm8zFs9Vob7UU07I2DUxjW+Fek0fUUPdFRlo0WrKO+O3sU/OaX4J5ApnwMg3+yE8nPRJk5B4IP3vqdvNehJrVeks2c7qPy+RVY4nmqUVs0GRRBKQKfl7dTPKMkM4GDh3dI0F797PUG6el9pTFHFFnzumB2jTRDBIl71Mv5+WX0IssNjdqsNZyg==",
+  "URL": "https://gitlab.gnome.org/GNOME/gnome-menus",
+  "LICENSE": "GPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1583919148",
+  "PACKAGER": "Jan Alexander Steffens (heftig) <jan.steffens@gmail.com>",
+  "PROVIDES": [
+    "libgnome-menu-3.so=0-64"
+  ],
+  "DEPENDS": [
+    "glib2"
+  ]
+}

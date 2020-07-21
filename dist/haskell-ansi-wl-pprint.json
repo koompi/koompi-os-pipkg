@@ -1,0 +1,24 @@
+{
+  "FILENAME": "haskell-ansi-wl-pprint-0.6.9-43-x86_64.pkg.tar.zst",
+  "NAME": "haskell-ansi-wl-pprint",
+  "BASE": "haskell-ansi-wl-pprint",
+  "VERSION": "0.6.9-43",
+  "DESC": "The Wadler/Leijen Pretty Printer for colored ANSI terminal output",
+  "CSIZE": "53846",
+  "ISIZE": "245441",
+  "MD5SUM": "ae7664302ef869178a4fa4483b535446",
+  "SHA256SUM": "039c7f88ffd3ee4deff4d795557e9533a5203f71251b587a5132b8bf7e181719",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl74/hoACgkQeGxj8zDXy5Jb8Q//ZKJMKMXBRSyeI/dWTpBjsAQjLZmFDO5DAi3xaeULslLj96u6IX/CBQcGN0ebR032/OpzarxdOHZhWNLzZ+FjKsBYQMtY4OtrG0mspF205EP6iacgdNTbsOQ6sNmh8WLhPNNxVy6mvQFn26Uv2s/qZTgaO424ByIJw0Zg/Z+QJN47MSsJVT/JyYo2A0MbNLheXhe2920lJcaBDZVgv6LdzkopApxcxW3MYmsG/zOzPhzpxH11rU2FhcE2zGzy2OR2G2CKXApj5qzAmyCwaS4ff/QlLjoAlwl6Q4ma4a+yOftJxG+mfQEXkCAclm1x21iTLOzpBX7/dIajfqCfGtPaFCU9QpD2F0swByKeVjnSDU4m7HQr5MDKSvJvTu14wnCoNYaZclTZ5MbnMbxUbQRuQvceqbB4SJV10DyiOVV0nU1Uok8p+OqBCNpNmYsK00nscV++CSUBGMggSC+U081Ypo4cGLyOZ/fdHOztUXrxmo+md0cAgmMByjwLfpeMkIldMcQMlV4/dKXenUGsJ4tzx68EJ+4uzzAKBdEzxmCkuMDYQqbZvAQkGwAL47yxMXChTpohsmkr6+6fZQQJeSvjQ0WaFGOKCSZdJ48+CgQYO7CX1Q9FJzHzEcSK03FGN+dxbo2z4FtopVvMh+JcR41xY/XDxPQPLQaF6CI7Uf7SxM4=",
+  "URL": "https://github.com/ekmett/ansi-wl-pprint",
+  "LICENSE": "BSD",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1593376260",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "ghc-libs",
+    "haskell-ansi-terminal"
+  ]
+}

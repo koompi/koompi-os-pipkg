@@ -1,0 +1,23 @@
+{
+  "FILENAME": "ffnvcodec-headers8.1-8.1.24.11-1-any.pkg.tar.zst",
+  "NAME": "ffnvcodec-headers8.1",
+  "BASE": "ffnvcodec-headers8.1",
+  "VERSION": "8.1.24.11-1",
+  "DESC": "FFmpeg version of headers required to interface with Nvidias codec APIs",
+  "CSIZE": "51210",
+  "ISIZE": "299712",
+  "MD5SUM": "b4b04726619c3e69f76a9df1e642f946",
+  "SHA256SUM": "01ce3d1b0f384b56a1326c48c4ab60ae4f38fbcb77b109860987347a9ebbab4d",
+  "PGPSIG": "iQEzBAABCAAdFiEElDfdOBWnqRaePTlGr/XZUJi8b/UFAl6UYJMACgkQr/XZUJi8b/Vc3Qf9G9yvP+5+nOt6XjI6K0Fvf3LnNXdnLFvkdEbXHQoCVBPxWtDT6eg0bF1BhLpdPZeQx8tyDs5YdVMgnTbqROJmdIEWAnLQxdRl2fj4XY4zH9Tuo0qZSS/rwjM9EV1LAn3mRmzu4/zCL8lAfleYrVVb0O+JC0SCgk7ZT7v3Fd4RFnEdwQdRjxX8txwugPU6G49xsZ3d63yIzlUDonLhRITPW2VdDDe33BeX1+lfbc2oqKaPe/7gBsORlHUjouu/0+QBBv4dEyigaZ/Cr1QLUW1PY8u/5inSlTBVLZnw3l+sv7JuDxNptJGV/b8TGhm6cLIvhO3ddYBcGyKKaVgCYOxLUw==",
+  "URL": "https://git.videolan.org/?p=ffmpeg/nv-codec-headers.git",
+  "LICENSE": "MIT",
+  "ARCH": "any",
+  "BUILDDATE": "1586782227",
+  "PACKAGER": "Maxime Gauduin <alucryd@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    ""
+  ]
+}

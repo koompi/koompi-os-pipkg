@@ -1,0 +1,25 @@
+{
+  "FILENAME": "libkdepim-20.04.3-1-x86_64.pkg.tar.zst",
+  "NAME": "libkdepim",
+  "BASE": "libkdepim",
+  "VERSION": "20.04.3-1",
+  "DESC": "Libraries for KDE PIM applications",
+  "CSIZE": "397657",
+  "ISIZE": "1613813",
+  "MD5SUM": "d0203b70d1fe509c3be3d2e94bbefdda",
+  "SHA256SUM": "c3b8bbf8716f6c29c849cd090ad96a27e3b5db39e4a3374b8997ce0eb9612ab6",
+  "PGPSIG": "iQEzBAABCAAdFiEEFRnVq6Zb9vwrc8dWek52CV2KUuQFAl8HA0QACgkQek52CV2KUuTV3gf/Wp9NS5O+S5bbkXobqjN3kUPUIl3CBBAT4OEmVXlVN0R/tef1Ez8jpNrrqszZi1FjHNc+eeinoU2o6NG0joV+wNUyH5CvbeDNEhOi0P1+sCvpQ17uoo84cOLHZNVvUh9qCHNfLoN0L1/TjdwE7AufzjfquD9ICRE8RR6ogfMrx81c9RH+0v1e8rsbppmPvd1Aj06QMHe/LiEeAzAFuW0kbrrf+gOU47Nn0V/XuZuK6HaBVfB6fA3mQlfN5Xpfcn/+6SFs1r0nctirPmA1UfkEvEz9YrKWQPJMTJ/gwj6NXqUdzXx7Jjxutix3CYcqVPUrIpEC5QCD05diARh2ypHsmw==",
+  "URL": "https://kontact.kde.org",
+  "LICENSE": "LGPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1594105087",
+  "PACKAGER": "Antonio Rojas <arojas@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "akonadi-contacts",
+    "akonadi-search",
+    "kldap"
+  ]
+}

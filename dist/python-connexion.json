@@ -1,0 +1,31 @@
+{
+  "FILENAME": "python-connexion-2.7.0-1-any.pkg.tar.zst",
+  "NAME": "python-connexion",
+  "BASE": "python-connexion",
+  "VERSION": "2.7.0-1",
+  "DESC": "Swagger/OpenAPI First framework for Python on top of Flask with automatic endpoint validation & OAuth2 support",
+  "CSIZE": "121381",
+  "ISIZE": "669786",
+  "MD5SUM": "19b6dced6bf009ae9d314cf4a89729dc",
+  "SHA256SUM": "cb902de620988d3601c045bed07e7a5c5718b7e8c70f1b85972aabaa38941058",
+  "PGPSIG": "iQIzBAABCAAdFiEE0jW0leqs33gyftiw+JPGdIFqqV0FAl6kZg8ACgkQ+JPGdIFqqV0OVQ/9HHV/x/zyfnNXcEPSpR3mwiYfsmMUTZ1xdgxbbr0YBdTMMbwEKKqDYloOCrCcT2icyIAOP+Iq1cqLiBZRG2/8e7SFtaXUZtkH+kSSPLR9PM6cbU6zjryRMecEjEk3VlwWVRoNBd6w/krx6SvJFMiUu4xUQGB/10a886q/zPogfz/dhKsL7aspU4rfr5h2aotRVjKo+Nrc46nt6koCTwr2778h35mb1EFw43j+KNr+htDo/GChC9SBS8x/Nco/0byA9CsBnrtVvn45552YL2DBdDn+8ipFOK/PyVYT9oiOvT2uj5m/5ZwQgMUSKG5m919XQu2y9WQYvlB83aXtLmFlfVElGkDFmQCJXgYkQZKDccKGoqiOn9rUY8DOy+MOAk96x45cCCuerv4EuKTNxbU9qYCR0aBge0uMCa/yjRDPCPOwOv468BLgm+6qKc9EMbuM7pciDCAwriWtygd8BAGWkxfxVUE6lFwlcId0o9xTQ66JcNaBH5Isw+LLBmp+YhjRigR4oCcZIiSh0f20ET6pPaIUlPMqnNfHNy0GX7B9C+gI4zjLQElWARAuP7cNuGqbRcgbs+Xwy8sC9EO7JZg6tySw163uOt9/9iQk+AIV3PB2wlexuLIFF28KHcHxFxM9jTh74u6lxgInaOpSPPZe5tGfMOVJGZ4RTFD8KmyxiYw=",
+  "URL": "https://github.com/zalando/connexion",
+  "LICENSE": "Apache",
+  "ARCH": "any",
+  "BUILDDATE": "1587832227",
+  "PACKAGER": "Filipe Laíns <lains@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "python-clickclick",
+    "python-jsonschema",
+    "python-pyaml",
+    "python-requests",
+    "python-six",
+    "python-inflection",
+    "python-pathlib2",
+    "python-openapi-spec-validator",
+    "python-flask"
+  ]
+}

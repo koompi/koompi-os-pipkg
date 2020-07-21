@@ -1,0 +1,32 @@
+{
+  "FILENAME": "clamav-0.102.3-1-x86_64.pkg.tar.zst",
+  "NAME": "clamav",
+  "BASE": "clamav",
+  "VERSION": "0.102.3-1",
+  "DESC": "Anti-virus toolkit for Unix",
+  "CSIZE": "1288760",
+  "ISIZE": "4792720",
+  "MD5SUM": "1ce778461114653dcc3233031da4078e",
+  "SHA256SUM": "9de604664a8b698c31830a206ea35231efec5129ec0da2a041c1be7f5d7c6f88",
+  "PGPSIG": "iQIzBAABCgAdFiEE4kC1fixGMLp2ji8m/BtUfI2BcsgFAl67I04ACgkQ/BtUfI2BcsjmQhAAk+Y5fYmj2O3cl4K5EwZhiaE8WEZZMm8UBJMI2lrTa9nc62lNm0D9VU5VibvdfqY0FMJHNcS+GCoHYJYvFBwgBKDg2K6Cau0zaQ4KJzj1ItgmWSx6Jkv/EAJYU7IA93SP7AhCXhW/f7+X+0dhDs17i9N+2NmnHlyzd0jj8jlR+QD+ke2MS9p4qQeDGbtDKUVNegd8QZDThmOFlynAi0CZyIiTSDpL0o9b8SfVNvhsVU4M1CFcBfg2mothpHkcmno7gR69CPYUbU0B/qM0s435InqkPIEny+G4bCF8m6cH297T/kGRFV8NInRsXKWTRJWf7BEeILBTVx18liDD0rpprTndNeJOhaZN+2T3bVncS7Yfw1K6MnRJyXEGAThQQ6BCH/QY7kRWCgxgGrqVf8K28Za1w+bCuzk9pdrtYmwgtMKCPWci5QXTmzH/WEyJD8HJP2m7TGxFw3ldq1qRyjlZXO7IwnjFe/uMlaF4g49o0iM/M9l/E/4fELuWNGc8p2Zj8mSgEnSlfs1aEJfpd3l80xoN65tYDaDiOLAVa10q65idR9xaFAjZWg4+QBrLQCA2AdITFIu49Uemcj5ZfXX5wNUN3p/yaTZgRpqQWpTqULh+gQXUm/mXZkA9VgWzoIuatmzhs/i6Sz2TSgLIz3Kpwn+VooNc25yb+JU0kR7vtBA=",
+  "URL": "https://www.clamav.net/",
+  "LICENSE": "GPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1589322309",
+  "PACKAGER": "Levente Polyak <anthraxx@archlinux.org>",
+  "PROVIDES": [
+    "libclamav.so=9-64",
+    "libclamunrar.so=9-64",
+    "libclamunrar_iface.so=9-64"
+  ],
+  "DEPENDS": [
+    "bzip2",
+    "libltdl",
+    "libxml2",
+    "curl",
+    "systemd-libs",
+    "pcre2",
+    "json-c",
+    "libmspack"
+  ]
+}

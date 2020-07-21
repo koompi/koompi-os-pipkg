@@ -1,0 +1,25 @@
+{
+  "FILENAME": "lib32-speex-1.2.0-2-x86_64.pkg.tar.xz",
+  "NAME": "lib32-speex",
+  "BASE": "lib32-speex",
+  "VERSION": "1.2.0-2",
+  "DESC": "A free codec for free speech (32-bit)",
+  "CSIZE": "49292",
+  "ISIZE": "104448",
+  "MD5SUM": "e2c6b5fc3613f2e1224b61cad14d927d",
+  "SHA256SUM": "5f257290df1de0377149406ccac7dd733ed3959d914b27519cac56e2c9480b7e",
+  "PGPSIG": "iQEzBAABCAAdFiEEhs/8qRjPOvRxR1iAUeixSKmZnDQFAlvmIy0ACgkQUeixSKmZnDRxTwgAoovmKa+0us1GXjsvvoUh/uPtCRP1GWQirpBToKk6kxLyA46LOklBnmmH2uOj6MCSHjZlnEgysjFkLzTWQ/zYGzp16JFyXZLsjh3jQbeaUeiknGS1sPf01gaPTPf66KeIPloWXIc86z7q27YkVHMyivQwyBVlIn95vGTLQcH+yI3pnyCa9aRoZfZT9eckxfX6IHoND6BaSYJiPP8tgplnTTzT/Th7SkpiX4p+rF2dRbsUBTjOkzZ72JpyetxGNuRgNhRD5BkQIRpomp3KmbtkS6N2U8baPk8SALrc+QhhESaFMJiXrgr9y6c/ya4SNHHOCrIx+8UBejYpIO5Iqok7RA==",
+  "URL": "https://speex.org/",
+  "LICENSE": "BSD",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1541808913",
+  "PACKAGER": "Evangelos Foutras <evangelos@foutrelis.com>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "lib32-libogg",
+    "lib32-speexdsp",
+    "speex"
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "FILENAME": "libgcrypt15-1.5.6-4-x86_64.pkg.tar.zst",
+  "NAME": "libgcrypt15",
+  "BASE": "libgcrypt15",
+  "VERSION": "1.5.6-4",
+  "DESC": "General purpose cryptographic library based on the code from GnuPG",
+  "CSIZE": "245677",
+  "ISIZE": "536032",
+  "MD5SUM": "ab770611995978758f3d710d80b00fec",
+  "SHA256SUM": "37bfa526787b1bba7e848ad94ae2b2808e5196040b7ae9e45881e9df0b7d6275",
+  "PGPSIG": "iQIzBAABCgAdFiEE0ZGnjxiB84R1PJZ+aGsGOsS8DskFAl8KOAMACgkQaGsGOsS8Dsl6RBAAroWReJU1DJ12B1qRPeFB4w8/hM6qc3jYLeCMdLAytAwNdYA5FG59CQ9GnS0dHz4Uy1fjVCWXwwsfSb3yGNmlJ++DoToMOWiPK2awKvLU5AapfZXBKoa4qxQB2YYCO+IR0djtlkEHVel2u/ox4rz8C/ZvgPIuvWTonZCM1efEAAJzah/oj4nYqAFKDxHF10mk9/2s9NR1vOHA86wEjUmr0rAqsbfEUMUOS9MsloDtP3b5vdKYODePSxpWmSVhzajUeEtUiF6QAxO969j1TNS1eANZRaTLUIHOob5730wuy9LogjSEh1TVqs5Zd7VWcaYO4Xw3XbeqwUR6QN++P3IBkP0d38Gx82KhyLChhsCWT0Jr48wvXONDj+gtnf+d8mehaCDMwzMgy7Mgv5B/vVc6vifmXjq/BqZIx894cdtKdikFcHGY3AYvtLwqDSZhYjN300JHXUSuhOH9JcbCXL9srEb3OJUxeYoagAPSTi6uv3WhXvQatqy8Ttocg6Tmq8bPfTa7kuccDDyI0AVU78vkBi/B34grhJDN75l4dCTapK21pwJe4/2vvjbjEksD0yKEGgo/KNDyl2Ygjj4ec6Xa7B2K5djJYOFVyhX+eEvTiWspbXgftToPtXzZRbLJJ4kwjuAdG8+Y0D9MwHlw28pHeFQpe+eu0KeBhxMYCZLli6Q=",
+  "URL": "http://www.gnupg.org",
+  "LICENSE": "LGPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1594505176",
+  "PACKAGER": "Jonas Witschel <diabonas@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "glibc",
+    "libgpg-error"
+  ]
+}

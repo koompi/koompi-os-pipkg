@@ -1,0 +1,31 @@
+{
+  "FILENAME": "nemo-4.6.4-1-x86_64.pkg.tar.zst",
+  "NAME": "nemo",
+  "BASE": "nemo",
+  "VERSION": "4.6.4-1",
+  "DESC": "Cinnamon file manager (Nautilus fork)",
+  "CSIZE": "1191540",
+  "ISIZE": "5595877",
+  "MD5SUM": "9c99791389424d497aa5edd4ab872478",
+  "SHA256SUM": "b7af159507b752e0404400786ff5f07896f67ad40f370db98ac6fdd4c0b26bba",
+  "PGPSIG": "iQJMBAABCgA2FiEEYEETBMCdNmKDQO7/zrFn77VyK9YFAl7xixgYHGVzY2h3YXJ0ekBhcmNobGludXgub3JnAAoJEM6xZ++1civWv2cP/jB4a0qy11T6MGyQV6oaDsDs5v6yr3IqgFuskziyGqdqEnbVEtEjG7Ep6tknaUBEwzM8p1kbG/DxPge2RXgAVQBUScjtEF317oDmsDhIeqJmjA5SB5HcP8RaElLunCvoxFDw8mhPfRA2t5ua4fpGq9/dq9lctBcFOLjSdOdzcjSZFfli36CM+4PI4H7JC8kTry7W/LDHpOx2I2XKLQ2LIn3qNmoDf/g2czjHC3Ex0IpPs3DZyrveI9pjh+mP6ElHcZ9hVviE5gIUPsBvsLqGPGMC/9w2OhG8qcJiwIVLQAl+HzP0FtQsoQR4L4zTWDkpp5R7wGitgSd/T7CbbYZLVrOqdb+48LmrWPXy1I0kHW4S7QARFOdSTHFJ/0cVfmv8QdDU1njlKegUKqSffXRhny0rEBUKPJwrgsmBO9IgFpQImEQr6MhTR6FTqKBLM0tgKifdhtn5L81qfH/WHto47iHnRshP0WckIRgyoFDakIgpbVwBYczyqpcgnbyuukU4QaG2vzrbqqP24DZ76uH/+kn88Q94k6AeR3P6b966lDOcEZyrHJ7epvdi2e2eTCQpJPnodSDFUPvTMvjFQWGRVfzb8uGRmCStVQ0xpBe345J5OIgepKEC2iVMgexXEQkMEkGzvPTgNRZgqGyzEaXLQuIPEwXBu9sSS0MNE6N/IiuK",
+  "URL": "https://github.com/linuxmint/nemo",
+  "LICENSE": "GPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1592886015",
+  "PACKAGER": "Eli Schwartz <eschwartz@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "cinnamon-desktop",
+    "dconf",
+    "gvfs",
+    "exempi",
+    "libexif",
+    "libnotify",
+    "libxml2",
+    "python",
+    "xapps"
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "FILENAME": "autopep8-1:1.5.3-1-any.pkg.tar.zst",
+  "NAME": "autopep8",
+  "BASE": "autopep8",
+  "VERSION": "1:1.5.3-1",
+  "DESC": "A tool that automatically formats Python code to conform to the PEP 8 style guide",
+  "CSIZE": "82406",
+  "ISIZE": "369966",
+  "MD5SUM": "144c7e6d19e8b54cfcf57d84742722dc",
+  "SHA256SUM": "03d36dddabee87a8aa7b127ebb36aafd358ef4c52d20dc98b181bd8acb8ca323",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl7UBJ8ACgkQeGxj8zDXy5KZdg//Tb2p8QAPni7FK9Y1TjnVqbY2kg7md8gdVoxeA2LORSOnXzA86si8GAGs2EUpkR/0bHAYUOFtV2hMCJoVjizConaPdJKWFL1SkORPJiqTxfCTSDP5bIq/DhZIx0JI7o7LmiAyxspD6FZVX5mdmn476OQmFz6nK0VH3isn67+weHzmIqaa9csxcGEIjmzJvsjrTN+SajQCHW0v2hs3wX2lSMKAlmpjh/pP4y0LjuJmZaIDHsgs0bHi+TNVO2y/rNiXszZ6A98Er4T2UlU2Nx3h6DxqcE37q5uu6P8FYGfQyvQeAXzREX/ZIQGyARL8jaAfzc1Gl+EWsiDOxGSiskixsC7yWavoS4MW2hIE6xbrvBhZ7LcbI722PLPmP7E4mAAN9A5PRz+2BgXZkqxsEmPCipJkYtvk1+sunPZAzL2SKa27RkDnjBTjrHrKOgm06wqc3Kz10GcY0wrImF49aT1FqKG4Gx6KjCuXvqGodgSHuky0O7DBAPib24fITbwZVFOBfgv7wrXw6BJFxADpBX7PJ4dO9qAKT3mv06BnqGa6PpTLdJcWioVTbTHOc5nkYz96rLdAlZLNFwoMG892MIkg5btxFaQaKsNbrn8bOkKXfUV89NmOp5Bniote1NOve822NSvIIx+r6iWbPxukWjfWV8M2UM6xqcN+GDYkbiESX04=",
+  "URL": "https://github.com/hhatto/autopep8",
+  "LICENSE": "MIT",
+  "ARCH": "any",
+  "BUILDDATE": "1590953062",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "python-pycodestyle",
+    "python-toml"
+  ]
+}

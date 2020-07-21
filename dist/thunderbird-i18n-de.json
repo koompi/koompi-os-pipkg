@@ -1,0 +1,23 @@
+{
+  "FILENAME": "thunderbird-i18n-de-68.10.0-1-any.pkg.tar.zst",
+  "NAME": "thunderbird-i18n-de",
+  "BASE": "thunderbird-i18n",
+  "VERSION": "68.10.0-1",
+  "DESC": "German language pack for Thunderbird",
+  "CSIZE": "535270",
+  "ISIZE": "597804",
+  "MD5SUM": "f665f7080bd0e4cc5d25c17f8be4b6cc",
+  "SHA256SUM": "4cdf7235f6a578196ab481af11597930c5924591045ae98c732ee47909d66927",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl78eFsACgkQeGxj8zDXy5KBaQ//RopldKnqQGXy/WHHYCnBPMTAmI3NE0UQ5Bgm72xIuBR3I7sdFgT0ghJsxI6B0p3jWl/E99WpTpX8w8OV1ZYAlrTt3VQT48PCTkekHnMZPQsqga8ADyM9qktwAxJZdq/bptfaLMrWFSSnMP0tZlItqMScrTUoBEJD64GXsh1zWJr0nzYDcmfT3R8t9yNGlQPOlLuX+gvb6CpHTzUVXfJpl6z6MfOJcjxvxXylK16x5rbAnSA0xX/cRj9gmLcdWwQDl6YX+vzi4CVq/iAc6KPtTDFiw6WOEIMZBpdTD3Sh0tGWnHiheYMNk+O26PiiQq1u8nlVxTp2oJ/hfMFHoRSgjPzl+nrRmqaAVU5UbUi8rucT9SkbgiMZq/+lXG6fWblb1D7Q21bntZ/QTji0jZ1sMVrr+1Rq2wCrGl6uuC1LmVEQ0ZFTblHREfNFjrJyQkPIDFb6Y+djOMYjEKVdtszqYn0XRFt/11pTdaKBJqG7jHjyjmeqPO/e7ZYycl4ZI1rL6yzJtJtI24WtWDn4vXhm+nDpSdVDWxWnB3MXais6+FYDhGMeIDYw90Jq1Ofa8AiOX0aN1O8HK8lSyV2EIJ5KdiVqCUZHoIUfRFYOXvFLg+EKA8hdURj42Ttfouf349WJ639Z5OFugATirAr83hipCUshoC2ktSOa3a6AcU/DmoM=",
+  "URL": "https://www.mozilla.org/thunderbird",
+  "LICENSE": "MPL",
+  "ARCH": "any",
+  "BUILDDATE": "1593603702",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "thunderbird>=68.10.0"
+  ]
+}

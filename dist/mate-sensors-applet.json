@@ -1,0 +1,28 @@
+{
+  "FILENAME": "mate-sensors-applet-1.24.0-1-x86_64.pkg.tar.zst",
+  "NAME": "mate-sensors-applet",
+  "BASE": "mate-sensors-applet",
+  "VERSION": "1.24.0-1",
+  "DESC": "A MATE Panel applet to display readings from hardware sensors, including CPU temperature, fan speeds and voltage readings",
+  "CSIZE": "259267",
+  "ISIZE": "4145342",
+  "MD5SUM": "0f2ab5a74b3cc0ee39b57ef484864983",
+  "SHA256SUM": "3218dfce6970ee070848786642afc4d21c8399e1959199e9000c502e69652e41",
+  "PGPSIG": "iQEzBAABCAAdFiEEzFln1AlbTztC1F+ggaQC1POCu70FAl5VmQwACgkQgaQC1POCu739pgf/QI/3u0z1+PDdkbnQQJW4sV1oDhI4ZkKCZ0z0tJMmg0iKNZxvVrQr4k6yzabhtRqa8WtQdPCqX2kmg0k4a+1f2JWBk/fqeDXwmlntoU9Qmq9Li0BWKgKJIS2BwWqCoOte4zcz/mJYOeRylXJ6QVnJPt6NrwHtZeOTjJGGNpH+hXbOghe4KH3KN3cJP+b2iy/7KmISzE5E3fkkp+gKzRO8vD/GhgLRka/ZbLuNd1yLleqS5q6Yh3/hWeBTVyxS6CgQy/0xhzGLnJ9Z3LpB2zJ3JtZwm3vIaKvlo7udC1xH/RD4evLuuRCkbXA4xP3ovlw9Jr+Jrx3AeHrcc2uq77WyhQ==",
+  "URL": "https://mate-desktop.org",
+  "LICENSE": "GPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1582667947",
+  "PACKAGER": "Brad Fanella <cesura@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "libatasmart",
+    "libnotify",
+    "libxnvctrl",
+    "lm_sensors",
+    "mate-panel",
+    "gettext"
+  ]
+}

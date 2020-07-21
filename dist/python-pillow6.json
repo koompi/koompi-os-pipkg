@@ -1,0 +1,27 @@
+{
+  "FILENAME": "python-pillow6-6.2.1-1-x86_64.pkg.tar.zst",
+  "NAME": "python-pillow6",
+  "BASE": "python-pillow6",
+  "VERSION": "6.2.1-1",
+  "DESC": "Python Imaging Library (PIL) fork. Python3 version.",
+  "CSIZE": "599878",
+  "ISIZE": "2745406",
+  "MD5SUM": "5a13cff526ce61931a6f73c52107532b",
+  "SHA256SUM": "459bfca922381905d269e7e97da46582f509ea5ba00f660a6bc6190075e953b5",
+  "PGPSIG": "iQEzBAABCAAdFiEESMOx8w3dD+Z+UW0WOW4+JbqxQsEFAl7n5IQACgkQOW4+JbqxQsFjLQgAsrZSjAaqNhZumx5Vl9sDFB9JLjxeUXphCv1ttxsrCfWe45tNPo+nQKcvP1w69CZv//nT+MHB7W8xGl1kTkSgqvkYcRpH7pb0K7ju654n6wvOGbsnniGRz6ufSmUMHilrE7zmTfp2BK7XOpZOHkrE/bx7CriIV9OgKFf2/AKmaPgOskyAAs40Z8MLg/NGKL3KcUqyhjnGfdBK5zbG5YHjkI7kOQCG8Q3ombXsix/itMpwrv/eYfJJFQ9b4V7upivNWg4h5eXog9Pn3Nb/xCyOhuNrkSiAZvMS/Y+3T/wvIBNCan+GpI5dPaxhEr2Xzf40osQwrwmL0jOA0fJlws5uvw==",
+  "URL": "https://python-pillow.github.io/",
+  "LICENSE": "BSD",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1592234296",
+  "PACKAGER": "Kyle Keen <keenerd@gmail.com>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "lcms2",
+    "libtiff",
+    "openjpeg2",
+    "libimagequant",
+    "python"
+  ]
+}

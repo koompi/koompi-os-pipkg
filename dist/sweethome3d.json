@@ -1,0 +1,29 @@
+{
+  "FILENAME": "sweethome3d-6.3-1-x86_64.pkg.tar.zst",
+  "NAME": "sweethome3d",
+  "BASE": "sweethome3d",
+  "VERSION": "6.3-1",
+  "DESC": "An interior design application to draw the plan of your house in a 3D environment",
+  "CSIZE": "21745439",
+  "ISIZE": "31503592",
+  "MD5SUM": "a1389baf88e12a11c0c6e63e4c9b5806",
+  "SHA256SUM": "26383ae43b2a72fff221cd0e8ac9c590ce02e3a2dd25739faa07e960bbddee30",
+  "PGPSIG": "iF0EABEKAB0WIQTFIYRkNtdaMpR5Wye0NgIEslDw0wUCXqxvogAKCRC0NgIEslDw08SNAKDIW8fuLjjeJ97Mvv+GedsX3e0OsACfWlXfht3g1rdsDRQCBZYPkmS+F4g=",
+  "URL": "http://www.sweethome3d.com/",
+  "LICENSE": "GPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1588358279",
+  "PACKAGER": "Fabio Castelli (Muflone) <muflone@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "java-runtime>=8",
+    "shared-mime-info",
+    "desktop-file-utils",
+    "libxext",
+    "libgl",
+    "libxrender",
+    "libnsl"
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "FILENAME": "python2-more-itertools-5.0.0-2-any.pkg.tar.zst",
+  "NAME": "python2-more-itertools",
+  "BASE": "python2-more-itertools",
+  "VERSION": "5.0.0-2",
+  "DESC": "More routines for operating on iterables, beyond itertools",
+  "CSIZE": "87284",
+  "ISIZE": "498116",
+  "MD5SUM": "abf4137c512de936388297086ed2ce2a",
+  "SHA256SUM": "1b37b4acf7cf2e8ff6d5d0b5bb7c417fd6065296a415cf884a1dbbad924d4aa9",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl8EtqsACgkQeGxj8zDXy5JMHg//ZYHGzLH6noHsTPA9d5gpavFN5UhYHxNwVkKfiOfHTtWaCEn2uKjveqHPgs4lMdNb+c/e7Hc+Uik/5yIfFmJdcy7Z9oNyIM+eQPZDeZ53vWKmw6OltRlqo+84JLlt64eYuFpnqhKVAlCVg3JPe1ag2I4lHtuYoHKO9+UJXcua62BmXbDW/RJatMdt6VAW46I3Jqf50fnuqO5M5WJ6duh207jLlZwB5B/JAhVXx1Ls+WDu1hWVcJ7gFg0suiE6xHew/4ujaYKKack25sd1kfbNT0G/5KsgKxqHVV87et+DHO4vrv/0azQE6b1/nvxc4q0g6xhpe7pQnXIGHyXDjwXF/yO/G9dp+b7GPH6yXQ5FeeDIXIL7MTep9TS+AofWEzAPxe0yJiqLEFxW624bELFqKU11mtdHKfbOBK41dwvhCVrFkLF5cuGX8g2Jnb+vcjSTjmQ/2ldkMeYW6e1UtxS+HFHDplQOi/nTuWzgkeF8BhYWETuc0xpYJvzVTeAfrmGaKr/Et/4WfMy88rPZFXZ0yQ7QA+oFuwtYQ3Z6QFseeGWGpZSpQ1KxQx+T/HMBxD4C7BHIBRdUY0zCMUvOt6N55plYbum0t8v/5DyfQC6ntvjOS3AoagmYALmcU41XaRFwcJsYJIKnUQmy1OdPqekJCu6i7WY5A0GsMjqCLkKNELg=",
+  "URL": "https://github.com/erikrose/more-itertools",
+  "LICENSE": "MIT",
+  "ARCH": "any",
+  "BUILDDATE": "1594144386",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "python2",
+    "python2-six"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "FILENAME": "libva-utils-2.7.1-1-x86_64.pkg.tar.zst",
+  "NAME": "libva-utils",
+  "BASE": "libva-utils",
+  "VERSION": "2.7.1-1",
+  "DESC": "Intel VA-API Media Applications and Scripts for libva",
+  "CSIZE": "496905",
+  "ISIZE": "2644007",
+  "MD5SUM": "8a006c4846161749e4ba11b94f951c11",
+  "SHA256SUM": "718b74754940346e94744d9c30c17ea2a95188ef75fa639aa402a2cccf1f026b",
+  "PGPSIG": "iQEzBAABCgAdFiEEado014/g79WWrG0EnYk+xNqvkSkFAl6PgNkACgkQnYk+xNqvkSm3gwf+PL8l3/ww2YMzUr8qZ2TYeVn1SxOdMm/Z6vIlY5auRVc+CjQpHtQBYdu42d1loHpFmrNs9g21C9tG86EgjGiQnqowa6bLto4rXWz3++DWZXLTrFamoPuz31WHBs1TprOm9mRafRV/iP9EEGxLGKjRv7EoDSTXb6NTdQ8hkDpqxGY5attuaaN/5BYdFVp58luJJzdLRE8RdiFLKfkFdj1ic0oTLx7AByj1Cnm6luC36UypQUCCW02DutPhzufduCDgspiJrQqL+KI1BhKw5SUS5YDxcRPXjEHpBh0ZlRcDE+V3/cIGZbef78tNVYezDvbk0oEOWIynLR6QFnOX5KFL3Q==",
+  "URL": "https://github.com/intel/libva-utils",
+  "LICENSE": "custom",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1586462882",
+  "PACKAGER": "Bruno Pagani <archange@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "libva"
+  ]
+}

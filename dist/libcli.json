@@ -1,0 +1,23 @@
+{
+  "FILENAME": "libcli-1.10.2-1-x86_64.pkg.tar.xz",
+  "NAME": "libcli",
+  "BASE": "libcli",
+  "VERSION": "1.10.2-1",
+  "DESC": "Library for including a Cisco-like command-line interface into other software",
+  "CSIZE": "26544",
+  "ISIZE": "72747",
+  "MD5SUM": "5b79707a6bb271364546a99e93a66d13",
+  "SHA256SUM": "a1191e3bbb2e6614076e7cfa8a422c93fb57048c47c506ffc7a99ee17084626d",
+  "PGPSIG": "iQIzBAABCgAdFiEE4kC1fixGMLp2ji8m/BtUfI2BcsgFAl3RaPMACgkQ/BtUfI2BcsgebQ/+L2nNPkFBGw2W3qdZtY7TXrgLacYNGYaFIKMAkL35tk5fa/mrpznXnuEgmUSRdHnf3RoygqwSya0l/YXXCDxdZM3sq1GevS9hFMSqwZkobVDbiDsUCq48KfwM4UdQam+HDqQX4NqlLh18jFIiYUb582YvP4vZbuj0sp9HAl9zARyN78dZJ896vmkxjrTAEAj3wXRTC5vZlTxeaISAq2Cau/hwjrmPm4imCy/MBKJridPGZKLReJypYsp1P/nwKRGb7GPocYXPXfgUTpvKAxYRYuIVsLlLSk2Ot3VkbyKy2qYpZ2SNsUiDE+U73JDpw5h+myOGZLoicU5FeKwTKmuL2PRtot6+gYJj8vOUW/quqzHa+090MBet0x3Bnffw6WyuDM7mevmfcPAcxU/6YKJecHCYRflR8rKD7X+ToihVpQJK8gJ+/V5irGQw51YDohLQxA/zhiB1q07x0m/J1BvEmAuIJ31COT25MHccxtH947FnQuw9wTfymMNP37cusj+1ZvgPBXSF+Z13z9RVQ0Qf/9xz6Ui2fnZ9hH9ZggY9D7vU6BQZW4782UWn/d67cz7IaTyK828wDRovwYyY73jijMNR8unuZD9YJTLGfyR/2fa1bacI44ULTRLs8uqeajz3+tqNaI7XskJeF0K7lRZTegju4ufEqYTP3hI3NLPoGxI=",
+  "URL": "https://github.com/dparrish/libcli",
+  "LICENSE": "LGPL2.1",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1574004947",
+  "PACKAGER": "Levente Polyak <anthraxx@archlinux.org>",
+  "PROVIDES": [
+    "libcli.so=1.10-64"
+  ],
+  "DEPENDS": [
+    "glibc"
+  ]
+}

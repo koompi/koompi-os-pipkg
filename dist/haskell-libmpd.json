@@ -1,0 +1,34 @@
+{
+  "FILENAME": "haskell-libmpd-0.9.1.0-24-x86_64.pkg.tar.zst",
+  "NAME": "haskell-libmpd",
+  "BASE": "haskell-libmpd",
+  "VERSION": "0.9.1.0-24",
+  "DESC": "Client library for MPD, the Music Player Daemon",
+  "CSIZE": "377290",
+  "ISIZE": "2439348",
+  "MD5SUM": "69bb33fd8bf00ae9a62fbfdb41f79293",
+  "SHA256SUM": "afcd9740a383ecdf5cbf7513113c31ee3d8421633f84a54906246fcfc73642e2",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl75rz0ACgkQeGxj8zDXy5LOfw/+N81kjoeb+sA7GwFIqJpIEyZyQNSd9l+Wregql4U6zkF/2fetpn6Cv0xPEQlQGJ+Eifsnfl5B19C9WHH3yoUKv0bq3g6Lc4/X3QXH6U07zQyaI7vTpwRNqI1KMqTiDRtdYJDAvEhOZUFC+TqajXFj31M9PnZrwKtExhna3b7i+6FNxja6vqjzKZbQcmMGmgkWvxlkMGisEXu8mUl1hLMtL8oKqBaIRdJ9EDjGvqojjS4y5lTf4oqOn5y6mSLi5JlEMNw1qUE/9WkB2c7CE/nXMgZ/Ws1ZFne9OJTVA/U62YkOBMOtnQ9eVAd5Wu82tEG+lO59Cr6Bu2LMVnypOmA1C4dISZc1ZSuT4foFuVv6sRf2IhBMf8IucgVpzxSYf0mxuoHH34jR1TRMmANwYDAVbrz8d1mJNOpqbSAJkKX9oGIUvSYyEC1rDpjgbtGrgqXjqsEEKaT+VV5DOgFg0kxPq4L2t7V+NOXLs1tp4TK+4NJ11vcHCBEQDmuCp57S9Bz1t/U5t/5TEdKHTKhS8RmOvJd3UMRmBvNl/Xv0v5IdrHtPdTc5hl4OUilUPA17owlXQUWFOlTPG2izxVzEsGQeRHR487apnn/EBuoGlBx4LqNBsaY8FMX33QLHR/stStDgQSR0+SelYihC8/d58XkUywf/Wy+bEkOFols/ll8JpdU=",
+  "URL": "https://hackage.haskell.org/package/libmpd",
+  "LICENSE": "MIT",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1593421593",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "ghc-libs",
+    "gmp",
+    "haskell-attoparsec",
+    "haskell-bytestring",
+    "haskell-containers",
+    "haskell-data-default",
+    "haskell-filepath",
+    "haskell-network",
+    "haskell-safe-exceptions",
+    "haskell-time",
+    "haskell-utf8-string",
+    "haskell-primitive"
+  ]
+}

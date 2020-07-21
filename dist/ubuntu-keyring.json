@@ -1,0 +1,23 @@
+{
+  "FILENAME": "ubuntu-keyring-2020.06.17.1-1-any.pkg.tar.zst",
+  "NAME": "ubuntu-keyring",
+  "BASE": "ubuntu-keyring",
+  "VERSION": "2020.06.17.1-1",
+  "DESC": "GnuPG keys of the Ubuntu archive",
+  "CSIZE": "29325",
+  "ISIZE": "38582",
+  "MD5SUM": "229fe801dffb5c9de65eea9efb308798",
+  "SHA256SUM": "104d6e9c467dd96d0129f4078696d370c67baef2cb019d6d4703ad5bb99e0419",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl7uPYwACgkQeGxj8zDXy5L6Dg//QIL9Pl/uevv7Tx3/5Ke42gE96yPijZrgp9uRbjN/7/Zpswojz3d1Ny3LcXb148tJZUT5RFDjhZM3jlLMQAyb5TPtpHVbRV+l5eoJRHETF6s4VoDlJUfqdGVZ0YpQNdwQzFld2zq0p+GV+3nf3x1e8jgnT9mmNiXiJM61ILJaMVmhVnBionvZ6NNaO2DalsI5sW/EIwGWhOKVLZQN2PgB25twQBcduMRhAdc3lZM0W3yOY3winiWYNLjUW17RTpephnHkbJTJAW4orTjlrRaPZKLip4BdAqsgjSjvm5dABpzM1qhHHsHEtqwgnvwrfWn/H2NZMBVaJxkcmi0UIHDIUBWFQhgfmpYjlwWX94M7R7oIMeNZbJUvA/9wR+dWkeYefEj8ZFND50rjX8fOBXb4OFAgIlFlsvq5pL3fg6lRkSHN6g4UDHKuhW2KhKEMWZU/HVvRoZrmxUp/EUDMQNWqRlOWooSqAWiqWPUmJw6NXtCAuU4yyz6BBjlnnC4gXdahIw3iQRH7ppGrftW4gLmxd7qghBEJRx1eaAAzokmvd5u6Sr78xtHZkugsJ9QR2GriZVnecNbhLUZI27pD0DeYnB1AXxdUt3z3DtItnCLGJIwWO87HrIcajSRuX5xmB96+c5nMFOYVCOfUf2ge5WCCAb8rR55QPv8ORrXp64ldAYw=",
+  "URL": "https://mirrors.kernel.org/ubuntu/pool/main/u/ubuntu-keyring",
+  "LICENSE": "GPL",
+  "ARCH": "any",
+  "BUILDDATE": "1592671610",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "gnupg"
+  ]
+}

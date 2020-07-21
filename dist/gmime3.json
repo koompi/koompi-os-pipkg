@@ -1,0 +1,26 @@
+{
+  "FILENAME": "gmime3-3.2.7-1-x86_64.pkg.tar.zst",
+  "NAME": "gmime3",
+  "BASE": "gmime3",
+  "VERSION": "3.2.7-1",
+  "DESC": "A C/C++ MIME creation and parser library with support for S/MIME, PGP, and Unix mbox spools",
+  "CSIZE": "393558",
+  "ISIZE": "3906022",
+  "MD5SUM": "f6a22e779b3d562dec3b0f70e265ebfa",
+  "SHA256SUM": "db06484523ce1c97d45ff9aff675d6293ae03e4b1c5d33ab316f6eb7a4347a39",
+  "PGPSIG": "iQEzBAABCAAdFiEEghj4iEmqxSLpTPRwpekojE+kFfoFAl53kEcACgkQpekojE+kFfonlAf9FB5rt5fbxuULP/9jAakdXybj1brDTCijHwDmPJm64TfdpRk1b7sWJaQ4PQWeQlaq6AE/unYMG36xnMwRy8qfP6ZXkUiqCFIi6Jv7AhAoHvVSRB5RUWlW8p71f3l+15JWCbmytAXKPKX9YrUPRnbweRySI4SIJHuRhSWALb3YZzkWw7RkHtdvp8NkMo9QGxCoFJgn5McFVVkZWT9Brd6hbPXkRMQlDPNgixB6siytcdsQ5nYicgAa49yvAhj6oYDu7akcv8dOVWyKmNYKHpKjW6Nr9dB85G60cVs3DKThPD10pvlRJPeXpds0o0cCBwow7X9oi3qZnQkTVC63TP5Ueg==",
+  "URL": "https://github.com/jstedfast/gmime",
+  "LICENSE": "GPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1584893923",
+  "PACKAGER": "Jan Alexander Steffens (heftig) <jan.steffens@gmail.com>",
+  "PROVIDES": [
+    "libgmime-3.0.so=0-64"
+  ],
+  "DEPENDS": [
+    "glib2",
+    "gpgme",
+    "zlib",
+    "libidn2"
+  ]
+}

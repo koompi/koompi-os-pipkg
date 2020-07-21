@@ -1,0 +1,23 @@
+{
+  "FILENAME": "adrdox-2.3.0-1-x86_64.pkg.tar.zst",
+  "NAME": "adrdox",
+  "BASE": "adrdox",
+  "VERSION": "2.3.0-1",
+  "DESC": "Documentation generator for D",
+  "CSIZE": "851938",
+  "ISIZE": "4285760",
+  "MD5SUM": "ec3d7837d311fa91468dafd7b584620e",
+  "SHA256SUM": "2ebde6dd2baeab440f71aa0fd3b50adfb1b852ab0e326066712c29db02ad538f",
+  "PGPSIG": "iQIzBAABCgAdFiEEhsATU8sh1GdlMu4OnwqcF7B4bxkFAl79AKkACgkQnwqcF7B4bxkuyhAAq/eOTOC0EBUQxgK9P7/m9aLgMNFkqCtDFjgZoEuVAwGTMxF7tE3V/Kx315y0K5PnSBReK0BXQvfYvNn809s/KEKNQhdvbpDiEGFIVoAsf+b2Wa77RR6q1AaA/foUQgsM+ZnOMtZawOKeTI/xf1p3OwztK4idhhBfKODaeVr5QBTZGy6RGysYNsWESgo1zjEwujRxEiwMpLuMBKSzYnYWPf85LQAGfBr4ZRWiAR3IYLVg7ZJnC+gzCs4D9mxqaeYqAqei85YpoV31v3Yc4OWump7BbsvrM3ify+7i1w1ipFGLJ1kZacNEnTrwDD4iwDrPKh3x+UTSBUiNwUGktEYjcHxbOF7b9Hdt9sLN/5ElVVFXrLRiWcZrB9WXlwug5gMocnfcGGE8TV1djGB14lZiWmZUT0KWNn801wRctnSW7VB2A8Kl3Loi+MU+dY+gSv1tNY6Q29JWgDNVM1Zi1ww3cgAIlECmDpj+2EBwMgWoQfQyojnL6MKlpFRxFrh+GXfIQrtQH/BMGcWMStcW7INZNIuozQ0vD4PRzVjtK4gK9jCGBzzedQD7397z+c+g20ajcsTRZN2UYERwjFGOSubmHH3utLvNT/hVk3Bwrv/F+TCzzd6CEKhoXBrYz+Bd64vidCGZP6GRvdXQqww0zMVGeJwwEmzdvM8sE6EAv+RlGNY=",
+  "URL": "https://github.com/adamdruppe/adrdox",
+  "LICENSE": "Boost",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1593629577",
+  "PACKAGER": "Dan Printzell <arch@vild.io>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "liblphobos"
+  ]
+}

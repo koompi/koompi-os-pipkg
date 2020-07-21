@@ -1,0 +1,23 @@
+{
+  "FILENAME": "qt5-sensors-5.15.0-1-x86_64.pkg.tar.zst",
+  "NAME": "qt5-sensors",
+  "BASE": "qt5-sensors",
+  "VERSION": "5.15.0-1",
+  "DESC": "Provides access to sensor hardware and motion gesture recognition",
+  "CSIZE": "181318",
+  "ISIZE": "930660",
+  "MD5SUM": "0c567d9063e84e242c043b8fa1e8051a",
+  "SHA256SUM": "bf12bf45c1dac86f13e567e97527a817dec32f4302bf6d09baaea5d7269ea8ee",
+  "PGPSIG": "iQEzBAABCAAdFiEEFRnVq6Zb9vwrc8dWek52CV2KUuQFAl7M1j4ACgkQek52CV2KUuRLVggAoKsarBBiuZThccBb4Q0hfia6CHRw7K7wmTFLS7HTTOfIK9X29dUgfZOU2665bMc4LsboiBdKh1YIUJHseXBQDNoCu9UrVVKWZMDmq6jLGRNb7v/nT1JCj6aMBn8G8nVySoDAX35VJYpulafv7j402AtvkPXRlvQVRI+rDLrebngc7ZToz88RfGQr1ltOw1hxbgbDtdkfaoGe+eK9P/R6tiqK+wNuhhztzujpIBvCshVfNsNbSicw1F9P7RaeBerW5De15CcYver5y6c0NHZ5XzgcLnEHj3tj26kKK6ZpaPHUTfhD781ygVLrQmnOpRJCMRpzh3QtdTvXkZtUk87apA==",
+  "URL": "https://www.qt.io",
+  "LICENSE": "GPL3",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1590476312",
+  "PACKAGER": "Antonio Rojas <arojas@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "qt5-base"
+  ]
+}

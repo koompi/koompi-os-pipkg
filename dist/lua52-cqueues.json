@@ -1,0 +1,23 @@
+{
+  "FILENAME": "lua52-cqueues-20200603-1-x86_64.pkg.tar.zst",
+  "NAME": "lua52-cqueues",
+  "BASE": "lua-cqueues",
+  "VERSION": "20200603-1",
+  "DESC": "Continuation Queues: Embeddable asynchronous networking, threading, and notification framework for Lua 5.2",
+  "CSIZE": "139110",
+  "ISIZE": "384011",
+  "MD5SUM": "1ad0412370d3572c269e96721fc95cf6",
+  "SHA256SUM": "dbe49cc1e54b56b3ba1b267e63fc313792c286f3e191720a820d78372e7cfd0d",
+  "PGPSIG": "iQIzBAABCgAdFiEEHiYzy/cw8s5ux6twRbQpqPnZ0ioFAl7XSxYACgkQRbQpqPnZ0io3mg/+OYkOc6uEQazp8IczCHA28vxuyo2hv2XqKj0GcyRZ8SJPC7b0pmP4sHrRRdYMVR0iHsbCTLv0QP+ggdgcHE57006mKXuHS42tReoU1KT5RZv9PXt18E+a/o+rcEn4g3RPjSGf+tebdT4Lq/al4IfyzIF5bzy6T+tfvpLHtbXs3gh5P8/jetesF8yNpxdwnHQyPfffQJbfVikX/CQhyvWVO763cPl5NIhtThBHYge69ftKHArryX6NCtljFOHLDVmApvSWAH1kkspvI1BU8J3RVb4LtrY9eGYPIJdGTkMwV4/WPNjZrcDafHH3TplqP0ZOw9ChDRTKi6//425iZR1NDK4LNbHv/1zJRzISL4n87LC9bcLOVabTfBc26QIanC7PsvxFNpxLDVQSkT1Nf/UA3/uvGkk2XNl3uiMvOjXkRhy0e9QGYzYZ7ctpYrDFAQDMnjIa/2Rnqt+YNB3OmwdY2prfvj62BRr2eQqPaSKwva8b+z2AXG2Iz96Q/3LbUA45fRT5iPYYvUa2fzWGtbZtuiq4Tw8/QEBUwU6yxtqdXDvD80Y7l433b+YpszKPon/GCoRTZCZ3lgsHHG6YWSi9rfw7wPs9106VgClNuyXhxpe85gOOlMKSBrPP9zp7wI9gbmfjt1AwqL+o3fXmDbST4AtSuKLz3Q/3sKCuDS/Dyhg=",
+  "URL": "http://25thandclement.com/~william/projects/cqueues.html",
+  "LICENSE": "MIT",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1591167717",
+  "PACKAGER": "Daurnimator <daurnimator@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "openssl"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "FILENAME": "enet-1.3.15-1-x86_64.pkg.tar.zst",
+  "NAME": "enet",
+  "BASE": "enet",
+  "VERSION": "1.3.15-1",
+  "DESC": "A relatively thin, simple and robust network communication layer on top of UDP",
+  "CSIZE": "33653",
+  "ISIZE": "89604",
+  "MD5SUM": "d9f2a619a9299c03455842e6952e3fa6",
+  "SHA256SUM": "aa9b094f6ff0ca7a7ecf8b73990b7910c8754793360c15096101b069a99ec8a8",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl6hW4oACgkQeGxj8zDXy5KKFw//Q4J1a2LpktYbLg1nH03q8HN2n9oVkZFO7nPyPPVPJD7vEZC8+hpGeigYdnmR7dvVHbB8/SvNt8xf5crC6zA+F/Y9z/29P8mdRxtMNl8USA4j4D+relB05MLwk6pEWSerQ77aOgyKZKG5KxLzCcVLo+zwAdsN8aG3QYUGOWRXP1LFWLEA4lIwutEZeNPHyALbC/YUoaoDhwfrlZTOanA+3CrJgxc0y7NkhdwvggjsiMETg0aqu05VpAtHEkVxs9pd7yvt0l8Hq3cCiRngPAHaR0nH+d4RoZXuX6icYrUvvIgSGLgNvP17T7KVLNJ0IOvjKhauNw+01pW7rTbSUaHiTfkdXk1j3zpQiVewpzvSrLPVwG+Vska1M3bdeT6P3L6nkRfrqCQf5mwVNvkWH6RewhVT2in1b+ZSKItU+8pP7Sg+UA5jUt8ZJ2iZeCDmepIWN6Rlvvj0gMLKRXjX0mThXxuobnCqkux8k2KFUZNgAZ57P7+TCCTkKy1w4O85HmMKUzBsNKSd2DQ8oMGnOK6GBRAGqbIPtP32HytWu1Ucp9+VTDZJ8kzE68FBqO8w9pekhiIN2LDg0kFzPHtFenf0A6jE1TM5HlchkH9HADyDBSyVrYoJluy/JxmoN92mzZyhCvQHTbRIHb4hkSX8vh50DXlErS/fNB3zYm68oWCEAD4=",
+  "URL": "http://enet.bespin.org/",
+  "LICENSE": "custom",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1587632997",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "glibc"
+  ]
+}

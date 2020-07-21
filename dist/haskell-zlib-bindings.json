@@ -1,0 +1,24 @@
+{
+  "FILENAME": "haskell-zlib-bindings-0.1.1.5-19-x86_64.pkg.tar.zst",
+  "NAME": "haskell-zlib-bindings",
+  "BASE": "haskell-zlib-bindings",
+  "VERSION": "0.1.1.5-19",
+  "DESC": "Low-level bindings to the zlib package.",
+  "CSIZE": "36515",
+  "ISIZE": "155907",
+  "MD5SUM": "6c51e8e04ef6bd460cff8c19c75dd4d4",
+  "SHA256SUM": "ff40092dfbbbffadb14b20f04b60cbc59dd3409492fe12f2b1dcaf679d5dafde",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl6jn6YACgkQeGxj8zDXy5LTshAAhU9VJuJcbMq34y2o+cCZJihgy4tTAjb0ZWoPthKTmUZOV7EbaVih39HN4SFHuyduT4wgCKz6XC2gXJNLKIxMXofFxbLt/ANmY5T1s6GLY+lwLb74seQkhwxYdK068QN7GN3L2lWxz/6dO30gZwIL+9ilbC/9FtRRuwVy+0KWbA6bF3aLArowKo2qG9FbQomOHBIGua9Z1xkqVeDXCJOANCgcJCGGuY+EPVIKDOneNKJGw23C9tqNCcflyd6u81ZnNv1DXa9SbU1vqlSsjTSwIweNYlZnardf1b3vlTuVv/NX6e5Bj/Xv3LHxrGyvb22gI5x6WHoD/ArZHUyfrd18a3U+uOZF3od7O1ZXYIFiRr4jf4HRtW++QVgCEI4WJZdPlh8GWdrLvdvKRk+zhHWyZUkp7T1v1htynZnjn7jF3/ekKh1BJv+PtMjYG1daZMq+FnWSUgzfAYCgyIpYF90JPfVMAfiODJUzaSKG0RNumEs87acWqJLu25JGVWQWDS9n/TqwYpnLtFmjYvTOwajuLl947x/1cvM8VXdlHVnkTcWnUEx9aZu/bmi1FtjiRPa0nfe/lJJwW0i6qzpfz3IIvWiIqXj/wjdwZYXJIqiXHP84fF+q9Z0tWoYBkpiOs4l3lGnOPCKuhfZc7dWqoChaao/CqiAxFG1UiLa665f8H8w=",
+  "URL": "https://github.com/snapframework/zlib-bindings",
+  "LICENSE": "BSD",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1587781450",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "ghc-libs",
+    "haskell-zlib"
+  ]
+}

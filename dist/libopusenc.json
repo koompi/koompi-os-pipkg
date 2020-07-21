@@ -1,0 +1,24 @@
+{
+  "FILENAME": "libopusenc-0.2.1-2-x86_64.pkg.tar.zst",
+  "NAME": "libopusenc",
+  "BASE": "libopusenc",
+  "VERSION": "0.2.1-2",
+  "DESC": "High-level API for encoding .opus files",
+  "CSIZE": "37421",
+  "ISIZE": "138003",
+  "MD5SUM": "2af4c69474181a20a389991224568257",
+  "SHA256SUM": "c189bc02e8e53cd05cda8bbe96bc8c2badc6e6a97512e76303d6d5817d8bb516",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl8ElSIACgkQeGxj8zDXy5Kc9hAAoeQL6+ueUAznK+/umw0Bn7n3N6hAhc5VE7xZpYJdWsHA5LUPrzgJq50n1nQw1Z/I/z+EQOtXrm9VR7gCprmCK/eNStagdp/LGK/QhZKIpXs6uPBhv1zptK1qlIZvZFkIoY/B2y0UipxnyRtfY1v/EyQ+CCUy99vM+JF4KyXP7ynxaLdX1G5PjYCxaGxmkjz4LZ7ShTcOCEzYcKcqrCUtUOK8Y1NOtS8IIVMRnXvJwrCBkFc0dRa0IGnk2BCJIzhU167dAvepYO6kYZ7q3q4BOem6GsEaAobeLRdUj2Mdmc5OS684hj2EWmSQaH9s/69hcZSUslh73201DEzApCFJq8kwx87QGRW62nU/lSuqZ6cl9edou1JYP5Xetta9VBjwp+UpgY92dNOCyM9mNKys4EZmzglcvrsdk3OvTywPDQKPSZVH+X4exjfFhH6yvFxKsE8ysa3txv4bsRY9S6YQMi+YfE2PY1th02P/a7ArO4H6vXpWbJXm+4wWokhF9bUWQN/El5L88fDD5spbfsGRSRVrO+F3Z2Rc5OAy9GXxA8bceXYCvSZ3160AySyvmFFE+jNVBPO9GnPyPLSPbyC27v2w5BGv61WT+byvLb9o/ju4yJMQiYrxyeqEjiHvsIiZr4YIbubuqKktUkLESKdZSbZAMp4iBuQKRwkMWBux6qQ=",
+  "URL": "https://opus-codec.org/",
+  "LICENSE": "BSD",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1594135821",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "glibc",
+    "opus"
+  ]
+}

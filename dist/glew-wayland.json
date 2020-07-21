@@ -1,0 +1,25 @@
+{
+  "FILENAME": "glew-wayland-2.2.0-1-x86_64.pkg.tar.zst",
+  "NAME": "glew-wayland",
+  "BASE": "glew-wayland",
+  "VERSION": "2.2.0-1",
+  "DESC": "The OpenGL Extension Wrangler Library, for Wayland",
+  "CSIZE": "399201",
+  "ISIZE": "2812673",
+  "MD5SUM": "4d5cae7e2df7e413c868c8ab966468db",
+  "SHA256SUM": "ba67ffebbd389dbab72848f3078da7420540497d7542f178d936cd2c4e0cb4cc",
+  "PGPSIG": "iQEzBAABCAAdFiEElihV8HLHoBhGQFhk/PPIy1z5yNQFAl64YCwACgkQ/PPIy1z5yNRJ4wf8DDKgFXzdR0xJQ4VhPXijLbo/YMNCIa/ZcTS0SN95hsjszfW3qyesviGDGpgJWumMXMZOWJtjPXCIvWgXNDU8uuezAtLdfKQOn8RZDS55tg4VeERvvSUvyRHZWtyf/vakpu1u3hwHQIp4ITUXIMnl58+l/8SH93TqHDyc3bJztVbkM400mX1T9SloM5Wc2QTJfY0ts95NQ6gdbxyDm81TYLPPocvK/rJrVEmtQtuEGqMjQxk+eRPDHNYANQwc61Kxw81Hx+LHD4tjopuSqpfJ138uOxnnnK37sjxE4pkkx4EE3OEWrMkqUsfWvoYDHVdA+DZhewxxzmqLWN9/hkGXcg==",
+  "URL": "https://glew.sourceforge.net/",
+  "LICENSE": "BSD",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1589139626",
+  "PACKAGER": "Alexander Rødseth <rodseth@gmail.com>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "glu",
+    "libxi",
+    "libxmu"
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "FILENAME": "nodejs-lts-erbium-12.17.0-1-x86_64.pkg.tar.zst",
+  "NAME": "nodejs-lts-erbium",
+  "BASE": "nodejs-lts-erbium",
+  "VERSION": "12.17.0-1",
+  "DESC": "Evented I/O for V8 javascript (LTS release: Erbium)",
+  "CSIZE": "7238600",
+  "ISIZE": "26739959",
+  "MD5SUM": "9b3f291f8cde68a52f5d317ddcfcfc7f",
+  "SHA256SUM": "73143ede40724d028cc0d5a7e8f88c589e64f338be0c4eb241e730654ec8370c",
+  "PGPSIG": "iQEzBAABCgAdFiEEado014/g79WWrG0EnYk+xNqvkSkFAl7OujsACgkQnYk+xNqvkSnnLwgArw9JUUVSeYfkhqfA+AjHDjgQ8ML7Xj6nFZNKchHYKHJN7RsX8h9Qe56ZQluYtfSzcwXy6cH5B1kun+7IM6M276b03XXq2CuoTHE9zOMjEWiqqMa0PqPTSL7zAPBtlH6kJaQk3ga3fyX5hHfrLQYRgXyjt0K+pCQPux7v6uyOZuO3CR7Ea/Z4mdcKpSV0AuyVcpsWSeQUWofK38VGzKWMiabyFSukraXnzSTQPI81wiNvZUzg89O6NRBhLpBMqxN6QCOZ90uUvFn0j5JF+e9rC7vYqdS5/fpSlOU+eWNP9kios+Z1au8bMuEb1CPYU/2/RjXJPSq9Lzv9ZnTAHxiPsg==",
+  "URL": "https://nodejs.org/",
+  "LICENSE": "MIT",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1590605031",
+  "PACKAGER": "Bruno Pagani <archange@archlinux.org>",
+  "PROVIDES": [
+    "nodejs=12.17.0"
+  ],
+  "DEPENDS": [
+    "openssl",
+    "zlib",
+    "icu",
+    "libuv",
+    "c-ares",
+    "brotli",
+    "libnghttp2"
+  ]
+}

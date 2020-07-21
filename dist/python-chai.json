@@ -1,0 +1,23 @@
+{
+  "FILENAME": "python-chai-1.1.2-4-any.pkg.tar.xz",
+  "NAME": "python-chai",
+  "BASE": "python-chai",
+  "VERSION": "1.1.2-4",
+  "DESC": "Easy to use mocking, stubbing and spying framework.",
+  "CSIZE": "40192",
+  "ISIZE": "196365",
+  "MD5SUM": "7ff504e7ed1842d288fed1da153ba9fa",
+  "SHA256SUM": "c31f4fe4c63168dc9fde49308fbf36567c6e347a24aef441a77bfe7ddef566e5",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl2/7/sACgkQeGxj8zDXy5KnPxAAtuiU+amHyoTLlFV59KKeafmXKB7UHuE283e0pUGQzpVUaR8Qmkc+Z4g5K8FbEFbV42RkTrjzQMPoEuwv7M3GBCjn8dwGwtjdJeOA0yjKB284FKbnyFsJNXtIl8nxf7/+sPD5EHN5pjpnl7IIlB0rPcKu7sZEZKE743NvBHHHxzTHltqieM1EHBS4o3MyZAggStr191lLPC7zi+6z2ogjkr6Cho8a6VUXRibt2Gg62CBa/9l0Shu1RfnBqmgZVWIXuKbSy2qmN86h4hylU12VPD79dFr5DILrYvhn/3L4EnVCdXU3BO9jMYaCGrIsGrbELzCuwbIokP5en5K+4NLxFJc32uiYI8WIFPPuSVK5l1NjEy+ODTa7Sid27xa6o821aaGdORu/J639R0J7O/Q8czYsq1LW1IboRUOXLMXlFHUBLz0vv8yUWHdG/VVu62PrcEMygxCY4vlL2TZn5yLyWOAqF3M4EZSIt/hl+2aZh7uQ8uvovRr+4ILPNuQekOw3xk0l1+BEAiTy/PviHQxKhL4I6ULgmlOh8HSW3Mk8hnmB0HjoeiFWUiWD3ghZyK6lGehBCIJGvPB4b1jXFhyWl1Wl+r2bLSTQnymLtqeVkRhLqwgF0F8h6MmdPeGpFHe4S1oVkCzy6zGdfDnNi7FD2gO0OVUEsLfgSrwWBhJRva8=",
+  "URL": "https://github.com/agoragames/chai",
+  "LICENSE": "BSD",
+  "ARCH": "any",
+  "BUILDDATE": "1572859860",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "python"
+  ]
+}

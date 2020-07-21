@@ -1,0 +1,30 @@
+{
+  "FILENAME": "monero-0.16.0.1-1-x86_64.pkg.tar.zst",
+  "NAME": "monero",
+  "BASE": "monero",
+  "VERSION": "0.16.0.1-1",
+  "DESC": "Monero: the secure, private, untraceable peer-to-peer currency",
+  "CSIZE": "16833586",
+  "ISIZE": "122214399",
+  "MD5SUM": "86e28b5d17604dd7e97d1a9398de3ccd",
+  "SHA256SUM": "8fa1f5fd740a9e91c9aa7d6b8badebc379cc692224adaf24ec8711bd60d0e313",
+  "PGPSIG": "iQIzBAABCAAdFiEEM+u4qOHFZTZFsSMqRaZQ4mOMU20FAl75tQYACgkQRaZQ4mOMU20NEA//eEdnIrESFcENwDJYGLMokYUQQcIXuML/tSb2mkMORTTaT/JEtVJRi9E+RBNDoBbC/3AhbEpYMYKtt/wrB31pIgvMk0QsKd+PMk9gkigtA2qF0hgO4/rCde2Dgsr3/xsCb3RhuldbPbjqfXFedBplw8e7w+MpOMjtXlnNvBnFXhNuiXboUwSx75YTQDyOAyi5UaCko7RbnngM/yzRs/PSseLVLNYLs52ZXHatvjF90Riitk/dHufTxXxnnAN6byEnuq0fnpogrbBq7Ar/XTJuaqUGfknKnD9kYfEtmafXC4uSOqmpSHxpun52BdVukWPH651PlxVOZobQlsgg7eRSKItYFe1tffsStE/oQwEx0UeQ4RVwLsPuCFJ0eoZpGP4QAcXpwaMsi6Rmo+Rmi8yBzGwQNhX40C0HLOa7kWXTAFDNT+2An2zo3AncRq2xOIYnQXijqS+MeKKwl3PQEp+L1mPUeV31fwMulilE1HhLxLVAdQp+2sWTJPEtxzt12vtF0d0D83ymZt8ZtQoW/W2O3H1V1G3UVMyMC7ti855+SO0q7kULj0A41uyGC2hJ0Cvd3gLLMWXOG1UFQ9ICJZ8wviVBi1zQBr7E5CPuaN0U0iT5Mx1E6n75vE7sxqe05EZ/akW3rcfGUrAo9erQnt3CbY/AYPQIpLWGOjQRO9iyQHc=",
+  "URL": "https://getmonero.org/",
+  "LICENSE": "BSD",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1593422428",
+  "PACKAGER": "kpcyrd <kpcyrd@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "boost-libs",
+    "libunwind",
+    "openssl",
+    "readline",
+    "zeromq",
+    "pcsclite",
+    "hidapi",
+    "protobuf"
+  ]
+}

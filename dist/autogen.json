@@ -1,0 +1,24 @@
+{
+  "FILENAME": "autogen-5.18.16-1-x86_64.pkg.tar.zst",
+  "NAME": "autogen",
+  "BASE": "autogen",
+  "VERSION": "5.18.16-1",
+  "DESC": "A tool designed to simplify the creation and maintenance of programs that contain large amounts of repetitious text",
+  "CSIZE": "657119",
+  "ISIZE": "1328752",
+  "MD5SUM": "a83388e4370bb2c57b70a2d3379e7f54",
+  "SHA256SUM": "0f0caf4bb0931dc2a6c35518db849900c20acb5eabee3842bad34651edeb8a80",
+  "PGPSIG": "iQEzBAABCAAdFiEEFRnVq6Zb9vwrc8dWek52CV2KUuQFAl50lQ8ACgkQek52CV2KUuQzzAf8Cb+iLZgLOKseLlvCpNcvJCdiJNo2wtPYU9bcOrVZTm8e7wPof4uzGVw0YxwD3no5tFB88OoKvBL6wIuZiYTDiCGB/o5a5Vc4Dr7fj0bxn1rQA6G9WsFYkwpmD3ePi+zMOKXKyUkVs1Ribglsptv8b+bRnWduD5GfOw0eQZNIwFrfwX1IIt1kvNf9hf8ySDhrv8jPa0xYDaXDgFygZWncyvxLAjGItg3/xRWgJ6X2+8eezgiOx5+XFNiM90C7Ay3+ueKlIxVGd8h/e7zh8rHQSHagCzXmD/CtN0Q6inSqXzQ30aGR49r9Vv7Q9vA4YPIcWSx+la7jQIWuZgqKBXghKw==",
+  "URL": "https://www.gnu.org/software/autogen/",
+  "LICENSE": "GPL3",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1584698157",
+  "PACKAGER": "Antonio Rojas <arojas@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "guile",
+    "libxml2"
+  ]
+}

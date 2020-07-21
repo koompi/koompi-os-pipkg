@@ -1,0 +1,23 @@
+{
+  "FILENAME": "libnl-3.5.0-2-x86_64.pkg.tar.xz",
+  "NAME": "libnl",
+  "BASE": "libnl",
+  "VERSION": "3.5.0-2",
+  "DESC": "Library for applications dealing with netlink sockets",
+  "CSIZE": "373444",
+  "ISIZE": "2110530",
+  "MD5SUM": "3384adc1dd1de2244ae6b7250e511ce0",
+  "SHA256SUM": "6a4a0e4dcf1451186cf7f0bb97cb5e768e65134dc6945fe04808e7445a0fb4b0",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl3MPPwACgkQeGxj8zDXy5IceQ/+NLSFhITRVRmg6AUF2bsKvZkdiFpo9B59RRCHbeRxdyIgvfgO8/UgxYclQBJyg6PhLcVg8BzO26P0R93YUF05ebbN7f4cYMAoOINVHstMx91wcCB1HFysc+xZgeJ4sgrxNN9xa1gZZOXH8zOj48kWpId5rUoPiiNm8URYRHNPLM4+MYUkVQFt234ID6+zKeePkEXPvWDeFqW3IOehifMbB/X5H/BAts1noP9pCCuZ/bmprTymush3F+J+A43MJ1o3N91Np+IwoQekstlJ2lHQqbYobB4J1qjwF+trTiIts2e7p+9XaqrejrdlnjpkiifU7HDTEfWbv1whQN0YzvFlOcfOviajhJxcGk1NchdI0KqKBKNN87lIjSdVrtw65uzhc08D92cQoyBxJeXSvsB2SonyIwG8E/aFJ8YshsjTVvvwlFpKGf57/PayWH7hjTZjJseAB0KNiem9EAv4oOtkCOq2klvbQH9TDDZh9uPJL2oK8mbertJPeFxCl7kD7kgPKzkteFg9wAazRl2JU1RGsBfqEAwPqIOTQPIRrzm9/h45hAGjStQMA6CSye1pAUxJI45YLNv2BB/Mw97qdv+ApRxEbyF+tUfx6bgmPXbtDIfGC50tpDPzE4PVqkjWFTyjFRalf9sip/WjdDga/kynbD+P5KQ6NplQgck2aV6l77E=",
+  "URL": "https://github.com/thom311/libnl/",
+  "LICENSE": "GPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1573665485",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "glibc"
+  ]
+}

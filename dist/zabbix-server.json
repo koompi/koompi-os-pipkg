@@ -1,0 +1,29 @@
+{
+  "FILENAME": "zabbix-server-5.0.1-1-x86_64.pkg.tar.zst",
+  "NAME": "zabbix-server",
+  "BASE": "zabbix",
+  "VERSION": "5.0.1-1",
+  "DESC": "Monitoring software for networks and applications",
+  "CSIZE": "2702420",
+  "ISIZE": "24912530",
+  "MD5SUM": "0abc384335ebc77156d8a4ac9a2e0420",
+  "SHA256SUM": "8229959b31650d648cf130b0214c6c2677cd4c6654263ad830023ca021b1ef8e",
+  "PGPSIG": "iQIzBAABCgAdFiEEz6avFeXHQUn8HYwIbRZVwUzhwT4FAl7iAzsACgkQbRZVwUzhwT74xA//e3iueincDtTR0ltBbiZbd3yJrOI2u9+XtwRMNJ1exGrcCG4mCAdO2wm3AojkWKovSnWhGkKk9oVmjmqvHQVNiB6Ucf/r4Pdw01LHi1jLhMssOsbLAn9FsFwehQZrd2xrtmSIyBmmieZzILasB51Nj7CHYQKiopp+mIqaM+UAXz9ujVFu82obklaN7xA+6BQSUAJ3japRKML1SHb7hd0KAR9VD40Nf733GHtHcwXbU4RJc97MeP0mRCIxl6Naf5YdMyjFPMF5plsKs4XUMGvhSB5HWIBrUt+Vl2fbLZnlfAJTScZvxO5U+BMKS0IM1BBLZo9oI8S8qHrnVYmleLv2GDwDQUi9xRRMzsRPQHS+tkEJUSPmfljzqVQMBBSXE3huXAaVAEOlKl3x+FxOG9eArZbUaqi3oCTEUxx94Rbx65owzuZk9WbV2IO0DiggDnMaWqH/xS9VBHZlzAZV5kRLeq4O1LB/JCHZ9bb8wtaDfr8kLhwlrXqUPZBSyLH3kkJs/EO5SNgnIu4zZJ8PQYVtbXI7VljPzQWwzRRYomuGbBT+blcUG4Z70G2Gy8IJY4XK6Q6gwaVys8vFKu+60HodCkq7Gx50UtXTTggXY4o05d4pbDvQysrWSWckUNoqlh7GR39vbPlN/T73FejLNBD7WvWQISJEPpWAYQSALWEz84s=",
+  "URL": "https://www.zabbix.com/",
+  "LICENSE": "GPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1591868945",
+  "PACKAGER": "Florian Pritz <bluewind@xinu.at>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "net-snmp",
+    "curl",
+    "libxml2",
+    "unixodbc",
+    "libldap",
+    "libevent",
+    "pcre"
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "FILENAME": "lib32-libogg-1.3.4-2-x86_64.pkg.tar.zst",
+  "NAME": "lib32-libogg",
+  "BASE": "lib32-libogg",
+  "VERSION": "1.3.4-2",
+  "DESC": "Ogg bitstream and framing library (32-bit)",
+  "CSIZE": "25169",
+  "ISIZE": "46480",
+  "MD5SUM": "0a48efa4c78077cf7a25eac1b1a88e67",
+  "SHA256SUM": "8e6eaafad804c193183a5378ded0388e4c09bade8c24be12b1ddebf1a61603a3",
+  "PGPSIG": "iQEzBAABCAAdFiEEghj4iEmqxSLpTPRwpekojE+kFfoFAl61LaUACgkQpekojE+kFfrAGQf/SBFzHtOa93ukMA8BixiQiUtDVMSjVjh7Yvw+6y2mqnZpjcPAHNUxFHqkCnI4n09bt2U/5yFUxOH+RgQ6p5JcDx1O9/XVihv7KnNkdQqoEwHjNJZsjmq9nKODmftnZZQEUQlLKdu6Ctg6te6ZnCizCDGhBMkizjqkk7h0rmNEv+2xty8rPgl7GwecPu1/+4x+2Bg7lZFERzCrOqKbM2xEWqW3JWPWTsls4JKpIKfRuEX9Hq04pNphbBVLm9HCrEn0xBIrjaFCh3kvSmsmzckFMMVdgXFw/S7u+lS9kTnXmNTNAqr7q5HAwFo4tKC+3pF/YDYFPy5b9WgVLsAiRu2ygQ==",
+  "URL": "https://www.xiph.org/ogg/",
+  "LICENSE": "BSD",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1588875907",
+  "PACKAGER": "Jan Alexander Steffens (heftig) <jan.steffens@gmail.com>",
+  "PROVIDES": [
+    "libogg.so=0-32"
+  ],
+  "DEPENDS": [
+    "lib32-glibc",
+    "libogg"
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "FILENAME": "lib32-libraw1394-2.1.2-2-x86_64.pkg.tar.xz",
+  "NAME": "lib32-libraw1394",
+  "BASE": "lib32-libraw1394",
+  "VERSION": "2.1.2-2",
+  "DESC": "Provides an API to the Linux IEEE1394 (FireWire) driver (32 bit)",
+  "CSIZE": "25540",
+  "ISIZE": "67584",
+  "MD5SUM": "734ef2a79de30b977e0f1a745360cfde",
+  "SHA256SUM": "d9cfcfdfbab50cdb61dddca92ae6bfe415e96a0f5f98454ef81f7ed60776f9da",
+  "PGPSIG": "iQEzBAABCAAdFiEEhs/8qRjPOvRxR1iAUeixSKmZnDQFAlvmFTYACgkQUeixSKmZnDSIjwgAsqADrILtRE+J7TjwLfREyJZ8aC81Jpicsunbagun+D9EgQVH9haexF0EBFhV3arQCl1iIaajtW2nBcEAiQDX6dtZIiBbi+KhEE+/mdP37rJn82Z2NcS/8EA5L6d0ApeY3RbrDQdd7zPK76tZospf8rvkicAPUSXsonSV5jNiKyW6sh2NwME1wmBoHq2jxcnKX9RYs4unVcS/gbXrGoBLubePK3KbwHJY9qN6gjeRtLUTRytuMUpZjKXOeu2sJAaZb7lmhxVsH3h2Fdu/78bVYd4XopOcCy2LmmwjBybagk1uzOUJsA/v5mAs7Xow2q2FRPyiR4fgRydk5Qi8VrGnHA==",
+  "URL": "https://ieee1394.wiki.kernel.org/index.php/Main_Page",
+  "LICENSE": "LGPL2.1",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1541805348",
+  "PACKAGER": "Evangelos Foutras <evangelos@foutrelis.com>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "lib32-glibc",
+    "libraw1394"
+  ]
+}

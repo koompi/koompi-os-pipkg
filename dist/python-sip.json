@@ -1,0 +1,23 @@
+{
+  "FILENAME": "python-sip-4.19.23-1-x86_64.pkg.tar.zst",
+  "NAME": "python-sip",
+  "BASE": "sip",
+  "VERSION": "4.19.23-1",
+  "DESC": "Python SIP4 bindings for C and C++ libraries",
+  "CSIZE": "80585",
+  "ISIZE": "256070",
+  "MD5SUM": "da7789d0443ca1866d5dc0c06e4629ec",
+  "SHA256SUM": "d381be8fa9d3a31770bc850118d6b4a66fe5d6cbbbf94e070ee982e2bb4821ee",
+  "PGPSIG": "iQEzBAABCAAdFiEEFRnVq6Zb9vwrc8dWek52CV2KUuQFAl7eRhcACgkQek52CV2KUuSCOgf/TFY6wpdlQJhIkKRDSpS2goIE9LiziQ8LF/AULw5Gjz69ueo3d9Fht4OzOtg0lrmZFTP+HvIrjfhbGNHJp723Ib2O1t3wVKWed7E7z/s97EOOW4w+y13nyJcdY3xnENKy1BpUI7ucSnJ9O09F8xN2geIiFEOojR2m9XEJ9HRbarhjyUovjAmVkjX2ydCID+3QAl/mvAvYhTG1tJebzBSh5Pcac5B9n+plmYedQr/xf3JapWGt6wMnRg1+Z4Rms8L3w+d9+L8xMdz/2UF54KNjHombsGggC0DBjphW0o5yPo6qdPIznT/J3c2uvVLvqUFw4lgF/5BrV32RN4+1BsmwyA==",
+  "URL": "https://www.riverbankcomputing.com/software/sip/intro",
+  "LICENSE": "custom:\"sip\"",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1591625154",
+  "PACKAGER": "Antonio Rojas <arojas@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "python"
+  ]
+}

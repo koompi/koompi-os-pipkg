@@ -1,0 +1,23 @@
+{
+  "FILENAME": "iso-codes-4.5.0-1-any.pkg.tar.zst",
+  "NAME": "iso-codes",
+  "BASE": "iso-codes",
+  "VERSION": "4.5.0-1",
+  "DESC": "Lists of the country, language, and currency names",
+  "CSIZE": "3316659",
+  "ISIZE": "19143802",
+  "MD5SUM": "f24e144a812f23bc3db5529e4a830464",
+  "SHA256SUM": "15ae1b39ec4da1f5e7c21330aa558bde9d864e9205c8925ca66b8017a2823aaf",
+  "PGPSIG": "iQEzBAABCAAdFiEEFRnVq6Zb9vwrc8dWek52CV2KUuQFAl7l4rgACgkQek52CV2KUuSlyQf/c7lWM8RIKyXu92/Rqxp7A6IlU1Qdx3XPmlKFUg3yMg59IZ1LIEPXeKhuXJQettcF3dCCoqNkM776MGIjPwyURobkkxY+euhpqr8Qyq5vWF8ProlCIN8cb11EWD9VXaxPmKwY5egLlDxy/OPg7jQcZAmRw8BAVJyP2fewAaDlBwDj8vYZA9gdm+aaNcYJUNrVHrInsMV1gv7YgDXN7Jy9CDDG+EiawhxfpKzKmeOLWweCbjN+VFhUU6SpXpUmCnRYz8xkYGFyR1Gur9oovcjJyUDbpKRQyFXiwsJVCQz81i8cL3rn6HVxGmEAhosAUYlzhvyNVHLZ+y9/uz/FvUkHlg==",
+  "URL": "https://salsa.debian.org/iso-codes-team/iso-codes",
+  "LICENSE": "LGPL",
+  "ARCH": "any",
+  "BUILDDATE": "1592124016",
+  "PACKAGER": "Antonio Rojas <arojas@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    ""
+  ]
+}

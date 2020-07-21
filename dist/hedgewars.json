@@ -1,0 +1,42 @@
+{
+  "FILENAME": "hedgewars-1.0.0-83-x86_64.pkg.tar.zst",
+  "NAME": "hedgewars",
+  "BASE": "hedgewars",
+  "VERSION": "1.0.0-83",
+  "DESC": "Turn-based strategy artillery game similiar to Worms",
+  "CSIZE": "156158708",
+  "ISIZE": "186492249",
+  "MD5SUM": "e7e670f2defbe7666335768739068df5",
+  "SHA256SUM": "270eef452623eaf642dcf53140ff0c8fecdc565465aa0bd22ce591e2c76fb01d",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl76ZgYACgkQeGxj8zDXy5KXYg/9Hb2dimpLals5SRJjojJPNodCQA8mWv4oNg/hKO/KtJ35jGpMWNzkI7pLG15YY1p/IQdioPKTPYJNcd8uK2vFEmTPdwbNdUm41f5XHvgQ6p7Jb7/mMyhRzBjzM9FsSZz+/jbTZOPgBO8cnm8mBuBjJGw91BN4LkAU2UORaVoSSCP8PdDz0B0BKTXBdA2UubrbQhMfaSX7zajvwAfN8FUq6NtIw7PillskLccSjecPdb3rd9mNt7jninkf/zRm9Mi/PxNx+WnojwWBywNpghdYVqdvo8DuUjeId3xfjQJP27FupOAplMlBrPTbc0gzAmCh0+kOvzvSufAdcKyXBDKGmzOmuwyzGAegGJnMVc76NG80j84YA0nLyA6idhRDIkkV/Lpt4DEF80WAPvqyPBKb9vZq5Ta3E+lifxAExmwtEhA5pMlqgXcynnpXKVeLkUZs+8CPem2dkz/IR9PQQIczBzlhT6CIrQCxxCjc6KthRo/Eb04c4NfIMFxJvGNLjIBtJ8vH434XeQoBifXYFKZN1gFZspgrvFBdn1Sky/NsXrrjOsyzDshv1d93QkKZNkua/gc60N4E+CxcNzmkB3AlVjseesrT8wjiR/catepcaUOFwp+7/Em6/9jcPEfcrKINPLBHoM5sB7Elim0s8wNA90PNd5qnw+CGYfAPO1KuTuQ=",
+  "URL": "https://hedgewars.org",
+  "LICENSE": "GPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1593467822",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "qt5-base",
+    "sdl2",
+    "sdl2_mixer",
+    "sdl2_image",
+    "sdl2_net",
+    "sdl2_ttf",
+    "lua51",
+    "ffmpeg",
+    "glut",
+    "physfs",
+    "ghc-libs",
+    "haskell-entropy",
+    "haskell-sha",
+    "haskell-random",
+    "haskell-regex-tdfa",
+    "haskell-sandi",
+    "haskell-hslogger",
+    "haskell-network2.8",
+    "haskell-utf8-string",
+    "haskell-vector"
+  ]
+}

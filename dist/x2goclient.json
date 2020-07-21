@@ -1,0 +1,30 @@
+{
+  "FILENAME": "x2goclient-4.1.2.2-2-x86_64.pkg.tar.zst",
+  "NAME": "x2goclient",
+  "BASE": "x2goclient",
+  "VERSION": "4.1.2.2-2",
+  "DESC": "a graphical client (Qt5) for the X2Go system",
+  "CSIZE": "1227056",
+  "ISIZE": "2520692",
+  "MD5SUM": "8975b5529431c57fb427899e9fc84daf",
+  "SHA256SUM": "69f7dc567a639e2ce84476ba42659393334adefca829cc9bea6e46eec00ce75c",
+  "PGPSIG": "iQEzBAABCAAdFiEErcih/MFeAdRTEEGelGV6sg8qCSsFAl7RMjYACgkQlGV6sg8qCStyQQgAnmXPj/V/5BDLy3mLG+t/MNqCiCeUldM7/wNcDi9jGTTxTmZbpW4sX5m86c2rgcuIBJuj9beZsK24H+GvdrE0r/5SHg+KKFYfkZreFTdVmmY0GsweH+9Rqt7zE7Rn2ND1FwGAV0+ztC3Vh7lpMOYgMr7b9B0hMhEPASo39xsORiRTS7h01wa592yPkgQ84ncbvtG3qTg7dlRN2P7maoKVEZwEf16WFXzwar5gt/wv1YeO2KVU8KNrsMPwtGKWjM/DKhEB3vOvwoPDE2zGxBRzMEu087OuqkJrMXQvUHBG89VEYU1i+DicCxlOVVftaPcfoCvoNUJnLTMtGOqYz2Hz4w==",
+  "URL": "https://wiki.x2go.org/doku.php",
+  "LICENSE": "GPL2",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1590767041",
+  "PACKAGER": "Andreas Radke <andyrtr@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "qt5-x11extras",
+    "qt5-svg",
+    "libldap",
+    "libcups",
+    "nxproxy",
+    "libssh",
+    "libxpm",
+    "hicolor-icon-theme"
+  ]
+}

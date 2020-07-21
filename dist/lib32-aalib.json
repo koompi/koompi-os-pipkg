@@ -1,0 +1,25 @@
+{
+  "FILENAME": "lib32-aalib-1.4rc5-2-x86_64.pkg.tar.xz",
+  "NAME": "lib32-aalib",
+  "BASE": "lib32-aalib",
+  "VERSION": "1.4rc5-2",
+  "DESC": "A portable ASCII art graphic library (32 bit)",
+  "CSIZE": "42452",
+  "ISIZE": "109568",
+  "MD5SUM": "bbb1f1e81749520a6ce4580bcdcaf79c",
+  "SHA256SUM": "26a40a94e89d5cd419e03656743e0d7959d44b27b9e9e86a15682b4a6bed4830",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAlsPS2QACgkQeGxj8zDXy5KNVhAAmeuQdEOpWAIHVp4N7mrCmKOEQaWCbJmDcv1gNaAZrFmMJ+WMk1J9DNx8Zfz+Ev7x7vp3AbtuKfSgoCvvH0prXP7OQM5Iyo9CG9dWLwY1MhtIJs8w3NB9qfL+sK2NalD0CuN5oo0eVZ7hcmuhRQxCC2sGJi91q7LZsA9APvnadOilFP1Z2+hTHquCSXCBIeghkiy/xr2ZGQp9AHKDcGnAXodu6yuI4+SDs1tKdqUyzqKumwo51H6LX1vub2auk4Ldc0buToRrPXfqSKPm8dbmuIKsmRvA2v9gXSuvjKxP8ua1RchtLddny+KOz6nC223y3k3xer+H5NgHa13Qz9HyfiIQkdoSpki2+/ffOaSRrw0nMvaAZEPg4T53/v81tafHcVOL0IGn9SqqHKo4hq+3afsvmy0+hHSUBqAap+iX5v/dWEYyCGjNpCPKn2ezSaiuGiLGjWSdRXyD06/WsPi3K9t/tjyfNNdLVd0qByQOyh+9WN2J0rp2+1KxNjCaoW29y6biIuo4PNjoWcqP0DYwSmoQXIvKh2t75fpUM+bGf4TSSYWMJjdptE+6Bu/8quzc8yopghmgP438wQTwa4vQ+x9oBeRqr1gf8PiRFs90t6fO2VWC9iwChAf/dqPETsNjGhxlM16Z1EFK27tbwz9tcj0xZAt7fOik9+NeYE4mCUg=",
+  "URL": "http://aa-project.sourceforge.net/aalib/",
+  "LICENSE": "LGPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1527728963",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "lib32-gpm",
+    "lib32-libx11",
+    "aalib"
+  ]
+}

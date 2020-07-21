@@ -1,0 +1,23 @@
+{
+  "FILENAME": "croc-8.0.11-1-x86_64.pkg.tar.zst",
+  "NAME": "croc",
+  "BASE": "croc",
+  "VERSION": "8.0.11-1",
+  "DESC": "Easily and securely send things from one computer to another.",
+  "CSIZE": "3141817",
+  "ISIZE": "10543575",
+  "MD5SUM": "83059f215bfacdd9aff8738744df5e1c",
+  "SHA256SUM": "efa3959d7e3fd8a4abc7971959fb432841ab6fd737ee70b16c7bf8bdd5ab83d7",
+  "PGPSIG": "iQIzBAABCgAdFiEEgFPriIeaaMtIc9MrAR/cUtqDkzUFAl7M+rIACgkQAR/cUtqDkzVIlxAAr5Dlxk1/yueg6UGOeIRxJ7n1mz8ksTnVGsM8N66VobxyToO/no9jJN2V0oc3eFwJTCFbMtqpC6C2/RvRdd7qFI9YGkD+E65OF0igu9P1oKHY8AU++7qS8Rpw3JI/mnFJWQqYyaiNuLHtYqiFC/2bbNUh7lC1dNXUynr03yfQ/VDlTJ4BRQPwFKGcDBYIHtBurwY33kYlVzJJqYXRHNlQYJSNK6Wtu1phVDULoHDUw5U6NChgRoO6aLoFqR29YZiINXzeuY0nJ1iZc21zMb6aIa5XgS5RCFK7AugMmXdww5nm/6oKBqOS9gkoCeY560rAugFtbaAWadonL3Rkx2f44gpeOALj9u5HHpQwpvPVexF/L/LquvpuI7xddTKFZ9pCUFvLPwuSpl9KfSLg1Jyoeq7R3Xl4jjdlDOTuuJM3l1wVcSkUOgwlgD/yrOBQsm/S7+sl43yhCFst7Qt/snML17ytzsvXk3AhyVYNdXA2LDHGi9oyMnMKvnyniCxVctw/Mn6onSAD9m/JQJucOQYqd9oM60Bntwva4zgfxZxyaE7s9H9EBRV4ZhOs3tXuWSoZq1LtEnkVDgvxlQJTjIN41fnA5K9mSxVjBDx9X8u+PjQSM6fnbVRtKp2weIe/E7QBZEdO+b2bKaKKDvrdYMsjaVw66W1Ce/z/L4pL9I0TJe8=",
+  "URL": "https://github.com/schollz/croc",
+  "LICENSE": "MIT",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1590491616",
+  "PACKAGER": "Maxim Baz <pgp@maximbaz.com>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "glibc"
+  ]
+}

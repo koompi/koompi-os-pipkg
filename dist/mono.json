@@ -1,0 +1,27 @@
+{
+  "FILENAME": "mono-6.8.0.123-1-x86_64.pkg.tar.zst",
+  "NAME": "mono",
+  "BASE": "mono",
+  "VERSION": "6.8.0.123-1",
+  "DESC": "Free implementation of the .NET platform including runtime and compiler",
+  "CSIZE": "54085375",
+  "ISIZE": "263788110",
+  "MD5SUM": "157b64fe8ab13d1fb7001c812631c04f",
+  "SHA256SUM": "56965358598eeedc97629a4941a04d482bdaf95d8e1aede7e178acd39e632c3f",
+  "PGPSIG": "iQIzBAABCAAdFiEE7MrITBugimzI5j+78i+x14p3rqsFAl76MAgACgkQ8i+x14p3rqvsxg//foDB6FAmtUVLFPEufE2SLCNzXATSmnRRwvnHRfbLg5RCeiSC5ilr+nD+DjIZYtotTcJpX/j5tu6blyUpN2+gjdQiK7A6KfkTvmWMvUMnkSI1sjs3phRPqkitbCbpP1b7t6JItHgAYsAzSbvXURZYhD85DrIzzZlW2jmZyH+M1F1KRsYcBF1HR7MUNcMzJVd+THZhdePwljM3YGDd/hZhRG6GDvNEg/trWodsMI55jJ3mLO+vPlDWniRTWzpQ25kgZBQwmZBhqBg5oEGfdisvPwZacwZD2VSBVFef6tm5wVXoInEE2h42QLpTOf/zJykFp9/TgUmyPMPAEVq5kWw0qGk2kDzzGzCNWOzaETjzUATVQ+aTPXe7c+FjflGEASh9tONLlsn8fG/Ad+FpzL9JO/aVeTLDMHg6ccxYCyxzRD3LjAKD30YQFtGQ+vrHejVT7q2OWh3t0cjaIkFgIbUxk8yECX1s4C0RlXwWBH3DKUnZ9DasWqW8oUqXeihxYg5svEXB++xCOgVr9K82hFyGTiJ8Qg8knXdigPtui16lffGZNeNxhjwf/LX5htOEtmqXk7UbwvikF3a5K+ZtXKwe/ZOkoIdiFvGrs5lrQIonEvVuUigQOcHE4nfIucS9GiU00dg1kXT5pWmDzYHOuJWyQuE85u6JzKEf2S8l+/2igDM=",
+  "URL": "https://www.mono-project.com/",
+  "LICENSE": "GPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1593447182",
+  "PACKAGER": "Giancarlo Razzolini <grazzolini@archlinux.org>",
+  "PROVIDES": [
+    "monodoc"
+  ],
+  "DEPENDS": [
+    "zlib",
+    "libgdiplus>=4.2",
+    "sh",
+    "python",
+    "ca-certificates"
+  ]
+}

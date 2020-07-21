@@ -1,0 +1,23 @@
+{
+  "FILENAME": "libreoffice-still-da-6.3.6-1-any.pkg.tar.zst",
+  "NAME": "libreoffice-still-da",
+  "BASE": "libreoffice-still-i18n",
+  "VERSION": "6.3.6-1",
+  "DESC": "Danish language pack for LibreOffice still",
+  "CSIZE": "2413981",
+  "ISIZE": "21367063",
+  "MD5SUM": "11061a9fe92aef9de70807c68a9b6825",
+  "SHA256SUM": "bdcfc8006f67d5e58d643c1c94a4aeba3e1fb6d9886de820fcedfbe44f0b10de",
+  "PGPSIG": "iQEzBAABCAAdFiEErcih/MFeAdRTEEGelGV6sg8qCSsFAl6tSrwACgkQlGV6sg8qCSsGVQf/WVkRLJSBYRj9HbacIeG3STuvfoKUzzQq6/fdDCHs07fEgPo/Dsm1VFL+RwtrzNHTpB3QOq68DReoaBwdUZeX2Q504W5Gg0ccRLOBN7s71nDeFrFo27/9Jp3oBkol0V77eniusTejFCGup/bosyJDUKVsEQyXza2C3UfX2yWWd9ROM6KuomBiVP0f2+cr7OH7nMHaqaRJ7mSXvzibPB7aeBkw9CTr4Sh0oajlCTa4YC0E9dCE/QQ6w4kHXgMw24fxC7ZHj2DPhoUm4x0Z3k1p8zLj1/xjXniP05bYEWIKTSY8Jd5GULLSVuuoNb3M108lO0L7U9o3JOYsp6S7IGatZQ==",
+  "URL": "https://www.documentfoundation.org",
+  "LICENSE": "LGPL",
+  "ARCH": "any",
+  "BUILDDATE": "1588407321",
+  "PACKAGER": "Andreas Radke <andyrtr@archlinux.org>",
+  "PROVIDES": [
+    "libreoffice-da"
+  ],
+  "DEPENDS": [
+    "libreoffice-still"
+  ]
+}

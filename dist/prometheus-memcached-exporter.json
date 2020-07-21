@@ -1,0 +1,23 @@
+{
+  "FILENAME": "prometheus-memcached-exporter-0.6.0-2-x86_64.pkg.tar.zst",
+  "NAME": "prometheus-memcached-exporter",
+  "BASE": "prometheus-memcached-exporter",
+  "VERSION": "0.6.0-2",
+  "DESC": "Exports metrics from memcached servers for consumption by Prometheus",
+  "CSIZE": "3447041",
+  "ISIZE": "11989504",
+  "MD5SUM": "a36e315882f9661865ab062483b7c3dc",
+  "SHA256SUM": "ba356e3995094a55639865e1d372da7ccea576c79dad655738394a0e904a77aa",
+  "PGPSIG": "iQEzBAABCAAdFiEE5JnHn1PJalTlcv7hwGCGM3xQdz4FAl5YNKsACgkQwGCGM3xQdz6otggAnT8dQhLgkuHM7kB/8D4afslWsQvnAwz/iA6OyurjkA14FgD9si0vltzt7Uiny6WtFbA1WHPlqxrHAEeXaU17E3B8FAAuBr/I96y6Q24MQn1ogZbCdwjhZLBgdAOQUUvZJwJNWAhRt9y55wkLc/dhAhsiRquy3Y3d1aRLYmpsQvqI5mx+SXlWqMcB1gzYJY7cq952rCcXwkdY+JsTU0xeXI15HFSqwRXAStACRbvYfzVjifogUEq98R5X1QyZPbQvbuvTfrLtzErI7Vo38KTBiR69HKZZ8eq7N5SQ2krLiHsohMxvnG182Pt54Sycfyn8wuawH9ybpRhTEXqXkty9tA==",
+  "URL": "https://github.com/prometheus/memcached_exporter",
+  "LICENSE": "Apache",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1582838806",
+  "PACKAGER": "Jelle van der Waa <jelle@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "glibc"
+  ]
+}

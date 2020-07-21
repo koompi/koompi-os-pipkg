@@ -1,0 +1,23 @@
+{
+  "FILENAME": "python-biscuits-0.2.1-3-x86_64.pkg.tar.xz",
+  "NAME": "python-biscuits",
+  "BASE": "python-biscuits",
+  "VERSION": "0.2.1-3",
+  "DESC": "Fast and tasty cookies handling",
+  "CSIZE": "41088",
+  "ISIZE": "106343",
+  "MD5SUM": "723d5ab2963a9eb7ff5276c6ebd3441c",
+  "SHA256SUM": "8a9fce6bab16200d0d1606809d36e5f96612417d3601f6cfcb36d0d3b2be33bb",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl28NVAACgkQeGxj8zDXy5IOThAAtKVSxJX9CrOJvXICJ9ALlgyyPXm3bHYpQ1nWdzNcinHXP/OqBhkjXXGW6loZWDfLj77uY3iAL4yTfo+kQwmAgJlJapMPoFJjxUTakXNUyo9S6RSq6ntZAF3T/HFh4FeTumkykIzB5RVLidrhg3Sy45zmtRhRi9H2UbN+oj6HWjvcSQJP/WJoK4e4qksuWJ/8ajM0pYUyjVrcDqki5yXhSFmAWV/ejcHda75itlyczT413yrWtoeprlbClLELjeB1lz/eax+tsJteMAF4dbpZUebog2cYumI+ObaZFr9uQSe3aJZNPX+2Ye0pL8MMYjfCpi+FRP62Z4w2H/K2ZA/6oITrvzhL72Vg0yTlTEAL2ovIMVsc4vtPBlGjunwjoiMGlqge7qSE8aEszytwUyJ+1Oawo8XtvjJGQ4UkNzsvJbZ87KMIYesQwSLPbZaGjjExfGy+ohn8kOyUdOh7lH/nC6ivAQUfXnD/gBArc+dWcRkgDy8J+vBWufZFEu+J1zCAqZatNb6oZyuph7NK0OcVSsLiP0zw/MDMoWfuofEs4aFCKq4ixz9T3HmgQoDkHlVEWdvYCCtoWRDr7AmhlBmj+lffz2XjOpWTKz5qNS00oF/mbxnv/BkIMe1kXHkhI92odMGPRIgzw1iIyPqyFusJRjGRxSIwVPbsPKDM4fr80sQ=",
+  "URL": "https://github.com/pyrates/biscuits",
+  "LICENSE": "MIT",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1572615464",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "python"
+  ]
+}

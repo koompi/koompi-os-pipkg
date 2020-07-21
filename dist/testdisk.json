@@ -1,0 +1,26 @@
+{
+  "FILENAME": "testdisk-7.1-2-x86_64.pkg.tar.zst",
+  "NAME": "testdisk",
+  "BASE": "testdisk",
+  "VERSION": "7.1-2",
+  "DESC": "Checks and undeletes partitions + PhotoRec, signature based recovery tool",
+  "CSIZE": "443239",
+  "ISIZE": "1644205",
+  "MD5SUM": "93b97d740ae1f69e2be6819b76b672b6",
+  "SHA256SUM": "7ea7e2ac2bfa7a3417c371dfc433bced21fdee432ace148f469801f06873fabe",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl6/xp4ACgkQeGxj8zDXy5JyeQ//REZvYuZerFavPMYjquDnO65zk+p1jLHG5ZbY7XHAVTieATyU+RD9Qr9Wla8gHkOXXC4kbu8M4LOCH8hhnX2BEZQ8X53M3RhRw8a+e75mQik90xbibBjBhuBrSmqPuclVHmrj7gJFClQkAJcGxpij/kMhn3l+mUzTjS75nBnOfo7WQgD7UEFfQqoVWmtaXG49PWjhVt3KOysTM0dRqMtAYJ5F5inxkHzdoNEdtMZRLbUr6D5Z5eBNbl7bbgsxoSiyjBx0DuiCzRJfeJoklwrDf/N2shDA2ZN4VFhTekvKtU6H36T59GAgUSuQhVwlP1cnIZRVfqHLX6kKBNdNT8weq51+1+Y1N/pYqP5urtRCoA4XoLmK8BMfuvz4JosGA0TDsO+a0EZZ9kPfh0s6xs5jk5aOPLmWgAWcW24djswv9nkXvtq2OYAeXqB+lqrLplQRauXeuu2Nu+qvqzF6UQtK3RqRTjLHCLdoDyMAI1XgsVw22qcZaUE2oH6aCLyT4D+SDE1Di1CwvvZSTsaYU1B7FG6/HLUyaTcPruKXQnqT5R4K6k2Ik4wT7J+aSUapN/ocGLs+fqDRX49YhiPz6myA9oZ1qnVOLXut2ogdLbpWucsmt++PIiu4U8slwQ5Zm+sID8YCyDfFT6q7Gs4mUXCjpXDAehW39EpdvsMNpEKx40w=",
+  "URL": "https://www.cgsecurity.org/index.html?testdisk.html",
+  "LICENSE": "GPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1589626483",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "libjpeg",
+    "openssl",
+    "progsreiserfs",
+    "ntfsprogs"
+  ]
+}

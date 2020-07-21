@@ -1,0 +1,23 @@
+{
+  "FILENAME": "libthai-0.1.28-2-x86_64.pkg.tar.zst",
+  "NAME": "libthai",
+  "BASE": "libthai",
+  "VERSION": "0.1.28-2",
+  "DESC": "Thai language support routines",
+  "CSIZE": "181667",
+  "ISIZE": "672231",
+  "MD5SUM": "66f59e01080f2f65957b41482da39665",
+  "SHA256SUM": "f2780887bd1dde0a615e2bbef3cc4b86d00e9d722b27c3515181c9de5c95a06a",
+  "PGPSIG": "iQEzBAABCAAdFiEEhs/8qRjPOvRxR1iAUeixSKmZnDQFAl6/sFIACgkQUeixSKmZnDRptggAtMUy35qDgek8oTSAiG6Xmk3h7R0l1E7H1oCdUS+FeVe11K67IqCLWQ56Y/wwHM5srhR0FWghVL7Xi84Jv2RbjEggd7oYOgqN0qI1QCxGfqUQT60By5E5Pncey7js7ISfnq3GECsVN8ipBT3Ow0FVxY66JtrciHZlQL7q2qExmXvXwIiqGpbHwvr/6cL9Ahsh6JHfLlKeExacyPT7DeXFhb7TVShsiTouUWNmK4C2H29s2YM3KzdFGSG6dtIARG1ag1xD/NKNqjnivlGU3dZrpu/G5jTJ5L2EihMimh0BHBmV78sPcwbEKCMV28IzvzZENTsFxuhtHDlDiRm5On82kA==",
+  "URL": "https://linux.thai.net/projects/libthai",
+  "LICENSE": "LGPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1589620793",
+  "PACKAGER": "Evangelos Foutras <evangelos@foutrelis.com>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "libdatrie"
+  ]
+}

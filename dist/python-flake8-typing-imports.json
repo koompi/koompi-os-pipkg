@@ -1,0 +1,23 @@
+{
+  "FILENAME": "python-flake8-typing-imports-1.9.0-1-any.pkg.tar.zst",
+  "NAME": "python-flake8-typing-imports",
+  "BASE": "python-flake8-typing-imports",
+  "VERSION": "1.9.0-1",
+  "DESC": "flake8 plugin which checks that typing imports are properly guarded",
+  "CSIZE": "13819",
+  "ISIZE": "74647",
+  "MD5SUM": "dfda588b59d64ff55555adbe8a96e279",
+  "SHA256SUM": "57a3004452b99d8eb893e51e11429b9f201a6e0ff158438e1ec83707ac49549f",
+  "PGPSIG": "iQIzBAABCAAdFiEE0jW0leqs33gyftiw+JPGdIFqqV0FAl7ivu0ACgkQ+JPGdIFqqV2fRA//SzIS03nUFyqTXtpf2vrerDd2n9n1iNLfUG6IVG9Dbyb757frNNYlY0U0GEc6+Ov/qy1bPn39Pmkk0aYbKCy5O7qEQH06kzE//bJN+1XhaBvpi6IqbvqTeD//paenOrhKx6GAtTCJf0Cb55k62qO6M8i7FkERHxHMEqQaLblqcqK8ZEzc0aDBKC115ge+6C5eIIIe1nCYHqTLynxf5+V1w8oqF/Q6t379G+4rdICqyUll2E1ijy1nSkbqOOCMeMJm5juMti2o4EiBKnfwWbsbZJlSt9+jQQW+3LOkp7plb21nS77kiofjtqKQSnxJlYvfbVjCZvxh8gBYOe6iJp6iMPdK/Wk4wegParmZsQdkkWOdW29LBZWpthOFPCHzmkdrbLpOYRd5ZG8LkvZj8E0d4YBUQt5+9LukXtyZPhywyk1M+0jgzwm4T1x03ohTg/xonLzGnaG37K9RCFCq2i/XP/xJwF/XSw7/9f+RkTT6mWk+McrgE5j58s+fjFFm31SbYnAtxKtAuLAMS08i3xdrDjIXhCAdNqODeC4BStCOvBxGvWZTZ4mPvfYh2fzvi110mGPaZx0VAD2pKidZDhWaLHhNSzCPFLATtHjlJ4zJP+khziW5gAKYgzYn2Fpd5PtKBnhdWAGwwgIYPuafLacpPQNrxu9ihQxK1fVcNiL3esA=",
+  "URL": "https://github.com/asottile/flake8-typing-imports",
+  "LICENSE": "MIT",
+  "ARCH": "any",
+  "BUILDDATE": "1591918245",
+  "PACKAGER": "Filipe Laíns <lains@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "flake8"
+  ]
+}

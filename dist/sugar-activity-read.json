@@ -1,0 +1,25 @@
+{
+  "FILENAME": "sugar-activity-read-123-1-any.pkg.tar.zst",
+  "NAME": "sugar-activity-read",
+  "BASE": "sugar-activity-read",
+  "VERSION": "123-1",
+  "DESC": "Sugar activity to read books",
+  "CSIZE": "152839",
+  "ISIZE": "907303",
+  "MD5SUM": "7b3df9b6c6222614d091fdcd6e783ac0",
+  "SHA256SUM": "bb169aedb2c2fcaf6cbd2588c67400c89c94ff65ac452cff71c7dfb59bb082be",
+  "PGPSIG": "iQEzBAABCAAdFiEEzgvecadZqH8j8PfYth284QkBwWMFAl5mqSgACgkQth284QkBwWOoWQgAmQrPhQu5SDtiOGhdSDa9rW0ysbFYID1+8zvGZ0Z9oQfLlqsb3sI5LHvMlGDFGnNmXdIBbhA6Xq8t70nsH+PQxdXjUazsCC0TybxvAJ6UwLQFBxIzBYfJIwUMvw4XTwUloLkvLmIBNNg+1bkaJK0ej9uAH9hZFw6iBFroaB+AKwG/23JY7QO1dcjlr1rYSWclXamQw1hYPPx0otoYvK5X7J4mbLn7HUaCvf8UIEX29bicFu1cAtKUfLOfsK6+CTp8XnUvJMYEhMxfBaKoZpXXZEqymfX9NiF7YwhTxoEQBPczVekuFQa3P4zmgrnTZnWpXqLw1KLcgC2YpntlkBJreA==",
+  "URL": "https://wiki.sugarlabs.org/go/Activities/Read",
+  "LICENSE": "GPL",
+  "ARCH": "any",
+  "BUILDDATE": "1583786234",
+  "PACKAGER": "Balló György <ballogyor+arch@gmail.com>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "evince",
+    "sugar-toolkit-gtk3",
+    "webkit2gtk"
+  ]
+}

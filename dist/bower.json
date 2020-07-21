@@ -1,0 +1,25 @@
+{
+  "FILENAME": "bower-1.8.8-2-any.pkg.tar.zst",
+  "NAME": "bower",
+  "BASE": "bower",
+  "VERSION": "1.8.8-2",
+  "DESC": "A package manager for the web",
+  "CSIZE": "2949304",
+  "ISIZE": "18729547",
+  "MD5SUM": "52315c4b12bf615e2eae589785f8b4aa",
+  "SHA256SUM": "d9a22d3150e6fd4b5622d5cac58f576a49569ab31da1e66db9b151e3bc4343ec",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl8EckAACgkQeGxj8zDXy5JLxA//ZWw5yBJeiYE+34WtcyMGhNWsXh8prUc2hro21Ap0P/EOX8+F/0QYmgoTnFepAMoBM8TTCJBkKAHcYMcp6hHK3R4UdmGWGxBCl+eDGWmDHi6Hk0wf6A62BV3MmChtksIT/UsatRt77qpX3S2FPCpVxPaNTG5LZP8jpwZ1fTQ9lE8kwqnt7nnQ1mxMY5BXCb02YMNkhietS+p71DBjjXv+viVZd8qTjwEZFsYmo1crnXDEHeoQqEp0DK93ZLBRKbr9t6EaPrzA/AziQPxgKrhalJjcqqZw7KXmMB1JI0a8BUb2t+HqBk4lQYcOUGta2lI1upKgzVL6oe4Bj98JnDTjcYXEGrT9kObN/GbFbrjvsURfYcRuxKtCE/pWuWm9CBoZZ/kHKXAiCta/A4mhFXsrJZNT0eocYfsGqohfdvebWS5Bnk+mocZnnGEICOXBxhKmq/2g9Kt56mgOb9MGl68SMVqlSoqExKIvzHynx5yxe/XfuZJaKcjKQykcx++mQ4s7BBj+BYupzYeL6MA/hs9Uncth9+BeJl6yk3+HLf48qkLqsSfNvBvFpt7ww0haIG+vXMqce9Sj3CkKr9yrzGS5aeUrOBz6/gxT4FICw6zDJoYbaKnVV0zoUNoeMKU5rZfGJTclkowqgKM2c+mBWxT/1MZAU8etEWWXFn13Y+23sjE=",
+  "URL": "https://bower.io/",
+  "LICENSE": "MIT",
+  "ARCH": "any",
+  "BUILDDATE": "1594126732",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "nodejs",
+    "semver",
+    "uglify-js"
+  ]
+}

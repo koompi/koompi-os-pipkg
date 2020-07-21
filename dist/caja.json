@@ -1,0 +1,28 @@
+{
+  "FILENAME": "caja-1.24.0-1-x86_64.pkg.tar.zst",
+  "NAME": "caja",
+  "BASE": "caja",
+  "VERSION": "1.24.0-1",
+  "DESC": "File manager for the MATE desktop",
+  "CSIZE": "3625436",
+  "ISIZE": "17907914",
+  "MD5SUM": "be2dfab3414d008d882fbd17fa9806b2",
+  "SHA256SUM": "78caa94702b76105a32eaa9c39a7766df3f818afcd1b8404fe60aaa2a687bcd4",
+  "PGPSIG": "iQEzBAABCAAdFiEEzFln1AlbTztC1F+ggaQC1POCu70FAl5VeiQACgkQgaQC1POCu72Jbwf+K/R4PfD+GrB0aTnt4qMVy1oEhrhuHSplGkH9vnpdPX/yJkqt9hV1QFq9jg9lZsJk1riCCmuVgpTiwiZgzTXn72G6lUBS42vkejEG+78iUM6oQxZaq/ABW3yJUM361aeBK5O6YzaqVJDsTSNWvJHo/T+t7LmfF4yVctKnz4nkKLcS/24iFXCWENzVLUy2vb8F979e/ADbAVml36bToEB3i1JhMDWBovWEINqd1MUwj03GF2OQ+niaArAXFC1xEWLxJ0OAmWmyo9Hfi3B01BPNEACjCpvHopg6/EftCivHw0Xo/Xdlqhn4dLVlkftE+O9qnTCzejQKf5wNdvguFelM0A==",
+  "URL": "https://mate-desktop.org",
+  "LICENSE": "GPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1582659882",
+  "PACKAGER": "Brad Fanella <cesura@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "exempi",
+    "gvfs",
+    "libexif",
+    "libsm",
+    "mate-desktop",
+    "libnotify"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "FILENAME": "go-bindata-3.5.2-2-x86_64.pkg.tar.zst",
+  "NAME": "go-bindata",
+  "BASE": "go-bindata",
+  "VERSION": "3.5.2-2",
+  "DESC": "A small utility which generates Go code from any file",
+  "CSIZE": "872402",
+  "ISIZE": "2757057",
+  "MD5SUM": "724d62707bda9bebcbfc969912506446",
+  "SHA256SUM": "52271c327d0ac32e22db7b62c81be8f83f154134ef39126700fcc42034ffc739",
+  "PGPSIG": "iQIzBAABCAAdFiEEj8FaBklQqZ3RvRTdOeS4d+YuuRUFAl7W4TUACgkQOeS4d+YuuRVlEw//WezTesNheRJU2B6oMvsBuBXXSgLU1pIDNFaCuPNYQCJfaiYOjcg6qcIdxl7kJixnFEOC3PfnseARKJ7SViBmzjP7GVeIy3U3eoVtxAtD/r2EJcHbCkMNuiXAZDyzgt2G3jqkuOgbCjCadDAePzfxKYRbbJ/tyaN09Ja9owWxw0Y38cMgzIf7r28WZs7V3JdnmUTHD59FVOf5lLzJW20KXQXfwKeP0sNFKA5PpXc1OxKIOcG7i2n296Xoh8MBJAby5NC2NovtE7Kt8RflxG7KzMzaxybVc47AUZ4XigjMQEwnYduilU+7uu/ZotB+W8w4Hk8IeYrtzV9bQbeHvFBPo05EYVCezFGLAb5RuduonfEdkhLQjT1sqP5ssjmnbYik1z0bmC9oVivFb5IDsnFjJ9cA2pCtjRhD158Goqvhst2plbBiK1l5eo+yC+b2vCJs9mWUvRskMylgEEWaexFhG4t/f1j3gtYeR5aQDzT1rJtkMqCqueYKY72qpVfaXF80dPkap1H6cv6QvJ0TS2KTuZrbmRZyQqKmRPAm32ogAEtn5RWFbwgqbTBpfGDnwkWX03FWgiNErs4mOgQlSlj5QaTscMdGb7e9uaM8KaPvplPmMH5dxeaY1wdiuFGNAGqrvXgZB/t/UihLyY4b9gx7TW/GkAqopUSySfIRk01ue1k=",
+  "URL": "https://github.com/shuLhan/go-bindata",
+  "LICENSE": "custom:CC0",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1591140510",
+  "PACKAGER": "Sven-Hendrik Haase <svenstaro@gmail.com>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "glibc"
+  ]
+}

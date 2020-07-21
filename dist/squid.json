@@ -1,0 +1,31 @@
+{
+  "FILENAME": "squid-4.12-1-x86_64.pkg.tar.zst",
+  "NAME": "squid",
+  "BASE": "squid",
+  "VERSION": "4.12-1",
+  "DESC": "Full-featured Web proxy cache server",
+  "CSIZE": "3168587",
+  "ISIZE": "11501292",
+  "MD5SUM": "142004c3c9ce00a28827b77d3d6e13ad",
+  "SHA256SUM": "faa6d92c6817a0dd7d6ed5e1ca05c1e94de9a499e73c013dd074b3d790d10340",
+  "PGPSIG": "iQJGBAABCAAwFiEEPlGL8lJv0Zeeiq5JZcEQwepDP8cFAl7nd5ASHGFyY2hAc2VyZ2VqLnBwLnJ1AAoJEGXBEMHqQz/HUXYP/2PoDb9FANYBuYD/zrdbTs4NEidYhXdWxEt8SnM97wd6dtxHg/sVb3XPj+rley+pw2aw/NIJuotu68JFsHVs+v+hH0pPorLvMoYbQaNM5imy5u02hRS3OgUfHPpPAY12thHFqAO6F5gtwoMEfuOUWuRq0zYvXg9ptQLTCnN7087DZ58ZKcOackA/kx0lCWwu1foFiwTWfTWsCFT0iX5Tv8nFG3AllVc3c7AE8VqHJYtYwnQfAVDRRZc8oo4p72DFtrN4nBpsiemgv1efT4UTMjn9iCTACbrcXoNkJlCCguF8nx2qywybB2MC/EczuS+n6sNyBrpU0IhqA/RBQhPyq5mnU0UZyOUhTCsFE2lHz4bJkRH6kqJbdgCT/KbQiD0B0zTJygQqyrBStFTytcJEviL40hPHD/Y+m+96lIymqmTNx4msWgFBFCPjU6tJv1wKVCaxncyeTZKtoqBozUHBdCkPFOoIV/eepOZezyGi2HgxjMv9p9rSf/aqk5uoG1CGZ8+8rAsIK0TSFDKJTMwF/61WB5bQMzJKR44Yfq9LibWAab4dArxhA8c1niractfQ4R+0GvABtTwBH7BjAKROKS+gFV6/XICKgEGzLhOkyK3VnyvKuPvQdqpo91RC+uPLYxyh9TP4+C4uCg1/m9s4y6dzZmyMDYlTtDWk8F1FNjQd",
+  "URL": "http://www.squid-cache.org",
+  "LICENSE": "GPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1592227173",
+  "PACKAGER": "Sergej Pupykin <pupykin.s+arch@gmail.com>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "openssl",
+    "pam",
+    "perl",
+    "libltdl",
+    "libcap",
+    "nettle",
+    "gnutls",
+    "libnsl",
+    "libxml2"
+  ]
+}

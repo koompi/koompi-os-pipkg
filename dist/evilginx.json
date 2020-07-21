@@ -1,0 +1,23 @@
+{
+  "FILENAME": "evilginx-2.3.0-6-x86_64.pkg.tar.zst",
+  "NAME": "evilginx",
+  "BASE": "evilginx",
+  "VERSION": "2.3.0-6",
+  "DESC": "Man-in-the-middle attack framework used for phishing login credentials",
+  "CSIZE": "4318945",
+  "ISIZE": "15103057",
+  "MD5SUM": "72d4d2bd4b9af8e79a34a418a8886049",
+  "SHA256SUM": "7cf80f1355aede96b777b0ceeaddfcb05515c534072303dc4db075b2a2f3eb78",
+  "PGPSIG": "iQJLBAABCgA1FiEEktnGzemaICTWkKdu50JoO6CMsv8FAl8B9AEXHGZveGJvcm9uQGFyY2hsaW51eC5vcmcACgkQ50JoO6CMsv/XuhAAmhUcw7AHsqKsXg157AoBE3HqzglsGouZdNmiAcodTaNnOOTepYhZNUUbCO31djzmJNUlOuZxJMg3d9+C5NKfhYUGH7d2DMZqqVaYCKXJtMjBe6nnH2gNnhofMmVY+ZgIupcK/LuDIjYMpaCnxOXDV60eoBuW80Y/iMoChFNxNYunfbE7RfmbNQrqIlj6eRsu0AkT+7rZJodSG+z9h16qnLDrMUOAOhElh+/msVb4ZfDEA2HRR8b6aSd8D48PQCnsglqznDl95Im4ckT76LC16ZtMyTMPm7a0gcHEB3yVZNa+1ZQq2xsiWCG37CBXNxcfX7LjTyZg5ewKlID8GIqwg7Zzfvx2aomJgNbDMmGd8hQgywxjRaeKJJnvR8OoXJZEpYWuD4kdonzqqcgRLoxdxkDvd38npbmg5VKS596KEI5rcqD3DO11LUdj3br3wdk5TnVfe2hOPF64pBNBfdRwCGPABdhsuEdCdGGq9BEcfzgzrk4kywQ4HJg+RtSF/GMSulw/HWjxYoZo4kuXUT+DuXD8aj3schKthtanDc2/Ba9l4cZyIlV3FEft+rpYzWhKIgksZUBcp1OHNQAJmrGmXCg/A2H76GtzNIg0NnxuRszUdl4IUZ6N4vRSEpmWEOVeFebH6+CQoPcjzr9FGIlgorGbSbmZss8asSdqPUuKsuQ=",
+  "URL": "https://github.com/kgretzky/evilginx2",
+  "LICENSE": "GPL3",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1593963353",
+  "PACKAGER": "Morten Linderud <foxboron@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "glibc"
+  ]
+}

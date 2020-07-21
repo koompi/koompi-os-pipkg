@@ -1,0 +1,23 @@
+{
+  "FILENAME": "python-pydispatcher-2.0.5-5-any.pkg.tar.xz",
+  "NAME": "python-pydispatcher",
+  "BASE": "python-pydispatcher",
+  "VERSION": "2.0.5-5",
+  "DESC": "Multi-producer-multi-consumer signal dispatching mechanism",
+  "CSIZE": "18696",
+  "ISIZE": "84063",
+  "MD5SUM": "e3d29e4be984aba646b5626495d5448b",
+  "SHA256SUM": "e26fb38412f183a3702afc56c333048e64b5127b8a217fd592f2dc636f8ecb4d",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl27FrYACgkQeGxj8zDXy5LccQ/7B/yqcdxy62pAtB8wS3fcdfM6UBw7VRgljNx5wXYMy/kgJ725x3Ljs6FwdvmODxnyZxvzl0P/H8vSpryFn3TsXl+N5KkhRbRjvijWNZ2MVma2DZ7GABTlm9BIaGPJn1sawBiKMw6dyK7yGMgX3wawubkvLVp3rmZex+QOd8/ajtQMTaZtMAPE61qbDmRMDv5BKJSQ4lJ0xI6ktzM7yeni74dFtN853/TO5GkK8me68Z6TOVVGLOVTz1C2F/l+vPwS24BI1HaSrXvbhwdPl8yt0RREeivm7Grx7O7VSgBT1ZAIp3hytP8t9TspU009VeFGjDhwOfP0W032WmFNPsrt2H3bSEe+Pr2iNAI3UZrjlvnCkhkallao1ztMWAHEx/k2ZYggrbR99VgIxWJt2lVYXjvqICskIwwpNraPHizzhxX4fN3jAlYVOR1ejm2kGF9oUsMtykhIUZZrOATD1M5a6vqy8FS3SZXl4GRx2TMd1shYUEQrlocirOBp35zMw5pB6Dp6zxvwnSn4yGEknDP/V73xeb2ixTzrtqoXe7sExfi1X24gBwIicLk/m97LZtWWKf9ZrjpZ++NajF9uEm3KayYqr0yfK71silS+9+E6K4EAHEcjMdR0hLF+VRxABifT+PfahBOIfpHIoYEYsA0xraHV0CObDMRPnaGXTb3H2/c=",
+  "URL": "http://sourceforge.net/projects/python-pydispatcher/",
+  "LICENSE": "BSD",
+  "ARCH": "any",
+  "BUILDDATE": "1572542097",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "python"
+  ]
+}

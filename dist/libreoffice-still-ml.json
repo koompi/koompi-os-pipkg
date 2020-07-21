@@ -1,0 +1,23 @@
+{
+  "FILENAME": "libreoffice-still-ml-6.3.6-1-any.pkg.tar.zst",
+  "NAME": "libreoffice-still-ml",
+  "BASE": "libreoffice-still-i18n",
+  "VERSION": "6.3.6-1",
+  "DESC": "Malayalam language pack for LibreOffice still",
+  "CSIZE": "426903",
+  "ISIZE": "2645716",
+  "MD5SUM": "0b4fffd0695abecf62d7cd8228496d7c",
+  "SHA256SUM": "db81e4f08e88f2f4bb2bf1df46101096e541f2c313fa1de945b95a29636edfea",
+  "PGPSIG": "iQEzBAABCAAdFiEErcih/MFeAdRTEEGelGV6sg8qCSsFAl6tSt0ACgkQlGV6sg8qCSumygf/fOEmWw4d6l3yMZew5IQ4dW0ehCB/Qiad2C6SvyNbOjw+KpCyox/885LYuEJ7amT+oz08Ub2vCTJnFocvobcPRIg0Uvr4LvE/Ks8sh9zCkXHVlVBFO6joRG/1FfLXQxaKTie5cZZlFrGdej2gAwwcKqpoW0zX+RZQABkGDYIB/uHaKqC+0NRzkAoI1eIg4ceubVkX+LJ9HsWJcMUZgMf90rWBPwf75GT/UewXvGjUquNmgCwCJp6IFK4VtpGgNC9+DXA5FxsUICYQOyc7GdPKTElP07u/11PuLGMwCoCng4Una9MnPHN7irM6kDKPyKsGUoRhQJzYz2EGIMHw11qPvg==",
+  "URL": "https://www.documentfoundation.org",
+  "LICENSE": "LGPL",
+  "ARCH": "any",
+  "BUILDDATE": "1588407321",
+  "PACKAGER": "Andreas Radke <andyrtr@archlinux.org>",
+  "PROVIDES": [
+    "libreoffice-ml"
+  ],
+  "DEPENDS": [
+    "libreoffice-still"
+  ]
+}

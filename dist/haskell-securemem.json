@@ -1,0 +1,25 @@
+{
+  "FILENAME": "haskell-securemem-0.1.10-89-x86_64.pkg.tar.zst",
+  "NAME": "haskell-securemem",
+  "BASE": "haskell-securemem",
+  "VERSION": "0.1.10-89",
+  "DESC": "abstraction to an auto scrubbing and const time eq, memory chunk.",
+  "CSIZE": "18134",
+  "ISIZE": "56668",
+  "MD5SUM": "f76285925fbc841a404464d2ab1c346e",
+  "SHA256SUM": "fbc71b1b38e109a930fcf59273b089e69b5c19952960ad6f6e186205ee1de07f",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl75H2IACgkQeGxj8zDXy5JTEg/+KO4WXaFsU2uiBpsU2aeJYXcXCmz/03cyVD8PS0Lu0AKMdEMPJJfSOU8+s69NUQGZyEE+SjZf7IkiOTfcXZApf815zT1MqOUEcRrEGyQefwf2fkwA+lbApD+iTpTiaeFRfGoutsGMuVsWr572WmIIYGuUm/BOAtr/LnXQE6YKDddREXJW72mdnER1AxiVcVuotD6ote4E1vGRTrn6X3QRg5/y4bNgUvNStsk4+Iw76h1VyI55nVv27HXtgZBq14reCqn1eGVYR0jdl/m1FIeLET8ZTu68PpR0p3HjZiGFs1g1Z9YxpQWajE+oFqjNYLq7NxxJbsyat9I2fltq2WyvKTWiCOUpTlGhYPfCY/ZFe0RArQzPYvWDIQcEEnUYTLScN4481yEP5z6CxFBieqiaRoiabGl9OT+czbmTgAV8hjL7D1m109i3MRyp5o0ueJbnD2MoxFZdp4PTfDyKeDXQzFjgTRyFhWP+0ZgXj41sem/hNSeCOiAjljoczxGM+3q/bWnIIdXQQLMv0f26Bt9TACoNl3qF+fj6Lo8b2k4MhsGAJ96HUo7mWfkLreevD2HnMVyMAl41c60muklQ3dytum1UoCEGGwnUAHphVaZoGVsy6zjHwjy1daChwIIlbeBg4jzzItnlarMBCE4t9907xC72z76vp63imtwo5FNoTeE=",
+  "URL": "https://github.com/vincenthz/hs-securemem",
+  "LICENSE": "BSD",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1593384772",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "ghc-libs",
+    "haskell-byteable",
+    "haskell-memory"
+  ]
+}

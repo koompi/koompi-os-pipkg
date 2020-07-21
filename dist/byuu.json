@@ -1,0 +1,37 @@
+{
+  "FILENAME": "byuu-4-1-x86_64.pkg.tar.zst",
+  "NAME": "byuu",
+  "BASE": "byuu",
+  "VERSION": "4-1",
+  "DESC": "A multi-system emulator focused on performance, features, and ease of use",
+  "CSIZE": "3615002",
+  "ISIZE": "19153213",
+  "MD5SUM": "857208b2e1013205cc2fb226a82e08b2",
+  "SHA256SUM": "a932ea3cd478df75082ae3457a7ed8411a015a62783c0f7780d55e15f9dcc854",
+  "PGPSIG": "iQEzBAABCAAdFiEElDfdOBWnqRaePTlGr/XZUJi8b/UFAl53v94ACgkQr/XZUJi8b/XAXQgAqZBYNFAZLayX5yAJo4oniyD6hudvk2p+mLh8QI6Zw6lu2FdNdKpvu72eh1RMDhOak6TyDM+qda8V4hsk9k1j8LSBCSF96VEUCcwEb2WzmPawemvANvM94Iw/auih5LELJ7AU6o/296KejotFXPY49CzXxvty2emQMEf8zSdFvQXyzBLY0uRZMj+7tfJboValb2DpvaDEbB7KSZM+Tli+LsLXQ+J0GU4rHdvDn/JaT4vLIEL038yFB4OrMmBtPqtWMbFhJoEeqCS2EGube7H1gbZnH9LPvYrCFk4EAYh1G5mrt0CzFqOjBaUeCPBhi1dO1eaEEw1YU4qxxEWcRXCRqQ==",
+  "URL": "https://byuu.org/",
+  "LICENSE": "GPL3",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1584905835",
+  "PACKAGER": "Maxime Gauduin <alucryd@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "gcc-libs",
+    "glibc",
+    "libao",
+    "libasound.so=2-64",
+    "libgl",
+    "libpulse-simple.so=0-64",
+    "libpulse.so=0-64",
+    "libudev.so=1-64",
+    "libx11",
+    "libxext",
+    "libxrandr",
+    "libxv",
+    "openal",
+    "qt5-base",
+    "sdl2"
+  ]
+}

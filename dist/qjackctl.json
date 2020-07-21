@@ -1,0 +1,28 @@
+{
+  "FILENAME": "qjackctl-0.6.2-1-x86_64.pkg.tar.zst",
+  "NAME": "qjackctl",
+  "BASE": "qjackctl",
+  "VERSION": "0.6.2-1",
+  "DESC": "A Qt front-end for the JACK low-latency audio server",
+  "CSIZE": "716171",
+  "ISIZE": "2386485",
+  "MD5SUM": "7d4836dd67e62ab666affa91504047eb",
+  "SHA256SUM": "a05bc39743a8de8b7a8ac9ecad651ec31a6e41662af478f6e4bba9ddb05223a9",
+  "PGPSIG": "iHUEABYIAB0WIQTH54SUZv4jWDQ1iDdyWHNLQcMVSQUCXnpmAAAKCRByWHNLQcMVSa1IAQDQPr67zh1bgkh4etXKx1610+zRk+jLd0BIgE46l1dJlAD/bHXW2UlUCQ8naQIoWuCVSUXSJsM8pktuxXicXT/dGgs=",
+  "URL": "https://qjackctl.sourceforge.io",
+  "LICENSE": "GPL2",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1585079662",
+  "PACKAGER": "David Runge <dvzrv@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "gcc-libs",
+    "glibc",
+    "hicolor-icon-theme",
+    "qt5-base",
+    "libasound.so=2-64",
+    "libjack.so=0-64"
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "FILENAME": "xfce4-whiskermenu-plugin-2.4.4-1-x86_64.pkg.tar.zst",
+  "NAME": "xfce4-whiskermenu-plugin",
+  "BASE": "xfce4-whiskermenu-plugin",
+  "VERSION": "2.4.4-1",
+  "DESC": "Menu for Xfce4",
+  "CSIZE": "208999",
+  "ISIZE": "688705",
+  "MD5SUM": "a048911c4a0ea40d5055de4cccc14bff",
+  "SHA256SUM": "77946d0327622cba4c66a67479455dd669889d23b5ccaf7d40b515160bdd757f",
+  "PGPSIG": "iHUEABYIAB0WIQQEKYl95fO9rFN6MGltQr3RFuAGjwUCXqCZwgAKCRBtQr3RFuAGjxvrAQCe/gOUhA8/jqiR9ORIr/AhMpFaWpclLPm8vobTDX5PDwD9FJQvMmG7I5xOOD2wGtVhYKwczFLY5BHEzV5V2GFQrAc=",
+  "URL": "https://gottcode.org/xfce4-whiskermenu-plugin/",
+  "LICENSE": "GPL2",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1587583323",
+  "PACKAGER": "Christian Hesse <arch@eworm.de>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "garcon",
+    "xfce4-panel",
+    "gtk3>=3.22"
+  ]
+}

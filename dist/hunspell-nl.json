@@ -1,0 +1,23 @@
+{
+  "FILENAME": "hunspell-nl-2.10g-5-any.pkg.tar.xz",
+  "NAME": "hunspell-nl",
+  "BASE": "hunspell-nl",
+  "VERSION": "2.10g-5",
+  "DESC": "Dutch hunspell dictionaries",
+  "CSIZE": "1368916",
+  "ISIZE": "4266380",
+  "MD5SUM": "06f61f89236621c3c5bb2b36f55efb85",
+  "SHA256SUM": "f34c169fe52e66d4378430b5d01c4b2fd54e4c039680abef0b21dfc2bfdd4942",
+  "PGPSIG": "iQEzBAABCAAdFiEEFRnVq6Zb9vwrc8dWek52CV2KUuQFAl3Y/ZsACgkQek52CV2KUuQCoQf+PgrEUyDTaXsGos2cjKl2KM97A4itAWq6wxhaY9x8eAEclWZXJ7wxTgzsv10Hz+I9fqiAeRi5UXtSxCYApZ8CaDbifvx2AhjcxjXe8jg/f1nc6KjszWGoqldp8zyM41KMj5O2AFvCNi+lCRNwl1cklJvKdI/fJmChbgPSOT0ml3yZovQVDMQzaQWvLtOQn4LsjtnrHdXGbkd00S7mL5g5bvaVGbV1jnOmAdylStvZmzS8IdCrIO2QIAl3B+bjxnvMzz3Vuq8DvB22hXzi63C7/v4tEYSLhlUSTtyA5ZsVoO+MfKEvKq8lS9rFpRmxdi5NizRnOiJerE6qbqXOKc0N1A==",
+  "URL": "https://www.opentaal.org/",
+  "LICENSE": "BSD",
+  "ARCH": "any",
+  "BUILDDATE": "1574501721",
+  "PACKAGER": "Antonio Rojas <arojas@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "hunspell"
+  ]
+}

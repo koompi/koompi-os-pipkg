@@ -1,0 +1,23 @@
+{
+  "FILENAME": "ruby-unf-0.2.0.beta2-4-any.pkg.tar.zst",
+  "NAME": "ruby-unf",
+  "BASE": "ruby-unf",
+  "VERSION": "0.2.0.beta2-4",
+  "DESC": "Wrapper library to bring Unicode Normalization Form support to Ruby/JRuby.",
+  "CSIZE": "117383",
+  "ISIZE": "593717",
+  "MD5SUM": "f4f68fb538207740f85ef0a9aa513813",
+  "SHA256SUM": "eaf9fd9ab8e133da7c24e2de60ec39cfdc3765f853cac6a4489ac554fcc70775",
+  "PGPSIG": "iQIzBAABCAAdFiEEjhmSFnRl21+wRVV8sChU7XU+Dx8FAl7ivNgACgkQsChU7XU+Dx+KWg/+JLGRmZfccieQPfZ5HMNqK4km7UDlPAntT8beJ+h+Rii1x5znKhyrcE11djkTgQJ30FJlyIMs2rjZTADL5Mc8M/RyyUKvgASUSrOFu6GbBJwwOjCzdv7dKRZNH83R5F2tL7Qk6Z72OgN8e1OicDbGSlNr6+thWvbtNFnaiB+UoXb1ZZfBEjX77m67NJoKhkWO2zQGQjFGYpTM9lmXXpixmnjU0CpR1yHnORCTY2iJajmCgodzT8au7/E5LzISyr/DMR4x28tvQSSGvnJ0cabBuIGrMLszT4MhxodUedTHtFeYLddNrnvRYGuRSRDYMu2fyV6ny7W07XCNrbxDuWIastBtyDoc4GkOOc/WAyw9E8DePNckwt4tzbHIFAstnJyxa5E3qJIz64IBLHcJbnPHH6TfP58reU8eh9C7f/LC1LXYx3gHbt/pzmfdfHr9mDuaGmHmF06TjRe/9cOjO2OEisYbkrMPI+f5mggtFEK7t9kKpq2bvMq0LbVMbQrRf1dqWqZyprGxSgiEeinP4umigRxoQfrhe3SrW00nfRfc2yckFtqFIzFqeaVPfrU7RA+yiLcnlrasU4WsnsU3aObrPpvPjdSdiaLZkoZ+Wh1jkrRajuPyVRMDf1Jv9qZY7G7blLbGtUvQK4lG7emqwYnAXumtHmX/2t6fryqpIywjANA=",
+  "URL": "https://github.com/knu/ruby-unf",
+  "LICENSE": "BSD",
+  "ARCH": "any",
+  "BUILDDATE": "1591917661",
+  "PACKAGER": "Anatol Pomozov <anatol.pomozov@gmail.com>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "ruby"
+  ]
+}

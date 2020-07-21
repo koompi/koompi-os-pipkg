@@ -1,0 +1,23 @@
+{
+  "FILENAME": "typescript-3.9.6-1-any.pkg.tar.zst",
+  "NAME": "typescript",
+  "BASE": "typescript",
+  "VERSION": "3.9.6-1",
+  "DESC": "TypeScript is a language for application scale JavaScript development",
+  "CSIZE": "1955337",
+  "ISIZE": "54138352",
+  "MD5SUM": "3539d85eeac48257ca1f9d169b9a9f4f",
+  "SHA256SUM": "e41675a262826e21ee71469e96c38b716f86fa5be47f42ad1503b62fd2748fef",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl78zyEACgkQeGxj8zDXy5Lb1BAAudMJowoCrfbIEKKDMWs/EmrJALasaZgnf5jNTsHXQQZmgi66eB8uSvcDqXhWAQ0dawRywOiMH8kZxNLt94I65uXBBzDaWE4a5NEb4JbrYOu68zKw6mOYbmCU9j2JQCNsEo0w8CVbbTlTOEN8lHZGGcvApwbxkcJpoNdjc52NWeXktgH0HRjYoacftZ//BNsvH6nsOzvVSQIQq1BAUlf4CKElLFwd6U6aRVY1cZhg3FtJNp7B27xqgfhVLrrV2XUfU81rb2lOaANzoGgHG40p0EkmauJX+Xs/FvS9gUKQ5ih4H69I5KAVSyLjVBAhWv64SfUfexzGsvIn1pKzlhDDB2kA64YABf4NIilsapiDG5VC2dubYYkvrTAzlcE3J1HRP0nCh1NscdFirOzi/ud8cVDctabmpGv51YxEMRJR3hy5IMJMxFGnsFqx17uLbcQEn5V9BgYolYmdu5E0P2cm7mDSZ/ODZMNYB1CePRdYlXUyanA/x9VoSu3p39PIOdJZP9w0j7/zdGqZbVwIbNucyjlUgu/39aVJit8OF6e788/NqJAeJ/MSRso/NcSizFnFPnXX7eGEEUUUO3mIIkqvDNn56WbkeXkXT7XC9BX+i7vYuUzKNkzqLp8mxy5CGAV+uCV/5CkVNNErSie/5QRI9yY5IwrlG3QWejHhCoSbNSQ=",
+  "URL": "http://typescriptlang.org/",
+  "LICENSE": "Apache",
+  "ARCH": "any",
+  "BUILDDATE": "1593626182",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "nodejs"
+  ]
+}

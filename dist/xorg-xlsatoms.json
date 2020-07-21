@@ -1,0 +1,23 @@
+{
+  "FILENAME": "xorg-xlsatoms-1.1.3-2-x86_64.pkg.tar.zst",
+  "NAME": "xorg-xlsatoms",
+  "BASE": "xorg-xlsatoms",
+  "VERSION": "1.1.3-2",
+  "DESC": "List interned atoms defined on server",
+  "CSIZE": "8487",
+  "ISIZE": "16634",
+  "MD5SUM": "e2ffc015a8dc8f7e9d8ede81745f3a32",
+  "SHA256SUM": "afdb5410b901728b7cce5f142f5c5a477216d7235014faea528eb1e1de6d9aa4",
+  "PGPSIG": "iQFIBAABCAAyFiEEZkWwqMcAXnjbHXhk+Z/+D+rpmb0FAl6y1DMUHGFsbGFuQGFyY2hsaW51eC5vcmcACgkQ+Z/+D+rpmb3+3wgAqs5+3TDRSswBsw9AoWzQRe+OxA4H4CRBXgSehVujTyiTkFJxwMgjxUD71hGLqvYrRBA0QKVEdmTPJJYmBzlDoA4z3pL0jGTU2E/3+YOwxOtEr2RQW5Z1meXtImGAUd66K5MI8xrypRJfF8FkQ7HjxwkuSfze3cjHJW5UKD0uHhs3kFTnWCjYd2zTpFPNtElPgeJdl0bjt4Y148eVAw3M4x/dd4+MVXi998//pmPkdAfU7Nkghj77FDifwlZObvqlHmgW1kgEgE2K0SRCJORdMhy9z1kmh2rnNVsbGfNgaDHufN8oSVPEutTq5mCV3bBNuTNOfwVeCUZ0QHa47Mpx6Q==",
+  "URL": "https://xorg.freedesktop.org/",
+  "LICENSE": "custom",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1588778007",
+  "PACKAGER": "Allan McRae <allan@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "libxcb"
+  ]
+}

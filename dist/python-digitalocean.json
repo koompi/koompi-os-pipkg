@@ -1,0 +1,24 @@
+{
+  "FILENAME": "python-digitalocean-1.15.0-1-any.pkg.tar.zst",
+  "NAME": "python-digitalocean",
+  "BASE": "python-digitalocean",
+  "VERSION": "1.15.0-1",
+  "DESC": "digitalocean.com API to manage Droplets and Images",
+  "CSIZE": "49196",
+  "ISIZE": "321315",
+  "MD5SUM": "c325ee99096b817e57001c18bebdba8a",
+  "SHA256SUM": "46e002c806d23360fb9adccc2e7e45cb6ea2e04decf3ba2c5f7e0ce124f14684",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl4s410ACgkQeGxj8zDXy5LGUg//WSH+mSixn9lRuipKFT1FUsxyvn7fIuu6EeN1cJODo07dmjHSwx/nUZLeN5FXEYZ/Drbs1OmBNUqk2u9Vf2wnlQjBZwj3a+Pbgl4QM72VpFui0RlHAlGYht8/iuQcshyX1RTfdXzGq/AlMbMXXtxijNwKJaVhBfWlK+if7FGQ9xu0Kd5se6oAAoucUnXzDS9HrzGgyNes7MAKexwV68QOK0jDb/Mn01VgyG5ld4mMYAAC5BZpjSUsofHm/V4nT1Kq+Sl5a2g2MICKC2LbXYokSwHDj2OmITaL8ZPd72H3ZNGbGUcT98D9sVyuu6b33spZMS+b1eMPcBp0Y74eEL8cmnmsh4LGlS95eDcKrLAbrtA2hYKIHnB/W+OZ9oZ7N8FIvo5m37TDHd64PmT8j32nrnDkNDnuIdxk8oqIqGGBXCSwSjLPikW89pPHLJQB4kwrb6TfqX5XswJm1F3hacU3S5H+TnCdpRXKbCR8nxUC6ptoNIGQe+jrxaL5FQ5pMvPEJHafDaLSc/wg3Lei4rctI0sEghiJLsKCfI5vV6yhDjUcsE2Qlu/Bt6rO/70E6KzH0xS9TnRaaRqnUKxwsgE33b0WGFh9c9BHn6vKkvFUJCb4PxAP5osIzMfhFM4SL3daaHKnxwo2JwAClFQZDnkLNwqRR+4PTwPHdKmqeOawezg=",
+  "URL": "https://github.com/koalalorenzo/python-digitalocean",
+  "LICENSE": "LGPL",
+  "ARCH": "any",
+  "BUILDDATE": "1580000065",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "python-requests",
+    "python-jsonpickle"
+  ]
+}

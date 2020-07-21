@@ -1,0 +1,32 @@
+{
+  "FILENAME": "sysdig-0.26.7-2-x86_64.pkg.tar.zst",
+  "NAME": "sysdig",
+  "BASE": "sysdig",
+  "VERSION": "0.26.7-2",
+  "DESC": "Open source system-level exploration and troubleshooting tool",
+  "CSIZE": "2283896",
+  "ISIZE": "15424236",
+  "MD5SUM": "1605f47ea7d725c581c942b1f9e37c3e",
+  "SHA256SUM": "22faa2ac8d592a85ebbe56c99058ceee84ba0e38a1869308fb03a114d7857d00",
+  "PGPSIG": "iF0EABECAB0WIQQsEYxiDwLbmsHQ+fqU3SOT2i7kIwUCXsKNIgAKCRCU3SOT2i7kI047AJ0TPtuYfLzscTJx5Du3HdnKpnWygACggg4W6B0w209aoO+lyQ5D8ddxwVU=",
+  "URL": "https://www.sysdig.com/",
+  "LICENSE": "GPL2",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1589803019",
+  "PACKAGER": "Massimiliano Torromeo <massimiliano.torromeo@gmail.com>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "dkms",
+    "jsoncpp",
+    "libjsoncpp.so=22-64",
+    "luajit",
+    "curl",
+    "libcurl.so=4-64",
+    "jq",
+    "libb64",
+    "intel-tbb",
+    "grpc"
+  ]
+}

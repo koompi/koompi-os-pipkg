@@ -1,0 +1,25 @@
+{
+  "FILENAME": "kalarmcal-20.04.3-1-x86_64.pkg.tar.zst",
+  "NAME": "kalarmcal",
+  "BASE": "kalarmcal",
+  "VERSION": "20.04.3-1",
+  "DESC": "The KAlarm client library",
+  "CSIZE": "285358",
+  "ISIZE": "1035604",
+  "MD5SUM": "ce59fff31809331f317b76639ac6c277",
+  "SHA256SUM": "08a1dcc5d1b0d0e4997ce4e0a284f7b4c91865115ef97ebf15dcbca91d47dfcf",
+  "PGPSIG": "iQEzBAABCAAdFiEEFRnVq6Zb9vwrc8dWek52CV2KUuQFAl8HAzMACgkQek52CV2KUuRrZQgAiGRBIjhvWBtAGVo7iYJnAZSnr1u3DlXJfvTcn6O3Vsco2AfFlUlfIILmqr+e71GYgRHBcrIgTdqDshcgib1UIvCc3/1aGSvxNae4wJ5Cwu9MR75RxJ1erafSE2D4+LBmvBTWbDmyCsg+3DmzI2vnXW8jY+kMSyZOlztdNU7gHUdJUlIqvEYq3CGaBSLywaYuz1BqGwBzA8o8raUwGiN2ktadgjlvukH5MxGWadWBFcTv1tf6/Nt+sbd/VOaxRxuRsf5R0ITsSE4QCVGR0DCqZHTfMR7xjxj/CeyfpHQZ6Hl2dZxL5gPI00cDW9b/ndxWQaTjGgfhC5HNIVcns7+DlA==",
+  "URL": "https://kontact.kde.org",
+  "LICENSE": "LGPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1594104991",
+  "PACKAGER": "Antonio Rojas <arojas@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "kholidays",
+    "libakonadi",
+    "kcalutils"
+  ]
+}

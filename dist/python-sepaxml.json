@@ -1,0 +1,26 @@
+{
+  "FILENAME": "python-sepaxml-2.2.0-2-any.pkg.tar.xz",
+  "NAME": "python-sepaxml",
+  "BASE": "python-sepaxml",
+  "VERSION": "2.2.0-2",
+  "DESC": "SEPA Direct Debit XML generation in python",
+  "CSIZE": "31176",
+  "ISIZE": "237350",
+  "MD5SUM": "9617e84447b4e1fab5216fcf0d364969",
+  "SHA256SUM": "f3763f81904be71ec773d4c5a2bb8fd30f1bc94902c9afe7907d435223f5d205",
+  "PGPSIG": "iQIzBAABCAAdFiEEM+u4qOHFZTZFsSMqRaZQ4mOMU20FAl3tuOUACgkQRaZQ4mOMU20c3g//drwszcIOAKAY1BnmYRKeFprKObif8HVqkkthjaZvrV/QOU3xP4PE6XEfllF5iIXw1xvEceMsILxhrrO5NRgM52ZuRS2Ah/A0hSQat4EL0eMkdwrYA7mdJZVL73ZuY8/uriLuGszIG97B483QSkgpnIGrPeyq+XXTMzA49rNW4SBAdvzuels/T7t+3Ku64ELScWtox4ZuwnDUaZMZNJfJgMuXm1PGr0nreTLWjz/9jhVHismaNo2hGJWPFuqlwWCSRU8fT1uaeSm4LeDrtBdZOF6teqNQjQkGB21/IS4FVF7/7EpRWwja8lqEzy8qIsmohMAHKpW4Uxb1d17inLQosvEimab0UsvQRxZptvq5nNuoRE8iiofbxYnMVdmdZwWB65cDQsePH60sexnFx1kqNRy5euE5cfGGBWW3c9bD8aj/tzQVcUaOKxK7yQaR7bNMOQmUMb/C203xpVrBQplEQm3B1DeAT7F5iI6ikNrYJbXZjsKqb/l3uTupeLLZWby6MxT4VONWG8I9eVjMm+MZRUcxHTZUhTd+GkIsJgVLgxgFDpt0xw9zGIGfKY4OUGerDEQRxqgK6mOpxgxpaZpdNacLNcoB0AcxhvPLKMCoYot7p1Bq0xdYHlcCYIcfLlZ2LJTI41O6/uQqSaCgwzENzUIfmnjkh0lPcz/sA6gYYIE=",
+  "URL": "https://github.com/raphaelm/python-sepaxml",
+  "LICENSE": "MIT",
+  "ARCH": "any",
+  "BUILDDATE": "1575860385",
+  "PACKAGER": "kpcyrd <kpcyrd@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "python",
+    "python-lxml",
+    "python-text-unidecode",
+    "python-xmlschema"
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "FILENAME": "bleachbit-4.0.0-3-any.pkg.tar.zst",
+  "NAME": "bleachbit",
+  "BASE": "bleachbit",
+  "VERSION": "4.0.0-3",
+  "DESC": "Deletes unneeded files to free disk space and maintain privacy",
+  "CSIZE": "607589",
+  "ISIZE": "2939487",
+  "MD5SUM": "7e318b9a9da3d8a45766b30856ffd9e8",
+  "SHA256SUM": "376a8fc2496ab69a5944cec90095c57f1dbc16d01a138338bf90de186bc28a07",
+  "PGPSIG": "iQEzBAABCAAdFiEEFRnVq6Zb9vwrc8dWek52CV2KUuQFAl70P5UACgkQek52CV2KUuQSwAf+MdhnKLsBauaVUlG77o01Xa+XyGcy2GudOP0DfusRigQAqzlGlnI5evbjYXK/Qi+U/Zg7mgi9+MoJxBvSJOC98FAFsPRr15gTh52t8QlB4QPsFpw4r7S/DnaB3JH4991i8ykwdkzqYuJekL2GsT3ahy1ZJwQW+dnT3IEx7dLlCXT1qj6nWdSrNR5yo3RtNUgUCGzarJ2DgTFU4KiwkWO8MDin+Go1A3bQZgJW1NJmA8dVLGd9p3DdNzDFgs7eofSvfNQSAres6pNrL9rnOMKDa/B3mDvPm+TJZva3uqDN4hIovztYFgzSGYssHTke4iMDgHmxuwuEbHbq38rtFc0iDg==",
+  "URL": "https://www.bleachbit.org/",
+  "LICENSE": "GPL3",
+  "ARCH": "any",
+  "BUILDDATE": "1593064935",
+  "PACKAGER": "Antonio Rojas <arojas@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "python-gobject",
+    "gtk3"
+  ]
+}

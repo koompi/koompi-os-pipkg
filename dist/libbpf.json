@@ -1,0 +1,24 @@
+{
+  "FILENAME": "libbpf-0.0.8-1-x86_64.pkg.tar.zst",
+  "NAME": "libbpf",
+  "BASE": "libbpf",
+  "VERSION": "0.0.8-1",
+  "DESC": "Library for loading eBPF programs and reading and manipulating eBPF objects from user-space",
+  "CSIZE": "136003",
+  "ISIZE": "422440",
+  "MD5SUM": "13bbb002025d429859513adb1e92c105",
+  "SHA256SUM": "1e83c1fcaf537da35fb7f33c4857e26e00717bba4057676920609239d2249e20",
+  "PGPSIG": "iQIzBAABCgAdFiEE4kC1fixGMLp2ji8m/BtUfI2BcsgFAl7kzCQACgkQ/BtUfI2BcsgcFA/9GLBvXMgOXvpmdWRbVYlCDn2R1GAGjUp2bt1jcPTWFMgh0+5gwEzlql1K3ZTUaZBwuSZeXmtX7ck3EcmlLUCFvusdh3FH6Lot7hbOmgfIwM1UQDshHRAZ8EdEx/1VMYwR60npdDisP0QG4TcteAF6cFmUUwQy8pFVzRInTdGE8dq4owBNcYdTciWuDTGCnFh4AxFH56rSbYGyVlRDsLJvtE0ATj6apL3HGK2012zgMj4LZV6NuGQlGkanSvSymPvZwKXNY7p4zi0jtoYi38We+TWoJ+qU9mxAuK9yYx1LfyFk3X29FUXIWMC4QFocTKeKz/0OB8wDJqYN/vAw5+cj1T7YkgfNn/eUc9Q3a3EjgTXpWtFVpLgePH8T0EC1Dxiygea9rSJ4qAM8l48RQrNx+5N7MwkK6P7YFeocpzilcCAeLXNzJgluQ4lV5HDODvUFJBQgbJ2KTtJrgTIKkb8LLOyV2i7G4yJXt5GVI4v99aDDXzyNxHm3gW0XREdes1XEzFmC1Og3bBxUQLP7qUrwPy9Q4vclUTp2BsyIg1zfDzFK38Q/USxE6LXEOucfejeeqbovqrrqczjM4RWFvDPMZZ7G9qh4gaVaH/v3VUD8UT5iVGFU3cdq6bCb2Xj28usChKC69jKITYNn+CoerOiVobzAALVNQio6G1wNBrodLUs=",
+  "URL": "https://github.com/libbpf/libbpf",
+  "LICENSE": "LGPL2.1",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1592052727",
+  "PACKAGER": "Levente Polyak <anthraxx@archlinux.org>",
+  "PROVIDES": [
+    "libbpf.so=0-64"
+  ],
+  "DEPENDS": [
+    "libelf",
+    "linux-api-headers"
+  ]
+}

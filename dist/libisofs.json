@@ -1,0 +1,24 @@
+{
+  "FILENAME": "libisofs-1.5.2-2-x86_64.pkg.tar.zst",
+  "NAME": "libisofs",
+  "BASE": "libisofs",
+  "VERSION": "1.5.2-2",
+  "DESC": "Library to pack up hard disk files and directories into a ISO 9660 disk image",
+  "CSIZE": "264445",
+  "ISIZE": "787286",
+  "MD5SUM": "5c622b852f01eaab8f49794f7356edbc",
+  "SHA256SUM": "f626d0ca2e5d9d29b801569434d23225d4318cc1d8a01c40383a8600420459fd",
+  "PGPSIG": "iQEzBAABCAAdFiEEhs/8qRjPOvRxR1iAUeixSKmZnDQFAl6/3VcACgkQUeixSKmZnDSNZQf/XaIhKyM9pg37Qeu8Tv4Pr9nv+SQJ2UaSCu9m+mc/i3e9MKdxwSqPKKDHzQ+k2BvCPSjaMPoV7bN1n7LwXjahXTJK3N1A6JvHWsE2KC0FGB2tI+8xZ7LXasMnXA9SRIerNKg9G9R9/crpSH9bIL+lyEL3X/s9ndRnB3ERrIJsWX7vgMZfy7btKuoWVWJl8Lzgtf9qUcUIC4VFihmF7oedUgs7Jr4Fb/Geu0zOobTZwADQdNhoQafYm3zysNdvuGqC6uQaf1ZRsLx9Rc9l5we+VjZUrcpZN6y/AsmQDFKxvpSKJwvb8xcVExB49XiE6x+P0mtAmlQJBenel8A5yLq4pA==",
+  "URL": "https://dev.lovelyhq.com/libburnia",
+  "LICENSE": "GPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1589632301",
+  "PACKAGER": "Evangelos Foutras <evangelos@foutrelis.com>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "acl",
+    "zlib"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "FILENAME": "php-box-2.7.5-1-any.pkg.tar.xz",
+  "NAME": "php-box",
+  "BASE": "php-box",
+  "VERSION": "2.7.5-1",
+  "DESC": "An application for building and managing Phars",
+  "CSIZE": "171096",
+  "ISIZE": "962677",
+  "MD5SUM": "7fa10bf371268ea2502ae01ad12c0364",
+  "SHA256SUM": "921e8913ce2a5deb25279f0d0079362445e2e5ba5068676b2968d790bb9b02ad",
+  "PGPSIG": "",
+  "URL": "https://github.com/box-project/box2",
+  "LICENSE": "MIT",
+  "ARCH": "any",
+  "BUILDDATE": "1581336494",
+  "PACKAGER": "Unknown Packager",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "php>=5.3.3"
+  ]
+}

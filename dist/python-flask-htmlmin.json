@@ -1,0 +1,25 @@
+{
+  "FILENAME": "python-flask-htmlmin-1.5.2-1-any.pkg.tar.xz",
+  "NAME": "python-flask-htmlmin",
+  "BASE": "python-flask-htmlmin",
+  "VERSION": "1.5.2-1",
+  "DESC": "Flask html response minifier",
+  "CSIZE": "7428",
+  "ISIZE": "11223",
+  "MD5SUM": "b2e8fdbf1fddf0657b73eac905545aae",
+  "SHA256SUM": "4e6861f2de11a2f3ee1887f3ff6fccc27f6ea3c7e96ee6c01618c3f8f0b35ff9",
+  "PGPSIG": "iQIzBAABCgAdFiEE4kC1fixGMLp2ji8m/BtUfI2BcsgFAl3QV0kACgkQ/BtUfI2BcshO3w//VkI/l0Q1rKJElbBYTrXpAbUwzlPv/JyLTY/ZtfS/GWQj3zTRPvvqhz6P+SIZ4L1EPe9ZfqTcKIrz7ZsUI9C1SSK7hXyQGvw+GKHkNFcteVNTS9Ce1dNknRtcrRtuFwtIi8yaAG4EtXhdSlcmIq/vAUZVQ9WCrAkUmOpgd2S4BVldsXtogQXk5BvMIaojMakHYN08rn/nf7VZiBtUTAu6TU5hrzJx16Rvu+/VQwUqXLlIvDluIhDjGxQku6eeha//0/QArsHqxoD3Z+ajtrC7R9F4ZE4GPPsbEg0bysUimLw0eHWkXe/90w9vArtV1c1YR/VQKl4keG5QnvERLnAKRbETeo5Vars+kwT9kUBmA2G82sFegXARVxq4A1Wa1YkqhbZ3V1Lo8GIr/sOlW+iAhsSD1AFiX5G4l93ADqql0dO5JUxaRD7fl4q4E2WpYgdTU2UnUcehrXFZs2V0PCjYN1gqB0QMtf6DSq6OOm9HtdwTn5fmzhI1uzUf4uoVXQySF2OPjdE9pd1JgLMCsnIqkG3N4a6QFo0nM3ScjSV8CELoM6oObjkYCykk3qiHBOLh2wqeKElUl6LMMYr/dYmSI/Ga5e9zuy48bRO9RTxWXrgPSBS8ZCb7wXeC2yaB9X6mLP8IFZt93+szTbA4sYSMf0Yup5m8FVaRm88S74hxp14=",
+  "URL": "https://github.com/hamidfzm/Flask-HTMLmin",
+  "LICENSE": "BSD",
+  "ARCH": "any",
+  "BUILDDATE": "1573934900",
+  "PACKAGER": "Levente Polyak <anthraxx@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "python",
+    "python-flask",
+    "python-htmlmin"
+  ]
+}

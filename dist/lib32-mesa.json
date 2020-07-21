@@ -1,0 +1,35 @@
+{
+  "FILENAME": "lib32-mesa-20.1.3-1-x86_64.pkg.tar.zst",
+  "NAME": "lib32-mesa",
+  "BASE": "lib32-mesa",
+  "VERSION": "20.1.3-1",
+  "DESC": "An open-source implementation of the OpenGL specification (32-bit)",
+  "CSIZE": "13027481",
+  "ISIZE": "67200028",
+  "MD5SUM": "bbfc02948abbd7bd1409b1402310e9a7",
+  "SHA256SUM": "9b807e83d1885aed8320dc5160c3b983a64cd711361001134e10210b3ebc98a9",
+  "PGPSIG": "iQEzBAABCAAdFiEEU1+MAzlFDwVKTSgnBglqatHO3awFAl8GuA8ACgkQBglqatHO3awPmAf+PNieeZmTPmsVP+fjvcJXV3DiOfXJIH2QoeyJNt5GK6V/k1l2U5ajDO2GDfntinTfSaZjpsSIvJK528/9V++Z7M65QEU8T9e/VHVfRfgTcwb6tbcZrKIVZJnwEYUSErmaRknMltwrav7wi66OCu7d4pki9IwbBswhVixQLzYWz7G1aejCJhRnDdus4LcTMzIawjK6NWcorV1yytfIrxk58i7hKi7DWtJbuJdmc/bvdweR9vX9hdepWkGeEIfeRxaI6YGMwg6dxBPo2huE1yEAe13LOJTvd5WCAwYlK0nEnconilXonBD8Ag6YLuApYFxMaxGQIUMDNVTIdOLd655Piw==",
+  "URL": "https://www.mesa3d.org/",
+  "LICENSE": "custom",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1594275090",
+  "PACKAGER": "Laurent Carlier <lordheavym@gmail.com>",
+  "PROVIDES": [
+    "lib32-mesa-libgl",
+    "lib32-opengl-driver"
+  ],
+  "DEPENDS": [
+    "lib32-libdrm",
+    "lib32-wayland",
+    "lib32-libxxf86vm",
+    "lib32-libxdamage",
+    "lib32-libxshmfence",
+    "lib32-libelf",
+    "lib32-libunwind",
+    "lib32-llvm-libs",
+    "lib32-lm_sensors",
+    "lib32-libglvnd",
+    "lib32-zstd",
+    "mesa"
+  ]
+}

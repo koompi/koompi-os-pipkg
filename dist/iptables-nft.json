@@ -1,0 +1,30 @@
+{
+  "FILENAME": "iptables-nft-1:1.8.5-2-x86_64.pkg.tar.zst",
+  "NAME": "iptables-nft",
+  "BASE": "iptables",
+  "VERSION": "1:1.8.5-2",
+  "DESC": "Linux kernel packet control tool (using nft interface)",
+  "CSIZE": "443039",
+  "ISIZE": "2531516",
+  "MD5SUM": "3d4c4d6a95df0b9af52e404309022592",
+  "SHA256SUM": "e5a5e7a3d520449ae79063ebfc3ae2c0ac3b0cccab4e7ac003d84d5a9b4e93a6",
+  "PGPSIG": "iQEzBAABCAAdFiEEFRnVq6Zb9vwrc8dWek52CV2KUuQFAl7dT9gACgkQek52CV2KUuQNuwgAiL4qJpTUZ/Y++FQdPgq2+osz70+HUoz1sz5GGD7r+EPmkg8HDtcqO+HX+998yn8PS3iWsx2rEWcMLSAVTTmOBXZrrgLk0u35vNAm0BVvurTHzpK83b9IRurCSO7qykNbT1sPJvJT9Qzwo1cAi0lp7EhmIQWvT/ThNfNY4PqnR9wo7S+7kNFPXG5/ChoOFWdrqZh609z68mB796xity5o/tyjUItybHLcjXABP/G4CD2V1RX3ZvIslEaxnilPvc5GoMQBFQxNLaAlFdODwnynQnd49Nne4VmI54LTbRWTSdLUOflL632x0DD5jvcHjYEjtGqTgxsJZF5Ea55MjC/7jw==",
+  "URL": "https://www.netfilter.org/projects/iptables/index.html",
+  "LICENSE": "GPL2",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1591561976",
+  "PACKAGER": "Antonio Rojas <arojas@archlinux.org>",
+  "PROVIDES": [
+    "iptables",
+    "arptables",
+    "ebtables"
+  ],
+  "DEPENDS": [
+    "libnftnl",
+    "libpcap",
+    "libnfnetlink",
+    "libnetfilter_conntrack",
+    "bash",
+    "nftables"
+  ]
+}

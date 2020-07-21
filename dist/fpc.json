@@ -1,0 +1,27 @@
+{
+  "FILENAME": "fpc-3.2.0-1-x86_64.pkg.tar.zst",
+  "NAME": "fpc",
+  "BASE": "fpc",
+  "VERSION": "3.2.0-1",
+  "DESC": "Free Pascal Compiler, Turbo Pascal 7.0 and Delphi compatible.",
+  "CSIZE": "44110609",
+  "ISIZE": "357849976",
+  "MD5SUM": "d94132cf28f8cb3b1639f3ab6a75e859",
+  "SHA256SUM": "c86892d004c22cbeed692fcb4b40fda0a1fe80d61fadec983aaa8a7cd6e98fd0",
+  "PGPSIG": "iQIzBAABCAAdFiEE2yJ3vNUAqjglYQvd2zIzknlsoGcFAl7xA6YACgkQ2zIzknlsoGdquQ//Wc1Qz76lkEKW8zyeArgj+wJ5Rggbjusub42IJCkHiinEVUViBBDiuy0/SwoKMcTOL2MoQjjlpyw8236B4T2LgW8CbK4pwQUKmzYz8KMpy4BTffruv8uIF4BMgQM0h4qNPHw+XF/hN2rZkQZhd+0qWRJ0T+63FQ81cwCog41EetjYmOMLP8upDvnBDLFVQ4e33kC8kHpiXfagUvZU1sU4nKZrqn83mWtMf61ZV7ZDp32iBfPbua968ifKuqO1gZPKa3mKcYnAinzF9MpV3qbLQqUjkKYeY2EH4Qe6Nis+Mfr8JAFOCpJzPjIrbkm756obYvHdPrCSZAyTnGHTYfBDoj/AceXAZvB5jeQfumCBcCm8RuIX0IngRsMJMlTc7BII452q1ByzW16BiyJRemugcxJhb2x9AHPoxUidMAaj8ZR6/CttRbxMOYpGaEpz1m587FWIJdkjZa5qAwkE0NfJ0YBbEMHvnKE46NCMJhUcHPE3z6FpIlDLIgFCa9fkdMjTOdXOTIptsw5/CN5ZqB2Te0i7LKkFP8waf2w/YZXQfA2/mQOOfyjjui6m31/tkaUQqIkP2VYX+7y4ViVl8PqyA7UsbeizERBsk+1Efy21IgqL7lDcKZn8VqnK8JbDJ1eDsA60RMUHfIFmsnJ5ukIWCdoA/kLX1sTZCgXTBBh9nik=",
+  "URL": "http://www.freepascal.org/",
+  "LICENSE": "GPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1592852828",
+  "PACKAGER": "BlackEagle <ike.devolder@gmail.com>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "ncurses",
+    "zlib",
+    "expat",
+    "binutils",
+    "make"
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "FILENAME": "skrooge-2.22.1-1-x86_64.pkg.tar.zst",
+  "NAME": "skrooge",
+  "BASE": "skrooge",
+  "VERSION": "2.22.1-1",
+  "DESC": "A personal finances manager for KDE",
+  "CSIZE": "12173652",
+  "ISIZE": "26021311",
+  "MD5SUM": "18d3d29305ab6893031c469158ed992c",
+  "SHA256SUM": "0153b2465e8cc8eebd3d481dfa7be5f0da57d576fe0630cf718eaed9b4e4b381",
+  "PGPSIG": "iQIzBAABCgAdFiEEOO3RiGdWkk4SJOSVJOTNsAE8JYAFAl7ZFjUACgkQJOTNsAE8JYCk0g//Tv5jN6qDI9vXIUy6JGb7/CnNIBAPMa4EyLsg1m/yVEL6M9W7IDQOV6QCCDh7pJek9ZJNJj6n6oTJqQd2Fsz9GaVk5aJulSlEUtxSlEQ+NxPx368iO8vsMFpYmIfYM03x5eNE7twM21ESDnqypwvY5VaDlYybBjf68YyqqfP7wUlNOZRk5Wfk21ouoMZep97vJBH5wAoXEN2MnZ0FRyjpD0WTZDQ/z1ZmSTDc1orhaWrdYfdg+f6MujOKS9a5ijVntSX48OrwwTT9P7IDp+PTHih8L/JifP4U2e2A5FKxrpfW2J/8GqhvxqgPg9ubYppv9nVWwwlO6edCSVZps+tM3+rfBOS1q70eLQo3K3TX5Rw8MXVKDiLUB9d3+xeNiyT26lDq7/sDrFjik+WBZEU8teG0H+864LCfVI9t1esqwoSoQbT1/bBcG/j9btGyQ2jQj59gZjTC+wjd7XOrOOM2aB7P9ibgX6ufZCdzh0tVeeuxDCzhs5YyGLaxnZlutzfZmFNGQcvO56e3ty3L8ItBaNE2LZ1ioGPMGJicQcFmV2rPvAMn9Mkri322y5m5fffzZiqCoQ3iXoxC5Wuwvr0UfyXLcduGyk+UVJVWV7BvmziMnJhYmbV/AolRzXwzDKjnX5gEn00jmoJTJTq15xR92t3ie+32Mnr1xxGq/CT21s4=",
+  "URL": "https://skrooge.org/",
+  "LICENSE": "GPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1591284848",
+  "PACKAGER": "Jaroslav Lichtblau <svetlemodry@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "qt5-base",
+    "qca",
+    "qt5-script",
+    "qt5-webengine",
+    "libofx",
+    "grantlee",
+    "kross",
+    "knewstuff",
+    "krunner",
+    "knotifyconfig",
+    "sqlcipher",
+    "python",
+    "hicolor-icon-theme"
+  ]
+}

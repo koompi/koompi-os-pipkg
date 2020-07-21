@@ -1,0 +1,33 @@
+{
+  "FILENAME": "vim-8.2.0814-3-x86_64.pkg.tar.zst",
+  "NAME": "vim",
+  "BASE": "vim",
+  "VERSION": "8.2.0814-3",
+  "DESC": "Vi Improved, a highly configurable, improved version of the vi text editor",
+  "CSIZE": "1733404",
+  "ISIZE": "3776494",
+  "MD5SUM": "6343907a7af8cdf678f81bbc4718b08c",
+  "SHA256SUM": "af935946a107bd449812df93cfad950c3edc2bf8f9088459ab1d3c65d4cd3008",
+  "PGPSIG": "iQIyBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl7viCcACgkQeGxj8zDXy5LN8w/2OJHJ5UV5OKS/Y5uDrz/R+DIdX97c/Rm/W9t7OLhOekWOpZx0TTgOMcvMJLzSwLGMGkHjsprdWyRXC6lIBKEZPRRf+dKPXEjOkI+prupx+Zp7YTIL8tSH/WPWjJAawyXjDcC2+MlGOMEB4Y5wPeDBbcIxHhW6MyEvjgq+OVXL5aWJPBYP0Sa7jb6iaijgQGNpRI0C/AeSTq77BhRNyN9maPXqcmAuN5yWpozJodc+4klhlEA20O66fSAUXkpsAxGNxJgHYY7zS41NJoUi6eSh6hmCH4VhKT6BMTzGKFsuKiIW+hj70ZlyOwflnTkUBlrBEB2oT60mAEIUma/PB+x3VRL9p79XIKf+f0eAcrWpuX9xgEYOjJGX3kfIQtZliSBzSEB4H0Lo+SpQLlHff72cbBga9C+7lR3YtBBLkfsHzgngskWNu08ggHVwqS6ZUXaCjK1TsUPklcjGkLJx6S4zN3B+A4qgii6AD7imJK6HIo6mRaSAe5qujty1lrcKBV3EeADh7cIvD0ly5erlrZAs8oLAI0yMkvhn1gH+3puBLjZhDBrufUeZP9OGpygwHuLpCeR4lAKruvMrhAEO/5rOjvwZmsYRO/kFYsIhlNeFaSZNHOr5UI1CmLpi5bPJdm8g4LHS5zirQxxPVagNXS88PpGA2KE5r+6cva3G2SKqFQ==",
+  "URL": "https://www.vim.org",
+  "LICENSE": "custom:vim",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1592755883",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    "xxd",
+    "vim-minimal",
+    "vim-python3",
+    "vim-plugin-runtime"
+  ],
+  "DEPENDS": [
+    "vim-runtime=8.2.0814-3",
+    "gpm",
+    "acl",
+    "glibc",
+    "libgcrypt",
+    "pcre",
+    "zlib",
+    "libffi"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "FILENAME": "libdnet-1.12-12-x86_64.pkg.tar.xz",
+  "NAME": "libdnet",
+  "BASE": "libdnet",
+  "VERSION": "1.12-12",
+  "DESC": "A simplified, portable interface to several low-level networking routines",
+  "CSIZE": "54136",
+  "ISIZE": "168034",
+  "MD5SUM": "97c0ef6f1f596c068e76d9011bb29950",
+  "SHA256SUM": "e13e024c55edafc2e607938e5efaaffd620beb4b0097b93b1d05858e4390bee5",
+  "PGPSIG": "iHUEABYIAB0WIQQEKYl95fO9rFN6MGltQr3RFuAGjwUCXgKQAQAKCRBtQr3RFuAGj876AP4uVrG4kmzS2gdePomTSDvPmmHR6rCbpZoetKsoUHX9kgEA5m7km0W5vSYtGWhuK+3hiJPyNz1/MqlFjeSaTVMGrg8=",
+  "URL": "https://github.com/dugsong/libdnet",
+  "LICENSE": "BSD",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1577226189",
+  "PACKAGER": "Christian Hesse <arch@eworm.de>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    ""
+  ]
+}

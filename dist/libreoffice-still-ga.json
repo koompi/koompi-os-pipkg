@@ -1,0 +1,23 @@
+{
+  "FILENAME": "libreoffice-still-ga-6.3.6-1-any.pkg.tar.zst",
+  "NAME": "libreoffice-still-ga",
+  "BASE": "libreoffice-still-i18n",
+  "VERSION": "6.3.6-1",
+  "DESC": "Irish language pack for LibreOffice still",
+  "CSIZE": "606513",
+  "ISIZE": "2766323",
+  "MD5SUM": "0292ed6024b0346a3d63a35e6582b1af",
+  "SHA256SUM": "9c3ab5dd83dfe3d59d4b0a3f4b0399b4ed9266b07a9a46eb3c59c42611ce6304",
+  "PGPSIG": "iQEzBAABCAAdFiEErcih/MFeAdRTEEGelGV6sg8qCSsFAl6tSskACgkQlGV6sg8qCSsKJwf8C7/Y99AF4O+dBqkPyVNoula63wob9q2DNHFncRE5PTBz04HXqcyuCaU/Rs4XmklSH2St731AvEgZXXY/8IKDpIzvwO4KkqZT0s9gljyGBgT+Ldm1LFOtJvKiAIW62+DTxz7lDUen3urN5W0Sct3GKGIoDDpJMd07Tc6zijg/AzhOcpd5nVcZEj/A9COxr3ZExDt+wiYFZuGzFiR00kcSQ89twm2RhlpPPQXWPQlCD+L4lKpHD042onE+4BQlKRJPG8b1pYQI8zb7OzRne+OEj6qnudFELahhdDxsZ17pPJC/2gv1P4PUkY0WPL65hgkW9cOae5KkcKPhpNeuAxNuOA==",
+  "URL": "https://www.documentfoundation.org",
+  "LICENSE": "LGPL",
+  "ARCH": "any",
+  "BUILDDATE": "1588407321",
+  "PACKAGER": "Andreas Radke <andyrtr@archlinux.org>",
+  "PROVIDES": [
+    "libreoffice-ga"
+  ],
+  "DEPENDS": [
+    "libreoffice-still"
+  ]
+}

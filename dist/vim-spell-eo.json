@@ -1,0 +1,23 @@
+{
+  "FILENAME": "vim-spell-eo-20190731-2-any.pkg.tar.zst",
+  "NAME": "vim-spell-eo",
+  "BASE": "vim-spell",
+  "VERSION": "20190731-2",
+  "DESC": "Language files for Vim spell checking",
+  "CSIZE": "190341",
+  "ISIZE": "556258",
+  "MD5SUM": "b73c42c88c838e2d61ed2a53c8f4e9fe",
+  "SHA256SUM": "90da97632ac060b125a4cf4976ed6795ef5544efef43dafdfc8415f982e8a2df",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl7AWpsACgkQeGxj8zDXy5K4DhAAs91KrQwC1Twf99zlkE6iZUsDGIm7Xmt4y1xpfW4+xvKpni140Rfv0b7Cif+EviWqp1+CtO19XWUtd1HooUdcuCTSPR8HYJgcWzocDDcZmn4v4CKhO5A4HL+jBbCKCrVn3M0nipbwVtVJ25agh2+kG38wQU8+CrwDG7AqkXFi9SiHjeDnb/mbfnO5XI2NiI1txtITw5WOmlQQ01sdSyaRbvnpGQQAhIOKK+iVsa+i4jTG7znfObo4oKZNLNJ1HVDLoCE6fchbVPUDl08xlIK6Z51CZvHAF3HlNk0VRA+fsAM3VVxDTy/Vaeq+YTP5hEm+KC5DLlWBYZTpFG4zcp0YC7Y1QjcWDfZfCUJZakpDtf2u0WsDJUpASDjUWqjuqUXxpRTPUopMif5csHYG3vXe+tZACixfyf8M9WfbiztbIKSK2Ltz7Ouy8ziAYqbbRqT25HwLx6kSANE+LptvAm87qbZWN4dygHuXpSRMOsnE6r1go/I4HA5wknJYOA6fGOFwSC5VVu99/7AB634ACyhnISJrWJU9Kwm1nk53Jv9uFBaflse+60wcujc7rcUcYMkl7YHz92OeQc4vDzv7UPaJ6T6KFoq+P1NljJyD16SaSK2r30JKxrmGvEs4pjzDeEImUB+kYs8HeU31rEp+LQpk8f3xx6FKgT4omz3NIlyjJXI=",
+  "URL": "ftp://ftp.vim.org/pub/vim/runtime/spell/",
+  "LICENSE": "LGPL2.1",
+  "ARCH": "any",
+  "BUILDDATE": "1589664042",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "vim"
+  ]
+}

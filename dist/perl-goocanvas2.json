@@ -1,0 +1,24 @@
+{
+  "FILENAME": "perl-goocanvas2-0.06-2-any.pkg.tar.zst",
+  "NAME": "perl-goocanvas2",
+  "BASE": "perl-goocanvas2",
+  "VERSION": "0.06-2",
+  "DESC": "Perl bindings for GooCanvas2 widget using Glib::Object::Introspection",
+  "CSIZE": "9700",
+  "ISIZE": "10513",
+  "MD5SUM": "1eaf43d4bfa5f49b976accf5c3f3a215",
+  "SHA256SUM": "bb4d0bded018e1f28cd32fcab9e6bd7deb6fdd855ff03ec90959482a6ef45a3e",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl7L3fEACgkQeGxj8zDXy5IX/g//dNRBeWbqcVPbvmZUaww06Xr05j5ED6e5gEBK9q/380+GfBql+BII1tRlkyVb1T3yIUXCpcGO0rt/eJJVbA5eN1CPblZ6GnGlZUJHdqufeUXa/OlnwpyaG1bXYr2bI+kUsyyVwBEgfsEb2SzJfUNRmnW54qhmmQa3ljb3I5L1J+YKvxksO1urwqHzw/wEUXmAsgq9bNPivaG9Ob3n/Fnz34CaXARdGOPj2pQroIz764gdfLhXFaWrnb+NiswfVeT1hDmgwTiRittyZWPHf2/tDJDSGITEftlvyhRjY9R0/S9iOPLB7f2hv/e+P7yyakWT7xDrIAcKa6YeNrPdhnQHJFzhvoE27bRTqaezzM7ZC7O2EfDhNV595FsEGhIZ7rFtBpZj+xsVhP1PCzKE4v5BFiyu56KYNwfgvE00RwjBFfE/13H030RTbVYXt+GQj/V6K2k6piL+ipJclSf5fwGtyQVxHetgPBe/EKPRquamDhNOfKZydzAkjnSDdLw3mugQl4lOCGmlgXsGcVdf+kh9AdycI19wrrJIKiFyIyO3k77CNQ17K01LFmDvwSNlasgQBvEVcOn74FelZoptiQL8aGLoFRkui1uHXR3VZc/mSb8pssgakoJCJ1XzX8v6NJGGRbvcErWeM2e/c2PmYzcF9eK8Fy/sExMOR7y1ms25gKY=",
+  "URL": "https://metacpan.org/release/GooCanvas2",
+  "LICENSE": "PerlArtistic",
+  "ARCH": "any",
+  "BUILDDATE": "1590418844",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "perl-gtk3",
+    "goocanvas"
+  ]
+}

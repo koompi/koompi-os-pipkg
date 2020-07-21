@@ -1,0 +1,24 @@
+{
+  "FILENAME": "python2-traitlets-4.3.3-3-any.pkg.tar.xz",
+  "NAME": "python2-traitlets",
+  "BASE": "python-traitlets",
+  "VERSION": "4.3.3-3",
+  "DESC": "A configuration system for Python applications.",
+  "CSIZE": "156688",
+  "ISIZE": "811082",
+  "MD5SUM": "8efcac4039e05e9466e44cf9ad849455",
+  "SHA256SUM": "adca4b7f50100eaffb152de531e2412e605724f81ad12638fbfb324bf0b252c6",
+  "PGPSIG": "iQEzBAABCAAdFiEEhs/8qRjPOvRxR1iAUeixSKmZnDQFAl28M40ACgkQUeixSKmZnDTlPgf+JGmfbIJhY9NBIzdsRCQezP2S0ea7Hr4F4gwNVcTWyIQOb7+CE/PbRTstdbqqydx4+4R5JIUahfF9S/EQMrV9s5aKZoS34XMMJlJ3InP0rW0adj/fIjxjeGspkBMSx4ba876hfpqrsvACxgi/g+EzL62YypBjmCex+iVitf1FJ/Upv67xDq3VkFsQCkqf0svLNmHi9R1MXYimHZPCITGpzqq2F1k2NvsXjAFTvasUaAtxCIwJzpleJB07IYkyJoVgZrQolyE5v4IljMMEORFIsPE4laYHwMoI+xLslSX1ENjwe+9ESi/DNDJmvM7r7PSDaGl2A3j1c2fI7n5YFk6eww==",
+  "URL": "https://traitlets.readthedocs.io/en/stable/",
+  "LICENSE": "BSD",
+  "ARCH": "any",
+  "BUILDDATE": "1572615020",
+  "PACKAGER": "Evangelos Foutras <evangelos@foutrelis.com>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "python2-decorator",
+    "python2-enum34"
+  ]
+}

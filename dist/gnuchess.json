@@ -1,0 +1,23 @@
+{
+  "FILENAME": "gnuchess-6.2.7-1-x86_64.pkg.tar.zst",
+  "NAME": "gnuchess",
+  "BASE": "gnuchess",
+  "VERSION": "6.2.7-1",
+  "DESC": "Play chess against the computer on a terminal and an engine for graphical chess frontends",
+  "CSIZE": "249218",
+  "ISIZE": "666115",
+  "MD5SUM": "eb9bd2c7898b836ad490301e2c122d20",
+  "SHA256SUM": "91b5d8ebc9a1ec4387e0f4b842d9472917cea0f81d55b7d0f70fb30d0f8e0d2d",
+  "PGPSIG": "iQEzBAABCAAdFiEEh0L3U157OUobBIFjMyycQPQNIHIFAl7dKScACgkQMyycQPQNIHIkgggAoM35d14YGFIh9E7TuyVRu+NVRf8qXVZI7UZE+HGycTYTBYfWaRt+/U1UZncc+pUC9QkZJ04MbnqFQRE6I8WneDeAv3oLFZqNCppVapFBe3cOeeQf72y4oac+nByfNp5Yb+prBBc+zq7HnTz5rzz5r5SAFTzV0BDYHTqkog5LFvPLE/mUyRtZy0qNEbdlkOezWbHzu5GU3LvPp+nmD61lue3n2zuUJNk/19/oQpFqf5eAk0UpIg9eNU3PMdT/h5W8m0SyRtPQquqTM+EZEC4fEkYYrvVkw79Pja47NurPQ+kDGtUWP3YalTBKdgyxdvGZ/OHVXsBR0ZKw2c5rD3otjg==",
+  "URL": "https://www.gnu.org/software/chess/chess.html",
+  "LICENSE": "GPL3",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1591552224",
+  "PACKAGER": "Jonathan Steel <jsteel@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "bash"
+  ]
+}

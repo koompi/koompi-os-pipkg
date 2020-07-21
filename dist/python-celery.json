@@ -1,0 +1,26 @@
+{
+  "FILENAME": "python-celery-4.4.6-1-any.pkg.tar.zst",
+  "NAME": "python-celery",
+  "BASE": "python-celery",
+  "VERSION": "4.4.6-1",
+  "DESC": "Distributed Asynchronous Task Queue",
+  "CSIZE": "710516",
+  "ISIZE": "3851026",
+  "MD5SUM": "89846447797e02ce9aed43ef30385f64",
+  "SHA256SUM": "f0465ccbf1d861fa340c6b927f8adb5008d3b342ba6bd3e780fb72b002ff6d40",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl7zTnUACgkQeGxj8zDXy5Lhig//VWGUxuCkzUG50FfOEC+oBfM260raMzl32SbfZrj40dY/AInoaCI3/aWMdZWhJhGzIWqUuwjC6j5Lg3lnoPTuu5Mcf3YLPBeRjzpoImjMPfoOC46WCuy8j38EZX0Mlh/YvmcpS/EHd7adxZCrCk19r25a5/fmwNII08YMBhaD4vVxQCvXA7iOjpFVxTdzaa03XfZsxnQy62phvwINhzOFhEf18J/kNlTVES3i2k7rhhxWMfSrkMV3tyxl5t72U/E7MLANiaaSjgrnPJPELwyG/GzHG59W98ovr+zq9kJz+VRLSXvmXBYnM0znV6u4Zo5URHxYMFmN49+UvsU8hOUyD23cVKtLb89DOTMCVXSMsez2uALVUC0kmw5q6Yq7QB4lIt/EIf+eYuKuPxaeqKk6HPzxUnZe4oEcqvysrw+qiXl0As3q0y1dycsSg7uyd+L9osSgCeGI5hZ93MtXdf9apYvacRNMfvKVZ4rBsJxi0J4sY6C28wvbQCuKojNrpPDqgB3MYMNth/WtrqlaaSEgT4hBd/d3JtujINwa84rJM9TTvHbr9IK4fm8CSkTgWgAqAmR3idQ49YqLuLprOt6dJdHVsXBLWwk/7+d9MXI1RkfAYcfe/B+51uYdVKBRQWHAopZfRIMLf0biy8uFO9UQCJ8IOT0H51Jre8VELk2vytU=",
+  "URL": "http://celeryproject.org/",
+  "LICENSE": "BSD",
+  "ARCH": "any",
+  "BUILDDATE": "1593003521",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "python-kombu",
+    "python-billiard",
+    "python-pytz",
+    "python-vine"
+  ]
+}

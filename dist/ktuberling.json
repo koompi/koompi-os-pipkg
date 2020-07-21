@@ -1,0 +1,24 @@
+{
+  "FILENAME": "ktuberling-20.04.3-1-x86_64.pkg.tar.zst",
+  "NAME": "ktuberling",
+  "BASE": "ktuberling",
+  "VERSION": "20.04.3-1",
+  "DESC": "A simple constructor game suitable for children and adults alike",
+  "CSIZE": "47547023",
+  "ISIZE": "61725251",
+  "MD5SUM": "e6fb368a7e75224be360cf5b4bf44bce",
+  "SHA256SUM": "6147e2f3314508358491d52b9ef3325bfc37c6891c11799ba7b940827b0f5453",
+  "PGPSIG": "iQEzBAABCAAdFiEEFRnVq6Zb9vwrc8dWek52CV2KUuQFAl8HBgsACgkQek52CV2KUuQj4QgApvin2Gmt1w6jr8FkUCnAe5TQ+/C/MPGK5eBtoPzCdbvP9JnP6J5Na6J8jqDn0NK44OKWTsQNQ0+04t+ojwFFyLdqqniPXY6imlulGo+2FDEd3hoWuX8cBn9pUEXI4cjzuZgTFf5gtrbDT9u38GgRmUzMm2pnMGnHOWsyifZi+HwCznMiynq6No2Y/kbJYq0Dwj7KkCGKRnAXPKLfseH619j+KvYVDrVKLGlK1uac4npnh3ajzmSepsnxMw2dGas4E6Tc0OUbCQ0nuMFCGWSBVFHjifA9cf+8RgrDADTevea7oppugV3mK1FeoADYlQnJs4reW64EUmn0lGiSti3c/w==",
+  "URL": "https://kde.org/applications/games/ktuberling/",
+  "LICENSE": "GPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1594109341",
+  "PACKAGER": "Antonio Rojas <arojas@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "hicolor-icon-theme",
+    "libkdegames"
+  ]
+}

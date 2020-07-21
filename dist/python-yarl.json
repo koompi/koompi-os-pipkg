@@ -1,0 +1,26 @@
+{
+  "FILENAME": "python-yarl-1.4.2-1-x86_64.pkg.tar.zst",
+  "NAME": "python-yarl",
+  "BASE": "python-yarl",
+  "VERSION": "1.4.2-1",
+  "DESC": "Yet another URL library",
+  "CSIZE": "119265",
+  "ISIZE": "707750",
+  "MD5SUM": "40ac6c785d48a30503c3fe25d6f72edb",
+  "SHA256SUM": "16ab3812d55a955eb8fc21c0a7991d43255204bba87233fc74c39e54c17a28a0",
+  "PGPSIG": "iQIzBAABCgAdFiEE4kC1fixGMLp2ji8m/BtUfI2BcsgFAl4jdLcACgkQ/BtUfI2BcsgCgQ/+IQAu0hXHvGs9495wdM+U1DAU/6Wf+9LexnVWouuTXxBVt8RPHBQfSCFkCbeOfdLTlSTgM+592+k/k0Agp0hwKO3GOvC6b4PVuXjkMIjQ+rY5EIlsCA9odXaiXoMf9QBFWL+CA4ho6Qdo6qOEVF0R1EPlJ+nwDRTm/YsS9GiEw65u9rC/JxxAMqqoQ1guQtWYnCzpL6GRd6JW9TMtIiq9tDiZAZrUrd2mBMO4NStJmjkNoePlv6olaYKcdlwUSN8caxfepvxlIpeuIl25tw6mPRiYLk0vPYU9SEwTbQ2Y4ypfK/YiNzMQjJFHlSniligrqN55aq0vUKTs4eKM9651BQDDrzHCgpHL2ShUMqGYZl/BfABaYzFa0MiuC+1/XgU2fDMCApU9p66/djwW1YTBrU9xdFGEyCgURS+olDAkfU9m6j36erYnSn1aGDGby85E87Fk2/sJnp9z7r6aPwnGdusc4uBRIw0PPIZPfjroOa4IG7KWj2unWOAsecEIKsJdzXAsBgAJ8+BQLwmJcMm4Hiu2QQAdxR9C9mrMBIhBohZOnH8oZ6N/lAcuW045SOu330SNgJ2IqO4le/bWRRQKz7bl0Ro5YJKquNS58acBUetG5T+QXvGrEcffON+mftXWI+2TKNPctOZutOOljFHXIx27E6vkanLDKKOS327+4Gc=",
+  "URL": "https://github.com/aio-libs/yarl/",
+  "LICENSE": "Apache",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1579381921",
+  "PACKAGER": "Levente Polyak <anthraxx@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "glibc",
+    "python",
+    "python-multidict",
+    "python-idna"
+  ]
+}

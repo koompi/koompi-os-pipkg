@@ -1,0 +1,24 @@
+{
+  "FILENAME": "python-keyutils-0.6-4-x86_64.pkg.tar.xz",
+  "NAME": "python-keyutils",
+  "BASE": "python-keyutils",
+  "VERSION": "0.6-4",
+  "DESC": "A set of python bindings for keyutils",
+  "CSIZE": "29360",
+  "ISIZE": "106276",
+  "MD5SUM": "80a365308c50e609abc4490df8ed0c19",
+  "SHA256SUM": "9fb16ace71c29430f7fb3d2518c057a7c7d8aa2dfb0ca006dba5a73b173124bb",
+  "PGPSIG": "iQEzBAABCAAdFiEEhs/8qRjPOvRxR1iAUeixSKmZnDQFAl2/Q4wACgkQUeixSKmZnDTeAQf8D/OdXo4s09yQPrAgRr4X1GbUNh3TiwRp1j0xRPlqpTzQf62s0ZAQKxnJcLDF++NXy6h25kj/EhBJSvAqDC75kJPsYl1GmCbwKlPqdQ5AHn2DD9q+ULPY3M11fMuU/TeNnHFBz7BoFy57lgOOeqceBRkYgwqhxdTquNvxH6AFTin4pJR+80lDeHxwyq8jP9JGGrGxenYAowKG7kTJtkO1F+hOwnQPiw4CCEYsYpBaz+u5YkgyRNJrefydjFshB4KmW9o1K3qx8kJteQadRDwZ35L88qYiMgqFbi32m7PSWTziJHHbpImUnf42WE86NA5fLf1faGj8Q4c2yAxDJvO1sQ==",
+  "URL": "https://github.com/sassoftware/python-keyutils",
+  "LICENSE": "Apache",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1572815723",
+  "PACKAGER": "Evangelos Foutras <evangelos@foutrelis.com>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "python",
+    "keyutils"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "FILENAME": "python-csv23-0.3.2-2-any.pkg.tar.zst",
+  "NAME": "python-csv23",
+  "BASE": "python-csv23",
+  "VERSION": "0.3.2-2",
+  "DESC": "Python 3 unicode CSV compatibility layer",
+  "CSIZE": "27816",
+  "ISIZE": "137108",
+  "MD5SUM": "4e2ad7887032ba57a6e483d3ae828911",
+  "SHA256SUM": "ad2e9ff9d0309867711bcfc479e54ca995a11c3fe4bb708eecd75311ebd9d883",
+  "PGPSIG": "iQEzBAABCAAdFiEE5JnHn1PJalTlcv7hwGCGM3xQdz4FAl72DAgACgkQwGCGM3xQdz7jvQf+J4T1Do2JHW6c4V9drGGRi6sr/WdrA1bS/uKuZFTQNp4eOWUf8hx9sjYmiQQzyITV9K1TFrtbTJANMMonftMK4oyc1/+VSHXPlxkHdEK5/k/hZi/CVzxdVVVHzo+5jnYvduRInJOD6QDnlehwU4Ic1QoEE19BE1TegQ6o8zaetxeK4pOZO+Vql1OKk3vMu53bHWX4XgK1n/x4jyBkerAZKYo2ULPxxeWuETIfhUHaoVmO0YO8e54EuF/IMb5VDwgOc+qmM+2h3KuKQViO7s6cIO4w8okX8x04aqm9VxVWpDk+1QoceOqEWjl614JKKQJCOOPEY4mHIzUIilqBHpC84g==",
+  "URL": "https://github.com/xflr6/csv23",
+  "LICENSE": "MIT",
+  "ARCH": "any",
+  "BUILDDATE": "1593183208",
+  "PACKAGER": "Jelle van der Waa <jelle@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "python"
+  ]
+}

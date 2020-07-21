@@ -1,0 +1,26 @@
+{
+  "FILENAME": "gottengeography-2.5-9-any.pkg.tar.zst",
+  "NAME": "gottengeography",
+  "BASE": "gottengeography",
+  "VERSION": "2.5-9",
+  "DESC": "Easy to use photo geotagging application for the GNOME desktop",
+  "CSIZE": "3923905",
+  "ISIZE": "10063239",
+  "MD5SUM": "6ba18af433682d74784b3baa89e6798f",
+  "SHA256SUM": "2c6e33cb4471aa92fdaa7acf110bb497a7fceddce070dbbb5631d276776a7c00",
+  "PGPSIG": "iQEzBAABCAAdFiEEzgvecadZqH8j8PfYth284QkBwWMFAl4XDNQACgkQth284QkBwWMKYggAsA2GfHfDFXDMUJqTATTR1ixmnXvUDh6A/XZ1bUAs7ir0yAZx3R6ukj7BXVwmKEmFoxCSnJ3WB3l2dOLzGpoA2UbxJOMymzrmj8hgtG9mJXOdclkpuWHtUJk2qk2WkYkao+5eetJoW0+Xd9gmM4IP2JY2v191cTMhbPHP0sjk1bd+V8khoBLcO4ZrDmC8J2Y++FyIYnWAj11PnPfRrqbPqH7HL72y5OZLOsXh21q0foMvGJeJBjV2Do/nKqAPHRhKjwWFWXKKYypdMcNcgJ0NMGmbnm+z/eyxbTFYjH5vXOFTTFtEJZZMos6bLwjjG3zePIDcpg9xcZBgHDBAlTZXJA==",
+  "URL": "https://launchpad.net/gottengeography",
+  "LICENSE": "GPL3",
+  "ARCH": "any",
+  "BUILDDATE": "1578568252",
+  "PACKAGER": "Balló György <ballogyor+arch@gmail.com>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "libchamplain",
+    "libgexiv2",
+    "python-dateutil",
+    "python-gobject"
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "FILENAME": "kapidox-5.72.0-1-any.pkg.tar.zst",
+  "NAME": "kapidox",
+  "BASE": "kapidox",
+  "VERSION": "5.72.0-1",
+  "DESC": "Frameworks API Documentation Tools",
+  "CSIZE": "129149",
+  "ISIZE": "715671",
+  "MD5SUM": "eb1513fe84a27150e0f2669d180a9c51",
+  "SHA256SUM": "f91bcb6ea9fd48d5251e7b796cb5e6ab2b1fa5e1abf63d1daa29e7d4bb498be8",
+  "PGPSIG": "iQEzBAABCAAdFiEEFRnVq6Zb9vwrc8dWek52CV2KUuQFAl8JX4wACgkQek52CV2KUuRZaAf9FAf+EYNUgVa72jskwehBn5YaDy8SntR3rEuw2wv0Rm7fStx26cWPbeFgOSDT+RCDn1ehMqqcIWT+lJo3ZQ8lh8VkyqtqoGwzKbJGJx4dt0pS+5gRDvjZxJWe2mfdApdCBP66u9i0vMdQtW2D7fcKuirWo/WKe0q6Mmhyt/QMqB/yhXqrG6yfwiWKBMQZYGKm451CV+sUSqDjPBBMyUnOutJLMndRTUEXlZjIqDc2ZHOhJdNp2V3q2Gc6IohA8A+xnMMJbYpZRlVR0SY0wUEuSoQZCOS0J5nS1EC7ipEUGMsFNVxuKjYFzbcn6bDr6ROFSWdYP3yXt+/6QThD38O8qg==",
+  "URL": "https://community.kde.org/Frameworks",
+  "LICENSE": "LGPL",
+  "ARCH": "any",
+  "BUILDDATE": "1594200240",
+  "PACKAGER": "Antonio Rojas <arojas@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "python-jinja",
+    "python-yaml"
+  ]
+}

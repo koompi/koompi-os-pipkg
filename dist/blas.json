@@ -1,0 +1,23 @@
+{
+  "FILENAME": "blas-3.9.0-3-x86_64.pkg.tar.zst",
+  "NAME": "blas",
+  "BASE": "lapack",
+  "VERSION": "3.9.0-3",
+  "DESC": "Basic Linear Algebra Subprograms",
+  "CSIZE": "130036",
+  "ISIZE": "350956",
+  "MD5SUM": "d657e04c7b7b248cb54ed30360a89069",
+  "SHA256SUM": "98a173b787b90d88f543361f9cea056616536c8a68b81506c4951d5b4f353111",
+  "PGPSIG": "iQEzBAABCAAdFiEEhs/8qRjPOvRxR1iAUeixSKmZnDQFAl6/tTcACgkQUeixSKmZnDTVqAf9F3qNW7a/QVsFmaTY0KwTjZUXhmEb6mUsOx8HqJKhxgHnjmiGGiEZb0Ti1YcoxYonWPGbTL+ez5ztcOuUSzEpY8Xu04o47jW/EK8mmuMm37XVqJ9oqexpR2t/yQgMuqiIUmV0/vlUMB3fENuial2Su3COr7Ozx0iO1dPBipJCLHmT/EawvTzp7YYazJXpjDpuxc2KeG2q8vLB38it1uLLz+Ad+1j8IGBySx0KJbqZNZjuFp4bazXOb8qjud6chM67WdUXDkjQfsz1RnqXW1olIzps//obM4wzR5WywY2tWLHoPEht33ThNGyblYRTGQV0UbkS/0H6gS0TPsJcnZh/nA==",
+  "URL": "https://www.netlib.org/lapack",
+  "LICENSE": "custom",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1589621562",
+  "PACKAGER": "Evangelos Foutras <evangelos@foutrelis.com>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "gcc-libs"
+  ]
+}

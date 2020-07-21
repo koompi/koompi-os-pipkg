@@ -1,0 +1,23 @@
+{
+  "FILENAME": "bluez-cups-5.54-2-x86_64.pkg.tar.zst",
+  "NAME": "bluez-cups",
+  "BASE": "bluez",
+  "VERSION": "5.54-2",
+  "DESC": "CUPS printer backend for Bluetooth printers",
+  "CSIZE": "61292",
+  "ISIZE": "165152",
+  "MD5SUM": "8fea724bb85cfd4d1c1d30fe3d40735a",
+  "SHA256SUM": "50a125018692ed04eecfb7fc143d98d365f3af645b95166ff9c05582ec1ba49b",
+  "PGPSIG": "iQEzBAABCAAdFiEErcih/MFeAdRTEEGelGV6sg8qCSsFAl6kBtAACgkQlGV6sg8qCSsX/ggAi6H+Ly2L8CqMq2dhiJkUlgH3oPCCD7AoefzYwSUptK0+G+Az6HIUO1HfVcB2hMie41DgVNWiTI5chkQrJw26qc4yxVScvITgSNFz0JWZD6XD+BnErqq0AFCLT0r+mHh39CBt+/OJZh92dXVirkZmN5kaTg00IIRgxiE2PdhGS4cG158i3+ZTfIT3D2W6DKvbQ3XCL1rcRj8xE0pHmXldTc5DaQ/20g26mfMh6dr09SVVKbGyEglaXlA37ZcLj8XStg0ay3oqdEV7PKXHKeiTmpzwxyhzu+fJX6XqZdPMzO/eyAWLw6bBOynSu8EsthkD2613az/lzYwJ4f2iudvdww==",
+  "URL": "http://www.bluez.org/",
+  "LICENSE": "GPL2",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1587807808",
+  "PACKAGER": "Andreas Radke <andyrtr@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "cups"
+  ]
+}

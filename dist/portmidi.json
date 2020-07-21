@@ -1,0 +1,25 @@
+{
+  "FILENAME": "portmidi-217-9-x86_64.pkg.tar.xz",
+  "NAME": "portmidi",
+  "BASE": "portmidi",
+  "VERSION": "217-9",
+  "DESC": "Platform independent library for real-time MIDI input/output",
+  "CSIZE": "59708",
+  "ISIZE": "206447",
+  "MD5SUM": "91b1dfba305f12a045d6677d2ea80ef0",
+  "SHA256SUM": "b633cb267520309734c141ba2cd8ee60680890db2c753445829fcfad956c7c03",
+  "PGPSIG": "iHUEABYIAB0WIQTH54SUZv4jWDQ1iDdyWHNLQcMVSQUCXe1RFgAKCRByWHNLQcMVSZGCAP4psaEJSHsT5+arfNd0cWq5gGOCboDPKs7U/vwZvaxLvwEA6Vjil6wiDKGHO2sXhC99b5pOe4ChDHffdsP3+dPBMgc=",
+  "URL": "http://portmedia.sourceforge.net/",
+  "LICENSE": "MIT",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1575833409",
+  "PACKAGER": "David Runge <dvzrv@archlinux.org>",
+  "PROVIDES": [
+    "libpmjni.so=libpmjni.so-64",
+    "libportmidi.so=libportmidi.so-64",
+    "libporttime.so"
+  ],
+  "DEPENDS": [
+    "alsa-lib"
+  ]
+}

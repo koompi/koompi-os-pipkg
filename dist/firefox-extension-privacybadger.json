@@ -1,0 +1,23 @@
+{
+  "FILENAME": "firefox-extension-privacybadger-2020.6.29-1-any.pkg.tar.zst",
+  "NAME": "firefox-extension-privacybadger",
+  "BASE": "firefox-extension-privacybadger",
+  "VERSION": "2020.6.29-1",
+  "DESC": "Block third party tracking in your browser",
+  "CSIZE": "1147336",
+  "ISIZE": "1224490",
+  "MD5SUM": "5a2ed395bd8fb6f5fd4c567b1b51e71d",
+  "SHA256SUM": "ad21ec9cb4d4e8e1615784d85245a361efc60d0aa40106a3cb793aaabc3ce8f1",
+  "PGPSIG": "iQJMBAABCgA2FiEEYEETBMCdNmKDQO7/zrFn77VyK9YFAl8B6roYHGVzY2h3YXJ0ekBhcmNobGludXgub3JnAAoJEM6xZ++1civWlxUP/jHtHVWGl4DZEffhM3WC2m9jK0ZQw4F3+Bsj9T8X3pQ2p6CAsoS54Joq1O2jxDGFhP9JKijc7LXueBa1xtMf7e3H0rNz8YZobxZpZg2T8IcWTiqjCaFsi+TuapEFWvOSs7YZGq8HC/uFSl3nlI6F15GWtLVBZXLIp839XfHagb0z+LT7O6ugTzXZycwB/X8IQx8Q3WQHSUJZ288iVSPH4wmjGDdf9fPqmXnUH8MNoBpwn2YfB9YKr7UXg7rw2rvxP8s/uBMq8qEntE9iUzV+rqObH3x+MR/R4ZjIaJESo+8ja00AN5aP0Be9Bx2QP6Ym+tmWAFGm/O4ll0Nsjc6QESx+ngDRBCZu5AnW1chLZWR+/yYaLXdPrx1sDCUh851l/2tbakBOIjrMJgc2QcmDDvaQAx6VoHkQQJED2Fzmz2K3gtYvao/jvWWmDdMlRlXgUH3uINTbGs0UtmOGhKznKL/vI//n5f4zSxVZ1qCdaJOur3PKNlSFcgR1584UZyV29C4kwBPMt43POLae6/VGIxhr0WiI+Z+L00SLciuyTB9iqNFFtJzaTapT6pP7XYzMeKlC9npnP40x5haJB6HU1Lr0eKMNkd+2VWKDggbq1nDFlfQm40+mg1gYp3tPKHfSKvsRb7MqkPnXWDuimr9nfXWqmKNJOL60Em5wRzY9TqrT",
+  "URL": "https://www.eff.org/privacybadger",
+  "LICENSE": "GPL3",
+  "ARCH": "any",
+  "BUILDDATE": "1593960037",
+  "PACKAGER": "Eli Schwartz <eschwartz@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "firefox"
+  ]
+}

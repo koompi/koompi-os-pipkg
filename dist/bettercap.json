@@ -1,0 +1,27 @@
+{
+  "FILENAME": "bettercap-2.27.1-2-x86_64.pkg.tar.zst",
+  "NAME": "bettercap",
+  "BASE": "bettercap",
+  "VERSION": "2.27.1-2",
+  "DESC": "Swiss army knife for network attacks and monitoring",
+  "CSIZE": "8556692",
+  "ISIZE": "31926423",
+  "MD5SUM": "c186eac5ea96ff83caab8ade965e98c4",
+  "SHA256SUM": "5cc615fbefc0722e320d5fce4b9cfdf2c491cd6decde42be60792c11503ca587",
+  "PGPSIG": "iQIzBAABCgAdFiEE4kC1fixGMLp2ji8m/BtUfI2BcsgFAl6kYL0ACgkQ/BtUfI2Bcsi0OQ//XXl7Wawwcyhdgw7tiTOWNmFLoZdMnJdoXVvuwMDtH0RCM33JAMmvBnIGShzdL66awPgp2v6wxUEulpjQ8feGuSFvnWHQ7/Eq3m7a9p2s8WGgvW5+XOwakrRjMrrnCO1URQ4dls/Up2VasUkIOOVZDXAy0tOBoRjTi9rXCaqzwvWKRKmXZ4vlW6WxoRp//8kfDXd1dqAwaTzGk78K+v8NSEQ6MXPquUJhrcP1ITgrht5Uv5zbY98DrnHH15/yjFSswfkAB8hNeGFO7u/dYMPyYL+rvirIcS/G0Okd18sJc4WpYbLqjSivm6a01z5zkGqNgMav0UbzVdv13WTVOL5bbUIVRGWvHPlw0u4drV6wehiPgVPfO1+zLRPx9Cq6jjpGir8mC3arhxYjZ59JA3gFXLxpeidpRUYCOdUt4bRJ+9z6f+iBBvvsV8KtOkkqSjJwh2E33O1I8AJK14L8lCK3KOtDhmZyDSblxUyOKQxfDx2T99pWHH34xmzNv/R45u+y7oSTBBKV8EoZ2239D/dIawnT8XhP7aSZsnD6q5EUOLU7ihBmR1MDo9dnh1RwVg5qkAvk6s+mE4Nkynz1BUI4yr+uzfDmITfoxNbRXxi8ymxxliH9Kvz8eC5nX6xST6wRh0H4ZzEuql3gEEHhvEyKaCOY+4vIM0M3LuXvI4zJfs8=",
+  "URL": "https://github.com/bettercap/bettercap",
+  "LICENSE": "GPL3",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1587830918",
+  "PACKAGER": "Levente Polyak <anthraxx@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "libpcap",
+    "libnetfilter_queue",
+    "iproute2",
+    "glibc",
+    "libnfnetlink"
+  ]
+}

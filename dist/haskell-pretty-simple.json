@@ -1,0 +1,24 @@
+{
+  "FILENAME": "haskell-pretty-simple-3.3.0.0-2-x86_64.pkg.tar.zst",
+  "NAME": "haskell-pretty-simple",
+  "BASE": "haskell-pretty-simple",
+  "VERSION": "3.3.0.0-2",
+  "DESC": "Pretty printer for data types with a 'Show' instance",
+  "CSIZE": "181672",
+  "ISIZE": "1200144",
+  "MD5SUM": "2667a398d93f00dd10c40ddcb547e5db",
+  "SHA256SUM": "4fed1d569e70b527af6070fbb912a1181643d674725a535fc18f2502281c138b",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl75Hp4ACgkQeGxj8zDXy5LACg//WmKq2CUmcy8nQQNiPlwZniH2zN1/zclsnbXi7oCE3/ciJA3reXfQgg8QNRtWblfGAvOS1cj9It8KCregoKB/6nI5fe3vFLRNUhcdqRFxRVv3D2TXEcdgtrcDxTcelyoNGJtZzOTTGLAM54UGaPfqbQjcIrBdncxD/HqNy7rmmmnXL5FZnurRpgq4S/XQ10OMEedD47AUduEci6np+kRzCV4DLGezQDYjefAAiTICjJAIyog2KN2WKem6MhVumxmIJDyRS4yRVQNXFMlN8rcFj8V8URN38qh825beUyyUOJYU9g70oavMQnvkVTNREhZbFu2i+8OQxNBsA6B1Nw6MimuvWJ43J31mEZtq7pKe9PtnyC3GZR62+ExaD9ZLhjLB3a7ZRN93zDvwe9/6kjhkulrnaIIGC1c8mjjrWguondAV4X9SSGrFORg2lb9uPzPYNso5fTQ5ucD7nwjY8IvxhzzorbS+4/LxOVYh/XEEIVNyWQIb1jNQ6be60sMLBKTGWRc1OQIJLy9790foEd33Jiek5UFadnGYI5sbfrGMCQH5yetGPj/isnkVE8T3R++SdvTFlHkX6sEQI6PQRf62XywgweXSUSEPQeVVA28Vpb5iZ/PuOe4NpvgBiAO6ePfKXYrjILDce1p5lU1pV0kbV4BR1StpxOLPTls78fPWwLI=",
+  "URL": "https://github.com/cdepillabout/pretty-simple",
+  "LICENSE": "BSD",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1593384570",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "ghc-libs",
+    "haskell-ansi-terminal"
+  ]
+}

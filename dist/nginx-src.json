@@ -1,0 +1,23 @@
+{
+  "FILENAME": "nginx-src-1.18.0-1-x86_64.pkg.tar.zst",
+  "NAME": "nginx-src",
+  "BASE": "nginx",
+  "VERSION": "1.18.0-1",
+  "DESC": "Source code of nginx 1.18.0, useful for building modules",
+  "CSIZE": "711027",
+  "ISIZE": "6249338",
+  "MD5SUM": "5fb5ee35392c42b261a40e7e0973785d",
+  "SHA256SUM": "5c5fc4b4cb34c05fed5d83f0e6feec8d4df9a14e5c31bbd273bb8a1a0413dfcc",
+  "PGPSIG": "iQIzBAABCAAdFiEE7MrITBugimzI5j+78i+x14p3rqsFAl6giWYACgkQ8i+x14p3rquWqg/8C2T9qIB3InJijkqlNN7VNQCFYh3eJNGYoSqGeOKb9ceByg2ssf3MRxzrx6Etis9uEN3/vRKCSlwnh/lJjyGJEeY8tTlZcnCNP35/tIoTHTTRHGMQyOmz2bveLfKX9zDrD68ea4S+8lnAsSp1ryzfXJ6WO7jRD0bIbl7vf0NRE/xFrVJnIxLMK0Sgxs6xATfIzOQEOzu3c/nxV9UT4tH0iDZyXXr5sKlF/mBMLU+rVV/F3My9bJLrXlQ+MaEOgIeZ08zahzMv9G+wi6SXMGOgCaT8ox2zoRd+2FucJHZLNGk89+sL9XeQNJo3mgfgPEft3XxT1hgzB2+eVTF1o51ySvEX+3bqB+We/Qoj0PuYwWnY19txDujQOUUuyf5efkeOW3mgup2wng+atVKUY/eQsktRnjco70/lrTMw92RWp2de5J/4/ZZTSVpBF1zvhTXsT1tbhM+h0CwtqeuMOoePTSCIkFET+oSFbppB9klUQfDiCs6NKH/KynQD5QGDBhA25qqgqDkmD7iDNHZbQfjXq6oqsokP+UTMuHI97dXrdWyqgAdaYTBAV/lLqIVOv2anEi0DikMZFipgdksb8Y3o0ONFNrqh4sGf/ekRVMntZhCn87fsM8Y8kZCFBVaW8quoXFVf728uhG/xw6dRKVSnoPOJCoLM6+Bi7N8DBX+mwcY=",
+  "URL": "https://nginx.org",
+  "LICENSE": "custom",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1587577694",
+  "PACKAGER": "Giancarlo Razzolini <grazzolini@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    ""
+  ]
+}

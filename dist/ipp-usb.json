@@ -1,0 +1,24 @@
+{
+  "FILENAME": "ipp-usb-0.9.10-1-x86_64.pkg.tar.zst",
+  "NAME": "ipp-usb",
+  "BASE": "ipp-usb",
+  "VERSION": "0.9.10-1",
+  "DESC": "allows using the IPP protocol, normally designed for network printers, to be used with USB printers as well",
+  "CSIZE": "2478748",
+  "ISIZE": "8025702",
+  "MD5SUM": "9bf6de60aed7220dcd3591f7db3a48f7",
+  "SHA256SUM": "fc9cc0ab119b13cdcd84b287300aee9d90f8cb43003b73ffe33134b51c75a523",
+  "PGPSIG": "iQEzBAABCAAdFiEErcih/MFeAdRTEEGelGV6sg8qCSsFAl8MKF0ACgkQlGV6sg8qCSs/twgAgBRHyEhEQg9s8MEUwQfSOm4zIVM6kdYjHbFhw4awlf3z0zzKepEw9WrcdiA9xmtEx+oyseZsZu4YMQnqlKeRijHxgJ9o+hFpAat/YJI3Ayet9UgM91xzkLpp3fV4NbfXfdEk/XHsJSqPL3mTdzXuILq89PZVKyXv/xW+BkrcE51VJ8wv+FS/B7u8Cy7UhrGGvcNedtY9JnD6In9M06mC5HPkP/edssn/BX7VZzmk3aiCpkp+R0hzFk7rBdrmUnpZNA2c2VYfoSi5LoPQ0G74PECso/yQprSrbzFGvubQo46ABR37JtCWaFvIi+UTYwXHDpCvJSN+0qWX95Se4WrjSg==",
+  "URL": "https://github.com/OpenPrinting/ipp-usb",
+  "LICENSE": "custom: BSD",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1594632180",
+  "PACKAGER": "Andreas Radke <andyrtr@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "avahi",
+    "libusb"
+  ]
+}

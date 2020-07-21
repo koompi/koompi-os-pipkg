@@ -1,0 +1,23 @@
+{
+  "FILENAME": "perl-test-pod-1.52-5-any.pkg.tar.zst",
+  "NAME": "perl-test-pod",
+  "BASE": "perl-test-pod",
+  "VERSION": "1.52-5",
+  "DESC": "Check for POD errors in files",
+  "CSIZE": "8907",
+  "ISIZE": "10454",
+  "MD5SUM": "44d24094e8e4ee53ef7a43987e5b43f3",
+  "SHA256SUM": "31bd6dbd4e567fe786b6d2d4328e61a0d71f5018bb6ccd4169f6714d8dcde4b0",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl7vNyoACgkQeGxj8zDXy5JyTQ//cvnHD/LQXsJp3YnHxbkhoZ24T8LXplUU3VWEPzXiXlfdMFyrzcsPq2GltoEDy7vFeSBVoD+/FV8vPR8OJaoVYfYu0k0//q3U1l8mbKakWTQ13f3CXESmovNTjxJUEuHdIE/fxJR9XVxo9kRMRhLYjVCaVXe31Xa0OvbbZOUASWmlSTlcPhrLUId0LKOLjemTwthwC/9SttDuoDpj1G5MzQ2n/YJJqMIrr6JP0bOhGyXy69HyBvZFwJoV0n/JJIUYIMusS1kV8Wm7O2ybcB1K0LH5u5rGzflUoehDr2go3GU08g+YYOxeACCQY2uAewBfJYmxRiICZDyPqIDSNdO+RO5FHjugFOKJwjUzD7sUr4pCIl0SmCf1iYJooDkeku1AuSkIW2EjZeZXUNWEc0hdWwdDY6g602XetznAyJXcnBxVCXPyw5issN7466spzO/s52HPjOEwBULpjwMGDkzdUwhUxcT29KeRcao4Yi4QWc/84AAzAOXdIfZK6mqocwxjr2Y/h486dzDOlikBGAK/XyT8TUOIKUVxZ8oHHBtF5dc+074c22xnZ01SeagKDQbWOI0pp85h/O6n2aNlwTIdXR/NSi3oUq+roZAnwUB7dzZMyWM5EF/XzuOux3W/CC3h2mB9/frTwdwla5KWat35iSy8ytOM8GwgRsBq27eVZ4c=",
+  "URL": "https://search.cpan.org/dist/Test-Pod/",
+  "LICENSE": "GPL",
+  "ARCH": "any",
+  "BUILDDATE": "1592735511",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "perl"
+  ]
+}

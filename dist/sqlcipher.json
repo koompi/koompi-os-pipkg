@@ -1,0 +1,23 @@
+{
+  "FILENAME": "sqlcipher-4.4.0-1-x86_64.pkg.tar.zst",
+  "NAME": "sqlcipher",
+  "BASE": "sqlcipher",
+  "VERSION": "4.4.0-1",
+  "DESC": "SQLite extension that provides transparent 256-bit AES encryption of database files",
+  "CSIZE": "992187",
+  "ISIZE": "2946186",
+  "MD5SUM": "de7ebc38ed8fd41e01a8e687fab9c81e",
+  "SHA256SUM": "2625be2e2903bdcc42ccc8917f39f67c7fd49e403a4865e6898bd372c356147b",
+  "PGPSIG": "iQIzBAABCgAdFiEEOO3RiGdWkk4SJOSVJOTNsAE8JYAFAl7ZCx8ACgkQJOTNsAE8JYBdsg/+OqKrVsE3e90PyjsutHE8iFDfxuxY5mLWeOJ8B/5Jyfau7rOzWi6lC+YOiFFRQckHh7nKDJJEunpb84HhJEoNzvNqE/MbAsp7sxjVBC8uXa1d3P1DzbdPtjP/wxHwfHjFQEoo28ZSto1TLfhPfmH8bQpoBMuv4y92b455+qBybM2y8DHUzxz2uhOIJQTm722xDHgG8xq/rmPvBxrqP5RxEdKZL6IWUMxfo3cp3qH9cYdltDFBulxlJT88lSXiSQkPpW6B1TIQDTJnmHc5R59xF9pUznw1vvIuv6GldeIH3fsG/lWoyE2kT808HzNPAbpQwHIlwy1ebIOBSWK2W/Xh0maCCI+3OI9CRu3SOoI4f5AHG1UKVD0IzIjN7ywrsaqJ26kcAeXqQneF1soywhCj4lrmKyT8kFsL/BW+k0nPrb4LOTQtWLvOhW91xeTtjhQIBo0siMtZndpKY8YCNFKudogwoY0D0PHaAYI4vNnBiga7ro/RPbXLMzX94sl1We1hdnXe1jTAT06dpuj7KYn1hjDOMNAL0vxsy5wJnNHOppy5aFxaVb1PDkjzJDGKheokNJX4MdATrewBiAkgN8huBHWdXNNByHpY9aydR6d5E6F9f6LsRh0Kmd6nosEuRYstIFUUCqr5LjQElgGENJkF2JgnV14zEZvlSYHguwDtI7w=",
+  "URL": "https://www.zetetic.net/sqlcipher/",
+  "LICENSE": "BSD",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1591282350",
+  "PACKAGER": "Jaroslav Lichtblau <svetlemodry@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    ""
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "FILENAME": "restic-0.9.6-3-x86_64.pkg.tar.zst",
+  "NAME": "restic",
+  "BASE": "restic",
+  "VERSION": "0.9.6-3",
+  "DESC": "Fast, secure, efficient backup program",
+  "CSIZE": "6003580",
+  "ISIZE": "21756485",
+  "MD5SUM": "1c14fa151e6e7040489e106d7397bd72",
+  "SHA256SUM": "d30a3a668aff2cc4a9a57cf86523cebbb0e5e9e8d8a705e51b1cc70ff0795f91",
+  "PGPSIG": "iQIzBAABCgAdFiEEwQA0ZnZjToDJQPuenAL/QZ/svhYFAl7gAewACgkQnAL/QZ/svhZEZA/9HAMGaLbncHFV6G1jJbq9NxySn4Q8GOcX1NPnQb/6WqW3no0cLaj9TkaTOFW+fpaW/xfrzXmmVHDc0uk2LuQdsbS7F5tDm18Kq9Rnr3dzPj37sofeZUf4nq3pjbo1RwPB7LCt1bM5sx6Psa8I43lTQQbmf0tATe83ptJUNub54Xwk7dwy0u4ILwBaPet4/6IaLnXX3730/3mGgnnkDQTW+WDMHsPULAVB+W1ZfnLGmwoGpvd73hZ5nR9jlmcuoL8o7fi9p/fkvmk9/uztToNPn31GrW3LxA/z7k+1pbr/2yEcvw6ThAVYg2iJJFzAWpioewXFs7PQLf41E/R1/qsTCJ47Bb4XL7DtTtrLB15K+ozX3dbq3SXn9gRbqSAY2IMUR+zobQDT/XV8Ij4uJwwAg6M983jR0ErUwFBzRsijv0ExMZqmNNVBge4XgRGwLNeCYV23Dl55C0Hv4X+1Rb76F3CFU+z2HJBfW3ktiDtxfO0ggt+u5A+HOTSD9u6f3TWbgtVr9Ce0yF59lfb0B+RAhJilx5/4QExuyHpaMhluxIHAqctkHI62+J68MdLg3CWC4vDO/oxtUHz6EJ4DWaKYF3v5O5IsushBTO0CZ9QbMrV05ilwkbzmxWN0LuFg7Lez3/vVdHQSdxxbs3maeQV1VPUv7oKCTWQeS5QfHiJ07FM=",
+  "URL": "https://restic.net",
+  "LICENSE": "BSD",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1591738780",
+  "PACKAGER": "Morten Linderud <foxboron@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "glibc"
+  ]
+}

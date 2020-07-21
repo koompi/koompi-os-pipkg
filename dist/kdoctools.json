@@ -1,0 +1,24 @@
+{
+  "FILENAME": "kdoctools-5.72.0-1-x86_64.pkg.tar.zst",
+  "NAME": "kdoctools",
+  "BASE": "kdoctools",
+  "VERSION": "5.72.0-1",
+  "DESC": "Documentation generation from docbook",
+  "CSIZE": "591870",
+  "ISIZE": "2596398",
+  "MD5SUM": "f7fca082ad4302f9bed45ce7a5568c9d",
+  "SHA256SUM": "7ca2b6c03df7b27e73de97820fcbcc81d3a134fd73fd52c577487d87c7c0a406",
+  "PGPSIG": "iQEzBAABCAAdFiEEFRnVq6Zb9vwrc8dWek52CV2KUuQFAl8JX7EACgkQek52CV2KUuRWZQf/Y7bMVZJ48CBytunR+12oSz6L3/JnXczZPlBXrAe3AGqVOCc6orpJvJe94gCnXuCHm3GFl87C0cc4k8BVKLnwSkqqsCqLXy8wxfUAIsm2jo08rufx8a1Pydzvd0xEAmnR8CpeFo0AJlsI3+iVQYOwrXRh4APF+Z5RY4rbfZLKh94sDOSNG2H5bylanE4uf+EUKjrfgu6gXpFioTw14qEpvaqao0A/Tuj2NXlGX5C7vvJvNTCfNoO5jPRkkn2PYZxTR/yvy9Y2mWyo7RNBtMfde743K5Jkg3iWmlzOup42ywmuMXPF2N78r75Xj+nm2YIR7sqBXd/M/04LZYD14zaTzA==",
+  "URL": "https://community.kde.org/Frameworks",
+  "LICENSE": "LGPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1594200401",
+  "PACKAGER": "Antonio Rojas <arojas@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "karchive",
+    "docbook-xsl"
+  ]
+}

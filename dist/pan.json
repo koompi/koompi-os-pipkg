@@ -1,0 +1,24 @@
+{
+  "FILENAME": "pan-0.146-2-x86_64.pkg.tar.zst",
+  "NAME": "pan",
+  "BASE": "pan",
+  "VERSION": "0.146-2",
+  "DESC": "A powerful Newsgroup Article reader",
+  "CSIZE": "1207437",
+  "ISIZE": "4342400",
+  "MD5SUM": "cdf4ab9b98292bb5761732fb1061c899",
+  "SHA256SUM": "c3207ff914691518c0c6401d57d56438719a1056d708fdbb526dfa27df8034ff",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl8EmNYACgkQeGxj8zDXy5Jduw//SkTWZCxUQhjrX1MzZ/Qm7NFkxez/G/kNgfuBqEgOnGb0JM0FeAXxJGUlUeUCBlR7fi9fEAjZEC/YAkrPGSQGI3Rb+iLCijglTXoYN/ZkPFwLNR+N+TeQar6QIRmSSWrmhMrnSG1z1tPM17qS83HZWEDFWqeVfe16/7Zs62kuvS1ioJHthaPLs0uqPzUeekvwYlfLPInfaYQKi8sX5k5T6I+rLdxPs/Z4jTN+P4ql1J9x+nqZCWS6q0/8KGJcUR5VQu9xcYfLGOyN4dRPjpb8Fc6ydcPoxpRYT5iKKFsKd4/sNKcA3iiMIhw9AY6RGU6Rh1dJSLgq5D4w2sDqsdJ3yUhfektWlRDsEefizTlfj4KOzkyskPNFKV8uS3zJAxL0t0ZzkBifyoHoDQ10zUV8cmlnbQGilm1/6aNHTSZijmolQloePtg7kLJzmWQAHWLWA8Q6SJsiFWTaQN4+Jg6ifhHEuo6dk9r/ksciupm7tLLZa988GfdO+1tvqUvRn/SfWpvoG3c15Wsr+dG9jCEEhYqs/tCT2FPyB/7Fm7++pUHLKH0ERQLaw53ClN711uAM89GR6jesZc/Tp/W2vEknsvHuTuP+djgaRYEZU4fdGacFXqyKsBXfjR8yfHfSc3XUkzzEnfUKWDtq1WxzeQ8LDmXKR5xf7AqVBEt6CC6auz4=",
+  "URL": "http://pan.rebelbase.com/",
+  "LICENSE": "GPL2",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1594136694",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "gtkspell3",
+    "gmime"
+  ]
+}

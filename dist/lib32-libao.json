@@ -1,0 +1,26 @@
+{
+  "FILENAME": "lib32-libao-1.2.2-2-x86_64.pkg.tar.xz",
+  "NAME": "lib32-libao",
+  "BASE": "lib32-libao",
+  "VERSION": "1.2.2-2",
+  "DESC": "A cross-platform audio output library and plugins (32-bit)",
+  "CSIZE": "30940",
+  "ISIZE": "106496",
+  "MD5SUM": "e080fe4ad67917f3bf705eafb3ebd98c",
+  "SHA256SUM": "2faad51085ac1a2b4dcdbcecbf8d96a6552f9bcdcab4ced13545847b88eaed70",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAlvmHgMACgkQeGxj8zDXy5Iy5RAAuz4AJaoaOx+r4w443ZN+pOvsUbe6tRynjyljpEu5xlDT+Ay4/tjPRBMowmMcBB+GlOdoyc2zxRXFsagY9mJxtVy54Y36I931Yu/GxNmMNJQGrOEyeuSkXPf1quMVDGWNcPGHxfAFsOM3aKww2rl6y/QVbZxZ1tVZGoD+CO7ogajCS1HhsEg5VisSkz8kzktDcfXv1FFFc9InIzmhWiGjji7Y9hazQsk/3yu1ewdEM/WRZkZS/p+r2rKeKhXmA7PJ3ZKuFlohY3c6e/Ap/++UQPPA1kmZ9lprv8JI69/A6B9rF+2Es/22blt7Rk+gXp2sQqxG1qJKBUurV5Fh6Yr709BDZ4+9bx1J3OH+aYRMprnT6bzB1CEOMP34y2RbFJrs8MnduMixF1iiREJsvlzZkMvqir5qZj+V8YquwVvwG4fwBMnRVIBitAw0MS0p6OWq6T9DkNgFiygQE8wrUu3JYpjeXZfqAwo06qoPzIkjwYdUj8hNDfWrChDNT8AxqRMxoKopM/gMTeu03zcdBVntH8Cfmx9jqwCG408qm8+lbiIgAXl06SVefk7vcebf1Lm5RBQrZJz/jB+rAPc1iElyuUaQgzDG4Agiebdh9yoC3UakkZUVN999LTavournsBSsUrHHnIRbpQzSZB54GNnV1XAKKvIZNnvjnaQmACNgXdk=",
+  "URL": "http://www.xiph.org/ao/",
+  "LICENSE": "GPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1541807558",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "libao",
+    "lib32-glibc",
+    "lib32-alsa-lib",
+    "lib32-libpulse"
+  ]
+}

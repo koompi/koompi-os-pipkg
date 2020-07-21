@@ -1,0 +1,31 @@
+{
+  "FILENAME": "mephisto.lv2-0.8.8-2-x86_64.pkg.tar.zst",
+  "NAME": "mephisto.lv2",
+  "BASE": "mephisto.lv2",
+  "VERSION": "0.8.8-2",
+  "DESC": "A Just-in-Time FAUST compiler embedded in an LV2 plugin",
+  "CSIZE": "190312",
+  "ISIZE": "639566",
+  "MD5SUM": "79af371ea5d5dd9b2453e8fc35313eaa",
+  "SHA256SUM": "dcae1a38f4b8f4d44aaa91c208dcce6371b26f24490ad58e819309cc2ee18d95",
+  "PGPSIG": "iQEzBAABCAAdFiEEhs/8qRjPOvRxR1iAUeixSKmZnDQFAl6kY0gACgkQUeixSKmZnDRyDwf+NoS2dqKd1FNfpcR14JSMnNdXH0VCKLEcE4wwYs+2xNdoCcOGHKdLiTFUxmnko+zYTk+UuUdWxkavf9z0/BHsf5cMr7zn2QBXzPTEydvOYwLNBYgR5VXscdq3tjEDVV3vqBEE0Lik5JyAW+iN4kcsU4EOXk0c/Bd3AUc3mZNsHWJxZH2xcx3E2TgXaEGphnhb9sRxqqsHg6w7BhFsD5oBs8dDuWza11sNaopVv3aoLaXY2UCn8nM+nz5dq44T/zdujnOth6yPr/GP7lq2vCLe2QDaJcNXtcj7gAHhmPt/PYAjdva/Xf+VzzLDNH/Ulp4HhTmNGcaNqjcALkSDHv2OcA==",
+  "URL": "https://open-music-kontrollers.ch/lv2/mephisto/",
+  "LICENSE": "Artistic2.0",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1587831580",
+  "PACKAGER": "Evangelos Foutras <evangelos@foutrelis.com>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "fontconfig",
+    "glew",
+    "glibc",
+    "libevdev",
+    "libglvnd",
+    "libvterm",
+    "libx11",
+    "ttf-fira-code",
+    "libfaust.so=2-64"
+  ]
+}

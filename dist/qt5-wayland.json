@@ -1,0 +1,24 @@
+{
+  "FILENAME": "qt5-wayland-5.15.0-1-x86_64.pkg.tar.zst",
+  "NAME": "qt5-wayland",
+  "BASE": "qt5-wayland",
+  "VERSION": "5.15.0-1",
+  "DESC": "Provides APIs for Wayland",
+  "CSIZE": "1156766",
+  "ISIZE": "6542338",
+  "MD5SUM": "67b28af8c6d16398a61417b47209b26e",
+  "SHA256SUM": "02d56bde587f9fed09ddc8a5bf63adcc763f4ad1f744957c48b528f23ed562d3",
+  "PGPSIG": "iQEzBAABCAAdFiEEFRnVq6Zb9vwrc8dWek52CV2KUuQFAl7M12oACgkQek52CV2KUuRS+Qf/bn4uHwJ6Xhf6ZZ+GuIb/s6VJNPZyFxVAhAXpT3EiSH49yTMsx6MERAm/g42FmHiJ1o+Xx6C6v+wA27TTs4s2+5+0dp+jv0manVV8T/NiJS1vlg2R90TVV1suEI077uasT29hkHy7ilxpRWMfj77Wgh2SS2RfuSCJBYQ26cyxKY1WnjfEoLM5JaZl7+AvVHqE8RQ1aH6/6UWKAruoFvL4lzEtdYt7LUBlxTM7mOhG2HTmLh2GCDPHwGrVnJLe8QuNKbBgJyOVpUqCjNTJ3X1LsoPSpTx1D7diewauYGtRJhn9/xd+sx/HunA9Jgb9EOK5zFx2tE0dG+6kNN7ZCzFRVw==",
+  "URL": "https://www.qt.io",
+  "LICENSE": "GPL3",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1590482064",
+  "PACKAGER": "Antonio Rojas <arojas@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "qt5-declarative",
+    "libxcomposite"
+  ]
+}

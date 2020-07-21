@@ -1,0 +1,23 @@
+{
+  "FILENAME": "fatsort-1.6.2.605-1-x86_64.pkg.tar.xz",
+  "NAME": "fatsort",
+  "BASE": "fatsort",
+  "VERSION": "1.6.2.605-1",
+  "DESC": "Sorts directory structures of FAT16 and FAT32 file systems",
+  "CSIZE": "28672",
+  "ISIZE": "68823",
+  "MD5SUM": "894cca25534b5bf6043383c52e210650",
+  "SHA256SUM": "c8d9956124372cf619fc88d59f76b292322492ebfd7865181ecaba77efe192b6",
+  "PGPSIG": "iQIzBAABCAAdFiEEjhmSFnRl21+wRVV8sChU7XU+Dx8FAl3m+9cACgkQsChU7XU+Dx+iVRAApMwPlUi29Hw6BLKBLPBFhbFrAHQY42s4jsXGXyTyFVtr3UddFeNb0X8k73vV//IWqQrsMLVOs2GRiWxwRkfwirNDWuh+1b0TIBkHe0ArsGknHGVv+5TGVON6kCqjPzcysNuYZ53fXxD+aHt6X5Iuqoo0ZE18mEINGij0kUxA+0qcjZ0FV9KilGrTHoC8NrkeWsGQ3h7yF3e8EOhJtGGyrQ0gFwe8Vrt1Myr2auVQtqecAbvlPRNXoy+HIVWeM0dpStxRiBcuayvKoIlYJD/Iu5MoQ0YEfUMEpOvEiZujMwKP9fSTekJ4Oh7jjBwq4kWL8flWx1r4YHtR/GoDeB3akfrCKBx37IzgwTjE+5jU4jto8GgZVdzRV+j+c8TZa7MRXb4R/e7QlTOpLPRWDokvJaDZbofm0NiN0oKAFJLanw4776cjeQvRB+EG6RjNgWt7hGMStr+cQCIGrueRc2byLp7RTikRokiF1LqE39+JFlc6Q6irJ/N4YyjGKCXgg6f3IJ8V7B5qB4u3m5STG7ATGcIUxXdvsBt4CJ9u8ARYS+1xqNKj8YO91szv4xzCMjxg6MRItAF2xx18bxnU+/ra22leNB+N2OgXyYvWvB2cpwRAfljMK2W/Ri+YjVbl5MVlh7PL45VkOE9Wj2IBiYwHJQ8YOY1i0nCVlngFIitrqWE=",
+  "URL": "http://fatsort.sourceforge.net",
+  "LICENSE": "GPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1575418780",
+  "PACKAGER": "Anatol Pomozov <anatol.pomozov@gmail.com>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "glibc"
+  ]
+}

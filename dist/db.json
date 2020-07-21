@@ -1,0 +1,24 @@
+{
+  "FILENAME": "db-5.3.28-5-x86_64.pkg.tar.xz",
+  "NAME": "db",
+  "BASE": "db",
+  "VERSION": "5.3.28-5",
+  "DESC": "The Berkeley DB embedded database system",
+  "CSIZE": "1124344",
+  "ISIZE": "6719960",
+  "MD5SUM": "b4cb7ac83eb273492098fcd32096879a",
+  "SHA256SUM": "80d5582d0200e81bdb578e6aefd162308d8e86dfc2681418f460cff67d287fc9",
+  "PGPSIG": "iQEzBAABCAAdFiEEhs/8qRjPOvRxR1iAUeixSKmZnDQFAl3MJr4ACgkQUeixSKmZnDSEXwf7Bv21Jlch9Gujb8dzynttAqNuBidlrVlmpW2XYWDX2aXc04txowbLLg29fijLpDB5wq/oHTkwbT50I7RLUY1WO5Yll1TAqmWnvcNpBn3Vd8eZivzlDmeR5um6YHkfvmwzvpwj2z1R5FqqvUP2PB7A/VPCDr/4Bh9kg+EV2y80go3/Mx/LN+lA6OzoIqkLJukQeS0mR96wLD+8Eo+Y4DMU3J0UWvPwI+gNTgrxl71WKmJicmStunJZASRx0hI7RKlTpW3pGfxvF3qyOvbBnXliQV9y0ejgQKRSw8QiKzC58PEofl35zGJpnOWOVvfoYw8zp2/NQ3h1XIf0dSV7q+/o4A==",
+  "URL": "https://www.oracle.com/technology/software/products/berkeley-db/index.html",
+  "LICENSE": "custom",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1573660296",
+  "PACKAGER": "Evangelos Foutras <evangelos@foutrelis.com>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "gcc-libs",
+    "sh"
+  ]
+}

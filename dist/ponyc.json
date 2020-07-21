@@ -1,0 +1,23 @@
+{
+  "FILENAME": "ponyc-0.33.2-2-x86_64.pkg.tar.zst",
+  "NAME": "ponyc",
+  "BASE": "ponyc",
+  "VERSION": "0.33.2-2",
+  "DESC": "An actor model, capabilities, high performance programming language",
+  "CSIZE": "2467159",
+  "ISIZE": "19067630",
+  "MD5SUM": "eacfafd1c25cb58bf8c9058c1288e127",
+  "SHA256SUM": "648516a58b7ab130c84ab66f3b27541330f7149fb047fcac60b4c41da621ad75",
+  "PGPSIG": "iQEzBAABCAAdFiEEhs/8qRjPOvRxR1iAUeixSKmZnDQFAl6Xu8EACgkQUeixSKmZnDR9yAgAizSyoNjFSTQVbV+cV+XTnOT4kLZiOlnU4lZIZKo8BZhi0KzZYelg2LH7cRng2ucc+syroQMGdMdGysfRCtQZNsMTXpcBb62ei6fm75cOkRY3cgisy4cD2f5jzdbyyt37E9mvlYwMp0sV01CqTKDUjO/nJHmsfXzDcc1XDAH3ZHuwYfGGgc90HiDbx5+GlE7jTsCPM5CF7BSNgDCfPIpsYriHKvdYqR+ibCRPgeIfNldZwNwW4Wijb3gSWFiAUcirpStUEsrlEIgx/b4psajGB3DvV29HN+qO2jlEbYh2wNdB4cfAImfQysY0VKxZNxn3InAQJ/iMTWlbtrW3cJGmcg==",
+  "URL": "https://ponylang.org/",
+  "LICENSE": "BSD",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1587002193",
+  "PACKAGER": "Evangelos Foutras <evangelos@foutrelis.com>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "llvm9-libs"
+  ]
+}

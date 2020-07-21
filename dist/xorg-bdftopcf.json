@@ -1,0 +1,23 @@
+{
+  "FILENAME": "xorg-bdftopcf-1.1-2-x86_64.pkg.tar.zst",
+  "NAME": "xorg-bdftopcf",
+  "BASE": "xorg-bdftopcf",
+  "VERSION": "1.1-2",
+  "DESC": "Convert X font from Bitmap Distribution Format to Portable Compiled Format",
+  "CSIZE": "25547",
+  "ISIZE": "45807",
+  "MD5SUM": "e7e60605ac80d6156f4ed61e73b163a2",
+  "SHA256SUM": "6a737ae8bb8e2bde5762cb974fd50d0df02d50ed65f8186985e1a0fd6ff7495f",
+  "PGPSIG": "iQFIBAABCAAyFiEEZkWwqMcAXnjbHXhk+Z/+D+rpmb0FAl6zfQcUHGFsbGFuQGFyY2hsaW51eC5vcmcACgkQ+Z/+D+rpmb1E4AgAijr1MfXJOJ5lZ8mds+ppvkI+zJJVvQM0pnMkVbjcY/TzKrkLF1Q69ROOWawqBSiV0oFanfbWjHzRNkzWHaF2qOpBr65bv6GHpX2mwNKwsmv2whGQYQoz/ZlS5QOawMdPiUyXKcwj6Sh1MIfdlvk1JwbxtbUE9jNAekLor6rlPBSOkWgtkvT4Iw1uwUZseFN6jRSxJ166VCyPvTisSeVIp6JK4MUfuB1Lrs7iLLsi/qm+jDzpZ6iNxSd/KybQpZWWQIb+eQErHMO0cBGeqWSUtcHCBKWX7v+gnW9TivgwXfTt1xFmG0sL5MrQEdRmtWwuB73gBQnrwIye3YzFv8DNEA==",
+  "URL": "https://xorg.freedesktop.org/",
+  "LICENSE": "custom",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1588821200",
+  "PACKAGER": "Allan McRae <allan@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "glibc"
+  ]
+}

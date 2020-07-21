@@ -1,0 +1,25 @@
+{
+  "FILENAME": "v2ray-4.26.0-1-x86_64.pkg.tar.zst",
+  "NAME": "v2ray",
+  "BASE": "v2ray",
+  "VERSION": "4.26.0-1",
+  "DESC": "A platform for building proxies to bypass network restrictions",
+  "CSIZE": "8691002",
+  "ISIZE": "45487236",
+  "MD5SUM": "3f6840a4a1a75298d83bbd4010ec0888",
+  "SHA256SUM": "3be56c64f752dc40472403a12bb5e61d2b26a5d28217b02757b6ef0b9e0d0b14",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl8CTEkACgkQeGxj8zDXy5LOLg/+Jlw4SyEA6NREGa4YxotmKwso24fwMSvsXAFZsQQ2X8nPSMD2I42RqTRyoylHKPSWUMItIFMeRMhbPQJX97bLeQSZQdvq+V/WEToz53Q6apl3iH1yDDSMmZzIliKpTldcAg6mCIAxrWGYrkwVBO7TrgA6A2tLTfCJb0YC6H+DiYUCcLBTk+7TtW5nFUv31g7fSJxX4kz5PnoRSy8I5qNPJkjSs3JYADnhi0zGgnypKGcyNOW/Cqff4uo4JSY4yqszLx8sekWr/zn9QBJp4gROwVnB64nOzEPdYEq1dvnm+9sfMNbi23A+1bqEEJWhp0m270kJrnfVN+ZXzhiYcjPMdfygX5hsMqW01Gwgm1LInpZ29uYPMM7TMmMPQKnyMsfZfAIoQKwd5tHCGifYv+QQXQPlvt+ng/De5hTCFmNsz/LAHJN7mkN7CmTsgFGltyMJfiPTnnba3NUsVtGoG36Txqb9iKJEwVTPtpCNjCEU4V0vczIfwNfpZGZuJkzVg5l2WCxemy8lF3zXFxzIpacR1KAhRT3jYJGJ0zHx36frvXvazfKfE1KSdaSM2Bnw/S+6Gmx+Gx64dObeH9AJRc7W5S4jTIDmDYKWIduZ4SPHfoDVU46336iUoC7UctR3F+3JrhKsc4lVz0QF2Y00+ByNFQgpGKUz96YAu33adiyIp0s=",
+  "URL": "https://github.com/v2fly/v2ray-core",
+  "LICENSE": "MIT",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1593984086",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "glibc",
+    "v2ray-domain-list-community",
+    "v2ray-geoip"
+  ]
+}

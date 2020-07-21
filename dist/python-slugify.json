@@ -1,0 +1,23 @@
+{
+  "FILENAME": "python-slugify-4.0.1-1-any.pkg.tar.zst",
+  "NAME": "python-slugify",
+  "BASE": "python-slugify",
+  "VERSION": "4.0.1-1",
+  "DESC": "A Python slugify application that handles unicode",
+  "CSIZE": "12854",
+  "ISIZE": "32206",
+  "MD5SUM": "be2a55a17187264699f817fbfa56c915",
+  "SHA256SUM": "33f160ccbf86dccb2945446748e3d52bb6188b26a75e831ec9a0016ccbbf5734",
+  "PGPSIG": "iQEzBAABCAAdFiEElDfdOBWnqRaePTlGr/XZUJi8b/UFAl77OD4ACgkQr/XZUJi8b/Vd9QgAswNuf1xQCvK4sxBK+DSgGKUUC1H2iSDjLDhBsMrPknyolqIOgNFGbcXpoWQLyvJ++I7qG44u9v6lsCYLPSjKK5hiEDWUxq6HbFG1GL00eYN50+mvaXzVv+BjKgcmKXPXS/VWPpBSZixh6almZLcEv0/aRIScue2eRTxZwxLis/igcsSqMjFZAl28oMybmfuwCCEem2XM77NEoefOlfcSKxadKONKIwjBDIylWiVTwNZWTFljfXl6iMQqlc9MV6akVhqLvKg/R4rBeNR1QgueUHGrhPruXjlIj56FdnrhX1PZEap+kuphGWKYZQDnueiueBS5+yAboEZl2YvCRIJG4w==",
+  "URL": "https://github.com/un33k/python-slugify",
+  "LICENSE": "MIT",
+  "ARCH": "any",
+  "BUILDDATE": "1593522222",
+  "PACKAGER": "Maxime Gauduin <alucryd@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "python-text-unidecode"
+  ]
+}

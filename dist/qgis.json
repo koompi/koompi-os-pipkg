@@ -1,0 +1,37 @@
+{
+  "FILENAME": "qgis-3.14.0-2-x86_64.pkg.tar.zst",
+  "NAME": "qgis",
+  "BASE": "qgis",
+  "VERSION": "3.14.0-2",
+  "DESC": "Geographic Information System (GIS) that supports vector, raster & database formats",
+  "CSIZE": "52873993",
+  "ISIZE": "263790116",
+  "MD5SUM": "ae4c12350589804ae5f91bfba1d6d623",
+  "SHA256SUM": "b50b45ae7072ce36cb40874274971975167df9a785418ee54c29c3df443e3d69",
+  "PGPSIG": "iQEzBAABCAAdFiEEzgvecadZqH8j8PfYth284QkBwWMFAl7/TjcACgkQth284QkBwWNdNwf9Fhoc47hTKW8vamHGA7oyfgC8sOT5c8+RZsT66ZOfiVP7hVorO9DSLDpO/ttmbTPPctMalvLMz/r5LZ+qFaEcvsHMSZP0c/sgSNjme9y7aTh1np/+ne8jouPpvXZ9HE6WqP5CG/8QILmwF7rK/OqGrPuFnQ6b2Q8fwWnF6RdplTWGX0/y5I1slNVZUQo0RgfE6y9cCAMnHNY2uyMj5JfkxQal+1bopGPzT+hFHtHdiB53pGxi7FGndNnsUV4tOaprM1WbFe/n6lvgXqW6pThcmhwiK4epCqcKOXvmFZIIyNrdylkHRKoJTf4qxuMbli6si2FfLIcrN4MvW2D4KAWC8g==",
+  "URL": "https://qgis.org/",
+  "LICENSE": "GPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1593788744",
+  "PACKAGER": "Balló György <ballogyor+arch@gmail.com>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "exiv2",
+    "gdal",
+    "gsl",
+    "hicolor-icon-theme",
+    "libzip",
+    "protobuf",
+    "python-qscintilla-qt5",
+    "python-sip",
+    "qca",
+    "qt5-3d",
+    "qt5-serialport",
+    "qt5-webkit",
+    "qtkeychain",
+    "qwtpolar",
+    "spatialindex"
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "FILENAME": "python-terminado-0.8.3-1-any.pkg.tar.xz",
+  "NAME": "python-terminado",
+  "BASE": "python-terminado",
+  "VERSION": "0.8.3-1",
+  "DESC": "Terminals served to term.js using Tornado websockets",
+  "CSIZE": "20728",
+  "ISIZE": "56444",
+  "MD5SUM": "170039acf71b8164e29a7c2be192db9d",
+  "SHA256SUM": "df989f0fcaeead72d53825c34da53ed4266df6eb4b48f3ed93cbad6264a3cc0a",
+  "PGPSIG": "iQEzBAABCAAdFiEESMOx8w3dD+Z+UW0WOW4+JbqxQsEFAl3i+uEACgkQOW4+JbqxQsG8CggAjkPEa8tak0W+k1W/uM/aXKxoZzRrKue66G2c3KdIA9Lo0kjFgNAy0Gb0Hif+sf3BmSx/ViSX/NWbI1e9EUg6o870f8NN3T09ULhI2FhAsLUThMzR4eHdN4BiIhmtdRRTZU/mfrQ/6OffCqIlj8URBKlxer7NEdqRocftK2wvvZ4ZwbtYAu1MOn9gPhj4RYeN2JSlUzP1Znmstcq6IdfLULus+F3OLO/vYlKrveC0pr794KUA7f90RG21PL4AJtV+k8D7qxzblf98ilbuyYlae/dUUy6YOgAu+bZrBs83zFh1BFBFEyY/jXsGkLkz5MAP6L2Pjyw3ZixEcynwgxPaOA==",
+  "URL": "https://github.com/takluyver/terminado",
+  "LICENSE": "BSD",
+  "ARCH": "any",
+  "BUILDDATE": "1575154897",
+  "PACKAGER": "Kyle Keen <keenerd@gmail.com>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "python-tornado",
+    "python-ptyprocess"
+  ]
+}

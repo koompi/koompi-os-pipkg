@@ -1,0 +1,23 @@
+{
+  "FILENAME": "perl-yaml-libyaml-0.75-5-x86_64.pkg.tar.zst",
+  "NAME": "perl-yaml-libyaml",
+  "BASE": "perl-yaml-libyaml",
+  "VERSION": "0.75-5",
+  "DESC": "Perl YAML Serialization using XS and libyaml",
+  "CSIZE": "72872",
+  "ISIZE": "189493",
+  "MD5SUM": "5b621549be281c753cd80c5ec047cd7e",
+  "SHA256SUM": "4e130795544ae4ae8fec7ddbbf5bb06d761c9923958cb4ed58fdb9f369591caa",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl7vM6MACgkQeGxj8zDXy5I6ABAAi4abMmCFXA4vjvZj+orSiTFXk9Pkr7HRrEVZ5+DH+pzb9fQdf+r8lJ+dD9OVM9Gi/6L1cEBoKgXgrH+hK+Aa+wTe6nqRH4Htn7wZsj2ZbVCdYwZtXl4MH0HV8i54QZkFPLYOzFoIloqzj6Fk96oFQgZGvLLcEGHxU5BuRs+Mcqx1zQC6dm9Z9ngqNfM/dwChEGalc6pJYXZGOuEXvtB4Nmb8/56wonw2VfLOHRJjykDgmuaQBwErbKQb4rT/IALgqB4/V1jvr6HNTKehufScarUbRb8wGkriHi+2Fz7t1vzcqB3pAA65hqI8/2fXY51PDK/hcAE/AOfNBQctGF5iEyqyFYLgdK0hUPTyD65tg6H3NquC3N8uc2apu6NQXeiuWlrazcBSFugmy2rdCvXPO6rQi50k1dtDk0o4XUswPxURkcPC5qClx4s+sy/mtkqKCjUoSd/lyVF5G+z1C0/6F18NxYDuQsPbGqX1+9gFIR/UBiNqOrr8JG2vZRq6NTpp8pwkHq+rg3m12NU3v6HiPOcpYTlbjLMh+H07Fd/o3kbAiEFpYmAhyqyqlWSaoWu/Y3HCNwiJvsOE7IUOiSku6EKnkB5xTkDCrwgvA8CBzlBhLlWFzQjcs4XLiWlbCBg6Q/jrMx1BWwEvmaiFkwvgjqEQEEx3A2wd637xriswtL0=",
+  "URL": "https://search.cpan.org/dist/YAML-LibYAML/",
+  "LICENSE": "PerlArtistic",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1592734417",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "perl"
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "FILENAME": "libmatemixer-1.24.0-1-x86_64.pkg.tar.zst",
+  "NAME": "libmatemixer",
+  "BASE": "libmatemixer",
+  "VERSION": "1.24.0-1",
+  "DESC": "Mixer library for MATE Desktop",
+  "CSIZE": "199220",
+  "ISIZE": "1234549",
+  "MD5SUM": "6d6033d58ab17b8c7891913f62ba182a",
+  "SHA256SUM": "862cf5bd7f41069ac3f67e6ac3a0124cb0c619e425489a661ae8c5a2b3251270",
+  "PGPSIG": "iQEzBAABCAAdFiEEzFln1AlbTztC1F+ggaQC1POCu70FAl5VhvMACgkQgaQC1POCu71QBggAmTu2kJEpsBVlg1rtIa1iJwOwCZI+10Tjs7jQAH+sTpY+ZCEVXYhAPxXEU6ULDDbeZiJSaHP9iyAmmscCrICMEs/JWYt/rvivCJWIek8QMpSpZkL2V7VKF648vMQqKev2HzP+OrAlylwgUWgm8xLz6FIGwYuT3GkONe9YbpEq5mAyeSPi0t6X26UxBUFJurl9KvpCPSXaGSNib2L0BJ6aICPqsixuKx48NwObahOexbT7RK5mcFSxkIFv0CP2i2XsCH/YTzvc/ZqFga2OkldRuvS17R5MCx5vi6EGzmPjVC64My1SEF5BwDaIsybxwYLVc8Z8KTO+7HWh/1h8txniZg==",
+  "URL": "https://mate-desktop.org",
+  "LICENSE": "LGPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1582663339",
+  "PACKAGER": "Brad Fanella <cesura@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "glib2",
+    "gettext",
+    "libpulse"
+  ]
+}

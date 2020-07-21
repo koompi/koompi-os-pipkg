@@ -1,0 +1,23 @@
+{
+  "FILENAME": "libreoffice-fresh-ml-6.4.5-1-any.pkg.tar.zst",
+  "NAME": "libreoffice-fresh-ml",
+  "BASE": "libreoffice-fresh-i18n",
+  "VERSION": "6.4.5-1",
+  "DESC": "Malayalam language pack for LibreOffice Fresh",
+  "CSIZE": "430044",
+  "ISIZE": "2643326",
+  "MD5SUM": "810ae7bf3dba8548b22d8d3d07e80763",
+  "SHA256SUM": "dfec0326e274d11efca88184d752ffd5baa789530266d7d42304c9d4a5490f1d",
+  "PGPSIG": "iQEzBAABCAAdFiEErcih/MFeAdRTEEGelGV6sg8qCSsFAl7+FyIACgkQlGV6sg8qCSt7zwgAliGXAZbX7gZw0rg/rGLlanw5Xe5J+jyNdn0uscDmi4DtIzvhOQPdW3dyRlUQadcBxizWiyWebX2CH00t24tirC9cEW8LNefxTPgvRgvINNMwQVu9ZaAaZwqZKhiqbcArWLBItEEjA00U1TF4CQPjhvKXtkRWHE3Gfl8ijpHFDrAdBB3agdaiYU6Rd3Xk9uMdS1EHOv9ruoc/L0RCTahO1ovaMjC4RZPYxSexrL0aqqIJT6cjZYbzdr0i31g9/hR2nRbj5y613XK6jA4vk60MPWrFwtEjSimkmnl7cQVFcX9FUJCs2mNlRQPnvpmCdbAMHva7VUHBxTJPTGg/fqVWAg==",
+  "URL": "https://www.documentfoundation.org",
+  "LICENSE": "LGPL",
+  "ARCH": "any",
+  "BUILDDATE": "1593700315",
+  "PACKAGER": "Andreas Radke <andyrtr@archlinux.org>",
+  "PROVIDES": [
+    "libreoffice-ml"
+  ],
+  "DEPENDS": [
+    "libreoffice-fresh"
+  ]
+}

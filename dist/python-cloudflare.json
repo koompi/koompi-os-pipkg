@@ -1,0 +1,27 @@
+{
+  "FILENAME": "python-cloudflare-2.8.3-1-any.pkg.tar.zst",
+  "NAME": "python-cloudflare",
+  "BASE": "python-cloudflare",
+  "VERSION": "2.8.3-1",
+  "DESC": "Python wrapper for the Cloudflare v4 API",
+  "CSIZE": "56228",
+  "ISIZE": "293241",
+  "MD5SUM": "bca887888865f8068529809762983522",
+  "SHA256SUM": "0a9baa29230e3fe5e11868c934292f038099a4c8c1bc0cf0107ec9e09cd58cc3",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl71WiUACgkQeGxj8zDXy5IEtQ//dLaqs4e8F0GCVkAWhIkIEyfrLKtW0F+DN1rEJPq0//8t1JuekFeh3L9Jmzc6JdINA5KuGZTablrDygZHpG6fw/2xEvGScz7aVqYlAzXR4n3r5YwwTClXRg2gvx2/p0BRmOfbY+66J5TuUg8ejD5ddlkgQaUuGxxW7g8LBcm+V5eJzbcKQfwsEr3u3q08a467Ljzm3uXKsx1q7rBpCOrMQJZlGLkeCoYLk1vVuSrb+TtXWKWSM67WLugs/CTREq2NbU30VSeg3Y7iIWKkoQldSw9G5XYO8gKIgDfm1fC4y78NXR0ur9EpOsZEY6JgWky5inrhlkjsfOoFOfM55q5nRv/6FUHCXxd9HMnS1ZhKVOD7bA+iy2ci3qvzbUnsSLQ+e/cGzoeLumLlA3C1oCqpCDYuTxUHxPSGT5dCHBSy5Md6K88WQjUiGWbctQPtXgaRbSOPfEXi/kOTvaaI/MWC340s6g0DTRQdfz3m1o21XNhvU6afzu+6LKgSq0aTHpXxFfJvugtotrb5fIGoHB0NLGO12TpejPybCJSSENHmV96KpAiAPtiC+FA9x76EHsHIqYiyDPNg9+JHBUPdFAshc/+arMmhAEeiNTiEofqHqq+60ABwVnE2TQ1aMF6eMtZwuW0crmJxrZKrCM2qyy999tHJeFOw7mP3oujSJdoEAVA=",
+  "URL": "https://github.com/cloudflare/python-cloudflare",
+  "LICENSE": "MIT",
+  "ARCH": "any",
+  "BUILDDATE": "1593137657",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "python-requests",
+    "python-future",
+    "python-yaml",
+    "python-jsonlines",
+    "python-beautifulsoup4"
+  ]
+}

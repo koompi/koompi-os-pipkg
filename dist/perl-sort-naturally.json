@@ -1,0 +1,23 @@
+{
+  "FILENAME": "perl-sort-naturally-1.03-6-any.pkg.tar.zst",
+  "NAME": "perl-sort-naturally",
+  "BASE": "perl-sort-naturally",
+  "VERSION": "1.03-6",
+  "DESC": "sort lexically, but sort numeral parts numerically",
+  "CSIZE": "13491",
+  "ISIZE": "27392",
+  "MD5SUM": "56156af0352475bf884a25b2ef74db36",
+  "SHA256SUM": "220a77a9135bc85c6228eac70a3e5e243be905e066dcf9e7593bdb2d43c9d39c",
+  "PGPSIG": "iQEzBAABCAAdFiEEhs/8qRjPOvRxR1iAUeixSKmZnDQFAl7vh+gACgkQUeixSKmZnDRunwf/Z0wrF31fX9Y4/63wzMlbdv/GnEtimLzRGNLWiSAOJ/aje0lG8RDAfmEXhUruyH6XOHA0qCdOdhMoTy4EC/KXo8V/g3W0NaGt55W4kcebIR+VfMq2gU+LHB1PMZzgR/fTqrHsUg6Stx7wBhBSbLdzx2qHi8Wa0vCZHMjTC6SWbwKKcNb6ZXuxwwATM+hh0IKMc5M2QyGdyVmrQHXaT/2LryVuEM7Hf9N5U7sh8mqsBRW4YlMZ6J99uqOQ+fBEFfjuZA54bM8bDua0PjcZ99Lbkc8GAfuq7rvfJT7OurBC2MuGDPc8KqFjT3AVyvgdVVisMpmV9RSYINQag0YdNdZm8A==",
+  "URL": "https://search.cpan.org/dist/Sort-Naturally",
+  "LICENSE": "PerlArtistic",
+  "ARCH": "any",
+  "BUILDDATE": "1592756186",
+  "PACKAGER": "Evangelos Foutras <foutrelis@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "perl"
+  ]
+}

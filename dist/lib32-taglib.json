@@ -1,0 +1,25 @@
+{
+  "FILENAME": "lib32-taglib-1.11.1-2-x86_64.pkg.tar.xz",
+  "NAME": "lib32-taglib",
+  "BASE": "lib32-taglib",
+  "VERSION": "1.11.1-2",
+  "DESC": "A Library for reading and editing the meta-data of several popular audio formats (32 bit)",
+  "CSIZE": "254928",
+  "ISIZE": "987136",
+  "MD5SUM": "04df32a9c7540a55be6fc615768a75ea",
+  "SHA256SUM": "5bc230309e286bc5856ce7f827ac7286d5a49d8624d31575869b95ab5ae9c07b",
+  "PGPSIG": "iQEzBAABCAAdFiEEhs/8qRjPOvRxR1iAUeixSKmZnDQFAlvmBtAACgkQUeixSKmZnDRuiwgAuE4l6uA/Chp5agqy5ovhopPhU/tukwpMr6c7NKANXZyZxjXdM9yGKABN0hyRafiVLQkV/xOZ2kskl6lVp87fwRiOYnQFL358+MawTZ33m9UZ/Yghj1xQ4gxz5SHKirx1UBMAr/e6UuvH78x8Msor2l5Cn3RAcd20GWYpRPZ/SZJNtVseFqypUSCngPQdeiDcdGnAhIdK3mAXW8YqLd/dcFxCin4zMvRl4qUywOTm1h5MgHCN3CS39nJQSdnONVWY/+9Yl2pb/M0wLwgf5VlzpzLvO2+xMjVADoJD3I5aFcXB7HmokUmOeTFdgovNupqJUPZWV7FIG4HENYLVTq1dxw==",
+  "URL": "http://developer.kde.org/~wheeler/taglib.html",
+  "LICENSE": "LGPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1541801644",
+  "PACKAGER": "Evangelos Foutras <evangelos@foutrelis.com>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "taglib",
+    "lib32-zlib",
+    "lib32-gcc-libs"
+  ]
+}

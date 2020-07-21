@@ -1,0 +1,23 @@
+{
+  "FILENAME": "perl-text-bibtex-0.85-6-x86_64.pkg.tar.zst",
+  "NAME": "perl-text-bibtex",
+  "BASE": "perl-text-bibtex",
+  "VERSION": "0.85-6",
+  "DESC": "Perl interface to read and parse BibTeX files",
+  "CSIZE": "239582",
+  "ISIZE": "528255",
+  "MD5SUM": "eda283fa8ea7863841a9d158cf69cf15",
+  "SHA256SUM": "91126674d7da75db0d92704d778e2ec45e94619f3a8550c9f913c55bbc8dd0c2",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl7vfPkACgkQeGxj8zDXy5IKthAAre7sgebXlS30wPsaKzqv3W0mVQlNYHHNaqUCWVlE26UyoGKVjlVVTamc+/cRYREz9KnPni8YcnvkAY8djPtzGQwEUMtsxZTytMYNk019NKAG9Bs3kq8c98N5b4DwlkcJo0yp08yPZDeeyLhJQqNRRWG166Wlt75cDkGZ+vdpgBvil1Dhnnb1hs/zOYnmuZPEhqs5JFXMb1EJ5OQk6UbPVNnUqjOk30WbMe7RTszjLKBiIe58jyFZb2SXZbxPCygrNb+T7Vyis7BxVCJkRosATzcptJi+VF2y1ZDmXG80j7+29fKhtJfcTwu8Etk+mhZe0ljid6/1fy5IJVOwewyKTn5pY/JIIHQdC6S4Zt+e5pHdINdF42CV5xETJqPXKEDEr41AFbnRkYS+FZTrKWSF6WiLskKNZ7LCa36EbMjBF5DRyumYDxTdHZqiW0tjQ4h9UIVJiEjNyTbvv8UQ4jrtbqRIGw6gAlC4JoKdemRAK7e5Vc1AjM5wsyw3iwD7JYuLVyESZ9ROi0OY/TTC8Qbi68KPOR7rbRLysIrjCozeLlBJGpcRjlqt+7cewgIUf09umzRugYdRDfLPKTTk9uOPLtPh7DnlOdPBIDavevXeKi9vz5dKBxvp02o1nRZQyPW9YTdXwyg5Gi2kfRudnKtuV39+cLnwOeAfre64+VQma9s=",
+  "URL": "https://metacpan.org/release/Text-BibTeX",
+  "LICENSE": "PerlArtistic",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1592753145",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "perl"
+  ]
+}

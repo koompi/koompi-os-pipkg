@@ -1,0 +1,24 @@
+{
+  "FILENAME": "haskell-should-not-typecheck-2.1.0-71-x86_64.pkg.tar.zst",
+  "NAME": "haskell-should-not-typecheck",
+  "BASE": "haskell-should-not-typecheck",
+  "VERSION": "2.1.0-71",
+  "DESC": "A HUnit/hspec assertion library to verify that an expression does not typecheck",
+  "CSIZE": "11777",
+  "ISIZE": "28644",
+  "MD5SUM": "bd055ed8e90d64d75588c2854cb7b0a4",
+  "SHA256SUM": "60f4df93117da8c1ae30390223a9da495f37971d7030a064b9d5bb3c91480e4c",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl75FQ0ACgkQeGxj8zDXy5II7w/+OHmAKYK13c9TUBaLh/w4iUoqr15G0YCJHh/7rdJrTJsSJo3rHD/ErfJj4+ZX3ZKkkAZ3Y8au80XX7SA1AYWP9LfRQFK6QGpmGux6UY0WofoCxFRYkLLzaxaAgAG7eQftOyYmACc+oInIOhs9K4vnPSWIUnx5k/boj585qsmMj+VzWm3DGsQlys9IGQRgU+6RmnrXO3k9lrx+loBHimp142dYkakz598hPppk96pfHVl1CEIAGFTjT/ha6k6WDMmRh6wLszqo6QKEVnsUUzW7i0TkAi3b4xiUKD3uxxheVAyJ08t7ZyXLDLakjogMo4ir0Zl9k8pfx0t2aT8XndOcPwIIQV3y0pgWfeHsLLnOOV8+VAeY+VNkHJbT7uZ8Jiemvr2/IvIQhdDimZO4bAEVKVoLFiqpEIZWQkgWMQZAhTl9Cbm7iRZGqLjpxkdcsdS/a1Ms0i3TDQ+ZLVybe+uOP7Yto0D7G4IdmhmHruynoBzgZ/1vFKick3obhwAUH2DmlAcxrNF0vJcT5E8jV4L6OsFDZnunBDlHMePbyVqE2K58oy2mUfa7XbcB8Ug0IXAwQLA0ahc/KcGjs6cg3XfhJbRROcOV1/rWs1qEQVIxwv53a1vEVOPQ2DO9dMYoHrSWcgZvP70oQDzSXTZLzd1S+9flov+VZpzw2A74sgLOrdo=",
+  "URL": "https://github.com/CRogers/should-not-typecheck",
+  "LICENSE": "BSD",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1593382133",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "ghc-libs",
+    "haskell-hunit"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "FILENAME": "ispell-3.4.00-3-x86_64.pkg.tar.zst",
+  "NAME": "ispell",
+  "BASE": "ispell",
+  "VERSION": "3.4.00-3",
+  "DESC": "An interactive spell-checking program for Unix",
+  "CSIZE": "369683",
+  "ISIZE": "1392172",
+  "MD5SUM": "d758ffc5bd73c6947e8a5131d46650b6",
+  "SHA256SUM": "10ec80fd6d5ae4dea1fdb453d055a0e2b1bfecbda92fc7341d93c680202ed516",
+  "PGPSIG": "iQEzBAABCAAdFiEEhs/8qRjPOvRxR1iAUeixSKmZnDQFAl7DoKQACgkQUeixSKmZnDSJvAf/epwyOIclNN0dAYw1zKKyg5tKUoMG1A9YpjNt6Mcdg5AwUkGMFPFM7glkuY3W/fpHRcHg/tXutBDVy4vpZ4wLhRwiaCZswkUlvvBko9CrKab36fK05Rztiej8xow6TAZUEha0RiUtqHYk69Lz2aA7C3J7Ndmp32mnM6Vd72il9U2oJgrDxlkot05g2oCC9mTN5h31+Xuc41UIGsG7fIxal4Rk03Z2Wij30obylK8Vc9HSEzYdQx0wbZFS/3GznZCGY0vQ1tJz2xtfDn9TvDD6vGH8TgtCErYGoqyZL3aHi/121KLsUhNbkJcR8tIWdiC6gtI3LUzT+u15BP4UqJYq/A==",
+  "URL": "https://www.cs.hmc.edu/~geoff/ispell.html",
+  "LICENSE": "BSD",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1589878927",
+  "PACKAGER": "Evangelos Foutras <evangelos@foutrelis.com>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "ncurses"
+  ]
+}

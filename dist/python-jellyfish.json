@@ -1,0 +1,23 @@
+{
+  "FILENAME": "python-jellyfish-0.8.2-1-x86_64.pkg.tar.zst",
+  "NAME": "python-jellyfish",
+  "BASE": "python-jellyfish",
+  "VERSION": "0.8.2-1",
+  "DESC": "A python library for doing approximate and phonetic matching of strings",
+  "CSIZE": "34774",
+  "ISIZE": "118731",
+  "MD5SUM": "de42d4054af0b4018d18b27e84755507",
+  "SHA256SUM": "f424d4a74dfa3d5dc2a258b11d67ab7a70c69747be6d8cc14115eaa97ab9bc11",
+  "PGPSIG": "iQEzBAABCAAdFiEElDfdOBWnqRaePTlGr/XZUJi8b/UFAl7PcRIACgkQr/XZUJi8b/WRIAf+PsaLSTixf7Xhf2ztOecetEQa8P7dZGd+0TdtGbXO2hviz/FMvNJF+x9bwWrmxv3qPEqWzpv0mWR6N0E1ULYWV+K4UZuetIoXIn9hL5G7saofhvE5bJ85QUkQkuh3gqkk26UGeb6TBL4p8dKtzY0yU4lMCYvgASeVJJafOgyX3KSBtETIoQ2X583KaQ/jtICcaRqoLPQOOVwaQAvPTVLhPpip3/0hJZT/Uo4TRwW+MxzVFyM0GrRgjrN7oK8jy3TjoltzJEoJDC3P69EVffqhK81IrbLUSXbEH+VbfinbSXgt/v/cf7npOWJg5RtWAoatBZRx8g2Zfa24FjO4c6IohA==",
+  "URL": "https://github.com/jamesturk/jellyfish",
+  "LICENSE": "BSD",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1590653183",
+  "PACKAGER": "Maxime Gauduin <alucryd@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "python"
+  ]
+}

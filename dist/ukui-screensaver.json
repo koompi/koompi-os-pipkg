@@ -1,0 +1,26 @@
+{
+  "FILENAME": "ukui-screensaver-2.1.1-3-x86_64.pkg.tar.zst",
+  "NAME": "ukui-screensaver",
+  "BASE": "ukui-screensaver",
+  "VERSION": "2.1.1-3",
+  "DESC": "Screensaver for UKUI desktop environment",
+  "CSIZE": "189348",
+  "ISIZE": "569715",
+  "MD5SUM": "cd2cdd15e8eb8596b8193fe71e896e75",
+  "SHA256SUM": "99fdb880a3c91acf0b014ba56765c4e6cfb8b314ba487b8102079d734e6a7e91",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl7rG/wACgkQeGxj8zDXy5L6tg//eRUC2EdUGXY44XWGV2EZbW8BYVNPDkbbzTK5aawEHLv4AMTebTcgYai7dVat13qwEEIHj4Pc+fq2KvmTCNPgBw8yieZWbtYQ3xyBzp2Q4t2QhZjrIgD4IGm/ajtw2uDdLUyRjDq8CCXpXj1OII+S/pqidXSz/+rpkeF5OQzm2FIDJSfH9GepZTCiaDKZXoAWHVUgTQwC/bnUxNneJmCIMJKuGA0Fnb9MWcCKGLk+1Y6kxBoMbI2MJvveF1T17aeSn3tPvcFgICXCbydQ6hXKtFuczq+9NIEFHQ6yP+EZ+TzA1vQpeO5XZMlNJj5yT92J9TMhe/kcZXtXoJHmv5B4HSBc6gqfhZDHv7upHDn1ViZySTdgK17IYeEbrObSI50BVvF2JXtyLjH+6FCiMKT27Ei9KivITmYfr8/UrFN7vmQQacivllpZXJnpMR7+kVzOqTRqcwc1Erl/d6DGmfPtscafUlYcSLCRYCgXl+m0UJeMk19x8h5SkffLLI8S2oiv1PD1QKZxE/42Cppi24v/C4dYelU2kE2eZeVCru4xA67gieKrJWYyrfiqXptu8RALRhrlpj/2IA9rNhUd+pue/QSHpNOG7jaq0NC8W+R3Bw2WDFX9XjcHdFzILmiQEiSZLY9pvyyfe+bwUcx+XHZ/zBrYRKRDULdcwKPH3qrOEhM=",
+  "URL": "https://github.com/ukui/ukui-screensaver",
+  "LICENSE": "GPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1592466358",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "dconf",
+    "gsettings-qt",
+    "libxtst",
+    "qt5-x11extras"
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "FILENAME": "usbip-5.7-1-x86_64.pkg.tar.zst",
+  "NAME": "usbip",
+  "BASE": "linux-tools",
+  "VERSION": "5.7-1",
+  "DESC": "An USB device sharing system over IP network",
+  "CSIZE": "54832",
+  "ISIZE": "168666",
+  "MD5SUM": "b872d71aa257e114ca48c354e8618cc6",
+  "SHA256SUM": "faaa7de320875c09b69dc563bb179708083903ac980a88596f85eefb7c7071f6",
+  "PGPSIG": "iQIrBAABCgAdFiEEVyJOyaX8pvvJK7iqShr8NF6+GPgFAl7WcvsACgkQShr8NF6+GPjbxg+/a+vnUeKzhQO0V3bTUHLpGay1V0g8A7WOwWNWn/Eicg+wttfI79l/PT4fSWum2Sx4Z56ufzplPFP2LU4gunyL8xf5oGqP+JbN5kauAV7HAN99szNyylcxbz2tVyUTDIxejC478pC1Rqy3NTJgtagNnIeJvKiJ3Bfto4FVQMChPHyyH5yl/rbJszwOTnjHuQU6gsDTWCXuzkrTftk8yYkIUE0PvFmLOBCVJq81xrA4WhxuSGDqO1OJYckeMXT3LP9/wLcf3Oo5G5KDA0jHSFqvbrcuGQ0wy/ybIJrEUwgN5itcpzDxQ3RHPFamA4U6yKTPqKXBuMQIXwVjd8pltQ1cl2ID4BI4FbHL25082xUxMpQRdSk9xkYe+JJpvgHNd2fGCiTCAHBzfkaDKq8jiU/u7SF0qqpEhhlPUK9ceqrSPH34cOr2o1IYMaJUYK7E2alPu2oGT2ixhSRWu1zEQfjC8lmYOHhc+Bmfz3Y+PbDfx+0xEb7+2Qr/xS/1Phat6bLGmM7LtE5gJs5yxN7XXgQWf8R6FKPc7MkhS4KedCjHLECHdQHUSEL84Y60OnbEVhCk9Q/i7TELb1hLdiXozQ3xAlXg1/P4kQlKIwA3d7FXlKVv/tWM0giiJqjebJshV5UuMa2H8aTjE71qwppKe8Tyf7otfGXNAWn3",
+  "URL": "https://www.kernel.org",
+  "LICENSE": "GPL2",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1591112032",
+  "PACKAGER": "Sébastien Luttringer <seblu@seblu.net>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "glibc",
+    "glib2",
+    "sysfsutils",
+    "systemd-libs"
+  ]
+}

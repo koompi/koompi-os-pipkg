@@ -1,0 +1,24 @@
+{
+  "FILENAME": "htop-2.2.0-3-x86_64.pkg.tar.zst",
+  "NAME": "htop",
+  "BASE": "htop",
+  "VERSION": "2.2.0-3",
+  "DESC": "Interactive process viewer",
+  "CSIZE": "85901",
+  "ISIZE": "204050",
+  "MD5SUM": "02e111f53636ef3bd344f93da9a0dbfa",
+  "SHA256SUM": "f367c3b51e572a441f0fd71461f4d086ad6d0abfb68099e7e8498f7642773e35",
+  "PGPSIG": "iHUEABYIAB0WIQQEKYl95fO9rFN6MGltQr3RFuAGjwUCXidbWgAKCRBtQr3RFuAGj1DnAP97znqM3oq709dPp8mtzOnBb3PDt9WooF6hvPcb9oA7qgEAzbb77PyK3MhjIQABPRzu7ufCGIMSN1d1xMooMu3qxgI=",
+  "URL": "https://hisham.hm/htop/",
+  "LICENSE": "GPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1579637520",
+  "PACKAGER": "Christian Hesse <arch@eworm.de>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "ncurses",
+    "libnl"
+  ]
+}

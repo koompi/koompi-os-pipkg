@@ -1,0 +1,23 @@
+{
+  "FILENAME": "libreoffice-still-cy-6.3.6-1-any.pkg.tar.zst",
+  "NAME": "libreoffice-still-cy",
+  "BASE": "libreoffice-still-i18n",
+  "VERSION": "6.3.6-1",
+  "DESC": "Welsh language pack for LibreOffice still",
+  "CSIZE": "626169",
+  "ISIZE": "2780727",
+  "MD5SUM": "ed012ae19895ac56f0f245d07fcb8f9f",
+  "SHA256SUM": "51e9a961ff9d358a3eca57d63031edc6ba0e3dca2a7df8c7f9716a377c462cb8",
+  "PGPSIG": "iQEzBAABCAAdFiEErcih/MFeAdRTEEGelGV6sg8qCSsFAl6tSrsACgkQlGV6sg8qCStP1AgAjSzkI/1P/3ecz9ROI/r3JmURutwxMH95mE/Okl232EM/4HdnW4BygaLJmK7RROGHVXCblFqS/US5UhIJQvJMSAKNj76qlksQ2K8Mj2Qtqpm1p1CIlxeuYAL1bHY30qR7RYnx4S4nI7L+aC9mz6Q12Zts9HAlr3rw23Gol/evor8OprDWWBevKWsu+P8hC79EfB27ds55iMmTHwe5dKT4IoPMJ1h/gjSF86glj1t9Aj4DAW1CXpcgnh77ynDIY5wXnkVM/KbTKCO7nuiNjgDj+nWOXDSMyPEdxCUp/rD56yo6zDlBVvpjnxYjGidvlst3gBb7GpcII7O1xvCWgCFwxw==",
+  "URL": "https://www.documentfoundation.org",
+  "LICENSE": "LGPL",
+  "ARCH": "any",
+  "BUILDDATE": "1588407321",
+  "PACKAGER": "Andreas Radke <andyrtr@archlinux.org>",
+  "PROVIDES": [
+    "libreoffice-cy"
+  ],
+  "DEPENDS": [
+    "libreoffice-still"
+  ]
+}

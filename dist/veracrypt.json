@@ -1,0 +1,26 @@
+{
+  "FILENAME": "veracrypt-1.24.update4-1-x86_64.pkg.tar.zst",
+  "NAME": "veracrypt",
+  "BASE": "veracrypt",
+  "VERSION": "1.24.update4-1",
+  "DESC": "Disk encryption with strong security based on TrueCrypt",
+  "CSIZE": "1408419",
+  "ISIZE": "4601908",
+  "MD5SUM": "8171e73fcd196f8e82034b9135824c42",
+  "SHA256SUM": "a7b983711aad7a7e8e84dda306b9c94f17d9fef65d707de96322c9bf249166d4",
+  "PGPSIG": "iQIzBAABCgAdFiEE4kC1fixGMLp2ji8m/BtUfI2BcsgFAl4t4x0ACgkQ/BtUfI2BcsjUaQ/5AR0eu8Zga2EV7VBn2bVw7uGTBv9NeO+hsEjWVZoBt5pSz4iOilsWGqN/wqYFbRexi9sCT1RgfXycKNl21UNv+TOXQAGMdVz/5r4wi5o1QVV1B6YUdja3jyyGhLIIW0mk0luK82UJ+afj3vRaCTv98RWLrUy0FGYBAhVhNa097j4Us0fK12002J9Un0k0drMq+uuUA6DzLYcpVAbHAHK3lRcTzJtdwu8Sw03d9gX1egZM0tsIBWVQBCOUkUuGTZpl+y6MmfyD3s2xNUwasSwV0w4zq6hzo+HiUuKCWz1vTSsPEsZuT16g7ZX+ouYMT4ho1mbVzT4kl48p7+/AdrUuihjTDH/rD1gght1hdV8rA1DwnsGc4mUFc3J6d6jWX6HE2P2641mCFcIWW0RDxoPtDzYTnQ2UeexDBnu16wLs6J4u1kwELrrMpN0BatprLXPzMUXrSdj+oi3uv5jxCfG9liZ0ajYf7K04LLaz6iwRysrtMebkifh+NOKjsxQ7TSlOnC+GED0z06ezMtTWNHiBrxXV4wZBPZ+AVS3fMk2bMPuL4R97cLuSngc5bNNuRx32g7FyczFqTNYELq9uw6uo4foQgVVJLaJ2bISmgm7pAkMPPVdX/dKrpPX8lF+/wUjSlX1m6wXoJpI7PZnskYfbJLvFv231S7RybClVH9a2pSk=",
+  "URL": "https://www.veracrypt.fr/",
+  "LICENSE": "custom:TrueCrypt",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1580065486",
+  "PACKAGER": "Levente Polyak <anthraxx@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "fuse2>=2.8.0",
+    "wxgtk3>=3.0",
+    "libsm",
+    "device-mapper"
+  ]
+}

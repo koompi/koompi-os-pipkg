@@ -1,0 +1,24 @@
+{
+  "FILENAME": "tmon-5.7-1-x86_64.pkg.tar.zst",
+  "NAME": "tmon",
+  "BASE": "linux-tools",
+  "VERSION": "5.7-1",
+  "DESC": "Monitoring and Testing Tool for Linux kernel thermal subsystem",
+  "CSIZE": "21000",
+  "ISIZE": "47928",
+  "MD5SUM": "ca4d4e70cbe6e5b6ccdd52f3780e6064",
+  "SHA256SUM": "334957c36e1c0bef705b1310252ff83ed84792890b27b068889ec91661956e16",
+  "PGPSIG": "iQIrBAABCgAdFiEEVyJOyaX8pvvJK7iqShr8NF6+GPgFAl7WcvoACgkQShr8NF6+GPjCsA++J9Zd7oYkii7vk4aRhx/Gyl2ZGTIJaL0eMiYZhw0t1M3i6vcYQX6qNVnd02cEgeSrY9GoZ39mphgROjYl5YJbQEzO/MU6HvB/QCzsLC5JaT9Hfy3DStKk6yKJlsJC31j8EZUKH1pj/oxz9GD6/gM+i4kYzQ4qW/JI5sEWoZQdJ7+pMsjzrwNHQCA90oGYlwPZ6lKHM3SMoj9mvUXqn+Ic15xzhT23X0cnlE7NF9Kw8QCp+k9elmOepOuVDRz6ryeijuCv56ldW3Rqy14M/jpOYHDmRceNNZJJg8BCA8PYsVAaUJ/VlvYkfo8SpraLcfzGupnoLbTQVZAspNz/ZehI8ndk/QgOfKMOZYOzAjcz4IQOOpM/44cKJoLmDSZ6pb6WpZY6lMCdrJ8ebTddrYNzXXDwCWhlN4LeV0EZrx1UiSqjTkM823RaAwi1Y/fQxdONC/I5/a5er5gGc2Gk7btND541cb/h4AvY68Sm3/26xvGmwH1UYcuTlLUJ7HRAIUg99mzx1caZT0boGsQgLbVTvHs2dGONC629PhsIAu7sz4kwcKLG7kD9dyAS8BVs0wEpTPz2CrG9QCTuZ9JKfVZ6m458HtLyOkBUCzvDkXQZlxiFRm9mZv7tisyjEB4qEs2N9ExGJuDU3tEkGUKE4NsFqViyGCZ0rDf2",
+  "URL": "https://www.kernel.org",
+  "LICENSE": "GPL2",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1591112032",
+  "PACKAGER": "Sébastien Luttringer <seblu@seblu.net>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "glibc",
+    "ncurses"
+  ]
+}

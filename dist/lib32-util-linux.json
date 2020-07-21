@@ -1,0 +1,28 @@
+{
+  "FILENAME": "lib32-util-linux-2.35.2-1-x86_64.pkg.tar.zst",
+  "NAME": "lib32-util-linux",
+  "BASE": "lib32-util-linux",
+  "VERSION": "2.35.2-1",
+  "DESC": "Miscellaneous system utilities for Linux (32-bit)",
+  "CSIZE": "443407",
+  "ISIZE": "1590925",
+  "MD5SUM": "54622cdca128022c6cc0c79853d4f38e",
+  "SHA256SUM": "e77dc75459a24f10f9568f6cd726b43e096c840362955b55ae86c2b4dd53f881",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl7MD5AACgkQeGxj8zDXy5KpNBAAwPLhnsjM6etLK2k3/RkLEUbMu9L7iHOGGMM2U2q/gqEes/tY8k4F79hUmagfKx2faW4Gw1HPkbaHPbx9Yh39eCz2w/6LPg9Eev/Evv/Ll5qvpuB2E2YUnx3vPQyGD8vdrcPcUkgO1ucoACOdSrNR/rxQmpQcvSWLu6P9D9p48j7RxLEhImjm0u6ITEnrx33TzYfeC2i7K0S58LCDq9oBIHSzZwjuAYlRzbWh6C8/uz5F3QbykyHx+DRCRxtxfKLZ9CHGEiQW8RkONM0LKUlfCZa1Lbq1iGDQpfFQxxDuEDE0yqmyl3RV+NnpqZVfmWyKHN3B4pyTj2da5FNCFRxTuxSpXHduhniCQXm5TRNRfJ9A/eP9KSrTkdktmu5cxFeH1/WiAA7oSd9c53azi4dqVQYLbM2UWX/uFBqWCZt6KqP5fJzZM6tGFl0BSJFbh/Dp982+JJve7V5oZWSYhGJ/arxS9xNa4Xefwp8sc57nG/vfCOiO5u45aTmvpaYTvoiDpJD2LJd7BEI69qsFlB/KGPidjA6cOEUStq9mYT91RabsDpruBHD6K+JE+IF1HoAQ4u9KKTBmFMdwpG0FdlHIlTucHfawxCyuCidqZ8GTKMLT5f/rwrMsyJpbs0FwtHFWr50X9iz4ij26Adlcno7na0F+nL1MdLRh+yM09lmQyPg=",
+  "URL": "https://github.com/karelzak/util-linux",
+  "LICENSE": "GPL2",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1590431132",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    "libuuid.so=1-32",
+    "libblkid.so=1-32",
+    "libfdisk.so=1-32",
+    "libmount.so=1-32",
+    "libsmartcols.so=1-32"
+  ],
+  "DEPENDS": [
+    "lib32-glibc",
+    "util-linux"
+  ]
+}

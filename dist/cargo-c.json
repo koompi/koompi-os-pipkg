@@ -1,0 +1,25 @@
+{
+  "FILENAME": "cargo-c-0.6.8-1-x86_64.pkg.tar.zst",
+  "NAME": "cargo-c",
+  "BASE": "cargo-c",
+  "VERSION": "0.6.8-1",
+  "DESC": "A cargo subcommand to build and install C-ABI compatibile dynamic and static libraries",
+  "CSIZE": "4601074",
+  "ISIZE": "26582365",
+  "MD5SUM": "9637a3b8e59c85e68ec9cb1eb494cc4e",
+  "SHA256SUM": "ebcab01e8ff47100bc6d1ace83e7939902b6bb46241b5cef1bf66cb39c224bbb",
+  "PGPSIG": "iQEzBAABCAAdFiEEP/pqt7aarmzKJj3eAZp0dCl9hXcFAl77znIACgkQAZp0dCl9hXdD4wgApZ+moeEkPAteNNNtodm9ZzGpBAt8gfNqzfwlhdzUClC6vhJM3Z4dIM5Xr/LPCErG59SA9/vx0I77dDou01yqYvBsFqhJLqW+Kgv/ux/zKjBBLEIzIjPOpVtTQSQjSzZrVsBgT5G7vR55AJJi2+EwqcFps96UD3cvcOUOpGuur99kNrtGGpG/90oQHfNdYqtN1v+vCnaXxAFWiK3uj4nsORcBeS9OP8c5kEadSoMOp0KcU1oybqzh5v9w+AFLNu4cgQ/zRFoMQaAUNNNZwttr+4X+XONENzmy9tKJ1AL9El6Oq8wdQOf02ijL5NLlLnjsIePwczcgyjE1rGXC6JiIwA==",
+  "URL": "https://github.com/lu-zero/cargo-c/",
+  "LICENSE": "MIT",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1593555110",
+  "PACKAGER": "Daniel Bermond <dbermond@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "curl",
+    "openssl",
+    "zlib"
+  ]
+}

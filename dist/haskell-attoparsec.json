@@ -1,0 +1,24 @@
+{
+  "FILENAME": "haskell-attoparsec-0.13.2.4-8-x86_64.pkg.tar.zst",
+  "NAME": "haskell-attoparsec",
+  "BASE": "haskell-attoparsec",
+  "VERSION": "0.13.2.4-8",
+  "DESC": "Fast combinator parsing for bytestrings and text",
+  "CSIZE": "336275",
+  "ISIZE": "2350936",
+  "MD5SUM": "ad3236560e718d08eabf205c536c40ff",
+  "SHA256SUM": "25539b44990003fb6ca1c5628f7eda46f3aaedfc8dcab33321d609fc0aedbaed",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl75E5wACgkQeGxj8zDXy5LUgQ//ZIFqYMLGFpuRvUX7A7uYkNRGhs/qTQWoPem48+PkHOcr2inwcjRWM7xXpXnJyOGq2drVAVAOyfIl9s50KuJsOvK48GfwccgQkV23CfU4yTf1PGtGDPm0IdWv3ddi96XLZ15yRVGZOs2MbeLlacR5vad9HjDjQh7+UtKWFhTqijFiS+syHKujvXMx80LwodfYTwVp7avFJPwlLtdED4ruCzn/02EoMFoJvJPSdcNjEceOz++verPUGni5q8tJfwO/H1oWafp0hXW1/eO3jkZBJO2LPMtui9rp7mUh6BOXJ7MaiVa88Y3eixiuYN0q1/LhJYbpoZYxFhEh5Sa4xO0/3r67Wkr0Sp6d6JlQvG2tVq5372RiSEaNQXg0in7UEL/NSI81duprUxJ1m1aBgEnv3t3ngVYRvKEyROMvBpsgL4AFHy1isP9WHlFWTzeZYVEFfv+Xv3xTV870h/oDTm25LZK2sGOJcOOfqWw42JZhPtlPeswaEBn8GDbWRNgTgUMj+CnA2XB1HslZ2W45RZTIEPnMJRQuHGvhkqgdeTv0JfqAGHutR1jRlkO9iOH8atWQkeAwIUWBAW9dGt234IO4nyM/WvnDkRhE69SzL3juf1gRUhhULYbXKGKA47Yoc5p6DAdBXVahs3YtKFlZt2CPvkS8eVFm4KMZLifqWwklHRo=",
+  "URL": "https://github.com/bos/attoparsec",
+  "LICENSE": "BSD3",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1593381710",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "ghc-libs",
+    "haskell-scientific"
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "FILENAME": "lib32-libvpx-1.8.2-1-x86_64.pkg.tar.xz",
+  "NAME": "lib32-libvpx",
+  "BASE": "lib32-libvpx",
+  "VERSION": "1.8.2-1",
+  "DESC": "VP8 and VP9 codec",
+  "CSIZE": "994328",
+  "ISIZE": "3479157",
+  "MD5SUM": "a36a1019e39a03b20fb79f914bfb7761",
+  "SHA256SUM": "45cd683669fcf1d49b2e2a507696fea6cbfe05fe4471617735b78f3362a6fbe0",
+  "PGPSIG": "iQEzBAABCAAdFiEElDfdOBWnqRaePTlGr/XZUJi8b/UFAl38gWQACgkQr/XZUJi8b/UPjwf+OmLZ71juHY3WbTE8Ac7mdP5Lw9mHAopVdXkugpClxFn/6x6rtVr5dO6tfXUqRGXVrofo5vDH8ZVzn+D7W9CGszrRw3ZlZWm8uGT/Toow0cpf8tvcvWGV65i6VFi4Eosj1Y/J6SbBKU+Ee3grxh1ZjzI8yy33OtcxEyoZ/xQvZuaobMGIsllLfpnk9eQ/JzdHILDV9fnKLVVreRDZz3PY7IDF2ytvtv/XSUeWt2+3CMOhOLk5ETb9tOMt4AooM4fw18VieCUddVSw9XMG/OKYONy8xUDfI6iocBjWlXxoZmNp4xdtEg2Rtn08siPDLvdb2EUbx9elZ4IbY7J1xdoe5Q==",
+  "URL": "https://www.webmproject.org/",
+  "LICENSE": "BSD",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1576829236",
+  "PACKAGER": "Maxime Gauduin <alucryd@archlinux.org>",
+  "PROVIDES": [
+    "libvpx.so=6-32"
+  ],
+  "DEPENDS": [
+    "lib32-gcc-libs",
+    "libvpx"
+  ]
+}

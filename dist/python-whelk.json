@@ -1,0 +1,23 @@
+{
+  "FILENAME": "python-whelk-2.8.2-1-any.pkg.tar.zst",
+  "NAME": "python-whelk",
+  "BASE": "python-whelk",
+  "VERSION": "2.8.2-1",
+  "DESC": "Easy access to shell commands from python",
+  "CSIZE": "18765",
+  "ISIZE": "72259",
+  "MD5SUM": "61dffa16d687a4362f832166e6295c78",
+  "SHA256SUM": "4c55a871d33f46ae7fdfd360b29fb474f0caa71994e0f853132a43e21f425c3f",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl4VrRAACgkQeGxj8zDXy5LdvhAAu4j8vlFSE4v17pYXixnXYac4jigpyNKsyi2/DNUR6Eu8Pm8x0f4MqIG7uOH2nr+JXvqTp4NX4WnhHDXTVOUqawkeaOkjeswsuh8UZA4vPPCeeRKzyQWMMsNFo8OIFl4Ue/GPq4rnBPyM1O+fujQYQ5135PzfUuEGXitj1G0aCltqYYmKlrDTcmEzSP2xe0YIg3191vFj77hSjy/tp26KtnD4jqYuAAsrlSagJ9vfHmkQuY6YRKbbCNpZflba8Ic8TYZImUpCRpp3KoCxvlwv0QrsH/DuA9siCcz3kCV1PxGWKYwjl4yyBNOTAuNuhdeClG1wrzdt+q/jWWHSx7wgYzJ1i65663lqyyC0V+6VazCq9fq9BxgKh+7/8fqiIX2pOhjaw5Flmlcd+oFqM1KG+vTeegsDDWsbYoOhhh04u51XxZCsoTU5g7F68Jr9GXLn1q7MzuL4xv5xMpyNIaKqjJBBq3yjpT6C29x5CAC+fNFIzCo0xRQOzpn9au0CGWRpuKsMeD6B7ePd5Y9O+Tb7K3fm72Zj7y9gzSS3UABqIjHrZbziKncjEDky8zOC7yTQlt+ik6GpXMER4MwU5I5TSMfhtOWF+ciuEwNu6tNGqxPayiflozRYhlGRSSoTARZLa0mRtJdDL8OORhr6ASF6Kl9dtDlZxE/+sJHMnPyT0+Y=",
+  "URL": "https://pypi.python.org/pypi/whelk",
+  "LICENSE": "custom:zlib",
+  "ARCH": "any",
+  "BUILDDATE": "1578478838",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "python"
+  ]
+}

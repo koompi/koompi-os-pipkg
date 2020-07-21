@@ -1,0 +1,24 @@
+{
+  "FILENAME": "python-sphinx_rtd_theme-0.5.0-1-any.pkg.tar.zst",
+  "NAME": "python-sphinx_rtd_theme",
+  "BASE": "python-sphinx_rtd_theme",
+  "VERSION": "0.5.0-1",
+  "DESC": "Read the Docs theme for Sphinx",
+  "CSIZE": "2595409",
+  "ISIZE": "3531754",
+  "MD5SUM": "f9d11e5699bd77107979b66ec6e8fbac",
+  "SHA256SUM": "6e39b6dc808b7dfb63dbe949b338858edbc43c068fb6f7e612956b24aafa974d",
+  "PGPSIG": "iQIzBAABCgAdFiEEBNw/sURf7KgTwn766k97MhqQatkFAl7qbusACgkQ6k97MhqQatmeYhAAoLRHMOgSaBgNN4bryh7nDYvDvd5vwQwEMh1oW/3j55C8in7zbqAjIS590gGqA9L473kw8FxphH8Tp6H3dvMpPqrmni47FdMUWLLeVN4wL0POemP/PfyW5iNgNskwQeSDxsv+s6Ui7Hl0sQoLXc73A4BQ+XatwkwQTufkPFOP+M7gsBbLKCQUhO0/HQc8PW54MrBqH5boPLNG4+pTD42YY2oBzIKDoihjP0xBDyB8A0nKb0wweSEPH3J/lLJN8BRiKgoTEDWghQjV4yFDlR/5wKALmVF2bmd8qerFgKqbaI6LtJd1AtuBIIOtgwp8hmxN3uuIBgRuDn+QaPxoLussTZSlddPrujUvwSvyGE20kG1D9f91JFbs9j2Gm9dVCDzbNUL9mqjWJRjjQ+uVFt0Pkl5NSATD76Fygnx+3MkufHe2NJak+EzurMSeMf97WTlvm9pOiDEAEFmJR3JEp+ERojrCld2WGswp8igqlH3xv832HIx2kqDpbO05pjOYYim9jx0M2OSckWAY1/eZdtmwC5ruXvsHziy8iu5xRsdXa+SttI2i3JyKMr7AwDmXLLtBmIvcs4lit/pupfCaSI8uT8G/sKtW72BnNBWusRLwbml8zwR65vtnEKabEcxIEDGo2tb5HnXOJvETG0T6O8ziFj1Tb/vx3X3OrDlZGVTxbVE=",
+  "URL": "https://github.com/readthedocs/sphinx_rtd_theme",
+  "LICENSE": "MIT",
+  "ARCH": "any",
+  "BUILDDATE": "1592421998",
+  "PACKAGER": "Daniel M. Capella <polyzen@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "python-setuptools",
+    "python-sphinx"
+  ]
+}

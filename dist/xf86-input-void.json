@@ -1,0 +1,23 @@
+{
+  "FILENAME": "xf86-input-void-1.4.1-5-x86_64.pkg.tar.zst",
+  "NAME": "xf86-input-void",
+  "BASE": "xf86-input-void",
+  "VERSION": "1.4.1-5",
+  "DESC": "X.org void input driver",
+  "CSIZE": "7251",
+  "ISIZE": "18110",
+  "MD5SUM": "ec032f9533b462fa7b74dfc6946f423a",
+  "SHA256SUM": "6fc601faee48bb7df722bd989a569fdd30bd35ec945e0d12456059459a56c389",
+  "PGPSIG": "iQEzBAABCAAdFiEEhs/8qRjPOvRxR1iAUeixSKmZnDQFAl7DqkEACgkQUeixSKmZnDTE/gf/foINmVTqfEQnAd1vkaiODtzZ0yQvfLqX7FlQXn6k2ghEOn7gwXP7eJp8HBBP/DgediF2l9Y9HwwxaXyBS4LCVPm6L0vK5Ob4QSkXO4NEq/gyDvFGRf3MIfiIiRA0mMILuO8WOPANOfQpwXM/zwFqkbSLpyLgqAZZixo/pHO2wrM1t1X+taRQIWDMYFXLgptE0WqjrnGK5BjoSRXcJwPB5b6qwkeGLOUuOgf2C3NooR69QH2I+2GcirYqSSwheUM75S4Xlo0uuIdlSKcmXPzFpIl4Y+ATq/ElD+Uf/RLZqOvn3TbLvASVA5q0qkrDdlYSZ/mJitA6cTLsrGp0GHSO3A==",
+  "URL": "https://xorg.freedesktop.org/",
+  "LICENSE": "custom",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1589881349",
+  "PACKAGER": "Evangelos Foutras <evangelos@foutrelis.com>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "glibc"
+  ]
+}

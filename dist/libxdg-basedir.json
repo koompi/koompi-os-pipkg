@@ -1,0 +1,23 @@
+{
+  "FILENAME": "libxdg-basedir-1.2.0-5-x86_64.pkg.tar.zst",
+  "NAME": "libxdg-basedir",
+  "BASE": "libxdg-basedir",
+  "VERSION": "1.2.0-5",
+  "DESC": "An implementation of the XDG Base Directory specifications.",
+  "CSIZE": "10219",
+  "ISIZE": "29660",
+  "MD5SUM": "c32f1c49207094646ec9e365c4cf1e0c",
+  "SHA256SUM": "646ac65381170eb45eb5bcf7f8a8fb1738b25bf96de91f3f725bf31c96bc5d5d",
+  "PGPSIG": "iQIzBAABCAAdFiEEM+u4qOHFZTZFsSMqRaZQ4mOMU20FAl6xraoACgkQRaZQ4mOMU22IcA/6An9R4QG0p/MCVqw1QEOIEcdwLdeYtIFc83hTB7fxoQ/vDMFJGACMkGIvMuOD7FiB2ca4sZdJQWIO6YXACpCFXOt+c4xIERuKoZiTqvlj74hHx3Cxh7ZeM2VptAHcRs4HJ+3Uq2YorArBmI62SeGve4J6+chmCcc0hehH8kGyeQBU+faPPQFQkRZRPuW5Rld3nXyGrnfx/2qWB0PAIgEwIreKVkr85nVRbbyLnXqkxPnP+/9L4jwMvPBjTxFpDFgvTYMIOkIE4N7/nlloJSd++Ik0egseqgTfAhGOaZXBM6BJ55tmtbcynabj5s8k0PwTTxZi5Ir1q6J52YV+p7D58N9NQ6swH00i4pzHb3auK+cmRJKDy1zPC5/7+wrrMplbRtfZJATMdWnY4+QSJlBd5yBG5ALo89l2CbXAro/pLvLlBR+PuOUsfcChw1LsFuSqkA74kSa43ArnXJt+6WpuWFbNfojMkifKwFWVZLMJdaMr8F5mLwjc1Du+iy5Bu/ALaUBuh+R7eESRtKf6u5byLpc9HpC7phMUM0WwjSy4Zj/5WmCWyFo3p5pnos2Qy7R9GMxuiWjnkIsGiRGf8BGdkvPHU48xnlRQLwkkBsO8FAZUnfEYo4GHq/pAzP7/dgeE+nqqE8q+2o4pOQ72vzvRcBuK5IdmeE6S0oeheYKOle8=",
+  "URL": "https://github.com/devnev/libxdg-basedir",
+  "LICENSE": "MIT",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1588702569",
+  "PACKAGER": "kpcyrd <kpcyrd@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "glibc"
+  ]
+}

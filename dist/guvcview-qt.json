@@ -1,0 +1,24 @@
+{
+  "FILENAME": "guvcview-qt-2.0.6-5-x86_64.pkg.tar.zst",
+  "NAME": "guvcview-qt",
+  "BASE": "guvcview",
+  "VERSION": "2.0.6-5",
+  "DESC": "Simple Qt interface for capturing and viewing video from v4l2 devices",
+  "CSIZE": "89001",
+  "ISIZE": "245038",
+  "MD5SUM": "960c14cf8f1489c519ee0c53e48ec8eb",
+  "SHA256SUM": "7e22a0d263bb7c71e52b28e84af5d689b656d17fe8c0fb026ff7e158286d19d0",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl8ErjsACgkQeGxj8zDXy5LOlQ//UW1ULa1xM1znXPlYRDDbfEqq9dVBUD5vsuavoUDfjof1As0ePBPXdIWLRiAw4MP8vts7OE8rMAaUSR+0JopG6J6kuK+Zbg7WbEbE2DJHvbTHELWt70k2O7Rqt8wDlBCpy+YcfmVm5cGJjUI+DkLQ2QARl45cYRDDpQh/3fs5hJg3adepU/Az4578Hs/K5nYQnUmRL+uqQ90BEV1Yv0/kgPiFCGb43sc13istByhMXpqUyIosedKU0bH1YSeGR0o3d1fno2q93vHawL0tm/xz86cU4aavcMNNfnBImQ9qxwXVEVYwiGTUBOJyrMw7LRgi0vH63qHcbWSXOZcJtq2FTH3p5p7UzsfjCWDszoZt+97hVwQl0VafHvUqqZPQ3b8gVIeytnBnJoiGXMUMJulMpMcREJP3EBQGJddijvsDTKJTwmtjIyF9K6MShUjIduCLhp5UzhAEGyvtfC0Qsy77VmuQ7DqzY2WXffng72sRpHGgofxyxir9QGRX1o2HrgcBgHiumJChjzYotG78iskbzmuc7OngFKHPKcFx/BEIHfbcHzQLDT5Wg6ZNCf48up+W/ZBvpI4765b6UA8ABuRtyQ0J0gspf4az2ZSI5OcpExFb3eRMyCWxPdNzZM+aXSe0OKhqpPxlfSAtUBxOjW8Jc9yZ7betn50ZsXNATkclozY=",
+  "URL": "http://guvcview.sourceforge.net/",
+  "LICENSE": "GPL3",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1594141562",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "guvcview-common",
+    "qt5-base"
+  ]
+}

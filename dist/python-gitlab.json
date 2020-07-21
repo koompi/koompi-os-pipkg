@@ -1,0 +1,25 @@
+{
+  "FILENAME": "python-gitlab-2.1.2-1-any.pkg.tar.zst",
+  "NAME": "python-gitlab",
+  "BASE": "python-gitlab",
+  "VERSION": "2.1.2-1",
+  "DESC": "Python wrapper for the GitLab API",
+  "CSIZE": "130447",
+  "ISIZE": "1008297",
+  "MD5SUM": "453c07a1cf7d1f0752a6a51bcc47a5c5",
+  "SHA256SUM": "61efa802c1e57daf19bbbf9af44841081234707047bad13c5963fc14810aca84",
+  "PGPSIG": "iQIzBAABCAAdFiEEj8FaBklQqZ3RvRTdOeS4d+YuuRUFAl59jUUACgkQOeS4d+YuuRVoQQ//d0RRdXbxHAbvWV5ezd4PjEoCTqfvJePxr9Ti6qSK0DrS5oaJVNXoVLUvbBaKpr1k88u5eeP7Uh4i2qSnDMjz8VXcyxLG5Dt/EsSJUuoy/WRVzZwrC4Sjw8LU0mzqhgYAKylHjGWbGEJHq8pSJoHXOiVzH46MFw/zBis83CPKJi61VayKgwg+cNqC1tAdiUAsfe9pESdg8x3sslVxr9O2IIwHNhQvy+ern+d0U3D3V0A8tnJ3ajlqz9ubTU0lTi9T60vrLeArKqh5GFyPzJXFn7KiwDElCYdAvpCMR6Ys60KQpyKNXAk74LGpzft23wKyuWt/uCJ+WNApPLlMDNT16yd3r+dBY7/m/3fj9JOII34jw1nXLlsrHzx5Eb401ZEPBz4ZB2EbhXaPg637QmDx4F8DpVhC3sJAF+yn5IEZp5CuhnhIfqgrBdvg1qg9eAKSfbz617Sp2Ye3vvM8p/sDL8JABhV4f7IYv3iKyvDJ8XvA7IFmmtyqPGVGkoKK9jVhz4GDLwzNAg18OzdcIxJ/xsa6lC13bPLQ9Zw1mpeI2/2piszcjbWhIzhbt03iAMEXGje6RSy+ff0mMjmO2Sef3+rMRyInJK1IKkXT4uNeJMYhZZhqXuHB4VbwMddcbDe3V+FXbyaoCgAVd+A/zEPHLqJYduoW8BOzz93m1PUE1eM=",
+  "URL": "https://github.com/python-gitlab/python-gitlab",
+  "LICENSE": "LGPL3",
+  "ARCH": "any",
+  "BUILDDATE": "1585286433",
+  "PACKAGER": "Sven-Hendrik Haase <svenstaro@gmail.com>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "python",
+    "python-requests",
+    "python-six"
+  ]
+}

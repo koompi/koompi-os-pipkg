@@ -1,0 +1,23 @@
+{
+  "FILENAME": "python-cachy-0.3.0-2-any.pkg.tar.xz",
+  "NAME": "python-cachy",
+  "BASE": "python-cachy",
+  "VERSION": "0.3.0-2",
+  "DESC": "simple yet effective caching library",
+  "CSIZE": "31516",
+  "ISIZE": "184310",
+  "MD5SUM": "24b4d76980ef60a417d5ff8a4c6771db",
+  "SHA256SUM": "115dadf32bc1da51e06bbb2621425a6062f92105ee122425ef38a57b69176aad",
+  "PGPSIG": "iQIzBAABCgAdFiEEYEETBMCdNmKDQO7/zrFn77VyK9YFAl3TUtsACgkQzrFn77VyK9YPJRAAoUHFBBzR3uVn3B5FRMSw+CzsMtUmxKC7nnPNIByekIch3fiEJ28Gq1WvnYBYAFZOq3k5tnf6S80VqgwO1Mg8p1TyY0Os8jJl1yZvZTtK54NnA9Al55E5/XAKH9yUtkUM0AEFJtG1Veg6HWnOhN3aV1DyXkHRu8Hp1Ixd/a66PEQ4z2MQotVMVK6dmx0PbgoArzINrZgfcavOKxk6nXx10fWLNuQlLfi8356b1QPsJwRNCHo/d2/6e4BGx+5TW4bcAd7CR5mPSakE0L9y0ekMR/sfYL9Y2hq3YlHrqwoPHIk4C59OmoOXRSG/vHtCMZpYY+GHy632lUt3m4KoaljOqMiMuSMb076cn2pqICS9RkBRf1V/fJ2cC+/8phMqLPbe0hWElGDvJ9+P1w/p4s4uQsDN6PrAfIWa6ukvKjJxOw0Vte2Iio4BBkBYw3XPWx6QBUWV9VHlrdObCg4IGvPZlFVaRsxqdGaok84RJnwpbS6MtLkKiPFOUM4iPV0k+HCANcO6M4hSd8eke1DIUJluvAA86GiT9+QVY+7Gnwrju/dfj9AdgWalrLjZ3W2YK6BHph3ten43Ho5+Z3lDvLLCLUxsPkfKjkA3XE1wSsvcQx5L+JK2sI+vYtgPBX6keSSog0FEfYjFeFmpX9Pj15VrrVpgvxbPFpzkDW7djbiitgQ=",
+  "URL": "https://github.com/sdispater/cachy",
+  "LICENSE": "MIT",
+  "ARCH": "any",
+  "BUILDDATE": "1574129903",
+  "PACKAGER": "Eli Schwartz <eschwartz@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "python"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "FILENAME": "mate-icon-theme-1.24.0-1-any.pkg.tar.zst",
+  "NAME": "mate-icon-theme",
+  "BASE": "mate-icon-theme",
+  "VERSION": "1.24.0-1",
+  "DESC": "MATE icon theme",
+  "CSIZE": "14157740",
+  "ISIZE": "29485027",
+  "MD5SUM": "922457c6ddf43702f27a7f1fa7d74e7d",
+  "SHA256SUM": "77a91af6a6b8f93c283ac5801dcaac988a18e032cf55da44fb2feb454234c236",
+  "PGPSIG": "iQEzBAABCAAdFiEEzFln1AlbTztC1F+ggaQC1POCu70FAl5VlX4ACgkQgaQC1POCu73e+AgAg9FgZFtLa4Nkucqm2Pbl6ExB1qPmlgMaDWi3hHr/1OxO8WN3J2tJcZ+4KKuZ48Jw84Vx/0tDmkM/3WwzGEawD8m8dE92JlMkIcl5AmXqniH55FyghrHreYtjDrfPu3E3ejogl7ANmorAptBC2lrei2iVD5s1DkKutBb2Rl6DfBqa1bLEl+CdXS7Q0bcSzMefoyBJff6pFxt8jyOXzlTZcG9Zb90/LkGUYDIBvCBXO8XD+uo6sTskjhOV7sRsR7PNTuId5W0tuNOfZJNR2LBMLP0wUDw82TUN718AHLUkio623SCAqH4keTkAq4GzjtOPtvBsmd3beznuGpIIeSUyKw==",
+  "URL": "https://mate-desktop.org",
+  "LICENSE": "LGPL",
+  "ARCH": "any",
+  "BUILDDATE": "1582666950",
+  "PACKAGER": "Brad Fanella <cesura@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "gettext"
+  ]
+}

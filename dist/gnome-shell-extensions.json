@@ -1,0 +1,23 @@
+{
+  "FILENAME": "gnome-shell-extensions-3.36.2-1-any.pkg.tar.zst",
+  "NAME": "gnome-shell-extensions",
+  "BASE": "gnome-shell-extensions",
+  "VERSION": "3.36.2-1",
+  "DESC": "Extensions for GNOME shell, including classic mode",
+  "CSIZE": "167208",
+  "ISIZE": "900414",
+  "MD5SUM": "eb6fcc7cbc6773fd55d4727347d7359e",
+  "SHA256SUM": "9cf31029a627baee9dd8a6b90565b1347ae9aff6efaa8e686769644c3feb4386",
+  "PGPSIG": "iQEzBAABCAAdFiEEghj4iEmqxSLpTPRwpekojE+kFfoFAl6p8kEACgkQpekojE+kFfodtggAozoB1WONcliAQyQMdmYJgWHA0ffSpmRZrgymoua9Ko18UXHS3T/aqg9gVIesO0CXPrY+qybC0/PIV4k1PLsnw2HyiF3GTvik3UBWCZ/Zjistsaad+6B+H2dY+pM+318/aJkLPOrTjnXwPNpjNoe6pG3LS+7tyQxAWwogocutA0tUpvABxGohZbCjS5u8r+rcXvIhCMo5qXHWSiqAoqCM6PwCSR9HdfB1SOxZpKqLgozxFRvnmHxNJbtj+rqOUjWmWn6XAZNZEENwfYP5bP2T70LYKNvJiBZdEbhBrAMBOZS9liQNh4+FfMjMhTbXknyrT5r5+4zk5xPbn4MX/TvbNg==",
+  "URL": "https://wiki.gnome.org/Projects/GnomeShell/Extensions",
+  "LICENSE": "GPL",
+  "ARCH": "any",
+  "BUILDDATE": "1588195210",
+  "PACKAGER": "Jan Alexander Steffens (heftig) <jan.steffens@gmail.com>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "gnome-shell"
+  ]
+}

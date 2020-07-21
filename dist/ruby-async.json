@@ -1,0 +1,25 @@
+{
+  "FILENAME": "ruby-async-1.23.0-2-any.pkg.tar.xz",
+  "NAME": "ruby-async",
+  "BASE": "ruby-async",
+  "VERSION": "1.23.0-2",
+  "DESC": "Composable asynchronous I/O",
+  "CSIZE": "1793064",
+  "ISIZE": "2126044",
+  "MD5SUM": "a73498408752dfc1f763610dbbb4c3eb",
+  "SHA256SUM": "859a79a497186d59c70efcf34c44ed85f1833faf91c9fe78484a068de1695c92",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl4EAygACgkQeGxj8zDXy5Kz0A//c0bmWJwzhuLSIE+XqgPapyPBwqkUz7ymQKeHCUjsqDz668gN4uafkMZJOxCK7TBdJearJ5zQEB+/PCSgazau9WHOWM1Woqc0pF9ffYLzFDe24uFVHHn9A7v4AiSM63/20Shvr30gfsPW8W4GlRHJu9IW63xKdwuEWVbSOQ0OxPY10CEFjBb9hGerRhJphIGoJ+C6TnPKcBv2yq8wUi2/Cp+6Tb6dvLtN5nugrgY7jYOsL95q02Q5quGIF12UAi6tvV3Xuv8RaTdx+dAnfNonB+RYlPZrxpGKFDJpdXikU0CIp9jhZ/c4PJEKWt3DeI0p7juPohE4uTHTsj22c7OCvq86cS3Mf5BwFMBCk2EINL6YU71mphMRXgpdLNBbn1I+6O7m3N2iHl6dutHxT7WCGm6OqHSmU0jRy7VgVIGYwMB3n8y4V83xaA1YJbQzKGqX4VdAhgy0IqFrddUZrfc8ybbRydF3ohXmZIZqsQ7aiwxAU0Z4rbVu+H9xe314wj8qOsLGlwnQa/jYpYsEA15LG8rw8WJEvw7u3rJZUU+n9KyY+tDgrvMvXXu2tLsqSmnZMIiiiTPS/q/x2pyYipH8S/I+hWnS80TO0vW5kUILqDhH3Uv2I/b1BTii1/6fHZns2QnTvpGlp2G5juk/5UPMY5uJA4YlsI1LpuHM+4LZNsQ=",
+  "URL": "https://github.com/socketry/async",
+  "LICENSE": "MIT",
+  "ARCH": "any",
+  "BUILDDATE": "1577321197",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "ruby",
+    "ruby-nio4r",
+    "ruby-timers"
+  ]
+}

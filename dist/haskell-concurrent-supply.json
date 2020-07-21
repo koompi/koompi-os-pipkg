@@ -1,0 +1,24 @@
+{
+  "FILENAME": "haskell-concurrent-supply-0.1.8-17-x86_64.pkg.tar.zst",
+  "NAME": "haskell-concurrent-supply",
+  "BASE": "haskell-concurrent-supply",
+  "VERSION": "0.1.8-17",
+  "DESC": "A fast concurrent unique identifier supply with a pure API",
+  "CSIZE": "21300",
+  "ISIZE": "85793",
+  "MD5SUM": "9b109f157041fea996cf8c63e5a7247e",
+  "SHA256SUM": "e63a20e03dfe4e234ca5e88e0d70ca0e0fa42d1f8412a5e18648ed55786498b9",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl75AtAACgkQeGxj8zDXy5JwYw//TZvCu6VX23IPVZfC09kcAg3cljq8HdWsJ5ClYR9yqHmgj5/Na5qsAolZSa+E2gBX716ScsHddtFBNazxH8OIKgCm3iwlipBhe3XE5sN8bz4aIu0I/kY3F6fo2XxVzqEFNebdVOkusJyMpsNoH4EAAn7AEtJxoJ7W5f2QpKZ9xIh7wdXhj9w69O9u8fgt1hVMi5I3BRrlixYrsmIjOGEaoiQCskoppYMoNvf8QjYrAQw6Df15y8AgIMwjvNwypG75T6wU8HPjDY7l7Jy54VZ989E1Vk9J6L1JbYzxN1wNpy/0aUF7AI90XkAVaXw945vvSorlAPX8FdVGI94tlRQatcDkSWPFhi/e6t7izKw1vZ/WnzTmx+mct80V5FxZSy7pwxBHw3x5oCRY0NFpFUhxEDSrssn+xYUM53TcDOIdWAA9PpiBZArdVavpkmbh+yvgAWa7hLHUBJ3K8pwjRGLIt0d7oVKJ+Z+IedWeaIwjJK8FPhzsDs5Hf8jp7wF6xGieE4lN8ZBOgij46WW0ANQwrO53ARrn59clcb8AS9A/EiA9r+yX1FZRl+jYS8jf/kzSeGZFjDX29HmUxZP9R43AkjoybSVGQ+wUhgw0qdyafux7J9//SQH4IuNfVOfH02zpHuM3Sl+gLGMJ+H9DF8uOGB9VAdCtc0zC5Vs9lOTPyqI=",
+  "URL": "https://github.com/ekmett/concurrent-supply",
+  "LICENSE": "BSD",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1593377466",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "ghc-libs",
+    "haskell-hashable"
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "FILENAME": "solaar-1.0.2-1-any.pkg.tar.zst",
+  "NAME": "solaar",
+  "BASE": "solaar",
+  "VERSION": "1.0.2-1",
+  "DESC": "Linux device manager for a wide range of Logitech devices",
+  "CSIZE": "187182",
+  "ISIZE": "815362",
+  "MD5SUM": "1d4001c6db3633e198f6b8e4471e457a",
+  "SHA256SUM": "f06d5c9370f6a0f3152d63ee62aba6ebb05ee00f978054030486bab85752cad5",
+  "PGPSIG": "iQIzBAABCAAdFiEE0jW0leqs33gyftiw+JPGdIFqqV0FAl7HJdkACgkQ+JPGdIFqqV2YWg//Z52LP+mbpyTy8TyW7uluMesZQwzaXy0SiCF80lYGsqDGNm69fMdAzA8FoYXmR+eiu35d3rtaVG96gzJPpnB425mbdy4TzSy2ivmGlqQJ9SQ3TAKIcDhAwBPiqkxev0CZQBFnlHiS0CgF5l5R90pz8gyFPKoPiq28k0gZYV+dCSn938N9j45IfV3gfh4Gf1E6pLw+lODES9kJQ4b9h1+xxsEO7mfynLVUiXISSmAUrzED94dTP8dOd+7y2S8GNanLqyXaPjOIYpnVvpiX3IM69beC4xyoWzWehTERxa5EZpIgl2TzAEijrV68iR2KRxoYnwkmR6AETspG/muXz3JG0DbtUOGdVJRbOIJuP0kSIXkGeqfWcf4qskgO40atqTMwyavthEA9YLb3g110xUL3Tb2d5j1RzHTYjXAt1I9c+RIpKGXt30y0sHZG4LndjlHFRm+dGJOZQhM44oCKkPobAgMhOi6OGBLPBPq4v60+fm3bQmQYfE8/OQOS0wtwOBjh2+NsraSydlT1kHOwHmQYOIDU86rlKgb4LpZCVTPbFrP8WmquZuArj65f8HUTyU7iaIKHDebF9M/oUQ8WmBZSFbI7CxbYvw5w+3zvCkfzLW1zKoooUkmx0q5Pohc6n3vqKhLZmALPeMS1tUIVzE2/QyKlNZ8t6WyBjOeZsmp/2l8=",
+  "URL": "https://pwr-solaar.github.io/Solaar/",
+  "LICENSE": "GPL2",
+  "ARCH": "any",
+  "BUILDDATE": "1590109543",
+  "PACKAGER": "Filipe Laíns <lains@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "gtk3",
+    "libnotify",
+    "python-dbus",
+    "python-gobject",
+    "python-pyudev"
+  ]
+}

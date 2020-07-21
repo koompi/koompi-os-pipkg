@@ -1,0 +1,24 @@
+{
+  "FILENAME": "wabt-1.0.17-1-x86_64.pkg.tar.zst",
+  "NAME": "wabt",
+  "BASE": "wabt",
+  "VERSION": "1.0.17-1",
+  "DESC": "The WebAssembly Binary Toolkit is a suite of tools for WebAssembly",
+  "CSIZE": "1052555",
+  "ISIZE": "10405327",
+  "MD5SUM": "16132952a8050f74d80f3e7f540999a3",
+  "SHA256SUM": "8471c1e6103fba4eb9a5f35ebc890460ada95ada5e9bd7675676a79b929937a8",
+  "PGPSIG": "iQEzBAABCAAdFiEE5JnHn1PJalTlcv7hwGCGM3xQdz4FAl7vSvkACgkQwGCGM3xQdz4BwAgAo7R7jTpOTnaYQxRxOLE1S43/eYO2WuCRHh32GYT/aSD2fdl58PP9QIRmIVN2v0LzetgEdCp92FqGhSaUZi3zD+9i0OxFQcFTGVZ/AH/m7Phz94G3FhEtQDHbyddILbYHnlBrddq84poNjec3UtqeRVJME2NUBhxFhlTOzdhmrAPocDO5gJ0FTgzldOcqVKnsZ/KlTWAVG1csHI8Ci4crSiM1f+ICXbnI4ysUHB88zz1bw9ux5QTe7vRonh1TeooS8pbzNbxzQLHuR2LXIRgP+Yi+FHK1/iJFrDedFv6tIa0fQLNlvU1QGaSudPz1qtJyULzU5q0Im2qr97CJG23Gzg==",
+  "URL": "https://github.com/WebAssembly/wabt",
+  "LICENSE": "APACHE",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1592740393",
+  "PACKAGER": "Jelle van der Waa <jelle@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "glibc",
+    "gcc-libs"
+  ]
+}

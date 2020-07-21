@@ -1,0 +1,26 @@
+{
+  "FILENAME": "lib32-p11-kit-0.23.20-4-x86_64.pkg.tar.zst",
+  "NAME": "lib32-p11-kit",
+  "BASE": "lib32-p11-kit",
+  "VERSION": "0.23.20-4",
+  "DESC": "Loads and enumerates PKCS#11 modules (32-bit library)",
+  "CSIZE": "390347",
+  "ISIZE": "2491770",
+  "MD5SUM": "dcd17a23069e900cef9340219f9a8322",
+  "SHA256SUM": "4370ff2620f3f026ce20649a96e3405e9bb40139d175305192bd69061763feac",
+  "PGPSIG": "iQEzBAABCAAdFiEEhs/8qRjPOvRxR1iAUeixSKmZnDQFAl6N5y8ACgkQUeixSKmZnDQOmggApHH9YID2Hhi+2XcA+BwmCn7m6ktfbXBNkng4Y+nFuKaRnpL0pqqiTQWJNM5SAojrkra/tveS8vB0w332NjHV6uF2okx5Tbdl7WXJylkXWVr7EKPw7mq2IliP/LLZ1ZU558RDkBdK7JptfrUQEi4uqOLsLd8CtYFe4TYX+yu10+2+k8fzL6oRgNpCiHnviTCwuSXx866OeRCMG19i7DB1ILl2MmibsWXZaBn7RSbqkR8fVKi5LIMpsmZC7GJlV7AovAT2DW1EKvxvW7iH1V9r3oSHgA2o1R0xERoAWoSW4KV60zrRCSrMH0uy+RKBZTcowQc1iXPIhrMDunbF4JsrMg==",
+  "URL": "https://p11-glue.freedesktop.org",
+  "LICENSE": "BSD",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1586358000",
+  "PACKAGER": "Evangelos Foutras <evangelos@foutrelis.com>",
+  "PROVIDES": [
+    "libp11-kit.so=0-32"
+  ],
+  "DEPENDS": [
+    "lib32-glibc",
+    "lib32-libtasn1",
+    "lib32-libffi",
+    "libp11-kit"
+  ]
+}

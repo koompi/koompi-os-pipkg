@@ -1,0 +1,23 @@
+{
+  "FILENAME": "editorconfig-core-c-0.12.3-2-x86_64.pkg.tar.zst",
+  "NAME": "editorconfig-core-c",
+  "BASE": "editorconfig-core-c",
+  "VERSION": "0.12.3-2",
+  "DESC": "EditorConfig core code written in C (for use by plugins supporting EditorConfig parsing)",
+  "CSIZE": "31041",
+  "ISIZE": "98057",
+  "MD5SUM": "6443d22cecf7f2010a16e80f21921787",
+  "SHA256SUM": "2a843eb917c67f2eb18b3c3c9e4c0be7ef9147e5b0c0f20b5446c9e33d09b9cd",
+  "PGPSIG": "iQEzBAABCAAdFiEEhs/8qRjPOvRxR1iAUeixSKmZnDQFAl6/uGsACgkQUeixSKmZnDTECAf8D87pvF+RmsZaCsqieS/UxJKPbG0bnVaFpB9Dij6ryncfreGhTDW8yxb+axZ8wcWb8gZ3p21rI99yxK/dg+TGPKzvzncfo+6vbkoNuuclzCJt5WRcxljR8dijssFz5Jmr0B8LJjQEm17t120BcY5cUPhiW/KWPPlfOA/Ytvl1xqRrNbZAukehfiiRCvgidbR0LIknbcV92O/EUKuB3++MtxGW8Oej26UZqWudathxOKehoGu4yXmdC0DL2V862dclAcKoqNGp6wo0Cdv6ylKV9Mn70Q2EoO0SkA8ejcxrwKxiTKe10EA+nAizybasHQWDDs6mm8+N12wB9JgBLfmL2Q==",
+  "URL": "https://github.com/editorconfig/editorconfig-core-c",
+  "LICENSE": "BSD",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1589622668",
+  "PACKAGER": "Evangelos Foutras <evangelos@foutrelis.com>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "pcre2"
+  ]
+}

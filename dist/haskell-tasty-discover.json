@@ -1,0 +1,24 @@
+{
+  "FILENAME": "haskell-tasty-discover-4.2.1-27-x86_64.pkg.tar.zst",
+  "NAME": "haskell-tasty-discover",
+  "BASE": "haskell-tasty-discover",
+  "VERSION": "4.2.1-27",
+  "DESC": "Test discovery for the tasty framework",
+  "CSIZE": "60119",
+  "ISIZE": "264538",
+  "MD5SUM": "473b72999270482f3373b9203dbc0844",
+  "SHA256SUM": "c7e9ea02193aabbb113993804a29b8ffffaf59f4c7823df6016968ffa9040023",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl75xIwACgkQeGxj8zDXy5K+xg//Vx1T6Pqwl2m1rxJE6kVZSjsDNNMS53l+wvtigFOT2m1VhDkRVLMdqeVLGImJGP9mTdMIws5A3F6tMGQQN0/5hCYtsElH37QsTO2T3hP6zAWGHnsX6A5JdyYnU7ohNo5bHcLLFdubn4vwRb+mRh98YSDD5L71nbaxnKeHbIlGZCaUVlCvhmEbX9gzbK+gI3MylHqmcIboWxD7ksW83mmryS3JkTOZfyIYOdLjKyKSA/y9K8QSnKy0LhZisGlWWM1nt1KMEtpgl9VDiIiREv/xvLMWKOVeTb12i3W8NnV/0b4ajoSgys9708g/cov/MIQ+xe/RTMLbXwO6jXtmC1rCdxG0xMIhjpIpQRKAFob/lQUbEfb7dkQMlAtIFskMDITzehKndbp8xpq4UxWdkG9WzV7Rqw771dIJ1a7RDn6fVasbw0CSgIgTEe7Q9iJKazjKDCIBCy1Bac2OfKamV24OgjtQNvMHJ9hr6k6h4SQ8AcRUF20Y6zNYcvG8C7q1V9pJmhKegRz+TRQQafp3vUrTzVIuIPGliJFjmuP0fuz1n3e/hsLTWJqjQAy88mRh6kNhd0nlyXCla6+69Iz9pxBFCstOLY1iAhn2YDVEaLzjxRghrPz8SKrBNrDXcIEn8alfX659hnsTmYyMYgYU7K6P7Ei90TFlOFuP7Ip/NypV2V0=",
+  "URL": "http://git.coop/lwm/tasty-discover",
+  "LICENSE": "MIT",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1593427047",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "ghc-libs",
+    "haskell-glob"
+  ]
+}

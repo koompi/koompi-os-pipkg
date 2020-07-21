@@ -1,0 +1,24 @@
+{
+  "FILENAME": "gambas3-gb-sdl2-audio-3.15.0-1-x86_64.pkg.tar.zst",
+  "NAME": "gambas3-gb-sdl2-audio",
+  "BASE": "gambas3",
+  "VERSION": "3.15.0-1",
+  "DESC": "SDL2 audio component",
+  "CSIZE": "12361",
+  "ISIZE": "25927",
+  "MD5SUM": "cf1f36af840405b908b8a453564a3e16",
+  "SHA256SUM": "8cb3e574ad021827414063cf0ae8a956c4c5b8919a002a77f616267403e6acd4",
+  "PGPSIG": "iQEzBAABCAAdFiEEU1+MAzlFDwVKTSgnBglqatHO3awFAl8C7RkACgkQBglqatHO3azi8Qf/UKstfzrcmqwRde+rg3FQEPhC5mSGF+Bt5EqeNwvYv/gI7tjk5ATg5DNwzvOLgijjk5KYCFG6UzMB8wM/Y6/dbZa7czOB/wu+3jbNBh+UnkcpYcsPvHBXQqZqaRrZIoX4t9fs/2nCgiLcc/Vs7Qzqr0ocHN1Lixq2ngpCqCCoNe9OX/3oQR88MUkgicADKflEXqxSVbpwpWcxkFwXYk909HFX0SFcDPeEjmKPtEIxHv/MHmYoR8TwzxsVtrKRhQHxhS1ar655QXcGnOCHL/u9oLpWddnSKKdrZLM/To22LscPwPnWn6P/ditwGe06IDo9Ib4BuICUTe74cEiuM8gnfg==",
+  "URL": "http://gambas.sourceforge.net/",
+  "LICENSE": "GPL2",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1594026389",
+  "PACKAGER": "Laurent Carlier <lordheavym@gmail.com>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "gambas3-runtime",
+    "sdl2_mixer"
+  ]
+}

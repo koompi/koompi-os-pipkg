@@ -1,0 +1,27 @@
+{
+  "FILENAME": "liblxqt-0.15.1-1-x86_64.pkg.tar.zst",
+  "NAME": "liblxqt",
+  "BASE": "liblxqt",
+  "VERSION": "0.15.1-1",
+  "DESC": "Common base library for LXQt components",
+  "CSIZE": "136920",
+  "ISIZE": "549547",
+  "MD5SUM": "3a903a45f276a27c7aa191af93d664b0",
+  "SHA256SUM": "4a30f3dfb938d3060afe8e67b0bb57ecf759aa0269a967c3158f7fffbcb2ae5b",
+  "PGPSIG": "iHUEABEIAB0WIQSYX6G7jYlWZgHv/xEEU6bKI8VjFQUCXtDT9QAKCRAEU6bKI8VjFUADAQCCsbJh0bYUjooynvPdpMRE286xtSJRXR+VqsjvbZyjtAD7BWvuLlmdFnuvsxoiH6JtbytJ74H2epgCOwP7jYBDGUM=",
+  "URL": "https://github.com/lxqt/liblxqt",
+  "LICENSE": "LGPL2.1",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1590743854",
+  "PACKAGER": "Chih-Hsuan Yen <yan12125@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "kwindowsystem",
+    "libqtxdg",
+    "libxss",
+    "polkit-qt5",
+    "libQt5Xdg.so=3-64"
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "FILENAME": "wxsvg-1.5.22-2-x86_64.pkg.tar.zst",
+  "NAME": "wxsvg",
+  "BASE": "wxsvg",
+  "VERSION": "1.5.22-2",
+  "DESC": "C++ library to create, manipulate and render SVG files",
+  "CSIZE": "482681",
+  "ISIZE": "2090142",
+  "MD5SUM": "c28616fdd71b8938f5ea058e8454e333",
+  "SHA256SUM": "1b224154cf3692dac42f8366cf85739f23f89dc84d844825df00393b7472128f",
+  "PGPSIG": "iQEzBAABCAAdFiEEzgvecadZqH8j8PfYth284QkBwWMFAl7/rYwACgkQth284QkBwWONDgf+Nocd4RJNDOZsCZPw6phRzfAwv91LuzsJ6W62abvVrr4IzsX2SK2Ro4/hRBPX5ETb0xXFSu0CalywoFfAHD1nfkYHHFWBU2338cuoQSRZ06lXlEM2b/+d4SGGi2hm+9kyGic28EiJNELZyPsEjicCAzEgOHBpKOzMYuWNctaY1/uUKZpDd8sG5CVvFCuPuekwifw60HwfgiO0MwdR/5CXK7rIaq1rmZ+BOnTyPQGILgyiyD+s0OreNd3m2flF/RvxytidaIJhJTLXhIytri8201jiKGcP1g5mpxB7SBP1GIa7/mfjYWrfydrVDXL3MIG5KV+f5Gs4B2rc+jKrGJ3Mzw==",
+  "URL": "http://wxsvg.sourceforge.net/",
+  "LICENSE": "custom:wxWindows",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1593814259",
+  "PACKAGER": "Balló György <ballogyor+arch@gmail.com>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "ffmpeg",
+    "libexif",
+    "wxgtk3"
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "FILENAME": "efitools-1.9.2-3-x86_64.pkg.tar.zst",
+  "NAME": "efitools",
+  "BASE": "efitools",
+  "VERSION": "1.9.2-3",
+  "DESC": "Tools for manipulating UEFI secure boot platforms",
+  "CSIZE": "156364",
+  "ISIZE": "1117919",
+  "MD5SUM": "fa4ab0306070b0372b4695e6bb33d0e1",
+  "SHA256SUM": "9bef58f0ab3575a0691e914d9482175f6d903e860d4faac66aac9cbc83f990a6",
+  "PGPSIG": "iHUEABYIAB0WIQTH54SUZv4jWDQ1iDdyWHNLQcMVSQUCXsk9egAKCRByWHNLQcMVSZwmAQDLQ4SJx6EX+dLZHckbv1wJjq1T45h1sa0TUJPg7DNycQEA2YUYIZuEZIW5dxhFtiFYdjICFArfwJbkmdvkotsP9gw=",
+  "URL": "https://git.kernel.org/pub/scm/linux/kernel/git/jejb/efitools.git/about/",
+  "LICENSE": "GPL2",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1590242284",
+  "PACKAGER": "David Runge <dave@sleepmap.de>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "glibc",
+    "openssl"
+  ]
+}

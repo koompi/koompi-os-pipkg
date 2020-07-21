@@ -1,0 +1,24 @@
+{
+  "FILENAME": "kiten-20.04.3-1-x86_64.pkg.tar.zst",
+  "NAME": "kiten",
+  "BASE": "kiten",
+  "VERSION": "20.04.3-1",
+  "DESC": "Japanese Reference/Study Tool",
+  "CSIZE": "11680016",
+  "ISIZE": "32906121",
+  "MD5SUM": "8ef03cdbe38fa5a7c22ee0702ce7f437",
+  "SHA256SUM": "b085b6a04dbdb389f458a29f611075db2b3a2cb639ee1fa6e44b02d817142f62",
+  "PGPSIG": "iQEzBAABCAAdFiEEFRnVq6Zb9vwrc8dWek52CV2KUuQFAl8HBFcACgkQek52CV2KUuSvngf/UbsbNAYxWxB34uvNPlPih3YeVWtNNeTfgrjJWiuxgAU3hcIySXFqrarSOoZgIVmm6Cc/ipPLbA1NX91RoPcbjC7UzbTrJzUDE3BBy4czsboDtqqwWYrbN82Njn9W5hXR/xdWzTXWDQUn/m8KiFlAl6srQVHnVdfD+JKmf2i97oBLleE1ASsV5CReyuDQrpCpijC5jRBeo/IZIYEL/oK7L+gZThQBS5cJ2QrBYbd4GIHLV+RUwnsWiUi1IyBSxbFgkv8qIICAjyKYH5jLtEeEKLjMCU4hW/AFkgqMcU9E8iUM4FfGOhBPjXmZ+zDdbpbSGva2wt++aagjY0O4hHl/eA==",
+  "URL": "https://kde.org/applications/education/kiten/",
+  "LICENSE": "GPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1594107275",
+  "PACKAGER": "Antonio Rojas <arojas@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "kio",
+    "hicolor-icon-theme"
+  ]
+}

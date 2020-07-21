@@ -1,0 +1,24 @@
+{
+  "FILENAME": "task-2.5.1-3-x86_64.pkg.tar.zst",
+  "NAME": "task",
+  "BASE": "task",
+  "VERSION": "2.5.1-3",
+  "DESC": "A command-line todo list manager",
+  "CSIZE": "893817",
+  "ISIZE": "2651418",
+  "MD5SUM": "0c45e8beefd076380ab28c3e929d89bc",
+  "SHA256SUM": "96ff69e2b5a35c55cd2cf8a04efcb3951c53df0de4a74d2e78927a0633a2ce60",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl8Ek64ACgkQeGxj8zDXy5KO0w/9H9KoiyJTrH/xYbtif4H/Bn4F3722vBXMa725yNAMW6WLk8jZoQuYqGeO7cgQ7AAZyO2NhbbYVwkJSgl91yEhI743o4tbaWV84flaHMwtZKw8UFIJSNk8p/cT/ABabu85ylEpum3PJuPf9TPhp9zg8LwbWuQ+DC3Oxahliq4C7bHPFhaPQnD9ftsLka2PWoJ7b33821bXUXEsvSCJsgKe5JvKoHj2OW6mh27TCaj7oDBZVTHM2Azx4cc2H6BEcijUTefRbL0F/2VGL2cUll6MQU/IWXtcZTHAmo1YMu4EXJNuSKNtSd7901OGfkJ8XHk1LulDu30tSV4BD+A9dz0qvgr+uY4c46zIWbDtL93BxKDm6qQD5onQIxyqwPu2tOXh7Y0uGLEJzeY55KFqIbi8Xk/gqrJnef7AwDkU0V0bgTfhCA+L1QxY3mO2kkIeH8Pio+Ip0FXJMkWycewwCcqcIFGNECuTVrZjJpVwGcPEn6M1eu+dIP5tUHKp2lyiMhu5g1xwk+A52jpMDfbLw7eh4dOhiWfB7l01NdzPM66GDORAhozdmRxt3dWpIXc2Uxd83Yv6qI8vH8Ref7zAdcWX/B8wyNQunnxsrHn5WgAYWjP87uRlzbNW0kmmYUOPxDCmM3F3NV+3NzLdTjSgoI8TPeibshUs1kJWO3tswHsO+TA=",
+  "URL": "https://taskwarrior.org/",
+  "LICENSE": "MIT",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1594135408",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "util-linux",
+    "gnutls"
+  ]
+}

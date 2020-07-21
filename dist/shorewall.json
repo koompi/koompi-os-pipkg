@@ -1,0 +1,24 @@
+{
+  "FILENAME": "shorewall-5.2.6-1-any.pkg.tar.zst",
+  "NAME": "shorewall",
+  "BASE": "shorewall",
+  "VERSION": "5.2.6-1",
+  "DESC": "An iptables-based firewall for Linux systems",
+  "CSIZE": "542666",
+  "ISIZE": "2846313",
+  "MD5SUM": "bd347dfb96aabe6858513803ed6a71cc",
+  "SHA256SUM": "e781521a0b554addfd4ba009394180194ddbdb864aef4c08c478359d90892d28",
+  "PGPSIG": "iQEzBAABCAAdFiEEhs/8qRjPOvRxR1iAUeixSKmZnDQFAl8EQ7UACgkQUeixSKmZnDSmEAf6AnKxgwZhxxMnreVku1ez+4/vpam9xjvCkcOTE7v+m+aV79iJEtmQQOo8HpNZZKQ46e085k9Le44/Z1y4s0mm2javgWCN7IYIvrL0VqkZzik9r0nPf0XY535u8fep7VKGUiiLrxfI/NnnamStbkD0Ptzmjg5WHDv57c58YnchAPZOLBMKVW9+cDepQvVrSUsLibAaehcEVTDhrMmIgusgGjFUbNnKLjCsQHt3scyHFpPAPDC3cMlW9mLZ6+5+xaL51ee6wLIUMvisWl3XpZK20OPExCwutBWKHRb2Emufkmw6OQFhWl2ihSopYsFlC+xaFUnXzMln13Oi6KDvtU6myw==",
+  "URL": "https://shorewall.org/",
+  "LICENSE": "GPL",
+  "ARCH": "any",
+  "BUILDDATE": "1594114929",
+  "PACKAGER": "Evangelos Foutras <foutrelis@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "shorewall-core",
+    "perl"
+  ]
+}

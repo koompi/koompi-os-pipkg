@@ -1,0 +1,23 @@
+{
+  "FILENAME": "python-transaction-3.0.0-1-any.pkg.tar.zst",
+  "NAME": "python-transaction",
+  "BASE": "python-transaction",
+  "VERSION": "3.0.0-1",
+  "DESC": "Transaction management for Python",
+  "CSIZE": "81429",
+  "ISIZE": "568403",
+  "MD5SUM": "5515c6b3aada190c657ac9bb247552f9",
+  "SHA256SUM": "2c55278ac431c6beed0bc544dcdeba5a94bf37fea9c286f50945d09e6e01991d",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl5utSsACgkQeGxj8zDXy5L6nxAAgrxL3kHvdAAMBL90tyiywCvEs4LgF2LEx6BaBaD6VdjeVIjVEQnWyGTnEsh6FP6EfVr7u3ehUhne2r319r48Si+CKpPUuqiM03iaCHoEbEFZVjQ0cPprO85KJY0xPbLTv9W0YexaAhbbEDYOQUfoYGRykzix8ZyB+h3NAo1WwRU+cUwDWW/zp5BWJ3EP2tlfgDuJ0yowJt6URrMfnZYB2ZGvUwXxJCdZipLKYWlPXhpR38DOcBcHAwt1MykWy26S2XXgcVNxdQRtHhgq5JGBOfo8Rkp9wuq8qQjtwPJEVRM0uE5dRuM9NO50NW+yXM7RIZLPs7LqANfncGhkoOxogZj5sp5sv+GDMVRisdyI6xuUtntaLd2uZSktXoG/NpKl4yVgYzgrSe0ciulDiEsHpPbe20Eg4P9cIy6TnmgSJfJ83yiGnBUgD3D8AUxmsdtKnzxkt8RRG4KmEr4mkDlHLp2gqmy6UFxqqYB0Cu5AT9IGuW3rIziMxRyV0CnasNEU2eUdUpXx6t3C8e2oSBctJOQqEms2nXsWUfbi3d5OtE98W6jVgW1EEXP5cmCxWWG7g77sJwZQMVJ+QJ9qUxz8q2QBvYu7En6rZIxVJ1edyfdm1SpM3DMp65b6sGagmnGkvexYCRSinqsmRgR7Gt4sZ2ARPZoeA/o2BIPqb66dhdA=",
+  "URL": "https://github.com/zopefoundation/transaction",
+  "LICENSE": "ZPL",
+  "ARCH": "any",
+  "BUILDDATE": "1584313588",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "python-zope-interface"
+  ]
+}

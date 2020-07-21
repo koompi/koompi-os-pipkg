@@ -1,0 +1,23 @@
+{
+  "FILENAME": "kdialog-20.04.3-1-x86_64.pkg.tar.zst",
+  "NAME": "kdialog",
+  "BASE": "kdialog",
+  "VERSION": "20.04.3-1",
+  "DESC": "A utility for displaying dialog boxes from shell scripts",
+  "CSIZE": "119550",
+  "ISIZE": "535429",
+  "MD5SUM": "3d89fa404d60cdb492a65ebd598ee131",
+  "SHA256SUM": "75c12d505273db93378aab5a54e3a5df078409ebeba959a068be22145ffccdb5",
+  "PGPSIG": "iQEzBAABCAAdFiEEFRnVq6Zb9vwrc8dWek52CV2KUuQFAl8HIX4ACgkQek52CV2KUuR3wAgAqX2yIzBC7UkIiYCLsxRh4Uiqkzd66zD9zKAJ9+Uh0b4qobzLNB/lTOgjqlJFyEqeDb0t5d+aNV+0FXLifVDfI7DTbZkgLJJFu0SgLKABpoWLzXNgUsQXxg1F1Irg3cOhCzPjvI0eW8P91x2JQlIoVj/miurJ7+ubk91/EvYnv94da7mGF7+o7i6ZMWZTOFkLhHf7iWaktnf5wFpJp4RfltGFVCdSdGsSTNIxMnBG2fZp2XeilUj9KF0G1qsy9ptNwNU7mYITYx5n4dJbZnjkwX0ftB4ltSg7AyFMMv4KgoDmIOjgjPHy/kxqrhvy+nw01kqiA2g/KtpooKkdDlqAbQ==",
+  "URL": "https://www.kde.org/",
+  "LICENSE": "LGPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1594114475",
+  "PACKAGER": "Antonio Rojas <arojas@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "kio"
+  ]
+}

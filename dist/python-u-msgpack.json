@@ -1,0 +1,23 @@
+{
+  "FILENAME": "python-u-msgpack-2.6.0-1-any.pkg.tar.zst",
+  "NAME": "python-u-msgpack",
+  "BASE": "python-u-msgpack",
+  "VERSION": "2.6.0-1",
+  "DESC": "portable, lightweight MessagePack serializer and deserializer for Python",
+  "CSIZE": "19176",
+  "ISIZE": "107967",
+  "MD5SUM": "21a6fb2a35d487de963076c4f7fa5cde",
+  "SHA256SUM": "8a1470dd41cd96281c88184fa232ffaae01467e930130fd22de9afdee1fce50f",
+  "PGPSIG": "iQIzBAABCgAdFiEEYEETBMCdNmKDQO7/zrFn77VyK9YFAl6mBGQACgkQzrFn77VyK9ZL4hAApX0ddti+j4O2dx3sgTgMu65eKiRcP6el+pRxTfvE0Zi9QMVowd5EePcxw7DOwEVIq4UPZ/1UwVO1g8sBdwqaZ8f+M6eKP00JUz5Qq4sXXB23gzSjrXGeHu0s678jOGijFGWI+SgaDQJVDAJVdq/olWazvnLTEm0DtthLA9XCPFrdfTloGotUwPl4+5evuRHhCfmrPNEFkpuaYZla1/vo16WPuLZ1m+t3R/CsMuOxY2htXmjg/sB6YBZ0QfUoyBMt2zWVvAZrO4dWfuCWFitNRQa5y+i1iAUCxrPXEXwZnHFwP656YmIt4IHo5Ok21qWjP9pewll+KGOpiUGNHLrRqljxUOhEn+LyKOkiXAKzd0tF7qd1tqly9G6772g7MrxlQKkswCwq8yufwgn40KNs4XSz6CYPYJ2a/kdW//wEYUQeE+pO/BrfY68K6i5Rt6Yb34w55db8sZ5dOxDq40NISAigX9zPaf1uplNDuXELop5u3H8bQp+Kc4tkA/1LVszpOozbm91x0gytEJwuzBVYm1yA7fTIzUNXuAKgwSC3Hfsc+Sd6FczSvJdPBzya+D7q3JZX2rEEuZamI7HpwivmzKoqTphHuVLYehmuWkFZVTCnaxJDWx+OFD/pqrwOQqVEXxenfMvv/eUdbVqjshDIQvRhV85k4tFnMG3J9VGDbFk=",
+  "URL": "https://github.com/vsergeev/u-msgpack-python",
+  "LICENSE": "MIT",
+  "ARCH": "any",
+  "BUILDDATE": "1587935510",
+  "PACKAGER": "Eli Schwartz <eschwartz@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "python"
+  ]
+}

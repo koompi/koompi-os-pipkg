@@ -1,0 +1,23 @@
+{
+  "FILENAME": "haskell-setenv-0.1.1.3-18-x86_64.pkg.tar.zst",
+  "NAME": "haskell-setenv",
+  "BASE": "haskell-setenv",
+  "VERSION": "0.1.1.3-18",
+  "DESC": "A cross-platform library for setting environment variables",
+  "CSIZE": "6808",
+  "ISIZE": "10610",
+  "MD5SUM": "85056ab1ed0d31684b8e30947307ecf3",
+  "SHA256SUM": "1d866a2e1c693895ce0383c7adb211eec4bd24d02aa5308965e67c555c1e55be",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl6hrVkACgkQeGxj8zDXy5L4QRAAqsUbDW3kdn5ZmDOra61RNSlPahP56XVQf/xba7780G5yQJPPkPQEl5tAdMoQ/i1Mgi2iG3PVdpaeJ4ju0zUmNxOeJ06Li9B6BUtlJGOVddwqQzVnvuuT4px8Q6gxZq1dgOd/fM00i69Dm40ihdUQmcv2Bb7+S8KD5swJ6x4TJbYEZVrXenE8ECmb+Ba/kt8phavDsIMxk50hHy6Xu4NFPaHupmHmBKifmL8/kCw9q9xgmfjWr/bnE1YqkaGARKfkAZaoot+qc6xOuGA090JSdRBF+IIVy1E84Cey7bjgCRWU+xK3r78q/VAKQ5zIcrps1vSJLXI/nQ0nYLpxVtrTpEVk9wqJN3weF4PYWc8gkI3KVD5StsHar49KC3jRTw+yG5yaZTwQyca1AYDS4kz0CjH5uxmwc41txUDT9JH7YfodT0tdEgEyxsEdLQ1I0ief6b45aS8kbUP8vI0FHoLRu7us64itWaYw83jmGoU5ES/IslZ/dnrW+LRw/v+tgL3fHRoONcPGTwU+mVK5qOESTjM7d0KA7HlBJtxoZFFKC3SZ+H37fL4Er1GjBRsSsX+2SvMPq6Kadbct1f5PUnRL0x7LTpN2OaoZ+yvlifPktRH2NWaUau6s6EewSG8Gl+OLx/TK36xSBhq8iCn3A5iIGl1q+FhuoPnmexrTgzldvZc=",
+  "URL": "https://hackage.haskell.org/package/setenv",
+  "LICENSE": "MIT",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1587653877",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "ghc-libs"
+  ]
+}

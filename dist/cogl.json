@@ -1,0 +1,33 @@
+{
+  "FILENAME": "cogl-1.22.8-1-x86_64.pkg.tar.zst",
+  "NAME": "cogl",
+  "BASE": "cogl",
+  "VERSION": "1.22.8-1",
+  "DESC": "An object oriented GL/GLES Abstraction/Utility Layer",
+  "CSIZE": "845813",
+  "ISIZE": "4705367",
+  "MD5SUM": "acf86fa4dbf3d735888b9af1fc925863",
+  "SHA256SUM": "488aaa2d58418b4b899f39930aaf3788c62de24f8cabe357827709767bc2aebb",
+  "PGPSIG": "iQEzBAABCAAdFiEEghj4iEmqxSLpTPRwpekojE+kFfoFAl7ZKCIACgkQpekojE+kFfqvogf/dJhRvQZGR6+slcFS59UTzFVcb7H+TnwiZQwYj0uC8J3ydFVB35+0Uu6YhJyFYvo+vfF58MXIuGmMEsOwYMkBZkaUzBqOeDvmwcbD3sbY2W/+O4iAn0uQSO6ek23gxWQNmbt1XxwCwgiTSkGCcaMsggrM10Dk0zZIAgdSUECQqOfCqyKnfZD1mBcqxN0L7Mj08cQrjegrvyJ6kdItGbAZDINhE88F1XqidOoQ4Jrq9+5L8m+FV7VFirtEjLsgssUkHAalxQMHD20VBlNa0RIs6uIvRmKb8HqsuJ4P8QLA5IVkpHGFmW5ZMwnYKG5/uwAZn18eG78nGLLH8jFFZvrSZA==",
+  "URL": "https://blogs.gnome.org/clutter/",
+  "LICENSE": "GPL2",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1591289658",
+  "PACKAGER": "Jan Alexander Steffens (heftig) <heftig@archlinux.org>",
+  "PROVIDES": [
+    "libcogl.so=20-64",
+    "libcogl-gles2.so=20-64",
+    "libcogl-pango.so=20-64",
+    "libcogl-path.so=20-64"
+  ],
+  "DEPENDS": [
+    "mesa",
+    "libdrm",
+    "libxext",
+    "libxdamage",
+    "libxcomposite",
+    "gdk-pixbuf2",
+    "pango",
+    "libxrandr"
+  ]
+}

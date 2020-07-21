@@ -1,0 +1,25 @@
+{
+  "FILENAME": "hylafax-6.0.7-3-x86_64.pkg.tar.zst",
+  "NAME": "hylafax",
+  "BASE": "hylafax",
+  "VERSION": "6.0.7-3",
+  "DESC": "Fax Server",
+  "CSIZE": "1113386",
+  "ISIZE": "4021810",
+  "MD5SUM": "0458838a5c708c17f867ffe9c8ab2d21",
+  "SHA256SUM": "e76278b4e5a9cc4960cdb56a088f981c4eb1757d6f52c876f7054e36397bb78a",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl6/zJgACgkQeGxj8zDXy5JxyBAAqJzOIHS7zer84LERUfP87Eq3hifDQ8RPNJH6LeoapCvdupQxZYEjAH4cikKuiO2iH/Uz09ordmCOvIw48QVcZcU7gBUpVYZQNxFjl3s6wM+VMHeae7ZuEWwy5WWjRfpT2al4bMsHxLG+yAhK1pfi1r1Slmmzclp+4CKgQfN/VF6OeiUw3P040dloksW+ffFx5Yxnaj+syNoWBeYH0wKC3OG9lwJjJbwjrRvtGC+O8IjDh/NLRiG1FY4osYStJQc96BisaWYGfi4+OHn7/+22OYg9AR6pfbrLIqxYZp96MEvUewqiFtw56zOZWk1x0xcrCAkgHkc3MP9+MeHlewjscrWGApKXkb4flPFGoPh2dP351nP9LVADTzJK5UZ7O3p7P7eEAK1jVpFQ5WtbhzNfYrDQWoXFubHhvnCeSZ/6bKUfoIMvDndlfoXXPknkHCKp78BaZwtWY9UHHWuYWfRYORju69OIF6IE9PGSfgX+Bv/ej3K1YF3HjS60LnlNY+26ceYcof0KLdkLUUxCxWBVmG6WXfIBebHGYkkLugWjmcpazYsmybxhpF0u8GB9zabn1eUiHHl1DLWsiTNtkUzQkkQ54xdMtodO7IJUesiWSurrEae9I6qTtKa5u1wDSfhCU1/0kqUV8Z0mvG15y1Qgtb3KcUStmq/UKHQEw9i2AIQ=",
+  "URL": "https://www.hylafax.org/",
+  "LICENSE": "custom",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1589627969",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "libtiff",
+    "pam",
+    "ghostscript"
+  ]
+}

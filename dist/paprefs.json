@@ -1,0 +1,25 @@
+{
+  "FILENAME": "paprefs-1.1-2-x86_64.pkg.tar.zst",
+  "NAME": "paprefs",
+  "BASE": "paprefs",
+  "VERSION": "1.1-2",
+  "DESC": "Configuration dialog for PulseAudio",
+  "CSIZE": "55428",
+  "ISIZE": "240089",
+  "MD5SUM": "2fbfe1c0d437e758db2e48faf9d4e2e2",
+  "SHA256SUM": "03a4fd299fd39a39174c178da6cf7e9df8fef791e1973fd58fa5afdbd468dcba",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl6/to8ACgkQeGxj8zDXy5LbuA//ZRlQauRBdEk3Do4zuiu7YMlt1H29FYjEApy9MABS6m+23g4eLirt/klaHPao/25hSwQabayrV8PlxN6iDyLJ5SNQCJOD0/IHhwhSB8xu0deDeJP0voJrmPqvS7QjA8tlAOUKxPnkeOsw5TwqeYy4YC6hx0L/8eL9eeg4Xn8ErjiKsQNz5GtwjI7WAkvS6kZN4teeClqGl5vgg2jgAiodfhWorQO9o0k6cH/u1apnmWhxqdjwCMmki7EZl0QeoYK7+f8H1xudzVBC05/OrV+qURP4BIK7qeTevMzanJBxPWKmwFnwR3zxPlEOkl8g1A5kSQQNTYDi6OJn1l34Zr1zxhvS98O156gdGkLnu/K5g5kIewvPVpqWZUMpHFVywROXc2uXU60u6I1MkHyBZdSDqxE/jLa2vzXhXX1LUwixmZBGTomhbBhl+dIn4xrrwGh1FZo7bc3PWLRGCYSG4rbPM8Ba22QfPYKkjOnejVMvUubBJ/cf1vFyzMbHPWm/Txyd8Y5NtCJMBpFFDW92L3kJ+yj5UtRqhOoo+jR61pyPYY3KBRkQsEE5iFPyMm9hDxHXtTwv/QaK6F5iSZ1ej0Ga59xDr9UmZs3pMdDAiq6U++Bo3kj1EJmTWl1oIgA8AtmCG+Pej8oogxbQ5AlGeL4z9BCaSti0wt614H587zE2QTA=",
+  "URL": "https://freedesktop.org/software/pulseaudio/paprefs/",
+  "LICENSE": "GPL2",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1589622347",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "gtkmm3",
+    "libsigc++",
+    "pulseaudio"
+  ]
+}

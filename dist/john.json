@@ -1,0 +1,28 @@
+{
+  "FILENAME": "john-1.9.0.jumbo1-3-x86_64.pkg.tar.zst",
+  "NAME": "john",
+  "BASE": "john",
+  "VERSION": "1.9.0.jumbo1-3",
+  "DESC": "John the Ripper password cracker",
+  "CSIZE": "17613823",
+  "ISIZE": "72755412",
+  "MD5SUM": "40777f51ea089e2ac7da38ca7ebd0b75",
+  "SHA256SUM": "3a9a11042d0d40107fb8435f6ae4146c09b8031d50a7700475a737aefa6ff204",
+  "PGPSIG": "iQEzBAABCAAdFiEEhs/8qRjPOvRxR1iAUeixSKmZnDQFAl8E6skACgkQUeixSKmZnDTQbwgAsKgt4GaoEHkQPTMA3er+tfpvBML0YkoXuV2fMmLGOILykEmy9O7bQaQtwQdCqETsefnn0ZMVV1KQqwfGyFEov9075uIwA8i6j9w0pvjk2o3rrJLggMhYEX6Zt2j8blBX5ZeaNNh5B9bRqzqvJqjCkS+3LgHY3bjbONmFUOSDI1XPqLhqPEKT+rvnW2UZtgbKF2dPaf6N54HFp9wJUYQ2K1VnTxzHlo5v7u/6nlrCHLzXiZTYI5i45HLEq3rUyq5I2sTysDvoDvpMJEGgtdXM871yNR62FYhgYBor/mm9cCK2tF1tyNhNLBHQgm5UQvdKpOrGjofRG6tqE4XZQa8D0w==",
+  "URL": "https://www.openwall.com/john",
+  "LICENSE": "GPL2",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1594157562",
+  "PACKAGER": "Evangelos Foutras <foutrelis@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "openssl",
+    "gmp",
+    "libpcap",
+    "openmpi",
+    "gcc-libs",
+    "opencl-icd-loader"
+  ]
+}

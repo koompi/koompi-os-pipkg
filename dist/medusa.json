@@ -1,0 +1,23 @@
+{
+  "FILENAME": "medusa-2.2-9-x86_64.pkg.tar.zst",
+  "NAME": "medusa",
+  "BASE": "medusa",
+  "VERSION": "2.2-9",
+  "DESC": "Speedy, massively parallel and modular login brute-forcer for network",
+  "CSIZE": "178875",
+  "ISIZE": "861295",
+  "MD5SUM": "56c74f335516b5adabe3e3b70ebfb00b",
+  "SHA256SUM": "444d2b935d53b876949f8acfd976d2abef3af32453f80475011c9a0983d0ece8",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl8E5zoACgkQeGxj8zDXy5I2FxAAorAXpB7ACrqPLFlVaFUL/K5gxO+tTFfZqKdj6voA7SQIBYxmeAKpbNSqqUDpXoi5oMhRPUbIKne5UImonyC0TwCujc1RbSmR1gwU4jcJ7gXsPKUSOlTrkAFsWQxQhQu23cE1tICpeuaKqEgiCz99az2OPqoJfE7V8Bw542YeQal11yPU9fY7/OEijcCD7SMWBWZd4DZW6Cr2/rZYWmZp94VS9pTlQR9Oacx3jmJhcZ6ImT1d/DTViOCXBOs6kqqmCSWy/UPkty0HD1dd2u1HWC/Eep0i52e3aZXkDnT469iXnaFqjuRX/W3YJyuqMFXsyKHV4Y76sTiJgOArCO8KrfdIbPOnPyti42Jwp/i7PfSzU5T4/iLzf7AkKVObB7ZU5NkDNOk0LFFa34EDDy8CKH/PXy8tqdqiJPJ0r6MO/H95Pl6meJxDBdMHF2E0kyyu3aH1hGT3JItqgsF1Cdnz2jQvxW/RwOygwsOuV5GrN06hSRj4T2CA8R+Cwu48s0Ba6oB3tqlUX/aBdbSGKzXH2vE6Z4+rcmPEIvGPYjQloJ8aH8VEc+ggQ12Hd/KM1xccFjeD0o28Zf0QAl5suJ+9vfoxFukMkKbQcvRYKYPrhhUKjNFMdZLCWo+fnaVPmHT2ZDP0ui08HHKa6E10ocRZixmLenOy+hrrxRPvTr+t8Gg=",
+  "URL": "http://www.foofus.net/jmk/medusa/medusa.html",
+  "LICENSE": "GPL2",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1594156776",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "openssl"
+  ]
+}

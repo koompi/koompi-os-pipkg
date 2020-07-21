@@ -1,0 +1,23 @@
+{
+  "FILENAME": "glider-0.10.0-2-x86_64.pkg.tar.zst",
+  "NAME": "glider",
+  "BASE": "glider",
+  "VERSION": "0.10.0-2",
+  "DESC": "A forward proxy with multiple protocols support",
+  "CSIZE": "2342905",
+  "ISIZE": "7743884",
+  "MD5SUM": "1b71e562571c906c450a4abebf0f4ae1",
+  "SHA256SUM": "87cd2cbe8e3a40f7940c81a749e6c1504bd3c892d43c1eb31c1fed9436d40d35",
+  "PGPSIG": "iQIzBAABCgAdFiEEwQA0ZnZjToDJQPuenAL/QZ/svhYFAl62vosACgkQnAL/QZ/svhadwg//RyLccAyMjOcCy9vI+HuFSh6V/W5ovK0bKLPtXLuiDnDTJyqw5fnp7xT/zooxu2TGKfFOynwbqPkb9TNpkHLc1932kEmke4hBFPE7qs0gMJ1YGnQNs/SxBUJmb4qdfRFV1ZF8viTM31Act2OcEPBueEsOBLQ/rxIWnQ5qwxtk74HzkA44gNCNau3+N5dOBjxi49j3dUrvvLR7cTuV+lsOUohN0y4yR9xsUG26ZDkEW4v7U59swxyEMm9XhtYxGbqy+R7K0+nDBwn3j1M7ucAiIAWHRMfcBe20Ts3P91mdYEk5BJkkpKTMWP9TIZOCCN/II6l0IiG6v9a4Cq7JwGQhHkwXxbyOhdZ+zu2h+pF7hAto5Y3FXHKkMZnuKq4GZvuF3LnzrvsiI8o/tAIpXYX4VGlffHIzWYNcLu2mUveWKUpwDZqApbAoEoRUpj2lVPTkNa66iYCBwFs/QajWxdmv+yuL1sIltQHRpUa0DKoGfiXfPEKTlp7T7qmqIgtNkVEZg5abn0j6u2WGT3cxJXBTNGON+lv0HtJfejM2jnS+FubGiKIxljAQ0YXEp4XfDf2kzmCP6xAmsDtHWeviymi+zQp9KqIez6DFEAajR/nHfOirA0UsphfMxCTZMVDy8q2FiTqHY+nfYu2qWAEooLM7se1L4X8sfeRlmkukOuj0u9w=",
+  "URL": "https://github.com/nadoo/glider",
+  "LICENSE": "GPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1589034589",
+  "PACKAGER": "Morten Linderud <foxboron@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "glibc"
+  ]
+}

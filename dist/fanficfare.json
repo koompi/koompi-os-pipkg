@@ -1,0 +1,27 @@
+{
+  "FILENAME": "fanficfare-3.21.0-1-any.pkg.tar.zst",
+  "NAME": "fanficfare",
+  "BASE": "fanficfare",
+  "VERSION": "3.21.0-1",
+  "DESC": "A tool for downloading fanfiction to eBook formats",
+  "CSIZE": "530080",
+  "ISIZE": "3727779",
+  "MD5SUM": "acd9516cdc530b66ce72d48dc3532045",
+  "SHA256SUM": "1375c5cbc3a684c489dbcf0ee7caf651cd1e1d32578ead8457775c663c0650f6",
+  "PGPSIG": "iQJMBAABCgA2FiEEYEETBMCdNmKDQO7/zrFn77VyK9YFAl8LUnEYHGVzY2h3YXJ0ekBhcmNobGludXgub3JnAAoJEM6xZ++1civWxKcQAIg7VqHZZ/TN380Ab7MkSJhaNwc2XLmxdAh9JFzm+BxNQ4tJjnAz3ok+2Cuaf9keiqi9hwok4DgZ/EgWl2L5xdsfrADW+Yo++0KZgr4bl3wWa8jeu32nzqT5Irl1nIs8lj2MoXC+J6FpJDQtv3fswCDPitTQN64SmZmBowwkmb7QFWQ46Jrsl495ENPG9+6r51+1xqr9BEA4HZDeYRQ/3DIZp4hgRRVX+HAoLBaJaSUAIDQt0dUeCNK+p7u8ypVBNFoQX8ik+DVyKum3S/QP4xJmPB4q2NAntQzrEDVOJniQJEoBoEAH1U36HYr8W1F/NPp4OcLlfAnDNeyRQ+MJuP2tYAgpM1ExUSiHsaOMIPuP5B9/FqFpgg80iiYtY+khqSxa+cW7OMHP9w39lChU+77Wg2cHYTewzmMS+wvUXe2lKb/JP8gW8Yg1pP/EMkn5CFpWsUZtLDJxVbAQPCjIVKTWDeDQ19AOXjGQiBko6Pt66yGvmvzLpiAjCcYAXGNoGnnmqErAKqXJE3My7AWC+e/3JL1RfuzQ+cvN4Rheapw+tbAhCz6SQMC63YqaXxyvZ9pY9hHCD4+Tt+UqgfypZk9ILbtUTLOeq1GryHK7HU/i7upp77MVVLj57bmkrrhaq8wP/n5Rokq2hv+W28vpl4lEbLAK+pK4kgqkmj7vc4gB",
+  "URL": "https://github.com/JimmXinu/FanFicFare",
+  "LICENSE": "Apache",
+  "ARCH": "any",
+  "BUILDDATE": "1594577350",
+  "PACKAGER": "Eli Schwartz <eschwartz@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "python",
+    "python-beautifulsoup4",
+    "python-chardet",
+    "python-html5lib",
+    "python-html2text"
+  ]
+}

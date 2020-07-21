@@ -1,0 +1,28 @@
+{
+  "FILENAME": "beignet-1.3.2+12+gfc5f430c-4-x86_64.pkg.tar.zst",
+  "NAME": "beignet",
+  "BASE": "beignet",
+  "VERSION": "1.3.2+12+gfc5f430c-4",
+  "DESC": "An open source OpenCL implementation for Intel IvyBridge & Haswell iGPUs",
+  "CSIZE": "7338883",
+  "ISIZE": "25959687",
+  "MD5SUM": "266414826855495a42ab634e197cc0dd",
+  "SHA256SUM": "bf17b2394278ee5d0d1e4a1d36134249ab42b75809d20505c1165721b3f78869",
+  "PGPSIG": "iQEzBAABCAAdFiEEhs/8qRjPOvRxR1iAUeixSKmZnDQFAl6XrsEACgkQUeixSKmZnDRmGAgAtMP1/0fqkNLfz/8/V3XlsTJVXw57soDkU2HhUnE/wH+m10mlwDkkHQOrENa4R4eHeJ3X+bVC3gELNMGLh0OGcBbJof0uRCqBhBWdtqRz+NkbIETjYE4mBSHoIV5kn/boTsAVcqVuutbboigQZikDANnJNXjbk7KsnqrePsd0vcde0WM0vFVm0SRnylK+p4NeTgeSX2NMdyLSsHjSASoprZI9ToniXser7MwZegBBRcnXoquvsq4KMXS3xyGYf+TZtRTehkv1X9/Q6rJc6kFWc0g1KiegsxzD9OTqj3zIz7wWaQewURFCo2cAlEefsJAXey7Bpe20V7ZLwZnvZbwA+g==",
+  "URL": "https://01.org/beignet",
+  "LICENSE": "LGPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1586998767",
+  "PACKAGER": "Evangelos Foutras <evangelos@foutrelis.com>",
+  "PROVIDES": [
+    "opencl-intel",
+    "opencl-driver"
+  ],
+  "DEPENDS": [
+    "glu",
+    "llvm-libs",
+    "clang",
+    "mesa",
+    "opencl-headers"
+  ]
+}

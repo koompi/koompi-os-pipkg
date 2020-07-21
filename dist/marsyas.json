@@ -1,0 +1,29 @@
+{
+  "FILENAME": "marsyas-0.5.0-7-x86_64.pkg.tar.xz",
+  "NAME": "marsyas",
+  "BASE": "marsyas",
+  "VERSION": "0.5.0-7",
+  "DESC": "Music Analysis, Retrieval and Synthesis for Audio Signals",
+  "CSIZE": "4521364",
+  "ISIZE": "17421291",
+  "MD5SUM": "f2daf489b917cde58c6b08ce0c68f7fa",
+  "SHA256SUM": "2a5b60f2712667a7358e6dc9958f114fa919e20300a98dbac0f0df9a05fb6989",
+  "PGPSIG": "iHUEABYIAB0WIQTH54SUZv4jWDQ1iDdyWHNLQcMVSQUCXhNV/QAKCRByWHNLQcMVSTcSAP4nL/cpQxTVnIC8TCHhfTF7yHzP4ADDdGnArfYo/kgMVQD+IyGxzQ47ouncSxC2/MtJW9XPbBA6EK6hBGC/Q8L7yAs=",
+  "URL": "http://marsyas.info",
+  "LICENSE": "GPL2",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1578323287",
+  "PACKAGER": "David Runge <dvzrv@archlinux.org>",
+  "PROVIDES": [
+    "libmarsyas.so=libmarsyas.so-64"
+  ],
+  "DEPENDS": [
+    "alsa-lib",
+    "gcc-libs",
+    "glibc",
+    "lame",
+    "libjack.so=0-64",
+    "libmad",
+    "libvorbisfile.so=3-64"
+  ]
+}

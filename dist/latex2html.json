@@ -1,0 +1,28 @@
+{
+  "FILENAME": "latex2html-2019-2-any.pkg.tar.zst",
+  "NAME": "latex2html",
+  "BASE": "latex2html",
+  "VERSION": "2019-2",
+  "DESC": "a convertor written in Perl that converts LaTeX documents to HTML.",
+  "CSIZE": "671269",
+  "ISIZE": "5407294",
+  "MD5SUM": "45b9a1213abf41f015916f06b03cbac8",
+  "SHA256SUM": "de167730e8c00a2aa1592f1626e17b6b19d7c5b8b4f2481196c6861b7a4113e5",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl7DkpoACgkQeGxj8zDXy5IGGQ/+PplRpzi+2A6iDmmkNW/Y9POBJFUDkoww5wuTwIAJc4BmgI2YaDFacJR06DCi1PqizL8z+Ixo3g9RpwNeW8lEjyTaQAqD2pxaZnYK06rENbQCWa2tL3qrrPLSCtpN0r19zfUflMc00hjQZyAUH9HzzSigeAL3Weevq0F4wAYA0fzDOlNwXNDbqEodoZVY/M45vHZB3pFvNCTkPn7B4b/Y0bYb21Wo36YPaZkDEIznDT0Gvw3xv5EAHwVNubOyEOUCNmD5sMBKoGOSWILnzkvBFtC467b6YM2nSirM1EL1vUCOjuOhTYGX+5g5jPD0nEmaCYn7LaCQgYm0FcLL8nx/1mDFWK43y9VRO5xKzuhh4IjSwsafSA8/AvlrdiNS4pqaLWd9UcJ1MVpnZQwNAbHmKXzFc4XJgyg3Zn2qdxCsHqSr+yWrApZ4+gljRpda/hvtn8O97MkPW1Nhb0Q3s01FZe+xAlK2A3K5VtlxcAWnnlVp2lbpUslzOg9j523wa3KY6X470ovN3bHMn+UP/+HhoSQAplpzUb4rKwVUfBPF5BrRTe+ZEjiD3D9hNpRF6e/UUI5bO2QnscrVhKNRfYOTpIdflDb6Xm8KnnufUBu4hg66yRnkwAlZb1AmhscV/7dXAD5WdysefYQARm6rNVdzxst+S1wE8FiuKR5RcdVhSW0=",
+  "URL": "https://www.ctan.org/pkg/latex2html/",
+  "LICENSE": "GPL2",
+  "ARCH": "any",
+  "BUILDDATE": "1589875291",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "perl",
+    "ghostscript",
+    "texlive-core",
+    "libpng",
+    "giflib",
+    "netpbm"
+  ]
+}

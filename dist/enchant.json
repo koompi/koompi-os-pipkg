@@ -1,0 +1,23 @@
+{
+  "FILENAME": "enchant-2.2.8-3-x86_64.pkg.tar.zst",
+  "NAME": "enchant",
+  "BASE": "enchant",
+  "VERSION": "2.2.8-3",
+  "DESC": "A wrapper library for generic spell checking",
+  "CSIZE": "50793",
+  "ISIZE": "208797",
+  "MD5SUM": "3f586b04d317f9ec3bd62a7ababcf874",
+  "SHA256SUM": "4ad4c6cc7e384d40b4c4251d591b1a6aeb13897215126b93fa407086c36f84ea",
+  "PGPSIG": "iQEzBAABCAAdFiEErcih/MFeAdRTEEGelGV6sg8qCSsFAl7KkfsACgkQlGV6sg8qCSuJmgf/fsuX7gsgu/5Dy1L8kboqwA3Bm+sC2xgabH+OZx9gqGIJx3q4Rvqk+FoZt6gQpAQo3r/6mntMMEHnv0xiPwO77q3HHd0mMnieejyRYGVKuAp1+CQM/uQ57Iv8k61eNJhhjfPaTvLCEqcgg8ard/RcQpmvBEB6f1FmlSGDq2ao1JCQ6ZlkPA2JyN92b2EuiQ31A6TQfBVK/NpYLhEccT0r1wNAJqVBVq+zlw3aJx+ecAP8OdjO+ReM/f5bY9lnTa1I2TsAYFWFpteg6k+IsjupDj13birOLNJKMdqJrQIu3U8v0VF9hx0ByrB8FOED9JmUcicYLEkT4KWcv2N8Yp8PRQ==",
+  "URL": "https://abiword.github.io/enchant/",
+  "LICENSE": "LGPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1590333584",
+  "PACKAGER": "Andreas Radke <andyrtr@archlinux.org>",
+  "PROVIDES": [
+    "libenchant-2.so=2-64"
+  ],
+  "DEPENDS": [
+    "glib2"
+  ]
+}

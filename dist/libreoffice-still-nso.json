@@ -1,0 +1,23 @@
+{
+  "FILENAME": "libreoffice-still-nso-6.3.6-1-any.pkg.tar.zst",
+  "NAME": "libreoffice-still-nso",
+  "BASE": "libreoffice-still-i18n",
+  "VERSION": "6.3.6-1",
+  "DESC": "Northern Sotho language pack for LibreOffice still",
+  "CSIZE": "264830",
+  "ISIZE": "1465241",
+  "MD5SUM": "e3f1d4c7585831c1d2c024a488dcaf01",
+  "SHA256SUM": "5a9f90dda3b6861f4d1521936330951d5880c0870cbca9d5c0ecc674de4f6a4d",
+  "PGPSIG": "iQEzBAABCAAdFiEErcih/MFeAdRTEEGelGV6sg8qCSsFAl6tSuQACgkQlGV6sg8qCSt+MQf/d/BnxeBbw5tS4mEASQMM6L/D9ujyUyZIJI1z54iMIFArUh1BTHzSODwcNgO1g4rtxSqRWp3J1Zm/v8SWFA903PpoKqpVMVShP9QTgOPk+kNkyM50bvIlk6EHH1UVZ7L8D7ERrcj7VMKQS7hq1sHywkbbiS/zmdlYFp8v/fVgPeSj6gmaLqtk3U8cloXJu1IGd6M8+PbAyFqAnHfKMIF2cUSsUqv8me4gMH2fpYaEFYRJpz1ab4GPyNXwJzZvnF7ZLhPmgRZydz3QMlTRZKQK7ddhQahVHJyVGFKkkYLW+nibzy9gXD3C11REQBbyBWUgMuDc3g2b0gqU9i2c62waZQ==",
+  "URL": "https://www.documentfoundation.org",
+  "LICENSE": "LGPL",
+  "ARCH": "any",
+  "BUILDDATE": "1588407321",
+  "PACKAGER": "Andreas Radke <andyrtr@archlinux.org>",
+  "PROVIDES": [
+    "libreoffice-nso"
+  ],
+  "DEPENDS": [
+    "libreoffice-still"
+  ]
+}

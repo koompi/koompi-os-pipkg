@@ -1,0 +1,27 @@
+{
+  "FILENAME": "kdebugsettings-20.04.3-1-x86_64.pkg.tar.zst",
+  "NAME": "kdebugsettings",
+  "BASE": "kdebugsettings",
+  "VERSION": "20.04.3-1",
+  "DESC": "An application to enable/disable qCDebug",
+  "CSIZE": "95568",
+  "ISIZE": "362111",
+  "MD5SUM": "097096bd7a43f6a17b7e1ad00c8c0c92",
+  "SHA256SUM": "84a98798c464086cba1c6387cf8f79439660f7958f3b263cfbafeccb0243b99d",
+  "PGPSIG": "iQEzBAABCAAdFiEEFRnVq6Zb9vwrc8dWek52CV2KUuQFAl8HIW0ACgkQek52CV2KUuQ3vgf8CQtZt7AYthoziEp5w9mPM8sgX5JtxvWBzfgGJIFqubdBHg5iqC8ppKg0oWOUp5QoWz7y+9Ax7sFCrC0dM7m5tgMowFRm8ugonLsN9T2OP4uVRF+iXAACAjOh6q+Mf8LEvSXQb+nIylSK55bbWGilvkyjsUCwMtDBnBm5hrQfgpdelgy/xRaWr0eQQ2DNWtH79JwxjT1FRukUP2UwwElKsJ84WdifesjY24MMnUcU5b3hT5diXhxh4b8nNb1jh68faBRiAKoLnSOtcOP3LpZEVQgubcyGdBq3PoLKdH+ASkJhnSrNfmXUgYHVQx6NJLLANHX/p19wLMZnu6Oft2KbSg==",
+  "URL": "https://utils.kde.org/",
+  "LICENSE": "GPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1594114398",
+  "PACKAGER": "Antonio Rojas <arojas@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "kdbusaddons",
+    "ki18n",
+    "kitemviews",
+    "kcompletion",
+    "kcoreaddons"
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "FILENAME": "tensorflow-2.2.0-1-x86_64.pkg.tar.zst",
+  "NAME": "tensorflow",
+  "BASE": "tensorflow",
+  "VERSION": "2.2.0-1",
+  "DESC": "Library for computation using data flow graphs for scalable machine learning",
+  "CSIZE": "103432001",
+  "ISIZE": "609848113",
+  "MD5SUM": "f1c01d6f130b1af17aa7f38264522cda",
+  "SHA256SUM": "be2b556ee215744129403d74f9f67796d5302ecb11cb3e50d9dc943acf00809f",
+  "PGPSIG": "iQIzBAABCAAdFiEEj8FaBklQqZ3RvRTdOeS4d+YuuRUFAl6z9VsACgkQOeS4d+YuuRV11Q/+PQE1JfM/a3gGZj2+ggvVoskRrck8d6a9pBvG8t4UVp4eyLsVF+eiZAgh1iPueRwu7XQ/g9Vq3F4e9x1OH7DL0BGRuAwSpxXSbtWYoT1fjnCSak2icQVgabyyEQt0AKwBj7mMu2vL3nfbVETclsJ7Eq7tRgkEy3RfzE4g3JXVTgi5eUVsolJ2kuB/7hS09f+j/uGptP7ZtQ6UxGIl/yZ2PxdD9K8OMHKhRTMmR0lVHiBX8Aj1J4yW7Ljhw9VdsYNUWLAk0mZQhKnHUfMR+2+vi7ihyxCdxYdNKeYmpKiIfdbLnt61Ye+NEA2RT1lpfKjRRCVxjeu9IoTcVBMpl2N1u0LhWgl1eloJQsb15H4sfVyH9g2YPGdaAPwA9ev4D1TuikHWCv7EVF/t21ep3AKzH2oWoT8CqbBXGtahOAtzKcBTeVTDzWUDbjewNiU0/wP1x0US5Egf8CaednGkW05ulgWi0vOBjMDeYZWPE4Gi/YhqzP3hbT4pgq5MmQXNJBGWs8Uo//SBPwaVzs19etuPM2nCdFbETEMpHjpzrqcO/jyeQncHWX+vrpbqKNV1K8yXgfayOItCfLxfVdjf3GsD47X8arWOepgQ9QfO/FaMULQoOrAufqRAu286HF5qaakFDNKCwv47hJqoW4YUqVGM7CBh2mGogfKmIp6x1SCSzbA=",
+  "URL": "https://www.tensorflow.org/",
+  "LICENSE": "APACHE",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1588830008",
+  "PACKAGER": "Sven-Hendrik Haase <svenstaro@gmail.com>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "c-ares",
+    "intel-mkl",
+    "onednn"
+  ]
+}

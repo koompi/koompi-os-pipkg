@@ -1,0 +1,28 @@
+{
+  "FILENAME": "certbot-dns-linode-1.6.0-1-any.pkg.tar.zst",
+  "NAME": "certbot-dns-linode",
+  "BASE": "certbot-dns-linode",
+  "VERSION": "1.6.0-1",
+  "DESC": "Linode DNS Authenticator plugin for Certbot",
+  "CSIZE": "8980",
+  "ISIZE": "18057",
+  "MD5SUM": "398e283bfeefedd4e961f64455608ded",
+  "SHA256SUM": "f9981b370fabd44e8a5e6d4af2c757c9835576d92733800ace128363cb801f72",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl8FlW0ACgkQeGxj8zDXy5JlQxAAn/p+sm4yVNPsFoloz2Uq7HouqV+aW7EU4wmnYmcfcK069/p5wYcee6kmUQ139WA6yPzKow9/z3v8y7hAqDe0q8VMXR1kzn1whRudDrflf3YKNfOO9Qt8Vb6eXW2K8Sb+LiewLqCJQJfT+LD4+Ls4p8yZ9qJm/Vyibx+XVOG9svpwzYMzWQ22EN05sXhhZBrCrv0Cu+WjO0YZEPk0HNJaUkzxmTcrrUPO0JabHKczTER7LQEdMcp5vZFyUX+5nlaWOYkryThiN8Yg5198IlJ3Dgs4KPaicgwJ4CQQ469eXmihk75BVRtUQ0qTfkwjJqc0e+ZNngIE//m6nCFzj07Q1PRDaThS2t9ecrClgWE1mHJcoOrsJ7We52UHOEqrmfBo28X7IsZsEiyWv9o4448bL+vpw8K6+AxvHaR5j+Cd9P3+QF/gbc1hsRYTx7ly1jNzr6lcrvMIVT99BMOAbanwOkQUGWRBjQLCah7jc5+3Ckqc8uVJGEDCjbK73ZENDooWyB4mRxKfi8L/NxuRx0J+LN0NunYqMa8+oJM7MZVnczf51S3tiIivZr355LgsfAy4anxYGpa4q6yzkgzexPA6MaZagunETjCbvds3DIs15HVoQ2FqcHEYyARqyV+DYjdL86oMYPq6wM9w4As4vBMize/+t/phx7WDECebBMVYiiI=",
+  "URL": "https://pypi.python.org/pypi/certbot-dns-linode",
+  "LICENSE": "Apache",
+  "ARCH": "any",
+  "BUILDDATE": "1594201406",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "certbot",
+    "dns-lexicon",
+    "python-acme",
+    "python-mock",
+    "python-setuptools",
+    "python-zope-interface"
+  ]
+}

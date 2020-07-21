@@ -1,0 +1,23 @@
+{
+  "FILENAME": "firefox-developer-edition-i18n-ca-valencia-79.0b6-1-any.pkg.tar.zst",
+  "NAME": "firefox-developer-edition-i18n-ca-valencia",
+  "BASE": "firefox-developer-edition-i18n",
+  "VERSION": "79.0b6-1",
+  "DESC": "Catalan (Valencian) language pack for Firefox Developer Edition",
+  "CSIZE": "488765",
+  "ISIZE": "559382",
+  "MD5SUM": "1ca74497089bee0e0191d5f119cf2cd8",
+  "SHA256SUM": "d38886baf44f476ecf7e261ce3892c1292c8e5e15f1fa542ba5a5345343246f0",
+  "PGPSIG": "iQEzBAABCAAdFiEEYB8g8dG7v0p4z1tt9rFhCz7NvJ8FAl8IbMkACgkQ9rFhCz7NvJ9y5wf/TCbaOernsoYM/+S/0TGPo5OxarQHV1S079U6XrXLaqEkcxl3QIdTwbEexVanS4tfWGzW70tsWgSmVCfkK/ChNPdeXjVltihWmqELEifDms90xCCxL7mA01P06n/lx9QvWtUXFfOOj3FBswdTcfQTrNMoTE9ieOO2zAmRiioAN7AhHdAAaSi7FiMazpdbrHRZaPWdc5csFPZj/O4Ts+4okFISI1IkNfBBFMVCV4AbU4BYudAlFD9/Pv58Fd4XcUn722KXm5NGGgm+oe0SW4MauWyl1LOD5OZeUfc40/o4hl2mQ+cH3ScGDIXWOVhTElleww7/9Nz3QHMwkbaY+oIAeg==",
+  "URL": "https://www.mozilla.com/",
+  "LICENSE": "MPL",
+  "ARCH": "any",
+  "BUILDDATE": "1594387381",
+  "PACKAGER": "Andrew Crerar <andrew@crerar.io>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "firefox-developer-edition>=79.0b6"
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "FILENAME": "python-ciso8601-2.1.3-1-x86_64.pkg.tar.zst",
+  "NAME": "python-ciso8601",
+  "BASE": "python-ciso8601",
+  "VERSION": "2.1.3-1",
+  "DESC": "Fast ISO8601 date time parser for Python written in C",
+  "CSIZE": "13256",
+  "ISIZE": "46488",
+  "MD5SUM": "24c0cec6c3e335d857c7a283f663624a",
+  "SHA256SUM": "394b3b4da42b75570a20e05cba389ecc1cd68c0456c9626dd5759a1112a19e7c",
+  "PGPSIG": "iQEzBAABCAAdFiEElDfdOBWnqRaePTlGr/XZUJi8b/UFAl5zYfgACgkQr/XZUJi8b/Wp/Af+NwyTyaCzMY2tJYfpZwVLr+17/NCZAT9285GjsWyfyJVuHBlOq4gny3xQ8C8WFkxSis7XZNJE+FJ4nuksiFDl7BPlWAAW/fIWf4YyEMuqOQfxegdx6N3XJgmCilFUvyoXzbEzbwvhVAqAII/YgQ35nkV+TjdNeVgDw/dRg13QBFP0XLZY63Yyt+e9GGK21/Emc2ebuP8QTbDOND4zFdEp8BfMsiZPRIV/PAuLrC8wHHIMgSumSHySm7GwUHhPUGkjDjc51LwFvfDNdZJmKR7b02+Ll8dApww9vajRE7/IxoYl2L8PxeO3LYwCs5kEaNM7cAJH0uyWnQEhSPGfBvoGQA==",
+  "URL": "https://github.com/closeio/ciso8601",
+  "LICENSE": "MIT",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1584619942",
+  "PACKAGER": "Maxime Gauduin <alucryd@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "glibc",
+    "python"
+  ]
+}

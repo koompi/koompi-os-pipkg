@@ -1,0 +1,28 @@
+{
+  "FILENAME": "network-manager-applet-1.18.0-1-x86_64.pkg.tar.zst",
+  "NAME": "network-manager-applet",
+  "BASE": "network-manager-applet",
+  "VERSION": "1.18.0-1",
+  "DESC": "Applet for managing network connections",
+  "CSIZE": "186269",
+  "ISIZE": "674293",
+  "MD5SUM": "ffd7bb8fbc0b339b9d716d40f690474e",
+  "SHA256SUM": "0f82e8fb2853b5086e49ea207d42aa3afeb1bbcd6d19995ea417ea31508defe0",
+  "PGPSIG": "iIsEABYIADMWIQQGaHodnU+rCLUP2Ss7lKgOUKR3xwUCXvEWUhUcaGVmdGlnQGFyY2hsaW51eC5vcmcACgkQO5SoDlCkd8cLfAD8C+Z8CT46Tm7rjc1Y6XAeQNiFmlAX3bXMGkFYD1XiQ8cBAOhMiaAmfZC58u4o45yDm5bwUwNoJZWaGalBl7uBUA0O",
+  "URL": "https://wiki.gnome.org/Projects/NetworkManager/",
+  "LICENSE": "GPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1592858011",
+  "PACKAGER": "Jan Alexander Steffens (heftig) <heftig@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "nm-connection-editor",
+    "libmm-glib",
+    "libnotify",
+    "libsecret",
+    "networkmanager",
+    "libappindicator-gtk3"
+  ]
+}

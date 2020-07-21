@@ -1,0 +1,24 @@
+{
+  "FILENAME": "python2-pytest-mock-2.0.0-1-any.pkg.tar.zst",
+  "NAME": "python2-pytest-mock",
+  "BASE": "python-pytest-mock",
+  "VERSION": "2.0.0-1",
+  "DESC": "Thin-wrapper around the mock package for easier use with py.test",
+  "CSIZE": "15568",
+  "ISIZE": "56260",
+  "MD5SUM": "5cd4d2e88330921373a8e7b03039f614",
+  "SHA256SUM": "453eaa8b7c9dfe2a0f54d06ad10c184a63046fa82dfbc8eb722f9e1b9cc1fdf0",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl4WMfwACgkQeGxj8zDXy5JLFQ/8CCU8f63wJTlWmx53G1EvqXJdIdwtAfIlP1HItj7Qa5MSQqqBKzy3HJrtBTQcyO/Ifcf1Q8N5utKPUfVfXZ7YCN3TaLCrWJIWRbrgFypJAu3ZKOGnnu+WQamoExNvI9biPqtQvRtRYcb7p904B3jds8pWyGRRLHSbRWly/p3AHSsQdg2LGgBXH0tvh5mScH70MKsG3Q1SItXB4XQZcjU5vZ1ZNmmXqFJu3zFIyDp6TN8BC8SSRkiz9O4OnDmUGdgillwekzOnpBp1eaz5GI9Diy6E0Q+MibNMBdWyxsbYJ/6LYM76RRbgYS2+KMXs1c3vBRtOxhXDwQI5UoTBUwF1tLMUUNJHhj/IeRBgLfzqrIHJz8II4ibucTVnpiJlEd74/kKRY2GfC+7UyaZXSERoEKtEBdWmsDF63cG+1AWEaD9VxDpjlMZR4LZEEq/XQvLhWXBEeuNJ9NrxlVZBnAhpWbW7NMtVYS7+FSRYsBpeD3ivf2cBRVGEVNXeDUsHUzDkZAh7vFn4roa4Z1R5QOgAGm9dRnpQXr4WJh2erpmR+xbRg9OnOm0H/JdT9ZvXyRSHCeYbaDkb1eeZ89UTVuWp0GvjgHW6m8cV9k8e2G4WzHGoxSZAN9LUkAqVp/Vq5XbPquwpKtXsXPSfHJl3m5OKuFKZzBxERGUAd2JnApjswjE=",
+  "URL": "https://github.com/pytest-dev/pytest-mock/",
+  "LICENSE": "LGPL3",
+  "ARCH": "any",
+  "BUILDDATE": "1578512853",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "python2-pytest",
+    "python2-mock"
+  ]
+}

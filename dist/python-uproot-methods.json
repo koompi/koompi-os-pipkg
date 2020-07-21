@@ -1,0 +1,24 @@
+{
+  "FILENAME": "python-uproot-methods-0.7.4-1-any.pkg.tar.zst",
+  "NAME": "python-uproot-methods",
+  "BASE": "python-uproot-methods",
+  "VERSION": "0.7.4-1",
+  "DESC": "Pythonic mix-ins for ROOT classes",
+  "CSIZE": "60959",
+  "ISIZE": "378987",
+  "MD5SUM": "e84e95297671d3160e9a9a3220270209",
+  "SHA256SUM": "d6dc61ed5c9906fcf816f2b7a68185a3c3b20c2657f9d543e6a0ced72461bed0",
+  "PGPSIG": "iQEzBAABCAAdFiEEU1nMa+iBGLUfXJC1YH21X/cbcFIFAl61VQUACgkQYH21X/cbcFL/1gf/TtJsNGn4Qc0qhnvmH73Bh8LVGvYjXMy1AJtyfip7m5GctKrCyXFqCoWqqCCqyexCtLKKoZwrSeSBg7e3GdfXWN2ewHSjMAjCkIcwhdl0f6mogYyeoD/fDCvFdB0XqSj6WAzfw4BrTHIbiFDEwjAW8ViMHJD4EAXmSSYlIEap2iFZu63L1rqmpnSH16RdkP2QSMI5xkM5nvIdCb24j2l2VuHjSmsSEo/xLVJixj6vKGU4rSJERXcghIshcFqSrjFLk9fd5BNnHC5N7nsQ7yVsfXcCtq4PKawZTOd/BcH7s1wvq4wqSqF+DwPvCDLW9vXM50mIxC4cFtO2gRfwHfb3vA==",
+  "URL": "https://github.com/scikit-hep/uproot-methods",
+  "LICENSE": "BSD",
+  "ARCH": "any",
+  "BUILDDATE": "1588942051",
+  "PACKAGER": "Konstantin Gizdov <arch@kge.pw>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "python-awkward",
+    "python-numpy"
+  ]
+}

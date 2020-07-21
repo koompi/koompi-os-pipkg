@@ -1,0 +1,24 @@
+{
+  "FILENAME": "perl-term-ui-0.46-6-any.pkg.tar.zst",
+  "NAME": "perl-term-ui",
+  "BASE": "perl-term-ui",
+  "VERSION": "0.46-6",
+  "DESC": "User interfaces via Term::ReadLine made easy",
+  "CSIZE": "17707",
+  "ISIZE": "31165",
+  "MD5SUM": "780559cd3a058ab2cd809a333ffaa698",
+  "SHA256SUM": "6d689b955c50408c135c0d98a996b661805fa3b2cf0afdc2f234cc1b799c79c9",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl7vPFkACgkQeGxj8zDXy5Jskw/+NO3MxJKb/aaGVWVSzBvVf9mKeU3enF/PTtz4CdZZZu1Ye3QQKSmzmCfnYeFniwZVCnkW7hO5H+HEvplntiVoyZqbX7yY9dO6TyvQIEiJhmWZsP0HKcKP7jrWj71U9crxItDlZ3wq++vHVuVR42dVRDMGnJwBwPaH8oxBYxDIHgCc4iNw/GFSp8JSLZ+/Gp1lv3MkWwrwFKS664+9oYZNn3BouoLbnCpnZwN6funPY/UisxrMy2PPHkJzk+67kecSKjwbLKdYcFvBFFghWCi/Cyyn+lWoSa+1Bxq5ax+zt/mvDl98G6ksMXgFl3cQRyTtqGAwEmnovpwIAvD/vSlO4r71kqVhIL+VfMXskZBL4q57dAvFCYUWfohBiY+uDCEDmvIjKZz8K78Rq23NnqN/vPGf65et2IHkUSykUIAGzoGSkHTbSB0kOf+kk1+8mZ7ecjhGQxVzTbTzkn4JBgSWaGEY/KxebC1ozwursmqxcFhDewXP2OW1h2wS8ir8jeab8Wt+89dfSXaOOEv3gqCCUcYfPkdtodglMyGjNUT9P6Sd8sIopVHFsxjlDe+JUAcHIgXB4arg8jJ/7tNjC1LMZykHVXuuXTkxzkYTOgO+sndeaydZ1LXMtVsgl/a7SXddSQtk6jj5IFcq1BDF2XqR6IFcvlmTdP0YdDtVXsjsKK4=",
+  "URL": "https://metacpan.org/release/Term-UI",
+  "LICENSE": "PerlArtistic",
+  "ARCH": "any",
+  "BUILDDATE": "1592736825",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "perl-log-message",
+    "perl-log-message-simple"
+  ]
+}

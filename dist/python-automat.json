@@ -1,0 +1,24 @@
+{
+  "FILENAME": "python-automat-20.2.0-2-any.pkg.tar.zst",
+  "NAME": "python-automat",
+  "BASE": "python-automat",
+  "VERSION": "20.2.0-2",
+  "DESC": "Self-service finite-state machines for the programmer on the go.",
+  "CSIZE": "60961",
+  "ISIZE": "320439",
+  "MD5SUM": "1602a97537be248300cec9f2f7bab0f6",
+  "SHA256SUM": "aaee8af6c56319fb3655e02667ece3e860038914a62636828bbd6230bfb57264",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl61RGQACgkQeGxj8zDXy5KSfg/7BMQbHHlbE0IRxPBqZ1IbqU2BmAtWslnITrDu7zGKwVS0OOz4olnzp2r/4LjCqvdqYDjARfDa9N4h8Nur0NXIzresuhXiV4fVJcro5lxCqLzMIZUwpCDBLJxQcfy9/rom0k00erNssfjFyZ+xIRtLQoOfwlSfO1nOXUsGG/s3sqi4RstyOtHoiVn6hLXuIOw/rcZZ2UdK87oH8d5VyrlPpUk3yTn7lgIwqsEYIdLlpHgiLhZgdqQpqbvBGwYDFoGMxsejJDzdrB0xJO89zRoZsfzydxfj7hjn8c3va2GrUhbxPnJ06ku20busTjlus3p2ddeGXYuH0PCML+1+eMbVbFBkHsX3nNcOC5CTmAjZO5fKTBnjZ6DhQv/KHobhEo9hOmORUJbxiWQfQFXgN9TcHumY57Ax/WqJavCM06TkyuWD57Kv/YgWu4nxHIsvj5mix7RTKXs54enfdPw/lXqD42OVbzix0IQg6SzFuXFhkIrdeelfxXQxOg+VxdfxeVI8rHolVMZ0sGf2JV+PeFaLNTcQeNARR5PWHtBua1hHXp2VHtqF5osmm5GQu62rCcUNtfFB8BvewQsLiM4hgS/sqsB78BPl2UEbHw2BMfsQKpUCmSAgA7xOE8rsV14Nw+O4E0amFtPqqlrJwm9Y/fpIC7gmVPgkkJ7TZ/5Zonux7tA=",
+  "URL": "https://github.com/glyph/automat",
+  "LICENSE": "MIT",
+  "ARCH": "any",
+  "BUILDDATE": "1588937781",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "python-attrs",
+    "python-setuptools"
+  ]
+}

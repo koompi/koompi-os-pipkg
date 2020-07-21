@@ -1,0 +1,23 @@
+{
+  "FILENAME": "mtdev-1.1.6-1-x86_64.pkg.tar.zst",
+  "NAME": "mtdev",
+  "BASE": "mtdev",
+  "VERSION": "1.1.6-1",
+  "DESC": "A stand-alone library which transforms all variants of kernel MT events to the slotted type B protocol",
+  "CSIZE": "17473",
+  "ISIZE": "52169",
+  "MD5SUM": "3b285d7a3c26a791633ec11d3657e9ff",
+  "SHA256SUM": "534a68025b2ddbcf8c76563a6b1ca2b3e21b6c5de4d46223b05f6e5448e85390",
+  "PGPSIG": "iQEzBAABCAAdFiEErcih/MFeAdRTEEGelGV6sg8qCSsFAl4zKGQACgkQlGV6sg8qCSslpQf+MU7mSidPFbCEnaQB1DV29NlG4LNm1LHjfetmhrI9VId6lVhXwItkqtyzyU9PzFsQeE8hShG5UPLrFZ5XBSPz/gIlnAB+hpBDzbohIKozQqUSpEeIUuN/OID6f0LfCp7YsyxIBJDuGEIzFvIRBdXFBoBR+/V7wYlLN3BlT3w7BAe3trtwaUae3C9YanPMn8wm9e2MO+x9cox8UnRNe81kWv+79GZjBJRhuwleNe4F2aXlBEicz8UYnSCF2cc1PtiqnA027KOq1IATfc5wdjrHkt2tUcURztVyYVrM8jlm3BnRyhhOV3RqBQ+ndDYHWKXYp7dv/lsLSmPGTKaGRc5iUA==",
+  "URL": "https://bitmath.org/code/mtdev/",
+  "LICENSE": "custom:MIT",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1580410919",
+  "PACKAGER": "Andreas Radke <andyrtr@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "glibc"
+  ]
+}

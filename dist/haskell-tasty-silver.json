@@ -1,0 +1,31 @@
+{
+  "FILENAME": "haskell-tasty-silver-3.1.15-3-x86_64.pkg.tar.zst",
+  "NAME": "haskell-tasty-silver",
+  "BASE": "haskell-tasty-silver",
+  "VERSION": "3.1.15-3",
+  "DESC": "A fancy test runner, including support for golden tests",
+  "CSIZE": "122182",
+  "ISIZE": "568394",
+  "MD5SUM": "ac6113bc9adc31864c352bbf734c9bc6",
+  "SHA256SUM": "16527799cff3a677c516ef60b95bfe19ceeb1fc0b212106edf0ec8be45d1b471",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl75I1sACgkQeGxj8zDXy5I9Tw//Q2BBR6wFDnOraHDH6R7I5622sYGX085geOKGpy44iUmY+Ens6ErvS3xpoZTOCXDJzcufXHdTQ24N8S1SkLDNdP1E2AHLZRIQeuD5DCQiXjhu38qxphNUkCkoH9uOJjkrgPNBXb3NLG4USEFRXsT89NVQuwth0RWJsPGfHUuSP/32D1b3tVAMLyD3F8d8By52ZpzKWZB4ftxKYVIXYvdJX/JwyiWMTNAxr6pLV4Fb45G46+CCV4Mj5OSaZ++AscMJZpQN91x0qT1VehDqHNGXKpaMd7A4kx/xm79aBAuXLVEtVfAoL6zbEGk29OcR4b5tgcfKI5PGhNLOMS3JcNgF/sWMULNrTZirvXycyGkckevTIXapydXREiOyyYQtNvag86DsGZt/+sjV4FJ4sqCYj6EFSP3aW0nSG6/axc6cpLpWP3AkqLTAaeieZwr2k/ZRI5TQMIB+sShERGR+osZ0PwKrbOQ1JPmXhj+PB7Szh2GDn3ykLKtLnwJQOno3W3EXQVuDHzvl/ZitmOXfpki5tKY2eFQcFS5d2pEWXA1nujsdndRgPuK6jS06kg1x94DDUOVlwBNtq4RuzyRZ4SCKFpDXFmZxgPccKCKMVTy0LP42cv2OlqYzimsuxiQYVrvAGSOpIDR2Q+Um+G0OA3eBbYNXnv2nF/yNiYmfQIvBAHM=",
+  "URL": "https://github.com/phile314/tasty-silver",
+  "LICENSE": "MIT",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1593385787",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "ghc-libs",
+    "haskell-ansi-terminal",
+    "haskell-async",
+    "haskell-optparse-applicative",
+    "haskell-process-extras",
+    "haskell-regex-tdfa",
+    "haskell-tagged",
+    "haskell-tasty",
+    "haskell-temporary"
+  ]
+}

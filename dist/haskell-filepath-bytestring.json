@@ -1,0 +1,23 @@
+{
+  "FILENAME": "haskell-filepath-bytestring-1.4.2.1.6-20-x86_64.pkg.tar.zst",
+  "NAME": "haskell-filepath-bytestring",
+  "BASE": "haskell-filepath-bytestring",
+  "VERSION": "1.4.2.1.6-20",
+  "DESC": "Library for manipulating RawFilePaths in a cross platform way",
+  "CSIZE": "67576",
+  "ISIZE": "335014",
+  "MD5SUM": "8551965cb35212d9b404dcaa0e11269c",
+  "SHA256SUM": "93d974e104fc182d5bf8a16c98e774445ee6159e2293db300bb1206373f733af",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl75BsQACgkQeGxj8zDXy5JifA/+KDWbOmauQ03VHqrVKJoINgswKruQC8gY3YvNNdhaJWlszjKcNQgq7b72XvGufGq961IEBUSAbQI3UerwyMZbBldoERbr0IIPzBLPiRnsIEn+DqgkoHVhLKz5a1WfAzb3p5MPmtuTAKSj5iTrwCDX5l9A7HlkInuR+LftRclOmhPg2JXk06hTGbmEHl2xZMGlDVi+zmDUdSErTw3mPXprfC8Z8JXLWa/z3jqwGvVK7SOwGCarh70JATk4t7ST1VoWTE7hXGR6ShwlYloszSrAu84r966Xr8JG2RHjLSOyYWtDf5+a7ARpmMHmsDSc5LssSBZReJwu0Jdv8iHJ8YNpF7x/F3FERy4ZTSgteHd3JEG/8lTfTZap2ESvijjLdeeMmsm3da9tLcom5u4XWeEdB2REYYEDil4AFrqpn5nfvH6emWSRyDdA82Xbb0jro4Vsvv0Q8RokALylRpIR3VoYwYjzLA5MdZLh/QQ8d4TZDORvNnFO8UCym1Tws0bBdeTxKSfz7TyOyOo7Zxcisu+5cyt/8jf/CW0iA4qoatBIZS9zkFJPdyZ2pgZerdfzH2kd0b3x/nyDSn2dEM3dbR41dhw96YWPBxDJD/M4VUsar3mq4PVt+/UyjrvuE2wsbi0OmbnmASbQOToFEGkTQM3qknkZ18LKckn1b7zZ3FaZkOU=",
+  "URL": "https://hackage.haskell.org/package/filepath-bytestring",
+  "LICENSE": "BSD",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1593378437",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "ghc-libs"
+  ]
+}

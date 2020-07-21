@@ -1,0 +1,24 @@
+{
+  "FILENAME": "haskell-hslua-1.1.2-2-x86_64.pkg.tar.zst",
+  "NAME": "haskell-hslua",
+  "BASE": "haskell-hslua",
+  "VERSION": "1.1.2-2",
+  "DESC": "A Lua language interpreter embedding in Haskell",
+  "CSIZE": "236873",
+  "ISIZE": "1292554",
+  "MD5SUM": "7f60226f227db59cdb2ea2276e4e2234",
+  "SHA256SUM": "783b329b35f1d634c4c0899b23438f903e32fe8d944e13a8ecdbdbd39e7d6576",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl75mcQACgkQeGxj8zDXy5JXMQ/+LKuCPWLWp2VgYorwrqagF3qcNoYgNzaTRHAgne2VOjewKjH0pQcREfBauF2wFiidsKVqiSrl8p4I+wmP0uRbSuXiuw+SALbhmJm3DheMVOUbY874wLSlB6R9hraXcvYaYyJ2yIRIMvje3HjkV9xS79+fX0k35ZbqhQBkFPYm6KyAM6B4VLEtaN72ok3gjpg5Qb3LDG4TPu93totDwvUJRjvmV5LaDkXNkXs2nJ4JoeWe0MpXLbxOhAVkRREiN80E0XbQ/bcAAVu0N9mHKrZzvWnvgdCgc5pUNgvcGKkRAYE0tjovBvBVYsN5ClXQSxX34nuUdVqqTp8f6vb4vSSpUTo46VetJSgaHIuO11KNYrvMJSMgj2ovgLbqHtEgicyM11DN8RJKh5rWwyFa3mnuT8zJLSCv4oPftQkV0fvQkGpS/3yoh3ru1WdcXwPzfe8yUD7tXARpqbp8uUdycX337RoVQotwCKIXHan7gaR6dtJMlDhPMv538io2n4afsLKNuMq0sW2nwENCpimNUHTrhqTD7A1DKCmzCacuxIl+88CuqsyBTuuHB6CSvkRiQHxF4nWLhZDBI217EzcdrZYpp2/bxZgnOPoX1USOLl9K6vaIkVios6CmaFFZKWRINcmHZtaP8AlVshlrJLKhr8iBWpaNlZ3y0XEIjTAKyWdq33k=",
+  "URL": "https://hackage.haskell.org/package/hslua",
+  "LICENSE": "MIT",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1593416089",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "ghc-libs",
+    "lua"
+  ]
+}

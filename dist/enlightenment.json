@@ -1,0 +1,32 @@
+{
+  "FILENAME": "enlightenment-0.24.1-1-x86_64.pkg.tar.zst",
+  "NAME": "enlightenment",
+  "BASE": "enlightenment",
+  "VERSION": "0.24.1-1",
+  "DESC": "Enlightenment window manager",
+  "CSIZE": "28144473",
+  "ISIZE": "39169329",
+  "MD5SUM": "d8b6f1fc23f566e41493228e64221273",
+  "SHA256SUM": "b0ab9e7df10456d4cbdcea37239b5f381fe5d9ef958a05bffcf3e0fa20d8f23d",
+  "PGPSIG": "iQEzBAABCAAdFiEEFRnVq6Zb9vwrc8dWek52CV2KUuQFAl8CFOsACgkQek52CV2KUuRQawf/QulzH3zWaSpl9HWvmHWDp8VJ6/F0YP63EStUXC653p8h5+3BguoPr/lXppf/rb7iLiHlKa7jc33TaUReiBw5Hmx2fH3OEWyJgHPJWLc3SegtDegz7MRtucF/4Lud+MQdX/7dqbsPsF7KUiVC3CYx8livuRPxwqAFYs+Hq43XQiNZM1wkf4/lMHeAVN34/KQzErqDTwnZ5EFoj2+/bNnVemED+TzHfd+zx+/e+7lgGSwTE/kLmckXc/BaM3769MWkL9NquSSLVdtMDV++KVGVLjGq1XhYR9Xiz6hITRZHu8c00/a6b0A+tQIh7mgHWkWT7bb4xI5TpVFHQ+9jMkVGJw==",
+  "URL": "http://www.enlightenment.org",
+  "LICENSE": "BSD",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1593971251",
+  "PACKAGER": "Antonio Rojas <arojas@archlinux.org>",
+  "PROVIDES": [
+    "notification-daemon"
+  ],
+  "DEPENDS": [
+    "efl",
+    "xcb-util-keysyms",
+    "hicolor-icon-theme",
+    "pixman",
+    "mesa",
+    "desktop-file-utils",
+    "udisks2",
+    "ttf-font",
+    "bluez-libs",
+    "pam"
+  ]
+}

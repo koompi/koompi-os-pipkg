@@ -1,0 +1,28 @@
+{
+  "FILENAME": "leptonica-1.79.0-1-x86_64.pkg.tar.zst",
+  "NAME": "leptonica",
+  "BASE": "leptonica",
+  "VERSION": "1.79.0-1",
+  "DESC": "Software that is broadly useful for image processing and image analysis applications",
+  "CSIZE": "1158244",
+  "ISIZE": "3382881",
+  "MD5SUM": "9a7082df046637cf143b8891a1c04201",
+  "SHA256SUM": "35e1e6f6df97dd5fdb245011429e1e119039367b0e1ac4e68ded0d30103146f0",
+  "PGPSIG": "iQEzBAABCAAdFiEE5JnHn1PJalTlcv7hwGCGM3xQdz4FAl4qqckACgkQwGCGM3xQdz6hmwf+M4vdkho24U8oQH+54xP09QID2rCv8RhchFD786re6QLeKuNIf6P3diOi9ozUvQBXpC/y2/CE8J2yFNRTcTWz0d15tFSPBMe7HDZS48MB/qbEoFP2X4q0VbfLRDmKk9BOcEOEz0CsIoRji9RwnCo8vKR9PSrOAh1wd6Xlvgh2W6FCb6hctXs43xJkBCcSrWW/JbPxf7o42zFBdHe07PN3JpO2l+2J865xceSFa60TegkdwC3DD444NoRdpV/lOya54AR7AIDaaFZA9xWKdlatsAUGbUOVqiiTDZbMCoRz98VFdDpklcCWkvjUmWAf+mDOHqLWN1ik5LOKmeobIXl0RQ==",
+  "URL": "http://www.leptonica.com/",
+  "LICENSE": "custom",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1579854085",
+  "PACKAGER": "Jelle van der Waa <jelle@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "giflib",
+    "libjpeg-turbo",
+    "libpng",
+    "libtiff",
+    "zlib",
+    "libwebp"
+  ]
+}

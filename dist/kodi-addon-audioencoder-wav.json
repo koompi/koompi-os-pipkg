@@ -1,0 +1,23 @@
+{
+  "FILENAME": "kodi-addon-audioencoder-wav-1:2.0.3-7-x86_64.pkg.tar.zst",
+  "NAME": "kodi-addon-audioencoder-wav",
+  "BASE": "kodi-addon-audioencoder-wav",
+  "VERSION": "1:2.0.3-7",
+  "DESC": "WAV Audio Encoder add-on for Kodi",
+  "CSIZE": "15935",
+  "ISIZE": "35473",
+  "MD5SUM": "7e3bf83536b7a04e2956252eca5e207f",
+  "SHA256SUM": "2f4e427f31a10903b66198957490cd53e2ecfdb76cf27ebd5d22d4981d241343",
+  "PGPSIG": "iQIzBAABCAAdFiEE2yJ3vNUAqjglYQvd2zIzknlsoGcFAl8EaXkACgkQ2zIzknlsoGdulw//dZJvQHtIPF8CxfjorBNADSDFkWSCkHE4ohEBcoqrdSUK2dBZPUUMRJpenx6RnB/0NZUebS5gJ7yzI7hWaqF6Hz5m/M9eQx3ipWKNyod06Kzkps3owRAnUd3GyLor7jyYMg9Pp3rt6gPaBonbkr61TAvm1b4ykWnj/G8X4GJIHYl4i+/1sN+SXymUxkFPPzG9oXI2Rk4R/MLA2jVVcIYgDYj4sMO/G01PqvMbneR0ZWkERAWBQatqUN8XMKdP1E1R3HEwz1KTSiG0kUNTpRgozbzvTdDuzRhFt2KcUHXkoV4GGvHAL22yRuH5CXRuN9PPnusu3ynJYD5fGiLcp6hkAPDE7RoUpmsfoyxucLR1D5SZd1jcNS3l7D5Pyf9nWAmmrOfjwwCtvDmJSacB54VZggzHxeP1/HuKg8gN9prv13SJkE2IYcgF/hJyKyvJ8Aysdj/LmbMBq7/u4FSz+9qT5LiUWwPa74xVWanm5miIw+exsAK2Hm7X7Mq6qHGLGv06gu6bwNtlLLW1demDzDgIkvd2nr4FfaGu+CyvvB+eUhO30rOWbuU5bPcAtLbBAbVWTvc5cJLjyDxxnNDAa14ddDqFXjnyGuEg6W9j3pAcOXk+KjkULRBagv1dOkEdcPbKGjy+FVkWU2Sf2sZPHeaSGQ6qCBtEVNSeP/YJvEZ/yaY=",
+  "URL": "https://github.com/xbmc/audioencoder.wav",
+  "LICENSE": "GPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1594124614",
+  "PACKAGER": "BlackEagle <ike.devolder@gmail.com>",
+  "PROVIDES": [
+    "kodi-audioencoder-wav"
+  ],
+  "DEPENDS": [
+    "kodi"
+  ]
+}

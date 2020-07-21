@@ -1,0 +1,23 @@
+{
+  "FILENAME": "gambas3-gb-clipper-3.15.0-1-x86_64.pkg.tar.zst",
+  "NAME": "gambas3-gb-clipper",
+  "BASE": "gambas3",
+  "VERSION": "3.15.0-1",
+  "DESC": "Polygon clipping component",
+  "CSIZE": "55143",
+  "ISIZE": "117452",
+  "MD5SUM": "aad6e1e6835e559d334c388f49e0d2ab",
+  "SHA256SUM": "b778ee7a5214d46ae4933b35cd0296cbf325a0395531c69293f6966f2ab85c9a",
+  "PGPSIG": "iQEzBAABCAAdFiEEU1+MAzlFDwVKTSgnBglqatHO3awFAl8C7RMACgkQBglqatHO3ax/OQf/QxKiFR2sIT7ohOhsvg5FcjlZRQtd32/Ijkm5o4IaHjxjXq9Q9WMOKm3JvXnCwxZxUSLYSOf7gpjyGb15ZY4K2Lls0F/JKzhYZHggw73afzJK3/Fz/xo5QQngvJOyaYdufSNuVmNLGUnN/j26zeFsg9PB8GuxUs+o4eMr/8/8Ip7Kx6vs5GxE6qhReEr0xnY7GXJ+rpfglkal87L0d1+3ZZB6fLm1LKp1sp2+vlz/sI+K7w4GiMAb2sWkgt0wU/3QKNI43CyBaEq9d2/KvTtT6LujutAhdy6/Z1cz92ShVqWYyLfcU+61uSgEXp7MgX20xH6zbjJMzUbM9oyed713lg==",
+  "URL": "http://gambas.sourceforge.net/",
+  "LICENSE": "GPL2",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1594026389",
+  "PACKAGER": "Laurent Carlier <lordheavym@gmail.com>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "gambas3-runtime"
+  ]
+}

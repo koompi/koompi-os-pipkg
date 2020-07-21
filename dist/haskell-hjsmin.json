@@ -1,0 +1,25 @@
+{
+  "FILENAME": "haskell-hjsmin-0.2.0.4-27-x86_64.pkg.tar.zst",
+  "NAME": "haskell-hjsmin",
+  "BASE": "haskell-hjsmin",
+  "VERSION": "0.2.0.4-27",
+  "DESC": "Haskell implementation of a javascript minifier",
+  "CSIZE": "17543",
+  "ISIZE": "65258",
+  "MD5SUM": "7f6c483fa28718efaf6de395c4ec0c7c",
+  "SHA256SUM": "dcdf7f211356a83c26a928254b0aef507b34303261a19ae8e9f3f15c87dfa528",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl75CtMACgkQeGxj8zDXy5LIgw//ZfDuvSwzdN5pTP8+GCQoen7TJXK4KS4nGh3mSznm3rYNepTCnlgzsbKZuzlVfjw9S+pFN6m8PcYJ2oxyVHSRmGiJERufbnxigeaPuQCuAvK1cs8SU6K0GbFi3hAm6Zq4kgmKHS1LV8ypCkJAl/iGzYlz8uwNF6hKjs93b0zMu0Dvqq2AkpIblkPHC1lq0XjqmUmwr+e/nywMT5P+xm6n7pbH1SkOGVEfsn3vhIPe64SrGsbdYVmsT/6EM419pUWEn4S9KLYKwqBI2V+y897bQZbnkqcujupTUrNkIT74sXvY4WC94l5o0EceLyoX4wwHBYqD6/EBp1s0pv9iiOuJ9L7kFT799JwrbC26e5CxOXYxBrQnAVw7yp6UMedwbnzfE9Mdo3YMnbWFbVRFT3p4pDe5yZm4axFABBKcHTlKFKfhVCYVqs1EBukDfeDJySl14GaVXpkk4bYH2Nu6uPeIf90P2ZSJ+ls8N8A2Y8nKL4pE+b0/ktQvcs4J9bdHdPoQeIleKCzAMSEn1MaW/xucG2iUs+rcd1X91Gdbsj+pLIHi1/UsB11vBDQv4XipwoCxdI8Vi3pFK1vf/+zGSVKP7PYf/nk5EXftzLNxTC3q0xGkEe2yNGdMnOtLim8X+qv/ksQDsAyzut2zxXJP3m0BQNFAyDFO87AW7PZ/2F946SE=",
+  "URL": "https://github.com/erikd/hjsmin",
+  "LICENSE": "BSD",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1593379518",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "ghc-libs",
+    "haskell-language-javascript",
+    "haskell-optparse-applicative"
+  ]
+}

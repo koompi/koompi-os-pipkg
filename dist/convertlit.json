@@ -1,0 +1,23 @@
+{
+  "FILENAME": "convertlit-1.8-10-x86_64.pkg.tar.zst",
+  "NAME": "convertlit",
+  "BASE": "convertlit",
+  "VERSION": "1.8-10",
+  "DESC": "An extractor/converter for .LIT eBooks",
+  "CSIZE": "55351",
+  "ISIZE": "143576",
+  "MD5SUM": "2a6e01c5545e38e06174173e1a5b5b7f",
+  "SHA256SUM": "38c425172bc77172f75d1ee5f76fe44fb22a3467763f67b666b11a24f2cb3e0a",
+  "PGPSIG": "iQEzBAABCAAdFiEEFRnVq6Zb9vwrc8dWek52CV2KUuQFAl7WCtAACgkQek52CV2KUuSGsggAozUg4zfJ0reKBhsCIlGk596+98CbGwp1xUsqlqPhaKp0RWvZsJIL5Co7yW7rCl4QGlwogJgspGDhqYcdbEUJokzsMZI7oVsy240YcKs10AO/xmSZ1bz5RTWi+gSpJbMR7+xQwRREE3urNYzfdKUkhLsj3K0SV0S0OVtAdpGHI28MgYVNL6tO+LxNth+91X9UuAVHIWTFFNHRzOd4CAiUhzLn0OSGphPVAa888Njhw1NTor3j2i3bkaUR9wwriuvtstJXzq/cgXz2uQ34ERPHkRDDAFCiiZK0Ind90YLNV2Rx6zeXoUYaFZq+CRf8QN2Dq4NDNfdaFG69MR2/t3sSsg==",
+  "URL": "http://www.convertlit.com/",
+  "LICENSE": "GPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1591085716",
+  "PACKAGER": "Antonio Rojas <arojas@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "libtommath"
+  ]
+}

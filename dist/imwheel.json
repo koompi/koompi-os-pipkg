@@ -1,0 +1,24 @@
+{
+  "FILENAME": "imwheel-1.0.0pre12-5-x86_64.pkg.tar.xz",
+  "NAME": "imwheel",
+  "BASE": "imwheel",
+  "VERSION": "1.0.0pre12-5",
+  "DESC": "Mouse wheel configuration tool for XFree86/Xorg",
+  "CSIZE": "42608",
+  "ISIZE": "134144",
+  "MD5SUM": "38fcef05b35c06191ad37d78c9f812c4",
+  "SHA256SUM": "2f242e41a1f44c9cfdccaa34a802e107e22b3c7a33933afadb397774d3e97188",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAlvjIygACgkQeGxj8zDXy5Lrcg/+MeC/Ki1qAdaj78gthoAcgzDC0KWB8bITtkLsLKcEJB1HdBowJZlxVEjzAUII37Nc5AqLotAOogiDSp+/Ng8rnSJ1BP5RRRU4d8P/XF3+euf2lhVVfxABstNelhqGkK4RieQ+snAGieVKRy7aq/epnzt+Gxa1vkEpZi1i6AFI5oaTkcG8XKVTEXpdKZpQwhfX7HjIxa2AiNc+23SdkAypTbGLCLUJHSFpmb8jU9+yyBgav8K8JUU/XgUKcKHBHocea3jygyB9LEJvQVEjWTtNC0N3VBT3dhVxtJf2lnKeGHQ/SaFt2NkT3EipdQXve9d7mXmV4N+iliaS9CQ7TkOY0CERsYkPAxXiCbA3ehPvdAjoJASFoUVhcZpkf9A4ghFZQ2u4Y3qjqn7mjrhfK0GHzNytrl8qb+S7z/Ou8sLLcY/oa/xB610SBi1uWOdfjlMg8S/Ft6j9Ak3u3os00lHKDyrXjRJ7ptE/10BM8NrmStKHZM6kdJ15jlSBUhzk/Y1KlP7dXWdQYK5Sg/8HxHJXXIjWQruLR7+Ebzzle07X2FxGsIyapo3Dw1a4/IluYLzwJHzZhqyDjWCxlpC84Dp5lrFKeFjjoKokNgtrqyIzD6oUATCuCvuK3eyX5Q/PzLmgmujTJC5MUzIU+EyTy3j2wo1nejoXaJkm7MXguXyU3w0=",
+  "URL": "http://imwheel.sourceforge.net",
+  "LICENSE": "GPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1541612264",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "libxtst",
+    "libxmu"
+  ]
+}

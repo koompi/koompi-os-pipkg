@@ -1,0 +1,23 @@
+{
+  "FILENAME": "libreoffice-still-dgo-6.3.6-1-any.pkg.tar.zst",
+  "NAME": "libreoffice-still-dgo",
+  "BASE": "libreoffice-still-i18n",
+  "VERSION": "6.3.6-1",
+  "DESC": "Dogri language pack for LibreOffice still",
+  "CSIZE": "349713",
+  "ISIZE": "2101306",
+  "MD5SUM": "954808296c27650f18f3294d058dd09d",
+  "SHA256SUM": "2e7e9be8407ec4ffd4bd2e8c56b8fbd4deae841292f676325d5fc1c41475dd45",
+  "PGPSIG": "iQEzBAABCAAdFiEErcih/MFeAdRTEEGelGV6sg8qCSsFAl6tSr4ACgkQlGV6sg8qCSsAIgf+MeaZlG4qv/mLbsD2wPH78GUa2vOJ9vuOpC1JAnkRS2b8zJYtiNik6WfgOqZCkfEiLvc0LoSDnUWdCszQpaSnNWRkfLkKjyZv39dcdlOfpHVLzsUorXCp/b/KMGCnna8mBKFZBUdklxS0B/rcWVyB8igtqaRzJjbbhvPzqvwN09bnx/aQLWSPGZ313aaBx+Q/H5K5zpLZ9oSuRDxdt+KG2hkIFA67etQmRTxJtBQ+EnXAdptVf6pudNF88KWDJ0tZpWPfGMdFUDau5aHQTKZ0/Z5vdfahNIRV9nTdPPSrfjDl7TMG3aiTroWfbSFDkdE+njmB6MfwGUdBoNbTyckJ5Q==",
+  "URL": "https://www.documentfoundation.org",
+  "LICENSE": "LGPL",
+  "ARCH": "any",
+  "BUILDDATE": "1588407321",
+  "PACKAGER": "Andreas Radke <andyrtr@archlinux.org>",
+  "PROVIDES": [
+    "libreoffice-dgo"
+  ],
+  "DEPENDS": [
+    "libreoffice-still"
+  ]
+}

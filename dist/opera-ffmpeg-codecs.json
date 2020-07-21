@@ -1,0 +1,23 @@
+{
+  "FILENAME": "opera-ffmpeg-codecs-83.0.4103.116-1-x86_64.pkg.tar.zst",
+  "NAME": "opera-ffmpeg-codecs",
+  "BASE": "opera-ffmpeg-codecs",
+  "VERSION": "83.0.4103.116-1",
+  "DESC": "additional support for proprietary codecs for opera",
+  "CSIZE": "1468306",
+  "ISIZE": "4453680",
+  "MD5SUM": "700fcd44e35bf37248bc3456831a876f",
+  "SHA256SUM": "b9ea9536bd89c14588377abc923d71e3e4f20a0060c9ef5ef353d4d69c3ae258",
+  "PGPSIG": "iQIzBAABCAAdFiEE2yJ3vNUAqjglYQvd2zIzknlsoGcFAl7+uZEACgkQ2zIzknlsoGc1fQ//Wk4H15/p71xs+lbBHnprL/+cXY2NK3PS4nZ4o9pUlGtsIqGVdf90u12XHqVz4IJAp/YHWJprrfeO6UenWzdn/R+gN9TTsfU123hlPiqiheJplr36jCEA1ymqzUPB+POgh/m4Jh9r2uV4bMNLCPQLw07ft4y1mIwb0dWYL79ybue15nMNxwrOAvsw7ZHMf7rRg10xjtJnHWGXXpeFaLnKgZAb7HfrXPyCwhje6N9VrXl522fhHixdg7/w51W98lf8rFfs3Rk1bcOlBODYkmlRxs2r+fRTNwfs5QTk7Im82E1PrlNu27TZO9mGOZlzJdbHqUQMkIl2ClZJd1tuDpqHKFwo5GasBPto5BPIj27Ev9iTXAPOb0tUtwbEyGmuG+VXfTn5EpNcdWktg4UPGp7JOiisow5/vob7J/VkPSCsOODSbkHW3flYmshj6Uu/EMF5G8mkFyIqnzfVEum3myqtRXrgX1WBivamvUsX9CIyNmSum+qpB8DOJHn9FMpDybXyct6WmIrWm4Bq12ozDoEgj7Z6yJADjDY0v2DTW/MWhLbki39h6kSyJ8RB5G5H2jply0+p5xmOirBFQ93j0V5WymGEeIXeYEy6FWx8H2nGnZR2J9OMufVnldqYev9ChxsYBFzhj2c1ltQshqgrpk/BuWCywdYz7hAaJQDoWkFkcvw=",
+  "URL": "https://ffmpeg.org/",
+  "LICENSE": "LGPL2.1",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1593749619",
+  "PACKAGER": "BlackEagle <ike.devolder@gmail.com>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "glibc"
+  ]
+}

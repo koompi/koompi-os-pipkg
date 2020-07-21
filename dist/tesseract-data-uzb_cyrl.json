@@ -1,0 +1,23 @@
+{
+  "FILENAME": "tesseract-data-uzb_cyrl-2:4.0.0-1-any.pkg.tar.zst",
+  "NAME": "tesseract-data-uzb_cyrl",
+  "BASE": "tesseract-data",
+  "VERSION": "2:4.0.0-1",
+  "DESC": "Tesseract OCR data (uzb_cyrl)",
+  "CSIZE": "1931523",
+  "ISIZE": "4905658",
+  "MD5SUM": "8e9f8b56e177b53d3021a2ea99331fd0",
+  "SHA256SUM": "3614a4f546434d711d4c68f399596a201b584ab337b1515ac61c19b29a1c4d54",
+  "PGPSIG": "iQEzBAABCAAdFiEE5JnHn1PJalTlcv7hwGCGM3xQdz4FAl78dMIACgkQwGCGM3xQdz55ZAf/UHC8cqDC39oUtYsDNCANtehGP/3NO8v5Z0gyJ6y5mw2VTsreNAUgAA7N+yxmgTC9mFiMTVUlGM0yrE0ERT7BFK5f4IxG75N5aZuw87OXT2YFoT3zSTfGCxnGhrKF/O9nw6kfwuHWTTpR8y4mNLAJMXqFDtghvDteDXS4DSYkoyMxdsLAVR8ejQmHEa8SbFtO5Cum8A2CmX49q17I3Hg4nYTOvU2Ef77a4CunSo3inVW83T2/d1PBw70zIFHwqruMBc0c1gH4LE70xcl2VJ69zUh7qqdfQG0WBRU8R97XgZKEF9ssbXfjSYBJnsKPKO9TAJn5dwUhSRrTAT+onx6wAQ==",
+  "URL": "https://github.com/tesseract-ocr/tessdata",
+  "LICENSE": "APACHE",
+  "ARCH": "any",
+  "BUILDDATE": "1593601400",
+  "PACKAGER": "Jelle van der Waa <jelle@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "tesseract"
+  ]
+}

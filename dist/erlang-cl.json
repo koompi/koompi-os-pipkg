@@ -1,0 +1,24 @@
+{
+  "FILENAME": "erlang-cl-1.2.4-2-x86_64.pkg.tar.zst",
+  "NAME": "erlang-cl",
+  "BASE": "erlang-cl",
+  "VERSION": "1.2.4-2",
+  "DESC": "OpenCL binding for Erlang",
+  "CSIZE": "251740",
+  "ISIZE": "1022870",
+  "MD5SUM": "dacdfa81155520f0bf661632f9ff8325",
+  "SHA256SUM": "a6b4b5a92f4e4c4feaebf38e1f72b872ca6a4331d1f94734112715f1c2e5e552",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl8EpdkACgkQeGxj8zDXy5JCHQ//Vlh42Kj1zBwocdztM3o7sH/gd1KpVB/YTTheUIQN9mCWAI9TfrQ/h7hvJOano0HYbRryOehLXGLBzhbTkqD1AUB3v80O/Zt6TbRF9evD4o6qQTcITFiI21EJ0llDFC8tIgtDk73NRWgzFtDXhn0ZdrYhbWigqZp0A5aN6FPPYRCc7NQCmFxAtWvRAu06Hq1VEQz6uaTt2fjg9XVkIlkdNQpfi0/sF4moNX+3JVr69O3v5AWcLMkmx3JGFFNUGUDd16mNWWs2wUsDWkBvItppTvkHOnNAf6vIcGjoNRmC1LQSH67fwsjWvEmiETGZknlIR7NRqzp1+MzoZsFD6TLLDcXWAc/W7VqqiwxnCTgNHQLdLn1WiYZQZi+oSTBCSqaxRzWEPJZTP0DlFJkFbUMbOhiKUTcyd1KrGeXQmHsU7d6wVJxRRilqClSvIJtRr8NfDOm3Gj2jL/MTeWiAMLLQSWedD8OSWjGgCkJj2Hmny2xWjO+5WvDHe2ipm6o8a/LeJlJ2mh0AqpFXXdfHFFl8Eo2M+6zL2/LZsIwZnOkRBHB5G1ASDkV0rqw1ycWSTbczOnyGJiZ7M1W755vH/b9z78tpC9OpTCMiAmr5SfZnt70RFoeeV6njwlq570/X0wUxlSmlR4EXVtdxjO72sdqDFG1tD+IF5hzUjIxpn9Hff8U=",
+  "URL": "https://github.com/tonyrog/cl",
+  "LICENSE": "MIT",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1594140045",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "erlang",
+    "opencl-icd-loader"
+  ]
+}

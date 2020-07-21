@@ -1,0 +1,25 @@
+{
+  "FILENAME": "ruby-gio2-3.4.3-1-x86_64.pkg.tar.zst",
+  "NAME": "ruby-gio2",
+  "BASE": "ruby-gio2",
+  "VERSION": "3.4.3-1",
+  "DESC": "Ruby/GIO2 is a Ruby binding of gio-2.x.",
+  "CSIZE": "46612",
+  "ISIZE": "201366",
+  "MD5SUM": "8ac08be9f6aae03df8d164b7b5f8d0c1",
+  "SHA256SUM": "33b3f24a9a396723d67eab1b03d2e5ac170caf54188bf342730dd613b39e032c",
+  "PGPSIG": "iQIzBAABCAAdFiEEjhmSFnRl21+wRVV8sChU7XU+Dx8FAl7ibpwACgkQsChU7XU+Dx+6nQ//dNc99S+3YLfCKBW5UH6QIHdBCVzcab7R7gW2sVD+vJIRQWhvkVFKXOzqs1mqYczP+jNAyoUHVog9JyG10TFfsGPCwktBSvc2n+IfiD653JSQWVIyIrv0GXSEBr5LkMeQm4pwqAoz0ntYGGj/o4k92efSPYiLLC0bJ6Va1BZtKSuU7ax8EtKGbQdqs0yA08VCKvUMyVq2dlFFLi3/t4i2ty2jSd6fMRs5T/5Lz+vX49rjdC8Joe3Nhf/faGnCp6LItIedIx7bgLazeOQ0D9NUBGVaikTXsDWs6JTE3ABXNlA0YWROfDjSHsl0srlEwMlmSrmKUaqB5r0WR2Ci711894oweflqA5hSnWqRMq2Ps1CceM0oD4PrUY/PEDxwp9L/jQW6CV+NBkBGs/kXFM/EBSPQ0ztSHB3f4TPaXKEN8Cc9plrBAukrUFPuMd6EsRw70Lm6gRCqOAX/KlYDR022IBlmBMkABZy0G+CDGRTOJWcFGXr440MVnB7JCRv06c0VpW6UzNU90XX5maZLpy8mTlRmRGyFn77xlyGYuSPuvJdvbxPin3xtAXdm1jvFchiLoj2YyXmOowt3aT7tl338oOa1CkR2O+GZODiUdiDKfgchsUYc5um2NY2dJDgbJ0PU7+XIdAayUmb6BnQ+hX2t3l/hoC5YQlOz5l0SqKNchto=",
+  "URL": "http://ruby-gnome2.sourceforge.jp/",
+  "LICENSE": "LGPL2.1",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1591897741",
+  "PACKAGER": "Anatol Pomozov <anatol.pomozov@gmail.com>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "ruby",
+    "ruby-glib2=3.4.3",
+    "ruby-gobject-introspection=3.4.3"
+  ]
+}

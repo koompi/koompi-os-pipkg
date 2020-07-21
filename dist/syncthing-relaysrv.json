@@ -1,0 +1,23 @@
+{
+  "FILENAME": "syncthing-relaysrv-1.7.0-1-x86_64.pkg.tar.zst",
+  "NAME": "syncthing-relaysrv",
+  "BASE": "syncthing",
+  "VERSION": "1.7.0-1",
+  "DESC": "Relay server for Syncthing",
+  "CSIZE": "3953560",
+  "ISIZE": "13761006",
+  "MD5SUM": "b194f327759f5a654c1ce1b13c25e774",
+  "SHA256SUM": "f7180955d759cffdb1dc6e38d04a0fa91dfd2cae85aa72d60e9b2c2be01c82eb",
+  "PGPSIG": "iQIzBAABCgAdFiEEOO3RiGdWkk4SJOSVJOTNsAE8JYAFAl8E2B4ACgkQJOTNsAE8JYDaQA//XrUb+NhbYcen1OUZFdx9iRXEla2Kd/UEuS/4excuB10Me+j9UbafsVT51mHMxa6MyeeU53MflR2ZaYxUMt5U3gtcyXX6VQnBpSsjhMjsEkoo9aeQb4Hq9I5gDi3ZsYWyT1J/YL44d42Hc0u3Flrv/WMxjAmtf4P4mzd1U3hDioihfnP6MbsKWP4B/Feg/VE0MV94HaDQtEnkLrFF5t3osvX29m6Lsxs0O27s4UhEDyU/isdL8gQ2OLSUTlVff4IP3jRtq54bKcJYAUGQMSQpIyee+L+IsenPLvENzgBvYbV10VgsQUrx0/JEcI6SPumIO3gz1bVqWIdjw1gvqkjk0kVOSGf73VodDooRRW297K50RH8D8MPlrpKxoVUJMhQYk0b9Hvy756JmBeOpHp7kJzTNiwD5q9w19ZQuk3eDuNV6zWQ6U62w4lwzNzSKKP84zkJOpFM5PBuF9IePgdrPqzMTxeznUKd+k8yZGVTlhmAnEp+P6KR14r3KUjbioIOgKJf4KVUrRMR9dJ3YbPZv+v1qgWG/VRDTCfnXcw/y2aiURoOHmOty/nq3pmISsFAwo9gla1l6aY6OOvCqUPX2gxZ0ZlTuZshaUClgQxAtGp8fCIzS8vvOYGSu3Tu/ZwYkP3SLhQjj0MJwDsufusuvo3hlALLufW3FyD4IVjDWic8=",
+  "URL": "https://syncthing.net/",
+  "LICENSE": "MPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1594152691",
+  "PACKAGER": "Jaroslav Lichtblau <svetlemodry@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "glibc"
+  ]
+}

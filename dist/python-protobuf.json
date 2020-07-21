@@ -1,0 +1,25 @@
+{
+  "FILENAME": "python-protobuf-3.12.3-1-x86_64.pkg.tar.zst",
+  "NAME": "python-protobuf",
+  "BASE": "protobuf",
+  "VERSION": "3.12.3-1",
+  "DESC": "Python 3 bindings for Google Protocol Buffers",
+  "CSIZE": "690823",
+  "ISIZE": "6407483",
+  "MD5SUM": "68e592bc76401d40d2c2f956de37b9d9",
+  "SHA256SUM": "c1b7c9bfff5e97f437e3ee04e63ca97e2d328fd7e39ea1a9b001526a5060d996",
+  "PGPSIG": "iQIzBAABCAAdFiEELjbYYgIhSC/EXLfyqRdkdZMmtEAFAl78wacACgkQqRdkdZMmtEC8lRAAkMtr628a+5evpCK/nsKtUFGc4EsUpCuYeVEaAtDrwRZCp7NXVoKwbxc/13LVAnRUPCzpBI64KvdI5bMYr7O92M9bKxSJR8GATG5lpgPqqTvHluKODD9Fmv6ln2Vgyp03DRvATrZI8ro9kaOOGESRFm305Lix3pmsKeokdX8mnDvnxSeBRQz6UIC/inRwfuisKZqZsJR2Dx+MxcMeBIL9YdQv9CAK1diVAw4s3/Q8Vfu4b03BpLNX70jUnqfaZdue9TWUvK/X0TWzqyLd2LMdf/BIaL/yx10HZN81uoMOZ7m6ffVggS3FuOfMFNEtu4P12Gm7XkH0EPEeX+IM4TRy4Nn/3TDN+sXb88msOJ6F5fl92DYgx4UX4eP7mA6j8S8blnbrNYcWfCRB4lJc72EXN7tDqiV/3rM4P2C5PuvTshmjDascWvUMLM6MvH0X3v48hCsFtRtyICiwGD8aCeD8nGn0rz7vw47NrSM+E0njVSiyFpRgFob7wsMDSEZekk5/rfBCKblTTFMHz7BBwbnWBjNVIt3IpdXOYSrI8bWTK4rISprQ7OV5679x3GcsX9GgRWEzgM6QavNt6vV73ar4BVXaE33cMXSufW+a83I3qQWaU0wVFAUZBskG7j/P87knKw9bnkUkq6oVGyyKYBCi5iVjT6TBdhPsSjea18XgXxA=",
+  "URL": "https://developers.google.com/protocol-buffers/",
+  "LICENSE": "BSD",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1593622344",
+  "PACKAGER": "Lukas Fleischer <lfleischer@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "python",
+    "python-six",
+    "protobuf=3.12.3"
+  ]
+}

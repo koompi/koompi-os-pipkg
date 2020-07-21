@@ -1,0 +1,23 @@
+{
+  "FILENAME": "kcmutils-5.72.0-1-x86_64.pkg.tar.zst",
+  "NAME": "kcmutils",
+  "BASE": "kcmutils",
+  "VERSION": "5.72.0-1",
+  "DESC": "Utilities for interacting with KCModules",
+  "CSIZE": "685853",
+  "ISIZE": "1874575",
+  "MD5SUM": "d5866de812a68f99110a49654620b314",
+  "SHA256SUM": "b328f1cd4b6a70821d125248c501c76bb168428f210e6ef2a0c341be0d136795",
+  "PGPSIG": "iQEzBAABCAAdFiEEFRnVq6Zb9vwrc8dWek52CV2KUuQFAl8JYOoACgkQek52CV2KUuRE7ggAnrp9xjH7w30Q7wIqvNIbhxO/COsw0wKGYibx/1hRo0EahoZsp+AvFLW9v5fghI1dr6g0F5mmr3PDV4ZMVQqOh0x35aGkdjbvJif6XFbxWL5eaJsP6607PEsBpIj4YnJO99u9rTB6g0UK1LTOhbI7m9Eb1BfFiMNzVoRXeBLzzP7Ef1iaLoOIsokGXj7dVzQWkVdc6vDg91+gq6RPgUPfxAfBCXxbq72NFpKRF9HDD0lI7CPww8Kz5z463bBWWBojy/XUBLgHUP7VaPuNjmtM2GoPhJ48VvvUYAA16/qMxWRlErDeiaUr4TMu1gkZ6lE3XG0pcgwE69JMJgmmAAPatA==",
+  "URL": "https://community.kde.org/Frameworks",
+  "LICENSE": "LGPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1594202194",
+  "PACKAGER": "Antonio Rojas <arojas@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "kdeclarative"
+  ]
+}

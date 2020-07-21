@@ -1,0 +1,25 @@
+{
+  "FILENAME": "qterminal-0.15.0-1-x86_64.pkg.tar.zst",
+  "NAME": "qterminal",
+  "BASE": "qterminal",
+  "VERSION": "0.15.0-1",
+  "DESC": "A lightweight Qt-based terminal emulator",
+  "CSIZE": "227758",
+  "ISIZE": "954962",
+  "MD5SUM": "c62b8f3dfd1996484ca86c563ec7106b",
+  "SHA256SUM": "1b26e60216f2678ebdb1598b7712834f440945aa07c0262f82bba596e5c72863",
+  "PGPSIG": "iHUEABEIAB0WIQS5AcQXHI3QLG8vSWv5jvKnsKCYrgUCXqOsSgAKCRD5jvKnsKCYrsmjAQC2yPqHnsTcESEB4WvUlybBrkIvTWFgY2iUpWcklqz09gD/fV2rg317Vg/ZvmTSkRLKqRCUGFA5rbzroQ2RbvG+h6k=",
+  "URL": "https://lxqt.org",
+  "LICENSE": "GPL2",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1587784653",
+  "PACKAGER": "Chih-Hsuan Yen <yan12125@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "hicolor-icon-theme",
+    "qtermwidget",
+    "qt5-x11extras"
+  ]
+}

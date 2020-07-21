@@ -1,0 +1,25 @@
+{
+  "FILENAME": "iptstate-2.2.6-4-x86_64.pkg.tar.zst",
+  "NAME": "iptstate",
+  "BASE": "iptstate",
+  "VERSION": "2.2.6-4",
+  "DESC": "top-like interface to netfilter connection-tracking table",
+  "CSIZE": "37296",
+  "ISIZE": "89306",
+  "MD5SUM": "1d00fed86fb5d39f86752b9610409b97",
+  "SHA256SUM": "377535d50992abf1595f8374c20d149e8a419cd144aa96d1f2c35f1402e08c65",
+  "PGPSIG": "iQEzBAABCAAdFiEEhs/8qRjPOvRxR1iAUeixSKmZnDQFAl8E1XUACgkQUeixSKmZnDTr+QgAmOut8EKsvmbenmAGwZz8nC0K9kgIqXLOKexFoT8BMRn+6eTiRHaLn2VVnAS58Y2jdCzBgusSSuMuSrX0hhAAm0OzhaQkDyajrxoOaeTMtSyBHavR2NayVWOCCERXoK9SJ/LeJ/BtjsStru/9eQKe0mEQu7CtS8u27jakyhBwIEQJyOcQsZx/WxgprSx+e270ebodQ0REOZZMK33nmLrKdlrhJRMPwXBdSIHDh5NH/h45HkAFUWAEYT3jRhfHVBQbtdNc3Nzhpak6whwBwi+rQvW44Q/HeNZIJPNEqpK6eUPxe+nldixhtFbqj4fLOhmyzHMRaQ7G0VGReclzDOB31Q==",
+  "URL": "https://www.phildev.net/iptstate/",
+  "LICENSE": "custom",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1594152292",
+  "PACKAGER": "Evangelos Foutras <foutrelis@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "gcc-libs",
+    "ncurses",
+    "libnetfilter_conntrack"
+  ]
+}

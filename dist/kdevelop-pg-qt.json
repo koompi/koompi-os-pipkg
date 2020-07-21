@@ -1,0 +1,23 @@
+{
+  "FILENAME": "kdevelop-pg-qt-2.2.1-1-x86_64.pkg.tar.zst",
+  "NAME": "kdevelop-pg-qt",
+  "BASE": "kdevelop-pg-qt",
+  "VERSION": "2.2.1-1",
+  "DESC": "KDevelop Parser Generator, a LL(1) parser generator used by KDevelop language plugins",
+  "CSIZE": "547393",
+  "ISIZE": "1335265",
+  "MD5SUM": "91735a643c46992d23b0ecd317177d6e",
+  "SHA256SUM": "1a3446f84618e3079b1440e94c7f0fcab85c19b223f209decdd17e76efed5428",
+  "PGPSIG": "iQEzBAABCAAdFiEEFRnVq6Zb9vwrc8dWek52CV2KUuQFAl43M/8ACgkQek52CV2KUuS01gf/WvaKqYP9OzR/fUIh7YFsHjrhcPAPoaSkkzD7B78rec4qSVn96LabMZtotOeq3qJxKkQoChLx6RRi/6xrGSRVK927ttOUqfbL8+0zvXhOA+WETR4p+46IIhHYkJB86t2AZLlMukPtcGd/Q5JcMvfADUBzu+sTxzJk3VvOv1MmznSZtVwJgcn3lFU25g8y77rKeNilXi8+CVeI9F1Yh6KWj+YqXPRWmE4Xno+H/bmMySYkdlJXmEf/ZXP9Xag0mtSwWJeaNn9yYAvIJPGaHYdLBP9GpwHqmfMmV4kwsb/oMBOiisQ9E2KJHrFrY84F8+J4RuwKczGQymG2uIV284PGpQ==",
+  "URL": "https://www.kdevelop.org/",
+  "LICENSE": "GPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1580676000",
+  "PACKAGER": "Antonio Rojas <arojas@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "qt5-base"
+  ]
+}

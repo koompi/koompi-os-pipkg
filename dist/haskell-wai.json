@@ -1,0 +1,26 @@
+{
+  "FILENAME": "haskell-wai-3.2.2.1-69-x86_64.pkg.tar.zst",
+  "NAME": "haskell-wai",
+  "BASE": "haskell-wai",
+  "VERSION": "3.2.2.1-69",
+  "DESC": "Web Application Interface.",
+  "CSIZE": "33263",
+  "ISIZE": "127090",
+  "MD5SUM": "8a910c55f2f2931408cfa3ccd0511733",
+  "SHA256SUM": "408c2ff12ba6a382194e16935b04bfc5f810526180cf4183b2e560102fc5f2a8",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl75xpwACgkQeGxj8zDXy5K6shAAmzYekIt39UImbsKVu12kmw/TOuJhiLKDrV084jkop0To3VkNpLRia7ZO8rBEuGqaPvkvmv4W0hFTAbLwUZjsmjBKAOPtPtm/QLupUAcNxDbzPWJhlp9msl9IEeTMG/Cpsvx7Imy0aTR6izk72mM55O8Olrh52fmybfoyXGApAW00rAColygmeSE/eP/OK4gyqvU4Lw5AiQrjZkOUgPh0pGp9EBb9HjcfgwIg2FKM+N0uwcmxDtslkl1nrhmBBaO11kWpBkNHfFw/RXmdROL6InaxEL22RC9y3YceTN6kChDKupTebDUSIrX/g/aYD1QFh5b+KEGX97/Br5m9rOd+zlrcBpS48X3OrJJGW0NKpudwzNl+UGIjTzGNykBsmqZHTE76EpWdnO/MfZ+pVPDSsf4gjDhlPFUhQ55bqeoI8+ezKUbRxVHgckCKBHxkv4cp8YUpv5pSQrwb1yNl9e5k6UFDzeGxqfPPSf91Dq8HX9VigrvENkHR/EHBEjRkzQ5rSNBMHldX1sJRtmfwTuKaCSpJtDoyhUbaSLVL4Ged5Fp96MB4UijT1LZc0FDXC0Pls8OoQWaAUSUCARxwKc6HJtrYBbP2ebXBU5R7OQGjxAgeOY4wxfwzCuFt1WBS3plsgleXKt4IX4W5YWUcxllsZ6RhArc4l+0CZEQhBhl4HnA=",
+  "URL": "https://github.com/yesodweb/wai",
+  "LICENSE": "MIT",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1593427588",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "ghc-libs",
+    "haskell-http-types",
+    "haskell-network",
+    "haskell-vault"
+  ]
+}

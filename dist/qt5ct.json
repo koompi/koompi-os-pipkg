@@ -1,0 +1,23 @@
+{
+  "FILENAME": "qt5ct-1.0-1-x86_64.pkg.tar.zst",
+  "NAME": "qt5ct",
+  "BASE": "qt5ct",
+  "VERSION": "1.0-1",
+  "DESC": "Qt5 Configuration Utility",
+  "CSIZE": "206261",
+  "ISIZE": "815063",
+  "MD5SUM": "ba57142b331495b9caf6fac052ef3080",
+  "SHA256SUM": "d0d43ed360e3194edfa3fe5271feb0e71134d02f61ddc5bd329c282b120541ce",
+  "PGPSIG": "iQEzBAABCAAdFiEEFRnVq6Zb9vwrc8dWek52CV2KUuQFAl7hHEYACgkQek52CV2KUuReWQgAj3eEornyi7TMDusxwmQoM5+uxJ7SQTTri9MUvqR69PjLrzFzb2z96oRoTP75sgbH+uRv/RxFRYsfpDVr6y8Z7FlX2OnRr9kUNAQf8eZfPza1wOlTvkYU/KMCZN5uV1+5IAjdaI7UiN8oafwZHfibtZD+yMu6KSOLK6CjvZa6qJ0lbxDTIX90S6r85hb0es5CKcDYkZvhp9eDYMfSAWyjszhrYp1RF2XSPOGFsFI6WVqpijUVA01Wf/9Y5BpF+IxTXVN1R8klfCJ+4u6xa96w0JGLZ0cIUznsjZ6nhuTIcoU+qJaSMnuccTArl6CvwdU5yRrF39cnyg2F1bUFfh0M7w==",
+  "URL": "https://qt5ct.sourceforge.io/",
+  "LICENSE": "BSD",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1591810964",
+  "PACKAGER": "Antonio Rojas <arojas@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "qt5-svg"
+  ]
+}

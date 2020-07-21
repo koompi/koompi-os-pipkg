@@ -1,0 +1,28 @@
+{
+  "FILENAME": "libmgba-0.8.2-1-x86_64.pkg.tar.zst",
+  "NAME": "libmgba",
+  "BASE": "mgba",
+  "VERSION": "0.8.2-1",
+  "DESC": "Shared library of mGBA",
+  "CSIZE": "479653",
+  "ISIZE": "1675718",
+  "MD5SUM": "5f1a8fd7ce88c3f9204bf31a9534638a",
+  "SHA256SUM": "91652c50e4e1abd4ca14a7e5a72dd1464e6f3aace1b6967c18a8a0f6b0b0e3a4",
+  "PGPSIG": "iQEzBAABCAAdFiEEh0L3U157OUobBIFjMyycQPQNIHIFAl8AwhUACgkQMyycQPQNIHIa+gf+MXiFKs7lzXGOuZ6/MgySmrw8R+HQYrjrT7e4KNwdXMGOkJBN1pcyOj6MGHsY3WI5r2edQBqJuIUoTNFzgbRgk+F39VOi1exmyAjBvJRxQOJD0qqqaAK7Zktve5mgjOWzrW4rsvrlpIUjrsDdd/Oz9XiD2gLkH9R8wAne1H7HmuamjDP2jgic2/WKxKgZ97xT7i2Cz2KNkU53d8qiR0oy6OXpinPD/i2XY7aSFHOLEwVnN7yvCEPxLHq3gem1dwUFYSvVrDcYk0X2Vs4++BMDsCk6ZN7dYLplN3esQJ7FZ3TOTBtUoacMZ3YTpbFyIZpF8n7nKO3l3nqpUfwnGK8Z7A==",
+  "URL": "http://mgba.io",
+  "LICENSE": "custom:MPL2",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1593884736",
+  "PACKAGER": "Jonathan Steel <jsteel@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "zlib",
+    "libpng",
+    "libzip",
+    "libedit",
+    "ffmpeg",
+    "imagemagick"
+  ]
+}

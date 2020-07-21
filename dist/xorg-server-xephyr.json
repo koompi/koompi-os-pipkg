@@ -1,0 +1,36 @@
+{
+  "FILENAME": "xorg-server-xephyr-1.20.8-2-x86_64.pkg.tar.zst",
+  "NAME": "xorg-server-xephyr",
+  "BASE": "xorg-server",
+  "VERSION": "1.20.8-2",
+  "DESC": "A nested X server that runs as an X application",
+  "CSIZE": "902532",
+  "ISIZE": "2211587",
+  "MD5SUM": "c1809a4de6fbfa928102d03a54825ed8",
+  "SHA256SUM": "8a0c6df85a92a99874e1061885c3e33ee5a6a5346bbcb280909191c17c846fe5",
+  "PGPSIG": "iQEzBAABCAAdFiEEhs/8qRjPOvRxR1iAUeixSKmZnDQFAl6w9VIACgkQUeixSKmZnDTNkggAqMYCuumrx6UIA2MwAnLZsMNpWc5Ot9lijdauV32t2JrpWLQkwbKWj91Ba+hqu0kopylhVtw6lBNHOCUyGATPmz5xvMMBUsuoWlE777qG8KPssTWOgS6vad/XwALo/cJZztDvDC4cTvMyVE9VK2a7CxhtgqDHVKjwpuE9Ty1pIH4XCBPfzZC4RV74Au7lVMbxna9XRVv8tFBmcXwNVjY7kd1mYJEkFYEuDiQ0vNgGhxHvdsDod9uQWa2maApyYs74WCsAdMZcA3lugTcGOxpVDL13aBsVwvrIP+bmETXjqXWP0PBu/VVGd3o6uo+ZwwKNIvO0qsEWax/XjFfxcplfmg==",
+  "URL": "https://xorg.freedesktop.org",
+  "LICENSE": "custom",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1588655297",
+  "PACKAGER": "Evangelos Foutras <evangelos@foutrelis.com>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "libxfont2",
+    "libgl",
+    "libepoxy",
+    "libunwind",
+    "systemd-libs",
+    "libxv",
+    "pixman",
+    "xorg-server-common",
+    "xcb-util-image",
+    "xcb-util-renderutil",
+    "xcb-util-wm",
+    "xcb-util-keysyms",
+    "nettle",
+    "libtirpc"
+  ]
+}

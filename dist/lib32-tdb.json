@@ -1,0 +1,24 @@
+{
+  "FILENAME": "lib32-tdb-1.4.3-1-x86_64.pkg.tar.zst",
+  "NAME": "lib32-tdb",
+  "BASE": "lib32-tdb",
+  "VERSION": "1.4.3-1",
+  "DESC": "A Trivial Database similar to GDBM but allows simultaneous commits (32-bit)",
+  "CSIZE": "46786",
+  "ISIZE": "108046",
+  "MD5SUM": "d805a3e04d8d5577c36c0a8fd32d05f5",
+  "SHA256SUM": "24acdd60a20c74f4747b9731a87f2db7e6fe51b2a6aa532c4178a0e5f746f45a",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl78vwkACgkQeGxj8zDXy5IlPBAAnZca5iWlC3ME8FxWlFnPReG4CAQqmw8ZFjcvp3YmyrqLkGejhqz1PTxE3JG9T1w+ZjXBVAeYvcIAUCa+mbcjxb0YErtpbtq56st8biO15k8lyZTaIMthuC1VJ7O4hVTe/ksSamfXyeRm6xeXmWeCrcXr26g5C3614JlbAqAFYA/VLAM11IOJV//a7bpM0Xq4o1rWQ5YjevIx1LHR32iOZqIGwEledsO3UjiQaMq4nZ4g8v17uRSAL0hn0aGdBLVzXzEpZs2XC/pxp2aNJS/9PuZ/PQOrlLL0/zY4Cl51S22UsxA4K0Stb/ZN9nYKWkZdEwDRxA8jsO0Jy6j0caz98OnQv+k7DEgAZ+YiqlG4xFn95RCsIAfc7Tn82h76JJKP3iMosy5HOPJXE/guRUL7LZQ4F2RVcz8x6348C8wHp+N7wJlEHgof20tiaXHd9sqrW29cLtUiqtTv3aRy72rYSl3y8Q/yt96HAFjEzUo75XWy3xeWWQdJVuaUEesGRrmH/EwcNJ/Aj7L4rYyqKlCLY7WlERvhw7LYfIURTUpnWyf2qZCoGGD4hAY/HUJwurrSFCpKJaizAAVqoB63XXg6H3jJrX4ZNMKxSQW8SuDknes1b+pasH4QhrHOxmoT/ksRWb8dJWVT+lEQDTLIL958Lrlsz+jdrQGqtWaLTQS5jys=",
+  "URL": "https://tdb.samba.org/",
+  "LICENSE": "GPL3",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1593622203",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "lib32-glibc",
+    "tdb"
+  ]
+}

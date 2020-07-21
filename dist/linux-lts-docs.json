@@ -1,0 +1,23 @@
+{
+  "FILENAME": "linux-lts-docs-5.4.50-1-x86_64.pkg.tar.zst",
+  "NAME": "linux-lts-docs",
+  "BASE": "linux-lts",
+  "VERSION": "5.4.50-1",
+  "DESC": "Documentation for the LTS Linux kernel",
+  "CSIZE": "17618464",
+  "ISIZE": "133046253",
+  "MD5SUM": "3d23193913eb3040e197ed579d8d67fa",
+  "SHA256SUM": "dfe887474659bc227bec9024a7d9999d5d20c18d60fe374f51ef741a74f2134e",
+  "PGPSIG": "iIsEABYIADMWIQQGaHodnU+rCLUP2Ss7lKgOUKR3xwUCXvzLZBUcaGVmdGlnQGFyY2hsaW51eC5vcmcACgkQO5SoDlCkd8fn+QD/YTSz7vRJ5D5mZktPxSOhyD2DO2FzRqwAwAkPB09Hd3gA/195YjqByOuR0mhXSpbmvhq7dROAGp5rZoA1Hy4WJwIC",
+  "URL": "https://www.kernel.org/",
+  "LICENSE": "GPL2",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1593615183",
+  "PACKAGER": "Jan Alexander Steffens (heftig) <heftig@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    ""
+  ]
+}

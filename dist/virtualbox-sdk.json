@@ -1,0 +1,23 @@
+{
+  "FILENAME": "virtualbox-sdk-6.1.10-1-x86_64.pkg.tar.zst",
+  "NAME": "virtualbox-sdk",
+  "BASE": "virtualbox",
+  "VERSION": "6.1.10-1",
+  "DESC": "VirtualBox Software Developer Kit (SDK)",
+  "CSIZE": "6804328",
+  "ISIZE": "19755005",
+  "MD5SUM": "b1188af8565fc4ffbb0676fef372db1f",
+  "SHA256SUM": "668bd3748f0971f526f06a2b2882bed43e46251e3474d17d9053ac75314dbeab",
+  "PGPSIG": "iHUEABYIAB0WIQQEKYl95fO9rFN6MGltQr3RFuAGjwUCXt36ewAKCRBtQr3RFuAGj5VFAQCHemdRB5R73iKAIPtPA/tK7bo+MafsH1/s62DLSmEzEwD/dKo3jLabRPrFaemk9G60gOqNa91B9mJTiKBkP0gXIAw=",
+  "URL": "https://virtualbox.org/",
+  "LICENSE": "GPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1591605224",
+  "PACKAGER": "Christian Hesse <arch@eworm.de>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "python"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "FILENAME": "xfce4-systemload-plugin-1.2.3-2-x86_64.pkg.tar.zst",
+  "NAME": "xfce4-systemload-plugin",
+  "BASE": "xfce4-systemload-plugin",
+  "VERSION": "1.2.3-2",
+  "DESC": "A system load plugin for the Xfce4 panel",
+  "CSIZE": "42424",
+  "ISIZE": "149916",
+  "MD5SUM": "407120983750e5161ccc7b8885e2bd3b",
+  "SHA256SUM": "473d3ce1f828d5a8a4b0ad17e6daecc371271cbfa320c99a2cd4cbd34669241a",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl7DnEEACgkQeGxj8zDXy5LsJg/+JClcW4HhihY0GWtoNnQ2ctKgxiMs6RT+rdZYQ1e/XOufrVQ3NW7/+HX0zD3y98RGlptyTAw+aC/N6EcTLPNUdrHAHr0s+5r6v2b+yVD65cnh78F1MvLH4wA+kgz7+wtS23FZPTM/UCh0azuLlinXkbNu/3od1qOWXw85j5pm2UpHgAVHNfTu8/zFVxOjVpWX1XkaNpqZGUErK569Xnv0rAIf4QvU+ZzpMM1Eipk728rmfE2HHFNjO5PbAzKsInhLIow/PzOPKeqSlDZWB4Sp+MwoLSRu1oQQOkzfpTIgSxTibkZ7ApVYEZHlgWAtCkKm9tJvwxSMFt2PGnbrPMAwS3ombHwYksMrGaC9lMQXH8hU/lAqmH0I/hE7uoIEu+R7dF7hUrqOZ0xh/R6W6LymbU2RqVbf7b3CuBjxSktDglrXd4TL8QXUDoglApySGabps1ANexxEJlrWvJOzJBqan3Ov0yvO/nVinxpaepe8qpWv+3/MWUt8oD9OGrRSP4bQEQ7iJ48wLoqll/3QrHvTYZUgJC6NGEBmcGZl+r0plgaZQ5r/xc2KRo0seAcsNrwGLFB1fGuMpK34SUciDx9+8eiJPoQvE6mq0Q3cewzqEbDjSP8OomFOx4Ssk33w7XGLHH2ZnONxKx6PorjAyWCCs0NGHS4J2Nm8eL2hQGrwIV8=",
+  "URL": "https://docs.xfce.org/panel-plugins/xfce4-systemload-plugin",
+  "LICENSE": "custom",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1589877776",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "xfce4-panel"
+  ]
+}

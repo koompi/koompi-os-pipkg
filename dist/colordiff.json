@@ -1,0 +1,24 @@
+{
+  "FILENAME": "colordiff-1.0.18-3-any.pkg.tar.zst",
+  "NAME": "colordiff",
+  "BASE": "colordiff",
+  "VERSION": "1.0.18-3",
+  "DESC": "A Perl script wrapper for 'diff' that produces the same output but with pretty 'syntax' highlighting",
+  "CSIZE": "11833",
+  "ISIZE": "25190",
+  "MD5SUM": "9fb00483455538d20a3b8e54ebb54273",
+  "SHA256SUM": "1d724fefd843326a92b5237d29416ceafbb0b9ea6b36159859edc9e07713aea3",
+  "PGPSIG": "iQEzBAABCAAdFiEEhs/8qRjPOvRxR1iAUeixSKmZnDQFAl8E33QACgkQUeixSKmZnDRddQf+K67cvgUuQFMPAASIk3IiFvJmMtLBDUHeLbV+K3PQrmhlFxSxJDHBZ076ISCBZHFTFroRP8M9z6Ofq8HiU6B4WjzgqERDsm6zS6ZhKqpHCdgKPZoHIHlB60YZf3R3zBupgA0Iij9+yDOUIag/JNk/FW5Wg9INLsqWiJgzqlsSiCPFslMb7znULUDW9H+h+47L18p8llHnTKik6fDwjOcLMUNM50FWD2hPxTlVP0v1mT35gm53nD8EU6JbiCgR0TBiMWzA9WMsoMGgcvXpUzm1wIlskfBNWtgF2Oz1GbkgPfGCr7PfRXlAPALHDAYQmNwgTc5Js8RtrsAXhZZad77jQg==",
+  "URL": "https://www.colordiff.org/",
+  "LICENSE": "GPL",
+  "ARCH": "any",
+  "BUILDDATE": "1594154856",
+  "PACKAGER": "Evangelos Foutras <foutrelis@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "perl",
+    "diffutils"
+  ]
+}

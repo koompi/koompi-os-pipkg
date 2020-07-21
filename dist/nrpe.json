@@ -1,0 +1,23 @@
+{
+  "FILENAME": "nrpe-4.0.2-1-x86_64.pkg.tar.zst",
+  "NAME": "nrpe",
+  "BASE": "nrpe",
+  "VERSION": "4.0.2-1",
+  "DESC": "Nagios Remote Plugin Executor",
+  "CSIZE": "55903",
+  "ISIZE": "166816",
+  "MD5SUM": "81a914ed09c7dbc005c042f5a65a38d2",
+  "SHA256SUM": "83be73c4a382c09150cc59ec081832299cf36d393a0076ef7aa67683bd63d3d9",
+  "PGPSIG": "iQEzBAABCAAdFiEEh0L3U157OUobBIFjMyycQPQNIHIFAl52FZoACgkQMyycQPQNIHLLWgf/WkjurvshIQJi6WrABLheA2inqsNmoJPxFU2UPb6iq4SsmTKel8vcWMm97Yi+UP8Tu7uPAoQ2AHvQKzPD6mXo5JTEQDpflZajrYIuhvmNAA2o3lMk0MpwjpCbzMc5Ee61nhJMQOvjpczNLAscVRD1pvJE4wGwYjWF4qBCJEmLQQf70rnNjF1u5O5uAFrJMVXmehZ/lQ4Fh/bEF3OiqoWYUHWNcxej5wsOXLqO8WhTgga1nLYZ1YT+Jn5PArux61T5Ejj7RKCcvHwkBdRQbelVbxt8Wq1+Lktcpbxdv7sgTE68bADMpcT91NnMtdyCtIatCdfnMNQHnXVvQU4F2usikQ==",
+  "URL": "https://github.com/NagiosEnterprises/nrpe",
+  "LICENSE": "GPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1584796794",
+  "PACKAGER": "Jonathan Steel <jsteel@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "openssl-1.0"
+  ]
+}

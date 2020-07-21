@@ -1,0 +1,27 @@
+{
+  "FILENAME": "e2fsprogs-1.45.6-2-x86_64.pkg.tar.zst",
+  "NAME": "e2fsprogs",
+  "BASE": "e2fsprogs",
+  "VERSION": "1.45.6-2",
+  "DESC": "Ext2/3/4 filesystem utilities",
+  "CSIZE": "1224391",
+  "ISIZE": "4993187",
+  "MD5SUM": "eea20ecd6a2e0640f1b6bb56da8daf7f",
+  "SHA256SUM": "5f00554491878329a9f9b2ca960f97f31878ecfb9628cd0b912e8a5271bdf9a0",
+  "PGPSIG": "iHUEABYIAB0WIQQEKYl95fO9rFN6MGltQr3RFuAGjwUCXrOxRwAKCRBtQr3RFuAGj7RFAP9A6b072/tkbU/2RDB6YSONZ+xo2qWIvxtL2f3y7r3MeAD+KzkoZqFqBmuJAmhnhzQN3zKuRJys0nz7d5/tAigE8wo=",
+  "URL": "http://e2fsprogs.sourceforge.net",
+  "LICENSE": "GPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1588834563",
+  "PACKAGER": "Christian Hesse <arch@eworm.de>",
+  "PROVIDES": [
+    "libcom_err.so=2-64",
+    "libe2p.so=2-64",
+    "libext2fs.so=2-64",
+    "libss.so=2-64"
+  ],
+  "DEPENDS": [
+    "sh",
+    "libutil-linux"
+  ]
+}

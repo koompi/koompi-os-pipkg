@@ -1,0 +1,24 @@
+{
+  "FILENAME": "lib32-e2fsprogs-1.45.6-1-x86_64.pkg.tar.zst",
+  "NAME": "lib32-e2fsprogs",
+  "BASE": "lib32-e2fsprogs",
+  "VERSION": "1.45.6-1",
+  "DESC": "Ext2/3/4 filesystem libraries (32-bit)",
+  "CSIZE": "229732",
+  "ISIZE": "544933",
+  "MD5SUM": "d26c868da8452489ac169b60a734b173",
+  "SHA256SUM": "c58359dbc632a9cd4523f66a4393f93b7fa65fb1830ef682c6c5f9331f138a27",
+  "PGPSIG": "iHUEABYIAB0WIQQEKYl95fO9rFN6MGltQr3RFuAGjwUCXnk7HgAKCRBtQr3RFuAGj0wgAP4/RZpL0CkHFIC+Ovr0QJhzPzetctZPXoTuRjJ023WFcAD/VnQUARA7Oyq+j+i0g1Q01U4yGx4rNRkcBwi+/b0reQo=",
+  "URL": "http://e2fsprogs.sourceforge.net",
+  "LICENSE": "GPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1585002859",
+  "PACKAGER": "Christian Hesse <arch@eworm.de>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "lib32-util-linux",
+    "e2fsprogs"
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "FILENAME": "python-vobject-0.9.6.1-4-any.pkg.tar.xz",
+  "NAME": "python-vobject",
+  "BASE": "python-vobject",
+  "VERSION": "0.9.6.1-4",
+  "DESC": "Module for parsing and generating vCard and vCalendar files",
+  "CSIZE": "78416",
+  "ISIZE": "415965",
+  "MD5SUM": "8d3ffe63f3777ab2f3d48e851f93f92c",
+  "SHA256SUM": "3477e381596ff110ce7e31ed1a8e24975414b28f341006f8ff25de62258317c8",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl29+b8ACgkQeGxj8zDXy5Lbyw//Q/RPR5hcDOII71uC3Qwn8JA38n32DVY1JdaFR5Y89wSjhzhh2h2nH6TCWIC0mdPi5z5XFf1d0k0IEkUs7FHSXjsIeAM04hs1wtDZdpQAC+q6jMePz1eo97RBzbqIruK6RJizB5y5ha5PlrWX/L3Nj3rLzfNAvfGth/QVViA7L9HZRXWIRyTFV9AmBS0OX98OLZt8d2QuBz08IDS4JiMZmpiTMuo8o2evR9wDsoyLHnTl7qrgm0q50WcCQBhCBdGJDkJLqZMbEjDITk7ajld+USkUQa4icSyyPe7r/B6pYPIvGA9tZEVWNibSZAYtzav8gx4tgqM00YdohA7bgVgJ/2vlB7fVTwvBXw+l4o0ydadIuEftJklmOoanbO0ocw+3BzC7UVvjzxcfDSDb+9AR00Kxhpk4OG7Zc87v1rsbzz1oCPrSJcKf7mzpnfZYjSFy/X0JPo2uaRr2mc4QPGwXG7fM94ykEmrhebTLYjtlpr/Sxi/hrk4NpZ5rpDuHhbZTrsmKViHwR6EsjAp+7VlRp/3TNfiUjgTXrLJIaML1GB3Oo1dZP28P05sHaBjwBqXFwYqJG/BeKql0kj7E+hfYtOzi3Hn8uPDhHg90Y1UA/2Z7PwdPct56iHMmBD0RwrIV5S/I47HvyULeZcbrRyTnOKCGsRiBJo/a/ISE+Se3N84=",
+  "URL": "https://eventable.github.io/vobject/",
+  "LICENSE": "Apache",
+  "ARCH": "any",
+  "BUILDDATE": "1572731280",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "python-dateutil",
+    "python-setuptools"
+  ]
+}

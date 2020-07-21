@@ -1,0 +1,23 @@
+{
+  "FILENAME": "level-zero-loader-0.91.10-3-x86_64.pkg.tar.zst",
+  "NAME": "level-zero-loader",
+  "BASE": "level-zero",
+  "VERSION": "0.91.10-3",
+  "DESC": "API for accessing low level interfaces in oneAPI platform devices (loader)",
+  "CSIZE": "58062",
+  "ISIZE": "307594",
+  "MD5SUM": "94a6766ea8a9ebb06a52c90f18bc1992",
+  "SHA256SUM": "d0e433f2173f2fd7f7a7523044f2a32ac20d157f1374b95f9a2bd3241fe4256f",
+  "PGPSIG": "iQEzBAABCgAdFiEEado014/g79WWrG0EnYk+xNqvkSkFAl6Xqp8ACgkQnYk+xNqvkSlY6gf9FWBXgv4Xii5EhdkH+cZKWnpyGkoxyslkE0eBIiOywwu9GOf2fYXnVqfa+sJU2z5oga7OhDz4DIFL6Zo0e0eEqKim+gbVupdMo/oxxLDT0/u3T55+YCaobJT+B4tcowuGlvCRW9Bu/7SdkTSoyDuBaNI3CkOZt8TthiwOdJIH5MD+0vj9T2ORmv5XWAww52XS1LgyA759GT8ZeWuGCzeB7r6f/qQQ/by+Lk5QQZpdG4BefMluhM5o+OhQDcY7LS/4k5KowNPTDxH336SO+ggAsbSo5iUfiGtWvFuW1B1Q+SVVZYVALGZTFPcgA8TzlXIEZtjsiJm9FbYIEaI9VokD3g==",
+  "URL": "https://spec.oneapi.com/versions/latest/elements/l0/source/index.html",
+  "LICENSE": "MIT",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1586997751",
+  "PACKAGER": "Bruno Pagani <archange@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "gcc-libs"
+  ]
+}

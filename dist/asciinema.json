@@ -1,0 +1,24 @@
+{
+  "FILENAME": "asciinema-2.0.2-3-any.pkg.tar.xz",
+  "NAME": "asciinema",
+  "BASE": "asciinema",
+  "VERSION": "2.0.2-3",
+  "DESC": "Record and share terminal sessions",
+  "CSIZE": "54280",
+  "ISIZE": "200678",
+  "MD5SUM": "3716514414ab55c7d24e89984100013f",
+  "SHA256SUM": "925c07fd138372ca5f32e6dd8953e7a1faa24d9939c0a28c3378eebd4856c95a",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl2/m5gACgkQeGxj8zDXy5L6Ow//XiT3SFceS7VDA3MalSoU4nnoh7neKrrBXExSQKKUviX5U42ap5zoBi+KQl154ohBHYCH8RDDnmYCJB1g4nRg2GifI+EZdqaG1bHyRaHJekEcwM8yBsoh5o5MqkikULI61tYpJfhezybgrcQNMlMZra9Aa5RzLjKO7wiEXexqcKb6dwFmgnt29efz3E3BjO8f7M+h+yYFmEsjWnED5RqWrvm7CTQqCtpr43u83URLLam/CpMZoy9lkNSy8KrZ2435O+NPwpMiJqf3ZDuL/nS2h/Cr7PXbEykgwm2EUxItlEXghbT9owZWiqxmOoTx4atiIr22Xfeo0ORKRkvBatLvWZeikfb2sW8O9HEDuQr1nYKgfrUY0/u9wjNfXLe6psQyWXSx/aKTl2f0GNA7ffd+3E1/NHIi6LR7EJrB2oDm7Zn+iXuPKswvsDAfdekbEXqyUpkI4xrsvMummV5sB8pesThYlshRn3bo+jpQxZvoGYaXcjdbeoyXEsNifd7r9NdgIZZ4k4SHXUil1/DAw2Xiq6W7YvHyuVLZ8xwHvJbjqmSegRDmdWs2KUhvIwcBhRMGuJGVWK0Ru3aG+aMDT3l6L4xq/ImXyy6Kb3GW9yFdO9PXBdozwkq43mhyHimwZGLF53a4ZDxvJuVTOjjOwuJwm6/0OvvhQQQwMevJFY/aFFw=",
+  "URL": "https://asciinema.org/",
+  "LICENSE": "GPL3",
+  "ARCH": "any",
+  "BUILDDATE": "1572838266",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "python",
+    "python-setuptools"
+  ]
+}

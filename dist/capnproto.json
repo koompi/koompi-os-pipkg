@@ -1,0 +1,33 @@
+{
+  "FILENAME": "capnproto-0.8.0-1-x86_64.pkg.tar.zst",
+  "NAME": "capnproto",
+  "BASE": "capnproto",
+  "VERSION": "0.8.0-1",
+  "DESC": "Cap'n Proto serialization/RPC system",
+  "CSIZE": "1834039",
+  "ISIZE": "8599388",
+  "MD5SUM": "26b32c65eac0fe928b55b66599948971",
+  "SHA256SUM": "c48af37019d4e5f921e40e84cec1baaf0214d40f01d199be536741baa2440d1d",
+  "PGPSIG": "iHUEABYIAB0WIQTH54SUZv4jWDQ1iDdyWHNLQcMVSQUCXqH/AwAKCRByWHNLQcMVSdL7AQDko8Kbkvuxa+0+dyMr3DFMmeTuaBdDbZwXvTjSPPXYGQEAwkrf/Pk5Ps8Eu3oZWWaj+C+Nlk4H4OkjXIF1k/vI1gQ=",
+  "URL": "https://capnproto.org/",
+  "LICENSE": "MIT",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1587674739",
+  "PACKAGER": "David Runge <dave@sleepmap.de>",
+  "PROVIDES": [
+    "libcapnp.so=0.8.0-64",
+    "libcapnp-json.so=0.8.0-64",
+    "libcapnp-rpc.so=0.8.0-64",
+    "libcapnpc.so=0.8.0-64",
+    "libkj-async.so=0.8.0-64",
+    "libkj-gzip.so=0.8.0-64",
+    "libkj-http.so=0.8.0-64",
+    "libkj-test.so=0.8.0-64",
+    "libkj.so=0.8.0-64"
+  ],
+  "DEPENDS": [
+    "gcc-libs",
+    "glibc",
+    "zlib"
+  ]
+}

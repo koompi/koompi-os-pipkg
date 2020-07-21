@@ -1,0 +1,24 @@
+{
+  "FILENAME": "lib32-libpgm-5.2.122-5-x86_64.pkg.tar.xz",
+  "NAME": "lib32-libpgm",
+  "BASE": "lib32-libpgm",
+  "VERSION": "5.2.122-5",
+  "DESC": "An implementation of the PGM reliable multicast protocol",
+  "CSIZE": "169608",
+  "ISIZE": "367616",
+  "MD5SUM": "ee08de28c220607d78de4c8ba683f7d3",
+  "SHA256SUM": "b18aabe16c147ec26423318990aa579b32caaf0feba1cca27356ca946aedaafa",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAlvl+DwACgkQeGxj8zDXy5JQjxAArzIl0+X+PNiWd0EgSQCiIYJMyiRLHqHNJmS5z/1ma7akeZCq24eVapToSmdVkuLL8UKuP1gEJoVG001UaOR5YYBk33tF/muNYz+C4Xp7xdQa1qRb9X6qdM6z6Zt2UgVFHSw6+9qH49rLonAr6sgazDtvkNxgMf6DmRAZAGV+zlj2JYhQQBK27K2UIiKtbi7Ciff8CoETl1qZy5/ZqzDDGQ7XqIrsFnbY8H2a188wz2hDj5X+2W+siTSW5pkxPN7UWNCr5mIg2PeC+9gn1x8+FSa4HnJP+ie9KkGclFvd/lgyVonIFXiOJPFqxH9OzNbvxJ76ehowl4CWRpXLyedL27DS6SHxPcfx1Fx4YeE0tnM2LyD2zin+ag82mJGTagIiZT7cOKewuYjEI32aztXLQSqZ+Qz0ZpsZAe5EsyJ9nM077Zs5fqlheHLOegjfwLCsbjiIH6vH2tnUOYjzBrXw90tW8zy18PoRlhrFFzBgfGb5cXcb3pvGwZ1kTrJg+UBMbHamf6aba9zSORph37AGxDXM+HaArBGm4DWH4KjDNgQC9ryZf/KbIPhXSU6nfakOqFZ2qxU5u4sWmjehDx4iaEJrIqB9kpISdjbYl8sSKzKC/GaFSXln0KP/LCzWGSjEw9YkkcUcV4DMT9qyoMtxEf9HhoClI6D/BQhXdr5BPQY=",
+  "URL": "https://github.com/steve-o/openpgm",
+  "LICENSE": "LGPL2.1",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1541797908",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "lib32-glibc",
+    "libpgm"
+  ]
+}

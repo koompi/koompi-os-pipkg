@@ -1,0 +1,23 @@
+{
+  "FILENAME": "grammalecte-1.9.0-1-any.pkg.tar.zst",
+  "NAME": "grammalecte",
+  "BASE": "grammalecte",
+  "VERSION": "1.9.0-1",
+  "DESC": "Grammar and typographic checker dedicated to the French language – standalone version",
+  "CSIZE": "3570174",
+  "ISIZE": "14673575",
+  "MD5SUM": "b13daf07a2e6f527c632fe749c7eb8f5",
+  "SHA256SUM": "fab4b781adcfe77a49aee0e74414f9173479755483fe2167436e75d3e7baf8d0",
+  "PGPSIG": "iQEzBAABCgAdFiEEado014/g79WWrG0EnYk+xNqvkSkFAl6jUlMACgkQnYk+xNqvkSm+0Af5AR0uPHWi68igOelWWWUpzlEw5CoITBhLo/jO4ZgQSrjJwMorUk/GWr2pWmgbdznRkaFDmil8BO/Uj2HVx71zAcqL8Fjrm28WKdC0ACgCTodfAmXOdAZUCeIN8bV2QkD1mS8+mXni2lD72jiarB4fbXNFlnK9+LQvMXClKY6tAyxSE2pnCYtoZetz/7mk1nCH8Wu8rk4KvbrbWsE/0d1in2iDykGnLQm7UXa9n4lce5hVbmMXxqZnfFoiBTyAZk4eNUhXP5gQrtP1O69foaG3QBz3h8yvrbfOGnR1w2CFuFqeQInTPiHmZ1XPQOYQWHMa9iB2D3VFiVxBL0GRnn4XlQ==",
+  "URL": "https://grammalecte.net/",
+  "LICENSE": "GPL3",
+  "ARCH": "any",
+  "BUILDDATE": "1587761459",
+  "PACKAGER": "Bruno Pagani <archange@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "python"
+  ]
+}

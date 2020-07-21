@@ -1,0 +1,24 @@
+{
+  "FILENAME": "waylandpp-0.2.8-1-x86_64.pkg.tar.zst",
+  "NAME": "waylandpp",
+  "BASE": "waylandpp",
+  "VERSION": "0.2.8-1",
+  "DESC": "Wayland C++ bindings",
+  "CSIZE": "240248",
+  "ISIZE": "1396896",
+  "MD5SUM": "409940e90fa0b8e648b44e4e0ee93429",
+  "SHA256SUM": "a7486cc92c0d47c4ed03f9cbd03f5dd664d7d92fdecf3b7a6bff8f51179c08a5",
+  "PGPSIG": "iQIzBAABCAAdFiEE2yJ3vNUAqjglYQvd2zIzknlsoGcFAl766rAACgkQ2zIzknlsoGfm2w/+Mk3Lb0VfoT/AULb7mN2Xt+LXpPgXjElUablaHxqjGavGlketT5Yrrdy5OgUpUThIG57ty6LhwRNSyuSjlbTFQsq1P0lL6MwiBI36z2FhMRx7QIhghVi8+Irb4FaHbPOSpkFnojHDU3MMz6zTp9YsLF0UGJ3MAJfBhULtqK/t8sI8oPfHBB5ST/tHHkjFV1B37/1qkgh5bV1+nBTAir01UNh4ORKH8PdjlbquKEJ1nQsQ6c6+srEAF31o/tgGz9NVOIkh1ZuS8P/ScJ33bh7Jmt3KDprXze2CLsVjbO7TZNHyIcpKgap5AGF4pAIgXgAMy32k87dNHZQCeUDJtscemxnTjsauV8wpr9/TSwecyiSnFB5GMunkeaa+drZnOT1J73zfJ/vmT0//xdiyfrrgTqi4BwB7mD4i7DGEMu+CNbKLPrPpcE4439Guiq1aMqf8jFk9VYlxXQHX6Eg1HDfh/p0gReFMCJfgOsQOzI7pyj9l4bP6Hev1cjq3ozuzwkZS9dZExN0ZoxCpjinzQ3nwCr1t3EAwIbfvR+lBusf5dHSW6fYG/ieS4hqPSS+n63F7SGBmrVmv3WrJfjs7/5QNGDS3OcA1aQCCuD5DkDmfjhdMViFZkO+C0MVcX4+S7nEwtUS9UJ2HG3AsAW3l6TW766eGRGLKPKynfDd6ZLRtVbg=",
+  "URL": "https://github.com/NilsBrause/waylandpp",
+  "LICENSE": "MIT",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1593502321",
+  "PACKAGER": "BlackEagle <ike.devolder@gmail.com>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "wayland",
+    "pugixml"
+  ]
+}

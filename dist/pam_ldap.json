@@ -1,0 +1,24 @@
+{
+  "FILENAME": "pam_ldap-186-6-x86_64.pkg.tar.xz",
+  "NAME": "pam_ldap",
+  "BASE": "pam_ldap",
+  "VERSION": "186-6",
+  "DESC": "LDAP authentication module for the PAM framework",
+  "CSIZE": "27872",
+  "ISIZE": "61440",
+  "MD5SUM": "d4c8a6de78e5d58ddf2a403d8926fb0a",
+  "SHA256SUM": "f157f80651216090d616e6f5fb6c6f2ccd51eeba02d3cac99ced0c80f8c9f492",
+  "PGPSIG": "iQEzBAABCAAdFiEEFRnVq6Zb9vwrc8dWek52CV2KUuQFAlsY4S8ACgkQek52CV2KUuT3dggAgHbR0ZmbmkM7pLXwwI43pEl5CQS7CNMT8H+mL04IyGcARjSltsaTceRaEmxliAL3PWrdzS7xPEn9YmPoclFzX2eGZYvvmByxUn7hFZjHzhdBbCT+TL1EL2RqH4YDbm0QSvNYlZHFy2uEwo2sb2F+YC+iWTEk6JzK6ZksAofVAf1DkOcwDqIOZPr4/pYYEml2XNHBgkxa5J3/O61DLaTwuhbFxe9PnRPLjtC0n48NFWuyacDKDgz/v1hy3WzCkNYa2GCTlF7TFLTGI7Pzr/31gPeR3ZoGsGjey6YgCeuxIjmXMvRtEwdO7TIXeyc79WHRoB3z8vn36w7pNOQcgyjeAA==",
+  "URL": "http://www.padl.com/OSS/pam_ldap.html",
+  "LICENSE": "LGPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1528357055",
+  "PACKAGER": "Antonio Rojas <arojas@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "libldap",
+    "pam"
+  ]
+}

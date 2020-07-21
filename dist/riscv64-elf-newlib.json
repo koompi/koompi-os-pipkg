@@ -1,0 +1,23 @@
+{
+  "FILENAME": "riscv64-elf-newlib-3.3.0-1-any.pkg.tar.zst",
+  "NAME": "riscv64-elf-newlib",
+  "BASE": "riscv64-elf-newlib",
+  "VERSION": "3.3.0-1",
+  "DESC": "A C standard library implementation intended for use on embedded systems (RISCV64 bare metal)",
+  "CSIZE": "5517315",
+  "ISIZE": "73527730",
+  "MD5SUM": "53056b3babfe2025b2ce41890d07389c",
+  "SHA256SUM": "244ef8a135dfefc6af99984ca789b2c9447d0499642c281ebe391b6e002b8d50",
+  "PGPSIG": "iQIzBAABCAAdFiEE0jW0leqs33gyftiw+JPGdIFqqV0FAl5/naAACgkQ+JPGdIFqqV11cRAAqLcQ2Oix30SSObYOdh8x/KAWYBeJtOWUih72t88BLibN340Q1kHiuGQ8JTOHQDN4161G5WQnrnRLSUFzdKoEPS9qs0cYbv0TgUIVA7F94gBh1LqSKkmx7XL/mOtD8fbtUoluWQsYvW3jo2bFWONpJb7pmTM1YaiUR524yE7r7DqLbM7ZzVnDJb/ZB5xywLFi6UWp3FjzZTweTlM+Js11/9MTDROXaB4yV5a+qfyS5As80mji4eRuUCQDKhDNXH87br8wMi1O1Y4KPDDSocmcZqameQLoC9HXgoK+wKJOy2gpmFnUwQoslH/O/cT/Rr9GVS+1PpuBsQn+CnJUbqjNh+ultMlmTlcGtExnYqPm4oIRCb6l0kr7QleXOUwrHz8YztW83JeV17w4z4/G8m3ZNEtdUcrTCsLLVQ8F1mk7LRt6KEceWFGtUuEoJNBUT7nz6wNjCRs9B34+3cplQcMY+nowUniSZxUWiMO7fQFfw6q1J+kc0AIfguW3HsvA++PnvB6XZe2ymiGLsSDv7uXDN1e92djGJI4hYB6SvKfuh4jFmj7ysSqhz6P07fAEH/NpmTxDP7r/jbPXh/ic6Kg0fVmWuuBmBrv40FXM8E1IPLy84cI8I7K316nUMqnmcpAWlcc95cm8FWmpDdFCJfhd9pENl6rj2eFOoC6qCSj4zh0=",
+  "URL": "https://www.sourceware.org/newlib/",
+  "LICENSE": "BSD",
+  "ARCH": "any",
+  "BUILDDATE": "1585420547",
+  "PACKAGER": "Filipe Laíns <lains@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    ""
+  ]
+}

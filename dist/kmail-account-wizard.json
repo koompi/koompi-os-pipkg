@@ -1,0 +1,27 @@
+{
+  "FILENAME": "kmail-account-wizard-20.04.3-1-x86_64.pkg.tar.zst",
+  "NAME": "kmail-account-wizard",
+  "BASE": "kmail-account-wizard",
+  "VERSION": "20.04.3-1",
+  "DESC": "KMail account wizard",
+  "CSIZE": "477249",
+  "ISIZE": "2285794",
+  "MD5SUM": "4c6858dadc3ed962b003086702ece74a",
+  "SHA256SUM": "6cdc06e53f762ea7bacd5c92ac294baf5a2c24f86260523096736fb70690d476",
+  "PGPSIG": "iQEzBAABCAAdFiEEFRnVq6Zb9vwrc8dWek52CV2KUuQFAl8HIGAACgkQek52CV2KUuQMswgAl7cFmGM34IO9/f9kF9c6ZSjlpFWE7csaIkBH2NFSSyROWRiCk+bBFPtFAF9JzS6uh5PM1SUmbkdEUFnGrI4JW2SpYTLQVqRVcJhdklSryCIF+OdT0HBJezB9Xno48ndH+o9IbeJ7mNl+YkTYUxstVcUgY8fONT2iUWin5wsHfa5IB9l74sH0gju7D2eHlGGWoMCpxH3UO/U0z+SCXkvHznoa0On4xWb4iTuCH4LBBb8voWmRwwYLEZLp+UPypm39FlUoRApgoLDUHlgzjZUXrzZo+fkAuZSURex1dUKAsDsTmXTKd0EbmsHLH9H+JlvBAxkGD6eZtXApcuC8smF+DA==",
+  "URL": "https://kontact.kde.org",
+  "LICENSE": "GPL2",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1594112745",
+  "PACKAGER": "Antonio Rojas <arojas@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "kidentitymanagement",
+    "libkleo",
+    "pimcommon",
+    "kmailtransport",
+    "kross"
+  ]
+}

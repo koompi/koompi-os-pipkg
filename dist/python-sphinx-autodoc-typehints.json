@@ -1,0 +1,25 @@
+{
+  "FILENAME": "python-sphinx-autodoc-typehints-1.8.0-3-any.pkg.tar.xz",
+  "NAME": "python-sphinx-autodoc-typehints",
+  "BASE": "python-sphinx-autodoc-typehints",
+  "VERSION": "1.8.0-3",
+  "DESC": "Type hints support for the Sphinx autodoc extension",
+  "CSIZE": "14888",
+  "ISIZE": "45579",
+  "MD5SUM": "a111f987dd188572395659ca8b6b9712",
+  "SHA256SUM": "f0b81ebe6c08772ddef4378bb0107ea43ce7d21de8a07017603e9fd237b79dfe",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl2+A5cACgkQeGxj8zDXy5Ittg//U4/7svdr6Sd5suyKh2qMK7JT53XLpAGE+ixOlf8RqhYi88AEcVwFZ9jSCkve0qHw9BsZEWcCrpSYe8d+D1zJgoXlQMalEAri+pIrA8qKsEIhHGi99apoDJBE79zoXxl2AkcDKHYe9qn1Ky4B1lXmoiuotRquRb7V31Q9tb158PdA0EXvxlG50uXRG3VgHLh8L8ZnW1gens6ztGUJtgUsmCdmi0JoEN+v3m+kErimelARS0mOyiwsWQ9HiOxqA98OvxPBG6N2uNy+ju2xRB6r0oFnvgf8uuQktDRvIZDvLfQXubTpELZR9ZbodajX5iR6utSVt06xw1ZT8D5rBn2ePVHy1mc1VTJ7jpWGqMG0vVFnNcFipsna/ZnQE79LPbtmqGI0Kgo/1IuYfQzrHS0kQIA3I0lSA7zr0HBArNwbl+KGSUbBxXHlRhpa8FMKHkBoE4xmXxFwJdCV0Eng7AUFpME6dso+4wbq+/ORHL/YBGLTPJf3q+vRDFzaLmHmE5ncuoSrcyNZ7pZYMYc9UTfHiB9WMJ91erZxSLPFhHj0QivI4XjqNSJ83Rke29HSYopjy63qOf3kztzAu+6z5gcPF8rY9Sfum8/jlMUX+JrNNGLkQ6ywOiRy1L2yxGz7+Bi4HWNCRX1TDt4JWl4CVVrJwYXL8RjQm1jHjrnQE3zJbkk=",
+  "URL": "https://github.com/agronholm/sphinx-autodoc-typehints",
+  "LICENSE": "MIT",
+  "ARCH": "any",
+  "BUILDDATE": "1572733819",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "python",
+    "python-sphinx",
+    "python-typing_extensions"
+  ]
+}

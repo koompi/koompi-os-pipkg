@@ -1,0 +1,23 @@
+{
+  "FILENAME": "vim-guicolorscheme-1.2-6-any.pkg.tar.zst",
+  "NAME": "vim-guicolorscheme",
+  "BASE": "vim-guicolorscheme",
+  "VERSION": "1.2-6",
+  "DESC": "Auto convert gui-only colorschemes to 88/256 color terminal schemes",
+  "CSIZE": "4044",
+  "ISIZE": "8336",
+  "MD5SUM": "937f63004edcd34c66f64ae6a0301187",
+  "SHA256SUM": "379ad0f40e37c8d22a2065ed5c7bdbb45f9f3abfd38a05fd216f7583ab679253",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl8EnSgACgkQeGxj8zDXy5IJfA/+OPugCbTTdVHYa+RAt7eFa6RdzL0x0z9gg0uFVolk5QcVGkXInoxjLeT5iePe24vrrVguiQIvV7vqRErevboj0CpfOxqUOiVHw2mXXfglPSfYHk+uvcXQLRH7VYqcKtGbTangYpsybEHpKGh2lLFrDh/lwSJ1+O31mhnNrDikP1mqoJrZoI9xqKebLnkmljs6G4Ru8RpcDLKDb5KHl6KLoTpTliSJ20VIGsx2U8G957ZXkSXjlt0BSApTwUdNIi9v9zt96HLrafnVFwMz1OrAKKsBDuX9D5TwULz1EenjtWUMd3twBFA4G99ZVjglW/pMtZ9AOjquNQ83gZefy1toidJwp7tC+K6NyXl/ePAl+/KG4TTJcjnwZ4XQgmLZG+09lV1efLh8vDJ2O8MvKRts6+C+HMEdudRjctyHK/GoTIpXRXXM6leZ36inq1h5/xr39uZLgpZXee3nhjKlQp2zg5y5jleiYeSqR4s5XZxdgjFxYdxMpp/UOp1CY3XWVVRKOS+QLdVqfSXGcNv23QlFhHGm72RxWgfI+1kqi+LAgM/b4R1mtigbMFjarhVxLzj7N+xEEOjew5jl/nbWZtYuiejAtNRb2jdnEn5whYvHTPRlTh/XRxaFDfZHmz8uMhNmk9aj3ibUKPSRmzWIqHsBvSDFt9XrKJskx5ApbL34PwE=",
+  "URL": "http://www.vim.org/scripts/script.php?script_id=1809",
+  "LICENSE": "GPL",
+  "ARCH": "any",
+  "BUILDDATE": "1594137850",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "vim"
+  ]
+}

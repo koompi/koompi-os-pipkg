@@ -1,0 +1,23 @@
+{
+  "FILENAME": "libsysstat-0.4.3-1-x86_64.pkg.tar.zst",
+  "NAME": "libsysstat",
+  "BASE": "libsysstat",
+  "VERSION": "0.4.3-1",
+  "DESC": "Library to query system statistics (net, resource usage, ...)",
+  "CSIZE": "33041",
+  "ISIZE": "101009",
+  "MD5SUM": "30d4391bb71f145bb1afc4ccb6a10647",
+  "SHA256SUM": "a433dbf62007faa803a0fdea6b0cbcf20f94fa774b2ef55248e90a80af47890c",
+  "PGPSIG": "iHUEABEIAB0WIQS5AcQXHI3QLG8vSWv5jvKnsKCYrgUCXqOkIgAKCRD5jvKnsKCYruTHAPsGXoxfj3MB+WGzqXVFktLfbnotXpFRM8L6imUmbv4zeAD9HIliJNWTw6U5rSummEooqhGAESdZ/OAm0YJc0NVGbxs=",
+  "URL": "https://lxqt.org",
+  "LICENSE": "LGPL2.1",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1587782599",
+  "PACKAGER": "Chih-Hsuan Yen <yan12125@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "qt5-base"
+  ]
+}

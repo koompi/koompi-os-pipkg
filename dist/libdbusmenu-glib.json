@@ -1,0 +1,23 @@
+{
+  "FILENAME": "libdbusmenu-glib-16.04.0-4-x86_64.pkg.tar.zst",
+  "NAME": "libdbusmenu-glib",
+  "BASE": "libdbusmenu",
+  "VERSION": "16.04.0-4",
+  "DESC": "Library for passing menus over DBus",
+  "CSIZE": "72068",
+  "ISIZE": "376278",
+  "MD5SUM": "3bfdc4c4e4a71f875b484353e865e64a",
+  "SHA256SUM": "9f46270fc86724c58fe16ad0d1f29ebe9ee38b5687577c7b94c04bb189e06bc9",
+  "PGPSIG": "iQEzBAABCAAdFiEEzgvecadZqH8j8PfYth284QkBwWMFAl5pgPcACgkQth284QkBwWMNEwf+PCceakZmZf5jfqzm7ThC82mSE4uc5n39uU33+Vdn0/BpC8zZ2onc/0TUhJA2pvNchZojJR0Ei5uwyhHff8w6hQHiAkh/Sm8JrnAdgM2bEF5Rk9AT7R/ZLjSfTBLPMTqTHNzstUpQURXoU3uiGZV4n8rwy/I6t6GO7bnMw2IgRAvfjYIZ/2HHDPkUf19mpI50/4EI2lacS83koDFcDI1FwLLid0aKp539LIk7B6NqeysO9SEo/mvTA8jPgSZiT2hkdTLD+Y7YBZGtqVQj/STAsm0kRMybyOvu3OmNMMuo8bEakuVYVMHjWxWTNIkDkVbn53L5opMnmMnwew6/7LlxHw==",
+  "URL": "https://launchpad.net/libdbusmenu",
+  "LICENSE": "GPL3",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1583972497",
+  "PACKAGER": "Balló György <ballogyor+arch@gmail.com>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "glib2"
+  ]
+}

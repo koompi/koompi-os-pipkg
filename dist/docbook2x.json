@@ -1,0 +1,29 @@
+{
+  "FILENAME": "docbook2x-0.8.8-17-x86_64.pkg.tar.zst",
+  "NAME": "docbook2x",
+  "BASE": "docbook2x",
+  "VERSION": "0.8.8-17",
+  "DESC": "A software package that converts DocBook documents into the traditional Unix man page format and the GNU Texinfo format.",
+  "CSIZE": "293927",
+  "ISIZE": "1332487",
+  "MD5SUM": "cda49ac9829e00448ca123dff65d3910",
+  "SHA256SUM": "a4b316c2c98e6eaf474e81cd7b42f34da08cf3d7a15c6ebe860b9bc8c552bbff",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl8EeAoACgkQeGxj8zDXy5L48hAAhvOrUzPeYqI99AuMANhNleQh3JMqh0HTbmC3V2NOpbyWid7KCM1tyjUGw1ICoPqcMYaUZZ/l3ii9k3OaZmk07ysvjjUlhAnW2REX2SYNnB0QJxFLvwQZjy46vGk6Rx36sXp1cVyqJmq1+yuzwqCphfw0tuSQ2jEDONF8nUO3PFdTjGDvxRDdlBXUc4mphEM/seFEfZjequhiJlfUSAbfyERpSy6FlEhkxnHFajZtQiCSvS697Rhz4gP/MIW0gK3hQon47sYCcMNdHiPijtmJq01eIJ0+IKnUu8fFf1+o8MTv85taBkLr9gcnvHn19z1NPoFShYcTA0WozebQvacmblNiUpQAaRkaEJlMq9ppfBowjHAjoQaza4s+hqe3XQ4JKPzBNGjztWTdmWlZte0HC7ogAdMwAfU0TAiF1EKNWOy54M6Vk3friMZd0/vEhwnfaXORpnsARv7KuByLAFz8LQI2y/ZHv4/YweKcJgh3BObHNjgPLB/mXxkESTLPkBVYDIUDVwr8WOYTzBIF7qpYEsGNPw/6zCOrUByEZDU43QhUAiHHyT6qlKHJkJpXvIQYYvDDv+U881DpkMFRfDZjavCG4dabRp8L6CO8Fp1Un49Sb2By2qQxGvRqSsGsckurKyfI2dLoSPLJ+s9oMjhhhMkRVl1NteEo8psKNEsSWJo=",
+  "URL": "http://docbook2x.sourceforge.net",
+  "LICENSE": "MIT",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1594128309",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "glibc",
+    "perl-sgmls",
+    "perl-xml-parser",
+    "perl-xml-sax",
+    "libxslt",
+    "jade",
+    "perl-xml-sax-expat"
+  ]
+}

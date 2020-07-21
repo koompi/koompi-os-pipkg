@@ -1,0 +1,25 @@
+{
+  "FILENAME": "node-gyp-7.0.0-2-any.pkg.tar.zst",
+  "NAME": "node-gyp",
+  "BASE": "node-gyp",
+  "VERSION": "7.0.0-2",
+  "DESC": "Node.js native addon build tool",
+  "CSIZE": "1263725",
+  "ISIZE": "6785934",
+  "MD5SUM": "5471856eb8b65d3cff57c5c73e0339f3",
+  "SHA256SUM": "bc40b307e6f856503da7763ca8dcb01acb62b37d5fe6c00a43d8b8cc472a454c",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl8DAJsACgkQeGxj8zDXy5KHtQ/9Hs+uodF+oyN2mW9dluhZCwn30tzxuxrBieud/7xJb5R/nLXZ/lz4HrjZrOhkDOyGK4GefbiPPKft7MJB8uocCjCq8XAyZ3owaw8ZN+vP/I/LiFGgqopr1TO4zTrzlLAMy7OWfEJ0qxIk0WwuXouFGYx/b1tycI25Kc7F1Ghzex4ZnZdOVmXdutz4EqJlyXxpQ4xH2BuIx3dmYy1NjP7B868j8UqMmtLwTMR/fQ1g/yYdbhqvh30DRCi5uJyX4Jow0RgYlsBCoRi3yfPgACtaFYalQ/kVtJY9BtAE6rtdpyILRAtKaZ7J35Sx8HQ2WJKN9dIB7Z05PJTbfvh2+tgYydEywpSdV8Z8xIP1VmUTnBLogo3v/zppX26/5UV0tmbwULGONHxTPFbpvS9xxVV0DvRmsz7YhKIQbBZXQTYwJXx7Y25S0KpVCLxdKGm++2cUj9/w2XNwIF/WKV/Dn21YZJnQEz2Q4HaTrYq3yA27vTe+SpN82G9jW0ompjXG3BIgc3XjJvjWw0/JVBKjr9ZpSL02D6bPc+0zq0cw2cnKigRCjm1qufRwN3BEFOivKSIdsa0Bi6ieOrVhCAU5wXMP0NjF3da/cayIcNkFi8N57nKwHcZjti+FCXB1xumoFAmHcGZ7yb7LH0yAxvEsAxt+3lmeAv+RpkYhZMYG8Qq49tM=",
+  "URL": "https://github.com/nodejs/node-gyp",
+  "LICENSE": "MIT",
+  "ARCH": "any",
+  "BUILDDATE": "1594032213",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "nodejs",
+    "python",
+    "semver"
+  ]
+}

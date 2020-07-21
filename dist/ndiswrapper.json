@@ -1,0 +1,24 @@
+{
+  "FILENAME": "ndiswrapper-1.62-3-x86_64.pkg.tar.zst",
+  "NAME": "ndiswrapper",
+  "BASE": "ndiswrapper",
+  "VERSION": "1.62-3",
+  "DESC": "Module for NDIS (Windows Network Drivers) drivers supplied by vendors",
+  "CSIZE": "17969",
+  "ISIZE": "53144",
+  "MD5SUM": "7eb1279ffb01ac2f2d6d62453322fc5d",
+  "SHA256SUM": "6fb9275722f0ebc54c6f1f89a2cb5e949658b5bd88d01a5e7c6cbe76aa12370a",
+  "PGPSIG": "iQIzBAABCgAdFiEEYEETBMCdNmKDQO7/zrFn77VyK9YFAl66FWoACgkQzrFn77VyK9aRZg//Uqd68oD6hD2bp3Yrjup6SrgbRPdBceOw4QLWsklIA6Bqg3i9m916gxgP1emhXTHGzPMKpn1ZV3A5ADT8k7HaNmmyWtlZOtEvfT6oiR8hpXsR6Zmq0FC37TUqqFX4scGBmPnMA0MhynF2VyGhRP13VR+2i5DXOwU/01p83vXD0Dv0Jq7YCb8AO3+YLMPCFscI8hWpPF/E6ptS6PR0TUM6WkNkrMJ7DATDb5Qhj9eZlomja8cCz3lc5UyfQ5HOEDpcEdWvwsSvmIlPOJDgyb5TWUkomST7vPCiYf5AG1oY0Fwu9Q2MTLMBvTwlz+ryHb9CLYoDf8xcvc8MoaDQT4OwOJsVl+zsjwrALOL3y6cW4njszoC8+6jybBnsof1ttkRa7HI3M3XzzkkYQ0nulw9eQvF8mB/hhBnwBqS5m1G6JsGJHb8vr9+OUupjcTrEFgFKyFSyHwh35FuIbn5xsgQmWcWtu/ydVlBZ/XGQI4B8a+CXeEM7TTJfIYS+WnACJ/Icn5z8VZFaBc/1m4tqKzftxqYK24vsgzfI7Z/zSs8cjdBhasijCZmrKvl/c+uNKn14a7A10Fc/+pg+n+mO0uAjRGEWZYRNEZZN3SQvPOfjxmgaXnnLcC/4Ybk2P/IRRKDg8B2kwmpWGvCVA5Ed38zOzjtHpuLde6X3r/NvdmseXbs=",
+  "URL": "https://sourceforge.net/projects/ndiswrapper/",
+  "LICENSE": "GPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1589253385",
+  "PACKAGER": "Eli Schwartz <eschwartz@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "perl",
+    "NDISWRAPPER-MODULE"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "FILENAME": "python-patsy-0.5.1-4-any.pkg.tar.xz",
+  "NAME": "python-patsy",
+  "BASE": "python-patsy",
+  "VERSION": "0.5.1-4",
+  "DESC": "A Python package for describing statistical models using symbolic formulas",
+  "CSIZE": "272992",
+  "ISIZE": "1995814",
+  "MD5SUM": "e6ea008b7b0af7d006f840adf5fa1737",
+  "SHA256SUM": "17f6aa5490a7801b0c320964abfaf5b20a855b4d24dc1f23fb2bfd5c19dda035",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl2+xkMACgkQeGxj8zDXy5Kk8BAAiObQk6abLF6vAsL+5FLrdp2Sedpr8jlCJYlaZNy4WuEFQQ8wal9CjlVnl7kIxmoozg6uDP5WR2CBcaiFyKragq7J7tRXLSKaGDBb06AFmejJzBU840qrfWn2mpAjyQCM/NYIs8gTrsi8Qq0D7qp562fdPgFdGaSJRlfPgJmtc6/G19k6R82LF91pwsfCSz2cBF0g4NpPlufIP9xQRvmzUGd/GCEFW2QzILQLM6sH4oGAARQ1pZGYQE1teYvHkXA2saU9uwvKNa5+ujdN22jQkPXjIfC9MM9wgd7+1jLfYI+8diR6sn6d/A2Is33zOMNo7F6eFWoGtYDb1WoUspOxytxLzDubm0v5+xEubiXVue+hGredgse66nxHTTpXDo8VFRfRDx5qNiHIJp3yt4Qy0DyoLjCdZZOS7O8Fw98pZsstztcUVwaSoWocNyTfmzteW1S8aZha51fNfZrq8AmMurrD1NH/EcGYnMGz5PJ4QLiSN7lBT0asRyiECf/OvjG5P7HNy2/v+yptKwckM6klxySri5G5cSj8X0Z32LoSRhhc4aSngHp/wgb3Z6ggJNLJsZdkFsFsMtq/F56a8RgrNTXkFhE1heRhLovMfdQXwdFfSw0qonSAz0whudQnTjUjQPz8CIj916o1MXc1Fmy+Iv8ggtKa40U7FHXBJhETugY=",
+  "URL": "https://github.com/pydata/patsy",
+  "LICENSE": "BSD",
+  "ARCH": "any",
+  "BUILDDATE": "1572783619",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "python-numpy"
+  ]
+}

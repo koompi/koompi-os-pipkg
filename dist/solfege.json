@@ -1,0 +1,25 @@
+{
+  "FILENAME": "solfege-3.23.4-4-x86_64.pkg.tar.zst",
+  "NAME": "solfege",
+  "BASE": "solfege",
+  "VERSION": "3.23.4-4",
+  "DESC": "Music education and ear training software",
+  "CSIZE": "4270338",
+  "ISIZE": "15650492",
+  "MD5SUM": "d0d44f78d59532de2b58c83dc8691be5",
+  "SHA256SUM": "88c875467deb7e5ca458b412903793e3dd004ce2b98abee6296b894a28fee6e0",
+  "PGPSIG": "iQEzBAABCAAdFiEEzgvecadZqH8j8PfYth284QkBwWMFAl5qHXcACgkQth284QkBwWPvtQgAgcmU1zR9kP+HLcvAix1g9MZbZyjMPv+lyEm4aEAlEomYLS/0TKrIQGY/nASoeMtBGDodN/q0kg+XpfPeBREqYkSqUbliGyNPg0/Srhntj40YsoMLNIZmueG9E9yX4gyUnI5oi5CSgQC0VCnhDAxR/oWFHV+94YiHXPM7gEJ7IbBeRpTKXUIV3sn38sJPWyaJQm7v1tJi/lY3B2YieRoKiNrUzZx6mj5zOoVpykiJoggXbBchCv9padzRd89p4EUW7DWCKkGu8+oWN9qaHBOIf4CcpsmEU3ILRqNqVKVAg6q1oTn0lTMQimmcWEa71C1Xz5kPVzzL6r7XVYe5VFmxZQ==",
+  "URL": "https://www.gnu.org/software/solfege/",
+  "LICENSE": "GPL3",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1584012414",
+  "PACKAGER": "Balló György <ballogyor+arch@gmail.com>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "gtk3",
+    "python-cairo",
+    "python-gobject"
+  ]
+}

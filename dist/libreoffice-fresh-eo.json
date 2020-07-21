@@ -1,0 +1,23 @@
+{
+  "FILENAME": "libreoffice-fresh-eo-6.4.5-1-any.pkg.tar.zst",
+  "NAME": "libreoffice-fresh-eo",
+  "BASE": "libreoffice-fresh-i18n",
+  "VERSION": "6.4.5-1",
+  "DESC": "Esperanto language pack for LibreOffice Fresh",
+  "CSIZE": "3090795",
+  "ISIZE": "22431558",
+  "MD5SUM": "9258c55fcffa4095cd97004063bb5e0d",
+  "SHA256SUM": "9fff00eeeb829d87e15794af9e581b9a4c6ad015b9bbb9ee31747e864aa24c63",
+  "PGPSIG": "iQEzBAABCAAdFiEErcih/MFeAdRTEEGelGV6sg8qCSsFAl7+FwYACgkQlGV6sg8qCSuCewf/cLl2JB5nhG1G9uwg5DGitkFK7NBTXPqHcexmCIkvhPQgCF2JJ1JDqbs639ssYYMTKycgnm8a8fabockaAWeQbpndtVI3vseQ6cM8ns4ky2SO6SugLzOsrmv4yxEgSPvpyGqlfmTjhCI3RMg2eM4uZt02W1XbaMrO+nXTyG98J+AADZmH35pPDGTvpjoDZmb89/4enyaQSDr8Hl33x7bW6KsC32py8lJtUMvRcLUbaAqp2cRFcSC44M2UlEdD+6n0dYf1k296LivpZb0CivKbZz37mkQkT1Ox/EuLuEgW8MG4J3yTEnmSIorM0GT2R28yavjHvLiEiIc69HftTiDPHQ==",
+  "URL": "https://www.documentfoundation.org",
+  "LICENSE": "LGPL",
+  "ARCH": "any",
+  "BUILDDATE": "1593700315",
+  "PACKAGER": "Andreas Radke <andyrtr@archlinux.org>",
+  "PROVIDES": [
+    "libreoffice-eo"
+  ],
+  "DEPENDS": [
+    "libreoffice-fresh"
+  ]
+}

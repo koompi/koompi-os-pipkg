@@ -1,0 +1,25 @@
+{
+  "FILENAME": "python-watchdog-0.10.3-1-any.pkg.tar.zst",
+  "NAME": "python-watchdog",
+  "BASE": "python-watchdog",
+  "VERSION": "0.10.3-1",
+  "DESC": "Python API and shell utilities to monitor file system events",
+  "CSIZE": "94554",
+  "ISIZE": "528586",
+  "MD5SUM": "1247206a58d3cee2b352669b452477e9",
+  "SHA256SUM": "2c7814510bc0b617e016bf8657205b029e571609cb751316d5616ea813c7bdd0",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl71Wb8ACgkQeGxj8zDXy5J8vg/+OC9TVtR86shfaMheU+kl1rqESuCmxWFAcfiu2s8ymDwMvghvUOH/qi9hdZnUgWtzyob9/lEDD8gsgSE9ypcX6yb3zG7SMin7rs5riBhNUIn8zxYgQUH+w3u8/KEWG7IotpkbRosCL7/cQqGIjD8XwMVoitwboulk7ydTp4NVCmll2nPZtmOsdVEEXgPPW2+Xi8D1dnM0hG+z3SE2IyEgn2hCqBc4BbEFHGCDcrHv292Uvd8gBnKXCt1ztQRFNi7BSQVSv3T/dCY5E2+/1DP2ZwLheuoK0FGqmUHkm+/itN64vWRpy/Z67P4+7Q7TINvQDoOnO9ikzgsjeY572yA1X0B5T5hcAIPZuy8Ix7+CzYSvuOVR9s0/yJ0RGUgTxT7RWiHOcjQUhUwMiJyqoJ4tCGBPcowrW11i3Ch/vAmfZ5M2FDwbW7nYx6ddb/epfnsbAluzrOVX8AKbWngKzVna2P7yviqawIl31xtSPgsSy4b+5cpMPjgl0qUVFutt6kKpCGZUWwmpc2Woo3Qgc4HXt4OYXhQCE354h6NNKgRLRq5UdTq3k1gxjoc9vNn2FfF+fSUbYFD2LdZNSmE/INqBMxESfBpOVdPXcxh1m09rt37uykyaFAT7bYhydSf1KZDy6b5W2ZOd02mS5VfQiL3LLwgst+Yi8VebBDWf9mkTqJY=",
+  "URL": "https://pypi.python.org/pypi/watchdog",
+  "LICENSE": "Apache",
+  "ARCH": "any",
+  "BUILDDATE": "1593137541",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "python-pathtools",
+    "python-yaml",
+    "python-argh"
+  ]
+}

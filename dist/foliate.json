@@ -1,0 +1,25 @@
+{
+  "FILENAME": "foliate-2.4.0-2-x86_64.pkg.tar.zst",
+  "NAME": "foliate",
+  "BASE": "foliate",
+  "VERSION": "2.4.0-2",
+  "DESC": "A simple and modern GTK eBook reader",
+  "CSIZE": "859768",
+  "ISIZE": "4483531",
+  "MD5SUM": "b5f44f5028c0f3aa061c4dccd0c35129",
+  "SHA256SUM": "2c0914c884975fee50fc097a074f4c3f9ee359377994e4fff1388ab8e161b1f7",
+  "PGPSIG": "iQIzBAABCAAdFiEEFpcExvtJDGiSx/I8N+CvH9pI83MFAl8A9PgACgkQN+CvH9pI83NpqA//YzOPu0/h5DVPT0O0SrNjO4NoTQzMVBedXN9nmI6Btv7pshO58rupbBdFwNvJJTVnEo7iyOXOfOqS4pNPneq+meThXdGu9VEtF1ptudlVXLQUJxyNNVDRue1tOIMtruJAHm26tjDb0lNSI/rhLcZK7sIRCUGclv3VfmvSQJhdMfTETRiekPXKIn/aK/iMLWltcXBO4of+eR3Satq/Yi9WMT+ROWDirlOO1sstW6/CgNrEcy1miuiD6T7OOh6R4oc9ZOIcbcn+l1AnXUvPLyILytA36EWRfb2qxdZotldEtg+6QzHPDvyyGSs/h1g/q9qG546dufhSbJu+OrP7zaXBsRJUb9lZDw3kQG7xe7uYply1qEKHn/KvMi70z4QylhuJ4NFA2A6nsM1aaEzaaJguN3tZn7Z1VMVTwTvisC1iNL4tqX9JQ3KHVYdamjBjPKi/PrOi+y8AwNUS8LH0BtbWI77DaGxFr5r2gJSNK0ftt+TysjgwQdBe0tDdMCYQt3tsUXg3q5MobP54ff26ossalOAaAleDtwO7wC8qrk9gMkRFmJvgoC9nMQfCWkFEZDIyYiqqY1M7NhLwjujzsXgN0CoUtDgEu2OsdxfKe+mIbAkluxsXD2a9BYwHAjtjWL/jgDce63MGUShGZ6I2y8neT2tXjwbwjHeRvp9HeZKmgcA=",
+  "URL": "https://johnfactotum.github.io/foliate/",
+  "LICENSE": "GPL3",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1593898200",
+  "PACKAGER": "Jerome Leclanche <jerome@leclan.ch>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "gjs",
+    "iso-codes",
+    "webkit2gtk"
+  ]
+}

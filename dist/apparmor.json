@@ -1,0 +1,25 @@
+{
+  "FILENAME": "apparmor-2.13.4-6-x86_64.pkg.tar.zst",
+  "NAME": "apparmor",
+  "BASE": "apparmor",
+  "VERSION": "2.13.4-6",
+  "DESC": "Mandatory Access Control (MAC) using Linux Security Module (LSM)",
+  "CSIZE": "1079846",
+  "ISIZE": "3907463",
+  "MD5SUM": "cbb5e19fd10032a2ddc8637645e1c238",
+  "SHA256SUM": "9208b04da09f68d784368192a31700c447379089454ce8d8b8e6b6bbdc864973",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl7viXkACgkQeGxj8zDXy5JscBAAmNLSwkthED+xkzfT8lheeLyziYA2LffEluS4AtUiV8WZDT10FJadOgHKDQVDeHb7l4cle8k82oEO9/BjSE1A7ykOQ1ygpCb1cadm3Yp59HbPkBuWjzn+mlfZPMqrT0ZRvlzSWOxo+fNC7kazjhqF7jpnO6FHLpe1io2wrDYm+TmnkyTi0GkWG9IhXcCmpozVBwF4kpF4aNAgegQ4Gt1MUoqvkUxM5E6YdqCMUu2qr1bAfDK0utBMXOQjcb4M8QPhKT374zmNVPfEwhWRPsDPqBjiSUsreYrDEXfaOneW0epAPgj58oXcxZ+MxgmlWstuMy8xug5SMc+ijVL2N88MES0ofCE6ik3tuVIRkn+6ub7vgIlT25PTU3Vb82YZQNE3BkkRJUTdx6vAa4NZk9BLWsSxDpQ71pOmxNwjm/DofbzID3HqFG0sTMlN8WK1DlF1gXSFiBnRBRidyTt70bMXnsJYB4x6Yt7InVcDLUR2L0kM+EeZ064emc/8gdvXAEtIBvZdnjktE1K8IgUT5+UNgQ8FTKRiwhU5Zzq9LAAHn8YWfQponjgZWNtn8Gyia6KfvvNL6Di0qCe7xPKqmu5eN+FiIsGXO9oosq306EML+MeJ3bEZ9nHTqJ8ZjOPdRHjmyDX4ehd+3OpFVl7I4SonHgn7ljhTrWl6Nkrm5QuF4Mk=",
+  "URL": "https://gitlab.com/apparmor/apparmor",
+  "LICENSE": "GPL2",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1592755985",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    "libapparmor.so=1-64"
+  ],
+  "DEPENDS": [
+    "audit",
+    "pam",
+    "python"
+  ]
+}

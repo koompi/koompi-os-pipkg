@@ -1,0 +1,23 @@
+{
+  "FILENAME": "tokei-12.0.3-1-x86_64.pkg.tar.zst",
+  "NAME": "tokei",
+  "BASE": "tokei",
+  "VERSION": "12.0.3-1",
+  "DESC": "A blazingly fast CLOC (Count Lines Of Code) program",
+  "CSIZE": "1187454",
+  "ISIZE": "3813961",
+  "MD5SUM": "5e2a64f38ae3293346387173c5c6cae6",
+  "SHA256SUM": "238846117c6a6b1dbddf7f02d93c25dc70c56bb04ab32a48d4faf8402cb72717",
+  "PGPSIG": "iQIzBAABCAAdFiEEj8FaBklQqZ3RvRTdOeS4d+YuuRUFAl7x6+EACgkQOeS4d+YuuRXPlBAAxg+BdH3q3ufv239A0SB+5UFkkVw3t2m7PgCJyeaHuE+8OdRxoTmbCeN9XyiPf6kjknaMdhq2kSdSPT2wOpuwO6apTF5IZCkPYAwRZ5J/ZjXltJbb1FK/pCMpAbAp3MEdSsqepWAkc5SrdDNDRvzyzqLbGDhp7QGuLT2doeDFipmArmbFVlw4oUbYJGd1xYKSo7pQ+1+MILYxVSRRRTBsi0fUUO8m6inFnvLV06F6BEObGcSsquAzF7gTESU4rxAVqJkUQMXrf+b+DibU6164x2EydGT7ho9cTPfSCX3GKsTFi+8S39cUzbLDYrlVq7pTJZxaIITwP94O73E8wnsU5ZGseOl1fnpR/fO75+GCmjNbDAdLGsP1wpFekO3u8O6W6O+VbOguh+vAR1ppDfEliOQsCJ7AyuuPGJTyM3vmyw4ocZqkGQzDSsAaug//c8PvjkPGhVYof0qbTi64ceepAaH3vkJgpBDrY7M+acPJYtn98rLRRo4QescsGq9BTTtWZCwp9aBJQRFID8ty/k3nbfkbsKeaAQjKQaoFDjuHJ2MpGoxFucKmeGGpegmEBAjWOd50cVFAwlaUJIlKOXtPot9nUCaLBlT6yS0cCItp35lxry8noAQtmviGQpFXpevqLa5K+uPTVdZKXF1luzcHoY7cNOpBy3x7eB00LANb+LA=",
+  "URL": "https://github.com/XAMPPRocky/tokei",
+  "LICENSE": "MIT",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1592912672",
+  "PACKAGER": "Sven-Hendrik Haase <svenstaro@gmail.com>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "gcc-libs"
+  ]
+}

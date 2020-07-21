@@ -1,0 +1,27 @@
+{
+  "FILENAME": "haskell-hashtables-1.2.3.4-27-x86_64.pkg.tar.zst",
+  "NAME": "haskell-hashtables",
+  "BASE": "haskell-hashtables",
+  "VERSION": "1.2.3.4-27",
+  "DESC": "Mutable hash tables in the ST monad",
+  "CSIZE": "159954",
+  "ISIZE": "894375",
+  "MD5SUM": "62c192d642123f52632cc70778721799",
+  "SHA256SUM": "5758511e80024e15c2128c61f3426bb38456ae72ab0c6c2db782cc9797229748",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl75CYgACgkQeGxj8zDXy5KB7w//doFydw/25VNWbl5iotKdJIdh0kySPR1ORxOWXKdQHKBctdgmxkJcIWj1nh3pzWyFX1EgPuweT4cckJEQEKvq3fdlrdaQ8McE/S1A6kBQ9RhEfexI93KcWr7SsoBYiFDhPqiboHuShNoIX8NFoq3pNxyih8TutNP+kYTvk0jOQVAW413SDla4VUf8IFason8eRd9p24VbpNrpCTv/9P/BwZ9oabLI1Q3L0KDPyDHODNc/dB1hOlEWWp0e8BjBO2HWsK/ANsmrke7tfIuvvZPcQxJ1OVnCGCwfa7SNPATw+RWgN9gOSpN9xUeCX9aeBDQEPHAARBclBfkVNjL6HKHWuHVTSoLfUbzbej0D149CR5EDErO4pKAWaWW5BCIQfGkvkZW95P+SCSdGVopig8jwZyQ4CkLfsLAijlKrIBDu0Xw8IdLzv4E9VymAVEyx13UtsbuXGHHOcSHZOBb/VGkQo3S6Prf0Jb7Hrg6D2nBT/jVtDaum/xFc+nwYKlRXmiBcGx48cMzrCGJiz8Iwys8yE5yf4JpdDb2ZzYF9cLl8XG7GaadP05W5oIwoLIlGE22xge8oZ75cVEfXIEX8klAiiSYk1CtoWP9hwoTNyyRZpMYOU/MPBxrnb/zgGLc6hPE9/pPE6McxGO0Z12lF0yw0t9lhQXDOb37muVVrcnIfsNk=",
+  "URL": "https://hackage.haskell.org/package/hashtables",
+  "LICENSE": "BSD",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1593379180",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "ghc-libs",
+    "sh",
+    "haskell-hashable",
+    "haskell-primitive",
+    "haskell-vector"
+  ]
+}

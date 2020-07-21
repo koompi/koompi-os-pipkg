@@ -1,0 +1,29 @@
+{
+  "FILENAME": "python-softlayer-5.8.9-1-any.pkg.tar.zst",
+  "NAME": "python-softlayer",
+  "BASE": "python-softlayer",
+  "VERSION": "5.8.9-1",
+  "DESC": "A library for SoftLayer's API",
+  "CSIZE": "753752",
+  "ISIZE": "5460325",
+  "MD5SUM": "221607aeedcbbd782ce03d84403ee239",
+  "SHA256SUM": "718d7986beea9e858a8f301cf85fe1c0974ef57ebb8c31afabffb57c16ed8425",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl8FjJkACgkQeGxj8zDXy5L89Q//aD4kOXzs/Q3NXSdRXtXiGEnGMNwI2LPtxTRMydq7zJZ9Ek02kyDyjUXG1nl8P77xG/gycYFBMSE3/sLrOxQQbsLdBnRq0hVBtRVXv4hs9Vm7T7a58cjIS3qkGjUnIghniN73Za88bdpTI7R0/w8C0eDxPi4XRWCuTVSC5U+mDVMQjbyfxR+tE47SS9G6EDP91h2lfw74ugjeYcQoz4rRjxfSAuhWrmjxvxxRKFi/rCG6GBtxU5wZJwVhlKJVJBGuviQfRzcHFszX902ADBvXJzukFfRI6q+f/nm8GdwzQ3VKM/p0Rdenyvzde9lgkNz/x0t9JWpVWxC9jtQzG9QJKQp5jUKm+ao7vcwhZSyY6ItEhSCkEcOGY28QTFzNoTxJpWlYPjFjGQYPJj823GDe+LetpXIkJkzfY4E0lD/JI/Hhyd1FB27l2TrinqPQQwnUU3EGpOG88YrENwGL0e55b/O8JRrH4yfrvo6eNj6yC86XWRoip4b1KExixvMC5A1x7dPTGcV3/yvReHUB1I4+t809i0epWPIj+UfKMR11Sb1VwtyGBdEcKkG/ogkDsBl7fiWhkHvkf9tCUAiPXXCbapXu4TsPYUYJAR9gFegKasKOwiqJJcwV101Dc2j98AgjpzgZu9fhoYG/sbn47W8R1rWx/ndeF7Vfn9XHf5cLoBA=",
+  "URL": "https://github.com/softlayer/softlayer-python",
+  "LICENSE": "MIT",
+  "ARCH": "any",
+  "BUILDDATE": "1594199025",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "python-six",
+    "python-ptable",
+    "python-click",
+    "python-requests",
+    "python-prompt_toolkit",
+    "python-pygments",
+    "python-urllib3"
+  ]
+}

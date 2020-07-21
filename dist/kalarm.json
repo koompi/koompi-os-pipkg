@@ -1,0 +1,25 @@
+{
+  "FILENAME": "kalarm-20.04.3-1-x86_64.pkg.tar.zst",
+  "NAME": "kalarm",
+  "BASE": "kalarm",
+  "VERSION": "20.04.3-1",
+  "DESC": "Personal alarm scheduler",
+  "CSIZE": "2580966",
+  "ISIZE": "11355326",
+  "MD5SUM": "3f61e4cbe565aa19f60249c136eee20c",
+  "SHA256SUM": "ed5f4ef74b993a5c3be8e9cc493bf52e7773cf4e129df9619a0f0b1cf327cd2f",
+  "PGPSIG": "iQEzBAABCAAdFiEEFRnVq6Zb9vwrc8dWek52CV2KUuQFAl8HIDsACgkQek52CV2KUuSxBwf+O27wH4egRjKiaXxC28z7i47/7T1mEgVuJTr/QMVGyQcQ2NxTo7IYAPHTEALzZbuAzwfXAX/+bRkuvxhmHWtYHCsjcwsZJoaJTSxATs6ZFCR5Bumu/TG4RPduL57zCnWeyk+215qY6d1Nlt3juU85l6NabHV9+zSfYBruc6DS5Mw6s7rywZfdSbmhssrdUsa7nTrrD3+IAJzjULXZHUTnupvj3DK0ZE5JqWq3l/4qfBKUTzUyxI+DuWmo4AJdLI4XOWnUXRiJ2XEbB5eFgOA0e4RcX0JrUD3z5F8eePNxBHEafiu6zQYy11moAYge9o0oqc7A0RT34WtgTA6/EmterQ==",
+  "URL": "https://kontact.kde.org",
+  "LICENSE": "GPL2",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1594112414",
+  "PACKAGER": "Antonio Rojas <arojas@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "kdepim-runtime",
+    "perl",
+    "phonon-qt5"
+  ]
+}

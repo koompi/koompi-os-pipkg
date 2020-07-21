@@ -1,0 +1,24 @@
+{
+  "FILENAME": "kteatime-20.04.3-1-x86_64.pkg.tar.zst",
+  "NAME": "kteatime",
+  "BASE": "kteatime",
+  "VERSION": "20.04.3-1",
+  "DESC": "A handy timer for steeping tea",
+  "CSIZE": "329903",
+  "ISIZE": "658294",
+  "MD5SUM": "9463efbbc1fbb4260b46272b0faab6ee",
+  "SHA256SUM": "cfdf241a566b5e42eb45f71cc8398b45f60adbff2444cab301e6280a216e8da5",
+  "PGPSIG": "iQEzBAABCAAdFiEEFRnVq6Zb9vwrc8dWek52CV2KUuQFAl8HIbYACgkQek52CV2KUuRO+Qf9Hp2sWaoimsPb2av4J+rrs41rCayfYyVJbL0EP0bNORuKhOvbO2S0UbfoQwj98EPwaMEMldimc21c0SluZRO6B0ABgChSVjkvxCZr2vCnALyXX3eEiCXoBFjTNThmZtrk0f4D9B/NBqsPKu2/qjNx7FGtsiS72rgvbPojG+gZ6ny1L7X18qzsahV+RHkBDMKMvher37vTnqsthN+eDqdD+HC7fmhKu6hpmQp27t1h9nkNohoZwAyR/9BUzjU6ot621d91kVf64jEWXVHqkc1/fcAnm3n/ww/u6DA8P8+tAOPXkwWhPVRMzXBF6cd8xBG671SP18ARZA99XA9/na+J1g==",
+  "URL": "https://kde.org/applications/games/kteatime/",
+  "LICENSE": "GPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1594114748",
+  "PACKAGER": "Antonio Rojas <arojas@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "knotifyconfig",
+    "hicolor-icon-theme"
+  ]
+}

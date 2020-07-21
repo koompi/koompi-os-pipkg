@@ -1,0 +1,23 @@
+{
+  "FILENAME": "firefox-developer-edition-i18n-si-79.0b6-1-any.pkg.tar.zst",
+  "NAME": "firefox-developer-edition-i18n-si",
+  "BASE": "firefox-developer-edition-i18n",
+  "VERSION": "79.0b6-1",
+  "DESC": "Sinhala language pack for Firefox Developer Edition",
+  "CSIZE": "474405",
+  "ISIZE": "533396",
+  "MD5SUM": "81558f36d21b7e1049ff6a5ba0f3596b",
+  "SHA256SUM": "15eae858616003ecdf91a34828171fcd2e21f13b3e11b5d014b968d8619da398",
+  "PGPSIG": "iQEzBAABCAAdFiEEYB8g8dG7v0p4z1tt9rFhCz7NvJ8FAl8IbNEACgkQ9rFhCz7NvJ91JggAvmlts782kHp0LaJz+E1h7fLi//e7k/H800etK1r+9zrKTG6sML7gtLj+djpGU0AYj8vkhB1r02PqWdMu19ehwlYg8wGCWAoF+5+8rwSH+glrnVTmIk9NozZ19T3tNymn6pk8GsrLg1N0QusCdQ6ah3xTDX9SRbhCJT/6964AXJp/REUPpkmxZySB1Ty8c1DRDHzJr6gPkJt98K2sI6pABnVLliV8WaC+xZCw27Z3jxUBcZWYn3Rgsuvj6+3WycjUbLc6kwHKAvLHkZwvQh+nx0sv85Xi+rlWD4AdKKppIiiY+sAAYCz7vUrCrNmeL9h6+5SYfKnroZccQEfGIimbmA==",
+  "URL": "https://www.mozilla.com/",
+  "LICENSE": "MPL",
+  "ARCH": "any",
+  "BUILDDATE": "1594387381",
+  "PACKAGER": "Andrew Crerar <andrew@crerar.io>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "firefox-developer-edition>=79.0b6"
+  ]
+}

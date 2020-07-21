@@ -1,0 +1,24 @@
+{
+  "FILENAME": "libsavitar-4.4.0-1-x86_64.pkg.tar.xz",
+  "NAME": "libsavitar",
+  "BASE": "libsavitar",
+  "VERSION": "4.4.0-1",
+  "DESC": "C++ implementation of 3mf loading with SIP python bindings",
+  "CSIZE": "46744",
+  "ISIZE": "167750",
+  "MD5SUM": "04cda0da3632db357d14772416340d9a",
+  "SHA256SUM": "bf2d3d23877a5643399215b21444e008727e41e25e5169dff7bf64092cab9336",
+  "PGPSIG": "iQEzBAABCAAdFiEE5JnHn1PJalTlcv7hwGCGM3xQdz4FAl3ynSoACgkQwGCGM3xQdz6PkQgArRgq/YoedhChYlC4X4HbGB57TOKT6JdDR8ODFr4uH1OP/EQt+H+fEXm3/Si4YhjEgbbLsL47/8zKxzUL9ZaUzaZs0rqRUCQNP4ALZFleSGTvg6halYJq/7bUP+39irRg+1Ud1DwD1bE+q9RdmoulR9Tp1ZAapsYkQ19M/KtOquqFXqxsPXj7Ci7peFWvehyhXhkyGO4OWLaYNoK4FPc00QG4HcUALq42pqP5ZihItoLub7SGTH2MDoDXuybd+nWQkklwiSK/Nfx0bqfpbzhmrK0F57p/0//6ctBbM7as4hQhgt5G0MDakhMvYMa0nK5zcKbdlvoMqMAVVIdPMBZl2A==",
+  "URL": "https://github.com/Ultimaker/libsavitar",
+  "LICENSE": "AGPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1576180039",
+  "PACKAGER": "Jelle van der Waa <jelle@vdwaa.nl>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "python",
+    "pugixml"
+  ]
+}

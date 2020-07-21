@@ -1,0 +1,23 @@
+{
+  "FILENAME": "danmaq-0.2.3-2-x86_64.pkg.tar.zst",
+  "NAME": "danmaq",
+  "BASE": "danmaq",
+  "VERSION": "0.2.3-2",
+  "DESC": "A small client side Qt program to play danmaku on any screen",
+  "CSIZE": "53039",
+  "ISIZE": "150281",
+  "MD5SUM": "d6c182a3aacc775899b9e91c53e47b9d",
+  "SHA256SUM": "3b580964e6c0b1ec8a220e2c64830368b771997715ef56e5b1edad88be19f1f9",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl7L0xMACgkQeGxj8zDXy5ITdhAArHMGuRp/LjlBqtC2NZU7N+TckcT1Ca/9GjsOURkb8zAPRH53VOR+dIkhJTKtKutKD+DVy0pxrc2Pb18bVerMyZZUEKnTAdgxs4pEp4vK9p05v/CG3Tp/Qm0502W4tlML7f8UeiNWGyIZas7MrRQEYaytkC94isU7KXoITuY6bVgTdVmdDHoyGb/uQC+DuW99IviOWeXQWd9afrpuXgoLNuoIOK3Ecwilc4rANR7TTbcY9ku95cCKQGDrFvdcWTwALC/QqTzib/tR81POQohGcs5k7Q2nnHw72mzHRPXB7H1c/UYABc3k+UIhlFIhZBb1rLUQAlqel4RSqndtVzTUJfVnLQ5+sxP8lu5+jTxhTy0hEpRDlAUHeotxxYESvDFH3yNz9G47nnjUQTt7vBOhCkt3y1NRZzb1LfEYT4ZKR+Z84oBOiTEjLd3G9ccaX1O8/kcM+WSfPfP4xZPqM9cwv1c0J2N7BVlqCaTfksIXOIu78XW2JwxMNMruuhX/ZNg+5drZpJu8KYs8yqusuotn+zmq544YlnYytsFuVUB8AwZr0zeS+BXbio+sn+m3qDF9eRqOeK1UN156i3KL5W40/wDmddHbp/LtIvC+kNRlJK6NA6foP3/fumytyYnikrjQNxv3AkuZw/O1tvll0jK8yWsjqTwyBMJm9p/yPWvH0As=",
+  "URL": "https://github.com/tuna/danmaQ",
+  "LICENSE": "GPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1590415942",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "qt5-x11extras"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "FILENAME": "haskell-unexceptionalio-0.5.1-1-x86_64.pkg.tar.zst",
+  "NAME": "haskell-unexceptionalio",
+  "BASE": "haskell-unexceptionalio",
+  "VERSION": "0.5.1-1",
+  "DESC": "IO without any non-error, synchronous exceptions",
+  "CSIZE": "42541",
+  "ISIZE": "199466",
+  "MD5SUM": "8dcf15879ef15e8d0186d85a17e31056",
+  "SHA256SUM": "cffad0d806984153ae8c840b5eef358b315bc7092ba4e84e2ef3d9c527d84e79",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl7E7HwACgkQeGxj8zDXy5IskA/+PcocGsBTbBnjBLUR3fK6CyqewRVfLtzravXOg6xlnvioSUlKBILJCWprwLIL5vsSjAf2Um/jPbohdFGpbb5mTDEWI4ssyFzpt0NJqBG63oWpFH6FuSHYHl5iZSyxDh7npKN8BvQHKGo6r8FxT00zKN4yww/rWkcrHflGScQNNrDRj13GhMdECpqGxR5wUPTrWLJPsitnL5+6qFVX7k2624LRmBKVWHtyohXUkrjGa2YIpr1NcVgfrqYJ29RxCvZ7fQ41wLA9nUuMHsO8UXetrh25F/pavqa8lA2EB4hSxxQKBgwWJL5/UyuwI6F7za3ycf6uPuS9TAn6vyyrh/ocb96r1btXwJV01/WT/ru2XLAxnKXNCEA5/q0fslRantj1PjsuiFSX1p8OHrxusBh1n3XP73Fc5ee4lgypx2nC6U+KI8vXEzb0Hp+kc3mi/8badqji/CxOa54ycN1LRlzlWV5OR5kykhrRD0fPCS5bIbyHxM2vuDUr3cBX2vXCRB0CMxLnY/yHwPWsMkD8oxNi8TBuxTYFiBq22prStylOVc3nc2LcpZW2haodFtQuIbTf53ve9HRfYt3gO/+mmNwW0TYJYtk/TC2AD8l8F2YBjLISjalX4ooJ1uv057efRRXc5KcrUtslel/MTTuGXqVK7Z2h43We07MIkWabtwTh3QA=",
+  "URL": "https://github.com/singpolyma/unexceptionalio",
+  "LICENSE": "custom",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1589963295",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "ghc-libs"
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "FILENAME": "telepathy-accounts-signon-2.1-2-x86_64.pkg.tar.zst",
+  "NAME": "telepathy-accounts-signon",
+  "BASE": "telepathy-accounts-signon",
+  "VERSION": "2.1-2",
+  "DESC": "A mission control plugin for Telepathy, integrating with libaccounts and libsignon to provide IM accounts and authentication",
+  "CSIZE": "11053",
+  "ISIZE": "30328",
+  "MD5SUM": "228bc108a53d64c18664494ce62f3755",
+  "SHA256SUM": "3c0c7b204e49a2d346d0c7bb1ee2ccc7b47d4e0dd91e6106830af823da412533",
+  "PGPSIG": "iQEzBAABCAAdFiEEFRnVq6Zb9vwrc8dWek52CV2KUuQFAl6XO4AACgkQek52CV2KUuQ6+wgApms+yn2fRdrYh8oxwdGqjzqCnOcH8IRqg2cv+T2gyQ7arZz4vS1eSAuEDbeDFVIqsN3DhuyaVM/K9vskzxMMipwRCT5SMasx3EprzXhsWi4dP0ZgLdXqbjRvOvYcgL/XqJHDo6HWSyrUbIJWG0130NWWlfo3mF02uZuiqj+f8BdWqKLhJqT0KHW+ANqxVx5mGQZMe25fiw4WsVrjnUeXO0TXXXChAbg2zcdCqXXSKGY2c+iIQzUV3AyWrWxxI0boX5NpIRu1eNQT57KaAFr9VW99RHeQstTwk4H+x0ywNxAIapyNMpLHKwuN8xANUV0gTmpWsTqrXG7T2pgqS39W2A==",
+  "URL": "https://gitlab.com/accounts-sso/telepathy-accounts-signon",
+  "LICENSE": "LGPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1586969114",
+  "PACKAGER": "Antonio Rojas <arojas@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "telepathy-mission-control",
+    "libaccounts-glib",
+    "libsignon-glib"
+  ]
+}

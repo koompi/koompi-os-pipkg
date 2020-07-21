@@ -1,0 +1,24 @@
+{
+  "FILENAME": "haskell-async-2.2.2-12-x86_64.pkg.tar.zst",
+  "NAME": "haskell-async",
+  "BASE": "haskell-async",
+  "VERSION": "2.2.2-12",
+  "DESC": "Run IO operations asynchronously and wait for their results",
+  "CSIZE": "48028",
+  "ISIZE": "251342",
+  "MD5SUM": "5d3f2cb2e5e54b122900b86ae27ee0f9",
+  "SHA256SUM": "c378004e117c2a11b3bb2cbd109beacc443471009fd8a92286969fe3e7d70f3e",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl748XMACgkQeGxj8zDXy5KGCxAAuja3DmWstX6S4nZxmQbnR1e1bO6nlnsYRubGVTCNog+D1nDr+PXhrBqNrJ/GfPKdsKl+uf8u1XLmqBSe1m06TaE7B9LPGLgkm47bBHJjALjDu4bLgELOy9CHSNJv1U2LudccIMOL6TbL+ayFkFpmsIffWA5Llc+SUoyVWwP/x5miKRyrTm1oZ4w4CiUKNMtYUF0tkDpnITzWOJxxz1lFIeJv03HB1vEezaEHYcXyCywwbLs5VzCB2vNFWTv/eABxcHPht6XEL7IYfnz1Paj4Qh2/WlL4yA8pLye+pgRS8Xws5wJ6OHDBYsuqka/5Pf88P7IdxGsrYpHtyr6tkIGr9vvd2M4+qZDzOPogH6gjf9UJ02MsnfmUwDqqILMvcvHmYCfxGiJ/cv474+hQ9u/uYkygVdcLFlSYqU3TwYvxCgXk3Gv76Z0N6w4csaqoFMaKrAr7hXU7aVszjaK0fcIlhF9QzdPMFZLuG2D+SE8mi/Hsw/drM3msnJ3GeK4Aicz372xF67e6GR1/ZJiq4MS+KKbVcmVfBG9bOT0XAwZjfeAG2iYlE8LofYudmVZ1GECXW6tUiCZTNOCD9myjXONWSKlUVNs2WRThgZKoGCPUxNDvYUCrC2Oawp7nJqgJnLTG+R6s/rz2o2r1owC/lSE7yoK5VE27Gi6bnVb8al6y6d4=",
+  "URL": "https://github.com/simonmar/async",
+  "LICENSE": "BSD",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1593373017",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "ghc-libs",
+    "haskell-hashable"
+  ]
+}

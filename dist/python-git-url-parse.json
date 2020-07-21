@@ -1,0 +1,23 @@
+{
+  "FILENAME": "python-git-url-parse-1.2.2-2-any.pkg.tar.zst",
+  "NAME": "python-git-url-parse",
+  "BASE": "python-git-url-parse",
+  "VERSION": "1.2.2-2",
+  "DESC": "A simple GIT URL parser",
+  "CSIZE": "8764",
+  "ISIZE": "16368",
+  "MD5SUM": "24bc35551f2452f95dbcc18440dcfe5c",
+  "SHA256SUM": "89be7134c746097da3af39f3bcc0c97b9769ee645da7fc3303b72a14a4fd5428",
+  "PGPSIG": "iHUEABYIAB0WIQTH54SUZv4jWDQ1iDdyWHNLQcMVSQUCXmzogQAKCRByWHNLQcMVST6xAP0bWj2JLvl2pAascaf0O9yIb+QOVgpszGLERPQP6QFq5QEAiNaFmHzPxNHgbhAhCpwaEjalYh6BAlUFxv0Ip4ZvlQQ=",
+  "URL": "https://github.com/coala/git-url-parse",
+  "LICENSE": "MIT",
+  "ARCH": "any",
+  "BUILDDATE": "1584195694",
+  "PACKAGER": "David Runge <dvzrv@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "python-pbr"
+  ]
+}

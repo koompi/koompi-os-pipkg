@@ -1,0 +1,26 @@
+{
+  "FILENAME": "python-botocore-1.17.20-1-any.pkg.tar.zst",
+  "NAME": "python-botocore",
+  "BASE": "python-botocore",
+  "VERSION": "1.17.20-1",
+  "DESC": "A low-level interface to a growing number of Amazon Web Services",
+  "CSIZE": "3476629",
+  "ISIZE": "47588982",
+  "MD5SUM": "67eaf1d11074b1709fc2fef2cbc2f0f5",
+  "SHA256SUM": "1ae9e7d9f629b18e989335bcb809f1e36f084d6c5181c5b717be7d1b098b7b8c",
+  "PGPSIG": "iQEzBAABCAAdFiEEh0L3U157OUobBIFjMyycQPQNIHIFAl8I2xoACgkQMyycQPQNIHK22Qf9GoeWR5bnGADH6ZJYVBJpkS2CYCFQw5JxpGnjgceok6UeyKuArzznjcoEBN2+HTxTesPmjqf92oweMJ85ZV6YVuI441MH7o+AscnW0b4StvksBYRRsnquxgxr5R3L82DN3rrhJcVeDEh5ErFk3+tj1vFwTYvHxLp2PqueFyrLe2KfkXihbJsAyc9m5c4TSLZyqdYvAHW0fS7Qv6dzjg1ML+jHAToCNPECFN2QHYUi/eJypOXHmSYfjtBxBV9OWG68J4GdSsBVWEJyRGsTa4Ae9u3XJ9PTnPJ4bh2IV9K8vx1eucpJsTP106rj17AuLQZe1VGTygpN0McamQWUS0pz5Q==",
+  "URL": "https://github.com/boto/botocore",
+  "LICENSE": "Apache",
+  "ARCH": "any",
+  "BUILDDATE": "1594415373",
+  "PACKAGER": "Jonathan Steel <jsteel@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "python-dateutil",
+    "python-jmespath",
+    "python-docutils",
+    "python-urllib3"
+  ]
+}

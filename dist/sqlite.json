@@ -1,0 +1,24 @@
+{
+  "FILENAME": "sqlite-3.32.3-1-x86_64.pkg.tar.zst",
+  "NAME": "sqlite",
+  "BASE": "sqlite",
+  "VERSION": "3.32.3-1",
+  "DESC": "A C library that implements an SQL database engine",
+  "CSIZE": "1733514",
+  "ISIZE": "9625527",
+  "MD5SUM": "c754eb978cc709ed11c80b0552c9abc0",
+  "SHA256SUM": "aa735424c0cd29dc6f98c342fca0116f177c2fc2456f123ca6740eff860a7636",
+  "PGPSIG": "iQEzBAABCAAdFiEErcih/MFeAdRTEEGelGV6sg8qCSsFAl7rvUcACgkQlGV6sg8qCSuiHAf7BtJR65lrbNVmvA2c5eho2qiYIlUryT9/7MOlzuHJXubN5mvYEJFYD8cGPlx4WUrnR7gdqmf8aMEZNrNBM/syY2aS/ubhOgKOgJhg9505zTctBTDYPrDc+ZSloqfWyNL56EoW/gtL1srl7yTI1kgN75g1k9xEVCSxPZL4Ne9sxKa4po3lLFuvl+Gv3om6VHLYG8E6WpRiAbzWqiPwwUiYOghwtk0uYGRmbWvjSYXhHBvLMrzFF+0g8ygk+itDTHq2dcIk1hqzHU/ceKC7xwuDhIRNSL9OLEq8FVYR3qoefJRkZPhOcBEcfD7cJL0dwZ88N7feZQtaqktpp8YFkYJj5Q==",
+  "URL": "https://www.sqlite.org/",
+  "LICENSE": "custom:Public Domain",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1592507408",
+  "PACKAGER": "Andreas Radke <andyrtr@archlinux.org>",
+  "PROVIDES": [
+    "sqlite3=3.32.3"
+  ],
+  "DEPENDS": [
+    "readline",
+    "zlib"
+  ]
+}

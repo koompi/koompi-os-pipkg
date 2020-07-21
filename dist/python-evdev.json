@@ -1,0 +1,23 @@
+{
+  "FILENAME": "python-evdev-1.3.0-1-x86_64.pkg.tar.zst",
+  "NAME": "python-evdev",
+  "BASE": "python-evdev",
+  "VERSION": "1.3.0-1",
+  "DESC": "Python bindings for the Linux input subsystem",
+  "CSIZE": "53105",
+  "ISIZE": "235064",
+  "MD5SUM": "3e848d90375e6ca8c8299b27f5e2d448",
+  "SHA256SUM": "a1ef79c6704cfab137a046dad0d789da4e5fef30ad90925a26ff1ef9bd764622",
+  "PGPSIG": "iQEzBAABCAAdFiEEghj4iEmqxSLpTPRwpekojE+kFfoFAl4jNO8ACgkQpekojE+kFfqoDAgAkNsYuDZr+A+qV9hO/dSimulg7qF16MRKHazUlTz3Qd/mHpJFTdE9vnJj3qMq8ql8+/Iifk8Tmw/YrCkej+OZ9MA87i3VjtP2PURncWPRhFahdx/bIu0b1dDvREJg34ax/YtJFnNN0KfYJ7toh3gLZ0P1j7ebpzZU2XWWuaRGFkK0WjMO9rkfY0prQlKR4jQg1N1RhLfaAoCCRe6p1q3LKP1e+0YekisXYgqiIi/RtnXlNbbcWU0lQBUFJ7TOrsA6CYVc6ft5k41saR27x0vMb1x+J6HWVvlgl5LlbJ3vy80dTLRUotfef+X/05TWHE3PQ7Mr2f86tyCwtVfjlWXjxA==",
+  "URL": "https://python-evdev.readthedocs.io/en/latest/",
+  "LICENSE": "BSD",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1579365563",
+  "PACKAGER": "Jan Alexander Steffens (heftig) <jan.steffens@gmail.com>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "python"
+  ]
+}

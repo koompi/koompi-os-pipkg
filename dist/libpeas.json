@@ -1,0 +1,25 @@
+{
+  "FILENAME": "libpeas-1.26.0-1-x86_64.pkg.tar.zst",
+  "NAME": "libpeas",
+  "BASE": "libpeas",
+  "VERSION": "1.26.0-1",
+  "DESC": "A GObject plugins library",
+  "CSIZE": "196511",
+  "ISIZE": "1075777",
+  "MD5SUM": "5e5af22d9cc08f8fe2fa2cdff83e1de4",
+  "SHA256SUM": "2bc4611fd6e26134fcf757e08f4f2fd83ae3d6200c2b4d6d0e624bc07d36012e",
+  "PGPSIG": "iQEzBAABCAAdFiEEghj4iEmqxSLpTPRwpekojE+kFfoFAl5kif4ACgkQpekojE+kFfrRCQgAk+Eb+tifrHH60qFKFTUaw2VcL9e7YfdrjDaxvmlyq2IycMqUXy91wvR3XmNz/V58pFs2KVgGf8rVowdmp6wFkms6BrToOnaMv5QerEdIw9AgerDox5PewGl6DfTQ/Y/LSv2HC/cGhszM+ehluvIZfFVtIUKsFrlPhmk01cS9Yu/c00xqQadjkXUZiI01MSJP1RKTxfUU8neYPLhw79UTsH+lfSNKzngiyioIjM/M7U8BQHx22Kb1H56rpn7e0j2m8ra3HVbSR02W43i4ljoDlOOip/+hlrTchICvbSk89/q55Y6TAiXi1oYwJ5XsOea6VwYshDgmtVZc4A6XpLn3Cw==",
+  "URL": "https://wiki.gnome.org/Projects/Libpeas",
+  "LICENSE": "GPL2",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1583647144",
+  "PACKAGER": "Jan Alexander Steffens (heftig) <jan.steffens@gmail.com>",
+  "PROVIDES": [
+    "libpeas-1.0.so=0-64",
+    "libpeas-gtk-1.0.so=0-64"
+  ],
+  "DEPENDS": [
+    "gtk3",
+    "gobject-introspection-runtime"
+  ]
+}

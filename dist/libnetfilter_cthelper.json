@@ -1,0 +1,23 @@
+{
+  "FILENAME": "libnetfilter_cthelper-1.0.0-4-x86_64.pkg.tar.zst",
+  "NAME": "libnetfilter_cthelper",
+  "BASE": "libnetfilter_cthelper",
+  "VERSION": "1.0.0-4",
+  "DESC": "Library for the connection tracking helper infrastructure",
+  "CSIZE": "7547",
+  "ISIZE": "21382",
+  "MD5SUM": "07e36459e3104cc50cb0852e359cdb67",
+  "SHA256SUM": "2164e12a5bfcc91d3eb240a46407c23a584de871a4923e11505449270820443f",
+  "PGPSIG": "iQEzBAABCAAdFiEEhs/8qRjPOvRxR1iAUeixSKmZnDQFAl6/7iQACgkQUeixSKmZnDTqQQf/fKtWq+vnnnoPmAHy2VSVwM3UsRnasnTnNU7QfpLuf4S98Fo0TQ6kAsWQyKbqa4AHhUuQl5c/d1nKMwU3jIs9Xv7x/R1aq8ZMYbmZsCjyxN/zR1mcfOH5ABRgYLxp/LlzYpZ6l+LeN7gl7xISnA8470+0AXygIfiOQPzw/+1jl13hYqd4qvohLtFbZAFdYSnpmz7BnHOEv2NlXIHQO05tvzz019jX7UPKsokkn2pUB8Pi73clwIRwZ6cl3DIgkudU6fTClEi8JcbFexPnIrs6JNM1dJpPEwjEEOwokr1fPwVV8qgGiEUkkcUiAPPNb/NIXIF62Tbc8oPB3RdhJhsniw==",
+  "URL": "https://www.netfilter.org/projects/libnetfilter_cthelper/",
+  "LICENSE": "GPL2",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1589636606",
+  "PACKAGER": "Evangelos Foutras <evangelos@foutrelis.com>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "libmnl"
+  ]
+}

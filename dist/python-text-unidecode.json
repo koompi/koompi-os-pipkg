@@ -1,0 +1,23 @@
+{
+  "FILENAME": "python-text-unidecode-1.3-4-any.pkg.tar.xz",
+  "NAME": "python-text-unidecode",
+  "BASE": "python-text-unidecode",
+  "VERSION": "1.3-4",
+  "DESC": "The most basic Text::Unidecode port",
+  "CSIZE": "54096",
+  "ISIZE": "315929",
+  "MD5SUM": "4a132f07e4726be651d784dbe8181b8c",
+  "SHA256SUM": "15611d2e14eff74a78169e465ccbd88039ccb4334aadf01b1e7207423e087b97",
+  "PGPSIG": "iQEzBAABCAAdFiEE5JnHn1PJalTlcv7hwGCGM3xQdz4FAl4MxboACgkQwGCGM3xQdz5spwf+Ia/I650VuICApN35TIbfcyk+7oYl7zhQgqu5j4Om9yEiUqdzbIg4F4WM3iorR/DpAuqoLS3K+s5waixO9RD7hM+JouJjRmHDnPhRKxmSz1irlYSiVW0vZ72q53jZ6blgAVefzHs3QNqwNvO+p3IjulFNpUKenPAENVxogCov3bKOXLkappI4oSaehOpIuYQN4OhwSRCsK34RZ61Hln33i60v90rx5fB7/5/KSg+SmVLvMxy56KQHePzDdD+AHJWvMyLFXNvp1xIDBOZKjtmogXvm3D/aLSA1UQ2dKTUfd03UQD616SGCeR/uuZgAsiLqseN5h+eNiFs8536J0InB0A==",
+  "URL": "https://github.com/kmike/text-unidecode",
+  "LICENSE": "PerlArtistic",
+  "ARCH": "any",
+  "BUILDDATE": "1577895202",
+  "PACKAGER": "Jelle van der Waa <jelle@vdwaa.nl>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "python"
+  ]
+}

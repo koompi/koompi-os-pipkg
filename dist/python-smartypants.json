@@ -1,0 +1,23 @@
+{
+  "FILENAME": "python-smartypants-2.0.1-5-any.pkg.tar.xz",
+  "NAME": "python-smartypants",
+  "BASE": "python-smartypants",
+  "VERSION": "2.0.1-5",
+  "DESC": "Python with the SmartyPants",
+  "CSIZE": "13364",
+  "ISIZE": "51134",
+  "MD5SUM": "32415d2c8531a7a9e3230e0344dea197",
+  "SHA256SUM": "98228fcd765c2f5898a1399bc9f43b7565de4203750e9898ac7849a8932c3b67",
+  "PGPSIG": "iQEzBAABCAAdFiEE5JnHn1PJalTlcv7hwGCGM3xQdz4FAl4MyQMACgkQwGCGM3xQdz66tAf+NFKyIFHOAPA7TWLM0VxYU2nCarRahkzsFUWQ6jsCmdV0kvfhD2jfWXso1HWhdKivNmV2yBqfH74cpNmiVZWT2xtQQty9HgqmygNCGmLCgwEikR5AumGs5OvKeWJYVu96lDAqEAYan1zdPkQ43UkN4L5as2HmffEmWOq34dlLEdptDFswu2q23zdgEQKYtbwxb1R9yTHI2sIxLPVwf4x+4P0tU46zoMuvsHDxvu5NkRzxKjw/5dE0eZfqEUlw4OpYxJZ3FXol2XkL1EsuFhKo0v02wxLzcK9T/TvDP6psEuD4fK7otoUCteiAfi0JDLA2/knzKEhH2GFPFd/HB/qqvQ==",
+  "URL": "https://bitbucket.org/livibetter/smartypants.py",
+  "LICENSE": "BSD",
+  "ARCH": "any",
+  "BUILDDATE": "1577896147",
+  "PACKAGER": "Jelle van der Waa <jelle@vdwaa.nl>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "python"
+  ]
+}

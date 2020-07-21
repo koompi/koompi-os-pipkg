@@ -1,0 +1,24 @@
+{
+  "FILENAME": "gambas3-gb-db-form-3.15.0-1-x86_64.pkg.tar.zst",
+  "NAME": "gambas3-gb-db-form",
+  "BASE": "gambas3",
+  "VERSION": "3.15.0-1",
+  "DESC": "Database form component",
+  "CSIZE": "47264",
+  "ISIZE": "147913",
+  "MD5SUM": "c52984e070528b978bf93e97fdfdc768",
+  "SHA256SUM": "00421dd00313fdefe4b55cdfc5330329b3b6ccc4fc1b06cb405f84fff95b08b9",
+  "PGPSIG": "iQEzBAABCAAdFiEEU1+MAzlFDwVKTSgnBglqatHO3awFAl8C7RQACgkQBglqatHO3ayc/wf8D/P2BpvQ4FKzJ4zakERtCVW001fNvgnJTrK/AvPF/qcw4+d3gAD5TM7hCyTtoKaaVbYP2wnIrmPZ1L462auVQdgIAsxn4e+VnzV+5cMNyU2IMn56/aDgqA5HjgV0NVcL4C2d1GG8B5fWkOKz4Xf4C9ph9M1CEd30Am4g3NgqcmPBrmSDdQ3lCu102l+X+LtC84acueoBBNEFXQE5L2vqCwLAaovOX4En57pxi1tmaX8KOWaadu7iiVzhpYs7sMWkoSnI4BQ1JBiVFcVQbsDWEyC3ysy9w0yvQpoTpkRZqJRzTQ/DDgsPr8U4J+Ect43WhWCAOk9MmGw8gEcbibCQRg==",
+  "URL": "http://gambas.sourceforge.net/",
+  "LICENSE": "GPL2",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1594026389",
+  "PACKAGER": "Laurent Carlier <lordheavym@gmail.com>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "gambas3-gb-db",
+    "gambas3-gb-form"
+  ]
+}

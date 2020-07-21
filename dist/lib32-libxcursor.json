@@ -1,0 +1,25 @@
+{
+  "FILENAME": "lib32-libxcursor-1.2.0-1-x86_64.pkg.tar.xz",
+  "NAME": "lib32-libxcursor",
+  "BASE": "lib32-libxcursor",
+  "VERSION": "1.2.0-1",
+  "DESC": "X cursor management library (32-bit)",
+  "CSIZE": "19932",
+  "ISIZE": "47104",
+  "MD5SUM": "6a9ccb85149db6f5886a27caa504a432",
+  "SHA256SUM": "060977cad284383c39c283f4a1ac8b1c7ce1011bfc7966917909327c788a026d",
+  "PGPSIG": "iQEzBAABCAAdFiEEFRnVq6Zb9vwrc8dWek52CV2KUuQFAlzECMMACgkQek52CV2KUuRKCgf/UycMYANtIQ43IfLQcbiSZ7v5d1F62l+mZvLD851auwJv1/oYtfAnKDSVO0oyubouNlmFasFqGtGzSmUSHQC4HTN68hsaIE8YoFzFHZygNWI11+51YeFBACyJ8V0HDF0hf0YaoRXPxY4rmvmDZeqqDwuC2z9HrrOEKZ6+a3OV7hVe5/KA7abKH+Uqs4ZZNFnDs/+1AsWq46t3oQyva9iiZnVVrPK4Z7NYhc+bJmhcB/CKOI066LPRAtKcxuv9hZv4zuyxH46VD5HcqwwEx1RmWOTr1nLxoXtLtRESFUyd8aI79UbmAAnofTgo1qpakfJ8erxNZnvJhZEnoeji5mB7Kg==",
+  "URL": "https://xorg.freedesktop.org/",
+  "LICENSE": "custom",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1556351097",
+  "PACKAGER": "Antonio Rojas <arojas@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "lib32-libxfixes",
+    "lib32-libxrender",
+    "libxcursor"
+  ]
+}

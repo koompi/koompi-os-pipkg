@@ -1,0 +1,23 @@
+{
+  "FILENAME": "xorg-fonts-75dpi-1.0.3-7-any.pkg.tar.zst",
+  "NAME": "xorg-fonts-75dpi",
+  "BASE": "xorg-fonts-75dpi",
+  "VERSION": "1.0.3-7",
+  "DESC": "X.org 75dpi fonts",
+  "CSIZE": "10837226",
+  "ISIZE": "11154699",
+  "MD5SUM": "f1f9a56777b490da6384e87b13ced618",
+  "SHA256SUM": "2859ae7402c33c7b70319adb1a2f6ff15944a2945141cc7154fbc105b3d9488f",
+  "PGPSIG": "iQEzBAABCAAdFiEErcih/MFeAdRTEEGelGV6sg8qCSsFAl76yOsACgkQlGV6sg8qCSsTaAgArrQSRpzLt3zGeYdyqu2gmpkPHYESxJwvZzVKxHm2FNoC8yg5cpVNdYQTKekB+tffPFSvpBRCTZSJglyPncLnoSyM6Qumk/9ViNBtQuQJyLXIc2ERhgZ/sHQy497noNYFgPoWWz3LR/8f8tIwMY8EHJzR2tHCXipzWh0Ix3IzhtfcQwsl/hPfreR7GrgTh4aj6MHemliI+FSwS5KBfVVcX0wLZvn8lQFSTNqN8sxCWzqgDFxjn/5sfgDmnnTVx48EnZm0ZRIo2Eqx7L//97YGStpT9wYlAyvNsedPSoNzbBdhtqTQJ/WE3qOv4fel3hZStgEVVWrUw20T22TviB/4fQ==",
+  "URL": "https://xorg.freedesktop.org/",
+  "LICENSE": "custom",
+  "ARCH": "any",
+  "BUILDDATE": "1593493632",
+  "PACKAGER": "Andreas Radke <andyrtr@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "xorg-fonts-alias-75dpi"
+  ]
+}

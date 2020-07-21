@@ -1,0 +1,23 @@
+{
+  "FILENAME": "nx-x11-3.5.99.22-1-x86_64.pkg.tar.xz",
+  "NAME": "nx-x11",
+  "BASE": "nx",
+  "VERSION": "3.5.99.22-1",
+  "DESC": "NX-X11 lib for the NX framework",
+  "CSIZE": "564844",
+  "ISIZE": "1325416",
+  "MD5SUM": "bca23827a7299acdbe915d3fb6e2d4f3",
+  "SHA256SUM": "d1ddaf09c8772d0522b676135558def42b46134025153f6f0c5f8b74874ac874",
+  "PGPSIG": "iQEzBAABCAAdFiEErcih/MFeAdRTEEGelGV6sg8qCSsFAl34kOoACgkQlGV6sg8qCSvD7ggApnFD1SRjqehxbFwzgrc1nvz92uWb+289OQ/ZTp21jr+VS1Yar0JnmNAGgXTYP4Xe2Q9lDpGZSFuBVsxKQcJ8nrJlEw1yrnesN7+LWGnwZIEqHbo84KGSzwx14Vb4SSwswWbmnLZahKiPF4iUISQgZROst1LtCukTMj5lCa0i+ZuMCRYXTMVCMnXNj0TGbbw6L5mhgX4qU9aoNiTz1ICCsWgingQaCNOJnP4Q9koHYAEE8SK5VUufsc5SSqx+74ePuVqKOpnkGTxKC9OEHjzbs3nhFJsBkOGGydC91JZgnxWn7h2ZZEJIlwFDD2Pmi60wGCl8aXd57RUJGTnM2yb9Ew==",
+  "URL": "https://wiki.x2go.org/doku.php",
+  "LICENSE": "GPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1576570807",
+  "PACKAGER": "Andreas Radke <andyrtr@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "libxcomp"
+  ]
+}

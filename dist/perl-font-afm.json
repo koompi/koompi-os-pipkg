@@ -1,0 +1,23 @@
+{
+  "FILENAME": "perl-font-afm-1.20-9-any.pkg.tar.zst",
+  "NAME": "perl-font-afm",
+  "BASE": "perl-font-afm",
+  "VERSION": "1.20-9",
+  "DESC": "Parse Adobe Font Metric files",
+  "CSIZE": "13062",
+  "ISIZE": "40828",
+  "MD5SUM": "5f09ef0828955614bf783dfc700bb45f",
+  "SHA256SUM": "0c0f60a01cfa0b8872859d15d0810eaa0a52be1fdfc62a671e1d02edb2324bf6",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl7vNGAACgkQeGxj8zDXy5Lq6w//bc7wXbmloOfehRBt5CguJyhgCPoYdNmxXN0L0EKZbsxjNyYU6NNpqTTm0jpOWfe/IXNV+OAhsh/nQWoLpF3KwcUWGaJ9BBpaFwcgX5hos0IrlO354SaXNeomRD0D0/dC6WIe9z+Ds8I/SFxgrZisx6dr0xlqJnb5ykidfcV8NvvjTcx9cMqlKQFQetdJdN6yCxxKFBaXV6QGMENmiV05WFyVsbZX7Tj0+ACLAL+UpuDpAns5IKEKQmTW9csN49fxOA8vlkCoMDSgKHXetQbicqqgulcONbUMnH+BEzPGUIMlUJacoKwv7mVYQRhOJLj09yYHczFXiKcSScbg6Rz5siavsx0pAGaOM7W0AD0G6N1eGsznK5P2BmF0pSxvRuc618vnr2oHZAL9tpKVCIQrdyI7H9IQrw5zAHkPieBU8MnsACq4SLbM0XaJTZBXd2GpuCzu/rOJWs3eS1xRvzBuXAp9lLk/RCX9zvBoiNh3HSrC/dXSc+CkCDPExdadI8GYpmMU4pCazTEsYvnBqpQ3SY/1mUD0kL1XTlmFIxJ7m4BcoVkaZ02YdC1VbX2qumBuKtZbuWau8V1GtIa2qDSmw3ai9RoqHfRlLyYsX4bjnQtSOqqGmDljsS7U7ssmWo4tXcTDUjR+qwM1Kt+8WwSrRUNU/3xbhwrGUftSEdWeLLY=",
+  "URL": "https://search.cpan.org/dist/Font-AFM",
+  "LICENSE": "GPL",
+  "ARCH": "any",
+  "BUILDDATE": "1592734615",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "perl>=5.5.0"
+  ]
+}

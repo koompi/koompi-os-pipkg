@@ -1,0 +1,25 @@
+{
+  "FILENAME": "gtk-sharp-2-2.12.45-2-x86_64.pkg.tar.xz",
+  "NAME": "gtk-sharp-2",
+  "BASE": "gtk-sharp-2",
+  "VERSION": "2.12.45-2",
+  "DESC": "gtk2 bindings for C#",
+  "CSIZE": "3127500",
+  "ISIZE": "7184384",
+  "MD5SUM": "37574cf6d91c260467a389f1b5f0be54",
+  "SHA256SUM": "f8eea0d05302029448f2134c5bf64811003fbee301cf4314d5d5e48db1f724a3",
+  "PGPSIG": "iQEzBAABCAAdFiEEqEuNxzq4MgZ75Uw8l2rG+juU+hAFAlxXbg0ACgkQl2rG+juU+hAatQf/SNIxkaor4cTlz65XBtliLg3AQikxyTOvnrhmW3U6rxe26QKYE+BfI9buQYBkfRxXOgbl4hk0LvFMNJj/WyQv+1rJhmI16WIzxIgeAA0IpL8idbA4wt+qSaJPZbZPJoUv112eps38C6UVvNWD4BVgLacFpX3Ow5Q2Nx9PRH+cY4Yv/clsGaOVltmom9oDVEBQBl7QbUiwa9eP/TjzOCTj3zyeuXLcp/jza9CLphz2/xlJmHMw0iupvQPHUDFmEuVKd4MLERFLc4bbzQ1X+bBvVXKfzkYU/udsL4orQMRiywFTIZ813Y46cw3fjJlRZZJPs/2sOXi6zRzudlh4w7w1sA==",
+  "URL": "https://www.mono-project.com/docs/gui/gtksharp/",
+  "LICENSE": "LGPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1549233539",
+  "PACKAGER": "Jan de Groot <jgc@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "mono",
+    "libglade",
+    "gtk2"
+  ]
+}

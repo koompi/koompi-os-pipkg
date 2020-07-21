@@ -1,0 +1,23 @@
+{
+  "FILENAME": "picocom-3.1-2-x86_64.pkg.tar.zst",
+  "NAME": "picocom",
+  "BASE": "picocom",
+  "VERSION": "3.1-2",
+  "DESC": "Minimal dumb-terminal emulation program, very much like minicom",
+  "CSIZE": "39485",
+  "ISIZE": "82738",
+  "MD5SUM": "a113b0cbf55a89b33abd19a77d149604",
+  "SHA256SUM": "53bf7ff7eb66e203205fe156dd9a0e2711b0a3283b7d8a2903f678c3dd7f9ff6",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl7L4R8ACgkQeGxj8zDXy5L4dw/+KWeHzcLlaT0L7au+HxS0+KUSCniukLwsgYTkpJ8GEb/+ICU0q6NRNMYaMCo1/g0RZ1/V8cCLdBHjxMOFFkheBz2ycpqJzTXiw/E0iSsgkSCjpp4DOxs6un9Ccj5BoYSwn+oPJ1FPZH6ffLc2Ly60wFF9xxMBJoNsk2KKeCjQIU1x9hsewdjtlbXRp2A55H6XeVObLvA6qFsDkS0GcGezgJVmL37HpyyL6aXpjqzIdmgJlZRHUmv+A3AVJb2QMBjQWA7RvcYGr0JxB4S8qIiFtw0j9mqQPTJ1Jr1yD4QCl2VuiKH0L66Ik0VpCOm4ILTpJ8tL3DVu5Cmho7T8YlKZBMHgMF4vYDz9tBWzFsK2FQidRMzkI9c/hkfKgCN+t1ZDAcI9mWFm/dbvjDka3ZeJ9IKSs5kd4m4mtuZiIT5e8mW7aLu4Oxd0mY73Inb9POhmiUZIJ3WkL9s2xkK5eRwkCK7nbPPsqWtUNO2z8TSn4iU/OJSuBAdRyTyJTApaD6u4HAzumeENgzg110/akGa0p5eNY7GuRXjkYaWjpFKrrYgejENcJg/AzlTvGzGVzYqsdQXj1tqNgPfinvpO/97TCacCePnSPpNq+jysGvkLh3MZexjggre+O+mmBjqcwP0xyRAQURSK7tC0bL0WrenKWgjCaFxPkOjbk/d/cg0b5AA=",
+  "URL": "https://github.com/npat-efault/picocom",
+  "LICENSE": "GPL2",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1590419676",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "glibc"
+  ]
+}

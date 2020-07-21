@@ -1,0 +1,27 @@
+{
+  "FILENAME": "libglvnd-1.3.2-1-x86_64.pkg.tar.zst",
+  "NAME": "libglvnd",
+  "BASE": "libglvnd",
+  "VERSION": "1.3.2-1",
+  "DESC": "The GL Vendor-Neutral Dispatch library",
+  "CSIZE": "379191",
+  "ISIZE": "3857988",
+  "MD5SUM": "1b07897a7bfe68ca17852b2b48bd62e8",
+  "SHA256SUM": "c8eae845e4f3dc1cf95c37fb823fbdad9fe1980a29595310856783a003ea0790",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl71WecACgkQeGxj8zDXy5JYUg//WzXPD/E8hD5RcUCPq2WHQuPW6Mytgh/VwZUSWFcee7R9qRu2xRZ1HDbXcwFRXA/l4KZkLnyeCMAXpdROpZUEvIz65gDJWDi5BKnuqV89BYdNgosWI7T7iZxSRtKMuu8VV32AsaBHvFHidGNEozzKijEqm3w6yNjja5jKwoBhWeume8vDSHhODyw7KCUbE0IbGiWxqCuXQVGC2LzUtaM/iN1abW/FkIuWNY8aeFI3ri5dADjoGOVfKLxRRAYHNJ411VtVo9//6AcoCbr8Iyx8iKxcKC4AUXkh2EVHp0Cc+EO2lsYUugTqApMbOYLISBKxPdFo8UmOO1n55p2ZtenldWKvWw+1sur889086/Y3hEvKWTtynR1tJ9+CS3/Mj+lLuH5xK2yRC1RFATj807+pjZ9nvqiQqDx+6M3axL1SoOoRsOw8Q9EefXxw/hQEROZnTQCYJIWZEfYysUpMoDG5xNnHv32IjopaK5lv4FkIwWXnklvLcjr0eCyIUWLxDhBEfwJHIkC8r+0rvuSc/wNkzPa/oU1d4qW4bWZMwlQEQhnYk/R/B4A2n54FVYFVskxaLwa4XHZ3ujJAkAi1IkVrmL2XAMOJCQgGCNWFamihhvrGbu5vNlRSMOUCgPvZzKIVGYmVGkO1Rg94WT8vwYbUMZKGt832ZQLcXQAiPyJcLxY=",
+  "URL": "https://github.com/NVIDIA/libglvnd",
+  "LICENSE": "custom:BSD-like",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1593137593",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    "libgl",
+    "libegl",
+    "libgles"
+  ],
+  "DEPENDS": [
+    "libxext",
+    "mesa",
+    "opengl-driver"
+  ]
+}

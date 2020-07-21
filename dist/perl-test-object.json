@@ -1,0 +1,23 @@
+{
+  "FILENAME": "perl-test-object-0.08-3-any.pkg.tar.zst",
+  "NAME": "perl-test-object",
+  "BASE": "perl-test-object",
+  "VERSION": "0.08-3",
+  "DESC": "Thoroughly testing objects via registered handlers",
+  "CSIZE": "7363",
+  "ISIZE": "7736",
+  "MD5SUM": "187c2866ccaad1e7be291bb0b6f5d261",
+  "SHA256SUM": "093e3095d37b5faf3634405ae62a0f8747a1c5ccd26cfea570ad84a8c7f0886b",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl7vNGEACgkQeGxj8zDXy5IM8g//Zwz6aV5/TAxcJpytkowh+FfC6L62/ciIgMxmpT0R8CryODYWNDMBIYnuJozL3RISOhutLPpdWORR75xmY7ZeI/BH76kaHZjR+PrE13R9M2x/6GCZPaGrrVPe1a80GE+NaKG6sSKuz47mYxi3mEa9R/M0pDWQoMAWUOjOJlmTGHFKAZVtXp7hLuqZPvRB3OKkcHx/b4gmr4kl3qQGsbLWqtbOEhthw5UYyoJtY3Xd5R4VTjLec/ndbVjl5zDM0MskuoBn2aQcV6wjOGl0ZPwWl8p2Y2jcXLmWv29hKD/6S0Gbx5lcQlPVWUKwoK7qMMZIDmxw493yXWUissP2DW0nMsY+3gOI7FcIG6AAMYr07E+eVdXFttIARiswxMFIt3azGcX3Nbz7rb7RYXaRGkpFAdq0sWgrKlvl+3B8eqy0QfsdCHd8R0ji9Wi39ZQWBUQIUzBJtQ9mSr7RgAALKhAZMidUpQQZZj2NvbPmd9BhlgxQ8FUHxtvwUzOrKU5C/Rf7CbvoOhYQmKuetK/yypUmuf9zc8/C6AG3nqA2gycomAObZUmFaeXhdUu8eUKpeCABWt59haYoJ1BzfoNZJ1zqSslqO0qlc47k/3h6mr/nDJZADJHeITQou1oBkyXN4omalOMYrTXUtC3CmFHAuLHJoV2dP4TSt38LB6IhAosfZV0=",
+  "URL": "https://metacpan.org/release/Test-Object",
+  "LICENSE": "PerlArtistic",
+  "ARCH": "any",
+  "BUILDDATE": "1592734797",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "perl"
+  ]
+}

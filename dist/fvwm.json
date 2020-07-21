@@ -1,0 +1,30 @@
+{
+  "FILENAME": "fvwm-2.6.9-3-x86_64.pkg.tar.zst",
+  "NAME": "fvwm",
+  "BASE": "fvwm",
+  "VERSION": "2.6.9-3",
+  "DESC": "A multiple large virtual desktop window manager originally derived from twm",
+  "CSIZE": "2581838",
+  "ISIZE": "6576506",
+  "MD5SUM": "561cd31aec84cccd44fb478fc90b164b",
+  "SHA256SUM": "52c03082cbe836bfef3e11609a9de40a764960687245902bfb91138fc9a1dc8b",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl6/2q8ACgkQeGxj8zDXy5InMA//bK/xinRXPP93QcGjEdpNOVDK4hnC1174djhpwXDayuvLV/d7QJqc1bjXSSt2RPCHsm0jgwarBEWpA/edy47IgNkwUVNFlpeTsufAfrP+WrsgzLDD0U765vQEL0wdhrgE95c6wP/LMpo2M4z1ehdnBa0rX+6Yz9r9LtsxIN4qGGDBYZXTkQpEwv4yKPjicHOK6l0aJyV8EE07fHtHodik6QIRv+dGFjsRTi7c3oatwc5r6/aReTu59L3AvLcyEwciTgrYByfcb/3mP4munHO0JfZ1mkJybGj5xoZfR6ifyTUjG5i0m2ff1PwGRl2S7RqtgGCpm3oFpNGZm63y3n6g+6wrVLDBMi2S6KApZ9yWu9eGDNbsad+eMjUSL6VZ+l7RIa5aSu2djk9MrSHJ97cnzIAkKTCo2ceb0i7Dcx+AcuNbuiJI5bd9wXWyEGrNK4ggsDGH2KmN81Ghm9WaTwCn5ztAqEQnjeQhjY3hk/+Vi1Ppusf9cNZe8jhFiMIejhSq+VqnRXu2oecUm8aKtC1f16GZLAtIqraPDmJqWID/VsR2QM0n+1zgwGFsiuembgG2daWxhvSZ0AuSKFhpM8Fz5zLAfUV9nOZy/J5TAElnTvap/aWW1tR8Llp5cKUh4TG77O6hFnsoJkW+i/uchV7M0VHGMgFIg0nty+t1VeWgxEs=",
+  "URL": "http://www.fvwm.org",
+  "LICENSE": "GPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1589631562",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "fribidi",
+    "perl",
+    "libstroke",
+    "libxpm",
+    "librsvg",
+    "libxinerama",
+    "libxcursor",
+    "python-xdg"
+  ]
+}

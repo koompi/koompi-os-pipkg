@@ -1,0 +1,24 @@
+{
+  "FILENAME": "haskell-base-compat-batteries-0.11.1-30-x86_64.pkg.tar.zst",
+  "NAME": "haskell-base-compat-batteries",
+  "BASE": "haskell-base-compat-batteries",
+  "VERSION": "0.11.1-30",
+  "DESC": "base-compat with extra batteries",
+  "CSIZE": "78251",
+  "ISIZE": "323696",
+  "MD5SUM": "c825aab67813c2efec7f16bad9641c6b",
+  "SHA256SUM": "188c52714f1f0c62fa91c10e4293eb007c1c61fd6288bdc10bb7a1ca643f6fa1",
+  "PGPSIG": "iQIyBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl7470QACgkQeGxj8zDXy5KEUg/4ysWH9WLDbbQPR4a/w9XJO3b13j3GZKTGEwCy+24QAcOupgd8g3qF68lFZjnV/RXBOXTvg/H60zB3GIUD5ec+pWh+qjqO4KHTsjTP4qyU0Y3VZINdDHkuItIfvXmVIMOy6++nfP/xAwzsM4TtsKPlD5CWdslg1L2exsF2h8Vd4H467dTjT/nF3r2oVSXM6RZNrvup57NzKIm0SNkIg/DmCsp6m8gxKMKqOsRPceY4DRfawRYL78QKbewCamDhGsYTAH/NPRsx/8jZ+i6zX4s4LIfbhgx61Pmj3Cfu2fOpPHNQUIkzBKnRGCjPLSveZWPW6YkLzmDFPOdOPBQtEqhwZsAFiT+RdRzANDiduNZDKYLr22/1cM7FjZtc8Y8Rpqvl8q6GNvNr53X6zsVM5OJA1+lcwQ7Skmzg4GWe/oY/gbdfVh62ZJmS8oRPIaw2Qg8Xnk5gar9hoq5TSa3tJwe6dcxRUiSYvS4WPrMCIE70mAyeJ+7YBohzlWuNQ7dz2QFu1F5L0Zl7dpltZXg9BwXF09jrqhWAS0uPIhWyQyAXqH+zqXvrwerMuPD+Y4a711JFfCYkGAIqC3pUvhMRQ5kWv8nwjZT6EPXB4me5FwYPBTGFqm140Ou4mvJwPqb/fXpsEMtx/wyk/Z4BCNkBkOzI1u9elZxd5ZHBNEY3z3w3+A==",
+  "URL": "https://hackage.haskell.org/package/base-compat-batteries",
+  "LICENSE": "MIT",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1593372391",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "ghc-libs",
+    "haskell-base-compat"
+  ]
+}

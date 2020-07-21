@@ -1,0 +1,26 @@
+{
+  "FILENAME": "haskell-enclosed-exceptions-1.0.3-59-x86_64.pkg.tar.zst",
+  "NAME": "haskell-enclosed-exceptions",
+  "BASE": "haskell-enclosed-exceptions",
+  "VERSION": "1.0.3-59",
+  "DESC": "Catching all exceptions from within an enclosed computation",
+  "CSIZE": "14703",
+  "ISIZE": "49771",
+  "MD5SUM": "4402c4c845c31abef142c5e59e35ad62",
+  "SHA256SUM": "04b8703708c11aa83e586cf11b9a927ade4677bc10bd961cc8f91d2cc7a29461",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl75KdkACgkQeGxj8zDXy5ItgA/+PNDoQDalCeY2fQVRp9JxYPyFptbqSyhNeqISbrNIFXnJeysjpwkFRgtB/3PbQwqBNg6DzSrtYVaO9ONujPxht6f9LqTOh8XSkYfmzxreulTCRUlvV+LwmyO8k58fiU6AjdReaiPU+JxE/XZTzNfcraPwoqffbPoCarNWEyH3effu72AKahz+3A5YkQSyX1UG9JJACafHHOxZzOZSG0BOQUTAstdVlrFOPFiUYMfb4gd4Jh1lhBDDNSpOEj1/g6D/CoznDC9y56/t++HEvm9FyzARZhNw6oPYRxAigKshUlIZZf+CicAKwDSu4ninxCQAgaiJZdwVPvPHjpdIGGbe6aYvAbulgwtyNe0loqEa4zBEcsgg1BmZVH/86SWrvdGc4Z1Y7mdM4aYWs1XuZOkhLhYDMLAJDU+2p6xlpEtX75K67odMUwkJhemxtvjs1YFDeS4IUQiFNHDTuQAx8ZbxNotH5RQHBgokEwHkM1tTGDd1moI1bjoDJBeIqz5HDOfGUUXQkoLmW/YT4K8gvHG+9+nedQm9Zmc0kaCrjM36jE3k2FWK/IE527eZ3nTMyd4uKytJPERTIcuLs0pPjYXwHcXwmKYdfhdj7pYdmYKCOnM+vKc4D/q9DUJHyo4yYvXxZHIHjQf7YCpkxQ6qLJvSrvijkRNJyA8jJxkd6HMn6fI=",
+  "URL": "https://github.com/jcristovao/enclosed-exceptions",
+  "LICENSE": "MIT",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1593387454",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "ghc-libs",
+    "haskell-lifted-base",
+    "haskell-monad-control",
+    "haskell-transformers-base"
+  ]
+}

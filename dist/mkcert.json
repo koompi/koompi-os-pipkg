@@ -1,0 +1,23 @@
+{
+  "FILENAME": "mkcert-1.4.1-4-x86_64.pkg.tar.zst",
+  "NAME": "mkcert",
+  "BASE": "mkcert",
+  "VERSION": "1.4.1-4",
+  "DESC": "Simple tool for making locally-trusted development certificates",
+  "CSIZE": "1425758",
+  "ISIZE": "4448811",
+  "MD5SUM": "734c76810efc457cae4f3ba186a7cc2b",
+  "SHA256SUM": "5b121a65f5d2c9869fabb2660616e1f44975f04e7f8b40d0c6a44042ee708d39",
+  "PGPSIG": "iQJLBAABCgA1FiEEktnGzemaICTWkKdu50JoO6CMsv8FAl8B5ikXHGZveGJvcm9uQGFyY2hsaW51eC5vcmcACgkQ50JoO6CMsv8BBhAAy5gRaICOifyQUcl9oixhzdooV3wPPYQRLbvvHgN51qmy5I1hzFwYuqzMiFkQBlT4pIz/0q+FkTdYC/Kgbo5fayu7w9jNU6YfjxKox/c+qXNn+IqI1RqlaqaOFYbdd+HfXenUlsWj+Cl3D/1FzqVf5rWV2o3QREoQt1KipMlSHyEnAGpIVlRUHak2vhVYSW0FJnBe2cGhDTczKthamALU7Ghn9u7GOKc8n4jRN49JImFt7BZoMhLn46oLb43miUHiTuT+vtwz5OEtouOd70C+ouKJgGKmkysb8MkBnviQ2DHrLKZcs60nWboDM4nf/1GQIfQAuWzDTSzUbwWA1YJktjcDCFD2Wjl0SRh+B/2dSX9do9CNbAcFzXnJaPsbNv17nTSEhI8Rs6TQsvc7U8YcJUgT0TPV95Mtoy73UmFM1hSERNtvUCHd6RLwe6aHmEMsDIsOuo9RrusJO+f/dD2C3/Vfg5NLKAAabYkngffyTgS1Pc3CRtyLGwW2CSICvEYfM+1f+RMESso8+vsixppaMUp7MvW3v0jBXMHFowo38L8yHpbesOXwQi6fKTtlohGABwWjEsizOTli2BbybPNAq6weTPvnPDh2ShEqthJj4sdDkWvgd1YmnoukDsw9b4/VXGvhwERVxj6f5kBu5nKGq2HGbm7GjvK9Oyfli9obRU8=",
+  "URL": "https://github.com/FiloSottile/mkcert",
+  "LICENSE": "BSD",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1593959934",
+  "PACKAGER": "Morten Linderud <foxboron@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "glibc"
+  ]
+}

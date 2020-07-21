@@ -1,0 +1,23 @@
+{
+  "FILENAME": "perl-io-html-1.001-7-any.pkg.tar.zst",
+  "NAME": "perl-io-html",
+  "BASE": "perl-io-html",
+  "VERSION": "1.001-7",
+  "DESC": "Open an HTML file with automatic charset detection",
+  "CSIZE": "14184",
+  "ISIZE": "23008",
+  "MD5SUM": "1ece7ca41d43a52bfd0cff68f75ef7ff",
+  "SHA256SUM": "2c6d4c0f8c3e5f76330dc8c77c8dbbe985144fa0baf4633401be6c3060e7cf0c",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl7vNbUACgkQeGxj8zDXy5JBIw/+L5Ahg/UichJ0kkQyHb25sA+QJVgBoQi75vMvijo9oqVXZK40opkUz29G2hw4rwFI0ortEAuA6HZB50OsDAtctaHhzN292X1YByJQQ0Lu87QHz7Q+3QrlQN2qPT0QqPhhx7JN/b3JVcPiRGfHSn5TH4gZMtbiqW24kP0gj9b83Hxss7goKe3AdZ3kPsZAa+WW+EkiRpsUPMqp0uFNAemYa9jXikWkIJDVefF7ArupXYrY7MYS64k6p4lYNp1anxcDoiR0tkZe10m+BV1mFbGTybD3QvajicUjXEmKZJqkcKh+jZa1/AwbuQ8eAzHTQiQ5ovfq270ycLxjv0g6jHGWLtEpuDqhRN/tsNJdxto2+v4kFBtvZ0Tfz+uV5JocuQT/Jx3zBibuFmP2jzoBG+6Bfn0DKoxE0e+fT/tzu5Ht7A8zuJqqj8HoJcZwjU2Uxrx47InjezHY2s0h6pOlgqFAIx9Pmcc/eI9MptqOC0J/Dw0FJuaVBe5KFHGt3e6G1eGQjwtFERsShHpxfeTVXF/ptu9FxoDuMW4e+gTQjx8jtJpZMfy3pWlwz8jUN9uGEQS1Eb7nvTHaGERO5gtXnmU2f0vXrSDGkkydYPNFnMO2SRnSlkkbVb6raTrRGwB5ssZ88lnzCjeemCxt6zJIxlXu39tuMPXxt4o2G4Zz8XHocSs=",
+  "URL": "https://search.cpan.org/dist/IO-HTML",
+  "LICENSE": "PerlArtistic",
+  "ARCH": "any",
+  "BUILDDATE": "1592735137",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "perl"
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "FILENAME": "kapman-20.04.3-1-x86_64.pkg.tar.zst",
+  "NAME": "kapman",
+  "BASE": "kapman",
+  "VERSION": "20.04.3-1",
+  "DESC": "A clone of the well known game Pac-Man",
+  "CSIZE": "2613888",
+  "ISIZE": "3080733",
+  "MD5SUM": "2c21f7ddd292f65cd1975da427c1c78c",
+  "SHA256SUM": "15be4074de962724b1ee4633357908a4b87c4e2ead8d4fadca9920704cb763a9",
+  "PGPSIG": "iQEzBAABCAAdFiEEFRnVq6Zb9vwrc8dWek52CV2KUuQFAl8HBPkACgkQek52CV2KUuREvwf+LKw6GsglkODuhEG+s5+rjfOAisjk3E4HJng3mrml7npVz6qLqwaUuieD/vDqxL0jf0Us/G+RXJhkyPW4VuXiomVPtWDBfyVkMec6polweeBYtt0NR9tkg4pXg9q35NJjlvZr8KogWzg3vYKfzIWjfm7+XDqxEIgilw9YMRKNv64wJJ6lbL28Hf5GKRp0j39aFGfxk0o+kAnQ1tAt6G0H6riX5/w1AIsl8aLr1J02u0LE9Iu5ryWGk4TSUdRzQy6AEHFx5KdVxXt6QUlcSHewoWVKR+Z8JvkdhAmKNeUBqHujzeemk/PxbIZG3VUaO6QlOFcToEj3GOFCOEq7b1xsNw==",
+  "URL": "https://kde.org/applications/games/kapman/",
+  "LICENSE": "GPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1594108019",
+  "PACKAGER": "Antonio Rojas <arojas@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "libkdegames",
+    "hicolor-icon-theme"
+  ]
+}

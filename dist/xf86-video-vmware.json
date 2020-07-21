@@ -1,0 +1,24 @@
+{
+  "FILENAME": "xf86-video-vmware-13.3.0-2-x86_64.pkg.tar.zst",
+  "NAME": "xf86-video-vmware",
+  "BASE": "xf86-video-vmware",
+  "VERSION": "13.3.0-2",
+  "DESC": "X.org vmware video driver",
+  "CSIZE": "80753",
+  "ISIZE": "197490",
+  "MD5SUM": "f2b13f8ac90d68c131dac20d56df2fa3",
+  "SHA256SUM": "bd4173820cb5aeabb11163aaa3d20a9f489b9934d3c00ae01f18b4930e6039d6",
+  "PGPSIG": "iQFIBAABCAAyFiEEZkWwqMcAXnjbHXhk+Z/+D+rpmb0FAl6zhpUUHGFsbGFuQGFyY2hsaW51eC5vcmcACgkQ+Z/+D+rpmb3tEQgArvUkdsf7BdVe4+677mfd/yiazSvn2LQ0rxoKUxixO3Pc1dj6uSxnCBkwJ7yVUz+UnsBCU7pjQ/XPJmXLyjXhL8rb+zm52xK3WZ0BJRYqGrVS9eNsl9WeWsgmaJr6uHieKa65tKlqXydGLFClDcg+9rwl/Io6dm+URwUvEXi2ZdtDJ/zGIWCdKtXXmIqbqfXnQNx86u+lklgalDKSCXWltnQh+dDrWVbcNBMyybLFo90no1Rzqt/TP3scFLOgg/qjXgayaqZmEijUyEG3xX6uJX1X+NYu6UVOy8efkQbdc1vrZPLOvTy1XlPCIaLQBq0GUaPSqb3L1/yxT/ixbdh9zQ==",
+  "URL": "https://xorg.freedesktop.org/",
+  "LICENSE": "custom",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1588823656",
+  "PACKAGER": "Allan McRae <allan@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "mesa",
+    "systemd-libs"
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "FILENAME": "xorg-xlogo-1.0.5-2-x86_64.pkg.tar.zst",
+  "NAME": "xorg-xlogo",
+  "BASE": "xorg-xlogo",
+  "VERSION": "1.0.5-2",
+  "DESC": "Draw [old] X logo",
+  "CSIZE": "12362",
+  "ISIZE": "30593",
+  "MD5SUM": "8f7104d7d4d124820cd2cad93f226b71",
+  "SHA256SUM": "7270c2c3ad0742e3c9a9770b2a525a96caf9e949e49b9125c7516092b38cb65f",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl6/2WcACgkQeGxj8zDXy5IFnhAAiwC/jap0ulUj24giVSGrobSwNV2HWs8Jxhe2RL8pSfb3r+M2b6TjMtHOZ3a/sroCurL/roBZ6hNSUExAIHwnow0aGMpEBubEFUZIIAhC/JZ7R6kpoSIsh27foqWAs4Cj4k1H6Jz77BRLn/cwZYNWTDzqDDoot//QxYBnyCVfd+44mCy+AHPfo9uo6jiPFcPS+N4dwKxL93FquzYVAmQhBlSk/rn82MzNV2nnBqFZqeoZZslYDVAuwl1bSfSMxBiaBVVbhGUQVEfzOTDcfhgn8yrA6r2K8/thdjNO1BZnpVJPu/o4/bfFMi28m4MwAYwx8Ge5hwjkB+N4w99cU0yi/imyyYtrIY+xlo1r52hSQsRPS3uex5YarM8xjqro4nu5jkdIcjHt4LTn0YgGwRTBUvkXcfd5ENWfdE+cTHHwEQIDlw1j1WWnBm/Y2v9xc4S2F3k3X/xUzfmx9IuE6o8gY3KwciinRd5I2bxmipUYY7ZgUWnMmLj4txKM4Ca94oFPUslBAgbv0zop5xD+2R3DM9D9wiqyKABAtDDf3k0q5hUG8kGv0rtoZfZSwWxN+DJJEr6AWfbiZmuvonL7cbatiPL9294TenTS1oAatuy2TwvbEk4jL1aUmE6+hQrdYWTfJIE5dOKnTljm8iPJbzX5jBctDlCLZoOgQSHcwrID4M0=",
+  "URL": "https://xorg.freedesktop.org/",
+  "LICENSE": "custom",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1589631314",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "libsm",
+    "libxaw",
+    "libxmu",
+    "libxt",
+    "libxext",
+    "libx11",
+    "libxrender",
+    "libxft"
+  ]
+}

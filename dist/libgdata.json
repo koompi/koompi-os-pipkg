@@ -1,0 +1,26 @@
+{
+  "FILENAME": "libgdata-0.17.12-1-x86_64.pkg.tar.zst",
+  "NAME": "libgdata",
+  "BASE": "libgdata",
+  "VERSION": "0.17.12-1",
+  "DESC": "GLib-based library for accessing online service APIs using the GData protocol",
+  "CSIZE": "873650",
+  "ISIZE": "10176278",
+  "MD5SUM": "7081b46c29fbfa8f9094459ffebb0321",
+  "SHA256SUM": "a71f2de5d1dda0af390e87ad9daa9fb43d9bed9627ad838ef257be34f5f2abb0",
+  "PGPSIG": "iQEzBAABCAAdFiEEghj4iEmqxSLpTPRwpekojE+kFfoFAl5X+ioACgkQpekojE+kFfrr1wf+K7mcKS2Tnp/9xBjdxoMzSghM7ozB9VSWkhTBNoLZ10TNC0CpRHEuySurCsrlLaAxfGhok/w7LlQwMCKQ/T4D7URuToOPR03tVEZzwvG8UVinJbHuR8gFN7fMHdveTAdEqiodAUVO/uqxN+X1MZR7HjfiTVwcdpKLg7f0Vcvox/KDzEpzJ6ozbsACg+70MA8JGCZ54LHOugcbY9/jcPQ9DqDLbn7c939gxHZw796MUnvOTvC6wB8swXg9OwyAoISvoSTt4eWwmx2vy2WS9qvzLOUEF6GCPx8QuBGWCOZTtz1UebmoU2s8pY+z1PXuCHOW6Lui4GAmy5tdPmNQXRPnsg==",
+  "URL": "https://wiki.gnome.org/Projects/libgdata",
+  "LICENSE": "GPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1582822892",
+  "PACKAGER": "Jan Alexander Steffens (heftig) <jan.steffens@gmail.com>",
+  "PROVIDES": [
+    "libgdata.so=22-64"
+  ],
+  "DEPENDS": [
+    "libsoup",
+    "gcr",
+    "gnome-online-accounts",
+    "libsoup-2.4.so=1-64"
+  ]
+}

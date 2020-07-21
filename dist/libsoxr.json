@@ -1,0 +1,23 @@
+{
+  "FILENAME": "libsoxr-0.1.3-2-x86_64.pkg.tar.zst",
+  "NAME": "libsoxr",
+  "BASE": "libsoxr",
+  "VERSION": "0.1.3-2",
+  "DESC": "The SoX Resampler library that aims to give fast and high quality results for any constant resampling ratio",
+  "CSIZE": "129647",
+  "ISIZE": "342553",
+  "MD5SUM": "99e0892033c67034a193d225e5377f6d",
+  "SHA256SUM": "5671d5b4be42231c05812bd3ae50e2b3789cbb3715ef74830676d4edea54ecbe",
+  "PGPSIG": "iQFIBAABCAAyFiEEZkWwqMcAXnjbHXhk+Z/+D+rpmb0FAl6zsPgUHGFsbGFuQGFyY2hsaW51eC5vcmcACgkQ+Z/+D+rpmb1Rdwf/T710Z2yJPJzpb0SVgDgd3l2/2hFbtDh+tznuZXtKgQYX4ssnFSsb7V+aZCVp4lst2E8kCoAviZXcmbswJKNaEzBAgRUTjZJJfy46IRryASnFFnUSdYzfE14Ni6dhuHgV/yViv4X0j8jktBwDxGybyC4AzSEDayeAGlgEh3pM7YZFRW4GANcNNjvUOOgYja8q2HDFFdGW4gQCTv9o8GdIWFg5LrDkXPqojp8OHjmYfo6iila9CWH29SgaIXbHoo1V32Zn2uIu8rukjepI2h23NItGXL1YOMuAyvboNVnt0WvvBLrjCqaTEO5RF0fePaOYwIkjjvui9vk6PO8X5Sq9Ug==",
+  "URL": "https://sourceforge.net/p/soxr/wiki/Home/",
+  "LICENSE": "GPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1588834373",
+  "PACKAGER": "Allan McRae <allan@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "gcc-libs"
+  ]
+}

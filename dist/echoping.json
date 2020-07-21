@@ -1,0 +1,25 @@
+{
+  "FILENAME": "echoping-6.0.2-9-x86_64.pkg.tar.zst",
+  "NAME": "echoping",
+  "BASE": "echoping",
+  "VERSION": "6.0.2-9",
+  "DESC": "tests performance of a remote host by sending HTTP, TCP and UDP requests",
+  "CSIZE": "38699",
+  "ISIZE": "119465",
+  "MD5SUM": "02e9bd807980c6c12045b70ce4f9aff7",
+  "SHA256SUM": "fd96e2a9b9bcac3b74e052379f1be3a036640b82f382acfd6624903b02075a37",
+  "PGPSIG": "iQEzBAABCAAdFiEEhs/8qRjPOvRxR1iAUeixSKmZnDQFAl8E59oACgkQUeixSKmZnDQtzwf+PQGHXV7pGOJY2HPc24dFKwpKrLung1ljfVJXDmS/Mfq5+GtuT3ww/LE7o+ijNYaKhvGLgttPoLd1IFrZy+6smHlLgMmcdKmVFOSlot5t3H83p9UOfZuMHtxhoXqdz0EeKGNRDG5Oc5GVIHnvq+4IdSl40/Ce5pL20iSRIfg1Cby3LeGiAeDW3SnHFlu9PRryybmRkVPWu7f+MDkWZv10lWbXCfuuzSXnqp6Kz9RPfo5VpwmSDjoEMbw6OUz6kTxix/CLNZLLzp8twx7RMVTu/vIaLX6ewMnTufdzDGTQ8+LpTqq+pwqTRDUlJSJHkW00qlDIeFboCNIH2nsL3dbFew==",
+  "URL": "http://echoping.sourceforge.net/",
+  "LICENSE": "GPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1594156964",
+  "PACKAGER": "Evangelos Foutras <foutrelis@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "libidn",
+    "popt",
+    "libldap"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "FILENAME": "perl-email-address-1.912-2-any.pkg.tar.zst",
+  "NAME": "perl-email-address",
+  "BASE": "perl-email-address",
+  "VERSION": "1.912-2",
+  "DESC": "RFC 2822 Address Parsing and Creation",
+  "CSIZE": "14546",
+  "ISIZE": "31175",
+  "MD5SUM": "1aa3ea1ed55c20d3b1e455e35066c253",
+  "SHA256SUM": "33cffbe5bba7d645a60bef2f8af301968b52a743b14ed791f7cd9c01a8272098",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl8Epj4ACgkQeGxj8zDXy5JjfRAAhbaMmoQRxPp/WvOJLVz0TPsMB1/kVvjx3wcQoJya4kAs11TcWqyJlunMcrYXjhffZ8O/ZMd6HE6lH+qSkmP3Q3RKmDpOD2oAXzWUuq1x3xABgsgiaH55W8Do6VbFcMUhMHfHyVui89CZhiexVIJ3y1AbWRO0ugSDPncwNKoDVyUfBR6Vn0BA3IS2Iz/NkzJ8Dq306mwxVtQHO0fnZocxoascq6hDjb9DzfarHOJ8GcYCR0RSh0AyC+9Bbf1sIHcpmuDVCWZjCfO6q1nr75XFDNQkDUXg/i1rVp8evP/1EuTjK7rIbEJ/3Wt3+tCu0vFbsB9Hs3D8rT87/TP+17Zz7F7aa1MdlUPMjNxNXxbItKLbqqa5kVQ5GEexeGH9SAuSV1O6ojYF5HPY8Yic8LVuiDQBVkeGwud+ZIyF3P5DAR87dVPJphf5QcVw3rdmDgh4iiBR4MeWd17cpS3h5wt6ARjMFiWdHumdCJAtkRlj7lgpza0YK/4UIw3N8FUWCh2Ux6QhtIR4lhhi6xdUPYOuW1O8mWfq1EFnHX3bItGw8T8UW7oAWRLZ196d6vN9CO/rzb2HJWf/JNxAnBOVnTjPyCvBqfcCtsjyAPb25pF2FJILAvQxXmhvFcJ7a938JxG50fGuB7R6JiKpfNs+2uYjvkfs84pVQK0OUsK4xxxEW6I=",
+  "URL": "https://search.cpan.org/dist/Email-Address",
+  "LICENSE": "GPL",
+  "ARCH": "any",
+  "BUILDDATE": "1594140165",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "perl"
+  ]
+}

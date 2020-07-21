@@ -1,0 +1,23 @@
+{
+  "FILENAME": "perl-shell-config-generate-0.34-2-any.pkg.tar.zst",
+  "NAME": "perl-shell-config-generate",
+  "BASE": "perl-shell-config-generate",
+  "VERSION": "0.34-2",
+  "DESC": "Portably generate config for any shell",
+  "CSIZE": "14498",
+  "ISIZE": "26253",
+  "MD5SUM": "add84e4ba6da0ce76b8f35462555c23d",
+  "SHA256SUM": "58d5ed1e66cf039dc28ba1a461b0ca7631b050cb971e17d8de9949afcf29fc56",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl7vU1MACgkQeGxj8zDXy5L6uhAAgaPKLN4lUDVW4KTQNEnGBnt4ycuIm0J2WAy0nT1SsgcfOvNMRb+hOblSXIbj5MNTCfqSq+tFHdJ/2ocRaF8RBTkxF7lvQ+BT9ajtSf+cvbCJWsfcgw2AKR8D6K8mS/yBp7s12O8U6Cl2ualC/RRSRCaDNrpbt64iFCTZIYPO4Q6youGnpcQzIbBhTNPKsfLINBPeVTymFhp5Hrlk534IQQhgWfI3Qu/XTyk+0Dyag/LygAP/l6Xxh+SZK84FdK1Uh5c7oZzEYL7nr+OSq70T7EGkce/VOU5xomtiiccXrBfxKcVNycg+oOQZlCo/lE91kfIG8Nvyf00QxOUX8rhIlE3Y73MjqZHgTy8nG/4Ll5dQk+CEg+ZZyP2BE1PN6TJa6UgbyVHcCO6gzicDA8c1nPhfsVVeVe1uTWx/GlJf9o9lzSHSwFksHsEdPW/o3Q+kksZ+38qrGBvUu6TbMCbgZ1mMh6Yttp9xfRPHCnMgAPZ5Hm91ZYOMrsuCsy0eExUUDbfFY22n/98+cwZZINNItLlKyjpnkBw56EOflbUr+rK5PgMJBU75YDD67QsRxhRl5WN4wlQN9vfykFzofzABmDz/LsnatkE3VBPX/hz/LKzeLgrlfeCu8Tksf/ZD1NaKGlXbdHbVtm8KyDFye+ElbcClxYMvlXc5k6i4U9j2Iuo=",
+  "URL": "https://metacpan.org/release/Shell-Config-Generate",
+  "LICENSE": "PerlArtistic",
+  "ARCH": "any",
+  "BUILDDATE": "1592742706",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "perl-shell-guess"
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "FILENAME": "pasystray-0.7.1-2-x86_64.pkg.tar.zst",
+  "NAME": "pasystray",
+  "BASE": "pasystray",
+  "VERSION": "0.7.1-2",
+  "DESC": "PulseAudio system tray (a replacement for padevchooser)",
+  "CSIZE": "48433",
+  "ISIZE": "108395",
+  "MD5SUM": "8f063947c3305485c898a1c69eed3324",
+  "SHA256SUM": "0aabd29746e709650712661917b65a1bfe7fdf1ba81b830a26aabf57b48d4d15",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl8Enx8ACgkQeGxj8zDXy5JQqhAAiY128l5xEiXdyHcRuljcJRoHNWcmggLJ9ogDYqmLIIAEvSrbJrwDUud10FskNgnKLNNDVcBvvHoB6N6JKrRv7t9cBUQq6SYkKc8Uo0QOT5FR7SCsBoxfeP/uOFlVTuh9QJyIF0Mrpdii41NHlVp99NINLIMzIYF+Sxvw34U7aumTl+GSZ4580j5XbcUz2Gfn9jyj6HLP20BhCecIt93m+8II59BJakOi+KOdRRH9hWEOqfxNgHoDlEUFWnk6ddRVLSWyGuV/L7xONf+l8HZ5m0l1e2pFmbjpSPzBuwc7Fz1rxQc46ZdcZdpz80g5pSx970+WZqWga5Fj6ee5N1AtIcbsDBeVMBT0T49gAGgijHUHWLOVK8cfXjgpg22n6kbgvzTkSxvcsLXmnCYYS7oRpoQQGb/1BffzJMC1SokOACKvKzDBgDpZbAtGQC12HTO0d0D11q2jEAviI1Lnb1FN/mHsnQbJemRsi16k4f6QuwU+b+NcoKGtyieI07ajSfUAkyARrXcgtcwnlErr47V28nEgohIbvlOy8TONJVtkaAzjndI9zoGU6iDAPcE51qevgne9MmNXqt/FMCAvYo4x0U5RXJfJY+x+pA694PSmPpCS/rPgwobNHZfInqGPKJKfzWWkNJdK+ALbKaE1zqfQzrKxStBnLggUvycOzz1TP+Q=",
+  "URL": "https://github.com/christophgysin/pasystray",
+  "LICENSE": "LGPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1594138261",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "libpulse",
+    "libnotify",
+    "avahi",
+    "libx11",
+    "gtk3"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "FILENAME": "kbookmarks-5.72.0-1-x86_64.pkg.tar.zst",
+  "NAME": "kbookmarks",
+  "BASE": "kbookmarks",
+  "VERSION": "5.72.0-1",
+  "DESC": "Support for bookmarks and the XBEL format",
+  "CSIZE": "500644",
+  "ISIZE": "1173221",
+  "MD5SUM": "d925396cf7dcc7160eed0ffd875bc0d0",
+  "SHA256SUM": "3e730e8d8335e4e8b1fdb8dc57b67844cff342c127df17c8979d5c3694db3353",
+  "PGPSIG": "iQEzBAABCAAdFiEEFRnVq6Zb9vwrc8dWek52CV2KUuQFAl8JYG8ACgkQek52CV2KUuQEzAf/eRzhTRx3vsQo4att19d/MPsfsTIxoOSVCnzAzgA7V1yC/7kNL+SvnbAw6i6iQzOf4H9PkOaEMRhbgsLx1Zv1C4zbJ0rzyJAwz41beWKdQzzqsFyWZ0qyOv7QFfq2m57tRhZ6/25fo05Kf1qhNAIushp2TnGzpDsOt5b7SoN3xsyYr3Fv9v0dU023/sDkRtSM61/PJYwUhHLw7iN00cu9hy7qAwQdDyhx+zWBAipO55TssW6QgJDRZgaLtuR4D8D/bZr4tM8LwoSTac1VMt9fH0ixT37jC6k65mO4yUauKQCbPMGTCq9qnrxoil7q5dwDDLLD8VqLcIncpIIXdvJ1uQ==",
+  "URL": "https://community.kde.org/Frameworks",
+  "LICENSE": "LGPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1594201507",
+  "PACKAGER": "Antonio Rojas <arojas@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "kxmlgui"
+  ]
+}

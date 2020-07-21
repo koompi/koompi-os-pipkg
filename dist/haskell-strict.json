@@ -1,0 +1,23 @@
+{
+  "FILENAME": "haskell-strict-0.3.2-17-x86_64.pkg.tar.zst",
+  "NAME": "haskell-strict",
+  "BASE": "haskell-strict",
+  "VERSION": "0.3.2-17",
+  "DESC": "Strict data types and String IO.",
+  "CSIZE": "38615",
+  "ISIZE": "168050",
+  "MD5SUM": "c3c8e55809b77ec9f1657e9fd1ee60ee",
+  "SHA256SUM": "a62ef8d2cb526b08624f5c33cc88225b911e6bb26a24c8917cdad9e99691171e",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl6htAAACgkQeGxj8zDXy5I3dg//TE0i8/eJ5zxJiZDSlyfZdn14LaOXBFPuCeqqhwtTbwGv1pTd1Vu/BAiZy0kjm6zson+IJhjBNdHXJADsf2IBSZ8gCXBn2sr0PC+Ha2Db8UKay3whxH4gjG9PVAh1mF9RY7HNM3Egp9HqE9Q5hK9fs0ut4GO22eo5uVC+/WnQxddxQRY+295UY3SoaUDxHcDzR7GAsOqBLxcKDVCQXoTU0wC9U1YrEoJNIACyUglAo2ELUlDMuVzxHz/SERvQob0lxsX10+afp2eDiuHT91WKwN6AV01y5IA4GQYaJLPrZus1/+5RgzSQvi0nzeYfNKOTGv9bovnDgPr95l1QAeK7glzmWJd4ciPWz4miugIhAD1RGljiB5f9Se9wKskFamMXnEj/bVnqdbSWoLFiCbjwPOJPxh06a5u4yZ4oUdHptLF6lm7hkjr9hUjJhzMhWPzmcBip1rTE4me1jQPL/P82QoTQGqBC9sr9pOWVoXbS/Qb6sMhqwwR+bOVVHItmF+0QlddhU5nnHWYBHlo3JpdBCeyx8Cybd9aQ6TogBra/meTObVdlvW40u/Uq8bSwe86NTV1DZeSLUl18VdkK7Aicmcz42HoNvcYRYQbKK8FJHTtJfqn56LDK8kx8VnhMpzedK5pY5nv+s90gl3xg1zpfLqThz5byTq+WdQB53h6bLRU=",
+  "URL": "http://www.cse.unsw.edu.au/~rl/code/strict.html",
+  "LICENSE": "BSD",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1587655590",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "ghc-libs"
+  ]
+}

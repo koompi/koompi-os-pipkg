@@ -1,0 +1,29 @@
+{
+  "FILENAME": "nodejs-lts-dubnium-10.20.1-2-x86_64.pkg.tar.zst",
+  "NAME": "nodejs-lts-dubnium",
+  "BASE": "nodejs-lts-dubnium",
+  "VERSION": "10.20.1-2",
+  "DESC": "Evented I/O for V8 javascript (LTS release: Dubnium)",
+  "CSIZE": "6347608",
+  "ISIZE": "23266765",
+  "MD5SUM": "8adfb2f187274518a79e682be9c82a2f",
+  "SHA256SUM": "0d4cd55e701d0953a4a8a5d31d44baa43a8c6d0e97dc7ea7d6367fb27e42b8f7",
+  "PGPSIG": "iQEzBAABCAAdFiEEhs/8qRjPOvRxR1iAUeixSKmZnDQFAl6mj7AACgkQUeixSKmZnDShHQf+Ih7ml/ak1Nul6iojj4UUFYDJCjEo1qzESXjE8/LmUOPg60ZoKdCjyuY2YFORtQw0y4nSbnLnLuVQzL+rzFKl2W3i0Oue9XVpdp115iL0oJHtJgUQ6pgbKKV/REOnNr9GIit82a3Dq4WVvatEbyqpPgcmCHjNhKXU3l+zEiC20i74OczcdA2bLft2/SdIhYijVy0rfA2scTFOo9ITPxOOeUU3Se07mcfwkprStROLmF9L2tuzVxPS4TVzWCrdDmEcAjfD43MmQYf79Ka75Bsv7pFl0lfRjUwLdQs3gJtSUEHgfCTjbIOQjuEju+0a5himARL/0GEAJyZv5F9zInHT2Q==",
+  "URL": "https://nodejs.org/",
+  "LICENSE": "MIT",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1587973599",
+  "PACKAGER": "Evangelos Foutras <evangelos@foutrelis.com>",
+  "PROVIDES": [
+    "nodejs=10.20.1"
+  ],
+  "DEPENDS": [
+    "openssl",
+    "zlib",
+    "icu",
+    "libuv",
+    "http-parser",
+    "c-ares",
+    "libnghttp2"
+  ]
+}

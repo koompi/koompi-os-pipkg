@@ -1,0 +1,23 @@
+{
+  "FILENAME": "python-editor-1.0.4-3-any.pkg.tar.xz",
+  "NAME": "python-editor",
+  "BASE": "python-editor",
+  "VERSION": "1.0.4-3",
+  "DESC": "Programmatically open an editor, capture the result",
+  "CSIZE": "6992",
+  "ISIZE": "13109",
+  "MD5SUM": "5cecbeb301e747e4254a0cee05e70dd2",
+  "SHA256SUM": "c2d5ce14bbc68cd15182df2194b2e4ec51bfa712523f2d9d2a2e667b51223444",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl27JGAACgkQeGxj8zDXy5I6hA/+IEFzwR6PXzHJ8PwSu+u/rakN6NuPl6Snb7NTBAj0nRMf5mqIOQ+PlOdi+phd0BjRlqXeV3SKBrFOV9V+znKY7NJzgB7Z3qfxuxNaF1nIbM2lzLzP6DfpZSJgXv2kiNqLTdhq9+SI7uh9O09NG9kyyf53wr/vZr4M5E/oH1sHu3hd0sE9If3+sOHAqphCwzSytzqW6QdYE+d59MQTzNRaC7czuYFSFmPkKQprqGRGx/6+2cx/sM9qkSNSh6cclDEHi8kb5hAovsVRt1YhqF+BUJvgMV7VIPNKUOBJf3FU05NL1GpigXYlWmylT5cw/+fDHP48cQ08BGtF4em9OFEjKp87UM7GNmv0KGkJSZ1xMaVtVEdw5D5GjGxe9aXPv0jlNMFb2j0Vt1Ntqx1BpSoh6M0YK+iY0xTivmAz+nFByxNThUcTpmiwi7JTqLcfTc/R6TZppu1T4HrwU05yHoUldIrZPRYkgRu0VzDmTY9pli/FKmEE0UQXlJfV5mT1Y7RF1bsP/eUbzkx7QkQBNvnXwn/KErw5PKtXkM0XsBSKY2O1YK1G+Lc+40X0LrN2zqBG5dEccJLt6ttks2Xc+ytaOPTtztZMNQjKKzu9kD0qz8a/3fJiGpMFXaMPUz+uSJlOnLgep+vxHm3kXr5SlTNUg9lWzMmh+kvvShUulCCcuPk=",
+  "URL": "https://github.com/fmoo/python-editor",
+  "LICENSE": "Apache",
+  "ARCH": "any",
+  "BUILDDATE": "1572545598",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "python"
+  ]
+}

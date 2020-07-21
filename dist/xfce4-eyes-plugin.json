@@ -1,0 +1,24 @@
+{
+  "FILENAME": "xfce4-eyes-plugin-4.5.1-1-x86_64.pkg.tar.zst",
+  "NAME": "xfce4-eyes-plugin",
+  "BASE": "xfce4-eyes-plugin",
+  "VERSION": "4.5.1-1",
+  "DESC": "A rolling eyes (following mouse pointer) plugin for the Xfce panel",
+  "CSIZE": "51253",
+  "ISIZE": "96629",
+  "MD5SUM": "c48d5e409a5798c084e926a220997f7d",
+  "SHA256SUM": "5e6c96d5ba2df2ff87cf69c476f3c670637d96d19fcb93036de5767ed1444fad",
+  "PGPSIG": "iQEzBAABCAAdFiEEhs/8qRjPOvRxR1iAUeixSKmZnDQFAl7uxh4ACgkQUeixSKmZnDQoHQf9H+i2cULdcUNW/iMIiM1D4X1h3K7grR/EAIb5XMecPGnc+RYCD/2Cty39WXhqN7uZ7e9gnhjdKlM/alhGN2QdfHhQIlshC7OwHZu1RzcLCGw12k/xjCsbCoeJM5qDNMzdDArsbmi5ZmunQjybrxzoTF0iLMMm0hWwR15qSlQYtnRBYl6MwaAtqKIshIyZTntbmIY3vl42s1AkSarduSw8qTczPxl0ipr19P5z6JzYeH/hH5zWxMU5bHo/NUQo1nN17alDckVrqXfEvLvzMYmqWwgI8V/Xd59kGIyt7lzRGeue/m0H0CO6IECdAiPE39ok+3pqIHohcfD+yrQg/u7iVg==",
+  "URL": "https://docs.xfce.org/panel-plugins/xfce4-eyes-plugin",
+  "LICENSE": "GPL2",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1592705984",
+  "PACKAGER": "Evangelos Foutras <foutrelis@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "xfce4-panel",
+    "hicolor-icon-theme"
+  ]
+}

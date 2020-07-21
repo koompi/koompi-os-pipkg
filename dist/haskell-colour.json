@@ -1,0 +1,23 @@
+{
+  "FILENAME": "haskell-colour-2.3.5-47-x86_64.pkg.tar.zst",
+  "NAME": "haskell-colour",
+  "BASE": "haskell-colour",
+  "VERSION": "2.3.5-47",
+  "DESC": "A model for human colour/color perception",
+  "CSIZE": "148345",
+  "ISIZE": "762242",
+  "MD5SUM": "f1e2ba59c529287826f1b66f35af41e2",
+  "SHA256SUM": "dad5196db9ef14942524c5addc4b2d1cf47c83c7fb309165c8d9fed60a451c0b",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl74/cYACgkQeGxj8zDXy5J28A/+O+zB+il+7eGvw8Jz1qgMa9N/ReWfQMQB2otXOkRVHDzbyouAd+ALaGfgS1I0dvS30O4QWeyxRf8S/9GXCDYLBiDoZk57UCDDX7y2KEGgqGIDe39PFcC2x2RQpA+ksWtZCIQHK2ZlljTQmfnmnIExxt+0357IhhP+0Y2itrxwNawwditug2/zf/qnE3lln5Y/9h3zMvzdZyujIeKEogMm4ZXyEOSmR28+mJze/PzKDx4rlUOaYSp1PjO5DcsUpv80Xrulhqg2b03nEwJlTN0gu/8fHpbEdHrfwVheqeTzXEB2FE7ZR09YQDwsk+dboIg+dTq7k6XwAZe6Mq/w9JtJ3Yvm5d+/UoIRNd4u3F4qTcp33OJTQ/CPAlB2wsVPJGarSt/SvMF94qoowXAY6sxH8UxROSNfz7GzSRO8H4ViOuALunKB13U5VFS3rkYwFgvDT5VPXzFHvue48Ddjo0Cu/M9t9pf1HOuuzxPDOV/Ysgk29O65NUG6Bvoie7HwNzLVT5ipPoNFZGm7Z1G5wYBtATCJ7cTCeGcZC00dlGKF/MxHeIT90C/oBmODDkRpe/V75hGNwz4FswFyWILiY3+QjJZE2wdu9Op9unFY+UFgpbUymQ949xl/wE4ueis9D3H/98kvMQUd6kPPRHLRkeFPnyPojw8+zC8DdbM9v++cwPg=",
+  "URL": "https://hackage.haskell.org/package/colour",
+  "LICENSE": "MIT",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1593376163",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "ghc-libs"
+  ]
+}

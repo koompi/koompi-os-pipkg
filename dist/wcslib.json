@@ -1,0 +1,23 @@
+{
+  "FILENAME": "wcslib-7.3-1-x86_64.pkg.tar.zst",
+  "NAME": "wcslib",
+  "BASE": "wcslib",
+  "VERSION": "7.3-1",
+  "DESC": "A C library that implements the 'World Coordinate System' (WCS) standard in FITS",
+  "CSIZE": "1995875",
+  "ISIZE": "11544671",
+  "MD5SUM": "f086f2d1aec4c8230b620bf8584d12c0",
+  "SHA256SUM": "060c170a78efe2118c9752f61e1b6af91541c297990ff59a59985bcdc3cef1a4",
+  "PGPSIG": "iQEzBAABCAAdFiEEFRnVq6Zb9vwrc8dWek52CV2KUuQFAl7XSMUACgkQek52CV2KUuTOHQf/QIIqiHJ1mcNs1LV/LsUzSOGZAyNbbkIlltegmfKdoZ+KwTfiLJaS1003u5Ymst9jq40PQIzE/bbaCdtbGN7l8U5bzVmCFH4CEZLWhADVrJm0umtUPwKEruIswbMMhNN1+5cn8YxPCESzEwrfnV7MH4+CqLbbYQc6FyaYrVrB/L8Sj8CiKBhFwfe2rSEtW3zaVx7/SzqxIqARrFIZGl+D7pyF759EpKQOdi7SOdW2/HHIysKum6M/XFRcL4ukEMPrXWb3lXYlEujBqqe38mumjZy3UJz5pT8vIuXj4ZbBrDIFXtHgrgkWhL+5PY+pey1H+hMATIKlBFB+G4qLq0D7Vw==",
+  "URL": "https://www.atnf.csiro.au/people/Mark.Calabretta/WCS/",
+  "LICENSE": "GPL3",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1591167052",
+  "PACKAGER": "Antonio Rojas <arojas@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "cfitsio"
+  ]
+}

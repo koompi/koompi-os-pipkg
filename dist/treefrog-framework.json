@@ -1,0 +1,24 @@
+{
+  "FILENAME": "treefrog-framework-1.23.0-1-x86_64.pkg.tar.xz",
+  "NAME": "treefrog-framework",
+  "BASE": "treefrog-framework",
+  "VERSION": "1.23.0-1",
+  "DESC": "High-speed C++ MVC Framework for Web Application",
+  "CSIZE": "567652",
+  "ISIZE": "2155520",
+  "MD5SUM": "e87c071e522a4dd27dbc0a573b3e12b9",
+  "SHA256SUM": "d787c91ae45b3720dbe0f93438dbcb52bd471a8f327e2242543614426b20690d",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAlxEef0ACgkQeGxj8zDXy5LghA//e54i10V4lNqAEgb3ei+nRTfFps5I+70lsHMgC5em+oSbi5B15Tn0a1FjwpkWMudZS5M5WN6bHdoQ3IOmy1bPQXH/aKiDD6Kkk/gGYJnO+6mZ37qH1JJUsKixUu3cKeuToFRQApxM5mPPy/RW4y/FUrK7pSTn0f+uCVPdXqKeHIHQDgc0vDEUdrGaCTrkwIswbsMjxKYA6V/S7G/SYNiScfLjr6cv20bcOVCL2nQdMn1CAp0XjP6TDsaDG5X9cDUTSmY1epv/ZfDiC9jsllVEXibQvVG0ysS3Vf+AlNtHANl2kI5SVSx9eOfMT3YQKDff/rYYO8ntnZkJJNgwFjJGW13kmnngvv36zy5torpwltkuGlXABNoiSAdR0+O4d31dKPSq9cAa1HjY4YQsMNMgchziHLxj4oIsd/9dCAxZOmO1LMd4iu8QVlsH782EGJnrC+7acoGWPz1gJ2coNP/YFXf+jKA0EPIGM6FdAmxbM19Ct6JgGEoiREhKRQ3coWiBK6s2HiwuVXKKuDECTIYxdBqg8fLymBXPoi8QQABgp6YInDLMDdEUWmi35NTUhGL+nZZby7dOn7hQ5cdop6lGauaWW6lY3JpdSJ9G2IWb0+uwUZfgFTnSYyikgscoIt8HBbI6S6HNdEr0u+MEjWMPld6qrffbv+YK05EPD0vGYJc=",
+  "URL": "https://github.com/treefrogframework/treefrog-framework",
+  "LICENSE": "BSD",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1547991301",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "qt5-declarative",
+    "libmongoc"
+  ]
+}

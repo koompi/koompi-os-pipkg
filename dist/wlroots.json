@@ -1,0 +1,29 @@
+{
+  "FILENAME": "wlroots-0.10.1-1-x86_64.pkg.tar.zst",
+  "NAME": "wlroots",
+  "BASE": "wlroots",
+  "VERSION": "0.10.1-1",
+  "DESC": "Modular Wayland compositor library",
+  "CSIZE": "278082",
+  "ISIZE": "913659",
+  "MD5SUM": "4098953140e4931661f3b55b4ee32309",
+  "SHA256SUM": "e31ed8a20291ed21b3c44326b677b9dd7f110e4badbfc95c4c36e5bd34672eb3",
+  "PGPSIG": "iHUEABYIAB0WIQQrrTV83XSdUIHyTz2YyyfgKmgI2AUCXmmLxwAKCRCYyyfgKmgI2FgtAP90+KoykvNT6EwcArdpSA9BmkKmsQxVLt4k3c2hRY4IPQEAuH0skF91cRUB1bM+vluPztOPaw94tUzyeGBo8cO20wk=",
+  "URL": "https://github.com/swaywm/wlroots",
+  "LICENSE": "MIT",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1583975137",
+  "PACKAGER": "Brett Cornwall <brett@i--b.com>",
+  "PROVIDES": [
+    "libwlroots.so=5-64"
+  ],
+  "DEPENDS": [
+    "libinput",
+    "libxkbcommon",
+    "opengl-driver",
+    "pixman",
+    "xcb-util-errors",
+    "xcb-util-image",
+    "xcb-util-wm"
+  ]
+}

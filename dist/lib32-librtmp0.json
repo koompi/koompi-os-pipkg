@@ -1,0 +1,25 @@
+{
+  "FILENAME": "lib32-librtmp0-2.4-4-x86_64.pkg.tar.zst",
+  "NAME": "lib32-librtmp0",
+  "BASE": "lib32-librtmp0",
+  "VERSION": "2.4-4",
+  "DESC": "Toolkit for RTMP streams",
+  "CSIZE": "54436",
+  "ISIZE": "115956",
+  "MD5SUM": "ac0f35ae15c1aeab79413b0565b4d19e",
+  "SHA256SUM": "c9715242dddfdf5347dacdddcaf6c10999af9ed6ead2c740636ec70b9eb2f16b",
+  "PGPSIG": "iQEzBAABCAAdFiEEhs/8qRjPOvRxR1iAUeixSKmZnDQFAl6w+dsACgkQUeixSKmZnDTXkQf/d96U2uPm/1tJPivxQXuhQxmQEmioiXkOL8yuHyiKNe6eDKMam1iK2Zl0/L4fInYz0mhd3t4OBe5ihWo+mKp1OlXscLrrKxueYyC11y8bi83KaTK6KShky7W6+lg15TTyE5IQxW8Szz38IF5UjYVHL2OgiMHie4LcNYOuJ66nwpnW3+/bRcNyvzQJS2C+cdaLsnacUf25TPmRdKXljD0AYSnavoy6temeoGYvK0Z2M3tTcCKzdhRAOOjzHWp+C8SqxooUm/URPHjhdpikZXlZCaPQpX/e9pptCw4PGlrExxAO5IE7PVig5dHUUl+/v9+ULCiiXq/1cgUk1mabO7OuFg==",
+  "URL": "https://rtmpdump.mplayerhq.hu/",
+  "LICENSE": "GPL2",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1588656583",
+  "PACKAGER": "Evangelos Foutras <evangelos@foutrelis.com>",
+  "PROVIDES": [
+    "librtmp.so=0-32"
+  ],
+  "DEPENDS": [
+    "lib32-glibc",
+    "lib32-gnutls",
+    "lib32-zlib"
+  ]
+}

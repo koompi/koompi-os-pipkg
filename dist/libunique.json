@@ -1,0 +1,23 @@
+{
+  "FILENAME": "libunique-1.1.6-8-x86_64.pkg.tar.zst",
+  "NAME": "libunique",
+  "BASE": "libunique",
+  "VERSION": "1.1.6-8",
+  "DESC": "Library for writing single instance applications",
+  "CSIZE": "32172",
+  "ISIZE": "141989",
+  "MD5SUM": "6b2e71f1c5f4b14cb6d018559089a548",
+  "SHA256SUM": "8b216d7d96633162c75323ea984637b46bf8ed66ea78fe7fb9d272c1f32c0cb1",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl6/zgYACgkQeGxj8zDXy5KGIRAAuzV+ofPW8dS3w54iIcoH5vON5wZRCMUTvWF4L3dwlHMzvtcuDp+73EDHXCYt7+nJWrUUUtdzF/RVFWU+SGSCBdA3+fxUkmubvHMoLllStFvxhukZ77Ig+n7ilSXQqfAqDQSBEb4Lsy0Hi/CVXmOSBgaZovjWx86ZtoU9G9vahCD4ybgXDR+OSvvebj47cf7DB1DkaTWVxwNXzjIV2c5FWEq1m+l1uz/LPBY1g1aiMHaqiWgLNej7NJHAPd6lawROReztOttxpGeNNzIDnZLV64QKHSa4my1991Is8N1mzf0SA7tn+hz6MpAAIhSOcGVeKerfNdfN58EHHweGjtvmfz1EhdDmTk63urfmORSbD2COc869cgHeXjE3kPDzpDJtK4OLGD95b7wUPLe/p+UnMu5cZzbdnIoHyF2mYnz8wj1ht1ayZUfA4SC0hRTQlL4e/19xJOWzEkSITur8A9Ao0bEgpZPsj8JjAi0b7MLhmkAexcxEjARsGQ46BAPoKSN3ntuf8nn9kKE88XEyTu0ZnrCTf6l9ZEaq0nD6nGY5h71Qh9QMI10XvXKImwc8vHkdB3R1cGg/IYfVW/4lJeo6c6JXiF8Vnp1TFaT2Ul7kahO+ulmxmV9gyJC+ERy3bdjdGuvJaBmrw1gl9nOhMi8QyWShn3UXgidErq+qzd8iwZA=",
+  "URL": "http://live.gnome.org/LibUnique",
+  "LICENSE": "LGPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1589628384",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "gtk2"
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "FILENAME": "gtest-1.10.0-1-x86_64.pkg.tar.zst",
+  "NAME": "gtest",
+  "BASE": "gtest",
+  "VERSION": "1.10.0-1",
+  "DESC": "Google Test - C++ testing utility based on the xUnit framework (like JUnit)",
+  "CSIZE": "322505",
+  "ISIZE": "1558109",
+  "MD5SUM": "287a41df6238493a40c76df0a25d75f3",
+  "SHA256SUM": "b61ca038643af794415fd5ccdc27c4cf4b1b8167f47912144e5e1ff45bf56d0c",
+  "PGPSIG": "iQIzBAABCgAdFiEE4kC1fixGMLp2ji8m/BtUfI2BcsgFAl7KvxUACgkQ/BtUfI2BcsjnChAAmiYwWfZzJvVTX7u0KTjnsh/OiyMGJX11BR/+pBZbzbBXEO3kTjSdmTdYC4/7J719I1cBFuOkSVxbEpWB3VV6gDCA4qRCR0KS8A2zyImTKmRsOctQBTBU2pBtm3kmGkjrKtc8UPYUVnrc6nr7OONOyAQbycH6AsKSjsr6cL7y/MY7p7SVr7YXyLVvYJxD1BcrvCdkjDP8NBx9EjNey11TjOE5dBdiACGwUrh7gtSEJ9nbPmFzDKFpATlR9RVG0w5ZxuV51JRHc4dUzPYaKtdlbbk2wR45r2lJ3yyJy8eTnwkjifgORDENqFXRAKNBUq3K/SCPndj/F3y42alWvBvFItre7QF7WC6MYTICISe4OqFm5nKF8vQytB/urdgYHh6C6lvoZ+BLVCwYDtGwHE1OB041n+lQPzuV7yqHhxfzssE5rH9WD2w+7AeTn2Mkq54J442znrUpWAVODX+gf+IeZ+oPUVTyu4rMGJw8oNVNRzpOZuq63JsdMHX9Cgrr0laSPtXTlZ1BTjIdo02tYl72OB+ApfluP7OvXDjtoKZfOgTBnj8KBdE5XSudKnZYVKNQzMoK5TXNr0084ErK+Qwr2d4WKaRyay3ZUs8zDKbmd6AdS5b8Kp/HFlRYOHlcBBZhyYVBmu4kBSn2D/p0KVgfWbcaJp4d/CGC0XNom+0h/QM=",
+  "URL": "https://github.com/google/googletest",
+  "LICENSE": "BSD",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1590345204",
+  "PACKAGER": "Levente Polyak <anthraxx@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "gcc-libs",
+    "sh"
+  ]
+}

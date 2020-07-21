@@ -1,0 +1,25 @@
+{
+  "FILENAME": "pdfsam-4.1.3-1-any.pkg.tar.zst",
+  "NAME": "pdfsam",
+  "BASE": "pdfsam",
+  "VERSION": "4.1.3-1",
+  "DESC": "A free open source tool to split and merge pdf documents",
+  "CSIZE": "23348023",
+  "ISIZE": "26183855",
+  "MD5SUM": "d0cdaae6b2d5e8b7cc42eb5db2dc0e18",
+  "SHA256SUM": "fed04e80ca499af81f0cb303aa64184700991f3d4b93db1c7a0fd002a4653b94",
+  "PGPSIG": "iQEzBAABCAAdFiEEFRnVq6Zb9vwrc8dWek52CV2KUuQFAl6+6qAACgkQek52CV2KUuTwnQgAoArhPt1ZlAaMC+zVx5DFRyKP8LBaqf4dHXCHVtuPudTanFigiTQeN4BYKZTb7bykWcvk7ATLwGiPJnevSFYo8ZGP01/glLVUrc4ENrV940kqrZbhm6x0mDGorkyqPq22ZX1VEaPZpBTwTg5sJax0V7gxlPD8OtgqkBq+Nq+v+7Oj1I1MfTeVXnRC1yh4qUerTPmRDLq0CVs0LomD0fwCow5MkAZe/QNOQWowJaczUU3zThVE7BrZNGygx03Czn9ZYsc0OjT9CtNw7CAhW95R/WGVUDblQ6ulFQFcq6LsDq/lfgcoupOZKgCw7gxrhs1+oZgvtWvSsa8YsHNg/T7apQ==",
+  "URL": "https://www.pdfsam.org/",
+  "LICENSE": "AGPL3",
+  "ARCH": "any",
+  "BUILDDATE": "1589570085",
+  "PACKAGER": "Antonio Rojas <arojas@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "hicolor-icon-theme",
+    "java-environment>=11",
+    "sh"
+  ]
+}

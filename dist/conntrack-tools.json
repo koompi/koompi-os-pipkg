@@ -1,0 +1,30 @@
+{
+  "FILENAME": "conntrack-tools-1.4.6-2-x86_64.pkg.tar.zst",
+  "NAME": "conntrack-tools",
+  "BASE": "conntrack-tools",
+  "VERSION": "1.4.6-2",
+  "DESC": "Userspace tools to interact with the Netfilter connection tracking system",
+  "CSIZE": "148259",
+  "ISIZE": "494909",
+  "MD5SUM": "dd45c92bacf71ad3c667470cff1349d5",
+  "SHA256SUM": "c8cbfa4acc45fb6b0076387e0bda2bf3e58c8a188e6db38c9e228100e58e953f",
+  "PGPSIG": "iQIrBAABCgAdFiEEVyJOyaX8pvvJK7iqShr8NF6+GPgFAl6FB6UACgkQShr8NF6+GPigtA+/Y5FPZgS5zS6HoRnJpkFyr7Y2U0OmN6fZUGZjfLPG0zIQBto2ZDfRGA5/nj9jejzLcnWV3cQqprb1PoApJb3qhvH8WjADOvGAvp0NoT435LovDJ6HB61wUzK0Bt2i5QHk+HsWnpHO+mD3afGqcJej+oGcOg+gKYkVfw7r6TrC3LM9OBwR8xuExid9rEbfneZ5jx5n5v6kesJG3GtP0xVUnpcwO0Ruu3UMaU2NvrFs8dDyQ7Yyeff1W9EvcdC7bxFxRLzSK9tpQZuGvfdWKzxtrsV6dnWyvAAYkQV7W+O0XBOzcfXpkQkmsA9kRa1QO0sxx5ToqUq4R9/5RixcOMHpX9EyTCjXF+Rz9JO/sQ3S4BAIlkBKroKRV/sfYu7IQa/d1PKoEVLJRMGqVeHoIVsrjXGtI0hcRTLtzqca9a/c3U3xmJR38OMxwccSyGdjb3NFMO9g49xIcaZLuxgfHS+OCOq/IZqG1FYfoBTB4scpDMOv4fu+KHUG47BbqpV2z69TDbwf6ffA4TUwvEmxdjzGBKoCNpSJw6hNh3e1kEJdRKEJURF4HTVWTZCB9suva7wNkbSzlE5ZRWS7gjSoITfBxvCQBMM4pT0uo3KCVYoG43H83QXSzwEOQ/s1PRwHqDv+IeCAhpZfHGzLLai5ZXRbWgfwvMb2HqI/",
+  "URL": "https://www.netfilter.org/projects/conntrack-tools/",
+  "LICENSE": "GPL2",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1585776165",
+  "PACKAGER": "Sébastien Luttringer <seblu@seblu.net>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "glibc",
+    "libnetfilter_conntrack",
+    "libnetfilter_cttimeout",
+    "libnetfilter_cthelper",
+    "libnetfilter_queue",
+    "libmnl",
+    "systemd-libs",
+    "libnfnetlink"
+  ]
+}

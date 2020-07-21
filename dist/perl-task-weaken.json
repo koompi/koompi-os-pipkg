@@ -1,0 +1,23 @@
+{
+  "FILENAME": "perl-task-weaken-1.06-3-any.pkg.tar.zst",
+  "NAME": "perl-task-weaken",
+  "BASE": "perl-task-weaken",
+  "VERSION": "1.06-3",
+  "DESC": "Ensure that a platform has weaken support",
+  "CSIZE": "6492",
+  "ISIZE": "5148",
+  "MD5SUM": "da893baaec6caf033cb97c5bb3bedf6c",
+  "SHA256SUM": "7ee05076500394031812163de57f69b7e5179729f2838a6fe8e0e635c88e92f4",
+  "PGPSIG": "iQEzBAABCAAdFiEEhs/8qRjPOvRxR1iAUeixSKmZnDQFAl7vNUIACgkQUeixSKmZnDRwmwf/S0vGIehajEWUKCeecqsxN25LaKx9EPFUN+XfviPlslE+Kd8bPQv9ypq3hex+2xqohp/JB2nS8dttiDyfoC+rCT08MQqKjr0Ut5SoTVk3nZFqc9I6euJEwCUpyOmcKVPNq6DYY8P4HM/KANuOvuhVRmqjAvfNazCg6al3S3DSEnD/jZmTVH5Z9ZOHIB0JwkfM/zBzKQjCx0l2k1FJou7br7oSNTsjhZkG+EV2ittgV7lMfi5RQX1sZ4QHuRzkLwqV5gCoqnnML8Uzngms1ROkpUpfZD6zL9MCfNOBaBdG+gZki9vstx782KM36+3hTLb+8OxjtGSS6X/vKFN2GE82rA==",
+  "URL": "https://metacpan.org/release/Task-Weaken",
+  "LICENSE": "PerlArtistic",
+  "ARCH": "any",
+  "BUILDDATE": "1592735026",
+  "PACKAGER": "Evangelos Foutras <foutrelis@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "perl"
+  ]
+}

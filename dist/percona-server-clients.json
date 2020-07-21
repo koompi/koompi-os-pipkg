@@ -1,0 +1,28 @@
+{
+  "FILENAME": "percona-server-clients-8.0.19_10-1-x86_64.pkg.tar.zst",
+  "NAME": "percona-server-clients",
+  "BASE": "percona-server",
+  "VERSION": "8.0.19_10-1",
+  "DESC": "Percona Server client tools",
+  "CSIZE": "3024520",
+  "ISIZE": "81120030",
+  "MD5SUM": "c3979cc3ed9f526a08066e0c21ca730e",
+  "SHA256SUM": "65775d1b75474b2d0b79c03902b972c26385144bd4094079cbe0fd7e93ae4c2a",
+  "PGPSIG": "iF0EABECAB0WIQQsEYxiDwLbmsHQ+fqU3SOT2i7kIwUCXsuDWwAKCRCU3SOT2i7kIyZuAJ9CyyqXEzIIonC+AQ77XFvdsquKlACcCzH6yAlQgD/svO8hKwxztv+ktM0=",
+  "URL": "https://www.percona.com/software/mysql-database/percona-server",
+  "LICENSE": "GPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1590393657",
+  "PACKAGER": "Massimiliano Torromeo <massimiliano.torromeo@gmail.com>",
+  "PROVIDES": [
+    "mysql-clients=8.0.19_10",
+    "mariadb-clients=8.0.19_10"
+  ],
+  "DEPENDS": [
+    "libperconaserverclient",
+    "zlib",
+    "lz4",
+    "jemalloc",
+    "readline"
+  ]
+}

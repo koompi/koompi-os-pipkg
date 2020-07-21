@@ -1,0 +1,23 @@
+{
+  "FILENAME": "uboot-tools-2020.07-1-x86_64.pkg.tar.zst",
+  "NAME": "uboot-tools",
+  "BASE": "uboot-tools",
+  "VERSION": "2020.07-1",
+  "DESC": "U-Boot bootloader utility tools",
+  "CSIZE": "169314",
+  "ISIZE": "645046",
+  "MD5SUM": "eaa7f9b17bb244eca21af5bf8a1c7200",
+  "SHA256SUM": "a868d52374793df474ff7226e1dfa5111acf9bcb0e0c9feaf7b87f09b97bde77",
+  "PGPSIG": "iQEzBAABCAAdFiEE5JnHn1PJalTlcv7hwGCGM3xQdz4FAl8LDoYACgkQwGCGM3xQdz6pCgf/cIbKsZnBiPq0Am56kgQpFGx5sDVBGqBegx38nfRg2LAU43nDGeFSsvFlNFG4AZiP4E33Pa82enabBERCYRXsxmLFAHXqu+TrTjLnw/yZuemH8zDW43sZe/y+XCmN5UkRuKJQqM7e+FFeU7XDX4cS9GLiztjOVH3YUUjjLdj5S9ney+U3yvS8AEhojBQw82dbgMO5tn5xkFYPrLF+yUtjrj5r9Fr/DB019UG9PJp+D6Fm2BAAL6wubRVbcwaoQpjRWBhSyhp1duZRB1fZVK9wkr+DtAcuW8GJGPQ3mUOOq52OSnUFJq/N5Xm2i3hT2OzNaMrhOuO7b77Wp9HSyTwbFw==",
+  "URL": "https://www.denx.de/wiki/U-Boot/WebHome",
+  "LICENSE": "GPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1594559845",
+  "PACKAGER": "Jelle van der Waa <jelle@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "openssl"
+  ]
+}

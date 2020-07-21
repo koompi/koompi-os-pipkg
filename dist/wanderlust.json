@@ -1,0 +1,26 @@
+{
+  "FILENAME": "wanderlust-20191018-2-any.pkg.tar.zst",
+  "NAME": "wanderlust",
+  "BASE": "wanderlust",
+  "VERSION": "20191018-2",
+  "DESC": "Mail/News reader supporting IMAP4rev1 for emacs.",
+  "CSIZE": "934525",
+  "ISIZE": "4977436",
+  "MD5SUM": "ebd57e7fdf36800e057043294749c962",
+  "SHA256SUM": "3f7d4cb0486df1f486a406a18448ca6c0fd488aa82140c90899235ac1ccc421f",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl8Eu2EACgkQeGxj8zDXy5LyWA/9HPPLtpG/Xoyib6GJoGIx904Y8ZtpxmfiI7ZBrqiD6OX27cMR4mdBGVX9qBnDNif8mSo03OBQUYuYmu9nO1DP8+3yISyiJDJm1SwUNdleCSLC49GkRsfnnvmPAlbEwnZhZNdJ66mJUo3Us81UkO8SeYRiRsOAfrxois6i7jozf2aTtHnCMGvpIcAm9Y2XqgwOBBS2Mlg0YwG9z5bWfW88OOqCVQkGGmpsLe1Ee8+4tpUwPTqam+GcJU26YYZIBNzHs4bzhGKrz72Nsp3gYAQsmwie51zd/cte768PeMmXnlEHuQ8enOi8KoYOeUIfVCHQ9DBmU9bEeRnZHkoaNt27FzpJaPFrfzNrAo0+ORccZwUbaYbV1yZE/7aHwXngJR41HMGJHV9K+h1b3FjsKut2oXsdZX2w7GJ3bX+hK+m7T+XyAFdcF9t332is8HBKc/8IYm1cLSrdn1kbea/jqGbs23dOOwkmTYaEA9cTJYD2+zUCZaT3bN5GrvqQ1d0dOGhU5ZfKNsuPzsnspLNOGrXYMwdlOXPuO4db+raGwxf7Mx9tuWKL3BVw2KlrDYpFCasQ7xAq1aGxeMRDzlR2rUsjdsag0/ir/fA2pwEUE0pv8v4wE0qJKUkfeejW4CaN+5xuZ7wra4/+Xx4zgAPaNawtuSGG+6qvjJ03u02OGZvitFM=",
+  "URL": "https://github.com/wanderlust/wanderlust/",
+  "LICENSE": "GPL",
+  "ARCH": "any",
+  "BUILDDATE": "1594145198",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "emacs",
+    "emacs-apel>=10.7",
+    "flim",
+    "semi"
+  ]
+}

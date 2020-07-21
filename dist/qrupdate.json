@@ -1,0 +1,23 @@
+{
+  "FILENAME": "qrupdate-1.1.2-4-x86_64.pkg.tar.zst",
+  "NAME": "qrupdate",
+  "BASE": "qrupdate",
+  "VERSION": "1.1.2-4",
+  "DESC": "Fortran library for fast updates of QR and Cholesky decompositions",
+  "CSIZE": "38587",
+  "ISIZE": "104056",
+  "MD5SUM": "4f91ba8721a31dbb3aa532348415e6bf",
+  "SHA256SUM": "90b2ff59237b9c1daf908137079e46b312892238da2db0657fc3d0bf8af0f7a9",
+  "PGPSIG": "iQEzBAABCAAdFiEEFRnVq6Zb9vwrc8dWek52CV2KUuQFAl62jjcACgkQek52CV2KUuRkfAf/QEEB36E9UOl6uNsLzgGCiYEn0wHRh8hau3bKevKSbpJL6gtY2Ttn2F6bwSTtUWl/aviTRQczU2TGiNNcYXv7A7GaxBmkfDanElKOD0bbu0zfz7KZIWvRJ3/xdTx01BBeLMWaXQSoTWEoKuC9UczpuAWZdC1LnQCwWZlwXukaqQL3xLpDIlwbvEJUQFMAaa4+cifcOkfKRHVaHq9M/ZcjVSQIssaCtfwjcau1iLq+DI5qS06JaEfggkp6BiBYwbT0kH+MqfwVzQ7AoalXu5vo2Mzv2jgh9mdSUvAjHfVGgSj/dJQtHbUqJYEvHGGj7oQJIg9CfC9dV5ZcYi8uDJJs0g==",
+  "URL": "https://sourceforge.net/projects/qrupdate",
+  "LICENSE": "GPL3",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1589022148",
+  "PACKAGER": "Antonio Rojas <arojas@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "lapack"
+  ]
+}

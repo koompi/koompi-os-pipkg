@@ -1,0 +1,25 @@
+{
+  "FILENAME": "sunpinyin-3.0.0rc1-3-x86_64.pkg.tar.zst",
+  "NAME": "sunpinyin",
+  "BASE": "sunpinyin",
+  "VERSION": "3.0.0rc1-3",
+  "DESC": "Statistical Language Model based pinyin IME by Sun",
+  "CSIZE": "292948",
+  "ISIZE": "1086295",
+  "MD5SUM": "a2c61b617971676e6e1da61c11bf3f22",
+  "SHA256SUM": "3b3167417c44e8c2788dc94a7c6102241ea51862dede9ae41a6528d01390a9f9",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl8Eb1QACgkQeGxj8zDXy5KVVA//Tr/z2qFEqKSZt4NEcOZY/rni0DT0Nx/GIz52osUyXggX8Xq9+++RF5ZnUb4WzqqNRtJq7YUFS5gpX/No9lIOsddI0WNmldbgdRzp9CL6YSL9oL6KzXph/82adnNVnHxdZV19qXeXhJGFaQGrupBZVepnnNbUnwvMHRfhN6dCyS3D5xzYn0EZnWFEUcpGuZ5KtHWzpBhZt2olBcSChYvI6gcrvzvC4owdF+xDJhwV5ddHFhIA7lDaY9j1+oXJ6ttJhhRGm+q8qx2DOZ5tuY5ZNGPvhWkdzIxLE3v8RMV/doG+EvQt+Z39/9dTjYcwZzJnhEwaQZKVVsVIaFyHJFlWU40WHQrfrco134BMDd840YpRKQq8L9gX20MpCh4DISRzojA87MJq41eaMi3JoPXbZMmIXHszSzcMc5hBtBoJVukl+qm/mn6Rveqn/IMglfPeupyabN9YYF83ppuFdMifEzZnAB0xnl1c5w/Ql5y7klwLFc+9nxxfruHaWQIH7aVYd9XiAipnrbJGXLEJv1imohwrTBBWIXVwwfHsK7xM1BRdVN+fS//TVpGgFaRb33/kL54L463og/fTST6e/nqtDyDbqwZIsVpmmjJjZ2m+PkEArBf/NNqzpJoS97wvpevfIFPZqfC1szEPkKzUYBHRG3kFhWxUigwdUstnXHsCFXw=",
+  "URL": "http://sunpinyin.googlecode.com",
+  "LICENSE": "LGPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1594126011",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "sqlite",
+    "make",
+    "gcc-libs"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "FILENAME": "avr-libc-2.0.0-4-any.pkg.tar.zst",
+  "NAME": "avr-libc",
+  "BASE": "avr-libc",
+  "VERSION": "2.0.0-4",
+  "DESC": "The C runtime library for the AVR family of microcontrollers",
+  "CSIZE": "746988",
+  "ISIZE": "30178637",
+  "MD5SUM": "ffd4a589c996679a30825a38296ee7f4",
+  "SHA256SUM": "ef749d04bb701cd7092f9892331118c43daf26b52431af6533ac322c910a08de",
+  "PGPSIG": "iQEzBAABCAAdFiEE5JnHn1PJalTlcv7hwGCGM3xQdz4FAl8B+cgACgkQwGCGM3xQdz4+7wf/S6BB3SJLqzT8hF0otV58MEmZqEulJuuiC/kfgBrMsgOrwfFkHRbDUongMy7ZnTyueljhDI5h0UD7MMtxY5lPn44HAQbxZ0U1JXB4skvAupQJfx48arOAb/Kn2ynyWLd31IBeAc6lv8AU3tZbhcWFSbcBkH9D9+GJR9+j1xZf3VtX1uFlEWJfqeH4FeVKzLmt2nzxTp/ndoScapGoBXlL4F/vQ6De9wxbVkM1ZTrLTbEKB9GXaZmFbI81QWWfitQBi+8Uf4E0V4LEiP0VqAsGuJ9IyE9dCi8eIl9+SEIiRU0UsqpRt8m4YSntxqto6yqdY2LyO0buDsuk9cWLakwbbw==",
+  "URL": "https://savannah.nongnu.org/projects/avr-libc/",
+  "LICENSE": "BSD",
+  "ARCH": "any",
+  "BUILDDATE": "1593964238",
+  "PACKAGER": "Jelle van der Waa <jelle@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "avr-gcc"
+  ]
+}

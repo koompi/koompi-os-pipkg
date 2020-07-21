@@ -1,0 +1,27 @@
+{
+  "FILENAME": "arch-install-scripts-23-2-any.pkg.tar.zst",
+  "NAME": "arch-install-scripts",
+  "BASE": "arch-install-scripts",
+  "VERSION": "23-2",
+  "DESC": "Scripts to aid in installing Arch Linux",
+  "CSIZE": "14546",
+  "ISIZE": "40277",
+  "MD5SUM": "44af378ee551f8e73fe8ab66d7dbc740",
+  "SHA256SUM": "97bd24801821bcecc2c08f385f18fdae001a2b7075970bc85143a05549f3c191",
+  "PGPSIG": "iQEzBAABCAAdFiEEhs/8qRjPOvRxR1iAUeixSKmZnDQFAl6/t6EACgkQUeixSKmZnDSxdQf8CyylmJ3eDktWr/RKDkZ/rdjdY54dF81K5kU9tvGL/+0E12CQCtpxVnLxT1uUdaX3+5Al3ZXMx9TW/U+IKYzBeHNNU/EiOL6R9AXu47JkI/DE1TkfT9UH4gtAcEPAvxr/JO9p5W6Sq296W4Ah8slgyLA0qNkMqbSS3x+jVo4kGjo8123KouMslC75pEs5yCc9V55PcNrpaBujbZkjn3mm23b87Qvit9DK86WVBI6kMDCoLX+Zn33WZFZhouX1d9zFHAXP9qi2tk0aG6TQSfyepviuG4htxZoqXIDQJyWKvDS8GpD2jqxTkM22SqhUguieA8tMbaY38kIpGLzH5T1Y1A==",
+  "URL": "https://projects.archlinux.org/arch-install-scripts.git",
+  "LICENSE": "GPL",
+  "ARCH": "any",
+  "BUILDDATE": "1589622672",
+  "PACKAGER": "Evangelos Foutras <evangelos@foutrelis.com>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "awk",
+    "bash",
+    "coreutils",
+    "pacman",
+    "util-linux"
+  ]
+}

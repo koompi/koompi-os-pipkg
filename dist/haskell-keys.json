@@ -1,0 +1,30 @@
+{
+  "FILENAME": "haskell-keys-3.12.3-28-x86_64.pkg.tar.zst",
+  "NAME": "haskell-keys",
+  "BASE": "haskell-keys",
+  "VERSION": "3.12.3-28",
+  "DESC": "Keyed functors and containers",
+  "CSIZE": "180335",
+  "ISIZE": "1245099",
+  "MD5SUM": "7b90e86fda9a397acb38570d6086868d",
+  "SHA256SUM": "7d2e41ce6f96afd31f4fe8de5ed8ebd20785c7c530bdc0068139e4457f442f58",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl75MnsACgkQeGxj8zDXy5IZpA//QL2vQftPTMgrJFwthRnX32LXLIFplOkf+tM9QJqIJvzrSHuiGC5HgV6qZ0nFisuYhi+9zLfLs04WqA6yg+Ht41mpUvfcklFjhndtdTbZMeQo7s1+WTPH23ODCztnx/E8QSlCg/vnoh4TZDlkko04A/Ngj0RLlwHm8Szht03Kq5XMICcV6mvXs4U/ZW8zCkceiB+X3VUCF0RGTI3maOvl7PF4qdF7k3msjWI7Kve2Eys7Y6mQYKrvVv7hf5GXyNf58Xq3ypSX62OCCqIQcz1nZbhmlzHf5efRvgZUwLded8LuoUOi34e8/gv4zi/Abr2MqizVyrHV/9jHuiMlJHxWoUZ87vH9EpkIqBCxWNE6W+L3XywUESEHtvmnS48y5VSfJfJo4uahOvmEiQ7ybBwpX2vQjrQ7NMlrx3IYMi7LWkqpIjx1kOzm8Xx2gVgnhABblKg4bF6Ma5cDH0k49cK9e61jKg4YD7+LYsHfo0eYiZX4t4bWpiUT2W4C7wc0c7uRsw1+qzMBp/sD73u1zd6DJHjF2EUco8tuGQLXmYrOcUSg72Q7TLSZ+OvjNaPhvIsXShPeOt4MOrkRfqiwNmZGW0sxj8GK2MhEd30cSwgX0SGgSGLtML6uXQAcWw6Jlu3e0MlhXX4c0JxeZx9BeVqw7ycG75TST0/FJQ6CyRXIl9o=",
+  "URL": "https://github.com/ekmett/keys/",
+  "LICENSE": "BSD",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1593389662",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "ghc-libs",
+    "haskell-comonad",
+    "haskell-free",
+    "haskell-hashable",
+    "haskell-semigroupoids",
+    "haskell-tagged",
+    "haskell-transformers-compat",
+    "haskell-unordered-containers"
+  ]
+}

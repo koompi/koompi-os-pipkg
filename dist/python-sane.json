@@ -1,0 +1,24 @@
+{
+  "FILENAME": "python-sane-2.8.3-4-x86_64.pkg.tar.zst",
+  "NAME": "python-sane",
+  "BASE": "python-sane",
+  "VERSION": "2.8.3-4",
+  "DESC": "Python interface to the SANE scanner and frame grabber.",
+  "CSIZE": "18698",
+  "ISIZE": "65008",
+  "MD5SUM": "98fa7d64650c236aaf850509b91acdb6",
+  "SHA256SUM": "415232f25b6aef4c792adc228c450203d59ff96200b8e93e32dd59a2bbf23692",
+  "PGPSIG": "iQEzBAABCAAdFiEE5JnHn1PJalTlcv7hwGCGM3xQdz4FAl4/KYgACgkQwGCGM3xQdz7htAgAqp4e0baegNBGryZWwqcCSH9qVm4qKfba+m7ipM7fnuFVP5/4dQiwLYKtZFaH3N1lXMt8kiVTmJBTXdH4iTX4AFoNF9EDi4+U3Wkx+l8BYf+jXq8+wrCJq/xIhT+7HesRuOdUdYOXnb7pKqniCyv8O8FjPvVUSRcGzsl0bJ3uNz+Fmfsio/Mx5pMwjuzvwPiHDjwXGjXTllb7efjofcwvHixCLVOsYBuyY5A2pvR7u9e6bTqN8dzeYsaIMhUCvwZUxR0+erjyrw0AuoiqFtA9ar6Mk7799Y+fq6VrosuN2O+czVIrEcX3kI0z828q4wjvdQDQ29dV/pNPJA82rsVb/A==",
+  "URL": "https://python-sane.readthedocs.io/en/latest/",
+  "LICENSE": "MIT",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1581197556",
+  "PACKAGER": "Jelle van der Waa <jelle@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "sane",
+    "python"
+  ]
+}

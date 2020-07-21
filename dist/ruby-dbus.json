@@ -1,0 +1,23 @@
+{
+  "FILENAME": "ruby-dbus-0.15.0-3-any.pkg.tar.xz",
+  "NAME": "ruby-dbus",
+  "BASE": "ruby-dbus",
+  "VERSION": "0.15.0-3",
+  "DESC": "Ruby module for interaction with D-Bus",
+  "CSIZE": "67460",
+  "ISIZE": "262053",
+  "MD5SUM": "7df9ae43c80e5e01a5f384a8c862d9a0",
+  "SHA256SUM": "a6b8052a8a32f4fecbc0edeb7abe10eb882f338c56b0fe4f79b91a5b74757bad",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl4EEPsACgkQeGxj8zDXy5KUFxAAlK254yYMpavnWb6j4RezLE/M7twU0ANI5Y5wqGRAQDfVBICTX9dQ1SGNBfF4omwzr0mZbKPvurR8eM/hedCVkjkLGKZzIBZXAJk1suALuMZYbyYgX+15yqr/IZFAORSRy/Oj12UyYBObHXphUVKZkJ/DYbzoumqZQgMRCvZ6YmSSfH4K8nRoWMWI2LUWgln4eKz35jJdQWtNCPcwZxi3L/QIWvVVpVwZHsd/u346iKCddNd5OTbzTJjfn0VtyFLGNQezo67GvLVJB2hTQzUG9++X03nKJiVeyzYJRUnPiC7nnXFgFJPpwc5oYmrpKFbnFjYRlzMJI3+KK6Elirw38KmTrT+p+k+xkG4CL6GXRXSP/pikr+9nLQouGTjGK4Cy2FekjfuYTbHzpqEy6WA6gA8Kd2NJeTlWLMQZSpcAfRy5r4RHTGHPlZixBnaPuXd3TN8P6cj5f49IEkdk+9MSacKa1m5XDV2PpvsBM1TjTgdB/VVujvXxPkrtkqwoTu/wigffS73NnTMH/NMH4bU6F3Bdg3FRzj6LXRoPV/WbCbcasajyoCZj1iCrrdiFMPW+z2HP3d/MPVu9fuJH3qtWFBOE85RT/WkQvGufmxt+yLJtYRcFXqcMXuXVP+jq68B3GUW7ufNbGz8agQUPxQNzJSW1cy5TBLBs9e0ugX4U+X4=",
+  "URL": "https://trac.luon.net/ruby-dbus",
+  "LICENSE": "LGPL2.1",
+  "ARCH": "any",
+  "BUILDDATE": "1577324771",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "ruby"
+  ]
+}

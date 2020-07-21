@@ -1,0 +1,30 @@
+{
+  "FILENAME": "spectrwm-3.4.1-1-x86_64.pkg.tar.zst",
+  "NAME": "spectrwm",
+  "BASE": "spectrwm",
+  "VERSION": "3.4.1-1",
+  "DESC": "A minimalistic automatic tiling window manager that tries to stay out of the way.",
+  "CSIZE": "106872",
+  "ISIZE": "285165",
+  "MD5SUM": "e2f2611f7ac70dd890904d125ece70c6",
+  "SHA256SUM": "dd6ca67ea4b49d32fb085592a1c85c6e52ca64ce724673d39899e1e78328826c",
+  "PGPSIG": "iQEzBAABCAAdFiEESMOx8w3dD+Z+UW0WOW4+JbqxQsEFAl72pQcACgkQOW4+JbqxQsGwWgf/dylAXQAOz2t+65n+MgzZ7l72m/RqnbyPY9mt8kC8Bn7l4grEEWaI0a4VF9iCaEbN7nqg7JSvRSqBSu+6OXt/UOyRiwKPma1e7ne1O1/23KbIjzNaBxl2JYUPUr/n7N2MFLIGmvR6Uf3qrBWoO3teNJo7EC52UBlKfzTyiMxHBba7GtOwXEflJd1QBtXRQd38fo4WMI2pXetR7rdsnsn0dcKGXSxdQURauul3o/6HKr+Ud0eu9sCR7U3pNbZwgeWQ+4RpQLJt8N/9Bsz9E/HJDrjFlMNiahNaZtM8IK7DSnfmbifmT/SAYXT+gndlHZVYfJCGLSNPYoAEx29sicK3Cg==",
+  "URL": "http://www.spectrwm.org",
+  "LICENSE": "custom:ISC",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1593224462",
+  "PACKAGER": "Kyle Keen <keenerd@gmail.com>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "dmenu",
+    "xcb-util",
+    "xcb-util-wm",
+    "xcb-util-keysyms",
+    "libxrandr",
+    "libxft",
+    "libxcursor",
+    "terminus-font"
+  ]
+}

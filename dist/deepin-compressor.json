@@ -1,0 +1,30 @@
+{
+  "FILENAME": "deepin-compressor-5.8.0.2-1-x86_64.pkg.tar.zst",
+  "NAME": "deepin-compressor",
+  "BASE": "deepin-compressor",
+  "VERSION": "5.8.0.2-1",
+  "DESC": "A fast and lightweight application for creating and extracting archives",
+  "CSIZE": "1534300",
+  "ISIZE": "8599468",
+  "MD5SUM": "8a357102f8b6bbe659fe045142277b54",
+  "SHA256SUM": "f27483a9e1f4678618359a447494d6012c3f089ba6c2124748781b8e2d35e636",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl8C/zAACgkQeGxj8zDXy5JF2BAAhDUB0Tzz+ma+uNckt0/z7PL2irD/nSy7lttAhnNE6lqW13WsKsyvRLUGnXKduBSaYArJC7fRmSb+8auC2VY+n7ZA0mDa+QmHr8aOZB4usy6j3j7HmLo3Qj+MyJ2vdzezbQayaOHyTEDPDtIIw98YlXYBXzdmL5IHBIB7J1CZlhhEYgY/nyImQgJYXWaaq5uy08cCkTWUFFtdMMDrdVEv2osH9eO4rscRVnDqjNeAWWKRekCvl7jzfd+7Z1B25Di4cb/86hy9yUKdp1QEAxL6dOu7tGNCK49y0FIiWd6id+lfyfBxC3gReIjqPk3vn+MlhFAy39dYshegwPDW1/+8fQMtjEb8msNxjkWiXlwdEce1eC50RknHc6/9o9fkq0n4wxYYM/d36GxuDWHgeKzvhqq6dd49Dung+vU1k2KZsDxuJs1Ko0wcq+GkihTRjSkcBFO7Ef9Vm/HWDQ4j3HrgNCwwYVnOR/d5UbZDFuc+eQHO/5/SB341fFBSQ3KOVPLHUNONEmb20Ustsbl3tLD+Z4WIfFMMckhNJcCJGutkaScE9iLXg9uRTU2uGl/8q64HX88P+IAzX51W+BAT9oAp95UjzjAVEAoeeUG+x4oEDOd2Ez3AtlbWXNZQgc3p8j2Xb7I4QP4tNQEXViwSZ/4JB1qd8YUVz6DCZPOv/4Uf4Rk=",
+  "URL": "https://github.com/linuxdeepin/deepin-compressor",
+  "LICENSE": "GPL3",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1594031616",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "deepin-qt5integration",
+    "disomaster",
+    "karchive",
+    "kcodecs",
+    "libarchive",
+    "libzip",
+    "minizip",
+    "udisks2-qt5"
+  ]
+}

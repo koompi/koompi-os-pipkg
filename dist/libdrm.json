@@ -1,0 +1,23 @@
+{
+  "FILENAME": "libdrm-2.4.102-1-x86_64.pkg.tar.zst",
+  "NAME": "libdrm",
+  "BASE": "libdrm",
+  "VERSION": "2.4.102-1",
+  "DESC": "Userspace interface to kernel DRM services",
+  "CSIZE": "271248",
+  "ISIZE": "971051",
+  "MD5SUM": "d02c007846e55d5571c35ac48fb7de49",
+  "SHA256SUM": "1fc0b2d8e8e4d8dad16bafb1adf08288df3f4b282bde0dee3e636deb84ee99cf",
+  "PGPSIG": "iQEzBAABCAAdFiEEU1+MAzlFDwVKTSgnBglqatHO3awFAl7OFggACgkQBglqatHO3awwHQgAmGJa8LKIfb7p+qtieBwqItcMYn63R2y7/cv0fqVP+xsE0klaSGRhAT1Jtu4qxQYM1UvOyoEGxYrYEjrfOlPMnw2LT3sHLH0IvG28XFTtKZ/FWwwkhZbk0qVxOKWQqTm2y+ZqUgzGRCqz5dXKIK0Oi9F3erya4k1HBL+vIgtABg6lh8Mky3sRjGJyPSHS9UEMD8Vf3aJQgZ/SrlV8PAZzi4taNdP54rBzk/O1yL9oMP0qUHKknR5es7DOERoKbsl91Q0EEcKz8QlNp+qa7Kw4f/iINEAr1iclNxJ6giLKOM1/ji0sZ8iBX/upD/kSc/zI+6wu8YKWKqOMi9sjvo4+tQ==",
+  "URL": "https://dri.freedesktop.org/",
+  "LICENSE": "custom",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1590564323",
+  "PACKAGER": "Laurent Carlier <lordheavym@gmail.com>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "libpciaccess"
+  ]
+}

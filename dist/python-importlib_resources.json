@@ -1,0 +1,23 @@
+{
+  "FILENAME": "python-importlib_resources-3.0.0-1-any.pkg.tar.zst",
+  "NAME": "python-importlib_resources",
+  "BASE": "python-importlib_resources",
+  "VERSION": "3.0.0-1",
+  "DESC": "Design and implementation for a planned importlib.resources",
+  "CSIZE": "34601",
+  "ISIZE": "147402",
+  "MD5SUM": "ece8279a7766361cdc00cb7b401e869f",
+  "SHA256SUM": "e44ae0e4958d09a6b5ef288c6c67f27c67ac18509737f7312368c319b1c67072",
+  "PGPSIG": "iHUEABYIAB0WIQTH54SUZv4jWDQ1iDdyWHNLQcMVSQUCXvw5LAAKCRByWHNLQcMVSfSnAP0YSCQqfSmByiSVAJbHaA1vBCJ/sOAufET832mNWLuolAD/UKHqzbWmVnXvm8LlqqtDd99kqQ4pvRy4+1caga/0DQA=",
+  "URL": "https://gitlab.com/python-devs/importlib_resources",
+  "LICENSE": "Apache",
+  "ARCH": "any",
+  "BUILDDATE": "1593587928",
+  "PACKAGER": "David Runge <dvzrv@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "python"
+  ]
+}

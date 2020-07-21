@@ -1,0 +1,32 @@
+{
+  "FILENAME": "haskell-tamarin-prover-theory-1.4.1-97-x86_64.pkg.tar.zst",
+  "NAME": "haskell-tamarin-prover-theory",
+  "BASE": "haskell-tamarin-prover-theory",
+  "VERSION": "1.4.1-97",
+  "DESC": "Security protocol types and constraint solver library for the tamarin prover",
+  "CSIZE": "1851961",
+  "ISIZE": "13565898",
+  "MD5SUM": "6c6d7c660d0459f0d4e2d4f812cc371f",
+  "SHA256SUM": "6de25c3751a8f4ed73d4989d0ce4a84aba96c17dc3e68a7a194b4e6def761b33",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl75n70ACgkQeGxj8zDXy5K9Jw/+LfaCGDTW32QbnHgIQo+Mma7GSjTK1O5Ks6u7R0VJLsNH51w9fY7L8K+nzu29tYpc5+lbM46XaE+FtBYqlZRe8CWSvB/oX+VG9A3rmxKg7Zecg8Xuxnaf+VBrni+qeNkH7KdJT21+lh6x0ZiMQu3usPBYsw+26gsT2AQfRWf0m+LihJxZO38AmxCQUR2LjJELxBdqBnfFV9MiadNZj5dMkqYi5Fv+NJQnrjb44ptNFTOrfWfsqvf9zbyTjICX1DXW5gubYYFraQatdYoYWC44WVoHbW204p4psRB7yVCkZrDoY8rOF1k14a4WbEdfd5O3T9f4/m0G319mVEN4VTY7d+0HF2lGsbjdf7BTlcbcGk+et3lQJ9WofDQdjaAtZFabTb+J+2Qg/GOjuG4TTLOs8o1RRFNu9X3FbVX1eHn44g23TuR0700DWenvKmAyMT/hQKr4x7jiSqawuk+nkCRS+5eZz/hL0CBclt8RgvhPAPEvwCFlUBTOTu1CPDK/SpvbaqcI6/KmCe4kDvwR4dvGmeZizCtYPOj+TO1mX4qlgFUG2kiI+XpjbJI8NPkmUdUKWAIiNk6TvYvP+jPexOIeBr19/MDAf003BPEQtlV3gQvjIJjL24LHdQBF6Z+Xbs3U081IfrwssXv6Miwp9F0rW5Xs6YUXiuswd0zQQQCS8WA=",
+  "URL": "http://www.infsec.ethz.ch/research/software/tamarin",
+  "LICENSE": "GPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1593417504",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "ghc-libs",
+    "haskell-aeson",
+    "haskell-aeson-pretty",
+    "haskell-dlist",
+    "haskell-fclabels",
+    "haskell-parallel",
+    "haskell-safe",
+    "haskell-uniplate",
+    "haskell-tamarin-prover-utils",
+    "haskell-tamarin-prover-term"
+  ]
+}

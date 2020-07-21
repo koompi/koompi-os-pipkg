@@ -1,0 +1,25 @@
+{
+  "FILENAME": "libfilezilla-0.19.3-2-x86_64.pkg.tar.zst",
+  "NAME": "libfilezilla",
+  "BASE": "libfilezilla",
+  "VERSION": "0.19.3-2",
+  "DESC": "Small and modern C++ library, offering some basic functionality to build high-performing, platform-independent programs",
+  "CSIZE": "257419",
+  "ISIZE": "940555",
+  "MD5SUM": "acaf6ea1b3486a4114e409e60e7890d4",
+  "SHA256SUM": "29fa21d63893d864a89ca2ba6d678a08788ab0e6acd2b5b858e2fbc93ef9b573",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl6w+RAACgkQeGxj8zDXy5ImOQ/+LAsAdme+TtK2XoB1+vClQ1ecfC4I/AJ0/6wRizu5/y+sP3oLpfaQbmnPdXhbddKVocS/vACTtaZ5VPS1Vt+gtGPMQhLqyup/M41hVw+1QfAQVfojd9bYyzu3lHaztHdDEFTo6lSkImzgVrzTsh07P89cOSNLAqoMi3Cu4y8v/t5GhJo2iHrdEqJaI8iEVTg6uzM2FeAcF/WTJi4g7NONW3vcrMOapkoAqFLHbsyxeJtoyt/Wj48ccQNXjJYoTLXNnU82MEJOcY6sMwc2padF79TB8gHLwOArk0OikjyytX1xXyWQg0tJiuUp4injKSv82V/W/r6K54W0tHBYNHS6g2FAw32FCdo5et445wm+yvkG1SS/ktN+fUkpr9tfH8K8H+vPpWLd7oGMZJDeURCwjnrBySTV/5FvcM1DzyXP59F9sWudckD4A7EUY7HX5j0rfr2bx9wal6y6jvAh2tirvbu4oFyhVp+4Yp2awYe+6x8GbWXZbDYKeiYjcXnRi6Z3i3lBAJsVtbKBHWIOLvbflnqi3EcX0qxWbCUDdCFvmDACrH9zY7RCBI81720UoQCGWlfb3kP3eqEAlir2jMCMrJp8tVo2BPB+q72L8mCZrQbwLZXrSggvPIH86LKs9AqOBcDIEpDRDdZolGGuiHihJMDQeX1tQ5yF6NGYAzSxkJ4=",
+  "URL": "https://lib.filezilla-project.org/",
+  "LICENSE": "GPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1588656333",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    "libfilezilla.so=3-64"
+  ],
+  "DEPENDS": [
+    "gcc-libs",
+    "nettle",
+    "gnutls"
+  ]
+}

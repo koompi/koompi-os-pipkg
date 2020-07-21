@@ -1,0 +1,24 @@
+{
+  "FILENAME": "ruby-marisa-0.2.6-2-x86_64.pkg.tar.zst",
+  "NAME": "ruby-marisa",
+  "BASE": "marisa",
+  "VERSION": "0.2.6-2",
+  "DESC": "Ruby language binding for marisa",
+  "CSIZE": "24758",
+  "ISIZE": "75208",
+  "MD5SUM": "99727278264496db33aa04da8047449a",
+  "SHA256SUM": "ca097fc8a653369f22c34a0a27e2ca3e88c038cce5f549e3da924ca25011ef07",
+  "PGPSIG": "iQEzBAABCAAdFiEEhs/8qRjPOvRxR1iAUeixSKmZnDQFAl7vhWUACgkQUeixSKmZnDRdHggAl7hD9LZJyKDCjARqnGFOUHDANjCug/y8gKcb8JiKCSTFwOkPxufFaG7tVe+tzK0pbAJ5uhu6FcxLw10Ven9ZRyg08iwTSy3qaoz3E836zxKqH5n7YLHZ8++w/xZf8bRA4BVFiOUrpPo/7Ymbp0jNAzhh03JzA/Jk7gk7X7aCXvzHgKuZqno5zEtBqFfplFmQMhssMxuSb0ePGG/pPJDJFCrHcesT5W9WSpmbPVAefiKBtJhlU11qGgf+TB9Kv4Wg9pyI3iNSM2akSomO/V3UfzTzaEjp0++plj6qYS98m4L1J45/UoVJumMSXyaDi+W9Z3jsKBZuSHR6XrGvCzm1ow==",
+  "URL": "https://github.com/s-yata/marisa-trie",
+  "LICENSE": "BSD",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1592755464",
+  "PACKAGER": "Evangelos Foutras <foutrelis@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "ruby",
+    "marisa"
+  ]
+}

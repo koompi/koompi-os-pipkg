@@ -1,0 +1,23 @@
+{
+  "FILENAME": "python2-chardet-3.0.4-5-any.pkg.tar.zst",
+  "NAME": "python2-chardet",
+  "BASE": "python-chardet",
+  "VERSION": "3.0.4-5",
+  "DESC": "Python2 module for character encoding auto-detection",
+  "CSIZE": "173619",
+  "ISIZE": "1411054",
+  "MD5SUM": "4c5b139663e4c21ddd5ef29b7ae63b50",
+  "SHA256SUM": "3aa55772ca526b2fcd44b40979b53bd8be43cf8aa6134ce7e568b6143f7d8262",
+  "PGPSIG": "iQEzBAABCAAdFiEEhs/8qRjPOvRxR1iAUeixSKmZnDQFAl6/2L0ACgkQUeixSKmZnDQxZQgAhIzam+vWVJf18FpEs++bWXzo+kHOlELvu7fSr0D+I7zPlB5NxpBl8y5GEed0nN4rl/EfidvYTkrHAq12f9ofYzLWWJaUYKCNqJC1ahAscZCRlCH1ZqGGA9KzfamHAuirCzVs8sWoI3aQyNhL1GTulk2AtzhWZJyGvi0waI19tVA+7sZIemROVqZxFUf9Fq2FPrFYu0k4ziNijKhwZISGrjh8IaVzYCp3iPWiC7Ve6Bi6RJrYnROGVYLS/iKupKUlL1pSUV8l3ldDnPkJ8dCwbpsENGG8FtgEzrt5gHM+cBW+hw7JlbG+0p4ZBTaR3mvGGu7oBIXHgig/xEmo3r4kDg==",
+  "URL": "https://github.com/chardet/chardet",
+  "LICENSE": "LGPL",
+  "ARCH": "any",
+  "BUILDDATE": "1589631122",
+  "PACKAGER": "Evangelos Foutras <evangelos@foutrelis.com>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "python2-setuptools"
+  ]
+}

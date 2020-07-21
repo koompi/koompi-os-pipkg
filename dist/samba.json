@@ -1,0 +1,41 @@
+{
+  "FILENAME": "samba-4.12.3-1-x86_64.pkg.tar.zst",
+  "NAME": "samba",
+  "BASE": "samba",
+  "VERSION": "4.12.3-1",
+  "DESC": "SMB Fileserver and AD Domain server",
+  "CSIZE": "9025539",
+  "ISIZE": "65043458",
+  "MD5SUM": "3c8afb81a6a15a61d50f34c21156b9f8",
+  "SHA256SUM": "826e8ca5add0978c59b53453ac155681263ca386887cb51d40ce2cc80af422c1",
+  "PGPSIG": "iHUEABYIAB0WIQQEKYl95fO9rFN6MGltQr3RFuAGjwUCXsTtAgAKCRBtQr3RFuAGj/QIAQDLaC87Hb5qgNsVQWnNqavj+LyArQFEpaT4bSTFOUBAaQD/cky0Er1c2kE9ULOkLH4oJ3F/RTlP/mU5zvgOwKeJKgc=",
+  "URL": "https://www.samba.org",
+  "LICENSE": "GPL3",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1589963649",
+  "PACKAGER": "Christian Hesse <arch@eworm.de>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "db>=4.7",
+    "popt",
+    "libcups",
+    "libcap>=2.16",
+    "gnutls>=2.4.1",
+    "talloc",
+    "ldb",
+    "libbsd",
+    "python",
+    "iniparser",
+    "tdb",
+    "libaio",
+    "perl-parse-yapp",
+    "smbclient>=4.12.3",
+    "gpgme",
+    "ceph-libs",
+    "libldb.so=2-64",
+    "libtdb.so=1-64",
+    "libtevent.so=0-64"
+  ]
+}

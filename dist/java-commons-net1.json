@@ -1,0 +1,23 @@
+{
+  "FILENAME": "java-commons-net1-1.4.1-4-any.pkg.tar.zst",
+  "NAME": "java-commons-net1",
+  "BASE": "java-commons-net1",
+  "VERSION": "1.4.1-4",
+  "DESC": "Apache library that implements the client side of many basic Internet protocols",
+  "CSIZE": "169333",
+  "ISIZE": "186101",
+  "MD5SUM": "51a8000438a04080653dabf069037b05",
+  "SHA256SUM": "c0dd6a70f5081e95bb9991c37fbc9c1d7e1416c66c997ea13aa91ebf79f8656f",
+  "PGPSIG": "iQEzBAABCAAdFiEEhs/8qRjPOvRxR1iAUeixSKmZnDQFAl6/6dkACgkQUeixSKmZnDQf9wf+KW+CdxBJIpGVE/LMzOEShtAOyf1CusGbsA68x1ePiPc4F6+nmEejOT0nlUBusUvKjCJsqqHvYgOCxK+4EHo41Bg43tGJeytLpwXPlWUMScjWeitIAs+9h2XbCtbLIa69n81UeShj8gMEpe6va2+O9lNJ83OevPmwYCiJEmcLPWJB86cewWVe7U3hln+tmQ8siH+P+N2A4vr9F2V3cn7iJT2rcnhL/CM6lqixGhHXFbTlKcGtYV5z4Z896sP+rOCrbmfWvoxKslIX7TV8UEN3cjMuRDqo1+FZVoAGLmHEIqd5tZ5lGi1ExKK98PSPF8hTxNsWPPDBB/5MtpO+/R9Bkw==",
+  "URL": "https://commons.apache.org/net/",
+  "LICENSE": "APACHE",
+  "ARCH": "any",
+  "BUILDDATE": "1589635525",
+  "PACKAGER": "Evangelos Foutras <evangelos@foutrelis.com>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "java-runtime-headless"
+  ]
+}

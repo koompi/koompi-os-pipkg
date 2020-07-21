@@ -1,0 +1,23 @@
+{
+  "FILENAME": "ukui-menus-1.1.4-1-x86_64.pkg.tar.xz",
+  "NAME": "ukui-menus",
+  "BASE": "ukui-menus",
+  "VERSION": "1.1.4-1",
+  "DESC": "Implementation of the freedesktop menu specification for UKUI",
+  "CSIZE": "126832",
+  "ISIZE": "631333",
+  "MD5SUM": "b861a1522d7d10c71032d39d32637f65",
+  "SHA256SUM": "0ddcaf4d21b06df74594ad3201a755ac5e4350e91e4ed214d8f956cb4918975d",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl4CAVkACgkQeGxj8zDXy5IwFQ//ZQlHvxZIv/hIixCKeMWr8ST+Z1ropOPDXIaC8u+OHKzhxnQn6ExSM5L/NREqkFLUtFE1bcbW0ebBIYGkOHivDJsnQOaC1jabqq3VDTNNOk71xEhlasZhHG4iiKoMJRihgW2tyeOwc+vGsywxjyxkN5a0RfWM71mY6Pofnqp/I3bnIa+vIDRpjE1FSke5vpP2VQNxB1YfoRbbrDggpVs39n10WhBfQYWvRkfBXlV+uV8O7TavJHkfs4yL/SZ2HTITPSVSD7n8JeXfmKLWN3CFQWVS4xYclvXqUUETrq13bpyk2aANaaYQMF6zaNuP38YI9gGcgmSAf5lHRuBfjlwbLVMK1mEIDVSiPc0RbAfPu3H8dAcKGFcvJv/rOG0jX8LWNJpnxXORik2znEiCA0Yi2VpDCGs7a7yWLssAb4BNBcJhcPSPANWP9gzUAFr5J9SnUpbNduz1RqX9oTDeMFf7lUvVNCr3L5uLoJbIjuk7bjM+P07Noe8JPo96FamlmDybgAZnV1ixuHNl/U+/gpa6/vLwm7LefHPEIzmbTWGVAIhML97RP2S0mPlIF7oWs0dX/H0//TUD00Y9thBBjdTutCFrvAjyg/WWEsGNEg0SNTt/y1c9OnRubEuIGT6SHedPbO/CXaoIZgrA5bhPr5PniA6zu16ZzW582QCcZkBSatg=",
+  "URL": "https://github.com/ukui/ukui-menus",
+  "LICENSE": "GPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1577189618",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "glib2"
+  ]
+}

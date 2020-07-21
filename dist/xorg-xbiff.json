@@ -1,0 +1,24 @@
+{
+  "FILENAME": "xorg-xbiff-1.0.4-2-x86_64.pkg.tar.zst",
+  "NAME": "xorg-xbiff",
+  "BASE": "xorg-xbiff",
+  "VERSION": "1.0.4-2",
+  "DESC": "Watch mailboxes for new message delivery",
+  "CSIZE": "12795",
+  "ISIZE": "24541",
+  "MD5SUM": "b305c6f08d18e6c84de7ed78d0008300",
+  "SHA256SUM": "d09d1d9ff0b5ea3ed87672a6d027b2da6b0c4a66e6374699c241d67a3ab9d354",
+  "PGPSIG": "iQEzBAABCAAdFiEEhs/8qRjPOvRxR1iAUeixSKmZnDQFAl6/7SAACgkQUeixSKmZnDRx3Qf+LAR7g4Jl8FJmmGbS6snF5PRJjW+H5hh2BtKnS/ljlUqKQfmfRbmRdfp6MITHafvXnmYPwy2Y2pge/VpChNxzRhNOcFTPcXraPETbrbL7wIg81npN4huNi4z6ciISSmjFqrJSopI2287q5aXeglbzCva78g/tz/wcowcQ+A4MXV5zg8DNU57R+3wIbdOAs3AVgY+CzlQAu7Z17OW2w/4VeNNqAYZjGqvfrvsPqtMac6Q/dsXIWBoUCVl+MEPUSSHvUhG2q7MjB7UJ2yYr0HChqI//plvd9HM4FVSmYM4N7xswCZ4LgKID9kRc9jrQxSu430wFLO8bTTj3bD3RtBf8zQ==",
+  "URL": "https://xorg.freedesktop.org/",
+  "LICENSE": "custom",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1589636362",
+  "PACKAGER": "Evangelos Foutras <evangelos@foutrelis.com>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "libxaw",
+    "libxext"
+  ]
+}

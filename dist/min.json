@@ -1,0 +1,23 @@
+{
+  "FILENAME": "min-1.15.0-2-any.pkg.tar.zst",
+  "NAME": "min",
+  "BASE": "min",
+  "VERSION": "1.15.0-2",
+  "DESC": "A smarter, faster web browser",
+  "CSIZE": "4873531",
+  "ISIZE": "26725398",
+  "MD5SUM": "f268aee6dc1929b5fb6b54b848d04c9f",
+  "SHA256SUM": "bd408dccbaaf772dd7df91a31d28c7dcc14ee998f14db7d7c80cebf528bdaee8",
+  "PGPSIG": "iQEzBAABCAAdFiEEqbZxDXYPZhfFMHRuyEe2rrBUQWcFAl8BowoACgkQyEe2rrBUQWdppQf+OaILg72JMkvclphPxduuHfaN40Vn3tif86iMf9bkJsiAvjbgQBnqLMuq+MwujF/h+QxgTKe8sc+neFN3Onza1skjyViDoGas5/SxYMxMQQZD71apvZ+qB/gu2ctqH6wikU6dnj4NVxCnTEtSunlSOAYoghCRfNEXOVfz4reK7v5uwl/xDEvRgyXRmmcfEdFgNVUuO/2Ci8PijY+ym0d7vA9ufQJwhDVbto5Vu2ZTL2gd+xD2grQhti5vDfq/O1Z3CSbiB9uKOrIayHpX2Gmet4tzh59cQGNeL6Ij+duzoKkcZn/kZ5plzNgoNdIbiNlVMJxi/eDZnPncTYg84Estqw==",
+  "URL": "https://minbrowser.github.io/min",
+  "LICENSE": "Apache",
+  "ARCH": "any",
+  "BUILDDATE": "1593942408",
+  "PACKAGER": "Nicola Squartini <tensor5@gmail.com>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "electron"
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "FILENAME": "opera-69.0.3686.57-1-x86_64.pkg.tar.zst",
+  "NAME": "opera",
+  "BASE": "opera",
+  "VERSION": "69.0.3686.57-1",
+  "DESC": "A fast and secure web browser",
+  "CSIZE": "68859926",
+  "ISIZE": "214795198",
+  "MD5SUM": "db133a4069405e23b5c80ccf3f1017da",
+  "SHA256SUM": "e8473daae86cdebda9996039a2fc21d26f9006e5ede27af4b892d0f98fad4ec6",
+  "PGPSIG": "iQIzBAABCAAdFiEE2yJ3vNUAqjglYQvd2zIzknlsoGcFAl8GHIgACgkQ2zIzknlsoGcBQg//eBfQtsb02YyeyTAqJm1YCuiRdf94pQ8arBTG4WPdYLpva0Wq7AtgNl2QZrIEruMgW6aqdhhR4WR3OeLO9mxW66+2YmBWP/76uzOyRth2KwDcZ5kVxqEqco8UDSs/oUz0rsGtbQmfals0bvMCWuBZhIUSL+fLBa8PXX2xFTiloMQbTCgBEz4iGZ2pFfU1aBkq4buR373JMAQjDJuKUUVjCWwYsdrOqGGktCyXMoNv+XG3cjUmBhoYeQojViyMLv0Jcn9Os3KId0a6gAAlfoSt7euVJ9qVYU8JE1CYrr0Xf86ZZKVrOy7KkaqgxPPnz7jC4DSd5kFSCyi5azWyRe0VpZsAF5zdlqnVpCCM82wqyBNe7aUscRQfoeEge7pbhW4jqsqBFYoVwaN/Bgc3MWQofczPzg7EMpU3TReHkiE33qdS0FTn8uVgbUddT9nl/qSGOknWAg63/ZtKzvhpPmKWF46sZTQ01WLK8YqEN7ms81cMBC4OtvJM8lxBoY990dJwDhCYSD8X4ms9TKekQP089V8SfSaxs7FY/U4lMwC2qHQ3xk/8bhsU4+hNGNYYgZJlWOlrfVzgf76cHOHlyfhSfno+6I8hHM9KpPgvmk528w7Dx1LhGXgd5mOOwllxSU7dlugSoqwpkVliGuvEkXnl9AC+ZBCbTPAoB+AHOEbmHP4=",
+  "URL": "https://www.opera.com/",
+  "LICENSE": "custom:opera",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1594235870",
+  "PACKAGER": "BlackEagle <ike.devolder@gmail.com>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "gtk3",
+    "alsa-lib",
+    "libnotify",
+    "curl",
+    "nss",
+    "libcups",
+    "libxss",
+    "ttf-font",
+    "desktop-file-utils",
+    "shared-mime-info",
+    "hicolor-icon-theme"
+  ]
+}

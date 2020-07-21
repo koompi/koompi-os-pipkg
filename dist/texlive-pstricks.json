@@ -1,0 +1,23 @@
+{
+  "FILENAME": "texlive-pstricks-2020.55289-1-any.pkg.tar.zst",
+  "NAME": "texlive-pstricks",
+  "BASE": "texlive-pstricks",
+  "VERSION": "2020.55289-1",
+  "DESC": "TeX Live - Additional PSTricks packages",
+  "CSIZE": "26688211",
+  "ISIZE": "41013943",
+  "MD5SUM": "416b8af8c556db76926ce64e5d849301",
+  "SHA256SUM": "83479240df18795175f9527315ac041a0cecbfce1fc46c6879bb34d1823eae31",
+  "PGPSIG": "iQIzBAABCgAdFiEEROpirNvIG2oNH9JnIGy8iS0Uk9IFAl7dXIgACgkQIGy8iS0Uk9JU9w//U58D2vH5X2dzXwyWWoepFZRmzxeNMtcM92we2bh9NnwielnkiBJCshDZu9uiDbQzmw0IQQ4fUKoswfCS4L6Ik8SranyTCSYtAAeq95J3BhC79qwQOmAu8AXoDc4R/KttygQIbkY5xvVvkdcLFOqJ52XnAh2Zu+fptWKizZDPnwWW10KXbuTnJfyjO24N+fKZdIQw2y3gYjPlUEwzYXKtE3ByC7lwcReQKWHmBQnuC3ruMvX/JGvb4t0SmCR+cU7rAmQoEu9ph1BEBLgcH2OsKmlVwJLyoqoz+b+mZGIgeEOdITSNLuiJ8xpNLOGAcQ6iE3l2jfXf8LEsXAdCldipQymuZJakC6Arl5MuYziWDTLkMJr/vAmuHgDJhTdLvx/9i+67VzCif9nqNCYDB3rh52GS4zasXWEtopioaeeqwnqBbq4KycB5b9f+1tYlBitaKz2O8G082XAU6t1i3ui+Yz/CQ+Sz1z9PtMUfP4Wr9VITQ3l5ZQsLKZ+2QHdAfalg2FHiX7Bmn3KUdH69o8rBpgngHigcu+6qXee2ksPLcbK4JltU13BDCNuGZDigcoGQeWHxX6cOv+v+LFe0YLi9sarQLF6zLTUwB6+rFQhg5sOwOdlIUaaNSemQRoavviZd+EKO6AgDZVdhQIN8g1v94mQaG79Y2JY3gzqcd1TVoNo=",
+  "URL": "http://tug.org/texlive/",
+  "LICENSE": "GPL",
+  "ARCH": "any",
+  "BUILDDATE": "1591525193",
+  "PACKAGER": "Rémy Oudompheng <remy@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "texlive-core"
+  ]
+}

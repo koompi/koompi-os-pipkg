@@ -1,0 +1,23 @@
+{
+  "FILENAME": "batctl-2020.1-1-x86_64.pkg.tar.zst",
+  "NAME": "batctl",
+  "BASE": "batctl",
+  "VERSION": "2020.1-1",
+  "DESC": "B.A.T.M.A.N. advanced control and management tool",
+  "CSIZE": "61767",
+  "ISIZE": "151064",
+  "MD5SUM": "8044128b9cb1dcc68755c1ced0a06c71",
+  "SHA256SUM": "1fde3c85df14c20ce4f23563580734d9c9d7c327583d50e67b09469de260de2b",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl6y8TkACgkQeGxj8zDXy5IISw//WcBz6FCbLj/SKQVbHqbwUrmVoeRRO5WB1LE/GqfLiDQoXtzdSdQ3LbTWRblKnwrhSEAJb4dZkaOefEGi1sqW6msBBj1JUw+YQ60lVK0knKhBNgQXHcrcxLtJzkSs6YjOfNF3tGBAwdL6GxrPAt1KP+rxVl7vG+5RLMxTNr1KzqP9lJZr/v1GVWYYT5X8J4+uAcLTvmpXmHWSZppdUSkpfC9tieCINELgvj5MNfmJy5CdgFSgJ4P+Rx+zqhLwdYbPJPshXvZmzps+69xck3FYIfjNL5M0g0UzVxqRJk5MxptsQN9+GyMG7/4xiZs5HIFxpXopKlmQxHpgp7qwcs+4IfCwCqBqciyDapbXWug0EFdBSFVibNvyTHdDMECK0rTCgdlb0Zxu7FHAxX0WmW6/UWfqykM4mzZHhKgg6NrxPkVnjnL0d/lfS3N3Nfv59GgP35lngqW3kRTuc2EiqgVw774Uf7GsgTLHSx3o5TTLO9MTl9W0NHD5PHjCEpDHNnk3x8X5U92PYvqk04N16E0MNY94VIT/n3U/GdXxXvD7IOaHIN0LMWgrHdb/aGefngUP8JDATyKwvgL0HfDxQLnUWZ2/jl6UI/efwUELxSuwiJzvpDy44OxLYFHfmTfUv40dBiJZST7rVhqGZD4tPVlMowFxRS6Xdr+VEDW+0cvjbhQ=",
+  "URL": "http://www.open-mesh.net/",
+  "LICENSE": "GPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1588785375",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "libnl"
+  ]
+}

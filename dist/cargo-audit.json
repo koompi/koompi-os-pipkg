@@ -1,0 +1,23 @@
+{
+  "FILENAME": "cargo-audit-0.11.0-1-x86_64.pkg.tar.zst",
+  "NAME": "cargo-audit",
+  "BASE": "cargo-audit",
+  "VERSION": "0.11.0-1",
+  "DESC": "Audit Cargo.lock for crates with security vulnerabilities",
+  "CSIZE": "1652308",
+  "ISIZE": "5307007",
+  "MD5SUM": "233bbf5fe7978582c66d6c4627b137d4",
+  "SHA256SUM": "36e7834c0afd06c90a984119afced54007faf417d55d6eb3f574021c64c0fe46",
+  "PGPSIG": "iQIzBAABCAAdFiEEM+u4qOHFZTZFsSMqRaZQ4mOMU20FAl4ssAwACgkQRaZQ4mOMU23jAw//QMB0oRwFeLPZwKJYl8iI4z1XV7FkfFa6eQlGmZwrqOgXUQDYfvrg257IdssKOAx0O2gm+uDXJlKqWi74r4KhI6EPcqm2Ar8HQ69aD6QFSiuAhiM1jq6dOdbCqUH0ID2q09MAeBpXNepgJBeyt+ACHOShCe/megFxd9M3VNoXLr/bZJiLFQQJqvhOETJBDPV1Viu+tUhG7A0sWCZjKuVqHJ/nfwJbuaOd8Y6EqCkn6AnLIkqTsj0iHULlfBstg1/p3LaDLjJ/EGb2wwIcHK0c8oJQrSa2zHfzs69MaWSRRYRB5nS24fwlQiXjvDVWatTKuF67J0/fWp+nfuppDP+HiyY37I8udRx2E2AVna404z1yq+RxhdrYdKmNcmrjKIUkYaRL7EAkTRLvbID4a27rZ7hxM9HFmTRbJWbKzIVkkaSIAbvHFkqP5fiukiQr5hiHJGjYOuBS/1F0g+k3YAlB3ziuSzbWSK3BRexK3Shh2Jf1aMkaOzWAwLzs3NgfoDzYiP09yssPM++mAbyqdBVGijadZvcNIva8kGOyfwIASombuEZE32FKEG/+F+nTCwXL/Ah/0EoB/iunCyQbnTSJwwrQ57cz/jNcgYBqtFJPbO2tVaZE47TQJ5uIst0M6WqFiCxJ7ogXvY76jjAsju9AWCMrl+BjWlmh4yZo6Xi3IwY=",
+  "URL": "https://github.com/RustSec/cargo-audit",
+  "LICENSE": "MIT",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1579985223",
+  "PACKAGER": "kpcyrd <kpcyrd@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "cargo"
+  ]
+}

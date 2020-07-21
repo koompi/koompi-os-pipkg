@@ -1,0 +1,26 @@
+{
+  "FILENAME": "ispc-1.13.0-1-x86_64.pkg.tar.zst",
+  "NAME": "ispc",
+  "BASE": "ispc",
+  "VERSION": "1.13.0-1",
+  "DESC": "A compiler for high-performance SIMD programming on the CPU",
+  "CSIZE": "1025159",
+  "ISIZE": "9603114",
+  "MD5SUM": "b97a4fde8ecdbc7eaa2dfee1438f4b2a",
+  "SHA256SUM": "7399386406aa205c70ea44cb218bd1e3dcfee9b7404fd14ad04230bcff30cb36",
+  "PGPSIG": "iQEzBAABCgAdFiEEado014/g79WWrG0EnYk+xNqvkSkFAl7O0S0ACgkQnYk+xNqvkSlmNwf+PspjUsVd1jv7U7I+nwQ+fQtJgm+VVOic04uW0j6HSQuSZMcKbLi8A9Jvsw2/oSjOOqk2tMJg6Cqd7UfzZ8wzuMID6s5PfmPyM/kBiRUG8gcAMhQvRl9hPWoArhkk6iU+TiTIGItrh8KUmYhXHg+5WPA5AwADzjjUzZjxFy3UIz3UTYWQHWt/RriJ8Cc2oysORCNIcH/bokdRslltmPHuPPONxRDvAFlXgoDDBtLZvmDsgQ8xhyybHaNPRMcINmy1GtmBwNkODsins37emPNHjjdZX/lISio2gKvfQj9ng6mwtJ4+vGVcQ83P0X/SQEnwGa/B+RFjZayfM0klCYyUxw==",
+  "URL": "https://ispc.github.io/",
+  "LICENSE": "BSD",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1590612095",
+  "PACKAGER": "Bruno Pagani <archange@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "ncurses",
+    "zlib",
+    "llvm-libs",
+    "clang"
+  ]
+}

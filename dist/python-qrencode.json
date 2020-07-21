@@ -1,0 +1,26 @@
+{
+  "FILENAME": "python-qrencode-1.2-6-x86_64.pkg.tar.xz",
+  "NAME": "python-qrencode",
+  "BASE": "python-qrencode",
+  "VERSION": "1.2-6",
+  "DESC": "Simple wrapper for the C qrencode library",
+  "CSIZE": "6308",
+  "ISIZE": "23314",
+  "MD5SUM": "f2a985229680694f5ff22bc767c694ca",
+  "SHA256SUM": "cb4fd0735e9047aaf4f0b318b4a5a97278777b4204434a3522ef7f046d3083fa",
+  "PGPSIG": "iQEzBAABCAAdFiEEhs/8qRjPOvRxR1iAUeixSKmZnDQFAl2+BJ8ACgkQUeixSKmZnDT3LwgArq64iqT7P+jsQSyShDQI2VRc3SVIsr66gdDTNX+IDUAcdBnyFmlVivpQxRa1MpWrSDzo+yvRRDAYDNJPPXEGYDu9pZ2Hrn8AiyBKyD8Axmo+iMXLSD4kuDWX2MAIcAmp8aVVFX3iuuNej3xwHh+3KEkFzjctGKP44NqInVvNpUHBQztJmT4JyUMvNP70tgkZaO3guZJPitrCDDJDWQQWIRfKY2emaeixfwk9ShLp0TZGuFarGe4A1FvNvaFQbg0dnaJ15JHzKl/ghP9nNAsFTKJCEpuRfBpmEUbeQdDftXEyVE7H/3nKADdW2EvgEd440EgRuXTyus45J4Gt3L4nhg==",
+  "URL": "https://pypi.python.org/pypi/qrencode/",
+  "LICENSE": "MIT",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1572734076",
+  "PACKAGER": "Evangelos Foutras <evangelos@foutrelis.com>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "python",
+    "python-pillow",
+    "qrencode",
+    "glibc"
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "FILENAME": "sslh-1.20-2-x86_64.pkg.tar.zst",
+  "NAME": "sslh",
+  "BASE": "sslh",
+  "VERSION": "1.20-2",
+  "DESC": "SSL/SSH/OpenVPN/XMPP/tinc port multiplexer",
+  "CSIZE": "38867",
+  "ISIZE": "127991",
+  "MD5SUM": "fa2f2ce35e9d76da1f1afd736f1982b0",
+  "SHA256SUM": "ac88808d438d07453e0b7d0b6b7494beee830e8a4457b35a24133463d094ff92",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl8EvccACgkQeGxj8zDXy5Lr5A/+ODgTm4E3ALsuFDWBjbq+bz+zWsontMhcyeq+5COADwZXV2KUTEb7Os9y6rP2eOl21fSExZO/RWAV05nXry4DuuV8RQ5NO1w5/8flEOMiqj7zyHbpZaTgJGteilvYfnZs8rqwRIFlo0mkPFQ9f+eNfCUry/KBcdkcShcBJlRlg+uAC9NZCh1QkyU1gcO+Zyq2DD+jHuyhRr0c4QuCHZLsmT3Y7kR9ChMDhPr7wsRMpSU8WTXoJnOrE9bLAPX9eUZW/sHRhr4i3ngV5mOlmnLgmNxAA/vjZLJSxYu4qABUOqOnT3DHXaBVb5yxafqTeMYrro/BDVmk661dl7DpEJZ9XhZw8MZobt2KK4q80/D4cfZnwMfNQAukEtTWuraIg3iGT+nEnDWD3wEHS2UlzUuskOgIhfif2ldji6ryoY5UlaS+EvnMRQqYIF6rXJrLFdjH+QLv0nNc8u20D+hLOyKmTChoB++PSnft+FEeq/KpI2Z/JnzKh0ItKzDkq5z9w6zgKwukJfFiify67+zZJhHsuw0C8OoFz8rr96pK2LPCYdefABU21gVz3Faj+IXyQvfOSU4PRzryANGcfUcGJSUsZChLQo21w738LTktxyJyK238vj6RRFU2lAj1ePZB9u/ALxPhVy1XKH4X/7GpZfVM4H/WuQgLKbhhQ/lXusCY1Bg=",
+  "URL": "https://www.rutschle.net/tech/sslh/README.html",
+  "LICENSE": "GPL2",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1594146148",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "glibc",
+    "libcap",
+    "libconfig",
+    "pcre",
+    "systemd-libs"
+  ]
+}

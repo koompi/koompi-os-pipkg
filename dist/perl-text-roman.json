@@ -1,0 +1,23 @@
+{
+  "FILENAME": "perl-text-roman-3.5-7-any.pkg.tar.zst",
+  "NAME": "perl-text-roman",
+  "BASE": "perl-text-roman",
+  "VERSION": "3.5-7",
+  "DESC": "Allows conversion between Roman and Arabic algarisms",
+  "CSIZE": "9004",
+  "ISIZE": "10337",
+  "MD5SUM": "142b21add2d3ba6c34c200854cda9ed6",
+  "SHA256SUM": "cda6e761428f96fad966c7e749b2da1c151d4009d35a3e3c4d853728b96c776e",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl7vM20ACgkQeGxj8zDXy5LK/g//WlFUKqMwVhytH184F31HNpx+odmjPZ0mbWDPRQVpi75ubLQfYhkmdaK6e9hNEcO1rF3X+Do/UDeXdDQy3no73D/AuKLpC1ucVQGvR4tOlKzGuF3Tsd0QJmMS/WrpZca8FhdvhHZjgFl7T6A+rskZvEklt3Jm5OCnJmfLkVJ4fkNnfb6skpF7obsAb6B58enyQWOT3Tjpzt/rUhHaMwKt3UrHhVIaiLbjbcrdLWDfRqI8IFOYDlmWVwEgbUVFWy1y2gOJ8DhdUbbpFGuAW8f62ho6F+2wJHCbElYIalvTVMuKdgv1MYfpadqsNPVHU6yJSqvIsl5DTCYQIh5ZWoqTCZaNzLOxVkD2hSbmtMLvPxuQQo3At1E0e4FVF+KPnkNXS5TA06J8CsSlxnL6XI3E/1u8dnU1Pe//5vseXOpaS8+2Sm9JPUQJigs+t3O8Xwy6+NMMgJzE/0LQZFjtLeKvloVl4Rk+TuhQd19NfKxGO2YQ/ydtt5nM38x4lyabUb5baDrlCRyxSLEjxLfNMSuEIIebRCenEZYWirwEVkntBF9wexG8W1akBteadtnzM7kYlgMSAZUqSA8elssbVSRN+n+qbU51FaJJxUkP6d5A6V+J8un7sP8XjcEsVy/ThWJO3pMXnOtSxESJTqsW1c3a9EouTduerEbCeD3Qbp7F9xo=",
+  "URL": "https://metacpan.org/release/Text-Roman",
+  "LICENSE": "PerlArtistic",
+  "ARCH": "any",
+  "BUILDDATE": "1592734549",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "perl"
+  ]
+}

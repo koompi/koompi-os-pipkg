@@ -1,0 +1,25 @@
+{
+  "FILENAME": "python-sqlalchemy-continuum-1.3.9-2-any.pkg.tar.zst",
+  "NAME": "python-sqlalchemy-continuum",
+  "BASE": "python-sqlalchemy-continuum",
+  "VERSION": "1.3.9-2",
+  "DESC": "Versioning and auditing extension for SQLAlchemy",
+  "CSIZE": "105891",
+  "ISIZE": "540345",
+  "MD5SUM": "ea8253c8ca5f4070bb0bd11c6959bd52",
+  "SHA256SUM": "f3fdef7eb5cb0918c75bd571fdeb421894351873aa6104623aca749763dc3555",
+  "PGPSIG": "iQEzBAABCAAdFiEE5JnHn1PJalTlcv7hwGCGM3xQdz4FAl8Jy9AACgkQwGCGM3xQdz50vAgAqkN/IG4yfD0fzMRMZeDH2CcGn9k/giNngfJ4fw8SU2Z37K/GJy/6pE1YXYGZFYm6AJJPKIuybr2z3HZe/IMzTHol/iSYGybrTyTmNayvnX7aKnqt15S4cVSGu9is21u1YA1cT/DONtjQuGADUj8rIeGfq6SYg9K0wTO1EjeJtLC1xWRmnHtyhi9NiaisFJc5H3qbb+2sqD2FIZP/xjA9TtLrnNh00kbAnJ501h5eaTC28UjpubU/AOzRVvbOfNwHoPJDRUZhtrAci9i3ezs92qLLNh3pPcRxu5XFONZOaBfkYgIcuyJTPhTpHtjEJYBP4B0xqpjOZqVaoRINvsKZRA==",
+  "URL": "https://github.com/kvesteri/sqlalchemy-continuum",
+  "LICENSE": "BSD",
+  "ARCH": "any",
+  "BUILDDATE": "1594477121",
+  "PACKAGER": "Jelle van der Waa <jelle@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "python",
+    "python-sqlalchemy",
+    "python-sqlalchemy-utils"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "FILENAME": "rlwrap-0.43-4-x86_64.pkg.tar.zst",
+  "NAME": "rlwrap",
+  "BASE": "rlwrap",
+  "VERSION": "0.43-4",
+  "DESC": "Adds readline-style editing and history to programs.",
+  "CSIZE": "97421",
+  "ISIZE": "251127",
+  "MD5SUM": "5dd4d2372c56ff994609af08082fc496",
+  "SHA256SUM": "7a8a3542eb8e3332a1e7398c7f5305734b4761cdbcd50e0b1254584b3bd306eb",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl8ElX8ACgkQeGxj8zDXy5JXLhAAkKclUQ01xfvR9EWprUqwZqlLd27CH2D/Ti+QFYXUVFM2GpNOJsw0lfqfSErgOvMwxbpz8cCKGWWEFotiFawMiFTiSHkSCBzcYAw0x/YRYNWNk2YDRRF95LcK7vhiDJe54kYgJ12OvSKuG+QQdnU8C1WaXAE1saxn0uJ56FsMYfRk7704jP7E+t/765ZzpxstDqbg3CUHs/kLLfrFUO5lstts1VmrKxqwrx5i146h49na/IXOjjdvf/zvFDV3ZilC7RYu82rEo++Wn5cxRKAf2SCKVMLJWP5TpkFYQd/jsYBsXTDTIZuvHEQnJN+cVkECtFm8EzabCbsRvjOKelBlCYvKvZqkDYwD7xn1XDfQ4ClFRWD2UDDPFBizJCI0RvbKp63V/i4v0r0ofxwIt8NKPm4OhsT6Me6bIM4J+2GDe+B+bFnMvGBABEL2FFdrry0/gM1W1j/+1lbPqaOw6WqmsB7RCXXqGuiKpyDeO2TQZ7gujyVEX9wWEpvmNwrrxhvUbk4tS6XLyXTfXOHAAeb/lKIulNOqFxAtqIAwUDTv8o3mOl48mYLhwes8In2+iOH54Q1kkPpSwy8W4XHWjLjjq2uIEgabKJ4pd/IXuRNnNtTB/OaDzH59/FUDkHbW1mRBfEe8ADeYjbJpjOK1+GjtauCkzgZ7rR1OdpCGMYTyXLg=",
+  "URL": "https://github.com/hanslub42/rlwrap",
+  "LICENSE": "GPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1594135432",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "perl"
+  ]
+}

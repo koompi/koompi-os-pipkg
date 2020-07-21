@@ -1,0 +1,23 @@
+{
+  "FILENAME": "qt5-quicktimeline-5.15.0-1-x86_64.pkg.tar.zst",
+  "NAME": "qt5-quicktimeline",
+  "BASE": "qt5-quicktimeline",
+  "VERSION": "5.15.0-1",
+  "DESC": "Qt module for keyframe-based timeline construction",
+  "CSIZE": "24038",
+  "ISIZE": "77763",
+  "MD5SUM": "29b8618cec329a0e19ea9362e721fad7",
+  "SHA256SUM": "31db3f3006f473a8d7b2e1cb73d178c52cdb105c488a48cdb3dcea0c65ca4c8f",
+  "PGPSIG": "iQEzBAABCAAdFiEEFRnVq6Zb9vwrc8dWek52CV2KUuQFAl7eAg0ACgkQek52CV2KUuQqVggApnxMI1KWqF9A5nuWQF0EVHMXDppGFq806jclTdrq6hwnPYZ87LHDHRi6Aj9eHMGqJ3si9CkDzb8Z+kx7nDYOZDy84wTO+HorokIMNXAhc4/5mWxDq+vdkXf/yxRCzkQzj9fhqcqlkEYwd69uqAkTRD0ng64CO+/cCaUbxAXkvtQOwMdmdHFVXLBey1OCnsgozjF22jzLWao48Efjh9DG9a84Qd2Ybl6wfA8pND+sgDYyg5u5Ww+LrbbS35xRD7MsV7BM9j803LNH/IpSZFAoQwWJooX0uzC2n3tDl3GBuv6wg2sz2Ypa1LcDtzaj84a0WI8bEp8DpJeZpUzIk4W/6A==",
+  "URL": "https://www.qt.io",
+  "LICENSE": "GPL3",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1591607636",
+  "PACKAGER": "Antonio Rojas <arojas@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "qt5-declarative"
+  ]
+}

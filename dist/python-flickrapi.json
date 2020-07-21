@@ -1,0 +1,25 @@
+{
+  "FILENAME": "python-flickrapi-2.4.0-4-any.pkg.tar.xz",
+  "NAME": "python-flickrapi",
+  "BASE": "python-flickrapi",
+  "VERSION": "2.4.0-4",
+  "DESC": "The official Python interface to the Flickr API",
+  "CSIZE": "42072",
+  "ISIZE": "219890",
+  "MD5SUM": "e4f157c97c66eff274dfae15e70203cc",
+  "SHA256SUM": "555a68f43ad89b4c147dae6139d8f1b9ab6ec7cf5c6242d5878b6943d52e92ab",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl2/wC8ACgkQeGxj8zDXy5Jx6Q/8DhADhkXJMhj/UT63x1ecPjbNTevJPUDhPNV/mQopilXadExu0elL5kEMssiF73QKix3Hu51fP3+6txkyGKuSBtSA9ERKPvaMBTudPoW9ISdnHiRET0M4LnDL3autt4Sm29ukq0U5ILizElkDpzDKefgtyYE0L4ZYOkmM7Iyb35AOw+EDujum/xkXIMFXoJyaOPTW5IbdOYoP7Z06ItLXKfm+vDtoCG2CbtWx4aYPNWSU9A2j5gr3sfrzS9ksFzXiwAgdyE7mgObUuSVg260yG7BlVncq73ptgzME3sQKU0+XrFsd4Hlvc4WuCT5YD5HH31oj/Z2qsVLkyEBrNmT/kV/RF97KfGvFwRgPPgl0tTuuFhuqpdMZovyuQYEKAWe5UownTQARJxaQCEHQMSemK71vn01zW0aAzpjMupg32IIkex6PqSU7MDkTlNDS7x/HW6oZVOrEncr2lCeqyiwUQ+/AMnE5/IzBmVKBrCi7k944gshY2tlAYtDTqIt6oNSeASwinHGhzBPlvPqNornJ/ZZO51CP0VePnsQr2mD+ZlUK/vfRXBR9PnisoKtl9h6ZOCiXsHTleNqYs9mJpy2Cl+4mvFGuRu8svC79woXMwMO+wExNuJxD4dxTAAAEuxa4iHV/s8UBYWucgDYVVNEQKVOg/FkNO8bG6qbbqxVnNho=",
+  "URL": "https://stuvel.eu/flickrapi",
+  "LICENSE": "Python",
+  "ARCH": "any",
+  "BUILDDATE": "1572847638",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "python-six",
+    "python-requests-oauthlib",
+    "python-requests-toolbelt"
+  ]
+}

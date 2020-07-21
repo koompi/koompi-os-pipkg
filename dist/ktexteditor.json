@@ -1,0 +1,26 @@
+{
+  "FILENAME": "ktexteditor-5.72.0-1-x86_64.pkg.tar.zst",
+  "NAME": "ktexteditor",
+  "BASE": "ktexteditor",
+  "VERSION": "5.72.0-1",
+  "DESC": "Advanced embeddable text editor",
+  "CSIZE": "3650222",
+  "ISIZE": "14332545",
+  "MD5SUM": "f710dfc9de3ba0b73131d5841c2b1a85",
+  "SHA256SUM": "8ecde73d48d153d07c1dbaefcfb93aa346f92d6b96073a3f9d7b291da6adcfd4",
+  "PGPSIG": "iQEzBAABCAAdFiEEFRnVq6Zb9vwrc8dWek52CV2KUuQFAl8JYf4ACgkQek52CV2KUuQsIAgAgYkWcPfHZWY6enSFxqcUi/u6AZzHq2z6/zydJ9AFqn812yGG59JQ0Aaylaek7Hrks6voCBBtW6GM1Bp74xJNpPt8PrwVzfsh1wJnNxXYqyeG9UnblFNZcB7Vt/IFT7z6plwHRPptu1ih4WKKR+lx2wmnA9LlMzZMsaDcACyRrgIX8tdEphrN7hlDz29Yts3nbvP3DQuk25f3Mnl8XSbnNNBFgIwbfuYAAXbB5AL0FAT5Mfv3cHrRflC11H0nU/Sq+Cr8nKiXnSOr9Jzg/BEsOGdhNUAHzSu5XCLRyVSoCoYehfNaIisWpxom8pBhdX6kLKi98+dunYdnMEgVaEpVqA==",
+  "URL": "https://community.kde.org/Frameworks",
+  "LICENSE": "LGPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1594203674",
+  "PACKAGER": "Antonio Rojas <arojas@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "kparts",
+    "syntax-highlighting",
+    "libgit2",
+    "editorconfig-core-c"
+  ]
+}

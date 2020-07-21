@@ -1,0 +1,23 @@
+{
+  "FILENAME": "python-pdfrw-0.4-4-any.pkg.tar.xz",
+  "NAME": "python-pdfrw",
+  "BASE": "python-pdfrw",
+  "VERSION": "0.4-4",
+  "DESC": "Convert restructured text to PDF via reportlab.",
+  "CSIZE": "83584",
+  "ISIZE": "391093",
+  "MD5SUM": "edacec6a3ad078d955315bc05312bc7e",
+  "SHA256SUM": "bb6bb60b370888556ada7f901de97ef2b2f2cfaa9a8ef1ce0cee07320a87e3dd",
+  "PGPSIG": "iQEzBAABCAAdFiEE5JnHn1PJalTlcv7hwGCGM3xQdz4FAl4MwSwACgkQwGCGM3xQdz61Jwf+IiSAzn9Q9QR97QQvh9VmLbaV0YNfVaiv1C3UQFobCfrxOwspQl3h2G0miraO6IltKRKWOhndDnhbE2kJv3FC9x04QdLs9X7N4s2gawKuXWbXYpVAcj5gKLW9wL3JKCQ3VCnQ9pVyjWoPUbV4eY9elUd6CkwrtZWYf7DoWV8tuHC2bqqHUb4uI/XP0V8GQF5d3qtfZHxROuc/b0RFWXNn/oK1LYbIBje8Xh0ETB1fOxYvB/MGh+GWFVvPp1NB2Z4AzmscG5qcocUzhjCdkdrBwLh3ExqzWvkksViIiMwuELtDKhzKLWC2mYOLePJGjRZCGVZtfY5SmvGr3At+RLc+Nw==",
+  "URL": "https://github.com/pmaupin/pdfrw",
+  "LICENSE": "MIT",
+  "ARCH": "any",
+  "BUILDDATE": "1577894129",
+  "PACKAGER": "Jelle van der Waa <jelle@vdwaa.nl>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "python"
+  ]
+}

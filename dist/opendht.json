@@ -1,0 +1,29 @@
+{
+  "FILENAME": "opendht-1:1.10.1-6-x86_64.pkg.tar.zst",
+  "NAME": "opendht",
+  "BASE": "opendht",
+  "VERSION": "1:1.10.1-6",
+  "DESC": "A C++11 implementation of the Kademlia DHT (Distributed Hash Table)",
+  "CSIZE": "715000",
+  "ISIZE": "2311734",
+  "MD5SUM": "ccb11eb9d23947ad3ebb3261d83c42d3",
+  "SHA256SUM": "e02f0aede608d4292be3dce04a6609220f6f6385489823f7efdf1bf6dca29da6",
+  "PGPSIG": "iQEzBAABCAAdFiEEhs/8qRjPOvRxR1iAUeixSKmZnDQFAl6xAbYACgkQUeixSKmZnDR8JQf8D4YlIX8focLKJlpqh9TjMthnxuS+upB0Ie/hGB/pK691Mc3mT3qI7gR+uRuC08v6/RNeEwd4fVFCxSFYLT9jPKzitLznWHyrDBGj9FkkURZoncek3PqJkibTSqqZ5V04D7V15696ZY32WWE47vtB+d9aa2f+zsPD6oLl9c96+pF/n2Mq5ojq8mRJPEVHj47pOAeTJighDPJG3SkhP/qkHKIeQ8XAnO/jVbOL0jJGFaSC3K/hnvZYK1NkjVNfea+63sW8u2ReeEKk4KZzqwppuUm0hok4VT/bfswXmAQEVrywaFMWTcu+1A13ygUDUUXfOJTnlr5NXyHDWXq6kfj86A==",
+  "URL": "https://github.com/savoirfairelinux/opendht",
+  "LICENSE": "GPL3",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1588658517",
+  "PACKAGER": "Evangelos Foutras <evangelos@foutrelis.com>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "gnutls",
+    "nettle",
+    "readline",
+    "argon2",
+    "restbed",
+    "jsoncpp",
+    "libjsoncpp.so=22-64"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "FILENAME": "python-pycryptodomex-3.9.7-1-x86_64.pkg.tar.zst",
+  "NAME": "python-pycryptodomex",
+  "BASE": "python-pycryptodomex",
+  "VERSION": "3.9.7-1",
+  "DESC": "A self-contained Python package of low-level cryptographic primitives",
+  "CSIZE": "10007413",
+  "ISIZE": "38549775",
+  "MD5SUM": "69591647581bdca4c3c57d7ea607015f",
+  "SHA256SUM": "85933a231bb0e0cbd46782299cb6d199486d8f7eb971b21de59c746de30b5a66",
+  "PGPSIG": "iQTHBAABCgCxFiEE5VD//9SF4mShcX4wkBwcMg6w1F0FAl5eP81fFIAAAAAALgAoaXNzdWVyLWZwckBub3RhdGlvbnMub3BlbnBncC5maWZ0aGhvcnNlbWFuLm5ldEU1NTBGRkZGRDQ4NUUyNjRBMTcxN0UzMDkwMUMxQzMyMEVCMEQ0NUQzFIAAAAAAFQAVcGthLWFkZHJlc3NAZ251cGcub3Jnam9oYW5uZXNAa3lyaWFzaXMuY29tAAoJEJAcHDIOsNRdAf4f/R+LHQ4l5VdnUGFJ+PZ3lcF1yVbWowkB4LJeezyscyc392yeb+xMO1/zyHV78KF+/uc3MdmADbmf3Q3qZs4eC8nk0eYBOTwpPUXTWwfujbYQmZhwBviqLrwDfpvbGq97vcxGuOcUuAdmPjYOePB8cPx/n04KN2USbYBOteGYRg/b857CRC8FxIxXF3uwUMwp2qh7asNl1A7vBhlJTjuM1cnEu9oGWRv7zltJE28lvOElnBg9yHWs4TqycabdtU9CGW65UlyrmvYgPoVXT6X8nnoQCc/5ATGXkKUp1rAiAiPMakPEheEr87yymbUrOURPyLbxKWB/nTjTnHMddt/bz5Xe7jPxy/nsLPCZZ7PqClQ9mYKabTBLmGx4KcSsmmw1P8bcq1obCHGo8SkmBoRsg5goWPoeg7cEbjEn0Gdx5M0saNRlQaoZV6V6yvvOVlW593IGpbHi3vziT+zKkTZd3laGOayLczwSHZU5VU18TGVfQiyTHdLre/8hAzFcOv5bW++pB5IdvawgNspqie9VgAx2lkPSsmqx5VyH3o0MCHn8qm2mjgpkGEPlsXRbklvmSqm/qAghqF9oJ3hvV5jO68ZCpsofm7/ZrvQZwFcNnIrzgAweZDq8QH94rYmJHVjjK9r3dpIwIZa41bIiMiig5kdSVBCooyziwU2pkFm+GuL4tFQ+BIb5XXhJzQUwur/bQ2xmNh8uPIZ3Bylwo5h6jT00ejqA/EMTetXwZbl/E0/zJO3etinxJowDJ0h0G+ndv4hR7S31LQRki0oamqKfqEb4vOzn63xWp/ytU2U9mKENMfhK5XJzatWzUbis6zFIXq9vGXlI/KddSjNuiNTdhIrz5D6GAtpxspHFhxpMUvr+QdOOUbDNgoRGeCw4LE2DbIs4RecxiiRZbdMZy0ViLwRaF87i6aDLJY4clWmwHkgekDegrsWPQZjoqW8G/6WCzV47CkKCELhnyj2lfmsvzr0w1OrPfrM9aEB3EbL8eyYcBPS3i3K6okzep12U3B4dbxwYvys2ANmb3cqvUnLI6NG5jnDotaqdu0kLNwb0NtnaycY6HHjvmbHQJhsAweYCSfBNj1+BYvq4pvRlkn22Qzsa3P34Yonf+16/aYzwsi+prSi/+NZuY7XYaUwsWKE36Eai1TBC9k2bHpfUwGXTorWFLe/pcI9VoWMq1fD3E0T3IfGxLFbWRPDnZuJoXd4cUVgKoKQnRKT9UU5beH+/erN0Z85vZ/fGAZqJBVFs+7kG4vqp3AoOAxP9/ZCyJGwKxoyU9pLEPLecmCAyfr7YaJq+VLhcDM4NHjgzGYhcsMJmyQj3OUFRZeBMHgbs0ZWEwp/knTFIu0TtFDXCTCxJ8r0=",
+  "URL": "https://www.pycryptodome.org/",
+  "LICENSE": "BSD",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1583234879",
+  "PACKAGER": "Johannes Löthberg <demize@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "python"
+  ]
+}

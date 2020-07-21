@@ -1,0 +1,24 @@
+{
+  "FILENAME": "pcb-1:4.2.2-1-x86_64.pkg.tar.zst",
+  "NAME": "pcb",
+  "BASE": "pcb",
+  "VERSION": "1:4.2.2-1",
+  "DESC": "Interactive printed circuit board editor",
+  "CSIZE": "2228745",
+  "ISIZE": "8884150",
+  "MD5SUM": "40a76a4cd2e91f3e971a30eefe672b27",
+  "SHA256SUM": "d684c5a3773c60901453d14a103bfd84a3fbcbb0506c08936d55032f591de9a3",
+  "PGPSIG": "iQEzBAABCAAdFiEESMOx8w3dD+Z+UW0WOW4+JbqxQsEFAl7Zf9IACgkQOW4+JbqxQsGhIggAm3wf6cWW+6Rx7+AqJD3l/nlWLM4sPf8/gdO8ixscT1LmclfWedc8deR8HKYYZBKARATY35j1jPlOmsERi5aCxzd9pFg7sWYnT77zr33zt2UdQTA2RlD3/PeT27iL2/7rA7gY4ZjYIKAaHvQipY/L/fqzSKUHJFsbVHxKyYJfN5EZhbvyXONHBfg6bELM+lwmL0QxjlSH78aJEuaa7t5zGYRB7Y8eqRTulIAyLvFx0ak2Qecavdayik7uUAoEgDk+UghamE3RZIjgJyH+Fu1iuHoQY6ldQF6zIVQKMthp+yWsjWDzB6o2o6NQxRAWG5STsePPIRZCFChFrIYv0b3CzA==",
+  "URL": "http://pcb.geda-project.org/",
+  "LICENSE": "GPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1591314461",
+  "PACKAGER": "Kyle Keen <keenerd@gmail.com>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "gtkglext",
+    "gd"
+  ]
+}

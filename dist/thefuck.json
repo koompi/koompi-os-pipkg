@@ -1,0 +1,28 @@
+{
+  "FILENAME": "thefuck-3.30-1-any.pkg.tar.zst",
+  "NAME": "thefuck",
+  "BASE": "thefuck",
+  "VERSION": "3.30-1",
+  "DESC": "Magnificent app which corrects your previous console command",
+  "CSIZE": "160986",
+  "ISIZE": "655145",
+  "MD5SUM": "ee3a6d778910f5676ba42a16dbd68ddc",
+  "SHA256SUM": "0f587c0a5e211f2840bc691d1456d82173de667e364ecce0eed04e3ee6038180",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl5zsuAACgkQeGxj8zDXy5I3QA//ZBzVsEvMxDL7SsBw8EBMXAw+u1g3/hoIPZCgGZfz2b9Z8c7ELXOS70k00iqTOhPbDr/nCTPv6COyuKJVPHi4HAB5t2J7x4UJPxATF5kD2ABaK0kcIMMipjwWCPCAp7y8cDXiJrjf2IkPGMOIrVJlSfujUFHCipyHwiXPA9+wdOS39dDO2iAsPeHmZ6xzvUiP+tdW/uU2WUSxXJV9lJywVqkP1cJySFudmcO75BjokXsW3d9rAPJurNSDE5wFdKt97kww+8+b7IJolmz5XCK+5eureRX5Z2nd5RQZ7/WQ9AzN4IyN6MHl2qwpYnAd7u7XRIiGHjm8b1zpM7PTTFLAy0v6aQnMAvZAI3OkgHPO0hU6m+D+C6MnAsy6qBjeIOCiNxWGztzF+4AcwU3BiyDIAMvfeKInOXy18j0HC3VhDms4V/VImHdzx4EhTGqDVY/MZQa4eT6LEYUKQ2OTkZ1FFxfozByOY6mWNUohopdIFaLLU+imk2luYLQGxivsSdey0fSnfCqKObL0qNNLJmdveTP4biZWuJ0QgX3/aBYhUgE7kVszYDlD+wfbcM9fRED8R1eYP05xOVO33YOMHLkXPlPeHFulxxdBGYHmkwv9xQevW3rcu2/PVkDXmvwDZK7+/14GsuDHLhAS6VUlCB39Is01JGQk4qbd0KguD1XiOKI=",
+  "URL": "https://github.com/nvbn/thefuck",
+  "LICENSE": "MIT",
+  "ARCH": "any",
+  "BUILDDATE": "1584640588",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "python-setuptools",
+    "python-psutil",
+    "python-six",
+    "python-colorama",
+    "python-decorator",
+    "python-pyte"
+  ]
+}

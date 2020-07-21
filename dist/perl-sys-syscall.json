@@ -1,0 +1,23 @@
+{
+  "FILENAME": "perl-sys-syscall-0.25-7-any.pkg.tar.zst",
+  "NAME": "perl-sys-syscall",
+  "BASE": "perl-sys-syscall",
+  "VERSION": "0.25-7",
+  "DESC": "Perl/CPAN Module Sys::Syscall",
+  "CSIZE": "8047",
+  "ISIZE": "12146",
+  "MD5SUM": "5658532ed6dce67974d0f86ded6b86a8",
+  "SHA256SUM": "6c01ab001505dba62373d016603b4d865dd7e3608a4d790c16872b22d97812dc",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl7vNTIACgkQeGxj8zDXy5JUsxAAu6WfSBlyaOx9E5VkS4JtM6PrNbBTryhYYT8bhXVPho6KDIPwxakCCM/y6IILxwYS5cqYV1EvN8er/Ig2lRk14FvTSuNgP5ddulJxodHmQE8whclAQJ94wfnHfEpIiD6NjCWZ4JOVeZRuLLKLmvADH0d7HbPjsai7tlsSluQtfMh0iyxHVbCcN8wY7TpyZek/z54NAMx24s//mPqd//+5CxV73omEZk+q9o1TYUF/kyIWIm3gpb0zL+WrN1OfUr6afRp4EFTc0VL5eFiPRW18k8mJhMOe8K1WquxWK4z/XbEBUnohlwKqRAfe8+EX1yAuLYJ/HAXLvXjVhmb3/AYvwgyM8NpyBIwwIb+SC3hGm06fYzEYJmc2pE5zJiWa7CgtH/3KmkEfgRACL1B1DEN6pV7DxEcpVbgqzmx6kxMV8sMksApxJlhLV7qZIhUT4zORF5YIP2S/UiAKycqTckD/DuqFlrySBmLwD5o+RfdXbS9S/wVyzZJ/3aSIpf80aAua3xrw2aIuyEmD2haym6QFtb2s1Nnhb/oknUi66QlfyABeDvnowafGj26lMK4dCkjhLs1pRrRvRR0JzaQvXGc+a/Sl7nMXC7JKeEp7sBhkIy054SgQC4PY8+hxq2C/mPev1yE2euxPDgLJosjklgcNzLxlft9WP5X9RpSRm/hkU3M=",
+  "URL": "https://search.cpan.org/dist/Sys-Syscall/",
+  "LICENSE": "GPL",
+  "ARCH": "any",
+  "BUILDDATE": "1592735002",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "perl"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "FILENAME": "libcddb-1.3.2-6-x86_64.pkg.tar.zst",
+  "NAME": "libcddb",
+  "BASE": "libcddb",
+  "VERSION": "1.3.2-6",
+  "DESC": "Library that implements the different protocols (CDDBP, HTTP, SMTP) to access data on a CDDB server (e.g. http://freedb.org).",
+  "CSIZE": "48396",
+  "ISIZE": "164038",
+  "MD5SUM": "8c31ac5bf9a9521d6d9d19ba1dc9e818",
+  "SHA256SUM": "9cf179429c5aed08938ff339cb65332ef1c69cdd8a482d7a51d056984044e058",
+  "PGPSIG": "iQFIBAABCAAyFiEEZkWwqMcAXnjbHXhk+Z/+D+rpmb0FAl65LQUUHGFsbGFuQGFyY2hsaW51eC5vcmcACgkQ+Z/+D+rpmb1R/wf+Ilbk22z20hYiGMPxXS4L/dHJZWoHBdd/xd14JzDUykoOcNhulUHrlw4sHw3Glp42nnuxFGV3suo0fvmBXM25GohPtxqekZfxLLfjDZ5M7OBCxtq3QIkbrd0rwuO8aJU7zp/0YPpDjCGmlFPsYvvVp1GLkHMjdIgPAttS9lagqexyq6kg7JVGVQIchXnemOpCk196EVL5MdGgtzEVH9FP8pAncrlL/y4954moQZewvH1uPGN3oEZ55Nne8iTO5DKSO/mrFYp2hQ4YDK5tj8JpseYgKPM1qcFgcONhHP8g4/nU7hahc2Rh8cuWcuWb8dRiQLaLY61LfKXO+ahgIQDtww==",
+  "URL": "https://sourceforge.net/projects/libcddb/",
+  "LICENSE": "LGPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1589193946",
+  "PACKAGER": "Allan McRae <allan@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "glibc"
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "FILENAME": "killbots-20.04.3-1-x86_64.pkg.tar.zst",
+  "NAME": "killbots",
+  "BASE": "killbots",
+  "VERSION": "20.04.3-1",
+  "DESC": "A simple game of evading killer robots",
+  "CSIZE": "1349549",
+  "ISIZE": "2399672",
+  "MD5SUM": "864e721cee0d1167208150bd8a1cc041",
+  "SHA256SUM": "f190ffcdcc11a3329df86d6ac899a90473a32c3f8e30d6191fb5fe1a1da230a0",
+  "PGPSIG": "iQEzBAABCAAdFiEEFRnVq6Zb9vwrc8dWek52CV2KUuQFAl8HBU4ACgkQek52CV2KUuSjRwf+KxKIyIrdzPzUwDUvS8RNa0gmfozKCBt68aFU9+xEj85Pzrw0KMrBYY7mrcrSBoiiGzL+AwqbNUzJMVUlt3WDGgyLadojs4BV3LMgLaKZfJo2WfCjSS/1ijEFgTw6Tqxk63ES9hB7KLlAIMI6lF8Ad2EsMB1jwX83nWaKRQuuBIroCd7Wn1wBz+lcN2g9ynX4e7fSWBqlD98vg/CNjRyZ+1agSd1G2OOLOQPzlKb56tCGr/He5Ld5TgG7RYeGTuiHnFaxtYfgzCsudsUYDtX97frgQXrieVZuI4KAepcAytCl0PH8oel/5n/kphe2kQRvdA6GZbCbRpOLBqLB/XRYEA==",
+  "URL": "https://kde.org/applications/games/killbots/",
+  "LICENSE": "GPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1594108434",
+  "PACKAGER": "Antonio Rojas <arojas@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "libkdegames",
+    "hicolor-icon-theme"
+  ]
+}

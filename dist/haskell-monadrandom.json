@@ -1,0 +1,26 @@
+{
+  "FILENAME": "haskell-monadrandom-0.5.2-2-x86_64.pkg.tar.zst",
+  "NAME": "haskell-monadrandom",
+  "BASE": "haskell-monadrandom",
+  "VERSION": "0.5.2-2",
+  "DESC": "Random-number generation monad.",
+  "CSIZE": "69789",
+  "ISIZE": "517558",
+  "MD5SUM": "5d83d70f79df671d87933ec509aa2cc5",
+  "SHA256SUM": "c3b82c77ca5cbbe615d1f4c340c5a790e5d089f250856ff7698da91a41185a04",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl745kAACgkQeGxj8zDXy5KRcBAAlIQJqv3nmRDbGIAuQAEJQmXNdHDrigT3UOg1O1CAjWkVid9AlYGi1lqNaHoCnPDq3jfX3mrzRu3mjvDViDnY4FRp/UrEF4qMytgRNHA81iz3Zu+cZ4+pEWedU4oM9PDGTTMNMX1DWdRDuZS0HgKTUT69DVAOxsSrzDlZ75Rp108DoAbTH1XDgTWqJgAWMkztdWL67ZhlLaqFPteU/E6tqO74lT6fiPbKM6ElQNjgJseeafBGEEX2MtyQfKkrq0h7aiA482s0wTf2iWM+b14tJsDch404WjlxQZAPXizoEdX0OVDRjrZgQBljEHw/c0C0yd9+44JciT8GLm4IuLiDAZUPQpziUnjR6gnFAjByl1XsVjc0BdM4if6BmprVeod6h5rDX1Sm+udbpO4pMoqQPBbgP5K8smgdnvQcNNGqGmQDCeLoYfyskR6SZR4knFXAS4VBlln3aBrxJakd7J/PUMbvTbRhjPAOnQFEs1D4RDhoNzrM/8cWwKzszM9fx5R7K9faIzfFkmbvHWiztHrf7w5vNcGNu5IZWlfRUTxCKQy6RDScle0dDN7/3IspYOpKFvVZ0fZfU9tPQhObaHAdwBYtuwtxWFyOjANEeh2rLCRM3nKOHUZNd1RhVl0yv2lIKatkVGGH/beRj3ZXlOEHCLgMTuDG/HRBXz4zyMJ0MNc=",
+  "URL": "https://hackage.haskell.org/package/MonadRandom",
+  "LICENSE": "custom",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1593370150",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "ghc-libs",
+    "haskell-primitive",
+    "haskell-random",
+    "haskell-transformers-compat"
+  ]
+}

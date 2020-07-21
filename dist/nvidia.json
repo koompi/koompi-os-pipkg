@@ -1,0 +1,25 @@
+{
+  "FILENAME": "nvidia-450.57-1-x86_64.pkg.tar.zst",
+  "NAME": "nvidia",
+  "BASE": "nvidia",
+  "VERSION": "450.57-1",
+  "DESC": "NVIDIA drivers for linux",
+  "CSIZE": "11453576",
+  "ISIZE": "11453235",
+  "MD5SUM": "4a1254f32da51e629b3697e0ef598bb6",
+  "SHA256SUM": "16c0ddd2f11f4283fd8e88437fe4ae727c1b68d6afb4cbbdcafe58a992ee86a5",
+  "PGPSIG": "iQIzBAABCAAdFiEEj8FaBklQqZ3RvRTdOeS4d+YuuRUFAl8HQpsACgkQOeS4d+YuuRUJIA/+JRv1V5nKvr9zQcpLyJ+qc/94RzW39cpkeAWEi7lEI+ldePnDTCRDOLkeh0Qz55N81nsysHtt2Q6W/QVBGfMTK4rwEWuHSGVLfxJSuxLXBrZFT1CXTZfyy0P8Chlvyz2sFrfSzFxJxKpHAzxL7IL839/zWzLU31o4snKmxhFtgop7t96U3MKpebdTABpSIgAG2KIiOBueOI9Sj+haBHj9DYvxoyIIuC+gPQz5XXfFdIisdl8Y1dz0ViRntQjZcbPG52Gazeq8LJ5Cimb5piaOxaC8GPevm58i1g06JkY7rwmD5WXmuBFDk6J/1zx7nABZpxR1vH+DCeybOT0mPzfSgPClotL+lfSRbR/NKR2Olyilqv1KygKrPb1ayfA/Tc0rala5vLurOPUQqfixy9BGzBPmaG2g4uKIxgFCVXk88qLw71B9/Y1aF1Vrc8zbRzJxTgGZo/0bINNn8QvWQkk2PY11uXqv/4z5r7Nwwlb4CqNon3FFldTAjvLKo54F1NTJ5wSG9aufWDNqIhw4QDS8j3JtixVGNSokRShGsw9Dyif8O5dF4sB76EaUyh4ECZbflEZI4cU58z896qKPHUjRG3eSWwA53NljL4tyDH9Zhrsz8ifflgH4QdKmTALkFv8vK3xLv4PvEts16mK+juU7Lp1afw8TNfPtQBSE6Xi0J9M=",
+  "URL": "https://www.nvidia.com/",
+  "LICENSE": "custom",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1594311165",
+  "PACKAGER": "Sven-Hendrik Haase <svenstaro@gmail.com>",
+  "PROVIDES": [
+    "NVIDIA-MODULE"
+  ],
+  "DEPENDS": [
+    "linux",
+    "nvidia-utils=450.57",
+    "libglvnd"
+  ]
+}

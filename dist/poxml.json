@@ -1,0 +1,24 @@
+{
+  "FILENAME": "poxml-20.04.3-1-x86_64.pkg.tar.zst",
+  "NAME": "poxml",
+  "BASE": "poxml",
+  "VERSION": "20.04.3-1",
+  "DESC": "Translates DocBook XML files using gettext po files",
+  "CSIZE": "119891",
+  "ISIZE": "350462",
+  "MD5SUM": "2894deb7143ac3a476cb9c29ab3ec9af",
+  "SHA256SUM": "7f75a96f864f230b2702fbb64100f33b7604a1cea90bb0461f28674bd5b2f27b",
+  "PGPSIG": "iQEzBAABCAAdFiEEFRnVq6Zb9vwrc8dWek52CV2KUuQFAl8HIPwACgkQek52CV2KUuTeaAf9FqPO4oYG4+VZd2IXbggEgtKOrkE2VFKvt9kIiVfrosbMU5l4P7QTGBoMFJpYWSiO3NX47fqtm+ophnb2I1fMMQmlPDh6O72+oy9t2/LchGu+EHx2vakJIcZMoLIZ1xMZLMB5cPV+WnjPSEZlsu9fl2a8owoHW05+MTpu/SHEePvrST/6qkkiWimWQsxDxgjwi9yHXsN++en+T2Goc+svncpTPFMDrqsHIc8yun+RZLSH6wM1siQMK0ZrGUKUfnNJMfp+rc2yT0vUL7Ujnx30MwnopEmBWADdfRTKih5oPs/1jsKK9xrAgGFhDE8OPL35MfoBwau7ghwVNAQn19lTDg==",
+  "URL": "https://www.kde.org/applications/development/",
+  "LICENSE": "GPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1594113602",
+  "PACKAGER": "Antonio Rojas <arojas@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "qt5-base",
+    "gettext"
+  ]
+}

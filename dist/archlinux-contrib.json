@@ -1,0 +1,23 @@
+{
+  "FILENAME": "archlinux-contrib-20190911-2-any.pkg.tar.zst",
+  "NAME": "archlinux-contrib",
+  "BASE": "archlinux-contrib",
+  "VERSION": "20190911-2",
+  "DESC": "Collection of contrib scripts used in Arch Linux",
+  "CSIZE": "8018",
+  "ISIZE": "15585",
+  "MD5SUM": "30ce5cd9a78b5a91d4d9b4334c1fd17e",
+  "SHA256SUM": "d919cf9ed8957fd58a1648ff2948ecd4099a74487e309de52f97bef42aa2d5e1",
+  "PGPSIG": "iQIzBAABCgAdFiEEwQA0ZnZjToDJQPuenAL/QZ/svhYFAl8CXT4ACgkQnAL/QZ/svhbVdA//X7oWg4GU7p4gA8IKEkWIVhzK1K13u7mmGFUsfCfSFU9GgAxvrrUmNQYxbK5tZ3QwDzBVWDl7bP64IGccfXp46De49unDbku64iF03vGAbTB89s/Xl6vJS2oinOhYPRkJE2WMSZuzilt8jLv5xT4y48nDd7E2RCQ9YqDxC5vKfORRsUHP4kVFsfb0QM8l5IQeM/u5AufwogAJVmBESQm3fTUN6DnO+wJAQcLuwne6DT9tQ01/kv2NL/k2PWc8FmyaWVObKLHFD2rs9iA0SFOgrywFK0y1TlkWddUqDm2L6IRLNRnNoJs/EvzzGYqWFCt+6u7MzARXH/vtxNCkEGJv3VTe39Bff5B+nSJcYm7qRsyTIqMrRnYQmTMCeu9py93BkSDCvrFTXLGAK2ApOd3GsUDy5TJv7t5erx9kz/Bvz+aujNTg0fRrhousUqr2c0nixp1pus0N6ZTu5Pz+09zV0iMhBdhJnUPGjZN3EHtMDdvh5QClLdfIClDNf599mgLz6Q6jMGh8e3bXM4ghZf7X878v2/onqJQBeCaJd/FAA97KQam8e37CdkskP/V0O6a/DpOJD3G9jqw8B13CFqhvP+IpEsGUAh87di9DfoVuTzi1AW66Y0ZRmn0Pmr1q1mbkOuI1E0CKGh4gluF2rdn7d1fubb0xt7ji+xKo014N4jo=",
+  "URL": "https://github.com/archlinux/contrib",
+  "LICENSE": "GPL",
+  "ARCH": "any",
+  "BUILDDATE": "1593990445",
+  "PACKAGER": "Morten Linderud <foxboron@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "python"
+  ]
+}

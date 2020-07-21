@@ -1,0 +1,24 @@
+{
+  "FILENAME": "timidity++-2.15.0-3-x86_64.pkg.tar.zst",
+  "NAME": "timidity++",
+  "BASE": "timidity++",
+  "VERSION": "2.15.0-3",
+  "DESC": "A MIDI to WAVE converter and player",
+  "CSIZE": "611077",
+  "ISIZE": "1512706",
+  "MD5SUM": "2839b86942ca3a7b4ad6b38a570f7ad8",
+  "SHA256SUM": "5a95bbfec4f064de17df54f3147d8c9cdd64a9469745bf228146883e8e1b9917",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl8EpegACgkQeGxj8zDXy5IMcw//Rgkp4KBOeRRJpfkMfjYTttCWDpqRjaWVSMD2AqWI4cwVfeAell0Nu+HuFyQZ2bXIYMfvZvv5SDRBoJ/5VRqy8dll4Bjk/TdAzD+KunUS3f5/n0BRKaAOVP8bzdCEiFNg03my8eVT30hukO0oHHCb3e0ABWE3RkS92u9oOkau0CUGW2IyuB9DZp8TnYtVNY/v9Bf6hl511Zcxce+ImVq+2gOjd29KP/52VLA0xTdZTfP06xuc6a+pevKSM7d5v9FNcXkDqPZKCk7y8PpcDca7MhgCFjg/SQMQvk7UXyZMA4WLZ4EDUiIvbWGesMFSTzjcXrxYzv6krVkknDZlycy91OCvkWQ7E4X7rsuOiSW56pLKplM/SVfCsW6YskSw1+r/tq5AOBdTqzvUHWluwEWAH7ZkUeXoAh17WzR2ST/goOAKwlg7sodgypteF7CkcW/aTDMfW2vO2JCSZEbi5xx384i+WwEJnwP4i7/9lEp2ZYj65w/kBzf47un/3/mi+3b4URrmX0tcXgoLi35zvo/dGR2eo9UYPl6M5cOX3G6Of+1agJe2vSBDpIzgNOYTJJxR32DUQO4XznWgcyAxJ8OadVKGPAKS3IsnZq6dvdfEFiMAmi9KTMYtHMfCdjNeJ4CLIiBXc52jbBd6gFQAhWDdlls6qMTmzZmcKrLqbdopxrs=",
+  "URL": "http://timidity.sourceforge.net",
+  "LICENSE": "GPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1594139660",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    "soundfont-synthesizer"
+  ],
+  "DEPENDS": [
+    "libao",
+    "jack"
+  ]
+}

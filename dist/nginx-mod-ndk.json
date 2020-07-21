@@ -1,0 +1,23 @@
+{
+  "FILENAME": "nginx-mod-ndk-0.32+0.3.1-3-x86_64.pkg.tar.zst",
+  "NAME": "nginx-mod-ndk",
+  "BASE": "nginx-mod-ndk-set-misc",
+  "VERSION": "0.32+0.3.1-3",
+  "DESC": "Nginx module that adds additional generic tools that module developers can use in their own modules",
+  "CSIZE": "8359",
+  "ISIZE": "20089",
+  "MD5SUM": "2bee1f178eb78b99b8fbbb5f43fce313",
+  "SHA256SUM": "4c2bb32b5ee475e87890601b41ea20b58b26de95c269f66d5da7d86a42ec1491",
+  "PGPSIG": "iQIzBAABCAAdFiEE7MrITBugimzI5j+78i+x14p3rqsFAl6gmzYACgkQ8i+x14p3rqvzuA//f7C62Fjyx1ejKwjPzw45uBsuiijKQNW1oSkeIGcoifbGwZFkphF1Iadd1E6tUOY14T/nz2GY6sNxevf7e9smHc/mzY2upfkhRjfB08NUAFfWbI/LaEGFf3DxiybGbrXsXWxSKDhw2ZyYncbLZ2pN7sdjo3RUF+151OrWkatrbdpxjdePgr1UI9LyFz4s4DW9BwgQuusXvYtIImNczMpZZoVbFWTPjsSjbRqgf12ReKUvivEqhRya48ASqwzYj3DbkVpmbQOAoPdD7BfkoPNJk7eCHEz1ty/iOCBpEsgGnoItp4jGLvu3f9SeKu+87AGItxl162kBAzbsTKCm0gkia+R0XcQgovkV5LV9IJDOmNRxu/WdI44u/7zQrVmgmXe0w0U2BzfzNtpCSjgu+InevN+gbDgqA7BsaMZTDs8v1vjOou6KIp/6F1DYlNmcDdMAoQEKfwJ+jvmaH1kLhPgVqkel83vrvOVTkTgT1jMx9ig7cg3nWcxyYa3IThgCO/IVea7u5gq/oP0cieBJ5FTyPfuQlQB3wRY80ngRa7/P0WEPZZs8erdRM+kDMZSqQ+JYOQBILM3YEfZc7DzKXsOWOtDHrm4892R9+tcF8LFDDEGXLGmKXygH70lkRT6cES/MLfKGAtrBZF+UN35Qvm7bVF0cgYGEUMro59qPqi13TwY=",
+  "URL": "https://github.com/openresty/set-misc-nginx-module",
+  "LICENSE": "BSD",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1587583719",
+  "PACKAGER": "Giancarlo Razzolini <grazzolini@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "nginx"
+  ]
+}

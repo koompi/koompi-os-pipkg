@@ -1,0 +1,23 @@
+{
+  "FILENAME": "perl-cgi-formbuilder-3.10-3-any.pkg.tar.zst",
+  "NAME": "perl-cgi-formbuilder",
+  "BASE": "perl-cgi-formbuilder",
+  "VERSION": "3.10-3",
+  "DESC": "Easily generate and process stateful forms",
+  "CSIZE": "147892",
+  "ISIZE": "435050",
+  "MD5SUM": "8afdb683856879e7d3345e081f6bb564",
+  "SHA256SUM": "2a9f6a120dd275cb4b6ac10da45d9b7c8e43e4b5de2213ee0314150fa1f77921",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl7vhLgACgkQeGxj8zDXy5LFsA//ewaB3AoUDb2zQ6vu7+KtO+i2u8PwKoWlQt591PIPaTFIOG3h+btgnMTudDUJv+IJcZ5+y1Z6jrsXwhfkrGl20nYAKsWasMszW0/Ne9DPWx1+Kn4MzOpApcN9RiQ/FgF9XXB9sY6lYSPAdR2VUxMFgsyD8YgSFvtfaX1VAqAbog3MwoKRpj0jKyIGAWKrF58Y9qLvGJ7zq0+qij21X1zv3crspHL+ZjaeMzG3nSfcROxr7CKrl/IDdx30XyW8++4RLAg/v5NCRCys37DSmqn/mSCYciRFqSwGz6Bg9vGN0b8gWTYW9NMNyXelnNlI2JdmNiNxs3YFkjVoa2ao1Kt5U6ymt2a3qB3lgUOUUNXqrb+or0ylED/AG/XyMLC1lGlhQDG6yNxk5ocTWmh46BBTo0oe++uz8ql12xSBBXUG/aNwQi88aePBZ4itmJTr8WnSr0z6owbqtGH41XXUFGWZG5o1yrf6dAdGVYD4yOLZ8vw1wsgHdbecqyOLw1xW6U4UX8BfW6ZF5CihWFGFAI+WTwpwIMFQoN3IbOCuEUC4YVJ1ebj7Q7RGUe1Mhfhf4pzMYyVBrbT9O6CQApOb9xnYYzhaFCZzLGr0ffA5DeD5q4/Xh/A7y6XnaXxX4HSS9Xm1w65u8G3Uyl63SIfe9KMR5eBWkPjZy7g4YB1JIMo/hSQ=",
+  "URL": "https://metacpan.org/release/CGI-FormBuilder",
+  "LICENSE": "PerlArtistic",
+  "ARCH": "any",
+  "BUILDDATE": "1592755358",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "perl"
+  ]
+}

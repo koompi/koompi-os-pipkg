@@ -1,0 +1,25 @@
+{
+  "FILENAME": "haskell-atomic-write-0.2.0.7-9-x86_64.pkg.tar.zst",
+  "NAME": "haskell-atomic-write",
+  "BASE": "haskell-atomic-write",
+  "VERSION": "0.2.0.7-9",
+  "DESC": "Atomically write to a file",
+  "CSIZE": "28709",
+  "ISIZE": "134079",
+  "MD5SUM": "fece2d3f7a4980e84efb1c32055a95f1",
+  "SHA256SUM": "e5b7e34fa535e896206bb617317ead9ac170c6baf6eff478b105f7d1e56030b9",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl75AN0ACgkQeGxj8zDXy5J7whAAnQa9GkiGlks3K71ZnqajTT45R6NVDROj6zMLt6LtoSJOWzezmeXpO91ec+Q+ChJEAo3o83WDDN2Aew63TnTi01xENkgCSYaEYxXAavIzFVVun8fvT6X2moEM9a9dRFSECRlX0xxqgtwvBen96mS7qilwnTi7GHA7TOIA0WK6yfbQTPP6NKUyob93tKAqkmnWHF42Dk4kcPqgpvy9m9HwhNEMv6pGJ1H+db/xhvsTKxr5aNd80GLjuOXnB77JRB7izexbXXW40PUCe/eyTh//LxrHLeQZpbqmFgQMxLvfaHoaFP7aYbvYgIEoZBfFEyvYmpHEB+KnMjslCmltBVUbOAqdTTKXq95g5Rj2XhlvYE7DvNCN23kst/9diAFSZ0j9MHOsGVxn6P+fTVQ1pzk9iOeIjmfsuSmQdEtrxkueEJARzqosijaeWROVCx8g7hfckA0MuR21q/8sUtwEm7fzyLxP6IPaT1KNW9YR58AVWlIDLFx57Es52re/z4Xgg9NWDNIOhPCe/OBIMhvfu91dXs0GmqxdGsZNgh0oG/1JxXZOrLuDEHo8OfifM9Q/KgjZS1C/0PfPung4SQ58xQ0p0FAn59F/RNPCNmZ+TgWhyfW/AbAhF7vnkVxsk0m7q5y9kvVOqrwF7pfI0BEZVDTr1eu/5hd0bSP9HYO39RY00+4=",
+  "URL": "https://github.com/stackbuilders/atomic-write",
+  "LICENSE": "MIT",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1593376963",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "ghc-libs",
+    "haskell-temporary",
+    "haskell-unix-compat"
+  ]
+}

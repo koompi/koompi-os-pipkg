@@ -1,0 +1,23 @@
+{
+  "FILENAME": "java-bcel-6.2-2-any.pkg.tar.zst",
+  "NAME": "java-bcel",
+  "BASE": "java-bcel",
+  "VERSION": "6.2-2",
+  "DESC": "Java library to analyze, create, and manipulate (binary) Java class files",
+  "CSIZE": "603401",
+  "ISIZE": "674125",
+  "MD5SUM": "9172845b362acb68a705b9433273cd32",
+  "SHA256SUM": "21f5863e03c88d92c21a327054cc5c71d0b1067f0e1669a06d0a75b9f32ffc61",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl7DsjIACgkQeGxj8zDXy5JXXhAAlhLlx1qx51ylGNoDSPgZxUz6B9o5tDJCv8+ooVd+Wuuo7nPNKYG+1bX0d1Y0u3z9ZE7oYzt4/m8rxm7nnrEAdwWLZSzC6GUR9ILEux1Y2r1y6C7+5IBmYKpIXS3LUSJsptnazqw3umsjj4sSlo5nD3h2Xq+PMjZBfz9gct3O7dzmKGaggDc/6BFSBNiLMOuRS4BZLK+MImlaitWYLM+NueaffJskZscq68cKdn7FuL5uM6nN649yZnV3NwyAZbmAisceB32p+zoErB437g0tOSyQCxo4gGOYFn7Ki099bf2THHKa04GPzkWPE6o16uFJotY4tE0z5/6QFaEsIA8cqcUvjlRF9bJyK0kdfTjC/RisXtF8v3kZZnAffqFuv5lhQiamhckmkQowN7s5zupz/OmsX1na8/oToJsdHKyF5AynwA3Kj1ORNEOYHJU5QTNnMnIGhvt+7Qpc4AoR92IZRMtExr6NDX1LLiMBVmkq6d+hEXgeAeAFx4tr8ptDISYDRGlXADXE4Eat9UelCnJ9iorPC2rt6hF3QKSHwR9jcw6BNMa+kDijrmvJITn7+VC9Q2mKqlTgl2ffQdHjt0VeL0yCnYis3YiIi9PmAfUdykiEC0votvIiI1GoPtVvVpbWpQSO2vg5uI4prPS9tWorBr8N6i4282MeZEM4nX5vkI0=",
+  "URL": "https://commons.apache.org/proper/commons-bcel/",
+  "LICENSE": "APACHE",
+  "ARCH": "any",
+  "BUILDDATE": "1589883402",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "java-runtime-headless"
+  ]
+}

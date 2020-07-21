@@ -1,0 +1,30 @@
+{
+  "FILENAME": "vapoursynth-R50-1-x86_64.pkg.tar.zst",
+  "NAME": "vapoursynth",
+  "BASE": "vapoursynth",
+  "VERSION": "R50-1",
+  "DESC": "A video processing framework with the future in mind",
+  "CSIZE": "856328",
+  "ISIZE": "2741363",
+  "MD5SUM": "ef114b491c557efa274c5b633144a7e2",
+  "SHA256SUM": "85141533326d1be007167a2354e52557342bdb1ff23f006c657fb33d464f0109",
+  "PGPSIG": "iQEzBAABCAAdFiEElDfdOBWnqRaePTlGr/XZUJi8b/UFAl65eIsACgkQr/XZUJi8b/W+vggAgpi+1k6g1H5hwYW6SJvsTslhZyVmvXcLGzMqxtb1Eysgn1gJe2Q3yRkp1iSlran2OYcvTCaNrQ5V4o5dWbTjD9j6KPomYaodw6o7QS1T6Rnus8vygAc0UTGkeGta1GD/YVZmEO3Xjn8idokvb0F3vy1UyFDSSPE0MxILCePVGpRM4Nm/VtH0HS+wNpiPV2JnIsyqtu7reaftywzoNTc/5pYx7UoCTNUVgjt6I5pI8k89PePOworkvRDVf8tJWnpxySOb0Vy72C5CE5E7XByl+TDCyA1LNRaePL7AwYVRtSr7DqtgJsRVu+lZvSJMbMMBbkvU43rdgjLEKqnhYEWkTQ==",
+  "URL": "http://www.vapoursynth.com/",
+  "LICENSE": "LGPL2.1",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1589213252",
+  "PACKAGER": "Maxime Gauduin <alucryd@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "libass.so=9-64",
+    "libavcodec.so=58-64",
+    "libavformat.so=58-64",
+    "libavutil.so=56-64",
+    "libmagick",
+    "libzimg.so=2-64",
+    "python",
+    "tesseract"
+  ]
+}

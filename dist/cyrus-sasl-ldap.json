@@ -1,0 +1,24 @@
+{
+  "FILENAME": "cyrus-sasl-ldap-2.1.27-3-x86_64.pkg.tar.zst",
+  "NAME": "cyrus-sasl-ldap",
+  "BASE": "cyrus-sasl",
+  "VERSION": "2.1.27-3",
+  "DESC": "ldapdb auxprop module for Cyrus SASL",
+  "CSIZE": "11319",
+  "ISIZE": "26400",
+  "MD5SUM": "a0d2f7ffbd705513358b74ced94fa330",
+  "SHA256SUM": "4766260bedfe07a613a1975a89d63b8277beaa573ebcc2e625e1ba8a01e6b420",
+  "PGPSIG": "iQFIBAABCAAyFiEEZkWwqMcAXnjbHXhk+Z/+D+rpmb0FAl6yhcQUHGFsbGFuQGFyY2hsaW51eC5vcmcACgkQ+Z/+D+rpmb13hAgAjUusix4qCPVX9gW1EJNpD6E4JFZ4FUtIZAqabrSJ1is8coMomqLrk7+QDSDz+Mn+ql6qJgYnzvWQYkCEjwf3RAm1GYvYG/JHuDWKx3CVjHzGcqesyTVv4sAXkMLhlAa6ZCF5rXaLEJiDQ5KOoYazedt8HKzYjLUjJdisuKlc6hBPM9aTQfob48D26+Bar+uSy0bFkgVMc6I+qClJscLxVtTrFc93bFuMnNbe9cLH8bQFngNhUPvGdLVkLUfzcbxtnuzAJOPNjg8pBr+Bn63aiKk25Lf7/DRsrZOyuSjk9Vih0MEG1LsHXxP37a418TcrTGIHM74Pmo5969yF11mcQQ==",
+  "URL": "https://www.cyrusimap.org/sasl/",
+  "LICENSE": "custom",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1588757693",
+  "PACKAGER": "Allan McRae <allan@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "libsasl=2.1.27",
+    "libldap"
+  ]
+}

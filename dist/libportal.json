@@ -1,0 +1,23 @@
+{
+  "FILENAME": "libportal-0.3-2-x86_64.pkg.tar.zst",
+  "NAME": "libportal",
+  "BASE": "libportal",
+  "VERSION": "0.3-2",
+  "DESC": "GIO-style async APIs for most Flatpak portals",
+  "CSIZE": "71410",
+  "ISIZE": "577413",
+  "MD5SUM": "71e32f8b174fabb6370e2f300193ebd9",
+  "SHA256SUM": "3aaf0e59a00c2ced3184bb447e4be1300cdf3b403cb7f06449e656911fe6007f",
+  "PGPSIG": "iQEzBAABCAAdFiEEhs/8qRjPOvRxR1iAUeixSKmZnDQFAl6/seQACgkQUeixSKmZnDTSlgf+MhrvWt8OutghHZCy47R5Z4yE+zhwA7pQhFzQ1S/ppx0+0J+ZFX3emDbMNwqaRC7TFpf+7t0HGvOQJ1VU6FKeo4mLOGhlMwd+nQTXtWi8nkhYmj760etyINOl7Z9LMkEbfVLpM2Ou9U3FnubWMoTX4u2a80wlJV32s9/wV7HglrffJO5jOX1QRBRy7NRmwgCfttmHuKTdrz+fdGEU3F2lpew/4mLJEG/ffMGuw2wBDTLeR+EjIiF30GHJ67gZv8TNW1Y+PisXYTBEiD21uQE6zah/sOD0S3mTqg/3cgXUn3UvMk9phy4ljUPKJFb27u2CroGzz6Si4OEE3iE7Jpyndw==",
+  "URL": "https://github.com/flatpak/libportal",
+  "LICENSE": "LGPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1589621195",
+  "PACKAGER": "Evangelos Foutras <evangelos@foutrelis.com>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "glib2"
+  ]
+}

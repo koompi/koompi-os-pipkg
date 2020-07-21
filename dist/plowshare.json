@@ -1,0 +1,26 @@
+{
+  "FILENAME": "plowshare-2.1.7-5-any.pkg.tar.zst",
+  "NAME": "plowshare",
+  "BASE": "plowshare",
+  "VERSION": "2.1.7-5",
+  "DESC": "CLI downloader and uploader for Rapidshare, Mediafire and other file sharing websites",
+  "CSIZE": "83255",
+  "ISIZE": "289791",
+  "MD5SUM": "188e174d57b2392aa3b19094c9b3844b",
+  "SHA256SUM": "c5a534b9593fda95e39803c4e71f75fad4ef1fa16303eb92cd12932e782ad7ac",
+  "PGPSIG": "iHUEABYIAB0WIQTH54SUZv4jWDQ1iDdyWHNLQcMVSQUCXr2IIwAKCRByWHNLQcMVSTunAP40QiZoonxqc0dl6H6+zl5UKXhZxupPR8H1oZbhsbJw+gEA8cvqsCdojTxMggH1jIEEWeZ4KeDmECgcP7auZSzH4As=",
+  "URL": "https://github.com/mcrapet/plowshare",
+  "LICENSE": "GPL3",
+  "ARCH": "any",
+  "BUILDDATE": "1589479124",
+  "PACKAGER": "David Runge <dvzrv@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "curl",
+    "js52",
+    "recode",
+    "git"
+  ]
+}

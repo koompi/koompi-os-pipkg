@@ -1,0 +1,23 @@
+{
+  "FILENAME": "embree-3.10.0-1-x86_64.pkg.tar.zst",
+  "NAME": "embree",
+  "BASE": "embree",
+  "VERSION": "3.10.0-1",
+  "DESC": "Collection of high-performance ray tracing kernels",
+  "CSIZE": "10590748",
+  "ISIZE": "44926286",
+  "MD5SUM": "5d8cea9179bbe56fb38773c3ef681c70",
+  "SHA256SUM": "e87466b0af689a9f454ae584a7e3cb6337b8bfe67195a406080290d7c2192823",
+  "PGPSIG": "iQEzBAABCgAdFiEEado014/g79WWrG0EnYk+xNqvkSkFAl7O3KcACgkQnYk+xNqvkSl+XAf/Shk2YiM3yOWMXbH+Rv8T2KkgwjHYlCGDzDbBfJy6GauKc+FuE2tGK5ewsyBKhyBG+o0pAsW5ROlfA9nOS1PtK/QSbCYZrKr/30akLfDjJgwoRn4xBfuosOiEug2fZjVTNElJuXmbqQ7IZRcUikGoOOpUafrHGo9XT0qXzvQPx3YpRR1k3sYf974YyDTZQikEgZMiDRfou4fwdCvJZtrZJ5oiJHUIPiJ0H0WrV1AMqgB8ENt8wjPWdkOGPsj9uowRqOoP0OPGkBPkw2zvKhGSROca7dmhXH9PTDLKkhxKEsY5EXgiUWgYBhG50GW2PGaGP/fKhKUo08iwFsRuBVdTgA==",
+  "URL": "https://embree.github.io/",
+  "LICENSE": "Apache",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1590612478",
+  "PACKAGER": "Bruno Pagani <archange@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "intel-tbb"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "FILENAME": "libreoffice-fresh-tr-6.4.5-1-any.pkg.tar.zst",
+  "NAME": "libreoffice-fresh-tr",
+  "BASE": "libreoffice-fresh-i18n",
+  "VERSION": "6.4.5-1",
+  "DESC": "Turkish language pack for LibreOffice Fresh",
+  "CSIZE": "3168142",
+  "ISIZE": "22780980",
+  "MD5SUM": "def12e5baa918ba47c4016a171874553",
+  "SHA256SUM": "75251af8c73d42671f32e1c573c5b43a9701cb565631e540f657914e66f714c2",
+  "PGPSIG": "iQEzBAABCAAdFiEErcih/MFeAdRTEEGelGV6sg8qCSsFAl7+F0QACgkQlGV6sg8qCStGcggAtwudZZ2VaoVj2MoNJ9bUB+iUgnYa6ckz747D0jmOOO/WXoGYf1yNx61DLPx8ptIsMFRcYRYWIajrc5lKWpmXmfk6wxUhHAvKUp5Xy4NTA/nnivz2n7k0vlf2sqEQ6iN4NwudLftkaCOJhkXYSUO4zbz0YwYZePQyxaBCoNxcbR2EoALF3JWpjssXOyaKB2BXUJBB+SZ9xXzD8ryTHyLT+XpjAMHasb8UF5KZGhNKjKEUnqcSwDz34heXHs52qlEbJgxEmntJVkkoed5qc5GHS5FbqbuNXJ1ODMMS1Ya2t8agmV/yy5v+F2Jm7QjLaGcSyc78zG4XWrWaGLMQ6gl3yg==",
+  "URL": "https://www.documentfoundation.org",
+  "LICENSE": "LGPL",
+  "ARCH": "any",
+  "BUILDDATE": "1593700315",
+  "PACKAGER": "Andreas Radke <andyrtr@archlinux.org>",
+  "PROVIDES": [
+    "libreoffice-tr"
+  ],
+  "DEPENDS": [
+    "libreoffice-fresh"
+  ]
+}

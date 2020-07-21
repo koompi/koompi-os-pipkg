@@ -1,0 +1,27 @@
+{
+  "FILENAME": "metapixel-1.0.2-10-x86_64.pkg.tar.zst",
+  "NAME": "metapixel",
+  "BASE": "metapixel",
+  "VERSION": "1.0.2-10",
+  "DESC": "A program for generating photomosaics.",
+  "CSIZE": "44114",
+  "ISIZE": "120549",
+  "MD5SUM": "d0a1ee9a53d5491dbbcaddf83cd83190",
+  "SHA256SUM": "b1d5f7ab0326d5256e5cf1d122dff27d9bd03ba6e0163a7776833e08f22ee145",
+  "PGPSIG": "iQIzBAABCAAdFiEELjbYYgIhSC/EXLfyqRdkdZMmtEAFAl7KdooACgkQqRdkdZMmtEAMOBAAnEIP1Bwll0mW9GmYPM3WPUSeGd2c6G42iy/pFsgxXmJqYkBbrumTZlSPO7C8xcybyooJHOh6E+NdFLqkKYA+u6SOVBbuhIG6lfBI78elYFhmA7db8VD4wB79KcJ5EwRfBSn1yVV/A8imsab2AFMNMRTXauC/UPfPJfQIUsntUWvoQ+v8lbKFOUpBxCl9sQy98h0tvcRfb0wd4g9h72sEj5CDeGkRXL8uHmq/jd2xvf7sHDoDTAp89UQkS6dtsii9JvO9kOtLvWuxBz9vMugHU5IGjFgiibTjh1b5tvM4YcrZDcddDyZOGmEGQzZguPkj014cV8MNscDwtfr8Dgi0pfhKbDyEvqojHJm0s0mDkHV+FeioZtW91ONXAGfZsvzigkUBmy2v0ltMivgQQDvgNEIpkwrGFf3VitBOMgDIZ/T5PgxclEMr6VNqyQB7pB/a21B3BfI88C6t2FtP0QpL26K+bQVJGxVKcJqd/nGq6h/njFIaQYvMIbY67thHOOafn1ixdlk/Y2Ls/k6Uyk/seEHJmIpuwbe1VM69j1DByEV2zwzsA7lA4jFLU6KodaywGORVHrxdZgVaMFnnqrl3eMTpPz3imtBVDE2jlZKiciGH6pLEKJamg/BOr+XrTKGqDOZaPy9XnCtHz4OKoUAEMLXfR0s8JSjH7W2/C12fIvo=",
+  "URL": "https://www.complang.tuwien.ac.at/schani/metapixel/",
+  "LICENSE": "GPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1590326874",
+  "PACKAGER": "Lukas Fleischer <lfleischer@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "giflib",
+    "libjpeg",
+    "libpng",
+    "perl",
+    "glib2"
+  ]
+}

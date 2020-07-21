@@ -1,0 +1,23 @@
+{
+  "FILENAME": "ruby-titlecase-0.1.1+13+1d6b4f7-4-any.pkg.tar.xz",
+  "NAME": "ruby-titlecase",
+  "BASE": "ruby-titlecase",
+  "VERSION": "0.1.1+13+1d6b4f7-4",
+  "DESC": "Ruby version of John Gruber's TitleCase.pl",
+  "CSIZE": "6452",
+  "ISIZE": "10475",
+  "MD5SUM": "34d2fc4e574d46a2ef7aefe5dbf4c5a9",
+  "SHA256SUM": "f1141f6f95ce4c6c7c7dea0fdc35809ff87f017b6a43b36d19f5ea434f5e1abc",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl4EDHsACgkQeGxj8zDXy5Ldhw//U1edg74lXnfVKP9T456qAFz61iHJXB3ZUI4dBQOZr5sXmUtjaSlkaqGbUR6UBdDAte4krRz/DNZrD1qruJx0F80w0w1DM2Rr5ObXmdwr9HZi7BlkvSzAzrnn0zFxGWlhD+QOaC3OzXlLnM3aLnBVpNHzRlgZN00Cox6a+mtrmON8iDcZZcVmO4MGNP5TtafHoNJCtIANjrfg7CJVUBxsUBn5rAX2UukA5ktc+O1agWikGW64xDVcDNNM/nzGSA2LDZ4JtI9E8E9/Oj3w3xSw+WPF5A/WAc7mRcT8S2H+DxDcNCbrr4ZKCpK/thOZxo55zPQj6NnsNgXEEZBI7tW8K3PlT8uTZ/kD+pCr3Cu6MacDLB2b89ldnwUNNQHwiknpaVlMajy+6BDjn6cqtRxJCTYumDjpKGZTjOt0y5tf3u0BpcBVqWahNZAv6FdUNK5ZQveet7LfuU/G5TuFX3OO57fiaDionTwRtlDiEl+f5LBj1bsuPEOhlZ3OEC4E2MmDSMnTzf1h8g9K3zGwNHvT9UkWOuis2sDCejNN5+pJSE2ipnVGiQN7MUMdN32GDI6E1poldKj/N+quKHkASaLU9SS1sfBoUtYBklRhRQVrf7Og4QerxAcEc49jcZhpCyUeICRaRXH0uqEcZaq/4TyYWdG389kuvrqRBN06kPkZhBo=",
+  "URL": "https://github.com/samsouder/titlecase",
+  "LICENSE": "MIT",
+  "ARCH": "any",
+  "BUILDDATE": "1577322653",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "ruby"
+  ]
+}

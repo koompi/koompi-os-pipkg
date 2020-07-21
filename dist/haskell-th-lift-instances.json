@@ -1,0 +1,25 @@
+{
+  "FILENAME": "haskell-th-lift-instances-0.1.17-4-x86_64.pkg.tar.zst",
+  "NAME": "haskell-th-lift-instances",
+  "BASE": "haskell-th-lift-instances",
+  "VERSION": "0.1.17-4",
+  "DESC": "Lift instances for template-haskell for common data types.",
+  "CSIZE": "30571",
+  "ISIZE": "132825",
+  "MD5SUM": "3430e3eb52cb8ec3aa79e14d164dfab7",
+  "SHA256SUM": "ce8e8177f42796f75252239defac048e1ca34d875d3f3c010b00bc7eff52d1c8",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl75JvkACgkQeGxj8zDXy5LWexAAheJ0oincQzny+ccRfzB2NvR4kLbY6lKplzolCkUFy1E+0yWTHyCWeVTrmj7k+wWzGTDrQMbkktzFIYIAIL8IPpC2Rqe893ilFHxHJgb+rgyVtgZRjHB5G/m3eZT/la9QEHd0JiS+bXlnWWYaaGtcaf6Q8c9qY/5E1UltzIZyK42Hh7AqpMED1635Z3RS3rKr7Ex4PVW1aQpQJCay6x+YweAlU5UXejDr3RSJVIavSjs1VQoQ8OZZ0mjOBk3i+mKJhfKbeGN8EhuSbfFRWfhZubHDizwyMUy5E/+kkFvokibMggaR7EyFnfi8xS2oZny98qnKQH6pOSUJaXPOOexH9r1iULeMqt+GJgxH6KlHZ3KmrB92x52u3tTDIovuYGrgd8JEGcDJQoqVjmhACOVXZ8dB/vEdG5Kt2qGpHmRP/6iDvrLTWaRkNXs1fPBG8mr11hYVnCiY76i6MywcJ5icR2yY/R53A1vLd8Nes777RIY8L6auKEBn7tZgPI708qxDaSE4ECPBCVxplPBM4HCFLBvv5pEqjMoYqev5FIYcBjHcB+C4s4/17R3mES5HLRxEolf9hQgttnUqtLq4Fi2wv4cx6XJaxJ+HGr7tAw7+AV9UMyYQiCsFSzAA6HCma7cqrCtUywHeO0hGmPWsSh33eFThh99Fh5FcJU02Vv4cAYI=",
+  "URL": "https://github.com/bennofs/th-lift-instances/",
+  "LICENSE": "BSD",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1593386724",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "ghc-libs",
+    "haskell-th-lift",
+    "haskell-vector"
+  ]
+}

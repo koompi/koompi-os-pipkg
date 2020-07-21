@@ -1,0 +1,27 @@
+{
+  "FILENAME": "ansible-lint-4.2.0-3-any.pkg.tar.zst",
+  "NAME": "ansible-lint",
+  "BASE": "ansible-lint",
+  "VERSION": "4.2.0-3",
+  "DESC": "Checks playbooks for practices and behaviour that could potentially be improved.",
+  "CSIZE": "69965",
+  "ISIZE": "294513",
+  "MD5SUM": "ce90a8058faa73b29368551752d8869b",
+  "SHA256SUM": "e8e922b01904814e4140f7628899c5f7d29d195b0f0d184d233b6ae90d5c0e83",
+  "PGPSIG": "iQEzBAABCAAdFiEE5JnHn1PJalTlcv7hwGCGM3xQdz4FAl63OHcACgkQwGCGM3xQdz7dKQf/R0PM+xrojVZNJL9VSxoH0Al4jWekDRKFHz+jRKyy7+en4bFHzJBjTpQyvLJBszANifCdHZ6GicdVoDv/hoVYJUrSytJYIN88Ir2UcGedCvmdu84bAptZmeS7a++2T4YnHGrdfMuAaJbW50Qmd/7LAjgSabk7tdH7rceDVLYA8msWhXTH5F1WIkrIOKq4ndmz0GD+yoYhG/DZ+j/oDnhz/p+AAojYqnRrYmDlg7WjqJXJ02mdU5fZLgCKCYMw3DdLmeFXEakueFq228uuRTKRKrFwXDROafaHEohD9Q1BYoSt2tQqifdvTx5PjlkRpAGdt8+DcgVVUSvmpMA67M1aoA==",
+  "URL": "https://github.com/willthames/ansible-lint",
+  "LICENSE": "MIT",
+  "ARCH": "any",
+  "BUILDDATE": "1589065809",
+  "PACKAGER": "Jelle van der Waa <jelle@vdwaa.nl>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "python",
+    "ansible",
+    "python-ruamel-yaml",
+    "python-pyaml",
+    "git"
+  ]
+}

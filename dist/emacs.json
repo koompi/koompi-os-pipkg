@@ -1,0 +1,34 @@
+{
+  "FILENAME": "emacs-26.3-2-x86_64.pkg.tar.zst",
+  "NAME": "emacs",
+  "BASE": "emacs",
+  "VERSION": "26.3-2",
+  "DESC": "The extensible, customizable, self-documenting real-time display editor",
+  "CSIZE": "40921714",
+  "ISIZE": "133161012",
+  "MD5SUM": "eac3ae4f0020243310d905b0ef22a52c",
+  "SHA256SUM": "6bdee51e19be361116d86ca956c7ba31fe26d662341f29bd68f20829e1016c54",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl7DkwoACgkQeGxj8zDXy5K8PA/+O2DpvPghZF4UPhVE9QyuKOoFJKzIxH+FJdRzdWb4CaokKE1NBMv1O5PrkDs9G0INfWUx533Esrr8FF/+H5eHne3v6R+8IdCqlUc8AxEh2Y1Pfbjwi8JoNgPL0eB0uHqIfwk3KD0LXO/eZG+oYKyhvx5ye2p1WQEpXYb84oUwU8aPP5j53rN9gSea7kUPpyB7UTFhWEm/iLQP5xthSCb/kznrpv4XnbXfw0Ff/ym11EOGZ+zpBu0ZfTL+XA2lWh+JQg6Oz2eZU29vCEmZo80xHmNKoBgM57ntN4qtUMMcZD7xfvmSAzFd6OTNFADgulydo6upuymq4WPhu3Y/LL+yQph5357/HcyTDBFbF55QnaIONOOSUtU5RpweKtylawuq9wrlyQZH1HSFWe/ZoticvyR1edOjh5PMYC3ZtMAy0O+Z9zDmc7zanRqv0k3pskzg4o9Gbjs7dz8vIDV3ZSECpQDhk99tgL5vh1e9fjbtZmOyLwOzaaim32abaqKG8sHiponcVyv713AgMaJaQrIkx1hxvmoxCySO5up4b+E+yBQh/cenwn9KZB7TkejUN6zQ7Gw2KiYwUxNVNDt9WBrSl5sgsHGhwBaCRICKDI46q3B4zxe+jvOv+YYlnDf+9++ssCEADYzfOQUcFSdSHM2BFmtboEznk+1GJTK3J5+unVU=",
+  "URL": "https://www.gnu.org/software/emacs/emacs.html",
+  "LICENSE": "GPL3",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1589875234",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "librsvg",
+    "gpm",
+    "giflib",
+    "libxpm",
+    "libotf",
+    "m17n-lib",
+    "gtk3",
+    "hicolor-icon-theme",
+    "desktop-file-utils",
+    "alsa-lib",
+    "libmagick6",
+    "gnutls"
+  ]
+}

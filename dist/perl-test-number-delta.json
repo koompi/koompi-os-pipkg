@@ -1,0 +1,23 @@
+{
+  "FILENAME": "perl-test-number-delta-1.06-5-any.pkg.tar.zst",
+  "NAME": "perl-test-number-delta",
+  "BASE": "perl-test-number-delta",
+  "VERSION": "1.06-5",
+  "DESC": "Compare the difference between numbers against a given tolerance",
+  "CSIZE": "11035",
+  "ISIZE": "23082",
+  "MD5SUM": "82abbda82c18de0fb1d967454f142880",
+  "SHA256SUM": "35ec3bb580f3b124f0544e334fb24cb0feebdb56324559d7be888b67ead51cff",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl7vifsACgkQeGxj8zDXy5KV0w/9GNSwcKLciRkVYxDVx5hBpgSHMjPU9HGQpjwHLh9tRx4BCBlU8zDt52jqR2ebJwemgLSbZcIilVlbTh65g5SCo6p9nGDjlSuiWrWtlKiFP0MOC/1xPlo44eOUvSIDt49NRVjSd+LeaEzUmwEjq1/bBaiY05NIMMVDX74JT7wUOU4VaxvbjBNiHimPFKI6zks7HbJUrQFKqCW0d0ztryAUnog87tiaYOjT78HfgJcNgJsLb0RmrUx3xHyo1u8cOLtIAKKZPQ/QkJJ6Hmslrm2erWQSVbckJDGPn/4Cu336gUqTSrrAowNcCP7kxVXX9n1UIj1DdiM1Gy978mkVvfUt1sHQbk8AFEM9ase8zMJiB9JwdXdssI9jXnGjyhQBYZG+qZSY/wZ7383cQ+TE7ADo3hN/cwUETwGIk2JEUSeqGuDAyDw43E5NJBbQt+H5UwQswiQNF5A4uqPzgc18QLKwncOSrNIbOvRP7UnRP5oNt49tyWFz/3aEvMHS6xB/LV0QHn/N1EudRQE5k1pYQrgfLctztnXBt66vw5dfThRhStJklh745565rmi6zi32sj4fv95duRJxO+47ctljv34yviHETLcy88m9qTzcR7vjmtbp1RC08+ei09byAOauAZ6HF9E6rcEvqiwcSYdk3bfj77aHSy8fwX9b8sJntF0aAiI=",
+  "URL": "https://metacpan.org/release/Test-Number-Delta",
+  "LICENSE": "PerlArtistic",
+  "ARCH": "any",
+  "BUILDDATE": "1592756529",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "perl"
+  ]
+}

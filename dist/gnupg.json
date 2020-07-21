@@ -1,0 +1,32 @@
+{
+  "FILENAME": "gnupg-2.2.21-1-x86_64.pkg.tar.zst",
+  "NAME": "gnupg",
+  "BASE": "gnupg",
+  "VERSION": "2.2.21-1",
+  "DESC": "Complete and free implementation of the OpenPGP standard",
+  "CSIZE": "2491094",
+  "ISIZE": "10381331",
+  "MD5SUM": "211fd1b1ce19de67a6d38e5275be439a",
+  "SHA256SUM": "937aa55de912d3c332733a505352029205179803490cb097f24b56f5f01fe085",
+  "PGPSIG": "iHUEABYIAB0WIQQaYNxEJF0G/vkGI9bu7uLu7i7u7gUCXwgo/AAKCRDu7uLu7i7u7j9+AP91N/PDC997eiLY0w232tD3w2aG1r08x2jMqUZBBBHACAD+JFAY2Z1rL9F6l5ISaGG203PxXqdAhPu+0PKDR3hfxQE=",
+  "URL": "https://www.gnupg.org/",
+  "LICENSE": "GPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1594369747",
+  "PACKAGER": "Gaetan Bisson <bisson@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "npth",
+    "libgpg-error",
+    "libgcrypt",
+    "libksba",
+    "libassuan",
+    "pinentry",
+    "bzip2",
+    "readline",
+    "gnutls",
+    "sqlite"
+  ]
+}

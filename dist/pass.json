@@ -1,0 +1,26 @@
+{
+  "FILENAME": "pass-1.7.3-2-any.pkg.tar.zst",
+  "NAME": "pass",
+  "BASE": "pass",
+  "VERSION": "1.7.3-2",
+  "DESC": "Stores, retrieves, generates, and synchronizes passwords securely",
+  "CSIZE": "19831",
+  "ISIZE": "45518",
+  "MD5SUM": "df2c728d6e9a312b5af2205c3dfc770b",
+  "SHA256SUM": "bf2579772b1c869862095da8007134fb10d8054a36549997ceec721633443686",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl8EnU8ACgkQeGxj8zDXy5LpVw/9FIMtMzltWqPO8NlmAJ5nh0IYAKEkhJN0Fh13CzNG4nfR8fBzhFhlq5dXs72r6hbf6cCiEB9Cy6MGNV+vZtkOYl3NriKbaOj6B6FRxhlJ2W0kqU1CY6ZO349GTM9UCxX9+Fy2qRUk2WUFGI5K+owM3UZoFW8Nz8Zd0j5hu1KjaiwhZdJjnbop0MKzMzL+E4OsOLA8G2zSvoiVGV8UJ5HrKqD6x1AmwPsJpXmOoWIFQiJS2Ese5P3IGR+e3i6yCN3PHGBequzubK4R1RmCGgI07QGVGN5O0Ba3PSO8sKrKRUqAxIlMqlXiHWGGXaJg0A4U0HOI57DJp9UKKwotksAwOgAMVuT5Ksu14f95OjtBp3nF9lU3zNMyCW0W6W3jld3iCpsEk6mTz/LbHWyhz4zlwO9h60XsJdwvcsOfcCFU/SLK9pN2BxHK/8aAQ2DQV9y3MP/nkiuzkW057WO8WJGaa3QKe2lypYVhS0wLtVUIIjCdiYBaaR0SNJEbH+trbVXYogdGhO1sDxbmlH6XsazpOpvw8kcURFUUt5zXgqLHijo1RbF3XIppaFvVwrpQhmrhkNRinxRzjKylpf3mZevr2/hb5jNXms+h4JPWMBOUI0BWGjXa92tthhuGbLO7l0ukcPGvuiWomIoJy6dBGePOlwY56kkDg0kG7oGRy8giNjI=",
+  "URL": "https://www.passwordstore.org/",
+  "LICENSE": "GPL2",
+  "ARCH": "any",
+  "BUILDDATE": "1594137916",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    "passmenu"
+  ],
+  "DEPENDS": [
+    "xclip",
+    "bash",
+    "gnupg",
+    "tree"
+  ]
+}

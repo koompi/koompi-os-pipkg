@@ -1,0 +1,24 @@
+{
+  "FILENAME": "sundials-5.3.0-1-x86_64.pkg.tar.zst",
+  "NAME": "sundials",
+  "BASE": "sundials",
+  "VERSION": "5.3.0-1",
+  "DESC": "Suite of nonlinear differential/algebraic equation solvers",
+  "CSIZE": "920061",
+  "ISIZE": "9793398",
+  "MD5SUM": "4ff86134110110493e64a9bee7669412",
+  "SHA256SUM": "044996052094ee947b73566b95c26ef8cabda99efc75625942a241b1e6cfc86e",
+  "PGPSIG": "iQEzBAABCAAdFiEEFRnVq6Zb9vwrc8dWek52CV2KUuQFAl7G6ZEACgkQek52CV2KUuRyHgf+IDVRnsteZxBLGpTgI6JbrQ/i6ZGWSi/Z1NR4LkbNLRL9Dwuk4QCaOGAzzfBpdx7Ao8rQ9VUPMOpYdw1wvXkJmZNXBpXWfZ+qwm7xPnM6YGz/1BQyTRejM2c5IFpsFyC1eixmK0sB2OrlGCCjmRpbmqk34rTn9gMdORTvuJaQRd2AnV5TGIgYQQNah9Szy7jREIriqgAx5UX6snAHEllrrCWiBmGd0Ox7vYNPSpw56QFsRhWAPMDskBFW5Ps6c2PMSjfZrYKnHhlggTCYy/tVezwtmZY6OFVbMr0BHRuYctT5HheT0PhrahJSzlq/yU+6K+mQtvL36bDZdcRsyy/ofg==",
+  "URL": "https://computation.llnl.gov/casc/sundials/main.html",
+  "LICENSE": "BSD",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1590094086",
+  "PACKAGER": "Antonio Rojas <arojas@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "openmpi",
+    "suitesparse"
+  ]
+}

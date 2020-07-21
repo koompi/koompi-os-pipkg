@@ -1,0 +1,27 @@
+{
+  "FILENAME": "zeitgeist-1.0.2-5-x86_64.pkg.tar.zst",
+  "NAME": "zeitgeist",
+  "BASE": "zeitgeist",
+  "VERSION": "1.0.2-5",
+  "DESC": "Service logging user activities and events",
+  "CSIZE": "394523",
+  "ISIZE": "1940999",
+  "MD5SUM": "6992c12ddbc4981249eac2706850e6f6",
+  "SHA256SUM": "940cd350c52301806f70f2d3fde598132a2c206920241e89f0d2e82f1f1a701e",
+  "PGPSIG": "iQEzBAABCAAdFiEEqEuNxzq4MgZ75Uw8l2rG+juU+hAFAl6/I7cACgkQl2rG+juU+hCusAf/VJ+FQP4PcZc9OLXh9G0H9kR3OveEswwpG/PVLKzkrTwAiQ+Tn1OL/XkTubVUq4AU9o/932xdUgXv+UhQb+uYsb5+SVFYQc9TbsOLMM0ZARCt8H3fiVqNy6eeHA8NbzprZcUsDK4LlbXN7awqK2+bBOM3OHmeOZRXtxi5HEchySd6heG7u4jvaeo8jjMDojweP2LqSWZ8sapY0e5EZ35zZIU23lvI6OKqwxVSpyjCQYjj/9rXCpEaT9ESVvXDVHHqSfTm8vz2eQx0PmsvKdD3JM5+3NxC+jNf6kj4KJ5cs7MiNPRtC+aYGHgOUe5gZvVZfpO/vf5l7cOJQBW7xUzWeg==",
+  "URL": "https://launchpad.net/zeitgeist/",
+  "LICENSE": "GPL2",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1589584495",
+  "PACKAGER": "Jan de Groot <jgc@archlinux.org>",
+  "PROVIDES": [
+    "zeitgeist-datahub"
+  ],
+  "DEPENDS": [
+    "json-glib",
+    "telepathy-glib",
+    "gtk3",
+    "xapian-core",
+    "sqlite"
+  ]
+}

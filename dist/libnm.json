@@ -1,0 +1,27 @@
+{
+  "FILENAME": "libnm-1.24.2-1-x86_64.pkg.tar.zst",
+  "NAME": "libnm",
+  "BASE": "networkmanager",
+  "VERSION": "1.24.2-1",
+  "DESC": "NetworkManager client library",
+  "CSIZE": "1103711",
+  "ISIZE": "11510543",
+  "MD5SUM": "8a15274befa1760487c867c43a72c3b0",
+  "SHA256SUM": "384152a26dcbd9f98dfd574a323df1513dcbf279cf1b8a4f90cc068f0e4f4ebf",
+  "PGPSIG": "iQEzBAABCAAdFiEEghj4iEmqxSLpTPRwpekojE+kFfoFAl7RNdkACgkQpekojE+kFfpa/AgAr+K3QaW4cTh20NnH3EfllsZY14Cbw4a5N0dpPAO03UuuWfrwkpJlTxj1iSKwZNFqz8dTjGD7uCEbpjWbR1ki23a1iYSU38tQpfBqL9kLXQsT6pGuO3yuLSfkeKZR/lw4jGnEESJ4mHDILQLjgwBXI5lipOnyUPue11LcjY+pXYTC/kF5uSl5ejbgz2rodwVhUXAxjSgD6epVqBQSvThviN8M7qlSHhsbaQXfj94e/4og9vdSzteaMoxvVPcsKwhOP889II3RTmb5831ygD4ThoN+3ecq2v3otAB/PdOYRuykrs2p2Uq1OPNHH2a7g5hro29TLcXP36T/2oDOudRTUw==",
+  "URL": "https://wiki.gnome.org/Projects/NetworkManager",
+  "LICENSE": "GPL2",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1590767922",
+  "PACKAGER": "Jan Alexander Steffens (heftig) <heftig@archlinux.org>",
+  "PROVIDES": [
+    "libnm.so=0-64"
+  ],
+  "DEPENDS": [
+    "glib2",
+    "nss",
+    "libutil-linux",
+    "jansson",
+    "systemd-libs"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "FILENAME": "jpeg-archive-2.2.0-2-x86_64.pkg.tar.zst",
+  "NAME": "jpeg-archive",
+  "BASE": "jpeg-archive",
+  "VERSION": "2.2.0-2",
+  "DESC": "Utilities for archiving JPEGs for long term storage",
+  "CSIZE": "166571",
+  "ISIZE": "1606285",
+  "MD5SUM": "e88ba4539f2e366ad5a1d9f751838c6f",
+  "SHA256SUM": "2b255d20799652293f2570976c6c2505e1f32d750f5e4ff06b00c65ab51320c8",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl8E5wAACgkQeGxj8zDXy5IXoA//Wl9ih4Y4BEzAlILuWwzTYvIuimZ4tplzX1pPNt4tDJlFuagmx8U9GdEhKf0KN6bfPFfc/px9Jv99NDcsQrwILsRIWqpBfHKHPrYdGW7cJ2ULdQL4jN27UdM4QnxJmnIXoPUfcYSmuRlJsAxOnMQoRF95UzQlCT51DI15TUlqU4pwGH63UdvpeWq6mCBkrnQozHiB062aPqILi8eMiED6INo1j7CJ7K47sX1be2ZCRYiYBilyibS4+Wex5IlPz8gkxZrJXsoQOS/DxKOAo0VCvnYrMF9rWpT006o8qVueO/hga9Heqi1ltdwOb+GuwrGc0l3RPU3noWBsH8fkY1np0thNMVbxtQXes1Lb6mlPL98GHl5XYsy+zFQ3vraKfVAtg0NagsJJ7mjvmfGqS5983b98t7PpXmmwlUh2Ei0p8pABt2cEUfM8z/3KSoBH12jgGMnnL29wp5t51wg25xyjRLxhmhYcqy4vq6QA66gnlVu36LBuf7vRzxsRLQ1ubXLwNxB8geOE6k9sO11wA4QXT+2CUic7qKbcHOYLsT7rttN3RQ91Evxl+rUx8vQrEFaNVRyCXJzki2oPfAYUnIlkUu+6yDL+lAaN72KWx79jHRUT3MIdR29+ylU/kg9ICZoUXERy9Hn1iwMd/p8KzgzBwt7UoWzkUIB248ua7+H64XM=",
+  "URL": "https://github.com/danielgtaylor/jpeg-archive/",
+  "LICENSE": "MIT",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1594156718",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "bash"
+  ]
+}

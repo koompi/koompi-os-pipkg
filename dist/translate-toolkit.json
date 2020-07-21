@@ -1,0 +1,26 @@
+{
+  "FILENAME": "translate-toolkit-3.0.0-1-any.pkg.tar.zst",
+  "NAME": "translate-toolkit",
+  "BASE": "translate-toolkit",
+  "VERSION": "3.0.0-1",
+  "DESC": "A toolkit to convert between various different translation formats, help process and validate localisations",
+  "CSIZE": "1373815",
+  "ISIZE": "8483853",
+  "MD5SUM": "085fd4ede8e852b652699ea918b393b3",
+  "SHA256SUM": "744c365e235127032b911a59271a94478527b5a8f701c7038856761a844c1f01",
+  "PGPSIG": "iQIzBAABCgAdFiEEOO3RiGdWkk4SJOSVJOTNsAE8JYAFAl7vy3kACgkQJOTNsAE8JYAJghAAqJiTf7zwrBWhtamF8cQO6UAIAYi3oHSymaBp8jmsvMtJLB/yRwHmFR+UdC5x4Llq1NZQBycEmFodH3CJKL2B19n39tPtRYKLokM5VE3GlS4nZh+YsrGsFfw2oK/VZ867lJaseXndtPkr245kNRENoudK/EQgtqmqucA8L+IA6TZfJ58q7gsoHqvCmcF2iFwYvf+6ivMkiVvbUDCCrQFKpiTUv+d/lCDwaL27iIb7+4K8s9MH6NINT55wGCQdDr3UN3dSknOjGEy+NpcbR23HlPea0eWo4C+cQ/o/eGNEK8rPZfxC6p5qUDwKzOXwhgJAwPbEp+KtNZX2+tXP2n6H8SXTb3+zYzUlESpZ+kmmW/jLV7OyxlmuakgVo6fHfvw/LczmGrgO9hthVhwUn6VvSPZPe1AvWFubDwkx6DlG0wLJ4ICCjx5ygaVVKSKbGhE99gdZ79cKYTJTcbGV7tNvsq3kDLRMy2vBbx64yr8I24SE2CjuNT6BMTRiDE8+ZvUVBqCKRFVNnOSBlfOsvnOjyu63Sr/Jl3WJryTMGz8RXHKgApGzM7CqckPudJXTtgWOl3yNbgmw6vZpjohIGZd78q25SpAMQ9YNmdTEXUnyZmY23fB7ueNh3aKmVRx355K20yLYWFfF63yOyELetR5ywjxebR3j34ifSdL09H+YjEc=",
+  "URL": "https://toolkit.translatehouse.org/",
+  "LICENSE": "GPL",
+  "ARCH": "any",
+  "BUILDDATE": "1592773343",
+  "PACKAGER": "Jaroslav Lichtblau <svetlemodry@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "bash",
+    "python-lxml",
+    "python-six",
+    "python-diff-match-patch"
+  ]
+}

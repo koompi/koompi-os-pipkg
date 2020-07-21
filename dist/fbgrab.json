@@ -1,0 +1,23 @@
+{
+  "FILENAME": "fbgrab-1.3-3-x86_64.pkg.tar.xz",
+  "NAME": "fbgrab",
+  "BASE": "fbgrab",
+  "VERSION": "1.3-3",
+  "DESC": "A framebuffer screenshot grabber",
+  "CSIZE": "9124",
+  "ISIZE": "20480",
+  "MD5SUM": "62d2a48f05e4cc170eb929baaa268948",
+  "SHA256SUM": "60ebcef7465242bb921f48b4527663f4a9ae34d3b312ba6a5d68aaedd32157d9",
+  "PGPSIG": "iQEzBAABCAAdFiEESMOx8w3dD+Z+UW0WOW4+JbqxQsEFAluUh1AACgkQOW4+JbqxQsFo/ggAokpWK+5cVOj5T0cM/Vj9Fi8J8CpdUoYSUFMaZk+Ym1n4xLNPRhfZnUHuwyBicJVVPtkdOfIstt5icq/nUYZk9M/VSA6lNznRwXrZuAwVWvnlwMDI8l8BVz3eOLcYHAD0Ej3qboFHLlBaR1ZH8pQxvyjQeENVVYiT61ndSjubnOK4WZmGA/YQM7KGLDQPWHCpdUR9Dmd8/COvPKnp7TYcNX1UFFqze/7NUUCeDacwn9QdK80Ujo+idGW0W6qdw0orFcR6q2Yt0uzgK1qtMFFV8IoW1FQ0YpWWvZS2QJBE7sWL5r5YGmaTyKZ33ZhB3qp/Bk5c35zs2mmv4X/2pMwdOw==",
+  "URL": "http://fbgrab.monells.se/",
+  "LICENSE": "GPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1536462363",
+  "PACKAGER": "Kyle Keen <keenerd@gmail.com>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "libpng"
+  ]
+}

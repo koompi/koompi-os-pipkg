@@ -1,0 +1,25 @@
+{
+  "FILENAME": "hwloc-2.2.0-1-x86_64.pkg.tar.zst",
+  "NAME": "hwloc",
+  "BASE": "hwloc",
+  "VERSION": "2.2.0-1",
+  "DESC": "Portable Hardware Locality is a portable abstraction of hierarchical architectures",
+  "CSIZE": "464791",
+  "ISIZE": "1384991",
+  "MD5SUM": "200046c4ef6505f261d71599f8f0d2d7",
+  "SHA256SUM": "a057387b1cfb8217e373f5219085840810efe4fdc442f56b66cce5ab2addf1e0",
+  "PGPSIG": "iQIzBAABCgAdFiEE4kC1fixGMLp2ji8m/BtUfI2BcsgFAl6JEw8ACgkQ/BtUfI2BcshdHw//VnFTIrtVZIrSjvCjuj9QH6RvD6E73wswkKIEES9B5DSX8tyGK4cErtqfhEXnvfxi0cKJ90gG+c1cwbV40qY7xCAGnjX/EYhJUVKPL2c06R61XhG5Qwwrkb5CPywB6LXuDYj7C1HDHWQWhGp5BTwr8P29KXxufzUlko7GaAMCSSSwGPaBSCSTMIpxfT3tfNcMJb4IKGigH1Npd6VTsQvRENtSqeWeFgA+XiEy9IyqKnMj7ujbVrJwh8NQCZPc8JsZ6Nhy0Sv2uye52pcjZ8ykC7p9lS1mHy4Zwtp5TNlgexmi2NmSEaI/AkwrlWOWMge3mFBRnLsdffyl0TWVrcdtedCd8tiA8grwBwMb7RbNWBe1dEhhbaBtRWANqltLrJEB15aIQ03cw/kYdpevMY1AokD1+WNUJx3PM9RpBAJTubus3SvGOSvPNVyy7Gr9CteMrSRtLez2HzKfVM6dUcDAq7st5tQUN3Td5gxvQGVy2jmwWxtj9cZDZbRO21jOdLvGv3qsdPKwcldxG7A7LS55KsAmCOnLGWQT6Dp1nr0eaEIrvHzJVMLuVHNYaXkWNRh4KtzMUGBwycX+B7pSCkDSpNE843xRzJ3C8Blbho0PqahPoFQUyfwq1v29Dka++uQfeqeqCpLVxGGJm/i71l5BQnpW5GcEn7cUyP2FWowz0JY=",
+  "URL": "https://www.open-mpi.org/projects/hwloc/",
+  "LICENSE": "BSD",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1586041399",
+  "PACKAGER": "Levente Polyak <anthraxx@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "libtool",
+    "systemd-libs",
+    "libpciaccess"
+  ]
+}

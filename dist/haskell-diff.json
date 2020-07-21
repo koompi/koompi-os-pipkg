@@ -1,0 +1,23 @@
+{
+  "FILENAME": "haskell-diff-0.4.0-5-x86_64.pkg.tar.zst",
+  "NAME": "haskell-diff",
+  "BASE": "haskell-diff",
+  "VERSION": "0.4.0-5",
+  "DESC": "O(ND) diff algorithm in haskell",
+  "CSIZE": "54479",
+  "ISIZE": "250255",
+  "MD5SUM": "54883e3b203d2f55f3ebda26b2dcf8c7",
+  "SHA256SUM": "2c6f7aad92682180d08b064347c21cc8eb93dc3185b1a3dbca15f20bfd7868c5",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl6hc3wACgkQeGxj8zDXy5JwOBAAotpuXRLMx8JGekwUPLKMorf2WhBZHtBS/7uJVyVrUVwzGux0YNogVae3xe0IENSEVEUH7e1KeV6KAL4UbS/WupaEsM//GPyWR5Dzu0OAI3q3yqTBcdgIAC6t3QQT+cwEzbnCVLy4UBP4NC8T/UtVe/PVHvAJ/0uuNXbZ4vKJzfTIZhO/rAI7o81RD4L4/JMORnJCKIYC9050FRPpRXU3yReGJO5DSqX2NSlhh4l8Gt4vxXMIdPyzHc3PHPALYd5WOi+0VCrmjzUJ8d2S5NgBSDPSNcDRrmlzk/Bqhg/AcuFxj8jeaWujFp1UGlIw2RB1JWOOEoTIAPArrj3zKWAFiXnN+UBHs84hn/craxLgBqu/FbumDJ4oXYLtcUD2itIYBPl/mcnNixoJeUwFjAEf394xms0uWQ/kxyiH8j5QiDsAj9qHCRWmTFY8jlYjtOkcpjqtmB/PNwQ4PJ8/ZdjCGeDuG8W721eY84dtqUGiwAVT5v21UMaOTSH1zUUH3zyFPXiZq+GjajDP+Cu0oO1KLsCG0ulAkI3+5pcrrjxrTsjbWXPZbKZV7BmsYVzsXNK5OG923hzNxKmk57+RqAsinR44cgYubLeUkAyww6oJI3RHGMndKPDAbBPdPXOgcC2F/ZdyP2EDfzygwyLYlfz+DCL58BeQmePrPiPv5FU7UZU=",
+  "URL": "https://hackage.haskell.org/package/Diff",
+  "LICENSE": "BSD",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1587639080",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "ghc-libs"
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "FILENAME": "perl-gd-2.71-3-x86_64.pkg.tar.zst",
+  "NAME": "perl-gd",
+  "BASE": "perl-gd",
+  "VERSION": "2.71-3",
+  "DESC": "Interface to Gd Graphics Library",
+  "CSIZE": "132294",
+  "ISIZE": "368260",
+  "MD5SUM": "4f26be03ab8408d0499d11a03f0b5c5c",
+  "SHA256SUM": "b95232333874ae8feba3a22cbc42077c8cebad34a87c67d43197f0594e2d7fd9",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl7vOPsACgkQeGxj8zDXy5Kaag/9EYUOYqYz2MTJwvXBx+zFKRAsIyXk0uyTJbDbA3GSiFDG9UC28DaY3OrsKnZXh9s8OgS2uh3qT/zOfjWBjjZm5+WZyuUd2b3qC1dI5KElUsanMgStW8w/JpE4It6seiG2m+CJUk9wgsuJdfcwGMv4dV9PSxh251/jcMLSrZFgR4uneARZGmJ7esUHgEcoYAbG+W+kA3Y3BjN1keRgWHi+1yXZQvMdkjWVeg8Dt+EQnEy7/ZXUw7BsOZZoa1iTb3S/AB62+/7OOCwxEto9EE49U/qfmbTygkIxWlauwUqlnBLGgIIL0/BBftr1Ipor3w8jSFDu13SAYWbpHGxPyqcjs8uCACYeDXp0T/SVWwVm+u98BQAGZHbeXksEI55AB8t84VajJgIhxynwf9Ef9bVJnJEkkvONOT3etM/iodG4Sw1pqYX1d9ksa+8SJ0uQXi0H/sBgENgDiNTJRMvSzjJ53V32FoVqQxOnKN0Rx6EPRpKdimAVLH+Bk5Un4ChecPNTxrUppNcv7+jWsY19j4paaqzaetegcSly8wzungeWfjjwAMYOoXGYE/rgD6CWDFNaAJjAradg4ANEhYaXOQ1TjrkV8Gxa+EpfdvjMC9hxAacwbzxrvd8D9w1mqFizirL3SZsJNdZP3S+sgL6kqjC8R1tNKf79wt301xXtH6/5lRE=",
+  "URL": "https://search.cpan.org/dist/GD",
+  "LICENSE": "GPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1592735948",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "perl",
+    "gd"
+  ]
+}

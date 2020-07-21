@@ -1,0 +1,23 @@
+{
+  "FILENAME": "kparts-5.72.0-1-x86_64.pkg.tar.zst",
+  "NAME": "kparts",
+  "BASE": "kparts",
+  "VERSION": "5.72.0-1",
+  "DESC": "Document centric plugin system",
+  "CSIZE": "1018398",
+  "ISIZE": "2098880",
+  "MD5SUM": "7dfa412c437db8e587ceb3c04d15ff5e",
+  "SHA256SUM": "3673b1cf5dba9c79c8f9a75afe7a342566f0055da7ded7a25cac3ed8898b746f",
+  "PGPSIG": "iQEzBAABCAAdFiEEFRnVq6Zb9vwrc8dWek52CV2KUuQFAl8JYL8ACgkQek52CV2KUuQJDgf8DaEcbJR3+Y1TIZzqBZkwMk7IkwCY0mJq2UgWIizKqBHajgFd6kyPk3QSHZiW+01imcp9Q7HcuzegA1S6fOuQT7BJSev354eQBIvVW0EwcKcU4OIQDiXYBB5M4km7xE2ZU7hYRgVsX/lXTG2CrDn3jQQTRoIAPYhDTkG43eoD1rWP2FSUMJY4iSdFAmF7CJeY/Y8Z6TrWYSUxoFH3F9DdViYpm9VZk+/B39GcTS8A+9JWBH7ecPVrY7G4rt5f/6q3DABkUd+JZsIYOp9H75yCApLK65hw3myvaF3b6gVSFGzTgjVt74Nj7VJZSK5MZ3s9Kh9MjAbFTMb8TQCO0Trb0Q==",
+  "URL": "https://community.kde.org/Frameworks",
+  "LICENSE": "LGPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1594201998",
+  "PACKAGER": "Antonio Rojas <arojas@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "kio"
+  ]
+}

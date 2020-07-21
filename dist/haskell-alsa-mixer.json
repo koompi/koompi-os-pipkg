@@ -1,0 +1,30 @@
+{
+  "FILENAME": "haskell-alsa-mixer-0.3.0-43-x86_64.pkg.tar.zst",
+  "NAME": "haskell-alsa-mixer",
+  "BASE": "haskell-alsa-mixer",
+  "VERSION": "0.3.0-43",
+  "DESC": "Bindings to the ALSA simple mixer API",
+  "CSIZE": "99179",
+  "ISIZE": "488638",
+  "MD5SUM": "71b50a13b7f3cd72d6670b5deb9e479f",
+  "SHA256SUM": "2a382b316db694791614feb0c8ffb74178d9f8d31154fec1682201bdc5edfb16",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl75K4wACgkQeGxj8zDXy5J02Q//dTZk8pG8FTCfK4Un0sDcOl5k3OMRggBuTBjuctU5tkVsrsIXOPSoFxMnYdFd7yNoV5UZ5gv/Td0IpCho4/+arCgc9C/YM5jiziteozJ5y3c7W0aV3eRWX+efTqPrHifjYGkhwEfNz8JFTbNEMcjVaQBn72KncoC1UkzcbVhSL8aMrvycKo7y5PHgnKcr3IkwpSxM+YU1pxoCS5uNK9DJ8eTrPLuwhhqHlPMG3IfoDEV2PG6eD5c3RaGQIoO4DmOIvrc4Nlcb1NkvefJzpGFZgk7A+bfTAQYR50Bf0m7LjKicmjE4B+47C+uJ9zCwVn5olIntBhvDoc2G2u+USTLpAWjmy7qBa/OOTHGo7mStMXGnkzwbLaasHZu/7EpaAE4PuQbm4waCsbdjxMt3r11iPG1BP291DkzDd0aeEqEQJlC7A0lPgeqsEjLxNx4ec+UtRCskoEuy0114zX3PDRZMVV5b6UwR8juNNJ9g3Gi79HYgSlzHSCHXO85jyqmrvCcn8AoRJMFUa6RuItutI1Cnw2u5rZxXmlMDcIJnCgYdFqtD8U2pdT0NlfH9ZSAW85w4po1azVWCERL4VumujKEUwMuSLYq9w5dy0HlUN6MIZK5VUUcQagzLzGOr1vAE561Q0UBw1riwCh1tpHyDpXxcxxwznueGQko3n+dvZU8Gnpg=",
+  "URL": "https://hackage.haskell.org/package/alsa-mixer",
+  "LICENSE": "BSD",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1593387891",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "ghc-libs",
+    "glibc",
+    "gmp",
+    "alsa-lib",
+    "haskell-base",
+    "haskell-unix",
+    "haskell-alsa-core",
+    "haskell-extensible-exceptions"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "FILENAME": "qbs-1.16.0-1-x86_64.pkg.tar.zst",
+  "NAME": "qbs",
+  "BASE": "qbs",
+  "VERSION": "1.16.0-1",
+  "DESC": "Cross platform build tool",
+  "CSIZE": "2593669",
+  "ISIZE": "10014206",
+  "MD5SUM": "71d4769a97c529990a4e305890282d66",
+  "SHA256SUM": "c7a8c55270fd467bacb37d336ce5b7b45e888facb8205f4d9c8606649c0f2c80",
+  "PGPSIG": "iQEzBAABCAAdFiEEFRnVq6Zb9vwrc8dWek52CV2KUuQFAl6nDd8ACgkQek52CV2KUuSiPwf+J3WBbQWtvtfqdzAcYO1IAajvoPtuzFsKbRxtFmuXoDR8zF5Mp6Wng/oCmssYfYN/+hKdsw4jzBGtPFNkHO+fXYspYvHMMwSayEnVHM/yfYZYYi7OBm1KY7qj+ivt1z2DXcjQF1H8evnxQsl2gHHYlTiF0IG5AJXrziDBxAHwuiMe1FHH3k2CRX03CLZbSIQtvcGiUVXeegYt5fE7MFisQ18GFAcD5yFCuM+JppXXfmr9draG/eDmn8m9qpsYKaxo1UaGdpS237jOpmnkegnEhphUXw/KOvfZc2hYr/rQEhKTUUZrz6kfW3ovd1sb+UXQeXPqfPxF2lS7gi1ceRh2CQ==",
+  "URL": "https://wiki.qt.io/Qbs",
+  "LICENSE": "LGPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1588005146",
+  "PACKAGER": "Antonio Rojas <arojas@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "qt5-script"
+  ]
+}

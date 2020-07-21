@@ -1,0 +1,23 @@
+{
+  "FILENAME": "premake-4.3-6-x86_64.pkg.tar.zst",
+  "NAME": "premake",
+  "BASE": "premake",
+  "VERSION": "4.3-6",
+  "DESC": "A simple build configuration and project generation tool using lua",
+  "CSIZE": "106353",
+  "ISIZE": "331639",
+  "MD5SUM": "e4076061dbf19ed3adb4a15ee5f3ac92",
+  "SHA256SUM": "d4ee684f5682f0a00869d3aeff4d08de51c444a8019e1c7fbc2b241226eca88d",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl8EuSwACgkQeGxj8zDXy5KB5Q/9EhLNzIXkVvnm0UbbbpXMltEPCVjEDPh17XDk6Ki26HBs+ICdWIX6WHxQKBu2228GSnQ7P77ictG0l7E5IUmkvEfodCqzihYdp1r+8Bc0Q6RbjRVmHbtudz/+l5NEM88pyIhkQ+ZElr7QwO0ZHO+jlT1JdeBxFkAtu3GyysFbsT6my1yJ8AShmJNJNgPKAMMmuQW0taTlHePpBEuPi2ermaNXyrPrVzKGMDW+6smTACvUaPDvRaiuAJJBpGJkco2ann/jAX4G7ZM2DASDNEwY52XoO1lTR+qlTBL4CutL7o+p+SItopLoYULr/6KisBdiuq74eDEXZFQSGOOznUvj9IGsdMiIcq8eaYhvWd4i3fihN+GixXw47eVJQ3sUacX2KLsAuAuuyCFCV6D9H+ur4UM14RwXwIeF/tWDq154t332nkaFUaqju7kDPVAyDc9WbriKKu3vuslRvpZ2ByBaBvZcOdA82xx9TYZ78v+1hrFEVGGH9XGk1Gn29VQN/q8zISUWgQjYJrdYwOTCeKPY+05EYAPMOC3P4fglQy7kb95w4x6qwT0lBAvWf2fTpgV9fXz7PCdm9P9Q7NVBMf1QOKbwBcGBOFTctOa6ClVzR5SpkVFzrOnxO1Kv6/F46I5EMLxdnqXM1WEX/WNx0wruCuz7UHV3XV0BasmoYJrnX5A=",
+  "URL": "http://industriousone.com/premake",
+  "LICENSE": "BSD",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1594145051",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    "premake4"
+  ],
+  "DEPENDS": [
+    ""
+  ]
+}

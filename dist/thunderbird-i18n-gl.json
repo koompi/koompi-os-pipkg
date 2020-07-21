@@ -1,0 +1,23 @@
+{
+  "FILENAME": "thunderbird-i18n-gl-68.10.0-1-any.pkg.tar.zst",
+  "NAME": "thunderbird-i18n-gl",
+  "BASE": "thunderbird-i18n",
+  "VERSION": "68.10.0-1",
+  "DESC": "Galician language pack for Thunderbird",
+  "CSIZE": "507993",
+  "ISIZE": "568397",
+  "MD5SUM": "3bf975fe9679f69947315d5ec918e6f0",
+  "SHA256SUM": "6d9cdae578cf47ff3b92df8d2635b10484171e4b0c9fa203f112c99110399515",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl78eGAACgkQeGxj8zDXy5Ksig//V4+eslaw7LU0TsY2E77x7fu0StSUvOQ5FAvB4cdmenMrHfbTVCJBv3jcr6JNhArFzl/ygCmDful4PJdqiDufm6z/ZFRsit9kzVpbRqY4t+t80AGoVmAsrtcK/s3Kl84PgV0xME5L7HXt+iBJWSQZarheSFNJMOqrbHhBf7o1BPG8/qFVN97teiO7IYGeQk63h7Cr8CKXyBIx7sXIZsaO9bnUE6eiYtiNfHqGLrml6LzleP+FdebNMCfymPwT0ToobhwaFmpT1+DrbjaHrLvZuxsNCb7P1YuPKPH74cTHw6yvWeGGcLdRyUaxnqI1GdLTeE5hp763ZU5BlI5zgTXZoe4Oa2uzRj3TqgYpik7J/EvUB1ZRIPQ+i4TJHqUm1mwvMUrYn5MndP8UixviMh/WiBxv9WqgC3BmWsm9sd/8DKoZ1WNITnhKBluC0tdzvVU3YzoX4V7/P0DTPPQz0DR4zZCEqQX8mZHaogEAaxt5JqO0hFHRzNzap6KuPONHNtE+Au+ybm2IUJvXT7QoxjL8C/anENrB7vsZhBec5DpXoH0GDrnDr9XrTlp62Z8a4ST9lPF9EVsbnY9h8f5wnz8uEyzFUEBQk40m81pHJzwjkp6PMY3nR5mqADWp5A9rX5sTG25s6CaJGA0IV+0Wi4SOcHKNWjav7xt6+ZHRtPya0Uo=",
+  "URL": "https://www.mozilla.org/thunderbird",
+  "LICENSE": "MPL",
+  "ARCH": "any",
+  "BUILDDATE": "1593603702",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "thunderbird>=68.10.0"
+  ]
+}

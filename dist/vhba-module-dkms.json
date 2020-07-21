@@ -1,0 +1,23 @@
+{
+  "FILENAME": "vhba-module-dkms-20200106-54-x86_64.pkg.tar.zst",
+  "NAME": "vhba-module-dkms",
+  "BASE": "vhba-module",
+  "VERSION": "20200106-54",
+  "DESC": "Kernel module that emulates SCSI devices",
+  "CSIZE": "9213",
+  "ISIZE": "28544",
+  "MD5SUM": "7a9d69a4fc9f5adc00afc920ced9cc10",
+  "SHA256SUM": "a1037aeab094252fb39a34a00d0eadb62e8fbb542b9054c3d0a135bf66c55be6",
+  "PGPSIG": "iIsEABYIADMWIQQGaHodnU+rCLUP2Ss7lKgOUKR3xwUCXvzLWxUcaGVmdGlnQGFyY2hsaW51eC5vcmcACgkQO5SoDlCkd8ejGQD/cxA7y3IpNLsX89Pf+GRaxS0Yf4jvYAYjJ1JKg/8tRvABAL+12D/V3v4KkCWiR4pkkx6SWjm8d2nVC/0vIJBWROUO",
+  "URL": "https://cdemu.sourceforge.io/",
+  "LICENSE": "GPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1593617976",
+  "PACKAGER": "Jan Alexander Steffens (heftig) <heftig@archlinux.org>",
+  "PROVIDES": [
+    "vhba-module=20200106-54"
+  ],
+  "DEPENDS": [
+    "dkms"
+  ]
+}

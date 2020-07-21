@@ -1,0 +1,31 @@
+{
+  "FILENAME": "python-klein-20.6.0-1-any.pkg.tar.zst",
+  "NAME": "python-klein",
+  "BASE": "python-klein",
+  "VERSION": "20.6.0-1",
+  "DESC": "A web micro-framework built on werkzeug and twisted.web",
+  "CSIZE": "180483",
+  "ISIZE": "1069315",
+  "MD5SUM": "fc5ed73eb13c0f8748bcfac87f5db286",
+  "SHA256SUM": "baeef21cb4361805b9032cc7bd39810b67cf8765558eb1e2247769e71f6500c0",
+  "PGPSIG": "iHUEABEIAB0WIQSYX6G7jYlWZgHv/xEEU6bKI8VjFQUCXt+w/wAKCRAEU6bKI8VjFUu9AP9BdJ8GooBtYjhOiBvmrGusulmVdhnZChOMttfnz2M9hwD9HrTuufZSLWp772rniYVxQFiK+r8nJ1r9f4sPg30rdlk=",
+  "URL": "https://github.com/twisted/klein",
+  "LICENSE": "MIT",
+  "ARCH": "any",
+  "BUILDDATE": "1591717226",
+  "PACKAGER": "Chih-Hsuan Yen <yan12125@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "python",
+    "python-attrs",
+    "python-hyperlink",
+    "python-incremental",
+    "python-six",
+    "python-tubes",
+    "python-twisted",
+    "python-werkzeug",
+    "python-zope-interface"
+  ]
+}

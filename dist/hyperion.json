@@ -1,0 +1,26 @@
+{
+  "FILENAME": "hyperion-1.03.2-21-x86_64.pkg.tar.zst",
+  "NAME": "hyperion",
+  "BASE": "hyperion",
+  "VERSION": "1.03.2-21",
+  "DESC": "An opensource 'AmbiLight' implementation",
+  "CSIZE": "1075586",
+  "ISIZE": "2754756",
+  "MD5SUM": "68d96c3c1cdd5903567d154784bd413f",
+  "SHA256SUM": "12b4bd2f93c69d372b396511d83676f465ca41c3f41d2172fb5bfd0cccfcf972",
+  "PGPSIG": "iQEzBAABCAAdFiEEFRnVq6Zb9vwrc8dWek52CV2KUuQFAl7Jmi4ACgkQek52CV2KUuR9gwf/ahrhHZqIEjpEb3/HA7mxjIzphtsSfllLZ7xD147ZM7TMN5ye6ti3hvjuIgiD/mMcX26E+sA9EpBvZLfWvZQjQwO4oePFwnfnVDXzuqhoqkzejByoMNdZKYUFOcUCDUF3yUZbfbfmK0acdCsCHOBl/TpKzIY93AiU9iETjRbyl6r6Jli7c61JHrloc1VzqdQUp3OXERxQiB7hv9wT4qOwlOLE+WpZGas9asKQ+6xMQgRtotB8OyPEy54tMIprrcDAy7u9+mgfpu3kzX1lsn2cc6xpxUkDMTYyPkFnCbd1yx6kK1zttjT0CQjaa2W3ButKYpK75vAB+RN5IqjBVMO8bA==",
+  "URL": "https://github.com/hyperion-project/hyperion",
+  "LICENSE": "MIT",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1590270230",
+  "PACKAGER": "Antonio Rojas <arojas@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "libusb",
+    "protobuf",
+    "python",
+    "qt5-base"
+  ]
+}

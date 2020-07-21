@@ -1,0 +1,24 @@
+{
+  "FILENAME": "ethtool-1:5.7-1-x86_64.pkg.tar.zst",
+  "NAME": "ethtool",
+  "BASE": "ethtool",
+  "VERSION": "1:5.7-1",
+  "DESC": "Utility for controlling network drivers and hardware",
+  "CSIZE": "160412",
+  "ISIZE": "491361",
+  "MD5SUM": "0922262b5f8b316b5c0a8f2aadce6539",
+  "SHA256SUM": "cd98b9fa06d5c0313b383070845d7fdc18d38d6c804115cc978014fe4e4e574e",
+  "PGPSIG": "iQIzBAABCAAdFiEEjhmSFnRl21+wRVV8sChU7XU+Dx8FAl7brNMACgkQsChU7XU+Dx/9cg/9Hv9Be0IlKg8fdHxKUpxn4eU3fL4Tn/WcKdDiHn0qLpp7FsR/w+m1n4i5otCCki75pHsrUYnrdpX/ml56yTtLPhdPMqXQr+KimOxWmwKYycona1aMB210GH821hpQaHw+wEGH/dJQ9pTv4/iq6VVzZ9MS49z6q/boRrUNXqM52JieCzktgcrj4RHx/a2pb6xVuZgmzS/aKix+7ty7IjNqyC8+wRWszwtOTuHmWUstAK5f/3atpljMVPn/W3tU+lRB19d5k36euCyvlIWhjoJieisQu8Y+TPORKfS+0e7TxbnHPB0vySAAO9ttGt+zs60+VTy5uYxzoJpYVyzhjnT3QN7NMB0srUZDDXeFeQvjg9cs+Z+HoT8SWCSbP/wzTIb+PMjdmPBfkVVFf6+GULLlIjyHJRJOrD4DzfUWxHUwB0mlVcPE7QvxrsHoRw8uxYNY3fIJUkUB9a8Q7quZIsxOIndU5VE8OZLCJ2/Io+onwuG1XnD6M6LFgy9L7v5Q1xDO7Uw+Uugz0lZsRuy6+T7VYx/xxisnGDpB1DvnLQLlmL/ja7xtlejSSzmA78kbcQ+FsVg5oTjAMahDcMquNf3k6Mnd1DC7Rzo7OZuMXnD5W5xamScf/vlMG0B1GwvMbRYkqXTRUidpYB9AevEaHPSgzXjo4z4VdCvTPKozrRIEuT0=",
+  "URL": "https://www.kernel.org/pub/software/network/ethtool/",
+  "LICENSE": "GPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1591454692",
+  "PACKAGER": "Anatol Pomozov <anatol.pomozov@gmail.com>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "glibc",
+    "libmnl"
+  ]
+}

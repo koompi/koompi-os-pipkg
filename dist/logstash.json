@@ -1,0 +1,27 @@
+{
+  "FILENAME": "logstash-7.7.0-1-x86_64.pkg.tar.zst",
+  "NAME": "logstash",
+  "BASE": "logstash",
+  "VERSION": "7.7.0-1",
+  "DESC": "Tool for managing events and logs",
+  "CSIZE": "143458672",
+  "ISIZE": "292551664",
+  "MD5SUM": "584793ee3ac70f348d7746875260e63d",
+  "SHA256SUM": "9e2db2e7ed40440017a5ec1d9157ac929c1272cac4bdc9837c292959ba5399a3",
+  "PGPSIG": "iF0EABECAB0WIQQsEYxiDwLbmsHQ+fqU3SOT2i7kIwUCXsOvSgAKCRCU3SOT2i7kI8fIAJ93hq6xIqzy8xCNYv0dROYEFBzKywCgpWNa5dEJwLyry0GDU/1X/dstoOQ=",
+  "URL": "https://www.elastic.co/products/logstash/",
+  "LICENSE": "Apache",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1589836732",
+  "PACKAGER": "Massimiliano Torromeo <massimiliano.torromeo@gmail.com>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "java-runtime-headless>=8",
+    "ruby",
+    "ruby-bundler",
+    "coreutils",
+    "awk"
+  ]
+}

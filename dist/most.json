@@ -1,0 +1,23 @@
+{
+  "FILENAME": "most-5.1.0-2-x86_64.pkg.tar.zst",
+  "NAME": "most",
+  "BASE": "most",
+  "VERSION": "5.1.0-2",
+  "DESC": "A terminal pager similar to 'more' and 'less'",
+  "CSIZE": "54407",
+  "ISIZE": "122716",
+  "MD5SUM": "801cbcf78a9cebe13feef4d6b101b5b6",
+  "SHA256SUM": "ef11238b66b48d1f135c17ee17ad46488684580e0dad529e85143ac9de94de23",
+  "PGPSIG": "iQEzBAABCAAdFiEEhs/8qRjPOvRxR1iAUeixSKmZnDQFAl6/798ACgkQUeixSKmZnDSFRQf/duRYPggdvtKZ3agc7za3OzYqvBBFViH6t+oV3pojEAurjm/MZkgR3G3w0oWpe8SN6NfYEXgqIN0OhX3CXMmTgcMGO7WhDW41ex2cvKANUvHgxFXCjPv+3vi0MiVwVN8p8QZT3EhhhlSMqbXq0PpkLG6b+DbqGHfKNU9f5jSf+vldaoTHZwj1QoQK/9r58USjnqY72yoQx0JUTBVy+LJJ2vIN3caoAWtqkVzlM+Wec/YsPPrXeLRpb439kMkWds38LDlkDItgKUJwcPGQiEGfrBUHmYwxSQaPNbCxs+rY1u7dy5dVRuw6O2+ed7LaEbSfkobovmqV0J5cH3AyCG+PxA==",
+  "URL": "https://www.jedsoft.org/most/index.html",
+  "LICENSE": "GPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1589637067",
+  "PACKAGER": "Evangelos Foutras <evangelos@foutrelis.com>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "slang"
+  ]
+}

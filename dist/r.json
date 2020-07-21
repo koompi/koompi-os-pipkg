@@ -1,0 +1,42 @@
+{
+  "FILENAME": "r-4.0.2-1-x86_64.pkg.tar.zst",
+  "NAME": "r",
+  "BASE": "r",
+  "VERSION": "4.0.2-1",
+  "DESC": "Language and environment for statistical computing and graphics",
+  "CSIZE": "42996339",
+  "ISIZE": "65372358",
+  "MD5SUM": "1b6b70d1c50d27882ebcae24c9decd4f",
+  "SHA256SUM": "c8ded83e598ebe51b245aa10b68abba9e3919a29a8c0d1107decb7fb6fc6cefa",
+  "PGPSIG": "iQEzBAABCAAdFiEEFRnVq6Zb9vwrc8dWek52CV2KUuQFAl7wbsoACgkQek52CV2KUuRn8Af/T+pJXVLx7p1V6MrFOLgpRAOrtxJ9JE457NxiTQFywFVobaAM5XOzqRumEmFgoTEm5jGAjxSIfq3ovSj8tZhudEfSrRQhqzXy8l5d0SBCP2wXM8QJG0SUEb1L1Ef+M3wCJNvfkyc+qdLdJbHSz/59aA1V2MSAnmrs676N5VZqYDaSiuqll2UZx4JQrZaxXHOwVUOIJPIr9/iuyEvspne3JHX/uJRjUY0iqBPokI6fIY0zcAeB2vSDRjg5t3nYJbzKF3kdVj2NxqAItGgtGLq+KqxVx7B4RDj0m7E7SHJZpROYT2h4kz0+Lz25jMjIGlNHjfovEsFhvlW0Vtf6UJ4IJg==",
+  "URL": "https://www.r-project.org/",
+  "LICENSE": "GPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1592814524",
+  "PACKAGER": "Antonio Rojas <arojas@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "blas",
+    "lapack",
+    "bzip2",
+    "libpng",
+    "libjpeg",
+    "libtiff",
+    "ncurses",
+    "pcre2",
+    "readline",
+    "zlib",
+    "perl",
+    "libxt",
+    "libxmu",
+    "pango",
+    "xz",
+    "zip",
+    "unzip",
+    "curl",
+    "icu",
+    "which"
+  ]
+}

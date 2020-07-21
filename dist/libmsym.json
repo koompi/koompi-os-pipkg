@@ -1,0 +1,23 @@
+{
+  "FILENAME": "libmsym-0.2.3-3-x86_64.pkg.tar.zst",
+  "NAME": "libmsym",
+  "BASE": "libmsym",
+  "VERSION": "0.2.3-3",
+  "DESC": "Molecular point group symmetry lib",
+  "CSIZE": "105681",
+  "ISIZE": "258107",
+  "MD5SUM": "860e9684f4f021ec082017aba4f83374",
+  "SHA256SUM": "9b642728efcc60b4d5bd6c72504b764b94d1735d19127182d72add2d751ea026",
+  "PGPSIG": "iQEzBAABCAAdFiEEhs/8qRjPOvRxR1iAUeixSKmZnDQFAl6/uVoACgkQUeixSKmZnDT9jQgAm36+mYV6ZVAckSng13UvYI1xDv6cQusKwbil/DcXBKruKTPntJeV/wIw8MNi8dPyfjZnv0qsDFBl0xQVfPTsRDyIbKZHPTI3X2zRH3cCIuI50eqXAaLfcEBsjZi9YY0pKJXNr1JleyXM8p/tzDKLmV6o5XCxeUlrNwvGOU9p5mP5aG5zkzRx7VBjR912iOMr1TbuebyaxLw5jvlK39XlNduHGcMRa0z5t6mNI+Fft0jqAnuQDBg/hUVeIVYQs4SN6t3R+9qyncz86GIyimdppo+z1GJvCk86vz+ZnhUx1ACasRS299uFt1Ce0rajN+KN2SPWcxycZmo6ioSeYsEZCA==",
+  "URL": "http://www.openchemistry.org/",
+  "LICENSE": "MIT",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1589622905",
+  "PACKAGER": "Evangelos Foutras <evangelos@foutrelis.com>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "glibc"
+  ]
+}

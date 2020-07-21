@@ -1,0 +1,26 @@
+{
+  "FILENAME": "python-zope-configuration-4.4.0-1-any.pkg.tar.zst",
+  "NAME": "python-zope-configuration",
+  "BASE": "python-zope-configuration",
+  "VERSION": "4.4.0-1",
+  "DESC": "Zope Configuration Markup Language (ZCML)",
+  "CSIZE": "124636",
+  "ISIZE": "887509",
+  "MD5SUM": "9a77df0b260ae433c41c482355e45267",
+  "SHA256SUM": "c9029b2f670207c5e457d3741472268cbf305609337ef89e8f9e7836aaaa68d5",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl53jQQACgkQeGxj8zDXy5LqKg/+MNWY1kDdDoRaci3kXboQ3tfPwHyTCe1oA3WRNo5GFRUFgbrcwfmLuk4X8lAewQ/LfnSZ+DJTtx+99BSiHo6Gx/AbHuU+ctcHYsLds1+r7j61mKfXn9JSTu5lZJm99zDhN0Vsv4O/zATka3FrcR2BaDaKZZdgIbEmJxQTLcF/sOGkuanvGgQBlLFVA0TiwdSrPVRnf2SReF5nkaOZcUJ7DRPZlAFh4XiyGHaud9+oSPpziUu8fIVBQSEQubPlrh5QuRB0KfodBGwpHqLDQ75V25bkvZEXbE+CeQ3RrIK7+nVqKArCjPbI0y0tg7GipOwDRmunDrNswgK5jsHNeupCBxwwnQ1Lp0tuT1f4/4zG4qygSM6i6uJxqk5jEi+B1cONjGRu9OoCP/Tl8H2EL0xBt8PKoF3Tm59rd5fwjzJo06XvumLoUPSUJf6Vha2SwFgiZOpjW6jpwLrx4Es03oClEDfdATZoWxOzrAbF2/1EyxlX3vm2ErcI4p8g86nid3rq81lHE4no2ikvkyhFaSSl98ia9QkIVgTpIrNn6ZbDP96Ni2dulG2h7KHdAAb0IAm7KBPOGQSqBtdm2Jt5sqKvhiX16XdAZVaulk5QEajDEKMnBuFAVgYajHgN0vOwzFkNUdHy/ANNIfzgQEFahzY5vvJV/Y0xIRXYNgOA5q4udk4=",
+  "URL": "https://github.com/zopefoundation/zope.configuration",
+  "LICENSE": "ZPL",
+  "ARCH": "any",
+  "BUILDDATE": "1584893122",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "python-setuptools",
+    "python-zope-interface",
+    "python-zope-schema",
+    "python-zope-i18nmessageid"
+  ]
+}

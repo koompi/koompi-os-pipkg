@@ -1,0 +1,23 @@
+{
+  "FILENAME": "aspell-nn-0.50.1-4-any.pkg.tar.xz",
+  "NAME": "aspell-nn",
+  "BASE": "aspell-nn",
+  "VERSION": "0.50.1-4",
+  "DESC": "Norwegian Nynorsk dictionary for aspell",
+  "CSIZE": "1910152",
+  "ISIZE": "6326272",
+  "MD5SUM": "e865a483012ff4c6e3a9d229ed4eeadb",
+  "SHA256SUM": "205e40d8631ea83ce363d7a327adc2358956445de7d00b5b48f9b6ded08351e1",
+  "PGPSIG": "iQEzBAABCAAdFiEElihV8HLHoBhGQFhk/PPIy1z5yNQFAlz9PWQACgkQ/PPIy1z5yNSiQQf/bMT9rvAgCQYxK4LDvcJW3IdXgEtulTP7VUhV5yBFuDoV5h35sJcq7qYauMXFZmaHMz7eC8z6M00OBpV7D1MdE6S1sIosz9oxed6yqpJt7Iv7k0DXw8klTTWB4EVGKMzd+GpQ2sf9Msq9yV358fc4j7YpMEHPWQ5sa/ozcdxRacOuuvbegO3LlL3gOJMSkqBNDo0FgJU1Yo4l2k/kwFrrTCYx34q63XJnmRkSAW/ukdDlpZCTKgDWPUZaQH+36HXH5n6IKoP+hXqVkenOsx+lOWPC3SkON5nNqFarzl9yZyyGX5KRwSTV7u+ZcGx47liOjDzTs0YnZgdGBIGTlpytMQ==",
+  "URL": "https://aspell.net/",
+  "LICENSE": "GPL",
+  "ARCH": "any",
+  "BUILDDATE": "1560100139",
+  "PACKAGER": "Alexander Rødseth <rodseth@gmail.com>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "aspell"
+  ]
+}

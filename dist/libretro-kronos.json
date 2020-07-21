@@ -1,0 +1,25 @@
+{
+  "FILENAME": "libretro-kronos-6598-1-x86_64.pkg.tar.zst",
+  "NAME": "libretro-kronos",
+  "BASE": "libretro-kronos",
+  "VERSION": "6598-1",
+  "DESC": "Sega Saturn core",
+  "CSIZE": "1360634",
+  "ISIZE": "9734952",
+  "MD5SUM": "8951ce19cc96263f9b1e3581b1701a87",
+  "SHA256SUM": "0689e5f3dcfe5f527c9430969be7b0db3bd87e7d9b591e724d94a9a1cdf9d917",
+  "PGPSIG": "iQEzBAABCAAdFiEElDfdOBWnqRaePTlGr/XZUJi8b/UFAl7PbpQACgkQr/XZUJi8b/UmFQgAkCK4zBYHkETTpfWiji9MxTVuBxouhB6yT/3u0ssUyqZFIOztGIEGTMw4zC8VTgGn35njjqYHOF4CXTyyBnSKFk/c0sxEqmDsyb8Nm53uCZ9LrovdP4qGRG2UG4qDVztGlztH74J0fmu7blIDArU7kIjuipmzd2+KTQ3SXefd5TpFYXXhhrkgfIGeHukMhqA/X2arX01CxRtSpfZjvF2rvI34SCAR4mnmyuV/HhZX5qKd3KC3J/QmI/7jRqJu7QAZgT0TMzJSq+7Fna1qRQAFPQ4awCg+tRQToMozItRkJCQvpvqbBkenoYqzs6es0kUNVyF0JKYJ7BAf9ekdtNSl2A==",
+  "URL": "https://github.com/libretro/yabause",
+  "LICENSE": "GPL2",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1590652286",
+  "PACKAGER": "Maxime Gauduin <alucryd@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "glibc",
+    "libgl",
+    "libretro-core-info"
+  ]
+}

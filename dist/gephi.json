@@ -1,0 +1,25 @@
+{
+  "FILENAME": "gephi-0.9.2-2-any.pkg.tar.zst",
+  "NAME": "gephi",
+  "BASE": "gephi",
+  "VERSION": "0.9.2-2",
+  "DESC": "An interactive graph visualization and exploration platform",
+  "CSIZE": "74516228",
+  "ISIZE": "105444539",
+  "MD5SUM": "f0144035c84194da7281a823171403bd",
+  "SHA256SUM": "85173a37aebc363943c18b73309689e5dda7c5794a2dbd053f936c1ab1a8261a",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl7LyfQACgkQeGxj8zDXy5I20g//RSC3gau9+dRoTlvQWoAgkrBwNhgSZC9UlT81RYNIc1VAmFofu1SMn9AD934uCf4bIylt63rQBh+gjnng1L9dlx8EKHzqbhRHbUrRCFq+dQ0iHHIt08DD02KdBfomsaz6Z/5tXrYYhiGnIK0cu2Gmin2fuHdK+ktXX8Y8vzn8c6V0Sl2bHPP1wAyk07Dt+K+NjWHx2UD+WpRdlnFJEIfZ2pEK2aXNDsIKoGqHTIqKbo9zkpB3kwovmG3xEVHIVVixSr3ETIMBTPPt2B11eXC8C/vZ1+snC6du3/uiL8gew01LbsaLU34ecQ1+dgVcyLCsthNGw9VwyrQ6MyB2dS6jbAQ2kH7XFfk6Kg4d4hCC/Otb3VHUgmhjYFNPjqpDfJ9bI3fwHhbU3OfGm3xZTUU+5knvBBZJ79ggAwsuXURS+4wzOtzUMctqb4Jl39+i5fxZrt7TzK9+RJsXSaJCixE5Pjg4pADjAEVT3jJ65fnfhTwrs7TxK6JqJFYrujRCencpspib5shL3DJsEECwBoQJ2LZ/N6GHOwN4KbML2bYnEa3isB4H4iX9kEiOSJKQbikH+4Y1bNMFEiyGtFt/hd9t0yznmjQ25ZJbYxLLgiPhDQA9agohy8Y1jiAnHAcRN0JZh1Hy99ZwBW4+9mXlmWUSzrpZ2wvc7/4fSzZjBD9jAgY=",
+  "URL": "https://gephi.org",
+  "LICENSE": "CDDL",
+  "ARCH": "any",
+  "BUILDDATE": "1590413658",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "java-runtime",
+    "libxxf86vm",
+    "java-environment"
+  ]
+}

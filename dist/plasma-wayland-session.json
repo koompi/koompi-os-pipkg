@@ -1,0 +1,26 @@
+{
+  "FILENAME": "plasma-wayland-session-5.19.3-1-x86_64.pkg.tar.zst",
+  "NAME": "plasma-wayland-session",
+  "BASE": "plasma-workspace",
+  "VERSION": "5.19.3-1",
+  "DESC": "Plasma Wayland session",
+  "CSIZE": "5933",
+  "ISIZE": "2521",
+  "MD5SUM": "2bc38504dec101d58f475e06bfb8e9ce",
+  "SHA256SUM": "c1e4b262785de9ec5f1663748cba4a7cd20e84d6cccad0f59fc6f3fc3f369410",
+  "PGPSIG": "iQEzBAABCAAdFiEEFRnVq6Zb9vwrc8dWek52CV2KUuQFAl8EhHcACgkQek52CV2KUuTpdQf/WbXvJciZguoAjjPSbb9BDxOGrVkUstsmw4He7cV2bH6VTuMvFbn3++Z6z25hjMcH3JiodvTjjKU6czWKUmULk5nOZTaua0bQHog801T/c59nHhM+IvuX24yDMv9YuLXngp7ycK0r0TFXFQjqbIoePPK4z6zqzBWo77fZNfXetRXsC1GhV437CWASWKr72rk2WPctOcscRydA6sun24iVrhrz94/BUHX9O7daR5zkfvJRXbT5vmbmpCs0mtItSzTWD1eJwHRo+MMCRS4NCIpEcyxsfNfvHnGpp+YefnLmZTykNH9ACnfglvCM04/FCDqfKZdXbXkkqKUfvxGqpWET7w==",
+  "URL": "https://www.kde.org/workspaces/plasmadesktop/",
+  "LICENSE": "LGPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1594128350",
+  "PACKAGER": "Antonio Rojas <arojas@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "plasma-workspace",
+    "qt5-wayland",
+    "kwayland-integration",
+    "xorg-server-xwayland"
+  ]
+}

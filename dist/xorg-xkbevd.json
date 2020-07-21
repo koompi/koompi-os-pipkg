@@ -1,0 +1,23 @@
+{
+  "FILENAME": "xorg-xkbevd-1.1.4-3-x86_64.pkg.tar.zst",
+  "NAME": "xorg-xkbevd",
+  "BASE": "xorg-xkbevd",
+  "VERSION": "1.1.4-3",
+  "DESC": "XKB event daemon",
+  "CSIZE": "19081",
+  "ISIZE": "45868",
+  "MD5SUM": "e5513dcefdb637bf2e221e9f0a615010",
+  "SHA256SUM": "28a35ece9517cfbe997ec9a4e47d6f33280c4d068d54cc8d5bc6dc6641da43c4",
+  "PGPSIG": "iQEzBAABCAAdFiEEhs/8qRjPOvRxR1iAUeixSKmZnDQFAl6/7BYACgkQUeixSKmZnDSBEQf/aEtlZ4e45Jqeh19+sEfAeVWHlOq3gvbS3xp5g3Q/4BC20VOjiH3RZVgZ7zdKNMaErHkXUAhvkdNL5zvMjYEXe47sFThL7PqoRoLK+OroXFUuG/Gp4wj2STifRB+fxNoKwlKmLE1I87x8ElSx5Kg3/yEIor9QcUc4hE9ape3kuOGtqdZk731pkTJGVaNCpmtun89rrQybjq7x9j3h4bCXQGJT8txPlL77NTkNVSHDscLKpgJJcKwpB+YYQoqK1HYHf5tLQ8acIUrhl92v1nZda/rAc7yp/SgcYaL5dVD09jsL6cvXcwFkDUGoxK/zh/eA6JxC6kF3P23fBwBZPuAIzQ==",
+  "URL": "https://xorg.freedesktop.org/",
+  "LICENSE": "custom",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1589636098",
+  "PACKAGER": "Evangelos Foutras <evangelos@foutrelis.com>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "libxkbfile"
+  ]
+}

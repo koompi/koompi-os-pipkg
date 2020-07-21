@@ -1,0 +1,24 @@
+{
+  "FILENAME": "jetring-0.27-2-any.pkg.tar.zst",
+  "NAME": "jetring",
+  "BASE": "jetring",
+  "VERSION": "0.27-2",
+  "DESC": "gpg keyring maintenance using changesets",
+  "CSIZE": "7827",
+  "ISIZE": "17811",
+  "MD5SUM": "126e250b508764db7274eff4519428d7",
+  "SHA256SUM": "cd38a3e1a38aaad83994a61c83665b762aaf49ad585f1ef767665d4728dc5201",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl8EhIgACgkQeGxj8zDXy5K/AQ/7B/QhdgZQZiAEND3pHwOVL2cqg0TvJziPT5ikrhokMuRbM9WRYFwAhgIbRHsOgA7hGcKQ6UbRI4vgml7QNIw9qbyl5WJdnRMgFnNoMYFTEiUZQFQQKR2ZFA8Yj+AF27Ohb53ZtQKCepqu0R0r5RR3EaBkE8biJMbFvEgirzb7oepvGBBjG+QpcwdZ4ANE76zVEWJxVQVuZ8gL71JLqnhPO6esh1WIFc/NTdbHW2JhwO6gI8m4cErT8ajAxrKcF8mNNHlyQNAJ7ZRdVEhAiigPpJ2wP/B1pmWPTW9PCLc+y/HO2zOYI6AY8zP1RBzQdlsBl3ERgYPsRCTdyCKW1Wuw4Gq9ls1JIeMrXm1WX4/X0ApwKawGVT1zSi8vMz08P/N2PGeR3i9nHOkmkmynd5Q5bN8o7QrWbi26tC09dPO8l3RpedRc5hhZZy5ApE3uS9ccobVlNeiwHYbjjpBedoqeWbenYspt9QVrBu+0VMtRth5230mGfIf25MItErh6cRks3UG5o+v/+zcX2lwiZtU6MWdaj1dG5HjKnJHYJBIKkS6oOMrZk4GunMOqLrnSOB217vr+MbqoEvhn7579DQxs/rFhoHkkA5ZM1WYcU+8Hn7K0r1NglPmq8CIbn/0aJzdmmQ6Qg24lgBzo/n3Uiv50iSVd/Srx/FiiWEGab6xEPQA=",
+  "URL": "https://packages.debian.org/sid/jetring",
+  "LICENSE": "GPL",
+  "ARCH": "any",
+  "BUILDDATE": "1594131562",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "gnupg",
+    "perl"
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "FILENAME": "libusb-1.0.23-2-x86_64.pkg.tar.xz",
+  "NAME": "libusb",
+  "BASE": "libusb",
+  "VERSION": "1.0.23-2",
+  "DESC": "Library that provides generic access to USB devices",
+  "CSIZE": "58400",
+  "ISIZE": "182458",
+  "MD5SUM": "d12ea7252aa6f569e77567b43a6e3ee6",
+  "SHA256SUM": "189eb13158b9000890a60ec0b5a945d8b3581e179ad320b8f72e41d445e09f2f",
+  "PGPSIG": "iQEzBAABCAAdFiEEhs/8qRjPOvRxR1iAUeixSKmZnDQFAl3MNUsACgkQUeixSKmZnDRzJwf+J2E+KEjniRInxrvZGlg6aa926EKTlN4CCprgAp8NL/FVbK2ZkgfR4kXpp8fqL6p4mFsWSRzbpM2C6A2kWvfYzd1FA1WMjDsZLfMwDCt6NV2azoITwNAasqYVXk7xxoRgiJlucaa4Js1IZ5nDAJM5ppltiALjxX6pjHam2CJdNCUW88+xIEc/gSIGbZllRMsAUvQPlMhi7+9nPQAgBYOxrgOAWa8YziFCHmvC9hepJ4kr4Zkr5lS1tlBrVDOFKAr3oox/kGm1NyvYToTlAO4cw5hqkIfRXBM3jScemU882CErwDvdYBAY1uG6zTMSctim4KCk1GvnfF5TGXXnyEAbkg==",
+  "URL": "https://libusb.info/",
+  "LICENSE": "LGPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1573664050",
+  "PACKAGER": "Evangelos Foutras <evangelos@foutrelis.com>",
+  "PROVIDES": [
+    "libusbx=1.0.23",
+    "libusb-1.0.so=0-64"
+  ],
+  "DEPENDS": [
+    "glibc",
+    "systemd-libs"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "FILENAME": "trash-cli-0.17.1.14-5-any.pkg.tar.xz",
+  "NAME": "trash-cli",
+  "BASE": "trash-cli",
+  "VERSION": "0.17.1.14-5",
+  "DESC": "Command line trashcan (recycle bin) interface",
+  "CSIZE": "47360",
+  "ISIZE": "221975",
+  "MD5SUM": "95d2c08ce2eb1585a0503228032031cb",
+  "SHA256SUM": "b801bf1b2ed6b562653631d880feb6cb6fed7c0b828287ef7993777ac946282a",
+  "PGPSIG": "iQEzBAABCAAdFiEEhs/8qRjPOvRxR1iAUeixSKmZnDQFAl2/8ngACgkQUeixSKmZnDRSYggAlKcbYwkgYVsEVuwKrjkuLraqoj202f0YI5wVJqFT49aoxhZQcSCTdtuiUtJlFpZWoEThEHbG7e8EejKu1Y0jnUl9Q8EIcX1LF+V3mGJbqUQwYXWONlxvVVv235+Y7dP0flfOhpdJFtiPXJJ4iMpxPWuAzhYLumiJ5giF77mRFE/FDcHwRNgW+Fh2C1HHlkrgLVWOoSmgKbzFqauYBPkkqnl6sG18MoPGGqwvEZr2k8xtf5OE47TSnmT+n4MorzgJQRxLqSO4fWlPK/SX6neqPILIlN5pfeT2Ht8FemSnUxHSXvfOI7irW4kt481RAS5awB0qwGaoDHX1tup1g+EQ6w==",
+  "URL": "https://github.com/andreafrancia/trash-cli",
+  "LICENSE": "GPL",
+  "ARCH": "any",
+  "BUILDDATE": "1572860506",
+  "PACKAGER": "Evangelos Foutras <evangelos@foutrelis.com>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "python"
+  ]
+}

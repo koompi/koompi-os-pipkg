@@ -1,0 +1,30 @@
+{
+  "FILENAME": "discord-0.0.10-3-x86_64.pkg.tar.zst",
+  "NAME": "discord",
+  "BASE": "discord",
+  "VERSION": "0.0.10-3",
+  "DESC": "All-in-one voice and text chat for gamers that's free and secure.",
+  "CSIZE": "49522856",
+  "ISIZE": "166855267",
+  "MD5SUM": "18b6fdb26d9793144f377e6a5c2d60e4",
+  "SHA256SUM": "ccde0d2cebe50751ab6ca6cb54cf6971979c6453d45eb239a6e3dc494bd5433a",
+  "PGPSIG": "iQIzBAABCAAdFiEE0jW0leqs33gyftiw+JPGdIFqqV0FAl6e/HQACgkQ+JPGdIFqqV1a5A//SwbPIahjV2m0t9j/YX4+G4zKHiRffQdHHw9R0WXgpppOY7EbtRnB31zOBqnbzSZUNcvrci0qgM8iXvnf0coljIk/ywpR/zui9+IZUIqGCLMytiWiTu+B4uEeA5fziBvoVthFxg4x+YvUayl7DcIFR2fV4bi+p1+VjknwiEVJLvsehOcD5XA/mrll6jfe6FaRsJK0H1tr/BzvshVUBiNr9jjz0XgieTkLYPl//TLsOiIYnCTDJ06cpcr+1FvgFhT+lBRc3b1qwveSWoXeMW2rV69ozE07GR3EVMmOORF36OmXtz2ZCNqFNEPXTSKyKqaXKxZVaXq4p9MxawmlDeyb3Iz4ekpdj6JXtxmpXDi0USVQqeZrSsZWblGixDjytG6a4uVMASAiZFYj/6MQr+WJPJt3UwF7ujm5TsNdFmBmmdB7cFxtg8STI0vMS0rpj4GKRQcMWPtaWC4m9OefEW9dF2ewBXmUzYat+c0GhYTcjYWBeAoI8JJNrgSGZqn1TEm1xvgR/lqGVfahYhelMNbcH1Uq2+Te1B3YyLr3QVbU5oY+g4tzc8HrIyTg7Mj8cfcrL20nvX5uPuaMteKc2ELLZZH/Z6qJoNIp/Deazjg2h3RPE0kuG8fEbPlXnZKsPqArHbfGJ4IZEvN+KHM2bccnMP2CgfGhNWc/kBsMrrjnkbQ=",
+  "URL": "https://discordapp.com",
+  "LICENSE": "custom",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1587477503",
+  "PACKAGER": "Filipe Laíns <lains@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "libnotify",
+    "libxss",
+    "nspr",
+    "nss",
+    "gtk3",
+    "opera-ffmpeg-codecs",
+    "libegl",
+    "libgles"
+  ]
+}

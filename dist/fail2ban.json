@@ -1,0 +1,27 @@
+{
+  "FILENAME": "fail2ban-0.11.1-1-any.pkg.tar.zst",
+  "NAME": "fail2ban",
+  "BASE": "fail2ban",
+  "VERSION": "0.11.1-1",
+  "DESC": "Bans IPs after too many failed authentication attempts",
+  "CSIZE": "679317",
+  "ISIZE": "3350735",
+  "MD5SUM": "a2436ac08665f9b9f5bdc65271bd5930",
+  "SHA256SUM": "61a5980a74cdf5ade1004463ab882d1f0300e55f6db26da6218001cabd94f6ed",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl5FMq0ACgkQeGxj8zDXy5IgbA//YPHQDLp/LqNRL36+YWqwKd+Isvf/RftF0VfZdUHVPMW8LHTpiMa/BXaeN1PfeScJM7pbN3gWGRec1ISG7rBcR2zTwDnU/iwFsya2HBbsA+LAwcdyhNaTyML6WGFAoMLDtj/V9xyfpig0TfXE2Pt9niDCFBFJ4EL1VMRQZKhYF4O15bAYdjMhpenF78fCe7SzMbklVKrUGXzHyElD+Lh3MBJG5yoHAkFnd1RE0HrRdaat3bO/C88Q7RWfxwY2iRKHp2O20vvELP5SKjYvGYiqqebvykMdysWDHIGoVsgp/Pa1m23VR70FyD68rr3LfwPGEqkleL6nx7cMjjYkQ1n7+24fT9HiQ3Rh1sOcyz1Nid8REDjJ9Oc0wjxYQw8JnfOWWz0yhcS3U5oAYpyiQXSDWzMeNciXwpIAJfJTdxZzZBB4dgqt9qqBcbwDVk4OZiLUSendxnvlDr63xXdQ/Rtph8rV+pKuCkWNsZpDYBeZpWEPQb84K3vANY9sdkSjEGwiBQNy7n9RdR3RRhfqGHGvBoSJsfTju0dYPrlfJlYQz0rlLoNsQDXjyL8JCpuGgJY+tliC3Wlmb4NOlI1VS6w5bnM93jMPt+msI6dU/dB86/vsdIcd88vFea/Aik7ol5pxIUuLXyjFb8UVG28lhjFbbNl2JW93NwErlp7QZBKOISE=",
+  "URL": "https://www.fail2ban.org/",
+  "LICENSE": "GPL",
+  "ARCH": "any",
+  "BUILDDATE": "1581593080",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "iptables",
+    "python-pyinotify",
+    "whois",
+    "sqlite",
+    "python-systemd"
+  ]
+}

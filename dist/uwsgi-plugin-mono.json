@@ -1,0 +1,24 @@
+{
+  "FILENAME": "uwsgi-plugin-mono-2.0.19.1-2-x86_64.pkg.tar.zst",
+  "NAME": "uwsgi-plugin-mono",
+  "BASE": "uwsgi",
+  "VERSION": "2.0.19.1-2",
+  "DESC": "Plugin for mono support",
+  "CSIZE": "14015",
+  "ISIZE": "33360",
+  "MD5SUM": "a29ffd6b4543d1ba4c1eef8b0f2f557b",
+  "SHA256SUM": "3d84438d45657b8669ddf6a13b7019c34ccb03d257e2f35a9e78ebfe79a9c186",
+  "PGPSIG": "iQEzBAABCAAdFiEEhs/8qRjPOvRxR1iAUeixSKmZnDQFAl7viH8ACgkQUeixSKmZnDTaDgf/fVHBuYxWYTcpLQuFTH0/HuiLLUbTRtP8al/5tc5MtKYsi/4uvsKZnOtTyJUx161BLhgbqWm8Zob8IifLE+znnD0LeSEmMdWHQ1slgY9ssNoB5ta1qGQdZpr5iUJaeqc7D6y3vMtiHVEjDbB/GbXvjEjtZAYViAaixRPv39uv5F5yNmEE6sh9ydcrhEkeLtUmYj2eReUQLDh7NWAcLjfYevTfkYOtGMqm0o7eztPJldosHSrlfEUUkK+PxdACwOlqA59fFEsURQOk0LlvpEP8CJL/1zdO9+vmJ2DceBx/bVl8cS9qnTyajz9VRS5CKcghxRYp5uCbnHwhXRBSfuALXQ==",
+  "URL": "http://projects.unbit.it/uwsgi",
+  "LICENSE": "GPL2",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1592756215",
+  "PACKAGER": "Evangelos Foutras <foutrelis@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "uwsgi",
+    "mono"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "FILENAME": "firefox-i18n-gn-78.0.2-1-any.pkg.tar.zst",
+  "NAME": "firefox-i18n-gn",
+  "BASE": "firefox-i18n",
+  "VERSION": "78.0.2-1",
+  "DESC": "Guarani language pack for Firefox",
+  "CSIZE": "519924",
+  "ISIZE": "582166",
+  "MD5SUM": "7f60b86e286c83ba5825dc6fd81e3780",
+  "SHA256SUM": "b5c82cbfa5d0636e149fdfd4855f79dab33165ba043889eee94b6616416fedf7",
+  "PGPSIG": "iIsEABYIADMWIQQGaHodnU+rCLUP2Ss7lKgOUKR3xwUCXwelpBUcaGVmdGlnQGFyY2hsaW51eC5vcmcACgkQO5SoDlCkd8dnKAD8CCIgGSjCbJcF9qHCQXwVj8mPORW8TsyWaNVpSfVuX3cBAODnYsKScNNcQiN8T8OdNPBRl451bjnc/8O8ZzB9w3cO",
+  "URL": "https://www.mozilla.org/firefox/",
+  "LICENSE": "MPL",
+  "ARCH": "any",
+  "BUILDDATE": "1594311501",
+  "PACKAGER": "Jan Alexander Steffens (heftig) <heftig@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "firefox>=78.0.2"
+  ]
+}

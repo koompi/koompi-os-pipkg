@@ -1,0 +1,25 @@
+{
+  "FILENAME": "llvm-ocaml-10.0.0-2-x86_64.pkg.tar.zst",
+  "NAME": "llvm-ocaml",
+  "BASE": "llvm",
+  "VERSION": "10.0.0-2",
+  "DESC": "OCaml bindings for LLVM",
+  "CSIZE": "227140",
+  "ISIZE": "2297054",
+  "MD5SUM": "048428f5d1cf3b7bc1e5c860aed51df3",
+  "SHA256SUM": "a6fbc6ee749fbe439fb8976976b8a2fb22f3062d5a31ae3188bff9b2c37b1cf2",
+  "PGPSIG": "iF0EABECAB0WIQQ1W9uX7Uck5rOkUOej2VYqWJh0qwUCXsLEsAAKCRCj2VYqWJh0q98MAJwMu86d1jxExffBmaHvJ+J0fqrxDgCcD6jefbIxcKQJRpQw3IP54j9bl/I=",
+  "URL": "https://llvm.org/",
+  "LICENSE": "custom:Apache 2.0 with LLVM Exception",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1589810399",
+  "PACKAGER": "Juergen Hoetzel <juergen@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "llvm",
+    "ocaml=4.10.0",
+    "ocaml-ctypes"
+  ]
+}

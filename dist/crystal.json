@@ -1,0 +1,27 @@
+{
+  "FILENAME": "crystal-0.35.1-1-x86_64.pkg.tar.zst",
+  "NAME": "crystal",
+  "BASE": "crystal",
+  "VERSION": "0.35.1-1",
+  "DESC": "The Crystal Programming Language",
+  "CSIZE": "4685746",
+  "ISIZE": "112352019",
+  "MD5SUM": "f67b0282604f91b18ac1c8b896d145c3",
+  "SHA256SUM": "0dafafb22e7aaf4dfc65d4e6b3039ee479b0380374dd044bf43d271efeab6eec",
+  "PGPSIG": "iQIzBAABCAAdFiEEjhmSFnRl21+wRVV8sChU7XU+Dx8FAl7u8CMACgkQsChU7XU+Dx8q1w/9Gkfcu9ymBkbiEuTTbo0ynUdyRjTvjNsvrPqxnWOu7RXVIRAncoJqtJssDofr17pE1l006LopDxaWP9nahJyIipyl4QAHafjVtWYbYvQQ/DFFwE7NeYNpX6UYgARE4d/dACCyTnXSUdLF5pXEvcQZ5w8k0AB/xoxDeSKNGaVg+JK+VEQ6ffVXgoi2XofDAEXXTCQddM9SMmknnS4wwz25EYSd5Xnbx3RycLQ/gR5fAcrP1hsoFDYxjZwPAWAtksy2qwGIExL3Yn85AOxkjVrrwDQhURJf1RzcmhRQ+FYRmVNin9plsQvF2IB6LgBIxHFL5b6dq4ZI2NVE4V27thGU7YtggEXkYE8Md4ugDOuTSaU7SGvaCWn18MeRRiyJF7cOln8hcI9J3n7GELzY0cPQ5NBoRm4jKOh5aM1oMv4NxVyfzjDykPtTUC/RlFoqLJTClv2BgBH2jMYjRxKRLg8ZATC5sr2WIdaNO/m/nwPxIclkvoZnyT4CWAN2xB1jsqDR6eHbD2Bmu9OHrxAr6IbGpVa2REKN06TgaXSd7/ECVGm7ZOBGDLkmqI5l3AdogyGbdUVAThtlimWrigYcmTEMo95ebEJ2yShNl389W8ddUzcovDCd61J1jXaGhnZhcNh/6muJ/03q02Qs4lmu6Syqo497gy21mYlpHVDfF3ThjQU=",
+  "URL": "https://crystal-lang.org",
+  "LICENSE": "Apache",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1592716841",
+  "PACKAGER": "Anatol Pomozov <anatol.pomozov@gmail.com>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "gc",
+    "libatomic_ops",
+    "pcre",
+    "libevent",
+    "llvm-libs"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "FILENAME": "ruby-mercenary-0.4.0-1-any.pkg.tar.zst",
+  "NAME": "ruby-mercenary",
+  "BASE": "ruby-mercenary",
+  "VERSION": "0.4.0-1",
+  "DESC": "Easier way to build your command-line scripts",
+  "CSIZE": "28024",
+  "ISIZE": "84281",
+  "MD5SUM": "539a81dfb314811d07a305e42742f7f7",
+  "SHA256SUM": "fd5233383171ae704b15b2b4a4a90dc641a3ef7086cd0095945dd40e8868775a",
+  "PGPSIG": "iQIzBAABCAAdFiEEjhmSFnRl21+wRVV8sChU7XU+Dx8FAl4mg0EACgkQsChU7XU+Dx9d6g/9H9w6Hm3x822OMc/DmoVrjd8tjx64c+6xsoSXI7RlwibD5938yo2FxzcKP37I3/tADp2Tl+mR6RW1CfzVsI9in0x9/OtwOKQnsUeLhAwsToX9/GsXZp13di0a6aX0J97+IygfbIIWKOkKsFRaM/KC/v5jCHQIeBUthA7F86gnJOOADF7CY7M3FjqD/QqrHJwv3NK6ALmzohURXu/7l3sKaqAmIuysIAn/UaCvVEilIDJ2x5aa3El04/aAahdZFO12L+fHOrYyJnZ0jPVUtRnNmcJ0cwFleEFHMM8acvHidJ7oSoDVQduUiXu+e+33FqD6vqCYTFcYZ2ghUlaPd02d3A4lyJX+Jyu8UutAMEpBRgNJSmSGLBErXyZzfn32XSolBNKpWQKEK4vDprLkUP1HMoYrr0I0mCBn6vBhldXAfAOp6tiCwlg9h5+Uj3FIzC62NDSKb/JmtLi66+X3Z9VtOH2Nf1qkoieLKrFe33Apvxfr4N296fOPBvl6P9gtjGPlY1u7DRVy8A04s4L5TDybDNeMvjD1bplYtIgwNJAM9oVnXGm0z7EPXHaK4nQJPkP88zQ08cOQrWImiDVMX/AjfryLhXNksCxxof++ba3WmlyYSpwSwI4XOrGwd0vh36HhvKqMKfs2i39QVQDTBdhWfoT/UYylRHr4oddif6C6Au0=",
+  "URL": "https://github.com/jekyll/mercenary",
+  "LICENSE": "MIT",
+  "ARCH": "any",
+  "BUILDDATE": "1579582099",
+  "PACKAGER": "Anatol Pomozov <anatol.pomozov@gmail.com>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "ruby"
+  ]
+}

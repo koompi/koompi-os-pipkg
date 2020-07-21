@@ -1,0 +1,23 @@
+{
+  "FILENAME": "firefox-i18n-es-ar-78.0.2-1-any.pkg.tar.zst",
+  "NAME": "firefox-i18n-es-ar",
+  "BASE": "firefox-i18n",
+  "VERSION": "78.0.2-1",
+  "DESC": "Spanish (Argentina) language pack for Firefox",
+  "CSIZE": "503023",
+  "ISIZE": "568400",
+  "MD5SUM": "10703810b1a159bd007a200010861c3e",
+  "SHA256SUM": "1d5620dbfa32ac6c16dcc2ad8c65f13c2fc41c783144af1c0f2c577b2d663da8",
+  "PGPSIG": "iIsEABYIADMWIQQGaHodnU+rCLUP2Ss7lKgOUKR3xwUCXwelohUcaGVmdGlnQGFyY2hsaW51eC5vcmcACgkQO5SoDlCkd8e5rgEA33/oyGSQHKWVvbpQZHMK1kr+rke17IwaB/nsghjdk5cBAMJSWPts7EBck8n6wWti58dxnb12f7NHe1IGfsVqMAsI",
+  "URL": "https://www.mozilla.org/firefox/",
+  "LICENSE": "MPL",
+  "ARCH": "any",
+  "BUILDDATE": "1594311501",
+  "PACKAGER": "Jan Alexander Steffens (heftig) <heftig@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "firefox>=78.0.2"
+  ]
+}

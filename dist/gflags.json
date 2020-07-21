@@ -1,0 +1,23 @@
+{
+  "FILENAME": "gflags-2.2.2-2-x86_64.pkg.tar.zst",
+  "NAME": "gflags",
+  "BASE": "gflags",
+  "VERSION": "2.2.2-2",
+  "DESC": "C++ Library for commandline flag processing",
+  "CSIZE": "143022",
+  "ISIZE": "954569",
+  "MD5SUM": "3040822d7cfaede209b2860ddee2abc2",
+  "SHA256SUM": "790a053b1adfddc7ce3a6ae865dccd1466c9b68a6a9bab9d64271d928e7801f9",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl8EaU4ACgkQeGxj8zDXy5LKKA//RGklwp3i3sF1uW5dnOZhgnr+NOw4MIyAyxOcS0DsfVjP4OyXuTSzXINKBjdfO9HA+Ym7viq2Ds+K7i49DGJDivxt9QQOIviRG4MLeOBxYUqHx3Mo8WzdFcn29ekSwWh+Hfpq9p0pmz9fDdgevrRJaph11MPSE3IaxxJ8QxhBmSrpkTDWasQS9VrdOVh/aHj3MM7V0Q6NGAQ5njjat7Fsh4iTAkSjtNPS6SKd7sPwfi+ET2JEQkwSd9fayoEjKa05xEaGXF8+pyJn9j/3tZ/cHqyLzkAtW7VguL0NNZRAB6e9ZwmW2EW9owB8+EvBUrFU0uSleO5boabfl4Cn1N6Hf2YC9J0S37KYExZF2y18htVZqna/IT9m2o5+bxfQPEYRIZ+SVXRDY5BE+gyQckMKiQqT3HftcQEcKFGuT/jI0bodc61QZFtPRvg8L4b3sUC/wPy2ElYQj3w0JQMFR4QqqQgZU83j8WdGQo1iMwYHoWhjbfcpNVX4V/FF+CNNQW5PMmJjUQkssssaw1e4q6Nm36xn71LHGodHgzdS5GL/WIisTdITCmVeQknQ7voQXU1skPBnftM0D+kk412sI3McPvSD11VjU/rFAwVLwLkCBo7tcMH4J/M5Hicbk+Tn3he33lUYUk4caB0UgXJSxmLvHEdvfWu7mif1ucopYsvtZPA=",
+  "URL": "https://github.com/schuhschuh/gflags",
+  "LICENSE": "BSD",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1594124449",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "gcc-libs"
+  ]
+}

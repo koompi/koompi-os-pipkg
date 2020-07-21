@@ -1,0 +1,23 @@
+{
+  "FILENAME": "lua52-lpeg-1.0.2-2-x86_64.pkg.tar.zst",
+  "NAME": "lua52-lpeg",
+  "BASE": "lpeg",
+  "VERSION": "1.0.2-2",
+  "DESC": "Pattern-matching library for Lua 5.2",
+  "CSIZE": "26037",
+  "ISIZE": "58959",
+  "MD5SUM": "262b3e32bb9fdf8978429a744f550dd7",
+  "SHA256SUM": "ae591e2f2b8dc26d05997550375de85f4139705841ea68b457422c99e65d1082",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl6/yh8ACgkQeGxj8zDXy5LUOhAAut0nqbtbqAYIL+H6Ha4xmvUWmLElT5YpzljFHiBtSOEfQt/1KzrdSw5UvhBqCEzFr5HLnF+aAULwviAiGf0NeHhtbna+AUJ0710VWQ4k0Em4nMlSgCVQzQalh9uNvK+zqecb26mfwLYjpGb4UE7gFXNx8yCalzGCZv3fvPr9ZkfZxTmdOyvLqc4bb3ozOCNtDUzE+74ugULPx7ZQX2Z/M0raUCe2JorhKJzgwOZgefXo+axZpMHzsD63ttFR+R8ev9u+Xk7Oh/35T013eR2erANIruNOaf27FjDX0keL8plHRi0rnnRuT3qTkiOZPfpdepAMXjdqGpXtF+IfwgwcdwVi9JMr7shhvYknDjNgTqlbN3qicPSmqhsR+PhkC4V/n2bUH4jhCxaGQ5fWFsuTe3CUIPoaO7WrxYZXkk7R2PEuBbxW/QEfA7WLH+EnpBwkexHnN3RhVZs5BfZTAiA0KifGd4wzK6/uCTN+ckQJlL25hYy4sxajrJbRFOSDD5YnVbzyoa/2VKw2j1UoPwByWKIxNVeoWbbrJrEKKejsSK1+U2ogx6niznSJkGiyNicgrACzkw1QIn3CmmEKvYO27xyYaivvSN+WZo+HlOpxcfUMJgucdgaZL7LJmg9l9c63+7dVEArJV8Mid3kKZD1AaVW+0VevfWBSQCvWmZDzg2M=",
+  "URL": "http://www.inf.puc-rio.br/~roberto/lpeg",
+  "LICENSE": "MIT",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1589627401",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "lua52"
+  ]
+}

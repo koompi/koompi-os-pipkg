@@ -1,0 +1,23 @@
+{
+  "FILENAME": "python-billiard-3.6.3.0-1-x86_64.pkg.tar.zst",
+  "NAME": "python-billiard",
+  "BASE": "python-billiard",
+  "VERSION": "3.6.3.0-1",
+  "DESC": "Python multiprocessing fork with improvements and bugfixes.",
+  "CSIZE": "171616",
+  "ISIZE": "829355",
+  "MD5SUM": "6e10b80486514de560ffd10fc491ebb3",
+  "SHA256SUM": "252ecdbc4aef92c5acddfb08fb7415a15afc91cea1362885cbff9d0b38444133",
+  "PGPSIG": "iQIyBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl5aRhkACgkQeGxj8zDXy5KewA/4nOfEWO074CWnQlAhDenTtMLhGZ2pyuK4qwpi//zZ3UAaUUdw5+0b/VtwzxTcMelbVmUgleBZqTPKk6urVdeQfty1ggrJbSkhZaom2rSssT4unuf2YZ2cduaNHmVbBrvCmxIeLMvOWT+m3I44YMDUD2WcvqfwqhQtmRaNdGg4P0Nso57+2khUlSeiNmd3PTc8VOEFI3i4Z+o8Dzq+TR9SkzyQZzKGTwWj2oHtsWUqwuaMmYpxsCuw+pIp0es/NLY3KQmvT6l9v5rde5qphgAzMguLTxV+j56q9S5EOrHsd9+rnHQVqWkXsoC6TQzCAYDjE52DPe6EIVpL9GdqYzGs98X4Fo47wXNQOZUtv9opcZFjbtOon0qRVgi86FBc+3/6MOP0NGR5evCLOU/CCt7luO0b37OA/RmYcfWV9YjajQAU4X91ahavoWNH3K6/44Nbp3c8OMTp1TmhEGiqZs59jpgUBlW/q5LEzs3pA2u9VvUYG8rshyb2JFwE7etP4s7c9bXt72QPt/gAcxEJtPpvpw9yqtQPJNQ8eEOdwkvv6wrxAIxhT9M7p7oR/VjjxBbcY/jXtwufVVeybjoGKrfifpzNljdTEysjVO1GtkebuSKXSpGLCwZU4bLAstmeQ9HQ4NU96WnpTqTvPAVB7+VjfF6JpIRLSRQDssDYZ+3UEA==",
+  "URL": "https://pypi.org/project/billiard/",
+  "LICENSE": "BSD",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1582974359",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "python"
+  ]
+}

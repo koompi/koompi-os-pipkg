@@ -1,0 +1,27 @@
+{
+  "FILENAME": "shellcheck-0.7.1-78-x86_64.pkg.tar.zst",
+  "NAME": "shellcheck",
+  "BASE": "shellcheck",
+  "VERSION": "0.7.1-78",
+  "DESC": "Shell script analysis tool",
+  "CSIZE": "2613022",
+  "ISIZE": "16860780",
+  "MD5SUM": "b297f876b3d8b96f6db00a206f3a40a5",
+  "SHA256SUM": "fd4b151dd1464ce21f683c4d110a748099e716aa6fbfd914645f755e6254e61f",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl76ShgACgkQeGxj8zDXy5IM+A/+IlNpJaoSGrZka91zvuCkIk+9k+wunYlq7jdMyhFb6vv9Lg3kkXAJfI8TzdKHu4AwZ9Vn2PT3m7kn6GDK52yJq4isQp7GftO5A2EvlP04xxBAoGLJUjz3btL9SoxZ0bWuKDyt/+pXRaNE+lgpw40tGvGiPhKcCIZrkqyaiAOs9UOq8QwhkhT1jUJM6rpPH/viW4eh1ueil/Te7Tj4wU5Fnsk7XTS5Msi3uwLOQEwwLwCrGlhZ3Gs3c3bmJt4VnPJLvM23LxvKrqNY3nBW7NuYuH+Bq4SUqAABco3T9skks9tFG6aPLHAXDDDdCnG+MoN31IaN+A7fwQwfzeMICu6hfZyiyGij+KBHFigop6SLEd/JW+FIs0MKQpyLkgg4IXrIN/hL8RcYep8tx0yNYeMc1SEmXesqiZpauLYdKC/BNe5NOqRonxUVjwgqhHhZLNsQNAy9g8WeHD9qDEGbsPLCw/YE0LhjcaiFkshDdMCyIGl4iaNeATYzHQpxPPBWJBCfQb3wNRUQBu6pTnPCO7GEuPv3g730TSE1l0X49D7obRDr32XUC5DXTbGRs0IpHWHYXDn0pa60zvnU1mRVYaRC5YhTNkcF45IYwUvZn6Rx+zwfZJpQB14hpV6AyrnpLR/m0vkrZEukMCs7J1JsR77P7t23PSuJNASKvb5Mk8Nm6Q4=",
+  "URL": "https://www.shellcheck.net",
+  "LICENSE": "GPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1593461058",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "ghc-libs",
+    "haskell-aeson",
+    "haskell-diff",
+    "haskell-quickcheck",
+    "haskell-regex-tdfa"
+  ]
+}

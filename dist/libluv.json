@@ -1,0 +1,24 @@
+{
+  "FILENAME": "libluv-1.36.0-1-x86_64.pkg.tar.zst",
+  "NAME": "libluv",
+  "BASE": "libluv",
+  "VERSION": "1.36.0-1",
+  "DESC": "Bare libuv bindings for lua",
+  "CSIZE": "50438",
+  "ISIZE": "165316",
+  "MD5SUM": "7b8c0e30394910a15bba5b0b087127a0",
+  "SHA256SUM": "5a264cccd2c3f8cf61dd12a1f215206441c480cdb26ecf49832eed79e20e1ffe",
+  "PGPSIG": "iQIzBAABCAAdFiEEj8FaBklQqZ3RvRTdOeS4d+YuuRUFAl6eOj0ACgkQOeS4d+YuuRUtJQ//dpIRun02udZlWupxQQnrtuZkeaZl2aXfVRDffyGRReXRztii09HG5huFpvTrzNygiuUW0HrR6dQwXfltH5kJQvUF2xgJkFYIRY/HnheHxClnTGKw1XLBaQs4tmjKz/GDOZWQIGxQezBJvszeOex+1n1+5PN1lbW2662Lj6oz4VAYzZlSqsQxvObnNl1MtIt+fpYgn0aNhh7wAWlcFGSsLDLOhJkl8ZsjjQqnVqEw70ZvHXsk/B45HGqlvucjEG5UmGuGvOjV1odMRk1GnKaXulB3hcgLzcb/x/+431JxQt2g+6zQxsYK83fGY3Du7yFjgUz3bgdZtqz8Cm8M6o2hz1b2PqDZJBYhE5iMnsqEZmsUXS/5DmzLQ1QbbPIPgWabhw+vh/I1A9l56sXSQHbsaBvpy7YL1uC5uEGBLu1XDRoBYk2UmplIB/4nON/eAAW1XVLhLyG38M5YHuBHPG9kE7gYJo13dnEiqPVtvRp+Xwy0B1ApUBFK9Z4fFj1TptcyjgUNfc3kgtui5NlvKuXGxfy7IKA3Mo7BT4x6LQoGh45ajXxbD394tfSI4jMh1bzWYQvrcY4XwsVIYaTcjwVuV0t0ip8bBQaYtR2lJ1fXIl95w8BHkZr+MVV/ntYjtjNHpNSd+394MqunWvuSoyoMYTFWVye/CuMs4N4JczRYNbw=",
+  "URL": "https://github.com/luvit/luv",
+  "LICENSE": "apache",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1587427873",
+  "PACKAGER": "Sven-Hendrik Haase <svenstaro@gmail.com>",
+  "PROVIDES": [
+    "libluv"
+  ],
+  "DEPENDS": [
+    "luajit",
+    "libuv"
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "FILENAME": "haskell-hpack-0.34.2-22-x86_64.pkg.tar.zst",
+  "NAME": "haskell-hpack",
+  "BASE": "haskell-hpack",
+  "VERSION": "0.34.2-22",
+  "DESC": "A modern format for Haskell packages",
+  "CSIZE": "536266",
+  "ISIZE": "3380281",
+  "MD5SUM": "023a4219373959ba7dd60fc485a7d970",
+  "SHA256SUM": "a3887f7ec3cac57cdd433c43791c6ad0bb42c6c0c0fb4844e76966eb525416a8",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl759eQACgkQeGxj8zDXy5Lc4Q//XV1Q3JZxLyDHMpJ/yB/e/PcCVz8113ecGapaGotLsw9BCFY9BHMkh5/awpav7dg8Q8Lds9OeYOm+I4pS4lq7eg4R3xsvkax2LKp7O2mvbkXtmJk5sOGYu0ySDOHefnym+2VxznuuL3D20q4RGRABERFhlG9wOBVf9pm+nfnV/oCCuskUQyLN9jRaqPjBWOZQyjp3V30EL5/xQpgE+VV9GrtiD/U9cEQfqTMbEn0FV/1NKMgTAF5wpX88Ve0edj6rtYS3+7WCvErt8C0zqiIgUXyyUt3FNwPcuh8uGCzJrJAactYE+vqYpGX4nusgoqziRiAUazzwjOyogrCb6neXlHqcnkjUDCRHPZmytb2qO2ON0w4iUeIHaOTeQ6ymlPuENYaKW5itwLXjIC0Y7Lhz5LUCKfL1oMLBwolKbQWLqVg4xIqdCADSD8rVxvt1kLdApWHPTDEjNSLEEOFuc76djbA0fkVd+lwGOoUvOiipmgUm7U53lOBc5hAB3BgjPNxtmEy7dDz7cqgjz1iNkhM8Hvf5R8cTuXzInmh795vzdAKkNhPdyOmRgtAn/err47RldxFOjR/G7SFy/BmGrM+E3LaC9LcAI4Qoh4v1aRxQuejLhVW8r7bw1ibWgAX1Xugxowagpe4EjXvTBYoK5lc6moAzD5wVOa88/rvh0/Doha8=",
+  "URL": "https://github.com/sol/hpack#readme",
+  "LICENSE": "MIT",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1593439610",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "ghc-libs",
+    "haskell-aeson",
+    "haskell-bifunctors",
+    "haskell-cryptonite",
+    "haskell-glob",
+    "haskell-http-client",
+    "haskell-http-client-tls",
+    "haskell-http-types",
+    "haskell-infer-license",
+    "haskell-scientific",
+    "haskell-unordered-containers",
+    "haskell-vector",
+    "haskell-yaml"
+  ]
+}

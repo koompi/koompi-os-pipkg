@@ -1,0 +1,28 @@
+{
+  "FILENAME": "xdot-1.1-2-any.pkg.tar.xz",
+  "NAME": "xdot",
+  "BASE": "xdot",
+  "VERSION": "1.1-2",
+  "DESC": "Interactive viewer for graphs written in Graphviz's dot language",
+  "CSIZE": "58296",
+  "ISIZE": "295752",
+  "MD5SUM": "7ede9e75b74f466b8c4aae3e98088f0c",
+  "SHA256SUM": "a94e038eec61ede0e78750895480c99284e0c91b60f4774d875d07e8a79be0e6",
+  "PGPSIG": "iQEzBAABCAAdFiEEhs/8qRjPOvRxR1iAUeixSKmZnDQFAl2/3lEACgkQUeixSKmZnDQspAf/byDxtUKk6jHOjN57fXbm0hckdjSS1WhNL9GDaE1R6w6mkiVm3qSK5Qc4XD7Sq68CV0kK5+ZmiRND5JWNayQ4flU1DtFX+h39ooz+jmq94JZWpRBX6Wkk2ANJ3t+3iemJDvOrWD4lKJg7kpFXSLM2KyO377znvSf4BbV8WKxxpYysteTYD4T6Xj0jZdCp5dVc/wdM/bcJVgzldkj+o3HAFTsOQjwYLWl4N68EISkv6ubQrmXsrpJYgNt6m++X4FuZZkCzgdQQh9RyYqpuYxiQ7IjlC9tsKO2dC/ocIHX32TORPww8ZWhoh7chtJGcwZoxxSCdErqAj1vGjOza4xm8hQ==",
+  "URL": "https://github.com/jrfonseca/xdot.py",
+  "LICENSE": "LGPL2.1",
+  "ARCH": "any",
+  "BUILDDATE": "1572855333",
+  "PACKAGER": "Evangelos Foutras <evangelos@foutrelis.com>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "graphviz",
+    "python",
+    "python-gobject",
+    "python-cairo",
+    "gtk3",
+    "python-setuptools"
+  ]
+}

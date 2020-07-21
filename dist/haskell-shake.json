@@ -1,0 +1,35 @@
+{
+  "FILENAME": "haskell-shake-0.19.1-20-x86_64.pkg.tar.zst",
+  "NAME": "haskell-shake",
+  "BASE": "haskell-shake",
+  "VERSION": "0.19.1-20",
+  "DESC": "Build system library, like Make, but more accurate dependencies.",
+  "CSIZE": "1665322",
+  "ISIZE": "10732447",
+  "MD5SUM": "13346594e863a9fb4ed199e0ce06aab2",
+  "SHA256SUM": "df6cae98603e92804a00721c323d8d550f240dc52a29eb24d813161da3812e42",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl752ggACgkQeGxj8zDXy5J3qxAAj5YMyJIsLE8NcSvXXID1SEFmcPp4tadb/2dFdVrYm+0/et9fHKBdJkELpZLUIOlrBaVzdYPYpKoo5KHOieXRF+OPeNFoF0eIIniwxAejtzEu4b2zMvAYNTV2v4iRyqIb3IV5PBNGf5AeDgoshV8hl/Y1YMe4EDC9G1XZ+OzyhB+Tvp3ukz5j6pAOPrHhcSOSkqtt4cjwUe/bQm8dz0b5IJfUyYad7b4Vd7vcpos07GLcUsnvWDMEMyam+lDFwbUNywK1VEULUl8VDtlwn7CQ6Ela00zqbuHp3gu3L+p9tT1pjO3qyY3Kzq3CeBHRKDNdchX0SRYOO9FeBPIcv0brQc8LN0JVLyyw1kOvb+eTs3Gi249QMrXhK5S4ygikyYMNVbnbE/GgsQTBOHhyvJ/Wo94PNXYjnE4UiOZ7ZiReSditFnMJAc1wa9duSpKI2dLAfTq5Tn4AaK7ShhaGaIv55yTc02hyX1VmTJkHEkitc0+zGZDNa7zxiI4Wmd+g+AjCiBbdrYw9fnP+j724jJfNkk9Vmp0LuvoS+hRS/+tc8zCVlWdbIbptSOg2L/E8cOO9JDNJfyp/Ld4tp2+PTlqF9tJp32mn3bgvwDYqdzw2PqOZ9CYPyPhleFcRzCdwYiSapuCo/pglmWlZBKLPaHIzk+FHIg3cpZ73P70UZPAi70s=",
+  "URL": "https://shakebuild.com",
+  "LICENSE": "BSD",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1593432132",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "ghc-libs",
+    "haskell-extra",
+    "haskell-file-embed",
+    "haskell-filepattern",
+    "haskell-hashable",
+    "haskell-heaps",
+    "haskell-js-dgtable",
+    "haskell-js-flot",
+    "haskell-js-jquery",
+    "haskell-primitive",
+    "haskell-random",
+    "haskell-unordered-containers",
+    "haskell-utf8-string"
+  ]
+}

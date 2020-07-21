@@ -1,0 +1,23 @@
+{
+  "FILENAME": "gambas3-gb-web-feed-3.15.0-1-x86_64.pkg.tar.zst",
+  "NAME": "gambas3-gb-web-feed",
+  "BASE": "gambas3",
+  "VERSION": "3.15.0-1",
+  "DESC": "Web feed parser and generator component",
+  "CSIZE": "20278",
+  "ISIZE": "60550",
+  "MD5SUM": "709eb77391610a64143ba5ac4efa3a07",
+  "SHA256SUM": "7648cbe7b22ff7fc8c2870a2e1ca242173867ca32414e81d2aa72e587b7ca170",
+  "PGPSIG": "iQEzBAABCAAdFiEEU1+MAzlFDwVKTSgnBglqatHO3awFAl8C7RoACgkQBglqatHO3azhOAf/faLHXPOZhX8R3zvlmzfArVDlizwF4QYLAAiltpwrzxj8HkT/EYp3sZf4hu5lg/8DpJGMh4FCWUwB1GZjf17XK6auaJP2eu7CGYfKT3iIurfcuZiwp9tFLX8Ud4yxpFIeik6YHPzwOUPkDE8eRZeoltJIv3skgDpacLm+qIUD6PgT1Ohu3gnO0njg35DTnQ2P5g4E1lnzBsqqFAkkDCAnIu6GkiNAE49pHXDeLFsZJFqy+Mr30HnyTyM0Otk6QPbAujtdt19y2LOKJwe/QpdlsRrgP3SMLTsZRwmtG2oO/wa+mYKdGgm6WOMdL4isQO6w4k5CU3A+bf+FPMws0zZ1Xg==",
+  "URL": "http://gambas.sourceforge.net/",
+  "LICENSE": "GPL2",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1594026389",
+  "PACKAGER": "Laurent Carlier <lordheavym@gmail.com>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "gambas3-gb-xml"
+  ]
+}

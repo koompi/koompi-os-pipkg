@@ -1,0 +1,24 @@
+{
+  "FILENAME": "kodi-addon-game-libretro-nestopia-1.50.0.9-6-x86_64.pkg.tar.zst",
+  "NAME": "kodi-addon-game-libretro-nestopia",
+  "BASE": "kodi-addon-game-libretro-nestopia",
+  "VERSION": "1.50.0.9-6",
+  "DESC": "Libretro wrapper for Kodi's Game API",
+  "CSIZE": "1268696",
+  "ISIZE": "3107879",
+  "MD5SUM": "fa01b5d4f7011abc206760ee918a29e8",
+  "SHA256SUM": "f45db0f6df47f5bada45ede0efc9218a687daed6060d6885c46317e20534424f",
+  "PGPSIG": "iQIzBAABCAAdFiEE2yJ3vNUAqjglYQvd2zIzknlsoGcFAl8EcU4ACgkQ2zIzknlsoGdShRAAmmpwrI+7lYMOaDCo2ahbCr/C3giROqIpuVlGOsqQHRsAg+6ZyuX5dBxnWhcm808J5d1nDE6HFxDmPyJ2wK0k9cuzjhb3qcMX3jNm5YJAOtGZuLQQmWqPllhFekD/IZHQ9ZzicaxbdiC7osBEH/Zz9eoeWI1SEUK6mr85ti/th2jI7EkKliF/BQtwCvcOUztpA62njjHwwfZ5CHFtx4NT84tIyceAoClO6tWPcxxiI54qzgmlqWD5+65+Yx15dM+bzBkUJjQvyL8sEn9FqxKEOC0JLbSX1gg0hs/FhZuKXNBmotqB3VrCQOGbf2RcsXnG0Yjk96s5dUOrsiGvR3+0M0jvnR5AdmyIiiHOdXFO9IgA5v0BHmpJ+91l/axwVz4EwKx0afc63lkVYu48rRocjB61T5BukFX9hv90Ukeb7uzWjKu7MrkHuT+74tLHkQaiFR1w3LdwEXbJLlODJGfugkFgT2qbCEYz/J736QBacK4CnHJvRpBuCB/arYhhuU3QB/eu5b9KY64hyb/AfQWlWPMMVb8G6ODeZXU1Ic47caRm7RHi3TqA/bG8z6aHuLxYBUd7SRPnll+bHxKgG6W8iKFiNd9AnJxDPeRK/d9P7+beOOokE7WgChCyGQQcPVpGD7siejZdEZ1KbN0G9HRTaycBfUqr4mVWYmXxlwgQxxg=",
+  "URL": "https://github.com/kodi-game/game.libretro.nestopia",
+  "LICENSE": "GPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1594126616",
+  "PACKAGER": "BlackEagle <ike.devolder@gmail.com>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "kodi-addon-game-libretro",
+    "libretro-nestopia"
+  ]
+}

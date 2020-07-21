@@ -1,0 +1,23 @@
+{
+  "FILENAME": "kdenetwork-filesharing-20.04.3-1-x86_64.pkg.tar.zst",
+  "NAME": "kdenetwork-filesharing",
+  "BASE": "kdenetwork-filesharing",
+  "VERSION": "20.04.3-1",
+  "DESC": "Properties dialog plugin to share a directory with the local network",
+  "CSIZE": "52252",
+  "ISIZE": "158142",
+  "MD5SUM": "c89833c5f519efa8085ebc4b0f6797f3",
+  "SHA256SUM": "77450e5ba49fc5e4a9d7df25bc471dd242d0b44a7a43d3ccdfd4fec9f5b7061a",
+  "PGPSIG": "iQEzBAABCAAdFiEEFRnVq6Zb9vwrc8dWek52CV2KUuQFAl8HBxEACgkQek52CV2KUuTAQwf/SYh0BH9zBdxHT86vLXq7enL1tpQBd12yFAg4OcdJFDubcJRbsGoq6ongf4PpcgAmBRbEOiHhciHJvNOhPjWUmHAJYiPoE5lcW5W4S4ojqexlh/xONWk4iT436ZLN58pMz1cuz0jgkfPu1svHcdPEZwZWPEGKmTpqcreEIJq+q8rNThMgfwxBBeD0oga1X4CQGKcfyNt9UXz/JBy/RJQLu7zYKyz2pQoeB6UN6GXE3wgtfOJwotM49xPHDoCKzogdTB8efIwFe/wrka28WgrR/zzgbLJx95MzwASE7ZNujfl28WztqQezRPjzGkIiegfNxmnRhxQ8I+dvjRbqxOE5eA==",
+  "URL": "https://www.kde.org/applications/internet/",
+  "LICENSE": "GPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1594110970",
+  "PACKAGER": "Antonio Rojas <arojas@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "kio"
+  ]
+}

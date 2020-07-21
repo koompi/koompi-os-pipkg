@@ -1,0 +1,23 @@
+{
+  "FILENAME": "libxkbcommon-doc-0.10.0-1-x86_64.pkg.tar.zst",
+  "NAME": "libxkbcommon-doc",
+  "BASE": "libxkbcommon",
+  "VERSION": "0.10.0-1",
+  "DESC": "API documentation for libxkbcommon",
+  "CSIZE": "132978",
+  "ISIZE": "871373",
+  "MD5SUM": "7b67ee6f2d6c4fba42918e45be07da1c",
+  "SHA256SUM": "1120d64f1bca41927f78caa3f275cbfea690eb8ca2da2e87562697d8fec7485d",
+  "PGPSIG": "iQEzBAABCAAdFiEEghj4iEmqxSLpTPRwpekojE+kFfoFAl4kSq8ACgkQpekojE+kFfpzlQf/a/f6QtEbTMWi2OD1Prz/cL3z1EZSryAY10LuFHx0fK1OUbI7j3XyDctzRjUENYTskTLadEJUvQWyLsJVO1OX5/MY6PCtTpSjLXkWqJArfAj60gRNzYrt3qmriGDAwaAF8koV1wXkWUIorIRuT4bwlX+r/HhiyLILpc3qyHCjFKlIQchMf7nxq+7x5bi4MrM7TgwS9HCDKv2xG9yT3Jh5wfP7w8rYLruB2xMFewAlMtMw/bP0MMqC7R/QL2qAsG2QdJ61eQmcWlydA8jOnXYwWu3vI7MrcONXAOYFfETjmexWDnqymnDIO8OvxBBsLChG6OTaVyF2X/KOVK8ymtpmuw==",
+  "URL": "https://xkbcommon.org/",
+  "LICENSE": "custom",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1579436513",
+  "PACKAGER": "Jan Alexander Steffens (heftig) <jan.steffens@gmail.com>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "libxkbcommon"
+  ]
+}

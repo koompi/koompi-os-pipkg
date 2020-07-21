@@ -1,0 +1,29 @@
+{
+  "FILENAME": "haskell-text-show-3.8.5-16-x86_64.pkg.tar.zst",
+  "NAME": "haskell-text-show",
+  "BASE": "haskell-text-show",
+  "VERSION": "3.8.5-16",
+  "DESC": "Efficient conversion of values into Text",
+  "CSIZE": "924216",
+  "ISIZE": "7226920",
+  "MD5SUM": "0cd74c00bd9874f48efa81de6f8db818",
+  "SHA256SUM": "dc765124776e22a01c49c14167442f98700e342b6d1e6d35d9deb499f9695b38",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl75syQACgkQeGxj8zDXy5InwA//e0v95JEgSeMRw9J+WD0TVie5NwlLpazVgImseP9JH++rePh81PbiKYwZ0qM3/NEzAFUXwjaMefM54+3SBDxzqoaHo+lRNBfGomincOFt0rUQr88KQuc5oZ/c/YYdgG3+ds13A4b6pExPKH5YxFIc43CDcCfLGSgJARpawJpqZCQDWW3h5FGo5MzwUFSDtixzeu9KaxXsi4oVld7WeONgDJOqYdp8JmDnKLrUopiTqr5GLMWkfJ2SSw4fEDTlEH8bdEYTC/Um7tm45e4jcQJVa5RW4ZuCZx/K31w/i2IVW9+7ddz6qWJ/8pcfSpf8ATpk6zl6ynexfpTxlo3Cb9fONSFXw20FOotrJ6HkhvAruLX3cJUuwWH/OvBt4U5UMlPJf115/JsHiRd6X4o6fUzIFNpbK3w7R4OLv48SO/Uojc6+w5Bgy/PwhTCYnUc3B9S1NXOU9wVfBnc5PqwqLokeqRs3LpX5MaAJcTVJg+bUVxM3q+nwsF4Pu76bOei94NiI/QjNrD/ZmupDDwwYtHs9TwWtcth2vd8E61d9or4iLvQwwfs/EBQ3VcyaifvMfqDKtSY1zfmZRzE1M7lP0iCKhA5DFopsOsAfYWxUULL6E3cpaj44Kcn3hyTJZ0FFFIg7cSEdglERb0zRoGJErVGoIdcXcnNYtTu+RH1I83RqB44=",
+  "URL": "https://github.com/RyanGlScott/text-show",
+  "LICENSE": "BSD",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1593422529",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "ghc-libs",
+    "haskell-base-compat-batteries",
+    "haskell-bifunctors",
+    "haskell-generic-deriving",
+    "haskell-th-abstraction",
+    "haskell-th-lift",
+    "haskell-transformers-compat"
+  ]
+}

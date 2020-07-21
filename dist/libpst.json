@@ -1,0 +1,24 @@
+{
+  "FILENAME": "libpst-0.6.75-1-x86_64.pkg.tar.zst",
+  "NAME": "libpst",
+  "BASE": "libpst",
+  "VERSION": "0.6.75-1",
+  "DESC": "Outlook .pst file converter",
+  "CSIZE": "219054",
+  "ISIZE": "1039338",
+  "MD5SUM": "4cf3ea7faf79ac219fb532aaeb3f6356",
+  "SHA256SUM": "7f4a2f2b411e9dce7698e28aa45b2644d86890f31057ea84b884a45b23b85d2d",
+  "PGPSIG": "iQEzBAABCAAdFiEErcih/MFeAdRTEEGelGV6sg8qCSsFAl7c+y4ACgkQlGV6sg8qCSsJRgf/VGp7hp4ID5K64kkZ4fVFgaDe3XmaoDcFhgTU9d3z3xx/4UlGijUR6+6UsGuIfKkQfap2CWISxmRsBPEQZ8q6T54o8wHvxAOs09uo4OlkyAV2lMzPfwjrxMk4BBWSRte/p1bOpxrM3E6IcxrI3LioJslTkT4GZc00KIMWttDqVKYZ39y6PoP9P2T/b/RvbDoF/KnlUjX0pVxf1IOa6vtZnn6s1Uv3y7gJCk9pDT03M7jcr7FDQY/sZzkX2bW1fEUZUJTN6JH08heYgAq7Oybt7PQJA8eNs946+nFoC7GpnWL8GX14rkz/CRp52O8RObVR5Ulw9iu/W/nKPDlAckDW+A==",
+  "URL": "https://www.five-ten-sg.com/libpst/",
+  "LICENSE": "GPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1591540404",
+  "PACKAGER": "Andreas Radke <andyrtr@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "gcc-libs",
+    "libgsf"
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "FILENAME": "knetwalk-20.04.3-1-x86_64.pkg.tar.zst",
+  "NAME": "knetwalk",
+  "BASE": "knetwalk",
+  "VERSION": "20.04.3-1",
+  "DESC": "Connect all the terminals to the server, in as few turns as possible",
+  "CSIZE": "1163143",
+  "ISIZE": "1598366",
+  "MD5SUM": "067093df57510c2682a0e45239e9eeb4",
+  "SHA256SUM": "756459f1c8375be816080a11257f9736b9bb98c2bf66c37b9105e107ffbb1a45",
+  "PGPSIG": "iQEzBAABCAAdFiEEFRnVq6Zb9vwrc8dWek52CV2KUuQFAl8HBZMACgkQek52CV2KUuT/bgf/ec3tOmafIKl2koZfnBgQ/oVOKQgzsN2j+lWbwIbDHu9f+QvAmN2fTIDDlOF/lBO7oOn8cyXDQGszBpz+m+bPKzSFJxSrAMOvaPmLVw5kGEEJskg9/DeptZxEHNphuGE/WUlRunLryfSZzWJi5q4V2LqBfjXre4A3B4a7kV6ckQWa6t2QLqtOZo8T1u7LFz0jGyQJoCWDnLqQrjzEujZ2DDRX74Y2JhuY3aRcYJnodlm8tu0wjyPn5jYQWwCbH/l5Zj6H9T21R15vh6SWRZbszLwTZRX+4EVxUmlP6EzLc40OSd/NLLOr4WPH6c9GhBEs59nkm3YB6SwC1aN72jZN4w==",
+  "URL": "https://kde.org/applications/games/knetwalk/",
+  "LICENSE": "GPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1594108764",
+  "PACKAGER": "Antonio Rojas <arojas@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "libkdegames",
+    "hicolor-icon-theme"
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "FILENAME": "hcxkeys-6.0.0-1-x86_64.pkg.tar.zst",
+  "NAME": "hcxkeys",
+  "BASE": "hcxkeys",
+  "VERSION": "6.0.0-1",
+  "DESC": "Set of tools to generate plainmasterkeys (rainbowtables) and hashes for hashcat and John the Ripper",
+  "CSIZE": "19638",
+  "ISIZE": "65331",
+  "MD5SUM": "abb4cab2eb0f8a35df4982657f931dd8",
+  "SHA256SUM": "77494eb95c138f3fad1ece1d954e92e4f28c857cec42eecfa123a62386212b31",
+  "PGPSIG": "iQIzBAABCgAdFiEE4kC1fixGMLp2ji8m/BtUfI2BcsgFAl6+2aQACgkQ/BtUfI2Bcsg3vA/+ORtpbMqtu0t/9lPD5avy5+67eydy/+t9FHAv/peItm5HTG8KwT7RFtbFASJMxr88DPL05nk8EvxDhjTPBavz4nqEL5o/l6/y89fRLaCiwnqRkYXaeL609oBW8/9h7KM1tNCp6XdfAheL8KBA7Lfce3hEt85yVXSZzZtEXao6YW2Rp818j/eEGAjrhsC2AXymvsZ7AwXt9FyECf7DvePgcYHPHF2T4oiG9UfmrW5+d/jm/ZD9Ijz4c0FL6tICNUEleltmjmExCa3t5XQUeCZy0OWGdMIqzgRQGU09bWU3HgQPrCUBJono0vWf59VJANPJFq5F9kENSxBJAWosn5t+hyy5HQuEE0KvzF9OfuEdNwv+n02pVU3noUyC0do7t4++a92jrioJxWLaA6lAfGsjbeMqFQ6NsYUbp45EsqHHga2flkMON9/XRXR+bmhEfEgt4aHh3XqTU0QX1EJHKNoF3uTcMtiSfl3M0jCFJwBLbsoMOcHWqrTWCj8S+ofqLki/x+xPW9WR5PVhhyxsYQz7sIzTQ+GqA+YG0wGLNI+1/K5wctZAjvwVq5f9HfgT1ykEq6SbiZo7vsedKVhqT44RsEDfQDsOjzQ/4T6v5f4uVpFuh0lRzEijxK9oJF5tm/8LWo3hkrZxftCGFO+/SLaRW7Xt47RhGSA+mRXaZ5g0nBM=",
+  "URL": "https://github.com/ZerBea/hcxkeys",
+  "LICENSE": "MIT",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1589565644",
+  "PACKAGER": "Levente Polyak <anthraxx@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "openssl",
+    "opencl-driver",
+    "opencl-icd-loader"
+  ]
+}

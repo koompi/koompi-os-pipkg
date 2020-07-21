@@ -1,0 +1,23 @@
+{
+  "FILENAME": "asar-3.0.3-1-any.pkg.tar.zst",
+  "NAME": "asar",
+  "BASE": "asar",
+  "VERSION": "3.0.3-1",
+  "DESC": "Creating Electron app packages",
+  "CSIZE": "58440",
+  "ISIZE": "220585",
+  "MD5SUM": "25b7b1a24c4f1ade80cc5268e16103b8",
+  "SHA256SUM": "5fc3f589a289acf52580d2129c30a817a8adea8ef10d352c827837999934146b",
+  "PGPSIG": "iQEzBAABCAAdFiEEqbZxDXYPZhfFMHRuyEe2rrBUQWcFAl6EJpYACgkQyEe2rrBUQWc5YAgAmXwd1r6lTwr/aVjKCviAhVV9CCcA+l5vKN5HYLjcEtlubdB7qmVs4ELd83CrQmJWtw0njBvRgxaGGww7uaNxlFKOpWzc+TyAzuaHRk2h2d7L3ndhIy0ZDEzNQKqXIPyZKGyC2j7TOA3XT7mtw1S/buCZNqC+CH5sGJxsfj/oyUKf0NCtHLhQEEp9eiEynQVByEtUfmJwaFmTYJutxy2sMg96bRvScpFfVMjm9AMGgApy445tFbN0hyp5nozNGFaDy8TbEhS0BnuH102pMslPthcaKGmq8DWul4Xt8d31tyIUyykSMDmhKW/6i/uI1h0O6TBs0yfV+R6GyXmxZKETOQ==",
+  "URL": "https://github.com/electron/asar",
+  "LICENSE": "MIT",
+  "ARCH": "any",
+  "BUILDDATE": "1585718779",
+  "PACKAGER": "Nicola Squartini <tensor5@gmail.com>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "nodejs"
+  ]
+}

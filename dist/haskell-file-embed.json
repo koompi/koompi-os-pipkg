@@ -1,0 +1,23 @@
+{
+  "FILENAME": "haskell-file-embed-0.0.12.0-1-x86_64.pkg.tar.zst",
+  "NAME": "haskell-file-embed",
+  "BASE": "haskell-file-embed",
+  "VERSION": "0.0.12.0-1",
+  "DESC": "Use Template Haskell to embed file contents directly.",
+  "CSIZE": "31281",
+  "ISIZE": "116119",
+  "MD5SUM": "2401ed77625bb74c6edd160f2e1fa960",
+  "SHA256SUM": "a5cfa0805d2948b9bef57ddc2ed80064235a97b338439555f5ae80cc7ed8786d",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl7CzpoACgkQeGxj8zDXy5JGUxAAth957g0jxzpkF3jBztHMuUElqnWJU5sdCfzkyz1OtN4y0A4W5jaw86AugjoRqb1yPgZobEYh1no7EDuqWTYovdLKRqmKqr+TvoJqfFbta/+WgIiTFsgBQffYXn9f8x4biDri3pvOXxP/xzdxjKz4erOdrmBkYkM3iBZ239IIkf/lDOjHufxKTuerRJP1UuqgZxt1l6nfJh4wBI8ZpUIwPb2BJP8NPmjzkMZlS+Vi24F+j8IfnuuKx9m4FsN/whjH0KcFedqi1tC8TpvDqaW0IbJw8l+0FBsNviVhrfbipmxbDI5g8BpngpbNju97gJp9eKIZQwkX6LE6iwm7rGc6U+c6GA/TKnZj1GS0sBvkQxAXyuBKSTliyiqiSDOqHrTFRTeMvsH3fEyFi4Jp+eEbvJHQMlr5bf+KItKF885EGHKkGvMq87i6Pf993wjuEizvM2sTLhNAAoEhjZDA4dfoXozH5dpgo4AkzS7Rfm+WGhw/eMemovFlJuZOomB631lUu+abThY0AH1thmoNxDoz808vuMhr2l54fit1ROxoF8GYyKexJmQDaZy4GcZmMyir8pG88UFPyvjSF2yT8KQhVmfSs+DUdVMneWOJetG2y7/msXV620qBgOSIi6++0EWXX9JpfEZxahjvMazJVFAxXNvCDNswHd8fPlAUsMGSwZQ=",
+  "URL": "https://github.com/snoyberg/file-embed",
+  "LICENSE": "BSD",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1589825150",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "ghc-libs"
+  ]
+}

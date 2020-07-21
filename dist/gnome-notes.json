@@ -1,0 +1,27 @@
+{
+  "FILENAME": "gnome-notes-3.36.2-1-x86_64.pkg.tar.zst",
+  "NAME": "gnome-notes",
+  "BASE": "gnome-notes",
+  "VERSION": "3.36.2-1",
+  "DESC": "Write out notes, every detail matters",
+  "CSIZE": "379185",
+  "ISIZE": "1665835",
+  "MD5SUM": "0376f55fda9d9b9d3f236b7b3bb217ec",
+  "SHA256SUM": "d4c847c3ed5adebe93a73d45279e99db58f400198af2ac31db75507ee48bea97",
+  "PGPSIG": "iIsEABYIADMWIQQGaHodnU+rCLUP2Ss7lKgOUKR3xwUCXwWmOxUcaGVmdGlnQGFyY2hsaW51eC5vcmcACgkQO5SoDlCkd8cvjgEA7StvdvO+JRKrr+D2hOIiGVJLCqoeoI1CcqfUvjqoKO8A/jkFiQsoaLFWMmUI6jXzj2pP3MW+r6Sho7qfcrLdiicC",
+  "URL": "https://wiki.gnome.org/Apps/Notes",
+  "LICENSE": "GPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1594204291",
+  "PACKAGER": "Jan Alexander Steffens (heftig) <heftig@archlinux.org>",
+  "PROVIDES": [
+    "bijiben=3.36.2"
+  ],
+  "DEPENDS": [
+    "tracker",
+    "webkit2gtk",
+    "gnome-online-accounts",
+    "evolution-data-server",
+    "libhandy"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "FILENAME": "riscv64-elf-binutils-2.34-1-x86_64.pkg.tar.zst",
+  "NAME": "riscv64-elf-binutils",
+  "BASE": "riscv64-elf-binutils",
+  "VERSION": "2.34-1",
+  "DESC": "A set of programs to assemble and manipulate binary and object files for the RISCV64 (bare-metal) target",
+  "CSIZE": "1850231",
+  "ISIZE": "15028101",
+  "MD5SUM": "7041167905a90fca96e52790c6de2425",
+  "SHA256SUM": "c5823a63ff77fba6e3e3d46a069d1aed4fd4d526b5e3bca9307f0c5ffc8e9298",
+  "PGPSIG": "iQIzBAABCAAdFiEE0jW0leqs33gyftiw+JPGdIFqqV0FAl5/j70ACgkQ+JPGdIFqqV0FGQ//RLZfsQQbQHu6fZJEisbUAmxCS6wD/RM2QbmKQJPwG3HRoax62vO462MxfMgIJ0pCi+i2PbY5DvB6BMFvkjxAgSnJKY+oouhbEFArvnCZblX5fhoc/xk28VEss7wZMmlA3tUk8nU1Fxo00Kdt1UdvxoWIcqRwy9UG0C9L/+qCjoVcwfuvg34OLTNB//xZKDIRLw4db3BzmIrTMMQuU2xz31SJZIV0rlnxHq1glMofxXaWOVtnNCKybMVYURywnSIuetPcisn2dpaoNpmj6CcjwdFzxb94QojwtBHSVmNRHqR+ysSsWCZ+2Fcp9g23QRFTT/nsJJdl9T626blvPLn+ureSMofEFGfKnpGAF6iHkGSUCaPMfjolfcrDuL0jUN2fN7ubW45yc8CgNGMIJ8Nlo6VwvijCuRrWxhsgmASVet+5Ckus1r5jUwbKgzShtYRfauHKgQQ6mbMXKZ+nX+mpVq2hfwz3PxTSbKCiFuhAaq3lJKdkarXgtPKxRe7s6uo1eN/1/LAYhpQmR1xVfUBTznV8wWkzPC5oOw6kEuEyEiVIKj/HO6Pdgqc3mnQGM6RtHLU4TnYU49g3KtwrMPYqKQxRWPvPyELkkuDvCMEweI16T6WhoLAViceZo1ahAHXkbOfsc43PLlKgQdq1ha+SDi0JWtvAHWBfgALiBCPL2ho=",
+  "URL": "https://www.gnu.org/software/binutils/",
+  "LICENSE": "GPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1585417634",
+  "PACKAGER": "Filipe Laíns <lains@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "zlib"
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "FILENAME": "discover-5.19.3-1-x86_64.pkg.tar.zst",
+  "NAME": "discover",
+  "BASE": "discover",
+  "VERSION": "5.19.3-1",
+  "DESC": "KDE and Plasma resources management GUI",
+  "CSIZE": "8209286",
+  "ISIZE": "10895063",
+  "MD5SUM": "fce9e0fbd1b9d2951cf21b5543da202a",
+  "SHA256SUM": "aa3a4838d1845d570b51f6ea4e22d5af1b4c32b98660c7e6f8c393f33cf767b7",
+  "PGPSIG": "iQEzBAABCAAdFiEEFRnVq6Zb9vwrc8dWek52CV2KUuQFAl8EhPAACgkQek52CV2KUuRsRggAjqBhtrs21MQnzZm90Dxxi9au6DNizobgpu+bQv+v8M1f/AN6lK48ymH5+zMyVzKF4U0p6epfQnIlHfA1LFV6g3SqlmA4HhmKwWuRczw2HllwFxT2Pb+FXiQndbvJefKPEaaKic2TUZOmvpkyEj6yZDOtmpjxM9j0Aa5ipIBV+k0UE/94x17CWnbkGGSxV+1iz57Mndasa2Rw77HU/PK98SjAMt53dIx5WhmDOl296Hf7LOylpmBFj2oH4iZB3aoBBaCL1tI06SUsM4GEFmmpK4NtjiUIfNdzBWH5ZH+wv0KyBBWe7b6h4Ztlqwundu4NSGS0AA8dZgT54gY6r3W5+g==",
+  "URL": "https://userbase.kde.org/Discover",
+  "LICENSE": "LGPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1594129806",
+  "PACKAGER": "Antonio Rojas <arojas@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "knewstuff",
+    "kitemmodels",
+    "kdeclarative",
+    "qt5-graphicaleffects",
+    "appstream-qt",
+    "archlinux-appstream-data",
+    "hicolor-icon-theme",
+    "kirigami2",
+    "discount",
+    "kuserfeedback"
+  ]
+}

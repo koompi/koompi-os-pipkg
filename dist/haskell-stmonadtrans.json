@@ -1,0 +1,23 @@
+{
+  "FILENAME": "haskell-stmonadtrans-0.4.4-31-x86_64.pkg.tar.zst",
+  "NAME": "haskell-stmonadtrans",
+  "BASE": "haskell-stmonadtrans",
+  "VERSION": "0.4.4-31",
+  "DESC": "A monad transformer version of the ST monad",
+  "CSIZE": "52637",
+  "ISIZE": "476035",
+  "MD5SUM": "8ea68e0a1f9dd690089b9dda919d51fd",
+  "SHA256SUM": "6c2bb45143de9f6027ed2b1320bce21869faf355b40068014f99c1797ac5d8c5",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl75Fs4ACgkQeGxj8zDXy5K7iA//YeyGKc8oQuDh8yMY2jBqGp5GeeBIeSLAOY5VKwXDHv6wfFxuR/c1Oo94s61ZJxSPT5+UsbbhO4+IpZvTigSXsCUMwp6UVVg1Vwb0pEKnn7rHX6q3qvZKsXowfv3du0lvAqNbEUMnIa3DutNE5jHH+BLm9HmlyFlHRG1R4PC5uQ4gevszGTakKTnOUET5wVOhevNPYCFLcyJAVUSpwtdJCD9v8swn6NUFuCYYCgpRZALk0oshDkhwwX/c0WY1MLkZm9q05RCH13xbP1tP1ei1cPYmEeYsQHssd6cTwEUablaTDPfGiffzCUWoNVk7Ecu4EXGU50bKQ9iemvJuhJbm68n/QOGsMabOy2ZvK2LGunhPTvRAvMue0lEYdttHNfeRHugV97fdrch1Ze8RWZCHfKLYLZhcEQrKIrI4S3LgbeN4XqX6NblzzpFtMtswhM3CpYwkxECsyLqp++79xcnHfchI1ZrObEGGZg9AtgEdmf5Xdof0z/InoSGds5S6VBVvbfUskvHKrnlLftHn9gyjiWuceyAQWU/WUsWhso+8iwP6IGzS1HaA0PlOF0NEkeWBfbbjvEv3rKZPf+GUnFBcRw5hBDlnJuOsWF8AYYp2mpSovMxtn33PGX8/PER2LIM5hoP/IgubsJuX5uTABGKuqgrp/o/wRsWu6TKVZqVLF2k=",
+  "URL": "https://hackage.haskell.org/package/STMonadTrans",
+  "LICENSE": "BSD",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1593382576",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "ghc-libs"
+  ]
+}

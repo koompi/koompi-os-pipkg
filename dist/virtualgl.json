@@ -1,0 +1,28 @@
+{
+  "FILENAME": "virtualgl-2.6.3-1-x86_64.pkg.tar.zst",
+  "NAME": "virtualgl",
+  "BASE": "virtualgl",
+  "VERSION": "2.6.3-1",
+  "DESC": "Redirects 3D commands from an OpenGL application onto a server-side 3D graphics card",
+  "CSIZE": "987994",
+  "ISIZE": "4423247",
+  "MD5SUM": "aab2fd9f0905f73f12897d8f2a53475e",
+  "SHA256SUM": "0fb6bfcd187acf8f4781741b354574a0c0bb0748fe25a306b87cfaa39be3d830",
+  "PGPSIG": "iQIzBAABCAAdFiEEj8FaBklQqZ3RvRTdOeS4d+YuuRUFAl5G8x4ACgkQOeS4d+YuuRXEshAArzi9YdF9CsCGpB8rWiT67aqn/4v18oHNT2nlDhJ/88yU4PaxoPVsrWpn0hTr8VtGfffS1r2Af4XWp/gFuY2VwDj2Z3FhFvH5GtgnyNSY8kq1IbmGCpoEnARkUip5qy2rozPxTrhAUwcZqv6jb/66AuCSB2wwa2CPDw249uLhOcY6ewlWQ9EvKhxL+J0pqC/yEkEZlq6wldWrTCaiiTtO8JTUlz9hAyCiLGaYESDUQKvJ9kFXOEYN+6pEtK/YyswUYyIWJSM9Qhi2ewJAwiO2n+BocXxNkZyUq0zsks60Vuw8PFysNOLZ4NLmSXlAlaUgIXgUY90exHmDOf68TWzWUAvcVWph8kpoOFlOSsIvcZZYcKoepZPXf/AmO+0zBN39TIMPCmGotnF0M3pkxTZuWvhxPqR7a0OCAWMYYBvY5zfqGJu87wZl3US2dJWxpU3B7N4vX9u7Jx7Fi/ctyoG1s2iMPXX7dwyska2SG+jEPKZfTJtyXk9D1FizukJDnpCUkLO5KH8fhEBk/Kr3qAXICs1iwEpqCt06+P3IBoa685mxXMxGWTGU4gijkodTq3kMaG38WEQe9Hipqsqy7DsQSjTWHBJGtWkDfTAPZMKQKUobnpFh8PUn23QTb1ZeK52iVOfmearuPnsVjbHnWgGw9z42pqPMvanUZMiiRcUh7go=",
+  "URL": "https://virtualgl.org",
+  "LICENSE": "LGPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1581706409",
+  "PACKAGER": "Sven-Hendrik Haase <svenstaro@gmail.com>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "libxv",
+    "glu",
+    "libjpeg-turbo",
+    "xcb-util-keysyms",
+    "opencl-driver",
+    "ocl-icd"
+  ]
+}

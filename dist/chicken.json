@@ -1,0 +1,23 @@
+{
+  "FILENAME": "chicken-5.2.0-1-x86_64.pkg.tar.zst",
+  "NAME": "chicken",
+  "BASE": "chicken",
+  "VERSION": "5.2.0-1",
+  "DESC": "Feature rich R5RS Scheme compiler and interpreter",
+  "CSIZE": "2954912",
+  "ISIZE": "17233876",
+  "MD5SUM": "8462926b30f8b5c1cee6cdabc3ac958b",
+  "SHA256SUM": "cda4f1951f88dabd165f185c373bd3b7f9ca741a44f67607ee9eae9c4b1b890f",
+  "PGPSIG": "iQEzBAABCAAdFiEElihV8HLHoBhGQFhk/PPIy1z5yNQFAl5ijIYACgkQ/PPIy1z5yNTcywf/X7cLQDfQY8ZNVXnqR6GijF6SeINRENeZO0ac63MUXM7E7YBUg8bfOXxItbdbY7B8R9E22ovrofh+thaMDcilrZTTB8BC7Gf55+YowM20WV+EcuEW7F8SaFo/33aNIAsY/v+IsSDEb6x1MPGw7ruK2KTA+3VWnvhKYlrs20njL5GFJrPVgk9WWgvRAdSCPP8bmW1ldjpk3fwiT/R+tcKy+RUxlPj55DjqzuYjEk+8JuKLorP2xN9C1nuROQqaAhpxDtLQuBEhJ2CLu4zzjGs/yCPG+CI64+lkZ6jJE3BQus7727fmgkycoL76SRBSHiFBFztd76p1ygRdruWgNmCTog==",
+  "URL": "https://call-cc.org/",
+  "LICENSE": "BSD",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1583515100",
+  "PACKAGER": "Alexander Rødseth <rodseth@gmail.com>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    ""
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "FILENAME": "readline-8.0.004-1-x86_64.pkg.tar.zst",
+  "NAME": "readline",
+  "BASE": "readline",
+  "VERSION": "8.0.004-1",
+  "DESC": "GNU readline library",
+  "CSIZE": "317130",
+  "ISIZE": "724876",
+  "MD5SUM": "60a69010f4ca6d297ea3e62dc576b262",
+  "SHA256SUM": "3d53266f9727fdf7e94b9404b47237668d438afb9aa6ebbb1beee5a5e0b601c4",
+  "PGPSIG": "iQEzBAABCAAdFiEE82kWh9hnuBtRzgfZu+Q3cUhzKKkFAl5FploACgkQu+Q3cUhzKKmIrAf+Oe3HcCd7SvKYQwrsLgFjACVdp1RIzoAVTeA/UM95bAxCaFCJG3F6l444YIxP3DFCA8Jm7wnL172N/DU1hkPB3mF7pR1f5cOjcNgwBNhAWoNSOKiDkxZ+sb+izRGE/DpLGUSLICp41Lrj8hB/3X8dB2EHkjRtAZMK/cdf4uInzRhHrK7AZhz9dVAUbtcyClvgZHmihmC6FDonVolc1hFFjBhqvkQk+40MBHKuFi9Tp1irytxwFdnTDvfY9yz2Z9PiXJiwaSm7RXbQkVS3956cXA8e3w39utB/X6y96GqUR3CWPPxjfuTzcC7rTLQtsfMFzs9Vc+/PPwQAqxdTAhzZdg==",
+  "URL": "https://tiswww.case.edu/php/chet/readline/rltop.html",
+  "LICENSE": "GPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1581622631",
+  "PACKAGER": "Bartłomiej Piotrowski <bpiotrowski@archlinux.org>",
+  "PROVIDES": [
+    "libhistory.so=8-64",
+    "libreadline.so=8-64"
+  ],
+  "DEPENDS": [
+    "glibc",
+    "ncurses",
+    "libncursesw.so=6-64"
+  ]
+}

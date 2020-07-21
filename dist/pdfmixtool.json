@@ -1,0 +1,26 @@
+{
+  "FILENAME": "pdfmixtool-0.6-1-x86_64.pkg.tar.zst",
+  "NAME": "pdfmixtool",
+  "BASE": "pdfmixtool",
+  "VERSION": "0.6-1",
+  "DESC": "Application to split, merge, rotate and mix PDF files",
+  "CSIZE": "205986",
+  "ISIZE": "715350",
+  "MD5SUM": "d10f95446c675732194b4a61e9a401dc",
+  "SHA256SUM": "23128583ac742ea14b05e260b91ef8739c95f2f78113205e34ac77871657aab1",
+  "PGPSIG": "iQEzBAABCAAdFiEEzgvecadZqH8j8PfYth284QkBwWMFAl7OdkAACgkQth284QkBwWNTBAgAprsMeARObuJ/AoL3sdB4m5qITNk2g33AYqLw5URS9kbUdCpDMnKD3185g3jllVnAEO3YHjeYmtHbuvGkmOtshgR/+cTOMviHjpAPbJibEihcdKb15A9TY7+cBdiWbnK95sF9Ps5bBLDRPJoG9fokOcm/L3Y7XUx50OjgTH2r4LQ3mYIjibhbcGu/07mt45Oq9l1wAdqz5wrQAMg6SIrZwaF12PmPlMyy6T4FwkaPR7E/ajkAcLiMHwQ5BtfNUk2jVRA6s5LFAaUAW8iJfa6uBPYOzEDDIp3ysQYStl2H54Fw0IKsc3c1eIrbi2USBPDi+IEhrjFwmpdCrJ8+G8Cspg==",
+  "URL": "https://scarpetta.eu/pdfmixtool/",
+  "LICENSE": "GPL3",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1590588941",
+  "PACKAGER": "Balló György <ballogyor+arch@gmail.com>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "hicolor-icon-theme",
+    "podofo",
+    "qpdf",
+    "qt5-base"
+  ]
+}

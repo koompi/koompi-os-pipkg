@@ -1,0 +1,29 @@
+{
+  "FILENAME": "pypy-7.3.1-1-x86_64.pkg.tar.zst",
+  "NAME": "pypy",
+  "BASE": "pypy",
+  "VERSION": "7.3.1-1",
+  "DESC": "A Python implementation written in Python, JIT enabled",
+  "CSIZE": "20132502",
+  "ISIZE": "105382034",
+  "MD5SUM": "a5782dbb966f31752a97a880d4dfee8a",
+  "SHA256SUM": "4132146e14a97260fa7570927a8a2d9537b290859a571991dc07190de2b23c68",
+  "PGPSIG": "iQIzBAABCAAdFiEEj8FaBklQqZ3RvRTdOeS4d+YuuRUFAl6ZYloACgkQOeS4d+YuuRWkOBAAlaegeXb9mLToXeDpr/xUcLrpFWEVtFTnCxgy+jbSVl1yYGBgBelQsvOY2VplwK0NiHA50hEEOyGjDApmyacrmlIf2XC1d8aQ8mpJICMs2z7dYNGWHtCHBAEkvKEoCShAQt7Qp0h3lgWV7uynYfsNsp70UhVlFkODj2oP58UDXfOZ+RyYGuYLCQATMO+cZbePwUquh53n76vO4xK4lRkfzh9zSMC7SgBwjWzb+c5vW3Td/CEiUomXJFH7vqaIxLntbTBtgohUoDcLimVrxlVMb4ZwOhSmtLFr4zlJ8E/+wwfh+lbSvIA0ytlEmYwFlf9MOA/Bmmucf8UWaSMlvZZbOzWVTsvhtzSyQVevAb1QN+r1vIkdGj2i/bwwoogGE+0rbHMwFxigMQ40dfdEBGsJbypvvu2ZuJ765tWgiM6qeXZbrPzudiT/g7wc1Bt09+hDysG7LkerQddIw21PaDdIhl9Ht+ptpX2x71BmtgKp4Dhe0SPfL7q+IMIDmSzKduptUiwC2QRm+G3BeytxaljyCvhI9Epub8YNHLg6mUa2DN6OG+9CDU4UOUp/utxslYum1RMHIsr4O3S8h1c43/7v+nSDvXkSqq1j7H7jx8rrOJGZcA/HgYYyva4T0c8tyKx/LIiURN4JpabbfOgJvnlnj3MFzWqNsX770KhLXXL5Kfo=",
+  "URL": "https://pypy.org",
+  "LICENSE": "MIT",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1587105302",
+  "PACKAGER": "Sven-Hendrik Haase <svenstaro@gmail.com>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "expat",
+    "bzip2",
+    "gdbm",
+    "openssl",
+    "libffi",
+    "zlib",
+    "ncurses"
+  ]
+}

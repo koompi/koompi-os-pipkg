@@ -1,0 +1,23 @@
+{
+  "FILENAME": "rawdog-2.23-2-any.pkg.tar.zst",
+  "NAME": "rawdog",
+  "BASE": "rawdog",
+  "VERSION": "2.23-2",
+  "DESC": "RSS Aggregator Without Delusions Of Grandeur",
+  "CSIZE": "55668",
+  "ISIZE": "246100",
+  "MD5SUM": "b0eb678fdac2946a56a332541705f482",
+  "SHA256SUM": "280b81a93df87f047dc762c22d7a7c4b8f836e357637c96aae3d372f8086079f",
+  "PGPSIG": "iQIyBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl8Ej7MACgkQeGxj8zDXy5JtMg/4lr0qU8uVZsOMoSpPOAI0ccXVCpKWgcRO+y+25EfmiQYL48RgPE7IiCTb4vt1ZY5y0gwyB5GmQgATWy3gmlhX4XsJD+p9nRP7+PmF6906hhLeJr9878jzUp5jvN2HfqyJZUH2E2UWkMjr9uL8b/jzMQNNsYyzrhuCs6KlwMh63Jlaf+TDEr1CMWDjBaLtVNCcmtxN1GTDRjJv0Pgdv4s9kgSUt+nLcHF5Bnvh6EmsTIYi1sbpafkwQ/Z+XNUXPymnnAU+Qn4FT55ruqwxwdv0Jy9cBkJ/64DJFZz5eywD4IMuqaJlNQYtfw88O8jrHPk15tSqUL/8X8z6Fk9Z8yPZ1Ua+B5Zh61cZ8Q/2mcrv3e3gwjjxxzgaM6tZUxrY3MlF64C/aiVQcHRyzTda2l9+YdDFFMCKsi6PhGLpUJOuuPUiEQOxzoFZ4QPtnvBswj9urhdlLBz/8gO9pzqnz4OmL0Us7ill6Ec6OZ127CPv9FgfSz2epRFDtgepxFuJWMEzI/es4IkgLC11XCu+pdXisqZkRRWS4fPTO1LEArrPZamRkjFUxZeN5PVbW+2psiS2+8sk+/E4iflAduiiESRD0GCTz9IXIG1faYfvZYTtyDO8JUmydhju08l0knETIOuvKh9tstKAYGmHJyoKp/nEpex0e3PDF1t7WbaMo7kBlg==",
+  "URL": "https://offog.org/code/rawdog.html",
+  "LICENSE": "GPL",
+  "ARCH": "any",
+  "BUILDDATE": "1594134435",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "python2-feedparser"
+  ]
+}

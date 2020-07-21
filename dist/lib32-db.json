@@ -1,0 +1,24 @@
+{
+  "FILENAME": "lib32-db-5.3.28-4-x86_64.pkg.tar.xz",
+  "NAME": "lib32-db",
+  "BASE": "lib32-db",
+  "VERSION": "5.3.28-4",
+  "DESC": "The Berkeley DB embedded database system",
+  "CSIZE": "863228",
+  "ISIZE": "4251648",
+  "MD5SUM": "3edf0319b573c53ea6c0241e81fe097b",
+  "SHA256SUM": "6217dac770699494ac76ec02f547f4ed874c6fd3e5aa87f197266c93c70669d6",
+  "PGPSIG": "iQEzBAABCAAdFiEElDfdOBWnqRaePTlGr/XZUJi8b/UFAlsTujMACgkQr/XZUJi8b/Vwrwf+M3ErocogpAAx2OkLjcG/SnHw6aHmzmsADW8ji2J6UJVtfE7tJ4y/TkDfvdR4caRpPPdFHY9kl3Lc/wpE4uAylzxgFnS+7bolb6wCaMPQwsDWhFNt+sRk/f1X6sdZT1HosnNBKox7l6xvXEswCOil27XeF5U2MKILIMlFTMCp77kTXvqSXgjrYcTvpLrxa++hOb2bbWaht28/5UnAHrJ51lkW8DAYr2yq8so6DADfhaaZu533L+p3Z73ZPunG8bzyQBuniJu+pIOfCR+gplntlwsgQKckVTe7CHBf9Cfeo8rc26nZiyaf4/kckbzWPmAN0jZ8fOrLcXahJjOuNIfQ3A==",
+  "URL": "http://www.oracle.com/technology/software/products/berkeley-db/index.html",
+  "LICENSE": "custom",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1528019418",
+  "PACKAGER": "Maxime Gauduin <alucryd@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "db=5.3.28",
+    "lib32-gcc-libs"
+  ]
+}

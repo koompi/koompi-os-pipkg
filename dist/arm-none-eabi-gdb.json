@@ -1,0 +1,29 @@
+{
+  "FILENAME": "arm-none-eabi-gdb-9.2-1-x86_64.pkg.tar.zst",
+  "NAME": "arm-none-eabi-gdb",
+  "BASE": "arm-none-eabi-gdb",
+  "VERSION": "9.2-1",
+  "DESC": "The GNU Debugger for the ARM EABI (bare-metal) target",
+  "CSIZE": "2857477",
+  "ISIZE": "7776631",
+  "MD5SUM": "4bd3593f3204f36e36f01c77cd051323",
+  "SHA256SUM": "98687552f64c4ed00416ebc6b87c133a05720b9bae28257723186701a40d13d8",
+  "PGPSIG": "iQIzBAABCAAdFiEEjhmSFnRl21+wRVV8sChU7XU+Dx8FAl7QbiEACgkQsChU7XU+Dx9ilQ//cZeYQs5XD9jlHRoQNNyM4YO0iYcUx9hY60/kaPVXB0Mbtxu/EqL+OU3f5S9LymG/BFtIGJTRcZQ0xW/D2SZhuy64eGarp6FJ1MUHLDayQtOHFluHMZED3qhmYRQFOcB+xzzI6Vg8SoBGegUoOwnc5+jlDf9zuwU7+qm7c1mIfqsHTbTPd/R43njJzA1+UN2oRyKjVhMCVYZD3ywHiTCW8c+WGC08HnLrHs2vGSwXlgmsxjgyMZG0H30ZDNP91wElJogetqg0hHJ/D0acP7mIBUWMEvB8peMr3si/ypOlDwsXCANpLrqMonjgfPe1Qu4JOBukmgURQGiOn1Qq7uJ6kJsd49Wdlg636u6Gq37X4HDaOGBVieBNr2viIZQsx+rUpgXWEB3M4BlbYP1tjC3Epqa1uApHpTPbmru6XwwkdEiIfoZRPwyZe73M0SsbZdM/ri4Bj8BUBaTSKF4/WuGZileysnhKmt8cyI47Bz5ATNKYPyi8Xl76V4yoY4WU38+AeTbY8GjYfWgNNae5U/bCbdta0o+6mFOVlkNDNOU7he51Mj7y3rG6AESLNmoheYlOPbn8UFnTOJ1JsBE7xv7v3iabP6G9v/6/Vixq2SSllu1BG3bxydUqNa9lpuMrF60mPWT7l9QXZBNEBVnPIecoz7ZTeJzGgdGkBrTxiA/A2io=",
+  "URL": "https://www.gnu.org/software/gdb/",
+  "LICENSE": "GPL3",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1590717855",
+  "PACKAGER": "Anatol Pomozov <anatol.pomozov@gmail.com>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "xz",
+    "ncurses",
+    "expat",
+    "python",
+    "guile2.0",
+    "gdb-common",
+    "mpfr"
+  ]
+}

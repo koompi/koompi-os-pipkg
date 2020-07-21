@@ -1,0 +1,23 @@
+{
+  "FILENAME": "xarchiver-gtk2-0.5.4.15-1-x86_64.pkg.tar.zst",
+  "NAME": "xarchiver-gtk2",
+  "BASE": "xarchiver",
+  "VERSION": "0.5.4.15-1",
+  "DESC": "GTK+ frontend to various command line archivers (GTK+ 2 version)",
+  "CSIZE": "517297",
+  "ISIZE": "1543657",
+  "MD5SUM": "6674e7da202471d1880c0140280e6335",
+  "SHA256SUM": "a6cf1f284f75e1b17f0d83564e2dd5652a3ee50d4f4d4e45512749e0edf2125d",
+  "PGPSIG": "iQEzBAABCAAdFiEEzgvecadZqH8j8PfYth284QkBwWMFAl8I1TsACgkQth284QkBwWNYgAf8CjBpRm8R5F8fXQkFibcUwfQcXmCbnlutXDQKFejwvccVJxCRKMyX8augcfd1JMcwaN9ewGVBDVMWAwEYmdV1vrNf1gjjUtSJF/Uh88ZemUXVId/SNTZGEp5R3YiwlOrETgG1dM9/aAH3OgaiyKGjK8iCCNkCySDbDFZgoPgsD8zsoky9JgEJllAIbYHtIblhwdXPF1+N6RxKDF113bRKowxt3Rh78i2E/M6ihfsQlV5dZcqy9LhxMhKJcXN+5DRdJhVJeWqpOiQUgsWyYV3LTt6w/2W/N85A2AJMT1XTV3isNrBYW7fixuIs5tv4OugkU2Se1NYVMmWSiAoJWUxbiQ==",
+  "URL": "https://github.com/ib/xarchiver",
+  "LICENSE": "GPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1594414288",
+  "PACKAGER": "Balló György <ballogyor+arch@gmail.com>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "gtk2"
+  ]
+}

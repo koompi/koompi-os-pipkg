@@ -1,0 +1,23 @@
+{
+  "FILENAME": "lxqt-themes-0.15.0-1-any.pkg.tar.zst",
+  "NAME": "lxqt-themes",
+  "BASE": "lxqt-themes",
+  "VERSION": "0.15.0-1",
+  "DESC": "LXQt themes, graphics and icons.",
+  "CSIZE": "3218452",
+  "ISIZE": "3767503",
+  "MD5SUM": "f2e6a2cae3703c3eaa4845c46b2a452a",
+  "SHA256SUM": "237e0f596b8ee4ad382422faeb9f93acefb27cdb453ca095f5881156b3beba57",
+  "PGPSIG": "iHUEABEIAB0WIQS5AcQXHI3QLG8vSWv5jvKnsKCYrgUCXqOnmAAKCRD5jvKnsKCYrkcaAQCjZAz5ujEy1uvbCIjc4VMs+d2EKTVnc33KAhmEcFp/GQD9GvG+F39f7cPg/TFs08I5V/IZwdFkRg7fsa4Z0G+emnI=",
+  "URL": "https://lxqt.org",
+  "LICENSE": "LGPL2.1",
+  "ARCH": "any",
+  "BUILDDATE": "1587783531",
+  "PACKAGER": "Chih-Hsuan Yen <yan12125@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "hicolor-icon-theme"
+  ]
+}

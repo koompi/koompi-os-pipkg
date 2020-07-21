@@ -1,0 +1,23 @@
+{
+  "FILENAME": "emacs-python-mode-6.2.3-2-any.pkg.tar.zst",
+  "NAME": "emacs-python-mode",
+  "BASE": "emacs-python-mode",
+  "VERSION": "6.2.3-2",
+  "DESC": "Python mode for Emacs",
+  "CSIZE": "124507",
+  "ISIZE": "989347",
+  "MD5SUM": "13306e441a0662cfb92f181ec9f0f322",
+  "SHA256SUM": "a3610aa0fccafbe5071bfc1946add357bcb841fdf1749dbafe9d96312fea19b1",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl7LxuUACgkQeGxj8zDXy5JABA/9EgM74fYEBrL8saX74NAzXzktAfXPAawZ/1sLrzNCDJiy9xPH6IWCehjsi/VRV53kYbyYXK343hnXhGd27orWZHNsBdeFKlGIHMDTkkRdvGu2saXvvrICrcKB3HREHQdJweYXhnI8SVDgox+KgajayHudka8W7G4RoIFSScy8GiYsors1ee45okgFpBSAXapB/nYIeps6POyqOyKpGvnrxnPmZJkr84Sk2dPY8UN+8SX8M9n/u9beqVE0LX8aRxupfslSKZRb7PL89G8ceHdD5EU4Z4WW9oHlRvyxGtuZrRhkb744LcR4p/zM1P/FiTtT3fFnTl3OLjQZkQS+1faRQWjDIowk9bXpxTvhOlkzibNZVPebUOfgMf/bkuM4s/Ooyq6V5MApNZcThCfEvwtM3aNm+sw80YPvOb1aQ01aF9Ezizu0NoJ8pLdOGG+ggoAP+GPl0IlhgwrBS/tZc0X6WhzK/hLjMkyVKLX4UpxnKPkvY3z9LwiX4kDbf0KnvpGjxjGzlVZ3a5flvuJpoYzeuxZEdnpsZ+3ZvK891yY/s/pemVpxFqiejpSRTGsOgnxqDRlYPUTiDjR6uo/4tRLcEfiTHukmfSMZnMQN+ozxGBvonS9tuEmSNqkKkFtVq4R6z/HEFvfqrFGUV3YfSgEgTwe1qrrqfd59MvBdSgWI1ns=",
+  "URL": "https://launchpad.net/python-mode",
+  "LICENSE": "GPL",
+  "ARCH": "any",
+  "BUILDDATE": "1590412957",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "emacs"
+  ]
+}

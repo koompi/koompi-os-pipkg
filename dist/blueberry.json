@@ -1,0 +1,29 @@
+{
+  "FILENAME": "blueberry-1.3.9-1-any.pkg.tar.zst",
+  "NAME": "blueberry",
+  "BASE": "blueberry",
+  "VERSION": "1.3.9-1",
+  "DESC": "Bluetooth configuration tool",
+  "CSIZE": "1245030",
+  "ISIZE": "1792863",
+  "MD5SUM": "9820869f1d7f90094a2262a59e944a7f",
+  "SHA256SUM": "2d4b08d40a0a9a8ccff87ae16a58b5b2a0d3976928cedd7489b571dd99930fb5",
+  "PGPSIG": "iQEzBAABCAAdFiEEzgvecadZqH8j8PfYth284QkBwWMFAl8Iz5UACgkQth284QkBwWNeOQf9HP7RP77E1VLMASTD+XzuHZW6TJ4KGwa2+0EqdMdxkoR9daRd+E8ydZFZo83Btu5O6i1A2kWvhHkVWkrlMwV2T6hxYTgViPS4TgdvtVV4yUrNNfj99wFYZEXvaI2uMnlbxi5cDDATqM1kWU+oh7D/RWaIdeaoTrPQ013ER6NO5R5NDLN0cta6rJP/V1v1/yp8zc9xe6JfZ3BiO5MRDvIJcR0HujL2fdiyklGQnz5Fgk1baP3L8O2EDNyWjT/9i1rcPEPWd8GuZw9Qv6aHXLZznHuZM8+qe2nPkpqR5M39fpFW9bgGgUxZIlCXFuTpREFBULSAk5Zxr0Pf5lGtg03SbQ==",
+  "URL": "https://github.com/linuxmint/blueberry",
+  "LICENSE": "GPL",
+  "ARCH": "any",
+  "BUILDDATE": "1594412898",
+  "PACKAGER": "Balló György <ballogyor+arch@gmail.com>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "bluez-tools",
+    "gnome-bluetooth",
+    "python-dbus",
+    "python-gobject",
+    "python-setproctitle",
+    "rfkill",
+    "xapps"
+  ]
+}

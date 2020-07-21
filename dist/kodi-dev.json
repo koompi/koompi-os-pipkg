@@ -1,0 +1,23 @@
+{
+  "FILENAME": "kodi-dev-18.7.1-4-x86_64.pkg.tar.zst",
+  "NAME": "kodi-dev",
+  "BASE": "kodi",
+  "VERSION": "18.7.1-4",
+  "DESC": "Kodi dev files",
+  "CSIZE": "149872",
+  "ISIZE": "973404",
+  "MD5SUM": "3b79fdc91f4e8a7d277d8f99d3ebb048",
+  "SHA256SUM": "ad07239a0a9c7656307fccdb33a6b8f5e8c7176e774aa10b66fdfc8757011772",
+  "PGPSIG": "iQIzBAABCAAdFiEE2yJ3vNUAqjglYQvd2zIzknlsoGcFAl8EZzEACgkQ2zIzknlsoGcM2g/9H1/zxdB/ZrHJxRiMJblobi2fUYlKVsQoBz8ap4qVEzBE/ly58AJW6K8KZFsIrVF8eO7TknnibyQCB7p58OEi/xKvhoV5Jg/uDZ3M/gwAHWNxIeDqx4foaBVms2YxctPuzUSaktBfThVlD6hZWtRQbiy+CWHunZMNOGi9+332FFYS3/YgCvvj/oxuC+l6gTyvgnFv5NkoPZKWKQpqVM1q7Gv4gLgVcOyR2ZsNNsOKA4nKtdqgIn/2AAAtiSmsTE8GvRd/GHbLNt3Ms5dyi8ndttviUu8CqT23vYjG4YgxYCV09M6fvWR22PMwjqxMXunOeFR56KcQLqsGXw44q+XwvqZEej7huljOuTygX/vHxHppapVLqM+zTqTkvLz+/RAzPNtLjYeHdhY9b5FYmZPmhkKtfaaLFwKOvw8O9srXcUaMHJAWfYZjz50CcgurwZoHBJnbEb6l2HqLVqI0rzP9qYLaHbK1NInKGMNGXuCxDHj/WW0J6hu1DjQH1f81j5i7G6mJUUfN2HEeX6ScCj1rBQ7zPDDCvLPeCFL0bw5u2xYAfYK3UqhNno3EM1pKz2c3HreeHJn4SgONogR22KpZyKQ5c9MucnLP+qudsO5jkMmZfcpYgiggN8UyzxjfLv/JQ/7Z9HNaoRZ6DDyogoSoFogjMP7ybfBNmkHJEZ1nq5Y=",
+  "URL": "https://kodi.tv",
+  "LICENSE": "GPL2",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1594118601",
+  "PACKAGER": "BlackEagle <ike.devolder@gmail.com>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "kodi"
+  ]
+}

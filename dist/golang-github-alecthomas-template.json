@@ -1,0 +1,23 @@
+{
+  "FILENAME": "golang-github-alecthomas-template-0.0.20160405-2-any.pkg.tar.zst",
+  "NAME": "golang-github-alecthomas-template",
+  "BASE": "golang-github-alecthomas-template",
+  "VERSION": "0.0.20160405-2",
+  "DESC": "Fork of Go's text/template adding newline elision",
+  "CSIZE": "52840",
+  "ISIZE": "200402",
+  "MD5SUM": "d3c2542697cd592073227a7f24f80b2f",
+  "SHA256SUM": "952e9e262a999f96ceeec08f20a23a6851625ee23afd4d74b0f00bcc1d7408f7",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl71oQIACgkQeGxj8zDXy5K6yRAAk8SmMghBG0nOxaLZFFrOjCkOGmBLQ3IdO0A4Jl+v1JoSpTEKqXcz/DbcVdfBU3MxsfZ25c7wY0fMDrcOtWozCz29OneVUIjLvto7TfZhzMFIHjHvwnwfNuE0l/lBnP7RvxwoV3xtJ10bg6irh5/vfDrFPmZ6p8rJ755xWXRhYvOcR0mmnypKAn5QsnrbZTeEc98R6rm/uL0qoxDzG4u0/YVOhS/tQjt7tmQSC4h+kNUa+s8Muj5r/ojxbxF/t9s/MuCf3qsYToJCacvXFZGP/RaocPuTYs8M4JcQiM1vO9ye9t53eFi/cA5rpOvJ18w+TegPpqBCLm4S37/3x6LYCr9ThS3Eit51WbnhDrjAxN+fYD9bWC/8sqq4cpbnZbCfgDvm6343kANcDB8gXECyCBurFbiZh5a6PVYr6R+2kIjnYzwqQYNaB8w1kTuuoFD4xVWMknZdar/Ydtdmas+SIZyTMlaDAZuqXM5yIRpXuTDKRiTuRX68n/gyiQv7L4lkFN6Pl8LSHHXNtQa1eiG/Kkl4ujAaf+u1LG55NrlX0tXRMfWC/yIEAVkEQLI8nqwvo/jGyi5IUWFRG79pOC1+X9zq/S8dhnU1cWUyJ00bgf02YZzulCg8+rtLV29GT6XFUMWic3v22JzwYPZeYgTIIyFf7oKHjQQoRN1zC8BTMj8=",
+  "URL": "https://github.com/alecthomas/template",
+  "LICENSE": "BSD",
+  "ARCH": "any",
+  "BUILDDATE": "1593155816",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "go"
+  ]
+}

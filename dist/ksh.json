@@ -1,0 +1,23 @@
+{
+  "FILENAME": "ksh-2020.0.0-2-x86_64.pkg.tar.zst",
+  "NAME": "ksh",
+  "BASE": "ksh",
+  "VERSION": "2020.0.0-2",
+  "DESC": "The Original AT&T Korn Shell",
+  "CSIZE": "737488",
+  "ISIZE": "2638352",
+  "MD5SUM": "4663c2e0d9709b11883614d59477b7ae",
+  "SHA256SUM": "c39c0154e2846f21108ee524efcdcdb5adfa2f65904912c008caf82cc2fa45d9",
+  "PGPSIG": "iQIzBAABCgAdFiEEYEETBMCdNmKDQO7/zrFn77VyK9YFAl49wGAACgkQzrFn77VyK9ZAFxAAlUXhOhhVNhg/tqmqShtfavW/NcWoOTYoC1hYnEBQuigwRZSgiBBLOn4nfrZm+ZiQmrUP+L4fjtM3/Z8uXYhMpjRE0KOZpU+kBTHGV87X8zjqJcTKrZiYvGeFMqcEmrYV/+LhuIc61jTKAlHOc8xCnBLe7sySwC5cORqWErM5Ks/C737EAm8iStif1P/hCR5uxfGDaQkyPdAZBSeVEe0Kn2Sn/Zs7ATww5gFir20dWR4mvP9PeUeAF+MwBFc3lHSAr+ocZ9mSlc1X/HXVrR+mYn9OCoLH3d1r6QKcPSnDcRyMmonSCc4DJHGw05AxmIIIOHKV2k/dZVXTer8EKthKLsUFVCLL2FytdIBHdisMnyFfbyrY0iK4ViRYmaSZOyiuzy9bgI5Q8sNZQRYDMGqGY1Imt+84M4VYXBqkj8eXrC+JoR442m68eiK+1EuSpEx+f+Vf1Z1ddkNKHqqOzR2AUQCJAjBZb1kMc/RSNZtCi+LzXtb8M2HcM/hCpAnZNL0hVW1iygHOpxOTi2uvypI1Sd56+jwILB5QEXnmBmal2iOHrGz0xgJ/zKie0WzZa1IZ/BnrhvUXUvsh3tVcLM4Geyjhs6rerJqtK8Kbs01bv9ewy0QmwTuNexad+7ysK3CppNw+H6LUHIN+XyJpCQH1o9QXEgF7cQkwp89tYR1cYTo=",
+  "URL": "http://kornshell.org/",
+  "LICENSE": "EPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1581096764",
+  "PACKAGER": "Eli Schwartz <eschwartz@archlinux.org>",
+  "PROVIDES": [
+    "ksh93"
+  ],
+  "DEPENDS": [
+    ""
+  ]
+}

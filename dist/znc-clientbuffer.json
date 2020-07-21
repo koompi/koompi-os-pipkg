@@ -1,0 +1,23 @@
+{
+  "FILENAME": "znc-clientbuffer-1.0.48-1-x86_64.pkg.tar.zst",
+  "NAME": "znc-clientbuffer",
+  "BASE": "znc-clientbuffer",
+  "VERSION": "1.0.48-1",
+  "DESC": "ZNC module for client specific buffers",
+  "CSIZE": "19492",
+  "ISIZE": "55072",
+  "MD5SUM": "f602514be4fa237e9c84a3246af3b9c7",
+  "SHA256SUM": "ebb049067bdcaac650bf6c9629edd252772c79a23b57ba59a0c8b7053db19883",
+  "PGPSIG": "iQIzBAABCAAdFiEE0jW0leqs33gyftiw+JPGdIFqqV0FAl6jB7cACgkQ+JPGdIFqqV3f9Q/9Gh36i/6u8KYtKqHgis0jsqxk6v0YPMdMr1DymVjO0ushKlIMvmG+j3YX5lZx8LOrr8j62WJYLzNT0qCK7GPh99s7ND/QP1oyrpNpIm7D7yvUL9r8FeN4vt5KXhaVF+BQLm/panG6Wq7lSeErEx4kGc8nxKUvZ+MbCRlLkqHOeYJa6CYDHEmD+yXOaK0+Zv6aF8kXEiK5pH1OeW2jM0NLztYGxzKHALkA3qk3Lr0K4AG7kYc2D/1pevufXec6IQgLzcSdJDrH18MB7MIBfQL2w6v7ohbKYvwX8G0DdlwdjsZrJ8CD/cKzMFq+LpPD5N6JqYgRqzRJ+/9mICEAJPAq+Ntg0zfGfXhjHyNgdepbnwuj5yvBJS06oI47+3m+p+EwXcJkEqnnV3tbJE1JaGgGuXBT1ZCh1qYpKAamOI+2WqsmNM3+5ihc+AUQvluNJ31SaowWevI+arPQySo2pUscSh2Fnl9i72Ceu/esfqj6QBdD9/ZO9osS7ALiasFB/EC9RYfQKWUSwDOtd12HMHH1p3cTeTF+B9j0ghQv0Dr+1P9gxQHT2mVAVWPNT8DrWldJYFOlbr/80Auszk6wMqlnpGv1PsprH7/g1S07tfr23gmwZBXgp05pHPy452XQ/AQEu6efhzZTKP8d/PUkdBHf2tnwK3Wp1VG3wLkTDluCV7E=",
+  "URL": "https://github.com/CyberShadow/znc-clientbuffer",
+  "LICENSE": "Apache",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1587742579",
+  "PACKAGER": "Filipe Laíns <lains@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "znc"
+  ]
+}

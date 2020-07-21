@@ -1,0 +1,23 @@
+{
+  "FILENAME": "keditbookmarks-20.04.3-1-x86_64.pkg.tar.zst",
+  "NAME": "keditbookmarks",
+  "BASE": "keditbookmarks",
+  "VERSION": "20.04.3-1",
+  "DESC": "Bookmark Organizer and Editor",
+  "CSIZE": "310369",
+  "ISIZE": "1169166",
+  "MD5SUM": "fcbbf18e17c874ef4fc00e2c7a3e83c5",
+  "SHA256SUM": "cf3c895016dc470ab668639e6ba0091dda1123c283c4be584afa98d3d0964d21",
+  "PGPSIG": "iQEzBAABCAAdFiEEFRnVq6Zb9vwrc8dWek52CV2KUuQFAl8HIYYACgkQek52CV2KUuSWyggAmz2J93ojP+J/PgQ/LssY5ZrJ17kTt6nfy3vtrTKDdB56WijL3Wy2cpwScOtbFqHSUwojbOQdWIWbOSvuXXxnsQFCmDsZd178tqWMk6VbVc98qWDy3x4rr/QE4IbEfcgiqY+SslpnR4yG65QJhAtoa572e5Rv0Xp6iilFi4gpXfaDyHy/FxF5irHrcCHdlOvxwxC+KvZD9XteVS3GKe9DQZ77VRI6bXlCR/BKNdn5g8DN2s90foTPP7b9PAUnSjm7Cb/LdE0zYC6DvVoGHHsO9MOPjWG9vhYL+1HY0cElgRUfrWo1jqQKyHmdti5zqDD7woioqwp7878+2wAkhNPEpA==",
+  "URL": "https://www.kde.org/",
+  "LICENSE": "LGPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1594114512",
+  "PACKAGER": "Antonio Rojas <arojas@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "kparts"
+  ]
+}

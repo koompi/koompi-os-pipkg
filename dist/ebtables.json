@@ -1,0 +1,25 @@
+{
+  "FILENAME": "ebtables-2.0.10_4-8-x86_64.pkg.tar.zst",
+  "NAME": "ebtables",
+  "BASE": "ebtables",
+  "VERSION": "2.0.10_4-8",
+  "DESC": "Ethernet bridge filtering utilities",
+  "CSIZE": "80562",
+  "ISIZE": "423029",
+  "MD5SUM": "b3d043e5e20280970982878d630bd27b",
+  "SHA256SUM": "88b15ef56ecf9ef665cd96c6e6da573cfd0686cb802d3e9c7db5c4074eaf4695",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl6/1bwACgkQeGxj8zDXy5K7HBAAqdPhFk7/5EfMi9k+TqcYzoBeYD9+zG9Hl449B+I+X/js6aWKKv4PPHjgwa54gHhFrL/t7qxFZEgB03/z897pHeXgRCOfuRxMoobasJfyROOiSpgu29gFRP8Pt+N11E1ldf8LNsmzTHwBr3ryW/sQNlfo8b35fua9fRPYTh5b+++DunR3UTldfgiQqS8Nm7L/coqwjF24WkUuEV2JzizXCAH0vKzHbUB79woxWLAVxXr6YYw0hoFdE4OyOmQawSRV/ZMmuNO8PX4aZLHtlLy4Wdc7GCl6k3tBQq2rT4m6uJCxu5N8EqzlrNwx5znYkJl5y+tS+xcKFCqABICEPKZA2aXdMcFMc8TgNRzHovpJPmquBcEaQOIqIgb9lAoUrIlT3N97akkaMQ4P+3dFkhuPBJD6dwh2irI1sjEcuLNltPHumB5f+pB8iOdQkWjE7FxW9qctQYBt/7dlldFTv3iV/vb5kEgFXexS2KZPcQgsfTWnHg5Z1N/O3AQRSmLd0tPvZO1glBem7uYybumhVg6yXTy8ZURw8g4LzXJN5MBSJ8yFIljho4y8/RUq/7gpZzb8zgNecCHLxChq1/GqaUPXDfSMFHSh/AGDecQUGdn78g3b9bWj2bmfglqHunF/+8edaWI48LG6j1vBBcJF7FobxCnHAY9pHfuD+dleohnaoRM=",
+  "URL": "http://ebtables.sourceforge.net/",
+  "LICENSE": "GPL2",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1589630377",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "perl",
+    "bash",
+    "iptables"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "FILENAME": "libsvm-3.24-2-x86_64.pkg.tar.xz",
+  "NAME": "libsvm",
+  "BASE": "libsvm",
+  "VERSION": "3.24-2",
+  "DESC": "A library for Support Vector Machines classification (includes binaries and bindings for python and java)",
+  "CSIZE": "126192",
+  "ISIZE": "408605",
+  "MD5SUM": "94906f509cc821fd18d85bfd3f151101",
+  "SHA256SUM": "372bb7b667b469ef431ea30a3540f3e3a60072476a8e789f870ef6f5717929e6",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl2/7vQACgkQeGxj8zDXy5LoYw/+IXZQlAxN6wh41YsCxKBK497G/Sh6TOzL20LfJ13b9pbTK6Ad+0n2i/afLjcBpXeyzNvcRjJnIoxk1ZbQxwvrKwZyztkMkawFYDpNKRKSJhLfqd2N303E6kC5eI3H4eYGyrNyb4YCooce+nkqevmbCycI7cyQQ/n8P63STPKww54kJO4itwEnXNMs5wtM6hrAR56cay4DKP77uPelELp8qQniBjDugLuxiENNI3s41GfDQ2rowKb5aV0K6jDz6G4SuC0va3zWALBIQQg8SX/MJxRnFHokAq1FLiBc3+2r0sl1HwKsyfHc7e9ykkQN7HcBx/eoF/tNq3JLhwOiTVABg7g3UuyuF7tk6GMWmtUZE0j/7EJPgxHX9YJPNIx2/tw4z4LWti3Dk5dCFCHlTcrIE9JR50a0jlLJAPEvEi0dKK08lco1pJ5tmgjN3QEkkybqT8GLKGOGU7T/eVUPVafmsOjBQ/Vk553HNwvrFC86sWzWA12M03JxXmhJpfvqONi5K7T0faDkyYSPVew9xBamWYzRjsFOvAznJBylNZcjGcnUsMWU3d+/qG+NM3l5c2HGQykwUfswdpWd+svcgExXXOmqDKpadUs4cvHIDRqgYEywbmrADJI1MVRgIJa+wIzdpGZUoUeo8ucXJQwGtuo2ac9OSAigC51nbWj/EmlPnLQ=",
+  "URL": "https://www.csie.ntu.edu.tw/~cjlin/libsvm/",
+  "LICENSE": "BSD",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1572859563",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "gcc-libs"
+  ]
+}

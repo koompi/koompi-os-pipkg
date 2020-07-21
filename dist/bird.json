@@ -1,0 +1,26 @@
+{
+  "FILENAME": "bird-2.0.7-2-x86_64.pkg.tar.zst",
+  "NAME": "bird",
+  "BASE": "bird",
+  "VERSION": "2.0.7-2",
+  "DESC": "RIP, OSPF, BGP, MPLS, BFD, Babbel routing daemon",
+  "CSIZE": "387101",
+  "ISIZE": "1013945",
+  "MD5SUM": "d56e62c4b54389901c9f9d9719eed30e",
+  "SHA256SUM": "76c34fe7c87c0b8765c8529e1825b3d28970a2ae632e79b977360412e75e087c",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl7DrawACgkQeGxj8zDXy5IGfQ/+KRgVUf6sjPzgmYk4wK4+wWdXDpahtpZgvZZTRpKPbUijR8O5Vz1t8sIXG5XFz6YQkjQeDrSNe7+qv08q5utqwZBwqIr7fAk3yLEqKVJipHdm8EHzzG/gnnlYlFfDUZeR4m+Yv8UuyjIhV08lTCQ2d9JKNr8Mxw6I3to2z/kHYa7+yYz5fKQtJmOLg4LO9Wy0QuVN4SX3jcrWqnonPUTcRw+mgKHBUeIWbPIaGjqtVSZ8W+rQ2C3qmllGy2wMKhXs2TTP95RsQ/3i3ZE+ujhxzyuSojGKfYEPm6UF+ST5PuYa1/GPWiEiXk6vYIu3/9QXTZfv9ZHF4MSUtizo8JmRmmqDKHZubVf0z4fXeNo6BTyLDFXfp7aqTqP9OKf4sg7RZUHhUO4jUM4tSEblHj9Xgwn8wkSfAVga3T0JfH3mNNA8wXPcHGUrM19IZnfOC714BOjfsQ2FFj1TeTh+LBrQFIsOLV/Bi1GbcDD5JOauy4L6stvfztFRurvoGMuLHNYFB3Et18jUBFWqFdkuIeWyn6DFsWAFZewWdI12R50z29gDdwFGq3oUCXbGMMs+2mX5fr/Swtj+AZkzc9XJjNMY5Rh/R7pwSY/CGv0UsIxK+1t9SEAZ6ONTWV6gQKBHdP0IGN4Gs3cbBP/WXsPd1j+99LIY/qhc0wpRctOar7K11VE=",
+  "URL": "https://bird.network.cz/",
+  "LICENSE": "GPL2",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1589882253",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "glibc",
+    "readline",
+    "ncurses",
+    "libssh"
+  ]
+}

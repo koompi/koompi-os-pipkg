@@ -1,0 +1,25 @@
+{
+  "FILENAME": "r128-dri-7.11.2-10-x86_64.pkg.tar.xz",
+  "NAME": "r128-dri",
+  "BASE": "mesa-dri1",
+  "VERSION": "7.11.2-10",
+  "DESC": "Mesa DRI drivers for ATI Rage128",
+  "CSIZE": "922728",
+  "ISIZE": "3527680",
+  "MD5SUM": "6a76f6eb7da4385ca281cf13c89a2433",
+  "SHA256SUM": "65fb63bc0fd38211edb10dcce220518d5674168c6af19d4368629944e99e6f29",
+  "PGPSIG": "iQEzBAABCAAdFiEEFRnVq6Zb9vwrc8dWek52CV2KUuQFAlsbA4sACgkQek52CV2KUuS+NAf/Wc6lQYpBYFOTmuawYOz0WQ5riUZH3NjsA2sYK5IpcCykWnVFkoJLHmlyCzbnlJg4GgZse9vArkOixP2q0CQntHfwMgDSA+GD67DkgXwDNU4nqxu3JQBk2FkUR9bxUA9ub1uaQixZfu6s43QzECNQVG7RqYxXsGK4QZ3Kc/wU/+KERVzS8JI9bbJhO3wyZocvWlCrdTZ9ABZ6q+kpkb/QgRZrkvjzIm5B2Z1P/JNc8xNAhWvtY38Qwv4noRcfdkyl8QZsUegOG24BGzk1VnDepgEo7X8KBheS4C0TIXNFyRzmIHm9QLAN4SEqJ4pkQXQ++kJL6/3RI1YcQn2QRoWPCA==",
+  "URL": "http://mesa3d.sourceforge.net",
+  "LICENSE": "custom",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1528496842",
+  "PACKAGER": "Antonio Rojas <arojas@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "expat",
+    "libdrm",
+    "gcc-libs"
+  ]
+}

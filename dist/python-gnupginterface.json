@@ -1,0 +1,24 @@
+{
+  "FILENAME": "python-gnupginterface-0.3.2-8-x86_64.pkg.tar.xz",
+  "NAME": "python-gnupginterface",
+  "BASE": "python-gnupginterface",
+  "VERSION": "0.3.2-8",
+  "DESC": "A Python interface to GNU Privacy Guard (GnuPG).",
+  "CSIZE": "9028",
+  "ISIZE": "22592",
+  "MD5SUM": "bb71bf63e6774cb8224598d6ea1f4baf",
+  "SHA256SUM": "5a369bac521862d64d57c53f6c6e5d6ad1b5f9217d48e944c1a7044c2f7f8e04",
+  "PGPSIG": "iQEzBAABCAAdFiEEhs/8qRjPOvRxR1iAUeixSKmZnDQFAl3Ib6IACgkQUeixSKmZnDQhogf/TGERrDsT4f9A/lPY2ikMQr+YG3h9sNGdTWcEENrKNwt7IXumNszhSGlK7NzZ+G/yIXt8E5E8kYZ+58Nt8Lm4LQEkQRbHFJhnv4oSm4pswWPp86IJg9NrLRLP+adzA2csDHlJUR/24jN0EttdRPIILkKgjf7EPfru6bbLJRMb5rB4wC9r2qqC2n8v8AHPPeNq5ETQ+X9ocBy+e5uLcE1phF+2z8HXWdVkEWEDzBzX/cJEuwsgYzqhbZ7UiZUSHvPBoHAk2N/gzpPylVRz9x6GkJGx8r/tX3uB5IoYVTpWyLZEi3YmtjuY6QNfAD/8Ak7ySkv99LqvW8xrBniUC+cnaA==",
+  "URL": "http://py-gnupg.sourceforge.net/",
+  "LICENSE": "GPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1573416847",
+  "PACKAGER": "Evangelos Foutras <evangelos@foutrelis.com>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "gnupg",
+    "python"
+  ]
+}

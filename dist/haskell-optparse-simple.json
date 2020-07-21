@@ -1,0 +1,25 @@
+{
+  "FILENAME": "haskell-optparse-simple-0.1.1.2-223-x86_64.pkg.tar.zst",
+  "NAME": "haskell-optparse-simple",
+  "BASE": "haskell-optparse-simple",
+  "VERSION": "0.1.1.2-223",
+  "DESC": "Simple interface to optparse-applicative",
+  "CSIZE": "34599",
+  "ISIZE": "142243",
+  "MD5SUM": "97693b05ad7491c6c15110aecd265206",
+  "SHA256SUM": "616923069c33f090f643c4317ecd9f02d69f3aaa1ef028a9fe47f30ef67488c6",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl759ooACgkQeGxj8zDXy5IR2A//cZz4JTeG9nQmX7xI2yWVE8zwqhD7RSl3gyG7PA/Emv7fj7LA11fqRWbfRG0SSPvJVxBUi31I8V+DNrDDpuP2CwDPCdAcIFQo9sCFyJjSNvR6Dm0Sjubw6f7kLXf6KRdMIXvpZ1URWhrWd0f0tzWWAp4ftFxzXMWVDh/1DoTxE4oq7gO3wW06i/anxMVrvRIgEd/dNAbhHAZI6yXtWoZxFvTRRIi211SgSoNwOf0blsit/a0tMM5q33+HWhSVP2zvFG8Rs+ESFIn87MRTvL3mxxkCcx7e3jlCG8K6SjoKXFEDle/TNzMm2RDkEU6QLpr4+1h1lQtTtM6QpRShjCnPyrkdMCoSgRkt/J962pFHQDYZd3hi0KvLZzgwjuJbr8Awgp3WUrfF6A7vtF4ozRYEmbUQrtiCTXOkw4lZJokdYljjZcXvK2qom4OQg0JwDBS8lmivFeu5IdbprJsC1nhKbf89YXWDEkCKaY+F6uzcShZhCEtfnJmXnYY6Tn4VdxgUJGLwjlq1N7C0tDnb5iCIOIUaB/7TeDFH/EnriSnEuaN917mS0ry/At7REBF3BYjd/Ygr61uGK8GlQSmyseLUhxOcpvaTMKAaFfxGq/F1h3BCn+2/aDiL4MGq/2hGx0BW7ru8aNnSK8+8gkmDtiOTmSU9iqDbFcbN0w4GKbZ3B8M=",
+  "URL": "https://hackage.haskell.org/package/optparse-simple",
+  "LICENSE": "BSD",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1593439858",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "ghc-libs",
+    "haskell-githash",
+    "haskell-optparse-applicative"
+  ]
+}

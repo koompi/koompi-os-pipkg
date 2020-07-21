@@ -1,0 +1,25 @@
+{
+  "FILENAME": "kdepim-apps-libs-20.04.3-1-x86_64.pkg.tar.zst",
+  "NAME": "kdepim-apps-libs",
+  "BASE": "kdepim-apps-libs",
+  "VERSION": "20.04.3-1",
+  "DESC": "KDE PIM mail related libraries",
+  "CSIZE": "169843",
+  "ISIZE": "718244",
+  "MD5SUM": "6a370e533c43ae77c66b21f8552a46a6",
+  "SHA256SUM": "348086c72825f9af5ce0c24b60a6a517b585d9a2f723de1e861c8fb3aecd9cb3",
+  "PGPSIG": "iQEzBAABCAAdFiEEFRnVq6Zb9vwrc8dWek52CV2KUuQFAl8HA20ACgkQek52CV2KUuTFZggAgWGngctreTMGijvihKN3udxH2IEfuoCuUw05KJ6EMwd8z/c2SDGVvqvRchxOMDuHNS/gdGESuiQcpYU00jxJFHzq0tRmOQ90fPW1chiGaAiosdUwc06XCyff1wExsiNmnqvq3NOoN3KQ2yqy0oeph8qQ3EXB1h6sOx+WLBWXQQ7ABcnKVs5vkpPnp9nvptAtZeNUfbeaUwhw2HADf++GwHiVYWjlIXwADyCy1cYOLPowHg/dXQtPC/zO7oJ0J5iOZ06n6VrQewp7l+dneM2G0/wKWGPn5HEiiKAEZCBCGd7wtaA9HvOEojdro4TnxnnPhkTs5ubLzVJJMmKRccyGtw==",
+  "URL": "https://kontact.kde.org",
+  "LICENSE": "LGPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1594105434",
+  "PACKAGER": "Antonio Rojas <arojas@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "libkleo",
+    "pimcommon",
+    "grantleetheme"
+  ]
+}

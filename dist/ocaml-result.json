@@ -1,0 +1,23 @@
+{
+  "FILENAME": "ocaml-result-1.5-2-x86_64.pkg.tar.zst",
+  "NAME": "ocaml-result",
+  "BASE": "ocaml-result",
+  "VERSION": "1.5-2",
+  "DESC": "Compatibility Result module",
+  "CSIZE": "14359",
+  "ISIZE": "50739",
+  "MD5SUM": "aad075ac5da39f7512b9d085f8675fa9",
+  "SHA256SUM": "cf01785cd505b9d70fd817a58cc6cf1fae58f58b3006d33d6bbe97a152608f33",
+  "PGPSIG": "iF0EABECAB0WIQQ1W9uX7Uck5rOkUOej2VYqWJh0qwUCXsLGTgAKCRCj2VYqWJh0q0rYAJ9GaHfSGju3qYzFjYpuDzKWAjirFwCgtAWj7xcYvWy4KYGO67XObdZb67A=",
+  "URL": "https://github.com/janestreet/result",
+  "LICENSE": "BSD",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1589725761",
+  "PACKAGER": "Juergen Hoetzel <juergen@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "ocaml"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "FILENAME": "haskell-validity-0.11.0.0-6-x86_64.pkg.tar.zst",
+  "NAME": "haskell-validity",
+  "BASE": "haskell-validity",
+  "VERSION": "0.11.0.0-6",
+  "DESC": "Validity typeclass",
+  "CSIZE": "56263",
+  "ISIZE": "261085",
+  "MD5SUM": "16c067c7eb24c7af062a44d6ea02a5a8",
+  "SHA256SUM": "238918ca844ea85d4ef33d1b3ed5429ead14973a81a9480863355ed5eab12ba7",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl75ofsACgkQeGxj8zDXy5K5zA/+MyfJMpHYS/N7aROMdFiYOT9wLIZ6kpkx2PV+2Q0fcwFMaS8bruLTTnWKpI/PyvuYgO2YH+uak7RoXXAZ4UE5MU5as8y+r6K0QRmldJOqO+8pPS+2HHHNnY6K6AFSZHfwZuC1GZuSuJYS9x4UTU8vQbbwy6RGVDa+cx8YgtpA4GsQMc4w1l2EbtNANrghhyYpXdU4lb4nhePUvScYQXqDp9jTzatqSv5H6/Xj8vILihnhbfwVH3s875a1g5KL1Fg6eZnSF7Z8AdJa1vAnKHIx8p5GYhoWEPF+rWpDjwDlhKy0K56fPlKaj6zqKROVBVwuCSbeeBDNjcaQBGjtlPmoEQVnSlI2lqrx56pNqp/oWu1HxHiayQmBZJ+CvD0BTy+qHuo5GXTOrcBYJglQo7C/ehmX2ozxv7OI15TRPZtysIkfoKqHJdc4aXEtVNiOV9ZWR9Q8KwOmaWFI9qRaB/busg+H9PoDQ8Jer0ZEfhk4zpgkBrAfnNcCrTJ/yek7/IlWFxre2ThlAwWljvdZPXiVnW4SCtcRUwRL/0T66K/EvEqZgQOO1piEQKOEXvilIOboC8W3b664U9NvJg67yVPOCJsHljy1ouEw1GDoqBrl1t7SVLxNuiIxPwXpgMkI3fQJQWRKLt8BcIaVjC0wsQzgFWWBdyTSMEoC/BVBUEpnZss=",
+  "URL": "https://github.com/NorfairKing/validity",
+  "LICENSE": "MIT",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1593418209",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "ghc-libs"
+  ]
+}

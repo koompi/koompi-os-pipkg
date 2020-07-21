@@ -1,0 +1,23 @@
+{
+  "FILENAME": "tinyserial-20090305-4-x86_64.pkg.tar.zst",
+  "NAME": "tinyserial",
+  "BASE": "tinyserial",
+  "VERSION": "20090305-4",
+  "DESC": "Small minicom replacement for accessing serial ports on Linux inspired by FreeBSD 'tip'",
+  "CSIZE": "5800",
+  "ISIZE": "15015",
+  "MD5SUM": "0866103d34d70dfc8885f0410a57df6c",
+  "SHA256SUM": "29828f0c5a92838aee853ffce8711bc57313a80d26f6c0eb687dc63936e93661",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl8Ep2UACgkQeGxj8zDXy5JUmxAAr8ui/dM0ylOlHkUZ1rql0KTQbOk59fEoFN5yNv86slI/PErWjrNDUpKqxVm7uwnX+HVLVK+WrzxnoUA7NUtTtfsoM7TnNDMgFbOPpZvU1S7uoJXyw1CRIdseFzI6Jf2XFD/BTLR6D3gvfj4s/hfQBnEpicjh/RfCEvcP9CqKW2Yyg6X7OkkQ5Td3ORoWffp5EOd0X0yz3KUm1YEJprwUxsNeqOTr6OjlRSNm4XhxmexKn3PH42P7ESzVmG6HR3ywo4ffUSwIe8IJl7RS0J7+3pzPxkHOdAVU2yiHPIcljv4HUuELRyuVTiCIcvBqpYoJxLStS8wB0qUax1zB1cE7dsYrBdQUd9Djo+ChUAChuOCi2lOa4IzKi4rRjB6AIX/riHamzx1+SmgKwlJeTgxbr3mFgcNW5to2b8yg9IYayey7epBbJyzNDwTDjjFdSlVzM0L0o4Zi6ppY+ANN3HbKdoMr3hZX9WbVH1WT0sT9579WDiof13yAjwjQdgjzn/frJeOFoHiMC6kjoyirAwNXO/3/msjzcJAVi+gZ/3kU1HB3vNTHoorN4c8CvY403MV2IqUI6iNXfTGLtR+AJkIg0drtwQj4E0kIqSf9/kNOBi1cWbuYdmI70pi8C1sSANuXcRImCSlctBRJYslfQxauwZz619rXvIIhiosUCRvu4aA=",
+  "URL": "http://brokestream.com/tinyserial.html",
+  "LICENSE": "BSD",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1594140468",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "glibc"
+  ]
+}

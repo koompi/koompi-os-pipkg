@@ -1,0 +1,26 @@
+{
+  "FILENAME": "python-sphinx-jinja-1.1.1-1-any.pkg.tar.zst",
+  "NAME": "python-sphinx-jinja",
+  "BASE": "python-sphinx-jinja",
+  "VERSION": "1.1.1-1",
+  "DESC": "A sphinx extension to include jinja based templates based documentation into a sphinx doc",
+  "CSIZE": "8406",
+  "ISIZE": "13810",
+  "MD5SUM": "842c8261fff77cc13439da089ddc1234",
+  "SHA256SUM": "19df1edd8bb71e89ea37a8ac99467a81f48a1beee17f83a511b1ad434f14bf00",
+  "PGPSIG": "iHUEABEIAB0WIQS5AcQXHI3QLG8vSWv5jvKnsKCYrgUCXjULYQAKCRD5jvKnsKCYrtwGAP9pf9sahqo7wi3uluPxeYWr3PWOsW0HGxAicP7//ycXkAD/UFEaVbmn9ar2bwl1YkXhlc9T71SdiQ201sdC6Url5YU=",
+  "URL": "https://github.com/tardyp/sphinx-jinja",
+  "LICENSE": "MIT",
+  "ARCH": "any",
+  "BUILDDATE": "1580534192",
+  "PACKAGER": "Chih-Hsuan Yen <yan12125@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "python",
+    "python-docutils",
+    "python-jinja",
+    "python-sphinx"
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "FILENAME": "transmageddon-1.5-6-any.pkg.tar.xz",
+  "NAME": "transmageddon",
+  "BASE": "transmageddon",
+  "VERSION": "1.5-6",
+  "DESC": "Simple python application for transcoding video into formats supported by GStreamer",
+  "CSIZE": "146040",
+  "ISIZE": "681000",
+  "MD5SUM": "c8caa77950d9c2bcc4fde08c22a3eb85",
+  "SHA256SUM": "acddf152914444c3b018c1e7b22b33eae01f36e1e359df9b79720aeb34757f55",
+  "PGPSIG": "iQEzBAABCAAdFiEEhs/8qRjPOvRxR1iAUeixSKmZnDQFAl3Ic8AACgkQUeixSKmZnDSmqQgAuK5pbpoYNuyiNPLwcic2ptQQbAHpmUNflAlNAcJYnecqZD7q3qxOTP00f2HkU29ejaqFUhj5dFgid9R4OLuXX9e6ioQLgkWqrwyajUtA/Ay/wVsCQJ+oV0XL7L/iB1eBA0KT0d7zjyzQHqgH9L5kXPD6UmS3z3qEQ43BvJV55GDTmUfSAKkQiPw+hZNYll/RVi189EuyzDImdfXOI3xRFEoa9o5fIzRgj0IKwwcZtoVOks+6+0YY6aD73vhIhVXpiyHJv0Myqb8FntXqDBnIi9s5hweAgTr6tDoH3TJe0NAninHfqkyuHk2UoUumDicEFyk0qENtpnsgAMTlw4phtA==",
+  "URL": "http://www.linuxrising.org/",
+  "LICENSE": "LGPL",
+  "ARCH": "any",
+  "BUILDDATE": "1573417879",
+  "PACKAGER": "Evangelos Foutras <evangelos@foutrelis.com>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "python-gobject",
+    "libnotify",
+    "gtk3",
+    "gst-plugins-base"
+  ]
+}

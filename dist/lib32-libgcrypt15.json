@@ -1,0 +1,24 @@
+{
+  "FILENAME": "lib32-libgcrypt15-1.5.6-5-x86_64.pkg.tar.xz",
+  "NAME": "lib32-libgcrypt15",
+  "BASE": "lib32-libgcrypt15",
+  "VERSION": "1.5.6-5",
+  "DESC": "General purpose cryptographic library based on the code from GnuPG",
+  "CSIZE": "236760",
+  "ISIZE": "590848",
+  "MD5SUM": "db9d21ccb002388a8563ca6031d4a014",
+  "SHA256SUM": "50cdf4fc53e4bfbf2f49244273ace63610653369bbc31a961508773b75d59ae3",
+  "PGPSIG": "iQEzBAABCAAdFiEEhs/8qRjPOvRxR1iAUeixSKmZnDQFAlvmNXQACgkQUeixSKmZnDTEogf6Ay8Yxo9bbrIW2IqNbjQ+XqhvlkT2MOKish0Up4+2A8fKrjordcrlnYGGM6q3HCkPjL8G+OlYcryow0w3Xv9YqqxY5AXrve9OkBb9JkpTDr+xNbbzXKyydOPgn4/2+gGyeQFyE4MjvnDzrGALH9giLuMrtvfrHnWdgwmVSBXCmMZkRvBZgvRkbhjUbkgba240wnCQMynxouBs2CBdnshTKJMdR1tshHygRh2DzOGpiC9mYt3960yWfYJjWItB4W5AnVaA1k4YWgWQLg6QkgVqq+YTsumcIJf+pQEN0pl9QQoJfTXmEGK2QM4t4EgHkBXk1YQWFz8HgF3yDLC/E1rdHA==",
+  "URL": "http://www.gnupg.org",
+  "LICENSE": "LGPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1541813595",
+  "PACKAGER": "Evangelos Foutras <evangelos@foutrelis.com>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "lib32-glibc",
+    "lib32-libgpg-error"
+  ]
+}

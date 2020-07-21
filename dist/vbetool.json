@@ -1,0 +1,25 @@
+{
+  "FILENAME": "vbetool-1.2.2-4-x86_64.pkg.tar.xz",
+  "NAME": "vbetool",
+  "BASE": "vbetool",
+  "VERSION": "1.2.2-4",
+  "DESC": "Uses lrmi in order to run code from the video BIOS",
+  "CSIZE": "9720",
+  "ISIZE": "24576",
+  "MD5SUM": "1eed16cc03aa6676225597fbab3ec442",
+  "SHA256SUM": "1a98da0b7e6d428fd7987af8d3f69fb225f7a25ce7ae785e847d2723cec6083a",
+  "PGPSIG": "iQEzBAABCAAdFiEEbqPz87kIJjKpy+kx1ToERbR6DasFAlxL1rYACgkQ1ToERbR6Dasg3Qf9HeylNl0Sdf/wqc1AnAthBN7lGDhWfkecEqZQQmpQDpD+s4EOiKAojm9g8r5UWrtlkKIAs4N2I/mrTu4WGC/rh2zoVMdrLWMiWsXE8g6KzErBbrLdTRGQXOy6VzjEmbV07CGdf38voz6B6jKHR9+87vC1oQuLt4sNF72dK3/LsUe2pWY5r5+171Ij6IDI8ZA1BfwLet3tgshlm4EbxmkeJ24MNBlGsPdEPRgKh2RkPFvAul9A0mmCjlkvj4RsJUqcsIkV07nW0y0SDHaGDV23gLREkQ/qekOTbV7crNqSqi6VVRLScGLIyn1ue719otRH0k9zF8bL2eVDC5rQgWHPyg==",
+  "URL": "https://www.codon.org.uk/~mjg59/vbetool/",
+  "LICENSE": "GPL2",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1548473580",
+  "PACKAGER": "Connor Behan <connor.behan@gmail.com>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "zlib",
+    "libx86",
+    "libpciaccess"
+  ]
+}

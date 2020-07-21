@@ -1,0 +1,30 @@
+{
+  "FILENAME": "lightdm-1:1.30.0-3-x86_64.pkg.tar.zst",
+  "NAME": "lightdm",
+  "BASE": "lightdm",
+  "VERSION": "1:1.30.0-3",
+  "DESC": "A lightweight display manager",
+  "CSIZE": "223524",
+  "ISIZE": "1129987",
+  "MD5SUM": "cadc0897ea78e7116af20cd9358d3568",
+  "SHA256SUM": "ae97576a399b750d6c32927d0cec56d263c363d54395595fe443f9ebe87de309",
+  "PGPSIG": "iQEzBAABCAAdFiEElDfdOBWnqRaePTlGr/XZUJi8b/UFAl7CYq4ACgkQr/XZUJi8b/WQiQf/b0LTQnakWy38ZSrApT45wgxgtJGrwabc7sCsqwc3tKcds1MsIa6PvfW8iqiS3oV6YErWbfGraCggvbYEqxyy4GyvXDpHKkV5+BwTApJMQIQTXwyFc9xtHCHtF0ne5soKb/OGwQIBi7wjOdlAHfENrzKROo6qkPOWdCFzxEnnZnI8IU2Nk3B2JKWPQEOrqUfjxzzef8lgb6aJhc+lpO8MeKoYARtHk+ayt3Vqb/qQBLAtQ37Q4zsmbFhmnzUDyKgcXQ8LInIg2LJK7bKPC1Czy6muRYNZAcBmdh1ZNGyudLNBXDjnxsOxqDWKfHCE34YngqwfwKcVG045xawmpgfoQg==",
+  "URL": "https://github.com/canonical/lightdm",
+  "LICENSE": "GPL3",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1589797412",
+  "PACKAGER": "Maxime Gauduin <alucryd@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "glib2",
+    "libgcrypt",
+    "libx11",
+    "libxcb",
+    "libxdmcp",
+    "libxklavier",
+    "pam",
+    "polkit"
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "FILENAME": "riscv32-elf-gdb-9.2-1-x86_64.pkg.tar.zst",
+  "NAME": "riscv32-elf-gdb",
+  "BASE": "riscv32-elf-gdb",
+  "VERSION": "9.2-1",
+  "DESC": "The GNU Debugger for the RISCV32 (bare-metal) target",
+  "CSIZE": "2604511",
+  "ISIZE": "7069972",
+  "MD5SUM": "4d52d602150c844ff92b34e21db06310",
+  "SHA256SUM": "4c47b830ab61cf6237de61c2c4d7c7aa52e64225cd73011a253eeae3bb259f64",
+  "PGPSIG": "iQIzBAABCAAdFiEE0jW0leqs33gyftiw+JPGdIFqqV0FAl7bh0gACgkQ+JPGdIFqqV13ng/9ES2ZNThPz/cGjNb0XExQirBRpzd2b1/d0isHAk7Cc+SVp7G/VIPQu4YOJ/MQJPttiW9rdFB4g/n3TFahLZrOVc4mWdm943uHaa6NWwTD90F/h1pCvRrhTBFMtBnYZ5qPva+0IXVl5dGbNQ2NZBEyUORoYfm9sn+j35CY19UdZfiWZY044rwDEGrT/Kir+0jrE3cTV/UCmXeAqfTMCol3x3pFq8cPJE3bJGnmGZ2/538TTDevJqC697aqGf9c2XYfzv8fQP+ZaJrpJEriZJwhntfwnow10OHBDkYrvMLi2fbpEjBzkq50/TG5PfVmgxrRN3ExovN1ZSWreGoCc6seH86tgAhaYN/cFHGWwqm+C4ANbQ8d8b47Orn2N2FPjinOyg+L5rmwraBQMNhzM3Me2rjPEPv0E89Ncz67Ogm9SOlHDN45beFDbo/l6OtXq7cpMkXuS3nq3jAzGj7MwjBRJ527LmoADJS9L5L8Ctp3pjiUowl8xm+P6M1fsiGcP2q6M76w+xG8HTB+R224H+gav0m93Jv0aEQhzqriZhB7OAfzsaHToKE6kmr/T+EFr5G+B88SKxW4pLogcGMHg9pxLd3EEpoxx4nWB/eWJ7p1t1CmrEcjMUhvaRgutTpW91yBNMRa5VSm4ZhW91PRimi+81hF9w1LSfKfe/O9ib73hTA=",
+  "URL": "https://www.gnu.org/software/gdb/",
+  "LICENSE": "GPL3",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1591445121",
+  "PACKAGER": "Filipe Laíns <lains@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "xz",
+    "ncurses",
+    "expat",
+    "python",
+    "guile2.0",
+    "gdb-common",
+    "mpfr"
+  ]
+}

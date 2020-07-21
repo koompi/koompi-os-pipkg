@@ -1,0 +1,23 @@
+{
+  "FILENAME": "evolution-rss-0.3.96-2-x86_64.pkg.tar.zst",
+  "NAME": "evolution-rss",
+  "BASE": "evolution-rss",
+  "VERSION": "0.3.96-2",
+  "DESC": "Plugin for Evolution Mail that enables reading of RSS/RDF/ATOM feeds",
+  "CSIZE": "312193",
+  "ISIZE": "1494137",
+  "MD5SUM": "f76ae8c1b46c9187dadccc043f3db1bf",
+  "SHA256SUM": "f8f3f54e4ab75b4b1b6b17747b16088818826450c811e71f352e6611748a915b",
+  "PGPSIG": "iQEzBAABCAAdFiEEzgvecadZqH8j8PfYth284QkBwWMFAl7f6BwACgkQth284QkBwWOFGwgAwNfY6UFoDJgfjaeml/gK3r6ty1Q4vTukwAb7fDIo368UZSvdiKdKqBxVtmHsqTLXPKbGnaqu2D2LXUqvw3oMMHD+qQ+z5I7Fm22TusukCej+sZbQlLt9J6n36mqIh9sZzDFA9Wg+2YCcUYwCAmq8WWuBBP0FMlM3kZRy3997pAtRZxcGvDNuqKLlpXIUzD94z9X6qzEzAkd6x/4gvbK7SGXq4mFOdZ6aDZwR/GUXTrr1omuSHHSAG1LHbRC6qp4brw9SPg3H1hRVQ9AOQqn9Pxl5pFD7C5v+bw2+INASMyhvu7pi+ormjH91acWuIN4nbyetpDsFzdvG3yeZcjnZZg==",
+  "URL": "https://gnome.eu.org/index.php/Evolution_RSS_Reader_Plugin",
+  "LICENSE": "GPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1591732153",
+  "PACKAGER": "Balló György <ballogyor+arch@gmail.com>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "evolution"
+  ]
+}

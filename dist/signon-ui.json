@@ -1,0 +1,26 @@
+{
+  "FILENAME": "signon-ui-0.17+20171022-2-x86_64.pkg.tar.zst",
+  "NAME": "signon-ui",
+  "BASE": "signon-ui",
+  "VERSION": "0.17+20171022-2",
+  "DESC": "UI component responsible for handling the user interactions which can happen during the login process of an online account",
+  "CSIZE": "105066",
+  "ISIZE": "359028",
+  "MD5SUM": "24d69e070bb7ef1920a06d1b49975692",
+  "SHA256SUM": "fc7ba788d958954028a546b6b82dee91aec03398087be258fbb2e1e92fac2a0b",
+  "PGPSIG": "iQEzBAABCAAdFiEEFRnVq6Zb9vwrc8dWek52CV2KUuQFAl5KtVEACgkQek52CV2KUuTlwwf8DtqtWzbVJInfU60lwRlWNdoKsyXrlll+5dm96SKm9a4hB/AWo9T37gZbo16lqR6uuxCRYg1n9TCp4FpcXyZz/BegZyp2fS2K1482eCpwPn4H9sS2QqswYtozBTooX70GCSCJ9dKgxd7XStiz+MmVoIZVeogBVpWdqR082wkOxgNOytNZscz8TclmooCp+klODzexD5K99TZZrwVBwsCfzgcTQl1YeGp7OBhmHNi402XnKhKuslBjehibwU2CPKD2vP9hfM+hXYgg3FkHpSTkNq92Qp8ukpARg0fENLQICIxPO/iC2dXlsIIj6RV+26R+DItaFJAtFb63AtzgErDr0w==",
+  "URL": "https://launchpad.net/online-accounts-signon-ui",
+  "LICENSE": "GPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1581954241",
+  "PACKAGER": "Antonio Rojas <arojas@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "libaccounts-qt",
+    "qt5-webengine",
+    "signond",
+    "libnotify"
+  ]
+}

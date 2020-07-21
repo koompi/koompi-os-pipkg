@@ -1,0 +1,23 @@
+{
+  "FILENAME": "dd_rescue-1.99.8-3-x86_64.pkg.tar.zst",
+  "NAME": "dd_rescue",
+  "BASE": "dd_rescue",
+  "VERSION": "1.99.8-3",
+  "DESC": "A dd version that is very useful for data-recovery",
+  "CSIZE": "128129",
+  "ISIZE": "314906",
+  "MD5SUM": "8c632dfd36163aa4e4c4305ce77c8611",
+  "SHA256SUM": "841515efe6109bde3f06796ad4462d0b75b843b2bf06d70d05ecbbc63e8ac127",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl7r0KsACgkQeGxj8zDXy5LOIRAAsFtwPRx4squy1ux65PHTgY2asz7pmPc/kH3SZkMM9SWvMiAfAfqbDvt/R7f017OvBZ9ZqGOZVa0rhijlrKIOu3nvtYaQqR9KIfa6UfB1zP5SLkd+j7ibaatKAWWFbj9SSjeTkuenPVhwuHXzjUherzktuw3UakJVPHPOYY5Np7J5x8GUdn5nD4cGtstw+mP7k4iUwjUQLETcI5T2vmwydlARJNtwUXqoX24aV/NpkDbn0dc/cS3qBELCki0qL68IfbZacznUpjA2k0czRx9PAq14DwjUDf+S5QabFiK24FmFauNYyBjAk9odAOzB6sgJ5yXLUeb8KGPL+VkdlFmk4foqI85lIzrpaDVThDnWkb6zUa9RRKrheqWqRUfzi7H0MT6CF25xlSoOvBF65/kYHOWMEcrb+ChXSQmeOCmJH84m2jhiromRlj27a4UN52We42g/VDt/UwjMXQr+nfNXDHWLFBZXTUPYN3c+vmD1nRQzjbJi40vB23WTy47PNx1gmAZfwOi9I8Rodbz9vtkYU/5p+AwPn8S2g3SHM3+Hmm3RM6691SeZZh9L3cfAEW2iFqjpcsXZToXRQ4oMEKSl4z2WOqnsHBcLbYv7VH5zkcs+sJfozfixBxw4q08I5NwBY6lUJqImSoLMAGQYFTKnOdFan4B7JhVSFvPWZCRVWss=",
+  "URL": "http://www.garloff.de/kurt/linux/ddrescue/",
+  "LICENSE": "GPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1592512628",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "openssl"
+  ]
+}

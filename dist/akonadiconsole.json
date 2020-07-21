@@ -1,0 +1,24 @@
+{
+  "FILENAME": "akonadiconsole-20.04.3-1-x86_64.pkg.tar.zst",
+  "NAME": "akonadiconsole",
+  "BASE": "akonadiconsole",
+  "VERSION": "20.04.3-1",
+  "DESC": "Akonadi management and debugging console",
+  "CSIZE": "372962",
+  "ISIZE": "979818",
+  "MD5SUM": "69a093bfbd7d1ad5e1c1bdb84be4e543",
+  "SHA256SUM": "aec63a30471dacd62a12ba806ef63b972e53ef022a1173ce9c0b57abf156d570",
+  "PGPSIG": "iQEzBAABCAAdFiEEFRnVq6Zb9vwrc8dWek52CV2KUuQFAl8HIBcACgkQek52CV2KUuTkAwgAnbDYMN8LvK7bMIHiK2D4ZtdSKnLfEPu05nn6x+l7zs3qd49hnTg3EBujLkvGKlcZJAbmZsO6nE/Yqz9fQsyLOhpLI90yMdaiayIbV1OknfAysvgNxEqlVA7QshrMuVEcJE8cozZfBCak+ta/fmlCb9vBQOsGNkoO1/4l8KA7RBahzneTY4Pm6qmC5UI/KRyCSrfVgZfXrPsMkCeLF/F14LWQGEq9r+jQoRvaSyIKZeC+/4qc3aUjdRK3s1R5wcr6Q8PcoVrcySNaSqAf6gdpMu0fSbGoWEEWawlTjKb2AKzB32cVicmwJtcHrD1xmbtMtBC+PPtTT+UTpIFEkSEErw==",
+  "URL": "https://kontact.kde.org",
+  "LICENSE": "GPL2",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1594112167",
+  "PACKAGER": "Antonio Rojas <arojas@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "calendarsupport",
+    "messagelib"
+  ]
+}

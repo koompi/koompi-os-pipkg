@@ -1,0 +1,24 @@
+{
+  "FILENAME": "haskell-magic-1.1-17-x86_64.pkg.tar.zst",
+  "NAME": "haskell-magic",
+  "BASE": "haskell-magic",
+  "VERSION": "1.1-17",
+  "DESC": "Interface to C file/magic library",
+  "CSIZE": "34008",
+  "ISIZE": "121476",
+  "MD5SUM": "7b27f62691795cac185c48589fa8c05b",
+  "SHA256SUM": "800bdc0e489d31a5f619a14e58b19f522319b64770a6293a4021cc688a8ae13d",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl6hhY8ACgkQeGxj8zDXy5IvqhAAm24TzB0W9Z8NJ4nBCxJFH5+V4BbqSUwvJS70qSval6vgf9ydbyUYRKf9lDz8SLQ+jgfxcQlCkwS0z4sv4BqdiKzHisNEY3vdFM3jcqiIk2i2o94JsjdeICGHnOo7rqxJRoCb6qGprML1bRE0o1lhaEYo5XXxBVbeFrOTPnTOgCu46K1Jt04TgWbGP55AL1tAW5905x9JoU52RqiSYWMKsip/uuZge2rT5DxlZGtt93jMtr9uav5RVnsX7BR7zi06Dqqm2f6/Pw5I9d0RxRh01vpsY25cFi1E4AiVE8Av/qYrkAfOj1pXm8L+OPa8xZQ2fwQHFUQ9KfAgtz/lcrWUoyiprgZ2s5qdnqYrfPPUbZl2428iOA+R3HuBjh02tLset2bOBoiZ8W6JCuUVnoZdIP7jhgCsGa5t3e2sXNuyhxCncHiEt/w4JDvlGyQUMwQNmqWODT2rMgz2Oi5sX/5iqtJ2rcKLWMlAgIAhAdCOOgynBLT9GJZXUwkdIhLPaP/eAuT2IOwUKxQHc/sYRoDMPUb4ffgvfOW3QVMQse85PUd+MZM8ZsJ0WMncpxUb0fQQgBFZ4TPBXTuaimGBVw8rFrVz1ySzQodTBlqhfW0WNmLZxQtZtn4trav00O3cieCLPEh7COm6eKgEGhpy3hyuQJaAv8cB7Rrj5ah7X6/Yc5c=",
+  "URL": "https://hackage.haskell.org/package/magic",
+  "LICENSE": "BSD",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1587643707",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "ghc-libs",
+    "file"
+  ]
+}

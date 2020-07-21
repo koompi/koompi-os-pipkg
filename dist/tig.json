@@ -1,0 +1,24 @@
+{
+  "FILENAME": "tig-2.5.1-1-x86_64.pkg.tar.zst",
+  "NAME": "tig",
+  "BASE": "tig",
+  "VERSION": "2.5.1-1",
+  "DESC": "Text-mode interface for Git.",
+  "CSIZE": "218280",
+  "ISIZE": "700674",
+  "MD5SUM": "bf13f67ccb97881d06fa077613ab98d0",
+  "SHA256SUM": "91f593d7b4e7f8c75a8d241fc9d04c2dc83fc1325d1fc6de8156fb2b6dd1c8c5",
+  "PGPSIG": "iQIzBAABCAAdFiEELjbYYgIhSC/EXLfyqRdkdZMmtEAFAl6QeQIACgkQqRdkdZMmtECvZBAAz0giBLU6ZviDNneJ2DAMvANcdDFHsYZZ2Lq4dL1ETL2RaYwogyNkDJGTy0JGc63dmy4G36T/j7raDBmYw3t2j8b96MWB41AlvhA3tRCaiIK/aWytKsJ5gwyn7BbqofL1yz15JSPbpmNYzK05cSMTVUzGiP/5/ZWgHRnG10yODqsQv0DHWkX0LYI/N2N8y62ATcAOoOomLWELl6n4RN1TQ9s60H/LtUBjG7nyZcmanU4LoSJ9TgoRoZVnvROuP9cYJ+c789o/MNd8NZDKai8mibcdLkKPa9WUnush6gH/FBBkmeWoWCPbnPPgOSbvVIAWMH2H9qr+dybkf3vAaJEQxnYoLqCtl7oWRRAs3/qjgwE3ZVxedVqdzKXWacwMIdmYRjI7A6Wl66HVBzCAI21KlC0o/CjsszegTfNoL/5gpoZWKWFLehFS3qruSGSjaNVQfpbObTwsCC2SQtTzvuezygtsMb10GYM1JzqKEezUxWeeEqgmLyFK1VJFtdqoQfYO0nyEVHLaWzFPhZy+jH0RySDtKrNDGWEpYupQOe7ZPIX+uSNi8Du9CfBFf2uJTDFxwpiTwEdkta9sENzORvuMJ9/R6b1U4mNL+dETd2qgU9BhP2WT7yJEO4AHhc3rCJjtkHzlaIp0qvvK4560godcLT6cplc69GLCZ46oibNDzfc=",
+  "URL": "https://jonas.github.io/tig/",
+  "LICENSE": "GPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1586526417",
+  "PACKAGER": "Lukas Fleischer <lfleischer@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "git",
+    "ncurses"
+  ]
+}

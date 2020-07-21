@@ -1,0 +1,23 @@
+{
+  "FILENAME": "libunrar-1:5.9.4-1-x86_64.pkg.tar.zst",
+  "NAME": "libunrar",
+  "BASE": "unrar",
+  "VERSION": "1:5.9.4-1",
+  "DESC": "Library and header file for applications that use libunrar",
+  "CSIZE": "137541",
+  "ISIZE": "316941",
+  "MD5SUM": "fec0a2fff2b46593909410bd99e307a9",
+  "SHA256SUM": "f36584538fcffde0777303eda1f08c2c032d7f1ade590208ead3ca0171ff0fe6",
+  "PGPSIG": "iQEzBAABCAAdFiEEFRnVq6Zb9vwrc8dWek52CV2KUuQFAl75pC8ACgkQek52CV2KUuSAPggAoeAx84AxTjEV8jmy6GTyCfju4ZK2LKJ3xcH5RxPXTz6mlYlNpz6SymT9s0q5vt7MgAnEP/76F/Ejt20EA4chz9HrJEzSQrqvOaqahsYZ8IYw/cqbZfITiAwoAdxaRlwuQfzjwLMX9FhZvlal6kZQRSJz+MHp1AnVo1xGXeDN3s9L7lTXnJ+V8Fb4i3B/G2RNKUhItpFnC/7AI2zkIoVOkS0Zso6oy43QfhtC5yCNvoI8sgckWVaB9ODbGDuHmMAGzKSUsl31DKcs3srqz6jcb+To/FrG1BdMySOmV5Uhge1adqQzKhjPfxtZQZLrDumBvy06VWFEhs25hDkrJt2kDA==",
+  "URL": "https://www.rarlab.com/rar_add.htm",
+  "LICENSE": "custom",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1593418723",
+  "PACKAGER": "Antonio Rojas <arojas@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "gcc-libs"
+  ]
+}

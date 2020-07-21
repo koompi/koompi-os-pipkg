@@ -1,0 +1,23 @@
+{
+  "FILENAME": "ladspa-1.15-2-x86_64.pkg.tar.zst",
+  "NAME": "ladspa",
+  "BASE": "ladspa",
+  "VERSION": "1.15-2",
+  "DESC": "Linux Audio Developer's Simple Plugin API (LADSPA)",
+  "CSIZE": "33877",
+  "ISIZE": "198742",
+  "MD5SUM": "2437d290b6f0c4a2f015f296a433c63a",
+  "SHA256SUM": "7d55262be3cd25cad2235092503f5a52e7843bd97e54b82a23cd69fb00755735",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl7DmXYACgkQeGxj8zDXy5I7aw/+NC1FqnJC7BEFM8RuUJtyXmbTLrGCEnZpGVUjJ8qSQqvBk4L5q22kSbupwEtewBnU9oFkIF7/l+X15ne7gS73uJyIniL34UkQDsPFzGPK71bLau/MVSqJ7NHnDV4ot5YP6SeWkBoh173fnqQ0YHUjpDMy61HmnQPmOr09ERkYPy6XgKLMBf2BIDy9Kv9D8IzDDJugU8qiO6UVWvEFxG1G9PljHv0l/awY7BY/o6454uMeKHrfdqt4ZX5aw9BfVGxvVBdIqui7NwVXuqy60SdvwexxAbdLdXzTWG4GTIVvR4OwchDAhFNoZWnLnQeIlIEFCMaQZkdSCKfP5xNog8FiXeg/ZxHAfwDh+jTSOpboDmWQwJUb51EpEdUbsdm9VTFr13FYnQBRqutO7YwnAhvLHy72Wjv7ztBh3h0JrPpRT5gsIP+usesPpR5NrTCQKJL/HOoc/09GF3rAUeVffj6KvjEa3kuApz0GE3ZuyCcOAytJRHzsbgbdF49NIN1gynvsb5P9Zxvp9MROn2wv1lhwnie4OUEUcJa3z/EXxpLUhpRGqMCX2mHI7kAhCPaxktrap1Xa/ELFau7NC3JgkSgsqJ6RnolmdZBb3bhh2S13F4x3w/n//CyQ35Kv4xLIW4srEdd6e2ArPpVROg7/dbnQ61smJ0hapMbZ4XtC561ix50=",
+  "URL": "https://www.ladspa.org/",
+  "LICENSE": "LGPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1589877076",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "gcc-libs"
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "FILENAME": "libmagick6-6.9.11.23-1-x86_64.pkg.tar.zst",
+  "NAME": "libmagick6",
+  "BASE": "imagemagick6",
+  "VERSION": "6.9.11.23-1",
+  "DESC": "An image viewing/manipulation program (version 6; library)",
+  "CSIZE": "2415878",
+  "ISIZE": "9513387",
+  "MD5SUM": "6c7c49b2b5528fc019cf126f18afa8d3",
+  "SHA256SUM": "6d760906d2a5c97da218120302b555640215951e42d5d9ed8c083af44a7aac28",
+  "PGPSIG": "iIsEABYIADMWIQQGaHodnU+rCLUP2Ss7lKgOUKR3xwUCXwHcKhUcaGVmdGlnQGFyY2hsaW51eC5vcmcACgkQO5SoDlCkd8dHagD9G2yLU2bGqk0scWM9pd9qmF47wZNxVaYUM4Kw6Z7HHhcBAPzftRGFhyJSm66BA4VDvCJ4p777iTScnwDB6QEmV/cO",
+  "URL": "https://legacy.imagemagick.org/",
+  "LICENSE": "custom",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1593957139",
+  "PACKAGER": "Jan Alexander Steffens (heftig) <heftig@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "libltdl",
+    "lcms2",
+    "fontconfig",
+    "libxext",
+    "liblqr",
+    "libraqm",
+    "libpng"
+  ]
+}

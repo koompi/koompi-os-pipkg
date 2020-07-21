@@ -1,0 +1,23 @@
+{
+  "FILENAME": "libxmi-1.2-9-x86_64.pkg.tar.zst",
+  "NAME": "libxmi",
+  "BASE": "libxmi",
+  "VERSION": "1.2-9",
+  "DESC": "A library for rasterizing 2-D vector graphics",
+  "CSIZE": "75118",
+  "ISIZE": "152038",
+  "MD5SUM": "2c80fb8a7d5d94f59a7211ce1b3073eb",
+  "SHA256SUM": "539218bf27f5a343f77dfbd00c1f7d5e9d1dfbfb572d449bbc954a9030018b35",
+  "PGPSIG": "iQEzBAABCAAdFiEEhs/8qRjPOvRxR1iAUeixSKmZnDQFAl6/v+AACgkQUeixSKmZnDTv1ggAkJ0w7kZtKc25qBtgRBVyyMc7EFlqQXFQEtKnI9OHW+EvYnI0RN205qlqwLzoZukWZyKmZBrN6PVFKWZB+DnTx7N27gMFhLJ7KgnaglLpcj8tp7JQtJc8POjMbwQhiGC6FeJCIg8szg90iwij3XMDJmZuLXrLoi+ry//qqJp4DoTUjGPCuakR+OvvOA+O7jlbDcdl90kw05iAYnh9ExLkF7bzZR0cO+2wIj3vV7RhRrlMLNIADoKNjYiXeFdUK7w2+KXprOR6JSharWTc4k8dxjCOJe93bTHQChTYV0s0CTtRpX4DK/3Hnx+bj2voNLi4Ox8+U+x2xAJhytTXgwml0w==",
+  "URL": "https://www.gnu.org/software/libxmi/libxmi.html",
+  "LICENSE": "GPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1589624753",
+  "PACKAGER": "Evangelos Foutras <evangelos@foutrelis.com>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "glibc"
+  ]
+}

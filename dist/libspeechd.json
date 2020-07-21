@@ -1,0 +1,23 @@
+{
+  "FILENAME": "libspeechd-0.9.1-4-x86_64.pkg.tar.zst",
+  "NAME": "libspeechd",
+  "BASE": "speech-dispatcher",
+  "VERSION": "0.9.1-4",
+  "DESC": "High-level device independent layer for speech synthesis interface",
+  "CSIZE": "19314",
+  "ISIZE": "53803",
+  "MD5SUM": "537cb3282a4b3261acf67b7a72dd23f8",
+  "SHA256SUM": "8b0b57cc56b46e041e96896ac4ce0312d332a4c70f2eebb0f52610000f2dbaa8",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl7AUx0ACgkQeGxj8zDXy5LR3BAAlrVTRKdy3myFmSKzmrQa9U0TdQo89LdvLSliN4sRj2x86qWYZ23QA/TDZ1XRB9T5hBNuZGP/RzmfHyQOMqwFnShmp5UCJtBbLp+z3IrEqK1KyZlbBA7mrEMCedsgyPczWX/1X6Cp6afj19jWzEEUfVZ0hZIY9c4Xc5AJ59zRhc1vCM3tqPwuzpQXZJ8hiB4WQLA257q9y56n7YCi1HsH6wKqypISv9xNFwL7KJ2/wuA4e0A1yX+bbYli9PBjyf5zS/6+FAbWHaneAe2WnCI5v/jSBDxtfRH6EWns5OGClwtJG6DApiglrBqc2H8+ZbrONcaSFbeIIZNeMJPMbdFKbKW9w59G5lhJQBZQjndWDo6lUdwFUwj9RKUEApRJV4wtRjR/ZIcLwDFt8W/EK7qdYJ5+u0823cbg5kwpyb7AZJN+Zt/WegDIX5ScND+ou8En38/EYo5TpPEBmUAOKhKa+fT11d/EmCrYz1KHFKplsWTkltvA5HCL0pzZLrft3Qb9mURKbtn/u/FgsopzCT980ohWqHsrLfM1N1KZVSdZEjoVR5DFRjrbIa40pRBHOt2VNmV5l8V830iuzo8eH3pYO/XNwyS2RwCnw55nkFvOav9ZxfVwU8fyp947GZKhE3qlIO7GwDWwZQmVKvIGTH5q/sQcR8kB8H5ypt0WMBd1Sts=",
+  "URL": "http://www.freebsoft.org/speechd",
+  "LICENSE": "GPL2",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1589662434",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    ""
+  ]
+}

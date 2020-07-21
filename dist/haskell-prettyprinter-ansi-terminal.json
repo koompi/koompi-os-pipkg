@@ -1,0 +1,25 @@
+{
+  "FILENAME": "haskell-prettyprinter-ansi-terminal-1.1.1.2-98-x86_64.pkg.tar.zst",
+  "NAME": "haskell-prettyprinter-ansi-terminal",
+  "BASE": "haskell-prettyprinter-ansi-terminal",
+  "VERSION": "1.1.1.2-98",
+  "DESC": "ANSI terminal backend for the prettyprinter package.",
+  "CSIZE": "53097",
+  "ISIZE": "266069",
+  "MD5SUM": "0f3d02df36514c434cc30db3c69e24c4",
+  "SHA256SUM": "09592ad9e7c92d46eca92a4808a973815f3f4a726a32ad6f692c6a6f5835fb40",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl75neQACgkQeGxj8zDXy5K9wA/7BdAPElOIGTeIfUbHPitcBOenDGI8+S0liaAVB1mC1uIIi6c3rU7AfX7AWj7B/FUMLQl00jfg1ySCM+AcbYr7/GKW3eCRi0u6NIq62aDuWIYxBMGzcOe6o4EDR/0iWk+xDUyLOr2UzrnykJg1iMFlySF6nKf8aBo0pehJB49WsXt2arIphiXNYbvSV69B4INvTG6+hN+3m/tIA53qH9SthF7BrWDKb38kmNJCU9bqtn0ByfV+XcYUSRA1QEODkcktc0HEHd4bLJ5NUVvVKW29EN7LCzELrMQ0P+7NZlSreyEu+IexMfyQy8yoTsPTFIu87Q+PlgxHbiDL5tWzJIeJTGRqxrg4IQJu3XHbFIBtUN2fhvB8DHeVbt5Sblu5JU6/odXoZCKSo9EYHDHfCwsgmOdAROmreXyRZEWnZuK0G+8/JIx6GXTnugUEjmlj51DsFG6dOrVNxrLkFddqBjrcBvGM5UKyR4BWo34LYeF8XAxb+Mu1NlPzFUMkfua1d5kc2t24lcSPm1mcsxZ71JpLMZNmjZ1U/0DuYwoSUynMQn8L1ykSf3JhgIm8zH4QXcXfWliDAi1DYZtBDTYeVhPLCWhKelQPlrPvmpB1zTehICLUL0ctoqg/lYG0QsOiH9SyUoohrWmB2l2V/2779gjt0z+i3E7utTuF2uQe3ZZ9mRo=",
+  "URL": "https://github.com/quchen/prettyprinter-ansi-terminal",
+  "LICENSE": "custom:BSD2",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1593417159",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "ghc-libs",
+    "haskell-ansi-terminal",
+    "haskell-prettyprinter"
+  ]
+}

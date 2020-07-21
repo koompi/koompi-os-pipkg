@@ -1,0 +1,23 @@
+{
+  "FILENAME": "python-cloudpickle-1.2.2-3-any.pkg.tar.xz",
+  "NAME": "python-cloudpickle",
+  "BASE": "python-cloudpickle",
+  "VERSION": "1.2.2-3",
+  "DESC": "Extended pickling support for Python objects",
+  "CSIZE": "37556",
+  "ISIZE": "183204",
+  "MD5SUM": "25430d74ff3e221dd2c702f78b9e755f",
+  "SHA256SUM": "9e6a157943db5404a43b72bc02c29af345b971e801faad26d0964904bfbebb8b",
+  "PGPSIG": "iQEzBAABCAAdFiEEhs/8qRjPOvRxR1iAUeixSKmZnDQFAl27Ea0ACgkQUeixSKmZnDQecQf/bOO4JBVvDCbljfk5GLWnTtpI5mvcrnCUV8piZtr/KypJ8tBqJ0Tgyan39RWgTW8lsY1ts1SXIWc6fQNIrDtZDq6LB1XV80DmAyxMSYBQcvxsuzp4UlpHpY0WSXW9+GAmumMdJNG1PFAPT9lDL+EpA2TKQDeuvxFcCHChvHEM538yccYufPl2zDY44XjKobchCqHqU/ofCfyjxoIE0eNV2385wwDfzCVudVWnGzYytHtv68rezkiwGxwozDOlJLJIjSkHPsimTO+24rlTcsH/le95TZjGDnFW4Kd6G192g01OfXtyENY1aQmt6iYPyOsa2CzNE83DN+lP11p8EtPzLA==",
+  "URL": "https://github.com/cloudpipe/cloudpickle",
+  "LICENSE": "BSD",
+  "ARCH": "any",
+  "BUILDDATE": "1572540829",
+  "PACKAGER": "Evangelos Foutras <evangelos@foutrelis.com>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "python-setuptools"
+  ]
+}

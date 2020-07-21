@@ -1,0 +1,23 @@
+{
+  "FILENAME": "stylus-0.54.7-2-any.pkg.tar.zst",
+  "NAME": "stylus",
+  "BASE": "stylus",
+  "VERSION": "0.54.7-2",
+  "DESC": "Robust, expressive, and feature-rich CSS superset",
+  "CSIZE": "388130",
+  "ISIZE": "2141465",
+  "MD5SUM": "d27115f9abc5fc08cf0cd160d44a7263",
+  "SHA256SUM": "978fa0c7682a5ef5c8c9a57179ad54123b99b8b78b5696b83a9f509e2c83d710",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl4PRqwACgkQeGxj8zDXy5J4eA/8CguKjpr7K/cgaoBmpJp23MSME4jWbLc9qLOPaymT8090/jhCEBEwuX0Y0VTCdVk2J5zqoDqybma4evK2DAHmczahiIzXVZ+lG91XwQ67hJK28YyR9Xw7HIVP14520pwVe//K5pWOBy7G52e+4K5P3Yl2ZKXEcNnNXH3SKOmb+FF8URpql8ZwAfZ3798BAdO2O/9UtfZ7WC6/1KVpBE9/hESiK7xIBEe6c67knj/sH3cNi7NSE9+TV3FG0RH3lAh+DI8GZCF2NkTZarDpxdI3YPuCzPrr0ebL6yC+TNurHsapQfUWTQIe2LcheNfAzQ9Y/DGiiGp4hUcdwEcxqEW5pP0PsE9z15e8tSyWbwIv8rNhdsifH9DYm1VBoXq/gCFGZ/es8EWuv6GPm8d2bDaiMdetiyUyfwQO1itXbKGtK4JmL7c8OFVo6jQ5iVzbmMdS/qDXFhkAL81cnG7oinpYDjt3RZ97r0KnmCrd9tu26J9tD6ZzFAO8SH0W5Bzb7Ktx4tafl63TzAUgofScLUi6f4O6U0MDiFUAY7suo3bVQryDJnHbfx0uqbcaQX7aHLDCjK1lhJHO4VYOzXh59JKuS/n8JLfTXY28IvDugm1jADR5Nfuzei2SWEwyszd2cPSP1h+06xvpeCkb6sZWLuKkprA6c+Z83DUOmdpsi/xvMN8=",
+  "URL": "https://github.com/stylus/stylus",
+  "LICENSE": "MIT",
+  "ARCH": "any",
+  "BUILDDATE": "1578059330",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "nodejs"
+  ]
+}

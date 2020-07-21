@@ -1,0 +1,23 @@
+{
+  "FILENAME": "perl-text-iconv-1.7-19-x86_64.pkg.tar.zst",
+  "NAME": "perl-text-iconv",
+  "BASE": "perl-text-iconv",
+  "VERSION": "1.7-19",
+  "DESC": "Interface to iconv codeset conversion",
+  "CSIZE": "13639",
+  "ISIZE": "29292",
+  "MD5SUM": "8c5e1001d04585196eb320dc750b1894",
+  "SHA256SUM": "7db695adc49029bfc0bfc68df18c47a57626a51592fb9a07a7cd0a0587ec6a92",
+  "PGPSIG": "iQEzBAABCAAdFiEEhs/8qRjPOvRxR1iAUeixSKmZnDQFAl7vNDUACgkQUeixSKmZnDRnvgf/TqCiv/SyFWDvIm/f+f2cQBIK5jZ5Pmk4qRvroCxzeK0jYIy7Ac1DED5HcvJxIFu/rvubngqfxFFgPL+nTw1kf0ryVifq2aX+XpOTCq2O2YQXpAYTj3Ssmv7QlHr1xWgrOsvKRy5cwun2zoN52+B9iFC0Sf46Mt5GyFUZ88+Ei5gotesvFW8//4x4KZY4R2leqy0lD0NWuCNlvpLmNnY346Z3s+bK5cYGoMVcp61gFtkyicYlOVtrcV9KRX72M0UPXW4bBtt+irtjMLmAdOJClelTeHUMMBc+nOtRQlmpJWyz2iMDMjV6Mm76AvwGkzpc37GrrDuNnyMu+xmbRxBLUw==",
+  "URL": "https://search.cpan.org/dist/Text-Iconv/",
+  "LICENSE": "GPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1592734758",
+  "PACKAGER": "Evangelos Foutras <foutrelis@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "perl"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "FILENAME": "perl-text-markdown-1.000031-10-any.pkg.tar.zst",
+  "NAME": "perl-text-markdown",
+  "BASE": "perl-text-markdown",
+  "VERSION": "1.000031-10",
+  "DESC": "Perl/CPAN Module Text::Markdown",
+  "CSIZE": "26344",
+  "ISIZE": "63618",
+  "MD5SUM": "034465d25d10915c26033b6201a2f27d",
+  "SHA256SUM": "ac1e32bf07cd50430313fed9550bafc940d9af329372a66a1a1e649dac87dd26",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl7viJIACgkQeGxj8zDXy5JGVBAAj73JAvKG3MfQkJQ2nX6ke75GBCi6mjmII5pjyQhsiVTttre4w78ynm+pGQY+BPIDKg3VVtboDEUHqZfXrF9TUXeUBZm/4dViDkbcnKGh7qSkee4bu9UKN78k8C7xtYvo2s7SBC5yNLKJ+3g9sQivVuDGalxo2Hm26eGCUIuwKHyyqED7OvPDfiIAw7OnLi/NirrrfxXvjCV2MzCvz2EcNe8kmaK3LYeihj6lDUV9YX69ZgBuC0DTLjSzmJHp4BY2n41UZC2HzeDBXgCzaE8XLjf7ADbCr45YnqNRsUFlAQp9Ls/t1ASYznRZ8sNFsSejk5m6rd3F6fRD0NRnzJCv46L4WXwv+T53geD+FpQnTV6t344wXtiqd7xTsLAtoT1NuasHJNZSNTFRyElRajEMsqrEhjRLs4Y/kxmSnQVN1eOCvHR5JO7V3lsRS0lJoIHnXFa7L1Dxcwc5PB+d9DhuHIaa7aBC3QDALE9VB5xG8moCLe4x6kKKhdQKKiPkQeTVPUFcSDfAPcQdLyu7Y19BtTOn+yo2Bni9GyyA7byC8LNPwr0pXJQSwcX7KqqiIbUckWRwKFOPZrz0WBKNbVq8WaWCULY0OSDq7smuT1xHZhZ7ZF0gd3ZrPWd/kyTvCqw/bebJVYrtXqhgOSqYkEkYDe/z9UjEpVuoqLFy6i/rrXg=",
+  "URL": "https://search.cpan.org/dist/Text-Markdown",
+  "LICENSE": "GPL",
+  "ARCH": "any",
+  "BUILDDATE": "1592756351",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "perl"
+  ]
+}

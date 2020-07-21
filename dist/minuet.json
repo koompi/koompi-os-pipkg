@@ -1,0 +1,25 @@
+{
+  "FILENAME": "minuet-20.04.3-1-x86_64.pkg.tar.zst",
+  "NAME": "minuet",
+  "BASE": "minuet",
+  "VERSION": "20.04.3-1",
+  "DESC": "A KDE Software for Music Education",
+  "CSIZE": "28846969",
+  "ISIZE": "33022062",
+  "MD5SUM": "ba729e30c8ad5e2d3d01bd00f18c1f01",
+  "SHA256SUM": "1e25b10adb5194f1ce4171234ec37d7051231dcf643badd9721c0c5362cec381",
+  "PGPSIG": "iQEzBAABCAAdFiEEFRnVq6Zb9vwrc8dWek52CV2KUuQFAl8HBKsACgkQek52CV2KUuQgkwf/fZl/GjLttCn62/iI59g1Aw0E2xB3zIuN3zOSvwvewH3TvWThLdzlti+niVdo6TdZwkyE66LZbj2y23H3AljxqAu0xtUsORUDA5hxpEet6LjURsrmDT7BkGTHUJDXEsvK4cG0NO0BtAfcFvDWGwTuswOQRFjq0eCikHy2rMjaeY0P4jww4OMhMUng4joGQaZAUHJt34lBOmOodBkaQ6e/7Y461i28XAI0eb1Id6nwExk5+T9aOgJzF/i+QEHVypvA1COLOOkpmqrOLQoiZXa7zVo39FiqkE9waljcHETSmxvybNo+QwIdJgjGVfiIaeM1C9RWYW4D9EucV7UPFtttlw==",
+  "URL": "https://minuet.kde.org",
+  "LICENSE": "GPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1594107609",
+  "PACKAGER": "Antonio Rojas <arojas@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "plasma-framework",
+    "fluidsynth",
+    "hicolor-icon-theme"
+  ]
+}

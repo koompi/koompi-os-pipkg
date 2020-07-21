@@ -1,0 +1,24 @@
+{
+  "FILENAME": "kdesdk-thumbnailers-20.04.3-1-x86_64.pkg.tar.zst",
+  "NAME": "kdesdk-thumbnailers",
+  "BASE": "kdesdk-thumbnailers",
+  "VERSION": "20.04.3-1",
+  "DESC": "Plugins for the thumbnailing system",
+  "CSIZE": "22522",
+  "ISIZE": "62065",
+  "MD5SUM": "6c200da63ddf2b087fa240267ab86eaa",
+  "SHA256SUM": "36516b9540f72b664a676841f5d8c67b71a4c16ddc63317ce6b3bf371533a369",
+  "PGPSIG": "iQEzBAABCAAdFiEEFRnVq6Zb9vwrc8dWek52CV2KUuQFAl8HIQQACgkQek52CV2KUuTHMQgAhQW7FBRbO9hHslsvE1zay9My3wFt+ELQMgHyF3FF7fFSTuNUS2WQu2kDQIELKvAprDIRP5+GVartvjnY5ls1whWRGmJK7cYqphSees8vAI5fiQQuamT39AHLsxirVjeC8A5RsEU+gVL63htLop7ebcAEEeLyP+gIAjec7tUenHnu40ICmM8WTUVkIPF3G84cB5SaY+kqR6UnOPriDasvASc9ziDu6O2N2PAXh0Dd6cgwquE/kkDnroYAu0wyxT4+8TpvLzH/uXWCoFWwiaY6OE5SLz2nT6BSSFzOd4HSB7ZTNtD4Rtr5kGctYGyb92ToyxurmlSVcLfD9vmtSqjiAw==",
+  "URL": "https://www.kde.org/applications/development/",
+  "LICENSE": "GPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1594113631",
+  "PACKAGER": "Antonio Rojas <arojas@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "kio",
+    "gettext"
+  ]
+}

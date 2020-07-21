@@ -1,0 +1,23 @@
+{
+  "FILENAME": "python-threadloop-1.0.2-1-any.pkg.tar.zst",
+  "NAME": "python-threadloop",
+  "BASE": "python-threadloop",
+  "VERSION": "1.0.2-1",
+  "DESC": "Tornado IOLoop Backed Concurrent Futures",
+  "CSIZE": "13482",
+  "ISIZE": "44607",
+  "MD5SUM": "e625a0f383d5ee5b349905f9321c2ce5",
+  "SHA256SUM": "d25189bfa8519f7c9765ac5be419cd32ae750fa19251957c3ab14562a34aa887",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl726boACgkQeGxj8zDXy5LNCg/9GGvtTEm8aHqrL1u1lZPOabXgmzSHb5xBYSAMdviGIuUt4JXsdm1lruRgBlYaR5rgwdtzXH/tbd55YsKK5AzVw/miR+PCqef9+/DvKj24J4/PhayTbozg2ei+6d4kiOwWLKY08QG30BMsVHiLSgTfPgDg7Wx/O1sNx3rgBsHksed07hl/9P+k0iBVDQQsmTopl/iubdeh7N9wfr8ECbBeFkc8aAl9A6pG+anObXXmfAhP+kejHMCThYLBvSKJ22G+/AQiAD7zdax4mqYpC9yVbD5KQ/yyUkMBwGYZZQug+YxxKQ2UQsiop+4JIr0iwVP1uXiVC7Dv9eEX+ke3unMqHguHnMJOHYENWaodxxlncPms03yxTAfdza95x6jOM1GmNdyla+a7NKplPSSfpRVCBsEOoJM4aGkPS+TgDJQDhOhfeLLPHD9NWsRPSkhEzTTwUYImeXTHQxpJYVIlWl3owjSNN9Rx1ZaXovx0pRzPII+ZRNvfiPrK99son1foYLu/DnrFpyX0dxeCkJPxMgbxw1acS0gkHp1Cs43jUU7YRHD6gHTb3EeIPE/L5eLyQSqLk4e4k3AQhtJyralVStanS3+MQ2ApUsBh4tFvFMkJ/977fMxbX1Tr+gQLmHnZHS3XRqVzTOLu4mbUIGGsPhzkGhS4C84cteG80SuILWykJuM=",
+  "URL": "https://github.com/unhashable/threadloop",
+  "LICENSE": "MIT",
+  "ARCH": "any",
+  "BUILDDATE": "1593239591",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "python-tornado"
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "FILENAME": "brltty-6.0-10-x86_64.pkg.tar.zst",
+  "NAME": "brltty",
+  "BASE": "brltty",
+  "VERSION": "6.0-10",
+  "DESC": "Braille display driver for Linux/Unix",
+  "CSIZE": "1567276",
+  "ISIZE": "8115992",
+  "MD5SUM": "99eefc1de89149dd3c4c433737da5624",
+  "SHA256SUM": "c3c6be20ba1e44f490d2840f89d7bb3b920dd80f66c44023ebeabf65e207c628",
+  "PGPSIG": "iF0EABECAB0WIQQ1W9uX7Uck5rOkUOej2VYqWJh0qwUCXsLDtgAKCRCj2VYqWJh0q9IcAKCopQxOQh0dDYtEiNwoinlEuKoeuwCdF7E3bIdFAKAMhsCSreeBc85c0Qs=",
+  "URL": "https://brltty.app",
+  "LICENSE": "LGPL2.1",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1589820922",
+  "PACKAGER": "Juergen Hoetzel <juergen@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "gpm",
+    "icu",
+    "liblouis",
+    "tcl"
+  ]
+}

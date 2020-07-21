@@ -1,0 +1,23 @@
+{
+  "FILENAME": "python-pint-0.14-1-any.pkg.tar.zst",
+  "NAME": "python-pint",
+  "BASE": "python-pint",
+  "VERSION": "0.14-1",
+  "DESC": "A unit library for Python",
+  "CSIZE": "331829",
+  "ISIZE": "1954129",
+  "MD5SUM": "468d8174313554f9b9637909d7bd6990",
+  "SHA256SUM": "5ad1db67a505da6efd874ce882cfcf8425ec1f440516e335f2086d03d57eb01b",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl79buMACgkQeGxj8zDXy5IEGxAAiK0zklv1wJHmpHbgObZMJVOA7a3D86qu6NGSMePOqjMVnWJ/ScA0PEiWxATyMTMdykFTqr3veTEmHSO/hWYiqIL/7Oj/jXWX1FMSHyaO7qRQ8yVxoA33H6AyzAIMunrcGjr2MUrpX//cetec+gzel+EPltps3D6Xxgbm/oHawqoFkG0kdFndUU2FgdY9H7GSDnJr00JCP32gg/fDPMRxFGHJT7R9yMLxSylNXVzWJhdEuaR8dV83tHIg3mq97XeX4kLurjfMA322qIeBC5g3o1ezG/9BFYuKGh4jMnqI3Anpim5pHUyCn4ZPmYLQK3Vty3jadd+Izyiqgjv3BusmG0E/oPEqmORyTYv2wgvXtemUrXIycPfQg/Oo5zbtPTyMY3SfnleC+dnFNBCodq031c6yS+YeceuB5udcuENl1llWb6/tz3C4p1+bcMPKAbydezojq+/r0IYJksFzxmIqCUKGK3ZSt2nfb2mZyTvpYSwUpToM0yAndgvtGykEa2QmgB7h46aHZSCUYtAGy19my+TzCiGhZVX/bgN93aHD+Is5BEerO/jMDdLqbEN/Um42+bvAP511jKfCG7qp4jKB3r+G/VF+EsaIpvtoWewBd4lJGHA1gpXktDtmTtjoXBLcnR72R0O9wXJeiH+ElpYf7mqqM5B3Tq9Cs7W1MSqQ+oU=",
+  "URL": "https://pint.readthedocs.org",
+  "LICENSE": "BSD",
+  "ARCH": "any",
+  "BUILDDATE": "1593667196",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "python"
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "FILENAME": "telepathy-kde-call-ui-20.04.3-1-x86_64.pkg.tar.zst",
+  "NAME": "telepathy-kde-call-ui",
+  "BASE": "telepathy-kde-call-ui",
+  "VERSION": "20.04.3-1",
+  "DESC": "Voice/Video Call UI for Telepathy",
+  "CSIZE": "198577",
+  "ISIZE": "729693",
+  "MD5SUM": "b74d929f86305a20eb035e621463de8c",
+  "SHA256SUM": "1d7b1723314ae2bc3f51d15d5d8c7a65ec1884d44658d06495a42498cd1a05d7",
+  "PGPSIG": "iQEzBAABCAAdFiEEFRnVq6Zb9vwrc8dWek52CV2KUuQFAl8HH8cACgkQek52CV2KUuQQFAf/YGg13BQW3hzVmutXPhdhApGReiOKw7cvGNERJcEBcVQLWoJpt2gH5eVy+IIzfFQmEx/qm727CGsxaq7Vgi3VVGpB2arOTGb8pCNjy5U7vz0G9imHMVss2DLoJV7sq5LGDJLccyxBUGyyPsnwG1YVh3xOWcmf/gKEe3L+OY5iXrkRfNZu8YwPW664dRdtD68k3PlU7fEUeAJH12eJi21tHAVNrkSllSe9PMEfUz4qdRosFUMqGrytfsZi9emJxKpdJSGtRpvFGeeX5VdrAjWgxanaENCtdj26uy104lg3ljQNWi5cQ3gTRzu8sOBNzc2aR2c9/TOT4sN2ROVw3JYvDw==",
+  "URL": "https://community.kde.org/Real-Time_Communication_and_Collaboration",
+  "LICENSE": "GPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1594111668",
+  "PACKAGER": "Antonio Rojas <arojas@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "telepathy-kde-common-internals",
+    "qt-gstreamer",
+    "phonon-qt5"
+  ]
+}

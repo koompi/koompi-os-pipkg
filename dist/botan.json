@@ -1,0 +1,23 @@
+{
+  "FILENAME": "botan-2.14.0-1-x86_64.pkg.tar.zst",
+  "NAME": "botan",
+  "BASE": "botan",
+  "VERSION": "2.14.0-1",
+  "DESC": "Crypto library written in C++",
+  "CSIZE": "2491436",
+  "ISIZE": "9082031",
+  "MD5SUM": "1887b52b44a92ccc5800d456862f974e",
+  "SHA256SUM": "c533f33692bfc059fe5fd253aca380526125cf3de04f1d5edc3b277c914dd5c8",
+  "PGPSIG": "iQEzBAABCAAdFiEEFRnVq6Zb9vwrc8dWek52CV2KUuQFAl6Les4ACgkQek52CV2KUuQR5wf+P5TaJE5YfpLi+I/CDI+E2KpS+K5Rvzd96U72t3EhAxa3jVUaO9OzYGfVhobHvIjxv6WlOBwy0XR4xu0n25NqFks7OnTxjd4Iz5yLklcJeim7MUvQ04ttirxp/PaN+vn1/i8XxfJt4TGr/NAhKcCAkDqOCXTrTEatwlsRU4ct9kGIOWOxb5GLx114vNkZ6xhNPbezwYG/M3d1GGLQndpMXkC2B5FesV8x6L1gMTWs9B44rsEM/GFfV/Q8WlU2j+0VzvDwHd9PUoQXIQT5MgyOoez6Vld7TRG0dEWvMViks+VssJigTEd+s81JsPXcBzbDaXUlKczK6uyQZ5T62nTtIw==",
+  "URL": "https://botan.randombit.net/",
+  "LICENSE": "BSD",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1586199075",
+  "PACKAGER": "Antonio Rojas <arojas@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    ""
+  ]
+}

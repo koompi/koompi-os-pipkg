@@ -1,0 +1,26 @@
+{
+  "FILENAME": "python-django-allauth-0.42.0-1-any.pkg.tar.zst",
+  "NAME": "python-django-allauth",
+  "BASE": "python-django-allauth",
+  "VERSION": "0.42.0-1",
+  "DESC": "Authentication, registration, account management and 3rd party account authentication",
+  "CSIZE": "540252",
+  "ISIZE": "3580195",
+  "MD5SUM": "6cbbfa71c2e184e75fb0e89a9852f32a",
+  "SHA256SUM": "f125f41970856270732956e73895706070b583e8fea9e1337861aca9fc24d6a6",
+  "PGPSIG": "iHUEABYIAB0WIQTH54SUZv4jWDQ1iDdyWHNLQcMVSQUCXsry1wAKCRByWHNLQcMVSdt1AP0dnGUPa9cwQGoqS7sKs4njntiC4fr5xCPDrVEgMnwXNAEA2tZUxLVBu2xS03PFuG/lMDzt9dgrXZCJX9ZUK/9n0wc=",
+  "URL": "https://github.com/pennersr/django-allauth",
+  "LICENSE": "MIT",
+  "ARCH": "any",
+  "BUILDDATE": "1590358632",
+  "PACKAGER": "David Runge <dvzrv@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "python-django",
+    "python-openid",
+    "python-requests",
+    "python-requests-oauthlib"
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "FILENAME": "wesnoth-1:1.14.13-1-x86_64.pkg.tar.zst",
+  "NAME": "wesnoth",
+  "BASE": "wesnoth",
+  "VERSION": "1:1.14.13-1",
+  "DESC": "A turn-based strategy game on a fantasy world",
+  "CSIZE": "424215008",
+  "ISIZE": "568635869",
+  "MD5SUM": "e79392d4c5743084a56eb2101095a53f",
+  "SHA256SUM": "2f64edb359ed20f4ef16cd706cfcb4ac3627b42da2a413cf6168c3e20b988820",
+  "PGPSIG": "iQIzBAABCAAdFiEEj8FaBklQqZ3RvRTdOeS4d+YuuRUFAl7pWMEACgkQOeS4d+YuuRU3SA//SbF+mbYQ0G7oNCJCz2iTklc0BWAWRnmisQDL8ic11b299+kFIfzOnde/qFsPARlBN9JbOoCKkn2Be7yX0rhzSw0JMQDAgdjSONpaE8QpLZV/I8ASyGnmFO9RYtQwfKqFe5VHWo/4+zuN6eBgSpyBaDPKTbrWm8G7g+NIP0yUBvwg/ls81FRaRRMP1xJxixb6VyOETAERG+Hx8f4DKWEZ6P+mRDsdzYSyIO6WJqsXVMNKMKGG7AAuBNsPetMhZdxA+6sz4f3OHMpg4lIw0MLVYxxQCpU6xLNm98zpObOaNoQ6kAscAeIuMeW0C48TAoMARJ31M2FJ6vy3t7PaeEm9W3s5AmbX22JYk4CLJdF+tQjBiTqSInHaMALOEhd+lLsJld8GiTeWPb0mfLienVvIH9JJlYV+oaYH7WhK4UZTBY1MXNU0W0Kjg7kbewsLKuTNupfZgSX/0qm1blx0XjnjxZmRBM7qM2kOFkEiaNjWtNAlFx1/OiatFJKfX2EpoRQEXENa31DWv3hCj+2Hjpw+9zJGCFoX5nGrwcHTq4iOJDCERuCMn+0JC18ELMrOPBfaiuv9/pethGvhbRoqbjsm5uQewsOvssi3CV6M0MMJMaS2qD1DLBN1Mb8rMnMsjTbv7AwTTpzibI7qZV4cLYsDfiyHoOHwh30Kj5RYR0lvAnw=",
+  "URL": "http://www.wesnoth.org/",
+  "LICENSE": "GPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1592350521",
+  "PACKAGER": "Sven-Hendrik Haase <svenstaro@gmail.com>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "sdl2_ttf",
+    "sdl2_net",
+    "sdl2_mixer",
+    "sdl2_image",
+    "fribidi",
+    "boost-libs",
+    "pango",
+    "lua52",
+    "dbus",
+    "python2"
+  ]
+}

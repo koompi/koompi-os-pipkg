@@ -1,0 +1,26 @@
+{
+  "FILENAME": "beaker-browser-git-0.8.10.r2.g54651db80-2-x86_64.pkg.tar.xz",
+  "NAME": "beaker-browser-git",
+  "BASE": "beaker-browser-git",
+  "VERSION": "0.8.10.r2.g54651db80-2",
+  "DESC": "Peer-to-peer browser with tools to create and host websites",
+  "CSIZE": "76170948",
+  "ISIZE": "327075833",
+  "MD5SUM": "d6c553a0c534709a3265341944a1fee0",
+  "SHA256SUM": "e5a8251455cf827c345e654ea661c73b1464b094976bde9b2ddc2a75d6581a52",
+  "PGPSIG": "",
+  "URL": "https://beakerbrowser.com/",
+  "LICENSE": "Modified MIT License (MIT)",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1587893951",
+  "PACKAGER": "Unknown Packager",
+  "PROVIDES": [
+    "beaker"
+  ],
+  "DEPENDS": [
+    "gtk3",
+    "libsodium",
+    "libxss",
+    "nss"
+  ]
+}

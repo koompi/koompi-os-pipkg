@@ -1,0 +1,23 @@
+{
+  "FILENAME": "libfaketime-0.9.8-1-x86_64.pkg.tar.xz",
+  "NAME": "libfaketime",
+  "BASE": "libfaketime",
+  "VERSION": "0.9.8-1",
+  "DESC": "Report fake dates and times to programs without having to change the system-wide time.",
+  "CSIZE": "40264",
+  "ISIZE": "147264",
+  "MD5SUM": "a5886f2584bc827ee1f218499e7d751a",
+  "SHA256SUM": "ab409d9232d26bc3abb04ed5048804224bdc5c2ff5214e79c6168482bfff5710",
+  "PGPSIG": "iQIzBAABCAAdFiEELjbYYgIhSC/EXLfyqRdkdZMmtEAFAl229yUACgkQqRdkdZMmtECwdA/+Oki0rj3s4ZeaWAmO2thLZB+Ev5VFoZQGJT2sW10+5e8qSBGhbp5krRFOkK7Gaiqx5Pnq6+3Mdq9/4BNUccn3r3IZTRxu3LzXA/eDa6voRksVecT2Bz1GrPj2vu5kNFwvn4Yfrh8sml5DWsX675Cv3qia4m5l6sJFrcxsnU/894nKD613IT0qUigoqWIdFuCAK2ZAKum4e030SEuj0uSpDNhbVkLbeLG1Mc9bL4O80jRuSUDz1/5WI0eQa/oeyhAKniQkDCbqCmYIqn2q6G/5zCtOJDKI64F9ncaOWJS46nr+BpAwraHGJ5eThOWrA1YTh5+wZqSqjEDZY1rXpbacnJEqecXqMhZvEfp/9S+sr13h3xzJNvQBLJ6DHW+Eay4F9uMssPk0bTe/e6ZcLRkKwRaf08oiYiYGhG9qEaVv6iKyoAAXTpPdH7kGdPJ+P+f51XcEMeTKvW2shDwUyTCUFqqoZiFA6Q/eqk0D04btn+rzISvQnrY9F/7M2yAsfrJwtjAYxvzrnDi/gy1p/fOIJ3FOTZkjKFbHYGV0+pGEoh7Q1wB1tzssevQY6fvTa+ptDfQ/TrlAhGntHTwz8Q9TRx+HooywpYcfuSYeocOZaEeCcVVoNqMqV1UugSq2JEFJC2RNEqmGKwrQQ/lG1kASD96REpyVggAl6K5UL3NJaEE=",
+  "URL": "https://github.com/wolfcw/libfaketime",
+  "LICENSE": "GPL2",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1572271826",
+  "PACKAGER": "Lukas Fleischer <lfleischer@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    ""
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "FILENAME": "libreoffice-fresh-ja-6.4.5-1-any.pkg.tar.zst",
+  "NAME": "libreoffice-fresh-ja",
+  "BASE": "libreoffice-fresh-i18n",
+  "VERSION": "6.4.5-1",
+  "DESC": "Japanese language pack for LibreOffice Fresh",
+  "CSIZE": "3540892",
+  "ISIZE": "23913078",
+  "MD5SUM": "4734ffde0069600a6f40d80afc30baac",
+  "SHA256SUM": "c0d6e286d384c0da2e61f125fb4f9921da58fcea2cef99757dfbef76a0e2471b",
+  "PGPSIG": "iQEzBAABCAAdFiEErcih/MFeAdRTEEGelGV6sg8qCSsFAl7+FxUACgkQlGV6sg8qCSvfMggAr2Jehvku5t8vwD9wo6OkChJTMARdJezxLJ323/+YUNEujUFK5jkK1CFLlIKirKW6tBkWGiqQ67mqYrm9n9fTaCAIkgupOJign6D3uXpH1p/lsb0mEw4+fUqP0QD4GTUDl4aZpD3PZVuhTOcj45VGghl6Ae5ECU56A4D1/tcJWWqVDLHuQNUfhh4ZSJODqT+DJgQsaYPnp6SJAvfqZw9DfpCRsazdrNhTLoxCX4n2Xp+QoP0vcRFP8/FBJwcxg+naGHB8K3TyFi4RFUaKyZPPP2zRQck7aTLkZ8y7EHZffBqbqEeLHm9iuyI/Y5ZOFrWMvfcytYssRiV2HwzK1yNPAg==",
+  "URL": "https://www.documentfoundation.org",
+  "LICENSE": "LGPL",
+  "ARCH": "any",
+  "BUILDDATE": "1593700315",
+  "PACKAGER": "Andreas Radke <andyrtr@archlinux.org>",
+  "PROVIDES": [
+    "libreoffice-ja"
+  ],
+  "DEPENDS": [
+    "libreoffice-fresh"
+  ]
+}

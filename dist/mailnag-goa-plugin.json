@@ -1,0 +1,24 @@
+{
+  "FILENAME": "mailnag-goa-plugin-2.0.0-1-any.pkg.tar.zst",
+  "NAME": "mailnag-goa-plugin",
+  "BASE": "mailnag-goa-plugin",
+  "VERSION": "2.0.0-1",
+  "DESC": "Mailnag GNOME Online Accounts plugin",
+  "CSIZE": "7031",
+  "ISIZE": "9930",
+  "MD5SUM": "27066d61a466c53a52520d68f401370f",
+  "SHA256SUM": "9bf992c83e881bdd61dfe119f54a1012641fc769f4e0331cd8acee8fba8fdbcd",
+  "PGPSIG": "iQEzBAABCAAdFiEEzgvecadZqH8j8PfYth284QkBwWMFAl7Oo+8ACgkQth284QkBwWNeNQf/RlDFSxM/h3UOKHTHDVcxFbfcOVNkXzcM0KRQDAJzSKiUc1swBZ0DSL3LxgERlu+Zm10De73ETp5p9MXA1N3eFAMbD7K4iPV4D0ZzA3Yv4P/noYqys6NrgvVu+dDQ3/ta5pCcBajCJfD7pmL6MhvpUrS6+tT+0L/1uMawKDbFquQesEvt6cEaOxxwdYbjYNdFSAhSNEu4Xbj0JBkJjyagA+erk3DXoB1SameohEeKM9qNrXSIhW6c6zbjd8wlPMC0V4B5j9Wfdu40WMXnfOHjjrgRrZbesdvoGOXmkPjrJ2YSZHvrywU8YYx9QnxQdooq+8xWIO0ctSSKBP1XTa5bCA==",
+  "URL": "https://github.com/pulb/mailnag-goa-plugin",
+  "LICENSE": "GPL",
+  "ARCH": "any",
+  "BUILDDATE": "1590600654",
+  "PACKAGER": "Balló György <ballogyor+arch@gmail.com>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "gnome-online-accounts",
+    "mailnag"
+  ]
+}

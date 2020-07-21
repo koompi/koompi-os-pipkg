@@ -1,0 +1,23 @@
+{
+  "FILENAME": "xfce4-diskperf-plugin-2.6.2-2-x86_64.pkg.tar.zst",
+  "NAME": "xfce4-diskperf-plugin",
+  "BASE": "xfce4-diskperf-plugin",
+  "VERSION": "2.6.2-2",
+  "DESC": "Plugin for the Xfce4 panel displaying instant disk/partition performance",
+  "CSIZE": "55714",
+  "ISIZE": "228034",
+  "MD5SUM": "796edf695b248120f2aea84aaf6f8880",
+  "SHA256SUM": "2066262c03dc22883ddb3c50097fe63cab03885f152abf5445e1f0c11419829c",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl7DnlEACgkQeGxj8zDXy5IlPA/9Gqwh1MwXg0QygwhsGCjNHCWe2oRlvi9d2SZZp8I48FjnNTBoOqQebe36dMlPPF6f4sQZjC7KHRKORUpWsh/6D1QO8ClVdqW/wGSI6377xRbwQ+/i4AGLs/XKOUNa/kOsG3YJT4xDAtk+5NNYfk+PYvhSXiiW5tZV7EO5/Vjn5504HPFHa22hJeNMPrQqmk8b2Ts1eG2vj9yHTTtqhO+YIjkNGDmskir5x1wZIpdyd4v+4j3Jml9jLO80UfJANHoRNU/BfB/n0sMY8OBJkDLpoauMOwv8NIa/AXiKJpEx9EqUU6LCdHLgfu1AndGwNBieXzroI8QGY0XIn72L/+luSmcOPkT2vJtPZYXd0BdnAYAJ6ukpM5xSiFgBq5wHT2i+s6ptyD34TemCaYSHtfXMVqE+yCg83Nzek9PP5WsdLUSgdu0RHaRJOrsomlUQ3d+gQ4bBj5inbbfUoCI9bsB03D7rAeq9SrEj7fujlek9rJ2Gkpe3se9ORg637kjCHE6Y+B1XW/FfT52TCAlJ0mbBXGROw/MD5WZfGAJtpuCCEjAYGj8/XGr299VCG5bvOG1f/wNhc6mg6jnt+YjKwgOzWfr33rF10V8rFEY+ZS0kce/q4m69erhWBBrEmtecYstZiXAxEpf8UMZE208hqW+Y6FkOqtsN/HkJmKEZFnsgoBg=",
+  "URL": "https://docs.xfce.org/panel-plugins/xfce4-diskperf-plugin",
+  "LICENSE": "BSD",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1589878319",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "xfce4-panel"
+  ]
+}

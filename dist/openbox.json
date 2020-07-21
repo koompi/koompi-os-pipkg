@@ -1,0 +1,31 @@
+{
+  "FILENAME": "openbox-3.6.1-7-x86_64.pkg.tar.zst",
+  "NAME": "openbox",
+  "BASE": "openbox",
+  "VERSION": "3.6.1-7",
+  "DESC": "Highly configurable and lightweight X11 window manager",
+  "CSIZE": "374974",
+  "ISIZE": "1255171",
+  "MD5SUM": "9b9166bb9cc55922a7c34f76f78e07ef",
+  "SHA256SUM": "e1d75df26254997ad378c79a4e7e2acea6a04ec1e7c1b07ddc886a996aa965db",
+  "PGPSIG": "iHUEABEIAB0WIQSYX6G7jYlWZgHv/xEEU6bKI8VjFQUCXsniqAAKCRAEU6bKI8VjFZl0AP91FuWT0a2pzEyW15hliaWL/x5e+E+XpvLPA1DIiwFA+wD/fNxeLWgz+K0/Ohz4qGWJXg8L5A85BSqUpni5sh04WCQ=",
+  "URL": "http://openbox.org",
+  "LICENSE": "GPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1590288924",
+  "PACKAGER": "Chih-Hsuan Yen <yan12125@archlinux.org>",
+  "PROVIDES": [
+    "libobrender.so=32-64"
+  ],
+  "DEPENDS": [
+    "startup-notification",
+    "libxml2",
+    "libxinerama",
+    "libxrandr",
+    "libxcursor",
+    "pango",
+    "imlib2",
+    "librsvg",
+    "libsm"
+  ]
+}

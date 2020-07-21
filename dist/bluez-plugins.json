@@ -1,0 +1,23 @@
+{
+  "FILENAME": "bluez-plugins-5.54-2-x86_64.pkg.tar.zst",
+  "NAME": "bluez-plugins",
+  "BASE": "bluez",
+  "VERSION": "5.54-2",
+  "DESC": "bluez plugins (PS3 Sixaxis controller)",
+  "CSIZE": "7540",
+  "ISIZE": "18344",
+  "MD5SUM": "797ec90e5a757e873f9ee90d1c2e2d53",
+  "SHA256SUM": "c972a411f8023441c07961b1379050876941a17c9c79817e801020c5d6bef9a4",
+  "PGPSIG": "iQEzBAABCAAdFiEErcih/MFeAdRTEEGelGV6sg8qCSsFAl6kBtIACgkQlGV6sg8qCSvdDAgAskgy/UZ+0UeDMq4KUjvNAT+uz+TKL7LcjUboigk1rb8YPHF3tRouGpMg6h00qPBxzDHM33FNCTc24OysEjbaVyVlQaho/EM6ltmIK+UgYbHz/s8LBsMV+PIuEw5j7qqSvgaEgtuFfZhq6MMZJEeBQkYbc+8HjWAEal62GhKESbJDEwtX4du607Ar9/BewuBO6wadu8zaLNuvdPghh7KqNgIDV8CfrDQM4r5V8TgLQ3RY8NmCeGqydc5xidd7yzURMnzCJJirYolWDp8d/zTwbwGG5QChdLYXiUn0Ca3gfe6uhYt9X6QeCi2m2eHv4PrtO/zLc8aoZ6HVXp87OJAKgA==",
+  "URL": "http://www.bluez.org/",
+  "LICENSE": "GPL2",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1587807808",
+  "PACKAGER": "Andreas Radke <andyrtr@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "systemd"
+  ]
+}

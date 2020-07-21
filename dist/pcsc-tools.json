@@ -1,0 +1,25 @@
+{
+  "FILENAME": "pcsc-tools-1.5.6-1-x86_64.pkg.tar.zst",
+  "NAME": "pcsc-tools",
+  "BASE": "pcsc-tools",
+  "VERSION": "1.5.6-1",
+  "DESC": "PC/SC Architecture smartcard tools",
+  "CSIZE": "125923",
+  "ISIZE": "469995",
+  "MD5SUM": "fe411ac5bc5bd44634bf03220ef395de",
+  "SHA256SUM": "6a33d1d29232fc67289d021c3b62f31d0af2a326b3dbe3f68754337aa9bf6e52",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl5urrAACgkQeGxj8zDXy5Ih7BAAqCuUGmEV5MQZEmPAXALx5RLDoCV7hUT52H6GzVbHHZCUxQ6VuLsShCrOLmTNAOXbC/wcsyJIs4stitIPUUMrJHhrNivih2G374dJgvUlFwgfR8OurYsec1HqGrYm5EZ0HYjTYiMNTT4ZWPJBuc7uwULocSJIyE0r3EIbmgCZ+d0Gb41QIP5CmB7kYFLAEEd8B8Z124RccHniDkpqW8DSg8yJgWBqX2Um/TEEybGRz+WXXCuJowGhzqEc+ejcS3ppIArSXm3AJHg5JKEcc2vlZqdIEfPaeV8sjw1B9zUz6+9gQqjWQSisKaejHH0LGKDR6OkxgtqW3j6J3IRIURwI95Yu5zUBUZev+IurUMNX7sMBN6IYEqmlX2p7cQSsMYuWouje8ditfMw8x1HAd4aPX3T5IVgYkBdnTlija+irrw+f7rCEzt2VwfBkeiP9y59ap/nd3siVJbcYOadQZC9tORFBz/uO2yNwKubh9AR9ngXBjLF1lIAMFJAdYBI7RhHBhfJVb9L9qh0GyQIg7Mcbd6eXRimXZOZFPA/Nv0gySeyTaEPRam8Lctz/9S0rRiOBzx3Xv4jXwmm6FmfmpH3+loLLiUPaJxcjxJHeS8N1zSTDCB20sPleTSpffWlTBSXcVIf+hfx9MTfajBspmq6Qy5ltTTAhntgnuOSrBhbM8CU=",
+  "URL": "http://ludovic.rousseau.free.fr/softwares/pcsc-tools/",
+  "LICENSE": "GPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1584311937",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "pcsclite",
+    "pcsc-perl",
+    "glib-perl"
+  ]
+}

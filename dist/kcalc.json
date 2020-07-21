@@ -1,0 +1,23 @@
+{
+  "FILENAME": "kcalc-20.04.3-1-x86_64.pkg.tar.zst",
+  "NAME": "kcalc",
+  "BASE": "kcalc",
+  "VERSION": "20.04.3-1",
+  "DESC": "Scientific Calculator",
+  "CSIZE": "612035",
+  "ISIZE": "2395894",
+  "MD5SUM": "7698cc7855fb399ba94c407c8e57460f",
+  "SHA256SUM": "3d6eab8992a902b66386c37e90658b5f60e78a25c30c5c632bec79000314f72e",
+  "PGPSIG": "iQEzBAABCAAdFiEEFRnVq6Zb9vwrc8dWek52CV2KUuQFAl8HIVsACgkQek52CV2KUuQJYAf/Z7CgOIfJzU9pmvNGRmJ6m5cNL5J6Rc5liGwJP7i3FCvd35ZNySRaowcHqOxvqd7mMHVm+HicFRMyGl6zS6YFKl802BqHeaOxyeQnCOqcUtxATtZYPJwk46XDJCFU2+UVSiX4ofzAq/3zYUCcD0G/WVzpCZC0GKvIlHJMpL9+pOH6AqWLtBrMVrYNEB1X2cdXHdrIUvzEzWdLynVpB8Vw6S/FWbRxPasGnQ8xgIHLARA87tLAk8glUNo109Jc+5jDRqn2oGatlNnlYyhW2KR1sPjX4dUq2ngmfcMwGX2pKvj3ad4v7UBoCc3c3qPzfZOQHc7/pb9xRmzqBW/IM0obFg==",
+  "URL": "https://kde.org/applications/utilities/kcalc/",
+  "LICENSE": "GPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1594114323",
+  "PACKAGER": "Antonio Rojas <arojas@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "kinit"
+  ]
+}

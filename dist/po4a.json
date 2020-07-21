@@ -1,0 +1,25 @@
+{
+  "FILENAME": "po4a-0.59.1-2-any.pkg.tar.zst",
+  "NAME": "po4a",
+  "BASE": "po4a",
+  "VERSION": "0.59.1-2",
+  "DESC": "Tools for helping translation of documentation",
+  "CSIZE": "1462016",
+  "ISIZE": "2699963",
+  "MD5SUM": "5e714e3a5139f7eab0c4800eaadc43cc",
+  "SHA256SUM": "d4c99ec23c1af24b5a359258462a54b46dc9850fd8d41d648be6d0db28aafe35",
+  "PGPSIG": "iQIzBAABCgAdFiEEOO3RiGdWkk4SJOSVJOTNsAE8JYAFAl7v070ACgkQJOTNsAE8JYB2bQ//bm5k3VZdHTBXeSKCM3ZrizdvsC6uvMuy2tsLZNxM9aiJC5HuZZbS/fNMAn0q6NAZLzjx9mm22AVklJfNW5Y3vFkcjk0h092Cz6XFDrpQWgayBkfCBFVJ+r+zeafNGGibSNfE29LYxHhMxWQoHW3al5sq0TJ18ponUo93vPusjL5z80WhKz7ebvpiTET7K6mGnn8VT7l+IEAnM7aAtXlZUAq84o17tkXxl7fq0WDxInl31+BijPGMvA7v1p+AM8Yf2GYpix78cQJn6Jh6diGs3oCrLhK3dQIJ+ojsJ+lpg4EzUu0/HtmHkzmGDp3CGpX0QkgsbntQkhbcStNUYiKtwBzmrSdTDgCjBzK/5dzvmlDipD9BPi5jGJahzEAulIRkGt+Sd5+JR2Im1hy0/oZwiE7Zz27qc2m7Xgm4paw8+INPbaW7f1dEstBqo+p0T0fQ7zw5lRDbyFchYxyIGqWWUMXe7KBMqY8Coh4AtVxQY6s7En5G+VmA2yMpIO70G/z7eWxKs7lWnQvXTKMzsELuekVCCq3vQ9iX1+1T9jMWVebnkWO1aj6SvJ1Rq6gLEOR5cTGqace/GUEHxDZi6NjkiLW22eAIvgQ2O6X2gAmS5swTD8PwQX7xH7rTe1xULZ4Ma/W3VTEBUxB3QutAGsABc0u6M7ll1qn6AqiK4euZ8fI=",
+  "URL": "https://po4a.org/",
+  "LICENSE": "GPL",
+  "ARCH": "any",
+  "BUILDDATE": "1592775431",
+  "PACKAGER": "Jaroslav Lichtblau <svetlemodry@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "perl",
+    "gettext",
+    "perl-yaml-tiny"
+  ]
+}

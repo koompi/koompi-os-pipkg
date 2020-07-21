@@ -1,0 +1,23 @@
+{
+  "FILENAME": "tamu-anova-0.2.1-7-x86_64.pkg.tar.zst",
+  "NAME": "tamu-anova",
+  "BASE": "tamu-anova",
+  "VERSION": "0.2.1-7",
+  "DESC": "ANOVA Extensions to the GNU Scientific Library",
+  "CSIZE": "20630",
+  "ISIZE": "27801",
+  "MD5SUM": "9cf6f2e8144ed40eed75857645f41186",
+  "SHA256SUM": "d6a72aee5454ab51c7a528a151682d5dbf6dcdc5cd3506f8b27a534ffd969106",
+  "PGPSIG": "iQEzBAABCAAdFiEE5JnHn1PJalTlcv7hwGCGM3xQdz4FAl7XgTcACgkQwGCGM3xQdz77wAf/aTgjpe+bF5aqExl2LLjCAY6qsgwz/oKWRKKGw3UvP1GQD3+xa88MzhAhF43GiXETr72N3rDVFVxtzqvZTOCvfPcVld3qZVmgnQXbBYZ78AW03wI4BWM8VF90+y1wVbDw+xp+EDOX/icRkIVYUK9Hc+Skit+wQi0SQqcEjF8n6j30Vr3dkAz2k2DcKSqAMdXk+Bj8DLFP2AiqiK2Zlos2HLR0hBBxj/SSu7EaynOrbm3jn16vyNEQ5UrSJ483ILM2BUmJhbz59adVmlQpl1xxs/L7u/pu3zDFS9O3N4JIEzVtO4BBCJ5ROGav4yER6roav4QiVFJU3jcoP1ldsolEpg==",
+  "URL": "https://www.stat.tamu.edu/~aredd/tamuanova/",
+  "LICENSE": "GPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1591181427",
+  "PACKAGER": "Jelle van der Waa <jelle@vdwaa.nl>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "gsl"
+  ]
+}

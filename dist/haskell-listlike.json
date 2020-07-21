@@ -1,0 +1,27 @@
+{
+  "FILENAME": "haskell-listlike-4.7-7-x86_64.pkg.tar.zst",
+  "NAME": "haskell-listlike",
+  "BASE": "haskell-listlike",
+  "VERSION": "4.7-7",
+  "DESC": "Generic support for list-like structures",
+  "CSIZE": "639796",
+  "ISIZE": "3900159",
+  "MD5SUM": "74d63b55221f644bc0d94a8e595ef3a1",
+  "SHA256SUM": "bd5fb93fee151863316c2777faf80d6d2fe7819658539e0c8097183325113f3c",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl75DNEACgkQeGxj8zDXy5JOTw//WfDya/x6cQ7QHATnHDbCgUZxi3nFDayV92Lx4RiljRF53kIjfoqagnS0+FyPicAuMVqzouoUGXAyWF63aeRg3jtDi/oamJZUfmvy2GwtXq99XbHEsbc5jXtBr1MfbofpPxSU4cXnmbD4MTk/xcCN+PeUm2/k9gjmu04QHYYjc5RWIAg2PLqjgN12egrzcVHoGmnKhUvoV7VbwoeFVG6TIgqAPU2IMxzopSVl0AYrW+hNaZFwiv+gSNaI3PoPWMNeWg1FPEzbTwB2r3GYg+I1qdN6KI0hHuSdmceXphBc2xQaJvgyplFITVKTqPJqNHKL7sC3h52/k9Y15xgulMyqGBTEE2kVeLXM32DawwvV+aoyEY+irUU/FzDZQsyKTSTbDbIu7U+c9DP2QAXDGpr87iKaV3QNNl+ZuWLCoCOZdZmqKj4AlW9+pYkeeRy4lZsdNCSTURdAor/IpQ4rgvezNNJj8cCASow+xXrX5ZTL7tlvUB1C3qv6yHtcLWwx/WNk5cbNZ3ipgmIBSLcva7NzriOGCGUo3hGur8gLWGIeJ+LnSn4skzl009xep4dtwn7LU6QLejqxyIhdaADU1ihEeCeLiseiZX+gtbluQDfwSahydZ9PeW0gMahMKBQkr9b1QPowMs44Hk2VIY8oqzNWu8foCWC1TDQ91vKprgb5IWI=",
+  "URL": "https://github.com/ddssff/listlike",
+  "LICENSE": "BSD",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1593379955",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "ghc-libs",
+    "haskell-dlist",
+    "haskell-fmlist",
+    "haskell-utf8-string",
+    "haskell-vector"
+  ]
+}

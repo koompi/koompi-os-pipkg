@@ -1,0 +1,24 @@
+{
+  "FILENAME": "vtk-8.2.0-13-x86_64.pkg.tar.zst",
+  "NAME": "vtk",
+  "BASE": "vtk",
+  "VERSION": "8.2.0-13",
+  "DESC": "A software system for 3D computer graphics, image processing, and visualization",
+  "CSIZE": "36718278",
+  "ISIZE": "202656397",
+  "MD5SUM": "7589ebfa00a19bfa5e09499dd50e297f",
+  "SHA256SUM": "4d818fbfff6ffd0bc5ab79ef987492d3d36d006b9b9cc820fb9f72cc71f8e267",
+  "PGPSIG": "iQIzBAABCAAdFiEEj8FaBklQqZ3RvRTdOeS4d+YuuRUFAl6q0Y0ACgkQOeS4d+YuuRUNkg//dVkrakL2tU9+5V8BlQobFABt/60Jd/NzeNA3NMkl63NzvirTC+X0JBotp0i+4sz+clKCCz1ZcPKgu00ZuZeIxeilzOj6Z8wME1mQW11gtnYlS6opG7XGgzzRXtvhfUtg8pNcllznao9ByqV/M+VGfvMm9eF0xoxCm61bmnwCl89l8/m+0aJG5aG+9RsLcOpq3uVOZELq37JdTy8mo4NRPKXAeVn2SSUXcDZ4bxMWA5xBr8f/WKPhCaqBiVgJZFXt+pGhSiX5qamtiUA6ghv7o+3dYEVkC1tvDZz8jzEjMWUOWcVpkB3dIT0oLY5zAwnsPVgzG/j3n11lwGGEQz4IvwEgyY311UheKNAgZkcsyKlMDMwZeL/N2C3/RNTL/4kTRJ2IFDj+DXsv0Y8JufkpAfHSzZs3PbRMGuY4SMz/X8eugwYaxS8wADTnfkfi/paI89poWKd3TcVl4HUJKMVSwZPWF2qnN70jqQYXqseI5d1DFbLee9DQot5tqcD+Uvwu8P1Z35LUyPYvd3xqUyw6VT7pBff8igbxNsJNgOByk1wg2vmO+gTzHzGjHS11I4ELO8pfmCL2tggoaLsqNWuOnZY/4es2eIi2BDcX1pnabjm0ZnX2uEilLm220fJDqfkf5K2SXJIM25Ur8ZlaE0WBPk1A/pzR13Kdp8Lwm6yhX84=",
+  "URL": "https://www.vtk.org/",
+  "LICENSE": "BSD",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1588252284",
+  "PACKAGER": "Sven-Hendrik Haase <svenstaro@gmail.com>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "gcc-libs",
+    "double-conversion"
+  ]
+}

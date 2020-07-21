@@ -1,0 +1,23 @@
+{
+  "FILENAME": "rapydscript-ng-0.7.20-1-any.pkg.tar.xz",
+  "NAME": "rapydscript-ng",
+  "BASE": "rapydscript-ng",
+  "VERSION": "0.7.20-1",
+  "DESC": "Pythonic JavaScript that doesn't suck",
+  "CSIZE": "1885420",
+  "ISIZE": "18612629",
+  "MD5SUM": "0b5e738e91488815b9c0cec19484548b",
+  "SHA256SUM": "17764a5dc279129bbbe7516b0679842dfbf84cf49c577a2d9eb9217d241573aa",
+  "PGPSIG": "iQIzBAABCgAdFiEEYEETBMCdNmKDQO7/zrFn77VyK9YFAl25tbYACgkQzrFn77VyK9bKKBAAlkfKNoTcUzZtA2dCEhtxACV9PJSLR/cgAV98F3p+GM4O7Jm/+3FcBG7QB8rclfZUTAHRgMLYBiur5zOuPN55Ico0zVnZ+b7ICDU9VQ7S53goOlherz7EIf0FFMAKsPQ8uw22BB13pN/vimj+mmnEHLe/ve7kEjlg511KnOjUWFlNIa7smE9l17HOQo7UnQt0zG9O4bD/ukf9Lnf0U9fhY+gYxedKqeECmQyqusxmRlzSHNBtrP1kDKlzqQv7IGM1sxzEAQmaLpu9etL3vfi7QQRvxSRCcBo0lugd3iMVyuSBpkq/tTjVcscXZpV0uxbvSkQ042DS9kdcVs5iOPMAWEQZH/WuzRGeaqQv+YHmg2Gx/g/EXoUN00NbRHNzxshV4zesbhLA5UlqYeX1o83Q1MFFJCYM/YcJw2O5bitfq5UJFgT+6BufHeTUMhWlErFUCIlXu2u73NYVx7S32OZg8n+tIDj6AyHI5QXQFG7XKMQ+GQ6R6LCn6+pYCU8SCdNmx+U6HDDX5hQjhtsLYtDmzb6HRZEc+QN8+s8fMRY/TmVW8n7FOrNHJT4ails6IwfkQb0fAlxbXlp8CvWqaw5cnCeaHtM6I36UeW1PwBs2Tfm11mHBNicJPvwv8chPifK0m99ynZjREEYiriHz4620MkeCHN0WXDLaR0EPlP77Ev8=",
+  "URL": "https://github.com/kovidgoyal/rapydscript-ng",
+  "LICENSE": "BSD",
+  "ARCH": "any",
+  "BUILDDATE": "1572451274",
+  "PACKAGER": "Eli Schwartz <eschwartz@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "nodejs"
+  ]
+}

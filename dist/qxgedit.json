@@ -1,0 +1,27 @@
+{
+  "FILENAME": "qxgedit-0.6.2-1-x86_64.pkg.tar.zst",
+  "NAME": "qxgedit",
+  "BASE": "qxgedit",
+  "VERSION": "0.6.2-1",
+  "DESC": "GUI for editing MIDI System Exclusive files for XG devices (eg. Yamaha DB50XG)",
+  "CSIZE": "359551",
+  "ISIZE": "1180984",
+  "MD5SUM": "75b05b6ba051f2f3af00766c62cc5860",
+  "SHA256SUM": "7f8259d52197141c59a634a8044867a55838dea3ee587c2ca869d1921059cafd",
+  "PGPSIG": "iHUEABYIAB0WIQTH54SUZv4jWDQ1iDdyWHNLQcMVSQUCXnplJwAKCRByWHNLQcMVSQIFAQCkIkLR+UO2qviMCm5MMKfuYMVroAC1NrfpCWfAyTrjYQD/f+cMzi94gI28/HDfD6TsuGR2fTPBgVJUqVCgh7Tmugc=",
+  "URL": "https://qxgedit.sourceforge.io/",
+  "LICENSE": "GPL2",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1585079459",
+  "PACKAGER": "David Runge <dvzrv@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "gcc-libs",
+    "glibc",
+    "hicolor-icon-theme",
+    "qt5-base",
+    "libasound.so=2-64"
+  ]
+}

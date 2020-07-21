@@ -1,0 +1,25 @@
+{
+  "FILENAME": "haskell-transformers-base-0.4.5.2-70-x86_64.pkg.tar.zst",
+  "NAME": "haskell-transformers-base",
+  "BASE": "haskell-transformers-base",
+  "VERSION": "0.4.5.2-70",
+  "DESC": "Lift computations from the bottom of a transformer stack",
+  "CSIZE": "25218",
+  "ISIZE": "152155",
+  "MD5SUM": "9635f94eb33fc2d8881b87beb5cb6548",
+  "SHA256SUM": "da8c8cb2f1a914003d76189798014a9d4edc0539579f85866db43d96a5e728e7",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl75KVoACgkQeGxj8zDXy5L5iBAArVxoql3xMk5O3W2RFXTySvpgisnFWAcV+2JG8CWiBNpAtVA9aXllm3ydte6ztmmDIiWUVg4JYds0Twoyb0mW097pXR/Uh6meRBJxRiPUoxCmEn55RP3aUh9pk5ey72GYzz2qQa1VYOtitOYSABBlC8rOWkA3KEuKS3Bsr64HNVO3VWeb8+CrnvyMFSrD08r3FtyE8sNM+IcxG/rshiDmUFtO299EQmebbgWcWiotfjdTKH02hnwv6PGQ2ClAbho2IcAyEU5Q+a3RPj2GqQIkfQAZ7Df9uSw1TdTQbAqz737SeEoH1w8tsBUwruqZAo8pbmGm9bvKzs/LDSjMB7Cf4gbW4EjiCORnqprzutFl3xdL8XMQqjfglqoVij3h7kK6mvhOReTSLjVDdqhYDN8kjQ5z8AwibvMgaYRnNLpVLbgmnmwfHyRSH7mc0tZXtLYkI8huUUGpPMVT+deucRvpLp54GBSwssu2llT2xq80Zy9iQc/nesP7JnV2VZtNsnPN1eYG7fpejxhgaT5F9CQsm7dfJjUB5gOPiRcSLOOm5fbgMYLempZ1/bXu+UPK6wB3jKX1LvNGN6v7d9qFsH8K2QGruh6hEWmEhI1aDJvhkrJCcECWRw4eonN8tydBqjTh9HGK0P7jEMOFxFCAVzQ/c1iMBcm76s7hDhKDmnLarbg=",
+  "URL": "https://github.com/mvv/transformers-base",
+  "LICENSE": "BSD",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1593387334",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "ghc-libs",
+    "haskell-base-orphans",
+    "haskell-transformers-compat"
+  ]
+}

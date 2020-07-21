@@ -1,0 +1,23 @@
+{
+  "FILENAME": "golang-github-boombuler-barcode-1.0.0.20190219-2-any.pkg.tar.zst",
+  "NAME": "golang-github-boombuler-barcode",
+  "BASE": "golang-github-boombuler-barcode",
+  "VERSION": "1.0.0.20190219-2",
+  "DESC": "A barcode creation lib for golang",
+  "CSIZE": "61937",
+  "ISIZE": "230270",
+  "MD5SUM": "770bb5e8398ddd9d0607eee59b28017f",
+  "SHA256SUM": "2916cf0fb02dc3c21629f589b1945fd805989d03dcc10130082a630a608bb39e",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl71oW0ACgkQeGxj8zDXy5ImihAAkpwvdmQwnWfqU3RKsZO1xJHssq558WPr2bGppDufqw12MX6Gk6iw1/PaYDV0Jw/hvPcZ6KpckPoJM+hrrrftYOUJUsWCXW15tM3hQRsy9bl96Lpz9rdWS1ep4rq0t3t7G83nhayo2YuqJktTvEIp8VG47qZmeWHnFdPMsJRwP2vlJSxttLA4b/nbe6gpPC9bNfYhCB21ZOrGgbS8xv0t1dAAFFvfjzy6rs8GBn8T76uHJXjnivARhwKq3dAaWu6ORhvWQ5SJNATFjtrfbuiB+/fZHzP/aKkAgSOwjEXwhhGwKm3KIdmS296Md+52Qx2ICZJLHfubclr4lfIV8bdN1KE4zvbCO/o8FrK0smwg8+jeFzHrpH2uukxwCrHAs6REaAUfb+XOHsZBAjFICECO6TKH7jGJLkIoNewCPRixeBsbkBvP/YIQh0oP+Wi46komvFtxkS/+8g6IMRRPNzz2PIoGRhZLcs82frR7wqQGxLncuidglqFWgSwtRLtUeDMTNZZkA9JH26casEwA/eeI8BAOuResfGcodAK24YkvbDtzSpYF73/UREXGH611E0AXCu5ojhfGZhnE0AnGm2R/bQQKFrK6sm9fG8uUYEon37qoyTbnbfEWsmiwCJK8br7vMXinUzWZJB8gpwZzpnn0x+l64eY4OM8eMuoq10u2uso=",
+  "URL": "https://github.com/boombuler/barcode",
+  "LICENSE": "MIT",
+  "ARCH": "any",
+  "BUILDDATE": "1593155914",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "go"
+  ]
+}

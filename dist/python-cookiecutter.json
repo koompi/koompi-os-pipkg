@@ -1,0 +1,31 @@
+{
+  "FILENAME": "python-cookiecutter-1.7.2-1-any.pkg.tar.zst",
+  "NAME": "python-cookiecutter",
+  "BASE": "python-cookiecutter",
+  "VERSION": "1.7.2-1",
+  "DESC": "A command-line utility that creates projects from project templates",
+  "CSIZE": "50271",
+  "ISIZE": "219563",
+  "MD5SUM": "09ce56472049fd53cc0c0099e9e30549",
+  "SHA256SUM": "e48823e057a83f6cbca317614b86196273efe88a771ecf6a4310f2527f752de1",
+  "PGPSIG": "iHUEABYIAB0WIQTH54SUZv4jWDQ1iDdyWHNLQcMVSQUCXp6oHgAKCRByWHNLQcMVSaAzAP0TgN+ivfUtbjBF8f+4ajnz9wtLYyrKeOZNSrFT3yw0qAD/U0Vy5UDxN8jox0ketRivyHHCYitzTEKjuDlNAvMslQI=",
+  "URL": "https://github.com/cookiecutter/cookiecutter",
+  "LICENSE": "BSD",
+  "ARCH": "any",
+  "BUILDDATE": "1587455512",
+  "PACKAGER": "David Runge <dvzrv@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "python-binaryornot",
+    "python-click",
+    "python-future",
+    "python-jinja",
+    "python-jinja-time",
+    "python-poyo",
+    "python-requests",
+    "python-slugify",
+    "python-whichcraft"
+  ]
+}

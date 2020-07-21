@@ -1,0 +1,27 @@
+{
+  "FILENAME": "orage-4.12.1-5-x86_64.pkg.tar.zst",
+  "NAME": "orage",
+  "BASE": "orage",
+  "VERSION": "4.12.1-5",
+  "DESC": "A simple calendar application with reminders for Xfce",
+  "CSIZE": "1736718",
+  "ISIZE": "5333496",
+  "MD5SUM": "6be583a309a74b0a119a3117f4701869",
+  "SHA256SUM": "586721e798009a5834f23c0fa367ec7572dc4b04af12b567b5bc7b69867891b0",
+  "PGPSIG": "iQEzBAABCAAdFiEEhs/8qRjPOvRxR1iAUeixSKmZnDQFAl6zlnQACgkQUeixSKmZnDRZAQgAm2FtWLKcE0yzJQxNuY8XWO+5mx/NIfVsxlFIOe+n7TS0x+o3t0YvZH2gT8/A6bhhYkbYq7ZAw09EF0uDh/uKOsuWczxCT5JL4cfGTIUd0catzp/r0fdCaZ++sm3b+18FXkfyoIqkK8OZF/zdji+OMBpZu/SIuEEEM5ZHxBoNOyGp04bFmHiD8d3M95J4MDGuSqluk0rEk25+aI4bzjlk5PpYTksQcIWXyRHZx6LRc/j2CN1qOFHLDe6YV9HvNy1YyvfgEGtC72hFiH6oMqxl+3tSCAcXvZXMsTfrr2SVOnIzCHpiTYExCFQHdPt/Pu/D9xo0HhoYkUTY0GbBkuzjcA==",
+  "URL": "https://www.xfce.org/projects/",
+  "LICENSE": "GPL2",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1588827679",
+  "PACKAGER": "Evangelos Foutras <evangelos@foutrelis.com>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "xfce4-panel",
+    "libical",
+    "popt",
+    "libnotify",
+    "dbus-glib"
+  ]
+}

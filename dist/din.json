@@ -1,0 +1,31 @@
+{
+  "FILENAME": "din-47.1-1-x86_64.pkg.tar.zst",
+  "NAME": "din",
+  "BASE": "din",
+  "VERSION": "47.1-1",
+  "DESC": "A sound synthesizer and musical instrument.",
+  "CSIZE": "2995165",
+  "ISIZE": "10243923",
+  "MD5SUM": "9c31164a5dcf7e5812c85a4889a1f5ff",
+  "SHA256SUM": "83f82bfef0c685728462c2fd99797ac1aaef4fe9e4090f6f7fb982fc11350ad5",
+  "PGPSIG": "iHUEABYIAB0WIQTH54SUZv4jWDQ1iDdyWHNLQcMVSQUCXt9EIAAKCRByWHNLQcMVSaPEAQDvMBW63+vB1WVhBbdjjllUKWLs5VDlpgJlZ9SI6yBo1wD/fDQ+KPfYBKLtfjcIvmGWkklM0yNRjxlX38eQ8BUgiwA=",
+  "URL": "https://dinisnoise.org/",
+  "LICENSE": "GPL2",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1591689837",
+  "PACKAGER": "David Runge <dvzrv@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "gcc-libs",
+    "glibc",
+    "hicolor-icon-theme",
+    "libglvnd",
+    "sdl",
+    "tcl",
+    "libjack.so",
+    "librtaudio.so=6-64",
+    "librtmidi.so=5-64"
+  ]
+}

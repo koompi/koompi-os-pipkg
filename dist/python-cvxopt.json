@@ -1,0 +1,24 @@
+{
+  "FILENAME": "python-cvxopt-1.2.5-1-x86_64.pkg.tar.zst",
+  "NAME": "python-cvxopt",
+  "BASE": "python-cvxopt",
+  "VERSION": "1.2.5-1",
+  "DESC": "A free software package for convex optimization written in Python",
+  "CSIZE": "535440",
+  "ISIZE": "2412416",
+  "MD5SUM": "1156ead54c7a5ff69b60feacd1775a33",
+  "SHA256SUM": "408f3ca9ea089b7fafee780688b38475beb1a725ffadc80b11986b32118727e0",
+  "PGPSIG": "iQEzBAABCAAdFiEEFRnVq6Zb9vwrc8dWek52CV2KUuQFAl6ZZJkACgkQek52CV2KUuSB1Qf8COHOsh1d1FunofNuRCzkhIK9JT1AABsPCbQPgih10wlYngcA77I8ubXMduuGPyF+LSd73roKmJ4Uj+sZPZdkYa+wL3UJGG55J4mY8jA3wYNL8Tk+1VyA8mnfOlvhzsoG6jC3yRzUHAwQRSR8p6aEpv74cnHg0gL8X3qvbe7V1n/cZxkdILimpAu0Aryz7qPgrRoVbIuCwJO6gu8szY0hzMKu5MQOew0axqmADn7QFG6XZz/IB6mbd40SM3Aoidisac61nom9tha9n5Ch9Z9X2w/M+zTYu5gz5jS3DVtf/gAlcgTGRps2IqEGvSmpPt4x47hUn+0kelZwreX2djPeZg==",
+  "URL": "https://cvxopt.org/",
+  "LICENSE": "GPL3",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1587110457",
+  "PACKAGER": "Antonio Rojas <arojas@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "python",
+    "suitesparse"
+  ]
+}

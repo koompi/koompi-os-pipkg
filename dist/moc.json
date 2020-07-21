@@ -1,0 +1,28 @@
+{
+  "FILENAME": "moc-1:2.5.2-3-x86_64.pkg.tar.zst",
+  "NAME": "moc",
+  "BASE": "moc",
+  "VERSION": "1:2.5.2-3",
+  "DESC": "An ncurses console audio player designed to be powerful and easy to use",
+  "CSIZE": "213881",
+  "ISIZE": "607140",
+  "MD5SUM": "daef90dd9f3ec2507a870d93176bdf9c",
+  "SHA256SUM": "e83754ac104dc2c14847488bf8585138eac6df8a2974552026c5be82384a4738",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl5kvu0ACgkQeGxj8zDXy5LYShAAgSA3bz7Z1EUTpybXpRMVyCYzUPHkrAcjFsoM1DMFr6Vxn3TcuO36BXHHWCKyLL+ItEY2uK3YT0NJP7KponOCjuhRDlaoCg5RmqbUXoJvx4c0XeJ3BJKdRTeZatTdgyty99dAeMJuXYTS0nLXkn18GIn1BN8Ziu54+VrmXjpcGBATupi/yIyNgX6vpJiK1zt3n22WIH5+m++uD4ssKWWAgMBPeePYA6TMDRM/E6JUaHj2kDUQiik0ve6COSjImyRIBL8BIgfuh/bsdmc8bKv15Ql4H18i4rWPdqa549atKSXASxQ7/HM1ntjunKbkQXhVoSoBUPpuwkPeUSmROj4Q35rJ4Fzw7B0ASQMCc11XV3Tv4G+zk/K+7DQupnVQZXkzOze3xhNLMhZ61y+Q5OQ77WBPDFmlWFj6OHCIr25h2AXYuVXawvoKq1kOKaywLrpwN7w4rl0urCcylF4oyNBlt2mPwdIPOK6okfi7p32CuUpheehOYVlD2YyinCH14Z8Oiprlf2ZP0vBNGuwPX6nJRdYq5RnDMHVVegSnempGPY//c7YeO4w72ZziyYia00HwEHyOPrQGSmt4BFZqgPK9EX2bvwDvXIrNKvgjYNmeopAK6drrSIpohVg3z05zR4kgan/3EMjPHbpx8IUJjNiciyTrt/cW13HqYoBvsHgng1E=",
+  "URL": "https://moc.daper.net/",
+  "LICENSE": "GPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1583660714",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "libmad",
+    "libid3tag",
+    "jack",
+    "curl",
+    "libltdl",
+    "file"
+  ]
+}

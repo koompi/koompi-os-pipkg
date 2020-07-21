@@ -1,0 +1,26 @@
+{
+  "FILENAME": "ruby-glib2-3.4.3-1-x86_64.pkg.tar.zst",
+  "NAME": "ruby-glib2",
+  "BASE": "ruby-glib2",
+  "VERSION": "3.4.3-1",
+  "DESC": "Ruby/GLib2 is a Ruby binding of GLib-2.x.",
+  "CSIZE": "351319",
+  "ISIZE": "2507580",
+  "MD5SUM": "a0a82b987608d52c61960bacf90379ec",
+  "SHA256SUM": "466532ecf751d5e1be4d1f3e382e8441c4f33fa663fd277e98734a04a22c37bb",
+  "PGPSIG": "iQIzBAABCAAdFiEEjhmSFnRl21+wRVV8sChU7XU+Dx8FAl7ibhYACgkQsChU7XU+Dx/swA/+MUz5i3nS8oj3L+FstCO7+xtfk1CNJWBmfA/KhvkkMI0fqEVe9ZU1Rad87Rekl7uDcNJpNcAiqEtS/x4yvUWRTuvtK6pgJlAD2/iN4MLhbnYaAdUqEZjRW00BiOjXp0hW8DhNz52Xw57HA5Ie0zRGTpH/jCqyTS/udSyO3CpH1Q0CsWQb2n4DyKDloVB78slxIWe4XhCz0dQUiRKTM9dWl7c6baiFkpNVDwvMx/kef8zhQ98TNu5OdTidpScwlIL12RAOffSDq8KpDZEs9ZulHzPQG+NhxQsxh6kMg0ymfxmypAjWIdxtvXxAvapuaaTG+DQJAz/ZWhM2vQKxphmkU2wYa6+WAb+ru/gv2J3+pMl686I6OzBUqqiccecvUy5TFy0GV0KXSplnQqrmY5PqmQqSv6nEY1LjoHk8aprlz5DbXn+m/Yna4fsTR1AnyH0D6y7Hriux8sx3yffSlYYANkOJCbhWPVruTTtb8u4HUY5K2+y6jIZ9zWg25eMhhg3XmpUikN+EGcvnUu1bsqVuHaq/a1rlMNRUSG3yIqEE2xEYqSQ8drxc6N6rPJHRkeBabHTYJ5W0xwYHKxZ/t+0Cjw3zABo6QLA687mSzD2ii3T/+76OheA4v/mXExcZEjuwazwMXHMf6DIWRGaSvM++OSu2DM59MtZUDbGJx1STjEE=",
+  "URL": "http://ruby-gnome2.sourceforge.jp/",
+  "LICENSE": "LGPL2.1",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1591897601",
+  "PACKAGER": "Anatol Pomozov <anatol.pomozov@gmail.com>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "ruby",
+    "glib2",
+    "ruby-pkg-config",
+    "ruby-native-package-installer"
+  ]
+}

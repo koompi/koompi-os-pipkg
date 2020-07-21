@@ -1,0 +1,25 @@
+{
+  "FILENAME": "fdupes-1:2.0.0-1-x86_64.pkg.tar.zst",
+  "NAME": "fdupes",
+  "BASE": "fdupes",
+  "VERSION": "1:2.0.0-1",
+  "DESC": "a program for identifying or deleting duplicate files residing within specified directories",
+  "CSIZE": "37592",
+  "ISIZE": "86717",
+  "MD5SUM": "25e3f0cffd604503fa89e01fd6e1330d",
+  "SHA256SUM": "659991fc8c10282f2dec5049b923e112b3a89a372d0e2b7245db63c3ddbdcb30",
+  "PGPSIG": "iQIzBAABCAAdFiEE7Dy+f2B9EeZjFJ6BHR8Nx48XNoAFAl5uq9UACgkQHR8Nx48XNoAT8g//SgbsYPnF4ehWsE9+Q+3Dq3aKuhA23WcH6MNsqi92c8q6q0RW3TS3qo0kgUfseJpxS4FqZKooOnuRklKb7o+AqUSaVg6Q5E3z3Lzq/qZrM6htqnG6RL/bsGi326Ub7mmE7NQB1Z8Eo5cfMtvLwS3sYvjLHiB8/ZvcbrpQFkNNVLiugdJQ56EFTQtYnN2/YU+C5hs7DdDRBmXsZsw255+uJxabZZDaTjHsqqCsn9qCmTOd99QtBbYuSqnHM5i6dj3ZduTCFY8YITA8pbPY/oflzheCazYWg9mdPvqujl7ieJEer2OVSFSUqQaWITKDAdLyqVbmB3ACOkcFaKwUsm7gVxU8PLieVxTUBVPo2wEAzFEKcvjATftxl+BlktvImEFXCztRPDOF91Q5IDJP8X2NswFXStCnblcoGBzqW9CqaRdumnN6bAFYIHgtxpWDFPIte+UHNZiE8hso46FZNpEahbk58DNKvBavnTg0Pjr6nImqKMlik5WM2rJYuGqUrD4/FZ6gRRvO8ZE/OzM4S9dms6hLTKQliJk7+xVyVK36MOqt2GaOpFWn5HQm0QaMUCO3HBvnq4bo72NCiPDlCPuKfLkR1q1TC5LFIhCK2vm5ey0fgzOyzge7/Ff7gmrRjAVbr5Ne1iQ7hIB4kd6hbkebhKMF1CJbykwPY2qxQbKIgo4=",
+  "URL": "https://github.com/adrianlopezroche/fdupes",
+  "LICENSE": "custom",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1584310852",
+  "PACKAGER": "Xyne",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "glibc",
+    "ncurses",
+    "pcre2"
+  ]
+}

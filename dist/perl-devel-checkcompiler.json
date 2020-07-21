@@ -1,0 +1,23 @@
+{
+  "FILENAME": "perl-devel-checkcompiler-0.07-6-any.pkg.tar.zst",
+  "NAME": "perl-devel-checkcompiler",
+  "BASE": "perl-devel-checkcompiler",
+  "VERSION": "0.07-6",
+  "DESC": "Check the compiler's availability",
+  "CSIZE": "8875",
+  "ISIZE": "7911",
+  "MD5SUM": "93637cb9441293fe7532b6e3139df875",
+  "SHA256SUM": "3c2bab910f8370250226ffea9864f6cf975e9b27d27a71b8d9faecbbe23d1168",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl7ve78ACgkQeGxj8zDXy5I+lRAAq8FmCX4nZyqgyxYYY5clNYu/ldPPFuJu9tlsiECMP8KTXyz7hoL1Xog+dAdjji51qle1k6IenPkriykdv/LRRUbLP8f4ska3+BpZ06oK8TIgag3cAKmMY0hVVSdVdp1N2DIpEmqzZ3MxjcYm2sbqCzMRu/QxJiZhnTuhUfnc4U9fKwUXG/Mt6DjxnqWzRujNbPWYFMNoho999PEUgadnKfAZgWRW+8+j0ZIzhArDy72EsdeFNF3hQKf0kaiw4H2kmA37XlQ2fYfCi9EvvOWEw9XDht9dVfyosFpu7EvvU0cSHmu5hIejamii8t2LvocQpNJzdSDn5djrsx0sih6UY9WaKlWvYPY7xykfHWIC3TJerwMozT9+3mrOI+NDK5zvh7Ea0GzrXEqltw2FGqdbAruGI0Ph8wUMuaM14zSWl0dTGmUo8O3jqtJ8zsJZC+ivlkIml58sw1fYMvckBsHzcSxqbue+B4wq/BcWZ7pPeS6+DC232O5eQnFsbwjcKGl/8Wl3FtkdlHHZX/02J2A3Yf5zfLkuTfwbaOsz3/o0JHzjeVVNr1Oez6pUGrhi2ZjR6ouMUMa1XMMvrzd4oORO3uCpwECKf3lhMj4REIicl51KXNSp74uOFhGwMbnAl00bi2Yi9QJv+n+Zy+PSKhiBrZ2l5VN8nM36bLY5Nb2YzLk=",
+  "URL": "https://search.cpan.org/dist/Devel-CheckCompiler",
+  "LICENSE": "PerlArtistic",
+  "ARCH": "any",
+  "BUILDDATE": "1592753064",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "perl"
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "FILENAME": "python-acme-1.6.0-1-any.pkg.tar.zst",
+  "NAME": "python-acme",
+  "BASE": "python-acme",
+  "VERSION": "1.6.0-1",
+  "DESC": "ACME protocol implementation in Python",
+  "CSIZE": "69493",
+  "ISIZE": "360325",
+  "MD5SUM": "4cb8a1c2f6870d185c17a773a2af9cf1",
+  "SHA256SUM": "5df68b2c128d9bbadf2710ce5e86106debd65aa93be86394119908e713d86d33",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl8FjOkACgkQeGxj8zDXy5IxfA//Wabi9sQY6gVVwnwHhTGalOwMtfK2+q/VYmuot0Mza8PFiFCbF91qWuYM+S4WrUlP6AjSvd11SFDm624AI14mB3G9okEF04P7O0fPu0IOaIfRKjhTB50whleKsqUBoxCHJH0zwJutBJ6FpXmNtGotqBEhOtsf9HNo+LkxzYM7tnAwk7vjiNOJ62257jmT6fnAgihhsVUSBBLKriQEEpHBnoeEH2hokx1LOL+fnrpk34yQJXuOTeUFLqmRO5eE6TimCpWZ7yqocNxQeBbRFcwzouLEyNlOYclYjF+nKaRHJeIXWGN/XFbL682xCD0zCrOnCJrhdFhkPe7A9227RLH30yMAts/r9KatYqcpf+47Tfj9QWITgABqXueJuabVfVOJSAt1mQgKSgTviPCGeR6cbCy4iu/ax/of2AA5i+wiUGX6e8f3frFOVYRQjLdGuNzEgJ6tN/WmxAbEDcEvJp000yU8clGDhvu4NgW6iUb+DPp9QAmXxZkptVvVU+8PzGHAm/PcwgtltL4Ju1wNAXxAdV1TlIuVYSp6VIuftwG+WnZSgwgSJ4a97EdtRXuZ81TEn2G7Q4+F6MjVGjksh3FtUIkVhacr7+4i5/zL7hnhvSwQsutEgQv9QePmxdZ8vu8R9uf1ucdOMlTHycTzYuYf14DhG3Qm2uJyiSE+hFI7QSU=",
+  "URL": "https://github.com/certbot/certbot",
+  "LICENSE": "Apache",
+  "ARCH": "any",
+  "BUILDDATE": "1594199212",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "python-setuptools",
+    "python-pyopenssl",
+    "python-pyrfc3339",
+    "python-pytz",
+    "python-requests",
+    "python-six",
+    "python-josepy",
+    "python-mock",
+    "python-requests-toolbelt"
+  ]
+}

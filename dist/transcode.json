@@ -1,0 +1,31 @@
+{
+  "FILENAME": "transcode-1.1.7-33-x86_64.pkg.tar.zst",
+  "NAME": "transcode",
+  "BASE": "transcode",
+  "VERSION": "1.1.7-33",
+  "DESC": "A video/DVD ripper and encoder for the terminal/console",
+  "CSIZE": "1094285",
+  "ISIZE": "5240664",
+  "MD5SUM": "03f4aca59f93acc0a8cf9809819fe954",
+  "SHA256SUM": "2277cbb07f43e16e245433df8149171d0f14381c6a8a28d285d103827e428f39",
+  "PGPSIG": "iQEzBAABCAAdFiEEFRnVq6Zb9vwrc8dWek52CV2KUuQFAl6JvnwACgkQek52CV2KUuT7tAf/SbA1ysEO4574uSBnO3y6mLEh0LUnIGRu90VxPYVGZTPVxQwxLKja90gNZEyKILz7fuuNbAEB38MhKjQfeqb+/w3P5yHr32pZ0IeEDKcc14R9fi3Wf2vbjOU/IzIpT0KVdo1BiuaS6GOhSaKBw6JJA1vC61ucneF8qiJeVV+P/Zg99TrrcbC30bfe5gqTToVoZg9DdTkVMrEd/jTUrhNJrLriEwF8TlLlp4gnwDZL71JXrfEZVdsKy/VCiOYpioTPMSrkBYv0D4AWpw9A86/O9UqnCfg7aVmi4vW3MxUIcuBBSJ4A65Wf8eogD6W/uDxrUAtBwcyXduxgJU/w4R9DFg==",
+  "URL": "http://www.transcoding.org/",
+  "LICENSE": "GPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1586085402",
+  "PACKAGER": "Antonio Rojas <arojas@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "gawk",
+    "imagemagick",
+    "lzo",
+    "libdvdread",
+    "ffmpeg",
+    "mjpegtools",
+    "libmpeg2",
+    "libxaw",
+    "a52dec"
+  ]
+}

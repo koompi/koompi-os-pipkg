@@ -1,0 +1,33 @@
+{
+  "FILENAME": "srslte-avx2-19.12-4-x86_64.pkg.tar.zst",
+  "NAME": "srslte-avx2",
+  "BASE": "srslte",
+  "VERSION": "19.12-4",
+  "DESC": "Open source SDR LTE software suite from Software Radio Systems (SRS) (with AVX2 extensions)",
+  "CSIZE": "3482090",
+  "ISIZE": "18818153",
+  "MD5SUM": "6fb8a2c21a3880a682dd82796f97e589",
+  "SHA256SUM": "541171335446d123f55de1ac5fa8fdad6c4404766f7af418cb519fdbd3deb1c7",
+  "PGPSIG": "iQIzBAABCAAdFiEE0jW0leqs33gyftiw+JPGdIFqqV0FAl6q/6YACgkQ+JPGdIFqqV1E2xAArWHjbGT6tJmA+KtkhLjhaPhsunzcnYOloFbm6EquuGb7X0F2Kfy1OVdhNVnMVsJk14aixhQ4Rrd98RUIoSW8/krKeoW5NeXKdZZxU6WXn8YdTvwsuawkHZmKO9HgIUWI0A+Z1ipSVCN7VxGkV9bjMljF8pACWhfSZoAr7dZ63X6vOt0Enda2dCDoFLNBQ2nYolQF9EI2aviOcaWHFRbRXDXR++dDGeOJbL9m4Y3lANRMLIkFx8t7IcLNxM/UzkhiX/EocU/deC2wrhAIQWtxMNeo8lySpwF2x61F7iY3A0QR0DditN8kdYbNX2g4TD5KhGKB+mIMk0EGNfEwZg+ijO+mouxQgy+RlKKYWJiWOWP7fiwRNLQ3vi2DSVQaM50+OmgYlW3RkunpS3dfna6bECqTlnUjePvUZ4Aqmu1bifKcK2R+nkODuWtZvr9fE6/2pIJ2crrR7yaZ8IPeVT6Jhc4b9y7+FKctQJJGwbpcxdclIXtL2H9R2zyT0mD93i4/xd2PRreF+qFLCd9btxCTJSUXPVXEvMgtpEu6XUG5wKRepAd9ErRU0sI6dm2l0jeoG7jd2v+xayycyOmXgUIu9C9OMSKpJLjayr57lCOTwR/o6XY+h6RL8xceHY7lvFlKxey58gySwKXb+ByNkczK80N9EfHWiNRL/uCAj1JDKrQ=",
+  "URL": "https://www.srslte.com",
+  "LICENSE": "AGPL3",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1588264483",
+  "PACKAGER": "Filipe Laíns <lains@archlinux.org>",
+  "PROVIDES": [
+    "srslte"
+  ],
+  "DEPENDS": [
+    "fftw",
+    "mbedtls",
+    "boost-libs",
+    "lksctp-tools",
+    "libconfig",
+    "libuhd",
+    "soapysdr",
+    "bladerf",
+    "zeromq",
+    "pcsclite",
+    "srsgui"
+  ]
+}

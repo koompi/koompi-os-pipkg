@@ -1,0 +1,25 @@
+{
+  "FILENAME": "goaccess-1.4-1-x86_64.pkg.tar.zst",
+  "NAME": "goaccess",
+  "BASE": "goaccess",
+  "VERSION": "1.4-1",
+  "DESC": "An open source real-time web log analyzer and interactive viewer",
+  "CSIZE": "287766",
+  "ISIZE": "893470",
+  "MD5SUM": "9e2025b8289e668959bb971510236870",
+  "SHA256SUM": "42e13dd422374f8ab372e4e1e34a4763215fb55fd9a2886940861e11a2142ed5",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl7CbGUACgkQeGxj8zDXy5JnbA/+P6AsIzHoDpLrE/CwoJ5nvpNRJPmQhjo1pse6is3L8ZoCXqSri/NLpK6YetltlAZUCh6oVRz0P0P9of3ZFZpoxWHZYowTndt5IB+qIebArhIffzGVFhdCbBL2VTVVytHaaMatYLRYNMqMFng6XI0ciEUxacUmlxKNqLXrZkfrsrwWiCxYMQa/sEhpvp7PU4ijBD6xqSA/KVOBQ23qnFdvyiuhLeeUgtDGjYUmNpliU4BFMags8QBWofeZvMaMHi10XmDDSZdi9DDWZ+lHkaXEoDlf2pHAC7LHAnUMX8tQeXJb6Hu82Qzjhbfun5Du0p+y5Z+rKXa7/xydLL4MyGjHCw1n6Mq7bQL6XvUK/wL/EFMXwbZjpXmUz5XY1BPAykpzfH1F5O325S6qowz2mj3488I1fKiScFs9GfGY3zGE8IOZMhANvmRCFtWromK7axDB52K3ocGAXm4dgcduVWEkqR2O1eY/MRVl53qHqLWkmPNXHzttQYV8iu6aeYGQ/mvHLVNcdxitVz+iIeo46n+gSZI4drI7O+sK3+8jOXbltQm8qAxbq0eOhMJPfjsjuxCP2Arryr/CKYQ7mvyP7rlqmgrsVZSIsoA/ScrZQIyBGF4RYqALR5FTZYgE/SvwwYcrNx4zEyRcMkzTI6GD6yF/jXyfLHGluiBg72nj42N2GRY=",
+  "URL": "https://goaccess.io",
+  "LICENSE": "GPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1589799967",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "ncurses",
+    "libmaxminddb",
+    "openssl"
+  ]
+}

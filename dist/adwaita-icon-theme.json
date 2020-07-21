@@ -1,0 +1,25 @@
+{
+  "FILENAME": "adwaita-icon-theme-3.36.1-1-any.pkg.tar.zst",
+  "NAME": "adwaita-icon-theme",
+  "BASE": "adwaita-icon-theme",
+  "VERSION": "3.36.1-1",
+  "DESC": "GNOME standard icons",
+  "CSIZE": "11267098",
+  "ISIZE": "23429532",
+  "MD5SUM": "11a706fa55cfc1e8bd7bc603d76d7a4f",
+  "SHA256SUM": "5257aba4ccebb5fc719e42744675b48fc3530fca3360fe8ecaf13ed443aee10c",
+  "PGPSIG": "iQEzBAABCAAdFiEEghj4iEmqxSLpTPRwpekojE+kFfoFAl6Zv88ACgkQpekojE+kFfpliQgAgjfbep9jirEthHS8/BoN0C/Qp8wTYca2LazpRqu3+etgEtcMlQEoj7SwchN5iFtOndVrROtTLo79SIICYzoDg8wuHA1MVL/g4o5j9Iy0N5oDkBFsy/JRQ2KfwaWucwcJn8Tiv00q3yAar+omHyLqTM+Z343+yrh/ThJYCW0NLTHLEP9H05NlE6W9pVaX5yZPP+kBRFfsYbX3jFpcniuhBJDJ6LuVDxazZ1p0hdbnkh5tqc5roEEu2Ap8z3QlEX9pF0Snyv7B+VuVwazt3qZ/lkA3p7/MNMl4gAAHHRl8ZaMOAguxz+7ooFAMDeUsE8j73Ky+cYgrbEDTDpCtTBaMsA==",
+  "URL": "https://gitlab.gnome.org/GNOME/adwaita-icon-theme",
+  "LICENSE": "LGPL3",
+  "ARCH": "any",
+  "BUILDDATE": "1587122999",
+  "PACKAGER": "Jan Alexander Steffens (heftig) <jan.steffens@gmail.com>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "hicolor-icon-theme",
+    "gtk-update-icon-cache",
+    "librsvg"
+  ]
+}

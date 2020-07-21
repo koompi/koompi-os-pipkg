@@ -1,0 +1,23 @@
+{
+  "FILENAME": "libcrossguid-1:0.2.2-2-x86_64.pkg.tar.zst",
+  "NAME": "libcrossguid",
+  "BASE": "libcrossguid",
+  "VERSION": "1:0.2.2-2",
+  "DESC": "Lightweight cross platform C++ GUID/UUID library",
+  "CSIZE": "8683",
+  "ISIZE": "19668",
+  "MD5SUM": "f8aadff464f9e844345cbd04e9d2b632",
+  "SHA256SUM": "2fe7fd8dee282d3d8c728cd84234fdbd7ac5741f3db9f2b369240078d107e46c",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl7LzSsACgkQeGxj8zDXy5Jcuw/9GDYD3VdZOBKZrnLFhmaIhvGqRe/ai9FlHGOc5EfgID7paRkP6gOM+JkfiDuojIZa6F5P153ZTBrcMH/q0hrK/jXfGww+7rIS+ot3rgaXQAWvGkXqDr27f5BPBfbMjwnJ4ctGp5S2/jti/5h95JTJZ7Cc73ETVWP3iOHol/ufUIBIoQOHJKEPrwYY1Ch6/RlB2jdfz6e/G7xZAC5ewntd3zuBwb7Rne1SYGGTEySBfB0XZ0OuRn1EoEGxjl8kBZYjREB6Lrcvf3weMP1w4K0DN8hDFsEOi3YRwzWTCKp+ZxQ3DJD22C/2ruU4wvDL/iWzXD6rfts3NkLrMHQMPVEHszoUIYLiLUnUZjZhH8Ks4VOywf3zMI5i5SysYgy4Jyt6zTypKd1UkNWfCpyKyFFc/VfsSeVL9VNi6sJHs5o1v6fKFivVfiv7Mux0OjekypJOXVmlndm5H72WxJ6C7gYWdZP8k35Axi+dqrnzQC7P+++DEQXpgbbGYE68z95PpTbYeODMHQ+qcB0eU21JfCdz2wMykHgyn4J8mvwTcSO0pIpz9zhOP4eskQAe5aTEojVOYNKviOsPWNC3SZnJ4yWWoLbLKj33vweblrUtomi+Y7nfwyRxIsXPl9bvJL7kEYKbG9dIA7og2/Avt07manh5WkwPglAKZk1o8M5Xpe+Z0Dk=",
+  "URL": "https://github.com/graeme-hill/crossguid",
+  "LICENSE": "MIT",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1590414551",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    ""
+  ]
+}

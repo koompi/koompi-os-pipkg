@@ -1,0 +1,24 @@
+{
+  "FILENAME": "frei0r-plugins-1.7.0-1-x86_64.pkg.tar.xz",
+  "NAME": "frei0r-plugins",
+  "BASE": "frei0r-plugins",
+  "VERSION": "1.7.0-1",
+  "DESC": "Minimalistic plugin API for video effects",
+  "CSIZE": "361964",
+  "ISIZE": "5793622",
+  "MD5SUM": "3c37373e521a89e5f0939b26801346b7",
+  "SHA256SUM": "3fd460ccbad3cf98906b22b2b437809999ff88a01cb5fd3a81d1807da3b48667",
+  "PGPSIG": "iQEzBAABCAAdFiEEFRnVq6Zb9vwrc8dWek52CV2KUuQFAl32s+0ACgkQek52CV2KUuQYLQgApf8saTLdd/ju1/gxdc6fA87SYze2Qc94B9LGBSW9UyL66iMjFeWoUkNOWizBaA1KQf+Izre2zwQfL1ge1itJCZbD8M99yfFUt0FBRdhTi2kmxtwotJVTUibIgMotg4Uur7pPsP33szYcPNa0q/folsExYl5H4V5JxC/93qRpmHlT2csaXokO5eCl3VjDQbx79BOx75gNpUiWgHAsrURvejnTiAxD4PxdGg0gO/I3OvgEWdaTEgECBmG304ljKn3T5jxUvk81qhimNX9XTAc8wOHlyL/XxJqIfHK8LnRv6SCTfwEsE5O5QlJB8eEqQkvgL3n3aAxiIMXmMlwZpG+Sig==",
+  "URL": "https://frei0r.dyne.org/",
+  "LICENSE": "GPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1576448921",
+  "PACKAGER": "Antonio Rojas <arojas@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "cairo",
+    "gavl"
+  ]
+}

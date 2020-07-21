@@ -1,0 +1,23 @@
+{
+  "FILENAME": "hunspell-es_ni-1:2.6-1-any.pkg.tar.zst",
+  "NAME": "hunspell-es_ni",
+  "BASE": "hunspell-es",
+  "VERSION": "1:2.6-1",
+  "DESC": "Spanish (Nicaragua) hunspell dictionary",
+  "CSIZE": "417446",
+  "ISIZE": "1534679",
+  "MD5SUM": "f35f488169bb1bdc07635f2f6b317863",
+  "SHA256SUM": "5c38e0833e73b98274a5f77d2db000f65cb22035378aa88565dd5539106c17fd",
+  "PGPSIG": "iQEzBAABCAAdFiEEFRnVq6Zb9vwrc8dWek52CV2KUuQFAl7zseUACgkQek52CV2KUuSpMQf+JW5NmzbpkPgxsUxLCM7KE1n4JiOTWi1jq2/6LYP63y93AgkWgIfTjJCMJZdbm7YXCfbFvWlJ9aOQOGO1N1nqOFq/RXEOr9RNT+lSJRAM5vlLOsKNE+nRC0jove8TebGwRBvMlpeGF0lVNqL6jHDdXbQWXs06jWEnuDxtOnStS7ZussTVlm2I4yUx9UMzgIwd3rCHPvvsRODWycJkKQiM/nx5fujOorLFjDsnRydKOUD+og6vhsawPBBpozgEktY+CQifhEDmg4a7C+1LJ7ozbMCw5pbJYoLh/CNWIHNgjcJbZX2ElxIJlkieN0r1dSHJHTkeThNSgYtj3A4McIaXrg==",
+  "URL": "https://github.com/sbosio/rla-es",
+  "LICENSE": "LGPL3",
+  "ARCH": "any",
+  "BUILDDATE": "1593028883",
+  "PACKAGER": "Antonio Rojas <arojas@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "hunspell"
+  ]
+}

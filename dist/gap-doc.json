@@ -1,0 +1,23 @@
+{
+  "FILENAME": "gap-doc-4.11.0-4-x86_64.pkg.tar.zst",
+  "NAME": "gap-doc",
+  "BASE": "gap",
+  "VERSION": "4.11.0-4",
+  "DESC": "Documentation for GAP",
+  "CSIZE": "11307802",
+  "ISIZE": "38628226",
+  "MD5SUM": "7519fa1f5046be8ed14e9de26c6d01af",
+  "SHA256SUM": "da24aa52dd822722dbeb535b0410e0fdc27d946c38ad8e720739bf3f00ff9732",
+  "PGPSIG": "iQEzBAABCAAdFiEEFRnVq6Zb9vwrc8dWek52CV2KUuQFAl7noqUACgkQek52CV2KUuQwmwf/d41Cg26zjR40begq0I0QOiIgsZMvO41M93tmicnAgpLKHNLwb9+obNAZ2MZmPAxVvA58R5J0B2bl0uHTIO/f9NQWfrxeGzVgEVBqIZPwv4lBwB10hOLD3IzKQENvJv9POMf8gB69K8ymtKwiXTay9zaXhb4zaqrg2yQmWmDK75X9XGOSxBGkt3obASyYgW/I76omeLSBhiZm0r60WNyiA7CDl8GsDQxbaFjZgQ4qO8i/SrP3npJHX2V7ojAh20GH5xZHUvuHGB0g31kp6w14CB9IkRqi4aAaQIK+4nAGhAEtxPcIqyfs02m4oi9r0YvCY8qlYCYC1IYuOEXUF8tSyg==",
+  "URL": "https://www.gap-system.org/",
+  "LICENSE": "GPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1592233943",
+  "PACKAGER": "Antonio Rojas <arojas@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "gap"
+  ]
+}

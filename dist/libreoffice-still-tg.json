@@ -1,0 +1,23 @@
+{
+  "FILENAME": "libreoffice-still-tg-6.3.6-1-any.pkg.tar.zst",
+  "NAME": "libreoffice-still-tg",
+  "BASE": "libreoffice-still-i18n",
+  "VERSION": "6.3.6-1",
+  "DESC": "Tajik language pack for LibreOffice still",
+  "CSIZE": "1946364",
+  "ISIZE": "20475604",
+  "MD5SUM": "faea8c94badb0736d506333a9912468c",
+  "SHA256SUM": "e7f8dcd16e9c4ea6b44411a6875c1b4064024c7374580b2827979e1576931c6e",
+  "PGPSIG": "iQEzBAABCAAdFiEErcih/MFeAdRTEEGelGV6sg8qCSsFAl6tSvgACgkQlGV6sg8qCSujHAf8C0uO6cJsFgmRUGDresrtxa/p1+GZqgasND66G4nqsWlymOntW5Vp8IGZXWcNHIc24LIzVKzo3g/qzviVahCDMfstwbyFtAUPNlE8AaVdWQhE/muVJtx8VCQlz6+QhudLRu/TxQJcRiI3TTwx8D1Y7Tw72584ysKFMlHBYDCp4Yn1cG14lPt0R//0VOT1i7VEglGX5CHD42yewu7y1Nx6N7h1UrhCrnNO/GQNd2lt/objt300ckWdmwR3xqgZn3F6TgIFBnMa2kpDew0n3Zf0OWMaA9FhL27V5/X0iONYfNlEiobNiP3NK/8CX67o4pB7CVlzT7OZCtlqtMF4gtaiTg==",
+  "URL": "https://www.documentfoundation.org",
+  "LICENSE": "LGPL",
+  "ARCH": "any",
+  "BUILDDATE": "1588407321",
+  "PACKAGER": "Andreas Radke <andyrtr@archlinux.org>",
+  "PROVIDES": [
+    "libreoffice-tg"
+  ],
+  "DEPENDS": [
+    "libreoffice-still"
+  ]
+}

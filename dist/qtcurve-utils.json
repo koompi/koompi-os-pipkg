@@ -1,0 +1,24 @@
+{
+  "FILENAME": "qtcurve-utils-1:1.9-4-x86_64.pkg.tar.zst",
+  "NAME": "qtcurve-utils",
+  "BASE": "qtcurve",
+  "VERSION": "1:1.9-4",
+  "DESC": "A configurable set of widget styles for KDE and Gtk (shared libraries)",
+  "CSIZE": "344084",
+  "ISIZE": "2200637",
+  "MD5SUM": "dd651543eddc659474332367f2d68dca",
+  "SHA256SUM": "babbf08436094f768c7c59f5f12a25ac5d4bcb90a1bb27d0bfc252f83cf102e8",
+  "PGPSIG": "iQEzBAABCAAdFiEEFRnVq6Zb9vwrc8dWek52CV2KUuQFAl5DI58ACgkQek52CV2KUuQsbAgAkgOf8LkUKHVcu7KMY0VMX9mcWQab+Z/HIRut3YTis8NwrL602sljr2VQ3p4Xw1F04dYDgrXuYwVkO5F+OyjJjB2FzcqpYdD0lCi11qUoRqgW/4PvRE4+pw8oUelCjs1sBEmqY8NGmuGib8QATv6JSCDNshkpUIKYuuRx+ACzbVnkA+6MwPm5mr/tY9sbTLvmZePetKImy2cwsJb0baQVTPXzD+FlrK6TOfGjPjM9x3wFtEIGxGwOw2jSuFr64PBvQEl/5tRnv0GeJGiz11w2uaco2MulwBL8aCnFGn33IPXUHFy+ZP7/784q8qet4Kzrv6i7wOYEO/3XKAPaSCejjg==",
+  "URL": "https://github.com/KDE/qtcurve/",
+  "LICENSE": "LGPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1581458228",
+  "PACKAGER": "Antonio Rojas <arojas@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "libx11",
+    "gcc-libs"
+  ]
+}

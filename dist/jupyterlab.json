@@ -1,0 +1,24 @@
+{
+  "FILENAME": "jupyterlab-2.1.5-1-any.pkg.tar.zst",
+  "NAME": "jupyterlab",
+  "BASE": "jupyterlab",
+  "VERSION": "2.1.5-1",
+  "DESC": "JupyterLab computational environment",
+  "CSIZE": "4315890",
+  "ISIZE": "38943579",
+  "MD5SUM": "acaa6c6a2e42d19ebbec549657d84f76",
+  "SHA256SUM": "910c80bd0ffbe144ecf5823402749757e7823c064030b36bae4a4a4d731ac3a4",
+  "PGPSIG": "iQEzBAABCAAdFiEEFRnVq6Zb9vwrc8dWek52CV2KUuQFAl7xpeAACgkQek52CV2KUuQySAgAiwXviveYB4+Kok1OJDS5jjiQ9iKscEzSnJxkSI4Sq4C1Dfs7LnF2+kY2HnayM+j6gjEHK9YdiZ+NHty1bzOBgIcvoAdJ/YL8Ae+v+9Af3Bdjd4OpO4zOcLTFb1vjruZpMp9eCfJICi40i9ozjSAOtFXUKpHNHMo1cZqBT82w2P8IIFPtqqvVVjSMUX8JOeyOh6uGO97MC392v4Bs/GFIlPnN/g+UarlSDhQ7qnU3nb4ncWUAWkxNwa4lqEjezVYbCnCBlDtKfeYLO9rocoE4BvzTfX3XT9gkpsuVu32nOASnBN5quRrGIDBuYQNjDTkREzsLCkJSwSn2FN6X8pprAQ==",
+  "URL": "https://github.com/jupyterlab/jupyterlab",
+  "LICENSE": "custom",
+  "ARCH": "any",
+  "BUILDDATE": "1592894838",
+  "PACKAGER": "Antonio Rojas <arojas@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "jupyterlab_server",
+    "nodejs"
+  ]
+}

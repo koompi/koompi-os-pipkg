@@ -1,0 +1,26 @@
+{
+  "FILENAME": "pantheon-polkit-agent-1.0.3-1-x86_64.pkg.tar.zst",
+  "NAME": "pantheon-polkit-agent",
+  "BASE": "pantheon-polkit-agent",
+  "VERSION": "1.0.3-1",
+  "DESC": "Pantheon Polkit Agent",
+  "CSIZE": "42094",
+  "ISIZE": "170067",
+  "MD5SUM": "eda23f967a38f36f470cf51015db291e",
+  "SHA256SUM": "3df923d228a7874a6bd0afab268a1240551e617bb12d63dcce798d01c1f71ab4",
+  "PGPSIG": "iQEzBAABCAAdFiEElDfdOBWnqRaePTlGr/XZUJi8b/UFAl7wx94ACgkQr/XZUJi8b/W47Af+LkiAPQJ+eZDcVVFufUAF1Jyhk1M6+u43e8Bx2B37xzgXw+LEzLev3tYq7BHArg+IXMSrkRFrB8AWUE7RQkjXokEtc7fkaI/k7z4BDZGuj6VQ7ni+q4uNglWiRCubcT/iU6ixZwj8vbDyn06uEkbb2pYd6eGJhDVvfsnp6Pp/V+3/towuJfe8/O4WFtRUFot8gUx7ORLfuICqYR0WTIvrBKIPZBABdA3cshRz+600Kt+tU9DbSvtYJDa4kMnKPIKR0blxQsT2J8mzVysbNRgpSPbojU4aCzmvL0i6lizbIseRdAGURycowNGyxIeLMLQfApYZZHGFbDupNeWDc9d2fg==",
+  "URL": "https://github.com/elementary/pantheon-agent-polkit",
+  "LICENSE": "GPL3",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1592838067",
+  "PACKAGER": "Maxime Gauduin <alucryd@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "glib2",
+    "gtk3",
+    "libgranite.so=5-64",
+    "polkit"
+  ]
+}

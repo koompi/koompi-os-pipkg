@@ -1,0 +1,28 @@
+{
+  "FILENAME": "podofo-0.9.6-2-x86_64.pkg.tar.xz",
+  "NAME": "podofo",
+  "BASE": "podofo",
+  "VERSION": "0.9.6-2",
+  "DESC": "A C++ library to work with the PDF file format",
+  "CSIZE": "804676",
+  "ISIZE": "4743168",
+  "MD5SUM": "e084beac3f73083f3ebc102d6a13f8e5",
+  "SHA256SUM": "76f52675baec5c4fc2f965d99a5235c3f24f49144558a9f353297ff549c0bb1b",
+  "PGPSIG": "iQEzBAABCAAdFiEEhs/8qRjPOvRxR1iAUeixSKmZnDQFAluW9rUACgkQUeixSKmZnDTLbgf9FE2LTqGTCOnYYg+yCMgwHy/a90m4Mfq5FCtykYR1c3fAtdeZVDn/nyuqKR0ZSk/5SnK12o5jadKWaJljG0CBVrW7NInTKqd4zCA/If0Ew0ftvsNcCHscVHBoNjuJUcsbO/jOkZPHqqLVgHkJ7Brmr8CIZMt9gCW515ZGI4BbRh7nTm5ibC5kt2cbNhO2j/eoJ0EuZm1/RcxrzRn6vrI0XtHQ2wieixwUQwZj/LolGZu/IxV/xI7X6Qgeyf9HXbxKei1JQlLyfaTPVM/HH43g/RGV6hGReIrIXEWjxxYQKYEMTw7+cVSRLmtVU3z8FWFOoSSzEgzwKcW65bWFn3LPIA==",
+  "URL": "http://podofo.sourceforge.net",
+  "LICENSE": "GPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1536620162",
+  "PACKAGER": "Evangelos Foutras <evangelos@foutrelis.com>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "lua",
+    "openssl",
+    "fontconfig",
+    "libtiff",
+    "libidn",
+    "libjpeg-turbo"
+  ]
+}

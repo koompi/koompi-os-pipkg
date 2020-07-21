@@ -1,0 +1,25 @@
+{
+  "FILENAME": "gens-gs-2.16.7-8-x86_64.pkg.tar.xz",
+  "NAME": "gens-gs",
+  "BASE": "gens-gs",
+  "VERSION": "2.16.7-8",
+  "DESC": "An emulator of Sega Genesis, Sega CD and 32X, combining features from various forks of Gens",
+  "CSIZE": "2165012",
+  "ISIZE": "5695488",
+  "MD5SUM": "b5deca214068ddd37971f0c15838581d",
+  "SHA256SUM": "e5875ce1a1353718d3a3afe9167f437e29dc460a751f1f647f92b450cf4e2b31",
+  "PGPSIG": "iQEzBAABCAAdFiEElDfdOBWnqRaePTlGr/XZUJi8b/UFAl1cIasACgkQr/XZUJi8b/VXCQf9ECGAcTLWf+4ZhhZC4KnGEdvJNUdmxJ94QuYCH7pN4tJumioKiYtdYc7Ad9Z0L2EPt+GiYB3g0fzF4mxWczpfQEBLV8Ggv/3z34ujhCfDfH+o8R6MQAN13kDQBpfIvG88ry3Vg70J37QebjLwhB/U3w/zVCzzaLZJi968O7U8GF7bxgR8xRoXwaygMjEFl1Wip+M6VNJIRPI50wbdzJG/uUAqsRyqYftdI3W1Qc3FYRri5AVLy3pN4QxuJSLv8dHqNSpsek4hTdSKBZkI/94vwonq3qRXpJNXMzjD5WB6wlOLoHDzGnfJZmkaeurvSoMvHKHs30fAzHgih2xwptb5Sg==",
+  "URL": "https://segaretro.org/Gens/GS",
+  "LICENSE": "GPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1566318756",
+  "PACKAGER": "Maxime Gauduin <alucryd@archlinux.org>",
+  "PROVIDES": [
+    "gens"
+  ],
+  "DEPENDS": [
+    "lib32-gtk2",
+    "lib32-libgl",
+    "lib32-sdl"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "FILENAME": "golang-github-jung-kurt-gofpdf-2.4.0-2-any.pkg.tar.zst",
+  "NAME": "golang-github-jung-kurt-gofpdf",
+  "BASE": "golang-github-jung-kurt-gofpdf",
+  "VERSION": "2.4.0-2",
+  "DESC": "A PDF document generator with high level support for text, drawing and images",
+  "CSIZE": "787288",
+  "ISIZE": "2114839",
+  "MD5SUM": "956df7b4c06f75f42696295b6ba5e6b0",
+  "SHA256SUM": "1702af8604974602bafad32efcca9dd4ee0238e952046bb51fb6c5337654ee16",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl71opwACgkQeGxj8zDXy5JXwhAArhf3rd+9cucvYP0fnh69ddI0d+bYe8BPtjxXC2iDAUMvsMQnM3vXFRNN+nmr3f9liufJdDLRw+yeg/4rF8QoCRqG6xiuL6oF6UFSKMP77HnTjhmaHbeHOz9dK0umaClmyaWfem19ATJTxsxWyidKOxhVrH1iufeGeS/dS4spb4/aLxBMPawghXiNpg+qhQegGAn+jfCUhue/l9eUtuej1JBt/CFd/uhsjllt5FfMhCGIlVMvpWQGkK1nZm1n8liN9lMTbRDhIma2qrTKDXeev9of1WwOTsQTd+gpTlPWYkKruz+6k/k0jB/VeA3rl8nvK6vtjSc0oaMTI7S82UGojVSSyaJc6NhKMSFAG3EUfWKVRv2L6U/Ghr49KTOsDi3onfJSLd23SWlmTvLy0tIk1B4MIrgXODIS7H2yX2W49STl6aynJL5I7JGoHNS+EW8zz2vcdTsIGWQd3ttQmiFB1SFYt1u3Nh1yDODptFRgNOe9eBXjEFeABbiYqr9s37MUBZcURE+6SehVUxV4wnJK13NhGy0K2kY6JKJXfYabu0R+0MKl19ndPIP5bOSuMtqeDVZBA824Yj6g7FdX42VNrLoaOmkVa0vp/6OG03IhHiFf3d3YvMl5nlSl6SCWJriNCAgoLACB2cnzSwz6Yam2bCOtMVHlefxfnUGZKCGTUsc=",
+  "URL": "https://github.com/jung-kurt/gofpdf",
+  "LICENSE": "MIT",
+  "ARCH": "any",
+  "BUILDDATE": "1593156199",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "go"
+  ]
+}

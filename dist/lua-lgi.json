@@ -1,0 +1,27 @@
+{
+  "FILENAME": "lua-lgi-0.9.2-2-x86_64.pkg.tar.zst",
+  "NAME": "lua-lgi",
+  "BASE": "lgi",
+  "VERSION": "0.9.2-2",
+  "DESC": "Lua bindings for gnome/gobject using gobject-introspection library",
+  "CSIZE": "242927",
+  "ISIZE": "688923",
+  "MD5SUM": "329217feb54a6a39d09cb9500a511b4d",
+  "SHA256SUM": "6f79be2efa2cd1b32efe77a62f7dd95ff9c1751ee3e11cc0588b6b40c7938896",
+  "PGPSIG": "iQEzBAABCAAdFiEEhs/8qRjPOvRxR1iAUeixSKmZnDQFAl6OVmkACgkQUeixSKmZnDTfRgf/XRvEyy3kHYrkV7R3J4G73/lhMMdyAYpCUwazRey6Khu43YHlHIqZ9vs1pouNPYSRvcTnpXXwHbY0e1xokJTc5ZdXNr/Dma3YNBmYCHnajbVylYTb7OTDE1JI4crBIfDv/V+wVO1DA4eZa/tLj1Om5wCdPcjcegO3xNWmdmSY79H2XOD4UM91JM/4p5Fk0wXgaZCXxWc9WexJriQzPQvrES7+n8l7f5pooNFmexrHcDocaAGiU+V9urGgJKdlJneE6LOl2KCES+QVRH0OwpdleGmPkweeFPDdS7Q/aU+iquSBjuFbAd98bir23inE0jz3DoW9g6i19I4VPt1RZdYN7w==",
+  "URL": "https://github.com/pavouk/lgi",
+  "LICENSE": "MIT",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1586386501",
+  "PACKAGER": "Evangelos Foutras <evangelos@foutrelis.com>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "glibc",
+    "glib2",
+    "libffi",
+    "lua",
+    "gobject-introspection-runtime"
+  ]
+}

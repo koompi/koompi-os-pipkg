@@ -1,0 +1,28 @@
+{
+  "FILENAME": "cifs-utils-6.10-1-x86_64.pkg.tar.zst",
+  "NAME": "cifs-utils",
+  "BASE": "cifs-utils",
+  "VERSION": "6.10-1",
+  "DESC": "CIFS filesystem user-space tools",
+  "CSIZE": "87090",
+  "ISIZE": "247088",
+  "MD5SUM": "ff13a1b6263f13fdc3d1ec6f439fffad",
+  "SHA256SUM": "0a91ae7f93e70eae6d3a55e76e20720629a29ca265233e2ece6cd6d1932872db",
+  "PGPSIG": "iQEzBAABCAAdFiEEFRnVq6Zb9vwrc8dWek52CV2KUuQFAl4QX44ACgkQek52CV2KUuR04wf9G/r/GUuTVtI5iIvrJpYPhI2W4dMOI9dcVj69fsKCyr27TJoWYJEEyD4BzIQRRyLO2L8E9T136pDw9jaCjY6SP+iQIbY9GTnBZRVtBROy4xgM+G/PYCspLOg29DIHtEj3Lj0WCEUM2Ax2lE6AUfJE/hJwY/m+TU0X0b2fclI33mhsD0upXibcVV25mEPbZm+wKgG5N3XP3ROwVFlK07j80n8UokqC+MBjX1kv4lqo/DI7sOSWcD8L7T6fOyBJSwTXWzaZEeALY6WQvWqpEBBJcmYUpOKbNvobB1quNqbhiBHdaTdLLq5td+AH/FPPMhFuAQFnucK59bhzDGyy1xn+QQ==",
+  "URL": "https://wiki.samba.org/index.php/LinuxCIFS_utils",
+  "LICENSE": "GPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1578131285",
+  "PACKAGER": "Antonio Rojas <arojas@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "libcap-ng",
+    "keyutils",
+    "krb5",
+    "talloc",
+    "libwbclient",
+    "pam"
+  ]
+}

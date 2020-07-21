@@ -1,0 +1,23 @@
+{
+  "FILENAME": "libretro-blastem-1841-1-x86_64.pkg.tar.zst",
+  "NAME": "libretro-blastem",
+  "BASE": "libretro-blastem",
+  "VERSION": "1841-1",
+  "DESC": "Sega Mega Drive core",
+  "CSIZE": "191347",
+  "ISIZE": "544408",
+  "MD5SUM": "092f056f58754d27fb4979644d951068",
+  "SHA256SUM": "0e88745f0287947b8f4a6894a50d2def3b821af6cb2a719e70cab3e68c2e9788",
+  "PGPSIG": "iQEzBAABCAAdFiEElDfdOBWnqRaePTlGr/XZUJi8b/UFAl4pr68ACgkQr/XZUJi8b/UV8wf8DMeXfrsUVARUSxwxYGK19OwTuLmKHBy1cI2nl06QZCUlJioPBQcHkYtD9a1Qcd3ezC11NXiAcZWhF0eOpkc+0faeUTdGEEWV2R0O67uBp7SESNj7K18GuvNfDszcyGo3Uw5RXM2au4Lq4ZBj+6lnmEiTD66ywgT0T35eEYjRYvMRb89I4Q8JwWGsY1dcHkcTRZ3npWLl643AUhJDpwJlZD8Q3vIK9W2USrRaEK9cPbUU2Nlt/TSo2ErOAvOSXePep0VniTqXJf7W1FRnlLIoNkZXaE6yzPrR/n5tAHt3J9DzxYR9WFkY8abID3tlB1q+XgaUFDqE3rjm73T3/WFOMg==",
+  "URL": "https://github.com/libretro/blastem",
+  "LICENSE": "GPL3",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1579790224",
+  "PACKAGER": "Maxime Gauduin <alucryd@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "libretro-core-info"
+  ]
+}

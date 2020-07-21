@@ -1,0 +1,29 @@
+{
+  "FILENAME": "libcryptui-3.12.2+55+ged3b12af-1-x86_64.pkg.tar.zst",
+  "NAME": "libcryptui",
+  "BASE": "libcryptui",
+  "VERSION": "3.12.2+55+ged3b12af-1",
+  "DESC": "Library for OpenPGP prompts",
+  "CSIZE": "712401",
+  "ISIZE": "4063608",
+  "MD5SUM": "4f9d098e161a240ef3e7465c2dcfa94f",
+  "SHA256SUM": "de05cc2c78baaba62ea1e963a2ec5e7c7502cdce0f616e28d631c04bd534e842",
+  "PGPSIG": "iQEzBAABCAAdFiEEghj4iEmqxSLpTPRwpekojE+kFfoFAl5ki60ACgkQpekojE+kFfq2DQf/dt2paN0qN121dCrN0iewAGAbFhti21x0R0v2tYlHZcdAnSswpgULgMIyz5pO2BdBPuQhcQa7MnvNnciYA27VRJZZgbNJuD52mSV+ShTBUORdj/b0hRbcEWziQmd7hD99lhvAnJkKFX4IDB1hEpm3CO56BNzSE4z2OWxAgt5BBuYDPjRmwNzL9u3TowoAz6lYh0WavfQ7sX5NnhLz9Dp1xzfpJ/Ffz19Jh0yU76eKZOceq/TfLjCgIA6YTK4J8OCqIe47dTZMHTg44xZNUBwCaVlS3zvSa2NhNVO/F0s+7L0m+HJZ/ibjm/N2cygpBh9Bb1kXg5agzTlQXFsoWWE3Hg==",
+  "URL": "https://gitlab.gnome.org/GNOME/libcryptui",
+  "LICENSE": "GPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1583647549",
+  "PACKAGER": "Jan Alexander Steffens (heftig) <jan.steffens@gmail.com>",
+  "PROVIDES": [
+    "libcryptui.so=0-64"
+  ],
+  "DEPENDS": [
+    "gtk3",
+    "gpgme",
+    "dbus-glib",
+    "libnotify",
+    "gcr",
+    "dconf",
+    "libsm"
+  ]
+}

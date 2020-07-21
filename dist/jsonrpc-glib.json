@@ -1,0 +1,23 @@
+{
+  "FILENAME": "jsonrpc-glib-3.34.0-1-x86_64.pkg.tar.xz",
+  "NAME": "jsonrpc-glib",
+  "BASE": "jsonrpc-glib",
+  "VERSION": "3.34.0-1",
+  "DESC": "A JSON-RPC library for GLib",
+  "CSIZE": "58244",
+  "ISIZE": "458752",
+  "MD5SUM": "2d708a44c5b3684d4213f4f7a9970e59",
+  "SHA256SUM": "95ef1e77f00875c6513be28c4235113d3d34a0d082b5a1899771baef30088d69",
+  "PGPSIG": "iQEzBAABCAAdFiEEghj4iEmqxSLpTPRwpekojE+kFfoFAl137oUACgkQpekojE+kFfr5+AgAmEydoVyNx2UonEu1kTEehestzJz+0ITsnKz6udAHxcLTzc693+/OmvagZNEwfcthmRjrwst/udhjROkAnkGZ5ivx7KMblUH+Tma/d9LYT7sPyWCX2UkekzSBLV56icTcE8Fiq7Ha3hUNfovRCa3HI4QwmRbRNKAIwWCmrh8jlxbOl8DwSfLTnqmkzEJZE3dwMeR/WUAyyfUcHjwNdPOQDczJfmu0Rkr2c+YfC/K8q4GZmQ3R878nTTah0axdZgSKAJymbxGTYWFfopokYBwoMlpTqk8TbagoIxUusZ/iUgWkpZ195owWo5Y9KK/UaMmaIbVjayBgtsBUJoMjeKU7AQ==",
+  "URL": "https://gitlab.gnome.org/GNOME/jsonrpc-glib",
+  "LICENSE": "LGPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1568140849",
+  "PACKAGER": "Jan Alexander Steffens (heftig) <jan.steffens@gmail.com>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "json-glib"
+  ]
+}

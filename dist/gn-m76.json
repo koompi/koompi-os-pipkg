@@ -1,0 +1,23 @@
+{
+  "FILENAME": "gn-m76-0.1576.81ee1967-1-x86_64.pkg.tar.zst",
+  "NAME": "gn-m76",
+  "BASE": "gn-m76",
+  "VERSION": "0.1576.81ee1967-1",
+  "DESC": "Meta-build system that generates build files for Ninja (version shipped in Chromium 76; for building electron{4,5,6})",
+  "CSIZE": "730752",
+  "ISIZE": "2586198",
+  "MD5SUM": "531bef1b17a18bcfd586d4e235539418",
+  "SHA256SUM": "13ace2e28bb5949f39b81f6eb59189dd4679327e751f5d8503abbaacfa645e0d",
+  "PGPSIG": "iQEzBAABCAAdFiEEhs/8qRjPOvRxR1iAUeixSKmZnDQFAl5c0jMACgkQUeixSKmZnDTcKwf/QY8Xh3QFJCanE/SpTWdk33iYqFBac2qGixzFwSs2MNkRg4+5HXsrOJmKIlHYYaBBUU2lbusjxUWjfniHuNOImpZlGO6X9jExcK3x9mcegEEFGYKfExOgGItLT8MtGkACurxiWw89Qf13yd6oM0jbVXp2zkstCl51tbLpP+oq5JzJ16Af2uHP+Va1g8XLGKPW8EMQn2xt+Vm/G/cYCks30FQNEMQ7URYlRnTPKfKSEowdKbbWIYQuMdKGQ5mMTDKV4RIQ4WyxzJw0dS06nJ0EJ1SlrEHj9po7INJZ/EIzUxiEHWVLersCq76PgxwS5W4hJXT9mOyum+DE0crKUb55ig==",
+  "URL": "https://gn.googlesource.com/gn/",
+  "LICENSE": "BSD",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1583141377",
+  "PACKAGER": "Evangelos Foutras <evangelos@foutrelis.com>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "gcc-libs"
+  ]
+}

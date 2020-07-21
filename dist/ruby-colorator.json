@@ -1,0 +1,23 @@
+{
+  "FILENAME": "ruby-colorator-1.1.0-6-any.pkg.tar.xz",
+  "NAME": "ruby-colorator",
+  "BASE": "ruby-colorator",
+  "VERSION": "1.1.0-6",
+  "DESC": "Colorize your text in the terminal",
+  "CSIZE": "8924",
+  "ISIZE": "17272",
+  "MD5SUM": "fa70f5a057bd6530b53f6aba84646a2b",
+  "SHA256SUM": "9b9c1ca5ae595483d89b7554cd9caf9709cd4e3e305d5f9f17c1bbfdcb251b6e",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl4ECHoACgkQeGxj8zDXy5JkFQ/+KolGbXsJsCBeIh0uXTNA7pQ9JRI+OvLMzZAhLjBXqnA8RprNuIlRRknAcLuGhHldN4YyeLnZejTBCG0I4uq/ny7OabWhhONpoO1XMCEXHBvFLGJO1Gr+2SrfYkWQ4MjBOL+P7Ouc62Yc6t29j7a1YuMCbDSniE/u74+bbQug3W3QwwUPjs/1DalYuvgvvUhswTLbBEDigQivjoni+VKEhdMFlbxbicIW6AQ+HAjlKXvYcLTO4fWaHsWgL7LsIuLV4uEgxbF6ZexJ/HSmabllAmAJ2lV4UUcwabCatoYWciQzvnfT2MIF96OBq9HOZ5NPL8v6Zl/BMBYsB5xH/wIYE4OQHMpvKVO0FzawhrmOmXdeRRZfhyRqF3FE2jX8Ouhmq47euZQ2FDrhcYhy2eDygy1uvO3XBQOSz7h9LtgPBfSUn8mpALB9icdm55rcCKEmyFvi+F3lzrG83WtI4pSY8v8lqB0rhLxQ9pobSwWRri9PqID19l8f6uz6pZf0CyG6aoUQhwVCriZSjiq/w12M/sx9XnNsoKwhWwDlihLflu3ovnpnHcsgMCkuNflTPRSnUq3INME9Ap4T32Ie0neSTZrnJAJgMDAGnhgkblzce6JltSaC4Rw9MadgSk/xEYEp/Tag8lkrvHQg7HxkjEiLVJVNJZrwt7SlJarG0fyuasE=",
+  "URL": "https://github.com/octopress/colorator",
+  "LICENSE": "MIT",
+  "ARCH": "any",
+  "BUILDDATE": "1577322590",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "ruby"
+  ]
+}

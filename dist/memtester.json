@@ -1,0 +1,23 @@
+{
+  "FILENAME": "memtester-4.3.0-4-x86_64.pkg.tar.xz",
+  "NAME": "memtester",
+  "BASE": "memtester",
+  "VERSION": "4.3.0-4",
+  "DESC": "A userspace utility for testing the memory subsystem for faults",
+  "CSIZE": "12140",
+  "ISIZE": "30720",
+  "MD5SUM": "de623fba158986174d2dda9cc39e29ea",
+  "SHA256SUM": "e275246bb26d7269466edd1b478cad564c85d446daa1b2b02167d18c97a3d107",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAluYIu0ACgkQeGxj8zDXy5K9kxAAnbwlaUaThy4rsARU92127OVAivySYISUf5WUpFTG6J3Df4JIr9JDSvpuBDAz9BqbxcpP/heuIIp2kj5nwJjwx7dzd5GjaHjpUcm8ckbgWcUmMvQRxSlcJ5l89M7UzZYpA+b1ok5r6JWoO65UM68UEdHlFqQCgoFa/jabM2jswM9xvh1fAQkxn3gWEgvagGW3wkiNB8IzZAS1WQIBGNALdD5j7VEs1t+edhcftbzKttp3PuEdmL2utIGI6KAYKcJuzhcpQoq0VJeeZ+/unfbVy9GZUr3oa2ar/L1DrGAXRjV34rEIseFOzGgxOfQrQ3yebVYawdgMchTGOpTAk9PzTbL2aL42uJQ+cyFNaHGRL8ifOc2xSVEskeL6RjqAwnP1Ht1jkb3qUmPTIYBRgaO4187U5Zk57Mfvd4fPbM8l3KHcKf+WgClLt2rCJpNdKPL9gMe/J/JNWs2PnFRxJko6hcf0F+8jNPNp4gxw+Tz7dU1rmxPnNArwKT7LjIrJEW7oU6bQ4R/BcKJpWnnKAVLEPisrEMVGPTOXo0gMNAhL8FcHsAjpfl6WmzAi2uP7omO0omqF3DaQW/yrUZQk2iPWH4NOcgL99awSFwqIDsFLUZlvQPb38o8eqWAt/q8ktpWKwR3Omx6OXu/YbhT48UdXS0exQuYDBJS2B2VPJLVrb+8=",
+  "URL": "http://pyropus.ca/software/memtester/",
+  "LICENSE": "GPL2",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1536697039",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "glibc"
+  ]
+}

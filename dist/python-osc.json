@@ -1,0 +1,23 @@
+{
+  "FILENAME": "python-osc-1.7.4-2-any.pkg.tar.xz",
+  "NAME": "python-osc",
+  "BASE": "python-osc",
+  "VERSION": "1.7.4-2",
+  "DESC": "Open Sound Control server and client implementations in pure Python",
+  "CSIZE": "49832",
+  "ISIZE": "301991",
+  "MD5SUM": "abf20c0499ef00099bdaf09305325ee9",
+  "SHA256SUM": "f3f866d70c7d9a06c9155af4cc1f226a38b8cad525b078a29009629890e162a6",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl2/pZMACgkQeGxj8zDXy5LUDg//cl0aU/i1l+MqtO6Q7IfnXPEFEBqRbPfdeWxEiMBZE6XJcdhAirYwHbxpZopSfhrvhOBRqDt4lCuVsU9Tb4ULS6ymtYjND0rj2/5o0hHebZCFAikoNl/U6YQ3sGSynivyY1FG6908gY8UhL6rJxSBworheKnsPwDN5Djfe93WZ2m90NqPL0jX+O03uz2EqG7YqSXM5gsAYn158YOzyng3kpCCw7TLiPk6Cz/yfN5iIuEgrN0mpQLD4uHUDI2fbYt565od+LhLKgRQmDkr3DD57+KJwxboPTc+ipQ9HcGunTm9TC+fG8oPhUglRAg69fo9jjeonork5YdLR5Rb/AiXPYqkJUouBiAMN0LmTMY0Cb9opVWytaLwhaVOjGkF2QeQZ0O0sihyA+ASq6W01stG+IHLbx64jXYivFIhl81px49t2UFZTe2UdBtCxXpi3JPuwzHE3cgn2/AQt73g/5GoBx29aPpYykVKG/Wt0Bykic1dlgB1UpdcsQl676FHIMvUxFP/xY+Kcp2hjfHd+0NgWl0Wj9eJr+x22PPBdSvViPmCdVzWN1msUqKJsp1ZiMCCM1bwULysrn/rPOzSprkoGpv0kg0qFsrC9TmLPf8kFa2BtO6NISuFl4/3SWOnKZPf6KHDwRwiyh8zTXQXYWSGi0+TAkDSo8sS7Zwdd54LO+k=",
+  "URL": "https://github.com/attwad/python-osc",
+  "LICENSE": "Unlicense",
+  "ARCH": "any",
+  "BUILDDATE": "1572840826",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "python"
+  ]
+}

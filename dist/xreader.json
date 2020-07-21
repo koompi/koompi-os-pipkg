@@ -1,0 +1,25 @@
+{
+  "FILENAME": "xreader-2.6.4-1-x86_64.pkg.tar.zst",
+  "NAME": "xreader",
+  "BASE": "xreader",
+  "VERSION": "2.6.4-1",
+  "DESC": "Document viewer for files like PDF and Postscript. X-Apps Project.",
+  "CSIZE": "1166608",
+  "ISIZE": "6031289",
+  "MD5SUM": "3494531f639b71c2b4067ada2bb2bfc6",
+  "SHA256SUM": "a1a8ce4a413c427c2c36b72c2115f4632dd978bb9deb1022c8444ba68d0bdba9",
+  "PGPSIG": "iQJMBAABCgA2FiEEYEETBMCdNmKDQO7/zrFn77VyK9YFAl74sw4YHGVzY2h3YXJ0ekBhcmNobGludXgub3JnAAoJEM6xZ++1civWnCgP/2WPLfi+n3T7zwJI2rrAVjIIztZtYQDtZ2003ekqAQtk+lW96gR8ORRPm3FpJ6fXCXGqeQOZkY+4O/DLIhhzTGOg4yE2IwImjsPw94hYKDJ7q51Hoh5O5KMYiK01/KMow33fxuoNWmUfMKNxQv/k5YSkvkA+YH7IpDgpwVGof/prQmzzxnvJl8XKrixFqIRPTtZIL+TGdrK2xWLs3XmBafhwNShcN3N/XGIyRndG3XwVovBhqsD+TvBkfP4gTNa/MfVqewHLqUKN3vnO9ZSW1mAM9nOAM0eTgyyNja4DCug7EDbYUNxfe5AgwoMF0QKd8mJBm6poe2c9+vSnuqVtPyvAkKclCgx9cYJy/k6kqyq/zhOG2SrXe5wKmXE1IuPnYRoSzH230u99h4/yN29LiTPJm7eF2e15jDjiq9PGChGUb/j3c2FRQXJ/tKljqujd39pJCBxeRYjhkwFrYjIeC33jRzdYiSiaUxb34icX0MLJ4S5hGILkH3zdmK1t7jgJ7xvTK8FY+/MYAakzT9cDqGUm3KrwgNSZB8WNhY34BJZliEl2Le00Ua86dWam7u6UdxlsnlUkqtbv4ayl76mmKTYHCgJMSSMsyBmmMcI3FHxYMPygmCF07Fy8UjfHOWZkJy6q8FvGfQTP7VqkJViRdxkOBLBNAOBILw8Jg6I88otl",
+  "URL": "https://github.com/linuxmint/xreader",
+  "LICENSE": "GPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1593356735",
+  "PACKAGER": "Eli Schwartz <eschwartz@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "poppler-glib",
+    "webkit2gtk",
+    "xapps"
+  ]
+}

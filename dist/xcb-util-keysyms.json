@@ -1,0 +1,23 @@
+{
+  "FILENAME": "xcb-util-keysyms-0.4.0-3-x86_64.pkg.tar.zst",
+  "NAME": "xcb-util-keysyms",
+  "BASE": "xcb-util-keysyms",
+  "VERSION": "0.4.0-3",
+  "DESC": "Utility libraries for XC Binding - Standard X key constants and conversion to/from keycodes",
+  "CSIZE": "8456",
+  "ISIZE": "30011",
+  "MD5SUM": "23039e4df436871d5d6448c00aca3e73",
+  "SHA256SUM": "934ed733d4702e35fff45643820925101bcfe4ed94dac7ce1021e684f4d6c6e5",
+  "PGPSIG": "iQFIBAABCAAyFiEEZkWwqMcAXnjbHXhk+Z/+D+rpmb0FAl6y1ZcUHGFsbGFuQGFyY2hsaW51eC5vcmcACgkQ+Z/+D+rpmb0RQQgAnBJP6z0l/PYBcaVVoObLnxaVcYeEzC5ys1C1EcIVjVVTGZbYkPAkQrM0cpGqY4M2Hi2n/dDQfWvwXBa3VUjavAbAb5mNiE2mk87ggYih2sotaJLc3FTaax5lZH8ORGU+8+fwkHCTXtDfORj/JX66W5lyzVI0KHlNkiBWlVRFT3qlrm+0y6naZxvZvjIcOroRoTnWLZ0BMduKR+5VrQXKoYQrjJvUANTwvuVCO2qPWhQ1vMkhk2VWkudsl1f24QD97Mq9MN+oHyX2UFmfNBI/+D1cwTn4qBO0b3WEoR1uVwog+f3PpT6sSEzz24FRJMhbZ4rlvERl/Ogyl3ezhDDfVw==",
+  "URL": "https://xcb.freedesktop.org",
+  "LICENSE": "custom",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1588778353",
+  "PACKAGER": "Allan McRae <allan@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "libxcb>=1.7"
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "FILENAME": "networkmanager-strongswan-1.4.5-2-x86_64.pkg.tar.zst",
+  "NAME": "networkmanager-strongswan",
+  "BASE": "networkmanager-strongswan",
+  "VERSION": "1.4.5-2",
+  "DESC": "Strongswan NetworkManager plugin",
+  "CSIZE": "20691",
+  "ISIZE": "82005",
+  "MD5SUM": "dde026aae89c19db2e4df20555556a81",
+  "SHA256SUM": "4e5ef5fe638f36e69face9bfa8e77d9a654469fd88c9dce3152d6b1d18965d20",
+  "PGPSIG": "iQEzBAABCAAdFiEEhs/8qRjPOvRxR1iAUeixSKmZnDQFAl8E1lwACgkQUeixSKmZnDSJuAf9Fsd2AipXSvVFr9MJp0LMV95bwXfS9zuO+ONu25nBrmUznEelYKheumKyH5mMVPrfAYBWoKh6iKzzaJB/tqdhKJKbJB0pCM7cVC67FDLN0MeKFdxuQJM27HDyN2KAXbM6udO4+ayfEzVS8/h3A+DbWqWGRoVh1sky4bll1cm0fPRdD7FM3S80G4jpxXIesreTY/ZSPAD2eMTAM0rXcUluZ7FP9/WfE06lQ6NbqImy2NQ+SCGUr/JsHtTGvCWYMBWnQjKHmztTvS4dB5WrxDB/ocJAsiy2jBO0sUYpAhpXiFPl6J1IlMKvYA3/YCdtMwvSrUmJ2+qcwbNrkPW/cVMVlQ==",
+  "URL": "https://wiki.strongswan.org/projects/strongswan/wiki/NetworkManager",
+  "LICENSE": "GPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1594152500",
+  "PACKAGER": "Evangelos Foutras <foutrelis@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "libnm",
+    "libsecret",
+    "strongswan>=5.5.1"
+  ]
+}

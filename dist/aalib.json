@@ -1,0 +1,24 @@
+{
+  "FILENAME": "aalib-1.4rc5-14-x86_64.pkg.tar.zst",
+  "NAME": "aalib",
+  "BASE": "aalib",
+  "VERSION": "1.4rc5-14",
+  "DESC": "A portable ASCII art graphic library",
+  "CSIZE": "139582",
+  "ISIZE": "293999",
+  "MD5SUM": "f39181a71cb37f912c5bd384529057ee",
+  "SHA256SUM": "bef3a1eb5cc2a658f7957a1508d015fdf9e802c28835bb5cc2a8a240ee77c961",
+  "PGPSIG": "iQFIBAABCAAyFiEEZkWwqMcAXnjbHXhk+Z/+D+rpmb0FAl69V3wUHGFsbGFuQGFyY2hsaW51eC5vcmcACgkQ+Z/+D+rpmb0AEQgAgkYSfs2GbDpmTtcZYp4iqA7579zz9DTOeD5cYro2rrb8YwtqBcDkUs+5IidETCWgfMkLEpGm8NmLTNWW7AkuQsPaMhBKfBJCTKw8pTgyR/57LLCxSuEErpXVejB0V4FafqQrw7+bcsuide/OV2ILbIIIrSgQPh0rXf0yzKnia84Lrzx2w/KEqHOjR1fH/X5ROaDY6bxJb+jKPpAlntxrDr1JInG7k89YQNxnW6X5Wy/vid8+47tKXUEvs0AIxnJsJ4WBCD0e/4G+H/jFDoyk7eoqMYH+5MVaHb3Y+1YeDwb8wwYe3+bTOeHpmSA82UmtQtLOFEnp0fdFbiAqZpTslQ==",
+  "URL": "http://aa-project.sourceforge.net/aalib/",
+  "LICENSE": "LGPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1589466932",
+  "PACKAGER": "Allan McRae <allan@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "gpm",
+    "libx11"
+  ]
+}

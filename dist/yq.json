@@ -1,0 +1,27 @@
+{
+  "FILENAME": "yq-2.10.1-1-any.pkg.tar.zst",
+  "NAME": "yq",
+  "BASE": "yq",
+  "VERSION": "2.10.1-1",
+  "DESC": "Command-line YAML/XML processor - jq wrapper for YAML/XML documents",
+  "CSIZE": "21278",
+  "ISIZE": "67420",
+  "MD5SUM": "2673126ba23dedc7373c6c04a930e119",
+  "SHA256SUM": "e946bd236f0fce6e37af92aca4788a7d6cbf80a8111dc70f9756487c1092cf23",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl7L1RAACgkQeGxj8zDXy5IVYxAAtQ3S+Ui8pozHMnGzeEAdSzU5ro5i9GKUu+irOv3fr4LNNTuYEA9aOCAd74K5ipJBHw3p9cNTtKAKBrTfoZWWniRgs3KFTHT44a/I2zXcPTaH5Di6K3QtTTdBp66th3xVG26PGoI7klUHmhOb2k6KRsRmviT6qw1se6fZTjXv/AuaU0Xp9fWcF2u5GJZ7GyIFMHKNJ2RvsWLekodaKBxcrBXHLciLOMu2MihNIsNhF/O7FwYORQqMIOtOILupS6CZgxkkVQg6tdtWK9uUYhnp2K1iVLba4ebRLdu8TXxC4ucBnw2LjPmQa7JpSrFGlrFc55zLlrc+cBscacYdWHh0P3vc2c+YG8upB9T5crEVhILkuiQ+TpaQRlOwuSZqqC9cZP4Cn04mEUIDGyQv/gOswHeJCSdJTuDYw03TUUmvuOxPY2i0DY6Fo9tIPS2GU10v8+HjjF+EDksSpDLKgo4PCXJ8IS3YFRK7bl0Qb42eRifyNNGx5mhczRSuCkzeSlNitOaVv8B9XWR7Goq08+BclW7zd64vpYpRujAt028hwwBpyaF85RfvALiIwBPlnSGgTh8rALsTO6h2wZC/aIiM/Baw7iuRRSNFvqw4nNuPDxaTpcNcgzTjYFZAK4dUHWtAZtajRbRtWl6uFC7ywRIXLy/IiG/hShux/oEwSs7/upg=",
+  "URL": "https://github.com/kislyuk/yq",
+  "LICENSE": "Apache",
+  "ARCH": "any",
+  "BUILDDATE": "1590416629",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "jq",
+    "python-setuptools",
+    "python-yaml",
+    "python-xmltodict",
+    "python-argcomplete"
+  ]
+}

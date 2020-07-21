@@ -1,0 +1,24 @@
+{
+  "FILENAME": "haskell-time-compat-1.9.3-9-x86_64.pkg.tar.zst",
+  "NAME": "haskell-time-compat",
+  "BASE": "haskell-time-compat",
+  "VERSION": "1.9.3-9",
+  "DESC": "Compatibility package for time",
+  "CSIZE": "49455",
+  "ISIZE": "193312",
+  "MD5SUM": "bf45d75af0c643df2435cbd9f0c437b8",
+  "SHA256SUM": "e4582bae5524b2bda8841343632a43e3e4e0fa8eb7af4974d5686f5d9fe539a4",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl75KQwACgkQeGxj8zDXy5JttxAAqbkz0IxdVNtxKBDTVnE/6Y5S6UvoDV+VGHccamF5O0DFGop1av0IvOc1E2INlGiFbzuhfOZoCCXNzNsybo8NEpyhcAUaK+mzVJpZIdfzTVn48lGzRkuGiED1S3DGfIXDeCa/znXN6AMLqn4wRvq7UB7IYf39i1kbOKg/gNKn2wv3/9hrFVmuXZjbxGextyiDaZEsSKy53jLf2UA2wxB+nJJ5RZcnF6NsJQ0G+DIuev9+lDU3vaQ3ERpZUCn0E85Nq3zyQPz9pd3tUHx3wVAi7Bgwh8KBFzOYrwZ5BQpsQX23B1eBDzNz+BSJhcZfk33OV2JIl0aqhifB+7nsvqrQbChmvHT7MMlICE7Ecze8It/s8V0UAdF9iIAm4B4qd6znx3igWsYrzwnqlNd5j2UM534yxkUWDUHagrDcFI7VC4crElHnWhd80CVKrjFI5j34BWzaj2QL7OUSg2SW8Aa48Pl0wbRbC4/pwSJvj8Yeb2S7FeODGofcCXxq3flmdYBiHs2JSscnzy5oiNNBtlVvkV9FozepPzG9hzVLyq8YJT/HEY2LLt8FWC0FH7acxYYeXry5qw7YfpAhu1gvv8SEoi88QOwP/mwXUb9kwLL9DcJJkRCclJLd7y0cO2IyLCZlbMnxMQhEfqUBQms/deOflzIolhIhgVzZYVtQeeWAjIY=",
+  "URL": "https://github.com/phadej/time-compat",
+  "LICENSE": "BSD",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1593387243",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "ghc-libs",
+    "haskell-base-orphans"
+  ]
+}

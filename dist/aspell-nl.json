@@ -1,0 +1,23 @@
+{
+  "FILENAME": "aspell-nl-0.50.2-6-any.pkg.tar.zst",
+  "NAME": "aspell-nl",
+  "BASE": "aspell-nl",
+  "VERSION": "0.50.2-6",
+  "DESC": "Dutch dictionary for aspell",
+  "CSIZE": "1608295",
+  "ISIZE": "4430750",
+  "MD5SUM": "13c8502df1499b2cc89cd05e602ddae6",
+  "SHA256SUM": "c385690dd60919a1827fa9a6f29c0a63e127af6e53d2fe70870738258c9cc772",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl6/tg8ACgkQeGxj8zDXy5ISaQ//U16+2Ms/xnOY84y0Z6vJKCD1aRCKCnozhLF3BsY4lnOEwhNRq0kvp8Kq2bTpBlC9frYFIQQQCS27F88TmE4OeGLgSuTliBZXXWl8wIFy5fiNndH6xfKNAvKsukKcomoag42V5QhhCIXSkvAszYfGLnarzaXkdib9xHqa0DahNabktbLhNP9bcbOyud6PTbWqi/rsbIJjOXoGqf11wOuwJseGIenswCGGbMqGu6ZZFEtbDlfw596UO/0SkydGZ1+ix5lEXQ2oFurzMFzeDg39lKHgzI8k6X2jiwl2M0ptJBAhZkehjhtOVeNaoqTlDhGKVY9qevE8t3ooWgFPJnGPa/8T/QUVI9WC90CsRNbjJiqUNkVUUt3h3Ffbz3LxTGgIhc+FD/eqrKDJRsCh6N/ZiXxBLCL+ZnIy5ylpiTc6PXlGV0+0X40xAkGayn2Rtnq2Q0+JZ0XqjcDSE06gwKiml4bUDR/MaEwnaojbuOcsLqPBqvzzMreYkD6o9YDQUJRM92bc5rSv66Unq2Z3cD3DG1jWRiAIbrkP6DvyvV3yguP9AZBo2pmiO7HjgWwko2ZVk/6Ca7Ve77f+VAy3uYf0ZVAVMVFfuH6776YDYBibTuSiUZjTgjBrsNyGyqaGPX8/nFH+AtqKPpHz6jyZ2k/gi5zMdkYfoqYzPTiOCQrMWhE=",
+  "URL": "http://aspell.net/",
+  "LICENSE": "custom",
+  "ARCH": "any",
+  "BUILDDATE": "1589622255",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "aspell"
+  ]
+}

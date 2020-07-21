@@ -1,0 +1,28 @@
+{
+  "FILENAME": "audaspace-1.3.0-4-x86_64.pkg.tar.xz",
+  "NAME": "audaspace",
+  "BASE": "audaspace",
+  "VERSION": "1.3.0-4",
+  "DESC": "A high level and feature rich audio library written in C++ with language bindings",
+  "CSIZE": "1215140",
+  "ISIZE": "3594636",
+  "MD5SUM": "047346e2fb91c9c6209388c9521c467d",
+  "SHA256SUM": "a3a5f1babd2444e4910767f7ee965abb510b02018ee76931cdb32f666e2336c0",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl2/v2QACgkQeGxj8zDXy5IRlA/9GjIb6TZrR9jD8/gghmTXVtdisuVnOPOnflPI97cJ6ZGni5T41mVGOGTdgOpgddDA7GsO0c7VH+DcazLwHo56LPDFDuCHwQfqLk+XO92YBndV8iw8XTZb9TGypfgj4LnOylMD3RHizYgLEDE/1DRod4kUzUwFMbCiPoDCCdriMajZ6jSC4E3Bi5teIGE0cArzFoOuEUorbiEGYEjXFYW7jpKsUYe9UMfNB1HUdhPtvp6FlAtOckJJtI5t9Vr9glXUYDMYJlfOXEuFVbHDWcLjLOGQLpK3wtUBsQYjGAGJz+gOpONGHCBCVfIza+M1jUnFsNW9iKLfQJdZ+tUDDUwMJ0UKI5P3tkYlXudtkAYYV5yvqJEbZL3caYIkGttTBUUryvZZL3jJ79jFK9Wi00TFg+FwVod+5/hVKPGQxtWQgwIhVnZvNvHdu3t4YXnO8mbeb5mQoEFWPuSDMl0G8uZHgdkuaJqqricbZpSS2fEABx5XwrmSfs0xOY2xAGyHRYvJmGUEY3DvLDBxLIXXrzIsyJBslj1Kal1Tzd3uGV/sZWmspGQqkdbrKYn6qMhEt7HEk27r5OSBSEReQk85u4e3KyCZ2uX0wgFSPGs9eA1UCdCUUXzidHuGaAVnmFWfCRqHzpXbdwmypqx/VyJR1zW2ngqJ1gXV8EiE9uY5sJ2x84E=",
+  "URL": "http://audaspace.github.io/",
+  "LICENSE": "APACHE",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1572847370",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "ffmpeg",
+    "openal",
+    "sdl2",
+    "libsndfile",
+    "jack",
+    "fftw"
+  ]
+}

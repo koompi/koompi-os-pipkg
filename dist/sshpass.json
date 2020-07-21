@@ -1,0 +1,23 @@
+{
+  "FILENAME": "sshpass-1.06-3-x86_64.pkg.tar.zst",
+  "NAME": "sshpass",
+  "BASE": "sshpass",
+  "VERSION": "1.06-3",
+  "DESC": "Fool ssh into accepting an interactive password non-interactively",
+  "CSIZE": "10004",
+  "ISIZE": "16513",
+  "MD5SUM": "7de265fffd567cee22b60207b59f3969",
+  "SHA256SUM": "30da2e533ce95ec5a2b9a45f64c4c797cf8320e84f16ebbce35cc10c1365704b",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl8EbzMACgkQeGxj8zDXy5Lk8g/8CrMLA9q83M+e+VskNLv65MCRJtJv7Q5fYdi9M5FIRCxon1jCYBexRxYki6fMx0ghJfqMP9sAWo+A052G1qzy+jqNbF59CU+oCRwKIchGQr/uvItnvRbWiYnDO9x5ZSdmYvB6UhCAKaqHxHZDk1wcxeWCYSJqIdReWLAqX51946/BBjH5GyawgxoIIjvlPOKbHjo12ldE6iVYn70i49SCnOnr4aY+3CefelGQmFI1AO2xNTHUUYFrCUqdkOxMSVvKohpK45I9PJYL4LAEFGpVm/rjDQhZYf92/Bpt2405vHp8MUX4iN0OYr+RzWmyGipIslDXa70e6XSKiY54O5Zv5WZI5avjwxFEvlfYh13SFS0rw+fMSbxNDQQ2r55ih3AACqTnt62OQzIMJ1KBLyqjH0kXMQGeke0T9a+bqfZ7o2tjawuiTnfpqpk9buXIOzJ6HL+bNywSQmHZwSS2SHrlvcJGsDU8vxbVYtyAPHAj4r7ToOl2MIRgyxH9wjj+fXJKUH8DZbiSwTInAzLNeZzZLG0NvrLtOMFIX3SI0nga1xXOL/yp7RBK3Sp3UFTH0EXV/lzkMT+iH/4flsrm7lFcDbpesBwinEVipq5lYtIg7Fv/FyLXjs0memcm4C8O0rzZMkdQVbm9pp4vHL6LFsO2nDdhwUvmRGkt01FvzCzaxLI=",
+  "URL": "https://sourceforge.net/projects/sshpass/",
+  "LICENSE": "GPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1594126111",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "openssh"
+  ]
+}

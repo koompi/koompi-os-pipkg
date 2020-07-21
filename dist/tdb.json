@@ -1,0 +1,23 @@
+{
+  "FILENAME": "tdb-1.4.3-2-x86_64.pkg.tar.zst",
+  "NAME": "tdb",
+  "BASE": "tdb",
+  "VERSION": "1.4.3-2",
+  "DESC": "Trivial Database similar to GDBM but allows simultaneous commits",
+  "CSIZE": "74540",
+  "ISIZE": "240532",
+  "MD5SUM": "80a0b665bb28e982240089adcd01a746",
+  "SHA256SUM": "17b11e0680037930ceee0788fc05885f600a7a5576cacd80688fa06007109436",
+  "PGPSIG": "iQIzBAABCgAdFiEE4kC1fixGMLp2ji8m/BtUfI2BcsgFAl5/jG4ACgkQ/BtUfI2Bcsh96Q/7BVjPtnzfPWQKANjymmrr41G8tKFn7wSOtWfXcRnI4AtRye+jYAR/rnCcFmgtNvc2/mPwwW7f21w74xXMBRSwIKo9pBEYmqNmIfEhUFk8PMyQFLPbCAMMyC4aR0wcLU32afWpg2P4ftZVgsSdy5wNyfCqcQL0/qW0JWi5mHfrHF6gxfOq4mHDHQH/9bkFUl5LiwvLlgqBRygoScAJwpWnScbqu2bcp5RLc5U8kEDOGwSqSt2zmxrDuah9sPxEb2nFU/ZkK487dU3GLJZfsKvnU3U795fDhlE5mXr788f2YDYpjiqzV1t1qZ9qwLufUp1oOjLkvWZW7fGuquA9cCJEAqVhlz72FUjJCYYCtkJjIpAM0vs3BOv/7joF9H2anbNY0WQh5amNjxOa7rHdUfxV1mHulltIFrcn5L7oGcRts1N2h/5qQa66eXwpvk6hcPqz7Q1O1TqOiDLHGk6jCXGXPtF1KK7BmQ/FPlTD59zNfi1dpa+GOMG7RmvxScsjmYYVgpD2LvK1s0Y0TMJjr+IzI2LpncxGnMyuiIaDvrvTBmYjbIoU3ElLosWTETYF7QIGBRY4Np5vNNX+7+VxajFATKqK70gmlhb4ycYl6RWskACVCFS4qg4S+UxW24HzH2/FbZiPDiIMcl6BQyQLILYTQNc69ltowK3xr23So7oEciM=",
+  "URL": "https://tdb.samba.org/",
+  "LICENSE": "GPL3",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1585417192",
+  "PACKAGER": "Levente Polyak <anthraxx@archlinux.org>",
+  "PROVIDES": [
+    "libtdb.so=1-64"
+  ],
+  "DEPENDS": [
+    "glibc"
+  ]
+}

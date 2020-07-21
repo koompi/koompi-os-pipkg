@@ -1,0 +1,23 @@
+{
+  "FILENAME": "python-dnspython-1.16.0-3-any.pkg.tar.xz",
+  "NAME": "python-dnspython",
+  "BASE": "python-dnspython",
+  "VERSION": "1.16.0-3",
+  "DESC": "A DNS toolkit for Python",
+  "CSIZE": "197324",
+  "ISIZE": "1338289",
+  "MD5SUM": "3fb2b64debb0e581d41c4bf7fb772a28",
+  "SHA256SUM": "a880d7ce65ce4a87a15e96aae511fba8cd2aee624b5624c511841859e7876a21",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl27FicACgkQeGxj8zDXy5L/IQ/7BMLbQVGyPv7E38nJ1xpNJkAsFPL7vgVVaTUwQbqxKjpqHlig0K8BoStOUB4MI8tg3msb7oj7HEr5VP6SKyeTBLbDvOIypwlZg7BMYxkP4yS4zaj3ed6EOb460Y+2qkwmMYfrncj1kjSyD/eg/0VRLWE3jNViyNZr4BUFpHioPlDE4XDLLYNdWACyKrI+hXF1JdkNAAwYt6hQrARP4RzLzFJKkke8dFf8n2jkRPM2sdJhky97W27yv8tcL07lxsgpgYPM0cg7xpEyBz0mOnKktb5pmE7niM+z1mkIYt9xzSk3zbiDZ84Mq/rl77Bg0Z7r5J9Y818Glq5JKiCU24eSwTuhTHVqVk4DJUiLOLvLNOLA6T7elm+ChipYQNP4ADdA3oGgMJ9Q3H1rZ+ahqQaJ/l/kH8y0BJSeYx5dLqGNGrl+J2MfGDT8x1lx80Pm8gg0BtO+532NUn8rgnVtL8+LK+ihkjLBdzEpK9ng/wGUDp7Xrik23xB2jzRIaU+gJ88uqiLpg6vCqqMtI+PsZX2W+NRhPYfvvHhyGhvkGtx/QYVq4L2kNYdMTvZxTuk8iJB0Yb3qwpGsT7Zfd8leKPEktLzSfJQlgMdFx1HgNzZfOB3PxoVU77ePtvDbLFSuqQxG2qV5kiw8cXoYwwDyCb9pxkr5ZSc+qALDACIHg7R8nuc=",
+  "URL": "http://www.dnspython.org",
+  "LICENSE": "ISC",
+  "ARCH": "any",
+  "BUILDDATE": "1572541907",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "python"
+  ]
+}

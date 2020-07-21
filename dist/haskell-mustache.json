@@ -1,0 +1,31 @@
+{
+  "FILENAME": "haskell-mustache-2.3.1-126-x86_64.pkg.tar.zst",
+  "NAME": "haskell-mustache",
+  "BASE": "haskell-mustache",
+  "VERSION": "2.3.1-126",
+  "DESC": "A mustache template parser library.",
+  "CSIZE": "181746",
+  "ISIZE": "945751",
+  "MD5SUM": "0c761fdd150d44f3a03de60f8c89c372",
+  "SHA256SUM": "95d3fd59065da5ee170633904602363740eb5e38d8b8d9d25f8b97f6a998f1ee",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl759l8ACgkQeGxj8zDXy5KkTg/+Kfk2O/URA7HFjsazEmElWrnIiTJFMVnG0d8lFoLTcCbZpjwaaCqetfG2tSW6GU/ZWAsYP7/l75ZurNoLI9Rjqf3fX0+yBWPM9WzpYenjkYItQBg7TjN7+OO4UwBhfYK217oFHngJPqRMkTPitMIPG6gRB0E/HYROAcVr3hun444ASzZ+8+c4jVavKqmuCgQfHuxykLvrz51TsQbLXX4iSSjxmaOG1FgnAesQm5smF6llRwFVyMlNqVinRrdMNOjcZcu53NABNkP9pEWdb/QhLkx7e2JqXRgKymkUY07Y+5vRkFv85fuFqCmCjfCO4wzH0H6WnS8nNOL83FkeV/z3RBOkmmJ4d3MQR9faXfEPUwoYt3Irh88navCHSDz8odootI9zJwyMWUlKtYakj9tlHwkZvWQg2X8ZdqiY4B8HzDtE0cOy2YzipPFl0gy4SNYLTSn5u7z4c7TUImtjMpvJOUXeduwGvSITdKkr0rQSTwO49fvOH/maxjoX8uyJef6/Kd/C2z9sTNyBSEtkdvxVRXxynaZTj35a085kxsBUk0a0eSmuSkTLhRJ+c8DSqfxxIUFQW8cys9TOWtVG6EWzgNZ2ZS2lItnZ9t4R6vg+Z3wEIbKKbMg2aAIAluf5jXzOfNraQHwr+F1LmEHnla0jYT/6Vr7V/yluTktNnAwqz28=",
+  "URL": "https://github.com/JustusAdam/mustache",
+  "LICENSE": "BSD",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1593439785",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "ghc-libs",
+    "haskell-aeson",
+    "haskell-either",
+    "haskell-unordered-containers",
+    "haskell-vector",
+    "haskell-scientific",
+    "haskell-th-lift",
+    "haskell-cmdargs",
+    "haskell-yaml"
+  ]
+}

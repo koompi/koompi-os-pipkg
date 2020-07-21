@@ -1,0 +1,24 @@
+{
+  "FILENAME": "perl-business-isbn-3.004-7-any.pkg.tar.zst",
+  "NAME": "perl-business-isbn",
+  "BASE": "perl-business-isbn",
+  "VERSION": "3.004-7",
+  "DESC": "Perl package to work with International Standard Book Numbers",
+  "CSIZE": "18389",
+  "ISIZE": "33117",
+  "MD5SUM": "2d58817a0880cace50ec6eed99e9723d",
+  "SHA256SUM": "1c5a85f76812145ad81cccff1d2166cf0d63b8db65e4e05ed51041ac8a07dc6d",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl7vOfgACgkQeGxj8zDXy5I7cA//VWOSanI6AV/bAJbW/grt+Rfw5TZnvMgbi/utxhSuajD6Lv0Hl9giCvfh/mfDY1Q3muatU0C+5aDdCL1nmjLVukWD2pMV1BQuw25YPeOmzDvdjwlQLz/2Bnc5tP889WksLxuQewlYbl/VqEUDnoLbxU5fnifZaD+eYHGxCjSoSahSPzCSPWpn5B8vQVB0PZHrm/VeehXHE6Q86XijG00XCR9i22bwTW66ZXRwM0PGrHju0eQJLT8i7Nu/lVZr+uhW6qNc0YeBr7WdsLHsOqFDhmBidA6yBVTcpidGCCKrQotRZ33kwlSrFaFdNNd3wXFoO0Ok1G0uNkPNyZJNOTn08SnSFkEj5E9lmLY1uroNDeItVa552iR8Gr3gzrol6sa6Bty5BBF4oud5j/5zgP35hAKYp48kcIEkyDeiyuXPPrpxdkkx5142Ujno6mWxIVqeZzQoC3NuR5C/khFVYXhFrRaeR7ZJ0pcpOts1C1rsxqGQJPSqYQAusB1wvcZw7uf46gFcpSfrJM9atzY+u0IXQs3eB88dVcHpMep2yn6187UbSmiZh86q6xxfLZ4+mMmigjKXhupkRzED+aZWw0ptuWKxSqLs62+flIaYOFX8YD85AX1CnWH8ARNG9hDsMPS45LGmz/AfadGy7cn0fMOa3RJHZ6Yf4eulLmrWv2nNwvY=",
+  "URL": "https://metacpan.org/release/Business-ISBN",
+  "LICENSE": "PerlArtistic",
+  "ARCH": "any",
+  "BUILDDATE": "1592736032",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "perl",
+    "perl-business-isbn-data"
+  ]
+}

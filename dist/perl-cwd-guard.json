@@ -1,0 +1,23 @@
+{
+  "FILENAME": "perl-cwd-guard-0.05-6-any.pkg.tar.zst",
+  "NAME": "perl-cwd-guard",
+  "BASE": "perl-cwd-guard",
+  "VERSION": "0.05-6",
+  "DESC": "Temporary changing working directory (chdir)",
+  "CSIZE": "5832",
+  "ISIZE": "3935",
+  "MD5SUM": "ffbcb308f3c3a7aa3cad3f7cbefcdb58",
+  "SHA256SUM": "bd23959372d695c38aa34fcedeb89244a4d56459e6bedbdd2786912dd68bea91",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl7ve/EACgkQeGxj8zDXy5KuIw//ZYtQ7108dN4LCZEgJHeTSJw7d92RvHg4wYULT2FOnuTwBoK/va/kxNb6kgrjV1dFCnD33tKjnUlDL1wYlKsobjE3aRqaY22J/8Ly2QQlsmJEN8wTVRwtPQdoOJ8crgnFTts321nyLzYgEeMxRSto9bJb6BE/2klv4yLUjuZIYZ5KnfAWR7yEu2216wtfdcVWdxe75FLeMa2r116nV/jrSuXOWUtHffOSY/bOorVJEmhdFVo8ZBYFm8iqs9c26TVFaQOG5wZl2WE0LoVOf8kUSpU5+oPgEGu2oZhJSUxLYFHHb/9vLCxBdTjYOSA9dwAZsChtZ/lUxKl4WVOFHzN02juoDeQWhgy2M1VCDq3Vrjt2i/rHsf5h1fWuNUums80Pi07T79STTPnKHw4MnDT6JAAjANApDnJiquHrYjEFjI5Ej97EKLYrdF7A+u/+NCSqS0fhJEtEmS5h952eXstg907arR2UooY800twwzo/2O8UEGOZm+HUvqCavE6uf1LddQ0a083cF6voubvsVljL257VYprA0Sb80Id1iUZDf4KbNClZwflbQkqONXa1zT+DETlJ1tj4i7aTna9HFXft8s2S7g7wyrl84eu3kamMyVAaldRycmcONXzmunMg4pDf5OXg2+8+XGePjDbYE6WC2Mt6oreB8mM1Z02r8PQA6bg=",
+  "URL": "https://search.cpan.org/dist/Cwd-Guard/",
+  "LICENSE": "GPL",
+  "ARCH": "any",
+  "BUILDDATE": "1592753099",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "perl"
+  ]
+}

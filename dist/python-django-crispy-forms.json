@@ -1,0 +1,23 @@
+{
+  "FILENAME": "python-django-crispy-forms-1.9.2-1-any.pkg.tar.zst",
+  "NAME": "python-django-crispy-forms",
+  "BASE": "python-django-crispy-forms",
+  "VERSION": "1.9.2-1",
+  "DESC": "The best way to have DRY Django forms",
+  "CSIZE": "108897",
+  "ISIZE": "595851",
+  "MD5SUM": "51b12ff16d58f1e05e8f0728c88b6c4d",
+  "SHA256SUM": "3c5d6c2a833a086568fb9754a949615bda144fd42b9f99ef9d2fdae764075297",
+  "PGPSIG": "iHUEABYIAB0WIQTH54SUZv4jWDQ1iDdyWHNLQcMVSQUCXwsKOAAKCRByWHNLQcMVSQolAP9LELkL24fs7FY9fnFRsGN3cxWa1WYMVd6NGCC4mwOPUQD+JbZGN553KYHpDE4VXBfFTeo1cQNUoTf0cvW4a5jYPwQ=",
+  "URL": "https://github.com/django-crispy-forms/django-crispy-forms",
+  "LICENSE": "MIT",
+  "ARCH": "any",
+  "BUILDDATE": "1594558932",
+  "PACKAGER": "David Runge <dvzrv@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "python-django"
+  ]
+}

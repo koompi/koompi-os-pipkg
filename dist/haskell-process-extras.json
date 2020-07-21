@@ -1,0 +1,26 @@
+{
+  "FILENAME": "haskell-process-extras-0.7.4-97-x86_64.pkg.tar.zst",
+  "NAME": "haskell-process-extras",
+  "BASE": "haskell-process-extras",
+  "VERSION": "0.7.4-97",
+  "DESC": "Process extras",
+  "CSIZE": "80359",
+  "ISIZE": "375161",
+  "MD5SUM": "3d49467999471402e0f8d67762837762",
+  "SHA256SUM": "36bfb8fee3afb76ff85c1e40f95a9771bfca65046077a6e1dc3fff642ca71605",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl75EDcACgkQeGxj8zDXy5KyDA/+KT7TK1KUG4Nt2K7toX4i95DJXuvVwxl39JdYB19GvAA2t/8Y3eR75H7QmoQpWwO8UyZOq8kVE+zkOyDwf4kGQBrOBW/scAa1wY0DX6iQiUUOjYpvBhobtwL4Y870yQEK109UQ9tiYSw2lq9/cmX40GBTJZb+wTDo4zKLWQmTRr87+cmiaRY8WyApSnX4fYPI1twY9tWeCqnjsvg1BJs9FDIf4iVT5VCo70pG/Q7kOJNxokt3tIwukDavDCQGT+26XdT1G2IMe4NbdsdZw0U1WpIroOllx62Lgp3m1XIT35f6y1hNuIuvu0fadm6ZMQ7yFcQ7+nD1WOHmRq29xgICihOnMT7mBPC0zmfvjLkOPXTcSiY4daNwBIRjZSz9xclCyYEAFxh+Dnetm/qqEhrBk8t2ogCGR8tSmkGnTnCfS8YejD7c0Eg8fLmtAlJcFgo+gDmJmMkIbL0pdu2dQ6oH9syl7OU8/GpAw9/CK1Ckn+8OihO2L9K+YvYi5SiL0w7ipENKSaFVEHb+fkkFBeJpvtBZBeagxYffyT+tDxJg4x61UQ8H2mYgz1ea0AWP2IXtnV8fgQyWsAQFoyNOws36OQBuz0LIephUF8inSCK7orp9m1bDtwXjo7bV3ko3YddMBg96DU3rU2fQ2xUGTJ+790rm6ElIBVuVjDTS5FUNxpk=",
+  "URL": "https://github.com/seereason/process-extras",
+  "LICENSE": "MIT",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1593380894",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "ghc-libs",
+    "haskell-data-default",
+    "haskell-generic-deriving",
+    "haskell-listlike"
+  ]
+}

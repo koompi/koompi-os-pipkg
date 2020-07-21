@@ -1,0 +1,25 @@
+{
+  "FILENAME": "semi-1.14.6-8-any.pkg.tar.zst",
+  "NAME": "semi",
+  "BASE": "semi",
+  "VERSION": "1.14.6-8",
+  "DESC": "A library to provide MIME feature for GNU Emacs.",
+  "CSIZE": "107498",
+  "ISIZE": "521295",
+  "MD5SUM": "304b90137f3eccc426e242fb12833499",
+  "SHA256SUM": "17f35f5dbc8901df7a64840df6bf502033c37a293e9c9d63598da96696f2d68b",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl8EuCgACgkQeGxj8zDXy5LlQxAAo/a4+qSjyli6BBJKr/Q4/g4UWxES67XqvvN7TiJSpD0nYuKFbbr51fJYISrkO2jJx54JF54sbmeYwE6XO/SHNROVOTOJWsDVaRFeQaWfu+1n76k8piLpDPFSIvieRQrc1Idh9CQe5fnwnBWX07OR6Ag7IE1BWmyhdrFaopL1z/gxGLlRByMfETdwMIe2BZMV9QjhsT17j02DX261aaQgL2y6JakQ3L4Qud/AMg17bGhAxMTJnQ1cF9OynvsDEhFR6FXb/KDqrANH/7S2X9zX7hZRaeU4T8isOgcupYf74EkLk7LodyZLN0SJlJ4tSYgkVdhJJmDRBfmiT9GHIMNwEIc2+avYEkCt82oOjZMipCY+kbP6thve7eCaV6x3CrolzTJj+4hLFiyION7xO05OMUefwqGpKU7yM7sxVY9Ummih6+VF6tk2fk2em7yTObeB5h0FUgJPJJTdZu5uqYVl+Mlr68bCTTMqrv34um9VQRJFl1AcMYmEYE0e/2wSysokZnwLjn819O8YiiXs8dUFuV2y34eYIhnfiSjOPJGKDusFuScq5r5ey9Njj1FlG75guQfoQnvnLR+cGLv/rkNxsXYz0SI9ia9GNfmqJCSqwaTRJg7bZjNrRTiEyxOd4vTgXcH4iXu/z7cecRhXOdLXsv4ZxZL3SGtZof+73uocxyA=",
+  "URL": "https://github.com/wanderlust/semi",
+  "LICENSE": "GPL",
+  "ARCH": "any",
+  "BUILDDATE": "1594144778",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "emacs",
+    "emacs-apel>=10.7",
+    "flim>=1.6.0"
+  ]
+}

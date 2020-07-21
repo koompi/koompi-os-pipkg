@@ -1,0 +1,25 @@
+{
+  "FILENAME": "linux-lts-5.4.50-1-x86_64.pkg.tar.zst",
+  "NAME": "linux-lts",
+  "BASE": "linux-lts",
+  "VERSION": "5.4.50-1",
+  "DESC": "The LTS Linux kernel and modules",
+  "CSIZE": "71649614",
+  "ISIZE": "77014166",
+  "MD5SUM": "5d8194963870b252072f7b955cb30adc",
+  "SHA256SUM": "155e32c1adbef7d4da6f56036bb1ea2df0073a12af89c95f43b06cab734a5067",
+  "PGPSIG": "iIsEABYIADMWIQQGaHodnU+rCLUP2Ss7lKgOUKR3xwUCXvzLYxUcaGVmdGlnQGFyY2hsaW51eC5vcmcACgkQO5SoDlCkd8dJTwD/R1fawSNnZQ1ZTEKO2MIU44BZCZXM8QkE8IeT5LfCF5gA/1P55PpS8aVRyhDRCVkeEVJFW8+s+Q2YVom1KqeNOIAE",
+  "URL": "https://www.kernel.org/",
+  "LICENSE": "GPL2",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1593615183",
+  "PACKAGER": "Jan Alexander Steffens (heftig) <heftig@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "coreutils",
+    "kmod",
+    "initramfs"
+  ]
+}

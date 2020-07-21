@@ -1,0 +1,30 @@
+{
+  "FILENAME": "xournalpp-1.0.18-1-x86_64.pkg.tar.zst",
+  "NAME": "xournalpp",
+  "BASE": "xournalpp",
+  "VERSION": "1.0.18-1",
+  "DESC": "Handwriting notetaking software with PDF annotation support",
+  "CSIZE": "1104833",
+  "ISIZE": "4386202",
+  "MD5SUM": "b079fc378695f647817999ec9ad57797",
+  "SHA256SUM": "031c22a82d79516f531d9f226537f4eeb9d6c027e0f3f10a9eb8d009a5416f2a",
+  "PGPSIG": "iHUEABYIAB0WIQQaYNxEJF0G/vkGI9bu7uLu7i7u7gUCXpgF3AAKCRDu7uLu7i7u7s3oAQDLgQdEVmW5W37N+6gmy8nHQOgl+TL6wSSIE7tnpLse9wEAqF/3o06wxYbIWLFrvUNc8fRWl5GyerW4E6YbXU603gk=",
+  "URL": "https://github.com/xournalpp/xournalpp",
+  "LICENSE": "GPL2",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1587020895",
+  "PACKAGER": "Gaetan Bisson <bisson@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "gtk3",
+    "poppler-glib",
+    "libxml2",
+    "portaudio",
+    "libsndfile",
+    "lua",
+    "libzip",
+    "texlive-bin"
+  ]
+}

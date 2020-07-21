@@ -1,0 +1,24 @@
+{
+  "FILENAME": "python-cmarkgfm-0.4.2-8-x86_64.pkg.tar.zst",
+  "NAME": "python-cmarkgfm",
+  "BASE": "python-cmarkgfm",
+  "VERSION": "0.4.2-8",
+  "DESC": "Minimal bindings to GitHub's fork of cmark",
+  "CSIZE": "18000",
+  "ISIZE": "60703",
+  "MD5SUM": "95854282713aea3a1fc39041401b51cb",
+  "SHA256SUM": "8c56032aaddf07de3a9b37e619b89ffe84abe39efca95d4e139a4339f2a25e66",
+  "PGPSIG": "iQEzBAABCAAdFiEE5JnHn1PJalTlcv7hwGCGM3xQdz4FAl669/UACgkQwGCGM3xQdz623AgAmS4vpRXef4iTcIIONnBZ+DQoEdnpIPrRP2N8krTlr9G13q5eyw5Riw6yzumPvS60wKAG4nho6gQ1q6tED8o7ZHKJGVoQmoDTeUe/bQBt3613R+gU2bpIhX6hOFsWzb6bdzLZhqwlGEoZWglkUjN3cQX46Cm2LMV26TyIahrU/OV2FtmZF9lfkTW1B37X8Goqo3iOhe6+FtmpZRAJSk2o3FPl4TZZ5+gpU2o7cIqoMK4NXFJn2JQOhq3WtiinURIF8n8ib/aN6xMO2SmSDn54OHuqs4sYtT/GxVbE6OoieltaxDG7czAnX08EDkpRBkQouOQb6b/oUO23F1PDkh4vwQ==",
+  "URL": "https://github.com/theacodes/cmarkgfm",
+  "LICENSE": "MIT",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1589311309",
+  "PACKAGER": "Jelle van der Waa <jelle@vdwaa.nl>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "cmark-gfm",
+    "python-cffi"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "FILENAME": "ruby-mini_portile2-2.5.0-1-any.pkg.tar.zst",
+  "NAME": "ruby-mini_portile2",
+  "BASE": "ruby-mini_portile2",
+  "VERSION": "2.5.0-1",
+  "DESC": "Simple autoconf builder for developers",
+  "CSIZE": "1351526",
+  "ISIZE": "1422029",
+  "MD5SUM": "1c198e12550d61c2fc0a08db87f27921",
+  "SHA256SUM": "2d3b84d0c83e4c6fa825f09b35d1325a3a06257b22e7369a36fdb52cf169e041",
+  "PGPSIG": "iQIzBAABCAAdFiEEjhmSFnRl21+wRVV8sChU7XU+Dx8FAl5W/jYACgkQsChU7XU+Dx9c1g/9EPPwFmQPpTy3XJwcR3MWW7XtyDqwcJwFGLyR+ZwwAe41/kG6oimPU/Mx8k/xdmG3FaWJ4bUIBCw+7366IfNVH3GdUwEK2SBrJ7JZLCxZR/8W8//5SSdEB68JOcWmo1MP2rrNbwwWIE2EZN1UnzPQRq9LkKvwRhHQlNkylgLb6aTHlyY+S64I+NcNijEabCHMwpk/XqT1QOzvCIWFH1aw1CviG5+od9mcGwK4i2aHsGTKvDDv23sL1/tSh0WHWSZT7HuBG8V1aBBbThQSabaol0KbO1ciTNOZ8TOzJDa5bzlsGNUsboC/4EQnVvP+p+OwkDnPi4Utc2yM6nwlG69ohFsH6zGSJBFprobRRozJeNft00UrsKoe6KZWM4TkBB4BIZVWHlfg5jTfOKTLY9J+kDaHRxPvuvwpqLJWOFS5XcLmyFrBI8W6voJY4Ja1w6pa02HSgVYEYHat5uqxH+hv4HX+GM2hxkPAQlDZzYuUz0Hvs6Gn0F5OQhiuiklU1gIg0LDwCc79+CdHUjO2n6q5ipLdDHizpYpPdcVl8y3JLCPLk8f7Y6SHthTXZsAAX2UsYElDW3vDT7qSadwu2DAs55PYLL/EcA7om/xYSiShVwb0nlqpe9NIyPbaBJ82hVWLAMb1huVOquxwK8FIorKkD+dT6f6wNXv+mVoCZYApuU8=",
+  "URL": "https://github.com/flavorjones/mini_portile",
+  "LICENSE": "MIT",
+  "ARCH": "any",
+  "BUILDDATE": "1582759449",
+  "PACKAGER": "Anatol Pomozov <anatol.pomozov@gmail.com>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "ruby"
+  ]
+}

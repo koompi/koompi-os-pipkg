@@ -1,0 +1,23 @@
+{
+  "FILENAME": "python-swagger-ui-bundle-0.0.6-1-any.pkg.tar.zst",
+  "NAME": "python-swagger-ui-bundle",
+  "BASE": "python-swagger-ui-bundle",
+  "VERSION": "0.0.6-1",
+  "DESC": "Bundled swagger-ui",
+  "CSIZE": "2216519",
+  "ISIZE": "13145478",
+  "MD5SUM": "d8cc3ce041485d9d53fd29ae9f3c152c",
+  "SHA256SUM": "da5631f5df297d2b129e407463616e1429faaa70c097c34b6a28e1e28dc79fe7",
+  "PGPSIG": "iQIzBAABCAAdFiEE0jW0leqs33gyftiw+JPGdIFqqV0FAl6QmF8ACgkQ+JPGdIFqqV3RDg/+M39B4IEIHuHs/7e9KFo/pvOfCV+CxRKkvsURafz+oqZLY5aPLuMrIyDIGB8tSjHExcCRK89gFuc16S4+0xpIYmpyXRCcTbfMAaRTgMLl5Y0N0mEDIpai052eZLVHMueSWKYpdMCZR9aYt3Gl86B1rJPa0W/EtDsbfqJ34ee15bzGWFwNXfjRUqk9LuPY5fWrPkitRyFKNvGhIgyEWfBa63uN/S3iR6cvq9iINLzf2pBZpXSvWIsCaf3YD0L4jx4peWRKricuTYEYnXtmNPmMcdx1bPwjvZk51GhfJzKAmNzHJLu1QiGNqROaOmMV+6G+Rs+6Y48AnQQWJze+KJBA4vtS8V5TwgsiWQ16nZRMRVQ3vpAPQaXVqi/8BMxz924mBMt+q8n9UHxaYYMV3PfUR89GZlVgQ7ZWjLyyaUXp276EwhS8OjVYq0kTYFRfcAMtfvB4SJdu3HlXxNA8XyflfteBsEFczs0PqHLo/4VLQbuE+kmH0iaprD2ysaJeqqRIffJa0iffNhiH5ZcnDFfmG57e+Kml7faC9OtnH5B9Pu2EM2jvh40ofDpXhF5K1gIKEq3Aab8qCXtlB465xDLblmha7SqtTfMXLw8E/pCCP0fiTqMbJBwW7jtX3n3tDlkXA7f0zA0BJaqeTCPiIV2yk8emRS+05mjU77+iOunGIxc=",
+  "URL": "https://github.com/dtkav/swagger_ui_bundle",
+  "LICENSE": "Apache",
+  "ARCH": "any",
+  "BUILDDATE": "1586534431",
+  "PACKAGER": "Filipe Laíns <lains@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "python-jinja"
+  ]
+}

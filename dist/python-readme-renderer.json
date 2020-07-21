@@ -1,0 +1,26 @@
+{
+  "FILENAME": "python-readme-renderer-26.0-1-any.pkg.tar.zst",
+  "NAME": "python-readme-renderer",
+  "BASE": "python-readme-renderer",
+  "VERSION": "26.0-1",
+  "DESC": "Safely render long_description/README files in Warehouse",
+  "CSIZE": "17012",
+  "ISIZE": "46803",
+  "MD5SUM": "81ea4ec118a52b27272603e1e8284bbe",
+  "SHA256SUM": "60d9c2020be792d4c86489b5e48469b07d746446c8cda4a18c15d8a9ee086969",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl6hSW8ACgkQeGxj8zDXy5IpKA/+KHsO+RtCst7StNppBSQFUMQG2A4dOZVRU2Z94awcK5EfeRLPx8d+zyJqJ7Xn3W2uU1gckz3BeI+ZuRkEe+vr4qI7BIhQpGOXHporL1QoFMSN6Po3HCtOpcIosVDDhuEQ9EvL/RnXaEfVbqOrSZ3WH9LVKoXtANmF8mjeoc5+Xym3ZN1ub04tBQobL5vVslcXHMwOFjOT7fHtjintgoeyn7N9Uu2xdsle1fJMODaFQzFV+YG3/xT3trZvLuNvg1RfieoOmcQCez6KQvEpOQrZpN6AcqWUG7tVnBRALNpz0O4kA/0HaRpkEV+ZYJcuVuARNFpkPRzGNPyeRMxUgdT2FV2VSVVZ9Dndc9DHnbDcL8N/+c+ftrkGOYY/gpb7x2e8U4lzVjxwLjjCFMRQvxcfvznEwpviJJptiio12MNZ0tHcCRt6nHxNEdfWIjD0HO0uKBgVGKo9gyjoNJwNZXXfpnQa7aYRKmYnYW6d5RG37e8T656IcUCnDonEEwCgvjZ60gDBWc2v0YgCm3X3csMKIhc402hcvhAj3aJ/LLC6ADkxB2ybjBW3UxHNp71Z4oFJD5AtrugTKIh5QPeEkMvdrd5sGlRq2Ccdl2DUusgzYKZQ2a7MzinaF940pGCPAb+kBVjVKL7tgkjA0OInBM3F8BmwhDxq/wbw3hJ0Jsf1ar4=",
+  "URL": "https://github.com/pypa/readme_renderer",
+  "LICENSE": "Apache",
+  "ARCH": "any",
+  "BUILDDATE": "1587628251",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "python-bleach",
+    "python-docutils",
+    "python-pygments",
+    "python-six"
+  ]
+}

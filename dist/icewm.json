@@ -1,0 +1,32 @@
+{
+  "FILENAME": "icewm-1.7.0-1-x86_64.pkg.tar.zst",
+  "NAME": "icewm",
+  "BASE": "icewm",
+  "VERSION": "1.7.0-1",
+  "DESC": "A Window Manager designed for speed, usability, and consistency",
+  "CSIZE": "1661709",
+  "ISIZE": "5398530",
+  "MD5SUM": "d7ff8650672667381bffa5f729fd9784",
+  "SHA256SUM": "1cc584f595c183fce187a4869bdf82d8bd5d0901074d39878da278a649c4dc4d",
+  "PGPSIG": "iQEzBAABCAAdFiEEFRnVq6Zb9vwrc8dWek52CV2KUuQFAl8MF0UACgkQek52CV2KUuS4AQf+J+kECgdYMuVpbdF8k/wDaIVzYVDZ7jweya/jmAL+vZdJkNcF7sS/471dfIAK+zu5Kcci9qv3ntmZpxk+vd/8eD3lts4dL6YWDHOkK1/L90k1at1q0JEolGe0Z5pWrLeQBHEvgL4gJG34KBWQqEe1OXyruBMky2Ls+Sy6zwirnMvxJ6eVoFS2kD7GvxrGY+xFQmpI5ib/qlIDpZHr4gnZmL+laWCbn8NRj1oQLwyjK6imea8VabIeohx5rNi2H2DiEc30e76L+MDAtBXXrKbcmYNM2TUXHSFZq76si6AP0wotAXfArYHKRs8bTYUTRgsU5sx86LzN5DI8a8O1WUfy6A==",
+  "URL": "https://ice-wm.org/",
+  "LICENSE": "LGPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1594627832",
+  "PACKAGER": "Antonio Rojas <arojas@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "libxrandr",
+    "libxinerama",
+    "libsndfile",
+    "libao",
+    "fribidi",
+    "libxft",
+    "libxcomposite",
+    "libxdamage",
+    "gdk-pixbuf2",
+    "libxpm"
+  ]
+}

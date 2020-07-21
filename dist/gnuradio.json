@@ -1,0 +1,41 @@
+{
+  "FILENAME": "gnuradio-3.8.1.0-1-x86_64.pkg.tar.zst",
+  "NAME": "gnuradio",
+  "BASE": "gnuradio",
+  "VERSION": "3.8.1.0-1",
+  "DESC": "General purpose DSP and SDR toolkit. With drivers for usrp and fcd.",
+  "CSIZE": "14895128",
+  "ISIZE": "133210174",
+  "MD5SUM": "53f6375f5c8e04ae944040c20b398d5a",
+  "SHA256SUM": "e2235a7e972d049ae630443a20538449c8afa7c4530349fae88aa455948ba358",
+  "PGPSIG": "iQEzBAABCAAdFiEESMOx8w3dD+Z+UW0WOW4+JbqxQsEFAl7Qj4MACgkQOW4+JbqxQsE59gf/Q3xVJ6Auf8w/f0Juz48y5exu7w+PGlAWvokImbkQr6YyHTRCvd7NProjoa7zN5RkNiZrKCcwjDkuixq49rhMrwK0Nvi+1CzFsbc89RajY9FAsk7PUW59IHJ9t/pP6oR6wsVVn7EQItTVqxkpAA+ZjHnNMos5heC8HCzaOR7wm96JVdAQvU+bVrXKnmMkXmqLzNHYRCmfIMYtmu/4/Fy5O19HAZzBnmA2ZdSC6v5p4IAptg16HgEbsJB0pB5K7dJOXdbL/x4Qrly17AoD3jKdfIpXkpx3QfnspZc1vb/VcxXxj0IG38btYsjqr/Z2vQEjCtFZUmlNIE80ga6/pmR0EQ==",
+  "URL": "https://gnuradio.org",
+  "LICENSE": "GPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1590728372",
+  "PACKAGER": "Kyle Keen <keenerd@gmail.com>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "fftw",
+    "python-numpy",
+    "gsl",
+    "blas",
+    "boost-libs>=1.53",
+    "libusbx",
+    "portaudio",
+    "libuhd",
+    "zeromq",
+    "libvolk",
+    "log4cpp",
+    "python-yaml",
+    "gmp",
+    "gsm",
+    "codec2",
+    "python-mako",
+    "python-click-plugins",
+    "pango",
+    "gtk3"
+  ]
+}

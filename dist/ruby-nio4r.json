@@ -1,0 +1,23 @@
+{
+  "FILENAME": "ruby-nio4r-2.5.2-2-x86_64.pkg.tar.xz",
+  "NAME": "ruby-nio4r",
+  "BASE": "ruby-nio4r",
+  "VERSION": "2.5.2-2",
+  "DESC": "Abstract, cross-platform stateful I/O selector API for Ruby",
+  "CSIZE": "84324",
+  "ISIZE": "368956",
+  "MD5SUM": "492084af243b692832f71812c05e48d8",
+  "SHA256SUM": "e6d9302630f44bd381eb2ce2bb6f36add1c165c947c212522c899361429bb2b7",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl4D/YoACgkQeGxj8zDXy5Ij2w//dbRL+pCBswxIeLxo4o7CjxHD3uEPJkqZbVmNRgro6ErION7caf3eESi6ZlYYhVaTBsZkb8Y7VQvOaLi6woI98DuvqP+FZIhSSnPvluq0CGDZRp0Ds53/LUGT/BDYqyCXxaa2d5GSj0df7NCATmoCQllVA8Yb+q76kjVcWmtuySBNb4gQYJQFBlYADLOPbXYlIO+cncyAYPcnlbVJjWJvuLMiv1GJV1tG9HEqhsVNnngE1IC1sPkRaCeH5WxRETJG3L40SL8Ki0ERGs+108yfRfSGF4jPNJ3hb/O9iATgh8PqGoklt84M30WH6HMC+JRrgDaO3Gsb3CRzGOGPB2ISUh9Hqybi6KGfsXvryy5IIWZy4PK6GSMF4a0GgWN5Il9bN7YKwkHAZcd9o7yeT0tJLchNQE+AjTcPi5+xiB3wcK1Y1MNPrMtjRza2Of3MFpjFiQxFkcvFhrfatnguHiTBJ6uAfQlLpWeMeUSWtTSmRb8ck2ay3qjZXukfMXN/OuVX0Iczjs1vlD0Gvha44a9X9X2KPMMkp5iNRVqH07QO2zhgt1suWZo6F9FKPEc8FjMQzTAAB70BAmyVZ5IM18jE/yV48YwwIu+eFDq2gRzUQodvn+yezbPJBqAY2kAV7auKyk6eo2TSLq+wj/UR/irR7wM5stClE/idJK22tIaQlJc=",
+  "URL": "https://github.com/celluloid/nio4r",
+  "LICENSE": "MIT",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1577319784",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "ruby"
+  ]
+}

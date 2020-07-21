@@ -1,0 +1,23 @@
+{
+  "FILENAME": "sugar-activity-imageviewer-1:65-1-any.pkg.tar.zst",
+  "NAME": "sugar-activity-imageviewer",
+  "BASE": "sugar-activity-imageviewer",
+  "VERSION": "1:65-1",
+  "DESC": "Image viewer for Sugar",
+  "CSIZE": "87877",
+  "ISIZE": "393862",
+  "MD5SUM": "5bcb324aba5dfd7422a4b17db2d6a583",
+  "SHA256SUM": "72eaaca6751a03ca8ab4e9157bd169b271b77227197d7dd76e46a2ae16f86600",
+  "PGPSIG": "iQEzBAABCAAdFiEEzgvecadZqH8j8PfYth284QkBwWMFAl5mpJEACgkQth284QkBwWMNWQgAu+QngGaYmALGCh1G322WzFHUVrGreGw1isyBfA3lV4HKtg4MWVJBbYNTs/keFeAXsGSW9WujhMAUVuW2Y+auj/LFNTNdAY4qNPdms/CxfETvuUHqBPIEyrqRCKoIbsxJ65BCHGrSwOp+u+irt4N9BfAOx68pMRCbghDMjrA3lBoDzVVtavup0eP0JU2Y8w+9hJkAEsJh/fkzEhkhQg6IzHskF+LAPIzRjU1AJ+eeuwCs21dzQJ4u49+dqtvMUT+5I1LMniE5S06NsxAPPw327K76Vuk/e92DdHRAwyW87ZT7YP5lP32XIbPcy8dz1K3KgwBRRvGT8w1WvxPTvzrAMQ==",
+  "URL": "https://wiki.sugarlabs.org/go/Activities/Image_Viewer",
+  "LICENSE": "GPL",
+  "ARCH": "any",
+  "BUILDDATE": "1583785057",
+  "PACKAGER": "Balló György <ballogyor+arch@gmail.com>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "sugar-toolkit-gtk3"
+  ]
+}

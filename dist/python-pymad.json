@@ -1,0 +1,24 @@
+{
+  "FILENAME": "python-pymad-0.10-3-x86_64.pkg.tar.xz",
+  "NAME": "python-pymad",
+  "BASE": "python-pymad",
+  "VERSION": "0.10-3",
+  "DESC": "Python interface to libmad",
+  "CSIZE": "7492",
+  "ISIZE": "19219",
+  "MD5SUM": "9037b3f4f2db824dec001b8ea29e2f12",
+  "SHA256SUM": "37defda6961ea1ed7c79ba8942e785f0021b2422210475e5a658d38ae9eb41d7",
+  "PGPSIG": "iQEzBAABCAAdFiEEhs/8qRjPOvRxR1iAUeixSKmZnDQFAl2/3zcACgkQUeixSKmZnDTXkwgAq1XaiOfLlA9EDscUuctzpxlP3SLaMVsXUdqwJWyEa7IYvHGA5rq5BkCeblkbmmJ/tvt4ixYhGdKbNtDBzumSR99JJe/99mtkpdYjfuG6ZD3Y04Fo7CYiNThIuVDAJiAcEZbabnp/Hc0mst8hNua95TZT1vyd9KkWMPgoXD1Xle9yrGCDag/EPU1IK8+ur33ZXK7e++eto/aEIjxx0JCEYJha8mzmid18NQRLPBLWKqSUnuuExTgzeMyI334amHir3+kxx1GLPCew7MqQp0rBC4BzVrmjzs3amH5TGKVuoAraU80tsyzRVq1S36tVM0i+7fmACfkXyp+HeCKqDvcu2w==",
+  "URL": "https://github.com/jaqx0r/pymad",
+  "LICENSE": "LGPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1572855581",
+  "PACKAGER": "Evangelos Foutras <evangelos@foutrelis.com>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "libmad",
+    "python"
+  ]
+}

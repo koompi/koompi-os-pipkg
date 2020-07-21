@@ -1,0 +1,23 @@
+{
+  "FILENAME": "xdiskusage-1.52-1-x86_64.pkg.tar.zst",
+  "NAME": "xdiskusage",
+  "BASE": "xdiskusage",
+  "VERSION": "1.52-1",
+  "DESC": "A user-friendly program to show you what is using up all your disk space",
+  "CSIZE": "24867",
+  "ISIZE": "55921",
+  "MD5SUM": "ff3eb57d1e8d0aba89eb90d1f0fbda9b",
+  "SHA256SUM": "f2c5dd1e86cb81d193a61547a0816ca7773116c7c9ec85663a5be2b46015ab31",
+  "PGPSIG": "iQEzBAABCAAdFiEESMOx8w3dD+Z+UW0WOW4+JbqxQsEFAl7ujrkACgkQOW4+JbqxQsFEAwgAtV1a2PHPWdjuc+rwubZHK4Sq46kBLqe1gSFuoBytyV3bkhvRWp5K8kbHr1UXdmopkvlLpzo/qFMU5Aoa0YhdS3tv8tQi4llbUywimsfKZR46wk0CJJtIQfGvxFTM0ThxziitdXzxqcDIrLQKbBXurba1mkWgiNNgLHs1HjrjqL7nAIM86eZmtLyjPLdc+AoyX4Xm5h+Xl6Fe+OpHyhDDxjAbSfxyrBRxm+WyZYbcZuHnCmJuqm4iZWg67X5FbHYswbi/LNlH34k8kLLR9iFt2bRs1FkwxcoNKvhZNwuHOyXhnu4A42WQH2+anvyImLf/VFyiXrbU0bi21frJ0SbIdA==",
+  "URL": "http://xdiskusage.sourceforge.net",
+  "LICENSE": "GPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1592694445",
+  "PACKAGER": "Kyle Keen <keenerd@gmail.com>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "fltk"
+  ]
+}

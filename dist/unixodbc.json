@@ -1,0 +1,24 @@
+{
+  "FILENAME": "unixodbc-2.3.7-3-x86_64.pkg.tar.zst",
+  "NAME": "unixodbc",
+  "BASE": "unixodbc",
+  "VERSION": "2.3.7-3",
+  "DESC": "ODBC is an open specification for providing application developers with a predictable API with which to access Data Sources",
+  "CSIZE": "246497",
+  "ISIZE": "915928",
+  "MD5SUM": "e351793d0f11a2d6133b1321972c9f77",
+  "SHA256SUM": "8f82061ae0f0ed61cb835ff777449e8d35e12d2a94da10dc2a5f45516405fccf",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl6/szMACgkQeGxj8zDXy5LpJg//Qc4hxOdH+K7wIPghG26lbxJfgzntsgdHKa5XtL3vKvKec2bp4EOfO+re4ztVIfWP2wgd6yBeCNMRFyQDPwjn1jPxVR4zD8sRWIHtOKhqBFsm9n7BbMNJTAm4irTAY67rehcyEWEf+1G3zlmNBZsYO5oezWZm2Dt97YjIdjOOU1fIWszuZ6VlB90NNSwcYpKD9yKxlBTqBnxhlTz0u8XuNBXIJfUKJ3HPKOfPkgvXLMU/1GKcCzO1bbGS+sFSwfWw8GpNRH1EYvLrmUpqdMm3ZvN50ker5fmq45Zn9UEtYEIiekXEjqLBXKTXI94L9BLxxDQNds6Mc34I2p5W3eCiVVTp6W0qmo3Qk8q/qacuwajpQvqKRprp1zg+Qty578CJaD0FXeNHD6WpkK9ilvOiQCWmMYUjwbchdHLeHUGDBJD3F88kn/JipbMmsKz5EKC1jDh8fzJfxM6q9Y8iDJBWCAlXOMoGKahIpXm0U3zFj81IGFDKEgJAtVRDJToTSm10zE2vxPZFWhkK1fVmyGZypZsco5Hz2O9NQY5ZiygHi/WWouOUfd6Bj8eHyz/oSWVO7wEko2MOTwkI3Tqipp08fbivcsrb/unWGWsTmWRsmKwQWboE12lnZuHSXNWQ0oR/+Zbup2vA7eCtbpF0PYXA23J+iF93YhGXpZQ3cIslQbM=",
+  "URL": "http://www.unixodbc.org/",
+  "LICENSE": "GPL2",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1589621512",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "readline",
+    "libltdl"
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "FILENAME": "minetest-5.2.0-1-x86_64.pkg.tar.zst",
+  "NAME": "minetest",
+  "BASE": "minetest",
+  "VERSION": "5.2.0-1",
+  "DESC": "Multiplayer infinite-world block sandbox game",
+  "CSIZE": "3333282",
+  "ISIZE": "8979240",
+  "MD5SUM": "9312663b6b599c8c7d83107125ab6b07",
+  "SHA256SUM": "cdd9350f396b7c7f2ec8cceb90425f94a4f8f9ef543c621820f409f58af9b064",
+  "PGPSIG": "iQEzBAABCAAdFiEEU1+MAzlFDwVKTSgnBglqatHO3awFAl6apaoACgkQBglqatHO3axTvgf/SdmxuRk6aL+MdHxZgt0wsQGkyQhocJsGzoY6HOg4dMZQEq6hV9dYgIQFlBGfs7voKHwmGLCV8UgZXQ82dWljYgbisvnuMlUo2wQljN/cxhzyNubbZXw38zsS/PqYmBhvMwJCPttZpe+vJsiyQ7CuKj5NaqON7fMRTX8DpxiFm5ZnqZ5OIrJtEH5I7nJfWc6sbWyCqVZeyirlHmaiNRG8YCie/ZD/dJGLQ7ceeueyLdOHYoQPbI9TN/kcd1IHkXHyHtyxKstktz5OZEz09/7UIb1LdhhocjuzMEs4SxVTuKnp7jfKrrSHEc/+n/XuZH7+9b/cL2fq5z4tRRH3qetuQw==",
+  "URL": "https://www.minetest.net/",
+  "LICENSE": "GPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1587192996",
+  "PACKAGER": "Laurent Carlier <lordheavym@gmail.com>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "minetest-common",
+    "irrlicht",
+    "curl",
+    "libvorbis",
+    "sqlite",
+    "openal",
+    "hicolor-icon-theme",
+    "desktop-file-utils",
+    "xdg-utils",
+    "freetype2",
+    "luajit",
+    "postgresql-libs",
+    "spatialindex"
+  ]
+}

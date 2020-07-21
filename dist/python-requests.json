@@ -1,0 +1,25 @@
+{
+  "FILENAME": "python-requests-2.24.0-1-any.pkg.tar.zst",
+  "NAME": "python-requests",
+  "BASE": "python-requests",
+  "VERSION": "2.24.0-1",
+  "DESC": "Python HTTP for Humans",
+  "CSIZE": "93672",
+  "ISIZE": "464694",
+  "MD5SUM": "1ddb3e21c1407a595a4a86e42e8a289a",
+  "SHA256SUM": "36af02bae2bea35d35515e1429adf902a4652c204b1a67da2de9ad60d5724959",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl7qTScACgkQeGxj8zDXy5KuRRAAr/zNwO/o56qfKqD25vpkLoO0ytUbKYSaOydotaGROCDpC9ssbToG1QvhJA2DYOXwQQQvlrUthZ1tD35fhk/EZw5CSa7i+YPn6/OOpZ4TMLJDmYU9fODMs+rg0fkFO2gcVjJGgMRKT6iniyaF5FMoO6EcnBVDclpSlwqZ9YUdQVngKBX+C+IgdDw6982oXZcyD1fQo8hIA8bjjYWLTnKmaA+si7wNpf2AI8wDPWlyS9G4fAA3x2BLZdq5ZYLYLHqV15Pt6SzxnTMMtRb2dZWeIx6XRbGTBdwR+QksvKFkyWtHWyTyTQq2y0cxOOOArywlbJYuEL4/NLRahzg3c9xMvPqWP02I08Ung+jYfXeQMKbRcCxqgi6Q7KNim2VAlIhgj3sQbiKTDp/ld0PzJ4cEwSGkLigDPFVB5rxlOWoy6Vbk2RsINP9/KuYn6b+5zbEI2PHZ+raQGvHGa6FBA33xGAY+hWBox5RZZe5d7j8Enm7WwDavzb0qkrSeVEVBXDn3JJiiyWOrgydo47vbhvURG0PDrZzmJ/Xyt6thIJdN/3hcQAiZMrYD4wdhRDkKN39gn3MOvpcdG1dsCfVQs7H6oxJoy/hhuoT9sElltSPdITHW5duraZnMKNAdcBaxj3ufdXnQpV8lP+xV6UnGsJKO7Qtg4vMmfO9HmuK9Eqx3adI=",
+  "URL": "http://python-requests.org",
+  "LICENSE": "Apache",
+  "ARCH": "any",
+  "BUILDDATE": "1592413379",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "python-urllib3",
+    "python-chardet",
+    "python-idna"
+  ]
+}

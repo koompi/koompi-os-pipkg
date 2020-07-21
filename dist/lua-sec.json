@@ -1,0 +1,24 @@
+{
+  "FILENAME": "lua-sec-2:0.9-1-x86_64.pkg.tar.zst",
+  "NAME": "lua-sec",
+  "BASE": "luasec",
+  "VERSION": "2:0.9-1",
+  "DESC": "Lua bindings for OpenSSL library to provide TLS/SSL communication.",
+  "CSIZE": "30208",
+  "ISIZE": "86755",
+  "MD5SUM": "abfcd2d96df82c7b64a397bc8f057697",
+  "SHA256SUM": "d71744ea94ee2293d6c5a79bcc24fe955e658f2b8a5b24c5fe509d5d71cb1a27",
+  "PGPSIG": "iQIzBAABCgAdFiEEHiYzy/cw8s5ux6twRbQpqPnZ0ioFAl8B1tQACgkQRbQpqPnZ0ipbag//UF/bde0i+APh2+Wx4p50T3pbX/9+1vC37KQBF69fycV+g9ZpiS6qMISYwhGlvnGwPZiVsaYa0bMxVBbIqp3sQaoPvxrRUqH/kj0h5r2EGajmYQPp3Fze/mHwaQDMktdErA3rWp071CJtyxzaGj62OrHMNr6YrbLsm0nE1ddQ0VWCyXdxRLQrBZyhv0vcCT/H9vGj/PKMgE3lGjNXuwp97oFo+i9tTeZXm0vQ8m2I4Eo5vX3FnlGlrbDZO7ITAy/BKBu4c0a/Y4DYPzg5a2+/Y/cAZoeBYpIOoVvNfjbm3eNA98vNaBTGyjSM0NFz6z+NEi+nxVAtxPYCrMzdI6Z1e8ek1DF2XSQBKzGVs0ZsNWTmmB7DhnRBiQxjaJxGKp6BvstiYLxasBlFyhhZeqE/+KB7DYvOk8OS6j0hLMRie1K389r95N1WxA0MVnQe/c+1hSRQz4N0WL7ibIOf0exdPhoxt4aZDAKB/VCcpnn0MJVbaL5JH97dX8LPLW5TURWFwvKyvXVZRm5O9PIPJJ3D4qvWO4Sw/CBxIo3sJcUvW1n53ij7Q0isEdwjB0zQvIdYCdrgliG3ku8BE8h6h1CmvE/rvMH9t5YuAfFzFai1CfSCj+5WuoJ7GWPTjlK2IpKmf3zwbmDU4+vG7z73q1nOY0a3cZvPOQMN9bSZYcORYcE=",
+  "URL": "https://github.com/brunoos/luasec/wiki",
+  "LICENSE": "MIT",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1593956026",
+  "PACKAGER": "Daurnimator <daurnimator@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "openssl",
+    "lua-socket"
+  ]
+}

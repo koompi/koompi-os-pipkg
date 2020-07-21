@@ -1,0 +1,23 @@
+{
+  "FILENAME": "jupyter-widgetsnbextension-1:3.5.1-1-any.pkg.tar.xz",
+  "NAME": "jupyter-widgetsnbextension",
+  "BASE": "jupyter-widgetsnbextension",
+  "VERSION": "1:3.5.1-1",
+  "DESC": "Interactive HTML widgets for Jupyter notebooks",
+  "CSIZE": "846572",
+  "ISIZE": "9222529",
+  "MD5SUM": "78ef960d58217d4fea522b9397501c85",
+  "SHA256SUM": "bcfc7a0006c41200ad2b9f4f8538de1b920f5ea69556b32c6c543bcd86e83cc8",
+  "PGPSIG": "iQEzBAABCAAdFiEESMOx8w3dD+Z+UW0WOW4+JbqxQsEFAl3kfoYACgkQOW4+JbqxQsHGtQf/aVH1lDd4R02828Z3w4SRYF1v9yPmA7s7LkDgueNzTZSq5g96N0m6KXqJyRyFx7+DSjXrBiIevG7UavMrK6G8lTOYRmhnbJ28qJk8tAbwSlrI9r93QK1xgS9vtBFiEGfQ85h7vfl/Hj2yTISyy//6NXyCVuKOuwoxvAXroaH7RTttvlWnitH82FDvHDGrw4bgasDXU3mpl8AHTjBtprC5yJUmQR498SfMiBMpV567pOsj+BW28scoZt87ut0sNrxRwtjv/eNbOrqSjzHbUikLfb9OWJzyeTlYYxgBTt0R50odQOGNrjsRsIAE0+y8m16kHbzYZwF6hP8OXTQyGK16/w==",
+  "URL": "https://pypi.python.org/pypi/widgetsnbextension",
+  "LICENSE": "BSD",
+  "ARCH": "any",
+  "BUILDDATE": "1575258229",
+  "PACKAGER": "Kyle Keen <keenerd@gmail.com>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "jupyter-notebook"
+  ]
+}

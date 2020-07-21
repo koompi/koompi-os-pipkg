@@ -1,0 +1,23 @@
+{
+  "FILENAME": "python-pyflakes-2.2.0-1-any.pkg.tar.zst",
+  "NAME": "python-pyflakes",
+  "BASE": "python-pyflakes",
+  "VERSION": "2.2.0-1",
+  "DESC": "A lint-like tool for Python to identify common errors quickly without executing code",
+  "CSIZE": "127409",
+  "ISIZE": "915250",
+  "MD5SUM": "c9e9a2e9db3442aa151476bf064c9b46",
+  "SHA256SUM": "069f93f5e5b2432cbf89788d841d5cf637541d558e8f8db89991ad14372cbe3c",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl6VLtsACgkQeGxj8zDXy5KNLBAAl2oPUDSvNkeBIKD2UTYi/bb/pXyqRnwWk6vHE5EgZuXX1Z76MD467rSMPxq0T/io6z8sSW/fADDXBrG7KeGxRRP4mHGKDwmsTkDLr0R/yD+k53Lm8zTst+SCpKyP07IpGGN33iafixvM0Pc0KMW80IQgzJnSA4wTaKtBeTdEwnRnnjxJmlsKh/IFMiOLs0BUHtwOLYtCwyZKi/Am3FsX1BIxmsgTvXL8/LVASs2+D2CvdcgtNiCp3s7RqPO8unNzrQxjq5/NbdhkTZtR+RS8iRmS46QfjdiAlE7+E1D3gdA3WKIiTJDDLvOoltGi417C3XC2SfVeyN6vh2YqMYodUouB5OoIiXQNw1xYmAIJg7HZGmG1MxmsbB1beZiIIfQ4q947ygHCplZTPOVx9S/9EbWQ414lhVarEq9LJezhV9PHXUcxFTHXusXlkYrLFjaouQV2xgwV6Mx1OJQ1GLRsch7qrN8ruIuDw410bqq2OVITbiOimjGK6IVZe3bz2pUCHHTAZUHqGTL1ZqdIg3CSNRA1vE6faLH+Ju1SdvCipZowRFM+5ziSQUU0U8wNNrHiEOa+mqSTRfBtcW/7AYfLjEeH2WQLQCXsjScmwO1nnpmyzQuhvFdEUryLI0NcV506239qWoqHuo0AAeq17C6tiJXakkEo4OsgEU5U+bqazlc=",
+  "URL": "https://pypi.python.org/pypi/pyflakes",
+  "LICENSE": "MIT",
+  "ARCH": "any",
+  "BUILDDATE": "1586834924",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "python-setuptools"
+  ]
+}

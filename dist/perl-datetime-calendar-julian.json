@@ -1,0 +1,23 @@
+{
+  "FILENAME": "perl-datetime-calendar-julian-0.04-6-any.pkg.tar.zst",
+  "NAME": "perl-datetime-calendar-julian",
+  "BASE": "perl-datetime-calendar-julian",
+  "VERSION": "0.04-6",
+  "DESC": "Perl module for Dates in the Julian calendar",
+  "CSIZE": "7675",
+  "ISIZE": "7075",
+  "MD5SUM": "a7b8242c1e43d0f2d414d1337c8d0377",
+  "SHA256SUM": "25d0207e78d1fda6769ae415df83772e01e3b7e62e5c67000c9657f88444366d",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl7vg5AACgkQeGxj8zDXy5Lnog//QM7tYExwKAb9lMjjx9QZKa0C6oW5TEzU9Z0DQ5ESCdK71CcUZlmBwtFvuRdE1tT3+fl4VSt9eSKiPcSYE+SmFgI/TqI+CdJ7rEMzQEmXcAPBoY/PDEnHaH1zVjpom7GFX5CnMfHxuV5fDTZU5nkjPrG4Jw0VXUUccwry1+Jqc+e9Xpu3MSUsdTP1l/IBjlyusvQqWr19niVciRagNu0HqMpwEzgHdXZA+3wlK52hzcGYtJLfFddCuk733BHxAE3HIGjlgakcTtWhXC/p9QD9gxs6g21SW7jY4K0Rmkt8NKw1Bzv0noqR1D7HNFQbCoeFv7A6r4K1DDbr0f6kSlbVT8WR70x42uHuV65cnKC6VPanGcEQzs37kfR1M+PZ+GCQ4XNUV4L3gsaVXgiGj1GCQ65FFxUXSotq9NGpCcLXjIoXMge+sM4SpChStxtaBQPqsamIY9sVwUd1J08njoLe23VLUgM6tmU/dP949LjQZZT3FAn1pwuZ8atYYakkDdKO7y0n6fjDdaPt3lIL7Kf59KLTPGUb/CAJaY1vGv5vdA6eOczkwHHEA+lZctLSXXxUstKHdzcr2JzyMHBaaHPQBhCsZmGFsw+OqPxRbHYyNSfeS4yh5VS9I2+2EDwe19IaEgZUN4zUme1+haW2HHCP0FvirgbFs/oSBhPEgccM60k=",
+  "URL": "https://metacpan.org/release/DateTime-Calendar-Julian",
+  "LICENSE": "PerlArtistic",
+  "ARCH": "any",
+  "BUILDDATE": "1592755055",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "perl-datetime"
+  ]
+}

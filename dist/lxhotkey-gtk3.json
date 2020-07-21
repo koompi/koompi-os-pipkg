@@ -1,0 +1,25 @@
+{
+  "FILENAME": "lxhotkey-gtk3-0.1.0-3-x86_64.pkg.tar.zst",
+  "NAME": "lxhotkey-gtk3",
+  "BASE": "lxhotkey",
+  "VERSION": "0.1.0-3",
+  "DESC": "Keyboard shortcuts configurator (part of LXDE) (GTK+ 3 version)",
+  "CSIZE": "60857",
+  "ISIZE": "224199",
+  "MD5SUM": "d5283ea8de31f6b4b2df5be96f183a77",
+  "SHA256SUM": "78be97fcbcce2db8280214ca2e1ee579dda57467b45b06ed029821c1089d1cfc",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl8EnhAACgkQeGxj8zDXy5Kz/BAAh1SPRpwLlZ802UjzCJhBQDcdviX/ovo5xur/3aB7G7XbpO7EIhL6xmteB93EKjSzBnS8a2sS/pjYoLs2ErghX+W2H2kHuvAAaG63pPWCF6FhLrQZMUFqv21e3v+MJNlIsZ/ny3vz67jAv2HTx1/g464djT6TPkbTtN9b8ejw9NfB1C6s47K0wjeF2iCNOf2zJnqw+UMYgmpVl0VSklI+Z+60kvZJ2K2LriwRihXMZ5LamVjuuUSKzRahugA1wrOqBCTdbeySWFpjjnfUaPAo5d3Mj4N24KgekqFfHrbMegJ1B0FNlj7j+ebNNoWUQaE2fOuWLOeJfbuBe6ZAxtDD/fV7wRSQKQJdLpWdAZYRMyUoej+f0yt2Cq8i2EWsvGh/aMwoxVhzbXqKi8SQNjiZRmrLDr4Un9YuO4nxd2e56hYakJSBNu6DTkR2ABvtuB23FqdkknnI1rI/kGNYiNnI+VwGjYMZTK5R/YvridONtM556eh3EefCQI4aX1LtN52G9tmZSQ5/ICWS+/9646bd8PqEPjNxJSBBxWOCPXLP/YBq4aSTXPpwOV68QERVUhG/6/iV0JNXWlsuQpc8cS7o/RuCIIx7CmEnsc7AJeQo2UGA92VShFi3uDpM+NhOZ+TFGvDgP2MwjIhvD77qhOYgFoVTmvHuhYS4YMQhllP+gVg=",
+  "URL": "https://lxde.org/",
+  "LICENSE": "GPL2",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1594137985",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "gtk3",
+    "libfm",
+    "libunistring"
+  ]
+}

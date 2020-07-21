@@ -1,0 +1,32 @@
+{
+  "FILENAME": "podman-2.0.2-1-x86_64.pkg.tar.zst",
+  "NAME": "podman",
+  "BASE": "podman",
+  "VERSION": "2.0.2-1",
+  "DESC": "Tool and library for running OCI-based containers in pods",
+  "CSIZE": "22960670",
+  "ISIZE": "93409312",
+  "MD5SUM": "979a8cdeccce79418a7414bdc781567a",
+  "SHA256SUM": "fd4da83e3c6b4d7338fadfa9e87c164c7510bec9b22e49bbd51692e82ab187ba",
+  "PGPSIG": "iQIzBAABCgAdFiEEktnGzemaICTWkKdu50JoO6CMsv8FAl8Ld7oACgkQ50JoO6CMsv+t6g//XCXMwKWJrbfowpteB7Duzz+kw4zshVAP6+dj/+/FC77W2RPtA9e5LKH8iBIMeh3em0Bf2kwdfAobdA7HD1ZE59BPtUW/omrdftFStzV9GElHtnan9mYdO2OzKirLzQfNh3U11Y/NyBoxi5Ym/JJt+OlFRa16dIkxJe8AQXUBWzlC5QaUd8ptpwp/7XlrRO61YkxRCBzyD+ucaGb/R6vTQaH0W52YilR/BP7RZWq0vQ5kRocv/zRzO+jzWSVWRe4qgrYPFl0Hxp/IZcYDC1ev4RUpYZDNIfjZ/woCiSaL+4U/LSV1vc8ILbfgA5mV/u7T+vq0AtId7jEMpidaQSzKKEfGzZcnzYTqWBlAPrrqJv2SNqbc90DYi7nPVT89j4GtrpE1Y8grAvCF897dNHTLwteNT1PDij7MeA86dXHE1JH30/jMAFPM0JQixAIWtJ+sVTz5r2PDqTTtMasj6NiXjWxRRIDdWqIYcYKvp8vCOGfKKr5fGmI/8Xkp0ZgroxBkPJQ9kVh5sReGZw50WLzyQWrxBGvLfBjmVl6wqTInajyc05Ay8OylsDH18pJ9Fraaa/V61eOeBEmtKPpNPiqnApKdDUHUsXABFrNne7oqwaKM5viFZThm5TwTvgmjwiRvQal1lddEgLVKRUp7xHUGyByszRvUqvrkIPo2t6dHp4Y=",
+  "URL": "https://github.com/containers/libpod",
+  "LICENSE": "Apache",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1594586818",
+  "PACKAGER": "Morten Linderud <foxboron@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "cni-plugins",
+    "conmon",
+    "device-mapper",
+    "iptables",
+    "libseccomp",
+    "runc",
+    "slirp4netns",
+    "libsystemd",
+    "fuse-overlayfs",
+    "skopeo"
+  ]
+}

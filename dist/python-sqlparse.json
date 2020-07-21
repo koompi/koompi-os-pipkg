@@ -1,0 +1,23 @@
+{
+  "FILENAME": "python-sqlparse-0.3.1-1-any.pkg.tar.zst",
+  "NAME": "python-sqlparse",
+  "BASE": "python-sqlparse",
+  "VERSION": "0.3.1-1",
+  "DESC": "Non-validating SQL parser for Python",
+  "CSIZE": "65295",
+  "ISIZE": "227478",
+  "MD5SUM": "7721448bf0f02fc675c0612449d2dad1",
+  "SHA256SUM": "527a2f72bfdc0bbd0492b8ec30deb2b72aa9c2051f3fe2d409f8aa590619fbf7",
+  "PGPSIG": "iQIzBAABCgAdFiEEwQA0ZnZjToDJQPuenAL/QZ/svhYFAl5aY4cACgkQnAL/QZ/svha6Ew//Z5zSlNfTt9/JvTHcVOxuVYARmV75n7M5xhHJITqwSDKQTMGI0K3jim9NRynbj5jXvJHITYBpmem5/dCACWc2OP5rEtr+rAYaDiFIPFbhsg8V+A7S5LtwppQy9G1u/aiGwUWC1nHrkIjjifA1i1SaVpmfCqBxtbCl+LJUGV+DjZwk0heKh6NXJRFB4sDzMlyZkgvk3i2bxXcJdCVy8G9dSs72heR6Gk33dQIYijl+MJ+ps5wDIXp6GI2004tuPlN9XlPjC+DvOt4UbXzAgsG4c/Uxu3HjfSGP8Uoa6WsiX1nTkdbOhd2k1wKFMVF1lt9ea4y8mzC8wtdWzNh5oz+b9JLbK+jH/pKj0skOBT+p2sKNmRw8efqbaTDGeyvlJhu4xtql+DA2GA1j+59nH00nqGBcg3aNmdvfq4RwXRFjkYMhzugZbIf/lDFAcvDVcjSpejSqR48k2OcCNUKpns4787nASVCOSjKRJpI4Y+L6HtGgh4OKrOSJpcIUl2Ip6PoXpvDzY7cYtK1Vu/bSJykDUt1Bbly1EIL2gXkX/TF6yYWKFThkOIeKfepLzT5vkKAFw2ExHCFDbRgTprCHhPOUxTWg1JXLUycrj45dLjYEVgNKKgwbMdfp+DqfI1V2BgqmtgjhlLBV0bPMUHR8/BLrhyZZ1/lPzy0lcrusAXZ36bA=",
+  "URL": "https://github.com/andialbrecht/sqlparse",
+  "LICENSE": "BSD",
+  "ARCH": "any",
+  "BUILDDATE": "1582982000",
+  "PACKAGER": "Morten Linderud <foxboron@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "python"
+  ]
+}

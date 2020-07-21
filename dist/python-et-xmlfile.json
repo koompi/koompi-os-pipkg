@@ -1,0 +1,23 @@
+{
+  "FILENAME": "python-et-xmlfile-1.0.1-7-any.pkg.tar.xz",
+  "NAME": "python-et-xmlfile",
+  "BASE": "python-et-xmlfile",
+  "VERSION": "1.0.1-7",
+  "DESC": "A low memory library for creating large XML files.",
+  "CSIZE": "20448",
+  "ISIZE": "84760",
+  "MD5SUM": "9770a0b44b25630930e7acd05922cc8a",
+  "SHA256SUM": "83460218e872ee8a0d5f90854e39d2dda08df4b85cc7fad1e3c26bfd69ff2099",
+  "PGPSIG": "iQEzBAABCAAdFiEEhs/8qRjPOvRxR1iAUeixSKmZnDQFAl299qwACgkQUeixSKmZnDR/4wf+K1p+GOe5i+tIjarFcPZMm6g0Z8rt5tWi7rQXdguGTTjNO/FPJExG06WPeNPWNvI/E3Yj8hdxBlrk03793L1Au2vGtuIiTTHzswuMFgjFXc/ecNpVbzHhoYaJ3G77F73p4gAlSnzMWjSpHuIh3vPfWsvOOXIR5eyXTj+kOosV8Z9OnO0e6UULWqifq7LCIDUCHPmmDgOBRaaCbkoU4obNy6s0OorAuD1tsrOsrP5ySJfwy6H1oYJm+d1F91gTjljghlPBoTmyfQSrnbKDVdPxwXYNkRE0kMJzo/ZQ5U7Qr6h1XooxuGeu02FGv4EZYlPNqdsN8wXVh1nTyBoLxk3vew==",
+  "URL": "https://et-xmlfile.readthedocs.io/",
+  "LICENSE": "MIT",
+  "ARCH": "any",
+  "BUILDDATE": "1572730510",
+  "PACKAGER": "Evangelos Foutras <evangelos@foutrelis.com>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "python-lxml"
+  ]
+}

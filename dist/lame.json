@@ -1,0 +1,23 @@
+{
+  "FILENAME": "lame-3.100-3-x86_64.pkg.tar.zst",
+  "NAME": "lame",
+  "BASE": "lame",
+  "VERSION": "3.100-3",
+  "DESC": "A high quality MPEG Audio Layer III (MP3) encoder",
+  "CSIZE": "278155",
+  "ISIZE": "959061",
+  "MD5SUM": "517131953f685c78ab9175b88d7b8527",
+  "SHA256SUM": "fa20125e628002df47b44f0cb3492fb2411c313bb715ebcda6b3e25d736598cb",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl7DkjkACgkQeGxj8zDXy5JQeg/+JR/mDERfF/uWcpTk3YokA6Zu4PkXlrMM/74ZqvRL1Xb+bar2JmLmV7UVYe9Neo2eU6LozmOUHZfGVZfclULDvLcXjuGByU6/4QhYbQiHKVQY0ajMvulTyETOjPTLJnO92iCZzIbpp7n+vwzjKOFRruHl+RwogmhxI5Tw6G4JnllcF+dH6dkuAFbG8wIRQ0xj1Ju/17S7ImJsgZd8eNNv4vQkf33LiH7Y7zYaDzUy5GcPmgUkc0ZOa17sfpyZYzD6JmOk53fsAQX7ELWFdaWWIY+p6u0spy3tdiHUqyzwS4uWFm/wlQXSwJIXvaNTvobPG/id65ilDRONX7pm6fDGdRxTy5pHn3A9V9yAiq4B9fmISJRlOYXsEF2sRxEUXqYne2zD2FA1sPu6lVIsEjuRYpHSuTRg0JK3G/NIKWiKB6Qgywx3o1Px+6cl3YR/aLszf18stmcvl0ZfM6TU/pfAY9BORAwdK5aRX06ZuEdOfr/WbzDrnJ9AvuuzeTjw6dSFbUubwxOzQmNQo9KVaRr+rqVELTLGvWWjtJZxmN6kCIoRd90M3ijyR/FXas4RhoPIZHJaUVh4Q2QrxXeol6Np1ESrtriMLAzrLMcyhVYsbQl1n9oCGInASUdcjYkT20XdP/EboZI9szmNSlgl5AgIjyenXe/TX3KA0hIvbhdgyc0=",
+  "URL": "http://lame.sourceforge.net/",
+  "LICENSE": "LGPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1589875217",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "ncurses"
+  ]
+}

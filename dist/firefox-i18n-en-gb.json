@@ -1,0 +1,23 @@
+{
+  "FILENAME": "firefox-i18n-en-gb-78.0.2-1-any.pkg.tar.zst",
+  "NAME": "firefox-i18n-en-gb",
+  "BASE": "firefox-i18n",
+  "VERSION": "78.0.2-1",
+  "DESC": "English (British) language pack for Firefox",
+  "CSIZE": "466305",
+  "ISIZE": "531200",
+  "MD5SUM": "0a75f99010fd14f06398e11dc90b50c6",
+  "SHA256SUM": "cf51d54dbc29d8ee5a58d4009a3207a6db5cea0c424fd3efc3fcf0c7b0edfead",
+  "PGPSIG": "iIsEABYIADMWIQQGaHodnU+rCLUP2Ss7lKgOUKR3xwUCXweloRUcaGVmdGlnQGFyY2hsaW51eC5vcmcACgkQO5SoDlCkd8cPrAD8DHStAWQMDXFKHWeU1yd4GCp1dqCV1h7STI8QYI7fjTkBAImdbTNPU/kRwCih7gbMB+EUW4J2kwiUxNfZLL5PW88C",
+  "URL": "https://www.mozilla.org/firefox/",
+  "LICENSE": "MPL",
+  "ARCH": "any",
+  "BUILDDATE": "1594311501",
+  "PACKAGER": "Jan Alexander Steffens (heftig) <heftig@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "firefox>=78.0.2"
+  ]
+}

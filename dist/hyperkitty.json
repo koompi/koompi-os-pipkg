@@ -1,0 +1,37 @@
+{
+  "FILENAME": "hyperkitty-1.3.3-1-any.pkg.tar.zst",
+  "NAME": "hyperkitty",
+  "BASE": "hyperkitty",
+  "VERSION": "1.3.3-1",
+  "DESC": "A web interface to access GNU Mailman v3 archives",
+  "CSIZE": "1609175",
+  "ISIZE": "9132267",
+  "MD5SUM": "613342f63db687e0443f065c58f34eb0",
+  "SHA256SUM": "eb8c86035578b712026895e38d1af25937c852571a2a8f2be363ea578b909e2d",
+  "PGPSIG": "iHUEABYIAB0WIQTH54SUZv4jWDQ1iDdyWHNLQcMVSQUCXtk4QwAKCRByWHNLQcMVSbHxAP9CTLW4EKqYxqmBkccqtvQzDi/qMtZw66Wt6g5qr3deEwEAvCikjXdGV+ABg0hFr6G7TSYIGhB/Gro+eNrwIYLFSwI=",
+  "URL": "https://gitlab.com/mailman/hyperkitty",
+  "LICENSE": "GPL3",
+  "ARCH": "any",
+  "BUILDDATE": "1591293680",
+  "PACKAGER": "David Runge <dave@sleepmap.de>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "python-dateutil",
+    "python-django",
+    "python-django-compressor",
+    "python-django-extensions",
+    "python-django-gravatar",
+    "python-django-haystack",
+    "python-django-mailman3",
+    "python-django-q",
+    "python-django-rest-framework",
+    "python-flufl-lock",
+    "python-mailmanclient",
+    "python-networkx",
+    "python-pytz",
+    "python-robot-detection",
+    "sassc"
+  ]
+}

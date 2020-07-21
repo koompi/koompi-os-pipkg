@@ -1,0 +1,25 @@
+{
+  "FILENAME": "falkon-3.1.0-11-x86_64.pkg.tar.zst",
+  "NAME": "falkon",
+  "BASE": "falkon",
+  "VERSION": "3.1.0-11",
+  "DESC": "Cross-platform QtWebEngine browser",
+  "CSIZE": "2894596",
+  "ISIZE": "12975927",
+  "MD5SUM": "a41ce30e2f0c95a886859f8af54633b4",
+  "SHA256SUM": "f0efdfe825565506546d3516546cefbb36b730773df5392b37b4f3796eae3d75",
+  "PGPSIG": "iQEzBAABCAAdFiEEFRnVq6Zb9vwrc8dWek52CV2KUuQFAl7ObHQACgkQek52CV2KUuQUHgf/QnqAaW1azasf9LNlVYdiMUnoFYW8nBMLgbXnNqwtGclCgqIzJy342aAqxuq53CCSqB+bJMPBGWrtkqP3L0U55ybSnOoWUzICK6zKe9JrCSiPzUzdDByQihz/rt+frzN4lkuszGCHGbTTsXSFvSAF9arU73YWYg9Atj5wj1vyUup2odDxj7FW16ZfWS57VJ249D1im32q1f77C9OooPK41+R/YhWBsvYAAqGQsmIwsvun8Wd2Cy5ZS1aBp7M3Yn0ddmcf5LgqQ9aX1qWMB9sTsHyDJ5tWJAh/5VSaJdY+kK2i00EcfF7D8bl+hBusRzpVyLdfGefJtcw7IgH1TUuRVw==",
+  "URL": "https://www.falkon.org/",
+  "LICENSE": "GPL3",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1590586338",
+  "PACKAGER": "Antonio Rojas <arojas@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "qt5-webengine",
+    "qt5-x11extras",
+    "qt5-svg"
+  ]
+}

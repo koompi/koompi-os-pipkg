@@ -1,0 +1,27 @@
+{
+  "FILENAME": "zmap-2.1.1-7-x86_64.pkg.tar.zst",
+  "NAME": "zmap",
+  "BASE": "zmap",
+  "VERSION": "2.1.1-7",
+  "DESC": "Fast network scanner designed for Internet-wide network surveys",
+  "CSIZE": "120241",
+  "ISIZE": "341490",
+  "MD5SUM": "e160ab510556bc3f28acbc61c2521b79",
+  "SHA256SUM": "9f6cb6ec842a657705db18ca1434e3c7668db932127c9271ab14a5b814502518",
+  "PGPSIG": "iQEzBAABCAAdFiEEhs/8qRjPOvRxR1iAUeixSKmZnDQFAl6kUT4ACgkQUeixSKmZnDQ/TwgAhJa/pCrjTqxptgPG/D69t6wGenEddQPxlGCUR3wRkb3zMlxYPiYUaFdUSuy92x13NlGESM4wRS+o6KuMJ14S44Z4ovKdOm1aXe1g9qvlT4NpFfntOZKDo35mst7kNp3itox6VcG8tw527s0KLXS16jfej2j4nwy7UsdK3Tvv+OqPeZjL5Q8fKMruAtH0AVHS27WeE9VzgLN9693SpvcEqKw7ybTjwuxI9JJueICmJZ7x+pGHTyJ2z3xxBK+25aT/2weTZUR/24fOP/SFns2wLmcIvlEBI6GqMlxXIO577vOIIjgXGBWlyoUB62UQ9t5iB8dWr0tYd/bMmRmdkAi/Mw==",
+  "URL": "https://zmap.io/",
+  "LICENSE": "Apache",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1587826855",
+  "PACKAGER": "Evangelos Foutras <evangelos@foutrelis.com>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "gmp",
+    "hiredis",
+    "json-c",
+    "libpcap",
+    "libmongoc"
+  ]
+}

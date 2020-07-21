@@ -1,0 +1,23 @@
+{
+  "FILENAME": "firefox-i18n-ca-78.0.2-1-any.pkg.tar.zst",
+  "NAME": "firefox-i18n-ca",
+  "BASE": "firefox-i18n",
+  "VERSION": "78.0.2-1",
+  "DESC": "Catalan language pack for Firefox",
+  "CSIZE": "490761",
+  "ISIZE": "552876",
+  "MD5SUM": "c7137c5cdbc4d6d575ced1d06edfdd38",
+  "SHA256SUM": "89963c13e079d690eeb75e441abc3a715d86a57ead2dae802b48e225523d66f5",
+  "PGPSIG": "iIsEABYIADMWIQQGaHodnU+rCLUP2Ss7lKgOUKR3xwUCXweloBUcaGVmdGlnQGFyY2hsaW51eC5vcmcACgkQO5SoDlCkd8d6cwD/TUuA+rw/y8mozHK2dMVqxCPQqz7Oa1mh27e8oH8MEzYA/1gNdUyxtzCS6ql/cVf6zf7HXlcbqTD+LqJxWElmni0J",
+  "URL": "https://www.mozilla.org/firefox/",
+  "LICENSE": "MPL",
+  "ARCH": "any",
+  "BUILDDATE": "1594311501",
+  "PACKAGER": "Jan Alexander Steffens (heftig) <heftig@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "firefox>=78.0.2"
+  ]
+}

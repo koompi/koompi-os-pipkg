@@ -1,0 +1,24 @@
+{
+  "FILENAME": "ndisc6-1.0.4-2-x86_64.pkg.tar.zst",
+  "NAME": "ndisc6",
+  "BASE": "ndisc6",
+  "VERSION": "1.0.4-2",
+  "DESC": "Collection of IPv6 networking utilities",
+  "CSIZE": "64890",
+  "ISIZE": "247081",
+  "MD5SUM": "071b97a54ea146f34da9cb4b93ee9296",
+  "SHA256SUM": "078a267e1e00b7c830f2e274511512a37156ff2a02e5c169898dcf400201323a",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl8Ed5oACgkQeGxj8zDXy5IRYhAApV0lmwQgdQKzAFoYWtY3hnixRGICl/ypfAlFGOxdWcR5C1jcT6lsxZxG5qpL/KSiTdN+QrYoLA1rjHupc5Z3EIOp5/lB3rGcKNDetpfiUr+0gOsmnXSmrLe6zshd0l8ywL0zyLfTSBX9zrRJAEmIpA//2hNrFfXQdE6uuyfoBofknkaoE8lrCT6jfj5eDlXrEH7eLqzYuOLg+2rRTF0CnmYs/ILeGIu3FdVPEtyzr2ZS4cWWt1DTE/ufWMtl2v25BHGuNEbQFjOIiYNrKRNb1i6ySwJfZfiDgkcjUFODcnP2HLgr9K3+l2iFq0mK8F50QFqhYFMFDAveiYFKJ8mvsGb83ZysEm8N31Ha4zMbwb9RDnpdXFF/Z/yuzzKUmooAJXvMME6IkcIh7KXD1hn71k6y4OfaPnhOVIajn9uXLOb86n3AaFIvnIsoxBdPFpQaNKVys235m/WDk3eCVdQLYNJaQ/xmqSJDSdmtFPQ8HOsDtKv6w3b/tDziuTyVfpurcGAYibZ8a78L/RapdNnYt+6cN857kMVugaQ0yT0ey938OxL2LTh0qrWorDQPcv6Mp3QIf0PY1jDCsjlWfIMzCIJeC4e28iNrZS3eWygNdFrFB5CBZ14Irmbej7RkoJ2SBbE5fSGeGsdIs2OVxq1zGHz+kryA7W7gG6L3+U/8q+o=",
+  "URL": "https://www.remlab.net/ndisc6/",
+  "LICENSE": "GPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1594128225",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "glibc",
+    "perl"
+  ]
+}

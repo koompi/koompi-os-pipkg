@@ -1,0 +1,23 @@
+{
+  "FILENAME": "python-sympy-1.6.1-1-any.pkg.tar.zst",
+  "NAME": "python-sympy",
+  "BASE": "python-sympy",
+  "VERSION": "1.6.1-1",
+  "DESC": "Symbolic manipulation package (Computer Algebra System), written in pure Python",
+  "CSIZE": "9821015",
+  "ISIZE": "83154993",
+  "MD5SUM": "4dea7ae97743ac258557fd7a7d5ec543",
+  "SHA256SUM": "e455b448a45477771661aa92b0e8a5a68aadee4b55853a9cb48e86441d0afe53",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl7+S04ACgkQeGxj8zDXy5J+4Q/+OdP/fi6yvCn1HJHkrBZ+7UQQnQecLGmDBajnIVbXwGZb0Gxwa7IO1p6dPHk/bEP4Gp/wx0NqbIrasSFo6asSHuumBMdD4STybteuYQ6/MLsrjPeT+zjoIWpQsWZXdM7ktWskxcvgZbc+WIccbCHYTCPWTw4hPjGAto3Fuf+/mPcGFxLh7uQrA7gWSu6JoZZaTwTcB4+bph+pj5UhzmIlUOIaivS7MICFJeFflHETqlIkOtkdzBD0+h0YfYNP/nQqbOPGcGRTL0MbkiLmxmaKmIvE7/p1B4WxtyTswRPtew5PGwCZcsdxWRgTd3N/jmn8VULhKVa15dz4OKaulsD9uVmpyKUwCLrLz1fUHxi3jJDQALc59puckuuxn7tfIdKAFbxCbTZXd2G5qcyePAKS4ba1qOqXea4tdppfV2827lYKcV8u4yMn3FuY7p9AI8R0fP01uXBKMuVwG53xWrq3lY8RYRUmkpJQSo5tfjE6ZYqVdmM7+OELAz6HazX1LWKHl8Z6cN1qNgYX6YPt6aAZx4gGQT5pDC0PtT/P8lEEjRLXcxwC/kwrmRi+9zRAB2McrPOrRK+EKBm2oi4+sgEEb7jkknqqlZocimoXVIEgsCHMH4XD35Zz6kZnByqG7p/9wyOrO2ptfeqV7D3htBy/u6BcugiHTx6t0hoFKhIoir4=",
+  "URL": "https://sympy.org/en/index.html",
+  "LICENSE": "BSD",
+  "ARCH": "any",
+  "BUILDDATE": "1593715203",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "python-mpmath"
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "FILENAME": "python-keystone-0.9.1-5-x86_64.pkg.tar.xz",
+  "NAME": "python-keystone",
+  "BASE": "keystone",
+  "VERSION": "0.9.1-5",
+  "DESC": "Lightweight multi-platform, multi-architecture assembler framework",
+  "CSIZE": "13372",
+  "ISIZE": "36769",
+  "MD5SUM": "87e6f5f2233f171ab963d2dbfc6b115d",
+  "SHA256SUM": "cfa893c97a63efdf682a6db80ef9f06d3fdb1097e2e35db716acec6b024bc7af",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl2/xB4ACgkQeGxj8zDXy5KcRA//aHqGIrmJVIkRkNGZykVfU0aFdmL4+qclX9iyclxT1/FHAgM7s7eegCdeZmEYuq6jn2VQP+izeAPN2/s4HgYGzFoPBZwe1FIFSbSeb2utOrRDwKyVipNgm08HP2qFDIzTgCd6zn40aqLG59qeSB/HSLBQZlmM4jVKssumZ8/GeF9BVsZVHQyKKFnrUYAvrEVMIoIje316nTcWQCBY/g0FYl49KWd+izbSOw7IuqbXQUBiqzyCKqSWEz+3pleEtpwggpAm/nnbdoGqxgR8X1nDGn+HCDKCHACJUG9HjwK3F+i2a70hyt+kWinr7WU4AC2xj7zJJDPnMQBHNIMvb06VUoGPbSce+RPZJEirXYDAm9OssgDlvaGLc0ejyu0PtocvEWx9ITIxw/f42xWel2yRv8TjqT17gfA15Lu/ZeP89pqzzhCxtb6QzzpGXun6u15JnHXkZy82gp9m5w4TjWB9h0fP3jhPJfHJQDxK//p7naWS4I7OyPgr+yJccAY5Ge9N3miFCdwF5Ea1Gm1JiHRiZ+iSnLYHGIeN6g6DZ5dJ+EoBa9LbstRd4g2S/4BIrIjURZ7YpSA4ANs8boaq7Dmv06VckgzH+MahecJFQDd9aBCpwOWhayaJSWOD5eOsMgCTvropqwZmKnwkJBkJrkPW4ib7tSgFSRnzlAmUUNwVhwU=",
+  "URL": "https://www.keystone-engine.org/",
+  "LICENSE": "BSD",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1572848506",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "python",
+    "keystone"
+  ]
+}

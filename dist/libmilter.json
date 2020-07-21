@@ -1,0 +1,23 @@
+{
+  "FILENAME": "libmilter-8.15.2-3-x86_64.pkg.tar.zst",
+  "NAME": "libmilter",
+  "BASE": "libmilter",
+  "VERSION": "8.15.2-3",
+  "DESC": "Implementation of the sendmail Mail Filter API",
+  "CSIZE": "36848",
+  "ISIZE": "127411",
+  "MD5SUM": "a24e8d887d18f3988d7efe3b58ae3490",
+  "SHA256SUM": "a4de862e2e0f3e324be6185e55aba27c697e3d2975725b0716573fb20da63db3",
+  "PGPSIG": "iQFIBAABCAAyFiEEZkWwqMcAXnjbHXhk+Z/+D+rpmb0FAl7Ex2cUHGFsbGFuQGFyY2hsaW51eC5vcmcACgkQ+Z/+D+rpmb1R0gf8CgsP9TDAvEoo4abjq7VXjfWoDlgQo5o5PY7v3dY0JLcE9rhAxzeaJimSrLwZZ+bUp3oFHjmvtmr19esrjNGN1IRWsECrFel/SqH9HRIbK4/La6M49ocUyZ5Im1JQSxHrsdu8gpPoRAWcVN9trmlLvFZ/NAnepo9FtFWyr8GneQxuFuBKOQaeCa5OTDHEwC9MIQv8MLxFR2lEGMkHcPx4aoDJi/fbsAaGM4PeO63Xc5Qr/rPFR9Lr1AHyk/ZzVSiEyD4OJJKV8Gdqe3ksKKihJxM7/ypteKU8uahZtwjTn0I7JfwPBmb2A1iJDU4dnBHko8cYZvJwOVsfzyQd7ILHjg==",
+  "URL": "https://www.proofpoint.com/us/sendmail-open-source",
+  "LICENSE": "custom:Sendmail open source license",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1589954375",
+  "PACKAGER": "Allan McRae <allan@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    ""
+  ]
+}

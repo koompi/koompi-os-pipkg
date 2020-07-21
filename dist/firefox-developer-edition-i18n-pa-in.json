@@ -1,0 +1,23 @@
+{
+  "FILENAME": "firefox-developer-edition-i18n-pa-in-79.0b6-1-any.pkg.tar.zst",
+  "NAME": "firefox-developer-edition-i18n-pa-in",
+  "BASE": "firefox-developer-edition-i18n",
+  "VERSION": "79.0b6-1",
+  "DESC": "Punjabi (India) language pack for Firefox Developer Edition",
+  "CSIZE": "542687",
+  "ISIZE": "606322",
+  "MD5SUM": "78d434c71859b3009484ef4ca354adf3",
+  "SHA256SUM": "382d64b0d592b8d346975d118312c0f6cf8cbb4d320e0af5d745467ea4491497",
+  "PGPSIG": "iQEzBAABCAAdFiEEYB8g8dG7v0p4z1tt9rFhCz7NvJ8FAl8IbNAACgkQ9rFhCz7NvJ95rgf+NbSLCSbm1asXtGADGWSENSoxHfgbrag/Ze8eqCD9UpdJx5KawRWF19524kPthh3CpVVX/+5cZ+ZWQ/C0WZTGSRZ8oiOTbhmWIpEKT4iaE8Z1d+axcydcD3327oKZ6hVooCjXXDaO+yTH6+fOw2H03ZWfdGI5ocQuCMQp+Q28kY9z1M8xtDB32KmZu0HYI3706KpuSPa2VLelPWNSzB5gxrq+pEEAOM5IgUyxp+ke66aO+gWtqyQqMoL7LKTRhYE+C2iNTmiyiZ7Q7xdNyTm9nxh5C6fXjh7sg/9dn+rDnjijTi6t9jwwaQjPt31kB3HcTJ9QMrzkvc2xXAQITcGqrQ==",
+  "URL": "https://www.mozilla.com/",
+  "LICENSE": "MPL",
+  "ARCH": "any",
+  "BUILDDATE": "1594387381",
+  "PACKAGER": "Andrew Crerar <andrew@crerar.io>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "firefox-developer-edition>=79.0b6"
+  ]
+}

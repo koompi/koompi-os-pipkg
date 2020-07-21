@@ -1,0 +1,23 @@
+{
+  "FILENAME": "pipewire-alsa-0.3.6-1-x86_64.pkg.tar.zst",
+  "NAME": "pipewire-alsa",
+  "BASE": "pipewire",
+  "VERSION": "0.3.6-1",
+  "DESC": "ALSA Configuration for PipeWire",
+  "CSIZE": "3609",
+  "ISIZE": "0",
+  "MD5SUM": "4b4c193313db82e53ebf99c0bc118567",
+  "SHA256SUM": "e5995dee36c1563e2b4d0c2f9df56edc6e4bd051825c035c7c52482b3c99809a",
+  "PGPSIG": "iIsEABYIADMWIQQGaHodnU+rCLUP2Ss7lKgOUKR3xwUCXuEWcxUcaGVmdGlnQGFyY2hsaW51eC5vcmcACgkQO5SoDlCkd8fjyQD+Pt8b79njIHb02q82YdtrqQWDeu9Eoc9lEpI4SRyy77gBAN0l6wgh/rh2QJI2zWEKatb+pq9//m2EFeHr8ywQFoQA",
+  "URL": "https://pipewire.org",
+  "LICENSE": "LGPL2.1",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1591809486",
+  "PACKAGER": "Jan Alexander Steffens (heftig) <heftig@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "libpipewire-0.3.so"
+  ]
+}

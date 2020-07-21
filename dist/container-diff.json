@@ -1,0 +1,23 @@
+{
+  "FILENAME": "container-diff-0.15.0-4-x86_64.pkg.tar.zst",
+  "NAME": "container-diff",
+  "BASE": "container-diff",
+  "VERSION": "0.15.0-4",
+  "DESC": "Diff your Docker containers",
+  "CSIZE": "3553507",
+  "ISIZE": "11397926",
+  "MD5SUM": "fe2d7b5566762babd3a5c466c2072ac4",
+  "SHA256SUM": "514e8f3a8e396f75476e7d12fdbd22e08cff93324297b8d521d283e2cd3c146e",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl5mI9kACgkQeGxj8zDXy5LN8w//aDwlQ+Cs4UOGcU+krQXztHb6e1TrMPxtvVPtMHyPURTWKz5y2SA4o1BUq/Nzl/TguQidcgIpjv+zYcIaTszT1tf11qBrPbOefBbqAQ72FgfZNCv0zP8ss8jwxhKUpwe/7STf2JMz9VNSlXySj+D7UaYxAvyAxNxXimx1cPk/aVJ/a+w5Fznv5GbCMa25T8Wa4DHD4ryUQYLMcbsiDf4bYbeoWnxIxEm+EOSPCztYmuon2RwOW5pYGghEfC5sSwrfAessItb+NiEpqAbzUTYHvIuzKCCO0W9u87Lei6CM0gY54/11Gn/tDUYFe6jV9glMHBcYD5EK5SYex90nAzg96IlNf9lad2VUVmLa1vVhTSnvGzqUdKnsU7MlAGeDbi6NHipnkcrVSMMAHi0FJifLmCInUIpLvAWwzdI5kA5vo5ZiPvlZOsvsZWWDauAXQDGyWr2Iqb79QpDZ+zRxpQs0I/G4SiAKhUrjgQSC5Bg2WPTXAPyuUiQ06tIkwDGDf8ila3DUbIYSV6AYE3S6Fm/4zzRizJc+9vsPs1ezV0itXfSHK6t2/0dm96nGQ+VVdZqUVvvL7caby/X4CguQTRkTwnHXYbsA7kxKUQJkRUc3juZe2T/qsLrxadvCFsQipBe7J8qDB7NLMWNnyJKKEuabed4trhk6vGmzQUUXfeLpPJQ=",
+  "URL": "https://github.com/GoogleContainerTools/container-diff",
+  "LICENSE": "Apache",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1583752110",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "glibc"
+  ]
+}

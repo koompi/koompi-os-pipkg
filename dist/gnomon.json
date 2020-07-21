@@ -1,0 +1,24 @@
+{
+  "FILENAME": "gnomon-1.5.0-2-any.pkg.tar.zst",
+  "NAME": "gnomon",
+  "BASE": "gnomon",
+  "VERSION": "1.5.0-2",
+  "DESC": "Utility to annotate console logging statements with timestamps and find slow processes",
+  "CSIZE": "258859",
+  "ISIZE": "922086",
+  "MD5SUM": "27566c24d05d901b342e71638337c842",
+  "SHA256SUM": "9c28b9dcf55ab6b5d90e53afc0e752afd6285359ab0b263d5733a5788747ae36",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl8Egy4ACgkQeGxj8zDXy5I24xAAh1W4XQlg5BzgMUqXD87hTMTkAz46QTHewrxQO9Ay2m308HrEy9iNke/2/sOZlBWl6PHunSVe2nP1mqbq70XBPmgmotzGZDn74jTiwD+Xx0v4USHQHD+S9iSua0Y5v4PIZXy/SjWnjHirZHBJ5WMh9btCNzIWROE1mwyLULEw1WLckiFzM8JMXWzmYGMnSfgG1bflCZzFg6xS8WYMvYvk9k/RcndGlEHEaPDQQl47XRBkXiLjtBuRSBX4BPmpsCU/1haRAQXrBExlntnxOtZbiRFZ2+2wAVhUjQiuL6WbAykXXe4nSL/yrobS1qFxOecLVRYi8nSFg5QAiRuSafUQhrfGUjhr2xW4BEeomu6Omw0pzdjfQ2jWwS3Nx5xj8X8gvavdIgkfP8gkuPaN3MTVZRFhyQ4GDCjmEX+1szbgiJ3jkFrG7NBQY+lSZ2DVfqO+Pz7jguNsHB5k2fTG/qAihpoqdVPEKurBcjGX+bJRBvXT4WmMAH6nMVBhfwxjsGz5Ot7xkrL4XW0/1uNpi6MS9efik6xuGRjFe0rI9oWWPeFRaHJ/wVyqK7Ipu60sFJdX1LCVHUeE6r8T43ad3gWrTLPy+VnAru8+t52S/jVeOchugDFgcoDRPJYfkKRWmeS6JMC+Uq9GfRxVeV1HYroHjGCEV7EJQump/THiiJh2JmA=",
+  "URL": "https://github.com/paypal/gnomon",
+  "LICENSE": "MIT",
+  "ARCH": "any",
+  "BUILDDATE": "1594131221",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "nodejs",
+    "semver"
+  ]
+}

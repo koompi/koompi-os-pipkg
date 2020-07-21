@@ -1,0 +1,24 @@
+{
+  "FILENAME": "haskell-unicode-transforms-0.3.6-5-x86_64.pkg.tar.zst",
+  "NAME": "haskell-unicode-transforms",
+  "BASE": "haskell-unicode-transforms",
+  "VERSION": "0.3.6-5",
+  "DESC": "Unicode transforms (normalization NFC/NFD/NFKC/NFKD)",
+  "CSIZE": "1137689",
+  "ISIZE": "7513566",
+  "MD5SUM": "fb3bb5308e331c1e416c17e0733f5805",
+  "SHA256SUM": "82e1aa2226f21fa2727ed3f87d8cc5d50b8de286104935aa743026930735f15a",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl6iHRQACgkQeGxj8zDXy5K1mQ//c3YKhDBbrx5cy4ryFCJV/LRArDCwZeHZz8ybKIspjmsdOHdykGmQPaEtrK5r15BxmM7Ee7AtEwD/Lym4GBpLIV7IkpfRBj8ALBoFw/XladVU43//5FvGW1Uq5/qECVcHbnq6sxha15XSiFg37gpH2eUKIEcOHTouFT366jfdxbBFEe9HkgfjwypLuulk8/li3CZusKq2KQjUpOOLL8eKIfYMjJ1bpG2K5+tMQCriz5EIKBiccJMpvQSuYzKbX67E7yQxqCBiVI6dYckxiGlDYO0Bu4ANUDuPHe+p+AjnfSCBUshpWIoosPvjUK8Tfk2gJRZ/EwMVytt9LMhucuwbBch+kBBhbdtF9jFJhBGKLWgMQlWE2EAc6sNJyZuwhNEsE5VapDSPy237AGiJQKfjSNieN4KFjRxsMVBua/UQS5w0iR9ScxGX6WKavK1zD+5+HLWgTJYDQEIB1bmGFKERhZ9vOp3SAXmfqhG8zHnEAGeTLnUZ13nnEYG+HXR3aRvOfgfiHORMQU/ocVqOB7LkwC6q7ZkHMF+R63qI4CtgUW24jlROLsmp/+lGhbBw2IAm7SpNtit/k+k8Vm8XrU/pJslL48OdRo0Mwrn8cHI2jz4jzGRnGKlFoIq1uJgR7HaWQdhXfzYpyjcvcrCE5wMCSjfTDqX+6HMrUeWkKIZLaic=",
+  "URL": "https://github.com/ekmett/unicode-transforms/",
+  "LICENSE": "BSD",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1587682454",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "ghc-libs",
+    "haskell-bitarray"
+  ]
+}

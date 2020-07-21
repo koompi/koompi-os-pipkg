@@ -1,0 +1,23 @@
+{
+  "FILENAME": "python-jmespath-0.10.0-1-any.pkg.tar.zst",
+  "NAME": "python-jmespath",
+  "BASE": "python-jmespath",
+  "VERSION": "0.10.0-1",
+  "DESC": "A query language for JSON",
+  "CSIZE": "39305",
+  "ISIZE": "175699",
+  "MD5SUM": "48ca717b81c6712fbe66904aa0807603",
+  "SHA256SUM": "20aa5526f67f40cfbd7247a4f43565e2d85793bf96f8bd0dbc2c47f46c394120",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl675ycACgkQeGxj8zDXy5J/IhAAr6iAH9IR4u0YEfi8LawMTDYleJ7WuS+UIc0xUBEKX1btkbunmRw4I4DiIRa+gg2eakLWYeTGXHPBb7dYfVp5gD7p0NmXrp2z6nzRg6h1jOBkGBUS5NWj5KKqufFQkwxgbiRWDTlUjifvlDmGh0QXTTz6LmhlgTnEkG/hNb87gbwdJLh57oeHNZnxeYp5XBqQxGDkT3fG0EoFg78bxEG/HGs5McgdS0hY8P6WZgEhqG7cgliARNHH9MBdJawXbm9llmjIvdpXHH37sERoDDFA1Z2C82ZZ1Vmsh4K7w11nSzrvl208phztJLBz8ZJ0QoPAqREMNzvnpabGPRzXXUJAjQToclpR8OWSKLuiOiPeg1snskhvfctc9R0r+1I6EEltekVRtjRG+kA9brkWpd7vP0sBnTDuPDIzldWhCgt6m1mLFbb/0J8AogzlcUjd5wk+n/t+6ZPI+Svc9GuwTJd0nJguW+GRkB7xNT0uTBibvBYKMdzlVzsVDM8QcgunFT0xPTAWmYQVEzTmNwOj+PA6p9FhbqsZvGTlaurZQoyHktJz02Y2gIyjiiBFJHXIKKsJjPgyUDkXftSi8YCWmyCuhL6o8KtRkKAArJTURmOHFrBL3/HDvVFZmzAPXl2gIGn/Aw/nKB7hfZWD/k5J4w4psCorIFyBTMsI7OJoAz9ffDk=",
+  "URL": "https://github.com/jmespath/jmespath",
+  "LICENSE": "Apache",
+  "ARCH": "any",
+  "BUILDDATE": "1589372280",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "python"
+  ]
+}

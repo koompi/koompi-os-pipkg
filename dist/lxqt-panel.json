@@ -1,0 +1,29 @@
+{
+  "FILENAME": "lxqt-panel-0.15.1-1-x86_64.pkg.tar.zst",
+  "NAME": "lxqt-panel",
+  "BASE": "lxqt-panel",
+  "VERSION": "0.15.1-1",
+  "DESC": "The LXQt desktop panel",
+  "CSIZE": "713528",
+  "ISIZE": "3301267",
+  "MD5SUM": "4294018783b91e51ee360c457421f221",
+  "SHA256SUM": "c9e9699d6b64c75de097c38adaa1f9f2c704e170694af4d19e171b01132eee26",
+  "PGPSIG": "iHUEABEIAB0WIQSYX6G7jYlWZgHv/xEEU6bKI8VjFQUCXsYYygAKCRAEU6bKI8VjFdTKAP4vL6ev34EqR1r1ymVxwsQbTRB+i8dmd2Z1N4HAC8ZeiAEAtSUbnb2R7jVAMx1AsYRzOHcjeudIA0YnkfouOkVBT8c=",
+  "URL": "https://github.com/lxqt/lxqt-panel",
+  "LICENSE": "LGPL2.1",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1590040588",
+  "PACKAGER": "Chih-Hsuan Yen <yan12125@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "libdbusmenu-qt5",
+    "libxcomposite",
+    "lxmenu-data",
+    "lxqt-globalkeys",
+    "solid",
+    "libxcb",
+    "libQt5Xdg.so=3-64"
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "FILENAME": "python-pendulum-2.1.0-1-any.pkg.tar.zst",
+  "NAME": "python-pendulum",
+  "BASE": "python-pendulum",
+  "VERSION": "2.1.0-1",
+  "DESC": "Python datetimes made easy",
+  "CSIZE": "159490",
+  "ISIZE": "924130",
+  "MD5SUM": "9714de620f86730128a423a69e1aacba",
+  "SHA256SUM": "786558c94dd5672f6c76005265076922b0f4cf907ba7053cf753922d85c21c78",
+  "PGPSIG": "iHUEABYIAB0WIQTH54SUZv4jWDQ1iDdyWHNLQcMVSQUCXmOvcgAKCRByWHNLQcMVSYX8AQCwcJdg3ap1aXjmyhiS6j7sk96yJ0DKMSO7+vsf7F9NbwEAuGs6N3NWcNkswfUTbk+rp3UYBvSe7wmMK5ixsnI3pww=",
+  "URL": "https://pendulum.eustace.io/",
+  "LICENSE": "MIT",
+  "ARCH": "any",
+  "BUILDDATE": "1583591215",
+  "PACKAGER": "David Runge <dvzrv@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "python",
+    "python-dateutil",
+    "python-pytzdata"
+  ]
+}

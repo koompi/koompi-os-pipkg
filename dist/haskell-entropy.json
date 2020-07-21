@@ -1,0 +1,23 @@
+{
+  "FILENAME": "haskell-entropy-0.4.1.6-2-x86_64.pkg.tar.zst",
+  "NAME": "haskell-entropy",
+  "BASE": "haskell-entropy",
+  "VERSION": "0.4.1.6-2",
+  "DESC": "A mostly platform independent (not GHCJS) method to obtain cryptographically strong entropy",
+  "CSIZE": "16246",
+  "ISIZE": "46420",
+  "MD5SUM": "542270dc4a66d8d5c3cc7908b06d5355",
+  "SHA256SUM": "3f6aeaa57abaee6e57df30e449b8de65a43493f481544362092a77d3886ff622",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl6hdO4ACgkQeGxj8zDXy5LydhAAiro7bQpksAELuoISouKGKePmgUKpqNX2qzSZXQ/r5Gawpls5ao2T45cstcECiOUdjS5W21Xt3JjnVQ3Z3rg3X2ftOnBHeiSqx/6RfzyHqE2K1MeLVmSvhPRCGI9biUEvorOUIHcMnVPKVgEgPq5n+NVTI6goo8X08LFaX+I/aX2IhPWuVsvFQR3K1Fi8QLA5o+tBcMiwazT+pcmWBE8dY6Oo4Coiun4xUXuS298eZ9yvMgXIX3bTjtN7nK3LA7Wzkz3kIIE3fu5ML0sYS4Lz0gJZuuVfrY9uCseJ4dQm67+lZ7HoJ3uf2aPgRHUDFWA/ubcD993ZnOuqASoPk6Ik2CtAiF9+sEI+sh8RyWRCf052FIaFIHmaSBKmATlXjBMdDszwy0cXtHdU0GTmSrjsB4513MXXswcFmpdvUajKGIhDoBKs2f7zqNhczfOLW9EIa5+bPbmzQidXNVIe9DjQHcqMuecvC6758ILIUm0jzxTjUnqAL/DIBak33lBtVl/+OSr6ASV2FZhu0hr/sp8D8kn25+lXyAIjtMxLa8w6GnlqgdnvVV5ddsM3g3UHsbeO5tsYJFVSleVuM5utT4U0SdoxcUJu8AVE3QhBzh3iBRf+Pm0mwLtkOfmwg4tRLfKRI7lLiE2zxrntUD3p+dHuRV9FO3qAMGbnsm2tJ5eRzNU=",
+  "URL": "https://hackage.haskell.org/package/entropy",
+  "LICENSE": "BSD",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1587639447",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "ghc-libs"
+  ]
+}

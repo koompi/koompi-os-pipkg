@@ -1,0 +1,24 @@
+{
+  "FILENAME": "inn-2.6.3-5-x86_64.pkg.tar.zst",
+  "NAME": "inn",
+  "BASE": "inn",
+  "VERSION": "2.6.3-5",
+  "DESC": "Complete open source Usenet system. De facto standard for handling news routing, news spool and serving the spool to customers.",
+  "CSIZE": "1512979",
+  "ISIZE": "4472381",
+  "MD5SUM": "e2e9a1102ac8a8c265457e89f2204b5e",
+  "SHA256SUM": "8d5719762728b4fc690ce5a1137fecff451785f3dfff2d0d6923b786708d505b",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl7viDUACgkQeGxj8zDXy5ICPg/+IjFKeYo8XuTYb7rhookUL4KKGBABM6UhRbKnZdgnPRKz7Px1JAlDMAt19TR5AZ99KTtUSMJsg99Og27g3TEJ/RKE8MxA8ru0TgjhPU/cWFHjPRE9VCKjsSp6BAwicgp9nN8P1esJTdhOTWrS/4IvtVQNzTu/BA2p8lFTTK7fwU38fz/Byt3df1b+CcOtfS99ji5asJfI27wIEk2zvxLn1y+eauGTLM1Llu/rLo+5JMoZAqzYZvriLw3i2g1v+rZNEUnZNgNm5/TWthHIWZ2f8AqQG4kFUcIBvc/k++zeEMPPD6Lr91EyYrh9XwfWoqFh7pSyk8OTEkhxyL+acXy1LZjmBrxMYDSpf51YPmgujhTYZYdrRcU5b9ZBU+1sD/OaTowHjfMYFEuSBMNKUVr2XXg1ePYWLIx+/PJJfaxOHGuI+Cqdl4eXpG6wr9AzXuuJza/08hmE6gAgVeK34i1iqwKwXeS2pxEcQgmmANgVxYpJyyY6hIP59Oqkxj91YfAZ4EHcxqy69VlMZzFols3mdN0sD+Z1yG062Z2wTCuTnCKxHjVT3paoaBKqzLzYrl+rprnAJXyjwtaZi/QO69I9vNMq1jp8VRPnGuztC6ZF/DpOsPf5FYF6qCvIMgSuqvVqgYFfr4qCGZO19Fsbii6rC4AnTqwldIosBmAG5ftPy2k=",
+  "URL": "https://www.isc.org/othersoftware/",
+  "LICENSE": "custom:INN",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1592756218",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "openssl",
+    "perl-mime-tools"
+  ]
+}

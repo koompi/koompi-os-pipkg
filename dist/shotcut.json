@@ -1,0 +1,38 @@
+{
+  "FILENAME": "shotcut-20.06.28-1-x86_64.pkg.tar.zst",
+  "NAME": "shotcut",
+  "BASE": "shotcut",
+  "VERSION": "20.06.28-1",
+  "DESC": "Cross-platform Qt based Video Editor",
+  "CSIZE": "3151618",
+  "ISIZE": "17479502",
+  "MD5SUM": "a05cd622d90571264c448d100f923d75",
+  "SHA256SUM": "58bf0a1172c076ca6ccce3e1c160b6aa25a3fb9c69eb907925f5ca6cdc11f0ac",
+  "PGPSIG": "iQIzBAABCAAdFiEE0jW0leqs33gyftiw+JPGdIFqqV0FAl791oAACgkQ+JPGdIFqqV0JmA//bT1Vmz/rMfRGil1LiRbSqfIlclpnZuZEceCkr8Qf4Q5DWsBSMTb+4ELTdI029hEu1FfgR9VXIHwvWzZqpl+CZv33osL+1V3GJtH1hKj/pPvluZgYYMy7KES8WQ6Zd8cRpCC1daPID0RpI/8ul1nartozjgovVzefScAHWolR8knEJ/IMdsb1kFLDXCsLSZf88zSw94hJIBnnBPXe5gfrkk6eKzFur+R9YGlEPvuRjdj7OZQiqoqvs0N9lj75JAKfGzXTyujaX83uCHeS+dmku+VQo9jfertyS765C4UtUc9kjg4gqokySLhaRk2K/XCmWF0D5em6stioRnVxxx4CfH3kWbJC7lVMhYyucP0rBhBQesRN2qyvVLFqsxhrrpC7KHkxDH37UBr2IAaIrjP9NLShAf0KkaCRV2lljoj/6vmh8/OpUrbwM0+BpFgjHd1I90avPdcT/A1L0Q3JXzyOjOYMhgN51ZkGVvTahVnu6weBZ6CfIMeW7XnKI7RWI5469y2mNzpoj4GXiiy5N8EOEtibeBY3+J6GjD9duW5oDda/oPC0V14Y/MKKh12ZauwtTe7vf3Oe32XXY5zFNVPyU1g0k1eaTAAO5KZMRkakFcuaM4v3wOjA93QOrmZ9Ffibv5okMnL17hfAzMJ+p72E2EJOnFZV0NiLqaXT9Lgf4PE=",
+  "URL": "https://www.shotcut.org",
+  "LICENSE": "GPL3",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1593693630",
+  "PACKAGER": "Filipe Laíns <lains@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "qt5-base",
+    "qt5-declarative",
+    "qt5-graphicaleffects",
+    "qt5-multimedia",
+    "qt5-quickcontrols",
+    "qt5-webkit",
+    "qt5-websockets",
+    "qt5-x11extras",
+    "mlt",
+    "movit",
+    "ffmpeg",
+    "libx264",
+    "libvpx",
+    "lame",
+    "frei0r-plugins",
+    "ladspa"
+  ]
+}

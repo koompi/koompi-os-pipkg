@@ -1,0 +1,23 @@
+{
+  "FILENAME": "gst-transcoder-1.16.0-2-x86_64.pkg.tar.zst",
+  "NAME": "gst-transcoder",
+  "BASE": "gst-transcoder",
+  "VERSION": "1.16.0-2",
+  "DESC": "GStreamer Transcoding API library",
+  "CSIZE": "53687",
+  "ISIZE": "249246",
+  "MD5SUM": "02ab6ff39cd116e9c9c65305cc4af7f4",
+  "SHA256SUM": "beeba4a0d6834135c1efff83d15d7ff86e3053e13da6f98b717e97982b221f5d",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl8Ed9MACgkQeGxj8zDXy5KBSA//agy6sjJGSBGZV7zkcCUOMegBy/VGatRVMho0d48MBkAZGULfCRO2WzedVip6vq+5kpknnvtqrXXNkiEyH+q8YY29uQxbKy3uATNmROcZhOwuCgCmoExOQ7xsKc7i2XS7ZK0iDnz6urE+L6iNBjgXO2k847mjVfryphXo5Vbp29N7f4Gq0tc/EDW23fPKqrU1CZqTF0+gr2kXvknC6CAaFB5VMqfGdWWmDZtBWSdq0yYMZLlP3/GuMtJ3ekKZ3pBc+O6rr+OULPoTXDsJ7X2D/nSH4BcFbVggKulSBUYgHzmLFcFFbkPPhDxLZER2Hlt6SqkGHTlF3mJVYonvzoKjDKUz0kCcKZwB9SnbszP3uzD32nMKXO1IP3/koVnyaeggV7kqDTE+v+z448Hrb35GW8fZp7c8LYYDP1OSuMnIz0BOSpzSIz8W8qnJ2+usgRMKiN2fF1Z3QZjUcauauu+L/XjqY9WZg30Ev48x0d4epLH8P36c+/lHt3PilV1c4V2r2TuwNCU1OsMewEj2ByzWqB7RJmc0LNsooaNHMSKFOXayiaUWeXdL8m78aBKWf99QugHYyHCiIQ2WgCIuEfNz0kDBwvi9gcU1jCJIS6fmZiRVOWiygwdyBqBZYDFqDMyRYzbepjQ+Ax2KsGuOgWQokHTAPY6sxkLBetTF51bg7nQ=",
+  "URL": "https://github.com/pitivi/gst-transcoder",
+  "LICENSE": "LGPL2.1",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1594128275",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "gst-plugins-base-libs"
+  ]
+}

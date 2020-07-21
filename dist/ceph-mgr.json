@@ -1,0 +1,41 @@
+{
+  "FILENAME": "ceph-mgr-14.2.8-1-x86_64.pkg.tar.zst",
+  "NAME": "ceph-mgr",
+  "BASE": "ceph",
+  "VERSION": "14.2.8-1",
+  "DESC": "Distributed, fault-tolerant storage platform delivering object, block, and file system",
+  "CSIZE": "61377854",
+  "ISIZE": "755565802",
+  "MD5SUM": "dbdfcfb28af0db1e3aeea8bff1113e1b",
+  "SHA256SUM": "8102907a3fc687dca1eb59fdfff626a50c2c94e3e0ce5f96190975fe66f825e8",
+  "PGPSIG": "iQIzBAABCgAdFiEEBR6tamFVOJ1p2gLl63Y7Tp24h6YFAl5fZ7QACgkQ63Y7Tp24h6abcA//SZZPZoWYu/U1SfoI8IgPu+cot1aBRr4QVFO6t53KZXj39ONln3deNGzFdCkcLpeDCEf4H0FdB7vu4pCg9aNSR8QbIzIS8+zdNR6cqJ7/fwlLWj5FC8MAZli/R3txo8TlMMKrq3dDyohIii58XUQ/9qt99PxhTPK0SLBVE+ePIGPRFQHsigsvMfp0XGg6UIWnATrmfK5O5d9mho/LyMGfY5ouRk+J4dMyrZFT0us3UBxWSu3Ln6ktG639NpZ0Jv73OlZ/dY2FRZSD5Z06x7ZVUn0BUFUaoqlhnBcmGmFpz2QIsF5Zk+4f3lkdu01Rxiqjsmj44RcvKaoomMkVnLD1Sak/4OfqpaAXpbLUwOyDGfpcBgLO/AitEoN05gIUOw0L5vFxrBnAgo9IC7ZCyRwPtHLeSDNeolgavASHhMM7JJ+Akj/0VNwslJuUpamSX3Gw/AmJtrUmsV2E8vNAiyQnYjf6zy+IRycpdNYBPgTtmTXTHDl2qbfpHTzqgVl72AM2Yh1QFdEyeS5h8yL7DyinBqpZSManYbIpHAnUj+lRhS+PPHQpDQ98uj0N8cvxABXlGOYro8TifjkEbthM9r2VCFmuSR6wfESaV3bDaWCNpdZ8tEp/L5dglSaCkdHiZItOSeA0CfW3dgwvYVSqzqJK74/QE/2oPJ0QRu1/Wougfag=",
+  "URL": "https://ceph.com/",
+  "LICENSE": "GPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1583266920",
+  "PACKAGER": "Thore Bödecker <foxxx0@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "ceph=14.2.8-1",
+    "ceph-libs=14.2.8-1",
+    "bash",
+    "boost-libs",
+    "coffeescript",
+    "curl",
+    "gperftools",
+    "nodejs",
+    "nss",
+    "python",
+    "python-cherrypy",
+    "python-flask-restful",
+    "python-pecan",
+    "python-pyjwt",
+    "python-routes",
+    "python-requests",
+    "python-pyopenssl",
+    "python-prettytable",
+    "python-yaml"
+  ]
+}

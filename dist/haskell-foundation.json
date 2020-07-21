@@ -1,0 +1,24 @@
+{
+  "FILENAME": "haskell-foundation-0.0.25-28-x86_64.pkg.tar.zst",
+  "NAME": "haskell-foundation",
+  "BASE": "haskell-foundation",
+  "VERSION": "0.0.25-28",
+  "DESC": "Alternative prelude with batteries and no dependencies",
+  "CSIZE": "878846",
+  "ISIZE": "5192960",
+  "MD5SUM": "f9aa890b0790ad18dd0ea1ecc9e693e3",
+  "SHA256SUM": "be7245552fc6a599b0980319eb27fc4deedeaaf0a2a889379ba6c582859b7bf2",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl75GRAACgkQeGxj8zDXy5LhyhAApEt207TTcjonaGVA6jjHVe6FskNNHMdN9yn/MRI4YdUltjNha22Px2ExmT3KnkJp0hfxhsWGaKqfvsC61b2vjPXMM6t9nkjfn4dPEBxhg86ySmKVMvc441Xk1hZnXg5l2t1CG2YMZlE/s007WiG8Kw2ZaRsz7CyaaE9FDQ3V7/vqLDpx7fazEKVekSgteGKCC1RuK2HsFgWNgdruEAJf1yQTKa9d6yC63cyY+KeP29GEtaa8EzhFaJPGKlxEGRHN0/fcbt4CtLGf/f8S3pU7bnx71GvHJ5MCglzAMrp/b3W6bkdHk/gQwpBbtBzbZruiz+jEY8zM8Zh7r4G1gLA/zHHpbRcXnA5i+7BwEEKxXie9B17CiaQ8miU27zoUc7/PMYp6lgN3zzsVLl9EGCBygzpqK3CxolYFuc64Usrjwcc2VZ2O+wBdHEedPkrc/2h7z4ejeZmX5ckisBMe3wN8qeYShL3ivzrgZ0UkZoY1i/WxO3IentVAaNUUvl9xt9WortyShseqm80gdFMRxhHcCwSzNZ1Rz0UBaQUNwB1jJa+R/hHWc9yZTwyLujSywwxluonmdI3dypsmqGMmaOWWNAq9lQdSwwNTIixSkJmnDD8/1uNI1BgMUvduCXWy4w/Q8zMixy86RlRLMjE429Ak5HGn9yA9KkasUJN2awuHTYY=",
+  "URL": "https://github.com/haskell-foundation/foundation",
+  "LICENSE": "BSD",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1593383109",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "ghc-libs",
+    "haskell-basement"
+  ]
+}

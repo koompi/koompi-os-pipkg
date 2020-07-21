@@ -1,0 +1,24 @@
+{
+  "FILENAME": "llvm-10.0.0-2-x86_64.pkg.tar.zst",
+  "NAME": "llvm",
+  "BASE": "llvm",
+  "VERSION": "10.0.0-2",
+  "DESC": "Collection of modular and reusable compiler and toolchain technologies",
+  "CSIZE": "40350457",
+  "ISIZE": "263077981",
+  "MD5SUM": "4e5c0bd69bfcb0cb67959da2eb46d861",
+  "SHA256SUM": "40ec644ce432c4c0060d14fa3a4e928d862958f91fa3cb63cf4c8f25bee1bb2e",
+  "PGPSIG": "iF0EABECAB0WIQQ1W9uX7Uck5rOkUOej2VYqWJh0qwUCXsLErwAKCRCj2VYqWJh0qznUAKCpqGs7bByHTs7u4cpGHifQl00nogCgkrBfbxaVh94jVenDIM1sbURIMk0=",
+  "URL": "https://llvm.org/",
+  "LICENSE": "custom:Apache 2.0 with LLVM Exception",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1589810399",
+  "PACKAGER": "Juergen Hoetzel <juergen@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "llvm-libs",
+    "perl"
+  ]
+}

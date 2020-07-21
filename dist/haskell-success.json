@@ -1,0 +1,25 @@
+{
+  "FILENAME": "haskell-success-0.2.6-82-x86_64.pkg.tar.zst",
+  "NAME": "haskell-success",
+  "BASE": "haskell-success",
+  "VERSION": "0.2.6-82",
+  "DESC": "A version of Either specialised for encoding of success or failure",
+  "CSIZE": "34936",
+  "ISIZE": "173707",
+  "MD5SUM": "6e94bea8040a462c09acdb80361cef7d",
+  "SHA256SUM": "723acff5409ba06187b2fc6fbdb00a6ab5bb4497855254012603f5a3bed04c7b",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl75LD4ACgkQeGxj8zDXy5KLwA/+JGTYlwT/6k2p2JPn7944/OYhE5fzyCsivurIjhw17TxBMGcpx1n5ZtbNBwybxXQd1ItdqAGggVEsULj8nitQ9wfYwf/SdezkEXzzuQrLOHPcwKbjuTGueXPJ50B0AT55w9Iv1KPddsSdfT/ljXhrMSUS/FbS9XKGbMdZM41I6kff6ahvt19w7UT58nMQS0bhfvep6CY2cMraT5dVXCAssPYtBSgnJZLoas8/n7WKLdyXvJFmTxjV38lyVzpM5GNl3Ix90Pronkb4t8Xp0KCmInp3GAP3fRBSx1RBat8PMq1rLA0eFu3NpQLvzWjqKZBXn3/yiv9lIDgPWc8YSKNPxDrT8pOWvsGEhDfOxdppPlqBATr7SmMelrhRpO5KO6jF4M6KMoRjtXZ80ix7otCJj9r+hVBDooC48Ki2vVBsW9E+3A9HqqOQzbyMYJdKUJpQgObuR6dj+ojahUxcCvdYPaWybQWVmZd/YJd3A8pERAzkVtqRWn1jcyb0OpF1jrKmXUW+pDO+ESfms4BCx9UlXmAQ5zMxT0bDxdtOT4lftbJcBuQ7RPRIq/ADa1rp+zNYw4mwP1xKiyTHJZ+6m6Rpu0u3V0bBo8FHU4R922NrnEjZpZpxfFdGI1DxcyAB+NjJTMCOKiXOQXXoY3bGWQ+dJlej1whnHuo8Tu2EcJOcpE8=",
+  "URL": "https://github.com/nikita-volkov/success",
+  "LICENSE": "MIT",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1593388065",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "ghc-libs",
+    "haskell-transformers-base",
+    "haskell-monad-control"
+  ]
+}

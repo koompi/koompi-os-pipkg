@@ -1,0 +1,24 @@
+{
+  "FILENAME": "disomaster-5.0.1-1-x86_64.pkg.tar.zst",
+  "NAME": "disomaster",
+  "BASE": "disomaster",
+  "VERSION": "5.0.1-1",
+  "DESC": "A libisoburn wrapper class for Qt",
+  "CSIZE": "24752",
+  "ISIZE": "66944",
+  "MD5SUM": "f4aad5350161e3d2b8b7a10caeeba1cf",
+  "SHA256SUM": "27a7d17febafd8807ef9c8e095f55e093038acfdd8b279506ff69e6e34f90459",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl6mAzEACgkQeGxj8zDXy5Lh0Q/+JF0+bFAjbEJ7vHXrXEGsSo0seCxQZ/b3ZtIoCqz/GpbZI3UHSQVz7N7GzoHKDCMixWZRleLISUzdR9VStrn7tZmTcP8CqIWK7UFr/ZVGtl4ZR4Zi3wGgCpRSTfq5b0TTh45OPhnBoy67Ya0e81sRskMf1XJ75x3qtKbOPhjfMPmPDvb4AuVX+tXq+EuXmX2+Q9JnzevG+mzv7mLq40RRdV0uhsLcuM178v2a6t/QBS5xBJcqLOs+Rl+kgpxl24I4ERtdwvCfIHOJs7aK+AlRrInWjgjNKk2bpuTwgtvCVZbixMz7E6w9JQ+4MOwzCtCy/cD6FEuI55TMwE3rzfXsjB4OEBi6uinKRGBAW0FMPY2c4emOkDu9+6xGYl1junlpgAPI8MbUTuakEAitMmW8VyxffyR9MoorijhbseG63mWyGGyobGIpeJegASbwN8GE5/wvsSwA4UmpXiTtzt+B/w8JHaTWOJ1uEF/b1wq1l0r5qZTaTOOKUYNkgr10Y4pc46uf4VHCiPZNzqMNdJ/d+sqHl0xN3VExSX3lE/U+hDdRDdnp7DrRYHlDONvOK8jgyexfYMj8ix7F96aZBTMh/j8zCmP/zmrd23E3y5X9FtSrgfKFZIrfxgLi5Ac1XQtzvtzXkCNNWnH/EpXeMAVtgTeXr6mkrTiyo4sBf7p/V9g=",
+  "URL": "https://github.com/linuxdeepin/disomaster",
+  "LICENSE": "GPL3",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1587938067",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "libisoburn",
+    "qt5-base"
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "FILENAME": "notmuch-mutt-0.29.3-2-x86_64.pkg.tar.xz",
+  "NAME": "notmuch-mutt",
+  "BASE": "notmuch",
+  "VERSION": "0.29.3-2",
+  "DESC": "The mail indexer",
+  "CSIZE": "9936",
+  "ISIZE": "11479",
+  "MD5SUM": "744a54b19ddc7e48d252a20dc028ff82",
+  "SHA256SUM": "7d991aa7807ea0ea2b9333da79a807ccd0e7ad2d909c43007791149177803491",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl4EDMcACgkQeGxj8zDXy5L6lw/8DGSU9F5oBGxQPWQucURVZ6Vmba0Ez2wtw63pYN6XpA5ANYT7HDawAW0/aoI9zUoyvA0fcJ/9WmI0QQ6NV1cLVtEE9dl4vKt864AFrDtICfjW5uu/O4iborazL1phgmegdWIFHELgrbVnJbuC2QeR0i8R1BRJH32fqaBNBVVORowamYTBZe1tOcBRBD/XhN+H8QbybhmSPRC7aj4MOCJ6GNi6kHhghTfUnDDo9l6Wrq1wIYZoFYiNquitB7X3yT7J4xQBt7WfVQcOV9K7tfhiB/ruLgrPBuxJa0IIhEzYVhr4eiVBmlzJIM02OGoROxP4fL3GLFxIadMSyMo+s3hh+HaGR6rSFf1XHfldu3hf3WiJl3bo2wzh+GHr+NyDkvFIJpZkDxTDFRxkcrJqxKL6P7TGBgV+WichwxKdlK3RnPTs88WgfzCsMOAaOb1QbyuwaXw+p9X58KbZO0fiADWrMVkeH2s67+d/L3c88mqms5aNGIOuygDR92aqxZ4kUhdtsBE9BAbq7p807Lea2WM/TsCg4zkAedEsuBvsMptatwfLjDbO7zPZluDVaRTf4yVhjSSFkvY5bH62PfF65LNUNn3GZMg5FLgdRw2iRZJSxNE3WiNbEEtCSwqZZ9dwbuHIP+ZK6xlN5LUcIAJVhMRQWuE2ITs7FKY1LFyhCl74yzU=",
+  "URL": "https://notmuchmail.org/",
+  "LICENSE": "GPL3",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1577323587",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "notmuch-runtime",
+    "perl-mailtools",
+    "perl-mail-box",
+    "perl-term-readline-gnu",
+    "perl-string-shellquote",
+    "perl-file-which"
+  ]
+}

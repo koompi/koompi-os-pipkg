@@ -1,0 +1,23 @@
+{
+  "FILENAME": "asciidoctor-2.0.10-2-any.pkg.tar.xz",
+  "NAME": "asciidoctor",
+  "BASE": "asciidoctor",
+  "VERSION": "2.0.10-2",
+  "DESC": "An implementation of AsciiDoc in Ruby",
+  "CSIZE": "383976",
+  "ISIZE": "1642189",
+  "MD5SUM": "23e53c5025b9bc1f5012d666cef097c6",
+  "SHA256SUM": "b81c8745deda5573a37ccd3cc3179a8c9b1673e909eb1b6550f58d7fedc13278",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl4D/bYACgkQeGxj8zDXy5JMxg/8CdaVwTJuMB2ZZTSY1Sp0JFfjwAuWPuR3a/RmjWHnnEhhQdibCerWZXphFyiejDRZPw7d/qrqZFg38pQyJk+Z8HZeTyfJmMczbkDCJqgJ7jD5hU86osaWc1eZ91/YythVpsVbJQhXETJgEVvbDXwnQ3z3/MZ29TW2bNUJ2U7AXaC4AQA+tUfOgqowwAbKTSc2zhJuAKtjH+1qKVK83I0pARrKyZuVc5Lq/dDOLzhLBE4KcDWapEkf35xZPCXt8gLkg5TUQf0qEC8YQOO9hse5wTEErAvbWmoYPXORIdWuMpRAm5C84OUrarqetd7oWuvIYBz3gj2YqeEg8HZvzzLDF9lk0tJHeAQ9kh+nuL5ixM9p0tUBTjVVSGP4Z6iysiRS+wHiLHBZDd8eNi5b8kbBMy/dQgYbrG26N9Ly3AwcdDsSNGkANZtT0LP6945S0ooHDjIdOzBJDvsVtReBTH5FtZ1qh5uy9IywuviDPlOvZOrc5NRMiNRhn/qvl3vp7lcrsebrYVbQsxGV6zDR5OxWXNuSFr15Q/DHHwGlyU+gZm9TL7nGwI5M/V3hD2/WXxbrIRb2VyKdMbYZ5K7rCEZDUAblwuGrX8gacMeYzQM5A0QBk5wZkee4UPhjUngD9SmhBQrIV93LXFuA3W14G3QjVf6ae/3Z1ldVbH2a62nriho=",
+  "URL": "https://asciidoctor.org",
+  "LICENSE": "MIT",
+  "ARCH": "any",
+  "BUILDDATE": "1577319825",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "ruby"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "FILENAME": "perl-www-sms-0.09-12-any.pkg.tar.zst",
+  "NAME": "perl-www-sms",
+  "BASE": "perl-www-sms",
+  "VERSION": "0.09-12",
+  "DESC": "Perl/CPAN Module WWW::SMS : A Perl framework for sending SMS messages",
+  "CSIZE": "25627",
+  "ISIZE": "79164",
+  "MD5SUM": "3057456f116a24bc7b1399f682ea59ef",
+  "SHA256SUM": "9d766202d49d7ecbb45e687d966cf6231f1c186ba9ebf417ad09dc71219fe17c",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl7viaEACgkQeGxj8zDXy5J0yQ//XGIyhSt42ArU8Lg07zd9zb0TWby8pCATBEpVecllwLn2FKNXNcEoMDk37CxknqimEc+eRJR0VstKr7N1qS1FqDnXzg+hGkZejcc5jzJvMk1BYGXfGXDzWsCG8jacPidcZS5HGL394dqiCtV2TdkbNdLN5aGxavtHrevOk3GyrCI+TQGsDTv5OXenJdk/5tkerlIk/gCN1eH5bcRz2LAL+heefMSU2EG7wTTRxadJi9gO1NcsoaWXbDlR4/Me+zcG9h8OcwiAnnULKfRc1N3dyk0baSK7hYdk8rD7m04erC5XjiHy6Ubgs6PWbz/kWY22B6bUKBrUV9SydCiLucy1BhksJqdXC6/aOayTIPFRxcTMnYJ019qZtJysjL+gUe01nIzJtstNEEJzlJedgDFyFJpYGFZRiovdYue+jFURT26jko0GKcNuXoVXm6AalYsoZ+yQZmVRMhyFUHHZaQbTBrwMeVTznmgz2UIkMFkf/+8bOb0bQxnGLxHXnra+fX5ewbVFzGIgBKENvgkS80BBJFstVvy6KzUBJfXspvmyi8Wjqw/kg8mDaXNhXPmgM14XOlM8vneAYMctzRvlI0S2Vf+nrhYnSqqHAPN1nLi8lPLtfmB63C7y6gxwcawlgJeYmW1aR+A3Oyqn5H3xmT1RmhEqgoWn86FM5iJeU/thsUg=",
+  "URL": "https://search.cpan.org/dist/WWW-SMS/",
+  "LICENSE": "GPL",
+  "ARCH": "any",
+  "BUILDDATE": "1592756575",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "perl"
+  ]
+}

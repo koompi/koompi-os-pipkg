@@ -1,0 +1,26 @@
+{
+  "FILENAME": "cryptominisat5-5.6.8-6-x86_64.pkg.tar.zst",
+  "NAME": "cryptominisat5",
+  "BASE": "cryptominisat5",
+  "VERSION": "5.6.8-6",
+  "DESC": "A modern, multi-threaded, feature-rich, simplifying SAT solver",
+  "CSIZE": "517578",
+  "ISIZE": "1511827",
+  "MD5SUM": "d54d25fd735fd234e87b20688176ceaf",
+  "SHA256SUM": "f161148ecad540cb4f608ff2306f2c9bc91b2d4cee214ca317c39bac1e97a03f",
+  "PGPSIG": "iQEzBAABCAAdFiEEhs/8qRjPOvRxR1iAUeixSKmZnDQFAl4vsq0ACgkQUeixSKmZnDQulwf+N94SNxR04PpSUQN0rsQrXkezLGvLVMiDo4Y5HhxuJdiZmOcsigZ/i0PT5VEgbhoHMs6JWfnHrxxn3Gn9fN0LQcJFnMkLXRWeIt4kIh5JCwEUwWO3Cy3YsdQiX+w3r3wsTEqP1jJON618ZB/aYj4HJ5XJ6hvo9kF24YBoaHc5pkWJSUTdryLrAr85s8IALlLuepvRFlEJwr8u3lZzSAG5Vq+QNLil74tgXZadQEPnTOMWJua0LtamT0Logyg9EGahSccxkIE5TnqSIhOSAn4S8VOZtAVygNPKGbXPd9FZIjTwxxfSB44U6LjY3eJ8WNzNbjUvYfZSB8Sq0fmNscezpw==",
+  "URL": "https://github.com/msoos/cryptominisat/",
+  "LICENSE": "MIT",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1580184194",
+  "PACKAGER": "Evangelos Foutras <evangelos@foutrelis.com>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "zlib",
+    "gcc-libs",
+    "boost-libs",
+    "intel-tbb"
+  ]
+}

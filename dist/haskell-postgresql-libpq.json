@@ -1,0 +1,24 @@
+{
+  "FILENAME": "haskell-postgresql-libpq-0.9.4.2-10-x86_64.pkg.tar.zst",
+  "NAME": "haskell-postgresql-libpq",
+  "BASE": "haskell-postgresql-libpq",
+  "VERSION": "0.9.4.2-10",
+  "DESC": "Low-level binding to libpq",
+  "CSIZE": "136391",
+  "ISIZE": "740495",
+  "MD5SUM": "21fbaa932b82a6c0a6b760b82a04b749",
+  "SHA256SUM": "ffcbcd228c2cbcbcd2c7266c017c77285cebab4f597379033323ed1f198e6661",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl6hpqsACgkQeGxj8zDXy5KyNw/7BaDhK/oeAxrj7OyswfbVxyE4TmJkuNyWrYYhhOowyE2n9xbd/laEeqGvjICaCJnJnP7oeVi70qSy2yj87FRAfMYhZGAxOPrIGmJANcimdncgp2IoP1YKR/83a+WFFV1agY8VpnfmpONs8qmU3Gz5LqIaeC7yfV+cRGm5QVKwFgqhAkfaM8XvoOqs/iodpkhJa1Y6b1Q9nz2m/h1HpXbVCTp9DI+SH1+CxAv0plfcn9o4GJla3KCiS5BgeG7GRXVu43AbGwQVC2iFp7zDYU0O83GkRvInbp86aEZg2NJoNjRveC9FsuDESAVnVRDFAZwNASo9OnPMNMSGo0ec+F7vpSeLN25NzdDaGgUV/fYtCFQRf7nohgm3ykq+6yU9vek73BsGpId+NwxDiLLLvPLm424YqSjgKmTnHPK4nZTE+WlkSWXwaFJeM2kzP5AaEdUH5/fGdgvDw2sNSvf9UfWmiQiJST6Y+2vNJHRR9Z/QVcz39687Fh2BooW6kMWZ+uS1kbR9PvEMGRINKSQOELlf97AOZbon/ouMcv1ClPi4LmDSUsHKmo47RZQSBPrp3NSpqVGb2ppa/36a/eLUaN6OfnVJ08NQSpYx58wmvXDamaEyXaYDxqI9JnPLTE8IE+uxB18CX92PfeB/ZNN3qVuVEnQQRWMoozluAhzf6IC1X08=",
+  "URL": "https://github.com/phadej/postgresql-libpq",
+  "LICENSE": "BSD",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1587652176",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "ghc-libs",
+    "postgresql-libs"
+  ]
+}

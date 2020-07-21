@@ -1,0 +1,24 @@
+{
+  "FILENAME": "lib32-jansson-2.13.1-1-x86_64.pkg.tar.zst",
+  "NAME": "lib32-jansson",
+  "BASE": "lib32-jansson",
+  "VERSION": "2.13.1-1",
+  "DESC": "C library for encoding, decoding and manipulating JSON data",
+  "CSIZE": "29772",
+  "ISIZE": "67051",
+  "MD5SUM": "bb0d12f492d2b0e107518b8d725454b2",
+  "SHA256SUM": "54de0aa84ff1073fc41da6e4ae80d464fe23bbda77fc336ab6b358ab978b6fed",
+  "PGPSIG": "iQEzBAABCAAdFiEElDfdOBWnqRaePTlGr/XZUJi8b/UFAl7klhgACgkQr/XZUJi8b/UlzQf/RXygVLefPQ2ouvsFaISWCiNF9ElSZiihNmTkOSHWMa5Xrsa3yJJWJlp9kRiWwNcCBqSC9MhcAkwl+n1TzbqC/1KfZ2m5fm5JNyIUYdj9UBJVjQrM8fyGj+8JIjYgXWotwGOQ22uUdzRMzO8UHYPH5SIH9pmCP1OGhD5jicJyvnnPQKvE3rkQug6kcqjhQmtz9DTfZym6ft5Y35s+XPLS3P61xoX5DOF5d91M4WuVbZDr6IPwEgn2SpXT211PTdjDFhrTXGn4CRhcjjBHuWnLyFr46YOZfmKr0s4CVDmdKXI6siSU/Vw9mGoKy1Q/mTFHrd5lBhzs4NpooHD7cTRCeg==",
+  "URL": "http://www.digip.org/jansson/",
+  "LICENSE": "MIT",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1592038903",
+  "PACKAGER": "Maxime Gauduin <alucryd@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "jansson",
+    "lib32-glibc"
+  ]
+}

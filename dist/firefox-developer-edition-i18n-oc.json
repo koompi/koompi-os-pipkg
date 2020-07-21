@@ -1,0 +1,23 @@
+{
+  "FILENAME": "firefox-developer-edition-i18n-oc-79.0b6-1-any.pkg.tar.zst",
+  "NAME": "firefox-developer-edition-i18n-oc",
+  "BASE": "firefox-developer-edition-i18n",
+  "VERSION": "79.0b6-1",
+  "DESC": "Occitan language pack for Firefox Developer Edition",
+  "CSIZE": "515172",
+  "ISIZE": "577626",
+  "MD5SUM": "348d4c20b69b6e64a8bd9fb0e2ac9434",
+  "SHA256SUM": "f3b6da91f33a53a4d80b6e030fdf2f26f0e2dff09fb4652675c46cbc6db444fb",
+  "PGPSIG": "iQEzBAABCAAdFiEEYB8g8dG7v0p4z1tt9rFhCz7NvJ8FAl8IbNAACgkQ9rFhCz7NvJ9fCgf+MOqIFECLL8EKXMRhoujURUwyS6gHlDwxe+CXEmLcsnhkFNcuAU2Uvmk7ZTGICt1Iao12xpDYTr837ViOGrCyuzzKYAayeaSU4xwZXtKMYgGWAsegjzVWM2QlUajMPLGMd7VyaNGexktaRoq4/59Q0XeSCtzRkDxSQys7sGqJB6wGdu3Cuauz7OADr81txRifLnKNfje0IPVZK8OJNSxXOYu6s98PN9Xo/O1NZfAlEF8NITGA3Ta8QLK4jhcdUEhkbaTkyMK1r12dzWO8/KnP9S250izPihkVFtt4OojW6dpP02zVOfTXSHn04B0Wyfta3c7q4vGYavYJPjBCzW4RXA==",
+  "URL": "https://www.mozilla.com/",
+  "LICENSE": "MPL",
+  "ARCH": "any",
+  "BUILDDATE": "1594387381",
+  "PACKAGER": "Andrew Crerar <andrew@crerar.io>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "firefox-developer-edition>=79.0b6"
+  ]
+}

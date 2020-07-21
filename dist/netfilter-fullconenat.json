@@ -1,0 +1,23 @@
+{
+  "FILENAME": "netfilter-fullconenat-r73.0cf3b48-30-x86_64.pkg.tar.zst",
+  "NAME": "netfilter-fullconenat",
+  "BASE": "netfilter-fullconenat",
+  "VERSION": "r73.0cf3b48-30",
+  "DESC": "A kernel module that turns MASQUERADE into full cone SNAT",
+  "CSIZE": "9480",
+  "ISIZE": "6591",
+  "MD5SUM": "665c59cff5ccb451cc6ef0f86fde0187",
+  "SHA256SUM": "3762fd495cc5e5f64e95f5413c673ab92785c0b30c57384a1d20d59e22c46c9b",
+  "PGPSIG": "iIsEABYIADMWIQQGaHodnU+rCLUP2Ss7lKgOUKR3xwUCXvzLURUcaGVmdGlnQGFyY2hsaW51eC5vcmcACgkQO5SoDlCkd8fNmwEAtPZq7z+SyE5rIg9Uy1GGBRXDF8FeOt3b5TZiOKFmQr0A/2FAA03k8/wqSxHstZKTkdjtRgREzSjU34tfoNMaRuwJ",
+  "URL": "https://github.com/Chion82/netfilter-full-cone-nat",
+  "LICENSE": "GPL2",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1593618284",
+  "PACKAGER": "Jan Alexander Steffens (heftig) <heftig@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "linux"
+  ]
+}

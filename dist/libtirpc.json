@@ -1,0 +1,23 @@
+{
+  "FILENAME": "libtirpc-1.2.6-1-x86_64.pkg.tar.zst",
+  "NAME": "libtirpc",
+  "BASE": "libtirpc",
+  "VERSION": "1.2.6-1",
+  "DESC": "Transport Independent RPC library (SunRPC replacement)",
+  "CSIZE": "181501",
+  "ISIZE": "445142",
+  "MD5SUM": "1ea638d46779a08280b7e98be403617e",
+  "SHA256SUM": "9e67719e7e371680f89e7faddf94b21193cc12e1749a9a0c1595dbd64d129597",
+  "PGPSIG": "iQEzBAABCAAdFiEErcih/MFeAdRTEEGelGV6sg8qCSsFAl6RkaoACgkQlGV6sg8qCSv+XwgAlkNLJDmG8BYe5L4V+RnxV9xzrL1d8paDDNIfFjc9bBZAH24Lhir7gTYq8oJj9tSF8EJ76eSVr8/Q/nEvRm3XacdacAOW9LguQWYlm1+J1sPWZaS5uGrNpa5H3f6zwtKgs5RQ5qkZkyjjXTHawm7jhhrXOi3p93I7zwp7o9ki//pCn9uQqxwm+6EN9PFK24J9g0zDrujV21HzCLUuzWy7Hx/K1AFiFXJu5Uuo5tBxi+4TJldibhNz1eUZGVPgZwqguTMoqPeWKwuaLW7J88gxtZAKJuq7WfW+gASzUjclD34FbpO/RP0y+EeG1gN9zuQAooHhAX0NGy06AH6vObzOEA==",
+  "URL": "http://git.linux-nfs.org/?p=steved/libtirpc.git;a=summary",
+  "LICENSE": "BSD",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1586598224",
+  "PACKAGER": "Andreas Radke <andyrtr@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "krb5"
+  ]
+}

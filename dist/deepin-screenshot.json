@@ -1,0 +1,25 @@
+{
+  "FILENAME": "deepin-screenshot-5.0.0-4-x86_64.pkg.tar.zst",
+  "NAME": "deepin-screenshot",
+  "BASE": "deepin-screenshot",
+  "VERSION": "5.0.0-4",
+  "DESC": "Easy-to-use screenshot tool for linuxdeepin desktop environment",
+  "CSIZE": "354349",
+  "ISIZE": "1245575",
+  "MD5SUM": "373d9288a19be06a3e0127fdd5c71433",
+  "SHA256SUM": "e41cda9f6ec447b84e4d388e60423d1130f56dd1ff4ff6411d21ea99a110b480",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl7KllwACgkQeGxj8zDXy5K6sg//fwhwIlOmn/zqwU9Ue5DIy4bvfo+u4/ZCWIC3qLj64SBSpkWDHx2FRqPXRBO86XT8mLB/ultvcnLZmBUwa1xppsNRyJmiNe6ADDkVAeAspIhAGAzUHGWE3WwsY2pU1DYiWkn6JFWcqm8QYqsp9Nv6acTW8cvwTuHMZ6VaP61mKQumbbu6RVGREsTYKnXWrWKdC4mobGaQUZsZw+UxEMXIkGlAbgxgae5C0YU8hj8vTn7Pkd1Hnrg9lTquRoa+IY2yif0SRSuuhXtPKOvD6r0a1EelrEIrIjo1cU52LJf/6++vtn7bNw68GZwzbPUGoLohs4TmikSz+PvqLSNEUE+fe8baDLTOfuuGpqwVWseOk2bEQI3mIsKVnJbJDldav+l4nDRi5hrWC93yvWPwdBl3zQ2IKMeiabX3rrXzrPOQ4Iiz3scImN7hveHACABUmbeSeyZ3PDXjdCDQDTKrV4iraRjYVfMG+Goyn+QbX9G4BcfJCHOWMRfCpoTBk15IJB7W1om5Y7G1QQtbMdvnXBvst0ykshxg9YI44AHACvj5HDHldtWMLijSivaZKrDWj5Nl4pBLJSPwdTWcSZM0HaVUrf2yJ5fti2JnmzHXd5CLMRNWLsVKFmtJUjki5qlW8GEkEYuUq7CbkkwudYQ/9JsaCv2zzn+GxM9Gh5+qErp5Fcc=",
+  "URL": "https://github.com/linuxdeepin/deepin-screenshot",
+  "LICENSE": "GPL3",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1590334945",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "deepin-qt5integration",
+    "dtkwm",
+    "deepin-turbo"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "FILENAME": "libmatroska-1.5.2-2-x86_64.pkg.tar.zst",
+  "NAME": "libmatroska",
+  "BASE": "libmatroska",
+  "VERSION": "1.5.2-2",
+  "DESC": "Matroska library",
+  "CSIZE": "162017",
+  "ISIZE": "890030",
+  "MD5SUM": "05aac657a3d0731e2528d580c2d79d5d",
+  "SHA256SUM": "3425ce5bcb6a85f7a893b4fc17bdaaa41be8454ed425b75798fc608450c7896a",
+  "PGPSIG": "iQEzBAABCAAdFiEEhs/8qRjPOvRxR1iAUeixSKmZnDQFAl7DlZ8ACgkQUeixSKmZnDTW0Af/QLlSB5TZXtT6YG7MKt+p5NJL/ynbSaO8MrKX6FvpCg1gJ+pF0n/rYd565pu2Aptf+GKsgu4rcIozTvmLy5Pi2xbSUsg5wtnI/1YO+fy8hq5nZB83Mg5wCcJwGzL8imv0FmETWwubN0JMM+qjm5D2U4SzuOG1mLplpXDc/0a83f8ksY5p0Y99/xzi6KWP4yr0eMalrzGDjv3sdtSdVf+3Sk3k7OdcxP3ZLBn55xFzzcMYKcX1f4lYRQDrMzhBeEEgH5q99oLl7BIoUNCo3llJJoySk1pG3CuO2o1Ig2uycXUN8cwAPV1JNdLoO5rq2RIZ8/V3CHG/yAzWjPMjA06q5Q==",
+  "URL": "https://dl.matroska.org/downloads/libmatroska/",
+  "LICENSE": "LGPL2.1",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1589876101",
+  "PACKAGER": "Evangelos Foutras <evangelos@foutrelis.com>",
+  "PROVIDES": [
+    "libmatroska.so=6-64"
+  ],
+  "DEPENDS": [
+    "libebml.so=4-64"
+  ]
+}

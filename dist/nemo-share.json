@@ -1,0 +1,24 @@
+{
+  "FILENAME": "nemo-share-4.6.0-1-x86_64.pkg.tar.zst",
+  "NAME": "nemo-share",
+  "BASE": "nemo-extensions",
+  "VERSION": "4.6.0-1",
+  "DESC": "Samba extension for Nemo",
+  "CSIZE": "67886",
+  "ISIZE": "288805",
+  "MD5SUM": "9530f46c5e8640926d20ff25f4fda127",
+  "SHA256SUM": "65588039915337fdccbcd51764d041601361599d66a4bf05887a8b2d4c3e8068",
+  "PGPSIG": "iQIzBAABCgAdFiEEYEETBMCdNmKDQO7/zrFn77VyK9YFAl68w9MACgkQzrFn77VyK9Y/5hAAnK2HSOWa95FxMOVWWZwMMhI/7ZVrVnt63jdSrmaAGHguiGFAUbhJtyXF79UvlQgOV1GtDT8zygQPT+L0AWCb5k/4mQA2poPiyx4G4luMJlm4cG/guUgtPOcBy9/Zh5+lssqIyT2vSNLfEQ0dJWFqcE37jnRPiVLK8n8Xkdfirm/nq2TY1vUFruBmK3uLxrYD5QOelmhe66N4SmTVeSy7eQietRcrkKlxCoRuAVg2aLTzCVYpm1k+A1+sWVQcLcLucMamZUko46ECnPRyIJfiCse+ZO9/xMTC//yhiYEHsVDkjLldM5KAXRTCppgeqDy6QpuLFuW/j/sJGvLZ1oPZWCSK5LD1RkV9eAvOMv9lnIUNoGLVJdeJaSqaSHYvhEe7HFG+DVm4IFBkSXkK+wgnRurn1ycSuMLa//NDB5hE1pcKP8oYG/wyphPUylDY8LsZNUgRaLo6n+BW7ROcwIGWRUXBBMChRbELybcHS4UtPcQpdvEnQLIgHw+rBXFzhtXLqV+PZ6g3VH1BTdat4cTLPq/6Kf5Xwlgl3InO7AahVKLM6XE+60InkJYbFXe7N+zzvRPU8xpnL3uwuyADMAVk+SvkPem+9GPGMU756MEyllG/RHE1r5aDHT1/g+gUTlkjccOggNnk9K5Y2NYWV1q8vr5NDMJqYHvBRzPIb/nuR4k=",
+  "URL": "https://github.com/linuxmint/nemo-extensions",
+  "LICENSE": "GPL2",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1589428185",
+  "PACKAGER": "Eli Schwartz <eschwartz@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "nemo",
+    "samba"
+  ]
+}

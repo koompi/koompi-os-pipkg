@@ -1,0 +1,23 @@
+{
+  "FILENAME": "python-tailer-0.4.1-4-any.pkg.tar.xz",
+  "NAME": "python-tailer",
+  "BASE": "python-tailer",
+  "VERSION": "0.4.1-4",
+  "DESC": "A simple implementation of GNU tail and head",
+  "CSIZE": "8892",
+  "ISIZE": "27526",
+  "MD5SUM": "bf45696524f630709b7e7f8333a14aff",
+  "SHA256SUM": "b69bdf1f58af54aff5a6c64270097bc6c69d67125378b64f08d5ced392007c03",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl27HuwACgkQeGxj8zDXy5LJKA//eAKIWHmy/Bljpm+x527ZU6mvCbVH+ajs746RZ3jLARDcAQeSap/Twv1C1qbA3709efMZhURjRJngAvdzr9pVS4noBDj0l07d1ihwIykjShe/d+lHeiZs42o6wR96mMV2L/y+gALMVxpU5lpiz4wuBWnRMR5T0aglXGhq5+OpF2TLG7DD8UMY+6nszUFrRfUW4rKzqvi+oKsLjuiI7Q2VjyGOmymkVpQMh4uZvD1Ly9iO+mZG6jJ8P7whzK4rJ+oAeJP4dekFrRxbWw0Hju4rkC3BVobb370ULu8HBXhy9mDB3i65E9P0tt0hhvnxGit/pC0gjfdEbcWupk36p9GzcKQymAeKs4Xy3G2Rw0w+EQNfKfsWmBQko3jd/v1ckdZzh5/ezxumFPny+xpZw/m+gRZKXppy1tkSuCjH7NQyJg5MAcO5yHfDbcS9pQr1jU96h3SQlm8Ao3BM1NW1igJwvEpUPSIoJNtq1rcJMI7LjvWc++O6kLvMRZzHIVsokWbw02xCVHfysP/YdWEM/nGFp9+gJkVDjPnwpMRD0rEtxjH7LyQ+Vb6nKAnBNuZMU36p1J57XEWNk8uVRQ26rpYgTN18EC55iZX1NbeqXNJBFaWEMH71syHhh14gwtrjmZY/Sr5hlQ4sKlGMX+JCj7R8X2pwdcUgn+Aqha33RZIoKb4=",
+  "URL": "https://github.com/six8/pytailer",
+  "LICENSE": "MIT",
+  "ARCH": "any",
+  "BUILDDATE": "1572544200",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "python"
+  ]
+}

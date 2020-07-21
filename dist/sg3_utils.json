@@ -1,0 +1,23 @@
+{
+  "FILENAME": "sg3_utils-1.45-1-x86_64.pkg.tar.zst",
+  "NAME": "sg3_utils",
+  "BASE": "sg3_utils",
+  "VERSION": "1.45-1",
+  "DESC": "Generic SCSI utilities",
+  "CSIZE": "881337",
+  "ISIZE": "2776904",
+  "MD5SUM": "bae5f9a004f4b69801055347f94e703c",
+  "SHA256SUM": "69097aabcbb55347d488cc30317104ca9c3045103a8fa1e417456cb62acd8cff",
+  "PGPSIG": "iQIzBAABCAAdFiEEjhmSFnRl21+wRVV8sChU7XU+Dx8FAl5n1OwACgkQsChU7XU+Dx9cNg/8CPf+WlsclwS7kYjrMyFzl4YfNnVrX+ECAJzZuLDqhWPQwKssoAanbmeSyJDUQXehdR9x3aUjwnMVaDf4UeP7UXAk1sFltMJAmsTB4vkfv4w2wJ3e+kBEW2Aw1wi35hJhBcAqDflH7LeGnEXP6ZNeCQrL8N+wU2IBEm9TiKIlRoM4Xx392SMESNTGqAmUUeLjxsjGpbPBiu0eoliWL8T1jKfcX3FOSUibeDNuX9Ard0PEU9a8aIYPMynmhFDd0fa2ylj/bYGBHlsc5CPBJkQZxIHNLKtoWN9PfBw1DKRuIN1+qj4cWFgTQlNAnrNWOSUxoMutRjpF7T1FAlrAqXYdDY7lEjdV3Eenbj6CTABwOMC0oLsGbMxQuZtuuXE6MZWQWNHRunHQm93LMXsYCf5Z33Wxh5sr9aOGPo5/O+cY/g6kM0SwRAfglqX3e9+g7qwAriCy80F395iDOeqqAKPAQW9xf9rjlMvko0iV1OAoN+k2eEIS/t8bUqe/tDzoUx3q62SiZK2WV3xr43iNWRUKXvu9uPTRlpKTv2hUANQC+jnqdp3IffCZs3g6Yu6c2Vv9ElLPVOYW8Q4/pfeSLRiIcsCkQONLWfRJkCdStQCJLwdv09rUomJGdbA2siGT3xinaTG0OxRuEaY3dagIWLNH1FSSyiEFwYYUivKLnDpybUo=",
+  "URL": "http://sg.danny.cz/sg/sg3_utils.html",
+  "LICENSE": "GPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1583862489",
+  "PACKAGER": "Anatol Pomozov <anatol.pomozov@gmail.com>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "glibc"
+  ]
+}

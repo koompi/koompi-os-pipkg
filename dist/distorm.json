@@ -1,0 +1,23 @@
+{
+  "FILENAME": "distorm-3.4.1-2-x86_64.pkg.tar.xz",
+  "NAME": "distorm",
+  "BASE": "distorm",
+  "VERSION": "3.4.1-2",
+  "DESC": "Powerful disassembler library for x86/AMD64",
+  "CSIZE": "39136",
+  "ISIZE": "121757",
+  "MD5SUM": "d4439f4f2fdec167048c37f00d632c66",
+  "SHA256SUM": "156eb5fe5ad97788a307496203a2e90d29d75a1c54eeceefbb82031d643610f6",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl2/1s4ACgkQeGxj8zDXy5JAvg//eBAGbWGxvDOftF2iDvJTDHZm4r6tSuuIi3H0cipcISqQAvHVLvlJaQTKdwPckyA4qCvsCpeAY3UEBLkZdPLgzUR5q1nT3LwLDHLiJUhA5kxBSKxnF9lwPl742TtzRkHU2ch4YdIMd8pZd7lruJHldHcv849p9BIAxjMx4KLzs2avFTzSK+OLCHxX43CwwRnNyfTCsTJE+Vk8KfglXutKlAVo4fXPy+pMRRsC1gut59z57xUpCMasiQImj7BD5JAIOq7VD6uBF610KXO98vMogfxm2s4YJGtUMM+wRPEwvBY1f7cYefTfxCOgosHltlJpqB5oUk98UiC7ugwl3+QUxhqw1f5so79quJQ90NB2AT/nH7gd0X58LnBrCQwWxpal4trB3cJ5730tQv7UoIWgibpwEBRlh0mW3zOFKyXNvGSIhSel7m2ovqFjQn+elH0IsFbC+wb2zS56vUFHDVsPKhl4n8/YewxTN0DW/LDKn9H9vHvvfCP8+F8MPJfZ0acMTk3enE67OqxVDhcRuM1NuHjlFDeyFEnvDVpvUfZoa0qCIjz4oVE8X9FpjXg3IXy8moJOpzzEWWnHbjw7wFyVr+ByugdvIOZH8i+Ux68zxDj/7p8gWQzThZAvqEMsYccnLRAdX/jMTB+aZITKvxTz8wCGp5xG9O8nKEB+klxQzXc=",
+  "URL": "https://github.com/gdabah/distorm",
+  "LICENSE": "BSD",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1572853412",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    "libdistorm3.so=3-64"
+  ],
+  "DEPENDS": [
+    "glibc"
+  ]
+}

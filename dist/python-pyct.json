@@ -1,0 +1,23 @@
+{
+  "FILENAME": "python-pyct-0.4.6-3-any.pkg.tar.xz",
+  "NAME": "python-pyct",
+  "BASE": "python-pyct",
+  "VERSION": "0.4.6-3",
+  "DESC": "Python packaging Common Tasks",
+  "CSIZE": "21712",
+  "ISIZE": "82214",
+  "MD5SUM": "8cdd5bb56eb73ca749790731ae7e4419",
+  "SHA256SUM": "b9bf4b2cf5d72e12ca8af028373467a59661621839821363020bf6c14e4b4e1c",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl28NGQACgkQeGxj8zDXy5Jb2w//VwH07bS7lKZ7GAwwP1/vp+dO+SqNpleYLKjsORlOhXriadfW28c+hljRhV2mpTdQo6bmwC9lyHAOKoI9CiJnhFmWVKNk4RhBXs9oLRTyAHwZQXv/syuQT3J0iKMUe9YkPCN/puDg97/L4sEFBSSJ/Mt16d9JCqmQQLTs3SukdlGnMvBRxOvkoQEr/9SfzbdgCITO++O5pheYAbEaG/UKLL5wOAID8KtkEntnByPa9pLzkqaN07PzjhCHZ2MuFZW+Ciysyx0olztiJhuU6wZZAWeTmRdiX5lZDlWKk6rDrP++6oWAacEvEoqE68bdw71YtHggrnFIaBZCWChchOyD63xEHvt056E1wKKsYEdlxxr2i7Au9Z/KH0/98yMLn1iI1mckDksyDH4O/lfHph66cmvheQumVByUSgT1lSZ5fGHt0BxKB3ulbCClUh4Qx1jgDnOggfHC4R7f1WBVufSHHcaXJOURts9hcqNExYIddlR0pBTj0s8i81aV/nFPIp3sVfrfPGpi0hXpNG1FXhVvvkiKDoF8GFZyiLg1UX5SXt7YZf9KllbvBvf/R5fZ9u3tBbGCZuavxYv2kYebAkjfwt2j+XjfCylI5c14NQXWWnhqlEy1zHBqq5vxkNCKdghGgdv7z2U3SjJSLBdFVhP0X7QXmvHFKnb4qGnkVcYPcoQ=",
+  "URL": "https://pyct.pyviz.org/",
+  "LICENSE": "BSD",
+  "ARCH": "any",
+  "BUILDDATE": "1572615099",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "python-param"
+  ]
+}

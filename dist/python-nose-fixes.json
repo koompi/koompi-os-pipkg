@@ -1,0 +1,23 @@
+{
+  "FILENAME": "python-nose-fixes-1.3-4-any.pkg.tar.xz",
+  "NAME": "python-nose-fixes",
+  "BASE": "python-nose-fixes",
+  "VERSION": "1.3-4",
+  "DESC": "A plugin to make nose behave better",
+  "CSIZE": "10868",
+  "ISIZE": "34391",
+  "MD5SUM": "3e179ec59e464f50b0c11992e018e07c",
+  "SHA256SUM": "bfd0f18dca89c13ddb114ea013090e21b56dec1fb92f9f0fa35b8241883e2d36",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl2/z3IACgkQeGxj8zDXy5Ianw//RueqoWoXcWuRNMhkwtVCW6b+5PHhVTwdGxk5bxggXH28yyhXRV5gFpMZWiJU14wt6L6IeGwRG79OubdL0H6Bv0UsRkyIxFOmNTtW8dcopzE7MpWlxnpSF/zrfA2E32fC5nPF8H+epJjNuTGo8ov9qLij3pPN1mnI4fs5WLn98Cm86xKoPS+HoAWTZlLLFn1LI3W3DTOwjk5rPCeC1rIrAr1DxOxoeRMv9jmfQXW7ziozj1v1753l58jg05TrjTJ3946Rmf69LLAKiY2/6oGwzMYzC9o3v4MNVGlXj75Wo4kbQXemo1tuXvUMLtrxwXsy5+prkCQ4VyKDZw250TboKToSH10DyNj1GcUrOT64ItUuuYeo/3xEYtJkNWZH3l5SCs/5vQYO1wQOzwgrI/IYr31JyZPJlqK/gDvJsqyFRig6/fmTYmPC5qDQ8b1V04JdrzjWNrGx7DpOnara4xq77YNGJznqIltfGd/FcSBIPQqU73QEc1tN3g7MyFaZKD+amM+J4Qg0OdxhUpwTpLkaiOgioIoj4K345BwwFSeoFqsoYvhkZX1uv3f1Uuz4jtrAp3XVn6JFmhz9pKx/qDVl3is5Oy2G7TDHjLCP8Iw3V9kAUYG40PS+XIAc6lfDzLZacwqwiCb/NFiMYnPZIcXUma4pzkTVyIkG4PapmMH7HUo=",
+  "URL": "https://github.com/cjw296/nose_fixes",
+  "LICENSE": "LGPL",
+  "ARCH": "any",
+  "BUILDDATE": "1572851388",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "python-nose"
+  ]
+}

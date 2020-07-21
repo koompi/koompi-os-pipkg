@@ -1,0 +1,27 @@
+{
+  "FILENAME": "lib32-nss-3.54-1-x86_64.pkg.tar.zst",
+  "NAME": "lib32-nss",
+  "BASE": "lib32-nss",
+  "VERSION": "3.54-1",
+  "DESC": "Network Security Services (32-bit)",
+  "CSIZE": "1059228",
+  "ISIZE": "3127449",
+  "MD5SUM": "a8c2cc537d20dd14daba378292b617a5",
+  "SHA256SUM": "6ef2b4a8dabc15f74c0803f3ff94ef50ce83f41a19e9233df42d15d6a6a67cba",
+  "PGPSIG": "iIsEABYIADMWIQQGaHodnU+rCLUP2Ss7lKgOUKR3xwUCXvd8vhUcaGVmdGlnQGFyY2hsaW51eC5vcmcACgkQO5SoDlCkd8cP4wD8D/3wl0+gshhx6x4JdrweDdV58MkDlf8Y8IU4YNiXnHIBANaC3wT4pHwUfJY7ktAfInG6bjr/Knd3kVBKB0NWX8YA",
+  "URL": "https://developer.mozilla.org/en-US/docs/Mozilla/Projects/NSS",
+  "LICENSE": "MPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1593277545",
+  "PACKAGER": "Jan Alexander Steffens (heftig) <heftig@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "lib32-nspr",
+    "lib32-sqlite",
+    "lib32-zlib",
+    "lib32-p11-kit>=0.23.19",
+    "nss"
+  ]
+}

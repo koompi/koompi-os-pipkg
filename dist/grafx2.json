@@ -1,0 +1,27 @@
+{
+  "FILENAME": "grafx2-2.7-2-x86_64.pkg.tar.zst",
+  "NAME": "grafx2",
+  "BASE": "grafx2",
+  "VERSION": "2.7-2",
+  "DESC": "Pixelart-oriented painting program",
+  "CSIZE": "841525",
+  "ISIZE": "1965573",
+  "MD5SUM": "2cb029041ffb100127c782f386b2c1e1",
+  "SHA256SUM": "43bf9b5e0fac3160544c0d439a6f8713c34c257286c112ed4f08afc8a337c445",
+  "PGPSIG": "iQEzBAABCAAdFiEEzgvecadZqH8j8PfYth284QkBwWMFAl7gyGAACgkQth284QkBwWPLbwf/Tc0w7i+lvqXqjkabbhgRXGOZo3xgmecoP7I5WZv3TJ5t6wB+dUi/7YdivmH8aauID9Tyn4FL6i5aT/IKG1MZPUTV74RJhZ+bV5waxajwNRqtwU7prhlG4D9I8A3omEcCXD1bPSGlKFtVilGaNYtb4/GrQOy++0B+77bIc+3nmCSKJIquKaxvic89f/7rksH5MO50LCzRjz71mRBL4p+yG1Byyni4x9UNgGRzyoO2aGqltOWOYJL5cGPT6CNrmSILjIDhNeAwaHjvhCdhaN1Fw2QCaJT5rR8D7ffNUPU1mx2gDhyK5rL2m5bZRCBwR1H5R14P9CuLVfW/SqR2JwcHyQ==",
+  "URL": "http://grafx2.chez.com/",
+  "LICENSE": "GPL2",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1591789612",
+  "PACKAGER": "Balló György <ballogyor+arch@gmail.com>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "fontconfig",
+    "hicolor-icon-theme",
+    "lua",
+    "sdl2_image",
+    "sdl2_ttf"
+  ]
+}

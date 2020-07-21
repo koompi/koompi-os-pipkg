@@ -1,0 +1,23 @@
+{
+  "FILENAME": "t1utils-1.41-3-x86_64.pkg.tar.zst",
+  "NAME": "t1utils",
+  "BASE": "t1utils",
+  "VERSION": "1.41-3",
+  "DESC": "A collection of simple Type 1 font manipulation programs",
+  "CSIZE": "55609",
+  "ISIZE": "294207",
+  "MD5SUM": "54fcca8cdb50dde3b4e4308dbe65351a",
+  "SHA256SUM": "58c45cb6195dae4b447ed0447f870f4ea919153bd82e72f9b8a0a4bc91ef8503",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl7L7uIACgkQeGxj8zDXy5JgxA//eMWPg3eqqiZoxDOJk4gFwXcGZKtRv6/TGaprI0CJZvscwCt96EPzp+uwoqF/9BUlgOic/z3DZ7bxMMVX6EyfV78GPia/c//oPluYWSHCipJjoAkoFcu3do64bsWUd8Y5m7y+w5XVj3W9jVHqepae6evPSLCpV6e7bdU02k/fB5874ArncylbFPl78qkvWOnneX3gnh8qbrDC8onjRga4jg40Ar92KNjnqQjQ1vPi9r/5O7IniwV9O0+cwKsLsHLQG+eBTYJuyPEBm0wEeSGaXUZVJ10/fd74nLuyoUYRLTTA7FiHgM5B/p4sv8kOWXdEsp60DmPjXrKetECMNqP5gVtxR0OgncbySkOP6RUQV5AQdReZt2TH8i3vWZyhHriwYprtBBWkESqYp3EmSFeIBdemUCcl/lbe/Q45zWB6Iv8bETAjji/cL+2j9eWBdqmXtNRBkcvpIly5hbMxaKY7kquPDSJPq30p8Y+TnJIUJDimXRIeL+vJ/3vwxR/307Ln1wQKhDsg631mMr70XIpclT/W5ZsXRAahQMqlB+WpOPgZkdRPvIzaGvNcAwIxHtQCewJq5/RIVhwqMcPRSVAaJH/QzBJfcTekBcjqH6hUBwsugabjBz+KKnbdAK6OstaxuYicMiNi0tqW8P7RSW2Uh89bdyRVRcoLsbUaRqdN15U=",
+  "URL": "https://www.lcdf.org/~eddietwo/type/#t1utils",
+  "LICENSE": "custom",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1590423183",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "glibc"
+  ]
+}

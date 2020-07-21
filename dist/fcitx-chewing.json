@@ -1,0 +1,24 @@
+{
+  "FILENAME": "fcitx-chewing-0.2.3-4-x86_64.pkg.tar.zst",
+  "NAME": "fcitx-chewing",
+  "BASE": "fcitx-chewing",
+  "VERSION": "0.2.3-4",
+  "DESC": "Fcitx Wrapper for chewing",
+  "CSIZE": "18239",
+  "ISIZE": "48464",
+  "MD5SUM": "2fd36576840d8ec3f94d8c62cd106268",
+  "SHA256SUM": "8aad7f2357eb3d10f1a778849f3db75e204478725c321763f6253991748f8b18",
+  "PGPSIG": "iHUEABEIAB0WIQSYX6G7jYlWZgHv/xEEU6bKI8VjFQUCXre/NAAKCRAEU6bKI8VjFRhsAQCulWzxCwbcwIegi6/dEoMBs6OZXOVKv+vloE483AABIgD+McaEYnt+I9qa6Y8hQ1Qametj0DsLuhOFM93P2Wko8qY=",
+  "URL": "https://github.com/fcitx/fcitx-chewing",
+  "LICENSE": "GPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1589100246",
+  "PACKAGER": "Chih-Hsuan Yen <yan12125@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "libchewing",
+    "fcitx"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "FILENAME": "python-memory-profiler-0.57-1-any.pkg.tar.zst",
+  "NAME": "python-memory-profiler",
+  "BASE": "python-memory-profiler",
+  "VERSION": "0.57-1",
+  "DESC": "A module for monitoring memory usage of a python program",
+  "CSIZE": "52129",
+  "ISIZE": "211506",
+  "MD5SUM": "da033b4e088609a35e4b36602b3b2fc7",
+  "SHA256SUM": "a7f862c8b17dfbd408a8cf0898f68150bfb843f611b114643500e94629490f69",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl4bXLIACgkQeGxj8zDXy5JOsQ/9FO5AAuJ6b+Vs2EveUnIyecoCip/xj9I2J1lUTmgV5bxEX5p7W4Ld5MFm3mSTvWX+hpRR1wy2ae0ljKKoNflVLNpJmWZE2iHxr2pMoZtRv44JEw/kKnTj3KVnAjDAEvSUtbBula7FQcqMPnfwfEvM8rC6Q3bgFGxdyZa3FbYIfdTpn8Gtj5nurc/wQkeDdwD6qPLj1p5ezzv3y72TfwFmN2OeUqp6ZL5AoHIRyOnWK1Uk5lMMPi1HMb5z2d5tjrN8vrnbXRfnF1zGyymEldlchwJd/812KAze8PE5Vm2+O2u40AE0pfH8t6ASeA0+UE8WUhi1f5d6cXoGaWrkDfTN23quig3W9RJPGftsAnTx+nLjb30D2P98VtfI0Txh/Y0PcnpRuVKmAhgZWfuuy02UoaAv1CXxAcUQHeumOVmudMNbx22qgALRa/XiZ8++XuAqLPDOcncjF3hUpFKSc3V0eRjhOzcP3imkTQbYKBpmPu1tXDsIR2D9nwerOJd8DwzmyxPBz7kn8odGSDjQeHXPn0lCcXLuzsr7mOKxoH7fMyLB/5JFAQ4VitdRGUd6gBdXB2PYbK1uWaGM3CS2N4fYMqDGY2i4o0B9wO4+3UdYaXGhk/SNcpAtmICRVGaUsDW+ihkjVMe/UHu2i79EqHnGJMfG1dS8KT8rWZtfUQSeCFw=",
+  "URL": "https://github.com/pythonprofilers/memory_profiler",
+  "LICENSE": "BSD",
+  "ARCH": "any",
+  "BUILDDATE": "1578851325",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "python-psutil"
+  ]
+}

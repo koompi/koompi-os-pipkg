@@ -1,0 +1,23 @@
+{
+  "FILENAME": "python2-process-tests-2.0.2-3-any.pkg.tar.xz",
+  "NAME": "python2-process-tests",
+  "BASE": "python-process-tests",
+  "VERSION": "2.0.2-3",
+  "DESC": "Tools for testing processes",
+  "CSIZE": "9508",
+  "ISIZE": "31435",
+  "MD5SUM": "8b7be05b2bfd2d9a537a98af1d30119e",
+  "SHA256SUM": "bc9cd60a536b0ec6bdb8593ed065b947418c3985f0b5be0a3c8e6e4b39132c4c",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl2/cqMACgkQeGxj8zDXy5LnMBAAtGtg/VRPTjHygT1XyQ5rPVTRZ66GNadC9E1aucVTkCmlFaVr0zjlHzkaRir5XM9zStzjcw9LxnWMHJlsCrOSB9yD5h2mZ8RhHFYMMjI/+eWJidU5JPOcDDT1+OZ7BzediWGyBOZxs6QhjxlL0wsVsP4O+aI+hpC8BCjbUid67KnVr22A2paMd9+8H5rzyqFkAYpooHRDQ5J4yIZzBzuMgjmg9g9dXRqf1UEsiR4HHSV2LiczL0o4QOzfbFiyB+nv+ObgVAepSTGXBqx5knapmA5dNju8P+WFtLL2owImH58p3cwZd7D8LD2eUnB7MVfAZa7HnburMTP/HA4usouJfywTdSIOa8A4X3hrG21RTgE3hi1bQTaMet0+/5KDrrvtqpj0YlIYag1EWeywDIrGfdWnPA36BXBCBWnoba2nEYlpobvxRQuVbTh3oInp0JUJAppB2JG4Nmd597U1PlmVZzvhNa6HO/GQm7VJy/jl2/sdimwONNJy5eHnPLYcZ6kGLeJEw/TA7hUebU1J9pfDmPIkWYT7PZxtzTazqLgtxl1niYjUUvLG8s4ptgaRnlRuGBKuWkY8VRcWdIq7YcGJ7kUI1u+zVXVprAXMosELHNV8thI1ab+WAGePA2OrPbg19eqFXQJw4rMnRrzuMnVlDNt/nJwDG2UKEJZO2jw+78s=",
+  "URL": "https://pypi.python.org/pypi/process-tests",
+  "LICENSE": "BSD",
+  "ARCH": "any",
+  "BUILDDATE": "1572827779",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "python2"
+  ]
+}

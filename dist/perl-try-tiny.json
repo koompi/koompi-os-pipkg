@@ -1,0 +1,23 @@
+{
+  "FILENAME": "perl-try-tiny-0.30-5-any.pkg.tar.zst",
+  "NAME": "perl-try-tiny",
+  "BASE": "perl-try-tiny",
+  "VERSION": "0.30-5",
+  "DESC": "Minimal try/catch with proper localization of $@",
+  "CSIZE": "19496",
+  "ISIZE": "29566",
+  "MD5SUM": "27f847fb064535e6fbf83f1162b27807",
+  "SHA256SUM": "df4b8ae9ec944c8c7aed587f83abb9935ec011399f4edd5fb809b0d345aafd14",
+  "PGPSIG": "iQEzBAABCAAdFiEEhs/8qRjPOvRxR1iAUeixSKmZnDQFAl7vN30ACgkQUeixSKmZnDSvBwf9FISx9AzRHTBe1CB80Yu11H7M5oV2WqsA89mLgUzhSjdplxb08UjOzakqxLk7y9PsB1QoDzydXuIBqFeKDtRVaJiu7ay9Bk1XnT2n4lybNQJk2Mnfejf/LGmVXaeAMCjhueSWf7fuSv4OSThCDFFJDJS70SpgcTWxHyh+m9++D3hmfYq/P9JbS20dE0fNO/QAwMMj2wfTKpG59arbI4fy68Ee/bqRR8cKnMbvLyiYTW1AiCxAj/lRHdNDzra66/1xa4WFBTeFYhfvP5Va68pDnLOvjvCLPXg72ypl+tFb1pNHxT4TZ8QXnvsWUrQrwSgROqQkE7C3JQt4G+Ok8NpS+w==",
+  "URL": "https://search.cpan.org/dist/Try-Tiny",
+  "LICENSE": "MIT",
+  "ARCH": "any",
+  "BUILDDATE": "1592735577",
+  "PACKAGER": "Evangelos Foutras <foutrelis@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "perl"
+  ]
+}

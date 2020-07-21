@@ -1,0 +1,23 @@
+{
+  "FILENAME": "vegeta-12.8.3-1-x86_64.pkg.tar.zst",
+  "NAME": "vegeta",
+  "BASE": "vegeta",
+  "VERSION": "12.8.3-1",
+  "DESC": "HTTP load testing tool",
+  "CSIZE": "2934087",
+  "ISIZE": "8726136",
+  "MD5SUM": "872ce736fc1bb558050d29d089054dfd",
+  "SHA256SUM": "5acdd4e46be6f6fa2eeadd5c9725e60a532e853588b976dbc210b76b0ea81d4e",
+  "PGPSIG": "iQIzBAABCAAdFiEEjhmSFnRl21+wRVV8sChU7XU+Dx8FAl59b8MACgkQsChU7XU+Dx+SMBAAuFE26RvgChB5VOeSSl+pajl6jhU2WurIFzqcCPIlkwt7WUcPA1DNsLaLQfLbGCwqiJKI94VVivRyhkhC5NGVe5l1eWi1xBwvrkfrIRg5UTBtTkfnW1frobnIG6+qcZUrLPK/fFqRbDisoygkWlA5ziUpWV1xW4sCJZKQ5rkVnTQ+q5X7pfXciaztzjyU1rWxgDj3Ajp55Lj8yJonzaV1DIvP/Rvoy9RK16h4YMuDcp5u1TFwIDLmoJqw4UnDEGQdiR3rhEJMrlK+XcYpp+CFaLyxm9kQ7PJLDrRb5YMGuCP6Vr0Juoq0wsb+V1LMQP91n9n3HTQMWrbUCiqWV5jaBbmaxDyugRusJKvadZqOFxk9OTmn7Ez/pku8t8hPa8F8vtJQEzzuw6G72C+YJZjM0nUPNR0pex+UEjpkD9U+3PGifrZ3kAcgkXeuLtHO7EpV4FISGd2BZjFUQzHEgsbfFymIY3bURJZ7AWiZaGUpVkYtkf3fxhTLmAhiddN/tRLlQIznb6dyL3hWYtmUrzcLsQb5yD1T1lpHh2feQTSPioLxtQ2ZuNUEXn3QRwrquceryWkbfEY2ZXUJ1wF8YjFJuPlK3Jf4PaW+a//5z0HvbtySg4vQFdi93sOZ89VKCHT0/Zl8mGdKZcPvIjlf+srcj2w0+vEKBsHe99hPVRTPLTE=",
+  "URL": "https://github.com/tsenart/vegeta",
+  "LICENSE": "MIT",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1585278806",
+  "PACKAGER": "Anatol Pomozov <anatol.pomozov@gmail.com>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "glibc"
+  ]
+}

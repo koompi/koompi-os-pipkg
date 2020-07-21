@@ -1,0 +1,23 @@
+{
+  "FILENAME": "firefox-i18n-ka-78.0.2-1-any.pkg.tar.zst",
+  "NAME": "firefox-i18n-ka",
+  "BASE": "firefox-i18n",
+  "VERSION": "78.0.2-1",
+  "DESC": "Georgian language pack for Firefox",
+  "CSIZE": "549697",
+  "ISIZE": "612304",
+  "MD5SUM": "a220bb4ea4a7f60a5f37dc10ffb6012b",
+  "SHA256SUM": "f0a346335b509334ca6c9bcaf062c37aaa1e0cabca4dde4822977cca30116026",
+  "PGPSIG": "iIsEABYIADMWIQQGaHodnU+rCLUP2Ss7lKgOUKR3xwUCXwelpxUcaGVmdGlnQGFyY2hsaW51eC5vcmcACgkQO5SoDlCkd8dAbgEA86BWKJsFIfJT0EcLGn/k9MHIKVVUvQwum4M0JtckJSsA/ihqqPfqHzB+qMRewLhHs878Opyowwsjis2miXC3KQkH",
+  "URL": "https://www.mozilla.org/firefox/",
+  "LICENSE": "MPL",
+  "ARCH": "any",
+  "BUILDDATE": "1594311501",
+  "PACKAGER": "Jan Alexander Steffens (heftig) <heftig@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "firefox>=78.0.2"
+  ]
+}

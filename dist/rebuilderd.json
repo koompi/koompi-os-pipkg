@@ -1,0 +1,26 @@
+{
+  "FILENAME": "rebuilderd-0.4.0-1-x86_64.pkg.tar.zst",
+  "NAME": "rebuilderd",
+  "BASE": "rebuilderd",
+  "VERSION": "0.4.0-1",
+  "DESC": "Independent verification system of binary packages",
+  "CSIZE": "3237296",
+  "ISIZE": "17371951",
+  "MD5SUM": "64b63141a403483d1bf4c7ca43214eb6",
+  "SHA256SUM": "131b9a62b1e7cc696fe648918f0d38a635789e8b0d7e7d3fd58d5296d859f1cb",
+  "PGPSIG": "iQIzBAABCAAdFiEEM+u4qOHFZTZFsSMqRaZQ4mOMU20FAl6rVn4ACgkQRaZQ4mOMU22CrQ/+JCJmAh5t6hR5Qo2zGM89jEOKAnM8iPOTfN10Gjtyxv1TgX10kgA8n8VDLpYBWmI4Q47Sjxgqm+LkYNWsUKBKYV6WLke7K4eo6CgC3tv4QIp2fkHw8msvNnFmxHPKeQ7fFC4X4FJc6/hM2t0GwfVVAe8WrXsvqzjS9G8Iua39hG92vGS+kfX36FeTXz8bAbvssx+y3hi7zbxFXg/YTzkA8ofGnq/iBH8O5hiOT9asSE2hUujAA3C6nslUh5AKGIAQ5U9apa1H65AmmA7v914LU/wbvOHEqUUWAVSItsRZleYumSWIWNcuVJfPE6Z8+Tv2kzUUkeHrWUKxpXaDc+7ygcBdffHiMPnQeTyYageXcOKmvFjkU7RyRZ+LAdMB1UXXWfk3C+j3u6zJDgCRJLCTdwFmo+wkg4zISJwiouTHOQ8qu/WcEqiJZrrK+6dIre/aSWDBM9nWD47KJ3z/2a31TQ++R2B85/h4GLmqBR/ox4eXnDbVBS6GKynQsUomAfY7CbP++AS66jtQ+92w0EUVgagOlkZiR/rQZNHTYzYZEPqsPf/giX/9vy7ya3TFkX30l7/yq71em9n9vVQ+sArh2wN3pw8WBdYot02BveRLerxFfIS5A6+FhzthVeuRkgjEcxT9vxtOHraJOzTyehMyFJUF9thbtqOzXnNBVMx5x/Q=",
+  "URL": "https://github.com/kpcyrd/rebuilderd",
+  "LICENSE": "GPL3",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1588281300",
+  "PACKAGER": "kpcyrd <kpcyrd@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "libsodium",
+    "sqlite",
+    "archlinux-repro",
+    "wget"
+  ]
+}

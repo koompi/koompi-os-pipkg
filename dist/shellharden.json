@@ -1,0 +1,23 @@
+{
+  "FILENAME": "shellharden-4.1.2-1-x86_64.pkg.tar.zst",
+  "NAME": "shellharden",
+  "BASE": "shellharden",
+  "VERSION": "4.1.2-1",
+  "DESC": "Bash linter and syntax highlighter",
+  "CSIZE": "119658",
+  "ISIZE": "284240",
+  "MD5SUM": "eb150f6b9a9a99e84d6875962799a1a1",
+  "SHA256SUM": "d85d4927555842cd47326375aed4540eaf593a58d447914d8f996a81b8f47527",
+  "PGPSIG": "iQEzBAABCAAdFiEElihV8HLHoBhGQFhk/PPIy1z5yNQFAl5T8v4ACgkQ/PPIy1z5yNR2UAgAo3MvQ81oUQ7cI9F55eerSXmhA5SkrelJUW8kjC5d91V0F5+qvwSFeIoyUEu+Aj54srA1BSUMHzyu13ajZmaPBRyeHPLSHml7cdMwsQtv5rUlKnRxRE0o3YY3RpT8hHalJXhDmRp4gRBMAf4V8l9lUZbFjKuqCfPTfGz7Zp3ZhmxAAkzKZlxTLHyQshy2fc5D7RVBSMMsIZ3BzLnOJHWl6shwe40WBtTLI2N1OFmoFcx2O01Y7fj9vNkPEHJkZT8Znl7Y5oqHFa/3Ftk3lCLsliD87OtgiH4kdC5Ky7PYu/yY9nUOIRlWGu5mG5h3MkSMFFiCE4dYFTS2ELE2PazFnA==",
+  "URL": "https://github.com/anordal/shellharden",
+  "LICENSE": "MPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1582559974",
+  "PACKAGER": "Alexander Rødseth <rodseth@gmail.com>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    ""
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "FILENAME": "dolphin-20.04.3-1-x86_64.pkg.tar.zst",
+  "NAME": "dolphin",
+  "BASE": "dolphin",
+  "VERSION": "20.04.3-1",
+  "DESC": "KDE File Manager",
+  "CSIZE": "3748859",
+  "ISIZE": "9525648",
+  "MD5SUM": "b2a87d15b4f00178af51258c02a686c6",
+  "SHA256SUM": "3fdea81121e6096ac8447fd349159f33c9a88495940902d4e7013aae9a906cf7",
+  "PGPSIG": "iQEzBAABCAAdFiEEFRnVq6Zb9vwrc8dWek52CV2KUuQFAl8HIRYACgkQek52CV2KUuSA0Qf/U9Lnrf096bWKO4dj34MEj9F+ox6Vt8632la345M+m21e4Zo2enw+O6zzbG9dL7eTK2lg4LW6WZI1xjjTeLVabEFDQI1NDkbaS2MoRfSIPxXC9evBjPp+h4TdktUPFy/MYgGRLZuJIl80NcMwisqCdKxb/5ePLoGhA/69G6HYKbAWcbmrWEJm0Xnd5C4wwQT6lV/Rhgz+2Zt8702Q4Tpqwl3+MBSDmTLtkZPtJe/mHRRzEV3WTFsOVMUFs3F0p7ijEn6nU/NWe8nxP8XMV7cCwk7ymsoOHSdwM4w6IKC7Kl1lD6mwYyTSS+UTGHCHcYspdYPJMsW+hE04fpMmJYyTGA==",
+  "URL": "https://kde.org/applications/system/dolphin/",
+  "LICENSE": "LGPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1594113867",
+  "PACKAGER": "Antonio Rojas <arojas@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "baloo-widgets",
+    "knewstuff",
+    "kio-extras",
+    "kcmutils",
+    "kparts",
+    "kinit"
+  ]
+}

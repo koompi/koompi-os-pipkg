@@ -1,0 +1,24 @@
+{
+  "FILENAME": "perl-convert-tnef-0.18-8-any.pkg.tar.zst",
+  "NAME": "perl-convert-tnef",
+  "BASE": "perl-convert-tnef",
+  "VERSION": "0.18-8",
+  "DESC": "Perl module to read TNEF files",
+  "CSIZE": "13721",
+  "ISIZE": "26476",
+  "MD5SUM": "32d334bb286ee369206db5d60ea2975d",
+  "SHA256SUM": "97327d4bba0d320b140248f043ca93ff3e1494f492a8d47aa8716df6e50bbef2",
+  "PGPSIG": "iQEzBAABCAAdFiEEhs/8qRjPOvRxR1iAUeixSKmZnDQFAl7viQ4ACgkQUeixSKmZnDTprQgAku/k/HO82zQ0MfjY9zqPK3MuHiPHqmtmIDE3kGALv2RXnXRIICDAgQpCHxIRJFnb6NcN6R8nHcof/lwpiU/tlN/SdGfVJ51UT2REEc/LVj7qEOxhQxB5jJos5wBagOG9yMcU9qsgAWRVMFm6yluEP90pfxcVvgcTOfhjhzZbiJZs5svxlMmZTXI4jyCc1sXJ1ngmS55kkTHwVJaJKrs5x7acVCi145BllGPweR8CZYY/RaaB/6wBoYqNLaU32fEs27hEoBmp2ZCbw5lG48AFPn+SrbEHG843YGEaxZcmyeTseWnuosZ2gwdbcipn3/JOXlir8CHxb/UWhSl0qJJa/g==",
+  "URL": "https://metacpan.org/release/Convert-TNEF",
+  "LICENSE": "PerlArtistic",
+  "ARCH": "any",
+  "BUILDDATE": "1592756478",
+  "PACKAGER": "Evangelos Foutras <foutrelis@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "perl-io-stringy",
+    "perl-mime-tools"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "FILENAME": "firefox-developer-edition-i18n-mr-79.0b6-1-any.pkg.tar.zst",
+  "NAME": "firefox-developer-edition-i18n-mr",
+  "BASE": "firefox-developer-edition-i18n",
+  "VERSION": "79.0b6-1",
+  "DESC": "Marathi language pack for Firefox Developer Edition",
+  "CSIZE": "538795",
+  "ISIZE": "600654",
+  "MD5SUM": "fdcc9f393d12e1c0118d2582f0c2137d",
+  "SHA256SUM": "06171b7570b0aaa40c9fe1b3cb69651fcb6085f665a9140631f6beffaab1eba4",
+  "PGPSIG": "iQEzBAABCAAdFiEEYB8g8dG7v0p4z1tt9rFhCz7NvJ8FAl8IbM8ACgkQ9rFhCz7NvJ8DIQf+PuARYNNQtnXjf5b8li4/jNNQdtFnmPQCOWkNaQaiATRy7pzEPLyeyhY4ujWSqeBL7UG/xiuQqEMYKiwRY9L6MtmOgSVyyIGL1GgkQS19i1GXtcoGjS8eqsGoaiPZOUWLiC+YIjcvDLRnTkL05/WTGruHFngfh9W7XF64XL7FFKmwU8RN+mYxaJeuLDZrjiP77doEwp122oBfvPn1DUBRAV3Kqa9KlMYacVBjDNv0nzy2gUetVvSHQEPAV8WGoLaaie9rKfzr+1WpQGAsiGtgiKHUMR7YkiJnHpontSJTuAeywcy3jBsu4kuQQ5OY9mCToPVquRLvPY0alyj+HBOu+A==",
+  "URL": "https://www.mozilla.com/",
+  "LICENSE": "MPL",
+  "ARCH": "any",
+  "BUILDDATE": "1594387381",
+  "PACKAGER": "Andrew Crerar <andrew@crerar.io>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "firefox-developer-edition>=79.0b6"
+  ]
+}

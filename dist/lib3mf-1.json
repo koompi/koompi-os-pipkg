@@ -1,0 +1,25 @@
+{
+  "FILENAME": "lib3mf-1-1.8.1-5-x86_64.pkg.tar.zst",
+  "NAME": "lib3mf-1",
+  "BASE": "lib3mf-1",
+  "VERSION": "1.8.1-5",
+  "DESC": "Implementation of the 3D Manufacturing Format file standard (legacy version)",
+  "CSIZE": "475285",
+  "ISIZE": "2377773",
+  "MD5SUM": "df0225de3fca43249d8b5f1564cdeff9",
+  "SHA256SUM": "1931e0c6c5dc85200ba93b9ad49deaf6f8b6f78f9d5ec0763d4f54b6a9b62240",
+  "PGPSIG": "iQIzBAABCgAdFiEE0ZGnjxiB84R1PJZ+aGsGOsS8DskFAl7HiGMACgkQaGsGOsS8DsnIvxAAkf4oavtea0119XrTeY2FXZaO5MHqSdXqaDiyD/0cAr7UICHSA17miFuLUvjKQRagAIHN4pkvSBH+3/PmfgihBz6fp+tenSnFqol4ypbXb/dHQL+zpkd9MN6GHKZ7SalFZwHkXM/gLH0Dk8IaZC0y5gLdSSCFCDfjqS18TNwH/sKYf1HXDaA9CpJAto3DsTKrs1hjTycTdzJQ497O08cB2M8CgallmjUcvz4xLn9nHWdVzqD6TZz/WhBUXJXxXDHrND65d0Rmuo+dehCEcERFdEtgvabwvkUm0kjDI4j4iYJbjdMyBaSzaGytpstFKO75QgLuXSwcuqzV+Fp3zImSXbR45KA08kyXZfBY06XvDjNNkBEgTXNr3dgpnzrTcWY2XvlMCrD+jlxNPgv4+3idcJZP8Q+0lQbKYgiOWPnfGC5xrDXazncqERx8hCUMDs27FhY/J0e/lBlO6OQjU5v2dtufpIc+huUtmAvDvFDzHPy5sxEeYzPskiwvZ96LdNCqc6hcRYhwQDHfbrBMAe9NWV3WkcSXlibubmAUe95xzzXjFWlklvHS3viXACp80fgSebp+QX6hXkV8N18/hoWu4XIMjOAwILYLNpDDKVQ6cS8fRmQ8UbDipKE4p4pGJME2BfHXsBnVgMLDXzF1hbaJFupCO2kuSqavrnwoVfCnm30=",
+  "URL": "https://3mf.io/",
+  "LICENSE": "BSD",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1590134771",
+  "PACKAGER": "Jonas Witschel <diabonas@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "libutil-linux",
+    "libzip",
+    "zlib"
+  ]
+}

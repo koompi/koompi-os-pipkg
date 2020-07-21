@@ -1,0 +1,24 @@
+{
+  "FILENAME": "lifeograph-1.6.1-2-x86_64.pkg.tar.zst",
+  "NAME": "lifeograph",
+  "BASE": "lifeograph",
+  "VERSION": "1.6.1-2",
+  "DESC": "Private journal, diary and note taking application",
+  "CSIZE": "1606197",
+  "ISIZE": "3269958",
+  "MD5SUM": "8c61c1f1b5865b34a5a1a22694c2ec53",
+  "SHA256SUM": "1830462cc0a9d43c265ebbec265b50b4f9efa62be1abb85f60d8959a7621951c",
+  "PGPSIG": "iQEzBAABCAAdFiEEzgvecadZqH8j8PfYth284QkBwWMFAl8INrcACgkQth284QkBwWMPhAf/St8GdUt23xFTT2v//yPWlUcaOK3MgLEhBN1lMjfDfbeE81bq7/mYwg7aDt4rKC6cn2NY+IzzTgn1SVcmjDwsB7aYw+RQXhCAjB9y3wbEs/ZeZGPZSIhlU9Zs6lEZRLcxb1nhFqHiAOfq7+xi6WMvbSFCk/nXLTyr47rGzCQ0Wx7WryQ1Lhw0Lv1F22VwGsBTKb2VvW5awyOlzdlkG0ZnAbB3NmDXVIwTc8wt+lstj1nUU5tV5Ud1Iuk1kgmedhGTPt+JL2oN2PwzwNzezxCvnDR5sDGhl4ILPpmdKfW6kHs9eF+F2LNlAGvsYu5LrX9HPF3wP3ojTtnie4IJ5Is0Gg==",
+  "URL": "http://lifeograph.sourceforge.net/",
+  "LICENSE": "GPL3",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1594373741",
+  "PACKAGER": "Balló György <ballogyor+arch@gmail.com>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "enchant",
+    "gtkmm3"
+  ]
+}

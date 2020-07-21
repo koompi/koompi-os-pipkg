@@ -1,0 +1,25 @@
+{
+  "FILENAME": "lib32-vulkan-validation-layers-1.2.145-1-x86_64.pkg.tar.zst",
+  "NAME": "lib32-vulkan-validation-layers",
+  "BASE": "lib32-vulkan-validation-layers",
+  "VERSION": "1.2.145-1",
+  "DESC": "Vulkan Validation Layers (32-bit)",
+  "CSIZE": "3490873",
+  "ISIZE": "17095987",
+  "MD5SUM": "b22b1ffb8817c9cab2ae8fc2b7ea5d94",
+  "SHA256SUM": "f7121ae69bf3cbf0f328878b09354cf878d908b54f06bba57d51752d9cc38791",
+  "PGPSIG": "iQEzBAABCAAdFiEEU1+MAzlFDwVKTSgnBglqatHO3awFAl78QEcACgkQBglqatHO3awlFAf+OQ9oooHTQxle7gJtNv1Cm/YrGnmOg9eXYfisEhO8p+qS7cwHwSaNMDyzwzb9iwofCyOBUVXjdQPzChRLB4YKcOOEddBKp4AXeMVLYDyUb7E42MCIavKCQdKqZ1CJIbnPXuRcTbXkLUwXgQr/Jedx7KRf4hANvPUXLn7pfd2FJxFEq3kGiJoQ/von2b8v5WcgB8uf9afjPV2RL7j/6P9U9B8cjV3hSz9CjF5ahgNrxr0Y0qpTv8yxLMnK2/+iBc/QfZ6+JuWFBwbPBfGviJqJFMhMkmbo/2BOmUqgdQdXK62WRqLB0FSzOcmN9RbHoTBH6QRYAT0ZS94Uv9N85hElxQ==",
+  "URL": "https://www.khronos.org/vulkan/",
+  "LICENSE": "custom",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1593588596",
+  "PACKAGER": "Laurent Carlier <lordheavym@gmail.com>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "lib32-gcc-libs",
+    "lib32-vulkan-icd-loader",
+    "vulkan-headers"
+  ]
+}

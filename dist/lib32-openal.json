@@ -1,0 +1,24 @@
+{
+  "FILENAME": "lib32-openal-1.20.1-1-x86_64.pkg.tar.zst",
+  "NAME": "lib32-openal",
+  "BASE": "lib32-openal",
+  "VERSION": "1.20.1-1",
+  "DESC": "Cross-platform 3D audio library, software implementation (32-bit)",
+  "CSIZE": "695833",
+  "ISIZE": "1320809",
+  "MD5SUM": "959efe1fc19ef5f9cabb1db0045a602e",
+  "SHA256SUM": "b5c35c32cc6dfe55388f8f658c3e301da632cf9dcb5b85e6759c13c6ae89df89",
+  "PGPSIG": "iQEzBAABCAAdFiEEghj4iEmqxSLpTPRwpekojE+kFfoFAl4tVIsACgkQpekojE+kFfpljQgAlcyMldC6qwhoHbLdSuOO+Kqt1K5b7spdJmrCvcSdw5wI92FFao86TIdd18RgftZaEq3HWsz6yZE5rmKO851LtCno1zKF9S+ezvv5m1ho7s3VdG6AL6p46GZszqzioGq3BxLRU2uG0/TH7x4/Gf7fKWQkShEbkM76s6+XUmIu64YRxcPuEDAXgkskETkEK4mdHcXnfPjbN3V9zsiApttPxhp5I68kjkNvAGb0zuCcbr6HnzqQd381VJE0MXuJDpsfh5jM5XpH2abLzQKVdthjX7Yg9V7rShkG2EI7SUd89EqlwFN/pbM7I9MMKS2QwOo4RPlGIjjlFMqLKKd+WtZtIg==",
+  "URL": "https://github.com/kcat/openal-soft",
+  "LICENSE": "LGPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1580028984",
+  "PACKAGER": "Jan Alexander Steffens (heftig) <jan.steffens@gmail.com>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "lib32-gcc-libs",
+    "openal"
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "FILENAME": "python-praw-7.1.0-1-any.pkg.tar.zst",
+  "NAME": "python-praw",
+  "BASE": "python-praw",
+  "VERSION": "7.1.0-1",
+  "DESC": "Python Reddit API Wrapper that allows for simple access to reddit's API",
+  "CSIZE": "202825",
+  "ISIZE": "1755962",
+  "MD5SUM": "1942fa59d7d90de4fe83f1973d642e1e",
+  "SHA256SUM": "1ab85c33e26d00e54fefe0f6197fb061e8c832f94a91846511e33a2dabcddc85",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl7xpMUACgkQeGxj8zDXy5J6HRAAgju4ypN8gZ3oxeFTw9hd3jDMZxl224NSaDOyoGH82DHyi7kOAn/opb9yKv4I+VsFKNpiuHafSq+K8DRxn/aE4c1oVRPpnPM5kZ/uwdtddZAuLCL0+NJyx0bLBBG+SM+hy/plQqgWVVe8dN0xg5+Nac1A954H+9qJCnuwHVEnchBWYLR+dUhpuiPTQic5rNE0/FLeZUtQ0TA1t6qYBUMRsj3+0ZdqQkeJfZbYdFGSBthm18EDoBYp9gF1SR1omEBo2noAxhZqu7DROomC5EQ94pjerZuIhLGzoOcl3z61aKDN2FeQoWRXuk78lDYc7Vtnwb+Dn+yGh5WQYQb5ZpVTiFcWIU94I3z6Sl1vWOPRxnuNNiOE7WvO+6nTSyfgSDSE7B4FNf0uWP1M5BwDXRSHJhTS3sWby0LCawSy+NQUgNRDUDRVJnpUHzsutvv/3WU+SYvXq5EntDo8Id93NtsvSE5ZeDP3OJm1sdx/xmPcBNKtSN4dkaC1j2qFCDQEVHs5MHeYqoRzV5YaUO9g0rUIbFzxVzp3Oz2sVfwKcy/RvOln+qA11cd37gZmjb9S7tzfAVSLYlZzTAFzZAaN22wTrXoydKp19cowqihP7uXY0u8KPqH/laVQt/tyUPBLb/qy04r0VfauRABSghgT7VipjSBPB8M5WA+XBus3gb7g/KI=",
+  "URL": "https://praw.readthedocs.org",
+  "LICENSE": "GPL",
+  "ARCH": "any",
+  "BUILDDATE": "1592894606",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "python-prawcore",
+    "python-update-checker",
+    "python-websocket-client"
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "FILENAME": "minieap-0.92.1-3-x86_64.pkg.tar.zst",
+  "NAME": "minieap",
+  "BASE": "minieap",
+  "VERSION": "0.92.1-3",
+  "DESC": "Extensible 802.1x client with Ruijie v3/v4 support",
+  "CSIZE": "60824",
+  "ISIZE": "123244",
+  "MD5SUM": "c78ac2a716b9f5a64ed9fd3eb9941612",
+  "SHA256SUM": "03047ac3eea70344dac667cbe9dba1c84cd6b85fb919049ff105a917602963d7",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl7L0fwACgkQeGxj8zDXy5LDURAAuaMMebYk4IRWQQXhXwDEIoUOnlvY7VvucqDGeXbi0W6oSD1ADlvLOKRNVpyZq0l4hqlmBDh4o7jBC92G2aWxnnsIs6o7tp4cVSb3bZ6ZgURn4mFEBbfRTMrl3JQPSZ4K03n1sutYzkETzQeV7x0KhAI3mO0L9IyKPYoPSnAKwgW9kYY9TcPMsiDyVmTkHwtFN6tG2CsTnk4NUCixQrQBPyZkVi5EeOqb7gteX0UhZ51Zl9nVmsBcmKjmVteLDsP27eplVYSM7wsbsenPnsWWdPSHhroEaiNisCT5W1jyCNwHhy81RUUcdU5MBtiDlIXNiKnUkzQExHERTa4pWjiH4mN3gxNAr2oIvWnZmeDjFTmuQan6HK+sC9RubNKCZUx9oGFqsFkNqCwxRmC3Wx4rM0cdNwBhdyBE5dRQRMrpiHPDGkxk7lKXVw7W8QDiEekZahc5o6IAVCxrAZ5cQonFPAB+iyaq1jlG1t7VX7qWtUCj28o78caIg8/U7CoW2l+JrSXVWT7l2qSJQD8R4TQGvR9iRcF76m9Rmrz/G+LWOT+BXagD7BfqvrM/9Z1XN9uRi/yAkJcUdL+7jw/2Kg1mvALf6pNQf1TDGUDMRPzHBbZJuqTwmdyLama8FsuasU2QVp17+bj18QDqULDhG4ykghtoj2cDkDBZJ6EE4b2QlxY=",
+  "URL": "https://github.com/updateing/minieap",
+  "LICENSE": "GPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1590415801",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "glibc",
+    "coreutils"
+  ]
+}

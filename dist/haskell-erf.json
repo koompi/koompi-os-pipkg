@@ -1,0 +1,23 @@
+{
+  "FILENAME": "haskell-erf-2.0.0.0-17-x86_64.pkg.tar.zst",
+  "NAME": "haskell-erf",
+  "BASE": "haskell-erf",
+  "VERSION": "2.0.0.0-17",
+  "DESC": "The error function, erf, and related functions.",
+  "CSIZE": "15179",
+  "ISIZE": "53154",
+  "MD5SUM": "e146b17a2e3c06c4d23f14a45775039f",
+  "SHA256SUM": "e03b4542b97c5b81d40ca42c4f5a44da3f4cdd3bbb958282eabef1a634b77bff",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl6hdREACgkQeGxj8zDXy5JM/RAAuuLhGc3NcFzP6gVFrRf0vtwqv567S93HBjJVkvYofKxcZY3Dy0P5pFLmcu7fLSmBI92ozCKiUucvKVw1bZLNE18qwvFNhHpbQSSRMVZ2RVj3tJ4ChZuP3oRhgk6QKHx4+vAK2+ZZVOjBe4RvvIxaVbCwxdsMpfZz200MNw3sK3WSrZuRmFietLbKdhd9Sgs78gD4sl8LQ4e/r+erB5s0SooOdrV0nZooVcwGT9GNQvWQHfyThYt+zutcbBr25dwxuq9EVPaQ+D7D3+SW7rocjMAqlJ2REHDgLPoKUwOnpaTijN/wgYlrLLCcAuegURIXXNc/18FWpBVFGTfURPgazyHtqvou8oF6r6ehLx0/D4RNads3zZbG4uEX3tlXOhEwsFLWryhkD701sZ3LaMlXTKx1L5bB14YwZq+wRd7rssayC/lwYdzkxFs+FQPD07IdCxre3RBWJE3PMaG9cxT/fCCllXealY11R62wIpq9EnO8clA63ZpZbkK8Xxn3cidwv9AZIwuutGiQrCz5gDAcCAfMAKyg/4459E0T2+NV29BYSROz7R8SbjlTetxSCd62p8XVZi1o2L4p8lk4+bnPqKqwiTlDDjgU6LpQhMqhoNqItR7JGHxXCApwMCjA8YxBEfhNd8W87h8pwh2ZffVecHG1iLwNrI9BxLEMXhlJtmM=",
+  "URL": "https://hackage.haskell.org/package/erf",
+  "LICENSE": "BSD",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1587639486",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "ghc-libs"
+  ]
+}

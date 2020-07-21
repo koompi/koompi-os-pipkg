@@ -1,0 +1,23 @@
+{
+  "FILENAME": "libreoffice-still-gu-6.3.6-1-any.pkg.tar.zst",
+  "NAME": "libreoffice-still-gu",
+  "BASE": "libreoffice-still-i18n",
+  "VERSION": "6.3.6-1",
+  "DESC": "Gujarati language pack for LibreOffice still",
+  "CSIZE": "2110446",
+  "ISIZE": "20851146",
+  "MD5SUM": "61b165834d816abdcd4cac96bf2c866a",
+  "SHA256SUM": "dab53d90cdf6cdf2bec2d032ccc0e9c853b96f4e4db75971404dd58a7b8f40ac",
+  "PGPSIG": "iQEzBAABCAAdFiEErcih/MFeAdRTEEGelGV6sg8qCSsFAl6tSssACgkQlGV6sg8qCSsddwf5ATo/+I1CSb7IOKa0BLlwpf2YdvVSMuWhIHFc2AR8sXXF0jLTLxlEXQh3SzDxmpADgspNyb1ALw0RYtfaQLKE/WzxL6NckD7xlASjgnuI9SAPWaxqOzWo5x9LfgjSqI1F1KlXQ3gErIJDMN+0a179dZAWFzNBq3GISJZ258nJ2j7m04QXnTnGTOujUqh+m7mlJmgMrhrdnW8KG0Ddx5UBR6u9uKTSj/tVdSRFMQG7tNEps+IcyPZssurmEvUhhe0VOjO7VC0tuez7dQvKW+DZZifnbTNhl8rjJ+eouQ48sul34F4TQhYhRsXuQgoTGlCrL9CZYanC7RAwIhB/P/04Uw==",
+  "URL": "https://www.documentfoundation.org",
+  "LICENSE": "LGPL",
+  "ARCH": "any",
+  "BUILDDATE": "1588407321",
+  "PACKAGER": "Andreas Radke <andyrtr@archlinux.org>",
+  "PROVIDES": [
+    "libreoffice-gu"
+  ],
+  "DEPENDS": [
+    "libreoffice-still"
+  ]
+}

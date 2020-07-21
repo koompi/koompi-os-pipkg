@@ -1,0 +1,24 @@
+{
+  "FILENAME": "kauth-5.72.0-1-x86_64.pkg.tar.zst",
+  "NAME": "kauth",
+  "BASE": "kauth",
+  "VERSION": "5.72.0-1",
+  "DESC": "Abstraction to system policy and authentication features",
+  "CSIZE": "321669",
+  "ISIZE": "795036",
+  "MD5SUM": "27b9d2536d359081a2e1f0367d2bc885",
+  "SHA256SUM": "80c4f4c8291fd536ce8e0d77bbc53efeba54a6c9da70ac218550c81b89095f6a",
+  "PGPSIG": "iQEzBAABCAAdFiEEFRnVq6Zb9vwrc8dWek52CV2KUuQFAl8JX7oACgkQek52CV2KUuTCAAf/QOq+Tcp/IqUFeFCypcAiefPDLKPne9DEKoFNetqvX5rdfhucU8Rfh5IPgRroWKEu4P6zXPXgj0JY1516KAiJy6D/Y9Lu99LEsYJU7oFZwTCSBBQNSn2LPEyhqjkDNrRW+OnHtW85GZF7LOqCAuHAEz+OJ+JqaMhXcKWelx0Q2u//h0fuZ/E3ILTbtRqgiFaCLX0Adqj/F75hwEbww3WyVaTOeZRn91JlZupR39KOYaWi3UjRCwdbxc9Zmt28yLTIxdAAmnJivG3UbfQA7Ssbl0cMG7RSp0JZjJ+Z25ZhNCgwj5CXco73BvQrU7RTB5lzU0eQE9AXSGZ123vF23XWPA==",
+  "URL": "https://community.kde.org/Frameworks",
+  "LICENSE": "LGPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1594200459",
+  "PACKAGER": "Antonio Rojas <arojas@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "kcoreaddons",
+    "polkit-qt5"
+  ]
+}

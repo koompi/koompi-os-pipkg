@@ -1,0 +1,25 @@
+{
+  "FILENAME": "fceux-2.2.3-4-x86_64.pkg.tar.zst",
+  "NAME": "fceux",
+  "BASE": "fceux",
+  "VERSION": "2.2.3-4",
+  "DESC": "Fast and ultra-compatible NES/Famicom emulator",
+  "CSIZE": "2027427",
+  "ISIZE": "4062940",
+  "MD5SUM": "e142bbdc2a9652234e0173f9bc1e627e",
+  "SHA256SUM": "8c5af0c8bca090aa35685782f4e177cd89cd3a6767d8283f10f65037c7bf5bed",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl8ElKMACgkQeGxj8zDXy5IXZw//X90qpWH714IsRazulXEiwWhezXXKGNOwCh63ZOQLnyAdwU3zhVpHWlFGfIJ03l2o0sxQVsuxRNDc/CRY+wA6iShcAsJ2Tkevlv7wMQWcNKc1XbySxpzxh/YQGcmoJo5pnbRt/cOWGc5DqwgKZQu1ECEAh0NMUwlOdng++WbNYqbW0p3+vqUwkjQ7b0qtYgKieD47uu9yOVwpiRlfJnLXN8qaQNw+c4IoWU7i0Wpu3UgJFp+KC4JxUjyMVI/LGra4tlQ7Fo6g9OIsu8YhbVOQwBg64ox8XTEksG5Sik+D9oZ/pOX7U3eXsJY7VQ0gKT2ojzACK3/eCAzRFM4SYgS7fmcEvjTzTCsih9eMA2cWwlpfem0ZAhaoA8x0GLm/Tn80kibGIxEDzI0240VW8mGo5ve9/cdKAVawRcv4e1/bHb1I1tdlp2q+3hBOhsnG5dCgHDpu4RPqExqeNaptLdolJ9V7vOtrleI6YD/kOrgxVapswSI6L4qJdTHvIY24aW+SI2jDnifKT+oQ78ESZelLUcL4X8gOiPiOvME+zoP0CEtlbAT3MaP1clJ/FX54y6p/latSwwW8YaG9xQbGtPEZr07UGOIrokWszdlwEFRnr1rHyecb1Yo1bn4D379Y1ahd0IoYmcRkH1ZXlSXz2i7iH+YbZ4kPlPNVFSLNfemojgs=",
+  "URL": "http://www.fceux.com/",
+  "LICENSE": "GPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1594135500",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "sdl",
+    "gtk2",
+    "gd"
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "FILENAME": "nsd-4.3.0-1-x86_64.pkg.tar.zst",
+  "NAME": "nsd",
+  "BASE": "nsd",
+  "VERSION": "4.3.0-1",
+  "DESC": "Authoritative only, high performance and simple DNS server",
+  "CSIZE": "433592",
+  "ISIZE": "2076455",
+  "MD5SUM": "9cb78812372123576da1d8dc621570e0",
+  "SHA256SUM": "ded8271081f26a87c573ea31f29b46c988abb03858f2e0cd4f8f9a68b4387f6a",
+  "PGPSIG": "iHUEABYIAB0WIQQaYNxEJF0G/vkGI9bu7uLu7i7u7gUCXnJo1gAKCRDu7uLu7i7u7jyJAQDd1eSVZPJLYiuSkCrC4EL3mULVHMKq3FgpdBpa2/Nu7wEAgTQ+Z18hDZ9bV7UG4gRFXk6YNQSCmaS0eemcukuUVgM=",
+  "URL": "https://www.nlnetlabs.nl/nsd/",
+  "LICENSE": "BSD",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1584556147",
+  "PACKAGER": "Gaetan Bisson <bisson@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "openssl",
+    "libevent"
+  ]
+}

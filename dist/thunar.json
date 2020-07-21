@@ -1,0 +1,31 @@
+{
+  "FILENAME": "thunar-1.8.15-1-x86_64.pkg.tar.zst",
+  "NAME": "thunar",
+  "BASE": "thunar",
+  "VERSION": "1.8.15-1",
+  "DESC": "Modern file manager for Xfce",
+  "CSIZE": "1308771",
+  "ISIZE": "6643909",
+  "MD5SUM": "2cd3558b2e6fbe588450d3c23d35c336",
+  "SHA256SUM": "2682f657a38eaeb02b6c7dd04c693972419fdad6430fb4cc88f4ee4a7480709e",
+  "PGPSIG": "iQEzBAABCAAdFiEEhs/8qRjPOvRxR1iAUeixSKmZnDQFAl7Kca4ACgkQUeixSKmZnDRxCAf/UubiCmNJ9LFCy110i6OTxCnw0IxDlLdsDdE0gpkVMEWlYRJgkthHkzFaWojq5z6UEU3akN43Y7Epijxo4H4ycoOhF0jXOITwLHDzCi92XSpfvtqMAnKUhC/8QNY4tmhcX3yMe9/KwAnRr9yVu1q/JD3noWHZzARrEhNgVso96Orow03U4TujbAg1ZDMx2wzCcduMabO4EDUl55+CQpku4TjpRMSOdrFC6z901qQY65nDjbUxEXHFbTPhUSToYwPRNCRnWm/3GnC2geH1BSErgTNXpX1Q9T/cnC3dak0/Bvk5uhEwuNPf87pdt7OAM4dypfaw290UlNpVfucBlYLDPw==",
+  "URL": "https://docs.xfce.org/xfce/thunar/start",
+  "LICENSE": "GPL2",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1590325599",
+  "PACKAGER": "Evangelos Foutras <evangelos@foutrelis.com>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "desktop-file-utils",
+    "libexif",
+    "hicolor-icon-theme",
+    "libnotify",
+    "libgudev",
+    "exo",
+    "libxfce4util",
+    "libxfce4ui",
+    "libpng"
+  ]
+}

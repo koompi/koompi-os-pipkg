@@ -1,0 +1,33 @@
+{
+  "FILENAME": "tuxracer-0.61-11-x86_64.pkg.tar.xz",
+  "NAME": "tuxracer",
+  "BASE": "",
+  "VERSION": "0.61-11",
+  "DESC": "The Tux racing game - original version",
+  "CSIZE": "5850988",
+  "ISIZE": "12231680",
+  "MD5SUM": "53ae39811c2df0b0bf58cb8338902182",
+  "SHA256SUM": "12bd6ad2819f3d0c5ac7bfa25156256e5d5897df276ec3e8ccd1c2b9058833e8",
+  "PGPSIG": "",
+  "URL": "http://tuxracer.sourceforge.net/",
+  "LICENSE": "GPL2",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1474835384",
+  "PACKAGER": "Calimero <calimeroteknik@free.fr>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "tcl",
+    "libx11",
+    "libxi",
+    "libxext",
+    "libxmu",
+    "libxt",
+    "mesa",
+    "glu",
+    "freeglut",
+    "sdl",
+    "sdl_mixer"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "FILENAME": "haskell-rfc5051-0.1.0.4-9-x86_64.pkg.tar.zst",
+  "NAME": "haskell-rfc5051",
+  "BASE": "haskell-rfc5051",
+  "VERSION": "0.1.0.4-9",
+  "DESC": "Simple unicode collation as per RFC5051.",
+  "CSIZE": "380159",
+  "ISIZE": "2230695",
+  "MD5SUM": "b555c643e97662242f842f1e1e051844",
+  "SHA256SUM": "956ccec621d0a74d0a58834f9cd75c1e6660fb9ba4fa5bcab6f478fdbefa273e",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl6hrG0ACgkQeGxj8zDXy5JStA//SbGTc66cCcYzKzX7UXLmxJLmpzerEN5zhck55zX7V6wC+Wwt5uqv8N0rj3C5eM6pnqrW6/jLo/ZLjrimElqI3CtMYrBdz2R9yo2h7NtmjtUzaU7YVSA53uvRzNGb7/qQQUceKxdtsvj30/ixOYhyzZmUZigt3YCuf9TrixW0ifzF5xICXQO1PU6nWsMynO9gWuuGZRS2JYsIx6EfUZNPPAS+dNiIJGheub68rx7J+fA/Jrv4Esv1XqPc0uvanoIeWojXb2n8Zdqp72i7jUBlab+keusel9E50LIWo9IQiGYsswilR77+D7LG28KHrjFNnrYB0JgwdIbtz11GDLvMiV7Dur4lY3EHNugIdfc/94Zyi5lB1LtHLz2W9TBEirPnzqoBGZF8CMb5URDpn4l2h3cCrIwu2vdgaiI9CqnpEFpuw/d3zZOdlNAGAslwLoS7Gw18mQPD8CtRX1RY7FHpsXSMv4bjRAYtwfUohGXjU12I2eIC+4xjjo4fd7y0TncfnvUmkM6TWAApyBzANBOjjW/F5zRwuwSWrMUEIKTrowacoqVzyyTE5856enzKDgOyF5RPXBzW1pXiKaYYs3/ckPj59szptr/rd2S6YKBAL2L24Y8BXgQpNN0iggc8v0AZl7++P3hUNYwl9OpFIpxFUzpSE38KSPRoHkK7j02Go8o=",
+  "URL": "https://hackage.haskell.org/package/rfc5051",
+  "LICENSE": "BSD",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1587653649",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "ghc-libs"
+  ]
+}

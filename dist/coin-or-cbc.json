@@ -1,0 +1,24 @@
+{
+  "FILENAME": "coin-or-cbc-2.10.5-4-x86_64.pkg.tar.zst",
+  "NAME": "coin-or-cbc",
+  "BASE": "coin-or-cbc",
+  "VERSION": "2.10.5-4",
+  "DESC": "COIN-OR branch-and-cut mixed integer programming solver",
+  "CSIZE": "953817",
+  "ISIZE": "3097419",
+  "MD5SUM": "2b65c68d71eeadfde338151135e85e1a",
+  "SHA256SUM": "1c1746919e5e71a8fb76292960279352d9a8fde79ecad6e14f827997b6f4f8b5",
+  "PGPSIG": "iQEzBAABCAAdFiEEFRnVq6Zb9vwrc8dWek52CV2KUuQFAl6NnQQACgkQek52CV2KUuQrFwf/T04pTW4UVE4xo4BnMTunBStLFSQ+IRPNlgZgyfRZ2CXJKtX6PDKvVCLaetVvCl3HLEHMNKsWpuBeezE2LcDFth5oOUmUs8ZyDsL15ynQDCuYBh20Yrc2giNlLGmqP1RzYIzOVmvXwIXOdIxDiPf+2cNhdS6ylp+fe4c+6T56mHRFKvmMR+vreF61GE1Mv9GdHROt6XjJ85EZWQTre5q+WZabNPRCYDHnej8xddf1eMu74SeUR5U2HsGkkHJDfm/Dd5HozAVwCMewOwYUieUMB5FJM/45L6doCNVlq4SXwpBEEiFS0cP+1WyqFakmcApkxB/aQCehy84NFaeC+XDHpQ==",
+  "URL": "https://projects.coin-or.org/Cbc",
+  "LICENSE": "EPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1586338974",
+  "PACKAGER": "Antonio Rojas <arojas@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "coin-or-cgl",
+    "coin-or-asl"
+  ]
+}

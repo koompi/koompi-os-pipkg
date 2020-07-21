@@ -1,0 +1,26 @@
+{
+  "FILENAME": "lib32-pam-1.3.1-1-x86_64.pkg.tar.xz",
+  "NAME": "lib32-pam",
+  "BASE": "lib32-pam",
+  "VERSION": "1.3.1-1",
+  "DESC": "Pluggable Authentication Modules",
+  "CSIZE": "152880",
+  "ISIZE": "589824",
+  "MD5SUM": "bc5682455828e97c8cc7ff564354fc98",
+  "SHA256SUM": "a75831e42a6eff0ce8acba79c5bc60b6dd851aa58898212eefc9fea8c6c6fbdc",
+  "PGPSIG": "iQEzBAABCAAdFiEElDfdOBWnqRaePTlGr/XZUJi8b/UFAltMS88ACgkQr/XZUJi8b/WCtwf/ZVGcV5MOS2a68/0KzQLcg/BiYh+7AerkFkqhndJSq2H8dibZKJJjdurxexzWroILimTSNS9B/GLn3TZUU4DVEIK8WrAsjaEj8Z1uuHgQD+JnJa6LYpGZ4cZu8I1+x2mYMHgrNgM7Fz8fw8+OFTDx0aNMHFN2OOWW5QW7Dc1llDn8jITsN1wEBZbv6+HWIGrgwinR4V+8uC1cfyMEPk0MrTV6EzdO6ea/Zz6nxyJloRMOhooUkv0mM9ent8vGYoUtffiB7lmniNug461Ix1zj4JawM3iQI1VjIhTP/wwp7BIrhDVHVgoMwe40gQxlKwtbA2s0utOuJqY215jks9NgfQ==",
+  "URL": "http://linux-pam.org",
+  "LICENSE": "GPL2",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1531726664",
+  "PACKAGER": "Maxime Gauduin <alucryd@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "lib32-cracklib",
+    "lib32-libnsl",
+    "lib32-libtirpc",
+    "pam"
+  ]
+}

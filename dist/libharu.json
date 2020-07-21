@@ -1,0 +1,24 @@
+{
+  "FILENAME": "libharu-2.3.0-3-x86_64.pkg.tar.zst",
+  "NAME": "libharu",
+  "BASE": "libharu",
+  "VERSION": "2.3.0-3",
+  "DESC": "C library for generating PDF documents",
+  "CSIZE": "471138",
+  "ISIZE": "964263",
+  "MD5SUM": "e88d49f6537a69b099ed439848f825b3",
+  "SHA256SUM": "33369eed852a6733817a9e28a75c2c7628033f16eadd0b28e844b0c057304002",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl8EbdsACgkQeGxj8zDXy5KhUw//bwak/vc8CuL5w/A6KYTpXaVTMY5bQuOr1oPaApCnjBOwEfg2CfTDyPRHUJqluYY6b45Sw2GaTPSroFcyx8pUZRF5bt/MLfAAjhAEdwp/ZvaG5n+aJbi+gTcf/ki2B0yn5rgaGXGL8yQWg+sZz7ZFEuhKvTvszWbHrUF7/A+sGDnNSkgr5m0PO4wdQiDMnshjaAjFdvBytHRN69rkkdrk5KCXeIk4JijyfRPR9VpF8YaGKBRBbS4WUM2KYSPB4FuHlBxX0tP4YvoWIS5pM5grYFtvfGlKBOTLMg7LZD+QHMFVmMtinnf8tZAu0c8Zuvm0qL8c5SEurSR+RY2/Q1868Hy2335r8yLEoii0YmebrPYTAim/osZzm246n2jxpUex9enG9R86pto1a4sVVTbGdn22bQM5OQR1Drlk6TXJx2LHc66u+a2mOjFsh6cqY3wO2x4OzkbRfc0UMmxhSmvYCsJATSRZJ2hVRL6aZ6GrhDpz3yPj4ObCR10+tO3oy16blH8SBC9g4f/YMNrs9DflMLm62+/wty5eCEds5j84fKIth6gSkKoyj4i92d86IbudpmTdbq4Gl13ps5MQUAaMv+PmLHkE9h40d0a6/0rxHdNQRGBIb9YGnHKSzwNWQaSct+GtsM/WAASR7b2xV/UlIs1h3QofhLDEt2W1wB/H5ZM=",
+  "URL": "https://github.com/libharu/libharu",
+  "LICENSE": "custom:ZLIB",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1594125757",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "libpng",
+    "gcc-libs"
+  ]
+}

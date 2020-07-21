@@ -1,0 +1,23 @@
+{
+  "FILENAME": "dart-2.8.4-1-x86_64.pkg.tar.zst",
+  "NAME": "dart",
+  "BASE": "dart",
+  "VERSION": "2.8.4-1",
+  "DESC": "The dart programming language SDK",
+  "CSIZE": "170445072",
+  "ISIZE": "511246517",
+  "MD5SUM": "828b4db05dc1563acd4c400a23605028",
+  "SHA256SUM": "0ec827f21e60eceac7255a670fa5247b725715abc376e3f7553cfcdb2e5e17ff",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl7c2zsACgkQeGxj8zDXy5LjjA//S4RfgxF1OiF7f6aU+yKebr/8+xCbOSXwyJ3fNJTWM1/b2OH/XdVlmROl5qUzrV0AHU9lAfbn+LkZ9jRc70wTVthdL6CJ9D2fqd3dM2uuThDwbCyLeoztnW7EIVBoParGgrLBL+jy3UBFn4ocCq2sbAx22zwtYmlmMdxR0UwkBsT1GgtLrvulQK5psBLyvBw24wM9f2/pfQOhdhKXticGXoqwN4YLrTSDj+U+dTssZIhZW7eERUvRZq1bRBAKWL6SSQbD+LcJno929anGgYv2Y5OxehNK5GX6P0bxeFXFtUzf83uEADcP39xpEcZGQxJy6Q1T8Lq6E8u7XDFz5oECbmyMwiwSvlwPEy/k7zYuurRFwX93BCVPXJ2/TKg9IKCBI/S3XHQ44CWfsX9gaVzYFnADmNeLogvzJjjG62lPtCrdXuMslO2c6/fzpZtoHEmJPusUpUsXNYyeynVzO5rlBVWzsZgg1eA/4ZOgM/DOTaEZkYz3tTJgJkwKi1aybG/kIdSS/xg9ZdLCMHsJ2HaKBQlJhLKZv6pvewHnpltQsaHCDqUGrAX2XUCM+39A+NecvuE2QPibYTrvG9Wg5L9E1kPdp6Oum7mA6zmbe84AqWQ4Y9ZEvUciNOODA0dnU9G+z3acQzcez8ey+FA/wfxrtRpXrWaZn/EzI0ejbt152+Y=",
+  "URL": "https://www.dartlang.org/",
+  "LICENSE": "BSD",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1591532096",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "bash"
+  ]
+}

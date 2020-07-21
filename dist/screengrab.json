@@ -1,0 +1,29 @@
+{
+  "FILENAME": "screengrab-2.0.1-1-x86_64.pkg.tar.zst",
+  "NAME": "screengrab",
+  "BASE": "screengrab",
+  "VERSION": "2.0.1-1",
+  "DESC": "Crossplatform tool for grabbing screenshots of your desktop.",
+  "CSIZE": "208029",
+  "ISIZE": "819195",
+  "MD5SUM": "7d7fc7516406da48cfbdd35be90015cf",
+  "SHA256SUM": "fd0870d6f2a2a38611c0b5bcda2641cfcee35e067301905ca6aa8df9ab2e19fa",
+  "PGPSIG": "iHUEABEIAB0WIQS5AcQXHI3QLG8vSWv5jvKnsKCYrgUCXqOtwwAKCRD5jvKnsKCYrnC8AP9gu/IWUSr94Xco2SfAU0nlaP2Wprn17HIR0jrOHz2fWwD/fVk/mCFkv1/i+LRGWMxYincQP1jkkKhQ46bWSEe/ii8=",
+  "URL": "https://github.com/lxqt/screengrab",
+  "LICENSE": "GPL2",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1587784940",
+  "PACKAGER": "Chih-Hsuan Yen <yan12125@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "qt5-base",
+    "qt5-x11extras",
+    "kwindowsystem",
+    "libqtxdg",
+    "libx11",
+    "libxcb",
+    "libQt5Xdg.so=3-64"
+  ]
+}

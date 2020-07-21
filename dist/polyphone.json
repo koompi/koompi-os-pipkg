@@ -1,0 +1,40 @@
+{
+  "FILENAME": "polyphone-2.2.0-1-x86_64.pkg.tar.xz",
+  "NAME": "polyphone",
+  "BASE": "polyphone",
+  "VERSION": "2.2.0-1",
+  "DESC": "A soundfont editor for quickly designing musical instruments",
+  "CSIZE": "1633172",
+  "ISIZE": "5358968",
+  "MD5SUM": "d5100c815f83f68c978bea38145d9754",
+  "SHA256SUM": "f19f010dc8bd395ef16867ebb653b5cb8abef1ac6324fa285d3d6593a9169199",
+  "PGPSIG": "iHUEABYIAB0WIQTH54SUZv4jWDQ1iDdyWHNLQcMVSQUCXcyIbgAKCRByWHNLQcMVSWMUAP9zHCTjPiaqGvB7G48he/xZXpYdL3m6X/FDAdNklhs0/wEAsNXgeqDBGDzK2SgaKejTVpZ5IqZpPPMNk5JoYbKhjAY=",
+  "URL": "https://polyphone-soundfonts.com/en/",
+  "LICENSE": "GPL3",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1573684087",
+  "PACKAGER": "David Runge <dvzrv@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "desktop-file-utils",
+    "libFLAC.so=8-64",
+    "gcc-libs",
+    "glibc",
+    "hicolor-icon-theme",
+    "libjack.so=0-64",
+    "libogg",
+    "libportaudio.so=2-64",
+    "libqcustomplot.so=2-64",
+    "libstk.so",
+    "libvorbis.so=0-64",
+    "libvorbisenc.so=2-64",
+    "libvorbisfile.so=3-64",
+    "openssl",
+    "qt5-base",
+    "qt5-svg",
+    "rtmidi",
+    "zlib"
+  ]
+}

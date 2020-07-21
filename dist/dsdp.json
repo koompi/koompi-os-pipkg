@@ -1,0 +1,23 @@
+{
+  "FILENAME": "dsdp-5.8-5-x86_64.pkg.tar.zst",
+  "NAME": "dsdp",
+  "BASE": "dsdp",
+  "VERSION": "5.8-5",
+  "DESC": "A free open source implementation of an interior-point method for semidefinite programming",
+  "CSIZE": "281194",
+  "ISIZE": "1380891",
+  "MD5SUM": "58efc2b958e00e20c3ed9c8968a19c9e",
+  "SHA256SUM": "9ee5a4af6170c83103e67b6d8652255ed8df5324b967f47d007aa735a86c861b",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl8EepAACgkQeGxj8zDXy5IF4A/+J6jnUdeQjkG7bwQUFr5JEpO7S91EjlPs9iyfOuCIpEUBZZqMxf48uRFn9QpPIWp4j+1o+KIQtuTRy61sCtPLr+XiJVOKlNClO3B1rP7LawT6TZSKoPwS2OWT8D6ShgZc+9xZJaxD2K6JFJOVTKMvZCrIwV55qNjs3At4ZIXSPIfMhhuMdskau2n11XwyqHXQSu9qhiJ/imSm1TivakDECqVwoz4TOaNax7Gmvn6FSyPnmaudVZTFIBbg8szPEaIOCmT1xCqGQTU6vlM+hs2F3zYIJ8kPoyrX7f7jhoAxgn8/78s5z13xszBUilsUqUb0RQLgvCge7fhFHYvcyxg2sq0Cg4rewsd7e9xYDrL+78Ijv3vTay8Dp1EbyilSOi+uz35UrH12vP9wqQhyCWfhYgDVPsr88/Av/zeh0D/dnyladILaFY3LpUfBo9qj9hZoUf3tBUfy0UMTEwIp9GxtsmYoDKA4g+SaBtqs3FL8ED1M1/89y77KxLKlzP9fM/sPdregCFjMhQg+1A/YnIPjnVhKDLdpKvreFR5gFsQXIqgfrCgq/Q6uSJxGskSDbo1mQ74+asIZGKhJhXetOzYNZ4TFVFBSSCSP3SF9NqdeC5YkCCPQiV4zCYi3iVuc1GIDqpC6+LZr/iEWZTPVamsSt8bRJXICWgXIa5ww+Kd1Cn0=",
+  "URL": "https://www.mcs.anl.gov/hs/software/DSDP",
+  "LICENSE": "custom",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1594128903",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "lapack"
+  ]
+}

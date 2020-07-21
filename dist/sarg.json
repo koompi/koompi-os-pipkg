@@ -1,0 +1,24 @@
+{
+  "FILENAME": "sarg-2.4.0-1-x86_64.pkg.tar.zst",
+  "NAME": "sarg",
+  "BASE": "sarg",
+  "VERSION": "2.4.0-1",
+  "DESC": "Squid Analysis Report Generator",
+  "CSIZE": "524110",
+  "ISIZE": "1235076",
+  "MD5SUM": "ed07048f5616498213ea594e66d89091",
+  "SHA256SUM": "47441e0a1be2f2f946a0b29d618b01e3a464fe2a43524eab7bf4ef3a702842e1",
+  "PGPSIG": "iQJGBAABCAAwFiEEPlGL8lJv0Zeeiq5JZcEQwepDP8cFAl5ozN8SHGFyY2hAc2VyZ2VqLnBwLnJ1AAoJEGXBEMHqQz/HxLMP/00oDgRw5LG+wz37UgL/0udY64uRl7GV3/94kueiA4uhgb5F07/bQh3k8AM301mi5cdJgI3tXIk/TL2i/OvqT0S1vxqrgJZFyugLxVB/EwQ3UJPK+0jBikdUmmVzm/dC3vbEntmoJN9VxIm5fZQdbVJI801Q+lMI8Jwexiw9FK1muvSrO5K6vd1LwUGz3pzJzlwJTXAo4xUqQI+bJKDDgoSmfokqJJzx0x2orsqS4qaD3ZsbXXnVs5yuErx9oE3Rmqh2uUgfIlymcppILz7ELYiFuo4gG+FN0eROv5iwz8eFB9TwAoFF64BJYQk47rYD2M8+nihMbACAaVfuA3NzXWR2bhdVK4ADfBMQ8IVGJ+CA3LrjmTCWcK9stzDC9NDhc91RbV5dqs5u4AvLYYMQhvBXpkWU4mpbw6QZPke331KnR5tnxTbc1L/TGRg7/ghqM4s9TYizL6fVHC8JPWSOqfAn5Ujyf5j3A2w2go5IBlA1J4gSoAe3a6D9sQftodWNpJq7iVEVumOoW4C95h7edN5JoPl8xmAGQL2BuN4VQrujeV4CmeHQkNf/pqKYsCGEV58lhAq5sktwsUZlJ/OeQE2OUBceZUBcQbulypN9F1ip51Zl2UtJ6WuAblLg71K9t65eD9IufGl8wNRlGvl8SpY1BJS20wPdDIYzHBUebyuN",
+  "URL": "http://sarg.sourceforge.net",
+  "LICENSE": "GPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1583926383",
+  "PACKAGER": "Sergej Pupykin <pupykin.s+arch@gmail.com>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "gd",
+    "libldap"
+  ]
+}

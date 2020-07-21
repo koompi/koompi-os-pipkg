@@ -1,0 +1,27 @@
+{
+  "FILENAME": "bluez-5.54-2-x86_64.pkg.tar.zst",
+  "NAME": "bluez",
+  "BASE": "bluez",
+  "VERSION": "5.54-2",
+  "DESC": "Daemons for the bluetooth protocol stack",
+  "CSIZE": "786250",
+  "ISIZE": "2378769",
+  "MD5SUM": "fe9b6fb42c7f12b9b7a991ae5e0fc11b",
+  "SHA256SUM": "7eefe18f50dfc379067268d4fcf825307b50a36443c873c16df32959f97d4459",
+  "PGPSIG": "iQEzBAABCAAdFiEErcih/MFeAdRTEEGelGV6sg8qCSsFAl6kBssACgkQlGV6sg8qCSvdfQf/Y4+awlCzvolu+wwRfIXYJDGaSjTAm9XraO3jn0m4Kx5VlDYsQa16BVTybyO3jRd7Lkbt5XloBDZPk33EtQSSD3P3lVMb8In1nNY5eRLVZgfL1NEMFQT5z2Id5TmefPrY7ZP4mIgImKqaR/rEzbPJkqSsFTbLQt4gSHVRdI52Mypwe5haaz7dB7WYMWTI2tacoPOV5x8XrvEBkEoMG51Zork8fX1Tx2TXytOz++o3vG77MgscfzgRfr3r1cGutmMt1ezCJnIW+IbxTt/BDEwGmDTn1WVg4QdeLjC9A7klc/h3xbN5L2OhrJT0zofpKYt/45V5DwvCOKsGDy/B/DQ2eQ==",
+  "URL": "http://www.bluez.org/",
+  "LICENSE": "GPL2",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1587807808",
+  "PACKAGER": "Andreas Radke <andyrtr@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "libical",
+    "dbus",
+    "glib2",
+    "alsa-lib",
+    "json-c"
+  ]
+}

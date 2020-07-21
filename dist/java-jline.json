@@ -1,0 +1,23 @@
+{
+  "FILENAME": "java-jline-1.0-6-any.pkg.tar.zst",
+  "NAME": "java-jline",
+  "BASE": "java-jline",
+  "VERSION": "1.0-6",
+  "DESC": "Java library for handling console input",
+  "CSIZE": "90085",
+  "ISIZE": "92761",
+  "MD5SUM": "26e0d46f1a60fb581028d22d25e229da",
+  "SHA256SUM": "e490753d821d15e4ee0fe44ad86195c29d274c5a6a975dec761909ca62b8960a",
+  "PGPSIG": "iQEzBAABCAAdFiEEhs/8qRjPOvRxR1iAUeixSKmZnDQFAl6/wUEACgkQUeixSKmZnDQb1Qf+NiY26KGkP3h/4G2DMRpqDj0bkPlBqXE4bqOYUApJtSeYt+eO9KYV7Fr/6R3Qt7YQ52N5uFxHpTGGwsL9ZaeLO0SpgjUGWnOsdqWkKx+heKbl2yN0IRw1hs5yLnOERyMwWhD6I3AhTxnznQ/SbFcDUMuCY9NwtCawPX0SDTSZHYp4zQH9WcwctlRRAAbxkmSVBjnyKIngtrknttdYtrUs/dwixEg5mvbNvF09/jQxKlQ/uYjuwOolNub6J0u4T1e3PngUIJaTfJ84wYUCT3Qwaf9cgdKVw9xYL1MZzrYoaibPF4MscIKm6AQFj/J2s4pdpk8fz/hIZpD0Vv13E/f9Sw==",
+  "URL": "https://jline.github.io/",
+  "LICENSE": "BSD",
+  "ARCH": "any",
+  "BUILDDATE": "1589625052",
+  "PACKAGER": "Evangelos Foutras <evangelos@foutrelis.com>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "java-runtime-headless"
+  ]
+}

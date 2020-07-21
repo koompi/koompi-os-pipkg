@@ -1,0 +1,26 @@
+{
+  "FILENAME": "posix-c-development-2017-1-any.pkg.tar.zst",
+  "NAME": "posix-c-development",
+  "BASE": "posix",
+  "VERSION": "2017-1",
+  "DESC": "metapackage providing the POSIX shell and utilities (XCU): C-Language Development Utilities",
+  "CSIZE": "2560",
+  "ISIZE": "0",
+  "MD5SUM": "27a97ab8ed0a07d19a1ec18cdff07dc3",
+  "SHA256SUM": "548b701e547f66ad02afd181c712987cf79c2e4f6c8a7f507604136ed01bf218",
+  "PGPSIG": "iQIzBAABCgAdFiEEYEETBMCdNmKDQO7/zrFn77VyK9YFAl4XY5AACgkQzrFn77VyK9abgxAApdeEdMYSTb1+1XsJdjCygFn8VCeJemCrGiyYYaOvJYsd9uZ1CUBsXLIJRRk44zR6uuyhrOmxwXv5pfRI8tqRsvkLucp4PeMtenCrfgOTGPX5HjboofJF8kAqO7RDbUlL1MqB2kvhb4hHXh9lwuSOvqH8VNj6MDk3NAFs8eJm9Q+weAqiQH0q2UQ9Ffqae9IYD3hcrFzBUqlf3xp2FY2pgaFWk9FaWDj0p7z9vdVo3kzaibevY2Wxe7eekdbnbwx0twlw5s6JQ+efXh/DGF+okDX+jMiUnIxRgTHQNnvZgVI+zwH31wtssjS2ghXaQYSBo38HoRwfcRkr5vMxMA3luTqCFYzWfM5mBpzJTSxu0eO8iFLvu3L1xRVN9MNfJs/+uzOwT+vkZgazKSTK4hOxIb6dszSZQmPW6pyYA+jt/nvME8V9W61EiXrfdijN/r9IR6UWf8I1/eoTOG0H4tVtQlllHweK1q/KdC7QE8Blubj3YPDwVBNb+5dI06UmL2eLIr5CJIo7KUjiGHZkqFr2+/GK1sIJNwPn4xS/vRpW6rr+FGQ17aJgwir0hQ5XNrYaIZ777olf0T12hhKfhODfCV79HyHHS8NOLSoI/g0kNqW/PgLyam52fLfbX48HbSp2a9omC2lbhcfhjM1u9FncUM7WxZU1vdTMGU59w9qS8GQ=",
+  "URL": "https://pubs.opengroup.org/onlinepubs/9699919799/",
+  "LICENSE": "",
+  "ARCH": "any",
+  "BUILDDATE": "1578589941",
+  "PACKAGER": "Eli Schwartz <eschwartz@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "posix",
+    "gcc",
+    "flex",
+    "bison"
+  ]
+}

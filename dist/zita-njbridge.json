@@ -1,0 +1,24 @@
+{
+  "FILENAME": "zita-njbridge-0.4.4-2-x86_64.pkg.tar.zst",
+  "NAME": "zita-njbridge",
+  "BASE": "zita-njbridge",
+  "VERSION": "0.4.4-2",
+  "DESC": "Jack client to transmit audio over a local IP network.",
+  "CSIZE": "29226",
+  "ISIZE": "86833",
+  "MD5SUM": "ed230ec3d75acc7dd7e97777fe52ecaf",
+  "SHA256SUM": "e51c27ded718c995a25966bc4498f33622f8e0b50ac97ec61b4a13cad62ba261",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl8EcQQACgkQeGxj8zDXy5Jg3Q//WXrLoGmd8kGc0hiM6zmFtbsjQ331P+2lYraaLYvs9+DDSRUmgOgdGdyXKn6Yumhu3KznGSvwKhoLug+Onh7Qs9M1rk/Byu1x7x5DCLcO9VJ+rmMJ3ktoe3eER/Vg/yojxKkQK8gBi5mW4C+exsNk7m90y02362THxEsD8ZhXiFejN0EJ87Qi/gHujqzSpcc27RClsBQTB5Krt3VedZBqEX1RyEGION//2Pa4klCC7GaCRdmgU/DEmbRacnzcFF/i0YEF/vVqxRewcXtDeeuSFxPUMeguYDRmSQmMjhIT0/i64uZ3cog6SC9pW/MqiJ+bWe2Cx0g5fuDyxX2RTW+iyJS+jOA16yADPUPEYjuFNMhIt9dlaLvts0XNez3rA86E6Bx746Ca+Ks9qLa04QrtcdX2MVnA1ckNocL0Mpi4V4N0UteiGhZ7oMA1usksIHyFMulGRk2labmRbeHufVdrCQpCxKBVwzmpvoljKaN5GTlo0vyDFwEXakHwILSOw4Y/a79DfaL3RiE/SbpZuWxQovUOqEjREW8g+mhFmftWxE9P/efwBTI3D6JFDxhaL8dhbhOB0JAuqoIMT5GcxmautiyYCZMiTJaN7dcbOsSKn8GGTeLYDHlKeVdyn4Yz8mfYiDsS7vscjDNuaSZxrhOkt9acvYaTE4YxkB8Y1rkwPcY=",
+  "URL": "https://kokkinizita.linuxaudio.org/linuxaudio/",
+  "LICENSE": "GPL3",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1594126552",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "jack",
+    "zita-resampler"
+  ]
+}

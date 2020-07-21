@@ -1,0 +1,25 @@
+{
+  "FILENAME": "pidgin-otr-4.0.2-3-x86_64.pkg.tar.zst",
+  "NAME": "pidgin-otr",
+  "BASE": "pidgin-otr",
+  "VERSION": "4.0.2-3",
+  "DESC": "Off-the-Record Messaging plugin for Pidgin.",
+  "CSIZE": "120491",
+  "ISIZE": "514622",
+  "MD5SUM": "4fe0133b0fad7455493f0d142b528023",
+  "SHA256SUM": "5b781b404c122548d664db68c3dfb848d7de2f814863a82774f7840655ee6869",
+  "PGPSIG": "iQEzBAABCAAdFiEEhs/8qRjPOvRxR1iAUeixSKmZnDQFAl8Ez+4ACgkQUeixSKmZnDRUrwf/ddivgwo4kUSBREbkV6htN3CNx8fte+gh5UQdTQXT/hwVBjHqyyURm4UDt+plNv2dWd1WDqJ28cXzAbpPOE00gjYCa9NigB7IL8dOnLs8UYiGweuQwjLJP6HhhxeNHufK10f0HzBes2C+OHHYsuU01AwbppkRVYOTzLzkhcIIWyeSDHAIUsVV9mkezEwoPXDwrVKGOSKyizMStjiZMayBLB9LCFxoyv4Te4jmZhifnTehjoecupN8ECUxRjJkDHplLOPVRQP57D1YYcoF8KjwqJTr+V8dPz7auWHktnDA4w8j9A1b22aV8WKQKY/MXf77B4j+EyCJcagHAvb7EokWAg==",
+  "URL": "https://www.cypherpunks.ca/otr/",
+  "LICENSE": "GPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1594150852",
+  "PACKAGER": "Evangelos Foutras <foutrelis@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "libotr>=4.0.2",
+    "pidgin",
+    "perl-xml-parser"
+  ]
+}

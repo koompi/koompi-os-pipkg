@@ -1,0 +1,24 @@
+{
+  "FILENAME": "gvfs-goa-1.44.1-4-x86_64.pkg.tar.zst",
+  "NAME": "gvfs-goa",
+  "BASE": "gvfs",
+  "VERSION": "1.44.1-4",
+  "DESC": "Virtual filesystem implementation for GIO (Gnome Online Accounts backend; cloud storage)",
+  "CSIZE": "30288",
+  "ISIZE": "100593",
+  "MD5SUM": "bea5e95ba6e399d4db5837b26d4de552",
+  "SHA256SUM": "b97cd55c2b69738783cc494ab513e2822ae8bdf6feb4278b8246c111225ab963",
+  "PGPSIG": "iQEzBAABCAAdFiEEFRnVq6Zb9vwrc8dWek52CV2KUuQFAl7p1GQACgkQek52CV2KUuSOhAf/aHkI6e4UmWq32/lPBGmZWOXQ/bqjXNaiDyiJX8v4gsgv5/jYSkYWLOrMItzcpcJ1oAY2ctj5mY85d2143BqB1nERa0ShSGkCySwRUFm9glGYz5tiSRlLZ9kbx/caei4J6f5chf9NSmAogRZAr99sC0azl8Wwp0y03Veni6kr556GsIg/x8SCa1R9lTj+i3vmWzLq6Q1YqP+mP4n1cUW0gawbW1PRUGuZFDFQ69m8AgkDRTd3EidEZr31SEYrJG28WlS9x+lekyDhcOj00MWEaHNPcf4kuSOSrb9CUWiXt+HP1Fi8tivAb9a0dmdgiaRXs9N8M0K9wx8fac+JdlN9Jw==",
+  "URL": "https://wiki.gnome.org/Projects/gvfs",
+  "LICENSE": "LGPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1592382413",
+  "PACKAGER": "Antonio Rojas <arojas@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "gvfs=1.44.1",
+    "gnome-online-accounts"
+  ]
+}

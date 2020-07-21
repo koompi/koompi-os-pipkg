@@ -1,0 +1,23 @@
+{
+  "FILENAME": "python-sh-1.13.1-1-any.pkg.tar.zst",
+  "NAME": "python-sh",
+  "BASE": "python-sh",
+  "VERSION": "1.13.1-1",
+  "DESC": "Subprocess interface that allows you to call any program as if it were a function",
+  "CSIZE": "72099",
+  "ISIZE": "304441",
+  "MD5SUM": "c13fa92e70632f05fd5893b33bc53ddc",
+  "SHA256SUM": "59b736e07fa76f132f5b3240baedc85c52f50d33ce871f67079e8185d8a00271",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl6pw0cACgkQeGxj8zDXy5ILsg/8C0FtF61hK1MlwLd4D6WNQGKDTLXbOTTwRJDEw+HdCY+lV52RjMhMHavjgE48PvZRmok5cPNSFfLCci5ndr4eB8ZCDhHkLhtIC53OkRqI6yk9+OTAyRt4WaMIPcsGsp7J/PyP/RXetWFn9z8Y1XoIhRS5PV+yWfROMiUxzcFlcI9jAXtzU6KpAd7FehwyXN68oIgRbrh+5MGy5vNNKTKXEUTPPDH2L0P4+ovxCKCpmNTVhxLAuqzyGogDYnpXz7Te/eE7psHuYyi3r+BwubWJfyRUpXqdztNoyB/tARnAKSIXF2RTSQTK3GF6I0MDc7rHHbo6Q6pfjwXc8lTeLNhEuiSZFR/P4MAf9EqI7zuAqThjz4ykV2AnO3fkOegoSt2wisoBgUINizBUW8UEvi77woXysY3W7b4brf7kuusA+bbW2DXASgwYdionHE0/iVGX94t+dcOC/piSRKPLFGlDOSWrr0BoKmAnW4yGhnpi3g4QHSfMISCKr50y2hg/bIXz3IGpjhidwMsA5umk9dJuad9SjAJleLpSOFi+Z5GLds0PMIKO+GJq81TcgMWldUZEWf3ssH2JKc/GkeyCKofIMdirCfZZ7r6GOwNRB4TApTgzfulNqHFRFL/oHqOQm/FE0tOt9g+v4U+6X86tn/Bbz2rzIKmw+eMe3GzYu1kVeSo=",
+  "URL": "https://pypi.python.org/pypi/sh",
+  "LICENSE": "MIT",
+  "ARCH": "any",
+  "BUILDDATE": "1588183679",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "python"
+  ]
+}

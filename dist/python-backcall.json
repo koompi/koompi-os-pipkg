@@ -1,0 +1,23 @@
+{
+  "FILENAME": "python-backcall-0.2.0-1-any.pkg.tar.zst",
+  "NAME": "python-backcall",
+  "BASE": "python-backcall",
+  "VERSION": "0.2.0-1",
+  "DESC": "Backwards compatible callback APIs",
+  "CSIZE": "20025",
+  "ISIZE": "77064",
+  "MD5SUM": "501a769d5489bb1790aadcdd25b397e6",
+  "SHA256SUM": "31b5d8a2ef5cad60a72f9fbfffb45f1a1fa2b06f0a6526c40d8dd7b60ec81e8a",
+  "PGPSIG": "iQIzBAABCgAdFiEEBNw/sURf7KgTwn766k97MhqQatkFAl7hV6IACgkQ6k97MhqQatk2uA/+MCKbz/YE/3sopEjPTLRHHe8k3KoEdpAGTf6J2le/0sQECUP6s9LWen6In/Sbraf/rvbq6gs1VYK+kRz1w5QjpfJAJeLy3QkBGRvup6j5e3Ed4LtxZNN+f6eCvlZrR9zNNLJlERrtvrKw2ULAWwhYyix+YoMjaKCC8ZBsRtdlJWu8Rt1f2oKMr4/pWB2CM/AMi7pa4QjcjN4GVemFJq3LdxqY3kPoyx3PfEvCnWVgiJcP86k57amZW9bKgvz6sXSDk6nHwoFnj4EZAddlfc/f36fJnMOSiHPG5ovEgBZILbQ8FGf4RayWFvmy3ywnWvxng7zPiR5cWqjuhrizK550/XZY0kS1+PSDpTxOqScGdv6U5q3xzaDYxroyr2TlLMF8Jbft7H3l37Ei/2XCda69ZrfQdocP7K4GUMJxIgjXKyU6Nvm054ILtCKszb0FKYiCj51vzIjTUuTeU7knjskOidzhE46QZoBh3DLFCBi5AONm3SHkVSZgQ8/x+3xwkPGq00vi1dseT0NwlaKindhiAA4JRAG8A5baa9VOsA/NIhy8VM2DxUIlHD2OwIPACrHeWczA+YcfnYeoacIVx0Zdb1DigKhuvXnU3k2tHlzixA3NhUEyuIqqntgmu9l2yMuwsjXkjI+tc+AP8upC5JnAEFp1XewCNubjqz7wU5+cooM=",
+  "URL": "https://github.com/takluyver/backcall",
+  "LICENSE": "BSD",
+  "ARCH": "any",
+  "BUILDDATE": "1591821179",
+  "PACKAGER": "Daniel M. Capella <polyzen@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "python"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "FILENAME": "jhead-3.04-1-x86_64.pkg.tar.xz",
+  "NAME": "jhead",
+  "BASE": "jhead",
+  "VERSION": "3.04-1",
+  "DESC": "EXIF JPEG info parser and thumbnail remover",
+  "CSIZE": "36756",
+  "ISIZE": "96409",
+  "MD5SUM": "e9c357e9c24a028d78889fe023fd01a9",
+  "SHA256SUM": "5d5bbc6af1106f5d1ca0304af48f599f4510197deed1cc2ae54241894a512191",
+  "PGPSIG": "iQIzBAABCAAdFiEELjbYYgIhSC/EXLfyqRdkdZMmtEAFAl3qqNcACgkQqRdkdZMmtEAX5RAAptGC4/UAy1xYOLi1F8CHYRnwcLitKtroDS4en6hwEahPHw7X9wWgJfk0VjWZDMDkE+5cgl+M9fFw/ekQjL9B7nrflWjVuvN4A82SgiYSN0m5CsWuQhwho8KpFihHl9nXHz6VxdyMim34/yVQwEOVjE7tLECwSluahmQ9ajLNXaIrpEVKeNTpW7h3/qJeWhuPpjwzAo6B5yHGwWJVKXCIpo9/B8rbIock03hbuIPFC6+7clEIXkKxeFhLQciCxHIk+ru8s1K1F2fJ3hfYBDTJoUyQEUxRtndg0rJ71WNOTYaSfgVDWfkfkQq2woa5UfFHMmIEMWxDt6LCUJtJBtSYuynVyl2c/pXBY2hzv7lYeT5KfsbRIEaIlMmVUBlHxrET2YEpHfXA34zsdGS/CiL2Jb93hu6NcNDM7WphD3xqvrO2ZcwxaelD0BzL1Qvia6JVCw2ddMoYoBz24ZvcAfxYK2gz1H6onyZta6zuPnPopQvJ1ilTiTVaNKL+3db1ctcqbeIKmKcdTaewtRH9Bw7mfcLJz97zuzEmCtg58Uh66NTHZ069kwaATE8f3WAdKWopnGHE9nJmxb/fZ+aUiLWLSsYqundA98ar7RdNULSRfhOgkLVf7Hm99HdUagc8cnOUOT1ex4s12QldHLPBSBtvsh+YhI9A3PAlDLph0SuCyd4=",
+  "URL": "http://www.sentex.net/~mwandel/jhead/",
+  "LICENSE": "custom",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1575659707",
+  "PACKAGER": "Lukas Fleischer <lfleischer@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "glibc"
+  ]
+}

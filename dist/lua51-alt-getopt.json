@@ -1,0 +1,23 @@
+{
+  "FILENAME": "lua51-alt-getopt-0.7.0-8-any.pkg.tar.xz",
+  "NAME": "lua51-alt-getopt",
+  "BASE": "lua-alt-getopt",
+  "VERSION": "0.7.0-8",
+  "DESC": "Lua module for processing options similar to getopt_long(3)",
+  "CSIZE": "4296",
+  "ISIZE": "7168",
+  "MD5SUM": "f9827cdfd6462201071d0ff8702088fc",
+  "SHA256SUM": "1307ac83794e1cc0cffb668fe1814203e6ddbb4d65f300bc532f87560b243be9",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAlsVQxUACgkQeGxj8zDXy5JXOw//co05VpCUZoCqZ2FXaf0Fnb3QNkHs+T3ZAXlmoZAGAUMR+97n6cJBwKrQallu2SH9LqA/a6kL/jvpqeAUPZTiEUM42C44utIaIiq28MU9YoTNUask4qdjIpUSjEyBAp3ilDndDK4zObPntd2ACEeKAmvGLWXr3OOWWQjOVKzkD8puhYatgIgWoJT2w7qhFAU745VWcIblfqF6HuPTjfyH3HkuGTOt3Aq2bBFAPjbaBZeYSYE7rq48yf/t/rPp0bRr6r49/PXZHJlnxRKdo9yCJW5Mao0MO2e0S7NP6JN3dtGrOYs7hyHkkpAw7VwkIHWQcGyKyqH7MFwNtKBkot+C+XYWWWm8WT1sYUT6qS9BTJ1ZsRVpfULSI1SpktIOXJ7AChII6lkJpbR+q254gb/fW9pXjxe4ONKwZ5/e7W9rutHahi00otByx9+LwgR+IpgFtQx8r3qpAhN3MM+aOtdXByp9bWVbwGRREZ+Afjq6ppbVFDX0peeq00YEqFcv5Gf4mbspBAVsLZoy4/VVILiRIZR7OTykHCrElOE7He4qd70vk9sL66BefgpRWBSVhTQchEZMHt1urBOsH3mpSUaZ+j9W3E9nPeNvidoli04M2w2Rv1c0iWbXXLfFzh2JbGsT5ET5LV13OxsaSk0dKJDzwtJ9DaaY0yqt4qwYiiopH5Y=",
+  "URL": "http://luaforge.net/projects/alt-getopt/",
+  "LICENSE": "MIT",
+  "ARCH": "any",
+  "BUILDDATE": "1528120055",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "lua51"
+  ]
+}

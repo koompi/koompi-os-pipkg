@@ -1,0 +1,25 @@
+{
+  "FILENAME": "python-dephell-shells-0.1.3-3-any.pkg.tar.xz",
+  "NAME": "python-dephell-shells",
+  "BASE": "python-dephell-shells",
+  "VERSION": "0.1.3-3",
+  "DESC": "Activate virtual environment for current shell",
+  "CSIZE": "11280",
+  "ISIZE": "28540",
+  "MD5SUM": "e75475526c478c615e44fd735133f729",
+  "SHA256SUM": "b45593615f90b6ca31a287f383f5cae3aeb7a42ae9cfc642c0db652a81899b6c",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl29+gEACgkQeGxj8zDXy5J+MA/9FIlyPsV8WQQIeHCfop262XT9blkjg3M/w2scQIrVix1r+AgqdYPOmm23DGvP8yMN3DogopLajYV4kEZ16hR2SGEYO7Lxs+0WS5n3nwYPXnGO6ExyF1GXh/4NTlJfpGzCogQUc3pVtyK6VhbYlWjzizRzg5nQIk7D/+4hKOpGIsCx+kGhKtno3VXwCxuvBeX6domuKii8tSM4fuURZn2X+lLHzRXzd5Q1I+UvbEzAx0pa0brIMehGg0IEUGE61A8yFnwg/vFX2WY4v6mEu2CiCFr/Oqv8oz9FOavelpfJxFy+Gz9KLPfxEE1oudmpQ+USxqrcv34fZeSu5t7bzOy8IFpjWRFZWDKtlbGbqsB5q/fGmS2BrZEh6pIwOqeYrQEuglcVoF9jQ/fAdIwblJQVfzIjRFQpBZJiXOccp5pIk4oJk6T3LZbzXpHy1bK372Rkv3UDTcPlvBJzpCo5bk9/yCVZEy8PiZE6gv7PvT/wT8uiH+ZbJiyn9bUMV0vVMH3Ppkz1/56MqjO3+y2EW0H6jtUqT0U4C+XNrfOFAyWiVoJE3d4W3gLl+DjiIAfFJftey9rbtAQ8S0MdakiflY0EHvqO9WRqwLHSee9aDICio58Bse32CfmNjuoBvuGPrpTcyThwb83BDwKmlmNyUH7K7kjfDupJ5xUABya8Xpmej84=",
+  "URL": "https://github.com/dephell/dephell_shells",
+  "LICENSE": "MIT",
+  "ARCH": "any",
+  "BUILDDATE": "1572731370",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "python-attrs",
+    "python-pexpect",
+    "python-shellingham"
+  ]
+}

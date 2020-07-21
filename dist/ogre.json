@@ -1,0 +1,34 @@
+{
+  "FILENAME": "ogre-2.1-1-x86_64.pkg.tar.zst",
+  "NAME": "ogre",
+  "BASE": "ogre",
+  "VERSION": "2.1-1",
+  "DESC": "Scene-oriented, flexible 3D engine written in C++",
+  "CSIZE": "147358154",
+  "ISIZE": "357130015",
+  "MD5SUM": "1b666c612485b7e2dafbe56dbfa5bb67",
+  "SHA256SUM": "4e0ee6ec5f746a94f6d6c3f741918091e39200cb2e869e5d433c5b75988e6243",
+  "PGPSIG": "iQIzBAABCAAdFiEEj8FaBklQqZ3RvRTdOeS4d+YuuRUFAl6nQ1QACgkQOeS4d+YuuRVMqQ/9EslaljujRFAaqNJc8VJ0vc3mfF0FHxp9xlX589N52CcbquWLYgkgDoU3YfAeV7/N13I13M5HW1VmJevbcUISF3sZjw+yWoMRweXs+IYBAIbcajQyqW8RN1U/y8QNB21rVrfoUifr+FlTI+2rGN6lmNVzWEAem0IHZXO1Uco5ehx2TjjonuN/PncPzpGCPUtcWF3p3qkDiH6nHL5faaQOuaerBINZv8Hhwa4xbglNAgIBkKeTiDFq4dVo7O8fdRpDpgVD48aRe2eoy5KVleWrCNnaQ6xGmyuisbfp30Wvq9IQyrDBR2KoCmJ1ApP4MkQ7rKOaSn2sjgY5tzTCIj3MMmlxe/eCIcAdzdn9BFWES+X3Xr3NCoWU90GjKWvOGghEF0ioxP8ArrBecIKoYoc6uUqrmu3TR4MmDy0IUWMg29vZyIi5uY1+fwhlk7eJ1XQ67sQ2S+2gYXoNtla3PISCSxi9wua+Clpy20xxbz9ieVdKtoNTrEeSlAmOX/Dgqj5jQzWSJyVn/6Bd65+YWhNCzc7kfXvofRPYfFe6JId3xiQ8WLzZvAQpHY42JEk4uohRjogEKmkYpDY5WPSRnxL7avRCpnj1Wj+/MpR4Xsz2tCyrDD3GKHX2IsYTZFWC0oj07zp221ez9iCHP2faKIyQZUFjk64DkQhoobTgAAMX19I=",
+  "URL": "http://www.ogre3d.org",
+  "LICENSE": "custom:MIT",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1588017973",
+  "PACKAGER": "Sven-Hendrik Haase <svenstaro@gmail.com>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "freeimage",
+    "freetype2",
+    "libxaw",
+    "libxrandr",
+    "openexr",
+    "rapidjson",
+    "nvidia-cg-toolkit",
+    "zziplib",
+    "sdl2",
+    "glu",
+    "tinyxml",
+    "zlib"
+  ]
+}

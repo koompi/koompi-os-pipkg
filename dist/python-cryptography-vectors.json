@@ -1,0 +1,23 @@
+{
+  "FILENAME": "python-cryptography-vectors-2.9.2-1-any.pkg.tar.zst",
+  "NAME": "python-cryptography-vectors",
+  "BASE": "python-cryptography-vectors",
+  "VERSION": "2.9.2-1",
+  "DESC": "Test vectors for the cryptography package",
+  "CSIZE": "27965475",
+  "ISIZE": "74448717",
+  "MD5SUM": "e14383487267ba51f35ccb60fca97675",
+  "SHA256SUM": "24fc5be05cb1ee76d49fbd908fd5b9d6235379252d6030a5b1421cf3b96eb59e",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl6hGHwACgkQeGxj8zDXy5KyEQ/9GE0dgVdG5D6o/IKcsMZK55vJw9ssRIGQrN0pc4gRZ/A6gn422Nn5w8WBL+nK4FLArQpdKShkIib0vnsIt9zs00dQdWfg6W2cLZZ5iu7EtJ1K8BX5S0WtRFlikuTwN1GJDZuFUubI+SMe1QQdmMquFT2kMZRIlv04JE68Z2jL+d5EeQGRP/FsBcCRyUSU41ZXpQwHhWeXiHkND72cKl1g12RgAijSMDzwdhvkH1Vu2Rc38VpXe7N6sMX5UiDjIac/FQTwidumuDcth3bMw2EVW60PFV1zxCcocXFmUDlWjyyTdBxgeXNb/bKxnWH4y1rNmiMhpzi5pCKNYwrCDdYKb50PqwNGj3d08uG6OiCLMxj9rzr5MqS7Pua5xR7DXNz2DFmTDdg2jKl2SKgXGsRPdQ3zANmMkXSfQMvDwiia0yTIL9qKjvnt15zBa1yd1pkc64RRzjfbOzYB91lXAfWEpdsQSSQ4kyVehb63I00CN6PFs0fFoPLWhSh1xB0F3fwpI/BEL6ut6yCn6fPxJT6eihbxEIlTovfjRUHcHwbjrEGT5B1j16LWibKmGdNpO6AXJpv5h1gIeOPx26BWTbyRPzJDRVIN4p3S01ZgUIb54rPnzICCVIIGExj6kctvvBeobtgWEa7di6TpjMMDX475TBbTKaj9MjuuaxPfJBEH5s0=",
+  "URL": "https://pypi.python.org/pypi/cryptography-vectors",
+  "LICENSE": "Apache",
+  "ARCH": "any",
+  "BUILDDATE": "1587615723",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "python"
+  ]
+}

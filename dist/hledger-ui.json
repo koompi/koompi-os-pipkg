@@ -1,0 +1,42 @@
+{
+  "FILENAME": "hledger-ui-1.18.1-6-x86_64.pkg.tar.zst",
+  "NAME": "hledger-ui",
+  "BASE": "hledger-ui",
+  "VERSION": "1.18.1-6",
+  "DESC": "Curses-style terminal interface for the hledger accounting system",
+  "CSIZE": "136872",
+  "ISIZE": "792096",
+  "MD5SUM": "891a65430484b54d252091283a1bc6dd",
+  "SHA256SUM": "f054754311c4231349ac7d5bb4c598e4c6ffb4f919b7892b7b1aaa05c8417868",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl76NI8ACgkQeGxj8zDXy5LQDw/9HNBr74WtnjLNoJRb8zUfIh3Rz/4TPdQAXm7EMm3JGSpf0oiSs/uw4rMUpS0FvvEgLOWkSreoZ4bZzg1K+X1kkms8GBmu8wcbzgN0GQEchKKpF76QsqqiFkQOz7sdNOBnqpOy8zJFTop3vwlzbNWy1j4Mh7CGlI9UnVjlS6+urhAM+CSd9f1lQYcch7ftJIqWBCKDwf5t99ukVHiBn5NKbnjEWDRzrtnZ5Y2tSzFjZ/8O5O8Hq4As7LN0UUbgbe1BngNAgFUSKaCr/2b8BycLCuHFhSLOMdzD5aFiBNqzcm+h71cXceWmDC0ZCMAAo873n1FDeaWS817n59dotvXGVNmmuRwJkXu2RTmePE7CurjFKclVY7ci/VPRsMS+9gSdGq6+t5YUynKDnDwirO+czpJ7uWYKwKWhxCkp/TR4PGsd7n3q4FCEEq3QWcdxhVJcpJb7Jtp/usEh0s7KnwHLSM+LcSPDtp/sYF1kBvTCa2OAa//3SRd4ZD0bl3kTsTEY3raAvjEySWoj0nlLztOaV/5F0LKlS3J/d4WrbddAfkO8/VfdHPZ++QEDK5YCgkhio2UQNeP4hfBLD8Kn11pYoB2XVgELZuf3AJepGTAicRh0H3BgWF95htrfC26cMoNODDYSFzQUmyXuCqvL/cSn+nQVxUFGFJH+6yvfIwP6P/U=",
+  "URL": "http://hledger.org",
+  "LICENSE": "GPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1593455551",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "ghc-libs",
+    "hledger",
+    "haskell-hledger-lib",
+    "haskell-ansi-terminal",
+    "haskell-async",
+    "haskell-base-compat-batteries",
+    "haskell-cmdargs",
+    "haskell-data-default",
+    "haskell-extra",
+    "haskell-fsnotify",
+    "haskell-microlens",
+    "haskell-microlens-platform",
+    "haskell-megaparsec",
+    "haskell-pretty-show",
+    "haskell-safe",
+    "haskell-split",
+    "haskell-text-zipper",
+    "haskell-vector",
+    "haskell-brick",
+    "haskell-vty"
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "FILENAME": "yate-6.2.0-1-x86_64.pkg.tar.zst",
+  "NAME": "yate",
+  "BASE": "yate",
+  "VERSION": "6.2.0-1",
+  "DESC": "Next-generation telephony engine",
+  "CSIZE": "4573848",
+  "ISIZE": "33032263",
+  "MD5SUM": "bb902ccae681d10cf716b30ea69dd4ab",
+  "SHA256SUM": "21b060088d728910a4c16230176d701bfdf1b190c5e395388cbfc514e2c797ea",
+  "PGPSIG": "iQJGBAABCAAwFiEEPlGL8lJv0Zeeiq5JZcEQwepDP8cFAl5oet4SHGFyY2hAc2VyZ2VqLnBwLnJ1AAoJEGXBEMHqQz/HqrQQAOi2CAXjDBUJWym1NsoIbBltQxuHeACFx+EYXGfOa7mab7Rfb0RL//i86FYmsCUfcPltNb86JjWXtEqyJaHHpDetbIMGyRBNSQwyQTNSXi3rNWxFgvUXOM1uV1ye5IOpTCL02s3eJBTgdsc/02jB+Fm+x1HUMKPd7tF6LtspG/t6nYXoTVFeKNLsYHuFvYHQZb04dlSxQ8SpNwa+9JnqERZpzdH2VGcxQOyHDwOXt9fzoMQMSTvF9kfFiz35+IPDa0GKE0AP+xWBY5IPTpI2YSDDib56Dr+KVDfq5inwy1oCRdwV+OU0Bytfvoty7I7IwhQCALWTsd6fsBivzWBv9NLVbQPqCcLJwhhVyAqETQIKU0KRelYwUCzOqGSv7gidA1YuNUXpeSBY7LG84fgfBkELRMUwzB+y8oQLqa5uxNZ4x56XhZ9UQC97XWZScR8lIQujf+qTjjel154qw6d3pBtnTDvElVj6KdIvHc9vQ5Bn4kAa+SsSor14QQHemOQxx08x8A569NKGfMT+3ckplxf1aMBynD+3HcADfwqRWVrT6zWU7PnFx3Hhp162zLS6DNaSuf5RagXGRW1j+MLkNsNiSvlpWqqncxHQjZyNK0SdXEXVQrrfyhe2PbFZzRp5wQUprCB+jxSACLGbxWPKE42zabjcqbDwo+300darpuQh",
+  "URL": "http://www.yate.ro/",
+  "LICENSE": "GPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1583904380",
+  "PACKAGER": "Sergej Pupykin <pupykin.s+arch@gmail.com>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "speex",
+    "gsm",
+    "postgresql-libs",
+    "mariadb-libs",
+    "alsa-lib",
+    "openssl-1.0",
+    "sqlite"
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "FILENAME": "griffith-0.15-4-any.pkg.tar.zst",
+  "NAME": "griffith",
+  "BASE": "griffith",
+  "VERSION": "0.15-4",
+  "DESC": "Movie collection manager application",
+  "CSIZE": "527804",
+  "ISIZE": "2581114",
+  "MD5SUM": "cd592b6b52e636395cb1ad65a4b01471",
+  "SHA256SUM": "2add02c266b4667982eb19188db67180733e2569e86ff491f00ca5fad21b8779",
+  "PGPSIG": "iQEzBAABCAAdFiEEzgvecadZqH8j8PfYth284QkBwWMFAl8EoqoACgkQth284QkBwWMRRwgAs/ulAwbsnvhLFhbDdB2zhL0xwhBYWzPCmas558Pu6/1k643bqRhDJ56Snjp+fKMQWp0NxMRTK/ajmgNSApUiWjyjTp7pkNYpDB3AYIMwKHxdtpaEw33CKaXFQB4lIYvy37W13psX/7j0ASxwapUmNknY5tGMiYqu19N/f4elNz57N9C52T8W6RXUDrcfrNkmxRqdQ8FXmAqBxBshAjTwGiG5Oci+GLsjVhiRPcb8px6hVvYHfib9NvTRodqI+rFIdzJwgqAJ93iFxvdmpFHrQGz5Emb/ZCjjv45jAzgQwmnMnCF2nfF2FkUbuvrtpAy7C+nSBYupzAty+Nl4skhaKA==",
+  "URL": "https://gitlab.com/Strit/griffith",
+  "LICENSE": "GPL2",
+  "ARCH": "any",
+  "BUILDDATE": "1594139237",
+  "PACKAGER": "Balló György <ballogyor+arch@gmail.com>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "gtkspell3",
+    "python-chardet",
+    "python-gobject",
+    "python-pillow",
+    "python-reportlab",
+    "python-sqlalchemy"
+  ]
+}

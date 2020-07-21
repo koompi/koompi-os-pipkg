@@ -1,0 +1,25 @@
+{
+  "FILENAME": "haskell-gtk2hs-buildtools-0.13.8.0-19-x86_64.pkg.tar.zst",
+  "NAME": "haskell-gtk2hs-buildtools",
+  "BASE": "haskell-gtk2hs-buildtools",
+  "VERSION": "0.13.8.0-19",
+  "DESC": "Tools to build the Gtk2Hs suite of User Interface libraries.",
+  "CSIZE": "934311",
+  "ISIZE": "5099936",
+  "MD5SUM": "bdc3079c8623861619bc4b088688bc9a",
+  "SHA256SUM": "6e505ef4c0436cbbbfb9d2037fa0bd6b1ab9e33446fc1a9c7df72ab241c741ca",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl75CdcACgkQeGxj8zDXy5Jp+hAAgBTxajM4K/THnRj7jouHQIM63GtZIfisp4T/Z+n+IXwNaNTrDtEJBo6KYn9d8G4t1gvO4h8cAMUjVp86w8eG0xPmKuwSEt+2y/A0T70nc0v8J0u324agGdMrvFr4CkhgNKgZSgt31Dd61Qz1/egvdTPu891oZZf18VHvABrKqFV+CN6NPD/8qf5bQsA611hZKWLf8C29/JgKiGdL6fmBshmX81ldBYcEIHsAaYUHavqZEM0NWZciKA8A4+k0RUB2nVmBKaiStGDP/HX/Ohkpxml0vMLMV51M+MkIRzEUxsHEVvPq6/eF8aZGN8w644xystVhZ2kujvvD93CqWVoTINHOGtayq4PI5Zrz1GGo5M5pNyjm7KkoYzSBku7hq8OSPgoZOSmAq0XeK3oF7UTdsC0aHjwwap8de1ll50mVHZ5Qoeb/grAp1mqqVTkpIh5sIHV4EakQD81BZNPv/dtyt0mrZU3cplrE5Z4O6097JHz+5/aOYLbUXVEY8I1q6Sq9hwGo03E01YCBr0VstWJ1HTa481hAk5QIrNZ46oMRLWtyhmRK4uknTlRMw1giIE2wChEDbuR9Q6BTPL2wUi/NwlV+tOoyvufVwarpvQXwXszsFM0eLJzWCRM35r5ud1lmjn3/V2mxJiuTdasRS3tfN3GPcmwwi5L6Rht0SRt3E+o=",
+  "URL": "https://hackage.haskell.org/package/gtk2hs-buildtools",
+  "LICENSE": "GPL2",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1593379226",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    "gtk2hs-buildtools"
+  ],
+  "DEPENDS": [
+    "ghc-libs",
+    "haskell-random",
+    "haskell-hashtables"
+  ]
+}

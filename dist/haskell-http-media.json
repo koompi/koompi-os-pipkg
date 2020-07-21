@@ -1,0 +1,25 @@
+{
+  "FILENAME": "haskell-http-media-0.8.0.0-12-x86_64.pkg.tar.zst",
+  "NAME": "haskell-http-media",
+  "BASE": "haskell-http-media",
+  "VERSION": "0.8.0.0-12",
+  "DESC": "Processing HTTP Content-Type and Accept headers",
+  "CSIZE": "98207",
+  "ISIZE": "503976",
+  "MD5SUM": "0788f37f23381f08264adc4427b13a0c",
+  "SHA256SUM": "61f57dbf279f31b047c986ff276f740bb7b821d63c31a61b946dd9709cd50b3f",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl75C6wACgkQeGxj8zDXy5KzOQ/8D539HFBcZPTMxxW0WqoIPAwPxNaTXQGn7AxgGUlDTLamCIlrBFRJ0bjz5FPGW7bkoDXlRlvCF1KdBXst99z4dIaWYCTUXRimKwl0bI5df3b772PfFAuSSEx9xSV/tLldCzf60CWtnQnrvqp0mG48Dirl4PRE9BLuAmB6X3r6Uk9BHFZ7lXiCCPtv6nYcQlnPxT828sYA/FiDO6GqylJNEF00MIWR0/h382T78bYh9iTUMYOZETNFPB2EFAqYLLkKN6E+I/2WN4uesHdSpGDvJoLAMic6WjSD+eqaeWKDScMN5nQ+WdYMnGSe88ref+ECkOLWUNjlW5M5lbVIXXO+YTLh82NnYAxNzlmu3qbf7NahCbEIhIZzQYD4+TW3EI7AMnnXT9kK/SeOrks/RJ6KfJafMZU3ATZak/OrbBCrA9xlEDTwGCLKE/5pMni838nnI6g1fo5h9x7CPD/K+TI8hO4Uyb5Hw4jG+aUSMRbcPmcWTDLt6dOVdqRqHWxv/bZnajLdC9BShpsl1wIKabBgvf+e4Zzn0xPC3cHpynvWWg6O28JlcGIJdG4MgIESY+LybtRidhtuTriLjdUR0yh8cxnoIdf/MXKjDI3dePWa/5EuJ7FBeWeyIwCQa2VnbhGey2hXmAOBXzUnimukQU9/WdRRrS+hiEd/ivWUrpgkCF0=",
+  "URL": "https://github.com/zmthy/http-media",
+  "LICENSE": "MIT",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1593379731",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "ghc-libs",
+    "haskell-case-insensitive",
+    "haskell-utf8-string"
+  ]
+}

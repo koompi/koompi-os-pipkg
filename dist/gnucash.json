@@ -1,0 +1,28 @@
+{
+  "FILENAME": "gnucash-4.0-1-x86_64.pkg.tar.zst",
+  "NAME": "gnucash",
+  "BASE": "gnucash",
+  "VERSION": "4.0-1",
+  "DESC": "Personal and small-business financial-accounting application",
+  "CSIZE": "11229859",
+  "ISIZE": "77329330",
+  "MD5SUM": "b2723392673717dea1ebaa2fa4523b30",
+  "SHA256SUM": "66c3116572224849b2314982c2844b5563ebf31993d93264b22d0e8838f30080",
+  "PGPSIG": "iQEzBAABCAAdFiEEzgvecadZqH8j8PfYth284QkBwWMFAl8I4AEACgkQth284QkBwWPEcgf/SdtK5lpZWk/6oSoPtvZ+G7XQAh8ZLdzgLUNQ9JubleujVoR0NFyptG3UnEZnvEup7SagJgkWVET7AqDS2+ptjdTc/VYIrdr0r3r14+mNgho5nbsNLNnIychg5VMlSOQgc7aPRymMd55oT9q6T25/gD6XnM8oGvJOQBxZ4fAeaUdW5Sa4NNWyBNU0vEpXJ4Wu0BkMlVIJvwCDZLEZjqyWxN+4jCABPjA1r8EFaBMCU22BJq+ipUiyjyrnDGOjeXsyG6Cvw9FZ6cAdi/pmX0GiUcfCsbCavQLHiICDXhK5NGClNAwFpqi93Gj68TS3pUDI76oMSiqtxdKQ2W4yIzfh7Q==",
+  "URL": "https://gnucash.org/",
+  "LICENSE": "GPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1594416790",
+  "PACKAGER": "Balló György <ballogyor+arch@gmail.com>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "aqbanking",
+    "gwenhywfar",
+    "boost-libs",
+    "guile",
+    "libdbi",
+    "webkit2gtk"
+  ]
+}

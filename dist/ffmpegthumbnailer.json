@@ -1,0 +1,25 @@
+{
+  "FILENAME": "ffmpegthumbnailer-2.2.2-2-x86_64.pkg.tar.zst",
+  "NAME": "ffmpegthumbnailer",
+  "BASE": "ffmpegthumbnailer",
+  "VERSION": "2.2.2-2",
+  "DESC": "Lightweight video thumbnailer that can be used by file managers.",
+  "CSIZE": "91560",
+  "ISIZE": "303416",
+  "MD5SUM": "276ae626c9398ffded7cd0bf833374a0",
+  "SHA256SUM": "8cbd24e7a9eec87279bf0ce763d1e272bea3f01a8520502e5e4f18d3c9479324",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl7DlzMACgkQeGxj8zDXy5IfCg//WcsRJDIHbIaMCiCzYimgiavje3KZtQYA0EbgzfFkOHetAXAazilLnPNUA8ZZ1aHWUkEJwOqG64U05Cl5INdX7fyB8TE0socfv/YOj6zoAkyHoTiRpS+kkAMLA2qMjiRXgFtF7gWLOuTAbSew5ZSn28ASV/rQafCxLVy6lFqlSKEmChrtSPKwPAGpU4FJfsRLYq+9aFjYNmluri8cfeQFR5JwIhRBRhijhf02F1LAArV0Z2erP2SUN6yn4/RNJbuHCnTVqxaFtl5fAaPUxAuiYkuOUGwLWKpY8Iqcr3KI+kSKSb+KofS4gOyT1zwMF1X1dtX8qYze0WBMrw+yTEPBNCgzCieeJM0mz/CRa0Bw4Jn6rGUxUtkR7kj9/Ak1tNqMrcaclHMi+TfC4a8jswon6MwsACoPuQO8LGRoP+VZwVc3xi9yjhJ9v9DTmCi3gQaKnvBMtjoMzofXGs5VbrV411kCLED/CSgijLga3Ny9nZHs6fXNMLq6ydA9KTGgCn93Qqh+QweH0EAe5hs72h6CTTpunxp2D4tnEksEY7JLUYFvuKMgracqeEYiRPznQfoUiOnq9NAdI7UIQQs6wxDUcpZCtUPMA4y/o6XqVF6tmqGwg5WZ00xF//xZlhZwFzI8P5qeeyEdmhDZ0iWWwlhMcoSLEyOKVHSzOqsdd5KDsn8=",
+  "URL": "https://github.com/dirkvdb/ffmpegthumbnailer",
+  "LICENSE": "GPL2",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1589876449",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "ffmpeg",
+    "libjpeg",
+    "libpng"
+  ]
+}

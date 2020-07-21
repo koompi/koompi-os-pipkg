@@ -1,0 +1,23 @@
+{
+  "FILENAME": "python-django-modeltranslation-0.15.0-1-any.pkg.tar.zst",
+  "NAME": "python-django-modeltranslation",
+  "BASE": "python-django-modeltranslation",
+  "VERSION": "0.15.0-1",
+  "DESC": "Translates Django models using a registration approach",
+  "CSIZE": "70963",
+  "ISIZE": "329919",
+  "MD5SUM": "cffec2e1b891d718c792c801677ac8fb",
+  "SHA256SUM": "77c8a640de324e2fb6db54aa31a40f7ecb1a600efe6f8922cc1dafc7fcbc78b6",
+  "PGPSIG": "iQEzBAABCAAdFiEElDfdOBWnqRaePTlGr/XZUJi8b/UFAl6xSlwACgkQr/XZUJi8b/WJVgf+Ll/RCArLIFmqtL9mKXRMEcPrRlysDrunVOYqViFlSmlzeS7KiupRZwHD0hX5U+76JybRHfVIOz2uHR+CU5r4eOzitQZeBrK6KjyfEvDpIIwEtAKewcybBFJCH3BJsLhH2sLdhz+bXmw2C93R6bdN8Bv5Q0Rv2ruBBMkjmzrn/yrbP09VUbObQEpuHOYZZhuqzJ6j+hUWZM4t2Nio2+SFVWOWnGQEV4RuKI/T4+BVpY7tbJrXba8Hib2Y9hd7jvcfSaquTRKvSGyb1oLNPx4otzRhRyzob7GbdwosS6DBGRFYBGB7tgSyEU9VnSpUj9s/kgcmm5040najYDgGIJK6/Q==",
+  "URL": "https://github.com/deschler/django-modeltranslation",
+  "LICENSE": "BSD",
+  "ARCH": "any",
+  "BUILDDATE": "1588677069",
+  "PACKAGER": "Maxime Gauduin <alucryd@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "python-django"
+  ]
+}

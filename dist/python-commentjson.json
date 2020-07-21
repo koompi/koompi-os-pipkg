@@ -1,0 +1,23 @@
+{
+  "FILENAME": "python-commentjson-0.8.3-1-any.pkg.tar.zst",
+  "NAME": "python-commentjson",
+  "BASE": "python-commentjson",
+  "VERSION": "0.8.3-1",
+  "DESC": "Add Python and JavaScript style comments in your JSON files",
+  "CSIZE": "19597",
+  "ISIZE": "71942",
+  "MD5SUM": "14866f489c29fc6a3348b225abb48f0f",
+  "SHA256SUM": "a36900ccba545517d72d3c6efa241d4467d4fbd25287b9f30ee5608e57d347cf",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl7tIsUACgkQeGxj8zDXy5KbWA/+MCt4YMJG4o6tdlmIBDGHgJNIwo5BVJSDz5YgqjwTue+BVisnrRMIvEGGlOxgk4WTUJBPpl7vpsbCvxs9MNskJsRCp1QD2kYIaeCdb8YEdbpPn8NYPnE8zhgaEISwKOPTenTk+RV5wt6z+rGmEWos+dxA1B7ZjHYEO+B+VHo5u3JSEqOFuiWZ//dMhxUBNHHGgoJFaHzBIjWw3Fd194UkRoTiOT+rXocZMa2A1x5JZCghMp3MB+5sXs4as3cPdC3unB1Yy0KX1Xl3Hasxo6HfAn1rFb8OvepsYV3P8TIcAhKBfDJzVGtPjzYjm1K2rcYGIsvKM/NZLWkh1HFPA3ACgY9ZHVhL161+O1jpf4PEBnqynPEYfnZNAO0sVyYecLZPkUy/ej9M80yxalMonHEKi3H3jPhWtOeOqbtd1+ThtbElnbCCkCk8lCZZrDW9TBCHG6ZepsLlIXq1u7EDl2B9j9nkLPxfZ3Bkop5qzABTRT1EpUHoktQLJ6k33EC9pqBV0eL+fzL0xqKnaq5i0kV13QweCOYmHWWn/jDke5AsLcIEZHcmcVUaV6F95IdD+5F4a/XD5bfl72fZSaOAZ0QNRc6MMktnLE0DS9Fztbc82coKlu9cCRBcWKHlMNKPVk76NAQxhXlmAKUqwkn4PSKswxgc+o0Rddzj4lzB/kPQ/Zo=",
+  "URL": "https://github.com/vaidik/commentjson",
+  "LICENSE": "MIT",
+  "ARCH": "any",
+  "BUILDDATE": "1592598988",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "python-lark-parser"
+  ]
+}

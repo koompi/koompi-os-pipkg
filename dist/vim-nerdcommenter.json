@@ -1,0 +1,23 @@
+{
+  "FILENAME": "vim-nerdcommenter-2.5.2-2-any.pkg.tar.zst",
+  "NAME": "vim-nerdcommenter",
+  "BASE": "vim-nerdcommenter",
+  "VERSION": "2.5.2-2",
+  "DESC": "Plugin that allows for easy commenting of code for many filetypes",
+  "CSIZE": "34230",
+  "ISIZE": "161156",
+  "MD5SUM": "53376e78cf1f09cd537623e53d33ed72",
+  "SHA256SUM": "7d6577c996657120e85ac978b783e7fe0548e1ba57c5a81d4d4f7a1ed822df9e",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl8EuawACgkQeGxj8zDXy5LuSxAAuqVzzmLdrLE1OrsGoW79JXFpthkVDR1g79CKYekbmaqnFkT0Mi7qP826Ujh3GCz5ljCwm4d5+CCkQe/WUj1hd0CRO02QO6QET56gdfgfCVTPNBsbBgXivKDiTCpK9KoNCak4+aWFUSVOF+QoWjzFrweZ4b1aglofFZPUgus5UrOTYx74PYsJrT2CFgXUZkB9Edj148y0hRnNqA2Jvpx1fALYjkSgx8cdF129OCUpdXV3zRStCxTPAtMd0Mit59vklHbK+E8dbwyn9Y9YLH5akin+cfCCjgmtZjLaGks3j3LU3FCcmc01/Q3U/DyVUkbOX9KV2CZOn8OJG1eAXc2ZqxS4qWWb7D4cFVnIHOe3Cg1MKHgS0Yq+XJRZwnrITk73dx1qgX4JxZJVPrAm5XiaAdCaonylSw0wtXAnjuh2wAZYaVRLxd6P3h/iR6FMqGrc7b/5ikEMuEOMo7iuRQqJ4rNrlk308Avj/c5sfRvKp7tuFaNbKpUsLwBWsGXUYEK1K2lQWeseqo0YxXgJdPe7KyP9bocrrrJsZ9LHt8QURnSD/CL1klp2tlug0WjeCmIELUwul4/HxKX454lsD/gH7PjsUwwKzJ4HeUHyFvM7Mk/C/Jj4ZmVH+IVRAC8gNCJJ3sCHv/xvNNxPXsPndfOWJyF+fzHp4DgSeqnZYT2CDXk=",
+  "URL": "https://github.com/scrooloose/nerdcommenter",
+  "LICENSE": "custom:vim",
+  "ARCH": "any",
+  "BUILDDATE": "1594145141",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "vim"
+  ]
+}

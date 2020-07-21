@@ -1,0 +1,29 @@
+{
+  "FILENAME": "htmldoc-1.9.9-1-x86_64.pkg.tar.zst",
+  "NAME": "htmldoc",
+  "BASE": "htmldoc",
+  "VERSION": "1.9.9-1",
+  "DESC": "HTML Conversion Software",
+  "CSIZE": "2244844",
+  "ISIZE": "5184292",
+  "MD5SUM": "b171dbb892ee20abd2ed74623d9c72f8",
+  "SHA256SUM": "b695aaf8e8f59ccc40e65763e0ae8f7fc74d938956b8fcec544c9bb4ba2f82cb",
+  "PGPSIG": "iQEzBAABCAAdFiEEP/pqt7aarmzKJj3eAZp0dCl9hXcFAl7jcRUACgkQAZp0dCl9hXctMAf/cX35M3VQBQSC3k3mSoANGqoarh/qqWcvJVgHr7Fl0qesT4Kg81CeSVkF6AY1nBqRsb0TAQiLL7qXducP6tFbP8p+1T5Z74vDaECfH5MRLH8L3IrxfBO1yMrDMMM1IdvJRK6lGbVnAfU6LV9lNci7g5mAh1XI4NGLn+23S8FuCakok3Trc7tEhUsz+9InYNoEsJjd4zTM8EHMjrJPnAAT/qr9t4qEbUN8arvpN2j3EoE4uTUqvSotK/5kboOyKnf6rGB4oKcuSOgd8RnhrJGpvSg5gzWUO3DptqKiR9nRqXQ/ATGDWRy7MDjff0CGmcXW5ipxiucbHXl01scPAPLhmQ==",
+  "URL": "https://www.msweet.org/htmldoc/",
+  "LICENSE": "GPL2",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1591963514",
+  "PACKAGER": "Daniel Bermond <dbermond@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "libxpm",
+    "gnutls",
+    "fltk",
+    "libjpeg-turbo",
+    "libpng",
+    "zlib",
+    "shared-mime-info"
+  ]
+}

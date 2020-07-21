@@ -1,0 +1,26 @@
+{
+  "FILENAME": "refind-0.12.0-6-any.pkg.tar.zst",
+  "NAME": "refind",
+  "BASE": "refind",
+  "VERSION": "0.12.0-6",
+  "DESC": "An EFI boot manager",
+  "CSIZE": "2993647",
+  "ISIZE": "4536346",
+  "MD5SUM": "8c4e359541be8c500bb3ddbcc3a46ff9",
+  "SHA256SUM": "dde481c6d84ac5573b54fa46a2ccea2580c91f35efa465029dc9f8546bc5bcb3",
+  "PGPSIG": "iHUEABYIAB0WIQTH54SUZv4jWDQ1iDdyWHNLQcMVSQUCXqExtAAKCRByWHNLQcMVSXXdAPwNjXJWeGtC/RwsbuIBWUIbSLDo8KNSCP/Em4etb8lJwwEAyu6vKC4luPVssv/Vvd32caM2IlNOEMaoOQgZww9dugI=",
+  "URL": "https://www.rodsbooks.com/refind/",
+  "LICENSE": "BSD",
+  "ARCH": "any",
+  "BUILDDATE": "1587622232",
+  "PACKAGER": "David Runge <dave@sleepmap.de>",
+  "PROVIDES": [
+    "refind-efi"
+  ],
+  "DEPENDS": [
+    "bash",
+    "dosfstools",
+    "efibootmgr",
+    "which"
+  ]
+}

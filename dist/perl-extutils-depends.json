@@ -1,0 +1,23 @@
+{
+  "FILENAME": "perl-extutils-depends-0.8000-4-any.pkg.tar.zst",
+  "NAME": "perl-extutils-depends",
+  "BASE": "perl-extutils-depends",
+  "VERSION": "0.8000-4",
+  "DESC": "The Perl depends module",
+  "CSIZE": "14977",
+  "ISIZE": "23418",
+  "MD5SUM": "ff8239c12c1356e1b37376b8e7eedee4",
+  "SHA256SUM": "a55f7922dbb7303f0b3e3002ca2cf3bcd078ba99f874d20a1414cf08a2387480",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl7vNtAACgkQeGxj8zDXy5INuw//d6kUkAXu0tiSihIaiKDY0DqdweXMJzrxyJU7tVh+n/pqEp1DQlY1VEFUjUX7J32KNi36gU7UtcwRMbBTZQlBCKkqHeEi+avG21CAlSxeYCO9dkrwEBBZc4qIyrABtJ8XI1hj5Lu+Pp3573CgWqxwGs3VBIIhf+WgIh8K6eGkfNEiEauni8vr9vvjXcvf9E/Q5KX9G/QQbH6VcZ6pIV3u8PtsiZWXJjEX3FaMF69sCLmBanem8+N8Q+bDADpWoRu+X+YqbkXXE+JW5os45FrX0LF3zog1pxxyRcLT/vL8VibeakN/VleNW0mnGjPeucTNbPXSQnTGBMi4DWGCE+ORU1sdpd5j6khCGbPv1d9Z7GKKUJwYsPbudSRraRnVOZmFI1lQVpDywr29QL6lz8nXuGr4JH7ay1MbFeX4zz68KEAwuZM3harEHMHOgUfaSnHJMHzlB7V7eUw8zIqARljFZHareHEkLitKJRU8Pn/v0PLrKCtUKEnNfw6t1I3kUMiP+Nwz4T6+sqsbKS2U4bncAdwa6VwrIZ45GKA8UO1a1Kt+z6RJ7AOWfakq9k6UB06GsC2Vj6FBCOmBg8gBmna5Rbtglpifu+kuqtlCd9KjsLE3mS6ymWRo7W4bUSYJhb8tmjoDlmieHzLwqMtG1osXS7pvsNF2MgoEtjoYs5H9OAE=",
+  "URL": "https://search.cpan.org/dist/ExtUtils-Depends/",
+  "LICENSE": "PerlArtistic",
+  "ARCH": "any",
+  "BUILDDATE": "1592735242",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "perl"
+  ]
+}

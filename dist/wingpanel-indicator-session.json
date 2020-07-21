@@ -1,0 +1,28 @@
+{
+  "FILENAME": "wingpanel-indicator-session-2.2.8-1-x86_64.pkg.tar.zst",
+  "NAME": "wingpanel-indicator-session",
+  "BASE": "wingpanel-indicator-session",
+  "VERSION": "2.2.8-1",
+  "DESC": "Session indicator for Wingpanel",
+  "CSIZE": "70422",
+  "ISIZE": "245235",
+  "MD5SUM": "32a8fb923ad1020bbcd24022d9e804e9",
+  "SHA256SUM": "340d7d70ad516c741abb1dbee1a6698e5168629726b6b86ab8d6901db5325c77",
+  "PGPSIG": "iQEzBAABCAAdFiEElDfdOBWnqRaePTlGr/XZUJi8b/UFAl6GnH4ACgkQr/XZUJi8b/UzOwgAtjxFiDH+orFQsxA3Qup0MvoliY5YyhQHwbr2bbBfvJqT13eaZ8ZCpIbqwJHnxCgriheI6NHBri/nzFRXqavnQAoWEjEWh5NjgKJpTUAfJjHseArHcWw+dmq2IJ192WnKp98FBYPtZOSVSM0MfuICi1m3X2Y2eSf11svyWpNtWFq5GZ+9zyiU0IrrBXhsghDHd1K1rsI5VgMBIygNGXtdEXo+KS+5t26bvdzHfFqp9QeVQDOJRdYaoij2EcatyFb/NGC8nLkODjH7j6RXhEY7mdV6Hnps0YNcaPq1nmyzqzvom8Tzf3cayY6XvcSp1NFc9pBNc+3eouT6bTc6qDgl1Q==",
+  "URL": "https://github.com/elementary/wingpanel-indicator-session",
+  "LICENSE": "GPL3",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1585880142",
+  "PACKAGER": "Maxime Gauduin <alucryd@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "accountsservice",
+    "gdk-pixbuf2",
+    "glib2",
+    "gtk3",
+    "libgranite.so=5-64",
+    "libwingpanel-2.0.so=0-64"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "FILENAME": "python2-urllib3-1.25.9-1-any.pkg.tar.zst",
+  "NAME": "python2-urllib3",
+  "BASE": "python-urllib3",
+  "VERSION": "1.25.9-1",
+  "DESC": "HTTP library with thread-safe connection pooling and file post support",
+  "CSIZE": "171138",
+  "ISIZE": "720818",
+  "MD5SUM": "ce244cb9dfd8c47cab7a6fc54a435f3f",
+  "SHA256SUM": "c56ddee5006721c9c1b62bdecbc24fe3efb8649147e6611db20a39c51192eabc",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl6aBEUACgkQeGxj8zDXy5IJ9Q/+PxNrasehGOSQ5xQ6HFnvWLmb1FvYv7bGzv1JGAUNUDKhAAGxXOK82+5myevYnFyIp5vG+aRd/TDcZVJEayqNzl4QH5Jkq+XKoZ6yfkCb20ZMib9zLhZG2FnoK/usSjo3j4B1Y1V0N2hPelSqmvL3mHr7F9SNodEfvt69GrvcvXOQPRWdi3oRkG1uvKSJJJ0bqgr0Yz2z1prtXmnXkD/MewDnVUzHmQCXb6Sl1vplJ34cVCM0w0o0Io4Tc3kp1NVI+M2N4Dn92JixxwBWElXnQaTgqJtJ5EfvBY90+glLvmVFe4g3YbpnBNlhw+L7HjZbX6Y9aLce9SEoHTKNTVG7EvGpuJDY2e88oBlfHP/XrU8mEIBNl5O8qW4ST474oXJktFZ0UZDnvyPPYp7SZ3SNEtek1LJARJBcTYeKGiv5bnGCMHl87HgTCIR+b3cOUENIv4ySFufQKNfAEXcIaaXvFEIGJfkMTX1sJb7UXJS/DElbEVGPkbqPdYFxTlfhIxx1s4kVv/zknWetxUfxcmWi8ahGIhdXMuxG5+8Ezm7nO3ZFioheioMZ45aLxuyxlDRaG8dTaQBkiWLvcJZ8L81t2HxxoX80Iiqhb3yrc03Nb37H5cVKC1IAg7g9QswyZdLIKwRUt78TRnPPzaxD5XYb/7AD74SWsQwH8ztTYHOfjrU=",
+  "URL": "https://github.com/shazow/urllib3",
+  "LICENSE": "MIT",
+  "ARCH": "any",
+  "BUILDDATE": "1587151580",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "python2"
+  ]
+}

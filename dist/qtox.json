@@ -1,0 +1,33 @@
+{
+  "FILENAME": "qtox-1.17.2-2-x86_64.pkg.tar.zst",
+  "NAME": "qtox",
+  "BASE": "qtox",
+  "VERSION": "1.17.2-2",
+  "DESC": "Powerful Tox client written in C++/Qt that follows the Tox design guidelines",
+  "CSIZE": "5255218",
+  "ISIZE": "7799807",
+  "MD5SUM": "f5dd76dc17d2494e3f0f748084579b77",
+  "SHA256SUM": "5441f9a43a728788b5bc7de868c896e9c4b46db496ef3d3b3d9a8b8b5d10a2b3",
+  "PGPSIG": "iQFIBAABCAAyFiEESx3lRagB1FSb/T/vkMs9YsE9R5YFAl61HxkUHGZhcnNlZXJmY0BnbWFpbC5jb20ACgkQkMs9YsE9R5agAQgAhe0LEkW8hs/0sZY1FTrEy6IYbLFxEP/DJ1RFV3+4DMvwYwXMgflnhs6+azskmzvBVXg+vDI25Cyo2PHCeQTnTZU+sk46w77PuqXt7ObDIlGb0o3G8u36JXr79cGUj3PVLSF3is4/DbFe7P1aiX/Z5DP8mJeE+Djma9cndR6stCZ73HWFmjCraJQn0mU2InZeqNNHwGXx5CJsEhF7sd+24ZHQRDlw/GPypO007cXyash0T4liI2EDAJq0UTNAmFK6EHjk3TSFTszemE5RNt+oktiJXNUzr+VAp95BdUIsmPC3O5DLlBK9+WTwdW0UgNlxVtwicWm5WTf0eQol0TQFjw==",
+  "URL": "https://github.com/tux3/qTox",
+  "LICENSE": "GPL3",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1588926044",
+  "PACKAGER": "Jiachen YANG <farseerfc@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "desktop-file-utils",
+    "libxss",
+    "openal",
+    "ffmpeg",
+    "qrencode",
+    "qt5-svg",
+    "sqlcipher",
+    "libexif",
+    "toxcore",
+    "sonnet",
+    "libgl"
+  ]
+}

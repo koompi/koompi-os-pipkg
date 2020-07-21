@@ -1,0 +1,23 @@
+{
+  "FILENAME": "perl-dir-self-0.11-6-any.pkg.tar.zst",
+  "NAME": "perl-dir-self",
+  "BASE": "perl-dir-self",
+  "VERSION": "0.11-6",
+  "DESC": "a __DIR__ constant for the directory your source file is in",
+  "CSIZE": "5517",
+  "ISIZE": "3877",
+  "MD5SUM": "2d6f38d3053c64a5aed51963b48e9e7d",
+  "SHA256SUM": "fcecce95d4dee8cfa5289ac0dfc0432d2e6c3e1a2a0925e39e0a795a2ebeeb5f",
+  "PGPSIG": "iQEzBAABCAAdFiEEhs/8qRjPOvRxR1iAUeixSKmZnDQFAl7vNQcACgkQUeixSKmZnDTdKwf9GV0ZLL1E4AlcPzQqyLSuSr34BJbdTcsQgXDSpFsKp7KmIk/shsXEBmKgbGu5aV5+ZuYohEt/LjguZX6QMByOw3tQeI7QHNBg30tnlyVhUBdLhCcn1svxLjwyFaLdWUiDCdxesReNHUYQiYSV1WGTw9coOwsSg05ua4my/VzvB4hBac5YAq3X6nLSTfyWWF+f618cIxy7GeUcBJoxvz/k5g+BRGQt3FL8Qxb4vJ9jX6/OIVFEtKzH9iJJFcb1dqOViYBHr+Py/bp0eIIaR8LUklE1VLXB2/DZhZAWeIi0bpIZtMmWxBaEZIo+CqrwFa7uZYXn4bZRoJznpbvEzjTIGw==",
+  "URL": "https://metacpan.org/release/Dir-Self",
+  "LICENSE": "PerlArtistic",
+  "ARCH": "any",
+  "BUILDDATE": "1592734969",
+  "PACKAGER": "Evangelos Foutras <foutrelis@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "perl"
+  ]
+}

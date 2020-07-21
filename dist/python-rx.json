@@ -1,0 +1,23 @@
+{
+  "FILENAME": "python-rx-3.1.0-1-any.pkg.tar.zst",
+  "NAME": "python-rx",
+  "BASE": "python-rx",
+  "VERSION": "3.1.0-1",
+  "DESC": "Reactive Extensions for Python",
+  "CSIZE": "235094",
+  "ISIZE": "1921404",
+  "MD5SUM": "8723476d2f1376492a3534cccfe45f1c",
+  "SHA256SUM": "1be857dc235bab05fe5ba74e615b9503702786a25e31b1cd2aa7f9879e1d2469",
+  "PGPSIG": "iQEzBAABCAAdFiEElDfdOBWnqRaePTlGr/XZUJi8b/UFAl5dIbcACgkQr/XZUJi8b/VxSAf/S9xSzcWeetQNoJ4nzWvslEXmIoy6/AiP+qoGyiN45fjJtTPWrf5Xe3lOnP3fxlOgH8m1Cw0NPY8deQi/ZonOo0895jINl+FMaMKc7JrDAeUfSfZzxgcJalL2sMV09NAFM3wYjLAn1wHx8vuhE2s6cxPLjUd/1wlbcnvH+dqm14WsApR0utb14WzSJ1eKPpbF+etyV535VXULEmEL3akdYzuRJ6gwOUMwBIlbLRRIya9zYDYH7eMPBdwpIcmEyBULmSGSRh41sRBO5qtoOc8aeBjx/oMXXmpLjY08HR+iZxc3jMYaD6XJbyAoFDs/QXL2dDX3fnvropOKiWCZheZp3A==",
+  "URL": "http://reactivex.io",
+  "LICENSE": "APACHE",
+  "ARCH": "any",
+  "BUILDDATE": "1583161743",
+  "PACKAGER": "Maxime Gauduin <alucryd@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "python"
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "FILENAME": "seamonkey-2.53.3-2-x86_64.pkg.tar.zst",
+  "NAME": "seamonkey",
+  "BASE": "seamonkey",
+  "VERSION": "2.53.3-2",
+  "DESC": "SeaMonkey internet suite",
+  "CSIZE": "38727999",
+  "ISIZE": "146779216",
+  "MD5SUM": "f22a0a6d764d188416af8dda2a71c09d",
+  "SHA256SUM": "9172de4b2bbc9c4fff7ee3b948b20bc675870e3fa5439f822fb58e2bb38a4ee3",
+  "PGPSIG": "iQEzBAABCAAdFiEEhs/8qRjPOvRxR1iAUeixSKmZnDQFAl8HW/cACgkQUeixSKmZnDSzCgf/TPXPZjrY0khNlXAoo0LB1rcvD//gw64yxFa+IWL8nEdFX3lFdSU6meSFmqxRNrVriC4QUYQlTia+DBnkYc4a6RZ0OAbwXmnizOpcnbXRh15jJLReNnfY9YJZF8EhUBtwfPm88A9OIB42/QY4IPLQJBYhUCxInV2nfDzrfW7FpxC97zASJFvaK47fWfFjDIG46Yv+isxA1Os385URMcMIXxbIWEGewOjI5LTj3MmZi4/knKHjybHDSBRvjlLP+grtHHauTx1W6LiDGPRkz9EI8cu0pcMssBAM5zd27z0hv8r61E1018fHSdhBXi1XuebvsVHp50zDocKUbEY8Tz1nqw==",
+  "URL": "https://www.seamonkey-project.org/",
+  "LICENSE": "MPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1594317041",
+  "PACKAGER": "Evangelos Foutras <foutrelis@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "dbus-glib",
+    "gtk3",
+    "hunspell",
+    "icu",
+    "libevent",
+    "libpulse",
+    "libvpx",
+    "libxt",
+    "mime-types",
+    "nss",
+    "sqlite",
+    "startup-notification"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "FILENAME": "perl-danga-socket-1.61-9-any.pkg.tar.zst",
+  "NAME": "perl-danga-socket",
+  "BASE": "perl-danga-socket",
+  "VERSION": "1.61-9",
+  "DESC": "Perl/CPAN Module Danga::Socket",
+  "CSIZE": "20056",
+  "ISIZE": "48285",
+  "MD5SUM": "1d8a6b81e03f7594d672d6c10ae1a4b6",
+  "SHA256SUM": "d5d9101ed530cdac40b6d5788b7e5dec417a74e589d0fe75d2e9c3bf1508a234",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl7vOPYACgkQeGxj8zDXy5JYSg//YY5Xzh8w4ti43jV+Q2YE6k0mQO0DSoQyc5hbAY+ftYzSVDyiuxiU9JvEXXjlB6SWhct3FlPsZ6xJRcw1ygm5Kz0ktPjwOJh7ASUYW+VlV1JX8Wnyt8zUATmoau4T6k26TPVeizUhVSpvdSjNG6sQ/JOih+z2Nr/rWA8uym3MQTEy1YH/Vj+qjRFJyo9PRps9MX0TsPASWGKib8YnQ1tJUXCF2Mq/EJJyglCCadxvr+SD9hJMubF5alU+JuAO287MWxMG4AhSueMZXLtnfrN6IIxhOv2oA3Q/d2XKpoa8JmtC0/2OchwfQbFEatnNOK+h4+w24VvX3kuFOeTolze40X3sin9PLYmRmNbnAPFMe7n7Y0UJRd5A+voixSvR654lATAcj+ozR/PLAiVlwsf9RFd/3DOPdiFxXG1IYJPbB0SpXLfkdClmOfZiczxpcco478g0tXbeBQ+Zvcu0zX4zz3U0ZfYW5RC18YkM2DuipLNmUsmrfXIoLH0ZpvZdb8g1R191fWPh1Q0/Z0J3yrebl/+70j78dw4QoBHZ/fJm+Al4En5J+iDiwrDL/ZCDaZDG0z+lIdP8gsdQQW6P9Z6gX8JifXgtZ0rJYjnGFsJzXwEucRpuWFgdAo0uv8A12gu5719n1gviUe3Y7T8+jIKyosEqZmAduIiA5FSXvFp8j1E=",
+  "URL": "https://search.cpan.org/dist/Danga-Socket/",
+  "LICENSE": "GPL",
+  "ARCH": "any",
+  "BUILDDATE": "1592735971",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "perl-sys-syscall"
+  ]
+}

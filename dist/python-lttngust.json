@@ -1,0 +1,24 @@
+{
+  "FILENAME": "python-lttngust-2.12.0-1-x86_64.pkg.tar.zst",
+  "NAME": "python-lttngust",
+  "BASE": "lttng-ust",
+  "VERSION": "2.12.0-1",
+  "DESC": "LTTng-UST Python Bindings",
+  "CSIZE": "9366",
+  "ISIZE": "26842",
+  "MD5SUM": "44fb98ac8b9be35b215666e599ef2c08",
+  "SHA256SUM": "f01cfd520ae229b42d5e58f7140ace2edf037fc63510f36f3200138993abdfe6",
+  "PGPSIG": "iQIzBAABCgAdFiEEBR6tamFVOJ1p2gLl63Y7Tp24h6YFAl7jZCkACgkQ63Y7Tp24h6YPbBAA1aDQP8DuH14n8H5DUctdXTWLD0nqEoUc7yJNgbAXf56Dz6mvGzKFz1FB6faQynRGob2LfpQ5gm9mpJGs3lD/Tb9PFLP845Jw4rYGsFrg8PS+ZMgRgmegegRYQ/o5ZFSPzVsPTTmMvkZwe5E71yRGz6i4H2RtohTVFSGk+5iS3fszELu/zwzu+sdKrFW2ULDc6EBH5Pbn6Wm12COOTzzwU9nKM60zK3tyb99AzHQq7NkzeAmRCHuaJX5jLs0HsSPo/2J0P+686h+dRdc6YHuzsoma1BKRGqT6wDL/QrP6WNOymKsD6oRQBT8coiFC/EjN95FVT0IyzbzClholThMtMbq0DXG9xZIlqNpt6X7DZzIHKm9pYlm1AhiKuRBQNDFeJNBrfkgGZTc8V8sFl54UBvOh1CS0AjKFPDoltiCTH+wYYyUt7+Z/ddzJOq405z1fonSTKt9pv+D87prjfljgxuQAk/IciNdX/xBqUH302komLe5vhE1Z14g5lr42w37D9NnE+Dd+lziw1AqGdEVm7ERuVoeDDThecl/rqdmX7jsz8/5ZEcXDnZ53KgDeoEj7Pg2wFR1F9uCTC0O6iDQfi54NCv4bOynZHHaCIgs2SfnYzZZBBhi88sJNcLcX0QIiTgj3a44i7aHJe+PfIESYso4unyuc+iDBe0r6vcJh/Ps=",
+  "URL": "https://lttng.org/",
+  "LICENSE": "LGPL2.1",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1591960534",
+  "PACKAGER": "Thore Bödecker <foxxx0@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "lttng-ust",
+    "python"
+  ]
+}

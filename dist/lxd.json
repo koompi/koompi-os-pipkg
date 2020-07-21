@@ -1,0 +1,30 @@
+{
+  "FILENAME": "lxd-4.3-1-x86_64.pkg.tar.zst",
+  "NAME": "lxd",
+  "BASE": "lxd",
+  "VERSION": "4.3-1",
+  "DESC": "Daemon based on liblxc offering a REST API to manage containers",
+  "CSIZE": "24574656",
+  "ISIZE": "141565000",
+  "MD5SUM": "554735c3fbae911f9c2c1a432765a018",
+  "SHA256SUM": "5cea86586ac1a84e75123d6ae60aa8661a24a61b762b29d0d9807663c9e6bb1f",
+  "PGPSIG": "iQIzBAABCgAdFiEEktnGzemaICTWkKdu50JoO6CMsv8FAl7+QfIACgkQ50JoO6CMsv/Ohw/+O2/deyhDNz6bbOG5oSWa/AH4jWj0etYdgAQkETeQqjMIxkISGw22EijcAFn391zGook6hHeUJWesj/gvagkkrHmqtatZRNShF7VHsZFCNntthbPuDm34uPnqAf0JJepECNWeM1yN0oaR6e0cUBvKSTl46y6LW/CrRjvmQa3QTKMMlVaw7SormjR0Ib7vpnunPDxjgutMKCtL4tgsqDbCS17M0RGwdPRmBaJai9Erk4hBtUhjeCfh/sfWR/sdxQFcSFnf1IOEorm4xzT3bxqZxVsvDbRBae+QHtlLDeddTdCSsESn3e4kG+wRSGnT3G3to05atjCp/5Gzr7J5QlddW+nJVLOv7G/Xpic7/sn32vX2ZE7VkWfoxMftkvu9uEPzHB3Z3ysEJkquTlivnvK/DxFtyJgJqlWzbULAzw4SO7RTbgKgoLmnS9IJ6p7BZr/noAt1VPqcWYL9PkfnmUDeqKU/fMlPtfogiSJRpa/CaxAOo8Y3woWxNtxhivc/hDdBsO6gEQmjTZDdmE/J97Ztz1trLM+3a83aPiW2p5/Z2csheRC5szy5jYHCvFiA6y5Uw4/VJoVNc+67t34A7U/Os2ps93tzhLtZ0uV2lYGIPRRJoMOLAEBXQt1K6RZEIZH2wYJ7XhpS3yVJgVdJotLr/8yLiVjcCySJgO/r5h5GFjE=",
+  "URL": "https://linuxcontainers.org/lxd",
+  "LICENSE": "APACHE",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1593721035",
+  "PACKAGER": "Morten Linderud <foxboron@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "lxc",
+    "lxcfs",
+    "squashfs-tools",
+    "dnsmasq",
+    "dqlite",
+    "libuv",
+    "sqlite-replication",
+    "ebtables"
+  ]
+}

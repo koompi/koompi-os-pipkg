@@ -1,0 +1,25 @@
+{
+  "FILENAME": "iscan-2.30.3.1-2-x86_64.pkg.tar.xz",
+  "NAME": "iscan",
+  "BASE": "iscan",
+  "VERSION": "2.30.3.1-2",
+  "DESC": "EPSON Image Scan! front-end for scanners and all-in-ones",
+  "CSIZE": "304604",
+  "ISIZE": "1357824",
+  "MD5SUM": "e0d996232bec7167cd5a7be0497c1888",
+  "SHA256SUM": "5ca9c01920d52ba6e47fdf21831443d404401aa1906f225ae6c593fdabd77cd4",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAlvmB2IACgkQeGxj8zDXy5JwxRAAkfBiN8jgLnj6uN1PNWTrl+XMT56MoXFN+44SWB8iNsxzeV0/0E8qRk2jJObSeIBGVLqZbfSB2WxCc016HIgyNjZU/48AM8JT9TfNPjrd4cpXz0AsqVHpHviqBD6N66Pm/j2tIYUhWbneG7PMZFK7cdwMlvRvnsLIChi6pGsNnaTAgmu/I8MivxctywPD9Rq84zkSKFb7gO7Kv7kc7ntnsFGtiF4zH+8SOLCDEGYhhnTewhxUrkJGPT/B+QGBjraByeRcw2LUv8EZW3Py1zszS3zP0Xp5eoXc3tvxsdjp+aZGaVaYZwnPIpGL8asPs0fSgAuVnFJyfWA27IBcRVZMkkh+6azdSzFFUeY3YO1J1jF+PbTjjGz4GsSaCZGsfgiMNFuGwTgVi6/Rh3F/2XXqoEvC3mHBeZ3u9rM1MfAPOTc0hq2Oit4YPfYy07iUWYzK+GXJl1e1fR8TQ+7eX8VQq0EZXC31zN4M7cWlStJTjAx4PI2Spyt5nMreIul22XudZJ1gcBYe92Uk+vKrcw8Z3tIG5AO+NGH3m8GJjZyi5hyCmkiiZfBcNuVPH8lik2/Piopsem2IhG+EQ4j77JEb1ujeAfa9Wam8h4KgVaJ+cDxq2JUocdeArBaa/ux/HuOKykgAdV+YOG1N6mDhmAohtY3W292GNCf7/pB5y7givv0=",
+  "URL": "http://download.ebz.epson.net/dsc/search/01/search/?OSC=LX",
+  "LICENSE": "GPL2",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1541801714",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "gtk2",
+    "sane",
+    "libstdc++5"
+  ]
+}

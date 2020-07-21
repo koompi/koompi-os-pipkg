@@ -1,0 +1,24 @@
+{
+  "FILENAME": "colord-sane-1.4.4+9+g1ce26da-2-x86_64.pkg.tar.zst",
+  "NAME": "colord-sane",
+  "BASE": "colord",
+  "VERSION": "1.4.4+9+g1ce26da-2",
+  "DESC": "System daemon for managing color devices (SANE support)",
+  "CSIZE": "8743",
+  "ISIZE": "32112",
+  "MD5SUM": "d16170af9cdcca15ac768fd9f7babdeb",
+  "SHA256SUM": "3f565588b330cc4ba4fd436c2570b76bd4036e7095b8a1b9879c40473f193f64",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl7DnT8ACgkQeGxj8zDXy5L8sBAApf+6ZKYJUmsFWx5sMvm2McZUnD5+fcY3qphDEkuwP8+9IzEGWD6O1pqvZ/hb5/daauyYdRmuo/OV2WSszJtB0+vOTqZbh9lsdfpGqAvLuJ+j5rkTBOw4MWeGK3eeiukT/WaM5FDUFSou37M2smf/8f5OhF53WVcTzCg0UsXLHL97BX5klbJyzUyJ2teqd309it6a0yP1a3T2gIfB4+WJUvNNtIi1BpIt4WHoq2gDzouc9fV5j+ybi9FsL4Qv8MW208fQi54brwqWwspP5SXoWKhsCrmyzefZxmywCDQ/U/pT5YJFCvcciMPJ1hh56qJof6Noc/uBmRA0sG6dNDE1jPSGf3OwvWapJVJZdriGjLI9I/ZBggEywXh9iHyBXjfTUpAWVM1MUI0LRDAC4VblzIix794Dk2R88LOmhBoiE1R6HGnHadz9YzbwyGMzTPvVKHGRhIOE9a5ZaF3H0Qz+ClI2AoVEHD35c8pk1TML6iMGTln+teGVSJAwK1PdkvvZL4/jfGdv4VwiklFEjnrStTUcNlfjn+C4nerDJzBkFFPW9JTLc+aPgRefem/LKpiFIcx6jNwDHCekSDG62tzzNrcpApHO+Xct8SCTOZ4baG0InzrE/W6S5/WWbQltk5wJld4MNjEyqyKDs3G8qX/bKHe7+7G7b//sWQrhrDdnEuw=",
+  "URL": "https://www.freedesktop.org/software/colord",
+  "LICENSE": "GPL2",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1589877903",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "colord=1.4.4+9+g1ce26da-2",
+    "sane"
+  ]
+}

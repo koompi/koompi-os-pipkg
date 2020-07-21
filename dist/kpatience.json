@@ -1,0 +1,26 @@
+{
+  "FILENAME": "kpatience-20.04.3-1-x86_64.pkg.tar.zst",
+  "NAME": "kpatience",
+  "BASE": "kpatience",
+  "VERSION": "20.04.3-1",
+  "DESC": "Offers a selection of solitaire card games",
+  "CSIZE": "3676034",
+  "ISIZE": "5124712",
+  "MD5SUM": "6039cdffbe784366422422d93210796d",
+  "SHA256SUM": "bf44826b99f9314e22c1a854ef7e11b39f95d4056e8944fa9df66581d83fd1c7",
+  "PGPSIG": "iQEzBAABCAAdFiEEFRnVq6Zb9vwrc8dWek52CV2KUuQFAl8HBcEACgkQek52CV2KUuShDwf/ZNVhUwmCNXhLltDbfPwAxb6o528tJ6HONYhdf1ZOdLDfIqAMCQ6845I21pqwfrVFwvguc8BZerYsKtjm4wezcHZQV1WfiLZnDhn3RHijfUHyZz+4apNZjG41f/kVK6dnMiVnSKyZiSTIlSUSpPIvoxgNPCzhj5SmMLmEr+sgazXDqfyeQVGkJGAsWUyt5lZaYEiVkE27kw9+OIT0bzxLn4bln0oKLuCIX/+NHGMWpX0haLxpsSaS/UU7sIoTLcS63QVJaz0WsluQJuJiIfcPcMXPB+rNvjK26KNHShuN0YHUiCcLuzYaiNcvJq8trY7dpD+KScoESswPyxFvAZxlHQ==",
+  "URL": "https://kde.org/applications/games/kpatience/",
+  "LICENSE": "GPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1594108978",
+  "PACKAGER": "Antonio Rojas <arojas@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "libkdegames",
+    "freecell-solver",
+    "black-hole-solver",
+    "hicolor-icon-theme"
+  ]
+}

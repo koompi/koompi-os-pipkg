@@ -1,0 +1,23 @@
+{
+  "FILENAME": "python-btchip-0.1.28-2-any.pkg.tar.xz",
+  "NAME": "python-btchip",
+  "BASE": "python-btchip",
+  "VERSION": "0.1.28-2",
+  "DESC": "Python library to communicate with BTChip dongle",
+  "CSIZE": "46032",
+  "ISIZE": "281389",
+  "MD5SUM": "9f073c4c2c1f3ba13d69e2270b49fd11",
+  "SHA256SUM": "5de9e7f2fd906e717daf348c0f6bd7a719a674aff5f736decfa50b422f11ebc7",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl2/vt0ACgkQeGxj8zDXy5L8QQ//euGoA5m8DtWICq6ByBsRClMdpawqrDgbQRIowh1aOrGSV12i405bEWbpDUV91A2e6y5v9U1d7CaeF+tx3YcEnaVBUrnbwKfs555fOBhIXTu7Y+PQpbbmb5HLtQVzJjkwqWo7Boxr0w7jLnttYVhdcfnbLAwFT5L37ohWAWIAeUncGwF3IzQ+Rt5Dd+qzNnZQcriMiXGgwJuRlNK5P0d1b00EE7ETm4Bd8YbaGtAnfYs1dnJ6X+eyt3KiprKZUQ64GEUT6XFZcEc5oNZyAFfBOw2sYDt13ccUopu/SEWD1F5rTGq9LMfzjT550D68F/GB82NArXGOAUMJZiErUmhyBDITu7J+U8lPMm50mQHoSJRNCke1DlbrbaQeOpeJGDN4virrlfhaOJ2jcgK92+BHUN1PtNjVQ1lNLKh7sxZgCP19EKAqv5h6pAd0KZ/j7XvoM+KYcPFUaqw1kJRyUOFlTmOhpt9VlGUVNemn9rPyxoFS5u/+rSMlw1ht8EnARnr7KZPczhpzHtWKAynL8kPMvErGj8ytQzhNgkBj6Y8z1quGZGFQBLyh02TpqfAg8k4PapZEByh6CowHVEhMgb9Z0GZJsjFEq9Z4szaoGM4ZMqiinvZDY0owyF86FXwLLWDD/eB7bA4pmrQyNrBb2Z5gZV9OapVcUhsJ9RmKlHFpTmo=",
+  "URL": "https://github.com/LedgerHQ/btchip-python",
+  "LICENSE": "Apache",
+  "ARCH": "any",
+  "BUILDDATE": "1572838591",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "python-hidapi"
+  ]
+}

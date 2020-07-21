@@ -1,0 +1,23 @@
+{
+  "FILENAME": "telepathy-glib-0.24.1-4-x86_64.pkg.tar.zst",
+  "NAME": "telepathy-glib",
+  "BASE": "telepathy-glib",
+  "VERSION": "0.24.1-4",
+  "DESC": "GLib bindings for the Telepathy D-Bus protocol",
+  "CSIZE": "1624566",
+  "ISIZE": "25327637",
+  "MD5SUM": "264ac604d468c99b88cbeb7f24122b53",
+  "SHA256SUM": "2d90bac0f52935d48bc09704bdc26e30ac7c3c11a96649766a7f0083cb44dfaa",
+  "PGPSIG": "iQEzBAABCAAdFiEErcih/MFeAdRTEEGelGV6sg8qCSsFAl7cx/gACgkQlGV6sg8qCStiCQgAhirYRsUm1Z7h6Nl2kYTgZWqU5ucxfrJWpb9pYuTTnW6v9LePxi6ou3WHjpjS2/GKwwYYKAHIQ/03/aOzqFs0Es+cHvya2GRO4fzY+wv5gNDnJ4p/rRqVQVkkVYyknqyNR1K0wgsS4GWkEiMYcL7TpoIj62RnWd4qSipoNDFOhTgu0Of9kIauuI2HFoOqq8pJnBoqxIZI26gHoMUkzWF3OYlTj/8HG9kQNkVokUm17Vp7upm+526eYPQozaOFKX56rRHVolQh7aynX35p72tE2EYAYEISSRaYBwX1jcoAvZJJk75Ciq7Cd7Yrbe7FKtCQxWCrtQzTaecW4Iymr2siLQ==",
+  "URL": "https://telepathy.freedesktop.org",
+  "LICENSE": "LGPL2.1",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1591527282",
+  "PACKAGER": "Andreas Radke <andyrtr@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "dbus-glib"
+  ]
+}

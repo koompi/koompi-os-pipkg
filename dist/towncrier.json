@@ -1,0 +1,28 @@
+{
+  "FILENAME": "towncrier-19.9.0rc1-1-any.pkg.tar.zst",
+  "NAME": "towncrier",
+  "BASE": "towncrier",
+  "VERSION": "19.9.0rc1-1",
+  "DESC": "Utility to produce useful, summarised news files for your project",
+  "CSIZE": "45240",
+  "ISIZE": "206973",
+  "MD5SUM": "d6bb1f25c685c7b565eb9e7296155cfe",
+  "SHA256SUM": "6e4734e268e25d48d2d2424bf7654d57356d4b5367b76bbbd1a569c87170d43a",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl51KikACgkQeGxj8zDXy5IovhAApelFx1MXkC1PLkPPcJI3tfMDCdc1mw20BJrDUbPAgI3BKEbKqNt2EQ/qrNAyTc7i7aQ9d0DcM3ooNsr6Pj+xm5t9+w6l2p0qpRnyK2UIVLYC5VKyrZdEm27TigM0cSP4+54yHLH2N8+9LLjNNxygSA3qkf+CgilGGegE5EzjHZDhS3B5bg1Nekz4vIhs4Yx2a9rej2KahcWxPuScc7TsBo3DzmY3DeD4jfewQKt4sA69OJ9OsVmMRm4A4Y73Q0lAU9pG0aES8JZFiYCyPbuVdGcXWLf3bVt/gaUD9Hny8U51RrkN2XPnCi0GiWFTsnftJMP+rRbsC+7BZygB9j4PCFwCfKPsf/8vD1YV6gNitHZSRqYPF9FqvJeulobQi3ty1dcdp9BEzrGf+JR0cdIduEiT9DuKmtv4/TaYLhB6kBMM2YhSJMJFWn+cPs84igI7AvVsddu0oOGksxfohXWe7Um5aWsxYVAwR21VUwHtm2kRF4cl9OBA4dSvMhdQj/nh6c07Yva3xD2uPSa6VljiiSxFZJ/GuTwZ6U0MapYa1d8KnUN9C2iFjIhIxEJRDXj47BMKLrWZDP4I30EZqxofkJ6QPg7LAUusB3WRFgj5CO0+NdOGUABHDmVwWQhbrwVvD9ob3V4o5vZdiLT9o1TKWLZhOOoyELzWA8agmPWEvZA=",
+  "URL": "https://github.com/hawkowl/towncrier",
+  "LICENSE": "MIT",
+  "ARCH": "any",
+  "BUILDDATE": "1584736740",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "python-setuptools",
+    "python-click",
+    "python-click-default-group",
+    "python-incremental",
+    "python-jinja",
+    "python-toml"
+  ]
+}

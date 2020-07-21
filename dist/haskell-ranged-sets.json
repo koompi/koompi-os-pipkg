@@ -1,0 +1,25 @@
+{
+  "FILENAME": "haskell-ranged-sets-0.4.0-36-x86_64.pkg.tar.zst",
+  "NAME": "haskell-ranged-sets",
+  "BASE": "haskell-ranged-sets",
+  "VERSION": "0.4.0-36",
+  "DESC": "Ranged sets for Haskell",
+  "CSIZE": "72591",
+  "ISIZE": "331800",
+  "MD5SUM": "78ba446cff39264de6edbf65546f3c41",
+  "SHA256SUM": "c708a4e30fe5ca56738c4fdd1047c76dd7f4e4534b71b32f025deb6451a3b4ab",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl75EcgACgkQeGxj8zDXy5ItKA//bYLXixpHWgz76tQpLnmAEAXxiK6xQvGNB54CxjXCMRuNfevZdlv4Ej2DveyXqwlINOdNy9hNLrOig6vayuEcARwOwuJiu+vmIzPklU2cAVcrUcdlerRWshoNelAF4v9Ruf8dLEEA6HTpkO7nmjXELe0SRUD5TxEDw+w4+iIZkJm/AJBw6/AdvH6thQqE6hy0V/OCSLTdOvjsH2lDb7jC/zftSrIFvrwzQdhZ9KXMX25DZGLlYnYDyZR++OYJN5f6elk65zBIPtLGIz4n7QtEuk19NFnQ0mz22/eUAnetZuay3ojB+F2UnI/N4fvW/yxQehyaN4trZWAH1hRwFc7l7i1+glaH4aZMw6WP6NJ/7Bd5+cvaqrRdVs/sx+q9KqKBjBtcmU1DCuc2FBHLggr4Zd9W0xqghFjH8OfkCwstDCYLUx/eJlBQteIF/bjx+aX/lrqtBMTPnuN8ImBuFp0cUc8t6kqc0RtD1RZQy8W99hYDTNHqlFk5APFpGQX1HXYhW0ginTWjTYXtS+0X4nRJVJZhCQE2nZvLLUndnVNZWe+TwDPhpz9331RxjsMJhv85TOkd0WbBeyA0o7OGQ6oA1HdeFTM8CHg4ISYgqsvBzfDdzCdDRfHM6MSdeamSbm3mheYxCwtVuvuv/jaM+LQbZ1WbTvrhtPUs9M2T5HNH9mY=",
+  "URL": "https://code.haskell.org/ranged-sets",
+  "LICENSE": "BSD",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1593381288",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "ghc-libs",
+    "haskell-hunit",
+    "haskell-quickcheck"
+  ]
+}

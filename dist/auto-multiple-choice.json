@@ -1,0 +1,40 @@
+{
+  "FILENAME": "auto-multiple-choice-1.4.0-7-x86_64.pkg.tar.zst",
+  "NAME": "auto-multiple-choice",
+  "BASE": "auto-multiple-choice",
+  "VERSION": "1.4.0-7",
+  "DESC": "AMC is a piece of software that can help you creating and managing multiple choice questionnaires (MCQ), with automated marking. Answers sheets are formatted with LaTeX.",
+  "CSIZE": "3345992",
+  "ISIZE": "7579246",
+  "MD5SUM": "b6d47479f6ce77399a8b7804ce44e913",
+  "SHA256SUM": "2a5dc9071c7d88e64919409c3ee1a7a742b52a14d767176766ba467c79154c23",
+  "PGPSIG": "iQEzBAABCAAdFiEEFRnVq6Zb9vwrc8dWek52CV2KUuQFAl6Ic2cACgkQek52CV2KUuRMpwgAkoJsCYBP4+3YaXkHoZpJs5GdsX5Ka2u4NqwNv/qf3ACZXE/0k3Lm1D4Nbbv1xtDFL6qsSRcJKXe83XHo7vj58Yc3hpvHn2NfjMtNM7b0inFWvGQHmK3UpD967eGXxktvZb4mydzzliGE+gZi92c3e+L8nfHQGFw3Na4sMGTnJqKfb6Mpd1nFV1e6gMLoOmztHPZGIgzfK7sT3iP0ARKSc9+CHlnwI0cdxzI90tC5oyDxhZGhTZuBLcYAtEPs2kZiqWyRZWbSV+I4WlOasCqyIicB516s1b/m/JszP9nYd9m7Nu+KknkCd+KreIh8aP+kAb9nh/xn3zMQiAWFCxWKpA==",
+  "URL": "https://www.auto-multiple-choice.net/",
+  "LICENSE": "GPL2",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1586000390",
+  "PACKAGER": "Antonio Rojas <arojas@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "perl",
+    "perl-gtk3",
+    "perl-glib-object-introspection",
+    "perl-locale-gettext",
+    "perl-xml-writer",
+    "perl-xml-simple",
+    "perl-dbd-sqlite",
+    "perl-file-mimeinfo",
+    "perl-text-csv",
+    "perl-dbi",
+    "perl-archive-zip",
+    "perl-clone",
+    "perl-locale-codes",
+    "ttf-linux-libertine",
+    "texlive-core",
+    "opencv",
+    "poppler",
+    "poppler-glib"
+  ]
+}

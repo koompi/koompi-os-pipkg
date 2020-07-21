@@ -1,0 +1,23 @@
+{
+  "FILENAME": "python-rangehttpserver-1.2.0-4-any.pkg.tar.xz",
+  "NAME": "python-rangehttpserver",
+  "BASE": "python-rangehttpserver",
+  "VERSION": "1.2.0-4",
+  "DESC": "SimpleHTTPServer with support for Range requests",
+  "CSIZE": "6952",
+  "ISIZE": "13471",
+  "MD5SUM": "2221a75072594bda36c99f22e49c38ab",
+  "SHA256SUM": "e7df37f82229f44d4bbcb649a73d22cfebb238ae0979778cc8958ecbd9dc6b06",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl2/xr4ACgkQeGxj8zDXy5K6EA/+M1Hy4ujI+a/tau4QU6t02x/YyXmyZUWyh1HTbb3AY1FXeizwPkStqwesp5L3WoavImUnbBsUEzrsP/D87D0pzxAfG8sXZvoiYarszlTyEAx3x77C3fha+1R4Pvf3PpPE5fO2PjdkNm9hMiHcUC0lPdnjOIKJoqfAG7Nc3PUlxCk6QBo43TA9pecEEW81Gd+5HyyxPhTewiA/3tQQwrfOtTjm+JcS3fKL7869qFSZkgUen95OR4T6alP/YaT55KTDNb0JouGwhChqA1sHUcYKIw1Kty0TFpRi2BuCTaNYku+RUns0HDs9VAjxLDiJJvsVASUQvG5xiY1jggy508OjQ9SfEp9Lyt84IppM4TYzSqGmxvSSRTOd8m2GX/xzrsVmZGEK7iETCHeAOFOeQMghCDO8fqVDHOg6kcvsQ+fB42lbFZB24svUXQZkwbeBPXeuO/ACfpeizWXJMuBFHBftXXbL9kGzI8oojeYP30+jJHTa3TXg91ua3R8JAN1jtsAHw5aKNE+GTPSDLPLE1T8urLctxT3dWfK/j8X1H4nzyhf9dCJn0D9a0V33VaVULE1lBCwXP8TpWX+hl2RsNHx/w6YY+3De4pGD2083FlQ/a00eaM0kZOWbtE7LLn9dMVBlWDJUNYvho3mLTeq68sXSFhiB3Q3XZTao9qTKKU7BzdI=",
+  "URL": "https://github.com/danvk/RangeHTTPServer/",
+  "LICENSE": "Apache",
+  "ARCH": "any",
+  "BUILDDATE": "1572849302",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "python"
+  ]
+}

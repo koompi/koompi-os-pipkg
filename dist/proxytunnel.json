@@ -1,0 +1,23 @@
+{
+  "FILENAME": "proxytunnel-1.9.0.253-4-x86_64.pkg.tar.zst",
+  "NAME": "proxytunnel",
+  "BASE": "proxytunnel",
+  "VERSION": "1.9.0.253-4",
+  "DESC": "a program that connects stdin and stdout to a server somewhere on the network, through a standard HTTPS proxy",
+  "CSIZE": "23150",
+  "ISIZE": "46819",
+  "MD5SUM": "d023e20549b7801c6383917a6081cd0b",
+  "SHA256SUM": "145a9a7d1f356f3211560b7ccc64e6b7af34deb54f95ce584fa63d4bf51a4eed",
+  "PGPSIG": "iQIyBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl8E6BUACgkQeGxj8zDXy5JKdQ/40kqNo5xiOFChEQMQrtSrTlCWWbPXxJGZ0naYdsnElm4pSKpNdN4QGnLAgFCKzSrPOxgQTCTDjtq2VqH/4TuzpXR4m91tWInjJwQQTef1ObzKYtziTtLUOyFzyJpC9w1WWisYhlUZ2OXZQ188RaN4yF64TZMKGsS7J62g0iWhZbJugCi7YINAHg3+/smiSq0sR3/8z+C8tZe+kQ6CtEJJEB4saib4oMaD0gPi+Sx2AlMJIyOnVg3ew/ggEC/ai/W4zcAFcjdTW4dCc8dQrgvYEti6ezwHe0TgUAzfwzDqx/Y45n1NA46yAzN/b/4DtLL6k8b06U8I/4APiXYyfRHub02GVYShk64Ybkl98m3SDXjYjz/YyRQDZzKlMbREL2VAVY93r1Z98WmmgiWu3D9HCIerY2JxUHkXeR0Y7yBMrUH30CRHwtVYt08DDNlmIL2Km07eJrpBJbPciLZa1k8907D/lVyptMNO59xF7S2YWL0rpBzIlr9zGTSO2aIr4hlHFVdXjmdXk3+do/Q1sGiIW3E+E+9sYo0NiYV3h1fGbEC/jg2hbM+fzEfp3CyzTmX6Fg1lv/wOqXZqoNQm93wbExGAfDncESIXyTxUfeiv3ijFeEHG+8o/QK84UNfyYdj/41W4bD2MXepK+tQKQP9DrWuxGcI3/3PFa3v8H3aWHQ==",
+  "URL": "http://proxytunnel.sourceforge.net",
+  "LICENSE": "GPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1594157020",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "openssl"
+  ]
+}

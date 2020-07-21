@@ -1,0 +1,30 @@
+{
+  "FILENAME": "non-mixer-1.2.0-3-x86_64.pkg.tar.xz",
+  "NAME": "non-mixer",
+  "BASE": "non-daw",
+  "VERSION": "1.2.0-3",
+  "DESC": "A powerful, reliable and fast modular Digital Audio Mixer",
+  "CSIZE": "1549860",
+  "ISIZE": "2065712",
+  "MD5SUM": "b172d0eddb2a9509c02242a1096aa944",
+  "SHA256SUM": "fbf52402949e600c299409964e52997aa7dd60da0a72f095af778072d3c5d6b9",
+  "PGPSIG": "iHUEABYIAB0WIQTH54SUZv4jWDQ1iDdyWHNLQcMVSQUCXgZtBAAKCRByWHNLQcMVSeFOAQDQVeCIAB9cywugyL4D4mK3btZZiIdntGEsvvh5iLv2tgD5Aed8hC1jH00W1bPwOqCSvSmVlH40AXwDIVHR8vm4hQE=",
+  "URL": "https://non.tuxfamily.org/",
+  "LICENSE": "GPL3",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1577478424",
+  "PACKAGER": "David Runge <dvzrv@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "gcc-libs",
+    "glibc",
+    "hicolor-icon-theme",
+    "libjack.so=0-64",
+    "liblo.so=7-64",
+    "liblrdf.so=2-64",
+    "libntk.so=1-64",
+    "libntk_images.so=1-64"
+  ]
+}

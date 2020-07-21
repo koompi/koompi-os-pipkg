@@ -1,0 +1,25 @@
+{
+  "FILENAME": "haskell-tasty-hunit-0.10.0.2-33-x86_64.pkg.tar.zst",
+  "NAME": "haskell-tasty-hunit",
+  "BASE": "haskell-tasty-hunit",
+  "VERSION": "0.10.0.2-33",
+  "DESC": "HUnit support for the Tasty test framework.",
+  "CSIZE": "32712",
+  "ISIZE": "120280",
+  "MD5SUM": "fa29ca609ddd95ff4a3ed5f4a2918dac",
+  "SHA256SUM": "2e272f6b58f1e4c5273534fe1785d5dec4acee5ff16f5d5b3415e6edccdd8e00",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl74/z0ACgkQeGxj8zDXy5LgPg//UN5vktxAijD8W5xWwHwXtT0ODwdQG2qUTZVyo96ttPAV4hv8J+QWPuz/vYXbUxM4CFZwRwqIrlk/QWISnW4qZyJfTlJVuyqYKXicn1D7GudMQZxRqkFJVQHjdR7SzviRosBvXv+kvc/gJhVnSC77sS2lENvXscUQruPA8gwpm5aK9UsKfyFKIKl1rJovVS+cDsVuR1IYgGzFo0v2XgaW9g+HOKodzaZdSwWHyfn+SdpCnDvPdCJ40qiwTUTthd15BWrtFWDg7mVDXCX44zfxPX4dIqz9icpU6QlsvTdszd5JOjxFsU33VTGy9GJk96fEXiRUrFX47Ix90ArCe5gfesVLy6GBKIG/M8UTX/o5/1TtHmfBfsK8tFNQjiKK13i438djSUxtLQ77IDw19ZlGe4O2fhmLiGRSnr3MjwIWiBXrISpqa2tiMwsgFqzSLdyW/ME+5tRUDOsG3VEhCROoAHLAVTlxWhXE+3zIkDUGChvs3T57CNFdMUOS8GF70lE2qnxr2bvn1etWQ5VT/tDtz1geUJ00lHfPmkAWVr37csYkBZqk4oLMZd7UYsA6EDGWie1vl8yeHVS4/oFP2J4/+jfpyUos7XbGM+/VjtoG7YbozPyrA3RVAQjazK+xEVSQyfCF3w/0HAbLonnKuM7SJv1UHjexqKSFBj2EA9oqOhc=",
+  "URL": "https://documentup.com/feuerbach/tasty",
+  "LICENSE": "MIT",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1593376551",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "ghc-libs",
+    "haskell-tasty",
+    "haskell-call-stack"
+  ]
+}

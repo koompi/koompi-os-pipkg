@@ -1,0 +1,23 @@
+{
+  "FILENAME": "python-zope-deprecation-4.4.0-3-any.pkg.tar.xz",
+  "NAME": "python-zope-deprecation",
+  "BASE": "python-zope-deprecation",
+  "VERSION": "4.4.0-3",
+  "DESC": "Zope Deprecation Infrastructure",
+  "CSIZE": "18228",
+  "ISIZE": "101175",
+  "MD5SUM": "dc54e5c0fdc5cf07e6b62b2fced4c859",
+  "SHA256SUM": "7e064c668c8aeb9f68508ae12b77ab9c66246bc19c84c51812005a1f094d496c",
+  "PGPSIG": "iQEzBAABCAAdFiEEhs/8qRjPOvRxR1iAUeixSKmZnDQFAl27H2AACgkQUeixSKmZnDTDgAgAkHkq09+0vAFPs/6KUeDkzRZC4pD0bQmEFICSi0p0bm+UIMKWqaSYaq+17KR42z5eZhM1U/FxEeb99sXjzUNa3gsc1SuMhYEJEL5YTeX+9VLYCRQPGQtUOwsUBxWGCv2c8XR5YvfWeGteZj8cd72I1B57qD/Lee+5Fn5nGdMN31wtNg80BV4wV6KLkY3DJ9dwgVqDpuHQHmQlXiuNDIuDtHz666Y8EBTw4YOcVGiQA3P6AOr0+04wKHpzyrKeuwJ/lOgDPoUIJgVaxDhkofE3sSHh7b9AAETzSCtdIgmOPE0OH1Rx5MTxG0h6OGh/g6qOAX4pbnMbWhD3X0jIhW6DQg==",
+  "URL": "https://github.com/zopefoundation/zope.deprecation",
+  "LICENSE": "ZPL",
+  "ARCH": "any",
+  "BUILDDATE": "1572544328",
+  "PACKAGER": "Evangelos Foutras <evangelos@foutrelis.com>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "python-setuptools"
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "FILENAME": "python-iwlib-1.7.0-1-x86_64.pkg.tar.xz",
+  "NAME": "python-iwlib",
+  "BASE": "python-iwlib",
+  "VERSION": "1.7.0-1",
+  "DESC": "Python module to interface with iwlib",
+  "CSIZE": "19188",
+  "ISIZE": "82172",
+  "MD5SUM": "945aebb457084cc549de8dd7ff3ed3e9",
+  "SHA256SUM": "4cf375f9830fe934962fd676cd88e276289217bc2d78c20487a1b3bf7ede9132",
+  "PGPSIG": "iHUEABYIAB0WIQTH54SUZv4jWDQ1iDdyWHNLQcMVSQUCXep0VAAKCRByWHNLQcMVSczrAP9+W3JAL8wsddvsZBtSuLFdjVVkf9S5DXfaf4YXwF73pAEAvnpDbFUA4yv6ZZNpGydjk9DhN+Udxdm2v0HbayhTugs=",
+  "URL": "https://github.com/nathan-hoad/python-iwlib",
+  "LICENSE": "GPL2",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1575628918",
+  "PACKAGER": "David Runge <dvzrv@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "python-cffi",
+    "wireless_tools"
+  ]
+}

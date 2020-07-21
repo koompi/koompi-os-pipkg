@@ -1,0 +1,24 @@
+{
+  "FILENAME": "gambas3-gb-image-io-3.15.0-1-x86_64.pkg.tar.zst",
+  "NAME": "gambas3-gb-image-io",
+  "BASE": "gambas3",
+  "VERSION": "3.15.0-1",
+  "DESC": "Input/Output image component",
+  "CSIZE": "9272",
+  "ISIZE": "15455",
+  "MD5SUM": "9e249798b8a568c2de21beb32c6ddacf",
+  "SHA256SUM": "aa033b4be366b70a6f863fa7ac00407bdce9998e1ba8eb26834930a2304422dd",
+  "PGPSIG": "iQEzBAABCAAdFiEEU1+MAzlFDwVKTSgnBglqatHO3awFAl8C7RYACgkQBglqatHO3ayuaAf/d6BQXIBlAKw1EENkUC6fAVPq6rNViuVBYFoJUn+bNb+Fru8/z11BwmtFKV4nUuxEVtdhHfVZe0kvf38qk9b4XL3G3hJom6dfuyKUioxA61G40Usy1s2g2CBQrunMWZ5VQmc6dEGy5VN0QF61SVV8yMR7KZD9L4mVWv9jYIBkSd0rZ3JkeC2csN5nzDcN5yw6xNWpi/xoliiZHMzZgh9E6qz8mxny8wAu2bZGRqXq7dQnJoQcq7YzdcLD1IoW/X3V5Kc1Uc6hyY+MyKMfafO8TJ5iwM4fyEUx44k31Eeb6L8U2GYl+GGqzEUdjqumP9nhnCXeXluumPZbnlSgItVwOw==",
+  "URL": "http://gambas.sourceforge.net/",
+  "LICENSE": "GPL2",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1594026389",
+  "PACKAGER": "Laurent Carlier <lordheavym@gmail.com>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "gambas3-gb-image",
+    "gdk-pixbuf2"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "FILENAME": "perl-lchown-1.01-12-x86_64.pkg.tar.zst",
+  "NAME": "perl-lchown",
+  "BASE": "perl-lchown",
+  "VERSION": "1.01-12",
+  "DESC": "use the lchown(2) system call from Perl",
+  "CSIZE": "8989",
+  "ISIZE": "20507",
+  "MD5SUM": "b1ecdd5f2f84a3c95960369011625868",
+  "SHA256SUM": "aefbd592993e1de6a538de30fe032368d44a0f799f0b70ca92c71fe859a70bf7",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl7viBQACgkQeGxj8zDXy5I22hAAnGAZj8ULanMqYYc/N3FOrtRgIMmFqb3+/Wk3WdLM8S75+g412y7iSyk2Q8flkXp1hszAhJx9hzZE9gB+3p9wRdvpbmg90WZRRUt/D48oJXt1Ic4jCg98gP8j3myrNeGDY68H5y0XikA/+b2IvfnVOJ3tzDrtlyz61Mw71aToOSInwkkVJ7kNpnhnF1ULugijzUKya7HiYu5PTxIE/GsEYI/yuApxEzN5DCMPCxFtSxGQoJlnob8r5ntqZpoO4v/Y6PmgNxGg4Nm/ObfHIyQIWWi5JJTa0rftPejEwBr1+A99SFgG/bvn12RthyUHFnzfDV3FZl8KEErfk6Su4JE8BxYCaO22gyOoimlSoc3Vfs7nvN5zV/aWY15cn6P3qhe2m+eNkL3HmaRG2x8q6e9+oI1AvPW/gYYsDNWw+k1KGisLhkqVVo4EQX5dV3Ng0yeUiQ9rKE8yxyET3xCCkXXhNXjtREVXw4ZCMJeqhfGihNXojBSvbswsvYR+xGZsGoAH0qjy/crIj8tyifBLU8fJkEwUTt+mcKaYdTs2whgdwbXqJD4z2RZh7LfWm19DdnY7Ft/XZBkoAQdpeVSoJ4rWVRH6V2VDG0mfiHLA9RHXZSjZ5IEep8GXDqgE5EeYplYtbu/RtMcVOjbdpOnyPFWQGG+4fPNSJ8szWdOERg/hk20=",
+  "URL": "https://metacpan.org/release/Lchown",
+  "LICENSE": "PerlArtistic",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1592756037",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "perl"
+  ]
+}

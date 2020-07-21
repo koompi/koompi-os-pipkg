@@ -1,0 +1,29 @@
+{
+  "FILENAME": "pluma-1.24.0-1-x86_64.pkg.tar.zst",
+  "NAME": "pluma",
+  "BASE": "pluma",
+  "VERSION": "1.24.0-1",
+  "DESC": "A powerful text editor for MATE",
+  "CSIZE": "2754267",
+  "ISIZE": "28430601",
+  "MD5SUM": "26610ae6b46d3241cf01ccabbfb4fb80",
+  "SHA256SUM": "267fac1b2d75ddea92e061afdd95b11f90a904289e5e684ed9fbc2e5a67afcc9",
+  "PGPSIG": "iQEzBAABCAAdFiEEzFln1AlbTztC1F+ggaQC1POCu70FAl5VpLAACgkQgaQC1POCu72Vugf/VX1LS4UAm62ELFmjjuX492j11mqN2JfQ2IjhrHA8ZjiR/M2Ts/8BmsjsF4MSUOCpgiclOin42gPPM6DlaZBdMAw5HIpwv9tCan4OD2L295eTFgSd52ZSOdj0KeHpZd6yfMAeFlG4pzKsX/ZTqrgp6+6ZNVmxgxX4ok9kTy7DEj8u6vVpis2433jAoUWBUgqCKh/InmYd8PX/FcygGSQyO8sgZCm9iAF2cBCkbuXMglg7+9BzTAyLnPwbdqTMS8RV+Ket74R8vUNJmHWuUmUrhIbKWDgUtFQOjywR+TT0Kete8aGB71aflhXuwx+OOawIWM6QNpQB2obU13hPVsmNgg==",
+  "URL": "https://mate-desktop.org",
+  "LICENSE": "GPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1582670670",
+  "PACKAGER": "Brad Fanella <cesura@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "iso-codes",
+    "mate-desktop",
+    "zenity",
+    "gtksourceview3",
+    "libpeas",
+    "python",
+    "gettext"
+  ]
+}

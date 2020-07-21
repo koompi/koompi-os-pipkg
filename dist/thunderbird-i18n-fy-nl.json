@@ -1,0 +1,23 @@
+{
+  "FILENAME": "thunderbird-i18n-fy-nl-68.10.0-1-any.pkg.tar.zst",
+  "NAME": "thunderbird-i18n-fy-nl",
+  "BASE": "thunderbird-i18n",
+  "VERSION": "68.10.0-1",
+  "DESC": "Frisian language pack for Thunderbird",
+  "CSIZE": "527223",
+  "ISIZE": "594467",
+  "MD5SUM": "fe50c0618d88f5a6139732697e5ebd3d",
+  "SHA256SUM": "09f18e1b0c6d3fd15a8df1791789937998936f0863cac33357fe1d5ffb4389a5",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl78eF8ACgkQeGxj8zDXy5KVrA/9FyyTbfB863yOh4/V7RnGEBLqhYL4TwvuV0Rpp3pMdJzICoHblhupT6IfPiSNBjvkUvNIQieFDrN6e36r3gfkY3oPTIAPkgaTgMr3e5Sjb/CY6RtgZawowwI+kXaaUmvabwfSoEE3uR2GhtjozSaJmGIth5uITfzjr0vySA83AOuxBZgfizTNlo332TYmUiaOgyz51XQ/SKn5h9k3xSfoN5oewFaPQRYNiZbbHxA/aijR5BHw2z2SVbi1h1VSObwxYy8CBGD223hztkkKVZTlWTr5m6ATVKdwDxl0uIoNV/K5zE+qq9QmOBesMQ1jaNXwq6ko8AIzPsQsjWD0HsPRUP7kvZCE9efZx+nGEG64QBXS8rALyoN1PSySMoFZvDCKmPrzVg+T0bDwQsonwO8YtQkGGoPNnmlb2p81Pfg1TIphJJuXWsQ6bxdQgq61kS6x3gXo20kX3D9hwBJGERbasVT9AleJa8JgMV+PBGCNTLvofmzV+F64kXxPAB+sPOnYH/AlXkkwpAeICxwpoqOoDkExDAnXQ4KEnNrW/+PuH7tjrubou+g59ljqBRLUvjYu5XRAbP8AfV2HXjikUqDb+yxQQfxkFmdQqG0e8DQ40OpluOSSwX567uYxSCjQgCCYCqbrzxVJq2bRLsaR9szw2bnLd0NO/DzK0z0hqA7Ln+k=",
+  "URL": "https://www.mozilla.org/thunderbird",
+  "LICENSE": "MPL",
+  "ARCH": "any",
+  "BUILDDATE": "1593603702",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "thunderbird>=68.10.0"
+  ]
+}

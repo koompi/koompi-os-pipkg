@@ -1,0 +1,29 @@
+{
+  "FILENAME": "haskell-http2-2.0.4-30-x86_64.pkg.tar.zst",
+  "NAME": "haskell-http2",
+  "BASE": "haskell-http2",
+  "VERSION": "2.0.4-30",
+  "DESC": "HTTP/2 library",
+  "CSIZE": "535365",
+  "ISIZE": "2877098",
+  "MD5SUM": "35c125dfa227e36a5717334931646720",
+  "SHA256SUM": "1d61c9a9aef9fbf524c2d9f8f8908258324478d559c2ab12b1d180d375554a3a",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl75xjwACgkQeGxj8zDXy5J+Qw/5AX7rDfHQKgVjNk0O5ESw4jhsiq/T3s9rO2Tpl6JQajmNEz3/nHIKvu5fgRid44vu/ptWy/8zxGpog9VQxAYSNO5lRgqKrgTARo1QSSX9dWRRCXC6pV8pbXaS/m1hCDaY6RPSB11QZycWPJdOk1BInc9UWfhUgnpPg/f476LKEW+PxOarLJuRSxfdkcsgGEqYA529Ky0X7zHlfEJ6TINn5jPCtk+s1RMyZ7lRRcFfU0Usl/5J5KF8zQxfN4RItkWEJLprGQJRybn7JLBi0FfBT3p9kD2qamsDR5F1qNpJ8hKpDdmMkyTYFIdczAKMT+o9qfTNjVNVpMvA6cfqRz/Y1hys3jIc1Wf7RO1jLcaJK754Q0ENse1YbB2Prp2aReoZ9DbKNU8/hiuXRlxiA2wZIib6xbfBVjYYr6Rw4RLCShQPne4rOhqHDWUbkuZL5KEYT8Gr3Zg5raHd+LxGDj8BtS09abg7wJIYrEGuxL4eCy33xgZnstBFyVb14np2Qlv2UnEb1b0MV1fUZX2HZuir5pTbzmR8z2PuWlk6m4SWgFlaPiU+2wAT4HRJaz135mxme5hn5eLvBLA+TOYQkVfV534kFphyYx8nJuujLe3QL8yIAprg87NkKd3EYRv6eFTKpOX1aQoesk/JuNYlA8EklmFcrpsy6Qe+vWLCKuLDFMg=",
+  "URL": "https://github.com/kazu-yamamoto/http2",
+  "LICENSE": "BSD",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1593427144",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "ghc-libs",
+    "haskell-case-insensitive",
+    "haskell-http-types",
+    "haskell-network",
+    "haskell-network-byte-order",
+    "haskell-psqueues",
+    "haskell-time-manager"
+  ]
+}

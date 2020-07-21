@@ -1,0 +1,24 @@
+{
+  "FILENAME": "inetutils-1.9.4-8-x86_64.pkg.tar.xz",
+  "NAME": "inetutils",
+  "BASE": "inetutils",
+  "VERSION": "1.9.4-8",
+  "DESC": "A collection of common network programs",
+  "CSIZE": "302760",
+  "ISIZE": "1165935",
+  "MD5SUM": "bb4d35eb471f930325ce9a4aafd11b97",
+  "SHA256SUM": "fb0310221232da48fd7866d833bdbc45f04de3ec073884fb239b04108ba0dc31",
+  "PGPSIG": "iQEzBAABCAAdFiEEhs/8qRjPOvRxR1iAUeixSKmZnDQFAl3MQV4ACgkQUeixSKmZnDTdHwf+Kr54U/csjXYtzuasYQx5uvuttQbuv9vo8sY+4RyZb9WMHFbJotxcM7x/Tcw79Wco5T89ymlEbmtece20QlIQhvOpG7szoPmVn4DsIEGXe0tScqwnK4PIv7szSF4t9x07u84CrqKQ1HXE+5y5Irdca8u0uaD0v3vagQZCpWbOgXjqSqbw4ehz1bm3Eu9Eb6H6JnJ6PqUx1sg5f/a6jVffsy8+9TMmtzu7cYNq8cERESGgyeySUghpQbi0pKvn07TxjD52/Z9WZEO4kkit6Wvc1nzjfJywj06FZzcNLOrD17Gh6BS3hFokCPdRS8fd+aao82YivVF3T0fBN3OTr9IjAQ==",
+  "URL": "https://www.gnu.org/software/inetutils/",
+  "LICENSE": "GPL3",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1573667106",
+  "PACKAGER": "Evangelos Foutras <evangelos@foutrelis.com>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "pam",
+    "libcap"
+  ]
+}

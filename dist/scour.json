@@ -1,0 +1,24 @@
+{
+  "FILENAME": "scour-0.37-5-any.pkg.tar.zst",
+  "NAME": "scour",
+  "BASE": "scour",
+  "VERSION": "0.37-5",
+  "DESC": "An SVG scrubber",
+  "CSIZE": "83261",
+  "ISIZE": "383476",
+  "MD5SUM": "86a4307b763c9efa3dcd35d3752d04c9",
+  "SHA256SUM": "58a74502401bcf645768c2bba7c10bb4d6e81a4abe7b260124199d2b41134e3c",
+  "PGPSIG": "iQEzBAABCAAdFiEE5JnHn1PJalTlcv7hwGCGM3xQdz4FAl67D1wACgkQwGCGM3xQdz793Qf+PohNoXztULdlX+v7niIu3LpFFMsRcsIORfmi6gSLXA4ytAJTKaCCTC0Vr0ilgB9Dg+TaCyfAOyVXR0T9DRSAbffU11zqKDoetKVEyvpOyPwGcEIgJXHaFa306NmYqy90u76xR8UpnkQLuhxz8pZNcOibYQ5TYtAYvwJbBr4xlgj2+SMYFgsf/uNZqAd30BlWVo6Kcj3BYYgVFNQ48OoBeHS4fLRwPZZ6Du1gdg2aDbnmiGCc1FQoQeu0sB6WlZZ3MINHsva/O3NiU5BzRu2pUUwTdBGlK2HG4VL5ztvEFlyhx6hQWxYNqvSXctz17g0N49xMIV8qwrEBRZjbMJ7Pig==",
+  "URL": "https://github.com/codedread/scour",
+  "LICENSE": "Apache",
+  "ARCH": "any",
+  "BUILDDATE": "1589317429",
+  "PACKAGER": "Jelle van der Waa <jelle@vdwaa.nl>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "python-setuptools",
+    "python-six"
+  ]
+}

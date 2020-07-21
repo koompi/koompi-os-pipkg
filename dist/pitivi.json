@@ -1,0 +1,35 @@
+{
+  "FILENAME": "pitivi-0.999-4-x86_64.pkg.tar.zst",
+  "NAME": "pitivi",
+  "BASE": "pitivi",
+  "VERSION": "0.999-4",
+  "DESC": "Editor for audio/video projects using the GStreamer framework",
+  "CSIZE": "3169967",
+  "ISIZE": "8858909",
+  "MD5SUM": "6b697280abf3841758420a4db7ede627",
+  "SHA256SUM": "dfbe585fc2c13af4c6de748577b24be48863b02a8cb28f7b71947c4389ae3634",
+  "PGPSIG": "iQEzBAABCAAdFiEEzgvecadZqH8j8PfYth284QkBwWMFAl7PeaAACgkQth284QkBwWMLpQf+Nb1F4hD1wvvjqAg8k4Rp0/BFHpwikEXKQfGEd1obagW8u5U8KnN6eajetdGgoSGSdx7MdNd3yIrbnKq3IuzK+QTLVbrld+tj6/cns7wsfAJYgUpwN+UhK/C7fbgpKBLYPqK1kMuIqjEDGyUBrbtZhPffBsMOwC9jDg2Rrba1r736j1YFsIwQ7PkjrOd0SQyDarrHThV1zpcKQLXcDClVc4g8xXnnsLHUCXtXBDwNu3YDbExdVpB6Zt1X2lVqFyrPi2BA+O6ttQ8L4O0J1vN29U3G7xX1YPr2hR6UsxkxucMMK+HAIuc55kEO7YsDNtvZpAVLIvn6RqzdkdAWlb+WdQ==",
+  "URL": "http://pitivi.org/",
+  "LICENSE": "LGPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1590655319",
+  "PACKAGER": "Balló György <ballogyor+arch@gmail.com>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "gsound",
+    "gst-editing-services",
+    "gst-plugin-gtk",
+    "gst-plugins-bad",
+    "gst-plugins-good",
+    "gst-python",
+    "gst-transcoder",
+    "gtk3",
+    "libnotify",
+    "python-cairo",
+    "python-gobject",
+    "python-matplotlib",
+    "python-numpy"
+  ]
+}

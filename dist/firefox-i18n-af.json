@@ -1,0 +1,23 @@
+{
+  "FILENAME": "firefox-i18n-af-78.0.2-1-any.pkg.tar.zst",
+  "NAME": "firefox-i18n-af",
+  "BASE": "firefox-i18n",
+  "VERSION": "78.0.2-1",
+  "DESC": "Afrikaans language pack for Firefox",
+  "CSIZE": "387369",
+  "ISIZE": "444068",
+  "MD5SUM": "6f038c6f6602abc497826c234a41f296",
+  "SHA256SUM": "aa64417e8e0fdf886cfb54935c9056d73223d4bfe45efb6a3b7b2c94fe4d413a",
+  "PGPSIG": "iIsEABYIADMWIQQGaHodnU+rCLUP2Ss7lKgOUKR3xwUCXwelnRUcaGVmdGlnQGFyY2hsaW51eC5vcmcACgkQO5SoDlCkd8dHEAD8DGzvkRaD7xJN+2bh4z3sRwM3IaOAYNyL1D+JHD6BFokBAOUP/yd04m3Db3OkKh5hDv/NVcwC1FD8G2uBEpXU2ccB",
+  "URL": "https://www.mozilla.org/firefox/",
+  "LICENSE": "MPL",
+  "ARCH": "any",
+  "BUILDDATE": "1594311501",
+  "PACKAGER": "Jan Alexander Steffens (heftig) <heftig@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "firefox>=78.0.2"
+  ]
+}

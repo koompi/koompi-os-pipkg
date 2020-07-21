@@ -1,0 +1,24 @@
+{
+  "FILENAME": "geany-1.36-2-x86_64.pkg.tar.zst",
+  "NAME": "geany",
+  "BASE": "geany",
+  "VERSION": "1.36-2",
+  "DESC": "Fast and lightweight IDE",
+  "CSIZE": "3790852",
+  "ISIZE": "13709928",
+  "MD5SUM": "765de48b6ac403ef1dde4b664ec29a69",
+  "SHA256SUM": "eda2e7bb820fb4ad5c2b6541bb7f272610bd155b1b1a6c7d9adcdff8d793061b",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl8Ef38ACgkQeGxj8zDXy5IzLw//Yt7CizEkizd+3RqUAAZe3KW1DV330r3lDgzSlLtGzBECyE/8kb0d7lCfiaV/M8wrwYKPusY43V6BzMnV9vgjEGqI4qYVybh+aOzeMlKGlppN+GxxTmna5ujDMvsVLo7V5OL77uCUEI1H4Fv2bs5zYrka1CaQarIbheQuKLm9JcA2N+n8u9KHNIcxUm7pMHkl/4xd5H/j7N49RayuSz0tQJ1HH7VsZdG5BdPQmzNNFshWEOp1QeUkmb+ilckw7jc5VEjlzrGzmVaZFIyW8bNQWAxKNuqpZEQsnWMVyRxTz+iF6zvRzlNp730kDj6DaMFeT1SaTU5LRWvfE8D6W6QfddjrNhRCTLaqy12FerNMKg6z2WvpShyPCXNokDNUjFlXEqWZvnsp5fg1nyv1OdvEKUahHeqWsP/TMEGnG+/fH6VNGzj8Ae+rf0h0eaSBNyOpF58UrNKxCtu6T4tyLiQA5Wkj+g+95zpkO6vu5hJEWh/0o0MORY4wbg2Ug/BESvrCN5q+a1Pw/2O9NmoM60TfgAS7JCOhQ/7Ou80cE1S+22taJCVJ7rrJIYaVWHyEhD8BYwvdOjY6IxIxWcFoNuPrjdwTKLTMYiwrogIILRo38y5IjHKrdBaSWvRH6bFNkiErYm44jR56KdZ5nAiKKvJjMoJ705qMVjA9B879XuKHdrg=",
+  "URL": "https://www.geany.org/",
+  "LICENSE": "GPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1594130197",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "gtk3",
+    "python"
+  ]
+}

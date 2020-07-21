@@ -1,0 +1,23 @@
+{
+  "FILENAME": "canto-daemon-0.9.7-2-any.pkg.tar.xz",
+  "NAME": "canto-daemon",
+  "BASE": "canto-daemon",
+  "VERSION": "0.9.7-2",
+  "DESC": "Next-gen console RSS/Atom reader",
+  "CSIZE": "79756",
+  "ISIZE": "363654",
+  "MD5SUM": "051d315bf66b8a2537d76698147fdda2",
+  "SHA256SUM": "4c692162912c70040aa70b924de8b1c0154f49a804454681c87bf9b68a8cab16",
+  "PGPSIG": "iHUEABYIAB0WIQTH54SUZv4jWDQ1iDdyWHNLQcMVSQUCXdmSbwAKCRByWHNLQcMVSe/DAQDiGV6c5EkyBPvajsjdOLm3tsstVSKesf1ahqTN/bBVxQEAg5VIzwnegRRPI3bXs+6bJykwEkDi9nWtyKPhFdizhgs=",
+  "URL": "https://github.com/themoken/canto-next",
+  "LICENSE": "GPL2",
+  "ARCH": "any",
+  "BUILDDATE": "1574539835",
+  "PACKAGER": "David Runge <dvzrv@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "python-feedparser"
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "FILENAME": "libcontentaction-0.3.16-1-x86_64.pkg.tar.zst",
+  "NAME": "libcontentaction",
+  "BASE": "libcontentaction",
+  "VERSION": "0.3.16-1",
+  "DESC": "Library for associating content with actions",
+  "CSIZE": "82549",
+  "ISIZE": "250287",
+  "MD5SUM": "88f7ea01112b518dbfd714592e1fc714",
+  "SHA256SUM": "20d72bf6ee31a1817483dc022da2525840c186d364c188948aae3c53d48c6543",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl78xn4ACgkQeGxj8zDXy5KJcA//YFyTEfFO2YhlX/RYDysOUaq+3H/09EyL777YoctOfWXCr0YjQU/4f1/vgtT4GZX3p7s9RG34f+NfW9toTSDnclB5kQ/E57S0MoMgoC88BWcKOki8KKuFI9dK5QrXJ/biS/RGB9XxkrbHRvGsn8KoiobgpsjZEvlBc9hTtlMkMLhZYGN2An2AVzS02CU1Kr80SyByIA/8S8dq9tqs993nLJEBHsme7r4xVWxo9L25ufL0zRCk7sjmtN2OaaZ6stXIQ5WTOCKxFIyeQPrjB3j1FHl47HT+d9t8prrZd3EwDP77nsSJUh5S0UnrN9AyIbMpEngTSbiDuTHsCXqheaxnVtnlEWee1GIKlWGRynoZ6T4Djpv+c2gq6dCz8okNjg362C9G5t0hhxDRurSQTzBAxrL+K8hzFYaH/UV8eN9im7s4PgNu2StZWs9KpUIW+NfUvbwvjKHuZMjp24vToXSfszQGT9garo8NsHythMuIH3VfVH6pGT2oC6fa37K1DJOqMP4CiblP42UQkBsyo3WhI0kd7RWAaMkUiuICDJ/QEboCx1envXwhGn8Q0hE9HLhY2Ebl+btHXFSwN/PGEFCvBWTzIV8s38+vKaqZs3wqtRBomF/z4yvFCyvsvThccXJieyCTTXloukJNt0l4vBCF0MppW3gAUVBYbDPaUfTJ2Q8=",
+  "URL": "https://git.merproject.org/mer-core/libcontentaction",
+  "LICENSE": "LGPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1593624048",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "qt5-systems",
+    "mlite"
+  ]
+}

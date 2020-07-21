@@ -1,0 +1,36 @@
+{
+  "FILENAME": "dracut-050-1-x86_64.pkg.tar.zst",
+  "NAME": "dracut",
+  "BASE": "dracut",
+  "VERSION": "050-1",
+  "DESC": "An event driven initramfs infrastructure",
+  "CSIZE": "268848",
+  "ISIZE": "894944",
+  "MD5SUM": "b0f909dde2c76752ce7ec50dd5cba940",
+  "SHA256SUM": "63fbba150ca322e2ecbf1519389058c10659cb13dc416ad20e62814d83f15ba5",
+  "PGPSIG": "iQIzBAABCAAdFiEE7MrITBugimzI5j+78i+x14p3rqsFAl6Yf2EACgkQ8i+x14p3rquaORAA0gdZVA+6GExrX51Wj2v+RmKia4t9TUoFY/BsryIk/x9rt7mRdaWR457hELF7i2La85t+nhQCS0COcPJIBU4Mr10hxM7bNAzrirp4yU0LG5Gv2CHQXztu6iN9WnSVchovZyHuc9HSP9Uz38OaXfXaJw3+2K12yqHCIV++RQXpCzLmDcG5hErf8LAvaesa++hDh54+k7Kkz/Yx37p6sLvdcQQ7jomXwStxiQt46LH4BcE4HQ3KwjBBh3jVF6BU8X2dc9pwG4IjkiaSDbo+aaWTW92G5je85QatPyWtxAf1iL9aCRhZqoY1uo7hSpYOBYcSkq5q6UwlnKIvhQjuC2RMKTCNcLUNfZIEaB/eNeuByMHWrDLwzwuDJ3DZUgJ/fwUvbE0NuAK6AXkZPi4u8bMS0ARlS4UXcurfJGx3yZ45XkKHA+SKNPIs4c7YdtT1Hac6g7LkS/8gdsxum7ZclTe/Na91k9Jwt1j0sLxDbT6UE38p9kq2XQhzCZD70Km5UrHGjJbG8L0lE3Po6BT5Py1mcYuc4vaWTJZJZ+E2PYBXaoxc4+R2Hi8EQtyNWYO9a+Y6PUeI5ndTKUEvKq7eekjhov4gm/k+pcMrftxplryOzcJsRSfpdYppCrlOtRH87L9IEf+wAb06KoxYY2Ws6iStiSKo/g4nDO0/1bsjT/aG5xA=",
+  "URL": "https://dracut.wiki.kernel.org",
+  "LICENSE": "GPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1587052361",
+  "PACKAGER": "Giancarlo Razzolini <grazzolini@archlinux.org>",
+  "PROVIDES": [
+    "initramfs"
+  ],
+  "DEPENDS": [
+    "bash",
+    "coreutils",
+    "cpio",
+    "filesystem",
+    "findutils",
+    "grep",
+    "gzip",
+    "kmod",
+    "pkgconf",
+    "procps-ng",
+    "sed",
+    "systemd",
+    "util-linux",
+    "xz"
+  ]
+}

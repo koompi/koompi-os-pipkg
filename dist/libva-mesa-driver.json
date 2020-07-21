@@ -1,0 +1,29 @@
+{
+  "FILENAME": "libva-mesa-driver-20.1.3-1-x86_64.pkg.tar.zst",
+  "NAME": "libva-mesa-driver",
+  "BASE": "mesa",
+  "VERSION": "20.1.3-1",
+  "DESC": "VA-API implementation for gallium",
+  "CSIZE": "2725099",
+  "ISIZE": "9066175",
+  "MD5SUM": "edc669d4a4df74708ac87d7d001afa5d",
+  "SHA256SUM": "66fd2c3a8618c100901d8fa81cd1b46b2dcb05601f91be0e0a123f9783360abe",
+  "PGPSIG": "iQEzBAABCAAdFiEEU1+MAzlFDwVKTSgnBglqatHO3awFAl8GtJIACgkQBglqatHO3aylwwf7BIbE8k/HkgU0dMCEhTUYolKkncnp0KNWjMfqwh1tM8Luq0sTwfK6juxMLtLsO5nN+Rtq0KXwe9iQtigetR5k9QqwkJlhJezuoZeKnLiioSer0JLD/HVorGbzFQvX7KKiYeKyrSBYF6Ul71d4P9yHpvrJlDrXfoQVwISYJ3byavNfsn07OiFtR8VOhPIFSGIdQrP0UgbgIBS0mYp39qpmWhhD4g65ScN6gxljCpu3EkdWJMQ/ZTYez33zYl0Qg/DfVyGQCoc3RzgwLOIYLFMMFlXxUV6F9LMyB1kH79KkLyhGVHEkgiSSH44QGYe6rIHTEVP3ZtX3vnm+4FvHPHa79w==",
+  "URL": "https://www.mesa3d.org/",
+  "LICENSE": "custom",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1594274417",
+  "PACKAGER": "Laurent Carlier <lordheavym@gmail.com>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "libdrm",
+    "libx11",
+    "llvm-libs",
+    "expat",
+    "libelf",
+    "libxshmfence",
+    "zstd"
+  ]
+}

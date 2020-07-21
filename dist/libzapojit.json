@@ -1,0 +1,24 @@
+{
+  "FILENAME": "libzapojit-0.0.3+14+g2dace3f-2-x86_64.pkg.tar.zst",
+  "NAME": "libzapojit",
+  "BASE": "libzapojit",
+  "VERSION": "0.0.3+14+g2dace3f-2",
+  "DESC": "GLib/GObject wrapper for the SkyDrive and Hotmail REST APIs",
+  "CSIZE": "68278",
+  "ISIZE": "571866",
+  "MD5SUM": "c92294ebc6079da6ec37cd3b319c11b7",
+  "SHA256SUM": "70414fd0399df0c570fb15751e2894c660ce6f2ee6ee59ad74b71e871c38c595",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl7Dm9YACgkQeGxj8zDXy5L6hBAAwfl2+ezHd9wkrzE90shYTkQfkMgcgk3n+qBTopSMs7rmox0l78SVrO24wssdi8I3nnuoQadYxY2271P9v0sbOnnhSnpWD46CSEMS0bdwLNNZNvIZ1o0Gj4maRuVWFK07ybqLJZW3IeBjGrP0XSbHRNuLfkckk5LBRrF0zuGdo0zhM6yiQD+P4ZPWWmwmt6gOg4t8cEXVayr1VmWw6X6ON4tQ+pG/oh6BCNTY81LySfkk5yfOGR3jv6i9WRaLbY1mjVz3Hvsi8pH/p3sQLK33lVRjJE6sGg2Auab50+PSwhc3X0Jhmo1GYhk8qWUlJEBpTNdhBJL5/a/lyOKa1YxiBNhzSEBltzUmJoQDwYlSB9C9oJP6uZqHO5Nd1Eee5CM0v4itvs43ul0mfnl7PCViJFXolBSL3yq2oD2cOtJ7yGK+G97SK8Exx1S9HO7eNSjfiqI5g2Vd9XKb7z5f7OA/6ZxXNB9zZNJ7NDaW3xTwH0xP/+45xHHihoWYISJ8dyJcMFpXD1OSpdWqZha6mk1C/SjqwydGLdl9x68eUicLGCR9QihH659dqlRqUjQ49KiIo00X+txCf4YDQhoYX5Of3gkS/ac2FEmSd9BM4C1oH28aUYXUrRJ4MfoMj1csSJYmTy3PvhXnMiMLAbzysZjzFZlBh9qYqmrfhdgaivxCfzY=",
+  "URL": "https://wiki.gnome.org/Projects/Zapojit",
+  "LICENSE": "GPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1589877655",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "libsoup",
+    "gnome-online-accounts"
+  ]
+}

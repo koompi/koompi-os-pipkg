@@ -1,0 +1,24 @@
+{
+  "FILENAME": "python2-incremental-17.5.0-4-any.pkg.tar.xz",
+  "NAME": "python2-incremental",
+  "BASE": "python-incremental",
+  "VERSION": "17.5.0-4",
+  "DESC": "A small library that versions your Python projects",
+  "CSIZE": "23228",
+  "ISIZE": "183573",
+  "MD5SUM": "e00a6f2b104042f4b922b118b12f23c4",
+  "SHA256SUM": "7d5ce21c16a678a09336858f0c2a43d51b0d38b2c0b9e91912ec0749872a3410",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl2zDYkACgkQeGxj8zDXy5Idow//VyntX5ZtSh5Ac2ZyhBuroCajSTrG3mij/ShE8MZDi6BTZdO3WIkiECcYM7D3a0Kb3dD3MJze6NyslAtfTf7aUlqXlmyxkAWysNDz10qXW+63klK7ypjpUCCSZxfhob4qDwxq8TslncvjMW5LQYdoduyy+XPM6B9ETTlcYLbZpKMiSgoLAKhTPj0WvuOGxCmwKgLadhXp/gAi157R5858tUU1JkgJDs8WSkUaiicW5eVMwcL259JEyB9q0IPLQYzOvxlfkdsWZa1jH8AuBKnIy4uToOy2ER8xywXWPe6FL2qj5BtCgldcSMatrQ4mEtQ7ITglS/Oa2fU5K7dYqz30fGGEXKn/xJ3otjDtHksjOfjoR+Tz1Ni5FojCGM89/h+VG8n0nZsy3hpOn8IrlKUCdqZPthKVidqF3KOHeK/Gfj0WIhGE+tmu/dRA54ub8ld1/LWvuTAjVE/N+wgkBzotWXK2suG5yfklvOTwQBFF7yI97m9TDfb8Kzm3QaDemVUZmJUhS/qbyfL6pV42LBUOfiICLb6kk+YBnrrAHMJbiczj+YjOe/xQz01tZElssW7XsTs5fSsGAFgC+flKU0PzWURYnyg73y2agtcDyARH3PSziiyUKw91xT1cLSjYyxBPvcM4jTCgdwuR3tutI4yMtTs8npqYR8PL7nSQLNU/JeQ=",
+  "URL": "https://github.com/hawkowl/incremental",
+  "LICENSE": "MIT",
+  "ARCH": "any",
+  "BUILDDATE": "1572015454",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "python2-click",
+    "python2-twisted"
+  ]
+}

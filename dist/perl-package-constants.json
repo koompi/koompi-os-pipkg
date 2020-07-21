@@ -1,0 +1,23 @@
+{
+  "FILENAME": "perl-package-constants-0.06-6-any.pkg.tar.zst",
+  "NAME": "perl-package-constants",
+  "BASE": "perl-package-constants",
+  "VERSION": "0.06-6",
+  "DESC": "List all constants declared in a package",
+  "CSIZE": "5778",
+  "ISIZE": "4254",
+  "MD5SUM": "faea33e37f475934962a502d08cd5f1d",
+  "SHA256SUM": "74a18c84e26daf4caf850335b0951d94314319dc391bef2f241a352193a95838",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl7vNvcACgkQeGxj8zDXy5Kxyw/7BN4Ix+LYue/YT7xjnpmXQpRjEngIR8ouYsFQV0K2mA2yGuvORQ/rZyitXYH0SPbL/6s6z0qWEvLi2QWNdVwrwqXCjrZlRbmCKnwTWM6DBzA3XhfaGxgNpanktlqRVOWD+8NclcG7Sq0vPQlYisIan3ptswz1deuPWBQmgycMtMVeo3hkHgUxPQ0pDatZXnp73BuuZN5hAm6sQ+Ur9eJGyLMpywWgEaUE/Lca36gDbW3l+dqawe1ZYldOvmbN/1GtbYyrIKAUTZl8MVYXpsLxbLir8UruYVSKf2pAdgsEn9/Di64JAr3Rv6TuA0e2d0WhSG4ELM0PMgvg3WRiJRksE2BysJHtpJHzwbmRCTr2acEv3gTwtYv3jSq+jQbhzvelLvm6CR+AbwkLo4ndG5tQqotA0T2yFJ+7Q2yoW2pPAA8gtoz5bAoQbgOTbzlC9zOE2Bq5QzwTnoB8rLJu0wntrYrz858kcoE60aJYsYwE6UUWwAHsqjJXePuOZ0oIs4tfwm31z9QaliYbxzxS1dtUBigMl1yFrMA6TwO84QXhBiHNIWkLAcS8B9bNmgAWcfxy6CsTVEHoSpxXMMf1jkJ7UbV9IWHdIh9YLIBR94exCYhzyYQMJm7BkRgRrhbGsFREcE+2PXM4gXn+Xh6DmlwwJeGRPswtvz2b22HAS07yvtY=",
+  "URL": "https://search.mcpan.org/dist/Package-Constants",
+  "LICENSE": "PerlArtistic",
+  "ARCH": "any",
+  "BUILDDATE": "1592735457",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "perl"
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "FILENAME": "java-atk-wrapper-openjdk11-0.37.1-1-x86_64.pkg.tar.xz",
+  "NAME": "java-atk-wrapper-openjdk11",
+  "BASE": "java-atk-wrapper",
+  "VERSION": "0.37.1-1",
+  "DESC": "ATK wrapper for screen reader access to Java Swing applications - OpenJDK 11",
+  "CSIZE": "54168",
+  "ISIZE": "54420",
+  "MD5SUM": "6c5034804471ca25265cad64a1f5275e",
+  "SHA256SUM": "26ff0d20c19649ed288637cef2870e52bc5cd6375e3ff7c6ad4aeeb49941e7f3",
+  "PGPSIG": "iQIzBAABCgAdFiEE4kC1fixGMLp2ji8m/BtUfI2BcsgFAl3pR7QACgkQ/BtUfI2Bcsh/EA//Qt/xnRLHI7r9cYix0pwVwJf9nj4RZ9uAxmblaJ3jBCntjxNDnaNLEALbpTM0dEfmwl4ShO9irYw8zjOk1Zw29xWmALBzNeK2/2SFut4uBKZdmFqb8sIkJs9L8VNQloqo8nFiC5rBeoif/nacmIg9OSRjm74a6kDhlFWIM/h2r2j7y7hr0QzQtt7Rykkx4YEAdrIx39n1nUdeQgSpDtSzIZSCruXQ+ben5vKdEAsMFie9II22eCER++s+Grz12sZnrk+BbCv54oZ1DA4QudGAxxE9liZ6RKZOPorrPtnR24S3Z9Dcn3VyhW0DLugHusKNF/zw+U9SVZWrzFevVgeuaAk2NfbLU5lHXygt7zsxQUiRKpvXbAbWdnsl5dGxNdEfP//Y8nRJzR1BWjn8Pa8G4vEIknVCsxowleefK0xZovtU6s1DGqjghPw0nCEiigQXr+hZ92UuhsUPUKpb6ZAG/VnnsFXCyMs+j66MvoemSsDOPcoUQECY5wM/zoeyR0EAMcEpJLNdXyIPt/SVwfBqJsWhaI8ETU6hTVyZqo83EQfWQZOZNVmdvq8ed673uTCGiae4ov6a1btKe1hfqDMipMk5oqQCZnJ3uT6hBaiXaJQOcYQ3v9ede/ZxPuT63zNwsoRKPhxjzgaX0BAkTDEYZtMe3TZ6UBKmDMu4IPqS7mQ=",
+  "URL": "https://gitlab.gnome.org/GNOME/java-atk-wrapper/",
+  "LICENSE": "LGPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1575569155",
+  "PACKAGER": "Levente Polyak <anthraxx@archlinux.org>",
+  "PROVIDES": [
+    "java-atk-wrapper-openjdk=11"
+  ],
+  "DEPENDS": [
+    "java-atk-wrapper-common",
+    "java-runtime=11"
+  ]
+}

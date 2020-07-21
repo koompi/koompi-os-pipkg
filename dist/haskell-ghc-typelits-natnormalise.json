@@ -1,0 +1,26 @@
+{
+  "FILENAME": "haskell-ghc-typelits-natnormalise-0.7.2-12-x86_64.pkg.tar.zst",
+  "NAME": "haskell-ghc-typelits-natnormalise",
+  "BASE": "haskell-ghc-typelits-natnormalise",
+  "VERSION": "0.7.2-12",
+  "DESC": "GHC typechecker plugin for types of kind GHC.TypeLits.Nat",
+  "CSIZE": "112512",
+  "ISIZE": "535321",
+  "MD5SUM": "f70e786db627e06bf1eccea48287024a",
+  "SHA256SUM": "00d9162478f2dfa2653136a913a85f84a6a79551994e1f00e1be81cd5d18ea44",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl75B+EACgkQeGxj8zDXy5J2+BAAtgiEtEZmvPBdgltEUizQPRrPE2h9B7DIbv4RVOitR7TMb7WpzuvgjHZCJi6RdW90eDZfvHeT84ABlV1N8bcRthaexKzEXBu327adL9ytjdi+37kHUld1PNMU+wBj1IzbLia9cEwAFVQl941L+ZLHT1moMI+9gONrQj+0boDHZx61tQHU0nkzrLnB1C/eUVrQH42OS0fl4qz+7w+kmjj9IeJUGp0EROyKkGbsoZvOd4X8R7x3L0qzyoBo0izB4m47g4A+D0rxLAMC/OLVW0ylQDs05TUaX7BTiPfd3xOT8WNfZkzZPl2THPLLekz3Zc9PUgkntG+NK2UEESmE7J3sXTN1A2Q5bUWoQJ00he5iZNTOeSWsUDCd0v8znWQpOumbSXIvcCyVrk1RnJUgrSftgi8LbHSsNpYIQ22CbHrg2GI63N4XBxB82cR1U5LK/jwETsMkHc3YGdaJo7k19tidI76cJwfQnvI1gYxX2yWt4tlcM1g7u8PfT/6zY2GKRn+2yVQ5RExJw1q45ziPgWARlZkSxFNwSJ2/3cIzhr1EKYSmOQ0QrirwvYZYGGZmkal5ZDQU/XPxKUq5HNyNWrS8XobLc8pvpBy5nwQuS+GVBJQkyEhaBOJ4IIYVRfk/HWNg9BgGuVfhHoSmD5oQeck+1j1rhotr8kDnzQcaUxFZSXw=",
+  "URL": "https://github.com/clash-lang/ghc-typelits-natnormalise",
+  "LICENSE": "custom:BSD2",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1593378751",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "ghc-libs",
+    "haskell-ghc",
+    "haskell-ghc-tcplugins-extra",
+    "haskell-syb"
+  ]
+}

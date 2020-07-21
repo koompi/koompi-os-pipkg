@@ -1,0 +1,23 @@
+{
+  "FILENAME": "ruby-kramdown-2.2.1-1-any.pkg.tar.zst",
+  "NAME": "ruby-kramdown",
+  "BASE": "ruby-kramdown",
+  "VERSION": "2.2.1-1",
+  "DESC": "Fast, pure Ruby Markdown superset converter, using a strict syntax definition",
+  "CSIZE": "122116",
+  "ISIZE": "485160",
+  "MD5SUM": "5292b44c6b9dc148dddfe898b648a622",
+  "SHA256SUM": "438ac88538dea3825fa53ba4588cba36324472203cfb0a2372732bf2ebc19f32",
+  "PGPSIG": "iQIzBAABCAAdFiEEjhmSFnRl21+wRVV8sChU7XU+Dx8FAl6oZ9AACgkQsChU7XU+Dx/kWxAAuKXanQbppnxJHdEZwNJ47oA8nm8vNynojSZJvlGSR+zn9Rvw+jy76ylY5TvkyhWEMiPjEHAlyZBuy65vUuAyGQvellAjKyrgephHIMoXV8E5hS6HcsbKl+g09MNbY2Lo7FxvlIod1EtCWolktDwC5AZbUqx1m28U9HWXJUPMFs0W1o3IT3dHx+Bc2l0uHTc6deX4I1VgK7D/8MlrYjrq5upBY5Drw2nnrl3PgCroPE0BxyqtsYwUwQaLTlX/CTR7hTAi4ZtDK/y9IGGCd9LZ4xja0bgsWd6E+tk9+3Khd/n+S28l9OEEioFvO/6cE7XCdLxUQuHossjugKkRCRuVm1G6EeokyWK6gQ/Y73yuLZdepdyjyumjGAGCWr90fkAilJlq9FrCbZyvSsUyZuAPtB3di2WwvGsAyXfvD5o3UDzadFddpFcLJU4gy2dx2kLiyUVY6vDKLiiMSKUBgArZECVCxuobVtXO67Mg2pib5MFXOMcRahcEzMDIRqwM878OKFGv2pD1YVIHkkSq8U+EgW5aTj2H44AgCij81NfKc4E1PnFdGDvUT68XPREroiqMQUGDC/sUE5AZyPjZ8kW2kQcCoJkGRHeSuefbMNpATiA3gmCtbinTiydRimeC1gRBtYbWrt4SE2V3s2KuTyNlu8gGEQqUmCgKmBjDdOhvFko=",
+  "URL": "https://kramdown.gettalong.org/",
+  "LICENSE": "MIT",
+  "ARCH": "any",
+  "BUILDDATE": "1588094881",
+  "PACKAGER": "Anatol Pomozov <anatol.pomozov@gmail.com>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "ruby"
+  ]
+}

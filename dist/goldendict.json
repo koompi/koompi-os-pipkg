@@ -1,0 +1,32 @@
+{
+  "FILENAME": "goldendict-1.5.0RC2-9-x86_64.pkg.tar.zst",
+  "NAME": "goldendict",
+  "BASE": "goldendict",
+  "VERSION": "1.5.0RC2-9",
+  "DESC": "Feature-rich dictionary lookup program",
+  "CSIZE": "3133361",
+  "ISIZE": "8032710",
+  "MD5SUM": "0fafda6014444b670246b0be913dd474",
+  "SHA256SUM": "d442972ea9c8801eb0e05a76fec1d1fa718bd876c031a35505330512a34c6eb5",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl8EnOoACgkQeGxj8zDXy5Kkaw/6A7UKaxf31uSV4PQDgahcdpgKFGFcZgADb8CFeiQML+rTqQgIQGbY0oeZoVot5nuL+OM5FKRBW5OrNjAPsjrxaBmWQ6yMZSdgFtMz3igw9MFFcKVZp89DxJWNcbo9IMsyFZxy69n/KyC6uUwizvQi/VoGQbqubzjiveZtHRv3Xk7US277wUbR1BqAbHvYxXu0i/3wufPeoUl4zick2pKXh7X/gqiO44COrheNQjBDtcObF9Gfm2WKrZB5wkCPDY2SyHnUa6sAWgGzphgH47aUESe98ipkl6KmPC3AI4wiUgKYEIz9/EkrwBc+99hnpYmeObMRiKwbgOKsiJRKv1Id8VPGwtcTuRAovFYUlK9TjiIoVja1yy1IYIrKApQhWL1I8VQ+W/87gmmX+bSXt1aSUA31obBRI9R70ef9leKDSd8R3CXLKvky/kQPRRk+M3yUyHpwmN3ZHXlrZpchNkltf4Pl4ekRsHmgq+Or/MI7/Itm7g629OXEsvCfUWqeg/W+CTMCX9KiQXn5A1ifDdNRfrdk9Q/Y0pTsWRoXjFEDlP/NwmKZYzcTLKKX8uuZ9xCKVp3u4VtpKX14cbttlmaDlqmbYkGY3Iz0RqyNgPtBFsd9GeS9m06eN2e0p2WeyUe4u4Kj1LdVIuZZgNM8HUqHod9l1QpGMXIWAiM1ivBiSZE=",
+  "URL": "http://goldendict.org",
+  "LICENSE": "GPL3",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1594137627",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    "stardict"
+  ],
+  "DEPENDS": [
+    "hunspell",
+    "libxtst",
+    "libzip",
+    "libao",
+    "qt5-webkit",
+    "qt5-svg",
+    "qt5-x11extras",
+    "qt5-tools",
+    "phonon-qt5",
+    "ffmpeg"
+  ]
+}

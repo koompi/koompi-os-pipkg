@@ -1,0 +1,24 @@
+{
+  "FILENAME": "sslsplit-0.5.2-3-x86_64.pkg.tar.zst",
+  "NAME": "sslsplit",
+  "BASE": "sslsplit",
+  "VERSION": "0.5.2-3",
+  "DESC": "Tool for man-in-the-middle attacks against SSL/TLS encrypted network connections",
+  "CSIZE": "80567",
+  "ISIZE": "190562",
+  "MD5SUM": "11499cf595c1b72fbfb45c1427717174",
+  "SHA256SUM": "4fed6464acd2bd2dd4d6938b95e2b0abf6c3f881d92c80443755c03b642b0d9b",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl8EnSEACgkQeGxj8zDXy5KxTA/9EfsvwdDNCpR/UTpyGtjv/XW9QFJhcYxSYN/Ay3f09/+RkdMueYANVBQMly81Dy+z8NEeBNiauCdtguccXkY+uQb3gcg/zyxfrB73BssuNO9mdxvK+DEPy3/VzB6tj3Qulw+1M3foN8JxqNBtUuKLlLk/W2upnC8oS0/xpd+nIhP8juovpR+QLpDK+PRjTcpxv5itjDvuBw5voHB4rU0+ZWAA/pNcMz/K7Q7m0pYhG9Xnd7TnYg82jhLTY+g+dLe5m5CblnIjau0WD4S4vIugf72y+rA+dHzawh5Je+QG+IGYqixNGa38FlFpzBOIz1M3ay2jocYCI5gd9pws8Hf8HVHIQ5y34TJgCrsb+l2TN5Jhckw7EU+cHpev95HTXwrhpe1LwP7/MVcnigf5swev/0gsXBx868KoGT0/Ut1+d4arkvJ7htMc7y5w1xXI4sBOjGh0dXl+RxoRSsKw/JWXrcb9B/KtAB01rgvrrDzwdpnNqJtHt7wcOUVqTbD5T4NccPHbB3V2SYoXlCo5WjW8/TNmXnc2gB6bE+Ue/PVCNendAIvk5c2C7s6IgS7yWjhnzJgpKJutDJhjcSTD52nCWwxQRIcW4tl/iUkd7GX7hgj6htZRRCzJTTuFPGxPsp+PbJ3az15rlZXBhZjoAiMVQxlQIAwUHUVMOCYbdLZ14zY=",
+  "URL": "https://www.roe.ch/SSLsplit",
+  "LICENSE": "BSD",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1594137823",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "libevent",
+    "openssl"
+  ]
+}

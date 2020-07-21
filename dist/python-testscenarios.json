@@ -1,0 +1,23 @@
+{
+  "FILENAME": "python-testscenarios-0.5.0-7-any.pkg.tar.zst",
+  "NAME": "python-testscenarios",
+  "BASE": "python-testscenarios",
+  "VERSION": "0.5.0-7",
+  "DESC": "Testscenarios, a pyunit extension for dependency injection",
+  "CSIZE": "21676",
+  "ISIZE": "104815",
+  "MD5SUM": "6250c645b71abdf4495ce59e129b0177",
+  "SHA256SUM": "57b8b4b4514db5aa84196a44096e48ce132e208c953960cb4886953f2603dd57",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl5U9z8ACgkQeGxj8zDXy5Lmog//VYqoh5zH5PIh66GEtv3udOo7YLHQp8edgak52MXnwW73KY0XdzFOkDpBRxlnEeQ/K3zVZIHegsIc9VyGGhTfVyMD6YXw06Uym7a4BdCcExs1BqR9bt2/ljsJoXRVNoiTB6GvJuh/L0c3rQLqY+YicloZyOKg2zwyp8sNVnuG28gjbcdWNYGg0LDHWmpvupRa5bDALKp/+J5S5InrEaebI7mNYeWvCRdDUwOPwzIqQ5DbWIGw89zZWcEq3UUna7mcrkKU0FzgM4muZ8JhXevq1b4ZpTecqnWSfDm30nL+UPDOag9J3EvJBLLSwyj3Zej1K4UFffXXuJaiyvBkOJm5BffZSBKHVcfmGAO/4Hv+hpBTEaDZl2CvQIofIqhRv6PmLy69tFI/QKH6oU7vryN+L5YLdbkh2Mgur+HwwSa4T0krlfJWEYa/iukv00RXWOf3pqtyzfPhxQMxu0hIxmhxIhjht9KQXayfSplqtxyF5CGEiVEO2bwyMZfjhyCVlq5RTHNMzdKMoE/2nk2oZsFjsajwjU27c7JCxLK0AmfOiUEthkQZvkhQ1xFBdwEs3HXZiv4RSZGFRDr3LVixrH5SaNmoXIDgLwlE78aVaaZoYf0gIQ6Zhq3isN0NW45ExXWaq6F1cku2WOmPNplC9bTtqDaeCcT2cjJ8k28Gs8GHDpo=",
+  "URL": "https://launchpad.net/testscenarios",
+  "LICENSE": "Apache",
+  "ARCH": "any",
+  "BUILDDATE": "1582626326",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "python-testtools"
+  ]
+}

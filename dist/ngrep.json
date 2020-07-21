@@ -1,0 +1,24 @@
+{
+  "FILENAME": "ngrep-1.47-2-x86_64.pkg.tar.zst",
+  "NAME": "ngrep",
+  "BASE": "ngrep",
+  "VERSION": "1.47-2",
+  "DESC": "A grep-like utility that allows you to search for network packets on an interface.",
+  "CSIZE": "33045",
+  "ISIZE": "89403",
+  "MD5SUM": "5294e6bae613cd9f41f965b964f21a78",
+  "SHA256SUM": "485dab7b8a2eb86e62d9bab42c0dd4d3b4d0151e6ab85fc8d971b3e7e36172e9",
+  "PGPSIG": "iQIzBAABCAAdFiEELjbYYgIhSC/EXLfyqRdkdZMmtEAFAl7Kdr4ACgkQqRdkdZMmtEB8vA/+NnCyxAJMgCsYBoWqIA9cMgORf1Vv/rrLDTl9NDz61mR4Eiv7mcEyKSKEl1n0bD+3pOIbGei6GZxH5VBUMe+vfSqUSkcDcnsl8lr7K4SMs7T4riDeT7hxndWsTnzS905UKLkcPzTjEP5PaFlIUnLMAppRdqqdYLJhQOom8h+L8fNVFPqUc/zuCRhekCtpqtau2cYo/Tug8eETqJnbxXW7gEy+X0nwanD/ANGe7rvQdut7Ds22Dq4o1EsVmTBR4JQ65tGRvsmx3Q2Ws2dOfiWYBjC7bpl/xz9MGXn9YUS64evdFrL+JZNxiynXbT8nCsRkditpGA0gvpZktQ1XeIE0Sh3aqlPipPIDxvGTEUslSsYbj0/pV76vElH48Hs0WX42cGgSRY8snqY0kSmY2Uue9vuyj98DtQeqEWJCmOlUdNONTGaeg1nlXEUIJ+7ixpEeUAJ/pCVkzaeZbrjbL6eFPYhBSMOGHK/51LQHcFVpFDZ4N5bAXh+Do+SSZq28RcZEw83JhfrGO/lvEI3/RJ9guGSkfSKoD9j5KFBCxmbie5LATB9MxpaD/v2+a7BXld9Jd0cSHPdGww/DcqtU+U1udLU7N/Mgc2HQc+v/0ihkWwmnHqr3erhLHIFsyEiJgqPiOk2ZMoIYCvFeR/SmTQA8hxrE8KeP7KP2+TVTr3isS2E=",
+  "URL": "https://github.com/jpr5/ngrep/",
+  "LICENSE": "custom",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1590326954",
+  "PACKAGER": "Lukas Fleischer <lfleischer@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "libpcap>=1.0.0",
+    "pcre"
+  ]
+}

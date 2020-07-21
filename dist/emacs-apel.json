@@ -1,0 +1,23 @@
+{
+  "FILENAME": "emacs-apel-10.8.20170122-2-any.pkg.tar.zst",
+  "NAME": "emacs-apel",
+  "BASE": "emacs-apel",
+  "VERSION": "10.8.20170122-2",
+  "DESC": "A library for making portable Emacs Lisp programs.",
+  "CSIZE": "64292",
+  "ISIZE": "303581",
+  "MD5SUM": "13141375e14df3caad43139564f1346d",
+  "SHA256SUM": "d330a3f8ed23c56f7072fcecabd76e450b96562bf2a46385c1a21b853a4ca6e3",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl8EvA4ACgkQeGxj8zDXy5KtuRAAnAtjbE+HAymuRVuXJ5rvpCMe/wnoVCj5gdcmOYxQLuFUdGP33ZGFcFd5hU+tNbm4L9XBcPsJ3JBF+ALy7KtBzVRBcvW64KsdtaghrSXmMz9/TVFCMbuS6svnt4yd+b3fT51Skp36faUEdg14uaxo+kcrpM2+RfmuKBY6I1tumoLB8W0zUQpDg9L5p967Y7UltQVMiTj5im0/8k35xU/IONbPp6I3RH01xLBD5ti662IuLDOpGTg1d6cPb+N9CI27qrXtgj/GBAIKvcWt7mS39MSl/OvjyvesRjPhWmarmWX5+X0nY2uaUPOSktFsouQkVqD7bnCRw28lRYbmP/PbT7Aai+SOOks/1TASQM7tCTAzUu7Us3RDPEaMs2nH0CHqO2+UcgZ/s/7xhdtmxOlDHVRR872A/EwjeEGn+byQE6YiDrHMLWF+dJoNfNNrJAk/WI67pcKPQlZBFUfjy9jlDh1yStjR8Vm4KIxpIcXBlYVuVUkFgDhhPjDLUNcgfQS/O6Nj+mMlS60hQsy3+QpLg2fv480QfHNbFtl4FvfI4fJ4U9MliLQ6i3LsWTn95sYqNQYahi+LZJgueYeHb38E9uOHW4/URP97LUiiw+LuVscXAeh3jnoO8N/4oa7iGLLYi92nq6CSIWlgEBgJZZN3vc3ImY6TyGTsLU+315MMKzk=",
+  "URL": "https://github.com/wanderlust/apel",
+  "LICENSE": "GPL",
+  "ARCH": "any",
+  "BUILDDATE": "1594145682",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "emacs"
+  ]
+}

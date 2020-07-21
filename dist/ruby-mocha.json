@@ -1,0 +1,23 @@
+{
+  "FILENAME": "ruby-mocha-1.11.2-2-any.pkg.tar.zst",
+  "NAME": "ruby-mocha",
+  "BASE": "ruby-mocha",
+  "VERSION": "1.11.2-2",
+  "DESC": "Mocha is a mocking and stubbing library for Ruby",
+  "CSIZE": "150336",
+  "ISIZE": "1373374",
+  "MD5SUM": "7663d5bbad972c10da96a6d8379a41d7",
+  "SHA256SUM": "ecf01a1f794ea898938def661c270af2b6ded235e952fffbf5f22dc7b69ee755",
+  "PGPSIG": "iQIzBAABCgAdFiEEba97gI+d8lE5YgAA0hRh49/iBg0FAl4ohr8ACgkQ0hRh49/iBg1jjQ/+PNrC2tPOBw5LgTvWYWNL097eK5Zy4yRkGAtg9pq0KIpnsiMQt8ixivXhdDVYvF8dqUPi4UeboXOqotzlWvPXpR0j9ndhYAmlZ1UCs4+L+Db236qqBJCIYkfa6MloJz22sR4DI7MLfG5UoH+SH3ZLtQP+A7Bi2vxzzFdWriAa4YBS05wJbTaijexVarJX4FnY/Va1VmwCs7Ci3d93+JidftRvywm5uTn/7N/b6J0Kmn2hqrtUqGmbTzEniuCsAOSzvtMUnH0neq6+g1KSKzEeQAp17BNSzqbFTFS58FNS/lgVVN+k3uRe+gsy8d5g+olnbNaSJTj4btHvVSrXKNexe4jnw7RSOouakno/j7k9ct1zqOIplTgSWDbTf3hbn88FhXfpM38juBCcBE0zpm6celERAMI2H8wb985mxCjK7m6XCKWEmNKU7D/djy7UyBHF54YjSPLaEZHK+kkD1awo7Ss5bfsOmfSqa14ioOXGjuXyQxsJ4Q3z3OtxqhV6YLeWgwK1PCojhLcy7m3DLCHcXS+NHyx2xZwuxPdkK13by5a4acjjYGYULZs8wbmtqAD2KG24ta/wPO6mG05anaVxLsB7IgFop9Nbd5eL2oRVamsx6RrswR9jobg2S+B6onAXV+rRVtpIw7jv8Ea6SpGWmEpTMuqBMnTj0OpFceZzjYI=",
+  "URL": "https://github.com/freerange/mocha",
+  "LICENSE": "Custom",
+  "ARCH": "any",
+  "BUILDDATE": "1579714194",
+  "PACKAGER": "Christian Rebischke <Chris.Rebischke@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "ruby"
+  ]
+}

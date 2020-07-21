@@ -1,0 +1,25 @@
+{
+  "FILENAME": "java-runtime-common-3-3-any.pkg.tar.zst",
+  "NAME": "java-runtime-common",
+  "BASE": "java-common",
+  "VERSION": "3-3",
+  "DESC": "Common files for Java Runtime Environments",
+  "CSIZE": "4988",
+  "ISIZE": "5376",
+  "MD5SUM": "4d5677953c6ccf73124f5845f84f463b",
+  "SHA256SUM": "b9cd3e4374799014f6edbf4d997830f4c8cdf0ff519ae54af07dae5510f556af",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl6/stAACgkQeGxj8zDXy5Kvjw//RvL5fhAftnHMuJzc8z+FvAa17WVyCA2+D5Ch/oacE9ZQrskXxvRmHD+qjqW4TASYY3eanFamg1+c4kzExItFLZbJQ0lR60aVnXIz5LhKElG+mgFi21OY8C2ptLXdD0G/QwD2uRnFxLZJU+OnRijbvZ6yr0GQYAV5eB10SfCwbJUA25EUz65lw9BrkEyfyF5FHP1+5j9RkM2as+8gN7tbk2WG5LMNXeNg81bZkGv5hdd32iOiRRhdAELsZn9EmYdazNMT8gpXe9L5zv0NPLPgatx3kPyb9qHxaz+UlqmJqIb/PrwU1oQwPP57eEUV/VYVgOSi23VH7RPsxBSEauPskjMNhTGpiGhEVyqXNa6LqIndA24Y3riWtu9+afN6j1caOLUgIvr2+VwBVqS4iqq104nqDACTWlaqjIMdeDiklsmVVc+A7wpqpmQY0ldsbAmomC4Xz1Nf4AUmLeQX6nsegag/MNR/4mYkPp+48R93XvzwqV6JQib3BOtRO0AYkbRh+IDmPEvUNDCqldz18CUh04v81hJ2On/dmptW4OptyeqooBirideIqHVxvb6NxnTSXDgy0BCTCRYj3SMJLAEVFe8ucC3a6am31QDdQlXtedFO7KnYerTO2qqUqzGmZVmfd4FD9yFpkXzZunWyfczzdJsSLPX94LS2nV5zQxVSsXM=",
+  "URL": "https://www.archlinux.org/packages/extra/any/java-common/",
+  "LICENSE": "GPL",
+  "ARCH": "any",
+  "BUILDDATE": "1589621433",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "bash",
+    "findutils",
+    "coreutils"
+  ]
+}

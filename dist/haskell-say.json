@@ -1,0 +1,23 @@
+{
+  "FILENAME": "haskell-say-0.1.0.1-25-x86_64.pkg.tar.zst",
+  "NAME": "haskell-say",
+  "BASE": "haskell-say",
+  "VERSION": "0.1.0.1-25",
+  "DESC": "Send textual messages to a Handle in a thread-friendly way",
+  "CSIZE": "23157",
+  "ISIZE": "82498",
+  "MD5SUM": "b2a26f80ceba163d53db77292a045797",
+  "SHA256SUM": "ae252383bee0a7debc8aa41c46e23841b1b64d3f8049cc8f400501b7bf0e1829",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl75Lj0ACgkQeGxj8zDXy5LwfRAApu5mqAeAXgTFGoJdTVouG5FEgI38XzEpQcGnap41YWZUoDmb/E7HqjP4TUpT/VNi980+ZAdZPUBKvw5x25nkcxxqBg4T/CuB3+YsgLJuWqyjRvJxEb/EKt4LGKFbQPTtOGQGoF6Luro0XLdVUtRPV0K0EJ5DPmjfUDCBGJQm1lA+OuWELD0i4R5xm2N8wUTJ5IfWBkW40mlGZl4RQWKYNcB/CCJTRM1vgZX7uTEyAgh9adCscY1VNRTwmjKZB5nGCWjsxeAu6kyJNpJc+eVXcVQYVP8bfy93bgIrWRVWJL+tRnhwxWx2UfxPkymRKY5shKHGl8WtqtZvp0a6sIIpsuv5w1u/8w4NhrbVcqdf917JvfQhWat0jFe41NfHEMv1vK+GBesY8z+ZgzhNoWhH+fYC63gq92mYTED3dvAn2eFp9dOyfZXHEQyS5dmrhVih8lBOvR6dVF8PLHHkrpeNa9YsHHIuNSuuP+CwL2tjcqxR14W/UlcAGgmRnhq7lx+qJhV4RhbA+pPlME2IzidoLonUwFegdk39qO9q0wrHEaTMcW7bUqKJCadDB4N559nrI2adnn+jnGd7tSe203tT6degXNbIV8tl9/Ru7srTIAa/1JeHbYqON1k5omwZjIDNdlzJ0N0iCpr7X9gxQDidkKxm21FSlbfFTFY8pMfohSY=",
+  "URL": "https://hackage.haskell.org/package/say",
+  "LICENSE": "MIT",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1593388574",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "ghc-libs"
+  ]
+}

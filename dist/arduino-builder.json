@@ -1,0 +1,23 @@
+{
+  "FILENAME": "arduino-builder-1.5.4-1-x86_64.pkg.tar.zst",
+  "NAME": "arduino-builder",
+  "BASE": "arduino-builder",
+  "VERSION": "1.5.4-1",
+  "DESC": "A command line tool for compiling Arduino sketches",
+  "CSIZE": "5356293",
+  "ISIZE": "19331118",
+  "MD5SUM": "633fb937cbba9baa49dadf805c5d8835",
+  "SHA256SUM": "bc3020d4e28c279d59bd1d8bf24bfe4833b3b9c0146a42a5348b795b09404e6a",
+  "PGPSIG": "iQIzBAABCAAdFiEElzEtXrnXrn0L1DBzUdrpt8GukWEFAl8JemQACgkQUdrpt8GukWH1bQ/8DYcjZ7UP8z55ZMQk9Pj1u4dyYZvaYEuwywUSqplDthurTQ/4FaH8Y5QOZhf5IrEFhkJOyMPguLQJ66Pdq9CeqNgAMGP/6k2bjp8NzArimwUXZRxnORoOAI0e6qLw+dl2dUmyVzDAfymq2FBczKJCOGqtcQSXgmt9KIV2t118lmmqEpcJdOWcf994/rsOl4Mhsl+6v6e+XZOwiNg35wuztvIB1Yhc81epaaSWfI+8iS7eJ9eeSvKh2VNi7rFXtg/uVvHdtgbOrXowQJV93xK1jhZKC6QnI7PxqTFqMiMS7j6ZmCjX1cxPP1alEljED2lIZZJYm2om/cZU3ULofYXprNhmdweoaglvTfiehgDZ4hUsvah4sObBuHlo3R++Mr3kkXKsKHDQPm/YsFf3oaEzILKwaA7fykGSWxYBbonkQ36xkNzDYoNCGEvCpYPyojyPSVBUaXsaGWmk2MWrrmq+NUqh/5EZRc1lYaN7FRBfDdQiz+dk0Ebsuf8rIx0JxEsytA2czcQQECGza+fuC6qvSxoqjnXpxYAF9QKJP86rK+1GGy+vQmTKhHDwV+UoVZU8loSgqZ/BAbuyvlTRYRlJ/4YdLXbY86mSD5Z5OTOMmm2JCkh++RGK2IR1O60AKVGdoSJzeRzNJO77AIC28SsohZY/DvBqxYZ+MlColTiH3ig=",
+  "URL": "https://github.com/arduino/arduino-builder",
+  "LICENSE": "GPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1594456534",
+  "PACKAGER": "NicoHood <nicohood@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "arduino-ctags"
+  ]
+}

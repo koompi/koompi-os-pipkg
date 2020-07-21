@@ -1,0 +1,32 @@
+{
+  "FILENAME": "pwndbg-2019.12.09-1-any.pkg.tar.zst",
+  "NAME": "pwndbg",
+  "BASE": "pwndbg",
+  "VERSION": "2019.12.09-1",
+  "DESC": "Makes debugging with GDB suck less",
+  "CSIZE": "471783",
+  "ISIZE": "4049511",
+  "MD5SUM": "0a8afa7b01c84b3fcc61c3ec06f0c859",
+  "SHA256SUM": "95fc7b455afa45e8ce87eda5d468762d1737f78679d757f73a2b6d26004d1a79",
+  "PGPSIG": "iQIzBAABCgAdFiEE4kC1fixGMLp2ji8m/BtUfI2BcsgFAl4jVdkACgkQ/BtUfI2BcsihUw//eSnYQfazJDPLUT+OhZWxOHKLz5YTy6ltdz5zCebfNS5233pHFKkVHMvQePiMeRKKiSbvJ5CUnEVHCVMxw+qpeunlwtyHi0mVPo8tWRZPQf6JLh9B3/ZzjDODlfEwrACM4Ng0KvYoOvxPVbL3TZlvojwP/jbi5ijLHSgqEiGMoZVOOObeSVHconGOZhlVx8eOcDfnDaFOFT/xfemgxAzIOOCqRcIaVlU0agglaVFffHXscAxO1MPRHDLKBcjAG0ynC2q1QjxNcSdpm3+OA4PesbB+0O25pVaov82+9Fue60rDMF6Lk8dm7nhJrMiRE0Hzi4b/I4jPHuCyV2ik+477m3YqZ0RoJBSF9c4Q8n08H+7NiLQEC81dWOtIw23gYrKwzDy5pqt3qh+RQxrsMkW5sI1lhu/SU3LBe2nk74K5ekTJJrWZyZXhZKY1dqp9sIx2VaYcdTj0YiyuFwE6nz+79wnAvboyndTB+mcWcqyUphKcs+xWvym5Di3F4Xr7t6/yu8IOQT/fiZUTh9LPBHf6fsLxgjNVl0e2JnZi1WLpZQHkWNrAtgofXYW54lcBpaZezHg05VmLqFmCpbCly9wcMw+YYwuYa6C27mea3avTyVylsXa03VrPC4iA2fmA9AH0Vx9++JGrw8X8vCBKLbGPYMgekLNVNkkugl0NxxbUapM=",
+  "URL": "https://github.com/pwndbg/pwndbg",
+  "LICENSE": "MIT",
+  "ARCH": "any",
+  "BUILDDATE": "1579373997",
+  "PACKAGER": "Levente Polyak <anthraxx@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "gdb",
+    "python-capstone",
+    "python-unicorn",
+    "python-pycparser",
+    "python-psutil",
+    "python-ptrace",
+    "python-pyelftools",
+    "python-six",
+    "python-future",
+    "python-pygments"
+  ]
+}

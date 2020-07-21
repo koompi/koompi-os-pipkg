@@ -1,0 +1,25 @@
+{
+  "FILENAME": "haskell-gsasl-0.3.7-3-x86_64.pkg.tar.zst",
+  "NAME": "haskell-gsasl",
+  "BASE": "haskell-gsasl",
+  "VERSION": "0.3.7-3",
+  "DESC": "Bindings for GNU libgsasl",
+  "CSIZE": "74450",
+  "ISIZE": "372002",
+  "MD5SUM": "6405a37c83efe4bdfc94bca261d65f56",
+  "SHA256SUM": "2520206bc55e4af01515ec7772c9eb43540ef21d71e5c9ec6ebd4782ef504c8a",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl6hht0ACgkQeGxj8zDXy5I7yg/+JzeLJvvTWTRn1ggSdO4BGcbn/HhjuWOUruZjNHeXivcA7SFSxx1IEJm5zicN+UXHydMCL/EBYfsjAqy2LHA6H5yUWkRX6hOHZBTtvbmQohvpyOZptAY/tV0rjW7mA794bc8uERvZFUahELP2tpr1IWyVKZIV044zCBMwUyx+o45bB4KT/fXzg7UMDW6lxIr8ic7poSRadTbttsFMwFx6/CVoVbGev64NZognnSC+umcWNU9Ej1DRVborYRZvDIU4dWU7u1vETbUXc6y7ONnGjxs7pcOvmO2nora/sdMJw8wkV2LdI7GbBo3FASVwNomR+/gpRG7qC221i+G3OG4vB+xkUe0mhokSimbwboCA4jMulAbKPGtmQ1NaooJjS4dStDg/p9L+3y4B57SSV6QjRctrjzUOLxx9EspkAJi4rcYSmHoPSQQkkwLks1zrJxyPWFzae9Xcp9lhiWXjE1zoVk4/zvyDSrQYeWMvoSRnpSy6rwDYgQOkDZnq1lZk63HzGqyabsBVP+6qYTzz//XWQRPu4DSvgcelH0/ToNuSgNLTybsh5nGTCGSjnQmAD/MZZMG2N6xPhQQe4q2upcYQxLDZF19AzJ5u7wSVxa2/C3LyDXXmv0k3XTQ5Vbdv4arUvEAPyv7UkASWUCeUrxMQ6wkXGXwA/YEdgmn0ivrJEUc=",
+  "URL": "https://git.sr.ht/~singpolyma/gsasl-haskell",
+  "LICENSE": "GPL3",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1587644036",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "ghc-libs",
+    "gsasl",
+    "haskell-monad-loops"
+  ]
+}

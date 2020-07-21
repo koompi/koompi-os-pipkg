@@ -1,0 +1,23 @@
+{
+  "FILENAME": "perl-text-soundex-3.05-8-x86_64.pkg.tar.zst",
+  "NAME": "perl-text-soundex",
+  "BASE": "perl-text-soundex",
+  "VERSION": "3.05-8",
+  "DESC": "Implementation of the soundex algorithm",
+  "CSIZE": "13235",
+  "ISIZE": "28098",
+  "MD5SUM": "7a63dff921531d3fa513bfa0b5ffe23f",
+  "SHA256SUM": "e0d483851a71c3a248d862f8c048981ea30a7453fd03f963cda0888300122092",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl7vN34ACgkQeGxj8zDXy5KDuxAAgQz7Ni4p39c2ruJ9r6jf2D8gUWQwXtJV+fcvjYymVwyhT4dCmhNDQPBIixQHBUkpV3XIjaH3hYt4nMHmDNbDqVaD/0UqA65D6NH41eF8wiBGGgX8k7S4J6lXVF3c3A/bRUvdh967etgNL2gu7svruKWuyQjNK8ghBKTpoveIojC2il2FYAsWsaEe1M9zlrtQZEpGIVcwCx/vxKh+PnMyoKaP13vR6apYqeQpqWB0Lu9DyAn/78t+8uJ0Nh5vvv18ZYAUW6v8nbqmdZm98ZtcSQ9VTgd2UuwsjHuAYL9bU+98uxQutHEhEG2tdtS/2XIQTyRNulhProiJRdw5NvA62DuHL9DLus9lO5D+X0eHSU6n0/S+xAHiuy1TPKpacB2c5I/ptJ/qLwFlBWwD+GTXhYd5XLZGNLGVIbrwzChlQfkI8wo5ASA1lgvLAL6vL4U1V2sCQOgWijWaZtEcDkQ1j4o1W1Th2C5QSmgCjTjaSuJmzb6Ugh2Osn7oi5x432jE6ALF/a5IUqRVph023D5eEIRMxKTthfVTAUgG3NY2wxOJTKPuys2m1KX7J4Uo2NaQsk+o0MltGMhukn5qi3MP7Ah3Hu43tZcSRL80rJYK+D76J85npQiHrOsUewTElT0/7Nnf6gRD44rCqD3uUSyNi1j5azJx+fv6LcBseb5unDE=",
+  "URL": "https://metacpan.org/release/Text-Soundex",
+  "LICENSE": "GPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1592735574",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "perl"
+  ]
+}

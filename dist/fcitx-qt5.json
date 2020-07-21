@@ -1,0 +1,25 @@
+{
+  "FILENAME": "fcitx-qt5-1.2.4-5-x86_64.pkg.tar.zst",
+  "NAME": "fcitx-qt5",
+  "BASE": "fcitx-qt5",
+  "VERSION": "1.2.4-5",
+  "DESC": "Qt5 IM Module for Fcitx",
+  "CSIZE": "189756",
+  "ISIZE": "714833",
+  "MD5SUM": "4c03a41a9261d056c43610b750fbc0cd",
+  "SHA256SUM": "55139b29380cca17197f64becb935dc41a80cc182f5c9dd0e1d22e16b5d574a8",
+  "PGPSIG": "iQEzBAABCAAdFiEEFRnVq6Zb9vwrc8dWek52CV2KUuQFAl7NZwoACgkQek52CV2KUuQ+yQf+L2/isjw2LJBF2XGVDJ53Wn0iniBc0P9mdWfmElJoETpIP1rlS7+RtI+vlL/kRSD+LcQ//msfUqfOddauUxlpyFEpcDzyhnOiRpLAx1G86BcEO+QPFwyXGfINMUB7J0uWYrco+SFsrw1+Kc0qO1U+NWnttuuhjah4FoCUVcOc6WytaVnngYuBysNWT80SUJFqaweXZlewy0wtb9QEgEOnaemmBbETCddFtaAkuzF/CPkdv53g6G0fOKwNsxds7KwXg55uBsy6ICgBekleFtosDgDrc7sYDoH6oduSO2VZr86ie09rYtth1W88G+fQMINGJm3WeE/ErzdvEDFMMDeo3g==",
+  "URL": "https://github.com/fcitx/fcitx-qt5",
+  "LICENSE": "GPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1590485101",
+  "PACKAGER": "Antonio Rojas <arojas@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "fcitx",
+    "libxkbcommon",
+    "qt5-base"
+  ]
+}

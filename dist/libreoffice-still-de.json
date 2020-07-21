@@ -1,0 +1,23 @@
+{
+  "FILENAME": "libreoffice-still-de-6.3.6-1-any.pkg.tar.zst",
+  "NAME": "libreoffice-still-de",
+  "BASE": "libreoffice-still-i18n",
+  "VERSION": "6.3.6-1",
+  "DESC": "German language pack for LibreOffice still",
+  "CSIZE": "2435665",
+  "ISIZE": "21986578",
+  "MD5SUM": "800e1def69c21e77a5adbd31b4297a9f",
+  "SHA256SUM": "7984f391fea135a52fe4783e50d6c084e1158bce52010d35823ff14d9c2fe007",
+  "PGPSIG": "iQEzBAABCAAdFiEErcih/MFeAdRTEEGelGV6sg8qCSsFAl6tSr0ACgkQlGV6sg8qCStZuAf/Wq8HtNYYqrS/PMgP2nbMcirs0g7p6oWWbrK4z3Nc52l8alUXkZIVX+x1DFjUyV2127hRl8VNHv7BcYSEkP9RCZ/x9QAuVTQzVvWPt/0nvh5fL8qU8RKRnZxWHySONxLFZo2A0IulmdY4SPhICjEJNHHsq8uYLropkLArKCdFaSx6C8TFjt+fVo4Omr9MIhbDt9U69HYIOfC/SFeVT9BmNxyFoYfit8Mk9aMFchTJh4LUGV/ZlLEJ5GhrJaE0AmvEA5Qez2zBtuZDy+lONKRb4mdPZ8Dc4MP2FneKwrdMSHmO3RU9P5lYr/22ja4VxyaNyskw1Z3+pnN51hZTCEOg7A==",
+  "URL": "https://www.documentfoundation.org",
+  "LICENSE": "LGPL",
+  "ARCH": "any",
+  "BUILDDATE": "1588407321",
+  "PACKAGER": "Andreas Radke <andyrtr@archlinux.org>",
+  "PROVIDES": [
+    "libreoffice-de"
+  ],
+  "DEPENDS": [
+    "libreoffice-still"
+  ]
+}

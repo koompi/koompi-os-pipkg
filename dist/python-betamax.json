@@ -1,0 +1,23 @@
+{
+  "FILENAME": "python-betamax-0.8.1-4-any.pkg.tar.xz",
+  "NAME": "python-betamax",
+  "BASE": "python-betamax",
+  "VERSION": "0.8.1-4",
+  "DESC": "A VCR imitation for python-requests",
+  "CSIZE": "51968",
+  "ISIZE": "245646",
+  "MD5SUM": "daabba351128ffd13291e2ec742cc457",
+  "SHA256SUM": "8146f011db87370ba6509969f2bc20a5cae92072d209505c04be6edfc65f6567",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl28g5cACgkQeGxj8zDXy5L8LxAAtNV+VTXsGm5p1W7M4VJ/tA6h5EMfxN3DX3zMJMgnMot9YRZB/0B56LrVWXBy1U73zLhT8PWmBxuLjKyf5mvJ5q5mG50hf05D4oxtxS5XVzoc6fm0+8v73nc3isehYkTTpfiCtKnb5BAvH3xnoTatXXWG5pXheJjQLAgu//6C+yZ9CsTbwrXr7aRVnDoWuTo0gplKytezR9+d69UCbYHBNO4pMkj5wvt37pDYqC3T/PryMN88QcABwdTv0zdZRT8EoUjIgU5yh/reaoe4ndzVOJ0OICYSQkOORwVw3qrGaqQH3CirPY0TDarQ1NV8PO6K35dFLlVYr2Qdep1kdmZ9hRT/Fdq+ZUbv2XWMNKey1O4ECDE9Bok1fibhZsXOc1TF1SxBeRvFhzQhBB9gNjzLjW/z9CltzU30K4YvV+sNJVNxTlgHnftNRgAlh7iEcA52ft0xH226AHkwMmWlMwsCjuZiAmoiSutu4dioV68MSbxCYEHu+1EewUQ9o0HHtKqsazOxEqAv2uSuu/6ny4uMSRoZWLEGGf629ueJubsnveLsmUBx6oZgvAnOlD991zh3rzxKdKmMClCp/3/POv5nLDBH7/lxlQtsmpeuruN8EmUpITVx6MjXZXoOiICKqgjHZjOHUzT/QJRWpPsqNBHzvucbg/TCMxpewHU89M15jCg=",
+  "URL": "https://github.com/sigmavirus24/betamax",
+  "LICENSE": "GPL",
+  "ARCH": "any",
+  "BUILDDATE": "1572635474",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "python-requests"
+  ]
+}

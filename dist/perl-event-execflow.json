@@ -1,0 +1,25 @@
+{
+  "FILENAME": "perl-event-execflow-0.64-7-any.pkg.tar.zst",
+  "NAME": "perl-event-execflow",
+  "BASE": "perl-event-execflow",
+  "VERSION": "0.64-7",
+  "DESC": "Framework for perl-events",
+  "CSIZE": "35944",
+  "ISIZE": "83991",
+  "MD5SUM": "a3a383f5dd4f64fbfa261141ab025939",
+  "SHA256SUM": "faf9868e90e5eec488ed0e7fb2619d1f76221790d6fdf3d4f6272905c6cb63af",
+  "PGPSIG": "iQEzBAABCAAdFiEEhs/8qRjPOvRxR1iAUeixSKmZnDQFAl6/22EACgkQUeixSKmZnDQY7wf9FHZ6Ij823i70HK0MvWFl7psBMzlXtElTKBC6Gk3GQLIqIsLk7DdSFUWLbmkKzMAe5IQKIsFTPnyPVB1AN0yyKZTEFrRXuJ6nZEwPgMuFukQdUix9mU/+jhgGbcmkWEhmcKcqxN82MFsuAQMKEqePiaZYrTFxHATtAUr2qlPeI9Pv+YjA8ZVjdgOZ2YCT8A9upN5uECLs9DdZC6D3UvMei/eEtr3VF6R+JP2nkt0Lgz29wBg5+fLanDY/vi5qIbjbjWCgrSq7BNmDlyEuTU9+1HbmMoAJVXzQaXAUMvEzT/o1CsJnpmyGtXg0jMeC/Ofb5c6FV5R6XpYTMmQ+VJt0MQ==",
+  "URL": "https://www.exit1.org/Event-ExecFlow/",
+  "LICENSE": "PerlArtistic",
+  "ARCH": "any",
+  "BUILDDATE": "1589631823",
+  "PACKAGER": "Evangelos Foutras <evangelos@foutrelis.com>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "perl-anyevent",
+    "perl-libintl-perl",
+    "perl>=5.10.0"
+  ]
+}

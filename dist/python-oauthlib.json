@@ -1,0 +1,23 @@
+{
+  "FILENAME": "python-oauthlib-3.1.0-4-any.pkg.tar.zst",
+  "NAME": "python-oauthlib",
+  "BASE": "python-oauthlib",
+  "VERSION": "3.1.0-4",
+  "DESC": "A generic, spec-compliant, thorough implementation of the OAuth request-signing logic",
+  "CSIZE": "163512",
+  "ISIZE": "1325532",
+  "MD5SUM": "d2d0acdd3f3b872938f50806bb074f50",
+  "SHA256SUM": "e5db5979fc4ba07dda06d763e6f40519ce491716e1208c7d946d369d5b96862b",
+  "PGPSIG": "iF0EABECAB0WIQQsEYxiDwLbmsHQ+fqU3SOT2i7kIwUCXniDrgAKCRCU3SOT2i7kI9LDAJ0b/aMylHrPIlAxG/P6RLHDiyXIQgCgqxLk1Pl9l/IaWLK4oruB4+6Lldk=",
+  "URL": "https://github.com/idan/oauthlib",
+  "LICENSE": "BSD",
+  "ARCH": "any",
+  "BUILDDATE": "1584956204",
+  "PACKAGER": "Massimiliano Torromeo <massimiliano.torromeo@gmail.com>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "python-cryptography"
+  ]
+}

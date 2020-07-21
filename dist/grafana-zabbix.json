@@ -1,0 +1,23 @@
+{
+  "FILENAME": "grafana-zabbix-3.12.2-1-any.pkg.tar.zst",
+  "NAME": "grafana-zabbix",
+  "BASE": "grafana-zabbix",
+  "VERSION": "3.12.2-1",
+  "DESC": "Zabbix plugin for Grafana dashboard",
+  "CSIZE": "7822411",
+  "ISIZE": "12391064",
+  "MD5SUM": "d3743be52c34a996384b984ca1c1480c",
+  "SHA256SUM": "b569c67a9152f2a87d59ac0f3e286dcb2da3c3285612fdb87dd63ee78e789e4a",
+  "PGPSIG": "iQEzBAABCAAdFiEE5JnHn1PJalTlcv7hwGCGM3xQdz4FAl7P84gACgkQwGCGM3xQdz4uRwf/VitdgxAz8XUAVV2Zjuu4NJ9xL/uAYBw0gA1MryPT/1PG7nzydxQwDJodsWukAGyZjiSmPS1toyUhZYfnnZjKVgq8ekAqW2uSqhh17ZnhdEJbnWgVLLGzqEMlF/kck5I7Jib7cWrOo0kE2iauittz5fp5quIOipk6doRoSq/v0+54pGb9phBkIIxI6uqwjgV0qDSq/I7CEbQsHQGux5wUmeb9PTLLkl9oXquYKqpTa//NPMtEo9AszEep+lN9OHvh0vVoAwbnOhX8bXXN+HF8V1ewjMjwtA4rqYFR1FVquhdbSofOa3+9a4KGLcEbLEZDvrRa4A7V9MFOKMw8vfQtuQ==",
+  "URL": "https://github.com/alexanderzobnin/grafana-zabbix",
+  "LICENSE": "APACHE",
+  "ARCH": "any",
+  "BUILDDATE": "1590686102",
+  "PACKAGER": "Jelle van der Waa <jelle@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "grafana"
+  ]
+}

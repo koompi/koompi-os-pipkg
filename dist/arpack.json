@@ -1,0 +1,24 @@
+{
+  "FILENAME": "arpack-3.7.0-2-x86_64.pkg.tar.xz",
+  "NAME": "arpack",
+  "BASE": "arpack",
+  "VERSION": "3.7.0-2",
+  "DESC": "Fortran77 subroutines for solving large scale eigenvalue problems",
+  "CSIZE": "158220",
+  "ISIZE": "665600",
+  "MD5SUM": "790f72ccf73a52af442891a1aa96749b",
+  "SHA256SUM": "590a1707c9dd99ae05607d3bbeae73f84a5e0518e8d6b014d73c05154d200173",
+  "PGPSIG": "iQEzBAABCAAdFiEElihV8HLHoBhGQFhk/PPIy1z5yNQFAly+TpUACgkQ/PPIy1z5yNTNOggAsiOAm/cQkgCPcQE6ETq2Z0ljUNkwZK7VsZU6Coa7kFlQ46UMwo9ebgGLQRHBx6Uw1DyEM494fWSrADOeaXQ6md3/1f+49E1bKvnq2tcnJVq2uGzGemBHivRcr26fEHic520FzJL9ViPRv0VBKcsJ25ZJgVZcAQ87PFSjRgx5irbJEXazUYnL8D0/eDL5yo+LfuiJnAvXeMOvsTLz2BTmSpgAcqNXMLscCTGzyGbub5sqLmPwpoVNN2trBDJebQOLyLB6tF6by+odcWLH/y+yuFBdqkopkqSu3+RL7Cwl3RStsDampSosh0QNLr3MYmIniH/0PFzuWK5id1lWRizdVA==",
+  "URL": "https://github.com/opencollab/arpack-ng",
+  "LICENSE": "BSD",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1555975731",
+  "PACKAGER": "Alexander Rødseth <rodseth@gmail.com>",
+  "PROVIDES": [
+    "arpack-ng"
+  ],
+  "DEPENDS": [
+    "lapack",
+    "openmpi"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "FILENAME": "deepin-anything-dkms-5.0.1-3-x86_64.pkg.tar.zst",
+  "NAME": "deepin-anything-dkms",
+  "BASE": "deepin-anything",
+  "VERSION": "5.0.1-3",
+  "DESC": "Deepin Anything file search tool",
+  "CSIZE": "13193",
+  "ISIZE": "35712",
+  "MD5SUM": "54329771855965c7ffb22d216665ff92",
+  "SHA256SUM": "36c1504a702b2ed1eb08c3fab037444fb272922a5bb0ada2413079bfa3dff873",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl7jKC4ACgkQeGxj8zDXy5KqnQ//XEAFE8MXio6fTlKvODz4z8qK2ObPfSZ1TOJwiYapRWOxhFxhPhrE4lr0cP8TffupuSgUz++v+VxJewM/Rgia9fhqbcDCVMtPtTYeWWNadPY3o9X1+WRT7E/CPYLWgmQoBe1MB9VkBrnGc6i1wDI2esDh3vmBZWvDe9udSvlHKWjIkM4InmNWVp1hou+C3i3S5FAXRpzi93ufr5OqFI8XPmsM6wHhKNQ59+2ja1G+IkkwTq9BJ1WtoVRE8Mt+HkpYk01xT2t7U17C4rdiEivqYRzbfcMgjoT8a3AZLXOXXlQDethD0PpboWAZvlbp04yUafw3P6cHIRiMvqiklA3WtMyGtY/oPWjxo55sqPzSTb2G7QVidFWR0eKXjtrPid8MP8U7BHDKYQDruduiYXTCL39+wfKXG9Alq+SdcXhlZ+kmRGMdc3/dbvWMtcO56dICNlwwL0e7xo4pw9s4SVy9OUEWH9I3+loUe/JD3Z3wVNmsEJ+Aepk5+2wx5aNK8QDAFgxmf+zY2H/urXws97uuOwxvFBOhNUFH5XNPpNMC+ha6hEFzU+Zwz4rnKkCGg342ix4DfUPIR1Oi6EWeWH80qc3pfCgSZrnObGT7NRDdqqO3TRLFFfszU+gr5RnttvbgwPML8VOemLfCkPjzleuLjL23aTbyUyQje1zf0VCsiz8=",
+  "URL": "https://github.com/linuxdeepin/deepin-anything",
+  "LICENSE": "GPL3",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1591945016",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    "DEEPIN-ANYTHING-MODULE"
+  ],
+  "DEPENDS": [
+    "dkms"
+  ]
+}

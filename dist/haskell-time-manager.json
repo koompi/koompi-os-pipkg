@@ -1,0 +1,24 @@
+{
+  "FILENAME": "haskell-time-manager-0.0.0-64-x86_64.pkg.tar.zst",
+  "NAME": "haskell-time-manager",
+  "BASE": "haskell-time-manager",
+  "VERSION": "0.0.0-64",
+  "DESC": "Scalable timer",
+  "CSIZE": "17662",
+  "ISIZE": "58952",
+  "MD5SUM": "26a891ecd22d8f3782a2c7e9402d5df0",
+  "SHA256SUM": "4d0b24243eacbe4f4b390c070cddd835f32b5ad36f0bf21bc61d10d042f7724a",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl75xLQACgkQeGxj8zDXy5KEgg/+OBrYqjqax6rNGMn00TNFCLTeA2LzjX2g19YaGrEg5jqp8mfz5ABFe2MEFRjrQOemoqQGlZwZ+hSpoWmHvHFBVqMqU2oFAfsOvhmUTDpyI9FsDxKfkYREYs26zsusMlWGrr9Hfxc8kMePNnvoiPg6rVMwWLtlvV9FBfZiote3tmTGXG//49UCpVFdX9+WC5Ew8QNf3V94FFl3cYhduoavgOal2zn+YAsYSD8V0SREec/jif9/bWD4v4n7XDxHVszpJsVj7wUss5NLeZEhXDdgDAjD2VTVJaIlhOAolhQ7vhG2q6a+Xhn+i9hRCb6rj6WmqXn5jfcK9K5dwtou3Bnd7OFnGqpEnKD7HANYRcIW03xYChMZNZMZHyid7zve/sZ+tYl0KnYkrEWJLOenCoBM4HIEMpkxnhwSjyoQb/oclg1alN/Y7dzvpWiTQtsG8H0NZWBxgs1vycTC7iTeijyyT8dR9yw6Is76f00JERxhukohOH8Ve/AzDQDnp8rnFW9JNiaZngUZyfrFBQGbUqhYCJCFoczvh1ACiuoGs2q8neuYZ+/mBRtZvStVNgteuePsrBfisFcUeNU9r03jEP6pwZVWAGbJmXhleQbSWASEJYmAIK11xH4OdMP/kHFVvBLohNzxdRy4DebEwtQ+L5vP1kFahz3eVhTyAtEV9fvyo+w=",
+  "URL": "https://github.com/yesodweb/wai",
+  "LICENSE": "MIT",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1593427102",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "ghc-libs",
+    "haskell-auto-update"
+  ]
+}

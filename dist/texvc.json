@@ -1,0 +1,26 @@
+{
+  "FILENAME": "texvc-1.28-3-x86_64.pkg.tar.zst",
+  "NAME": "texvc",
+  "BASE": "texvc",
+  "VERSION": "1.28-3",
+  "DESC": "tex to HTML/MathML/png converter used by mediawiki",
+  "CSIZE": "375480",
+  "ISIZE": "1363120",
+  "MD5SUM": "0f966a65bcd9b8f4cfeea122cbe127e5",
+  "SHA256SUM": "be8ebc59e2f3c58441eba2466f33d2c323e9d1f93f3ae5d6b70313f72a130042",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl8Ecu8ACgkQeGxj8zDXy5JPhg/+JypkGw0kkx3FKcQndZTwUGO7Qrr1ZH4/ISfBjvAGRHZRQOlwGJ4u2oUL3JZhi2mwTHQdmEU+gHSAKYYXaxiaxUv8GaiQ12IUC11iQDozKUsEIfNwx+LhfvidHt+e0Oj3UqawmWvXfVaHJlHwZcEQQjCVKfFkX4up7H7392qFaIwGp++tb7ARWNwIPz71ersVmPKaPAhP95RiftZ8UAj2LYQu/ulY8Zzy+G3RheZ5rvBtyAZLMbqSyYGSv862kzTZ2olGeazHLTsshDkcOH+Uutgrw3ihlrWQc4ZD5S3X2pOojXJSavztUGyZ5wte4Ny0nrKpft02y2uGJBkfcutS0m/DKmYC+/UKh/2kb3SCwx7/GyF80+qzV1Rtnogrwj5hh0ItreF4fh/DhVxtx6y4FgCLGXeWI4SIre74QYxswZaW61x2bNu+CqlP6yFUCZp8miXTpdNIyHaBp+I52h4kiaxumtWMvgDeP0hMlHt4IpaT7pRhzQ0UqIzyy3/YLLRjDByHKaExtwhlnV/YfxjPwWqAbNBtDNeSoXzatmsiGgqhZI7Mssh8XX4H2mthghkLJV2G0l7HUn0iFvKs6TBSkdUtZJvV19PrfV/zIMrGXW3OmiL+NdzcTrfOhm8z2YEBXv3faUpVJzAXZ7neL/zq6QdpEFPlXGK2L0VAUJcyLB4=",
+  "URL": "https://www.mediawiki.org/wiki/Extension:Math",
+  "LICENSE": "GPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1594127027",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "imagemagick",
+    "ghostscript",
+    "texlive-core",
+    "texlive-latexextra"
+  ]
+}

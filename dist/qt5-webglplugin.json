@@ -1,0 +1,24 @@
+{
+  "FILENAME": "qt5-webglplugin-5.15.0-1-x86_64.pkg.tar.zst",
+  "NAME": "qt5-webglplugin",
+  "BASE": "qt5-webglplugin",
+  "VERSION": "5.15.0-1",
+  "DESC": "QPA plugin for running an application via a browser using streamed WebGL commands",
+  "CSIZE": "211902",
+  "ISIZE": "691012",
+  "MD5SUM": "6f9e75330ba8a0cd8bf739ab713121e8",
+  "SHA256SUM": "388f2a2e951b05d5b3344eaf8c34207cbb35d7cee6fcdfc8c6804944cb1b5bff",
+  "PGPSIG": "iQEzBAABCAAdFiEEFRnVq6Zb9vwrc8dWek52CV2KUuQFAl7M13IACgkQek52CV2KUuRgDQf+NJNCekNW9BXeXH3R/nuQHNe747OZpLEZhg30TdQdlzTJDKqdKijfD5tfdRaYUFjW5q9y/Zj8xCBfXP1P9H+5ZhvhKmFz3LtHMWLthe/dxZSYN32l8kR6QYJZFUTNtTFwZBP1zXp7lU4E1kB2tMAOIqhyuOyutuOr2pD/vGZSQ7bY+3YuRvj3r7Ia69xkEKLvhOh8bmltic9FbR5wJO68eHowYVoCBYZ0KGsigtgBQCRLU5IENRIvFJ8LJTL5cphuP1UdrR+2y5u86Z7r27xdsAmWGv7C2t9NYjM2spw3BW8DGsKlULZTJGdAz9vUNzDYAiaREM0dNHb29Po9RqMXVw==",
+  "URL": "https://www.qt.io",
+  "LICENSE": "GPL3",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1590482141",
+  "PACKAGER": "Antonio Rojas <arojas@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "qt5-websockets",
+    "qt5-declarative"
+  ]
+}

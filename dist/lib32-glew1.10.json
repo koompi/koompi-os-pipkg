@@ -1,0 +1,28 @@
+{
+  "FILENAME": "lib32-glew1.10-1.10.0-4-x86_64.pkg.tar.xz",
+  "NAME": "lib32-glew1.10",
+  "BASE": "lib32-glew1.10",
+  "VERSION": "1.10.0-4",
+  "DESC": "A cross-platform C/C++ extension loading library",
+  "CSIZE": "107796",
+  "ISIZE": "481280",
+  "MD5SUM": "9330c3687fe92c306682ca512cbd0436",
+  "SHA256SUM": "9af2c8ea6261c4bb5d6a12b30e50b020d88705b7ee87362a88f2d2eb0c8170e9",
+  "PGPSIG": "iQEzBAABCAAdFiEElDfdOBWnqRaePTlGr/XZUJi8b/UFAlxbAiMACgkQr/XZUJi8b/Xvbwf/SjN+yBXsPwcp8nthij9qvXrgfSilCOmBHCnhfEzDR45vpbADj6En7XmAdz6L/cGP+KFa8VxhN2kxLLH9j3UkqTyo3vpQ3qGlPeN94Nf4a2tmAOPZubHE0EC9ZOM3HPvKdxmMY0HwPknNjA1UcL1atr9txLXjVqy55wc8bQf70JnYyFj0Bou/OxXcKifEIwjeRYf/6Jld8iLiMFIuuzZcvwyu2qrvKIyEkmmdXeaZutJtOxhcxgbEq1JUKkXcIvDivIBxRKjZ4arLDOrzI0CYpxJZMEQApIhmVTg3Bdneem45XFbhkQ9DDPeQ45LcT4R7XXbAZZa7DyIQK/T83Qep0A==",
+  "URL": "http://glew.sourceforge.net",
+  "LICENSE": "BSD",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1549468124",
+  "PACKAGER": "Maxime Gauduin <alucryd@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "lib32-glibc",
+    "lib32-libgl",
+    "lib32-libx11",
+    "lib32-libxext",
+    "lib32-libxi",
+    "lib32-libxmu"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "FILENAME": "libunistring-0.9.10-2-x86_64.pkg.tar.xz",
+  "NAME": "libunistring",
+  "BASE": "libunistring",
+  "VERSION": "0.9.10-2",
+  "DESC": "Library for manipulating Unicode strings and C strings",
+  "CSIZE": "510552",
+  "ISIZE": "2356648",
+  "MD5SUM": "cbc081239c1dbaf6d0852d74b6409e4c",
+  "SHA256SUM": "1bb82ac2e6f3663307aca70128884b2b7c5622678438a9255515666c7455f20e",
+  "PGPSIG": "iQEzBAABCAAdFiEEhs/8qRjPOvRxR1iAUeixSKmZnDQFAl3MWTAACgkQUeixSKmZnDRNtAf/WWEFV7OW4CAufWnjgAvzeFNfCAFiDiIe4f8DkLOZFgrOmiOkXd7RfaHkL8iIvlppNX+RQdJkYVcu3wa3T/DeipWSm08jWc7p0Lbk7Stu/Dvik4eVAE/6es3rktqQQPphF29V/2FFupwZ00F+ZgAsp9eIjiDk89uBfsC0YFnPGX1oVVBoI7INb1J2VlLEIfjfJiOLUc42HL46QzZdRQrQkvmmEEE95QJkoALtFVesFqZaBc33R/ZbXcbcyZ209v9W/R+lKeeHuZmuxuOFUgiCmOb65HIaF4o7ha8UYgnmQqpQdXHewjHBHPxZBFAgpHkHKA64t6IIPSFqAtN/cU02xw==",
+  "URL": "https://www.gnu.org/software/libunistring/",
+  "LICENSE": "GPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1573673036",
+  "PACKAGER": "Evangelos Foutras <evangelos@foutrelis.com>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "glibc"
+  ]
+}

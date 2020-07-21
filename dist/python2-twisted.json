@@ -1,0 +1,29 @@
+{
+  "FILENAME": "python2-twisted-20.3.0-1-x86_64.pkg.tar.zst",
+  "NAME": "python2-twisted",
+  "BASE": "twisted",
+  "VERSION": "20.3.0-1",
+  "DESC": "Asynchronous networking framework written in Python",
+  "CSIZE": "4479775",
+  "ISIZE": "41612975",
+  "MD5SUM": "c1875195c5cda4caa1de8f122236b245",
+  "SHA256SUM": "03580fb17e91087182d6904558e34ec2f2aaf80b33892633c1033d1bbf88b575",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl50xRcACgkQeGxj8zDXy5KGlxAAs0hK+h7BT2KqO0GNW0Mx1peQiVOig9Il+qddJ+Fu9t3IQK/rULN/qc9WMD6ceCnAg36lMni48l8AvtkTI2O787Cu97gCJ+g26MoJpR4QPkQ8vyHnOBD7kUYzgH5iZClzm31Zenssq/ixouBp7RTBCVdL7k6yJLhh2VyidfzncwJ3KL2v2SUr9ZNm7SRe+xg7cB9IxPXsPNMEZB4KfTaRe7hqA0IZ9tU3xm35PxC/n1bm8bn6buAawJg+4SyCk08vQwhr0MoL/XRkyqoDpM/VszLLmC6I53LejEa84LachEGjqup5u3o90v+f14fR9FtYMdIeGL4tx7acp2v9J5SqT1fOtMpZDXxhT4WeQfdCsa13qsWolt1SXB2OdPgfdO0VuQev2Dl7eJYT2o8w+m3jTX+9ClPfmDv0G9mX0WkN2SnML8lndrmb92HXTN1+gNnETgfsqoaO5n47py7n3jq40GKa+9XDI8DVZYO+kut5olGn5pdD2MmG0fo8Xe87Xdy26u3rdwnRZU0Fs3iBljbapkjqzZCn1c7Z2uKF8ZS5lJbcM15W+qFMwQ6J8laBNP9a19qa/bZ5juto5ybP8PJbXzXCjOxXSUKrmeWWFS8tmZMncXqH7cSvJ+dJXo5g0qDzIea+f695pCyicTk7pAXuZ/epLw/4avenmsgkzgxLSCc=",
+  "URL": "https://twistedmatrix.com/",
+  "LICENSE": "MIT",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1584710468",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "python2-zope-interface",
+    "python2-incremental",
+    "python2-constantly",
+    "python2-automat",
+    "python2-hyperlink",
+    "python2-attrs",
+    "python2-pyhamcrest"
+  ]
+}

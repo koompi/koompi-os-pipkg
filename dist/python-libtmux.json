@@ -1,0 +1,24 @@
+{
+  "FILENAME": "python-libtmux-0.8.2-3-any.pkg.tar.xz",
+  "NAME": "python-libtmux",
+  "BASE": "python-libtmux",
+  "VERSION": "0.8.2-3",
+  "DESC": "Python api for tmux",
+  "CSIZE": "45908",
+  "ISIZE": "275023",
+  "MD5SUM": "4312a9439b9fc6f926dc9b1f353885ff",
+  "SHA256SUM": "42eeb47d6705990ece7714b9ec41f3558a7caafaf80aac64df973021b76fa589",
+  "PGPSIG": "iQEzBAABCAAdFiEEhs/8qRjPOvRxR1iAUeixSKmZnDQFAl27EV0ACgkQUeixSKmZnDTV6Qf+N1vBK+Za1/HjgtLUY0YNzjvJ5dg9ME/J/AyrdITGe8O+vHtaBp9mN4HX4sMqCRvdp9UBCkqN5DAKU0mB7+2t7uA4YSyv6a/fOuyOJPyE6UQ/h5+mZhVsRwP8Nr9UvyuwOAH/Y9+3vOaEYGm5Xjed0bcL5Z94N2hLA7lAqI5orOFI7UZXp3sCA+9Ei2TBs0PnNOjshEUJoOOyZCMK1sJsqARGW/UFLAISqcKjQyw9o/JCgChR1shbAykHeCzylFbEZs3jkoLGMn8WXTsUjAykP9GZK6I6byxsBj6dEIU0BStg6R1bOJozcmNyxuGZuuWHabQIksi0Lyxja34tViiFOw==",
+  "URL": "https://libtmux.git-pull.com/",
+  "LICENSE": "MIT",
+  "ARCH": "any",
+  "BUILDDATE": "1572540729",
+  "PACKAGER": "Evangelos Foutras <evangelos@foutrelis.com>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "python",
+    "tmux"
+  ]
+}

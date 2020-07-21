@@ -1,0 +1,24 @@
+{
+  "FILENAME": "epydoc-3.0.1-5-any.pkg.tar.zst",
+  "NAME": "epydoc",
+  "BASE": "epydoc",
+  "VERSION": "3.0.1-5",
+  "DESC": "Tool for generating API documentation for Python modules, based on their docstrings",
+  "CSIZE": "397640",
+  "ISIZE": "2596031",
+  "MD5SUM": "d482b828de83ecb1b97d37934fb55443",
+  "SHA256SUM": "3feb615fcd8763917a5867e93de71df4b4ed04518c60216cf55f6d584f572b68",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl7Lx1gACgkQeGxj8zDXy5JSqBAAo15Izr/YVs8bPA74g2qDupGqe6Ok2I1L6eEUEMWKtqvKLgjCeSIbOMN8OWznoyCD5B8cWR7PLAHwRVTdcTEee4jwNBflfczummoMtTBCx/jRQ2O1Z5HYLFiI3b7lBqQl4uxBzzwHbsP77tBesYUVceowLr/cxc+Oti8dzHhPum10m7jVFbEsSiN/kkfzFwk2JClG29aFUUre4jEEkTIX6GOboX8aJv6SjYK2+cj2KVxLMoJoABOmiDG2nY2BrP9k4DRKDxpLAQOQRPS6Eeb203zLb8MLaYqnlB3YHPEPSbAevknwPAXW1GQnUUPfGFNOD+Ss9wdsSOvGD7d3uklSzRd83Bb5oUbthuKVAIdFTD6cVvGDOUVxNrNZYxs3aeTg7f31vlnY4JXbbMaptWF/d3hIQXoC6kTdiBzXhLKP8aBcvHL6MJNK2l0wjc3NymhUlkUIutpaN9jnFt40bl2ZvrSFaiKYBJmg+JiD6SDCenw3oKzcel+tAvY9Z5dJhnz5J8JTVLKXdmb9g5TNtaheyQOa8e7u1wKdbvTdft6DUf9ygWF1lw8jphBFNxK69kvwFNsI1A3+L1OEaXLYkHN5fOPP6j4IGypQBD98DNIeH8yPL+ptOFvecY5HcLF0BpOl1Jtos66RJl/+8NXBqoTXVF7QS4wIw792HV+Y26obd+c=",
+  "URL": "https://epydoc.sourceforge.net/",
+  "LICENSE": "MIT",
+  "ARCH": "any",
+  "BUILDDATE": "1590413034",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "python2",
+    "docutils"
+  ]
+}

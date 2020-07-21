@@ -1,0 +1,23 @@
+{
+  "FILENAME": "perl-crypt-smbhash-0.12-8-any.pkg.tar.zst",
+  "NAME": "perl-crypt-smbhash",
+  "BASE": "perl-crypt-smbhash",
+  "VERSION": "0.12-8",
+  "DESC": "Perl/CPAN Module Crypt::SmbHash : Perl-only implementation of lanman and nt md4 hash functions, for use in Samba style smbpasswd entries.",
+  "CSIZE": "11885",
+  "ISIZE": "22700",
+  "MD5SUM": "f43e19a198e2f1cfeee0cedee5317294",
+  "SHA256SUM": "2700efe86dfcaa69abb45c216b6f92af3c72ca12e98fcc5bd4ab6698fac9a121",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl7viiUACgkQeGxj8zDXy5L0CA//REo6C2njJ460/w9369GYEdlcb0/Ehx9sPBUjdLPaF4X0kA9csv4eEkeJwp4hGIWC8Kb8TlKngvZcJtbG7oNwCu8AwM//g00VenKGDuVhX4KP3gG1IUoY6yBI1AI4KaXIRTjnl+X7bHavAnXWxycijNLCKU/h1sLwFrfv+w5xDbzaLEEia9yEx1wsqnHqmimuNlRXddu69MtYVl1IX5s0qSjbvjAJMlmuwkRWXgEat3gx1tS7NqDJknVB0wnS3QHPpNFO9xMRQITrQlm2TGF53tVLkt8RPuk6IfeyzAI1ZLCMbiTTruXL17ws8MRHTrxcYXZJrbiylQ5ddYDhfxGEutiAWS2l85ztC3xhxKsmZcnHQYd8mBpKfqVmQmDrUIKCbT+ygGXKyynaqws23EOzniKeAYBkE7tkgwBMldcRNr/IGDPm90SUcPLGJNH+0MLpdzaeU93oSEGDzJE1Th3WRVukhxzejK7eCTHfxzntAXoV8sYaE4FAgOVJdsxOsmTidgs/nnPLCYy4oGMRol7YIZ8SsDurmRtHWlj/Oy2oxTuaG08YHg3LaxCr3kdRPHkSK5bpeZgBCMfVX9OZsk/TcuInXEVoIy8bKtHfAN9z1/fcDGpjf0IRUR7GSdwWK0K+EJa4Bq9MAJnDAITCYKwC9gWdWx4MTwOjksvKiFVvyWY=",
+  "URL": "https://search.cpan.org/dist/Crypt-SmbHash/SmbHash.pm",
+  "LICENSE": "GPL",
+  "ARCH": "any",
+  "BUILDDATE": "1592756750",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    ""
+  ]
+}

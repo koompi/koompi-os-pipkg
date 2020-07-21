@@ -1,0 +1,25 @@
+{
+  "FILENAME": "sugar-datastore-0.117-1-x86_64.pkg.tar.zst",
+  "NAME": "sugar-datastore",
+  "BASE": "sugar-datastore",
+  "VERSION": "0.117-1",
+  "DESC": "Sugar datastore service",
+  "CSIZE": "38618",
+  "ISIZE": "175525",
+  "MD5SUM": "866401795694f31f74454325578d18e1",
+  "SHA256SUM": "310c68cd7c44f1a49cf3fced797200c2d2b96ba65a384ad711f35b76039c3672",
+  "PGPSIG": "iQEzBAABCAAdFiEEzgvecadZqH8j8PfYth284QkBwWMFAl7Ov2EACgkQth284QkBwWMqLAf8DqIokjIzYwmD23Zzz6zmM6TvPGTB/8PIueDkR1vEHBTMNyTG5E4Qgf0oL7MtlcEl9y7YkYxoKR9fZl0Hm7l1sW0HRykWrENy0hxAQ+RZheESqZyKKg7FZFrAmhRU0RVIuheb5crbR+or4iiQJrv36ypimroNZZsejKnkoOwwmUMUIYJJ+OFpAn/+gn7D+BPF24TsN5TN/9v/SM2N8J2KmseXasJg62s+8X9438EXisLtcH0F86BDKL0WFL3oMXZCkYasVnvukxWGH+yYk0RFx1c6OEDyzE/se9XE6m+GNC/r/rRPnY9TgAR3gtSevIBfKlW1FoymIXYpn3y0XXClOA==",
+  "URL": "https://sugarlabs.org/",
+  "LICENSE": "GPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1590607685",
+  "PACKAGER": "Balló György <ballogyor+arch@gmail.com>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "python-dbus",
+    "python-gobject",
+    "python-xapian"
+  ]
+}

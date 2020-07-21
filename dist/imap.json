@@ -1,0 +1,24 @@
+{
+  "FILENAME": "imap-2007f-11-x86_64.pkg.tar.zst",
+  "NAME": "imap",
+  "BASE": "imap",
+  "VERSION": "2007f-11",
+  "DESC": "An IMAP/POP server",
+  "CSIZE": "592839",
+  "ISIZE": "3227390",
+  "MD5SUM": "4864484f6adf2b11fc96339d61901f66",
+  "SHA256SUM": "86cc139a7a2f4bbea1be74d34e5076107483209db98c25ad3b820ca62bd222a9",
+  "PGPSIG": "iQEzBAABCAAdFiEEhs/8qRjPOvRxR1iAUeixSKmZnDQFAl6/wDsACgkQUeixSKmZnDRMYwf/fZUlqlcUMyHHDCq3j4loUgUKISnc9AZHlb9x8rCNVTulmicskZ86i9AvY6KM5/m8cb53GEjzznuKWJ4ru13R0EUTQ2q0QUWfyvXK43a0dJ42dLZwXj480yYy8G+0RGApT4ck+Wad7JiJORw2SywJ6X+8uxmPxl4XAfP1QuqXVoBEr1IwZp91hwWlq5hA4p/6rpiBOh4/yQIOLrq6eeD+CbKeXHibnLDEYfb4mPqJcFbr6zi+QNPcp/pifOv4NRRv+ZP7U2RUZVPQGyTRsc0YtG/D//vhi9AZExn3qCO2dmO+ZawisUBWKsrflgcx/LLSK25wM0IQiZwqcZrfx3xBOw==",
+  "URL": "https://www.washington.edu/imap",
+  "LICENSE": "APACHE",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1589624813",
+  "PACKAGER": "Evangelos Foutras <evangelos@foutrelis.com>",
+  "PROVIDES": [
+    "imap-server",
+    "pop3-server"
+  ],
+  "DEPENDS": [
+    "c-client"
+  ]
+}

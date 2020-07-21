@@ -1,0 +1,30 @@
+{
+  "FILENAME": "haskell-microlens-aeson-2.3.0.4-66-x86_64.pkg.tar.zst",
+  "NAME": "haskell-microlens-aeson",
+  "BASE": "haskell-microlens-aeson",
+  "VERSION": "2.3.0.4-66",
+  "DESC": "Law-abiding lenses for Aeson, using microlens",
+  "CSIZE": "62873",
+  "ISIZE": "398755",
+  "MD5SUM": "a3138fb1a8a5fdc8d734a75fe89fb2a1",
+  "SHA256SUM": "7a0577268b8380dafc063bfc28e3d22f3d58361911202ab3f0389a87a62e9d43",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl75m5MACgkQeGxj8zDXy5KUhhAAh5FOPhsXhJdYkL/5E9VyfiYvuhZJo+GKJuYJibtJ+eMSHoW174gO3wp7sgeKJ5r3mixFnjRwpupnHN72zNTVIbKPy9jyGssG19Y71fT1OBhnkqo4OeK+nI8wkd3aaW7FdjoPgwIkEW9Fx/REEChMQ2rEsmJ3IledMOm0iNkcYXMwNKE2jS7YMoKT4bhlIKZT4YcqrICpYQNWMTgQuJQNhIXKjX7ePdnIXK+zJ8XPtT050bgn373x07BLZHSs4Ps/Dpy87ZyLjA0l0NRvludDqsbP/AhWGcIFgsprpu4b2w0uDdGTgS2LiyzVLcSlXvBUzZmG01972DMs52wSStBVZeGCI06MKHxDZxP08CjI2kWvsYLPLU+rT8cV55Pl4eD3roB/NKByOgb5zbdgLEGDZyvc/aqshBIJbZt+XPyg2dT+EJfccLfSg+RaeUmWYU/4hr0qhNZBCNcKVY9oyUszZBrGLTXw6J65tAihtXT7UL6K7htLCdx2T7joJf40uW6pvu6XnBWecx2+HqiCaBTFNfvKnErCwtGtiEHopjeWv/4RSybXOmAuR/4CYI55R+toVjA72rPbD07JTprCHv8+SDjuGQzhLUqbHuc17KK+kHLTiXWvFfNLBaGY6Wqw1YXDx5DR+JWH7+dvLKcT3yVqyYDJZeSdMZC+2jk37puBrAE=",
+  "URL": "https://github.com/fosskers/microlens-aeson/",
+  "LICENSE": "MIT",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1593416558",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "ghc-libs",
+    "haskell-aeson",
+    "haskell-attoparsec",
+    "haskell-hashable",
+    "haskell-microlens",
+    "haskell-scientific",
+    "haskell-unordered-containers",
+    "haskell-vector"
+  ]
+}

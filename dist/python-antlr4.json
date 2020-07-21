@@ -1,0 +1,23 @@
+{
+  "FILENAME": "python-antlr4-4.8-1-any.pkg.tar.zst",
+  "NAME": "python-antlr4",
+  "BASE": "python-antlr4",
+  "VERSION": "4.8-1",
+  "DESC": "ANTLR4 runtime for Python",
+  "CSIZE": "194848",
+  "ISIZE": "1001909",
+  "MD5SUM": "29cee3ab92e8638823cea4706a6c6cd8",
+  "SHA256SUM": "28734661c5c7c932c2d39b85126e7ad54b02bd4ad763dcd09f50a766fbf16a5f",
+  "PGPSIG": "iQEzBAABCAAdFiEEU1nMa+iBGLUfXJC1YH21X/cbcFIFAl77QBIACgkQYH21X/cbcFISZAf+IYNW7ZJKF4TkcG3WZmhOpxd276w6h0c9F/2siK+awJynWjBrU0Deg/Pc/7oMYeXQpoO8YXK1lg2U8gH44hnZITYJjAsFqDv62IikFuRLTK9X56+4zngqJqfAMybqBeeeSAjmIEDH1BcMjI9nB7tZPIl0v6nTI4zY/1//TERqdrA5r26pk1tTVBNf9rwFLEjC5LC+VAQenuSLLm1seCPAwOgW5DTm218xn02awbuZaQWgrI8F2kw2/l7R3cNJB7xXHWZKEI/wglC8disBFqAjAYHmaFC9aa3yie94HkTEoCH9Sl3fKDuRQj20Y2elvF7g+tseLZd47zhmuVuiKU3oZw==",
+  "URL": "https://www.antlr.org/",
+  "LICENSE": "BSD",
+  "ARCH": "any",
+  "BUILDDATE": "1593524206",
+  "PACKAGER": "Konstantin Gizdov <arch@kge.pw>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "python"
+  ]
+}

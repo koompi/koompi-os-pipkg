@@ -1,0 +1,23 @@
+{
+  "FILENAME": "lxtask-gtk3-0.1.9-2-x86_64.pkg.tar.zst",
+  "NAME": "lxtask-gtk3",
+  "BASE": "lxtask",
+  "VERSION": "0.1.9-2",
+  "DESC": "Task manager of the LXDE Desktop (GTK+ 3 version)",
+  "CSIZE": "68555",
+  "ISIZE": "263966",
+  "MD5SUM": "16ded00151cb3b21af4809a9ef6332ac",
+  "SHA256SUM": "100ff5c7bc66c7235f855bff9cd2a87be695dda51420360edfd7e524cdfa1854",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl8E5zIACgkQeGxj8zDXy5KYSQ//VQHjkiTtoWVljBkjIPoA33FmuUtIwxkKMALLZF4JPrRePFumHZk1Buj+uSWstIlKVpVuqQpOBuMvQe8E9si9HI27wq2TgQKJeiQXNBo+LNG7j0KqoA4x7tZIlpY3rOFcaqdLd4d4ebRph+7GOX2vmfIJMM9oXXBOX+5jowKs6PQ3XtpH1W1VK3AEiCa7sp13zTYuWMEaL7fHv02CKrY6jBNfSVb2LONqmohwNgC55paGl6bDFqrhiFuu0gi8+/2DKAxKpf/VxV7E0S5Ox6Cvn+uFifQmT304o8Tw2c0gSPd9ZTz2WDzsvm/Dh0tM67iBzzbUsK8MiPywtxl8aa0uSjUEjz/0qjAyQKVxz2ztyDehYad4QmG9vj7hcEmiIiwRTMvCw1JDtAPjOwwcCWsqEPCtTsuD1ArOa37gu9OU8dZcjHZOa6w0sccqWaxWhRLqe03wxf6f6W187tDA7qW9bPITmRO9toxnti4PUsb7sbA+HwvUW4iaOtvnhMys5VD20N9P1nZUYytXjbltQq5ksvmBVJezEIVQRf0gmzyYVJXTOACWKrFrWgav01TZjx1MIglV5NkNvFDvbZssnYsLmHwA8l/9kv7EyKVJE9n+ycUXpL8X7fe+wiKoW3KpgM5WjUm0RPPV4uHWwgqIcygZpk4Elnz+Daxrrl8GtK8BQNs=",
+  "URL": "https://lxde.org/",
+  "LICENSE": "GPL2",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1594156806",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "gtk3"
+  ]
+}

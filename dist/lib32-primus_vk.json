@@ -1,0 +1,26 @@
+{
+  "FILENAME": "lib32-primus_vk-1.4-1-x86_64.pkg.tar.zst",
+  "NAME": "lib32-primus_vk",
+  "BASE": "lib32-primus_vk",
+  "VERSION": "1.4-1",
+  "DESC": "Nvidia Vulkan offloading for Bumblebee",
+  "CSIZE": "44163",
+  "ISIZE": "130973",
+  "MD5SUM": "44c0793f8e04b7a1ea5d13204bfa501a",
+  "SHA256SUM": "794895bfab62bc99c03ecf3c4fd7935c14d9bd4ebb37f5256f24d460c3cf8564",
+  "PGPSIG": "iQEzBAABCgAdFiEEado014/g79WWrG0EnYk+xNqvkSkFAl5H6PoACgkQnYk+xNqvkSl39wf7BXZH60GqhCmTHkGHWJJNWWaXEUyilvQcq5TFdDid3Drji9ImKHCc1Fbtc+uDczIzTYlANCiuxfa8w1kjN/iSmXXTNLx0Ite3ov2/ygTgZRSROsGzniqo15mS2quUeRPy59RmHYux5hIcFP5H4NcpgDraC9mx7XNMfe0esF4IDxvndQ1o3Ht/+S4a1kjXsYajYkDoq+3nGwL+CoZjHtRwfdqT6jYQW6emM73pj8RwcTspbEOoOAgZdryJRP6grP71IFZteKJ914aFVV6JzaruCLQe9/yFWeCvBKMYEtuRcU/urGjfHM9MMvz5yQ+Xxk3Zne1kpVrbfG830z1sgzEAjw==",
+  "URL": "https://github.com/felixdoerre/primus_vk",
+  "LICENSE": "BSD",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1581770794",
+  "PACKAGER": "Bruno Pagani <archange@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "lib32-nvidia-utils",
+    "bumblebee",
+    "lib32-vulkan-icd-loader",
+    "lib32-primus"
+  ]
+}

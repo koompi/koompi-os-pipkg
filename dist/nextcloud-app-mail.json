@@ -1,0 +1,23 @@
+{
+  "FILENAME": "nextcloud-app-mail-1.4.0-1-any.pkg.tar.zst",
+  "NAME": "nextcloud-app-mail",
+  "BASE": "nextcloud-app-mail",
+  "VERSION": "1.4.0-1",
+  "DESC": "An email app for NextCloud",
+  "CSIZE": "10393321",
+  "ISIZE": "46426003",
+  "MD5SUM": "0ead9254582547f7e5cb21f61007bcb9",
+  "SHA256SUM": "5edcb00edabb1cf6f572ca46a43c4721bd06b7403031bf0d48fb257a58477c1b",
+  "PGPSIG": "iQJGBAABCAAwFiEEPlGL8lJv0Zeeiq5JZcEQwepDP8cFAl7uM/ISHGFyY2hAc2VyZ2VqLnBwLnJ1AAoJEGXBEMHqQz/HFrEP/AutvAd3RypeAtWPKjNV/WmXp43fmfWWqKRjuyRDO9PvPVvCG9peq+FcHbKoHl6p3BT+fiWwi4+QFla8c66LHJpsrdLbBvhH3WfrfQYCWnRAd5bFZWHzAl2UPAMoGbg23BDXBa4+3pguCJpWjNie2O/P/hqd8RUF6tiexId151sIevCUPd3881ROEFC6uiFMXU5m1JBNviBawA5SXC3WR86abystzV3P/yMa7Zdd6waXWSOAAFrid3X/EG41LDkwLrr9fYK/w0LbW8oyfx/oWNEL5t9X9PF+Z8aKNyVPoc4fJDwmk3slwDIvYd349CEPRWWNasmQv7nz8vL+h+TO628+pP+DqIZWb7DRPpSOG/OnLnefXK6b+Ibrchv/9ed8M+IQ1yd//HRKwVdmsRqZlxRuVwlhKzLBAHDbmNcU7EQrFaua5Y1kLBgO6g/HUAv7oIA8J60EfKMA4JZux25FQCWQoU74XmQ+0kYpGzHV45CJMzWgL2lOXwTzqDpD+JP4Va3rOByY0W3g7ZcV/rbdF2edqTXEwlw5LJS4qc+FXcOvQTOJMs1zhU2ipKNos+j2ouyY8qmXz0m/9SR1V77rxaje1luxO4niYuq4Wn8AKKpUmu1J4Snx2oQqlSigczgJq5aw8/g08HCPhDyFrSNWE42+jrh7V58zSHJmK6Vg6Fnz",
+  "URL": "https://github.com/nextcloud/mail",
+  "LICENSE": "AGPL",
+  "ARCH": "any",
+  "BUILDDATE": "1592668957",
+  "PACKAGER": "Sergej Pupykin <pupykin.s+arch@gmail.com>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "nextcloud"
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "FILENAME": "materia-gtk-theme-20200320-1-any.pkg.tar.zst",
+  "NAME": "materia-gtk-theme",
+  "BASE": "materia-gtk-theme",
+  "VERSION": "20200320-1",
+  "DESC": "A Material Design theme for GNOME/GTK+ based desktop environments",
+  "CSIZE": "382978",
+  "ISIZE": "4930603",
+  "MD5SUM": "242d513c78b3fc17fc3f936163877be1",
+  "SHA256SUM": "d8f939ef7ff3eadb0dcd4b9f9855ff732880ecd78ee48fc2583b89e15e711c74",
+  "PGPSIG": "iQIzBAABCAAdFiEE0jW0leqs33gyftiw+JPGdIFqqV0FAl52WrQACgkQ+JPGdIFqqV26XRAAjxAv6a21mNJs/NsiNaRYrGWJeYwAraCbAxHYZAna3WpwzUf8rCUpe/Hgn0mxoPG7GBo0f1g4AcBvhJhymmohVZLixvWiMsboMuSaUZtXKaVloEJiX+dW/BY265pYTnAWYLRjsGT3uJPvWYRzHY3OMcj11qK9Du/oFbA0TaIBqgI3b6IXg9wofirUttv3cywydL5mlNpYfrRnpbQnvVk4+6On0vtt/uKXQHt2XV6+/DW3ENIT2+bFQ6O8ZixybGb/uHujaqZqxmi7iLY6H/rNo3JzxZo4DDYoRlaG6ydpkBcc1p9nAlaX8Yi+TQpa1oksTYwos7avnZqOFK2naDlTGKdokAXP0eZzdz/Au/7FrLAcIYsJv2YNYBP0q/xWxO8l6rIO61zAb9EQ2DmBQR/ZAVuF/b8NZU9coj8dzSLAqaJdBkTnFTz7EmX1LQhDvOntbDBdLfqYrROgZAfSfPxRBvbQ2vj2hPEvs56qbW3EswNU7v+qC5b+FTEVVfYGtvYTNT/SC+dMWfRiBA6K9zz2tfpA1ymBwGDt+bl25e3PVYrYnIo6bBk5mL04nlyKJu2ou1Lf/+KeNylCEFrQ4cw6uJsesPUdDdIIKHfoXmiLRnemxnhNcWfmHHnNFdAT/s5Jmdb+gkp24CShpR2su+76b8tQVo93N2YSNgGLVCWFIak=",
+  "URL": "https://github.com/nana-4/materia-theme",
+  "LICENSE": "GPL",
+  "ARCH": "any",
+  "BUILDDATE": "1584814739",
+  "PACKAGER": "Filipe Laíns <lains@archlinux.org>",
+  "PROVIDES": [
+    "materia-theme"
+  ],
+  "DEPENDS": [
+    "gtk3",
+    "gnome-themes-extra"
+  ]
+}

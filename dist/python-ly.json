@@ -1,0 +1,23 @@
+{
+  "FILENAME": "python-ly-0.9.6-1-any.pkg.tar.zst",
+  "NAME": "python-ly",
+  "BASE": "python-ly",
+  "VERSION": "0.9.6-1",
+  "DESC": "Parse, manipulate or create documents in LilyPond format",
+  "CSIZE": "379178",
+  "ISIZE": "2507109",
+  "MD5SUM": "889583c1b8e59c2dd413456e5fff44f1",
+  "SHA256SUM": "a529f46b6bfa8acfff1fa555d16eee74e998ffd6d88f825242d46e4d77cef5f1",
+  "PGPSIG": "iHUEABYIAB0WIQTH54SUZv4jWDQ1iDdyWHNLQcMVSQUCXigQ7wAKCRByWHNLQcMVSbHqAP9WGw8NqOkWMEHVh6SgHWsPyWcCtLluuit3l5ihi9PaUAD/Q/Y7+FxJYZC+8HzS59++6DxeGAK9WPCCrSMDeM+i3gI=",
+  "URL": "https://github.com/frescobaldi/python-ly",
+  "LICENSE": "GPL",
+  "ARCH": "any",
+  "BUILDDATE": "1579681696",
+  "PACKAGER": "David Runge <dvzrv@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "python"
+  ]
+}

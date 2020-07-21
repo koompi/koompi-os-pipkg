@@ -1,0 +1,23 @@
+{
+  "FILENAME": "liborcus-0.15.4-1-x86_64.pkg.tar.zst",
+  "NAME": "liborcus",
+  "BASE": "liborcus",
+  "VERSION": "0.15.4-1",
+  "DESC": "File import filter library for spreadsheet documents.",
+  "CSIZE": "806627",
+  "ISIZE": "3709401",
+  "MD5SUM": "e5f280baf515897ad63f177787cf9397",
+  "SHA256SUM": "a75abbe7a8c2cbf8dca634966383d41ff5b69edb892b1e6bff812a0a2a0c2382",
+  "PGPSIG": "iQEzBAABCAAdFiEErcih/MFeAdRTEEGelGV6sg8qCSsFAl6BgUgACgkQlGV6sg8qCStRXgf9G7aeTovODaMP0td88N2Vt33FL7PWTUWLfy0COv+PblYthjlTvvpl/ABC2tiNDp/254StmfVYShqX+zO3s3rtuPHHEAxj9SjiSpFzhXFuNeT/6PlM4Ffo9uxtKpUVvNZCLSOeT9WUybdy4j7nRf0Gh+9tL8V4llhgb2gtsI7ZYANr49htH8MNa2xZfXTqbAudTidXuj5Y8N6eOX79INLrDEQeld8GskT4ZboLqLX3K0bqIVPqSYIij3ZRBNEFEFkwS5tPlB5mvyWTDJHUyKaW1h+PeN9BIjKd0PtBgiKRhEUMUc8t3gW9wtl19ExQJus1fTefajf3MCL+h09xH7jZcA==",
+  "URL": "https://gitlab.com/orcus/orcus/blob/master/README.md",
+  "LICENSE": "MPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1585545368",
+  "PACKAGER": "Andreas Radke <andyrtr@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "libixion"
+  ]
+}

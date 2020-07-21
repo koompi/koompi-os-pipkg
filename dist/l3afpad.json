@@ -1,0 +1,23 @@
+{
+  "FILENAME": "l3afpad-0.8.18.1.11-5-x86_64.pkg.tar.zst",
+  "NAME": "l3afpad",
+  "BASE": "l3afpad",
+  "VERSION": "0.8.18.1.11-5",
+  "DESC": "Simple plain text editor for GTK+ 3",
+  "CSIZE": "153280",
+  "ISIZE": "329535",
+  "MD5SUM": "ae6d096f6d21d7137181d6f1f70e1689",
+  "SHA256SUM": "e4845a36fef124ab9e9352dc2bac59a4f4126e7a9e298860ec685addeac337a1",
+  "PGPSIG": "iQEzBAABCAAdFiEEzgvecadZqH8j8PfYth284QkBwWMFAl7PYsAACgkQth284QkBwWMVaQf9GFTz4bmtPjQLmZb6PRd99FnKLoa5us9dKGcUjaU8gCZkxUC4PLQk9z+QLAB8NNbs6RYEOq1lG6TOLVtOt4B0XlM8HlDL65zzH4wV3kXrfgk3mxLxoT0o+p/fMtzmU18oHHdtKyEgvm57G4vQo8W9GvBhJvJAjLZ19LLEBPuz2QdRO5lh8dEEcAE1gQLritkP7eTRNYrWqAxbhhzXjCA8sw489nrQ0yiPQCGMed7d5vrNN21pkBbSTv0sG977qjHd/W4XQ4jDvMuy/ah/v43HAWetBk979ayUfzFbapfKqqO1yRK+Vy0Rzsy8GD1NSuvH6gJWcm4S9Hc+kgqY7/d3EQ==",
+  "URL": "https://github.com/stevenhoneyman/l3afpad",
+  "LICENSE": "GPL2",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1590649329",
+  "PACKAGER": "Balló György <ballogyor+arch@gmail.com>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "gtk3"
+  ]
+}

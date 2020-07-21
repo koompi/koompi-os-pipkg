@@ -1,0 +1,23 @@
+{
+  "FILENAME": "python-tinycss-0.4-4-x86_64.pkg.tar.xz",
+  "NAME": "python-tinycss",
+  "BASE": "python-tinycss",
+  "VERSION": "0.4-4",
+  "DESC": "A complete yet simple CSS parser for Python",
+  "CSIZE": "117948",
+  "ISIZE": "557231",
+  "MD5SUM": "eb082b289d36cd57dd9a9404d1120339",
+  "SHA256SUM": "f61ef9e69df4e9e47433164713f497adc4039a4cebb407bc20b329dba360ac14",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl2/vaMACgkQeGxj8zDXy5I0lQ//WCRx1AXaTpFf9/+PNN6txdkzG3aQc1e7r03dtqnqWOagyyC7zcECfjD9nkZy/YevW8q3KUjjs3gBZOLO0/sUjaA9AOX8VC0oGxDF7WhEYEnUhN31MHdUx9eZBzQM1IOudGD3p1DIERJIHYZ0/0RmrWJiKKu7GttORcbwO5JMKrmTDz+BYNhDcK9CuD4jCz+pQXTOEHSPfs6x8LH7TYxXYFdR4PwU0jSZavcoFBLMzfyd4NnJ7OS7jelXrShtBuo8SI0Ewd/9/plGdTWDooaYkE5kdDrP0j5V1C7osoNZbmFb2ptJAjDjlq9HUn+Wo2ET4zJep83t7yAySOaOCHTReLJQNOTmOQenmArhDqfvycicAfzDqy0arW1XFtQDFRt87mN8XQmtrNfEu49oiqOqMRdJCGTcQFmFx+51ONYYd39SRVB4w3va2TqT/e1VtnHQyVI89kD/CsMOLOVZxrzv9qXI/voysEKmgegV3teZ0ROcMO+uTuBfZWwp2FFTyOfRxqMaiCzLYNBXHXRcUj8TrCGQRcNQs/QHJhkKqf3HWcK3YdgLmeip2ro8OfUwBGEPZKoQdr46j7ilxW6h40QtDNi1+4rq0Semf9COLd95ZzmScWj0fegnH3Vo68Tu5D6K0314XgS+3R3Kz3TbraBQv9+ktslbZZV3zUFyZIYv+kA=",
+  "URL": "https://pypi.python.org/pypi/tinycss",
+  "LICENSE": "BSD",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1572846977",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "python"
+  ]
+}

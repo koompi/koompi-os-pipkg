@@ -1,0 +1,23 @@
+{
+  "FILENAME": "xorg-xprop-1.2.4-2-x86_64.pkg.tar.zst",
+  "NAME": "xorg-xprop",
+  "BASE": "xorg-xprop",
+  "VERSION": "1.2.4-2",
+  "DESC": "Property displayer for X",
+  "CSIZE": "26370",
+  "ISIZE": "53159",
+  "MD5SUM": "4b688075a42505c009aa6161e6da28a6",
+  "SHA256SUM": "587a632c7b1526a5a49bc20913efaf857b210e16845179d33190b3ffdeaf9165",
+  "PGPSIG": "iQEzBAABCAAdFiEEhs/8qRjPOvRxR1iAUeixSKmZnDQFAl6/8S8ACgkQUeixSKmZnDSeUgf+KqTcHx9JAhJRDbpyMbGl+t8Fi4vENzsbhuZ6Le0ngHeBYpKYCkb4TqMNKSr3Xp0VYs2HG+0mwvmjwvATsNjD6C7ByL3SzXWZ8rwZEkM2/1ymnL/kKzXOKd0qOYPv1dcXGpSr5KxDgIjt+3jqcwkxGo43OyHEhE3CnL7iB3koCGHPhkEgzjBLDwAw75QDMzytO2dTozMSefI2CH0eWWt6sl0qv1TWOQZl1k9wyg53YN7QJniTRBOQsmn8y8pb/7qPXeIhXW4dk2qD8Q7gDgxxYfKeEYsvfIYLBllkNJrFj7GZpxShWO2JYBIHo76BVY8FNUShH8bDo0GjJKpDnl3nYw==",
+  "URL": "https://xorg.freedesktop.org/",
+  "LICENSE": "custom",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1589637388",
+  "PACKAGER": "Evangelos Foutras <evangelos@foutrelis.com>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "libx11"
+  ]
+}

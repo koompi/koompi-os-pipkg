@@ -1,0 +1,24 @@
+{
+  "FILENAME": "lib32-xcb-util-keysyms-0.4.0-1-x86_64.pkg.tar.xz",
+  "NAME": "lib32-xcb-util-keysyms",
+  "BASE": "lib32-xcb-util-keysyms",
+  "VERSION": "0.4.0-1",
+  "DESC": "Utility libraries for XC Binding - Standard X key constants and conversion to/from keycodes",
+  "CSIZE": "6060",
+  "ISIZE": "14336",
+  "MD5SUM": "c57861ed0eb8a9d2c6e2b1b52826f7f1",
+  "SHA256SUM": "9cad8658115eaa3e42d269103c755daf96c36b7da6c2ee1c0a5d7d5f1e2cd0ae",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAlxLSE0ACgkQeGxj8zDXy5KDQQ//RsP/kJV6oz9gKEUIjL4WiG/2NLPiMvdrJcM7BuM/qvL9LH9LOdjpv+73e/Bo4vP30sWn6w90rERYNMAqM5oGrw+v000s4Te2GKX/A3rZ5f8hhzmOqPxGSHs076ABPjgTwrbQUrh07yYghp1QOH2XWhO6afxI6jIrghE4gVi64cSCQrQ8SajOCEG4JZ+65ONwfuSxiqCAA8YJ9lfZdOHgZb+EqM7qbwx48b4va2ekbMz2EUwTaIXUuNEUKx3DbvP8STENp6UeJ5PiQi2/paQh8khz5/eaJY3oZ7k6w6jzNh3jk1ew182Wl/RddVodaPxrCNzCDPrHF3wQ2u2xemT6peFNhdFDbhjOkaW/ocOyn1lHcQjmWNFGMIJr5Y3S+0S9k5f/R6rLMfWINMIvAlnUf8cRpfhdufEHm+8fP3o7Ga9xAkH33xKFlb6MNc7lWF2cgF6NEqPmMMAhUqkuQ/qTe3P1pOOKE/KOI0mzvxXS0UulZeT84/DT19WIiHI3useI7jNM5imRLMNeTfgsHIXn7LIeqlyjfdg4FYTNv1gPm5PMm2NCwZtQy0FO241fxeTP2rZjqVMK5KbU7++sor7II3R+hFGwY9neCD71c6O8rNYSnnq9vF15pIhUsMyR8ZXyNM/6ncPmrshVGR3utL52b/6vWshNRYvLt2XeFq8A1Uk=",
+  "URL": "https://xcb.freedesktop.org",
+  "LICENSE": "custom",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1548437528",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "lib32-libxcb",
+    "xcb-util-keysyms"
+  ]
+}

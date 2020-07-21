@@ -1,0 +1,23 @@
+{
+  "FILENAME": "firefox-developer-edition-i18n-sv-se-79.0b6-1-any.pkg.tar.zst",
+  "NAME": "firefox-developer-edition-i18n-sv-se",
+  "BASE": "firefox-developer-edition-i18n",
+  "VERSION": "79.0b6-1",
+  "DESC": "Swedish language pack for Firefox Developer Edition",
+  "CSIZE": "499006",
+  "ISIZE": "563910",
+  "MD5SUM": "75970ed56b6d672051e34f58a869d02f",
+  "SHA256SUM": "cfae43c2e7e4ac491e987274cff8862cddd2e81910c68fefcbdca8170085c5b6",
+  "PGPSIG": "iQEzBAABCAAdFiEEYB8g8dG7v0p4z1tt9rFhCz7NvJ8FAl8IbNIACgkQ9rFhCz7NvJ+b1Af/VQqr0jgd1tnh0uKEK9amOSe5QAk0nG9aRcWLUdwh+GOmHbpt0pTB8JqtlC7jCvaRP3/y5YpENPwhq8RLvrxW4Wt5GV5m1KMR+g867JMq9EqHSMU/vRlr/hFsrxrJyFaFkU8r5rEvUfn8Btrw4KyAJLRkUzC9IZKB/SzXHAd383Hnf9aSVtZ0qQzqLCL4YjfKDLajm+qYI1A1v9xmzEeXDS5/8tZLuwTz+DMshuT2oq3OpBJy+bzyk6X0qIZCcomOyy9tpkMsD5/zxWukhIvSzoImKFoRiMstNF16ducpv9i584Ngpqog6CX2zxI/thfmWEAJVokLa23TQIumNTkd2g==",
+  "URL": "https://www.mozilla.com/",
+  "LICENSE": "MPL",
+  "ARCH": "any",
+  "BUILDDATE": "1594387381",
+  "PACKAGER": "Andrew Crerar <andrew@crerar.io>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "firefox-developer-edition>=79.0b6"
+  ]
+}

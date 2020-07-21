@@ -1,0 +1,27 @@
+{
+  "FILENAME": "perl-mail-spf-query-1.999.1-11-any.pkg.tar.zst",
+  "NAME": "perl-mail-spf-query",
+  "BASE": "perl-mail-spf-query",
+  "VERSION": "1.999.1-11",
+  "DESC": "Perl module that provides SPF support",
+  "CSIZE": "39246",
+  "ISIZE": "98780",
+  "MD5SUM": "38019925ec3fb56ddb9048703d37761b",
+  "SHA256SUM": "84fa337d7ea0e060059b13a3d153814611706bce405b126390b2213612776f76",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl7viTAACgkQeGxj8zDXy5JG4xAAr9mMz7EVtUUdBDaDF7S76uQckfDz8hLUTpEt9Px+p9H9wtFSrvnqICF/tApWEOQUSL3aUehJobWWXeh49wYG05uEcYBHKMHZJTGSCixCPDSDrt5J8wesYq8b9Ic+pjANN6Vn8noT0UJxZ9t6sI7O4IkuPNZPKH4eoekzjIzw6x5ueh76Ry6NF57wM2I5ECCsiQrMsoNgUxdd30gykvp0A1bBAxsTewJFl35ZoOLRP82Q+PqC5it3w6I1lCl0Oa0EDToKN/Q26DX/TfHINlQbVsUxo7gPPx0+iGP1cotc0obQPHSp0g+s35oKOC7Voo+grZBXwdtsXB4ABNfZjOvhr4IzU9y+CJdT5kyCrqmtN+zCBNcagJYiGSfR/rv3aciySm8is41XJbc2LEr7XTSd6pfHs+yzpkrBk6DShpZIbr3akxow3iMgOqExAYlJtSa6FoBwf9THjLrEp4E1Cao9cyuirqNEvZxcRG3AR1cHD1NQYYrMnr90EIGjbuG+Vxk6Y/qCoBTIqA85ObAHd9MUZ0jWlEd7mwg59KGPi3LyjQkBgB6L14Ot4qsD838xoM1VBmNyNzMteCHWLtSNpZOaaQMwwbW67vv8PbK2HLKOYLDptKAOVIo5UH1uqD9bxgNKfmTmfSBKzf06uIbYIAuRB9fGZ1c7voyMtjEawtb8/MM=",
+  "URL": "https://search.cpan.org/dist/Mail-SPF-Query/",
+  "LICENSE": "GPL",
+  "ARCH": "any",
+  "BUILDDATE": "1592756441",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "perl-net-cidr-lite>=0.15",
+    "perl-net-dns>=0.46",
+    "perl-sys-hostname-long",
+    "perl-uri",
+    "perl>=5.10.0"
+  ]
+}

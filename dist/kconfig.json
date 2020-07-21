@@ -1,0 +1,23 @@
+{
+  "FILENAME": "kconfig-5.72.0-1-x86_64.pkg.tar.zst",
+  "NAME": "kconfig",
+  "BASE": "kconfig",
+  "VERSION": "5.72.0-1",
+  "DESC": "Configuration system",
+  "CSIZE": "1107856",
+  "ISIZE": "3204972",
+  "MD5SUM": "ea0771933a793b6626053015ba090235",
+  "SHA256SUM": "5816d335b2b5181bf71c44e85f182642491089879c97ced794199c7f1bfd8c2d",
+  "PGPSIG": "iQEzBAABCAAdFiEEFRnVq6Zb9vwrc8dWek52CV2KUuQFAl8JX8sACgkQek52CV2KUuSvVAgAqBknpQo8uPhUhRpGxX+lKGI4DyoMehH8mSABxk1vhVGCHmo5Mq4icJbGQgo096V3/brVcmOksZPuE14kXnX9/2hbBxy7ghf6u1+kY9L9oR+1j47r9uijBVVVEakUQydFXwB2OoatzVP5ZXTAqiJg1rXtGj8BDcTF1ZuJgKSMzG9i0ozYjaJR514mvbq8ne/s5tmahCgJGnFFX6pWkXiyHTc8NaIZvO1loWxbPKXm4DJ6TVnzkOqz27XpOXCoc/h1RTS32EtArqeCYuKPoBfZlOlf5WcnV61+nmC0BjUYfitGVkaNYLtA1RX6XTFQSqSiOcdoHiVJODw+yvOnHYaouA==",
+  "URL": "https://community.kde.org/Frameworks",
+  "LICENSE": "LGPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1594200551",
+  "PACKAGER": "Antonio Rojas <arojas@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "qt5-base"
+  ]
+}

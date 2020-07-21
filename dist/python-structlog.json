@@ -1,0 +1,23 @@
+{
+  "FILENAME": "python-structlog-20.1.0-2-any.pkg.tar.zst",
+  "NAME": "python-structlog",
+  "BASE": "python-structlog",
+  "VERSION": "20.1.0-2",
+  "DESC": "Structured Logging for Python",
+  "CSIZE": "51926",
+  "ISIZE": "270716",
+  "MD5SUM": "83311effc74c59322f47de3677106596",
+  "SHA256SUM": "7f081b266aed6a914e786044f1c37300ab39971283f4344e2c471b8d306b2ad7",
+  "PGPSIG": "iHUEABEIAB0WIQSYX6G7jYlWZgHv/xEEU6bKI8VjFQUCXwH5vQAKCRAEU6bKI8VjFfO7AQC+qfgI+5EcB98K53AzkqV59DtzyICXw7XOjy6NqL/bsQD9HoVH98mIuEWShwjZ/Oc5LewYtplZBHJSWXJdujbk1Yw=",
+  "URL": "https://www.structlog.org",
+  "LICENSE": "Apache",
+  "ARCH": "any",
+  "BUILDDATE": "1593964729",
+  "PACKAGER": "Chih-Hsuan Yen <yan12125@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "python-six"
+  ]
+}

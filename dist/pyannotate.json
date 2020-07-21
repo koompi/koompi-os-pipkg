@@ -1,0 +1,24 @@
+{
+  "FILENAME": "pyannotate-1.2.0-2-any.pkg.tar.zst",
+  "NAME": "pyannotate",
+  "BASE": "pyannotate",
+  "VERSION": "1.2.0-2",
+  "DESC": "Auto-generate PEP-484 annotations",
+  "CSIZE": "59628",
+  "ISIZE": "251832",
+  "MD5SUM": "6bff50cda6b19afde8a8831e3afef6d6",
+  "SHA256SUM": "c9982bfbc0efc615389c4255271ebbc95e9c134dd35d3658ceb89ef810ca9bd0",
+  "PGPSIG": "iQIzBAABCAAdFiEE0jW0leqs33gyftiw+JPGdIFqqV0FAl6o0YgACgkQ+JPGdIFqqV2JaRAAj7nVhU00gmKU2n84IVhWrs3MBxLbKjOMG1a04KaQOyEcvDUM2ktSOZfkmJllCUjGezkHsD/vvF2q2yN3Y7z265vCkxa2QO5Fk7/yNBY42IiUhUZBBK36xsGD83sgTCJIwmzRgcBMAg8WtfvJpQvmiBK0yGP6CQZx7cxXw8n+SbBrF5GiQwzN2uBJZw+gghYLVk1eYLrNYLj+c4AWlHF0BCzNy+03tzrgmuHP20GAHSHWH7D1kFYmgzjD6D2IQ/nqGkBlZ3fBayfiKR7jtiSJCmyu08EshuIpsD4SBT4HQGHEbVrj/dfq/LAOS8tzYQF5osebJyiBY6y/C31bKZ9QHkJbltsATNgB304A+hEII9Epc5YqMZgLVAeMaMzz6feMlN1cEFUMrNonZqGF2DnhgjqF17Su+22leV7PJOImwk8xNwmDlZCBWnxW3QB62m1lTacEMXogOZJUAJcfSp12klh2r2Kj2rsTKdEwlwkPfZOUAbxzXQ4StQOOLRFfta0PpeziEUOMaPqY9ZsH14sEjHpC24zFshT310uozNGF7qvKv0zXQDHUNJ9kY2SHprfKeCau7E2MK3OHfX/otaMeoO0h5/DVorvAOzJ5+/PiJhfi+1fch5zFZT0uZEwG+bAQqYVOPAdoY43OzROfKaYTNngYUvapGWNmMKxgIEFf17o=",
+  "URL": "https://github.com/dropbox/pyannotate",
+  "LICENSE": "Apache",
+  "ARCH": "any",
+  "BUILDDATE": "1588121969",
+  "PACKAGER": "Filipe Laíns <lains@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "python-mypy_extensions",
+    "python-six"
+  ]
+}

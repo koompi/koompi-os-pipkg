@@ -1,0 +1,23 @@
+{
+  "FILENAME": "python-schedutils-0.6-7-x86_64.pkg.tar.xz",
+  "NAME": "python-schedutils",
+  "BASE": "python-schedutils",
+  "VERSION": "0.6-7",
+  "DESC": "Python interface for the Linux scheduler functions etc.",
+  "CSIZE": "10604",
+  "ISIZE": "26037",
+  "MD5SUM": "0f7ee9b5fc5579724c57f78847c88e32",
+  "SHA256SUM": "44b765934e3cdbd2f8ec8932aa807360a3f8200018f3d00e64553e8c4a0701d8",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl27HAgACgkQeGxj8zDXy5KdPQ/8CdeqC1e3Oq+FK5EZkqJNBw0AvCwkSOtTfLhQ8LU/4o99Wie82lJyVMmQ7Of06u2IFXW/UG6XQ/hbAuMrQUxIQC3xnzXVIliRUCBnCSquOdJFu3VD6kNv7M3REZJIA1kSoW0QGahxj9D13L68mXpeYgg1m6deWmSVrVZh3eyWaSJSMS0ciEZDuiCeez8umlEEvcrzkBevM9SWms8Mm+WLlEvLHMhnb5DRwBhwQbTTqwZywyzrDuOoqYIGBsO8gSTe1gbVrxJ29WknC+JcGPPtwL1vuzeqzoY3yMj5Yq9aeH27OTcP5xOoimM7Bglei+nrFfjQ8w538/4+caTYwbhfC2vhBrtdXHGGrUrCmpBpayXIcETOftwefP000GlHB4THje75j2HbXlOacJxP5jWI2DpPZ1Ywy50dDuWY8D1bbRV6NWvXrAXeHNRvsSCqyGI3dPewFW1e9+t/y5IN7JQezNnD0+pi+tXBmff7j9cm4loBkGpcYKxdXd/d5065DidPpJFSs0KLtw590SaxL/et9VtM8OvmwHcPiaPIkZAOS1m2FqPTOPrXgyWFnlaGvr0+XCJFbEBbyZ5oCSLrHukHllVOmMEPV/+98W7cYBHJXNW6etW1DtTyyGU+96RLln3zk01EkQvrI23dPlXmw3pOm3ckHvm8C1U7Zv79jReQ4ws=",
+  "URL": "https://git.kernel.org/cgit/libs/python/python-schedutils/python-schedutils.git/",
+  "LICENSE": "GPL2",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1572543467",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "python"
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "FILENAME": "freetype2-2.10.2-1-x86_64.pkg.tar.zst",
+  "NAME": "freetype2",
+  "BASE": "freetype2",
+  "VERSION": "2.10.2-1",
+  "DESC": "Font rasterization library",
+  "CSIZE": "509878",
+  "ISIZE": "1663635",
+  "MD5SUM": "6639b2aec97734186f99913923f881c0",
+  "SHA256SUM": "7846db979fb5eb9a5e4cf4e1435533b6df6ae8295a2617c6991e13ff8546562a",
+  "PGPSIG": "iQEzBAABCAAdFiEEghj4iEmqxSLpTPRwpekojE+kFfoFAl628ygACgkQpekojE+kFfqjBwf/UAG+s10+tpEFF/V+iW3cK/JRz0oTqJXQX332U5xztwpmhYNESolQdW0sUZvSyy/wuCUHXKbK67uqmWL2G2img/llIANyAkRdnVHs4EfUxyufuWCJujXyfZ6b//d+mYVOTlSx5flqqYD8Oz4nYOmziuJKBsXmlGsOyucWqv7Lh1KqHI0TwmHEFY+qO5FaWbkPuSwh7HzVHDwVAMq6g1vICjX1i5wI0snXz5+mmRu2x23i8+a/mRjDFA8IswOuhAMxRY3daXE8/Vu2JaW/+VEuSqXZlZDcttFuNn2m1FCtVil2DiXD+8q0dw+rhQ7LJEmQ5v0h/Xidq7jy+BsADIjM5Q==",
+  "URL": "https://www.freetype.org/",
+  "LICENSE": "GPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1589047537",
+  "PACKAGER": "Jan Alexander Steffens (heftig) <jan.steffens@gmail.com>",
+  "PROVIDES": [
+    "libfreetype.so=6-64"
+  ],
+  "DEPENDS": [
+    "zlib",
+    "bzip2",
+    "sh",
+    "libpng",
+    "harfbuzz"
+  ]
+}

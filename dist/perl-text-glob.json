@@ -1,0 +1,23 @@
+{
+  "FILENAME": "perl-text-glob-0.11-7-any.pkg.tar.zst",
+  "NAME": "perl-text-glob",
+  "BASE": "perl-text-glob",
+  "VERSION": "0.11-7",
+  "DESC": "match globbing patterns against text",
+  "CSIZE": "6733",
+  "ISIZE": "7294",
+  "MD5SUM": "ec52c069388fda7c0e1a013da44b01d4",
+  "SHA256SUM": "0b1b3043f47fd701a610e0dc695aee12e446a3feaf085dd36944e0232c15cd96",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl7vN0kACgkQeGxj8zDXy5IZeBAApriaupXC/9NqbpuThOcuFlGVfiPslD/ZhnOHdZ9yk1jWY6RnKUjjUW0NdWgSqNAhFwsFOxWaVgrPQh19PHduKQ/cDHEjVBHKdfv6FdNucjDXJYPmvkr2nZnDeya9xBUbuiAqlCsKbcZyRQsmR42Rlr1IO4kECc9GooQIK4dZyNRn5ON3WrZraAzxgrhsWXfqzbHWX1NVAMAb90N0xFcKHcrT/ms9Z1dgROMki9EwcMV9sMa5WfMcM5+Hf0OQc17Wkmy1bq18e+623Vx+NW+eQLeisSsHW7pRF29RbJ1Ltg7duvCd9e10mler2D+JseFSsZuMNmX0MQvwhIlUw7UNlP2gjvAOGplTOAWyCo3n2Nek2YPBpfjYTPaWBJ5JwO2KinwDdT5LqD1J0VHyVO6pn9cbniv5lfoCfFRw306fsJvedYgxntDLpIpq5T6pKj1nejZddEG4HoF5fKuALXqln4T+azhG2Nbznp91YCueibcCeawP3gQfl02o5ZMQfT+xvb9yfDQXGj4pHVisn8LmSQ43skD8/aRjSH+qUBlH/WvdyHGuLAOQ6d8d1ik2gj2AWSU+Jio0R3TUEzrsNd/ShGXz4551S65WLNFE8xs+VVk7uVSeOb8EPwAfYsjHEJfrdZKkOnE7Qrlklo7HLIzf3JYdAJYvB0yIi3908TZbq2w=",
+  "URL": "https://search.mcpan.org/dist/Text-Glob",
+  "LICENSE": "PerlArtistic",
+  "ARCH": "any",
+  "BUILDDATE": "1592735538",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "perl"
+  ]
+}

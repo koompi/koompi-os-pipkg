@@ -1,0 +1,24 @@
+{
+  "FILENAME": "haskell-wl-pprint-terminfo-3.7.1.4-152-x86_64.pkg.tar.zst",
+  "NAME": "haskell-wl-pprint-terminfo",
+  "BASE": "haskell-wl-pprint-terminfo",
+  "VERSION": "3.7.1.4-152",
+  "DESC": "A color pretty printer with terminfo support",
+  "CSIZE": "90203",
+  "ISIZE": "434069",
+  "MD5SUM": "576eb402eb31109654fe2c818699c5b5",
+  "SHA256SUM": "539d734891c6725aa130421043fd79492d66fc84826424e36196500b88a8008f",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl75x9AACgkQeGxj8zDXy5Jbjg/+I4EgbLiZtxKFyk2gtzxXxh/akrnKDIJU6AqKVJqNd6gzTaS8ujl9pINjh+ArMqho/rNE4wqOZedfxRoNitaIopaVEO0W5zLrHvt5MV0E14/GAHDKSK7IFkTmU3CVsMHphZQVPTAohRMrunltHYlXxJCSiliZyuVX9jwXQpmtOr070fKwbhyarp9eMW0bsVuye1rPVLw705iZ4kuGcEzzKQ5EKDir+4Iv4YCKSQickTi+43OhgGYyFOUiEp/Ln8/u9+/sLx8KpDc2Cw5h0MHBY84bjmv0uy2HbCQZleebTpSvotvX4z+igsJJyuzhYHS0GyOpmWjkajQC7zpX9dUfkUZaI7iCoVadlJ08PnX72g0h9YGx6xwqE+2XSP4t803gY8Z2qt0XxER2wAmkA6Q+qL6dphjxYFJVQM97hgrBOBzwXmRAtXGSE/FdFsv2zGOXBI6IIWQwyCZSphEoOsCkNAWz2YYrjBZJzfw4uqVEMW9i2xrFMGfxksbe5/UVcblzAmBqYJZAdZ8PJRTL4/xNE916RzNmj/BGAnzWBoIwOXXZsi4fQD5l7hiyu6ocwTttP7Wdxm3z6QQMcL6/3thhWZseuoXFrfhNa9a4CukkLS5Dhs+WpqXwhqd7sC/h8xQfX6eYYbFxMSkHm23FdHkR87h+vmwllqBOKCXGU3n5Oz4=",
+  "URL": "https://github.com/ekmett/wl-pprint-terminfo/",
+  "LICENSE": "BSD",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1593427894",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "ghc-libs",
+    "haskell-wl-pprint-extras"
+  ]
+}

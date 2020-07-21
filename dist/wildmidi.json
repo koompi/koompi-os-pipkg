@@ -1,0 +1,23 @@
+{
+  "FILENAME": "wildmidi-0.4.3-2-x86_64.pkg.tar.zst",
+  "NAME": "wildmidi",
+  "BASE": "wildmidi",
+  "VERSION": "0.4.3-2",
+  "DESC": "Open Source MIDI Synthesizer",
+  "CSIZE": "92040",
+  "ISIZE": "223003",
+  "MD5SUM": "076ea8d3d690966c3cbe3f948c0da6c4",
+  "SHA256SUM": "589c7cb7d5220c494ad968a0ba58547456210725cb213aa970ec58992e2ad9d3",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl6/2gAACgkQeGxj8zDXy5Jitg/8CSbbGsF5u2WLDuQ12w294g6OtuHi2mgtjJtZApQPnF+9hAHZwvoUfIYbHFOOIpTdmi+DGbJ61Azvl7IiGhkppJleIN/3ydndTD7C+plFHpfij4yFV4GXkdtZL1hr2zpaeLvWmxOsPloggFeZRP133GC+bs/l3VgGB5PfA5VM4pt6pzIWvIFKLxywpAbOUBAE9BK8CrVv1TdBD/dLnGfeY7gKJlfEzalx00/aHqRg7iw5QnxoHp38nj7w1az7iObLRBLIc413B8MAP8xGfFemfujd8FL2vUgWZytkhi7u8CON+mSgGBVkv7weOIgQ5K2InnuAv55WwFLKYfyvmEggcjoIASDVK2B+4gqkCabafmvGwQH9XjJiiT5o1pbkF+zpVEsM8yoPqyRaIxwrrVfCKOikpArWTfjakZ4JNu7nAeevi/BwuuBT+hORGFXkCJrgvBINbJZaN+hXZRfsWph8brVxAwJ3Yy4NWduSfTfQYWnknqSn7JteyqSONDhbeAZc06tadhPkSbBmcVGFLkF4ROJ4xAMfokpyw1pLlQ/OlUbPj5YovJQbFKG0S7eXiAUWwZv2g1JGYWi55exqBtUHeSS36iTPxxkL2qC6v3/6beINaIzRpcOvA8gboJ6dCadDOldf1U9neCd9Z0uY5R5faRD1TvnFoUAfN+qFUDJmMsE=",
+  "URL": "https://www.mindwerks.net/projects/wildmidi/",
+  "LICENSE": "LGPL3",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1589631467",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "alsa-lib"
+  ]
+}

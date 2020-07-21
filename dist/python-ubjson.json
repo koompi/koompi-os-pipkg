@@ -1,0 +1,23 @@
+{
+  "FILENAME": "python-ubjson-0.16.1-1-x86_64.pkg.tar.zst",
+  "NAME": "python-ubjson",
+  "BASE": "python-ubjson",
+  "VERSION": "0.16.1-1",
+  "DESC": "Universal Binary JSON draft-12 serializer for Python",
+  "CSIZE": "43689",
+  "ISIZE": "164684",
+  "MD5SUM": "e273e9744bdd6ad799eab06380c7f498",
+  "SHA256SUM": "0caf92ac7b0c0a36606fc7962b0e9db558d71d5fbc39844b42ffc2a96914954e",
+  "PGPSIG": "iHUEABEIAB0WIQSYX6G7jYlWZgHv/xEEU6bKI8VjFQUCXqKWWQAKCRAEU6bKI8VjFXaQAP9hnCeticKjbvhfNCdSdM4FWbmGqXKLY47PAvJVYHWOGAD/V+HOR7ozOCtcFu6xDzSVH5Ec41N9C6a1r5+FwNoK/Xg=",
+  "URL": "https://github.com/Iotic-Labs/py-ubjson",
+  "LICENSE": "Apache",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1587713573",
+  "PACKAGER": "Chih-Hsuan Yen <yan12125@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "python"
+  ]
+}

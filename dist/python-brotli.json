@@ -1,0 +1,23 @@
+{
+  "FILENAME": "python-brotli-1.0.7-3-x86_64.pkg.tar.xz",
+  "NAME": "python-brotli",
+  "BASE": "brotli",
+  "VERSION": "1.0.7-3",
+  "DESC": "Brotli compression library",
+  "CSIZE": "270352",
+  "ISIZE": "758269",
+  "MD5SUM": "209c8003bdfdb3c94cdf06dec4888042",
+  "SHA256SUM": "b8c5d7d725a705cb6a156cbd83e0e4d09a876ad292cf76dc227979b8f7e0d7d6",
+  "PGPSIG": "iQEzBAABCAAdFiEEhs/8qRjPOvRxR1iAUeixSKmZnDQFAl28NUIACgkQUeixSKmZnDRYpwf8CiqqIQ05au4AxWNWrqVN+lpfI1U5FLIqxkiR/JdRHPFnhjE5pyAZTZddbd0buqBiz2cRmvFxnzF2UZGEYbuKQoo7oXb1U0NgHiJf0pI/e9K+oFXud3QNm+lgg6xT4lilOmQlqMJEZ0IW6ihvOmvBIx8zfUXcUYgVmMw2m/QKzc5yHkKMjBzzrz/mMrPGJIO4lbnpksBcdnwCI6o6UDMHYkOymf1ig/hGIxekt1lo/3/785DEn1PmH3iOsgh9PEBE6KmPGN2uzvQqCW74fSiXf5euWVJPoQiufZKr5uOHW+Wwcjx9OElYaZJYxIrBifujhWi2JFYCE8iE0wh5B7r8fw==",
+  "URL": "https://github.com/google/brotli",
+  "LICENSE": "MIT",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1572615123",
+  "PACKAGER": "Evangelos Foutras <evangelos@foutrelis.com>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "python"
+  ]
+}

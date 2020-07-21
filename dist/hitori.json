@@ -1,0 +1,23 @@
+{
+  "FILENAME": "hitori-3.36.0-1-x86_64.pkg.tar.zst",
+  "NAME": "hitori",
+  "BASE": "hitori",
+  "VERSION": "3.36.0-1",
+  "DESC": "GTK+ application to generate and let you play games of Hitori",
+  "CSIZE": "156166",
+  "ISIZE": "525268",
+  "MD5SUM": "7e605ad0a79d9260e6e567b09fc1533c",
+  "SHA256SUM": "4d90377ae429e3ffb798047549ef3440d70325cd95ccb0ea4bda2a03cc1e87eb",
+  "PGPSIG": "iQEzBAABCAAdFiEEghj4iEmqxSLpTPRwpekojE+kFfoFAl5o6l8ACgkQpekojE+kFfqASggArU6G8ghaHQiLdhBJtSo2ZA6g0plGvowehkoIWoZeceY/LmF0OpkABJ8jEnXilfOdMzVEj0R7QvKyF8iXhwN+PD/Y2ZoK3GvMoPvRruXm0A/N5+h/FxAteGoYOCyt5nanTtoJVjUZHqhUIXw5iilrpIgtt8wFlrGQgIBxcgHleqwsCxVLRVFba8BqK2TcuOwBfGUGSvFhA3PmV112fClvY8TxuPlUUBbcwcfCYb5i8L/Ruo3Ug2BDaMbDnRedIO+mP6lz0UqmXYM3EJhiJcM1xiB83UWgnKalCIzbv4wAggAvLpFX5sO2isYNBrAca8ohV1Arl+oMj8v19iykcxAV2w==",
+  "URL": "https://wiki.gnome.org/Apps/Hitori",
+  "LICENSE": "GPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1583933767",
+  "PACKAGER": "Jan Alexander Steffens (heftig) <jan.steffens@gmail.com>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "gtk3"
+  ]
+}

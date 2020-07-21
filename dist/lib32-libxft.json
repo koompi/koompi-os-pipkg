@@ -1,0 +1,24 @@
+{
+  "FILENAME": "lib32-libxft-2.3.3-1-x86_64.pkg.tar.xz",
+  "NAME": "lib32-libxft",
+  "BASE": "lib32-libxft",
+  "VERSION": "2.3.3-1",
+  "DESC": "FreeType-based font drawing library for X (32-bit)",
+  "CSIZE": "37448",
+  "ISIZE": "96256",
+  "MD5SUM": "46888cfb5763eeb33fc070d80f9ca5da",
+  "SHA256SUM": "269992872295bebc36736d5dc98bf022d01b88fc591a17149a5ccf319d08b428",
+  "PGPSIG": "iQEzBAABCAAdFiEEFRnVq6Zb9vwrc8dWek52CV2KUuQFAlzECu4ACgkQek52CV2KUuS0rgf/XK1vuNSOcb1TPiXBoAe1qe6v+xK2PlgjgREc/ZnFyd367e9jyIP45cV1IULXwsDH6ywDiJB9cQcws5rxYtEh4RCDVqkfNnHsz1lkiqg9olnfzUyGbXXs7XBt9Z+tGGKtfkk+8R4hEqQHqvSYn+CHlodjAUzY+ie6MHS2qhV4DBllJiXNMOke+LJ2wzV90YAgr012VmL1RXJCuKDwQj1v6p9UDYwSw2ac2AluAVWwYAK4Fl1GzE0eacklx7hnrR2Yw7CFxMvbkfjC+OzPtc+pV8LWKVQ6JJIqU7IuXLP6wGpcP4qUddVTpkvLzXVv0EjiKkyY1wNW0OtZT/sA4Ma7eQ==",
+  "URL": "https://xorg.freedesktop.org/",
+  "LICENSE": "custom",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1556351652",
+  "PACKAGER": "Antonio Rojas <arojas@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "lib32-fontconfig",
+    "lib32-libxrender"
+  ]
+}

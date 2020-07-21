@@ -1,0 +1,26 @@
+{
+  "FILENAME": "lttng-ust-2.12.0-1-x86_64.pkg.tar.zst",
+  "NAME": "lttng-ust",
+  "BASE": "lttng-ust",
+  "VERSION": "2.12.0-1",
+  "DESC": "LTTng user space tracing libraries for LTTng",
+  "CSIZE": "299453",
+  "ISIZE": "1316972",
+  "MD5SUM": "b7d8ffc0a8fbc6d116af032fdcf63d64",
+  "SHA256SUM": "cc09e7bfab9eb54d86bfc9abdc26096c20bf3fcc4b818cfc200ceffd1ff228b9",
+  "PGPSIG": "iQIzBAABCgAdFiEEBR6tamFVOJ1p2gLl63Y7Tp24h6YFAl7jZCkACgkQ63Y7Tp24h6adwhAAqh4psOQ9Jk7BoSwaZqtY8XGv7i0QUdWgVJfdPRzEV2cEHPb7EinNr9niJVBBc09DvJX24UDMOhr506q6QG+gD2FUbEgMROgWklC6LZ2a9ilbAbu9RWBJ3dI3PftZ38wYNVRL/ybDzbmEjPx7uAZuoLoe/gvvM3nb9mJ0gcdLpg2sJvog1H63iTYQ4ITCkoYAoIXCGGThSBt4u3TIXo7g9TbEPXUVZGu7zCjYaoWXGrZa06Dyyq1GbdBZ7moQXTYbfg19R8vot92byuZrm6ojYPTPuigQO+3Bh6jVDI17WDH15zFw2IuPSXujDNwoL/Z6F+PSWrM/MfrlI/SiSyfX+GimZyeoy7blDdoDXOxnesaH6po+h0cbnm2BxPJgqQZGK43INhXR1XA0Z7UD/EPc++IAp1b0xADTnZAYRR0k58chSGRZ7fvWK0NaqVUXXTbNHt6zxIYyVnc56wY2NhPKgPBy3ECyijTbtHFs88W5NcbIj8wy4XCDj59snz7PTLhX7EfivJfsX90HdnC/Q6QNqoimIYbpqwmkbTT36efZBBx0dU5Q0q3EVfDrMjy910hnDkITSFofuOr5ZKwLICx1DprCGYdZsD8cbgU/AuXXguEI03/VKHFKAT23+Tw/WsjbYT2Nmu9ysXhoKPPdvqXgpNngfHsCP3tIqRdEg8C5zB8=",
+  "URL": "https://lttng.org/",
+  "LICENSE": "LGPL2.1",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1591960534",
+  "PACKAGER": "Thore Bödecker <foxxx0@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "liburcu>=0.7.2",
+    "util-linux",
+    "python",
+    "numactl"
+  ]
+}

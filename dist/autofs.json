@@ -1,0 +1,23 @@
+{
+  "FILENAME": "autofs-5.1.6-2-x86_64.pkg.tar.xz",
+  "NAME": "autofs",
+  "BASE": "autofs",
+  "VERSION": "5.1.6-2",
+  "DESC": "A kernel-based automounter for Linux",
+  "CSIZE": "549140",
+  "ISIZE": "3502828",
+  "MD5SUM": "649c1f781f223fb3cbc72f4cba7fb5d7",
+  "SHA256SUM": "c2150772c848075dca795c70569e2db025fcd05ea26329579214d70bf2a303f8",
+  "PGPSIG": "iQIzBAABCAAdFiEELjbYYgIhSC/EXLfyqRdkdZMmtEAFAl27IacACgkQqRdkdZMmtEDyzg//Yj6Z5NDbBVdqe9oDoe1EyDoWBLB9wztZ0IuXHX+5YZEbKNw0Ar7jz4G9lHWbBM/YUwFGpIaHQcp38li8nhmX3IQWCNtn5VOpJPzGET+Sl87do8zESj9S4fuk9xeCLUNfbqi1x6DSpCBOPSU7EdileDVRq291Uk2yUnSJ/eaB7C9yqYrW+cmvtzHSksXNx+YQ9TogLo2vmxutLFh4JFx8rbhRlqA1c7fvp+X+6X80X6hhB9CRXV3GKa93bfPYd9AL8BQcu/yIuNHSwa7lTIqkSvYmLMmHlPrwMSQ7zl9MJmiPS1uG1gus3n7p+MFCXjRl3mP9f9F2OpqxuzLf4wagl6EWFUICuaD8ZDl+xUvggMNl+vjhktg+XWFvBnBiHj9YQNnqO7xXWzQzyVmsqI2ogVNjetf8Wy6a0yUjyhKcFV/xmdIOYX8onrnqGa4RLDhH1iSRlJF15ELE6y9ToVpVLsz8h6FQ4+uFsFyivvC5A2MCnseiFXPsKNwkesaKejtxErPAfdWE5seiKXSXDxbE/0E34tNhBg8VdP4ftFFT3C+dBCTmu6pIqgA+b5jIuRbVAAH4vzleBwVGrNIPBKsuJwiXxc+IZRxjRGJBV1Wun+kTOMd5xFo9alRs0TXly4LHYZI0wT7SstYM0igKv2cXQSAMY/1mlKv5wMpg3ysw4gc=",
+  "URL": "https://www.kernel.org/pub/linux/daemons/autofs/",
+  "LICENSE": "GPL2",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1572544715",
+  "PACKAGER": "Lukas Fleischer <lfleischer@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "libxml2"
+  ]
+}

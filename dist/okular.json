@@ -1,0 +1,35 @@
+{
+  "FILENAME": "okular-20.04.3-1-x86_64.pkg.tar.zst",
+  "NAME": "okular",
+  "BASE": "okular",
+  "VERSION": "20.04.3-1",
+  "DESC": "Document Viewer",
+  "CSIZE": "6557344",
+  "ISIZE": "16209642",
+  "MD5SUM": "2644ff759b360e39a95bfb11334d29b2",
+  "SHA256SUM": "df33f633680d96796c58e6d2bf25bcce25e3b0b508d9b82f94a5591facee4b9c",
+  "PGPSIG": "iQEzBAABCAAdFiEEFRnVq6Zb9vwrc8dWek52CV2KUuQFAl8HBoYACgkQek52CV2KUuTcjgf9ERjhYgUq3szDRvv+oKvWQPfyRgoO7Nk47yF8JhoE4B02O5pfLyaIdEgEjAdweg5QrRI3bbuQilvzWHJtvHQGJA13dk7lvTiWoWHRdwq8tXUASmL2YwdxqQKc7vRAlch/0t0n3yrPGFKhShrW+lMgYJN6aKbzgCyyv+0KzN+YnHegtu+DUV17W3jQYxNaivT98/cvFeBWUOKtXUVP1y93qhsvZJZ4TnpfkGXMitNr7AfwFkw8E3WUjnbOpXvXrw9572z4zOgSCohzhjpVT1/58OMOarC/ZXat3gqKs8U8lMACL/2KAwTJOyZyZ6+Dhj07UdQ9mbjfGW7EOX27DsWeIQ==",
+  "URL": "https://kde.org/applications/graphics/okular/",
+  "LICENSE": "GPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1594110005",
+  "PACKAGER": "Antonio Rojas <arojas@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "djvulibre",
+    "libspectre",
+    "libkexiv2",
+    "poppler-qt5",
+    "qca",
+    "kpty",
+    "kactivities",
+    "threadweaver",
+    "kjs",
+    "kparts",
+    "purpose",
+    "discount",
+    "phonon-qt5"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "FILENAME": "libhx-3.25-1-x86_64.pkg.tar.zst",
+  "NAME": "libhx",
+  "BASE": "libhx",
+  "VERSION": "3.25-1",
+  "DESC": "A library providing queue, tree, I/O and utility functions",
+  "CSIZE": "559966",
+  "ISIZE": "652119",
+  "MD5SUM": "bf01b8502c1f324bd2696a9b13295300",
+  "SHA256SUM": "9273d7395c00fcf402c5d47b8aefe9bf1a7aa6ffaf1f230dfeb3b4da02e7ac10",
+  "PGPSIG": "iQEzBAABCAAdFiEEFRnVq6Zb9vwrc8dWek52CV2KUuQFAl7IM9YACgkQek52CV2KUuTEkggAgqz8+nX6QP0RdR2pnQaPOvAAU68yVd63zX3cuQ+Hlw/D5O2xKO3GdPkwnLWsI6C+MogoR/BHweuUrp26MjqvJkpLg8XhSz3Nh9mWES/soxr9Eq3RzoBJ1I3r2vg6hc5c/FRYkInu3kdMDwfJ+LmaMhi2kmwigw3YSwt9NNgYfDIGyaOXBo80l3sCbhzKry0rQZcu+W7F1C/8AssYtGMUO4Ffip/AIEw14/px6i54UmOI41uDp9LVQmz2+4/mbPGFdyaHV3g+65hEbgNvpgO4cUZkQojjxb4Jf0PKOTjbCX+ReVMQNZjzWLp22xdSClemkcth/r6iS4jJq/ylMdBSfw==",
+  "URL": "http://libhx.sourceforge.net/",
+  "LICENSE": "GPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1590178704",
+  "PACKAGER": "Antonio Rojas <arojas@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "glibc"
+  ]
+}

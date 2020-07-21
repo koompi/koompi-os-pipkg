@@ -1,0 +1,24 @@
+{
+  "FILENAME": "python-pam-1.8.4-4-any.pkg.tar.zst",
+  "NAME": "python-pam",
+  "BASE": "python-pam",
+  "VERSION": "1.8.4-4",
+  "DESC": "Pure Python interface to the Pluggable Authentication Modules system on Linux",
+  "CSIZE": "9702",
+  "ISIZE": "23440",
+  "MD5SUM": "6e9b7a3b89237fda5e8d6d204f8f3393",
+  "SHA256SUM": "dea54d5ba76f2d124c2f7e66aaa018033c8faeeb33f8c8dbb5042715217fab7b",
+  "PGPSIG": "iQIzBAABCgAdFiEEYEETBMCdNmKDQO7/zrFn77VyK9YFAl4NE5QACgkQzrFn77VyK9Yd3Q//dDg4jx3Ji7rdD5usonBo1YTsX5mInVc0TN9fzGVYO/G0n7nlBeK35jFqe9UKRmJ8jhgIq3UAGs3mCx3WA3gEwXF7ktvi6pT/O5NETBbF+pDQqLu+6b/65403trumDwBIEh64UI7fToENfZFCcNUUp5Xo3ic518r4Q/hhbCCFqRlN9h+wVB05Mk6004xrgjk7QHsckYIQuB7MnQuYZunRw2Os2neqWFLU7lG5SU+Bb6hhWqvbCA2632sSHv3TJyl7T7fGJFbzAvQ2KUq4VgRGSRAYR6cCR4B27eqEM9Ag064lnkj1A9ueSmGBDNqiOvJ5v88R0NQSLY1d1YM+3No557ErEoJR9T/kZCooRrH8W6Yq0EweYyvgkG8u6vm+vS5olVCFXQwH//fpPvNdd96A8yvcd/4OnuUpNbPKEiIkC+YOC00BNBzHZ2uphgO+2xE1SRww5swHS16sW8tQgZWwiXc9RxZOwRQK3xgd0SSAKNncBNjn0xO8xfY5L0NuKXoCuKOyW5Wxe0krhLfd54073g0xnqKj/hcUQjtSYfgYkLhgulebMLdmNjZBeeRlRYUiGba+/n0cnyK5qCTlihufCRuizPPUe3aS/6SnW0Q+JW2HOlizPnrYFtvh7rKSLkS2dBInhI8FBbQw0uLBfQOHs5FORKpGo2201RXBCmPrNDs=",
+  "URL": "https://github.com/FirefighterBlu3/python-pam",
+  "LICENSE": "MIT",
+  "ARCH": "any",
+  "BUILDDATE": "1577914726",
+  "PACKAGER": "Eli Schwartz <eschwartz@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "pam",
+    "python"
+  ]
+}

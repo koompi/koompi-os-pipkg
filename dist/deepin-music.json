@@ -1,0 +1,29 @@
+{
+  "FILENAME": "deepin-music-6.0.1.8-2-x86_64.pkg.tar.zst",
+  "NAME": "deepin-music",
+  "BASE": "deepin-music",
+  "VERSION": "6.0.1.8-2",
+  "DESC": "Awesome music player with brilliant and tweakful UI Deepin-UI based.",
+  "CSIZE": "2081909",
+  "ISIZE": "5779813",
+  "MD5SUM": "a19d5a3aed4b5191883db478d803832a",
+  "SHA256SUM": "c9fb14d5e7ee8ff4b2592d4252969d9026893dddd02f52ebbf0e11f972310ea4",
+  "PGPSIG": "iQEzBAABCAAdFiEEzgvecadZqH8j8PfYth284QkBwWMFAl7zSskACgkQth284QkBwWNhEwf+M2lvNRNbXqxvD8gaHeB9HZEFmZBWn5uQLsNiLceBKBRxj/ix1VlD3pgt0y4NKieVKkmq3B5I0k/SAq6T9NqPFUEs/4KHpaoHiP70rb300tujySiK4haDl8bNy97QRykXvGBURu3TtRhV4zIRkUPz+OfDRbQQPan4xrO2xtxAWwSR4+Q75Ph9QqyiLkaqNUtCvDOkmeiiq80U+TDhjcDWEobhKtx0E6HT4H68yN1MNDyy+PPearx53RZfqXLoonzxqi4G51Pt58b4YqwBKzAMw99hAJKBybfqe/W/edQPK98eIhhn6ZJkhePLu+CU5fdGy/9uFDkUj7jm62fors6Fbw==",
+  "URL": "https://github.com/linuxdeepin/deepin-music",
+  "LICENSE": "GPL3",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1593002484",
+  "PACKAGER": "Balló György <ballogyor+arch@gmail.com>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "deepin-qt5integration",
+    "ffmpeg",
+    "kcodecs",
+    "libcue",
+    "qt5-svg",
+    "taglib",
+    "vlc"
+  ]
+}

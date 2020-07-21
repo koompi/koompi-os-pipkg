@@ -1,0 +1,27 @@
+{
+  "FILENAME": "razor-2.85-15-x86_64.pkg.tar.zst",
+  "NAME": "razor",
+  "BASE": "razor",
+  "VERSION": "2.85-15",
+  "DESC": "A distributed, collaborative, spam detection and filtering network",
+  "CSIZE": "89133",
+  "ISIZE": "252883",
+  "MD5SUM": "8855a325a10b45c1d77d2224f8af4c5a",
+  "SHA256SUM": "936302c6d92b03e5beea84b57f392eccec01d6b86513a12aba0df04341ec72b5",
+  "PGPSIG": "iQEzBAABCAAdFiEEhs/8qRjPOvRxR1iAUeixSKmZnDQFAl7vfAcACgkQUeixSKmZnDRsAAgAp3zwcTeHzWG+Nu3aNzQJ15v8AkM5ud7q7uym5zwAh1gUl9DYkyc6zo0l3WWESkOv2G9cp4/JgYtS1eG/WPplP33CYjeU69PHXMVHDauUDAIY1DJNLMC53SvK5YsLIQzx6JzBp9cCtltgbAmayW7o8ZorGXL6EMQnjmd+vvoWzWjaD7lKdRNBYD0Ftv0PA2zV9KUGURF+nN69JntZJntWMOFV9lYcF2YNRpZ8ssJTeQCu0JhTjyPLuRlyFFMjP4FTIlUGbLOCTB/tEI6UHX7OzRsFITuZI5O/T/c6KFmx3wG47TnKXUJfIYk9uLsuXkp1/LGNylghMPGYzmGhhx9inw==",
+  "URL": "http://razor.sourceforge.net",
+  "LICENSE": "PerlArtistic",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1592753138",
+  "PACKAGER": "Evangelos Foutras <foutrelis@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "perl-net-dns",
+    "perl-digest-sha1",
+    "perl-uri",
+    "perl-digest-nilsimsa",
+    "perl"
+  ]
+}

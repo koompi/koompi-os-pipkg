@@ -1,0 +1,24 @@
+{
+  "FILENAME": "libldap-2.4.50-2-x86_64.pkg.tar.zst",
+  "NAME": "libldap",
+  "BASE": "openldap",
+  "VERSION": "2.4.50-2",
+  "DESC": "Lightweight Directory Access Protocol (LDAP) client libraries",
+  "CSIZE": "310980",
+  "ISIZE": "936148",
+  "MD5SUM": "45e3a2e7b6595e220a58ef1ff686746a",
+  "SHA256SUM": "7df953e59d5479a6a30c907fac5b6b2fd77f58ed215615151d3090d5a3f2c95d",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl7vNZIACgkQeGxj8zDXy5JgVQ//fyQYoW0zfaZ4wDdY9DAOfPTZ2z1HW+wcO71wz7c8V0fCrucLK3ypXE+g1rZiJhK4i0GyU+Z9ckXgULCiSDPVO0mhNs0wzbWPiCRi1OmHvnxVFaF5cwazHk+CzrxlLt83l3+PyVuFWuV5q+bU3Gw65SF6/w408ZJHPkSVzCmm+oRAZS2PQN+Jrm9Qg7Jm+0htJYkM5jC+F5xwv/j3X83BLHiA+jpdV3fwbjXCVPW+KCzcVHu4gejIed4oz99VYvPnhtp/gqg0r+Riyvg3+6TrsPIHFR6fiYf+DFrMe3Uif4VOsaYbE8IdohPYS7Z3Lgq8WPcSuhk18CfYQcQkFUUHqhpt4oMAYDLZSxgr6w9K4JvMVDV6KKgmnCRY3J27atoM7VdQIuLRvoTe+2wmGT7o+kJrO1I4tThn2+2GOYZCcGeUTPiFOd2YDJtplxMb1kRwlEsBmkdQZlT6PgH1WSq34DvVZz1S3sVt6Brm/8KYXbrAcod808W14+OiEUFwDG+7Y3/Ztyrrc1d+5JUrrTs4vEhIwf+fxtCNAl1EvMv70YQwsStshKNXQj+tkzhunrpE5aoOH6bjukQPP9m1+8glaN4LeDKPMOvQEY9kQZ+qu8rhyqg794Qz9IsjEIutCNFCo7VU3CYYYkQVLvTETUaO5PZRlhQXpZ/8GSpEkFwMWqU=",
+  "URL": "https://www.openldap.org/",
+  "LICENSE": "custom",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1592734676",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "libsasl",
+    "e2fsprogs"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "FILENAME": "firefox-i18n-si-78.0.2-1-any.pkg.tar.zst",
+  "NAME": "firefox-i18n-si",
+  "BASE": "firefox-i18n",
+  "VERSION": "78.0.2-1",
+  "DESC": "Sinhala language pack for Firefox",
+  "CSIZE": "474609",
+  "ISIZE": "534197",
+  "MD5SUM": "5376c80e324f5a5ab52a286acf50bc1a",
+  "SHA256SUM": "a9b503571032e3019588e68ed45a36d4abfc7a927db0bc8654dc98948a606d23",
+  "PGPSIG": "iIsEABYIADMWIQQGaHodnU+rCLUP2Ss7lKgOUKR3xwUCXwelqxUcaGVmdGlnQGFyY2hsaW51eC5vcmcACgkQO5SoDlCkd8cgIQEA13uMN24N6/AuMy3ZMss/m/bPFPe/nY2Hiyoh1uPHsyUA/3dJxy8zfDIBDLvVprHoKva7EHOPcATnMehogk4fttsM",
+  "URL": "https://www.mozilla.org/firefox/",
+  "LICENSE": "MPL",
+  "ARCH": "any",
+  "BUILDDATE": "1594311501",
+  "PACKAGER": "Jan Alexander Steffens (heftig) <heftig@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "firefox>=78.0.2"
+  ]
+}

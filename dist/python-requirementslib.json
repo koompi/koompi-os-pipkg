@@ -1,0 +1,37 @@
+{
+  "FILENAME": "python-requirementslib-1.5.12-1-any.pkg.tar.zst",
+  "NAME": "python-requirementslib",
+  "BASE": "python-requirementslib",
+  "VERSION": "1.5.12-1",
+  "DESC": "A tool for converting between pip-style and pipfile requirements",
+  "CSIZE": "207227",
+  "ISIZE": "1094400",
+  "MD5SUM": "226550c5ddd3ec74a0bbdc8c0a294698",
+  "SHA256SUM": "290ada790ad1f1f7e8a33ecf1e3ba352a66d80de3e35f8f0cc51d1e77df0cee1",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl8IYYIACgkQeGxj8zDXy5Ibzw//fIfZE54igqPjCKpBkjSA7CU0hw3e6Ax8/2oKI7oyTvw4kAU/NkA6sKpHX+mREcRgVzXfTGsV4wWKPxRMNsSEBoxCmnG4snwcEoXIfKZz7Mr9OvyxdJNuTzcXe+FS/IfQKOAaQd4TXN2tdYrwLQ884BkHcVFQSTAE1DUis/Js/3zkWN9kwSyGoWUzUQ5QeoqLnY3QIiHS4S0TKFgkdF4M5iHuuSNQmB2RlMbJ7OIkBs8VqA7bdTh6cDiTdewAjFoH0b+eoi9PKw8/qI8ez5qN5+fwGucRs7r1PX0bq3c0HCH0rhQJykZ5fYjbT+8GuYN6ZxOu+tbMbcgqQoh+7d4r21i3ehE2UdtRImPTc1S0H2Yu5waR1HgZRJIEstCIuM+p2vXdiYH2zyhHw8DjO5wU1CFO2UISTBK3EZ8Mqk2/Xh4EkJLIleSr6CjYCPbVUuK5OMk/QbusULY7tZUhWMtU6vabIg4G9MG5fXuwA31+T169aaH8UqscbhDmbSs/crri2lLey94kBxhwin6adVMztWoAz+dOxxofYkAqsiPysMtIztadHpM+ZKrh/7YVEfhl4yludzdj4kaP89zofvIOk8KEqmZnDkYJ10a5kfRLsqyF74XVE9kSh29AoMmbE58FDc4PELVWO4oMuXKSgAYe4/0cBS+mU9YYvlD7CMxLtuU=",
+  "URL": "https://github.com/sarugaku/requirementslib",
+  "LICENSE": "MIT",
+  "ARCH": "any",
+  "BUILDDATE": "1594384646",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "python-appdirs",
+    "python-attrs",
+    "python-cached-property",
+    "python-distlib",
+    "python-orderedmultidict",
+    "python-packaging",
+    "python-pep517",
+    "python-pip-shims",
+    "python-plette",
+    "python-cerberus",
+    "python-dateutil",
+    "python-requests",
+    "python-setuptools",
+    "python-tomlkit",
+    "python-vistir"
+  ]
+}

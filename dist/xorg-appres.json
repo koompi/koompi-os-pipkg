@@ -1,0 +1,23 @@
+{
+  "FILENAME": "xorg-appres-1.0.5-2-x86_64.pkg.tar.zst",
+  "NAME": "xorg-appres",
+  "BASE": "xorg-appres",
+  "VERSION": "1.0.5-2",
+  "DESC": "List X application resource database",
+  "CSIZE": "7888",
+  "ISIZE": "16595",
+  "MD5SUM": "e8029f46c5afcd36b7d4205bd77e53a2",
+  "SHA256SUM": "288a113c5799ad57777a4a65461e4562b204bc116996e8e923f57cd9aa3633c1",
+  "PGPSIG": "iQFIBAABCAAyFiEEZkWwqMcAXnjbHXhk+Z/+D+rpmb0FAl6zfiAUHGFsbGFuQGFyY2hsaW51eC5vcmcACgkQ+Z/+D+rpmb0AMAf/ZXDaSobjM0il4ARxskRlRwRRZZJ9qQG/Ilqr0ltn/3L3cd0nXynzp7oK92H317uKUrdnedr0HO5M7NM56rDEdlX5JswqAwXI+8p0hfjSzKTZlTugxzoRpd5NCq5f5Pk7KGnzPamgWuDrkRTYKe4f+5WihT8WTZAeQWAxZIFtP7iEldizIgtWnETBPAwCozxnZh/pn8Hdux6TYzcgt153OAtmAVzhJuqDMKX1fwlRJlXdTq1ZiNg9dVMdqesngk9fVZ8R2fUfp76O4OKozU2Kf+WOjkzjeQeMA3sMjpm7nqco4JYuyZz3o+IYCbIur1FkRMZ+aoKd2Xrr9c7DioJ26Q==",
+  "URL": "https://xorg.freedesktop.org/",
+  "LICENSE": "custom",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1588821425",
+  "PACKAGER": "Allan McRae <allan@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "libxt"
+  ]
+}

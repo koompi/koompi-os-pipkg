@@ -1,0 +1,24 @@
+{
+  "FILENAME": "qt5-gamepad-5.15.0-1-x86_64.pkg.tar.zst",
+  "NAME": "qt5-gamepad",
+  "BASE": "qt5-gamepad",
+  "VERSION": "5.15.0-1",
+  "DESC": "Adds support for getting events from gamepad devices",
+  "CSIZE": "77833",
+  "ISIZE": "315533",
+  "MD5SUM": "51af19c5c307042cd923c6d2eb5a5772",
+  "SHA256SUM": "8e3cf368a64132f105394a1d43f20ed56c2f128910f5910c046ef41d4ba4f0b7",
+  "PGPSIG": "iQEzBAABCAAdFiEEFRnVq6Zb9vwrc8dWek52CV2KUuQFAl7M1s4ACgkQek52CV2KUuR+zwf8DR8YDEZPAzF6/Iqfy6iAsHrvDXRkPh+y4ZSXBfHjzvF7+mn1AS4mh9am12E7Aio8HaexMevGf3Vi47ODYjRSyhhLZxygGxCha+neD7SgjA8+w+5ZUcLeVqTihrJN0LpdHkn9YKmVQqzjjIYDLpwuME99y3fAd0KQgINpshlS7hmJleDMMQkVM+UvJcqGOuSe7csvUpj8skwcz3EtoQi69a9FqvUG93FtRNrp3Xrp5NO2g3jQHXmphTVBhFahcsphI9jxlodjlUIQSV5qSjHOyLwpy2gC+I9pFsVh87sA+OBFBC5ulmXhLrRmqmCqgOvJxmKE2ifmgPZKjE/NYjZKRA==",
+  "URL": "https://www.qt.io",
+  "LICENSE": "GPL3",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1590481174",
+  "PACKAGER": "Antonio Rojas <arojas@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "qt5-base",
+    "sdl2"
+  ]
+}

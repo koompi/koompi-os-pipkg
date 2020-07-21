@@ -1,0 +1,24 @@
+{
+  "FILENAME": "poppler-qt5-0.90.0-1-x86_64.pkg.tar.zst",
+  "NAME": "poppler-qt5",
+  "BASE": "poppler",
+  "VERSION": "0.90.0-1",
+  "DESC": "Poppler Qt5 bindings",
+  "CSIZE": "188467",
+  "ISIZE": "662197",
+  "MD5SUM": "013bcf6434ce3343c22f6277d752c834",
+  "SHA256SUM": "79de5f64cde069f06cad212eabe9fe01b2fe79f218a623bba8558a9b8c7582aa",
+  "PGPSIG": "iQEzBAABCAAdFiEErcih/MFeAdRTEEGelGV6sg8qCSsFAl7+7asACgkQlGV6sg8qCSt/qwf/e+U/L1vy9Nh7zxpshtxoVGwY7HlrYfqFTSdxolFOIAjcy2P9bQkNXLh6Gl84biNgaEsTf7O96zrlM42PZx9EFL6xEVBoN8Z4yfod9ZfFrIydRLQO/Iyab8hXxAeyXq5zx5dbWiRJg26QgC8NHmBpkxOPUyBM9iaGSOIMCcNGQsIOzFN++hZci8rowQWshHS5QVIPo7uJt9bwT0G/v056HZIfOvp73uptMQl3uCYigwzS/ThKOFoHyPdGToW3QvnV4UwXDQqSQBAO/nYxv5pvCIw0jhKP/1T5uz9IGG0IwLpSewK0rW7J6e29uTSdTrncKciMXi9PE4hbb9BnIuqotg==",
+  "URL": "https://poppler.freedesktop.org/",
+  "LICENSE": "GPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1593763521",
+  "PACKAGER": "Andreas Radke <andyrtr@archlinux.org>",
+  "PROVIDES": [
+    "libpoppler-qt5.so=1-64"
+  ],
+  "DEPENDS": [
+    "poppler=0.90.0",
+    "qt5-base"
+  ]
+}

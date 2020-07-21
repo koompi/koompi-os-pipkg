@@ -1,0 +1,27 @@
+{
+  "FILENAME": "python-aiobotocore-1.0.7-2-any.pkg.tar.zst",
+  "NAME": "python-aiobotocore",
+  "BASE": "python-aiobotocore",
+  "VERSION": "1.0.7-2",
+  "DESC": "asyncio support for botocore library using aiohttp",
+  "CSIZE": "66833",
+  "ISIZE": "305556",
+  "MD5SUM": "732af4fda6217c2bf8df8506a08bc17c",
+  "SHA256SUM": "7e514e04dd24a98c653270fab2e242299dbdea12e527c55d20840a01d6f74478",
+  "PGPSIG": "iHUEABEIAB0WIQSYX6G7jYlWZgHv/xEEU6bKI8VjFQUCXwH2TwAKCRAEU6bKI8VjFQciAQCVfnZ0ssMaGeGkQPnkn/Thk6WmE6CJn0RcL49L94p71AD/TdmsU9h6HYzaDGdVOii1fznYmf2v/CINcRpmNuE5DWc=",
+  "URL": "https://github.com/aio-libs/aiobotocore",
+  "LICENSE": "Apache",
+  "ARCH": "any",
+  "BUILDDATE": "1593963460",
+  "PACKAGER": "Chih-Hsuan Yen <yan12125@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "python",
+    "python-aiohttp",
+    "python-botocore",
+    "python-wrapt",
+    "python-aioitertools"
+  ]
+}

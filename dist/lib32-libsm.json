@@ -1,0 +1,25 @@
+{
+  "FILENAME": "lib32-libsm-1.2.3-1-x86_64.pkg.tar.xz",
+  "NAME": "lib32-libsm",
+  "BASE": "lib32-libsm",
+  "VERSION": "1.2.3-1",
+  "DESC": "X11 Session Management library (32-bit)",
+  "CSIZE": "14784",
+  "ISIZE": "43008",
+  "MD5SUM": "f81f0d5b5e37cfffebcb064512a2bdb2",
+  "SHA256SUM": "bc0b7c4dbd41c1ad672b7f12c7805e4f1bc8569d97efd5a5ccef455535efaf7e",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAlvDE3YACgkQeGxj8zDXy5Knpw//XlxyFhF5CinT305gcGReQY2kAT07221WqOCEok/k/VhaM/W1gjvRbikhq2CkLYL9DhPZ/KgxfmczzfE3OOkg8UO2xAm5lu4iLJOAWqxBPqrn5VG1CaZl5NSzKFp5QvHPjwXLhPf3gPT3CQy326jimNSgHzZkYGbXrQAvRDKvYlwU5XzeH8T4UjJv+mQm9ah0OFVXZKEatCZ6AWbmAU9XpRAY2udljQGK4LR/5Km9VdHVBGgqNIgRa1inUWGK5XJVp10JImenuSS2xItO9KcuqpLlv/XyYDDTDuqYTZl+r4unAPQlx0uCnBw6QCVk+k0l0nBeZOYDhRa5PzZPzHdj9UC7F0FUKbObCCBPzqXlkRnK8/1y5pbVWha02dv5HtlIe5OJIBCIKLgGduJjDZOYsp+88aO7Gua21Aq41BQK32fut0qqOC1f5tSNdmwo2jGh8hxriJHZeqUniWtzRyir3rT71NoLS6IpJydM/Z1hapU3jwkQYFIF4iZgEiM7mnPEMuiC7dYpg4HPZ7aAsljEDAxC2MsBAcd5IE/019LeuEY9BQaYvpuGCGTGQwlfJxS4lzccIFEaRK/Mwv09RRRvmJFs23rI2ghG3PY26JVh++1UzIzqm7j9HsPyXLfcQSLoiJcTec/kTcjxfdWeCmeHUTVri2mMHGuUxV0+YG+Uc/Q=",
+  "URL": "https://xorg.freedesktop.org/",
+  "LICENSE": "custom",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1539510981",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "lib32-libice",
+    "lib32-util-linux",
+    "libsm"
+  ]
+}

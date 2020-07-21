@@ -1,0 +1,24 @@
+{
+  "FILENAME": "xcb-imdkit-0.0.0.20200607-1-x86_64.pkg.tar.zst",
+  "NAME": "xcb-imdkit",
+  "BASE": "xcb-imdkit",
+  "VERSION": "0.0.0.20200607-1",
+  "DESC": "Input method development support for xcb",
+  "CSIZE": "350697",
+  "ISIZE": "655477",
+  "MD5SUM": "dbcd61b174ebb25544d065c61ded7c94",
+  "SHA256SUM": "b329cfb2f98148aeb9f961476c569a5fa5ed2ab4a5b0f5861df9ab59de6970ce",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl7ce8gACgkQeGxj8zDXy5Ldkg//eMWrXjdL+ZvoaTFPm4eDtKYkbzH6fE88+XpAzWoWddJBvkkd39JQpRUtR1a8SDqgdpywLu3x/PH7QhtN70QcbBWI/tLJxvPTakrj0smyE6k7PlR8uGnZa0V8L4fn/M6VYe/FNwCIHCZgNV+FpOr/msIWpYmm2IERHB0CJ7ya3rB5l6LGT+T+FcvMPcrxMMMQMH/HBSRRyFExNlN4W5USp8wCXhABQ0qLChMzQbHedYQksKGrbHibh3F/e+hFmq90Gb6eJ03vRYOXYcq6qzhDoySTS+t/6t/JIeW7hTzzhWIcDbqGatf7HQE/Hsh7pn33m57/awqIFbHR0uDDI4W+iPtOKdVFQ8vMRkLNFS0nZ1PKSgzisc3SxcxuEFN04z69RcE94GuAEgocAlWx22iB778V4AE6uU/zvsEqJWAn/zDEyGK183fgJYaYqlxrLW5IcV8+EQUB9OK3d5HoB9Xvolhcp93YtyFzFb1m7EvwIQrLLSNqL+LytITNtrTyD6wTOdPNzNEuPsfoJSfi1a6f6B2c0M5VOwINCrJvN4eAL5U4RCIkYtC920PzUIIryJf3pXDWivJImbqszywU9c7JQ0cAKVHX0E7vE37aZ0tEyCHhphg2UXxO4WdzLrxkGZcECv1Wk7fk5pE+FlKFItA8PoXLZ4MWGSMzOTNaZNnsAZY=",
+  "URL": "https://github.com/fcitx/xcb-imdkit",
+  "LICENSE": "GPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1591507880",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "xcb-util",
+    "xcb-util-keysyms"
+  ]
+}

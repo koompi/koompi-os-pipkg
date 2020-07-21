@@ -1,0 +1,23 @@
+{
+  "FILENAME": "python-wrapt-1.12.1-2-x86_64.pkg.tar.zst",
+  "NAME": "python-wrapt",
+  "BASE": "python-wrapt",
+  "VERSION": "1.12.1-2",
+  "DESC": "A Python module for decorators, wrappers and monkey patching",
+  "CSIZE": "44351",
+  "ISIZE": "196595",
+  "MD5SUM": "d6b1ca1eaae47eaf7c45bb2adcfdcefb",
+  "SHA256SUM": "3d69eb6380879b6512dad21810022b6a4a77a4810a281fd93c19f519c0e13f08",
+  "PGPSIG": "iQEzBAABCAAdFiEE5JnHn1PJalTlcv7hwGCGM3xQdz4FAl8K+6EACgkQwGCGM3xQdz4/eQf/QQKAu6NnxZ3VZFsZsn9XRyGfr+FUXF60R6pl0V5dWugaRUMRjK1dKVTum0E28rZWKapkhbadJfc26TozAm2e/l4wUNE5l/YkmtMpCSXfXlNN1OBARWCmgIh/DS/muJcQcZHU1eYFl+tQwzVaUcWkhNdl4dswkv95n6ZY9M70wDWYx5VJRQ7XxfTa6IsSNOMDeYHfCdKeqz0DpBLW+h8yyx0mIQcQhkwNx0O3x3q0BXQEQC6spPdKAKzM5eET+aqPEn5f0OTcIlwGEs3Hp2lpVs5SlsWWYb/XpoIx+dqqA5gEUCUuy9NnjQnPzzg++ArEnguRQ5o5ucTNybTNvraXDw==",
+  "URL": "https://pypi.python.org/pypi/wrapt",
+  "LICENSE": "BSD",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1594555256",
+  "PACKAGER": "Jelle van der Waa <jelle@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "python"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "FILENAME": "cudatext-1.76.2.0-1-x86_64.pkg.tar.xz",
+  "NAME": "cudatext",
+  "BASE": "cudatext",
+  "VERSION": "1.76.2.0-1",
+  "DESC": "Cross-platform text editor",
+  "CSIZE": "4814036",
+  "ISIZE": "16008192",
+  "MD5SUM": "d241e03e653f0a60411cb9451b677941",
+  "SHA256SUM": "794c582c95f918f5b4a2aa7daf26a615384855ebbf4ca81dea0ef578891ada24",
+  "PGPSIG": "",
+  "URL": "https://github.com/Alexey-T/CudaText",
+  "LICENSE": "MPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1553455305",
+  "PACKAGER": "Unknown Packager",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "python"
+  ]
+}

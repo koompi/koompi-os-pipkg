@@ -1,0 +1,30 @@
+{
+  "FILENAME": "gufw-20.04.1-1-any.pkg.tar.zst",
+  "NAME": "gufw",
+  "BASE": "gufw",
+  "VERSION": "20.04.1-1",
+  "DESC": "Uncomplicated way to manage your Linux firewall",
+  "CSIZE": "565101",
+  "ISIZE": "1072570",
+  "MD5SUM": "7a236dadf433edd9d08cb3a4cbca2cb6",
+  "SHA256SUM": "cfcba7faea27aa82d7b55464db1591e99c99b41c579f7fbfbb62734ddbaf3e0e",
+  "PGPSIG": "iQIzBAABCgAdFiEE4kC1fixGMLp2ji8m/BtUfI2BcsgFAl6pNyQACgkQ/BtUfI2BcsjE/g/8DyAwwYWE466taCiTU9nt4jIS/ZnN9Wz7YdH9Cgihfq+Gcxr/hCP9FK/4UYn9MHibLt7U6SFny7jK/cjFrzML5Vu04rJ29flbrDUPcd7nIgUurh5BqD9mUp+hGFF8q/HK+Nchcca1jvwfZW7JzPU3J7qHb8kZaoVcJu0w4zLJ271fj0o48K13ufHXKoZa0MW/IfzjbbR0rgg7Uohv74bV4tg8ygMmdqggD0PaKmVURjdT49VFQ9QEZY1FSd1Qt3PDXAInddisSVXfHPqOV2/Dgu46SBiIaHMULWGkloMEcaYWonp/m0Rn6y6/RgWtN7eX/o+Eet1h0qNON5QgFvYFlVCCO2k6zWKk8zZfDEoQJsy4pFR39DtNpX/ytptJeToz99QViNDQpY/8HTl67xgtY5oB0OlYRxs4w9/hrA+7U3RyCULTjKSEIdph/2DV2CtBqcy6yb26z9ohcdLqj6TkaA8AeV+SEyThV32jlwXS/bPTITKSnhwOKOnvvVljkrwvZ1z5fh0pBJ/Asj0/ZPWYfPMR8RQDJlFzqAuCt/mpC6iiCMM4QSlRsoOYKthiNmZnPDpxVYd5kXtei6QFUA7T11XLN8fjfjnkmknFkJIWBzHcSgMSeP1pnDydSGLRrdbOeHb2JivMAO8cTKXtO5MYdUtOBiMgpWnIQqUWOayzZqI=",
+  "URL": "https://gufw.org/",
+  "LICENSE": "GPL3",
+  "ARCH": "any",
+  "BUILDDATE": "1588147939",
+  "PACKAGER": "Levente Polyak <anthraxx@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "gtk3",
+    "polkit",
+    "python",
+    "python-gobject",
+    "ufw",
+    "webkit2gtk",
+    "desktop-file-utils",
+    "gtk-update-icon-cache"
+  ]
+}

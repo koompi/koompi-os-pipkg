@@ -1,0 +1,25 @@
+{
+  "FILENAME": "lablgtk2-2.18.11-1-x86_64.pkg.tar.zst",
+  "NAME": "lablgtk2",
+  "BASE": "lablgtk2",
+  "VERSION": "2.18.11-1",
+  "DESC": "An Objective Caml interface to gtk2",
+  "CSIZE": "2572577",
+  "ISIZE": "16575190",
+  "MD5SUM": "977ca0c328670f6cecbb5d61480dcd99",
+  "SHA256SUM": "b9810d944ec5fe3783e53d338f50f7e4f4a5ee348e5fcdb360f5dd08810376b6",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl7tvl8ACgkQeGxj8zDXy5J3Ig/9FioePVa5GcNED6DCNWsSNeT7CiyraU9ucNI/CftzFZnjU2J+Jch2d3FGLptfAkG46WLkxya1XXKPVv8OVHefGv5MxWneOxnd7lYD/l2c6+hYwPXQaAKB6h8k3Tx5ALLgBffLNiN1tlbzPMpy28d1xTA0OLm9jyUqgVWEfnAqBbWl336MCk2Qc+/8zI9pIVmVgIJ1LxM9mokiXX34pgP0Z9nqgIDuupH6R++e9/2yM5hOR0Geu4pUW+ITP9LWBcbnipPemcPEwFkIV9khxc+GefUpALS74PIsdTIo2GWQtyM0jqHqRR7K821N+y2X3KjTQ2kA9dDIU/nUgJJ31SOYKzW3EbXRDvAU7CVDCeTeokB9ahV6U6Q4YFczcUPaqEStEMEg37l/nvrkAo0OYAtgpXB/o6iknk4oAH7SMu2P9oaKR7ZJkwD8r6P/m++HEiO7p7chxhZpMEAN0ofcHIt7WhdHS4XWE3NN6LDKjwfamctgL/qwPr+aUenOKTRCYdJBdFzn0GFi4hzeQa1IHdoBQcZq18QwT29llkBFTZpnvWWa2Gcby7HMCS800y2jaS1pM1Ci9zEZYJnXHG4tR4FoEBlRduOXvmelA1+WwBum0TvHI1j5dIInZHlEKfDoZvoKvGKH3PUEDQCcj9rCLFbMHOYQgDopV4opiQDQpgYyMCY=",
+  "URL": "http://lablgtk.forge.ocamlcore.org/",
+  "LICENSE": "LGPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1592638919",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "gtk2",
+    "librsvg",
+    "gtksourceview2"
+  ]
+}

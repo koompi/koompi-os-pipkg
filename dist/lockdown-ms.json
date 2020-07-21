@@ -1,0 +1,23 @@
+{
+  "FILENAME": "lockdown-ms-20130326-4-any.pkg.tar.zst",
+  "NAME": "lockdown-ms",
+  "BASE": "lockdown-ms",
+  "VERSION": "20130326-4",
+  "DESC": "SecureBoot keys, which mimic MS certified UEFI machine",
+  "CSIZE": "26454",
+  "ISIZE": "65156",
+  "MD5SUM": "639287f27e6aedc01979c4c28737de40",
+  "SHA256SUM": "5c607789bfd6a7fd31faa8f944b1d4ddf952cc389dd389a4ebbb6d1983218145",
+  "PGPSIG": "iQEzBAABCAAdFiEEhs/8qRjPOvRxR1iAUeixSKmZnDQFAl6/1TYACgkQUeixSKmZnDRrTwf/XL0i5VBpC5VQj+QGTT/njadisnv36NJ0VP11b7SXQfw9j/zrKnMY62nJSCwa6sdwW3WfYLdp3BAPC0nxS9n9tDWK30dt3iChX3J1I7e1biPqxeHkEsZQZw+Es3s8u9n4vo3FZ9GHG8KTitPvUAcY8aXU7fqxMkU2aDT8A+d6NE9KI8KQ5MIqPzhrHLsYu/o/ZsFN6zqHfuUIx+nRLklEYeXod0LomL5sn08/HfzBIHhGi5vturqxIPzjg2IwAlD6uVhYOQtjQmWq9DleQxX0cWFDPKv04Xjs4lrXd+d2rYcLj2oqa2OsBQny26gsi8OpMztA7IkEgBxpXVlZWjRTwg==",
+  "URL": "https://fedoraproject.org/wiki/Testing_secureboot_with_KVM",
+  "LICENSE": "GPL",
+  "ARCH": "any",
+  "BUILDDATE": "1589630249",
+  "PACKAGER": "Evangelos Foutras <evangelos@foutrelis.com>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    ""
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "FILENAME": "fbreader-0.99.4-9-x86_64.pkg.tar.zst",
+  "NAME": "fbreader",
+  "BASE": "fbreader",
+  "VERSION": "0.99.4-9",
+  "DESC": "An e-book reader for Linux",
+  "CSIZE": "2024205",
+  "ISIZE": "7131925",
+  "MD5SUM": "8aeba196bd25cf26b09c8d60c92c5be9",
+  "SHA256SUM": "b7e8b9c856d80f70d64f13c892bf9baccbddba42976ebafcef9801b360f4baf7",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl8EpEoACgkQeGxj8zDXy5LBYw//er69YKmCUSx+5SfltOQdlgG7pVxeEu5g7D7eOci1j7LoJFvrRqqit1Z18cdoZ+dIy4A9hzCO04OM78zpkz5wy8QKc8fvpDwlsEhJ8Z60St08xSZ9sQ5h8g6+pedxNJEvqCFBvddbS5dXCdDB82TenzBXWEwDD1mmp1j2c+sn2xYaAK7ie1dKxEActGj4ZttvbPAZmeDWb1x+rIlFpbSKcD1nOBUNrl6aUGexxlbSTPblZqtqLfpn6v0in0rCMDfvijLw+b60CXO7OGAG9VaX2Deg5LkNn63NHK8ssiLwJKLtCWri2ev3L6xIb5robJ7+/7i8jvoshNajSDgpNDtgS1qx5MWi/r/fF65DTWKqwlsZN1AyMGoi1D+4hulYnLPN6ufqtMXGkBG49iFdlOVMm6SqOVIA7ZPwMu6LD4EcKu9e3ALnMVvMQzGAfJdGiKT/qOASMSVt261QNpGEKIpV/LhnUk9KYFsTQGGRtdPcUcYwO3vhdLV0XkiUYMrkq5pmftxuUXY/wJkbUfopVhgc9RVACq4amzP25ZQmD13BuLMqRCJeYOUZTnsK1pA35bEQKWB6GCrCyM6ezr55pwU8tAdWbOn+KjD7+Q8OJkQwEykjGaaeWt2eLhPqsn9D5+T2Wz6N51YQCvZ2UUZa70kmZyxi4SmRcJmmzmcoLw1KsG0=",
+  "URL": "http://www.fbreader.org/",
+  "LICENSE": "GPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1594138896",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "fribidi",
+    "bzip2",
+    "curl",
+    "qt5-base",
+    "libunibreak",
+    "sqlite"
+  ]
+}

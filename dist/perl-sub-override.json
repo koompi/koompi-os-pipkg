@@ -1,0 +1,23 @@
+{
+  "FILENAME": "perl-sub-override-0.09-2-any.pkg.tar.zst",
+  "NAME": "perl-sub-override",
+  "BASE": "perl-sub-override",
+  "VERSION": "0.09-2",
+  "DESC": "Perl extension for easily overriding subroutines",
+  "CSIZE": "9950",
+  "ISIZE": "17679",
+  "MD5SUM": "67ebfa1aee4e7daf8333ff2d30d5892c",
+  "SHA256SUM": "ce91733b8f85c0d2b0347e44caebbb9fc13154b236bfbbb4cc39ce04e1e04f1e",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl7vPF4ACgkQeGxj8zDXy5INRw/9ErcQLhfYVABlINwsAKUUnRpq2zCIUZ4bIIr2VP65CMNgQdGbE1EaQ3Nsz4p4yJZJi0TQButiPTba0l7YSUDfA/AXUU/PzN2YA2qXE7Nux+AP0vHYmwt7JYeSZ0uIPQKnbyBLuuerdvTrRdYL7RV6eYNnod220KDudendKh2/RSHvbSYtWEmmZuVIbL6itYCzQP0bjrceFmvq2mLF/urZfbPI0jO9EEzVtzyAyBF7pSf9V5u8FYnCdW5V0YDs9dXkDAkuvIhwWbn0taRdOQlUvyedm1VYXNpsfo1b3KD1KNfJJnUQIqta+8oeZBITB5GSCNPhi4Fr4Af7PPOSSBxMLX7gkZc9e5K409cNwJrxAaIoiJ8v+S8wJsXjtzYkdGIUnSe881D6PGamLQRuWkgTdx0vR6QnGuJieAJudKzsTZyU2Z/513nb39G2XP6Gpx4sA+20Y2ptdMOIJ8MtlPtDA9IEQypiGGAB/pLqc8FrKO1w1lBISoAYBazHverv60yWLhafqhRC95o6Hdhh9CiHFj6Bh8CeA6T0hH+3VyzIcAR7Mupz11am9eP4bYkr08PTuONvIUo/LiorcavZ5sdWbp5uW99XL7HNqeQ5xcVCKKOGm01gTDjiECyGjuyf7eqZ/nAnKXUilBRWlJLTaxc4sNATFTRk+a8GC/tNy5Lbpvc=",
+  "URL": "https://search.cpan.org/dist/Term-ExtendedColor",
+  "LICENSE": "PerlArtistic",
+  "ARCH": "any",
+  "BUILDDATE": "1592736829",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "perl"
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "FILENAME": "haskell-lifted-async-0.10.0.6-15-x86_64.pkg.tar.zst",
+  "NAME": "haskell-lifted-async",
+  "BASE": "haskell-lifted-async",
+  "VERSION": "0.10.0.6-15",
+  "DESC": "Run lifted IO operations asynchronously and wait for their results",
+  "CSIZE": "57681",
+  "ISIZE": "342515",
+  "MD5SUM": "e032c8bd5e4d5795588fa60d073344cb",
+  "SHA256SUM": "64289e049128d53eb69fa377b26e5551eab2c5cd509eb1fa9c29943d3bb768be",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl75KgkACgkQeGxj8zDXy5LQNg/+PPmhZek0vKtReIqteANQwlN+O7GcHTo+1M5CNO9ltC/cagVogVsV0+T/PToHKdArP7+w2OgwxIVBnegu0x/TPheYzbRItofUouD3/KXNxS7AsOoJ6tG40Wt5wxZKah4fnqCaeXs74NmSh1YfJ018D/vva1dSVr1a7S14CnJSlAYSUKAd/EP6v36qQ9PgzjpECgo9HJzRuvENRJO2wXgvgUPeIZ8VEabc8CAQTwKrtWT4WScdsB/Zyz0b4AUtbwH4BMvbgjQD5835zHR8wsAaW9KO9XQAGetclad7RSFWGEClgFqypu4T0xla70o7RLtkrEfr6VF5xNPQAxIF7O/J5KwLyTPYgXQ8aova2C1ueMR7NsgZm48wik8yOu2DtZ51/4wtvlBRT6d+Zq9x1F0e66Aiq+hTQIyY7mX7bKUfVTMlrgzQzB43NiYKeTitEu0D3+uY4aNrG7F4xgKaVlqua0V+Sg86UgamiOKePHifwY9L9PGWAraU/ETAhjBRTBG/fM7HQklvosputfICzH1TUI7mlz+Yg85hqBdNmST8mB6uakt/yl+Tl+kkBVmYzangxiSn1a5iHfZfpK0kUi2KO2YiZdFfsegA0CJG4CWQ+nZiWboUhiVwGMNX8m4A0ruyw74bZxdsNBAby80GILMUCQInkIuD9PZmyungEgQO7B8=",
+  "URL": "https://github.com/maoe/lifted-async",
+  "LICENSE": "BSD",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1593387499",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "ghc-libs",
+    "haskell-async",
+    "haskell-constraints",
+    "haskell-lifted-base",
+    "haskell-monad-control",
+    "haskell-transformers-base"
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "FILENAME": "ruby-domain_name-0.5.20190701-2-any.pkg.tar.zst",
+  "NAME": "ruby-domain_name",
+  "BASE": "ruby-domain_name",
+  "VERSION": "0.5.20190701-2",
+  "DESC": "Domain Name manipulation library for Ruby",
+  "CSIZE": "123198",
+  "ISIZE": "510330",
+  "MD5SUM": "7d372a64b3edf71ff05f5af40ba9954e",
+  "SHA256SUM": "ad77b33e79d5e301aee05df722df6847c69e197f31cc77f5d1b56c4f45ea749c",
+  "PGPSIG": "iQIzBAABCgAdFiEEba97gI+d8lE5YgAA0hRh49/iBg0FAl4mATcACgkQ0hRh49/iBg2aEg//ZsagHxwkj1XAWgdIg8FOtG3RwT9RpZs0I0vxa8kplBszCxy7WSUUpyKn3HoG2H0oLgFBCFcVwulmL/dOkuppxMOVKIN9dkR/s52XnT3nDeRV2H0fH1f/7J0D1IeBBXf5ZOOUNdWkS/G2Jrqmm7O+kX45HP1ln+UgGnpq7ABYzw89MPqKfatxOo69zegH1UXP6PZUa6eCwTSpOmK4JQ9AACtdBaAR86Z/2I1utodZdLc0r+l8G1Sd+4Y6sb6i2Pn2gxNmaJwIW37msheffKyIUBK63UU+uV2C4jeWHyoMdpyc2FbSqKdSWdx4EtZefRFu2FfaPUMHWzW/c2j4/doyTezx99aomejqZ92c11f02U/xL3d7hnlkfousAWfP02MRaVbPV4u+Bhlu2AvLfIWexyH/cHFrCSKRXOgIueozCNZ1SFJAG/Gkxl8aOzB14WSqa1VmT7XMY5eewl64IHlmHurlftfcK7OXFlCLsUqBWvZ9iLOG/MlOtwJ3oCfHo0lT+Ofcl3FCkTOfwYZB2ax/rDn0hyR4uHzLuRCIYhs9iZm+lxQLvgzq0OeUlr9B8TG5MgLtkCGFIfIw4gZ0BeFXyQZ/t0a50DrQXwpr4PsF53VTUNMgdbbxLmj0njrsA+KgYQJ6NrzOsYFmO3osBUWdUVzdMuNANQT7xvXh6qtbJGU=",
+  "URL": "https://github.com/knu/ruby-domain_name",
+  "LICENSE": "BSD",
+  "ARCH": "any",
+  "BUILDDATE": "1579548967",
+  "PACKAGER": "Christian Rebischke <Chris.Rebischke@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "ruby",
+    "ruby-unf"
+  ]
+}

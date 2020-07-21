@@ -1,0 +1,25 @@
+{
+  "FILENAME": "inspectrum-0.2.2-1-x86_64.pkg.tar.xz",
+  "NAME": "inspectrum",
+  "BASE": "inspectrum",
+  "VERSION": "0.2.2-1",
+  "DESC": "Tool for analysing captured signals, primarily from software-defined radio receivers",
+  "CSIZE": "73068",
+  "ISIZE": "257024",
+  "MD5SUM": "44cb080384ad8ae5e904f70b192ace11",
+  "SHA256SUM": "a9a9a1faa1fa2257354aa5432570c43ba9c031889b062c78f3110f439df9cdc5",
+  "PGPSIG": "iQIzBAABCAAdFiEE0jW0leqs33gyftiw+JPGdIFqqV0FAl0EM5wACgkQ+JPGdIFqqV2t4RAAs1unexvMPjt7v6s9b3L3SDgPOrhBr8p6E4xYCE4/eHXsCsI5Y2Jwus5pWqRlB+4FDSdRlOjewEB1/nluXdcyG2x+Sq0TpV8C4F0e5k3ihuD0mUYpvAOcNXe6drajYwHjqS4iZdgFdzUBbvkfiyMrxIQrnKKJzXYmIBeWxzqW1hgDURhyBwkE2AHxnO4zRxA704XZUgn6KLmF94lcC6n6xwmadcI5bOV+JPdHx10WzTdlKTDXIEvv7aoPwCetIFwuOnjRl8dG7nIz9bHunZuzd4L44doxmFgVte9co2wHs5KYxqfIUBb1EiGIOxYRsLwLr5GP9K/HiNga90GN6S8VcPAWVW85HTEGHc5vCyXz5Bt+VMOSxLgiYR+S9gB++7C4lVsJZg2JsSDPy3PI47T6YwICmZONVvB0VDw7bTOH/zCyCGluTB/wIfwWYlh02TIXA7KpTgSqL5esIRBeg/oXqR6Rre0aHg/cbY1Sa5Y7aaw8xtlRDbAmFIqEY4psu+4JNr/eZla8mXYDuVGpVOC/J+MsBiRbWiNFxkWahffLVjpK1FXqxyPyXJqJ5JL+i0sEmTVyVZ5BnREgvq5cb4S8GvPR2BRd6X2cHUQV+HVLnr8QMD1iQuu2q/xw+KnR0lVX7zcppdy5QpwNnkXaOkJMtMeJ+HjupIMUQ6mebmivvCU=",
+  "URL": "https://github.com/miek/inspectrum",
+  "LICENSE": "GPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1560556403",
+  "PACKAGER": "Filipe Laíns <lains@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "qt5-base",
+    "fftw",
+    "liquid-dsp"
+  ]
+}

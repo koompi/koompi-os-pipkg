@@ -1,0 +1,23 @@
+{
+  "FILENAME": "chromaprint-1.5.0-1-x86_64.pkg.tar.zst",
+  "NAME": "chromaprint",
+  "BASE": "chromaprint",
+  "VERSION": "1.5.0-1",
+  "DESC": "Library that implements a custom algorithm for extracting fingerprints from any audio source",
+  "CSIZE": "52199",
+  "ISIZE": "127788",
+  "MD5SUM": "de6e1c906f419bc9f96f41392b342939",
+  "SHA256SUM": "5ff2229907d4a4a2c2c3e03205187ed0cf53e5107d52305d2840df6799d33a53",
+  "PGPSIG": "iHUEABYIAB0WIQQaYNxEJF0G/vkGI9bu7uLu7i7u7gUCXqkRyQAKCRDu7uLu7i7u7hBWAQDacaC9OTVjMFmkesdcokQ6GUTyOpl0Yq3SZ4/+TyoClQD9ESjK9bSmmlA0QPXJ5ia7XTGVMQ7Y77R2qLn1j/FxrQ4=",
+  "URL": "https://acoustid.org/chromaprint",
+  "LICENSE": "LGPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1588138024",
+  "PACKAGER": "Gaetan Bisson <bisson@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "ffmpeg"
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "FILENAME": "dbus-c++-0.9.0-9-x86_64.pkg.tar.xz",
+  "NAME": "dbus-c++",
+  "BASE": "dbus-c++",
+  "VERSION": "0.9.0-9",
+  "DESC": "A C++ API for D-BUS",
+  "CSIZE": "126504",
+  "ISIZE": "494901",
+  "MD5SUM": "c3e14c144c7a95831155bd15e25d6cc9",
+  "SHA256SUM": "3652970303dc8b9ba18b58a3b872c7d1358a01b7b0beb5f686d8d01552765d73",
+  "PGPSIG": "iHUEABYIAB0WIQTH54SUZv4jWDQ1iDdyWHNLQcMVSQUCXdrJQAAKCRByWHNLQcMVSXtUAQCH9DR7sMkzghfgefUCr4gsBN6f1IDEpo/SwI+6fCKqxwEA7EwMfkO0QrrDgu/X7F39K8II0PvXRqYSVpYr75MZ9Ag=",
+  "URL": "http://dbus-cplusplus.sourceforge.net/",
+  "LICENSE": "LGPL2.1",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1574618953",
+  "PACKAGER": "David Runge <dvzrv@archlinux.org>",
+  "PROVIDES": [
+    "libdbus-c++-1.so=0-64",
+    "libdbus-c++-glib-1.so=0-64"
+  ],
+  "DEPENDS": [
+    "dbus",
+    "gcc-libs",
+    "glib2",
+    "glibc"
+  ]
+}

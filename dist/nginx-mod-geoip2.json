@@ -1,0 +1,24 @@
+{
+  "FILENAME": "nginx-mod-geoip2-3.3-2-x86_64.pkg.tar.zst",
+  "NAME": "nginx-mod-geoip2",
+  "BASE": "nginx-mod-geoip2",
+  "VERSION": "3.3-2",
+  "DESC": "Nginx GeoIP2 module",
+  "CSIZE": "8693",
+  "ISIZE": "20023",
+  "MD5SUM": "af5e98a306fb641a0e9f6f22fdd178f8",
+  "SHA256SUM": "5866110e6b2eca5d6670ace4a6f18ebf2223a9a2e0b3b5e7bb4519bde2b66657",
+  "PGPSIG": "iQIzBAABCAAdFiEE7MrITBugimzI5j+78i+x14p3rqsFAl6gkj8ACgkQ8i+x14p3rquNthAApcwIzCB2gO1crTYPTDbDG2jS58AwdQOCX0tcQLPthha+IBZEqNOBZTvZFCzN/W1RgCfUzco8vQXBtDuJOVPEcdw2RZIhOE2eYM3sooiBdHAqTqxWW1kr6x9RGmXJwHV8zlWOm7gQnLBhFzAV5CTRe24Hxhgml4Jy/grH5z6PBCBfm6ZVamBseSDK4VMI7TJ9Tto2Y6RKJJLGpKloT8N2HUCzJFzn/BmKMreLQKxD2lyqd/J8BkVFBf0hOYr9uvMZwdGErmo8i4JIRXR2+IQVVmPyOse4llIAaVEhdjedSHQfwlk+NFenBywQOt8qMW7OywT8d/pi/DdUkERr1xRW4tev1CP1ZXtcnUvITBicdTLEQZof0J4CxYa8o/Qcdjx3NXe18NIFhQvty7uQWLpC/2Rfx07cAHR1I/KrGo5k0BPDhpRmjnFmoE5jk0vJEWo0U9yjtXWmXMDLJeSAyJLprER/UVp6cZx4aMWYgZxCFCtiMGeSqaqfxcf1uhGsUdDKDSfpHupg7UqiB0YrV1cxViiUBAOFGkVKzK0Os5mep37ZZwdHl3o/osmxcE0nK6bdESH3YMxUBvV9DbEAna/Kkn67j1puvhkY87zDuGxd3MSjDkuiZ5QVDrmlaqSQYYvQUiUbLQN7dgQGI4pNPb0oste3Fyu6UtPN5Mns9XzJCxM=",
+  "URL": "https://github.com/leev/ngx_http_geoip2_module",
+  "LICENSE": "BSD",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1587581471",
+  "PACKAGER": "Giancarlo Razzolini <grazzolini@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "nginx",
+    "libmaxminddb"
+  ]
+}

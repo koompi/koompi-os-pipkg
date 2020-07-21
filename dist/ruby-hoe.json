@@ -1,0 +1,23 @@
+{
+  "FILENAME": "ruby-hoe-3.20.0-4-any.pkg.tar.xz",
+  "NAME": "ruby-hoe",
+  "BASE": "ruby-hoe",
+  "VERSION": "3.20.0-4",
+  "DESC": "Hoe is a rake/rubygems helper for project Rakefiles",
+  "CSIZE": "366044",
+  "ISIZE": "508652",
+  "MD5SUM": "05f816a905f53f9b1ccaad847a56f7cc",
+  "SHA256SUM": "568e0f13235a2808010d3c8be13750a91e9a32772460fce9bbf87a241c5ddcb9",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl4D+h4ACgkQeGxj8zDXy5JnUQ/8ChAIF+mcdDVh8EIPxyn80vdPEuQ0SqVttqIkWLXwSa0TzKaq8BgNpB3sOV3lY6p7jnm1dmdgahOJGcrcMz0gzaQ2sdDTGQXb3KY5Sefw9yMVZSUa+jxH5KjnnoFR4Po9Hh6sF5yphgc7czZCkBUPwKxgIthS+0Mtb8g8tZ4AktkmucNxtbV12uSHAaUtAXFKRBO+b7hjh/tyvX1G2OeFqD7XbLLPNd5D26oxnIMZMfOfNGob9o54Gh6FHmjNuYSLDtgohk0wXypBGbR+3UcMo7LkNjfR2o/VYlscMAyfFoDymna6GErt3a0ibu5IbHK09e6h3iO+AUDrzGbLMX0WVJoPINz/n7EA/pf0dihwzenCjbujWT6FUhN3nbQYVXq7kTTFeliuhKfO4aSqwTwDk4rHA++fd2337+iFWJs6C4szwr1oETj12KpqWdiFJOym+i2AU+SIcnvGLJTQlriCMRRHmxFuNNJEWB3s4f3lgPT+9vVQeYGgpAhGnEwLZdJraMB/xwcLlgSNUTICWrhXZpt8J77+rgQbaSmI2WxLErHVkxTuzfNpeK2YScxIbnn/znWbQVtVz0HtnYm3kiYWMKGvyzNNm2btjA0Ji4m6bK+zImDNafwW0EeQfftWFYQVTR/uqxDwx1phmARkOalN3IsAn/NMALuLZ+XFNXubwh4=",
+  "URL": "https://www.zenspider.com/projects/hoe.html",
+  "LICENSE": "MIT",
+  "ARCH": "any",
+  "BUILDDATE": "1577318914",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "ruby"
+  ]
+}

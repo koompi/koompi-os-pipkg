@@ -1,0 +1,23 @@
+{
+  "FILENAME": "libtraceevent-5.7-1-x86_64.pkg.tar.zst",
+  "NAME": "libtraceevent",
+  "BASE": "linux-tools",
+  "VERSION": "5.7-1",
+  "DESC": "Linux kernel trace event library",
+  "CSIZE": "97723",
+  "ISIZE": "265048",
+  "MD5SUM": "0c8ca6a1ee8b72b9f2d1fde5883c86e3",
+  "SHA256SUM": "bcbe64f1feb6d9b730b70d4f40f10df5ac3dea0dd47cd38aa59868670ae5786b",
+  "PGPSIG": "iQIrBAABCgAdFiEEVyJOyaX8pvvJK7iqShr8NF6+GPgFAl7WcvoACgkQShr8NF6+GPgiMA+/beebDoWKm+QuRq5qh1mQfO81Z8gaN194tx+Jdzw01rf3FTQ1BcV6RZjLXgZcn9aH6Mis6uVb7+WG9FKH+Fp460gaYpRhmQLXneHHzgL/AEIcuF4DzF5W2aO7KR7Rs0HrVto21tJOOaVAt45cHElEfwEUunEzSPZ72H9kFyPvYNlBE4hkS7K3fZfSvhJtp32FK39sq7Ouoi2RwQyU/Ckkp1gY8ncm9nNMsIonEW/EPRePaaNJJVIb9kmJz0Vcec/fdFp2CGyq7OofqXUpXm41gEXa+44tVPzlsFaDZ9m1ByQPm61QDaQXTz7Sp2eiUf0AdO1vW2Kqs3/f9oOEkl9AovFk30u2gOE6CacYAfCmlKQzIuHXQc6HzZD25Rq2yFXhg+GKOsSMXF02kO++ZdauT3Tun1kO3Ja6GHbmU69KgdEHd56T67M7CyI3AS05w36XJXAu8+jiFLSKcZzLQOr243RivxgUPDHwPlXY78dFg/QsVpHk5UDuDlS4aLAPUKJgdgY1pz70eMehnlFLT123N1fG6aqORl7JMJ/ulC6+/0H7H0uHX+PeBQftLkUmZnPwWvRjBqWtelB4/QYuDE258Ii80dRTDerZXnFPYEB7T4Ez+cMIEcuzecJgMzI701Gz9864dOMLSnU4z6slTDm6AMZ65gIE6pSL",
+  "URL": "https://www.kernel.org",
+  "LICENSE": "GPL2",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1591112032",
+  "PACKAGER": "Sébastien Luttringer <seblu@seblu.net>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "glibc"
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "FILENAME": "gnome-panel-3.36.1-1-x86_64.pkg.tar.zst",
+  "NAME": "gnome-panel",
+  "BASE": "gnome-panel",
+  "VERSION": "3.36.1-1",
+  "DESC": "Panel of GNOME Flashback",
+  "CSIZE": "1509969",
+  "ISIZE": "8595649",
+  "MD5SUM": "f2337321ef01f520930b70176370d0e2",
+  "SHA256SUM": "cc885de3ca002f86c6fb895193c02cfaa3def072850b8c4b135c6c3604a95fd1",
+  "PGPSIG": "iQEzBAABCAAdFiEEzgvecadZqH8j8PfYth284QkBwWMFAl7Od5sACgkQth284QkBwWMDSgf+MXuJXYcOqLX+iUag0WM/331frY+sc6qQxOyRjW57R4D8tSXffafNO/1Bkv06LJ2pyB/0oIeKBbC2cME/aGKzAcTGWjamcSGjiLVuEXGEf8ZcvJm9uNCTLlqcJe5c5wXGXYU9fggyyULytQd/GIV212hmrp4xuEow+CEA620PQR5Pul9cWTIzMlgXMvOq7Xz857n3IjSKBht9YBu/OHC4CxBzRN4snVBWrI4blosGJeeHBZmGVoLd44j5X7wSg8mt83930BZ+Q2XpBBE5ciXcUhd6aWFSB0RFdXKFhZTkwGcYNGuCgYBF2JGh7V2bpnnW//9gzVOo0Q/9+vAcsLb5ng==",
+  "URL": "https://wiki.gnome.org/Projects/GnomePanel",
+  "LICENSE": "GPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1590589200",
+  "PACKAGER": "Balló György <ballogyor+arch@gmail.com>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "evolution-data-server",
+    "gnome-desktop",
+    "gnome-menus",
+    "libgdm",
+    "libwnck3",
+    "nautilus",
+    "polkit"
+  ]
+}

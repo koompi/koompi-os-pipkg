@@ -1,0 +1,23 @@
+{
+  "FILENAME": "libreoffice-fresh-hi-6.4.5-1-any.pkg.tar.zst",
+  "NAME": "libreoffice-fresh-hi",
+  "BASE": "libreoffice-fresh-i18n",
+  "VERSION": "6.4.5-1",
+  "DESC": "Hindi language pack for LibreOffice Fresh",
+  "CSIZE": "2886713",
+  "ISIZE": "22416298",
+  "MD5SUM": "100e5e2b5d04c598e48e6e10886545f0",
+  "SHA256SUM": "8d4cacc1ddf7bc3a141e5432c08cb5c95b0f2db1bac41720dbb5ae4a17088e29",
+  "PGPSIG": "iQEzBAABCAAdFiEErcih/MFeAdRTEEGelGV6sg8qCSsFAl7+FxAACgkQlGV6sg8qCSsd2Qf/VfE2RH31monx3hYc8XoCa6034UcDOhjDaXxwalKb2XWBWc2BG37i1foDNzE4GUXW1SsUVwNCTgNPriHtPKfpzeS2ok3tlOdYDTV3SVETH0TGplMs9EU9jK3USrtAUoe7BSAvMQZWQZboJjMT3IuMIDafEIF3wyZl0Dk2bisB5kLn1ePC2x+2H92Ln5VpHu7E61FO78SQAb1h2iWZatGLeM8TzfsUfB3VFlvU9aqUfoUrXQ3XAQvPRkcWtD15Kj9X6h+I+rqy+AOtZCHUL75sCdEPCR0s1C1bwNml0JyZbxpDd7o3D1oyS4aAmFZ/AMxsl20IEO1d2r26tAedDk8Tfw==",
+  "URL": "https://www.documentfoundation.org",
+  "LICENSE": "LGPL",
+  "ARCH": "any",
+  "BUILDDATE": "1593700315",
+  "PACKAGER": "Andreas Radke <andyrtr@archlinux.org>",
+  "PROVIDES": [
+    "libreoffice-hi"
+  ],
+  "DEPENDS": [
+    "libreoffice-fresh"
+  ]
+}

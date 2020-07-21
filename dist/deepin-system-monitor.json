@@ -1,0 +1,26 @@
+{
+  "FILENAME": "deepin-system-monitor-5.6.11-1-x86_64.pkg.tar.zst",
+  "NAME": "deepin-system-monitor",
+  "BASE": "deepin-system-monitor",
+  "VERSION": "5.6.11-1",
+  "DESC": "A more user-friendly system monitor",
+  "CSIZE": "374634",
+  "ISIZE": "1412536",
+  "MD5SUM": "4179aac13175bed66af24d14ee1653d2",
+  "SHA256SUM": "d33c2cbf820922c4646fb51255826caa837d41f0236a391969508de9b7332562",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl8DAScACgkQeGxj8zDXy5Jrgg/+NSHfJ0xOTnkmtQoEfi0lp0mXGTTXEWWCLwAKJOB5n1m0/cmqsa/heEZ4pGhMyoCb5AMtvE+/DvaC6I4AI8Z+w8dVTjnfun6AdbxWobwmdB0ffc9x88HgMlTm9LfqZfZAvkMqGM6zvUCkW5wxIw3m6hJsXF/fTDgl+KuvZGJxzX/qFqYByN8A5ZTw9yzjlPWPzofyldClLVU/0wSmk0O2Ta04SlMC6DrOud4E0gWB5H2A2Dujpo9DhkChMoJvEXOs0C6IdkOldc4jXXQQr+k4/aStZwyIE41Gj1DCq6v3LCWcOB6ZS+M8VlsEkclzpBZnOtPznyRyrA7L/FRlP+mpTaJ7hZJTwZoy/Om7rxKqvX7O5Tn5BaDZgdqNyY9mxQHtzGvMn+ikRKVQfnZjiZCEX6LhB602lkNSz0TX/sSFpOhVo1+v0xZ1SKwZcIiyroVzwyUQOImpy0k1CvWeWcIHWhrmpkVE3oxlwFfzfLHZlp818KUwg1GS2HE2hMwpO+VrZBHnmCBy1xDV6a8WmjTIh0RV2+iFm48nu+hdoLPuJ5uys+BzIBztxVAC0gUBZ/u/7uj6EUi52NVzvpjR4H74f/BTlkvl7D3hTEErttvKv1oIdXZLWWSM1bmicJYCclWPucGjJaSEu+7H0DOH6nlFsB8zF6CmPUTaj5q6tAp5WjA=",
+  "URL": "https://github.com/linuxdeepin/deepin-system-monitor",
+  "LICENSE": "GPL3",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1594032370",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "deepin-qt5integration",
+    "dtkwm",
+    "procps-ng",
+    "libcap"
+  ]
+}

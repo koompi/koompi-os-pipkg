@@ -1,0 +1,24 @@
+{
+  "FILENAME": "python-txrequests-0.9.6-4-any.pkg.tar.xz",
+  "NAME": "python-txrequests",
+  "BASE": "python-txrequests",
+  "VERSION": "0.9.6-4",
+  "DESC": "Asynchronous Python HTTP Requests for Humans using twisted",
+  "CSIZE": "7900",
+  "ISIZE": "17266",
+  "MD5SUM": "8717972ba2f541354c4a7ae7c091f3b1",
+  "SHA256SUM": "5c42dafe51809e5ec5ce6612979311a7b9a735fd0d72d0280268354ecdc5f492",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl2/3P0ACgkQeGxj8zDXy5KYNg//SG35tzT9mHXCBwxKYNPmjwNAfNa3GATEbBfvkk4YXdwCze5XHHjbmQlPBAg6nulpx3nqyGgJoaUvoRWjF3yRU7dAivTba3xQ4Y/k0WgISQMKo2KiSm9vpAGhlBGS8dJ3X1KuA0lYxeh8cK+Zqr6u2LQbXpEhUdgoPeTCZIaEz/qPUwGpa/3L6bchQEscdWWedS4ikpnaV2qSu26ON7XxHxnCIXTrBTnePv8kDHvFsCUZl6GAmyW03gp4vA8p3zAH/fYCqcJFtmpinmeeFKRoFc+nVAXKmgCelz0U8ltTYozW2DcNcIsRMMSyYUF2OyNnsvN/Q408vrdJmTIrovWN5fh/NXXnNTdulnRYZzv2RB7k8ruvGDlr6hm58pYYjcrYNmxmhHjtivc90IPFHyz7FsFp8lbuAcl7bS0vmtkCbSsFf9cv0RhEwh7WoUCqxLghs1G6Qk+qMTtH6ZwKo/JqLwrvq5RQvVJ6koH4Rdohh2Yp08vmqf0fYtU9kX8nPx2Wwb6saHcZxynlKHTDPCRZt3kyQOIlmuVcGNmPTIPMy2sm8y5qpKUXJ9XHWCNXpjYiU45Wzy0c3lH27j8k4OFjawxKnpDCMUe+zNyFMo0KVs9IMf2Pvo8vUoctHxqKfyjHC+Jqrd+b1oWwxhfh3SxBMSGvUxtItFZjLcck23Po2Sc=",
+  "URL": "https://github.com/tardyp/txrequests",
+  "LICENSE": "Apache",
+  "ARCH": "any",
+  "BUILDDATE": "1572855000",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "python-requests",
+    "python-twisted"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "FILENAME": "lsscsi-0.31-1-x86_64.pkg.tar.zst",
+  "NAME": "lsscsi",
+  "BASE": "lsscsi",
+  "VERSION": "0.31-1",
+  "DESC": "A tool that lists devices connected via SCSI and its transports",
+  "CSIZE": "46623",
+  "ISIZE": "94457",
+  "MD5SUM": "6d336aa22ab74ec6836ef068d99c1695",
+  "SHA256SUM": "9a1ba50a5dd5434e3d9435acb38ce7ae2326d4c6bb81c6450a97925d2f251706",
+  "PGPSIG": "iQIrBAABCgAdFiEEVyJOyaX8pvvJK7iqShr8NF6+GPgFAl5v0VEACgkQShr8NF6+GPgJ9g+/amVlyX20kz86fxSisLvXsKkfMzSpguFboE5XYPRvOpBWDMTo6EBIZP5uI7TOV1iwtscF7g+xXrjnf8L/ygcfuxwIVnbSX8FRURkqB7X/yEx0DSlv+A5O4p+Pi0VVxQG+ZfF7YaezcjSmt+CUtPGoN+xc+lhP9umNbceuiAFN1qgU48D9el2oP8uV0K27VxoHG7r7xq124n9pOtNtPONPllYirx1RqQiWorV13PMf6eXFRspRNTYU2iMvNEx1cMGXtyJ2zEfuXRCE6nPnyD7FvlnzMRYsbszjO/+F6U94iUHoRK19RbrX76rapOxHCrblE6MDNj4Z2oKlKI0pZ6aqcJCUMbWgejiGkoZ5UxdHXv4K6qf0emAFDAoguN/Ddc6Sg8OKZUQiZWs4vp2vYcvsB2NVvok26zMFhFLyO4HNGBmkgWslcsRZWh86nFcmG76AvD745Nc8WaLsXUkaDJJUkqErwVpKPTxOb55JOYbtZqLlNWHuk7oay+i97O+xou4UKDvLQbO69Y/BTZK1ALWFnX7kpsOs9pk0NJdlvMmJi7VdCJAvLeNC1ppexhJRnIwGyAOH5FF/UiJjig14jXSwLLAyKE7MaQkalXJ1DXztVQcvxcM1QlbpDbRzXAtrFj5fQWE5pF3JFLte9TlhqRRWiOQ45dfgxJPF",
+  "URL": "http://sg.danny.cz/scsi/lsscsi.html",
+  "LICENSE": "GPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1584386358",
+  "PACKAGER": "Sébastien Luttringer <seblu@seblu.net>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "sysfsutils"
+  ]
+}

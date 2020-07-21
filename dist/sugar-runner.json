@@ -1,0 +1,26 @@
+{
+  "FILENAME": "sugar-runner-0.110.0-4-x86_64.pkg.tar.zst",
+  "NAME": "sugar-runner",
+  "BASE": "sugar-runner",
+  "VERSION": "0.110.0-4",
+  "DESC": "Scripts to run Sugar",
+  "CSIZE": "13106",
+  "ISIZE": "29682",
+  "MD5SUM": "9c7978141967956509e4fa5102fb1610",
+  "SHA256SUM": "d255b0eca2966b6a023d355daa0e54f8a1365ecfdc3dce3f58d2da2292e711b1",
+  "PGPSIG": "iQEzBAABCAAdFiEEzgvecadZqH8j8PfYth284QkBwWMFAl5uZm8ACgkQth284QkBwWPssQf+PMCcCYBQQHdflSPjcSkTOd3eNjU7wb/fiMujMvJ3d8iIvof8V2Gjhmv0EdZggh3FyJ0qzkRBJy65/Py3T8qLQDeG27BdGy98uUyRFrPmYCC0+0c+0Jbh6Ba48qRGmhaL5CB3x3hHKsj8swVTrhsZetG8aO4mgso4gvbQL5ibq+kzkXZXTMvLD085qnkLOsEHH1muqJ6amgFYnoKd3Bff39ymctNK2cEK+UOcmjnuY/TX3it6nzuQc2g1jLrDyInko35IKYSrIF4aRsdi8TxlRHw0KrOMPUuzd9DWd0imHSp69NSVJoy3ST5CDn6owhmwLMiIba8kxoWD8tl10HwlNQ==",
+  "URL": "https://sugarlabs.org/",
+  "LICENSE": "GPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1584293355",
+  "PACKAGER": "Balló György <ballogyor+arch@gmail.com>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "sugar",
+    "xorg-xinit",
+    "xorg-server-xephyr",
+    "xorg-xrandr"
+  ]
+}

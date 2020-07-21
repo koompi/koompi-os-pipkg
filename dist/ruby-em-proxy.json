@@ -1,0 +1,24 @@
+{
+  "FILENAME": "ruby-em-proxy-0.1.9-6-any.pkg.tar.xz",
+  "NAME": "ruby-em-proxy",
+  "BASE": "ruby-em-proxy",
+  "VERSION": "0.1.9-6",
+  "DESC": "EventMachine Proxy DSL for writing high-performance transparent / intercepting proxies",
+  "CSIZE": "24696",
+  "ISIZE": "93988",
+  "MD5SUM": "f91b0e967abe7d25e8696b6132f10eb3",
+  "SHA256SUM": "954c01dc47f143a9a85cea129d8454a9ec9c56d6e75ed2c79c5639759268cd7d",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl4EBxQACgkQeGxj8zDXy5KzYQ//brDvmQcsyMGMPtXO9OAPp/eHpmWRk67L4dT3rTv5q2nqIaUXmRZDf1JMCgAI8Ij5Y2LjVVLouHT1A7WeHDbGzGgY+1+sKEa8DfWsIMrp3r9i3RooFErWiHtsdvv70TjMjC9tVZXil4aMSxAr/CSI9KMNI5xkxymDLB0fY8BCmpeD7zFtyewPs2ItY7IgVFy04Vc55EFObvgGOyWhuAfWxYAXqA9zttfp3i7ZMS58AhI7kB3w5XItlMt6WZ8cvcdi6v7mfzeeP8XLrHylla4oKBwyABomSWscFsgf6Evx5JRgPcj+p8i4+H2F8nWLTJTvMD354EDBqzXd2ukmk/XGuDFMn+gmAz/QcrKgkLUkTFEoiXxlciGpgqQ9JDuo6XrDhIcXD3zR3fD1unW5u5PJ7JdAEkcil7gkC1POXxmwxksQ9HhR+vcPsOG6X2MmQliWtv3SDh+sdZQj342qYsVyWrlxGklthphlIh7JG5oIXA0tGDYQNbovOfMQLetl2ogmT8kHX8MBCgzTr8d+DSGuVsO7m3eo8Wr5Tm7ZjqrtFZVBadFO/ocg9pBkAx6J9lFAkPzsiA4+PuV4ltLo0kUYXz42eT5l4tGDT8kxLs4yLrR6xzkFg/I0o2Llv0OKtUtTJAlrSXa6Z6YVoNrnjmrE2z5UH0JzDQyoJCltXsW3YO0=",
+  "URL": "https://github.com/igrigorik/em-proxy",
+  "LICENSE": "MIT",
+  "ARCH": "any",
+  "BUILDDATE": "1577322225",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "ruby",
+    "ruby-eventmachine"
+  ]
+}

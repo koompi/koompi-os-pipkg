@@ -1,0 +1,24 @@
+{
+  "FILENAME": "ghdl-llvm-0.37-9-x86_64.pkg.tar.zst",
+  "NAME": "ghdl-llvm",
+  "BASE": "ghdl",
+  "VERSION": "0.37-9",
+  "DESC": "VHDL simulator (LLVM backend)",
+  "CSIZE": "3405700",
+  "ISIZE": "31136665",
+  "MD5SUM": "b41f9653dff1003f8d4e316d78651970",
+  "SHA256SUM": "0d8567c82fe647836815eb4a5255117e7020a9482ef212b236a32ebd8b0c9fd4",
+  "PGPSIG": "iQIzBAABCAAdFiEE0jW0leqs33gyftiw+JPGdIFqqV0FAl7BwKQACgkQ+JPGdIFqqV1/0Q/8CLfEJD8mlxu8Xfl8yDslyIMxO/ZGZmR5KfDjKyansV66FP3A/pvT77htIyDs5apIPWrdEqJo+hA6nMzDGVhUhcDhlsN+dAtTbAR1LsIuyC8RiLUtAK0MW78CfCCgWBUJGF9YMiPj3VuUi55mQJ9OfKet0L1L3KPdl2UBNXPi2u7+Cp0xj6uda8zR8UA04SN+fEc9t9UsW2LFI4VndCD+9hpHTVRF9jGm4bQA/3pN1XWlbepAOH82kJfQcQT9Og3jhAgZv1FXgTzP7KesvSpxrFRfSXy0taiePpSXtXVgT4DFzZGyeyLK1/Rpbq39JxGd12EG5/53pLzRfWFGDyWDHxE3bHNERWzkhc6wQNjIDPO/ulXbFFJcKY6CVTdLFilwPX29cvjdSfO9oDGPeRa1nZpG3HyCSTGfo3zgMjlwplqOKZgFRF9MeHeAmypE9iuy0U5yiXkIaZvsEScJy0ymCx9Slsp+p1CjHuC85cZNqSd8uE0t8xYJWzeVARKWVXLofag0wEd/0b1kpK/tQBNy9iWq3JCnIdZQX6+pb0TFgfeiifZ7XzLf3gpHefi7YkNvUcQnPt7qvjWawt0ZWDJ0jZ2AHIawqpjDvGs4gKfOy5T8xSRk6ijj+gXFjPt25p8lX6dMsHUFHhbmeorYTEy/sO2aGZKuJeWMqoeYlTzB95s=",
+  "URL": "https://github.com/ghdl/ghdl",
+  "LICENSE": "GPL2",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1589755501",
+  "PACKAGER": "Filipe Laíns <lains@archlinux.org>",
+  "PROVIDES": [
+    "ghdl"
+  ],
+  "DEPENDS": [
+    "gcc-ada",
+    "llvm-libs"
+  ]
+}

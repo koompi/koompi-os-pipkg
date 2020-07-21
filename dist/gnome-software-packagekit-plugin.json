@@ -1,0 +1,25 @@
+{
+  "FILENAME": "gnome-software-packagekit-plugin-3.36.1-1-x86_64.pkg.tar.zst",
+  "NAME": "gnome-software-packagekit-plugin",
+  "BASE": "gnome-software",
+  "VERSION": "3.36.1-1",
+  "DESC": "PackageKit support plugin for GNOME Software",
+  "CSIZE": "259576",
+  "ISIZE": "1820280",
+  "MD5SUM": "6f656c8803a29cca2e6558f02c8c8f4a",
+  "SHA256SUM": "8805c5ecfb48d23ba0de74db798f94ab97db0cfa1ae1f2855cab2b7ad66079da",
+  "PGPSIG": "iQEzBAABCAAdFiEEghj4iEmqxSLpTPRwpekojE+kFfoFAl7H8B4ACgkQpekojE+kFfoGYwgArv7fT7akpTRUkW12WRkMRYMQ7JI2+pEh6UNmHhmu29Ohoi1jIDIJd9heLjKoEAzn8sSStI4yH4gTE8Vpi1jPX+84HY7s/gB8NarpVv6jnX1YkMWnmiRG058lh4fSmUt/Rt1yt/5Zbk2+8+qShYJDDj8fMnII/ohAeZoY9Wj4mWj4Hd6HS0V8tSWvygYjoaKC3CF+Z7W5nQPCUMpHD8YX3ZV1n+0cbL5RbQa4B9YpgXT1gvUzcXt/k3ZnIBCF8Wo9ZtpEvRb68sdv9Gt8lfOAof3Cn3UV7Fkgbb2eDieV36Ii5/uB8v+mZiF3nK7nd+iMc+9LS+vs0JmqR5lknv0Tgw==",
+  "URL": "https://wiki.gnome.org/Apps/Software/",
+  "LICENSE": "GPL2",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1590159941",
+  "PACKAGER": "Jan Alexander Steffens (heftig) <heftig@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "archlinux-appstream-data",
+    "gnome-software",
+    "packagekit"
+  ]
+}

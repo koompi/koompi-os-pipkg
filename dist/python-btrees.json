@@ -1,0 +1,24 @@
+{
+  "FILENAME": "python-btrees-4.7.2-1-x86_64.pkg.tar.zst",
+  "NAME": "python-btrees",
+  "BASE": "python-btrees",
+  "VERSION": "4.7.2-1",
+  "DESC": "A fancy and practical functional tools",
+  "CSIZE": "431393",
+  "ISIZE": "3381052",
+  "MD5SUM": "9a6138e90ed19e50af1586277804587e",
+  "SHA256SUM": "6b2489fdf45390fc48904eec68c4b90049741b3f52e9a8bca0905265d79104a2",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl6M+fUACgkQeGxj8zDXy5INCRAAhk62UZ5/cGwBe4wQ5YsTlogiEJdDy5S+8Cp6efXR5QKGBfRwKIOxZ+Mm3U8gYQyjLgHO6883qr+/al17WAdD1Rv00Ugqo1i6H9/E/wljVYwLmZfEF/NB6BTD80ScdXhQqgZQRzyUd7gbmFZY4hlBNLEFFHEP3Rk+lKYNRihINbqD4ZngTsuj3Cxr4KBoghhVAwaYfY/ygjYImFq+aLAiJd962ggWFdJiBvgkJ8PrtOBHBY42v0tnY3gKNKX4EYvzGppPtRcUF5VI3AMBUnLSkHpda3oLfm0JicOb6kWrkqshIh6kR+MWkAJfD9eVzXRHS/l86cJNsq6gJHykcCm2M5RG3dRn/sOuEsxQYJrEnqVtTk0PSvKOVi68JjMe+3eQWXULvYayxHPr2cJKvZ0wt7WzPgAdzUirvNswPLWvYQT5FmMbYzexDaDEQ4notfwoNXso0J37/LXk+oCnTgj8BAtQhwjvevFKajZ/kWGMpM+GCUz3mIT7cfth6ZRLWYJZ06apIfgBfAJ893AkkflXzjNZxnhTDoxM92pkMJpHZoVfcqcSo/D/7vHwtfA/8NEDjARR1F4tRVg9It8K9p254QcsYhJGfCPnEbAH6QSv8RAdFvmr4YN5/+vrzcph+lPdLxnEzU2gOD9sJE8vung4rViSg8AOlGG6Fr3yIv9kVXE=",
+  "URL": "https://github.com/zopefoundation/btrees",
+  "LICENSE": "ZPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1586297184",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "python-persistent",
+    "python-zope-interface"
+  ]
+}

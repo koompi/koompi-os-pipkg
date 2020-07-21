@@ -1,0 +1,24 @@
+{
+  "FILENAME": "innoextract-1.8-3-x86_64.pkg.tar.zst",
+  "NAME": "innoextract",
+  "BASE": "innoextract",
+  "VERSION": "1.8-3",
+  "DESC": "A tool to extract installers created by Inno Setup",
+  "CSIZE": "218843",
+  "ISIZE": "611077",
+  "MD5SUM": "fb8aa250f0ed4c2837b96e582640020d",
+  "SHA256SUM": "64808a9b0e5b6deb89620b267cb262df1f9834279e2759557038ccb54f99a462",
+  "PGPSIG": "iQEzBAABCAAdFiEEhs/8qRjPOvRxR1iAUeixSKmZnDQFAl4vpeQACgkQUeixSKmZnDSAEAgAjq8gQthLcUYKlcAyLjPhEwPBly/CEF540WKw438L+j3DDXzaPU4e9e4P9nH8mOEfnRocgkiFbPthj7iznWEI8kFUqEuwBn96g7pudUw6lRnMLBijpaGdrHc/Uv+Jwkf2kY4at4lFmhxg0WKVfbmC/8kKCw7DOtVdM7BLJAi+7luVrbUsg6wXTQ82b5UpNateZMKE8Q1JtXIXbNIeT7vy4eRmUk83AOC5xRYyNUzwXHrXPtEn73zqAKmrNcxnX2p8/HMbuJPnZuyduRM4bGzf7kgw7USAz0ZU1YXzob+Mxfm8Y4yTXsJULBjESRmFKQTXi3RQJ/N3lWggKkHsZOPeRA==",
+  "URL": "https://constexpr.org/innoextract/",
+  "LICENSE": "ZLIB",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1580180876",
+  "PACKAGER": "Evangelos Foutras <evangelos@foutrelis.com>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "boost-libs",
+    "xz"
+  ]
+}

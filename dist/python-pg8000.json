@@ -1,0 +1,24 @@
+{
+  "FILENAME": "python-pg8000-1.16.0-1-any.pkg.tar.zst",
+  "NAME": "python-pg8000",
+  "BASE": "python-pg8000",
+  "VERSION": "1.16.0-1",
+  "DESC": "Pure-Python PostgreSQL database driver, DB-API compatible",
+  "CSIZE": "46491",
+  "ISIZE": "221899",
+  "MD5SUM": "624adfcf65139390fbd81f1361273a83",
+  "SHA256SUM": "e1dcb800f404faa2da117cc424043420b2a3f6ca671e1103f1cf350feb138786",
+  "PGPSIG": "iHUEABEIAB0WIQSYX6G7jYlWZgHv/xEEU6bKI8VjFQUCXwvGhAAKCRAEU6bKI8VjFYeuAP9eCBlz6asF2D+x+T6e0h5qaILO0Kss5weooCPg999nmQD/Qepo13tsE18boVf3a9es1eKoCL+TetzDhMVNzgpNl5I=",
+  "URL": "https://github.com/tlocke/pg8000",
+  "LICENSE": "BSD",
+  "ARCH": "any",
+  "BUILDDATE": "1594607184",
+  "PACKAGER": "Chih-Hsuan Yen <yan12125@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "python",
+    "python-scramp"
+  ]
+}

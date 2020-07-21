@@ -1,0 +1,31 @@
+{
+  "FILENAME": "filezilla-3.46.3-1-x86_64.pkg.tar.zst",
+  "NAME": "filezilla",
+  "BASE": "filezilla",
+  "VERSION": "3.46.3-1",
+  "DESC": "Fast and reliable FTP, FTPS and SFTP client",
+  "CSIZE": "4641805",
+  "ISIZE": "17340771",
+  "MD5SUM": "f63b73f17b7cd1d85c8051a8a8b2751b",
+  "SHA256SUM": "b799f42c13a4d240c1129f744a6b44a0b9c7c3afffd4d139e880dd1504778ede",
+  "PGPSIG": "iQIzBAABCgAdFiEE4kC1fixGMLp2ji8m/BtUfI2BcsgFAl4OW3EACgkQ/BtUfI2BcsjMFA//Yk2cYVqhC4ggZHOBHBj9EtugwK4DKoUTDrPaZ3xWuqlPEJNMvEslk4zNtNcgM7IH14xYSv38EjMO2XiGNORbVJByyHGtXkLgYfTCmsH7YC4nLQpBxdkCimhOYLv2WvXFN2jkCMqE+Pd7+KKhE4heC55Gxa/2Ueg/SETPkBhSpVk0Job8mXKP7nnzFkeWpn6Z1/KjtGDiD1vaf6HBqg6zx7OK41XsjFaZzxJCPf0jrqHhmdb5lg8WAqJyVsE4iT9CjZReCsNkC8GXahl30DczLH6teX+ZyeeLbkm3HTEtHeIitzMoB07Xfk3wWYSezDTExU4EnBooYK+uYB5r8cKZTYgKU5Kf3qKGZXEkZL9WBulcgQZnCq6QRQ5FFCZ81G0LwooBbfEQP1kJBpjfUagTtSHlAJayHou+0diheKaP2/RRmflX9aMG6KjEllXydYUpzml1pWnZighz/l1YoEmIbkh58o4Fa8tksDFrAJMharxYP88BdwZ8PgNc7I5Vwe9sfiggylKecpZsZ358Lqr52DGuxzk4m4rZqL1KsNyrPT5PeL/980xodNj7jyfZKgot+vhhc1nRr24rT2QKAfINAxPVmy0ypIW2QXPjg6K4t+PKvwzLzY8q6ILlfM6ff1gRKYL23t8plu3LxM00oFkOvpNoHPQOx1GUGtDxejPHFWg=",
+  "URL": "https://filezilla-project.org/",
+  "LICENSE": "GPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1577999086",
+  "PACKAGER": "Levente Polyak <anthraxx@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "dbus",
+    "xdg-utils",
+    "wxgtk3",
+    "libidn",
+    "hicolor-icon-theme",
+    "sqlite",
+    "gnutls",
+    "libfilezilla",
+    "libfilezilla.so=3-64"
+  ]
+}

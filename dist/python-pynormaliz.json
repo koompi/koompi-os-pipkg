@@ -1,0 +1,24 @@
+{
+  "FILENAME": "python-pynormaliz-2.11-1-x86_64.pkg.tar.zst",
+  "NAME": "python-pynormaliz",
+  "BASE": "pynormaliz",
+  "VERSION": "2.11-1",
+  "DESC": "A Python interface to Normaliz",
+  "CSIZE": "92721",
+  "ISIZE": "295227",
+  "MD5SUM": "77adceeac9c6e1ac9de6d5d09ac05e5f",
+  "SHA256SUM": "4473203fbc670cc79d8af27ac587a0febe505d8868f13209024cfc20cc6308c2",
+  "PGPSIG": "iQEzBAABCAAdFiEEFRnVq6Zb9vwrc8dWek52CV2KUuQFAl7irzkACgkQek52CV2KUuRK2Af/foKStzTySBmRPwOs6yFK8j5DMZRoYDsfVEw4DKTRFxL4Hp9+JskP8Wuz5zRSTZ2aD9SOhfRnd652bmnPOqbqqCiTXCSyVtLrHSRvm5RlWPFucmJC0RCa3T5bkfKruDgWDceJHotO1YbgV+2xY6FMIiGyh0OTbBGg5k0UaT1aET1V3MBUBjDBP/HEbsf7o7Yw6iR1Yuolfuo4mwmB42owDcm4aZ2XXnu73vEaB6rKOC0y95RiUU6nMCb45xNlPMiZRWy1PTr3WFw8zxG0SS+pfvJCNKVER6xcWYC5hQnqqSYO5Mm0fr/KhKHkC5JXjFy24Gzly+NNhGm/9yLMf2/mbw==",
+  "URL": "https://github.com/sebasguts/PyNormaliz",
+  "LICENSE": "GPL2",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1591914244",
+  "PACKAGER": "Antonio Rojas <arojas@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "python",
+    "normaliz"
+  ]
+}

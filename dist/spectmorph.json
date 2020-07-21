@@ -1,0 +1,37 @@
+{
+  "FILENAME": "spectmorph-0.5.1-1-x86_64.pkg.tar.zst",
+  "NAME": "spectmorph",
+  "BASE": "spectmorph",
+  "VERSION": "0.5.1-1",
+  "DESC": "Analyze samples of musical instruments and combine them (morphing)",
+  "CSIZE": "30907746",
+  "ISIZE": "47134492",
+  "MD5SUM": "d7a467676918a772a2129c908417d0f3",
+  "SHA256SUM": "28649fcc9b9315d596241414eefd22d7df71aec446e80bdc6d0c38130aae0de3",
+  "PGPSIG": "iHUEABYIAB0WIQTH54SUZv4jWDQ1iDdyWHNLQcMVSQUCXkWADQAKCRByWHNLQcMVSbzbAQDQlobnruLlXzz1L0NP9HeWU6DZfQA+FwqRle9F3bohwQD9HSaGRvU7iuhxCqiOKwwFs5UrgV1BKyTRDk/dYnENgQc=",
+  "URL": "http://spectmorph.org/",
+  "LICENSE": "LGPL3",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1581612546",
+  "PACKAGER": "David Runge <dave@sleepmap.de>",
+  "PROVIDES": [
+    "libspectmorphjack.so=0-64",
+    "libspectmorphgui.so=0-64",
+    "libspectmorphglui.so=0-64",
+    "libspectmorph.so=0-64"
+  ],
+  "DEPENDS": [
+    "cairo",
+    "gcc-libs",
+    "glib2",
+    "glibc",
+    "libao",
+    "libglvnd",
+    "libx11",
+    "zlib",
+    "libfftw3f.so=3-64",
+    "libfftw3f_threads.so=3-64",
+    "libfreetype.so=6-64",
+    "libsndfile.so=1-64"
+  ]
+}

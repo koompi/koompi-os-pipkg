@@ -1,0 +1,23 @@
+{
+  "FILENAME": "python-yarg-0.1.9-4-any.pkg.tar.xz",
+  "NAME": "python-yarg",
+  "BASE": "python-yarg",
+  "VERSION": "0.1.9-4",
+  "DESC": "A semi hard Cornish cheese, also queries PyPI (PyPI client)",
+  "CSIZE": "23704",
+  "ISIZE": "138823",
+  "MD5SUM": "7f739d4ab5a50f0a30c2525618f06148",
+  "SHA256SUM": "7fd56eaea3a7163188b23f9f9a1fdd9b2a828ac51796b8bb030fba603331b36a",
+  "PGPSIG": "iQEzBAABCAAdFiEEhs/8qRjPOvRxR1iAUeixSKmZnDQFAl28NsAACgkQUeixSKmZnDQ9/Qf+IpyiMJ7shDCPWHLwfLVCH79XF3ouwvBjPedGDtONT8Q70opGm5XLUmpCK54X5TJptLrWg7sgYJv3YzqyfWKLiPFVH77jhw2HXZ3H9PfuBLvVFWNGrphVYYZpHU9yejLIbWhf+6DSyjHh2Lz8VmCboZNu9KLLXTOxoSfPqgXktVfh7cPV+kkbRyPRAKzjr6GOvCZhCJx0+Yhgf2aWaZjjsRvj7oCEm3XLcAydGCqGQDwxAj0IxAuV0uXYmuVEUszMy0c5IL1Jd8Xp14l8jg/pdPX2dZVWPbWJYfM6FhHd3D/nAxLA6drlsj3N2ipXXvkGDljbpYHfT8dlHGGkYX5QhA==",
+  "URL": "https://github.com/kura/yarg",
+  "LICENSE": "MIT",
+  "ARCH": "any",
+  "BUILDDATE": "1572615846",
+  "PACKAGER": "Evangelos Foutras <evangelos@foutrelis.com>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "python-requests"
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "FILENAME": "js68-68.10.0-1-x86_64.pkg.tar.zst",
+  "NAME": "js68",
+  "BASE": "js68",
+  "VERSION": "68.10.0-1",
+  "DESC": "JavaScript interpreter and libraries - Version 68",
+  "CSIZE": "9795446",
+  "ISIZE": "59674093",
+  "MD5SUM": "f7a125de7296a9f1a65aa2c31827c555",
+  "SHA256SUM": "29a32a02301fbcd43e33e555b49f244797646bf6d025674cb1eb3cddb47c3f14",
+  "PGPSIG": "iIsEABYIADMWIQQGaHodnU+rCLUP2Ss7lKgOUKR3xwUCXwOAthUcaGVmdGlnQGFyY2hsaW51eC5vcmcACgkQO5SoDlCkd8c/LgD+IYkiFG688/3ps6oI1rHDwCJPoJtFJPTatay16v9Ew1IA/RWEsnAyN+dNJKaCKtJqPa+C8n0JdN0cYRInLc+/ldAD",
+  "URL": "https://developer.mozilla.org/en-US/docs/Mozilla/Projects/SpiderMonkey",
+  "LICENSE": "MPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1594063360",
+  "PACKAGER": "Jan Alexander Steffens (heftig) <heftig@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "gcc-libs",
+    "readline",
+    "zlib",
+    "sh"
+  ]
+}

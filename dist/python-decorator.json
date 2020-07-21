@@ -1,0 +1,23 @@
+{
+  "FILENAME": "python-decorator-4.4.2-1-any.pkg.tar.zst",
+  "NAME": "python-decorator",
+  "BASE": "python-decorator",
+  "VERSION": "4.4.2-1",
+  "DESC": "Python Decorator module",
+  "CSIZE": "16729",
+  "ISIZE": "49643",
+  "MD5SUM": "8d74b44ac2c4dd9c460d5c3facb461a5",
+  "SHA256SUM": "4059e41aa6cb630a68f5c2aaf305666acb205f95e6c6158bc00369fd4559148e",
+  "PGPSIG": "iQEzBAABCAAdFiEE5JnHn1PJalTlcv7hwGCGM3xQdz4FAl5etU0ACgkQwGCGM3xQdz5zygf/TJbdrpDxOFt5hUNxAtJIZo/9Pej2mEYmFA41MRml1sL27KXwOAUPnZvd13Ziy46mmcQfH/wezitGPG1bFqu3LyKGSYW3c9pRziv+YrrbzrX7xvrM9Ruw4Cwo0ydTMTXmYNmZi5+PGks+0grYFLb5XXQpJilistgGffZTP+GcpzYnC1KHoE4fXUoi9bolwRp5zIuVHf0pp25uFyIcnF/SDeZGMNUHTLVUvuoM7uoZDm85szoOHYMWzabMzj+hkQJ7dObYzqbCRp45rF7E1xPC0nSYx98BH5gge0i/EYWDzPvoEss9vFh94T+j9yxwhW3AZpmUdhhilsjXf1HD01ikgw==",
+  "URL": "https://pypi.python.org/pypi/decorator",
+  "LICENSE": "BSD",
+  "ARCH": "any",
+  "BUILDDATE": "1583264915",
+  "PACKAGER": "Jelle van der Waa <jelle@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "python"
+  ]
+}

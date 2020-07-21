@@ -1,0 +1,25 @@
+{
+  "FILENAME": "python-sphinxcontrib-blockdiag-2.0.0-1-any.pkg.tar.zst",
+  "NAME": "python-sphinxcontrib-blockdiag",
+  "BASE": "python-sphinxcontrib-blockdiag",
+  "VERSION": "2.0.0-1",
+  "DESC": "A sphinx extension for embedding block diagram using blockdiag",
+  "CSIZE": "13377",
+  "ISIZE": "33386",
+  "MD5SUM": "6db514bbc12334389fa2614a2d7d38a2",
+  "SHA256SUM": "47ca4da0b4e2e53b943a57b5271aa8c5def60e5536477602486cb92da346b87e",
+  "PGPSIG": "iHUEABEIAB0WIQS5AcQXHI3QLG8vSWv5jvKnsKCYrgUCXjUctwAKCRD5jvKnsKCYrvw1AP0fdkkak7AqVNrqpxbKAowIcDYg4eiohgOpcxdBUnTJ1QD8CsBk5qvx5WgDHwFulbUCxzllERZulDWFIzzWXE0G/io=",
+  "URL": "https://github.com/blockdiag/sphinxcontrib-blockdiag",
+  "LICENSE": "BSD",
+  "ARCH": "any",
+  "BUILDDATE": "1580538969",
+  "PACKAGER": "Chih-Hsuan Yen <yan12125@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "python",
+    "blockdiag",
+    "python-sphinx"
+  ]
+}

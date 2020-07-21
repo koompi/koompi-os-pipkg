@@ -1,0 +1,23 @@
+{
+  "FILENAME": "retroarch-assets-ozone-1:323-1-any.pkg.tar.zst",
+  "NAME": "retroarch-assets-ozone",
+  "BASE": "retroarch-assets",
+  "VERSION": "1:323-1",
+  "DESC": "XMB menu assets for RetroArch",
+  "CSIZE": "2302674",
+  "ISIZE": "5518913",
+  "MD5SUM": "11ae0662cf816f93b8520349d045f730",
+  "SHA256SUM": "09dad1f6613c841846d22b2aff592c32c9126356ddf2e53628e775255b2311a9",
+  "PGPSIG": "iQEzBAABCAAdFiEElDfdOBWnqRaePTlGr/XZUJi8b/UFAl74JToACgkQr/XZUJi8b/Vc6QgAniUyyaysnVz5edzIJ7vgeA5NG+GAEJFpMDFoJupvP/kq0sX+x7EEvZdzJcBOagVjKAxCBOAYSwKEvsO4yKPSNP1SPpt8+0ao+apIBf1cR+aLqJ+FXTWKlEQIqxBap+hfwqjsAXc7/DJ8qKIqCbX267WHr3kqUWTup0Nwy7RXZ2CLcVSqcN9ijtppbYMzR/FNEQDU4u7LZcBkCAhS9Yia6oo80VUP6lJyKg4es8wGJapVQL+CeYVLc1Lzr0mjTQki0X/M8WRUbQnsZxgmt3E/c5fE9H4yHv2qgsAEpQck1uXSfCW+CZdcf9u8MSakOBoHmajbVgw778gIG3w/RWFf6Q==",
+  "URL": "http://www.libretro.com/",
+  "LICENSE": "GPL",
+  "ARCH": "any",
+  "BUILDDATE": "1593320663",
+  "PACKAGER": "Maxime Gauduin <alucryd@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "retroarch"
+  ]
+}

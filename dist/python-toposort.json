@@ -1,0 +1,23 @@
+{
+  "FILENAME": "python-toposort-1.5-4-any.pkg.tar.xz",
+  "NAME": "python-toposort",
+  "BASE": "python-toposort",
+  "VERSION": "1.5-4",
+  "DESC": "Implements a topological sort algorithm",
+  "CSIZE": "7680",
+  "ISIZE": "15649",
+  "MD5SUM": "3f3132d537517f87c6a47a510673eb3a",
+  "SHA256SUM": "e8e99cbfe6d6fc7d74610d97dcfa729b3e586241c478ac541202c0bb3eddf0cd",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl2/rj4ACgkQeGxj8zDXy5LfiA/+MGtGrt/Tb2mP6fZwnQyGfdct7s7kmpoPlTeZHlwfrhVCy86JCPLCGAVvb9cOKBB0jafYzIhRs6jnJOUSfbW884rMx1gxvIJYAFaYgSZh00WGggH4VkqQfbWNeuCDDUVAbkKdqvTLYthJYtfNkuYyOguDJntaCHQ3/6Q7Y0de/TgFLP2r2gYaA0D6mDbVGmbvNsD6/xXKpJMJ6lP2KolCgWdkewF7L8yU0uSk/E5jtQ2t/eWFmntW593xHIkD7TGB7lZ2TR+mTYSrWQydF9KihJ9suJvfgPbv6CITEwNaNFefvU496/HKPy22q3G/rXS5e6XhiXHaY9I4AJjC+oaNfYT/sbbq0nCJtPq1WEXZCs3ZuX+WTa8tW4nB3zBwsOz9aSo6G8nJ9jxEh+gpqeq5k+7GOFvZSDv19nRQL5iSKACexcT+xolcAXNrRkqTSaOXg9SpE80DnqzoUNS0Qme7Pryj17nwGrErmczIQSgn9Aajdza9Kt2nNLoYLch558e5N/PsNsXEOlzIbDvM1ElDkCHWLsGUmhGjaRPYXFDwVWNVuI00ZFoK+/DtBFQpS+NyiSS4V9j0LsveKH+IzSpWgFyhRW/ExWxA3cJpg1ATxp5LIodH0xyFgbUrYB5555QVYy5U1KEQJMRP5JfHaGatYgTUnJVUG5zgljtWjaQ8jps=",
+  "URL": "https://bitbucket.org/ericvsmith/toposort",
+  "LICENSE": "Apache",
+  "ARCH": "any",
+  "BUILDDATE": "1572843045",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "python"
+  ]
+}

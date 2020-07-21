@@ -1,0 +1,24 @@
+{
+  "FILENAME": "php-geoip-1.1.1-5-x86_64.pkg.tar.xz",
+  "NAME": "php-geoip",
+  "BASE": "php-geoip",
+  "VERSION": "1.1.1-5",
+  "DESC": "GeoIP module for PHP",
+  "CSIZE": "8436",
+  "ISIZE": "31356",
+  "MD5SUM": "cd6189b816dbb321d85532d351076441",
+  "SHA256SUM": "43f4eddf5666feebff129d8c00b8fa428f16db2b2302726556d0ef7bc2b72a12",
+  "PGPSIG": "iQEzBAABCAAdFiEESqR2e7ycSx0Yrii3fy1DS5dB6KwFAl3hWUMACgkQfy1DS5dB6KxICQf/bDnoHsOXwfw/jCrQWeZF7MhpjuWm/SuKchHmDrz9sJMMDkWzuW1P3YRYSax22n3BJH678p9SnCLUBuZdbhQD9QD6hImy3vVeK1dzys3TBvQtIyno/VVoRiFCZ9RhoC9dbFk0YX0iwmwaFpJHA1fnApsndSGN6YObUvu12KbdELrgODiQ0Lc/7nBD2AaGpHYwkzuH+U/GDIAdZly2puoYNeg9fdPQQmz7dOxbz397UIPDh3VhTAO+Qy09UzC8qPlUK0VIKPnkeHfxlz3ykmKrCm66UzAqA7MYJO/Pxr+TSFgmGwbJLQWVwRqM3QeJi0wjYWNdITkYXm8nOv6NhgnNBA==",
+  "URL": "https://pecl.php.net/package/geoip",
+  "LICENSE": "PHP",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1575049509",
+  "PACKAGER": "Pierre Schmitz <pierre@archlinux.de>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "php",
+    "geoip"
+  ]
+}

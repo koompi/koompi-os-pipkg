@@ -1,0 +1,23 @@
+{
+  "FILENAME": "haskell-regex-applicative-0.3.3.1-5-x86_64.pkg.tar.zst",
+  "NAME": "haskell-regex-applicative",
+  "BASE": "haskell-regex-applicative",
+  "VERSION": "0.3.3.1-5",
+  "DESC": "Regex-based parsing with applicative interface",
+  "CSIZE": "74760",
+  "ISIZE": "351822",
+  "MD5SUM": "31e48d9ba24a9738a6fd0899802925de",
+  "SHA256SUM": "3cde09c25df594a58b8e9f258176da5fa96a3807f5a94c96f3d1490dd8babce1",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl6hqSQACgkQeGxj8zDXy5LlBBAAtW42XU/6ZIUbaDaSqMpV8/aeKBqeF73hEfFgNj3X0h9Gu3Xk/A31/ItbwBB/jD0uwcaB8lXMxJJT2cR0GoLs4fO5q/INXswl7iN8s3/MDwOjAxRowsHURkj38UAcGICCMSGHmDhmoMTJLAakMfCmp6pTw56Wsgx86+xmfFIAGZSqsv+/KNv9vnjatTsFxVyU2s6Igkeb9JzUc1bHxQv0cwxTVp7aoW1lGPvp5vFRkcS+QhIDgbrRHprc8N1Vj9NTpbV+6+yojqBFdu0PhYLWdLzlCp2ZLbyWZ3v2EqADot71IK9nbr0PFny8asMxh1Cj4FspOy4fackjSkXvd4UXSXmWKgMFVyRHO7afyfFgPjfP9rWKEAmYq+EoQpb1/W30wF5aGZLNBHBEj4XKzK4bKnfWuxY4wa3+RwGbFel28WtXIS3aiV3lhIWZBRUtkt0LwRsCWEkwnsemWyM11WGC338QslGgnilpCHK7aIn2SoWXunH999ZfwFt6F2yIKIocrh08YbKsNxMQkuZIdBBs/b1y4A9VIJsiNiQ1gqw8wSXRB8Q2P2XE8v9SvNL0tdlP5/WhvdJahRvYSuhRLV9ZDyjtj+IWkS0vI+T1vSjE9kHs3T23X684V5kGUwAYZBZuMdAOMpTxBB9ZQNK5hfpl9NLpS7tuvq9+XDaPOCI5QYQ=",
+  "URL": "https://github.com/feuerbach/regex-applicative",
+  "LICENSE": "MIT",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1587652811",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "ghc-libs"
+  ]
+}

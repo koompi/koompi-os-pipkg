@@ -1,0 +1,23 @@
+{
+  "FILENAME": "python-calmjs.types-1.0.1-1-any.pkg.tar.zst",
+  "NAME": "python-calmjs.types",
+  "BASE": "python-calmjs.types",
+  "VERSION": "1.0.1-1",
+  "DESC": "Base types for calmjs framework",
+  "CSIZE": "8777",
+  "ISIZE": "15619",
+  "MD5SUM": "bfa5d02e110ce07e23db45357616e484",
+  "SHA256SUM": "88a60a92f821a63101a5cbe220e6d6ca618004ec6fdf04ecef2b3cdaf4725876",
+  "PGPSIG": "iHUEABYIAB0WIQTH54SUZv4jWDQ1iDdyWHNLQcMVSQUCXiNTTAAKCRByWHNLQcMVSWpHAP46JPHn5vbBwat89whOh3Dc6hhCFrfAYaS4q2mz2UwpjQD/Sw9DYOCrdn+5mMMU7+jydbxhuwDqwNHEnkZhGrAWSwM=",
+  "URL": "https://github.com/calmjs/calmjs.types",
+  "LICENSE": "MIT",
+  "ARCH": "any",
+  "BUILDDATE": "1579372622",
+  "PACKAGER": "David Runge <dvzrv@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "python"
+  ]
+}

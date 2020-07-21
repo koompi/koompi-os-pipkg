@@ -1,0 +1,25 @@
+{
+  "FILENAME": "haskell-ghc-lib-parser-ex-8.10.0.14-5-x86_64.pkg.tar.zst",
+  "NAME": "haskell-ghc-lib-parser-ex",
+  "BASE": "haskell-ghc-lib-parser-ex",
+  "VERSION": "8.10.0.14-5",
+  "DESC": "Algorithms on GHC parse trees",
+  "CSIZE": "124477",
+  "ISIZE": "690836",
+  "MD5SUM": "4316a05a98302e1e76bf7722a0d1e404",
+  "SHA256SUM": "5c2fa529c3f19350ee0d90da8dcdaf01d05941f12fcf0bbbce4b1a3b44d20980",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl75mYcACgkQeGxj8zDXy5JiShAAo4jZcHuqHlvxEriExVN6SXDfF3CodHKjC1LqOXcYYyzwnB7GDEdbeq36A0g07ZXAUsPV08xGfQy6GuIr5BdiLCetNovR06MNM9+A5CvkcTead++5q9v+W8bUGJKzKPO6GAjVQ/MWL7QN8pgEgsXgIRK+NUwGq+QZ4m5F2fLUDPhkkQ8tHzlR5DCxy6WCmN93JqvDd1DfxL7X6zgguRGsrt7QxgCHP4Nc9/wfM2udGXgS/b2yWDrvds4R0piCdnF8qCQHkx76yAju/+/pr70EIBYjJ1igveHniDMshu8/QWyM/A+EOAZp+wGVbkK2NqjCO2yUWJLdCKJX8sAoAXqjpdzuLGDsrD8lP9nPEUc/toLZjliuJto06st42PuGD1y9HxCoISb26zF1OBRYKagcK7rHKhGyXm/hj2pGhj/GzSo3dmOGqaDsfYAIQF70lBlfQ+XC52zU7ZrfIuGBAU+A4z3aAPq0MIkNSDPqNzcUdBI+CToivB+YCrrjLB6NzQFntWD+1D2HjUGSkWbsY9LcGMrYDHiNcBwKfwsd1W5OuK1pFu7AfuUT/iTcBw5pQ6yno9kZ4bqJvgwByI6oVev3ooRPPyRD3stzQIMMxxCWut/MgtZcQRFqxiAx8rlNQDvVZNiapCe2mTBgmLSdJ1seJhcHXEicrAWxOWNz9MQDrfA=",
+  "URL": "https://github.com/shayne-fletcher/ghc-lib-parser-ex",
+  "LICENSE": "BSD",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1593416040",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "ghc-libs",
+    "haskell-uniplate",
+    "haskell-ghc"
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "FILENAME": "bluez-utils-5.54-2-x86_64.pkg.tar.zst",
+  "NAME": "bluez-utils",
+  "BASE": "bluez",
+  "VERSION": "5.54-2",
+  "DESC": "Development and debugging utilities for the bluetooth protocol stack",
+  "CSIZE": "1120662",
+  "ISIZE": "6016509",
+  "MD5SUM": "09fc952c3f8658d8d0fafea026c54303",
+  "SHA256SUM": "7d6b20c69303b5828533c27c01d2e70aca3feced8533f56ce966eafbbb3948e0",
+  "PGPSIG": "iQEzBAABCAAdFiEErcih/MFeAdRTEEGelGV6sg8qCSsFAl6kBs8ACgkQlGV6sg8qCSvp5wf/a50B8HHsdaD1PDLoqMKa7NlnTAqmkvRDDKHehuF/RRpU4j2yTTMiFMZ0mNNwSAXRtAyNSaGM1Eyvj9HVCZMCdUKKJghHqake+f8ugAk1Xqr092Io9HWtTrRv41Bwsrei2MtcnqN2jK+MjRpjUFxx6KB+qe6uAHaMQXip13PZfwe3horNfF9S9WFbS6uFDZLjxc9m3bT+LXwGXPzKgjy4ozr7zfzsXzt8T+N8pxzoKLvIB8j5Y/FqLmndTEGhl/Ww2VLFp+lAvKMGIt0pZu7mRpiuPjaUqA5rticBSNo9Vctb2YnBSQj6dDltotLI3/54dE4jXVqdo3GMmSm8DGEluA==",
+  "URL": "http://www.bluez.org/",
+  "LICENSE": "GPL2",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1587807808",
+  "PACKAGER": "Andreas Radke <andyrtr@archlinux.org>",
+  "PROVIDES": [
+    "bluez-hcidump"
+  ],
+  "DEPENDS": [
+    "dbus",
+    "systemd",
+    "glib2"
+  ]
+}

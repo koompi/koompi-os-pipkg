@@ -1,0 +1,24 @@
+{
+  "FILENAME": "usb_modeswitch-2.6.0-2-x86_64.pkg.tar.zst",
+  "NAME": "usb_modeswitch",
+  "BASE": "usb_modeswitch",
+  "VERSION": "2.6.0-2",
+  "DESC": "Activating switchable USB devices on Linux.",
+  "CSIZE": "98427",
+  "ISIZE": "262397",
+  "MD5SUM": "6130e348aaf0d9d66a10d8142c652866",
+  "SHA256SUM": "62b3057aafb811f4c1eecaf0858796b5ba95c6d198122ca4858db00b03ac2529",
+  "PGPSIG": "iQJGBAABCAAwFiEEPlGL8lJv0Zeeiq5JZcEQwepDP8cFAl56DmMSHGFyY2hAc2VyZ2VqLnBwLnJ1AAoJEGXBEMHqQz/HJoEP/1q9NYQXYcCLFc/HQkj5qrazBv2e+pHAmFf2QzLT04pp2rIrTlMRD+kngQVNQnpGKTUqxgRAuibGpH8cPXSUIbstecEYXzN1XtIk05myg3x0KAg6ggiW1C8mTx1US74ik+LOSA8uM2fsMu61uoWbVSaJZPce4u3axTXa5nS0gAyJLZOZhl0JlyNgLbKPmmDboVOYYK3vwuY3irAVmFesMBvOyDrbA2DsoIV+6cDr6wNifNAS5O28wWa0c49t08sAyxNzvSIOgEnMUEtKIq0fZmzN7JcUNUaM0U5pI4pnFa7yWfalm3sjNPRPyoRsCYUcjLrz/2qkCf3LQkcdv7nKJUJD3iImbba5k6OZGVlK8zmvRlskzcNX20p6QK4U64w+/JJlYQhZZ9hjdpuDcfBHg7z1pFWJil+VJQwTC+XDO1uNyr6z/fBhCB/Xj7ipvB38CU2Gm7DZdoHiy2PF2I2GcHnAXkeFIAPwu5GU2OHAkcUtitaD/zleWGBhm4Lv0Oo/Rz2/z7FH25IAywrKyeuHUEAnt6qf9Hzp8zFJZJ5lHQy576VNU4JwmFr11f0ZzD747OqeoNU7Zaf+eqiCNLB9as/ii8pwXikpzsyNpM6aWis88sFFwJM0ozH8KRkkGn7kH894VuNky2raNgjnCa6LpBmHMeBXmt1KzvQRw4Y2/WEh",
+  "URL": "http://www.draisberghof.de/usb_modeswitch/",
+  "LICENSE": "GPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1585057003",
+  "PACKAGER": "Sergej Pupykin <pupykin.s+arch@gmail.com>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "libusb",
+    "tcl"
+  ]
+}

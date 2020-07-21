@@ -1,0 +1,25 @@
+{
+  "FILENAME": "haskell-cryptonite-0.27-3-x86_64.pkg.tar.zst",
+  "NAME": "haskell-cryptonite",
+  "BASE": "haskell-cryptonite",
+  "VERSION": "0.27-3",
+  "DESC": "Cryptography Primitives sink",
+  "CSIZE": "1660642",
+  "ISIZE": "9637660",
+  "MD5SUM": "5d2c5b16e5b0c1e91bd11cc2d853b6a0",
+  "SHA256SUM": "636afd8ec5b0bfc74117da7ddefb15ed1c63ebd6f89742befb9b5e96f72ba797",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl75GtsACgkQeGxj8zDXy5JASxAAj4M4Ou/fXF6hzmPBkELmSk2WaVmPkonddrr1J35E2h7QDiFC46yC5Fl6fdBpHKNld/Tsiig6bd2dptHz3LYi9JvNZOYqas7qRTNRgez0b/jQYrS+h5KXqapruI/dfhW+d7xVaRCGGgOww5wIcfAQNSnxfdGnM6x6YRbc/K3OqSt5S6puB1NzRn+CJPbkt6EAlCAlb1qh5JeJwKr8mwkfNL5K8q3EtcDjzpauTef/4ND/ltz3bBoSdan/1GunlCSsoW+DI1ifLIh+4I5iqRYMI1vr8rGqujKz+5rgQdKilChjiXLh9mFwk8a1zG1X8SP/IW98TwtJD5Y6jqQhfJZWNT4jQpyOrIbOxHIrMe6MzTCRE0qbFd6rNDbP5Y93wyjYmgSfKLZtK9acxmCkO7Z0VF03XghXC5AoGLREvEeTFLnJCRt3e1JVJQL/9ENLeKODWjn/rE2UbJ7ZK77kcpNWX7xaP+XbRZ4KYKAfnNsC/rg2g59HKq1TChIjWAjJf+o+OxYIfAKWnBegvLhOqd7UUzT9XtZ+kbCmKbSoeTsBvAZM7LV/PHamwS16JGelxX5qY10saBT3R8d19J7yQyPXOOZvJtgfyyoSQjp4chAl53fbLuJkpOdXvYryHTvSrZRy85biKUD7lO2dx+/HgOYucwywxZr3an5GULhH6a7sQsg=",
+  "URL": "https://github.com/vincenthz/cryptonite",
+  "LICENSE": "BSD",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1593383568",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "ghc-libs",
+    "haskell-basement",
+    "haskell-memory"
+  ]
+}

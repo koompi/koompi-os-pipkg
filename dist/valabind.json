@@ -1,0 +1,28 @@
+{
+  "FILENAME": "valabind-1.7.1-3-x86_64.pkg.tar.zst",
+  "NAME": "valabind",
+  "BASE": "valabind",
+  "VERSION": "1.7.1-3",
+  "DESC": "Tool to parse vala or vapi files to transform them into swig interface files, C++, NodeJS-ffi or GIR",
+  "CSIZE": "81566",
+  "ISIZE": "231463",
+  "MD5SUM": "24bcb903b252f15bf1ade3b34b135fce",
+  "SHA256SUM": "c3995565406363dfce0fccd63bb16ca6d14017859faf854c4a0b7065ac85f3ef",
+  "PGPSIG": "iQEzBAABCAAdFiEEghj4iEmqxSLpTPRwpekojE+kFfoFAl5esd8ACgkQpekojE+kFfqd9Af8D2kQSBXxuDGwTo01RpqbHW0G1OJDw939qPGl8DN7VWZG1bKaM3oRcvIj20Q90SE0yJqGrYXa8lmYtvQo2te5rZljqTosaxyB/sI34zxbdluiP8ugDM7G+PKL0IDKNMXSxLlKpNBM7e9CuwgxAG4RcMballBqbDM+5EKCZph0rFOfF2yRF4qj3jL7StThDGmhUCcRPD2cTEvu0s0+uiAL7xAq5iqnRJl66tKT2p4jdh8myWuzEK8mk01dizsUh0B8dGDryfzlPu96/fNPZdwG5c4YFjYcg7FIqjidVoEJ7mosCu7cRWZdMnlShoodeO03hp/mVRCuvpyJjUT5OWlvSQ==",
+  "URL": "https://radare.org/r/",
+  "LICENSE": "GPL3",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1583262836",
+  "PACKAGER": "Jan Alexander Steffens (heftig) <jan.steffens@gmail.com>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "sh",
+    "glibc",
+    "glib2",
+    "vala",
+    "swig",
+    "libvala-0.48.so=0-64"
+  ]
+}

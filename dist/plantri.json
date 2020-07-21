@@ -1,0 +1,23 @@
+{
+  "FILENAME": "plantri-5.0-3-x86_64.pkg.tar.zst",
+  "NAME": "plantri",
+  "BASE": "plantri",
+  "VERSION": "5.0-3",
+  "DESC": "A program for generation of certain types of planar graph",
+  "CSIZE": "125334",
+  "ISIZE": "274308",
+  "MD5SUM": "81330dac4130eee395b1742dcfc321b0",
+  "SHA256SUM": "0b3ed2236fc5bf8c81c7f07d84ee12fbc30840f76c7de3776631da70f03e943e",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl8EplMACgkQeGxj8zDXy5IyLg//ZEz4qb897cSxFRjuroq+ZTePrGplyt6FnhPGt6Z+XkZZEZ/GCBcE22ApALOO3zjySZ1lbh4dBMct3ofI98HkTbBC/z7cuSVpUifO5ZMgsJ17ug7IHo9YgRGtJ/nzt/NUdrAL0L8pnlxzLkosaVm8eiBx9mt4JlFgTtXgOI9BIMMeyHqgcIH+XiNoV1zc5JI2/4dejXgbaCXfKX0nQWYQDz4sYc5/t021bqANrh+nq1lCuptVkYnXYKKivrh3fEw7NhC1XboPk5lmAi+mNrrM1lFkADk2ytwfEuopDw0iHiz/guB/7lu7PzKSOcgP7WMFZ59ToSf9uhcaM//5FuKscyP37rLRKv0xaNpTXn0/ItBIwR42I6hnURiOcJpG6RBqf65Ge1N1E9UP/KS7kv9//Urd2s9V0B7Bex1jlcp8wCKjhGi3EVVXYMlOQZcXBgot+1hz9Ll8z10QIKX1vf9BAhU2xbMmC3nAUG6gDYdbU2LrhfrzNjgnYHANpMugucwEYEh64d6CytEVojGkUaPnJHhgD2RvGhfohD8CqlzrKtFsVNbtkzXH6LAO1k2MRMrfCKJHD2vx2FfBZ/LvjhCDSY6m3s2+OcC2eImw6VYVrFIOTlQjCe3XjcjxPu3awH1nYTkXQkYp6z9785PyUYjc4WEWVYa7C7fgQ+Tg3XcgZIE=",
+  "URL": "https://cs.anu.edu.au/~bdm/plantri/",
+  "LICENSE": "custom",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1594140174",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "glibc"
+  ]
+}

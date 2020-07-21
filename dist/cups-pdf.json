@@ -1,0 +1,24 @@
+{
+  "FILENAME": "cups-pdf-3.0.1-5-x86_64.pkg.tar.zst",
+  "NAME": "cups-pdf",
+  "BASE": "cups-pdf",
+  "VERSION": "3.0.1-5",
+  "DESC": "PDF printer for cups",
+  "CSIZE": "24320",
+  "ISIZE": "201953",
+  "MD5SUM": "ab814a1d5f7f9b6ccf7cc107829cce6b",
+  "SHA256SUM": "c7bd30e2a978c20a9effa2ca2854a853f9c2d1336fc1562496fbb956c33ec2ac",
+  "PGPSIG": "iQEzBAABCAAdFiEErcih/MFeAdRTEEGelGV6sg8qCSsFAl61I4cACgkQlGV6sg8qCSsO9QgAsFZOnJafFLzzihTcQKdAzxS89n6R6lbDyqJUi2woUwqPxsXp4lKVpT+vn3i8SXkVTLjRvDEMxh7uRKg0I3adr3b9ylgu9oLMsbr1L+PaLruN9ErhucKvrXQENrlRCKAU3i+FouAgu59UrI9HxZqx+f5w1NTzLC7Q/p98sAZgfeGqQSzka56PRPlH6trTB/xApkHKrVK+KVJhqCklVfAPuUFGhRqT0W+FrB0+FFmI2lSSRJai0vi7ZZqgwWFXwW4QSD537QvC7JA8sHSNiRIgM3IdZzYqlctGo9v0rLHvkC1ob9t6W6txADQgk6e3CMPJGXwX8xSYuafCxZ4CFgrsiA==",
+  "URL": "https://www.cups-pdf.de/welcome.shtml",
+  "LICENSE": "GPL2",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1588929359",
+  "PACKAGER": "Andreas Radke <andyrtr@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "cups",
+    "ghostscript"
+  ]
+}

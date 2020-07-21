@@ -1,0 +1,25 @@
+{
+  "FILENAME": "iwd-1.8-1-x86_64.pkg.tar.zst",
+  "NAME": "iwd",
+  "BASE": "iwd",
+  "VERSION": "1.8-1",
+  "DESC": "Internet Wireless Daemon",
+  "CSIZE": "620821",
+  "ISIZE": "2658978",
+  "MD5SUM": "1a17868915f43e358ff2fcb1ebb1b2ce",
+  "SHA256SUM": "41a202d9ae962a474229364b314286634f426cd5707629edd106c24bee2517b0",
+  "PGPSIG": "iQIzBAABCgAdFiEEba97gI+d8lE5YgAA0hRh49/iBg0FAl7v1qMACgkQ0hRh49/iBg3sOg//TAJuiW5hYMWaP3AFZ7r8yivLAd1t8/pckAkGZkeVOjYqzblPsQV/rb9TjRy2S69aFeunxmvUQN3DqLTPnf2M/eCBjfimfLMbbkSFM78Beb7JFmcMCnZdaTIwL5Zy6INJgvY/diKJsNppWa6oMrRkk1iYXCBMj9NwOzaP8B2C7BjxCvCGaAPmEl0jq5xtHdx26coMi6mzIdXVpw1LPyNisX0MTtjXtLhuAG5g6ZwFlE2z7HLGMkXJi7RhXk2Gvy8wqU4A6b4DY6aucX0KVsBd61CDDIjCT3+qK4xthS7+rjaQe9SbietqHPoWdtLjZJIdPfkkdaIZTNRVn6uoJne2eCIK4c9CjUZpQ5PdKlpm5hLQSyKCWcXBmhjjrGEezC+42W+NhkXv5s3QOXZGLN/KARq8qlsXQ7Pxe0MqHlPwIQqHBKXSKBSDtclcU0ygoFN2AnSeH5QYnZDFe4YOD3AfpLBb/sL0r21i1nZSQhd2m1X/Z/MfCpPb+2WkhbZyIxYZawIUpp0ot7j2CNwwDoNv0OHA24aaVVlmye3ZF4iRce/G0L7277EABGATlffMcwF5aWKyC+wZUkTyJgIRJnISgpzKudgkN0Ex2R12KoXuMmKL+gOvKpGdJ61vkIZoNAx9dZxpYsTKgFx2pDpcPO+4uCW0/m66IMb6+X/U1XoUbzE=",
+  "URL": "https://git.kernel.org/cgit/network/wireless/iwd.git/",
+  "LICENSE": "LGPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1592776318",
+  "PACKAGER": "Christian Rebischke <Chris.Rebischke@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "glibc",
+    "readline",
+    "libreadline.so=8-64"
+  ]
+}

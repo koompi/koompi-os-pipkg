@@ -1,0 +1,23 @@
+{
+  "FILENAME": "firefox-developer-edition-i18n-ia-79.0b6-1-any.pkg.tar.zst",
+  "NAME": "firefox-developer-edition-i18n-ia",
+  "BASE": "firefox-developer-edition-i18n",
+  "VERSION": "79.0b6-1",
+  "DESC": "Interlingua language pack for Firefox Developer Edition",
+  "CSIZE": "493139",
+  "ISIZE": "555954",
+  "MD5SUM": "fbf5d6a406d56495dc543787555be2c2",
+  "SHA256SUM": "f4b766ba23acc75ebf2e8513c1038fdd4919a674a0fb5f9b9a764b43d3957f38",
+  "PGPSIG": "iQEzBAABCAAdFiEEYB8g8dG7v0p4z1tt9rFhCz7NvJ8FAl8IbM0ACgkQ9rFhCz7NvJ/pzggAm1U7t+i1gd1z0sod9Kwd4B+DoHuCa/Wv8Pi62IQoheRR4ffZeTbDovWXzCSPo+TT7347O1exRXb/2bUIkM33UEwBXAshfcXUlLioLuUwqZFeVYxSeToyyLf5J4Uqsx9uKNGYk43HqwxM46eulqwYefUUkL6T7qirfpIedILqJINhCtqXPTf4bjyg5Df2o8P7NiPQLlnniotAcNqui5j9U1Y02iUvBW6a9bB+72gwTEljVHSbNSpCIJr/l4EUEeckHblhkYaP/uWwIM6IAHajgnORTG4nOnOoii8GxY/A/C5GFtKZxqPf1m3fbT/myfZP0ccFzJKU62l/g7lZ15J0Cg==",
+  "URL": "https://www.mozilla.com/",
+  "LICENSE": "MPL",
+  "ARCH": "any",
+  "BUILDDATE": "1594387381",
+  "PACKAGER": "Andrew Crerar <andrew@crerar.io>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "firefox-developer-edition>=79.0b6"
+  ]
+}

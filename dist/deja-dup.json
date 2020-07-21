@@ -1,0 +1,29 @@
+{
+  "FILENAME": "deja-dup-42.0-1-x86_64.pkg.tar.zst",
+  "NAME": "deja-dup",
+  "BASE": "deja-dup",
+  "VERSION": "42.0-1",
+  "DESC": "Simple backup tool, that hides the complexity of backing up the Right Way and uses duplicity as the backend",
+  "CSIZE": "633959",
+  "ISIZE": "3189929",
+  "MD5SUM": "81850d4cab6d47146a5e47cf23dbed5f",
+  "SHA256SUM": "5481248a7958617ac49936afce812629817b1a162cd38aec9004bcb37f7542ca",
+  "PGPSIG": "iQEzBAABCAAdFiEEzgvecadZqH8j8PfYth284QkBwWMFAl8IyoIACgkQth284QkBwWPz4Af9FHPPKNtV3WRWzGuteil4S5Lz1F4AbPpAOOKB3K0vdNoPGfBCCogy8o7/3iACVCwcu9wOoQJCvkwzt07XW/3R2st/ehvi0Pbp8Moa3UNFZpN+95VUZRXCaOX369ExnWYAuAb0bwjcU1R81GT8qx2XgpeWzoS2p/l3VeBiJNFDVWLiGIfzuYdaioo53p7qKwEQLyMzAAxujJjh1pP5IZD1O/hMVCrPDc0jewy1Ep3Q/EGWPadq2+YhjPF3A/EXL2o1KNjjDpIKNuZ3mHW3gwCZq0NdetvdCKhT7Ak0revAyJe8QBjsetFBTkb3GEoVsPHm4D1raMhtY6WLMx2fOqeosA==",
+  "URL": "https://wiki.gnome.org/Apps/DejaDup",
+  "LICENSE": "GPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1594411540",
+  "PACKAGER": "Balló György <ballogyor+arch@gmail.com>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "duplicity",
+    "gvfs",
+    "libhandy",
+    "libsecret",
+    "org.freedesktop.secrets",
+    "python-gobject",
+    "python-pydrive"
+  ]
+}

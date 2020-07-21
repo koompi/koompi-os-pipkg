@@ -1,0 +1,23 @@
+{
+  "FILENAME": "python-rstr-2.2.6-8-any.pkg.tar.xz",
+  "NAME": "python-rstr",
+  "BASE": "python-rstr",
+  "VERSION": "2.2.6-8",
+  "DESC": "Generate random strings in Python",
+  "CSIZE": "18604",
+  "ISIZE": "83001",
+  "MD5SUM": "7868dc652f8283c40ead7158b519245c",
+  "SHA256SUM": "6b034dad5d2a00e65945ecb33d7d6dabaa167b53f3ddbaa45a361c39d7fa80d3",
+  "PGPSIG": "iQEzBAABCAAdFiEEhs/8qRjPOvRxR1iAUeixSKmZnDQFAl27HMMACgkQUeixSKmZnDSLmwf/YDALSGL3IfFlB9q7fm/2BsJWi7z3Ijl+naQgHtiUkqhSTBpz4qJ7olf/GBTrw06dE/VjQegxFy5w3aTKZ8/z8CBbE9TGDArcqeijw3uUb41cNzmLfHLFzP40GXScyGUUBb3QhGzP6T+8/dOKEcsqvSdbPrbB7QWkIdOesoRY45D9TvvBWBDs0Nb8MNNWhXhUAzHWfw6qLf1Z7vI6/AOP5gVfoEp/6NvaSeISSlMz3iy9D2ZjlIGhEEeMpC4TirsK2SWKR1QikyQXCpK+T9/q2QK2TNh7qdTNpOOybjVpv/rzTbkisCsnUFrDVhpgkcjgEGAVABEuvawdQC6zb6o0xQ==",
+  "URL": "https://bitbucket.org/leapfrogdevelopment/rstr",
+  "LICENSE": "BSD",
+  "ARCH": "any",
+  "BUILDDATE": "1572543664",
+  "PACKAGER": "Evangelos Foutras <evangelos@foutrelis.com>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "python"
+  ]
+}

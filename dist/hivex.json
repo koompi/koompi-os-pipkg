@@ -1,0 +1,26 @@
+{
+  "FILENAME": "hivex-1.3.18-7-x86_64.pkg.tar.zst",
+  "NAME": "hivex",
+  "BASE": "hivex",
+  "VERSION": "1.3.18-7",
+  "DESC": "System for extracting the contents of Windows Registry.",
+  "CSIZE": "154138",
+  "ISIZE": "496989",
+  "MD5SUM": "f67977dc17f64444603166c2e7e7240c",
+  "SHA256SUM": "dd7f14f0a0f0b20c0995b0e259982bb7d1d01aed66c01d742b3192e07507daae",
+  "PGPSIG": "iQEzBAABCAAdFiEEhs/8qRjPOvRxR1iAUeixSKmZnDQFAl7vOqEACgkQUeixSKmZnDS4lwf/X3c9et9iCtDCqxLBjQ7ax0yU6wTbP5IVcSeWju/lBhObIzREXdotlfjCzUdp4av3+tpbt0jI+o9wJbia12AG7d39jDkMp2seR0IQdg6OWzbmlcr9gbWKxjvXWus0FEEWdWc5GlVO+7HVSy89tozByyqwQDFwQKQ/GP//ZiieI1DerKYzjpA5TJVFXm6LamtCMnfx7PBrkMCXZcfml/uG0A80sWUC1ACViIcWsSZ6brimbBoXXNRV9I2W5C4dyHtf4dkAvqPPpq7f+BKN64omK/w5EXimxQ989Qj1Kzmc6Gcll1pyB5YzZ6OI1yKy8ZdI4FhxNJCvO7CNf/KhZnwJRQ==",
+  "URL": "http://libguestfs.org",
+  "LICENSE": "LGPL2.1",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1592736279",
+  "PACKAGER": "Evangelos Foutras <foutrelis@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "libxml2",
+    "perl",
+    "perl>=5.32",
+    "perl<5.33"
+  ]
+}

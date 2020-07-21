@@ -1,0 +1,24 @@
+{
+  "FILENAME": "haskell-wizards-1.0.3-8-x86_64.pkg.tar.zst",
+  "NAME": "haskell-wizards",
+  "BASE": "haskell-wizards",
+  "VERSION": "1.0.3-8",
+  "DESC": "High level, generic library for interrogative user interfaces",
+  "CSIZE": "64522",
+  "ISIZE": "328154",
+  "MD5SUM": "e9e1f57d26fa9893cc73cb5489f62d37",
+  "SHA256SUM": "fe91a7feda20d7db02c19b47aa58fc94f4adee459f6421c166e86c2cbc12ac2f",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl6iI2oACgkQeGxj8zDXy5KSyQ//f2A5pV2KPKJY7prjSBlfb3DM5PwG2d5GhP3KAZ3aFwnKAfjyQ9x94Bv/C7AixSV4+qnfzvkfs1NBXkwLJ5mA7y/K+lu6htMgwBau2Xz+JsSwDxYPH8fEReqQENPPi7h2sk37DQ22VANc2F88mqSyidkYcXT/PCtMdDlOeJgRB+yV4daVj34ZAirgDxLFDVaXCAG/bEDQqnex5xnEBNA5sPUBKRYXi4wRNmyQgZsptRhOpCeBD4JOL2m9DI/tLlzBkHba2voLJU1WR8s/PBewz7PRGyMMOiYnKH5MDQdGTZZAcFXqUfHX9xE+hCWiiBDboWZh3Hst9Hv25ginM856UiRT4SV/hgWIjZY1K7zYVKef2BKXxwQK/VVehTKgoGl45vHU9O8prAs9CMzM2IpdflvlOahkdwvYz2oCACkMZ2DBEftQa1pczJcKoxp4wZzpQghCdEVHiGPr15HHkUM3IANScIZkNr2CcZLJLlA+i4n1JYx0+K8fv7Jlkb9o/rFgi48LprhbAMOMiKaX2dK6RZDqmOagLkfhtAcwO0Dy3vwIeioYvGNGcza14uLeTrn3wnCs7irmfLVkU3aWvRzOPwEJIWe4Lrb+h6bvjYsyQqewb+zyIou1yqytUvh3AQAKaWJFkFJMeIWSNmY1Xw3qzcjW8dkpXZqQQUBkXbIiADE=",
+  "URL": "https://hackage.haskell.org/package/wizards",
+  "LICENSE": "custom:BSD2",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1587684115",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "ghc-libs",
+    "haskell-control-monad-free"
+  ]
+}

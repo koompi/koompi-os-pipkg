@@ -1,0 +1,25 @@
+{
+  "FILENAME": "dtkgui-5.2.2.1-1-x86_64.pkg.tar.zst",
+  "NAME": "dtkgui",
+  "BASE": "dtkgui",
+  "VERSION": "5.2.2.1-1",
+  "DESC": "Deepin Toolkit, gui module for DDE look and feel",
+  "CSIZE": "155377",
+  "ISIZE": "571177",
+  "MD5SUM": "c7bbb2600532118b94e4e64b545a2e5e",
+  "SHA256SUM": "3231cf21c36f8609dbefb19ca05858763f4008f0cf8b693cff97e83d8f9bf59c",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl793tAACgkQeGxj8zDXy5K3YQ//eDIiw+GIeimOf7PI9XFPUJIgNeMyDwX27iDHrSOEkET1+9Kq6/aXahGWTQtdLuG/NA9bediVmQECfeLNsSYd6UTCLGSsCcE3B0z8TbRCpLt+AOc555fN6NwCsIsB3ARM6pc13S+KdqXZGiZzf6Up12cCD3hHzFL7OyojWn8sYeR7MCnjwhm0ejVrKYKOwV852df2Jg3dp6c/kaaOWvD8rM4zxgN1K/SLnSM9S8Tzov3m80QFPL0ohSzrehigB5FN/fH7mUrqrLS67mOUIbg7gK7wc9U15H5gMEL1GqoG5GlzACSlwioI/DqhLsugOVeOAgvuKF2UraUctLmKvhgbpMYxNh2sKb+nlQkUCOZAC6BOIYtYFbQPj9QUBNcRQvAXrMAew9Hri1F95BSIyXYtEqGAyMr804kuewL5p0XLug82/eeZN5l3vhfOaTwGbAgXh9lWeT8adZnRemPvCkXTfJtLQ21Y8fzZGMPiCkSdFBOqiJpxGFgs8OHh07lt6hx7yHx92HHZ40RkKycuZIXD0PIrTGmx+OsPeXyW3TY2qAK6gR9bacRrllb9IzPuJllLAkiTd+klf00d6RImcj8+f5ZexjM6jrI6sHnj71AS4f4Uuwe5Mv94JMtZBfnbx1Cgbmr61ji7ySqMQl2odPpKDTv2+WWerZWnWiSI4qieA2I=",
+  "URL": "https://github.com/linuxdeepin/dtkgui",
+  "LICENSE": "LGPL3",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1593695904",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "dtkcore",
+    "librsvg",
+    "qt5-x11extras"
+  ]
+}

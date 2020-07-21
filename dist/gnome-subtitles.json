@@ -1,0 +1,26 @@
+{
+  "FILENAME": "gnome-subtitles-1.6-2-x86_64.pkg.tar.zst",
+  "NAME": "gnome-subtitles",
+  "BASE": "gnome-subtitles",
+  "VERSION": "1.6-2",
+  "DESC": "Video subtitle editor for GNOME",
+  "CSIZE": "383200",
+  "ISIZE": "1875021",
+  "MD5SUM": "a5b2e33d7d1df679ffd3e9a13a7b53bc",
+  "SHA256SUM": "7a1826958fed59755e57ad913d062af9ff6e1eeda1914c3afab9e861c43e53d8",
+  "PGPSIG": "iQEzBAABCAAdFiEEzgvecadZqH8j8PfYth284QkBwWMFAl7Pd9EACgkQth284QkBwWPD5Af/avw0PfizXn9PpWEK51XjiqMSmVUAl8lPTeaowYLIyhUuoSNuwhvPqqeK+6+trsHj7XRoZKOOrmMLSKpBde6GfEuAikuGkfNICjBLrsrdxEKJQOB4Eo1iPKrd0U2yt80dYoiRpjusAi3TvPEIB7lnGtDM/VKuIRd9YiwhrjViO9ZAYBX6K0H3N5ZDHahPCWkd0/f7bvav/1Vf9h0YGRCMb+CicOH8b15yZPLg1yFgzClEZU8nsZVzCHvW1e3f/3wnnVguLnzXiEm1/kjoGNvOUZ10fYpvQLpldxIxqAnxPON3kIr6mIxbpci23tMauC0AfoLwsUwTFineAFztVlCXpw==",
+  "URL": "http://www.gnomesubtitles.org/",
+  "LICENSE": "GPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1590654884",
+  "PACKAGER": "Balló György <ballogyor+arch@gmail.com>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "gst-plugin-gtk",
+    "gst-plugins-base",
+    "gtk-sharp-3",
+    "gtkspell3"
+  ]
+}

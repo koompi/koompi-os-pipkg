@@ -1,0 +1,23 @@
+{
+  "FILENAME": "zita-jclient-0.4.2-2-x86_64.pkg.tar.zst",
+  "NAME": "zita-jclient",
+  "BASE": "zita-jclient",
+  "VERSION": "0.4.2-2",
+  "DESC": "Create a Jack client with a few lines of C++",
+  "CSIZE": "8338",
+  "ISIZE": "21647",
+  "MD5SUM": "528763a3b7c05ef515858dfb1cd23fc1",
+  "SHA256SUM": "ba4ab3e4e631648103b649c5e9290d746c521ad0bd1bc40067dd9609bd2b50e2",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl8EurwACgkQeGxj8zDXy5JEdRAAr9mMxtKpGAEIDC7EmPyhhsuFBLrWt2+P4CUdIpsK7kCSi0Nsl7slgg/rMbEyAKYW9NxlIenHG1CAd0VGyJYCZrFsZq/TL6GUxdbevPTOvL4lVYGUOHEiuVznFLFDOs2Q0PvzU0DH0riCpD6c6sOVoL37+wPNuoAYQMHqDmXBwVDQ4237Ijc7B7E3RMhiblQqeAY3QpA69+iXLpTSRbH05IUTa/4sq/Gps2FsvRW0o17Yn053v9/cauzb8OzwXREspJpiy0F6jaStBW2PGWYnExKPF3UGNS8I/Yld13NoTV8i+VbqC7PST9H5PAAQDge3f++wGdbp1UWrBWqrvOvyz7Yu4KZMjTnaGhSx9WCVgqfYDLE3uxv9w3V+lhfwLlQt9Qox0HnZmQv9nSlm7XvoXVeOEPzNtlNtNc921LUygtitoZ7eF33QdMYGKl4WVups0rM5crj69lstWPmyMuiPq+kKllMZU+MA9pT4iyz6mADXLDd8Vli1hqKspIGpv738hc4eeKWR54ANfYVRJqKbobP2cztO/jXaD+t3H13oV1gCkIpS6ZlBbjG2UdKj04TfN52p8dnPyA9g48Iyx1iP//93IaM1lQi10HZiHZOT0ZnND1e5/UdiHEI/iyQb5JjHLpWvQgKlwHnVsDLpFhAI2dli9vwFOC10XVxoGeCOT94=",
+  "URL": "https://kokkinizita.linuxaudio.org/linuxaudio/downloads/index.html",
+  "LICENSE": "GPL3",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1594145430",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "jack"
+  ]
+}

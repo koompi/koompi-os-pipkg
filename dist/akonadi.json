@@ -1,0 +1,24 @@
+{
+  "FILENAME": "akonadi-20.04.3-1-x86_64.pkg.tar.zst",
+  "NAME": "akonadi",
+  "BASE": "akonadi",
+  "VERSION": "20.04.3-1",
+  "DESC": "PIM layer, which provides an asynchronous API to access all kind of PIM data",
+  "CSIZE": "860697",
+  "ISIZE": "2918192",
+  "MD5SUM": "af6d3194495c233ed40c6dd44bcfc592",
+  "SHA256SUM": "4c527e7f8ffd8d2b13f1d5b4c30794a9be51a9229c114bea6464ccf19e6bfdf7",
+  "PGPSIG": "iQEzBAABCAAdFiEEFRnVq6Zb9vwrc8dWek52CV2KUuQFAl8HAucACgkQek52CV2KUuT7AQf/Y/7W4C5HWVMIz063G6G/ry1qqrYbRGiGpzwk9JSJFITSGq3j51TeylP2PUKoA2GhZKibeXl40lREYneNb5iyGHopQb6WpzPjOFVeJAq1bXA3aPW83Yph8OuGbv4dBQvraoZ3h5JXZfPTmMJsUwCk1iMQPKYRII3usd/2KABDkUn/RqsXyHqFo9juDE3L9rACt/mDPylEVPi3l+Ojbwd8djHGRMYggTyAk1s5dJO61aoo5B/tpiI9pJ4Hh94YtwZKrLw2DDX5s4NTEhHbOwKp0i9ZVzmbrF2oAjILPbUXtlpUooCfkm0r7GTF/y2pShbxjVNt8V32wHIIPzd/0w5yqA==",
+  "URL": "https://kontact.kde.org",
+  "LICENSE": "LGPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1594119683",
+  "PACKAGER": "Antonio Rojas <arojas@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "libakonadi",
+    "mariadb"
+  ]
+}

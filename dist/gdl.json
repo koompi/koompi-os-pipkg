@@ -1,0 +1,23 @@
+{
+  "FILENAME": "gdl-3.34.0-2-x86_64.pkg.tar.zst",
+  "NAME": "gdl",
+  "BASE": "gdl",
+  "VERSION": "3.34.0-2",
+  "DESC": "GNOME Docking Library",
+  "CSIZE": "289466",
+  "ISIZE": "1808635",
+  "MD5SUM": "e7c862242e8b9b55d3f28fe95e21f5df",
+  "SHA256SUM": "d59146fbc2113bb1e7df40dccd20d00b2cc8c5dad82275466d0f3d7ca3a76d94",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl7DnasACgkQeGxj8zDXy5LsTxAArmjGtlhJvde52p7jt/hBcM3CPGmb718nJGtjhbYfFbBSjlWoYrZPTVp9RLjI0I8nrA1t1WdAdYTZRCm34KuCYPCdxed57uPmdAU3lg+LWwCLEH7nbfKFESGf+sxNnm/PZJpL8fl7bowB7J6EnLqNm0fD2hZIlork6OGJ3CKpAfmNc5llIZEI2mdrKUMVNHLkbRjMZI/YfPSDlrrld59AhgbfQI97dGLAg7OnBtVmU+3j7xseTBfQHFk5Dhvkl0VDa9Sjlelk8FMnGPwri4S4UjStRYdnDX48Onnx6bggcMKaKmu4rGQCUvx7DDkA7k6h7Y9ktJJJJea5U7mjabF6GojbICNIzGLhrk5mVIlOH87GEB209CZkgfkTEv8O9UyJcsZdy8FFulqQp5qdjgcuxKnCxUsXTFJDX6Nlb3jnVoTerZKrI2O9czsaLh4itg7UFCnpv3TlnFvnqeYbl7MQLPVMc5iREbR8iLQjZO12DPoVG9F/VcmrGSmYIfF27Z1tl4mYoceLC7hvd4t+KMWnXYk+XyUlIODbnMzoVpYpYysJXTcuEwZW9Ul99uaigSkhL1G7D4LuK98o43VVDaFAI95blp5VbHWfuffqyaIBgayKEvvcnOWvmKtK/+lkGbiYEpp1a07iSs4UTF+BgtqeOmVwQ6Be8JUdUUBre8LiaHY=",
+  "URL": "https://gitlab.gnome.org/GNOME/gdl",
+  "LICENSE": "GPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1589878118",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "gtk3"
+  ]
+}

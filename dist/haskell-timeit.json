@@ -1,0 +1,23 @@
+{
+  "FILENAME": "haskell-timeit-2.0-12-x86_64.pkg.tar.zst",
+  "NAME": "haskell-timeit",
+  "BASE": "haskell-timeit",
+  "VERSION": "2.0-12",
+  "DESC": "Time monadic computations with an IO base",
+  "CSIZE": "11192",
+  "ISIZE": "29496",
+  "MD5SUM": "45c300f89809a4e11d5955e7a4999261",
+  "SHA256SUM": "3a229753d463445d07a35fe91fb1db8e6a447bbf9be285a9188b78b88cf786ba",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl6iGf4ACgkQeGxj8zDXy5Ls1BAAuzw4zC5nxAJVqzUo4DVxeT1YgP6wHyTXYRWIQ/TOPkjDF6c29VODdlL0sbOwUWEcXbJd9MYjB/5HRyhWymLWaHujxH3OipqVWhyeCVfrqAal5oJYKH3jvM+5FOirnSpSVmEhHzTivHX0LIjtma9AFWUYeNma+QJdv1gB5HvG0dW26REalD4nOW/OkWwQkJDWPgDGoPPC5vkKN9hNshpfOO7MT/52rCs+OSTqjqzRUgycNgUImk7QBSeI5ck4HedoQDuauRhePjUtvBfdANIvnNu1FTafF1oboXafmGaJVjGq+ggIqvdsBTQ/GJlF8nng32SYmtBzVub8Cp6tE/Q9qPtgyn5c+nidbKeTa9xMZ91v6VGfb832wpjDI7PsI9XvWxHtP1vz1scveLjrb6sS/6UDrOQX6wnBa9UO/nt4R4dOvFPLUUiqgh5F6ImtONGhrWMWfFvqSyw4nPOj5sCkGmccau2pZ9IAQNtqXv7k1P7aPa8J0Z8ss80v0J6GikOfVUDaAzfO4MrBKOKge7MJCuSbKcog+MCR6S5vPd2rFvYG7MUdvo0TmbwBZqH++01TRpiO0y3qumNVUsAFPEqpJ7kVH62jRWYeMjFu3MFfuwIWrrzwceWImqCXuSntwXK43R79tfjezfQYCLGLE0cyUAn+BUprkV2MOsREdPIws24=",
+  "URL": "https://hackage.haskell.org/package/timeit",
+  "LICENSE": "BSD",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1587681704",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "ghc-libs"
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "FILENAME": "libstrophe-1:0.9.3-1-x86_64.pkg.tar.xz",
+  "NAME": "libstrophe",
+  "BASE": "libstrophe",
+  "VERSION": "1:0.9.3-1",
+  "DESC": "Simple, lightweight C library for writing XMPP clients",
+  "CSIZE": "68168",
+  "ISIZE": "315375",
+  "MD5SUM": "8f1c0b36622d3ca09ba2d7b91ba40928",
+  "SHA256SUM": "b4a880f37c954060e24843650033590fa3381e967dbed56ca1104a812a7d9300",
+  "PGPSIG": "iQIzBAABCgAdFiEE4kC1fixGMLp2ji8m/BtUfI2BcsgFAl3J6ScACgkQ/BtUfI2Bcsj3Ig/6Azcn/YK9urzN9ad5kzRDnMD6ByASdMy7IsD0ELoaWSTOW6FPcsgZC82jgtjYJn8o2XjtgGn+RetZnSRPNwO8XfyrXIPc2dDxk9PGHd36Ykpguj1qkscdLCLRqFLvaty8LwNq/RxxXZibn7nUvdL0dAPEefEQENKsNye4AQuCDj84EY8kpM9JFi1GnRZnTzblFBM8Hwu5FEqVdFIuzsMULC93NJTBUPdYpA2taH7cMu4DfyGYHdZSAXFZEZs4RwqxqPs5c3vZmRSoRJSyMjXQpGLSKUAZPDDXv0OEjqYFU+wsYIXwxg5XlpqCwDNayroyvdCvEDxi/uG/r5jAJcWmSvAdcgCDfFIpEg+6GdxTWfUoHJC4Njgs/EvUFaE0H+IVGQxn3Zl7/gRzi74xwEKByea/S4ocv/AhR0f08mM0XcdeeoJ+cvIJ2FNd1NmUE2kGnEm3VbiJEvQakrtQ9aGdpLEzt8h2fIx9iEqKCWoX85JJxVebz037Ah06dJpojuVNq1OlfRU+tFqcxzzcSHh9ab6WHPXVzL/iaWBppq5jv+BJPEgWzWzywpU9SVelNtyynhDHmKhqaQRjOLv/Pubj2HFCXBIoClDlVrzzR3y1/tpFsp0MSI7bjMlhob+nursBMRuyt1hcaqGQHmSqP4NfO1h8j7bg2utVIbK5SOCy8zY=",
+  "URL": "http://strophe.im/libstrophe/",
+  "LICENSE": "GPL3",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1573513401",
+  "PACKAGER": "Levente Polyak <anthraxx@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "openssl",
+    "expat"
+  ]
+}

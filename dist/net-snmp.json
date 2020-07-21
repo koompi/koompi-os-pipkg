@@ -1,0 +1,27 @@
+{
+  "FILENAME": "net-snmp-5.8-6-x86_64.pkg.tar.zst",
+  "NAME": "net-snmp",
+  "BASE": "net-snmp",
+  "VERSION": "5.8-6",
+  "DESC": "A suite of applications used to implement SNMP v1, SNMP v2c and SNMP v3 using both IPv4 and IPv6",
+  "CSIZE": "1873425",
+  "ISIZE": "8139140",
+  "MD5SUM": "741f887fed3804a55620cb91f7aa3ae8",
+  "SHA256SUM": "5b608dd44aaaea4c556871ca5aa2d25d8323216aa54821da87c81764677a7482",
+  "PGPSIG": "iQEzBAABCAAdFiEEhs/8qRjPOvRxR1iAUeixSKmZnDQFAl7vPCEACgkQUeixSKmZnDQcLwf+MnB98nFs1f8HgxfK9UsraVtj2Z1PBKko2+44sYrnIY6Ij0fUfk4VH+blmxkmxMeRBTLit0Oo8+Sodi8sdFAAj9whR1ZvP12zEimFUCRFKaQEt/Aku80RVDtU09LaTam9cBsTKvPJED8J8RvnN7t3nsbIyJ/sCZvQheKklxU5P2IaNVdT8keLRvTlEVbwUlYL7U1Ies/U5NxzAdoIxkyQO9xMdL9oLDYwYZnZ2qS8uMkw9J7P+5EudVleWVLwjT9lzUah++xVBS4FeBLNCPQnePmZd/Akbwnsjr4ZxcPWrk4Rja6/qsEyvMQBMU4inJ4kOLZrYSJLqcjz4DJgcU8TDA==",
+  "URL": "http://www.net-snmp.org/",
+  "LICENSE": "BSD",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1592736397",
+  "PACKAGER": "Evangelos Foutras <foutrelis@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "libnsl",
+    "libpcap",
+    "lm_sensors",
+    "pciutils",
+    "pcre"
+  ]
+}

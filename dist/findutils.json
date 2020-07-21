@@ -1,0 +1,24 @@
+{
+  "FILENAME": "findutils-4.7.0-2-x86_64.pkg.tar.xz",
+  "NAME": "findutils",
+  "BASE": "findutils",
+  "VERSION": "4.7.0-2",
+  "DESC": "GNU utilities to locate files",
+  "CSIZE": "465464",
+  "ISIZE": "1658139",
+  "MD5SUM": "c023971ff77bd318480c67981c08cafd",
+  "SHA256SUM": "62ce7429cd5162fe8cf1fa9d652ba2ab3b6c027f4850b503e00250bd620e1ec2",
+  "PGPSIG": "iQFIBAABCAAyFiEEZkWwqMcAXnjbHXhk+Z/+D+rpmb0FAl3KqCIUHGFsbGFuQGFyY2hsaW51eC5vcmcACgkQ+Z/+D+rpmb3DrwgAh9cFtszmDsEjSyHJpBYynlAF1p1GoXfCyCczk5COQBrIDpVUwX51trPjukf9241V3StBxxcuH/ysOLpojRn0aLr1fDs1SnoBD1XQ4oWMFkH2mlAXCUb8RBYaTCdqHTEs3uQ+WZlErvKeRTtw2LaDEN3AgCyGd4UFDY0QempZlg5YwAWF13N06atRWZgRO1YA+lyKvh54z/I1H1ip8JkTtnLMi4dppRjY6DElABckXq9AR1MSo4mwYdGdPQS2Yv7TEjJ3AC2KLUH1TR+Ju11JXQNhS90OCAibcD0VNMUWTehUWlvZclxCKDfrJnCivbetvy5Cd5IXhcPumlFGCAto6Q==",
+  "URL": "https://www.gnu.org/software/findutils/",
+  "LICENSE": "GPL3",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1573562228",
+  "PACKAGER": "Allan McRae <allan@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "glibc",
+    "sh"
+  ]
+}

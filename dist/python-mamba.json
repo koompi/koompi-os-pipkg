@@ -1,0 +1,26 @@
+{
+  "FILENAME": "python-mamba-0.11.0-1-any.pkg.tar.zst",
+  "NAME": "python-mamba",
+  "BASE": "python-mamba",
+  "VERSION": "0.11.0-1",
+  "DESC": "The definitive testing tool for Python. Born under the banner of Behavior Driven Development.",
+  "CSIZE": "33691",
+  "ISIZE": "141250",
+  "MD5SUM": "1be182044cc57e4e271df22212825ee5",
+  "SHA256SUM": "00f3f73fcb88775787c4b47c1d57a1b97c4ad7ac053549e804e868edea8c256c",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl62UgsACgkQeGxj8zDXy5LHng//bCHlVYd+rzTINh73nvuvulqh7jT7/4NARAcjiOyLTkinkVQt4XyXpGYgdh7YMRQ+8ISAFGradf68YEXwOgFpTZ0wpXj9lVAuadKO0Q0rnuMk6ivn/9mr3qNaVo9Mf9u0JN4laga/05sRLLgdtS/eOUXRL/ifAwKttAXyOCB/OG3Q6tc0GKFKMUShlADLUFr7F6Ucnit4FzPCDfStUlORCsAQzzC14BBemHPY4s56SNxQCpRSj5AoS96zQEn/rU197qD+agQIfljv0H8p3RevDQGhkzf0bBMjNCQKH98qyTc727f7SQgsrUYG6EFoKcUEC5CX5udK4sPQHkAPpFtn/0qRu43cHia9Lt9Is26OyitU88N31yTYGuXabO/8TlY4d3Hqt3wxpnKg/c6JvjUEh7vFa+PPHbkETwhxMk3/DHfDjaiitODYRTeFCrYJtCr3lZaT7xP+ZDYNgX9WYbizwXX2OuQW6B7SGGtNimRiEB5TQKYuoXlewv208UynLIKKOf/IV1Fdw5Ro1j4wetq7i9hlmBYaxuwJ+dQSKUsOYC2UoJktrED7q84zm6UT4ugt2tp63zNoa6/I3B7AYffTrt8XVsxd5qYb+H4bF3gNurt0Pc3nq19Aix+B3YCdFjxJ7ozOVT14rRTh6cywmHsX1SAHphFLkIGnpc12S+o7GRc=",
+  "URL": "https://nestorsalceda.github.io/mamba",
+  "LICENSE": "MIT",
+  "ARCH": "any",
+  "BUILDDATE": "1589006813",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "python-coverage",
+    "python-watchdog",
+    "python-clint",
+    "python-setuptools"
+  ]
+}

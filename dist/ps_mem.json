@@ -1,0 +1,23 @@
+{
+  "FILENAME": "ps_mem-3.13-1-any.pkg.tar.zst",
+  "NAME": "ps_mem",
+  "BASE": "ps_mem",
+  "VERSION": "3.13-1",
+  "DESC": "List processes by memory usage",
+  "CSIZE": "10862",
+  "ISIZE": "25280",
+  "MD5SUM": "81491c0b068d862827bef69da285ec9a",
+  "SHA256SUM": "61cafaf6766cff6bb612b5a9b9963a970d30101e550f62050a5cf804c2325d6b",
+  "PGPSIG": "iQEzBAABCAAdFiEESMOx8w3dD+Z+UW0WOW4+JbqxQsEFAl5gSRsACgkQOW4+JbqxQsF91Qf9E2sDSgzGXQknMkglNp056Gmw2g1y7i+CeKFmnCmkcPKXcVmPNMzVCrm2mdc4teVT9p1QDSm6VIgrRI88gEXRXqsMYad79XeRApEuNjXDmPgy6cEK6zD2YbNdbZBIXRcER2ezlf6osB4mc4zcEp52Q97LpeuwSgJU5lwzKfqHMhG7cCJF641iGC2u9WkTLWCUDIpyS0OdNmgB9PnAlSOYPui2nV4zJWUphiwik30MN+8QpCmGSb09ahsbzXuCmrsSluTHcyst1fjoD0hexarsR7Z2BXe2mFn6r5jC9FgZD7e00bo+nurjoExVD5Y7NVNh4AaVgDDNFbG8fmqBaPP1+A==",
+  "URL": "https://github.com/pixelb/ps_mem",
+  "LICENSE": "GPL",
+  "ARCH": "any",
+  "BUILDDATE": "1583370624",
+  "PACKAGER": "Kyle Keen <keenerd@gmail.com>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "python"
+  ]
+}

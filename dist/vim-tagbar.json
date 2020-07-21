@@ -1,0 +1,24 @@
+{
+  "FILENAME": "vim-tagbar-2.7-3-any.pkg.tar.zst",
+  "NAME": "vim-tagbar",
+  "BASE": "vim-tagbar",
+  "VERSION": "2.7-3",
+  "DESC": "Plugin to browse the tags of the current file and get an overview of its structure",
+  "CSIZE": "52740",
+  "ISIZE": "229479",
+  "MD5SUM": "abb1f156ed1ff91de6cbf98f4a3e24fb",
+  "SHA256SUM": "27deb144c78460130250837cb185396bc32527e41baaa7e2b70303fef536f663",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl8ElgkACgkQeGxj8zDXy5JaLBAAlvinB3ykhDih+AWjzcTdqKHAEBnk0mw75SPa9gQztKjFu6W4vqyjjFu2Kv3OeNQMtxnLFFAej9pJux+qLkZCfsk7DMABJ/mJ5NJl7MeKiRpnqnSJdYoeEikLmvaH5dZMjb2opt2Ch/UzMiW0wfbJF6KaXGTLmrhfEd2uH3VmEdSRNnqAJSW4Fci7qONjqRuAs+CM9MDCYtiCMW3AXcQHME0SVz43cp6BfIG8CfuV6jLKM0DpudQSRAE33G9PVqgZHUiXf1IoBLsW38Q2uuwgpvWoykBEO7r62Bxv1OYgSOzgMtObyRKhMZbeaGXOoaPxqL7H0PmVjQrfBqjE7PaW5cuVmpqy4NNbqHNhOjyhZPDJw2kARxWNaNA4xHOGY4MdEEOSn4R0VHBAQOAEZSkgMHKsjcKf0pmV6V6e16DX+02OQvrLcEkNFsAjfO+yoQHd6ywbR45ck7S6ytpI+wW7Q/IW17/UDj2D308KZl0RxrWaSgyI/oC+eHt+UWd0lAhOyMBSwfACphrUapFcUtLx6PeyuCr/bUoHCxg16+Ym0vEEXEZRJzG6yYbSMbVSONuVDKdNP1ae94ZvvfEjlRY9O+I6C1BHdn6wT6i4gSZbkgo2frcikazhstX6Xi0pK6rh0Ymk/IKbmDbnpnJa3T/B/9BoS87DSR9s13K9K2Z0Kuk=",
+  "URL": "https://majutsushi.github.io/tagbar/",
+  "LICENSE": "custom:vim",
+  "ARCH": "any",
+  "BUILDDATE": "1594135792",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "ctags",
+    "vim"
+  ]
+}

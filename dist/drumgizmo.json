@@ -1,0 +1,31 @@
+{
+  "FILENAME": "drumgizmo-0.9.18.1-1-x86_64.pkg.tar.xz",
+  "NAME": "drumgizmo",
+  "BASE": "drumgizmo",
+  "VERSION": "0.9.18.1-1",
+  "DESC": "Multichannel, multilayered, cross-platform drum plugin and stand-alone application",
+  "CSIZE": "530384",
+  "ISIZE": "2236907",
+  "MD5SUM": "606bc7a8933d17c629ee0eef199329bf",
+  "SHA256SUM": "729b02469086bc9caafab2a0f9c270fabb227ee2bdb11ec01eca34d226397146",
+  "PGPSIG": "iHUEABYIAB0WIQTH54SUZv4jWDQ1iDdyWHNLQcMVSQUCXbINJAAKCRByWHNLQcMVSY0LAQDVC6wun2t6XGF7jPuE89EkDkFr32aSQgCj6s61M6jTIQD9Ea24t1UmOvQK1vhLjsq1Mi6FweeFeXche2fgnNKOGAQ=",
+  "URL": "https://www.drumgizmo.org",
+  "LICENSE": "GPL3",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1571949549",
+  "PACKAGER": "David Runge <dvzrv@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "alsa-lib",
+    "gcc-libs",
+    "glibc",
+    "libjack.so=0-64",
+    "libsmf.so=0-64",
+    "libsndfile",
+    "libxext",
+    "libx11",
+    "libzita-resampler.so=1-64"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "FILENAME": "libreoffice-fresh-dz-6.4.5-1-any.pkg.tar.zst",
+  "NAME": "libreoffice-fresh-dz",
+  "BASE": "libreoffice-fresh-i18n",
+  "VERSION": "6.4.5-1",
+  "DESC": "Dzongkha language pack for LibreOffice Fresh",
+  "CSIZE": "2909211",
+  "ISIZE": "27527609",
+  "MD5SUM": "b5e80a95f12644bc0417d63cd622b356",
+  "SHA256SUM": "866c722bf37427b44b5fa44ba240fa7402f9d4afbe54c984c4e666fe9ebc577e",
+  "PGPSIG": "iQEzBAABCAAdFiEErcih/MFeAdRTEEGelGV6sg8qCSsFAl7+FwMACgkQlGV6sg8qCSu6MggAuVIoLGyLak6tMDQeg9WKIJAREX0QSgbzDKO8jIkiDXM9E/+FOm6j5a4Hw6ywkN/IrYl5WrmgNH8jAKetOudOGwajHiAGWfg7dPcLZzA0e4zKkRKqclPXPUyHeKkuszoJQBxnzvuaSuWlJg957Z0tQZ5Ek+Q6J/r4GivDAt9XqmuaWdxGOpL9AxL9/s0M86gJhxx0eh4iZJ1saJGeNCjk46OSPUsUUlEW7MXO4hHV/muVExgzm4h6EhYP8rloyv46eXSqQHqvivwwTNFON952wpJ0X1kP8TYkym1KaSdT4L8aHhO5XXgPZFBRSsJjPGUOTmloOaKwVXZM4/+8sD/T2w==",
+  "URL": "https://www.documentfoundation.org",
+  "LICENSE": "LGPL",
+  "ARCH": "any",
+  "BUILDDATE": "1593700315",
+  "PACKAGER": "Andreas Radke <andyrtr@archlinux.org>",
+  "PROVIDES": [
+    "libreoffice-dz"
+  ],
+  "DEPENDS": [
+    "libreoffice-fresh"
+  ]
+}

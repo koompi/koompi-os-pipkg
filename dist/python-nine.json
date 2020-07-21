@@ -1,0 +1,23 @@
+{
+  "FILENAME": "python-nine-1.1.0-1-any.pkg.tar.zst",
+  "NAME": "python-nine",
+  "BASE": "python-nine",
+  "VERSION": "1.1.0-1",
+  "DESC": "Python 3/2 compatibility library, allowing to add py2 compat to py3 code",
+  "CSIZE": "14143",
+  "ISIZE": "44457",
+  "MD5SUM": "6be2b0a280d3bb56d8c67bfe147023f2",
+  "SHA256SUM": "a2b0f5776b9a407fab4bf48bf2bf72079e788928beb797605a60e1d5c8bd4384",
+  "PGPSIG": "iQIzBAABCgAdFiEEBR6tamFVOJ1p2gLl63Y7Tp24h6YFAl6gMZUACgkQ63Y7Tp24h6aJFg/+Ous7SREvDdN9kLX15BgM1mNJh1Qqxq9C6Z0+sCpj2tD9QcT8Gq4mwpmzdFdDV7YOfg/lemS1SH1EIwiOGJuepkuU4AXHgg/z08YGU3/oxADW/yk/3nrjeSHJ/w8pvRwqKEjGJfrR5s+PsEWYsm0Ej9Mt4PRFukjw6E1qxd1JdY6somA5lnTm6RWp8ktDxaxy/hXgypJ4UpBsIS1EwHGTBECfkFXlz9BZwZDNPmlgxQ6Urt7pCpv85R1WrcO+fna6+rsvwea4XJwQ0Gfhx1YI1UiU5FL7tjY/deuT6qrZr9K+KHbx6ANwlsyUdUHQbuRjXT905DOfMvpEHWm91/+0F9NiB51VP6EzhPJ8WpGanvi0xu8NxHo1HfeHuINjdHQ+iB+2G72L/hKhhFQBnr+0kcKN+ogdiScK561I22v9u8+gI1rNzWZqXP58bEc1I3AGxXm75nxhl7HSiYbycmYmJy4gErUAwAcHX85WHkrwkqtnMwlQh51bYIFv9nWZyVP8PXekOfG1L9fK8HbFZqFQWZiApFkm2op+pnHZERqzj2rM9WTIWG7iGKILWnqsF5gEp7E4lX8vhjkjORZbEKlZbwyyYFnH5Ez/qz/w0v4bDMjZwPcnsPAtL0Q2PcWZqUIz5mJTViHruyAupC3u30X6baMW+d1S5XVK6K4849edlIg=",
+  "URL": "https://github.com/nandoflorestan/nine/",
+  "LICENSE": "custom",
+  "ARCH": "any",
+  "BUILDDATE": "1587556724",
+  "PACKAGER": "Thore Bödecker <foxxx0@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "python"
+  ]
+}

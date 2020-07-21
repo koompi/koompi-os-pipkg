@@ -1,0 +1,23 @@
+{
+  "FILENAME": "stlink-1.6.1-1-x86_64.pkg.tar.zst",
+  "NAME": "stlink",
+  "BASE": "stlink",
+  "VERSION": "1.6.1-1",
+  "DESC": "Firmware programmer for STM32 STLINK v1/v2 protocol",
+  "CSIZE": "91129",
+  "ISIZE": "306452",
+  "MD5SUM": "3959f1da68b2dd844787f9cd9c42f562",
+  "SHA256SUM": "9111bf2cbe6fe7ceb0229322255caf012441a863348542acfbfb52744f2ce3b6",
+  "PGPSIG": "iQIzBAABCAAdFiEE0jW0leqs33gyftiw+JPGdIFqqV0FAl7irpUACgkQ+JPGdIFqqV22mBAAti/bbPAb5BNOwUDpz/wtzbmY3/M4cz9OUx2gPKWqiodSSWhs/qbU/wA+M4WmMWLPb+WLZQshEo3jt9PRoWp5/pBRPY7V0oikijh2DXqOglCxalbeeNdzChkn9h6DtiLmSboxQ21POgeWhZUQafURAsiXLq7188wKm1X4OVkKTAoZ5Nyr8Lo1SkqBsY9auV78QQdLmKRuXHJdvThjQAL5C8AiPVSPVqyHJ4ZgOGhNrw0QbRHZ0rrM07F9+hgAjbvq0T88xYzA13ltVUVZgFIhf34dOmku2lkm5wBwZ8pnJEO4TZkxSzXLS4ZrpmnLIPABY+8iOEV3uaW1qnei8gdDCpwAEbD6atxa5QeAsoblQ+UlPfUGkZMModeJknm6fqtGMtrNd0TkbCnFXuthDvPIZOkRtt/9yHQ8gdXMxWO0aOXtTEBf8LbX9fyMNfVrQlA4eN1gj8Zt0ew5ElMDcFrNJZSZ/3BLPdN96OTd542v4zBBApqMjGIL7T9nRvU7mWQJGk2qNBwP3MPgskSEPfMmtl2rdqjReWAmMMS+Ka594HeksfbRwuF+S6fcUzLkUv/FTp9ck0eCzbCsn3MbJFjpLLWYnJO7iCMVJyBlkwlKkqmH25dMTSCdSvRK6pU7uiixZ52bXCiTMvChfKkldqKGOEj7mjlX2/fLTXBHEtB5AWs=",
+  "URL": "https://github.com/texane/stlink",
+  "LICENSE": "BSD",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1591903396",
+  "PACKAGER": "Filipe Laíns <lains@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "libusb"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "FILENAME": "python-pyinotify-0.9.6-7-any.pkg.tar.zst",
+  "NAME": "python-pyinotify",
+  "BASE": "python-pyinotify",
+  "VERSION": "0.9.6-7",
+  "DESC": "Python module used for monitoring filesystems events on Linux platforms with inotify.",
+  "CSIZE": "44371",
+  "ISIZE": "245488",
+  "MD5SUM": "e3bae7f7c19473426ee9e3a7071d4291",
+  "SHA256SUM": "36b9699daa8e934ac865bcc8e825697530b231d8acf4c322698070ba807a7208",
+  "PGPSIG": "iQEzBAABCAAdFiEE5JnHn1PJalTlcv7hwGCGM3xQdz4FAl5Fhc4ACgkQwGCGM3xQdz7jOwgAq15cTv6aY90/AR8cb7A/eAVyR5uwrdaMttzqybm80ksqFjQTxc33Ye727ps5Y8f6eCzqn5wyN+V9HBPtUMYREf3IrpQnZf+B5Gv8o/W30I+FrdmnKWRVgyjxHenrsIuBtpUS8U9NZEl8oMAFHP7tgW+mqhvzXg00JU0aumK2WeqFlBmUtIzJ8wbKwsuZcvFkFZk5G4twnfmpAXla7CHKE+ivnNncv5Xv4NKTY3HBC3aeTboq4nIhGwLd6vELGdyo8Hn5Hq1YF9bOkLVLE2nZ0WY0hrzEkkMUjlSkxhVS6hsYNAGpbowdiTRABXNtM+PhWE5onTylHZLROZMXTV+rQg==",
+  "URL": "https://github.com/seb-m/pyinotify",
+  "LICENSE": "custom:MIT",
+  "ARCH": "any",
+  "BUILDDATE": "1581614451",
+  "PACKAGER": "Jelle van der Waa <jelle@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "python"
+  ]
+}

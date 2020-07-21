@@ -1,0 +1,23 @@
+{
+  "FILENAME": "kdegraphics-mobipocket-20.04.3-1-x86_64.pkg.tar.zst",
+  "NAME": "kdegraphics-mobipocket",
+  "BASE": "kdegraphics-mobipocket",
+  "VERSION": "20.04.3-1",
+  "DESC": "A collection of plugins to handle mobipocket files",
+  "CSIZE": "26672",
+  "ISIZE": "79520",
+  "MD5SUM": "bfd7e124ac7204e9f9ee46196b62a6d3",
+  "SHA256SUM": "f55e62296964260a6e84ec70901e2702b8941c754df4a53a632e4a1e040d3d39",
+  "PGPSIG": "iQEzBAABCAAdFiEEFRnVq6Zb9vwrc8dWek52CV2KUuQFAl8HAfIACgkQek52CV2KUuSFfQf/fiZuD7VNVBJ+asw4QBL8jljnmsez6NXJr78e029gxcTwLg/AEPS3Jr21UnEgbXPLqBR8ThB+wdIj8tHyiE7+NqKLDpJ9Z3Hw5HjFLcAKSn84prTw3nyjz7h+O6KKpNzjltTUaO4hG+wp3ek5YeoAlwBkMCnBglTx4ZkWLjc71GpY1JYPvv+r1LfE5lpyWgotlAzHARRYTmlcOLL2/Ix58k5nmdUEkpBtI7RkCXuLm1rODl8BeV0Fjc9bhBRcjsIjVob8BHlGdSVke6N/AwqqBtoEN+EAJaUu+FOlOxQo1MNdeWWdiDNc4D/pyuLzsMp9GfqqnfkoGGsIb+m8J0/NOg==",
+  "URL": "https://www.kde.org/applications/graphics/",
+  "LICENSE": "GPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1594103409",
+  "PACKAGER": "Antonio Rojas <arojas@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "kio"
+  ]
+}

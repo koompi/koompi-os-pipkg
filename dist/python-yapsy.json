@@ -1,0 +1,23 @@
+{
+  "FILENAME": "python-yapsy-1.12.2-3-any.pkg.tar.xz",
+  "NAME": "python-yapsy",
+  "BASE": "python-yapsy",
+  "VERSION": "1.12.2-3",
+  "DESC": "A simple plugin system for Python applications",
+  "CSIZE": "50220",
+  "ISIZE": "306383",
+  "MD5SUM": "e376d2a7332905627ab2e16978c5d955",
+  "SHA256SUM": "0af251dd0b743c941fcbd881c87d8f562cc965f49ded4bcf9cb7d3491fbf904f",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl27FzIACgkQeGxj8zDXy5JZAA//fIN6YipHIUmmpUcbK9mqy+aNloLFTowOHMR0KYh7MGwkoWJgVAjIeKp8AbgK3rwHYUBzCk0giXO9JIrSxTMzbM+ex7HTcMAplSSDpCr5vOHlzv/n4MivA5IHP57uOW/sCtL+3nM25sFhkeWXqB9vqJVedQmBcb6MXaSsEGFWBhtv/u7NupLTz37lEu376hmklGCoO0YasFGxqlb7681zrVutdKQAU0rfr3yrWUQlXeQCQYmc1lQ+0HRt8n3m621c19vuQAm0YxhaJ2uViA5L5A1gHikD9fmRTCK/JYoHdmkd+Lm1G90QobjmEXZb9WENXIzhQ4Dv+8kmHh9zO06n5iYQG31DmqZPrUNV2T3vVl+Ni2Ssvhp3iDcTkEcPMPB0bke9Sgcis8Mzcga1UMayBBvvTVJvXZKsG1eF6YmkBQaYRbb4KmhHI8eAscp3K3N655f7x27vQOoMAdK7i8IMX7A5wfwgNnAcYpOSxK1gWyRVqN0M7W604Qxzlbw/WWE/ig7OdoitrJHeCmgiXXuNaGV/8/Rs7CLxLf4+/Xlc+gvWjS+Qf190e8lWUXhAwCe6d12M5bzclvQIp5bfjG3Cm4vZrYZn8PeF4qTnAFMSlEk7kBvujEalfuEZAg5HXPf4XBe1J397IjB2l1VFZTUiBlqQ5j5eMlVSFRrto2HOq/A=",
+  "URL": "http://yapsy.sourceforge.net/",
+  "LICENSE": "BSD",
+  "ARCH": "any",
+  "BUILDDATE": "1572542235",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "python"
+  ]
+}

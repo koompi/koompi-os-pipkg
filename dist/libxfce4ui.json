@@ -1,0 +1,29 @@
+{
+  "FILENAME": "libxfce4ui-4.14.1-3-x86_64.pkg.tar.zst",
+  "NAME": "libxfce4ui",
+  "BASE": "libxfce4ui",
+  "VERSION": "4.14.1-3",
+  "DESC": "Commonly used Xfce widgets among Xfce applications",
+  "CSIZE": "307330",
+  "ISIZE": "1898213",
+  "MD5SUM": "295ed85c1c854120e2cf582c675966bf",
+  "SHA256SUM": "35fc1a088bc12fd15872f143db444ff80bd02df5968d047928a76c6c475eecb7",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl7DmMQACgkQeGxj8zDXy5Knpg/+P4rG3eOUjrt3zxSjnfXj85Rxl6b1TdB3bXJ77XV5vYif2fEGHoQ+sHqnrqIfeU42JfkfGUWRxuLmFwyrOyP84279WKfnhE0kyFjbvqp1jTbEeqxAOzMgHghFtM00QjaiM6pbPLuan4PR3KEVuOz0pzJvpL0s1XMxsB5mLd1UVA3FILNU80C1jX2qIzX/3+DzWR6sE0rOVraqf5sA++jUP3Tcg4FDEaU01mhy50PJL6rhtpWQSP4zh4g2/Kz1rs9LqukTR6r3AUC+5ysqqQy0/TwTM8XkU0Gh9k8UWJ8rY3mWH6PiyLxzSP61DcJbNVo+r9XDtQuRXDyQLLy2AAD0jua5ZJFiB2r/K1gL9FspkadH6sE4t9by+g6FqVCfJ9kjkZ/LHpZZNtKqefkyIkERkNBAfsc1SgmJxgg0desVzE/h4Gi7nb3JNsfb2SBurwal3tB8/Gg+K0t5UZOhE1Jcf/DqdJyFtN3cA68/0QwousrXqmK/lZEDaiECdrUzwaUaSyfdj2BVrRXLeeudNzIqGO29kOmQ5LrgMu1OXXMEowNCB/xPYsq6ACHKI1QtrvcYE2wFCLGShPZFszyhfaZ5dyrKBIGn6K01rhdw5A2TQRwW5yphLajYBBIrFvatSCIv7zC2GaCCBbVE7VbDC9ZlMnSTx+sNiD/hI/7UmOTP/QE=",
+  "URL": "https://www.xfce.org/",
+  "LICENSE": "GPL2",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1589876830",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "libxfce4util",
+    "gtk2",
+    "gtk3",
+    "xfconf",
+    "libsm",
+    "startup-notification",
+    "hicolor-icon-theme"
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "FILENAME": "ndctl-68-2-x86_64.pkg.tar.zst",
+  "NAME": "ndctl",
+  "BASE": "ndctl",
+  "VERSION": "68-2",
+  "DESC": "Utility library for managing the libnvdimm (non-volatile memory device) sub-system in the Linux kernel",
+  "CSIZE": "239214",
+  "ISIZE": "586681",
+  "MD5SUM": "7b0e7c8f2736ab930ee1eb85f498df9a",
+  "SHA256SUM": "30260dac46825cf1ad2e4c1f470db277ea2976d84f17c006e91d3cfc46cc2ec8",
+  "PGPSIG": "iQEzBAABCAAdFiEEhs/8qRjPOvRxR1iAUeixSKmZnDQFAl6kRt0ACgkQUeixSKmZnDR5TAgAtaGL7Z65jp568wV0D+7CN/9/q2CQ2KsXbn9oKTR1N/cDOnN5UCe2TrDwG3nYLFPZg2zM7qvda3sGoUbXAb2E7kJUacs3snkWVeGyoUqSZPrOOIHYeA4d32LPtQA4ZYqcgo4aw6xJ90JIMT/eaC/WMA8AmDpwwHZXO7wpqlEY+Uej1dKF+dIWdB/L12TXotf9TNdgDxeeEFUORm2FhwHXjqXp1kBd9gmTqaeXDxQH2ZduSNkfVhC96s60OWEJJ203raJdGqRuNpgN7luin75UAVMFqdNcRKEV3dWUCSqT+cZU0f+tSvtnrMqLIDg4M9IGUIMBtu/Zr0HP4sQR8AgH7w==",
+  "URL": "https://github.com/pmem/ndctl",
+  "LICENSE": "LGPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1587824290",
+  "PACKAGER": "Evangelos Foutras <evangelos@foutrelis.com>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "json-c",
+    "kmod",
+    "systemd-libs",
+    "libutil-linux"
+  ]
+}

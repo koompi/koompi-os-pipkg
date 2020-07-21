@@ -1,0 +1,28 @@
+{
+  "FILENAME": "switchboard-plug-sharing-2.1.4-1-x86_64.pkg.tar.zst",
+  "NAME": "switchboard-plug-sharing",
+  "BASE": "switchboard-plug-sharing",
+  "VERSION": "2.1.4-1",
+  "DESC": "Switchboard Sharing Plug",
+  "CSIZE": "73128",
+  "ISIZE": "262455",
+  "MD5SUM": "1c5cc0126caf45bec47dd910675228cc",
+  "SHA256SUM": "61f2b11af595493d0fe623b34fba2ebc8b676ed383b5207068401a9be7eaa49f",
+  "PGPSIG": "iQEzBAABCAAdFiEElDfdOBWnqRaePTlGr/XZUJi8b/UFAl6G6WUACgkQr/XZUJi8b/XfzQgAm4EmYGe1JV1FkEC1xD4ALMKe1+SBlv8StuN4bogN+AsiuoiYAyrW/TuIag86oAlCBet+r0WnV0f8SYbtjlvMwT7aHk0S3YWBJO+dKT1OnIl7CDmnVAa8/heV5HOOy9ueOX3c0z+qW7qp8uANEmnsUNdUbo31LlrTO4ty42nGRlkqvnlItHLAPUpWi2VkLrdZ1q8HWvaFCjIZKQfaqla8k29UoI0zHRp6tWEWOEcMarGzGOR1Wu4OgzpFlXbMhse0ZmJRdOObo36pjtCWVLYPLi2vxJpfoEtsd9A8+jFoDjY81QEL0zFuzD3sLlc8xwci94elY7upwFGp1DCfVHZJSw==",
+  "URL": "https://github.com/elementary/switchboard-plug-sharing",
+  "LICENSE": "GPL3",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1585899834",
+  "PACKAGER": "Maxime Gauduin <alucryd@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "glib2",
+    "gnome-user-share",
+    "gtk3",
+    "libgee",
+    "libgranite.so=5-64",
+    "libswitchboard-2.0.so=0-64"
+  ]
+}

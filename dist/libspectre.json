@@ -1,0 +1,23 @@
+{
+  "FILENAME": "libspectre-0.2.9-1-x86_64.pkg.tar.zst",
+  "NAME": "libspectre",
+  "BASE": "libspectre",
+  "VERSION": "0.2.9-1",
+  "DESC": "Small library for rendering Postscript documents",
+  "CSIZE": "32649",
+  "ISIZE": "91623",
+  "MD5SUM": "73a3c56cc1e21524ff73ae41304c8a10",
+  "SHA256SUM": "459b9a642d11a39df47257f40ff619c0712b459ef6f3419626b3ea38140cdf09",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl6zouQACgkQeGxj8zDXy5LCyRAAwNbRlkuKksBLt1zM0+oKLLaQWQNmoLZItg6kcnMGPOwQVPwiCGl+OMQ4aV9tvNGAi7rwpZrYqum6hrmTZtulTryjg7gm2836Z8s41S1SU60wIrNDsyFFDce0kyxqfkPMSW29MokHtoQI/g+lV6kVDbDWaBGfGFsvJILIP671/6mXMVMXlej8uIMpQnMPUlsfP/J+86pxFw0G6P9vNqoN7yTgVIJAgEZ9AsobanSQKWlhHnvhlCjXi5Xtx1Vsi9e1FRXsG4nrOBvnSBSpdNxPu+1Vij8bcixcjpj6rJXVmRphftAiJPgQnLWwY4eG6NWtdlMea1eV0RZkg1XRYj774b+w/dg994uoSIX24ci8oxtrNDZ0a9T5fklHAPyKX39myxcmtlQU2abmAv1d/h95Qr5PuFziRL5EXn4NN2vwtthvqHXy13dwKcNdsjdtOFHPctIpF+CLqaMcY7X+ReaW7euKdNFCpsm7jWVAQcv9Kn9JSzJ8s+y31OFnrJfuoiACtYO+lUAVoCYQeUhr1Q7ynAzmC0ebrB9LhN3ryNPh258VGI0SbuU4BxDbddH8gBqBM22bCpsimaX4NRdfKk6pKUjfCJgx43KaXSvQpHDMxd8IEqeZxOGmIq0YQRhwbW2XsEc7+NJQ7cUYrmgduIpmqBzrzlbDR66e3U+mhkA85Ms=",
+  "URL": "https://www.freedesktop.org/wiki/Software/libspectre",
+  "LICENSE": "GPL2",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1588830821",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "ghostscript>=9.00"
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "FILENAME": "byobu-5.133-2-any.pkg.tar.zst",
+  "NAME": "byobu",
+  "BASE": "byobu",
+  "VERSION": "5.133-2",
+  "DESC": "Enhanced tmux",
+  "CSIZE": "101510",
+  "ISIZE": "310696",
+  "MD5SUM": "0a89002b6614bf9173c5eb290d3f2af6",
+  "SHA256SUM": "7a585144a1b27e985e12f1062498e0cbcc3af5bd0b9aee82fc4193146c1b30a4",
+  "PGPSIG": "iQEzBAABCAAdFiEElihV8HLHoBhGQFhk/PPIy1z5yNQFAl5Y7AsACgkQ/PPIy1z5yNSs6wf7Bz8cWlAi9+1ooLBPXYNHLZNUe8XQftB7LQyKlSVaVldxrD9wj67aM1Ygykefwj4d7oIDztgxWiqJuY5QPrIom7ZHQt0kqGkpqHI0hr0graP+EeipntPrIWsdrhJ+twL7tcXmuY7CGCSthzVRUlL8Iiv+BaioNG6t963WKHIrOLsTxftnyQE5Cxvl67asNFw5BflZRIZsfh7/YlGvESBNo7FJCInXkk0U0yGKoXGLg/moyLS82x50dpUUiF3dzbKgbumjFqPyC7yrU9yclYJSB5wla01xZZv3bA6ScZxSNStRHXAjSDT0MiWDeIR74HsIvtYGpWlOBCF1tby+mXMnig==",
+  "URL": "https://byobu.org/",
+  "LICENSE": "GPL3",
+  "ARCH": "any",
+  "BUILDDATE": "1582885756",
+  "PACKAGER": "Alexander Rødseth <rodseth@gmail.com>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "libnewt",
+    "python",
+    "tmux"
+  ]
+}

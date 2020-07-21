@@ -1,0 +1,23 @@
+{
+  "FILENAME": "firefox-ublock-origin-1.28.0-1-any.pkg.tar.zst",
+  "NAME": "firefox-ublock-origin",
+  "BASE": "firefox-ublock-origin",
+  "VERSION": "1.28.0-1",
+  "DESC": "Efficient blocker add-on for various browsers. Fast, potent, and lean",
+  "CSIZE": "2976295",
+  "ISIZE": "3030223",
+  "MD5SUM": "6c53f9cc06b3885238372d1dcefa7352",
+  "SHA256SUM": "b858c41296fba1957d8ce092fa2d547587c43a3c1e050cf985a2ebc3da27e349",
+  "PGPSIG": "iQIzBAABCgAdFiEEBNw/sURf7KgTwn766k97MhqQatkFAl8I1jQACgkQ6k97MhqQatnD1hAAhPTjgnVxfptWZxl37tdGdVGaxvvtrweh7UtzxX4DW2fzLT87XF5/1rkHuQK2xF999xOEw14pi6x/1GbM1ulRYCiEJZI7+TaKGs3Dvdd6mnp3kD6cAd18kgTbeRcG39LOIjAj9KQ4VPVNQM1P3PgoIq+L2Um4eQnjWjb3LaXLRBsKWcO+kFyZnDab/muRdZ6BUPnhFGiUwX+c0TfvoOmmGl67CwarzqmU3Mv7vju4OT+HK76ObP2tNY/7MollXWzeW8d4PxJR7KCauCgkn7J+7Yh7NNoCBiWONuNV1DKoDxcLxKavmA1rXMpzTuX7wpzuxM1VUtG5JbaQs2VnZ96de6ZubsJp5c31VAGffjcK5k4bI3skD48Uda9e5RB9pzN/ikCgZ0RuFIr41MefhtXI9pUv4HJYjE6zhn22gnysnYLJLseMLR+3ICslx07l0BMn6GRm1bweGw+wxzgDRkBTX7kiwjVGSGjdcASn42nlsLnpwvzza1O1J6J4iUkxt7lpaZ8KseFF4OJF9Sgu7iElmAPJDFjOZ5OvNLznGRjiZ8aCh/ZWDLJwn8xUiTyVsWWXBjFEAxaBE24XIDj8QTE/xVyHMw9OK+yPXZKZ/WwuOErpolqLDPoj1kjomujuGClQxqduAe2LfXm/v3Cclu/u+CtHhIKobJtNsgbbkJyyJH8=",
+  "URL": "https://github.com/gorhill/uBlock",
+  "LICENSE": "GPL3",
+  "ARCH": "any",
+  "BUILDDATE": "1594414595",
+  "PACKAGER": "Daniel M. Capella <polyzen@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    ""
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "FILENAME": "percona-toolkit-3.2.0-2-x86_64.pkg.tar.zst",
+  "NAME": "percona-toolkit",
+  "BASE": "percona-toolkit",
+  "VERSION": "3.2.0-2",
+  "DESC": "Collection of advanced command-line tools to perform a variety of MySQL and system tasks.",
+  "CSIZE": "8442667",
+  "ISIZE": "52618487",
+  "MD5SUM": "ce133797743ff30e0b84bf7b667ecfe1",
+  "SHA256SUM": "2332ff6949d7f3b8f419d14803d06cde7709b5384a44c97e233f57a39731486d",
+  "PGPSIG": "iF0EABECAB0WIQQsEYxiDwLbmsHQ+fqU3SOT2i7kIwUCXtd1zAAKCRCU3SOT2i7kIyZDAJ9vrmgHtmp/Iu//XgSjjTK9KYb5CACfa41sq3VdfblMmU1vHzH5f0buvOE=",
+  "URL": "https://www.percona.com/software/database-tools/percona-toolkit",
+  "LICENSE": "GPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1591178523",
+  "PACKAGER": "Massimiliano Torromeo <massimiliano.torromeo@gmail.com>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "perl-term-readkey"
+  ]
+}

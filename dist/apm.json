@@ -1,0 +1,26 @@
+{
+  "FILENAME": "apm-2.5.0-2-x86_64.pkg.tar.zst",
+  "NAME": "apm",
+  "BASE": "apm",
+  "VERSION": "2.5.0-2",
+  "DESC": "Atom package manager",
+  "CSIZE": "2279612",
+  "ISIZE": "12023715",
+  "MD5SUM": "c20c932837c2e4cff42d2c233b821682",
+  "SHA256SUM": "6792ed2edebcf6f2f0d18ef2989827aedfb4a4694340c314c9c6c458fad92215",
+  "PGPSIG": "iQEzBAABCAAdFiEEqbZxDXYPZhfFMHRuyEe2rrBUQWcFAl7IoRcACgkQyEe2rrBUQWdvYAf+KuRhbal1vUKNetXSgnhWa5ZAwIIw7ujTKmYjbj5+n9zlLy/7BtRUfJLsgLq1N1aqck/SBN+vx0RtVaHyOU/Ho0JwBLvc4oPS7eXP8Ht6j3nh74H4079rNG5omL6TXvM+bkk4cb4dE1pKw6GUcNc/s8sMr8lhdzIcbUejbszg/kk+gSIWpuAY11G9ezOCcScSTIo9YJ8CKRtzjY+Obw3+8Ewvlht4TGlt37fumna8nY/2PM/6tRWK2kgNjTbgkvFNjjUloq0UTR7OiD3ygFubAk1/M8UUaRL6FUYj7q6nFUyuGreIVT7Bnbqn9LPDbXqr6kqUJIaFRBOoSaM/CGuoSg==",
+  "URL": "https://github.com/atom/apm",
+  "LICENSE": "MIT",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1590201374",
+  "PACKAGER": "Nicola Squartini <tensor5@gmail.com>",
+  "PROVIDES": [
+    "nodejs-atom-package-manager"
+  ],
+  "DEPENDS": [
+    "libsecret",
+    "nodejs>=10",
+    "npm",
+    "python"
+  ]
+}

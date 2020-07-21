@@ -1,0 +1,27 @@
+{
+  "FILENAME": "pulseaudio-equalizer-13.0-3-x86_64.pkg.tar.zst",
+  "NAME": "pulseaudio-equalizer",
+  "BASE": "pulseaudio",
+  "VERSION": "13.0-3",
+  "DESC": "Equalizer for PulseAudio",
+  "CSIZE": "33694",
+  "ISIZE": "97492",
+  "MD5SUM": "d9b0393867bfa7ff23a292cfd4cf1781",
+  "SHA256SUM": "cd6453c377685b17351d60668c7766bb52e1b40822fc54d2ea55374c23b93f14",
+  "PGPSIG": "iQEzBAABCAAdFiEEghj4iEmqxSLpTPRwpekojE+kFfoFAl4aH24ACgkQpekojE+kFfqzGQf/cBGghChE/UmSEYfkrTUBzqjFqHEt8cgu2KE7NLB7FoxYycousQoRJj5N3Ts1ArqN/OK8I+x29NnToyJKeUIgFlhigWhZ0dxX8HKvX/cVQthnALxCIyg27be6pm5v4vqONJZHJs88MsOAYkC0g/H8BFyvDiwHwjt9pneglznsGTaggfqhgH6qcoymRkqyvy/pDAgQw0QhPLunweDlFqwYBah9r/29CLGAldHiCiTxpyZZDjUBu6HD7208KEm112XbTEZCKoD5N3ayhb8fVC2C5Z+Yt8hyeiE/PIsAwpiKzz6ebLjImQbXZyZQ1vE9XOGcmsAEadFgAOwLbD37AJjcXg==",
+  "URL": "https://www.freedesktop.org/wiki/Software/PulseAudio/",
+  "LICENSE": "GPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1578767137",
+  "PACKAGER": "Jan Alexander Steffens (heftig) <jan.steffens@gmail.com>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "pulseaudio=13.0-3",
+    "python-pyqt5",
+    "python-dbus",
+    "python-sip",
+    "fftw"
+  ]
+}

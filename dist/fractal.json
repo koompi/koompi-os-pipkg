@@ -1,0 +1,30 @@
+{
+  "FILENAME": "fractal-4.2.2-2-x86_64.pkg.tar.zst",
+  "NAME": "fractal",
+  "BASE": "fractal",
+  "VERSION": "4.2.2-2",
+  "DESC": "GTK+ client for Matrix written in Rust",
+  "CSIZE": "2385574",
+  "ISIZE": "9032541",
+  "MD5SUM": "b674f6677a97972de322940dcdc276aa",
+  "SHA256SUM": "40e66fd2dfd1bac07d50939ba43975d91acb37c2b1583caf576b9394899d7165",
+  "PGPSIG": "iQEzBAABCgAdFiEEado014/g79WWrG0EnYk+xNqvkSkFAl6M0RcACgkQnYk+xNqvkSnSewf/ShSHy0nxFfjbcPIAc28JQtGj3kNIKJ3RBPexsbEo17PLgdcXT4xEdCl+Ayr53TNev9PAiSTO7R9PzLMwh1x9VyQ4+TQzQ1sXiYLyQ7wPdBmapnjYksw305vQjUyma9lPUUp9tQ55SoZsv+VbIB74XG5jtBPavNiQ6k94hDJbz8PqYrGGITn7mWQI7IGwVbWDCZQCojnuiS05VoOzyQAM8V9tRw/9GIvBeF80H4rszjFAEQTA6KytLTaNoMneW9vCCpLmhpLcIz8azYBibS4sPT+RlmINlPWrhdxKUSUUx6UKAWegqz+iM63LwZ0ZoO2xkAt3voB2Mjl0q5zxL1EKbg==",
+  "URL": "https://wiki.gnome.org/Apps/Fractal",
+  "LICENSE": "GPL3",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1586286599",
+  "PACKAGER": "Bruno Pagani <archange@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "gtk3",
+    "gst-plugins-base-libs",
+    "gst-plugin-gtk",
+    "gst-plugins-bad",
+    "gst-editing-services",
+    "gtksourceview4",
+    "gspell",
+    "libhandy"
+  ]
+}

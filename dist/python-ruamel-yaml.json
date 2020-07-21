@@ -1,0 +1,23 @@
+{
+  "FILENAME": "python-ruamel-yaml-0.16.10-2-any.pkg.tar.zst",
+  "NAME": "python-ruamel-yaml",
+  "BASE": "python-ruamel-yaml",
+  "VERSION": "0.16.10-2",
+  "DESC": "YAML parser/emitter that supports roundtrip preservation of comments, seq/map flow style, and map key order",
+  "CSIZE": "189487",
+  "ISIZE": "1139179",
+  "MD5SUM": "6986361eb0dc9598bef58819f88fa84e",
+  "SHA256SUM": "adc675879b506e00e69d24b432e34635ea8e0346fbf206dd90b4603bdf27ba2c",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl5FfGoACgkQeGxj8zDXy5Itrg//UMSp/MQDnVhCFKDiFOUm3oyB1q8yzFeCL1K1DdZX2FPv9uw6OuBlsSKrSPAUwmUD9x7LZuXLaGYY7axR6gjtlHbLAR2ZyjH6mO0CIhm+OoqpBhgjkjnqCR3XfY/Npnun3pw605hk3Q/hnInjb2DUV5SoYiKO4eNffbOR4ftHmbphAysSQvInNIER0cT0oXXhiPuUHsd3DXXiUiaczik21kzVScdTMpTf/GwDgTOXrxZ9xBuVP5mYdFnv20ArhSJCJjgBJSH7DyIFmplKd35iZQNIalG8+5/O+eHrAEOVUu/KlPo/4YxQZsSWQW6wEFRQ6daKTrlxTr/X9WQB3O//FQD+fawyukh7speW0cJIqeRpE2DkLqkTVLxBWXGX1uJ20TmcAHSj9b49W3ZdQbR6mJa2tFKmpguYX0jHCJlRkziRWB9xZObVxSedZF8Il9+6iehGZhcvKGlMdLGLgcMIkIiD4VdkOUaJB4u5Znz0/gdrFjFLkKDMAad1X0YjkleFZD8LdImHTcdVSMBx/CPoQLgcl/Y/BS5ZdimpCRqP94+goXEr6WeXkrGRZ8jmrn7JyOKnXfFkUD5P+Uz8mNls7VrOPrYXEBvp7GOB/hz71fHwyA0Zk+bmNhbwresBM1yQvu2EEDjFLbBY8VYbFYBCIEtTyz6WL1ZNUDCTZpvHW5w=",
+  "URL": "https://sourceforge.net/projects/ruamel-yaml/",
+  "LICENSE": "MIT",
+  "ARCH": "any",
+  "BUILDDATE": "1581612101",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "python-ruamel.yaml.clib"
+  ]
+}

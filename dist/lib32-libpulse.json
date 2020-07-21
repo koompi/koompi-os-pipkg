@@ -1,0 +1,30 @@
+{
+  "FILENAME": "lib32-libpulse-13.0-1-x86_64.pkg.tar.xz",
+  "NAME": "lib32-libpulse",
+  "BASE": "lib32-libpulse",
+  "VERSION": "13.0-1",
+  "DESC": "A featureful, general-purpose sound server (32-bit client libraries)",
+  "CSIZE": "258452",
+  "ISIZE": "1038336",
+  "MD5SUM": "607aac88aaa85b270815b0ea2cfa48f5",
+  "SHA256SUM": "632bc46db68ccb5c3e112748735f98011d4069bf49af223ad2d6e2c037273319",
+  "PGPSIG": "iQEzBAABCAAdFiEEghj4iEmqxSLpTPRwpekojE+kFfoFAl19dXkACgkQpekojE+kFfoo0Qf/WUvMlS+SGzP/DBZMHT5oWsPp6IwgrNAjjTNwPUtwmwioVvvOqIL19gs2vco5+F+kzx0y5PHGFYYZcdekYDEqLu6zdqW5EyhfW7nfylVg4GZapI8q56sRka1dvT+7iIrOdaW5Pd2zCrbuyai+EqBOH7qvgKjt2xE0A4bCyuU8Wf75vL7nNda+sj6nUNJh2jyJvDJa4Qs5Pgug4L5BuSs7851DqzT1tG4hBLaZjf3U4JU/RtYr8qray2XmInyUOuaJjADreDgMqbCE7xtNID2O7YVsZ3zdBuocEm4m3a6rbPnUqltJVAsrTh/NI31FS7KYgWgB7eGGEaf5Xv0Kr+ujBg==",
+  "URL": "https://www.freedesktop.org/wiki/Software/PulseAudio/",
+  "LICENSE": "LGPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1568503025",
+  "PACKAGER": "Jan Alexander Steffens (heftig) <jan.steffens@gmail.com>",
+  "PROVIDES": [
+    "lib32-pulseaudio=13.0"
+  ],
+  "DEPENDS": [
+    "lib32-dbus",
+    "lib32-libasyncns",
+    "lib32-libcap",
+    "lib32-libxtst",
+    "lib32-libsm",
+    "lib32-libsndfile",
+    "lib32-systemd",
+    "libpulse"
+  ]
+}

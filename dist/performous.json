@@ -1,0 +1,31 @@
+{
+  "FILENAME": "performous-1.1-24-x86_64.pkg.tar.zst",
+  "NAME": "performous",
+  "BASE": "performous",
+  "VERSION": "1.1-24",
+  "DESC": "A free game like \"Singstar\", \"Rockband\" or \"Stepmania\"",
+  "CSIZE": "4169788",
+  "ISIZE": "7794798",
+  "MD5SUM": "a0c7851eb08093b56f7430a11be261c1",
+  "SHA256SUM": "2261671b8f58774c5c596334f2971982ad95682c4945892e11e555083177a0cb",
+  "PGPSIG": "iQEzBAABCAAdFiEEFRnVq6Zb9vwrc8dWek52CV2KUuQFAl6Id/IACgkQek52CV2KUuS92gf9HrVS+Gv/FETfgsZ7kPjBeqJRGJJrporR6pMOUC+w0BzoyUlw328ibh7Z7Af7ONF19gnwBj30D0PiPZ/yukNADsU/mJFUuDuov2VZ0qDIbCFIuxT8uVJm/IB3HByKajyEBIMBzEm2FeViZsQXpla643nsrzdpYHy/yHkzzMVYnyN/BHHujaOFvuIfJSWcBqSQKxc4Efy8MBtGwiCkm4idM6wt6dfiwc3JEFY2WnO7glc+oh8lUlXmkc7q2AyG1Q/oqIm+H40Ot2Lbt2ZK3h6MEEWIhdJTZmaz9DW11wX9gUJA0jV1U3NGTSq4Bw6Z55PD4zB0nxsVgxbPlQ9uWn9sgw==",
+  "URL": "https://performous.org/",
+  "LICENSE": "GPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1586001794",
+  "PACKAGER": "Antonio Rojas <arojas@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "boost-libs",
+    "libepoxy",
+    "libxml++2.6",
+    "portaudio",
+    "portmidi",
+    "librsvg",
+    "ffmpeg",
+    "opencv",
+    "sdl2"
+  ]
+}

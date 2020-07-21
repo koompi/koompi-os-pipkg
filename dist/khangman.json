@@ -1,0 +1,25 @@
+{
+  "FILENAME": "khangman-20.04.3-1-x86_64.pkg.tar.zst",
+  "NAME": "khangman",
+  "BASE": "khangman",
+  "VERSION": "20.04.3-1",
+  "DESC": "Hangman Game",
+  "CSIZE": "6429403",
+  "ISIZE": "9327018",
+  "MD5SUM": "9c6afe5cb23f8c65fadc202598a7ab96",
+  "SHA256SUM": "f9dee809b7f5479129035373408894e68afc94e7f0fc0efe37c05f15e61c225c",
+  "PGPSIG": "iQEzBAABCAAdFiEEFRnVq6Zb9vwrc8dWek52CV2KUuQFAl8HBEUACgkQek52CV2KUuRqBgf+NjGn/QmyQSxyxcncU0Sc6QK+SPQm0DUPBV9WQ+RkVhI4o0+Lhdy6t21FnE/C4RuE8AoPcaZ5UXNerOoweXR6AbjNauK4D2yS+EwTufXA6r2kR6q+za3Gme5PAI9dr73DfnDyiFyoc/P9H34FF0g47WdFq2lzyexPOg9Q4K202GEL0XpufylsCrugTg/ogKGc3lUvZimAiMdpbrH5ImkMYM7eq/yGxbgvUl1DNMGErUiZVR0rOhsnxOM28DAEZ6Jdjm80ypvergXJidyzPqXrgn5TG+pxDnvU1t53/wOD5NH7cURZjzC2LTgLIbOiXbPjEq16TdcZc9PYWLE/I+NILw==",
+  "URL": "https://kde.org/applications/education/khangman/",
+  "LICENSE": "GPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1594107162",
+  "PACKAGER": "Antonio Rojas <arojas@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "libkeduvocdocument",
+    "knewstuff",
+    "kdeclarative"
+  ]
+}

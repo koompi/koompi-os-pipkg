@@ -1,0 +1,26 @@
+{
+  "FILENAME": "peda-1.1-3-any.pkg.tar.xz",
+  "NAME": "peda",
+  "BASE": "peda",
+  "VERSION": "1.1-3",
+  "DESC": "Python Exploit Development Assistance for GDB",
+  "CSIZE": "104032",
+  "ISIZE": "625207",
+  "MD5SUM": "1cc4ded690af705dc4b0b2d0fd6f489e",
+  "SHA256SUM": "f526418fb04a125378e91301d0de85275eefa07869036e99815e1a9e74dbd4be",
+  "PGPSIG": "iQEzBAABCAAdFiEEhs/8qRjPOvRxR1iAUeixSKmZnDQFAl3Ic4QACgkQUeixSKmZnDSj1QgAnhD2j6Do7+kqrN2l73SkKvroIYMvrEn/CUbQ+XFZ7fKs6iK/ynHkcR7mXE+pNUIoaeGidq6eGlRruWP2q2b9SwWFpKb0GWxoRBRMrkfggOaZGXbL5P6Dn5Q2zJ1I8bUMI64M7bpWcrVdIRxSPE0/grft1mPD1+Weqts6NTGz/m3S5pJOzIeKE7fi7GlORDEruqNalSOIV0dedG1bGVFtrLsfNQnrNUd7me3h2gY+F+fPhkbJTQsjwbFvRpAWZeKbvIwCKKmDaEWAEXWIZb7V37a6V1voyBbG5ee/wLzOqDDlEw7RRTdMN8UNN6jwW0p6keYHZGBhM6+DbRvepY8yXw==",
+  "URL": "https://github.com/longld/peda",
+  "LICENSE": "custom:Creative Commons",
+  "ARCH": "any",
+  "BUILDDATE": "1573417840",
+  "PACKAGER": "Evangelos Foutras <evangelos@foutrelis.com>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "gdb",
+    "binutils",
+    "nasm",
+    "python-six"
+  ]
+}

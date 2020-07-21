@@ -1,0 +1,23 @@
+{
+  "FILENAME": "qt5-svg-5.15.0-1-x86_64.pkg.tar.zst",
+  "NAME": "qt5-svg",
+  "BASE": "qt5-svg",
+  "VERSION": "5.15.0-1",
+  "DESC": "Classes for displaying the contents of SVG files",
+  "CSIZE": "149535",
+  "ISIZE": "502136",
+  "MD5SUM": "7a9f1ef875e38aecbe1e5cc7c951a69c",
+  "SHA256SUM": "5d355a82b2cc3db9bc68dd031978cc0377e4d6446ee365a5a4ff49830aa9703a",
+  "PGPSIG": "iQEzBAABCAAdFiEEFRnVq6Zb9vwrc8dWek52CV2KUuQFAl7M11gACgkQek52CV2KUuTQMwf/U+aEPdCftdKy7TxiZSf6um5zALSizE0iKdiHcH/oLkVHa56sWMw09pdy9by4cy89WmXvAS4YXpivYpMO9HNrq4Ekp85E8Ne6cmK7U6zIYXRKY/XtcGCteKhRoSmH3PR7Uqlqq/qmROkIygiq6FbgUPcA9P34jZkpobtD1jmkNPotlEQrEuCMsi9s2BsqcqwdFmt1Wcc5fRt9wTqDcjJuf7yA2DRkDcnS1S2Dv6lj25b25iUXTpXVNtAh/NJPG7EoTi1og9bCu91CJlQKqwbn6g9M+ROAroWXiB9RsmCMAwFxamPWeNfdBixK+Vj4jKIwX3tygzqcqsxbOsKKvixlzA==",
+  "URL": "https://www.qt.io",
+  "LICENSE": "GPL3",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1590481940",
+  "PACKAGER": "Antonio Rojas <arojas@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "qt5-base"
+  ]
+}

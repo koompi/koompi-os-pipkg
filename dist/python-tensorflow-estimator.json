@@ -1,0 +1,23 @@
+{
+  "FILENAME": "python-tensorflow-estimator-2.2.0-1-any.pkg.tar.zst",
+  "NAME": "python-tensorflow-estimator",
+  "BASE": "python-tensorflow-estimator",
+  "VERSION": "2.2.0-1",
+  "DESC": "A high-level TensorFlow API that greatly simplifies machine learning programming",
+  "CSIZE": "527566",
+  "ISIZE": "3359254",
+  "MD5SUM": "b624501e910d8e1f554d44408cbcbf10",
+  "SHA256SUM": "0b68a0807c2ae7b64d69b1bf2ad55ea2291aa4b7edf9aed7c1f20b03e4155f21",
+  "PGPSIG": "iQIzBAABCAAdFiEEj8FaBklQqZ3RvRTdOeS4d+YuuRUFAl6dT1YACgkQOeS4d+YuuRU7PQ//b9n0HVOLWxWN7StzuP7ykmQ6XULl7IfsDAxtuZj0s1uEfzoj2+xsMO31lYFc4zlbr0f/pI/MOpxddYYXiTaq8r5pU6wo/JtzLfgSQA3h5QAvdyVqk85Seta1YxFZGYYirnuyMRh3pmrJ+64ace3yjJ1i6c01gzxZTkCWjjqrc8tpKRSGzKldkcIAeyoQpS1SrkzhOonfDbPYywtiKEgj46sYgxKzXfFP3QW3p6a5TMlHELRI2iwADb3aC55cmBhPU+lbaG5OmzFJ7JyTg+sVbuYY9h6DH4Qa/mE0xuYsoAt4phMUfc0jUs/gvQDzHTDNsInvzDFnXFdpznfVo1cwH1ko9y0avzaF+RTwvGRsumf2xmUbIrKpnOOevlMdJbAYhdGKU5DjCGNHUdJ4AMW0DLQpvjf0UHDodl6LKkUKLUtF7WMvTMzS8r3fknQ1FtNYRUfVlamc39wJ+McnjQWkjz+ZzW98+XlyFtRexgVCxlzPRevhbC3uBM8RcScGlczg/M063wcHWflUUsdJBEGSj732oIEGmM6iB0wOhHica1KnPOdWRtFKomPeJfpAbm4Ze8BjNuKzxL6vteh8gjS6lAtd6iA0KubeIYKX7kQIHGjz2r6jYhqBIpaYBF9GI6zgngMjLfeoA4bCvqRJKUW2iYruMWmf8sTARhScI09AXIE=",
+  "URL": "https://github.com/tensorflow/estimator",
+  "LICENSE": "APACHE",
+  "ARCH": "any",
+  "BUILDDATE": "1587367709",
+  "PACKAGER": "Sven-Hendrik Haase <svenstaro@gmail.com>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "python-wrapt"
+  ]
+}

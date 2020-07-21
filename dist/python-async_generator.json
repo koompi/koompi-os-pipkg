@@ -1,0 +1,23 @@
+{
+  "FILENAME": "python-async_generator-1.10-3-any.pkg.tar.xz",
+  "NAME": "python-async_generator",
+  "BASE": "python-async_generator",
+  "VERSION": "1.10-3",
+  "DESC": "Making it easy to write async iterators",
+  "CSIZE": "37808",
+  "ISIZE": "170418",
+  "MD5SUM": "912bc4506d3769945c92146ba466043b",
+  "SHA256SUM": "890f40341f9c1fa834029a5acc6e6ce3949067c264bab5c14b9f1369fd7d8142",
+  "PGPSIG": "iQEzBAABCAAdFiEEhs/8qRjPOvRxR1iAUeixSKmZnDQFAl27JR8ACgkQUeixSKmZnDRC8Qf/Y4nJ4+VTzH0IQsPMlkJLzvoEd5H7libXM8rZ2fMh+Gh9Q/1jIBZk+4hVm/PqaDjweYX9fDfJMFpVQoFv9PG/uVkEjXhrJkY0171uYa+Ukn/Zf7L6+zgoew20hgIYfWkW/HKpreu0kNe1KNu9/VwDDcjOKeEIV3QlP6xLazdVqdu8NI2KDPoWd83k1UC4Gp122YhdYnj/y4FdXy+HBoppvgAZT0RN+YsCF+ZCzflSeiZDk6WeBim/VHMcWl7sFGKb7qlZGlZuHVxcSeHbVKXcpO+b+ukCP5Zn6xSW7ycsymeZc02dvcwK/N1/VahoIdv2aIZrklY4EKN7UD73Se7FkA==",
+  "URL": "https://github.com/python-trio/async_generator",
+  "LICENSE": "MIT",
+  "ARCH": "any",
+  "BUILDDATE": "1572545792",
+  "PACKAGER": "Evangelos Foutras <evangelos@foutrelis.com>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "python"
+  ]
+}

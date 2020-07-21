@@ -1,0 +1,30 @@
+{
+  "FILENAME": "openvdb-7.0.0-5-x86_64.pkg.tar.zst",
+  "NAME": "openvdb",
+  "BASE": "openvdb",
+  "VERSION": "7.0.0-5",
+  "DESC": "A large suite of tools for the efficient storage and manipulation of sparse volumetric data discretized on three-dimensional grids",
+  "CSIZE": "5526126",
+  "ISIZE": "85397109",
+  "MD5SUM": "e99fd90246f1186bc0dfd04c33c4e563",
+  "SHA256SUM": "481cdf33be5ec15dc2bbcf1d2baf596fa9f946ee542bc1abc1bdb4c9c28e55fd",
+  "PGPSIG": "iQEzBAABCAAdFiEEFRnVq6Zb9vwrc8dWek52CV2KUuQFAl66aIIACgkQek52CV2KUuRv/wf9E8EIiKXvYy1bggvNgUzfY/v3wf2jI4Ch+DY9XZ40TOngZ+tFqJOGiKe6aq/hl0XlnqkaHXffXBs8Yi8loha3LFl9B5sRA2M8zoud6Cu9mndnAz80dtF0tXcDitRkf0CbAFgtRviTl4dvoJDGKuW493A77dkj7/3OUU4UuPeXcA3uw8w7viX2IM0iZgr82j/wQjNrGGc1YLsMqiBX1FJ/QHgQMTJn/FjyMcvMxMe+pCxg5yjQR9OJOMGZKz3/qDspZaLztUPXuQJjzs87NLtMksAKrqlxxsXxwJub6w+xYOyT0D+9Gi8reCg28vukVT++ANTrs2KKG8NjMKrzCixr4Q==",
+  "URL": "https://github.com/dreamworksanimation/openvdb",
+  "LICENSE": "MPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1589273928",
+  "PACKAGER": "Antonio Rojas <arojas@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "openexr",
+    "boost-libs",
+    "intel-tbb",
+    "zlib",
+    "jemalloc",
+    "blosc",
+    "log4cplus",
+    "openexr"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "FILENAME": "perl-devel-stacktrace-2.03-4-any.pkg.tar.zst",
+  "NAME": "perl-devel-stacktrace",
+  "BASE": "perl-devel-stacktrace",
+  "VERSION": "2.03-4",
+  "DESC": "An object representing a stack trace",
+  "CSIZE": "16780",
+  "ISIZE": "28696",
+  "MD5SUM": "09fd2c942664f7fd363fbc88d2e4804c",
+  "SHA256SUM": "9bb5b07d1f2320a6f86e503eb76ffdb8fa6b9d936dfe2039dc11319b8ede8afd",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl7vN+sACgkQeGxj8zDXy5KXyg/9EIq/I3Ecms9tf2vifT9HIDZXjhiFiI29S7OvI+DOgq0JCuWEcUAkLfRU2rJm62tEhIj8mguFMpCxT8B5m3g6KSBk+Y2YaJJgV4TTvDpiC7mVQNsDD4WFaca7yJyoV1B5kwcGlGef02N3k922IuSqCXLh/xYW89IYxEcZ3mald+j7azCw3wAINegykzxdMOa3uBKDE7D/2LbzK34aCwimvU87DHZZjJuvf329OfUM7IQG//+Xi1AcD9M80goJZRSdYCFbETBOnDJf8/uBeJGn2Mp9/AqtetsSc3e4qY0ieAPIYpGr+42C0oOsd2wuc92BRdlqjGuQO2Jgy4nENIvRPUYdWx1u2pICt85MBZqmFJq9WLWVZpaTzU/mMVxFQd9+ru1jekFEyST//+cLkfaQMENzOScQbkyOsHiZqk5jFZ2xmlJjeSl0klFHwl+o/vCfflnbBzqYhxgTfc2o5Q7hvQdMqhOfp0MTOBMoopI03tH1raw+xCptU0AFzbOhkwARf9k6KSz4XLpuz4x7uN8Ods4VO6qC/QIZMdY/7xsww6pzfxEX/R/fWllH44El3EdrBnOs42N3QSNf4iA8vi0k2pv3S5iWyq0lQVzoMlh/Z5BlL1KuNdrNpI6xMuwt9uqO3MR0hi3psku7vHIReWdniHBpjxoHM5YI9daLRxbyu1I=",
+  "URL": "https://metacpan.org/release/Devel-StackTrace",
+  "LICENSE": "PerlArtistic",
+  "ARCH": "any",
+  "BUILDDATE": "1592735702",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "perl>=5.6"
+  ]
+}

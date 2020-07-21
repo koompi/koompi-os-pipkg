@@ -1,0 +1,23 @@
+{
+  "FILENAME": "thunderbird-i18n-sk-68.10.0-1-any.pkg.tar.zst",
+  "NAME": "thunderbird-i18n-sk",
+  "BASE": "thunderbird-i18n",
+  "VERSION": "68.10.0-1",
+  "DESC": "Slovak language pack for Thunderbird",
+  "CSIZE": "547812",
+  "ISIZE": "609753",
+  "MD5SUM": "ed3caa50d4e914c4819faff9356198ca",
+  "SHA256SUM": "60a7920b069fac2736ee498ec6a5a59b03331b3c25b86cdc713f8a2365812c8a",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl78eGcACgkQeGxj8zDXy5IKjhAAtsuhe8MCRcu7y2ZfJw4QjGBMCB3/GebwwoCI560tVWqFipLUltpLWUHjESXZrmw1LYHY1cx32Oxk/joM8v/2O2JMbcibV2/JvHszYap1r7kFQy2SUEnpSnqlS3vBmxi+2m6wS3bahg2a8xWigo6dk8u6R8ugyIU2mPgNywX5pZVa5xc10jaHy23JhDfPe7dG9R4Q3zlXB0GAXYstO1cy6EflxW4mt0d9GJpZjPCeK+oCwNjPUMQAjx7mdlA2xtUQ8k4m+HRxe6DzrQN2OtwQyvEBDZzoJEmvizBTb7S/35rvVdCBECbEqe19/XWjDR3NqCRjHCxWznQEeUpGWK8vrDcAAAPftqwWPc9mPAIphMAv8wijFrrHFHX+Mqcr351Z6yZZpIPc+zo/8v35V2hVZuwWD0s6po6rXG6K3OfN+AjO+sgwGtMA0mj4Fj5gr3gYT/ROeilhfJSF9cdohOhQgejLoE1RZ9/aFFi8J/mgarBdYd6XMglHNq7VUKoh3PO5S1VpV2x2+DIiBVqaRGPkpzXbtQZLlitl/iPQfKx71AqScGtKmUw6WRJGOw2ROfX/WtRcf6AwVHUVRdQyx61qOBx+B0BbFHdVBwNEm/3QT0CzDmaClgfd+TtOYSBlZgFo7GzSQGEUMOlwM54sBTd+BZPVDyi0RvNpWFx+ViXv72Y=",
+  "URL": "https://www.mozilla.org/thunderbird",
+  "LICENSE": "MPL",
+  "ARCH": "any",
+  "BUILDDATE": "1593603702",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "thunderbird>=68.10.0"
+  ]
+}

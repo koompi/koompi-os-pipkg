@@ -1,0 +1,23 @@
+{
+  "FILENAME": "python-factory-boy-2.12.0-3-any.pkg.tar.xz",
+  "NAME": "python-factory-boy",
+  "BASE": "python-factory-boy",
+  "VERSION": "2.12.0-3",
+  "DESC": "A versatile test fixtures replacement based on thoughtbot's factory_bot for Ruby",
+  "CSIZE": "62196",
+  "ISIZE": "342193",
+  "MD5SUM": "28796c9121bca20f6b17ca11e55b39c8",
+  "SHA256SUM": "345968d22ba01930ef1bff90cc01cfee61a370b9c6f3e33b4ba4b1555b591966",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl3FY5YACgkQeGxj8zDXy5IVphAAiyXZlZTquKkgvkSY1PYD5hs2JYF3bKYKO47CBis/+m04C0sp1oadySuJrISTm6WhpRy9kekayUEAizYv79i+n/EgghaF9OPYQWaCl3NVR7AooJTQgpBl3X7EljuHAQEHv3R3UgxIeLUVdIO3gGI3y337d45I+dlu33zbjOUtizxbP2nDqSMKKTa/LBSJkuJGdR2RkeHMhzfrwz5XI9vT9byHeMplJ27ddi4p/QgoDuG+snDTlkn0F3aSx2hrgDiG29OFpQ6Sz3qh/twLWHGzJT+zQFASPURNP+zHlfCaKPpYrO8PkYVtFgTLLiz2UnjayYjLsizOvVZKkbssuDyLI3QcHvIKjizX50cd4KJqkRxV2UCjWB2Lettg/ZKNNsK8sFNYgz8l2YycuDm9Clgn3umvjoykXkxhkEDQc7lE4XiXhibz/CY4nUPoELWch5lJi3HXoXq8eeqhlhQYQcoFPJ5x2Xcr0c5cDxyE/XCaTa5pzevefjRCVtvRXyLtPvcsVIA244U1MoGmY5uNNneo84kl73y59fZrd0aFWkeviotpY7pVreK280oNC56g57MXo586AFXh2U1lrFr+V15h6yr7vlNh1KXSqEMi6sceN+9suh4ojxvCYoxfIYzvBkWXIK3FrMqpLWwT6SrDW1R8/oF3ilOX0bln35tXdSDvyp8=",
+  "URL": "https://github.com/FactoryBoy/factory_boy",
+  "LICENSE": "MIT",
+  "ARCH": "any",
+  "BUILDDATE": "1573217144",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "python-faker"
+  ]
+}

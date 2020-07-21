@@ -1,0 +1,23 @@
+{
+  "FILENAME": "perl-ev-4.33-2-x86_64.pkg.tar.zst",
+  "NAME": "perl-ev",
+  "BASE": "perl-ev",
+  "VERSION": "4.33-2",
+  "DESC": "perl interface to libev, a high performance full-featured event loop",
+  "CSIZE": "186745",
+  "ISIZE": "369680",
+  "MD5SUM": "a1a4def99d665bacd740736f2c40d0cf",
+  "SHA256SUM": "99d51fc859ee19d9a07dd16a6255406f6aef23124df75b8a087b3037256abf7f",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl7vOH4ACgkQeGxj8zDXy5J/mhAAwi42OJJadAYGLuRth99L0FpL3uAdfMXbsjEeRaV5hjFRXV3sji2aonVjenHeX0wk58KnXNAhouOn6Tfy0lvmQ4Ci3inBzPWsFxh6eSKzUwiYfvzk5NS3Cjh10sFo5tuwM0PiRzFiNNO7kwqr+9Q3YjwZ3o5iDNw/0RmQPvzB3KLDVZ3l2Kffh1b+iPthFWtOi3xIJXuh9WxgUnIxxOoJGTjYB0hgTKRd0FEwEEPNVvLbgG9sz4iRUs/5AWqTqPmnJdO8Nvv4tDdnl4fcKNI/r4L+rOofMH9opxVpHsNdsa7Hk4z8royqYfObtI+W2oah8kr8fpBdxPU8LNfimo3xQq/kCDJJSN+X/RekRcQ6VxHsvvjRfbN9gklv/JXYCrHBc+GgKs4eG0pklK6NI+xch/SpPx5hkyll8Q5yHJ3KsuWR96roixQsfvXMEvGbeLoRuXCCt3Og2YBIUUmJAn7kHRyh2dRnH7KDotiiOnGdMz0DIFRSv40foLO7xEjjWxeaCK/YBaPHSCTfkHus/Se9pmuNDUGcw/mWTqplLLwnke0fR2wiZHH/fTJoYZjuD2ZJFDQEpGeO5BJ6ZPrjtmt8B2b9PXABR2TVhRYnHsw1tMUFjDF5z6qM7cgaln2QpUTKN270FoskZtfUlhGQupxpRMESbUMGJ6evCG4ntFXCjYA=",
+  "URL": "https://metacpan.org/release/EV",
+  "LICENSE": "PerlArtistic",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1592735841",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "perl-common-sense"
+  ]
+}

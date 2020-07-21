@@ -1,0 +1,23 @@
+{
+  "FILENAME": "json-glib-1.4.4-2-x86_64.pkg.tar.zst",
+  "NAME": "json-glib",
+  "BASE": "json-glib",
+  "VERSION": "1.4.4-2",
+  "DESC": "JSON library built on GLib",
+  "CSIZE": "205970",
+  "ISIZE": "1752602",
+  "MD5SUM": "06f61a80565d503c31574b4bd5f6a8ef",
+  "SHA256SUM": "5336285667f1505164488a300357b3bd3a6ad832442672d0ea0c711905d9fe95",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl6/ybgACgkQeGxj8zDXy5J/LA//eSh7wG95AxAtxafCXRMjy+GVXKzykk2dOLEKY19SZsW06ND1SFBMWSJ3OmKogvXgGAveXgCfe7udrxGh27IKg36qynk08MR/t3y8nwKw8M6W+26trERlEmoCrtZ5o2+P+7OCsDyTWdtXs5Ut5am0FhzF5PMOD+xFynZAO6i7y7z3QDEzq55OtXx5wNoqt3IuYSbipQJD8vSxq+obZoZamfx1bdVmQOGpIjVuQJqgOlhrb6euxHdRVRIMRaRQG/9VEGkdHviS7L0qYqME6yMEfozc22Pn2itonXjIhjgXCE4Y0g9372XLsA4TMB1i/F15s1m23D3bbp+hyFDfL2CRez/x3wyWs6RxoPNQ7m4kx8l96c1uIQh7I7nBOVrdwee1rtWn0aC6JkYY9nUwaJQ53tR2gkleWrfZwQmzBLscfU9xcbrRYygAHZSojsaZt3e45eDz1XueyYT+K8JpwHj7lcpRVGWmvMDNt5cn6hxKnoKlpPrN/JqkLT9+xiTlm2A4DSElZB7NskWbsh8g95HZU11uxTXEVUNFC2peO2nD1CyMUxhsJfZnk6e4hc4cdP5UCxxKTL5EIJ2Jm07IOsZZ4aluQObFkGMc/s7+VGq3yGYetbbhywDeYyQrVsrPw1P4CWo/8KrYBflZ/K71YL44jRTgDhjLdMitRjCx7SRK2MA=",
+  "URL": "https://wiki.gnome.org/Projects/JsonGlib",
+  "LICENSE": "GPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1589627270",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "glib2"
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "FILENAME": "cgit-1.2.3-1-x86_64.pkg.tar.zst",
+  "NAME": "cgit",
+  "BASE": "cgit",
+  "VERSION": "1.2.3-1",
+  "DESC": "A web interface for git written in plain C",
+  "CSIZE": "886265",
+  "ISIZE": "2009436",
+  "MD5SUM": "3f7526e3971b93d5f08e556fd953bb46",
+  "SHA256SUM": "d216e4345f0fcc39890a3206495a901194114ecbf4a8975ebd1094e9701ca743",
+  "PGPSIG": "iHUEABYIAB0WIQQEKYl95fO9rFN6MGltQr3RFuAGjwUCXm/n5gAKCRBtQr3RFuAGj8LYAQDhkd4QnQzyV2I3f3gQlKeQTyii6Ndw6ewJAIEro60gVQEArlsa1EEgoovMUk6oiuiQfYpS6nc2uUDP7Npb0n/Q6wk=",
+  "URL": "https://git.zx2c4.com/cgit/",
+  "LICENSE": "GPL2",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1584392082",
+  "PACKAGER": "Christian Hesse <arch@eworm.de>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "openssl",
+    "luajit"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "FILENAME": "nginx-mod-echo-0.61-8-x86_64.pkg.tar.zst",
+  "NAME": "nginx-mod-echo",
+  "BASE": "nginx-mod-echo",
+  "VERSION": "0.61-8",
+  "DESC": "Nginx module that provides directives \"echo\", \"sleep\", \"time\" and more",
+  "CSIZE": "18644",
+  "ISIZE": "50521",
+  "MD5SUM": "fb71916b91c7203da2484e3e4b496f40",
+  "SHA256SUM": "3c6d5103507afcbd6a6097b3206660d6dea25bde20a63f7a1b1ed1833c90a402",
+  "PGPSIG": "iQIzBAABCAAdFiEE7MrITBugimzI5j+78i+x14p3rqsFAl6gkdAACgkQ8i+x14p3rqvLhxAAmT19hTfI7mFHJizwKpafgsHh1ckrxWo0ajsp/qW8ccacUq2G8cPJIOzVBh5U85mdnjCFNPIY6x0nlRFGDolHMxcGr0jDhuRL3dZhHaAv5VCaDm7kpNG2K8DlBHN+sdRsXzFyr2oqhs/F6IQaG7YA3T5zDH6h4qy9sHiJwPnWZCGr5aGSI648Lc90Mcau5b5PRh93zJpe94fNn8piz3FFrPYhKveJ9cP02RjyGTHSbP+dl7TUO17AV5eEeL1H2qo4PVaqHYtsc5HeHvEuuOvRMT96xIMJdUexHyZW/R+tMScbyBsL3w1j/ZQeV41H3wecugGx5ElcbO+OGUJSC7ErwSU02U6GaMt+fTEYeaNRFM5Za5ZKH3gmE0tQhE6IRNDM3AIyTe7iZmw86sNYiHa1XSWTFUHAzuCvvBlPJddZM+goN+SSJmx4XvtUEbF7yYumyMScEjWcN6bCkpQn6nmqVnP+lLMeVy3k9YCtKGEG8OBAbIKhqg+CaMGMbBkLD+wt7QVb+ICrrMe442ANqhUFAxe1/p62ujRH8bROqS/Wsw95SGwftuweknbIWsKXvBK58kQ5jOc5y32F8iZQjpNoRGUKIDklxDyM0Jpg8ai6RQ/YiZbGHMGTg05tepnbY4nklHUmWHJItTNQO7Uujfwh//CQdynriulUTkbuI9qemvk=",
+  "URL": "https://github.com/openresty/echo-nginx-module",
+  "LICENSE": "BSD",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1587581302",
+  "PACKAGER": "Giancarlo Razzolini <grazzolini@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "nginx"
+  ]
+}

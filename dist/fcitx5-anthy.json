@@ -1,0 +1,24 @@
+{
+  "FILENAME": "fcitx5-anthy-0.0.0.20200527-1-x86_64.pkg.tar.zst",
+  "NAME": "fcitx5-anthy",
+  "BASE": "fcitx5-anthy",
+  "VERSION": "0.0.0.20200527-1",
+  "DESC": "Anthy Wrapper for Fcitx5",
+  "CSIZE": "179690",
+  "ISIZE": "607564",
+  "MD5SUM": "3ecbfea683cb34e32189f276f98bda47",
+  "SHA256SUM": "a777c42c90d332f6021e0fa844b0acf98aaf52752d95354d35f3ecd82034932e",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl7OSg8ACgkQeGxj8zDXy5IcPQ//cYpMzHPmSbgNu+Xd7o0MUkdbLYtfn9XDDR1/Lfy2jgKNQyyQwMpWgcYDkQaQiQoKhhCRcwVX/2cgeDv2grFQTF3RKzJfLxsAmJe9yCmUo8Om0nQHv0CFJFXpTlVtskVYdKiQCn/RT3oZWHvvOWQJZFQ61Gb3TrlnG90t2MX5OSpqzOpbZIaibWryWFRAcMq1XA8RzBpAh3bsfZD1Oy+bObeEyba41rupm+pmxdS7ebMB7H9TbGvci+Ls0ivl0gfzkx5T/3fTcCb2m6kmfDpRF7cSYq18rn+w5bdNImCIQZpRdlb/5RiXjvRtTH975V3sBQVLl5bCYAB4H29wxbraqT+sIFka72GlJRc/RgI5xr3dPa5s505VP46pFBgEnl9DYyPUGubgaQ/qjeupoGqV1ESNGcPZ7EODZMQGepGNcmlpKprytTzbyWhU3TGKogDfzPIqDtMeNJPVNC4aUfHg8ximY3vf4N/ek8uMXBn5O9i8rXVynT0f5sjn4MQFrrzb1NiOYEsCFxNBqzYHKaE/bZjjgp82lgrOljPVpkq68dfb5kTz9uAWsMI5ff3kwGzVq3HIFvvvd7HeX5vO8eRMqB2ALv4UfbaxHi5nR/5+4LyHabQZJKznlUmlV9tNXvl9PLfU+A3T+fqoR9ynbrQMrzDXByJdUx27tUL79aXI8A0=",
+  "URL": "https://github.com/fcitx/fcitx5-anthy",
+  "LICENSE": "GPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1590572615",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "fcitx5",
+    "anthy"
+  ]
+}

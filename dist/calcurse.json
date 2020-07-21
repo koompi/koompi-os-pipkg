@@ -1,0 +1,23 @@
+{
+  "FILENAME": "calcurse-4.6.0-1-x86_64.pkg.tar.zst",
+  "NAME": "calcurse",
+  "BASE": "calcurse",
+  "VERSION": "4.6.0-1",
+  "DESC": "A text-based personal organizer.",
+  "CSIZE": "243343",
+  "ISIZE": "855381",
+  "MD5SUM": "f1275f4c6a700e27be907c90cd036a31",
+  "SHA256SUM": "f4dca7f98756a5ea24906a209b0b7e26d156270679c495da130f5cce7bba9ba0",
+  "PGPSIG": "iQIzBAABCAAdFiEELjbYYgIhSC/EXLfyqRdkdZMmtEAFAl5/Rj0ACgkQqRdkdZMmtEBhLBAAzOHG+7OE7u1RkCzPlgCcdl04SZJT8+B93Xcpf7tKtds+141X7avOJxbYLFKnNtfpELFntOhEiSN8kfH0Mw+IBDt23GJO70ub8Sdt3owrE2t7loaK5MW1vJcK2TYn+lxp0viJIIyhzIKDCI1svbPRUy0YbVLPq12+sjGbT18A2PUxbA6ZSoEpu6RjF36D1R0S2MMBBT+o8myvRrFoi2hiwoMvavw9mAjSZHgQ/h+jYsh312R7di50/JbB4LVb+gN8Xpgk4TlZ/RRMbUP2CpciCg1sQIV+z4wsJ50dB1Kkmtxh5yXrwInW2bvuiZuaigqgncc2ZWAcB8f+G2ytniILMMaKCVzsu6H7d/OtpCaeBn/U3BtVhCiE3umOCy3Y3wpP7gLf44t0g3Q1nKMHm8lkVVD6XqqgcM0nvvOg5JWT0n0QEArw61+mjcmbpkMu7dCAfJQrXZy5iDJ0zVXS4nPn0kDpFQ/NrTur4ybZm2eCkzBWiYDQ/Tjna9ravoNnr5CsZ4ovoYkN7h84uslYG5VrliPD2Tzwr58F30wURHBpwSr9e1W4O9cGW5O9tdf/GQ1Heevk9VU7spqrZAzEUFoCCeC6n9s7xmAu3UvDNrIenyWu3jpBDski4mxDwCW5QP0hX5bWHZdbHsFeiMctR+BQPlfsx0Qvo/RZvZRA1vkuKjo=",
+  "URL": "https://calcurse.org/",
+  "LICENSE": "BSD",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1585399271",
+  "PACKAGER": "Lukas Fleischer <lfleischer@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "ncurses"
+  ]
+}

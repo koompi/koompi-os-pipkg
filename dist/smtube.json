@@ -1,0 +1,27 @@
+{
+  "FILENAME": "smtube-20.6.0-1-x86_64.pkg.tar.zst",
+  "NAME": "smtube",
+  "BASE": "smtube",
+  "VERSION": "20.6.0-1",
+  "DESC": "An application that allows to browse, search and play YouTube videos",
+  "CSIZE": "278756",
+  "ISIZE": "777209",
+  "MD5SUM": "ed51cc30fef299a648de422723c3342a",
+  "SHA256SUM": "3ed1326cb16c0ca76ee359d5c572221a45199b2aae9292895579396b18ca896f",
+  "PGPSIG": "iHUEABYIAB0WIQTH54SUZv4jWDQ1iDdyWHNLQcMVSQUCXuvXbgAKCRByWHNLQcMVSdyYAQD5k3/Y7RoH+d25rIy/eW/UQ+LijX91LCiQjzD26XBPVQD+MDymXwBklDpTC5H27kIM2sc0sgzroY2IJ+bm1oxB6gI=",
+  "URL": "https://www.smtube.org/",
+  "LICENSE": "GPL2",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1592514341",
+  "PACKAGER": "David Runge <dvzrv@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "gcc-libs",
+    "glibc",
+    "hicolor-icon-theme",
+    "qt5-script",
+    "qt5-webkit"
+  ]
+}

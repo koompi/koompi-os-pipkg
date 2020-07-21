@@ -1,0 +1,24 @@
+{
+  "FILENAME": "kamera-20.04.3-1-x86_64.pkg.tar.zst",
+  "NAME": "kamera",
+  "BASE": "kamera",
+  "VERSION": "20.04.3-1",
+  "DESC": "KDE integration for gphoto2 cameras",
+  "CSIZE": "161989",
+  "ISIZE": "578889",
+  "MD5SUM": "a09a57eeef7f92d301087b616fd64697",
+  "SHA256SUM": "eb0933ef21e2468aadab797b8c27bb9d3b6c0c19fa0049028563caf894873036",
+  "PGPSIG": "iQEzBAABCAAdFiEEFRnVq6Zb9vwrc8dWek52CV2KUuQFAl8HBkkACgkQek52CV2KUuSUZQf7B076Tub1UIEHorxQWzT50JqjRGN9H/KgxNR27iGhjsC53avXijO0Z5KBazfbV7JFCGNMvXnUspps+uXwZQNavyf2Wnk3SiNyWtwkWc8+eSxttacN+MqCIaPoTrAxzftcgamKhwauadFXx2wNTOvxVOk/8jOiXDRZ0zapCOeuVVITTpRyQf9NHquzx0ybOgQFZTvrbUD/7ECTIKEYqmxesCClR1kOrYbFHTN0NZMKTnY3RGhaa07bARsn96XdVByjhdps33a2G0x9AO7VVhnBQFaM5q74Xc04oCqOcIAWhSwanLojZ/w/+QUdid0cmyrbaiHJ4ORqgoKe+oWNDKQ1Ig==",
+  "URL": "https://kde.org/applications/graphics/kamera/",
+  "LICENSE": "GPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1594109668",
+  "PACKAGER": "Antonio Rojas <arojas@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "kio",
+    "libgphoto2"
+  ]
+}

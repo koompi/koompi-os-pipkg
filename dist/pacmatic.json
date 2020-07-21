@@ -1,0 +1,25 @@
+{
+  "FILENAME": "pacmatic-20150126-3-any.pkg.tar.zst",
+  "NAME": "pacmatic",
+  "BASE": "pacmatic",
+  "VERSION": "20150126-3",
+  "DESC": "A pacman wrapper to avoid bricking your system and such other surprises.",
+  "CSIZE": "7346",
+  "ISIZE": "9507",
+  "MD5SUM": "546140373240b7ff6efac14c69f14edc",
+  "SHA256SUM": "d0e0e4e2e11f8c7df7950abb416ebcea4e5a4ec8de7af278950dddf42def86a6",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl8EcV0ACgkQeGxj8zDXy5KkhBAAikJUE/Sd3kNXeZWpNgL+YgnOGVC8s45sxBipGiiaepWvLpFWVydOH5+NirFdwwNqFThXSUCiSU+XkotzEQa0rT8Gd38eaYIgL+fIHXn/VMAgPAwSsDpgv2b34h5kvRQrXuNvyOyqP+2OIxTyfk4EFHpNRRXdGQE8YlEglbR7Wfa4Y0OArSuuKpKN9RIGxwWmPKo7nXTb/gI9Ninrdl+lX+KxBRf4PydBCgSnyjZV66RtLFbTrXQq/XdcSJGSHt1HA8wJu8a/hay63rZ7hcoPSnk80aoQJOe8rP3fHhN9PN0RJzpCAj0ipNDytpUnjHMNdzU5TGL587RSNLzKi3XSK6bKX3DxPh25iS9rNFIfj6ghuXG5vP5RldjIynfknIRrlBh/BUypGVf+h8ptzUqRLFqHnnYcyeVBFqVwy3LWe9ShuUY97XU000KM0xkJZp8ujQmp6RY/kaLGDFtw91CqUgmxvjOXrmq13YvIvBLgRLXGUzYaEqFH5e86Za2NF0lm//p4gcmEM74m1lXRJsSg8rfGSQTiTekUb3POidn0H2tsz68IIB+ZYD/pwptsaW9oO7J/mOKous0mPYv8IFMqhO/i8uEIt2E//63SIsUo65lXPeSXrSq2nfpizJIDsa+kdPV1DT9N9HbaL1Z9tUTLxRlTDaeou3kRxW1jwGQP7Ig=",
+  "URL": "http://kmkeen.com/pacmatic/",
+  "LICENSE": "GPL",
+  "ARCH": "any",
+  "BUILDDATE": "1594126601",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "pacman",
+    "bash",
+    "expac"
+  ]
+}

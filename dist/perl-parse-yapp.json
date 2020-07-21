@@ -1,0 +1,23 @@
+{
+  "FILENAME": "perl-parse-yapp-1.21-3-any.pkg.tar.zst",
+  "NAME": "perl-parse-yapp",
+  "BASE": "perl-parse-yapp",
+  "VERSION": "1.21-3",
+  "DESC": "Perl/CPAN Module Parse::Yapp : Generates OO LALR parser modules",
+  "CSIZE": "37958",
+  "ISIZE": "103535",
+  "MD5SUM": "aac030f886f56912004c628517b6d70b",
+  "SHA256SUM": "a28954dfb45cd30f12386f22c6868e1f16d635d685dad278098aa72b44eb7491",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl7vM+YACgkQeGxj8zDXy5JYIg//V/7h1SuQXkICWfaY7PYQo1QgQFb1bW/AzC4wxv3W/Xx0bax7fZO0CUL/UOnNTbkrwMQ4J7DyfRKGoL5Cqi1jnyV5n1RKWz613ZGpHORWUKWata3lWdltp+WItbmjDEURpbq4NjHxuZFIj/pIHzOxOiVwasaLBx2ZThvSP6eZwkKHTFkXu9FNq0uHg9VH/ONXwovBE+zul4iZfkUh63Bpr/8PQD0TrSRdY3m6V1I/YNQtHsgMPkQ/Hpc9aoBiFvIL5uIN06Nrvw6lI0Rdrpvvs4D/6vNBnv7cASqXwTJRbmLlwNHM9fLiaet31aNCJtVGrWj3ih9Ec4Xjn+pJiWKDbiV/cPqyO6WLzMBICvCRNAArRB0aAfDaZ5JF4uzd7b2Mqk7trFIp4Ua9ZaOA91P5cn04CqxOyzm2HYd/+0djkeTH7DXxBkLI03SMdRnvf3LWbwIS3DQ3pOefMwGXIHr8mGhZG7vL5EHpK3PAlBLQaQxlGVx+Ux/zst1lHGy9pGeAgNs2e0/sqM+kgyVVUDToW++zExqdZC924XvLiDio+vt06jb6R3etJEmYY1lFRVrkpkByFrGESO36OAnr4VcJy44ouDmHrFSZhZvPoFKXXjh0UlPF+RA6hBNpA5D6ahKvm6PWOE9YLUweh3FMq1m9+bhx2Nnt9FnMLOZT7d00fbo=",
+  "URL": "https://search.cpan.org/dist/Parse-Yapp",
+  "LICENSE": "GPL",
+  "ARCH": "any",
+  "BUILDDATE": "1592734677",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "perl"
+  ]
+}

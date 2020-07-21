@@ -1,0 +1,24 @@
+{
+  "FILENAME": "kmouth-20.04.3-1-x86_64.pkg.tar.zst",
+  "NAME": "kmouth",
+  "BASE": "kmouth",
+  "VERSION": "20.04.3-1",
+  "DESC": "Speech Synthesizer Frontend",
+  "CSIZE": "1862583",
+  "ISIZE": "3672611",
+  "MD5SUM": "b1e1c608d5b3666a0d632190b5fc1ed4",
+  "SHA256SUM": "f18b1b42bfb266f53825f6bf155e922ab664fedaa8c570cb74c55b479f14751a",
+  "PGPSIG": "iQEzBAABCAAdFiEEFRnVq6Zb9vwrc8dWek52CV2KUuQFAl8HA/MACgkQek52CV2KUuS0iAf+MWeed+tIKwtyDm/GENMrWfsRjXEYS2driYwcOhME/qRFd2OmTGlTNDi0WN8MhgzZB6zxy4j0xkWtypXQz8X4w61CxBXEp5iBN+vEeRoJ7xk/iYlhycQvdZorlg+uod6wCu7pldowzar6l5Z14G0327Mz87GFiXv+rX+d0iz2YWQb2dyfqb4OKoTWC+Z7IpiRGlB3q6JQgj/fGHvYCLO/fuQZhdUmfNNr6Hmp8BgQJPqt3/w5LyrTOf8tvGM24UdB/uEK+ZnbKk5+a+STvJa2G+2Keei3X9XJj7rfRTajN+ljCneNvP+M2gqk+ctxLPeIinCxOs4qHF7yjiDFOOBdsg==",
+  "URL": "https://kde.org/applications/utilities/kmouth/",
+  "LICENSE": "GPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1594106703",
+  "PACKAGER": "Antonio Rojas <arojas@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "kio",
+    "hicolor-icon-theme"
+  ]
+}

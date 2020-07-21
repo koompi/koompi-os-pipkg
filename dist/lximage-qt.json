@@ -1,0 +1,28 @@
+{
+  "FILENAME": "lximage-qt-0.15.0-1-x86_64.pkg.tar.zst",
+  "NAME": "lximage-qt",
+  "BASE": "lximage-qt",
+  "VERSION": "0.15.0-1",
+  "DESC": "The LXQt image viewer and screenshot tool",
+  "CSIZE": "162251",
+  "ISIZE": "680421",
+  "MD5SUM": "c5a2a90e0164705151d69b5b6a19a86a",
+  "SHA256SUM": "9da553a1ee6630674dc506e86944b2cc06be0ff963e0e5922e1094ddc1b97226",
+  "PGPSIG": "iHUEABEIAB0WIQS5AcQXHI3QLG8vSWv5jvKnsKCYrgUCXqOj6gAKCRD5jvKnsKCYrvvQAP4rWW3yZX25uQf8TXHCADQNH8SVKHo0xEkxVu28mc+QygEAiDWRORTTfw3DvKjXyAmt/EoZcEZuxzYvmUwPHkPilIs=",
+  "URL": "https://lxqt.org",
+  "LICENSE": "GPL2",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1587782490",
+  "PACKAGER": "Chih-Hsuan Yen <yan12125@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "lxqt-themes",
+    "libfm-qt",
+    "qt5-svg",
+    "libexif",
+    "libxfixes",
+    "libfm-qt.so=7-64"
+  ]
+}

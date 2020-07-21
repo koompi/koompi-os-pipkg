@@ -1,0 +1,32 @@
+{
+  "FILENAME": "kdevelop-5.5.2-2-x86_64.pkg.tar.zst",
+  "NAME": "kdevelop",
+  "BASE": "kdevelop",
+  "VERSION": "5.5.2-2",
+  "DESC": "C++ IDE using KDE technologies",
+  "CSIZE": "9920116",
+  "ISIZE": "34793946",
+  "MD5SUM": "59f22d0539134a414d41edacdbc3e392",
+  "SHA256SUM": "6219c824f5d34cadeba873fcbddcd35971b4f59f7e64f1415bca252345790361",
+  "PGPSIG": "iQEzBAABCAAdFiEEFRnVq6Zb9vwrc8dWek52CV2KUuQFAl7feLwACgkQek52CV2KUuQ+3Af/UoZHmFpiTWuSd7faxF6zRoBjrPiaSWfbTnOHxyzfDENTbt5IPTEN0fgQMrCKvigos4vRsRwOMSw2PJFZmwE6AuUCO1DW4msA+is26Qm2lYOqz0x7dXXgKgZhRGyQ2nD0u6HlBPEFQ7VD6KpRGVLEJ6nt7iwzVKms4KfwCu53fiIkWto/2uCZrqZ+BCj0AjK9U46Ie8UolEqhw314tTPu4uZ5eOsvWMD+zjLRyft/tJAiJr4L5KzMjpvziSJXzgsyVjjatEjn7e0EEplKWKHrevXzDl7y2Nzz/CbZhlKRufcQ9dZPbsdbuF3Ubdbv9pueszZI32ufynWlG1hfbAgBkQ==",
+  "URL": "http://www.kdevelop.org/",
+  "LICENSE": "GPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1591703497",
+  "PACKAGER": "Antonio Rojas <arojas@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "clang=10.0.0",
+    "libksysguard",
+    "kitemmodels",
+    "knotifyconfig",
+    "ktexteditor",
+    "grantlee",
+    "libkomparediff2",
+    "kcmutils",
+    "threadweaver",
+    "knewstuff"
+  ]
+}

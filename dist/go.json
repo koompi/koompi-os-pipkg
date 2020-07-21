@@ -1,0 +1,23 @@
+{
+  "FILENAME": "go-2:1.14.4-1-x86_64.pkg.tar.zst",
+  "NAME": "go",
+  "BASE": "go",
+  "VERSION": "2:1.14.4-1",
+  "DESC": "Core compiler tools for the Go programming language",
+  "CSIZE": "133578324",
+  "ISIZE": "512183536",
+  "MD5SUM": "bd1dba82dd01583be3b106cef64532ad",
+  "SHA256SUM": "d24e7d83e4dc4908939d1ef8041677f387302071e1e4eb6c407394ead5f34aaf",
+  "PGPSIG": "iQIzBAABCgAdFiEEwQA0ZnZjToDJQPuenAL/QZ/svhYFAl7WvPAACgkQnAL/QZ/svhaHQQ/+OBA/vT1aRk7DNRo5nvY8S4nXzTCf+tbI+W6HbnPGY2oYrkqWlASffEQ9Q9EzqYgPdDLOMLb7H4oGhuW1wjCytA1Jkia4beHx2BP/mJV1eRo1LcGfTioWNbb2++Iq2qLEGQDLX8S7NNFHQ/tRPtLLtOblHOaPW1zSJsAFc0n+iP704jzXSB04wSRRrF5dUC3bgrKGlu+5dePe5q7EBynVM58f6oycqMSqRamNifwPR1fcDQfC52/jEgJkIbtcJBUCuTYdjtKzvhHLDbYw6UR4lA8VR3ZLtdgW8H3FPHNuqVoySpxXu/WBkVEMiPwT44RklBzyTwmg5pPc7R+YbH3S2V/2Oy2pQvXnI25kVFByNYD9YJ1HlBb7SO7tkTPbmGeUxynpQpt/45poLl68vX6js8uGnBSUuKSdMM8MCwknGm2hC/0ViIZT1fKH+bGUO9rWNL2iRKROtbhHp2KbMMebz7SBpx3NBXrdZttQlKr12P9L5GST4h4uZ06+S/p7ia9HH/SUdY8DSwrOnVaznBuSYkhqolzBereN6AVlvnBbKLEGmSvtZe4O0TFiSBZ3XNHSPPSUc+W9ASCy5Q99hTNTR95wEgymhRAcY9V4v3vhezfTDTJXKmpAzJX0Oh28bLhw9G/kKXkHOhm3DTwsUOBk7fVYXo0pAweQIjPxmZXYWHA=",
+  "URL": "https://golang.org/",
+  "LICENSE": "BSD",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1591130727",
+  "PACKAGER": "Morten Linderud <foxboron@archlinux.org>",
+  "PROVIDES": [
+    "go-pie"
+  ],
+  "DEPENDS": [
+    ""
+  ]
+}

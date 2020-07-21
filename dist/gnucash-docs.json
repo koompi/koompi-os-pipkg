@@ -1,0 +1,23 @@
+{
+  "FILENAME": "gnucash-docs-4.0-1-any.pkg.tar.zst",
+  "NAME": "gnucash-docs",
+  "BASE": "gnucash-docs",
+  "VERSION": "4.0-1",
+  "DESC": "Documentation for GnuCash",
+  "CSIZE": "47308979",
+  "ISIZE": "58448702",
+  "MD5SUM": "9e281bbe86a20c9ed3c8aad44a229da7",
+  "SHA256SUM": "cd94b72888193ed0405ffbe5bbf0961d48442235ea3f7c17c6dff9ab23c27ddc",
+  "PGPSIG": "iQEzBAABCAAdFiEEzgvecadZqH8j8PfYth284QkBwWMFAl8I4PgACgkQth284QkBwWOgVQgAi//ZyP+N0jdKS0VuHK9VbiXVFSVj5+QTKkdnE3NIcR5P4gOvk2+JQZzT60o6iRkMIJXbI42MFHvX0+11MEDuu3Jutrs8fb8YoLlhKjBjp/wcFekPj1w03aTUUbGs5JFhPI9yhfy27+K3iCMrcCTqKxNoHH/YMgZJgMLcFlOf10VUIxDXWWIQoKgVE9u0AZNI9T9ANFfiDK95ttB5E1et9VR+t7U9sM59ssHJ38j3H5gNKFe+cIBVyVlYU0+6F4+LY395IN19PYu3qVIUHvh3mpRQmdYoMS6ZGanO2OvuYcdqC7ehiTIkADCd64q81Jw2aYplqA7UX51fuQ55PuHh1g==",
+  "URL": "https://gnucash.org/docs.phtml",
+  "LICENSE": "FDL",
+  "ARCH": "any",
+  "BUILDDATE": "1594417219",
+  "PACKAGER": "Balló György <ballogyor+arch@gmail.com>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "yelp"
+  ]
+}

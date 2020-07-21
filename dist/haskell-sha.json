@@ -1,0 +1,23 @@
+{
+  "FILENAME": "haskell-sha-1.6.4.4-12-x86_64.pkg.tar.zst",
+  "NAME": "haskell-sha",
+  "BASE": "haskell-sha",
+  "VERSION": "1.6.4.4-12",
+  "DESC": "Implementations of the SHA suite of message digest functions",
+  "CSIZE": "79649",
+  "ISIZE": "421783",
+  "MD5SUM": "6978aab8514644aebc485ecd78b00ace",
+  "SHA256SUM": "a1d769cc764cdd07ab6b308cfb8c86498c0c7fa0e477749cdd1d3e1929d339a0",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl6hrf8ACgkQeGxj8zDXy5KUVA//UBEMzk9RD21xn+VfEOvJq503BKBeix7TdcZL9KOTWXGAe9Nc9ENEBAgAvbFD65Z/FwDlC0iBydYmSVdVqbyj7l8TAPfHfQCURv3thUzYHebkrSd63bvRjAHNuv8jjtNtj371qy2BOzRrP+Ci1KV27fMXzBlip9+7+gZ53nNpCzJqTnr4fzfk32R7E36gKKkm2wjy+7y3gP7rOmq+6PbcVRTBT1BEMqckjJN4MBPGWtDMTnix0lhu4ICgHpa2KXPjkCcDjhxRcvL7TCdVp8Ur6VqHZdxPSYINyK1d20JvRx1c/HvtRsDzavFpQsI8LPtgjITrQKotqkXdcXmZlZFQ3LbCiE3aB9PVx2Vlrx+JiYbYxrxLa9Ak8JQMOOOGB+AMVi6YJYVR084dzgYNWo6VCU01UesxFuloeXJFhKMauesLbn7IjvHtsitHcRXNGSB/0GSzIWjW4CVzEnjJ3ypMreM1xNo8TgRwCAaHHW5giODurLUjdGZ0P0CftcDrnFEQ4S1oqEbZ5nXQu+odMmgL5WCjDTQREIQazFHVeJ2ciwafAmqbcSwy1rTFb/gNxMOqbGCXYrD5j/JhUfKNmTP04jJ69XoDOqkteRl0F/qLhmAq1hOXw6rV18awuNo3sUMxuAaYB//PzUyMxaPetE9En0CRT6RwtnPdT4FjXK3EtRg=",
+  "URL": "https://hackage.haskell.org/package/SHA",
+  "LICENSE": "BSD3",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1587654032",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "ghc-libs"
+  ]
+}

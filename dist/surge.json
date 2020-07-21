@@ -1,0 +1,36 @@
+{
+  "FILENAME": "surge-1.6.6-3-x86_64.pkg.tar.zst",
+  "NAME": "surge",
+  "BASE": "surge",
+  "VERSION": "1.6.6-3",
+  "DESC": "An Open Source Digital Synthesizer",
+  "CSIZE": "34525940",
+  "ISIZE": "110031292",
+  "MD5SUM": "38c895298111cdeba9e0b534185b08dd",
+  "SHA256SUM": "5159215c774ed5c3dc8b178b99d73d14a742d56a5249be78bc5397d11721dc43",
+  "PGPSIG": "iHUEABYIAB0WIQTH54SUZv4jWDQ1iDdyWHNLQcMVSQUCXpQX+QAKCRByWHNLQcMVSVhYAP9ll+yrJo/ByAjVLQNWrJYrkypGq9UHH+vdRJYlax314AEAlnai60OOtdQ0T/jNEbkPXBCACvbP0+mdXJ+z2nd5nwg=",
+  "URL": "https://surge-synthesizer.github.io/",
+  "LICENSE": "GPL3",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1586763310",
+  "PACKAGER": "David Runge <dave@sleepmap.de>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "cairo",
+    "fontconfig",
+    "gcc-libs",
+    "glibc",
+    "libx11",
+    "libxcb",
+    "libxkbcommon-x11",
+    "xcb-util",
+    "xcb-util-cursor",
+    "xcb-util-image",
+    "xcb-util-keysyms",
+    "xcb-util-renderutil",
+    "xdg-utils",
+    "libfreetype.so=6-64"
+  ]
+}

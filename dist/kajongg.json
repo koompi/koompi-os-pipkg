@@ -1,0 +1,26 @@
+{
+  "FILENAME": "kajongg-20.04.3-1-any.pkg.tar.zst",
+  "NAME": "kajongg",
+  "BASE": "kajongg",
+  "VERSION": "20.04.3-1",
+  "DESC": "The ancient Chinese board game for 4 players",
+  "CSIZE": "4930848",
+  "ISIZE": "9615247",
+  "MD5SUM": "1c548d4ff81dbdc9ddccd005728c384d",
+  "SHA256SUM": "9873fb19b6fd4ff9fa7a80b8febe757496bc569211231eb637a46f59ad565534",
+  "PGPSIG": "iQEzBAABCAAdFiEEFRnVq6Zb9vwrc8dWek52CV2KUuQFAl8HBPAACgkQek52CV2KUuS4AAf8DSGBULhDQNhS7+9WCjr7qTikPolJ/BOGhmjIOCI+pZ1zx70CJR/DbCGZmFrFGT0v+/IksPGCJDoMSzC2oeOS2wHBACvI/SkZZAmR81ekpXm7iG5vbOPEfIYgKf+GS01mgYLmRXWkfDrY0A9AhoTW8Hp5VUQM9lu/QsZ7GkDMioL4aNhEg+RmtFlmzUkM8dZwH+PmsPBbdO+aVwrySAK6+IF+eKR/TEOKu8tIAZa8HpBd62gLj4RotLunsIg4fpCW2KFLNRdO+7yTek2fwNKO7GZgwXYhUbjqcKmJNd6s4pCpLFW1egwHbvFLmlCoWadHnGp41+WQPwDwi8lOlyBaWA==",
+  "URL": "https://kde.org/applications/games/kajongg/",
+  "LICENSE": "GPL",
+  "ARCH": "any",
+  "BUILDDATE": "1594107982",
+  "PACKAGER": "Antonio Rojas <arojas@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "python-twisted",
+    "python-pyqt5",
+    "libkmahjongg",
+    "hicolor-icon-theme"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "FILENAME": "bcprov-1.64-1-any.pkg.tar.zst",
+  "NAME": "bcprov",
+  "BASE": "bcprov",
+  "VERSION": "1.64-1",
+  "DESC": "Java cryptography APIs (Bouncy Castle)",
+  "CSIZE": "4026644",
+  "ISIZE": "4772900",
+  "MD5SUM": "16220f577ac9ecb1487cd71a4c81b2e8",
+  "SHA256SUM": "51bb7fac405502f6523cc6114764067a1dbcaf9089b54fa2ebfec00bd5cacffa",
+  "PGPSIG": "iQEzBAABCAAdFiEEFRnVq6Zb9vwrc8dWek52CV2KUuQFAl53XVMACgkQek52CV2KUuQiRwgAh/2BXFxNW9gev51i+ktUioUGb+HciHrubiw9yOBTrylE5z07ISTpjSNO/ERBQJUuulB2OgwDuGk2//kJvoh9LOq0HWor1zbEJ+Minh8/zeTJS8L9CUNvIyZJD/wAxTPTnGEWuf+Fy7bZk10EJJeu7nOE+yUuc48aLrg7v6XVLU09iWrDdYteYTk+F5daoHh3HudBMVZMqm9Hh49Pp7h9qn/4/GoMr4qi/JD1QqntYG7CX6DNrws5ymMPWYa3QWoU4+gZ6LdmhCfcU9YemOvN0o/WpjJx9hDPnq+8y8TEVMkZ7kngHYXxDhxTo5LZWxbuctUFUo6zUYdtJtFrikrKCg==",
+  "URL": "https://www.bouncycastle.org/java.html",
+  "LICENSE": "custom",
+  "ARCH": "any",
+  "BUILDDATE": "1584880709",
+  "PACKAGER": "Antonio Rojas <arojas@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "java-runtime"
+  ]
+}

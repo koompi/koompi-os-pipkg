@@ -1,0 +1,25 @@
+{
+  "FILENAME": "haskell-data-accessor-template-0.2.1.16-13-x86_64.pkg.tar.zst",
+  "NAME": "haskell-data-accessor-template",
+  "BASE": "haskell-data-accessor-template",
+  "VERSION": "0.2.1.16-13",
+  "DESC": "Automate generation of Accessor's of the data-accessor package by Template Haskell functions.",
+  "CSIZE": "18083",
+  "ISIZE": "57095",
+  "MD5SUM": "f51fbd5bb5fd7071d2f0fe97a9d19a36",
+  "SHA256SUM": "718447135b08102fded10915d773b18c3eeaee4f57d4e25c88f37a463407dad2",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl6iIMwACgkQeGxj8zDXy5LBqw//QzbxwVqVlXduuwW3ZlfRy3feOSShK+09g2tXVoabTIjFl8UkIBTJ7s1l8tWNZ29/oaK+7sCZ/iKUT7xY+5P+L1LNXR7zDnQ83mkcwqTP7ThVcyWccHcxpViXPRPPKEg2yXmciWEOoHd1Hra3daaadU37Lvm+v0Q1yGk6XRloGVDVAg0jjxTD3HH3L8YSDNNVD2CEhI/61D7WhHuqxBw8SEggqv6e7PcreFFo9L4otlqbt7fCB7U1oZcpJTzh/33lVks+LJ4vKBpZjrGgMM9Ai964cWsV1t+uY/m05xOVHvsA7ifZJ8I/ZgwdaFRlf9uunAYD73jqdzRs0kVoSn9UULzbNYMGDBDljX4jUbYn3F+ZJZe4gHGuN1V5d0CefI14j0d6u5b0AwNO1qdGd63zaguDb/VTc4J9Xcfkqh/K7UKP/PzOLa7Xo9uz38JgRA1nX/O4qD80Qfj53hwLBwJu9ItnTrdbHrqwVHRKq92X/XlMPQjA/nj+UBfAhSNL115q94we5xDlntP+SOINm+AvW351e9tr1LY64NNjKxiho/7u2N2re8Aa8/tJxkKfek5otfjgPLUs9Lz/rT6UV1QT0Mu1g7L7zeoMIOCruLKM9DUuH2AU+aeZ+AvtHZQheMmEwgCogBRrlM7xW/SNDqrJgBwYMCX5haRWZpTBgCot/ak=",
+  "URL": "https://www.haskell.org/haskellwiki/Record_access",
+  "LICENSE": "BSD",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1587683447",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "ghc-libs",
+    "haskell-data-accessor",
+    "haskell-utility-ht"
+  ]
+}

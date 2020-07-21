@@ -1,0 +1,26 @@
+{
+  "FILENAME": "python-zeroconf-0.25.1-1-any.pkg.tar.zst",
+  "NAME": "python-zeroconf",
+  "BASE": "python-zeroconf",
+  "VERSION": "0.25.1-1",
+  "DESC": "A pure python implementation of multicast DNS service discovery",
+  "CSIZE": "79615",
+  "ISIZE": "406008",
+  "MD5SUM": "d7aec3d204f04086479dc9d399819de3",
+  "SHA256SUM": "4201165418dbab90b16181d3870bae62b7cd16ce736b4c52791e726c56aad302",
+  "PGPSIG": "iQEzBAABCAAdFiEE5JnHn1PJalTlcv7hwGCGM3xQdz4FAl6Z+9AACgkQwGCGM3xQdz5r8wf9GGcQIqOcO4esCcmDlCiGc2pwrbQqC1M5ViUZBN6xjTDb8cRUbSGkBe5QnTQxGi51vyJsDXy6pUZhQQZtM8zHwP9faq/UXMKWXi2teMXOgmkwDNbe59JMbjwPIlUyQPNXriMBHloUoSOr8NVuOA0hvH87TLe3flZS2fmM4dgzB2n0mbZKH09MI6OphwR4JVun4g/Et3Ugyw2mQzXr9VIoLOM8SC0qnCFtOQ1C4A/P6GzqeUR7meHDq0BuozgtlkEfdVElwi0uC7luvC/YgBWA1DHmSJu0ickC3rFHhrRurDFw6n193sbt8GLxJShhov4q6o8jLu6+dek4CU59zPu+RA==",
+  "URL": "https://github.com/jstasiak/python-zeroconf",
+  "LICENSE": "LGPL",
+  "ARCH": "any",
+  "BUILDDATE": "1587149718",
+  "PACKAGER": "Jelle van der Waa <jelle@vdwaa.nl>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "python",
+    "python-netifaces",
+    "python-six",
+    "python-ifaddr"
+  ]
+}

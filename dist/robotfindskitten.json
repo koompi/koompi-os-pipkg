@@ -1,0 +1,23 @@
+{
+  "FILENAME": "robotfindskitten-2.7182818.701-6-x86_64.pkg.tar.zst",
+  "NAME": "robotfindskitten",
+  "BASE": "robotfindskitten",
+  "VERSION": "2.7182818.701-6",
+  "DESC": "Yet another Zen simulation",
+  "CSIZE": "28563",
+  "ISIZE": "56147",
+  "MD5SUM": "7a401de721ff5cfd314cea1f52004471",
+  "SHA256SUM": "ea0fcb5c2dcdb14ef3a99afc4840098a170db65b2ef0e32008f53b2da2346a7e",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl8EnkMACgkQeGxj8zDXy5Jf9w//ZnzgLot6cH1ld2yvtO1N5MKPHdmTWiTr64WBQvr1YpZnkNOo6wRuxDiIv2dfMtwrm6jlG4QeQZ5qPfIEw8kNqQd8QJRcg9sx7iFKdwGyr9vb9EyhZUxRpYf75xXRzFRS2rSip2yntO4VfgAJSmrYgzD6bkFSAHoEj9yLchJYfc2yy3ekSxSLwUxPGXG9miMkC+vczU01n76snZ0xQTK67gi4Y5aofpI5fFWr4XJG5YX0KANMP263PcopwmVhE20cp4GYV820YR08cW/2FMVdsInwjnMrSsEw/DZqWPS7+WrhctDm8nqGAkvKSQH7efQGqjU8Bjh//S19gi6WZNZl4GCRsBCDmpun/EujKBHdcWjVud2PoGLKb3I033oJvi5Avle7hMg1Xj/5JoIP3VdGyT7m8rrJxWyck0cPpb/N71o7milkj1WLRhIHPTiwTr7+X1uM1ai3BRtQ2OpFW82iRl5pchaH8J3jX5VWjNU1mawRezgejIoRoWOg1pXNSfsvsLUCtw8SKOS276YYFoZoxx/3/7DdUe8aH8VGh/x6nn3wPsd1EUuxZoXXZRmV7AgTHJWi+MFHgMB4HwlpwHHJeRoHFMVJPB/Etux3HnOtEQy87Qf5fxlKPVXeQHyhYoRwCYrjj9t/z1aQZ8anoQ4W860VROZdoKmOk5XvAGhcIjY=",
+  "URL": "http://www.robotfindskitten.org/",
+  "LICENSE": "GPL2",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1594138116",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "ncurses"
+  ]
+}

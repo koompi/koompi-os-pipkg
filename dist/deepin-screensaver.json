@@ -1,0 +1,26 @@
+{
+  "FILENAME": "deepin-screensaver-5.0.3-1-x86_64.pkg.tar.zst",
+  "NAME": "deepin-screensaver",
+  "BASE": "deepin-screensaver",
+  "VERSION": "5.0.3-1",
+  "DESC": "Deepin screensaver viewer and tools",
+  "CSIZE": "692482",
+  "ISIZE": "950970",
+  "MD5SUM": "e777cd1528baa8670eb18bc175fd75e5",
+  "SHA256SUM": "da1dab9ee21f69a3c88b7019a9737700fbb388777edc5aa6ead8b072fbb857a3",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl7HdDMACgkQeGxj8zDXy5KNjA/+Lb2hxLMYm0wyzXVpW9Exn2z5NctrcWUn9ZWl1DQCAn6gs1kpWT5Fr6WSlRDY0LjlKbZyCB0rzcft3er82mcWeXGi9kzuo5U5yx5dsfZ2PKnUrHCEY0mBg/yj2UOwXJDZNem/WJ5UwvmJWWcZwCVC8YJAacA3cHwajhQLs2bAgLRTmdcZT32Quhsu5tYXs0y5afT+PCXzNHsoY7WN5lF6iCzii+kkIBkOikgH+9zkHAIIXrIlNibeahElOW/ITZ73+T8xyI+xMIPteofNdE/UrUoD/rnM0wqXJ+O1yBsurdLG0D1idrpxhQiWtCZb/gQKX6S+L1FGmKMw1REA4+0o4Bebefr4fa/Q7+3e5eq5exlNwVHBZtZWjw1GcSjdPIgwhXakY8yvefHtFFP7QZnSOWAwdEaaSOsQSczKPK8QFyPx/EhRLkvI3w7V+iaqKR++hDVLwkYPqSwUpS2ZuQ3NneBpjT+NvDhMp6FsOoqegPCxMgJBg2ki0O4V0EWpqminCBJM9EZj9wU+4pwDMY2VSUWuy5ru2aXbnECY9QYs6xd/TubBGfgZnwfb+tMw9Zg2OEVuYO2ut4K9cAljSmdeVgfcPDcmg9vk419wpEgWffQEsMGSsbOFoXn4gy8xTQyNd+CUcS4mxhZI51OG4c7+ZsVrBoOQ9U5HIEnaSHggxxY=",
+  "URL": "https://github.com/linuxdeepin/deepin-screensaver",
+  "LICENSE": "GPL3",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1590129668",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "qt5-declarative",
+    "qt5-x11extras",
+    "libxss",
+    "xscreensaver"
+  ]
+}

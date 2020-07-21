@@ -1,0 +1,23 @@
+{
+  "FILENAME": "pambase-20190105.1-2-any.pkg.tar.xz",
+  "NAME": "pambase",
+  "BASE": "pambase",
+  "VERSION": "20190105.1-2",
+  "DESC": "Base PAM configuration for services",
+  "CSIZE": "3004",
+  "ISIZE": "1974",
+  "MD5SUM": "eae27c2a3219ce6e9e62c0f1f501a617",
+  "SHA256SUM": "00b3409cb5fc76befabdd967ae5912ef39ab7b7ab4d2e10da0d2204e5e021410",
+  "PGPSIG": "iQEzBAABCAAdFiEEhs/8qRjPOvRxR1iAUeixSKmZnDQFAl3MK2QACgkQUeixSKmZnDTXLgf+NQJQ70TkANxZBxI+3rBoSgzSg53MFYgD9lz6Fo6+VPk1hVAKpDD0Bd4y7EbKM6tsTlJHAaECCVJecK+b3W8IL+17+5sAZu38cL0uZmCIbdkeD8GgnDf0UwNHkWfVe/6Tyv42/iVf4QfaQJHIKTjPhS8KD5lfXxZqztWHz6rhMBFrfDs3C2PPnUmUQSFkU88Qxyc+t9uRx29c0H4aAmnzkokTQYVnOKhzNFyGHnK+toA62Pstzblwu3zkE+lacD2V3x4fP8GleqHaO5iliK8jhOpLpeLsJt/A30gvCCogN4sMHLo9Ekmo2z8Zm8QLNsToUC5NzhEqsIDb3l9mQRNC1w==",
+  "URL": "https://www.archlinux.org",
+  "LICENSE": "GPL",
+  "ARCH": "any",
+  "BUILDDATE": "1573661526",
+  "PACKAGER": "Evangelos Foutras <evangelos@foutrelis.com>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    ""
+  ]
+}

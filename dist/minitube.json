@@ -1,0 +1,28 @@
+{
+  "FILENAME": "minitube-3.4.2-1-x86_64.pkg.tar.zst",
+  "NAME": "minitube",
+  "BASE": "minitube",
+  "VERSION": "3.4.2-1",
+  "DESC": "A YouTube desktop application",
+  "CSIZE": "1044661",
+  "ISIZE": "3282248",
+  "MD5SUM": "28c9e46689d70b4d19d07fa11b9d9212",
+  "SHA256SUM": "1667a938ba33ca872b3acd61e5e8b230c2f338986a748279261a25ac32427e5a",
+  "PGPSIG": "iHUEABYIAB0WIQTH54SUZv4jWDQ1iDdyWHNLQcMVSQUCXuJTbgAKCRByWHNLQcMVSbmCAQDACb9zWRQnQPnX7lP26qbLCNTv4UyY/uq+j4HaH7JWdwD+OlTVNxzp9EtQvKIAAMLayYlRGtqEIwvzkRtgLlAH4wE=",
+  "URL": "https://flavio.tordini.org/minitube",
+  "LICENSE": "GPL3",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1591889183",
+  "PACKAGER": "David Runge <dave@sleepmap.de>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "gcc-libs",
+    "glibc",
+    "qt5-base",
+    "qt5-declarative",
+    "qt5-x11extras",
+    "libmpv.so=1-64"
+  ]
+}

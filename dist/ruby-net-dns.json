@@ -1,0 +1,23 @@
+{
+  "FILENAME": "ruby-net-dns-0.8.0-6-any.pkg.tar.xz",
+  "NAME": "ruby-net-dns",
+  "BASE": "ruby-net-dns",
+  "VERSION": "0.8.0-6",
+  "DESC": "Pure Ruby DNS library, with a clean OO interface and an extensible API",
+  "CSIZE": "101044",
+  "ISIZE": "423353",
+  "MD5SUM": "df1d54dbdf6170a0d6adfc352442f640",
+  "SHA256SUM": "3ef5b758cb426a4249d7ea0aaff3ac81eb67b2c49569a603e646ccd174a66b1e",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl4ECyYACgkQeGxj8zDXy5KLXQ//b0TzWQQOs7bP7H4Dlv/5fQpRf++tn/YfXuGA0qIYBNmCS/HTO6XmjrOTLMbCab5mhTiJzOb62UFPC+IhptV3XzFBIuCWIryT92oD89eUa4Y+dL1FpfT6FXlooPoHdC22nrDsRQgbNviVwdDEutHWIlB3Hl/afiHR4kYAwGpRKr87EUSgE725fI5yoXavpp7r/gXlBihCnAVymnHZTfdToPvR8uGT0o6FqSa3ILW0Az55TdEAtFWRn2IiuJIjNGd/Zunsi1CoZ9DPN73n/6g2nlTGTxjSw9ktWyHRIr68Jvot1m4XVigsvkG3SDvy+mcm4+YSIiq2+yVeLlH3w3dYv1j/O5OmzDxNRMVa0R8o/DZYP0HHcoTcL4swS1UxclzWij1xm2gcIPlENI43OUK95ZrOK4mR+oK2a2ePH15M2oNWuUUIn/W+ZgJKv4qoYs5fu7Ikw8DAXgsO9g0s2EDaIF37/JRRZtRipwjgCi5wtlwMVi4+3GZ/GFNQLqf6SxyXQZ3mNEUSqST9hq388ntVV7GswUHNB6GDCekDSQ7vOr5QhDK0NJzi6PuJUjwaE1VWjAWixXV+mxZdFVxMVXXI6MjtGbRDhUoElJ2stjpsBLLfVriHZULepPCLV2e09vmh8lWSJNA3dplNWkG7L3AQq4PRQFquQDPe6DvAdSZq+HE=",
+  "URL": "https://github.com/bluemonk/net-dns",
+  "LICENSE": "BSDL",
+  "ARCH": "any",
+  "BUILDDATE": "1577323274",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "ruby"
+  ]
+}

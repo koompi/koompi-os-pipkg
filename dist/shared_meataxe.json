@@ -1,0 +1,23 @@
+{
+  "FILENAME": "shared_meataxe-1.0-4-x86_64.pkg.tar.zst",
+  "NAME": "shared_meataxe",
+  "BASE": "shared_meataxe",
+  "VERSION": "1.0-4",
+  "DESC": "A set of programs for working with matrix representations over finite fields",
+  "CSIZE": "1068396",
+  "ISIZE": "10746929",
+  "MD5SUM": "9cb00c06738beec360e31c7fe0ccd734",
+  "SHA256SUM": "4701e2ebe780aee6342617de687e27a4d777fabfe2df3b624dc736d23a7a051d",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl8EdzsACgkQeGxj8zDXy5J1Sw//f4rjNOpHOfNh0drCxaCuvUVCCVqL3s9jiKftXEYtQ+dxJ10v3GFx0hJdSHwbgbnP4FBIMUuG1a1+PC9Mg4wv+T7mwtZI1yBGDwSaGuItnTmmE61qceYnJB4E/vL8yXm3FE2VHN8ztvwR9HiWj0Xc9i0EK6XdSu9BJUl6TvYV8w7/RUKfvF79p/qZDRFUyjq8aEPYNZ0HJ51JnjYQbYwZ9qOw54g7mk6flWOOmD37/fHTH3g1Zm8BxRW/9feS+4SbvYKZrEb+nkQsNLy4sRb/xHxHSurgSP3U5GZ9vjef6R+FP7vTvsr9dmz07Of9WCNLpkD1obiY9p+jrUFk2hYgxG0RASkWUcLuRAoJEF3x9IA602+NGkD7glq19xkuGD0wvoBfKtGq9zzcXaCY7UnEQ2RMlIvnZh0+GosKYCDES5rWtwzahIeHQMnZ2eCUo188YkVpy5KMSS2uyj1CmvIQAeJkMkIgQAwONeDzoc4+xwcstzQqC2Vwl3n8XM1NCoUeSu2RXrymXuE+ylqxrJyX5l4w5e7Tw2wiLUorS7IlDzdU9PHQCcb5j+c3N1F42RYzUBKNmPcc+0Qkt0iqeUt5Rb51XG8iXIo6dqAp0DBDsFZGGuytaKulDiD7lmI8KoHkcVyj8fi3jH4OPdUy2FdOkq4uh4SSOLi4+YMnBrr3+HA=",
+  "URL": "http://users.minet.uni-jena.de/~king/SharedMeatAxe/",
+  "LICENSE": "GPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1594128149",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "glibc"
+  ]
+}

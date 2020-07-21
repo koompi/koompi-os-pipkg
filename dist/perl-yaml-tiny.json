@@ -1,0 +1,23 @@
+{
+  "FILENAME": "perl-yaml-tiny-1.73-4-any.pkg.tar.zst",
+  "NAME": "perl-yaml-tiny",
+  "BASE": "perl-yaml-tiny",
+  "VERSION": "1.73-4",
+  "DESC": "Read/Write YAML files with as little code as possible",
+  "CSIZE": "23398",
+  "ISIZE": "50233",
+  "MD5SUM": "f54c4a5140114e4c05389d3dfc169207",
+  "SHA256SUM": "f9cab1bf5160310b67c04e1969caa7081c660b98098dd41842aa16dbb057a113",
+  "PGPSIG": "iQEzBAABCAAdFiEEhs/8qRjPOvRxR1iAUeixSKmZnDQFAl7vOPwACgkQUeixSKmZnDTvTAgAo2Lycg2o1a29L9iumPGSB7+EG29gYNDyDYB/+lQ8P8UDtZCcSFV+O58v5iBN7Ob23i9fO3DBPFNxBxODsYBsE+QituwKhj0kZ00cOsJTKeX8xLkbhl5OfkCVWYS6tfHFFiseq7UEykWsN3xZqsmvcbimiTQGYF9HHOgOPcYOEFF/fcC8RGMBP8/HiNKqEBo8CpbNhPqShi5J9VZDh6Y6kGh1c2tLK7T9X6bD4RHD7TDRMsC3eoB2t2Nihu/R1wh73QfTZThkUWOixXIyEB9ygVB5UyirzLcAsnC4B+kcvIa0uXznC79B2G6UxaU6a7tMWT4Ao4FrJTWcNndxLvb0yg==",
+  "URL": "https://search.cpan.org/dist/YAML-Tiny",
+  "LICENSE": "PerlArtistic",
+  "ARCH": "any",
+  "BUILDDATE": "1592735978",
+  "PACKAGER": "Evangelos Foutras <foutrelis@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "perl"
+  ]
+}

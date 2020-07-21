@@ -1,0 +1,23 @@
+{
+  "FILENAME": "firefox-i18n-fa-78.0.2-1-any.pkg.tar.zst",
+  "NAME": "firefox-i18n-fa",
+  "BASE": "firefox-i18n",
+  "VERSION": "78.0.2-1",
+  "DESC": "Persian language pack for Firefox",
+  "CSIZE": "530109",
+  "ISIZE": "593505",
+  "MD5SUM": "5e273fe25b37b850504a4b8ec1670087",
+  "SHA256SUM": "cfbaa3483043674790cd4d025cc3eeb911f8dd3b1a63dcac680639534dbf2bc5",
+  "PGPSIG": "iIsEABYIADMWIQQGaHodnU+rCLUP2Ss7lKgOUKR3xwUCXweloxUcaGVmdGlnQGFyY2hsaW51eC5vcmcACgkQO5SoDlCkd8d98gD/W6ezQmCG4TcAFchqZ6Pz2ETw6Q87v2zN456y9nE9Z2gA/3s4JLcXC1HjR+ezi4CVmxgwiDTqlvgKpTdvuSsqVqYA",
+  "URL": "https://www.mozilla.org/firefox/",
+  "LICENSE": "MPL",
+  "ARCH": "any",
+  "BUILDDATE": "1594311501",
+  "PACKAGER": "Jan Alexander Steffens (heftig) <heftig@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "firefox>=78.0.2"
+  ]
+}

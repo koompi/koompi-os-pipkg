@@ -1,0 +1,23 @@
+{
+  "FILENAME": "openlibm-0.7.0-1-x86_64.pkg.tar.xz",
+  "NAME": "openlibm",
+  "BASE": "openlibm",
+  "VERSION": "0.7.0-1",
+  "DESC": "Standalone implementation of C mathematical functions",
+  "CSIZE": "105628",
+  "ISIZE": "307665",
+  "MD5SUM": "60b234a081134c4dda7f9bdbbae5aef7",
+  "SHA256SUM": "90038e883443b0bf975768bfce1d954f879680f0be1d93e4ffaf19255195477e",
+  "PGPSIG": "iQEzBAABCAAdFiEEFRnVq6Zb9vwrc8dWek52CV2KUuQFAl3vSjYACgkQek52CV2KUuTkXwf/bKiqqEeDMSZvwxfNXL5HEGiJ/SP11M/A+6kruvuFNGseQ3kVPcNit2edx76LZjNH0K8G9D6OpWC+dKsF0wmGuW+GxnQE88qarRm1wx+dk7RA4bt/dnT3H8+3YVg1+dOVFBtv4PWeRp4FBtLrCK3WlqMd1hDZf+zXWuT47klteOHk4KmxXDpyokRehqFaAZZjipPLEpy+0gXyNVuDuSXpuMthBc+CaW2Nqd10+R1QcNdJlx7mAcehzcTfnWB4lA4Hzkf9BreAwlCRjnPhXkRxdCyQnaziExNOtp3qHWBzKyMqGhK3OS+qQWc/dNI17pwDtontUrxKd5H2c20EQ7Jw4Q==",
+  "URL": "https://openlibm.org/",
+  "LICENSE": "BSD",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1575962942",
+  "PACKAGER": "Antonio Rojas <arojas@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "glibc"
+  ]
+}

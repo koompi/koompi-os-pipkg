@@ -1,0 +1,26 @@
+{
+  "FILENAME": "ansible-2.9.10-1-any.pkg.tar.zst",
+  "NAME": "ansible",
+  "BASE": "ansible",
+  "VERSION": "2.9.10-1",
+  "DESC": "Radically simple IT automation platform",
+  "CSIZE": "13686774",
+  "ISIZE": "147444730",
+  "MD5SUM": "24b907f99c7b8c33c0f778ab7378579b",
+  "SHA256SUM": "d8ed1e706cee22830e6ba87f48ab2a9ec0c4ecd62f8b881b9506f3df159c18a2",
+  "PGPSIG": "iQIzBAABCAAdFiEEj8FaBklQqZ3RvRTdOeS4d+YuuRUFAl7up0cACgkQOeS4d+YuuRUkbA//SAmLIoRrezyFAFttFxvgT2Shfk2jYqpdnLbO2jlOYyDYDRaY8GOlnnT37WfQcTrX4iD22QWEPJRO7e8YIY/ofMDa22PJU+am5VJcjNictXPGN7ae/mbUizbpf8ZjQKcn0WYLPFCxbu50ez8qG0y0u+bIc1moqfKl5uGp0N73egxiZJUXREh/dPfUSDAtg54supsVFihzqt/corPwLqsg4I2KYFwiV2f8WSsrpXYJJ610+RiamYP8nZcTUSZnBgN+agCcYkaU8JAMyO9UMZ8s7NHRS1q7qupB0gX5jeNAEsXMcZugTtDpu1BFfwZM9TLPYBImbilwjnCnMUQXkRk/qrmR0dgBftAOgPWhIItaN0X/iPjhb1Gaaj0SzOOeuWe2FFD+++4pDPe2lDM8uuOioh6CVjO8U/+aul/fDFyK1xd1zLe2v/8kjNRrzhUAG2+N1RlJaQrAXFH/YQ1qRqiM0tW9bpP2VM6vS4ILRNj5Uply6fHp73sbJdxoTM/JWXINK0MiwngRu+XFvIodiN3IUwjSMVQep/OHTKkwkq25xC3fPtfIyDPTQM5G65s5zVxptBLbs9S2F2leWTQozFO5A6zIBTSri3U3qiZ5o/JKjiri2LijedK7Gbu7ZffZhtH1oygm3WwHEGGwNDUVFPKdxdqkvSvITWqCebmRTfKJRsc=",
+  "URL": "https://www.ansible.com",
+  "LICENSE": "GPL3",
+  "ARCH": "any",
+  "BUILDDATE": "1592698515",
+  "PACKAGER": "Sven-Hendrik Haase <svenstaro@gmail.com>",
+  "PROVIDES": [
+    "python-ansible"
+  ],
+  "DEPENDS": [
+    "python",
+    "python-yaml",
+    "python-paramiko",
+    "python-jinja"
+  ]
+}

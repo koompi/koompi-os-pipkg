@@ -1,0 +1,23 @@
+{
+  "FILENAME": "perl-xml-rsslite-0.15-6-any.pkg.tar.zst",
+  "NAME": "perl-xml-rsslite",
+  "BASE": "perl-xml-rsslite",
+  "VERSION": "0.15-6",
+  "DESC": "Perl/CPAN Module XML::RSSLite",
+  "CSIZE": "9960",
+  "ISIZE": "14234",
+  "MD5SUM": "685bbec44120d07200d75ce8bbf25d93",
+  "SHA256SUM": "22e90238d1c209374dcd038d1ccc7faa756710f7f2a0afafae36ea0812e62fb5",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl8EuiUACgkQeGxj8zDXy5J/Hg//Uq56J2vb7SdRT5oKSO+Hblch2ys0n0jr3ZBko6SD2cpSLlIG/U08vE9tRjM8idyz1O9o6v02MdiGbUvLid5Rmt7+L/sXAq321E6d30so2Os5gktYaEcKIIIbeNQYAzxe3p6k2XTN32bWWJSZIjU2VTTKBHhrWaHB/smodJ3w6rDR2PYAtg9izL9jv7u7g6w+dgHKiPL7IGi/Cp54I6JOf4IbAJOGbT4W0lk/DJLdyR/gi/mgEmHk5IQ5O7ypygp9g852wj5cV4ZtEsBaI+Xwe1PwYTtfakQy1pljxXEaFNyerfB13pijMt1puwXeQOlYOXcGoCjMEXQtv2uP4855Kk6nbRZi+Ksao6jvWGZc/yePdNWJS24TmBixQEz6udy9MKleKxS1SLsZx1VBae9FkUzbs965bX7/jqG1dD3KOk4PZVVqWDBQGdl/TOCG+qFGyZbwJaaFeF6LqvtpKxG4zC4y7XboE/QA4a/FT4mAU3mxjAYdKEScEAmvPDuK1YAAH1XW7PECEnpTWkzEKDzCWNcQll1JOsbrGQ4SN+lQR33hF/lBPV4xczatEehJiZr3ihCMERdb6SFMCwfscButq/rAxHvQ+RK/WL9Uxnh0OduSaJPuQlu9IcVUuPuSdSEtKBkpyq+KeI+9TmzLl7EnwThfQi8SyMHKSkxBWXhRgh8=",
+  "URL": "https://search.cpan.org/dist/XML-RSSLite/",
+  "LICENSE": "GPL",
+  "ARCH": "any",
+  "BUILDDATE": "1594145282",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "perl"
+  ]
+}

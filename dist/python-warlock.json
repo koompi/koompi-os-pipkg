@@ -1,0 +1,25 @@
+{
+  "FILENAME": "python-warlock-1.3.3-3-any.pkg.tar.xz",
+  "NAME": "python-warlock",
+  "BASE": "python-warlock",
+  "VERSION": "1.3.3-3",
+  "DESC": "Python object model built on JSON schema and JSON patch.",
+  "CSIZE": "9024",
+  "ISIZE": "24486",
+  "MD5SUM": "eb3e47c69ed1cd33b0e31a0532fe2e42",
+  "SHA256SUM": "03beaf64b5c34d2506c84ad274e86e39576db0ac65ce600f42082eab705907d7",
+  "PGPSIG": "iQEzBAABCAAdFiEEhs/8qRjPOvRxR1iAUeixSKmZnDQFAl29+FAACgkQUeixSKmZnDRHxgf/QhgDz65ZswCnWeQIZVcwgaj+jPoGEJk0912Cx4MJUnblDWNyTXK6u+hrnt56XNanZlGvsaO0NsJT9BZ48c9j0z/jmscHk5OkIP2RzDtKGCAC0myl2NJVu+shJMcu+VEoAfydnHoM/bFNtESPmbHavQ16TZQ6/5ob1sIbK+kSOxSX52+qNcv8ZZSBnP4KjfIf4Ye1vldcP3wZGyOR254YGRVSaJzTd3i9pBlUwvXCWy12f84E/9LA3kw3AXO1HYKRzHhZp2bILwKwv9R9IIwFSJDRIW9uUbPYbW3TRjHORyjkwXI5NCZxH3LfZLqe1QremVet4fUrBWukt8AVhXGRGQ==",
+  "URL": "https://github.com/bcwaldon/warlock",
+  "LICENSE": "Apache",
+  "ARCH": "any",
+  "BUILDDATE": "1572730940",
+  "PACKAGER": "Evangelos Foutras <evangelos@foutrelis.com>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "python-jsonschema",
+    "python-jsonpatch",
+    "python-six"
+  ]
+}

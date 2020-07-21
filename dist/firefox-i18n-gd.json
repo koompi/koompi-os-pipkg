@@ -1,0 +1,23 @@
+{
+  "FILENAME": "firefox-i18n-gd-78.0.2-1-any.pkg.tar.zst",
+  "NAME": "firefox-i18n-gd",
+  "BASE": "firefox-i18n",
+  "VERSION": "78.0.2-1",
+  "DESC": "Gaelic (Scotland) language pack for Firefox",
+  "CSIZE": "482068",
+  "ISIZE": "544419",
+  "MD5SUM": "95411efd35bf53a983362bd81cf8098e",
+  "SHA256SUM": "984a671c243bd063baf576425cc32688bc40506f660a3cc7d2e39f5e0ef7cb30",
+  "PGPSIG": "iIsEABYIADMWIQQGaHodnU+rCLUP2Ss7lKgOUKR3xwUCXwelpBUcaGVmdGlnQGFyY2hsaW51eC5vcmcACgkQO5SoDlCkd8eqiQEA9s0NQ16ZAywaxvhOlW6diQGDn+MpWIsyj/Wuzb+9AKwA/j8k2n2gZHzRrCTuECoF7uoNWbaKofnmuZ1alqA45hAC",
+  "URL": "https://www.mozilla.org/firefox/",
+  "LICENSE": "MPL",
+  "ARCH": "any",
+  "BUILDDATE": "1594311501",
+  "PACKAGER": "Jan Alexander Steffens (heftig) <heftig@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "firefox>=78.0.2"
+  ]
+}

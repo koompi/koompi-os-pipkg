@@ -1,0 +1,29 @@
+{
+  "FILENAME": "perl-module-install-1.19-4-any.pkg.tar.zst",
+  "NAME": "perl-module-install",
+  "BASE": "perl-module-install",
+  "VERSION": "1.19-4",
+  "DESC": "Module::Install - Standalone, extensible Perl module installer",
+  "CSIZE": "118163",
+  "ISIZE": "232761",
+  "MD5SUM": "b0553b33bafcb03eb938e2a89c4ebb9e",
+  "SHA256SUM": "7dfd7bb888de8fad8294d84c3262cd143ffded99718dd1862928639cdbd6ea3b",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl7ve94ACgkQeGxj8zDXy5LdvQ//TxDRVgxlcCH3HkpJaj7+ZixTh2ScJAiue69r31SXWpHdCZeIKNfsTE3pjDhRf7oRmpbrZ7gmLIss7wYXYVjx6M/RMKYdFzJCXYfxUnKaTU2MvcVkfd9nmA/db1p/bgsO2fAqqyTn6NoRQYQ22xtBgTtb2Wel4hdTOk6pik5P563zdiBdpork8axeWqmeyfkdzhOHbvvrL9cQwmBoJuzAh8QyPYHnmKFGC/Fj5NQV82/TmEVHMKdvKDMsaYW8hldcAyqz6+/rZAbpX/cFhcXM1eDDZuqM4lnw9M7+wfHBkvFgLIOXimrxVVDcpB0s7Wk8alNUtah3Toh7umGp8HsMW/MJyV26U672881sF7o+Kir4uB2k3Ub3egdzgRIYYohPHcCsjpCzCtIYDhOlmlBANW/q1f1v+YowGw8DJ7F50SRJsa+GK1Dnzavu5aKx6/QbqpkTyt9HHdUNmzoro//yqbxoD9E4YdjcZcqBn5E+dON/zJ6d332RwsjOIjlWotjPkWXKUb8QgqQOSvmt1DerxGL7WJa4aJnrUllsC9BPq4xGlaur4Yo+JPp/K0VW/KTsBiq4chMO22hCuyDDZJQSYSOuzSHmI4dnUtyRWHfIUDhBwcLUmWB4CPsc+xnhiFuP6f75jrmCt9Dbq7d3O6HoR7WRb8Fa7OY9VTIjlG5iJls=",
+  "URL": "https://search.cpan.org/dist/Module-Install",
+  "LICENSE": "PerlArtistic",
+  "ARCH": "any",
+  "BUILDDATE": "1592753041",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "perl-file-remove",
+    "perl-json",
+    "perl-module-build",
+    "perl-module-scandeps",
+    "perl-par-dist",
+    "perl-cpan-meta",
+    "perl-yaml-tiny"
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "FILENAME": "pcp-5.1.1-2-x86_64.pkg.tar.zst",
+  "NAME": "pcp",
+  "BASE": "pcp",
+  "VERSION": "5.1.1-2",
+  "DESC": "System performance analysis toolkit",
+  "CSIZE": "6063071",
+  "ISIZE": "21951542",
+  "MD5SUM": "84409cb32659d2ce01dbb2585ec3e983",
+  "SHA256SUM": "4c9ba3830cbf4a13b8c1f7bcb51419576ff913158012f69acdef6938809b9b0d",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl7vib0ACgkQeGxj8zDXy5I7khAAkfX4klQdt0NoBE4OghU/RnOyKp4Hq3ei+hspVvktTejpQH5hgpW1gtJc3TsjatzeMBakSkdx2+eOEyVcpTFU6jDK4I61W8xxUdqNPQ1F6Lx/Zacitwduexd1hww9a77ba7EZM3SonL9riDbIga/w+ZQXL20qxEngLfIkrqfIURmOPev07fL1FA7HjQtf0ngjz/qx9IuDwWj4hVLWjhVAzPgBtC6GF2YrYzcap0S4q6rDLuIg6mZELkgUWySUnuk0Bz/R1amMEZ/SGQekudJj/wro8chBdHOI1SO43iT5sBb5998+2Jz2zmNosALp2qctIh8LivAmEjOLAfTy0lvv3nFZAmBCtaU21+9Gvx7KN9Z6oPyubfKVr78+1+hy5DJ6RU3+wPGvodPfvb6r8C/9TfzkA5NjmOsgeOJUSKXj52dfc4uGzjvrctysSToN1rqOx5n6b+21uhYPwyPnOL6wQ193AZsP53jRHw4KcU9Tq0/7SlDr73m1Av/j7SgQ8wvbdxBnovtI6CXih0+WkClvVcv05d5rFcd5BclWVDzh7uJbDAILbKaZtVEoB4Ah4J+FPfJgkROnrmMaD24mPvbuB5qnJiS4iNablBU3QU7bveYKdl8jBFyFXi1ynxSKJs9Qkrr/+VUuOC2NdWqi+1TN8rZamQV1Ffgu80rff/nfJdw=",
+  "URL": "https://pcp.io",
+  "LICENSE": "LGPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1592756224",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "python",
+    "avahi",
+    "procps-ng",
+    "which"
+  ]
+}

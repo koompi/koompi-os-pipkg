@@ -1,0 +1,24 @@
+{
+  "FILENAME": "haskell-interpolatedstring-perl6-1.0.2-52-x86_64.pkg.tar.zst",
+  "NAME": "haskell-interpolatedstring-perl6",
+  "BASE": "haskell-interpolatedstring-perl6",
+  "VERSION": "1.0.2-52",
+  "DESC": "QuasiQuoter for Perl6-style multi-line interpolated strings",
+  "CSIZE": "24959",
+  "ISIZE": "87920",
+  "MD5SUM": "e4896e109d90d041b45d75117a4f0200",
+  "SHA256SUM": "31cb04fdf5a0ec581759891744999f7e6f0fec409debeec45ded94264c02c807",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl75J7kACgkQeGxj8zDXy5LtEQ/+JxNFeUKnCl3woYaUquZoJ3kspVHIGH5Hf756CqYEfcRp7r8Kb4gyMjWKQu5aJ8ifkAZ/aaXK9wdJc0wnAb8qg0vLPKIL4+EIkRU56qvJ0sLY0N/23ruJkrBHx2bcdMU8lWurJDKKZzKsWrdME5dyPWAXplzR2c6Lt2ROsqQAtDaVNQSVlbteAR2v0Yos25e5bbD7m2Ea9n8tPM1malxc0vEJSme4A4ILhXIOMNJwT5Nj3ov4rSo1GOX7AZmxW6GWLgZjfY0//2PcRTz0D9slth6bDf1rvHQjfYNyUZSBEFzyCacNPthBQ9bntkLm5F2JgYwdmSNzt85/dHGmAMRTIAE+OHCWiAYv89dUkRLuaCqPB0C/MCkl/62LAaijGAruUWYu+xq+VbDRzOhG4Q7XBanI81Zoed2FD1imHazE+CyTLRmoZUwRoz/z1AndCENxFsB8dqy2dR2QfM2LbwYkKtKD9tOv/hJxLrvQnbzxSk3Jzrp/dDn/Q13kr8cP4cUT/r899QNTBkg7tNi+NPkgx+VU6g+0eC+PwEZTRA0CKNzdvOdF/670yGVMsH4FC+X+Fqck3k4mwrt1NVCz8ZrLeZwUG3K4im0R+vMeWHxURQBIJDDwwuHJc78XcK5YgwrvjpsY4mbRZvr7EDjiPbX7AtHkPsc/4n8DJISNVZXtFsk=",
+  "URL": "https://github.com/audreyt/interpolatedstring-perl6",
+  "LICENSE": "custom:PublicDomain",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1593386915",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "ghc-libs",
+    "haskell-src-meta"
+  ]
+}

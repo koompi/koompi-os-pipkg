@@ -1,0 +1,23 @@
+{
+  "FILENAME": "mac-5.38-1-x86_64.pkg.tar.xz",
+  "NAME": "mac",
+  "BASE": "mac",
+  "VERSION": "5.38-1",
+  "DESC": "APE codec and decompressor",
+  "CSIZE": "101576",
+  "ISIZE": "348101",
+  "MD5SUM": "81e84c15ce8540b9b18af25692e0b7fb",
+  "SHA256SUM": "64c0e1b7c1482b616a213a276fe39a5edb03458297f777838e0c8d7c474d3549",
+  "PGPSIG": "iQEzBAABCAAdFiEEJhKwQJnb2bmj3ZKgRWx6m5G4Qq4FAl7NKVIACgkQRWx6m5G4Qq5DxQf/Uc9pORnGaYbAvGk8MwK+V5aItaYZjX1ow38zqf49g//nPE3p4MGyu46L5cjdYpRTMekjfVZ7IXTkdWmo2Omjzl9ApNhCjhB3ITWTmPa1qTyBwf9RDk5jciawgTLnJu87hxQYVYn6ChEi+UBT2gYxbwwWxq09n75NCZEBGMYAU65UkChyge10vd5D/4/u5mKD7cEEUWbv5ag5nQXBwYwx9ACMbhlKWXrp5KVTbeQgoQ/ebCR0H6QcU8YUaAYNAun6RpCttSgPLmdrMdQsqLmMQ45b/voMNYPS3/D5z8iC8zKqtOyvKsenUDNCPI8KbVpsUPsjSkH2H5lGrtwOg0FQLQ==",
+  "URL": "https://www.monkeysaudio.com/index.html",
+  "LICENSE": "custom",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1590503715",
+  "PACKAGER": "schuay <jakob.gruber@gmail.com>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "gcc-libs"
+  ]
+}

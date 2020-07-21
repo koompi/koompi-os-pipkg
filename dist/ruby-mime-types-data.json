@@ -1,0 +1,23 @@
+{
+  "FILENAME": "ruby-mime-types-data-3.2019.1009-1-any.pkg.tar.zst",
+  "NAME": "ruby-mime-types-data",
+  "BASE": "ruby-mime-types-data",
+  "VERSION": "3.2019.1009-1",
+  "DESC": "provides a registry for information about MIME media type definitions",
+  "CSIZE": "124934",
+  "ISIZE": "1179763",
+  "MD5SUM": "efc2f3eb16143fc41aa38c983415e44d",
+  "SHA256SUM": "8c24c57bad49a2833d3a0e0b12aa90ac9e06b35ab07e337201c834dfd71df4d5",
+  "PGPSIG": "iQIzBAABCAAdFiEEjhmSFnRl21+wRVV8sChU7XU+Dx8FAl4XO3wACgkQsChU7XU+Dx/uuRAAkf+QCeW2dyV6eu7YuVBD4rzTTMRcUipD8RpX9Vwyngsk2SGBH9OKtc8h98iquIxbYSsr7eoaN/Ftk1WKXTrVhavyedxsuovrdjngCrUJwAG0flXDQnXzlEnD4u0qmOBVk/UyrQ+cQb331YJOnBUABwNvIZosyaMhBqi5mq0tPXHyE9ZhCjwSugLfOon9PEv0RGkqKVPjiquniIXVKl5wV0QvHUJbtWq18ranu/Y2sZmK1gmgYje+3O2idOWE5qDmmRyfFt1RlSF2UFWf+FOe91R/61EMA//1SwqbqHVaEkqn1o88iFS+6snxfd9DfXBXPvNZnVPMYVA7BI94lKDNcfvHMVDCMu4Hen92u0/B9JfRH43c5a/I7I7SqQ6BXbzF9BfkyBzvJHrzY2mTzXbMqTdc8O3pAEwtw3krpStDPsEuEthAH5X6jRHAQdZTMtv7PbVy6XgfkFxZ4+orf3mxfXDXyzbD7yZ2K4e4mS8MCENNzle7TA2VoYBrvkuJWkWJII3Cix/AUkaEc2vDENoZPJ4ES90UDqNa27MYYntRT5hp9ziS2zpIA7w86lA0Okm5aFLxps4FpxZqAVjXdObfR+RkPiJzYayte2/83yedzGlXiRwJQu/Nd2xSQlH80Q9ZlOc1ZvNmXeeEGauPswnVK1Ix86y9EF7Qi1Z9CPd0uFQ=",
+  "URL": "https://github.com/mime-types/mime-types-data/",
+  "LICENSE": "MIT",
+  "ARCH": "any",
+  "BUILDDATE": "1578580819",
+  "PACKAGER": "Anatol Pomozov <anatol.pomozov@gmail.com>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "ruby"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "FILENAME": "python-olefile-0.46-2-any.pkg.tar.xz",
+  "NAME": "python-olefile",
+  "BASE": "python-olefile",
+  "VERSION": "0.46-2",
+  "DESC": "Python library to parse, read and write Microsoft OLE2 files (formerly OleFileIO_PL)",
+  "CSIZE": "55924",
+  "ISIZE": "271704",
+  "MD5SUM": "cd834cd491bb7f396fd304b31354b061",
+  "SHA256SUM": "118822c4319c7fa1b5aef1d135de6a33d69ecae778c30b0f61da6e1c83e77777",
+  "PGPSIG": "iQEzBAABCAAdFiEEhs/8qRjPOvRxR1iAUeixSKmZnDQFAl2/4oIACgkQUeixSKmZnDQE1wf/bSMik8milJpGwib3cZX/EUGf9N//K8n8mIZqexb8K8oBrCJt6xQq/RhVPeNr+QsoRAjGhMewsr1zJp2Du0xZS9Ah4umBYAtYMJL2RTm42+xBSHmbB2E6n+9RqXSKzhYuoty2PZ0EfXFQMoSJsRieA1abDi07jn5NIRufS8Xl/jAx38/D5ojj9dn21mlx6Jh1KhY+bcCForK34oXccxBpAAVIafua6oAvEwSQG8yDKR4BANXnciNHF6wi3FAGFwAcXrKAGdVEAot89LrWxctNPT6qtGGq3oK7LM3KQyMIHWd6I7RT9VlzD3la3QX7FesrIniIPDFBzw9gCFpN0pacCw==",
+  "URL": "https://www.decalage.info/olefile",
+  "LICENSE": "BSD",
+  "ARCH": "any",
+  "BUILDDATE": "1572856421",
+  "PACKAGER": "Evangelos Foutras <evangelos@foutrelis.com>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "python"
+  ]
+}

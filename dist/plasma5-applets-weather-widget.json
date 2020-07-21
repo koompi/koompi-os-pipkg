@@ -1,0 +1,25 @@
+{
+  "FILENAME": "plasma5-applets-weather-widget-1.6.10-3-x86_64.pkg.tar.zst",
+  "NAME": "plasma5-applets-weather-widget",
+  "BASE": "plasma5-applets-weather-widget",
+  "VERSION": "1.6.10-3",
+  "DESC": "Plasma applet for displaying weather information from yr.no server",
+  "CSIZE": "105291",
+  "ISIZE": "329326",
+  "MD5SUM": "61b90c96c95cada93f492bb20bc63595",
+  "SHA256SUM": "8e9e14c66223a62a580614a1d05cf17f1c9d6f7b0fd4a05af4f0f9544d5a12c1",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl8EkTEACgkQeGxj8zDXy5J3ehAAifccHBVgnOW43cCpK+BumMyGMm/g6rAtLvqlkXE1ZBO8av3Ezcckb6HezH+/UtcXK3mqJg0b9ZcDte0gZsz6AvzFyY5TP7IuPo247TZz0uhpP5JXO0rEYrL3vhzMzZVWs62BHEDvsQsO7R3Es0QgtSXIBV+RE9sX2fvQV6LFrybHcorGWt8Ahh/0xiTm74uP1tx53aVvCGlHw3QeGChAVnGaXokPOLMI1H+JYJz3z4v5DIAXIRwObdPgyRWg8nYOlcFDApx5kTuMNU272atoezAlfSrbnXY6SLdY+EtvncUZmu/7bOn47oOziXsLEeVmdr05EtNNfvzcMayLAZPKirdauVGCVecJMbMLFul5gdXYZ8Zki3XVXoNE3tzuUY+jN8IgT1hlu6krG180MYH/AWTRGiyJto6QRA7Kz+k3Wv6PkxoP6uf8lmqOQDmG2cdrMkJhhsKmmEswfSQnnfIXOFsi3Xe0sTSi6zUetceZX2DIy+fUuxj3dNr8pkqEiI2bLdwAQZtgXi+kwgEytoP9c4nor0OM7g5yPurXFqMGpT7vCnet+STGbhkq97RAitT6QH+Gu+ZpCdgXU4JYB2lmfKfBbTtjYTpbP7vK9bNSyaEZB7FCeS0UiPzkPUxdMCkROtnEjqa+hPVsUu3aI7VlS8MhNAeuojM6dlJxiwYnCxA=",
+  "URL": "https://kde-apps.org/content/show.php/Weather+Widget?content=169572",
+  "LICENSE": "GPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1594134780",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "plasma-workspace",
+    "qt5-graphicaleffects",
+    "qt5-xmlpatterns"
+  ]
+}

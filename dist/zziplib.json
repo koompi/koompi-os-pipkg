@@ -1,0 +1,23 @@
+{
+  "FILENAME": "zziplib-0.13.71-1-x86_64.pkg.tar.zst",
+  "NAME": "zziplib",
+  "BASE": "zziplib",
+  "VERSION": "0.13.71-1",
+  "DESC": "A lightweight library that offers the ability to easily extract data from files archived in a single zip file",
+  "CSIZE": "63616",
+  "ISIZE": "324537",
+  "MD5SUM": "d497aae8edbdde7665ccae5c680db71a",
+  "SHA256SUM": "a9cca506b6c1160cd37c3d0a43c3056765137b8b9e2eb28048ad98c599fe18ef",
+  "PGPSIG": "iQIzBAABCAAdFiEEj8FaBklQqZ3RvRTdOeS4d+YuuRUFAl6nbD4ACgkQOeS4d+YuuRVxYRAAyP7ctc4t2+m2lY3Xp+tB4GpqUC+R1BDWlqmr9o+Lj9U3uhz9Asxm9gfR4HcnFTWxEDdQYKOFU3Tfld5RRQFhVQmybfjuqFcINWRhNLOYF/7TqWM1EmXMixEf8/XZEGdNXdF26ZrIdNGn20Pc+t0B8RXXaFdZ+RunhqB9qmEM0vCGRSoaxQhaBzL0wVgce+ZRZHnYqOeygtqmZp4kisSu4XqEez1xU9NXhqsePvZnM88YtE4qrtxyaAWsDlPuYWmNbHmlIa/RE70z9UQwAoJUrbMqYoVad/B1uAbvov++ZegmGR44NClAxyrjSPTaYe02iQBuX1c1WkLcTSu9QZ6tUeEsaIZZSqjFjZalSynjegS/FXzjZUY+JQXdtNn/dVEg2xfk3escxo2V5ThpZd7+1dJD1d1fPESLvBj8cHGJcKuK2ijeoiBwctOCfqJTMj92QfEwd6NGfhC8NcB3MS+e59D8V9QCMBKsIq/X78Pebbir8YsHLI2M8VHdueYGyz5cicGOvsMdxxF0WZJ3c0t/9VTefiVdcz8MT4OMcBqtZcB2OpWu651i7ssGpebTzRw1EGtsDYo0w3WxFI6SKs/Ea5cN5rk4fhqbuHdJN0yqBUJ+9TRjHWYu164oLkW+liXbMqZcUXad07B/VtE9otkMz0HJznl+Nu9pwQdsCZvGphg=",
+  "URL": "http://zziplib.sourceforge.net",
+  "LICENSE": "LGPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1588030353",
+  "PACKAGER": "Sven-Hendrik Haase <svenstaro@gmail.com>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "zlib"
+  ]
+}

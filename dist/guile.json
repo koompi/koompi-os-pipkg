@@ -1,0 +1,29 @@
+{
+  "FILENAME": "guile-2.2.6-2-x86_64.pkg.tar.zst",
+  "NAME": "guile",
+  "BASE": "guile",
+  "VERSION": "2.2.6-2",
+  "DESC": "Portable, embeddable Scheme implementation written in C",
+  "CSIZE": "6692728",
+  "ISIZE": "46226161",
+  "MD5SUM": "64c8b237992c13368614dec575a24593",
+  "SHA256SUM": "ca1ecabc336d7be172c142544646a00f9eed4b9f607d14bf7c30f9fc5b62a820",
+  "PGPSIG": "iQEzBAABCAAdFiEEhs/8qRjPOvRxR1iAUeixSKmZnDQFAl6N01QACgkQUeixSKmZnDSLuQf/SB09KOEsHwALOJoKSG2plb+n7DBK4jueDZpU3D7IcZubFwHtFiry5fBmA6rctUrJmsRg3+3zDphO+wwrwyw3DOqVQ6ihyUYt2Rmz3lDh3/bQ+hqEe7ig6UsQlPB0NNBN6kWQ6LDd30c6ZwZvEoraajUcrANaYSoryXyMCVJ6fQuZw48YVyKLoejgzNxlHl1gt3LYS3uLeaRkP9i06Mo7Xj3KY3rvzElPPpfl7fWjjgplLi26HnxWGP0vQw/pvUM38hdka8J7b+cw2Vq2CfO4/umh/N/66SzYI8+ZOy1TSp5ahorV/NiRgo4qcNX+0IIfT0DTNXfhDXQRtPwo75CCRQ==",
+  "URL": "https://www.gnu.org/software/guile/",
+  "LICENSE": "GPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1586352690",
+  "PACKAGER": "Evangelos Foutras <evangelos@foutrelis.com>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "gmp",
+    "libltdl",
+    "ncurses",
+    "texinfo",
+    "libunistring",
+    "gc",
+    "libffi"
+  ]
+}

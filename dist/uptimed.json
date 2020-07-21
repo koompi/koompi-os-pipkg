@@ -1,0 +1,23 @@
+{
+  "FILENAME": "uptimed-0.4.2-2-x86_64.pkg.tar.zst",
+  "NAME": "uptimed",
+  "BASE": "uptimed",
+  "VERSION": "0.4.2-2",
+  "DESC": "A system uptime record daemon",
+  "CSIZE": "23037",
+  "ISIZE": "69952",
+  "MD5SUM": "61cb335132c4c25ac34b5697825bf21b",
+  "SHA256SUM": "84139b0ad4bc6bd9238495329429a8cedaee514f64f0f627a0bcfa527740cef5",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl8EeWsACgkQeGxj8zDXy5KXag//U4m/C7EF5ngelCkWPYDpFfmDoOi9Rs8CV/T71rz0ULIcmIyMA+mmWX1tI2dsrr5z6+INTexgu8fKHUPAAaLmWWx8iV30axE8GLIriRyM22wO1rqtY5rxc6mU+mcdNs1ZE42qyrr6F7zeTmwgRDjtjGzuZA9O3ar2t2dU6qei7zocRTFDwdBeAmbWtwH+OVGW7N9noFXf1JN8RJrbtcFYFb2+o8l91N95SeTHCu9HifoNWTjWQTIr3D2yIQtXS+T2oo9+uV4/iHsAlAQFXRbffIIukzXF0takK3KLWzQrLfIldl0/cDkRelYdHWc1Y9I9Ie59t1nXVzeHs05t5NjPfqoUxLbnIHp/mcRobZuCcSzwFe4enad+vVcltmruuhYT3GMBBGPxidIjm7QsN1iHzwLSa9hzTt4VauhCSd/fwB0wjdwgUDj/n5k6ZtBVrmYYERCG6XVp12XVHP/fqVwM9jn1jcEKfaxApqEreXmHamM13oJZhUcmuHo6sfXnDN+aBG3SujDG5pSUkhVLVcCe9fQ5Agqv+t7Iu6t1F4SIJtjDVVqbi9Ji8Iqf0xWl4QGD6QTc+rQF7VHVUSFzM/LIQW5VIHjeRJgXglE4PP0l5HGAZU+ZTZk+L34WLhBLdNAqBn90tDQMhbup5ng2SKOB2eOKfULcjU6STqv9K9NJso0=",
+  "URL": "https://github.com/rpodgorny/uptimed",
+  "LICENSE": "GPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1594128721",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    ""
+  ]
+}

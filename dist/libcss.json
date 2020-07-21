@@ -1,0 +1,24 @@
+{
+  "FILENAME": "libcss-0.9.1-2-x86_64.pkg.tar.zst",
+  "NAME": "libcss",
+  "BASE": "libcss",
+  "VERSION": "0.9.1-2",
+  "DESC": "CSS parser and selection engine",
+  "CSIZE": "162878",
+  "ISIZE": "1148697",
+  "MD5SUM": "0fb5039a852b13ea8222539a34c0bfa1",
+  "SHA256SUM": "05991317f993ac10ba7fc2957a12f7b40b55a6e124247ffe7a4cdff61421f2f6",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl8Eu/kACgkQeGxj8zDXy5KwMg/9GpKzR51QjnivmP+IMi3PXG3DJBYHUG5lOBja7nrMBHf2LbSx5n7FutIaQZ/imWeURPCnN7y5M9tkrBcr15s3Yh6L1dUNdJKWXBUpXLX3dm5Snx5M1CbyhEm53sBVnwZ8yy3iC9jaEEB4qKgcD8hhHf37xSt1+N4nJfSyQraU6Z6XRcCSdJHKhvdF8YIF5LQ73kZDTNASOiCPW1qmcCsq9lI59xa8eTiXnQWwZnIGBRcBmTR+mdg72FY3TxPqPQ3QB+Fre60c8Yx7O+47PaYEfkudvItJUxtBtEPk6zmCOnSuWwdQ9JwQifiSzY6ypWPfbn++DI8Qrqkg3tkivqy/GHlqpxkZ+lI9lr93tvne1qW350KRfx9Xq15OZb/cnYfa2GtZxGyjduRqSCI54qQNagONKy1zE+ZN4WO1oibH8xOyDIrw2YgoCXzjm+OeQTyyP1Lcf6Z81xFsUX2x+n5QsklCcEpNMqKENqYhaMgKR/rSzCn9QvOej5NbinY3jYRD2zytfOQk3XKbeJyFFmkXrXTOgGoB246kjJSH1f0XJ6QL6ro/laws+jfYi57/SyymSHdVpwUtjlCBpwrJ1upGeYAVyop7JDhLp9ckE1J6vnvXsfScCRpmBJjb8TQdjyiN8si2X0okqCFnUyj12l1+TGKSjjwI/lGoSkKskKLn5Zc=",
+  "URL": "https://www.netsurf-browser.org/projects/libcss/",
+  "LICENSE": "MIT",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1594145657",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "libparserutils>=0.2.4",
+    "libwapcaplet>=0.4.3"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "FILENAME": "torsocks-2.3.0-2-x86_64.pkg.tar.zst",
+  "NAME": "torsocks",
+  "BASE": "torsocks",
+  "VERSION": "2.3.0-2",
+  "DESC": "Wrapper to safely torify applications",
+  "CSIZE": "55682",
+  "ISIZE": "138819",
+  "MD5SUM": "c0e99660b6fc7862da4560b7415ae032",
+  "SHA256SUM": "9d6bc25d568d11dfb14334c58727e9cad534aa8397d041654e79d20c318e682a",
+  "PGPSIG": "iQIzBAABCAAdFiEEM+u4qOHFZTZFsSMqRaZQ4mOMU20FAl6xpD0ACgkQRaZQ4mOMU20dUg/+OXmqhdrMm+nOaoN+4hz/U5LYI5PYU7QuV++F4rOozbBa38Gp4NOn891Y/fFPY1ARdjgPnUNc/XTdBPdSr0fZeRXK7jSjBfHHOnrMtBpuYCwqMmhXyybxA7I+EkluFRQbeTbt9Lhme2epX4WJ8duc9QcKqdepjlvZtZJVyPtM3+ZqWAb39jlnWpzEC12UNzbKftWjqjp+pOslWo8U838YhRlhgzWQi/c390EB7qzlSZSKMdAUokJ8g9Yk1kN46MyRKM4wKoRsueSGpMN0GVwceM+penOSI2+xJerAxmhO4wKhR7LwQL07ViFco8MQv14kcwizPTTQGlAjajygLMcK7KeF5LBF5cf5WOPYUBcwP+B8aQzvZbi/RumQHDZM5liSO2YQsOfzNFUZUVYngHDOF0AY2d+1MS/GfAUlL1OKTuqOyuDDfez13fqnkbE54bVTMuLzUmgNh0hlQCdhZ+tbC0l0cNdkp8Mn5QCKvAFK824LaWHhVcchQ9AgImxqcZS8bojeHFUFX0FrKwJVDfBCDAJL1kHnEDrJja1Q75ZcNNWGOGLlgQscDKrP5DydbW78pPuETLSn+KIHJxBiIFRPXW05ANBqyZ2KfW4QOcXMMRbP3Mwqafnep/n5c90pTERebLSrWFD7puEJg9uqScRfucb3Uqh4NCo5nmlnq7cRvaw=",
+  "URL": "https://gitweb.torproject.org/torsocks.git/",
+  "LICENSE": "GPL2",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1588700168",
+  "PACKAGER": "kpcyrd <kpcyrd@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "tor"
+  ]
+}

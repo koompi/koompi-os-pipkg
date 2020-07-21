@@ -1,0 +1,26 @@
+{
+  "FILENAME": "networkmanager-pptp-1.2.9dev+10+gb41b0d0-2-x86_64.pkg.tar.zst",
+  "NAME": "networkmanager-pptp",
+  "BASE": "networkmanager-pptp",
+  "VERSION": "1.2.9dev+10+gb41b0d0-2",
+  "DESC": "NetworkManager VPN plugin for PPTP",
+  "CSIZE": "143854",
+  "ISIZE": "678276",
+  "MD5SUM": "a3238a6b8d8a334b048f548455e06c79",
+  "SHA256SUM": "a2fce8dbb7132d432bafc114fb95187a5a173d38b088d3320a10b501e87bf469",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl7DmlsACgkQeGxj8zDXy5J41hAAuFMvVLfFXDOX11EMTiy3GSFgb2Y6PzmSmp4cL44gtaaQhcwHb2Y5YRTGtKpFidGW3PtOZh4li0CrOxulmq69WqqTwa54ONRXblqt4AlFGLDP7wQTtb/2KQlxY2+vtXcSrRBhnudlasNsfTNYMRFPLWbawcMYChqkiz3u0TUPzuNPHC3bxmLzV+KbZc/bQUwIPnucIcBMmIQ5u7AwrvDZ7mKFgWLfIe3syX1idHVJWUyTtVp0D/8SQ9zPZ4d25tkwohs2h/jSWPNzgBHCmYdcHzEhR68zhJsAwHaaRVpoSntfsaRkX0uzK29ztw6xyHd463PrLkmiSrUh4FCchpkpHgrOiD3NIO8Dr7Nou4bm6TzM1Xclot65pZwuyVzMNqUQ4/RqEQU74DhsVJDP710iF2EM/sdBaSG1a9cxA3IUW5qp/3YPVPpfg/F2eST3R2yNkB0rCRltUSs0JP4TSfZnG6alH5BhF6VNOKeHO1Hlsj+e8H1U/zbRt/qVDMkw6Zn6F7DTA5A1dylEJLX2K3LoZVN29f1oJONfxOFSMy2PP5rW0ErvsnU+nD1qrUKz/EyG8vYLvKyZLTtHWL0R/n8obDWFbzkmCdv/enH/Fqh1yT5G9q5z8IEB33IXWbyrI+tGO0So78YSA/DW9vQhWUterOGQA6wRPaLw4oDgt/d6Uzk=",
+  "URL": "https://wiki.gnome.org/Projects/NetworkManager",
+  "LICENSE": "GPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1589877287",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "libnm",
+    "libsecret",
+    "ppp=2.4.7",
+    "pptpclient"
+  ]
+}

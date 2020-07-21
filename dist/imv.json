@@ -1,0 +1,30 @@
+{
+  "FILENAME": "imv-4.1.0-2-x86_64.pkg.tar.zst",
+  "NAME": "imv",
+  "BASE": "imv",
+  "VERSION": "4.1.0-2",
+  "DESC": "Image viewer for Wayland and X11",
+  "CSIZE": "53819",
+  "ISIZE": "193990",
+  "MD5SUM": "10e0299b00519c662e7afa11d5da85a6",
+  "SHA256SUM": "8037fa43b4ef5d6fc1a1f61d1bdb3b480fefd1d561094fc1aabe1e07d2c0cebf",
+  "PGPSIG": "iQEzBAABCAAdFiEEhs/8qRjPOvRxR1iAUeixSKmZnDQFAl6m2XYACgkQUeixSKmZnDRvVggAgZ/sxJSMxHsBW+0cKG4WN6tySesrjHm4OF0DyJeQgR+cQFIExqkbfd/8GVx1wN4GUTU3fnRIYTPw7fSNvk7PAi90ujle6qsB1Ol7t5qJevuc9YIcuFkFN6GXTRXnSdl7pDzFxp/EIEsqpmPf8SdR5WT6sPsggEzGFzROXcd6hpMUY7TqkzBVBqvXswc4geCjnrPxUCPyfMDL8Vo6U6pxcHwSuyUPQPIGvTssipZSgjW0eAMKlEzugVKG4l9tF1icTCL/oNcfTLCnnLcSKERQS9dvg40Fnyku8p9mhrKxwujJRbPmCh7Eh1Y2yvBvETfOnCvoovbszSeH//ya6jK8Ag==",
+  "URL": "https://github.com/eXeC64/imv",
+  "LICENSE": "GPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1587992922",
+  "PACKAGER": "Evangelos Foutras <evangelos@foutrelis.com>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "desktop-file-utils",
+    "fontconfig",
+    "freeimage",
+    "glu",
+    "librsvg",
+    "libxkbcommon",
+    "pango",
+    "sdl2_ttf"
+  ]
+}

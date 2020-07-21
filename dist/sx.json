@@ -1,0 +1,24 @@
+{
+  "FILENAME": "sx-2.1.3-1-any.pkg.tar.zst",
+  "NAME": "sx",
+  "BASE": "sx",
+  "VERSION": "2.1.3-1",
+  "DESC": "Simple alternative to startx(1) for starting an Xorg server.",
+  "CSIZE": "5391",
+  "ISIZE": "3166",
+  "MD5SUM": "7736ee91dc604b6226e8c7a92377062b",
+  "SHA256SUM": "0fa0a704a0739199b1bf1cda2a5525e8cf68d5e60dea4a460d35441f46c78beb",
+  "PGPSIG": "iQIzBAABCgAdFiEEYEETBMCdNmKDQO7/zrFn77VyK9YFAl5JUUoACgkQzrFn77VyK9YHLQ//W135AOWa7cvDkN9Rw0sJq0pdLok3kI/ldvciGTOl30Tx+fGsrQ9fEF8XL8YwrHssaQQmsznnIu4LRWQnkpaERTrviCsaV5dXm3r/PblYs037SX1OePeGYsC7KT056RjgAwt8W93vfJGOaGLvob2+RV+iUvQtwKVc0vTuSFaUGRPXnmbo2URpkmOaHiS4+SjiOekWmkDHRHUoS2OBVcrhyQKU3pgSI9JZPW+BCz7Qc6WBWJwHu0cbD1dxLzts8i/CIrRIVmx6grLXJOYnm89boLnc3nV/p0IXOsxqDaail9UMUtFDx33WPF31emaI0BlF0kIErsrtoClpVIWnVc7ambVmehlwJPw6n542OTTOe45uCm/71WMo+intncGDnEGG/LW6x9a4DywAO3VYcnoCHsI+TI6ymrxVuIsGWrSBZQKhkYxKIlbLt4TYC4TZ5NPfM5Tloa61zcucZowGOY1YRO6GTnSe5wTBdowQAWbU8P0U6HRfiFHmS9ApXqWkyencqHtOy68+ND2JCVEmP1jHlgVs/zH6SYqxSdlRgEQMOPP3Xc65+UZL5LJg67uJG/2IdcGJPT0wnWmXLuie7yTXl8Zw1gU7GTIBz25FrhHEJ2PlgGRQxgqWR3jdaR+om/G+nzgkm0DpXLGl/QHbrjRVSlmNDT/jihLMIuQCPSczfG0=",
+  "URL": "https://github.com/Earnestly/sx",
+  "LICENSE": "MIT",
+  "ARCH": "any",
+  "BUILDDATE": "1581857779",
+  "PACKAGER": "Eli Schwartz <eschwartz@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "xorg-server",
+    "xorg-xauth"
+  ]
+}

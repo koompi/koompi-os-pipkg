@@ -1,0 +1,25 @@
+{
+  "FILENAME": "plasma-browser-integration-5.19.3-1-x86_64.pkg.tar.zst",
+  "NAME": "plasma-browser-integration",
+  "BASE": "plasma-browser-integration",
+  "VERSION": "5.19.3-1",
+  "DESC": "Components necessary to integrate browsers into the Plasma Desktop",
+  "CSIZE": "114636",
+  "ISIZE": "406983",
+  "MD5SUM": "54d6d8c35407ea5e502136926a7dd7be",
+  "SHA256SUM": "9b0551d3419498dd2b591251b2476d6ee2150359a9165e67860c1524c09112ec",
+  "PGPSIG": "iQEzBAABCAAdFiEEFRnVq6Zb9vwrc8dWek52CV2KUuQFAl8EhU4ACgkQek52CV2KUuQrGgf/YvIElJbfyA2Z6mYGFn+hcuWF8b7KhrHzD1VHL0nuT1/5ckMtLh5My+eTBfVJ5UUmQ6DKbf9+Tb08JH6VAmUNGUlzsEi7lwJ0KN7jb38fmj4PQcl3OtTwKlURA8I6jFdQ+mtWMIm8es00HAbIYl3vCnAY12qVNlrVihFM4EbzohKuzx/laXNhsdCyiUUgAG4CJEL7SPcm612XeOQmegqEM3vVdT+W8MIflvGSlo2tZLoBsqVrJzlKuuGbwvGozhKBlW5nXOQzTk0QHCrSXZ5j+rFj0JziI6JC8UWrIKP4/GSERtvRSNT3PjztzzCzsLQ0GiWaKtPoWeREHjfy+k8etQ==",
+  "URL": "https://www.kde.org/plasma-desktop",
+  "LICENSE": "GPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1594130237",
+  "PACKAGER": "Antonio Rojas <arojas@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "krunner",
+    "purpose",
+    "kfilemetadata"
+  ]
+}

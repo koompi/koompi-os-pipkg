@@ -1,0 +1,32 @@
+{
+  "FILENAME": "sfizz-0.3.2-1-x86_64.pkg.tar.zst",
+  "NAME": "sfizz",
+  "BASE": "sfizz",
+  "VERSION": "0.3.2-1",
+  "DESC": "SFZ library and LV2 plugin",
+  "CSIZE": "1223823",
+  "ISIZE": "5946909",
+  "MD5SUM": "0b1a0dd04ccfd35adf2b698aaaffaa73",
+  "SHA256SUM": "53c72f9410ff3b498921b031473211a37f0b4342a39ea6970ebda53670d7f596",
+  "PGPSIG": "iHUEABYIAB0WIQTH54SUZv4jWDQ1iDdyWHNLQcMVSQUCXobwmgAKCRByWHNLQcMVSTXLAQDF1Vp/pSMzKZ70SdHW9LQI1cNT0tbp7jeKYQR5I8j44gEAj1dVWxbzNr/ht47qCtSs8q3dbKK44Dok8WLUyFxfDw4=",
+  "URL": "https://github.com/sfztools/sfizz",
+  "LICENSE": "BSD",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1585901471",
+  "PACKAGER": "David Runge <dave@sleepmap.de>",
+  "PROVIDES": [
+    "libsfizz.so=0-64",
+    "soundfont-synthesizer"
+  ],
+  "DEPENDS": [
+    "cairo",
+    "gcc-libs",
+    "glibc",
+    "libx11",
+    "xcb-util",
+    "xcb-util-cursor",
+    "libxkbcommon",
+    "libxkbcommon-x11",
+    "libsndfile.so=1-64"
+  ]
+}

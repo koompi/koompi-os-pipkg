@@ -1,0 +1,23 @@
+{
+  "FILENAME": "python-tenacity-6.2.0-1-any.pkg.tar.zst",
+  "NAME": "python-tenacity",
+  "BASE": "python-tenacity",
+  "VERSION": "6.2.0-1",
+  "DESC": "Retry code until it succeeeds",
+  "CSIZE": "33042",
+  "ISIZE": "167074",
+  "MD5SUM": "5ae556369c1b9c90f447ab39f6e6bc8f",
+  "SHA256SUM": "958bd9c266b5db64a73aa35162a97ab39edb73f7c58a7b90b2edb2eab64adac7",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl6sGb0ACgkQeGxj8zDXy5J5WQ/9FwbWWWlKysBlr00JRoWmgac/WGw5Ocx6UY2epnJiW55gGEfUoWkM7bnb0EndXUoatbNpMAB/12Pz7UlFHMlb/Ze0iEz2pd6fghfLaWYOhzeRVui0e4lbpN7dNxznzSOpU5gcuqSsiPWWGXMQXmaf3S1JOuCVxhUR/dGH57I2qVACGslJbTaRHdrgW7Q7YTYE4bL+THobXb35wOixyUvjGAAqiHt7Pbe9F05x8tKKhezqw87LWAI8Haje7bVBzwmeHqsddN27lujIiZd3Po1O0EcudjQ1jdXFuT0uMXKa7veAggN3ta9rHk5V8sFelES2H0Rczm4ONnljWIJcg8TvCXAlwX6mBFiGcwyw7JzsFlPtw2vR2268Ytdsh9BN8CYTCqBLJL394XHjVq5fHkRjiH9K9wHE3tk7DWYJYxI9oyHJ6H7iTwUTJqosGKScj8NrB2kYYKcFt7ucG/r9O16hD2H3BrXyEKwmwl7gosY01p+EXHltii8xb4CGp+2h0n3cA+qS72s7xyFcCrJ9f7mF/82brqvwDTqsvHcIt6J1dHVJuuPPAS+uJE6UQUE+2RGsFdSdtkVWEAe0WIC0rD/1xlYXinXtWTKKpu3u4PyCYcMwNaA7lUnai1mMzQesZxmxwF5z6p+gstKoN4MN3U+zJ2zlwap3JJDmc0ZNuvZ9wUI=",
+  "URL": "https://github.com/jd/tenacity",
+  "LICENSE": "Apache",
+  "ARCH": "any",
+  "BUILDDATE": "1588337017",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "python-six"
+  ]
+}

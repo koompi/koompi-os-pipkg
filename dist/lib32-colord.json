@@ -1,0 +1,30 @@
+{
+  "FILENAME": "lib32-colord-1.4.4-1-x86_64.pkg.tar.xz",
+  "NAME": "lib32-colord",
+  "BASE": "lib32-colord",
+  "VERSION": "1.4.4-1",
+  "DESC": "System daemon for managing color devices",
+  "CSIZE": "189004",
+  "ISIZE": "952320",
+  "MD5SUM": "7a10af7b545a75811834fd347f9c582a",
+  "SHA256SUM": "8fa115a8a42ad35a962d4ecdd6d5b2bb7ee1eb9970b510c5a55fbd003a062a16",
+  "PGPSIG": "iQEzBAABCAAdFiEElDfdOBWnqRaePTlGr/XZUJi8b/UFAlyGKvwACgkQr/XZUJi8b/WKWQf/Sp/fumY1W/A+WwCFKGoRN6xpYVDYxpkLHQVgcG0byZuqmbpwBg/iEkqxgc79lH6yYJcskml9O5RQvPnUFyV7UmJVOFy9AsNEGDnfjalAJFYINSK/Av6ZYMLj8QGmjvsbtk28ZsZNTeQir74SLU/lP3ovGqv6odHVahdRzvvai1SCQmU8XWQ8PonROZbwIsKf7OovCK+zfkOp98JuYf+6DVb6B/2n8VAY2LpDei7GRVwHKDyvYJYQ/gCtT179NPBQ0ygFnyakdSgh2Pd0tint9CXJmcM/bo/VDcoSZVmVRs7pnZHpj/vpCQMFjqrE1QauXW6nanZVqrLezfVSOsCedQ==",
+  "URL": "https://www.freedesktop.org/software/colord",
+  "LICENSE": "GPL2",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1552296648",
+  "PACKAGER": "Maxime Gauduin <alucryd@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "colord",
+    "lib32-dconf",
+    "lib32-libgudev",
+    "lib32-libgusb",
+    "lib32-lcms2",
+    "lib32-polkit",
+    "lib32-sqlite",
+    "lib32-dbus"
+  ]
+}

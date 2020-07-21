@@ -1,0 +1,28 @@
+{
+  "FILENAME": "lib32-libva-2.8.0-1-x86_64.pkg.tar.zst",
+  "NAME": "lib32-libva",
+  "BASE": "lib32-libva",
+  "VERSION": "2.8.0-1",
+  "DESC": "Video Acceleration (VA) API for Linux (32-bit)",
+  "CSIZE": "83826",
+  "ISIZE": "283272",
+  "MD5SUM": "a835b128dd1fa9697079945f29e16597",
+  "SHA256SUM": "4ac36a463439adf2a3a3197ffbfd1aa9636cc6c788fe3aaf279b46a30d16ef9c",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl75EjkACgkQeGxj8zDXy5JDRg//YJ7Uz1W5S0ZtLlpJ6Cg06D1t8T+T87PNyzkrDoF0WyWsqqGCkMdtPgiNowlbBCcgbUEao1Uo6vIY0Yd3+JL4fLHAcoiFQSTrBwDX8BwOTFEKeBrEBD+rHxbyp+IrEyu+pQyukZzWJ+bb5oEBuK5lcLNMo+DRjxZWfd7iaYkq+giZhS1rCyxXnV7pcJts/63gfZklOkGZdYeqPOyYrtWKa+bKVt68FFD6/5eTVXfS05OMRiqhlRUJmN+RqsdnaVTxz/n+WqjinErv717toEaf6pG9RjfUCLxEfs08HNkuVQOwP4DdY/fUpbPzSROMXkIkO1xNzlSlrE5cdPqPNUbl1S39zIHT8YZ+8axnLqg2mPPtNtPnjJcJS2Bhke8CkxzO5EM4GEa411tkhgBbLS7k56+Y/KFN7Zobuq3YaSic0mahcwm/uCbd9p1LVV1qFRlh5cPV5qcgPsZAyHtTVmK1FdPkiycH9OV8GNN+iTT+VaUUKBB6aTIhoh+7eKZWODCe/s/DhxFj/P+L/3rgxkm6WqnBj90vPm8r6xgXNau2pnJoqgAaTj28PvthMTQqBq4iUnKgcmuTXG+GWIv5nncxIn8S8d3fOAFIw4eSOnszse/RQXJplynjqbdvCSyNp19LFyd1iZni9YtOVYZFvq1qtZlU0+ayKXd9G9GOUl76ego=",
+  "URL": "https://freedesktop.org/wiki/Software/vaapi",
+  "LICENSE": "MIT",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1593381385",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "lib32-libdrm",
+    "lib32-libgl",
+    "lib32-wayland",
+    "lib32-libxext",
+    "lib32-libxfixes",
+    "libva"
+  ]
+}

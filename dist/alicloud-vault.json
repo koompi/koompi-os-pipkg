@@ -1,0 +1,23 @@
+{
+  "FILENAME": "alicloud-vault-1.3.1-1-x86_64.pkg.tar.zst",
+  "NAME": "alicloud-vault",
+  "BASE": "alicloud-vault",
+  "VERSION": "1.3.1-1",
+  "DESC": "Vault for securely storing and accessing Alibaba Cloud credentials in development environments",
+  "CSIZE": "4041718",
+  "ISIZE": "16628486",
+  "MD5SUM": "fdc2cc29e7a12946333db56f6abdc396",
+  "SHA256SUM": "23bd04888a9a4263b928d96231f3b30e1f424f4f9ab317be6fa154fec5cc9455",
+  "PGPSIG": "iQIzBAABCgAdFiEE4kC1fixGMLp2ji8m/BtUfI2BcsgFAl8DVVQACgkQ/BtUfI2BcsiUVxAAibzSkIG+yIUhBnUzx2wOLTr/y1KCbMB8WV8m21J4imBdTKgjpnZP/vtwPq4Isjk67cFwqcEua4T389ktqaA9llgyf4iX/HRxmx/nD4AsD44jMKQOOcuNEXXeIT7f4NfCpnHq4kh7Zz3oEKjzK6W2L0ewKfYs++sX9HtzFNpWvpYNUK5tSNM+VlfaAyrRMxik76S/eFxeIcblsf6r3wJ12teRxd/xMrSYEKqqmut3Fd4+yImF68vpzvlTJ5j/fgE79OW8mfnAsIG1ClMRxaM2Gv+18fQpFLXweJfoROknLVaHO0/DI+kxN2gXPYX00InzhRCDdlLG8jpUdOFt1PMzyL1o/GRL0WRuj2ReB96goVvSQ9gHHL/3CXehyeyawJdAVau3Qiql/ec+nNkdCwiXpYPSfJnFGxhlI9OAfyrDAFSmjBvzQ1dlTY4JOldhPEz6d17rnvk1YGXhAFGBF5h8X7V6+igjScdGZybxJGmqvZfUmYHzLl2uEGdKCm16ouvW8VZQr1ZGZ8qu+cFOjKgiBLzWLfJu+3YwRenh27WGe04DjaDTHqrhSFrc0vQRylNCkjBo1OtuEI3kmdY8QtpPsMEBhT75Zf9jLy02DFuq9Gt00WmUxTqMdHonVH5Q6IYfgdsiBgRzSyggF5oTsmQnO+mLP8vDwNmWUFRW6qDrurM=",
+  "URL": "https://github.com/arafato/alicloud-vault",
+  "LICENSE": "MIT",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1594053900",
+  "PACKAGER": "Levente Polyak <anthraxx@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "glibc"
+  ]
+}

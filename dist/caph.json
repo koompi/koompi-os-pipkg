@@ -1,0 +1,25 @@
+{
+  "FILENAME": "caph-1.1-6-x86_64.pkg.tar.zst",
+  "NAME": "caph",
+  "BASE": "caph",
+  "VERSION": "1.1-6",
+  "DESC": "Sandbox game based on physics which uses doodles as a primary gameplay element",
+  "CSIZE": "656971",
+  "ISIZE": "2090382",
+  "MD5SUM": "c682edd7c30ef9e07ab4f459723e4d38",
+  "SHA256SUM": "cebdf3d63c1761a8c70a673e5850c7bfede66437a4326f75192983a54bab0434",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl8EqmsACgkQeGxj8zDXy5L3wA//R/4Mj3IcGhbz+xQ698s4m65vWL2urwEWfEs5pTvcXrSrLnpFZkgF07n+vYmiJT3LP4VzADZNc8Eyps7zqxo5TwtRBcb9NoIoO/FpJ1ZqWfndvoiWiZVQ4KN3ypwxovhw9wBkZ/FiTYM59ol5y2QnjpfrAQccGkYcIxKmBC8KHsb5VQCibl5/LiN28+hiecveV41qyu3ml1BxyO56A7+VkF0qo99Ljd+p0RJLNPhehvuiTRV5RdoydWmuJ5/0xHdzGOaeMgVU5YpvXfSBpZzcOs52Qh9R3sie4JyEDpf+rgHwWIi9GdsAtzV3v+/M97z3D9pkdh3/0iPteDeVz1njtHi5OnphEGwGL8I7dj6xwMaMsXy+3jPgw7+cJX2/aiJqRksBaqWpijm/6sDegOJwpwdMST24PfQH5v9BDh8WIAW2JNOpad/u/jGkxlRHHb4NCPPiSiVSWFtvkQVw8OkUunywsyBg/QbgpXxQCC2Wqlp/ynT9e5SJNnXixip9pCSRHuf3VWr5AuXUMl4p2wU0n0GAZO/byi7zlEhYkiWhbB/Y8NSMG1CNr6WtR7x2Jf72LHJ4kHTG1GJE3zki0CfM8/hQGBLAaV0ussXm46kT58MkYsaVLRsdWFG/b8+hb3Mg7balVQ7rfqpk1ZdDPKhgwUp6dFt3hY9+mBAVAJMj4A8=",
+  "URL": "http://sourceforge.net/projects/caphgame/",
+  "LICENSE": "GPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1594141212",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "sdl",
+    "libgl",
+    "libpng"
+  ]
+}

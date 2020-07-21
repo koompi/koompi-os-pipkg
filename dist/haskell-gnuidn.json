@@ -1,0 +1,24 @@
+{
+  "FILENAME": "haskell-gnuidn-0.2.2-171-x86_64.pkg.tar.zst",
+  "NAME": "haskell-gnuidn",
+  "BASE": "haskell-gnuidn",
+  "VERSION": "0.2.2-171",
+  "DESC": "Bindings for GNU IDN",
+  "CSIZE": "65026",
+  "ISIZE": "289151",
+  "MD5SUM": "e7475004fcb2a83b9400ac1cd4229c60",
+  "SHA256SUM": "9f6742f7f62e79de60faf1e454723df78c3d1e2f887687b796c3601ff605bd9c",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl75LA8ACgkQeGxj8zDXy5JxCBAAuyZkcZFMkCTcSZTqUQDHojS4xKDRcLhpzJkXkH9tH/RrE4JIlnsu286XJS39sc2TdaG8g57PhvzLmQMdq4Wkvdze2HVTgpl4I0p5qCdmG+H4VXwlstJBzjrcsLOjg/LYMwd6YqZQB43QZgVgEvkEeavTtdyl4Qz6dzHZyYD7HIprAWRkaO8w/VBuEAffhmqWOrWieTeh5zKZAFiSWPdT9mFFDcAj9zkL3OBiBM80CXRRdRuP+0BtkvpROS0FF3MdovRJ0w79ah46hv/4BUULxKnAchnIuWIGuxctb2A8man1FYyGBjd7W1lJBuC5LkFlMxxaID0jPc5L8movUuvwsqJ8Es0+S92UY8Lq9mnseURwmsgcEJyV60Y22XmXQ1Gwsixbq08rIRHDTYoqBfSoyB1R0b2dgN3JHg+7+5Qj204peoWM4dVW9nLmPItCfIyXuhKkRdg+/Rdap/vuY/P8yLTvlryvJ3MENbIzqhUi8nqf56BTYXItJMK3q9Qe6u9uX9Z1aPXIV2d7zrcNptojx1H+3cYmfr/73xdOo2LESFiLC7Btm4pRMqEFoQBQ8bQsojYNCWqQGQAx89gc8UZq5CJrNricWI5/sy6496LsMY0wtMN+riL+N0y0Sdlia+ow8/ZY0OHFmtTcfcZoE6pfnZ6tgpcSC3Qq/yTDqIBm6pg=",
+  "URL": "https://john-millikin.com/software/haskell-gnuidn/",
+  "LICENSE": "GPL3",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1593388019",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "ghc-libs",
+    "libidn"
+  ]
+}

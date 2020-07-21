@@ -1,0 +1,23 @@
+{
+  "FILENAME": "python2-freezegun-0.3.15-1-any.pkg.tar.zst",
+  "NAME": "python2-freezegun",
+  "BASE": "python-freezegun",
+  "VERSION": "0.3.15-1",
+  "DESC": "Let your Python tests travel through time",
+  "CSIZE": "20035",
+  "ISIZE": "92424",
+  "MD5SUM": "b7daa317f8efbd80d47f298bb1b7bc5b",
+  "SHA256SUM": "875c670a7adb91ffedc3f9ca5b2f6a8f7d91da2124112c7356c20c9f657faaba",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl5Lr3QACgkQeGxj8zDXy5Ji3A/+IY5LDnc1bdoh+isYT805jbUOJp2/XLN4fw5bo9/1aygYWkLaHR8sLApgEGDMo8GEQWGFV5yKQYVDBXpk8iijSHJXuD0IywC9GQK5wBVYd8ZkzdV1+DS5MenesUVfUQfOM3q7pygwFJZkmcGqBwYYIEgjsJhp+zhRd/GJw6M3Kmz348+gqmSCWwZ6FmxlGSYD7L63Uiqn/EESD7hBEHDtjRn4VRZSxApMlMXYvawsSNXm6VaVd8iuvMVydVNSHSAmwDpt7Sm9qNC1xA14xMU4tB+YZVEG3RcXjhU+twj/5HAYqTuqXF7WZHQSn+Y+ebrBsRQ0zGm6gY12V8JLDRYF6Trlvp4gJI/mVSTvOwpW7mUeJjqL9/F47e1HXpuc11SRB04eBGAgyJqeOzA1HAQcqBGPIXKJkudTrHR2GC14/RV9q6wJOSmSU4n5E7ZGSLB67+Xp0zNiZsQPNBhRzxzKh9gXwbrNm/v/nY7uhwpvtn/qw2I02z6K9euxWIg+UJwRrx5aoKqNpnYFJ6X0Zor+wOhGCM3cFmhqUJ1la9qNzgVzQhb+d7VEOUTna0rB46zpqfpyiEYT6JsVfZxQp33FORk8dgFKxnd0B5y44/ttVMebfYmi84WE5V2F6AiwT/w1m5galRn88RrBle4AlJIVOt8dtwCbiDPKF02eXsQMGaI=",
+  "URL": "https://github.com/spulec/freezegun",
+  "LICENSE": "Apache",
+  "ARCH": "any",
+  "BUILDDATE": "1582018039",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "python2-dateutil"
+  ]
+}

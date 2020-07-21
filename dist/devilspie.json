@@ -1,0 +1,23 @@
+{
+  "FILENAME": "devilspie-0.23-3-x86_64.pkg.tar.zst",
+  "NAME": "devilspie",
+  "BASE": "devilspie",
+  "VERSION": "0.23-3",
+  "DESC": "Window matching utility for X",
+  "CSIZE": "45592",
+  "ISIZE": "164722",
+  "MD5SUM": "8ee975afcc36bfe61707a0487af111fe",
+  "SHA256SUM": "d5addf8f23176ecddaf4cc3f6d674fd6f08f3e99000577a5b7cd1c2464b8c96a",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl7Lxd4ACgkQeGxj8zDXy5K8FhAAvaJhQcWA7TNuGqdjSXYwCQYNHpPKwet5ehS5C35OpAbqgA2AKjA+hniwbQwuB7sLG4pUiYUw2/Gj40hNXEJ3uOwLA3ZvP6ptiAlKBa3mL6LLie6Tug2+Xr1fwmQCCkOBvOUFu1fU2mLRTKOFCgXppHleDOLLZ48gepLZLJ0lnWcx9O8txcXNN7kd65HhswDS6VCNpZCrSNkFCQnlh5lVWJBRfKetuTx3bzU0EOFqQkJ0MXRwjttfEge6kVN7/C7EJS+4LdlN4IJ9xj1TuLA5Wj85cY4Ux/RnUXzQc7IK2Hf88/uFh9wLCpeJbfSYJmNbvhlWHNALm8U+UomWQ9ohHZF8zV2tmzQbuM2RAYUyFcg0k0V3Q2BqjXIISDyrjZdXwKm1i2oegCpKgYeg9ot2Smun7La79TMe0zeM94fFErPOwhKzRsiaZvz3QY7mIB1ddfrXA0NXr1kpDqRgj3bQwb8Iqtt16oEzzCAaONyZXXag0A6L/uJ5sW/XMijr7vQDkmg3+oaMtq7031urObzXUAvg9WmWXTyHpaMPy3FI5+aFtRP1EGO8RXUF56YpKQ8g+h5+HUihbSu0I7GDl9bHo7ibB1YTULDS6tscHlxBvCiad4G6/jYFIcMKXlL1cHhcP3416bIY8cJsn74WCIlFMOXuSNRCXlqXXKfKByov6E0=",
+  "URL": "http://www.burtonini.com/blog/computers/devilspie",
+  "LICENSE": "GPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1590412696",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "libwnck3"
+  ]
+}

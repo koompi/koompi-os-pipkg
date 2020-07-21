@@ -1,0 +1,26 @@
+{
+  "FILENAME": "haskell-comonad-5.0.6-26-x86_64.pkg.tar.zst",
+  "NAME": "haskell-comonad",
+  "BASE": "haskell-comonad",
+  "VERSION": "5.0.6-26",
+  "DESC": "Comonads",
+  "CSIZE": "91172",
+  "ISIZE": "527017",
+  "MD5SUM": "e5ef310d14f796c73f939d258141e5d5",
+  "SHA256SUM": "6530231bcc597d83257c7163f9b6191777e227c2d80889d3851e40672e0c38b4",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl75BHcACgkQeGxj8zDXy5It4Q/+LiIYoFKzhqDWbaqTcbaEyEBj18tzmXS5RrpwHwYX2+v3Uoy+k3n6G1aHKzkqIe4zbXxap1k2tVKfHmFvrBfMFO+0hiBRjHVQQCb6wfIeBXdAGZtAr16pM1rRnRV7Ci0rbpf+UlogdF71kJFHnQm1FnxSOdi6fSiKpz+tbyssYYxS3HvbXtZvpgerB6Z/6VPUfn6Mjt1vvUJsasasR3UEjFkHW4pWiln0E0pQzkrq/crdHCfdq8J/FAaTMGS5jxmBysHPypj5yGZ+eSz2SCG30GYSXIiO+7UdWoyKQrwH4HT2kKVHcKoVI4zTiFjmhCW5HWJ5sN2N0SBQ+HJUocJnd127XYUbSHoT6AohXsPNzzkdymhW6CinDMGRnWYSf7SeIEo1MqkHcKUq8kWNYeT7I2XfgBEChyHunnHt19QIVfVOVzqvQiSjp/khZtb5LoO4SdFUabeGRahmVuFObhZzTiLhZ4VdbDtT4wn7fVru6JyPl7Cw7MAGOTXw0I7/fF8y8bCDv1A2JUAaNWm3/o82xPe/mMKpP2AlYlFjdpiufUxgduBfiVXg5Z7MPkCmiedPQKDyE2icL3ZqKh3XsVW+noH/8WiznTN539fuIPf0djWjEA/i2vPxgnr2+9g77+MECP10yqu+8EPF0medjmQ/5cScJefYfCEzwDM9Mg5D8pg=",
+  "URL": "https://github.com/ekmett/comonad/",
+  "LICENSE": "BSD",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1593377887",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "ghc-libs",
+    "haskell-distributive",
+    "haskell-tagged",
+    "haskell-transformers-compat"
+  ]
+}

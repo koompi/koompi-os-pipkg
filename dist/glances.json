@@ -1,0 +1,26 @@
+{
+  "FILENAME": "glances-3.1.4.1-1-any.pkg.tar.zst",
+  "NAME": "glances",
+  "BASE": "glances",
+  "VERSION": "3.1.4.1-1",
+  "DESC": "CLI curses-based monitoring tool",
+  "CSIZE": "1047588",
+  "ISIZE": "7185843",
+  "MD5SUM": "b144f5d6073adf898d3838a0716cbd47",
+  "SHA256SUM": "bd37a27e6893a277ce6c3a22904cc105be79d5553d172be93d2c851b18b778fc",
+  "PGPSIG": "iQIzBAABCgAdFiEEba97gI+d8lE5YgAA0hRh49/iBg0FAl6lxCIACgkQ0hRh49/iBg1ZuxAAjbLvhw+4VXMBftrIq8Xa5YZxgQ9CEH220Bi8P+T3jAjVID21+Hyuus+ScyS29fPhfqyhSA1RkG2mXlQLewyK+FPxW8kLq7pU9LDzbq4RWR7H2NJshlzJUmNWN47OMXcRce6NwuZKrrmEnxe6f3atqPS5ESMETTx3zfxI5GA/7aUPcbdN28OY3doai85H2ngRunqEgxLGBaLIAsRu6OXksQUWBb8j/Z2rY8TQmCBhToERMgj1oabjznhGtGJw+UqYkpAfSuSsjXeO7R51umniSoZUaAm9WWLpZPcQOabvvCjuNmlX/wpQKIJWqJTwoL50YYwMZ4rcS+IxtcABcj8+9LkDDy8CqeYZfOFWWyVoxYO6vAiBngb1IDEfxu4Ab6/iggVx0//Lap5q7K+Pr/SpjW5bRTnNqSdIYIN6o8ojZ5skOLo50kaBz2bEohDwM04Om6Q/OnE5UOwp4bHvaIRSq6Px3FB0ra95a+b/Csd0QfxnIpoX1vtYAiIVenNRyVU5xN4lz0abTQa+/M30o6e7pkDtw9957GrV9Y21tGqfot/ddpb2eI92Wng5U4Nlouc1eecp7/MRKycCd6HzchaKDGgnZZmJ7jRrtlCC227CoAmQgKWNi+ti5aMLByKiOQZiqE+iWDPFBEdvMP89fRMbc4/aevomkAL3Chs5kjxqPQM=",
+  "URL": "https://github.com/nicolargo/glances",
+  "LICENSE": "LGPL",
+  "ARCH": "any",
+  "BUILDDATE": "1587921912",
+  "PACKAGER": "Christian Rebischke <Chris.Rebischke@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "python",
+    "python-psutil",
+    "python-setuptools",
+    "python-future"
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "FILENAME": "bigloo-4.3h-1-x86_64.pkg.tar.zst",
+  "NAME": "bigloo",
+  "BASE": "bigloo",
+  "VERSION": "4.3h-1",
+  "DESC": "Fast scheme compiler",
+  "CSIZE": "9435236",
+  "ISIZE": "71278899",
+  "MD5SUM": "f3afe091b966b86b2be4dbbb8a430ac8",
+  "SHA256SUM": "754800b2f56296236abfad33fd62d30bd6276ae697c181c38ef6ec0861be3f6a",
+  "PGPSIG": "iF0EABECAB0WIQQ1W9uX7Uck5rOkUOej2VYqWJh0qwUCXwjFWgAKCRCj2VYqWJh0qxB/AJ9Zmg2YT3khbMPGaT4HzAmF0DiP5QCfUyPOAmRkCg0nIfGWemKi3Koe7rs=",
+  "URL": "https://www-sop.inria.fr/mimosa/fp/Bigloo/",
+  "LICENSE": "GPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1594409189",
+  "PACKAGER": "Juergen Hoetzel <juergen@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "gmp",
+    "openssl",
+    "libunistring",
+    "libnsl",
+    "gc",
+    "libuv"
+  ]
+}

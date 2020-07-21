@@ -1,0 +1,23 @@
+{
+  "FILENAME": "kodi-addon-screensaver-pyro-1:3.0.1-7-x86_64.pkg.tar.zst",
+  "NAME": "kodi-addon-screensaver-pyro",
+  "BASE": "kodi-addon-screensaver-pyro",
+  "VERSION": "1:3.0.1-7",
+  "DESC": "Pyro screensaver for Kodi",
+  "CSIZE": "85281",
+  "ISIZE": "220243",
+  "MD5SUM": "dad55a612ae9345c6f9180c506a6f8b3",
+  "SHA256SUM": "62d7bd0facbf5113c7a4a64be7fd10a6e63ce0135544fe4f5f8fea362b9a9a8f",
+  "PGPSIG": "iQIzBAABCAAdFiEE2yJ3vNUAqjglYQvd2zIzknlsoGcFAl8EbEsACgkQ2zIzknlsoGeChw//aOUifGjg8679PspOD09P/A6UyTtYx7mNbfam2T7zU9ziXyi0lvyEN40yEVIjZr09B4yZMykr7eTSy7Jne54/Tcqj4mruPFDh8poCbbjcDI24499rluEP4FElbPKVfzXxxlFQIYzRWrPK6wG00Uuyo89n7HZNgtqFJkkb8CEhi9iVyo1DxTx0b77sclnCeMbDcbIRGWnIq6q8v0CmYZySQjG3DJ65jy0+Ft1WrBQ8GNbZPsIkN+sC6t1lc4oiJg5Zd3Fs0jEb5uRU76v+snM/ugY6lsHX2MuX10oFBaX5KVsmzEATfP/SNrw+6C+vZNMNye/dkEVOAGyEr/u+ZSQR6rR4uqzuBAkGnjwhn219QVOdchSbcG2EXb08mAE+j3vFRCerWyPfuYtUZXFUjjMIT2HMHD7LGxI+11RoI1hMqlif1cki5oH8HzpJpxBnZD8dTuU3M47BrZQqgoE1BkAFvYPEmBIrtMQWl1il9F8j9TGwYtfR7RcBrCPuqkgo+75xxcoYLUAYCFaEUEIiSTddFBqiDXLzm6OI9OHjVtcu+tC/FR3MolFtr3sIc85fTCAcGfnl4x/Jdy4xPHDyKZa3vURDqf4bketz9Mm3+8B0yWyN3EywyzTaGfvkEXNlv7K4OKDZS5jZNh0NRMePWDWzhRJZFSHqOjFxch8Gk6AF+A0=",
+  "URL": "https://github.com/xbmc/screensaver.pyro",
+  "LICENSE": "GPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1594125334",
+  "PACKAGER": "BlackEagle <ike.devolder@gmail.com>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "kodi"
+  ]
+}

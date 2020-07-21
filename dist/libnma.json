@@ -1,0 +1,27 @@
+{
+  "FILENAME": "libnma-1.8.30-1-x86_64.pkg.tar.zst",
+  "NAME": "libnma",
+  "BASE": "libnma",
+  "VERSION": "1.8.30-1",
+  "DESC": "NetworkManager GUI client library",
+  "CSIZE": "321703",
+  "ISIZE": "1769442",
+  "MD5SUM": "2db4a63464185fa2ab1992912bcd15e3",
+  "SHA256SUM": "31d5567365150afa33d7a7f3af50e51c9b1048b706925277409a2548a8598fbe",
+  "PGPSIG": "iIsEABYIADMWIQQGaHodnU+rCLUP2Ss7lKgOUKR3xwUCXvJCsRUcaGVmdGlnQGFyY2hsaW51eC5vcmcACgkQO5SoDlCkd8e9NQD6AngupYQregWQr3h+9F8x8u6Nruy6+Nv8IBSYsVF3O/YA/A/AKeFuAGYsfTo+difllZAzGenyfqxPjP2wmTpVJQoA",
+  "URL": "https://wiki.gnome.org/Projects/NetworkManager/",
+  "LICENSE": "GPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1592935020",
+  "PACKAGER": "Jan Alexander Steffens (heftig) <heftig@archlinux.org>",
+  "PROVIDES": [
+    "libnma.so=0-64"
+  ],
+  "DEPENDS": [
+    "libnm",
+    "gcr",
+    "gtk3",
+    "iso-codes",
+    "mobile-broadband-provider-info"
+  ]
+}

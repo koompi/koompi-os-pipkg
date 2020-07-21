@@ -1,0 +1,23 @@
+{
+  "FILENAME": "yasm-1.3.0-4-x86_64.pkg.tar.zst",
+  "NAME": "yasm",
+  "BASE": "yasm",
+  "VERSION": "1.3.0-4",
+  "DESC": "A rewrite of NASM to allow for multiple syntax supported (NASM, TASM, GAS, etc.)",
+  "CSIZE": "687948",
+  "ISIZE": "4592160",
+  "MD5SUM": "e5882a62b979988e95b0b1fa1ce8ccf3",
+  "SHA256SUM": "f02ea347e298dc8f15951fc6eb7386cb58b326115ee5b368cccdad360bae253a",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl6/1T0ACgkQeGxj8zDXy5JiWBAApctBqadmZ9c3y8zQjm84yIwOFV5P78yoxMXVL24XVfsnv4BebLzogLfjnWKWekyEU0CSRIrFNROow1CsOvvY/vg6RSqBkutwoIh4UB3QNW3yVeMtavy4P8ZDMmXjcEhBuvf2MTJY1f06Z+On2jJkqLCsheU8n7TxKuCTBBfhq2ky07Zc0bDiZIt0V5DTtwKNrf2D64TPPa0WGXgctVi/YEIY4E02XrXLNGVJH8W0ZXo17v6Xqpw444+OR2bGpWquCzERXe+ItHogHY7iT6r92WD450XJnA8iJMxz8Gf/q02hrn3N6DFkM2xganOjrbbTH0YaAYUDUoBu6yOlXRIMN6WZHZJtIu8EuSyrvhMCJFaGo9lRjnLO4Pb2l7lS0dqTDzPTJWMvG+d7gyfXhghwo5mAq3dnW53FRAtmywC5vkWhZyEOVyDXPstnwyUH0f/+VVI5lQ1KCGP/kcpRaL6HyzYjfNZ7oamzGzI5+yaWVdgc+UXed6yA3UyZuaHJHSw48QyOEtXSNkLjFkxsd571trSycg3fk9ZETFf9fcktPI/H375RBgI2J8c2qKRrbgxn+WFRa929UK9Qdt4VsSGZLeMm4ASC53K2xoIIHwOzZlFCbv2yrQF0SZrkWNxiYgkXXdeJpptxFp+u0y49ZhpjFgtdXGY9I0SXzDvcFi2Vfkc=",
+  "URL": "https://www.tortall.net/projects/yasm/",
+  "LICENSE": "BSD",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1589630239",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "glibc"
+  ]
+}

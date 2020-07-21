@@ -1,0 +1,28 @@
+{
+  "FILENAME": "emacs-nox-26.3-2-x86_64.pkg.tar.zst",
+  "NAME": "emacs-nox",
+  "BASE": "emacs-nox",
+  "VERSION": "26.3-2",
+  "DESC": "The extensible, customizable, self-documenting real-time display editor, without X11 support",
+  "CSIZE": "40442108",
+  "ISIZE": "132469250",
+  "MD5SUM": "e5c9f84ecdbaa8bb11c885972b5184ce",
+  "SHA256SUM": "288bda40f8474d056eee1731547e6a2fa4fc2c9cfc8f433bbeb75d67cc5f154c",
+  "PGPSIG": "iQEzBAABCAAdFiEEhs/8qRjPOvRxR1iAUeixSKmZnDQFAl8Eyo4ACgkQUeixSKmZnDSjjQf/W9XvzGOqDhSYGhfdApfdBDLpABlHC6lwevCnOV9Opzbftoq9LoGJ9eKFPxDWgOwZMp2KJfZ1VIggzKcQZ3ypeKKp4IEquW2rM17hnoraaRE7n/8Q2kIzJBDHCq6yvvOzBFYcxQkoIXXgegyH28IebX77b6Dtl6akK5Huf4XGAiH6EnOZI6g9sO4w0tme5jXqvDUZcud1vsJ2WPccIuU2ldHuV+j6f5cR+h/ehvM0LRut4/SxcsSr3eUuJ0Phd+jogz8sVQ/c7gIihDvC2LbSTbYVN1p9rAWvbbuGSEtFMBamaFLAVClMKIwI7QQY1j7qIL5sIYfVRmLIN0oNLlenBQ==",
+  "URL": "https://www.gnu.org/software/emacs/emacs.html",
+  "LICENSE": "GPL3",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1594149300",
+  "PACKAGER": "Evangelos Foutras <foutrelis@archlinux.org>",
+  "PROVIDES": [
+    "emacs"
+  ],
+  "DEPENDS": [
+    "dbus",
+    "ncurses",
+    "perl",
+    "libxml2",
+    "glib2",
+    "gnutls"
+  ]
+}

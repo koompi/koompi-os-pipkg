@@ -1,0 +1,28 @@
+{
+  "FILENAME": "granite-5.5.0-1-x86_64.pkg.tar.zst",
+  "NAME": "granite",
+  "BASE": "granite",
+  "VERSION": "5.5.0-1",
+  "DESC": "Library that extends Gtk+",
+  "CSIZE": "323135",
+  "ISIZE": "1510871",
+  "MD5SUM": "b57ebe581807a15d49a178c0da2f0cc1",
+  "SHA256SUM": "028ee79e5178f23dfc5f3786a8dde43fb8744765ff9d1951b334db71cc6de833",
+  "PGPSIG": "iQEzBAABCAAdFiEElDfdOBWnqRaePTlGr/XZUJi8b/UFAl7/rhIACgkQr/XZUJi8b/V1cgf/ecgb5GTcsL6DS5yPeiSRbQ5Q5IL7kqVii3xJOeS6w6/jZ47OD77JX7VQUg1FXX9dZVOz0Jd3NSAQ7w0bRB6LOhAReyWmWbpluXjzU0gW86veZVhoyJQ4OeHj/DM1LHUuNpxIhAi8mVkHYbrAxfRfdahptV2cbSwuz3e4W6/OJ2FJayLDw+iqqkpeIs/h1XbXmFa81Vy5XAU0SKg5jZD5fHiuy/B7sQ8w579YYTtE8Ab/8lHwffDJhbSZ9qYBflrS+92Ufxjpnk/6espPEBDxU+m7VztFJWZMW4a+9HotjYaEcyehcHuR6CGMIRIZj3ezPIE5Sm1k6mnj65jYe8Bc4g==",
+  "URL": "https://github.com/elementary/granite",
+  "LICENSE": "LGPL3",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1593814486",
+  "PACKAGER": "Maxime Gauduin <alucryd@archlinux.org>",
+  "PROVIDES": [
+    "libgranite.so=5-64"
+  ],
+  "DEPENDS": [
+    "cairo",
+    "gdk-pixbuf2",
+    "glib2",
+    "gtk3",
+    "libgee",
+    "pango"
+  ]
+}

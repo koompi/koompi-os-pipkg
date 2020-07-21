@@ -1,0 +1,23 @@
+{
+  "FILENAME": "perl-archive-zip-1.68-3-any.pkg.tar.zst",
+  "NAME": "perl-archive-zip",
+  "BASE": "perl-archive-zip",
+  "VERSION": "1.68-3",
+  "DESC": "Provide a perl interface to ZIP archive files",
+  "CSIZE": "78796",
+  "ISIZE": "233750",
+  "MD5SUM": "dc31e5d000881f6dafd4fad99adaa8e3",
+  "SHA256SUM": "35082c5eaaaa579f3f04702ff11049dfa89ad650ab4ecfaf1fb668c4711e5b53",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl7vepAACgkQeGxj8zDXy5JkQxAAkQ0IpoMq+UjJR+NC2q8wvWgvYDWBLmZcxDLo3SpLyx7dqzHT1iVsjAZzWMEQC6NiFWOb5OPTsrIiWGaI6YFhCmFFlGtlx8yxGsDfqKRTsc0xuDYoLRvV6S+vEoYNTQ5/8vw4mfJN6JXW7DuXNZS3TyjDUXjUEppTjBiq5FqpW56vyPAGccfBFML+jhE0B6I3Z2WM6+EJIriEQ2SKRw+FcuY26s+cZ8U/noPpZMu8Culk676iuHUY+0xin4KJAQW7ZCbS+cdOgX10x7NHJi41VA7cL2poQQGgojIPdWIkqrJZk8sklcxKpkAMpqNL9KqHJaOAmBQsw7GpxS+4bNCm4z1zpawLyoxALUiJco/v0zgazcBKRwEuz8k7Cp7/6eY+FI2HJJUO1AhSVEBFo2qMm0ow95YfOPNg8HI8hJnqIgYdcJCNTpZbCbRRl+Nj+FnjR+4ttlKBVLpb9NvS2j2v8L/u0ZHfNB1walBUZbfyhGaIbNap+jKSOWnXmMq5zeQmj9sFgfjiM5jpdrw0HQZtErQYG70cmmHKcAc94m+7YHf2pqjUcyIFnXZhX4dQHs0DK2EIlfFSI0XOK8/tE4TQ2uI60IFIoRf+/w2PhG/fFVlW8IBUXS2bvAmz41Pib01GrClhDczmN7wcU/6D7lh9ovGyWvC9b64pfxiJoXWomn8=",
+  "URL": "https://search.cpan.org/dist/Archive-Zip/",
+  "LICENSE": "GPL",
+  "ARCH": "any",
+  "BUILDDATE": "1592752756",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "perl"
+  ]
+}

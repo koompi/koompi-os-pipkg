@@ -1,0 +1,25 @@
+{
+  "FILENAME": "perl-net-ldap-server-0.43-8-any.pkg.tar.zst",
+  "NAME": "perl-net-ldap-server",
+  "BASE": "perl-net-ldap-server",
+  "VERSION": "0.43-8",
+  "DESC": "Perl extension for LDAP server side protocol handling",
+  "CSIZE": "9324",
+  "ISIZE": "11723",
+  "MD5SUM": "88c69b14bdfc6bfec21117477687c5ed",
+  "SHA256SUM": "f3f62935906f14eda820a1cd1d474700d391f3413938c33ca0955778c559729c",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl7vho0ACgkQeGxj8zDXy5KyGw//XX7i+wQukJ5Zefm2kcz+xrBXoVaBdqbQoT+5gn+AeCU3Pz6mAWMo474BqBeCvhV0gp85GSWNT6FEN69p/B9b40vaBnUIsNNJhSOYadLsMW65Du5tK6mouLFSYzOdxXpSKIPLR98WBiPdrIRm2ZDAcGm9faaTTQVdSXL20kJ0BK95Kx7nugekJ+WxAUSzehtKSLcnFX5AHlRW7a6bjHidTFkn6eB4JO+neitho6hkajY4gmAuabMUQc8d3zIBFeTG4y5KVJpH0z6CLjNAuKMOnJl7a61M4iNDoGaCfSjNjNQ8ZHy76y21jrUzDHOgFd/BQsDme7iD/3bZ40dex8RC+rJC6tv0SKSqiu+DPBHZb7akKhOR4T5mehjhKAPM2315MINpwgiJm/jyMqIbmM9D+pF3RSvmxFfRiEU1G36JGpi0eXTdQDKk2Imqb19st00t121Qv4fWuQ03E9MaKJ6vsc9BuxIp4OfIDnTpOIaK8ZnCVSpRIzUPKG26qvXAskDxYeSwYjNUBNAK7aRkrAzjeCdo9RN9Tr7eKPOLRukF78HRnGEfyXDlOrt9cbkLQJXY7sHZ1/IllbAbw9HyXJcqCoXdmi6YHeNnreuHOPMtnZM0pRjCQ0pwZ1wCdEDqYC7Q/7UGGPAd8cmjWD51pLyvopSSobYQPRV0AEMjf0PiME0=",
+  "URL": "https://search.cpan.org/~aar/Net-LDAP-Server-0.43/lib/Net/LDAP/Server.pm",
+  "LICENSE": "perl",
+  "ARCH": "any",
+  "BUILDDATE": "1592755832",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "perl",
+    "perl-ldap",
+    "perl-convert-asn1"
+  ]
+}

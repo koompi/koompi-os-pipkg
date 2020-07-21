@@ -1,0 +1,27 @@
+{
+  "FILENAME": "perl-gnupg-interface-0.52-7-any.pkg.tar.zst",
+  "NAME": "perl-gnupg-interface",
+  "BASE": "perl-gnupg-interface",
+  "VERSION": "0.52-7",
+  "DESC": "Object-oriented methods for interacting with GnuPG",
+  "CSIZE": "53116",
+  "ISIZE": "113620",
+  "MD5SUM": "51ca5842c33eda189963ea23083f7556",
+  "SHA256SUM": "5ede120226be0dc9c3ac8bee16675f298fc71f90ff190b875e2dd2aabdedd1fa",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl7vhJoACgkQeGxj8zDXy5J2qA//Wy1sqJU6E9d66Jv14Xv+Ejz0INdZCy3QRIURoCc5tm2ppVdCYCgfS4cX7JKfJU7oU5FOUCrw4N+FREbiMUWYiV9koryo0DvrZ/z5HIkWyV6UjyqX8T8n0Cm18da9djeH31N6lvIdCEvN01a3xJ3cMlSMpJoU8rj4lOYRMmeWuv+1isz/rWMYynpe6aS7x9/glAS3a3/4cjC+IcypVmPCUK/tCJLex7HAEq8ZTqtjxQbidaVC102VjyWBOqiuz3O3soyRdBWxP6p2sLEpjd/lAAutCQ4zcTwDXNijq0kVPxGLjPQ1/uRiz/StXqYT/HlSlv6XbLgbIbGVNtOsnf4ypAqT68qh7jcLysIdLtQ3+mw+g9PhKnEEQJ1bWN4kJnvnfu1iWCBLqssaL91PwJgGl+MFBtihklg0NGhZS2grOKppcW/NBQhTv7rGALHElm/XEkT4kehrKjL9Y5D9rre9KlYqSj4q5RpurPlGnhnLwf4afr6gj4ovu1PITUSx2Hjj2eXIyJTV+Aa2zCE5RfMBatygrZUiXi70aXJAHDRs0JrLcmfxN/5DeGLumggYkGIJV/goCJz55Yt0avjYvMwB/nOKCuUFZQDppKrGY4NrPHWVLE/aoVKtLFzgiclZDYPBnVN9+VI2f0RLsAS7zOfi+lC11Bp67jT059RW9JAUwwU=",
+  "URL": "https://metacpan.org/release/GnuPG-Interface",
+  "LICENSE": "PerlArtistic",
+  "ARCH": "any",
+  "BUILDDATE": "1592755302",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "gnupg",
+    "perl-math-bigint",
+    "perl-moo",
+    "perl-moox-handlesvia",
+    "perl-moox-late"
+  ]
+}

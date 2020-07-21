@@ -1,0 +1,27 @@
+{
+  "FILENAME": "yosys-0.9-5-x86_64.pkg.tar.zst",
+  "NAME": "yosys",
+  "BASE": "yosys",
+  "VERSION": "0.9-5",
+  "DESC": "A framework for RTL synthesis",
+  "CSIZE": "9417346",
+  "ISIZE": "40067182",
+  "MD5SUM": "2e307447dbc5b9b375bb9bd5c6942172",
+  "SHA256SUM": "3d20ec1213bd32522dc62a67d8babc19bb1624240356606d535de4ee037f8fe6",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl7ZJz8ACgkQeGxj8zDXy5IoaQ//b9E46r6X/DnkJWukQfPMjffwHnAxzC+JtwkUMGOnQdetEdx5S6DFngbzSQgwJwLf2bCFViUExRn1xI+llasgc4SigB42oEVWTKuuxSbthn/HiBdv8if52CCBttQ+SI1mHEgc2jdHcMk2b+vAqQ7lV9vPICzNW16VuDn/ojorb84V11TBDdKlH4SFvqoXUbk7DtzXG7cEK4XgIqxzwHPV6HWHF3PGMKaBolCPNrLM28/hec+k0bHxj++mcH5jKomgopX3RFqnzsd/61wWqHydfPfXxBg84oV8KRfJjPkQGY784yYjQ1DqEI+qTEhuQFG1vz8eX8BZlzYlW7fOPIilyOA8JQHNfuJrHSCpTQu3LDqXgmqJk7RvxeCKwYGZKWISpd9Lv7JOlcjTPo+ekYl5NW3sCZ+74nZ0upJP2zD7RdMwmNq4COe8WwmlpadMMQ1qmLponY8HRCFrDAOqp28Oh8wcHD/erJ9aYjmQPbjnQD5HCTcAA5ZRmsyR4CszpQHiBEvf1IMMS8TO84iajK+4PlnNY7NgsXV/fLnQ58a5mywc3ojm/vdxMnMiMnAV27lcuqlNV+j0OtJsAKl79CFiAEp5bbQge1p2ryXhIajrGUp9GXFjEq72LG2CdaAV1JG01F8Rkj3Yd6m4WyCGX44vtcIDjsQs4NT/TvS9d6Ud+2Q=",
+  "URL": "http://www.clifford.at/yosys/",
+  "LICENSE": "custom:ISC",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1591289310",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "bash",
+    "tcl",
+    "libffi",
+    "python",
+    "protobuf"
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "FILENAME": "antlr2-2.7.7-11-x86_64.pkg.tar.zst",
+  "NAME": "antlr2",
+  "BASE": "antlr2",
+  "VERSION": "2.7.7-11",
+  "DESC": "Language recognition tool providing a framework to build grammatical parsers",
+  "CSIZE": "604116",
+  "ISIZE": "1427375",
+  "MD5SUM": "555cba075cb2ee7a5eac331667dc4d71",
+  "SHA256SUM": "047e035f4df0e70801377afd1d0c3826fd8c7d884aa6eff7c6dea5e43efb7d85",
+  "PGPSIG": "iQEzBAABCAAdFiEEhs/8qRjPOvRxR1iAUeixSKmZnDQFAl6/0qIACgkQUeixSKmZnDS0MAf+PSPZGXpSE2wepAoVvsPkd9X+nTSyV5HbSqZ3reFzn8662/tD0SbcKjizAap0uvdE6eG6QNH3n3r6oWVsqszlITdqVacD/zprEhWQTDxtBOekPbLmqHNqh3giZKYigiLZqH4DM0GXqkJT3kdn77yC5vVVLLMbARa8CQkLb0jM8LeFsH7yk36khmcUY/5T24iGf7cLPJ30W9bnvt7/6uj9McAqJ/6sqml6pqvf+0ShqahvXRx475gHwypq42jT926Hzvq4T8FNWr1pVlFN7nzIRymZhFB2h5vvDznKQoElXFeTbWb3rVRBzZBR9x9tw3I3QmKPZGEiX63WJWvH+kvaUA==",
+  "URL": "https://www.antlr2.org/",
+  "LICENSE": "custom",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1589629561",
+  "PACKAGER": "Evangelos Foutras <evangelos@foutrelis.com>",
+  "PROVIDES": [
+    "antlr=2.7.7"
+  ],
+  "DEPENDS": [
+    "java-runtime",
+    "sh"
+  ]
+}

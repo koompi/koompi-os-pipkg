@@ -1,0 +1,27 @@
+{
+  "FILENAME": "python-kivy-1.11.1-2-x86_64.pkg.tar.xz",
+  "NAME": "python-kivy",
+  "BASE": "python-kivy",
+  "VERSION": "1.11.1-2",
+  "DESC": "A software library for rapid development of hardware-accelerated multitouch applications.",
+  "CSIZE": "12473664",
+  "ISIZE": "24755906",
+  "MD5SUM": "61f198babb708e86ff524fba62878075",
+  "SHA256SUM": "533740563b4329ca746a2a8e5fad1f0f704a2bb6bbe6c55817f510dfdb700a89",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl3HxbsACgkQeGxj8zDXy5JFTBAAtliWp+MNWgeb2UxWP1miPS3zR55jLx7bpxR9a3eOmE1gSi3Axu2vbOhTEQySgYMO9SIhak5fEvF2eI/Tjv3Rg91yx/aKH1eorDeZxwL/fw3HYEKu8sti7YCs1wpGss0Ftnz8SXzMPWy+enprSD9A8tOSX2XFcLyOz1PqMiHQT1tfd7ezpfQAuBVBNKOdrLnMCw438Dd5aVIlgpGo+tFV8cAEc7qLGDGvYJ/v0UFFr+JkA1nTkhQFf0kTg6iILRZUwITipwtDmRY984LfTLNdY2s6T/Z6+anV4+F8RP4JwhRAqYcATgPtnd+tDTUSjOjmH8RFMPnFTqvL6maxX302LB9YtBqEBEW1GR8xmHiN7wY3CxKaLclp8eGKYi+ostneciOY3fbvWjMxmMsISMQgPVCVJBGyOBZQvEPwS2AFwsxd9/0b5kIut+yy45LhYP/vW5NKafF1RVoCAude+pVGWEwP/f6k6xIsNQkWbTOffs9A8KnH+aFjHVUtU7z6u7cUE9lfuH9xCl26JhY32bz0MGbdEfrfQYk7USdlAlZ97Jy3r0oJmfK2Pfky7GaJMn7rOf/Co300JmhWRlPMi60O4hVnunKIs52fIG9mcBI2RXmgHb+yC+TpRT3P2d1BKe2kb4gCKEvl0m9bdYbS75P2ZBPlKqmJ6EBgsw1rdwlr/ZA=",
+  "URL": "https://kivy.org/",
+  "LICENSE": "MIT",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1573372753",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "python-docutils",
+    "gstreamer",
+    "sdl2_ttf",
+    "sdl2_mixer",
+    "sdl2_image"
+  ]
+}

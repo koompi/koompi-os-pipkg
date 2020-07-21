@@ -1,0 +1,23 @@
+{
+  "FILENAME": "gcc-d-10.1.0-2-x86_64.pkg.tar.zst",
+  "NAME": "gcc-d",
+  "BASE": "gcc",
+  "VERSION": "10.1.0-2",
+  "DESC": "D frontend for GCC",
+  "CSIZE": "15844942",
+  "ISIZE": "101795560",
+  "MD5SUM": "30b8837760b0768687b8475e70b73363",
+  "SHA256SUM": "794e526cdd02d3d774059481e46227e13dd123cb771a275f79121b727dee49e9",
+  "PGPSIG": "iQEzBAABCAAdFiEEhs/8qRjPOvRxR1iAUeixSKmZnDQFAl7GyoEACgkQUeixSKmZnDQ1Rwf/azzdfznrte5aOaJvTko+t3mumV4RvNJg34aDV7dQoKJeLhsZqXDJVP8jTAnfLtl1dvy2DEjIO+woaPTstblVb1OztY1TvFT5vvq2y9dm04OjPpaHY4TWn9pjXTHA8ttX5mSDprQ/HAeMLpv/9i8UIyOGuF0muputZvGkdvLOK40jHIhtknNsnVmc4xyUhPG4YPOgOWIloT7FadPs3ySc1X0SKaPHtChOj3ZQXUTla51njKA23s/jM98q8tv6lQMnj6YG5vDycCORplImALBUyrFoz16VCnI0Rgdd3/4kgcU2JIzdka2oJLfOi+092yhML2XyYgHwK+UgpOQswh0IhQ==",
+  "URL": "https://gcc.gnu.org",
+  "LICENSE": "GPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1590081605",
+  "PACKAGER": "Evangelos Foutras <evangelos@foutrelis.com>",
+  "PROVIDES": [
+    "gdc"
+  ],
+  "DEPENDS": [
+    "gcc=10.1.0-2"
+  ]
+}

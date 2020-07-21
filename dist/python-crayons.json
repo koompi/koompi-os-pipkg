@@ -1,0 +1,23 @@
+{
+  "FILENAME": "python-crayons-0.3.1-1-any.pkg.tar.zst",
+  "NAME": "python-crayons",
+  "BASE": "python-crayons",
+  "VERSION": "0.3.1-1",
+  "DESC": "TextUI colors for Python",
+  "CSIZE": "8555",
+  "ISIZE": "18786",
+  "MD5SUM": "e88aca2b5428545e19ba6f06125245d5",
+  "SHA256SUM": "1fef1a473492e5eb01c7b85b83e4e1b93c2405949c55a79bbbb38d405bc83e21",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl7c2bkACgkQeGxj8zDXy5K5BBAAtALniOlXbk9cnRDWbifY4RjPTY7GZpoJBeHlS13guIjkGgXBp1Ani3WXOEwHcLx3dLPlJ13Smj85RAhUXikmzCQH3mN1crsfEEFC/AzrQL+zbEe3YmLHK7rTh/CYY6HLElfy/BXRazBrHmzpkXmPDwjCOiaBjBxn98Wa+sy3hQoGFjo99JyZPNR+o/9qV4L6dwwRyuxpuQNvWBHIaPOnIyWTtVXw82x7+A7fIG4s4YAlPoP6zIh220plwbXbTcqhVSpKijLQ7Op5bcVOoCRuue+KmeaaFfyfz/iuiYeeOOvRIAZviEk+5Ywj35ABxzzSAXehrBpfJG+d36mAIt1P50oWE+3+fMW3LKpU1ljM4Ye6traoXA3yQd2p8qZ3at3cXCBC9ewbxbwnCa+OwHWMg4nxNEZi2ovOOzMtM5dMmUid9vMiKXrhyAuskbBjb0EBd3SMMn2OefRO7HaU9YVl/Yz6g9i2NCRuxl6KssFEG6eP7uwElz9d9BkdRUU6mJ+I6xFEmq+Pyl5TThUurDR/lkT974SGBVzxCHPrWwtll2ui+0Mfo+nvSSMhkHqwvCCklWZ3pLF6Smg7qjn5XBTG+lyqYDSVGZ7lFyY0X+btFIuqOa5KKdth42d6cN8+Y3cPyMDj10yRcLYzKnmdheuLsKiQCw29tBrP6LuT2iDE09c=",
+  "URL": "https://github.com/kennethreitz/crayons",
+  "LICENSE": "MIT",
+  "ARCH": "any",
+  "BUILDDATE": "1591531933",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "python-colorama"
+  ]
+}

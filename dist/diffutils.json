@@ -1,0 +1,24 @@
+{
+  "FILENAME": "diffutils-3.7-3-x86_64.pkg.tar.xz",
+  "NAME": "diffutils",
+  "BASE": "diffutils",
+  "VERSION": "3.7-3",
+  "DESC": "Utility programs used for creating patch files",
+  "CSIZE": "331896",
+  "ISIZE": "1454815",
+  "MD5SUM": "a00ec7f7f0003b17f2abd3c134381424",
+  "SHA256SUM": "333d950178c20cf9e5d9da7533d92b7f6434a6efcab82078f2f3a9247b59506f",
+  "PGPSIG": "iQEzBAABCAAdFiEEhs/8qRjPOvRxR1iAUeixSKmZnDQFAl3MPSoACgkQUeixSKmZnDSUBwf/R8+96fHMgU243nzqGdAsVrD0RA5KyqhpZJTIBYuizrJdy+ZbhAngbV4XGHBbJbT8P21i/lLF4yG4vOD4wmSJksoHomLAKcO7yJblyJQMnnsugN6Pbj/eTzkSsKN9ZZcfFyGmbYoC3rbztKKpXe3yiCNqjfPHBYkRpbNenQoLmjHMKQleyr9hPAStPZqhiv8FHeVAkI9V7B0cGB9vnUv1S2My61TKDUjVxqKaSqh2Xq3OTqrA76sqmMChiFowhmFZWxy2wTpfIwcO3bufeoTXxgV5yt7NWWAn+ey1PzK4KN5CqRkhvNo/SAQPnQJHyQQYiB04oK8ByVQNB4GH1xjyFw==",
+  "URL": "https://www.gnu.org/software/diffutils",
+  "LICENSE": "GPL3",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1573666029",
+  "PACKAGER": "Evangelos Foutras <evangelos@foutrelis.com>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "glibc",
+    "bash"
+  ]
+}

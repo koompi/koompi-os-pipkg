@@ -1,0 +1,24 @@
+{
+  "FILENAME": "perl-list-moreutils-0.428-5-any.pkg.tar.zst",
+  "NAME": "perl-list-moreutils",
+  "BASE": "perl-list-moreutils",
+  "VERSION": "0.428-5",
+  "DESC": "Provide the stuff missing in List::Util",
+  "CSIZE": "36771",
+  "ISIZE": "73309",
+  "MD5SUM": "d02acebfd420710f596a1a67acc21006",
+  "SHA256SUM": "30d6165f26f0d182456339bc10fb661fdbf7bb082b712f73e948b414d8046271",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl7vOFIACgkQeGxj8zDXy5JHsQ//RyeEynNGarV0LaNLB/KafZLrNmHSt8SXW9567JmZDb13qJYoDGZw8UoM2DdOU7+ZbEtSL9zDl7Vx0CnbJfZjzm7SG5op1y8GPVITGTXqKLeNFlgt6e+A8p/r5QEDugF5gk/bD7TP8q1lrgeTHshT7X0Z3P5dVgccr+nwXqH+J6xYDr9JRk+DoW5BU1zpXzwqf3z+tRM1KNlK5F2YkLlREOLhPjxzKeKd07Bir1ZJLBOYrBrJT4ihcwuMO2mGMoeum1VXx4pBFBNWnL75ab/kO1K0bhmKHg0rbNk2y1utGTndBtk8l7i5DLXuv9zYlZjMk48B76mJJReVfS+smdl/PurKRO+8Ea7pZjzBgpwsQVQlWM4kB+8mX6et/OoihPOmnJKhQ2Y1v08hpfeRDI4sLcFv/ZA6GunLSLWM4xRGoezYlAV9pKkM/Wbzy5ljxLB07jODuJkMWsEupJOaEBc8xwr42evm2Jm9vfKEBYLNH9QCDLWMhlXW54AME6d0EdHTlBqMtgOg7GSN6qvMmAE71CCROBh/GMfDBn1LSKBEzeuajrxwCCPLZqUv2vTF59MhtYRQUWb2j7THrwQtHJBZ19HMX5Ix/PeAk4IAaLsrmgHPm8oxJkgDq0pOW/8Ps1mTS8KX4IWEnEpRS+XYBsi5vukwBjgcOTZcZrH6ucf0n74=",
+  "URL": "https://search.cpan.org/dist/List-MoreUtils",
+  "LICENSE": "PerlArtistic",
+  "ARCH": "any",
+  "BUILDDATE": "1592735788",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "perl-exporter-tiny",
+    "perl-list-moreutils-xs"
+  ]
+}

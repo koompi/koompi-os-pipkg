@@ -1,0 +1,23 @@
+{
+  "FILENAME": "perl-local-lib-2.000024-3-any.pkg.tar.zst",
+  "NAME": "perl-local-lib",
+  "BASE": "perl-local-lib",
+  "VERSION": "2.000024-3",
+  "DESC": "Create and use a local lib/ for perl modules with PERL5LIB",
+  "CSIZE": "45838",
+  "ISIZE": "72084",
+  "MD5SUM": "9f2c4d223756aab77d6379efc731c38a",
+  "SHA256SUM": "350d3299bfaedc467768354e908b1385e92a0bec3476160c4b7d6f56e45162d5",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl7vNpkACgkQeGxj8zDXy5Kl3A/+KEXz8SLqDnU3o+pLSb5MgC0DFePUZnEOrStm18t2tlY0U6m5Hjm6I32ZGXG6QjejqcTlLjBi1y9Wzyyepl0vnR7jx6uNlleivLGlHs6uS40aV+7sBnSF+wuB3KYLSD9PfIAlsMl/KK2tLc7nsszTaUvHsg8gqI9efijScbgPKoLfie7pV2uCB28Qh408trsn6qRARzVj1NQP2Fyv7p9/VhcOwWEzlEpyN5ARPwq+JTuEAhu4Qjqy+NkfrCU0WCcyy4XxpGZ0MiJfoWeqgVaDfDGyTW+g6cL3RdsdcqVeNnnzfNsr+sLCz5x0jBzmSKsIRSEqoEuYaGBHcC9znBRWB/RLu83S2cpotiQ473Dt/9JKwzwuE3BpLdRbhs4olvaw0JbnYb2Y198ghT/j9hp1oaTZrFtqymyH9m43ZcJ09U/E8ts4/5bMiuE+nA2D0pjYuIPbcKBV4fXHyxgiq31VcxbZi/FnmYJJcaauFrVlIRp8tedMFwH8dXRV5+sauo8UqzNHKb2qpxp+yP+y1ogOShKE9fZ0P44chAgeBGD33aMSREadfUiJC5qizlCTZDM241T0BsJxxlhfAtXk1+R6zoPnrzQT+35gYMkQO3Rm6tPF/ir0OgkBvdR1UIbeal/eBAeOTYxB9iPxvc2UaJzQC/uvGg8UWMwgTN0JhaUd/8I=",
+  "URL": "https://search.cpan.org/dist/local-lib/",
+  "LICENSE": "PerlArtistic",
+  "ARCH": "any",
+  "BUILDDATE": "1592735364",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "perl"
+  ]
+}

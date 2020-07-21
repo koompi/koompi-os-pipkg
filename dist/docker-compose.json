@@ -1,0 +1,35 @@
+{
+  "FILENAME": "docker-compose-1.26.2-1-any.pkg.tar.zst",
+  "NAME": "docker-compose",
+  "BASE": "docker-compose",
+  "VERSION": "1.26.2-1",
+  "DESC": "Fast, isolated development environments using Docker",
+  "CSIZE": "217527",
+  "ISIZE": "1312699",
+  "MD5SUM": "41f0ba0ed7030d40d0b6d4d030b78e69",
+  "SHA256SUM": "f0f26c65905759da2d4edcdd760f5b1fea8f8d885897c22d6bca8d0a08ad4152",
+  "PGPSIG": "iQIzBAABCgAdFiEEktnGzemaICTWkKdu50JoO6CMsv8FAl7+OVYACgkQ50JoO6CMsv++bw/9FTt8riopWJTciiOans46b1uWsIHJ0y50dNG4ipg9WpGzh41dFnNs7M6GiCtqC6VN+1Hp7d3SJ1nDEKMNg76KU5MvY0rSA73fnISGSrkuSt0+pWM8hfNXaN9nKn/B/ZQRVwIpghZ7Q1ppwJrN8wn9Z47w15py2nsNBJ0xq9VgCWZOsIxdRZw4sXL89yEFx/JyOb9WY8+HxM40qwHACOzCt+Ux3hxsbt+b6Oaix0Z+Z5G/gB6ujOEaV7pJfxbqUoKpTolJNbFVe9hJOir/ycDBmqvVS0aWQbaMoik4anXiYyP7Zpq02JVgJnBrAXi4Awe9vXRV3g+uaKx++rsG8eEfg6qBYhsyh8SkN+mcYQoPJDa42sMQK/CgQRbz1M68JRQzOpanLtjb3NfLFsHz6CyI+EKGuruLxvN5ZSJiPdP7Yj9+3HkjBbRf2+vaTvTOVyTtGX5ykFI+hCuoq7H52A80zpRBvufSQGGaT/tfRnDegNuoABpfxH1DqwXJf/nCTbcKqW5dnJGklp0Sy6Md6L3y04POmhp5vx23cpT8FkvPa/vkHnk1+/DpCz3WvRh4FBYbnrjPASY3rUMzyq9GASFAVhuwuD7W/WSy89cPe1YLrBCLbET4/FRkzgn1kkXx6xXEkorUzALlr7VEbLnWxgy8yh7MYV5ekl2iJz3CXyjQQlo=",
+  "URL": "https://www.docker.com/",
+  "LICENSE": "Apache",
+  "ARCH": "any",
+  "BUILDDATE": "1593719067",
+  "PACKAGER": "Morten Linderud <foxboron@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "python-cached-property",
+    "python-docopt",
+    "python-yaml",
+    "python-requests",
+    "python-texttable",
+    "python-websocket-client",
+    "python-distro",
+    "python-docker",
+    "python-dockerpty",
+    "python-six",
+    "python-jsonschema",
+    "python-dotenv",
+    "docker"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "FILENAME": "perl-net-cidr-lite-0.21-9-any.pkg.tar.zst",
+  "NAME": "perl-net-cidr-lite",
+  "BASE": "perl-net-cidr-lite",
+  "VERSION": "0.21-9",
+  "DESC": "Perl extension for merging IPv4 or IPv6 CIDR addresses",
+  "CSIZE": "11416",
+  "ISIZE": "21808",
+  "MD5SUM": "34a097ac0f5ba162a7e3114d72065dbf",
+  "SHA256SUM": "2de94af010e1c17fd248b3057acf18ad95b1a3e90b178f1fb5e18458235856b9",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl7vNWEACgkQeGxj8zDXy5KFKQ/9GhuD73LnaKkCcBBVViRw+VHg3WJDXbkrAfauE4OqN/Jx2DZKzDV0D6sH5YdUjBcN9POPTpU1WOGvbHuvCFJ8/FD/3iA47zQS7JRg4nHNSfpv3Zz+UxgWXQar76ciPBhdwZui3/ftTT2I2styWLsxaajHQJ5bqKS8PHEecvJwzlRCqqAWXVSiWrGIHOtIIRHOlAfrKgLzMsdd4XY6cWhi5IdLSBN/KMB6LiGrFFt6wPpKPlLo0KXnc30AA1WLpyZzDg34NLuxRNuFhN9A6lkYPD0tri6SCIfUrlVsTPrkKjzc9DgiwGlmvgnRIznO6M4ofBKQc8MY/0urzlymm9Z1mOuHDddxyYFgRhNKI+UmDdpjIXMWC3VgWA5ABfEVey2WRx0yUybRauBTOBV/MSN/TzpOwt8MTw1UZbVq2ND+xdMgwRgv84LYzkNrmT9d3yIiBox0KFnL8J+kAErTaPCZin25rXT4DHzV8UlaqkKOf4ssS2LoxKyF9mWTmJwlCxy5DNzu+Tvz/iYBKLL7etjV2f5mioiSKXP+1OEJnFKnZFK4sqLIEgcD8Wz5inenX/2ZCfiL7sPBkAX/WHCdRCtwdQlI4DhdK1aejjVUgWv7F0fq4s+2pp0SVe20Q9JvZt2J7XTYT8099bpQO92wYK+28GHjsN7MLLPIM4rmlf+D4Zw=",
+  "URL": "https://search.cpan.org/dist/Net-CIDR-Lite/",
+  "LICENSE": "PerlArtistic",
+  "ARCH": "any",
+  "BUILDDATE": "1592734882",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "perl>=5.10.0"
+  ]
+}

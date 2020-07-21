@@ -1,0 +1,27 @@
+{
+  "FILENAME": "artyfx-1.3-3-x86_64.pkg.tar.zst",
+  "NAME": "artyfx",
+  "BASE": "artyfx",
+  "VERSION": "1.3-3",
+  "DESC": "A plugin bundle of artistic real-time audio effects",
+  "CSIZE": "131541",
+  "ISIZE": "716876",
+  "MD5SUM": "d00fe948fd9ac38ab227778cc79452ec",
+  "SHA256SUM": "8efd8a61a4052bfb4ff8185a3f4db9428e2d8930795286b779ac4c1c07565f4e",
+  "PGPSIG": "iHUEABYIAB0WIQTH54SUZv4jWDQ1iDdyWHNLQcMVSQUCXqiO4gAKCRByWHNLQcMVSTN9AP9COojWphRM+/KqDc62alLnS9tEs03T9cPpZ7eQmL02JAEA/0/gc5jKZ9ORti5cNA5Qt1EWyPUq8vVKvDpDiPdW/wo=",
+  "URL": "http://openavproductions.com/artyfx/",
+  "LICENSE": "GPL2",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1588104716",
+  "PACKAGER": "David Runge <dvzrv@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "cairo",
+    "gcc-libs",
+    "glibc",
+    "libx11",
+    "libsndfile.so=1-64"
+  ]
+}

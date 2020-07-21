@@ -1,0 +1,30 @@
+{
+  "FILENAME": "faust-2.20.2-5-x86_64.pkg.tar.zst",
+  "NAME": "faust",
+  "BASE": "faust",
+  "VERSION": "2.20.2-5",
+  "DESC": "A functional programming language for realtime audio signal processing.",
+  "CSIZE": "39639116",
+  "ISIZE": "118274534",
+  "MD5SUM": "ad21457e5396e156d746867f1e7f4095",
+  "SHA256SUM": "c2c73b2acc89f10953a8a5ab96dcf07d8a6ed74de393691272b387103cabd550",
+  "PGPSIG": "iHUEABYIAB0WIQTH54SUZv4jWDQ1iDdyWHNLQcMVSQUCXrK8NQAKCRByWHNLQcMVSbvdAQC9TcLdt5K/NCksT7YUmKXKkNDbVuaKAr+lvdG5yCl1KwD/cXA2opo9E/wJWEt5IGPk+3Q2JhiZUFtkHySWSB57VgE=",
+  "URL": "https://faust.grame.fr/",
+  "LICENSE": "GPL2",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1588770354",
+  "PACKAGER": "David Runge <dave@sleepmap.de>",
+  "PROVIDES": [
+    "libfaustmachine.so=0-64",
+    "libfaust.so=2-64",
+    "libOSCFaust.so=1-64",
+    "libHTTPDFaust.so=0-64"
+  ],
+  "DEPENDS": [
+    "gcc-libs",
+    "glibc",
+    "llvm-libs",
+    "libmicrohttpd",
+    "libsndfile.so=1-64"
+  ]
+}

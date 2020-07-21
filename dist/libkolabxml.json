@@ -1,0 +1,24 @@
+{
+  "FILENAME": "libkolabxml-1.1.6-13-x86_64.pkg.tar.zst",
+  "NAME": "libkolabxml",
+  "BASE": "libkolabxml",
+  "VERSION": "1.1.6-13",
+  "DESC": "Kolab XML Format Schema Definitions Library",
+  "CSIZE": "674301",
+  "ISIZE": "3233442",
+  "MD5SUM": "2068ea8ce2f7f95811a2cb1328e8d289",
+  "SHA256SUM": "24893659b27c9e0006f778890e6667d0fe6b689098a7aa0e54f3df58244b162e",
+  "PGPSIG": "iQEzBAABCAAdFiEEhs/8qRjPOvRxR1iAUeixSKmZnDQFAl4vtn8ACgkQUeixSKmZnDSNoggAhlS7EJT0lYR9eChIfam+bKiIFuyNaDtjzG2YcG1IyvIueyGVhfuq+/KV+POHg+p1i11B5vlxe76RqTavY9bWtiX6NCMdPH6NX095AXbXeoIp9YmIvgHy+euSmPs2EvEprVkdaOeedKrA5Q+zj5NNO16iAUJ2ESf1LViJJ8IT0Msb1moO3tjV3RGRM5R7zTtRHu/C76//tkU8qBVVFYDhQBfa3mz7v/U2o0WNMpxFErDHn12oapUwy/HTMMree2xL8S1nxmStQKzL0xEXGq81smwRFwW7knNyh3jp4vuL3XJv9rn32y3SlcG3r1Ixgy1WLL62PQHb93CSoOz1ysucPQ==",
+  "URL": "https://www.kolab.org/",
+  "LICENSE": "GPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1580185148",
+  "PACKAGER": "Evangelos Foutras <evangelos@foutrelis.com>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "xerces-c",
+    "boost-libs"
+  ]
+}

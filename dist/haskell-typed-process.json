@@ -1,0 +1,25 @@
+{
+  "FILENAME": "haskell-typed-process-0.2.6.0-34-x86_64.pkg.tar.zst",
+  "NAME": "haskell-typed-process",
+  "BASE": "haskell-typed-process",
+  "VERSION": "0.2.6.0-34",
+  "DESC": "Run external processes, with strong typing of streams",
+  "CSIZE": "63455",
+  "ISIZE": "333225",
+  "MD5SUM": "40ec4abee276aa6889013ba3b1373aea",
+  "SHA256SUM": "55aa3b159803b1c2bab291d07c6ce463d64a44ba211e41f1ad9d0a2f5094c525",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl75LJ0ACgkQeGxj8zDXy5LitRAAtJKMTMNbl2Hxoqd6B+X+bsKNNtfEJVg08QS7qVIXdvdDDh5e5XKxVs7aDnz0bQevUxM16s7Eadm96Y1JmKk69Bfrvi7kMEALWxpeuqDa43MTvnLIZxvdaHCrCyFLetnMl+eYekgRj++CakEZ1ucwQzKNkNAEORB2xAVgCpwn03ZscSTFsZH9UmdE3WpeXvrchgv5V+X7KPQ84rFGcmbqxiYqrvmV/ypzLXxwsxcN3KqccM9VDhbrYfMGobOJraxzqkQ/wU91HiZ4f6mEP+rgPND2EWoYVkJfnRPfsQKkf0Y4hVRaBnXchIKJuYntWAwhwDfyYC24XLtYR0Hcj7H07gKCsGReEGjpXzoJQhR16Qcg+cULTXS7PWYEdj+3cm13qwdHBpUPCmE6LvbqDFU0OcGXqARrCTVim2Vg1TnWGS8aaT1Hm1r6dQF4KRAuMxOZBRoP3KXbbdnWxt3kG+BlZ64PePgNJ9Eq6Cav9eHp+LNqMJRshkoqWi5gQ+v0vCekbYcdzIfhJbcl6dMaH7HC8Ersvcdgnq15SLroKjXaRFwGxxm8VtBH39nqqwEHgBuTEDIeGRIpF+fLcKpo/X1ZWWhhm0U8lBeB7m64J78cATk4ur6dUyY6PVAO4/SYT2f/hWcu4RsUq/+b6MOY0awOw+JxmdtpshmY+hCW8JnJaPw=",
+  "URL": "https://haskell-lang.org/library/typed-process",
+  "LICENSE": "MIT",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1593388154",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "ghc-libs",
+    "haskell-async",
+    "haskell-unliftio-core"
+  ]
+}

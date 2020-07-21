@@ -1,0 +1,23 @@
+{
+  "FILENAME": "perl-rename-1.9-5-any.pkg.tar.zst",
+  "NAME": "perl-rename",
+  "BASE": "perl-rename",
+  "VERSION": "1.9-5",
+  "DESC": "Renames multiple files using Perl regular expressions.",
+  "CSIZE": "10610",
+  "ISIZE": "15947",
+  "MD5SUM": "1b5db86e79d613c17d4da2b13d2ff87d",
+  "SHA256SUM": "84642f9e86bdbe6c2b2fed8f1f018075fe2ef8b3e9826c9eb5c6f64038dcc4f4",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl7vhHUACgkQeGxj8zDXy5JAtg/+NkOlafsjgyluNaWLm+jx5GZXNd8craoMM4z3qzzUN2M9ECZn8B6elX4FJEh7sKaOQBw8y5JFl+bB7JGXHLSA+w1xpTwjbzj7TFviRmVaSSdVY+3M395pkzdQ+EUBj5UAjtv5zD5Nd4r1Hofj+fjukrMhzMEQX/5piG1MG8jEDizVjq8GVa6B03zTKnRWixNFAxDGil2AbIGk+QbvNEwzu71zYbUR1en7ZXZpGuc3o36SpiGJ4Hwl89mL5hwFo1y7M8TYEik1tp4NhYP37l43fdMYQBLCm57CkQgrAISIJYU1Tt0iCcggY3Y2OEBUkIsy6s7+i3/6C3Pr1cAvMm2IS3AntyaYELO7z+XaiUkrCIH1re9pedtA2GoCASlRhXRKEKKjRFx253Zb4+a5YfAd7rUclxLzI1gmnQ/wuXpbGumdTyqwdNKSO3E5Cc9I2Z4/Gw5tTL8oGcGRnD+Aus9G3ZqtnNbDOFnUKhejzhHrx7NPvxGX1/85B4o6Wn+nqMCflrU5r4/VsPptOhE7NG9yRV3Fn9nkaLuRdxqq2ZblBybujmAwz5EXjrHNXT0frT2xbww+/ES+u87nnoDjZE1QYHlqJRfqIdqhFkNem2ux7XdoSL1s/hDpcB0oZxobA+e4+sKaj7YaW83x44nSdFpahvfqcp69t4tulaeGXU3pXuA=",
+  "URL": "https://search.cpan.org/~pederst/rename/",
+  "LICENSE": "unknown",
+  "ARCH": "any",
+  "BUILDDATE": "1592755100",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "perl"
+  ]
+}

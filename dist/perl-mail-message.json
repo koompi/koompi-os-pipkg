@@ -1,0 +1,28 @@
+{
+  "FILENAME": "perl-mail-message-3.007-3-any.pkg.tar.zst",
+  "NAME": "perl-mail-message",
+  "BASE": "perl-mail-message",
+  "VERSION": "3.007-3",
+  "DESC": "container for MIME-encoded message information",
+  "CSIZE": "353514",
+  "ISIZE": "551545",
+  "MD5SUM": "90a37da818126e280bfa73ea826addb7",
+  "SHA256SUM": "8700f6660b769ffb3c9643dbbc690f25f7458f63188ecb7020eef6221c52477c",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl7vhNwACgkQeGxj8zDXy5L+rA/+L6p4k6zWa9B4Mothy0xuRxDG4JDDvqweTsrsQKJhW3yh7ZrEJmbUpYM4606CqhSmpelIUgMFJHE3C/5zA9qpirzXPUjiRqwYLAPrMQAngAy84CffymGtM5TuVn6cIKTIccr7cgB98XOrgFhmYjq8OfSwFjyS8o19kwV7apzgniPmhVyuUbLlaBtVaRK/A6R87qAf9c8rLnG8aopH3ZqbP77GDXi9vMy3pJ8symGVmHnlesbGD227rEf2XlZs1X4hdw/bZbI9YOtCiNu3C1f/zggpyetLI/y2ppD1xb/aaqI69C21SEZIL6315Scigr1t8JZ/XevYCPLR/70ERt5QIGIk30xo2h/gX0KtBRyJjN5oHmGncVSEGZbbOYvpupBE0o2IXJ3wEFWYO6WF8M0W2RfS6KmHRcRs87v46+F9unF3rmHPxIul8zGZ9aYQ4QnYtBnoC0bW7vCBfNuM79lgOntVfdpuCtUUABC3dN2TmfosTuLHdq0G+0qzNK19S0QkHGWl2DVpwo2+m14nkclNuZfYwjblJFPmZSzpI8lgh4BsxlqaYd3cO5QebU2X6LN2FdB8VZFGUwYJPi9P6+zVomYOTg0YjQOGugucStm/ZuvD6szaZlmBy+X9AQ3c2rl3ff4Hsjn5mBDqJF72GQfshqOk7jZD7GkqGIhBVtBMYOQ=",
+  "URL": "https://search.mcpan.org/dist/Mail-Message",
+  "LICENSE": "PerlArtistic",
+  "ARCH": "any",
+  "BUILDDATE": "1592755385",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "perl",
+    "perl-user-identity",
+    "perl-mailtools",
+    "perl-mime-types",
+    "perl-io-stringy",
+    "perl-uri"
+  ]
+}

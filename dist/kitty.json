@@ -1,0 +1,33 @@
+{
+  "FILENAME": "kitty-0.18.1-1-x86_64.pkg.tar.zst",
+  "NAME": "kitty",
+  "BASE": "kitty",
+  "VERSION": "0.18.1-1",
+  "DESC": "A modern, hackable, featureful, OpenGL-based terminal emulator",
+  "CSIZE": "3340560",
+  "ISIZE": "12651878",
+  "MD5SUM": "87089263ab6772a59d83b07e836ce5dd",
+  "SHA256SUM": "f190784b0affb362c5cc9a8e4aff427a1152cca8796371165f417b1480f6b25a",
+  "PGPSIG": "iQIzBAABCAAdFiEEj8FaBklQqZ3RvRTdOeS4d+YuuRUFAl7yYQcACgkQOeS4d+YuuRWHfg/9GAuafzERJvvJP39gNJbz8JS8dVZMLPGfm1DBbzfw/ilaz81/kbdNVePg6B6C/4GCuHp3v/fQM03Zdw88KCwSeco+guM4ukcyt4AujL3Il1bbv3to4hb62hDyfFi6iNAnPZeQGcF9AfYrbaio4WDrRB+u++UuJC00LlwNhG/CH9fzBG73fxb7wnWdAiC35WmbSxUvXorTX744as+4Qu9V/ZU9M9WRRjgpYr9Tb4e3MRkCY3FYQzrJYjhNaYj+/jZ2CPu0nYbf6H4t7cITB3SS9zkG8JdrCVmrNTDYw+jLpxCip43x76X93ijVTAOEHXSVrLKPGbFe3OWqpeq/IqTPhC2k82OVO2RfZGal8DanQvYAkygI3a5Hm6EwKS7uru6mRAV6SIqSzSto+PkIhov5908175Vod48dT5d0gWHiAiw/LvfU6IZ0tB6D7GLsPnCT9Ki224ABSfYlvyNLBlhICielvUdMGbF+1fkbmmMoK0gQMLUWJAR93dqTxYoU0k8rl4zWg1zOuOTBeSPKti9PwpUj0YFEKzRX9O96czkaRknZM3so6dFbJtzuJfmL97/0l53Ipjl2U0TjLFN3VyBkW3tNm51n1/2b1wqaMek4VZq/BaCvVzPq3k+v20bbtS5QXvJ4CvjyqPmE0HRn6/yaDjo+qEWKXYvsS/zCcXFgy30=",
+  "URL": "https://github.com/kovidgoyal/kitty",
+  "LICENSE": "GPL3",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1592942755",
+  "PACKAGER": "Sven-Hendrik Haase <svenstaro@gmail.com>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "python3",
+    "freetype2",
+    "fontconfig",
+    "wayland",
+    "libx11",
+    "libxkbcommon-x11",
+    "libxi",
+    "hicolor-icon-theme",
+    "libgl",
+    "libcanberra",
+    "kitty-terminfo"
+  ]
+}

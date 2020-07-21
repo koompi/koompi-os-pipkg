@@ -1,0 +1,24 @@
+{
+  "FILENAME": "zeroconf-ioslave-20.04.3-1-x86_64.pkg.tar.zst",
+  "NAME": "zeroconf-ioslave",
+  "BASE": "zeroconf-ioslave",
+  "VERSION": "20.04.3-1",
+  "DESC": "Network Monitor for DNS-SD services (Zeroconf)",
+  "CSIZE": "46672",
+  "ISIZE": "150930",
+  "MD5SUM": "6d2f04567752d39c601168c4682387bf",
+  "SHA256SUM": "634ca715ec78ec63a1ca8c7c6a47ce467fbb862cf7aa199ee0beaf66f85676d1",
+  "PGPSIG": "iQEzBAABCAAdFiEEFRnVq6Zb9vwrc8dWek52CV2KUuQFAl8HH5wACgkQek52CV2KUuTOhQf/e4GhsCrg2aNGl6LRpuicGDkXc3GAm3AWC4EyhkMWxV21/xSAj7nh1Nf9yTlNTtTOfpR7XCOD0j7jGs1/PH6vA5dt3IHcaudqQl2qtrKotFC1vRI6y43uQvNT5+TIcu1v8dQHYLEX89aps/C9vWwn8Iu96oeCpUylhsGkiDd0Ocl0zgl1VdCQujBU/fmEh4mw5vQA3rwYF2BreWh8rzGDf22j1go0o9rwL/CC/HqRV4ktUZVOqiSu/rsQgUNJdr/zt1UKS4OpfJZJLK8cwYmk5h7uZhmOdFT6Yr+rV4/Yw6yi4ex1Ctwth3XT6egeXD23hEYLUKdwzJGbunD5Y4xQdg==",
+  "URL": "https://www.kde.org/applications/internet/",
+  "LICENSE": "GPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1594111394",
+  "PACKAGER": "Antonio Rojas <arojas@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "kio",
+    "kdnssd"
+  ]
+}

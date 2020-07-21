@@ -1,0 +1,23 @@
+{
+  "FILENAME": "python-ordered-set-3.1.1-2-any.pkg.tar.zst",
+  "NAME": "python-ordered-set",
+  "BASE": "python-ordered-set",
+  "VERSION": "3.1.1-2",
+  "DESC": "A MutableSet that remembers its order, so that every entry has an index",
+  "CSIZE": "13332",
+  "ISIZE": "55605",
+  "MD5SUM": "e62c4be2aadf0bbcd6e7fcb4ac5d020a",
+  "SHA256SUM": "d0188c248d334afa39992298e81bdb7ceb143fb2f9357fe4a6c27aee80393f66",
+  "PGPSIG": "iQEzBAABCAAdFiEEhs/8qRjPOvRxR1iAUeixSKmZnDQFAl6/vLIACgkQUeixSKmZnDSDEwf/WNZ3Js8ND4aDfiDsUCE2y64dsYPkXwc35qKk6IOvkouOx95DqYuA6MjSUyviX/miMgTM9DSx2krLFnnUZbniNqVFfHJt4ara+HsT6Q85P+34cxy52TtXsu2zfGb2uRG+fVu1F68HkOT6JfjDKhf36NKDd3FPb5JCB9HlWpdRgpZb+4sfq3AwaDJqMUdN8a68PJQC5eih6zfmow5B9cpj+PhZmBmURqzZ8TaejyMJ7UxzZ8lF2+7xaLFsMDWki6+eqr+KZ7NCsN0st1iheng3dShaN+iLt/EbwCIzOBlNsGahkS0SaUYq77o9Yr7r5sKScOUGJ34eiO01wyEgAKJ37g==",
+  "URL": "https://github.com/LuminosoInsight/ordered-set",
+  "LICENSE": "MIT",
+  "ARCH": "any",
+  "BUILDDATE": "1589623942",
+  "PACKAGER": "Evangelos Foutras <evangelos@foutrelis.com>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "python"
+  ]
+}

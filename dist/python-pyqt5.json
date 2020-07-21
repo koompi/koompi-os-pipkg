@@ -1,0 +1,24 @@
+{
+  "FILENAME": "python-pyqt5-5.15.0-3-x86_64.pkg.tar.zst",
+  "NAME": "python-pyqt5",
+  "BASE": "pyqt5",
+  "VERSION": "5.15.0-3",
+  "DESC": "A set of Python bindings for the Qt5 toolkit",
+  "CSIZE": "4463859",
+  "ISIZE": "27997301",
+  "MD5SUM": "75ac9ca59af792702251285fd4f0acf9",
+  "SHA256SUM": "215db99f85a0422a97b172b0dbc916ef304188f76f66e47f92ab934da1b3c596",
+  "PGPSIG": "iQEzBAABCAAdFiEEFRnVq6Zb9vwrc8dWek52CV2KUuQFAl7pwIgACgkQek52CV2KUuTkDwf/emJq8i03vBhU+uqyGUclhnZ6L9iVZdPWFjtP4AxqGH9qo9rujYnQE/N2gAEvoq2t/0O2BJ4n+70I/PSJ/yVMKBc+bbJNcCix57KgVJA86J1GNlayLLHEebZ61Lvspu8Z2J+N3mN0p7CFwzWLubl1fHLLtCjR0yuZfrgDXfow8dnJtoE+DlCnEB6XtAmgZruO0ZVWBS17AAOJYVHjbgvYbHV96IHtlZMvC0wN89kDNNbJRsdmSTrVGJYHrcwi6iLubw9MKgTKbfozLLRv5hN4a9wr/UcdDELuhsV4O1HOtqGflkYOJ0a/UTUu7ww1SlsqHAdDjoetKtpmzHk+vkQUmA==",
+  "URL": "https://riverbankcomputing.com/software/pyqt/intro",
+  "LICENSE": "GPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1592376039",
+  "PACKAGER": "Antonio Rojas <arojas@archlinux.org>",
+  "PROVIDES": [
+    "qt5-python-bindings"
+  ],
+  "DEPENDS": [
+    "python-pyqt5-sip",
+    "qt5-base"
+  ]
+}

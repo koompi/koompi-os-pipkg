@@ -1,0 +1,24 @@
+{
+  "FILENAME": "lib32-libavtp-0.1.0-2-x86_64.pkg.tar.zst",
+  "NAME": "lib32-libavtp",
+  "BASE": "lib32-libavtp",
+  "VERSION": "0.1.0-2",
+  "DESC": "Open source implementation of Audio Video Transport Protocol",
+  "CSIZE": "10679",
+  "ISIZE": "24203",
+  "MD5SUM": "9038a0272d9d0d5ed6d8acbaaa5df611",
+  "SHA256SUM": "d998a4e7e0cbc2914260145bce4ba15a24500344cbd0b5712537b9df326271ac",
+  "PGPSIG": "iHUEABYIAB0WIQTH54SUZv4jWDQ1iDdyWHNLQcMVSQUCXk//ZAAKCRByWHNLQcMVSTJWAP0f1aF9JrJZ+1po9KC3Bfzv1YXKZmfzo2kTQPDPThGgwQD+MLZ1lHnuK8m2LE1OksFkDr99cBg27/0hE4YE1l9ZwAU=",
+  "URL": "https://github.com/Avnu/libavtp",
+  "LICENSE": "BSD",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1582300908",
+  "PACKAGER": "David Runge <dvzrv@archlinux.org>",
+  "PROVIDES": [
+    "libavtp.so=0-32"
+  ],
+  "DEPENDS": [
+    "lib32-glibc",
+    "libavtp"
+  ]
+}

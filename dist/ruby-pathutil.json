@@ -1,0 +1,24 @@
+{
+  "FILENAME": "ruby-pathutil-0.16.1-4-any.pkg.tar.xz",
+  "NAME": "ruby-pathutil",
+  "BASE": "ruby-pathutil",
+  "VERSION": "0.16.1-4",
+  "DESC": "Faster pure Ruby implementation of Pathname with extra bits",
+  "CSIZE": "21348",
+  "ISIZE": "65819",
+  "MD5SUM": "3747f6534248cbffd193f092c6f6dee9",
+  "SHA256SUM": "2144940cced6618d807d4e7116db6ae93a5bc145a3302a08000931717ad80669",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl4EFzIACgkQeGxj8zDXy5JNtg//Skk2MZe0f1wHLsCYfu5A0Zwsi6ZuEtbr/iHka82fCq4Amf8hn3LU1NGnB0l52MNAmH4ijuLnYXkqBQpSadNVT+L7tyUm7dVc6f+JM5X7fGiSZroIJ5Grpp8Km5dmHiYznDs101rl6gwGu5TzCK/Q54pnoFpwSkHmKcdpBzIX/A7Xo4m5xwfnhfSdLxmke8PUpZTzPyiejzUdyUR+9PpTP98u08rKM+AdYMjJoMY03T0cr6me1bgpBUej4TqIYSdkn69lzpLNFYZjj1CIMAIWFwdwLRW61UeGzwg0hMo+u+f7XF1P9k6Br4AIxHwNvQGN9ps7DHRy3VJUhlD4wtZiMqqQ2bLCKLUKe7Y7mjNxgky1e1H2rI5/PryAHdxjpQtqphCJmiN3dZTpqNiSzcLk+7m1knX/FctOsNfWwpPAOge9HJf+DhU5IPnr2E4Odp8fQzjKrrSZsHxQmReAH7RBpsHUIx0gYnSOe0g/pAfPjUn447cHYzmnHMshGyTpIt/gIzkWEh/1ZmFP3XS6e6YvMPM3VAupTalET8mM3ZH7QH27zH1zxUtgr2x4kIk1paJjZRLXoX4bWYSdZejwok9buxuMvxWvl/W04zW8EJmAUhZTVfNUNavXb+B5cyeLwm8pIG170l6olBVS6zR+9vjNMGfHMxTbKWAZFUAK735qqYU=",
+  "URL": "https://github.com/envygeeks/pathutil",
+  "LICENSE": "MIT",
+  "ARCH": "any",
+  "BUILDDATE": "1577326357",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "ruby",
+    "ruby-forwardable-extended"
+  ]
+}

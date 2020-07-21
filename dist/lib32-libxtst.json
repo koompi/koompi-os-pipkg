@@ -1,0 +1,26 @@
+{
+  "FILENAME": "lib32-libxtst-1.2.3-2-x86_64.pkg.tar.xz",
+  "NAME": "lib32-libxtst",
+  "BASE": "lib32-libxtst",
+  "VERSION": "1.2.3-2",
+  "DESC": "X11 Testing -- Resource extension library (32-bit)",
+  "CSIZE": "11528",
+  "ISIZE": "27648",
+  "MD5SUM": "1b3cb577cd397cc2f64de39dfcf4aa87",
+  "SHA256SUM": "ecdb3e7266442723907acd9870291ad582181ed4c28709c233f7a211d1650759",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAlvl+VoACgkQeGxj8zDXy5LU5hAAlvnesg3KcYbS5HkrBMr78iEDEEq4+mW8vZ27dSB2R4UM2ubhCYee6gImAZkmF4LKcMlnrMmYgxgM1OIF3tAW6DdRCYYiRlkK2Ndm2sLUii1klk8et4O9BzSwpz7YZp3ueGVQnQnO3RHQZm52iQkYZIRnVI284ChF50jVLPtUctjYWtnY9GcxIaJs76rMjt4Z8PFJSnCX5TELISFkeFSdivbIT0h9J8je2nLXJ/PdCrUr1Si7d9ULv8jxOpBIXLeGXcglzDnZ+e6h2Mq6XC/bc4fqgSRK0yAwA8e4iWyL62LljE+Nvg6JJDy+Y8puRIhLiJu99NQAFbHc2DpMe0n3Smr7HsVzRdOzuf7u6GuFp6TXn7qYRS5evSvEpTS1fHS/GmNuBl6Hrau2/Oj3CWbXfyQ1HRaKdsZRKXRVPds+9onUFiuPJ0jAjaUf3GhQg+8NqQJ/USMYGnpSEZx/zQFobdOC/eV9FfYZMPXRnB671o7em2KUwdkvhyJH/mVvFT7bx0TixQou7oAT8/MyRr3V5dB0h9dRsfvEWn+DD1pJFk84B4kzTPgSrD+fULgTTyfbDxh0K/9Qq4w2rvTvUBvA11Ui58Uj12tAbC+8iRu2HAqespC504NBfIUmiEMbPDwTUPAc4syyzt5ykJNTt0X2XSqanpbBkXfttWXXtyPprFA=",
+  "URL": "http://xorg.freedesktop.org/",
+  "LICENSE": "custom",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1541798203",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "lib32-libxext",
+    "lib32-libxi",
+    "lib32-libxfixes",
+    "libxtst"
+  ]
+}

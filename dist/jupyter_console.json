@@ -1,0 +1,27 @@
+{
+  "FILENAME": "jupyter_console-6.1.0-1-any.pkg.tar.zst",
+  "NAME": "jupyter_console",
+  "BASE": "jupyter_console",
+  "VERSION": "6.1.0-1",
+  "DESC": "An IPython-like terminal frontend for Jupyter kernels in any language.",
+  "CSIZE": "35611",
+  "ISIZE": "100748",
+  "MD5SUM": "60c004800cbfd6afbcc2bf46aa264909",
+  "SHA256SUM": "3e70fad02b96bc38f6f079cdbe6ccc099e4e04a73f50f4c84649137dd6e03034",
+  "PGPSIG": "iQEzBAABCAAdFiEESMOx8w3dD+Z+UW0WOW4+JbqxQsEFAl4vlp0ACgkQOW4+JbqxQsFb6wgAso5XEXgoz5GbuEdrWUSMmj8UPlvXVGiPByrOXuESkQDMGlHtTMqNsCD6TU+C7mCK+nZ5WZFyLH4AtzRfDG5BBUz9aZQT3xF7+CmFupFv02OF2hzNZiyZqaIEr/TfEVASReKIG8wnOrYFls8vC8u5NgJkC7T79geO0M9moefAHd4N2c2Mp/Rmqkuy8uIzJ3pSi98R02a7Hbs5B9L68KAip0TjGunnsUA+PmBa4ZA9lKwQbC5wJcSTPs3V3XkEswg6bybNXdeO1DOi+cf0yFrdV3/J5vbXpxhzIOwjvMSmxv/gHPN1mToVNvVjNWiGAX++9e5hUQ3z+t6vWridBgFgGQ==",
+  "URL": "https://pypi.org/project/jupyter_console/",
+  "LICENSE": "BSD",
+  "ARCH": "any",
+  "BUILDDATE": "1580179718",
+  "PACKAGER": "Kyle Keen <keenerd@gmail.com>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "ipython",
+    "python-jupyter_client",
+    "python-ipykernel",
+    "python-pygments",
+    "python-prompt_toolkit"
+  ]
+}

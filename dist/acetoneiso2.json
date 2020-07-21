@@ -1,0 +1,31 @@
+{
+  "FILENAME": "acetoneiso2-2.3-11-x86_64.pkg.tar.zst",
+  "NAME": "acetoneiso2",
+  "BASE": "acetoneiso2",
+  "VERSION": "2.3-11",
+  "DESC": "An all in one ISO tool (bin mdf nrg img daa dmg cdi b5i bwi pdi iso)",
+  "CSIZE": "992016",
+  "ISIZE": "1568406",
+  "MD5SUM": "6986d3bc256fa2203a6a3ec53364f20e",
+  "SHA256SUM": "ecd0bf542928e12f73dc7d1bfefc136f3e57b954186f198b9da7aa6baf123370",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl8EuikACgkQeGxj8zDXy5LXMg//cJ8t7wiHefNuD9+m/HIuBrfidXZEiuMDo9A+DpQ75e56DSqKyjKHy7e0hvvRgZTBT30S89MkoK6ga0sqdlNfOe5fjPtluW5fJ9nwwg47xMgJ6WQaKujiCN4Ys4W0CwrALoRjnFM0TrmFmfb9hZm4sQsw9KFK6L2TP39bzzQSFloNLQPNSKk79dHA2MRYvuX5tGp3RUspRjAxPGZ2osE/ZgYrQbfrYaEVD8f2xKSeZ/gj/ntyRg/RTdirrmSuKSweSkc7YnmrEngGmuh0YlhWgCwomJe6TtKfx0g7eFmlPZtHJUJuWAKsJGuT0Pf8o3Xm8gTPdhlE21QODCXlZD2Ke8du/TP+gTVDvMrAEmeO7qFSNsHJ04B5JmgWoS+T3aOOr/dZX1n+fSRi4CjSnbabacLCy6Xj+15/YJcbJmGz1HlR4Q/1pnVHcd3cik1eUHLA3xwqBt60/wrmQSXBDkPh61Jb+y2QW6tXtcWEBKf81d8r8VhN0SluSr56adng69nUro5niuGexV4Z33L+RH3/qjMmdSl85hl3P81l4zAK6/sG9S4aVOElYr4gN+XkA73mno4/PAKpRllMayc3Y0Tk6BQfoSXpEgVbwPJ+IlHjwhFUlTbdDRFTg7sNEjBG+IiHdxbVA9bNYZUXsX77A17SFsm7fpglFLUo8cov2/rlvHM=",
+  "URL": "https://sourceforge.net/projects/acetoneiso",
+  "LICENSE": "GPL3",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1594145224",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "fuseiso",
+    "cdrdao",
+    "cdrtools",
+    "dvd+rw-tools",
+    "gnupg",
+    "pinentry",
+    "mplayer",
+    "phonon-qt5",
+    "qt5-webkit"
+  ]
+}

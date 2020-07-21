@@ -1,0 +1,24 @@
+{
+  "FILENAME": "python-selenium-3.141.0-2-x86_64.pkg.tar.xz",
+  "NAME": "python-selenium",
+  "BASE": "python-selenium",
+  "VERSION": "3.141.0-2",
+  "DESC": "Python binding for Selenium Remote Control",
+  "CSIZE": "823472",
+  "ISIZE": "1895391",
+  "MD5SUM": "ae11a51f7deab70c73eaa80b42d8820f",
+  "SHA256SUM": "6b5cca1e6d8fc72bcbdfc30794e9e1fcb6034ad96cc201b00fd6ca7a55790666",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl2/uQcACgkQeGxj8zDXy5Lyow/8DvZURaSxVjZdP6NCO4d4xWJc92b3n1ESEZAL0FUEBYPz4w1nwzGlcUZELBEc0Ztr11p6pR+J7dgaAjtpQ549GGEXPdxwjTT6Ti1nGRh/0VjIouIoJ8xFjJAinMHBE30MDZhC4uzE7JNyxFCu2J7rA2ziKci9w2DsMYkgzw4pyWnEIYVe5C04o34d+aVJDAkheVztB6lGXFCsXEoYlPXsDqRN22u1+E7MwqOXeGGFazWikZ9ChVq6CnBrnE2/NGpLBP/VVjHsUrwzdTg9+93pp58cNxYgwMvfIUvUdMV0FxbISCAc7rCGFz9+OZTmclB3pCaTtspmst+6o+Hh5hoqDUpVG+TcZaILGfyMyhgCfyEv2qptmJxPR6U6Badx/jVwySsAFlxXiTuqHcR2TsvLS9ZU1TrlRwjmTo4j7Qm7avCQf0ly+mIAxLIt8Nfpf+WWrZDXSOJOM4nvkZg4vyz1h6Jol8ixenXmy5tv4+ZgODtNzgPgXPJBXyZQFxdZ113wiSBqRCNNuwj6xm41ulrXzF7/Xg0jkE+eG19o1TMSyYN4dD2xXPPYLn5HbJhXsHQpxC7ajJk+bB5MlaYXaHXg6MUpvdRmcl3+4o3WsXYL5pDr7mOmGIPIJtUAva1MlOp14nt2xr5O/ZIsagHv++kFtSQmS5OdLqVU/oyfL/cYZPM=",
+  "URL": "https://pypi.python.org/pypi/selenium",
+  "LICENSE": "Apache",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1572845798",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "python",
+    "python-urllib3"
+  ]
+}

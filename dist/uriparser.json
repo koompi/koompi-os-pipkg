@@ -1,0 +1,23 @@
+{
+  "FILENAME": "uriparser-0.9.4-1-x86_64.pkg.tar.zst",
+  "NAME": "uriparser",
+  "BASE": "uriparser",
+  "VERSION": "0.9.4-1",
+  "DESC": "uriparser is a strictly RFC 3986 compliant URI parsing library. uriparser is cross-platform, fast, supports Unicode",
+  "CSIZE": "58600",
+  "ISIZE": "221327",
+  "MD5SUM": "1b2154d363a05b20c9df5eb165f94b1c",
+  "SHA256SUM": "03d76d41c311b569fd70cf7414b9659c43f985747d0d1a22206f2e7a82d017c0",
+  "PGPSIG": "iHUEABYIAB0WIQQEKYl95fO9rFN6MGltQr3RFuAGjwUCXtVsVQAKCRBtQr3RFuAGj22JAQCsKXgCwBw+2igjVJg1Vllzv5wI80TVl4e+4ghyi7CK1wD/YjQRlNn2j1zjgakEltJlzVT25BTrC6chz3IK+wp/MQM=",
+  "URL": "https://github.com/uriparser/uriparser",
+  "LICENSE": "custom",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1591045044",
+  "PACKAGER": "Christian Hesse <arch@eworm.de>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    ""
+  ]
+}

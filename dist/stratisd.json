@@ -1,0 +1,25 @@
+{
+  "FILENAME": "stratisd-2.1.0-2-x86_64.pkg.tar.zst",
+  "NAME": "stratisd",
+  "BASE": "stratisd",
+  "VERSION": "2.1.0-2",
+  "DESC": "Easy to use local storage management for Linux.",
+  "CSIZE": "1287455",
+  "ISIZE": "4466296",
+  "MD5SUM": "815c0c3e2b6fe8c3c6fa3a5e08966f78",
+  "SHA256SUM": "526e8af757a1431e7ee0b6a7767d40fbae8af27d86523bc3635e5c3eaf8b968c",
+  "PGPSIG": "iQFIBAABCAAyFiEESx3lRagB1FSb/T/vkMs9YsE9R5YFAl7dndQUHGZhcnNlZXJmY0BnbWFpbC5jb20ACgkQkMs9YsE9R5bZBggAoQz7nbR/VZIPQJ8mxESYbERb05q/DqiWdrLga1ob4gypOMY6+BIvwiQvg7QyYZOWZ5iznU8lMvwbtKpU8QdnTTL3kWmBfyIXft2kWitxECNUpvW+C0+3hyenWhgcQkoHx50Ea+AD7CjGxtZ/er6KoiFikJrVe6U7STgd0yt+7j9klz0tmx7KcSawtlRrIPPp7eIFO2Nra/BKkjz7HgV34n8wdUa3RRQ9Nmt9fXbib+PbvSkmnLwkVwBWVu1pGr09qQy7QLyzG5Pxg4up4CmxmRXo1NNQuT6kmb2/c8qdBYDOc/8t7iq+g1b+RH9SyG74intsafAiXjYvdmy44kHclQ==",
+  "URL": "https://stratis-storage.github.io/",
+  "LICENSE": "MPL2",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1591581790",
+  "PACKAGER": "Jiachen YANG <farseerfc@gmail.com>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "dbus",
+    "cryptsetup",
+    "libutil-linux"
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "FILENAME": "lib32-libcanberra-pulse-0.30+2+gc0620e4-3-x86_64.pkg.tar.zst",
+  "NAME": "lib32-libcanberra-pulse",
+  "BASE": "lib32-libcanberra",
+  "VERSION": "0.30+2+gc0620e4-3",
+  "DESC": "PulseAudio plugin for libcanberra (32-bit)",
+  "CSIZE": "15818",
+  "ISIZE": "35035",
+  "MD5SUM": "b531463496fde8903be33b0c6a0846b0",
+  "SHA256SUM": "6eb6e72e68e07e2261817bb54780c740cd53cdb94a8d300a18263905ea8446c5",
+  "PGPSIG": "iQEzBAABCAAdFiEEghj4iEmqxSLpTPRwpekojE+kFfoFAl60SrkACgkQpekojE+kFfrZLAf+KD08JLXqjNTv25Z7GoFOvsZViFnhOjxNv5r8u/qiexZSvfYGNAuenpYrp8t0aGGwoShkFnoXh17Gz57r/edm9ihRziDTM7b9MN7uk7jc6vJE0jC6BDzkEJnfaYS/lRYXp3GzPGDXP7fXcUoHfpCNm78cyOZ6wadsDr9feO93eT0UJtDLV5UE4gpXSlWZKWseYvHjO+qR6wnCeysYYPKIRnv9d+z5JirXqFbuW1s1YLUwZ/afNMaVEj3CaEg5WSjWYHJHI5wTGHorYI/JHC1uMr4Ios1TEQPBv92hnvnRzIvg7zD+3p1qfDyIBCQhR+yFFIomJtR4FmWl/ZqpSA3iRg==",
+  "URL": "http://0pointer.de/lennart/projects/libcanberra",
+  "LICENSE": "LGPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1588872677",
+  "PACKAGER": "Jan Alexander Steffens (heftig) <jan.steffens@gmail.com>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "lib32-libcanberra=0.30+2+gc0620e4-3",
+    "lib32-libpulse"
+  ]
+}

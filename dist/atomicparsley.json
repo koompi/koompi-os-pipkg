@@ -1,0 +1,24 @@
+{
+  "FILENAME": "atomicparsley-0.9.6-1-x86_64.pkg.tar.xz",
+  "NAME": "atomicparsley",
+  "BASE": "atomicparsley",
+  "VERSION": "0.9.6-1",
+  "DESC": "A command line program for reading, parsing and setting iTunes-style metadata in MPEG4 files",
+  "CSIZE": "111524",
+  "ISIZE": "358400",
+  "MD5SUM": "f1303cbc2ed365c1c5a74c8ca1c93ecd",
+  "SHA256SUM": "2164f338079d96dc7353e372e5c3c983a01dee4b3a2bf9a8fe8ba7e6f4accac2",
+  "PGPSIG": "iQTHBAABCgCxFiEE5VD//9SF4mShcX4wkBwcMg6w1F0FAluf3G9fFIAAAAAALgAoaXNzdWVyLWZwckBub3RhdGlvbnMub3BlbnBncC5maWZ0aGhvcnNlbWFuLm5ldEU1NTBGRkZGRDQ4NUUyNjRBMTcxN0UzMDkwMUMxQzMyMEVCMEQ0NUQzFIAAAAAAFQAVcGthLWFkZHJlc3NAZ251cGcub3Jnam9oYW5uZXNAa3lyaWFzaXMuY29tAAoJEJAcHDIOsNRdRq0gAIaKwkSmZRn0Ievt4kdbbAIXiKlbmB8Vu9bxxjkq+NgNADVZNrW9maBhnRLAsZuQ677JO/PUUKs3M89WhYe/vgia4lVBYedj2UCURiJbKqQA2d2sd0XKqBSMXA1vacTckn4oMJHNm/WfKnrSZtBBDTFGkc9SAHl6523wXJB+0BAbb9u5fLlIsBfOt6DnCpJNq+J/ZwyRIvNCtl9yjAgibT+r+XqOcx83A6hR69prgKv/hnzST0rnmPqXwnuFfHXVD4ihTowf3g4EoPV6CAK40XDMyYG4Y0qxZ8noDRm5OcZRoNnEhzcIWMaCfAgZ+dyulthtwlR2VbLVaE1EjJeMYbdVFhsnUYxs0PNcPaw0LDUn4qTSQba0t/h+avBV+CeDNkhsm6yDnDUIMHYOjR1+HX5LW0YDM/o4WMpMh2IGKpfuj+/V14ukBcHdDm5eLWGqKdxEFV4eGXdmcEm4+AZfMCKuL21t9LbKykX2SM52ZUXo4jigB7NLKTnNXgQR+YQbrUVKQJ25SiOVsZ7WGuecrmQrFhlKjYIbeMXfv6W+5sDPg4R9hQOBdHGbuJFa6p/4t/du1CE/b/5rGllChAdhT5/qcLul3ovVJtEX6Sv75SJNpyZbo5aMnzP1QOLnGZ3Q8KdLSah3YE2YDc6zo6ZkJZg2Pkdf+35oYKiReIRjgZIcMxaXG+MpsKq6F/1ji0EXCw+YMGfvFCPHnIbsHV3rkDqEmfWuFBKodD610+tlt8dqOeDS/kM61eGahI6jUiMWjHtVVsDwwa/ljeQ9btnKHSYOWTAr83ftadmwq6NAOtzol3lXpYInCtkycIxEuNttS0FST+h4ZUsVaBD+65zN2VpMXUnB+0uetHu4OlJiasYGGtzPvORau00eFJgb0rFylPd8bY+NTX1NvXtsk6JfPHK8Ae9doDANr5U+rx+0lW1rb2t399VBqYt5c7mB5pkZ+5Ayypv6qVVn9O0IJsXuNWsYnjAnx0br0HKj4JOCxV7JFEmF6uwFsuaH6xMVeI2Gckvs3leY0/ywvzWkXFrFGYPERc07pcNtwaGHZeODNsHtOL7k2G15K2UgXgNBmN5y6BcYS/XSkulxbU1XpLeC66ZuOaL9gRTNX+iDlxhd/gVHo6aN1O75/7RzcMYa8CY33ATGp8wPEHuuLGGgcdCZD6NbPJtriEF/X+9V26f/xDa/yfqnRV/IcRCUV/aZYyLdC8nfa0e/kGJCdB49Cq4fkfmvgCFy7Oxisf9tUlol+P3uu0WYi4ZC8qn6yLIKB8bJv1iUGh4fE0vEiMHd6JZm/zta2ps+mz0KbI8MJtI0ru1V5lR57Z+3E+dwPX2UQCvFHyuNLgN4Pfwo/1j/2ETNaAc=",
+  "URL": "http://atomicparsley.sourceforge.net/",
+  "LICENSE": "GPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1537203268",
+  "PACKAGER": "Johannes Löthberg <johannes@kyriasis.com>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "gcc-libs",
+    "zlib"
+  ]
+}

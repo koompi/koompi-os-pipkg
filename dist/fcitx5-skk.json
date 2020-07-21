@@ -1,0 +1,25 @@
+{
+  "FILENAME": "fcitx5-skk-0.0.0.20200523-2-x86_64.pkg.tar.zst",
+  "NAME": "fcitx5-skk",
+  "BASE": "fcitx5-skk",
+  "VERSION": "0.0.0.20200523-2",
+  "DESC": "libskk wrapper for Fcitx5",
+  "CSIZE": "77191",
+  "ISIZE": "235736",
+  "MD5SUM": "76056d4689552f3eba0f6a78d7c30d09",
+  "SHA256SUM": "5ca08493a79bf53a013c81788876acc246d2a74bb5205929f2a303596b536d2f",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl7YmwMACgkQeGxj8zDXy5I87g/+K35mPLWcgcauWseTvnFUulQ6PDlzW49HfD+ipB4/bQTn4wdKDA5a5X2ecU0D7AUX+oChdhMrRHFgj7P5wxTBBpQuHe1QvpNj15jQStbUP0XPcakiLj1prboE6XVYnYJlztcZJkqw/aOrnA9gUOtteJvAviU00GCljwQLHWGocIPpF8zowbIL37qmt7LuDkty7FIVb5nvhIBIEMGaAIYDwPDbc24lX2G0OUnIbwwFOxZMRg2HrQqvZEHxBUzUH3RKJVo7wbR1FQ0yeaaDFHVgN3/lESGeVDko8Rz0RaA/wyxraYA/M16/zVQzjs6TS9JPFFKcL0YYi9bvJTTPMd7nNx6E/EIO5QSUu5HIaD3kI+BO4acHsGXdTgnM09cNTai6TVM4UShD6QnPX/+39M6R/MelPMEL0QtjRmyC7ZpXLKmToC5/l3DwTbuF01FEOODcWfV3b23G3sob7c0gAGzkhDukily7f93SsEvI0n8/z+UAAOyJ8CGedcYwu8D5OFMF6q+drgHVDwLP02msYb8tz2vf2rDz1fA55HTEQh68NT9+q7io7eg0h8Pa7DwgMxs4jeGrbbkYTBO/4W2o2snMJya56cxmDvqeFP/U9D70mjTIrjvTmfD9i7LoTtE25H9I4lAxGjiRxJWd/UOGQIsC5f3zS0t77P9Wr3W4NUQ+MVw=",
+  "URL": "https://github.com/fcitx/fcitx5-skk",
+  "LICENSE": "GPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1591253611",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "fcitx5-qt",
+    "libskk",
+    "skk-jisyo"
+  ]
+}

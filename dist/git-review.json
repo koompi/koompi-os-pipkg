@@ -1,0 +1,24 @@
+{
+  "FILENAME": "git-review-1.28.0-3-any.pkg.tar.zst",
+  "NAME": "git-review",
+  "BASE": "git-review",
+  "VERSION": "1.28.0-3",
+  "DESC": "Tool to submit code to Gerrit",
+  "CSIZE": "73281",
+  "ISIZE": "315931",
+  "MD5SUM": "efbfbb6386d80aed4a2b130a8945a599",
+  "SHA256SUM": "27dee4c39549bd60a2e4851dacd0fd66289c6a55957274dd053718f6cf2044d6",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl6/wdcACgkQeGxj8zDXy5JasQ/+J8FyR1DrWQAGEbt9ob1zW3nCV/NDRa21RDwhZwDXRpdofsCcjhpC3XchRqTQXArB/yBbNwLuk9bVJAyNKrQIu0IMea86pkyyFTXuzufvsXBdVITW2qxVzeyJ/aRKyfJ5xkIst7IQugE7J6nYUc3hXZr1KtM0wTqXdLYbTFxq2TR80eEJHuC9KZIi2zRu0V2KckJt6M5/Tf5kaEz50Leq2X4hmnU1+GNIPw7V1Cxnv+xAUYjFOlXf4UUvTMAcr8yonycwoDu3rmNkc9AdNCl//LJXIyZYhEXb5hShjIIsjW+61J8W4mSpifG8fFIVVgNeNQpQuaepsN3/Bgpn0frDfxP3YtH0wXX4iV4yNNU2O4NhAh21ljOmfOEXt6Xg3AZOsql9me9pw3pIz2dedNlKq2gwKSUG+MPTHn/Ab3/AEuovrskihgHtyZmQI1Tvl/H59OHSuW7Enr2TVsC/DTC1gzg+5wrj/vXXsjue8Qdv0/d23y4XA1Lw/8lCtz0Uu/Edx4SS/U4vpLfbx9YHsunPHqpn0dPJDPdDUztCdfkqXkO2CTelcUvj1yTImasaWUt/VWoT/DAES9DC3dyt7EVrbX1yvuOrs+H5U7Tg14QSJDSKWJIgfT1g156ZInefKj5Gm7dhJX3R86NdAX6cqGG9566iBvaXNflmAruyl0tu/qQ=",
+  "URL": "https://github.com/openstack-infra/git-review",
+  "LICENSE": "APACHE",
+  "ARCH": "any",
+  "BUILDDATE": "1589624978",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "git",
+    "python-requests"
+  ]
+}

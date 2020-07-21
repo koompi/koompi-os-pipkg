@@ -1,0 +1,23 @@
+{
+  "FILENAME": "nnn-3.2-1-x86_64.pkg.tar.zst",
+  "NAME": "nnn",
+  "BASE": "nnn",
+  "VERSION": "3.2-1",
+  "DESC": "The fastest terminal file manager ever written.",
+  "CSIZE": "55717",
+  "ISIZE": "108196",
+  "MD5SUM": "0454591f20f1c387bae2eb8ea2b18b53",
+  "SHA256SUM": "72662b7a91e5e25adfcbf6c5bcec0425eeac8b4cb19f8dc548f3f9a3a8e778c4",
+  "PGPSIG": "iQIzBAABCgAdFiEEgFPriIeaaMtIc9MrAR/cUtqDkzUFAl7M/JYACgkQAR/cUtqDkzVQ0w//bleAUaEg2WP/+Z8eK5R5eDP/BEf87mdgDeuqFhv/xcvkA3s1x1niEezW3Q1b7pu45538R8TtaIaRWWl51E+1I6evIElp+NXE9rbmzx0e2b509nXGn3mLFX5XXQZ+tWEF1FbcP1XCjUFhOiG2KMKhlHovK1iaJwJ0SZUkGTUJhrTQ9bFm/DBUPXuU6/tnLW975Pfk0DYBG7WWYlDwd5r02Q1nVfcxbuvsTPk2A9wiqgPTMcepvDtlD6lqxgHWwvXeHpffxqAS0gkAK7cKQH9JWymbCuAMXwr+sEz6LRr/UyoCMsw9LhDilqEdBwGKjCn3cVxALRS21+zbcPV73i1TAErQ+w/GET0i3mXvbBRM4QVj4Daa5aC3gVdPs+9gBr6xL5D8XephjZi8CM5ARZfxy2V9aC+k1Zsw8mUuy39HuiRPGDHs0wUGOnSsSu2KFgU2Mj/1Q6xOl+ZUqoK40LvpLuHM668q1++4OLuuTUXY2ROEYu9yK/zJzRAZaJvpy3dEDiSjathumPlahQzfr1QhHH2fTlgvlX2e05ceiirOSq0jO/I8MXAOMUdmI0T/SFhHg21kyO2D9IXXIpewz7Ylm1iUa5nWX5va9bcDyWMA3Srbm1yk0rlG7iGMa5hd/tgUGWLdaL0gk8xNXAqcPv4ZvzSVBi0vA/K526FrvE/YBsY=",
+  "URL": "https://github.com/jarun/nnn",
+  "LICENSE": "BSD",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1590492235",
+  "PACKAGER": "Maxim Baz <pgp@maximbaz.com>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "bash"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "FILENAME": "xorg-xmessage-1.0.5-2-x86_64.pkg.tar.zst",
+  "NAME": "xorg-xmessage",
+  "BASE": "xorg-xmessage",
+  "VERSION": "1.0.5-2",
+  "DESC": "Display a message or query in a window",
+  "CSIZE": "13916",
+  "ISIZE": "33311",
+  "MD5SUM": "472371022f6d82903dd6b104db519e7b",
+  "SHA256SUM": "b27ec636b20c7d34169fcd4e307ce8238c0de71c7a2bde453a7b739398fff016",
+  "PGPSIG": "iQFIBAABCAAyFiEEZkWwqMcAXnjbHXhk+Z/+D+rpmb0FAl6zeG0UHGFsbGFuQGFyY2hsaW51eC5vcmcACgkQ+Z/+D+rpmb3npwf/f5SLo+kMo8LMOvlopI2CCDCKStgcECJFo0BOWRVDuCTfVttlL1LGmYt/jc8kMTT8pkJDzD+02hhuCloo8Se2CjMRCegDA/orF2kGNzGYxeFhpfXJ9WWSL1ZrzxVMYKiOTCJfgk4HTCbVwHILzMLEVq4A9HzqtCe6EpDh68g0H3cdd5mfmqQoYS0/4yeDKhSE2KwidHqyRTO7XcCcs1kH1KY6WQsswyvrRJ4JkcWgSemtAi3ZzRVxub4YDsKH1qdF6KNqeJ6m6yk639nnjyfIBr4o4xSeWyeGm/BS69Symf0dejMbF8q0o9EfeNbXz+69P9uHRu80mRQi8N1Ws1E8dw==",
+  "URL": "https://xorg.freedesktop.org/",
+  "LICENSE": "custom",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1588820048",
+  "PACKAGER": "Allan McRae <allan@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "libxaw"
+  ]
+}

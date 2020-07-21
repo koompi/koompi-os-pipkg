@@ -1,0 +1,28 @@
+{
+  "FILENAME": "zam-plugins-3.12-1-x86_64.pkg.tar.xz",
+  "NAME": "zam-plugins",
+  "BASE": "zam-plugins",
+  "VERSION": "3.12-1",
+  "DESC": "Collection of LADSPA/LV2/VST/JACK audio plugins for high-quality processing",
+  "CSIZE": "22197956",
+  "ISIZE": "98608672",
+  "MD5SUM": "f5e5f5ed6d7d8be9bfc9a30ac27ea86e",
+  "SHA256SUM": "65255291101d9f8b51153bf53ac490e74c601a581b4f9b3478b88b66e4e50a09",
+  "PGPSIG": "iHUEABYIAB0WIQTH54SUZv4jWDQ1iDdyWHNLQcMVSQUCXfY2kQAKCRByWHNLQcMVSWJKAQC9j9zvyuU/K/PtdOXfNNNYuTw0c35mCnPD1SblI7wLLwD+KNWrJTgQ+TrMHm/d/5GRoApS0HP8THLhtonCm9ChDQk=",
+  "URL": "https://github.com/zamaudio/zam-plugins",
+  "LICENSE": "GPL2",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1576416023",
+  "PACKAGER": "David Runge <dvzrv@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "gcc-libs",
+    "glibc",
+    "libglvnd",
+    "libsamplerate",
+    "libx11",
+    "libzita-convolver.so=4-64"
+  ]
+}

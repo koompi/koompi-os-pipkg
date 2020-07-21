@@ -1,0 +1,23 @@
+{
+  "FILENAME": "firefox-developer-edition-i18n-ach-79.0b6-1-any.pkg.tar.zst",
+  "NAME": "firefox-developer-edition-i18n-ach",
+  "BASE": "firefox-developer-edition-i18n",
+  "VERSION": "79.0b6-1",
+  "DESC": "Acholi language pack for Firefox Developer Edition",
+  "CSIZE": "437854",
+  "ISIZE": "501462",
+  "MD5SUM": "2dcd4d8c91a8b5b2ed9cd323eec72aff",
+  "SHA256SUM": "f6cc8444cdac2079435813494ccefa764c6406441209b0af60731717fa615df4",
+  "PGPSIG": "iQEzBAABCAAdFiEEYB8g8dG7v0p4z1tt9rFhCz7NvJ8FAl8IbMgACgkQ9rFhCz7NvJ/Bjwf+JflRbWNyTVN5SvyrZva7IWyC0eNZjodHDCg+aB2q5NsYy+3O0jDE+aTMGDBnm4YoIitDwjwF4bxsCdQiXaG+v3RwgEA7y3r3AY4eDF1dDlNyQZOY6wKmn4FdNTsEYoEARpmzesucr9zDioYQzA4O8NUx6xV9c3B5m88i/LIdj5hC4dAVzkqr7Cr7GgmJYDAkEe7WEyA7m0Z33xGZ9en2JCFQi/KmMc8zRih+WJYHyYi3gXuzgU/t5rw6jmFjBL1eG42cQ99+jVrq0c9CITRw1Ok5dum5xEhcTp/f66yv+r3GGQrMAV7L1TysNQkGWn0EDrK0Jeq91zndjI/Uxejfag==",
+  "URL": "https://www.mozilla.com/",
+  "LICENSE": "MPL",
+  "ARCH": "any",
+  "BUILDDATE": "1594387381",
+  "PACKAGER": "Andrew Crerar <andrew@crerar.io>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "firefox-developer-edition>=79.0b6"
+  ]
+}

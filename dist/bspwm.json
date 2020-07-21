@@ -1,0 +1,25 @@
+{
+  "FILENAME": "bspwm-0.9.9-2-x86_64.pkg.tar.zst",
+  "NAME": "bspwm",
+  "BASE": "bspwm",
+  "VERSION": "0.9.9-2",
+  "DESC": "Tiling window manager based on binary space partitioning",
+  "CSIZE": "112000",
+  "ISIZE": "271604",
+  "MD5SUM": "6dfd39b14fb5b2febc6f9a143890e768",
+  "SHA256SUM": "9fc0ee501670a6c1167b63b33e859e0998d6d7c1b1085db7eddc2cef808540a5",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl8E6AUACgkQeGxj8zDXy5JRUg/9HiezeYDzNv2KjiEGANA4GQa1eviNkp9tR4cb6v/9nx17pB0DIN6FIdGph7mTkDw3bvA6UR+k7Yb3g8VrJEsc02GZcrWYUVU+JFAny2AzDfqgdouVgu8MMHDYH9cfnxEULMehZ9/N0T9uTVLDrspY3TIa2VSpjeoKO737hqesTN9u9Hxyba4rA3bNIHRKKYKEA8gBTPpNEQ7bNyOwXSgb4/PvoT0sHJs1/mbjtxmZnUxmx4xaasX3wXJiNKiaeau78JBa8/qI45Dh/3wf4eL0ZCfj4IqlUdT+jpu/wuuZCBsLw+CwA88c6Be7a6W/ns6eQtfo/jEa9ad64eq7kOVZD5+7/a1pRNBBgUglSb63iD2wwDGkUeN5xvr9g+TmjACdyzDX1I1K+r1U17p5UYNqRdFK6XTuWwdcECPtOJeL8bmLnhAC4YHiNzeqZfsa0GhOGlvxZRG6kUU1DuTMQ0RswaDZVP//MqEQ29LeArsu00xfvDNMXMHjtUKEg//0bQ+FsuERomH+KM+c6/QYImZEV4b10VVsjW7C/laO6mDgP6MwJ+SLpAH0ka1v8TtdbFJs7LDqx5OMGfNmN0iwiLyowAHBv19u3fI669uJ111PWpmDZ0hOUVifHta5c1M6KnUDdWtxKFpJT1sp3ux0X6l1hR1lYNzqm/+hkkLxbMWT/w0=",
+  "URL": "https://github.com/baskerville/bspwm",
+  "LICENSE": "BSD",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1594157040",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "xcb-util",
+    "xcb-util-wm",
+    "xcb-util-keysyms"
+  ]
+}

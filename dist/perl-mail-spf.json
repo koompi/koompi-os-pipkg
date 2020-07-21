@@ -1,0 +1,27 @@
+{
+  "FILENAME": "perl-mail-spf-2.9.0-7-any.pkg.tar.zst",
+  "NAME": "perl-mail-spf",
+  "BASE": "perl-mail-spf",
+  "VERSION": "2.9.0-7",
+  "DESC": "Perl module that provides SPF support",
+  "CSIZE": "130732",
+  "ISIZE": "314998",
+  "MD5SUM": "d7113012e95c57d5a1ce4c03f08d3e9b",
+  "SHA256SUM": "b3c4ec19a278a93994fa4c6511485351dd4fcad8f353e49279002d6fff47bf99",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl7vfPwACgkQeGxj8zDXy5IzpBAArs7ak9pMrnDTn0v0P3ZxWTO+kWWYTX3VBD2ynXaT2wZeXPz6llC6Dxlk89ztWVOBcWJMmoRURWqxEBsbwtj5F3BCasarjrm0HKkaqGXCFKYLSwiyKb/jykCAb8GpgYnDZcCk0E3sL647whOGEApeoE42VuR4LV4VOOoLQI8chjmw6Mj9gQeIx7ktx2PYFLJp+gjwRoN2Cd3IFhLUAtiR1J0qC7xoiouc8cHDwUGvC+sIuzbOSO67ggvgOfmXavVFaBDmplkEiPdQc1c/XTFM8O2Isr1hvQB6dGB79R/rXdFdZFlebXb0UA7dpDqR0Spe37lnXd1WiINK4HfRTu1fOJsH++8ji7+GkYGwt5wAjupwcx/NwbQZTJE9JVxnv6pGzxeD858h/7rQYULiuR0lseUS6TkejXMAg7H72IP1+f8DdmOB2rfFccgZPUC2lRdonjQh7FLb/Tsmv4+YoJ8p6acdUKpF5Iv0VmsJ0THxeDS7OhFb+C9q/mdA3Es4RRvSnapYOTvccksCSUze3wUzCpRuEdN5uBbYhmRFdgA4fBgAb2P5wORWni/pdjdl23hgjXLIrNf94t46IW6s+mJ/1lzCKUGg+JWUuZ8oYElRIzvhaAMfP1lQmXyYWoOXWMzJH99p/XN5hr9DlJI76k77xhnKKbE0kpoAB2NeOp2pCP4=",
+  "URL": "https://search.cpan.org/dist/Mail-SPF/",
+  "LICENSE": "custom",
+  "ARCH": "any",
+  "BUILDDATE": "1592753169",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "perl-error",
+    "perl-netaddr-ip",
+    "perl-uri",
+    "perl-net-dns",
+    "perl"
+  ]
+}

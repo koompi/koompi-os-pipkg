@@ -1,0 +1,23 @@
+{
+  "FILENAME": "python-pyperclip-1.8.0-1-any.pkg.tar.zst",
+  "NAME": "python-pyperclip",
+  "BASE": "python-pyperclip",
+  "VERSION": "1.8.0-1",
+  "DESC": "A cross-platform clipboard module for Python",
+  "CSIZE": "18617",
+  "ISIZE": "65009",
+  "MD5SUM": "5a708cbe8bf3603a99c3c1e5c9b869cb",
+  "SHA256SUM": "65a16dca404dbd125e84981831de0125dcc3443a6ba827921a866782dbeebf9e",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl6AlPYACgkQeGxj8zDXy5K+eg/+O4i7Oym2QqWc97mNoa/XTx9mUzdcQV6Qh15qghaOr9tX1aq1FnHnlm/Fyd6rQvHdp4eYSxTyTwvaxZ9U0ms4xdyClbcvubCgN6i1y1H2TiHhftVtXekH7p5f+E4ZprZBFt8YWSEd2YnZFpJD6Y+sZ7jMmBVTCS88/8aPxJpoq9z/6bLrWDya0TJ+4hJE3boQ1qyL8nOSBW4uIbaIRHOuDizwybBFoxTHSpWxXI9elZpvAMXkokcR+DsOoD/oqMHArOKv2hlVWbYNiLGCod0xlb36PUiwWLiirGuJKpIjwJHsxaeTbRqLsHJJ8YS9rMc7Ydp62OUqMOUGkdE0KQZ6E99qGJS9oQSi9wdgrqI8vCmRMT6WXq37Aq+48uH7xIGmXWCKQtqtGdO2BJU+3jMUortLgV7lJRGPQwoNQ1/blWbBo8sesb7c1iW7YBjCi7YPktzpRbZs8hi8eYYtT6yhtT+fR3I66r7YkqVz26733F0keeGbSa7NM+9zALdAsMAZpxsfdi92VUmYrNLTI2uIRVPaha+BvffuJGyMwf4otyexYuKWqITDlxQJLeM2eu+5injfSQxOfm/8vqIoo3j6DgK8WP9Y73b6KJJ5cHAFMYB0ZXj6Q83hiy7MwtpFfmv1JVR/RwcLltxtmpNtYMBCiyiuOyPoak8BZHKO8UnCYzY=",
+  "URL": "https://github.com/asweigart/pyperclip",
+  "LICENSE": "BSD",
+  "ARCH": "any",
+  "BUILDDATE": "1585484978",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "python"
+  ]
+}

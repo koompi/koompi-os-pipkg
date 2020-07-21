@@ -1,0 +1,26 @@
+{
+  "FILENAME": "python-pykwalify-1.7.0-4-any.pkg.tar.xz",
+  "NAME": "python-pykwalify",
+  "BASE": "python-pykwalify",
+  "VERSION": "1.7.0-4",
+  "DESC": "Python lib/cli for JSON/YAML schema validation",
+  "CSIZE": "49484",
+  "ISIZE": "269367",
+  "MD5SUM": "2355538b91df19e87d253b93108c876e",
+  "SHA256SUM": "32cdb79794dfb352862e4f25f403c5a335ed355b7b7849e0ab85b683ad99f38b",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl29/HcACgkQeGxj8zDXy5LQWA/9FS1VqOT95lQGysyodIpHMN/0NgYAwIUCoayRuWMi0nwIbDFISxgSPu7rajN2Cux4JZHRo4lpFuPFXTfDsl79tQy9vAFPvhHHTeNTgdYOnAssijaqaMt6WxMX3AD3AHF/XMVXwq9erleQmaN1E0efkOTlDQK/yxDCPD4PBSD0xwNuoB7eNL1fG2VtT3x3Rr9c+kUEM3jyYAvCGDfPSmW0VhrWp9VWBwH7tofLA5rT2WzSfnVUWSLGWHWmcAvjR0MMwxXZ1Sby8x/CBeq+eeHpxhtzR8FoCiJsU21ZxTlO5emP6xbcI4p+Umw1XuL7JVDRmngvpF2nRbX4plKvGgfXoL5Q6o61hyJK+9fuPvDxazq71GdQKsgTWCodS0ifXK8Te718dppwKMTQYRZhW12LSGj899Ez2kSBz6ni6PP7oBEZA/Q3+q5yRyVVRkib/DhLL1z39CBton3nNfKeMBRTeQY29fERnJ1vnjyVycDUHyVRk+psvwokhzxzTcsADjDZgPd+KM8ekAuW4OmZGRSyqOD1Ui3eW/vK/TriG39/vagXSS/KMnrlTehE0Z/bgncQtTyPCnquCe/WwwvWwXdHtlZ6fPWgJWmDkViErgwQrrq0/GOGS2k/vSqBemQ1yCJI5/rtXPEaRNWRZ08pDl76XGng5Mldz3GHn8d6KWNy9nU=",
+  "URL": "https://github.com/Grokzen/pykwalify",
+  "LICENSE": "MIT",
+  "ARCH": "any",
+  "BUILDDATE": "1572731996",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    "pykwalify"
+  ],
+  "DEPENDS": [
+    "python-dateutil",
+    "python-docopt",
+    "python-setuptools",
+    "python-yaml"
+  ]
+}

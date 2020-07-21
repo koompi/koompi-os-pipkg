@@ -1,0 +1,23 @@
+{
+  "FILENAME": "anjuta-extras-3.26.0+13+g8248f12-2-x86_64.pkg.tar.zst",
+  "NAME": "anjuta-extras",
+  "BASE": "anjuta-extras",
+  "VERSION": "3.26.0+13+g8248f12-2",
+  "DESC": "Anjuta Integrated Development Environment extra plugins",
+  "CSIZE": "1867192",
+  "ISIZE": "6993209",
+  "MD5SUM": "6e80d3b6d292d27d35c30ff09358352a",
+  "SHA256SUM": "5381cbdf496ba5b0ad3abafd0cec970518b5001a1ada01c6c115a4972867b314",
+  "PGPSIG": "iQEzBAABCAAdFiEEhs/8qRjPOvRxR1iAUeixSKmZnDQFAl7DlIwACgkQUeixSKmZnDQHpAf/U876e7HxNB2Ek9ktqzoYA3xm263H3P8WUzgrPgC3yePX7ZdmdvOUxxdwIZ3EXCLqCK+m8Der9Vdc5WIFkBlljuAAYC/ZMn9DFMOZZxGuKpyHVNSytE2Lv3AysuKAL0s6mu53EPSfPTVEqx4M81HDO99DT/8cSkD6wSwRvWe3PnuQ5uOZDxSmEb1hNndFinyFWtJdf7AiTrtH1lvJf2pPAOlNJ+CuTFUJ9Xd9GTcsYvMR/4qkhP6z9MgZoTRu0PEUvdC+5YKS6eB12mrlmeuHzkg8nbv5eQBRKCdFhbmqt3weZ0kGVhC9LUzSLjytO7Hv323qXSjsbQRcZ5ghlhcC/Q==",
+  "URL": "http://www.anjuta.org/",
+  "LICENSE": "GPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1589875765",
+  "PACKAGER": "Evangelos Foutras <evangelos@foutrelis.com>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "anjuta"
+  ]
+}

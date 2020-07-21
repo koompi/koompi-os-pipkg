@@ -1,0 +1,23 @@
+{
+  "FILENAME": "libserialport-0.1.1-4-x86_64.pkg.tar.zst",
+  "NAME": "libserialport",
+  "BASE": "libserialport",
+  "VERSION": "0.1.1-4",
+  "DESC": "A minimal library that provides OS abstraction when interfacing serial ports",
+  "CSIZE": "32767",
+  "ISIZE": "124917",
+  "MD5SUM": "cb99c0d9bb8a3ab1455ed55944393aae",
+  "SHA256SUM": "a3de4007991a65ad8f8c8003b923d12c4dab29771d3f71102797d460646a5c98",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl8EnN4ACgkQeGxj8zDXy5JxtA//fKuEwCP7ESb9DwFaEp7uJvOlRNR0Y+A6MkZq3A3xm0GCEK1zDCDxz6LqWsZbY2FyWLP+emFHWvGdC36+0/rH5C31Oqz/nHgQuN/if0jSn+8bz+BhNyqb3j7h8HnNJIwMoUVwNmZdXndcknwerslWYkD7ot3o3XkGWL1IheqxrWy9mx3TyxNKpuYQ0G0Vn/dRkzlSuWIuB5SJBbYTRh36J1YXWHiODFS25HhCFOTTc/BUZoZ+TLUu+3n/I14YQ85fyHxH02X/5vzXIXsPMS8mJr7V8AwPkFQ/5xEXwJlTviMdcEey2ZoJsoADGCuZlP3jsROcMHRCapjacxoBXS7vZcz3L9o9cm4vLK0SjRvxdo1TOCXX1zS4mIOYpP0RMbsGDAzNvl6BTzCzNxqH3ai91L5RLGLYhi2BFCM3s9zS+q9bLGICOUAyKcyzXlDhnvwMIQ2RIu+4i/WZmv5S+EleFjMB3Q02N/CybnhHZN3j9Idg902yDTP57/jU37i4DqZ1Ye55oI1mxb2cDv7ZGZn1ju7KxZJjOK+5R2hVFNYvviZUNECWyyk4MJxX1y9DzeHGkkyQxYkrk3KOWTEboNJ1a+uTcyZDa2A5u2GKN1yUPhyN2bSLN/FHT3wGiVTtzWYHhO2KIPe6D95yOyNatCABVchYy3ZhUaJ10PCfBWriZBE=",
+  "URL": "https://sigrok.org/wiki/Libserialport",
+  "LICENSE": "GPL3",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1594137748",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "glibc"
+  ]
+}

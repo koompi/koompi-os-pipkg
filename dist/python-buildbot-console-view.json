@@ -1,0 +1,23 @@
+{
+  "FILENAME": "python-buildbot-console-view-2.8.2-1-any.pkg.tar.zst",
+  "NAME": "python-buildbot-console-view",
+  "BASE": "buildbot",
+  "VERSION": "2.8.2-1",
+  "DESC": "Buildbot Console View plugin",
+  "CSIZE": "22728",
+  "ISIZE": "56663",
+  "MD5SUM": "46487b3b908a91e7bcedaecb959fdbd3",
+  "SHA256SUM": "87f775fc78fc147262c7a0f06961c0f5312565fa4c69ab7566ff264cbd56e242",
+  "PGPSIG": "iHUEABEIAB0WIQSYX6G7jYlWZgHv/xEEU6bKI8VjFQUCXu2SWwAKCRAEU6bKI8VjFV/qAP9qIuWHhlWZaIAhED05HOfEqFx6hGaq8Fj8LxgzyQdM2AEAuU3vPs6jiL1zCkbGrwbHpcN8+ycax+yjuyrT5BqtKKw=",
+  "URL": "https://buildbot.net",
+  "LICENSE": "GPL2",
+  "ARCH": "any",
+  "BUILDDATE": "1592627168",
+  "PACKAGER": "Chih-Hsuan Yen <yan12125@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "python-buildbot-www"
+  ]
+}

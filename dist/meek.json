@@ -1,0 +1,23 @@
+{
+  "FILENAME": "meek-0.32-1-x86_64.pkg.tar.zst",
+  "NAME": "meek",
+  "BASE": "meek",
+  "VERSION": "0.32-1",
+  "DESC": "A pluggable transport proxy written in Go",
+  "CSIZE": "3230790",
+  "ISIZE": "15280977",
+  "MD5SUM": "6ee80e5bcde2d91794a1e7acd2d961f5",
+  "SHA256SUM": "bb5c695a1b443af2432d770f9f6e98ab911586c996d91076693c4718d633780b",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl74/Q4ACgkQeGxj8zDXy5JEPw//Yxa8lQrzNfIN7nEUb3xGADQCNf+aukPTLQb87C5IDCwiVP9dm0QkahgMFppUmCoikgn2ibFYpL8wv6EDuAoSe9AfUoth4Tlc5zGXcb7weq3sNfIxuhKJjdMVtyQpqKD33I3VeLgkO3xOtSMEvwjivo6kEtqs4edY0X/VPPx9DCmlhvRUIj5jPlPDEH1GuAPk0y4LJKipQ53hWLpZU3MCHrtMQhYUt6Pn5yCsqM7yUj2BUSeSCy7zPqWBf/wnW+mdrZJQYIABsD3hI5zrhZZ6ZGzpJ4JIgqjV39fZeF/jEOiQIwWWvK3HBRPbT9Kpi3ulINGtfWHHRPNih/WSm1WF+/he/Yrh4CW99hwdTZyOgsmTtw+oVf71pBXafyhHUnO732QqZ9NznL0AJ0w7yxpgCFx2+3Q1UNKXsr3hnBeByzm+7ABmGwr3K64G83GDR0h0Ig3QjMe6ZuhuGRXYlc32Ugf7MXEWHUi1eO6KkzyPQgLKYyqgsbtPsWsBv0FlV6EH2QFVPT7hnVyiwHQSdH2aqp1Y0T37KQ1Eqhj542ivgJpPsK3vYxl5ctuAPc6Hfo1Bj8cfzkhy+6sdx/+kTmCScRyEaOwG7PQUhERqLY2bpjCkAjmF2Q7jNrMVwehL2e9Yibe88FkNV72thifAuIwetUCP0YuSdIqJFCRO4NAwzqs=",
+  "URL": "https://trac.torproject.org/projects/tor/wiki/doc/meek",
+  "LICENSE": "custom:CC0",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1593375962",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "glibc"
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "FILENAME": "xorg-server-xnest-1.20.8-2-x86_64.pkg.tar.zst",
+  "NAME": "xorg-server-xnest",
+  "BASE": "xorg-server",
+  "VERSION": "1.20.8-2",
+  "DESC": "A nested X server that runs as an X application",
+  "CSIZE": "588659",
+  "ISIZE": "1397634",
+  "MD5SUM": "984893d2ef5413719e1555b7023a4658",
+  "SHA256SUM": "066dab730bd8a06c9f97b00865b71b91177688ee45ac958019518259235a4407",
+  "PGPSIG": "iQEzBAABCAAdFiEEhs/8qRjPOvRxR1iAUeixSKmZnDQFAl6w9VIACgkQUeixSKmZnDR6pAf7BsQAmcYs8AoLODTC1Kvjk6d1H9hJQAU0pLfD+1rYi9oSEODW2COP1bxtklTuwADiGVDEXg3X0f5Ua5O7Kx7VnPlGxwv4Z4fGIiXtDDakLx6WhQfKBgjeYJv8fgAGadm/+GGNrnD/nTjF6JoMRa3JO9G4wHMl3bc44+fEAOTVfun7bsc2VGCYBuZU5j4fBEAZGfQZMou2TnLO/DglktBZZ9sA4FudyInwcAmRxCn25EkIus7f685XNVVK9GgpAGpWwQBT4Ti7QOF57XsADHdErOOh/K+gEtzIKy4+pytu6fpvMzbmPdxDqQNmnZXFb5g3kW1yT32EKPWyXI06+UBXvg==",
+  "URL": "https://xorg.freedesktop.org",
+  "LICENSE": "custom",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1588655297",
+  "PACKAGER": "Evangelos Foutras <evangelos@foutrelis.com>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "libxfont2",
+    "libxext",
+    "pixman",
+    "xorg-server-common",
+    "nettle",
+    "libtirpc"
+  ]
+}

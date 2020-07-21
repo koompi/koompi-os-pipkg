@@ -1,0 +1,31 @@
+{
+  "FILENAME": "haskell-drbg-0.5.5-97-x86_64.pkg.tar.zst",
+  "NAME": "haskell-drbg",
+  "BASE": "haskell-drbg",
+  "VERSION": "0.5.5-97",
+  "DESC": "Deterministic random bit generator (aka RNG, PRNG) based HMACs, Hashes, and Ciphers.",
+  "CSIZE": "1386583",
+  "ISIZE": "4271659",
+  "MD5SUM": "281194f677f2f083b7b9ffa0b71e74db",
+  "SHA256SUM": "28394fc46e6b64cbf0be081d32c5094cddc9f6ff054efb948d0d3e0c2eb8ae0f",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl75G24ACgkQeGxj8zDXy5JMWQ//Vp58EOfDkiZM2dlOYiKDc9KO1i/oISOY+KMZu3uzSttEX666QNwPphGOXaZ7GR6PMlpPjxCPoFRPruSUHWVJKQANenzT2vnjZGc+n94LfPYPF383h+3gd0WX2CXeh6ccBFvrk2IPUAYEpZW3Ws+nhH85C+QtJ6Hm0E9zmz4g9W1KeiUthtI6oW9BYhxvIwi24bHByB4wAwx18nA5vRN71c8+sS6tQRxbr1CbWdAvVYP1rGPjWHe1rIW/UKcB42xFrI5+QVaxJTUce4M81un8EXVr2m7YYeYGp+dXP/rkHqBe77p3jHBBQlIm1XtZyK9APqGfYBs6UqwcVRGjJ5O3IIL7VDB9AOLq6+1v495u2k34aBwRdUbQG4XjYIV2eNYb7eWlONrl8ts8uTW47z27rydtBHUecqUL01JjjFI8FHlohlbIab1OXcWrLENWzXNrW2CDD0JZevTFVbcjcOGU/j7bmeDmiYFTfiO9t4V4XZ3w5Tj5tkJBuYkPtWn+eXDx4nkQEwPLHCvvZCAmrQMfBVgmHraAP7+fPRLUACIIg4gOPDXi3TmJyVb3l+SZ0jDX+dbsqOvZHSnMVa0r2PjeVDS3xjgoTJsvViqCjAUl94jJpk4vf0tiWu37f/BfEP/GLTbNOUTCln20y94bJGtzXEMzmCiy1hBwgNKEfYma3SY=",
+  "URL": "https://github.com/TomMD/DRBG",
+  "LICENSE": "BSD",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1593383747",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "ghc-libs",
+    "haskell-cereal",
+    "haskell-prettyclass",
+    "haskell-tagged",
+    "haskell-crypto-api",
+    "haskell-cryptohash-cryptoapi",
+    "haskell-parallel",
+    "haskell-cipher-aes128",
+    "haskell-entropy"
+  ]
+}

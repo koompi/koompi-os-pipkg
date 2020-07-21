@@ -1,0 +1,41 @@
+{
+  "FILENAME": "haskell-swagger2-2.6-17-x86_64.pkg.tar.zst",
+  "NAME": "haskell-swagger2",
+  "BASE": "haskell-swagger2",
+  "VERSION": "2.6-17",
+  "DESC": "Swagger 2.0 data model",
+  "CSIZE": "1063933",
+  "ISIZE": "9805316",
+  "MD5SUM": "4e1ec63c24e2d1dc90396311ae1307a8",
+  "SHA256SUM": "d535411ed75acb9f22bd2384cf7eecafbd05c2ff646e72b6aff09cc8bdb5c52d",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl75sYsACgkQeGxj8zDXy5KzOBAAuRImitY6Ec1Ygyv08e/MJgqHS/EZLzeW1OvwzCVG0pZP3q3A4qAD2zWCyakbP3SZTdrqxj44AkY7R+oU+pb+RYFxs3lvkv5/cFOWaXpspMKQJOAbSASxRXaZ6iR+tutK9m+ZjpzGczG/eJoaASAKNQJ5BswOX/jjlljdneHsExlV8GQXZx7BpWrVOXs4QY3Frrj5/ded6bP7Nl+lkk8+93HE/WmOsesof6xD0S4+4uOI4lKxpIAahisuw152sk10XSNF3GAxs0VxBOyFHkCQCKgmXfv2TmIK8cnQH/oui5ESW/jioh99s9GD7d8C2Xt0Vwc4ExPaqAd4a1PMbqwlasNzJN9znoQFoYxtUgDJzQrccrKz7qkfMWhd/dQm7IOtZBHuA22PXkutClXyfZ9mt3UC7FYDqs1itw5GHVbQB3Urs+ycfJeU460gLVm/WrFs3slLAkkh/41IsJnY3Di9lhw+xplEeFmonN8ATQrJ3ElFsAvVCCZ9yDKoe/XCbj3sYZzXDVjrfm+7gePVRHCXyPFA8tDUe3cI6fwfJbO3P7YCYCuz2PUUxqF6B1UmGloug1k01bUWV9J8dGf/jbenS1Fax+iYJd2pc9DOSYFNC4W0rBD45HenCNgpmf65e0Arxzs1UlsjkfLS6MbVAQpzy3Su65CZegSzeT5oreYuPWg=",
+  "URL": "https://github.com/GetShopTV/swagger2",
+  "LICENSE": "BSD",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1593422027",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "ghc-libs",
+    "haskell-aeson",
+    "haskell-aeson-pretty",
+    "haskell-base-compat-batteries",
+    "haskell-cookie",
+    "haskell-hashable",
+    "haskell-generics-sop",
+    "haskell-http-media",
+    "haskell-insert-ordered-containers",
+    "haskell-lens",
+    "haskell-network",
+    "haskell-optics-core",
+    "haskell-optics-th",
+    "haskell-quickcheck",
+    "haskell-scientific",
+    "haskell-transformers-compat",
+    "haskell-unordered-containers",
+    "haskell-vector",
+    "haskell-uuid-types"
+  ]
+}

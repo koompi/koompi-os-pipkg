@@ -1,0 +1,23 @@
+{
+  "FILENAME": "clipgrab-3.8.13-1-x86_64.pkg.tar.zst",
+  "NAME": "clipgrab",
+  "BASE": "clipgrab",
+  "VERSION": "3.8.13-1",
+  "DESC": "A video downloader and converter for YouTube, Veoh, DailyMotion, MyVideo, ...",
+  "CSIZE": "313433",
+  "ISIZE": "1161506",
+  "MD5SUM": "42409e4907ebc271db477ed371bda420",
+  "SHA256SUM": "ee90fe245d23559e4ebfca047556dc5a54b78a08e69c01abf5244e9ba1298e5a",
+  "PGPSIG": "iQEzBAABCAAdFiEEFRnVq6Zb9vwrc8dWek52CV2KUuQFAl78KSkACgkQek52CV2KUuT51Qf/Y8URUwglmsKIYKZgASZjhnJfIR4T8+9BIeiW4R57okPB3vHv3PzwzdDugiXPlIwD9RqY8LsKRmoR9+OwsoLHvQ3B1Fdfi2pST4dwz7mD3EZ9ZH9un6E4HeAiYH4cENCuKMR89WAwcfs0rH94Fq0B00Rp749+J3Td5llCbHUKg+ZrIr4vG2UwC4SDyyWsuInkn4aQCBZTQvfeOUI18wcV6WVFgUtM5NJn3200U1Br5yZYbYgRB1hK4bwGc0qt+lBxdITHq2ZhC5qz60PKm6sGQ21fQffT2AodLOgqusTZ4sMINdEpoOU7QjduOb3BCYBIS5uYT2Mekzmp53JCso8+Kw==",
+  "URL": "https://clipgrab.org",
+  "LICENSE": "GPL3",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1593583863",
+  "PACKAGER": "Antonio Rojas <arojas@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "qt5-webengine"
+  ]
+}

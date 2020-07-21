@@ -1,0 +1,26 @@
+{
+  "FILENAME": "pulseaudio-bluetooth-13.0-3-x86_64.pkg.tar.zst",
+  "NAME": "pulseaudio-bluetooth",
+  "BASE": "pulseaudio",
+  "VERSION": "13.0-3",
+  "DESC": "Bluetooth support for PulseAudio",
+  "CSIZE": "62073",
+  "ISIZE": "201016",
+  "MD5SUM": "7dc459cade8e94aa8aec912d7203eb84",
+  "SHA256SUM": "d4f14201b07123c798593ac273cf910fab9bc9d85a3ece757bd841c1630a76c3",
+  "PGPSIG": "iQEzBAABCAAdFiEEghj4iEmqxSLpTPRwpekojE+kFfoFAl4aH24ACgkQpekojE+kFfpufwf/fHSYtguceTVAGEU+xqQWFAqW2EciMrOv6u1DPPgFOh5IChG+mnxS+zwE0ewWmGVW3oMHbISczfr6zkIkG6T9AHmT4XGZTp9MsLZAQJ2CaxxU7TykfgBcJTOrMMDR8KNZXjy8kqJpKn9abhjLKC/LOSgQLvRJ12R2FUFNo3P+A9S6Lj1USXepVnsrYpawnkuJ7qrk2DMRaKb/FP47H+rVso9Z8v4Rzc1oga6PaegINHwOD/4+D99tURTZQLlzlcHyDLyAi3rHrVGRdmcBMnN9WsgMQLJ9Hhb1T2xeFNgu4PaJj9wrRNTWncGdvd/ph9N1LirbnVrT/O5tibU0HkIhIA==",
+  "URL": "https://www.freedesktop.org/wiki/Software/PulseAudio/",
+  "LICENSE": "GPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1578767137",
+  "PACKAGER": "Jan Alexander Steffens (heftig) <jan.steffens@gmail.com>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "pulseaudio=13.0-3",
+    "bluez",
+    "bluez-libs",
+    "sbc"
+  ]
+}

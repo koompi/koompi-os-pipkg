@@ -1,0 +1,23 @@
+{
+  "FILENAME": "ca-certificates-mozilla-3.54-1-x86_64.pkg.tar.zst",
+  "NAME": "ca-certificates-mozilla",
+  "BASE": "nss",
+  "VERSION": "3.54-1",
+  "DESC": "Mozilla's set of trusted CA certificates",
+  "CSIZE": "338820",
+  "ISIZE": "943998",
+  "MD5SUM": "da50ce83880280c32a1e13b2425baec0",
+  "SHA256SUM": "e29a9796c93679f2b9bbb0cb55563a77e32ccbe4182cc90a0e233f0d123444a9",
+  "PGPSIG": "iIsEABYIADMWIQQGaHodnU+rCLUP2Ss7lKgOUKR3xwUCXvd8vhUcaGVmdGlnQGFyY2hsaW51eC5vcmcACgkQO5SoDlCkd8ea9wD9F/ow+s56KB5rW2J5+bGJ3K7pA9PY46zQBxMjAD1YlSAA/iUzuZFtdFW8YLBiLl1WupDrHjnHEA0G8LHNG3m+o/QH",
+  "URL": "https://developer.mozilla.org/en-US/docs/Mozilla/Projects/NSS",
+  "LICENSE": "MPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1593277534",
+  "PACKAGER": "Jan Alexander Steffens (heftig) <heftig@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "ca-certificates-utils>=20181109-3"
+  ]
+}

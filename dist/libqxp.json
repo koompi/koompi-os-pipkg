@@ -1,0 +1,23 @@
+{
+  "FILENAME": "libqxp-0.0.2-4-x86_64.pkg.tar.zst",
+  "NAME": "libqxp",
+  "BASE": "libqxp",
+  "VERSION": "0.0.2-4",
+  "DESC": "a library that parses the file format of QuarkXPress documents",
+  "CSIZE": "316120",
+  "ISIZE": "3787899",
+  "MD5SUM": "a358c19a3bc52add592baa6825c5eb1d",
+  "SHA256SUM": "3258de0400c43060870401608707a8403cea9641782e5cda6910f04fb3cb70e1",
+  "PGPSIG": "iQEzBAABCAAdFiEEhs/8qRjPOvRxR1iAUeixSKmZnDQFAl6mqwkACgkQUeixSKmZnDS14Af/fderQpEQEGr0GavTWOJWAkgCQoQc5QWfnlle+Dsb25roEaiPiKRtw1ML/uixiOnDHOZtNCyaz8jFGjkrKYzOoQV4eU9MKGsPyipWVFnhEOnGMn+6dHrzfhuXLyfYmYaBlG9sdBWfTy55ioQFG77LT8iJWsrqVVdcgbmSCQ3EoDq04TioshSPhfwViGaCkM8hCrHWo3idlYzOXSn3aSBqkhmPVfe2gDw9arwmBIpplfcpzKuOds/IlDhbrFcBJOg1zgm8hlO9D58tAwZmmvKUT1DnlhBMLgtwMvNinut2BTzoy/HuHSq3gDttNLsg6IhdUy+gHAy+gOqq76p+gi9Ncw==",
+  "URL": "https://wiki.documentfoundation.org/DLP/Libraries/libqxp",
+  "LICENSE": "MPL2",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1587981018",
+  "PACKAGER": "Evangelos Foutras <evangelos@foutrelis.com>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "librevenge"
+  ]
+}

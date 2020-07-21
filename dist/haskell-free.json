@@ -1,0 +1,28 @@
+{
+  "FILENAME": "haskell-free-5.1.3-39-x86_64.pkg.tar.zst",
+  "NAME": "haskell-free",
+  "BASE": "haskell-free",
+  "VERSION": "5.1.3-39",
+  "DESC": "Monads for free",
+  "CSIZE": "474503",
+  "ISIZE": "3413136",
+  "MD5SUM": "5305b414d5d09c06c73626283bac90e4",
+  "SHA256SUM": "356a0a2ab6d443b942fb90ee5ce68fe6153b49f5aaacc1b157834d8da326e03a",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl75MkwACgkQeGxj8zDXy5Jb2hAAkQgDxiqgALOlHJAT0QI96LUqgG2l0VwqH3zip/qGDruKGHMhDAT01J3wzrER9sWADtlg6N0TYK5QbzJfQmC+LYtvH2I1bmFN1xEcrUIPswxX1QPOmu+Y5/+CzobsarbD4O/0KS5ea0oe39a1FBdWpsEp8ucrRpQMk7jfj5sCpJkzL0/UabhhVF2E5b7W1/k1GI81f0e00xLQdleFi+ueE6BYaWnkGvyEAqGonfPEzsKwWhsJUjARu3Y8O6IEcTzeGA/axs62K7MuIbqV3N8U1AdMXxoSpR1+vHtQGo9J6zwJw8YsXq6F/O1fvXq2UrHjRTq41O7knmsQrr4CM26swVMfBZ1mzRufGTxi9+YhUfoODIZO+8Trazpnjvc4BU3FDzfmZtAfEjvaa0EmeMy52Rubs1x6xgqeWyd4R4e9WcJu+QxdGfsbrzKMLpNUhE83olwjQ+SnJsorv/+Yv3LQY25wnJgOfYj9qJypQiqZVZyyBynEw++cde7iZzlaQ0ggVYdC0FtTie3Ld2AZwMTOL6RCZNHYj6Ql9HjnxaOB13RBn7pqalQNf0NAMj1HcDRilEYp/69jdrJtkSqaKSbJl386aVjU8rZC1O4nHm/NTW1pbssgNw+U+CnWoxNFn29d8fbUatdfK5ae9LKoe9ZTuTnDr09PpGGc5gm4YMw93MM=",
+  "URL": "https://github.com/ekmett/free/",
+  "LICENSE": "BSD",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1593389614",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "ghc-libs",
+    "haskell-comonad",
+    "haskell-distributive",
+    "haskell-profunctors",
+    "haskell-semigroupoids",
+    "haskell-transformers-base"
+  ]
+}

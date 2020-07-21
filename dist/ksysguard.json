@@ -1,0 +1,24 @@
+{
+  "FILENAME": "ksysguard-5.19.3-1-x86_64.pkg.tar.zst",
+  "NAME": "ksysguard",
+  "BASE": "ksysguard",
+  "VERSION": "5.19.3-1",
+  "DESC": "Track and control the processes running in your system",
+  "CSIZE": "845788",
+  "ISIZE": "3322561",
+  "MD5SUM": "6b440aeba255f58dc360c3b319d5a9ef",
+  "SHA256SUM": "e4747183a8697e11cfa450b20937220902837936edac0e559ee71840adf45e5e",
+  "PGPSIG": "iQEzBAABCAAdFiEEFRnVq6Zb9vwrc8dWek52CV2KUuQFAl8EhJYACgkQek52CV2KUuRSXQf+OOsD2pxnRBK59Y//cnpZL8MOc5mUTlDD9ANb+6dXXtUMV4B6dx9Aibn6DX8hhqyMrm3A+KRB++P0AaOGkELjcyWX7reLy+p/FTWzaOjincwdlBs66v6WPMcwnyeS9h83T6HlrbbaQ9UN6diwcxnI+PLQ3TimSnqfkMyUzfA8Nnm59PBsSWcLXmvyvt8ks/E3mlIBWdNdMjkm4oqrBpgQpH66nrxmdgv3usRPpR6NZGxbiw93Yn88A4eumix3yxjLTtu7qN9uQSbgHU7DMJMzE4sK7FAEzngfJqdEPIzx2BYiXGiPnRIyWzIQG3D76hFxdNqXlyyZEGltcGDwXrVBMg==",
+  "URL": "https://userbase.kde.org/KSysGuard",
+  "LICENSE": "LGPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1594129066",
+  "PACKAGER": "Antonio Rojas <arojas@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "libksysguard",
+    "kinit"
+  ]
+}

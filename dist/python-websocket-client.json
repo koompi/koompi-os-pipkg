@@ -1,0 +1,23 @@
+{
+  "FILENAME": "python-websocket-client-0.57.0-1-any.pkg.tar.xz",
+  "NAME": "python-websocket-client",
+  "BASE": "python-websocket-client",
+  "VERSION": "0.57.0-1",
+  "DESC": "WebSocket client library for Python",
+  "CSIZE": "59092",
+  "ISIZE": "332793",
+  "MD5SUM": "e69f11f3d7e30e80cff85e6e1580587a",
+  "SHA256SUM": "6dcc74d2a8aca1636bb02db6a33f63fe292c9e441402b61d96a5755f47999ded",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl4EC+MACgkQeGxj8zDXy5Jfkw/+IXB3Zwq3jRLecGa/zqxcxKVN9usHA0OqVuw+zmSvOrY7/RXgDVUD6hDk4QKtGDFDH4xD6nnWH3HaRzLZikvB0r8uDxOsrhsh9Kpw87JajxqQkqvKy8SCJJgOaMA0NTqglNBgd3VBKy/kqdXTj5l8T/j8uHXQdPv6BI5E2zU0AFCdUTJDvrn7XeiQRHaKiwZmdSogEPedc58Jb5LiDChW35tLR9AtJhxh7irAAkNA5xRFIpIU4jPLofZHLrrKR53Cr8j1k1Qr+JwncUNXGSg7mGuDydl3MxAUueaLFZ8+h89D+AbwPvf0ME6kyMy4gB8Sn9ynfazMThf36xzl9xMn+ntU340qYw+Sa+Dcg+hpaff0AENRQVXMVv2yUgj1+u1OAxekQO1BjpqBPRfesQcCnrkBWOh25JwowmmntZv71uYbpOlBznKPCjJ27yRkhJvkNxfyrZBQmVcJO6yPex2ta6aTVg7vwGl6O6eKwZQMlO4rW2Wj5yvl58PYLnFKQzWZfy+RixPtehPovK+R5v7Xo1OIxK99cUoSJVPzZZia/f7OUyEdZ4BkP8edrorsBRk4pAiqMWl7GRNDU4NXcjPbSo2rO0P3vsEKbUJ/h5J1r6XKexnQnOkaasBJhs2da2MmzZoi8lhm8i0mO/Y3l3qfNQFXp4e/0AkeTjcdV9f5+50=",
+  "URL": "https://github.com/websocket-client/websocket-client",
+  "LICENSE": "LGPL",
+  "ARCH": "any",
+  "BUILDDATE": "1577323431",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "python-six"
+  ]
+}

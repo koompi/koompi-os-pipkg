@@ -1,0 +1,29 @@
+{
+  "FILENAME": "kaudiocreator-3.92.0+308+gf21c160-1-x86_64.pkg.tar.zst",
+  "NAME": "kaudiocreator",
+  "BASE": "kaudiocreator",
+  "VERSION": "3.92.0+308+gf21c160-1",
+  "DESC": "A program for ripping and encoding Audio-CDs, encoding files from disk",
+  "CSIZE": "820471",
+  "ISIZE": "1317995",
+  "MD5SUM": "11884b02bed7eb9289cc5d69ecf05a88",
+  "SHA256SUM": "32a8449bd56eaaa2c65f0d6b84b9379d1689d63a5c5562cd5b1a08f42991d3b1",
+  "PGPSIG": "iQEzBAABCAAdFiEEhs/8qRjPOvRxR1iAUeixSKmZnDQFAl8FieYACgkQUeixSKmZnDTMSAf+PfOUaedcRM8lHDZU6Z+WVC+5k2/MGdDU0x2uF04Rk1dQVXQHmHOcojvJR9xa5hZB763tJ0bYejMV+eS/TgVg3eMOt9hgchPJ6KSZcgtzIgmRWdl9an2TqeEH0cK+UpteXh/+6kP80wRbgOgIOYEK5t10fcnuQ7HbHqOhGMVPaoHhM+URIQbwHIT+xh6Wr1mJKONTkS6B+AflF4a1QhE1glnFuNhEtdgY3VwLc21r4GTUrG7zIyW6tvxosnwxe2+lu+Le/uAaCgkaVWvljjxn8C4u+NUyqGEYnQMH3BmLPkOL978Efcqe1w6izBUxFoP3qVfPfmxeSv7UgaawMiZJVA==",
+  "URL": "https://www.kde.org/applications/multimedia/kaudiocreator/",
+  "LICENSE": "GPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1594198442",
+  "PACKAGER": "Evangelos Foutras <foutrelis@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "audiocd-kio",
+    "taglib",
+    "libdiscid",
+    "kcmutils",
+    "knotifyconfig",
+    "kdelibs4support",
+    "hicolor-icon-theme"
+  ]
+}

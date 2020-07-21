@@ -1,0 +1,28 @@
+{
+  "FILENAME": "postgrey-1.37-4-any.pkg.tar.zst",
+  "NAME": "postgrey",
+  "BASE": "postgrey",
+  "VERSION": "1.37-4",
+  "DESC": "a Postfix policy server implementing greylisting",
+  "CSIZE": "24882",
+  "ISIZE": "73740",
+  "MD5SUM": "98d5cc754259295bc2a29ef9f91aa6d3",
+  "SHA256SUM": "beebdda505f082af4d8d3ff8746510372f37a017939751aa766f8405b5b6e343",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl8EhCkACgkQeGxj8zDXy5JrWhAAvi69sI7PPtqfG+69S9SlGWqZ3711Y5dlKZPwYYooPB9+/ikM98UZ2jIrYuNTh2tS6cuXNNv4kJAsEswb6rFKO6z9+uSncX9gih+q1WtongYzo87IktG9YFUAi2RU2zAuMv5AK99X58Yd6UCq9QshLTVrD1KTy06zWyX8BkA6+WGtjvgWy6VgVUgzcejwCMJFzVDDuYf84ymZZssi3vi3aljVE5UPig5TglUfGZu31c974FEslJc+5i1RM3MUoK4JF3G5lRNky/9eloIYhPG+M1hHB9CA0zGV+Oa7Ua/sc9UPjaLBe9W9KD1UJuLfrF3Vp2dnOWq1vClqMHGDRE66fFDyFVMEKd3hgtQQmHbVJDwbb6CHHnJakh1qhhEZvNHBtPHHNMKiPWg8czv67YcG+On+aug7oG1cM0gkZg/N/cfGaF4qjNjth1969aHtxIsA5IGutD0fwjZ5JnidP/5LVgEq69ssQYZswGJ0dgMd+ti9GB4FcgdTQ+Nr5Cw1v2tnEslps+KzgFAr0GD7f6htNBV8rGqeTYqUJ0YDdG62JDOIb5x+94iJpfPx1W6QLES99d+0Vy6xU1TcTUkQNk1Mxdnz64gv2JaY+SlDZPQHho1NZqRO8NYxwybVVeYvc+uDrTchkslnezw62imcjICkoMWjRN7kidvrxvlz8a22Itw=",
+  "URL": "https://postgrey.schweikert.ch/",
+  "LICENSE": "GPL",
+  "ARCH": "any",
+  "BUILDDATE": "1594131481",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "perl-net-server",
+    "perl>=5.6.0",
+    "perl-berkeleydb",
+    "perl-io-multiplex",
+    "db>=4.1",
+    "perl-netaddr-ip"
+  ]
+}

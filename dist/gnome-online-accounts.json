@@ -1,0 +1,30 @@
+{
+  "FILENAME": "gnome-online-accounts-3.36.0-1-x86_64.pkg.tar.zst",
+  "NAME": "gnome-online-accounts",
+  "BASE": "gnome-online-accounts",
+  "VERSION": "3.36.0-1",
+  "DESC": "Single sign-on framework for GNOME",
+  "CSIZE": "607698",
+  "ISIZE": "5809989",
+  "MD5SUM": "5d3dd2443f2168c0e36f3dd0d0f288df",
+  "SHA256SUM": "d1cfe1d0e78a17ad0ce18fcc36e8319d719c3f090e14d4da53e5a12027b40925",
+  "PGPSIG": "iQEzBAABCAAdFiEEghj4iEmqxSLpTPRwpekojE+kFfoFAl5nnfQACgkQpekojE+kFfp+aggAgQe8BlQc4UW+k2C8QzXnHsuDZqfKSImQhhjyUYY0VaHTaEb+IXjtLST8Mz2Ft7bZPCOvM9gf9OPA3kBEeSsCspALQoklVWAW8IM1/j9eoWmBDuq36pJhLMitVpkkv6uxUUvOuJAxXnX6fW3Q152sJ0ltllpWvmdyUSW+aEEUT5KVOqGGnruRN1njxCDHA383tCmCeAa9srkqcCHJI5zBZE5JH/ncHcqtbWDqN05LMGJEiKQ4/mvzJNT6kTdW7JTDZpzFpyj7UWMdeSY5Nqu7hSX3SIxiNNaPNVCxIQdCK4F5SB9QdAtRLum8CHsVqEo8pRZrR8enUBoCxUuONeZ+eg==",
+  "URL": "https://wiki.gnome.org/Projects/GnomeOnlineAccounts",
+  "LICENSE": "LGPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1583848765",
+  "PACKAGER": "Jan Alexander Steffens (heftig) <jan.steffens@gmail.com>",
+  "PROVIDES": [
+    "libgoa-1.0.so=0-64",
+    "libgoa-backend-1.0.so=1-64"
+  ],
+  "DEPENDS": [
+    "webkit2gtk",
+    "json-glib",
+    "libnotify",
+    "rest",
+    "libsecret",
+    "krb5",
+    "gcr"
+  ]
+}

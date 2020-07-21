@@ -1,0 +1,23 @@
+{
+  "FILENAME": "firefox-developer-edition-i18n-et-79.0b6-1-any.pkg.tar.zst",
+  "NAME": "firefox-developer-edition-i18n-et",
+  "BASE": "firefox-developer-edition-i18n",
+  "VERSION": "79.0b6-1",
+  "DESC": "Estonian language pack for Firefox Developer Edition",
+  "CSIZE": "474202",
+  "ISIZE": "536804",
+  "MD5SUM": "90b38569ced40b6c2797228f2b6832c8",
+  "SHA256SUM": "1eebe520895a8318dd092e31988d6ff64e94174bbe3393bd32ac6d8d1579b5e5",
+  "PGPSIG": "iQEzBAABCAAdFiEEYB8g8dG7v0p4z1tt9rFhCz7NvJ8FAl8IbMsACgkQ9rFhCz7NvJ+lgggAtsL5M5fOb+HKD2eK6++7aKi7msi4xUEKjJTCrwKhSlX7OTxcnKjbaEGm2c9qxpZ9wQ33VQwnaaseGPUrd9VyOnLZKrRY7FYVQT80VpqH9b7CPx0JFIOpuxWfGMCr8Xd3oTNhyDFmExJzLo1O3VDuZCKMnWW0tfoE8sjszEgMQCJ5L+912MRz/bYqUUBshVC1UJKhzAp7Npw6yXjOTeeb7IZdv18YALWWtN2jo8RKLwIGecz89gjEsDKSpVuZhNCfI22NU04YTF/OryTYmTKBBQE/4ToSi/LMUeh/OMQ+yfvBun5ymnWV4C1A16wnI0ikQsB4PI1HY3ViKGdbgUYSHA==",
+  "URL": "https://www.mozilla.com/",
+  "LICENSE": "MPL",
+  "ARCH": "any",
+  "BUILDDATE": "1594387381",
+  "PACKAGER": "Andrew Crerar <andrew@crerar.io>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "firefox-developer-edition>=79.0b6"
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "FILENAME": "python2-cachecontrol-0.12.6-1-any.pkg.tar.xz",
+  "NAME": "python2-cachecontrol",
+  "BASE": "python-cachecontrol",
+  "VERSION": "0.12.6-1",
+  "DESC": "httplib2 caching for requests",
+  "CSIZE": "28180",
+  "ISIZE": "123803",
+  "MD5SUM": "5c528c857b8c47dd947a2b3dc907e12b",
+  "SHA256SUM": "551fbaf7b3cf9d3a39d807ff99b4fb2d3e7b98ff228eb181a0d176622145fa9a",
+  "PGPSIG": "iQIzBAABCgAdFiEEYEETBMCdNmKDQO7/zrFn77VyK9YFAl4FpKIACgkQzrFn77VyK9Y5exAAnOrEsFmSQOwr9ZUkhH4A0caePVRK9G8AmgL5wL9MPT7JBVpAAxoeY6Xh8Xi7CxLCWQ+/qjrOyjR7HRoCa5MvvwVoGDbmweY6frt7M60FJXF1/F8IMEEkcfTaVDzoMzrgobbL8NkWHacBK04Qymk2HzALTJdQM64wjfQ85o1kTwn4zGYJ8ntcHxHHU5bxNR8G129u01IKHMigBazA9s8h1UEvtgYMj9GTdUgWjol6nz26mPHpJs7IGcHouLPwwCbZZmIyg+3netyc+DWw9ayk5tRvYq8mKp4ZUylWcy+NCGt8a4XBIHGXlhB5raLN6niU2/g/41chIOMNXR0XgajRuxASxneBGCrPJq/Buyq2aIWRNAi7Yuk37qh+/B54zPuN0zM8+Fj2M/aY2I9yp1kEvnpZx3YMuwHL7qBNv1EdACG5xuddyE7bnHnlC4BsSUObuYH9iRldK4uWjZV6pzfCqqxv33f+lEirD8M20AxbAi2H7GXmaDVHBLW38enxvjCLpXgH1wA8S++F3e2AWgANJ5hAuQ6NzmBGNROE+Gyzw2xs/ZXY273GiPSyMoZS+u0Ad5TOEKhLSCmpnaqwJnhZAhDPLLP5dENdB5mUszqXGN9CPySIt/lgqt0AI+bWyS7HNDmT8xmidY/pTKWb/C8g6PdSOLM0QepNxRtUEJPoV+4=",
+  "URL": "https://github.com/ionrock/cachecontrol",
+  "LICENSE": "Apache",
+  "ARCH": "any",
+  "BUILDDATE": "1577427750",
+  "PACKAGER": "Eli Schwartz <eschwartz@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "python2-msgpack",
+    "python2-requests"
+  ]
+}

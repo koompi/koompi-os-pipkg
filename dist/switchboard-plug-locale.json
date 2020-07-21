@@ -1,0 +1,31 @@
+{
+  "FILENAME": "switchboard-plug-locale-2.5.2-1-x86_64.pkg.tar.zst",
+  "NAME": "switchboard-plug-locale",
+  "BASE": "switchboard-plug-locale",
+  "VERSION": "2.5.2-1",
+  "DESC": "Switchboard Locale Plug",
+  "CSIZE": "97324",
+  "ISIZE": "350874",
+  "MD5SUM": "6d13ec3a0429c593414ca7ec93a5c786",
+  "SHA256SUM": "28fe7a8aec331e129c99c2d640a92b9fa53c9a3279459037220922ad0c99b7c0",
+  "PGPSIG": "iQEzBAABCAAdFiEElDfdOBWnqRaePTlGr/XZUJi8b/UFAl7RHbgACgkQr/XZUJi8b/Wojgf/X6hIXPDWaWNzUo3kB7FyBOFrIYPI/+/sIDscAxDxQDBZ+8M5OzBJ/VxZ4AgvbQuszz2NLobYiB3+DpiOWaMvMWhM9RfgQVa0Ad9xWdionMdaWOMiMfl3TFhA2z6mJPOkEq0yPbFhSB71+EYhT8eBksUbmGkRTE8u/Wwn5tonwV6CweMYm6ETu7VqGgRhznumpAq6MmHZX7/lYYNO9Xj5pUn+4UpLbWmCylh46f7PTLsQkVSklV3Lr8E5e0tmn2UeSkxmx6z+qeKlFiamSxa+KtzfygNf/sV11tC7ZcjwW3QCT8avSWorlmEcE0QXn/fJm9fBDICT83y9B7Im6+aj5A==",
+  "URL": "https://github.com/elementary/switchboard-plug-locale",
+  "LICENSE": "GPL3",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1590762889",
+  "PACKAGER": "Maxime Gauduin <alucryd@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "accountsservice",
+    "glib2",
+    "gnome-desktop",
+    "gtk3",
+    "libgee",
+    "libgranite.so=5-64",
+    "libibus",
+    "libswitchboard-2.0.so=0-64",
+    "polkit"
+  ]
+}

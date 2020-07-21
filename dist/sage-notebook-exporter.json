@@ -1,0 +1,25 @@
+{
+  "FILENAME": "sage-notebook-exporter-3.3-2-any.pkg.tar.xz",
+  "NAME": "sage-notebook-exporter",
+  "BASE": "sage-notebook-exporter",
+  "VERSION": "3.3-2",
+  "DESC": "Jupyter extension to export notebooks from SageNB",
+  "CSIZE": "24928",
+  "ISIZE": "92953",
+  "MD5SUM": "98a26a4b5cf1f8efeafe1012c4e5e29b",
+  "SHA256SUM": "59a0ea926b6c9c61929f212dfae375cabe2127be0ceaea3c1c9afca5292e3fcc",
+  "PGPSIG": "iQEzBAABCAAdFiEEFRnVq6Zb9vwrc8dWek52CV2KUuQFAl3B624ACgkQek52CV2KUuS+gQf/Q+13Vzmy4HEWK7GgRZhYE3XR+zQWORGWp8yfbVAHQRlhiCMh4Y0hCORyJsqDa9YsumeLD7YPTb8aFH7SsXo8E7FjsQhUdDAxsjK0pBScuLnajCT+6I9Ta+bVuR0krtNk3nufbP8LIq2vFhdvRz+4gMBv9mdUOVjqD4Xz0pVf41CNcXhRqoy5ep2k+dzWL1yg0P8XSp4uz+ot0+pkJ9xmtL69Umbj5BVjdpphqAC67f0G9g/SUf1wwjbpSOTGy88QBvTAqEFvaYKyJWECXyvumQPzZtEtkjMRAtZGpqkXymGaFjTHc/IymCur7yl66uzCb19YsSCnsfPe5kiSQke9qQ==",
+  "URL": "https://github.com/vbraun/ExportSageNB",
+  "LICENSE": "GPL3",
+  "ARCH": "any",
+  "BUILDDATE": "1572989757",
+  "PACKAGER": "Antonio Rojas <arojas@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "jupyter-nbconvert",
+    "ipython",
+    "python-six"
+  ]
+}

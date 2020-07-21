@@ -1,0 +1,23 @@
+{
+  "FILENAME": "go-bindata-assetfs-1.0.0-5-x86_64.pkg.tar.zst",
+  "NAME": "go-bindata-assetfs",
+  "BASE": "go-bindata-assetfs",
+  "VERSION": "1.0.0-5",
+  "DESC": "Serves embedded files from jteeuwen/go-bindata with net/http",
+  "CSIZE": "722733",
+  "ISIZE": "2323251",
+  "MD5SUM": "6b76dd398d50cd66b5872cc9ebed0ea3",
+  "SHA256SUM": "a2d317e08d657dfbccadb2223015b295fbb5a376407d6850fad9a2acbf7d6af2",
+  "PGPSIG": "iQJLBAABCgA1FiEEktnGzemaICTWkKdu50JoO6CMsv8FAl8B8KAXHGZveGJvcm9uQGFyY2hsaW51eC5vcmcACgkQ50JoO6CMsv9XMQ/9EvjoUTiTmAGRRim83A0OiPwkhSNFXajwkxOT9wQ8TP6zfVLt6ynhMs/4C9qhSI7ovs45IVC/Ol4k/vAoW5yr0L1G6bHKbQcHF5McMHwXP9RMt9LcfD1RyVAfI6ignSvF+QqeBhPTP1So2/w0IY9cRZZz2otNW6MdHu2e/YzWwP+b1fkqJnY4lPER6Wi69StdkK97FhuWiJ+6jOntPBqT5cogCgU9nWaJfYjQ6fn3enQUfyIlfyXg54wqsoAAKcA963i++fu+dETa/2Tm2HzJaCnWXcXcP6rJrvrFScaAorzttUNmKfdrYWsZtjiHL9Uwy7TPqJOGTMhFgeExM/Fxe1XmoV/TJqgiVcBXPKxEQDh6JiJ1IeJUno91qN61NLZlbBODWWEBwgOINTltDPoGWzyz1h+CDtEdqVaUyberX1Yk1CeSutBNiuyBGnHZU5nkxF33uVHC483pu0JQ8e3+wo3hMKN7MT1RvaJwE8nTG9ViFwaESeRVDYvnrUzoTnnKQ4DDJRA9oEErX1JLEyMRX0KWgcOP3A0S4UWDnBGWPuFviQxoO2qu2+ug+hJUaZ1wCmbz3AKR0i5JAvCrH2jaWbAEPtfyLwWnCqs45wxHQU9dPmXtwmYa9u76hTaginwwPX0HN/DbzEbtarYArvieotw5ehOj/b0DjgEKRMj66/Q=",
+  "URL": "https://github.com/elazarl/go-bindata-assetfs",
+  "LICENSE": "BSD",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1593962630",
+  "PACKAGER": "Morten Linderud <foxboron@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "glibc"
+  ]
+}

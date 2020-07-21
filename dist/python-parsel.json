@@ -1,0 +1,26 @@
+{
+  "FILENAME": "python-parsel-1.6.0-1-any.pkg.tar.zst",
+  "NAME": "python-parsel",
+  "BASE": "python-parsel",
+  "VERSION": "1.6.0-1",
+  "DESC": "Parsel is a library to extract data from HTML and XML using XPath and CSS selectors",
+  "CSIZE": "22683",
+  "ISIZE": "86619",
+  "MD5SUM": "439b88e8e007ebc6fab2a5db664e9ce6",
+  "SHA256SUM": "ab54a6f3d9719ba569de5a48af401866c1eb765348d217a1f795e9b1ce014c60",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl7FaRMACgkQeGxj8zDXy5IuCw//Z5GSQNHWboQbrgCc4J0T62jTxSrE3JSGN3G30wHdwI5ob5iespdII6EruIBU6RxWmJ0RzZNwSaGxm94uI2NXVe5y60aLtePi1lxkCZMSAZkzOxSwgqclfPbHKsMg2KdSRm2zFEmigZ/wazgNf5naPh9B8QoKSUplqAvxGxRHoKNhZS64ciJc2cn6zIumMLP5dqvepP+fgGawmRNacNj0bwfkJdPBUfZrGWyfk9u1B1KUn1y1NBr3hXmIh/+SvBsEMcA/86HAnJEa0uVYNP8UKLQgXENBQIGQA85ffUMuToDzibzRs51wXayXL4vr9Kpwf2llgPgZP59EmJD9c26pRuzcCW0bVMYf1+2c+oTC+domTZ/cYsPhCbce6LufeCXxkSgdkP0M7ETByqd0mcSBcIxzXOkFjP3O704ol4urci1d/HLGnz48yFnT4LDZffmS9Fq2kIRqohixsz61kBLbqov0g7qiPhhSiwy2PxYoKAOqLWN9ziPd69RUdUqYrkkWE/XReQTqwP18S3O/o9N7IPzNHHaqeXURI00K0ISNsaOGiHPO/GUUVnCBRlQKOr85f/rrzDecWFJSyzpyUHVGcKP9PMDtcxGcHr/zJ/3NAuoqSwRQL3NnrRMxw9pxPu6HLIw4m0BqZwSn+gmZ6GgnDwMEoGwIPFVq3AKr0OvEJk8=",
+  "URL": "https://github.com/scrapy/parsel",
+  "LICENSE": "BSD",
+  "ARCH": "any",
+  "BUILDDATE": "1589995773",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "python-cssselect",
+    "python-lxml",
+    "python-six",
+    "python-w3lib"
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "FILENAME": "acsccid-1.1.8-1-x86_64.pkg.tar.zst",
+  "NAME": "acsccid",
+  "BASE": "acsccid",
+  "VERSION": "1.1.8-1",
+  "DESC": "PC/SC driver that supports ACS CCID smart card readers.",
+  "CSIZE": "66859",
+  "ISIZE": "150296",
+  "MD5SUM": "cb1aae6c2c2eb7f30de152069a0d8300",
+  "SHA256SUM": "8dc570ac3e3408894dfd3c12b5736303cc4850ece3a181ae787306a159e013be",
+  "PGPSIG": "iQEzBAABCgAdFiEEado014/g79WWrG0EnYk+xNqvkSkFAl4h4/0ACgkQnYk+xNqvkSmHvAgAorCFSY/BmjFLhzAN45JaRUnanRX6gphlcwhGaPnJignS1pYsSsMc0ycgW4f45XDeyn14mAigUcHL9Wpic6LUrzZ4NbftLa/hFgX76yQPKBSxYlJxCL4K2Uvjnw0GAP5aOSW/HPUIgPd4gm6/XzTuYbLcy/iFHKylfoqD0VEkbCY6dey5GjV0CSZbfIspiRHAl+0k/E5m44g1OcmsApxgfjw/Hnc5NqmpybqoqbcDFOLHG9LdQH42dnUFCeHvyjKoqha33oFTdNOoiXETflyScmf7PT6C9DyB64EIdXPq8F72E4GREiXTiTuMq+5AP8AkF4gOgTsHCKRIaVkOnsFvBg==",
+  "URL": "http://acsccid.sourceforge.net/",
+  "LICENSE": "LGPL2.1",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1579279216",
+  "PACKAGER": "Bruno Pagani <archange@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "pcsclite",
+    "libusb-compat"
+  ]
+}

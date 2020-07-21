@@ -1,0 +1,36 @@
+{
+  "FILENAME": "ghostscript-9.52-1-x86_64.pkg.tar.zst",
+  "NAME": "ghostscript",
+  "BASE": "ghostscript",
+  "VERSION": "9.52-1",
+  "DESC": "An interpreter for the PostScript language",
+  "CSIZE": "18348522",
+  "ISIZE": "50987449",
+  "MD5SUM": "9874f9bab3f9642551810768989354d9",
+  "SHA256SUM": "2dfc1c929ca06f0b7a6b6c0e6a702495d171544c747b8c19b91f15f831d35640",
+  "PGPSIG": "iQEzBAABCAAdFiEErcih/MFeAdRTEEGelGV6sg8qCSsFAl5zmeAACgkQlGV6sg8qCSsNPAf/arUjFLufAWUjm9cORy70lZXBdpcD+hKZwLHlfJzQQ9LEVLlr98oN+RFFaFZU4dJilbW7tpWWB7j6tpTbEkGqxDvsWTwbDg3SP02i4yGySUF6mItdK1Cp/2c5D5H+1AbuXXvJmZTSxsye6ObN9fsJnb1rgTQ0nyzXdAcUt8x6ZME/jehWWADeF5Q0BazugJ+a5b365yjsZGFZiyAMupASj4Otv/QfUocx2Pdl6CQJHMSvRokDv53vTFvEmPCGgPnM0sUhS4RJ/X9g5k9r8eNNahzyToM/jJTOmlTOdKVziyi7LO3K2DtwMQAbdMh76i0VLp85q3yl2s7ps5BOTimK6A==",
+  "URL": "https://www.ghostscript.com/",
+  "LICENSE": "AGPL3",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1584630133",
+  "PACKAGER": "Andreas Radke <andyrtr@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "libxt",
+    "libcups",
+    "fontconfig",
+    "zlib",
+    "libpng",
+    "libjpeg",
+    "jbig2dec",
+    "libtiff",
+    "lcms2",
+    "dbus",
+    "libpaper",
+    "ijs",
+    "openjpeg2",
+    "libidn"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "FILENAME": "python-parso-0.7.0-1-any.pkg.tar.zst",
+  "NAME": "python-parso",
+  "BASE": "python-parso",
+  "VERSION": "0.7.0-1",
+  "DESC": "Python parser that supports error recovery and round-trip parsing for different Python versions",
+  "CSIZE": "145962",
+  "ISIZE": "730797",
+  "MD5SUM": "a01a8ff459e660e29a5099d84da74bdf",
+  "SHA256SUM": "e936dd32dde0407f1405b8ab71f53da7a4aa3a843076b4d4472a6cda6297b94e",
+  "PGPSIG": "iQEzBAABCAAdFiEE5JnHn1PJalTlcv7hwGCGM3xQdz4FAl6u7fkACgkQwGCGM3xQdz76sgf/V7q9LxSBUMeVmBF29YWixfSMjAn6jezsZsGOSSGfRK+n8qxv4d/ThJEimGoWtoI1B0WBRYoUUmEbKa1T5uaF4PjLjo05j7YB5iEeODV7CP+WsKtcWQv42Je3zkCreQTdqpZr8b7jM2AbOOaoyT2d2mcla7fF9Sl2t+k1SxP7RYZFw5EvPuW4UsjipCi1Ycqf9eoI2Ixn5GlzFm1Tq6+T0YRpjry2cH1ypAd4F+W0ADTIqnYqMMdOmpPTd1SDmLgs0tT8RhU73UgRqp7IYbx0nTFRmoCdGpx9TZlvnwnqmo8IMTUwD4sUI1M9L0TYrOMbPI+nQ5JJurE79G78Ac8NWA==",
+  "URL": "https://github.com/davidhalter/parso",
+  "LICENSE": "MIT",
+  "ARCH": "any",
+  "BUILDDATE": "1588518831",
+  "PACKAGER": "Jelle van der Waa <jelle@vdwaa.nl>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "python"
+  ]
+}

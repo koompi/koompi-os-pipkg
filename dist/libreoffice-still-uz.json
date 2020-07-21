@@ -1,0 +1,23 @@
+{
+  "FILENAME": "libreoffice-still-uz-6.3.6-1-any.pkg.tar.zst",
+  "NAME": "libreoffice-still-uz",
+  "BASE": "libreoffice-still-i18n",
+  "VERSION": "6.3.6-1",
+  "DESC": "Uzbek language pack for LibreOffice still",
+  "CSIZE": "256428",
+  "ISIZE": "1410579",
+  "MD5SUM": "39acec4106eb88298825fe2f26c52312",
+  "SHA256SUM": "8cbb1994407c608bed9276cde1b8bfe1225520e6005480df533d105fb767f697",
+  "PGPSIG": "iQEzBAABCAAdFiEErcih/MFeAdRTEEGelGV6sg8qCSsFAl6tSv4ACgkQlGV6sg8qCStGjgf/YG1zDX7Ujnxq/tQdGFp77kXI9JllMZzOpqSx6X+qxzshEK3bin7vbRIDXs6spbfqRjmLhiHvHjwHEtsDgRS5JuXuuGTteDBtHPHuJNfLPFfqBZWmUW2KyABqgEaal1cj/vYD3jAA70b8JAeGPSm2K85RX2JCIRq1a4xjdaFWVUa3VEqV4xGlr0KjMW81mOzboqRL7PxRnMjJvk4/fgM3AATC99iBNp/Sdv5xzOdcWIewr7uop8mLWvLIZ5EktuFD2KHeDdiN6JDVrWPCsq8aRc6SxCV2XlXZQmA9FF8xuSzIiLyS2zrjdTklnmfypyVeqirQgAWeBPYi6Xc6Bd6Zkg==",
+  "URL": "https://www.documentfoundation.org",
+  "LICENSE": "LGPL",
+  "ARCH": "any",
+  "BUILDDATE": "1588407321",
+  "PACKAGER": "Andreas Radke <andyrtr@archlinux.org>",
+  "PROVIDES": [
+    "libreoffice-uz"
+  ],
+  "DEPENDS": [
+    "libreoffice-still"
+  ]
+}

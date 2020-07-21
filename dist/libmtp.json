@@ -1,0 +1,23 @@
+{
+  "FILENAME": "libmtp-1.1.17-1-x86_64.pkg.tar.zst",
+  "NAME": "libmtp",
+  "BASE": "libmtp",
+  "VERSION": "1.1.17-1",
+  "DESC": "Library implementation of the Media Transfer Protocol",
+  "CSIZE": "219040",
+  "ISIZE": "1116461",
+  "MD5SUM": "a4420200b4ab1215bcfb853e79bb458e",
+  "SHA256SUM": "d6f9188c96598f113de1891bd527f6ab34a119ac755ad728f1310d87d21716a5",
+  "PGPSIG": "iQEzBAABCAAdFiEEFRnVq6Zb9vwrc8dWek52CV2KUuQFAl421XMACgkQek52CV2KUuRkmAf/Xz2LTMxhK3oul7wIVoOtbTzPIKYwop0whbriTPDt9CpbpWAUgrJV7F5PYm4cWm2Kxbd/sVrkKEkUqILbQf24N5uANgb2PauXwvspgbeTBHmZiB0nYPdm/xgtMZUq5H22g4ONNBpUzc4zCFSl2+tB2ama24r/XbN9Og0USJj4avues2TeKkZDHsQ1YIPdA+p+8DWOzCHYH4EVt4i4meugxmnNFX4mG/Xj/U2C6iBWcRL6mPqQ731kl/SDKxPrcmfCQ1oRhOU8AsXpD6lGZHLji64dfp0ZTViwszA5btUWuidzuWtAwUEt0DnR6G5GXWVxPpSDgUNTgIECFgDLQeraVg==",
+  "URL": "http://libmtp.sourceforge.net",
+  "LICENSE": "LGPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1580651836",
+  "PACKAGER": "Antonio Rojas <arojas@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "libusb"
+  ]
+}

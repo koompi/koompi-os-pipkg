@@ -1,0 +1,23 @@
+{
+  "FILENAME": "xf86-video-fbdev-0.5.0-2-x86_64.pkg.tar.zst",
+  "NAME": "xf86-video-fbdev",
+  "BASE": "xf86-video-fbdev",
+  "VERSION": "0.5.0-2",
+  "DESC": "X.org framebuffer video driver",
+  "CSIZE": "13651",
+  "ISIZE": "29966",
+  "MD5SUM": "3831641a73d4c9d498443406ff225e1b",
+  "SHA256SUM": "b6c925483ea7e3a1e3b01cc02670102c7abbf29ad28a566d8e4f8d3ae16fe153",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl6/rUIACgkQeGxj8zDXy5IKbg/9FRY/gVLWDkK/13xnxLPj5QCmIrDlfON0T5AuGr+EUvEc6IrGfMgs9frbOQV8YoinZQs/1ndCzdN5jnnpnTGR7wfa/9WzwNXyc07Db5ab3Itie3cwdrGHKcbb1J5lZwYnfuMiD88YTlStw9NNsR42ABZx4IWT92FdB9X+LOlKBAHPqwYlJwo+PiTi/2WZWLFPRdOko45enrFIu5FRiREchCL4lRYkFxcpJeUIepb30IS6m88uXwhMYvauoFofU3WhF8KyF3Qlm5jxSDdie+7HRSUPBBHY+lRz5aQsBPoQvKNWGTqQA/EmmfJha637DEwAhZMWU1ux3AlWKKgofWiJ3PIRc3SQr40dZyUnUcLd1tS2t8DM6ziHeHKOphf6K7RZy1p/qGO+4QzXdstSSBf3RZhiL+V/uR4125IWvNgZDtW6ZMSNbDIDAmQzOBLy2hGwPwNr0eT8zXSPHrLLUpAcQAaLm0vO9WyERxOPK23YaEb9ySQuXPqZoW8wAZdNeDrJTgTrP5XEvMG5tWA+1MC39U/LTScywc2HmAKRGtqe7iCJi4He5/3wd+nrt/bXc39yJ1TLL22gHvodC/1+KpVG1iJUG5W/OGLjzfnagcO+07tU/VEcJ0N/YrFWKMFCs4dR5evFrGELK41Pp/EDMyTAh7Copf+pkOApLODImBTKjK4=",
+  "URL": "https://xorg.freedesktop.org/",
+  "LICENSE": "custom",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1589620006",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "glibc"
+  ]
+}

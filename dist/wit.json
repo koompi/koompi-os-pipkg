@@ -1,0 +1,27 @@
+{
+  "FILENAME": "wit-3.02a-1-x86_64.pkg.tar.zst",
+  "NAME": "wit",
+  "BASE": "wit",
+  "VERSION": "3.02a-1",
+  "DESC": "Wiimms ISO Tools",
+  "CSIZE": "1014113",
+  "ISIZE": "9549854",
+  "MD5SUM": "1d3e87886790ba7d69fe0e47bf9ea620",
+  "SHA256SUM": "f8495f3d6f956e8997df2a7acdcb388a5cc73ad316feb07c784e8152becbe31b",
+  "PGPSIG": "iQEzBAABCAAdFiEElDfdOBWnqRaePTlGr/XZUJi8b/UFAl7RRRoACgkQr/XZUJi8b/VLLwf/Q5Qw/JOMVoozQnN/uNrltBdj3fbf3yvhDNuOxk3g0c/4ZZjf2/LpG2zvsJ+qvmHQjhjLlVTlXnYoN/D+sT8NGEIQu6b0DTpe83fZo41V90jtWSvHqwpoT87Lqr3NYEP4MKgpBfWhuVGKA1e289Jn6FyEccj/ZE8BHAjn1KVQQnB0sZbFta6K2+Pl313UqZzJHiv3UGqyAWb/ryPyMxGbZKKsqUkiTCTHKUbEV7jKYwHOqAKoThNUKHL+9JtyiKhb5y/BcOFRGzgIWj2+4jo7wz0VoTIUviZ4ofz/kkhyA2Ayeui/Gb+/X+CxHpoDaV8DVTFdRFfEbHXlxnfu8m/HMw==",
+  "URL": "https://wit.wiimm.de",
+  "LICENSE": "GPL2",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1590772971",
+  "PACKAGER": "Maxime Gauduin <alucryd@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "bzip2",
+    "fuse2",
+    "glibc",
+    "libncursesw.so=6-64",
+    "zlib"
+  ]
+}

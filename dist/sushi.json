@@ -1,0 +1,30 @@
+{
+  "FILENAME": "sushi-3.34.0+19+g331d9b7-1-x86_64.pkg.tar.zst",
+  "NAME": "sushi",
+  "BASE": "sushi",
+  "VERSION": "3.34.0+19+g331d9b7-1",
+  "DESC": "A quick previewer for Nautilus",
+  "CSIZE": "85538",
+  "ISIZE": "337044",
+  "MD5SUM": "b721b9b9a518a7b9c213f9c53b6fd97c",
+  "SHA256SUM": "28bebc3fed4e1a3fdd5d2adfe4201ec46271a02cdf8772927f6a7c6c50d41c9c",
+  "PGPSIG": "iIsEABYIADMWIQQGaHodnU+rCLUP2Ss7lKgOUKR3xwUCXv9pHRUcaGVmdGlnQGFyY2hsaW51eC5vcmcACgkQO5SoDlCkd8ehYwD9GwEcHqwuXa7K5Gg+8Tqr1XwAQeyN0kP7WQk7NTBWEOwA/2KUycCyfbIgaAq4VkivbcB2VPZBhf7hp1Bo4YCpe/kK",
+  "URL": "https://gitlab.gnome.org/GNOME/sushi",
+  "LICENSE": "GPL2",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1593796694",
+  "PACKAGER": "Jan Alexander Steffens (heftig) <heftig@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "gtk3",
+    "gjs",
+    "libmusicbrainz5",
+    "webkit2gtk",
+    "gtksourceview4",
+    "evince",
+    "gst-plugins-base-libs",
+    "gst-plugin-gtk"
+  ]
+}

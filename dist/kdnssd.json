@@ -1,0 +1,24 @@
+{
+  "FILENAME": "kdnssd-5.72.0-1-x86_64.pkg.tar.zst",
+  "NAME": "kdnssd",
+  "BASE": "kdnssd",
+  "VERSION": "5.72.0-1",
+  "DESC": "Abstraction to system DNSSD features",
+  "CSIZE": "316132",
+  "ISIZE": "618941",
+  "MD5SUM": "66b81249fee18dcbf0c2e0a38d22f884",
+  "SHA256SUM": "39cfcce8c81f60cc5dd4caddcd9483da31de210153d79ace2c2f7227a754e4a3",
+  "PGPSIG": "iQEzBAABCAAdFiEEFRnVq6Zb9vwrc8dWek52CV2KUuQFAl8JYbYACgkQek52CV2KUuTsPgf/Y2Y0jeeCQ4vIfE7KMm8za3Ys2EJa5BlnjI+IGfHSTrmeuk7t3F7qpX4OagPBrTrt+iHgg9YFhGxZpopLOHnE2AEyNXs6mdsozX42AlZ5wpuMqfTmdm/PgJ5vMH/bFaj/53YBtv2Izq9N44+6+VSyHPvUuigSch6uEDJBbLqAaJ4XKHHOvqcCEB8IlXaF8/sYrP0tasNNQ7x6y5a4czdzFycrz01KaDPbwXA/5+rIk5bV7rWjvrkDxe1RKDW55jxzo0k5PdhJ837k8faY/UMlrxBbAN1TKwtQrNBp3OgfHTJMdF1Daa9eeBdftLl4s4XceRQMXr+1MUpIoNhKKeOdNg==",
+  "URL": "https://community.kde.org/Frameworks",
+  "LICENSE": "LGPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1594203372",
+  "PACKAGER": "Antonio Rojas <arojas@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "qt5-base",
+    "avahi"
+  ]
+}

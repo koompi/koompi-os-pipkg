@@ -1,0 +1,25 @@
+{
+  "FILENAME": "ngircd-26-1-x86_64.pkg.tar.zst",
+  "NAME": "ngircd",
+  "BASE": "ngircd",
+  "VERSION": "26-1",
+  "DESC": "Next Generation IRC Daemon",
+  "CSIZE": "191605",
+  "ISIZE": "577057",
+  "MD5SUM": "c1ab1d66fca98fd9996cc942ea9d3ac4",
+  "SHA256SUM": "5c395a66005ce6a440aabb110143aa6039ab760368eec77015b26eadca4e7287",
+  "PGPSIG": "iQEzBAABCAAdFiEESMOx8w3dD+Z+UW0WOW4+JbqxQsEFAl7xGYsACgkQOW4+JbqxQsEPrQf7By+y3jzYtU0oCqhvJl7M2TE8aSGI/UBnKcGMXoVknzKRd2f1AOnZy1NmOz8coka4E2+UlSdNThI7139L2r1lnDvYgKvy01W3SLA/VxV5h0z7kt9k5qBOZt0H+bocE/GZ3st8gPeHHgD/dyrvDvwDiWRxlpwxxSbiw/CsX9nVj5/tT0GhzfGO2hFeCvrIYO6GKjzd1intjmi6yTYR7Qsgqiw47/Lc8we7wON29aYUfdnOgDeGk3SIA8ytU/WG7lMz0ewndx2UE23dlr5M8tf6pyWpIRNM3xNIN+jGBWsZ5cJRH9fSo1RB6PLNvy7DCn8FnCZU8Xutz7QJbSJHQ3U/4g==",
+  "URL": "https://ngircd.barton.de/",
+  "LICENSE": "GPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1592861290",
+  "PACKAGER": "Kyle Keen <keenerd@gmail.com>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "openssl",
+    "libident",
+    "zlib"
+  ]
+}

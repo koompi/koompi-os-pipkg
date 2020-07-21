@@ -1,0 +1,25 @@
+{
+  "FILENAME": "finch-2.14.1-2-x86_64.pkg.tar.zst",
+  "NAME": "finch",
+  "BASE": "pidgin",
+  "VERSION": "2.14.1-2",
+  "DESC": "A ncurses-based messaging client",
+  "CSIZE": "128301",
+  "ISIZE": "432983",
+  "MD5SUM": "cc9f651c481bc6d6bac7ff6bd5c87a73",
+  "SHA256SUM": "e57c426aa54ae0a5f31890bcbffea96232afdbee55931eb137797fd14b5e5e1a",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl7vi3AACgkQeGxj8zDXy5JY0Q/+L2K9ZMtg+mZHFKiGjui3zKEr4Xb+5t/qbl6UAYl0ql5wuS10l0P52WDUaztDP7VCcONKFmNfxney7d/kMpFfI6PghOODP71MlXwvyYsZKqxgQcMRH7IC+8ViXOPKlzEhROIlTDDvJw+cL1kv+GbjAxHwIYrwINfNfTeNjAkaMZkWL7gIA6NW8pu/l3gl8C+FmzeVjqiZsgwCKG3NCxGUEssez1qalob0LUlvZ2EzmlYH2eyx0zbz5BTmNn68I6/xszJAigmRuqScuR9ZJ6rfqbVQfxidxNvnxsLKk9NSMYgTD6C6pZUzvUcG2SKIiD1BdDBR/UvKkH5sUVqWvOSVuUO9w5Z7xpVv/FdwX/IzIvF5nDs9PWR3BTSmsTQV6eDWZi9boRiIfxIsCG0b2N5GC/dVBPLKCKXDLtUJGt4sOhHQ9yl4T6vdCqAwDJqDVrDNIj2QjFpW70C2d/KW35YZURrSWUfSTrYfBgFlfOudh0amp2dQKV77bfEIbmxvjzPk1bwR2J/z5j/+v3cPD+taU60wNPxLwd9aWkIT1Rix/Tr3QKu+whA+pTyV9oppDp833quNQwDYmyt6v25nGJ8S8Gdr7F23RtxPQeGz9dEMeXb4IoavnwEjNA7M8onuN8U1Kc/ixZUvRKVuU+VToXD4uyQOzR7zk1qfURRH6Hm9kUo=",
+  "URL": "https://pidgin.im/",
+  "LICENSE": "GPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1592756458",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "libpurple",
+    "libgnt",
+    "libx11"
+  ]
+}

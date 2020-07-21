@@ -1,0 +1,27 @@
+{
+  "FILENAME": "openmpi-4.0.4-1-x86_64.pkg.tar.zst",
+  "NAME": "openmpi",
+  "BASE": "openmpi",
+  "VERSION": "4.0.4-1",
+  "DESC": "High performance message passing library (MPI)",
+  "CSIZE": "3375683",
+  "ISIZE": "10541182",
+  "MD5SUM": "7114b0e488138544d6edf8862011e39c",
+  "SHA256SUM": "77b5687f056cd03443ed64946260c2e037315723313e8c3888ca740a81582015",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl7mDLsACgkQeGxj8zDXy5ISKw//UuCPHT+cFBmlY9Ic+WrZkEKNStCyjfesB/67pUNmvODrTXBHDvcJrjNQaegK1UwFoiYtZANRGgPfJcEtQ2EwiIYxjSZeG3XHrBk/XOMvaQn2Vv4/v0xLkap0PGMHsc0W8juuOai+56ddAOJHupTaE0oyJWPe57XEXdDC8X61MCZHFtvNkoDNYWzm1E9aE/7FR0RzKZS0nQ1A/HN4bGqiTLN08R7tnWpItggzh400aLnIhwR6i1R6QWGxvTN9g4P5r2fwkgsAZt4nIzLlz4rgWfBOae2mPjYpWLfWv6+VV+9iCPyxjIL4f/SWjxX+DWQknk1FGTfn64zqXZZXKXTEePVGeR5SebqSI/36JtYHyau1jY9/Pr+MtOcP4zU98GnQiECFdcioJTZNvwf1ahX17kjRp+4PjmqwXEQ+Lvj/y1kdPo4j8NVOcl56cCX5y3PkOaah7d1mZbEE+FAe47m/4IJ2T2Xto5kSza3g8T7GLgTC//ZhrugbDgYyHV3YBxpyQ4dO66cwPxXVmkCFCEOH5E6uUpAP524YeL4djzM9G6tiUcIbpkHJMvmP2nFpvgKiQ9L3nQl2prw1ACdIGB19qNK1PR422b8Rl9H3PCzqTirkYIj2YLHRdbZNbh6KWLTnr4cPG6AueXhVAHJ+RCcSXQjvMjDCdUR2mOfWiaHF4lY=",
+  "URL": "https://www.open-mpi.org",
+  "LICENSE": "custom:OpenMPI",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1592131332",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "libltdl",
+    "hwloc",
+    "openssh",
+    "zlib",
+    "libnl"
+  ]
+}

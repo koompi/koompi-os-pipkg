@@ -1,0 +1,23 @@
+{
+  "FILENAME": "firefox-i18n-pa-in-78.0.2-1-any.pkg.tar.zst",
+  "NAME": "firefox-i18n-pa-in",
+  "BASE": "firefox-i18n",
+  "VERSION": "78.0.2-1",
+  "DESC": "Punjabi (India) language pack for Firefox",
+  "CSIZE": "543170",
+  "ISIZE": "606175",
+  "MD5SUM": "dac8ffaa075b33b08251458264bc6fcb",
+  "SHA256SUM": "e20a38911f01717905088859f6f2392b4030dd3b372899b455f51231d824c43a",
+  "PGPSIG": "iIsEABYIADMWIQQGaHodnU+rCLUP2Ss7lKgOUKR3xwUCXwelqhUcaGVmdGlnQGFyY2hsaW51eC5vcmcACgkQO5SoDlCkd8e3CwD/Ysqvg18YbUr4BpsBV3JIo/ix3xCJz0E9Kw94gS5npEIBAOGk5nJANwLjOMHtdJaoP1rCB003QlswYbiP2cJXFIIE",
+  "URL": "https://www.mozilla.org/firefox/",
+  "LICENSE": "MPL",
+  "ARCH": "any",
+  "BUILDDATE": "1594311501",
+  "PACKAGER": "Jan Alexander Steffens (heftig) <heftig@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "firefox>=78.0.2"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "FILENAME": "python-linux-procfs-0.6.2-1-any.pkg.tar.zst",
+  "NAME": "python-linux-procfs",
+  "BASE": "python-linux-procfs",
+  "VERSION": "0.6.2-1",
+  "DESC": "Linux /proc abstraction classes for python",
+  "CSIZE": "25545",
+  "ISIZE": "121675",
+  "MD5SUM": "72f093b79abe595a1aae88dc6aa18fbe",
+  "SHA256SUM": "2239dca2a4ea3fce434dfb7c775eb2af59dd5cf666025578b84c954ab7ddcf41",
+  "PGPSIG": "iHUEABYIAB0WIQTH54SUZv4jWDQ1iDdyWHNLQcMVSQUCXvHMYwAKCRByWHNLQcMVSey8AQDL4DBO+Qsb/Bfd2Lb9ukZfL2+N9B2oPOWgiYVZrncrugEA4jZaOouBQUnmPAvUk0cnGgkKwgNB5KBmoAPg5UyQmQA=",
+  "URL": "https://git.kernel.org/pub/scm/libs/python/python-linux-procfs/python-linux-procfs.git/",
+  "LICENSE": "GPL2",
+  "ARCH": "any",
+  "BUILDDATE": "1592904661",
+  "PACKAGER": "David Runge <dvzrv@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "python-six"
+  ]
+}

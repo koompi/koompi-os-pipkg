@@ -1,0 +1,24 @@
+{
+  "FILENAME": "shairplay-20180824.096b61a-3-x86_64.pkg.tar.zst",
+  "NAME": "shairplay",
+  "BASE": "shairplay",
+  "VERSION": "20180824.096b61a-3",
+  "DESC": "Apple airplay and raop protocol server",
+  "CSIZE": "134189",
+  "ISIZE": "415678",
+  "MD5SUM": "8b575b42fcf42fc720073e1479a7969e",
+  "SHA256SUM": "60c3b2823b2766efe34486227a4d84bd244999795b83452d72601fe33bb34308",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl8EpysACgkQeGxj8zDXy5KMFw/9G48P9JDwnfuDqQeUikpCs0jkQ0fbL2NHl3I0Y26YCeWdW1GVlBCsz1T9+onorU2ixBy1D8g5NtAjFf6CVx4S0baV9Ro47bFtcDkImaOooR4M5tfrFC5ODoyvXJXuUZyGy1asBuyDpBKFNB0ky7B7glIMq9+dwP3+TFTW6r/5DSEZjcq9d9F62ntnU79+8kIxOo0bz60d2c6/oHHaMHXTKEAP1KpZKa3yrvl2CXj9DOTgCk1nFMouQ804F4syis4xuYd0AOKq7JO0YkoKbhYvju/FwyYJGzJCA53yAuNTW2FB/aaqxyA5e7fiu1W4wYmMT0cOfPlqKXOkR2DbplugQgNg6CN5eKqmA/6mA++a4PebSa9z21I4AFtaaT9UKwbcyx3qM/xVK7YkOGvcMBptA5QPu8pKjLsbQk6NGxp0p5ibRUqkYuqBGt4eQSbor5OQHdjza1/HISsfVLggeu0iZY/V8RObl6yog0xGBNb2df6Tiy2Ru2dINuGvPLSo8iUmWi7Qo1SgMG5OGCrQ9eDqA1jFr+S9d/Ie0oTtn8TVhY1U38T543R3edFm2iBGUB1ZxWgoQfi+tZZ5OefdRwKnMcCYXyqLxTG03vyq3sbvOZRfru5ylm1W/1ogS846oDHn60f94jzwUTuJa8d/N+p7nkOW50xkkh7DQEq546MblQ0=",
+  "URL": "https://github.com/juhovh/shairplay",
+  "LICENSE": "custom",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1594140420",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "libao",
+    "avahi"
+  ]
+}

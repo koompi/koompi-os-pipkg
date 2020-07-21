@@ -1,0 +1,29 @@
+{
+  "FILENAME": "librime-data-0.0.0.20190122-2-any.pkg.tar.zst",
+  "NAME": "librime-data",
+  "BASE": "rime-prelude",
+  "VERSION": "0.0.0.20190122-2",
+  "DESC": "Meta package of preset librime data",
+  "CSIZE": "2097",
+  "ISIZE": "0",
+  "MD5SUM": "bd4f788fe458ab6f1905b9b2d32ffe8c",
+  "SHA256SUM": "0f591684a1589aef8f1bfc2bafb80f45ccc7cf9c45c61025bb3d23641760dc99",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl5s1dQACgkQeGxj8zDXy5KqDA//RtOlzg4nNITynp9EpqDVmVkzarcd3i8pr+ZKGDrCMqiwV25i2U71FO3LnV5QNS4phC3V2GLNN8eGeZ8cIFxm4DXE3ocMBWX1OgOSkvnE3E8gIwjnEm4Xz99AxVba9jn1r59tAgOSzcl4BJPpsiFj7nBzGSvUrd95IJffcxgH9j++EcOXG2vkK4RgRHbaBp4iquWhKoALa7ipNUE55wZ599DID7yBtE2D9Mx6Di2eaxwu2c90d4xYBwRYYO6KLwvUyGQ7WeA44tGiTho76dhddqEiG0NdLPYGrCppY5IF2pcLInT3DXSrzIx8ABXv+z1LxT/1HxHnU0Z4ce5+KqMjgwOmZ5lFGxFEHmexOruyppXFHEvvfL0Y8HMiwynEuXivy37J5YwI/QndHhOD3D9mwqMiaMQSrDaVsEEyB61eGudhfc67Qajxv1dBV41io05/qsbkR1Z8xkZ0Pamv0ceYqq+aoltmFB+8XFtmZDajwNabs3T1NqQIG2tj/Ca/0ILvnSveE+uqjkY0CblW1k0aLuOXL8gham5ovzKBIRTgNOuh/IXaNSBUkgJUJlEU9H2T0QQq0YwIdLhDVapsIhffl7kM+VBQO80J7UnLlm4KHMTJMXY9B7lt1QvL6i9T0uB1SCLjjMhwjxEP0uggSAOKA8Ms1p0+yiZrqa6hgHLFLEA=",
+  "URL": "https://github.com/rime/rime-prelude",
+  "LICENSE": "LGPL",
+  "ARCH": "any",
+  "BUILDDATE": "1584190865",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "rime-prelude",
+    "rime-essay",
+    "rime-luna-pinyin",
+    "rime-bopomofo",
+    "rime-cangjie",
+    "rime-stroke",
+    "rime-terra-pinyin"
+  ]
+}

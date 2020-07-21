@@ -1,0 +1,24 @@
+{
+  "FILENAME": "vifm-0.10.1-2-x86_64.pkg.tar.zst",
+  "NAME": "vifm",
+  "BASE": "vifm",
+  "VERSION": "0.10.1-2",
+  "DESC": "A file manager with curses interface, which provides Vi[m]-like environment",
+  "CSIZE": "673464",
+  "ISIZE": "2157830",
+  "MD5SUM": "3fb6d5d52d0cd3fc906c3d7d04e088a9",
+  "SHA256SUM": "0b8fe0a89271cb941679607badaf49451b38319377f8dc7490b4e3c9d602df3e",
+  "PGPSIG": "iQEzBAABCAAdFiEEhs/8qRjPOvRxR1iAUeixSKmZnDQFAl8E6Y4ACgkQUeixSKmZnDTgNwf/ePq+WIEnZp1uQ9BpiIci57g2iL6hdHR1SC9N/9dc067WCbaZb2489NLLL6cBLDAhGLJ11H/hHXvZdAn4R+8fF9urPGZupnyHdVDMtkugZ72lM2H7eoMslEB81DwlVq0WlNwfLJEp3Us20w+GEJGFjISlt5VrySFIuAm2f2gNix+dcvqM/IsTufi90dLPNk0AXl1esHHf7kSuD3ted5Dq9M/g1RtHhE+R26V7hqlUVqKmbcmnRlg+1iL3tob4cV+5sBky51745YDRbPoMFZYg9klWoC/o7U5U5IEjoqJLFLT2Ctvltej+8R/SGj8v+6c9/F4D9knB8X8kTP6MoccpWg==",
+  "URL": "https://vifm.info/",
+  "LICENSE": "GPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1594157410",
+  "PACKAGER": "Evangelos Foutras <foutrelis@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "ncurses",
+    "desktop-file-utils"
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "FILENAME": "jq-1.6-3-x86_64.pkg.tar.zst",
+  "NAME": "jq",
+  "BASE": "jq",
+  "VERSION": "1.6-3",
+  "DESC": "Command-line JSON processor",
+  "CSIZE": "231849",
+  "ISIZE": "706775",
+  "MD5SUM": "e0b8ec892fc093a0d455346e55f480cd",
+  "SHA256SUM": "6e0e19b64049d5a23496c73fe64e8bb5196a75cbe8b86e8caa61b88244bcaf86",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl8ErX8ACgkQeGxj8zDXy5J1mhAAwcUzWHn7makFcbPmIF0SJ/eo8X4TjkiUkmBSyikCQGIxV7y0DC0R7eIhjxuGdNfi7ac198Vectp/8CZIYQuvNuDcxB7jgzsCYudVEdZOw8sfw1+Y5xDdkmRk2seFzMaJoVv5IfGlecQzaVcOi53SSO/reSVS/JHbs60gHd5iIs6/A920zlDRX7qOoPsG/a51ASt7lGMwjU3EZVgWxIupnTv06gvpfMMEBi38k2fRY+EQn9xtDR7Dq7C2z1udCgPpEXam4dzGy6j5FTNRKJ4tCkwtJkV/lau3P4tgb2C1Gu3UwFD4hKFjs6SknEX7uptCEyjJwoiFkcSbNLOpImknhfe4DJUaoVHVB5c0ckE0H3oseFDpnnrg/93q8p1Be3oJhIzWWC0Je7rptbfFIDn2CHD6Dbzyo3ZZ986qQWbbY3a9eYmJkIDdIFL9fohIGVew6d/mvf7ZJXLFw4mnkpea2KHeSUygTtw1ZDIuBt6aH/qzF9NJACdCJ7k4/7rqWTlcWLiX25sP4BsOiZQqHaY5AUS/LANVQDiDP7FPcZnv2KtAR/HgymrjgkoHdPBmA6RsMwGnrZRmE5LjX770C5x5Ry/7W3EIXXYdD0sOrpVzw8HUL50EspFyJzL8V3hYhaDaV4zKRLC0XLOYdX1ZiN7bRko1gpyT3OTOV3NlcJ3AppU=",
+  "URL": "https://stedolan.github.io/jq/",
+  "LICENSE": "MIT",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1594141988",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "glibc",
+    "oniguruma"
+  ]
+}

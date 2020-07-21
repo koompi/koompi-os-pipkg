@@ -1,0 +1,24 @@
+{
+  "FILENAME": "perl-marisa-0.2.6-2-x86_64.pkg.tar.zst",
+  "NAME": "perl-marisa",
+  "BASE": "marisa",
+  "VERSION": "0.2.6-2",
+  "DESC": "Perl language binding for marisa",
+  "CSIZE": "38432",
+  "ISIZE": "144117",
+  "MD5SUM": "9fc7fe6900fc6ec579771251db7c66c7",
+  "SHA256SUM": "4ed2d96692b2d9aeacd0780c429460fb170b257f62476026b5aa15b5a945ee2c",
+  "PGPSIG": "iQEzBAABCAAdFiEEhs/8qRjPOvRxR1iAUeixSKmZnDQFAl7vhWUACgkQUeixSKmZnDR6+Qf9GgHOcX3HoQc5it7TAnWyy9rvn9XAuxDW+gOGF5SZJMwpWgF19DLdsQSmwZHrXLTIxwR0wjBC19NwkOGsu+/s7Z+vyycUtt72WTjdSRSuxHdTbguly6ixKXylYFUWxUe2jKWhNEvZ0gCHsJjC3UQ31lSihoHLuvxRZi2Wi6hbwtdXntHIz6V3e8zz4Chgd+/ivYsu9Xcg/bmw4czybm3v0Lw8Lq/TBx6bopbblC3SVl2DKtbnMH/t2S1rTsoZra0rLl/yQKoikf5fteV8TSQVGKIvaOuf09oFxnrEbGvZYkQAY0TCRPeK47lQX2Qx0NKCMmdARqyROeRJWFv6IGXPXQ==",
+  "URL": "https://github.com/s-yata/marisa-trie",
+  "LICENSE": "BSD",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1592755464",
+  "PACKAGER": "Evangelos Foutras <foutrelis@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "perl",
+    "marisa"
+  ]
+}

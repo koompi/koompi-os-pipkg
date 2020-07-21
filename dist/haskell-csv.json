@@ -1,0 +1,23 @@
+{
+  "FILENAME": "haskell-csv-0.1.2-18-x86_64.pkg.tar.zst",
+  "NAME": "haskell-csv",
+  "BASE": "haskell-csv",
+  "VERSION": "0.1.2-18",
+  "DESC": "CSV loader and dumper",
+  "CSIZE": "17960",
+  "ISIZE": "58082",
+  "MD5SUM": "d63db6b5814651cd792ea18e22b2eebf",
+  "SHA256SUM": "bc48b32e14050833b2fb9d4c5627850ca81d5dc7db3e183602b7ebd0d1fc5d21",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl6hcP8ACgkQeGxj8zDXy5L22xAAlcy7XY7+/sfgjSZfe1Ze70sceOD/6GkI/0aHbj0GrANCe+0/kLLjb0vhhTluNutoTR4zAJCU1Ft7Iz4DEnexPWLycYseiR86Gmj4xK7jzo+4ccaRsKkCLyRNV7WJrSmb8CT6MJX+zxtZI2kmSG+jVcUOxIFrWN/stdYdvAL5qjOJ+my6PVPy4GH/3C9zuExzUH3+Aqd9kjzc/kx91BM7LBPt9hKntID3A43Av7uFOtY1ZLwYOt3uwyVeioyijJihruc1RETeJr0qJoF6VF8lFfVp+IfZuWPE9/igCsLUehwgFFc1p0gR+fhz3adFxyrNqHxxB85TB/Sho3B9tRqdYGL66QuApdqwrPRxf4frV/T3JgWlteI23RY6fEq282nJwHcHOsMsQAWGGxpuINoyDfRnk12aku8N6dFGkD7n9Rg+lcSLNu6+2WwbD0zY94nOrG9YS1wIOsw3vmQhKa88TM/cosKKyBQhRwO6N0nWQDx9bKqhwEVyydslw3B9knj3jwxJN88eZei2T2ZUk9P/PHLSaQDw0A9tmrh04Zoio6WmsEkdQp67WLOJzTx/zS5NbWg1juvpX5EbZYDaw2XcXJjD4hiiyrOj2+YJRYNQflu4W3JlNnm6Y3zDiJS4LqOUhLEgDxEctIpd2OXiCsylRMx/jSSeaSZmie0Y5J0ag7Y=",
+  "URL": "https://hackage.haskell.org/package/csv",
+  "LICENSE": "MIT",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1587638442",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "ghc-libs"
+  ]
+}

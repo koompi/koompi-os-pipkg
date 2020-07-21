@@ -1,0 +1,23 @@
+{
+  "FILENAME": "openjdk7-src-7.u261_2.6.22-1-x86_64.pkg.tar.zst",
+  "NAME": "openjdk7-src",
+  "BASE": "java7-openjdk",
+  "VERSION": "7.u261_2.6.22-1",
+  "DESC": "OpenJDK Java 7 sources",
+  "CSIZE": "39982402",
+  "ISIZE": "45222187",
+  "MD5SUM": "b3fcddbc38726ab77300b5229eb8b8eb",
+  "SHA256SUM": "4e4d4d8c8b9accb4b945787273d55de453a92d7eb1cfbe1067aa151c76b0f3ab",
+  "PGPSIG": "iQEzBAABCAAdFiEErcih/MFeAdRTEEGelGV6sg8qCSsFAl60CwIACgkQlGV6sg8qCSsEuAf/f4ewJayk+jgWpushEhYGe9NkVO8b84VauoBnZ17dwbWo7zJj8aJuaOoAlOUQKzibKD48Zfk7nxlcEwDFy5CPMzBEAq+xBHn8Ff8pgUHPE54cKkV2/LrczAadeLDWkYTqYzG2RCpqQ0ODA4/6B8dp4JRDZitIe7+/aEdgvL52rzNbMYxARMcuO38ICZkEbFqOlzbMewZW4BbaJsMFgCTeHFhJYIgDyo1P391Bx2IYSFnXLguMc2QPEVipVq0qKqmuWWnSeOgOSfRZUeuon9M2Q9Xt2gDoxiPJZMAxcKj4pCrtqPHR588Lt5hBD+Lej4Oh40QR8uKJEuL/M35HlO3alA==",
+  "URL": "http://icedtea.classpath.org",
+  "LICENSE": "custom",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1588853588",
+  "PACKAGER": "Andreas Radke <andyrtr@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    ""
+  ]
+}

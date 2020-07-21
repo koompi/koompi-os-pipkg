@@ -1,0 +1,24 @@
+{
+  "FILENAME": "xorg-mkfontscale-1.2.1-2-x86_64.pkg.tar.zst",
+  "NAME": "xorg-mkfontscale",
+  "BASE": "xorg-mkfontscale",
+  "VERSION": "1.2.1-2",
+  "DESC": "Create an index of scalable font files for X",
+  "CSIZE": "24900",
+  "ISIZE": "52821",
+  "MD5SUM": "c7a495b42edf825835887b72e40254b5",
+  "SHA256SUM": "56b5741f690092866517bc90726f50ad7fd1e9c335986c3a4cd6cd4a362ab7b9",
+  "PGPSIG": "iQEzBAABCAAdFiEErcih/MFeAdRTEEGelGV6sg8qCSsFAl4kMSgACgkQlGV6sg8qCSuhDwf+PFWFLOV9NR6MTIvSTvktPWg0+PVTKwB2pqJY/xezHtxlk5hSq5VesrxAgzkjUChRHKGtAirK8EnoS5GOsO+yOkBCHCTLz/W0iQlT27SWM5Li7PN7xD+QgC1lBBVkYeF0qHAdoboc+3xKUJbW+vpkObIZaqWD+/1N1d0Yunp/fxgMIxtSIwBJW7f6U7s1Zcf+IvoCQtSrbC3Ppihui3m5pCkp7aIx83mNl4wQ64fVJn5o0gAHOz1swdBw3udrKSUU8W1je/dt+hQcUGyHblsMzg60ydVbaIaSi0A9LrTCYu/tZW9CY6KRiOcCntbKRnwF0joKFiRuFoGDbiuRumVpaA==",
+  "URL": "https://xorg.freedesktop.org/",
+  "LICENSE": "custom",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1579430153",
+  "PACKAGER": "Andreas Radke <andyrtr@archlinux.org>",
+  "PROVIDES": [
+    "xorg-mkfontdir"
+  ],
+  "DEPENDS": [
+    "freetype2",
+    "libfontenc"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "FILENAME": "tesseract-data-iku-2:4.0.0-1-any.pkg.tar.zst",
+  "NAME": "tesseract-data-iku",
+  "BASE": "tesseract-data",
+  "VERSION": "2:4.0.0-1",
+  "DESC": "Tesseract OCR data (iku)",
+  "CSIZE": "1637818",
+  "ISIZE": "3797385",
+  "MD5SUM": "b511e47e6d492d830e386b6a8b20350a",
+  "SHA256SUM": "efe8f7efbbf7e0960264b9b38ff72e5f12c5fafa418f61315a77f9b67fcd57d2",
+  "PGPSIG": "iQEzBAABCAAdFiEE5JnHn1PJalTlcv7hwGCGM3xQdz4FAl78dLcACgkQwGCGM3xQdz5vPgf/W69lDL3Mt7GVUvRzkJYQmiUUf0Z5NRvsAFrUd9JBQL2plIPJ8I3pIMumyKaxJ4n+E0JLwWELhKTmn+xt4+DMjZWuVW4nU6gajnNNPH1PQwAMetAmJCki085BkKRQkAEVec6CUCNEU63tjrrXANjZczVFpejgiMTMvP6MTV9bdY3q5r77O/JWKJKGBw7+Sn2/9BNAFqAIhZPSvirhTwRgRRiPwnKdtXuaux2ES347RMZf1gPDlnrHhel3D8knAwxFvkjIX2+TfdJb02kmtN7EZeiLE3su9MflFv5seoBGQbqK9SbkkCrUB1jl3JNdwKLQ+sBN1eev+m7y5dCy0/Kxqg==",
+  "URL": "https://github.com/tesseract-ocr/tessdata",
+  "LICENSE": "APACHE",
+  "ARCH": "any",
+  "BUILDDATE": "1593601400",
+  "PACKAGER": "Jelle van der Waa <jelle@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "tesseract"
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "FILENAME": "perl-module-build-tiny-0.039-6-any.pkg.tar.zst",
+  "NAME": "perl-module-build-tiny",
+  "BASE": "perl-module-build-tiny",
+  "VERSION": "0.039-6",
+  "DESC": "A tiny replacement for Module::Build",
+  "CSIZE": "9976",
+  "ISIZE": "12617",
+  "MD5SUM": "8169f47b380c701170a8d5d644b5ea46",
+  "SHA256SUM": "f3f9c163b4bef1bd94a5f442b68e9a33b57402d79aa95fa4d5beae5101000f68",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl7vPOkACgkQeGxj8zDXy5KvhxAAm4cJn2rJNMLKICoTiSQB2QOarvjfwineqv4w6BOJqOqZ2UVAyaMxRpp5Qm2+LkXSQHlBs2vcHAXje4U/w72/LOOUkhM2nEHqMJxm+5gWpZq7g57nZfjpOtaxnVO5ZcdMljrC7H+U5oNERtnJVDmPjphhkYMp6VP6yKhhKVizcKrbK2E1MadABl7UJaEQ6hFjtyGLKDiYMYW5HvYchw92JOgg6TvtRkUX/cPmpqU5/jWVLZbDGtwKIvGHLdlWRmdO+jAsCgruUnGUhEfPaSNOPQnQQQgpItd7ETqD0rhznm59xuHM2p16Ut0lAORFHQCkbBP8TtGa7w0pT/kh4YDQJ64WvvKtQxT40zG+CqqrXGNXjJS7IdCkhjIY2VBfZYodKgNF6uGOjOkPwzknHhSGD9slXehkipl+Vr46t/SokqLOwIl0uRmV17ad2LXQj7mR8NDpbeGzPcsLUfnI1Jlavq9WkHRCGI1dQ+yFv9U/VzYllxoyLQym4Pa6t2o5MnnFu8jZ3AfZyuV79FeA0a5J++yXSfhak/zhExdHWa6uqyc8eHT0yDryXCmIJTP0dX5SXQ0sJ1pNC/uIsY4wrxD9Fulyh1IA5ERoPuIyfaKndHs+cyF3JyHm4RNK9ntX6dfDtRhtDqsni434qpN5yXfp6/hTCxmwosMKMwhE1X8f8ZQ=",
+  "URL": "https://search.cpan.org/dist/Module-Build-Tiny",
+  "LICENSE": "PerlArtistic",
+  "ARCH": "any",
+  "BUILDDATE": "1592736980",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "perl",
+    "perl-extutils-config",
+    "perl-extutils-helpers",
+    "perl-extutils-installpaths"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "FILENAME": "tty-solitaire-1.3.0-1-x86_64.pkg.tar.zst",
+  "NAME": "tty-solitaire",
+  "BASE": "tty-solitaire",
+  "VERSION": "1.3.0-1",
+  "DESC": "ncurses-based klondike solitaire game",
+  "CSIZE": "12632",
+  "ISIZE": "31663",
+  "MD5SUM": "2b0843546691e5f8348d5a86420bcddb",
+  "SHA256SUM": "c390db23644d9cb06450aced9d3fe96b77988aa476c11a0721684f2bce81a2d7",
+  "PGPSIG": "iQIzBAABCgAdFiEEBNw/sURf7KgTwn766k97MhqQatkFAl7VaKMACgkQ6k97MhqQatliUw/+L2nB3vXBR6OONvBZgBDLLj3aNiKeSazq6EqM49EpUWrzDmyWPwV/N4VZAcL5U4yTZNEiG4S9jlr2p5H3/QVQktMRtqnqV1FuBzaPcgj8ORWOFB7XfSQAeKhNncHXMqgc4PIcvqfC6JYw6I7G1WlprwoJbp6EzWld2zfOeNgaDoK1w06Y6LGB7l+u7JqVa6td4VvQdIXuk7iTAegNzjmLCXZ1V5qK1+0F+74h5wfNWX9D583s9SB1XzfqWcuP6drgBDOPRNfg0LoU17TroMYBdxDOMGY3uIpaQ+6QCtEFyteMBmLCpDl5I0Fm4prOdGL8Qyg+1Oz9tZpPg05Th9V69meVBsmARiswypblk2GsCh0GmZdCjj7lRhW1rpLxN6yEEjv4JpZpDU7tcOrGI4sGVSDQDCG3EN7I/4tdxtrH0AbSAZlogiBBwQAWTQCaCtZ6PHpSpJQu8LUXdXXQIMPyn5ZKvuG82MQXc0vzdeAawObzUpK6B0Dte4h/c91PFh6oJXfy4sOu+1wU6dvNAbdEUbVD21QN56Oy2KgBALHiz85LntEMhk8YSPa26Y8LFV4862q+rt6XGgLf+k8kYdsrFBDnT8luY4ayTJcPeY9s0r4zd+03j+gZxocZQ5Bd+HetZ7oFqa64FINMI+AnRgJsdqG9DeFlRFgNeso0khL/Wso=",
+  "URL": "https://github.com/mpereira/tty-solitaire",
+  "LICENSE": "MIT",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1591043523",
+  "PACKAGER": "Daniel M. Capella <polyzen@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "ncurses"
+  ]
+}

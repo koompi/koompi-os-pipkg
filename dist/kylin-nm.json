@@ -1,0 +1,25 @@
+{
+  "FILENAME": "kylin-nm-1.2.4-1-x86_64.pkg.tar.zst",
+  "NAME": "kylin-nm",
+  "BASE": "kylin-nm",
+  "VERSION": "1.2.4-1",
+  "DESC": "Kylin network monitor used in ubuntu-kylin operation system",
+  "CSIZE": "298559",
+  "ISIZE": "805290",
+  "MD5SUM": "cd23c08848c4708120cc12c791a18560",
+  "SHA256SUM": "d4ebab1c77e38f76aa73a055576bf595f4b3d4c18ea2d34b968032f5638417af",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl7ngJAACgkQeGxj8zDXy5LvUQ//dORvyYR7SB1wTQtAMwxcpW9q8TsGA11iAlOVe6lhFAkaxHkLjcD3br9KTrA5FHoGH019aBT+/72cwVIr7ZNTFjamspiMD1c6KwVmEtNOwwmjep77XJQRe1f0+uqY82/KQNPx/n6MC2qLYHot9nxtRGlXvGYVFeWfV9rLLsgrA4OUCCKjp56WdzsluCaC93CvjQODmoCyHphzPlqQr8RCty2Y0Hg0NWxBC+oBf9d3mVqOSZstx59eUCF/OmjyVl1GfcklQZKY5zmaxgJESq5rkm0kAr2+G97RdlmG0UB4HwjQXBGALlRnSlHq7XctOtBC/zDKGPg8cTe2pqPGTI77VPf2jjOTWt3325e8JJ737oDbGuOo/DYK6H5RzsXEhRTn/EHLj8nWW9RrrnkY9xhvimxeFD43LNDHtB4GEwYj1HJ7kTlgrlvvlIlAZYfeKxk1GagCcq4c73Zth7afoQvQTlGEusBJl5jJ6a9z9y97/jVms4UXC76i139r5Vp1Rj+m1k6/Yt5ZXPLe7vHKlOEI7lnIgypNDReTQqpqlKtLleASFU/EB5ytjzlXqguo4ZXnPMR/ZikUzCbNcyZICwem2KZhYqcZenzlyQYeIJxE9jsuGgD2vezFC01zTGqUQ44V7hsNV/Bx2OY3GJ0v5pmC0rV0ivDA5nS9icTtakPeZMc=",
+  "URL": "https://github.com/ukui/kylin-nm",
+  "LICENSE": "GPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1592229965",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "gsettings-qt",
+    "kwindowsystem",
+    "qt5-x11extras"
+  ]
+}

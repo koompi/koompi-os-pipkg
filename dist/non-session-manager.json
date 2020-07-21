@@ -1,0 +1,29 @@
+{
+  "FILENAME": "non-session-manager-1.2.0-3-x86_64.pkg.tar.xz",
+  "NAME": "non-session-manager",
+  "BASE": "non-daw",
+  "VERSION": "1.2.0-3",
+  "DESC": "An API and an implementation for session management in the context of Linux Audio",
+  "CSIZE": "249724",
+  "ISIZE": "533561",
+  "MD5SUM": "5ebdc34a90c7e2ef01d2efd746ef06f8",
+  "SHA256SUM": "5447b9d1c4545e12d1d35d1a79088e8caaca623823f5564c707471b22be07c82",
+  "PGPSIG": "iHUEABYIAB0WIQTH54SUZv4jWDQ1iDdyWHNLQcMVSQUCXgZtBAAKCRByWHNLQcMVSRinAP4+K4Eal7ZT0IfLUHnAieu/mCyhJHyqjoZvKP6jTIeppwEAl6iAu9tRtueUcrS1qN9QiAkeY0DlpBWmyyRCpHlSVQQ=",
+  "URL": "https://non.tuxfamily.org/",
+  "LICENSE": "GPL3",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1577478424",
+  "PACKAGER": "David Runge <dvzrv@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "gcc-libs",
+    "glibc",
+    "hicolor-icon-theme",
+    "libjack.so=0-64",
+    "liblo.so=7-64",
+    "libntk.so=1-64",
+    "libntk_images.so=1-64"
+  ]
+}

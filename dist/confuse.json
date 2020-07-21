@@ -1,0 +1,23 @@
+{
+  "FILENAME": "confuse-3.3-1-x86_64.pkg.tar.zst",
+  "NAME": "confuse",
+  "BASE": "confuse",
+  "VERSION": "3.3-1",
+  "DESC": "C-library for parsing configuration files",
+  "CSIZE": "46378",
+  "ISIZE": "145611",
+  "MD5SUM": "4b84bce1a4df8eb5b0ed3bc6f72d14f1",
+  "SHA256SUM": "da959a8f3de83a0b78c8beedd1166d8dafb5bfa3b460c347b51a31ecf97c033f",
+  "PGPSIG": "iQEzBAABCAAdFiEEU1nMa+iBGLUfXJC1YH21X/cbcFIFAl77N9MACgkQYH21X/cbcFIOogf+IiA2CGj2d/Zrip46xFV+TqgRAm4cLBjt7VXgrv9xHfeuEhM0b2ziqpLRTE6qRz1k5jthVBAJWASUVmj7x+BFKwr4uMCIYb2VIvvdiSGP9coZLYdTciFLGXDyjBzTHEPVjxniVbyf0b0QUcB2pvWAVxF1Q7/qxvZrRWq371e52YZR5z3TKCEltr644hJSRm/nfcq2WDZyavtNAk4eL0rWfy+HAQGbYp/SJf2MinzCoquieBR2TL0qHY+CUM0deuP7f8lCb3A/Nalbe27vtAxbAkcACLrPrMsqCN8P/nLuUBtpqprmd/tK2dizgUUAWerOQISjArlK45upylNwktnslg==",
+  "URL": "https://github.com/martinh/libconfuse",
+  "LICENSE": "LGPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1593521674",
+  "PACKAGER": "Konstantin Gizdov <arch@kge.pw>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "glibc"
+  ]
+}

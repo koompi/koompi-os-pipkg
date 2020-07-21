@@ -1,0 +1,24 @@
+{
+  "FILENAME": "smali-2.3.4-1-any.pkg.tar.xz",
+  "NAME": "smali",
+  "BASE": "smali",
+  "VERSION": "2.3.4-1",
+  "DESC": "Assembler/disassembler for Android's dex format",
+  "CSIZE": "4418720",
+  "ISIZE": "8773269",
+  "MD5SUM": "5c70d94485eb3adc21358d69d47ed530",
+  "SHA256SUM": "582b3191b924a1d6ae4eee46be88a341747792cc40b61ae924d1256db65f29bc",
+  "PGPSIG": "iQIzBAABCgAdFiEE4kC1fixGMLp2ji8m/BtUfI2BcsgFAl3e9nwACgkQ/BtUfI2Bcsh1bA//QwzKfTkG9Io0dX08G0Sqj954lcUWsVb7stbv/g4YVH9O2IBjLhFebNZ7fKngw9KsMqm3SMVke6Pam3OhArGdR0iNvFDupjUAoqMTccBuITXUYdu5IB80ViWVXRdFMet58yoP3/7dlK/LHGDkBvY8d4ALmtCoa1jdhxY+77ElehZ2pxHqQ1oKFiR3WGxqPyd1zUNYh36l+LLtsshxy3O+5sPYDEfCm1w1Q9unOr+q1fm3gqpPby0Vf6xz4xhIlhWMupROnxw4F+SeMfWBOW0htXUyVTgg9XnXaz/h3g1rNI3RiWTo2HcUmmCUx3DdcONkeG+hRS/MckNveJNvNA+WN4p3zJKb1qeEMDUK7aoTXHFCd+HCafheqmBoB4wklgIsZ9KjWX4Cw40kcnJQZ2Y2BhdMpFINQVyRx144fFAFfpipbZ90VMGUk+uuU2FjeqeJqXX7f0fv9fUpVr2ItTwJCgjnTKb+uWLzwm4Xq6Dv83uYEBC8ho6dW2nYY4c2eItzLijzaVMBp7gw5Ku3og48xR/8yRx5XhH9wJzBPVEexwo2g+OoJl3SZe9pecD7cx9op+1WC7vVkty1JvbH+khnzG1ZCDcoAP5Qz5lxUyNIqLr6yDccqcLGipMmIOoH2qPBe6EKhZzKUj82k3ov9i+oQuxB3Yz1ID4NZO9XxyzZIq8=",
+  "URL": "https://github.com/JesusFreke/smali",
+  "LICENSE": "BSD",
+  "ARCH": "any",
+  "BUILDDATE": "1574893070",
+  "PACKAGER": "Levente Polyak <anthraxx@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "java-runtime=8",
+    "bash"
+  ]
+}

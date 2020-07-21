@@ -1,0 +1,23 @@
+{
+  "FILENAME": "libg15render-1.2-5-x86_64.pkg.tar.zst",
+  "NAME": "libg15render",
+  "BASE": "libg15render",
+  "VERSION": "1.2-5",
+  "DESC": "A small graphics library optimised for drawing on an LCD",
+  "CSIZE": "25432",
+  "ISIZE": "63738",
+  "MD5SUM": "b4c5959dcc45cc7910dca59fbcc91cca",
+  "SHA256SUM": "6fddd7ca9172e3d068cbde69684e8181d5773ad36ce6e7b365d53a37256d9469",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl8Et+wACgkQeGxj8zDXy5J0fRAAmNN0VKxNFyDZ3WQ2vgm58ieyLxPTpHdtfTm7Xgepps4tAvqRD69wUkwsSnE9MJhC9LYXhrJODiVjjzrFWkCDV20HoO3WezXKPiv5Crq8Ini1peY5TXDj12o9so5onBr0M7b4Z1LjRf3uoO9dw5bSOJ6G240XUhghspu38tbsMyJuvhRMadIQYbV95UGTR0GTMIpxWMLOQMCOLAFrxQqy77ze9tcjUJPJ4HsuU/+zM1w6DJC1OM3RnBFLbjyf0/c18yutwh6Jx8NeOOmpE3t6u9PBE9vMzqaj7R0pZkdViqNBh7dL1X4F1uPgwCYYiCgr8xup9a3ughI7FAQdptnTwJ8jxC4NEv22G65hHDNiLk3quuZjtZSdjN1GBJM0eHyBY8tMxzOq6VvmUHRZDoMkklO078HqmKVt77lxLRr5nlGSsvT/JYLBdW8hBq3i/xsAdVmwJoSkyeU19+Lxf2mJiHVGEs7hWosYoohnhGgTyaca0efvewLVjjZIQvIm5F6ZTJJItSr2yLW0BckckF/SaT+chpxbL0mLNzEcJx/+Hkl3MrEuLSq6ybz58QQCrNuX/DhXg0S7M2tCC02F/zhm2ckSt/if8lXV8XXLcD8//ctRKRQwZO7keubvfxad3xh6D19WS8tvkC7VNOgHeBTmhnQvTxXZzigcDb6o33Wenes=",
+  "URL": "http://www.g15tools.com/",
+  "LICENSE": "GPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1594144659",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "libg15"
+  ]
+}

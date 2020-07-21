@@ -1,0 +1,23 @@
+{
+  "FILENAME": "python2-uritemplate-3.0.1-1-any.pkg.tar.xz",
+  "NAME": "python2-uritemplate",
+  "BASE": "python-uritemplate",
+  "VERSION": "3.0.1-1",
+  "DESC": "a Python implementation of RFC6570",
+  "CSIZE": "20372",
+  "ISIZE": "91750",
+  "MD5SUM": "5af95e68ed7772d6afaa6836e9dde574",
+  "SHA256SUM": "cb070ce1ea18c410e973ddd1b7e6495d9418021f06d09461fe6d7906d445cbce",
+  "PGPSIG": "iQEzBAABCAAdFiEEcXAmqdR3n8U5QHJmQPVXtzFJYQYFAl4OGNEACgkQQPVXtzFJYQbGGQgAo5RH5+8sABT4xR+j81vsHtTVAfHN/EbzTq9sVmOm9YfCkzijaaG30OFLWQfk26ckUDnA3z3sQm45NgFtDEFt4vBBJviJhuNvrN+tdUixJdeKjZQxfrkS5SSFiwocRDii+ttmtj14kJm+f9jrcINTKrIww1J6OlVQN+3szqsTbcK4jh0TsXGdmH79SrTi8RoCMnsYxAUXU7rR+R1UoysGcABXazIL7rF5YpRVjy84i1EmcYWa+EAmCo8mj988m2b80y+sZSmMLI6GP0Ok4CNvAG1kTcbHXwQbQWba3sRPo8BQYnVznSVZ2zyxXitJhTJokjyYdnvogdzL8btjsxhPEA==",
+  "URL": "https://uritemplate.readthedocs.io/",
+  "LICENSE": "Apache",
+  "ARCH": "any",
+  "BUILDDATE": "1577982077",
+  "PACKAGER": "Andrzej Giniewicz <gginiu@gmail.com>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "python2"
+  ]
+}

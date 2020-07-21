@@ -1,0 +1,24 @@
+{
+  "FILENAME": "python-mongomock-3.19.0-2-any.pkg.tar.zst",
+  "NAME": "python-mongomock",
+  "BASE": "python-mongomock",
+  "VERSION": "3.19.0-2",
+  "DESC": "Fake pymongo stub for testing simple MongoDB-dependent code",
+  "CSIZE": "99003",
+  "ISIZE": "492740",
+  "MD5SUM": "f7ab8ced75aec61324b0da406e02f513",
+  "SHA256SUM": "689f5a7a1fbd9c46f7df2c3c6bed363426b0491cc7a973764f511f3e3f53dda4",
+  "PGPSIG": "iQEzBAABCAAdFiEE5JnHn1PJalTlcv7hwGCGM3xQdz4FAl69EA8ACgkQwGCGM3xQdz7sUAgAiVuUxvW3IeDzaq0DGE0cAhTFtNvbUynwMNrwI/w+tplHr4N+bD5LB007Gbs8o/Ky7IiR+mk8Bo0zj6QuUfRvVC12QbcDPmH95Xtd9EYYuapBMvIWnkqi+L+RN1TmtJltB7JnFXdtQ5AmYvxj7Gc3NMlhwSM3mwBSkXYl1XdbxVipGOLh3JZPDmbhZ5wMoYUncovC9ugw5yEMXMZQqr4ByMg9f8GFnD1I/yuxq3SgzyjMTLcbGseflsyMzzpDv2ZolOYsnZk14DJ6sT8KY2D7hf35YNRT1AFcG+KE7Hm9LHcXtshS3DIJVvHIgFcPts5tgl3exj9sEuveI7wzJNo4SA==",
+  "URL": "https://github.com/mongomock/mongomock",
+  "LICENSE": "BSD",
+  "ARCH": "any",
+  "BUILDDATE": "1589448485",
+  "PACKAGER": "Jelle van der Waa <jelle@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "python-sentinels",
+    "python-six"
+  ]
+}

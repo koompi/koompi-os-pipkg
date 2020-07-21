@@ -1,0 +1,24 @@
+{
+  "FILENAME": "kio-gdrive-1.3.0-2-x86_64.pkg.tar.zst",
+  "NAME": "kio-gdrive",
+  "BASE": "kio-gdrive",
+  "VERSION": "1.3.0-2",
+  "DESC": "KIO Slave to access Google Drive",
+  "CSIZE": "97835",
+  "ISIZE": "266582",
+  "MD5SUM": "0e66e8f13b25ca85992c12579210489e",
+  "SHA256SUM": "938d8fac4cc44faf9ff891b99910d8e0b13558f5018629732747cb9258d1902b",
+  "PGPSIG": "iQEzBAABCAAdFiEEFRnVq6Zb9vwrc8dWek52CV2KUuQFAl8HJ+gACgkQek52CV2KUuT++wf6A5icUiFF7yHXAjhAKNtwg6rWtUOTo9EARFc6riGaLQT7aDPOmpmXEhx/lP+wV/YEhtQJsp+Kiuq17tyYn2slq6x5xa7V0IdTf1tiKQEPOfWp/4vTKUYu96qgFUzPJK7fC3x9JVqfzg5r5CZhqOVJNEYbFif2MbRjAIohIuB2euWTmAnDMwtvnN/u0TeHdT5z5RBMmpMhZSDbiwDyImANblnG5Kbl4M5NIrjG8aElnWO/Y/wBBS2Ssv1yj8B+kYjfA1Abv+JYbbHGoapaVuMhbJtMqwRa/6RS0EjpOE1I4TXUwjJBxvLtP47PAcA7ytDYm1mW8rjGoDNLM913yfDUgA==",
+  "URL": "https://community.kde.org/KIO_GDrive",
+  "LICENSE": "GPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1594304427",
+  "PACKAGER": "Antonio Rojas <arojas@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "libkgapi",
+    "kaccounts-providers"
+  ]
+}

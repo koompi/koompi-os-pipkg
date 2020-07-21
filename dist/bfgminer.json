@@ -1,0 +1,28 @@
+{
+  "FILENAME": "bfgminer-5.5.0-3-x86_64.pkg.tar.xz",
+  "NAME": "bfgminer",
+  "BASE": "bfgminer",
+  "VERSION": "5.5.0-3",
+  "DESC": "Bitcoin miner featuring overclocking, monitoring, fan speed control and remote management. For FPGA/GPU/CPU Bitcoin mining.",
+  "CSIZE": "640532",
+  "ISIZE": "2054144",
+  "MD5SUM": "98e4fd68448b6fa775ac36079053c93a",
+  "SHA256SUM": "762b832d94fced78a17c92ed1c4a8f039b040369440344d1ca90000c260082c5",
+  "PGPSIG": "iQEzBAABCAAdFiEEhs/8qRjPOvRxR1iAUeixSKmZnDQFAl1I+dkACgkQUeixSKmZnDTr/gf9Hed9ULd4h1vLOEwVuKRqWg/zsxK2UeOnefP5PLt1BPRoEp4Z9LNgrv92ySH8NEJiJZMOWVkhbbp8qo7AJv0B4qwYOhqEKUcs7n5jeEOCg2o9bisD6SUZVcw7qqrZlFDjNF4q9zILjrWbwMDz1I/10hs9sPTaHUijFECJX60qcq0XkDPMZaEitSIjYUiAhD+tqImTWH3j5KwaFqY5LkvCqHGeSirGjBtoPXUiWK2TJNVeCZzSbVF9T82EF6BvILJLLgQMia1WrQCh1fAD2Qffh1T58WwRWt6uCffNAxumxpe8bvNenFdSJzG2CiJYewO0QrE4VhNDzMLGvoRznVuXNA==",
+  "URL": "https://bitcointalk.org/?topic=877081",
+  "LICENSE": "GPL3",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1565063600",
+  "PACKAGER": "Evangelos Foutras <evangelos@foutrelis.com>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "curl",
+    "jansson",
+    "libevent",
+    "libmicrohttpd",
+    "libusb",
+    "lm_sensors"
+  ]
+}

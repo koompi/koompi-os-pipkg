@@ -1,0 +1,23 @@
+{
+  "FILENAME": "kodi-addon-audioencoder-vorbis-1:2.0.4-7-x86_64.pkg.tar.zst",
+  "NAME": "kodi-addon-audioencoder-vorbis",
+  "BASE": "kodi-addon-audioencoder-vorbis",
+  "VERSION": "1:2.0.4-7",
+  "DESC": "Vorbis Audio Encoder add-on for Kodi",
+  "CSIZE": "20310",
+  "ISIZE": "39135",
+  "MD5SUM": "4b08dba9cc83217352405a27048c8903",
+  "SHA256SUM": "6a3d1965a987eafb9fcccfad463b0af54613c7c68cad91b100181370ec26e772",
+  "PGPSIG": "iQIzBAABCAAdFiEE2yJ3vNUAqjglYQvd2zIzknlsoGcFAl8EaRcACgkQ2zIzknlsoGftiA//VLQae6As9oTxh5csBP4QJE9foKdZ4dhoPUrPliuaKsgz/EXgzEGvFxDRZmHW6mTo12tkUxVwFHBdBjmDT1NkjA6pXQcOvxlSEYzfwKupRe/wK5F0iJzX2maOBGE6Pks0+PWHGsEyByFB5n/mYlhajsky23T3XQ3+B5ne1ybnpxSwB2XMYEV9wsBcjJdDkK7cXyLHRjEYs+25qvcWhA1sMoRsrRtB2n4UBGO5dkzrA41qJrlG/aUovH3gN/LCZGlAibKbQw72DsDGAdxuGppUGuRVrLq+J9YCTlqV6IxhyIHubFR3c77s7Qo1yz/xUXWJRy60V5cABmZeRWctbuTVgMiWSn3aq/00Xm8a96UJouhtb+9XC4S2VpVVRD+9qj7q8tD+sr7zo7cIKtrgWcUF9FvZlgBpWrPtRpQ3Z+FA1dnd7FWyhKNapJbOApHgA7cWt8UI8bYz9+0hNJxFNOcP1QIi2EMr+YYo24Ty6duNgKnBtoqo6Gp5IS4tfe6E7xh/yu5XvaMdCW9W9e3OKNHh9xLV5TLJ+dkU34xtvfHbjlmGsWkSXfuYMxEOfkGXbklAA/S/lTP8LwqnlzbLoXfLFLIKLBTDruqE5XeMJFFJQfq/diSWRkEWXMCUbSFUre1I8NQQnsldHaM4akgGFIuoaYySif434uhpz7U6H7Olkks=",
+  "URL": "https://github.com/xbmc/audioencoder.vorbis",
+  "LICENSE": "GPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1594124515",
+  "PACKAGER": "BlackEagle <ike.devolder@gmail.com>",
+  "PROVIDES": [
+    "kodi-audioencoder-vorbis"
+  ],
+  "DEPENDS": [
+    "kodi"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "FILENAME": "ruby-builder-3.2.4-1-any.pkg.tar.zst",
+  "NAME": "ruby-builder",
+  "BASE": "ruby-builder",
+  "VERSION": "3.2.4-1",
+  "DESC": "Provide a simple way to create XML markup and data structures",
+  "CSIZE": "45850",
+  "ISIZE": "174534",
+  "MD5SUM": "a517aee8e4f7d603caa839f4e1e03b40",
+  "SHA256SUM": "2add6865a71098c30ece87b0c2be876a618c53b85a4b75398a3c2f571ccb511a",
+  "PGPSIG": "iQIzBAABCgAdFiEE4kC1fixGMLp2ji8m/BtUfI2BcsgFAl4tjvoACgkQ/BtUfI2Bcsj3phAAzTVaKmyybdx9GJDZA+ZU4rN6VCKSx5TvLdEquhdHZ3sJ/2j3niTNdRhqUJVD/WFthzZ3MkjNiAWYgW9gp5644/+AobNPOkjgGUDiEY2z6ABGpm7alIbiwAqDSmq/i5GpMadOn3LA7SEH0Kgr2nvQwfGdIOlaFGA23bC3Jl3xITr3EqcsliChEUx/afYpzm0nxWH1E8BFI7Cdkl1562KH6+bSy1IqG0h50epg+bqQen3Ia8XjDCmdQlgpnw5syP7kmkZfBbeBNWPJrfGoS4Cm+7Avh/0KZf6G6M9cXWTj5tb9S0PY6veurSKFUmhwilhj6bpxSIToFLZaa7xsWb6apjrzHfx8WSo4f7ixcoZuq0Rf1UBaqdox3Kuptw4FqIsge5vaE2frpUqmklqMvRenQr5hMzpMZOlFbsmEz/a7yz9pJwkfYImabWLJfWiz2R5UJo/Xp2AG+bbQ8M3ERqP3heBu5RBpvJOtG+f7PwRhO4PxllHBLt4SSnzsg/iLOs94o1bpIU0Ff636y1KJj+myHhyTmCsdXVRa/uJlQ5S/6Ypw9JT37YjI8HtIHKzix2l42pypVApn8Fucukj8xFpm25+Vj0WQiy4xJtz9qoihLVb7OWjmilAduVvI6ejC6a+en/oOzoP8f55KtMbEf/ZK3oo5G9yBRbRIK22JYbhY+r8=",
+  "URL": "http://onestepback.org/",
+  "LICENSE": "MIT",
+  "ARCH": "any",
+  "BUILDDATE": "1580044004",
+  "PACKAGER": "Levente Polyak <anthraxx@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "ruby"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "FILENAME": "xxhash-0.7.4-1-x86_64.pkg.tar.zst",
+  "NAME": "xxhash",
+  "BASE": "xxhash",
+  "VERSION": "0.7.4-1",
+  "DESC": "Extremely fast non-cryptographic hash algorithm",
+  "CSIZE": "72621",
+  "ISIZE": "294263",
+  "MD5SUM": "7bf4659a9629283b7e9a9af6c72b7a71",
+  "SHA256SUM": "a40328163bcb1bedd38fa5864dc6664c77dd11da6ca03795552054dff8a3f350",
+  "PGPSIG": "iQEzBAABCAAdFiEElDfdOBWnqRaePTlGr/XZUJi8b/UFAl702bsACgkQr/XZUJi8b/Xz3Qf+Lz7BWjHy0NamRzYbuNQTjlKYS8l/c/TBKWSTZ5GsTM8n7DWI7CFd9TuKuzKjlQz7YSAy0UE+ZIIrttIAoFtt1wmNC/mIOQOHcvZNKmCFyTlYLplrPPiQh5Msdq5EwB1OiGtECtera+iK31uuy7Nz+30vAdGkNrwt335QnQD2mkjlJdHnz8mS2HMWVD6xcBehpQKvb2dgo7DYsZ2hyRhRb3FcwGtcKzkjBeHHwvDKHlqx9LhsUOVTFKRdf+OMEuyg+WpzwVq7CaE+zSsKauXmAijtoJat8ai8OVtiFaqIau8B9xdxgpfUxzoBs8VH7eaO91FGCQI2+kM7P/l7AokjxQ==",
+  "URL": "https://cyan4973.github.io/xxHash/",
+  "LICENSE": "GPL2",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1593104810",
+  "PACKAGER": "Maxime Gauduin <alucryd@archlinux.org>",
+  "PROVIDES": [
+    "libxxhash.so=0-64"
+  ],
+  "DEPENDS": [
+    ""
+  ]
+}

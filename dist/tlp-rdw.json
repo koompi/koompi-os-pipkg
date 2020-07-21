@@ -1,0 +1,24 @@
+{
+  "FILENAME": "tlp-rdw-1.3.1-2-any.pkg.tar.zst",
+  "NAME": "tlp-rdw",
+  "BASE": "tlp",
+  "VERSION": "1.3.1-2",
+  "DESC": "Linux Advanced Power Management - Radio Device Wizard",
+  "CSIZE": "6594",
+  "ISIZE": "11795",
+  "MD5SUM": "8f0ced687b150fa59eee4f3e88e5f599",
+  "SHA256SUM": "82245b0834523468549ff520b674635a554a1c7943e5851753b86d2784bd5e19",
+  "PGPSIG": "iQEzBAABCAAdFiEElDfdOBWnqRaePTlGr/XZUJi8b/UFAl5CXqYACgkQr/XZUJi8b/X/FAgAo3/EP7TLWt6bN28P9+frF8WM8NYk98lg/nzPqzFlk2mBXb3k82Fz8JZaVRo7RMdyC/UWhaSuEcpci/9ytf7ZHcbXr6v+ZhK9nKu4XxOpD51bnd/Zo8DnP4jczIUgf1RHh3UTsHJthD46IafbL7Fq44hQy7wuHbzerZbG2bDa/3REa2guYhIbvcLmwIqtCuIWyGUcnOgY/+X+VO/pxhkkfngaO6Dig/WoNfWmtSgmV7PB0jRQMAO4clAmATU03quxaLywe4i4kzislevT4t8sMACPQ58Z7FhUz3ZcVWIoZDPFt6eI9zvNYaODg99TWhncbr0l1NpISw5djK+YDwoueA==",
+  "URL": "https://linrunner.de/en/tlp/tlp.html",
+  "LICENSE": "GPL2",
+  "ARCH": "any",
+  "BUILDDATE": "1581407862",
+  "PACKAGER": "Maxime Gauduin <alucryd@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "networkmanager",
+    "tlp"
+  ]
+}

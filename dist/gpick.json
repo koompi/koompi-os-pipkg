@@ -1,0 +1,25 @@
+{
+  "FILENAME": "gpick-0.2.6rc1-7-x86_64.pkg.tar.zst",
+  "NAME": "gpick",
+  "BASE": "gpick",
+  "VERSION": "0.2.6rc1-7",
+  "DESC": "Advanced color picker written in C++ using GTK+ toolkit",
+  "CSIZE": "371282",
+  "ISIZE": "1032148",
+  "MD5SUM": "912b372e2a89ac69868ae4997183d7d2",
+  "SHA256SUM": "a34f9d4fdcec35396a2d0f2b82efbf3dacbe7a5af10195b8d82334e947781e27",
+  "PGPSIG": "iQEzBAABCAAdFiEEhs/8qRjPOvRxR1iAUeixSKmZnDQFAl4vpBsACgkQUeixSKmZnDS4gAf/VuLah6knxT7PIHCpUgSRt9l3QiMWlWoOFjl76Gmd8Iw2Tmsa/zaB5rdUrmUKo/ba/PG3VhcKdHM4acuUbTdw2fkUP3kyHl5Gnkz0gOhxNLqdcKraoxSzXYHXaJW7wklGulRmoi1QWVM9pBFRnCkr3PyysnB4FoCjmCdRuKqIBbCd4qop/Yyru/6WeromVyK3j1VjWSibFra6gpX6dNEm3EZr2qfpQUnqY2nKI6BkmmoA0OJFIASCQ65KUhojFtGV84qxxGEny5iMz9Cafl9r2LAw9xgU7oHHWzKtnam9j7yfF05slWr61BrfxZaNlvFic+Ohi1XqN6xK9C4kf5Jb5w==",
+  "URL": "http://www.gpick.org/",
+  "LICENSE": "BSD",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1580180385",
+  "PACKAGER": "Evangelos Foutras <evangelos@foutrelis.com>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "boost-libs",
+    "gtk2",
+    "lua"
+  ]
+}

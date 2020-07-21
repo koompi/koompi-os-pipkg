@@ -1,0 +1,24 @@
+{
+  "FILENAME": "python-pytest-isort-1.1.0-1-any.pkg.tar.zst",
+  "NAME": "python-pytest-isort",
+  "BASE": "python-pytest-isort",
+  "VERSION": "1.1.0-1",
+  "DESC": "pytest plugin to perform isort checks (import ordering)",
+  "CSIZE": "10457",
+  "ISIZE": "24524",
+  "MD5SUM": "137930a020f0ddc0fbaea892ee2f9a0b",
+  "SHA256SUM": "9a5e7c16966c88591c40067142447e929fc21dbc34f4bbfce106ce8fc6f156af",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl8DflsACgkQeGxj8zDXy5LmBg/6A1iJ323rWSvu5Q9Jngo5ES8nVKo+Tdo21nRnhiyHC9N77ksYyEKMi9uearvtjekQIDyKBErFGkkj9Ba74ouqFrF81jNXFgQ/1CwBNJZBLvuB6TKpK8XZPPJEEj0g5JLE0NZWAsB9H/jSUM1ukauT5BV71uRXyQOWe5Ged7CAwiH9okyx8bGZNw3VLut32/okpAt296J75jhlAobutIkgs3iC04FNJDFaiDw+fuhiV4SkYV6uVPpKUPtfegbkcUHlFFcoNchODNSCZ7K3mE2NMU3cI9r7vPZL3I4Bx+8dNxgQe4Dgcb1lLvjh/YV/7Eyg0nisKXAmGL3wmNgrSvhG/ypzPhl2xFF+2YZ2PIbfXTxn4WSoDMz/73FJEpHFYnLyzh8UB3J+W4TokN65kfI+vnMN59v7UC42n8r/uiWrpDQXh07FoXJ6vW08ymyJbLCbfmRCqFzLSJoqgoeLxdKhEEwJoUDqGYySkxSkAM9Zt6GHr5cOEu9MHc5WaT3pm5s4ae76W4h8L3CmIMpZiqSxwUn2lsJ8eAThATarOcEl26n5M+MF+i/+qEw/MnWxot7mfzMK6DUXumFGmxmALcNibCssSSTwdAlx5JIwKBSFKQ5A/blFvJPfumD827g4+FrYcKp2TEeBMqE1jbSLxbLZZatF0vcuLBhbOdZP3smfAxw=",
+  "URL": "https://github.com/moccu/pytest-isort",
+  "LICENSE": "BSD",
+  "ARCH": "any",
+  "BUILDDATE": "1594064202",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "python-pytest-cache",
+    "python-isort"
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "FILENAME": "dhcp-4.4.2-2-x86_64.pkg.tar.zst",
+  "NAME": "dhcp",
+  "BASE": "dhcp",
+  "VERSION": "4.4.2-2",
+  "DESC": "A DHCP server, client, and relay agent",
+  "CSIZE": "1878414",
+  "ISIZE": "10089826",
+  "MD5SUM": "dbf75273439bd04daacc4b4c835965e7",
+  "SHA256SUM": "04b5dc3ff14cbb98f5675bdfa607630bde7f151251ce7a7d030e43b68975b0b1",
+  "PGPSIG": "iHUEABYIAB0WIQQEKYl95fO9rFN6MGltQr3RFuAGjwUCXlGDmwAKCRBtQr3RFuAGj3nFAQDUEgj9q80m8Zz1W/3LEBP2L+JF9y8vBZ2S+pIjkcvv+AD5ATLLpM2H2IWM5oOP1h4q2wNTkhs+gE6P7UeTGS+tCQQ=",
+  "URL": "https://www.isc.org/dhcp/",
+  "LICENSE": "custom:isc-dhcp",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1582399857",
+  "PACKAGER": "Christian Hesse <arch@eworm.de>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "glibc",
+    "libldap"
+  ]
+}

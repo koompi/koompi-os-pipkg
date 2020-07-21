@@ -1,0 +1,24 @@
+{
+  "FILENAME": "kbounce-20.04.3-1-x86_64.pkg.tar.zst",
+  "NAME": "kbounce",
+  "BASE": "kbounce",
+  "VERSION": "20.04.3-1",
+  "DESC": "A single player arcade game with the elements of puzzle",
+  "CSIZE": "2878882",
+  "ISIZE": "6220556",
+  "MD5SUM": "18a30d58d6e4da95440c251c1c4e09fe",
+  "SHA256SUM": "8e218d1a9e754da383f3c427f7299ba34a9492c05838eb6b537f8b7cf759ae83",
+  "PGPSIG": "iQEzBAABCAAdFiEEFRnVq6Zb9vwrc8dWek52CV2KUuQFAl8HBRoACgkQek52CV2KUuTPhAgAnGD84v3gWU90KPVM55M3CyVqNpryiiwsmLE6DgfkADpc/UMAXuxiM7Yw7cVhL+dLd4w0QHRNW7X44nEjuCBbP9590/rztpY4RaiVRT1dEe49PPJNDp+alTmJdsRGwRxpu5wT2YNOEjY1c0XZjNZ1Xt5c0IHDP7Mi4PQ1DezqYonDyfvsi5i1PNE32nl2EfY02SQfWMgvaELy7rH90AJ/ehIL0wNPn+4rYAl8LdjZuhNiDUjHomlulmXmnt2/A3mhTG3gwblWbXX/fjnUgLU2Ik5fOfZkfpHgGh+snEe2zl3EGPBbk1R+IVjGlQvWyx7OlVtGzIxEbGvXt0ZjVmylmw==",
+  "URL": "https://kde.org/applications/games/kbounce/",
+  "LICENSE": "GPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1594108177",
+  "PACKAGER": "Antonio Rojas <arojas@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "libkdegames",
+    "hicolor-icon-theme"
+  ]
+}

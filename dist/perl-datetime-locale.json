@@ -1,0 +1,26 @@
+{
+  "FILENAME": "perl-datetime-locale-1.22-2-any.pkg.tar.zst",
+  "NAME": "perl-datetime-locale",
+  "BASE": "perl-datetime-locale",
+  "VERSION": "1.22-2",
+  "DESC": "Localization support for DateTime.pm",
+  "CSIZE": "2193023",
+  "ISIZE": "7379032",
+  "MD5SUM": "36b31a1b9ad11c692d4d92ef932c80ff",
+  "SHA256SUM": "f0397053f7024d32b98cfe54ffd807e3b0c0496e3ba17ff756145fbf833d6ac6",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl8ElcwACgkQeGxj8zDXy5KXEA/7BoQqv+ssmHRWWScP2bzNt30Sv0d7Olapsi10FpPU8DlXzajnXX5ucrjOakg9Iwa/bWWCUIyWMKxovSAlgYuQg0c3DGbpAehfgHdJ7XX+5235LkDmIttkORNsOrbzgw3zakqcqAyquVVvBwzmmucIRv1eKk4GTWElYrwX8HH7/WlfVPgpQXgzeuKbFOBj/Uqd3Ajm9kKgdT7KguYoXm5USJ7yX7MQFnI/nkdgst0iMPJWEVxzVxxgfL2ioZs/5wW//Vg9CbjEI5nCOeoDKmekPO2CRfLhxpr6G9wlRGz7qE0DYE2Txx4mGOJ726LqhQJ1+ACq48broMCG1nspQBtymgDWUf2VXRXMMtq94XC6lSZWsuI5EPWehroyjCVVrBRj9wW9b+8pI5bvoosnG1EemdTT284GSvn+VCXvNM3yd3LhR14h50IlFVAdjz05h8ini0EzZNbZ11zBkDbCJNGsU4QovfAzLDE8SyXt9NJRMu2aWU6CBKN9TUhI8igs77fD57VgObC0T/QNjVVxtDhFR5VQLdV2bCDl5HfPrEBSqUXSQN2yCr0LTneDqwa8F/OL5g2UuQuSM1WyW84TV+xoss2qhJCY2W7PGDGZp11tq9J9LO+wM1khOt3Io/UP6b7A0JdP7T+YjmQ2TOEwgu5tHSbO9R6HpMS6oWCqVhL2/T4=",
+  "URL": "https://search.cpan.org/dist/DateTime-Locale",
+  "LICENSE": "GPL",
+  "ARCH": "any",
+  "BUILDDATE": "1594135957",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "perl-params-validate",
+    "perl-list-moreutils",
+    "perl-file-sharedir",
+    "perl-file-sharedir-install"
+  ]
+}

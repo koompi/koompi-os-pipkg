@@ -1,0 +1,25 @@
+{
+  "FILENAME": "xfce4-notifyd-0.6.1-1-x86_64.pkg.tar.zst",
+  "NAME": "xfce4-notifyd",
+  "BASE": "xfce4-notifyd",
+  "VERSION": "0.6.1-1",
+  "DESC": "Notification daemon for the Xfce desktop",
+  "CSIZE": "136492",
+  "ISIZE": "596291",
+  "MD5SUM": "6232d1bf7f3ce1fff7393817d12f9861",
+  "SHA256SUM": "b1b67b594ecddbf29091397993dc417af08ac6850733c8de1cebc20f1df5d164",
+  "PGPSIG": "iQEzBAABCAAdFiEEhs/8qRjPOvRxR1iAUeixSKmZnDQFAl6w6ZoACgkQUeixSKmZnDRRvwgAtx3AdJkerMAC0CKzQg2r9Ae95kUgtHRW09I+RR097eXdvhBmuDiN14NvJYs/QCZcXKR+mPXyMRjQqiqHJsRlF/mSDhCMqF4in8ULMKfxIHhpX0s7kiNFaaaeoTAYqEPexZU4CSY+G0I/+z3Dx5l7sOHfTdtkBEiDNl+RnAQ8wgsVdsBvT7swV5YiOaXc3nRYNomMsYQaFk9HrDA2vZezmUQkr6OR3zhqnmiJ4SLES1Skjx9aObKWVYSKfjQmDVnX4u9SiqapE+vcU7EIMnoTYogc6TIksPMkjjgBeCazZLmeup5ZcVO6xkhxvMpOsXDBv/XUpWJs35uvy1z1FbrdmQ==",
+  "URL": "https://docs.xfce.org/apps/notifyd/start",
+  "LICENSE": "GPL2",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1588652339",
+  "PACKAGER": "Evangelos Foutras <evangelos@foutrelis.com>",
+  "PROVIDES": [
+    "notification-daemon"
+  ],
+  "DEPENDS": [
+    "libxfce4ui",
+    "libnotify",
+    "hicolor-icon-theme"
+  ]
+}

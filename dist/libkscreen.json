@@ -1,0 +1,25 @@
+{
+  "FILENAME": "libkscreen-5.19.3-1-x86_64.pkg.tar.zst",
+  "NAME": "libkscreen",
+  "BASE": "libkscreen",
+  "VERSION": "5.19.3-1",
+  "DESC": "KDE screen management software",
+  "CSIZE": "364628",
+  "ISIZE": "1084800",
+  "MD5SUM": "d7eaf1a73539ced039d47d704b916b96",
+  "SHA256SUM": "3c3116623de8e82663a86aecdc8099d0a7b53e284548a091070c629bd68e6f7a",
+  "PGPSIG": "iQEzBAABCAAdFiEEFRnVq6Zb9vwrc8dWek52CV2KUuQFAl8EhFoACgkQek52CV2KUuRylAf/ew5Uzwd8BCw/R0FNISuUaf/FMKwXs8qyEj/CFwg0GUkK+NDA6LOQqiNW4r7v/uYBAyFSM6fkG2JA9HfUZn0LQ0x580A/CCxHjf8FD5+UtKb+kk9SEg5DIDzEeuI3xZKnuVQrLLv9wrWo39hiDbc+khyUxQQ8lp0qh76i1Hy5hIXE/2TezntZFDB7VIYqu9GlyhDI3kay3MAHgQT+Y3mnl6UPw1nD9If+cP0LDcNu6ltcYcHx8ZfoRXqjbGQd/NZ84zy7w43DnrTa2hVBPLWe6diOkD5Kxc7BfhcHeVkZCo2WkXFi3P3su9ViKicS6efsPRXlYzJ4lPj+Cdo8PIRHng==",
+  "URL": "https://www.kde.org/workspaces/plasmadesktop/",
+  "LICENSE": "LGPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1594128078",
+  "PACKAGER": "Antonio Rojas <arojas@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "qt5-x11extras",
+    "libxrandr",
+    "kwayland"
+  ]
+}

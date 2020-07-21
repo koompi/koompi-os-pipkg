@@ -1,0 +1,23 @@
+{
+  "FILENAME": "firefox-i18n-ru-78.0.2-1-any.pkg.tar.zst",
+  "NAME": "firefox-i18n-ru",
+  "BASE": "firefox-i18n",
+  "VERSION": "78.0.2-1",
+  "DESC": "Russian language pack for Firefox",
+  "CSIZE": "589003",
+  "ISIZE": "650703",
+  "MD5SUM": "9759ed275aa49c7ab67d7b502a87f2b6",
+  "SHA256SUM": "801ab0e8310b8a1336d9c647e5c1cec8a7fcddc8f8bb3b299414d3b308aba444",
+  "PGPSIG": "iIsEABYIADMWIQQGaHodnU+rCLUP2Ss7lKgOUKR3xwUCXwelqxUcaGVmdGlnQGFyY2hsaW51eC5vcmcACgkQO5SoDlCkd8fR+AEA9XVNhTNImrzpgwv/UXYiE7QdwUfLpQ1WhsAbuKiwotEBAITiNx6ObgZN2qd2UqMMyR2c2udHO5ZbhiD8OOGCau0F",
+  "URL": "https://www.mozilla.org/firefox/",
+  "LICENSE": "MPL",
+  "ARCH": "any",
+  "BUILDDATE": "1594311501",
+  "PACKAGER": "Jan Alexander Steffens (heftig) <heftig@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "firefox>=78.0.2"
+  ]
+}

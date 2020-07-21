@@ -1,0 +1,23 @@
+{
+  "FILENAME": "python-nose-show-skipped-0.1-5-any.pkg.tar.xz",
+  "NAME": "python-nose-show-skipped",
+  "BASE": "python-nose-show-skipped",
+  "VERSION": "0.1-5",
+  "DESC": "A nose plugin to show skipped tests and their messages",
+  "CSIZE": "6688",
+  "ISIZE": "10079",
+  "MD5SUM": "9c3250692ea33747a3666346994f1568",
+  "SHA256SUM": "ecbecc6c0316b050046069416ebf3937850762d44f90338c7c249929390c6efb",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl2/bZoACgkQeGxj8zDXy5JefRAAtR3y30bhV+LobIGfccPR3kYeZpN0JJ/aS6icp7qVwOyNjeev6GrYWjJK3+ABHZV5AM1C9HDXz2GfYNLs+lhKhtmV/WNEYHrUfIMCvoncQoaYawjbCKN71+sdcUOTAtOr///4HnCMOZCcW0PHTWyW6RcMDUheVcH4LyqOu+zlTAk8x8pCs1LH9t0EcsHYLhqj3xPr8LT0sQq3NrLPHSlpk0Hgk2SiJ6kFPJPKpCjNtqxvjs/e9i/eYyhsnDV6sCY7AR2ua/KYSAwk8GRwBYxC1gbJSIZsfXxRtn1Ui+PygMPNpyXmvMQR7IxVZUnl6VHKjZBTqSPR55Qj0wTpi9o9u2kp/1IdLcgsR2n/Nr2m5Rm3UvsJTyKqBO5oTX3u6qIAAT3EMzcvVK7ekwBv1nC/sZhiUhX08TGiul/yhx2wSsc7UMvW7AWUnMiX/VWJoJndlT8icgz2sGdAIVU+VIaqiFTSdcIA5lgS21k5DJTbeqGD3eiwwIiEl5Rfr7/3JiLGSfkzAxDyKTSVEA6NV+ftY1NRBN453ITM9eq+0Kw5x+JtDsVIumGmFi5ZbQFELKaMEqRpUevW0WkdSAtDCTnlguczz0qYbwcax5cW1O8KzcW3NU3MIvsmMr5/M59tBq7TtkrjLMIfagd6Y4tG8Up6PzzVmnMqLz+CjqwP2GYhYvM=",
+  "URL": "https://github.com/cpcloud/nose-show-skipped",
+  "LICENSE": "BSD",
+  "ARCH": "any",
+  "BUILDDATE": "1572826480",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "python-nose"
+  ]
+}

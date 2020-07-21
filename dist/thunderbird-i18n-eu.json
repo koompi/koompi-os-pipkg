@@ -1,0 +1,23 @@
+{
+  "FILENAME": "thunderbird-i18n-eu-68.10.0-1-any.pkg.tar.zst",
+  "NAME": "thunderbird-i18n-eu",
+  "BASE": "thunderbird-i18n",
+  "VERSION": "68.10.0-1",
+  "DESC": "Basque language pack for Thunderbird",
+  "CSIZE": "517504",
+  "ISIZE": "579945",
+  "MD5SUM": "8c39d2e57f48e2d82fb4af4dc6dff5cc",
+  "SHA256SUM": "b637367415b2b8526cafa7643e834cb437a2e934172f26c40ba25ac733147296",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl78eF4ACgkQeGxj8zDXy5KDjQ/8CxmGkS9v4v07xhTWrtvxQtRLD0Rk0ztzC/bNl8f1tiewvHSh/i8n3npTw6PMWumU7g4En1M5f5FW8meNuloLBEMrfum4T9HawVRyddb12Y8xw1Ev6Lb5yXZAAaQkKU/N/F+ese4xN4YaqgqgbAagAZ+4VRGddcJGVKAPBWhyPDPCPEvp88VFeYa22k74u43RCCuitZiQ2O3z8i1AadTQOPF1RgpSSHutwu5bppGvuZ7Y/gqpsurhIa5J/pOiSm9J/7lPNprY7nWSFKhBKy6KEI5gO3aXic9ui7VKTx8RznUIZhMvZX1Hys1bejnXUh59pXomuCpIwYJXfMq1AwucpRs1EPyfATlZlv20b1eyUYH0V/vJtFS/oEfcKohV+BbC2/xwYq2OTu5vqg1Bh2gLRFqXGRrC+zBpRM5NWOnx6vwpC2FwVpobYCrFYHv2oGmkYQ0K1GZ0fWLEUBy/G2wnnMLbDNNZtYrhwi/G5XzMO+cPk6kpZZpMXtwULnwjSAzwt3Zym7+wy9C6UGYNhixB7sXKgLn1N9l2lwO08Rl91PVUyPee4nVhwHPtbql1RqPJjGaqTsLCv03wBf2yd0G3W7eU3wWALmxYig7tQTCPab8PGj/WkpiKT6/CjU0CN2mBD24xhhXQEQTdqI0Q6N0Jrf6FhY9tUOkK9G+zJX6dE1M=",
+  "URL": "https://www.mozilla.org/thunderbird",
+  "LICENSE": "MPL",
+  "ARCH": "any",
+  "BUILDDATE": "1593603702",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "thunderbird>=68.10.0"
+  ]
+}

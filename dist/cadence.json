@@ -1,0 +1,30 @@
+{
+  "FILENAME": "cadence-0.9.1-2-x86_64.pkg.tar.zst",
+  "NAME": "cadence",
+  "BASE": "cadence",
+  "VERSION": "0.9.1-2",
+  "DESC": "JACK toolbox for audio production.",
+  "CSIZE": "1430320",
+  "ISIZE": "4143013",
+  "MD5SUM": "b18ddd89178adc2d5996682f4af8f4dd",
+  "SHA256SUM": "6b9b828326600baa2b3d775eea34868cd969f3d255b387b12c68710ac7426442",
+  "PGPSIG": "iHUEABYIAB0WIQTH54SUZv4jWDQ1iDdyWHNLQcMVSQUCXoNocAAKCRByWHNLQcMVSbHbAP4yd33Id3sVJB1AOm0SCeQWGvA7mTexiLwV3k0heOt3HwEAuWVg5FYgHlTsKMbUA3sVibaOZFv361bbyN3XyPWdUgc=",
+  "URL": "https://kx.studio/Applications:Cadence",
+  "LICENSE": "GPL2",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1585669114",
+  "PACKAGER": "David Runge <dave@sleepmap.de>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "gcc-libs",
+    "glibc",
+    "hicolor-icon-theme",
+    "jack",
+    "python-dbus",
+    "python-pyqt5",
+    "qt5-base",
+    "qt5-svg"
+  ]
+}

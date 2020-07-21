@@ -1,0 +1,23 @@
+{
+  "FILENAME": "haskell-binary-orphans-1.0.1-17-x86_64.pkg.tar.zst",
+  "NAME": "haskell-binary-orphans",
+  "BASE": "haskell-binary-orphans",
+  "VERSION": "1.0.1-17",
+  "DESC": "Orphan instances for binary",
+  "CSIZE": "8068",
+  "ISIZE": "16104",
+  "MD5SUM": "e5937859637d14a98b08af6d14983272",
+  "SHA256SUM": "3048425dcb905356f194ec05f9e72db6ceee5640bf9db52792ea5e174ad63b58",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl75NUAACgkQeGxj8zDXy5JZWQ/+MtpfGml+k7/ssQSkH7Ok2owqQKXEUTyN3suNK1vI4M+qxZpt/ZCZq7mKUpLMcHzo/PXk0uPyyvH6XHrI8slARlqn/FQQCkt5B7ynSN3wpdtxeF9FZVKDmTmQRLnwOaWg4k5Y/6yCa8uMjgW8wOe7F9YtMoEgAPPVk/M2+mqLeXz2TLpw8F/jRyUzKLc3lPzmJ8ksFXM42N49K1cndd3yEUouVNFJ+RwB76FqXma9+iiqt3dvvjq1ktHJp6vAw5XVwB2JXP5HArGdBo+LZcSgCeopZRbwUC9oxyhoNTdYk1pYHozLJrJl+j/CAVkY7/EcPvdIPjIF29qYW0AsmaCkh3LSsn0qXrcywlTeXbPtPjpUdeBSnpGDJg2mFjTrp1rvF6pskhYsXr63suXUXT7HYoc2fvbtVTgCvLPNOo9ZjlTgbGuWfPEAD+w2oDR2TDmwiIuxRk1d/RFSwu742UoJoqfK31zNdfwjieqRV/Tagq6Qj9W3GEDuysHXfmr/nvvpX0IEF25pP3NM19gsio12aVBtIqKDEZMansRZMa5FdG5SKRz6j+M4/HmzKNwE/wtXVWP3td2S0G65o1+vcxol0DQUfQjFh3RdcfcCpD7t1doy1BNK1tPRRFUG5pX9ZcjM3bzTzYWN2NSYbloVEzCerPvSiNg3LJfkfW5CxCuwz8Y=",
+  "URL": "https://github.com/phadej/binary-orphans",
+  "LICENSE": "BSD",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1593390374",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "ghc-libs"
+  ]
+}

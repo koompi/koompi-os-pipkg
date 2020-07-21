@@ -1,0 +1,23 @@
+{
+  "FILENAME": "python-suds-0.6-4-any.pkg.tar.xz",
+  "NAME": "python-suds",
+  "BASE": "python-suds",
+  "VERSION": "0.6-4",
+  "DESC": "A lightweight SOAP python client",
+  "CSIZE": "176764",
+  "ISIZE": "1320111",
+  "MD5SUM": "8bdf5f0c3ce71de555c6cda7d8c55e00",
+  "SHA256SUM": "72a485e02a64f79a9425cd4cc36ea256336fdd0c9c2f83fcff2f83109eba8305",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl2/zu8ACgkQeGxj8zDXy5K9QQ/6AxOhFCYV/U4ohtDcJDUJf1Km10x396/Gc6+/bwcf6bQq1V00ca77hFQpjkfCjV75aJJYOBv9YhvrzFKWdwd1bAgXNAW2YmjdtalLDkkAJ12r7UTyJl64WoSaEhExHg38aEJOsiwTCQijYy+S68ynyC+xPGNENPAz6EAxJWvUq9eRS4XGspH5Ba6UXxfB43EAwbpZhPurY1Jq7zxjrpx+JEesR9OtPFs2XLvrBV+q/KJHFoxZvoV0dCmOSp7CSvYlTAPOfGdWzWdZYLh5Bn2PtvLwq0XLrZjUW1pine5p+NCU4PLpKCDVZA+vsT28f3+ZmqPlokTE33UJEYi2BEMgOW27rfsuFgJX80dddUUf8BrBwQAFnme3W0FX+1cowM8809jDvmOVoklWSRzmgrNmgiyzET6blQizoAbQwjIeQwoJ59szhxfMoEsRzZfrt0S0+/SldxqlU54MgSXLiCr0eUrHukGtJEpcR8MrQh6N6mUuXIE0gg6/f209Cjg0fbmpqOOFbRaDdt4/Jm9jc4kdDgIUdcS6XwpdpIZfns2iMkaJ5+9B7U48+nlW9QVKwmrsADkVLbtzGIX7M9nE4w8KTvVWsGAfMm+hvTz47vugsJPb4+becb6u2XB9fPglW4zoeLEYmUBN7SFc4b2XqNBAhdBRjwTcAFR+uzpSFzSwPRA=",
+  "URL": "https://bitbucket.org/jurko/suds",
+  "LICENSE": "LGPL",
+  "ARCH": "any",
+  "BUILDDATE": "1572851364",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "python"
+  ]
+}

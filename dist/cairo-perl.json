@@ -1,0 +1,24 @@
+{
+  "FILENAME": "cairo-perl-1.107-2-x86_64.pkg.tar.zst",
+  "NAME": "cairo-perl",
+  "BASE": "cairo-perl",
+  "VERSION": "1.107-2",
+  "DESC": "Perl wrappers for cairo",
+  "CSIZE": "87231",
+  "ISIZE": "329754",
+  "MD5SUM": "8e5ac7f5f93c296d20d8a423c283a34b",
+  "SHA256SUM": "bd40c6e3489def98c921f15ded7c4ff104874ea29a983418b2f339cfc75fa10b",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl7vOMEACgkQeGxj8zDXy5IXsQ//fFqeVXB1j6ZTYurFVOQuRtC3xW38FqO2bDtw8CGaZmH0g2qMEYY1wNGjaUxPBTfQmUfu4BJdsNKROkN1k1hk1WQd+IxJ2QLEBOANPdVTU1+tZSlthcgRp0E8JV23unr3Al/m5IIyxsIhpvrhGRB/4B51xd+wg2gDKkCI8xhP11IIB2JdhCe3zDsbGBDLAqSX8ysmHtq2LJTA10T7BLL1lPt8rXHtY6aN46bkR+vH8K9amDut4DJ/Dp6UWv0982UwBgD7T9Mq9UflMGIAIHZzFLQhYPUXUyPEoI52fmj1xe4CzEXU2Ea7NCxcUUVAG4RnhlbelcT4pHKP/G/T/y9UsziwdAsvHcfvY5yfKY0A3IpBNQThT69qJD2DAEvx5AjNT0ZAihtB2r93LWyOshMnvFkBzY6rMujznmnLVpRXzr4Sq79s/qdlQPlX6rUNY6RrFloseppemqscIh48W75WyrLC/rTfQ3fBCbdHdNNGtlKvNp3OFE7b3L/3hl2KDULdMv2Bt8xd+2mNZGe8ntIjPH0+f/CyZyH7I8r8E3QDL8umcgG4QarqFxpHBeWrrm/LtHsgpoWF39roRN0hPGD5H4m9fEG2do3PxwCrNLzCNRQv6ZXT9BDALJtEKnbSWEw1ogc6f6jQFSIjf5DMmxiCG8NBMJA+bpUuBKKBOCuJ1/Y=",
+  "URL": "http://gtk2-perl.sourceforge.net/",
+  "LICENSE": "LGPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1592735910",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "cairo",
+    "perl"
+  ]
+}

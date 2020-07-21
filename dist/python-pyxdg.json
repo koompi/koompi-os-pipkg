@@ -1,0 +1,23 @@
+{
+  "FILENAME": "python-pyxdg-0.26-6-any.pkg.tar.zst",
+  "NAME": "python-pyxdg",
+  "BASE": "pyxdg",
+  "VERSION": "0.26-6",
+  "DESC": "Python library to access freedesktop.org standards",
+  "CSIZE": "78284",
+  "ISIZE": "400746",
+  "MD5SUM": "685ffb36009af71b192463e7bac61a4d",
+  "SHA256SUM": "daf4a197a86790baf671931bb473e5cc3ef52efcca5a81ec68321e4b160a92d7",
+  "PGPSIG": "iQIzBAABCAAdFiEELjbYYgIhSC/EXLfyqRdkdZMmtEAFAl6KObEACgkQqRdkdZMmtEBBvA//XoTgKJG+sOrrNLXM7+kKjNdzVox2JqQy5rVXaBxaIvAhdc2wXjjgbXiiN5U67UHGgvIh3IX6mx5vNHzdZhSVFe66OfOdW9HYNFl0DQTpwpg276VkHyVwTMsQ0360TYEz2JxKnPTQJA6iSp0q5DBnEoSBtcibrZfUEK8qArboIPbm2zDkGcMtJnmAzR7grT9reUT12Ji/3/FxgtGPbvpW+wcfFWJjq7eml6DeQimhjDgoU/cxhk6k0cBjnnbz134X1TM/neK+le3G5FIX3MEBd38j/udir9j5aDLC1gSiy4SsZbCkwYOIxLYnFJDssMntZ1mY6OL5knKDFEzkAp0Lm50ZQJzkLLmTS0RklF7NsjVUwIgjjBSISgpBuBLB5sEi54x8MU6pIV9AiDJRztLleZAC3IVuiLpkhI+e4Uo6EV+NajHvP3lEvwpWNumphHc+PV206k8LpQoEm2oLWI6ZIj6nS1qIC5L9cNQ8dS0GNU1BmCVQpYiK87YFLz7vyStYZoH/25PyEE+OSOi1LJxdTHDBf+2GM8Nng1JBQuLsu687wdqdajk+RMHcbxDab4miU5P5N/ZIT7hHtm7cppwTnv+xnEPkxf+lgnMZfWxDwcYtCEklpNAVes81lwI5nsLIgxQTaCCkXLSRDlM+wlOzAZY+lsbTtwb4hkMU4BiAEsw=",
+  "URL": "http://freedesktop.org/Software/pyxdg",
+  "LICENSE": "LGPL",
+  "ARCH": "any",
+  "BUILDDATE": "1586116999",
+  "PACKAGER": "Lukas Fleischer <lfleischer@archlinux.org>",
+  "PROVIDES": [
+    "python-xdg"
+  ],
+  "DEPENDS": [
+    "python"
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "FILENAME": "haskell-bencode-0.6.1.1-9-x86_64.pkg.tar.zst",
+  "NAME": "haskell-bencode",
+  "BASE": "haskell-bencode",
+  "VERSION": "0.6.1.1-9",
+  "DESC": "Parser and printer for bencoded data.",
+  "CSIZE": "54453",
+  "ISIZE": "234844",
+  "MD5SUM": "91068650d887eaf5a7527d7ab2f9d6e6",
+  "SHA256SUM": "14b7971868f9600376c0ee5db99da18892afdbe83729adb1022336e45d6f37ac",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl75AQcACgkQeGxj8zDXy5IBVBAAsPePBestWAjE9KuF2APNoy+zLbWE4tSCH1g4PHFH/vzTjNmJ/UuudpO22Uc86S8cII3wQ0xwSZ6OvwMIuFP4XLqFSlnIx3WIxpYsZ8uHNRiTQEIRR7R8+6u0iHGxDgC1qgS/2LMEK+dUPynBUvyekx/jaRYY2FkEcolS8xfcHq3e6oa0PavQKZ8x5sgdqywPdB6RpPENFPhkZ0F94Y/1r4UM8eS3HEnZ5OXhy4dEPO2xsDuO6ykZS3FLwcjtqN5u8F1Js141/cN0/ddnnK1Izpbs+lYT1g15KEuVEELz6C2dDSvU2SoQxxGXerYJvjl7A7wJe98574C5+RhiQUN8qHaUYM9zwL+3yDL2YkYCO1hJHME/SkkfAJcJCSvTRJFQ2WUK3B6SZW3R2XOYkePwkX7KJC70IGUoYo7MwkzQ4TPe2ZlRfxkBZT0VfPYGP8ulsY7dpecm7gLDJ+xZzH4fxYbI+sA+vzuQDlxZph09v2+TLreSiQj3jbepz0g89n3V3nmdP6FChG/PFOZ9cXsoE+LM4rJYfOsr943+19R+LJTcR9fBvNz9x+/m0bpLMPm5Hxt0xJmNRJ49ie19aAn34Hbw9aEk4mYUv7OH8chbGO2PvaWPSYY/EV6d2MMTa22zjg12MI9XRHwrFSlTmxFWLQVTTWyK5hc42wO7XC1Webs=",
+  "URL": "https://hackage.haskell.org/package/bencode",
+  "LICENSE": "BSD",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1593377006",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "ghc-libs",
+    "haskell-transformers-compat"
+  ]
+}

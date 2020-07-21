@@ -1,0 +1,26 @@
+{
+  "FILENAME": "python2-mock-3.0.5-3-any.pkg.tar.xz",
+  "NAME": "python2-mock",
+  "BASE": "python-mock",
+  "VERSION": "3.0.5-3",
+  "DESC": "Mocking and Patching Library for Testing",
+  "CSIZE": "42064",
+  "ISIZE": "249473",
+  "MD5SUM": "5644528252865bb685a6d32d11853323",
+  "SHA256SUM": "e9fd5d6fc463d10cb1808278cbf9c5f88bd8f71fd2e66e8f522813b89972f29a",
+  "PGPSIG": "iQEzBAABCAAdFiEEhs/8qRjPOvRxR1iAUeixSKmZnDQFAl28MvAACgkQUeixSKmZnDTVfgf/b1y87j+VyMpGKIqt9lBw8+/ZYnY2lxmZjbWY6hriHyhwAVUeObz0s/Djo7Ya33i5RHNa80dPezEwLulQIcxxgR/cYvpihJ25q+RGXiOfYlJ1Gfsz9xT6jzgwjqwlRyuncO3Yonj/I9LrZ69RqQkhlzyuey9ltjhNMtCRfz0oi27kKoX4cUFCdfVE+8+ruqz/K5tCpMsVq6wso7AWp+hTUhqyTveglovC6rk1lZmDPGIt/wb4LuUNVvmiMKKxl9fr3KlDrVCZBPmHYye3zbuaOOmXNOIGUvmyf1ayQeFn/LVnlBFAmMuYQ26mC3Dzl89N8Mfucss15cCsFafHrR9ZqQ==",
+  "URL": "http://www.voidspace.org.uk/python/mock/",
+  "LICENSE": "BSD",
+  "ARCH": "any",
+  "BUILDDATE": "1572614868",
+  "PACKAGER": "Evangelos Foutras <evangelos@foutrelis.com>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "python2",
+    "python2-six",
+    "python2-pbr",
+    "python2-funcsigs"
+  ]
+}

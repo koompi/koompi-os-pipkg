@@ -1,0 +1,24 @@
+{
+  "FILENAME": "gulp-4.0.2-2-any.pkg.tar.zst",
+  "NAME": "gulp",
+  "BASE": "gulp",
+  "VERSION": "4.0.2-2",
+  "DESC": "The streaming build system",
+  "CSIZE": "1123680",
+  "ISIZE": "5879537",
+  "MD5SUM": "a11c080bd940d9a5c0cda2ceb51815eb",
+  "SHA256SUM": "1b8185e22007582a58217563b5b00012c2a0b866dc15d35c8ec8b4e397c424fc",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl8EpFMACgkQeGxj8zDXy5JZgg//f5eHDBJa9qD8wCoTgEQk01l5hwjS9gflzhiSiGGATcnRXQLMYH0DR6DkyAz0QngKZotKEyMlD0go0M9rQMckyeE9zIhJzD2P3XxANIGmKlxoy7BoT+8ju3iUhjMYZjkCLEQ4FbzzHomJwStoDN9RaMAivkzr0gl/PzG62X8xGdTwIvhGFTMbtnwBFgQ1QmguJ+85cYP+D7WosTnvnm4sMU1fLzsEyi4P6zscOl277TaEgaFZsZkzApIoxZta0Ias1KZ498z5nEnBbMBCCGkFHUPUpbjdA/ZTkPJqKuQqShnxj2vW7t51nyPaSRLATVacDRY6YS1dXZRuzRX0Evtf1Ih8SVkbNdFIzJdm4Fu0cijOrMxfeS8tElE3Iun1uyEvi2i8fs/XhlruJ+wAeFHLlQiCKxcmNVP/axWRfrrMyUMbu4tuTAY2M6d1+mIQmWrr1uzxEeIi3Dg1TMOYlQGkFEwcbKoWWLi3OEHCSGPS1nKvzJMIkmggPz0PnFPfc3o+DBoeBRcu9D95tdXnW+CJeMUhrGSM9MkrEXjYmkVPBa1+LSDIMkOqQNbmwPVcj0RI9Nuv+Q09QBAXrnPZZ1eZefFOTwXM4Rv5nTGeX4EATWHrPaRTdScckK7rpNaQIa2RATSkvbrTFomFm39zGmMPOxrGEKfxqd5YeytnMeTUkVs=",
+  "URL": "https://gulpjs.com/",
+  "LICENSE": "MIT",
+  "ARCH": "any",
+  "BUILDDATE": "1594139661",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "nodejs",
+    "semver"
+  ]
+}

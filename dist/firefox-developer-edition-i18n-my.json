@@ -1,0 +1,23 @@
+{
+  "FILENAME": "firefox-developer-edition-i18n-my-79.0b6-1-any.pkg.tar.zst",
+  "NAME": "firefox-developer-edition-i18n-my",
+  "BASE": "firefox-developer-edition-i18n",
+  "VERSION": "79.0b6-1",
+  "DESC": "Burmese language pack for Firefox Developer Edition",
+  "CSIZE": "497839",
+  "ISIZE": "556417",
+  "MD5SUM": "26c180b24c83cca4a8ec17007d6d1a10",
+  "SHA256SUM": "d95a77edffaf02fdf6b341fd257d1e57a2215674e36e1f7387f49eba91b4904e",
+  "PGPSIG": "iQEzBAABCAAdFiEEYB8g8dG7v0p4z1tt9rFhCz7NvJ8FAl8IbNAACgkQ9rFhCz7NvJ9X1Qf/SlAOEYKnBqbiU/2fCY0skTLJKz+psvSdOGFqD15z9yYu7jnlv0A3+BdtEgvgIUomtIxctRLx7dC9hIZCHPtX6JmYsF9srW5R812PXNWv4wHV2AXXPhXOWmx5+O1OvEWNa5KrSf4sf4Gp6tzPIdZN815u1SoQLbIMPVX0ET1n1ROekSgsjALsSTgdbkAzg5w1wOTztyEF3rMFiCqRNueTe/NB9kabnDatyaqGn2NWTPIWYpxUC7e68iBU0XNzWnKci9XxwSDkekAFi1ep1xi3RS8C/mUeIxW4Ij5PX+RjUDjhuIsmX+EqDzxLqPFsXBQCJq4iZYIA4xTFKE7wW22n3Q==",
+  "URL": "https://www.mozilla.com/",
+  "LICENSE": "MPL",
+  "ARCH": "any",
+  "BUILDDATE": "1594387381",
+  "PACKAGER": "Andrew Crerar <andrew@crerar.io>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "firefox-developer-edition>=79.0b6"
+  ]
+}

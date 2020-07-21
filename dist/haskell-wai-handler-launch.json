@@ -1,0 +1,28 @@
+{
+  "FILENAME": "haskell-wai-handler-launch-3.0.3.1-82-x86_64.pkg.tar.zst",
+  "NAME": "haskell-wai-handler-launch",
+  "BASE": "haskell-wai-handler-launch",
+  "VERSION": "3.0.3.1-82",
+  "DESC": "Launch a web app in the default browser.",
+  "CSIZE": "26439",
+  "ISIZE": "84362",
+  "MD5SUM": "e172bf1c068085ce841b6b57a7a4e84f",
+  "SHA256SUM": "39d57680b9e30cdf42725cb84b052df7b141587883fd436f843df6b82ca44f52",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl757A4ACgkQeGxj8zDXy5IPNg//U4YUHhmSLwx6tFbrTY9JBWVUIlobLo5NCnLDf5bhAqOAHwW1CIR1gQ8o9O+mQeZT0gjW5CRVJeVJeBAknSVNndxJK3Dm2AXkwbgaN9eHVplm4EM8M8C5XOMmHlqgg1PPAR3YutYiqYTbZnQlgHHzx4RxL1QH5U6OAANpwYynCE1E2/wX0pP/+tZglEMI8cms79sph10iL/YrKafSTnOQMUIn4mNalxLW6LOfjrEs+0+kuPrNmIJWG8l/E6lPB7Pky/jmgxk7l8n6Fhc2O1rj4XHya9FKXkpuurxCkXCCaS3qmTVbnoR1+tomAm4Zcbc3kosc81BLhXZVNiZ1w03sPuXpNsaPLiFnut2/UJz7k0wRwo6VN8RXtRMawpXYALba+pEYtTuG9x1BISBjBKfHIYUGCUd7YL/zuq8etGEzwpt4/dSekOaNm0SwjHpc2WpXRnfPCpA2KISkymdjiUUMJG9mBfgFky0RhSEHRvhiQNyDEGX4+vaOhc/I4Rgc+xovIvb5S0/s7P+RJGExBDxWB8BxAkMPWix/GQ7IkffPRwqcY7c1QDHM2pvfdUpm11Ayi57PEJA61T96Ug2wn9m5HWktL3xiFdIl5gafAOkezwXbAQaGMoMVLRBQbURd7zjOvjU4bLduPQvZBHokej5PFy8Cyepwmapey1gpcdqkbLU=",
+  "URL": "https://github.com/yesodweb/wai",
+  "LICENSE": "MIT",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1593437173",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "ghc-libs",
+    "haskell-wai",
+    "haskell-warp",
+    "haskell-http-types",
+    "haskell-streaming-commons",
+    "haskell-async"
+  ]
+}

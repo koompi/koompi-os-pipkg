@@ -1,0 +1,25 @@
+{
+  "FILENAME": "deepin-qt5integration-5.1.0.3-1-x86_64.pkg.tar.zst",
+  "NAME": "deepin-qt5integration",
+  "BASE": "deepin-qt5integration",
+  "VERSION": "5.1.0.3-1",
+  "DESC": "Qt platform theme integration plugins for DDE",
+  "CSIZE": "434809",
+  "ISIZE": "1404472",
+  "MD5SUM": "ea88eec3fc9696df96a9b9ab7d658f5a",
+  "SHA256SUM": "0a1d5f30cd1ba01cf3581b0975b094d7e2d615361e9544781252c89bba6f111f",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl7+/HQACgkQeGxj8zDXy5JsWBAAlyvFHV8cHyGZYe/i6fjPODwsm8sbxp/4OzeNTQSiJ7uTBX0YD4AeUswBmrQ8/fkqPEYOtrfdqGEJWXKSB8V04CzOZSHzx2Z5bZohfFf5cG7wtDsMYQuAHPM7acPwgpi9mo8BAmW0lJr2239JIWpLErrZH/ulXsYVwwiaGH7ftYzEh3SYEAfvgIbcph002ypy8FGKWtRuFknQ6uB2/LBjQbpmI+khQJwUqFbsPzlKSbnq2rFkgRnx8gJn0IbcgdXr8398FcwuSBVXTMs3uGUQ9TohFJh/AzEuy7jQHDrhsBQPfz8rcmP/Yi8uhhxO/ZZsTJiNkYgoj0fy93xyTpoeKeq408TCYt6CEUxOi7zu/1fbYqv3cZqJoNDwXw4Y8/xq+MeYzSDoLIyufsCMz8ll/s0LEjlPHZk55ddILreOSCRnLf8qVayCtvEpcKtlKLRNG9FeyglJ+hRAjff3DaMpK2mqMc+dYp71ZHhk6rZpRPRCQn3FAIG0gsn59bBQt3BcbXYkFqhYI8nbTsDHeMsofkBwQHPw5A5oMzdr9eiOOCXseXn2yJliXPxQMR66mbXRS2PUHKB91eNKVD05HJ8LwOLNagPx3XDOYpwGz4hh1FCuMBBHT7ZnMk2y5Nv03FriXh+Sf5ha4ytE8afAYZt4tzd9B9IECwNsaI2aU/aKabM=",
+  "URL": "https://github.com/linuxdeepin/qt5integration",
+  "LICENSE": "GPL3",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1593768906",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "dtkwidget",
+    "libqtxdg",
+    "deepin-qt5platform-plugins"
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "FILENAME": "perl-poe-component-client-keepalive-0.272-7-any.pkg.tar.zst",
+  "NAME": "perl-poe-component-client-keepalive",
+  "BASE": "perl-poe-component-client-keepalive",
+  "VERSION": "0.272-7",
+  "DESC": "Perl/CPAN Module POE::Component::Client::Keepalive",
+  "CSIZE": "24597",
+  "ISIZE": "57308",
+  "MD5SUM": "e18fef28f8b1bad901d27f383f6155eb",
+  "SHA256SUM": "be4842ef9b3345e055a05499726a26b4c1b2649ad3507c2f87b1db6a2021ab59",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl7vfPUACgkQeGxj8zDXy5JyWQ//SM7uxGANrty83jYNXnC2SxUkPMOoVKLaxlNO25dXCS6cpDcDSpLh/56uGzewjHrxC5mDBdh5U32jsDsW8qQtRUrG238WcLourG+Mq7l+8kTvh406bbzNEH9TcLJmiVrefcWxWcvOeL90uaiVXIcOuxtkmuY00lu4/xMgXWHY1DXNAccTaTt23hfK6dyZdVScdpXuB+iu1PCjwmz/amoAc6weEHJLNPziteE8IkL3gzNH03mOoAgpgy87l/k3f8iwFgJUoChFjQDNEMRbNTuhRpa/L/b/XIQHMq7CQXkAI8VDbITeYE2f8Tq2C8I/m1nADkRJMVrE4rtCsBMJcuQ6wKxrdqUMl6h5lTBU2ml7+iMhhn7CYRQRWKCYgsoOG3lP55Jasb6+vAF/3eZ3+Q8lYrhB9MUsYy5k9SkM9f9gWobXRZQXMMuQtAYlWIdMiVIPtCjMND5kYKbGFoSXa7mP0TqONydCfqqhnvGukK7m7kbhrU6xkV4B6sqXBeGDNqJVQnbnNMa/OK86uATV9M0bR3BW3pnl95qllZF7LEDOGNlzEOyp2XSuCVm83t87tBL9EmSKmO4xotRQ+dPEK7kwFC46yMgwhVbsttc/9G1qrKo2WcNsEgfnFAMtCW/BZFratYX5fQ1ZevAPdRV6jpd2xIaLHPYmeSH+zKZphxs+Fu0=",
+  "URL": "https://search.cpan.org/dist/POE-Component-Client-Keepalive",
+  "LICENSE": "GPL",
+  "ARCH": "any",
+  "BUILDDATE": "1592753362",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "perl-poe-component-client-dns",
+    "perl-poe",
+    "perl-poe-component-resolver",
+    "perl-net-ip-minimal"
+  ]
+}

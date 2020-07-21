@@ -1,0 +1,31 @@
+{
+  "FILENAME": "lib32-libnm-glib-1.18.5dev+12+ga8746f48ca-1-x86_64.pkg.tar.xz",
+  "NAME": "lib32-libnm-glib",
+  "BASE": "lib32-libnm-glib",
+  "VERSION": "1.18.5dev+12+ga8746f48ca-1",
+  "DESC": "NetworkManager client library (legacy)",
+  "CSIZE": "189236",
+  "ISIZE": "796193",
+  "MD5SUM": "bebf22fd9da271e2281a6942d7790d60",
+  "SHA256SUM": "148775fb2c55321a57e8a7149894864325abb0805f4098533223acc4fee0951b",
+  "PGPSIG": "iQEzBAABCAAdFiEEghj4iEmqxSLpTPRwpekojE+kFfoFAl3/pIYACgkQpekojE+kFfpxqQf9EzBBSS7+yFGuGMgolPXwMcy8+9LhuTndPaAEU5pC5krIfTh3W4tD71/hYDvJmrMttQ1lkBY9Eah0f1VAzcUGXPROpFtR4//RrHZ15YCWBvQ9P1AJBTApmRfRM2E/HeWFHJ0uTC5orGRYUNLXGdlYLBytKBG/895dH7Kh03boaBQ1YBgAUa4oXs2o34pfJxBa8kmY+ZwG3A4Ts6d8dksrGKmpL7GibdXseaZ7TsO9F8JCK6fqZOYhKBxYt9coLQ9UKeNtKrJz6ew1MHHypdT+C7euHMJanOB+VJGPFqkebwr2D96WKoNOgmlxmHRHRmDNZz+eBVWLca3x9dvLSaIyOQ==",
+  "URL": "https://wiki.gnome.org/Projects/NetworkManager",
+  "LICENSE": "GPL2",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1577034657",
+  "PACKAGER": "Jan Alexander Steffens (heftig) <jan.steffens@gmail.com>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "lib32-dbus",
+    "lib32-dbus-glib",
+    "lib32-glib2",
+    "lib32-glibc",
+    "lib32-libgudev",
+    "lib32-nspr",
+    "lib32-nss",
+    "lib32-util-linux",
+    "libnm-glib"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "FILENAME": "f2fs-tools-1.13.0-2-x86_64.pkg.tar.zst",
+  "NAME": "f2fs-tools",
+  "BASE": "f2fs-tools",
+  "VERSION": "1.13.0-2",
+  "DESC": "Tools for Flash-Friendly File System (F2FS)",
+  "CSIZE": "180750",
+  "ISIZE": "502674",
+  "MD5SUM": "ad8ac2b6ef9c74f8bdf8ad2f04ec20a3",
+  "SHA256SUM": "b04683acaa70fa7ae1d19c8d6617ca739fe9fb15d4e9b8fc811d48f844905f76",
+  "PGPSIG": "iQEzBAABCAAdFiEEhs/8qRjPOvRxR1iAUeixSKmZnDQFAl6/0xYACgkQUeixSKmZnDQQbAgAta0kl23CJNRF8n9D1rX0jOghA6D1PCTFb/bZKud+bQ7iJwAhGoNdlrgA+I29fSJhEN3aYcn0yaDoqNgkYKLbVVWVGpaQiZYsLjUWRnzddKvbE9t49hZF3c2HaRPWGTpbAPrz7sUQGnB3Kvs6VMBivwAP49684lR2oqriCaVfjXWnDGVwxuYCGLyRIQG7w2UNXdT8AbJWW46HfhN8kJFYz+wRGAmIjt685oOPBbHEYYF1ppVhq1c2OaIBGeyQdzulOIkuUgOmYnA4EXAb1776yEuyubLuvruckOxixHVCpv9uwpK4K6RN+TjiZrtcrjTuM8WXNRqhUDjLfIC3AI/2vQ==",
+  "URL": "https://git.kernel.org/pub/scm/linux/kernel/git/jaegeuk/f2fs-tools.git/about/",
+  "LICENSE": "GPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1589629680",
+  "PACKAGER": "Evangelos Foutras <evangelos@foutrelis.com>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "util-linux"
+  ]
+}

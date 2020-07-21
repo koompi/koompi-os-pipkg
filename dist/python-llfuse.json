@@ -1,0 +1,24 @@
+{
+  "FILENAME": "python-llfuse-1.3.6-2-x86_64.pkg.tar.xz",
+  "NAME": "python-llfuse",
+  "BASE": "python-llfuse",
+  "VERSION": "1.3.6-2",
+  "DESC": "A set of Python bindings for the low level FUSE API.",
+  "CSIZE": "223960",
+  "ISIZE": "782560",
+  "MD5SUM": "732c81792306b0ce651d6cd3e35d433f",
+  "SHA256SUM": "eb898b099e4b7b7317c2bc4560482e389cc664b63bd9864795aebf77b1e05b0b",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl2/fVwACgkQeGxj8zDXy5Iv1w//YvKLSDypNCoxa+kY3D96Ufr8wj4JJeODVzn9+LpR+kT+KPNFuY21ms9GIw4JBCfeK9XzwHAHt0vuUdr82gSm4pOKuWswKcNVvr2IOh3pxEH/yGStbDIa0YI7MDctOml/JZI1rhGqHka06nMaR80wXhPFJ3WrbSwOwzammmB2oAmjgva/sXMtBQgkFeM8jJPM/eBvFYdkZrv8NUmjsa/W1cdAwmBRcmoNJB4rp+H21dyyl7PIDOC8dNQGG16pZuYP0TfikQIYZDhN349AvzKyDgTujcd9YtCuJNItT86/LS2JmPtiLhLy5SOMjPuyliainwMCnf9eeMeI1IlwGc2d22A1Xoc3ei1uTRJSJGsDvDAjWCGkrYhTA++LO31BJN+oYtvMT/5uMvh9lFCjJHc/wRYackiEuDpOEkS6Tnarwm/A7E+XQzMM8S6ZeipHOPhnz0cCMrTxMOZa3CCjGri51LhqK0gxnXqjOcHSMyRv+YWy5uhe/flagiQ7Om10ijozy3R1A9V+HGz+M+gPvjW/9Y6GExmu04gvA0iVFCV4yPF6y9yvfgfPHHMeZJhDyxjTZbBZcgQUwasf2CzY5pi8bv1U3ccF3QLlv80eM6/LTVlluUn5NT0wvHdD0+nHnK+bUl3Tu4AR2jaXZYebZ9b8wp87xJUTTXBn96QO3rmlk1w=",
+  "URL": "https://bitbucket.org/nikratio/python-llfuse/",
+  "LICENSE": "LGPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1572830505",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "python",
+    "fuse2"
+  ]
+}

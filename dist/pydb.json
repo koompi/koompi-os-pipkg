@@ -1,0 +1,23 @@
+{
+  "FILENAME": "pydb-1.26-5-any.pkg.tar.zst",
+  "NAME": "pydb",
+  "BASE": "pydb",
+  "VERSION": "1.26-5",
+  "DESC": "Pydb - Extended Python Debugger",
+  "CSIZE": "140497",
+  "ISIZE": "840969",
+  "MD5SUM": "0b5d27d9f3ac8e529dbf9608482eca95",
+  "SHA256SUM": "4573abf8352f2d8bcf8e4e4387d3cbfee6e3cb65a8942d96bd42ee02a1526caf",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl8EoiYACgkQeGxj8zDXy5KYtQ//XHH4b6cVWw6qM+ZdM/4armag9O1LcIY4wMTu2EcCoRnlOwKOHqJDkffFKooGHr9k/hvWs9wDEloZQS2emSGv5uErv+VIa9tc/i9oC13B3rUDE/NQdu06tSZ59zQCdzM1uIMvr3qu2cnsPtf40soJb7Zenezrf3nrqj6Xsw8pEpdPD00gScH0RYw99CUT1SGMFIpAfJw+Qpnn2tAznKSBwqEqWt1gE4uGB0RVNSdNrJBvRYu5RBE6RXCX0O9t3UKprqaBJFtLPpyJbt3gmMe26IVSOQdt+GC/qT5UZs8pB8t0Lz9PBeGg/VH+1JceUJ0hNWm0zA8gqwLXEdU9gHwDir4D7WQnFDGvwIFpHu56aGlKtgogxbNhAZWkqiEaSU44gnOfuT8Wky7SdxxgiFCxjf/dUv4+sq72i59eMfrVH+puuZdtyP7bmVOgDnOWQoSZsS3rjN3ucG7FIv/E2Q6CD9Wdy6FAozGEO3bodbyGBEAutGv6Nojup+fqrYjvgTeBisqSLW4thrcWZzfc6GngTb3FvTwupfiCUpNC4p6JlvnuMek6wBS7e83VynLIw7ofq6JgeRtRvbZ/GKutQcB7jzs+vETJ1BobwIa5nfCO0MxGS2QPJjsrIUCE/LpH9gPXLvP4iMjq0YT+4QLq8JEaVAFLZOu/FDVoI6gfNWCzId0=",
+  "URL": "http://bashdb.sourceforge.net/pydb/",
+  "LICENSE": "GPL",
+  "ARCH": "any",
+  "BUILDDATE": "1594139142",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "python2"
+  ]
+}

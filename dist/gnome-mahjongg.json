@@ -1,0 +1,24 @@
+{
+  "FILENAME": "gnome-mahjongg-3.36.2-1-x86_64.pkg.tar.zst",
+  "NAME": "gnome-mahjongg",
+  "BASE": "gnome-mahjongg",
+  "VERSION": "3.36.2-1",
+  "DESC": "Disassemble a pile of tiles by removing matching pairs",
+  "CSIZE": "2680563",
+  "ISIZE": "3880851",
+  "MD5SUM": "57b922493a8c022fa19ff5bf573c3399",
+  "SHA256SUM": "8381fa2e6b404755243d15c6c959bcc10725db3c24a9503b385f81f2efad5238",
+  "PGPSIG": "iQEzBAABCAAdFiEEghj4iEmqxSLpTPRwpekojE+kFfoFAl6jn8QACgkQpekojE+kFfreQwgAmtYmEnCj7zA93BTpaOOfClcvmQBC8/RD3IqLmTbzhGTxZxrxXOO8+mzE79aZl+q6LvIuF/iUbPtgb6wkd3565MP4zek5C+g1qNrQikOyZ31q/vFBQQAkZar/qcB5iunDiAZGaA98xa/jBzEVZaZpB9966NZplf3bRND2ACN/P6wS4XqQI1ys1rS1di0wDyP6aLy8gvuhlnyMUPh4ZqT++OJa6tJQ7OuJZcwuhWxIQh5ew9ga+tLFeg8T9jhfN8CAcrulTAHxSCy2WH2M3zrGTu7TWLEYkZFwsQxSbIU3sG7sHiC0R6n7ur6Nkqqfve7WMLThdeD+mkeu4gDRet9R3A==",
+  "URL": "https://wiki.gnome.org/Apps/Mahjongg",
+  "LICENSE": "GPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1587780825",
+  "PACKAGER": "Jan Alexander Steffens (heftig) <jan.steffens@gmail.com>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "gtk3",
+    "librsvg"
+  ]
+}

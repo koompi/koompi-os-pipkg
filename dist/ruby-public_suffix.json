@@ -1,0 +1,23 @@
+{
+  "FILENAME": "ruby-public_suffix-4.0.5-1-any.pkg.tar.zst",
+  "NAME": "ruby-public_suffix",
+  "BASE": "ruby-public_suffix",
+  "VERSION": "4.0.5-1",
+  "DESC": "Domain name parser based on the Public Suffix List",
+  "CSIZE": "114880",
+  "ISIZE": "404068",
+  "MD5SUM": "3aad49d368874e0bed6751c0db17c9f9",
+  "SHA256SUM": "7ff08b49f5d8bbdc6012d1a2b2efff697ff18f793dd307fab4bdac0625a53c41",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl7LjBYACgkQeGxj8zDXy5JPkA//e24mor7bQlviJZnTMC2YA/lNFFgjgbHv+4zOB9E1TooBIKJQgmSrMiOX3LL2XJuy149IU6nvOj8fNdQQ4O/DvFnXvZDsBBxM9fMpnokqlYZXYOUh/DFKsWxJyn2bLf7ZLVFregQ1wC0G6C6YCDeRApwqTfWt0hwqCttlEnBjeBK9eRyRrVtH/UgyA0L4nGE7ob5bCBRnq9OH2U0RlxkMR8Lk4tbkhur/ZA8CTbo/RipH4JCvy23kkIJZFxw+dVcfGV5j+H7lDNrX85ppofOFElxFBO6qC/vIbTTAsOnQH8i52SZ7hQwWtPBVl2RrTEhBD6dIWMtHuX/eTOxUaYZoYHSKM/K7kr/bX/WHNjjObZwiwvVluaVAPY31bktQIxo3cgy/t8rp6P3pl0rYhCs3oCu8SIEZB+S07C2R1VXN92PRywfIaMycAfgoJi2ATRgMD6JwNLRWfWI3ZxGrEAatcGLw/RaCAX5rI17M/i0xQbUDJIrP6Pa96tpun/6of5T7RT1Tp5Ej3jcvDjndVNuByrwO+UUSjl7aCYw2lMkcT6g9jCfpH1ik5Lj3e65u3kbplmXYoEXpAPCGrVfc8Oj8uoq2fQUGdDvmUEekIQn85Dc+RT4qOGheADlphWvopynW0NePn2ev3Hm+guC9Bbjzlu8f4z5rsmUYuhtWrUFqE/s=",
+  "URL": "https://simonecarletti.com/code/publicsuffix-ruby",
+  "LICENSE": "MIT",
+  "ARCH": "any",
+  "BUILDDATE": "1590372333",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "ruby"
+  ]
+}

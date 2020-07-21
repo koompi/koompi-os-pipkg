@@ -1,0 +1,23 @@
+{
+  "FILENAME": "zssh-1.5c-12-x86_64.pkg.tar.zst",
+  "NAME": "zssh",
+  "BASE": "zssh",
+  "VERSION": "1.5c-12",
+  "DESC": "SSH and Telnet client with ZMODEM file transfer capability",
+  "CSIZE": "18652",
+  "ISIZE": "42107",
+  "MD5SUM": "eb076e56a65d64febad409b08387bcd2",
+  "SHA256SUM": "3b88178980580883ae2fbdcfc5f5136bbd79fb5b299877a7293313130ce8b0f9",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl8Ee00ACgkQeGxj8zDXy5KuEg/+JzZv71IEZaGWSyOARoKKhPxnx9BgzM6aZImg5ZfzTWSXdABovTqCf4kJVd3nHKUObvoU9eC6f6ZAO+a3izcS73OMVjX0R7l2cVfc+d7V+3z+qVMaiTnRERk63jiy4WQZ5N57JMoWvw6KupJ9QU/urq5licyYVXy3I4BdL2hqDDfmfgm3dR6OB56R/z+mnU2y5euYBXTGkINWUmwFqIRTSfdD5YF6qEOTn9rhpCNtrtPhYcCLIAfDJisExPij12r6Z5evXKJ9crFJi9vnmgEtyhm1JpgPEgXvSH6WaSuQm/ODTblD0jKBecqgXgp4QZ3o1cEYiHcxio8oizcWUfvxAYxe2D8efFb6mIun7xqGi98zmpF6ao++uB3oGzvMB78RKdCvFf3DVfFBVNyaSO1MSryjhbzaQaEyg6xoiwA1T0mlP9Z7yUOmSznXcSktIe9HDr3cNehegN5QHIXM8HGy4nmLQgxuC02Pz2K8bYGZeckpLCEoYrVK1A4DLcystuThW4uGFA/NX6Kvy8hF4oQShPJU68s6SDnxh0g6NxqQI1GzzgxUXzcqcWbMyGWzBRv4fiPEbOO1rPNIb5UJOExdGAQbrT8inDHN+NpQtF4W/P+QIyJnN40izCsmDwas6yF5V2iCcfgiB/qrBEbmd7BycpnRHJTcVjbunSd7dNE8FpA=",
+  "URL": "http://zssh.sourceforge.net/",
+  "LICENSE": "GPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1594129210",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "readline"
+  ]
+}

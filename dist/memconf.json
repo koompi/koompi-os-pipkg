@@ -1,0 +1,24 @@
+{
+  "FILENAME": "memconf-3.15-1-any.pkg.tar.zst",
+  "NAME": "memconf",
+  "BASE": "memconf",
+  "VERSION": "3.15-1",
+  "DESC": "Identify sizes of installed memory modules.",
+  "CSIZE": "81298",
+  "ISIZE": "399243",
+  "MD5SUM": "745750ae9d125699c691e5b7448f9dac",
+  "SHA256SUM": "e233fadfb34eb072632ce0feaa2493fab92101ace17e8522d05f6c2f08047f3d",
+  "PGPSIG": "iQEzBAABCAAdFiEESMOx8w3dD+Z+UW0WOW4+JbqxQsEFAl62T1sACgkQOW4+JbqxQsGw6Qf+I4yPQbbtdthci1c+rM70KfZLYv0Pa/fDzmB1+7FCdhLZ1goUyFjuAa8KEQ81+FbTesP3+wtbscJiftW+MVAZszFGIlwhNsHKdVUmOKPxXs4ZeJQmQ7yZkIfdq80GUcJ6TuGAhD8TS0vRpFsr3TsbG7+gZTIsUucEidYhkdFA0s8gD1F5oCm8KTkQmQIQBYg78F0Rtn+qxM9h7wFzTwUhgzoBq8/pW61EafJ5px5StErOLilid7LXUOx8kAUQuPECWKgCMPkFTSJwIQ22Ar7PpgyBOKGJszNDS34CsE0h/joLKqPTd0dpXhj902/n6hugGb5UGZGEPZZnohUhwps7rw==",
+  "URL": "http://www.4schmidts.com/memconf.html",
+  "LICENSE": "GPL",
+  "ARCH": "any",
+  "BUILDDATE": "1589008276",
+  "PACKAGER": "Kyle Keen <keenerd@gmail.com>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "dmidecode",
+    "perl"
+  ]
+}

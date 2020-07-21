@@ -1,0 +1,27 @@
+{
+  "FILENAME": "python-keystoneauth1-4.2.0-1-any.pkg.tar.zst",
+  "NAME": "python-keystoneauth1",
+  "BASE": "python-keystoneauth1",
+  "VERSION": "4.2.0-1",
+  "DESC": "Authentication Library for OpenStack Identity",
+  "CSIZE": "387161",
+  "ISIZE": "2821546",
+  "MD5SUM": "46b36969e1d00a6cf3125418010b62a6",
+  "SHA256SUM": "810f69c95c698f0668b66bfb35c14ae044b4e2c4e9319a93d3ce24ae8095b5e4",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl7zByQACgkQeGxj8zDXy5JWvQ//eHgrfoqMCLY6EW/2f4nPqD8oz1mBI0QamWIbH8lQ9aVraBFbtxrFJ60iiqGdvucrYan3mSsS7T3UkQ8IuLpQIRvJWXV5bSM3eldxusGjZ3jPlyBNLBS3ySe5pDynol0rZsAr4HaBNlkUX2URiuwT4+3Gs5Imj/kB04vcymUF21YEXpYJH2hyqu9BD14E9LUTtSwxNfTbdh9ckieeONMcHB0akc6ADe3a1IviGDgvt8r8A3ipTwTkiVXqqIrHo7+wdlx37iT3obvI3cZGJFJ641Ag3wZXy1A3lM5bL34NO776C1KiE9l+i7GRof6pyoZy02jrgnVBGXXg4nBK/SW4ednQW4lWaYEI17Ng5nSQxY3KVjaIWEQcnQUfjcB58Ysj998qcSlveSysS3R926fSh3NOhr64cKxWcqqGhe7KFoqRb0NjDFQZcmLe46tQEJSkt5NU9zWqiOxYfvLob8nr/uxs4UXELNicYc+4ohJF/pnBneBkC7UFC9q1HUGYHi8KFX1H2qsCdmol2wBmALIPMbVshP72sumIAv5OpS5fNQUAR4AG1QR3Opb9sgs4vcOJBg6Si/JDdEh7cDZKAufZG8AJ5fJvsmcE8cm/XRDS4wpg01mBi5sq/ks6GxKwBqbf8lGfkIUlW9IaPjDITsT3kZa1MfTIrjHUi4UHfrs5Mro=",
+  "URL": "https://docs.openstack.org/developer/keystoneauth",
+  "LICENSE": "Apache",
+  "ARCH": "any",
+  "BUILDDATE": "1592985289",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "python-pbr",
+    "python-iso8601",
+    "python-stevedore",
+    "python-os-service-types",
+    "python-requests"
+  ]
+}

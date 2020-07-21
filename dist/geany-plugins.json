@@ -1,0 +1,31 @@
+{
+  "FILENAME": "geany-plugins-1.36-5-x86_64.pkg.tar.zst",
+  "NAME": "geany-plugins",
+  "BASE": "geany-plugins",
+  "VERSION": "1.36-5",
+  "DESC": "Plugins for Geany",
+  "CSIZE": "2216321",
+  "ISIZE": "6964462",
+  "MD5SUM": "167fd42560396f7aa60fcbb1b94f0455",
+  "SHA256SUM": "d266efedc939ece5aef98fe496dcbd1e259613fc94f89bc4761e64e092152316",
+  "PGPSIG": "iQEzBAABCAAdFiEEghj4iEmqxSLpTPRwpekojE+kFfoFAl6KBdcACgkQpekojE+kFfq4Fwf/clCmfhguEnZGoWYZ9Tf9Vh4AvRxOnHra2Q5mX9cqdcDl2AV7ci4ld+PB2yE1k2pk9SQ4PTgtPhimVbWIibKiOa65YqGgA4gEFkmTdB8weuen7uZFv9Ciee6+36MR+56t8efav34vxRrcvKl0Y95i/jNZ+W7Fsx4YTYiaLE/8u6Stcefs7pMiVVUO575iJ3PB3GMBhM0mGVJlmplk0HJUAlHuZOTf71Y0tsx23fxgVBTbyNvD8S6EVa2iCw2Rcq4+tjO0YZxfv4X9O5wqcF69tvNaGXjkw5Km4Y1zCX3dVcR6i9OP2C7coHxoiL9JNVtoCRVmsPSFdao1t6avwN9xrw==",
+  "URL": "https://plugins.geany.org/",
+  "LICENSE": "GPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1586103288",
+  "PACKAGER": "Jan Alexander Steffens (heftig) <jan.steffens@gmail.com>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "geany>=1.36",
+    "ctpl",
+    "gpgme",
+    "gtkspell3",
+    "lua51",
+    "python",
+    "vte3",
+    "webkit2gtk",
+    "libgit2"
+  ]
+}

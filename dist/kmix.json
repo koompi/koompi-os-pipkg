@@ -1,0 +1,26 @@
+{
+  "FILENAME": "kmix-20.04.3-1-x86_64.pkg.tar.zst",
+  "NAME": "kmix",
+  "BASE": "kmix",
+  "VERSION": "20.04.3-1",
+  "DESC": "KDE volume control program",
+  "CSIZE": "1216052",
+  "ISIZE": "2860606",
+  "MD5SUM": "dc141d10218a3bebbd8d0586cd09958e",
+  "SHA256SUM": "41f048b49d81f02317068c975c9309f07d7bfa2836d4bd15420dbf02e7049153",
+  "PGPSIG": "iQEzBAABCAAdFiEEFRnVq6Zb9vwrc8dWek52CV2KUuQFAl8HBvUACgkQek52CV2KUuSKEQgAmnQwAA8t3S+RAdgAHKvEJV/RCYTxWQwsWnmnj4tDHP7EfuYF5GETJeLCnwcI9vekABFnhqnUI4G1wIat43SxKX2CQoj5qDPpoHRoIcEZg+OLlomngvqLrJZ7GjceCy9OZRbm2294q5PxIE6mOen2bW/mawDtIoytnFAUJ7OcP5TMvCZSJFhLC68AMyL87ixWieOSSlg4PhzUHkKA98OUYMZp+8tiPUDhBA4+UsL6z410vYbVwvz0Dls91gXDFe1HQf7GHqD8nJA1oFLuCvdBqm22CIMOiWbcge+bW0FS964HyPNv2ZppcQZsLS/rWkthhRMVUEfygeLzNMepG7jC3g==",
+  "URL": "https://kde.org/applications/multimedia/kmix/",
+  "LICENSE": "GPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1594110765",
+  "PACKAGER": "Antonio Rojas <arojas@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "knotifications",
+    "kxmlgui",
+    "solid",
+    "hicolor-icon-theme"
+  ]
+}

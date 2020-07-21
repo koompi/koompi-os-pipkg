@@ -1,0 +1,23 @@
+{
+  "FILENAME": "python-tempita-0.5.3dev20170202-4-any.pkg.tar.xz",
+  "NAME": "python-tempita",
+  "BASE": "python-tempita",
+  "VERSION": "0.5.3dev20170202-4",
+  "DESC": "A lightweight unicode templating language",
+  "CSIZE": "27492",
+  "ISIZE": "134790",
+  "MD5SUM": "de0d73e356e86993306a33ec27559799",
+  "SHA256SUM": "fcb55bb528b0dc73f896d1f83be40085d59da318d24a334173df58494164739c",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl27DrAACgkQeGxj8zDXy5K5cA//T9dX6Zsr2AOO6EpyHuq0p1nTAwLDMMXU+xCgQxwSLXRAWDRE+qfo1ptXar4zcBudZ0ifC9gUBf0FOl5y7AXeNwFY54sSi53fCrvGzvHcTqek5XY1Fcbpz7aySNe7KLa1z7/UkEmX7MuYpYAMTphC57ngA06WvMwVD6ckRVYh6ehoSmB9V7sYhJML9343MlQy+ujhSb3WFCS1k03KAqvU4Gc/b4quXg9fVgIVZaHs4nphNk7K/KzeVVuvIKrO6QmTxpRv0l/eCAuvKyXtBPY5W1l/EKxziCerFTfUQHsCUpysCEtHcn/JUjqCDPin8N3LXgE2waWS+0zuVFmyr2bl5QSiatPlwudk5dTsMxdJnw7oiHjc/J3VN6zpKn3zZsNULuC1MEUFxMtvscMWyRsbPw26o8yMLWz3qTNY15Sff1ByUzX91xhkf/vuBK8vClGBEmKT6vpgMDGSX3WfiME1ifHFgB7Q6v96dog4Not/6Aa0LIBhHf39TWQRQESJIgKCYEBRPvb7cnjtbfGIXe1aMIj33P+WZRPPpRvF0Nf7/axVZGb4uQVE80KFrSP4g//L3mTpSP3fmU7kn9C70o/7bW9SbjLbqQvl+3woxaurlfS5ZT/XPyx++Y/vNH84s8+gRPPxdiqBgC5RoRpHiW8hTXGbPgM1Y1umXEOmSsRl2Gc=",
+  "URL": "http://pythonpaste.org/tempita/",
+  "LICENSE": "custom:MIT",
+  "ARCH": "any",
+  "BUILDDATE": "1572540048",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "python"
+  ]
+}

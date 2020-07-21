@@ -1,0 +1,24 @@
+{
+  "FILENAME": "libwrap-7.6.28-2-x86_64.pkg.tar.zst",
+  "NAME": "libwrap",
+  "BASE": "tcp-wrappers",
+  "VERSION": "7.6.28-2",
+  "DESC": "Monitors and Controls incoming TCP connections",
+  "CSIZE": "20533",
+  "ISIZE": "49417",
+  "MD5SUM": "d79877c28bc59a0c3880321e85ce4240",
+  "SHA256SUM": "555fc93357937a00cb0a3babd8f914f9cbd75e759462ce7a6d566433ce12ae32",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl8EdXwACgkQeGxj8zDXy5JfaQ/9EWBe7sCXLK1WV9L/KI9uLFVvPr4GhzmhDiYYUR8iGoPTi7YR8RmMbyNJbj/cfuyLajqU3iRGCT/A+ug1MfEObWsUds8QrUGhxupe3C70vHdLwTJBgARYEvceaZXzzRmOceL1cS7KjVFOW6yy5jChKwCvXb51XB94VWmAZ3nodojVx11yBqwozBxqUXmzpC2hwRZS6knZ9ZQDw/TP2a9juV8KQWPBWnRr4aUw+6GY8Ouun2hKxVvBmNNOD7x4y/ppcAzRXrsBHzK25ubGvi56YQoMtD4AgkpkgcJXlQoHLW1QgVIug3nlGqD2cSjNaNezfbITFrkLHqM2JN0CRmEFQ3avKE7Tbp27st7OtQ5N5+I9eMOacTWiMWe+4YDmeyD8ziG/l37SMlYM4ZJZy8c2+ZEd00PZiXAnwOp6ujI5TjU00XYh/tjHNION/cGAnaKK0btakWpYUtQN9fuYrjs1nozWpve7zlb2EBgY83H9/o5YfEjPAt5a43ZQZU7s4oMWgjcrxpIygH0gmiGiGmgw8MycdEpctbesJq8/JeZISUYL1N9KOcGdgqg57SGaEi+D5o5MbybO7n66hBn/KK7UGcdgP5a2jnHNi2AyuDdSwkNHTzkPV6mi8O/m/4SaQjASVqKR3m/Fe/Jhu4N4JnoXVGPr/gjx8NlzaClqRin5RMU=",
+  "URL": "ftp://ftp.porcupine.org/pub/security/index.html",
+  "LICENSE": "BSD",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1594127714",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    "tcp_wrappers-libs"
+  ],
+  "DEPENDS": [
+    "glibc",
+    "libnsl"
+  ]
+}

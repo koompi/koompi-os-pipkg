@@ -1,0 +1,31 @@
+{
+  "FILENAME": "aubio-0.4.9-7-x86_64.pkg.tar.xz",
+  "NAME": "aubio",
+  "BASE": "aubio",
+  "VERSION": "0.4.9-7",
+  "DESC": "A tool for extracting annotations from audio signals",
+  "CSIZE": "360868",
+  "ISIZE": "3669969",
+  "MD5SUM": "80a2eb761fde7148e1aa758ef463d8ca",
+  "SHA256SUM": "c3a7a15bfec6d08d9e834d95317fa94725eba5dd26b68240755d79c834ff2635",
+  "PGPSIG": "iHUEABYIAB0WIQTH54SUZv4jWDQ1iDdyWHNLQcMVSQUCXe1wnwAKCRByWHNLQcMVSS60AQCBQEraxaXX5HfKfHMObQIITKymeg2aRzxLqE9K2zg76wD/Xb2v7LiTr8TPyAfk6V1IA0OrvQgCCsJmWzMHG5ZqSAY=",
+  "URL": "https://aubio.org/",
+  "LICENSE": "GPL3",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1575841738",
+  "PACKAGER": "David Runge <dvzrv@archlinux.org>",
+  "PROVIDES": [
+    "libaubio.so=5-64"
+  ],
+  "DEPENDS": [
+    "fftw",
+    "glibc",
+    "libavcodec.so=58-64",
+    "libavformat.so=58-64",
+    "libavutil.so=56-64",
+    "libswresample.so=3-64",
+    "libjack.so=0-64",
+    "libsamplerate",
+    "libsndfile"
+  ]
+}

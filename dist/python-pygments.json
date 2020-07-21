@@ -1,0 +1,23 @@
+{
+  "FILENAME": "python-pygments-2.6.1-2-any.pkg.tar.zst",
+  "NAME": "python-pygments",
+  "BASE": "python-pygments",
+  "VERSION": "2.6.1-2",
+  "DESC": "Python syntax highlighter",
+  "CSIZE": "1851998",
+  "ISIZE": "9878555",
+  "MD5SUM": "cf6caae591407b4d2e63b75ddc0a6a11",
+  "SHA256SUM": "85ceb16042a7699e94eeda41209fc3e969c78b3a86ba65d792c4c8383cdc3cdc",
+  "PGPSIG": "iQEzBAABCAAdFiEEhs/8qRjPOvRxR1iAUeixSKmZnDQFAl5l3yEACgkQUeixSKmZnDRYvwgAuBm2zOvBOEGOCMIcLih2EpyUGXiGhV6TSCp8EtAeX4dyrNwGa8gTuUHsWqj1dthf08aZlUVQ97mC6a6o+xm8q/ZQreEjuOQ8rpafjVnt+G8ydlV2eu/a20xKleIMczL7Fz6ZsMryIInudqnw/YZ5ac/4LBwm11HKniN54YlbFEbTUh5FBsbML0eQrJgzE3TzZ1HSEhhw4d+FROyGxGvDWZPkulajZEmx7qyXVg3c8mSr3WR0P2evH70a+WP4n/AlFLuaaYNuzIxww4sxqx6AHne1v7PkoXV+Anu8Z7Cz4mnf9+f0o3pkt76DVCutwhYvLmKhZKCTUNEpHxImr1rYYw==",
+  "URL": "https://pygments.org/",
+  "LICENSE": "BSD",
+  "ARCH": "any",
+  "BUILDDATE": "1583734451",
+  "PACKAGER": "Evangelos Foutras <evangelos@foutrelis.com>",
+  "PROVIDES": [
+    "pygmentize"
+  ],
+  "DEPENDS": [
+    "python-setuptools"
+  ]
+}

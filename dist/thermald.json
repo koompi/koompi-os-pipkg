@@ -1,0 +1,24 @@
+{
+  "FILENAME": "thermald-2.2-3-x86_64.pkg.tar.zst",
+  "NAME": "thermald",
+  "BASE": "thermald",
+  "VERSION": "2.2-3",
+  "DESC": "The Linux Thermal Daemon program from 01.org",
+  "CSIZE": "208414",
+  "ISIZE": "575613",
+  "MD5SUM": "913f5b3101b0185e5a77432738de33d0",
+  "SHA256SUM": "ecbf96f751c84f17d5868dfc4af3e42516439fdf0c61791696613bb8530c084f",
+  "PGPSIG": "iNUEABYKAH0WIQQFx3danouXdAf+COadTFqhVCbaCgUCXvqQl18UgAAAAAAuAChpc3N1ZXItZnByQG5vdGF0aW9ucy5vcGVucGdwLmZpZnRoaG9yc2VtYW4ubmV0MDVDNzc3NUE5RThCOTc3NDA3RkUwOEU2OUQ0QzVBQTE1NDI2REEwQQAKCRCdTFqhVCbaCtmTAQCjbzeXay662HDJBq1eC3fAAE9NNF3fJsyWxmB7Lg2mIQD9HPbjzBqu6emdCK7GwFaCuIxyDoe36Lcavt7pti3/cwY=",
+  "URL": "https://01.org/linux-thermal-daemon",
+  "LICENSE": "GPL2",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1593479178",
+  "PACKAGER": "Frederik Schwan <freswa@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "dbus-glib",
+    "libxml2"
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "FILENAME": "palapeli-20.04.3-1-x86_64.pkg.tar.zst",
+  "NAME": "palapeli",
+  "BASE": "palapeli",
+  "VERSION": "20.04.3-1",
+  "DESC": "A single-player jigsaw puzzle game",
+  "CSIZE": "2387443",
+  "ISIZE": "4368848",
+  "MD5SUM": "31633d6244e2a28c26a6bdcfa939900e",
+  "SHA256SUM": "e1d171d4ffec9eab0cb694915a863026f904779e7501da4f6752ea9843eefa1f",
+  "PGPSIG": "iQEzBAABCAAdFiEEFRnVq6Zb9vwrc8dWek52CV2KUuQFAl8HBi4ACgkQek52CV2KUuTEdQgApP3yz1d4uEPlId5t3Jf0tFHC6X2K4eKVzKl3NC7C997mRA/P3dCygILtSDTBU8jf0Fsx3MHjaJ36r8iJG1zwTxdveWVGdk7LtI55oaHovDOH7xZMckI5lJ47ldXejjKOzzzBg71OTgYHjuYx6l+1aCUk6D1dgReX7UaA1yRBycyrmSeNpHTE8fNy9yfa0FbKG1TvTmrksQZ8UL8CewLDOwVUQAb37NI2nJMuDJ7SlCef83QS4EgWdgSqQy+ntxZfIEywOWOExWp5cLTtLENn/XWfYMojGO44kVEBAQqOaRhgSvGP41L7dy1xXvJVA4Jo8Ny1xeWg61X/w1hsfZS17Q==",
+  "URL": "https://kde.org/applications/games/palapeli/",
+  "LICENSE": "GPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1594109507",
+  "PACKAGER": "Antonio Rojas <arojas@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "libkdegames",
+    "qhull",
+    "hicolor-icon-theme"
+  ]
+}

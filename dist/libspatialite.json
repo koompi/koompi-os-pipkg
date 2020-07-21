@@ -1,0 +1,27 @@
+{
+  "FILENAME": "libspatialite-4.3.0.a-6-x86_64.pkg.tar.zst",
+  "NAME": "libspatialite",
+  "BASE": "libspatialite",
+  "VERSION": "4.3.0.a-6",
+  "DESC": "SQLite extension to support spatial data types and operations",
+  "CSIZE": "2027445",
+  "ISIZE": "12188845",
+  "MD5SUM": "df0d6c1e4e35a07703e0009de6c057cb",
+  "SHA256SUM": "58aff3f0520dad0d1cd4ffb243d5c799ff34f31b98561efdbf6ceeb367284b28",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl8EbScACgkQeGxj8zDXy5KJsA//ZiuUY8JV56GqpfmltkUU/3PBtYzcWoh8DGHRnmCo2Am8eFnU8Bw9Vecp3+GaG036h3coEk+oo++xoA6TVtMpGSgaHs8wc1tw65QhU2uLx6UujGFpIFmaKQSE4gWiwH/z/fnX6Xk9JzSNn7cE56atUfX2tpT7HPUwzYL/iQf91jsVYB/XZpRtrbl0cg34oUsrmhSnBpflgFjKVmqUwSLOJm+uOMiUS/omIzLAhL5R8hFlR2lPZLGB+5Enpr1QCGNK+54TVgyry5KYT91321SZn8OMeW2TVuiKdAhzWkWI32aAo4FqwjOAqFUI6ncCzEQ6IRpvKXk1UhyyWL1kKoEQq4D0VHMEsq7mn95j013JSrjQRSzIvdKK5/VPQi1EnQ5Fje+zVICCZjqij01BBMNC1u+SsY3Zb9EAhG+zc+EH3bNt+Li4qlQsK6q5A/NISyor7xysxuZnYTwftD4VNOAqfkvXpG38zyQ6WrZwE/P9nHe+LD8fANeM3jpQkvciWAe2iY+1TdQ3FG0Nq2oWykkkYGhC4h0kb+K652EkJk1WqRCOyYp87K0xd8XPVgvqLuj2pXbFFDTeOcvxyofCDOdLx0HYgQxYNMs/lvpJvrZP2+ogp+hDU0XhumIIxuz+mp41nrBiguBkNumIt6e5AtSpmripUu0E/L00WtLDWfaij1Q=",
+  "URL": "https://www.gaia-gis.it/fossil/libspatialite",
+  "LICENSE": "MPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1594125496",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "geos",
+    "libfreexl",
+    "libxml2",
+    "proj",
+    "sqlite"
+  ]
+}

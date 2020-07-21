@@ -1,0 +1,23 @@
+{
+  "FILENAME": "lm32-elf-newlib-3.3.0-1-any.pkg.tar.zst",
+  "NAME": "lm32-elf-newlib",
+  "BASE": "lm32-elf-newlib",
+  "VERSION": "3.3.0-1",
+  "DESC": "A C standard library implementation intended for use on embedded systems (LatticeMico32 bare metal)",
+  "CSIZE": "1051890",
+  "ISIZE": "50198103",
+  "MD5SUM": "517195a2459db2ac22475225f2271df0",
+  "SHA256SUM": "9a598606d86e7ab6e4addbcf1d7ab899471bf15db77fb8e9eae995f356151e51",
+  "PGPSIG": "iQIzBAABCAAdFiEE0jW0leqs33gyftiw+JPGdIFqqV0FAl5/rv4ACgkQ+JPGdIFqqV2LGQ/8COMGrHno4+ZOHBTe/ETOfXVQxq++kh/pqNv+5cfNzKn/rzRFd1/BAUQ1EH9yU7Bp3ZSyu2uWLi1YaZz4NEwNz3mmEoSRe0GZFwtai6VYj7kVKT47EFtOP+Ng9rxhwvabLqrs3Aye6V07rydweTr+C6f3QLiyCglHFqFAhJ/JPdZSph90TaDc/kHVpvs3rTej7xMyxOIU3hHGaEGlcT8mNHiVXUYq3LPrmkURP9VAGxj2yZrwG4V94/xiN6asYSaTnZu28KrBIUCwHsPF6sz6D4m2c/qCRrFTlCjoq0R7mFLLDeVJjZK9f15Oub9ROSJrFg02HEPYmIIwWSq1U5H8gKy7Gr/9iHUS+QHhoY56inYrIqw1VOcUmaD/yn1JEw9yo1UcwbexnTnOoVxYMv0iljz0MRq0GUQEMdUJ0Zg0olA66RO0so0NVG57QcNMoAh+253Xtf3W9NLmCzM/40zRaQo9+7rLKbI9Gt0u7gwsTUeOwE2aYUfWpVv0tgxhhSWTze0yQQiIwSUB1LQ2JOdr+dLMEg85zanm74LOt1zHSbCUriWEUNnGOCGAgUV3J8fMG2rFVO4JOYxBdthZMHoxwfDjeo8PvAkrIUzzmrnbYrCLdxFkkmYNCNijR4wif2NfYUg3552NcPlW9oZ1AnV5tIHJ+uC3EjZ58z9eLvkNBH0=",
+  "URL": "https://www.sourceware.org/newlib/",
+  "LICENSE": "BSD",
+  "ARCH": "any",
+  "BUILDDATE": "1585424313",
+  "PACKAGER": "Filipe Laíns <lains@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    ""
+  ]
+}

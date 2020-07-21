@@ -1,0 +1,23 @@
+{
+  "FILENAME": "uwsgi-plugin-notfound-2.0.19.1-2-x86_64.pkg.tar.zst",
+  "NAME": "uwsgi-plugin-notfound",
+  "BASE": "uwsgi",
+  "VERSION": "2.0.19.1-2",
+  "DESC": "Plugin for notfound support",
+  "CSIZE": "4615",
+  "ISIZE": "14304",
+  "MD5SUM": "73dee63982f934bdc74cb3b591ca3c3d",
+  "SHA256SUM": "25dbbf271c82cc8450ec8cd63590f9ad00460e8cce407c2852b3fe66a5e532fd",
+  "PGPSIG": "iQEzBAABCAAdFiEEhs/8qRjPOvRxR1iAUeixSKmZnDQFAl7viIAACgkQUeixSKmZnDQnqwgAuf6vCBoAocTRBCSeJTRxuWKyDh6q4d4TzLI7dD7WmNMJZt0jOxkn1mOha7zX9/7CuA5upSsRdavF4haoTp6Cv5SFCkpKRQZYHD5iXVhdP+Co7YcSncdZZ6yBeyXlikzNXKASskExDMyn7+dDlwgrWV1PUNIyc0uB5CCM6j5hagSu4VRo/hDwxE89x9dzMXGKPQlx6b3V//TblyqfCc5aIaPk/rZqqgi/3Z7u6AlRrjDAzr9Z3tOtz2DHkZfciBRTcKJV8+BFZhM0Kyf5m+nuPAcaYhcgP4Y1MKOhqe0+AakQlGeTmKRlh+tD2GC2kfviiU+IqV5cKUmIKXpmw4p2nw==",
+  "URL": "http://projects.unbit.it/uwsgi",
+  "LICENSE": "GPL2",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1592756215",
+  "PACKAGER": "Evangelos Foutras <foutrelis@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "uwsgi"
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "FILENAME": "perl-net-xmpp-1.05-6-any.pkg.tar.zst",
+  "NAME": "perl-net-xmpp",
+  "BASE": "perl-net-xmpp",
+  "VERSION": "1.05-6",
+  "DESC": "Perl/CPAN Module Net::XMPP",
+  "CSIZE": "105863",
+  "ISIZE": "353917",
+  "MD5SUM": "2348936b0a67394e2609f9a7274ac334",
+  "SHA256SUM": "e43f16198ade678a0132cb8d79eab778ee5fd29e5b65f41f368634b9e3ab729a",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl7ve68ACgkQeGxj8zDXy5LT8hAAiqccSCw8SH96y46ld6IKUPzdN8OdcG7UQtBazp2FAeoVDrMTiFUkxvT5Z9bk15H4Ol67QZsaKZ/t3zSBj1LAcIASNflj6oa9vYrbalh2dvOgm7wT2pIMf9whQPjo5ubstfYtr0c3McmXWz1iJNLWCkLwiPNpnhK87sFCSst6yzo3nUY/+Lfy0P8RHALCI/fBPwm5U0EuoUqv2jXI/nuLULEsB+y1sEA7EmoEUyW3UTtUm68gUyc2fkwhlwF3NbqGq0usHkjYkLjVDjup0S0x9moByZeDKzel1y33ftjQFKd/Kd72iBEtLVNOgeCl4iIpK4SZvb+BhEvWgqotaXTHexjmN+v4Vae27ek1R7xBQcprWusMjKWL2g/grWayecsQe1V93riwuK8mgZBTVtipZnKT1ZBEcYkrZDLfPHe1gj2zKf6HGDdaSucbRLl+5eOMwxMOh6d9jmr4izT4PCXGSQ2Pg6MEjrTcjWgewwWZEpDRKqQjDRLnzN7F024A9RAT3JY+G/X56ziymKdOaELpMw+sYyMz5naKHmLITJM3ecxUi836Daer1pXbgSEkM2dXzawELGISID57iSukkas+yXJXT8mXsmJ2QuF79/b0ve+92huZdhVxkvrZOIMmOEXHwxtYnPb459t0gR8S1+p6KAWaWRY266tY9LoNlRQAvqY=",
+  "URL": "https://search.cpan.org/dist/Net-XMPP",
+  "LICENSE": "GPL",
+  "ARCH": "any",
+  "BUILDDATE": "1592753040",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "perl-digest-sha1",
+    "perl-xml-stream",
+    "perl-digest-hmac"
+  ]
+}

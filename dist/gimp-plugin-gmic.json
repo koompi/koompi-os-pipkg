@@ -1,0 +1,25 @@
+{
+  "FILENAME": "gimp-plugin-gmic-2.9.1-2-x86_64.pkg.tar.zst",
+  "NAME": "gimp-plugin-gmic",
+  "BASE": "gmic",
+  "VERSION": "2.9.1-2",
+  "DESC": "Gimp plugin for the G'MIC image processing framework",
+  "CSIZE": "711755",
+  "ISIZE": "2053537",
+  "MD5SUM": "930068b10786bfa2d12603885b4bf2e1",
+  "SHA256SUM": "8208a779be6d4a128b1c834b74a2310134510ac18fac452cfffa220aa2546f8f",
+  "PGPSIG": "iQEzBAABCAAdFiEEFRnVq6Zb9vwrc8dWek52CV2KUuQFAl7hY6AACgkQek52CV2KUuQrIgf7BWxqhhHyV7gKuDHmiEbtRFQuVJmuVCMuw5+H2ietMZdy3HQxhhhVz+bEzjqJJxdPZG1EWDKgcv9FyvA7WLbu4U1KwseKpPjpU45M8bqTfmfsvGx0E2CbTnIZwoNWikXObIkW2Su1CosL+RvPxKZHEq6gf2MpUN9caeVRTyIQCOflB9IlpryNnY8Iyp3EoorEJBiQN706kIVPOq8Uk8jkyLxNXwXkMYYOaKKmZ9ZrbUUnqyQ5AoFMBGcS1sW7yjg8PDlTMA8mWPCF4ptKG/D2oM5FGdomSSikVOdlr1JsUi7j0/Fd6Q+5bkjHf1j7LAr/SJZb3JatbZvJYjMsbjC9KQ==",
+  "URL": "https://gmic.eu/",
+  "LICENSE": "custom:CeCILL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1591828908",
+  "PACKAGER": "Antonio Rojas <arojas@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "gimp",
+    "gmic",
+    "qt5-base"
+  ]
+}

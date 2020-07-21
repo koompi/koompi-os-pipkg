@@ -1,0 +1,23 @@
+{
+  "FILENAME": "sugar-activity-log-42-1-any.pkg.tar.zst",
+  "NAME": "sugar-activity-log",
+  "BASE": "sugar-activity-log",
+  "VERSION": "42-1",
+  "DESC": "Sugar activity to view system log files",
+  "CSIZE": "83759",
+  "ISIZE": "422316",
+  "MD5SUM": "92c7d954342f8789722e486f240d04c0",
+  "SHA256SUM": "8d9b00298c4de82bf6d911b2f8f166a64a0668d97097d06554b5f8a3176d3edb",
+  "PGPSIG": "iQEzBAABCAAdFiEEzgvecadZqH8j8PfYth284QkBwWMFAl7OvdIACgkQth284QkBwWPC8Qf/XSxwe6KD0M3NDbN/nSs8pVNDcWibQtBS4QF+j4yGJBdoSODBGPFFYqVazEmI0L6hHJeWagGUI7522LE028/gXKCKKHaKSIhVfkO3wTVuvhLHs74fOykGDfPHoAQyLXjiz2Bhj2ZsyM6OXpNaNxtUmwsifODDEalKFJnnT1d3v8UhJ4PR1UIQvnr64MSalElEZ96fVgUNPNN7iVPdPITzgSzy9eIIZavxVEPLZqlzbOt3qJo5Km8SKyx24/17Z0E7pv90a4PBdxcQhQjzWXMlX+r4mJc88ppGYSkavhxVrGqIAACgx04CrA5+SNXw2O0Jj3f+SmlvDXTZuOlPUZq9Sw==",
+  "URL": "https://wiki.sugarlabs.org/go/Activities/Log",
+  "LICENSE": "GPL",
+  "ARCH": "any",
+  "BUILDDATE": "1590607269",
+  "PACKAGER": "Balló György <ballogyor+arch@gmail.com>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "sugar-toolkit-gtk3"
+  ]
+}

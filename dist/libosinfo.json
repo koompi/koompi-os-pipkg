@@ -1,0 +1,27 @@
+{
+  "FILENAME": "libosinfo-1.8.0-1-x86_64.pkg.tar.zst",
+  "NAME": "libosinfo",
+  "BASE": "libosinfo",
+  "VERSION": "1.8.0-1",
+  "DESC": "GObject based library API for managing information about operating systems, hypervisors and the (virtual) hardware devices they can support",
+  "CSIZE": "274877",
+  "ISIZE": "2801334",
+  "MD5SUM": "d5edeadf96b4d881f495f29b040ad5f2",
+  "SHA256SUM": "d11f4a8ded1b6793266d02886d64d919dfa98e86b6ccfde5de68003932836401",
+  "PGPSIG": "iQEzBAABCAAdFiEEzgvecadZqH8j8PfYth284QkBwWMFAl8IzHUACgkQth284QkBwWMubAf8DIvmOmlSPeS4Fnj8MeXKkcfuIzhMjdZwps2FiKeEYWaBOEPcAQDSNoBr3b2h1VFyTliYZrRlp0v+lP/vkJESDJdPNzeKhz4qGP4jKeAIuSCXqD1bGEvfNInHRMGB6W5EwA5w/uyrlRo9quyCYdJuMeFNAwTpQN5/1+Fg1kim/+52epAfLRj7v79Q9LSndMHcbVusVzzWIeOfXmr1Inp/S7/5Q5nZjyuL6UGIOdA0mH7I/kgzmDBNxIEm1FAWpAB3sWHYLMwrLwD+KxkBoe/eSagKKDJ/gtqMO4zgRufnOdxnK4hlqDTf5ti6y4/Cz4TgVnOsnjoHPcWLOfymcMNHhw==",
+  "URL": "https://libosinfo.org/",
+  "LICENSE": "GPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1594412070",
+  "PACKAGER": "Balló György <ballogyor+arch@gmail.com>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "glib2",
+    "hwids",
+    "libsoup",
+    "libxslt",
+    "osinfo-db"
+  ]
+}

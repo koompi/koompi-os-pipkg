@@ -1,0 +1,23 @@
+{
+  "FILENAME": "libgovirt-0.3.7-1-x86_64.pkg.tar.zst",
+  "NAME": "libgovirt",
+  "BASE": "libgovirt",
+  "VERSION": "0.3.7-1",
+  "DESC": "GObject-based library to access oVirt REST API",
+  "CSIZE": "78147",
+  "ISIZE": "379997",
+  "MD5SUM": "5db10842ef9284bf43c5f578ace2b648",
+  "SHA256SUM": "cbbb8acae8110f11766b5c5a03c0e1917892a35b490e870e03f2d1bccd1fc16e",
+  "PGPSIG": "iQEzBAABCAAdFiEEFRnVq6Zb9vwrc8dWek52CV2KUuQFAl5vQysACgkQek52CV2KUuSlBAgAqMep8XsK8ke26FVU83rkIz06wNh7pGE2JFRf1ngrY+kbXobSubGDmt8bmc/d4n1f3Bc4JGlw6gPQxQL9SjxJ0IIpCHUZ6h93Pg5I5KmM/ZC/6Jzn+/CcpyGCBemg+siBvr+DzfGwsedA9D1ush0YE+lQ+wFJDzMxvNR/wYs7TNdx96XHu682nP5CsL+ce8u4AzwMWkNxQSDkglMN7HOk0rdi4GCVgFJi0F0UdbLe4U5NkQtaBPCARf0cTcf/DiVpto8cKgbKnncQMn52gSeaKXn4K8Lhv/nQyZ9zdzjlHehNqiYZXhXlbN9kN/yKU+r/d2ymnJX5fz5KJI1hUqBuUw==",
+  "URL": "https://gitlab.gnome.org/GNOME/libgovirt",
+  "LICENSE": "LGPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1584349922",
+  "PACKAGER": "Antonio Rojas <arojas@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "rest"
+  ]
+}

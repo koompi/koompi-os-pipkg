@@ -1,0 +1,23 @@
+{
+  "FILENAME": "python-typing_extensions-3.7.4.1-1-any.pkg.tar.zst",
+  "NAME": "python-typing_extensions",
+  "BASE": "python-typing_extensions",
+  "VERSION": "3.7.4.1-1",
+  "DESC": "Backported and Experimental Type Hints for Python 3.5+",
+  "CSIZE": "37660",
+  "ISIZE": "208386",
+  "MD5SUM": "ac169f68c3c750150bbfb2647e6fa802",
+  "SHA256SUM": "18e8e7f2d457dd9591946776f711ce20058f5e8e1373c7c9697933b3404e96dc",
+  "PGPSIG": "iQEzBAABCAAdFiEElDfdOBWnqRaePTlGr/XZUJi8b/UFAl46aj4ACgkQr/XZUJi8b/WNvAf+NlrU7+xK6zZTUd9Zhiw1rwS+S0HNPIxl8RNOZiSTmK/Slv9gtqrh4uzKWclrQs9F8V5hnJq1YoHgdlTpHEa7PEhUqk14TZW/WY8/tVVG9K7N2TAeke4J0vgS9c38HDaEO+Tiqszs8SaDeGyBkH64Tkk7BnJc1Y7+NZnnsgtcJnS1KpRYvff4snl1za+09darAaKkVm5j/QiOGiCsVxjYsaVaevo/ffBjlrl971An9UcqyaXsCX2O9c+AO+xBgXwlwo5fP+Cqu02Kksa7wTkEhe/6d5HMGo5WVS9OPxpTP5zwe979ZUmXQWrl3sITqQZVrluL7tktM7ToMZ9YeWY7JQ==",
+  "URL": "https://github.com/python/typing/tree/master/typing_extensions",
+  "LICENSE": "custom",
+  "ARCH": "any",
+  "BUILDDATE": "1580886577",
+  "PACKAGER": "Maxime Gauduin <alucryd@archlinux.org>",
+  "PROVIDES": [
+    "python-typing-extensions"
+  ],
+  "DEPENDS": [
+    "python"
+  ]
+}

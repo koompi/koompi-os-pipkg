@@ -1,0 +1,24 @@
+{
+  "FILENAME": "python-urwidtrees-1.0.2-5-any.pkg.tar.xz",
+  "NAME": "python-urwidtrees",
+  "BASE": "python-urwidtrees",
+  "VERSION": "1.0.2-5",
+  "DESC": "Tree widgets for urwid.",
+  "CSIZE": "178564",
+  "ISIZE": "970541",
+  "MD5SUM": "4cad616eb24a9408f6dbaeaee26f7e27",
+  "SHA256SUM": "f18c3566c732014db30f4e3eab38f6b0b284a35e2a9cfa1719a2f70bb0f7310b",
+  "PGPSIG": "iQEzBAABCAAdFiEEhs/8qRjPOvRxR1iAUeixSKmZnDQFAl2+BcEACgkQUeixSKmZnDRJeAf6AoU7XIOnrBlnbatrrCDN4e3iIoywCQK0JfK09JjrUKr655DcZqhinz893f9IcLiUhwQA08P0xmVrVB6N/zKwSPggzPR0fIYINZVVLBGgL3Tile6o9JxstTcbB7D8NjGv9yAkYTvkrRv9oIFJmdT0gexsZANmzMRqnpGGycwp9sckWG0O0lzNZUgcQBGiQjvf1/xWKPtrAMVkvjFh5raI6ro3AOaQ6VTRqRru9yWiqDYtqmDuPmmvRxIfOrOz5HgJH41bsZ0Za64bXSUxtq7bS1y+ymhoJDq69ynAd0FkNh3FBJCVSrbuq5UmU46cCBNfXi7D26tplsPRSuq/GgW7fw==",
+  "URL": "https://github.com/pazz/urwidtrees",
+  "LICENSE": "GPL3",
+  "ARCH": "any",
+  "BUILDDATE": "1572734378",
+  "PACKAGER": "Evangelos Foutras <evangelos@foutrelis.com>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "python",
+    "python-urwid>=1.1.0"
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "FILENAME": "ccid-1.4.32-1-x86_64.pkg.tar.zst",
+  "NAME": "ccid",
+  "BASE": "ccid",
+  "VERSION": "1.4.32-1",
+  "DESC": "A generic USB Chip/Smart Card Interface Devices driver",
+  "CSIZE": "77103",
+  "ISIZE": "259769",
+  "MD5SUM": "2275d618ea3540c3775e73080760f883",
+  "SHA256SUM": "3b3ed86687807f3d7d48eb0a0cf51c741f49124e85c30ea09a7b0f7a9ebbdf82",
+  "PGPSIG": "iHUEABYIAB0WIQQEKYl95fO9rFN6MGltQr3RFuAGjwUCXsmHlgAKCRBtQr3RFuAGjxsHAQC0mvvWA/kZl+qoyYpD2EwEs3LEiGwAoZCiC3+bOwS2bQD/cLjK0EYJZW83oLhImWrjtLkkGPugIqkBabXEc7GeYQc=",
+  "URL": "https://ccid.apdu.fr/",
+  "LICENSE": "LGPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1590265705",
+  "PACKAGER": "Christian Hesse <arch@eworm.de>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "pcsclite",
+    "libusb",
+    "flex"
+  ]
+}

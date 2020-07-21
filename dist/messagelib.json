@@ -1,0 +1,28 @@
+{
+  "FILENAME": "messagelib-20.04.3-1-x86_64.pkg.tar.zst",
+  "NAME": "messagelib",
+  "BASE": "messagelib",
+  "VERSION": "20.04.3-1",
+  "DESC": "KDE PIM messaging library",
+  "CSIZE": "6443638",
+  "ISIZE": "16171048",
+  "MD5SUM": "d1194f30a48ff06c246d3ab477f3b95d",
+  "SHA256SUM": "9fee1b2460aa0647b6830988e28ff37975fa1c4e0454a76a942228615da784e2",
+  "PGPSIG": "iQEzBAABCAAdFiEEFRnVq6Zb9vwrc8dWek52CV2KUuQFAl8HA54ACgkQek52CV2KUuSqUQf/cLDkkrmt8LJ7wbKCojHsy578bJb980ej56S08NUuiVRpL6RX8jVyJvFKepUL9WfQt1qchHWgSlw7ZjSd7h8P90hdS74pHs3FktR7VXTC0ONTpaP9rMbV1BlttVu4nibyci6hTolCw2L9ClOak/EbFAaSveyAF2d1isLod0T6Me/3YHZnle0ryjw82krBqxGoi4N6+WsN8785HDAxx5Rk7TsXtHJKebIYhPpRA20jvF8PjH5Kw4iKJImztT6GdfzMETYD0gd9XY21zucR0vv5OWQ+UXQ3GsKRbOy5uy6NTf0UiWf7d2fQDngi5z1lEqjba7arUBOy810uM8iKj/3NZw==",
+  "URL": "https://kontact.kde.org",
+  "LICENSE": "LGPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1594105792",
+  "PACKAGER": "Antonio Rojas <arojas@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "kdepim-apps-libs",
+    "kmailtransport",
+    "libgravatar",
+    "kidentitymanagement",
+    "kmbox",
+    "qca"
+  ]
+}

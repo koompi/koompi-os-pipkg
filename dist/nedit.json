@@ -1,0 +1,23 @@
+{
+  "FILENAME": "nedit-1:5.7-4-x86_64.pkg.tar.zst",
+  "NAME": "nedit",
+  "BASE": "nedit",
+  "VERSION": "1:5.7-4",
+  "DESC": "A Unix text editor for programmers and general users",
+  "CSIZE": "589834",
+  "ISIZE": "1934134",
+  "MD5SUM": "be84c587142d2b04281b2e8ab7c21e32",
+  "SHA256SUM": "caaee40760c8eeb8e1034b8cf3c04f7238740769c2bc299fa249dc21a9b16217",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl8Ed3UACgkQeGxj8zDXy5K3ag//eSv60Ex/zXTMZA8IOYDtEYOH2A3x+D2Eiq9R6StNUaeHYxxi64NARcFT9YWr1rKxr84zXRy5BxUzi++D8rXclPMixYRfiLiUewqEL8/XzDHlg0fqF86svXoRgwxdEusUulOTb+87WHsiokCQBvEvZlbDe+ajy++hJSXiH9n7YXw5LMiFulaHgS3aeo2K7dBB5Z/7fP5C3Jr5HnJYjLyNDTswPW3x1TfiyngTbUHaw/32wdmkh95EaE05eHuKyvJBw2QHvH+1zu1hQ0iY0BlEADedQdtcW26T0NbJmw9cwL1jLL8Ld8mF1yGmXccIdtlAXy+hEMiavJK8Z5zj7s+jcYMQVeEFFb35rTapR/c2wiF4sBl4yfAX6KMr7JiNgmHK6wgShOu79eHA6+UmJbTm49YEfGPtFKTBjSDt4cAhdWkb6DhfFF/JzcSQRLn36FT/gLXA9oPTI0wufazhKLXVS3D9veRIw8qUi+kxm928Mnk3JrA+pNoLCVNtnrxuUz9FhNMSP+hn3VXeeo7gnKKMu+D/meKdoou63DQJMg4wodRNkz93yL/SH3qi63PvPlSjI7LGSuzmrEhYYzhmuwiJCqyfkdtv+N56EbumWzj06FOYc7KihrvZ0ldLhb5YqpgEijOTMNyJyXdUhYN0Z2fY4e91eEufKkIq6wgcgN+Krsg=",
+  "URL": "https://sourceforge.net/projects/nedit/",
+  "LICENSE": "GPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1594128123",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "openmotif"
+  ]
+}

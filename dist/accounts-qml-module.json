@@ -1,0 +1,25 @@
+{
+  "FILENAME": "accounts-qml-module-0.7-2-x86_64.pkg.tar.xz",
+  "NAME": "accounts-qml-module",
+  "BASE": "accounts-qml-module",
+  "VERSION": "0.7-2",
+  "DESC": "Expose the Online Accounts API to QML applications",
+  "CSIZE": "109140",
+  "ISIZE": "468992",
+  "MD5SUM": "08d60ac088be6abcce8a9e838f2f4628",
+  "SHA256SUM": "57c484fca5c6136ffaa0a8a2148944c92423779325106a6b73bd661c5884bb68",
+  "PGPSIG": "iQEzBAABCAAdFiEEhs/8qRjPOvRxR1iAUeixSKmZnDQFAlvmBE4ACgkQUeixSKmZnDRETgf8DvEmIo6ZhJkslqLqaDzmtrn0hR3yn9Ceij5C0D+SiN/7LoPv8RYj2VUy1c59+hdLGv6+GbG2Wojpol2gBsP/NfWO3e9x5BATGSizk4HKUY+jYd678o4/2uHy1hCMLlXSCdIEb/upuSP4A0/Zq9L+uqojPTCmEWfSCCkj9w9LF9qs7x1qOva/Qh86UmQhI5lHyJ2KgaDm5QVTsL80/Vb4jhG9k3w2EfGJPR8qmun9IX65gpULtu3iHtnq3Xm5pJqv/N23Phsfwugikaf1A/PAMqTW46LWKUxKFKJsoeRwWRiVSfvzsxIHu+Tjmu6Yo8gjT9piOzKNsgST+ZOKnrg0kw==",
+  "URL": "https://gitlab.com/accounts-sso/accounts-qml-module",
+  "LICENSE": "LGPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1541801003",
+  "PACKAGER": "Evangelos Foutras <evangelos@foutrelis.com>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "signond",
+    "libaccounts-qt",
+    "qt5-declarative"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "FILENAME": "tesseract-data-dan_frak-2:4.0.0-1-any.pkg.tar.zst",
+  "NAME": "tesseract-data-dan_frak",
+  "BASE": "tesseract-data",
+  "VERSION": "2:4.0.0-1",
+  "DESC": "Tesseract OCR data (dan_frak)",
+  "CSIZE": "655157",
+  "ISIZE": "1622858",
+  "MD5SUM": "88754a7adad8abad7d81f14ee9cb62d3",
+  "SHA256SUM": "b12e9b856d365d0e0d421ae17f906125fda9db2f8478702be708030869797e04",
+  "PGPSIG": "iQEzBAABCAAdFiEE5JnHn1PJalTlcv7hwGCGM3xQdz4FAl78dLMACgkQwGCGM3xQdz7figf/fbyYB1of1tZTqLZ3NlKbXyMtB9O1fY8DoPXhqKNSpxTef6rP9JSsDaG+jOfT8dgoUQc2PvlJgGryn+rhnlKxQ8KGB9aOirn5+JJRoHOai13CdJgqu4sdx+o+ZgNgorEIithi79/Y1KqNRBOQKiMCfLWQpb70Oi6Tl7DyzX05l+jyS5ZmpilDA0x9pILoSsVJStDS41jkFCcDt1aFLBS9Em467bKkUSnJHZSEfnWyU3HRFw3dbycY6CT5Gz/HRRHvovpHDTuW670Z79I7NZwRvjdlbplOJLrPpkfLYpKslW6iyJfaX5XBrnkl+ukRvBukCmgkiAic6eHFi53Sl4pxwA==",
+  "URL": "https://github.com/tesseract-ocr/tessdata",
+  "LICENSE": "APACHE",
+  "ARCH": "any",
+  "BUILDDATE": "1593601400",
+  "PACKAGER": "Jelle van der Waa <jelle@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "tesseract"
+  ]
+}

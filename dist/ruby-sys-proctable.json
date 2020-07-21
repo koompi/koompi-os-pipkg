@@ -1,0 +1,24 @@
+{
+  "FILENAME": "ruby-sys-proctable-1.2.5-1-any.pkg.tar.zst",
+  "NAME": "ruby-sys-proctable",
+  "BASE": "ruby-sys-proctable",
+  "VERSION": "1.2.5-1",
+  "DESC": "An interface for providing process table information",
+  "CSIZE": "56112",
+  "ISIZE": "251979",
+  "MD5SUM": "62266967d2222ae5a8c57ba737da9cc4",
+  "SHA256SUM": "628e157de09bb2110ccf7812bac67bba670903dfab669014ddd6cdfe8be58ed3",
+  "PGPSIG": "iQIzBAABCgAdFiEEBR6tamFVOJ1p2gLl63Y7Tp24h6YFAl7sqxMACgkQ63Y7Tp24h6b96g//aNNhdtEXe9KwHIgF6+P+sZsv/K6O/0yOt0JLVMetoS3qXCghuSKi+7/pzh7KsJllV1B2R0lHxTHu0tq/vKbv2naIgxHV/u3QIgoE2wXN0eBO8ixigkxOxcIPBzI97QYIQDnpvJPENxmD72b9Uwybw/XvLny2lxmvcc1tG1QCiRLi7e+9wvnBuLlCQF8EKuZG+N0WA2LZFLfp8odcz98sfNpn42b+YLzEy6gq1kFEEmlPcgzOfYlDc4E27Ar6iRmVzacBgqFLUyMlDqz7iPcAFULbKUpGt/yNejCm0iwckEiBPMOeH1SFBVmHC28ru3LOzn67hXmCJFKRwLT42fqaDaGSdMfFC5bkS0Fhldegrkdg5a12UEXIjsR8WjudB9fc70B90fYulgjBJoh7UB/utbigxkVXxpydIEcCnJx0e+7LJU4Z+EMRcp46sFRjBKGhnhtA5i9kuSnNTlQ9zvIkc0kEm8HLv9UnCLDf2M10Erj6snA9yWxH2f9J808suIR+BtqkHjtnD05nnBKJfAnW3I/yube+TxLhPh3y8KiVV6TZwHGJF9c6inU+jFcWgKLRXsUdiyAF1VhMUoddL43sPlCp0SAwiNfhhFxWAkqSIpoaT6PgE/GKLYiIZoHBMuG+13VTJdwVQRfK7pFQ+KLppuDG7ChwpjhossZAbHsfvb8=",
+  "URL": "https://github.com/djberg96/sys-proctable",
+  "LICENSE": "Apache",
+  "ARCH": "any",
+  "BUILDDATE": "1592568549",
+  "PACKAGER": "Thore Bödecker <foxxx0@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "ruby",
+    "ruby-ffi"
+  ]
+}

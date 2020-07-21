@@ -1,0 +1,24 @@
+{
+  "FILENAME": "arpwatch-3.1-1-x86_64.pkg.tar.zst",
+  "NAME": "arpwatch",
+  "BASE": "arpwatch",
+  "VERSION": "3.1-1",
+  "DESC": "Ethernet/FDDI station activity monitor",
+  "CSIZE": "284682",
+  "ISIZE": "960734",
+  "MD5SUM": "020cccb034b806a9d25d5e6f9e9a6c77",
+  "SHA256SUM": "1589790498d0e66b8403115f7876e556dcac20feb2c22c28820ea6e7d16d032c",
+  "PGPSIG": "iQJGBAABCAAwFiEEPlGL8lJv0Zeeiq5JZcEQwepDP8cFAl7mqEcSHGFyY2hAc2VyZ2VqLnBwLnJ1AAoJEGXBEMHqQz/HJ+IP/1mzRUNFGT6aqI1qG4O1iUh/MiXFFYRXfl0ysS1NxEz+sh4FtSbZI1wg4CwrcOOI+ywDZtd1sTJUS+bgRpgfUbPc/54TgT/xUdJ0De2GeNMb8CgATDbY6y/eJ/493dsxI1RZgLl/DgGrjs4jNNI7UQcQA5/5OmfAMcDXG1kU9dg5v/E+V1Sk0XJ5oHQM7agCcCEOsDgHIS1Vkv7Bvx4L0I3KLvTHmL+qVFg2KTWzv+ZxnZnEvKGxczyfeNU7CEM9axahKa9kqp2zjMyjI2b5CYiA/dgp9ewCcGLYgwGwMNV1DbWmxS6RGL3KgRzLVwX8MxFdr+zig5iQVGaYrKhgHK1O3iX/8qph02/8mKOoK06kQWjFXmnLbqTP/kVNMNuzUKnAmGh0dRXGT6WCI3jGVyEoXH3FJkLxo9JwPUy7cfGCwdRVvs+57AWyFlrMhXqRg8z8hVpvDdtLGs8JriCT0xGYMHbrybRG4nQ4M4SIsuN/6+bWf3EcMchmsD8FGX61fl//LQUxP5BGLJ7wuLXNswmuuuVBr/aKr4M6ZjyVblV9eyuj7Opam6PlBVHh8payJ9ZpplIOix5bjokAiUrqge6wtDUAGdSVSONxwoEFNiFyMEfByWBg6kNTjvbdA/dJz0W7XRdOK7jB96R69wuDAVqCGBLOE/LiuDO+wIbnV7Cf",
+  "URL": "ftp://ftp.ee.lbl.gov/",
+  "LICENSE": "BSD",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1592174360",
+  "PACKAGER": "Sergej Pupykin <pupykin.s+arch@gmail.com>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "libpcap",
+    "smtp-forwarder"
+  ]
+}

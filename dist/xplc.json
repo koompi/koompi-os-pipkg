@@ -1,0 +1,23 @@
+{
+  "FILENAME": "xplc-0.3.13-8-x86_64.pkg.tar.xz",
+  "NAME": "xplc",
+  "BASE": "xplc",
+  "VERSION": "0.3.13-8",
+  "DESC": "Cross-Platform Lightweight Components",
+  "CSIZE": "30064",
+  "ISIZE": "130048",
+  "MD5SUM": "c9b43946245660ab24340f1fee000357",
+  "SHA256SUM": "3c0eb1fffc64fda4c0a433365a634434fbefe664bc2496c2ed868e238252ef4c",
+  "PGPSIG": "iQEzBAABCAAdFiEEhs/8qRjPOvRxR1iAUeixSKmZnDQFAlvmDb0ACgkQUeixSKmZnDQTcwf/clp3sdstJ12PJq91ZgetI7ZLufpHdehymezTxbdVRs+8/fga+R9wtKtU3lSLZrzz03a/8P3AhdSqScb6UkhU4vAuieOZW+4jkHRdvotwHopW+L+O945fPbAZOY6xKKowhCrHSxB9qTUCtQhk69tJlyLjPDlhGZduIjwd076VL+Kgqkg/+IuDWZdfrIrwAcwHUHTnTFzoCGRqOo1pRNXdOu5tiANkkNdnczUKLcVNBuyoSvp+3e3q7qRtHufisi5EjSIrxRbiu8SympCufCqX6ywaLKTMEqQCpkqAgKVH2Gh+gq6rAlA1gWJQ98C+GiRaqH5OPIAoH8Q2YHNXmQ+yWQ==",
+  "URL": "http://xplc.sourceforge.net",
+  "LICENSE": "LGPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1541803431",
+  "PACKAGER": "Evangelos Foutras <evangelos@foutrelis.com>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "gcc-libs"
+  ]
+}

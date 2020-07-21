@@ -1,0 +1,23 @@
+{
+  "FILENAME": "python-rapidjson-0.9.1-1-x86_64.pkg.tar.xz",
+  "NAME": "python-rapidjson",
+  "BASE": "python-rapidjson",
+  "VERSION": "0.9.1-1",
+  "DESC": "Python wrapper around rapidjson",
+  "CSIZE": "165244",
+  "ISIZE": "725921",
+  "MD5SUM": "14b94997a7acf4b916af4056f7e2a130",
+  "SHA256SUM": "344fd569d359a4f2c66fc148c2428d9ae8d72be8ace03fc2654c0c77d7c7a106",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl3OO7oACgkQeGxj8zDXy5JjcA//XXYHfzcf2t4RpNMCL1VTQwJejcJf2UDDYVxMhcPLFpe6GOwJDIeDRgiL5oeXBKs/YFdJos/WMGwz0GfIrEnwoWvKuLgOqF3rOEJYnflq+jN5kusblwytFUFS50dt/anT6FAo1CtSTw51+lAcsgq6qGN1qZUVF+ZB5u5POmwVDmatYyi+sNH9wtf29n5A5b4KOHm+pzpq0A/Eg3XGjADbDfZFnBDMwDYMsUjxoiLhO/y2kSGQho8m6/oivoco3TPUzI1IoZsAUN2+7Vx2gs86V5/oohX9bQLcxaRlyARI/GEmz8iTmE9BZaSHcyVQBdp4rV+5dRg2vDZaESj4C5+8ECMSrXswydPHVzNGGfdEypdUp1kx3ZGhCkMIVsU54KVfSuf+t2gDSAsOm5Qs9GBWblB0E6VC62u3m9CmiP/yS0MQsfY/ARhSrIcr62FJ+x1SxIqFMAzaz65J0Xh1JRsc7NUh2HplKa/Q+wManJ9PvYU/YIaCXn6omBIeKE+5wtRAkl9A8zZlLb0bKaoBrOzk5x0LtblAo5F1/K+zMrgSTp8xRazXVhC/kvzzbJCb+hLK9daqYrE5r7SOer9cfN9TkFbqIvLRpmZq8M3l6nYqvwFNaqzxarPAGZKWpUWgVLUcVntb9lmwmtnaGJVFX/R/78Co0hnWBL+NvlBJtscXaYU=",
+  "URL": "https://pypi.python.org/pypi/python-rapidjson",
+  "LICENSE": "MIT",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1573796392",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "python"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "FILENAME": "python-pytest-metadata-1.10.0-1-any.pkg.tar.zst",
+  "NAME": "python-pytest-metadata",
+  "BASE": "python-pytest-metadata",
+  "VERSION": "1.10.0-1",
+  "DESC": "Plugin for accessing test session metadata",
+  "CSIZE": "14279",
+  "ISIZE": "40478",
+  "MD5SUM": "d10a3f26f1bd8412180436ea7de8b38e",
+  "SHA256SUM": "148cfde7ecdab8c0492c33054bc2915cda5fd5dd17da6aba26453e4a5c4e7128",
+  "PGPSIG": "iHUEABYIAB0WIQTH54SUZv4jWDQ1iDdyWHNLQcMVSQUCXvw54AAKCRByWHNLQcMVSergAP9gpl9JPhPEaLDK9JY214dxR0kJ83WW6xuJM8GclLpIzgD/V8nvycyd7N/Cc5/Pi9ZZwsSuvVJFCbeTBncmTLY7wA0=",
+  "URL": "https://github.com/pytest-dev/pytest-metadata",
+  "LICENSE": "MPL2",
+  "ARCH": "any",
+  "BUILDDATE": "1593588119",
+  "PACKAGER": "David Runge <dvzrv@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "python-pytest"
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "FILENAME": "haskell-text-latin1-0.3.1-21-x86_64.pkg.tar.zst",
+  "NAME": "haskell-text-latin1",
+  "BASE": "haskell-text-latin1",
+  "VERSION": "0.3.1-21",
+  "DESC": "Latin-1 (including ASCII) utility functions",
+  "CSIZE": "45688",
+  "ISIZE": "245776",
+  "MD5SUM": "0c62215469ae508a8d0ba4c07fc7b203",
+  "SHA256SUM": "b0139c1ee9e475656be269f28c89f33d63d4e104ca391f05f811ff9a85534f87",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl75JeAACgkQeGxj8zDXy5La+xAAm6xsAT1NCK9dnFxbap5pVdB7dv1tb4IJlNrS6Axy65ChkMVwt4J7ppDolv+VWHUNnwCoaGp0fy/fOUdYqmQApoe1FLw/Gxjr3lsg2YqSEqD4cI/5IiaeN5gS9FlO1SZ5LISvTM83/3g1F4bQ7Phv4mcnDyeNJYngshCs/TvCN6T3phRIsHSLIhWzM+2EFFfwPzCMZQ1HmNK3sWtsj+zos50+ZXCgil4cCaNte/c2toQljxfJCysBCqCj9yIZ4qjnVCE+Jzjm22t4kE2cqr2pW19b6ieXS6H/9iQ2NFzJJyXH0iQzcyXvKRfAn+gM0Jh0ASyuugIu4GP0VlGieyhX65kmZDHfb0jhrCc4rm10SMEqrx/fWsqLihqfbCme5EeV1oeCLBMd9UpFJL0VGFd5/vjuNXu9+94LciuIu/4HATtrSKrg7CUiWjeLF5JjZq62NQZMwHc4buaEjfWvVaDS8qUUKf0r490ITLSGkXwCHXpR9zikn8J3+VsYAet70u8x9TGltOkwiXsClfutogr9FJFgKPhdl17K2eW+wAUhDWxTRzyFsQuuI7+CaJpbd56Xsu4hKHklw7rvXm/GwmTgMp+lGWWa+6LNEK7oPvQgkeRK7EZ7QFe7QvJMZi2ssufs+qWrZgqteEMPBrXV1Y0fLK0zKmvDkyVCFzb/+vy4nRE=",
+  "URL": "https://github.com/mvv/text-latin1",
+  "LICENSE": "BSD",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1593386441",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "ghc-libs",
+    "haskell-case-insensitive",
+    "haskell-data-checked",
+    "haskell-hashable"
+  ]
+}

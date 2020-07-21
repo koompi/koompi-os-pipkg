@@ -1,0 +1,25 @@
+{
+  "FILENAME": "smb4k-3.0.6-1-x86_64.pkg.tar.zst",
+  "NAME": "smb4k",
+  "BASE": "smb4k",
+  "VERSION": "3.0.6-1",
+  "DESC": "A KDE program that browses samba shares",
+  "CSIZE": "4184963",
+  "ISIZE": "10292687",
+  "MD5SUM": "cc26d2026fd35a2120f5d50c031ea005",
+  "SHA256SUM": "d83e869d451092a10cbd1db13c12fa2b5e2c7d0fff08050ff55c11a5a2d89f00",
+  "PGPSIG": "iQEzBAABCAAdFiEEFRnVq6Zb9vwrc8dWek52CV2KUuQFAl7Y2gIACgkQek52CV2KUuR2bQgAp822Pe0xmfWBrdYGMNe6y1LvO9vmOuoiuyoripXbd70ENFuDaOlASc7D31xnbks8sM35hi+w5bkUGaqOEHKVFirOVVo/JhANjdqY/QCxd8g60Vmrn1X5nNLfiJIFN/UytyyivkZc/wAJFj9i6rg0hm3JzQCA+/kQ5s2U7PbY7gCSR4nnhXb06JiBDMKaXbAnqliQDlcG8RAN25DDzQhaxGXaBPdO1n+2Gftpm+UxNOzxTvG3Ns9OFPzP90n5pWof4F1DwTzNlq72LaJfdTGvptXElk4lPy5+4HabrLuEhz0jpnMm2XDv3Q6Qk8VVrzOiM5edIf6t9hZU5NCa+zO83Q==",
+  "URL": "https://smb4k.sourceforge.net/",
+  "LICENSE": "GPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1591269655",
+  "PACKAGER": "Antonio Rojas <arojas@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "kparts",
+    "hicolor-icon-theme",
+    "smbclient"
+  ]
+}

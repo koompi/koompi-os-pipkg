@@ -1,0 +1,28 @@
+{
+  "FILENAME": "util-linux-2.35.2-1-x86_64.pkg.tar.zst",
+  "NAME": "util-linux",
+  "BASE": "util-linux",
+  "VERSION": "2.35.2-1",
+  "DESC": "Miscellaneous system utilities for Linux",
+  "CSIZE": "2519256",
+  "ISIZE": "13671710",
+  "MD5SUM": "5581596e7a994c273cbe8f8a05e0d32f",
+  "SHA256SUM": "e674353fb508d3c74f6584e332aca9713d5d9df32d01d963913173c02f48f80e",
+  "PGPSIG": "iHUEABYIAB0WIQQEKYl95fO9rFN6MGltQr3RFuAGjwUCXsWFXgAKCRBtQr3RFuAGj1zZAQCsFmmaUOqXxsawzchWMiGZJkBAdaob1pucJDs+rZMwhwEAhADUzQqWneG6eI5v0Oai2TKNEMpvh8/QunpQ5yoiPQM=",
+  "URL": "https://github.com/karelzak/util-linux",
+  "LICENSE": "GPL2",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1590002879",
+  "PACKAGER": "Christian Hesse <arch@eworm.de>",
+  "PROVIDES": [
+    "rfkill"
+  ],
+  "DEPENDS": [
+    "pam",
+    "shadow",
+    "coreutils",
+    "systemd-libs",
+    "libcap-ng",
+    "libutil-linux"
+  ]
+}

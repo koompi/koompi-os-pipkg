@@ -1,0 +1,24 @@
+{
+  "FILENAME": "python-litevideo-2020.04-1-any.pkg.tar.zst",
+  "NAME": "python-litevideo",
+  "BASE": "python-litevideo",
+  "VERSION": "2020.04-1",
+  "DESC": "Small footprint and configurable video cores",
+  "CSIZE": "78463",
+  "ISIZE": "382142",
+  "MD5SUM": "812fe89c06a3f75146900f64bd49aaa4",
+  "SHA256SUM": "79b8fcbb22233c0faae2f57d90298858069cf622b44a12fe1bc309dee671c3d3",
+  "PGPSIG": "iQIzBAABCAAdFiEE0jW0leqs33gyftiw+JPGdIFqqV0FAl6oRh4ACgkQ+JPGdIFqqV2ftQ//Txs/3pcVwDpu8WxIhMGhcfcNU7Mq5ZLNrvmvTdHlKe6PvWgN56p4Oqwacm3UJzzQqQCLHd21ro4rQsr+GEhGEU/2TA6hpYpZTm6Aduv6Obv8UJMIxci2sAMk6TFouow67Udt0HBTedjjic/840fnertaeTie/C6L9VcPFKQYsBYpUeB0i8a9hL6qHJWw4UNytHWp3aaCpDgzfnEt3EP8gniCe0GYThHA0CI4Uaik6msaG4EzNDXxxJg3ANxnCWKxAZcWP0q+9dtGdx8YQJm2LnEAxjBcinDubsIhiwlZij7qcOd+QLOKE61ZjgLw3k3NSq5T3FSSDko805HIgafVfpMRQG/c8Y7ct+pkiENT0O4xkWOJ09Ld7QCagWoBvvw7alKxFJlxDhOYQNIZDO11J1iinxymAJH/bB+AgYOE0FU1S7euiT+Rqxk7rzd4ejOotQdJxXpcNrlk72lnKH9f0WngYzF2P7exW6yZVLV9zn3WzcASPjuBVKO7niC81V1F22stgq1tUiqa/KxhZCPuoz9IrS/AXoaW6mggtQYAIvYftDaeycqbONYn5hD57nt9jHxVS6+Ao/vcruSZXtJELjeu5ag1tvDhBxixTsjIiPz2jWG0v5zc9iD/6EK0W+RXm1Ofsd68OMzeAHSj8PkjxFe4uSmb3SLUQ5akYhsQVcQ=",
+  "URL": "https://github.com/enjoy-digital/litevideo",
+  "LICENSE": "BSD",
+  "ARCH": "any",
+  "BUILDDATE": "1588086275",
+  "PACKAGER": "Filipe Laíns <lains@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "python-migen",
+    "python-litex"
+  ]
+}

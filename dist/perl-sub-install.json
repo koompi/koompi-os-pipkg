@@ -1,0 +1,23 @@
+{
+  "FILENAME": "perl-sub-install-0.928-6-any.pkg.tar.zst",
+  "NAME": "perl-sub-install",
+  "BASE": "perl-sub-install",
+  "VERSION": "0.928-6",
+  "DESC": "Install subroutines into packages easily",
+  "CSIZE": "9273",
+  "ISIZE": "15403",
+  "MD5SUM": "356b4feb3648b7b08d8612d3c43b8e2a",
+  "SHA256SUM": "440b48482e055c637bdc49c1c51d379e7ea4eeca6a8a181439fd91b368af0f82",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl7vN4MACgkQeGxj8zDXy5KTnA/+IxMP235QKM1b9ONkGs9kGzA7QFFjGIFY8tu2XEtQv5XqKSLfMzaL3tlVeCSODo4xWzTpv1A3zXPIJ02eBZYwSbrBrVuTsv9jTA3+LBs6EZGO4fMcT6WVkBPwbBm/vNQOUeBkH2hM/WnlGVqDE+MUJcljtb/WNAaR1/xrAFsjsMEf/hhFJqpyBI52jbLkmxvMgOHOM7VRNeJDjhpxbU7o4PH/mXL/Fe42YLaoe6g9ZG8PATS4rFCkOVaN4s9zE1jcoUURupGDPpyqMdXYJm7UfFb5kywJoPnQMGFXoYI+QJHHq6lgZ4hAWYYmdZk5WC4QDMwgY4wQeDPkeqaklwOn50TykyLfmHMPfrLZZc5eM80GtWBcxK+lfr9ndgeqhjbVVZL0T845dVvOzN2C0ipvPAlOh5cYLGoG9iZdt3AS6ZIQFjBBz0cQ102EM31OmCI94Mg0gyPG7R6qPOIlCa3qEo3OCgZIMiMtepE6uRgyk5kPZ7Lx1cQ+X3V75ZxRq8gh4eDxH3r2br8D3ym2dmfv/PEfnTP4rrPT6MfJHboaMiunM1rg5aNy4wg9V98SwWhoohNLIRlT3PZbG3dPG0CCL9qMAfV0icJz5DUoRy380fOsO3rLFkVe8pZIUZTFh6ReJOfBZMgMSq1tQeqKB/cWjN3+cFcoILC0o/oOuez7AcE=",
+  "URL": "https://metacpan.org/release/Sub-Install",
+  "LICENSE": "PerlArtistic",
+  "ARCH": "any",
+  "BUILDDATE": "1592735419",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "perl"
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "FILENAME": "jnettop-0.13.0-7-x86_64.pkg.tar.zst",
+  "NAME": "jnettop",
+  "BASE": "jnettop",
+  "VERSION": "0.13.0-7",
+  "DESC": "A top-like console network traffic visualizer",
+  "CSIZE": "31657",
+  "ISIZE": "83978",
+  "MD5SUM": "3a4c15b5d5369c4195bb5448c4e3aa75",
+  "SHA256SUM": "fa02bd9d0ec8b2a6ef600c3ec4b253c31c7a74c65494c2125c2837606ab45723",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl8Ef48ACgkQeGxj8zDXy5I1Vw//d8WzZw4d+sd80H5wu/gE6qLlnXBVsUAHFhxCc8N4DfLc5yg2KKpFI1gotSK8ZMIzfVRHXrksejVqa94BYZC1VOML9DaWRyEnn1mPvvHip4mgsRJ02oZdMdswsOBQgkkQ3xLtzJ+9PtNnOW1fhv4vlpf4zWTJJzk/c/fmn0/J6Inlc9p0xjxgVMTv7jAQhKeZaxHlcVge8fqF6fOR9C2BVl+tllMvzQaMyuXJW2mfxgfK6GYC7632sOuupEiFJNmwwvqx5bNAzSZwizrgOjIzPNLgIczUvZ9nCyiwYA3/s0c5SmB2OHCygtqqx55z1wN3IiwKk0wOd7g5LqWVyGmmHesFpf6qFFkPTA3hb4Xk77JlgvI45L7554qZ7dZNgV1gGPtst22CYG4uCNTApXD6jxNUC3/ygK1Kvl1QDxGPTACyavQKMMCcT4d/tTOBmG+hkfRF+IRAbg92sz8mqTcq2QU5ha0ZM0kKXszzmfFjwiJ4BozIqLgT+8eUgKeSDf6yXFwsUmQ8HiekP9K6bPYZrcPNexj0BcSVhqrJIG1fehSVF3jxizWpyfHV81nzZffmt4nQ4UmJFEvhwo+k6lWhFjffU2Msm9tJB/ZL+n+vm7XOiaX/Zy0Jc4DsG1YTqg4EwbqrmEeCWplwU9BxZeRQE0UqpdrxUhj8VsoWHkwla/A=",
+  "URL": "https://web.archive.org/web/20160703195221/http://jnettop.kubs.info/wiki/",
+  "LICENSE": "GPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1594130238",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "libpcap",
+    "glib2"
+  ]
+}

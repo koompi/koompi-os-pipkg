@@ -1,0 +1,23 @@
+{
+  "FILENAME": "ruby-mini_mime-1.0.1-2-any.pkg.tar.xz",
+  "NAME": "ruby-mini_mime",
+  "BASE": "ruby-mini_mime",
+  "VERSION": "1.0.1-2",
+  "DESC": "A lightweight mime type lookup toy",
+  "CSIZE": "22360",
+  "ISIZE": "226587",
+  "MD5SUM": "5b4a4f9250426a10beef04c0ef1864ca",
+  "SHA256SUM": "076fae3301020fedcff88e81577e906aea19f2e99ae007f019d0a5098e1f0810",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl4D/DUACgkQeGxj8zDXy5KuZA//eV7T2pB0KQEqdbKbyRV4veYA+auyzXG2eXaUQm9V8iOYX5sSckzV1Ksf3i+lZmPcNZDbDux1xKC5XbaE6L/TEfCceNVKkJvNkTU5VqkYAACP5cX8ip9x+GyEk+hjAiWJjkiUsfIbs1M/gduVxjNuYN/PIymdoK74Ee/Todko5qxmN8GGTF3GSMpKuRoeSBHJ6t33A+bO3yFUt3Crvq9CUvzRoMuYVTZPfpndysJO2gwZRck76UKiJaEj+cdUxs2rt4w+fOzUzwrWgArMyzzreK6uuroyc8hSVhzdP8CACd1z76JiKHzrsj/oPksWElmpQ9tj7e+Tcj+W/qmjEs5G3MIReymCPsYYcMfokAKwFyWhN4fGtYLsA+SFbATjpthkw4280D4AaWudfRFMR7AREczD4fPFiCpI7CNEx9foGPltXjZod7cSqxwPHj2XTYlXP5Z4g9vOjMWjSOv7XIA54wad63dwqlFT8wGtw+qeomNCyg1fwOC3ZUq0inOSFor/09qjP/VeTT7bToojylJmMYyEgdmsSaXPYNsn+eeeq9grIuPl3nq9W0+XEgGQOQCPRn4wipmvMdlWZXbjVXvkgm3CX/v/hEkDxH9qbUfx2lJJdOJDwr7ej6h9vw7EL+2jYeox7WGhr1MMv8YoLrc8omMDPUFJAMpKkp8tuluMAYk=",
+  "URL": "https://github.com/discourse/mini_mime",
+  "LICENSE": "MIT",
+  "ARCH": "any",
+  "BUILDDATE": "1577319454",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "ruby"
+  ]
+}

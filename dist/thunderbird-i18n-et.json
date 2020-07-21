@@ -1,0 +1,23 @@
+{
+  "FILENAME": "thunderbird-i18n-et-68.10.0-1-any.pkg.tar.zst",
+  "NAME": "thunderbird-i18n-et",
+  "BASE": "thunderbird-i18n",
+  "VERSION": "68.10.0-1",
+  "DESC": "Estonian language pack for Thunderbird",
+  "CSIZE": "511396",
+  "ISIZE": "573581",
+  "MD5SUM": "e7a3211c53594451d37a4f2a18e1027f",
+  "SHA256SUM": "937856f3cdf40401be82d60afecda549f1d5e2afdda978235efa3e68aac9e476",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl78eF0ACgkQeGxj8zDXy5JhHxAAmdI9YZTfZLBIOlxlvcS1DdTBZxix1gssmJP9EyprrSitSBUr6UGEPPRsNFdF/tkvUQyZyMXaTeA58yVjc9c98K56t5xYMq0pebJlIibg+rwOzuoUHGYsE8/sdW0lk5Z3GnDC2+Fc9GczhelDXMiKUs4YAcorS5btrzwVA0Ius6UlH8BPbhol2M9op7z93QY2jqu9kGmar5vRAzUsh6RU59krYGmPpD6Y/NnWgk1sgG+Gt1FLF7Yywy8bMHk/6apymP6PPOEVCd7PQeRly/DUm0oRwToQDP5u6SMzOKM8FKVR0A+ahuRyULiseCBMHMMgMbDvSRKILUlI/MC/Ygs0k2w/+NPbJBOZx/VoQkPb0evNBkHOfIjMiN62TC7DlpzfQTfI/qLW2TOwkbZDXsQGGMgtNPUDQbBw8GL2qxsnDMdl12yHaDmmbpWmKNIDJQnViqcGiURFl2cfkactWG19t57/HKY8FMzSSKUsdQ0K1xuIAsyflS7Cmj6taLsQ+xfQmrK/4X7bpIbQ0P6AmZmsbppXU8TnkvHQcbxSTf0xcvVZMffLM2EYgazxxvv9D3LF+3SgH/mtmz0VF5lBR8KwT+Cu3atrWAkXs682dZ3VNneeHqHQ+oht9G0qu82HXolPcSXpqrydHvkHHUpCEoNdCSIb6jzvdtkde7vRZ7S2Urk=",
+  "URL": "https://www.mozilla.org/thunderbird",
+  "LICENSE": "MPL",
+  "ARCH": "any",
+  "BUILDDATE": "1593603702",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "thunderbird>=68.10.0"
+  ]
+}

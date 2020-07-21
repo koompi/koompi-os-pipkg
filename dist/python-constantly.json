@@ -1,0 +1,23 @@
+{
+  "FILENAME": "python-constantly-15.1.0-6-any.pkg.tar.zst",
+  "NAME": "python-constantly",
+  "BASE": "python-constantly",
+  "VERSION": "15.1.0-6",
+  "DESC": "Symbolic constants in Python",
+  "CSIZE": "13331",
+  "ISIZE": "54740",
+  "MD5SUM": "eeab79d81454aed0e101e6a60389cdb6",
+  "SHA256SUM": "8d20819e4cd005b34e168f6cc2632076c69b498ed69bec19e1241fdc0e4dd19b",
+  "PGPSIG": "iQEzBAABCAAdFiEEhs/8qRjPOvRxR1iAUeixSKmZnDQFAl6/znIACgkQUeixSKmZnDSbbwgAj9/Nrfm1TvYfgc7+jvr/3fASnNDgt5zimml0OsM9AmpUIwMJP0KkJLiju+UxaZIFvGKlYTZ2bsilxUWtRzBMj7BK4WqpekloJR3nJLY0Yc+hVAGYidXVMdyTGJu4tmdGbtxblTjv1K1qVmEwNjaVJXdrUEuOcmRwixRf9vMHTa9NDqThL6jpmPVSil8olGyRzCmpcCPismSnlSy9prEXzIBmkStSLa3MtUjWz3wUc/PWkkVFX+O0Pjzn4z0lm3WqhZ8Toz8kuI1GbmaN/vnYS0ACRMlorEGr/wtA0mQHyX/YKVhPIBYAN+QNlDASPhCGgyxsmG0WnrwrSrp8Q9X7Jg==",
+  "URL": "https://github.com/twisted/constantly",
+  "LICENSE": "MIT",
+  "ARCH": "any",
+  "BUILDDATE": "1589628503",
+  "PACKAGER": "Evangelos Foutras <evangelos@foutrelis.com>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "python"
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "FILENAME": "python-django-classy-tags-1.0.0-1-any.pkg.tar.zst",
+  "NAME": "python-django-classy-tags",
+  "BASE": "python-django-classy-tags",
+  "VERSION": "1.0.0-1",
+  "DESC": "Class based template tags for django",
+  "CSIZE": "27097",
+  "ISIZE": "112531",
+  "MD5SUM": "7ea1d6f2cea0cd73b158d82f3259f63f",
+  "SHA256SUM": "b325d18d66570c8f0cedf4f38b7f46644805a7d83aa8493a27990faa40673637",
+  "PGPSIG": "iHUEABYIAB0WIQTH54SUZv4jWDQ1iDdyWHNLQcMVSQUCXigorQAKCRByWHNLQcMVSf0XAP46PU6QrPrDKnv20EQ9DYF11l8v+dGDEklZs8O0U03OeQEAlOA8mAOQeegeNy0X2GQTTm3MslwKh/M2YBdzvhdrAw0=",
+  "URL": "https://github.com/divio/django-classy-tags",
+  "LICENSE": "BSD",
+  "ARCH": "any",
+  "BUILDDATE": "1579689402",
+  "PACKAGER": "David Runge <dvzrv@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "python-django",
+    "python-six"
+  ]
+}

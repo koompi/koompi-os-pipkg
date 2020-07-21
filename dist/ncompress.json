@@ -1,0 +1,23 @@
+{
+  "FILENAME": "ncompress-4.2.4.6-1-x86_64.pkg.tar.zst",
+  "NAME": "ncompress",
+  "BASE": "ncompress",
+  "VERSION": "4.2.4.6-1",
+  "DESC": "a fast, simple LZW file compressor",
+  "CSIZE": "18316",
+  "ISIZE": "31817",
+  "MD5SUM": "622147d08897e2943c8162c18ac0803b",
+  "SHA256SUM": "a6b8fcfff91bed0a33cb0fce739553836609a158baf7af8acde41e9af1b6f1be",
+  "PGPSIG": "iQIzBAABCgAdFiEEYEETBMCdNmKDQO7/zrFn77VyK9YFAl4OvnEACgkQzrFn77VyK9ZtwQ/7B/EaxWmfv8+zyqYCGTx0cQlCJ/QTkDk11F6UPL2+/Lr8T+mmKUu/5o1uD40o3znUaSIH4yII20razfSh6KZIUg+CCeqLSoCvAyB7p7v1kzYD5851TnSaPTfPRD58MDBlGrw1BnULfw9xDNQUsz/pvAha6zyH1xwJIXRdGLiVYS6xuOf/5QB6k4EqQkhrnFIPgXHjTiN8CJ4IR5vmaR2S2G3jXNj7KXLJrmz/sAW4c66bXpbcUalwF2x0pZkMm7YL7FCE/FHGCE5+zetcg32xynIEdh8F/cXymbC4lJaIDsUaQXcQPedagME8DCLYfMOX78uhUXUwu1bSkKGNfV1RcSojTLq/tDG/z8cnCCNzzuChHMRvODuK1VHbVgaE10agSwfpFk0/2wXBkUM+s6D05iaoFd5B8DCnP7ZbroCWE13OTdVnN0zCIIicBl7zDnAvt4Krn/0bbZUb4Lr8VJ58Pxnzzj/Fqc2A9s36m2eRqvqz3Gl3BG+ggnogGOo+r6dXfe1FvMciSujLryC3yiDNitlUFPNT6FJC3fK8qwkkjebWw7ISXQIkSCw6GKRN4a7PYrnyl3cbciNkcHYDNWCaUsMjztr4B5y7JYrtlTRANZ7Q6bRkQE3C5CDTJcftAESae9kV0/1aKkWI2TQrBFCyfzBInFujOGYpN0atvTt5AAo=",
+  "URL": "https://github.com/vapier/ncompress",
+  "LICENSE": "custom:PublicDomain",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1578024520",
+  "PACKAGER": "Eli Schwartz <eschwartz@archlinux.org>",
+  "PROVIDES": [
+    "compress"
+  ],
+  "DEPENDS": [
+    ""
+  ]
+}

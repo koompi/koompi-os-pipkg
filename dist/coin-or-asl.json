@@ -1,0 +1,23 @@
+{
+  "FILENAME": "coin-or-asl-1.4.3-1-x86_64.pkg.tar.zst",
+  "NAME": "coin-or-asl",
+  "BASE": "coin-or-asl",
+  "VERSION": "1.4.3-1",
+  "DESC": "COIN-OR autotools harness to build AMPL Solver Library",
+  "CSIZE": "257193",
+  "ISIZE": "637114",
+  "MD5SUM": "656474ddc8f4a095ade2893ad7fc68b7",
+  "SHA256SUM": "ad235f75f537f98c197a8dfe5bbd72dc3152a6294c96849e2bf449d52a25168f",
+  "PGPSIG": "iQEzBAABCAAdFiEEFRnVq6Zb9vwrc8dWek52CV2KUuQFAl6Nm7gACgkQek52CV2KUuTMZQf/Qx0jqRWL/86ZJU8G2yEw0i1f0cDRh2ah5r2EppEnNiXrDaXavQt50Bdi3q4z8wpdoJalvUROlUPXZ2sT0sN6QVd+saBcEYtxfjrRXSYmwEf/IeRONR+7KDpm/IqVeBmlo+hiEZ0t+FKP3piTFqdy8jFaNQ8Ydxzg7Jh2iYWorIBiGfMzZk2+oxb5GfH3QBYlrZZdl3lGKTfNBrVzhwwBTckHWUzgvUv5JpTe4SmmxYLRR8Ly3mSw2s7vgfc8hCVUiI5GH/3RxH4/IekpcemAMlEMjLdDluJPfVfWBAB1xqttsw39a5KPdD9fN4lAYuGtAbTQw2HfCiD8aF1mQsuRJg==",
+  "URL": "https://github.com/coin-or-tools/ThirdParty-ASL/",
+  "LICENSE": "MIT",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1586338527",
+  "PACKAGER": "Antonio Rojas <arojas@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "glibc"
+  ]
+}

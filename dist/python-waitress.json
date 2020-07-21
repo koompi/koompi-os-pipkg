@@ -1,0 +1,23 @@
+{
+  "FILENAME": "python-waitress-1.4.4-2-any.pkg.tar.zst",
+  "NAME": "python-waitress",
+  "BASE": "python-waitress",
+  "VERSION": "1.4.4-2",
+  "DESC": "Waitress WSGI server",
+  "CSIZE": "89206",
+  "ISIZE": "384417",
+  "MD5SUM": "5ad4a0ebd943039f62c417991c714ef8",
+  "SHA256SUM": "f3fd07b90e35fb94bb375184e7ac08bcc0c590b85f2cfff037bf2c63e0996b38",
+  "PGPSIG": "iQEzBAABCAAdFiEE5JnHn1PJalTlcv7hwGCGM3xQdz4FAl72DggACgkQwGCGM3xQdz5ZAgf/TyGZCs5wwa/U1rNenkQGQupW//Ihu09LICKFXimGpSUHZ48+08ccyQxaMe6RYXZFo3lqMsqM+dDl8fIk70338vYYWZSyQir58ftAdlsY8S3QoIh4HEGJokGFkRgXNMg0jNcLNNGOHaxmpctxVNK6ELTCd+Ej5jwdgQZAOsAvk216/kakRRp/2V9dMq8BgsCKc9Z7Ic5eiwEOqgYaelT4UP7m/lefOD30sTHpXmbQ71zPbfDmA4Sk2DajIHVRNdgNmYUkwWfLgQ2Cbl8FvVSXWr+mGDxbI/3S4kE/iNT0s+oNV8PkZiJhaezlYURVjyBA8ur8eG1TtUjQEiaH2UecqQ==",
+  "URL": "https://github.com/Pylons/waitress",
+  "LICENSE": "ZPL",
+  "ARCH": "any",
+  "BUILDDATE": "1593183409",
+  "PACKAGER": "Jelle van der Waa <jelle@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "python-setuptools"
+  ]
+}

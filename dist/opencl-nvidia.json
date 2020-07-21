@@ -1,0 +1,23 @@
+{
+  "FILENAME": "opencl-nvidia-450.57-2-x86_64.pkg.tar.zst",
+  "NAME": "opencl-nvidia",
+  "BASE": "nvidia-utils",
+  "VERSION": "450.57-2",
+  "DESC": "OpenCL implemention for NVIDIA",
+  "CSIZE": "16138807",
+  "ISIZE": "84627358",
+  "MD5SUM": "cbed5a94cab4d4777f7ebb0c15e4041b",
+  "SHA256SUM": "08c746d6cf1618d8a95d093b21afec53ed36816e1e97b2c88d613a6eb05d98db",
+  "PGPSIG": "iQIzBAABCAAdFiEEj8FaBklQqZ3RvRTdOeS4d+YuuRUFAl8HQYYACgkQOeS4d+YuuRX7uA/9H1wff9sHvY6ax+g4GWj8ZQRAZqgR1ymTXwJjixOoPottT3lZUHilrzHIBWLfb5XM1pf6WOHRffdqn0MDlyDBbOjDYm6xQu213XDRINduoL9aosJTSo03DMVqh4niqhyH9Mnu3GzPROzj+YNt0E2Bu4SOuVvExDU9SXfMimAN1w6TzX1VRcTVkngMyh5QtTWOhZlet5cX7z9nvY+RRV45HAYveiP83gouJpFGXTadtKJ/Pr0ra6YHMRO06xQFfzP5HccKdh5H4F1Mf0b5rdwnHH3EaUvTTmorXHgyt8wgSTNCb9QAKcqOt84TcFBLDPdZl2NhJJS4Y/oW6i1KYHRBN8fDi7c2cXRsn5yui6+udntEgaUQ+1hFNo9HNg/c8n+SLQz+6NhumvVD62AjHPzU6OO3xfdh9Bd7ukdCWbp0/s5HEOx12s0b2wu5xHkSONxRB73FouORDBjWE0eXMzVYNuHGQ0a3A6EZulK7v74wDTsEKJuVZwc5smJQZaKqUlXCPjBtYOpnssqeXc9VRg9gj9w1/9NREaoA+QWERlJ1C46QhQAoWHiy74yMX5iu3AbAo2iOzsDVY3MX1tlST8pnybIyCvPx4er8H2w6Vn7OU9On5Al98NE2ZCTihoHXtm/rVeQTNUDKUs5Le5x7BUGqLMjByn8iVODtwHZ1nuCxhhw=",
+  "URL": "http://www.nvidia.com/",
+  "LICENSE": "custom",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1594310785",
+  "PACKAGER": "Sven-Hendrik Haase <svenstaro@gmail.com>",
+  "PROVIDES": [
+    "opencl-driver"
+  ],
+  "DEPENDS": [
+    "zlib"
+  ]
+}

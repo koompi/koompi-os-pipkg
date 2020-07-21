@@ -1,0 +1,25 @@
+{
+  "FILENAME": "python-jsonrpc-server-0.3.4-1-any.pkg.tar.zst",
+  "NAME": "python-jsonrpc-server",
+  "BASE": "python-jsonrpc-server",
+  "VERSION": "0.3.4-1",
+  "DESC": "Python library implementing asynchronous JSON RPC server",
+  "CSIZE": "16882",
+  "ISIZE": "56160",
+  "MD5SUM": "1a904e48566bd319fdccb345ade260d5",
+  "SHA256SUM": "429466b1f7fe7e721713b8917d36312fdac7a18317022f2d5077daf8179de80a",
+  "PGPSIG": "iQIzBAABCgAdFiEEwQA0ZnZjToDJQPuenAL/QZ/svhYFAl4oqvsACgkQnAL/QZ/svhb1tg//WPO6DUxOhECaIAQ7x8wtcG46llyM5R9i62CPgU1dSUtdjZwBIOvOJLdZrd4vf34IQEHJG5RATYpqf0jx41zz4UaHjlonXwkJkXHQNAobUC7dcuLaFhNB5rzlrIR83adGG1jpExPeYC1yeYYxSdMSAXUCyhsq26731HpUpPVfov/Of0yrVBEGyi8EosVNSJvN2ECaXxtZ1C5SUwwB6NIs4HeNNwsK23i2qqR3UuWk9MAe8Slc1+epWgjKYYAf7UXWrXBSWkl9hQay/LnDz/95i5THJnK9ZBxozEuPcEo143cTYS/eD0yhO4wDOWK4OrUB10T0hlkMpD54FEroCrZIVKeS6ze/T2g44lNvgd/T6tbvz1CXM3DsYme26GysSVWInsgreWHyNkLw1iPlBKU+eyOKdU+2jzRCV0AMW30MWFavn+00WAj7ZNZj/mN5Uuh+CHrMoX7y8+XGFVwI/nTmJSwfSSIAToJ7SmyLaGcCvHOrRxy7mUM8UcCj8sJwOUKDDbqoYeZdBzo4I47e3pwsfxBsGwLRRQnmOj9yRACNh4CmMvXUP2Xbo4TquoTH3qKowoHS9NX0TfvCEyreYluQ4ab1IghlZsahQaQAMxVISuJrngE4zi8/eKHWTtUddfn2P87RsrB8+53qyGnzudwUskX+aHh7TcmtY9yJ7iCrjTc=",
+  "URL": "https://github.com/palantir/python-jsonrpc-server",
+  "LICENSE": "MIT",
+  "ARCH": "any",
+  "BUILDDATE": "1579723486",
+  "PACKAGER": "Morten Linderud <foxboron@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "python",
+    "python-future",
+    "python-ujson"
+  ]
+}

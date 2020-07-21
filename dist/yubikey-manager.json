@@ -1,0 +1,33 @@
+{
+  "FILENAME": "yubikey-manager-3.1.1-1-any.pkg.tar.zst",
+  "NAME": "yubikey-manager",
+  "BASE": "yubikey-manager",
+  "VERSION": "3.1.1-1",
+  "DESC": "Python library and command line tool for configuring a YubiKey",
+  "CSIZE": "166399",
+  "ISIZE": "897894",
+  "MD5SUM": "01395d3ac5bcd43c12289300abd242ee",
+  "SHA256SUM": "7d1d945b1862092712151717dd6921ee6a73a6d5a56164e642f4db6a58560bc1",
+  "PGPSIG": "iHUEABYIAB0WIQQEKYl95fO9rFN6MGltQr3RFuAGjwUCXjGkUQAKCRBtQr3RFuAGjx2AAQDyaYKRrKqwkf6Xug9jxqu6Knvrm2nmh4BvWBnv1m1Q0QEAq/Tt64Tm+cE912P9xNrj/juFN6H2rWWTm3IkrUioawQ=",
+  "URL": "https://developers.yubico.com/yubikey-manager/",
+  "LICENSE": "BSD",
+  "ARCH": "any",
+  "BUILDDATE": "1580311603",
+  "PACKAGER": "Christian Hesse <arch@eworm.de>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "python",
+    "python-click",
+    "python-cryptography",
+    "python-pyopenssl",
+    "python-pyscard",
+    "python-pyusb",
+    "python-six",
+    "python-fido2",
+    "ccid",
+    "libu2f-host",
+    "yubikey-personalization"
+  ]
+}

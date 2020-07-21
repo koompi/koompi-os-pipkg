@@ -1,0 +1,25 @@
+{
+  "FILENAME": "mate-netbook-1.24.0-1-x86_64.pkg.tar.zst",
+  "NAME": "mate-netbook",
+  "BASE": "mate-netbook",
+  "VERSION": "1.24.0-1",
+  "DESC": "A simple window management tool",
+  "CSIZE": "90315",
+  "ISIZE": "314545",
+  "MD5SUM": "b0fc405bff9b66334e9c20d086e86782",
+  "SHA256SUM": "67eac0b11a8e2dc0a5dca53f1ecb6ffa91aac7f805db6d6df5b51e26e3f61a3d",
+  "PGPSIG": "iQEzBAABCAAdFiEEzFln1AlbTztC1F+ggaQC1POCu70FAl5VlmUACgkQgaQC1POCu73esAf/TOj5UP1M+8O1bIJMVsXLh0cjpZ1MCXGqd0+scArUu7ZJMThJ/R3viHrNRfll4r05uHqncTMjyjRHxW/wjC5KBTAnkZQm9IXtT4Q5deWBZCoHi0nAF+hBaKdM4vOsyLhpJfH+2qqhV0yTuGwUfE3jlBLzi5bPJt3IThVKCa3OkJPu25+pyDOVu2HwQt6hWwBDDUhRyUjxuLpeaYR3PVMVHV3pG0ewFpWHg2uWkiPaDLggZ9drSrcPUZ+m0mpMsgXwo6/smR/UraLqHZDVmZguswPe0mny4A3jwbXPF59TozY7bVjYu39N+RESdvBYXr017G8NKQEbMO5QMlDrE1U1Lg==",
+  "URL": "https://mate-desktop.org",
+  "LICENSE": "GPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1582667331",
+  "PACKAGER": "Brad Fanella <cesura@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "libfakekey",
+    "mate-panel",
+    "gettext"
+  ]
+}

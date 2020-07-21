@@ -1,0 +1,26 @@
+{
+  "FILENAME": "python-bluepy-1.3.0-2-x86_64.pkg.tar.xz",
+  "NAME": "python-bluepy",
+  "BASE": "python-bluepy",
+  "VERSION": "1.3.0-2",
+  "DESC": "Python module for interfacing with Bluetooth LE devices through Bluez",
+  "CSIZE": "147460",
+  "ISIZE": "557868",
+  "MD5SUM": "799e03b174d64cdfdc6f7febabef9873",
+  "SHA256SUM": "0f2ab35f447670e81b4c417c32754e349a585acee0f94363608ff37b725ebaa4",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl2/xnQACgkQeGxj8zDXy5JksRAAiTh67Z9+HmN732TmgMwkDp2jBtsgiDaiNfqBfCjRKAdJsWEC9cOBUSu2DFKsP6ccAv/98qhTwGrKBYxPGRontC3JlI3n4wBkJ/yRn9TNvcKsdC8YSYU4b77LluT+KpgkFnec75NYmxbY4oq+Ysc9KCVG1R4NuI4E7iCWu/mPxDQ8Ucfak0UsYAH8HmHaX4muc9y0+/Dkf6IbSfsfKhvq/Blsq4j8CIPMMJ7A19c73N7QSvx3Rq95YL4MWhxIq4kdwkVl4dfOePiuD20+ie3rmgghEZxI/+xDgA0F7DxUi9e9DCi661kpHoLQFoWmkA2AtO43DaUpLx728z6/aHPsCPaxF1ylt37yg9zLZJBVdK0B1SmUAv2z0o2bK18EBfUVXh4Foqa1+ckFaR8qqBeffdFScWWrJRUa4lrs79o97SRZ6yKZp7KSYWnC05m/LMMU9BdMRBhtv71VB9Y8RJdVkQ5i3F6UdkbRv06jtBgqPstnAWbiI4Kh7+VRXMEBTT+qjjz4PALknxEYinkFLe6+A71ij+q5+MHT1luHmNbpuw0oz7brgpfqjfc/YZJX1aE96XO40UaHWwCgY5jNDsJjaoY1XrWB4f988d7l2GFcgUCsfUpHmjBMNTxwzPDxOXek1Crye716vjfQAIsjiDrOLJvZdhcT+SO3NfAmqMglVW8=",
+  "URL": "https://github.com/IanHarvey/bluepy",
+  "LICENSE": "GPL2",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1572849208",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "python",
+    "python-setuptools",
+    "bluez",
+    "glib2"
+  ]
+}

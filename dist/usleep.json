@@ -1,0 +1,23 @@
+{
+  "FILENAME": "usleep-1.0-5-x86_64.pkg.tar.zst",
+  "NAME": "usleep",
+  "BASE": "usleep",
+  "VERSION": "1.0-5",
+  "DESC": "Sleep for (at least) the given number of microseconds",
+  "CSIZE": "4782",
+  "ISIZE": "15426",
+  "MD5SUM": "504033a4754daa4298dc78eb599c76f3",
+  "SHA256SUM": "3e64cdaa62fedf72a42fd72bf287666177c092310a928acf1d6318db5b6984f9",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl8EbWsACgkQeGxj8zDXy5JjExAAiO0+wep6zW/r9WxrM+gzoSF+3cwalrwWUiMs10AEhLi6Q1OscLqUYzcrlJAcYON7pNluXDBBJ8qL+d7qA0Euk8pGYG+L1EpWH2TTMgJ1MsKvEIBijZXBVnH6Rqf41GFhCJTuyocAdgCHpgBfX2Ji6WHyvB5HbAwLtXILVfW5p8UGG6BYfxs8BgDf2DDW+duO3vmDKwoaGrSJxzhbhvfhrAhypCydy5yCxKQiPsGuMCuMH6PPQmC5wR0Pggdxwbe96yhS950VPxrbokcitZ51PJghbdIrJB/sU9pXW9svGgrgjkfS1cKOfT0fzA0DqJYWxsRN1RrUuEXy5Xh7KuTuJjc1Wt5cajYfyqH/a8UTgn/npgJJiCv47hZpUBL3S40uI1h8GYSvkBVbscRENOScEQrlTZG/lGYAYjdaG4lpBHjviKe+Q1RTgCwTHtCwkPH3x1NPyQz9m7Zy0d6lkryPtQUjhwMgTVep9W4lLEdvmsCZMaDmDBhK3wv9A22mZD1lHJA2LpP05LGslr1Nb1Gm2QBwHgA8S0KWo8H1PdfbDx7ru1HpyfI+KhoXsvUSAv67sf0pgPbfGGm+t8Q7R1bDU6p8FTYLH3EsS73imoGE3xSBXW0N0rCQpor/USNr8LECvQpsls6SsBZss59KizAPxIybz+mfd7p/0sRVzMkDiIA=",
+  "URL": "https://github.com/cpeuvrel/usleep-aur",
+  "LICENSE": "MIT",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1594125659",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "glibc"
+  ]
+}

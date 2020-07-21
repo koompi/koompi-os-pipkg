@@ -1,0 +1,25 @@
+{
+  "FILENAME": "gzip-1.10-3-x86_64.pkg.tar.xz",
+  "NAME": "gzip",
+  "BASE": "gzip",
+  "VERSION": "1.10-3",
+  "DESC": "GNU compression utility",
+  "CSIZE": "79692",
+  "ISIZE": "160715",
+  "MD5SUM": "a5727a012ce6e9c1f47e281800f1dbb3",
+  "SHA256SUM": "a01f72e77deec43943629875014dcaa566958bd10b579e21fc0c8a2a45641541",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl3MJ2AACgkQeGxj8zDXy5KMjA//XPXxz0IY4zXSWLb/jX8JrvELFRwuJO5FJlQmgsb2n8aBygaYdTrSB8t4n+gOqU/n96kbsA1toAgRgolEm11Wnk5PTn3Pj2/r7zfs0aJH7Lwh+utuYSLESC6dQfaoiVkT80xuCG1s3IhJvscWK7QqmYX+Ufz/zXFyB3xIVo3rBGgCM2kYnQ3e4huVKBc/DK9tlnzxM7ZHOWtHHeRe8pM0jgpOLBmpImNaQIBTWiAyW+zpuaQpsrI1Bcw9kz44pqH2BrPgE4uQVKXRtAOndB0gcFQvPsaKjocyzi0mRievGm/wbIhQrAemlxtNUPHuvJmCiOeuWMNS+eaTfS4kYvJj6O1Wl92FyGGlT3GCIjQQRvnCojj8mfEJUy6tK5hwvkm60lNmIjSkdsHGP2a5ztEaggC9W2/87XC+GKHZl1ps51M66SgLwN57bisGdbCkQ3jNst7GypWOJ7t1czfN7huFrLElE3+MF6hQzWOUjfGQh4BRaPRy9H+DQKBLvlZmtJeuhpmhlAnbDyuBhhEDM+ydp4l3zbdoPruc2tx5OlOfhaWm0zB627c4QDGcPOfl0iXk01fSFKjnCD6wyZXzF6blOLNyTO4sBWyuyIiHxNVc4A94OoDe0hCZaZEsoozPZh+RqA5fjjcUKyqATRcZYaUHWmxnE/Gl0BDKsQocZ8b54c8=",
+  "URL": "https://www.gnu.org/software/gzip/",
+  "LICENSE": "GPL3",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1573660462",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "glibc",
+    "bash",
+    "less"
+  ]
+}

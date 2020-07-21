@@ -1,0 +1,27 @@
+{
+  "FILENAME": "anything-sync-daemon-5.85-3-any.pkg.tar.zst",
+  "NAME": "anything-sync-daemon",
+  "BASE": "anything-sync-daemon",
+  "VERSION": "5.85-3",
+  "DESC": "Symlinks and syncs user specified dirs to RAM",
+  "CSIZE": "16607",
+  "ISIZE": "30788",
+  "MD5SUM": "04ad389ccef8041161af15e2b13df115",
+  "SHA256SUM": "dd323d6e58270c95a74d388121145236d36e0285465522ac63c547609e575edc",
+  "PGPSIG": "iHUEABYIAB0WIQTH54SUZv4jWDQ1iDdyWHNLQcMVSQUCXkfFLQAKCRByWHNLQcMVSRzLAP40P5lxmPfzo7VcIRHEUQEt5Bs9jyvnWtUyUjaGWruqSQEAv+/kaseatw9a9mI05mr6zV1GfQ+01/lFvaMDY9536wo=",
+  "URL": "https://github.com/graysky2/anything-sync-daemon",
+  "LICENSE": "MIT",
+  "ARCH": "any",
+  "BUILDDATE": "1581761709",
+  "PACKAGER": "David Runge <dvzrv@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "bash",
+    "findutils",
+    "procps-ng",
+    "rsync",
+    "systemd"
+  ]
+}

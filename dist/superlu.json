@@ -1,0 +1,23 @@
+{
+  "FILENAME": "superlu-5.2.1-10-x86_64.pkg.tar.zst",
+  "NAME": "superlu",
+  "BASE": "superlu",
+  "VERSION": "5.2.1-10",
+  "DESC": "Set of subroutines to solve a sparse linear system",
+  "CSIZE": "839065",
+  "ISIZE": "1267014",
+  "MD5SUM": "5a97af3b56b24d4cb0a2f19a899121f2",
+  "SHA256SUM": "166e5845e9ccd0263dee43efa8d4647d4cb6802288781fa6134084603db2d871",
+  "PGPSIG": "iQEzBAABCAAdFiEEzgvecadZqH8j8PfYth284QkBwWMFAl7mrt0ACgkQth284QkBwWPQRAf/QO7yZPWMqsnTvjL5XFL9ygTj5B1jg+IorrrmkEy9PS8UISBIAn1ngCKgpu9e1zkV6WygpgbXvWnP17harD0Mi2QS+Tv1mEY6YjCGw6WqBWpjsLQhdI69+IiYmakd7D9zZgrnDuSAS9CIx7lLp5ooQE26ve5IiLl8ItBcuwDNDj01oBge13XCbqmyM5/SojQeJqHGzdskxfx3fJt6iKPQR/nL2aEgT4jnqpSnoZTK4MtylCOHIB7Lam+UgUFlMyvluIOiEUkLP/0RPaZx1hLpFSBWUpMV//mlkuanCE0zWP5ypgVZVEf2tn12yFRXn2C9HCORh/vWsl11Tz+Vht6oJg==",
+  "URL": "https://github.com/xiaoyeli/superlu/",
+  "LICENSE": "BSD",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1592176292",
+  "PACKAGER": "Balló György <ballogyor+arch@gmail.com>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "blas"
+  ]
+}

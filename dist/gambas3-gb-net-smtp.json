@@ -1,0 +1,24 @@
+{
+  "FILENAME": "gambas3-gb-net-smtp-3.15.0-1-x86_64.pkg.tar.zst",
+  "NAME": "gambas3-gb-net-smtp",
+  "BASE": "gambas3",
+  "VERSION": "3.15.0-1",
+  "DESC": "SMTP component",
+  "CSIZE": "16219",
+  "ISIZE": "35115",
+  "MD5SUM": "05de758040cb914dbb7efa1940777367",
+  "SHA256SUM": "77623f0dfd671b9e7a0d96cab6459ac4f00793204443f3d8bffb88de3d64616f",
+  "PGPSIG": "iQEzBAABCAAdFiEEU1+MAzlFDwVKTSgnBglqatHO3awFAl8C7RgACgkQBglqatHO3azZ7Qf+MbYHLcjNfiBPye/sG0N1cu2ht/C7ScycES5osZdHqYflrMBUsFi9N4psUf/n1sIA5+AGiKvJsG2nOZazsZMXjiVlHCQuVdpxOrskMufAXejDAxBgqZixx0C5DUlkPNKlkchd7/6Fs6rXs2VfaxaqyMDr+eOsbuz1ho0ChYcjB/BU+jiKMpbPIxTlOg+RKl+NApvXsBa2kOo9KIbZ706X3yYQNoGBaTLiJ9OQfYS7s7lUUG7doqsvtoVacUL66iyejdl4kfFTL3UZVzVlsyoWBi7+yJGqV2nZ2adrUgKu7jdALarmcaPAsaJLyyPCROjIGpo0mNKjh2xgnIrS616FjQ==",
+  "URL": "http://gambas.sourceforge.net/",
+  "LICENSE": "GPL2",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1594026389",
+  "PACKAGER": "Laurent Carlier <lordheavym@gmail.com>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "gambas3-runtime",
+    "glib2"
+  ]
+}

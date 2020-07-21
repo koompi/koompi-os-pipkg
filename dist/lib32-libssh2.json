@@ -1,0 +1,25 @@
+{
+  "FILENAME": "lib32-libssh2-1.9.0-1-x86_64.pkg.tar.xz",
+  "NAME": "lib32-libssh2",
+  "BASE": "lib32-libssh2",
+  "VERSION": "1.9.0-1",
+  "DESC": "A library implementing the SSH2 protocol as defined by Internet Drafts (32-bit)",
+  "CSIZE": "103688",
+  "ISIZE": "292779",
+  "MD5SUM": "da240622a6a5c7647faf61a4b32296a4",
+  "SHA256SUM": "3416dc02a3b0d46ed5e48c2f5d54b47b245a67aec046543114244259430264be",
+  "PGPSIG": "iQEzBAABCAAdFiEEFRnVq6Zb9vwrc8dWek52CV2KUuQFAl3F0fwACgkQek52CV2KUuTotwf+JW9VUI5TfI+4FT6rAS7+r+I5gzcd/gC8abz/zjYz/pgBEtMBV0w5bKgwVjkDzS9s2sPDvUYvWpo9zEAuJFTKZagRNMkkDLPgMyhSgUXyIKeUD3ZLcz9NLAAcuqZbMpTf9fMEIX0q+m39WZd8fX2XD4AmnkX8N8sxdMP8P4rAwDbGdN9qWcSnLglrBqu/liw7sxYMmUcyPkgd93QOVlPXu2jgE+82EmhKv0zpLfulGsqKgSSFaUlgc4V/H8RO3GC2cXqu9oYJeDIaGap3XgbqCLXW6CfcRtW+oPxyxAq3g+b1FXLuI8S3eQTRyP3UM6wi/DD+KP4ob8Z4GEZKoB6cyA==",
+  "URL": "https://www.libssh2.org/",
+  "LICENSE": "BSD",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1573245376",
+  "PACKAGER": "Antonio Rojas <arojas@archlinux.org>",
+  "PROVIDES": [
+    "libssh2.so=1-32"
+  ],
+  "DEPENDS": [
+    "lib32-openssl",
+    "lib32-zlib",
+    "libssh2"
+  ]
+}

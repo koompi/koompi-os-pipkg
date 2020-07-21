@@ -1,0 +1,23 @@
+{
+  "FILENAME": "python-doublex-1.9.2-3-any.pkg.tar.xz",
+  "NAME": "python-doublex",
+  "BASE": "python-doublex",
+  "VERSION": "1.9.2-3",
+  "DESC": "Powerful test doubles framework for Python",
+  "CSIZE": "32272",
+  "ISIZE": "156279",
+  "MD5SUM": "84c5ae940537d37ace6164b23ac5c722",
+  "SHA256SUM": "2cd74a772c2fdb1a16cd43eec5963d7f541e80a63ed3b89483e801be716c1096",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl28Mu0ACgkQeGxj8zDXy5LbYhAAuJf58r7ZRA/IpNiAXG4OJD8t7G6utlef6XsV7VU6cOib60iLI/mXBbUcnJqZwcE4iRizKl83SbQ82FY7p92wcAbxEuiEXOUYo3dE7qCAyhzy3QOW4BQYq3EP631zkqRaGCGfLOw2QbfFqvFSqC9o4myChDFNsYa0zBcCWwkiodWUOfobYk3MgM24i8C5n3Ttgz9faDZHU/alxEmRTvE88OB6i++NRx7VQEDzxnM7kRMQNzD90xdmWJD9GCyiVr9B96aW1a6X4Z80D+myv2b8BGZ+33G/b64eFz13OUlJdIwYSuqnbWoFqFqNA9BEAbwZ/PF9+/MAk+nE0A43tckFrKeFJiKVXO0lGft+B8D1BXIFlNZdjhLfP40iiAIcboKJjQjBkKpNl6E+44gHrCQW+Bj+XbCGXhDCbYr91ghpI2KCwVOJB3VTbCPiACEKmViImceP3wyDkl0IuxwNjOKp94uZE2MZn4TDEFAehkwUqRrEzpI8pgM58c/yr41v3bHWCgKM4fXt1sJsrUVCwYEEX+to5v/LizhUPALaZqM5Itq3Qx+82+7G996Vye8YJ/GYWnVkf17N7a1qxKfzzbzTmgmdMNM4rWLNsSoOdfwDGHru6S4f6cim44MDB1u+O8sk1UcKoK3YNVQBmRl614VKy3/pZouRjDaha8h9bEoD8Fw=",
+  "URL": "https://github.com/davidvilla/python-doublex",
+  "LICENSE": "GPL",
+  "ARCH": "any",
+  "BUILDDATE": "1572614854",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "python-pyhamcrest"
+  ]
+}

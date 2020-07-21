@@ -1,0 +1,23 @@
+{
+  "FILENAME": "jsoncpp-1.9.2-1-x86_64.pkg.tar.zst",
+  "NAME": "jsoncpp",
+  "BASE": "jsoncpp",
+  "VERSION": "1.9.2-1",
+  "DESC": "C++ library for interacting with JSON",
+  "CSIZE": "1219081",
+  "ISIZE": "1678503",
+  "MD5SUM": "71818d2ac8abe7d3b9645c6ab4b9edde",
+  "SHA256SUM": "b58a68be5b78ff6f79215d9accda33ae4993c2e7b82a9dc5561c8856589a0b02",
+  "PGPSIG": "iQIzBAABCgAdFiEE4kC1fixGMLp2ji8m/BtUfI2BcsgFAl5/ePIACgkQ/BtUfI2BcsisKw/+Lw9Mcs3OgJjQniTV0Y+SL0Jz/6Ujq43Wd7B2CyO8nAD0B08AtktUAfn3kwrI9xRP4xQIZa/5hfMVd3RS81631oSLXJnmp8LzUvp6gbLQydrz8M7VTxkm72FaN+pAxcCemExrJnWkR9rpF2ud7tEX+YrWb8i6NxLphcDHOcbbJ9bVuBQFk05kUKuMhEp274RoimYqVda3ONexizmusBSBguEzkxwEGiuMWLttKe7v0R3Ti6P+FsudHOLE8hACPl191m2qFFKN/ILYtILy6oBB/7OS0ORvwcDZg4oNzz6bVEIizutr7WzJyWJxA8bBla5sPi5gEAEMZOFAov21Ev2wyDOGp28oM+eooO/XQrmEHWsXNOg43VfAD6stFJWEceEkoLHD10ZJpAY75rZj6ruAUgGthxJMlbmCFYaY5Lp3gfL82rDG19G8H9QlJZZWP+TPvmHgnXNZw1oixEN58wVdKuKeN8B1a5Wo+E9wRef7SMFjmg2Fb051Knd6OxQ9tQGPPGE+NL3TEKFxlzXgNyA++upGOPiZhyQw0Q5wn9C400mw1Ho7JFXPVZAYlm5fQJW6EZdwCa6A29oLy9C8F2msr5Tr4E6KwfSeHDyutZ305WjL0EY/FZFL9gyRMM7jbQPjqVttxaGJ0XXwE/dFU2u+BXy1oSZVIE9AU0vwopp2Wls=",
+  "URL": "https://github.com/open-source-parsers/jsoncpp",
+  "LICENSE": "MIT",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1585412204",
+  "PACKAGER": "Levente Polyak <anthraxx@archlinux.org>",
+  "PROVIDES": [
+    "libjsoncpp.so=22-64"
+  ],
+  "DEPENDS": [
+    "gcc-libs"
+  ]
+}

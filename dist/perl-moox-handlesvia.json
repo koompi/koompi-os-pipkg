@@ -1,0 +1,27 @@
+{
+  "FILENAME": "perl-moox-handlesvia-0.001008-8-any.pkg.tar.zst",
+  "NAME": "perl-moox-handlesvia",
+  "BASE": "perl-moox-handlesvia",
+  "VERSION": "0.001008-8",
+  "DESC": "NativeTrait-like behavior for Moo",
+  "CSIZE": "18585",
+  "ISIZE": "24899",
+  "MD5SUM": "df95b391562d9d760c9225ff7398a1c1",
+  "SHA256SUM": "93b7328ec1fc6cf0c45b0c12e70e1e809b9746c3e15090126ecd81286be6bf7b",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl7vgV4ACgkQeGxj8zDXy5KmZw//VFie5OgMLz6jhUu6XEujtxzsUSxWGqfwTz4r6Xcd0X2UKy7W7EbkcD4q37QifvrRcn3A+seuBVFeYSSOfrIJEc2m9MeF3EhETn+GfHesGDzVOOA4ABLtWRTxlu5jULeBOi+iUwy9R2cBZjjj4QIouwCfbC3vguzgBhiuuxCAyDzLMRN5K421IDDYVQnYr4KcohI10J7fqCjNZv8CYRlvBMfX68DTE2aC6ushq61QeJeBYJDF1T6l6TKOsZFheWCOe5phngkHTaUxvZ9UB3sUQCWP5toa1uzx18LGQ+BTnSwJcKLXAbGbbljPy8WYeoVV7CAJJg1gR1XCauLrcjPnzZngZa98yGtOImFfOBwZuv0NUniKmLrNNglA5y+NUDOUvYalZ1royEXxZFinqYisgTGFSFUCwf2F/W7cbwcYTZRLAJ78u9xMGdOIsjOwXIiy+DAEv6pySphgSrmC2pwnhxMA/84ZrHDKKyVBXvUaPQPQC46UdSJr+NDm+wozV2qiW860rX1MN9B5JYYk2a7KqXo/6MYf49QFR3eDN8BUnezO7qOPYnxfWIqMDJz0MhQkMPHqX4J4ExXEAU2NiD9ovI6jCoqabXZQQ6yRFFDA0Pdxk3GOMnrX/LVNMgs1Y6paS1HPqZvLsoneAXVGr4YHJGQ0nmG2+lPZm5PRNukWVMM=",
+  "URL": "https://metacpan.org/release/MooX-HandlesVia",
+  "LICENSE": "PerlArtistic",
+  "ARCH": "any",
+  "BUILDDATE": "1592754453",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "perl-class-method-modifiers",
+    "perl-data-perl",
+    "perl-module-runtime",
+    "perl-moo",
+    "perl-role-tiny"
+  ]
+}

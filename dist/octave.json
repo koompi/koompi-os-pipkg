@@ -1,0 +1,37 @@
+{
+  "FILENAME": "octave-5.2.0-5-x86_64.pkg.tar.zst",
+  "NAME": "octave",
+  "BASE": "octave",
+  "VERSION": "5.2.0-5",
+  "DESC": "A high-level language, primarily intended for numerical computations.",
+  "CSIZE": "17277537",
+  "ISIZE": "65244097",
+  "MD5SUM": "39d2171a1d8adc55197bda601f6e9fbb",
+  "SHA256SUM": "d827f44cb73b44aa300ead469d453418b48e6f73551bf1e91648c00084be5cfd",
+  "PGPSIG": "iQEzBAABCAAdFiEEFRnVq6Zb9vwrc8dWek52CV2KUuQFAl7kj7oACgkQek52CV2KUuTA+ggAp2SkQyRWODMdd1JI/nrjooS0a6M6EXmzjW8PsHVQCvfPyzrmBs5GahdouvJDF22KvolqWk8R6IGjCLfw8yWzzdQSjN+iqJmSm75wXdgFqummFXdTkNKVlozuzA+VEbHFcRO8f4npvAKMcEvwWzZPVyYrMyV9jElUEFpkDUr5ixzKd2lAKhCbRbzur2E72pmFkD4RoLm7hIAtUb70/GPxzr/jRTNKRf8BJGQzZRybQDWukjNzTAwq9uanRbFzbXSumGuVEGDCmCi5J06Fv+/zXFe5rFQhyK2WPhC4n2S97c9ypqI0hJxZf7XdQRGhVX+O0qvIuxWIQ+w5181VukIXIA==",
+  "URL": "https://www.gnu.org/software/octave/",
+  "LICENSE": "GPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1592035907",
+  "PACKAGER": "Antonio Rojas <arojas@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "fftw",
+    "curl",
+    "graphicsmagick",
+    "glpk",
+    "hdf5",
+    "qhull",
+    "arpack",
+    "glu",
+    "ghostscript",
+    "sundials",
+    "gl2ps",
+    "qscintilla-qt5",
+    "libsndfile",
+    "qt5-tools",
+    "qrupdate"
+  ]
+}

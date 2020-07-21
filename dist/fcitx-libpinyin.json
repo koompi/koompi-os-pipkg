@@ -1,0 +1,26 @@
+{
+  "FILENAME": "fcitx-libpinyin-0.5.3-3-x86_64.pkg.tar.zst",
+  "NAME": "fcitx-libpinyin",
+  "BASE": "fcitx-libpinyin",
+  "VERSION": "0.5.3-3",
+  "DESC": "Fcitx Wrapper for libpinyin, Library to deal with pinyin",
+  "CSIZE": "9099967",
+  "ISIZE": "38011989",
+  "MD5SUM": "3ff4046ffdf698c9c56b5023c9cef6a9",
+  "SHA256SUM": "2319701a83f7d128087a220592f8c5b05f89eae45828392e3b5ea7a9d355a31a",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl7LxzwACgkQeGxj8zDXy5JE4A//R9s4SZy8eQes/jo5QfM7hrKqv6wZHYVY1t06FHPMtQQcrE0gSSR6dUCmNcNl1iV1XOocwhaGqclSXGpHb2jCzM0dUip3/rn4AiSaleqgD8q2I8/5q2w/Sgjb2cZmaBM9Xg7JvPHUB4TeewonZjdkxT4LNTHkuXmzahAMS2DXFDMyruwnGB+s2QdEWIAiQOoLqbgEOjLiiuQZH/qpyO96vpORwmZlN8GC8nobhHtylTkWnXpbrODodu9FUNHD1tD2TJLOu+aMnwe1FHf/2X6ESGpAjixIWQXC5KkQx8jmwKScFRs5jmYbpThI9y+ERg1GZp0KNrcZFE+R4y9Sl2JOK2MVi6T0TUj364N5L+62SsADTgaVfFp8TKaqUvTzgMFfprF4Dt1Fvple79H7VJOGAp8fWIukoaKqBTFINK2YkhZz7YjScd9pd2BwcmrMLoUPsa0CP9xDZU2yO+MetU0K+X4bn0ySeFCqx/Mx05p2O/ZlBPwPAYXBHuKGhTUACTK4KxNlfJLaNXMdLyQewtSP5VTyyY92Lpz86mjF66vkKxyx/55hGdWjKr9RN9e1XymuqE66swZATIf+rk56xPzgGSwNYVTdsPlK15hPGxkHZ5q7ncpjZ7XdH5QOkZYeGhctGc/GidyiAPMUPs1Ljh2pUnwsClwNwbJvpfdn2zTn+VA=",
+  "URL": "https://github.com/fcitx/fcitx-libpinyin",
+  "LICENSE": "GPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1590413003",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "fcitx",
+    "libpinyin",
+    "fcitx-qt5",
+    "qt5-webengine"
+  ]
+}

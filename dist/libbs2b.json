@@ -1,0 +1,25 @@
+{
+  "FILENAME": "libbs2b-3.1.0-7-x86_64.pkg.tar.zst",
+  "NAME": "libbs2b",
+  "BASE": "libbs2b",
+  "VERSION": "3.1.0-7",
+  "DESC": "Bauer stereophonic-to-binaural DSP effect library",
+  "CSIZE": "17481",
+  "ISIZE": "68476",
+  "MD5SUM": "8258c6bf0f27024c30231e096bad69e6",
+  "SHA256SUM": "466585efed1e6a2f52c4494ae80a4f64764666e4bcf6dc84ed4446c3fa86a95c",
+  "PGPSIG": "iQEzBAABCAAdFiEEghj4iEmqxSLpTPRwpekojE+kFfoFAl60VKcACgkQpekojE+kFfrTJwf/fMX8tpbEDxzbJ5xgh2Dkn5oCkjkbqgtjRJZ6XvaVjczrUY+gMVjmUFNY1/CC7JDC7ypFR4cYcATkBxHixEo59t2hRLdmXQi/I6WhhKJicCGHkYDLoczV9tgD2ngc3onnMnwlhjq9k/hRG/cs7w6IGkSDzFpaLwEHy9Vso7qzNK/Dv9Uj+hxgK7d9voDSfNERFV3SSvsSwA48pA2DeTjMPTsDdAEEa3HMiCshgKvBh0MNMHbXOTk+QD/78KBNdQecW5cZAeXPY9gEaYHhMCT3wTsIHQzmbUA6SsxyyvLMCfA0Ou1ijlgeUxfsaYnpeFByif/YAxm0RrsfLjicxOBSEA==",
+  "URL": "http://bs2b.sourceforge.net",
+  "LICENSE": "custom:MIT",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1588876368",
+  "PACKAGER": "Jan Alexander Steffens (heftig) <jan.steffens@gmail.com>",
+  "PROVIDES": [
+    "libbs2b.so=0-64"
+  ],
+  "DEPENDS": [
+    "libsndfile",
+    "gcc-libs",
+    "libsndfile.so=1-64"
+  ]
+}

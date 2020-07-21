@@ -1,0 +1,23 @@
+{
+  "FILENAME": "libreoffice-still-th-6.3.6-1-any.pkg.tar.zst",
+  "NAME": "libreoffice-still-th",
+  "BASE": "libreoffice-still-i18n",
+  "VERSION": "6.3.6-1",
+  "DESC": "Thai language pack for LibreOffice still",
+  "CSIZE": "389327",
+  "ISIZE": "2296168",
+  "MD5SUM": "34a1c87dcd5575dd659cfb8dbaffb652",
+  "SHA256SUM": "7d83fb24ddb4752959098a861680b7af0a22af30a505cb1660a1272499207b0a",
+  "PGPSIG": "iQEzBAABCAAdFiEErcih/MFeAdRTEEGelGV6sg8qCSsFAl6tSvkACgkQlGV6sg8qCSsaxggAq1GR0y+HVZAVZ4884jwkGveR3QKAMpjuNpYfbl45plxqGVkQ2N6Ygz8EAPGKS7tTX8sZRQDTdRy7i5YD51z+jkcfPRk/+dyD7FCaVUdl7ONt07dLXGcX8JbO6BbB6QQPwr8neeoxOdN36iVYqBrmc3xmkggHie7P+yeVwqbFeqQVDHmSuf3VGulfblKsFIf6kZaZiXbtWLxijpstsrj1hynzGe+sgj3ttfs8bVnCaP8TCpZmhOQe2TFbpVI8jeF7N2VVZn/uoT5O0qEteQg7eM5Jt4tpvDnj5cISqRw3jkT1LYiyZpOgyQXgFRZMCSDZfttKYzknVNLlUv92B/n+8A==",
+  "URL": "https://www.documentfoundation.org",
+  "LICENSE": "LGPL",
+  "ARCH": "any",
+  "BUILDDATE": "1588407321",
+  "PACKAGER": "Andreas Radke <andyrtr@archlinux.org>",
+  "PROVIDES": [
+    "libreoffice-th"
+  ],
+  "DEPENDS": [
+    "libreoffice-still"
+  ]
+}

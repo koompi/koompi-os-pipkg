@@ -1,0 +1,26 @@
+{
+  "FILENAME": "passenger-6.0.5-1-x86_64.pkg.tar.zst",
+  "NAME": "passenger",
+  "BASE": "passenger",
+  "VERSION": "6.0.5-1",
+  "DESC": "Fast and robust web server and application server for Ruby, Python and Node.js",
+  "CSIZE": "46933075",
+  "ISIZE": "262309109",
+  "MD5SUM": "f7e63e14ace51f6996285e3b3945192e",
+  "SHA256SUM": "82d709d2b1cafa309f55908a5222b3af26c82635aaf70bdf02f185abc47dd08b",
+  "PGPSIG": "iF0EABECAB0WIQQsEYxiDwLbmsHQ+fqU3SOT2i7kIwUCXtU1UwAKCRCU3SOT2i7kI2S7AJ0ZaXgDhvqKikdvvrbk/G6gkvUyVQCfe8R5+I0SkO+CgLgbHm5tv3hQ6F4=",
+  "URL": "https://www.phusionpassenger.com",
+  "LICENSE": "MIT",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1591025396",
+  "PACKAGER": "Massimiliano Torromeo <massimiliano.torromeo@gmail.com>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "ruby",
+    "ruby-rack",
+    "curl",
+    "libnsl"
+  ]
+}

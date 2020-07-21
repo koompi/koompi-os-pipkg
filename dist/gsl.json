@@ -1,0 +1,23 @@
+{
+  "FILENAME": "gsl-2.6-2-x86_64.pkg.tar.zst",
+  "NAME": "gsl",
+  "BASE": "gsl",
+  "VERSION": "2.6-2",
+  "DESC": "The GNU Scientific Library (GSL) is a modern numerical library for C and C++ programmers",
+  "CSIZE": "1634240",
+  "ISIZE": "4885440",
+  "MD5SUM": "fb3f0c4e3328f4db02221e708e50bbc8",
+  "SHA256SUM": "6432ed51fad4bc229cae635bd1adb32a0a433137eaf678fed6af1a5f9a527e41",
+  "PGPSIG": "iQEzBAABCAAdFiEEhs/8qRjPOvRxR1iAUeixSKmZnDQFAl7DqmAACgkQUeixSKmZnDTraAf8D/chjxN9W/9VZEOYKdcXkby51wlM6/dORJmvE7ldqCp1xRHq/3ku7553+DHeW4/rk/xn/nOYaidETBaJ7nClTNvitw4XSma/2S+/S3Pgaoi+ZkKi37AN5QJgG4sQx+zskU9oUR7nsbXPeXz+Rn2TyFUM/WEq6jYjoo9CUzFZpomJIOB5/PTqecX9WYXcw2/FZ/8kp7p9Slb37/TWLSDyzYRjiSoh66KWpfdQEpDTFMPFtHkiXpV6jZ+Ixo90Gq3sYRBd1+ogusOHIvJlGGpYRJM6DyNxVqT+bTXsZsFijScaeb+ICfF2z58jZjYhEGeC34g5Lm4s2DcznGbqfMJYig==",
+  "URL": "https://www.gnu.org/software/gsl/gsl.html",
+  "LICENSE": "GPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1589881222",
+  "PACKAGER": "Evangelos Foutras <evangelos@foutrelis.com>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "glibc"
+  ]
+}

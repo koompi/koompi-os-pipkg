@@ -1,0 +1,27 @@
+{
+  "FILENAME": "android-file-transfer-3.9-2-x86_64.pkg.tar.zst",
+  "NAME": "android-file-transfer",
+  "BASE": "android-file-transfer",
+  "VERSION": "3.9-2",
+  "DESC": "Android MTP client with minimalistic UI",
+  "CSIZE": "490701",
+  "ISIZE": "2443456",
+  "MD5SUM": "ba040c9451a25227c2b130b0bc0e96b0",
+  "SHA256SUM": "74f35ec5d5cfd7215978d70f90dc19503c25887f161a42ba2509953c6ce44be7",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl8EnGMACgkQeGxj8zDXy5LddRAAqZtzyxtNKaGBF1d3OI+hSemNRrTi9DugKNUicU98jK8TFNkmHK6zgJGJ1jRhFWf5rczhSPPXXkUgM+UUh616OQ18wZJedb2RgfQMmM60uG3douL72KWvDIHkbx9kuQiBP5HDR6EO9t4fkqPGh6OBxSx0wuvbGrYTiitldyiqAN/ZqmLFJHZxBOJh2X/r9NLcHzffz2FRIl2yhENasQoL+2oFtZRkKXb2l+z5nLs+n9sSHMMPzx/0/UAvYUZTIYQhh/+5XvFBO1nA0hbEtndhS2rhCxzGkxLlOU1+aMZzi2odQnlZ50jHKtJQK3axdUGn6dLMPTZkiQ77viAcW32KGb8t2lXoo3s/sWby7tAGh7BV7CgktG7bFk7AKNsubXDqz0QlAVVFjqE8kJ8FYUTmlg8sAvuU8xc3kht1fdBtR998yqm20TNfX3Lkp3GXUn35yuNvdAMjxQz7IGqyHH9UDlxzH/ZIWzm2yqagCbuo4OLM2sIU2ILPHj+V5plWkQffXHINj6mTtofNOcfUAM75/10YlU/mnPne5CeBfu95Kah8x29EuTGI34XGxOMHeXUSFibpDtkO9taAbJyREZEAAoQ1zJzMYJ4fxC4lff5QtVxKqLp+1osFbHOnLVUmtcuO5ZobaAwJOga3KTX39+xexu4zlld+VsnbSCYF0hrNRjE=",
+  "URL": "https://github.com/whoozle/android-file-transfer-linux",
+  "LICENSE": "GPL3",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1594137263",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "qt5-base",
+    "fuse2",
+    "libxkbcommon-x11",
+    "hicolor-icon-theme",
+    "file"
+  ]
+}

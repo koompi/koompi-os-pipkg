@@ -1,0 +1,23 @@
+{
+  "FILENAME": "bettercap-caplets-v20200413.r340.dba2ff0-1-any.pkg.tar.zst",
+  "NAME": "bettercap-caplets",
+  "BASE": "bettercap-caplets",
+  "VERSION": "v20200413.r340.dba2ff0-1",
+  "DESC": "Bettercap scripts (caplets) and proxy modules",
+  "CSIZE": "114656",
+  "ISIZE": "191568",
+  "MD5SUM": "5112526258067c08579337cc275c6440",
+  "SHA256SUM": "8a92eb6f1f4e47db4e7c3dc27a1f186d4a5a4c74ddfc3373a3f357be18282c67",
+  "PGPSIG": "iQIzBAABCgAdFiEE4kC1fixGMLp2ji8m/BtUfI2BcsgFAl6kYZ4ACgkQ/BtUfI2BcsiPSw/+P/0eBOVs+LCg5hlGqewPSMoAInF5WyeYBvhDoxde18by0/8jBverAZw7uGwAas1VucHbMabS2qaR2sK6tKXTZ9NAXCqnT9s2MVCAAq3eHh09jSvyHTFDGuQIF0lVtojmdBhqG7alEHhl9p82X51BBaG7r4pnjGQFK5B6XNlLpWxxDLAKkzF56RNP8fsfu2QUrgLFBcpvpqNZLnrfCP3/Z6bMtd/tbAJpuv3C5/9R77FEjvysYPIOyJMwzNNTjJiSdwQWxaQAoTHzKn/SyNSiNi3QYVpoJg+43cqGq/XE//MQEqPBYcHNZrtNunkJL7TilzampQLnW+akU6vkp5T8UUA6PLuTki2/+s+mM2Jn8DTSU6o8f+BYJIiUvcGwgMijvlxILFLsFS94gbVoNOu8S5LJGmlJQDSk0Dfwsw/IhiH6hbhHudSPGg70o5zYIOUyQcpNSBqIvj529bLSNTWgcTi/Zo3xkt74FfhvsrrZN8wMQxQQrZ4WY7GQTC2eNx6zABf3wuV5uEeUIlOkdOSt2LU1hP17QVBoK9/2dxT/WXHdF9HAFYzYmbXdQFYHsfK3mxyvqlBzkV5K/YnznsuUIoVbm2dSJTe9h1oxAKCa8rgygZQy49eO1nqeHfyQbczn/NEIV53UnmagZXxKpazvV9mK7H4t8LQBHeZaoI1knB4=",
+  "URL": "https://github.com/bettercap/caplets",
+  "LICENSE": "GPL3",
+  "ARCH": "any",
+  "BUILDDATE": "1587831173",
+  "PACKAGER": "Levente Polyak <anthraxx@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "bettercap"
+  ]
+}

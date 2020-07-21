@@ -1,0 +1,25 @@
+{
+  "FILENAME": "haskell-test-framework-smallcheck-0.2-65-x86_64.pkg.tar.zst",
+  "NAME": "haskell-test-framework-smallcheck",
+  "BASE": "haskell-test-framework-smallcheck",
+  "VERSION": "0.2-65",
+  "DESC": "SmallCheck support for the test-framework package",
+  "CSIZE": "17274",
+  "ISIZE": "51488",
+  "MD5SUM": "c12642ce7143d02a23be82358acf6f35",
+  "SHA256SUM": "50af6c2fc795d4c12a3b0e96ed85b98dbc0b37bd4d4df5721f063f720da1b7b7",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl75JTcACgkQeGxj8zDXy5LBKxAAgM925rjGcz8LdIfxJHAYFe4Lcfj9loSmZSTUEafj2UnzBG/vM3g9bRp8msXBraddar92c00D/NcWNQrvepF6LNNEpZksCvfB5CwVWvltcSJ/+jJshAHBYh01NsEo2Wv4kqPMp602fqel9QM4j+qH4rsdle6QqhOeplTdxk/DBe0bJ+p+KVfae0basfWfGLQ0owF+qC0miLljtLJuSQjiLLLaLC9ZgBSEipTOEupMEI6BAz+4097njKjpJ0oDI/NfT4sSkLFxe1zfGKZMSI7UpaRg50TOg9x08y9l3LV2LuVBlfE0xI4ZN6AVlojV0HJjsYc+XdDDaYYBSQ+zu+cC7KeeIgJmvj+qOZghINsm5D+49mLBBBz7RBQbhdTpXTKuuWVfEvXFazdw5tZWSLiBz/T6qX7gAmnFECLHqrGe0S9LiKhKikP7k2a+jVEYpHrNQuFpq1BnVOybPZIv/2vbhWJU2qlALk0P8OrGUHXTkOYsoGYGGDNGQOj89yUJ7JMkxKokQrLkuTZ59Jc+nAfHaid8T0Wk8BYa3P2gMkjh3FVOxHQA1T4OETpr+7tHgMOXHL97HZsPmdp+vFTVREy81NipAXbNjbkoPCmlyo1PdscXVFlceahDcd7Tcl9D32S5oD0r2wtsIgN/LsOrRJrpTmyq7x5wiZW98CdkM4ZT1qg=",
+  "URL": "https://github.com/feuerbach/smallcheck",
+  "LICENSE": "BSD",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1593386269",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "ghc-libs",
+    "haskell-test-framework",
+    "haskell-smallcheck"
+  ]
+}

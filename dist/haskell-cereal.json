@@ -1,0 +1,23 @@
+{
+  "FILENAME": "haskell-cereal-0.5.8.1-5-x86_64.pkg.tar.zst",
+  "NAME": "haskell-cereal",
+  "BASE": "haskell-cereal",
+  "VERSION": "0.5.8.1-5",
+  "DESC": "A binary serialization library",
+  "CSIZE": "153473",
+  "ISIZE": "1010117",
+  "MD5SUM": "7086fd5c89abb6b89317cf2058a4c5e3",
+  "SHA256SUM": "80092dbc9766f7862969a1fc73823939a9dafff64abab9e2890243fce4cef6e1",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl6hb0YACgkQeGxj8zDXy5LiEA//VfFP7TF7oOb19wPTQpplMGBrx83cVw7HlpfzqlYb+ZcXaNcqOp+6Rd2foGWE5jMFq3HrBG8MiJokPRcTQ7Ecu0ovYXDIwheM+zcuM1T40FlceaBjK5MGy/GOFr4FFw7xiSxdw4iFTBbbnZvIf6chp04pAZb8sKAwunCSDiyUVEdZIxAlAtPPv6TGP9irGQ2cJcPYEnzLISTrogjR4JtlWEy3j03ja6xZly+J+M42SBH5ihhzpMtC69OyGJWW2RwYhUv/UT1cu6mxmeimNElFvs9ZSm8qQkD0AeaF+2WilDK1PdzfbO5gU2PxDUrtjwjM4giznnGKsbeCPpkmmU3Kri94y53ALn1qZzAQmJf2PYGFbiTcYmaKHaEd2i7PZ9z2rLtV+G2asdG8uPdb65CBa6ij6wT+cxerMHYSfiT5dsPeJt3nhJknDBzIJTnDxT73zsNVuIGYFHyjuMpshYwAPP/mDi8ZD0H/nNK8lRkjxo6E5y6VLszqhExFI9ky7bT2shwF2LuKql/Yd3d/u66+vrK5Oa4LuyPUQBzbekXl92NU0XwEpyTzTj3iL4qnARlj102Sp2YU1JPILMIsvhIRUY4iWiXVCfmgpTFt2hZhLVTcZueYe5uwyWB7RMGoCDwKfrM5KVAgIVWL+A9tqkUfG6w/jiB+oiuysMHqEIKnS2Y=",
+  "URL": "https://hackage.haskell.org/package/cereal",
+  "LICENSE": "BSD",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1587637991",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "ghc-libs"
+  ]
+}

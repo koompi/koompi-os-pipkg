@@ -1,0 +1,25 @@
+{
+  "FILENAME": "python-flask-nav-0.6-2-any.pkg.tar.xz",
+  "NAME": "python-flask-nav",
+  "BASE": "python-flask-nav",
+  "VERSION": "0.6-2",
+  "DESC": "Easily create navigation for Flask applications",
+  "CSIZE": "12896",
+  "ISIZE": "41389",
+  "MD5SUM": "060982295f011da5f5f47c995d144a80",
+  "SHA256SUM": "9a10045913f8200ffc3dcc66207364b3034eee9868539ad549743cc63547c90c",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl2/uBkACgkQeGxj8zDXy5JsoA/9FNslFPzY5d00mX37aP5rRZRT7dgbyQIS2yYfBOS7dS4d7mwrVv34RAqy/hzRhwWSwlJEQOfYdAO1LW7coNxKdh7kMN8y3Ja+OUXqGB0aWRY5UXKGCHUofv7nv8J6ojprFR7g6Wk6cIpj6CEg53fH0ZrHlF7++HbukQOrCljXcGBYV4O114ruzn5r/ho/oXqyKS/0We8ilLvXylCMsaUzXM4nuF3BOXNr4AzPYU8wWU4YMfv/zq7bqERKNR140IAl71Ob3lArIK6j/Mz5W7pR7lH0ZvAhXsupmtIvM5B87gfXAUQmb3YUQQ6hWzzwGUTgRIvZqdTg/cgYxTu7XezqSRMaMUKpFApCWQBbhocJXiCDdsXF3K2V8hGNhI713yow0IOw1eijt4/qW3QRoxNiou0w8VhF+zCbbk+KTgKlB0ZOfTuxxQvQRXGpWJ9L1fMrqMQTFpFtpV9OaSrPoTZUZ7SPlPShL+OplwQiDwDNZJRbifSPKeK1w7Kkg6Orl/ld2q2WjbCtvTplKNEzhc4ZXBEQkuKQj759HmCxtqMtpEA9X+QYPY7N03i3jY+NYbOSsm4T7oZpwFasOvsAx+G4wbrGHkmX9+436eiVZ4UiFWSorS52jMw7avZtnfxT/S8HqcWT36EHFFShz9iIcvosD9fJupkw+sdunukHyDnkvyA=",
+  "URL": "https://github.com/mbr/flask-nav",
+  "LICENSE": "MIT",
+  "ARCH": "any",
+  "BUILDDATE": "1572845569",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "python-flask",
+    "python-visitor",
+    "python-dominate"
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "FILENAME": "haskell-io-streams-1.5.1.0-61-x86_64.pkg.tar.zst",
+  "NAME": "haskell-io-streams",
+  "BASE": "haskell-io-streams",
+  "VERSION": "1.5.1.0-61",
+  "DESC": "Simple, composable, and easy-to-use stream I/O",
+  "CSIZE": "173010",
+  "ISIZE": "957126",
+  "MD5SUM": "ddc9a69efe853ac0cc4e4442f59f0cf0",
+  "SHA256SUM": "fc8074f2b7e50b5b8eaabd257ad4f3855f6b2cd5df2e1f46f88026d54d5412aa",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl75HF8ACgkQeGxj8zDXy5J/sg//R0Z0UM2mqwR3t28SmbQWtp9s/hJEnHfuIkO72cLJvErOLO7R8UokSVuhIl482KaEoeqgCthGMplxVNZbR1DvgCYIIlw8gDxBXUvnOMsFhOQ6mVD5f+XJsVaD1c1PQX8ssFy7DEiQHnha0WLv0GCdbcTqrIwzr4IsP3UE/IJNrosh/zBGxuiOdsqxHCZLXLxebEXDtu8+zlQ2cH+i5zM5VnRtHQk0XgMMWRctitJLuzmMXfni9lC4/cPhs2ROzpCnPr7utrxKq8a8BCo6ZdEQ8nvEeNp0xR9RxiGj2PMe4YTOLBqXNonG2Ecn7RQEJVngOHRmfXxZPWIgeWhpfUaYTEJMHG4Ijxz4evZv6O5Q6bN8ISUaTIetJGf6lWp0G2Lw5+BTjTZrHXko0+V8ViOvUaT1QjD68JAp2PzMk00KnZNMFYNtPIHUEqiyKiINU6c6xUerpBpVio8d5POvO/8b0nFnMrzutW48JP/HvXUUnvywkxdtKnI3Jp+VQr0mfxmfmGy5LO0X37t1y9HHh1/ST7SzeipLNPEjnTfU2IaNLk0sJd+w5OT5p9XGFh+A6I7krUg3oFpBkZv5IPyVQc4ZzFvQGWuT9YP26/5PkrBYew1h8PgP9fx3mpkJv4QqoN3LGGnrElAzV6HABjWq2dGeKJbKgdPuN6BAcgrXF0q5Swk=",
+  "URL": "https://github.com/snapframework/io-streams",
+  "LICENSE": "BSD",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1593383974",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "ghc-libs",
+    "haskell-attoparsec",
+    "haskell-network",
+    "haskell-primitive",
+    "haskell-vector",
+    "haskell-zlib-bindings"
+  ]
+}

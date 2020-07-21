@@ -1,0 +1,23 @@
+{
+  "FILENAME": "libreoffice-fresh-mni-6.4.5-1-any.pkg.tar.zst",
+  "NAME": "libreoffice-fresh-mni",
+  "BASE": "libreoffice-fresh-i18n",
+  "VERSION": "6.4.5-1",
+  "DESC": "Manipuri language pack for LibreOffice Fresh",
+  "CSIZE": "325116",
+  "ISIZE": "2012251",
+  "MD5SUM": "f39f17d10ff3f21560aed80c5557e82e",
+  "SHA256SUM": "4bd2bdd146c403f0a82c29ba3e2e5216e3f23a72e44a649f2acc42df3f68e75f",
+  "PGPSIG": "iQEzBAABCAAdFiEErcih/MFeAdRTEEGelGV6sg8qCSsFAl7+FyMACgkQlGV6sg8qCSsFlAgAl/61tGch+b4+obwYYa1yAg/R2mr4uihxMJapa1Igsy6AXbMk3oA5UIDIHnSotiRWdq0bnNMWen0evQk+Iuw65NTe3++JzgUUkZ2z9VDU0pvi34F+K5EMotxV5lBIM8QjxVfqELQBHP1oMpVEANt/uu/Z/jgBozisTBbQK6PDAMXdz2UDOpxK+lSqDshPZ8FpDgvz8CbJYuSMJkRbKvJf7y7/Npwj8KyqCZKaJO3ErRimp8qwBgAV3GCYI/zz5TVrWZJMwcN+AojMHeZg/GedHXV4AqUydQdO2mWvdKDzIUipvcJ665BN6Mvkvf4rLe2e9a413SqqqAheMDUkALsX3A==",
+  "URL": "https://www.documentfoundation.org",
+  "LICENSE": "LGPL",
+  "ARCH": "any",
+  "BUILDDATE": "1593700315",
+  "PACKAGER": "Andreas Radke <andyrtr@archlinux.org>",
+  "PROVIDES": [
+    "libreoffice-mni"
+  ],
+  "DEPENDS": [
+    "libreoffice-fresh"
+  ]
+}

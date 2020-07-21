@@ -1,0 +1,24 @@
+{
+  "FILENAME": "enscript-1.6.6-4-x86_64.pkg.tar.zst",
+  "NAME": "enscript",
+  "BASE": "enscript",
+  "VERSION": "1.6.6-4",
+  "DESC": "Convert ASCII files to PostScript suitable for printing",
+  "CSIZE": "381389",
+  "ISIZE": "1924266",
+  "MD5SUM": "ab7c48587c802071df4137b2ba737b14",
+  "SHA256SUM": "0155f519111645625608694cf5a07cfcf86dbbd63c7e6f7c6ac9a72d13a58bb5",
+  "PGPSIG": "iQIzBAABCAAdFiEELjbYYgIhSC/EXLfyqRdkdZMmtEAFAl4/pQMACgkQqRdkdZMmtECLmA/+KwrYqDga+peAluB2kCyt1iZBPYdHxM/1WBfP/qVF1HranvSKTudtybBfpDfm+ySp5X40+Pf+lP7Py+OSgO011tiItMOGeRmtc9xZNSm/KU2YaXldKyvUG+H2Nanxby9JplYQsgUxjb8vMiTl5aJvWnzlkrogctOH92m7tap8HpXHMN4DkbeNtzLu+bU+iTOX+QFkKzeBb3BIdU4vkM+WTvEKqO+6FxEEOy2vok84BoxFiBbY+ku2mut7vu8dxbDuUN4BelVz4uI5gKlqv7jTXf8glDuCa6R5qG7CXvmcFvpgifBDDXRthsAZ9chcMoW0X8MRXtWDzjQTLCvp+TWKsx3gFfwhT/v0msdh7iTCTZQxP/xf3VtqeXSaRWy389nFVMytdX21GKUzwLeKGnEvLOQVZMeW4PCmkS0wYv+Mr0jgamr1kIR1rj94lppNShrym5y7FDh+0fMFtSglxTQ+Cmq+57wasmlHSjTo6zjppFLJPD9Npy3qoJw69lj4y4C56Lb1JWiI9xNjBm1K0Tg0LpNQUT4bHCxGy3vPWuaV3Y0Xr0a2moCRmV7D3eiOGotH5j1CJupb+DcxuF13Jk5ill+9M1fig3FgDQ4MlAuRZa50wUKXhIu8ifZysXSNON54LWaM9euQvGASxnjiwbpp3OJvjFw/48i5fqLEhaG7Rdk=",
+  "URL": "https://git.savannah.gnu.org/cgit/enscript.git",
+  "LICENSE": "GPL3",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1581229257",
+  "PACKAGER": "Lukas Fleischer <lfleischer@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "glibc",
+    "perl"
+  ]
+}

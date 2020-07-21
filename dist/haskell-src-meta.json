@@ -1,0 +1,26 @@
+{
+  "FILENAME": "haskell-src-meta-0.8.5-24-x86_64.pkg.tar.zst",
+  "NAME": "haskell-src-meta",
+  "BASE": "haskell-src-meta",
+  "VERSION": "0.8.5-24",
+  "DESC": "Parse source to template-haskell abstract syntax",
+  "CSIZE": "104268",
+  "ISIZE": "528142",
+  "MD5SUM": "997cd533cb6298be5d9e0891724580a6",
+  "SHA256SUM": "7b3542ad006e52676f6014ad3af5eb16fc441e391519f4d25bcfcc872ac575a1",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl75J2QACgkQeGxj8zDXy5JZIg//Zfb8w5gMAoxo39Bpt+WYkWp52H4aL/TQO+xFWqPzQYe/M+3DCCqV1PRq6spK8EdSEE3W+ni4JFYOXKaGI1CJtHwWEMDN7P/GdME++VymiVA+M06Cw5d1ZPHRXez4wnmf64PIhNuIaqMrL6AHprlEs06So+88UkpdtSaogBxZ3gt7LQeWoWplcH1ZEu7pTQpeAcB9Qe7B4m60mNRhNyhXNViQdj8AieyhTSdKtOkSY0twWf1XG7vmM30r1yO3Jf5FwtpD/Dihc8amegGRlY27isHwOQRWCjINIfv3I+T/WIpa/qfDccPivTcQe96mwTo2NDUXVHxzdfRbyFZUDvbumdQS4i6IFeB48B61EqAwJ6yv5Til1ltEXb0a2IOqn1+IM6ue3hwO+Yt6IdRfCtsVmT7+uwnteRgcO5wV63t/iTqxtK8f7qAJwPI8XdrMxgXx8f1n8d4wgHql45QTOba9OHP/7rvrUFYbWROana/YpZOP8F+OFlcLcxxgs/OBOqhUCSxPAJEvSs8KcxncgYSfG/1zv4KDuJKsxyWNlEyTB308ZTfR0CqvTr3j07EF6dwNSexoG7+/hwjT03UR0MKuBrEgyJimGOGCmTT3gvEvnnQqjYPLTRidMoy7ZYhR9nwbt3+PSsrhDKPS+piaEBaXQkgiNfgiWqZJTFbcAsSMddk=",
+  "URL": "https://github.com/bmillwood/haskell-src-meta",
+  "LICENSE": "BSD",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1593386814",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "ghc-libs",
+    "haskell-src-exts",
+    "haskell-syb",
+    "haskell-th-orphans"
+  ]
+}

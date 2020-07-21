@@ -1,0 +1,23 @@
+{
+  "FILENAME": "python-helper-2.4.2-5-any.pkg.tar.xz",
+  "NAME": "python-helper",
+  "BASE": "python-helper",
+  "VERSION": "2.4.2-5",
+  "DESC": "Development library for quickly writing configurable applications and daemons",
+  "CSIZE": "32208",
+  "ISIZE": "168237",
+  "MD5SUM": "85546714dfeaddf858471a09865a3468",
+  "SHA256SUM": "aecc6a4d34475d4c9c3a4f8e24e0e320f1a20a848a188f5480253bbe331f0adc",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl2/xWQACgkQeGxj8zDXy5K80Q/+KEoFxZbMsNszAjs0NpaWW20zuC1NwCwL1ocT6afvj0eOP9eu0MKTJshJfLuahLgPwAz1yc8l0dSC14MREILK89//q1NOqfHyLWBlY4H4sMg2AAJlIqVpq4UTcADXEKQwXuORV1CedRL4OHwDvgFlRtaOfCbH65DdhSVpzrphxGBgXz/9qboTXpsyF8Erqdnyifvf1DnSiH7CZpxlBY1uCyOPvIrsPymGEqP/5LkCQFPihec+1mUKuwNwDAyMUNSl+3Jw4Q78hdowjXry9nhGjjtwkKWSGoAWkymYcpwgC9KS8yfGZH6/N6iWX5S60/2qnvQDM5DR4UBQFJ3qlZUx069LQb17VAEYuFGZNUl2ldBKSMK92jn6PYqqUy4v1vJ4BAOif103syq9/X3c9XM1NavipBHi1DHohScBAYrVb/h8J6Fs252JTyKnER4CE88RKr1zVnjplDxW/GPQQ+KRzrcAx9XEhx3GEI0291naOpAOgCPNRdSlYxe4chnPxJWTn/QnU3stFX6jfFb2Qp2SCv95WXy8bhh1Rg3SYsdQzogpT+yHJdl+CjWCSm1KaeytchD1ubx9GZrUlMEos4VriIhFN2mlzfJwKQGAjqSUVcP3E6iDMOsf6HODKMSU8Jir4D9MMuqq1WZEDYdJ0iQSEWOcXSh/W3GaQGbfmfhSaAo=",
+  "URL": "https://helper.readthedocs.org",
+  "LICENSE": "BSD",
+  "ARCH": "any",
+  "BUILDDATE": "1572848926",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "python-yaml"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "FILENAME": "iotop-0.6-7-any.pkg.tar.xz",
+  "NAME": "iotop",
+  "BASE": "iotop",
+  "VERSION": "0.6-7",
+  "DESC": "View I/O usage of processes",
+  "CSIZE": "39676",
+  "ISIZE": "160312",
+  "MD5SUM": "e83c529cca272057dc58f31a3580a5ef",
+  "SHA256SUM": "ac80e823521260522ac9f89a05dd7872bb209bbaae2203c547c7a0a6f41d7b5b",
+  "PGPSIG": "iQEzBAABCAAdFiEEhs/8qRjPOvRxR1iAUeixSKmZnDQFAl3AShcACgkQUeixSKmZnDSb9wgAth8BkqtCbSmnHL5Sz0+4eMtgkqu0dXAXZHwHbSqPEt8+5uh01fwHLo1n6B1v83etq3XDF7di3CBfy/kqIrN+FaiHJwhoZG49TRjzAxllZ53MMIBG/8AHY4kK4/HmQ8uMOVVV7gx9mcKqxgwYpybl5vM+GIbLMVd7R0/RhGvCsqPOj3tlilD7wLZCt2nLAuOZhcMb7n6iyDK8S0IslUD+dnMZ96PbtJMDViP82ou4B1sKtLhZ8zu+bQgqMaKDEPHknvCBTzaUnue8zAfsAMjtoC/IS5+k978SfDrJyYp2eKHdoVmAjlP+LemhCHt4x/sNrYpIAL4SCH9sxKWabHqccw==",
+  "URL": "http://guichaz.free.fr/iotop/",
+  "LICENSE": "GPL",
+  "ARCH": "any",
+  "BUILDDATE": "1572882951",
+  "PACKAGER": "Evangelos Foutras <evangelos@foutrelis.com>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "python"
+  ]
+}

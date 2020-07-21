@@ -1,0 +1,26 @@
+{
+  "FILENAME": "gsmartcontrol-1.1.3-3-x86_64.pkg.tar.zst",
+  "NAME": "gsmartcontrol",
+  "BASE": "gsmartcontrol",
+  "VERSION": "1.1.3-3",
+  "DESC": "A graphical user interface for the smartctl hard disk drive health inspection tool.",
+  "CSIZE": "655117",
+  "ISIZE": "2183155",
+  "MD5SUM": "c42de80d9157e9e0b64844b197026adb",
+  "SHA256SUM": "22142f9bf81be063022e9915235faff5ba606a8a2813f83d7d5082d44ac8a041",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl8EfmYACgkQeGxj8zDXy5L39xAApr2mpkbNQPEd0FZTGR6lZoOyjiWKSwnmrk2QRGDJ6tYvwTXkZOp3W9NEXYNnjT8Yeae6j3EEs5T5WCYT7rJWicLDsI8lJvgFmus7RkSicQJZnMWJhAdEcPF9Ra6yBOq7IccOCigRUcVhdenlUzfJGLHmwbCL+d+p86BMs7CaooGBsTZ8wRUeVTtxKcAD+9iQLs7BexZKZYHkIo/DIgMVwpDFz3t8mv2yRW795wwGLOaElg+rnH+iK9bevnpNLNgMr83oye7pVKWA0AFGpZnbWU6fUayBqcAQKK9POsPx4hPye9o95Ubwpf06vEnWljwQfzPK/G8BRcxDFRobpP3QKbH5QpCP/xQNUuX6wjzCtHeHAk9LuUcV9flk1k12xpL844EIJwJTKXNE2TtsB6fkyJlIrc37p23Dqp6i185ehhkoxC9g1Ay4x3SuKhHvgXhRp6AHdyWNh3SAfdtAK1rmlvgq5+ECDL+T0JfSg5AWOI36ZCOFh7hcpDcr6k79rzimh2ss3j4COtG8WcP4xzPDImlI1t4E/Ju9NrcA3TWXDnKqDtDRcwP4Ba3yrmKbSmy1bCon+/0K7E/ePqhc0z+rpoYudcsNtQ7E7VqXkPix9xhSAffgOvcD0JtTateeeLLtKRE2lKD+3ce2M6xdc9jolpv8m478ekmUUBc11zzTmRI=",
+  "URL": "https://gsmartcontrol.sourceforge.io/home/",
+  "LICENSE": "GPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1594129963",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "smartmontools",
+    "gtkmm3",
+    "xorg-xmessage",
+    "hicolor-icon-theme"
+  ]
+}

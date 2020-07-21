@@ -1,0 +1,28 @@
+{
+  "FILENAME": "gettext-0.20.2-1-x86_64.pkg.tar.zst",
+  "NAME": "gettext",
+  "BASE": "gettext",
+  "VERSION": "0.20.2-1",
+  "DESC": "GNU internationalization library",
+  "CSIZE": "2114950",
+  "ISIZE": "7698339",
+  "MD5SUM": "34149bdd97678663b91497e4794ec02a",
+  "SHA256SUM": "05acbf5bc3389795b5e06a4caac2661a7fcc01f6c1657c6e483868753c75e7aa",
+  "PGPSIG": "iQEzBAABCAAdFiEEFRnVq6Zb9vwrc8dWek52CV2KUuQFAl6Wr30ACgkQek52CV2KUuQJCgf/bvwI6CTQHHC83YHLC+TwK7a6KS8fRHv48Y+ndn7igVardorUWBZtxpZwQKLILRumLht11iQBb8XQ54QZbzIIy/8CPREXzTDTvm9/D16Y3USl6yYAo2XHsmVcs0BDc30HW3H0xuaggwSqPTh0su9gwu+uTih161aTNHrtNknzNOX0ZHvIrye8qBtVfhneqfH5kyYIfKwzqijELciBVdGWCOJZtgdUVOhMFzT6iRxZ2C30x14iF7QhmwTLWlB9VW13RE+hTUx90rJLsRiA2HF98jyOVoWh5AD3tNJUDsPpVHYS1Y16isBkNTIaQvQKLaIrZAgQEH0l+SCyhWwdOzIOVA==",
+  "URL": "https://www.gnu.org/software/gettext/",
+  "LICENSE": "GPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1586932986",
+  "PACKAGER": "Antonio Rojas <arojas@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "gcc-libs",
+    "acl",
+    "sh",
+    "glib2",
+    "libunistring",
+    "libcroco"
+  ]
+}

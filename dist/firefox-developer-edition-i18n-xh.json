@@ -1,0 +1,23 @@
+{
+  "FILENAME": "firefox-developer-edition-i18n-xh-79.0b6-1-any.pkg.tar.zst",
+  "NAME": "firefox-developer-edition-i18n-xh",
+  "BASE": "firefox-developer-edition-i18n",
+  "VERSION": "79.0b6-1",
+  "DESC": "Xhosa language pack for Firefox Developer Edition",
+  "CSIZE": "401432",
+  "ISIZE": "457462",
+  "MD5SUM": "f7d3fa6414843381354ffeb8d145ff59",
+  "SHA256SUM": "8b0f800071867dd91459b3cc6bd63d0f9a58049a2257dce14225f2945e5123e2",
+  "PGPSIG": "iQEzBAABCAAdFiEEYB8g8dG7v0p4z1tt9rFhCz7NvJ8FAl8IbNMACgkQ9rFhCz7NvJ8zhAf/Z0u0GluiVYBtMXPXf/iDsC3mJCju7GT5eoZh7svfKfGZtgagr5lkrNRhh2DUMYucUW5g3Bwz32/WQZR44+tf9botN561tKCvJ4HDE7l3DCbHE329XDSlHJdn6Hs3peUavQls1aLE9kQAGQefGORMHmT9kmsCCS2+DopdvPn25XZd3m3Op7REE9itiL//k5Z3cWfeyD0JDyqHoOLnnOA4nUb/0JOov8S5iwZ29DHRJPIXx0k9B7WUuDaNYg5lQEopO6bqf0xHoVZ+dm8RnAaEjqmWEa6RLtXTN1jAPGTWDyw49Z4mgqqvqDzgtr8GFcIqRFt9Y+mBoOlCwsiP4lyN/Q==",
+  "URL": "https://www.mozilla.com/",
+  "LICENSE": "MPL",
+  "ARCH": "any",
+  "BUILDDATE": "1594387381",
+  "PACKAGER": "Andrew Crerar <andrew@crerar.io>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "firefox-developer-edition>=79.0b6"
+  ]
+}

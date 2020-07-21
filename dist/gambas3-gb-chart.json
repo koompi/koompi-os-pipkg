@@ -1,0 +1,23 @@
+{
+  "FILENAME": "gambas3-gb-chart-3.15.0-1-x86_64.pkg.tar.zst",
+  "NAME": "gambas3-gb-chart",
+  "BASE": "gambas3",
+  "VERSION": "3.15.0-1",
+  "DESC": "Chart component",
+  "CSIZE": "31054",
+  "ISIZE": "91190",
+  "MD5SUM": "13bc82b4d5899e0645cd6a93022afcb6",
+  "SHA256SUM": "c92cf9683a5fe6e3f184896f07403cb67adc0a55a95aed20074ac2124ec55cb8",
+  "PGPSIG": "iQEzBAABCAAdFiEEU1+MAzlFDwVKTSgnBglqatHO3awFAl8C7RMACgkQBglqatHO3aw4tgf+Ju+aEMhBf5NrxVY5bwoMFyNYRD9OSpveWZKpvsijd1H9bWHLND7hjYzwuHuMzHjcGqQUVmQQ4kPBMAuBUCkRjtYhhOshbV2a8VtFWXK7UyZPWxUt6cGqO72aVhlC8srJ1ckNik0fJtOJJxm7cMhdV1pxhgjrz/Rt0044dq+L+2uas89Dt/tayOPwAF98l8oIb682CL8nl8AEbv8h2FxbIIqQ+FPKS+hzDAYPCcCs2bSt1cn3v0nBFx1d74lueRQiMml1AdkBzJpibiJI2MEY4vk6SZXmV5W/8h4BvbwAdJEXr0SU6rbBUoq/YiqNqPibMDmT7QabdpPG+9AhEBhUtA==",
+  "URL": "http://gambas.sourceforge.net/",
+  "LICENSE": "GPL2",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1594026389",
+  "PACKAGER": "Laurent Carlier <lordheavym@gmail.com>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "gambas3-gb-form"
+  ]
+}

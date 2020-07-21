@@ -1,0 +1,25 @@
+{
+  "FILENAME": "znc-1.7.5-6-x86_64.pkg.tar.zst",
+  "NAME": "znc",
+  "BASE": "znc",
+  "VERSION": "1.7.5-6",
+  "DESC": "An IRC bouncer with modules & scripts support",
+  "CSIZE": "3570413",
+  "ISIZE": "16585791",
+  "MD5SUM": "70bfbad2bca63872536c5bc5847967f9",
+  "SHA256SUM": "0a70326ed62ab33326530b5c9a981e34a90029c5b772d6a2461aab64b1079648",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl7vjRMACgkQeGxj8zDXy5LI1Q/+Mceh3XDFX3jcNQz2DfdRY69PuNGpBkqo/o4davAeSXiO0YXO3vVueLre8YJl6Hb/+QsqJ/z5vaHrBMx+JXA2DE7AfPoBhtqYpwSPiryuf5ujgyJqRexYQ4jSOgXgKsmEMTtfHn/NzaZ3OYife2V+pieW4/w+78vVlk/r64pyaddD0gtIInf75rCX9kvU9W0lQG4gIQkvhMl02eZlGvV/79MJZxwSe9gruZmUaeGgNPePJmaQS/ua69Vs/MWwA7FS9hC2Obofzw8f0zqRPVkOmrK3uIxXywXHW6uNX0J3lNTi7oVkmjQJafwl4VleMkkaFti8G1sFg4oxdg/tKrRmUHIzT+o2DY9sqokalRJEjmIizdQzKNm+Xnv42GU3EPK8jjzl6KbaEqULc/1reQXJkWBVLqkDtsO6Vc8DuUtEwpouVaUO33tGMSss6GBs/cukLJuTvyv9erHasKK55ZMma0JQsBthSgFpLPnXLQ0Xb4fGaGuwsi20abErNFi1RvHdnaor4xDJ4ciUBppaZM/EpnME5Ewe4IIoVahuABDCHtFfJgcqKxnvG8vfYGwRS+SQxic7wRkrbaJV6wKk/cvUnX6V1nixFzSx69hl0SDv+J4hniYj2dYoBF1CPKHO3ysvLZEFJtFutY3z9RhQ3QtWlIYk8e15ZJ0ng+K5dqr0mr0=",
+  "URL": "https://wiki.znc.in/",
+  "LICENSE": "GPL2",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1592757253",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "libsasl",
+    "icu",
+    "boost-libs"
+  ]
+}

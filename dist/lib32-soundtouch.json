@@ -1,0 +1,24 @@
+{
+  "FILENAME": "lib32-soundtouch-2.1.2-1-x86_64.pkg.tar.xz",
+  "NAME": "lib32-soundtouch",
+  "BASE": "lib32-soundtouch",
+  "VERSION": "2.1.2-1",
+  "DESC": "An audio processing library",
+  "CSIZE": "29980",
+  "ISIZE": "96256",
+  "MD5SUM": "1cf07f62503fac3aaaa61d46f3f29ac4",
+  "SHA256SUM": "b8939ead958a1d387ac769b6615546b6b597581482006efa7e24c5b2d5aa6254",
+  "PGPSIG": "iQEzBAABCAAdFiEElDfdOBWnqRaePTlGr/XZUJi8b/UFAlwFI7oACgkQr/XZUJi8b/UO0wf+Nqf5bYu/abSnskhUyq8RMi/NIiaIxzuEDTAaaPBHAN+Cb6EB8S9EjkR0bzhKy/Sp8mdjbrwWy3pvuYAplWeG0lViDSIP5MRzeAiU+0Zy//S/KzExmonVTf4xVSYmq1lNk1+A0vD6a2F6Xpu3UwFg0tyK2J5HtV75BEsmZcmo+SswL9EiE3PQUzYY2EdMKxdE/BR4ZMVQpzfg7t472v2dNU/OVLp9/3OZ3aymk1Xh9gANmWgV+4Nv5wYw3kI3l68osXfBalW/oc+BEZkkU3zRYve4oYRdWsGu5M6yfBOvifABMiDqZBy5YJPhiOGzg2dAcgFy0poLAYc9+euKeQUsDw==",
+  "URL": "http://www.surina.net/soundtouch/",
+  "LICENSE": "LGPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1543840582",
+  "PACKAGER": "Maxime Gauduin <alucryd@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "lib32-gcc-libs",
+    "soundtouch"
+  ]
+}

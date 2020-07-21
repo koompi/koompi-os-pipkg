@@ -1,0 +1,25 @@
+{
+  "FILENAME": "cozy-stack-1:1.4.14-1-x86_64.pkg.tar.zst",
+  "NAME": "cozy-stack",
+  "BASE": "cozy-stack",
+  "VERSION": "1:1.4.14-1",
+  "DESC": "Digital home: brings all your web services in the same private space – Stack component",
+  "CSIZE": "12303469",
+  "ISIZE": "37672281",
+  "MD5SUM": "7435e59867c50740a96d31f7e76227c0",
+  "SHA256SUM": "8bdd5f1eb3ba96bc215251ccc69f8ebdd70e1512e81c39c70d248650fed742db",
+  "PGPSIG": "iQEzBAABCgAdFiEEado014/g79WWrG0EnYk+xNqvkSkFAl8LWE0ACgkQnYk+xNqvkSldjgf/X2KxPvSIFI7BWXCObKeVmTKt8sHpU6aPpYoUZT24h9T+IRepHfO7App+o8vCsQgjuME9nJE4ZTbp9906BSa0QC3wpwAMhrSZfa3+XUNm7cNhMKZgnACDHU5sgePJEOmGdc2sM2czpJUwPZGpSjVcxko3/J3qxx7+3A/AVMGuJLzkBXrgxod3f/XnImCRetb8nJdFcISjzQhZ8zA/vHs+zF3jG1AYgNZSlPUztiuRmWIIjR7tPNRFTda5kg1KjXQ7AgrAvWh6xVA5+BOdui8OWHIZ48G7KltKIpu7Yv5G/icPMXBg5hJRl7GoQrkhfSiRiuROQMPeyQB543dZIRdV3g==",
+  "URL": "https://cozy.io",
+  "LICENSE": "AGPL3",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1594575882",
+  "PACKAGER": "Bruno Pagani <archange@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "couchdb",
+    "imagemagick",
+    "git"
+  ]
+}

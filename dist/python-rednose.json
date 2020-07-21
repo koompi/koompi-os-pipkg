@@ -1,0 +1,26 @@
+{
+  "FILENAME": "python-rednose-1.3.0-5-any.pkg.tar.zst",
+  "NAME": "python-rednose",
+  "BASE": "python-rednose",
+  "VERSION": "1.3.0-5",
+  "DESC": "Coloured output for nosetests",
+  "CSIZE": "24761",
+  "ISIZE": "100463",
+  "MD5SUM": "15b53e2b2bd94c123412ea17a60a801c",
+  "SHA256SUM": "ec131f59f80f5445ba06f26b75a8de865ddcebd70fca36b2c3f1250131261d8b",
+  "PGPSIG": "iQEzBAABCAAdFiEEzgvecadZqH8j8PfYth284QkBwWMFAl5wCEQACgkQth284QkBwWMiWwf9GRCY5q74l51E+5kh+q3c+61C/K5Bjwsv2eg/Fd7umpgYLfowhFF+QVvFr8cac9fxC4e/tTQDEx5yRi5H0nrMDps69Se0ABBt2fSpOCataBmlwsvp0Vo4fRAddEdapqyp7J3N5ZrUbi+eIm54J+jRrBHyahzr0dy4SbTxQc6KRBkShX9ENBF2MVELEmJEKw/CnEgHJ5WfeIN7HCotD4fOy4Nr3cCOYh4PiGslHSle4aizW6Gym/bazLiRWJPWSI2nj1avAl7ubSNpAQVCsq+XQGhhLxJWTTsF9p974FcrhsXQG2wSbm5Ujr1trflC9AZjL1YZb7PlW6Al17HyDq/L1A==",
+  "URL": "https://github.com/JBKahn/rednose",
+  "LICENSE": "MIT",
+  "ARCH": "any",
+  "BUILDDATE": "1584400413",
+  "PACKAGER": "Balló György <ballogyor+arch@gmail.com>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "python-setuptools",
+    "python-termstyle",
+    "python-colorama",
+    "python-nose"
+  ]
+}

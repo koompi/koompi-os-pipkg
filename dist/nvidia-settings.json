@@ -1,0 +1,28 @@
+{
+  "FILENAME": "nvidia-settings-450.57-1-x86_64.pkg.tar.zst",
+  "NAME": "nvidia-settings",
+  "BASE": "nvidia-settings",
+  "VERSION": "450.57-1",
+  "DESC": "Tool for configuring the NVIDIA graphics driver",
+  "CSIZE": "804197",
+  "ISIZE": "1646337",
+  "MD5SUM": "04b6a9963b9c59dda1637f8f4635765c",
+  "SHA256SUM": "2b55b1bc88f8c4f0e99699d69e2bb59b63495502a6963acfb9ab1e4098ef0903",
+  "PGPSIG": "iQIzBAABCAAdFiEEj8FaBklQqZ3RvRTdOeS4d+YuuRUFAl8J6HUACgkQOeS4d+YuuRXT2g/+PGjA1m3PTbH+oqjw+40jISt0+u+00mo4uTzITqKpJhwQU32G5JWmUvrPYGqH6Mu3NJrkwCDsP2EY5Wyce9PGVNICNMcWMrc2RdLpOiSCr6mdm4XGEjWKnCjZC/f0Hw6QCz/mypc19ego4eg6ZEE9+N9+s2u1amqLNljA8btifMlC4yYL+pnrIvIm7Dka/0RCOMEkT6BkTK/tOeXqh4VnAb0wdYHzdMVQi/4aRrRnIL7/bF70fSmVvnZr24dVTOlkY9ElcOPOmDJBz8uj3DiQsI2GzFBt68DtkI4/Rjmf7pvPDshpMmZ4srS3LYTvtW3s1UVmLCJj2jXQa0d4sutNG0ACnruQD616UiMvaZ6MXNGlUk+4x3M4IlmDhmf8KVMMfXer6WsaYgWnA/qsMbH62oQoVDguChpCmt/ey9Hz2ZLVubeCKwOO0YL/598G+YshRp5ASYmb8UkypLaPQVRoX1sZvRmqrHybRHqJJ5bXdle9D2b/N3vNdERTtYFC8ZZU5EdRHrf8AnBtpXGeYO8HZVj+iW6Vr4t8GIEiNDabyq/l1dp9i1B5mfFiCwFFOb/gggdSqE5Drr2O9j+fmYTGCReGaMFiAC6gBBhO8XFvg7feEcYpMMWTqnz+g4P2vlv2T6SL64Fi6jZD+iT4Qv76s4hhFCfd7RhB0sdmVOz7HHs=",
+  "URL": "https://github.com/NVIDIA/nvidia-settings",
+  "LICENSE": "GPL2",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1594484674",
+  "PACKAGER": "Sven-Hendrik Haase <svenstaro@gmail.com>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "jansson",
+    "gtk3",
+    "libxv",
+    "libvdpau",
+    "nvidia-utils",
+    "libxnvctrl"
+  ]
+}

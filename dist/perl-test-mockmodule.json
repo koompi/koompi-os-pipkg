@@ -1,0 +1,23 @@
+{
+  "FILENAME": "perl-test-mockmodule-0.173.0-3-any.pkg.tar.zst",
+  "NAME": "perl-test-mockmodule",
+  "BASE": "perl-test-mockmodule",
+  "VERSION": "0.173.0-3",
+  "DESC": "Override subroutines in a module for unit testing",
+  "CSIZE": "12742",
+  "ISIZE": "18966",
+  "MD5SUM": "70ff7d178d54010e770f2f43bab7b53c",
+  "SHA256SUM": "ec343c3c511855c15b2d68771ef259f754ce7ae8fe08caafa5a8c701b417fe93",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl7verQACgkQeGxj8zDXy5IMSw//eG9dH1m3f9IphtnAkDMDc4NN6/pVCh/olhJ46i/44gPVUEpa5V3VByIgcirtV33bis46GRPdaSx5l/IXOPmtuINudT5TPX8yqUXT9BjKBbtLDpId3ZKvifA0/6copJhpQDTyZmy7p6gPP75n6pfz3pL9QoymOMm4ojxAAkG0A6IetO/ZYC/zBWZe54YMRK9cz2Zw74jbReRBUxESkWYKEW4ZLrweeMOU3jdpNPsxyr0sbkjC3yarhqYT9Yz1SoEKb+OZ0qDHpFAkpElUTkXcj+OHhlCEXs4VZOfbbqvJXL8E6gSCLRC2u+gOMG3IUtpSc/lVxrvbkx5boI8GnwpCrC/+KLhH4pYRUaZVBvgIY3EKThB7eZzugMl0686H3U8KIUkBoDac+a9aymxV+TPugwqxGwvMpKJYquc8MeASnhrWd4e40HVhuCJxrXnDUF6f33J5nh8/Oe37fxjzswRe9Qdsz0lS8VOuOJM7Rsy4K5OchaGbfpeVLfhYDGBj/laY+DlZW/f/W5WEGo0owiB4wiUZxUmqYAyios7G9sk4inVTog94uYUSXgetDkj1pz79L/RuRyut8ks6w4njqQIx7B9q0qbSAYbuVom9UYE5Y0/1bTCVFWSlvvCqQlvYiS3ceqrvX3894a0yiE0qPXycw+kgEaTWcp85gdgbgzansS8=",
+  "URL": "https://search.cpan.org/dist/Test-MockModule",
+  "LICENSE": "PerlArtistic",
+  "ARCH": "any",
+  "BUILDDATE": "1592752588",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "perl-super"
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "FILENAME": "xmldiff-2.4-1-x86_64.pkg.tar.xz",
+  "NAME": "xmldiff",
+  "BASE": "xmldiff",
+  "VERSION": "2.4-1",
+  "DESC": "A python tool that figures out the differences between two similar XML files, in the same way the diff utility does it",
+  "CSIZE": "66248",
+  "ISIZE": "458643",
+  "MD5SUM": "ae828a07a24e1eee3c00e2f288433105",
+  "SHA256SUM": "0c3511d2687002a891994bd945dc4997210a618e910aef0ac42a0980e9180c58",
+  "PGPSIG": "iQJGBAABCAAwFiEEPlGL8lJv0Zeeiq5JZcEQwepDP8cFAl3dQdMSHGFyY2hAc2VyZ2VqLnBwLnJ1AAoJEGXBEMHqQz/H5z0QALlHbsqs0V2VrJRssFinpkE5E51UyDwSWwLQe8fZU5/IT97IOyunFQ1Iw//bFn3NZ3kkPfvo7o7+RMQv7JKvKaIPqpfKAEoccW8PPGgFsw9MouujY1U7nChTYdQPrfRset/+0dtrVpYVO41Tl/NwyAeICQmfNxlAAqjUV0wOc9x2SnaFGvPGYKy0FbeaVKFdDFUOSEghpNZ5YieLzi9HC876jWrMMBoPSGEKp/hSK1+5W22OpWjdjkLSq3LQ7mAgNM+pH6T5G4CYBG/hvO4zCcW/QIwF2JN5XYmgqP8MRuLYhu2Z9cGrmx7xePI6V76wdmqKmH4xCTgqH2HUTkNecJSJL2U8G91Ff9baurFiTa+bjhG5xYHjxlUtRKAicetUh6rN4ZEElvfBcJvCLRr5yXVtnHHheL4sI47Q7qEXBDU5dt+SeQpqsKrseMc1GO2Zu/dFAGxwFBdqd7nPERiUk5+MOsSthd9F5o2/CJ1XYYToDnNDvgT6Eg1aitfl2tmrNlScUb8Cpao5/F0G8TrbIWFnOH20PrK3f4fILBfb2vb9TUuepkUkhJJDGKoTEkKf5YRoDOWgmg2MPA06SceVIUfmXp8F0e/mDOEHu8c72nFWV1s6az2eplnAYoes/++M97HNzI8yUAkSybnN1NDNowwklA9nCEVcOXQzWjpJGqv/",
+  "URL": "https://github.com/Shoobx/xmldiff",
+  "LICENSE": "GPL2",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1574781316",
+  "PACKAGER": "Sergej Pupykin <pupykin.s+arch@gmail.com>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "python",
+    "libxslt",
+    "jade"
+  ]
+}

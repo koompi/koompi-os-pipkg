@@ -1,0 +1,23 @@
+{
+  "FILENAME": "python2-netifaces-0.10.9-3-x86_64.pkg.tar.xz",
+  "NAME": "python2-netifaces",
+  "BASE": "python-netifaces",
+  "VERSION": "0.10.9-3",
+  "DESC": "Portable module to access network interface information in Python",
+  "CSIZE": "12720",
+  "ISIZE": "40698",
+  "MD5SUM": "b0d3d4f2d94bc7e4ec0d2edeac467f8f",
+  "SHA256SUM": "e541bc0201192fcbc2fce35db53db97af82a66edde50ae8aa6ee2f05a6d0ee66",
+  "PGPSIG": "iQEzBAABCAAdFiEEhs/8qRjPOvRxR1iAUeixSKmZnDQFAl27FL4ACgkQUeixSKmZnDRftwgAs3qX+Q+7Bb7m5AVYyS/PO9r16rjHzxEdtaGmaJi3ZyEHVcVp6l/lMzUToLB5JsOh0vRVJFnqG9aOf1Su0epZ2A03Xpp/OWyT9JYs8KirdsdqRt7DRxIlIyk0uSs9K1A3bF9T4Y/N5DLh1uRxZ0wrFmUbc8yf4tW0OtcQkD+6o4jqCgDmlMJTY8sFuAurCa6q0Gpbgv7q6veR4O1fT+UoAZPqGRNhiNEAv4h8ReUiOMhxBIk3BMMq3azntDxZdFyxbLSFW1+286K8S5yYLfRoEoXtQVwRLO5r056PCDFJg/FTHf0TwkBtGrJDOm9PT+2uN59et4JgLePGhMfB2hvveA==",
+  "URL": "https://alastairs-place.net/netifaces/",
+  "LICENSE": "MIT",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1572541600",
+  "PACKAGER": "Evangelos Foutras <evangelos@foutrelis.com>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "python2"
+  ]
+}

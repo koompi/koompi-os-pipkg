@@ -1,0 +1,25 @@
+{
+  "FILENAME": "gambas3-runtime-3.15.0-1-x86_64.pkg.tar.zst",
+  "NAME": "gambas3-runtime",
+  "BASE": "gambas3",
+  "VERSION": "3.15.0-1",
+  "DESC": "Runtime environment",
+  "CSIZE": "569542",
+  "ISIZE": "2054748",
+  "MD5SUM": "e2d963738507340c7cc45eb679e92a7e",
+  "SHA256SUM": "a9298a475e92467ad127dbfb2e7f68d00cb3a1383c145944bb8c81c7241bb5ba",
+  "PGPSIG": "iQEzBAABCAAdFiEEU1+MAzlFDwVKTSgnBglqatHO3awFAl8C7RsACgkQBglqatHO3awQoQf9EnHeMjW/WTMWSBiHqwGNCdq8WTnJXpLxm0LpMxtdu92pCSsKljzIhXSEE9Lfl0U733usEbtFl0GH3rgvD903XB7EXqkBM/KYbGrnH/qfhIWeLU1apHVz5ezUVP9gzZ5eui7xA8sxLS/TJgfpXSo6dWQ0rmAtVXX5wG8gZ56Iz2C1YN4k1Yqj107Ej1LKHK3mZ4qBnrl0k4V+eiwrYOTcR73gmAlkoJCnbkCy7ZJCOz08JFruJ6OFJg/617Dd1Tc1JKFdlqKSznhejYhCS6FqM0/S5+hbi6KFg66HoOYRSxvnLPexSaBq39M9CpIYEETjmWfP8IJRxpg6T6NuASES6w==",
+  "URL": "http://gambas.sourceforge.net/",
+  "LICENSE": "GPL2",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1594026389",
+  "PACKAGER": "Laurent Carlier <lordheavym@gmail.com>",
+  "PROVIDES": [
+    "gambas3-gb-gui=3.15.0",
+    "gambas3-gb-jit"
+  ],
+  "DEPENDS": [
+    "libffi",
+    "xdg-utils"
+  ]
+}

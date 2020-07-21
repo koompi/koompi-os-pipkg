@@ -1,0 +1,24 @@
+{
+  "FILENAME": "python-audit-2.8.5-6-x86_64.pkg.tar.xz",
+  "NAME": "python-audit",
+  "BASE": "audit",
+  "VERSION": "2.8.5-6",
+  "DESC": "Userspace components of the audit framework (python bindings)",
+  "CSIZE": "59488",
+  "ISIZE": "344933",
+  "MD5SUM": "1c0259a80a525cc76bede478624786e7",
+  "SHA256SUM": "43f565b7127f1b0549f0fe0dc472d80bf6680724128be1cd59bf006c54350dee",
+  "PGPSIG": "iQEzBAABCAAdFiEEhs/8qRjPOvRxR1iAUeixSKmZnDQFAl21QuIACgkQUeixSKmZnDQy0Qf9GHh9Z1MWtGRxxDI0aRhxb4c7I0Es0k9PGaWyDU2K6RaMUJ3upX5j8UrTPFd6TieT1IF4k6uvnFM0Tgp3+Fn2NpAWulHF1HdFNK7GIRuWK8yTDSA6XLc9WG+3bW1Cq4ZsvFNxJC9k2+9dmvQA7PPRq14fHnVk8dyn6H6klLDJuVPt/dENigOopTC9jSMLRf5DUPrcKqcnxqDke2vd9vNfbrO6/CcDkx+ROCzBmhKl7lQJhF/gC2io/i5fEhlHcn/KfoEYhW+E8fmH8/tN9ahxDgjt3tAqFYVbNn87lkqMFe2LBXPMREUJLN19D5PeEFr/Tf1fnud4TXlEy9sK66Ik7A==",
+  "URL": "https://people.redhat.com/sgrubb/audit",
+  "LICENSE": "GPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1572160163",
+  "PACKAGER": "Evangelos Foutras <evangelos@foutrelis.com>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "python",
+    "audit"
+  ]
+}

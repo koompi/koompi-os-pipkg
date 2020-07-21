@@ -1,0 +1,23 @@
+{
+  "FILENAME": "coin-or-osi-0.108.6-1-x86_64.pkg.tar.zst",
+  "NAME": "coin-or-osi",
+  "BASE": "coin-or-osi",
+  "VERSION": "0.108.6-1",
+  "DESC": "COIN-OR Open Solver Interface",
+  "CSIZE": "3963482",
+  "ISIZE": "6107261",
+  "MD5SUM": "f8fd05efb9c36dcdda80108df84776d7",
+  "SHA256SUM": "e4228574926340c24d6d48b8597e017aaad3c5a4b2e7e9abd0a90f7601551f70",
+  "PGPSIG": "iQEzBAABCAAdFiEEFRnVq6Zb9vwrc8dWek52CV2KUuQFAl41RD8ACgkQek52CV2KUuT30gf/T17lBNVkeQkwpW7VNvfqHKQu5KPog6vIYH1od/OoRtDx6VfpJNT/BiNrMW+wTzpzJqw49dHcIIkFK4CBbZfC+00zqVpP9M87xgapzZbYvctPLjm6f1t2g9PXgR1FCrkSSsgsicVGh6/GVijeBbyTkY20hFJ2PqTQtRARIjvk7RzS2yq2bYpKnY1HZZGPETWGIMIylpMXwJY+pz23Hro7HQqQ4YXpgsQgrGbwN2DyhGx2UfdxS5JXKGxGSWD00IGBsU+zuKKEAcFA1pIDUeoEZyMnWbm7o0hjdgMXP3iP52k1fPrP3KO/yqDk5CUhI+rfjRv5TrNNx3bi0d8l8LAT+A==",
+  "URL": "https://projects.coin-or.org/Osi",
+  "LICENSE": "EPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1580548855",
+  "PACKAGER": "Antonio Rojas <arojas@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "coin-or-coinutils"
+  ]
+}

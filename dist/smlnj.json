@@ -1,0 +1,23 @@
+{
+  "FILENAME": "smlnj-110.97-1-x86_64.pkg.tar.zst",
+  "NAME": "smlnj",
+  "BASE": "smlnj",
+  "VERSION": "110.97-1",
+  "DESC": "Standard ML compiler from New Jersey",
+  "CSIZE": "6062217",
+  "ISIZE": "42280054",
+  "MD5SUM": "2966209eab4a0a706f2438092aa027f2",
+  "SHA256SUM": "b88eaea214f6dcd7f564fb1ff67f991d25e3017a5512e665fcb7f4c16420bb0d",
+  "PGPSIG": "iQEzBAABCAAdFiEElihV8HLHoBhGQFhk/PPIy1z5yNQFAl7RP9IACgkQ/PPIy1z5yNQmvgf/a/1ndE+6tFDuZdXN6MFSy/dWc10ZODqNNl5yoaoRuroLxWoECb90vR//WUTd76tG27gYqUuOX36ieT1se3BgaWwyS9qBpN1Vnkag8A2pKzdSmUiuCfHU37+BR+ZOsyvvJOcOg2ujNPiBxGj0tPSF4h1JJEklFCuo2Yr5v3/72ITK2L4rOp7fzTOZKOJGWrMvC6OjAXREAkD0QopMfBojV+SWzifV+Zp4dEXWONWeAbySoGhONR4zDAXs9pQaUBpvxhFbahN4hGtddTBajjAK9WXkGRc1fGw6/aVzhyYGlDHeJHreR3JGRrASgtOMxfCI0wyaf9DzsOHuY9/RUUArzA==",
+  "URL": "https://www.smlnj.org/",
+  "LICENSE": "BSD",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1590771529",
+  "PACKAGER": "Alexander Rødseth <rodseth@gmail.com>",
+  "PROVIDES": [
+    "sml"
+  ],
+  "DEPENDS": [
+    "lib32-glibc"
+  ]
+}

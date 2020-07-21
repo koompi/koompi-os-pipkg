@@ -1,0 +1,23 @@
+{
+  "FILENAME": "kmbox-20.04.3-1-x86_64.pkg.tar.zst",
+  "NAME": "kmbox",
+  "BASE": "kmbox",
+  "VERSION": "20.04.3-1",
+  "DESC": "Library for accessing mail storages in MBox format",
+  "CSIZE": "30293",
+  "ISIZE": "73266",
+  "MD5SUM": "838cf9b88e5317a0d8748505d51d340d",
+  "SHA256SUM": "e10878b7d04835529c4a032d4eb1819302a68c1f1c59bd621f349ded58013bcc",
+  "PGPSIG": "iQEzBAABCAAdFiEEFRnVq6Zb9vwrc8dWek52CV2KUuQFAl8HAscACgkQek52CV2KUuQNcwf/TIfvhG2bVu1kek8t6wk9+kZ9kVkJiVDUZ+DYpkx59O7JTMZx1j61MAHohXlGHuc95KLGXB4qgS8I5Dqh/wS/6DhKqZcC6QB1dHvtzQzOJJ7mpjSlLYisYxB0Jd9tip7KKmAo9QerYPF0j/uKoQcYNeROpjMLKN9wmUMTosnDq7srI/YIEIEWrBPEAB8oGJySdUuLJvDAArrhI//m4GOcM5UL8B4Kku+1OWH/FOntBD9wjAdROuitEbWx80YwyiR+ebhPFBNi8ejGY76vRvHcXFy2IsTNxF0lL2xHjwpTRmiN5Y+XFk7U9ypBSSFuQDGtNVWdAKtpUKJ0xO4SG4xbNQ==",
+  "URL": "https://kontact.kde.org",
+  "LICENSE": "LGPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1594104266",
+  "PACKAGER": "Antonio Rojas <arojas@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "kmime"
+  ]
+}

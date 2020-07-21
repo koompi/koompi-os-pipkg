@@ -1,0 +1,23 @@
+{
+  "FILENAME": "python-typeguard-2.7.1-1-any.pkg.tar.zst",
+  "NAME": "python-typeguard",
+  "BASE": "python-typeguard",
+  "VERSION": "2.7.1-1",
+  "DESC": "Run-time type checker for Python",
+  "CSIZE": "32121",
+  "ISIZE": "129902",
+  "MD5SUM": "103f61d512465f20db91fb5339358863",
+  "SHA256SUM": "05a50429056afb645987b660ec5522867946d8d8b46caee5b981df59d0381e5f",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl6sGEcACgkQeGxj8zDXy5Kp0xAAjZs+X1Y5CNrHse7Y3LmvOpn/kCurdcC+SXf9QDjVTjr1Qy9cr3Jo06W7PcjSgeZJ5rWVUlcbZdhbmbNQJayztfVrYYhVB+mwI1BZjW7tvzkDaxiFFM1GjWJILpAbb6kQ5WkYsSpU+C2Q1NeygK33q2Zfv5ZTCs9evzu7MdtrydqiRVewz/WQF9/FEB/Ri7kLgYlL+IZWyR38580m4Y5biCjkIi2CZDmYzVpsk62N0Gs0Yfe7fqJ5hiCUbxemsYSi25nQ6qKEA/duX2vvf576UTlIH7HyMg+lTEgsR8OCbRglM5XG0bzEMjBHYhONoJ0hfQKKs2/r6KilRjIQ65nf7hn2e6qpxDgqgxP4cBJx5fSmciSWYtV72DtVfZBycHE+gHJVvW65w5sHfFJIeHkcEeoOdPgoO7Z4xUejpDGdHKlXBYd9m5xQUfrXcMU8zgrchhfXjzCjbpNzm/a+MtVcnY5tzLOmP0oiA8yCyBPV2viUaa1Cf/kzdurvBnc34jdf0k5ELXkj8eAkUWQY3gp1Vzme8SRSUTlLERqZRLXSNyOl3joUwbNu1xvl6a2EUBqUB1DK6aHUrItBOGWJkUbL2VQHrha+5LoaTkKehR9N8RcENHKORpoqrkzoCv14uqnO/lnAh5PRhR/Hb9brGKd9VjCZyhIEpjSSKuV1q2wWu9w=",
+  "URL": "https://github.com/agronholm/typeguard",
+  "LICENSE": "MIT",
+  "ARCH": "any",
+  "BUILDDATE": "1588333304",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "python"
+  ]
+}

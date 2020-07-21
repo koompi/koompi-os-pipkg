@@ -1,0 +1,24 @@
+{
+  "FILENAME": "pd-lua-0.9-2-x86_64.pkg.tar.xz",
+  "NAME": "pd-lua",
+  "BASE": "pd-lua",
+  "VERSION": "0.9-2",
+  "DESC": "LUA embedding for pd",
+  "CSIZE": "49520",
+  "ISIZE": "182272",
+  "MD5SUM": "1edcec351cd6c7d8b8c6acdd0b7d6da6",
+  "SHA256SUM": "fb39aa264a7e6c86e70774e66d271544c0c0c944ab0a262c2a7a50f59d229661",
+  "PGPSIG": "iQIzBAABCAAdFiEEkb2IFf4AQPp/9daHVMKPT/WhqUkFAlv1x8kACgkQVMKPT/WhqUkqxxAA0eC1uPzP++/im0b5Garpi7xUj9m+X8qo2XfzVMmgl2hm8YddbshCesujwyBEZcxGJomurObyPm5grzW94MAkiSMv5k8mKNYNwnPDSVVP6mkidV/QeOC5svczWhH/xZ5R6QN3Yjd7dLx8ekFLtggdcsWzPSK845BpW4yrFDKQlsj45IhyY5dgnzsHbFgSNc+yi9qDNbyOHjtasu/i1FhjbbxErqmVM4hhcA8nSuAp4C2Xa+v8tH4f2ucJ8myxjZFWrbmYx+qDFvQoAZYt1GNn1C5ODdWPdD6FTHpi0idoeGa9T9sIi/bse/ACDEhRKIIXLt29hciwbrLB1gH31/cQOX1qjY2ttN9tpqMK7SY7oEMqpuoryLHxgRhuGrtm2Q/1cVDgowIcOwcuJKIF0fbxdqjjl7VoTHIWDi3cO0ID/OzeaOZnlLUUpfNM5CvjtN/xbrfpyOGwbcK8+q+MVZJNJGtbrA+tHt0RQr+911zP6ah9PA1Mv/lVeyYzRAD2JneKCjmJmt62H2UkQPnIjbMbWkPwL2+ZkjJwaysuWJ5ZDjZIiVE+JIDJupApqn7uZxakJyuWdA6tWl5+JJuB9bKsOjF+W20ZgJgt9NxwYhidNmIjOp1c7ylRYwAyvakFn1EPIJesB6KwvgUNDJ/V4BUFhebqlrgmiHHAOkLGtITY8ec=",
+  "URL": "https://github.com/agraef/pd-lua",
+  "LICENSE": "GPL2",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1542833989",
+  "PACKAGER": "David Runge <dave@sleepmap.de>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "lua",
+    "pd"
+  ]
+}

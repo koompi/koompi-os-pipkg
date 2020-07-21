@@ -1,0 +1,24 @@
+{
+  "FILENAME": "gtk-sharp-3-2.99.3-2-x86_64.pkg.tar.xz",
+  "NAME": "gtk-sharp-3",
+  "BASE": "gtk-sharp-3",
+  "VERSION": "2.99.3-2",
+  "DESC": "C# bindings for GTK+ 3",
+  "CSIZE": "3108432",
+  "ISIZE": "8819712",
+  "MD5SUM": "ac6e0d36b81393410aa1e138e9770ee6",
+  "SHA256SUM": "1388da2369801d29158b8b825fca41b80d006a8abd73d618df06aec5b1c894ce",
+  "PGPSIG": "iQEzBAABCAAdFiEEFRnVq6Zb9vwrc8dWek52CV2KUuQFAlv8XuMACgkQek52CV2KUuRa1wf/c13+K+0rM8csbdeAR9UpgZHiu7JdGHOUYkfaq7JpzpK+0GV6j8KUXZAYvFSBbD4bpYMjO5j7noxQt/S2Wr85ONk3LLvSTaQQRjL++8+8bZFUTgti8wrhLvsZcfQXlknP8WlwTO5TX2HkalLGdaDjLVFc67ZWPYd8cax10MiTccLDtoq52VbPBBac157L7r8GpyJnuxr4iJJNAwY8OlKKpzf1bHkVCHXHLmYxkm63G2DZoE1SzfBL8QTninf+zfl3oPDas49J/+iUA4zd2Uhp0RgTojY49+wvwVTeKX+KUKvlvkpwiJI6ZhplKU3f4QrMnNK/BELjy9BfyVix3UT3FQ==",
+  "URL": "http://mono-project.com/GtkSharp",
+  "LICENSE": "LGPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1543265919",
+  "PACKAGER": "Antonio Rojas <arojas@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "mono",
+    "gtk3"
+  ]
+}

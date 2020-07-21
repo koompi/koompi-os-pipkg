@@ -1,0 +1,23 @@
+{
+  "FILENAME": "print-manager-20.04.3-1-x86_64.pkg.tar.zst",
+  "NAME": "print-manager",
+  "BASE": "print-manager",
+  "VERSION": "20.04.3-1",
+  "DESC": "A tool for managing print jobs and printers",
+  "CSIZE": "448941",
+  "ISIZE": "2233027",
+  "MD5SUM": "a2b32f6e734bdd9e49dfa3d9e076c6b0",
+  "SHA256SUM": "7fbe8c879e718152021d5ab7e7077d27e7aa12fc0c0f8b723a30d646f3286e6d",
+  "PGPSIG": "iQEzBAABCAAdFiEEFRnVq6Zb9vwrc8dWek52CV2KUuQFAl8HIdAACgkQek52CV2KUuQE4Qf/SKM9OHqLohAfOUohFn9aHnPFCjn8ZZCjMyuvTjkK1UKhjJdgw7exggity5YP8jXGYv6gwtMHV3LeBCVn9fOzJB179J+4D2wooyfWJoMdI5XHQmu2ay3DZs7FurMN9+Ia33oUOPuWB8S8swDAZjzA8NckisVMNGwbBjR+lXQQ5TWojlGqWIBQxD/kLKkgqFMF0uz0lwsWb5jaqZc1kvWwsDG+NpCbeSTm9EaP519r6gXfOdZRL/PcZ19SGnVg2al3WISS/TXxmF/vb2Au0lkzk7dnfGsQpa5cxH5l5ihO9vnGR/iQyMKEn1ZwlE/nVl4m8P0GgAYLMgi8UwVZE+Ecsw==",
+  "URL": "https://www.kde.org/applications/utilities/",
+  "LICENSE": "GPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1594114867",
+  "PACKAGER": "Antonio Rojas <arojas@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "kcmutils"
+  ]
+}

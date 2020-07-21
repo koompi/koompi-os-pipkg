@@ -1,0 +1,23 @@
+{
+  "FILENAME": "git-lfs-2.11.0-2-x86_64.pkg.tar.zst",
+  "NAME": "git-lfs",
+  "BASE": "git-lfs",
+  "VERSION": "2.11.0-2",
+  "DESC": "Git extension for versioning large files",
+  "CSIZE": "4245841",
+  "ISIZE": "14753008",
+  "MD5SUM": "c6a9e0c74846a49687681cad1c440433",
+  "SHA256SUM": "1afdf89d37c5b84bbc294454d2793f6d720a933a16bc63dd152ebfe32a99f5c0",
+  "PGPSIG": "iQIzBAABCgAdFiEEwQA0ZnZjToDJQPuenAL/QZ/svhYFAl7f/JoACgkQnAL/QZ/svhYKYg//aiwOuMpPsTNKd423ZEJCNIGUum05vDMXsmd/x8wpEMPFdQs+xvpBzjjV//mSM3n4CHSzRRn5/41Fll/H52R6zgtnvZ+UNTBF7+gkzs1+mzPVkzFWoTcKXCHgpCvzYr2K1R6M9z516dHyfzaGzoMyq5tUDq89GJFYWijs2gvbl8i8Jh8vzPHmACmH65gQrnghIvfmkjXZtdE8vml37+NiJT2dhIIOlVwxML3w/MVIy9DpEGwBHEeexsfJenBO4lRDmnck20ZYGNfzi8kHWv3UmB7dX/trqQ6dVu2Mt/+C/038zBLmRZIkkKhUi0tR2BRlR1sbT6QnjwJ+PygZUlr9UZytK+JDbB7nBaa95q019cgmHiiUgh2ECqrTpty1DeofdalK4t6ZANyHUfcNVDESCPmpl0ZbMpv6ZO6kiMZoLc7eqTKdpv3EPBSCnMzZ+MduivcRlx3j1CPwTAGeXE0gGRPsrnVMcbrVeP8IyA+ZJAOWFIUaSnfj5WsxTaodauKLLSy3915fXlNvSbRqPKGW1soLdR86JfohnMAR1liaR3/a+W5GOPN2z6X84d2aTkYtkJuojmuUK/uYHc+zd6J+L6RkyAiNgT858owOE+C02PXwsBXwjrrLKun9D3Tw8AtCBT3hPGsZkN1Y3ea65QJv38tYjKycESjo2jXy1sLMT1A=",
+  "URL": "https://git-lfs.github.com",
+  "LICENSE": "MIT",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1591737433",
+  "PACKAGER": "Morten Linderud <foxboron@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "git"
+  ]
+}

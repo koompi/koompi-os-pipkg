@@ -1,0 +1,23 @@
+{
+  "FILENAME": "python-sybil-1.3.0-1-any.pkg.tar.zst",
+  "NAME": "python-sybil",
+  "BASE": "python-sybil",
+  "VERSION": "1.3.0-1",
+  "DESC": "Automated testing for the examples in your documentation.",
+  "CSIZE": "26442",
+  "ISIZE": "92928",
+  "MD5SUM": "7cad9e9300bce13bea2f7b07470861b4",
+  "SHA256SUM": "20f05533aaec5ac0b32153d369d25890267bcfea415e1f9654b09cb9a5a109ca",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl5/1BQACgkQeGxj8zDXy5K0dxAAl5i9yrzL7vJN0VYCs1zRvr999+f96iB5qLkBflLu15nhgrluTxPRnjGbie4tzDybXPlz/lgbJ09pAd0jUU1SPADWXqjj+KgNYCeFyjgXUmejTv1+JEzCjAI8BoimfjbDRZSv3QKV1rVYP7+Bq+hwsmYCCNrbNe5nX92qZS61wRmN01/mlo4+WfU5yBKhXqWHEGFKbteqwq9qVnlMO5WOdUpYguhlXNUtC6fYPxgru6It8N8yy/Wuj4xteq8OcN5xC5lw57gZkFITf+pqnP9p175mZXYLX0DYexgBkv0s3FqqeHFPW4iQDEDVTQOqCFc80TDmtrebjNQMs1S3Mr+wGI0+yKxE8nFP4J9WsJwNo+ClSYBb6p7vYQcaIiXa4KeKYfx5Kj5BTbdaCM1AlQWfi7tNUexodPAuLLnimWGHdqxw6ao5JRs8rsPli/sABaHAYlvjnMiB1TfjuEsMDgjpgqLgur1agl8482c0B4OG34Yz8WNGgn07xW+7a9l5j68bGdbVNNUYj7nZvFdYdV5muk5hsZGTh9KNzuHKaZiNb140grHLhko29V/YrDmxofhcN2fO94wHJzKhWZ1mCjVjl4JjluC7cQwF9a2TfbOpZCEVRPWo2wNYImpZEp2jWX3dWwxBw8E6xsUM6aJcZBdOjba/oDoiH9r1Z5a+f+fEXlM=",
+  "URL": "https://github.com/cjw296/sybil",
+  "LICENSE": "MIT",
+  "ARCH": "any",
+  "BUILDDATE": "1585435637",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "python"
+  ]
+}

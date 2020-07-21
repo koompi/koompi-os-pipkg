@@ -1,0 +1,33 @@
+{
+  "FILENAME": "switchboard-plug-online-accounts-2.0.1-2-x86_64.pkg.tar.zst",
+  "NAME": "switchboard-plug-online-accounts",
+  "BASE": "switchboard-plug-online-accounts",
+  "VERSION": "2.0.1-2",
+  "DESC": "Switchboard Online Accounts Plug",
+  "CSIZE": "136120",
+  "ISIZE": "585802",
+  "MD5SUM": "10881decc1be3e86988466e69b40ebb3",
+  "SHA256SUM": "605be2fa422cb392e0ff25242aec683bef6a412708c432c064006e56fb7c7622",
+  "PGPSIG": "iQEzBAABCAAdFiEEFRnVq6Zb9vwrc8dWek52CV2KUuQFAl6XP38ACgkQek52CV2KUuSlCwgAg3ZYbG3zHUzh2SRg9qqhXHSEciCvHBoOWkbaFM0uN+85TE2MVHAfU1IBri84lX+UhqlesrBJqBCKOXcmFAvWgqka6G7niQGIDEUywwmjEJbuMaa0SsI0RGHT4QdRDkWsXGQh5J7HXrh52SASD8lnVVCcHo+cMetrj/BwiH0mYccJnfusydA6xkl7WLiBj6ljsspzY7odc4DOgMO0cPCjH2A3OmLS9SIC5TBDCHvN4vxdvhu+te6TNHRTBU5z9BSbSf/tQEnQQpyjO3kRiIij7EhlWbwb8CAj1/A/xKeoimbZlymC6B0jNlgm7bLELVklbZFHVIobXe8ufqrl0+BhqA==",
+  "URL": "https://github.com/elementary/switchboard-plug-onlineaccounts",
+  "LICENSE": "GPL2",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1586970420",
+  "PACKAGER": "Antonio Rojas <arojas@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "glib2",
+    "glibc",
+    "gtk3",
+    "json-glib",
+    "libaccounts-glib",
+    "libgee",
+    "libgranite.so=5-64",
+    "libsignon-glib",
+    "libswitchboard-2.0.so=0-64",
+    "rest",
+    "webkit2gtk"
+  ]
+}

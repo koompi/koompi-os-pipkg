@@ -1,0 +1,23 @@
+{
+  "FILENAME": "realtime-privileges-2-2-any.pkg.tar.zst",
+  "NAME": "realtime-privileges",
+  "BASE": "realtime-privileges",
+  "VERSION": "2-2",
+  "DESC": "Realtime privileges for users",
+  "CSIZE": "3465",
+  "ISIZE": "842",
+  "MD5SUM": "34b9f6fe01388ceb275b3a33e1edb3f3",
+  "SHA256SUM": "90df64486f1770a5ea3328ee47a9532c8eb98deb17dd1bb3771a59eb93735c19",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl8EnWAACgkQeGxj8zDXy5KS2Q//SvrO//a/YCWzYBupGSY3Ww/vSdDfn7ycLX1ttYpPzDNmQPKzZ44ZGtamWykcciscZgoJ25ZNNNDaQ54pGfjwBYBYGkZBG4TgI4D5MT6nM41jq1Skms/EwbEj0enmjVLWhzBraafB5XgSrZxcAUgXLHVO9SoOcc2GewhMBHHzsDeH1ply6VOjYqGPQFuupm0/0lZXwNVly3v3+AbTeV+6PBPYJQMnE3vH/zToQUpgJ5OZY3c1qBOhZLFcawSDYtNiAWO7nM345gKY2cXaDgk3aZmUS0hYIm4YGUkTIZKEpIeVFgzUPU1OGvxUt8sIP9gbZRvxzEm8tXJUJUFQ2JwG7v5/eaY4XnHrg8WLNKc0yJ6zJjafJj/JFGCkH8+OnYZqVlW185WZcjo6rAnqMEFGgmMdNR6C/weh5elEeizUYGdB7M56fOMcNRuprmKuaXeY9MvJ2sTIqiP8Gc/PPENYJ2EarfRCUDkEUaZJvEpp4xPTu5x2wskOu7zmZ0nIDI1qO99QTHtuEf6AdCQ7s3ZLylVj095UCCnXfDeUZG5ByiGuTk9T9m+z0vGkNlmflFSu4JPHi1gP1fOpr3xHRWWA7KD8ro4SZw1UEaBKIRyoUPd1BuX+XqJlp+HG4JWCVWvno2aT3rPAn9vyvzhBT2SpBs1Ur5i5gw4Ii5qwMI7M4ys=",
+  "URL": "https://wiki.archlinux.org/index.php/Realtime_process_management",
+  "LICENSE": "GPL",
+  "ARCH": "any",
+  "BUILDDATE": "1594137938",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    ""
+  ]
+}

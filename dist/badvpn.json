@@ -1,0 +1,25 @@
+{
+  "FILENAME": "badvpn-1.999.130-5-x86_64.pkg.tar.zst",
+  "NAME": "badvpn",
+  "BASE": "badvpn",
+  "VERSION": "1.999.130-5",
+  "DESC": "Peer-to-peer VPN system, and NCD, a programming language for network interface configuration",
+  "CSIZE": "477762",
+  "ISIZE": "1593439",
+  "MD5SUM": "3063c825cde9f3462291d11dc60902ee",
+  "SHA256SUM": "7c92c634ed269a9fab9392ea14c55aca90cf18d79ae6fef05859deeade887d37",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl8Eev0ACgkQeGxj8zDXy5K71Q/9Gyn4dBIgD22+zfIDf/C7vYQyMY3xtb7F/XzqYH/COozXiufDLhKoYqFM4gBqQIeJKXBuRUiyg6Q8gQOuYY7jBknODcsvb+8YNzVIOlHfsbkg0pWa4oxBNrctT/jhgslEiv7oooRsOCFys3bp+4X5zTM6X81dxOv5x7CjWbRhnYjMPxVPDNBaDd23HQ1ZAy9qhLT8VKqavuPTABFfJ7q8OwxgfRvgd8LoHUgckoGOrAh/6i41V8AXVRed4ar6m1va5GXu1qegKxWSeerswSA6LQsSypVqCtSokVaCdsgrPTveFcjVI+k3q7hSfVKoct5KcxSQw7uACBdYjUmMP265Wu8jQcinxumeWuQVhz2R6z8Nia3ix3DQsd9vXEJzZbZRqdCuV0ZekMO39uBskbjqiUbT8uZDrSgdE0liii6SiGpDGrBJdqhZl4nOHHMyVWs0gpZus7mcc5e7qJkn8uEEYFFSe/tYTNyvXqG4ttS/xCpi1IZEThZlpDL5gPZKxhhC8wCfvJJGqwRR5A2HvJNo4/3dau9zz32UG1Y8zwqsBTRGZnDPRssXAaAPMHdgn3uh/ZYQ895XJtA0lUjjopd8RF6+zesSeqKaA4KzrzyTYRCbtu26Rj6nXDT42muV3ZL5La9WRFIEKmFChqyFK2nmBHnu8RIsg6V2jmhjlLwOveM=",
+  "URL": "https://github.com/ambrop72/badvpn",
+  "LICENSE": "GPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1594128994",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "nss",
+    "openssl",
+    "iproute2"
+  ]
+}

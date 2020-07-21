@@ -1,0 +1,23 @@
+{
+  "FILENAME": "mod_itk-2.4.7.r04-1-x86_64.pkg.tar.xz",
+  "NAME": "mod_itk",
+  "BASE": "mod_itk",
+  "VERSION": "2.4.7.r04-1",
+  "DESC": "Apache mpm itk module that allows you to run each of your vhost under a separate uid and gid",
+  "CSIZE": "20172",
+  "ISIZE": "47104",
+  "MD5SUM": "0fd55ae009b4309eab6f9d3c19c18e47",
+  "SHA256SUM": "d33f1bf8ec7fe68d185a8a1af334b934bb2c75aec5318be3495fe790a6b0bdca",
+  "PGPSIG": "",
+  "URL": "http://mpm-itk.sesse.net/",
+  "LICENSE": "APACHE",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1543510937",
+  "PACKAGER": "Unknown Packager",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "apache"
+  ]
+}

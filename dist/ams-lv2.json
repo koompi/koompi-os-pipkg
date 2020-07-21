@@ -1,0 +1,24 @@
+{
+  "FILENAME": "ams-lv2-1.2.2-3-x86_64.pkg.tar.zst",
+  "NAME": "ams-lv2",
+  "BASE": "ams-lv2",
+  "VERSION": "1.2.2-3",
+  "DESC": "A port of the internal modules found in Alsa Modular Synth",
+  "CSIZE": "641300",
+  "ISIZE": "9064692",
+  "MD5SUM": "b6f879acfedc9c9f27280819befffd4b",
+  "SHA256SUM": "d691666573b7b09202ab8f8a9f118e60e709c1f5af74349bf03bce9d721e683f",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl8EqLQACgkQeGxj8zDXy5J4QQ/+Nl/VUoZnMEn2k+UB/eqjj2xZZ5uHfNhEkXZdaN6UfEyRdGKztpnQMnhFeUAOAnYBrIonTNhfC1xp+v5aQBKrz7FKWtq0aHWBo4XiDcJhEHzCZFMn1Bd76hLluz+DvocoHneAhhKC23WNPOzru1bEDx1likUHV9HWn3blPBCMoP4JzGOgdpUWQU1I/5RbWWDrXXbxsNxcmiplmBLH7Im9pCQaam1jT8kQ7/c7Noy+fkrA11prMizxQV7iyXJtFC9YCskC/WbRCMtE6xKvZ2vcgfPrPRFRj+vLNrzv1RaMOb8OXtsRVW4wg+Poh9qxi0kGQTZmKCGWLDBfy1X2ugc3KIVIbCAkU/cTbGegKw2L5eoYpjPjJo185Uq9MXr+oY2B+kkTyi4VjnK1s7Xa049Hfn+woME0pT3NYz0UWW9GEcsW5DMSXNBp8bp2JgfbCbvprhiQQ6ahnaY/63JLl6ATgpZ3/i4m17+v/DtqR+isS3JSaMGJuBfkqAYEFrQbDGZWwHJD9SPU3Vmq3JpDZsCn5I7vtK9xfUkTfsyMxU998YjAum9XcjvmIJQ4Jn/7pnwAb8J77fzytTL1fDsFxv2gitPZ2qdUYI66XbffvAB4BJqF3Fhsm3vqKLxscGy+BXpPQbX4xTniQ5bVmjX0/ert081tHXs9lFtMRLoTv1XIZnI=",
+  "URL": "https://github.com/blablack/ams-lv2",
+  "LICENSE": "GPL2",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1594140627",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "fftw",
+    "gtkmm"
+  ]
+}

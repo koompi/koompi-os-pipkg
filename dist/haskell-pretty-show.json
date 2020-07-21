@@ -1,0 +1,24 @@
+{
+  "FILENAME": "haskell-pretty-show-1.10-4-x86_64.pkg.tar.zst",
+  "NAME": "haskell-pretty-show",
+  "BASE": "haskell-pretty-show",
+  "VERSION": "1.10-4",
+  "DESC": "Tools for working with derived `Show` instances and generic inspection of values.",
+  "CSIZE": "141912",
+  "ISIZE": "626778",
+  "MD5SUM": "825862789dcf1ea3ae05936b86a4afaa",
+  "SHA256SUM": "cff574ec4cd6e4d832253510460f3c21357260e2508f201b1fa23dda4c5b6ad4",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl6hp4kACgkQeGxj8zDXy5JpUA//XcWPLT67Bu1n7jeajua02uqVJ94u44RBbHgGRDVahuoX58K1u9SDIV9TSYb8lor9RcuBftAY/ciHHr7QaseJwTahL+pzXVRVPtMtNhV9wm5gRbl4+PWE02Nv3JOgJDhsuoO83f8pR915FHSsvsA+kCXeRguX0KWXlJF3zvpGzppPxg7pgd7cQ1My9GurFSgMXq4YcOdLsqQiFerFAbozcs56ZePpOADzFD0zvupRWlow3dVrKRyBTD2oRx7ovA0K8wv9JKVC6NLU/Wul6uFwc2b10JIpujNW8HH0GbJHYyR3JWFEPOIRnK0EhtqH0jAfdNP93czpjkqncyGGycONYfh2Wf6WGUJTQo1ZetbaIymRuaqDzvKtrrvEoJhgQAVA/Vs8m0IVmiXFLS2eZBHMntw+jx6J5hQ4cfyyoGCki3xbUeohwO6CKfvJ6ORnN/bU00AfQuBDpVXpvpban306x+wZxx65tlTgrVrwt2wx1+crS5050T18mQvBUzBchYftqGlrJWsod9biheuYh77/jOSm28HtkxJH1ZdO3ahhaDrhdgsXmrPQW2ktCqC/akwHjbcWzcVgnOyWR0Rk2Bo3Paq9Pyy2OgGibQEHATZB6JXTAUzTxvPhLK6lE74/vgSsZnU12WFLFku7ucW+QNrT+5t8Wuc+qwlwpcyA/PP2YCw=",
+  "URL": "https://wiki.github.com/yav/pretty-show",
+  "LICENSE": "MIT",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1587652399",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "ghc-libs",
+    "haskell-lexer"
+  ]
+}

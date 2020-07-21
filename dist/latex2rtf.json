@@ -1,0 +1,25 @@
+{
+  "FILENAME": "latex2rtf-2.3.17-2-x86_64.pkg.tar.zst",
+  "NAME": "latex2rtf",
+  "BASE": "latex2rtf",
+  "VERSION": "2.3.17-2",
+  "DESC": "LaTeX to RTF converter",
+  "CSIZE": "559030",
+  "ISIZE": "1234487",
+  "MD5SUM": "d8a282ddd6cbe470b1c2edc59ffd1c19",
+  "SHA256SUM": "27d0c133142d5263008f8f14e69a97a9e0843ffa71b6a8c99b0d7a8db07a17e7",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl6/xA4ACgkQeGxj8zDXy5Lm2w//ef/cliVaPtWoe57Pmb8QAY448C7lKpeUkd77OLHdyosh99NJ/OC0DzLZWlyTtW3NaVTIeQTPi19F+z9oOLWaDcWCkq1n5VVpA8zhDDPrDKTKNAercPOtJJrF3T2ikC38Gyr9C4hVNpJafGGxgOk3woGxivwI6EZBobL0N49kBl28iCQc+JYi64R/GnzWBcq6hwl61WywSR8hzSgDhhbVecZ9CCQOm/hbvWatQhGl3Wn920L4iJ0gSICuRfyIvLdCJVkp5S+8XqTMUNy08D1QSWbkO7MwPfsTB5gv6TxVfNUlNbHkmUKW3N3pr4v46OIdXhg4KAi5u1Cc42vTZ6qKmlLhnnHdnA3dsRZodTHBWGv7aHZeXdradcFiGo7F38er/rtNiRA+USQlmUBQSw5zjhTWfd6epO7zJmi6lbCcMV5hk3uJITa/eXuam6zsEUF7/F8XBkSx9kYWmIHkT0J8IGZWECgf86rxt8nefwvqDLQFsOEH1WDBW6VQD41FQKl9FxRzgxoQeIFV5gbHvUjs/R+ffW1GU1oQj0jkJ5AVq1o2Na9bGCu3eAfAEgFoSyA45Hil+OUIQFItduZyBdEULy8ltfGDhffE//U0fWxieHhkSe3ZaXz8/Z9SoLyGc2/4nJJf5lBeJf3ie1ztkAamf5ST49DY4/ytMuUTpqbzXUY=",
+  "URL": "http://latex2rtf.sourceforge.net/",
+  "LICENSE": "GPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1589625716",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "glibc",
+    "imagemagick",
+    "ghostscript"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "FILENAME": "when-1.1.40-2-any.pkg.tar.zst",
+  "NAME": "when",
+  "BASE": "when",
+  "VERSION": "1.1.40-2",
+  "DESC": "A simple commandline personal calendar program",
+  "CSIZE": "51389",
+  "ISIZE": "142905",
+  "MD5SUM": "933e7eccdcee5cb3615f66cba69dc410",
+  "SHA256SUM": "23e3805e831c640d620da8084baad5906c0df40f919398fb0a7cb0e7a385e776",
+  "PGPSIG": "iQJGBAABCAAwFiEEPlGL8lJv0Zeeiq5JZcEQwepDP8cFAl7uNeISHGFyY2hAc2VyZ2VqLnBwLnJ1AAoJEGXBEMHqQz/HsVoP+wcMJeMiHfLVmP2LLUdju/zx3e4IRQOIBRXH/uxSSSXsJLDlPQqaWMva43K3nXAlqv34PfIBZZUWd13/lQh5pdxyGu5dywkAeZCjQdVtZZTicdCKNi7zr49b/qL8S9sfSHzfR8AY51fajuSxBWOC0/O2DnBpRxTZN2kMbSpqW99uB+pHSqMVEglUbuJsBkZQofM9SEmWbdyw8fNvn0Fv99eux/IH8oEMX5bFPkQ4DdcMNfpJh6KIwxhOwfzwXg5hEXltxuoPH/QIMJqvsYCUIDasRd+FBFijI55a2q0v7oGY764ajjGcBh1DkehOtLS6dFEmU37NqCosbubkbHBU6EKFCQUV96VO2jUB4YXAJcISURpq7rFzs+aicg5CsQbzVrPhSr9WfVHiLeociB8WKd0Jk5EOCxGmMHzrnXCrUKIE3JorGNVqcgpjqm2v78LduAtPZ4RsWGZONvks86MBD9kScenFT/rAqHeQzwj0LkNRcjmsH7faZki2TD0p65lVJZJZyNATnp+LPN9+4wYKKEPGJDraQXwxWp2v0Fz7zge1bt7XpbGHeNLQWmOjyDjKX3/ZkF74S61t6lFqCnQsb1P1KjD3ZEU3b6QwyyCUF9Ua9piXPlcaIEuftzqBoeLIKnXUwIYfv7QHJcEpjq6se0vWxTZ/oNIYWCN9buQBCS6B",
+  "URL": "http://www.lightandmatter.com/when/when.html",
+  "LICENSE": "GPL",
+  "ARCH": "any",
+  "BUILDDATE": "1592669632",
+  "PACKAGER": "Sergej Pupykin <pupykin.s+arch@gmail.com>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "perl"
+  ]
+}

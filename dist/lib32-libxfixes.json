@@ -1,0 +1,24 @@
+{
+  "FILENAME": "lib32-libxfixes-5.0.3-2-x86_64.pkg.tar.xz",
+  "NAME": "lib32-libxfixes",
+  "BASE": "lib32-libxfixes",
+  "VERSION": "5.0.3-2",
+  "DESC": "X11 miscellaneous 'fixes' extension library (32-bit)",
+  "CSIZE": "9524",
+  "ISIZE": "26624",
+  "MD5SUM": "bb5151e368ac9846aafc7b8f7079d7fd",
+  "SHA256SUM": "203805e16c5851cdac87179b1885b80c7035f2cb486c67115ff7c3393445c040",
+  "PGPSIG": "iQEzBAABCAAdFiEEhs/8qRjPOvRxR1iAUeixSKmZnDQFAlvmGNcACgkQUeixSKmZnDQszQgAr/KfOMjAiPmRPZ5c4oPk9jp4WHO3FPVV29vsiqclku+cPUf4Eh3GaMYzz7WFZ1nBA21RdijviARTBKE+A/v9VTvFN9D7vLUd77WZJJYXpQxyswbypOkc0PidyWbv8RwRG2HYk6b8gQ9mvkknP0Unn9OFX/4FE7djKrMBDMk24LNlxmtzZ7fgp8p3cc0ALxEYf0gT/qDSm2twbJIAD3EFsgX6uDBcOaVxKAUNj8cUP7we59xwd/+ktM+qizCkna7Ol9Ip/GvYHfpYNEPR8f6qbbMEq6k+DYwHkvYPLPeAzrVVjr2W1TD/oWQJAPAm8GK4wRC6qq48KTpE15JW9pG7Aw==",
+  "URL": "http://xorg.freedesktop.org/",
+  "LICENSE": "custom",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1541806280",
+  "PACKAGER": "Evangelos Foutras <evangelos@foutrelis.com>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "lib32-libx11",
+    "libxfixes"
+  ]
+}

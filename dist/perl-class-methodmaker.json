@@ -1,0 +1,23 @@
+{
+  "FILENAME": "perl-class-methodmaker-2.24-9-x86_64.pkg.tar.zst",
+  "NAME": "perl-class-methodmaker",
+  "BASE": "perl-class-methodmaker",
+  "VERSION": "2.24-9",
+  "DESC": "Create generic class methods",
+  "CSIZE": "185571",
+  "ISIZE": "21385754",
+  "MD5SUM": "4fcac51ee17aa4dcea33a418bc014626",
+  "SHA256SUM": "66d8602b79a51fdcee3d3a0b7c50d3a80aa0137853464a8296bc19e23e172205",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl7vNgIACgkQeGxj8zDXy5LqrQ//eh1sVYtUIF3mNToGvbFhJYm0EMl3T4IOpepBqXpom/hzx0DqNT+Ra45Sp8v/36tiLrzDmLU6xBaVgJtFcO6VG6YOr5bgTrivTXqSCuImBVAb/R7zsQdJuTMNbOsOxC+psp64yslFi55jIF+bEoW2e8CjlMDBKVME1dPxRqc9y0/UqtNqR3zfiXXSWsIY04jMliSKCoGRIB4frbC9n51CSY8StHjk4wyNO/drP/w7EQGlALkAisxhToLKtrOaAVVm/Sn+LmjIMR44D5AecWTYcdh6OB3QEfFIH7pUPDKuDE+wGthU15DIaZA+GAT5uPqLVbRGePem89hH8TcE1Vqzz1+ibLrqGIjhFsszbHkZDch8uRnC/POWf7aEZRkVngnR+x1mUczFgCuB0ohkMWcN4rKSUPgfX+es3a4Ld1t36rRkVHY7Aw8grv5srgnMOJ7OoL5EmO61LMKm5jPouax0T1q2pORwnuMWdKmrd2eiNukkSMouLPmapeq+yKtQPKPtbmbCC3KePOJFz1Oar0BAHdGulyAozvmDMfIPERNvvojAr44BonHXAJmp4jC8JIzd8YvQFcbwsgSbo/TZYuEpRsA+5peSm8ZdA24RHraPsfgASx1tfTq57TpzHUvxRbS6838KVkv39V5nZ+thapBeQmtH7D7wi0OxfS3RHYHgF4g=",
+  "URL": "https://search.cpan.org/dist/Class-MethodMaker",
+  "LICENSE": "GPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1592735195",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "perl"
+  ]
+}

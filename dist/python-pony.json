@@ -1,0 +1,23 @@
+{
+  "FILENAME": "python-pony-0.7.13-1-any.pkg.tar.zst",
+  "NAME": "python-pony",
+  "BASE": "python-pony",
+  "VERSION": "0.7.13-1",
+  "DESC": "Pony Object Relational Mapper",
+  "CSIZE": "490408",
+  "ISIZE": "2789818",
+  "MD5SUM": "cb7e7628de8d9e679dc4527e79035a8c",
+  "SHA256SUM": "25bb3e5e9f6198735322a80836bcbc9ca3ec8cf557b5b5cfe3f09fa360a837e3",
+  "PGPSIG": "iQIzBAABCAAdFiEE0jW0leqs33gyftiw+JPGdIFqqV0FAl52WksACgkQ+JPGdIFqqV2dXRAAumsW1RtGZEB5x05JQIZha6hJTe30ZVkx1B3EJhJely4Yfjs/jZUY7wYVGDDij/wEdVCOyVQp8CrQGRCXkKsU8d8aJVm0v2pxZbO5lAWzlESM0ZWptD+yGRnrvshijbzrS8aHrdThv17hRXNovFnmuBQuNZKybSV6Nbq7Sf3fBmwaYcyeQT+8IrCO3CbDD31ydGhocTnUp58fYMm14hBDtd/pv1Cy0BYGTvJlg9yHhTqu/hme37JiO0uK5y6/Ub32sQNYe6vNcj9awI/bRue2nacXEUiMSAumwBj4GReBCmMD+RWTN6mvGpmwA3djtf4i2naCT3Xh2wZMAOd6P7dVsOthkrjdws7ipdViY42oGjoYHqUgamRFGYvlyOLkWZ1HUOwPNTLCuSLnpgOKmwDmBCQNdXxqwXuh1oNnGH24Wojjf50Q7wrdwtF1UHZgFUM4IvS9nVFgODY1CFIeUHcAqph2XKiK+kH7LbLJ9qS1/7JA4GzBCJlw5eBi4aKAG3zqJAiTZsWL1Z+zwTIw0COv31KY5/0rcyb0gm8a7FEOpTL3BVEWkUkg7NORbxnZTpHjUMiaLhNVMD3LqTqAQ83rAtUZ+c1pnrajw2TYUZMQi75n6GegNOEmooTTptg6DBEsErNAVyoBnFdDCCb4DLnPt25ybgxqMxOt75qZzWOaPEw=",
+  "URL": "https://github.com/ponyorm/pony",
+  "LICENSE": "Apache",
+  "ARCH": "any",
+  "BUILDDATE": "1584814624",
+  "PACKAGER": "Filipe Laíns <lains@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "python"
+  ]
+}

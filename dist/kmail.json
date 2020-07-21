@@ -1,0 +1,30 @@
+{
+  "FILENAME": "kmail-20.04.3-1-x86_64.pkg.tar.zst",
+  "NAME": "kmail",
+  "BASE": "kmail",
+  "VERSION": "20.04.3-1",
+  "DESC": "KDE mail client",
+  "CSIZE": "5168646",
+  "ISIZE": "17652840",
+  "MD5SUM": "52c43bd63477735832b606e758e584b2",
+  "SHA256SUM": "a73859f603c0264bbffc757a0cf9e4f45fcb9d99e8cfbcb871a5381c199962e8",
+  "PGPSIG": "iQEzBAABCAAdFiEEFRnVq6Zb9vwrc8dWek52CV2KUuQFAl8HIFYACgkQek52CV2KUuSXRQf+PNMLC4zu18kcTFKLjZ1K+Vj+W+hc4coTLef/tWugbCQ1ud3l3yz7YPl28nXFSXmedUK3KcPJz43g7aivVVFh9Iyf8XTNg4QAUPzE0/CSUnwSsTFJ0Tv5aW/zuarrIuYHOHSH+oh2uYqXxQaBxqa6QAs9P6VTe66EdYbOZyKPiJSbO6D3LSee437UsUYVrSfJRboaDzn9m/Gj1R92/TIKZT6MXPUjqEPTBj08zEqNZaMV/OtZwvhBKJsOeZONUFW55oKvczorc4p1fmzAcZ4zEJPW8truDB9Asrw7txO+sJYjEKCrgqfHFTIRE/djI2wy3+nSoszrVz064jzULATt7g==",
+  "URL": "https://kontact.kde.org",
+  "LICENSE": "GPL2",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1594122219",
+  "PACKAGER": "Antonio Rojas <arojas@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "kdepim-runtime",
+    "kmail-account-wizard",
+    "akonadi-import-wizard",
+    "mbox-importer",
+    "pim-data-exporter",
+    "pim-sieve-editor",
+    "kontactinterface",
+    "ktnef"
+  ]
+}

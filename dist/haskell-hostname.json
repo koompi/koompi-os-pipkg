@@ -1,0 +1,23 @@
+{
+  "FILENAME": "haskell-hostname-1.0-18-x86_64.pkg.tar.zst",
+  "NAME": "haskell-hostname",
+  "BASE": "haskell-hostname",
+  "VERSION": "1.0-18",
+  "DESC": "A very simple package providing a cross-platform means of determining the hostname",
+  "CSIZE": "8588",
+  "ISIZE": "17118",
+  "MD5SUM": "b418159d35c33e9e44b7a1f5d881ab8d",
+  "SHA256SUM": "1b716a127dfe984c6a77c335dd0e89a60403a5afb1754b2e13e359f26a6f366b",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl6heAkACgkQeGxj8zDXy5JtgQ//UR1eGqi+YvYjttAswI7ADOllnF+jDrBn7DC4jpumn4/aQ6A1+XZII5iIW2VqCfQu6S7XXF+hGUm1xyEKdsdKNNVsas/AJ/8Y9lFPNez6SPZQxvVG74coNPnBCGKQrllsEHW3058o3Ulr5LZPVK2Gok/xZb9Yj6liSEglXA6n5bJAhMNIu45MfnxrgtLDee7iyaM7+Jzk7cmtiqXGkbT/zOtgunRe51c4eRQmcrU83rnQinPNABltPZquYPIlDE9glyhDUiC3Q6Azg+s3pJJbUdbFBWfgLsAMJdPFs86nSFgK6fhiEHfJtimIlX2aMF5fo7c4MQliEbtrIIX1zNpRUAgT0TkqWWXOswkJqSq5IrD6HLQqtRS30AyKhO6+o7diKu6Dewl/E3nBfvSRm6BS7FR705wFu42Lrraac6cbdzhLF276Xdea9PidPC7JKTdbl3u4wQRxiFkaI2EneN77pjDSNpik4C3lgEHlhJGnNI9G60rZqwFh/DqQDh6snd6BZ0CypcKVVjVkc9Ayuc/ReCa+lenXcn6wiK549vZizFNN1wm0xSUmlrtm3J7dgdMs1YdCwsCxjisGAB6G0YhxmjPGa4WBpCpXfuwfwlyMpGJonnjCR6xdicWCsF26CBXRhGSwkduW1V6Y3E1j4VXgdhayyqqLIksYMhr5Iw7opYg=",
+  "URL": "https://hackage.haskell.org/package/hostname",
+  "LICENSE": "BSD",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1587640247",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "ghc-libs"
+  ]
+}

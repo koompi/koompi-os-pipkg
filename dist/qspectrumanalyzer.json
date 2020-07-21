@@ -1,0 +1,27 @@
+{
+  "FILENAME": "qspectrumanalyzer-2.2.0-3-any.pkg.tar.xz",
+  "NAME": "qspectrumanalyzer",
+  "BASE": "qspectrumanalyzer",
+  "VERSION": "2.2.0-3",
+  "DESC": "Spectrum analyzer for multiple SDR platforms.",
+  "CSIZE": "66752",
+  "ISIZE": "410375",
+  "MD5SUM": "79c9a85bfe4b1a0340957514773d8576",
+  "SHA256SUM": "3cf34cc05e96074f2a91295536cbf65895ffc7d3aca60bbc7a0efc02318d8445",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl2/9JgACgkQeGxj8zDXy5Lf8BAAnvYvKKKFdA6zVscbQOarxqi0l/LA/8pooPH4yoEVTun/ecEydyySvacNrxOE4ldhK782jEU2jMOqz4ZlMTMuYcAQGTY08hyCLuTrcJvXlC4aphgREqLe8eZHI1EexbvmFaT7l9KN2nne3xvYC/5F4JKKwkaDjXD6sN7794gn/TKcEQrOywVRWOPG0thmF7uGH1rfRRQN/gWCAbbWvLVLGi+iuRZofZDMxCLKoitUDbFWmAMsn1rXQXSjXONtAjbuQ0FZAx8Fuu36TLGQ/HY3RO6wztoqQE7MyHSJToH/nQbse6/hNiBf+qz6j22UcTEhkeh7qguITSVX2ju+87uguXHaSY4K7ss+JmHVz1Wazvm0SsoCC/BW6qADtfLn1aHDPChOXYcRJQW6iRvH1/xIOBiGOkAGiADaaA22IXx67FC+9SnDfvvtpx3ctcjyS3W5Ur5dFH+CdtTFfJUu3aKMSU/mYoggNY70kvA9L/RP3BPKoigZrMFVt0d+rGr2jR4FvzJAF52QBNs6RD1+dGDCFSzOpe1DiAj7vFLNIsY1+7xo7TGcmZ7d0YPW8YXUNIc56etPa30ps6P7dl1zpOmUphuRXT0K0Zs91Jg07OWSKWtw+7CEB/EpNhoiz7yq00e4xLMmt7nJfezhDvrilzzbhU5tTNAm6ri1DKE89zidp/4=",
+  "URL": "https://github.com/xmikos/qspectrumanalyzer",
+  "LICENSE": "GPL3",
+  "ARCH": "any",
+  "BUILDDATE": "1572861027",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "python-qt.py",
+    "python-pyqt5",
+    "python-pyqtgraph",
+    "soapy_power",
+    "python-setuptools"
+  ]
+}

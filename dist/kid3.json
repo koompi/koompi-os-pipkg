@@ -1,0 +1,26 @@
+{
+  "FILENAME": "kid3-3.8.3-1-x86_64.pkg.tar.zst",
+  "NAME": "kid3",
+  "BASE": "kid3",
+  "VERSION": "3.8.3-1",
+  "DESC": "An MP3, Ogg/Vorbis and FLAC tag editor, KDE version",
+  "CSIZE": "72839",
+  "ISIZE": "177613",
+  "MD5SUM": "c0d1cf056cbf320991811e297ee1fee2",
+  "SHA256SUM": "d4aa716fc1822f031aa7c53690484ddeae4e311a9651b4a6dfea2640a56f8cb3",
+  "PGPSIG": "iQEzBAABCAAdFiEEzgvecadZqH8j8PfYth284QkBwWMFAl7zLmAACgkQth284QkBwWNzWAgAn8U0q7yDT9MkRBIi//K6ne0bEgKSoDm2I22GE+1o9d4hbIbu/dvjJr6Zm7sk3ukbNYF7YvV52V1Y7d7zc4dbIO4ytnIBF3cQ4gmLgunMktz42LqPlShb1IAiYS03Yj/TMMkk129Hpw2CvbCfdXnYIBqRmd0tgTXaN6UnIYXgubszgN5ZdEBG54306JyLkD/ImqnRAtmMfMtlMVLop0bBYfnq1NJ76YNkMMWlOS3FuI8kwXnC1HEG3PdtOd8FSVM3GQufHAZcsmQ7h9at09DtsiYRtBmwBBpZ62luPqMl3nUWSY90QIxZfuuoUNEqrxE/nLoD+haX923HtfgTgvCWqw==",
+  "URL": "https://kid3.kde.org/",
+  "LICENSE": "GPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1592994667",
+  "PACKAGER": "Balló György <ballogyor+arch@gmail.com>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "kid3-common=3.8.3",
+    "kxmlgui",
+    "qt5-declarative",
+    "qt5-multimedia"
+  ]
+}

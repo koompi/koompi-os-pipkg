@@ -1,0 +1,24 @@
+{
+  "FILENAME": "python-pip-api-0.0.14-1-any.pkg.tar.zst",
+  "NAME": "python-pip-api",
+  "BASE": "python-pip-api",
+  "VERSION": "0.0.14-1",
+  "DESC": "An unofficial, importable pip API",
+  "CSIZE": "189341",
+  "ISIZE": "1115811",
+  "MD5SUM": "2905199213e8f5818d3132d53c7cd925",
+  "SHA256SUM": "e2beb02ebe3724c0c59bd54895f2f8ba181138d6bf6ad3b506e25f411fed01a2",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl53TnsACgkQeGxj8zDXy5LRXg/9E0qykWsZxN9cWRr0i+24lWd1Ae/KGpHfP09oDLP6cGXHRlPaK5cK/pIx7g6bOCdR0O8q6fDjMrRTH9wyGUPQCM9AMEtyDKgw5uNzGWzEJZ9yXUPmGfYAL7tmzpbOATTlhYXHGC6XW9+d0bAImqvpWNUcJ598v0JMcIgcBH7ct+qjWZketm0olJ6CsZdunPqO40cEN4zAiKYIJt3nf59jdiFCTXt9Gh7ZQBdWe3YN47P2uUhcP5Zfl99d/KgZhmBIbI9YjDe5ApI74dSnz4EMG6Bh4ZcKEzyFj+n2T7f5pLD5c++5BlpXGNn5GvscXwBQ/rOP+JBNnAKtiMB8vv5xqSiDgDZsuuoR4G/t9U0D48XlMFh0JM8uVNY9OEpaCarQrM1TMCJ50gOi9lhFeGRWYNAZh+Gb4Y2y3DvA/t6EKdix8NH8ogQ6Vsu4qFGxw7gz01tzFkDBgoYjtGinpiI7m66FeXWldJkAjhZfjxj75UvWnhkO+jbbLMYsVnIrJoum3Pl2vj7yQmCnTDbEiqfQPlfhyBD0iFZVZ00Xks9cNW/AWtPabt4XRDpi4TTZ9YPlSRCeN/ZnyOpbcmbiBtdmU0D+epONqT6AeQDus7WxNg1GdtKaJMxDWghavu0x3qL6v7bvnBiGMJ1oG1x75pwZ1qS9Ak+U7lUk8Gs6+BO4tMU=",
+  "URL": "https://github.com/di/pip-api",
+  "LICENSE": "Apache",
+  "ARCH": "any",
+  "BUILDDATE": "1584877126",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "python-packaging",
+    "python-pip"
+  ]
+}

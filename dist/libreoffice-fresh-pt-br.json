@@ -1,0 +1,23 @@
+{
+  "FILENAME": "libreoffice-fresh-pt-br-6.4.5-1-any.pkg.tar.zst",
+  "NAME": "libreoffice-fresh-pt-br",
+  "BASE": "libreoffice-fresh-i18n",
+  "VERSION": "6.4.5-1",
+  "DESC": "Portuguese (Brasil) language pack for LibreOffice Fresh",
+  "CSIZE": "3262832",
+  "ISIZE": "23377887",
+  "MD5SUM": "cf1b5cad8a399345fc8980b50d8481d7",
+  "SHA256SUM": "953c112693a39d80bc1dc70ea9b0f250328515b3697acf2e78b010e5572d6bf0",
+  "PGPSIG": "iQEzBAABCAAdFiEErcih/MFeAdRTEEGelGV6sg8qCSsFAl7+FzEACgkQlGV6sg8qCStCJggAjonJRG2KN6i+FCJ620Ex110lsR97XJM91JxICMEyDDLzbxrhxpYe336JFsXkamu/Op1Re+PRgKwE1YsJE375bUHMgwHu+QYv+bdU/TquDYaeQ7MnQWxS5h+X1HsCe3W4P1m0Kt8ZOykz59xuFyTT9SKlYgqHQhE8Ejuj6wkNC/whF70fxnyAzwpDT8FO08b+9yUmacp5aPcBcJ+Ys6d8Yac4Wl2DeFenKUzBg9ZIIor6E39YwQNy5mf90i+Kb1wU4DeBwrS+EAavcGMc7vCPslpDjLEb4Ix4GDfm1qUBD6SHgTFs9efa8LM9Eec9XUYLOJSu5fiDYHzUVCoE4GAOlQ==",
+  "URL": "https://www.documentfoundation.org",
+  "LICENSE": "LGPL",
+  "ARCH": "any",
+  "BUILDDATE": "1593700315",
+  "PACKAGER": "Andreas Radke <andyrtr@archlinux.org>",
+  "PROVIDES": [
+    "libreoffice-pt-BR"
+  ],
+  "DEPENDS": [
+    "libreoffice-fresh"
+  ]
+}

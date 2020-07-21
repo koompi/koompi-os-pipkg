@@ -1,0 +1,24 @@
+{
+  "FILENAME": "python-jupymake-0.9-6-x86_64.pkg.tar.zst",
+  "NAME": "python-jupymake",
+  "BASE": "jupymake",
+  "VERSION": "0.9-6",
+  "DESC": "A Python interface to Polymake",
+  "CSIZE": "9566",
+  "ISIZE": "19242",
+  "MD5SUM": "03ba93984c1d7cc75ba22dd878dcf28e",
+  "SHA256SUM": "8a5a465d5e0c7e627fa172d496aea8d7b3b9e746cd645885ab57266f0672b4d4",
+  "PGPSIG": "iQEzBAABCAAdFiEEFRnVq6Zb9vwrc8dWek52CV2KUuQFAl7nid8ACgkQek52CV2KUuRgtAf+P26fh46ktlez0OdqtSbfDMSgcQk9wdM01dxBsCfgc13NI8xSyc1C6gbVOEoaZUtBwR/Dd8ypu9TijsKaC9w4cW51s+MfZmLmmyovwwwv9le8/qIkk83jmczLmOecZstQ4KWtZqFjRh3ZkJ13kQItcQySagHVYY/GiqHbCDHhgQczaYTgPr1P47GdhrU1n0AkhDcbram8nHMDylHNDbaoMS8kcZfRPR3sW0BBalISG0t090K93mrJbzhIWKummQus5KoYqSTsHj6CAjyIZCLYLCdv4qcL9xKWozHX6jAiRVx3DIZa12z8FNLBykIvzztQ71OJfVmUkczuGQ7dFe4wVA==",
+  "URL": "https://github.com/sebasguts/JuPyMake",
+  "LICENSE": "GPL2",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1592232313",
+  "PACKAGER": "Antonio Rojas <arojas@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "python",
+    "polymake"
+  ]
+}

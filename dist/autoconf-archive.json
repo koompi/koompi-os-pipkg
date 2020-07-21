@@ -1,0 +1,23 @@
+{
+  "FILENAME": "autoconf-archive-1:2019.01.06-1-any.pkg.tar.xz",
+  "NAME": "autoconf-archive",
+  "BASE": "autoconf-archive",
+  "VERSION": "1:2019.01.06-1",
+  "DESC": "A collection of freely re-usable Autoconf macros",
+  "CSIZE": "545340",
+  "ISIZE": "2318336",
+  "MD5SUM": "76d5c59b7af790e59e136d840b587ee7",
+  "SHA256SUM": "63cc117269f7f1b9e15e66c78ebe924f9c459d5861eaea1d6181e6475fd671ec",
+  "PGPSIG": "iQIyBAABCgAdFiEEYEETBMCdNmKDQO7/zrFn77VyK9YFAlwzolEACgkQzrFn77VyK9Zbwg/48EohmVmlZAB+wtHSHPG+kWvd6qjjz2SzyeWY4v1evnNMp2qJ8JgdBMcqoPUWSOpwKP131pELR1+r0VUc/pYxbmFkiJPjyP03uHe8VH4o+3icR3wHid2AgZHnpQESBWcUUHxvd4V4CVk7ciILuh14vOtozS64i6Z/WqqEihMvUG25SPjFb2gHWJSZ3MV3PMDz7GmhQG+sMB9tzuWMMKBG4ijctoI3e+tdoXjhRyCUdzIDbjkcxY5ukB12iC3ukqGd+PyaBxIA4tvciSscL6emHyF3az9MrTErNqXAq9vW8KlQMufEYWzRPgVuCDNluiXNbJFAt1veaSepeYbtkP6B9V83Mx+6LAQLNdBg+XG8Jg73Cb4gaOUJYU54KgUdzrhKzq87UjfyWosbTzbrY/ZTDOieW/kSnqmPlaQQzyt8So3Q2Oj73zrMmlGmHEqNjCCF3fXYRsFu3raCIy7WlXy4rhuNjYL23fKXruw5xPPKG00OufVSFh275lhKWu/EF8GSYhBa0WNpt/5ML0uDnZ+ah4K3VpD+y+yU9sfVuH2DSGebXbGXys0NgvvAy/ScQtZSLxRpou0WwTkiPy6s+UCbKEnUycwcPuMbSHCg1Bz2/ICyfDhjOZq5xvZpUruupcXCpXuOeNR1kTPlEE3eEzIeKdMIJJJh7KL6XswH8R/x3w==",
+  "URL": "https://www.gnu.org/software/autoconf-archive/",
+  "LICENSE": "GPL3",
+  "ARCH": "any",
+  "BUILDDATE": "1546887493",
+  "PACKAGER": "Eli Schwartz <eschwartz@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "autoconf"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "FILENAME": "cddlib-1:0.94j-2-x86_64.pkg.tar.zst",
+  "NAME": "cddlib",
+  "BASE": "cddlib",
+  "VERSION": "1:0.94j-2",
+  "DESC": "C library implementing Double Description Method for convex polyhedra",
+  "CSIZE": "818718",
+  "ISIZE": "2975143",
+  "MD5SUM": "bfbde8a05cc2a0ca3b15456fde7479e9",
+  "SHA256SUM": "9b038aeb0bd2e719adac6a4c264a276f64e8838d7e4f5a0836fe30a8bbda57ee",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl8EdSUACgkQeGxj8zDXy5IlIw//dWnA8yzMuGuBZ6dARPkWq0ys32XaLz7ndtDtZVVFneiJkeDghde18iQ0Hb7gnkLTPCnlaGK9EAYciZxP0kz53dP9b9EgAWoakoLmnBtGqdUhy0rWWETmTuZXcpImQXXEsiG/EkCLyp7t/+p4D4PORYXCd51omYF5EOiTE7YOebxUOcAr7KHLv//AubAIRTZ5CSumK8yGY8FseTKf9OkSJcNkJZRmxebLFRy7vXFIUg2mDmZfyIbmclt2ALdEo+2dnx8AcTV2FNCSa+KnLayviDFkZYF6XNoPoDu2rUDopwa+4bw13f1TGE1K1NZyEgN8hTCOK9aVHho28Y/wfP312gt0EWHdLKNDjv1wLN/MMQh93SBM0MkAKYYUk4DCQCXyxfsLBAImmOYFd3aPK8FT+l/ELvk1LWM8Xa5rpJ7X4HaxNerITDfpuAn716jdqdZa0zrCalLVq3cRAqan0MUDYwxmlslYgDz8M72J7p4H474cGuUy/JVoWX1smNBm8Zaqr6Z1Mg6Fw3XsCbsTqZ6lko53aTRUjTFl0bP1kW6tuTx0xqRQ9OosIghnc5KMiniC3OQOmzmVES0b5MBc1wn5aqxAUNvmSd8Ud/5JgnyJyfMn+TEO3fME7zcKRSmeauOT4DO1j9XUwTxeQp6AB9VEgxBs7wUYcns1fSuHzI2tyXA=",
+  "URL": "https://www.inf.ethz.ch/personal/fukudak/cdd_home/",
+  "LICENSE": "GPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1594127620",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "gmp"
+  ]
+}

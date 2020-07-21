@@ -1,0 +1,28 @@
+{
+  "FILENAME": "xine-ui-0.99.12-2-x86_64.pkg.tar.zst",
+  "NAME": "xine-ui",
+  "BASE": "xine-ui",
+  "VERSION": "0.99.12-2",
+  "DESC": "A free video player for Unix",
+  "CSIZE": "1582141",
+  "ISIZE": "3121766",
+  "MD5SUM": "c4536a702ed1216d8402fc44dd9d5ecf",
+  "SHA256SUM": "a89298bbf8d297e292c60e797442c04e2c5c4266fb76d804d5695da86a7b13f3",
+  "PGPSIG": "iQEzBAABCAAdFiEEhs/8qRjPOvRxR1iAUeixSKmZnDQFAl6/tq0ACgkQUeixSKmZnDTjOgf9F95+6DmgoIYW81tX9yeIauH7/K0d/qaNr1ImMZWBARRaTO/BX2oaKi0T2BC4Uu/uDmWdbtHF/13KGM/a6kMiU65HyZu7P1xKnB1J9ZrvLN93LCAVo4HPVB5xIe3x/8fMdc2vhgG342mGN6CnbIy0n4Jd2dhLZsG+ne/4VRf96Geq63QETA0pFtafX+9nj651zG+etJ1PK0DoT4HXqKbeuN02ftcjtAGD9RNz42lnwy7reOtdmqK3dopd2wElms+HXHvtVhibxZsNwQprNU5NzNLRcnvdgKqneHdsyojSI1ivuXA7yASObjePeVsNXIC+7uNlF+OKIIiUPRb97PdJpA==",
+  "URL": "https://www.xine-project.org",
+  "LICENSE": "GPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1589622347",
+  "PACKAGER": "Evangelos Foutras <evangelos@foutrelis.com>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "xine-lib",
+    "curl",
+    "libxft",
+    "libxxf86vm",
+    "lirc",
+    "xdg-utils"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "FILENAME": "libreoffice-fresh-pl-6.4.5-1-any.pkg.tar.zst",
+  "NAME": "libreoffice-fresh-pl",
+  "BASE": "libreoffice-fresh-i18n",
+  "VERSION": "6.4.5-1",
+  "DESC": "Polish language pack for LibreOffice Fresh",
+  "CSIZE": "3335245",
+  "ISIZE": "23059046",
+  "MD5SUM": "74187c655990b36edde72020e25a02a0",
+  "SHA256SUM": "a7ff21c4e042960489849deb7ba9126e98c84cbfe8312743ddb2004c48cba892",
+  "PGPSIG": "iQEzBAABCAAdFiEErcih/MFeAdRTEEGelGV6sg8qCSsFAl7+Fy8ACgkQlGV6sg8qCSt3DQf/VfUE3ftmRYWpAdFKrxs8cxL0+rZD/SLlEdo0wQ7vnPEvoTIZs2CLZFH6FGpkhIHi6aUW4/UMdcY2x6k0B+yO8QtUHxgXVtgNVTbI19Md+yy21ZZoOwsFCn7XkBYv3W3bbpkFWCrtW6y+ql4f+kAmg7i4UENgf7oDBrl9wlzoeUuoiDRI9PcZ+hP+UBV0DboMtWmlzcWUPwhuwOjUob8Nh/m5w4pT2o6KRzjm65n7D2LNyMuT3SYFv+/Vs1nFldga50Yzlz3XkSQDiDiXsRX26adonWwI6/sOSONGk3XZTR2CzATqPzxSJK1GHCYXOHxo1NzMK+xtt4fmiLpYit+y9w==",
+  "URL": "https://www.documentfoundation.org",
+  "LICENSE": "LGPL",
+  "ARCH": "any",
+  "BUILDDATE": "1593700315",
+  "PACKAGER": "Andreas Radke <andyrtr@archlinux.org>",
+  "PROVIDES": [
+    "libreoffice-pl"
+  ],
+  "DEPENDS": [
+    "libreoffice-fresh"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "FILENAME": "texlab-2.2.0-1-x86_64.pkg.tar.zst",
+  "NAME": "texlab",
+  "BASE": "texlab",
+  "VERSION": "2.2.0-1",
+  "DESC": "A cross-platform implementation of the Language Server Protocol for LaTeX.",
+  "CSIZE": "9735409",
+  "ISIZE": "37996661",
+  "MD5SUM": "c44e5fbe0294a709a8fe812ae6e39f17",
+  "SHA256SUM": "1ffd04478e8fd8bfdeba05f7df085c1a1997564837381e70b7a66a76d5541878",
+  "PGPSIG": "iQEzBAABCAAdFiEEU1nMa+iBGLUfXJC1YH21X/cbcFIFAl7P6kkACgkQYH21X/cbcFLcfQf/cozwctoTUX0s8434wUxrCVsaHlxDRCwN3povc28mmu9EReaXoK6quoY4+oSWprdq3dRHEq9MwbUBJR7oh3ECiQLoxhlE4WzapN5ZOCXnXTE1U8lxRyedJiT4i0ZC0fGYF6WFoL9+doDaTbzia61VP09PZ5CmoVsD9tElT6PGxss2Zu0paaX/odqZLOyog6pwGmyOVap7t1UbgNpteXfx4qiBpX6dlOAAMRJeoI9WbP10GSUFUT/NXrhTZBmAnPt4BZMwWidoNMiyEKW1EMM7UHgmDHzHc/VUiMJVLZkYnMDywUEw/5w9/mrPFc729Ohh1FeFsU0g0qgL30cWl6UNwA==",
+  "URL": "https://texlab.netlify.com",
+  "LICENSE": "MIT",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1590683738",
+  "PACKAGER": "Konstantin Gizdov <arch@kge.pw>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "gcc-libs"
+  ]
+}

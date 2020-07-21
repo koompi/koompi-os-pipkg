@@ -1,0 +1,23 @@
+{
+  "FILENAME": "haskell-syb-0.7.1-5-x86_64.pkg.tar.zst",
+  "NAME": "haskell-syb",
+  "BASE": "haskell-syb",
+  "VERSION": "0.7.1-5",
+  "DESC": "library for generic programming in Haskell",
+  "CSIZE": "88662",
+  "ISIZE": "455872",
+  "MD5SUM": "ad529abd66129a647b55b1cd6538eeaf",
+  "SHA256SUM": "7c3d96ffa830c1cfee4634a75ccbaefcfe7206a2b329d854f93b7b38b087ce63",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl6htF8ACgkQeGxj8zDXy5JnZw//Q/x++zxYgxkMvK/+JPbDzGDvb9hs4GDq2s0o8CAePmKXnQBdvYmYJ+m/o8vRGm6dWwuhN31zkZsPHxL2tUVFIZDvXenm+AchMIBnMnM3l9S7pAwRjHgYRIl1eHBc1vsGNc9zOWNGnUIdhVZV9XwepPUqo83xfD64T7H3mxwkr13kFzoD/ew9ErM7AsW6A/IssmIHxDWqYv4Ifr1FZr3aIwi1TCqDLakHhfUsxuVszidpAJNuvXSjzmjxQzfuc4yh+ON4Uru9e2aKeN0JY4JMwDt6YPGFiu4H4O51WXtJZuNCT0CDMmCkuZp0pg3avpZNLKFjqpYP2TdRkt13lgqhfuto4F7aVMhqy71t2QH5FyuVGcN1O3os1uiA537LoP1Ev5zaZOOMKJXJcqpAih9y4c4FFTuLIrYkdj0LyOfNEG6+QQyKXKaU7Tfk3zqv6DzrGAgFkmMfKnysyt8zZjUgGC5HEqh/h1S97EkrkrxNUWekB3iaEiQkwO2ROd6x1plx5ETL0eKMDoKgWBAOeuPfD7T2zz7JMzShNRldQXACU2j3OHfdvFtxfXLG9CgWbnkgn6JLTh30RVTqiJgc8nc9t255xzu45wdd+NyB0Bff3pBhe8lxqUm9Qr0vjg5pElPrYtrmWyqWJye3LgRW5Q4nZKkItOrEJSoNVklf93UFVfM=",
+  "URL": "https://hackage.haskell.org/package/syb",
+  "LICENSE": "BSD",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1587655683",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "ghc-libs"
+  ]
+}

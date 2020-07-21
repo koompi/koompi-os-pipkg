@@ -1,0 +1,23 @@
+{
+  "FILENAME": "perl-object-accessor-0.48-6-any.pkg.tar.zst",
+  "NAME": "perl-object-accessor",
+  "BASE": "perl-object-accessor",
+  "VERSION": "0.48-6",
+  "DESC": "Per object accessors",
+  "CSIZE": "15920",
+  "ISIZE": "28894",
+  "MD5SUM": "855c352529abe6fdf5ca28ab30e313c1",
+  "SHA256SUM": "e8fd9634045f6cda1cb1dfb21bc4c69bc388dfb18a89fec832163d190a88acbf",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl7vNFoACgkQeGxj8zDXy5K4Og//TrJibsRtbKYykD3NDIW0n90qJ5ORqRH2CHet7FwkMGASJjMyl9OwCcnlAu1RtjX0SHHoLkU8JnZgul1O868JxUKp/ZTeyrNgYyn+SqtT148GzhRbEhIzil5jscpggumjv33at9hRUB2VnNfWCR21uOMWI6wAdznofsXNQ8i0mAK2pT1UB8opkhJYpJAz5/OzAkpN9/mEU8XaYA67GNWXMHSa3ekzoLpXyTV9LlD4hDTJn1BpX+xGQtQ2WnzaMLujWmWY3p1vxDwfdqPoJ17vpxWv8kt0jPOMGfgY0blzuNfbMEnKHXOKxkT70zM7CR7N8Kd9bnnkHN53Ik2qaMST8+cpzD+R4M/PlmptX/VPe5rsXOnfHbCPaVGBPcDJny4G9dD2BVOI5cofEiNnXz/MCFw0LKD3KGxUTnTZ4Pk57ceiEoBFkuWEyaoQhIpnpDxyWkJFWwNeb9DC77ZTc694JdtgPynwEV3UU69u5IaYHeIy6Cc7VVoNkwvH4/U2cjheHqAYNBxEA+5ips8jqZpfoV8J/MOU3U0RRh6FDn72UqAYNTf57t2H5pG3p9BtZNW8EEEpB2Dk0TigKCBwm1pXwHgvPtW6/FEe74UagQtNY/gfJBfApAzmZCeNf5rZAu3hgCJSflfwSelL27JF9NSJbj/AdR08iqVbNHHSqkEw+qw=",
+  "URL": "https://metacpan.org/release/Object-Accessor",
+  "LICENSE": "PerlArtistic",
+  "ARCH": "any",
+  "BUILDDATE": "1592734608",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "perl"
+  ]
+}

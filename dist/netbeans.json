@@ -1,0 +1,25 @@
+{
+  "FILENAME": "netbeans-12.0-1-any.pkg.tar.zst",
+  "NAME": "netbeans",
+  "BASE": "netbeans",
+  "VERSION": "12.0-1",
+  "DESC": "IDE for Java, HTML5, PHP, Groovy, C and C++",
+  "CSIZE": "311044739",
+  "ISIZE": "719787992",
+  "MD5SUM": "16dcc76fe5045591528ca272026867f8",
+  "SHA256SUM": "19eb76fd60cd42c2c74e67926fccac78eb7f5beccda8068cc355600f30f534cf",
+  "PGPSIG": "iQIzBAABCAAdFiEEkDurc2QOttZVM+/zRo8SLOgWIpUFAl7ez+wACgkQRo8SLOgWIpUQOBAAhkrF2i+2HDkIo6NAIWM1yLpK6Mf8QvNvxOr/2vwr2AHjR/CvypZQVatqLeXE8RlK+9fKy3XI6e9OlLQdeFZghDdGrLA+q854e98wuPLbc7hL5EhWyJxw/2f3p86DK7aanBYyKnq0SCDWu4Mje053LNAjXR0r25EhFKtUowdsNUgNv9rUDhNXqgF/PxqPXtwm7megnyFm7cEF3dATGSNxqZ6suH5IukSt26ctRWwwbhUjWirZt5bW5fGBp46/lLQ+mprcIubAexwNHZoltLaH+yx1bOa48UdmRm/3+yD+pnotPnWZxJIounj/cumLzRzlsDzQEvSH69hunT60EzdepKRvSIuaW5i7xvqnD6mOGFOvJqZmqpURp5TSUrRUk+qkmUFvftmbFMl/XkGAx8fDw0TtxhX8G/aQdYXw+wEJ44habNlYeTOrcPjlXXQKYV31O7QqHGY7POtFW/+3OXTpCTh/fKnIvy6EXw0pEGv0Kg8vnopuGQdwM96LCdawCmhh6p0Jc44f9RLsVYmk+Ez+417AtS8wPTPxuVMOjS6JSjXuAZPeQlR+TiLOWAoqp+jH+qhEkHdoPupXA53vqk1AsZn6hzMQswkY9TMpEqKRxBmzFHNFqH0QnFCpos+ZBpdULv1+DYdAucljp8V0UCc6gDLmkdLvv1M6cP8DEDqUFZA=",
+  "URL": "https://netbeans.apache.org/",
+  "LICENSE": "Apache",
+  "ARCH": "any",
+  "BUILDDATE": "1591657638",
+  "PACKAGER": "Santiago Torres-Arias <santiago@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "ttf-font",
+    "which",
+    "java-environment>=9"
+  ]
+}

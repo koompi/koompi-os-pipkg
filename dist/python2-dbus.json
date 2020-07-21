@@ -1,0 +1,26 @@
+{
+  "FILENAME": "python2-dbus-1.2.16-1-x86_64.pkg.tar.zst",
+  "NAME": "python2-dbus",
+  "BASE": "dbus-python",
+  "VERSION": "1.2.16-1",
+  "DESC": "Python2 bindings for DBUS",
+  "CSIZE": "105732",
+  "ISIZE": "599632",
+  "MD5SUM": "819eefa14c926efee9fcc925bc80fb55",
+  "SHA256SUM": "8b14324b1348bff81f182e2a9c9f7f34c14ad0647e951562eac6125b31f7ab32",
+  "PGPSIG": "iQEzBAABCAAdFiEEFRnVq6Zb9vwrc8dWek52CV2KUuQFAl40rYwACgkQek52CV2KUuQCFQf+OBgzkl/5Jyjz/i7xXmcVVk/tVl8OCsPM37dO+5dvpEVkBkxXMT1Udx6Q2tiegDGL6mmPzoJCRNj7IC3mnfqDYHH1DoDTLbTDzS+wSNAAa5E44mi1bNh3p/6gFpIr931ejBiWUTV+dSmocS00+PJitaS14DJ1iIjq3kKE0CkDw7kcM+VsPgnzrTf3y6rYYgU2dHTImKRTRAPXLFqmIyKTavu+ZARO5sPKWACK5ztnxLfDiepRQATWWWGYdkAf6HWZM7VL0f4ztOTYWcmo5nzBp0w4YrmyikuA0opNCT1iXYQ2CKUL4/mG7HLZljYCKOdjvpcoj4upbfPfP9muYdwV8g==",
+  "URL": "https://www.freedesktop.org/wiki/Software/DBusBindings",
+  "LICENSE": "GPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1580510476",
+  "PACKAGER": "Antonio Rojas <arojas@archlinux.org>",
+  "PROVIDES": [
+    "dbus-python=1.2.16"
+  ],
+  "DEPENDS": [
+    "dbus",
+    "glib2",
+    "python-dbus-common",
+    "python2"
+  ]
+}

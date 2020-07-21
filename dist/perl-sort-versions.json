@@ -1,0 +1,23 @@
+{
+  "FILENAME": "perl-sort-versions-1.62-6-any.pkg.tar.zst",
+  "NAME": "perl-sort-versions",
+  "BASE": "perl-sort-versions",
+  "VERSION": "1.62-6",
+  "DESC": "Sort::Versions - a perl 5 module for sorting of revision-like numbers",
+  "CSIZE": "7410",
+  "ISIZE": "7168",
+  "MD5SUM": "9fd41d2f7771095cec7b35808e9a0dfe",
+  "SHA256SUM": "3b48fffb4d9d4e95c0f9943cf862141a4977b809c9e4ed69917ea0e062d74587",
+  "PGPSIG": "iQEzBAABCAAdFiEEhs/8qRjPOvRxR1iAUeixSKmZnDQFAl7vM7wACgkQUeixSKmZnDS5pgf/ZKdUZhv+35KfqwYl6Pm5fA9qHyy+T39TnLi6O441528E3VVT3z1R3dZ7hryzsAng9f2eBNQW+T/aobcd51NoycZ/JqnrCN+YDeKLNIjam7fp8I+pD7uFxNdQwCAaREEA0XXCXAXJFJImT+yDRQPFgU8kVsKSaswAsTbLQknbastj2dE4+FPyX2SpTrP0o7wUP6NdwZ22VfXgxPfnR2gpzQx+nwIXtLb1Y4j5nMG9Q1fs6tnEhOcfIlYG5L3SPrjzuCZw+IS3felPEG8T5rJgkxkV2E+K8ZsBvV5S/+YoGHhh+WUpfVF6qBmm7U5M3YhRU7R7O5bMg7gB202VbECTqQ==",
+  "URL": "https://search.cpan.org/dist/Sort-Versions/",
+  "LICENSE": "GPL",
+  "ARCH": "any",
+  "BUILDDATE": "1592734636",
+  "PACKAGER": "Evangelos Foutras <foutrelis@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "perl"
+  ]
+}

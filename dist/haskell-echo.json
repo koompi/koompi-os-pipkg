@@ -1,0 +1,23 @@
+{
+  "FILENAME": "haskell-echo-0.1.3-15-x86_64.pkg.tar.zst",
+  "NAME": "haskell-echo",
+  "BASE": "haskell-echo",
+  "VERSION": "0.1.3-15",
+  "DESC": "A cross-platform, cross-console way to handle echoing terminal input",
+  "CSIZE": "18991",
+  "ISIZE": "59828",
+  "MD5SUM": "3de67584a849b050424bbdbac469ab64",
+  "SHA256SUM": "9589a35a18e1792b39d6ab24cb0160b5dc69b304aa825100e451e50a13b3ab7d",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl6hdHYACgkQeGxj8zDXy5Kvtg//dzwqNKfsfxFZlHPoIyKWzg+lV6HvS8YB8M+PQPywhST8SKnVU9X+KH6ZFgXgKfFK3vvR5nR7zbqTHKSRdMEkhITFoWtQIL3PC9oeyESLPDNkQCOGF+RO0FkdPoLbpVOj47k4v5nEJdFo0K0BlwwaJ3PAFqWzmTWwK4f96OUFZyL4TPzaMH0iOUUGXgcqbFBFC7Q/qcvAEygTy0xViZVkkLudAc6RUppdueQVJJQqpeYU68QMstVOcr/gyzI6vubqW/6bV1ZIeFAcCrlWzs/5ycrYl3lHDSb4/KnnlNEHXSufQ/43Bcnh+TIpeF9AviGD4eddv3fTzy8/Afc1zJRVWkgduNkY2SRQJ+g6RGn9LDC38svjt9NBFtdW6v9xKf5VUau1/3KrKF8iZ2uAYwOeeSIPow7Z/jPnx09ILF8eAnmxp7Eu8wiD3O6BT5C9UwZYa1XWaVM7giVCpE9b0hx/21/yt4/vdUW1Krif0a0a+BCidJFdA/+BJ+9Epz3nEhcsM6PEORmTEAV0KYYc1nyRdGWmS2unh+oKXiLfsbbSae0k4lnumfw9nviygys+JOBeHRYizyxdj860DRPIrRvuFON2DHWshxXExGoVlIaMRpELR57XMgGGDCQkHDH7oPNCXmsU25M0kFvISCREa1sGAZrvuNEoX/pTpvFykEe8R/k=",
+  "URL": "https://github.com/RyanGlScott/echo/",
+  "LICENSE": "BSD",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1587639324",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "ghc-libs"
+  ]
+}

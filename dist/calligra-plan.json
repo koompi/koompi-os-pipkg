@@ -1,0 +1,30 @@
+{
+  "FILENAME": "calligra-plan-3.2.2-2-x86_64.pkg.tar.zst",
+  "NAME": "calligra-plan",
+  "BASE": "calligra-plan",
+  "VERSION": "3.2.2-2",
+  "DESC": "A project management application intended for managing moderately large projects with multiple resources",
+  "CSIZE": "3779019",
+  "ISIZE": "15201019",
+  "MD5SUM": "874bdc9f6a764b45032d8b935fc8cc42",
+  "SHA256SUM": "9123c1bff334a97ffec2febbb028ea96067e17e937b51e8c540f831ea1b647b7",
+  "PGPSIG": "iQEzBAABCAAdFiEEhs/8qRjPOvRxR1iAUeixSKmZnDQFAl6/70oACgkQUeixSKmZnDTE6gf/RvFOINgIvFg2fsmz3b7MkhwpLtVU0vu0+fU96xLWxNgWQDRhqtEs/Iz4z85/cmNaONdc4tgO5Nk+OJ6Kv/8iolwm4gtM+Wo+Eeb7gl0wI4ye0fCYroPiYvrOkEsMM7tg/nSQGqekGsmQka2+7pltjljRdBODQ+RYfxeCOSuTXHDGmgqyC6d4050UHPOusDm0wCxfakxtm8APbK4cpsztMJPSChOFLmQej5rBJFQdv+jw45fYGt5YFvsGPwVGtpKybi+7iziUZnYk8oabh/u7fr9q3aJcoH/JSv9rEkB+Y8A1+Zr2+wOPw4lzOrwKTvpmFup1Gs2SNfoRU55Jwk9yBQ==",
+  "URL": "https://www.calligra-suite.org/",
+  "LICENSE": "FDL1.2",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1589636802",
+  "PACKAGER": "Evangelos Foutras <evangelos@foutrelis.com>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "kinit",
+    "akonadi-contacts",
+    "kdiagram",
+    "kactivities",
+    "kholidays",
+    "kcalendarcore",
+    "khtml",
+    "qca"
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "FILENAME": "singularity-1.00-1-any.pkg.tar.zst",
+  "NAME": "singularity",
+  "BASE": "singularity",
+  "VERSION": "1.00-1",
+  "DESC": "Endgame: Singularity - simulation of true AI",
+  "CSIZE": "56977127",
+  "ISIZE": "60798455",
+  "MD5SUM": "2a902e23954f11b2aeb819998b48e612",
+  "SHA256SUM": "0efa618df57875bb2d7c21f089f4bab9d5024ada5eacea0518df2d74def0c483",
+  "PGPSIG": "iQIzBAABCAAdFiEEj8FaBklQqZ3RvRTdOeS4d+YuuRUFAl7+OIwACgkQOeS4d+YuuRXsXQ//VvedG3T/T9P4zZ2+l9ZJsxw8wEfBm+196PHoWvzZqlMfXpAx0EcpPmGo/vxkJKd43KAyWjMHqa9eKmizgPETvIv7EfJN9D4v3hU1gUUoMBPY7Z/WegnLsd9PU9sCdxDQ1AWHGGKMGNgbfi5qNGTUeM6RvZG2I3+ZMCTwAiZNrRX2h50odLFkxHKlZeDFlsRkf0Ir+WCdhs/c/owW7jY4Rr5YZE73GY6uGTAf1BKruTwEOVvMURGV8Ys9qEuqDQB5XfMc1GbPIRTTkVih3lNLrgkA7ekrtpHV77laao5pFK5SwsM/fEquMNwwLFOqXWP27gIpkyuEg4xcgrIlJuPv5ZUPo6kxgq66KJOjbMyyz8C1355NeTRNVLI/KVof20svbtabLGgyevaSF5FMQK5EgtvbG6fqdAb4lZ/RQfgP9Pe/ctS6PdMDUN/oZiXwj5mfGeQCac7ltjjTJh2GX/teeEPDGCbZVxhf1LqT5fAzAkZlROCBm7xbhHhFZwJgoJbYvGGlM1m3yy1ACS/6jDddytTN1axiA44Y2cGuYui4Qwp3+wPCdLIcuJlnTPmk5UWvzJthbTlUH+TxlMguwDx/dEbWjjnFY+GvYi7d5Qy2nAExkNsBC9oFMr2qd9hkZNY7ECJ0JjjwNcjU+ES0oFZOO5sE1nP3ShR6mOPoJcsLgUo=",
+  "URL": "http://emhsoft.com/singularity/index.html",
+  "LICENSE": "GPL2",
+  "ARCH": "any",
+  "BUILDDATE": "1593718779",
+  "PACKAGER": "Sven-Hendrik Haase <svenstaro@gmail.com>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "python",
+    "python-pygame",
+    "python-numpy"
+  ]
+}

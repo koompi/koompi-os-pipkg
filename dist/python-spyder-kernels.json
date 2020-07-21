@@ -1,0 +1,27 @@
+{
+  "FILENAME": "python-spyder-kernels-1.9.1-1-any.pkg.tar.zst",
+  "NAME": "python-spyder-kernels",
+  "BASE": "python-spyder-kernels",
+  "VERSION": "1.9.1-1",
+  "DESC": "Jupyter Kernels for the Spyder console",
+  "CSIZE": "100191",
+  "ISIZE": "444456",
+  "MD5SUM": "b4eb74070a3d90eaf083906a32bef0db",
+  "SHA256SUM": "65840a17c4074178a16a5d5830df26a1c88667cb482c81950b887e59e3dea2a0",
+  "PGPSIG": "iQEzBAABCgAdFiEEado014/g79WWrG0EnYk+xNqvkSkFAl65yzMACgkQnYk+xNqvkSmHlgf7BbCWFZ7m/c8tvQeupnPLUNngPlBaQ2OVQjIbPtQAB53YKd9P1CMdli98sOW9NyH/7vCH3EAOH1sM5TOvUCY3i92gGJ42OlZnbzfYhbiGW+ccX8FCrHbEPMs8UnNKMoQktha25TyQ5CT8Zd+Cm+bFBlT/XFXpZTKRqqA86YjP6w5t1jbfCSslioZjF5j3sJufD5YOuWwzQtWFWS4vUY6pwJbOWpZb0ZfJzo46bXI1O4ZWCAjFLy/jca9LZO0o9dp+6foAbDuHLX1Z4DYHK1faC/HBcfPFJEGto96vAKqSlEsJ3HbGIBvK9DVnzkr1sOItL6ZGiFA0Y4LOZyfDnefAhQ==",
+  "URL": "https://github.com/spyder-ide/spyder-kernels/",
+  "LICENSE": "MIT",
+  "ARCH": "any",
+  "BUILDDATE": "1589225666",
+  "PACKAGER": "Bruno Pagani <archange@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "python-cloudpickle",
+    "python-ipykernel",
+    "python-jupyter_client",
+    "python-pyzmq",
+    "python-wurlitzer"
+  ]
+}

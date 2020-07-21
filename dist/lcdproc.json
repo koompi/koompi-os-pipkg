@@ -1,0 +1,23 @@
+{
+  "FILENAME": "lcdproc-0.5.9-5-x86_64.pkg.tar.zst",
+  "NAME": "lcdproc",
+  "BASE": "lcdproc",
+  "VERSION": "0.5.9-5",
+  "DESC": "Utility to drive one or more LCD (and LCD-like) devices",
+  "CSIZE": "330605",
+  "ISIZE": "1465129",
+  "MD5SUM": "ecedaf2344c856c659baa0be838a4a06",
+  "SHA256SUM": "0aa736f6cb5dd84fbbd27f737597c9a46a75d944346f4a2177bc14dbb895e6ed",
+  "PGPSIG": "iQIzBAABCAAdFiEE2yJ3vNUAqjglYQvd2zIzknlsoGcFAl7fMw4ACgkQ2zIzknlsoGeQrg//c2tXvGh9cGtP0lCvPQY6wjKzHFK9yztjA6pMCUZtVzIYsbUwaitYsrMZ+c49Wcbxx2d93rhWFnDeHlWOeC0sHOv61uZ1yZdILC9qZHqqx+Bab+UXKk28Z0YoGIcQWdnJ3g/b4EwLoLZzDhZnt3yJ5btsp43+UzTpwJYmCWeY82zRkMAjBokfpYTjbTpzNgYzb0rb40V2Q/ENa1BM5GrfsPd1MzqZGzr+Qv+eGOnwqum0XZ6B7uL65ai1PYuiCBEUb25HenhLwEJSeyQu1JyfZQOFVb4sPDiPRfDidqeqwu4LOco78b4jJBGeaClhgd1pAEVAZ5OyWECDQJFU6xCcPwTO38LgU9XgabC6YSiS7S8ryHD0HuPyD8FnW6xwabpcqFz4SBbdJwVWRgB3L2XKZAPlF3NRoc2SQ4tpX8HT95CeZyVzeXrKzWv0JVBWsYQ07PimYSQbxMAweCw+rTy0oRJJlqqQseRXPMrsMy6CB8+imuhwORf6Ds0iLyMV1BekjaaOjiCsLQI7OdhkK0PTGILwCWR32UXjO8rVlTb2d5jiEpO25GymKi18nbIJOBVucJyYbV0ddtGnZewI9e6ZCIbBX2wM1Qs7SKov35JyIZ8MoWGZ7dUDEoi5bGNjO289yQfH7iKVv8hk512IjgRzs548DYGbZwjBWeTq58RpyPM=",
+  "URL": "http://lcdproc.omnipotent.net/",
+  "LICENSE": "GPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1591685830",
+  "PACKAGER": "BlackEagle <ike.devolder@gmail.com>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "libftdi-compat"
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "FILENAME": "python-dephell-markers-1.0.1-3-any.pkg.tar.xz",
+  "NAME": "python-dephell-markers",
+  "BASE": "python-dephell-markers",
+  "VERSION": "1.0.1-3",
+  "DESC": "Work with environment markers (PEP-496)",
+  "CSIZE": "19816",
+  "ISIZE": "70219",
+  "MD5SUM": "6e81eca61e23503aeab72a2a79c7abdd",
+  "SHA256SUM": "94d1373af89dad1c3943da72bf115eb3ed2854d89a9d5cb20b0e5de78c60bdc0",
+  "PGPSIG": "iQEzBAABCAAdFiEEhs/8qRjPOvRxR1iAUeixSKmZnDQFAl28MmkACgkQUeixSKmZnDShvwf8CQZ4HSGLNG+pGqXCUCKmNOErCBCxAT4GAnbbGgxdm7usirVLfcLigoPhbcRM9rofc6EJhKunxPdIAWQcjeHFwWtihyRq0/wcsyiWU3vkXzG7VsqTtdCQq5xTed+9vSM3uyqi2M3C0TR6+IqTuUZ06XE4w8aqkZBRVJnQI76RnbI/unNvqHCOdEdnmPGwXA5tcTtHPJgxh1lKgZ6HbRnxsnJygWDrXhtGZvX3/eM9dtIS6oGz9XnRSEFMFSKjl/YJmKKAePJP8XP82C8mELnWkRq2m3yHbaVrdMc8gL27+0pel5P0A/ZX+HIsSEQVAHvQNUbvv4/iv4t710Hp9M4lyA==",
+  "URL": "https://github.com/dephell/dephell_markers",
+  "LICENSE": "MIT",
+  "ARCH": "any",
+  "BUILDDATE": "1572614743",
+  "PACKAGER": "Evangelos Foutras <evangelos@foutrelis.com>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "python-attrs",
+    "python-dephell-specifier",
+    "python-packaging"
+  ]
+}

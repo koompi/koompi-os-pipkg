@@ -1,0 +1,25 @@
+{
+  "FILENAME": "python-pytest-pylint-0.17.0-1-any.pkg.tar.zst",
+  "NAME": "python-pytest-pylint",
+  "BASE": "python-pytest-pylint",
+  "VERSION": "0.17.0-1",
+  "DESC": "pytest plugin to check source code with pylint",
+  "CSIZE": "16686",
+  "ISIZE": "47170",
+  "MD5SUM": "164c0cc10e2d512614f69d3b67d59f45",
+  "SHA256SUM": "f58b419be970979945a4714591a3b63bf22c70c19c59d11a8f2b3ac2cb5ecf95",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl68OkIACgkQeGxj8zDXy5L51A//VynU3OteCe6j8TO47QiulbvTMxfu0ROQ7j4zpR4aWIx84wKCYqI5+Pg3TapyfxV1vggAU5uVge0aUH3aW+k+jH46dTt8GuSTFEi8M2n1nrNUJvBBk4hz3vSQh2gxJ1UH0Lgzox+8qqjg1mLBBgz+bu3MTgEcBhJm3GQKEdPWkMTW1BqSMopi7U+Xc8NOElTjp0N2HKpxXmCvAKxqQbCyx9KMAb7NvgThWQvUy7qgyxeAMJDchycy1DJ674OxB07mrMCAHZJoY0LYYmr5K9qsMIx0U4OxqRfosBBAGw0EMHVZ46JgT1Z/YgLE5FQw/iTJI9G3Zuw8R4jUr7ZiQkK/z9JFdl+9edFCJHGlVGD860xExNT5RjJ2HtMjj2H33tTl/JX0aqgqgExa2sshgVUMH4XBhkNl3e5PgC31A4/eKGEu7MCDSydXI8myWq10Sz+hZuAXUEThYXxhUjROMTLvfpVYvmT8Y/SOL5rpEprdC5L8jly65+MJ34rettKiqURpe8sdIvaZjPo+3euef4y04zCSscNb/18iyqh0Eh6LCfGF3krijf2w3zdGxlq6iVRF6bpFl0Bp39lF8eCZ25SztjIQUdKLD2dpoBgpZekbceMxUO3ALJelz0gK3S11X53J00tYh/7wDL1cQTTqStqhGytBIxG5F3y+O2XIw5IiI3Q=",
+  "URL": "https://github.com/carsongee/pytest-pylint",
+  "LICENSE": "MIT",
+  "ARCH": "any",
+  "BUILDDATE": "1589393671",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "python-pytest",
+    "python-pylint",
+    "python-toml"
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "FILENAME": "gnunet-0.13.0-1-x86_64.pkg.tar.zst",
+  "NAME": "gnunet",
+  "BASE": "gnunet",
+  "VERSION": "0.13.0-1",
+  "DESC": "A framework for secure peer-to-peer networking",
+  "CSIZE": "3674729",
+  "ISIZE": "10915212",
+  "MD5SUM": "4fc659871654f3ce77aa1ae387da83f1",
+  "SHA256SUM": "555ffd5c495dafb68e72b6f5e4f926df63f2111f549ff8ed2b6c9ddd5afa1814",
+  "PGPSIG": "iQEzBAABCAAdFiEEFRnVq6Zb9vwrc8dWek52CV2KUuQFAl8FaR0ACgkQek52CV2KUuRplwgAjDb0KBI3OYN9Jghax+i0O+kmuiNOoBdWSQn9QZZxxV51xB9g3ekTB0bM34M21ycGLvWwrOaCADMXLn1JaaKR2lHkg9zA9UzBvF8OwB31HghM7JZHvn3nFrbHvkYOBrxjmSMKzP+uOHKiB4KeV0Jp6uyUIzBlqRQHfDzP+ABrwu1H2tdbLKb7Peld8Hk4KGhESpfky3ZBNR6+nEJEaNScujOKJ+E4d2bJPPCmkBRPZNynxfs5n398MjbdsS7/OTkrpxYVtFTlLr2zHfVwlnpWWPk5IvP9WQkPtI+fEDafXzzSxYL/3wbuaCya/Jfre3vlvgqhW+P/p7ruISQLDYetHw==",
+  "URL": "https://gnunet.org",
+  "LICENSE": "GPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1594189623",
+  "PACKAGER": "Antonio Rojas <arojas@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "libextractor",
+    "sqlite",
+    "gnurl",
+    "libmicrohttpd",
+    "libidn",
+    "jansson",
+    "libsodium"
+  ]
+}

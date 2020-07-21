@@ -1,0 +1,23 @@
+{
+  "FILENAME": "glu-9.0.1-2-x86_64.pkg.tar.zst",
+  "NAME": "glu",
+  "BASE": "glu",
+  "VERSION": "9.0.1-2",
+  "DESC": "Mesa OpenGL Utility library",
+  "CSIZE": "190939",
+  "ISIZE": "493653",
+  "MD5SUM": "aa240c2bcc700653b68c64de24b1f009",
+  "SHA256SUM": "28c6a61a8e22177996c41e8175d9c9af4f07230ad4843cb3fca0029d11317f8c",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl6/rpgACgkQeGxj8zDXy5KS0g/9GpaU5AUaMMfZ/go1yRZNyQLdTgjd+hfcdXnNh8JKOuaU2fpan5Vebz9IKjb9xzxFBrCRStJF040JX6TimZkv/g6Bv+Mc8mqqdY57HD573/P78P1QPfvWfwNsrog5s+wKYWhs3dYcPHWX9pFPDNyca0Aib1d6kolc2zG1mKZH8NT37dsZFyBCpihxgg4vuV7KVyWGoEagPrZ7wNhx6xi9bvx3AOrXpNUluat+XGh16UfYTaWXd+iI0gLTcwf1DGdBrQTsrfAd+RJKKcJ/jbojYUR9i/sjMH006XOJP2PhYoqi7zn4YZiVu/c5/wkm7TUfSG0aQQKVcR54qA6XkJXC4MqS4hyEimK8ureW8ZcyBwTvwUUKcG7nUZvV4Vf5JxMIkJgVD0AIjfmto9Ih1T5iuBsgoIKVrxBph77SVCMeMpdGz2rFQZnLGdrpMKmlk/VRcG+0PpEAXIwQwrC9QoQodbpwZ9bL/sajB5ifU5iTqZz8NWGu+hQZrtVJAiTek14hvmn/L9lNnXNiZLWzhkf7EoTkyqx+LQ9SO3CuxPkYHj78YMNAFCsAXO9QFA8uCsZfMqFTMTlMwWPuGEuTBL1BxUFsLBifS7sEzDzUFoLnMuqn2wJafRmOoN6t/MDbUEAMK6h9rTu9ENvvxMWHCFvtxgJb0Ula9gVRNC82rwguM8k=",
+  "URL": "https://cgit.freedesktop.org/mesa/glu/",
+  "LICENSE": "LGPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1589620346",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "libgl"
+  ]
+}

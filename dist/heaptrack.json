@@ -1,0 +1,28 @@
+{
+  "FILENAME": "heaptrack-1.1.0-6-x86_64.pkg.tar.zst",
+  "NAME": "heaptrack",
+  "BASE": "heaptrack",
+  "VERSION": "1.1.0-6",
+  "DESC": "A heap memory profiler for Linux",
+  "CSIZE": "374988",
+  "ISIZE": "1565395",
+  "MD5SUM": "10e17d6cd3f48b6a10bf1ea1045e9e5a",
+  "SHA256SUM": "23a8e5c28c91b3eaff6b213e333ac5125ed937db219f99dd3998f740b34e7f25",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl4vrqsACgkQeGxj8zDXy5KeSQ/+KU/5ADb1UKCkeItshYhGSDYkr/N94xtsXup3R80o+ZZ6DsVFseJ8gXzH+VUawQDhm3iyiF504C51YFZt6DMaGRymk4TIDxYAIVQhwcoMtLPLi3SqBCrZ8w/vLN98/zuHOY8/R57ZTNgYGYCo82cRiZXgdKPhX4GTqnRlOXrNrQXNAG23EEAdOOc2eHA85zqzod7C/Q9FCapF91KFnlbmMvbsBTMrUqzbAr0+47hGWzhK4R+GDwUMBMOXae6SEWgN+dnHVj8KqNirTFY50dJ615F8TiahlD0PebWHpjfJFfuXN/UrZKOHo6ZB1rLmmkV23pk8PUlP68GB0RQWYyJ0FtwGEol5G9vHeAOiKAMmNiZXNdyuQcSeW9QThvPqTe1TNC8fAVetmgjtXDZkT23uU8JZwSF3Quv/OKxk38zQ9htfGawOXNlUwbzpXgk1uLdLsxhMKwOeD0E4f3cBrip3GgrBo8r2pjflMIA4+e2WAKfiXgX4slscfnRYbBMHXiwuBZkzQPkTi89B5CNpT9nUJGPCscO3GSM2w9XcxiFpMH7nYyMsn2rm4ku7ugbfNTQrL1cFGf2nAyTjL4SQrhgiHTOXJSlzosEertUp1bM5AlJXWbM1YKs4ey21VcxwQFSvDEDymoE5Tw+XpPAN2ICl53lnfAXXEQcnuctYN1wgtS4=",
+  "URL": "http://milianw.de/tag/heaptrack",
+  "LICENSE": "GPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1580183115",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "kdiagram",
+    "threadweaver",
+    "kitemmodels",
+    "kio",
+    "boost-libs",
+    "hicolor-icon-theme"
+  ]
+}

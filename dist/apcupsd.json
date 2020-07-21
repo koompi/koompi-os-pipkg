@@ -1,0 +1,25 @@
+{
+  "FILENAME": "apcupsd-3.14.14-5-x86_64.pkg.tar.zst",
+  "NAME": "apcupsd",
+  "BASE": "apcupsd",
+  "VERSION": "3.14.14-5",
+  "DESC": "Power mangement and controlling most of APC's UPS models",
+  "CSIZE": "226567",
+  "ISIZE": "942193",
+  "MD5SUM": "a4c356337e5d760bcf87c1dc0b7391c1",
+  "SHA256SUM": "db7faa75aa67b52fb5b4b59d9d6ec59860a154683321ac10c83724fe9fd7b22e",
+  "PGPSIG": "iQEzBAABCAAdFiEEhs/8qRjPOvRxR1iAUeixSKmZnDQFAl8EzTcACgkQUeixSKmZnDS5IAf+MsRyilDSSn2IGxP+v9UMBNKnpxywcV0ogCrCv9XQzT9r7hAnkH2/03KMnpdeGxGTbc4Q7nLEbh4zyCcM7YF1IqDWKNti/OvcgIsIJdU53HdFqXY++XzN4/DtxzwxiE4GbRr7u3C+906oCNSqenHt5RU7mRjI4WSuXIPF4LnXRxkgrjp2BSiM2w+rNO9KQmor3AUDaYSihAvqKVf6Komm9fLyp+230u4Ksd/oTghAe3g+uzytsLHfKxc5NY+m38tu1tinlpUSCufTUKsQ9bOE4BLa+3Q6CPxjcmOj2H5RYEiYctj/eKvSW0Np15T0/HW+doabTKF/6gnw3quAQgyr8Q==",
+  "URL": "http://www.apcupsd.org",
+  "LICENSE": "GPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1594150159",
+  "PACKAGER": "Evangelos Foutras <foutrelis@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "gcc-libs",
+    "systemd-sysvcompat",
+    "libusb-compat"
+  ]
+}

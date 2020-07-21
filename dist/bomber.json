@@ -1,0 +1,24 @@
+{
+  "FILENAME": "bomber-20.04.3-1-x86_64.pkg.tar.zst",
+  "NAME": "bomber",
+  "BASE": "bomber",
+  "VERSION": "20.04.3-1",
+  "DESC": "A single player arcade game",
+  "CSIZE": "898853",
+  "ISIZE": "2254940",
+  "MD5SUM": "649074297d3c86a788b6535c2c08875f",
+  "SHA256SUM": "0564ec8b39b1a0888c573183c887abb605315bb34763bc8e34405728bbca80ea",
+  "PGPSIG": "iQEzBAABCAAdFiEEFRnVq6Zb9vwrc8dWek52CV2KUuQFAl8HBNcACgkQek52CV2KUuRWAgf+Or+Ac5t+NLm/DffZo50e3lVQ71TWvLHl6FVSGht+9f9RLLkBk0yHjvhE5OC1ImAoP4eJznevQv5RDoiz3zoRRuM/7GsNONmFXHXk/i4NITkMt/e2SWGZPARjUApxyVcojEyJwLsm0QHXpcC1HZLu24wNZIm4aVsl7KP/bJ9Ai5bbF2fyEDRuomw7q8rIvkzTMafP2YdRykNsFaIRzITwrsy2kPgSVJOysJdOqhsmp/F3vL2j3JWci+8sKzMxmMHwvDfz/KDdCPl4sdX5D+n06LCXNnSwWDtrNL6U3kEwoyss4fTBbpTqE+et69JybhfZZQobtm8OqR3o8N67LHhM7Q==",
+  "URL": "https://kde.org/applications/games/bomber/",
+  "LICENSE": "GPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1594107863",
+  "PACKAGER": "Antonio Rojas <arojas@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "libkdegames",
+    "hicolor-icon-theme"
+  ]
+}

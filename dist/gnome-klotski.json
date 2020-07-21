@@ -1,0 +1,25 @@
+{
+  "FILENAME": "gnome-klotski-3.36.3-1-x86_64.pkg.tar.zst",
+  "NAME": "gnome-klotski",
+  "BASE": "gnome-klotski",
+  "VERSION": "3.36.3-1",
+  "DESC": "Slide blocks to solve the puzzle",
+  "CSIZE": "903330",
+  "ISIZE": "1728521",
+  "MD5SUM": "0e4f5967820d500807d0cac353580f5b",
+  "SHA256SUM": "fa56b9e6685c9eadec346f89d45f2629246894bc4759e30a68b199491c1820a9",
+  "PGPSIG": "iQEzBAABCAAdFiEEghj4iEmqxSLpTPRwpekojE+kFfoFAl7SdmYACgkQpekojE+kFfpKrQf/U19H3ob+Ly8IZ9IVbwZ/na6dPkDQJq0E7YVDvaH8aK8s+Iiea8ZYWkkHHgivqEF/8XfO/9evwUN7A8GJSz/iToP1BoTIuc2CvL2IyoZn7izhGG7RzbKWx/X0DspuS8Q54aFvrmDY9U2rNmiakhNS0FnKBCE6ZSZ0uBHkW4bOifV3ruTKfCdgc0LCxCd8eaZBt58YN+vaSG9iJICYFn7XUfwRbSsaCVy5HeZEC/nOKl8UHEbB3kfigw9ODwWRK3vLyDpAmwwdoMemc1th7o3stVlQ2zBg3m2SV6qmE0zth1auPviEjChtX1LEbGndDq8+iwyUWaca0Yo65Tp4t4oJIg==",
+  "URL": "https://wiki.gnome.org/Apps/Klotski",
+  "LICENSE": "GPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1590850935",
+  "PACKAGER": "Jan Alexander Steffens (heftig) <heftig@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "gtk3",
+    "librsvg",
+    "libgnome-games-support"
+  ]
+}

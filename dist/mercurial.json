@@ -1,0 +1,23 @@
+{
+  "FILENAME": "mercurial-5.4.2-1-x86_64.pkg.tar.zst",
+  "NAME": "mercurial",
+  "BASE": "mercurial",
+  "VERSION": "5.4.2-1",
+  "DESC": "A scalable distributed SCM tool",
+  "CSIZE": "4888737",
+  "ISIZE": "26140816",
+  "MD5SUM": "8481d1fd45921f77a31917f90f6ee02e",
+  "SHA256SUM": "efa4c4a8e66cd9b4ef009f0aea711e473b29ca3c682754787fa4025a557ad29f",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl7+UyAACgkQeGxj8zDXy5KCHA/+IKwvfgaFIERjm2eTpZMwu+ZJw6plqeCzRsAbXziAjR2ISwZsx/B0JlImolAbq6mYxyXRDTS4rF8ZKOdrUtfoIzzAqGwPGGh1n3yitwiWL8v3H9rb9rOetsqGOJbQZwjwfVsZQ7HPcc8JdnukDwRmMYRk+LOpDh/ysKxB/cFTh5ZcLpfnqvVRTa+f708TeANLwX7ZL4DUrdj8OexcqOyOiGu8VddCU8f81JvCRfT0qGsnfH2UJ9dDee2BlDhC0d/U2I6rg80D6Np3qKtKy/L/6dMl97rK0vG1uMkebIzSNRxTCKpkimeJ7Am62NtT8m0aE6f7P/ce7oVO6ImHGcDwHOKFOgcvdcRncB4+C/YPuIjZkFvIqPArwJDTbRc4NS0JmztiGQUeDTljitxAf8szEb7o6RrXE7GDruYr7gaET/A2VbXJi+wszOLX6yGopzWpbJdqXZddJX4Bd4LhuQy7N97DRvb9k9ABUO6mnm2nuEJ7tewbcIJOUGKBb4BEKRe39lkHtU7k63nG6iY07h7LyCCYsYNuUXtSEyxNZwVGh60WkXSZUigpGRwd/2LvTD05l5adsLq6ujM9hPTV7SBbfOT0ZkjdI/M/OOP4FqTQ1jKre47mCJHOwcOYAKIMzbEllrxp9PaMy1ELX5AQdKuiot0zHiDF9s7NXL+R2VOeLBw=",
+  "URL": "https://www.mercurial-scm.org/",
+  "LICENSE": "GPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1593725609",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "python"
+  ]
+}

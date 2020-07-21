@@ -1,0 +1,36 @@
+{
+  "FILENAME": "haskell-turtle-1.5.19-12-x86_64.pkg.tar.zst",
+  "NAME": "haskell-turtle",
+  "BASE": "haskell-turtle",
+  "VERSION": "1.5.19-12",
+  "DESC": "Shell programming, Haskell-style",
+  "CSIZE": "252053",
+  "ISIZE": "1393010",
+  "MD5SUM": "b85ce5ba17a8ad8891a676b4c2be7d83",
+  "SHA256SUM": "6cf00fdbb9722960d0230aab166b5b3fcb3f9e8a52d9a4f1a674ac2bc2c34f14",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl75qDMACgkQeGxj8zDXy5Jt3g//cvh2jPuME+43sy/YG1QOV/OLd0c12TSGHC6d4poVJPdC7KWN4UKc5c+rXIt0roBukelax1evEOlO4vQzB9QYNNQc3X8SDg2iQrQwtac4uUW2q9xE1bxTu0jyauPnz/i8Wbj2G3Gsc6jaDXCUJK6NbP3hDVgSBbSMpOJkz+M7tlHAOcE0RweCX0TKZzrzDurnoU8VtOZ9LckGrELqMmzfLjGLut4KJRv443/KOnxU3bf1WYSmG+UDgyFIzQoCzRB781r/ATfuqT6fI5uRHYrjJhP2/iqBxgMYhW5zm1JVMKW9nKg7BYEPzEf42q1MpHdlw6FQv0ayGyLxOYQWBUmr6z7fVO+R6JhZnKiyDqDKEZRgdbFOkR2Axz7Hlv958yODmYYVkeJk/JSKA6KZL0Z7w1MZe/xmi9Z+qAQAwAvFS7VpPKW7AekhgM2tJWH5ZZ3pEAw/oZI3tTf3nQElZe7yAUi7JQUrUpISaq/dC7RraHe+Ov/ILS8aFM1DTMJL6YRdRwRhO7zTUdiTOWnxyw0I/vRXxM7/NfsJlDCLnP/6QYzaQWNnlcg2DqB/RiyTVjJrzbmtwh4emH1BlzvFshn5d3eh4i7pLYLzV9ssD4EGgDm17yVpCabjfHa0mdVZCT4aalhWBnN96FWAWM/wTcojw8nt7xjxQTqkZZAEMbyYfdc=",
+  "URL": "https://github.com/Gabriel439/Haskell-Turtle-Library",
+  "LICENSE": "BSD",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1593419764",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "ghc-libs",
+    "haskell-ansi-wl-pprint",
+    "haskell-async",
+    "haskell-clock",
+    "haskell-foldl",
+    "haskell-hostname",
+    "haskell-managed",
+    "haskell-optparse-applicative",
+    "haskell-optional-args",
+    "haskell-streaming-commons",
+    "haskell-system-fileio",
+    "haskell-system-filepath",
+    "haskell-temporary",
+    "haskell-unix-compat"
+  ]
+}

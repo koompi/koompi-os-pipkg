@@ -1,0 +1,25 @@
+{
+  "FILENAME": "perl-io-socket-ssl-2.067-2-any.pkg.tar.zst",
+  "NAME": "perl-io-socket-ssl",
+  "BASE": "perl-io-socket-ssl",
+  "VERSION": "2.067-2",
+  "DESC": "Nearly transparent SSL encapsulation for IO::Socket::INET",
+  "CSIZE": "149256",
+  "ISIZE": "405557",
+  "MD5SUM": "5efc2896cea9cacdc728d3961a7254bc",
+  "SHA256SUM": "0e11460558c74ec39ec526ab3d5b44db4aed8da53861268fcce907aabffe86b6",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl7vPQIACgkQeGxj8zDXy5LWOg/8CHu+m3jLyJFpPSqnf+RPpEeLgsNJhp6z+BLwVAdWtGZBJOACErZ3Jj++zU9/VKgm5r2dgt64vVMNWVjxBnbBqD3yI5EHqTudLIRNH5G+RpU6P2xm1r+YNq+w1jugiXphQj0Xccd5Vvm94dBMHBXnDu5mR0Bnt3k76DopfZzD82rDdq2VssdZiDVTG25k4ShPy/rLYubUBJiZHyRvUkTpbQb29tEV44bwqKZSMIB3B+sd3gmmI7KNVg82ZauCWaEwpgAthmgaoNMKtigDbZwWsmnvZ5HQQfUPyn6e+ze4QNOl2XrlOmUHnGbNBRM+qzqPRaCfq3IvQ1NfPslapB1DpqbwFBiFWzK5dcRdrBOtAYNTzqgT4AlYw0w/Wr251zumPxyLzhdjL7M2PDWH3qPK2bYQSt6OdDPptaEmrFtRtbCH+zEMhVkBEc6E6ppw+4Cg+e2GWnOyIP34wBDW/+aI1mxfiKL0hs3nB8aI3zYE1ds0OoTPtN1d4VNYhuUABUIeRxWH25ecRVT/DHgNaZJ2SXcmQOtRlrRu6DBwoojvEetS1UPyS7TkqpHhoXbWjYLZruNl8r6r+lFRMv8fhYP/sIbUD4MfCkQcmQJpDMVgKxVA0yWFjQnpWJUczp6iTeLmCOsiV7CrAUh/H0MR2NUeb3agGc0zjzMyR9OywY85aTU=",
+  "URL": "https://search.cpan.org/dist/IO-Socket-SSL/",
+  "LICENSE": "GPL",
+  "ARCH": "any",
+  "BUILDDATE": "1592736927",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "perl-net-ssleay",
+    "perl",
+    "perl-uri"
+  ]
+}

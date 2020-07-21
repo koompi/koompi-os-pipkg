@@ -1,0 +1,23 @@
+{
+  "FILENAME": "powerline-2.8.1-1-x86_64.pkg.tar.zst",
+  "NAME": "powerline",
+  "BASE": "powerline",
+  "VERSION": "2.8.1-1",
+  "DESC": "Statusline plugin for vim, and provides statuslines and prompts for several other applications, including zsh, bash, tmux, IPython, Awesome, i3 and Qtile",
+  "CSIZE": "11021",
+  "ISIZE": "29072",
+  "MD5SUM": "17d633238b44d986d56d0779a81e3321",
+  "SHA256SUM": "72d8edb112c80759560ec1857ba1b9f900d078ee59ddadd03da30ae190580f99",
+  "PGPSIG": "iQFIBAABCAAyFiEESx3lRagB1FSb/T/vkMs9YsE9R5YFAl71Y9AUHGZhcnNlZXJmY0BnbWFpbC5jb20ACgkQkMs9YsE9R5YL4wf/bU/ikz7smSeCzNIfpPmnDL9F1hKbZOXjUwUNNwKQw71zbJsXeFHu0W8HTxzB2tMmAS2W6un4so9WJS5r6BN5ctcQN9HOo2dem3VAW8HjDd0GEXfdWBRdYa0f7ezw9Ncnv/WibiGzAbwk+V/xtsVrD9e8cJBvASVoWrarz1mq0eWZrFiDDU5a0Lo5g/2YrLFM3IAzFEyAyThaTVw5L13IRzAyrsnd99S0qu0Qu3O4jgOEDetY7xCAHrX/IHF9IRvOmzhwX51WLLRkGkE4RZJxSF9YGGirs2ARUpynYN+ucl/lqGs3GhtK558al7NXp7U5CtZ6xTyfYCIf3wMRKQLqkg==",
+  "URL": "https://github.com/powerline/powerline",
+  "LICENSE": "MIT",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1593139217",
+  "PACKAGER": "Jiachen YANG <farseerfc@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "python-powerline"
+  ]
+}

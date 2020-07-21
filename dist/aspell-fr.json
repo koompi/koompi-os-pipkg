@@ -1,0 +1,23 @@
+{
+  "FILENAME": "aspell-fr-0.50.3-9-x86_64.pkg.tar.zst",
+  "NAME": "aspell-fr",
+  "BASE": "aspell-fr",
+  "VERSION": "0.50.3-9",
+  "DESC": "French dictionary for aspell",
+  "CSIZE": "4790571",
+  "ISIZE": "17761660",
+  "MD5SUM": "dab088128e521a98acb75607858d4e6d",
+  "SHA256SUM": "2a5e6022c9bd4a3a872bf102077f303d0f4a79246f146712567dfa65f0b94c49",
+  "PGPSIG": "iQEzBAABCAAdFiEEhs/8qRjPOvRxR1iAUeixSKmZnDQFAl6/uKYACgkQUeixSKmZnDS3Sgf9EbPYmLL3IC59mQXe3z7ilo1Hdp58l8V2EcrjPwWAkvSKaFivMCawKiig4pHDNzXU665qP6ygH/9H2+U7uSrFVl/uzeXtI3clDtLcZKBcX2UMZf4Ho/QbuUqAksCOFDPsMZC035enBI3513lxTDca3QBXTpXzq/x6liS+94hqrWUysFTq3ALEao72l3E2jqygllcoQQwk+BbDvSM2gu/BEZCyH7v1POLpsIgxewt9wFAV8oeDDcTX2p39TB5cwIepqmj+ya9ivyXYm6/YO7N68b8vbaMxqdj+qUg+CsblrrmImt6WNGHFB9Naa1hhJ65Xi2JoCB9XVHkbzaVIEHsn/A==",
+  "URL": "http://aspell.net/",
+  "LICENSE": "GPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1589622922",
+  "PACKAGER": "Evangelos Foutras <evangelos@foutrelis.com>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "aspell"
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "FILENAME": "soundconverter-3.0.2-2-any.pkg.tar.xz",
+  "NAME": "soundconverter",
+  "BASE": "soundconverter",
+  "VERSION": "3.0.2-2",
+  "DESC": "A simple sound converter application for GNOME",
+  "CSIZE": "144804",
+  "ISIZE": "843118",
+  "MD5SUM": "3b05b164120fe4a76b4e8f264f24f788",
+  "SHA256SUM": "3513a68e3da666e457f4834e8100dea0400852777cd4c44405ce3f4abb13795d",
+  "PGPSIG": "iQEzBAABCAAdFiEEhs/8qRjPOvRxR1iAUeixSKmZnDQFAl3Ibj4ACgkQUeixSKmZnDQvlwf9GmrbDgmcacmCseRLcYG0klYx4FdEfkp2odNjynlkHRqd5QcW7DMFmoEOrkQ5ySUSVLS267XgmXApLsUfSFdkAxLulJWY73zgceAU5e+ed8GWb56c8PMHgqhp42Qg4Dgl/0nSLNf2mTvlWbkhlx/RcDzqIEfMHsmsgxr++hGpp+Xb4+QpUboNyx50JLFqQM/70IU5eyLep7Wpx6HypCCREZItOkHeCda7CpP5K2LupfWJ7NUBPt0AFUv1VeZbfnmjb5PAL5PUsDZ8inJMDm8O4yGEtv1MUA/4cbFYN1qWxc2rzzajNEDD250GuZSgIPDZ/iPQ2ZyMWqBwS8tfM9RTwg==",
+  "URL": "https://soundconverter.org/",
+  "LICENSE": "GPL3",
+  "ARCH": "any",
+  "BUILDDATE": "1573416462",
+  "PACKAGER": "Evangelos Foutras <evangelos@foutrelis.com>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "gst-plugins-base",
+    "gst-plugins-good",
+    "gtk3",
+    "libnotify",
+    "python-gobject"
+  ]
+}

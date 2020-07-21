@@ -1,0 +1,23 @@
+{
+  "FILENAME": "kernel-headers-musl-4.19.88-1-x86_64.pkg.tar.zst",
+  "NAME": "kernel-headers-musl",
+  "BASE": "kernel-headers-musl",
+  "VERSION": "4.19.88-1",
+  "DESC": "Linux kernel headers sanitized for use with musl libc",
+  "CSIZE": "1085717",
+  "ISIZE": "4770838",
+  "MD5SUM": "201cb6f52ef5e9c59bea719d519b177b",
+  "SHA256SUM": "5d46ff2eaf09285c588fdff1f84b86b1c54fdf18c7c9f68f714a9b3a7f9e5a75",
+  "PGPSIG": "iQIzBAABCgAdFiEEYEETBMCdNmKDQO7/zrFn77VyK9YFAl5S3owACgkQzrFn77VyK9acfw/+Oe1Q5840zEpU7bN2iXBPLiqzZ9AYGZE8LyqbVQo7WxVeWoFkLZDrkeMJWTFrd6kbXpeEF0FpUQ9MilR3kXlaWPmjTiItCdGglrWYMXmqcWcCego6ia854NIOUyyjE9BHxsHlW6zYpDBcoYRiU2R0DmZJrHATqqQJouq2+zLCcTSNDio4QRQoSUBh1K9zoacRWTtLGgL7uldoGai1t4WJKk7rAZ4snrE53ljJ269GqjVlgubkqcJjdtnQqQhYlnzAyuFzkgsQzNIJSoHjv+nrUYxS1Zars0jt1cIqorGkx0NyBe6PaSR0/DE0NM1oeAoyxyGxPJ8vpw/++t44+0acRuHR46Z9HceFlRUtkiIHWRzSLfg5ZhexyX/p4II2R8oxEUgHXSnMqPEorQQYSv0PLPMYop5FpcJDaRipUVuVHmwAHZQ2t3JfIcKknZ8WSJ67i9Iwe0g39rr5RqEb/qEJvpP4B0OoE5/h140P9PCsCb3nZROwJd1nl09SzZBcgO1Ff26f2jmkfuu1pFdUuNjgc6E1TZ3e1eKoFHaiFII0GfLfT61MFNv4rMjfIpaynZBmDFvfXi6GpYoVDmnfiEw6WBz5o/rSjXgyRyk+7PGuwToPeW3ouAZDEz9NnPATR3VMAtjGUcYEapplkpZy6HFd9eiym115yfpqTIv8nZTSL1M=",
+  "URL": "https://github.com/sabotage-linux/kernel-headers",
+  "LICENSE": "LGPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1582472697",
+  "PACKAGER": "Eli Schwartz <eschwartz@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "musl"
+  ]
+}

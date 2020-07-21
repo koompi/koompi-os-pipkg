@@ -1,0 +1,32 @@
+{
+  "FILENAME": "haskell-vty-5.28.2-13-x86_64.pkg.tar.zst",
+  "NAME": "haskell-vty",
+  "BASE": "haskell-vty",
+  "VERSION": "5.28.2-13",
+  "DESC": "A simple terminal UI library",
+  "CSIZE": "574185",
+  "ISIZE": "3839861",
+  "MD5SUM": "4e7ac2fa3cb58fcdad815b5feccfb142",
+  "SHA256SUM": "06bc8000d3dd23c3bb0a16ce2ad00d3d500c9aaccdea948ea91f5afdcdb179c1",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl75urMACgkQeGxj8zDXy5I2KA/9E8eogsQnhVm2OXz5lrlatseZzP6LtjPXLsT330dEVXKPCWrxrTZAJy45/hVjKjkp6zmOTa3DGiO6t4rhSmFwm/ntYBvvMPnZEFXE8liP6nox+TZbR9vFDZpdexiAD/IGrZXfaKP6ep85YUxAyC2oHDm5JUtcNkbylrCPf+YGXOk1e4BLF/l+yKL+BPO/uu8eX4l8H40lp9dAgktUyMjbQ6B73stX2FstrZ55n92s7jQwEle/AREGWfcum1h0ywZGDTXF1IRieKuyzvGflYRnWQDGrTngTl1/Hb+JBr3gdDBICGJzp94agiOzhSLuRf3avCTFODXwkArEOIWebIp0B7bULJuTJv4Q2PpBqunOw8eAqeHzaoyjUc1rexypAyqhVH7kD2V8XzPXHmperZ2t6EYtuVhioZ0c5dHg5RK68V6wM+mBz28ED6kEHarXRXfIiTNE3ymfqMuq58iGHeyFbLxC0ci+Cc+2ySrfdNHN8NffLse3QnYgqt8uMkWuMtFFxgN7KmXQiJsz6Q1hIKDt2II4RcnlBZ+x7qRu5i92DoVj25S2Y7x/PjqbEfmhlQ0I0x5oPp9UqrY0lqjv+56RP9ezW4nKs9nqnJyNuLkKwzrRgUzrs1kSF2i3tIZHgtderK5c2bxQrDFB+bVmTgMdu7Uvil7dvAATRBdPIcNPW/A=",
+  "URL": "https://github.com/jtdaugherty/vty",
+  "LICENSE": "BSD",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1593424492",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "ghc-libs",
+    "haskell-ansi-terminal",
+    "haskell-blaze-builder",
+    "haskell-microlens",
+    "haskell-microlens-mtl",
+    "haskell-microlens-th",
+    "haskell-hashable",
+    "haskell-parallel",
+    "haskell-utf8-string",
+    "haskell-vector"
+  ]
+}

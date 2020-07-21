@@ -1,0 +1,23 @@
+{
+  "FILENAME": "kross-interpreters-20.04.3-1-x86_64.pkg.tar.zst",
+  "NAME": "kross-interpreters",
+  "BASE": "kross-interpreters",
+  "VERSION": "20.04.3-1",
+  "DESC": "Language interpreters to enable in-process scripting with Kross",
+  "CSIZE": "168654",
+  "ISIZE": "536200",
+  "MD5SUM": "cc44dbc4f34198fbc4869bb6e8adb25d",
+  "SHA256SUM": "e88794beecb0a55e2415abb342ab176e2ae8d981e7bf89158fa2263b881d8340",
+  "PGPSIG": "iQEzBAABCAAdFiEEFRnVq6Zb9vwrc8dWek52CV2KUuQFAl8HIeoACgkQek52CV2KUuQpdAf/WXqbn+8DVDtuIa3WDsIzCEvUGj+OUAXYj8/25YqMGQRRi8iphtLFxVJC8dVHXcJl/4Ehh2N8996+A74h9EPYxKgPgh1WqeD/WE59aULmA39pbF1+n9ksNMQyDa8Vnbcrqpl2Iotjfeqx49AwZeqvKQ5nncV8YEbyv4AYvuo3rl4GL9KZ3J+qBC36rIZjDjTeJht7YVTsMZzAfs+A6yYhgcBvZ/UE6Q3MZGdCOXfKYHhf7eEpiliJ7GvYBrBVo6WwPehBltCdoT8/f0et2VmUyvlKpkjCVF35GS7gy48cS9b3fNTzu6cYhc3lgEIDttle35mkPUgt25UBOCI634Oyng==",
+  "URL": "https://www.kde.org/applications/development/",
+  "LICENSE": "GPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1594114999",
+  "PACKAGER": "Antonio Rojas <arojas@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "kross"
+  ]
+}

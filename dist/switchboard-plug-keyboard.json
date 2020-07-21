@@ -1,0 +1,29 @@
+{
+  "FILENAME": "switchboard-plug-keyboard-2.3.6-1-x86_64.pkg.tar.zst",
+  "NAME": "switchboard-plug-keyboard",
+  "BASE": "switchboard-plug-keyboard",
+  "VERSION": "2.3.6-1",
+  "DESC": "Switchboard Keyboard Plug",
+  "CSIZE": "164565",
+  "ISIZE": "645587",
+  "MD5SUM": "68cf8204c4ce8207a00922a1a6031d3a",
+  "SHA256SUM": "02a204326ae141c45abc2a991280b7ea50dbedf76f9be09edf3509c7cdec357d",
+  "PGPSIG": "iQEzBAABCAAdFiEElDfdOBWnqRaePTlGr/XZUJi8b/UFAl6G6N0ACgkQr/XZUJi8b/Wm0ggAp8CVx6hihsp7DWsMu9fGxjKlbT0YM2WoZ64lS4OvUoCbAUNG0G8fLtqSJ0nrzD3YSMs4QuQlq6OcTdrQaFb4LlOxCNVOgCYR2JzPPZZtg9OVdoeS2L6EvqVCZHZ2Q6LHP2OzdeMdO8jyDL470fTy09EhaIm8tBfaDzL1S7SvhvMGnRD0I86yW9Y78nwC9WaPPHddKD7fXDlsszqVTw8RVf/gYjpW+Z4up4VmUtfzgZ3sL0iZJYXjd3d1Bu6ZTy2pWvha6qwcsLo3q+7BhVQvqtOyiHEKEQscRzGeqUlUHsKw1dGbuiCLKKTidWE3m2jqSwVk4xorNN2nvDG3i4AqfA==",
+  "URL": "https://github.com/elementary/switchboard-plug-keyboard",
+  "LICENSE": "GPL3",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1585899696",
+  "PACKAGER": "Maxime Gauduin <alucryd@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "glib2",
+    "gtk3",
+    "libgee",
+    "libgnomekbd",
+    "libgranite.so=5-64",
+    "libxml2",
+    "libswitchboard-2.0.so=0-64"
+  ]
+}

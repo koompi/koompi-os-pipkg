@@ -1,0 +1,31 @@
+{
+  "FILENAME": "perl-net-dropbox-api-1.9-9-x86_64.pkg.tar.zst",
+  "NAME": "perl-net-dropbox-api",
+  "BASE": "perl-net-dropbox-api",
+  "VERSION": "1.9-9",
+  "DESC": "Net::Dropbox::API - Perl dropbox API interface",
+  "CSIZE": "10462",
+  "ISIZE": "16097",
+  "MD5SUM": "10157974c0696e9a7de44c896a44492d",
+  "SHA256SUM": "9785c72443337dca03fa53ae819a8416b7322f8a400ea30e2915a02f796664ff",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl7vhtIACgkQeGxj8zDXy5La5A//XbIy0hoki9zZvzAbQZYMJ/0zlWSyv4IyTshAEc+Sl+3Vv8UkFC78pZvgcMmjeSm9xhgl4gwUWLrqX+lWZ92F68DQr68p1gfQkOpkVpq3EOedt/lWbLhZ6sx2zR1mthuedy7EFNS8Tm0ZMZPWubRaIXDGQ0mWR5qCYwKe+i5XaalOq1SR1oCsRTRqX3jAilAK9Cg8Z75Eyp9zdyq1l1SaYDhJxoe6n0ouqLTivjywZjB44Lne3s5+cTscqw0xxHEHtdf45HPYbQyDAOvV32czMH5hMJWZMI5DULy0p+8C+uYVbhiK7ch1ar8rFf1Pyt4eu6BdKQKD13HA+sU4u5zKaEkHtpweKvwOpQXSYAIBTfeykngckr75+PXu7VIbz8i2YHCS1LXmLLb9S0YPSsCQHkWBEWI7EKvFXza4ruJ1I2aG/0KC/LuanIApabNweYU8Q1t3L8NrmdQrGK87RtbMThpIPYRQYnZC/hYkIhCRaZzj+eVLyeM8hsJSHAOOXHpfygcXGrbk3tyPg8hIVxjgG/HrZ7tiYfNOvECcGdX+umfmjpMCtk7/jTYT7dYUHA3QLLePxylhfv55WEyd5jCIqAspYyZ9PeOO/SOmNA3qFKejgOgqhPRzG5QnicEn9UkKv0ZP6MPw+zU0yKKufHri8KReXz81uR7HnC8jUWA7itM=",
+  "URL": "https://search.cpan.org/~norbu/Net-Dropbox-API/lib/Net/Dropbox/API.pm",
+  "LICENSE": "GPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1592755869",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "perl-common-sense",
+    "perl-data-random",
+    "perl-http-message",
+    "perl-json",
+    "perl-libwww",
+    "perl-mouse",
+    "perl-net-oauth",
+    "perl-uri",
+    "perl-lwp-protocol-https"
+  ]
+}

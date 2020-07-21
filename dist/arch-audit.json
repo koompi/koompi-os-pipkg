@@ -1,0 +1,24 @@
+{
+  "FILENAME": "arch-audit-0.1.15-2-x86_64.pkg.tar.zst",
+  "NAME": "arch-audit",
+  "BASE": "arch-audit",
+  "VERSION": "0.1.15-2",
+  "DESC": "An utility like pkg-audit based on Arch CVE Monitoring Team data",
+  "CSIZE": "743316",
+  "ISIZE": "2479631",
+  "MD5SUM": "cd3ea3b2ceb2971aa95fad48590fad39",
+  "SHA256SUM": "dc026482d03ecbfbabfc80ee17f21806ffd934fc776eb661c0973f712df1485e",
+  "PGPSIG": "iQIzBAABCgAdFiEEba97gI+d8lE5YgAA0hRh49/iBg0FAl61slAACgkQ0hRh49/iBg1Wow/+NvMa1lCpNeNUKlDBkWuGSfYnFMLhiWDNlCdBZOsX+HVaEawUQ35zplqAo5Am4M9rB+dUBr4kdJHf5HDif/BOYNzX3UcDpQo7BFoJ/jrs/oHVITLC8k70b1vXNbyrjFMthtqHXLwivDnE3y+AH+0r/VGtOTJlPvl2F9BMz8SAcbJnqbcjxx7U1OoOpozs7+oIcm2Vg8rJac76NQD5voyVPFniUyPjt3denDwFE09V5BZ7zZvX07Vb6AE3YexXl2tDu3q9rJWC+m/8YneXPrho8fTD4tokV8vEidEy7EbnibvrS10BCwlm1z+Px3//dxv2g7nsMWeXE9FQBw0icAlKz3uA+yQod9xMRfhksx1Q1KqKNc3Ues3uY8F69Z4VV+c8SSAUu6COtoLgW6u277VaMi9Ibp3sbgICDUBQiIg04PHwBOjbJVbly6RUES2WmWP8oDaVH13RE6PjGU8gnMRGv44lb87lj8PWcaHixrq1gk8LnDJpsLgYIcOZC139bWy3R9MfHnRpavD7pUW55IbLT8H3A622TX3rxKQL9QXTG7AWuFkJRYa4cvmtCqBJnpur6C0F3m+pWpvuGr/zQzqSKUvASzJt2oPOaHCInD3i34MUJdb5LyfksMZ4UybCG6OPtWX3VN6vwJYGIbkX/xHq9oNSJWl7RmDoY1+wc8dKJ9E=",
+  "URL": "https://gitlab.com/ilpianista/arch-audit",
+  "LICENSE": "MIT",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1588965738",
+  "PACKAGER": "Christian Rebischke <Chris.Rebischke@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "curl",
+    "openssl"
+  ]
+}

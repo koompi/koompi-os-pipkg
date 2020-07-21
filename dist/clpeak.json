@@ -1,0 +1,24 @@
+{
+  "FILENAME": "clpeak-1.1.0-1-x86_64.pkg.tar.zst",
+  "NAME": "clpeak",
+  "BASE": "clpeak",
+  "VERSION": "1.1.0-1",
+  "DESC": "A tool which profiles OpenCL devices to find their peak capacities",
+  "CSIZE": "67186",
+  "ISIZE": "214411",
+  "MD5SUM": "288fa8825af70717a18339c95e28043c",
+  "SHA256SUM": "65ed67e3e645e896cf6c0855892cb072c3139162ac01dbf556647efc3bfee4a5",
+  "PGPSIG": "iQIzBAABCAAdFiEEj8FaBklQqZ3RvRTdOeS4d+YuuRUFAl6DRcYACgkQOeS4d+YuuRXp0w//VJ0GMWkEnHACJYyGDyPROsU1iB2tP1hA4Yq2vuqPeaHSYZmkWmWurV7QIWXjOOAUKhPLQouxjzFlnA60lr6BhV2wUQ8avRslDeHQdt/Ts7oOcYTK0wT1Om50vUA0TrjfzOHdNQaPWBkFINEGZQ7adm32txuXM71LbaaQpLs46oJTf4gbXbiz9KC940DyGFy6pO7eTq4gTrzH4mCZjuSJbL/femoCSFaaPp3ft81CZ4ymc/rO/RstqdNw90Zxr+EVgmVEGT/MHdOBb/fpjcv+wgnP0gHU9pf4BeewUC34h4CgrESHrOhZ/8UAEj5QeTb1TVYBuhHEV1eR39bTVHrjOrSjs3T+gauqiH8PNdxS7d4aj55wlV0o5qeaIxjPEAllPpLeT7PNSbLfCl/FUAKdwoUAwjVrzFqDtlGOuK4r7PMF8+WxuY8vcqJWhZApBQGrmx8kjVrgk7rH+2/wLCBp/me2WPB3Q1kcoMQDaGknuI7cv6Vn2+wG1NC8TlD3lATF4uxh5RREq8kaBP0fhZyrklCMbr2NDW5vqWgsuoO9F9AaLqEHVvSvoKeiauheXG6WOfNS4n+HX79hZhX1ZnGkTL05i1tdkoOv16jW+PCPfbCE8K3GiNmHv/pk2zibx+MQ6jW8On2H4uswrII9cdOF93VObSSzpn4D6tNvtn87VVc=",
+  "URL": "https://github.com/krrishnarraj/clpeak",
+  "LICENSE": "custom:unlicense",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1585661304",
+  "PACKAGER": "Sven-Hendrik Haase <svenstaro@gmail.com>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "ocl-icd",
+    "gcc-libs"
+  ]
+}

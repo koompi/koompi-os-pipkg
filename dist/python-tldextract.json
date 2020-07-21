@@ -1,0 +1,26 @@
+{
+  "FILENAME": "python-tldextract-2.2.2-1-any.pkg.tar.xz",
+  "NAME": "python-tldextract",
+  "BASE": "python-tldextract",
+  "VERSION": "2.2.2-1",
+  "DESC": "Accurately separate the TLD from the registered domain and subdomains of a URL, using the Public Suffix List",
+  "CSIZE": "51456",
+  "ISIZE": "181790",
+  "MD5SUM": "fe1e4ddc18d8ee2512b775460ace467a",
+  "SHA256SUM": "922750ad324b7831a410bc95a7b91ae095243b40df33b48219d25bde4606e6e7",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl3OahIACgkQeGxj8zDXy5K1ww//fURjRst3x4eB18aJCvT/g8gGiJBt9Yb5nz1+hCsg5QZ//Gg9ppDTyHR3pizDic25sbkS58yz6/25s0zj9VvAfhtiR/xw9AnTz48OsPTRGTNSf2ct+aLoWtcujpQrbcz+4c5B3X+ZP1MGSgiydGgO5vwQ7lr4FmbeLDhVYuu40NivNVDo1EU7Nhd1Gl3AtdQXD7uy6HtIAJeAPO/oTL9mQBXMaYc97APj+EcACQxQrE/IY77nFrfC55xGnfNNUKHRTU+uzacCWpP6NAYBycTFleuSD59W+gObFGvLaEa3E5Qk9WOtxNOnR4ONLynt+4f1CcAKL4U3xZdCscZv1iaIKTwqvzU9YUQh7blSNo6RfPiIlsF1iaEwQw6x5L2wMICUR9/mikUUAdiPywecVguLWY47V7Wy7bL4tDWtGfEIW/W9oV8IXk6svBWsdVGhBONNb7XOQQ1+aeEcbn7G4WeC5kG14vv8H/AQbe7kPYNootRCQk1JMVLC3S7nKjMvgTLYatubppEQexwv0fUURBHRye7lgG9KGnXUTR7cTKePiu5xziSn03tpLMYK/hhoo/mp/fqqqmuiH5H7IvWIEAX9zZMN1PjK7jjjoH3FCEXLayTzghKCv4QXzoiiRDoRLMKBrW03JpwaN/9IzasO0IDBnEHJ5D4nDlfAnhoG58o04OI=",
+  "URL": "https://github.com/john-kurkowski/tldextract",
+  "LICENSE": "BSD",
+  "ARCH": "any",
+  "BUILDDATE": "1573808627",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "python-idna",
+    "python-requests",
+    "python-requests-file",
+    "python-setuptools"
+  ]
+}

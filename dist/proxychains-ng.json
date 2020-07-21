@@ -1,0 +1,23 @@
+{
+  "FILENAME": "proxychains-ng-4.14-2-x86_64.pkg.tar.zst",
+  "NAME": "proxychains-ng",
+  "BASE": "proxychains-ng",
+  "VERSION": "4.14-2",
+  "DESC": "A hook preloader that allows to redirect TCP traffic of existing dynamically linked programs through one or more SOCKS or HTTP proxies",
+  "CSIZE": "22568",
+  "ISIZE": "60732",
+  "MD5SUM": "b034ea1d7c4e583842dc64ec5e7f93a8",
+  "SHA256SUM": "8ca8734b798bbeee43a155377fdb80c3700428d57afda7e363d18cfd83bf6fa6",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl8EfWgACgkQeGxj8zDXy5JIYA/9FW8iPDohAOHcLsBxS63HSpDQszwW5Qpk2aUlGG7/uI4zTwuDzZOjzwCbLX6SiC2ZneKBJsjvUaGHqblb8hrWQAIdDQWNdoUEME08BbsnZZeNtNkn38EdcRU9lbe53hB2v2099OBGEfDPIEjwFmHzGByAP0eBSQj8yZ7IHgjZWZa6j18p8T4Pe5wH/wrNjyh51y46m/eaabgpLOqtjVJ/lEuvuc+BZ5K0o1hAsAaW9Sel5an+6d0C2VjuvfKMEHSKLXq+r8vSEMU5kXFbC+rXaqnKtLYb6eWmoJWtObKAYBIM06zt+bjIKpUWazULAUtCPaYRkGRyw2CFHg8YPuMPCIBIYp7Q5GCbTTgn1yi9Gldw6N1C1o7eVrlW8dr/fN7yYjfLHHUqfTmmrUnqos2pehORGxsknExbuH9GDxe745KDT4y/RblTaZl05R0QOO7R7hmlwRSUwvCtKfGGhodgBagbM59FcCr0lLk/u88JsuC0KSFKuvG73WORU7hhOCO1ku6BSSOfR52AiJR8l2UQLdiXObGj2uUYmE2X9Yh9ktbnZi5j4AS3Xdo/O8wkt0A4NN8I45iRqQSCjxofA1X9CF/hJ4BShvwadn/i2SV1g7nWk/wZb9A9TIlAxySOYbG9eNpKiPl0gb/XOSIZLd/49uhEQqhuh9yYv2Z6hnRZSG0=",
+  "URL": "https://github.com/rofl0r/proxychains",
+  "LICENSE": "GPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1594129752",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    "proxychains"
+  ],
+  "DEPENDS": [
+    "glibc"
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "FILENAME": "python2-pygame-1.9.5-1-x86_64.pkg.tar.xz",
+  "NAME": "python2-pygame",
+  "BASE": "python-pygame",
+  "VERSION": "1.9.5-1",
+  "DESC": "Python game library",
+  "CSIZE": "1978844",
+  "ISIZE": "6979584",
+  "MD5SUM": "2174a2191554cfced8849b97b1f7f3c2",
+  "SHA256SUM": "7e84bb97b7eb6277fa76dea24e0f3d56d6daf533a669c23606a9901e6e643e96",
+  "PGPSIG": "iQEzBAABCAAdFiEEFRnVq6Zb9vwrc8dWek52CV2KUuQFAlypAIcACgkQek52CV2KUuTOagf5AQes6gbousdvM8QD6d9dDF9Q+KZMUJlLE20lSE+s6i0DRb5Pw3Wylg6cfnH4B4CnLBc1+apkd+m8b4D+Dv4zVj48L3DM74oUySUA1utvMYdHxFZgiE0SkwlUqccxzDuV6HrXbf0NFfcs8OlARHEm0MYNTOHnMEVNnwIClN9FM+oUojvXqr5JKcYNcXm/iRsUCzoF0BDG4eRqi9kxuFHXkt6SJfjUc1J45WKYy4dvxXe7LL3xYDOG9l1gpZgEj2IWSuRjOZlQHwKj7gH72NUdtGO00YWHnNBT1nqrx8dWS5BDeJKVUnXHjdXvF3KmU/PPqLfXfQlbyGmnUVa+kfh4Yw==",
+  "URL": "http://www.pygame.org/",
+  "LICENSE": "LGPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1554576657",
+  "PACKAGER": "Antonio Rojas <arojas@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "sdl_mixer",
+    "sdl_ttf",
+    "sdl_image",
+    "python2",
+    "portmidi"
+  ]
+}

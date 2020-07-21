@@ -1,0 +1,25 @@
+{
+  "FILENAME": "gtkglext-1.2.0-12-x86_64.pkg.tar.zst",
+  "NAME": "gtkglext",
+  "BASE": "gtkglext",
+  "VERSION": "1.2.0-12",
+  "DESC": "opengl extensions for gtk2",
+  "CSIZE": "200137",
+  "ISIZE": "1617431",
+  "MD5SUM": "da012df34a1bf8a477f6697260ea7bba",
+  "SHA256SUM": "7e30b6be282355e585488611673b06af4c5a15a7494b9ecd0b808a8dbec555eb",
+  "PGPSIG": "iQEzBAABCgAdFiEEqEuNxzq4MgZ75Uw8l2rG+juU+hAFAl6oPf8ACgkQl2rG+juU+hC9uggAjc7YxQTJfJxO2dFykhV5i1PaJdvfnU4PTlGF1B4/cPP4Agl8DiRzvVHzU4kWfytRQNJ3z58CC9564hIJJvc/GJzeew0vEcf06nApoNsu3RCXUHbQoOFIvJagbl91sSDG39TyEmjoxszSVSwOscp9hUV9m27g7FoteAq1vhSh0t2p/MO1aAUabxIegI9tT/Rj4NyCYH9a6ucWXsFwheqBcsirAav/byOSPG5VbJpclHz7KqbMdNiuiqXFUm12kNrLyzbIxHqnpMizfMZMcug8DDSXViz1j4smX0BaF8IKaCtRTgrEDr/z4PtdCsa7P/dOnkFRS/vleojfuLRKM8DQmA==",
+  "URL": "http://gtkglext.sourceforge.net/",
+  "LICENSE": "LGPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1588077974",
+  "PACKAGER": "Jan de Groot <jgc@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "gtk2",
+    "glu",
+    "libxmu"
+  ]
+}

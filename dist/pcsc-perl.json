@@ -1,0 +1,24 @@
+{
+  "FILENAME": "pcsc-perl-1.4.14-11-x86_64.pkg.tar.zst",
+  "NAME": "pcsc-perl",
+  "BASE": "pcsc-perl",
+  "VERSION": "1.4.14-11",
+  "DESC": "A Perl Module for PC/SC SmartCard access",
+  "CSIZE": "30163",
+  "ISIZE": "77793",
+  "MD5SUM": "451899121db3b0a65a81e25c79a8fafc",
+  "SHA256SUM": "c80ffb5d5485c3dda38dca99572a2195e6a2997b04c153bd071caeca105e5c5b",
+  "PGPSIG": "iQEzBAABCAAdFiEEhs/8qRjPOvRxR1iAUeixSKmZnDQFAl7vl5cACgkQUeixSKmZnDSuMwf+JbyKIawivR5ud87AVRYHYQc8Vucs69D72x7J9PHwh0hwoIvRxviY8sWVa7KP+nQfQ47fljmg73yR2QmCpwCbe/v9+B8NIRggoQbdWjZpXjynNqOrzK5PzotjMQVahoVMpFEJ55aHe/w2G0nbTFUxQXwjuo8Iek/x3tX5vk5OKpqjMxMsLURMVeB6zsxClNx91qYA1zUGfHpF7jB9e4FqqlBXQ0oMttDPq2XPjp+kNvLR5DzCCxa099EV4d86U+72ZoiwihPCTB6fpgvy5UFlkl170CgUG8KObjt+FzvgTqiA59MQYlv790L67RVZsrwJCHCypCTjXJUwQ6VFIO+5OQ==",
+  "URL": "http://ludovic.rousseau.free.fr/softwares/pcsc-perl/",
+  "LICENSE": "GPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1592760192",
+  "PACKAGER": "Evangelos Foutras <foutrelis@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "pcsclite",
+    "perl"
+  ]
+}

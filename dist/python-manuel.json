@@ -1,0 +1,23 @@
+{
+  "FILENAME": "python-manuel-1.10.1-3-any.pkg.tar.xz",
+  "NAME": "python-manuel",
+  "BASE": "python-manuel",
+  "VERSION": "1.10.1-3",
+  "DESC": "Manuel lets you build tested documentation",
+  "CSIZE": "43512",
+  "ISIZE": "177245",
+  "MD5SUM": "d039e4986d38c60eb3af426f6cf8fb87",
+  "SHA256SUM": "5fead78e0d1a89975f863ca88f9ade33d21f6cd36cbe98615be1a77f2ff542f9",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl2/198ACgkQeGxj8zDXy5IFiRAAnuY/tn0yDXIP3lgnL9Pl3snLBKQD+VPC4IoLxeEEu3QJYp91iCMtD7VqpXX3wLLck/jpsmVnuuM7pozRYaxCgl3aC9A9NmSOTlrTUUkYwBpYJqZbp49pfhO4i+JVnlQm/fPcfoJxssclyBqAqcMimaha7k4gFDDrXfzBua3D+qs4T2grYDcULe+J7hNoQr0IWRGxZVkXHft2l2yUD0KSRnN3OrBdR0lD0PV2rf3kfitsx/qe8yRHC35TXUgIAJEEztTTV+0cin2vW9SN80jKRPMJA6ypxbkkiddn3DpEcV+22PKg6wgkXgpOrgJN/B5gtiUUYVCVp25E28uIgYFJ1NQqn2OErFHsPdR0Il3K+2yo3j9G6Ioo4hY0U9973h6ivdy9z5jvs1xh+XyGglQXWN5TpUUX6Ul2aVWsdzAWbzf/CLf1T0aKsdyxHKD13B00ENjlRohiHtRvbUdoT7/gzaIThVJL0eybqAcqf/Hcrg27hj3rMvufDphW+RoUNvQahms0JZ4GKHeAYgs8O+9faD4wgE7Xg4T90ogdVF5dXnzH1QAytrd92lKOB9bqUP0GpWOpOWlMliCpe4jRxT9kT6VV7EKcvFDrfcQpGHdIWrWQw69flohDx7zJsswvURj8S/9JDgmJKBFXlkqTxFVJfRFJJ89reGWucFeMVDI8Wns=",
+  "URL": "https://pypi.python.org/pypi/manuel",
+  "LICENSE": "Apache",
+  "ARCH": "any",
+  "BUILDDATE": "1572853704",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "python-setuptools"
+  ]
+}

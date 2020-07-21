@@ -1,0 +1,25 @@
+{
+  "FILENAME": "ibus-rime-1.4.0-2-x86_64.pkg.tar.zst",
+  "NAME": "ibus-rime",
+  "BASE": "ibus-rime",
+  "VERSION": "1.4.0-2",
+  "DESC": "Rime input method engine for ibus",
+  "CSIZE": "23613",
+  "ISIZE": "47855",
+  "MD5SUM": "11ed75ae4fa45248bcb1f51e54da72bc",
+  "SHA256SUM": "b92ed4a70cf5df5b9efa9fd67b058ea6edda72127d77f84862d7ab0c41717a75",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl5s1mIACgkQeGxj8zDXy5LWeBAAikp+Z/4eiVGAd9M0HnPzZdi6euMgPzJL8Ek4f0oPeuf84q8Sabkx3rf+ZAgA19aw5XgrBlJ2aYbNor3SsxN5Wiw1Zy1gqio9xmKuMDvjzSzYSfKo84dmwhvAAKA7mTPGmz+k7REZ4IBUvS8GNtsz4kG1HaOXl4f6w11I+8H+VK1smGk9otnQqQormEMXqbQAjGByqLnj3sz1bNKvRET61AoglCHwrekKG38sKZfq9rXD1pycKUIArxdv4vCrd753rl5BmJvdoEocbu4WFHWSy22IuZhNdiavywQQjRdSrWxN6Vc+GhwOxUG5y0Nc7bl4WgEa8ordvtreWPhlldf/JhT3TQA2kn7yvUEQbCMryCA1n4RaZNoqgbAqPYRiiiLAt5mlbIIbBS4pM0blEdmg4SxmvGposUKjIV091XuFs2eYjjBmK897IDpfPe+nbIgc7/uTdWRQwsZpw8eb9sLgCkFdEYEHmZd8yLxeTAJjNAPLaImK5ptzuA0VdvZc3YQQ30prGTRBt9ktEaPJZR/ywLmr/ZqD+425jmmXxuPRgZx6CEXbzMhyommR6pMV8GmqfERG66pd3R/3nR3i04sJOUwLLbiQOE2dgFNosaPl/lvYvsW2iY+6jtXj91BhzOB24fiw7uicgBisNfuXCxMDS5QPd3EH3vvxDpGk0Ix2Tak=",
+  "URL": "https://rime.im",
+  "LICENSE": "GPL3",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1584191015",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "ibus",
+    "libnotify",
+    "librime"
+  ]
+}

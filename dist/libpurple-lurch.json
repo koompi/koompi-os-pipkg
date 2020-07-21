@@ -1,0 +1,27 @@
+{
+  "FILENAME": "libpurple-lurch-0.6.8-4-x86_64.pkg.tar.zst",
+  "NAME": "libpurple-lurch",
+  "BASE": "libpurple-lurch",
+  "VERSION": "0.6.8-4",
+  "DESC": "Plugin for libpurple (Pidgin, Adium, etc) implementing OMEMO (using axolotl)",
+  "CSIZE": "169487",
+  "ISIZE": "560408",
+  "MD5SUM": "0005ad8e1df4978eabd1b57bb74ae064",
+  "SHA256SUM": "3e4ee64b3fdfedd6842fd663919378f220971200deb00889c959d32129a5b212",
+  "PGPSIG": "iNUEABYKAH0WIQQFx3danouXdAf+COadTFqhVCbaCgUCXvq86F8UgAAAAAAuAChpc3N1ZXItZnByQG5vdGF0aW9ucy5vcGVucGdwLmZpZnRoaG9yc2VtYW4ubmV0MDVDNzc3NUE5RThCOTc3NDA3RkUwOEU2OUQ0QzVBQTE1NDI2REEwQQAKCRCdTFqhVCbaCtZPAQD5A5GnojNjM8es+ZsklxMqUUFSXDAj9SKv5oVijqO2pgD/RtZjQj/wbWGpWaq7HKIih4KREGb0Brou7/W9u9hDnAA=",
+  "URL": "https://github.com/gkdr/lurch",
+  "LICENSE": "GPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1593490532",
+  "PACKAGER": "Frederik Schwan <freswa@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "libpurple",
+    "mxml",
+    "libxml2",
+    "sqlite",
+    "libgcrypt"
+  ]
+}

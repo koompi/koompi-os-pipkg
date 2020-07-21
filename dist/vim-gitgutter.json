@@ -1,0 +1,24 @@
+{
+  "FILENAME": "vim-gitgutter-708.c27bfab-1-any.pkg.tar.zst",
+  "NAME": "vim-gitgutter",
+  "BASE": "vim-gitgutter",
+  "VERSION": "708.c27bfab-1",
+  "DESC": "Vim plugin which shows a git diff in the gutter (sign column)",
+  "CSIZE": "33882",
+  "ISIZE": "131760",
+  "MD5SUM": "6f5bbfe6dfccb6b9364c0db88a6e6840",
+  "SHA256SUM": "07b2af720004b31323d0dbbd96f3cffe5a172ceea961029711926deba14be59e",
+  "PGPSIG": "iQJMBAABCgA2FiEEYEETBMCdNmKDQO7/zrFn77VyK9YFAl8FKF0YHGVzY2h3YXJ0ekBhcmNobGludXgub3JnAAoJEM6xZ++1civW1KIP+wYUaJnX/SVW9tPLpGcaDYV39BQ4MDdd1mczsk0FB/fc0dstmDhUdQCexqdH4SbmD78dgz4aLIpk1UbAf/c2DdpQyRk/ymZdij+J78+sIB0ev0ZB+dZLxB3dL4zfDjy2d5KRiWjCsdONvLLRfpUgQJrs3ZOQV4l9tCNxAJyGqlP20dEc8FsxUS020LgAe7JNGjE1DLUpCkSWVoYZ7hAQdYiZp1NM+snDyV80YWNesm4tS/gEi7JCNq3O6EQMCTLTZE6fufnpHTIScc5S1Qp2amly5JA/aOqrgsNbIxkp9e0A7C5jLKQ0gO3UHguDDt5tQb5QZkD/aIsVdXWwH6sA5LLQeXsOOVWLuHFaw3GX+Nb2vS+36zHTHmw2uS0iWNfpAvcWLk+GgmsCdjjyHnL2v8VtCPtrLRMfD/EqUPaSofr2y3GHG9uB2C9K8fXM8lrfxfFTm+z+J+1Mo2X6dZSTZFBHBMVlGc4pi23TgcKHckK0gg3EbnRbs0ZKW8jslM/VIm60qCoDgMlDf71pEsTVRquj/tyG93Ag1uqsN2SKj/6El3NK12QvbHCy7n5zv5D+KksnQDcGyAR+vI1dz3aAJqpqxcWW1Ue7+S9VhGAi1r8Ehaa8TNsfEEX/ILohZDmr2H6V8A59oaYsIl14qLRpv0u6PIGXhdoP8NhQw9y3BEQi",
+  "URL": "https://github.com/airblade/vim-gitgutter",
+  "LICENSE": "MIT",
+  "ARCH": "any",
+  "BUILDDATE": "1594173385",
+  "PACKAGER": "Eli Schwartz <eschwartz@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "vim",
+    "git"
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "FILENAME": "python2-pytest-cache-1.0-6-any.pkg.tar.xz",
+  "NAME": "python2-pytest-cache",
+  "BASE": "python-pytest-cache",
+  "VERSION": "1.0-6",
+  "DESC": "pytest plugin with mechanisms for caching across test runs",
+  "CSIZE": "11668",
+  "ISIZE": "40131",
+  "MD5SUM": "c6fa4eb543068216e52d3b443ad5126d",
+  "SHA256SUM": "20597fbe6b0d1b14f367dbb44a5b80e6dc83b849343f833ca1e1bbe66e012369",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl2/Mf4ACgkQeGxj8zDXy5LVtw/9Gh4GaLq/Abc8Au7AMtpAk1ItBpcf28OF8pbmJ/MaqipUT9vLJXMVyAx43/zXisLlUzVuFDOGVFBKn4YyVSJy8VCpXEE7Rs9iwj5yUIrZZqUYvuWFfH1VfZIMLpsWbcKSQ3CEiv9A8rjU1yer5q8nHUmm9N7Pwqq+S7X2t36HiWFga9rPY8B/sawdU6z3oMIjcZfj4kMZsPRq2mRSgcqVmEro1GCkKaE73spipwdGR8uq+N5cfRgkHT6UItWZTQq6tuYk6lqLykdIPuk2sGPZ6Hy4+oyaXuKs1WLDlKRqj07Roh+iRyNbB+fqKF7sBIRphytAQNlE3xsQOTRDhlS3iJKh8v2tfxPI5rV3UcURPpnWzz+ByGRaOB+BdAVCdF629SY7sIbkFDwFb6wz9lwzueBQbI41NrHltERrrkUGNf+hAc+QxL72paV66rHxaiQiGZxIQo56BQ8sqsj3DjOWl04SjSzDrY8vcLOSGsXZ+6wnyiLaGGYIJ9MHfRZ/AsqEM6unO0D2ajSPrHUODyudj4ixu4c5nzBh45dsAeF/ZT38l/KVbcvSjUhAovo9GQL4TYCDYshAF1PhvCRPPNi6wq5tHnqbNzXy9nyzddHHVXGhBJgk0FqB96ztMtileOqhzATRixQOYeno2R4kD1jpQTyy0NCfe8ibkjR3o/9n/I0=",
+  "URL": "https://bitbucket.org/hpk42/pytest-cache/",
+  "LICENSE": "MIT",
+  "ARCH": "any",
+  "BUILDDATE": "1572811204",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "python2-pytest",
+    "python2-execnet"
+  ]
+}

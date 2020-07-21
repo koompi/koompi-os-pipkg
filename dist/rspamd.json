@@ -1,0 +1,36 @@
+{
+  "FILENAME": "rspamd-2.5-2-x86_64.pkg.tar.zst",
+  "NAME": "rspamd",
+  "BASE": "rspamd",
+  "VERSION": "2.5-2",
+  "DESC": "Fast, free and open-source spam filtering system",
+  "CSIZE": "3094965",
+  "ISIZE": "9878215",
+  "MD5SUM": "64be3d5cc369f53ffd19221b5c7f4beb",
+  "SHA256SUM": "b39d51a02a6b59ab0b8c1889d0ea6e98026ccf899e1facbe91b55fa6aba70fc3",
+  "PGPSIG": "iQEzBAABCAAdFiEEhs/8qRjPOvRxR1iAUeixSKmZnDQFAl6mzkwACgkQUeixSKmZnDRA2wgArd3PieEXQtGkQN+oQmK0E3q0cTA3MV0llRgd3G3sp4rRJxbrE6/eR9RHt2Q0k+ekVfDKFJEYFyWu39YOkx6S1nGQzH3WIFWbMWcBAAF0iZFz4kNq8FpC7xkxSvDKwLqT66yeLmNoXxF/2ILIEF2MtTymFBhbPp3gbQNoG5J7BIst2I2CMal5nJiwnEZ03IGINT8HeljhXZZon8DEPt8aEEHpb7EpCVf935P6hLfuGefhuFfFNGIWDXb0JnWHZBAJOoxj5Gx7Nu0A3Zu8KgzAiCn8OBrq81jmZvvEc6b+HC7FVQGmUeMojWFDR/wI6IUi5nIxwzYkn4ej6KAejPAJdw==",
+  "URL": "https://rspamd.com",
+  "LICENSE": "BSD",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1587989972",
+  "PACKAGER": "Evangelos Foutras <evangelos@foutrelis.com>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "file",
+    "glib2",
+    "glibc",
+    "hyperscan",
+    "icu",
+    "jemalloc",
+    "libevent",
+    "libsodium",
+    "luajit",
+    "openblas",
+    "openssl",
+    "pcre",
+    "sqlite",
+    "zlib"
+  ]
+}

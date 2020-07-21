@@ -1,0 +1,24 @@
+{
+  "FILENAME": "phonegap-9.0.0-1-x86_64.pkg.tar.zst",
+  "NAME": "phonegap",
+  "BASE": "phonegap",
+  "VERSION": "9.0.0-1",
+  "DESC": "PhoneGap command-line interface and node.js library",
+  "CSIZE": "6328253",
+  "ISIZE": "36685604",
+  "MD5SUM": "aa1acdbee0bd5b6f3c178834f1b438b8",
+  "SHA256SUM": "f65b45c908ddc64dbffa382cdd79bea9a93359635e20fc4a83ee1b517dc6a7cb",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl5ybawACgkQeGxj8zDXy5J0nA/9F09Une083hMrZuBDlhRyA630FF9jm5TkNt8WlR9JlbkR4SlPHvHVyKBvuXSGx1YzoOWCsIpmIYKQkyzgOnX7dKlUN9EIflVp0n8MsKg5bGceotXmn/Mwk16AkNyAALcnSuiTr+cV+LWBcX6vx1dkTqvHXVmBq3SfttsKqXtqdBQndx9HDHh+WT3RdgDq9aMQIfk6mIqjp3gtDMAialMREVMeUZo9lR/ln09CT5Y4moOK+Qyu6uoiOsFouPpKRSK/oNtbP8qNWgctM3sVEjzX7J4UU6c0wYPqCZaJ6npsWQt7fOzMihwPAOchLzLKJGk+OuP2omysiWdTGaMaJXaJ0eiygiDUaoEC0Ga+vDcBqfmjcCUy7K6WPghuxhOGgNNazdVTfiDBOkulTKnhNabEE1aD2nbZBROQuZYBwYHo7HNZXWQtef7zsT/7ghzL3J3h1wbNbod5XPoRhx+kBCsT0TXKpeRUjGNV/mXptmmREt7r2+UtDV/ZW0f6hdw6DP0SG3iGyIUERDqqlXNZ9ZpgVdqoEQbabbBDitfgL/tNVVE8Gdzh1CKOukYygFoyWq9JFigFgwMpYoyhE8KoxnztB08CiZmAJBGNabwGNjq0hK6llZjav2CN5vF3XI/kimMztaJr6Uhv4cyLtLuUxYCDwX8qjUT0gnxvxySvvz+UCnw=",
+  "URL": "https://github.com/phonegap/phonegap-cli",
+  "LICENSE": "Apache",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1584557151",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "semver",
+    "cordova"
+  ]
+}

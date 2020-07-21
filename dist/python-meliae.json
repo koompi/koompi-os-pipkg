@@ -1,0 +1,23 @@
+{
+  "FILENAME": "python-meliae-0.4.0-3-x86_64.pkg.tar.xz",
+  "NAME": "python-meliae",
+  "BASE": "python-meliae",
+  "VERSION": "0.4.0-3",
+  "DESC": "Python Memory Usage Analyzer",
+  "CSIZE": "119376",
+  "ISIZE": "424871",
+  "MD5SUM": "29d825b710fdc0ee18aa42f4aa6900a0",
+  "SHA256SUM": "6823027b662909615852ff406432b0ad70fc234ada446f38dec5bf1a5901eaa3",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl2/hnwACgkQeGxj8zDXy5K4Ng/8C3bzUpKASHukoXMCZsLQuzhlivPJUz+2c8KqQmEoHy8L3+aiRo2TZiPyJLIIeFK9XGdz766iIXNx+8Y2W6SAfnCNR23pUGqEIYbVHN49FkJdKliw9hZTzCU8uBtNR2GS1Xsaa/A1P2XgotokvxSuPDcJM6845h5k3qYlIt9fxIMrHLFimjmerfW2GUkPdK0KeI/mmcuyn11d7Y6Visy3e/oD9OZ2LouaL4lvHZP6QDWexYE7vOJo32Te1VWyM3toVrJg1XScFJ70KGx4DOrNnAuQU6hm6GmxuMbJF7eKrSlxMLUYpONuoob+XcGQ/pUvxoP0i22+XDOUgC9Gjx5/l2bbtvY884zEDSKQDZ/D97p2o3ekwBjStWqC/M+NmXH+Wwx3qhq41WtYA4MMBlx7FN/yf7Pb05t7BMvfnjPnWuXI9p0/Yu5Uom0N0QZ/Yfj2XIHdphIwOIE3doNYUdIV7eQKLVSS0cs9fmqK203sP3A3eXGxJSIcbP1DzQY1me3RA/RUhsyqv+WUkhm47flE19VHJ2JNYS2ebrZoz9RN2Fpwft3Bp+ktSjJyi4q4qlyOQU/Yz9x4DByVv8Yec5nfUyQi/2jQQF90JlcTKJcrtf3qFNeV1VK8H7X3k1Y0gItw2hTYj5piB494Sjd3sC2LcRP5glWgQtrq3Clts/viMjo=",
+  "URL": "https://github.com/isaacl/meliae",
+  "LICENSE": "GPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1572832815",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "python"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "FILENAME": "hyperscan-5.3.0-1-x86_64.pkg.tar.zst",
+  "NAME": "hyperscan",
+  "BASE": "hyperscan",
+  "VERSION": "5.3.0-1",
+  "DESC": "High-performance regular expression matching library",
+  "CSIZE": "2253983",
+  "ISIZE": "11209929",
+  "MD5SUM": "ae680a1dfa238a241d27b8bff1d7250f",
+  "SHA256SUM": "6d0c5e9188a67f685f62998047cc81cdcc603cfafb074265e5b42040bcbabce4",
+  "PGPSIG": "iQEzBAABCAAdFiEElDfdOBWnqRaePTlGr/XZUJi8b/UFAl7LzX0ACgkQr/XZUJi8b/V2gQgAiM0mk0UOedLJ8BbhYWVCJp+r51BmeMFOaCXeBZy+m0l8q1NXBBbQT3lPV25903ppupk754KtG/iXSPy5TiF7feRl+py1skIFKfVUy9wspS7LVGK5eDnra115lzMTQFTiEs/nL//d8R3mcaJjTaG1b46LBgTNgGtkqxAVtS+Wp5a2grueqToB4lXO0iCUqus6jIdLho/tdK6rseUQzmd1/qSA7S/qeDD/rhKWK4AimBfPfNOUT50PI4Ba+utaP7lAjVaVcI0LbgKoVTIglK6KjRD5+pdvBvKYZPk81+XXc6UOi38Y7mwH13Wt6KcJmW8GkKPw/rmu2919PU/tyODI7g==",
+  "URL": "https://www.hyperscan.io",
+  "LICENSE": "BSD",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1590414565",
+  "PACKAGER": "Maxime Gauduin <alucryd@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    ""
+  ]
+}

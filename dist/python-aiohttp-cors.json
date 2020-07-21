@@ -1,0 +1,23 @@
+{
+  "FILENAME": "python-aiohttp-cors-0.7.0-2-any.pkg.tar.xz",
+  "NAME": "python-aiohttp-cors",
+  "BASE": "python-aiohttp-cors",
+  "VERSION": "0.7.0-2",
+  "DESC": "CORS support for aiohttp",
+  "CSIZE": "26044",
+  "ISIZE": "121280",
+  "MD5SUM": "107d6be1ce3ce34e055900d1c75ce15e",
+  "SHA256SUM": "d91664b3c08c3732a61880356c0ca3448e0a18218a256a56cd84e6ee9158450d",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl2/r0UACgkQeGxj8zDXy5KfDA//VsDqu6r3zk7nf4bLPYYX5Z6A/msavjCJpV+MfJrsyzZyjjlTlEnIRiPoZ+M/2voZI3p5X7kPKCxgJhS786FDnX7ONlMZyexDiPnE4gLtzOtK0IpNA/ECsbJpZlqA1bAg3z/lXfRCjGG2COO6nmAZq1/GrVyIpZTzAXc88+unHLND03a0wgWZPQ1DS2iAzH4R9x/RAz2W9An8Ae9RhYQ7knDwr5hGuyj3rQQMYjf3CTHz6bnX1YD8dgTM1zqrODdi7mc4iaSIhMAu7qvtoP21+rhxNkPAHmBk2GmPqK8pCtC15oHYpD3ibVCbp7IARh5sdiK5j6IEo+mtuPEMz0oASIWvGnClZKGuJXOFOxaVQ6FtjQkczCJ43L6nZkLYGiYdFG8raWXZZp3O4kEGPA0lf6D0SsotNlXPQi9EvNZJv89sxSEjKhheCKnEHxe3MzqNBLP4mGrgyrCVXdgQ03F505mSCWLUZQ+t5ef4IlknPltYiz2bF2eQwu7MPapkQf30Oh3+7GSh1HR796+Ea8MTRyj+9TtHEd436EuqnRkxJenTdqcJcgo1/rgngON99KQBhBTSD8FT1SDB+LFTxcUUoN9SkaGDqErQVb+APLHmQXoAcqS6ZsbIKuaKWU5g2fICf+ncgCypQU7GtbcZlRWlsn+BHRnW/Ln0A7kyCB9KYYc=",
+  "URL": "https://github.com/aio-libs/aiohttp-cors",
+  "LICENSE": "Apache",
+  "ARCH": "any",
+  "BUILDDATE": "1572843305",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "python-aiohttp"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "FILENAME": "perl-sub-info-0.002-7-any.pkg.tar.zst",
+  "NAME": "perl-sub-info",
+  "BASE": "perl-sub-info",
+  "VERSION": "0.002-7",
+  "DESC": "Tool for inspecting subroutines.",
+  "CSIZE": "6771",
+  "ISIZE": "6503",
+  "MD5SUM": "1d879f69af0d1e6d7799359abbced384",
+  "SHA256SUM": "ad9049876f64d733bb9c14f56f592c48336dbc5ce3292325b7e8d3f3615f7015",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl7vOeMACgkQeGxj8zDXy5KmYQ//ZkVerh33wdE1iZVzzC1kjfzG72FkeHB6l88sXo4DQO8ueAVhOThbWdVc66x6JWZd/B7PkE+JrHH11Xnoa9Rs8tDUAli/KfH0e/PYtJQo+ObjK+zQg+ADcAIOCyr/hYojaYmTMUuEtR1+JoZFAW+BE6oN+eJvfm8EqjmSTtvCwLB4V90ORn2QqL03HUJkgtYBYaCA5PhLXkk8QaD0vDRDDlHSsW8W+c6V/oe52URaqaJuKJa0fM7mW7hSlMFfmJK583+gV1bsaDcEhRyY6Sm9t4NSH9DFsE070DTlKjh+bZ4Au7JKB5/BYVvHPX6fMOWh1NzV1kSnfBMWkj6RWf3wn6qbKWynbA4yX4nLW7sfesyGtsFrimFNYTF8JD6ugfKyv4iscm25lLBap9dVmztnot5Ly4AVQkV2WFNUhxLrdPTiYLHttUhEjZFF0E0wrD74qpXqv00yAVNqiSto9OdZyrYCjvfq0X+CTHTfHjvTjV/jfUu3Sjevj7XDXmwW1QfHkLXEoJ1cH5JWTJPov8lMp7C3ljfangOGI5/9kEBYZyPYPUv2a03kiRAPLwCsJFLBVE9xl5na7wtB1WENYkAQv8MsH7b3xA3z0PCCADxB14Lhq9PDVZzBfG42E80ED+uAkkYuNYEtFSUGD/K+7pbaMy7qH41df2aJjhRs1YRCTFk=",
+  "URL": "https://search.cpan.org/dist/Sub-Info",
+  "LICENSE": "PerlArtistic",
+  "ARCH": "any",
+  "BUILDDATE": "1592736207",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "perl-importer"
+  ]
+}

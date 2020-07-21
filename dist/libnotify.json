@@ -1,0 +1,23 @@
+{
+  "FILENAME": "libnotify-0.7.9-1-x86_64.pkg.tar.zst",
+  "NAME": "libnotify",
+  "BASE": "libnotify",
+  "VERSION": "0.7.9-1",
+  "DESC": "Library for sending desktop notifications",
+  "CSIZE": "51313",
+  "ISIZE": "289231",
+  "MD5SUM": "0f8d7daf8f4e26d695f2dec7f24d4e78",
+  "SHA256SUM": "280f0ce4e388c9d20dd92af5eb510f88c5d29e2e8fe7d753bf707fda446ffb69",
+  "PGPSIG": "iQEzBAABCAAdFiEEghj4iEmqxSLpTPRwpekojE+kFfoFAl5XysEACgkQpekojE+kFfpEfQgAlnBkG5AOsxtRLzs6CEo684E8diU+mUmSp8CjDDdbQMQ6532of8dfh+eZVKIXCVTZZLmE5xPSwAlY2eBNqhQjsZiZfiChYVbXKD1R11mAshtZNFrJxBF11jIwtCmDGhkK5q9h3DD3lILBA/ud4rke08HUEuPypdYiLqGklhXJ7LHBvN+2YKNkmu0ubox+NBIuj/RWc5fnGt7IIIkTbny5GyeMg+1ULxqiNDRiL2dD3553cxdqUh6YB5huDMAE5iPPtVHDzCy5fZvTcG24roj0lEtXdIsDpyc3J3AecuPjTOydflIelK4t9jBcCfj2x+66gV3r+ibgcuUFtmRiGDGAyw==",
+  "URL": "https://developer.gnome.org/notification-spec/",
+  "LICENSE": "LGPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1582811003",
+  "PACKAGER": "Jan Alexander Steffens (heftig) <jan.steffens@gmail.com>",
+  "PROVIDES": [
+    "libnotify.so=4-64"
+  ],
+  "DEPENDS": [
+    "gdk-pixbuf2"
+  ]
+}

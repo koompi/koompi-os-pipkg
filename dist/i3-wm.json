@@ -1,0 +1,31 @@
+{
+  "FILENAME": "i3-wm-4.18.1-1-x86_64.pkg.tar.zst",
+  "NAME": "i3-wm",
+  "BASE": "i3-wm",
+  "VERSION": "4.18.1-1",
+  "DESC": "An improved dynamic tiling window manager",
+  "CSIZE": "387683",
+  "ISIZE": "1424264",
+  "MD5SUM": "089a98a571d73de98cf5882ef0e38a74",
+  "SHA256SUM": "79cdc3c2c07ffa4dee38010a738d8b769ddef4cc48b5d8e03ff6c015e670de7d",
+  "PGPSIG": "iQEzBAABCAAdFiEE5JnHn1PJalTlcv7hwGCGM3xQdz4FAl6h4IkACgkQwGCGM3xQdz72Igf+MF3FqqKRGzEOFEHc2MnBfTMe1Ux33hU9Nl/06oQsb3bKiGJ8FbM0l6xLIVNYCDBuA8HTIBYwVnJ9Spxvl1mWV4ZkUKe0wy4d3ubOV0zwWf2KiEw4+NqcFH+5JCt098Q0qwtjCdnE9g1WyWgXAgE7b4kNXYmDMIsZ+AJHcWGZ+ZxeguijmaXtsZ4ua5VK/qzdjTEw1vme2cs/+KW9dBFI0sFjrlQHpSgJswgKYUi9FNZPc33x861VaVFoMh00LKA/PCjZ2YNVEm61gKK9kxgmcBXoXvvodHX5K9EjOdhz0DC7uRRflx905avASqRDYbFD0/OTdifW+FQKbvJpUVjfNg==",
+  "URL": "https://i3wm.org/",
+  "LICENSE": "BSD",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1587666862",
+  "PACKAGER": "Jelle van der Waa <jelle@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "xcb-util-cursor",
+    "xcb-util-keysyms",
+    "xcb-util-wm",
+    "xcb-util-xrm",
+    "libev",
+    "yajl",
+    "startup-notification",
+    "pango",
+    "libxkbcommon-x11"
+  ]
+}

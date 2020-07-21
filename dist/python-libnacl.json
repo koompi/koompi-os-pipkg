@@ -1,0 +1,24 @@
+{
+  "FILENAME": "python-libnacl-1.7.1-2-any.pkg.tar.zst",
+  "NAME": "python-libnacl",
+  "BASE": "python-libnacl",
+  "VERSION": "1.7.1-2",
+  "DESC": "A simple ctypes based python binding to libsodium",
+  "CSIZE": "30307",
+  "ISIZE": "174150",
+  "MD5SUM": "dcdee6f6377e38c77f9182ec4dfa28e6",
+  "SHA256SUM": "35f729e3fb6fb5f87b7b74892b8afc90e55ac04b1e5011bd36c77395fa5335c9",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl5Ji5cACgkQeGxj8zDXy5KbvxAAj2gQ9o1ic3s59sg9qUAVpCusmJEXbLbkY9IRurgkLrcmNrOnd4zij2f5W3aI5jxdzlozP1CHRpFPFS00ojNBJcNRiext5wSTAtVTTNG3TcsjKf6DjUinj2Zwez+BADQtIu3up2kW5SWgLI1UDw2+fWD5fW4ZRgoRlpFP1E0sSWIA3Lt6zEX1/O7P4WHun+V53/MelOI/CQ+PN8EqO1ZrUCfgKRew+X+CJT783dbEPCvWVI7ZBkBoE1Vv0VyKgi8DB9+3EYnVfgODc1t7bSzZ2Llqd/wDDgIN2soMo4MfJMStU1erR8hXLk9dPY88Xujlh/odcOpSZpH6prIwrvMrwR+VAuh4DB070yRYNxW8S2/ZtXKhCM5ZC3pR2LkvEGeo/nCLyiuzO/uuMOe1NeX5UfixPVYeg5iLaBkmS0PG1pKPsZFVCZm4n6yEkPzOhmG6K/0gcqFxbuIKmYoz/pKfOPyVnP1v8P0InMPwVubvu43BzWJ/IfB3GmzHbZOxjqkrJUDOGttPTnkbyVv/Y1ieA2myqvox0JZMl/Fhhe0EQS0ocddnZ47Q+bjV+e2eXvqRs01woH5bHgx3HcE4MeGEqmFyVNv68aSlzbydvrhiYnoXYB7jvvDhlm/94KXcbamcKSl8oEa+Z1hBaClqlVT+yEHKKYZ51hDML197bO9q2N8=",
+  "URL": "https://libnacl.readthedocs.org",
+  "LICENSE": "Apache",
+  "ARCH": "any",
+  "BUILDDATE": "1581877830",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "python",
+    "libsodium"
+  ]
+}

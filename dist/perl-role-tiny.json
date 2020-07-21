@@ -1,0 +1,23 @@
+{
+  "FILENAME": "perl-role-tiny-2.001004-2-any.pkg.tar.zst",
+  "NAME": "perl-role-tiny",
+  "BASE": "perl-role-tiny",
+  "VERSION": "2.001004-2",
+  "DESC": "Roles. Like a nouvelle cuisine portion size slice of Moose.",
+  "CSIZE": "15894",
+  "ISIZE": "28591",
+  "MD5SUM": "6cec7fdf647c48e5e2982d7dc9814678",
+  "SHA256SUM": "02dd9614f6d098e64612fb5c51e46f49f8d762619d5f428448c97cb8778b34ba",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl7vPF4ACgkQeGxj8zDXy5JkXA/+McRCubT1SYvzC6P17bmT1T+BAZYJtUvVFy9f+xOsCHCHtzm5NfeW2pXnidOqmbD0ykD3vZ9TuOPPZBLXEn3BPzvTJZBhqWJFWme9f3nWbCQkuzjUT2O7I4nW+SaFMn70mOvQT+Vh1Gl7eH7j4wgHhJtQBG8yZTyUnepwglNfIMmGjdDrsjdFkUvwbTcmKe1qrZtIXd9Ak+lRfA0wwjSmsoQvaaURwQ/GSasqYV/iwoM+tqFgrYrm7zGGxGIDHVrfyyjc392i++er/tjClLyQq263QY0Tj5mVIyn1FbQtbx6IjmSwE6MVWjG7cIBVebJm44CpdCRCHlcXXbzt9vbUmP2icRiF2qxEqniHe/OmZKaq9DvJW91BHbOp0nVrFpGr17lsGir0kA0/CHXFD0iSQCq/v1/NbxjFe0yPZ9s3CKf96GIWVF2nFEplAoz1eu6OSRoxgyeZlvoIuEsB0f2Si5OWwrMP+3qaR0KhO3nTk6YBKVykQr8DMO3LNUjRocXYRKN6+aRwkJGxfzby2qGaKNaXHAh0UAH3L6hxC9eo/xYC5LcqwPwn6p/xempWo/nhZXOmMSEq7xwKwOtPTbXnRO0g7Xfc/Yu/YFtfcrk7ztNkcDqdTP3Twd4QzMP//FTi1AxLfKe2KE7gWriroaDoc4BSf33Ha7QXL/kC5oceW8A=",
+  "URL": "https://search.cpan.org/dist/Role-Tiny/",
+  "LICENSE": "PerlArtistic",
+  "ARCH": "any",
+  "BUILDDATE": "1592736832",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "perl"
+  ]
+}

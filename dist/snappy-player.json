@@ -1,0 +1,25 @@
+{
+  "FILENAME": "snappy-player-1.0-7-x86_64.pkg.tar.zst",
+  "NAME": "snappy-player",
+  "BASE": "snappy-player",
+  "VERSION": "1.0-7",
+  "DESC": "Powerful media player with a minimalistic interface",
+  "CSIZE": "67612",
+  "ISIZE": "128358",
+  "MD5SUM": "0b22af57896bf0524e26f3fd649e70a8",
+  "SHA256SUM": "19f6c347ca74e18f4ec7ec9fca79b2f6882b57d8c5b184b040e86074f41e3203",
+  "PGPSIG": "iQEzBAABCAAdFiEEzgvecadZqH8j8PfYth284QkBwWMFAl7yEK8ACgkQth284QkBwWNXdQf/TmPL5yq7dIZ0ZrqP8qZroeOdNym9kNBq6m8Q31jzgg4cZAyLmr5xOzI8wkG+cwZEPJJAXzb7uFTawHmzqY67VD3VH2HmqJQ3U2Ed+T8SuOlE5IRXiMdvuM9+rZVvGOHl8A9zBznF/ycCDNc6QC5a45lfVVdYjlIyKTHVY7ngW4F/tA2Ggg2vPWRdCcde2ec/9IS0kJy2APPB3OWt7kVIEDzB2RHho61p3ggc63U2Nxc/vSKBKpTEa7VlmamQZMj61P9lm1OE2Zi0uwyl/gZlj8oyip+CoIrp/lYxwXW4qnrqd2wqaY1pJqeUJHE344uNGqmZbYM9Zc2NHNeuI8Qljw==",
+  "URL": "https://wiki.gnome.org/Apps/Snappy",
+  "LICENSE": "GPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1592922006",
+  "PACKAGER": "Balló György <ballogyor+arch@gmail.com>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "gst-plugins-base",
+    "clutter-gst",
+    "clutter-gtk"
+  ]
+}

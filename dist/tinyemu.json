@@ -1,0 +1,24 @@
+{
+  "FILENAME": "tinyemu-2019_12_21-1-x86_64.pkg.tar.zst",
+  "NAME": "tinyemu",
+  "BASE": "tinyemu",
+  "VERSION": "2019_12_21-1",
+  "DESC": "RISC-V system emulator",
+  "CSIZE": "171945",
+  "ISIZE": "427044",
+  "MD5SUM": "80dc6b9e8fd9948a5484926408debc61",
+  "SHA256SUM": "6b9980a455e35f82be122245bfc832bd15649bde7450ccace4dc56a477187801",
+  "PGPSIG": "iQEzBAABCAAdFiEElihV8HLHoBhGQFhk/PPIy1z5yNQFAl5T9rcACgkQ/PPIy1z5yNRORQf9HFn02KtLg6lp9kT5I3nMLVmLT249OQy1vsBIBPKZ8TlyUhwQIKOpfJNoRns62xPcTiouOVtd9mp4Uz1FTgWfDX9fz7LX74i1wlphRj/LybvPRKC8Mb0VHguP9DOmmFJf6xS2cNx1GFspcMlfYyzo5sstIDaTO/DZqqtyXLhp1hvRg9WClRWHtG3nwRE7IoDL0HM2AJUUWbTXnUJO2NMrGfNHNQqhwZrUDkrRwvc6UyYkC/A3v+kYsAMZ2VqvBjY4bKeTKBzbd3/OI+1cVH+ZAiBjRht/hVvGqI6tBm2hU5v+A7lLJBtFhsGcWO2GTTrtkHVEnRIANkpZdF5/uiW3xg==",
+  "URL": "https://bellard.org/tinyemu/",
+  "LICENSE": "MIT",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1582560928",
+  "PACKAGER": "Alexander Rødseth <rodseth@gmail.com>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "curl",
+    "sdl"
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "FILENAME": "xine-lib-1.2.10-4-x86_64.pkg.tar.zst",
+  "NAME": "xine-lib",
+  "BASE": "xine-lib",
+  "VERSION": "1.2.10-4",
+  "DESC": "Multimedia playback engine",
+  "CSIZE": "3134665",
+  "ISIZE": "7922369",
+  "MD5SUM": "c29800f1c1d74546d568890eb1bcd6ef",
+  "SHA256SUM": "021d4f5f7abcf8b115b0b03d34ede2dc8f5d8540694d373a5284b4b5bef9f33a",
+  "PGPSIG": "iQEzBAABCAAdFiEEghj4iEmqxSLpTPRwpekojE+kFfoFAl7RcNsACgkQpekojE+kFfojTQgAkeX9LWtgj7W4aqo0QKtXgh+o6dm/pU+B6vyuVWyKKqQL4QvMHU6DvdzJ3XLXoZ1Osn8rlaaGOJHcz/WKM3yuCvtzoRd5UkqKuN4MznFmSadrrVcIt0JNKQsWHUN2asAVVJozZ5Bs6a64aNHIW/q6YhX13oHAuA0QAKYlByCsqxWMnLcOQXBEI5Sv53O2IxGdCO/XUh1PWtbEPzLC6aQmE/fAXQyBO6ceQ+ptxSTztBU5+kHSrWH3+RE+2xTrakcW9sQfgjiGs1vsXRYXxVcwrzm+Z9IO7nj5d4wLh7k5P7+/fkmoKogeSCvInRSriU90ez73CioypppjUWtXQq25uw==",
+  "URL": "https://www.xine-project.org",
+  "LICENSE": "LGPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1590783826",
+  "PACKAGER": "Jan Alexander Steffens (heftig) <heftig@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "libxvmc",
+    "ffmpeg",
+    "libxinerama",
+    "libnsl"
+  ]
+}

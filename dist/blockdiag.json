@@ -1,0 +1,26 @@
+{
+  "FILENAME": "blockdiag-2.0.1-1-any.pkg.tar.zst",
+  "NAME": "blockdiag",
+  "BASE": "blockdiag",
+  "VERSION": "2.0.1-1",
+  "DESC": "blockdiag generates block-diagram image from text",
+  "CSIZE": "2412677",
+  "ISIZE": "5253044",
+  "MD5SUM": "d6eeeb5cf61e7a0b711b7a310fff7c68",
+  "SHA256SUM": "7843b0e35a5a4be847d3132da520ec6689c8ade3e1d5487df1f13ea08b7aaeb0",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl45s8MACgkQeGxj8zDXy5KwDQ//TOejxdX+Q8GWAJnlBGZxikAJ40y4QnvUl+t+XHJCpyZVzDDMogRDNy0oc24v0OirFbPBSkhKAWlCtz32k2QsRsyE9jTkDaFJHKDKtxPffG0dfoYpICMXvPTqN+N5XpK32UHJuQEJ/76Ney23qcGSUn3JgIpIWNX7A8aZg5CIEFGSiHzHpqwrxKSER8hKlf7qjq9sgPaNeMjDObVczuEj80hmvms9Rj2HF50njVn5em9w8CgZ2VfqXj3kVHcfOEMDbTLZqYEpBhhzjvmcD/aDmHTQ3u1WK1Hq+RiWj0s2e0gGPsRrErKiNyrF+iBMaUozzXP69zyy133X+lYnQUcCn7Lisq3EMmD7z6mfmg1hsKpYweLQMtHfLu6hv0AsAEn12S+4T3uDkLJ1bvlaFugIqMDHvWyv1Y7x6LTSZBoKMKmTTsUULAxFV26mTU9tzzfU97xbPVX0n2bFWV7Px4PsBSo5Vhjh5dyBrTIBFDM7FoYMTDq8AUpaAl0re/es12mBBRRVNxPrWI0zY9+6suA7iyk7tIi7IA5F/RJ4RTyZW4HRt0UiYoFrzGEEDsPp5r2B4vltzCl66g/u98cknyj0vfXVLb2+VR5mc4WAt+I/2h8AgMywIlyfsjeGWdJFGgYkrDZEwuzH5tCZ3R7dEzq/+OSNvXwUm0PU62/McV+38jY=",
+  "URL": "http://blockdiag.com",
+  "LICENSE": "Apache",
+  "ARCH": "any",
+  "BUILDDATE": "1580839781",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "python-setuptools",
+    "python-funcparserlib",
+    "python-pillow",
+    "python-webcolors"
+  ]
+}

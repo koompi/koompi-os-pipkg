@@ -1,0 +1,27 @@
+{
+  "FILENAME": "merkaartor-0.18.4-3-x86_64.pkg.tar.zst",
+  "NAME": "merkaartor",
+  "BASE": "merkaartor",
+  "VERSION": "0.18.4-3",
+  "DESC": "OpenStreetMap editor",
+  "CSIZE": "2935942",
+  "ISIZE": "7055540",
+  "MD5SUM": "bf34ab27f49e02522197f1377e87e314",
+  "SHA256SUM": "bd4f1fd5841fb37274111119cf34ca397dbcc5f56f63b95c9f800ebf2a2593ab",
+  "PGPSIG": "iQEzBAABCAAdFiEEzgvecadZqH8j8PfYth284QkBwWMFAl8DPtAACgkQth284QkBwWMwaAf/dGTTOlR6v5yZtRk7AOT6rOmHNkTGInBGrwc9wQ6cVO4B8zOZl91uq4uZFwMnc234ABOxXlIZj4jWLvgNuhpSkEAlg5uPqD3S7gSkA1gY+4K6+UB5fhIul3JR5KlnWKA9E6rH9HLgkEmuuCxEOZh/IQj4N/vOeneSjgh3cnl0Jpqw2jCLXDxrXyv0iHzw4sNJDVRHUyAnmhy9Z0Q+dqvVdyRF0Ku91XtT4xkVUwUbo2CA7Li4ZcETeyjLkng2lQv34ii5u5VD1u98l9NuEf9qzXoTQXCIVYXax8rp05wHhsJyCCmJWqVpUMDndOx5h20V/IHTuujRSRAMzc5Hbuh9Pw==",
+  "URL": "http://merkaartor.be/",
+  "LICENSE": "GPL2",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1594048012",
+  "PACKAGER": "Balló György <ballogyor+arch@gmail.com>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "exiv2",
+    "gdal",
+    "gpsd",
+    "hicolor-icon-theme",
+    "qt5-svg"
+  ]
+}

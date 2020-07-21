@@ -1,0 +1,23 @@
+{
+  "FILENAME": "python2-docutils-0.16-1-any.pkg.tar.zst",
+  "NAME": "python2-docutils",
+  "BASE": "docutils",
+  "VERSION": "0.16-1",
+  "DESC": "Set of tools for processing plaintext docs into formats such as HTML, XML, or LaTeX",
+  "CSIZE": "710271",
+  "ISIZE": "5008295",
+  "MD5SUM": "3b4899fe058d226095cfaeb0f1fd6e75",
+  "SHA256SUM": "ed24fa638e04fb5b89b1526a1c568ac41befcdc05936b6c5b5d14ddeeef749d7",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl5zT0EACgkQeGxj8zDXy5LoLA//bxHre29e0i7GI3F2fbnQOz7EJPJyEmIVvSe0bi3+eA/QUcuNfCADxozcxve8kb4t/2b+0K9VNvAGGxz77x+BxNbJvk7KLzBadd6NF6DvpDDMFkvXWb/QdKyOP15ltZcoB3GeCkzlrCu059UJeMgBtyYAM8wMugckQmdjs+qawnoUu+lfTvU1S+2vfW99Z/f9pbbWm4PDDyx4hlXBO9brlaib15Bdv0nZiXrSJSPnT3xO0JSwOxcoPzBSViDuLIGa/JTBoWRUFKYhuHp0390vcmd89mW7M+nuTc0u2KAvgkayCFlyHA8kvXLMmr0HkN+3Jts2/kN40dfj02Z8ZHmlbFGpKMXzxB2fJbjw65mbYS+jXcUXAkbpfKajx5/eROGceFxSVazGnc5SxBqf4q+MvkgZy2atZ9n/TiweAqCY5LjYa6eC5WVS0GkI/uv0ttHsAKAD/1uDslB1cFPpa9nrBhkHK0JJiXtlvh4Wn/C7lUXG65p7v9HY3VVpazeaJZPu5NoeXmjOhWiqHgdgEvAgPxj33sxObdikPEjqFZgPYFpVLI2q/+F7jXLpH8c9Zgu7olOQTpbY/xz0r3LKTRG/tk3fSyH71r7LXmzXGhVtyDXMW/pWSgXjQSXNqwj4L76LKkIqanxSs20Engn5jq4FBXpIam1N6rwYRalZe2Fls3k=",
+  "URL": "http://docutils.sourceforge.net",
+  "LICENSE": "custom",
+  "ARCH": "any",
+  "BUILDDATE": "1584615121",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    "docutils=0.16"
+  ],
+  "DEPENDS": [
+    "python2"
+  ]
+}

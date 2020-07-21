@@ -1,0 +1,24 @@
+{
+  "FILENAME": "xcb-util-image-0.4.0-3-x86_64.pkg.tar.zst",
+  "NAME": "xcb-util-image",
+  "BASE": "xcb-util-image",
+  "VERSION": "0.4.0-3",
+  "DESC": "Utility libraries for XC Binding - Port of Xlib's XImage and XShmImage functions",
+  "CSIZE": "18331",
+  "ISIZE": "54054",
+  "MD5SUM": "567baee526351771897174abca8a163e",
+  "SHA256SUM": "b14bbb8a48d45d7591a4cc5bdfe7441e8238ef3a21ad0dd3693ad276824e74ea",
+  "PGPSIG": "iQFIBAABCAAyFiEEZkWwqMcAXnjbHXhk+Z/+D+rpmb0FAl6y1dcUHGFsbGFuQGFyY2hsaW51eC5vcmcACgkQ+Z/+D+rpmb0bxgf+PuTaIBEhyPpiO2v9fmRlKcct56g7OkxcK0O1ymCKJ7qUTxdCXdF0QgfS847i0m89IpnRZoDA7Zk6ect7g0BgVZZmOtAxgTQXO29vYO2a1cUy0f+E3XnG5Yiw+mrEbpApnNAyJ5k/isF7qeFdEUgJjlxBbyRfGE97FoCwQu7UBx+GbJqmmGXw9/bwdhoPlpVdI0SuFRdXCwnSc6Br8yCSY3J0AesrwgVkBs0Hbmaso6HkyhN3Yf2SyLJ4DAJn6pJDfkWqgZTRnAwIIzFh/MhXML6aldjuJ0yL5i6MZ4dykTanlfxbfdlBUlZZwcZXYuNFl+cLfIVBjx4UOQaBM30kvg==",
+  "URL": "https://xcb.freedesktop.org",
+  "LICENSE": "custom",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1588778396",
+  "PACKAGER": "Allan McRae <allan@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "libxcb>=1.7",
+    "xcb-util>=0.3.9"
+  ]
+}

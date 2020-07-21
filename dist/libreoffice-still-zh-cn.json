@@ -1,0 +1,23 @@
+{
+  "FILENAME": "libreoffice-still-zh-cn-6.3.6-1-any.pkg.tar.zst",
+  "NAME": "libreoffice-still-zh-cn",
+  "BASE": "libreoffice-still-i18n",
+  "VERSION": "6.3.6-1",
+  "DESC": "Chinese (simplified) language pack for LibreOffice still",
+  "CSIZE": "2373166",
+  "ISIZE": "20823564",
+  "MD5SUM": "804365be86f67afab09d69a9d7191d16",
+  "SHA256SUM": "648a95284eb05dfd53a90c7b82f4a11e3102f688fddb8392174bd8ee0e91d29c",
+  "PGPSIG": "iQEzBAABCAAdFiEErcih/MFeAdRTEEGelGV6sg8qCSsFAl6tSwIACgkQlGV6sg8qCSu/Bgf/ZyByziI4b7lZqAJM1o58Wu9gFiFR0fqjsS2yug2h3A9D/3pH0Yxb1duGV7qiRNCdmaPWEnm8INVPkzSRkRc1zotuCfLnzgto2ZgOQLZGK8fvjzQ8lCFaMngWDvyyDdN9Nz1YoKbJRwA8RdJDJTcVBoESBKTOGi1PHwoI+ynpfFB2s43FDlFlDBaIs19PUUrBMWQAnFYj7ZYBAJYKktNGh2YCjAw+26UHWRJtLLoSAhfvTCMln+cvMGR+cUItI6cj0YGFMHkk0Xa8yGeWpELVo5lgxm1u91riSLs+c+eyogAEOL9y5nBovzxUymlQZHl/olTaceIzQCnXOOlDg9xDzw==",
+  "URL": "https://www.documentfoundation.org",
+  "LICENSE": "LGPL",
+  "ARCH": "any",
+  "BUILDDATE": "1588407321",
+  "PACKAGER": "Andreas Radke <andyrtr@archlinux.org>",
+  "PROVIDES": [
+    "libreoffice-zh-CN"
+  ],
+  "DEPENDS": [
+    "libreoffice-still"
+  ]
+}

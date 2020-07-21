@@ -1,0 +1,24 @@
+{
+  "FILENAME": "python-keyring-21.2.1-4-any.pkg.tar.zst",
+  "NAME": "python-keyring",
+  "BASE": "python-keyring",
+  "VERSION": "21.2.1-4",
+  "DESC": "Store and access your passwords safely",
+  "CSIZE": "52616",
+  "ISIZE": "217324",
+  "MD5SUM": "c42f850236b954f29d5d4a6f85ceff64",
+  "SHA256SUM": "661801e710baf1d1d20d3d5f92d553c7b98117e7e27f862461744f98650bab2a",
+  "PGPSIG": "iQIzBAABCAAdFiEE0jW0leqs33gyftiw+JPGdIFqqV0FAl7ftiYACgkQ+JPGdIFqqV1rvhAAi7qme2o85LIdxQC/r0iaw9pbboSGsZUdiu2Py15xeDhnAc770PZ9so/bPUNS48Z5oMxkCFsUYNO4Gw2fmhXhOJ3XwuULcb1Qx9kh0/rAZopnQV8z/hOrockqTkkJQvp94hGSe4/7zGKcDcEJtim+2At91Xg0O4nnGD71ti0vVCljOIVpJxAOBCr0zhkwGdcy7XgxrRJGyCJNp8FBi/qfXETeSuFNRZP+tJhfmEJGnQmcxMs8/f5Aa3KYE3sSiVkzCcolRmihTQbE8sfhNuw1CH2DAk6VdB6NeChLl634vt6ySoe0pUgMxYyShayEVmcwhdP861cRm4iY6exXE2s5d1b0Vg5Bfatlu64DR9NK/PuFd3DDcmfRQvAlCzXHb8nvxaj7CqAJRtILEG7CDucQg9HlVYKngNgF9gRvlot7ym4Nly9du+QrJv7umZS5FXoBlVYv9QMeGAJ647+9kwYdavfj7MUmtdA4ppiL289QmaYFz1HipT/dcrzUORUPPy6moTvd2m3U2jy8WgSa+/bwyhgHg/4JpdDeJ5k+FUJj9JwCmkZThKWwDZpgPqGZBwhbBBkOC+EThtPdSVezrcVgYbIxuUYQkS/hY9mz+kFGJkOaZYuNyLH6Y6zK6d5Ztjr7jkFQ72BM6Q5RHXW+MpDdQTIPGeQYznPIYbOorWML0h4=",
+  "URL": "https://github.com/jaraco/keyring",
+  "LICENSE": "PSF",
+  "ARCH": "any",
+  "BUILDDATE": "1591719370",
+  "PACKAGER": "Filipe Laíns <lains@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "python-entrypoints",
+    "python-secretstorage"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "FILENAME": "libpagemaker-0.0.4-2-x86_64.pkg.tar.zst",
+  "NAME": "libpagemaker",
+  "BASE": "libpagemaker",
+  "VERSION": "0.0.4-2",
+  "DESC": "a library that parses the file format of Aldus/Adobe PageMaker documents",
+  "CSIZE": "197433",
+  "ISIZE": "2181076",
+  "MD5SUM": "ecc63d305ac0fc30584a9a40f980ac85",
+  "SHA256SUM": "fe7d3830f636721fcb07b1e4d0ed4e4f5b724bc20d8b71536aa07cb1300659fc",
+  "PGPSIG": "iQEzBAABCAAdFiEErcih/MFeAdRTEEGelGV6sg8qCSsFAl4kTNcACgkQlGV6sg8qCSuLgQf+JuQ/k9bv52RlVfCA7K2s1ve6tXAtlXh3bKVgV91jEr3q3LyW2fiRnxLKCVoa/AXRFR20WsM40ifK4r5z7DzD/Za1kEYoM4p+FDAtzsEVWrqrZSf4S38yM/CwFDZhuHMhnS8ohZssLPZT7McoIDcMoFO/+0bjE+UuTmykNzUvsJX/DEoZgeqh7mkPDV+6ByUUW46smJcTvJOatyjGlLmRZUjlbgWzM63t3M69kU3BQjZ5wPMWQiz2diUGOJ7y2t8WAl89PvM8HVckuddy8sX2XpABR/w/bLeZnZ8Me5jwnIR7NXb9JUco+9Wpnn0RI90BHi/5tyGhCW97oO8Njo5YEg==",
+  "URL": "https://wiki.documentfoundation.org/DLP/Libraries/libpagemaker",
+  "LICENSE": "MPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1579435130",
+  "PACKAGER": "Andreas Radke <andyrtr@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "librevenge"
+  ]
+}

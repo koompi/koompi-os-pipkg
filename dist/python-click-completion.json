@@ -1,0 +1,26 @@
+{
+  "FILENAME": "python-click-completion-0.5.2-3-any.pkg.tar.zst",
+  "NAME": "python-click-completion",
+  "BASE": "python-click-completion",
+  "VERSION": "0.5.2-3",
+  "DESC": "Add or enhance bash, fish, zsh and powershell completion in Click",
+  "CSIZE": "20345",
+  "ISIZE": "76642",
+  "MD5SUM": "81132c6257c1d66cd5e5f0c676f87709",
+  "SHA256SUM": "10ca610b162039ad18ef9fc4fca5b9ea5c5c8a21dcf7b5a46bf596871c46fbd6",
+  "PGPSIG": "iHUEABYIAB0WIQTH54SUZv4jWDQ1iDdyWHNLQcMVSQUCXmkptQAKCRByWHNLQcMVSRFuAQDDZHy2prMByEO5dySzUfNRQnEzgrsxnjb4a3ORn/Mr6AD/cuHdbXQ2lIFzxx226Dxi3+XNalq6aP3J+0j4m1poNgg=",
+  "URL": "https://github.com/click-contrib/click-completion",
+  "LICENSE": "MIT",
+  "ARCH": "any",
+  "BUILDDATE": "1583950177",
+  "PACKAGER": "David Runge <dvzrv@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "python-click",
+    "python-jinja",
+    "python-six",
+    "python-shellingham"
+  ]
+}

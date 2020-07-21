@@ -1,0 +1,25 @@
+{
+  "FILENAME": "zathura-cb-0.1.8-2-x86_64.pkg.tar.zst",
+  "NAME": "zathura-cb",
+  "BASE": "zathura-cb",
+  "VERSION": "0.1.8-2",
+  "DESC": "Adds comic book support to zathura",
+  "CSIZE": "9019",
+  "ISIZE": "19863",
+  "MD5SUM": "7a9af8ff9ed655d6dc0c1ea193d570b1",
+  "SHA256SUM": "8881e0d8f217e7a0672e4c3c4a9e9ae2f3189d5bfe04af04d3414151e102719e",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl7L52AACgkQeGxj8zDXy5J1rhAAh/wfJ5j951Zj2u6UIWIhAmu3zz3Hx/fVa9GQN/jFHNQemHbJw4ecjfE2nDdfmiKDEK8AB0pNEUyEwTHYP27RViCuTAwYAZPx6uMzcXTxPiSeViSujQTJW+V1yqc+hQo2lwZLBDo5HH6Gdx1WN91ZiLBhBFSviWguEXjDlvR+xaIT+ravm64Xsh6iVLEsCngVTMCt6b8srKU4l7mT7wwGGLpTlkh8oaW+t3qfsJsOgU4h3GnShkF8uDRiHpy6ik7oo3K+NgOVPD1IC8Wn4KDB8NAIEaG7UeMKzECBYoG1RbE5jfqL295ajq10BXss1aS27d4uIAqaibZw1eRWl6Smbj3uC+KWOpR6Y5rUPscu/LpdAyjHmKArizCAXTx9FiR1T8+r0DTPOF6G2CPA/1y5OSwDlQyul8BL0zlxroF4w/u4XEb2THNaCzBsdwPp+6QDQUSwQ20j+JyR6QGNdNGR89hnPs1hY3fPgY5+dgK58sg98F1TbHAhSmN2Wj0jhjq+PJYjMjg5AVh7j/rRkP49AdHi+ctXXd/aStQ9qt1rmMlF1vFzP9RUsLRUV0Kdh0b7D2vGx2HV2mOgae9Au9PgZVZxDGPYlACXF26mbJJYGTt8Fv6Z6iQ0rwWwJzWCpwrLfTXNpJZ3BibPqnnpHgUuyTDz1HVsvIe1kYOctUpi9Dk=",
+  "URL": "https://git.pwmt.org/pwmt/zathura-cb",
+  "LICENSE": "custom:zlib",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1590421254",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "zathura",
+    "libarchive",
+    "desktop-file-utils"
+  ]
+}

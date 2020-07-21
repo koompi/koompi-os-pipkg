@@ -1,0 +1,25 @@
+{
+  "FILENAME": "python-basictracer-3.1.0-1-any.pkg.tar.zst",
+  "NAME": "python-basictracer",
+  "BASE": "python-basictracer",
+  "VERSION": "3.1.0-1",
+  "DESC": "The Python implementation of the \"BasicTracer\" reference implementation",
+  "CSIZE": "21813",
+  "ISIZE": "69164",
+  "MD5SUM": "8fac59888d17dc5c77859e54fc103427",
+  "SHA256SUM": "eea92c916316d38fd99d95c916ed3f5c61fe7a56fd94f205eaadc39b11964578",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl73c+oACgkQeGxj8zDXy5KrzA//WnqgLvmMBlcQZxh5b3/J53YnFxqVX/bv6HC/2TJ0zJ7KC8EmoZ7Py/Pgdu57t2nGZslK6DN06Htp4sGZdsP7NV9m9TTDkkYXzTB7kQOR/nTrCETsPgz+cpti80C0eA9Hq6liaOz0p/NwDEQ3vpJFguN1Hlwj1LFJsM1/MTV+8lJsPE8kt00EHQ/36thaw8RAaxhIODKFI8RsluGzFTpvI3OiqPHq4173gDWhU4t9+J3z8ynH4LxX92/DBBH2G1iBhyo5Ic664F3nOSO8lR1QmObKcc3OEoz6rgOOOq1hdrErdwd6JE7UeXGDYu3I2acDAxzY4Nb9Miv+LuZ4dive70I6svuIOvBXGprtbqNOCKLlN662+RTjNRclFyZ17l5ouCV/UZVTIVNUXIdaPKW3Y9wmQ7TtLud8zFhk1C4qdC6CC/C6h8bzzvHY47K3Wpc72a59FjOPQgZGKDv9ajDjPSUPiqn0W0aiL4mcF3HGzwoxs/FzKwAyxj3guU3DXNQJI9UCLtM1TAUsb06j0WSq+XFvE+cRuNMmdHrI6MmjEQnSHof9kCaj2vZcWDm2USWtKBGkd0+LTWkH8IFp4VEpGhKReJMUXaHRi9gX4WA1KWGa/tc35xee+UqKXMjhm+BJXgL126QJv5DWWI6yZGosaOjNs8dHF4P41nHqsysy3KQ=",
+  "URL": "https://github.com/opentracing/basictracer",
+  "LICENSE": "MIT",
+  "ARCH": "any",
+  "BUILDDATE": "1593275326",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "python-opentracing",
+    "python-protobuf",
+    "python-six"
+  ]
+}

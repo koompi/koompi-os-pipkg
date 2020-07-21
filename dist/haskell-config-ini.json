@@ -1,0 +1,25 @@
+{
+  "FILENAME": "haskell-config-ini-0.2.4.0-121-x86_64.pkg.tar.zst",
+  "NAME": "haskell-config-ini",
+  "BASE": "haskell-config-ini",
+  "VERSION": "0.2.4.0-121",
+  "DESC": "A library for simple INI-based configuration files.",
+  "CSIZE": "139714",
+  "ISIZE": "740665",
+  "MD5SUM": "48889a242a6fdc9edd4a4b343ea03aa5",
+  "SHA256SUM": "1b04b4bbf8b1348b47709554e988d224d2328cc28b886922688e64c271e129e4",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl75wCgACgkQeGxj8zDXy5KwHxAAuGyvg0yycxzluNz9r0SGmuFAZIYFr3RuFqHGLoA1dEr0k+EC/JfCeVHukC8KioajAGQ7pI19JUfkXv1or2ZPAPBYRoU9Wb46IDxKqcmk1nr6BjWqeyehw5zKrPLUxmQFg7TJHiO1NsZPwn3uUYnr93ulVNd4M67mdzD0HSpe460/NxUZolTOyXX4XsnPX7QjF3ZxeVEs09dZQVK8PcgNGOC7h8hOBWF6YAW7IB/Pt8DhlH600ua4lUw9hp2KzqM6ZniryemMQU1HBSe4orkGp3HU7M5VpkMi/t+adDdXyEJryYVaYH57YwQDJWT1Si0lSxYOOvfqVAlgpDx69jZ+5dUAuGpxka8pKScDz4rAhzIqAn6Bo3WJQqBv2gLQxkmqgO2GPRGWmQyysoeCdvI7a4+SNgDIzDenVCn0p4a16OuhggiJSNGRiSuaSVw9uI3YgHkbGS3RMx0JT2zvaIs402o5s1ok5rZBTCiI0xWJx5NVgpR7pLY0HTo328uNdErchrl596uvLAeIhOCoYAK/2FKSGt8mu6RUs9iWU4IwqQGNAsjf/a0AetiDiaAZ1bxfigc7j6D6GmnjNTjuKZJQKt/LLe4y9jWhbuAihPlnn6tgkHub279OnwhzphDJbwJQBfMRYZlGxFUGn+CP1AQraeuKiMVcAgHWaXmdjWy4+gY=",
+  "URL": "https://github.com/aisamanra/config-ini",
+  "LICENSE": "BSD",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1593425838",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "ghc-libs",
+    "haskell-unordered-containers",
+    "haskell-megaparsec"
+  ]
+}

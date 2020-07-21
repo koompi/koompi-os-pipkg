@@ -1,0 +1,23 @@
+{
+  "FILENAME": "perl-common-sense-3.75-2-any.pkg.tar.zst",
+  "NAME": "perl-common-sense",
+  "BASE": "perl-common-sense",
+  "VERSION": "3.75-2",
+  "DESC": "Implements some sane defaults for Perl programs",
+  "CSIZE": "2790",
+  "ISIZE": "537",
+  "MD5SUM": "1ecc3abf7dadbc767071f1f8a1a546af",
+  "SHA256SUM": "0abe2aac8803d8f7841d67ccabfa3e813ea727ab16f10c091e59356f1a620aef",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl7vNcUACgkQeGxj8zDXy5Iyqw//V642bFLqlEMmpQbC6YdNB8CLgHpDpN6uGUy7SbV8zXg5nDDVNPZBjB9lrNGhjFwqUdfGvV0yFklJu1aMLYvUSfuTgJEOvbnn+Sv7Zz6c72sMP6gNkQ3AZUxzWJMTsb16J6r7whPyYysPZQwqyvFZbcVfINEq6Ab54wD6UWM/+RHJM8pduwvzXtLACKA4MybbHWaOqbMsPrTSxkPSrkkLYCvRAK7qtaX7lg8m3QOCVSk6fy2c7RZTW1yKtCnL5TQu9MwL9ZDtkQryBENPNLxOKVC4uzzgw4xg9uxeEDQjyFEHjN2Jzp++1BXolka6QiK7QESjcOV9o8aCkBOVt3OV8jlHm/PzqYteRc3Wb+iwYi6mG7Ai5HZbkdHrTUt1FPmw5JUmDyygXhA3NokpKaJMLxuBG2k0BMA3sjpyonhDXmBQa6Vd5iqinLQqxSr47y9yd0wq3wEV2ES4uIVdvo2lV3YJFngo4L2mZXbg0XBv9ENSVI0kibHMuSfqeRG192u+Ut6BX1h5pXMVXT8qqsFxYH0rDJAa8uNxqLHBf1poT2iSl+2Xie1+cBQCxDH/bwage4zU11FEj2/o7J8tYEW4B3stFnZMSBwpidWC+6TAqjYbwtLdn1uwc3JOyTtqkM1UP9SOJxkxPtaLdNwXwlA0/pIfVobtPmV1km+exzpPHw8=",
+  "URL": "https://search.cpan.org/dist/common-sense",
+  "LICENSE": "PerlArtistic",
+  "ARCH": "any",
+  "BUILDDATE": "1592735156",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "perl"
+  ]
+}

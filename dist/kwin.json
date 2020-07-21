@@ -1,0 +1,30 @@
+{
+  "FILENAME": "kwin-5.19.3-1-x86_64.pkg.tar.zst",
+  "NAME": "kwin",
+  "BASE": "kwin",
+  "VERSION": "5.19.3-1",
+  "DESC": "An easy to use, but flexible, composited Window Manager",
+  "CSIZE": "6659289",
+  "ISIZE": "23073945",
+  "MD5SUM": "add43d2d8d627240ca881f8d9575b8ee",
+  "SHA256SUM": "5f30f9b85b204b23744328133561bbda56c2b01d0b0be76612687d7d168baefc",
+  "PGPSIG": "iQEzBAABCAAdFiEEFRnVq6Zb9vwrc8dWek52CV2KUuQFAl8EhEQACgkQek52CV2KUuQckgf+JWNmgrYeybFcX3Z8k28rq1hlqUi6DEZsP1Eq5ISvpeNaF54x6jHYuLr02wUVVQcko5cqGwHzTog3fpUYFHg74K4x5L7hSymmEZJdkUCV3iI9vVAGSmD9uM91Dibao37CWAB9IhfImjXNtKwfcIhVUdTtjiUMXNMT4M0pXwN9KlLzHo61gI5ksvMSl1FD+BlPELWGygZY5M0a+vW+Gp9WNWZLhm/WpJ6Ni5PiApliLL3tP5/POh9wgPwCeS91mAYn5AJLnPFXW0TYGTgexiGx/g5LoXwlXzhYvq9pHVTchRiHig+xgfX7ORlrpAj8JxalMssCG9epTCyHIR+jC+u9cA==",
+  "URL": "https://www.kde.org/workspaces/plasmadesktop/",
+  "LICENSE": "LGPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1594127594",
+  "PACKAGER": "Antonio Rojas <arojas@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "kscreenlocker",
+    "xcb-util-cursor",
+    "plasma-framework",
+    "kcmutils",
+    "kwayland-server",
+    "breeze",
+    "qt5-sensors",
+    "qt5-script"
+  ]
+}

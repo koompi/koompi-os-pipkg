@@ -1,0 +1,25 @@
+{
+  "FILENAME": "gst-libav-1.16.2-2-x86_64.pkg.tar.zst",
+  "NAME": "gst-libav",
+  "BASE": "gst-libav",
+  "VERSION": "1.16.2-2",
+  "DESC": "GStreamer open-source multimedia framework FFmpeg plugin",
+  "CSIZE": "92755",
+  "ISIZE": "235792",
+  "MD5SUM": "71fdeed11550eb19eeeac7af8bfa2e7f",
+  "SHA256SUM": "9c068d01bbcb45540328c434ac361cb91f4489b7c0ab3fc1f6065527700d3d27",
+  "PGPSIG": "iQEzBAABCAAdFiEEhs/8qRjPOvRxR1iAUeixSKmZnDQFAl6/00YACgkQUeixSKmZnDSxwwf8DF6ORx19FXlRct4j9XDIqR5KhMvTEbyVkoxDy0wEJew/dMGvnqZGP/F5JcmP8P+2vPnqSzWeBE5e4EeYn4t+PbIEjbQxl3dHpuHSO07nr7PXEks5gnTQDSaijTegsfem2cfVydzUT7+JZsZAAKkr3/oxdeleMfeWoLcsAHMtBsZme/2miYSKqZ+7X43jY8zX8//k0F4gK1BqwKIPYTGIqTN6QEN4aboz/usbYwO9ZxP/vEOHlArc859NQheMOd4jUrbVN8W5wYW60hX7AxOsuyMVU7qxafdFfUR3owTAt16w34J6Xw38JeNmDyfANHO/lac2/lnrq+W5GjgIC525/w==",
+  "URL": "https://gstreamer.freedesktop.org/",
+  "LICENSE": "GPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1589629728",
+  "PACKAGER": "Evangelos Foutras <evangelos@foutrelis.com>",
+  "PROVIDES": [
+    "gst-ffmpeg=1.16.2-2"
+  ],
+  "DEPENDS": [
+    "gst-plugins-base-libs",
+    "bzip2",
+    "ffmpeg"
+  ]
+}

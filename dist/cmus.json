@@ -1,0 +1,24 @@
+{
+  "FILENAME": "cmus-2.8.0-4-x86_64.pkg.tar.zst",
+  "NAME": "cmus",
+  "BASE": "cmus",
+  "VERSION": "2.8.0-4",
+  "DESC": "Feature-rich ncurses-based music player",
+  "CSIZE": "265321",
+  "ISIZE": "813678",
+  "MD5SUM": "af1196106e14aff18cd347cd34bec512",
+  "SHA256SUM": "d6ac8bd57a469d6147dd47f8f2adb22af5adb207a2a6df9c1bf4ee0d2b5a588c",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl8Ep9AACgkQeGxj8zDXy5Kxiw/5AS6dgjdX3qymadt7/1kZ128Y/OZ5DDyQoNDxEz8hv86ugQB31bC3Un8lq098JHR896/E7bUlQB8bGpniV5ld+YDnZHiq1SXcRrdYF5wROTkXlRUhVMPV78WJKjMbTtJ2B5TQ5BCt194y7BsUzeBxIezxLebRLQ1a51OjBhkaXfjs0vatC6nSaaRtaFtIbolJwjmV/DZYfNKav9eUDR8tVGq5o+jP69i2C3I7JwLrJb+ZtDZ7MV4gottndqAz9z+vpbWnF3bNoxYnFu+Du94Y5LFayMPoqX1gWqdxhr5mQLHkwRtOOkeY2nMw+S37i+eGCAmQNdbNYvzQO/dPbpb/js77oeTgjonLx3UCs78FSciOuydZ5kFK+dPyvUVU0ncnfSJDzv0bBGh0hv8nQO/Pk1VQzRIMuBg3CeGpSTTrp3S7hCesFW1reDA1iGLbI96kFkEQr9rX2xy6yYkJCIF1KVpD2Qq0nfQilGnmEb/p2+rSpcbNuRuSaEfVw5OOAxvgPNex0R62mapXNAH9jJluVrjcEf8uuBxDj5QvwcsnjgzrK54n/ZLSGjB/BhflCASRQJv3CwuK50dBEWuOBRqvpIJdrvMGXdb/Elmj0/kW8TMyz1FT+Tb9c9Ih0dCwy4q1z5vLqY+/WuWJ/KdEKzSK266j9IbaMYak5cCz6y+YGXY=",
+  "URL": "https://cmus.github.io/",
+  "LICENSE": "GPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1594140523",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "ncurses",
+    "libdiscid"
+  ]
+}

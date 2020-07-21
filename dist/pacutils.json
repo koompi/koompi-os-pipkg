@@ -1,0 +1,23 @@
+{
+  "FILENAME": "pacutils-0.10.0-1-x86_64.pkg.tar.zst",
+  "NAME": "pacutils",
+  "BASE": "pacutils",
+  "VERSION": "0.10.0-1",
+  "DESC": "Helper tools for libalpm",
+  "CSIZE": "139631",
+  "ISIZE": "474441",
+  "MD5SUM": "d66e616cf786a813bb9f91a5873c3d99",
+  "SHA256SUM": "e4d4a94e65820ba50e2e31e3bb48044974aef4c6bb13e717efdd7a66cb10adae",
+  "PGPSIG": "iQTHBAABCgCxFiEE5VD//9SF4mShcX4wkBwcMg6w1F0FAl64XHhfFIAAAAAALgAoaXNzdWVyLWZwckBub3RhdGlvbnMub3BlbnBncC5maWZ0aGhvcnNlbWFuLm5ldEU1NTBGRkZGRDQ4NUUyNjRBMTcxN0UzMDkwMUMxQzMyMEVCMEQ0NUQzFIAAAAAAFQAVcGthLWFkZHJlc3NAZ251cGcub3Jnam9oYW5uZXNAa3lyaWFzaXMuY29tAAoJEJAcHDIOsNRdLN0f/30qypC/wtS8xA7GJiNwOA6KCpa6yx81AdxmJT6O6lOeaMckJdtR0d2HdJB+BZWBBsIs4ddTnf7xhs3XZuf/AanweAyGgMYTW+KpIWbZvCT3TuPeQxsJydNg2y+QnVm7YUKdHCnwLfJz/i+N7yCxfipiJJnsBuZah8O+sBYZc3NNy8vRY5vDINxJQOiW4ZkIvHbVbHRaoNmYpG/EaqeOv2EIy7eWRSUMSYfJRofq6RgNN/8r0gXVfbGmfWECZNNOKZQcMlA0a997klmamkcvUCdMfvfIdV4XmCx5hRPQ0aTvc5bBWklATX5ybgM1bjWgETZe6NYR62XyK46AVaqzydZtpLPgnBwPK0oSwXqahtH+3kHQzXc9khqAce+qVsdQzUSaEzxc9kqlAvqiF61wb9VrSxtPaai74R6Yd17JyUj8fT5S4bJ51njhe6lvr2a+6yQBAIWLXDIfxeFdmQk4dOzixhLOfsoguZ05Tb4RCS04GOa1czoruh1IcvJJIrGhgkIHORIqLnvJ29ce+ig3fewu7MrzJ263yXhzmroDnumfj20Yf8X3CA35uBVNlrZT93xrjZtoZ7iiaUQfeQ7W7vLjKYFylSbl1E0ZhlyZ4m8JPt7en6KZDkNnFst3UBeLApi4zttxX599B2Ldxd4Rec4Lyuu7v37kNVW53JdeR+O4Jqe/N0UXnk3YvPspzpttCZYSGE6rl6ZSZznQmIHZkg/xX7EaE/O/iDR51MfwoInFs9UwblGcQ4yFTipBE4vP+UD9ng/DAbqvLl28KdEWGOQVRXLfPdtDqmZheYMgnCaCLwlik2yDOjdFQuBhCcsZMh+Ddqx799tT2hB+oWIIkmcfQhC89K6Jrs5x8V+GuwMc20AtOLpLB7AP9pcmmL4/YBO+wbR9sfRaeisqOQ34ZT2vvshXag3vKgLrRsYDVkfJdiOUKwUAZ8LJ6lJwQl4wMxKPBQE8jBHjE439YuG2xNV/wuRGS4H6LqdbssBumulHvsdg1TjIwNex50ZZZ5iBaqNm1KDvYlyaQbu5+aRWLh9OUqupiQ2Q/VxUjGLxsY5q3YM5YdaQVEM9TsnY0E+beILGXe1FpqUXdo3uWbc/ONr6InVmW5PsXgkQX9Wcomgd/nRsSbkudLGmPa6Jh2B1fzDAfBk6n7T0YM6CaYAXYdks3N0vfEaODZHH0gOGSbyPgw2VLLj4BxzLdHvzXR7hn2H4DVR4ODWAifhFL18aCDagt5CtCz/Pr/ptRj0kQLA7dzLizC69thTojAvgNM5vPNl/hcjuldERMrQoxCyGKU4sian616425QznGWkdDnz0IChOylBXr6Nqw0KeTVilr3is94sY10FzYBlAGnFqIUI=",
+  "URL": "https://github.com/andrewgregory/pacutils",
+  "LICENSE": "MIT",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1589140488",
+  "PACKAGER": "Johannes Löthberg <johannes@kyriasis.com>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "pacman"
+  ]
+}

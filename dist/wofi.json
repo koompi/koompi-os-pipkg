@@ -1,0 +1,24 @@
+{
+  "FILENAME": "wofi-1.1.2-2-x86_64.pkg.tar.zst",
+  "NAME": "wofi",
+  "BASE": "wofi",
+  "VERSION": "1.1.2-2",
+  "DESC": "launcher for wlroots-based wayland compositors",
+  "CSIZE": "55078",
+  "ISIZE": "106042",
+  "MD5SUM": "b3dfad6fd5542602ae66592649ba8ee8",
+  "SHA256SUM": "54b5c00dcc1ec3da802925c477e569c5474a32cc3e9e092b5a0a6c382344823e",
+  "PGPSIG": "iQIzBAABCgAdFiEEgFPriIeaaMtIc9MrAR/cUtqDkzUFAl6GVokACgkQAR/cUtqDkzWFYA/6AyQoZbFDS8x2Dv6z4p0Tc7XOJjl0dJhxxTc3+HkXQmwPuPVhcNCmCKW9enelP/Wns/L5gzFafwcl259FMgDQ7IYNWbxNxBkiATAV+dTQP9UJp4LUDoTuwDdgKUnnrnyx/cQ0F+mDhmWA5PGI6sc5dBjFRqG07CwJWsDRr/f1a16qyBGKNE4xY51xmS7G8YgzOjFsAMBzYEqVdn7+HTChZeOsEo8IJq2oTwYXglFidnwWUjTPws6//uF3yFagJrGBerWQfJg1LgzPnVWeJzRANp/7Lszxx0CyOtewAui1fSEvT3oG+BhQ+SXpPnjZ51Q0vxYxJTo1MgmecAL1s0t6v5txCT+N2gL+qCMe5+1BY2RNZQn8WuFPBulXJCkV3piREtLqmUSBdonxpaXi+Gpy7gGi4NGJFqE/QZq7gOwtJWmckmd4izaELBuCSQ0iacig/ahfpXkw6y4JdiU30gxoIXsD7PArr2Vk0V9wdk9Hy8gDUhJ4KGZVDXJLwb8/GzT1BAWHkgHf5sZuEWMKPzQJsTCfxALBpr9JkcnYfltoVpraBh7T79jjYFMbOb58LHLU+3Riq5feDa0fHjXTT6N4SrZN3DdsU/CitBIQ/nCLFnUcleDVgNSrFXyGO3lZU3VYbZAOrbO8PbFf0FZDNLoXGliAKv+Z+VbkwNlvOXQ13N4=",
+  "URL": "https://hg.sr.ht/~scoopta/wofi",
+  "LICENSE": "GPL3",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1585862157",
+  "PACKAGER": "Maxim Baz <pgp@maximbaz.com>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "wayland",
+    "gtk3"
+  ]
+}

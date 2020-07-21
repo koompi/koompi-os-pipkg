@@ -1,0 +1,23 @@
+{
+  "FILENAME": "docbook-sgml31-3.1-4-any.pkg.tar.zst",
+  "NAME": "docbook-sgml31",
+  "BASE": "docbook-sgml31",
+  "VERSION": "3.1-4",
+  "DESC": "Legacy docbook-sgml",
+  "CSIZE": "41966",
+  "ISIZE": "289428",
+  "MD5SUM": "04ae8ed79a73540205b707d4006154e5",
+  "SHA256SUM": "dcc69d0bf13b3cecc26460b103d967aa3d0160c9629093a57bc95b8cded72a8b",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl6/tXgACgkQeGxj8zDXy5KPJw//VHt0k/gJ2ehTtI7jY2KZMKYxoWstuRxZM0dC48cadsFZflsgXOn2sVdR5YIcmFWDq2OLRjCdhi222/vnuQAgPmgIszr+KZ3YKqg7ArI0J7aH3OeCgGhyuzoJqN+e2KhQDltRfLlpa98XmQ/HyVFtnnPuiJcBLrhABItV83/kRAzkmCG/iea9/jgQebzKHbkvBX1knjafc2VSJAWggiKeAgB8yz8IgCmXnRUoq685f3YHfYFlXNGIQ+Ny0I7YI5wgpgF9/uMGUl1RX2pOEPysCAInv5nfympT84q/aNClftrdYUfCAPKkWSqoPYPS5ppyKUnkW2EQEWwGcVM/4cgbx13hluonsIMvkee+T69F98FFiyDVWKtz0rUZ9k11Ax53VAI8khO0HMx7trcUIsYbEim23eh7qypD561qhhpo0t11LJLM7kVF7KdQ2Z1o6PRXvDE0jBnJGBFeD7/RSCURjWUYKFtWwCwAOXKx1+cheZzRvxSoAozKfWftLF9biVVgymHzXdYjkVe63uAKE0B2HMszBT+tDB0nUyUNfk6xkPos/PxrkanvMVHTyPX8sCOW4gKPlCGAmvvHVV6PT32gEqdZzwjPwOmK8osedANosjrZjuAmkhY8ytWqj+5hdqE3VNAj6rq2mS00troff5tZL8YNxDEeXOLPEdjMWzXzBDQ=",
+  "URL": "https://www.docbook.org/sgml/",
+  "LICENSE": "MIT",
+  "ARCH": "any",
+  "BUILDDATE": "1589622126",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "sgml-common"
+  ]
+}

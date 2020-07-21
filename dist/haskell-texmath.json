@@ -1,0 +1,27 @@
+{
+  "FILENAME": "haskell-texmath-0.12.0.2-40-x86_64.pkg.tar.zst",
+  "NAME": "haskell-texmath",
+  "BASE": "haskell-texmath",
+  "VERSION": "0.12.0.2-40",
+  "DESC": "Conversion between formats used to represent mathematics.",
+  "CSIZE": "4027164",
+  "ISIZE": "24419472",
+  "MD5SUM": "03ce282c7a278e31f48b3d1a660ec9b4",
+  "SHA256SUM": "8af67540fdaebad4278b8f6b0a6d1aa632a6030818614321e89fff48d0d4445e",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl755S4ACgkQeGxj8zDXy5IwLw/7Bcg02KFJYEDyKa13rq8IhEBNRbNI7PFI/Z0BxQvSID30TGmE/jyAV4uF4Rz2iEuTJB5WPtapAkOBGFfPAybddeVR6J+8Z1zcRHtCSP2M6+U0HH6pkot6ZHCgdEBf76oX1Fe94TFYBixsmDiRsAmw1TX5m07RjAtMH7h076XxDbTKxxgfIte9tKekGKkBkDWYBopxi/vEfFB7DoHXf7Aqi7u+ZlWCpXg1SjKSW6tIDXgme/UxRthgqwlqVqRbsek4ml37oWUB7W2GvIHHMkzH+QLW3KN/PxRzjxAoTucLnAZU74WMnA6JC8/cOWFjx8q23IcTuPlqDR9OlXeiamtm41lNUfdKbN3fquLwuhgEBgFnY3NBDBcZrYiYIal/0iYgZb5IO/4Bpc4uXiVpK7qfqXvFYKPSS0m1cZpWtjSKi+2GcuR6fnlFieUlQT8dtMZ8tsm/FsE4iEKg0pxrKNgCoTeKf+20dAtJLixh/2/zMDILctXTojxg1ZvVl8CGBlZjMQVRo6ON9F+AJ+Auok4PppF8POlL25nXaYkMTCE17nrCejg7gbZbHKtiSz2O/IxhP0U1To8lwx7uUmcTyzyhoeavewhGrLCb/i8YJM9prVrZh6sEn5YXb6QLxJCADzMQaitBwJX3kIwBFJo5q0CF7dbKEP+Ihn9NeN2e3rlafps=",
+  "URL": "https://github.com/jgm/texmath",
+  "LICENSE": "GPL2",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1593435319",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "ghc-libs",
+    "haskell-network-uri",
+    "haskell-pandoc-types",
+    "haskell-syb",
+    "haskell-xml"
+  ]
+}

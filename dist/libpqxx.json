@@ -1,0 +1,23 @@
+{
+  "FILENAME": "libpqxx-6.4.5-2-x86_64.pkg.tar.zst",
+  "NAME": "libpqxx",
+  "BASE": "libpqxx",
+  "VERSION": "6.4.5-2",
+  "DESC": "C++ client API for PostgreSQL",
+  "CSIZE": "228751",
+  "ISIZE": "801878",
+  "MD5SUM": "ddc70739228308fb92b9afe537720746",
+  "SHA256SUM": "4160eaf439db9008f514a154623ba9023a5d72b5bbf17992928028cdb674d180",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl7DmfYACgkQeGxj8zDXy5L7ug/9Fr9C7zob+93UMHTJ8eyF1Vi19LA3HWdGjk6LX9nZvIk2XYVnMCXvE8zr9bfAfZNIlxlBxPfICpOs03p3zraQ4v41SLlR+HmR0oYBVA297rE2+URgBOXbj64kCeC7ICzPkN46RKXRPq0ikbFs2hS6u58Co8/ktV4HWbYlQsiOrJ17WQkUNc//wY7XM69wb+4+1T7dgi7VAQAxmYIKdDcLcfxlMt2CPUHTyiWX/NkEVdn+yXwgyB9JxHTtqrxILof1t7jDEnUtSShKrKLbUAQMyYM8QvZBaRfNnr5p6aFOu1P9YnUqzTNHv6sjowTJYg0uKpw8ecJuygvSenA79eOuE0+YdL/zm8okzl5Tv1T/u1RdwKNQjSWKnIr1kxfOI3UGO8wzofb2Dgjkk+cD2Ly0IzdWJLujH6VHTyDLvP0i2EfdQfb45nbyW4I3O7fr2aNbm8abB2kQ0e9S7GDIOESaEt/ULHJwvBOi4bVTLC0hdZ6DEZ5JvFtWIIe3jqsWrP+fm+/V8muNmRVqyLDPk0eA3Ts58exLlFhP3DJN2mR+QRHISr/Wtcc3Tma9YDaSuRIUj4yUdTK9jAPTncglIbcVRfc0jkddOyqgrVNDCr8+zuMRb+Secny1lXZ/zgYCT3Cb0h/WQEs0znF8R4FIdxX1tb22Qx337djtnlobWDlhpPY=",
+  "URL": "http://pqxx.org/development/libpqxx/",
+  "LICENSE": "custom",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1589877163",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    "libpqxx.so"
+  ],
+  "DEPENDS": [
+    "postgresql-libs>=9.1"
+  ]
+}

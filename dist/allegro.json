@@ -1,0 +1,32 @@
+{
+  "FILENAME": "allegro-5.2.6.0-1-x86_64.pkg.tar.zst",
+  "NAME": "allegro",
+  "BASE": "allegro",
+  "VERSION": "5.2.6.0-1",
+  "DESC": "Portable library mainly aimed at video game and multimedia programming",
+  "CSIZE": "1116230",
+  "ISIZE": "2834661",
+  "MD5SUM": "cba7c25035a8f67290904f51bb28c197",
+  "SHA256SUM": "4dea268f27592d0a3c50f592d5267a4276e28f4c5fe832df800c3669760a6d08",
+  "PGPSIG": "iQEzBAABCAAdFiEEFRnVq6Zb9vwrc8dWek52CV2KUuQFAl5omNIACgkQek52CV2KUuTP9gf/beGXm/sBizLe+h3tpQg1AN7ymKknvqbN/DPMrsRPxsUW+I0qg08yH4K8X4QARpiL0w14sw/YHlLHBoSLQpdNGUArb7WQq//RsnPuDj57OOJe+oobxaM86ArrOR/p57AE69a5McfDvWFs3oki/klsawE/Wy0jI2zuA922T1ECFfk/+HRvNlqM6HzPRD1N0GwGUUOFOUWb8yCVNDUW8qHD/Br9tcTkfROk1Tkj9+I6JFEytB3pTMy5PfeRxCCSw0oA21eY+j/0L1Wa4KgkUQ5KpVpa+RQq5DjB7r1H0++s/g8nGJ3LsKgE84BKF8Jy3NzcA1hBgj1VqsnZ8JUbew6xYA==",
+  "URL": "https://liballeg.org/",
+  "LICENSE": "custom",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1583912886",
+  "PACKAGER": "Antonio Rojas <arojas@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "dumb",
+    "gtk2",
+    "jack",
+    "libgl",
+    "libpulse",
+    "libtheora",
+    "libwebp",
+    "libxpm",
+    "opusfile",
+    "physfs"
+  ]
+}

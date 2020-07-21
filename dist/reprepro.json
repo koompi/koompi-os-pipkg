@@ -1,0 +1,29 @@
+{
+  "FILENAME": "reprepro-5.3.0-2-x86_64.pkg.tar.zst",
+  "NAME": "reprepro",
+  "BASE": "reprepro",
+  "VERSION": "5.3.0-2",
+  "DESC": "Debian package repository producer",
+  "CSIZE": "369808",
+  "ISIZE": "942038",
+  "MD5SUM": "9ce9a2462fe381e828bda8044669e51e",
+  "SHA256SUM": "30d41a52363584a4561f87596c5f97cc47f108f7097f2480d2752abedb3f53a5",
+  "PGPSIG": "iQIzBAABCAAdFiEEM+u4qOHFZTZFsSMqRaZQ4mOMU20FAl7F4ioACgkQRaZQ4mOMU22H4Q/+K/OJnAnd4GGnlCfcgMkyFHpQKnTogUuDRcfR4REfQiwdPQViAF4HIyLDhbW+r0jFrU7Zq+9y19G0aBUI3KgczCzu390Zfp/gnA4gJEq9Y+ilFnH1vS2UjBkd6qrgiFcMn8owzUAArI4WuaQfJpK9EnTNrOxcjnlN3QNVJwW2Fr6OfRX9fNPnHGUuEXpA2P4hMJ+Vt5Nl516J2CuaxyphRLa1X4vEXQdslW7F9+PQcO91sBDWawpqK6ac0JJlHmwOTA/2PaRFVd3gP8ppAIaOZ+Xjo5AhM2rq5SKvuXH3uoA+dXZhNr2Vc8D1Xqqhaqk4+Ox6tyoQ8C+1KB6ejSojSeGIWY7PBuJBvAp0CqJO6EfDknand5Lawkzwmpx/WbTWfI3SWYebfqcgLVdume6y/Pfk7+yr46GtyqRKStKzwR4O+lH3Z8dPF4rTb2Y0UZwM35Sk0ukuxRTpv97MVLtqM9oaiRmQTZZ1CVxyIpmD3QU2fw+X225+My4qvvQhW7StEhTEISEI9HyX+U6Ct5/7eTXyFLrJYxFGh2jfKvzp/PTr4vwgHCXmfOuxFrgQ+knSg4taqk1h6V/SNHX32VFDM2peqT1MIkcQgeDkXxkA1SXr+Fw0r8MoqFoKHaoeJ0QQ6V1vRCuq/ROpr6uzS3NPkPyzRYhnANI4gsD3+VMZl4Y=",
+  "URL": "https://salsa.debian.org/brlink/reprepro",
+  "LICENSE": "GPL2",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1590026677",
+  "PACKAGER": "kpcyrd <kpcyrd@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "db",
+    "gpgme",
+    "zlib",
+    "bzip2",
+    "xz",
+    "libarchive",
+    "libgpg-error"
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "FILENAME": "libretro-beetle-psx-hw-2343-1-x86_64.pkg.tar.zst",
+  "NAME": "libretro-beetle-psx-hw",
+  "BASE": "libretro-beetle-psx",
+  "VERSION": "2343-1",
+  "DESC": "Sony PlayStation core",
+  "CSIZE": "1376115",
+  "ISIZE": "8494352",
+  "MD5SUM": "fe1917ffdce2f4806f4b68826c37a5ee",
+  "SHA256SUM": "0ebac6f6069740ebee5a22ccc76ab4f971314e080ad8a56dcd18064be34bafa2",
+  "PGPSIG": "iQEzBAABCAAdFiEElDfdOBWnqRaePTlGr/XZUJi8b/UFAl7/q4sACgkQr/XZUJi8b/VLaAgAtvqd+rbb3pinpzV+5BGYct38iNhUDiuBwoMGNnnqIKGMAAs39rZv5VFLaX0sHBW2wIkZ7fLvs7fJSEzUEPHAp6J1u4ZFVeQLn+kZV9jPvfJNR4MI9yO8catp0grT96c+jwp2+U/NCPLx0/mAbhxk7JjWdwuAhMfAHSj+Dk9m+kygjRDFvd9hNW6WlCeERhrLPH7lCNL/qAf30bWIiX/E2JemuZqMMUOP8JhGxRYQMlWDamXZ4EPZfjASt5Gm2vYTtWcVRjEAb67DwgWt7LuPNp/8Ne2ymIzHDbKncbHsx3dAQF1JtjPMxOvGDJ6avFSC9LVM2MvEcg3SZNmjyxMzlg==",
+  "URL": "https://github.com/libretro/beetle-psx-libretro",
+  "LICENSE": "GPL2",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1593813509",
+  "PACKAGER": "Maxime Gauduin <alucryd@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "libretro-core-info",
+    "zlib",
+    "libgl"
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "FILENAME": "cbatticon-1.6.10-2-x86_64.pkg.tar.zst",
+  "NAME": "cbatticon",
+  "BASE": "cbatticon",
+  "VERSION": "1.6.10-2",
+  "DESC": "Lightweight battery icon for the system tray",
+  "CSIZE": "28899",
+  "ISIZE": "107235",
+  "MD5SUM": "14b005ccb03bb689601789218fa68cac",
+  "SHA256SUM": "4701f26dbc443e5b0e510917e12a13462ef30f79c16fc358d43e367b6894aff6",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl8Eq2sACgkQeGxj8zDXy5Lv3A/+KmYp1fIa/saroKhN1w0nMrN8wOZgPJmhSWM1TtjitpN1z3EK+K6wGS09UC9pQ2kJocW6d18L3bKQWWHwVGY6a5nGFcJLfO2eVEzGJV+/Gn+pNxrWyfB/lBekvennWux6p62IufrXlMz+t47LvHzmMF4cTc/Iu3YlPRqf5mcP9U1TWfJNINWrgylsCtrVdLYtN6IHMaBncQoXqAfpMNt8fH5vbyD/rJcEitcVDVs9F5gOzYrF35Yqzl9KiTnuLv7OYoUUtU9ySoM6znxWgZkU1VWkwySV55piV0xZxsu4odV4QXz3f8Nrn1awGJ4TM3PUmM9RRLH7MxRCkAzSYiOpTYOAHtA2esLAgqXHiAz+C9Gxys8HyagOgD4DZVzR2eq1I6tECYcMyWCsFA7gkdWLbveYO3umSV9+miJ0stC1/TNPNFZzdmtOZf+gDJLc8CjquXhgs3P4GpPtveUjfY6rysnNqKobtP6ZEjP6SzfFZNz+qovgkG4sQrVZ/SPZUNVrlDO67YXL8/Gb86ZltehTlo+VM4xKBH2XOjoDXBaEjwDXE11L1BtoeOHyZ+jxQKmgq+BfgFk7uqjDgzkesBbvTr4dufiZj+xnIHYoQlJKIDN8O45vhjpilvJSbbQ9jsPNzWel7fJoetf4eulNyfhiK+Px4KPTrxxWAqxzFL0BORU=",
+  "URL": "https://github.com/valr/cbatticon",
+  "LICENSE": "GPL2",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1594141491",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "gtk3",
+    "libnotify"
+  ]
+}

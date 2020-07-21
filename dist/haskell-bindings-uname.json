@@ -1,0 +1,23 @@
+{
+  "FILENAME": "haskell-bindings-uname-0.1-15-x86_64.pkg.tar.zst",
+  "NAME": "haskell-bindings-uname",
+  "BASE": "haskell-bindings-uname",
+  "VERSION": "0.1-15",
+  "DESC": "Low-level binding to POSIX uname(3)",
+  "CSIZE": "8915",
+  "ISIZE": "21674",
+  "MD5SUM": "22dbea268e852f8fd98f99bf251fcd65",
+  "SHA256SUM": "23a7bf7e4f4f0803fbd722d047c548eed5dafdcbeb9bcaff2c7758fb1ea8d982",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl6hbWwACgkQeGxj8zDXy5J2jA/7BTLMi+MnxoMQalslNGmqOZSKU/usDnkb7KvtzcbVA9Qr4bQLPK0WmUmIBQuhZWGLdH8+LAZJIe7kRg6Y5nZpKSAWzVwrJOz9diE2P964E+bJofEQAEOH0bH9sJ5vq6SjuACPxW7p6NNXShHzOZ7qRg9GDortiqTrgRVgTKFJ9tl4BUeHx8iu62OU5ndGKCtqn9ZZSRrssApqo9Bi3OslsnWWWBMJZyzqFKSbkA88wwLrbsnG6MIBucMjX9w2nXQML18+HW43KFlQM46YsbcvTEf60o/WoPu6ht+GY2ohvGmxO9SH+6+XbEEBqWwR40IkFcjJFU55CpRJw6fkwrAqOrydvbes2GHxFaFbw+D6WiJWMPdc005TnIGmt5THluzLXvL4hcjq8IY1dNmPAuUOP5wu1D2ron7cHBIGgTGVRgq3w+yK7YkakITKb6OBFyqbmTIuXpCHpvyeJMtC7p6lpkC4ogwK/dGrKiiEKV7FfEEw/lnWFNI+h7Lnm+Gy6k9A8+POUVAcfaWmvt+ycLhUgRkPbZ8LSUr4fPrhdDxerf9QIrVkJXarJR3MzvoAHiLxUUi7S3fGR77B3vxCxvnfFlpUvQoK50UACuD73dOt7Vn+e3b34I5nKCSOZ6r9n2HMRmoGfqq346jwys+WPUz8kZMhFA7TwMCEYfHhQT98Mvs=",
+  "URL": "https://hackage.haskell.org/package/bindings-uname",
+  "LICENSE": "custom:PublicDomain",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1587637529",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "ghc-libs"
+  ]
+}

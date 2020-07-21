@@ -1,0 +1,26 @@
+{
+  "FILENAME": "dpkg-1.20.5-1-x86_64.pkg.tar.zst",
+  "NAME": "dpkg",
+  "BASE": "dpkg",
+  "VERSION": "1.20.5-1",
+  "DESC": "The Debian Package Manager tools",
+  "CSIZE": "1837023",
+  "ISIZE": "8658088",
+  "MD5SUM": "4872df902153da77d71cb2b1aab166c0",
+  "SHA256SUM": "cc681efab71dfa6a49cc85d4b5e4f60c0235814123e497e690c1143eafcd230a",
+  "PGPSIG": "iQIzBAABCAAdFiEEjhmSFnRl21+wRVV8sChU7XU+Dx8FAl8HcwUACgkQsChU7XU+Dx/WiQ//ThkLD8FGEJF2gkPNSpaJHW6f9sCk+3vstZTJTWRyyvg21miqHytKL48jwHo9rLwsIJOmU0ks1QHrLTIAGcYrQVkvshN2zfuAlJ9hsb8IoPm/N5/RKU1fCgwdDTjjS4I7kILGAyDqq1IugbrsZGakWZRxzaexNG7MpU3VV0g6iOZmgutNI7QrkzG3mB1wB3irWMk8wuwzWTkpUT5ubd3kK8vGzA3RK9habNZvKUMgxArRjJV4LHQx+02p5/0eyyDG0wgzUlsZARIaGTxb+8c2Ay57B8iB+/F6aekPvrccXF3EY/aRqRR6HXoOr97ayf8ieE1caWsOYbGfAW8KmAFu9n22eFHgn+wQI27pjinphZTSMA5LWulejWOVsUa7SOQZFFaGmcvMx9MSsU7x1ET0I0smTXSz2IWJPFHgDSDv37XkoIwzRVMDmsj0FNoruib7GsfYKJj0vmo8izpmtxK35I5u/XQcIlKrU3gCS0B2Z1jeotFuHRjmutkUDAMImuJvjX0YdtQJgL9k7ba9vAzXDdhOSR74Rn7JV2aHRZb6l0sLYi0j5S+ITLN4WwxyFUiGcdbHwPoK8tJDzBk1ckcqpa7hifWCRaYscNPWG3UKQCb8N4ygRqLdoVlJQeLIOvmnUGOt/QwQAXdE7rx7jfEawXgHHq7Ll4PDm6D4tC5TZX8=",
+  "URL": "https://tracker.debian.org/pkg/dpkg",
+  "LICENSE": "GPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1594323651",
+  "PACKAGER": "Anatol Pomozov <anatol.pomozov@gmail.com>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "xz",
+    "zlib",
+    "bzip2",
+    "perl"
+  ]
+}

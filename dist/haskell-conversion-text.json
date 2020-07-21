@@ -1,0 +1,26 @@
+{
+  "FILENAME": "haskell-conversion-text-1.0.1-13-x86_64.pkg.tar.zst",
+  "NAME": "haskell-conversion-text",
+  "BASE": "haskell-conversion-text",
+  "VERSION": "1.0.1-13",
+  "DESC": "Conversion instances for the text library",
+  "CSIZE": "19819",
+  "ISIZE": "81213",
+  "MD5SUM": "66392494db8bc6bd25a538b0e549115c",
+  "SHA256SUM": "17487b9d0e63f24ba86e37b879095c660328dd5fd0fc355a8e732d913244754b",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl7oMIsACgkQeGxj8zDXy5Jypg//fj4LcqkVuh8MXZQHWNzFldIJIaKquHHMFfplhLaPiS4vkw9u8uNPckneoylgOo52BmMI2uNhiZUlmHVMpj47ilZgLCh4UyXu94HMqF6x3q0XSHHgH2bV6HsKdYMh2Sslwg7/ZxnJxLwt+cnAxQyETAR+H9fFQ1jXVI86+udNeu9Lv9HWCDu3m6qKK+/+w4PQEFhCTnCS61VQ3AoJG1if1uyoCYabG1/aPDx5Swtj+pqT6/Stz5AK472cX+I8CW0Rr4P48s6K5mEMSXoXTvvbgUbjShCfqddrEBR3wh8SgXa6dF5khAYKDF2hiipAwcy+MgjBgxPfLNIHxoc/U77ioFj8c3z8/RpUgRNufbHsOTEaBHKtZmZKPZ018O85PiD6M0N9J5yjBktODdTkDyHBVIgnlQgHc6bEDgXSTn4H/apMhdPEy0d5sye8IaPwy4QkGxZ8LTZoKYRKG4Ce69/OolmDGqUydvjWqvRAp/6gVS6ay5XzTaX+MxLTQPdklaT7HK1fd6uWtsNMZBF4LiPehL6QPpHuWiarbEjImI0iS8WTholO332oP7p1/0vwwI9DnxV3Mar+KdZhDcgo4/P3I6DwPPQtGdfq+IIfqd0zZJZjky7BVzW5YLbHpk9eajrnDtk3s+dpO/2lbOWjmmi2sp32GXljGoInmaE+mZqh9cM=",
+  "URL": "https://github.com/nikita-volkov/conversion-text",
+  "LICENSE": "MIT",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1592275058",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "ghc-libs",
+    "haskell-base-prelude",
+    "haskell-conversion",
+    "haskell-conversion-bytestring"
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "FILENAME": "partclone-0.3.12-1-x86_64.pkg.tar.xz",
+  "NAME": "partclone",
+  "BASE": "partclone",
+  "VERSION": "0.3.12-1",
+  "DESC": "Utilities to save and restore used blocks on a partition",
+  "CSIZE": "449708",
+  "ISIZE": "1947209",
+  "MD5SUM": "95f87314355536cc3e93e65ca889bbcc",
+  "SHA256SUM": "62b8eed01223c982c5a6d58b029384958f5d5bd3ca1a7ec125ce251cf5128753",
+  "PGPSIG": "iQEzBAABCAAdFiEEh0L3U157OUobBIFjMyycQPQNIHIFAl3PwUIACgkQMyycQPQNIHIaPAgAiPIJTxcXKzDdEu+g3X6L0nb9k1WpOEr7wtmXZVzYCc4xTn4p8WXjGthimmlf2pL+Fnwh8OHl4CXplX3YYXWYVw9XtiW/w/KH84vTCSPK4tL/AF2mXfXK9vJWQYFxYQnJlY53+AD7lDbPtng+eqZVuXs+x88F6hYPm7axFz5q150QduVD3niWnAp/oFBZ0RKPr+rYbvKVkKA4o33cD1L6P91ewAHfPie086R+d7K2gKnKcGkP9MuiuguVyvgk2uJonaBIbtrdKG8KdMGo9bdTla/9HghzD7CCrlAAQz0BUl4ZWICHiRIuXI23Axv3r/48xyE8OIdDMx3WHbfisjZdgQ==",
+  "URL": "https://partclone.org",
+  "LICENSE": "GPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1573896209",
+  "PACKAGER": "Jonathan Steel <jsteel@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "progsreiserfs",
+    "ntfs-3g",
+    "nilfs-utils"
+  ]
+}

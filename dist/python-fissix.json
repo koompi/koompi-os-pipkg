@@ -1,0 +1,23 @@
+{
+  "FILENAME": "python-fissix-19.2b1-3-any.pkg.tar.xz",
+  "NAME": "python-fissix",
+  "BASE": "python-fissix",
+  "VERSION": "19.2b1-3",
+  "DESC": "Fork of lib2to3 with patch for Python issue33983 support",
+  "CSIZE": "157932",
+  "ISIZE": "801898",
+  "MD5SUM": "6457deb5ae61cd7af915adc8fbcf0d1f",
+  "SHA256SUM": "fc9fb951434b85c0f55dba93755985bfd0e45f9819ec4cfd1e5ab288e3084ce7",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl27H+QACgkQeGxj8zDXy5Khkw/+PYPy2sHTuQ0rGxS4m20QjxjeOhXGyMuCl6hr6x0jcuqQLAlYbUtdYu57T9dO6gY45KtR21pFRUUct1s2ztczmlipmGgc9Z/6QsljB0IFW+3w84k9uMA0dWL9tXWEbEiM+HJ3Dm2o+MkODhrzIc3X9UvGiaMrJ9/yu6ORhwLrVFfBco+k1fctfwTY2YA8hOdv1uJrDHaPX2xNy4VoXZdAJDNL4R0RH3vslHSt8tq7FZ+64mWtjZVYnMXlHTe1Ut2gQybGOq/sxOKs0bY5D1YcRvmkDnL+TCZcNiwsAvKjP5z6fxppBsIRlvFLJTFtXkadDo5hzYrb6yFBMsDheRPDSScixq5LKnw7B9TdyVU3f5XqP7v6GY+oa1SazCmEqv+VwgpMSS+s4xmvQWyYZGq/V6QFf3zsxIiDgZCm3qDy1ZOHHvm1fBBP7FJy/tb6N+x/fK8e8Yo+Wp2CTyzKdS8Mb/YkSSVuWkVnBS9Jn3CobIk3VpXSwEsyLAQ0P3QJO86hKBgWJzbCWAQdjun65LdCtIE7Wad0YfUNhyMjPB76NZEteIOU9yf+OmaH1iQcBcJdGcqzUKg7fLtgxItozOIB++owc4J6u/LP/oYTSHeTqysv8K8VFjjOlN2F9Qk9Ks/54HGKo6heEaA7Rg5EMbBn6ar3fK+w0+Xc8YvPuPgVRVk=",
+  "URL": "https://github.com/jreese/fissix",
+  "LICENSE": "PSF",
+  "ARCH": "any",
+  "BUILDDATE": "1572544339",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "python"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "FILENAME": "lxterminal-0.3.2-2-x86_64.pkg.tar.zst",
+  "NAME": "lxterminal",
+  "BASE": "lxterminal",
+  "VERSION": "0.3.2-2",
+  "DESC": "VTE-based terminal emulator (part of LXDE)",
+  "CSIZE": "103607",
+  "ISIZE": "389675",
+  "MD5SUM": "1a5ab46e92d0e2d74e4830d0ee7132e3",
+  "SHA256SUM": "72f4af17d481f4490634042267b7375f4721710259b063aea8b720268f0d3bda",
+  "PGPSIG": "iQEzBAABCAAdFiEEzgvecadZqH8j8PfYth284QkBwWMFAl5o1bgACgkQth284QkBwWN37Af7Bw4zdSfIywcIQMdAdQxXjNbtW9LtRNs9nUmJG3jbeYxhETllQGke1oxWO8/B4VlzfQqYHZZqTAl3P+juM66J/FYISRfmmrGw4rjdso26BzvOq4Kmr8Nvq7z6Qz0/gKDE/0FrDyw0a0xzKJklc+SIxu8nPWX+JpIia1r1Kgrr4Q7JorqpUC7e0Id+kBMAkd+mnEyWD3l0xKX9oiOP3wg8/pOUfh0vjKajaE6SK9PzxOZwTYyHaMVfGxJkmbfSGk8UG3yPXC/KESc9KVOf44nR1K60VIrNCO2oSjQ5BUp+V8iSuUDJXqABDM7vUYx88V8KJw/8z+aBHWkxH5g5eGXhlA==",
+  "URL": "https://lxde.org/",
+  "LICENSE": "GPL2",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1583928720",
+  "PACKAGER": "Balló György <ballogyor+arch@gmail.com>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "vte3"
+  ]
+}

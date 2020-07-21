@@ -1,0 +1,27 @@
+{
+  "FILENAME": "haskell-tasty-rerun-1.1.17-14-x86_64.pkg.tar.zst",
+  "NAME": "haskell-tasty-rerun",
+  "BASE": "haskell-tasty-rerun",
+  "VERSION": "1.1.17-14",
+  "DESC": "Rerun only tests which failed in a previous test run",
+  "CSIZE": "56669",
+  "ISIZE": "266257",
+  "MD5SUM": "309f978786bf5a5a3d67be4db510178a",
+  "SHA256SUM": "26d4221be33b15c376e9350bd64681a02748c2af6be0b8559f8c15b6acf0a366",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl75IygACgkQeGxj8zDXy5KK+hAAgT5K14DnD2SjjHUit71ie5W0w6puxCyS6+6ZsOo3V2G1IQOnLQMtQ4ph0VwbfEPmq5fwtVh8uS6J6Z9EkJRQ6mzdnPuGkBRpTHmy/53p8Pp02JsDDFGafiLnwIY/sYKNf3Djosp//b74VsTnsPWRTg8Vt4vXx3B3HIUVg/kWJB9IZkbwBw/l9jkCII+TFuL76zjEN27RoJFVDDD2OxPsw8P0raYDQwF60Dt5abO50pOsHtmDKJFl6rmY2kDm4bZ370K9owa8mqoa1c6ToiNG4gAyRxjHMUvQBCX7PJm+BRxu4P2sj+QGESBXkC6qpWWPbdXWJ4kKndlDySNgqzUW6gQ8H3JnUCxkl0iGkQrOwAibId5bC6fp3XmJ07hHOncSKbC9/okzlwxxKMhOyEF2hkGx2y4arEOSOBR6+6EdPO8D1Az4Aimt/dju1AsdRKTRNJttP43lQoizHS9ntWqn/sSvDOGUGydvd9VEfvwhhO5xEEuAzlsgkSO9FW7EjydvToXWP7uSvXPmuhc0aEcqlCb5hdr6g1TeqE3bjhyaGR2JO1m3XFAOCV5EUwvYWyvAoEl4sKggHCOC9tVU2subCdH53Nmc82GAPk0piCfCtwUECRuSbqlLnoij8g8UjTq9vQjkA2pYQfmEu+7T2xpQWCTufhzNcaQNS0SpxtsiDmg=",
+  "URL": "https://github.com/ocharles/tasty-rerun",
+  "LICENSE": "BSD",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1593385744",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "ghc-libs",
+    "haskell-optparse-applicative",
+    "haskell-split",
+    "haskell-tagged",
+    "haskell-tasty"
+  ]
+}

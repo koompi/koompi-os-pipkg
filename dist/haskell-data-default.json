@@ -1,0 +1,27 @@
+{
+  "FILENAME": "haskell-data-default-0.7.1.1-59-x86_64.pkg.tar.zst",
+  "NAME": "haskell-data-default",
+  "BASE": "haskell-data-default",
+  "VERSION": "0.7.1.1-59",
+  "DESC": "A class for types with a default value",
+  "CSIZE": "7074",
+  "ISIZE": "15700",
+  "MD5SUM": "212d03daec0294bb2c1f2258370fa628",
+  "SHA256SUM": "b098d667a71626758a16a37896db937882163664d279a3501ef78c922e8691e5",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl75BX0ACgkQeGxj8zDXy5KNqQ//TiB3FkGKI8Jr4WWpZ+Ejf8cbJToiYgWzX4QPPAHWnrPrJKfi/xPKco+uSG/XXTkB6+7jQzzYOSXGW0bL/EvQ5PGVLoJP2xRjLa4XCBOYfUgSSkw+/j+xYooZLTd6c68EkHxaBU6fk1YX6Q4p6bNBIqtaT6ELKlP6YCLxFthLHi8Zej51WYZBqGKqQ/hjXfrvK1R/BjYuO2nB4WdEgeeJ4LslaLL693riHcwlfvDpK1ivh5CyKGH3XowowUubX+MTFgXQsORWROIUVe3t7TFFiyFAaLDJqwhWd8lZPnBZXuhdkTv15ZqJBjQ8/XBEwj7e1kcWETXUXX0Jq9SUrQfhvOgsMtp+AQ72WfzIIb+lgof0KUeOAPESrzjVcVq+Zq8l08MyZOjtLu3HI1zOh24mhnpmTJuzvGyxxNW2F7VBnWY7DKxe1fYNjQra1EnHF3VY7eKkuaoqtAMC1GTR2ruQgMjCVM7OPORdvlqFr4f0JClr6dNPLBI0CzK39bhubXBWUxpbJXPfnYjxlf+RS6+iIwXmzIENmz1qQzUA5Xsr0n6NlI4XeOpy9ZFkP2Z1gxHFjvFWgIJ2eElCd5xa/m9rMPLIWrIanf6LikYcFcSWGgppyMHVX+1h2Vy8Z0diaqV6qXAA+fLYhNY6XH9RH4QSEj2uc2oHfkXSzXbKaz2fgYc=",
+  "URL": "https://hackage.haskell.org/package/data-default",
+  "LICENSE": "BSD",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1593378144",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "ghc-libs",
+    "haskell-data-default-class",
+    "haskell-data-default-instances-containers",
+    "haskell-data-default-instances-dlist",
+    "haskell-data-default-instances-old-locale"
+  ]
+}

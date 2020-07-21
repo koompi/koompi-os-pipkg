@@ -1,0 +1,23 @@
+{
+  "FILENAME": "virtualbox-host-modules-arch-6.1.10-8-x86_64.pkg.tar.zst",
+  "NAME": "virtualbox-host-modules-arch",
+  "BASE": "virtualbox-host-modules-arch",
+  "VERSION": "6.1.10-8",
+  "DESC": "Virtualbox host kernel modules for Arch Kernel",
+  "CSIZE": "157622",
+  "ISIZE": "154702",
+  "MD5SUM": "c63b5aa5a0c8e6f62830571e759c2957",
+  "SHA256SUM": "8ed394fc0d43e5550ec5f23e025eaf9afeef3817ef6379f0c62e4cf14845c630",
+  "PGPSIG": "iIsEABYIADMWIQQGaHodnU+rCLUP2Ss7lKgOUKR3xwUCXvzLUBUcaGVmdGlnQGFyY2hsaW51eC5vcmcACgkQO5SoDlCkd8dTzQEAhCZueyTUYGfc/UIeotkyVy4a1s+V+KqMB5yC+RkPvzcA/0XRlvVOOLVHI51UAtjYMOABGSMVttiLKGIIzGXIJfsP",
+  "URL": "https://virtualbox.org/",
+  "LICENSE": "GPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1593618039",
+  "PACKAGER": "Jan Alexander Steffens (heftig) <heftig@archlinux.org>",
+  "PROVIDES": [
+    "VIRTUALBOX-HOST-MODULES"
+  ],
+  "DEPENDS": [
+    "linux"
+  ]
+}

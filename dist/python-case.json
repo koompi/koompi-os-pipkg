@@ -1,0 +1,23 @@
+{
+  "FILENAME": "python-case-1.5.3-4-any.pkg.tar.xz",
+  "NAME": "python-case",
+  "BASE": "python-case",
+  "VERSION": "1.5.3-4",
+  "DESC": "Python unittest Utilities",
+  "CSIZE": "31640",
+  "ISIZE": "151749",
+  "MD5SUM": "04220e95cd6f34c9dee92448f49e1461",
+  "SHA256SUM": "21e91f15a1f9fc47f74dd750a76446cfb84706366f9a753f4b0b20979897d8a1",
+  "PGPSIG": "iQEzBAABCAAdFiEEhs/8qRjPOvRxR1iAUeixSKmZnDQFAl2+A7UACgkQUeixSKmZnDRKhQf/ZvwP3emI9ApKPMyxlQuJIkQg0RMiqT/5P90x+XsYz95pcENay0KEGRsqbN6qh/Zg4kjjVpxJJlgiOSjZlvRryrC+L6lrwQacOeEGXMQ13FzzJHyO/6WMYJ8YUUf9/SAtVOJbHz2aWJQL1TdKYTwmac+4iNK0K2hmv26ueJBOcwZL6NLLDNn6c1lpqQvsL1opQXzeosq9OIUmxJG0B3VQ/dF/sAVRIePS3blU5A2RwUyHV6LXQ9ipE7P2TKgDiCX1iyfYCaUBSFcrABzl5mNmV7jEEL4zGkxrsHwjx72fpIUWIa6aZmydiWxKbsU+sV0yUUNG/MDO5ixLx9xu0EZv8Q==",
+  "URL": "https://github.com/celery/case",
+  "LICENSE": "BSD",
+  "ARCH": "any",
+  "BUILDDATE": "1572733849",
+  "PACKAGER": "Evangelos Foutras <evangelos@foutrelis.com>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "python-nose"
+  ]
+}

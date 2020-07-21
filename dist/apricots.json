@@ -1,0 +1,26 @@
+{
+  "FILENAME": "apricots-0.2.6-12-x86_64.pkg.tar.zst",
+  "NAME": "apricots",
+  "BASE": "apricots",
+  "VERSION": "0.2.6-12",
+  "DESC": "A simple 2D flying/bombing game similar to basic side scrollers",
+  "CSIZE": "246822",
+  "ISIZE": "562822",
+  "MD5SUM": "b8882d008bb1356fe8625a90057cfbed",
+  "SHA256SUM": "412cff53391c5d56e475d6e414faf7243f697415f5ba15c40e44a4e91ee28bc1",
+  "PGPSIG": "iQFIBAABCAAyFiEEZkWwqMcAXnjbHXhk+Z/+D+rpmb0FAl7R0QgUHGFsbGFuQGFyY2hsaW51eC5vcmcACgkQ+Z/+D+rpmb2oowf+Mw1mkKM5pearoPmjJEmXSSNnsB40fS6clNYgsCK7e9rwnWoEW2zqfTAl5FQ+S36vqwZebK2F4LwpFEv3hTBR9PiC4AEZDZP0T84nLin6UMgMJ0fJ3/E6sBP4GLGkjzX2wDJ0hcVq4ulIDSCNE8iNgT7nRymVwLW/DEHe0085SjSIhCJoJ5ZCA1b0i5bLRN/2VtCz8wclNXlIpYDUNV1l2pBua8R13c3Dwu9XxmqPcv/cKPEIigDgU56n0HC/DdD6sYrQGYl837aNjj2KA8F1WQ9MRkBQKAzm39CLha+Vk9Nm5ePMJR+xUKc8MVAxiUeo7//cV+ybw0uGpnCTMKJKTg==",
+  "URL": "https://web.archive.org/web/20060426053238/http://www.fishies.org.uk/apricots.html",
+  "LICENSE": "GPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1590808622",
+  "PACKAGER": "Allan McRae <allan@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "gcc-libs",
+    "sdl",
+    "freealut",
+    "hicolor-icon-theme"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "FILENAME": "thunderbird-i18n-it-68.10.0-1-any.pkg.tar.zst",
+  "NAME": "thunderbird-i18n-it",
+  "BASE": "thunderbird-i18n",
+  "VERSION": "68.10.0-1",
+  "DESC": "Italian language pack for Thunderbird",
+  "CSIZE": "426529",
+  "ISIZE": "489521",
+  "MD5SUM": "0b913f1ea82ecb8fc74f52d26b64016c",
+  "SHA256SUM": "74d7ffa95c08fc2ea6eb92c160894b22aa62e0a852d4dba487bda9c2a189faac",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl78eGIACgkQeGxj8zDXy5IIDxAAoBi08ctSx+A7UpsHAwj5SbnSeBfrjPRGsBudb1BDH+cGq+oOVDa4spMLHNHpcVG9Sh36yuZMJW8QRibnb3UXxMQA0NuaeF9uHy643WSqjX7mnvh1r1bdaD/dneuw7ht+sLD/37+cO/q3u7Nftaq+1xkUvfGzoebpGKXrUwHuLmHS02e68FPOf6eG81eeRO/LDSfwm95HYR/nr11AYF8g73WrOxDcaPxTICpRq59w9O91iTm7SiLqZj82dOyOwLzSd/TRTjx47N9QAb01KMsq4Cu/VN+P5frDm8pSs0nAg0mVShBC5g+QVxSGRPcsDJTnpDvufDb+jIGWE5gYPSZSU+Suow8eU9v7OLTvmoLX1OvnuAqjHLhXu4YT5Nyu/wvvHSPwsnJFNDwKwQXnueCjgmlinCEFdaZhxTx1ua/fh4A3I84FbC3GVp/ZRfwrPe2cElwhR0MsZt6bLiXAj1DHVNX5mWBIihtlgtyETNNt7MAkGwW40WdbjVouCMhuRvnWUEwGaTkT9Qd9I/W1F+V4khtKn5Q2WoyPpDR41KL28RyMlX5Aq3vISUZ5XrzFB52t831lf2ie7XSTdjJrsBMUBPvLH3ejhPYALdEBfleJJwhANdetiYrjypMVB52al4f6jjIKjRWWzvtsav5TzCiqzrV/ndNnypiP3WPMVSufhsA=",
+  "URL": "https://www.mozilla.org/thunderbird",
+  "LICENSE": "MPL",
+  "ARCH": "any",
+  "BUILDDATE": "1593603702",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "thunderbird>=68.10.0"
+  ]
+}

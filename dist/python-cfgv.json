@@ -1,0 +1,23 @@
+{
+  "FILENAME": "python-cfgv-3.1.0-2-any.pkg.tar.zst",
+  "NAME": "python-cfgv",
+  "BASE": "python-cfgv",
+  "VERSION": "3.1.0-2",
+  "DESC": "Validate configuration and produce human readable error messages",
+  "CSIZE": "15259",
+  "ISIZE": "58755",
+  "MD5SUM": "f965682110349df06bb340e1f0151559",
+  "SHA256SUM": "37007c9b9cf66411b9aedb0e161d55e6921601188eafdba0aa6f0b30aede1f02",
+  "PGPSIG": "iHUEABYIAB0WIQTH54SUZv4jWDQ1iDdyWHNLQcMVSQUCXm0vSwAKCRByWHNLQcMVSVm1AP42KoENUuA2uqejjRaNOfqE6WM7G0wvPNhSbQc52puUAwEA1gHoWVig1Y7JXWZUBfr09xf8Tb3DHjx/c6aGvAX/TQI=",
+  "URL": "https://github.com/asottile/cfgv",
+  "LICENSE": "MIT",
+  "ARCH": "any",
+  "BUILDDATE": "1584212932",
+  "PACKAGER": "David Runge <dvzrv@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "python"
+  ]
+}

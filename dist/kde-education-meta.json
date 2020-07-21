@@ -1,0 +1,43 @@
+{
+  "FILENAME": "kde-education-meta-20.04-2-any.pkg.tar.zst",
+  "NAME": "kde-education-meta",
+  "BASE": "kde-applications-meta",
+  "VERSION": "20.04-2",
+  "DESC": "Meta package for KDE education applications",
+  "CSIZE": "2184",
+  "ISIZE": "0",
+  "MD5SUM": "5cd81920a68dc41aa3fd0f99eea4227b",
+  "SHA256SUM": "c64c5cadf226433c53a1d5ff0a45ba792238350f8a8a99c1955441088622f41b",
+  "PGPSIG": "iQEzBAABCAAdFiEEFRnVq6Zb9vwrc8dWek52CV2KUuQFAl6/s30ACgkQek52CV2KUuSq8wgAlIZ66Jyv8ApzdFBl39OJ85LLlJL6aSjGXzCe2bhmof70PqxOsob6EDJqO/EmpXvLk0+ZHLdBJimY1Z/XmeeLMFcQWL1GYvEm2HYI/Wy9UAzLbn6M74qqmNUfZD/dlw1ExbaMD5KYiEm1gYLS5b3MPNlAnpC1K8c3Gd4NSVB5t3GiRnl3RVHo/Wge1pGS31y9VclN1FHeAdH30BizI1gNinpr3ahboMy5oigSogoo1BdtfGU8/IB0XxhTv6w+SBKvBRAgMjbbYfKqVuArKcDQ5NAcj+GnDt23K1u4B5UtkxkjXxbOrQ2eZG5Oa8XC3LMCOeavAJStKB4LdS/2T4Sxqg==",
+  "URL": "https://www.archlinux.org/",
+  "LICENSE": "",
+  "ARCH": "any",
+  "BUILDDATE": "1589621406",
+  "PACKAGER": "Antonio Rojas <arojas@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "artikulate",
+    "blinken",
+    "cantor",
+    "kalgebra",
+    "kalzium",
+    "kanagram",
+    "kbruch",
+    "kgeography",
+    "khangman",
+    "kig",
+    "kiten",
+    "klettres",
+    "kmplot",
+    "ktouch",
+    "kturtle",
+    "kwordquiz",
+    "marble",
+    "minuet",
+    "parley",
+    "rocs",
+    "step"
+  ]
+}

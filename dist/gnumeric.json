@@ -1,0 +1,23 @@
+{
+  "FILENAME": "gnumeric-1.12.47-1-x86_64.pkg.tar.zst",
+  "NAME": "gnumeric",
+  "BASE": "gnumeric",
+  "VERSION": "1.12.47-1",
+  "DESC": "A GNOME Spreadsheet Program",
+  "CSIZE": "13737212",
+  "ISIZE": "50367337",
+  "MD5SUM": "a386779915883052f98844c98f99d92a",
+  "SHA256SUM": "8b4fd229e24b90267f20e7132491060bb32bc31d426cbbe78c9fb562c9a946de",
+  "PGPSIG": "iQEzBAABCAAdFiEEFRnVq6Zb9vwrc8dWek52CV2KUuQFAl8BrlQACgkQek52CV2KUuSZmwgAnZpYxSpGD9dSJFoUFHODp4otrnjhZ9PF1UJ5WKts3i9zRIMeJckS/UYCQ4FeUUGBq7UlyPn09mDPVd2tzDe4HrGeL5ME4Zjd1JT52gfUufVnZ+MtGWEx5qO1ZUH0KvJlc1CQvrgsnf4sPV+I7g3N/twNwfII/IzpKHIjY6KBxwEztLA7atU9EhJuNMCyQLMWuEpovorDJ9WI2xNWPARfK62e31wfq48KnwhqCwlpA1xEsTsFY8LsuvA1dWZbB8dERw67WutJ89FY5FE4aNnH8XwnZ5JFBLqZ8TXp/2GVWQw/S4+iyb6ppKchj8lypgjCxd3/Yz+3Qp1VWadJzx5Gyw==",
+  "URL": "https://www.gnome.org/projects/gnumeric/",
+  "LICENSE": "GPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1593945002",
+  "PACKAGER": "Antonio Rojas <arojas@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "goffice"
+  ]
+}

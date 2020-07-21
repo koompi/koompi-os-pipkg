@@ -1,0 +1,24 @@
+{
+  "FILENAME": "ocaml-topkg-1.0.1-4-x86_64.pkg.tar.zst",
+  "NAME": "ocaml-topkg",
+  "BASE": "ocaml-topkg",
+  "VERSION": "1.0.1-4",
+  "DESC": "A packager for distributing OCaml software",
+  "CSIZE": "639434",
+  "ISIZE": "2846268",
+  "MD5SUM": "fac5fce250bbf2c2c571402f3543922e",
+  "SHA256SUM": "e9ed1ac1e95a89ab1af4556b2b980dd2526f353639660d639060e524f2bef77a",
+  "PGPSIG": "iF0EABECAB0WIQQ1W9uX7Uck5rOkUOej2VYqWJh0qwUCXsLGdgAKCRCj2VYqWJh0q5DvAJ4qK8isnqr7b9JWCR/NJKQOJu3wZACeIe8/WUFIM36My5WO/ZDpbFIKgxE=",
+  "URL": "https://erratique.ch/software/topkg",
+  "LICENSE": "BSD",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1589725869",
+  "PACKAGER": "Juergen Hoetzel <juergen@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "ocaml",
+    "ocaml-result"
+  ]
+}

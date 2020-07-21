@@ -1,0 +1,25 @@
+{
+  "FILENAME": "nextcloud-19.0.0-1-any.pkg.tar.zst",
+  "NAME": "nextcloud",
+  "BASE": "nextcloud",
+  "VERSION": "19.0.0-1",
+  "DESC": "A cloud server to store your files centrally on a hardware controlled by you",
+  "CSIZE": "65784125",
+  "ISIZE": "276673362",
+  "MD5SUM": "6b47a3b5cf5ca233e4482bbc36808bdf",
+  "SHA256SUM": "94ecc1f3030348b5a272b6fb8e4e6cd651c9633cc2954470562e95ec7bb7dfed",
+  "PGPSIG": "iQJGBAABCAAwFiEEPlGL8lJv0Zeeiq5JZcEQwepDP8cFAl7aNxUSHGFyY2hAc2VyZ2VqLnBwLnJ1AAoJEGXBEMHqQz/Hew0QAM50hKb434+/S3108OWntHeCYGCsbXejQKh/ddpYBN8ITOhP0pYD4djLR8Zo6T+dkPxMYL3YXS5ppT1i06pUmJXkbgPHp7h8/xiZDVAg9eO6U3VWkx640Hn6mBUMmVbuN9ZRe6nNt5oE42wp3f1VbXv2cwbVj5QhXurISXlscrJ9hMgSLUMoB1pRlJRv/XOmd9lTepvci2clLSCNv7zsad+DGfxS9YabZTnae1ox2WA3JkOISDdduLvPPyYNXpBgXUqj7sALWeTQYME2vH7grYNXf2CMxa1qLPMpbN+Engqjkn70A9+8hbsBDCBe7YD6XHnCdJzS6rwNzIB/vr1sQgXpFb14jOW1FQpwx5bY8t3VhD5yfHr8hRrHGOV+D3I2zKrwcrLn0+M/b81yzjK+sBFY+YxjV2+jCTWL93IBmKgldW8slfwBg7R4qt9ESgoBwAm05rLmqHoHfUXZQLo/NwuXOUbfOZg51Q6E1HRITmZnzfB4GF/zdZ4zGxKKjTQJpZGx81+4iBvDcbleRpOiKBjdQ+hdECTxjFkSQ1gSeSjbqph/rlfEbmRJBKumwEGWFbyuWqdgL6SS9Wq5z3+mMWT97lCQYAOJdugTL7K4phDNR8UCTrTh6j/d2me3yl9EsENvGx7v5JlDZXxfPD1KALQYrOmaV39wUqSREd/H8r6U",
+  "URL": "https://nextcloud.com",
+  "LICENSE": "AGPL",
+  "ARCH": "any",
+  "BUILDDATE": "1591358774",
+  "PACKAGER": "Sergej Pupykin <pupykin.s+arch@gmail.com>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "php>=7.4.0",
+    "php<7.5.0",
+    "php-gd"
+  ]
+}

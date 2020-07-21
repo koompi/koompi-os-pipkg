@@ -1,0 +1,24 @@
+{
+  "FILENAME": "sniffglue-0.11.1-1-x86_64.pkg.tar.zst",
+  "NAME": "sniffglue",
+  "BASE": "sniffglue",
+  "VERSION": "0.11.1-1",
+  "DESC": "Secure multithreaded packet sniffer",
+  "CSIZE": "896736",
+  "ISIZE": "2914583",
+  "MD5SUM": "1d147ba2b1395441ce61e577c9fa054b",
+  "SHA256SUM": "d677d1a75dc0752c13fd053c2a9d24684f981c33e18859e1e51f3547fa377946",
+  "PGPSIG": "iQIzBAABCAAdFiEEM+u4qOHFZTZFsSMqRaZQ4mOMU20FAl7SQ2MACgkQRaZQ4mOMU23vIA//UFP6b5oEJ89se//cpHeQ503rGTW+skkzqaYFRKCNIJ4RRTKuHq2udK+ibqtW+iskvvlpYqw8sZvmA4TPauSIok1ZrEbUNE4WkqpEbfxAH7jQq0pRNIbdxkjmHR9RUYL+1QXLOvUlJDbOzHflaExg1+ZbAuC9y+5G9x1fmXxyKRz7OYIvJlbfzVqd34YpUEXesCW1ArKjwdGV8Fifu3tu4z6ZIHTmPQfaQleU07lfZDp9xmtkI2gUx9wsi/OIZHQ9Edxrg81jmHegnTkbMHZ7pyDUT99GhKeJQuzLus7F0d1G2RKBM6LYmv3l+PQxmOg1MZwtMnycbwcNmvGfLRZQJGZQ7JAE9BEh/x1PfW2YGbiz392+B64pttz+fjNFIHTjMhuZq6DwHfS9RHkXZYdXEHCU3ZNtkwlHXTjWWKpCMQbhTa1yHJW5jemMDhIpEgw8qBwRMQN0pGYOvi96BnYnl09COAnVZhX6Et4ZdcVaJQwn9rZmDj4casAb6X3Yl+4nsGIeS00ZIFvZQGNCSgwyVN6vlx33XDMEFrKz9FudGAyZtKsgr7MI21iHsNt/NELWiZr3+fgYdiJM/uEI+DxSQrGfLYkejEmKZJ6o4tr6iuksY7WgfDde4404SAwRCYm0vTQcq1NCnqH5iHqbdMRQYGaZZKtvuk8nERnwPiNU224=",
+  "URL": "https://github.com/kpcyrd/sniffglue",
+  "LICENSE": "GPL3",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1590837958",
+  "PACKAGER": "kpcyrd <kpcyrd@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "libpcap",
+    "libseccomp"
+  ]
+}

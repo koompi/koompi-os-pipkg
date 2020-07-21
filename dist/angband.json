@@ -1,0 +1,27 @@
+{
+  "FILENAME": "angband-4.2.1-1-x86_64.pkg.tar.zst",
+  "NAME": "angband",
+  "BASE": "angband",
+  "VERSION": "4.2.1-1",
+  "DESC": "A roguelike dungeon exploration game based on the writings of JRR Tolkien",
+  "CSIZE": "23059750",
+  "ISIZE": "26078856",
+  "MD5SUM": "24d6ed83cc3d8df155a3a7c092221dfb",
+  "SHA256SUM": "bd12988033503a397c328b89562e7855ec9577c6670ca536dfc6f5fd88255712",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl7wUYoACgkQeGxj8zDXy5L+CA//cyV6ICSAxrh34QHe0K99dsuRnSKe3oZUKJgW/R8l9JVmx6sK7l+PYIOHJbePG/cPfNMYLiLiHtD0Vux8h8eo0eUOTAu6oLlMCszdRvDuGOeENgesEcy7G9IFLS6BHS37D2EvrO4/PpxPbHLu9dvK+ABwgQ4cVH8XzoZZANyCjFtNmS2qDSak7KcdtuzYRJo/XAK1Pq6Ll56LdvlGqWCXog5wjdUY6jUa5iH/qS7bduJ6OIgBfHk/vcv3RfzVw+e5EKCXfs6iPGufqf2/1fNSOWW1BtI8pEUv2gHTJJOcTggC261uky0YWUtaRVRYXZJZma/C9m7nSg99z+iiH5/782gcsCDhm0B7WPvmzVLBg54PloNIJpvy1DE+h438wVsCPTNNlsM8IW8NeQO+SLLnN2myvbc0ke2doIp72H4+M6rsVip4ULgTBcDtpaPySRX9+nZmD9QkmRNl5UcyHbYuvorMCTQ+rMjUu+EX0TsaVHyqlvSdgEDwFgWHp2ot+Tc3fy2f8zgIcJM9sC3o+m38fHdeFJ7iTrTPwCMqrKWjCS9y5AW0hONMDvUN8hPg0DRCpOEVoI9j9jBnjC0yraRqN7tGUWG8vl0nw+fpJVAUIjHFyi7RQQZzNwgF5bmkVwkb+rCyfIGpPkxfKx6IJHgIESEO2VJCqQkNS+p4Ia1lVYY=",
+  "URL": "https://rephial.org/",
+  "LICENSE": "GPL2",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1592807637",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "sdl_image",
+    "sdl_ttf",
+    "sdl_mixer",
+    "ncurses",
+    "xorg-fonts-misc"
+  ]
+}

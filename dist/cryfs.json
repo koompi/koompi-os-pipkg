@@ -1,0 +1,24 @@
+{
+  "FILENAME": "cryfs-0.10.2-2-x86_64.pkg.tar.zst",
+  "NAME": "cryfs",
+  "BASE": "cryfs",
+  "VERSION": "0.10.2-2",
+  "DESC": "Cryptographic filesystem for the cloud",
+  "CSIZE": "1582639",
+  "ISIZE": "6686532",
+  "MD5SUM": "261dc4edca2b2d347fd916ce550dd236",
+  "SHA256SUM": "63bd4a926f4c8d66f67afd69e85bf1251399d087b79d7e7f04c8c57cb2a8536b",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl8ElUQACgkQeGxj8zDXy5I2GBAAwBSt3aNAWClfICZby4IiDpQfF1yRMojtW0LMEsCGZfiO7efa1rd+fc8dicTJl2kLpnK/hX4OFD5iKjMS3Y/Gz61OmffSomH+PHvgBj6S3/Jt/Vs5bJ1YTq993C5N7VUjnlw9MeDOIk+yHZpPC0JWDccy6fA3dgZxKLBk2vx0FeiMsdEwUQzAbyr1xZQOnx93odtYiIJp09agv7vVIcnMzkXZMXcGfBIOeZh6L7tMU2qGubS2HaMo0M/a3oy77ryZC+fP/YYiBfdFYy12IWSsLpSAR2rYbBaZ649emLPo01ErDnF5mFpK6af0BAcsHLHVuZcYliCjdNcSLIxpXTR632wim2BE8nPCZkQtNgvPGrfHugzUDD6psyvPPkvrH0FJX4zm2zcdn5VwFNy54o/JoXWUlaSxJsw1GEtqCIwGdm8ZViBkjT126DQpvFKjnDmgtnbAhVXpC7CwCqGInEzz+85yAVws9SerD/mlIrPgy+AJudLHlPhVSQYIIcBp4J7ejIAWFMqqUTksKzQdMbUVI7hSmm6V5vaHWmHpBWZuZu3H8+4Ag2tNXkqvpKCvwTFkPf/kO1QLB7xSic/7919a7xENGO5dZhgWhjIHqRuBVY+aHGhTW2tLax5yKUzYRhPDLbnLf9Gu0fcT0afN5NddHmlDuoP5aIm5VmsjOeR+sfI=",
+  "URL": "https://www.cryfs.org",
+  "LICENSE": "LGPL3",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1594135534",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "fuse2",
+    "curl"
+  ]
+}

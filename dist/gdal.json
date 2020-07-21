@@ -1,0 +1,40 @@
+{
+  "FILENAME": "gdal-3.0.4-11-x86_64.pkg.tar.zst",
+  "NAME": "gdal",
+  "BASE": "gdal",
+  "VERSION": "3.0.4-11",
+  "DESC": "A translator library for raster geospatial data formats",
+  "CSIZE": "7719581",
+  "ISIZE": "27161484",
+  "MD5SUM": "30d5d6bf2e6475d44cb04f553e21b59d",
+  "SHA256SUM": "d6e697b37ef61d13d441863f0caa7d57406aa28d680aa4f624c59829eb314a2c",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl7++jQACgkQeGxj8zDXy5KkxxAAjy92jz/eLDqUExuXyvjRH4voqpx7+Frq+CvStVccNrNNrtnJ6kQYlHTkqMtBiAZW1j8VT7NJy1zl5BQYakqAJWoDFxsg/01K8w/MfNGcgcpt+ESEpCraLCmgMZrM556dfwne85t4cu/zV2R20PTMfecr0Wy0plsxFcHGQBYDC8A92MUowi/hlBuQCZGBDV1xRIaJR3eCIrf7IFYQeDq9BbnnxJvvcxmMVb9sdJazIaaNw2x9ZfsmJ2YcAttdzsd6Ru5jQ9rh4ja5jskPadbEFSzz3a9LU0GBBpUUr8UEpzWVUhB9q1A82dq9hHnzYadilIdglk833di4bfkffBORTgfwW8jrB7TvyojND+OZZhwYClyxT95TQ4aCVpStdFwelD/lZhMj64S7kzzHkMSypY1kKJBQbDN9vkBTmOzQ/hb6S6VS/wTmspwfo606aimspKPtaX5lhoBdNxMDwIp0q82wdOPmPtahFfkybweZDYKyHTvX8qTp6o6XkZ+uf8liZvMbHfJwlUtIIrbDwh/CGxtsVvcO53/8/99DHB4IlK7kUwrL8OAsp1M4ntJ6N3niaJD4drkakl3+8aT67LmIdhqTI427IT26kYREZ8O6qipznyC8rsxhiCbDwAom5MqMRdo1w5c7TqMKyvf+yX34L9/BR96QRuygayzSYOlnF78=",
+  "URL": "http://www.gdal.org/",
+  "LICENSE": "custom",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1593768155",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "curl",
+    "geos",
+    "giflib",
+    "hdf5",
+    "libgeotiff",
+    "libjpeg-turbo",
+    "libpng",
+    "libspatialite",
+    "libtiff",
+    "netcdf",
+    "openjpeg2",
+    "poppler",
+    "cfitsio",
+    "sqlite",
+    "mariadb-libs",
+    "postgresql-libs",
+    "xerces-c",
+    "json-c"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "FILENAME": "ruby-immutable-struct-2.3.0-2-any.pkg.tar.xz",
+  "NAME": "ruby-immutable-struct",
+  "BASE": "ruby-immutable-struct",
+  "VERSION": "2.3.0-2",
+  "DESC": "Create struct-like classes that don't have setters, but have an awesome constructor",
+  "CSIZE": "11952",
+  "ISIZE": "31047",
+  "MD5SUM": "243b2ce082c75e351b68e5de3006e558",
+  "SHA256SUM": "60d0729cbbdb1585767a0a66373c46998409ecd9101fb67894ba500cf875dc87",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl4ECn0ACgkQeGxj8zDXy5IEthAAubU8JVAEjyRgcFsdQ6LpdpEtBfMJ7DMTVfI4VjaPP2xTGVKkdDz6z7DGJH6dEM4IRPk9lHZhPmnjEEz1WtqHnuHak8lgFJX01jQA9Mke7RE7jYGzRjPHg++JQUpsC5SoSivzbAI+LqMCFrXFBeOflXtzjHzQmOXMDVbSIC3xZV/5Xf3TutBnSNWqgOkobsKkRqxrqJ2dtPhajvi/dEMmC9AU/DRFNUKT1xm8ZmHcVyBJrCO6buW3/VBcOWDQUPTUKQToIQYLF1qPsE8GcWuSp/eo60bOixF9fHB2Qdf2aPjoDnEp6DGdErxBWigipPPfi3raAzvm/v+FAZ54q/1Zjv7jpAvcEp6kC7N9D6G2c2n3EKtn9/H0uDcc7ln2D/G+cpGzwCxvCj8tLmhwRoUMIVih114nv6IEOzk+xshEFkb053GvKkpZQ4cPrjn1QmbjiFp3Fr3tnQzofmitvRbJdup8+B4x4QujXYcIQObpVGA31scJ9ROJrIvUWsivaAekLJGepXdk8HBtVclyKDQmAalVFi6eQ89epoF6d4/PbAwRsCTjAy5Q9vIWslTKssTezINPlXD35SVSKaX4b2hxOm5QWG2rrf3E4fnrpJ8niTDwR+lCnERzYmKANyFpInnEDRxgsX8f4Hkdkdlg1CGLbPS7B27UdJvBmdHFQtdhz7A=",
+  "URL": "https://github.com/stitchfix/immutable-struct",
+  "LICENSE": "MIT",
+  "ARCH": "any",
+  "BUILDDATE": "1577323110",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "ruby"
+  ]
+}

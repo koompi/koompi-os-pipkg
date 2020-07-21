@@ -1,0 +1,23 @@
+{
+  "FILENAME": "libpgf-7.19.3-2-x86_64.pkg.tar.zst",
+  "NAME": "libpgf",
+  "BASE": "libpgf",
+  "VERSION": "7.19.3-2",
+  "DESC": "An implementation of the Progressive Graphics File (PGF)",
+  "CSIZE": "53608",
+  "ISIZE": "158799",
+  "MD5SUM": "9b3cd565d720220658223e1b651246f2",
+  "SHA256SUM": "00d13dcfd665a5d1e86e864c3e707c5d05b20870091fd740d30e7df3ac465f51",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl7Dl8UACgkQeGxj8zDXy5JK2Q/+Itf3IFDsPkNcIMVTxkm4I72aaB+P0hxckjaCHox4SjaM/HspBn+P3HFAyYKczncdROk/OpQjhQwwZBu3CgMk6X00YwLtjfokSBSrGb2XZqmkiwNXhi1Ete31V7l4kWmiWRUtkLQ+/9CtLphOODlbRNybVJ6KHxNskFOVQIO/J9xEureO9hJvdXl/gND3RMPUye8Es8JL3JU/z9YJ78u1GZvJql0BCv8KzbFAdxnP7yLt1OzWI+BJJh1oPLSLsVtXPjkIrw5kZIEoZdY1xela5kTHAVn9nmiJ3MfYVzUECUFBH9JDLu1+CrxRqKx8Z9Ettbnb6ou0GQ5MuAXr3YrTEd2iAL8tyXoP+pMOti3tiILdRMZqDh+C72Obd7V6sGVix78GUWtgovcQ6bumjxawPr2edpAN4vimE4ACyycjxcLi6PmQmEKC2oVGET+JaIicdJIpHebteIhGJ4loxVjNvCVpAvh9Q7Kc2BNC4LTxN5uE3XGuPS7C4AdvdnOTmW3B4tJ+iVl3FF3S796OVDSFwSRw5HCsPQbNn/XowzK8D9lmfXrZvHFv0Wn5XBvDEVn2mzaZAoC1pM7WYReVoqn9bLT6OSTDMJCxFeqMyB4VWcalN5K+8TKgO8JnCOKVzLWZ8eDK23GzBUUE309XZDhK8DXkJN4Tse9w0bx64o4pYbk=",
+  "URL": "https://www.libpgf.org",
+  "LICENSE": "GPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1589876601",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "gcc-libs"
+  ]
+}

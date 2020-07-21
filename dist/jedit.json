@@ -1,0 +1,23 @@
+{
+  "FILENAME": "jedit-5.5.0-3-any.pkg.tar.zst",
+  "NAME": "jedit",
+  "BASE": "jedit",
+  "VERSION": "5.5.0-3",
+  "DESC": "Editor for programmers",
+  "CSIZE": "3111959",
+  "ISIZE": "30496119",
+  "MD5SUM": "4da34377248b544531cebafe99c96ad9",
+  "SHA256SUM": "83936a4a382735464b1d32aa5ed298e6a99de794f1f3586f03cb81d8fc462015",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl8EbTkACgkQeGxj8zDXy5LCPw/+Lp277kUpQR4RNAvifi7fM7+g92oKr+vKqr8j96k7OBbbMB2Ww6WstDBw91UYPKIvYtZblkqEcl7kAkCQuQXp2VEbO7GWYFIJXcPQ8ebOA2lryRSsRmh8StgxR5af0qKG7feTlBJcEwCMse/56SUjno1jY4wXGlBF8HXB+ZE8YueNnU1CHRf1GKCXfU7yZ3yRpIf9SjFNvIavJiSvhsppryhzGmge6boKPtbPsxRXm2JluydOQ8XqyOBqRRfJ5TLcS5m8KK/jfQ5Q5p8VUmxSMs6E7thmikn4Y100rEvCwbemvs4gzHXZr8hHoFLYiX84XE+P8C5UbgueSLsuYpyChGB5hcwhZrUE6TA7qeFH19aKibv34Dqo0Gu2x6QK5+2TNTRxXwkHsUocDQJteyfMPumaJKq1iF5go0rtZoFSx8wKF0ShEiJNI2116JAC5GAuVQpi1iMYakyllh1Fk6rtCKTKmMS+iMVF7KFqUlsNKpvv5/xAEWuOVPwimWzN+EdhNXcsTCL4p1EfcFVrOFyBiamYkoDUQg1fSvHaJgVN9Vse6YSUfXqLrTW/mJOCEpktW8zSZYtt5ya95uu1OcODR/O9QSp45vSOjAKb7zLbUFk7v4nvaKX3bD/6r/FGa+MhwykOFxRQxMX1ERn3LtHSSn7sDQeCxbwaVlbeowR+GYc=",
+  "URL": "http://jedit.org/",
+  "LICENSE": "GPL",
+  "ARCH": "any",
+  "BUILDDATE": "1594125399",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "java-runtime>=8"
+  ]
+}

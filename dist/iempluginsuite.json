@@ -1,0 +1,41 @@
+{
+  "FILENAME": "iempluginsuite-1.11.1-1-x86_64.pkg.tar.zst",
+  "NAME": "iempluginsuite",
+  "BASE": "iempluginsuite",
+  "VERSION": "1.11.1-1",
+  "DESC": "Plug-in suite including Ambisonic plug-ins up to 7th order",
+  "CSIZE": "25028216",
+  "ISIZE": "231047366",
+  "MD5SUM": "88e7354cdff6f66aa5d56ad1c083aca9",
+  "SHA256SUM": "be54d14cd7656226293cec44d4c49536e02950f5d3df47919f284e65f89ed206",
+  "PGPSIG": "iHUEABYIAB0WIQTH54SUZv4jWDQ1iDdyWHNLQcMVSQUCXodqLAAKCRByWHNLQcMVSdXcAQD5n055Miu7sVlt52XkAB/9tO0iPKUVIJTjA0IAVTWYLQEAyYjHCcm0wtI2nPbK9RJ0mQF/IIC5d1oJCH2uWWzOCgg=",
+  "URL": "https://plugins.iem.at",
+  "LICENSE": "GPL3",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1585930878",
+  "PACKAGER": "David Runge <dave@sleepmap.de>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "gcc-libs",
+    "glibc",
+    "libglvnd",
+    "libjpeg-turbo",
+    "libogg",
+    "libpng",
+    "libx11",
+    "libxext",
+    "libxinerama",
+    "zlib",
+    "libasound.so=2-64",
+    "libcurl.so=4-64",
+    "libFLAC.so=8-64",
+    "libfftw3f.so=3-64",
+    "libfreetype.so=6-64",
+    "libjack.so=0-64",
+    "libvorbis.so=0-64",
+    "libvorbisenc.so=2-64",
+    "libvorbisfile.so=3-64"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "FILENAME": "aspnet-runtime-3.1.3.sdk103.2-1-x86_64.pkg.tar.zst",
+  "NAME": "aspnet-runtime",
+  "BASE": "dotnet-core",
+  "VERSION": "3.1.3.sdk103.2-1",
+  "DESC": "The ASP.NET Core runtime",
+  "CSIZE": "6366168",
+  "ISIZE": "17803526",
+  "MD5SUM": "28237dc66cbf8eca1240d8538453385d",
+  "SHA256SUM": "a3d097ece6e3f90b489c18fa8b20b0a47a2ef9721c70cf2be224ec72e1316891",
+  "PGPSIG": "iQEzBAABCAAdFiEElDfdOBWnqRaePTlGr/XZUJi8b/UFAl5+amMACgkQr/XZUJi8b/UF9Af/ZJIvE8wqZw7A9V25LwOnH+D49du56AB06I5Wjzb9tFy8pDpRnLgHiMmnn9es4ljflBUnlXw4Psy3D5yBdIQ/P16UMewQX3BsoZ+7LIZm+FLfEZZKM7HUQDzkPlOb6pS9uxxmJlBAjEYCHAevCJCk4J8Fk2/BMqr030JI+pTkOtQB6NIA+S5ow3Ek+/nKG5pekt+FHBwSab8BFZdLoKfyzLlVux2wB9fVOccEJgSnOAoR9E6d+mWg8ujNMlGv6mDUu0nLeFgt8v2QB+leaatbTzyU7N/CANoqVSq5FpJCK41vx5vcmjU/EkHZrsrbxu+IN91M2a7FkNXkMWtoltWY3A==",
+  "URL": "https://www.microsoft.com/net/core",
+  "LICENSE": "MIT",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1585338719",
+  "PACKAGER": "Maxime Gauduin <alucryd@archlinux.org>",
+  "PROVIDES": [
+    "aspnet-runtime-3.1"
+  ],
+  "DEPENDS": [
+    "dotnet-runtime"
+  ]
+}

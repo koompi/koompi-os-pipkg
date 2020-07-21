@@ -1,0 +1,23 @@
+{
+  "FILENAME": "libreoffice-still-xh-6.3.6-1-any.pkg.tar.zst",
+  "NAME": "libreoffice-still-xh",
+  "BASE": "libreoffice-still-i18n",
+  "VERSION": "6.3.6-1",
+  "DESC": "Xhosa language pack for LibreOffice still",
+  "CSIZE": "240035",
+  "ISIZE": "1353171",
+  "MD5SUM": "71f6a8c97c9026b8cf7e29af5e0598d7",
+  "SHA256SUM": "7cfe7e079af9b02bf810e2fd61198c7728791c45539a6ef8ca63382ef5cbafa9",
+  "PGPSIG": "iQEzBAABCAAdFiEErcih/MFeAdRTEEGelGV6sg8qCSsFAl6tSwAACgkQlGV6sg8qCSvduQgAkHDHxLdqqve23O78oukqCFW9hyewuqW32BkvqoIpZr2daEpG3V8P355yqhBLRcYEIX/AOZIpbNkkbSq9iDu+0Ip+X3vIP5FFhyI66aTWwKHzQ/WaeffMPtqNrIQwkQqZKMehKdpMSU8UW2yfpy/0CMZ3+knuQffqp0Nz0Ro6bSI/ihzi8GmbogNFU5m1TBqQbtnPy5pdMO3VlxzBXBdVI1MtMI5K19iYQUFM6pHWGcMYWktQiwQJ6/2m0EB0GM23NGEygrfSl51k4E9ZkzzM4q8BebQ+f6OOicmZ601fpOBzDbsDCmGBMe/RCLM8JGwddWd2f8r2nAMESvrH0ROWZQ==",
+  "URL": "https://www.documentfoundation.org",
+  "LICENSE": "LGPL",
+  "ARCH": "any",
+  "BUILDDATE": "1588407321",
+  "PACKAGER": "Andreas Radke <andyrtr@archlinux.org>",
+  "PROVIDES": [
+    "libreoffice-xh"
+  ],
+  "DEPENDS": [
+    "libreoffice-still"
+  ]
+}

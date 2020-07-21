@@ -1,0 +1,23 @@
+{
+  "FILENAME": "libdazzle-3.36.0-1-x86_64.pkg.tar.zst",
+  "NAME": "libdazzle",
+  "BASE": "libdazzle",
+  "VERSION": "3.36.0-1",
+  "DESC": "A library to delight your users with fancy features",
+  "CSIZE": "626029",
+  "ISIZE": "5396304",
+  "MD5SUM": "7288dafafd24e67a108c61dd56ffe379",
+  "SHA256SUM": "ade6266fbd53df11a8a56f089c7f561dadb3458358225ba19c44e1dc52f8bd82",
+  "PGPSIG": "iQEzBAABCAAdFiEEghj4iEmqxSLpTPRwpekojE+kFfoFAl5kT7gACgkQpekojE+kFfpI5gf7B+kq9TNK/J0Dz4ne8V4uCDHSF/h/GlRqocsvgHI8ZPF7I8LQSP6YwtmH45HMh3jk2fJdwk1IBlbFHKDvBwcG5Hn68YgLAdT1mwEK6CGlJ51Cq9YzO8XHNmPOgGtOV8wNYUnl0E1M18qKHSm5x8EoZkmtmsMs3kZNUWIxwprDVo3RTzhLHvy3c2pSMpnNdsOO6JiPUTXiDwkb3ritrYy5SVYABsbbxuJgd23RLg6MEVG3n3SsopPqMbSuHIjLiRGZMEakLY++qnN8WW85VW0g51NkcdLcwRnRflFbg8gAPVTNW+tekj5SmrDbphR7wccR6pFFVFXht6ZEua/8nE1qIQ==",
+  "URL": "https://gitlab.gnome.org/GNOME/libdazzle",
+  "LICENSE": "LGPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1583632201",
+  "PACKAGER": "Jan Alexander Steffens (heftig) <jan.steffens@gmail.com>",
+  "PROVIDES": [
+    "libdazzle-1.0.so=0-64"
+  ],
+  "DEPENDS": [
+    "gtk3"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "FILENAME": "firefox-i18n-km-78.0.2-1-any.pkg.tar.zst",
+  "NAME": "firefox-i18n-km",
+  "BASE": "firefox-i18n",
+  "VERSION": "78.0.2-1",
+  "DESC": "Khmer language pack for Firefox",
+  "CSIZE": "508792",
+  "ISIZE": "567231",
+  "MD5SUM": "becd02776f6fef27cd59ea78e43ad855",
+  "SHA256SUM": "fd997d058cee4fa9ad4f6ed26a3c01660d3879ce4e5040e7a344058ee5980b56",
+  "PGPSIG": "iIsEABYIADMWIQQGaHodnU+rCLUP2Ss7lKgOUKR3xwUCXwelpxUcaGVmdGlnQGFyY2hsaW51eC5vcmcACgkQO5SoDlCkd8eIzwD/WnveUrTbUIrgyS8TbLCcSMJvrRVzY806GaLqYaKWGisBAL3fhYZ4T2J/BYy9LMlId8eIvT1BqUiJIh3UayDQp5sC",
+  "URL": "https://www.mozilla.org/firefox/",
+  "LICENSE": "MPL",
+  "ARCH": "any",
+  "BUILDDATE": "1594311501",
+  "PACKAGER": "Jan Alexander Steffens (heftig) <heftig@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "firefox>=78.0.2"
+  ]
+}

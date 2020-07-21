@@ -1,0 +1,27 @@
+{
+  "FILENAME": "python2-gevent-20.6.2-1-x86_64.pkg.tar.zst",
+  "NAME": "python2-gevent",
+  "BASE": "python-gevent",
+  "VERSION": "20.6.2-1",
+  "DESC": "Python network library that uses greenlet and libev for easy and scalable concurrency",
+  "CSIZE": "1450418",
+  "ISIZE": "8125443",
+  "MD5SUM": "80ae9245b936ad96f06c3cc3c4d88ca6",
+  "SHA256SUM": "5f2a52704e17264a92d8269d5bff4579f8179dd22760ec3d012b0fce54160a6f",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl7o7LIACgkQeGxj8zDXy5L74xAAsRvFg0no2sUtP/2ywP3xBhejFwrTikkzZ+E5NkWH/3Ib4nVZpgbWiSDDz5BO7fDAsILljqswz+G203iXyWzOi4aacWEp0aAyoSDlPJJQcsh2H65ZDx5MBLzO2pv75sCEP09hKDOu+48xnCJS1yn8+wDq2ECyRq8OraF0bK3NCExnxgLVTVSu6hkj0+SL1t7uusCuP3eq3DHa1HUbDbyqdXVRV1CY+jHE2AIchT/9+LiVy8LaTGQkSh5SCsGxe7Frd0zy5X+lzC0XQjgnFJobR8BQ4hq2DlMui47AS5iNdIuh/hxk8V/Rma5VThaJwOoxkCZWfCWOfpPeFUC8OP2GZCc7jkn/BcquK4z6bbwN8CVw6OP32jl/1K18tDZQNKsfmxodM0Vr8m3s0YABRv/Zc5rlg8U/hFdfskg5KGz3DYYdXGncHdes9MnR6bDl7OLl9QtSaqbZrvbLlKUz9poOTfYqVKU8YVfTU3/1s2O9B8l93HpZYJDclzxKSst1U1DTRX0/+YDQ/443PtoaK72+oWoYJQJPFlo6hiiSVe1eH+QMT8zs/igI957MFBdtof1oVJP3mTDz42vjqnYQ+LQPxAZU1Xswa+c+k+/42HM3V8HfhF1rZDx2Q66nHJtMZpmg3inEEi5HTK1xjfgp3Ym86tMZPCr6bkDQoagO0KpPv4Q=",
+  "URL": "http://www.gevent.org/",
+  "LICENSE": "MIT",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1592322644",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "c-ares",
+    "libev",
+    "python2-greenlet",
+    "python2-zope-event",
+    "python2-zope-interface"
+  ]
+}

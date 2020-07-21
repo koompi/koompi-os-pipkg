@@ -1,0 +1,23 @@
+{
+  "FILENAME": "sugar-activity-chat-86-1-any.pkg.tar.zst",
+  "NAME": "sugar-activity-chat",
+  "BASE": "sugar-activity-chat",
+  "VERSION": "86-1",
+  "DESC": "Sugar activity for text chatting",
+  "CSIZE": "490800",
+  "ISIZE": "2176487",
+  "MD5SUM": "86febc318a9482fbd72893b356e6b176",
+  "SHA256SUM": "0a2d517cf7a0aa7abf56e0d87c73a617f00c6a018ec7e3a0757a5a6e16b346c8",
+  "PGPSIG": "iQEzBAABCAAdFiEEzgvecadZqH8j8PfYth284QkBwWMFAl5mogEACgkQth284QkBwWMnhAf6AjcJFr/GppJXoBMAwOQlksC7QcMLwJ3mqVE3qioAgrDVZcXhidihQWKanY1tcpanK/rBKTUD+kbN0lVDBZ8eEKhIDCWR81lxhViChFiqf6Ke1LWsE/yubiJhPhnWctC9y4C5YHDPmm6gsCee4sy6xXrFIUvgYVEgyRBG3YD0mzBZzQqopCKP+x1JAqGV3PGwuN/9HlRK9Ct1EQsSPE0bRw9gLYAEb+NZL0T554cc3pXxJupL5qIG+XSTTX/RFsuNCcZcyPn8D3gyOubYoyxSD9InTYp82QyXmAVW5kMS3ul4aSGqmhLfrMf73v5m5jBkCpIt0924/RCvnLtILYFgbw==",
+  "URL": "https://wiki.sugarlabs.org/go/Activities/Chat",
+  "LICENSE": "GPL",
+  "ARCH": "any",
+  "BUILDDATE": "1583783985",
+  "PACKAGER": "Balló György <ballogyor+arch@gmail.com>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "sugar-toolkit-gtk3"
+  ]
+}

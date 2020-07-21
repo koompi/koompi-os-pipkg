@@ -1,0 +1,26 @@
+{
+  "FILENAME": "mate-system-monitor-1.24.0-1-x86_64.pkg.tar.zst",
+  "NAME": "mate-system-monitor",
+  "BASE": "mate-system-monitor",
+  "VERSION": "1.24.0-1",
+  "DESC": "A system monitor for MATE",
+  "CSIZE": "2034093",
+  "ISIZE": "11385723",
+  "MD5SUM": "0c1569b2ae5d1bb3c0c7fd971c39dea3",
+  "SHA256SUM": "0bd508ceedd39e390853216c734e8a722d701977031490235c69e9560968243b",
+  "PGPSIG": "iQEzBAABCAAdFiEEzFln1AlbTztC1F+ggaQC1POCu70FAl5VmpQACgkQgaQC1POCu71KlwgAsrDXKx7EL0iRyegnys2Tx4ttDxbDIy5lyDLRBzuy2ip5gLO6A8xYahW/3qShwKM0NxckAFX0lvUw0Mp9zn3jl+616N3e9ZbglN/MECWbsqMetKYeFv9H9yWrPiYrQBRDcU2zdsgd42nkSdz9ww3wgJHxDzrVW5pvpOicKTCK2Fbb7MfCYb5gc5YGHTiZFBtVixELlrQG7fx0QEiQ/4wNWmSmkHPRW+vMDNmgOZ7nR2k/D+wFAvBh0UAwAxoD/svL+nWJzM/3CRzGn63OZp+w84JhGhALRZOHIG8bqi3KlXbhVm85kvrMUbxBt2mbjVX28gjkTURetZ7d27/g5rJaxA==",
+  "URL": "https://mate-desktop.org",
+  "LICENSE": "GPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1582668265",
+  "PACKAGER": "Brad Fanella <cesura@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "gtkmm3",
+    "libgtop",
+    "libwnck3",
+    "gettext"
+  ]
+}

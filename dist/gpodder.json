@@ -1,0 +1,28 @@
+{
+  "FILENAME": "gpodder-3.10.16-1-any.pkg.tar.zst",
+  "NAME": "gpodder",
+  "BASE": "gpodder",
+  "VERSION": "3.10.16-1",
+  "DESC": "Podcast client written in Python using GTK+",
+  "CSIZE": "695155",
+  "ISIZE": "3481680",
+  "MD5SUM": "800d3731c2a6645665198f62fbd242fa",
+  "SHA256SUM": "ba27241f362a7b9d431ca3fa6091df3779a396c75ddf409636cb04d5dd0bb7ba",
+  "PGPSIG": "iQEzBAABCAAdFiEEzgvecadZqH8j8PfYth284QkBwWMFAl8IwGMACgkQth284QkBwWMiOAgAokXNVSg5NA/CYCEnQkSQ85lqzutrU0uy3/ouF+1pcYulokjdDWwdY0DVSTlSTjRq8bu6zgLyVoAjrd8PLwPlZLyXlznGxKnX2xaySSb9sbcfFrzy/JkS6lLzbKlO51f6tRVCTwmI0pawK+KJ04gADLYrr/n5CfcH10ULcHanvVAdQXQPzHQMqGAAViF64H/biN2SMc5AAlN0OB+O5/apOmjZqozEpYiUx6r3rD3cw/dfx16hPHfeV6NIf+YxxqAmrtt0kjARsUJ0gV2dPPgyDDIDxUAPCYr/aAWzpN17XyaWFkjd0g8r4/NkvAydYn9l9b5EhZWR0fk1QrF1yQviEg==",
+  "URL": "https://gpodder.github.io/",
+  "LICENSE": "GPL3",
+  "ARCH": "any",
+  "BUILDDATE": "1594408937",
+  "PACKAGER": "Balló György <ballogyor+arch@gmail.com>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "gtk3",
+    "python-cairo",
+    "python-dbus",
+    "python-gobject",
+    "python-mygpoclient",
+    "python-podcastparser"
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "FILENAME": "certbot-nginx-1.6.0-1-any.pkg.tar.zst",
+  "NAME": "certbot-nginx",
+  "BASE": "certbot-nginx",
+  "VERSION": "1.6.0-1",
+  "DESC": "Nginx plugin for Let’s Encrypt client",
+  "CSIZE": "64717",
+  "ISIZE": "238312",
+  "MD5SUM": "70595c6b53a0bc2bf3ac6a6652d0f49c",
+  "SHA256SUM": "7f3279b45968e3f445adda41e91ee0aca9b9683a73ee99c6a7db19804682315b",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl8FlbkACgkQeGxj8zDXy5LpBQ/6AveBOsqaXdWZYnNdvPxT0Yco9bkemCZ4VLP0HEU6f6I2yoRpLXm2yYXj+U3KojljAkdwNp4NslqZP7q4qMVKUibMEBVg5Ih/+81S20ltVkmPkB4qkg3s7U5myprx05H0i2hu5sRamgD0G0VzEO9MM/mcVAJKFz2OsNTkCS9CYn7FMVwgBAhnLNjKYzOwqCQDSHjgNrUlCBXwHVfkfFJBrNpZUZI5z7/HYSQ2vAGbRKM/pmBdXoMvC3VTh/PtlcFIfUoEa1chQ9MPZpgy2UUZ7Fpz7LKlxUXBO3ikzuBxegEjYP2oxyTS03mAabSE0x2rY4PqhTgxeB9zKWfrbch+ULojgNDeP7FpxtqHH6pR5py0GjGS7o2LrEfo8ihaHKt5GrkoHGnPnYJA/ZD3XeyrOJfGRYoydPE6z87scvsHlkkiJOmMWNWhgtpClIMG7EHMd8ZzdZ+qCLwJa4/AWw8MxQKCoNPWCD8bsruEMeGXR/0v3Y98C9hX/RLrn/278zQNJd2RaQNFQ062UhfBBR4zh0/2OpcxVVfqOJpgn/PN0N6sDFDusIMt6Cr+rhPYK7Ttyk7LNuELfVX80l5/iafYfDa4QtflIbO99G3CCCy6Z048t8B/2H58/U07uc7zi7EbAAGmkmjK3MdtMP93bRA7V6r04NjuCZRBfJF/vcuvleA=",
+  "URL": "https://pypi.python.org/pypi/certbot-nginx",
+  "LICENSE": "Apache",
+  "ARCH": "any",
+  "BUILDDATE": "1594201476",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "certbot",
+    "python-acme",
+    "python-mock",
+    "python-pyopenssl",
+    "python-pyparsing",
+    "python-setuptools",
+    "python-zope-interface"
+  ]
+}

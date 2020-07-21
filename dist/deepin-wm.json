@@ -1,0 +1,30 @@
+{
+  "FILENAME": "deepin-wm-1.9.38-4-x86_64.pkg.tar.zst",
+  "NAME": "deepin-wm",
+  "BASE": "deepin-wm",
+  "VERSION": "1.9.38-4",
+  "DESC": "Deepin Window Manager",
+  "CSIZE": "395767",
+  "ISIZE": "1281855",
+  "MD5SUM": "823522992c7386ff8a2b36b2dda939b6",
+  "SHA256SUM": "5a3cbe60c5bbff188df2a8e70cf60b15d98a9955df64ba6eb2b3996faf930635",
+  "PGPSIG": "iQEzBAABCAAdFiEEghj4iEmqxSLpTPRwpekojE+kFfoFAl5kpZoACgkQpekojE+kFfpGCgf/TMRajGmitlGtkGxYA0mBxw4g/T8rd8IXPVFaG8qzdm0V90PNTKrsX7ng6ROlBG8BXhGeeOHUPJLK9Hdlf4QJyI1caouFDwmid7QaXuaQlYOBmlsJ5Vx/AyyzevfYfXBmi1qCTARVbOgKuSSbQUWQmA9T5tODozG3jwSLT7RrHoCToRyiDyGFSdLFGwLvuacXRG5kqop3jUaprFbORG27VCn8i2KIdhwNnNWvBsRXUbW8lsXXrLfdluuLjTdABVogLHpG/eSBi0LXRfBCvAjs65o8W81rkFK9h1nugCUTU3INiXlLlXO4UWVhPj0yMepqsp4Ygy7Lb/ddH/I0r356bQ==",
+  "URL": "https://github.com/linuxdeepin/deepin-wm",
+  "LICENSE": "GPL3",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1583653640",
+  "PACKAGER": "Jan Alexander Steffens (heftig) <jan.steffens@gmail.com>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "bamf",
+    "clutter-gtk",
+    "deepin-desktop-schemas",
+    "deepin-menu",
+    "granite",
+    "deepin-mutter",
+    "gnome-desktop",
+    "libgee"
+  ]
+}

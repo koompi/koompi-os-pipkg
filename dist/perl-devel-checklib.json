@@ -1,0 +1,23 @@
+{
+  "FILENAME": "perl-devel-checklib-1.14-2-any.pkg.tar.zst",
+  "NAME": "perl-devel-checklib",
+  "BASE": "perl-devel-checklib",
+  "VERSION": "1.14-2",
+  "DESC": "Module to check if other perl modules are installed",
+  "CSIZE": "16366",
+  "ISIZE": "28164",
+  "MD5SUM": "21fc0fdf41e86c1541fae2c334f8daa4",
+  "SHA256SUM": "04da83da3d39f31ea1870f9487ca40df90beed315c1b142913cdb43d98ac95d0",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl7vOaoACgkQeGxj8zDXy5LBCQ//daZi0VvUtZQf1b1k6ukfyutwEIErQ5GXl8ke/uUAtyNM/Yz1omA5jfTbSNMtB/GtEUrxzObMCboCV/nlZ0hgtNmjMUASEoCrwwjqakH6g0D6Ei/Wi+5RyNuUXgiw0ZK7nVcrfo9Cy4CkpUrTTHWBpLT9Te7qi4Mup651o70seDEtXa2hfAteHizSzgjo1i+Dx0kecPXi9fWsGAcNwdIa0suNiyDrtNUE/cd04ZIjq9npTMOzL9fH/wc1a6CapT991JdIqSWp0A0QQWrz+E4YDHExETO89McHR8Ho59/Q3TJvuV8EV4bcZDunsNRZBBiLNCimug3Ec79UWUD2rCTieKsbd0+s3iaODzQ/gKcrAmeI5qQb8n+TNuXxi2SZ0MryABajfSWVhA/GkBrpsrCAGbn+s9MWDMDKnwiL3EdZfY4NerfXSVwB0zsPekGtlkcR03+llc7hmOcSmmTicouYjFCp4FiyNNjazzQ+ljeRFjMI8+0FY6Ssv5Sdub29C5P+CCP5lbV7f0+FmyX+JSWDpY4MIvTSTASwouKVSflFBU4ejBpRvcjDgJY9wN2+8bZtXbAq419ZDAXagVedUV77nQLAi7o+vpr6p5x/TUXhD+qFzGtkMrFvqMeZipdX/arWg+d8zA6hRL1fgCB8d2Hav/2UM3EtFn2fgA6/Xrp/VDc=",
+  "URL": "https://search.cpan.org/dist/Devel-CheckLib/",
+  "LICENSE": "PerlArtistic",
+  "ARCH": "any",
+  "BUILDDATE": "1592736140",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "perl"
+  ]
+}

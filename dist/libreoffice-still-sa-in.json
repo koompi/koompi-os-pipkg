@@ -1,0 +1,23 @@
+{
+  "FILENAME": "libreoffice-still-sa-in-6.3.6-1-any.pkg.tar.zst",
+  "NAME": "libreoffice-still-sa-in",
+  "BASE": "libreoffice-still-i18n",
+  "VERSION": "6.3.6-1",
+  "DESC": "Sanskrit (India) language pack for LibreOffice still",
+  "CSIZE": "357870",
+  "ISIZE": "2182384",
+  "MD5SUM": "33de5953488bbdd612309596f338f988",
+  "SHA256SUM": "f36cad8cecfb8bf2bf52e68562930efb04baa84b8c943460f3d7288b2a8df542",
+  "PGPSIG": "iQEzBAABCAAdFiEErcih/MFeAdRTEEGelGV6sg8qCSsFAl6tSuwACgkQlGV6sg8qCSvnrQf9FzegSccbyWRXaD0tuw4jFlap29QjJCqzrBWSjTcmB9QQAFfKI0eV43uqfqCvzzMGnAd5BSp+TQjHehcmRFZ+iFglfrbmhEALBvF/qs4RAYQa0HiowhBq8+x+FS23abK5tqVsvJ2LM8cNDcA6Si01Y4bqkdAIMoBsL4JyUiTOPVsi/fUXJdqeC6+/XQ87TQNtE7Vdp+z2pfmDKhpj96ot17acX3iH7GtULlPdFi2oXIsC72rWrCRjCPVgjbbvm76a7pe2jTAGJi2+Wrks6khIergJS3zdMxBTuKIS6ulk88CdlUWMk5tFrQycThu8Oa5YZhv8AThaLCnuNiodWsszDg==",
+  "URL": "https://www.documentfoundation.org",
+  "LICENSE": "LGPL",
+  "ARCH": "any",
+  "BUILDDATE": "1588407321",
+  "PACKAGER": "Andreas Radke <andyrtr@archlinux.org>",
+  "PROVIDES": [
+    "libreoffice-sa-IN"
+  ],
+  "DEPENDS": [
+    "libreoffice-still"
+  ]
+}

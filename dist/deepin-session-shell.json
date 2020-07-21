@@ -1,0 +1,28 @@
+{
+  "FILENAME": "deepin-session-shell-5.1.0.10-1-x86_64.pkg.tar.zst",
+  "NAME": "deepin-session-shell",
+  "BASE": "deepin-session-shell",
+  "VERSION": "5.1.0.10-1",
+  "DESC": "Deepin desktop-environment - session-shell module",
+  "CSIZE": "12441905",
+  "ISIZE": "51839482",
+  "MD5SUM": "9a3704d4b27f67e705c6dfc991a71cb9",
+  "SHA256SUM": "04f0af0914af75498e958904d4cc11a77ebdc9c51b72e62e1a54ea6cc04b212c",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl8GCZUACgkQeGxj8zDXy5IMDA//ZzRMc8J4NTYAN8W0wDJ8A0bwNjwCuApTv2DVIx0BVJ6v4mj9W6corDLsw2X+YH9WSnYljb9jy5mhUYFS6NpTprMQ+Mw9TceD0CjjfgAiiGt3e/sCAxv6RlcjbIjOsoNffLsgYGqFFgq6cYl8v2t/PdZmDIzumKZC/7TbPoq0wOBfIqEogRfFo6Hk7SPLJaS93w3STtvJQLD7+gh6hapnPspSZsgYVhzQxrmNs9X1M2wQpPq7yn8cMcgq77F314XVYfjNC+mtvsGFoOvGl+OuyAW2fAIc7E3bLKvHx607KrTN31YKLttlO2hwZb8eILmu+BpB8ROCXLfzoEkphrwBJXNd+seJ/OqsPR2Fu5/PyppfG6eG2MfRZyedUfY3QQutiiroqW51IB4izwWf3m0QMMHeQW/Ozj3EYvJ1Pra+xYQ59lvC3Zycm9atMTRc0jSAlB1oWLBLQ4AoO0FjgzG7ur6sDJ8kCYNWCRwx2RcWrOCEgV0kje6CHSyGIIRYYexDSuJAZFctegcb3jUbFyEU+uuOxQUiK71Zh3RSPhaOFMtRA8NuzlIcPsIX37NQEdrBsxLIXBKO+TlKyWaAxJcFjn6nTpjcD3kX3oCi/FDXDZZGnTtnXzaUjun0WQSIT8pnNyeAcp08Dl1QAOHkRUxPBWm3YBgV3R5nPt9BMR8cXNc=",
+  "URL": "https://github.com/linuxdeepin/dde-session-shell",
+  "LICENSE": "GPL3",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1594230894",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    "lightdm-deepin-greeter"
+  ],
+  "DEPENDS": [
+    "deepin-daemon",
+    "deepin-qt5integration",
+    "deepin-wallpapers",
+    "gsettings-qt",
+    "liblightdm-qt5",
+    "startdde"
+  ]
+}

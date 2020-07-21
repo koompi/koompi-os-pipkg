@@ -1,0 +1,23 @@
+{
+  "FILENAME": "libcap-ng-0.7.10-1-x86_64.pkg.tar.xz",
+  "NAME": "libcap-ng",
+  "BASE": "libcap-ng",
+  "VERSION": "0.7.10-1",
+  "DESC": "Library making programming with POSIX capabilities easier than traditional libcap",
+  "CSIZE": "36544",
+  "ISIZE": "100467",
+  "MD5SUM": "c47e0d8f49e8cfcf045a469733ba650d",
+  "SHA256SUM": "e8206449d44aa76be5b937f7b05c36e65b8988a0987370e74dd877a71cff6862",
+  "PGPSIG": "iQIzBAABCAAdFiEEjhmSFnRl21+wRVV8sChU7XU+Dx8FAl3lHSYACgkQsChU7XU+Dx9bcxAAibWawT4BG7fB7i8aT7t9u0LsoAKkIFPVtvMxSbwplVn4XQLMwmqgja7BB89f6j7ShLlMcGfB7J9DWC5wiUY6uX+MSbnEnALLlHCdi3qW95xis4pU9ucY8F6iznOCzPWuT98Sx6/tz+6InQZ7y1DkEvNCQsfgnOkzRdvSzygBtU9xdw9iZRVBtyU7sUqTbXVFFNvWbOVJtyiYIYn60AdMdYsdTtLbynrcM+1+JJuAtivBTGH6UwV5EpMQLeK3uDqNTZIXzNN6oPdycfMJ9oOjqzrxDSH3id2zSHqS70NPaOtek0V1MuHffO2mOmKoL6kqzlK0iqQ18VcUX/ay7wf4XsrbVXOeEUkgCqQDyGfz8qEVETU4MVk+/e6F2X6QJ3xxqmd+0ey06iaI78gqhFjYTcq6RPmI9rII2VBDsfqTatluBL/o+IpY6iS/SJ1JM1Th1xk3m2GcKftR/FBCG1FGpCNkeorspvYT6CVSrcml9EJO5bJ5jZcztyImwS25UYEQ46Xk3GIDPLSDuYTUFZYkyTVjDW57jswx7zd0ztlo+VUHiw7j8xRuO03FJtHOT5CW7IeYtLRWGVnOHpBfLJasWg3UPAb14rug9WPrnIw4YIfpSl9aBKEV67KN7bXGAEMzP8Wp3jxgDo5mr7KX+XBKpd8LFr5EONU9F4OX1AFPzDs=",
+  "URL": "https://people.redhat.com/sgrubb/libcap-ng/",
+  "LICENSE": "LGPL2.1",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1575296247",
+  "PACKAGER": "Anatol Pomozov <anatol.pomozov@gmail.com>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "glibc"
+  ]
+}

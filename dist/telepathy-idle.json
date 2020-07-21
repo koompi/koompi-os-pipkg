@@ -1,0 +1,23 @@
+{
+  "FILENAME": "telepathy-idle-0.2.0-4-x86_64.pkg.tar.zst",
+  "NAME": "telepathy-idle",
+  "BASE": "telepathy-idle",
+  "VERSION": "0.2.0-4",
+  "DESC": "An IRC connection manager for Telepathy",
+  "CSIZE": "62175",
+  "ISIZE": "176961",
+  "MD5SUM": "5b2606ec6f3822312ac5735604bde3b5",
+  "SHA256SUM": "63a6f848cff2008fb27432abacdb726742ee917bcf4954d742a9cb334630fa6c",
+  "PGPSIG": "iQEzBAABCAAdFiEErcih/MFeAdRTEEGelGV6sg8qCSsFAl7c1jsACgkQlGV6sg8qCSuW1AgAriLQvNItlJwE5ex332DmV6LKULcBFl+FpyoBE04Q2d60A4Q8S1DiIaBlPFwAKgHkztNpM5rxfe+W/Po4xx9oPMebEAJYDtNpbvMP7NYBcJubSK7XFXvNRYeqFMV2WhNa+x7zf6GXuRklcTUERUmO32YuMABEZGCp7Q3jvYT5D7fBsO3wgJH6otT5WvbNtBeO8r5Xc67g24aLGrjawdRfRjJP2F+hphgSf9VS0tftQPHudbaHKi98JdPUMUIEUhDBHTvQHHOwkXLBSDDpd4/dCSKe8uB9gWOovRwHT8ZzdedpXvwZoFFqboFc2WB+2+cO34IVOX7Q+FlmgDkHPL3VWQ==",
+  "URL": "https://telepathy.freedesktop.org",
+  "LICENSE": "LGPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1591531001",
+  "PACKAGER": "Andreas Radke <andyrtr@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "telepathy-glib"
+  ]
+}

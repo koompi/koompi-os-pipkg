@@ -1,0 +1,26 @@
+{
+  "FILENAME": "mate-notification-daemon-1.24.0-1-x86_64.pkg.tar.zst",
+  "NAME": "mate-notification-daemon",
+  "BASE": "mate-notification-daemon",
+  "VERSION": "1.24.0-1",
+  "DESC": "Notification daemon for MATE",
+  "CSIZE": "123470",
+  "ISIZE": "478522",
+  "MD5SUM": "4fa0e08580cac5a06836f1393bbae62c",
+  "SHA256SUM": "e86965e2f181b2fc56a3db339e751c3a2a20f40d55bc6d3a150fec908db521cb",
+  "PGPSIG": "iQEzBAABCAAdFiEEzFln1AlbTztC1F+ggaQC1POCu70FAl5Vls0ACgkQgaQC1POCu710zggAoGpQijva7Zvd5Tr/1LR/hcMCbhyUe7IG1Csu0GNDQ6PPboHJxut3lSet3Il12IKMSsY5JfA4WB8V3Hye5OwMgfXni0e51PIvbwAtqYLO0ovWbWgpu58tLp8G2Q7TB/m3BSCitVYpvM68j0A6fapZg976FEux1G9rsy5a/lQUQ2UYr69ueP/tgBygxu5M8C5c/eRI3RE9yzxToM7P2BIzMzGKWg3zWWPHFGTGPH/zFZaEQlLhRx+LDIGDNOGNHBbP5KJbBTqcJvUJQ+CVuXL6S56PT6kIzuA0huvjxxO29PI9bIVQGCgsWIiQQw9viG1sRm66LOjfXYfOqLNfzCRltg==",
+  "URL": "https://mate-desktop.org",
+  "LICENSE": "GPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1582667435",
+  "PACKAGER": "Brad Fanella <cesura@archlinux.org>",
+  "PROVIDES": [
+    "notification-daemon"
+  ],
+  "DEPENDS": [
+    "libcanberra",
+    "libwnck3",
+    "libnotify",
+    "gettext"
+  ]
+}

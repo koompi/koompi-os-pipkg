@@ -1,0 +1,23 @@
+{
+  "FILENAME": "perl-math-random-isaac-1.004-7-any.pkg.tar.zst",
+  "NAME": "perl-math-random-isaac",
+  "BASE": "perl-math-random-isaac",
+  "VERSION": "1.004-7",
+  "DESC": "Perl interface to the ISAAC PRNG algorithm",
+  "CSIZE": "16274",
+  "ISIZE": "25028",
+  "MD5SUM": "b8d8ed16335aadb16e64658f57563865",
+  "SHA256SUM": "5c3db8ac6ce7bb781d51bccaf400a85f0abf6fb864e5d49b041cdf9f2a110561",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl7vhDYACgkQeGxj8zDXy5IJJRAAplpUNMmlX9hTl2cEq8lh/CojKLRncB/L77lAGdLukZ/dOrxNHzTRVESFQ4JzxCJmNae0QLUJLk4utqCPbejQdAIGI8XCEn1vR2DDGPSUfqf1bGn6PA0Uu/GAZi+RetVM+VLnrRTMyup3N6GOnFwIwO9UaE5VUIxWcmbCDeEBuww8tl0dM8ORgZp13S+j5UWpjjTS3hltdC47z+ZxzD/ZViOhcnxMifdRj7ejl+cvbmwKYTCGfnvPrbhfDT1XYGSocE2pyBl8XLylIhTqcffAOOb/YTnvcHuwZS9kXedHza0uWdQhztIr1y+iJyOpHK+sbYccag2pPAWiyo82XgtPyqbm18WvisWCLWaKB2NaIw7J3vW8cNdDKUdgjiBcWib2AmF0XCIJOIwHxpOA8tJVqpdGjmFmCIZL/VdxPLcxx1gjQPTYH0iQsRS52r0naIttqWattIudySU86SQhJjJqvSnTjXsicZsUw7bZkMgVGXlSYQ3f7wnsgIjb356fzZpqZ9+QTdNXQPvh6PJH5Bf4GnZNqzOsfqRpePLzCjQisUjyh3Ln1+DlO0rrBJAzL+iy4YvPkvJ9HonjYpb5fFDLQkzbGrPzdycnlgC4HP8uoZdRkDIg8C5BSkB/zVQScLDEINojthKRFlBbkI42OLyxmef+1Qr1ZFreuoTfXzMQWXo=",
+  "URL": "https://search.cpan.org/dist/Math-Random-ISAAC/",
+  "LICENSE": "GPL",
+  "ARCH": "any",
+  "BUILDDATE": "1592755230",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "perl"
+  ]
+}

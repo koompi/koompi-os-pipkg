@@ -1,0 +1,24 @@
+{
+  "FILENAME": "perl-type-tiny-1.004002-3-any.pkg.tar.zst",
+  "NAME": "perl-type-tiny",
+  "BASE": "perl-type-tiny",
+  "VERSION": "1.004002-3",
+  "DESC": "tiny, yet Moo(se)-compatible type constraint",
+  "CSIZE": "222206",
+  "ISIZE": "518755",
+  "MD5SUM": "ea84c836ab6736a5dbcff31cce73c955",
+  "SHA256SUM": "11e63987304d93050ff82d7f480f759fa860756ce83348932a06bca41574ea57",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl7vOXgACgkQeGxj8zDXy5LbLA//TfTQW/xAWJWOME2rIuwz7cE65SNGhDStbn+aY83E3YjrjDAoeEvzgeWmryrmygBCAtqdHthm41pX42iaQZ6gNhCnGDKKVWmzJ+aZkxEYMxhv+4AsZlAAMuwnC71hsDzxSH9/bhQyLuYnIjDuvS2j+1Ys6RlG5sqHPcR548xq5AsMGBPw7jThzQWsdDMp7Ku6nA6uAJhgzVFLxKEJJzEu56vFD8w6DD8U9fJZi101OOdZksKTNZsZNzVls64Z37Xl/6rvLHSUzvcXfoZYiQb6LGy8OZQi9o4E2hdpNUaSitA95zX+IYVQ+buOTBNDyEGZK51/Oje75Ecaa0gDSr1z7qsBtn2BYrLZv1UIS4GzIVu8jpyrZ4tVNm2DejQmvFABbpjBx4kj2TQPokr5Cm4RIhumeZl/7O0XB1lQRaMngvrNjQ991EKmDMylbNLxCHGRsngzZU5/FEGmMFsfQmg1BL6yHw1PeUD/8FIN/41JluQqN5XBRQEilfG/bPzwBpL4RVqIOvU7zvyzFhOSf7HoLpirNF4rTEQuAxdiI8+pRf0DJ8SLMtil2ahz4YFo/ctmsdKLHAnsmUc1B+U4uyynVVFDLbhVeYnUe3tzYqimHX5t+mGQb1ID//GVMdy3GL6g4m/LqehsnjvEI4ovUlBar1SgoHHx4/Dnys/mCDaRk8I=",
+  "URL": "https://metacpan.org/release/Type-Tiny",
+  "LICENSE": "PerlArtistic",
+  "ARCH": "any",
+  "BUILDDATE": "1592736071",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "perl",
+    "perl-exporter-tiny"
+  ]
+}

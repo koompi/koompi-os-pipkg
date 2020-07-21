@@ -1,0 +1,24 @@
+{
+  "FILENAME": "libusb-compat-0.1.7-1-x86_64.pkg.tar.zst",
+  "NAME": "libusb-compat",
+  "BASE": "libusb-compat",
+  "VERSION": "0.1.7-1",
+  "DESC": "Library to enable user space application programs to communicate with USB devices",
+  "CSIZE": "13433",
+  "ISIZE": "32824",
+  "MD5SUM": "e814a4a5875b608ff7e5ed2d86dbfe1a",
+  "SHA256SUM": "3f9943320c5bdd40fe6c459a9b51cb9934da9ae6b89fd9aedd0574dffd10e718",
+  "PGPSIG": "iQEzBAABCAAdFiEEFRnVq6Zb9vwrc8dWek52CV2KUuQFAl495hEACgkQek52CV2KUuRcLAgAnOr8L8yJ8QBaaxpH5230ZBVI2jk2WuuKov35e+ZGC+n4aYv9O0/zHKeVqoK89uBoXsdisPAvsFzTHcQiDiUUnlAlLyMtf6NT9ugpoULGxZP17ctfdfp4Ias3CDjASEYMyXLY2lmQ/p9tV6X2j7YH0rkyPAAqjBtU2oVF8ARO4PmiCLH8z8/mRJBxV3GGZCQR3MwxYmGZERaLKhVvML+deZe8CNvri5rSP/ZwAJPHmckXlgyWSzZJP/KiItfUSaZV8jjdkQdu5Vk7rXQZewN4aAnVS8abCOpTXFrGObvUBC90zcmJx7dJHbJftP2OSntpsrmbEL4tQc8X8Vt1MtotEg==",
+  "URL": "http://libusb.sourceforge.net/",
+  "LICENSE": "LGPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1581114723",
+  "PACKAGER": "Antonio Rojas <arojas@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "libusb",
+    "sh"
+  ]
+}

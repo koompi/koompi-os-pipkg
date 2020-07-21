@@ -1,0 +1,23 @@
+{
+  "FILENAME": "patchelf-0.9-3-x86_64.pkg.tar.zst",
+  "NAME": "patchelf",
+  "BASE": "patchelf",
+  "VERSION": "0.9-3",
+  "DESC": "Small utility to modify the dynamic linker and RPATH of ELF executables",
+  "CSIZE": "50064",
+  "ISIZE": "121948",
+  "MD5SUM": "4bdefefc447ac6449c4839461969c3c0",
+  "SHA256SUM": "71eff9f32ce0abaf32dffaf040f459920eeae688cc8983ee07a02e8d46f6f476",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl8EdeQACgkQeGxj8zDXy5LE0A/9FphntIemmowzGiB6qswnsaGVxpNJDSkrsOwOl6gf4yIC3edc0avBAIKG2QXEz1N1l8kUPsXXxwbger3J6QsIpAwbdK1Ifans3oq7nwrg/qRQWftd/hsE0xTE38HpRCDA3S0rTdKMLDXO9vvD+QMBcSqBpFIPjgcLE4y41R2TAJrGBC9Lb3rEPNcxVPMfUcIVLuxYpDpElBqECsxOw8N0Ge9Tb7QoE1BwVDVxVVU8N+EnlXEqa9GeWFK518dfUQIdqY6XfisISD+V2eRDoAQR7ROgW2jJlU4O7Te5kZOQDCKgT+M8wL5XGRIC4tE6Tg9KfrCL4LJziocvPW4A83D34jHxh+DLb5FxAadODCXgs1emw99T5w3p26PrAsq9fGRtYsN+zZaQtjNgYvJaqp5UmfJ3pJCyFvHIB5LwHaWuJU5pVwMPnp0JybOpz6za7VtkNIbFIpIdI6r7MTTjNzUgxXyCKhZKHPafrCaE0M/EW//7H06riln6UwFry/ODonaY8JRDu3i0pE1l5O4PkDKej84Wgi7BwgUi8eh923po2GrUnY0j5Sbc9N9IgoC7PQUQDcn+KRR9PJH2xIoYmtEpLksCuDpPzJlyPJAe8gGxdIBMt4Y2UIPibkvXKiSxb/VtnEzF2pWqDaNUh7U4bHBsPJ4la0Diqmn+gGctJqX0IpQ=",
+  "URL": "https://nixos.org/patchelf.html",
+  "LICENSE": "GPL3",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1594127817",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "gcc-libs"
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "FILENAME": "fs-uae-3.0.5-1-x86_64.pkg.tar.zst",
+  "NAME": "fs-uae",
+  "BASE": "fs-uae",
+  "VERSION": "3.0.5-1",
+  "DESC": "An Amiga emulator based on UAE/WinUAE with a focus on emulating games",
+  "CSIZE": "4920329",
+  "ISIZE": "15222806",
+  "MD5SUM": "31cec3de8263ec5ff50ea00860cb0e7b",
+  "SHA256SUM": "48f36e020d6270d512408a63091d25bc7f376eb6a6d43534cca1d37a653be7e6",
+  "PGPSIG": "iQEzBAABCAAdFiEEP/pqt7aarmzKJj3eAZp0dCl9hXcFAl6x28cACgkQAZp0dCl9hXenvQf+Jp47+pKLkpdRIfVbkfJhafqhwCzldCeTe5N2f2augkbqKQD9pH+wy2wigz/Kw/bAiNrZJWbOc3aEAmgZi8NhfD9RkMssXYLgMiQe3LTfU17goDxStkyDsYpJgbRjczPY7jmvgXvRb7FMwg2wBdIxVLpmBFMgSD2HN9K5/u8ccvDIkzf/SH8HQ9CO6LcxR8ALS2Irem8vl30FjbnzQGwCBHzRxHATLm7w/qcWUT09lBMwANOOlUI3F+Qf33KRNSFpBzC+fsLj3uF4JYZLVuuAjQRgfTbjD41c/pLAGCRD9DwvAP/AAUAwFV8ZwNcoNUpMey5kYGspOx9AQn2oYj7jPA==",
+  "URL": "https://fs-uae.net/",
+  "LICENSE": "GPL2",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1588714227",
+  "PACKAGER": "Daniel Bermond <dbermond@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "sdl2",
+    "glib2",
+    "libpng",
+    "openal",
+    "libx11",
+    "libmpeg2",
+    "zlib",
+    "shared-mime-info",
+    "desktop-file-utils",
+    "hicolor-icon-theme"
+  ]
+}

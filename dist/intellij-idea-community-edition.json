@@ -1,0 +1,28 @@
+{
+  "FILENAME": "intellij-idea-community-edition-2:2020.1.2-1-x86_64.pkg.tar.zst",
+  "NAME": "intellij-idea-community-edition",
+  "BASE": "intellij-idea-community-edition",
+  "VERSION": "2:2020.1.2-1",
+  "DESC": "IDE for Java, Groovy and other programming languages with advanced refactoring features",
+  "CSIZE": "459612957",
+  "ISIZE": "930073169",
+  "MD5SUM": "8dfec5c2ae68d055a4ef9f108758b0b4",
+  "SHA256SUM": "7032ccbed5a2e90a34e48673d0569c68318fc4fab359b624ed51736a4d96b4fa",
+  "PGPSIG": "iQIzBAABCgAdFiEE4kC1fixGMLp2ji8m/BtUfI2BcsgFAl7k5EMACgkQ/BtUfI2BcsjFEQ/+J/XCVmB+jWUYd7ldhzDOO7+gm5J9dRC3tYTBTblpJK7rqlYeHJf+FA5QD1Sz6/4lhGtGtk5UVEk0DHohC0POzvK5MzAGz4gnj41R9o2FKR/STJO/YrKXYE7PEqZG1/Y+w2uQeTpCKsR8liS8XOH9wbZow0KaGl+gMpHcTw3mrHDuCavs7f1Y7RE+mqREJMrZR2ft3MfaIWQgU4C8xUX9y1bwATQuUBxQqBHvECHxNQFiLVVFRZ+pjumCSW38YHGPDhj1MM9VRrH+9VwPsywrGrOKuohvhJBS6rAPSmsbbvEHQvwMp8eoaIZxbjNZ1/RjDPE4sv1MomIgn6oxerV8gd4USuir6cwbzkm2sckgikHih+YIaeqKjYkReasyFrKf5zCOCYYnOd7aG+ZJZETiRkB7D1O9yqLhwrsdHBiOUGANTf0FCTra6/D4KFMWqXL6guc+RdJPOHAx0SO7fM9GY+JzweNzh221/CdB7JmPvKe5vFhYfcan+9DjUg37enJN+vkQibTZB55x0DiuMgeuCAydlcjIw1eRTLzgzQr0zOKp4wuw7YxmGrqNO4AWnwcLfwt/9YoiOkVStoycb2ACFvnj/eIs8EbmjtaVvW/JUri6xle0gGI2FK+X43de4v4VaPzIswOh59e/IFnSgAqd3Q7zWtb6Tds7DUhKBMSwyj4=",
+  "URL": "https://www.jetbrains.com/idea/",
+  "LICENSE": "Apache",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1592056978",
+  "PACKAGER": "Levente Polyak <anthraxx@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "giflib",
+    "java-environment=11",
+    "python",
+    "sh",
+    "ttf-font",
+    "libdbusmenu-glib"
+  ]
+}

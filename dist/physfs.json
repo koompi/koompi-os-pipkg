@@ -1,0 +1,23 @@
+{
+  "FILENAME": "physfs-3.0.2-2-x86_64.pkg.tar.zst",
+  "NAME": "physfs",
+  "BASE": "physfs",
+  "VERSION": "3.0.2-2",
+  "DESC": "A library to provide abstract access to various archives",
+  "CSIZE": "267333",
+  "ISIZE": "1377673",
+  "MD5SUM": "b5fc5bb0ab878645da0782dfbaec573d",
+  "SHA256SUM": "c20a2c1d3cfb7a8815269daf97582f4b02afbafa76f3af9778d8c8ae022f6cb5",
+  "PGPSIG": "iQEzBAABCAAdFiEEFRnVq6Zb9vwrc8dWek52CV2KUuQFAl7IMSQACgkQek52CV2KUuRP7wf+IYaHHzneQFZETfAgDuCBFaxWWKJ22zDP5AOk6lonTGwXGlXxijyiB/C+C88DWPjNNuLPAvEC6mMxvdH4GaZ/1/DaZHh1MtKqGFnip/DXOsDx3F805tgdzMrQCPgAXLtyJOz+cW1tVUfHc/Pl84SkK9HXtsfCj0CFjlngZFLyM6YcVI+Q6uC97KYq2ojETd8ESmv0itCYXwoCIL9Z21Na99ESWWmLkc9Co9WdLkrLKEZiUieQ3Q+4d1jT7F2ddalM5Gfaa3FSy9ePM0Zx29LAdzDSvfUwLhOGYevb4R0yxIC3eXBzfSBHiDeY6YcFT8OynY+HJ8wi6Lfjs0ROQWk7kg==",
+  "URL": "https://icculus.org/physfs/",
+  "LICENSE": "ZLIB",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1590177955",
+  "PACKAGER": "Antonio Rojas <arojas@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "zlib"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "FILENAME": "ginac-1.7.10-1-x86_64.pkg.tar.zst",
+  "NAME": "ginac",
+  "BASE": "ginac",
+  "VERSION": "1.7.10-1",
+  "DESC": "C++ library for symbolic calculations",
+  "CSIZE": "1103008",
+  "ISIZE": "3487272",
+  "MD5SUM": "74c27d8c2c22f3f8f942ba0b4bae9a37",
+  "SHA256SUM": "7090c94e8ac8277d77d11847c5bcc4a915a61647989de271db1789cd21da6481",
+  "PGPSIG": "iQIzBAABCgAdFiEEOO3RiGdWkk4SJOSVJOTNsAE8JYAFAl8HX/UACgkQJOTNsAE8JYBGoRAAxkSsuL3y6NPTKhBikmzaWi9h+lKxW2SCMFKndlCwnbKp1Ao1qkUID8txa7xdroSveGgu3GdrBrwKF/STQI6UY14WJ2exG6ym3gdcOFEhkoBSwJc/uRkfAg8RZfqTLzSD37HeBYuaWReu/uMJt8DshSmKSkxMIsf0oQUwU3Pw4fmTYjwAdY6NUUpwr6zR3Ok7xcWahs7dYhd5hASKJXNRtWIxiVUBxnECLfi/TTXb2TnVvwYS89FfiB5/iVehk3TKGez87+d7JjQSwOplS3LTjYX/Wp0ZpSSWdaxr7uxns8MqR6tipgrBv5CyZMFAZ6A1y9u6/aW5emb0zIsnupVsWihMhUOQDcP0ABKpVvEHbUg6C5ZGUU7KlrDBM/7grMLnqWXqed6jv3HXYlR8ATOXUYijVeSl+Jk7GZh+W4S860FU5eby3KaMBEH7ASWXKEj+gmYvAp4Kq7SgSw6KkVd/UvZGF+Nklx55hJp6nKO11w4RBuxq5FcwZBcp0ejVGapW10/1fbCZDmrqn49QVHgn+TGMSxVQLzX4csEtHYNMoQeEsYljmwDJKq3MiXXVk/zwks1cn2YTYx39qky9Wcu4RKhiZFMmFnl+IVncswmRg0PMnfy0K93dEEhV5VejZiWXcbXeV/8utEfZq7KOZlprVZ1eJNYSooNMK8YgxiYJVKg=",
+  "URL": "https://www.ginac.de/",
+  "LICENSE": "GPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1594318377",
+  "PACKAGER": "Jaroslav Lichtblau <svetlemodry@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "cln"
+  ]
+}

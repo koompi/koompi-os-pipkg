@@ -1,0 +1,23 @@
+{
+  "FILENAME": "libcbor-0.7.0-1-x86_64.pkg.tar.zst",
+  "NAME": "libcbor",
+  "BASE": "libcbor",
+  "VERSION": "0.7.0-1",
+  "DESC": "C library for parsing and generating CBOR, the general-purpose schema-less binary data format",
+  "CSIZE": "37453",
+  "ISIZE": "137033",
+  "MD5SUM": "c9a677dd8a5ebc803acae8e644017d41",
+  "SHA256SUM": "887e2d86d18799161209f927badb6b8834e87d12e421ec2601d9dc9b6e63ba67",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl6sXO0ACgkQeGxj8zDXy5IbrBAAjZIFjtlEQ1Uy97oTfODCXodqago5yFHUttkybY028n8ZnvooR3GCxBQe561qWqZGlHLvWzZHCrLpj/+tzHMZybDCAii8orcPlRZ1d/21ZQuufgRtxYwi9pNXi9TEdcnzQEEsucOIQXX320NhotMx6ewvS+kf6Klz8NV+iRGORJA8SdjyHtnZLHIUVaW4rOxuZeH8n8VFu1vklUZepQmr0+Fu3oYv9PhXlj3ae5j22g+zUpMYV/WcCCLwKyXlNRlpNNEYmUd4sBYdIkBWFtNxpZGdaYxYoMMbmkPLamyPvgXONXqA16eZDP+DgTfRxqAYrIES8AuEgM2msNH4svWnaMc6MRhaiPRzbZvkL1wkOnzkAL79RDXVy7M/mZfIBj24DFZijjYsBqfUQU7YAD3SF+mbHwrUpM8Xn8JPksP7vxlDjqPSbjI9nLKQcgOoYglQgdsVCJFwKiANbNLllnBrI3fEIYmz1SDlw2acXvx6hvFE2wm7Bt8fD9tyHVY6VQGYsvnsLczCSibvKeqNreitm0M7wAFqlfK5xbKXDr0yupkDpcofe/gzlm0p0Ww801scklUufmzQsSiyR+kT8P9Oi0AhDpjFaejNeRICC+E6UqA80GXKdiDrpPmnkpoJQnTAmF1CG+jJVgHujWv6rmgvrpJ/Jx2zPB31WvVYX++H1yM=",
+  "URL": "https://github.com/PJK/libcbor",
+  "LICENSE": "MIT",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1588354227",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    "libcbor.so=0.7-64"
+  ],
+  "DEPENDS": [
+    "glibc"
+  ]
+}

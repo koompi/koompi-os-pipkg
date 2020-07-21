@@ -1,0 +1,24 @@
+{
+  "FILENAME": "qalculate-gtk-3.11.0-1-x86_64.pkg.tar.zst",
+  "NAME": "qalculate-gtk",
+  "BASE": "qalculate-gtk",
+  "VERSION": "3.11.0-1",
+  "DESC": "GTK frontend for libqalculate",
+  "CSIZE": "2417751",
+  "ISIZE": "5236306",
+  "MD5SUM": "3e65eeedce658616337f5aef6e8a4904",
+  "SHA256SUM": "27f11ed81256259e905fd5e01cae8994c3f062fae74257343098c6166b59855b",
+  "PGPSIG": "iQEzBAABCAAdFiEEFRnVq6Zb9vwrc8dWek52CV2KUuQFAl7wyiIACgkQek52CV2KUuR5tgf9FEi8zFd7SaRCR93BTHY5VKBNrdmydElz+Tfw616dyUNrgYSmelfeU0EpRLtKhM6CdTKfiFyXpIMBsun4V6QLUBGV/aKNU3XTbVw76oB/yI8QLZfqAERKVh9GS/EQp2wKaj5M1K+jsSlW8Rl+r8rLEUTE3mTsKGyIQa+57KgzxqpyNhBVYL27I7Ts5mBpk9v2vsePMEEznhil3th2moOZgbeCasTnhPe2/UJL2MRp5FTN9tln//hthZlD9iXjlKXFwgij29YYveNEU5hUlAOBAf7wDQjI5m2BOrvG54HNblrNLxfVCmNPB3uS/VtoWcx+TookgQoeT0qIMGHC6kVJtw==",
+  "URL": "https://qalculate.github.io/",
+  "LICENSE": "GPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1592838518",
+  "PACKAGER": "Antonio Rojas <arojas@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "libqalculate",
+    "gtk3"
+  ]
+}

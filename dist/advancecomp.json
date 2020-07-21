@@ -1,0 +1,23 @@
+{
+  "FILENAME": "advancecomp-2.1-3-x86_64.pkg.tar.zst",
+  "NAME": "advancecomp",
+  "BASE": "advancecomp",
+  "VERSION": "2.1-3",
+  "DESC": "Recompression utilities for .zip .png .mng and .gz files using the 7-zip algorithm",
+  "CSIZE": "219348",
+  "ISIZE": "1076799",
+  "MD5SUM": "71a512da5ff85aaae76717e9921f4873",
+  "SHA256SUM": "dd687d5252c76e72e83dd74126ae4ba759e83d0cbfcd43b0ee41da2f30ade181",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl8Et+YACgkQeGxj8zDXy5LBHxAAhMX4wwatIzOVLLS7j0W5Onn4Sbi+F/Dp+hn1dMEzAlyXQ7mbzvD3K+16f118P7wuuXPshCBDPOtxl8feAckAYzT6GStjQqBvTsgdhKZO3eFXWL/zmwQWgpBhnooxzLdyj3/R4TUZ+YI8e81NRe2EZYEFMZGM3dL1EohOBmnP//EcxnT6RSaQQwPwZ63qDh1SLZOy1VfTTZqHzCphCBkz4e/uIjynk0E9xGHeZGEb1zhkwkF+ZxWXJJjF85P7AvtC4iyH9WKNllWGWv2MuVa5jW0WKsS8qdZATW1zpIA0yDw2Yp7eWqyBIv2evXOTf7s1Q3i6BMQks9gwkBq1rkZPvJNfAch3WNwY4LxbSiaI6jflwTpxqoGe30H80W4n9ey8HvJIhaJJwQj8VWqi7zvKKiTs9rtCOSTlhKGD1Vy/Xaq+wPRoslqr8YbiIMXKVnNV0BTWvxf7BQxrma/zadUDxK+RIqFdlhGQ4RZg0luOCvkKqtP2BPoYO0/oqB+/6wOzv2yjNRuaATsSpUyERpW9Tqs7JRtf4QCk3rpRe0Fp6avDjbz0Mw+U9U2WboG5mz5z0KnODU/6c4S5/V3HxrFwQjsDPrQctRdlBOIjyyRFwFnTy3vPW2REVGvQ9fVYuILAV31dyc27zRYcB+C7BqKqyvgPJMeRbPqdQXiUltGxi70=",
+  "URL": "https://www.advancemame.it/",
+  "LICENSE": "GPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1594144667",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    ""
+  ]
+}

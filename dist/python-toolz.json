@@ -1,0 +1,23 @@
+{
+  "FILENAME": "python-toolz-0.10.0-2-any.pkg.tar.zst",
+  "NAME": "python-toolz",
+  "BASE": "python-toolz",
+  "VERSION": "0.10.0-2",
+  "DESC": "A functional standard library for Python",
+  "CSIZE": "111983",
+  "ISIZE": "645831",
+  "MD5SUM": "69b4d82a62e1ee0dcfef7a327b15e569",
+  "SHA256SUM": "b0276dbe6495162415fc7f71731407977f1476cae0980f897ee012dd1a2f195b",
+  "PGPSIG": "iHUEABYIAB0WIQTH54SUZv4jWDQ1iDdyWHNLQcMVSQUCXnofFQAKCRByWHNLQcMVSS1lAQCR9n3u8ejC0slHsWb//9joaNNQA+Sp7YSTgZZk7nqcqwEAoPEZFGCKwf6tHKcn7QU0IsmCGdIpfeBgvzjw5Irocwk=",
+  "URL": "https://github.com/pytoolz/toolz/",
+  "LICENSE": "BSD",
+  "ARCH": "any",
+  "BUILDDATE": "1585061619",
+  "PACKAGER": "David Runge <dvzrv@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "python"
+  ]
+}

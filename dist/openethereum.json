@@ -1,0 +1,24 @@
+{
+  "FILENAME": "openethereum-3.0.1-1-x86_64.pkg.tar.zst",
+  "NAME": "openethereum",
+  "BASE": "openethereum",
+  "VERSION": "3.0.1-1",
+  "DESC": "Fast and feature-rich multi-network Ethereum client",
+  "CSIZE": "12184489",
+  "ISIZE": "50606374",
+  "MD5SUM": "3b5c8550c74133ce66c181a040e3361c",
+  "SHA256SUM": "86fa5458cbe841692c9ab25c4cd0155402580818f7bcb2490dd2a41d88c7e833",
+  "PGPSIG": "iQEzBAABCAAdFiEEqbZxDXYPZhfFMHRuyEe2rrBUQWcFAl7V+NgACgkQyEe2rrBUQWf4aQf6AkFDqj5YS9rWBqRQsIcSmyzjMACnqC3rPwo3iRo+XMmWpsqG//ZSOnJSRx5tTkSeacW2l0sWrgtAxEMZHPxYbXFQ12dvgasVJMcDK/QylCLWl2cnjPRupAmKJUxGXez7COLtHGm4D+PeOVEKCWHEZlTxUdZCPDcPswUlz3mK157lvrHwBimEwq3HO1HgNL4KoS3nX7HfWrpAerr7AhR8yAw42ATY+JqGL5tZ3AcyHBmEnLhB09q2RlpLrS6tfcVmOzomJcgOvneRoTVOiRkEtcT82OmuDl0zXjBrCiH4M2TtJiM+CCtTECvEvdt877RnXS5bIyEcMUHy6KoRjGrolA==",
+  "URL": "https://parity.io/ethereum",
+  "LICENSE": "GPL3",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1591073226",
+  "PACKAGER": "Nicola Squartini <tensor5@gmail.com>",
+  "PROVIDES": [
+    "parity",
+    "parity-ethereum"
+  ],
+  "DEPENDS": [
+    "gcc-libs"
+  ]
+}

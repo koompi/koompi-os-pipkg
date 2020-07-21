@@ -1,0 +1,23 @@
+{
+  "FILENAME": "python-browserid-0.14.0-5-any.pkg.tar.xz",
+  "NAME": "python-browserid",
+  "BASE": "python-browserid",
+  "VERSION": "0.14.0-5",
+  "DESC": "Python client library for the BrowserID protocol",
+  "CSIZE": "62768",
+  "ISIZE": "330403",
+  "MD5SUM": "fa549b76ed2e17b23e42483a900bf3b4",
+  "SHA256SUM": "7225d4a597a2136c803d7df98a288ed5a367aa46019407fc161c363ebdf28299",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl28OH0ACgkQeGxj8zDXy5L9sw/+NSbZ9Ye6Pp4CFGKFLtQ75tNG53nnFpaKg+0G2kYMs1z61X+ctXzeQ8zVhuN7ZUwYsE0PbaA7sawX19HVZTBnVCeWgNl7W4ny78eokG8DIb3SaNiz45Rb1i7SAMuLqVfn7OaQgeU0dhvd6lhV8qi1NwYBmSyRXKTA7oV9rBBCUG38A4DhQLakCCLOMtWlKXnbbSDDiIqclE9Ad4suDFCN4Vk+3hIDKDWdko6wXCCPExNAtXfh9+LuUFdOA8UxNNOpXYvK3sUtNhNleDPis5UCaa/xnAkL6TvDRw6GMSSiGjdOSxNmH2fGYLa8m8/7LOK/o03FzUw4fq1DmyvYxk5ialvvSMIrlwKWpQtTAKxwy9XaIeek8aMq79gvrAeUjzyZc3h8t8vlqZjflJYVMLGAXzuRlZdRXZHH3psiD8AVy9/enJxitk9N7XwI2sbbQRJVkma6gTfIwdZavcNA++vXYlFZ5T7Gc8QJiQTJyfNyL6Xe7S5ZtSUpym2XpAglQDi1rxJf7O7VFCR+ckkd+AJndKtyF+nmrvwcUgwAcvPJHD0aEsH+OaKs0drQMQnZKRoCEMpBmyVKmoCG3jpLEUCpV2L240wcpzo6PVVPdYGETA+QVQcsWC0mdRuWWYm4qvQTZg3cXrQFRb0XGiUA6nDMVpEIU24fcOdhKwYzv/abSyQ=",
+  "URL": "https://github.com/mozilla/PyBrowserID",
+  "LICENSE": "MPL2",
+  "ARCH": "any",
+  "BUILDDATE": "1572616271",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "python-requests"
+  ]
+}

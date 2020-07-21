@@ -1,0 +1,25 @@
+{
+  "FILENAME": "i810-dri-7.11.2-10-x86_64.pkg.tar.xz",
+  "NAME": "i810-dri",
+  "BASE": "mesa-dri1",
+  "VERSION": "7.11.2-10",
+  "DESC": "Mesa DRI drivers for Intel i810",
+  "CSIZE": "933152",
+  "ISIZE": "3552256",
+  "MD5SUM": "1e68cb6274ee1936d2952a7e353405e9",
+  "SHA256SUM": "fc4df6ce0c8e5ee3720465b7b0dd6dec6c300c7968e0704dd9de821bd2283306",
+  "PGPSIG": "iQEzBAABCAAdFiEEFRnVq6Zb9vwrc8dWek52CV2KUuQFAlsbA4sACgkQek52CV2KUuQsAQf/fhmFce0xHnkP2pLrSYV3KbSzql9bKV+7BaO7kzknc8JGOupps4bESC4oVtMX3IqmkrxeS27vC8ZyeWw30sOj49cZnxfZUS/l1UAdZuk/6QB7Ma8S3M8uDHIAdlqew6q31wwfDCWGgx+E1vcn9pdejvqKrHkjwRA5QXfqimnoM/CVIZMofrG874URi8Xce6Uv1DXV2dYlbQH7ICQGz63ZkHNUb5vMdyBJNyDwfv8xSaBuyg+AGAgBwOQaDHp56XCn9trco51YV7W2nqw2nlDhnzBrxR65vZVssNAWCcq1gAU4ZhJlOdSwaM8YOCZ+GFgMDqSLl29zg3PoaSrGRy+LxQ==",
+  "URL": "http://mesa3d.sourceforge.net",
+  "LICENSE": "custom",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1528496842",
+  "PACKAGER": "Antonio Rojas <arojas@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "expat",
+    "libdrm",
+    "gcc-libs"
+  ]
+}

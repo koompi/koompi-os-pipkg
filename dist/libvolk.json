@@ -1,0 +1,27 @@
+{
+  "FILENAME": "libvolk-2.3.0-1-x86_64.pkg.tar.zst",
+  "NAME": "libvolk",
+  "BASE": "libvolk",
+  "VERSION": "2.3.0-1",
+  "DESC": "The Vector-Optimized Library of Kernels from Gnuradio",
+  "CSIZE": "771352",
+  "ISIZE": "6957716",
+  "MD5SUM": "5150a87e745c5d7970a33ef22c79c949",
+  "SHA256SUM": "1572378764901b3eaf6e771962ca6c214b3516923f9c3e7cb641dc8b08e6f10b",
+  "PGPSIG": "iQEzBAABCAAdFiEESMOx8w3dD+Z+UW0WOW4+JbqxQsEFAl7Qh+4ACgkQOW4+JbqxQsErQwf/cwTsfC1wutYOD4dbuefNQDGrJaMomu1PZ31JxoIZh8m+OYmWQds3OOa3YYqJY1UZ9lRmZWqwJWT55n60iLqG15CT17fEOR+85CJRIZacHU0z9L6Q+kPAkdgKhjPdHR3HhkYSJ5BRMxklSmUEky8BRmPrJr8EkOieb1gnZ2gvbKjpBoPI4Ed2MZiEmZH/H4h/hlb3uzECT7FpHYt8uF44HLXe0Tx//gM5koOZc8zNrlfxUI5cdRuyytF4Z2oHdY45TwpZ3y8vEREhr+eKcLKHCysgOKbB2O6Ujw4Uu1aJLtYJ8d9WTlflSOOcBB7wAOjxIOQZwzbr/CFEH/E6kwKtzA==",
+  "URL": "http://libvolk.org/",
+  "LICENSE": "GPL3",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1590726871",
+  "PACKAGER": "Kyle Keen <keenerd@gmail.com>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "gcc-libs",
+    "boost-libs",
+    "orc",
+    "python",
+    "python-six"
+  ]
+}

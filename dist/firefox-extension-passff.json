@@ -1,0 +1,24 @@
+{
+  "FILENAME": "firefox-extension-passff-1.10-2-any.pkg.tar.zst",
+  "NAME": "firefox-extension-passff",
+  "BASE": "firefox-extension-passff",
+  "VERSION": "1.10-2",
+  "DESC": "zx2c4 pass manager addon for firefox",
+  "CSIZE": "62738",
+  "ISIZE": "64249",
+  "MD5SUM": "24eab071725dcc47b35499e117882831",
+  "SHA256SUM": "423c4c7cf8f4d8fffa18ee5df5feece787cb48d6752683323e75e17cdbdf1fd0",
+  "PGPSIG": "iQIzBAABCgAdFiEEHiYzy/cw8s5ux6twRbQpqPnZ0ioFAl8HD4UACgkQRbQpqPnZ0ioytRAAmETqHbolbut0s2zZuBoPDAWFi1dwiD2/hJp5/srVja8094NNs3mK0/nUJqnYru8zT1S60jAdivlPbX9EKL4YKpFqsvblUU+oWjHNrv9q5QdaOS4keQv+GLY170Yr8UQjdlwJLrj0b8lH9vdvzorW1gVCymg5kYsWfrgOAZDu40m1/8864beUWIfeLOZLyISZnsThjkGqzjRUQkt+fqh1IIEd114e98bBLxAV0Hm3lWFjt+2x6OQ/WWqp3kFKYUxLXIwi2zM5JM+MsmySnIZtX/Rg+sTuCxA1q580qJmslYFwR3tlP+wXUgv6BhUsQuDzObCvZ2N/FnjhKFtlktw41dufu5TZLh11KgkxlSV/DrAys52vrBeGlnsllnnETZGDt3w09hsljrBI0D0a3ZdWpv/b2x3ARvK4QmC+VXaW0nEdVH5sVeHsIMujk8g452jU4cyOCrwKk7ybrNTv7QD9Uum2U6LnYL5sM2zgEFU08hg0MWbVw471z70kUHRwryEwFvrKoXoab2n20qrveXhP6qyVUR+hvptbJrk3l23uszVkPKi0e1X23RYjXMhTCg5NlPjk7+sHqgRhcmD1qx/53fgp2iLZYfSj+kWBD7YKNPQAG5OLUxTDns/pEaOgMHH9Ixi7MzI83GuYC3d78f5IL9gteSfWGb5uXuExjSyEFG8=",
+  "URL": "https://github.com/passff/passff",
+  "LICENSE": "GPL2",
+  "ARCH": "any",
+  "BUILDDATE": "1594297952",
+  "PACKAGER": "Daurnimator <daurnimator@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "firefox",
+    "passff-host"
+  ]
+}

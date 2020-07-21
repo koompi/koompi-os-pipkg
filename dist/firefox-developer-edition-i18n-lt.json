@@ -1,0 +1,23 @@
+{
+  "FILENAME": "firefox-developer-edition-i18n-lt-79.0b6-1-any.pkg.tar.zst",
+  "NAME": "firefox-developer-edition-i18n-lt",
+  "BASE": "firefox-developer-edition-i18n",
+  "VERSION": "79.0b6-1",
+  "DESC": "Lithuanian language pack for Firefox Developer Edition",
+  "CSIZE": "520753",
+  "ISIZE": "583562",
+  "MD5SUM": "689328fb78b67814951d7fdeaa35e135",
+  "SHA256SUM": "42394aaf6dfdfbfc49dc9f10e2083fd6933d44adcae8977895aee89d287f1829",
+  "PGPSIG": "iQEzBAABCAAdFiEEYB8g8dG7v0p4z1tt9rFhCz7NvJ8FAl8IbM8ACgkQ9rFhCz7NvJ+7Ewf9HOl09uA9XK1fcWQ+GO5Q9pibh6tPsm13LwEkVRCIkelg5g4DP7sO7egNrPipOlryr4PZMPbXGqEdgFZZoM4XGO7Vz0wJJSb4z1PXPMD2LqX+0qBznUny8pGu4JEsWnLPU5HyVPR/sAxgYJGWEMtYlsL+lbZKteArUMCwLiHmnty2dx8VM6wqROFAXG2EmIj4iNAXIFp8VTAdsy3TEiV91y2R3QYyqeaV90Sv1BX5bjMupTAzOBMHUY39GLMcnwMU8PCtelnoZkNZWj9HOVsKSL61+kZ7IAylRbVKHIxkiK47SUkC9Al8AQmydCG1SIXZvlRAfDeggpUxz5VG34NMeA==",
+  "URL": "https://www.mozilla.com/",
+  "LICENSE": "MPL",
+  "ARCH": "any",
+  "BUILDDATE": "1594387381",
+  "PACKAGER": "Andrew Crerar <andrew@crerar.io>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "firefox-developer-edition>=79.0b6"
+  ]
+}

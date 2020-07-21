@@ -1,0 +1,24 @@
+{
+  "FILENAME": "kdav2-0.3.0-2-x86_64.pkg.tar.zst",
+  "NAME": "kdav2",
+  "BASE": "kdav2",
+  "VERSION": "0.3.0-2",
+  "DESC": "A DAV protocol implementation with KJobs",
+  "CSIZE": "103858",
+  "ISIZE": "400337",
+  "MD5SUM": "5031202cef3b06cf9b7fe318cecabd91",
+  "SHA256SUM": "e7499de8de11e38b5dfc2e613d10361b2a0015e90c30b79b7d47e855daa6fff6",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl8EfAcACgkQeGxj8zDXy5I2Bw/+JQXnqbURt+STX07tIPU4nI+UuRN2tJP3TOosKQ809fYflpowMO3HmbtVtREovWSoZVpfRrUoSsJDGdE6CcH/k67jOAsdT1WDA1PQWWkIWqH1YOqETnSmQWLJ0Q8zQMcJNZsGel7jU6iF8fLy0DEObIK5dpdwVhcToFuc1g7oQFCNullc9heFQ3EpM2J5A5UXcRVs+SyXU4CxvoglF9n4l+24+0ADoYpDrUSANWwhSYjKqH+m8w3LRWTzZIcDnX6gQIgyMZ1JM3yxdOL6OyrabgSOiUfcScybRqJFNTdUrMOefgdJngIILj8+n00bkSjkpfoK2PqP4rHOS7IAcixlGT8I+XhlrRwjnjMzsZJB+i34v3vAHMVeaDgjezBCLDPxrrzxRDhQZI0Ap9Y70bhbVSIMTnt4H1DWMhm67Iz4E8GXunKm8S+XF56aUMnavA00jwvwAMJgwxBVOYq2bpAZTrKVBmahQ4EPO/tEsXXe4ZgMGWo5DMO2YuAIrxJesJIEuRDbraodnxZWuTRfREPXIIo7DAO6fP09qDhL0ahcKYDzr+WLylar4dPn2d7WWZG1a14vXsEfxEzGWCs4DYa6Up0NAwGM1gR/SDNCsNeL/kE5NH8wACRuZIT5NIPG/Les/YOlyrJH5tcBMuYC4ZZRoNzvE/iB7bG4b3QjzqbtOTo=",
+  "URL": "https://community.kde.org/KDE_PIM",
+  "LICENSE": "LGPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1594129261",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "qt5-xmlpatterns",
+    "kcoreaddons"
+  ]
+}

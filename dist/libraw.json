@@ -1,0 +1,24 @@
+{
+  "FILENAME": "libraw-0.19.5-3-x86_64.pkg.tar.zst",
+  "NAME": "libraw",
+  "BASE": "libraw",
+  "VERSION": "0.19.5-3",
+  "DESC": "A library for reading RAW files obtained from digital photo cameras (CRW/CR2, NEF, RAF, DNG, and others)",
+  "CSIZE": "349231",
+  "ISIZE": "2207264",
+  "MD5SUM": "050a65eeae36ff0f28f12d129edbb4eb",
+  "SHA256SUM": "1b264cf9b7d0f93a414188de1d440d8153e531274e45f0bf7a3f126acbf382bc",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl7DnIAACgkQeGxj8zDXy5LKLA/+N1mPQE0TSnblxVMVCBTD37K1Aatu4GALIcBxos3JbtKYBR7DbPtl1u2XafL4i4T7bHpK48jwY8TLoGL6/SwSio3ZyHYjGaioZyUXCKVi/5XlkmF7PBjzgDHzEMWX7nh3a+/BZI4nrU+j5nfy6TN2t3haFa7M43xuffywV9VhfgorQO7jX23VyUwhSTI9mgWWt40/bEVqTBrXNUGT/cAEjMoT1K7Zn2FOGCFDGQ16FYhtX8spOD9ljhWV3teJEx+qxoFnhCmv1Bf+2YrAVCb0UNW3pabqnOQqhvX0B2porUUd5NFFaAgBGoXtF1OwouGtnQdHSUoWq9ivC1xUE8DT8zF7KLJqIMd+a12cNHwk3JJ5QLTVgk4KIBXU3Zudc1EYyj3NP2iX0B1XlSjiEoXEZadfiMmUwxQcBi7LF3AZUSl3UB1yHklbE3TpMYGLMg0jKBHd32c1NW5JTGOiGZ2qEw33IPdJiTRj9IOWdKv+ojkaTwnpk3PaSDFWQoD0IUBSdxCO92KwfEd8KMe2RkUTUvQWe3OSjfEolB33yIqXNdtNWaojwrxermoELWNliFIkiapt77se/J/08PyZhHanyyfgL9SUOfdgPBMwioEdfcZLCV4P1JQofrpZwQiID2UEUZoEr2fCoAoP2QkBzNPXDAdmJu8DVXfOv8pZmsIw5CM=",
+  "URL": "https://www.libraw.org/",
+  "LICENSE": "CDDL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1589877827",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "lcms2",
+    "jasper"
+  ]
+}

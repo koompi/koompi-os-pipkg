@@ -1,0 +1,23 @@
+{
+  "FILENAME": "sysstat-12.3.3-1-x86_64.pkg.tar.zst",
+  "NAME": "sysstat",
+  "BASE": "sysstat",
+  "VERSION": "12.3.3-1",
+  "DESC": "a collection of performance monitoring tools (iostat,isag,mpstat,pidstat,sadf,sar)",
+  "CSIZE": "413090",
+  "ISIZE": "1574372",
+  "MD5SUM": "6e6ae1506b43aeb50268b4d52f863c76",
+  "SHA256SUM": "77683de40436c3e48c600f8416c94e98ad55ef12158cb2dedd89475c96b3a441",
+  "PGPSIG": "iQIzBAABCgAdFiEEba97gI+d8lE5YgAA0hRh49/iBg0FAl64dj8ACgkQ0hRh49/iBg0hyg/+IomiHOVmaB4DLD3Ne4VvinLoSsPrqe/xLCC+/oBshL92AdWImt81naq49cjQVqMR0yqv9SuL5AiW3yskgJOSipt7eVMnv7Q74Hl2dtoE7Gg4eBq1INii81HsA80X6B8p0Iw5IRRNkq1gyIUoFG5AmA7ex7sDuDxeSkMPlRn5S+JSih7M386OeCd9Bdm9yLxjLljZRskje7LMc23BbNkueJOiYB+89uW/wDf4GjS8MWpH7R6SSQFc6Vbz2YPTe9rNOYN+oEvwx+p8jJjFCntq2hdRtsXwBxj2351JUdOzBnJjKUToGg6ZZH2/9CMQcykl9qnjKECtsqDn02YEdp6TPOlf7l8FoTfug720XYHYyJhNVslU2O0erL2myWI+eTuAkRXhHrFw55Znw5YqOnRDs2YLeqdvedVQbLXgVv1bVVwa1qwH7sTwVsKtlLg0UyMRn+nO4gZERhog82LLc6M0WLJuL570C8VeLwIO2y5BJQK2Gyo0pHbRFAFMMvtBjVhagZvMe9zoqFlYVMfSj5nXpNSBB8GOQi0H4sl+K0dmA8JOExedIZH9tBEeT0O7fOxtlPr5iqQIyt0hyZhdwNLePzoPQ6ngIXa0gLqTT5oo3kVYyJJATeb74XE/rbgRapGi4mYD8WY0bC6ImvaW5r2tuvEJViXA5CtEGi/RZhW1M20=",
+  "URL": "http://pagesperso-orange.fr/sebastien.godard/",
+  "LICENSE": "GPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1589147144",
+  "PACKAGER": "Christian Rebischke <Chris.Rebischke@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "lm_sensors"
+  ]
+}

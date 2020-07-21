@@ -1,0 +1,23 @@
+{
+  "FILENAME": "ortp-4.4.0-1-x86_64.pkg.tar.zst",
+  "NAME": "ortp",
+  "BASE": "ortp",
+  "VERSION": "4.4.0-1",
+  "DESC": "A Real-time Transport Protocol (RTP) library",
+  "CSIZE": "276559",
+  "ISIZE": "1654116",
+  "MD5SUM": "4c382969a6d205d22fe025dd765de2e1",
+  "SHA256SUM": "712f04698db436c462f0dc0ce618143bb51f2ea15fcfb8840574767e69c6919c",
+  "PGPSIG": "iQEzBAABCAAdFiEEFRnVq6Zb9vwrc8dWek52CV2KUuQFAl7zuUwACgkQek52CV2KUuSkPQgAgF1rmB4uOpyTDVi9dVvA0aWaKPQV7PDEQGig5lq2Jh/zyHhBSs2YCQHebjKQJj7aclPaI+htrxfgebMopeytlN0nPc5PGCuMjiB41jaWdOFrz8qSkFHRItXQ5/6ooTI/qQWPM4tUTuvR3ZQ7n+nrsJQa0TlXU7If0MTbDMtJe9pHF8ys4FmLJKvawDNd3mswZTY9Hn6uwvNfl5VK90dK0eYwk7p5MccE/IevbopthslA/uf2hnTtesDd10htOkMK87F6pT3SSRktZJatsU3LRd2QCVM5YW87nDaEiRP4MzkNVacfwqKtIjMWJD1p6876kr/soKFfiSHs1g4Llk1erw==",
+  "URL": "https://github.com/BelledonneCommunications/ortp",
+  "LICENSE": "GPL3",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1593030939",
+  "PACKAGER": "Antonio Rojas <arojas@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "bctoolbox"
+  ]
+}

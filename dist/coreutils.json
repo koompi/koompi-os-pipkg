@@ -1,0 +1,28 @@
+{
+  "FILENAME": "coreutils-8.32-1-x86_64.pkg.tar.zst",
+  "NAME": "coreutils",
+  "BASE": "coreutils",
+  "VERSION": "8.32-1",
+  "DESC": "The basic file, shell and text manipulation utilities of the GNU operating system",
+  "CSIZE": "2799785",
+  "ISIZE": "16765236",
+  "MD5SUM": "451f6766ad2c0b84dc43466fcb2146b7",
+  "SHA256SUM": "0230569b2c108996865033bfc63ea60dbb21388592d2376384f4a009a1ee91fd",
+  "PGPSIG": "iQIrBAABCgAdFiEEVyJOyaX8pvvJK7iqShr8NF6+GPgFAl5iS40ACgkQShr8NF6+GPjeGg+/SNBUJek50lMbiQEW+F90p35f1q88WoYhDa5rmFetDCtYThG83ur8RCvGkMXsPaWRBh7wZ4icPNcfrwoSTHz/LmKN6du0sC0aS9LzlPhIz9bg1mynLYmxoonty6gKOfG42R3kzU9DYZRi91Bj1Hg3zxydP+9RkNumf2xwbxmKNBJArdRNyIt2o4mW2oeD7/GScixzHm0TmpU4u62eJEUeMoT/yDBzGczBBGldDI9xr5vG1DirvH4gmWMLr/7bkzfC8qPpJEaFKNF1Y21Im3OieENGm7Vzjt4EU2nEN8wFWDFM8Pl8BTP5I16gt84OE2J8xBklq6HuAf6vSxLjRVK45PA1w3ayCi6gwFgAZj7AKdg/RMpAF1UHP/xqFlL3lSXK8KR20OoUT2LyozOdpdfIcgy2sbkikI3C3ZFMgsxaUuQzKV3AprD/shlh+UPNUykEIvYqYLGlYaAECu4uJsT/n+xuIzBNr3wX8RH9tPlb7vovlfGMwZFI/ZwoLhaY1uSbnqc4wbwAAcNAnBeU3vftibfaLdLcHTMeTVA9E7r8qrpk044yYUrT+vQugcacO/yEbuGFBsD5XIgMGhNza72IZ+IIF/uWXNy7IJ1lcspsHtWUJd3Fmc/0lLLil2MJy8h5OXnBwYB/bfxId5YybR7ZtT4KowqAR5QC",
+  "URL": "https://www.gnu.org/software/coreutils/",
+  "LICENSE": "GPL3",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1583499672",
+  "PACKAGER": "Sébastien Luttringer <seblu@seblu.net>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "glibc",
+    "acl",
+    "attr",
+    "gmp",
+    "libcap",
+    "openssl"
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "FILENAME": "python-django-extensions-3.0.1-1-any.pkg.tar.zst",
+  "NAME": "python-django-extensions",
+  "BASE": "python-django-extensions",
+  "VERSION": "3.0.1-1",
+  "DESC": "A collection of custom extensions for the Django Framework",
+  "CSIZE": "281738",
+  "ISIZE": "1436381",
+  "MD5SUM": "66fde87673bd38ea0ab41363e988a3aa",
+  "SHA256SUM": "223816834c51938af4100f468e83a4cc1fd05e0458b0cae60710c27541db9771",
+  "PGPSIG": "iQEzBAABCAAdFiEElDfdOBWnqRaePTlGr/XZUJi8b/UFAl76ydYACgkQr/XZUJi8b/UuOQgAsk95K8tIDYklhhikL6xU1aR4eJd1T5FpI4MPDIBdkS+wHMRsfM/JKYWqK2EDw9FHHhXgZ4ZjP45txslA/D8KyXDPToFOnwoMvQice7vNQXJb5yl1oxZ8Lcl6MWaVFzI3NTKTL24AakHghHOlKCdG9DosCKF+Celb7FpnJjR5Taap7Q5CzDfGNf0JT4/5ZEk++eb+Wp8pZJUXm6Iho3EaOMjh3BxB6XUhRAh7kJKnMjcJT8oXydn+AvyjhjtQhlsNlpZGIUtPws1vF/itxNi8naj7rR9xXowPtaV+9+/rCJQW4IbbRw93Y/UVJYu7JhTpeE3xFIa1tBtuQy4nM5iaMQ==",
+  "URL": "https://github.com/django-extensions/django-extensions",
+  "LICENSE": "MIT",
+  "ARCH": "any",
+  "BUILDDATE": "1593493952",
+  "PACKAGER": "Maxime Gauduin <alucryd@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "python-django",
+    "python-six"
+  ]
+}

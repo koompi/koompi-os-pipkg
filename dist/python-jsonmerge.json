@@ -1,0 +1,23 @@
+{
+  "FILENAME": "python-jsonmerge-1.7.0-1-any.pkg.tar.zst",
+  "NAME": "python-jsonmerge",
+  "BASE": "python-jsonmerge",
+  "VERSION": "1.7.0-1",
+  "DESC": "Merge a series of JSON documents",
+  "CSIZE": "26682",
+  "ISIZE": "111738",
+  "MD5SUM": "a387ec54144e8cb9c7d2d4b5e6868ecb",
+  "SHA256SUM": "b00295eaed884b50112eaccc8d43abf1c4016f4d894a6d04c2bba9923c7c6d66",
+  "PGPSIG": "iQIzBAABCAAdFiEE0jW0leqs33gyftiw+JPGdIFqqV0FAl5/qXcACgkQ+JPGdIFqqV0tCg//b7XwPLBOwp7gcMrLHmKNVDnWAZIZZrV5VJBIY/zRVWt4D9CVR87oDT/sqXcA6Oow6M9Xi7u8taH8gTeqne5a0Ph7aqB8JAN8peG4g8HLWSXkCANZzBqDijFG9DYo+3Vc8e1RQf33qgdG1T4UI7R1NTVXLzZbq3ycvc68WqKkqecvLCdt0NTcD6Z0qneQ1QDLoJXLAwg7hg+TyOogfQV+2Qwju91+bD2Ch/94DaioV8XX8SYKS7YhIIANSqYzAlnbzlNFYUZqWG9dqW2v7S4JR56xXw5xUtrwCY6KsQARFnksXb8agq8JzRMTD8/REVo9mCx3CwIit+5Jl9pSeMQoZwXYodLI1ZjkHKKpdECOwESe2QHS4ikoOjgCs3rDqdKg7j+t5sNlLBb3g2cebHR8/z+cVni2w7ETrb9hmyunHM5RxU7Cvd0hWIMOxb2nP2W1XjV7Ydnh42OVW7yZYJ4rAtITer9nCA4p2jBPzbI5nZU9GxeKwqHyld5q8crJPT7/j3KZwbH3MJJRoED1tBNXmhpE8t09gGDCPaCXVDp6oCruOE1F5zWgeKzwq6y4WlhUzkgwS/IZh9R/EluZpbP8wJucKdHGKUCVQyN7pFDzBs6jKudoE/nJbbjRxkyArhwqVVZVHOvc6YrC9akhkzPHOmZmGdRpiDiy5HKx27fUXyo=",
+  "URL": "https://github.com/avian2/jsonmerge",
+  "LICENSE": "MIT",
+  "ARCH": "any",
+  "BUILDDATE": "1585424727",
+  "PACKAGER": "Filipe Laíns <lains@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "python-jsonschema"
+  ]
+}

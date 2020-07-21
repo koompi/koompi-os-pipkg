@@ -1,0 +1,24 @@
+{
+  "FILENAME": "libxml++-3.2.0-1-x86_64.pkg.tar.zst",
+  "NAME": "libxml++",
+  "BASE": "libxml++",
+  "VERSION": "3.2.0-1",
+  "DESC": "C++ bindings to libxml2",
+  "CSIZE": "88893",
+  "ISIZE": "346814",
+  "MD5SUM": "37a00850cb0edc2b8da6abfb80eacf68",
+  "SHA256SUM": "12ff0996a44626c3bafb8d3b48f612b4722387e58fda23d9282a50ebe0a41822",
+  "PGPSIG": "iQEzBAABCAAdFiEEFRnVq6Zb9vwrc8dWek52CV2KUuQFAl53QA8ACgkQek52CV2KUuSxygf/VJZscIPfkUJZVBqagPcgwSZv+q7HbMsvWc0x1oOv3BgbMZ9VcxuQDBQzbnqqnMsJxW5iB83oDt1XOREf8pasaN/Tr81pmSHibVMbG75LqPnMNng/dLanz+hR6Sz+GBcIA3Xp7rQogaMGt2Oi+qBe51AIfveGJ2MOLqNX+VRZRH6JYLXOagcFRPFn+Jxa16XB348MhonPCTO9hzpTv+MR6lEmccCyXAMxpwVMfPaPe03aYZ2AI9WlFz7w/U+GwoIXAKic8+naoPyFNuA6Kfc+s3yONfzCdugG+PP8pvqIyHbQ1lPgPx5C4o68zHnm4VWi86eQ8Y5oTo2c7qnVaYozHQ==",
+  "URL": "http://libxmlplusplus.sourceforge.net/",
+  "LICENSE": "LGPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1584873260",
+  "PACKAGER": "Antonio Rojas <arojas@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "libxml2",
+    "glibmm"
+  ]
+}

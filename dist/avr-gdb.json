@@ -1,0 +1,29 @@
+{
+  "FILENAME": "avr-gdb-9.2-1-x86_64.pkg.tar.zst",
+  "NAME": "avr-gdb",
+  "BASE": "avr-gdb",
+  "VERSION": "9.2-1",
+  "DESC": "The GNU Debugger for AVR",
+  "CSIZE": "2619084",
+  "ISIZE": "7012823",
+  "MD5SUM": "0fa2df4305fcdb11ba1be9e8b0568791",
+  "SHA256SUM": "c8677071b37c841f554495dcb9283dabe993c4c12bb6b0e12da2302216cb770c",
+  "PGPSIG": "iQIzBAABCAAdFiEEjhmSFnRl21+wRVV8sChU7XU+Dx8FAl7QkAAACgkQsChU7XU+Dx+JCg//TUnqA7KW2U3s0lJI/f7ry2vKTo44a0W0/dRzEjQf3tyvCeko6XoU26jmyC8yn/hPdsH+xFPS0l/oxFO7wlMNe4dJXvo1oKsNcZjEgw+xACEmhLYhJ+bnkkIn6fUuJv4SSCQVCXVAKOios3anFtXbTVdG5XF/eeA8UJuK6iG4yclt4efKPAblzltaHy895DqKmH6yK8gMqmDc38qCDEdu3/b2iJhlSHi1IzDe0VfmdfAMKTwT+B4zAo4agMRYh3kXBup8ThcvnZwANs63d/wPti2jRKOfORMcqvqtpICvIS0i1rpoCtdjBY1mZQ0duoNYDbshj9AqPKcX8uwJTh6LdIDReTjV5+l3c4+kfy4l7d3qyrhULqM7j/nGFU+ktPX/NBTn43kVPor+jFXBq8PUfgg8eSO0PHi27zyVn4wjYLzT7NbGLXqfp2ERIT9/lF5gSRw2OjfqKiz1ujZpfesjsss2y7l7R+JeveoD+2T+dJrwSVyqh4zRgJtLLOydjhoe9iVXuMfKlIAiFA73NhOXssfHEUVp+KQDFFcluXuS44MZaTjf1OZCrAFKuNN7RPg6w6vu4mQS/DomCvCFc+mUf8J7ltobMBiMwaLH2BNOVCvAQ37lRxYzHSRvn7UlwlPPkdeIG/tKSdfA1SArYt3SZ5K7ToSWa1kwr+rbJZKowB4=",
+  "URL": "https://www.gnu.org/software/gdb/",
+  "LICENSE": "GPL3",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1590718257",
+  "PACKAGER": "Anatol Pomozov <anatol.pomozov@gmail.com>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "xz",
+    "ncurses",
+    "expat",
+    "python",
+    "guile2.0",
+    "gdb-common",
+    "mpfr"
+  ]
+}

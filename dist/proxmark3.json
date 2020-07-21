@@ -1,0 +1,24 @@
+{
+  "FILENAME": "proxmark3-4.9237-1-x86_64.pkg.tar.zst",
+  "NAME": "proxmark3",
+  "BASE": "proxmark3",
+  "VERSION": "4.9237-1",
+  "DESC": "Software for the the Proxmark3, an RFID swiss-army tool",
+  "CSIZE": "3882880",
+  "ISIZE": "18058076",
+  "MD5SUM": "7b72590e6d76414e9afe37574dfea5ee",
+  "SHA256SUM": "4f6eddb0018cca7f5ebac8cba0098058d79d897092044cca77580d9475613dc3",
+  "PGPSIG": "iQIzBAABCAAdFiEE0jW0leqs33gyftiw+JPGdIFqqV0FAl7HV0MACgkQ+JPGdIFqqV2B3Q/9FoAi9Ez+c7CnhYwgxzhtBG8eq0coG3k+G/uGna1kWIiAVBWVYcdgTTaySVrFYLchaUyB7US9Df+bX6CXEe8bBeSG7XFsmQwUpCEE6jt32wv2pSVhOdX4Fo7J0y8+ydYYXddpc2TS1p+5n1PTCQTGOUFNGzxokzRiNpLqhoHNvXrhL+aDlAbyvsc30/hUoEZ94q2a/PhQ+0KqdI+B5ZlHjlhW6TYW4rFqYqHr4heEWKeViFiz9nXXicR+0laZAo+yh7l1XOBzywUn1Y/xd2dKkkzf9h+npKK5K247XaDRl2uZPWS4LSdvmVx2l3lyP24CC7Fza+Xr+NxyfRVmP6+0PR2Jp8PA/ODpTWdNVrR8YBXXTV2tMwb19BIKb2/Nw5y4VuJg/3rYPcqqEBf/clleNnXsrraKRqCvzSXulbMHjgrtZQ+rZZCOHhAsAtAHA55wzY78Dp8fNxqsyXlEmrigFxNDu5oBt/iR4kNBzAMdTT0VFFqZ11dJ/1aAEVTyJIlU+Pk2R4e5z0IwAVTUzv1O9Z6qfwzBXcGu0hl5GqVq8eNeyEb7jp5c76ZEjEFBWIaErDhu1UmwXX/90gTiKZUodOVXjcnHBTWL2mfFlUOTj4tMvVs7jAp85miEi7dIXvG1wjaBhf9k1tTKaD6amuFd4KsRloxrv4oi+RJHKghHZ0o=",
+  "URL": "https://github.com/RfidResearchGroup/proxmark3",
+  "LICENSE": "GPL2",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1590121991",
+  "PACKAGER": "Filipe Laíns <lains@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "qt5-base",
+    "bluez-libs"
+  ]
+}

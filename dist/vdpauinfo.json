@@ -1,0 +1,25 @@
+{
+  "FILENAME": "vdpauinfo-1.4-1-x86_64.pkg.tar.zst",
+  "NAME": "vdpauinfo",
+  "BASE": "vdpauinfo",
+  "VERSION": "1.4-1",
+  "DESC": "Command line utility for querying the capabilities of a VDPAU device",
+  "CSIZE": "11164",
+  "ISIZE": "33100",
+  "MD5SUM": "a5baee2549a23bbf5c08ca83465f5f55",
+  "SHA256SUM": "78a0530192b206a671d33ff61b2f23b6b8bd9bbde7a5c8dca34593a2a60f84a6",
+  "PGPSIG": "iQEzBAABCAAdFiEElDfdOBWnqRaePTlGr/XZUJi8b/UFAl65gH8ACgkQr/XZUJi8b/WlZAf+LdZGP1Ko03kMZmWhLaP0/rZ1fe8UWe+P98V9kTl4zV2T5e4YLd5zibEqyFingWXwgCFTbKzBKC/9tw17JC+Qwu34OdDVZoJ0yuIK1MLgg0o8PqFTc2AcDaZRVfyzLgX4dXkyQewawg02AcaQs1lNByIQUsvV+MRLmFgs89ag11AyLX0mcyfyyAQPPJaeomsIyovcUTDmTXrvBHaLVpw9TcTGTyYOIiIWAv+1POaw/lsYuOdisiGKyb6bveKznk5Uo3EfcIf+Z13jTBp/L4AD2+KvWU2kmkfo/+5cwVRXRv5A12GWtoTWhqRftUFgp6TFtIjyfj/TWWY11nEeICLkvA==",
+  "URL": "https://gitlab.freedesktop.org/vdpau/vdpauinfo",
+  "LICENSE": "custom",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1589215258",
+  "PACKAGER": "Maxime Gauduin <alucryd@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "gcc-libs",
+    "libvdpau",
+    "libx11"
+  ]
+}

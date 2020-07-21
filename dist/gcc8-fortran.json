@@ -1,0 +1,23 @@
+{
+  "FILENAME": "gcc8-fortran-8.4.0-1-x86_64.pkg.tar.zst",
+  "NAME": "gcc8-fortran",
+  "BASE": "gcc8",
+  "VERSION": "8.4.0-1",
+  "DESC": "Fortran front-end for GCC (8.x.x)",
+  "CSIZE": "8721500",
+  "ISIZE": "28107138",
+  "MD5SUM": "8ed4cb86a6e730f3fe0e0799e77a493a",
+  "SHA256SUM": "a8e4b15735198ceed01d1b28d46162a98263b9189b1dbee8ac14f1875b4b600c",
+  "PGPSIG": "iQIzBAABCAAdFiEEj8FaBklQqZ3RvRTdOeS4d+YuuRUFAl5jlgAACgkQOeS4d+YuuRVvjRAAjrxqLX0v9iOck1CDTXLypg8nt1lGC3lnakOnQ6b/axuqpXxmy71JzWybYoCcWkAgO3vvZ1FNVzmRgAGKueHaw3PU6A5kgkkx2wv/lsR3DnFWAlOzzekwQOm7+AwRnxa+0oDXpoNIq3IXMLqP64FN4hVIlQyHCZTEATNmyH/GE97NUFXThK1LO/pYh6gUKBSKyu/6nv5W1t3u2yYl1do/HFQnMGPgJCL6BxN4u880ABcmtSSJ+W4FZRS7JGeKOlA6g/TEOztY48eXT2GZZ0XCsN8lKD1lKWflFHBmSO4inJL4iX135Yb6sWrqoiVhbNUFlLxaLtQB7OhLASFS9y/h1jr/dEfl4XSfYsMUbrSbhskgdNG+qMqYNmPZRo+e61r1oqNR80vbtPUNXb3Rb8myWnyoPx/htzeMbLuJdNdU2S2ldXPM3mQwkYQYSXHzmeZJKtCxouPQ69Dsz8NB87dH4ci/jWuFjFomlxfrIUZG0gLpskO5mqxoAE3i0b9Y19bRV0FfVnoBzlo8aRBfEoFcYaJvZsGOHuVpcfc2hxopLhWX2J7neUfTRzMF8s6i7WNJi6kZDpkT8P0oqQlAreQD49oYjKYgWQanii4mXU8iK0p5tXjlzMs2Rso3CBd9zMlPCb109YEOuii0o4AOtysZD+u5TtxWK8ctPq90KkXsinQ=",
+  "URL": "http://gcc.gnu.org",
+  "LICENSE": "GPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1583580208",
+  "PACKAGER": "Sven-Hendrik Haase <svenstaro@gmail.com>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "gcc8=8.4.0-1"
+  ]
+}

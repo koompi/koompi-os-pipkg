@@ -1,0 +1,24 @@
+{
+  "FILENAME": "php-imap-7.4.8-2-x86_64.pkg.tar.zst",
+  "NAME": "php-imap",
+  "BASE": "php",
+  "VERSION": "7.4.8-2",
+  "DESC": "imap module for PHP",
+  "CSIZE": "32121",
+  "ISIZE": "96120",
+  "MD5SUM": "c5c158fe0a4f5b232c0f313476d7b298",
+  "SHA256SUM": "276cc208b6688309e0fbefba83fc02b88ec0f0d8cd8d5c64d8f59b76615c5dd9",
+  "PGPSIG": "iQEzBAABCAAdFiEESqR2e7ycSx0Yrii3fy1DS5dB6KwFAl8IPMQACgkQfy1DS5dB6Kwf7wgAti5RAH87/k9fz7JTmswNpKCRvB2rQ+6e0miZaMC80qdrdDB30sb0b+VrAGw9KYCZrOKAsEYl4fzfOx8SorshwL3KmLejW4L+ij1PrcTtvz+MAAD9T6VnGCtEKinIgARNxJ2i7oFa9pC1RUzffE3D2CeSWfOXKM7LVCLbbzwXEQAsx/1FvAA1IfBI2eJgeoAMs1anAbToSVl8EK2tUvcV4NJZeiP5k0ddjLSRXy31HMp5aRBBiIv8sEoVRE9lwZrRpI4Ejk5kH9EVnjhTuu86hsYkXKf243a/WOLKKPkQpWHTF+qW8TZ5VyugWUBTHknwlj6ApLquJLXkIGVk6YC8dA==",
+  "URL": "https://www.php.net/",
+  "LICENSE": "PHP",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1594375162",
+  "PACKAGER": "Pierre Schmitz <pierre@archlinux.de>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "php",
+    "c-client"
+  ]
+}

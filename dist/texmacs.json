@@ -1,0 +1,29 @@
+{
+  "FILENAME": "texmacs-1.99.12-2-x86_64.pkg.tar.zst",
+  "NAME": "texmacs",
+  "BASE": "texmacs",
+  "VERSION": "1.99.12-2",
+  "DESC": "Free scientific text editor, inspired by TeX and GNU Emacs. WYSIWYG editor TeX-fonts and CAS-interface (Giac, GTybalt, Macaulay 2, Maxima, Octave, Pari, Qcl, R and Yacas) in one.",
+  "CSIZE": "31793532",
+  "ISIZE": "80377566",
+  "MD5SUM": "e0b71824d794aad1de2635c52b74a244",
+  "SHA256SUM": "58c5842cbdab54d090e564b26ded7a99b76ed3eded55343414b304638fa53294",
+  "PGPSIG": "iQEzBAABCAAdFiEEhs/8qRjPOvRxR1iAUeixSKmZnDQFAl7ABmEACgkQUeixSKmZnDTFqggAjmVklPZpJ3Ez6tCOqM+5kJuXaZlgN+eYXbkfSUF3U9fBcR1mpS0uUJ1zNKz7sihO/dfTBGqXmKZVNFasPU9FoK19Om8aMVhVq/5xzbIZTlZlkEV/3Z3k+bhZh0klKcbUUseMfzmoMGUe6EpUv3+vO0PLPgCU7Glf9OwKMokDwtIAQqqn0my+deiBwxGsCRROfY8ihb8Y3eqBT0ZiS275nIwiJdz59vrq0OX4E10Fb8gvIsUqZTvDWMnTlm3QfHq0hOB02M0kMjqIhmDtrzGSwaxj8+SAUPL0OluGd9Cd5+i7Li0j2WyfwIEw+3WM8xvcEz8qk+4TFkL+GBQzbmerAg==",
+  "URL": "http://www.texmacs.org/",
+  "LICENSE": "GPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1589642580",
+  "PACKAGER": "Evangelos Foutras <evangelos@foutrelis.com>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "perl",
+    "guile1.8",
+    "texlive-core",
+    "python2",
+    "libxext",
+    "freetype2",
+    "qt5-base"
+  ]
+}

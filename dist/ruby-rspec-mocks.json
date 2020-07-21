@@ -1,0 +1,24 @@
+{
+  "FILENAME": "ruby-rspec-mocks-3.8.0-3-any.pkg.tar.xz",
+  "NAME": "ruby-rspec-mocks",
+  "BASE": "ruby-rspec-mocks",
+  "VERSION": "3.8.0-3",
+  "DESC": "RSpecs 'test double' framework, with support for stubbing and mocking",
+  "CSIZE": "182468",
+  "ISIZE": "725210",
+  "MD5SUM": "146c69d7ce03a37469411bbb7b469e43",
+  "SHA256SUM": "b89de93a1f4b55e02b70e41029740259d5cc4054ccd5679d9c20b8375304ba53",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl4EACEACgkQeGxj8zDXy5KgcA//Y+mUL81PAvv/rl2iU4RIKLoIRZCuTKFaAOjNaEwdwUe5uPFzKKmN3kMapa16umgcMQZgOYMsRmGx5rYJLFBofcPeqctRvzbHk5PsgRsCZsWE4kX7jvmMBEwxuJyw84jfMw7h/EKrDriHQuQqttoWsVBjJL/6uAAZ3uQW7rbPVrMwkxnYSnRo7xEFZMTQ+fdwWp6wjVI16+8/FUkgLiVddRmm0u+rFawJZhNf6G4yqk3eshSdN2fftf+gekMPj86ePGYOWpFnjOdfdMbzSVUIH1fSF4z+dlsRuDm5kK2njeW18cNM3Firtz3vu2xhk2O24EwkJD8HL186SELkkIgn2PEkZm0sC7j0g6ja7Lt0OvMUt9tFU/reiaf4J+F8mptPeywPfGoxoA+s3r263IIKGraUoUdWvKar7hSxJ/MJnoU4g0ZPTJKVXSF3DJQ3ugmZ0moyKZMw29BfXEtR+MalWAQE7ATGwqXCTnGURjBLlrH0P39sClsE50Yq+Z81KB6WUDoSsCuukMYUrRP1TFmRCq6uDFiNSIz1NC9GsWb5W7bpHZSxXIV5j4+I7mMFTgSmaSHw0GcGE7MHyk7iEGU7kpQ0Qvmf8BT+jLcelMExf0HQpae1zObYWkD4RDwVBIj8Bw5AZw5AqOwBRr5fX/6St9GjTrl/NZ5qMl08l2ORgGQ=",
+  "URL": "https://github.com/rspec/rspec-mocks",
+  "LICENSE": "MIT",
+  "ARCH": "any",
+  "BUILDDATE": "1577320431",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "ruby-rspec-support",
+    "ruby-diff-lcs"
+  ]
+}

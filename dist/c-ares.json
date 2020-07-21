@@ -1,0 +1,23 @@
+{
+  "FILENAME": "c-ares-1.16.1-1-x86_64.pkg.tar.zst",
+  "NAME": "c-ares",
+  "BASE": "c-ares",
+  "VERSION": "1.16.1-1",
+  "DESC": "C library that performs DNS requests and name resolves asynchronously",
+  "CSIZE": "120175",
+  "ISIZE": "196950",
+  "MD5SUM": "acecf6c96ebe1bd9e74f49f04cc7c589",
+  "SHA256SUM": "59d5821055dbb88b5f1e98550b9e23123396fff8efc8fdf57180cdc6be407f3c",
+  "PGPSIG": "iQEzBAABCAAdFiEESH6swIVXrQggiNq6HrJjj/VsDFMFAl65mNcACgkQHrJjj/VsDFPFJgf/Ve9hgBBMqcpCyNOFSP5SksQ0djsqEFbh0sO8lUC5osDhvYRgwUc7+9lbuValvoi8ruLtBWQyJzQgnkWXQ3Ep/veFc0utLaOw3HjIWBC+Tpu2weVFiMXgx/BvyU/Gyi+kcAG2y/gsCEESSKY4xTHb21g5fc4eXSFI2lJdSDJ3HCBrwJNxwPPOLz8YR6DSQePH9H7WkIYmNP/TiN+Q6FkOJn2bqrMr3hRd43rEX5ERSTWnR6aebAWXT8awNDdZuqKLFNY8hVyyt0lCrW5Vq65LL9qaMcQDPuOFU+8oB/YrjyUoY3xZgankDfrcSHgxoCoEPwuH1os3GnLFaaTDwiXcRw==",
+  "URL": "https://c-ares.haxx.se/",
+  "LICENSE": "custom",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1589220542",
+  "PACKAGER": "Dave Reisner <dreisner@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "glibc"
+  ]
+}

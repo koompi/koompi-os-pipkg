@@ -1,0 +1,25 @@
+{
+  "FILENAME": "netcdf-cxx-4.3.1-2-x86_64.pkg.tar.zst",
+  "NAME": "netcdf-cxx",
+  "BASE": "netcdf-cxx",
+  "VERSION": "4.3.1-2",
+  "DESC": "NetCDF C++ bindings",
+  "CSIZE": "126702",
+  "ISIZE": "533780",
+  "MD5SUM": "321433899a7013c681ec2fdf2683adba",
+  "SHA256SUM": "8bf2e57b07d3fd5bdc1185111e524f997e7d36c5a70899bdd4b07d3c434ad3ec",
+  "PGPSIG": "iQEzBAABCgAdFiEEado014/g79WWrG0EnYk+xNqvkSkFAl6TLasACgkQnYk+xNqvkSk3mwf/dWV4B2HSNd0rs24AT1Ya0wISWsU6V3B2r8jKqYOfUJ1TZaQCQe4meZl7c/KSsGg+6fJ+FYs+J1vqjJvP9RwlD99ptpXNKs3dQhV9hDgZ4xdJPmHwTyEGpBgcpV+F9AvI/Uh8E0xvdjt0A8JWCd3hp7QkGi6xwak9fqBaLs1M76i3elQpRzL+4xRaUZAA+u60MSJ66ttlffz3pBluy/oudNg2JAtW0n2Kzaptov0w3mkWGvUITY0rACk0aCDHHUBF6jhArzB7npc/vw8KqwEqqxtAX2v+/4uSwvDVYVKB6YXF8YAuFhI5O+rhWYbTu54GU30iQC8q4C/mLmZV3u+AXA==",
+  "URL": "https://github.com/Unidata/netcdf-cxx4/",
+  "LICENSE": "custom",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1586703036",
+  "PACKAGER": "Bruno Pagani <archange@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "gcc-libs",
+    "netcdf",
+    "curl"
+  ]
+}

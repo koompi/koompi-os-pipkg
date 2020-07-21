@@ -1,0 +1,31 @@
+{
+  "FILENAME": "guake-3.7.0-1-any.pkg.tar.zst",
+  "NAME": "guake",
+  "BASE": "guake",
+  "VERSION": "3.7.0-1",
+  "DESC": "Drop-down terminal for GNOME",
+  "CSIZE": "997359",
+  "ISIZE": "4485010",
+  "MD5SUM": "7e228a1d4dcbf9b285836470c9dc0086",
+  "SHA256SUM": "f1fa0a5e329606d07f7cbcfd3621014b008e22746944878d0b66990c630334dd",
+  "PGPSIG": "iQEzBAABCAAdFiEEzgvecadZqH8j8PfYth284QkBwWMFAl5k3AQACgkQth284QkBwWNSsAf+KuNUDbHPWlbabJUaR5ueAmFzhvMl0Jrd9cDMcTzM86kfYuU9SYyjpgc9DSowdeIH/L6V8qcosHjQfprKfd5gHqpaqIMqp8b10kvsTxhcbcgVKgIZ+vjckmYGrzTEEa+1rb/snVUN9P4P+9vvE5GMNhLFmqzLyiFhHE117TBKyJmY47U5mDMD/GgCGMwRlAZ1WXHlp3+H8lXpUUMBDcFlxAYaYNGOLWLOyB6GloGqCjH14niy+qYB52g3PXCPLudxu39PRXfaBP862ZsJKmTHjjbnBjNCYPaJ/IMTaxa+pBMWPb2DjjRywtXHmQkhdSD07dg0ElrITt7s8tg/qWafAQ==",
+  "URL": "http://guake-project.org/",
+  "LICENSE": "GPL",
+  "ARCH": "any",
+  "BUILDDATE": "1583668147",
+  "PACKAGER": "Balló György <ballogyor+arch@gmail.com>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "libkeybinder3",
+    "libnotify",
+    "libutempter",
+    "libwnck3",
+    "python-cairo",
+    "python-dbus",
+    "python-gobject",
+    "python-pbr",
+    "vte3"
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "FILENAME": "bubblewrap-0.4.1-1-x86_64.pkg.tar.zst",
+  "NAME": "bubblewrap",
+  "BASE": "bubblewrap",
+  "VERSION": "0.4.1-1",
+  "DESC": "Unprivileged sandboxing tool",
+  "CSIZE": "28576",
+  "ISIZE": "59736",
+  "MD5SUM": "185ffdebdf87306043af9440db9b9129",
+  "SHA256SUM": "95b9949dd1144af69ef9bc1dbea63f9eeac6e64fa04f81f00da7b1b82e99429a",
+  "PGPSIG": "iQEzBAABCAAdFiEE82kWh9hnuBtRzgfZu+Q3cUhzKKkFAl6B9DYACgkQu+Q3cUhzKKl1tQf/UMtLZOD2c6Dy90onhxya95vffk5Qj7LbgRzDTA1KcU02GF/PvZfbDMeuybg7ltYjwE6SiOo8vMcwcg7Zk+VPW9b63HfDmhqFvIZiDs+7QvRvL3AubCf6lzvPCdbVdZKwJhDRzTLPgo4EVU6UpvAJFYAUhmG1D0Dh/WNkK7JxngCHgwces4UMQz/4rrtK03TL0sG8xfG+HJRr5OKd6H6zdpZdhybNme/j3w6/AnYEMg3VvJ8tX0jjjLEL43SsPWjQvqMVg5a88+1grwh35Af/Jo3sqzKIHzaKFrEV/Xcxlb9v/03VXVD/J5uQxMauNlHq7U0hqiCM56m1bio5DNez3w==",
+  "URL": "https://github.com/projectatomic/bubblewrap",
+  "LICENSE": "GPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1585574887",
+  "PACKAGER": "Bartłomiej Piotrowski <bpiotrowski@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "glibc",
+    "libcap"
+  ]
+}

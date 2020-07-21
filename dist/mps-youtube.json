@@ -1,0 +1,25 @@
+{
+  "FILENAME": "mps-youtube-0.2.8-3-any.pkg.tar.xz",
+  "NAME": "mps-youtube",
+  "BASE": "mps-youtube",
+  "VERSION": "0.2.8-3",
+  "DESC": "Terminal based YouTube jukebox with playlist management",
+  "CSIZE": "151176",
+  "ISIZE": "705399",
+  "MD5SUM": "20e3787fb42bc139e2279809d21fcc03",
+  "SHA256SUM": "6e5b31a3827cd2821a484bc6910c228fde187e1b6e3fcd8de6ea68545145f6f0",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl2/ogQACgkQeGxj8zDXy5Ki5Q/8DiKS+iFu+5Wr2NmcBSRFcJ3EDmHY7igQ7PKGRiFVELMdfZ5RnNz72HA0+92KDRfZlsZREaXt42OHxILR4ovqM539VklsrclneBORnKm0Jo0ElqEwHQLI1llsK1iEhydWCCFmjStU8MKyIaNTWn4S4BZrTio2IiXvBPytucwwodikbJlifpSgKqNCKM/BqI5zSvz8TgtwXT9MlypHLo/M7PbWa+iPBw2xtHZY/ZOXU7VjB5cF2rZKM5gh/txUg2JyPApuAVzdniA6+Tvncnfhk1RoWEYe1P55zW1zIl2/Qh8N1KuQgt3F2xhGZJtsEuUQIHB7PErFuqufPySICEuh5PCX8K8xRLSolpEy0E7mXVMax7ZF5eDFdA42y226Vu64gZVCuHGK61AcypWf7cGAeaxVAh6V/JhmaI5vd+y1Bjv9lkor2G2cztnj6sPoMEutcBaxMDKCbD8+JW5j0m8mZf4m7ySHepaR11T3JTsjZf2bXGX1mSx+BiTkj2J2SO/X/gLPO1JchyEWRANfss63HMOCCiESfzsLjF69Z6zbMAfV2XLIdmq0FZOgMEZukUk+aLz0h7x5Tpj3PCHmyL10dLEt61f5W6AwSAD6/4afSrLa/xFUmp+uwCNBUjlmGhwa/JSHdJ5PMV/yzhcl5JFqc4Xt/oQAwgV2yMaYmZnaWMo=",
+  "URL": "https://github.com/mps-youtube/mps-youtube",
+  "LICENSE": "GPL3",
+  "ARCH": "any",
+  "BUILDDATE": "1572839914",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "python",
+    "python-setuptools",
+    "python-pafy"
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "FILENAME": "cataclysm-dda-0.E.2-1-x86_64.pkg.tar.zst",
+  "NAME": "cataclysm-dda",
+  "BASE": "cataclysm-dda",
+  "VERSION": "0.E.2-1",
+  "DESC": "A post-apocalyptic roguelike.",
+  "CSIZE": "10576037",
+  "ISIZE": "58215969",
+  "MD5SUM": "ee24f9040b5d8980b26d6bc95cc7c794",
+  "SHA256SUM": "a9c6c3ed121356c0e18301915d2dd0a7d1a08efe313c2b37cbb6cc46dc32ebcc",
+  "PGPSIG": "iQEzBAABCAAdFiEESMOx8w3dD+Z+UW0WOW4+JbqxQsEFAl7TAisACgkQOW4+JbqxQsG5kQf/Y98s3jNeaIejQoXsSibjMS5s4VnJul98EGYHSrGXRQw94Z+BVBAiUVHJZS9KEGay6WhXD1AsVoQorPBnNgzPdxb+KWaCRif8BmnqY3VX7za3sF7BOm5ypC/efTb0yLBaxQB5MJuWoSKretAAeoKR73/MjnM1HXLLA1q4B/jojIxGSc1tmSqklWJ6TDzrWkufgZz66oMI5dhug1FaM5IDzQMX0Y+c4s87zF1APr26foxG7iuF0U8TFT8l/ROd532HUguHZykS1RgZPzhPuUI9u6JkKFTKvx+HxQIBHxNnLALw8JSGZrcSedhoS2zL6iYrZ5TI0Pi63r3DXG1t4GuRug==",
+  "URL": "https://cataclysmdda.org/",
+  "LICENSE": "CCPL:by-sa",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1590887611",
+  "PACKAGER": "Kyle Keen <keenerd@gmail.com>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "ncurses",
+    "lua",
+    "hicolor-icon-theme",
+    "gettext"
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "FILENAME": "libgnome-games-support-1.6.1-1-x86_64.pkg.tar.zst",
+  "NAME": "libgnome-games-support",
+  "BASE": "libgnome-games-support",
+  "VERSION": "1.6.1-1",
+  "DESC": "Code shared between GNOME games",
+  "CSIZE": "52470",
+  "ISIZE": "175581",
+  "MD5SUM": "77c4176ba965dcec8ef70ce17286e6a1",
+  "SHA256SUM": "2352e03e3d4f53924e92ca0ddfa54bb99d56cfb8d279bd1969335a3f29298120",
+  "PGPSIG": "iQEzBAABCAAdFiEEghj4iEmqxSLpTPRwpekojE+kFfoFAl599HMACgkQpekojE+kFfp7ZQgArXuFhYjWWC12EveHl2hR0ED8s6Hy883KIOxqZ66Wck5VVBY+URWA3sUS2Npawex1k7suCmTZzBVfZ057EDsCwcbhoDgFXc6yFsz/dGzKCHmfDpXXZcl+Xk8N7GtB1kMfnTcbOUjdrMOPrf+7C62r6ZvBNazyZMK5mg8j7+nI5V6ejdatDiCMmxDav5VRuxGuFCiajBfJt/VQHH2gZC9dg/SYv9seKuHCu2RnI/0uDcxGXJREtXn7A/n6cqic13w2aNzcnw5bOH8zJNlha9OD3265PVLZTSTdoOYAhpjc5dsWRTk/Y18AlKEZsp6/0YRjh0BHeq8JepCEvlEgpIDrVA==",
+  "URL": "https://gitlab.gnome.org/GNOME/libgnome-games-support",
+  "LICENSE": "GPL3",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1585308632",
+  "PACKAGER": "Jan Alexander Steffens (heftig) <jan.steffens@gmail.com>",
+  "PROVIDES": [
+    "libgnome-games-support-1.so=3-64"
+  ],
+  "DEPENDS": [
+    "libgee",
+    "gtk3"
+  ]
+}

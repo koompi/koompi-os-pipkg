@@ -1,0 +1,24 @@
+{
+  "FILENAME": "tinygo-0.13.1-1-x86_64.pkg.tar.zst",
+  "NAME": "tinygo",
+  "BASE": "tinygo",
+  "VERSION": "0.13.1-1",
+  "DESC": "Go compiler for small places. Microcontrollers, WebAssembly, and command-line tools. Based on LLVM.",
+  "CSIZE": "8563248",
+  "ISIZE": "225059787",
+  "MD5SUM": "9d63039c96bc69be681139f24370b880",
+  "SHA256SUM": "4329f61d72f86bb09ab5c0f9f4bf600f229570c171c7dddd1d9f0ae95774d503",
+  "PGPSIG": "iQIzBAABCAAdFiEEjhmSFnRl21+wRVV8sChU7XU+Dx8FAl6qXvYACgkQsChU7XU+Dx99JQ//cQWpcEWV0KP4RZncHhkjwQT9h7x6rRlYMibVGfdDCGwj+0PGjzNtcmOtFTSQOavoT/5Wv+idVCLQR06OcQMYellprc0fUnNSHnBKT0I4du2hwbJA5QwObTiewRBBV7QoAV5CzadE9qAvUck52pYaIRcUlaqfrMu3wQsg/Ur/VI+eU+OIsMmdZBUL/R5xkqgl57/E8spxuNG+dwm20FXxl2phgtcdn4hKigM4PmBfXqFeSbcPXrP02gyvhn4ecSUCIWt6iB6ip3HzC/Ue1IYUbe3Xz6OWnRDzXN0n0fNRBjNJLGRVxe2Jkk/LRpro+ao+GM8Xx8tCELVyT5rtTJfnMMQkIloIjROzKW/FcHaj705vrQhqJkiHmP1ZSpPzxEptvewXn5alXmOYdlFMI7zf+qDcoRMMeNraBkGMqhCt8FGSIUqQf4u/3eC5XQYMyi7p7U7lA0ekKJUmA0EwC2NEEO8/oY8XPrAoq4P2iROJA5ahkqVj1+qfqnZ6DGxY2X1QBagGWx0USH2lFMm7ryBA7yyVv7oyIY0bbpknkd0BEhCstfFZOJRZOP0WmJAN4yicGqmpWE0zCVymDEhehVP/M7N9LbLWearflaLQrbfvygdKGkrC4/H4OMgNqVy99eMPN6V5SLtq0rfn616ZqS9rD4KKqNOM1oQ6grVFKCvoKto=",
+  "URL": "https://github.com/tinygo-org/tinygo",
+  "LICENSE": "BSD",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1588223121",
+  "PACKAGER": "Anatol Pomozov <anatol.pomozov@gmail.com>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "llvm-libs",
+    "clang"
+  ]
+}

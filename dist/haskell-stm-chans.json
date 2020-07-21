@@ -1,0 +1,23 @@
+{
+  "FILENAME": "haskell-stm-chans-3.0.0.4-20-x86_64.pkg.tar.zst",
+  "NAME": "haskell-stm-chans",
+  "BASE": "haskell-stm-chans",
+  "VERSION": "3.0.0.4-20",
+  "DESC": "Additional types of channels for STM.",
+  "CSIZE": "38422",
+  "ISIZE": "222662",
+  "MD5SUM": "8fc2d4a76287ae54ee50c4a66614ab45",
+  "SHA256SUM": "833f38f9f17e43376ce40a729b4b71980d56e7d3ed5146c70b510ff89a3cc1ce",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl6hs24ACgkQeGxj8zDXy5Jypg/9FMIbEL07787s30rK4h/ZQm5rbgSNPMFq9Gt0Hjy1irHyLBxXcJaqFDfkCO6d/lIFhubeOQEeFSwefPIc7aJypJtfVRler7MSXAG/BYS0PWzbOyF2WGo+TzWATHqspMCXggA0cBrwJoTDPZezHSyJMqT+sBjOsA41JBYHiA7eZHWhp9Gy4krhf5ZpaMpmkuzPNULLHKVMOxejlSCpx9t0+wH4l0sKGUSLhf19G5oTCXbjbZUbYz6vsMAQ7pk1nTfDxoYqrgzsABNs5t4STC68J7kSQ3hA/cCMKEYjQhO8ymTfXBqqOszyK0RbWU2tb7YUm53VFoqD8xVug239fPKNPpJQ0NOxsOUz9osFjse0wh8PyefhBUzcj6tayNATPS8NjybEiG4QlXHOjNUcca5dSkbbU4l8yIAAS1yJy12neScD1zts128Q5+8x5S00Uf6YeWAG/rNBjhxAJQGZ19QMFoS2XE/uJq1kIkq3x7K5n+5X1/PfR/3Oe0L1O/pyUGvVZ68eCRW9LejnzZA0gIxTw6SIVLIRK+ZaS+EsjNX9MQMIcQB3Fulbrt+Nl4uNKRj5cw0M7LxQKau0pIEbjdy84LBn5hPlZLPAtAHBGhc8DF/yF10W6GwHzOdvps/twDcCjYOWj81O4l+QdI8oJd4h46ggj+2FhInkgqa5qKmOs/U=",
+  "URL": "http://code.haskell.org/~wren/",
+  "LICENSE": "BSD",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1587655444",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "ghc-libs"
+  ]
+}

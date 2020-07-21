@@ -1,0 +1,23 @@
+{
+  "FILENAME": "minizip-1:1.2.11-4-x86_64.pkg.tar.xz",
+  "NAME": "minizip",
+  "BASE": "zlib",
+  "VERSION": "1:1.2.11-4",
+  "DESC": "Mini zip and unzip based on zlib",
+  "CSIZE": "26812",
+  "ISIZE": "87647",
+  "MD5SUM": "14427f13ba9ce31d75248b8515f35c67",
+  "SHA256SUM": "938ab9d6effacdc0a04579dd7c54ce9426c54e358736cb15e31e3d8f59c0c485",
+  "PGPSIG": "iQEzBAABCAAdFiEEhs/8qRjPOvRxR1iAUeixSKmZnDQFAl3MRDoACgkQUeixSKmZnDS1Ngf9GwiNIB6ImNTvABvu+7SL96AOnygzJ6ckrZOC9+DAnh05gDBR2UvZCFdO58phvkTajlnUbL37wVOweyV/YBOJSHrm8ezCj+TWXWR2Ss6EX/xhx9PtXrestIkSgNhFwvoDT3gN7e1N4SuO008csXte79FpBdCxgPTKbAgItWdCK9QMdmIGoOLwMRx//U03JZvPXHXwkdfC7I2aioBqKtbF8LmdDbugq0NYL9IxSPLd+e73vY9bgKNwI4VYnXtPU0s9DjPz838afxdoK0cE5UMs8o3fsPKZ15S595J6E5KS+gBZkbcg6fAL+okWa/SJz5nACjeru7WPV2YPoSGjo+S9rQ==",
+  "URL": "https://www.zlib.net/",
+  "LICENSE": "custom",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1573667866",
+  "PACKAGER": "Evangelos Foutras <evangelos@foutrelis.com>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "zlib"
+  ]
+}

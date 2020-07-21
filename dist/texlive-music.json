@@ -1,0 +1,23 @@
+{
+  "FILENAME": "texlive-music-2020.54758-2-any.pkg.tar.zst",
+  "NAME": "texlive-music",
+  "BASE": "texlive-music",
+  "VERSION": "2020.54758-2",
+  "DESC": "TeX Live - Music typesetting packages",
+  "CSIZE": "15156865",
+  "ISIZE": "37839981",
+  "MD5SUM": "a437d8e3ee906a039061f68678d313c3",
+  "SHA256SUM": "432498cd50768452603b508aed546af34b557ae88532be74134c476e19da90a6",
+  "PGPSIG": "iQEzBAABCAAdFiEE5JnHn1PJalTlcv7hwGCGM3xQdz4FAl7j38kACgkQwGCGM3xQdz7xaAf9Frczv4msqnRu3iKeZLIZoC2Z/WUOoRSejWUV51AwYjPSLK3Add9l8zK6hOQqgeila97vFi/ZJkp3RLUW+iiJWVHy96f7KeOe3+lLwWe8R9klRkORIBQSFc8DjIVx0w2cRU53BmsOJWbQ/t+VpvFg3r8O6H47kEnRMDh2vCiMSJXxkdXRPE5DPaJ+heT09xD9MfjBHe1FSBRhBVYaauGb5gmPyW7ceLH6xl+0nVj5FeYQZFCqFJlueb9nPZPT6QU6yKE7/k/f6dthn3QAObcfi9eQa7Ijfi3YrLHjBRDwNhqncTJQhVGDwM9ivfmzVO0p0eDtul77oangiRSY3o6H7g==",
+  "URL": "http://tug.org/texlive/",
+  "LICENSE": "GPL",
+  "ARCH": "any",
+  "BUILDDATE": "1591991347",
+  "PACKAGER": "Jelle van der Waa <jelle@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "texlive-core"
+  ]
+}

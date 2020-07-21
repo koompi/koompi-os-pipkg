@@ -1,0 +1,23 @@
+{
+  "FILENAME": "react-native-debugger-0.11.3-2-any.pkg.tar.zst",
+  "NAME": "react-native-debugger",
+  "BASE": "react-native-debugger",
+  "VERSION": "0.11.3-2",
+  "DESC": "The standalone app for React Native Debugger, with React DevTools / Redux DevTools",
+  "CSIZE": "7252702",
+  "ISIZE": "40165936",
+  "MD5SUM": "5611880c0537bf9a6362ba6239424beb",
+  "SHA256SUM": "80d7f66b27e7a50dbb53391849c80d40be566f404653d825a6dacbf43587599a",
+  "PGPSIG": "iQEzBAABCAAdFiEEqbZxDXYPZhfFMHRuyEe2rrBUQWcFAl7SXPEACgkQyEe2rrBUQWfZPwf/TGekjz5SBEyxvW0o389xg2Y6Pg9P/Oc4Hxkgu2/FG5z+imXqJIF0qyQDPtj9WmPgaLFFcnmDheEqDctjI/Qnc3a+GFN0iVSV59u0B0rCXknFs2vOdE1aVZPdWsHMT7AtxeMX8iaSvoYEVL7925nzeeoLihdnl+yjEj+Us9gj99yDEWGpj2dr/tSGQODNk7Mg6+FN5awepWcRCSSeGnHwnzI8Uq2gnLAaeHPEa66Xl+jf9RYeHNXJrT+4a3Sxru1a6o2H9fQ9G24MFDH8Wx+WdokrsvTvpouCZPHdnRqfm+pMCFfNc7b8wRFmi4CLQiPD2ViOrEAcp3xPkdn3l6XvtA==",
+  "URL": "https://github.com/jhen0409/react-native-debugger",
+  "LICENSE": "MIT",
+  "ARCH": "any",
+  "BUILDDATE": "1590843906",
+  "PACKAGER": "Nicola Squartini <tensor5@gmail.com>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "electron"
+  ]
+}

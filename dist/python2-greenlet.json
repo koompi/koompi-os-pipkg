@@ -1,0 +1,23 @@
+{
+  "FILENAME": "python2-greenlet-0.4.16-1-x86_64.pkg.tar.zst",
+  "NAME": "python2-greenlet",
+  "BASE": "python-greenlet",
+  "VERSION": "0.4.16-1",
+  "DESC": "Lightweight in-process concurrent programming",
+  "CSIZE": "16231",
+  "ISIZE": "43195",
+  "MD5SUM": "0b661add77f9fb06050878ac371d9da4",
+  "SHA256SUM": "cbcb7ebca590f12b8597e736b1a3991fa1415c12f6ed3243e5c5661335437483",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl7ap8oACgkQeGxj8zDXy5ICCRAAnPE7a7lCpUR3A3h2M1PRuYYYJs27fvJMuSiZV4rMH4DurQyzBvS+MkDkngu5Cy91LiW1FK85IhxrqOXbldvjPp02m6pj/bwOvch4yf/Nc/Hu6cVS5531ZpJZRyYIBk2GmmlEHpjR+cKrwxbREvcQlD6lKnEjfmsK8n9E3hjhU+WoR39BIcb/Ndhge1ZWbMc9hErLOMDFcAzvtRSelj/Stfdh8vLUi5p2lmOph2ULuVd3Xk3kmY3o3Grzv6kjicXx8jlo/LC3SFj6CmrylZmsnS03s4zNSmJYXuwCoW2HJioNgxHfqaDMZel/i40VxQ7VeeE1vxo+TZYAP6aRi21W4HV4Cgc0O488HxVcGLAPsii1tD6xEAxpzvII5ERNro6TRF9Fy2s8WtUTAD911xI8rILg6kOiLJoaXEYvzJwiCFhvO3G05sjXw8bmw1aNlJOfbdvI9ZaNYttyQlx0THWnqxspqhTaE08q2A7WLHQNulmvHWSzrsPkBA3hOv1hvJ9u3dT0E+Bc4OA0MPXweLDp4pM1JlWfDu5b6sm0pmlj8xhuKp/baUv/vTSTWuCvt0M7VrwHJEV3UU7LABxEyJtNWmPUfrgXqVeAssonPyt2TqJsX8yjm3tbUltf2i2k6HSurFxRtFwuBaRuNnLZ5BNVPDfgreUcjYD3oLu5oqgNHPg=",
+  "URL": "https://pypi.org/project/greenlet/",
+  "LICENSE": "MIT",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1591388069",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "python2"
+  ]
+}

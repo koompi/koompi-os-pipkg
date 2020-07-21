@@ -1,0 +1,24 @@
+{
+  "FILENAME": "gambas3-gb-dbus-3.15.0-1-x86_64.pkg.tar.zst",
+  "NAME": "gambas3-gb-dbus",
+  "BASE": "gambas3",
+  "VERSION": "3.15.0-1",
+  "DESC": "DBUS component",
+  "CSIZE": "54091",
+  "ISIZE": "142229",
+  "MD5SUM": "8f141905b4092e5b3ab12fa7d5ce8452",
+  "SHA256SUM": "a65080bae70353c7ed6a101fa3f1a94645db89da5fe1afccaa47e0da48866fab",
+  "PGPSIG": "iQEzBAABCAAdFiEEU1+MAzlFDwVKTSgnBglqatHO3awFAl8C7RUACgkQBglqatHO3azA2wf/Q0xPu4gMZ+dqHbH3BNaiSHHGXZkesfe1d7ZAIb+f55XDBtcrSL5mZi6FIdWPLSAGhEzMoEGGYuuki2QHwWws2ezGR3wNnI88j1D9u+3ErClMJmGO6eX8MumAeGaDSMT1W0fW2dr4Zo95eeDqltu9uVLlnSn6WfQLvwo+vNh0stYP5vVoHDuX2iiSWpVS6IUWvS8jQ6BsjWL113Vzmbnn2Fdwz+/r7pvZTuQK1ClWqNRaBK9FehjC/XKQq8K5BqAdfdozyVBR2Gb3trLxqYPquQeD/xEBfQnrZ3aJQqf/6L+5116T7CFn0+Pq/ymGuk061EbTrMVaaWRY64PaSeYRXg==",
+  "URL": "http://gambas.sourceforge.net/",
+  "LICENSE": "GPL2",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1594026389",
+  "PACKAGER": "Laurent Carlier <lordheavym@gmail.com>",
+  "PROVIDES": [
+    "gambas3-gb-dbus-trayicon"
+  ],
+  "DEPENDS": [
+    "gambas3-gb-image",
+    "dbus"
+  ]
+}

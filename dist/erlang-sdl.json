@@ -1,0 +1,26 @@
+{
+  "FILENAME": "erlang-sdl-1.3.1-4-x86_64.pkg.tar.xz",
+  "NAME": "erlang-sdl",
+  "BASE": "erlang-sdl",
+  "VERSION": "1.3.1-4",
+  "DESC": "SDL and OpenGL bindings for Erlang",
+  "CSIZE": "230852",
+  "ISIZE": "758784",
+  "MD5SUM": "fa1c307c8fb634c798bc106f90cc0b33",
+  "SHA256SUM": "b97fe9588b071539f03532197c09792ab79f48524cf56d4323ef63846b8c7fd6",
+  "PGPSIG": "iQEzBAABCAAdFiEElihV8HLHoBhGQFhk/PPIy1z5yNQFAlxsJd4ACgkQ/PPIy1z5yNRl1gf+KRlTW0pyyUSiykHiYAxj79IGd/tt6P7Iw5QKdiS7RTKuR9Ly9JjvZRZiocrQoxdKijjVVJteqD8UTVsa5TzfgmNWEsSUja1zh1qRHAOusG9w5se91KPlYZ8gewTm+Fg6/MfxgEWo32n3Vv5elBLeaqz5kilppS5MbWQ7VY+o+mu4D0cL2obyxzEmzHqHf4Eh60VKUvDr9edO6YHs8dEU63Xuv6sZhBannfO3izyc3VOp1jLwEheWHdccMfD1HSnRN0ZySMIzdx1f3bYIeD+iSRjtJq1GXOWwK0pyBUQ5GyYRyPc2mAIw59qAS8IQVhcTV9ujZC2XGLC7qkXS9MMHbg==",
+  "URL": "https://github.com/dgud/esdl/",
+  "LICENSE": "custom",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1550591423",
+  "PACKAGER": "Alexander Rødseth <rodseth@gmail.com>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "erlang",
+    "glu",
+    "libgl",
+    "sdl"
+  ]
+}

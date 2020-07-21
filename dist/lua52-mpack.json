@@ -1,0 +1,24 @@
+{
+  "FILENAME": "lua52-mpack-1.0.8-1-x86_64.pkg.tar.xz",
+  "NAME": "lua52-mpack",
+  "BASE": "lua-mpack",
+  "VERSION": "1.0.8-1",
+  "DESC": "Simple implementation of msgpack in C Lua 5.2",
+  "CSIZE": "11880",
+  "ISIZE": "32768",
+  "MD5SUM": "efe8fc199f2a59558022d1550d35688f",
+  "SHA256SUM": "804d0e82e16472b7cfc014da8302951f60a735bca459f6668e1ff395f2b323c0",
+  "PGPSIG": "iQIzBAABCAAdFiEEj8FaBklQqZ3RvRTdOeS4d+YuuRUFAl0hSREACgkQOeS4d+YuuRXiLRAAhk3rGIye3yMuaZKZ4Kt9c3DnAAzOUm5J1T7wulAwcZFWbBLeumb0hExpsthcEizocEEMcgrgXha/QfBlOmBM3WVevpy2iFzf9XnqfBRS+2/4Jws+6yadZC+CrG9iJlId0EvTTkY9T4GaN9Qg5FewCbRk+P9bb/wMSIVV3+ZWMApsC6ThdrUBuHNuXr0vY5Z7Ltbh9tuIhkeOsfgCwieutfy9iciIsj+dEEIMBWef858WnbDUxmdB2Stv8aEj+nmlrO3TDNHywNHZiSgiVVgt8vlxPHNx1XkkAsEiTiP+ytfkG8mtOQ3gjrOJZpq0QEXLNBkjKoFAw6OFg93Z2wLE5FiHIT7sJ08NCd7Vqz1FBHtUAtQ8D6/8lSr8JbIxuX5WU9dUtlPemlOSAQWBgQ3kv5V0cSXG5PNDD9xwRn+wj2P9CITxmk20aDuJZ02FsT8sY1xLLA7jbIUT+6XjUYDGhSjgZJy9WG2eUHlTaf5F2RBF537DruPdCNoybJ5sgaLqGNGCVKOwFfTt2jEZ2e0MMyUn7XvSqfWSqFyXakN3/B+FiFXDNv8IJoocIfLQdkX6ijW3pndfg+FLLSdfypCSLknbtZ9KVmt+W9BmhZ+fu2lAtweFbX6/k8832H7BjKtNwuDDXRHoC15HxKaxS3NcbTVA9rEeIBqGE7Ty4misguk=",
+  "URL": "https://github.com/libmpack/libmpack-lua",
+  "LICENSE": "MIT",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1562462423",
+  "PACKAGER": "Sven-Hendrik Haase <svenstaro@gmail.com>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "libmpack",
+    "lua52"
+  ]
+}

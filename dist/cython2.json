@@ -1,0 +1,23 @@
+{
+  "FILENAME": "cython2-0.29.21-1-x86_64.pkg.tar.zst",
+  "NAME": "cython2",
+  "BASE": "cython",
+  "VERSION": "0.29.21-1",
+  "DESC": "C-Extensions for Python",
+  "CSIZE": "1993976",
+  "ISIZE": "9118310",
+  "MD5SUM": "d4007297b948d7346fac02c83692eda3",
+  "SHA256SUM": "c25435c69d684180a585ec30aaa43a727f7f7ca9c8674f3fdf205358c3c53436",
+  "PGPSIG": "iQEzBAABCAAdFiEEFRnVq6Zb9vwrc8dWek52CV2KUuQFAl8GtrMACgkQek52CV2KUuTYGAf9H23asEP5kG7Waw+MYnwf6pDhM/2J6b5FTA0PEdLxVTESmv+Nz0R9DKPytKEaX8K10DXU3QwFSD5q+SJzf6ndfjNM0VYISqFv+bM5Qf3feB88OqncHdTa1eDk7vK566mTOFbz/lL9mtfHMBh9Mm1YXUoBQ7KeL6qtftGqAR1nknPYjjoVM0wtvW3Hh72Lmct/lE1n6X3M3UgpAqvXo8mYwcegh8HuAUlr7ImgHk8P+GEbp1mXHZ/ys7boAVZNoPWYbsYmBcgFLPbgo9dPgQacf5JU5j1DK8sKUfosYl6V262WNE2yPU9uJS+QXnRSGQ9b2hdVVom18bIdSHy4woB2ZA==",
+  "URL": "https://cython.org",
+  "LICENSE": "APACHE",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1594275317",
+  "PACKAGER": "Antonio Rojas <arojas@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "python2-setuptools"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "FILENAME": "python-compiler-1.1-1-any.pkg.tar.zst",
+  "NAME": "python-compiler",
+  "BASE": "python-compiler",
+  "VERSION": "1.1-1",
+  "DESC": "The compiler package from Python 2, ported to Python 3",
+  "CSIZE": "71560",
+  "ISIZE": "330498",
+  "MD5SUM": "99cad0e1c49dabecdeb12cddad38c3ee",
+  "SHA256SUM": "4747da87143806a19ba30aca21ab613c3b576dc280dc6bed264258820154ce89",
+  "PGPSIG": "iQEzBAABCAAdFiEElihV8HLHoBhGQFhk/PPIy1z5yNQFAl4hjvMACgkQ/PPIy1z5yNQZvQgAhSrGX3O4H6YnnXKus7qaqqWIjkUcTQs+ZI1tqjcwUKdBgsInNM+TrbcUgmycgTtZQdMgAUYjengVU6yz4kSlJMQjpE2MfyEEwJ2aCDURTqLzlWoCo62VnRkqli2W4tLdfec7U+bGTDbwdYNRmwmXQgAfOEv9KM1PV8g7ghKY8wBY8p5AR6uVf8ZYPkSq7FoRviL9KL3JfXd/AajFn6XFFQaJgXUdMg70KUB/pixFBv1xoC+ToYz0YzD8N7dZUZc02AJj1vhAZvOvKjlqwSZtT40WMZaSbRQWYlTuaJORAmeLYklIIdIK9M9tRFV7YADLCJcOw9usDwB6L1kFZCiKFg==",
+  "URL": "https://github.com/pfalcon/python-compiler",
+  "LICENSE": "custom",
+  "ARCH": "any",
+  "BUILDDATE": "1579257160",
+  "PACKAGER": "Alexander Rødseth <rodseth@gmail.com>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    ""
+  ]
+}

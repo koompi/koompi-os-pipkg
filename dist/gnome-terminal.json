@@ -1,0 +1,24 @@
+{
+  "FILENAME": "gnome-terminal-3.36.2-1-x86_64.pkg.tar.zst",
+  "NAME": "gnome-terminal",
+  "BASE": "gnome-terminal",
+  "VERSION": "3.36.2-1",
+  "DESC": "The GNOME Terminal Emulator",
+  "CSIZE": "1186662",
+  "ISIZE": "7589026",
+  "MD5SUM": "39ced4ff9a8fde2b6b28fd3cc5313d05",
+  "SHA256SUM": "7963b201bc1a2a5496675cab3866091fbf2a2e89d0776e6b382b9b34fc5b5ad9",
+  "PGPSIG": "iQEzBAABCAAdFiEEghj4iEmqxSLpTPRwpekojE+kFfoFAl6kogcACgkQpekojE+kFfqkHgf+NiTYHZTgLYrSSrxianxrodU/U1qk04jMYZZtmgZESNBGdGPoJ5Qn/V0Jnluf+AXWUeSTBCuq4oXOB/+G1/jNRQzA/WF33uJdUrIWmBqvxx+Qn+Es2bS5aJu26kkBkkkJjRrr2eT2j75MLcw0BWKyD9KTS7nAPrslMQr+1vHuxQFGMQBnAaWlwFRZYuqORI1B/cGMNo1AFOWM9Uor5IE8dw7HsVEtjdbNkOGUdvKf0vy4Ogn8KvZL1CfadBeAFmxSbkQN05Z+RU1eM8NszxfXRyT5E79bbOEqDLr+GH2ZXCcx241dudE7CrxsApNjOX99PvzTmpH4bkaLzU+bVx0uqw==",
+  "URL": "https://wiki.gnome.org/Apps/Terminal",
+  "LICENSE": "GPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1587847567",
+  "PACKAGER": "Jan Alexander Steffens (heftig) <jan.steffens@gmail.com>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "vte3>=0.60.0",
+    "gsettings-desktop-schemas"
+  ]
+}

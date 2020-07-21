@@ -1,0 +1,25 @@
+{
+  "FILENAME": "python-click-repl-0.1.6-2-any.pkg.tar.xz",
+  "NAME": "python-click-repl",
+  "BASE": "python-click-repl",
+  "VERSION": "0.1.6-2",
+  "DESC": "Subcommand REPL for click apps",
+  "CSIZE": "11288",
+  "ISIZE": "27903",
+  "MD5SUM": "b549fe576ef11c45fce6cb9283677c39",
+  "SHA256SUM": "055d42e4096c13a61dde7fea3246e67792d7d953f217ec3f874bc351877f22de",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl2/8SEACgkQeGxj8zDXy5IHKhAAjHx4I+Rf8zdMac44X8LfsTb3RvZMwy0f2Hta020GU+EW9kEg657TG5Nb1tougYcI0ypQqphlSA/rsWkobJwfqwfNh86vnLdSnBfnXpzP48ITiKa4AcKuDcBaIHp5reVvtDsQebUvPa3nNgoI9rljxZ5jDSzvtPEaGE0mhyzOlGKddvRT9v+UXIe9N+U4bMNq0NTMgWyv2/AJM3xt06dVkjqleZCwB4DlPVfbI15ueScDS05FnkOecTWGs7BBqC3QJKYc4F/uikIYagKpLQC3Pb1Vco5BQzTf6zBsahaz7w/YPWKXe5PG5q3hhfOhcFHFI/cULWSW+GqZftz5BA+lVfWeIYCwRugQTxYZBuGpsUzeCb3+LLvIZoiAW3lCP6krm9uQubOQaXwehJloh71fzlu+2VHVuHk/pVH+UFocNjgZsIhv/eFez8n2pxI2PLmG/9ADfMsoKdXlhVnQ+9iXChjGfpuUhWaPJpOIQWpFKsZSneVu1bxwZXt701oBnXU9gPlIuWwYpWpRsj2AT+awyqmwGQnEZc6BOWkQsRFh9t156LJnPT+2/SZA2/+Zs1Qjn8Wg+xJiBuvY9/ualCqFx/jpow5pMnsiY9CYmW4zReFdNzXNCizO6+3D0mbisGUVh+gmYHAMA9OMPw+1eCU5J8sHxEQb0reKFytFb4zWp+k=",
+  "URL": "https://github.com/click-contrib/click-repl",
+  "LICENSE": "MIT",
+  "ARCH": "any",
+  "BUILDDATE": "1572860151",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "python-click",
+    "python-prompt_toolkit",
+    "python-six"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "FILENAME": "python2-psutil-5.7.0-1-x86_64.pkg.tar.zst",
+  "NAME": "python2-psutil",
+  "BASE": "python-psutil",
+  "VERSION": "5.7.0-1",
+  "DESC": "A cross-platform process and system utilities module for Python2",
+  "CSIZE": "341102",
+  "ISIZE": "2315135",
+  "MD5SUM": "eefde3a91a53a178c6c4833c72da1f00",
+  "SHA256SUM": "649cd0a986aaa7669dde8f5ff4b5044d97ef89ce5a1ae264142a22dce1240053",
+  "PGPSIG": "iQEzBAABCAAdFiEE5JnHn1PJalTlcv7hwGCGM3xQdz4FAl5RkqIACgkQwGCGM3xQdz7rmQf+N+G1SqYVJPlyzm7wm/QJy2V8HlH8vZfL4dZvnwqwD0QTkILxcDa6okQKw6sWWpw0cK6XGBQhSRc9omSc+yxQFliHmAvfCoBzYQdeMItZ+6VaNIg2CGe6hJWkx+qAO3KY6qztC2oIbC2DOvdv+ej8umwzrQ1Kdv2jTxXBaI15h4+tWkB2jR1x1/zwuaAB7dsDORbTWMbQWJT5nNA3Ynhc7GssY8nvXsq10c4j9GL2odJ0XRjMInpUnvBI9OdP20z/DahyvvBRb1i3I7LzY6dlA+64ruEpNC+3VKychn64veydc2P+97ULiDOPaskLEYCm0wq0ncgm9FIGrAkoYOh8Lw==",
+  "URL": "https://github.com/giampaolo/psutil",
+  "LICENSE": "custom: BSD",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1582403906",
+  "PACKAGER": "Jelle van der Waa <jelle@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "python2"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "FILENAME": "firefox-developer-edition-i18n-vi-79.0b6-1-any.pkg.tar.zst",
+  "NAME": "firefox-developer-edition-i18n-vi",
+  "BASE": "firefox-developer-edition-i18n",
+  "VERSION": "79.0b6-1",
+  "DESC": "Vietnamese language pack for Firefox Developer Edition",
+  "CSIZE": "537259",
+  "ISIZE": "599746",
+  "MD5SUM": "17be3526b1af17522c8455d4c917bc80",
+  "SHA256SUM": "9c90de4e438d1ab49ccc90a780e1169543663970bbcbd220a6dd1ce23f5aa955",
+  "PGPSIG": "iQEzBAABCAAdFiEEYB8g8dG7v0p4z1tt9rFhCz7NvJ8FAl8IbNMACgkQ9rFhCz7NvJ8L6Af/UAw2nnPYGIcJfUx4EZoGonftrnRBaEYhUc5t5qGL/FyrodhLmEJ2nWbTDeURv1PU76bSfJSAlPb4Gc3/GaEVG98ko8pvblRmmZyuyo7VD84W1yTncj1agF2wb2q/fJG9z2Bclpgd508WIF6ZW27Iq9Icj8XmsXtjKftH94gx2zOnsNk9YmP/rq2jJZf9vB16HDj5PRuK/hRrc+10LX9hRBuXcq7G6MpOcG/HcNDHFdrZSkbX+ylotR+dIiS82aD8dqMPCl3hNCvlohMNe2bYCxYcp/j+VQgphNqETjLlhqFCYOe0eHw96QkBj+1WoThCwsHrSCQRDLIrZghV2RJUfg==",
+  "URL": "https://www.mozilla.com/",
+  "LICENSE": "MPL",
+  "ARCH": "any",
+  "BUILDDATE": "1594387381",
+  "PACKAGER": "Andrew Crerar <andrew@crerar.io>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "firefox-developer-edition>=79.0b6"
+  ]
+}

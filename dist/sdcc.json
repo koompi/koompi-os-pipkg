@@ -1,0 +1,25 @@
+{
+  "FILENAME": "sdcc-4.0.0-1-x86_64.pkg.tar.zst",
+  "NAME": "sdcc",
+  "BASE": "sdcc",
+  "VERSION": "4.0.0-1",
+  "DESC": "Retargettable ANSI C compiler (Intel 8051, Maxim 80DS390, Zilog Z80 and the Motorola 68HC08)",
+  "CSIZE": "7045453",
+  "ISIZE": "306809087",
+  "MD5SUM": "405ba8abb53b2a653a0abd2781e0b6be",
+  "SHA256SUM": "44629dced2ed8a5b8bf8411c970c3e570a9277caebff7703a9ee137f36bb3bc9",
+  "PGPSIG": "iQEzBAABCAAdFiEESMOx8w3dD+Z+UW0WOW4+JbqxQsEFAl5g9b4ACgkQOW4+JbqxQsFbEggAjgD9/AiddqlS10ANjVTSthmwIY5M8W/OkwINx52FmqoAzfe7azl0TOkz2jP4U6tVv90USqpnN3nWlktBGDSjHjS3ZKfh1IMYqDM2DqlXAD5kOoJVglc2PDQ3P3XEy1hY/fkv+rstqStlXOfdGK8XyUUYjgok6wAYqiS7uj+sveBvfQsIeGpe9DGRmU61h02cuXG4fdhUQOITkhPeOMbzPtdMRQJnB9EsryXHCnScn1VJ6NP27ruT5RP7XU9pwEWupLCk4GqpTCDQZTHinHJLs69LW4WPgd25jajyG9yP54cfRHv6aaL2QTQRKUqBQrTCx5ENXu2LIKMymsy4NwQRNw==",
+  "URL": "http://sdcc.sourceforge.net/",
+  "LICENSE": "GPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1583414446",
+  "PACKAGER": "Kyle Keen <keenerd@gmail.com>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "bash",
+    "gcc-libs",
+    "boost-libs"
+  ]
+}

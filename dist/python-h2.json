@@ -1,0 +1,24 @@
+{
+  "FILENAME": "python-h2-3.2.0-2-any.pkg.tar.zst",
+  "NAME": "python-h2",
+  "BASE": "python-h2",
+  "VERSION": "3.2.0-2",
+  "DESC": "HTTP/2 State-Machine based protocol implementation",
+  "CSIZE": "88471",
+  "ISIZE": "582916",
+  "MD5SUM": "6743ac0b2a66c79d3a412c581eae9459",
+  "SHA256SUM": "4b23ba989862975a59d39b9364286a723a904511515c0c4ba402d223c2ed48f1",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl5W7HkACgkQeGxj8zDXy5I9cA//RL7LsbhwFGX2i2jQ+JIix1kmFOkpmRlewrROgrLQP4EiyYofCO9RY9QX/HipfibyBEbIt7tgIsYLdAKVOGXC3J3vJmHN2cakJmri+oDEKweEoeU9CXn8BOUEul1dddmqPRdgmyIGx8KWN6enxmi80+88o72P6ex5NL8v8oOqRdYPo77ORhlwOMugaw2ItCWR8fmMbvsWBLJo5GkN91wySNUNkJbAbe+QueUdwmU8lsSf6Dy+h/OUSSkjh0aLp7p9P0hoo2Q98svTvTGL0NTlfrQulqP4+S+PzhaxcNK6AUO31aVRvncVrnCKKAfvbiX2c8uCsYiwRFb5V8fP+xGPerLtmByB7jv/xgOcMR1WHwygWF256/MJ270wG75DJwpASEgnbhB1YgbfQ5KDlBOIrxz7/vdv0zPl3bNI6J9vJ8KJhrXThXOs8Th7d5zvLyHJ1386N1EKARZzv4a+u0F7xrYM5hU8qjkviadWyFZWOrpFXAJ8fK3RaEflKHAvvljpk8J1SNbxC8xrRycORPVH0mVj8BAhwKYh54ly/f4wtWXRBZLziyUKLu3PdyphFSvciyK5VZjpKIuOsscY2pkNiyqmS4jJmk+rUMMeOvcfHMS9m9DGe1WMmK21o6mybj2144+NSa11EtlvSz+cq0tldNSG7SoKi1MaqdcxmT6PBSo=",
+  "URL": "https://hyper.rtfd.org",
+  "LICENSE": "MIT",
+  "ARCH": "any",
+  "BUILDDATE": "1582754785",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "python-hpack",
+    "python-hyperframe"
+  ]
+}

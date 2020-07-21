@@ -1,0 +1,31 @@
+{
+  "FILENAME": "xorg-server-xwayland-1.20.8-2-x86_64.pkg.tar.zst",
+  "NAME": "xorg-server-xwayland",
+  "BASE": "xorg-server",
+  "VERSION": "1.20.8-2",
+  "DESC": "run X clients under wayland",
+  "CSIZE": "864417",
+  "ISIZE": "2143951",
+  "MD5SUM": "77fd352c354e67aee802771ceea1aef2",
+  "SHA256SUM": "1b8e9494852e39cc091a1db857ea4b17abe5f2d442d27a62f3ce5ddf556470df",
+  "PGPSIG": "iQEzBAABCAAdFiEEhs/8qRjPOvRxR1iAUeixSKmZnDQFAl6w9VIACgkQUeixSKmZnDSqDAf/SqX3M6U2lXqlKbuIqIsEUdZQpweodZZoL4o6ZOW7o5xgAkeWRh/UTtUQB7UnANQN7NAD90ah70M3Rf4zgAVEWGQeLFB1prAFd5AGOH57k2+amDvvct5fzAKvntnn7CxJP9rOECelLwzTJY84TDqXVI1izeF+JwvPssZkWHsNie7hnXwomlfoY2itU97dQq/3HrcdH1WWm81c4YrJO/OCbUTn1AFfjRJpdXeTGtuQs7W8Fv2K5TCifH1MWX6ZmHeUaVu6rlmygn8DFs6iIkVv1QrmqLzTf0/sijesevm26B6/h/VerTTOHHHvWklSBgELNZNQ7ZiSpmbpJ8U8h8RPMQ==",
+  "URL": "https://xorg.freedesktop.org",
+  "LICENSE": "custom",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1588655297",
+  "PACKAGER": "Evangelos Foutras <evangelos@foutrelis.com>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "libxfont2",
+    "libepoxy",
+    "libunwind",
+    "systemd-libs",
+    "libgl",
+    "pixman",
+    "xorg-server-common",
+    "nettle",
+    "libtirpc"
+  ]
+}

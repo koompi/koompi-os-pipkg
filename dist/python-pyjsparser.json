@@ -1,0 +1,23 @@
+{
+  "FILENAME": "python-pyjsparser-2.7.1-4-any.pkg.tar.zst",
+  "NAME": "python-pyjsparser",
+  "BASE": "python-pyjsparser",
+  "VERSION": "2.7.1-4",
+  "DESC": "Fast javascript parser (based on esprima.js)",
+  "CSIZE": "55369",
+  "ISIZE": "302411",
+  "MD5SUM": "3f96f1bf0c38c1716104e51dbbc09fc8",
+  "SHA256SUM": "2d84d5f80cb209373fbef5e4ad45f83d98138b1a3b4562f8914dd4ba638adb11",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl5k2zsACgkQeGxj8zDXy5LcPg/+LseVU7GKATozeHVq3rchxqrGDvI12OsEvFdSa1MhLnhCRnqEtfTt2BXwVzIul6XJgNmAAd3Wtih9E/jJyiYbm+Onu6SYEQ5fYRV2XZ5Hrjb8kgRs9jAuw2p4Ht3AALXT3c4d/z/DfO8wP3tV48JtznVj+JaD9f5t0wkGTrsx5ZV1mXye5l3D0ZiWnorSW9oR5WNPVfi+UUQz+kO66IvC/pXgrpBT5Mslf3uRp6ZaqLnX+rPg6BjmTiqkzYifQs0wn43gbd2y58NfSTW6q0YLbY+7Pft37iAsikdllteOpmUMqb8I6a2SiEdXQ1nZCEeC6EGjyDfrFmnlUGKC21yZs5YhJHGJKthv8AmELH2jp9XdMzinXWVzhaIu4rAawehy67A5mTyLjGEsdJ6KVGQkinOuEFDiUjU0O83rKbxiLe2pNMdt3T1nTBh2z9tmPbGEOVhGh4+ncJA/1m85SExlvDyq/QrKGIwX+T7shrcfLEagYXLib1vy9SLQhlN1isHG069G8XygcNg2+3FJ52Xa2c1WduGORuZL2rGq350vmULDTXLRNCY2N9w3VdLwile2mODcgcfBfUfEuPJUVPOo0JtxYhGJCASzllvx1WRCRpknOhgKnhOff/WQiktyagZg8o3qi9nLi2zY3x0l6ISwDrUkc43ubnCQifCxNk6+5hE=",
+  "URL": "https://github.com/PiotrDabkowski/pyjsparser",
+  "LICENSE": "MIT",
+  "ARCH": "any",
+  "BUILDDATE": "1583667996",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "python"
+  ]
+}

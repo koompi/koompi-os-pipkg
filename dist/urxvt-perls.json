@@ -1,0 +1,25 @@
+{
+  "FILENAME": "urxvt-perls-2.3-1-any.pkg.tar.xz",
+  "NAME": "urxvt-perls",
+  "BASE": "urxvt-perls",
+  "VERSION": "2.3-1",
+  "DESC": "URL and Mouseless text selection for rxvt-unicode",
+  "CSIZE": "9144",
+  "ISIZE": "28188",
+  "MD5SUM": "ba76eff1490bb5f3c74fc87cba0e9537",
+  "SHA256SUM": "d461f9ef0176ee9444666b1dc397fce6b8db0810fe77a055021a45135da4e905",
+  "PGPSIG": "iQEzBAABCAAdFiEEh0L3U157OUobBIFjMyycQPQNIHIFAl3svcMACgkQMyycQPQNIHKLWgf/S2CP0tvODpMf29Hc4IAkh3agUFyLX83p19moFONNns2fh19t9YTq9dOA2L1hLUm3DNE2m9orh0CUo7JCFzMvSQeo8XoqaxgoRg7q4qa5hkvGLuEOv9tYSSeZzkIcTc34tycj8yBqyvvzHA1Uyc4X7kZBtHoD1CpgubN9jeI/CWSpo1oQRB+17wwki+VzvY7UwhDtsl1opmmg42281hSrlyzOqcNHAfxtfkfX/bFJ9lhkv6wv0WWMyPvNFC7tbPMQlcCBt7NHrvH4ZOXEVxqVLv4TOGzsHXYggxXILjGncbn2CMkF8g6Ftm+J4pFhiVc7osRSrCWZnmmONJFMpvcDVg==",
+  "URL": "https://www.github.com/muennich/urxvt-perls",
+  "LICENSE": "GPL2",
+  "ARCH": "any",
+  "BUILDDATE": "1575795850",
+  "PACKAGER": "Jonathan Steel <jsteel@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "rxvt-unicode",
+    "perl",
+    "xsel"
+  ]
+}

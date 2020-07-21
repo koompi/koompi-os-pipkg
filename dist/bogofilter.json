@@ -1,0 +1,25 @@
+{
+  "FILENAME": "bogofilter-1.2.5-2-x86_64.pkg.tar.zst",
+  "NAME": "bogofilter",
+  "BASE": "bogofilter",
+  "VERSION": "1.2.5-2",
+  "DESC": "A fast Bayesian spam filtering tool",
+  "CSIZE": "241509",
+  "ISIZE": "931803",
+  "MD5SUM": "31f03f2d55bfa9c614097d3eaf7f7c5b",
+  "SHA256SUM": "1a5caeea6e8b50d75b57ea7e4dd59ca26b06d5e0327ff5601a5dd880430cee9d",
+  "PGPSIG": "iQEzBAABCAAdFiEEhs/8qRjPOvRxR1iAUeixSKmZnDQFAl6/7j0ACgkQUeixSKmZnDQOEAgAiId6JP9hfQv4sNu9YbrQ8xCEHEBKHc1Q+mPN/VaeoLAJmJWIrdyY50Oc5W6o+3nFnbecaa1D5Bn5B+Hly6IWc2z0lVo5urfAwmjl2D4H8AXQNDpZoY/KqqMWSvN3bnYMa+BCv5ZdCbEqYLLgKuighUV91BCZy4S77GfnAAo2wuGpZQXEhxwd+bN5ghzSWZH6BQRdJyxuLZOqtzgNviEHz7F9fXWxiTh7LcVRTnIsg3PK3Oma44eo0SsHWjtMUGwZKu/VgsEaOLW/7Exb4vHgSsuSRJ3uwfvb+s3VWr0agal/kFkxu87T2lFVnYIjGIbTR9GdLSYLqca8RXa3y2N/uQ==",
+  "URL": "https://bogofilter.sourceforge.io/",
+  "LICENSE": "GPL3",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1589636593",
+  "PACKAGER": "Evangelos Foutras <evangelos@foutrelis.com>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "db",
+    "perl",
+    "gsl"
+  ]
+}

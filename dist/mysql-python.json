@@ -1,0 +1,24 @@
+{
+  "FILENAME": "mysql-python-1.2.5-4-x86_64.pkg.tar.zst",
+  "NAME": "mysql-python",
+  "BASE": "mysql-python",
+  "VERSION": "1.2.5-4",
+  "DESC": "MySQL support for Python",
+  "CSIZE": "61122",
+  "ISIZE": "280193",
+  "MD5SUM": "f8a02a616a36afb424a65c99cabeb59d",
+  "SHA256SUM": "8d139786f2dcd5516c0fca5156ba0b675d5d75cd5afdc7a0242263177211012e",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl6/yrwACgkQeGxj8zDXy5KA7hAAl30e2qaQYm4KMwNGHI7Hgct09btHcpGTI1GDKilWHRcs4SCEde/vjxncoZa4sB7N2/TjppHrg6Zjw39mj7fSXnRCqWHSgQo48NJ6EdyxFvwbcS+2ck7Vw2Wfhh9V6rCamRGMFg22Ko+bx1O04j6ZOLPUTTcojnKvOb8RuuYN9CdGOVeAFQlOfwQLkCjVqmEk+mU5IyXJdhpX7K4nteqhr7g+f+cJrfWkMOW7mivNoaad3NpA4AHx9u8rZsnSPRSCuNkjLBuaypD0PgtfR3QIWWrt0+cr5Domx7c8fL/Cj2ZAbvOs5fzMgMQQr5TLuCzMYOwUdlosCsFTxBKOv7bnesQhUHOByZ3Ok1s37UPCH/T95psEkZh86yuOa6lzTW88/vGFqRP5xpXT5yZsw7skLE3f4BQZZmuEoCtOARgJhyKEFPqidON0g83IUgRyikPngDnBRy63wSAXg0cOWXtDpwoIkYvnTwMkjo43Xt9ENOViYY0rkmtZap2/buT6z39RiaafoYg1arClHuY8/lFPOrP9kKdUdETJl/IFS4rfpqgDITMxFxY3GZlfi+rGOrreA558BbsU9GhHFPonoQ3jSQjKZ38VKeffOg0N6lzQp+qm4gpaB24C2NvjouF9ou/zGgA8lIOeNyoRb+Rcb4l2+za3ERehjlh3LyAUjX1xJWE=",
+  "URL": "http://mysql-python.sourceforge.net/",
+  "LICENSE": "GPL2",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1589627568",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "python2",
+    "mariadb-libs"
+  ]
+}

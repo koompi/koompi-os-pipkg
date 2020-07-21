@@ -1,0 +1,23 @@
+{
+  "FILENAME": "libreoffice-still-km-6.3.6-1-any.pkg.tar.zst",
+  "NAME": "libreoffice-still-km",
+  "BASE": "libreoffice-still-i18n",
+  "VERSION": "6.3.6-1",
+  "DESC": "Khmer (Cambodia) language pack for LibreOffice still",
+  "CSIZE": "2341658",
+  "ISIZE": "26597139",
+  "MD5SUM": "cdca9cfe9bf2e4bb37cea73cff3e35e0",
+  "SHA256SUM": "f2e6e7ee45bb9ee5dd01971b95407c749378371c259464b75cf89b9131d353e7",
+  "PGPSIG": "iQEzBAABCAAdFiEErcih/MFeAdRTEEGelGV6sg8qCSsFAl6tStQACgkQlGV6sg8qCStwSgf8DWkh+7r1Vpv6Us806UpZDAQ7LLEwOGnrYZlj5KgkawYJ0p2Tqy+o2IDpKSKrxWj/mlKSwcsvqgmBnVUSU6cccsT4FZGyqerGf5PM3x+YFtJLzxAMFQVzGS5SdJ5pOBoLmmys6ilXAgKfMW/0fUStAJdzfxqn8MH65hzQPB/KHKrxIQX1jdyh86o/wPOkeP+GGXYRC5t2+ru+5jSx+7UZJ6ImnDvR8qStrZ1danTQbNpW2jku+pysktv7yhaN5952CXBQeriKTkoUKpqzLlKJtIcRfnzylMP5+MJKU5dv8XvG2AIZUWUqHv3WNBhrpemSPSalASNK147D7fnB+wSHvg==",
+  "URL": "https://www.documentfoundation.org",
+  "LICENSE": "LGPL",
+  "ARCH": "any",
+  "BUILDDATE": "1588407321",
+  "PACKAGER": "Andreas Radke <andyrtr@archlinux.org>",
+  "PROVIDES": [
+    "libreoffice-km"
+  ],
+  "DEPENDS": [
+    "libreoffice-still"
+  ]
+}

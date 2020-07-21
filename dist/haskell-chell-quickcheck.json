@@ -1,0 +1,26 @@
+{
+  "FILENAME": "haskell-chell-quickcheck-0.2.5.2-41-x86_64.pkg.tar.zst",
+  "NAME": "haskell-chell-quickcheck",
+  "BASE": "haskell-chell-quickcheck",
+  "VERSION": "0.2.5.2-41",
+  "DESC": "QuickCheck support for the Chell testing library",
+  "CSIZE": "12260",
+  "ISIZE": "29550",
+  "MD5SUM": "408f0f837b42a64fd65a8018b77bf05c",
+  "SHA256SUM": "35866193352cc4b3392bbc084ce934e811ffdd5667c68a8e05c53bfd0db7aadb",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl75AiUACgkQeGxj8zDXy5LqJhAAnsyfvBKBL1ItK+Un+YtzYQoW3iMs+kQNVg1TVQKxFxutGnfyj24OGgaaB2CsoYmfuHnkYWV3JXOLRuMQ819wrx2QCefCiaDZFs1Jtnr2ejBk8vCmaFAZhiLtyVLG4Voh3BASJ+qW09fwkhraHphUtahjMG5mG+S3mzVk1sBOljUDuSx5o2Is/PcfbeNRMrYBubGDw3UVQoOjWn22wLyhDydmODCt6XYWwfKOeVsJrjZGSBtg7CebaOI964KHJe/y7KYLl/WXZEtEMaQNkTl4OlVdoKbCZWJzsmPdZIPxv5z8sxrR4gCGtPG3JqnR3D85B5LbiFuweib7HeFhhtw51gArLaAq4Ad69uCoPbIAkosYnhShzYAiZrVh/3C+2nyaATe9kZZpMeHJyc1pgHaHY+6EHyijHIR2n225tce0TB19BNX1w7VVe9PG1uuQzQxkKNA70UwES4kpRagZ22Zviu3Jpg3/QXPBNmCm2Ty83ukVkq6Bpo8RyigzcyIRR+W+1y9yNLba2pafNPgoQ67Crs7dZthGp6LodHRvrzCApyNKBXvL8pLxJbrMOZrg/2GVLCWvhdnTZY2WNd5J+MWnvvTsfTDJLniMAt7ZO0tbHatZQ8w5sgKV0DHObVZRH+h72St5OUZ2usJuJyiUjJG8gf8H6OqnkJbvIpyJ26k5Ge8=",
+  "URL": "https://github.com/typeclasses/chell",
+  "LICENSE": "MIT",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1593377296",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "ghc-libs",
+    "haskell-chell",
+    "haskell-quickcheck",
+    "haskell-random"
+  ]
+}

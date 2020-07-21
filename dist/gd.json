@@ -1,0 +1,25 @@
+{
+  "FILENAME": "gd-2.3.0-1-x86_64.pkg.tar.zst",
+  "NAME": "gd",
+  "BASE": "gd",
+  "VERSION": "2.3.0-1",
+  "DESC": "Library for the dynamic creation of images by programmers",
+  "CSIZE": "165621",
+  "ISIZE": "702347",
+  "MD5SUM": "3b7ab52391b0851a3c73467163508741",
+  "SHA256SUM": "f0209d896e8476151f6331089a8675af5e75fb9a3d5024c6ce7396356dc070e4",
+  "PGPSIG": "iQEzBAABCAAdFiEESqR2e7ycSx0Yrii3fy1DS5dB6KwFAl55A2MACgkQfy1DS5dB6KwR7ggApYu2LwNJrx5kSl4JH+M5BNoPQu+zovsXdv4cb5+j0/amcFkocqbh70BEf3c3AAdM6j0nz5lSYHZiizXerPlWDdHRog0LPuexTZ5d66jKOaGMP/MPtgUG+uVTFma7yc5H270FunTf1yTmwtjuVeEoHkli/G5PgpT+mibD8BnJ2qLD1JAt5PU91szXqUWoAxwQTGzFBgtXwMIk9uiq/nM9Ir8tYMybQFyn2upkbemKzzL5P0f9/fPOkHBL+uXs77R4yBfHcY944Sts6lBTtFqZ0nFmq7XiVUbfiTtsgouP+B+5d0ja4ROm+MpPvNwjH2kPgemmSlQx2BO9KPoPCsrhqw==",
+  "URL": "https://libgd.github.io/",
+  "LICENSE": "custom",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1584988889",
+  "PACKAGER": "Pierre Schmitz <pierre@archlinux.de>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "fontconfig",
+    "libxpm",
+    "libwebp"
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "FILENAME": "rav1e-0.3.3-1-x86_64.pkg.tar.zst",
+  "NAME": "rav1e",
+  "BASE": "rav1e",
+  "VERSION": "0.3.3-1",
+  "DESC": "An AV1 encoder focused on speed and safety",
+  "CSIZE": "1280615",
+  "ISIZE": "5121080",
+  "MD5SUM": "292bb60ce9964e672eebf6068b2218ab",
+  "SHA256SUM": "7f0bf3b9d15fea81a28f13724b52540f5f321e342f62224cf4853fbc0d185564",
+  "PGPSIG": "iQEzBAABCAAdFiEElDfdOBWnqRaePTlGr/XZUJi8b/UFAl7goD8ACgkQr/XZUJi8b/VhaAgAjcb67jZzs20/IXJtnVuclhjgthgDa+je652g4XHs7I2CB92dA4ekBwjnfdGOhXbq9NnyRdKaomxNTXTwqlmHeTYky/o6kiMVqAnPPEZwaUs509Xfb9lywKRcALDW1uqgR6sXh2PGgoKlF0Cost3bxHr4/LTkUCgYnCD7kyYdIcsiqvmbx/s3cEep1pyRhOrxTrCydGszMt+8yruIliZbG6mVsjCgkLhwcu1XjPwVCsGrGyWhrQSI7+6OLl2vLso497c0htmalDZGO9wNZF1Sy1qB8hkIE4YrlRVnhQruV5RTLlHUMfqdtW+f2AFcfjTKLvZbcIrUlQzzsBcYxTcjcw==",
+  "URL": "https://github.com/xiph/rav1e/",
+  "LICENSE": "BSD",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1591777730",
+  "PACKAGER": "Maxime Gauduin <alucryd@archlinux.org>",
+  "PROVIDES": [
+    "librav1e.so=0-64"
+  ],
+  "DEPENDS": [
+    "gcc-libs",
+    "glibc"
+  ]
+}

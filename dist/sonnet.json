@@ -1,0 +1,23 @@
+{
+  "FILENAME": "sonnet-5.72.0-1-x86_64.pkg.tar.zst",
+  "NAME": "sonnet",
+  "BASE": "sonnet",
+  "VERSION": "5.72.0-1",
+  "DESC": "Spelling framework for Qt5",
+  "CSIZE": "637243",
+  "ISIZE": "2139573",
+  "MD5SUM": "79fac3dc1042605499f0a561614fea69",
+  "SHA256SUM": "a198d6c0d4fa7196822b3b5059731d116c122b2fdbb48379e6108625a89b2d2a",
+  "PGPSIG": "iQEzBAABCAAdFiEEFRnVq6Zb9vwrc8dWek52CV2KUuQFAl8JYFUACgkQek52CV2KUuQV+Af/QypINCA7RQXLgfSJe/5fmO8SKKjHWTuaKTnGvLBGVkHvfTF/xhEwUiqUssg6B/HxsZa9AKkVtYWk3ygkMB8NNHPo5U0yOkzJD+IB/7QqhdFICn4WvfuEIFtR8o2ZBoJrvpa+x8DQ12BJiC4xWwLFa7Z+cZx6ooN/LzBfNiDpw39kCJXry9TpoGdMFxZKvxosOPKtdKqdl0qSNwDv9ABWw13PCMQpyEAao52ypNtOrgPhmb7hv8XOjvZ4CUflwgZMmMMoiJT/26/L6P+9O3A98quDp4KXiaCXU2THpDVos1omLqBVJWOcbGT4qKYamJb6FsDW2tkox8ATqJbaCCXM1A==",
+  "URL": "https://community.kde.org/Frameworks",
+  "LICENSE": "LGPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1594201372",
+  "PACKAGER": "Antonio Rojas <arojas@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "qt5-base"
+  ]
+}

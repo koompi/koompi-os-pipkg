@@ -1,0 +1,23 @@
+{
+  "FILENAME": "openjdk-doc-14.0.1.u7-1-x86_64.pkg.tar.zst",
+  "NAME": "openjdk-doc",
+  "BASE": "java-openjdk",
+  "VERSION": "14.0.1.u7-1",
+  "DESC": "OpenJDK Java 14 documentation",
+  "CSIZE": "11747002",
+  "ISIZE": "274229171",
+  "MD5SUM": "584f2ed32a778330c6834e72915e3640",
+  "SHA256SUM": "e2ddd1450a5089c4b5db445d8d026b28f72d298cde004480bcd5fd4ca775806c",
+  "PGPSIG": "iQIzBAABCgAdFiEE4kC1fixGMLp2ji8m/BtUfI2BcsgFAl7JbG0ACgkQ/BtUfI2Bcsisvg/+PlppeaE6s0jA/utRUNKZcR4WRjISpgbDo9Z5R3SsD0R1yzBsQ1K1Uy6QIgR9qtAoO7M1Y1R255q1EUK1BK58SWTYoKOZHjXDsytrosrfpR4St8WRa3cDWw6jQSkg2vqRJCrkoRmnccvRxQBUMpaNQRvbz4ZM1AA3hm4BisM1sn9A6OcVyxFzm32sdNf+nMHZlVaXE2iZVYJcWQWuOm/jMlPxmg6VFquZdz43enTAmP24JKvPU5qI8d3DZXODQbwsYprimDDbp2U4PctYrEFoCcA+S3RC6l4vhu21y8P2doYVptdhUHrSNeAZY7PubXDF26XiTQ0RfVLmlVps7R0TktvaF3cLMNow9zwATM6siRXbmO3i7k1jLvmOcw34YLjObl2iRCZ2/lmTEjl++sCOMr0bA5+KZKpY5AWBCfxEVHnKNYni/qshULSilCvyMzXgMaQ82VM1GZpiuZyGArFJplnYjAS1lNvB9ZZSeoWsSrsy8mnDkfKQC9FEUm9ed8DJiKw/Yb8dchoK03f57XCZMLg+Ku0oDhmDaSoENK6EQItBQ/hBPBO9dBvmBWNHeJZZ4Iiqb3yBpbkkqX5jb2ZHkNvh0ATEwY1Ot/wHvoO9SpojhVA9FUAn8MntGnBUnb6iPCWyxX9ms5KcLFMW1j+WsdmRtNLAP0J3obJZtYfkn64=",
+  "URL": "https://openjdk.java.net/",
+  "LICENSE": "custom",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1590258052",
+  "PACKAGER": "Levente Polyak <anthraxx@archlinux.org>",
+  "PROVIDES": [
+    "openjdk14-doc=14.0.1.u7-1"
+  ],
+  "DEPENDS": [
+    "jdk14-openjdk=14.0.1.u7-1"
+  ]
+}

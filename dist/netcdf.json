@@ -1,0 +1,24 @@
+{
+  "FILENAME": "netcdf-4.7.4-1-x86_64.pkg.tar.zst",
+  "NAME": "netcdf",
+  "BASE": "netcdf",
+  "VERSION": "4.7.4-1",
+  "DESC": "network Common Data Form interface for array-oriented data access and corresponding library",
+  "CSIZE": "668053",
+  "ISIZE": "1997882",
+  "MD5SUM": "b05f10740cc668a0f073d82d0b0c725d",
+  "SHA256SUM": "59828cd3f8ce5aa786049c70b11a5b05e369aea8b3019ca01d92f826952aa434",
+  "PGPSIG": "iQEzBAABCgAdFiEEado014/g79WWrG0EnYk+xNqvkSkFAl6RBKsACgkQnYk+xNqvkSkluQf9F29k3qDC2wTEJWJpUcRPd9kyBxUYHM0/GEFFPk0uLCq5aoQwASvJKZISOteB+9RBV95MTu/FOC9KcyO0jopKGRM16CIKEBgBJEA9SEjACnTL9QtuFCr4iclrf16xCoxaExXqA80PJFggHEFnMyCDKbHIpHhA30GiDZtDnO9Lzp8S5mHJzaMcRHpJ87NCq6BFUr55qjCR5T41hx1yXbeq7AczbUqMWTOBOhu7/0kAEM53oIoTI1GMrh+dQBOecFhwTnVXaPKHID+IHec0UAHq1i1a1QGjhvvWsv9L40+MvmCOG0k9iCttEfGkGi6JXLvRvNCmXqzBgUTLDa+e4ZFyUg==",
+  "URL": "https://www.unidata.ucar.edu/software/netcdf/",
+  "LICENSE": "custom",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1586561346",
+  "PACKAGER": "Bruno Pagani <archange@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "hdf5",
+    "curl"
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "FILENAME": "python-language-server-0.34.1-1-any.pkg.tar.zst",
+  "NAME": "python-language-server",
+  "BASE": "python-language-server",
+  "VERSION": "0.34.1-1",
+  "DESC": "An implementation of the Language Server Protocol for Python",
+  "CSIZE": "81654",
+  "ISIZE": "331205",
+  "MD5SUM": "111b91bafb418e89800e21a9ee72e4b3",
+  "SHA256SUM": "91a23c2953f88c9e3a2ed6a0702aa98cc2d994ded566de567ba14459bcaf3582",
+  "PGPSIG": "iQIzBAABCgAdFiEEktnGzemaICTWkKdu50JoO6CMsv8FAl7+OkIACgkQ50JoO6CMsv/Q6w//QByytdXlRT3zyVkCphtteW57+ERTVWTuR7BfUZBP/LqCqKij4VhRIw5wTAvn5qQN285NIDSsNCojoTEUlDHXy8lcYPYRQ2tq4UrmWeFl3oEzkc8gHw0td02pkxbN26R/bc3vUVuYMt2qWLpy93o+Nd+qFCtRrZjdsPyfNE5sGZ0VZFKGky6YwBikVl9G4W5MS87Wos1BtXoGaUOVl7dCrIv0/i91eT1bNIPqc0nwJpqJqlvfs25K9AT/IIOSg0RyL1bGRT5ZH8uJT9xSS3Rv8ckUL+ZF7a7KFbs+mLtkUflgpcg9OJj9zpc+XxFE5Ff2KnwMtNqdMLneuumH2cnE3NH+MLVD1P2sjlZIyU5X90txZzlBkJfkGtxaZ5puCYEg7jVCTCkqTM+oH5G0da8BtYR9LlGlgQ7viyMkqb0fkLbldkuygJKMkE1/WQiyIh5o+Fsv7rVAxpn/84VIY0Ly0C6JSJ0HCuWd03Qo4v26UiIToFZV/lMsYBvBptHZ5FVT1oONfPvqUsLQb83h69eQDrdCVL0R/xnmDzX4a9aSC/cVtumS+Fqay1n558dHdnCJTln8+v99d3Jm+Ic5JS1ZT22ohnb8fwv/sMH/H+Vwf3pOSxMDdYqKSKeGNxWMSacwxQr3iHBhflum4edPBxEIIaQsQ2CuG9M7N5YuckTyqA8=",
+  "URL": "https://github.com/palantir/python-language-server",
+  "LICENSE": "MIT",
+  "ARCH": "any",
+  "BUILDDATE": "1593719180",
+  "PACKAGER": "Morten Linderud <foxboron@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "python",
+    "python-setuptools",
+    "python-jsonrpc-server",
+    "python-future",
+    "python-jedi",
+    "python-pluggy",
+    "python-ujson"
+  ]
+}

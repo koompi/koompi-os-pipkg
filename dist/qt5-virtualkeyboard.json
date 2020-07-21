@@ -1,0 +1,25 @@
+{
+  "FILENAME": "qt5-virtualkeyboard-5.15.0-1-x86_64.pkg.tar.zst",
+  "NAME": "qt5-virtualkeyboard",
+  "BASE": "qt5-virtualkeyboard",
+  "VERSION": "5.15.0-1",
+  "DESC": "Virtual keyboard framework",
+  "CSIZE": "10537200",
+  "ISIZE": "19742205",
+  "MD5SUM": "be13ff1989f03747c2a3228fd0f11001",
+  "SHA256SUM": "710b03fc5056044f849061a905bf6cc2000caff095e668b59c076f2cc08e2bec",
+  "PGPSIG": "iQEzBAABCAAdFiEEFRnVq6Zb9vwrc8dWek52CV2KUuQFAl7M12EACgkQek52CV2KUuTe2gf+Mghi8xZF/+zH45kB1O3QkyFWOfwWf0I8o6Y2/A1mLqpzxK3DmWomgIZshgbqL1xc6LYLTfeeJ2K/W4hbhRR1am0wT6dgUOm34ynSdrljFKrx4Q1MUKwjooADBwIpTiD8EILHYNTBs6oi8oVyN//BQUi2But8zg0hSGPYj1dezoUG0gsNsT8Rom1IDUhm2K/icnbV8H/aFZsJGAndFgt78QwHpRHRgfUKKegDcfQljDw+/PO6ixz3vxaW01P2Smfs6goUhlnMKiXg7l/q9gJnLxukJO66abjdec6jJSuF/f970Ug6J+dwvSm3/mbz6O71utLUOVxy7kdzGF1JrKYvzw==",
+  "URL": "https://www.qt.io",
+  "LICENSE": "GPL3",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1590481977",
+  "PACKAGER": "Antonio Rojas <arojas@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "qt5-declarative",
+    "qt5-svg",
+    "hunspell"
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "FILENAME": "farstream-0.2.9-2-x86_64.pkg.tar.zst",
+  "NAME": "farstream",
+  "BASE": "farstream",
+  "VERSION": "0.2.9-2",
+  "DESC": "Farstream (formerly Farsight) - Audio/Video Communications Framework",
+  "CSIZE": "270333",
+  "ISIZE": "1664715",
+  "MD5SUM": "c3a4a72b1c2160d87d5d490cd629738e",
+  "SHA256SUM": "79556e57556aaa816ef07e82d9173ebb2c26432f5acde3964448d7b30d8c2d24",
+  "PGPSIG": "iQEzBAABCAAdFiEE5JnHn1PJalTlcv7hwGCGM3xQdz4FAl7Sr+0ACgkQwGCGM3xQdz4ebQf/dAjBI4WolKpjFigTTspSvIMYk/XwhOsjh6X5KRSCwoHrzUutVNA1hVKl0XNzylAwFQaEs22oajrLobhjV2ruXaQrhkAMEPZoRTBy8PQex+iURa8nFZ6B0+glqSSMo8X3TR1lHjqzPq575QacQMpBOJxmP8NsJyJV7Op+uNDN4phOuOSDCvxbHxCaVtpIQQBa5IRwMI97gCwku1rsh+f73ruGosWggcx0mSfi9FEcpDgxljaG+yeqvq3lfO6tSqbBTOIeVt4st7ii2RctJI7e5j0Gta6aHQ2gFczyoIi/5JkAcFsPh/fiYi9pjmXCgATLGDOnYx0IIx8j5Q3ccaSCTg==",
+  "URL": "https://www.freedesktop.org/wiki/Software/Farstream",
+  "LICENSE": "LGPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1590865454",
+  "PACKAGER": "Jelle van der Waa <jelle@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "gst-plugins-base-libs",
+    "libnice"
+  ]
+}

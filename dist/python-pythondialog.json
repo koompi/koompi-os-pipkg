@@ -1,0 +1,24 @@
+{
+  "FILENAME": "python-pythondialog-3.5.1-1-any.pkg.tar.zst",
+  "NAME": "python-pythondialog",
+  "BASE": "python-pythondialog",
+  "VERSION": "3.5.1-1",
+  "DESC": "Python package for interfacing with dialog",
+  "CSIZE": "61412",
+  "ISIZE": "439623",
+  "MD5SUM": "7540afd972203f1b0a6249ff5987d4dd",
+  "SHA256SUM": "f6e0404f4eec7356c5aa2ec1f4fdaccf9e2be6cb411964eccfa1a5205b24a321",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl5DAqIACgkQeGxj8zDXy5KvAw/+LQC+HheOTUGkRe+03HMIZYWvtBpFs3WbaGLZ9XtzJQxO3QX6tYeayzmpvEwhze9QaDmysa1+dEMBO9Q3EsG1DmnxzCOFkedct/P9dRlpI5poDioFpAt1PMEsIictZUBAfUnhIHHhnpPnrK98N100495L4cNfIKGAnTRuk5LpEq0VsUbC4z/QDMOPznZ3dNMZCg91EOEvh5C+8cPiW7oqXnOLLwmhZZN+IqXxqS5nOI4qgrNNvQcWXqMmbpKxcBmt/nQJF3tatMpg5HE+8HJ5Xwuo3zRh6maLvFtMYM7MtGfHHUrHZygC9mjioGhXZAblJBpIph01gc6P3ku50ZTxwIUvLhzcqm2N9excGJ5UlqA3oQ9N2mfXiwET2L91zRE31bzMyAh6IXnYDxXKE3UuuBQQzl+60JCngjtQMC5U4ewSZOJYxaK33XsV3727Ev383J94tvkaQA3Nl9EzPIlFgJcLLIAbpH47p2DKRoWhmujK6kegF2WjGytUnTfjl2Dysmtem89lNzKG84+v/76YGH/mHE4jKc0+zDyrRRkUd8zufK+sjKgWlbnbXBsPVE5C6j88zDvZuqD5F0srWYUAgyAMPIyBkvhhVCQ/3NAuv/N9s0QQrw3z4bKYBmE8dOVMYO0h/x/okTyWXEVvZIr+gBmvDoksbW3m9GDikHdzDNQ=",
+  "URL": "http://pythondialog.sf.net",
+  "LICENSE": "LGPL",
+  "ARCH": "any",
+  "BUILDDATE": "1581449863",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "python",
+    "dialog"
+  ]
+}

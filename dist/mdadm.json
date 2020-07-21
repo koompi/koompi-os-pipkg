@@ -1,0 +1,23 @@
+{
+  "FILENAME": "mdadm-4.1-2-x86_64.pkg.tar.xz",
+  "NAME": "mdadm",
+  "BASE": "mdadm",
+  "VERSION": "4.1-2",
+  "DESC": "A tool for managing/monitoring Linux md device arrays, also known as Software RAID",
+  "CSIZE": "351332",
+  "ISIZE": "995175",
+  "MD5SUM": "f1dcfdb3b9b1fe1e5a5eba3b94279005",
+  "SHA256SUM": "00b34f6aec44a437d5ace339e683a07a17d94599fb56c9312569d466498f23a6",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl3MSKoACgkQeGxj8zDXy5IklA/9Gucjy4iCfq70wCRArA8dksKEh2jbGseI0T9lbQ1MN5ffqkyLjLVDQ0jaVtHjkxkGFE4TQbR5liQmDYkd9MaAaHn7PQsCRDCvWBtvdBcZ4gWaarfzBjSuIMwxDmgGyQIYfvKNKv1LkGQcQt7XIh8U3iTPrp5L5bXOa5XNpzcWt1aUe3JkaXhretC1PSRShpAKfeMcsL60MSFNjT7wJj/MDu95Je4Q18icYgpr/njExmXeHjLUUzaCqKQmWieaA9jkwt5cqsQhTsodcz5tz05vcmb5lsJ+E/ajQu7JE3Khz/NcSA5v+2CzMofo0yp/J5WzFM55jvkgXenqqUyvJ0//r6+g2NbYZJ8pY3sgsrh7U1WmlJ/lSdK3p+FlkrjgIZZmAy2H9Thsm6SO3KvsomDsOWdWh+xGG6zA/+4D6aWtINT7wpwoh6NPQKtNNCgjKR06RNKc5K90AasFrugew+yvYA9Gz8dZT+/ZTBwIlG4pmYXxwxERJRZNPIJk1Dk3+G1g6tNPkUNxl3cxlu6Oy67ILe15iz4P3MsSkGtK9bzb7ng/e+6TC6x00l2nXHFAXaeA3ov7c8qYOMxfASpHYfEhhxbV1cKmfQACe3fYBIphxL9pDA2uICCmGLaAw7dRz5F2qDCMC/jrJf8qlMwNzJEqn+e//aaSvPlWtSTgNCo1WUg=",
+  "URL": "https://git.kernel.org/cgit/utils/mdadm",
+  "LICENSE": "GPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1573668997",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "glibc"
+  ]
+}

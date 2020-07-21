@@ -1,0 +1,29 @@
+{
+  "FILENAME": "lib32-mesa-vdpau-20.1.3-1-x86_64.pkg.tar.zst",
+  "NAME": "lib32-mesa-vdpau",
+  "BASE": "lib32-mesa",
+  "VERSION": "20.1.3-1",
+  "DESC": "Mesa VDPAU drivers (32-bit)",
+  "CSIZE": "2921847",
+  "ISIZE": "9376015",
+  "MD5SUM": "224715f8d4a20c552b56d35d6cb85417",
+  "SHA256SUM": "3dbea1e91fdafbc1fd4c075be81245312461c88607cda2194c0831a9cad6aac2",
+  "PGPSIG": "iQEzBAABCAAdFiEEU1+MAzlFDwVKTSgnBglqatHO3awFAl8GuA8ACgkQBglqatHO3aycyAgAvgESLT+XsYkqrJUBTJlCP9mWM6PloTPFfHdNFS304oU4o9115wisRhpUV31GJHaVIXMYorW9s8NIbeYDYDrg2SUWNP9c39xUeUXjcO448JLVi7a5LnH1QtNWKX9EeCMpC+k5Fqk7rwKDxWpvUfjsSzVe18isMePGv3UPwtyxpEjsG7A5hWYC2dTQaOU3ePnueIz32MXgtJR7silvHWSEgjEgL8a8VvJRLVw/SjswxNj9/x5gTf+Axe/TCCS4Sh+JqXhpFyL4rp3OgV9A87WloU3XUHcZbiOmAdmv+J3WMzBhhMmqkn8WwBC8sM+RWq3jeJ++QHcjShoqNW1X/+ULfg==",
+  "URL": "https://www.mesa3d.org/",
+  "LICENSE": "custom",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1594275090",
+  "PACKAGER": "Laurent Carlier <lordheavym@gmail.com>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "lib32-libdrm",
+    "lib32-libx11",
+    "lib32-llvm-libs",
+    "lib32-expat",
+    "lib32-libelf",
+    "lib32-libxshmfence",
+    "lib32-zstd"
+  ]
+}

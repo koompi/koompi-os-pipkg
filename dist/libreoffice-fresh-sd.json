@@ -1,0 +1,23 @@
+{
+  "FILENAME": "libreoffice-fresh-sd-6.4.5-1-any.pkg.tar.zst",
+  "NAME": "libreoffice-fresh-sd",
+  "BASE": "libreoffice-fresh-i18n",
+  "VERSION": "6.4.5-1",
+  "DESC": "Sindhi language pack for LibreOffice Fresh",
+  "CSIZE": "355583",
+  "ISIZE": "1893117",
+  "MD5SUM": "70c23e2b8b4dd5095d1f78f5d9287c43",
+  "SHA256SUM": "179d667a1ebce6cbb575df6a29a836ad1970106e03a152ea7259c931e7495b44",
+  "PGPSIG": "iQEzBAABCAAdFiEErcih/MFeAdRTEEGelGV6sg8qCSsFAl7+FzcACgkQlGV6sg8qCStDHQgAikz/UchSooiOhF5smiPqLP5jd0iKRH2JE11D67s8j3afQ7ycbN3ubKxNnJvfIm84g/u1QboMOUfhzlHH5WFn88pMfsM0xzR6bg02vFVVHgw6TbCb1UjWjkRyKwgR1atsWpJ6sx5jBE3EOsZMsAgQtliGSkMzswBTC+/jPycv/ytVltXlDAMNqU0arjZS9o86WOmIlc0DtFgGmUMPMCWaNQZkwrxZezxmbuPTTWzRypa2BPvMZviN50X2rOYbKASPVh6x3EyJ4y2+Ro04C9fOyzWJ6oQZuhUXz9mN1/2dTHeMRe065whEpWRIfKQhrHxtVYEFMHCb14Lx4dHXgB118Q==",
+  "URL": "https://www.documentfoundation.org",
+  "LICENSE": "LGPL",
+  "ARCH": "any",
+  "BUILDDATE": "1593700315",
+  "PACKAGER": "Andreas Radke <andyrtr@archlinux.org>",
+  "PROVIDES": [
+    "libreoffice-sd"
+  ],
+  "DEPENDS": [
+    "libreoffice-fresh"
+  ]
+}

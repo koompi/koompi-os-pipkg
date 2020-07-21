@@ -1,0 +1,24 @@
+{
+  "FILENAME": "java-jsvc-1.0.15-5-x86_64.pkg.tar.zst",
+  "NAME": "java-jsvc",
+  "BASE": "java-commons-daemon",
+  "VERSION": "1.0.15-5",
+  "DESC": "Apache application for making Java applications run on UNIX more easily",
+  "CSIZE": "24078",
+  "ISIZE": "56953",
+  "MD5SUM": "675b56f66688f22ea23cef4827031ab1",
+  "SHA256SUM": "8102775fd8e946b702395e17374671bff7d0ed2058004b450bf91d6886bfc8f8",
+  "PGPSIG": "iQEzBAABCAAdFiEEhs/8qRjPOvRxR1iAUeixSKmZnDQFAl6/8rQACgkQUeixSKmZnDR+HwgAgaNQzAEQNO7rgJ+XcRdMRD0VlLrApcxYdAlMtMoFL6xOvtQRRN4MD2/f/9HDLpO5lyX4ev8UsvaIaeQ9a6p5F2EGeJdYFvGmeNhIqwOXa4Y0DWr2w7CrCjhCmbldZY17IU6zWVVj5M8dJl4wgjVgvL+g6XJ+v8mrjZUK+zO/zpxTqu/By3MnI6+nL+zr1jWKvw7lsHuzSizGGmit2kCvs/NbSJDQgFgDunvOenAf6YEAYRfGXGhHkbG2t8AMJ335pHDfr4/q6PQnquGtybaBXCeyu3sV0J/2jgPgyj9dhuZSoIkuUHK7rqhnWYHkY/43vjvYLmzDqxhfpaVdpA85JQ==",
+  "URL": "https://commons.apache.org/proper/commons-daemon/",
+  "LICENSE": "APACHE",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1589637785",
+  "PACKAGER": "Evangelos Foutras <evangelos@foutrelis.com>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "java-commons-daemon",
+    "libcap"
+  ]
+}

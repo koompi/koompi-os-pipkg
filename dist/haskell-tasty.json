@@ -1,0 +1,30 @@
+{
+  "FILENAME": "haskell-tasty-1.3.1-6-x86_64.pkg.tar.zst",
+  "NAME": "haskell-tasty",
+  "BASE": "haskell-tasty",
+  "VERSION": "1.3.1-6",
+  "DESC": "Modern and extensible testing framework",
+  "CSIZE": "250791",
+  "ISIZE": "1242653",
+  "MD5SUM": "44956aa1d0bce95d8db09d766106d916",
+  "SHA256SUM": "895286d07454c8ee7457b0fc60879a090bce2b736c1ae3da214f0aa771dc8140",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl74/xQACgkQeGxj8zDXy5KrwxAArhnWC2cEQ5msZ3Kohbh4xdWjyrZDT0MYpkZ+G8k5s/4FIILyyw7bwxheXFk7Mjl0PDVAYAZiofe3ut2HVtoVec5veEVruxR3RIMM6pt6oEEbsnXlCDJwg2LAZE5BJn0siaKtTRLzOqUDJiUVzVa9up1ZaWfMtmAF0md0wmdTmP6wCMnt+rPd/LWqwDWlaYm+iUAXkkZK5u5AU2RTGnOfgfQHtMbdI8lOPYmObOmUi86LDSDsAsCMTeh4Dqx6PJkDi9H1Y0fVTLB8xEmn5P4sANcPyXZ4x0zDIx9bVD7d6x3P+F0MYAJM2MWJEdQC/swkHDNs2xDXOCQMHL2B2yFPJHkr+McmHDDezQUVtI6dgqrLbOKyi1NuLDijoXIqUpAEu5zhFEZGpzpdYfEEyTQl97KpNRMep7/dBR7NaC0RrI6lYchzcGzCsZ/PRz9fdwSKZe0tG8mWdIv4E3xkBa26cV9AmoejqAcssbDk5DBAP8D40/g69V/m4v57oeYlhCrLPHBsWeXRizDi8OxdNgt1JvwRZPZ6B4ASV9sAVzLaaeGV+wlZmwBIiqgxQQMLWcFX7b42LLrBxnTeeG/aEOo05tV9C8rUEX+cM7AuDjf2yvnU+N2WQ7LAlMBxCqdK5dwUVJdqla+x5PB+hcPGg0OKQb5L+6p/+2ggJul9ZY6d8gY=",
+  "URL": "http://documentup.com/feuerbach/tasty",
+  "LICENSE": "MIT",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1593376503",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "ghc-libs",
+    "haskell-ansi-terminal",
+    "haskell-async",
+    "haskell-clock",
+    "haskell-optparse-applicative",
+    "haskell-tagged",
+    "haskell-unbounded-delays",
+    "haskell-wcwidth"
+  ]
+}

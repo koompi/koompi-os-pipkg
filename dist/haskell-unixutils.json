@@ -1,0 +1,27 @@
+{
+  "FILENAME": "haskell-unixutils-1.54.1-132-x86_64.pkg.tar.zst",
+  "NAME": "haskell-unixutils",
+  "BASE": "haskell-unixutils",
+  "VERSION": "1.54.1-132",
+  "DESC": "A crude interface between Haskell and Unix-like operating systems",
+  "CSIZE": "75080",
+  "ISIZE": "321551",
+  "MD5SUM": "e7d891d9fc9ccf8cb8989786767f0a16",
+  "SHA256SUM": "3b5a9eb0d5bc666a4db59745a47650e7a991e1dae15507276febadd4b6225c23",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl75LbAACgkQeGxj8zDXy5LDbQ//Ygk+CKuAg8QGXkys7kwj2nnqy8Drw4vk8svs7DvmKrZwXCINCxZY56CJhTlRuVGOHZqFryxxDL6Vl6gR+YAlW41oITpQ22EruJcogk4BdQwVoJ3E/P4ZA/MVPBk/0S3alvG+yHmkPzLHTvFB737VwMb7EmmS6Lhknzu049zSIf8+dGQB0p40zIpP69782j6C2mNSpzYjpTlKkpkKvshwAZUzjNVqC+uMEoiKgkytOu/ZqncPbL1u8MzjM5aSYkLwAR2RWa72csWaW39cXK+NN/MPVn0i664MT5zVqCBUHgEJfqZ9YQADYs+XSuzqdDz1B0bErhpYyHOeoyGW3DPCMFZXbGVH87fmQDM19UdOGChsw/0H2UNOCwv8s1WScLSnRmGUSBR+4cnP4VBSNl1Kq0NzqLqk7J4nQq1QBeFJmIQ1ktfnTMa2WHB+o+dlvVUwXHYhM6b1S9voZyWm4mQt0KU8jyrCyvrrwfZPXfqQv18O1MRFSFUBjQGj2WHJil1KpAqXgGwZ0mdykSiTd3gbBDjb3mvGfB1kSwfOWUpklV/Dn4q0+D7i8lULlD2Ni+jZ+4MqtGEzv3EYP6y0h+rH53YuDyMEeSyHkqb3BevX2sP3ct1h1Hho0R4FCibqoqX576Po1YqkRXbvKc9iPXz/hyH9a/iH6CqNXY5KgBRTZPI=",
+  "URL": "https://github.com/seereason/haskell-unixutils",
+  "LICENSE": "BSD",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1593388440",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "ghc-libs",
+    "haskell-process-extras",
+    "haskell-puremd5",
+    "haskell-regex-tdfa",
+    "haskell-zlib"
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "FILENAME": "python-flask-appconfig-0.11.1.20151214-2-any.pkg.tar.xz",
+  "NAME": "python-flask-appconfig",
+  "BASE": "python-flask-appconfig",
+  "VERSION": "0.11.1.20151214-2",
+  "DESC": "Configures Flask applications in a canonical way",
+  "CSIZE": "23116",
+  "ISIZE": "77636",
+  "MD5SUM": "fc0a86421ee77ed5eb1f378ec99d49a7",
+  "SHA256SUM": "078d4bb95e4baf769aa37396063f80cc0296f90e5baa501a4f95c2d53c2d0d9e",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl2/plkACgkQeGxj8zDXy5KtNhAAqqQaGR9Tja71aAKx3MBCqgGrOYPIVFaEX56ldQe+Qye47H1yCPii9T26DlVcJ9uWWXfUVjSrl89HAGZcfuaV52VXDdvvt5sjKpb62iwJCR+e0HiAeqeQHfHNuLzMM1iAKrk9KOsSq0cZOyE7ZjaVWrs7vRi45KFJAxOsHFsrMvH8tl1Fj1REswUilLy1khZgxUl3DDFI6l2EZjqjptHfXws9bJwc/6OwTl5nQpHL0g3HubgAapHVawTomC0zGDOu1EzwG2UrCeUTklmGtCBHrR0dlzKc9fdUdErraehxRAvr5VURGB3f97Zsiq9SsYhe7aEkpi2OfjURerKzQL2BuqmNLPEXzk3ixbiDR4ZMpjey5zbFm0JkXUz1cSSWT2mgqae8C9DqtRZhBrGcEJvLQ9mEGMmyKNT3AxBiI7v/cz8SLWD6DKNLCunZ9j0VIhLZFjMQGZZzKH3FGQdSxnifrm8OhQahMEDytrZTvYE+1ieizWf3RdwM6uCyoL5GEabidRQvxGt1i31ruVOHPe2WtH9enyAu7FFtMebHA8x0h9nL8e4bsUtPL0lkLFZ+qFRb0dFkGLkrB/sHuBgv75+s3EVlu17nd4M2PxCL5UCEdT8flXxu4snLJeo4qEisGAveEzsoDDdyfdK+DzIXd6CNe+2K8StLwfdX4QPcGmIrvck=",
+  "URL": "https://github.com/mbr/flask-appconfig",
+  "LICENSE": "MIT",
+  "ARCH": "any",
+  "BUILDDATE": "1572841024",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "python-click",
+    "python-flask",
+    "python-six"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "FILENAME": "mpfi-1.5.4-3-x86_64.pkg.tar.zst",
+  "NAME": "mpfi",
+  "BASE": "mpfi",
+  "VERSION": "1.5.4-3",
+  "DESC": "C library for interval arithmetic",
+  "CSIZE": "54911",
+  "ISIZE": "143162",
+  "MD5SUM": "04041d63d52866a4d50cfbfd33599cd4",
+  "SHA256SUM": "a3415f9d03509c8215315c97f409103aec2f31dde6fc577e5c1cc58194e37bb4",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl8EssIACgkQeGxj8zDXy5JNMhAAuvs6WxEQzC57S4i+i8ZN9uU5Z26iBiK4MTuTpein9dciGDJOVYteBb2Vqx7uMeWksT0qD2HaVupuV6cUuD+HUZMnbLG25C0VM4a45gp286FO5DV5JE3aLWVqda6PHwDTopHWqvL6c+q6JeOGpq5nzSEqWC1Z0TAcdJPxn4PoXo3ZFNT1+N3zPJCgLf98TgMrl3LcC/q1ASv2NnuYt7SFqlOkrFlyeYSw5rt0OUA+cPWRXVqanJ9dtAtKzQq4ip3dlayiFoUME96khK4WOO1MAzr8pxfz+4Rddq3/C5r/1FPBJkMnS4GgpatH+N5d4pToSrqs8vnONkR5vX+PejlP7LFp7IG5NrKgRTk+i+fCwocbeptlnFlH7Q8Fch/n5V2JeU2GEBtarozZJdWQgKrYT6eCUJOp9RLE3MJiKvBY8VlDszoe+DnfBfaztJrDdRjm9pnmuTJ6Ax6fTQvDw/po6IWNJF3xVaeNF7Js0/htnzlGmwKGMEorz3HUx9S24b4OPJkgRYOjKlcHsDZZCVxwc9rsUzb+mZ3AwYhklwPv/NskWtX0QrnWhVyX95p3yMJ4S27n87d4rozwY+B61ud5n/yXGsiUZ2RZpdzIiiufbIt+oO4Rnq/cK1OI6iPwFkvFtQ2X8W7Jf428wASV8oBRNY/7l0C69mrySo6IoBrmbow=",
+  "URL": "http://perso.ens-lyon.fr/nathalie.revol/software.html",
+  "LICENSE": "GPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1594143329",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "mpfr"
+  ]
+}

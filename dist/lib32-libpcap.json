@@ -1,0 +1,27 @@
+{
+  "FILENAME": "lib32-libpcap-1.9.1-1-x86_64.pkg.tar.xz",
+  "NAME": "lib32-libpcap",
+  "BASE": "lib32-libpcap",
+  "VERSION": "1.9.1-1",
+  "DESC": "A system-independent interface for user-level packet capture (32-bit)",
+  "CSIZE": "112684",
+  "ISIZE": "314368",
+  "MD5SUM": "f6bd1e1fb8539dcc34ac551409d0ebad",
+  "SHA256SUM": "3f03b7181aaad4e1bbd992fbfde16645f63552a6d92565a21a3a1911fa0ceade",
+  "PGPSIG": "iQIzBAABCAAdFiEEj8FaBklQqZ3RvRTdOeS4d+YuuRUFAl2Vdi8ACgkQOeS4d+YuuRUOcg/+Iev6fGOicsxtke+OMzflJ+WIPa53dupaUD+Hd/61iLLzPE3ewm12ZWpPVlGMh9HtpOQL7FClIVsylzM31H+MiF7QRWj/tAiEyJqMc79ny0XJT3+Hpu9Ed4G9d4+5nsuy5Ip0dYKRB0YeT5rIbgZlHG73CTxQPnMLVMn7w+aSp4DjeAZ+yy6I4vxWFpX2tbrkwOUf2fn7GlT1Bhc6PO638F7DnjZ92R2X/Yen/Ct9d+8Lp33Z298GblTxTwK8aFBdQKmFMs2yst820wAaOqlPBKLWI0xqEASXehy17UkCSXkdcc7rUFwDFiiik1x8+NyzGpkJawYnEsbdBOEJYz85tMC6h8L2bWtlPr1cFQwFU8TOT3F4yfiv7KHemMng/qKPE+WkDMBo81Y1/31z7Cpsiaz2ttneQUvBMZfX0/xVTYm85XJGHZzEe2cF9Lc0Ee8cEFgDiMG/pfTItRnltMm79HXdQ4GhbgV2/ORjy1f/LGg9qmUHOr/qZuUBQkQ1qHqZtERW3XtOF1BdrsxYv/YJKQlR+2Gk86561OWXeyUmvyqHaQGJLXOibzH1o/6rNyDVrYWyru0R8HXzlJ5byy1jG5/zj65bGFEjonkhxtykbaMSv7LIUfrI2bf3MTUAGeajPLJwUYMZ4NhE8E08Hd8r/pJu51ViNrrsUYcQDyyNT4o=",
+  "URL": "http://www.tcpdump.org/",
+  "LICENSE": "BSD",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1570074966",
+  "PACKAGER": "Sven-Hendrik Haase <svenstaro@gmail.com>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "lib32-glibc",
+    "lib32-libnl",
+    "lib32-libusb",
+    "sh",
+    "libpcap"
+  ]
+}

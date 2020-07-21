@@ -1,0 +1,23 @@
+{
+  "FILENAME": "python-pybox2d-1:2.3.2-5-x86_64.pkg.tar.zst",
+  "NAME": "python-pybox2d",
+  "BASE": "python-pybox2d",
+  "VERSION": "1:2.3.2-5",
+  "DESC": "Python wrapper for Box2D",
+  "CSIZE": "401194",
+  "ISIZE": "2160496",
+  "MD5SUM": "329f7e0e1522c2d503cdb621f622888c",
+  "SHA256SUM": "9d693448c84345b18f55c6c4a5372f663b1c489087096ba037e245d02d0864bd",
+  "PGPSIG": "iQEzBAABCAAdFiEEzgvecadZqH8j8PfYth284QkBwWMFAl5vVxQACgkQth284QkBwWN+RAf8Do/rHPT9H6zyU+rkYoDYLa1rcZgUgwsk51YgE4DHh7eej4vtDpwaT5nCpuZBA8DOSDP0Z3zXWIwA8e7zLedsW5xQnzp7OxkGvpH4+PMcQ5/4ZcX92NWdZ7ut6Hj23tn+SoYoESEQIKRNVtcfrn05q+5De39JblRdz7gFZPa8UnBOubD8RBY2UbrPuFKygGyISGxnC3gurfldM47wvqd9h+LFbgsVkEvnmp7OpOByf7m7e2CCwUq4IIfqoSIb0VrqIeEh4HnAbsQmFlZCs7Dbg6++Ke9DxRvCP/RJUg/tkbRRiUk7y2/gFFi1FNMvL8ELBJ/BJ2j6LwPKis6BLh7MXQ==",
+  "URL": "https://github.com/pybox2d/pybox2d",
+  "LICENSE": "custom",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1584355002",
+  "PACKAGER": "Balló György <ballogyor+arch@gmail.com>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "python"
+  ]
+}

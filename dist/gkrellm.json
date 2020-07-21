@@ -1,0 +1,25 @@
+{
+  "FILENAME": "gkrellm-2.3.11-2-x86_64.pkg.tar.zst",
+  "NAME": "gkrellm",
+  "BASE": "gkrellm",
+  "VERSION": "2.3.11-2",
+  "DESC": "System monitor package for GTK2",
+  "CSIZE": "666418",
+  "ISIZE": "2530061",
+  "MD5SUM": "ca126cde9297c103fa33f6fdbd209265",
+  "SHA256SUM": "e5508ff29c6b3d851796b8292045d5654ea20c4cfbc89e78d727644173f9056d",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl8EkIoACgkQeGxj8zDXy5IGfw/+J4ESfeTZxJoi8Mk/CaqScA9vPM+HVTjev38K6ERoSNssFReyBIwJJGFVck+3a54/N6tT88GvNR6uquTQdoV4zd68Sed8Kr39OJxdrWnTKi+fIGDz0t/aLipbAHEMj9pgyJZiT8CuliJAB40rkGqp1IOS/qhJglnJugGfXMXFFeG03XmP5Nc7bMJ977GF8iDMKNC13B5eoe4A055LGEUb8xbiR70N27JCDCqQ2+nclvLeUg+e8fo/vwhOdMohhgI60P2iXi1NqHOPZfpvKIvPoOzrpykkgROE/409JADMXT4Ge4G1OTkomBpLzZV3iUFvap9dpxB3QE6+6eMCtiheTdQMyUhp762EbIYBy7NU+bfnHfqE//DxVDQtBfkCYQuMutzXWBf+fYRZmkeEvnT39LdYmwYoLRK7YgviKniDzK03CFqN5SxJFdb6hXKZ2OoIAnyBytsX5Xz8OX3s9li3f2VjJ4hUw2hG32aCSr2i2+ZVjwt+G4/aW9p1GiyLVVc7t7TCjGn/jh1JEbvADpUYsjHMAV83AWl7CZSAEE66P67jeNu26eFTQrXymWovwjOn7Yjxipz30Lev0WR+6vxLkUoB4Rdzy+iyVvg0gmqTnCfiNLSQ9eb/RLXksrB1nFH94nX1StIu+GMvdb5xh8w4j+ShsgFrxxoU1VffQB5SHvE=",
+  "URL": "http://gkrellm.srcbox.net/",
+  "LICENSE": "GPL3",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1594134641",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "gtk2",
+    "libsm",
+    "lm_sensors"
+  ]
+}

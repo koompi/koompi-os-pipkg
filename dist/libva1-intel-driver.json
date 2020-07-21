@@ -1,0 +1,24 @@
+{
+  "FILENAME": "libva1-intel-driver-1.8.3-2-x86_64.pkg.tar.zst",
+  "NAME": "libva1-intel-driver",
+  "BASE": "libva1-intel-driver",
+  "VERSION": "1.8.3-2",
+  "DESC": "VA-API implementation for Intel G45 and HD Graphics family",
+  "CSIZE": "731353",
+  "ISIZE": "4247162",
+  "MD5SUM": "d6c5c429acb980e150a064e82675307c",
+  "SHA256SUM": "1b9bc17e2cb17ce0ba590a7c93ac69a6c3a31ec4e577d9c78f71785a4b30daf4",
+  "PGPSIG": "iQEzBAABCAAdFiEEhs/8qRjPOvRxR1iAUeixSKmZnDQFAl8E6HMACgkQUeixSKmZnDQO+Af9EvTBeza3B830jHQNF5l1pk+HJyFckqZJ3s7Z5g3IdBkN1WqWd6yBTZLL0Zk22BZ83W1BbK7OGBouWe8rKrJJYTiHaauY+oC1VIb1uGkxIDlX2fvuyfBnTkFl4mxHSNSIk7UW+DuwLXpzfStArVYCkdlC4f8oKxylX5yN3mWMAwX+qOVoKLNub7v9mdkOXC6E430LZjWfQdSjS65qm09BspCWa9CkmL9W+payKLUWjQUXxTZLteHaXVxMy0RVe0OrSUNunY3xMeXdmhKyPd4mW18PxyWiui0AWOtaaI1oSpYEIZsqqI3nhEZkx7Ut/T699CXxI2SjnzLeHyWLmDjajA==",
+  "URL": "https://01.org/linuxmedia/vaapi",
+  "LICENSE": "MIT",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1594157133",
+  "PACKAGER": "Evangelos Foutras <foutrelis@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "libva1",
+    "libdrm"
+  ]
+}

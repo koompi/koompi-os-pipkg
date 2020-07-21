@@ -1,0 +1,23 @@
+{
+  "FILENAME": "haskell-template-haskell-compat-v0208-0.1.2.1-3-x86_64.pkg.tar.zst",
+  "NAME": "haskell-template-haskell-compat-v0208",
+  "BASE": "haskell-template-haskell-compat-v0208",
+  "VERSION": "0.1.2.1-3",
+  "DESC": "A backwards compatibility layer for Template Haskell newer than 2.8",
+  "CSIZE": "24001",
+  "ISIZE": "50040",
+  "MD5SUM": "b4f2feca3ad8029970c2abe4a9dd3b5b",
+  "SHA256SUM": "06d867f4beba0c0349ca54497199be8a7f80572fb5269242dd3ec25b17217fba",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl6iF3cACgkQeGxj8zDXy5IfVBAAu4OiydLvMzRKpfCeofgB5tPkDLmW+d6PXZ1KLhkVI5quIcgriG48O1NjQPB3YxuIUDRwpcZcuOrP6CuN3SdYuBZRx0jUQL0o5+6+MuqKVpjBTY0ip4U45HmQPaXBzaeTlj2NouoBYq4RGd6cj2mpzHGV7skkiZWsBFp/yKsvFMW+i42+oC0T4tky6SdKy6zudsVDqMevzhFBNZlfvTdiT+xRvxh+UABjScPNsaV5H5hFChxXKjabJfjTLZ58n9UltfRQT2G3EgIa+utvqtLXhA66mlKWdFjZU+JVlR49tUPVogX4bGzVaON+sejb9QzqtZ1JHCeGAkb1qSTGamjeVhBcMZg+8Pwhcv7ViRh5K1p0M5aOemyZRHoZiNWcVIHUi5hbh+utK6Tifv42dmSWPskwzkSa5Vv3d8q3X6vuFhRQY3otxa9cQC89U4kLyfQLatxPs3K7OuXFXXaQ5MBio5JzCiGnFN9vo3yKqzGKopeEHchUmVLTq02L4MUt3PL1hAO1DzeK//MI95BJ0kU9xjEk4oZmD7lRtlPKzx10nMEBM0dDjyE1FidY2J2/CwN4tc+oaRUsS+Ii74rLp9JCvDqKyzrsdgvoZR7sB/8bC1XkiQVn10+50CfBF/iDhbyRLvDa1Fqh8zO48Lfi+rjhfGEpB/u1ooSFMZQENYW1j2Y=",
+  "URL": "https://github.com/nikita-volkov/template-haskell-compat-v0208",
+  "LICENSE": "MIT",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1587681056",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "ghc-libs"
+  ]
+}

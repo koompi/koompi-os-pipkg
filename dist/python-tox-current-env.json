@@ -1,0 +1,24 @@
+{
+  "FILENAME": "python-tox-current-env-0.0.2-1-any.pkg.tar.zst",
+  "NAME": "python-tox-current-env",
+  "BASE": "python-tox-current-env",
+  "VERSION": "0.0.2-1",
+  "DESC": "tox plugin to run tests in current Python environment",
+  "CSIZE": "12045",
+  "ISIZE": "28949",
+  "MD5SUM": "e9d2de6220435d534720e4429f5fb6fd",
+  "SHA256SUM": "15d72bc537595e3fea2161111f08dde495d91de7c711530cb4c6bf6402768c24",
+  "PGPSIG": "iQIzBAABCAAdFiEE0jW0leqs33gyftiw+JPGdIFqqV0FAl73jC8ACgkQ+JPGdIFqqV0tGw/6AjfRLy7rW4t0tHIa2A99Bkf7ZKYoPvXX0jPUsYa+ZfWfwALhE/5p1VGsm55MIVKj1N8p76tadzYh6DbEy7hLSAC2lfw2Bpu+eLdEpAw2DApc/78AO4OFB0W2KUFqm7NiwivzB/atrcoiIQUTWvEQZjMQreBBrz7NDYMxempEucTrHdjJ0MOLohdQkGQRCtRBfcP+AKQptQJ7dl9tbAzLMCNLzw0g33Osoooz2ZixaH432tvWhjbDmVfRhljZjKj/p9MM+FsKnxfML0DjyuKbrbeFWpU0mrWwp1L1oxkUEPIfbxFvnyprzBrmi0oEkRY74U8O2s/R6n65ZHbunraAmbZAjCECJvNf5VLrsZoLeUq9RPhr9j1rGguxdAAdXhxCoJ+JzFUgxUUO8ZfmW0qAmOq+X8qaB6IN3KsD02DnIzDIZ4VWJjw6ArvqDMkH8zkpTUAOpuw3k/R5o7AQZPSNcF4n2DNL1MIQJRyhWMps3REXiGqeyzvNOvDcD15mC8NuuAqkUWmONzDHY70YY1wmL9CyfyXluzMgEXUjRsUt/J0tbnOdI4Lfs7KcmPn5W6I66WP9A/gtdI9bQLIOLva/nCwoA9BjKbYkkX0clNFSLxHpmEyKhVfFGOdb5S4R9C3D4Cssp0z8eK6b+lvLlGHgKsAa6e6JgVtHmbpXh34HRXU=",
+  "URL": "https://github.com/fedora-python/tox-current-env",
+  "LICENSE": "MIT",
+  "ARCH": "any",
+  "BUILDDATE": "1593281558",
+  "PACKAGER": "Filipe Laíns <lains@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "python",
+    "python-tox"
+  ]
+}

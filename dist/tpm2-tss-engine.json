@@ -1,0 +1,26 @@
+{
+  "FILENAME": "tpm2-tss-engine-1.0.1-4-x86_64.pkg.tar.zst",
+  "NAME": "tpm2-tss-engine",
+  "BASE": "tpm2-tss-engine",
+  "VERSION": "1.0.1-4",
+  "DESC": "OpenSSL engine for Trusted Platform Module 2.0 devices",
+  "CSIZE": "27104",
+  "ISIZE": "69383",
+  "MD5SUM": "50f5a3aa51df63edee5fa5712696f495",
+  "SHA256SUM": "5a3602b50688a47eced6e103b532967e5165f93993e4f4bc7add1aa5e6f7b2d5",
+  "PGPSIG": "iQIzBAABCgAdFiEE0ZGnjxiB84R1PJZ+aGsGOsS8DskFAl77WwUACgkQaGsGOsS8DskjGQ//YWdNiNpJn+YTs56zfFVkdDMvgbRrs9YgRjtAuW6kPQ3Fpqm08hNwMLdHKcDnixiVkIIVK5I+6UQYPLDOHZM0ZQRAwxgnEVidw7bMHt1XXCcOpdh7V+3KQ5IGn0BAbVkgSFvNbKQT7op6Eh+vGq1lAufHfHeZcbmWGld7DxGX9x/YAQmNT/JxMcvoJS1C1z11EOhcWYNqIELBCgz33ayY7iBgT1pA51vu0ONt3lk6S2Q/kgilCda8HU4WnFYnY0nHrxAuQbQPAF88mWxZu6CMocZlPSWQrr6mZb6d0E2XxHD/1WofCAeClHI9HaStE+yuIBh5Mxi1a8WpAVafBKfJ96FIlsxFrTtwyudlyYgpW8Ddx4yCAienyku4UFSd0eHwLboPTDx1xmipgJ1fWPsMcRpneBcqFWH8mcLVThYSB/bjaTerPAuN4xILZK9m0OIfxea8Dl6PLKPWd7sV/ksdx7qnvZCre5B4XSTq4FBtrsWdYoxlcjmbTiXnyh03vJm7iyTZaFxOWbXyofSQYmiybgMm9+0+DesUeT6t1D2ypiZBG1Ye3wvfyiPFneQPNJYWY0m9dsBAMFPmgLTXMyH/YUDzvad1tYI76SzpGWWAgHwdqQ/1g66MkjJ47UahLITEHXHk8VL/qdbXarTgGIgKBjwq35vWBlAAPswl77htvpM=",
+  "URL": "https://github.com/tpm2-software/tpm2-tss-engine",
+  "LICENSE": "BSD",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1593531103",
+  "PACKAGER": "Jonas Witschel <diabonas@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "openssl",
+    "tpm2-tss",
+    "libtss2-esys.so=0-64",
+    "libtss2-mu.so=0-64"
+  ]
+}

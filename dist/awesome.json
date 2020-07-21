@@ -1,0 +1,38 @@
+{
+  "FILENAME": "awesome-4.3-1-x86_64.pkg.tar.xz",
+  "NAME": "awesome",
+  "BASE": "awesome",
+  "VERSION": "4.3-1",
+  "DESC": "Highly configurable framework window manager",
+  "CSIZE": "1237100",
+  "ISIZE": "9710592",
+  "MD5SUM": "159689e9c0322d9b31918cdd639b1a56",
+  "SHA256SUM": "d174ccc03ada7808c35d1c4cf0383875205631c96e2bc495c65b05a6b8b585b5",
+  "PGPSIG": "iQIzBAABCgAdFiEE4kC1fixGMLp2ji8m/BtUfI2BcsgFAlxckyAACgkQ/BtUfI2Bcsj+6BAAzPPZ6m/JDo/2Px3jIBVz/agMMCOddO6tXgK4UH8QiS/Ytany78qXR+l6CW/50RbUHgaxYQn3KwYKcUiwISULTPUFHJ/ErwRUBiNTSxIh+pgQfHEiKEEInNGl4wHAPKuY0XzRPF9w7/NutpW5TI8IYH4byQgQl7K3GDh5E0hfG7gTuoFSMuysFpQRdlPG9mi53TU6l4hU/Lu2yFvNo5rnZ1UHp2j01tjqTad319Gtwa9CYO2KaL23XgE2y9xEtBBDVljhI2icWKDo2ghT8yvbSaV7YGuqf+mvBE/kKONyticKrF5QKZG0OQN3JEK1bWKNTaUWMDAZhjFTBgH2wmwb3UM413BaLJYMv2ubDKNOSkhlMH+87skPQKdBqcCoWsIrElUCoRVDE5ZY1G4t362ivBdZJrbnW+vi8sBbBWYWPudC/WThrD3EFcjaYWNq7I9ihL0w2wz7kROVN5J1kMM7pLky2EkOlhZsz+G6e5a2408fMKywsCZ5aH7N05xwRtQlZSy4bmxAet9z1dANB7X6YQdYxk1vwhWGMsKrggUk7FvDL60pH39eehiSpYWRRIL18G9gkltUvW85wx5xz5z+Q/HoQj2IPzODp7V8/TJdRwbHhxtgMS6tfMBsCcLIHouK/bdHH+pBZHdvrSrDaFTROp7YQEbW8L8vMu4Z9pGPckE=",
+  "URL": "https://awesomewm.org/",
+  "LICENSE": "GPL2",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1549570787",
+  "PACKAGER": "Levente Polyak <anthraxx@archlinux.org>",
+  "PROVIDES": [
+    "notification-daemon"
+  ],
+  "DEPENDS": [
+    "cairo",
+    "dbus",
+    "gdk-pixbuf2",
+    "imlib2",
+    "libxdg-basedir",
+    "lua",
+    "lua-lgi",
+    "pango",
+    "startup-notification",
+    "xcb-util-cursor",
+    "xcb-util-keysyms",
+    "xcb-util-wm",
+    "xorg-xmessage",
+    "libxkbcommon-x11",
+    "libxkbcommon",
+    "xcb-util-xrm"
+  ]
+}

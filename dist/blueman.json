@@ -1,0 +1,28 @@
+{
+  "FILENAME": "blueman-2.1.3-1-x86_64.pkg.tar.zst",
+  "NAME": "blueman",
+  "BASE": "blueman",
+  "VERSION": "2.1.3-1",
+  "DESC": "GTK+ Bluetooth Manager",
+  "CSIZE": "918570",
+  "ISIZE": "3580270",
+  "MD5SUM": "a1d5194161ac0e2d2deb5826c71d34a2",
+  "SHA256SUM": "315c83e990264df8f72f91305c841841ac44f668d229046ca86f28df1b5c5921",
+  "PGPSIG": "iQEzBAABCAAdFiEEzgvecadZqH8j8PfYth284QkBwWMFAl7ONlMACgkQth284QkBwWOT/AgAn/DyxfFt3vWp9AFwvC+MbFDpHUfGW5Ayb/lVrfEeHdfZHpYOEnsMB+5M3fuLRxYJkPlxVyJhUBT3hjWglV4rVxA5giaY1Lo4fGnFdWSVx6F5YZ9fjWbRWbPGFgtL0Hmujc5ZZKNAsouYzHGMNWHyl2s5y9EYoreZIWig7Fx8bAK2EKP9X7EON5BhRRRbQ/7NYH7rCzruUH2nsYw8UBsMQPyQaL8Q0eRZZu57CCtOFdIfLJQan/+f0aDJoLNj0d7JFzRpyKO2gp8jjfUWFr1RbJhTF/Dd/OzgnuONzea2AYbg+vdSgtH6J5nNxjiGZ1pbiRigJzyB/5cS/n9yKVfYwQ==",
+  "URL": "https://github.com/blueman-project/blueman",
+  "LICENSE": "GPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1590572549",
+  "PACKAGER": "Balló György <ballogyor+arch@gmail.com>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "bluez",
+    "bluez-libs",
+    "gtk3",
+    "libnm",
+    "python-cairo",
+    "python-gobject"
+  ]
+}

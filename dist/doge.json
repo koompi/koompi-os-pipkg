@@ -1,0 +1,23 @@
+{
+  "FILENAME": "doge-3.5.0-5-any.pkg.tar.xz",
+  "NAME": "doge",
+  "BASE": "doge",
+  "VERSION": "3.5.0-5",
+  "DESC": "doge meme motd script",
+  "CSIZE": "26608",
+  "ISIZE": "117888",
+  "MD5SUM": "ea02cf84327b6f6411979a443c7c39e1",
+  "SHA256SUM": "f83cb5d43bcc092e91ad78b4d82074aae40cfc8546383e3c72ef3b0e7b6d14a8",
+  "PGPSIG": "iQEzBAABCAAdFiEEhs/8qRjPOvRxR1iAUeixSKmZnDQFAl2/49EACgkQUeixSKmZnDSyUQf+Iw9onZaHjLl1mSjNzZrbl1xBcWx5PQ95C+ViKzNWZ7WT8UwOtjxGaNdP/k5lS3xkDBs+kwoQcV+gQC2f27+job0+DAOg+KYvMa3nKuZOOQefSq9NY73xY4baYAqfBdNpgCP/k+FbJwDxdQJCSK+56T5AP8+bxBdWmK3WTp6ZmqUdqMP9WyRgxxhvE/8Vm1wd/KVBG03+DjQZbYIEg+frcaSABcyqObWvrUkP5nvvameKZJc5vV0GHwoKefSCi3xZHQVB0APczB9ptFBDToyAok3sVEqVlIewgvNDnOIg6ici8UCer0qYg+tPVUEEIWbi+wAzTBDY67qBjUUP5droMA==",
+  "URL": "https://github.com/thiderman/doge",
+  "LICENSE": "MIT",
+  "ARCH": "any",
+  "BUILDDATE": "1572856764",
+  "PACKAGER": "Evangelos Foutras <evangelos@foutrelis.com>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "python"
+  ]
+}

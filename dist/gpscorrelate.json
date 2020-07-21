@@ -1,0 +1,24 @@
+{
+  "FILENAME": "gpscorrelate-2.0-1-x86_64.pkg.tar.xz",
+  "NAME": "gpscorrelate",
+  "BASE": "gpscorrelate",
+  "VERSION": "2.0-1",
+  "DESC": "Correlate (geotagging) digital camera photos with GPS data in GPX format",
+  "CSIZE": "191872",
+  "ISIZE": "439823",
+  "MD5SUM": "a9db0591d92cbd55f35c24392cac8806",
+  "SHA256SUM": "7d61fbacf7bdb630a2e490f491a55eb72bca856582b02814f8c18555cc8d9bc2",
+  "PGPSIG": "iQEzBAABCAAdFiEEFRnVq6Zb9vwrc8dWek52CV2KUuQFAl3wC9EACgkQek52CV2KUuQ1xAf/ZnPh3q7j799MpexUJr02PrVIboWQ2y3kGT4doPrh8HIz+xyGWC849G1vjdrxqLTmK3nQfIAEOg25wjiVV7gzFzj6KJfD0BKsUMKpSQM+UOnUD2KMmLiO6ORJ3jY1PGCwmN2Fd28zbMOaIDUKJZZIyTnxrpxKlGkazYIuMPvvY+qVG4ia2gwyZ1J8LY8WC+/wasSmCyn1DP71BuZZjunGCvFAuIHFBYz8oNfLDs7CSPGdLdHKl7I6JK1Jsm4D90OHv5mvaCui7ZJvtJU+naiNQtoq7Hs2hUV2OV460kNhk5tNu1EvAhnaNrNKPtSZELHEo8DxZPkLq3LGuh9Dheqwrg==",
+  "URL": "https://dfandrich.github.io/gpscorrelate/",
+  "LICENSE": "GPL2",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1576012606",
+  "PACKAGER": "Antonio Rojas <arojas@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "exiv2",
+    "gtk3"
+  ]
+}

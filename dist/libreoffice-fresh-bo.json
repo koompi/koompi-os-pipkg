@@ -1,0 +1,23 @@
+{
+  "FILENAME": "libreoffice-fresh-bo-6.4.5-1-any.pkg.tar.zst",
+  "NAME": "libreoffice-fresh-bo",
+  "BASE": "libreoffice-fresh-i18n",
+  "VERSION": "6.4.5-1",
+  "DESC": "Tibetan language pack for LibreOffice Fresh",
+  "CSIZE": "2859486",
+  "ISIZE": "25627694",
+  "MD5SUM": "f7ef6d3184417da756487a9585485102",
+  "SHA256SUM": "fd0d304ed48aeb6c883ed23e4daaea03d561ad2d7cc6c4438330c11d0d7b2a3d",
+  "PGPSIG": "iQEzBAABCAAdFiEErcih/MFeAdRTEEGelGV6sg8qCSsFAl7+FvoACgkQlGV6sg8qCSuyxQgAqM/g6yBeQNJJEJJ7JdIoy9ytq37p53dahdnOlWXJa2WlXcHGfqgi0y8joXPxxYlIyN0thxfwgHyVoRziXTlyITIycdbolYiqnvbJ4pjMHcBBwDWuRmry36F+fdtokxCMk81/pQU1n6BcUJogsGQ0SQ5TZLI7gBCcRatzz6dQgquj4TUHJu4IvP+V/Ub3Wu4OaOyqbs8EX/mwxa1M92wzFlCNk8OrxeBX5Y3wxmguJoDhzQhmuFEJol6zljveaGg/ZPNxWz0xxlz3mqYrbUk30wosTOw/qLTLld1iIfttmHX7Z1pUnjUbvm+VnfemuqbflZUkiFVVn7wWGPS6rr2y1g==",
+  "URL": "https://www.documentfoundation.org",
+  "LICENSE": "LGPL",
+  "ARCH": "any",
+  "BUILDDATE": "1593700315",
+  "PACKAGER": "Andreas Radke <andyrtr@archlinux.org>",
+  "PROVIDES": [
+    "libreoffice-bo"
+  ],
+  "DEPENDS": [
+    "libreoffice-fresh"
+  ]
+}

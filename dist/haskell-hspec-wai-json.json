@@ -1,0 +1,27 @@
+{
+  "FILENAME": "haskell-hspec-wai-json-0.10.1-56-x86_64.pkg.tar.zst",
+  "NAME": "haskell-hspec-wai-json",
+  "BASE": "haskell-hspec-wai-json",
+  "VERSION": "0.10.1-56",
+  "DESC": "Testing JSON APIs with hspec-wai",
+  "CSIZE": "31879",
+  "ISIZE": "109849",
+  "MD5SUM": "3a82287284ac7472a0912f3260c2d53f",
+  "SHA256SUM": "18043e640de97ad81a0a222e0122ccd7a87fdc40bed012e0e2468605b7a2ea3a",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl75x3gACgkQeGxj8zDXy5JTZA//WFn1yHzXfmWCMznTsGBRFXP1skDPGFPHK7RrcsnY654SP671jXonUtbc2ZKhKyRqQJ/Omgrpxrtv3xur8sKE4QNrxpkFFU8USYXFtaO7YTC5D1LHSkhVMfhYUwJ1qQSCMzBqissv4cDG1ABm298H6Xp8fLTFdtnZPssbaOFjszRPg6hwuNrB3BM9Yqw6Rphx4FoYDCxCiip+ArQNCBK/TL50GPboA/lY9N7BaBU4BdwBXOVW5uDJ1XU8CZ54B2MQ9+/3hS9tDguqPOR7Ebo3db4pw5lqvm1p4l7Uv7a0AawEuETZ40g3bmOzoNH9JUMtbVYyLs4ohX5VdzvuVz43luGXPHStx3FI5gLrSdJB66o/VWmr/lzidrDCqXCWbFi6Gmc4zZbmMgiN52MBwC3m5py1DQu9L6gCrS2kxMIcM8btRmgziZlfDVKYUkeP/O0MZkukZVoQy1gvvzb9MH676e51RuFIquU14O5HKCCEn14xR75tcjrc4ZbFEaffAr2AmUOr9C4v0ss7LMtyX53ekXl6fjGIR+rYEH+0go+9gv2XuTGQZmduggcj9cqM6f8/5YsiIzI9j7+WNq7dDmjQSqsmsU13ukwBg9F4mcPeYy5hAVZlzZR5OroNX6YwUTI0Hk9emVjBwZglJv9g0R8H46SaRIdbvmhfapsvKtMx0NM=",
+  "URL": "https://github.com/hspec/hspec-wai",
+  "LICENSE": "MIT",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1593427798",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "ghc-libs",
+    "haskell-aeson",
+    "haskell-aeson-qq",
+    "haskell-case-insensitive",
+    "haskell-hspec-wai"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "FILENAME": "libreoffice-still-sr-6.3.6-1-any.pkg.tar.zst",
+  "NAME": "libreoffice-still-sr",
+  "BASE": "libreoffice-still-i18n",
+  "VERSION": "6.3.6-1",
+  "DESC": "Serbian language pack for LibreOffice still",
+  "CSIZE": "229486",
+  "ISIZE": "1337284",
+  "MD5SUM": "a10f4edd32e9edee04ebc0c07ed2aea3",
+  "SHA256SUM": "5a581321a5080f622e43492d741ae5731e02eee8fb38cebc5c96e720631f9b7a",
+  "PGPSIG": "iQEzBAABCAAdFiEErcih/MFeAdRTEEGelGV6sg8qCSsFAl6tSvIACgkQlGV6sg8qCSsDIwgAsSSX0X3hwPbcMbrpmUZTRSGapd3SRnJdfEu4hy3Rwx594qHwkGOr0Vx+RiVaohLSr/UDuxVglP5HcwNb3FihqhikUlynia4FUw6tULIuG9HQrXZxnOGvE5EO1T6r/C6o1wwoLZYFVaNhQYLb7GIkKrVJWU4e7mhpdx8rddpPdzB64z2gdINYa49fn90gEOgxWhDkuN9p58tE76Rf+mvKuRJ451Pe4u/nUOXLjHGZuJEW82E1bX9XeHbmIhsWm7iMZnFZ4eVqRv8kjEYgiP9JWeKMnpcwna/wEpjfD08SNK9PO85r9ipdcFROshqObqTbSESap3Xg21afAhg/d8fpTA==",
+  "URL": "https://www.documentfoundation.org",
+  "LICENSE": "LGPL",
+  "ARCH": "any",
+  "BUILDDATE": "1588407321",
+  "PACKAGER": "Andreas Radke <andyrtr@archlinux.org>",
+  "PROVIDES": [
+    "libreoffice-sr"
+  ],
+  "DEPENDS": [
+    "libreoffice-still"
+  ]
+}

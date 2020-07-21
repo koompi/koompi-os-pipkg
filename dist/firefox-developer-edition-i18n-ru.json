@@ -1,0 +1,23 @@
+{
+  "FILENAME": "firefox-developer-edition-i18n-ru-79.0b6-1-any.pkg.tar.zst",
+  "NAME": "firefox-developer-edition-i18n-ru",
+  "BASE": "firefox-developer-edition-i18n",
+  "VERSION": "79.0b6-1",
+  "DESC": "Russian language pack for Firefox Developer Edition",
+  "CSIZE": "592631",
+  "ISIZE": "654312",
+  "MD5SUM": "997dd06d4f157a68a71bd7a9b2bdc349",
+  "SHA256SUM": "b82919cb7fb7557d836c051ba541562e7ec5cf89364e8c6a9b62207893437c8b",
+  "PGPSIG": "iQEzBAABCAAdFiEEYB8g8dG7v0p4z1tt9rFhCz7NvJ8FAl8IbNEACgkQ9rFhCz7NvJ8t1Af/XuCubSljWD4v3WKL0SZWRevXwqrN8Wsf0+/8/pMtLy8JUL1Zj4DUvfZeeM/1wa4v/Yk9M3XSniEnz1M4FzAGwOTB94qzJqC7pVCxvtThhfXiNMnByS6Qn8/rPo0UWqNHjRkqGx8KVJmh55p2L1lOPF6ciHQ0gJPv94KX0SLDj7ijQ6mRz3oPfzCgXITivn0feEMhQnzg2rfFT6q+s5yupmjhMyIRk9Ye4GU2MqOnPWxeo30tkWZzDoc2x2eJ6NPa+Tjr4heNNArqprcitQ3KTarMf5sFUdcoXbwavZ+mI2H+3ppfQiAziizJJcWuGlsRIuZ/d70bUjJ0ON4JyLr8HA==",
+  "URL": "https://www.mozilla.com/",
+  "LICENSE": "MPL",
+  "ARCH": "any",
+  "BUILDDATE": "1594387381",
+  "PACKAGER": "Andrew Crerar <andrew@crerar.io>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "firefox-developer-edition>=79.0b6"
+  ]
+}

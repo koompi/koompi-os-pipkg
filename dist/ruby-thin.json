@@ -1,0 +1,27 @@
+{
+  "FILENAME": "ruby-thin-1.7.2-4-x86_64.pkg.tar.xz",
+  "NAME": "ruby-thin",
+  "BASE": "ruby-thin",
+  "VERSION": "1.7.2-4",
+  "DESC": "Thin and fast Ruby web server",
+  "CSIZE": "113220",
+  "ISIZE": "525390",
+  "MD5SUM": "a5628a0ef3efed6062f3bc025adf2785",
+  "SHA256SUM": "54559633eb9735d618310bb3d45e84d5a39d52f6c25d32e86ed3318fedbecae7",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl4ED+8ACgkQeGxj8zDXy5JzZhAAmIB7TohKke1/fHJHB2c0+2kisWiYuUWA02nfnHRQsZDH2yHMtTXsiVRfewTEZ1oGt3nZLd83MO/hgu9s9x3fKDPjp3xsDgv7VfYAEOMC6iPPAU8HmxvN/Rme8ITMJxQos5xab2IQsrruUERKNI6teKRp7leO3edvi0J43o9Bz0AejdGwToZZGNRpsUJhKbWygwWuOdTTm8L+KtUo7pg+0RxAC06H8+C9wfCEQjoDBdlBNoTd5iU0Pzkd6Y3lNtc2MycBf4Ul2uBm5HClIg5016S2NS1uLD6dTbikvR484me+1155nHXUfy9AgLQEephwlnL2RSRYNn69Hr1P9oUvKAai36EUbuKxjhSBbRLKsm8sishEa9ZpAwrdrTYy0w1Y+0DT42iHuFXkdGC16NC9YD1JpeogA+8GLbcUKg1rBp5HjOYbab5JVQjP2E/fdyo28vTrNAcnsV6EbPNwjb1bL7SpNIfoPGi2GV7EzjeJMH2Jb9Hg836xjFr7fbFBxdkGcqnzGP6bv1wqjiTZ4BTkH4tdupVbFjzS5dz3zPJkQS4sGb19LV+yE1RtC1VeBc2ePZ7A8gX5BDis5R3/Yt63g6Z0oJZeIH+MJvOHCt6pew5AHN0b5yMk2Nr2XacVRK8rktvmeRuDOvemmUkrWLO+9cyj5K9GMQr84900+KKVx74=",
+  "URL": "http://code.macournoyer.com/thin/",
+  "LICENSE": "RUBY",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1577324484",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "glibc",
+    "ruby",
+    "ruby-rack",
+    "ruby-eventmachine",
+    "ruby-daemons"
+  ]
+}

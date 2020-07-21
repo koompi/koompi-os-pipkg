@@ -1,0 +1,24 @@
+{
+  "FILENAME": "udevil-0.4.4-4-x86_64.pkg.tar.zst",
+  "NAME": "udevil",
+  "BASE": "udevil",
+  "VERSION": "0.4.4-4",
+  "DESC": "Mount and unmount without password",
+  "CSIZE": "91912",
+  "ISIZE": "365990",
+  "MD5SUM": "2162ac09d9ef065e78adf8fb69aa4c44",
+  "SHA256SUM": "b5613cd262463604b0340a0668c6aa0f03179a6d528cb490f50f73f7db840166",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl7L8C0ACgkQeGxj8zDXy5JTag/9FJa1fInKjDmtJLuYA+YL+G5ZWOBvDrwK8sAxu9qrZlJA3fSmJWmDll0PIISJOcFlJaeAKLmRbbSy+vhIaJPiKWuIX8XmZWGTJm7C1aZqHZsKDT2v0pamDjOyuvewFNHIOUOT/8AAJZdYKzhhSXeSI9i3PkwuN+OwztrogrGoIZcN8y9BY2DIQxxbOb/WaQJwBobho7XI8yrOCDTaobsyLOWWzukNz1ZxcqHG30y9Hek/eP1uzmy69wWk1b+r6GGXnL31guhLuzAD6tDph8kNDg72Pd4JkdTWkxynJngy4MozIjroFPGt2BoQMuHQ0ZGx/XRZngffq3fyh0YgAfUpEn0lMwAIKqTR0+myCoFi8epeQ+A5YjOKf9YY2jz1iUTiKUz762KSNgXQQbxt2o0MUd2Iayd9sX3QSCmRZA61ZJqNF5spZUrktB6mi09gsYXisImWxAeD00MoBdGzTUkC07NcAQ/vEIO+cu5aE/ZYxxuziZaC29SHznp1Lp1xZfcqGpA4jHpc/x8MaRyOXwOZshQSRi47P+Cq+xnf4RUyW0Zha6/9A2FKIU81y6BNgMPOlMhkVC7QvG78lvoMv6/QCC2OwQIoT5c8kmCzWFXtmpQ1Wm4OXqZXmNBoUb5adpBwLYEa42pAh3pEJKBPG87yTd0XQh829paISBUZfYNCuk0=",
+  "URL": "https://ignorantguru.github.com/udevil/",
+  "LICENSE": "GPL3",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1590423489",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    "devmon"
+  ],
+  "DEPENDS": [
+    "udev",
+    "glib2"
+  ]
+}

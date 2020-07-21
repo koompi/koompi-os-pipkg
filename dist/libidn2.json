@@ -1,0 +1,23 @@
+{
+  "FILENAME": "libidn2-2.3.0-1-x86_64.pkg.tar.xz",
+  "NAME": "libidn2",
+  "BASE": "libidn2",
+  "VERSION": "2.3.0-1",
+  "DESC": "Free software implementation of IDNA2008, Punycode and TR46",
+  "CSIZE": "118672",
+  "ISIZE": "408046",
+  "MD5SUM": "eb409982dc00524b94d648b67d59646e",
+  "SHA256SUM": "3cd9163f3f7e625b4d881f7654e43951e5b386ba3b2e106950398332e07bea53",
+  "PGPSIG": "iQEzBAABCAAdFiEEhs/8qRjPOvRxR1iAUeixSKmZnDQFAl3NcTkACgkQUeixSKmZnDTIOgf+KtPXVVlSsWoLjoPEn8bcKFLEqruRT638Fmxx7QWPEkM9bTYo4A7jJxW95Yp0kokxfRn0dJsabhhCD8TzsPoIE8897ima0+DfMisafJuL7BJGQtfauBC23LHznchR79lPQDKRUwrh29P/vS2l4gGCXH0hINhcKZ2XbrBvYO7URUh1HzmLGdc3s3XjRHDJz7+/psfRBN/80Bi1zg9rJp5iwiraSL8STYLciOirEQU2FIHfN94W8esAHnpbsCASthANPNL158+8wzCyScjQvegKuMS32wEs6NvX77mWD/lrwNH5hyQYV9CS/1+O8GcNNYHStag/1HMWTGVRVMlk7dS2ag==",
+  "URL": "https://www.gnu.org/software/libidn/#libidn2",
+  "LICENSE": "GPL2",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1573744893",
+  "PACKAGER": "Evangelos Foutras <evangelos@foutrelis.com>",
+  "PROVIDES": [
+    "libidn2.so=0-64"
+  ],
+  "DEPENDS": [
+    "libunistring"
+  ]
+}

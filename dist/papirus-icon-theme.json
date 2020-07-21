@@ -1,0 +1,23 @@
+{
+  "FILENAME": "papirus-icon-theme-20200702-1-any.pkg.tar.zst",
+  "NAME": "papirus-icon-theme",
+  "BASE": "papirus-icon-theme",
+  "VERSION": "20200702-1",
+  "DESC": "Papirus icon theme",
+  "CSIZE": "16955098",
+  "ISIZE": "83199874",
+  "MD5SUM": "d77a92d8911427120845822a9a0d27fc",
+  "SHA256SUM": "e063de9d4a897ba2851ee5eca739d6623e876926088c14479a972f64f61a2c88",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl795C4ACgkQeGxj8zDXy5JD0A//VxB18E8A4U72p5r4dj6pWCNsmVFRJJ/j2m7R1JBGjRE6FdoEB4EEm85Huy9dbkCT/EzG2szapZrDkhulnVG7Rnr9l+v3cTgDASCs3FZeG0M2bB+2SXJykilBimbDUzRVWJ4YB/d7zpM4YseRUXikomIud0Tx2LubHV9AEsllAQV+NPvHry8FxoK6e3xZVuJO/IwB7It8cDADgKRF57rp5T40036p0P1FBSc6IQL+y0tVCs0svsXTGRY2AUGPulZW7DncSF/lk9F0DsP2bdl9bq1epRn05DyNqhahcxeIPTjzydJxDfWH1RaDXFKvIQ2eDEiYs5FSOhyP5wqX6eNkHVbV4COdEIJaFKiu4Eim1nYKlonD12DNWvojWNrd1oPLZejtzqgWjFG0Td5IAnk7uLRauxWs0MDCywkgEhPs7oAhcf1i4KAJ/RNfDg/+PZtE+AqpEUoqWDSBbokGmMAo81N5rrUst3QsxcpuqJrVnsVNGCbVi613cLx5uViFzi3VuP0CWKwlgIsaNtjrPdHr4xy5anXPAaD1nXhrS4JvGhFFLIGLgW/tx/ht8aTF8osUyYhRwIZV9brTJOf0H76SiZMfPsnA7OCYLmxsf2cXKiCxapvcNV9Tm9KT2wNrPY0tSF5SYUgWsRODrU/XiTEzhD+U6bLd4uOPWdD3gPrJp6A=",
+  "URL": "https://github.com/PapirusDevelopmentTeam/papirus-icon-theme",
+  "LICENSE": "LGPL3",
+  "ARCH": "any",
+  "BUILDDATE": "1593696000",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "gtk-update-icon-cache"
+  ]
+}

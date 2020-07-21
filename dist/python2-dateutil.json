@@ -1,0 +1,23 @@
+{
+  "FILENAME": "python2-dateutil-2.8.1-3-any.pkg.tar.zst",
+  "NAME": "python2-dateutil",
+  "BASE": "python-dateutil",
+  "VERSION": "2.8.1-3",
+  "DESC": "Provides powerful extensions to the standard datetime module",
+  "CSIZE": "270643",
+  "ISIZE": "905836",
+  "MD5SUM": "04ef7b16da18d2eac34c9ec85c424db0",
+  "SHA256SUM": "bd2e6123bf6a74cc5640fa3c5106c444adc4a2cff6e76f413fd0cdb6771821f4",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl5U/YcACgkQeGxj8zDXy5IMYg//e9dFhobVjR9rjeDY0ux0UUKaozD4xeYw/YDPUCndgE7G77fuiZF464HODhgMpr4PjUDnqT/wzy4BoXWu0+vL/2OQroNgAxfqrtpG+KxLTZZYyIU/vMtygfr/6J1AH3p2jScJZMvtJKpoqhEqO+bScif8d81s1+ihnebc2lFmRgMTxkUrAFG9ZhVdxASxN5x4k3A8MOqr6PILT+N1+YXHYKNRjIW29hzMX6vyTFrQ17xRK5a0jgK9njJgbv3k3l4Y/3ooL2q+B5pMpxGZabmIVs+xDXXEQK3Q94Ni3S4qvLwFDjfbvt0yCu4OXD7LXW76OXH6EbuLH/dstGndUZdcnGRsl45Xi6jgByD9V1hsddEcq/1Hxupg1O02K/UYRganP3Nv4JeZ4uDgWR2rTK9WahdKJ/enc+qWfr+ra4xOUM+6dKGl24K4pNiWsuNUhsFDkZX2hZiBao2UqX3rWlLrj/Hy08xRKJga5+HWKelyAOsjXs+9MkgXi2HdEebf76ypdtmc5mOU2gXxutDuZXy+mCRFlG5gM1S93ip/4USEZVEoHbnF9XP4Uyiu1PzghnrkxiSgCfpQJU1qAE/Eq2PN/atoe2SiKfzmivbRyLTPZ5B0O0F4xk1ksMB2TethFQhptK+Eg6JNh4ePNteuVmHM6cvn7No9oyiAQpUPydjiK5I=",
+  "URL": "https://github.com/dateutil/dateutil",
+  "LICENSE": "BSD",
+  "ARCH": "any",
+  "BUILDDATE": "1582628151",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "python2-six"
+  ]
+}

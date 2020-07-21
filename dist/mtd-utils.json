@@ -1,0 +1,26 @@
+{
+  "FILENAME": "mtd-utils-2.1.1-2-x86_64.pkg.tar.zst",
+  "NAME": "mtd-utils",
+  "BASE": "mtd-utils",
+  "VERSION": "2.1.1-2",
+  "DESC": "Utilities for dealing with MTD devices",
+  "CSIZE": "240359",
+  "ISIZE": "1217905",
+  "MD5SUM": "6f767bffcaf2a71e05b96eb22fa89ee6",
+  "SHA256SUM": "e3b1174090386b0ac795ed89d3142e845ef1ccfbe7fd165742a7e07ec28a7a6e",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl8EoRQACgkQeGxj8zDXy5LcVw//fRaORjttEiRQ68bJ39vsawqjjS1vV72v3pT7+Vs8LTh8TBNukCAaQwz/fh3mrTJsPlrEFW22qXN1bDCEUWKs41qaugZcZ6LWv2uAqsD9ccoHnuxraGzEB1RBEPsojlFUoTdfxKBU0eN6FE0n9uhKpsrQTTzq8EhLgvYVtRFpm3ydHDonLCryqGgMFq0C+XOjZ5LsR2QICJa42fEzmU1GcGF64ZYr2Ce3jVBk+oeib5nV/QBh/ua1V+JIv7a4O1oDZFybTMRzuZKZ6X55HILycyJeHMhsTMeuCK5/68E5Y88KrdPoc/ywdPh112DpLeUIUJ+1JWdOGEoJE3GQdP61YPLuooUWYW5FUgTPl1aLejCJkXGf+0kHdrw7i/fy4SFcAfydSRPtZRH3zWW4XpZTdx6zh0DXpsUBFe51PavRpdY0bs1tbdPaqa0n+U7hxf6AafyhoYAcPIQK89IHay5wzh1LTcPjiil3PCm4mxlnNG7oOpRHKA/7Or33a2ND40/G3aCpx7EDSNnFV2Ep4okhdAW7xdRn5Sw+wTzd6vD6Lm7TQEmhQuRKK9RNtelMXl8umGdHIgYA3xHK3L5DNx/7evG7HHFmfZ3tYZXSoZg3hnl9bwtdO8I5ba3bv8R5iBIuKcDyQnULbHvvUPC2hV35e4uKC9HztFXE6IKmFpBYucw=",
+  "URL": "http://www.linux-mtd.infradead.org/",
+  "LICENSE": "GPL2",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1594138772",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "lzo",
+    "util-linux",
+    "zstd",
+    "zlib"
+  ]
+}

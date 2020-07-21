@@ -1,0 +1,23 @@
+{
+  "FILENAME": "libburn-1.5.2-2-x86_64.pkg.tar.zst",
+  "NAME": "libburn",
+  "BASE": "libburn",
+  "VERSION": "1.5.2-2",
+  "DESC": "Library for reading, mastering and writing optical discs",
+  "CSIZE": "291252",
+  "ISIZE": "734460",
+  "MD5SUM": "1401d1daf48e62f9361ac420937cbc4f",
+  "SHA256SUM": "22af926db9b78f5dbc7e7f6c0e3858aef1ecbc573a58bb8d921c561194740fae",
+  "PGPSIG": "iQEzBAABCAAdFiEEhs/8qRjPOvRxR1iAUeixSKmZnDQFAl6/42gACgkQUeixSKmZnDQiDQgAuwvFnKshvIrts7iRRxJ4ytiHhj4RONhXSMqcP3hSDpyZmQvOUHMSHRwJUCaq5TdIHHcJypTCZertNMSgfVnXMrhnFXjFDZKnDR5vlKUneEhJqyIK21cmGewbz+8AbWfIhfOSU2oHZsI2m6MwQoRbrajAxLB7bLeKMH8u+eq/PwtprCvzmwy+T9EceUuOFKvOlWQjMbBPW3DHtzfyuweHCiBesEe99WR5Y0vDonwcscdnzFxxFSeNMe/xMaqz5SL4231fyPPws8WYiYAeuB9o9F6+0ILvxIP+TrPP3QhvqiXglcJmSGglO0pJrbnTABDQTCCM5JXJQ8qXMJONOAf7DQ==",
+  "URL": "https://dev.lovelyhq.com/libburnia",
+  "LICENSE": "GPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1589633845",
+  "PACKAGER": "Evangelos Foutras <evangelos@foutrelis.com>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "glibc"
+  ]
+}

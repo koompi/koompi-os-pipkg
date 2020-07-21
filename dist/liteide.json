@@ -1,0 +1,24 @@
+{
+  "FILENAME": "liteide-37.1-1-x86_64.pkg.tar.zst",
+  "NAME": "liteide",
+  "BASE": "liteide",
+  "VERSION": "37.1-1",
+  "DESC": "IDE for editing and building projects written in the Go programming language",
+  "CSIZE": "11599025",
+  "ISIZE": "56049116",
+  "MD5SUM": "8147fe796e3fb3052c22e390751597e1",
+  "SHA256SUM": "26d9fc2505963f502f66aec6d7d4e9d5f8d9b41062a3ce8501e3f14a1a810e4e",
+  "PGPSIG": "iQEzBAABCAAdFiEElihV8HLHoBhGQFhk/PPIy1z5yNQFAl6231cACgkQ/PPIy1z5yNTsLAf/SK9YFB7VvSNmvwTk293CBY75n0zmdG2qnxhyyccPibXL4usKTQwwaHOQnC0rcUA4tkxQLEJAr7v3BwD0IgZQ0u4mOQFL+QqgeQaNZYgih7cDgUkbeBZPIfctNNDE/QjcErAhhjSp0sH6RDHtRvtf/SNhhbmEebjU38uHCLuoWm7+vJvfPqIftS1WGgNwhH7o/wpBwWFZwQlulPj78t8Qn6BxvniHLtPTDy/61uGqa0aizH/rNid5Ci72lk9efwk9+Z5LBszhHj7oNZygdF/xBPdeCnJWVmzJzqL+HHs1lO46+LLMci0etoQH3LYhZtNu52N5deo3dKAik3OrE2hTPQ==",
+  "URL": "https://github.com/visualfc/liteide",
+  "LICENSE": "LGPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1589041932",
+  "PACKAGER": "Alexander Rødseth <rodseth@gmail.com>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "go-tools",
+    "qt5-webkit"
+  ]
+}

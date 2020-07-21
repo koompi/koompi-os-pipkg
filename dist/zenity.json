@@ -1,0 +1,24 @@
+{
+  "FILENAME": "zenity-3.32.0+17+gfb0938f-2-x86_64.pkg.tar.zst",
+  "NAME": "zenity",
+  "BASE": "zenity",
+  "VERSION": "3.32.0+17+gfb0938f-2",
+  "DESC": "Display graphical dialog boxes from shell scripts",
+  "CSIZE": "4434295",
+  "ISIZE": "6927756",
+  "MD5SUM": "aed7b860a7b8b464b8693b6fd9fdb6c2",
+  "SHA256SUM": "d18c529ecd2b65ae6b9843fdd81fddee6e2be53cbb787adf76abc2065726d62b",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl7DpBUACgkQeGxj8zDXy5IJJg//aHBTDhx5PlIQIWG+890ZVB+5waaJHyNHqemm/Xx48dnzbAfFf8xRdZHEXk7l5DxqpslVqGMAiZPDJtcxpsMgK5JAFxUrftM4e8Xmdigaz6DzuAF15Ptkq8TfK+mnYvdijU1rZU0Lc+/vPwPH3ZSedsnIuKZmJQ6zvgZs7Q/99KgQBn5p4KXMpNfxI8H/8BQVxPEoeQ4T1PNAt+5xWS/uVuUJDlsyh8f/yPBSnxSA6dfk8+5fKqUgRVXf7TCIcjZCWEmSHNJOTJSCkGumk1OExuGVRT+T8TwxIwRAz/fB3PhykTpscrfd2Xm+Ekl13StwM8RMvmP0BkHTdKBHyPW5/isoHoo6utkGbH3yYI3XelIBDihcEqgzFoKHaBdynVrWbYcWRaYcp88YJvt2clqk4ju35tTaIvhrci+Ru5rikf/1WzC0flegK/tdyq9J9oG/AF8InMuk1X7+eBKcTH5aB8X29rNa2Q5wE5Ft+Uq/+djiVUsoFXtLdb444zM7HxInDXdpPT6q1XRcVEQbAcQpKL2fT+Z/JhW89EXBUkWyOqq47AKIoAweNDOpQqesd1VwNNi+kyaE3xDKFcgi5UXzssz1vBEFL2GXp6B7NgySCEEufe/382N58zk6HAflySS3wpXANBIxhAZBM7kjR7M7RvcZY2nL0PjN8LAzwzlzwMs=",
+  "URL": "https://gitlab.gnome.org/GNOME/zenity",
+  "LICENSE": "LGPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1589879734",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "webkit2gtk",
+    "libnotify"
+  ]
+}

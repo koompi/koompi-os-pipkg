@@ -1,0 +1,31 @@
+{
+  "FILENAME": "xfce4-settings-4.14.3-1-x86_64.pkg.tar.zst",
+  "NAME": "xfce4-settings",
+  "BASE": "xfce4-settings",
+  "VERSION": "4.14.3-1",
+  "DESC": "Settings manager of the Xfce desktop",
+  "CSIZE": "629338",
+  "ISIZE": "3378844",
+  "MD5SUM": "c585416a678f3e70b7002cad7b404931",
+  "SHA256SUM": "a9c5ccb047a158051858833034c9a0fcfd378ceebc20ea2452a362a08d7c3c90",
+  "PGPSIG": "iQEzBAABCAAdFiEEhs/8qRjPOvRxR1iAUeixSKmZnDQFAl6TPKAACgkQUeixSKmZnDRTSgf/UKJgxa23T4O8Zg9ckKhIaBAQPxGz1TL5OPtmmmPynFNxwNlny4vMhGncdsfp7k8cZhzGdw4kJhSor3ViYKzxrwgbOKTjTzEwWCJzFsb6UUlJ1Sk1EyzeP+2ePq3IhsQlJzEUtxG4P+KxMY/dmVXowmjsol3APESIb7LrH45BDudDEw5VaCkK/QAO4PWRZsATqFbp+rqqywPGK0d+mvO432oyk21SZQaCpFd6plhpvyt/PnClO8CLFsow0x/g9jv8s8lLRv3PgFvheml0BKMXlbc7Q9aDl65VLdnZuU1amdpG4LKJM6/W5mbel/LD6r+Rof7k2NKSnS+o+sqaTT5+zg==",
+  "URL": "https://www.xfce.org/",
+  "LICENSE": "GPL2",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1586707557",
+  "PACKAGER": "Evangelos Foutras <evangelos@foutrelis.com>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "exo",
+    "garcon",
+    "libxfce4ui",
+    "xfconf",
+    "libnotify",
+    "colord",
+    "libxklavier",
+    "adwaita-icon-theme",
+    "gnome-themes-extra"
+  ]
+}

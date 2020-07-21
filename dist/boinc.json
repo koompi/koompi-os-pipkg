@@ -1,0 +1,29 @@
+{
+  "FILENAME": "boinc-7.16.7-1-x86_64.pkg.tar.zst",
+  "NAME": "boinc",
+  "BASE": "boinc",
+  "VERSION": "7.16.7-1",
+  "DESC": "Berkeley Open Infrastructure for Network Computing for desktop",
+  "CSIZE": "2058894",
+  "ISIZE": "9319870",
+  "MD5SUM": "b1680bae40d49208fa37aa3e92769823",
+  "SHA256SUM": "06e6f41957c6851f7558e120d360dc0433822f61cbe722ddfd080e3c51230d12",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl7naW8ACgkQeGxj8zDXy5KHKA/9Gyg8zVvhnHwCz1f1g1MdYrhCFIgaJ6JOzEVByGf+1BrqvAVv+nLvqNvyp8lMxsvKbeXvHH0jAYI3lyZ5hRVTd464WyfGDldjWuQyf/OBKX/C5mge5e91GOerx/FgEwOTZKaGErYOG25REcb5vPml1Z3aCWV79kg0cuYrLDoXxgDsWws2ntPUvANKHuTLSCuqkeH0yRDZvog413qU8shoPztSxcs+9M0LQeR/WESnrtnGrYQA9fyvbdMWqShVpiuNQMNHAv+uszBTA4iOamGjSCxiVniUm//8/dSL2UpuVPLL71yKaAsgZqwrtm4kXS4fDbbimcLTHFZDd6Bzx5d3SSfgh9DOMs/mFg/p0NKdKdZ4ETNoxordzeItRhO7ghGPzNlnlFlRG+KM8qDs5It+EsxrIHsE4ZsmH9rx2zAnn9jqPWD3J+wIohpnUyINLSTVU60etTLUShwXuuIhQFdAjX2bWyCjbCj+v2kyRsTLWmrhG72oN60BNgk2DFg2XEhPBFDi/2G2SBclG31bEDhYCdhsndkKM6dgd3JqrHnBPoXQcdKBko2u2hOPuAgrflbnnfIqvG8u0sTPhXrLZk8u4PfCdQfMnNoJYdl+ZMuH9ZrI6sikTXdt68M0XKR9zXBWlYIxrQHuIMvSzSJXlEU20U3T3jZDewQ0tFas1gIdsDA=",
+  "URL": "https://boinc.berkeley.edu/",
+  "LICENSE": "LGPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1592223523",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "curl",
+    "libnotify",
+    "libnsl",
+    "libxss",
+    "sqlite3",
+    "webkit2gtk",
+    "wxgtk3"
+  ]
+}

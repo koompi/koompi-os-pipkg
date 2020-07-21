@@ -1,0 +1,27 @@
+{
+  "FILENAME": "lib32-systemd-245.6-1-x86_64.pkg.tar.zst",
+  "NAME": "lib32-systemd",
+  "BASE": "lib32-systemd",
+  "VERSION": "245.6-1",
+  "DESC": "system and service manager (32-bit)",
+  "CSIZE": "530377",
+  "ISIZE": "1787546",
+  "MD5SUM": "605aa0521e29544732d346f6ab7cce47",
+  "SHA256SUM": "44dbc436fbd43e34b5d9fff1e49280b3a141cc2656e887bfc264e3d075fae7fb",
+  "PGPSIG": "iHUEABYIAB0WIQQEKYl95fO9rFN6MGltQr3RFuAGjwUCXtdGYwAKCRBtQr3RFuAGjz0dAQCGyHnYAyw9oTiWA3tVwHQ8jQD6aCCPlYlBEyvYi7bJfAD/dmG1KdUuL0P1E8XYJuH3SxHWZQcm31W4PmY16ToQ3Ac=",
+  "URL": "https://www.github.com/systemd/systemd",
+  "LICENSE": "GPL2",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1591166241",
+  "PACKAGER": "Christian Hesse <arch@eworm.de>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "lib32-gcc-libs",
+    "lib32-libcap",
+    "lib32-libgcrypt",
+    "lib32-xz",
+    "systemd"
+  ]
+}

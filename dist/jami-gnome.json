@@ -1,0 +1,36 @@
+{
+  "FILENAME": "jami-gnome-20190813-1-x86_64.pkg.tar.xz",
+  "NAME": "jami-gnome",
+  "BASE": "jami-gnome",
+  "VERSION": "20190813-1",
+  "DESC": "Free and universal communication platform which preserves the users’ privacy and freedoms (GNOME client)",
+  "CSIZE": "528452",
+  "ISIZE": "2355200",
+  "MD5SUM": "8e1176efddc043a63aac2568fa246706",
+  "SHA256SUM": "7fcb425993dcd620d03b9d4587bef0fad273a59172bf3115ba2815c1046b3799",
+  "PGPSIG": "iQEzBAABCgAdFiEEado014/g79WWrG0EnYk+xNqvkSkFAl1qjvMACgkQnYk+xNqvkSldiQf/T/WPmb9ZCtlwemvPBNuu7KfjPxGHlD7RCIQKTvAj5trAlbdzgfOtW99ejBmgOs+DmtfwAxZuitxCVT/yi6EbBJyNacZBOrDvA297mJcT8d1/LzyTXCI25Vcx73tY6VfPXLyk+Tlhr+yBXkzjCiA3xkRL6iXT6KDzeJwy6wlX7m+NpH4KGAzXlJ37weGSDK+Rm+YYOMJ1klVhjISLuXUHsi7T4zroOtnUJSN8GlDX8Agl4Nh5U7MBqvZWmmdaaZDCWaAc+E3t40TnikJIPvShBHryMxKUCkq+UNxzL4JeAXGIYOu66Uz8pe09oaC7H+no7G3FExYwQejhULCqyTogiw==",
+  "URL": "https://jami.net",
+  "LICENSE": "GPL3",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1567263579",
+  "PACKAGER": "Bruno Pagani <archange@archlinux.org>",
+  "PROVIDES": [
+    "ring-gnome"
+  ],
+  "DEPENDS": [
+    "libjamiclient",
+    "jami-daemon",
+    "gtk3",
+    "dconf",
+    "clutter",
+    "clutter-gtk",
+    "webkit2gtk",
+    "qrencode",
+    "qt5-base",
+    "gtk-update-icon-cache",
+    "desktop-file-utils",
+    "libnotify",
+    "libcanberra",
+    "libnm"
+  ]
+}

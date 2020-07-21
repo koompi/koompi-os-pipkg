@@ -1,0 +1,29 @@
+{
+  "FILENAME": "rng-tools-6.10-1-x86_64.pkg.tar.zst",
+  "NAME": "rng-tools",
+  "BASE": "rng-tools",
+  "VERSION": "6.10-1",
+  "DESC": "Random number generator related utilities",
+  "CSIZE": "42269",
+  "ISIZE": "109766",
+  "MD5SUM": "27f856ee5b1eb736361fabf6c22bff33",
+  "SHA256SUM": "56c86e6eae5c296e454bae75475b0f439f729026ca632f67d46f6f95a9fbd13c",
+  "PGPSIG": "iF0EABECAB0WIQQsEYxiDwLbmsHQ+fqU3SOT2i7kIwUCXoHDjwAKCRCU3SOT2i7kIwywAJ9lE8uQGcHlTX6PgZ8ra455UHYCgwCgmI7g95biUqCXCCZLweK/VH09Lwc=",
+  "URL": "https://github.com/nhorman/rng-tools",
+  "LICENSE": "GPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1585562335",
+  "PACKAGER": "Massimiliano Torromeo <massimiliano.torromeo@gmail.com>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "curl",
+    "libxml2",
+    "sysfsutils",
+    "jitterentropy",
+    "libp11",
+    "jansson",
+    "rtl-sdr"
+  ]
+}

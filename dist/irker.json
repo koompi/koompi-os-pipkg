@@ -1,0 +1,24 @@
+{
+  "FILENAME": "irker-2.19-1-any.pkg.tar.zst",
+  "NAME": "irker",
+  "BASE": "irker",
+  "VERSION": "2.19-1",
+  "DESC": "An IRC client that runs as a daemon accepting notification requests",
+  "CSIZE": "42968",
+  "ISIZE": "104505",
+  "MD5SUM": "396728356d567f3e5dbd3e24b477a23b",
+  "SHA256SUM": "f437f492ec9254c407e5a67b199c505796a188bbbae744de1596c2fb19f56d1c",
+  "PGPSIG": "iHUEABYIAB0WIQTH54SUZv4jWDQ1iDdyWHNLQcMVSQUCXvw8OgAKCRByWHNLQcMVSa9NAQCYZc0HZaKPql+JjNZb2m2xvIEOntuglot0BVuiqEPeJwEAh//VtLLQya4ud1ZFB9WZGCAbNPER0bhVHCTJRHTCLgU=",
+  "URL": "https://gitlab.com/esr/irker",
+  "LICENSE": "BSD",
+  "ARCH": "any",
+  "BUILDDATE": "1593588710",
+  "PACKAGER": "David Runge <dvzrv@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "python",
+    "python-pysocks"
+  ]
+}

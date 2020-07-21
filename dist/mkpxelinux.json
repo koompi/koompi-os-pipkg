@@ -1,0 +1,25 @@
+{
+  "FILENAME": "mkpxelinux-2013.10-3-any.pkg.tar.zst",
+  "NAME": "mkpxelinux",
+  "BASE": "mkpxelinux",
+  "VERSION": "2013.10-3",
+  "DESC": "Advanced, modular network pxe boot image creation utility",
+  "CSIZE": "4551",
+  "ISIZE": "5269",
+  "MD5SUM": "51f22f02626a605e65faf7f4d8b7bd2e",
+  "SHA256SUM": "2e018b85a0ae26d447af950570f9eb1784867dc77675771d11a58cc63a84e95d",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl6/yuIACgkQeGxj8zDXy5Ksdw//a7Eq8y4Zhu0UCux1dLV/sFH8CIR0pj5WFeUCSgViGGJzL+hLLydo/aCB1sTReXupAHHOyG1H4+V+fYDSmRGIYQcwY4CO0PfDuX2h3MoSYFjW8jlGbQmUb7/Gw2fqBnm9pK2e82+cpRJrEHd0ndM04MGV5Sr27A/xlVVlhLRE4xssDqgV5Ui+qIJbtXdiUAxtmzWi3Hu5OMhCUF3cEjyiFQbrgocnfVhTJ7IGgQTL80d9jwNN3dpXUmYWLRVhEbXfhuWtd7uclLvBivxfzEDiu6XLUf2rOz28EFg28QdmLKFizOoqhlutJEWn4XlhhzAk6We0bAAWSUxGIA5q85ZEMPwFcaOjGrMAYSJYWsJyLwf6XxYTHYQ+17OSZtCt4qujDlMwBLxvJfCPI5aZQRhA3d3hfCri8CNcRozmBFdc1L1QvFG9kJocPJowplmCasShDD6Kvv+fwjS1A3lNZ3MXMnMrGj6mVimP4+aRXBVw4/g4qpa5WiZ6Ecxb7YGRJU+LLZzOJvSTbMldY8FTzmeh9tNe+QAJkfgKsqR+gwsmtk78yk6/lJ6X6FRpNn1RMIoXsIrrdV6zvl191j5VGJ12ZGHrObr8YvejMjRu/L9UBs6kuaqoq0pEIr+QAKHyaeRvsEAWnPbNL6y98gbVaccw7Ali1c+DsXYlBoQgnMdifPw=",
+  "URL": "http://www.archlinux.org/",
+  "LICENSE": "GPL",
+  "ARCH": "any",
+  "BUILDDATE": "1589627609",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "mkinitcpio",
+    "tftp-hpa",
+    "syslinux"
+  ]
+}

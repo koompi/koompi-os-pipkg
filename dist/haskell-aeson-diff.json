@@ -1,0 +1,30 @@
+{
+  "FILENAME": "haskell-aeson-diff-1.1.0.9-41-x86_64.pkg.tar.zst",
+  "NAME": "haskell-aeson-diff",
+  "BASE": "haskell-aeson-diff",
+  "VERSION": "1.1.0.9-41",
+  "DESC": "Extract and apply patches to JSON documents",
+  "CSIZE": "96130",
+  "ISIZE": "501513",
+  "MD5SUM": "1b556bb6423d8bfddb4822bfa09fd516",
+  "SHA256SUM": "7296d80d01bf34fb17daeed310aa2a3f763fa530d4258f3d478569b684e51884",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl76NbEACgkQeGxj8zDXy5Ir6RAAsY0n9UGUKW5H/QSuNnvqgpArfQvVXg4H+QdmLpG48KxYWgDtIKFFaWwfF/LYPys2x6rYxas+xVELP+Q78SMBzekj6dw5EeME9013hHZSzoDXvN+fpRe7lsHQMljyiSQm0aWxbmPOZz1NGYLKuU8GwIIsPF7d9D69JQtfgVSBiZw0RQ6Y9ltQhG/qyZmNVhlYaejLRebswj72AG/L2d97Tm93/uGXP97Y9VXkYAbjvn0nZUjRvGva2gCp5NRIe59/veVHxxFxoK/wDP0zZ7gElUTq/mtAfyvdHDidn/XLg9QW6E4jzCh2Ja7TNpGykXM4B2q4oRHl6LweQ9+HMtBl+SO+gOfBb8UE2SQsE5qUYfsx7hAKWl561zFrccUlrF2vyKldOI8gTv3QsZX3aEoknfFEhY4frQT4r4JyS2KU9iuPx57/GX/fo8nnIqbvd+tyG48eDLnJbKWyAV2J8qxS4GNbgwlGkFjyJrm57k30zDadf0cleu/CpKS5i4YVr/Vf8jtUxFnsKq4KRstOxcgu5rzpaLQZSGs4zSv58bM49GjSmfk7gtdAb+KQHva8q9ibthDlLB5NSsB3jA2KVaLK2MR20e5emgLE6oYrXyToZ8KGZ4x9I7paOATwjD+zfFAMG5f2Gj6eUutamlLAMqp/F4ePMFzD8SK56aONKU2UI9g=",
+  "URL": "https://github.com/thsutton/aeson-diff",
+  "LICENSE": "BSD",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1593455978",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "ghc-libs",
+    "haskell-aeson",
+    "haskell-edit-distance-vector",
+    "haskell-hashable",
+    "haskell-scientific",
+    "haskell-unordered-containers",
+    "haskell-vector",
+    "haskell-optparse-applicative"
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "FILENAME": "electron7-7.1.14-6-x86_64.pkg.tar.zst",
+  "NAME": "electron7",
+  "BASE": "electron7",
+  "VERSION": "7.1.14-6",
+  "DESC": "Build cross platform desktop apps with web technologies",
+  "CSIZE": "46900819",
+  "ISIZE": "168566788",
+  "MD5SUM": "85b4608f0ac8fd9d6efe112ef9ffd38d",
+  "SHA256SUM": "23a9c05e5dd776a0318bcba7fb778d85909a4e705da120b818b8936b54ec7dae",
+  "PGPSIG": "iQEzBAABCAAdFiEEhs/8qRjPOvRxR1iAUeixSKmZnDQFAl8EtVQACgkQUeixSKmZnDTHhwf+NZLRGbPVgwVBoH5wM+UApu4RobTh9ixMUAdv7FDJmmQASsUvUKZgoyKApALAutaYvMKiBeo8AJyimZCWyoHtAshwIIWoQ10To5IVRye0aKX6IzQ9zLMcx6YBWO/voLIvXG6nFBpzlYvy2izhZZ4KtaJLEOPJOGLYpnNHPUgTwqY3zM5eOpe0qJ0h28rJrQJduA7wYXsFxd4Qfa/sQlLOwwrw+8nWwd36LoMN70fJlMF/U6izN8PFMS5nA7xYWUpFGVVQvErksOwpcI8s/A9nNCw0T+Nt4rKJ8eKEQEXIVK+97lD7LOYOSC8Vb/RB76fzN1pn94px6je/wEZtlZQjEA==",
+  "URL": "https://electronjs.org/",
+  "LICENSE": "MIT",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1594141014",
+  "PACKAGER": "Evangelos Foutras <foutrelis@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "c-ares",
+    "ffmpeg",
+    "gtk3",
+    "http-parser",
+    "libevent",
+    "libnghttp2",
+    "libxslt",
+    "libxss",
+    "minizip",
+    "nss",
+    "re2",
+    "snappy"
+  ]
+}

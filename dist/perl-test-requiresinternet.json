@@ -1,0 +1,23 @@
+{
+  "FILENAME": "perl-test-requiresinternet-0.05-6-any.pkg.tar.zst",
+  "NAME": "perl-test-requiresinternet",
+  "BASE": "perl-test-requiresinternet",
+  "VERSION": "0.05-6",
+  "DESC": "Easily test network connectivity",
+  "CSIZE": "5950",
+  "ISIZE": "4844",
+  "MD5SUM": "0f6211af2947cf791042b349f5a6dc4c",
+  "SHA256SUM": "67d67a35c7a88c9083b747b516c3400ed4a092454d11f99efaf8c890d05a6d39",
+  "PGPSIG": "iQEzBAABCAAdFiEEhs/8qRjPOvRxR1iAUeixSKmZnDQFAl7vNVwACgkQUeixSKmZnDRFywgApoK6PbNaonNplRZDA5iHqORpNx7sHRIIJf9dilqMbXW+YbkXDvHkwCWGBwVMoiOZGdSsM/Mp8/lWlRSaqGozHTuUNK0lOSbKKmHtsjZX9Ku2G6lLh4X4aJ++pmqRUEFDoa3Pi+stKfJUOnip8tMp2flZYYYldcb68jXSgpKyZK5QkfSFZpbd1ca9it6bGEmARh94bKtKDT+8UsGtX4pMLh2Q5Aj9kz/RSR9eaZUesIXHwmdHqH9wVypO8JjQUOj6aA23ApQ3uC6mKxg0Z2wU5fHxBwFPJ32T+bWqIPhjWj1AOzmR+XiNPkHtzTIjflWFt2650mx20IPRlQv2H8THOg==",
+  "URL": "https://search.mcpan.org/dist/Test-RequiresInternet",
+  "LICENSE": "PerlArtistic",
+  "ARCH": "any",
+  "BUILDDATE": "1592735053",
+  "PACKAGER": "Evangelos Foutras <foutrelis@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "perl"
+  ]
+}

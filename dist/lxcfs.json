@@ -1,0 +1,26 @@
+{
+  "FILENAME": "lxcfs-4.0.3-1-x86_64.pkg.tar.zst",
+  "NAME": "lxcfs",
+  "BASE": "lxcfs",
+  "VERSION": "4.0.3-1",
+  "DESC": "FUSE filesystem for LXC",
+  "CSIZE": "65236",
+  "ISIZE": "155540",
+  "MD5SUM": "bc4be0365c7bcaaaae26bb82376196f3",
+  "SHA256SUM": "c46dc318b4f5018bef854bffd6ee6a9af2440aa186374cfa407a7763d310a8ad",
+  "PGPSIG": "iQJGBAABCAAwFiEEPlGL8lJv0Zeeiq5JZcEQwepDP8cFAl6gTFgSHGFyY2hAc2VyZ2VqLnBwLnJ1AAoJEGXBEMHqQz/H88YP/3RnRtmhUVA0a+kggG0yAPWLfoIwo6msQ7Qcl42ApIv4tNRrf0mk1wNS5qJpKTa8FIrCVvzPaiNdu2deoQdweNMCPgjIeh5X+ypwSHv9cUp/OLmTQNnfxdEDfSMbMp8BmW/3s69/W6pDYLlNmE5BhNRHOPAkb3eEa6x32pUY9s01iQbGBf30Bn24CML/i7X/GpjzO9dDv+uoNrxP4UKBmFUix7R8BqU2Fd9KJ5BxSAZC+OD5IxWmijI9GNxn8dA2j05I+nHJV/paEKfw1ubywgvi6OWoagq6Riu64UJn17/4iqtuwZRZ0kJaqc0WKZ843PuXQVaWYhXD5AfXdHrpZNRK8D5+FXkh8Gp+ddDrG4TQqcB7i+0eUs1Czcn3vz5qLXoV90uYOAvKRzx7PCL0ZXCRcRee+dqJQXGO/Dhjv3mi6McNHun5IVh7BOCrEBcHZqdeCjK1nI7izmM6PAO94N7upfyTAmnm5Xil2rWEnJIQiDRo/e9RQOkycA+PwokgNkJgpdJMA3uDB8isrtHjjLB2+nQ/KvzSu1oTkZnj/Mk49p+NazAdGeEUmFTbLJZGGKppUyf+vfgv029VcEzLS/uyXfUszaeELb/igA6xp0TRHUgEqJSFbgQBBPInbSLOkToweVwBaPbHMR0wKWBGIToMXlIS/DZi43a/NLjJeYeQ",
+  "URL": "https://linuxcontainers.org/",
+  "LICENSE": "GPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1587563568",
+  "PACKAGER": "Sergej Pupykin <pupykin.s+arch@gmail.com>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "lxc",
+    "libnih",
+    "fuse2",
+    "dbus-glib"
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "FILENAME": "perl-datetime-1.52-1-x86_64.pkg.tar.zst",
+  "NAME": "perl-datetime",
+  "BASE": "perl-datetime",
+  "VERSION": "1.52-1",
+  "DESC": "A complete, easy to use date and time object",
+  "CSIZE": "89921",
+  "ISIZE": "235491",
+  "MD5SUM": "65dbc76cad2799c6fbdde8a7ba068018",
+  "SHA256SUM": "d13258e3fcdac4c060dcb535248c6b355534815ee8f17dd09b2eb761c948604b",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl7+U5QACgkQeGxj8zDXy5I9CxAArxfDLFslHNYjDjdHrOKONzrVCLuwkQr68C4N9ff0kS5a5zllCEyjheyqqMS1SWU+GiJtka8hYbid6/XH5as4lm6vHsgb8XPR0IRLrUhqrknNADhK1p4VJ9cm8S0tOBMoN1mrcB0Kvrd/R11hqrZNuDsJUVWg41lll3xwirTiWLC6UiSCnLMCo58qs61FkFb4D0dYbv031X812+Dc1MClkH89meTMEBjojGrpTeM5dYtM17gZ2rYrUa0+r49TSVeO0c/7kRt0hKfoSRAOmWrg0LrylXhmkEkroqWE5/ol9m6Z0ufNXioEfot5Jvmqsqhwq6W1qMAA/tz/aljN1R2ZOYgdDneYS23Zu4XI6xGXNvigW0c7s48YOJJo5Ak5WxEnkKvTfVBKjM0uDiBxzbQr1AFScyhbME8Iew7gwclUaf1GCJ8p4dVyjac/pM/7O6QJKUJ5n+h7cGPgSVt49eIHR2eFukMglBXnYdjeEpLNvi6ZOI0sv0W22ui407/UMExUvisG2G1h15AGEdZBga/OwcLYJnNNRvInjapHjMTuN09Y5FD50T19m+5G9Ln9oQ3VoMNnT+8VqlIT4GmyMtj8GOZmfl/b0rsD3Y4vGGyHgCAzW0X/Tx/3gFyp+S+Uv+3WAVWVrFNiFqwA+HSRAavMBmSI4luFPulUbCS279KYoG0=",
+  "URL": "https://search.cpan.org/dist/DateTime",
+  "LICENSE": "GPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1593725791",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    "perl-datetime=1.5200"
+  ],
+  "DEPENDS": [
+    "perl-datetime-timezone>=0.59",
+    "perl-datetime-locale>=0.41",
+    "perl-params-validate>=0.76",
+    "perl-math-round",
+    "perl-namespace-autoclean",
+    "perl-specio",
+    "perl-eval-closure",
+    "perl-params-validationcompiler"
+  ]
+}

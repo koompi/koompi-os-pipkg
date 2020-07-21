@@ -1,0 +1,32 @@
+{
+  "FILENAME": "cryptsetup-2.3.3-1-x86_64.pkg.tar.zst",
+  "NAME": "cryptsetup",
+  "BASE": "cryptsetup",
+  "VERSION": "2.3.3-1",
+  "DESC": "Userspace setup tool for transparent encryption of block devices using dm-crypt",
+  "CSIZE": "575874",
+  "ISIZE": "2467296",
+  "MD5SUM": "a7e175e6bdd74fc6cbbc444dffee2123",
+  "SHA256SUM": "6392c47819a64031d71dab5719aa48c0c61c7aee0863b99fa385005207921024",
+  "PGPSIG": "iHUEABYIAB0WIQQEKYl95fO9rFN6MGltQr3RFuAGjwUCXs+qqQAKCRBtQr3RFuAGjw3yAP9tWg1eZ8431kxTSCGJqHkz4jBUaAP+FkvL9CteeXdqIgD/fd7BX60/iMVPtE/O6MQnp4GVkxgNpBdwWzFr/VQE7gg=",
+  "URL": "https://gitlab.com/cryptsetup/cryptsetup/",
+  "LICENSE": "GPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1590667892",
+  "PACKAGER": "Christian Hesse <arch@eworm.de>",
+  "PROVIDES": [
+    "libcryptsetup.so=12-64"
+  ],
+  "DEPENDS": [
+    "device-mapper",
+    "libdevmapper.so=1.02-64",
+    "openssl",
+    "popt",
+    "libutil-linux",
+    "libuuid.so=1-64",
+    "json-c",
+    "libjson-c.so=5-64",
+    "argon2",
+    "libargon2.so=1-64"
+  ]
+}

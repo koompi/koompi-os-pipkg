@@ -1,0 +1,24 @@
+{
+  "FILENAME": "lib32-opencl-nvidia-450.57-1-x86_64.pkg.tar.zst",
+  "NAME": "lib32-opencl-nvidia",
+  "BASE": "lib32-nvidia-utils",
+  "VERSION": "450.57-1",
+  "DESC": "OpenCL implemention for NVIDIA (32-bit)",
+  "CSIZE": "17033144",
+  "ISIZE": "81628220",
+  "MD5SUM": "219471a0b7b99b59e70ee45617785029",
+  "SHA256SUM": "af55f96283ab873f4485ef438a07fd4b46da375cb15c8aee429d1db234bb2550",
+  "PGPSIG": "iQIzBAABCAAdFiEEj8FaBklQqZ3RvRTdOeS4d+YuuRUFAl8HQlMACgkQOeS4d+YuuRWAuBAAxF5SrzgEjJeCqe2WTcOWcmsIFbJLg4nd0rGy2JDwl+kqklO9VmPe7NXwe8gbbbJE6rsgjY5hU1NOmyr1GwZAfE8wC4U/nIdzg7QWK/CvHPdMGk+a3U5IxVoCXVnOQkZqQlk90/iB1tf0JyijbaULcW8Gc0RikEv3GvjtgeLNJcyijKsldk7Tn+5PpLeb+4JEB01isLIkd3mjMPTNxT0xsRsa9vHf0W0a2Dm9EdeaKfbho1sdJAQJqiffPd7EYF/M0WfKSFMZAsg6ZC58ApIPWBLBTNVpFSr8GC6LLnts0ftWf7p17oq5+vcS92nzktVFnyK63p3QcyVF0JfHMr5O6TVjDUhcH5VGaU3XeYtl0SJtWXusspVzQjhW3njK7qXCfMpbMS/3X5A5KPFSF074XBcZ9lj4kHsM9GpFQrBdY5iOUKiTGZBPjbYx4p6b4iOy/dVZkR9KDSeBXxgurY5syF7Mwb+XWISgQcTpJG/EXS+cJyWGJ9f2QVIgw+5iLcS9JqzIhyrRmRHJtbYJFX7ywlj7n9OEim1ZaWxfa5UwFrAYwdoGKXa2dOmM3WP2azo94BQt/D9jrGr8FJnPn4tQotS7eo2oHsjMLDBaCFmA1HyZRpyQQMOOAf3VTRF/GqJn+SOTWyunK7jRXHIyS/ewosVXO4FfmZUYYLl3Ox78Oig=",
+  "URL": "http://www.nvidia.com/",
+  "LICENSE": "custom",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1594311091",
+  "PACKAGER": "Sven-Hendrik Haase <svenstaro@gmail.com>",
+  "PROVIDES": [
+    "lib32-opencl-driver"
+  ],
+  "DEPENDS": [
+    "lib32-zlib",
+    "lib32-gcc-libs"
+  ]
+}

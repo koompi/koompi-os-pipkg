@@ -1,0 +1,23 @@
+{
+  "FILENAME": "python2-ecdsa-0.15-1-any.pkg.tar.zst",
+  "NAME": "python2-ecdsa",
+  "BASE": "python-ecdsa",
+  "VERSION": "0.15-1",
+  "DESC": "Implementation of ECDSA in Python",
+  "CSIZE": "164531",
+  "ISIZE": "1041645",
+  "MD5SUM": "f583fd0c97f423865cd03368a7758b09",
+  "SHA256SUM": "7565cfc66e487b706c1d4e4104643f0905610ce71a61fa7d4499c58fed2ac12a",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl5zxzMACgkQeGxj8zDXy5KXVg/9GlaVUf4syRZ3gCJExzSJhQcS9wUXKdXWalEGPFcmZDaAwMcn+3GUPv+wnX3gIwTOCmOKFWPlkGU2SvwMy4SXDN8y9ohBgVL9ADT7R7DLJM4u7xl1hRUuiRNmueQAUHaMrbJbKgAUpCs767ZIt91U++ETObN8MdjjwUtm9la/55cDPWgL+lf5SU39uv8T0m46+UKZ17RXYi8NGwbnmIlDgMfRYtbljdA2VFNVTfakLQyI4Yl/juxDzjiL4AIo9/bW+3r5PC56zmYbZEPclQyBScmCpUxKc+VP9x2JoydV8VdsLm4nxdVLClUfzIUotDJsttvOOpBDnfYixMPSmKXwSSyeoq/+z/g/31OO4UmfAZoxPXoII3JASq/cKGmpPBK997p/0Mo61kmj9Wqgl1jnFx/NMhlSGQufHfvvUUZYpxmYOr4tWFM1PpKSSbTsZsWvG/rwZJLqmVHrY9nWgMQlq4rVEsLxr58adikcf9U0dLe04EOrsfUvgR1t5zHHO/aeYiAsyofM8nHAKO52jseCd5R0H2pl40J+TUnCCmEx5wPDQSOQTAfUhT9KNanm87lHq7LPFJNGeChpH2biAx5vIGl5R2aEKeSAdCk1E+DCDMgWY/i+iOeatKJQtwT7mtY5TYp03pMqLyP5ZPw1QX4gB6qm3cOgi5jS8iMGxgj5bVs=",
+  "URL": "https://github.com/warner/python-ecdsa",
+  "LICENSE": "MIT",
+  "ARCH": "any",
+  "BUILDDATE": "1584642837",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "python2"
+  ]
+}

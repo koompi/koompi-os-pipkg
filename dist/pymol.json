@@ -1,0 +1,28 @@
+{
+  "FILENAME": "pymol-2.3.0-3-x86_64.pkg.tar.zst",
+  "NAME": "pymol",
+  "BASE": "pymol",
+  "VERSION": "2.3.0-3",
+  "DESC": "Molecular visualization system on an Open Source foundation",
+  "CSIZE": "6288920",
+  "ISIZE": "21969214",
+  "MD5SUM": "81a186c8a432567ed26d6a506e964871",
+  "SHA256SUM": "00ee80dee59feeb9ea0208869d403828c22293dacb0ed26f9e1672d65813a2eb",
+  "PGPSIG": "iQEzBAABCAAdFiEEhs/8qRjPOvRxR1iAUeixSKmZnDQFAl6kbAEACgkQUeixSKmZnDTzjgf+N5MzLak53SSoUp+nMdo3XMEwLGyPl3puGlZiioVSfeHGXGup0otUbrOEgYQj2E5+1RGDol8wcaTq31QWdgDE2QPw0h6aUaPt/D3l6iB7Uqo9UuJTQc8WfQ0lerUkIlOmiwpuP2p74M2NIqaWDmKLudpSULkyGw+Ix8XEq06rqkQPKDwwpLnwQJie2yoV9YwBYbK7pttGGTglN3QSi1yxq7YKUCFjQvWkbSqvK+rGQ90SBpN+rSIk7za6nIe1o7Ffts6cA8hIHx8S8oOMVF+nb21j69qG9KndtM8LA2iE/ZkQwOT4sWRRShXxRrgYrKPaAOGScz84jzyTUb4IwVvECQ==",
+  "URL": "https://pymol.org/",
+  "LICENSE": "custom",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1587833783",
+  "PACKAGER": "Evangelos Foutras <evangelos@foutrelis.com>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "freetype2",
+    "glew",
+    "glm",
+    "glut",
+    "python-numpy",
+    "tcsh"
+  ]
+}

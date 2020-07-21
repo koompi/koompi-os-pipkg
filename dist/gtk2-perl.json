@@ -1,0 +1,24 @@
+{
+  "FILENAME": "gtk2-perl-1.24993-2-x86_64.pkg.tar.zst",
+  "NAME": "gtk2-perl",
+  "BASE": "gtk2-perl",
+  "VERSION": "1.24993-2",
+  "DESC": "Perl bindings for GTK+ 2.x",
+  "CSIZE": "1385181",
+  "ISIZE": "4013663",
+  "MD5SUM": "2d99c587b75fa63fae84c24a34a53c0c",
+  "SHA256SUM": "fbed3df8d9272be32c4d7f39910e2334af53c9b2255d2b2e61bd483493697b2f",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl7vU8YACgkQeGxj8zDXy5JrgBAAkarhQaNwkEok5KzkJ6WLn74vJ/mzTQSmWOZPCqsHjdsAl90fYDvJLySBJFfgQbztfGNDRjsQLpKyBMvqla3S5ivCSZNq4kL40DNxyK/fIjFg4zovy9otLj2IFikiD1bfww/8/vjROA48JZyved3fyAO4aLV5PYdIMRsv0yJ3NbejlgWF3gKCExOcozY8zj3rI9kyLMPWylYtP/gGeCMTjutVxltn2xyOhRzfAABsYtEtgk1BGc1r494k4HZLWCIIg0loTt/n/vBg7kFO0n50ueFXpHqqSOFskSfz6fMs5TQLlHn5i7RLWaqa4XaygjYvKAAJLCLBKzm1thQHuCA8g+HovTx+Y1ztlV9Qj7lnrbIjU5wo88M5rnk6Rhb4wMHz/HFAQVf3P16aZBe+gNVPd6V+IlF7XrYPZO6+kUIm0BD7nXNFAruoTQ/zPGtc0VJV/pJiIetbbSEAoyWSodCGTfyZ6HtexhesZPadekRCLAQxQcsegeIk0+RNPY46OAIyLTjDelHapTc/cfO6nyMoJbQRfXchYW8fRK0SUb7MMAlsIiU7wKiqyp7QNW4GJ6p9fBrj0lGcNSmOAlkzOBW0agHXIxxFPw1PsN4K0Yg/kBG4K/RygIFkO8IUQ9YP1zhVfbMSG267WYc2DuraThwM1T0TYsi7gOvB7sOGcJlK/0Y=",
+  "URL": "http://gtk2-perl.sourceforge.net/",
+  "LICENSE": "LGPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1592742554",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "gtk2",
+    "pango-perl"
+  ]
+}

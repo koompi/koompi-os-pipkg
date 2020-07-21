@@ -1,0 +1,24 @@
+{
+  "FILENAME": "python-commonmark-0.9.1-1-any.pkg.tar.xz",
+  "NAME": "python-commonmark",
+  "BASE": "python-commonmark",
+  "VERSION": "0.9.1-1",
+  "DESC": "Python parser for the CommonMark Markdown spec",
+  "CSIZE": "94248",
+  "ISIZE": "470148",
+  "MD5SUM": "9bbcef7296988355f9c45addc7760ca2",
+  "SHA256SUM": "a3f00234b1761b07014eb87957b159d9c2b726d57ea0ec375ba685b87f397ff6",
+  "PGPSIG": "iQEzBAABCAAdFiEEFRnVq6Zb9vwrc8dWek52CV2KUuQFAl3GlN0ACgkQek52CV2KUuRnmgf6A45ZRrJMdWnvgUyCbD/PU+i+Fucm+l+t6z7POb9sjFhGfSq24JpJyl4728rMfInXfdYYZT4S4m5cRwaQA2rTbHtzMx7hAgrDEv6j/GnD08cK6yIZVeUgw1zbdMSa1DqnAF8oqOL/V33UwLPIhIzOSvCJzsGug5WeEFEQ3DBC6rU6FUcXveo7gVDehdR5IKIm4zio3rEjIn8rCJr5i7Oxl4FC7vW10zTOGtnizqAqUd7My3e2EN4VxbsZn2lbRsEfj1nIZRvZ/ijQ1HLFrGqLLbY/LsiC0ajUViVRpOM0Es1eg0CQll9OzmRYAU2SEuoNlltDB5DUTp6eLZaj8oEoiA==",
+  "URL": "https://pypi.org/project/commonmark/",
+  "LICENSE": "BSD",
+  "ARCH": "any",
+  "BUILDDATE": "1573295231",
+  "PACKAGER": "Antonio Rojas <arojas@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "python-docutils",
+    "python-future"
+  ]
+}

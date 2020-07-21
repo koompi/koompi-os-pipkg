@@ -1,0 +1,33 @@
+{
+  "FILENAME": "devtools-20200407-1-any.pkg.tar.zst",
+  "NAME": "devtools",
+  "BASE": "devtools",
+  "VERSION": "20200407-1",
+  "DESC": "Tools for Arch Linux package maintainers",
+  "CSIZE": "41108",
+  "ISIZE": "162926",
+  "MD5SUM": "c74e8371e3849b7629969ef8fb8e90d1",
+  "SHA256SUM": "2605bd5002408f167636689599b859f9b2d05975037d40def2a735c8112d5618",
+  "PGPSIG": "iQIzBAABCgAdFiEE4kC1fixGMLp2ji8m/BtUfI2BcsgFAl6MvVUACgkQ/BtUfI2BcsiLNg/6A0RofpI3Oda106EpZixeLMPa+1lYNipyh6c9IqYrray4RxwIsDxb8USvh1IECWBYBBm4Si+/iC2kdgdA3x/I2GGNJ6hSu8TojJD/wu3vFPBMVvXMwdrgXUejhNjKriozKjnXWqiW0DHIW50k4eVoqGGFF/FYQgiCEmcK38gjZ0mpMatXHUudVWjFTEPUp3sTVy3zWd5YZYKLyq7jH5Q5GeBVIyTYJM8ObDZarinBrv99NVEHYQyXoQYa6mtfRRzR+1oDOCYxvUY2Oav0cORzbSSWHBq3oIVgXyxYx2wIxVvtS4LGyEnuAx3PdKR7HCsRsi1luqrWi7N5d4a7K3k3zf0vbgnc7PLoeTeBaOrX2F+72uyAGlHLNUPJVHdcOsuGk3wlnqEr9HrLfIpcGcmmlGUlmIC3oXxlofqigHXW7mqL3Xzw5pZ3H7hqohhfkgZGmmF795tVmYyhRHGNfEC7YjhyP2F0CvzHOJZ+qQOwQcufDabdABLVzS1mVIczHg3EEcXmuYe3j4oFR9UCy4p6sLQ14Ig66y7waSDzRmylui7zGLA1hxGa5axcq19D1XdB6jPYaI8PCny35B6JKgVxzMwzB//t6ucuT6bbUL80RCiG5QipKL2u02kfrscmdEiv7E/MaRC3a7eQPzwWPuWNCav79/2Kb38Im5BzPDFu1po=",
+  "URL": "https://git.archlinux.org/devtools.git/",
+  "LICENSE": "GPL",
+  "ARCH": "any",
+  "BUILDDATE": "1586281739",
+  "PACKAGER": "Levente Polyak <anthraxx@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "bash",
+    "openssh",
+    "subversion",
+    "rsync",
+    "arch-install-scripts",
+    "git",
+    "bzr",
+    "mercurial",
+    "diffutils",
+    "util-linux",
+    "awk"
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "FILENAME": "xonotic-0.8.2-5-x86_64.pkg.tar.zst",
+  "NAME": "xonotic",
+  "BASE": "xonotic",
+  "VERSION": "0.8.2-5",
+  "DESC": "A free, fast-paced crossplatform first-person shooter",
+  "CSIZE": "2456874",
+  "ISIZE": "11398079",
+  "MD5SUM": "fa0452313b204fc9687f8b66836ab90b",
+  "SHA256SUM": "15ea8afd55b7ac674dd5fc912cde6e151cb02b1fda0be4cfa678cd43be8be0b1",
+  "PGPSIG": "iQIzBAABCAAdFiEEj8FaBklQqZ3RvRTdOeS4d+YuuRUFAl7WbPgACgkQOeS4d+YuuRVFRhAAlN6bLQBZM7E4RVUftoDlKAiehhcL2oS1ecmxRSAiFJu/5W+vuBdaQmJfNFkNGT6gqgNoWwfiPcChFujv96KB8vtXibG1JAtpgFwU26qQfEkJS6mh2/8/KPt88eVLg5wDDxfE+GYxU5rEOhpTQYOE6R3Cye/Oq4zas7OHzrnBzGRxRv6d5orbBeF1DZnkSEQn4JJm2AKjABMcpI20pmCIPCnNxjw4iN8pJHDEaaDx5lP32e0v5f6ylC69x3tY8Pbyt6XLEkZffoT6+AHTuF9QtQtbSYxqePKlUew2h++4+dce64wvMmjDyJ+CJUIYFBGOUyLU1RmIKUG9a+1xqkcx4E5YJiNufAWhAExegjoa0f3EcVp/+QGV3BG7sSi2T6nfLn7q991jPYqPYXRdEbUuHPJanxBt3WXuYZJ3Sse6RjQkG9+m7jYUZYGYo/8kucs8WOylXisNafuoxljGQ5EJeYP2O0jPuB7cESUmNiAX2tVATnYjFdibtlFqAkfWl1GkJ6xFitcL+jM6kaNQDictMm+Tx7kqECrbGTJarBcy7DEtPx1VjwdDlIKETZ8SsZLQx57ajcKHFUjmY4n52J0EOmiJK1kmd5OAR9IQ5qppdjsocSMzjjt5zcLlGCB6IDXp+HoHh5sJJ49xMn1/iglxooSmEaRe3mE9WIwjox2K0xI=",
+  "URL": "http://xonotic.org",
+  "LICENSE": "GPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1591110761",
+  "PACKAGER": "Sven-Hendrik Haase <svenstaro@gmail.com>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "alsa-lib",
+    "curl",
+    "libjpeg>=8",
+    "libmodplug",
+    "libvorbis",
+    "libxpm",
+    "libxxf86vm",
+    "sdl2",
+    "libpng>=1.4.0",
+    "xonotic-data",
+    "hicolor-icon-theme",
+    "gtk-update-icon-cache",
+    "desktop-file-utils"
+  ]
+}

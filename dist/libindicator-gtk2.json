@@ -1,0 +1,23 @@
+{
+  "FILENAME": "libindicator-gtk2-12.10.1-9-x86_64.pkg.tar.zst",
+  "NAME": "libindicator-gtk2",
+  "BASE": "libindicator",
+  "VERSION": "12.10.1-9",
+  "DESC": "Set of symbols and convenience functions for Ayatana indicators (GTK+ 2 library)",
+  "CSIZE": "29607",
+  "ISIZE": "99455",
+  "MD5SUM": "4671fffbbe47b704dd0a5df5858de15c",
+  "SHA256SUM": "113053360cad021c011c278e911714a0426feb3a8e34f9ae9f83fe985c9dd105",
+  "PGPSIG": "iQEzBAABCAAdFiEEzgvecadZqH8j8PfYth284QkBwWMFAl5vOmsACgkQth284QkBwWONCQf/a8miCr7Oj4Doovb6JyS/K3JGjZIS7BOeLeIWcxSjKyVsMZ/AIlKTQrwQOO7pCMRB8YTjob2wHzAYK+odNFDT050IAxQ2cUrdEZvjKapsPY/bzwJUHsnp6vnHlZy//PY7R86jkw15qI/UBskgoHg+eaJZc2K7zgIObq7tBubRlvwN6JplsvR2NZCbuGafFyMBltMBE3wIHfohrVIuZMegDbQlipsdBGUyQh3Vg8808xiHutCIwHfeXr8AUzHK4f9YDkvdmwtPEiUDn/21r4kMSAFJqKfRmhPuy2Fmc18tpTEzEDFk62f44mTK95XZ07sRkizPAePdf3GDbvEncxNtRA==",
+  "URL": "https://launchpad.net/libindicator",
+  "LICENSE": "GPL3",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1584347680",
+  "PACKAGER": "Balló György <ballogyor+arch@gmail.com>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "gtk2"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "FILENAME": "libreoffice-still-ca-valencia-6.3.6-1-any.pkg.tar.zst",
+  "NAME": "libreoffice-still-ca-valencia",
+  "BASE": "libreoffice-still-i18n",
+  "VERSION": "6.3.6-1",
+  "DESC": "Catalan (Valencia) language pack for LibreOffice still",
+  "CSIZE": "2290940",
+  "ISIZE": "21605484",
+  "MD5SUM": "37fa5ba04cc1578665eb9042fe52306c",
+  "SHA256SUM": "ba0f23d5cfe122400223d2ef19b5dff93ad0bc1cc5543020de76338e1f13da86",
+  "PGPSIG": "iQEzBAABCAAdFiEErcih/MFeAdRTEEGelGV6sg8qCSsFAl6tSroACgkQlGV6sg8qCSuKrQf/QyfvqVLF6IEVza1keb/oFD0V9dkl0yKU1HHoVlO6l7O7EqlVBluQnEXMF5IvQ2iZsahkR17Prk053gmYHcTdUTLhNMpW4xDxMWU5RpvdaIiusyYJ72OzcBt6mf8HT+JDnJnPWekARY/NfiJUyj+z+AEMze605drvLyjWR2EHirYn7SF1i4GKvkM5UorWxdH0lkHBG3ZbYBpnY1oCcKbPxKl8rIrD1y2/Xtm1WID8Oh+hURe+Gi709s1HG/btjxXG0qB2jcUPcoGnml+mcbUZknl3Ids9XmFtk1hzlRVLSD17LENkdg0lvvY3HsSMMDPbl+5EF95C9REtrDHEqF9Q9Q==",
+  "URL": "https://www.documentfoundation.org",
+  "LICENSE": "LGPL",
+  "ARCH": "any",
+  "BUILDDATE": "1588407321",
+  "PACKAGER": "Andreas Radke <andyrtr@archlinux.org>",
+  "PROVIDES": [
+    "libreoffice-ca-valencia"
+  ],
+  "DEPENDS": [
+    "libreoffice-still"
+  ]
+}

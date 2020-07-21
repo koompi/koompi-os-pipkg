@@ -1,0 +1,23 @@
+{
+  "FILENAME": "python-pyrsistent-0.16.0-1-x86_64.pkg.tar.zst",
+  "NAME": "python-pyrsistent",
+  "BASE": "python-pyrsistent",
+  "VERSION": "0.16.0-1",
+  "DESC": "Persistent/Functional/Immutable data structures",
+  "CSIZE": "94515",
+  "ISIZE": "503473",
+  "MD5SUM": "d562746692652b1a6fa5110cbfa6b923",
+  "SHA256SUM": "9b85deb4b91b232a4036b7cddddadb53a19fc3efdb5d889c7de8d9a4879a7be8",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl57VSwACgkQeGxj8zDXy5LWSg/9EpfofLrBVDuwKZT0wABV7C9GW4YpwHbK1ejl2eNzwpp5Nb8ikfBMmur7ujSQvD0uGH8ITIZ6PUZ4Qq06IH6HfO8sggnzPNy0TNVtJklOrteusFnNShxVTcDR9+V+F96JyESKLuWbroh/2UsXTfnoIImarbdhVxEjhaiy8wyXFy/nW7rRKd1K4CgxxDjcP04RFJjM6QwEAv+Uuw0loIpEYfssQhwVhOFp1BtuXHPhJfYfmJ1dk1GGaviAhduiLMumSqF5TFX8yNanghwGd0dDmS3qa22H5aRmNsRqMjJzUxxFW23QWnPlkxy3PT5AbcD+mmweQSUNG/khVW/MWRxR/dWdpf+h2B2E6FZRKuJptoXMese9YLdQMcDGPy6OWRVn3B5KekekAdxeUf2TXD8otABnBMlRyyfy5buxYxYr1/cIG9uJkzblEmW42ZlBxNuPRP6Rnu2RXWR2UkWRQGxxWiVkoxDy+A+aneAz67SOtBzWq+fbJqEB1Dgn8mkyjX6N663dTySy+Ak9Jz8qPBCY+4tBKlVKS24Xb5MV/waSPivTD0UIiLwARhVV1pigJbpeUFdxvYCVzyvmEV+ohtV8LaVM9B6EZHh32eHcL18qzsLTfIyfueqDBnMhU984r8gyZWg7vTAgjFD5/7nTpvHJfDYWoqPqRQuoDCf+9pexd2s=",
+  "URL": "https://github.com/tobgu/pyrsistent",
+  "LICENSE": "MIT",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1585140996",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "python-six"
+  ]
+}

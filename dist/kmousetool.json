@@ -1,0 +1,26 @@
+{
+  "FILENAME": "kmousetool-20.04.3-1-x86_64.pkg.tar.zst",
+  "NAME": "kmousetool",
+  "BASE": "kmousetool",
+  "VERSION": "20.04.3-1",
+  "DESC": "Clicks the mouse for you, reducing the effects of RSI",
+  "CSIZE": "216921",
+  "ISIZE": "538488",
+  "MD5SUM": "23e064999f3f4b83a0679255742d510b",
+  "SHA256SUM": "1338479d0e3f45fea754585120e11e08828dbb85c53dd51aea7223f913396cd8",
+  "PGPSIG": "iQEzBAABCAAdFiEEFRnVq6Zb9vwrc8dWek52CV2KUuQFAl8HA+oACgkQek52CV2KUuTEQQgAhnt4BGLxQ6rRuqldZMo9GCiXQuQir1Bs2FQWrX4eZU/TQJ4vxoai2SEW6ov7Dm/DmZxNE2rHRSMjf/y2dqwn21GE0DDqnzpU2/itaHZykqFm7FW+xxwLilTn6X5+LVfqZWY+VbmQR4pj5PhI+lB+jeNuY51lWvAQQQYbKxz4aikohtZQ6/WS6dQWpQXwJP1CbP8trYT/vZlC7mDxv2JmndigqRB280fBVJLpLpwZd8/NLnTXUdZxguSCXJ1BcDD0LeZQFXJdi+y68nIR8LzaeHU1L1r6Em3jwJyvVKCsgr6VC6Vns4qsv66QtZkQB46ENg2w9KJAdkmEu8mMtFlPKw==",
+  "URL": "https://kde.org/applications/utilities/kmousetool/",
+  "LICENSE": "GPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1594106667",
+  "PACKAGER": "Antonio Rojas <arojas@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "knotifications",
+    "kxmlgui",
+    "phonon-qt5",
+    "hicolor-icon-theme"
+  ]
+}

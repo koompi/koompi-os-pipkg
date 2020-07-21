@@ -1,0 +1,24 @@
+{
+  "FILENAME": "mod_passenger-6.0.5-1-x86_64.pkg.tar.zst",
+  "NAME": "mod_passenger",
+  "BASE": "passenger",
+  "VERSION": "6.0.5-1",
+  "DESC": "Passenger apache module",
+  "CSIZE": "3792",
+  "ISIZE": "1069",
+  "MD5SUM": "e991f9550aefdb4549ab6ae9c700dc6d",
+  "SHA256SUM": "ed34f8bcbabf990500a1cc1ff14cdd5a3faddbca05e1947df07838b891308fb1",
+  "PGPSIG": "iF0EABECAB0WIQQsEYxiDwLbmsHQ+fqU3SOT2i7kIwUCXtU1XwAKCRCU3SOT2i7kI8HaAJ9KPAwm+SfH6A4ZD2slVs83mFOGpACfbJCYOt7vTl7ttgCfIu4Fw8S9Lzs=",
+  "URL": "https://www.phusionpassenger.com",
+  "LICENSE": "MIT",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1591025396",
+  "PACKAGER": "Massimiliano Torromeo <massimiliano.torromeo@gmail.com>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "passenger",
+    "apache"
+  ]
+}

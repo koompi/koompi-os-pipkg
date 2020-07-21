@@ -1,0 +1,23 @@
+{
+  "FILENAME": "python-msgpack-1.0.0-1-x86_64.pkg.tar.zst",
+  "NAME": "python-msgpack",
+  "BASE": "python-msgpack",
+  "VERSION": "1.0.0-1",
+  "DESC": "MessagePack serializer implementation for Python",
+  "CSIZE": "85294",
+  "ISIZE": "283562",
+  "MD5SUM": "7363596e1bad17be92224f62ca1c447b",
+  "SHA256SUM": "79fa9649738a6428d1d8a285d6cb15c98ac36aec24c88df77343e9e7a3b53c58",
+  "PGPSIG": "iQEzBAABCAAdFiEE5JnHn1PJalTlcv7hwGCGM3xQdz4FAl5dUWMACgkQwGCGM3xQdz6jmQf+OcIv5PYCC8MJpMvfPl4gA8vW36b7Aa1SqYnHMDSqXmKgCicoTqwGWg7XrH+kL6K/BeX1pqfeAIgWU+VVD3aFF7gUn1SjjYWIpXtcT46ivl8RaOFJF+rBc7wfoo6f8VpMy2re0UydP1I3qqL4q6UiHfxUFJNqfl7emXMp5gQ1gNoNceaLyWhUPkQEscq41JrrM8kTeiFDW32T64lfGerRil8TOuscZ128WfAYuuMVQm8BGxmG+CM/8o18htUcuxlIInKR9MaL2VdNvAHwGXYohISZPVbolsFC2dR0C+25PRvynQyADCs/UD7/25k2XNmItqXDS2sKMuGGG/DhLjlv9w==",
+  "URL": "https://github.com/msgpack/msgpack-python",
+  "LICENSE": "Apache",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1583173154",
+  "PACKAGER": "Jelle van der Waa <jelle@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "python"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "FILENAME": "ipmitool-1.8.18-6-x86_64.pkg.tar.zst",
+  "NAME": "ipmitool",
+  "BASE": "ipmitool",
+  "VERSION": "1.8.18-6",
+  "DESC": "Command-line interface to IPMI-enabled devices",
+  "CSIZE": "447113",
+  "ISIZE": "1591287",
+  "MD5SUM": "7f594a4191b8d990a6a11187107d3986",
+  "SHA256SUM": "2dc527c1fd979d93a4b5acfca08833abf76bedb7d74c06936bcc38cd91c9bc3d",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl8E5/cACgkQeGxj8zDXy5I8yBAArYYpQ2pY+1kX/9V4PVZToo2N3UbtfSkw36BEelsh+jM1ORWDIDRIFiNCgNNL8IkXsBxR4o7KBjh8lRLbHtAHrdlUCclZxCf2kBMXBaiyDHLryPSFdGhiCsUgxORfkdF4Xq+K3NzlKzAVWbkY/MAbqXVmc1K9SxKwoHlDbKLmAUnPCWb0TvxyEbRge0LU2M5PEHqSDMHOI+xAv/y+SGdQ/9ANzjBWRiRaNMoGTG3+RSpWYq4Gkr45NVWKYrEA9mGXsz1DqHfe+OQwpNPq67NhF0wWOfpX0den0N+NquZCZQ7PwTMlKcj5UoQQAo59cTRF38ay702qR7aYtfbPdCvi67cM8KHA5EWY4b5edw4o7E5x9daNfUQ4LcFAk9r3ApeoXKf2syWj5adqu6QqPIWwmEEpkHmgn3ncoFUbL4lRadivhwIr8mo/VPgAhvS1s75Wl29zGjsW9UrnIalIEnHYom/DtLhYuDLTDRgRK0E8uro1vuWEjjjfULdZ0qJ1/GoDOfwcxwzSVKeWkqE6jIgqIfnQ+twhu8R/+8RYYo2UYUmopDtjAVkWLM2Qlv0YqBedjKqwJDbk2sJ6RxQUXpUI4e6H2UBu/+Miy8CetkBTN8UnhCIBhudE+TcVeNbLbobNrIOeaCTlk2hylzw0b0vnZew9wIIN0gqJRMwWzM9hLUI=",
+  "URL": "http://ipmitool.sourceforge.net",
+  "LICENSE": "BSD",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1594156967",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "openssl"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "FILENAME": "svt-hevc-1.4.3-1-x86_64.pkg.tar.xz",
+  "NAME": "svt-hevc",
+  "BASE": "svt-hevc",
+  "VERSION": "1.4.3-1",
+  "DESC": "Scalable Video Technology HEVC encoder",
+  "CSIZE": "513480",
+  "ISIZE": "3426106",
+  "MD5SUM": "b0871eb3f31f1161779a8eb90f3b026b",
+  "SHA256SUM": "4822c0d674fffd2606395342a9a17feba17c63c7df12c80a26feac449ba95a0a",
+  "PGPSIG": "iQEzBAABCAAdFiEEP/pqt7aarmzKJj3eAZp0dCl9hXcFAl32HE0ACgkQAZp0dCl9hXeWkwf/cB2vW9VD3q4PuH6VE5ze376WKAyP7LhGlYwXdkZGM2QDA/edHK7esthXUDWtK2m4DtEKMK2/8ySKxSU8enGs6Jye2erKSav5f3JkFiU/pOB4+WlTmiB4uO8k5c0b06xXiXnBq9dErr7PzXo5M2O9bT6Or+cxsi8RduBePphPP4ZxcPVR/bYV9hjLaibZPv0+ZBejDo/KPLa1+OWIXVmKJcDvnH42Uas6XrcCnHZuAvXL+TXiJKJGn+skvMWiNZwZigWiN6E+0Bp81Sc1682cT4c28VrHNxuB/6RGb0fmJCKp9rwi4AzXylMyz8eLa9T3C0DAUUkgBXjxluxsO5Ysow==",
+  "URL": "https://github.com/OpenVisualCloud/SVT-HEVC",
+  "LICENSE": "BSD",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1576410018",
+  "PACKAGER": "Daniel Bermond <dbermond@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    ""
+  ]
+}

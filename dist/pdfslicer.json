@@ -1,0 +1,25 @@
+{
+  "FILENAME": "pdfslicer-1.8.5-1-x86_64.pkg.tar.zst",
+  "NAME": "pdfslicer",
+  "BASE": "pdfslicer",
+  "VERSION": "1.8.5-1",
+  "DESC": "Simple application to extract, merge, rotate and reorder pages of PDF documents",
+  "CSIZE": "214668",
+  "ISIZE": "876778",
+  "MD5SUM": "6d2d60d8b63dab252d9d5422d4bffeba",
+  "SHA256SUM": "162ee0040b38c1519413a37b70d8f03a1dbdd202afe2311b9a523ba1bc615485",
+  "PGPSIG": "iQEzBAABCAAdFiEEzgvecadZqH8j8PfYth284QkBwWMFAl7TfXAACgkQth284QkBwWMKxAgAsk4aSDxn6SKqgMZKEFqTxQbICtAturs584HY7QMiHMtlbVODrhK5oBE1Oxsi0zhEnfeU/sT9Hgg4UDpoLVQFrEGPyMUb1FCeJaZ7Dq2i6NaBZvAOEzAbi2ssS0l8YUrvSmKIUdzC/jSIwONjIPyvN2phq7+hH1RINscIld6FpS5BUbHQ6HcrFuUQPRoWSLPa0ySamb9c2UP4393ukLetUwqbsvGd9xRFxPehFrMnJ7lh6EbcrdU9mOEd8vuDWRnoQ2Af0FZGeqj0xmjKgqbxN6PICaYyceV53voPQhM+6vWDpDmZTVAJ0u5YSTmz0m9xbMtfnPQFzwfn+Luj7TpTQw==",
+  "URL": "https://junrrein.github.io/pdfslicer/",
+  "LICENSE": "GPL3",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1590918436",
+  "PACKAGER": "Balló György <ballogyor+arch@gmail.com>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "gtkmm3",
+    "poppler",
+    "qpdf"
+  ]
+}

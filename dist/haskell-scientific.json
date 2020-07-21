@@ -1,0 +1,26 @@
+{
+  "FILENAME": "haskell-scientific-0.3.6.2-25-x86_64.pkg.tar.zst",
+  "NAME": "haskell-scientific",
+  "BASE": "haskell-scientific",
+  "VERSION": "0.3.6.2-25",
+  "DESC": "Numbers represented using scientific notation",
+  "CSIZE": "97147",
+  "ISIZE": "452530",
+  "MD5SUM": "96ecbd89405fea0d761a2622306c78e2",
+  "SHA256SUM": "143e29eecaa8b769a2566079a91a9a664666f4f39afc7f972cc45bc53026a235",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl75EzwACgkQeGxj8zDXy5K8DxAAtYm2ynbyH/2Y3ueANsdtAm/lElEy6RM4VDYfmUg+lqMJ2h6350RbDmdTYoLF7GtJ/XaJpKZcJur+l7Y/5+E6WND6rICGBJFDZ8xJGsL3XJf7lcKeB1yDHMMUC2mwhVZb44FYT1cyuKly6fYbzdUoRd/YUxHwWJtnjBiE4TXEb9dPT8aXWD4XymFNMQa/RNn+7/TZ1nVhY/VDDe8FMN7f5KbH/X9ykcnCCuO77vYP8Cw+n+L6bsWK3HLfPf5xrk6+7sA9Lk4bUkDaqmbQ9eMXTNhkIAVsfxiHB6HqQSGZJrmX1IdLDGcCLGooCUqRN9o4L0ADCutvJANYQqKoqR5+Zxc3I0IiBfvREETx86yPUdWEILD+zGlpRAoq3Z78RDvUlflt9NVhtbJOjmqtRQO6bfp13qcCDDwYT/a00wKD4Z1RSXfZSSBgm5VLc4J5qpN1ON1FRA8VYgoOUv2K2T1Zq1VsT8P7Lr339mbJPHMCB/hFCcpFihMvLgV1UK6P43UQqb/HfGC6a9KIhxqk+95tePdHDUUdPLLjm3W7gw1QWXNwxjQrkc6G9r1nuNq67pAfgNq3k9igUKNDD99nSWF+o4yOrCSlQiuieBmbfXa1qoYUdSRS8m+m17DR12D4ZPNMF144sNiYtqSzKWAKvS+IBF0KzAlvLNzaDjYrCVEr0Zg=",
+  "URL": "https://github.com/basvandijk/scientific",
+  "LICENSE": "BSD",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1593381666",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "ghc-libs",
+    "haskell-hashable",
+    "haskell-integer-logarithms",
+    "haskell-primitive"
+  ]
+}

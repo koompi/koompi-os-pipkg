@@ -1,0 +1,29 @@
+{
+  "FILENAME": "perl-b-hooks-endofscope-0.24-3-any.pkg.tar.zst",
+  "NAME": "perl-b-hooks-endofscope",
+  "BASE": "perl-b-hooks-endofscope",
+  "VERSION": "0.24-3",
+  "DESC": "Execute code after a scope finished compilation",
+  "CSIZE": "14980",
+  "ISIZE": "20149",
+  "MD5SUM": "364b1eeaa3d62026533c58584a5081be",
+  "SHA256SUM": "495b17e2c1ccf18deb7c5ff8ea5256f0f7ba7c4b245fb330e4f6d8004cc78ff5",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl7vfREACgkQeGxj8zDXy5ICwQ//Z6NFlccK0yzo9ukhncLYE7SS3hwC3q1gqWi5F7m0Ijx/RlVtJh46w8HW1s5s2KV26uT1N446jivnHBrysB7Uo4RpN/8MNr7Cyf9YN8K+d7/ABnQFlda69z29MfWRoyXOtlp5fDnRqhMWcz9aR+WiCuFBWk3GtNHXQyGC2DafROLN3TTM3PB4sMTY8eQx44fH+56pad+KXp1ObQe33kk+UyuFYZACwE/HVA1HPGM+qKkZWn83x2wOiyg9sPlxQcuB9LwdrlVTkPnoAUB7FUdf63VbgM4XWom+oZOga4ImSIwqiHYTOwlBvscmH2bMr0b95dWEqngdDFfmMaQFrqky7WyM717HUhLWPNbQ1kcYF7feLqqX/k4l1gSMwjzbM4uceYEPgO4WplDGi4E4LSvoSW7Tirf5hLBLZ8/IRwgnsCxU0J6/eY9rJnzRYSmI+IYmbaw7OKu/krZ4KgvcJcvZlaM724EACH1MM97KD6fw0bCggbYhzbnJtiCIc7uNdTX+EN3+EAikde1DndX9q1OWQEWaErLfPlec1rgUXhLmfKQMu57twWpEHVElNnl6sRynZx/+NCXF9tgrOkYpY80j97/pOHZ68LAbPvdXTAiN3N0FtSKOgU4c0AXAxxKogodtz30AtYOUdhGODBet3kKmt5lPhNqexCPvZr+aCJVq+JE=",
+  "URL": "https://search.cpan.org/~bobtfish/B-Hooks-EndOfScope-0.24/",
+  "LICENSE": "PerlArtistic",
+  "ARCH": "any",
+  "BUILDDATE": "1592753395",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "perl-module-implementation",
+    "perl-module-runtime",
+    "perl-sub-exporter",
+    "perl-sub-exporter-progressive",
+    "perl-try-tiny",
+    "perl-variable-magic>=0.34",
+    "perl>=5.5.0"
+  ]
+}

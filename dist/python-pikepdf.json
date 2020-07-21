@@ -1,0 +1,25 @@
+{
+  "FILENAME": "python-pikepdf-1.17.0-1-x86_64.pkg.tar.zst",
+  "NAME": "python-pikepdf",
+  "BASE": "python-pikepdf",
+  "VERSION": "1.17.0-1",
+  "DESC": "Read and write PDFs with Python, powered by qpdf",
+  "CSIZE": "354583",
+  "ISIZE": "1212184",
+  "MD5SUM": "9dd3a6c72e366249c3d4f535899257b6",
+  "SHA256SUM": "e344464b5732bba17a7f8061423e87ebfa677fd898de90c1ca926967013900a6",
+  "PGPSIG": "iQEzBAABCAAdFiEEFRnVq6Zb9vwrc8dWek52CV2KUuQFAl8EVJsACgkQek52CV2KUuQJbwf/b1Xkf7pPsJkeeHntipwyfmPGSA5LCEeykecXuqdq4Ow/vILNDVB3HHSuC1HpSwnFZrAwSAdPy2j1A9/X6ZNAaN3P3s32OThcq6xd+UOiJ2zGnS6J5p0E9hzcgdFz+9JfS0i2vHRswvCLOq6u6gtepFy0HLkD2gYusxsy2pTuFxcK83TY/8zjoYwjydycvI9V+Yy3L8iS0EaF83HrVfDeKWEILFxhSjpGkL5V64JZfJt2+5EFERkXlnwXc/1HRHOTeUPA6Ab3P6kA/HrMzZpjbUc7fGpqeZ3ZkSBZTFKNpIgoIsbQY44glzsiqI4esyafe5oxcTx2lR0Nru9CAH7kSA==",
+  "URL": "https://github.com/pikepdf/pikepdf",
+  "LICENSE": "MPL2",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1594119107",
+  "PACKAGER": "Antonio Rojas <arojas@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "python-lxml",
+    "python-pillow",
+    "qpdf"
+  ]
+}

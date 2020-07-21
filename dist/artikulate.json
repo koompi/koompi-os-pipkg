@@ -1,0 +1,27 @@
+{
+  "FILENAME": "artikulate-20.04.3-1-x86_64.pkg.tar.zst",
+  "NAME": "artikulate",
+  "BASE": "artikulate",
+  "VERSION": "20.04.3-1",
+  "DESC": "Improve your pronunciation by listening to native speakers",
+  "CSIZE": "1185662",
+  "ISIZE": "2452208",
+  "MD5SUM": "b1fc4271c1c72f65f4fea1979022181f",
+  "SHA256SUM": "04a307be4d8273cb6b356fd6710b76ffd760def9f3befdd332cce757f6138a6d",
+  "PGPSIG": "iQEzBAABCAAdFiEEFRnVq6Zb9vwrc8dWek52CV2KUuQFAl8HA/sACgkQek52CV2KUuS+rQgAkNdvVRVxr8nahn/iMmf5Z8GcamgWolzmwDmhNKUNK6faUCESlGXoNVWBVr4KGT1hUBDKaY8yChLGhNCwCcbp5yenJg45ZwIQgFaZkfuoyUpsWo4u3SZHZR1+jgptPxovFYEFzKh4T9cag8CK4ZtECZeHgScy7qLMdd+pIDuLNNDOu15wDlenQTG0t5nJDylTGB71Uq6De1gOKR1c+gYC+sjF4ffisiGcpT0dL6NWs/2fbGkmSdWhnPYiFVoDRWuNl8W1/EzmVnQG//96Ylvzw4P9crIVN2dAYnfI4s1uq7Y8/Vu4m5r1lMf1uoCVFm2w0AEtku6avbO0+xINJ6RhFg==",
+  "URL": "https://edu.kde.org/applications/s/artikulate",
+  "LICENSE": "GPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1594106744",
+  "PACKAGER": "Antonio Rojas <arojas@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "hicolor-icon-theme",
+    "kdeclarative",
+    "knewstuff",
+    "kirigami2",
+    "qt5-xmlpatterns"
+  ]
+}

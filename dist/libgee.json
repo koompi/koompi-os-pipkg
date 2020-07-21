@@ -1,0 +1,23 @@
+{
+  "FILENAME": "libgee-0.20.3-2-x86_64.pkg.tar.zst",
+  "NAME": "libgee",
+  "BASE": "libgee",
+  "VERSION": "0.20.3-2",
+  "DESC": "A collection library providing GObject-based interfaces and classes for commonly used data structures",
+  "CSIZE": "280503",
+  "ISIZE": "1647176",
+  "MD5SUM": "193c992775b3bc02b08e0b8f763f5c8d",
+  "SHA256SUM": "15a61b87bc38345a5f4b61433b48192def3b8f6e7eb14d1c2e760b04197af49f",
+  "PGPSIG": "iQEzBAABCAAdFiEEghj4iEmqxSLpTPRwpekojE+kFfoFAl5hluEACgkQpekojE+kFfqpfwf5Ae29UA1PO/1pWCU/KGNx3h6X4MkjShQvtiDOV5tPde/4yHhY5m21PaujRSpPjIh9ss4cvmP/CMDHmJ0m8NDkXYHjCOoj9A9FBVv1p3yFeuZP9snozgzRk0girEbSFTwjoUSfm6zwrhelsT+SEkGiwvt0yyJPKkWhwDq8VBoaHUri3BfegpkajU1+Qal85UXWy/JUYhGabG1oTG9HJ52mcQx2K6VtXv6mLDxGvq6K1Ld78pDCIZYjwewedxCJ5R17S8JpPNJcx8+gmk8vq9k0NzrvfsmFrZ1LTK3vxnBV4NalQwztGdGq/ERcfbXQb+dO4w3X+a9u7vmTRV9Z2k86wg==",
+  "URL": "https://git.gnome.org/browse/libgee",
+  "LICENSE": "LGPL2.1",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1583450675",
+  "PACKAGER": "Jan Alexander Steffens (heftig) <jan.steffens@gmail.com>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "glib2"
+  ]
+}

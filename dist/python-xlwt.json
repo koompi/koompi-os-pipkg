@@ -1,0 +1,23 @@
+{
+  "FILENAME": "python-xlwt-1.3.0-4-any.pkg.tar.xz",
+  "NAME": "python-xlwt",
+  "BASE": "python-xlwt",
+  "VERSION": "1.3.0-4",
+  "DESC": "Library to create spreadsheet files compatible with MS Excel 97/2000/XP/2003 XLS files",
+  "CSIZE": "162556",
+  "ISIZE": "1091849",
+  "MD5SUM": "1986919d2d393f0eb31ce76b99b7f7c3",
+  "SHA256SUM": "adbabd0a7c1eb2fc34a89eee0e3c922723a073677b5cae0eb9f2b516befbcf1f",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl2/3x4ACgkQeGxj8zDXy5I0WA//eOJwt8YLOZnGabf+f94/oNgoWJA6FEghHVhQZCOoYAjnS3OsFt4QeNZDdAC9HW6qY3NvcitHJ9d4QNf7rzZ6dqJi3JrrehnkutzwiEF9428BknwW5cPVmObVIbJ8BkfmhqIB1P/9fPnXvV2DmqZUAlniUO9xYcap/hFtj8RHJNT0FiTxnmLK6L48LRzd6x1iyUdUkrukqEgpr1ayzL2NrZxrUX4ziosB3XTVu0LWqOYAsJ0CwgyDqNKMzYPXWkwMDAC7Rz/Ke0zhwkts5spDD/RAYD0InEV5Li4CvZy8yrm81pnIWNqD5IzI1FC804Pk+AOdDiY+21m143Myu+ZXU6rhI6JMeKeRy48CYY2Y7FDtnNXE+Ln0cgkgTkMAlnXy/e9gXhv4BFBKDxeVpncAQYgW1JqzMGcAhs1r0OHfZu/3kpw0MlfX7aTj/DRBd/Cvf69tNXHhi/7kN0TljFo5OTa+mop1ymCtV3DiIouDoTMlNneXj4MbH9i+1Be/abBO3bCAGcPzAOKM95WgslRBegab2C0s9zbOiSC9aR2I2y4ndi2Imr4nMy4UHaQgGFOJvAvAEVWbsW2VUrXfsoGZdcmv7OYhjYF/rAuBtuHDDDXVx8v98RaxTsRq8DocySX3gSfBz2DVjVJkXOx0QpK0y0EzBA/XGyQ0DlZmXUgktWM=",
+  "URL": "http://www.python-excel.org/",
+  "LICENSE": "BSD",
+  "ARCH": "any",
+  "BUILDDATE": "1572855556",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "python"
+  ]
+}

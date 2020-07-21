@@ -1,0 +1,23 @@
+{
+  "FILENAME": "libxcomposite-0.4.5-3-x86_64.pkg.tar.zst",
+  "NAME": "libxcomposite",
+  "BASE": "libxcomposite",
+  "VERSION": "0.4.5-3",
+  "DESC": "X11 Composite extension library",
+  "CSIZE": "11695",
+  "ISIZE": "24221",
+  "MD5SUM": "850d1786f59758907c3e593f91e974c4",
+  "SHA256SUM": "171f5026e4d7ac0aa9634e5fa02bd1d9308935116e46145237bd9a2f004452bb",
+  "PGPSIG": "iQEzBAABCAAdFiEEhs/8qRjPOvRxR1iAUeixSKmZnDQFAl6/80gACgkQUeixSKmZnDTtyQf9Fk1iVNWotqw2JGJQyKIUdsOR15dDW3krDt7mFOCxN1Vx63V/IoUT++yMGAd+pYFUzFgNn+T4SvK2Zwy31dPXfxtIpvEdEKpRXOEz+B7OdIK9EKaDWUtnRE5QSVg20NLNX4f5Rtx5UMMv+UquIk/FMPgDmT0wjvrJ5Tyf1CloNMjY4x8SGnGV8quQ0blTPEuprG2RBNQxu/qjCVloQMNsPb4s1LuvJ+SYS2OuLi0B6YD+Xac0ATsoJLoeBefLhXvjNVeJyDAFOMfc9x7QtKSKMcI6ELzoY9dhf3OrVR0hiwxPsLocRHGBaaAfUGI3cz1iTLLZbhPQSEZKK/VpSPf2OA==",
+  "URL": "https://xorg.freedesktop.org/",
+  "LICENSE": "custom",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1589637936",
+  "PACKAGER": "Evangelos Foutras <evangelos@foutrelis.com>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "libxfixes"
+  ]
+}

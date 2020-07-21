@@ -1,0 +1,24 @@
+{
+  "FILENAME": "python-sphinx-testing-1.0.1-2-any.pkg.tar.xz",
+  "NAME": "python-sphinx-testing",
+  "BASE": "python-sphinx-testing",
+  "VERSION": "1.0.1-2",
+  "DESC": "Testing utility classes and functions for Sphinx extensions",
+  "CSIZE": "13052",
+  "ISIZE": "43959",
+  "MD5SUM": "eb12c6263cba6d51f7dfafc043459b36",
+  "SHA256SUM": "a24773df5f8546efd7d9ef74bd3db193c8e502797482e9d0c6124490139fb1da",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl2/fwoACgkQeGxj8zDXy5Kw+A//TNpGs75SFVK/+3UslP+MQ7GsfRTdzMf5RGuh5kuxzSZbyfZ26nyBNovbdIchlBWK7+NOArQlvyoSeoOedxNLjYLThF73gxoqxxi19DAJZCbWIc78Wm3pjKqvao+jqSQJf7WYgiVzZrfhIUfOhSLhwscSpRtOeJM1036fDjJbbNyhL36jMV+Tkphoi+D/H7Jskf+2uPo0hbIabFEUwR3jjpRu6ksMmKK7B8/VMybjULqzXMMbbNrfJniSpvJRqrGLgEoBUailzkcaZ6vPSfSYpRmZaP0JAcJT3lZfznHrgf4MlcyvoB9RVmuGeld//oRbkbLynBv5HqxFeCf71/M/G1VUceZ66MAqGosBTMWPRiLgeiS/XF9c3de0r/mDSPH9w6H7SCjXSXfsmnlfdIyj7Gf/clFc85A66EY9g8zXKZCri+/FNruLwXdeSZWKp4+P0lj4Ubk09r8VMZB45ZIZhyaQ5eZl/fdnHQaiJIb6652fFR4YIzTnzWo8zOffNnIo+fLx+0HaCOkkm15wY2NIW4KkXnok48LhcpTDQECsUKJCOAi2tBgNwR/3dv9FcMOyVLhValjYUUr95rBg+ESzQ7I7OoSTVtUU1eBTmqYdF0KpgcCx0ddo9ButubWYCy72TyCYn9L93+QAurZ+/rL8nbDyg+iVrPTNBFgKtHQly54=",
+  "URL": "https://github.com/sphinx-doc/sphinx-testing",
+  "LICENSE": "BSD",
+  "ARCH": "any",
+  "BUILDDATE": "1572830951",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "python-six",
+    "python-sphinx"
+  ]
+}

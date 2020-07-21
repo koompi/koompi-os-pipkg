@@ -1,0 +1,23 @@
+{
+  "FILENAME": "monitoring-plugins-2.2-6-x86_64.pkg.tar.zst",
+  "NAME": "monitoring-plugins",
+  "BASE": "monitoring-plugins",
+  "VERSION": "2.2-6",
+  "DESC": "Plugins for Icinga, Naemon, Nagios, Shinken, Sensu and other monitoring applications",
+  "CSIZE": "449158",
+  "ISIZE": "2805895",
+  "MD5SUM": "2c412486b84e269d4b360d779610f596",
+  "SHA256SUM": "b712b1807739ad4f7d613b3bd9b46e9fb27b55e2b7096939f8ac6e1342489dab",
+  "PGPSIG": "iQEzBAABCAAdFiEEh0L3U157OUobBIFjMyycQPQNIHIFAl6fKEsACgkQMyycQPQNIHJhrgf/cwItInV+0elcCiSK8bReC7APdeV77zk2kKtOVTVxZpftSemqcXyMNum51jtsLg1ACtkQ2kIQAua5p3sDeKqkFeTUNOJY/RChZVofHW4E9zm+MWihK1GJjg0H+S+e1GKV7VWvp4nnv8oa+AkfhGwmZutI5Owwp0x3//vwM9u9QgpgMld1PVT/uPLEc/oDYtyUZjDuJ8oCvYEcjMU8QXWCCdzgDezNdbkltq3yIQJyQiK/DW/v8W5WNsNiU2P7do9aAHOP5TxNV0DOzMiMp4J0nIlNaMOl24rcX0ZEyvDpDaAGYMIHlhxaOwdTLw4yqlou+i8QHG4ysQKm0tKBnurP4w==",
+  "URL": "https://www.monitoring-plugins.org",
+  "LICENSE": "GPL3",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1587488684",
+  "PACKAGER": "Jonathan Steel <jsteel@archlinux.org>",
+  "PROVIDES": [
+    "nagios-plugins"
+  ],
+  "DEPENDS": [
+    "perl"
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "FILENAME": "eclib-20190909-9-x86_64.pkg.tar.zst",
+  "NAME": "eclib",
+  "BASE": "eclib",
+  "VERSION": "20190909-9",
+  "DESC": "Includes mwrank (for 2-descent on elliptic curves over Q) and modular symbol code used to create the elliptic curve database",
+  "CSIZE": "1363156",
+  "ISIZE": "5054646",
+  "MD5SUM": "31e55221970306fc8b5dec3d2b7854f5",
+  "SHA256SUM": "0bc89ecb09230a785f333ced8a01bdddf6160f8ba4ae95c0b4c163d46c3b4ddf",
+  "PGPSIG": "iQEzBAABCAAdFiEEFRnVq6Zb9vwrc8dWek52CV2KUuQFAl7akngACgkQek52CV2KUuRY3wf/d5b/tvnew8QFZk0Zr6pwDWxZ1Yx5yGCZg+tzoEAHaNzAA9jIxN7AdIYTiwEHrPgai+TfPYl6+ovhT27gnn/R0AgTe10BVImfUekhBbUfD8UpfTmEmx28qYvlCijcoVGPe0DoT0XGfprOa6GA8R2EUe820UJOi03rJKNxmNUGcHwiJiXqfspjz8fIpd8Yl85V3MUwMlXTMIGRJbCOueRrdVI6XfifWlOJJf0FO/IUg1jay/nzZauhGrnBT2RCEjMjwiOT7sFTwZRIFdpLQH9+LC0NaPCR1HQnjd7uJu4gQc2YOduDqUpVccczBaKU/08IvKLvzOtN8GzWY2HQ8HxJVw==",
+  "URL": "https://github.com/JohnCremona/eclib/",
+  "LICENSE": "GPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1591382547",
+  "PACKAGER": "Antonio Rojas <arojas@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "flint",
+    "pari",
+    "boost-libs"
+  ]
+}

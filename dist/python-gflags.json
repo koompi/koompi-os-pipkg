@@ -1,0 +1,23 @@
+{
+  "FILENAME": "python-gflags-3.1.2-4-any.pkg.tar.zst",
+  "NAME": "python-gflags",
+  "BASE": "python-gflags",
+  "VERSION": "3.1.2-4",
+  "DESC": "Commandline flags module for Python",
+  "CSIZE": "71436",
+  "ISIZE": "305944",
+  "MD5SUM": "cf5b51fb8c57f31b096773cefe81ec32",
+  "SHA256SUM": "86dee196ecbdb4ff4660f9a030b3e416fdf0d467512573cfe6b8e87ff25e89a1",
+  "PGPSIG": "iQEzBAABCAAdFiEE5JnHn1PJalTlcv7hwGCGM3xQdz4FAl4lrbcACgkQwGCGM3xQdz7sJgf/ZCbVRDVrR/eIswuF9hDcnGaNoYXGboYDL7WlkG7xjW4RJWPiUc8TIwI0tSPs0FoIiFfGjyt34HNFPjOJK5+v1Y+FgOamB/GDZBGLUUVyA7jjePDf1bGKte7NYn2JYAV34QYw1R+hI6fezffeWcOuqSmK9Izv6EMOR4/2G5BhjdG4hR7BE2pI1b9bURG00o5O1q0Ok24/qtCMWw0qxFfQCDGOEJoXx23baBmGgciFv+hP287GYbeBsB0FIxzncozA9J/P+b5eCbUwK9s+OSt7MTzcr8kWGxCBrIP3k3qI8y3bJr1edkmmtjuZzTjvITwdWfT1appdN0Rv33D2e89iCw==",
+  "URL": "https://github.com/google/python-gflags",
+  "LICENSE": "BSD",
+  "ARCH": "any",
+  "BUILDDATE": "1579527445",
+  "PACKAGER": "Jelle van der Waa <jelle@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "python"
+  ]
+}

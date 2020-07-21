@@ -1,0 +1,23 @@
+{
+  "FILENAME": "mruby-2.1.1-1-x86_64.pkg.tar.zst",
+  "NAME": "mruby",
+  "BASE": "mruby",
+  "VERSION": "2.1.1-1",
+  "DESC": "An interpreter for the Ruby programming language with the intention of being lightweight and easily embeddable",
+  "CSIZE": "541084",
+  "ISIZE": "4822839",
+  "MD5SUM": "b1bb1818db35cda010ed69a983a926fc",
+  "SHA256SUM": "9005e2a1687d6957ed2d46a41f85e68aed3b673ae96afbe06b4479f4d9cc2d9c",
+  "PGPSIG": "iQIzBAABCAAdFiEEjhmSFnRl21+wRVV8sChU7XU+Dx8FAl7vr7gACgkQsChU7XU+Dx8gjA/7Bu80FfxyAQChbZhuWYLJ21oKGMXD/njTnpR2PGVAO0oNxOn6avdEV351kgRUZLlBgyJj7V9h3g6UJrDXpvl0LTxFc3YKdEes6llLMR3uUKR1Pke8AW92zR6fRUUn90oongZjlFdAIG4qZnnYxzEtQLspTX27ONcjkWHD+O8G7UUTIFKZ6YbCTkof9F3HKDb7wjISa0wo/yq8zhJfD1IbgR6hFgNQXbLx0nkRepzfLb7xjdm9AYF/Ly1YelbuBUeaQKznzVk0xkEc8WxSogXbllIkwixxAywLESDItXDqJe6q4h3qnTVASn/UD/yip1b/kfoSJysn1URQg+7PMgpgtZMa2KZ3pqX1U6qKc/FtF3YVwkgj69OeAmrsPBcOMC8ZigsP8nIyHdULafB/AKkTBu0CuFBsKs4j8wcTxYVRCEdjwnRVmBc8BvGRu9SqDP06zO2KvrcYklq98xJ3PBqtQ86TmT7u0kT8fht6rrejZc+n+rDrS/tNQw0659kn2qt3BVCdVgw6AFc5xMhrLnuskXmgPCqGfvgq1KyJEzHqx4wUALeELThm6tn02lUdKtNmYqRKoMRe0lx2PHp6oIiqkh+8FVvYQJ7ttYTuBIRUL1cgrCM70q4cx1+/LwUqvNWG/myrbLvXreiMWm58ZEqGZASF29G+BAo3Eikp3hbAPOo=",
+  "URL": "https://github.com/mruby/mruby",
+  "LICENSE": "MIT",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1592766306",
+  "PACKAGER": "Anatol Pomozov <anatol.pomozov@gmail.com>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "readline"
+  ]
+}

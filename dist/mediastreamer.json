@@ -1,0 +1,28 @@
+{
+  "FILENAME": "mediastreamer-4.4.0-1-x86_64.pkg.tar.zst",
+  "NAME": "mediastreamer",
+  "BASE": "mediastreamer",
+  "VERSION": "4.4.0-1",
+  "DESC": "A library written in C that allows you to create and run audio and video streams",
+  "CSIZE": "17462726",
+  "ISIZE": "30691537",
+  "MD5SUM": "ab9f7a25302fbd5b5ebb9b70adf813e6",
+  "SHA256SUM": "8bd446f7390d003bc6c4f80676ca9dd763443af2543f8acadd75924366fc9fea",
+  "PGPSIG": "iQEzBAABCAAdFiEEFRnVq6Zb9vwrc8dWek52CV2KUuQFAl7zuiMACgkQek52CV2KUuSNKggAlGn8DKepNvfC44Cc5wbT+d94eMXOA1RyhkLMY21B0ZV5RtwEIfuBipmjhIpH1MfBl++BzLaqzosrje9PYaBkKcNrHYISyhLyYu8KzTm6vM8cKgBWRfmdQ9G9YqPDvVY7GnwZsoELJoy3JcMsRi8c/ETZpbHv4cC4d8RtbtSX3rDCExC0oYMK8mu9DUj+cdLQkQiXk9t6/YjeX/CeWqFeTIN5wxdc87DBzY6eqZSf7CuQgjsTfV/bOQKwKkRRLud6rKExGhKUUWJaeJsEfJC63WMlAvkwt+rwMogGyzMzCjAni/9TAcf0YjP9+Hihf5jkmc9WhjNRCV+tGY8rZiER+g==",
+  "URL": "https://github.com/BelledonneCommunications/mediastreamer2",
+  "LICENSE": "GPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1593031131",
+  "PACKAGER": "Antonio Rojas <arojas@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "ortp",
+    "ffmpeg",
+    "libupnp",
+    "bzrtp",
+    "glew",
+    "libsrtp"
+  ]
+}

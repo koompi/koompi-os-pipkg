@@ -1,0 +1,23 @@
+{
+  "FILENAME": "tinyssh-20190101-3-x86_64.pkg.tar.zst",
+  "NAME": "tinyssh",
+  "BASE": "tinyssh",
+  "VERSION": "20190101-3",
+  "DESC": "Small SSH server using NaCl / TweetNaCl",
+  "CSIZE": "56640",
+  "ISIZE": "131132",
+  "MD5SUM": "7e29e88a783d1cbb7defff82506bd63f",
+  "SHA256SUM": "109fd0361c5318a7097c336fa5a5d784cbfe54baf8d29e59dc5585e9e9de860a",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl8ExJQACgkQeGxj8zDXy5Ly0hAAi8RJ6A1IBUFla0kOISwgJTzJ3qCv0LZO3WD51JYgKFlYwwC9FtMeLE2PbbCyzYL21tnCWFLnH8ToNQN2JOgznwvT4kjiNxV0SjwV+lHhz1IXx+v6v7GbCgNpklvdcn7DN8+23Un/fA15JZWJROqeb27LUQaT10rDrWC7rGoQl7LZ11cyiAJAl9AuOFRiGOwPi9S8bMub5OirgxP2E8Ks9nGRp9DqKpmiy5A5/JkENNuARAHpk6QCKijICFEbC+/wVHqMsg+p/zvzxQ8aJj2zGeUHCzQM7jcNRVFuzP15di8RfJNecQZahQrQPUGJxaGWyFUK9RS3oysB+tGwo85Iv8fkWJJ+rTwvgqzZRDBNB2gzLwOBKgTqFe6dPlhRjETg0PsTlKEmak6afYHnTxRsnn/+4YINS4YwFF2twNnvA2gbOSV8iPkO10RHtWY+wU9eOUt+Mwp51183EUC8whMzND2sKkpfKKZrYc0ro0N61j/0EphnCtnED4xggZNMW9RmdoKVtmjzdBdqUorbTUtGC2FwVyQrcEmM0LmIaqI19kIp4FkzfgPQRpJ8fBYGGG8P41h/cJJ/CFN6XqyRblX51nrtNmjOFQmKN6VEaiKqLMhlY6WaabhDKxMgv2goxTRxqCJRkk7M11KASUClexBmRmdH/c62ks0Rg+Qig0a+tEo=",
+  "URL": "https://tinyssh.org",
+  "LICENSE": "custom:Public Domain",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1594147919",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "glibc"
+  ]
+}

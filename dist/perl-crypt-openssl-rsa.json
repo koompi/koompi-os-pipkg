@@ -1,0 +1,24 @@
+{
+  "FILENAME": "perl-crypt-openssl-rsa-0.31-5-x86_64.pkg.tar.zst",
+  "NAME": "perl-crypt-openssl-rsa",
+  "BASE": "perl-crypt-openssl-rsa",
+  "VERSION": "0.31-5",
+  "DESC": "RSA encoding and decoding, using the openSSL libraries",
+  "CSIZE": "23359",
+  "ISIZE": "62161",
+  "MD5SUM": "9b55993e2200d10f11b7a48058a6acba",
+  "SHA256SUM": "570a6e40b8b70c4730a5bc02cded63488e5cb5f9530861218d625f7b44c159a4",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl7vPGMACgkQeGxj8zDXy5K6nxAAt7JORLVorQ2JB1ku1tatqkL0CU6liqVKldOUllw8LijfqzGD80EKlOlumVS1PudT6QryDTwd7SLw1GzbNlGxD2+rO2wMtDf2HS4MS27Zw//JOnwL+2p6v/5+i+048DhT0XlUbHjSk9vXtwskpPrjIIV2E8tweBp1Ucg2UmfA0mSieFkzxbv1Oq/fBUA70J1o+VgZYINWt05D9mF1YNlgSg8StSUnP2ZIKT4WxPMH6KhtsRGwiQ/Hf1o1OVmq0bxF+8u6/1EhH2C6I3YvhkoziNmqhG5hOX4PGuztkG3Y7u44vZOw//ThD7Lc8QCnaRD8rjzse3icYkm5Bha+UME27Ll6BCx65AVuZs0BoYdWI+m/gl7pTACv4BfyZ+qC9MvMFhl9m4yA0iGBvYWP62khkhQrlp1XACwcok+pQeuL49xtf86lZCSnas454TuZYfLAjiIEa4kTx/2sdpBO1dMuM83RRE/oDvbIkbJJoq7tXZERO/t/V8Jkr4TCof66Rm5fDISMB6ACVaBoSntuD3Xn5ybuhVykMIUbKWLZtQZNhtpI5ikEs3QOC+7S0TO+sBJ0EeaH0x3uwUHy8NFndMfdnc8Y0tJ31w9zTpd3JL1WG4Zpv3sYXBlKC4ML7lBpvzYLFho4Y1cYtzf2WUtGwc2pAETz3ybm1O+CRlWI8YlarMg=",
+  "URL": "https://metacpan.org/release/Crypt-OpenSSL-RSA",
+  "LICENSE": "PerlArtistic",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1592736663",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "perl>=5.6",
+    "perl-crypt-openssl-random"
+  ]
+}

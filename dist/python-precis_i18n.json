@@ -1,0 +1,23 @@
+{
+  "FILENAME": "python-precis_i18n-1.0.1-3-any.pkg.tar.xz",
+  "NAME": "python-precis_i18n",
+  "BASE": "python-precis_i18n",
+  "VERSION": "1.0.1-3",
+  "DESC": "PRECIS framework (RFC 8264, RFC 8265, RFC 8266)",
+  "CSIZE": "32028",
+  "ISIZE": "183050",
+  "MD5SUM": "e5d9334f31d73bcd6885cd69ecb89545",
+  "SHA256SUM": "5cb5959c964912af9c5c3c902f73c911fe4e288fdd39c05716a6f652d6b91949",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl27bvcACgkQeGxj8zDXy5IapA//e5vA1N4t+Xl1geD1iIqUHn8LBe3EAIbOPoQKkTrgWYCKAbqNcnrABXRN7ZujHKlxDchDdTIVZlf8OE1jJwqcqNu/NFTz/5meLQLLLM1lQqTyI2Uk1oOU1bezQcBb/R36DsqOPKvam5mvp1ydFPGUXJHANWnRKiK8BJeRAhJ5bDm7waNZGzDzFKeNJrpEj/yk05NvQmzTAlaCCxczW4d74NQGYKUSrMJOga9N/iB5pWidU6ZbEoOoNd5wzga1uAX+XIzLR4luzKkJ/YPFJEl/K8fs7LxgDlaYq/arRJ4WQUHfLyRlT4+rchcarjr+jFqzJRTuFf6zGIKBemFN+ZZWPGKQZWALzf/8IWUodjjT6xV5B7ILZbQcCa3lPNsjwlctS1YXp/6vK2cbqTtn8Snof6HKx6lnrlJbar1xkSecNckjpbz5+f9jLIrmX8xuufJ+Ga/bUDLiWZNaKP8T977BOjKDB9Nx4rOQJLDCrrHxitsF61bpcfVoBjh1ALlBMwB9jd76oRpKSZU1k/RvNL49yOCefKPpPhyit+3iHwB0kzFkEgix0SGtkQI7t77DgBRvU7lSa4iJ4QpLYtJGeD3JDDiP7RHGjYz2rY20fZghCaR+RtW8yqOjBldLQvYehyo9FHbuSzCkNfnK20jwYUBiFrgIVTxT0nSl+ooWuOyqXtQ=",
+  "URL": "https://github.com/byllyfish/precis_i18n",
+  "LICENSE": "MIT",
+  "ARCH": "any",
+  "BUILDDATE": "1572564625",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "python"
+  ]
+}

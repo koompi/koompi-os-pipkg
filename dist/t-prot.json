@@ -1,0 +1,25 @@
+{
+  "FILENAME": "t-prot-3.4-5-any.pkg.tar.zst",
+  "NAME": "t-prot",
+  "BASE": "t-prot",
+  "VERSION": "3.4-5",
+  "DESC": "Filter to improve readability of email/usenet by hiding annoyances",
+  "CSIZE": "33292",
+  "ISIZE": "76068",
+  "MD5SUM": "4c3ba00c8b7ac6a889f2731d8b377328",
+  "SHA256SUM": "61832cd92a71fd1abcbefdfd1e6d480298579a8ad93a5e3f0fe0456be249b7a1",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl8Em+kACgkQeGxj8zDXy5KJNA//QBVxtblANIGl+OLeMvtmRiLck5CIjMVW6HNAhqdHppGqdnvqsF+MhVakQ2SH1o1jK3J1csOftqiY78TLA0Gp90t73k7y6Kpz1+d8dJRWjd9yuG2cjXDq8aCa8+E7vW4egLUUIP0N9Q8LklGVniE0FK2Ln/4j7Gm/itVduRupZNzPZ/fMN4fs1s1DEfh0QCYQ++Il6Le0sWZ2/w/OwaNOIVKi8XPVGb3+UV7/AjL2k4/S1O1FusXeBypoLJVTIXbnGI/VIunD+oM4DMcD92bI78x7zf8EUmm42syN1VHG/T5Yo2QyFnkF3e//KZhrhjE2TsKkN62l0SgwZjMbwjdmF3CYbChxQnHv4a7QsxzgVCMtYcF/1focN43bFA98KqflY+A6Vnb7s4Pd/7S7Bx7qMMyyXfe1hpeeJ+Jy+yqhQmS5Xpnv29zQGbAAI/kkFN4o5S+MOerSr+81zuCRIiaoiYUCVqOOaFRwM/cJPcFTGE/y49cqFfhUv80ITrbFmztYDvQjmSL/uxcOa8UtwjFaqZmnL2D8o9tfVAqNtFlpW/deRW7FICLGpPVgUYJW7Zz0sRTnx3QgnPdzqsrGsAlN5Y48zeJjLqbWmLvVnM8IJFX9/CQfciu/HlDwDD4ig0DxYWzB4w2yjjsyw0c0UUDA666ZepToyNVNT3EcJgmf3pk=",
+  "URL": "https://www.escape.de/~tolot/mutt/",
+  "LICENSE": "BSD",
+  "ARCH": "any",
+  "BUILDDATE": "1594137531",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "gettext",
+    "perl",
+    "perl-locale-gettext"
+  ]
+}

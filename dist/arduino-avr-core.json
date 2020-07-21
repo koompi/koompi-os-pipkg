@@ -1,0 +1,25 @@
+{
+  "FILENAME": "arduino-avr-core-1.8.2-2-any.pkg.tar.zst",
+  "NAME": "arduino-avr-core",
+  "BASE": "arduino-avr-core",
+  "VERSION": "1.8.2-2",
+  "DESC": "Arduino AVR core with upstream avr-gcc and avrdude",
+  "CSIZE": "2470123",
+  "ISIZE": "11225366",
+  "MD5SUM": "cb541576412d96c24afad4c33ca19012",
+  "SHA256SUM": "3a4d74b09b922d4619379f6b2bb699cdaf5ebcbbf32e0f4a5b6214aa6b025201",
+  "PGPSIG": "iQIzBAABCAAdFiEElzEtXrnXrn0L1DBzUdrpt8GukWEFAl8JdvMACgkQUdrpt8GukWFhAA//We4h3/4EEfLPYDVzp0uRjzqwmYCnrYy0yklxjwOK+mMi430xeJK5IgC6nHBeKC/ddWtTArTBKmppKd3pIg4Gut1rwoS57Bc8upSqOfiwwGhzlLqov5DyUUwF/QrCen1TLBTKsoYHelkUaZwS1yEFh93k+8eVwY6dJS97pFz+SnMLgsuB3nKD4mJc+Xoz140Yygt98WolP9V9n0uBEOVg9dW6g3+IKjlwUvnFGxB+b3ZVgMsB/thgfBnwrRq3M2y91uDAjPVkd07bvbrjnge2h4ACPzJ3CNmcv4wQqYvHSHkw6X04UZ0kiF6Ts7y4V9IxlOdnfh2NlDRff7Z8Oy/bWpsmTBuPki1O/0rdwVMd9JFv9kg90y3wF2L0Uc/pP9JWAwJ0Q4qhk/9Vsbw2XEfPbRX5yQLCNd/KLAZtrXPnF9xdE9QGjj+0rGo7gp79/1thGf5ivJvG+8EBmVJNpGHC9Ki6JQV9k9SaGczmQMb0/nPbZreFKeeGcZUJDvZGSsySiyhOoScYDi6aghyc0IaMcEPLc2TY6xymZOhDm5qNCWZ4R9aKavghU0ST2lXMUKE/Lsx/ai4QU5EiJK+Falp6EdCOj6YEwLoYpsLBahLjNQJkQp7U0CpQLQyr6c1UgklvM05flv5I+peohTm7h/ysfDEOMcv3yUsz/XBWVTMI9q4=",
+  "URL": "https://github.com/arduino/ArduinoCore-avr",
+  "LICENSE": "GPL",
+  "ARCH": "any",
+  "BUILDDATE": "1594455064",
+  "PACKAGER": "NicoHood <nicohood@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "avrdude",
+    "avr-gcc",
+    "avr-libc"
+  ]
+}

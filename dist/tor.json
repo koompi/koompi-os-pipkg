@@ -1,0 +1,26 @@
+{
+  "FILENAME": "tor-0.4.3.5-2-x86_64.pkg.tar.zst",
+  "NAME": "tor",
+  "BASE": "tor",
+  "VERSION": "0.4.3.5-2",
+  "DESC": "Anonymizing overlay network.",
+  "CSIZE": "2685667",
+  "ISIZE": "13113249",
+  "MD5SUM": "2bdfbfe5776bd8d04d602b70f614c99f",
+  "SHA256SUM": "63c338ca10a1bc9b1fde87d42d4767d9d0f7def9576b376b5bccf0d28299787f",
+  "PGPSIG": "iQIzBAABCAAdFiEELjbYYgIhSC/EXLfyqRdkdZMmtEAFAl7KdPoACgkQqRdkdZMmtEBbTxAA1joh3mzXeTr6DmSPpuQzVNwnABZO93VyUDRLloAoSS8cA+3BYew6rYWYf3B1lkDy3TdG1m2aIseSSl/+SIVV1yhKg9nToseSzpc1R5u6wj6iGTgEefrgpF5jSaPbTOg1MG9Q5ca7j+W3LG34KfEmkPvDVYmTKxosL1L8GYClBhWF/WZxOaIH90e5Bh/4fE241xgCCYmMFZIGNaPLf/1Hff96rMcSZzMtPh34uhSG5Wmw+FRKEN+ppGNrGCzz8/RBh0CFl88PXfLsjsPNi6qfykewcAyp/RaOQ4fMFfhxNMl1DkN9Nn+V/J+fyvu1LjHP/7XN2kCy0+gLt5nCzDDoJeoZWfOJ0xmnNZ8/60tDRYoAkt2wXznfeTSNwtCzfNZd383vY1uGTLlkplrvSVUGI371c878v+985Wc+rkoZU+qaLMAh4CcgHf9/p2qxc4vkknez5L/hobhLQRgspmGqsTzxzQMEXKi7Z+RmAuzMk2y3/gDQmngi2s8IzYdP/dKqeyebELEUZrClqH2/bw2ojosYdzUtGkwIYwYB53fGXfIZYW6vCxC/tRulkSPUXeQO4tcIqWOkb3MIE5Mi6+WCvFrcP7wR1ItFHnxw75xSrowwQw+e8l2ajpX8BCCbui6pAMpmKEVy4aosSs9VQwRTzxOfplSvNvSsHeF+Goixk4E=",
+  "URL": "https://www.torproject.org/",
+  "LICENSE": "BSD",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1590326359",
+  "PACKAGER": "Lukas Fleischer <lfleischer@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "openssl",
+    "libevent",
+    "bash",
+    "libseccomp"
+  ]
+}

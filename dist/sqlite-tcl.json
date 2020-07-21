@@ -1,0 +1,23 @@
+{
+  "FILENAME": "sqlite-tcl-3.32.3-1-x86_64.pkg.tar.zst",
+  "NAME": "sqlite-tcl",
+  "BASE": "sqlite",
+  "VERSION": "3.32.3-1",
+  "DESC": "sqlite Tcl Extension Architecture (TEA)",
+  "CSIZE": "22035",
+  "ISIZE": "56011",
+  "MD5SUM": "740c95c4e748a20d4e1e6abc4e1b8359",
+  "SHA256SUM": "3aac6a77743e1340b3aa14a437e4a4ba61b3d8a7f5a97b4b2328b56ad2af0c16",
+  "PGPSIG": "iQEzBAABCAAdFiEErcih/MFeAdRTEEGelGV6sg8qCSsFAl7rvUoACgkQlGV6sg8qCSutyAf+MzE0LuTLtEeAecloQPskidt0a9dmuSAkobgvNXP7U8NBjsrfVDAlmT7pWAzfEqrgddBjdwjBSs7n6CG/A1ruuFxgF0WnzdupcclMj7iirMdzYw46NGudsv6qSyl6opNtNKql3YNw5LrZ6jOcTXzL0b/ob6m10MjEpxdwL8nqZt6LyttMPnZl9CCgC7BCef0tkl75hxs48/LA2Taa/CPivtxAmL6S8zDUmpyv89mPdlH0qHFwov0ly6pDTnGE5OukFGMtHSqqTon+aCAMsJVmx97elYvjT3Dm3uS43ssQECgxjgGUrfeqRMhuxE8Gp01lZLVnUlIXOnUpSB9/ZlRTgQ==",
+  "URL": "https://www.sqlite.org/",
+  "LICENSE": "custom:Public Domain",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1592507408",
+  "PACKAGER": "Andreas Radke <andyrtr@archlinux.org>",
+  "PROVIDES": [
+    "sqlite3-tcl=3.32.3"
+  ],
+  "DEPENDS": [
+    "sqlite"
+  ]
+}

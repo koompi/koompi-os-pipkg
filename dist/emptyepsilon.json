@@ -1,0 +1,27 @@
+{
+  "FILENAME": "emptyepsilon-2020.04.09-1-x86_64.pkg.tar.zst",
+  "NAME": "emptyepsilon",
+  "BASE": "emptyepsilon",
+  "VERSION": "2020.04.09-1",
+  "DESC": "Open source spaceship bridge simulator",
+  "CSIZE": "235907752",
+  "ISIZE": "283751686",
+  "MD5SUM": "d80b98344d7c7c329a0707a7ad8ca204",
+  "SHA256SUM": "f7a453b2533d4190ffd05b5ea52b46e7e988372c617af4904d535522b781bb62",
+  "PGPSIG": "iQIzBAABCgAdFiEE4kC1fixGMLp2ji8m/BtUfI2BcsgFAl6TanoACgkQ/BtUfI2BcsiPSRAAt+v7A8YvGrHpC2bMPeY85Ndi0rTyBkhh3333E97/HY1pgkBUZ58ByP769pvP/nFNdGAIGLg9vTETXUgGDQ+ezj55e85nfMWXbpi5zz/XcfuETj8gN29Zv2yGgBKeqS8RpAQaSiyOW8iO0C838sn5ZH9KmAwLeTVzK1U19jdCbT4yAmDUNfLEGO9OcVNt7VHjaqCcPPQRN68aXPFvMjYGUm4Li5bN4WA3hYRsNMbmtxC2pJq2TwkfzaxRsC0K7Jwn79iGl3cNwHsLDQG24RgVg6dRH/0IuMcuODD3MmIjeY/XUu1kUv8236/ZFA/zY41ZS429wRAHTllmMPZCZvPw1KxvqHGcbo315DE4lPCGCY3B3AvrNr9sLSCOSZnsz4MG8SMtqigjab1I/jKSewkQWZ85Cm+gShUK2NFRlCrMxN6wJf4dHiIsvdZHYwX8GRmVp8gOt0BCfQz5PtLBVRMSe5TJvLFRxxTK8bp7shusOcIkiiyOSuy9FiK8GsVU9KvG13rNhL5/IuJ8XzL6ibchbFnhP5lzbie6w3LQv36JQ8ZDgQTUuPTBZg8DR3r2a+uOeIMS0Crd/XgkqrJnKJ7OKP4OakPxdoK9RqylSNvTvH5WHCTd6q6IO9uGDV/IVpdTmhGrhzzhpgLu5IUdpa2Cyeh2NSsW38N7t5urKFzzJUQ=",
+  "URL": "https://github.com/daid/EmptyEpsilon",
+  "LICENSE": "GPL2",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1586718806",
+  "PACKAGER": "Levente Polyak <anthraxx@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "sfml",
+    "libglvnd",
+    "glew",
+    "libx11",
+    "libxrandr"
+  ]
+}

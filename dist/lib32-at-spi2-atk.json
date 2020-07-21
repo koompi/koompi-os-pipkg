@@ -1,0 +1,27 @@
+{
+  "FILENAME": "lib32-at-spi2-atk-2.34.2-1-x86_64.pkg.tar.zst",
+  "NAME": "lib32-at-spi2-atk",
+  "BASE": "lib32-at-spi2-atk",
+  "VERSION": "2.34.2-1",
+  "DESC": "A GTK+ module that bridges ATK to D-Bus at-spi",
+  "CSIZE": "64263",
+  "ISIZE": "234287",
+  "MD5SUM": "bc451b518510ae9ce1dd1c523c57db9d",
+  "SHA256SUM": "42e471148a6915dd74e1aa39e4f24be1e74c3ebb0486fbec9a4f8ff463ca6e49",
+  "PGPSIG": "iQEzBAABCAAdFiEElDfdOBWnqRaePTlGr/XZUJi8b/UFAl5bWVUACgkQr/XZUJi8b/X94ggAtB+7JjRIRYy/hvLWNXXzKDULBDwBjPgYkOo9ctvAyOOonCxYY5kBYbOoQnAiLs+nlJLEZnWV53lXM8YHisGjhsy6s+L+iZBNB9mAnvsbpIIpkV7doFOE1kyhmJmbEjO90RJvShKCLR6vWqtXsYaestAOwwb3vGI18SHUUA3wgSV7zaRnZ9Ise/wbtfHtmlJxhoNKMLYWzEf6uWdnIXzf3vElz1HuMQzVLcCB+gPTolwICPevXAg8uhSbWocgPsPcZSTdJsXk9gQq67IPCP/+w9dEF2B2gAS3pqvzeAfMrYqCcq1zR8jRuJQaOMeYHuji+krmJeQAjR5sW1ArHC/z7A==",
+  "URL": "https://wiki.gnome.org/Accessibility",
+  "LICENSE": "LGPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1583044924",
+  "PACKAGER": "Maxime Gauduin <alucryd@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "at-spi2-atk",
+    "lib32-at-spi2-core",
+    "lib32-atk",
+    "lib32-libx11",
+    "lib32-libxml2"
+  ]
+}

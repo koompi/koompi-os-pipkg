@@ -1,0 +1,23 @@
+{
+  "FILENAME": "fff-2.1-2-any.pkg.tar.zst",
+  "NAME": "fff",
+  "BASE": "fff",
+  "VERSION": "2.1-2",
+  "DESC": "Simple and fast file manager",
+  "CSIZE": "17750",
+  "ISIZE": "43808",
+  "MD5SUM": "ef46c33e28bf8066fd6f959e2e9ca6c3",
+  "SHA256SUM": "bf4393dd1103494f7ccfe5ffea2285069b7e4f3850423a2cce8bf4a0be96aa5b",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl8Em88ACgkQeGxj8zDXy5KewhAAgg0HaABov8O16aD3TGz4qLlEodU3EWDsDFpXoyEn4/zqfySCBs55L2Pj5IS2JUZE40KdcrnUjCH3b/h8EDD6jHL1wAhUzA+FX+USu+Cpdur+lNRUpnta6HiQTzeiIEA7TtHthHstHUn1mZQe0Yp0Nq4c2UBQBhABKTRCDevHUfLadbbrhlKFZ2l0e046DJNM/0oq9vcPU7MxsBcB31+7ZUo9/HD1SAZjCrYyE04UHC1kNsFo8VkkYTCj/G4OiTmq3KuiwJpW9+Aw1RQ0DUYai65B7ictZcXOXKxnzvlKqUYzoJEd5nkJbcXxsjz/rhuKxqIORHGxglaIsD289QtLRTEhOiJLeCHyY9+vMnZ24pPnOK5OmgZnqpOyAcBcXYZ67rHcf2J8G5SFSX330LHggG+0Kr4TLJisOpqdoZI02t1RxUk6V9ttAyAP5waunvz0dfNtml7GHStqJ66JEvUYYWlQwy7vdZpSwKTaWF2BOg6jHI5RV5WULG4EVbZVEol2Ogkxe3a9xzUvUr/hVPhHhO/cfH5H7nrRpMhnleCZu/PVcZ9Oyk52Bkw3D75sHH78NDF142jbsKZdBpuDR/bZo2b29X0QGmNgnsAfat6jS+qa4k0NyxIQ8hBcKCkOgLmLiy//zzmUMKs8h+epzrNfbVQQ2Kq+RolYpPRxny/0tLk=",
+  "URL": "https://github.com/dylanaraps/fff",
+  "LICENSE": "MIT",
+  "ARCH": "any",
+  "BUILDDATE": "1594137506",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "xdg-utils"
+  ]
+}

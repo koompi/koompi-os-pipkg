@@ -1,0 +1,23 @@
+{
+  "FILENAME": "playerctl-2.1.1-1-x86_64.pkg.tar.zst",
+  "NAME": "playerctl",
+  "BASE": "playerctl",
+  "VERSION": "2.1.1-1",
+  "DESC": "mpris media player controller and lib for spotify, vlc, audacious, bmp, xmms2, and others.",
+  "CSIZE": "76452",
+  "ISIZE": "433698",
+  "MD5SUM": "3317899a37777d9bdb74c4f3039774f5",
+  "SHA256SUM": "b6788b1b462ea5a23ce41874e890244de074366d6081e19411f3c60250f27ef8",
+  "PGPSIG": "iQIzBAABCgAdFiEEgFPriIeaaMtIc9MrAR/cUtqDkzUFAl5WL6wACgkQAR/cUtqDkzXx/Q//a7mGZbaTkClMHgFaZD3mP1QHgQq1f2wr+QwrpKjKZfHVhRhISk6boQRNvSK6KAvyLiGrP/Pe/eNSQ6xkxEVHSIWLXsduuUFZ4SGLGTZ4W+dgN/mAFoRMQr2kQaeHjNy5c1nJ5aLIfkFXZlBL9+QlZ7CqY7HSRzjStHCQXnIe35R6HeEtjrV6uHWrczDhg5A1ahnvKNnYMsCTi29zorLEDJ0NOhK0aXefUVk+5vKU+HX1rpGYG4vtU/LYEJWxzh2XsKovHHQHQkGSDMcUXp/swOKhi7SoYk8+BUR30HUh/PRNcs03kmQmmsf7ZrQ7Wo0KQUFD7hgC8p7c61V60l0edESFfD+OFMllmiACnzVydXFr3+jTom7IZLpQi77g4iphlu7P8+oNhNCyCZaUHUfjwbuNVtHZgNIqsiRcv9uWWtZWLGDLUF5U+wH7i8ERQx5XOtlbY/AkL1pJXayiH1GXDnLHN+8HQzIamctSCX3lMtC6XNc/Ct5mjnodqcGmS+bv3EJNMxaWeOd9pY76QXt7Fp3b/TU2LAipA9+c16ozs/Xcbrs2mz2lkqPCX3PCGhORfGyE04ORqE/hVNpqaxK1klmynoHp8QDiEsm8hTjHztIZPxqT6wAdbNs0EKZyrLEZ72bLTHnVAnP2ThtCYgYe6c/E7YUFgl9usP53jGbfNCU=",
+  "URL": "https://github.com/acrisci/playerctl",
+  "LICENSE": "LGPL3",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1582706552",
+  "PACKAGER": "Maxim Baz <pgp@maximbaz.com>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "glib2"
+  ]
+}

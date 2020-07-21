@@ -1,0 +1,23 @@
+{
+  "FILENAME": "python-ifaddr-0.1.7-1-any.pkg.tar.zst",
+  "NAME": "python-ifaddr",
+  "BASE": "python-ifaddr",
+  "VERSION": "0.1.7-1",
+  "DESC": "Enumerates all IP addresses on all network adapters of the system",
+  "CSIZE": "15004",
+  "ISIZE": "44896",
+  "MD5SUM": "5a844592404821e9f3408b2ab221e7b8",
+  "SHA256SUM": "5da12c834e2091abbee9b171cfd9ecc4bf5d7fe827ed974ecbaf8720d419ff22",
+  "PGPSIG": "iQEzBAABCAAdFiEE5JnHn1PJalTlcv7hwGCGM3xQdz4FAl8CHe8ACgkQwGCGM3xQdz40kQf9EYDp3bJwKMYDMoBIs6WnI+iv5W8xozmhvjuqpsDMXkQldIXDKHgtXs1j+7kcbRNr7kH3ZolJQ5r8LGbgUnlPASH7GWnMKZFJSH1CNaKd9HFYiBDnybLs8Owt2BgETgQTz2mp53EmRxmyTsbMh00tYELjdfuDBhiPzhzfupp/sgTrqNFhjnYYiixQQGcxKAWA7E1CJ9WgI6iOOmAv/Y/HSLtkKGSIe7SvlDgLJtOjHOxNJKDeFsAbcJMT1yOIe+8O+fucT99GiC5PKD+sLdvc0SXe512RncAnBSDUCpRd452OkRtuIR6tpvZnvmiJzKpsRbJ1dcbIFGFMNrcqpsnNbA==",
+  "URL": "https://github.com/pydron/ifaddr",
+  "LICENSE": "MIT",
+  "ARCH": "any",
+  "BUILDDATE": "1593974188",
+  "PACKAGER": "Jelle van der Waa <jelle@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "python"
+  ]
+}

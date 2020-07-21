@@ -1,0 +1,24 @@
+{
+  "FILENAME": "a2ps-4.14-11-x86_64.pkg.tar.zst",
+  "NAME": "a2ps",
+  "BASE": "a2ps",
+  "VERSION": "4.14-11",
+  "DESC": "An Any to PostScript filter",
+  "CSIZE": "686966",
+  "ISIZE": "3518779",
+  "MD5SUM": "248909459b0a7dba6db2758e9cf023e0",
+  "SHA256SUM": "f4ce13f896cb2effe59ee3d6de446d27f900b18754274edee0ccd18cda426e85",
+  "PGPSIG": "iQFIBAABCAAyFiEEZkWwqMcAXnjbHXhk+Z/+D+rpmb0FAl7Z+4gUHGFsbGFuQGFyY2hsaW51eC5vcmcACgkQ+Z/+D+rpmb0tjgf/YxZEAYAYR7lMSd/IxmiosImpN/SojAFix0MXxeA6suNR5lttZV39NZMmtlwSyvrbGjDFsfwHiEpTNcFM5TD0Z9G/lmgx2/bP66uufj9JYl6au0NwwnSkaE4tJJAXfvF7/QZrpkxOda3iUTc029ieAaS4FgcHQM5+yrdGfpI8XFstGHiaNtO5DN+H+CGtLKCXbMz0w+CFWitfkxbl6lUhoo+NJ3xp2XyvPRQWRVgaOYROlXhTmePeIZ6mxwZGKSaya3PrJCqdNd1NXkyvaEdtbMv9VfNuRic28rBUiPqDO6F18dTK1s5GyWEyi/S4KUTtg9zqgX1Q929xElCHgBOhgg==",
+  "URL": "https://www.gnu.org/software/a2ps/",
+  "LICENSE": "GPL3",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1591343900",
+  "PACKAGER": "Allan McRae <allan@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "psutils",
+    "imagemagick"
+  ]
+}

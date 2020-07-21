@@ -1,0 +1,26 @@
+{
+  "FILENAME": "khtml-5.72.0-1-x86_64.pkg.tar.zst",
+  "NAME": "khtml",
+  "BASE": "khtml",
+  "VERSION": "5.72.0-1",
+  "DESC": "KHTML APIs",
+  "CSIZE": "2909791",
+  "ISIZE": "12325645",
+  "MD5SUM": "2c11fc3d9183f62ae7c41833278a7a59",
+  "SHA256SUM": "7424582cb70176eb5dc30057a17937241f8a2675a28f62b8c342e16f1dbbfa81",
+  "PGPSIG": "iQEzBAABCAAdFiEEFRnVq6Zb9vwrc8dWek52CV2KUuQFAl8JYoMACgkQek52CV2KUuRwYgf/crP3xh8vZLVRC37YKan3VdHFhvwKSTsYacvtLra/DvJ/KImJflQIumqAxXyL3nuzbNF3D42+b21EhC1FLff7jnuPxSlCS/zibS/jnwo4nSpfhlgmV5JjyZtA9lczn6/LzXqlfgI67unZSa1j2p65p/YsaYKddHFM+oqG1hASdPMu/Sqc9xd6bAYHf2+cOLu5e3h1atobqwNIpjZyWwR4tteufVK0KQ/WunfYrz4aG3RR66mO6FFVWZCNAqeQY/fiWkyl63Wo609NNcYkIT/l1OZ1264BJHlVgAdlbNiNvSq8x5nlWBLuIT+HAfOjuy9X/WmrGYRQW4XoyNOAtqTb3w==",
+  "URL": "https://community.kde.org/Frameworks",
+  "LICENSE": "LGPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1594204384",
+  "PACKAGER": "Antonio Rojas <arojas@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "giflib",
+    "kparts",
+    "kjs",
+    "phonon-qt5"
+  ]
+}

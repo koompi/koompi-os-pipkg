@@ -1,0 +1,25 @@
+{
+  "FILENAME": "krdc-20.04.3-1-x86_64.pkg.tar.zst",
+  "NAME": "krdc",
+  "BASE": "krdc",
+  "VERSION": "20.04.3-1",
+  "DESC": "Remote Desktop Client",
+  "CSIZE": "1612531",
+  "ISIZE": "3332018",
+  "MD5SUM": "73a360a76ffe28da91d8e4fe3493abb0",
+  "SHA256SUM": "1492d49f88f690bd03f3ab5fd80baa672f0e238f4a8d94b2adf67910aa8f625b",
+  "PGPSIG": "iQEzBAABCAAdFiEEFRnVq6Zb9vwrc8dWek52CV2KUuQFAl8HH4kACgkQek52CV2KUuTdqQgAi0RJ19J7Qg12qDPVcAdeByS9mRxMndw56k25jmO/Par0ubu02IUsT8dFWzordTx6f70VZCDKd3HD1g56NrL4f33Hh7qNG5ldao0sqrDU5c94qv4PYX5FSfXuv3SoO2Xy/VL0RaA9eQMXo/KN2WzUrQd+u27aBMTJB2TybqG6lQw6kPYJanASNx7PjxYUa9bwofse8OKJyMBhjk1/mVi46buOMnf8T8FReG3HnE1n7D2hnMWcS2nGSSnzlC97ExYLVG+WdGV20cLoocRzgRlzdfe1yI4CNMgd2E3xvE9SnpL6z15ZenhMioOvdCHl0KhfILRdruwEAJuKF2pJBQ4vGQ==",
+  "URL": "https://kde.org/applications/internet/krdc/",
+  "LICENSE": "GPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1594111298",
+  "PACKAGER": "Antonio Rojas <arojas@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "kcmutils",
+    "kdnssd",
+    "knotifyconfig"
+  ]
+}

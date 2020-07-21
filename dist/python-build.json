@@ -1,0 +1,25 @@
+{
+  "FILENAME": "python-build-0.0.3.1-1-any.pkg.tar.zst",
+  "NAME": "python-build",
+  "BASE": "python-build",
+  "VERSION": "0.0.3.1-1",
+  "DESC": "A simple, correct PEP517 package builder",
+  "CSIZE": "148856",
+  "ISIZE": "558917",
+  "MD5SUM": "5d480702e6ce8fb77a27729c4443e5d1",
+  "SHA256SUM": "fa7582dd0e6dbfb7ccca86d23d8a021f3aa6335fb9b4d3112716a701499de4e7",
+  "PGPSIG": "iQIzBAABCAAdFiEE0jW0leqs33gyftiw+JPGdIFqqV0FAl7g/EQACgkQ+JPGdIFqqV1j9xAAtWFGVfKjaLNRwUsfYWiQCGXbDTVvHDkm40fpVEZROiQ1RUkHpcP6/oFZ1p6oWWElRrxMB7Q8cUyAG3LxvdcWz0B9ufp9RAJTXW0YNz8Qjf4DW9/B9tEZUUsMWbUGgKwMqFczX880DZFVzksOu1Fyf0EXjp9yDDUsD5+YkHMlKgWO4X/QsQa92Qhr6YMMhZ0FENrRmkvk+vQCKrGZkjdCX4otpc66A/HK7Gro5VKME40iLI5tzjI9AZ9l3B0/S0l7nHu14tmcc1BX3HtAkLiQ6IGipIEfqWAIM9/sh4lJqNNMSQ0am/F1IxxaNb42W0aYxIBoezzEalTTOUEJc+V/7q3FQEyrCDtPGE6F9+YLUKc8O4/eEpwVATsuyda59DaWayorpF/bF1mYj9Geb/v8as1UZdxvYkmBZErfNIo67VUi4ZWKlCNFDqVymWaqHyXyxdboKsyTJdz1Myrzt0MdZBnOPmRwRoUPCCc8u5xypGzu0NAnssL7cPViw2uDrHdNbxTGHCTQKysLJdmmau1xf8Ac37zmYSRUHI+7udEudkIgPyjsNGCYTJn7qLy+BbU1mBJxHUbtBhgSZLTwh7kDGAjAWl7QHt3qRG7weSntbUoIZGjHCmRy7aukFhVRfH3uN8Sbo3x5OBdRkdbjCXQflLjabJcFK7KsocReY6Wf6ao=",
+  "URL": "https://github.com/FFY00/python-build",
+  "LICENSE": "GPL",
+  "ARCH": "any",
+  "BUILDDATE": "1591802901",
+  "PACKAGER": "Filipe Laíns <lains@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "python-toml",
+    "python-pep517",
+    "python-packaging"
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "FILENAME": "sweeper-20.04.3-1-x86_64.pkg.tar.zst",
+  "NAME": "sweeper",
+  "BASE": "sweeper",
+  "VERSION": "20.04.3-1",
+  "DESC": "System Cleaner",
+  "CSIZE": "399077",
+  "ISIZE": "704067",
+  "MD5SUM": "ee4171b2c22f1318b1cadd57f4883d14",
+  "SHA256SUM": "dbd4deb6c6c9938653eb16da8fa606521efbd5462eb514554835f463534e82c1",
+  "PGPSIG": "iQEzBAABCAAdFiEEFRnVq6Zb9vwrc8dWek52CV2KUuQFAl8HIdgACgkQek52CV2KUuRDCQf/cTvmUdMBn23uuaTonLU5UAPKVFNDzmsGyV+IJ9naYyfDXiS27/cgntqAcLbsl0s0Wxl3EHHIYmEJFaeNaq62noKMXC1kxDi+FU59/LsVyrKQCp9pKx+v8L0IFIol99GhYClr+6MWLT9oU3u1z0ghpN3nyxiN5jMfdkXolPBCHFiP+SUKJs84jDg7IaxF7fSkvEWNvcipbzQ8AmOgg5oFEQyVRMeqaEjrkv6pExgYOPNb49xjKfDJwvGCH9mkAEQQFlXbrlwVlWkH7ERELbrxvpqbjKIvQUTExGjab/gdVujeFdOEsN7UDes0hHa9wThPbJSJug7o8m829cdXmxr9aQ==",
+  "URL": "https://kde.org/applications/utilities/sweeper",
+  "LICENSE": "GPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1594114914",
+  "PACKAGER": "Antonio Rojas <arojas@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "kactivities-stats",
+    "kio"
+  ]
+}

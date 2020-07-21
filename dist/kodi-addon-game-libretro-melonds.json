@@ -1,0 +1,24 @@
+{
+  "FILENAME": "kodi-addon-game-libretro-melonds-0.8.3.7-6-x86_64.pkg.tar.zst",
+  "NAME": "kodi-addon-game-libretro-melonds",
+  "BASE": "kodi-addon-game-libretro-melonds",
+  "VERSION": "0.8.3.7-6",
+  "DESC": "Libretro wrapper for Kodi's Game API",
+  "CSIZE": "218017",
+  "ISIZE": "823559",
+  "MD5SUM": "026613ea239a5e4275c6e365b2f305bc",
+  "SHA256SUM": "5b466fc542b1b59be3362e21410d100a1bb1421d4316e14e3bdc9af711bb9e39",
+  "PGPSIG": "iQIzBAABCAAdFiEE2yJ3vNUAqjglYQvd2zIzknlsoGcFAl8EcCQACgkQ2zIzknlsoGd8cxAAjhNl9IYt99EDmnA+/7wtvhtVXS7wyb86y+hBTFaCMbLR4sIjtUwcd7/kqW/WoCRIKZfkWd0T6VIHH4rd5M15X4+0m+5G09sA8ak8746XC0WI1Uj1MiC+hDoNt8F7i1Dp5P+qwmOeomNFgustwo7ltUvq70gTtMIJw4WMX9GBYLXczcmR4sCS3puKGhdUw98sm9jihJJyKHCa6AQEWUAHn5Dztw8cAScMWzL1DS/Sjvos464HdAjWBk0YoMmNhR1ZKHMld8wHQHX47MzEq6iJ5KYEKSCL1Rwlo+vi87c/dX9tDuku9K+3gwAot2V+rV1ETlOpDMxpk1oFjduWUeFkKWvShB+FFeRMyNWN+KTBcPW84U5U6cnPgnFn+skl1WOXcstQ0HXO1ASykb9EeQ1LDjwZ/ViVJzwtSNdNXbnRIut/Ta9H2O4rhDr1TvlqU/T+bveUrURfNjg0fEhWEck3dxcoelgM3arwtHUoUQdofYbGcQP1OaRAn9yiggMLBhLPc3JXjpdvZWeEF6qzyp4gFOjjVkcDDEH1q/5CQKUirVDzlw4V8xRkPd8WKSwO9AqCTBva2+YXugbQPsFXm5aCfjVqcZSYcmXpA0aGmriNzvbgkrnuLSk3J/sNIqG4BAasr/Kc2SQnnYqZQ5yGb7fWQMIzwU8/WXu0KLqOVYwIuSE=",
+  "URL": "https://github.com/kodi-game/game.libretro.melonds",
+  "LICENSE": "GPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1594126320",
+  "PACKAGER": "BlackEagle <ike.devolder@gmail.com>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "kodi-addon-game-libretro",
+    "libretro-melonds"
+  ]
+}

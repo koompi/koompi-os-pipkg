@@ -1,0 +1,25 @@
+{
+  "FILENAME": "powerdevil-5.19.3-1-x86_64.pkg.tar.zst",
+  "NAME": "powerdevil",
+  "BASE": "powerdevil",
+  "VERSION": "5.19.3-1",
+  "DESC": "Manages the power consumption settings of a Plasma Shell",
+  "CSIZE": "817105",
+  "ISIZE": "2529089",
+  "MD5SUM": "a7b9987dca6352c15a3c9ad3080cfccf",
+  "SHA256SUM": "9c0a8eed6ce92513d11ac4c9e485756edfee77ac258319799994d4a0049832d4",
+  "PGPSIG": "iQEzBAABCAAdFiEEFRnVq6Zb9vwrc8dWek52CV2KUuQFAl8EhL8ACgkQek52CV2KUuSAKAf+OTOuqElRczrQ9/950G4f9PmJhVeQwtoQFzUDIRNghTnOgUpIdRcXPuxeXrJt59RJLUOoK5o8VUxiGPgua+thfxLO2XOfP3iK3ppM2VSuj9QmZ/JJmjoJU/vWUqbu7sbuS6lng0wF4NDo6Cmv2Pc33hPVscsB/UaDlWPZYU++rfrNIsiTqk3Ja/4JGQHZZ7DihHbWjcLF4wsqsjdDCFM+0L2qlX+Y4PFwiyKG0WTG64Iv3OSdDAjw+MMb8IVoy1QN4WeEYVt1PNP1MllpabKg8wAKl4G/syzKdrM5cE4bG75xvYeCKPGWjeFKfVBH+riw96L/tlMSApzg9h10EFHr2A==",
+  "URL": "https://www.kde.org/workspaces/plasmadesktop/",
+  "LICENSE": "LGPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1594129533",
+  "PACKAGER": "Antonio Rojas <arojas@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "plasma-workspace",
+    "bluez-qt",
+    "networkmanager-qt"
+  ]
+}

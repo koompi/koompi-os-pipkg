@@ -1,0 +1,40 @@
+{
+  "FILENAME": "python-etesync-0.11.1-2-any.pkg.tar.zst",
+  "NAME": "python-etesync",
+  "BASE": "python-etesync",
+  "VERSION": "0.11.1-2",
+  "DESC": "Python API to interact with an EteSync server",
+  "CSIZE": "30884",
+  "ISIZE": "131115",
+  "MD5SUM": "adc60d44824e8af55d32653ded554d9d",
+  "SHA256SUM": "cfb132249a17e29bce17768e82bdf507e719ba0cc0127728d917deb8b105aa76",
+  "PGPSIG": "iHUEABYIAB0WIQTH54SUZv4jWDQ1iDdyWHNLQcMVSQUCXoXmTwAKCRByWHNLQcMVSSv/AQCb1MJWCXzhqhYh3uM1DW0FK1KH4D4GGLYBiqn/76OrbAEAmz9FMbA26mtGubUt0jIkVD3iY5fCjI5E+R82oung3gQ=",
+  "URL": "https://github.com/etesync/pyetesync",
+  "LICENSE": "LGPL3",
+  "ARCH": "any",
+  "BUILDDATE": "1585833465",
+  "PACKAGER": "David Runge <dvzrv@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "python-appdirs",
+    "python-asn1crypto",
+    "python-cffi",
+    "python-cryptography",
+    "python-dateutil",
+    "python-furl",
+    "python-idna",
+    "python-orderedmultidict",
+    "python-packaging",
+    "python-peewee",
+    "python-py",
+    "python-pyasn1",
+    "python-pycparser",
+    "python-pyparsing",
+    "python-pytz",
+    "python-requests",
+    "python-six",
+    "python-vobject"
+  ]
+}

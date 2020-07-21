@@ -1,0 +1,23 @@
+{
+  "FILENAME": "xorg-sessreg-1.1.2-2-x86_64.pkg.tar.zst",
+  "NAME": "xorg-sessreg",
+  "BASE": "xorg-sessreg",
+  "VERSION": "1.1.2-2",
+  "DESC": "Register X sessions in system utmp/utmpx databases",
+  "CSIZE": "9125",
+  "ISIZE": "18155",
+  "MD5SUM": "9c53149dde82036bf09cf92ef00acd46",
+  "SHA256SUM": "6b179ef7c395010d167416d048d8a4c936ede0e176379cd468a0e1da5dd58495",
+  "PGPSIG": "iQEzBAABCAAdFiEEhs/8qRjPOvRxR1iAUeixSKmZnDQFAl6/+aoACgkQUeixSKmZnDQF0wf+KOQja5mSs8jaXFui4gcYI19KzKJwQYj4/zJkpXq/SQ8uYKDsae6IZN5wpT+DyRfDxLsd4rQbzvi+3okE2l3nD9TjjT4NlX9iWPVjwTJoHTWOJliDJFRrpy6BfG26fGe7d4s00U2g+OCR6nxlQdpc5u+k5aPMKnFk/SLmFwVVFuvFzzwDf9afnJjYJKlLFhC8gHrQksDLcF3XPWjtxDiQQ4Cewm/dhClEzd6a77+qS4S4QjIZxbRv9JnTwsc+vxGvFCWento7lNHk+f48Omq19xQXL58XH3k/dU4a9R3q+CasHuCj19et/5eGNNo5g82pr5KN+tiXF6jZN5u1Wl9Y2A==",
+  "URL": "https://xorg.freedesktop.org/",
+  "LICENSE": "custom",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1589639576",
+  "PACKAGER": "Evangelos Foutras <evangelos@foutrelis.com>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "glibc"
+  ]
+}

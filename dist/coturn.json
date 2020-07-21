@@ -1,0 +1,27 @@
+{
+  "FILENAME": "coturn-4.5.1.3-1-x86_64.pkg.tar.zst",
+  "NAME": "coturn",
+  "BASE": "coturn",
+  "VERSION": "4.5.1.3-1",
+  "DESC": "Open-source implementation of TURN and STUN server",
+  "CSIZE": "355012",
+  "ISIZE": "2013230",
+  "MD5SUM": "46ec589e8230507c44d60b981a401289",
+  "SHA256SUM": "84f8c566724f0f7b0fadf8aff5654656ff89dd2e42089c0fc5f8a8842c5e8aa7",
+  "PGPSIG": "iQJGBAABCAAwFiEEPlGL8lJv0Zeeiq5JZcEQwepDP8cFAl8AX9ISHGFyY2hAc2VyZ2VqLnBwLnJ1AAoJEGXBEMHqQz/HaFkQANGpLSDnFJMyI6hasFO11sTbtYMuQcr60MpPH/DcEhzx5M+grXMUYtKstESDHxg0Ejb3kCTvhazh9T8rlh9adEYLRaxW8qfw1dUo9/jGPZ6A8exnHLrXM4GxtXzR4oUyrBOE0AUrvcK7G3GrPLOSaiKqsxjRpiOol2pZTQnbiGUh5Ufv4HVG/Crac1y3gOh2bSqGM57SOXmakMpL3EcGgXAMjOWcC/+Vvt2Tuz6YLGxJi5ZmQ5I4UTEtC1DnEPhZ1XkeNjUO8b0isDuY+noxHW8LAF91VVw/HTsOaDdJc31Rhlq/3Brt/GZ6xwynHjtNWRBfh1L2p6P0gMlncfQoHzWXMCIKdMEMXjLQU9A/aYSCzAEZeFTWzhanwgaEqYnGom1Nhd0K2sIhZnezmri04/D3Gbo0VI4kH8KMuLq0iD1CmGDc1OmxcQ6o07iacGLikEp/fLfyPNfCZI/zmwC4AroB3oKQ3SpOVf1AiQZI3amtMJ52wgDjVXk7dCa98U7LfDRMtmZB0XxQNhKf35+R7/j28fRRosFJHpuMX0YIAuoNKN90NWG1laeiitAFNY9JMSSAqKXB2Le5yht6yqH2JmoTFaeoeAviEpQ/zyE4YhqKL6mYi3zGgL2JGicKFzeiVMxQFmIeGnOvAMOEpp1z8iViIZISYPJc69/JRWFZ/h4k",
+  "URL": "https://github.com/coturn/coturn",
+  "LICENSE": "BSD",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1593859756",
+  "PACKAGER": "Sergej Pupykin <pupykin.s+arch@gmail.com>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "libevent",
+    "postgresql-libs",
+    "libmariadbclient",
+    "hiredis",
+    "sqlite"
+  ]
+}

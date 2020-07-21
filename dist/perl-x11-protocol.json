@@ -1,0 +1,23 @@
+{
+  "FILENAME": "perl-x11-protocol-0.56-11-any.pkg.tar.zst",
+  "NAME": "perl-x11-protocol",
+  "BASE": "perl-x11-protocol",
+  "VERSION": "0.56-11",
+  "DESC": "Perl/CPAN Module X11::Protocol : Raw interface to X Window System servers",
+  "CSIZE": "92317",
+  "ISIZE": "273772",
+  "MD5SUM": "c0976048658306935566f59eca4ac0e4",
+  "SHA256SUM": "9f419c4dd95689a900143fc8c192fd76aa951465e60b3e11ed72370b8945693a",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl7vN7QACgkQeGxj8zDXy5J54w//cPzQrqoD9Xthkia92rq02tv/+GHwyWN8Jiu7Rx1i5EX2p9ENoZeAJhpn5lBs70w57cTEFrv4KoeNoaZO8kFenNgnh35ZAoER8KX5VQpHrkWcPI+pRfnoCXdEIo8dcxeDdlhE4ecDDj1065wVhVOD+KIjt0TDVU9281u6LZ0yZR1JPuwDYLcqkSK+uJbNVsGFK9MeyOYew/AzTypOqN4BObu+GShmxq9Eo0K7x73+mfeheOcAZY7pFu/n7KP3PRf5F7UzP2jfIpZN8diFkHa4xb5vHTF9pH/4qgD98XRxWrE3mD7vp8V21ikkYVSt2I8JaiUX+D4y4dlG42yfA2qLCd63rD/Mlc/q71p+QjNeBpYEvn4it2Xhw+KerR5bAon4I21xFhnHqVnevTHFaHlvAruA2fXiCSuVJXDDjCjtZNTJut2r2rBJmhIJn1rG9heBB2vPebUniZB6q++4MCTN6Tz8HvL4hR+L38JjSZrY9CRjq5GYNOqqgBYw9SWMmD196oBe7MY7kkSJAA3jp4kmnIe8BnCFnwDF4mBC5RwTKZIMXFEaUN7IE9sVSnkInU5HjfjMjWwaOVQoleKugX//Egx/n77SQsyo55VS6o0II+rmR0jJlQvYdGHxQ3BwBxfM/i8sRwMWu8TbgYHGnx4EZ4ft02accuBbOdDt+be4Y4k=",
+  "URL": "https://search.cpan.org/dist/X11-Protocol",
+  "LICENSE": "GPL",
+  "ARCH": "any",
+  "BUILDDATE": "1592735649",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "perl"
+  ]
+}

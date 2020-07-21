@@ -1,0 +1,24 @@
+{
+  "FILENAME": "python2-jinja-2.11.2-1-any.pkg.tar.zst",
+  "NAME": "python2-jinja",
+  "BASE": "python-jinja",
+  "VERSION": "2.11.2-1",
+  "DESC": "A simple pythonic template language written in Python",
+  "CSIZE": "305990",
+  "ISIZE": "1746407",
+  "MD5SUM": "f0fd737d9f44b11e223cca0527f48c4b",
+  "SHA256SUM": "03fc194d77d357cb66a77016975366004f99f8f651a7cacef60376cc3f49d9fc",
+  "PGPSIG": "iQEzBAABCAAdFiEEhs/8qRjPOvRxR1iAUeixSKmZnDQFAl6VBEMACgkQUeixSKmZnDS7wAgAmmpNzET832eJEB9GlE9kagJC4YOqnDKN+CVMYUer0ymqGuVjjrsyZqHvuCfL9KSJVOeYA5le6x9SO3Ax7M/vUN+XoDsqf6WvbRfQdy/jBxUd18jCYfK1Saxk6ENZW5d7OuTfGTKk5hmxvqX2aM6QYnP38K5n1YCNMXNSdMVfsW39s45vyJ0ZKnHwEVmogoeRpcK7Vz2DtLsFz7DcIEXofHOXNlrnEE9Mz/siQNVe3b7Mo7dzcgx2eBY5LSpCIrbgmFBuE1C4YMtQtTDSliJ0MmGtJmBChdcE+86GDYvM2w6gm6SmMCZSbji7maEA5kRh7xy4iFPqJctw63/YXKv/rg==",
+  "URL": "https://palletsprojects.com/p/jinja/",
+  "LICENSE": "BSD",
+  "ARCH": "any",
+  "BUILDDATE": "1586824209",
+  "PACKAGER": "Evangelos Foutras <evangelos@foutrelis.com>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "python2-setuptools",
+    "python2-markupsafe"
+  ]
+}

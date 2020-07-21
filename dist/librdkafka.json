@@ -1,0 +1,24 @@
+{
+  "FILENAME": "librdkafka-1.4.4-1-x86_64.pkg.tar.zst",
+  "NAME": "librdkafka",
+  "BASE": "librdkafka",
+  "VERSION": "1.4.4-1",
+  "DESC": "The Apache Kafka C/C++ library",
+  "CSIZE": "569635",
+  "ISIZE": "1952495",
+  "MD5SUM": "8277af5ca387f352d99df9b9a63971d9",
+  "SHA256SUM": "9b00ab862514565e5be4459ed61d370649da2b31a10d7c8cc783cd6ecac6bfea",
+  "PGPSIG": "iQIzBAABCAAdFiEEjhmSFnRl21+wRVV8sChU7XU+Dx8FAl7vsJkACgkQsChU7XU+Dx+aHQ//XCAdVW5XeKl3WRGc+dVjQnQWSfBbZVfLWVIiH6PJJOgFxu1MGL9yobjWHKXiV5eM6ebZlle4E2L25YIArtFQl7G861kfnPZjvzq27rCFwEl6jdVMsu/o7RRDLu71lq4V+Acl7kh+jrvH4fNmPEIgBuu8FJiFM9NiusEtyaceoeGyfMBVuJtk4Y29iVG59N1h4gzUXUFxX7OW5P96+Ut16x56HWzYUfcIbFhsDaIUEsKi12+UUvxHo1fYhj9sUJR2Hg63fEL3KLQEhOgYgacKLIIZHxXo7enbK2whK81yFaRtnc1h2kk/ZUjiUut7e20Y4AxoSoKas1zsFcnRgzOyTD0riExS0E7BGPkHJIVn88GySXOTuSt24TwCGdkUXcnpnlRx6qGkYyHQiHbSGAuskvICeIpe9nxQJKXp/nKl/Oi+XQkNyk2/1HvlCsOhMj3vGFFgPtBtVesyhXE2TlKqYyNZo0N8g4bR49OKZEZZTfJhFbHCFpcLJh4z0KhpYyJVVTysLps8lySZ6UOLQGUUZ37UGKCZ2+WsJ0MWbyCgHLhlwELmACox7hYNdhzh43WTJQLqyizyd7xReVSGxlFB7B58Nyx9EmKmWH0uCz/biJNXaHezMLvuTobTrw9zqTiNuNe2K8vwrCdU8im4bFrBwNzNqpb6mMwxxupjgvOz8Y8=",
+  "URL": "https://github.com/edenhill/librdkafka",
+  "LICENSE": "BSD",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1592766457",
+  "PACKAGER": "Anatol Pomozov <anatol.pomozov@gmail.com>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "libsasl",
+    "zstd"
+  ]
+}

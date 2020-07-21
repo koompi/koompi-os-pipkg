@@ -1,0 +1,23 @@
+{
+  "FILENAME": "python-matrix_client-0.3.2-2-any.pkg.tar.xz",
+  "NAME": "python-matrix_client",
+  "BASE": "python-matrix_client",
+  "VERSION": "0.3.2-2",
+  "DESC": "Matrix Client-Server SDK for Python",
+  "CSIZE": "37016",
+  "ISIZE": "244255",
+  "MD5SUM": "86ddd2fc192c50f4bf930d019f15f08b",
+  "SHA256SUM": "575f7b4e4dd5c6bdba1d95fd91e89f73b5329b37c2b0e9bae7ab9beafd6333c4",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl2/gxIACgkQeGxj8zDXy5LMKw/+JaX+l236c0zKDR9xLKjkpbE904Ksy+HDI96CpvB8uR/hhEtnjE623p6hG3EiDsIr8BquA2+xgXb3HgRZcivfCVCXPlqMBhqgRs2tXUobzK9tFKM61APq8TMsBMNdJm+ScyKlyPYY4Y+pZzg7n/ioEH7t0IfXhdm1vyWvdFZnNjwp+GycENfBohbQWqj/KZPfP9SzmgB7M5XGRN2uptvHimo27lZ9HOZMUQN+FRa2T9OZGCe4OlVImKRSDrRN8X4chwh0pTLn6wdxLnkjsb05BzN9kcB5T2wV+YuuqRjEXa66a9L1IfJOAKCgs8W8iwWbv5i2jAe13t0QoUycm5HCXOt2bTqDYrrjdK8gLF3afd1+TOsvIKT/OSF93icIy2P2K97520nx6b08f2vs8OUnlLNOdXkN50FO6aODc7IGVsEoVU4oEcbiZQnGIs9MW4YN1HesmVT4GN22R++u6m1UZGG84b4qwTgBtRvBAO4PQH8nhaDXVaKKVJWtg4pc5hyu9IRUYSeitEdC/p3MRDOd3xDxvM7flIRa+WzVrcrJPZS1SU6FZZGK83rYvsMlt6nuOTf8/nJqzgJ8D2F5e+4ixzAkgG9viIJFcdioDePwhIfRdw5n8jzo1G2vkYVtBS5rQd1ugMBIlpzCrqVnbjdQkgQbdRuR7j2rrcYRzm9gkTU=",
+  "URL": "https://github.com/matrix-org/matrix-python-sdk",
+  "LICENSE": "Apache",
+  "ARCH": "any",
+  "BUILDDATE": "1572831986",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "python-requests"
+  ]
+}

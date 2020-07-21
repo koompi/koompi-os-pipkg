@@ -1,0 +1,25 @@
+{
+  "FILENAME": "link-grammar-5.8.0-1-x86_64.pkg.tar.zst",
+  "NAME": "link-grammar",
+  "BASE": "link-grammar",
+  "VERSION": "5.8.0-1",
+  "DESC": "A Grammar Checking library",
+  "CSIZE": "2119692",
+  "ISIZE": "14376517",
+  "MD5SUM": "699f972156c16fd2057aa14465a7ac92",
+  "SHA256SUM": "444330e3f29daa82a1e051a99dace6f31c5909dac2c01bfa492507b549e266a3",
+  "PGPSIG": "iQEzBAABCAAdFiEEFRnVq6Zb9vwrc8dWek52CV2KUuQFAl5/GzsACgkQek52CV2KUuSusggAjbiE+ssKFJhklGMIs3o1NWF7ioffNdvc07U6qJHEHGpUqh0E5T2njtdVX3U960LAoq7kI6lODLQQ1bnob5bGYZNNk7E+NrtJf+xuUsDsi2+0mMmxxmDModbsvQsuyyzb0R9yKnrZvWiY5uTCe19PcE3SKmuqUIuUu2Jh61hhuGPeAE5qpppQg2RF5Sken2NV0Ik3DqIoLXVDTspOrJwQgLUX6bQvSnTh64gJCj/8Qs3hbh/7A8A6qtDAOnjSNzhQ27BxVjsbWSOA6pqEoGrBqvzQiLnOTfI6/CyO6hGWk9b8TpoUY82qu0OFzr0eRe95A7bKRhWIN2uxxnmowX47kw==",
+  "URL": "https://www.abisource.com/projects/link-grammar/",
+  "LICENSE": "LGPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1585388129",
+  "PACKAGER": "Antonio Rojas <arojas@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "hunspell",
+    "sqlite",
+    "libedit"
+  ]
+}

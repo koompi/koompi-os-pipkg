@@ -1,0 +1,24 @@
+{
+  "FILENAME": "perl-datetime-format-iso8601-0.08-5-any.pkg.tar.zst",
+  "NAME": "perl-datetime-format-iso8601",
+  "BASE": "perl-datetime-format-iso8601",
+  "VERSION": "0.08-5",
+  "DESC": "Parses ISO8601 formats",
+  "CSIZE": "11860",
+  "ISIZE": "37085",
+  "MD5SUM": "d466418a59406fae3bf78df164e8ed4f",
+  "SHA256SUM": "064dcdf16f45b12768ec1c7f5bdc9ee4b643a00bc51cda3856e7111c04c0fa37",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl8EsgIACgkQeGxj8zDXy5KdXQ/5Ab3MK1AjhIDbjC6nIG5ZZhnG0P7aEzhLbR0IHpxwzjpK6J4TkvEXYCgpYxB+2FJt2gV+c9xWSbGwfwkFC0mxtfPzY5F2zsJEw5IPwRvwulIBZgbXKv1iMFd3Etq1Alp/Mnn96HiNS3yQ1evpH+TKN7P7vFkN5WNqyls6kIOBELuhzBpDb+AwHuGEE9Jv4UNtKrAWndh4Uy3sE7k3+aYl0hIoDRu2yUdh74YkQ2v2jQdpzGbJROGaTMvl/QpcXCpM6THXCJqMRUZS6xA0i6ziMv3odwm/0lYFh5P3UPWlq62A/RJqxdqURG5065N7RKPpvtFmRnXBWGItI7ubXM03a4Rs6RMpLJHdtyHGxgHq47jSnrMiqbF5bmnv2ekmYmCnHCYqPz8jBibiHQF0OTLPaE6lbd2KrJZvK2rLa/5D2l8RULZ1o93oapfYpJ+SiBHpFoPA5oWI2shvIcgF/oszQs7z60rpIhuZ944ok1Wxxm9lTyzGIbNquEFxol6CzFuieiRirDvdXOiAI7NcGoLJZ7N9dTYuqzmK6JT+U4GAG0O1a5AcDbevxZXxDHTh5DKuov29lqvjgx1AQRBpgWmfmm0X1N8BAg07MiXvUGV7WxA8hnS5MCDoqcfVKvw0ZkeBxdNrqNBnoqVkmqVKovIxDgxYzprS6e+bKJ+KnU/tVOY=",
+  "URL": "https://search.cpan.org/dist/DateTime-Format-ISO8601/",
+  "LICENSE": "PerlArtistic",
+  "ARCH": "any",
+  "BUILDDATE": "1594143192",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "perl-datetime-format-builder",
+    "perl-datetime"
+  ]
+}

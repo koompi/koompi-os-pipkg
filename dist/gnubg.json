@@ -1,0 +1,25 @@
+{
+  "FILENAME": "gnubg-1.06.002-4-x86_64.pkg.tar.xz",
+  "NAME": "gnubg",
+  "BASE": "gnubg",
+  "VERSION": "1.06.002-4",
+  "DESC": "World class backgammon application",
+  "CSIZE": "13341040",
+  "ISIZE": "22659450",
+  "MD5SUM": "1084bc401ab3ac7851e0323e96b27567",
+  "SHA256SUM": "6c6128cd4baee670c1b49c116142869245936451c133fd3d77f9352f96625562",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl3AehUACgkQeGxj8zDXy5JmcBAAtAsb0RzaSCjMdJss0b0nMr4LMF5auHYUj/LeDTwSZLAdKZFq0EZxNucQI8bHMTwN3hId6yGIvB1NiEesW2618LQhVaPyOzFoGq2wzP9QeBhs0aaK899ZGlzfsBSdMFKH3YO0rPMWUG47WFr/dahrapipbpw8y3DoZswQNyuYWhRLX1nOZDtqqGiZ/++NRkY1ZhJAOGVD9w75gDXr0C3UV3yKFwNtpUqqI2Q7BUQpA6N8YhflqH2fjfproFZANixjyYdPPXIKqM8Vvb/ZkhbdrwfiFpjYfUdvTOeQiS3uESW8U0+0be74gwqIhUL2SMs0/pdZjwB/+OhveKMryaKH/NtIa8uA9ZQt99KXCikVY7DVpGVE/x9vzGlHaxa8SMYGAZ+g3LyqQKLIKBAeufdHLynbyOCSGUwzr6hqCvc3lUKOq5vbXEdwYYIf4hGUFrM2Z7Je/9C9Ugm8e92oeI/DWLYy8O++rRZPdB0tPFwlGTruA/lAr1FUQ7uLIC4vGnV5gSF6roMFcbe5X3woOpHOEnS17Xwc4t2NNDz0niM0md8XMSX7Kjz2hqU44d2pAHiJD+aq9YMotm+q2QJcY7RU9v8OpTNMeOR9Hps56I7GXvFioLP/P67ubyhFpiTqr1OFKE2tOo0hcG2TMqvjyJJ3XxVIFm2aWHjtj5HoWDl3pX4=",
+  "URL": "https://www.gnu.org/software/gnubg/",
+  "LICENSE": "GPL3",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1572895077",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "python",
+    "gtkglext",
+    "curl"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "FILENAME": "haskell-prettyclass-1.0.0.0-11-x86_64.pkg.tar.zst",
+  "NAME": "haskell-prettyclass",
+  "BASE": "haskell-prettyclass",
+  "VERSION": "1.0.0.0-11",
+  "DESC": "Pretty printing class similar to Show.",
+  "CSIZE": "34204",
+  "ISIZE": "171897",
+  "MD5SUM": "ee908976a30854095703ec5e2548e64a",
+  "SHA256SUM": "c7e7da66c20fd7f61a497304009c22ed2d46c41f4e736f9ec660c53dbb01a1dc",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl6hp64ACgkQeGxj8zDXy5K0DBAAtO4o/YoKSyyhoIP1+sCATWfYZWjORF2Xv6UommSikN8QG4GSHONLX1/pcmM+cvjqzEFZRpVPQwKF5FMCr9rfBVBO31MHtO3E6xthzh0jxXvtDeoBwizHaO+NOKjZmcI5FtME8YtI3QXIawHN0JjBCqn+Sq7B5ltt4zzCPaBaoA5QgI4/Q7LID0qAOF+Aca8ddHrUACvAqVOXQDGR/1nOYsobV1KM8QwYSu1RU6VA9f9N+oApVHZ4ZQs71NMfjFxYiYVI6bcf8LdNByDoNuXMMaORA72PNbNn0KazbnAI7nVc+1pjlKgaxQeRxIsWVAQvK6alU3nQfcHiQjtIIS64/+s8pXaOMJ2sSTfdHVYsGu8nfbjmRRHCoXMZri87U8bABGkrsJ5x5IHUPU7MbU2Tzk5RHEcbkgJorrY9FGoHlIapBU6wpldNnZ9w5WSylU7eYawOWE8FwF1Wd0rfxBbAFvAqnItGofD/ilI4l9WLv7Rf6dEyIF5ESkcSVG4RwdWGz0DB1x9djJmtPJbGhSWNauhagWvNAgN5f3hG1cYYEk6oYfd04G5QHbUpRtff/ueDLl5UfdUWtU0494eOFaetWK673aCScswATXqb04t5w/B5zPLv5PcmKjakAVsqEXGZ3/kTDRrgDn5drvkBRW6exGDZX1B99Qx9tLo04d6/FzY=",
+  "URL": "https://github.com/JustusAdam/prettyclass",
+  "LICENSE": "BSD",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1587652442",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "ghc-libs"
+  ]
+}

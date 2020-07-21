@@ -1,0 +1,23 @@
+{
+  "FILENAME": "ttf-nerd-fonts-symbols-2.1.0+36+gd0bf73a1-2-x86_64.pkg.tar.zst",
+  "NAME": "ttf-nerd-fonts-symbols",
+  "BASE": "ttf-nerd-fonts-symbols",
+  "VERSION": "2.1.0+36+gd0bf73a1-2",
+  "DESC": "High number of extra glyphs from popular 'iconic fonts' (2048-em)",
+  "CSIZE": "457267",
+  "ISIZE": "881702",
+  "MD5SUM": "3eb884b5d7969b43789506a8dcd7a85b",
+  "SHA256SUM": "6ee6a086c679c1ff532fbb8e43371ec8c512ed8c38ca36cc01dc0573c0b344d6",
+  "PGPSIG": "iQIzBAABCgAdFiEEBNw/sURf7KgTwn766k97MhqQatkFAl6UCdYACgkQ6k97MhqQatmZtg//djQn6iJmNcTPYbyrwIo3Dz+fUOrU/d+NhdTJx8i2PTHgctjHXqlKH974EsX3iX90Q/1V12MVdObwwDza+17pLXEWMtNU0NM8RF+Mw6t02w30Mywhrs2zXjOkvY5YNmqxH8Nck1xooG/nPhA2rs7RYXnPqSyKXW9GyXrJPBDTP6phFNHPHCN2NBiS2z0hvQzfPXwM+PwWOyL8Y5UwMwJmytoSYYYacD/BFVzQqbvxArJNwkrUznsd2c2i6yXMwhwRR5rKwMdv2rrbiIvaMsI+AROJ4AjHF/uqcir/XIfJDAOenghuWmEWy6NBizb2VrdK+D2JEsg8+vKb2mbf/+Wskw33LDkFg/TMTVLg6iTOMlGubRMZrrrN4g4ZhjzwCwGn4S67EPAn2RuJCNNyBcbqQ6+UN0t4unB1/WpRzENIkLuMqNZJDfHHhUoVSnCpz6RSIVuFakIsqmMP2IhCkiYhkXWxFaJty8uQ+QnwpBFm709gDeQcXVlZvb/Oeknti1kSrR1TRkoe+VmjOIwyKyxOOyuqMYkHWcXyUaO8Z7pd1Wjl2btx7Cp1lY0AMmylqLC2SuFgHloDbUD4W4DeZTB7QXqluBV5EPn4LVKknIYWEMxKX/9Kr6KS6TtgcnHOkh+ckumoBHAIEA1sEPdn2UvCo2+vkqYHFIGnTsj/beZCIgE=",
+  "URL": "https://github.com/ryanoasis/nerd-fonts",
+  "LICENSE": "MIT",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1586759843",
+  "PACKAGER": "Daniel M. Capella <polyzen@archlinux.org>",
+  "PROVIDES": [
+    "nerd-fonts"
+  ],
+  "DEPENDS": [
+    ""
+  ]
+}

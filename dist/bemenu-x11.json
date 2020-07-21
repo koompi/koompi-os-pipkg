@@ -1,0 +1,25 @@
+{
+  "FILENAME": "bemenu-x11-0.4.0-1-x86_64.pkg.tar.zst",
+  "NAME": "bemenu-x11",
+  "BASE": "bemenu",
+  "VERSION": "0.4.0-1",
+  "DESC": "X11 renderer for bemenu",
+  "CSIZE": "15802",
+  "ISIZE": "34424",
+  "MD5SUM": "7afe00740efcc2e0e8882eae63ba0cac",
+  "SHA256SUM": "ddc8a6f4385bf640bbec672bcb1bc4451e9f4788cb654ecf18e5600a0cc6957d",
+  "PGPSIG": "iQIzBAABCAAdFiEETybpAjd1lZYpwlYz4yvNk1imWuAFAl6zRigACgkQ4yvNk1imWuBdpA//TfaMvl77vRYeNWYXjpYUnpl3De2J0vHhVnOdWKWiS7XVS4N2VD2eqgi+TzMGU/K4Vw2+cMG5J/MkRScwQ8mo1hUWx/e2FtjjrZEWJzEIl6B590mGj/KKlpvaATfUAhvFyz7Pbf9XezEOJ5ImmHlhEhFi/D+Ea6Hw+a7Ka4bwhOjGt+YB0AzsHsmQEFWeWEAOgSwmN0UAal2Q1E8cDXeUEYr53qdg8YEdHXCV+DQoW049vDFVH60wahKV/nXKrqcHGudqcsXT9DPdCSwl4EaZ9RxXh71wrZH5lKM29HRRHJiUEmF8+BY1PsI5mcLtLUZPqP6zRdd8A6bqUNa9wABJUPeRVeeGH5Z4/zo/lT5ZOgo2gKkFnCOfpcK+S6D6mafzfWecwFYFlVr8nLuIaD4eYWSFwEQQU4PcAa0dlcH75Va0fyERv0hpgVxF1iaKHutRJkGhIizCGI5mhbRggM5S5lK1J7NkaSrxrzKibYsXeKcL0oOsLaBC6QxNOoP8QJyJGKw7XVX4N78yYaiGQg76o7va6G4rcsHzZaLAroPuHE2sMJUQvhGpBBMX25pvmyxl/VZ9ewN2sCe9+gubYEPH55Ute1CG+ttz9lXi+uwggcwWdnHX1pZ/qzfnPaACllx4U321EqmlID9+H31GsK9uShRtIt+zrXMY7REX7WoQK/c=",
+  "URL": "https://github.com/Cloudef/bemenu",
+  "LICENSE": "GPL3",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1588805488",
+  "PACKAGER": "Ivy Foster <iff@archlinux.org>",
+  "PROVIDES": [
+    "bemenu-renderer"
+  ],
+  "DEPENDS": [
+    "libbemenu",
+    "libxinerama",
+    "pango"
+  ]
+}

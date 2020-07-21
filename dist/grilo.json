@@ -1,0 +1,28 @@
+{
+  "FILENAME": "grilo-0.3.12-1-x86_64.pkg.tar.zst",
+  "NAME": "grilo",
+  "BASE": "grilo",
+  "VERSION": "0.3.12-1",
+  "DESC": "Framework that provides access to various sources of multimedia content",
+  "CSIZE": "337197",
+  "ISIZE": "3057915",
+  "MD5SUM": "c79968818531675e33bcdf7d7ebf07ba",
+  "SHA256SUM": "62c6d78e832565d11dc76487d554422213fdb4d059ffafa42e7376e4df386b7e",
+  "PGPSIG": "iQEzBAABCAAdFiEEghj4iEmqxSLpTPRwpekojE+kFfoFAl5G1BcACgkQpekojE+kFfoCnAgAktkV/aaQ44mveIoyXEPWFkunq95oST1O9HW99LTR6sirgTjrk39NFewta3G7T6of+Rm++i4SXW9z+UDZNJGjLoOuSeGOIa1w3rrlXD3N4kwdu6WqZoQgW7HSuvSs/VhlLSuileayaP45wnsbKDTtsgbODIiZAnn6QoY5LCBiU6spuYOK0+i2ePGmViuNvXD1AEP7VfDI6xK6/QRNZ1uwhrbUlhzdY14gWo/JNvn3R2/8KqYIx5u+RQyRzyIDJamBulQYktWc3+NaCbVRVZIZRKbmWSw09n5u29rsiz86wYtXqnLenncULccIc3Gap5hpaW0S1vdB1x8JqR+yY77KCA==",
+  "URL": "https://wiki.gnome.org/Projects/Grilo",
+  "LICENSE": "LGPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1581697870",
+  "PACKAGER": "Jan Alexander Steffens (heftig) <jan.steffens@gmail.com>",
+  "PROVIDES": [
+    "libgrilo-0.3.so=0-64",
+    "libgrlnet-0.3.so=0-64",
+    "libgrlpls-0.3.so=0-64"
+  ],
+  "DEPENDS": [
+    "libxml2",
+    "libsoup",
+    "liboauth",
+    "totem-plparser"
+  ]
+}

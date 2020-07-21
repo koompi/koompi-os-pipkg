@@ -1,0 +1,24 @@
+{
+  "FILENAME": "thrift-0.13.0-1-x86_64.pkg.tar.xz",
+  "NAME": "thrift",
+  "BASE": "thrift",
+  "VERSION": "0.13.0-1",
+  "DESC": "Scalable cross-language services framework for IPC/RPC",
+  "CSIZE": "1843728",
+  "ISIZE": "7066624",
+  "MD5SUM": "1a2a9a14742f1333bdaaeb68fdd113cd",
+  "SHA256SUM": "a942204adabe29b24c518ec4c418f2b6a35b23f651bd0d6d88c2d548482cea31",
+  "PGPSIG": "iQIzBAABCAAdFiEEjhmSFnRl21+wRVV8sChU7XU+Dx8FAl2ofrQACgkQsChU7XU+Dx+NeRAAmVHqIIlQCZsky5w6ST5zKjEePb9eNrDkYXsWPVgcnC7D762lyksxf/V5L9fmyY70aBiVg/PsOLJVduaP8GOUBRLEezRkrn8iFjzgAxm1ham7cYPoGVCX95dqV4QiybRAeqdiJ9Q/Nvy+TL6Khyk/bFKS6nGKeqYh8Gwh55VqZ4cjTH2+MYmFJxAL9SkcflgR8hUeoHrp3x7i96AYSVuuUXz/tO0Fufu1+eLum1u6AGKb6r6K+V8jz2/54PH8xlT89X7I22cMn5nW+KcQa6Afg0KcaZc4I1Tbjg9ZzD2ZobhTfCuNJnfFNRF9uCaLkDXErbWy61VdWDalrZM+UbznBeqWdzeQSs9vYGlbI2pQHj9fG2YXJWTDHRXbMwxbBIDbTkeCgxhanWEKzkwhDGMAFVTbYSz15wkftEJgxYMZNlEjRbGGvRTFW+WAOxvaByyQ8Gzkg6Xbc/eyEmGDBUxDGQs5NESn4gIBVDYbR1Kw2QCY8SYejt3Se89I+GthZEzRG7babb01KlZ+eTAr0EmlFPw3caXD5JsNXH6CbLxm4r0GCmh5QQXZY0p26H+Y8TKVbyj33inzEk4wi4v2dvrrnQ7FLfFkX5YHd2Kg3+Zg5lEpVOqNY1c3X0CjiNsOLTWz6W15BJGt4t8+0NX0J+3bOTZaHutxBqXFJ265/mW2pcg=",
+  "URL": "https://thrift.apache.org",
+  "LICENSE": "APACHE",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1571322670",
+  "PACKAGER": "Anatol Pomozov <anatol.pomozov@gmail.com>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "gcc-libs",
+    "openssl"
+  ]
+}

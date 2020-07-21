@@ -1,0 +1,23 @@
+{
+  "FILENAME": "python-six-1.15.0-1-any.pkg.tar.zst",
+  "NAME": "python-six",
+  "BASE": "python-six",
+  "VERSION": "1.15.0-1",
+  "DESC": "Python 2 and 3 compatibility utilities",
+  "CSIZE": "23527",
+  "ISIZE": "91271",
+  "MD5SUM": "69b7d4d7f6b87b5cd3ecae109a997131",
+  "SHA256SUM": "7f69622cf49a8a708056450be8f4bea233021725d651c67e2f9eee8275ad2ea6",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl7G6HMACgkQeGxj8zDXy5KabA/+JaHNl66yn7gABcv5fv4oJYK3xRu2QBF9IXbgqCpSi7tbQ7JuFWFBtGDlbbqr+PiX3Um86WAfs91i5pPutIftt4UXYcJSobvt8AlgyvagG7ytYWetl56Eh0Wf6rY0xNW/UmiTE6y0Cs2QEurBx8NOPHZh8MFCLOvKIMB8+WxRwdJ4ztuffSvb+iPVBEW2X/+OcRrDRFWBpdoS0bjbmxOjiamVjeQ8KYN4NA8WIVq1v3t21ab1XLd8ryjIKb15WKCvK8bKuOdmIHSIZr1rgjexaGfT9DYqLilI3SIjwft4sOw1hIXbt/gXa5+Y7mQ+Iin8ZreWJ/LwOva2XGgJgF7kfSuJMMa2UnSECBWxl0R1ZRyY76iTFNtndahpe71TQM/VLl1+8aGDTMW0y3vYrdflB9fjx3Lr5b24ln8marAUIp5NTakqX5Gg4F2HD2n8sy1N62CuOYWCZJX10I/SDmE3Tu2j+lC6o/Rp2Vbz2/QZx/JMJcKqYCH5p+lY0UzIZykykdoNkbk8nJ96XsCK25li7+XkbMpsOVLiPuhpbaA60TbLPWjmZrPs2dbXoMWm1QkxKm285LEKc2hpT8LCebxY5XQKmNRnJIU/JVu2mqu7rFcZBhvauOQglpKUoxE25Aq1meYYwutkgAUiXsqg57cEvo4Wsr9ULrW/vcsSYRrx6BM=",
+  "URL": "https://pypi.python.org/pypi/six/",
+  "LICENSE": "MIT",
+  "ARCH": "any",
+  "BUILDDATE": "1590093850",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "python"
+  ]
+}

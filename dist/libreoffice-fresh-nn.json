@@ -1,0 +1,23 @@
+{
+  "FILENAME": "libreoffice-fresh-nn-6.4.5-1-any.pkg.tar.zst",
+  "NAME": "libreoffice-fresh-nn",
+  "BASE": "libreoffice-fresh-i18n",
+  "VERSION": "6.4.5-1",
+  "DESC": "Norwegian Nynorsk language pack for LibreOffice Fresh",
+  "CSIZE": "3102558",
+  "ISIZE": "22520330",
+  "MD5SUM": "3aad20378ca0b8452071e87c4d78e747",
+  "SHA256SUM": "5de214bea9431f49a270476fd86ac5e0587e481562a9e38b6c0787acdbdf05d5",
+  "PGPSIG": "iQEzBAABCAAdFiEErcih/MFeAdRTEEGelGV6sg8qCSsFAl7+FygACgkQlGV6sg8qCSuOkgf/XXfIdsHXg18MweMNQUhYPudfPypiwp4VSKYA2TmtArZY0H6KfADn2YW/4ZqB4qoDtqawtHUYmoA9Bkloc3Ut7wURb3pxbkwaMdCPLsom2etOdGPiXccfYN2Mh9dbAmTnWSZ0um2MKubbG/7eH3S7DJ+FYxXxFgjHBzXJtAGXUrzFw4FqW24IMJ8pT7gIPkSbGGXKsKDlo66PtXjImJ8S1VXCT90cQb6yxoS+InZIO2KPBLgTqU0qQzc3TaFy/GhBBNY2C9QbquInwC+SEqyqwn1Yp3hoMCdt+5YQw5IraFHhvEr3OwapnPF0/RJjIYsr3EZ6HP0RMnbIMBckFImppg==",
+  "URL": "https://www.documentfoundation.org",
+  "LICENSE": "LGPL",
+  "ARCH": "any",
+  "BUILDDATE": "1593700315",
+  "PACKAGER": "Andreas Radke <andyrtr@archlinux.org>",
+  "PROVIDES": [
+    "libreoffice-nn"
+  ],
+  "DEPENDS": [
+    "libreoffice-fresh"
+  ]
+}

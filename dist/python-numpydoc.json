@@ -1,0 +1,24 @@
+{
+  "FILENAME": "python-numpydoc-1.1.0-1-any.pkg.tar.zst",
+  "NAME": "python-numpydoc",
+  "BASE": "python-numpydoc",
+  "VERSION": "1.1.0-1",
+  "DESC": "Numpy's Sphinx extensions",
+  "CSIZE": "85499",
+  "ISIZE": "471622",
+  "MD5SUM": "4cdce99847106d2b26a4b7cce202778e",
+  "SHA256SUM": "403e9ad419fdabaf7575e3bad5864d28f2990b844d8da94eef056d9d885653f2",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl79bm0ACgkQeGxj8zDXy5JRsw//Qzs5Cgd7BVHF579czev5QPPsfVybROg12rTXYft+zbHff8tN0I5ItZJSc0kWjSsGxocP4wdRZDBdqFqlqYPlqOsoBKMitND499hhA+16rHTpRLfwS3nOFvwxp6I7ubJbcJQIb9ECdWI0pZJbCnza/muV4m3v2OEEbFVPKtAuYBQG4sErMNlFnRISMNtuT4mpfit3hnjQcekRlN8ebtKz7naR/t9C+S3R8IyFOqVgPkZI5nNXP6Lu9NmMbnoVSVwUBupMdZ1fBkV4RrIPXLSS+isol8TqPEjNpn/1nzYnQT53Ot9XzsyE9kLUvq3I3NehcBnCEbmvmu83lBbLhLhRoZnLQ5mIkAzP8kHvYlkNEshiqDscMHXye1lx81mS4IodmH2hp+glB3YqpXQ7qXc/s6U7CRaAty4sYjhWg0ohsHesL1zy6HqqQuyJyXC9dtrmRPYOPmMT0ZSiBr93jkHJgo+khKPTKu3Bguv8GXcaxqg5ySTDkA6y32BPSV4a7VfLUraIo0Xj4iO+6EyoSbw30RQbkMyc8jd3ksKbI3n4CThAdZQMdTpL4eSEDkh6XSc4sFiWa3NgJ8wfPIBx9g4Td043P2q97DNywfnm3Gwf+UmIfYZ5UaO5Jce9T2daxkpVY2MjKrZGy/9tk50vyiZDjupD1R0IssM7KJoMjGATZO8=",
+  "URL": "https://github.com/numpy/numpydoc",
+  "LICENSE": "Apache",
+  "ARCH": "any",
+  "BUILDDATE": "1593666987",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "python-sphinx",
+    "python-jinja"
+  ]
+}

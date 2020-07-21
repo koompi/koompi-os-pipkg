@@ -1,0 +1,23 @@
+{
+  "FILENAME": "python-unittest-xml-reporting-3.0.2-1-any.pkg.tar.zst",
+  "NAME": "python-unittest-xml-reporting",
+  "BASE": "python-unittest-xml-reporting",
+  "VERSION": "3.0.2-1",
+  "DESC": "unittest-based test runner with Ant/JUnit like XML reporting.",
+  "CSIZE": "33681",
+  "ISIZE": "124709",
+  "MD5SUM": "ac7257347e3ab109af24435a55d26c32",
+  "SHA256SUM": "5baa2f92b58a69817be5d7ff27c88c68b895df935a1bd69227872b818b7029df",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl5OSScACgkQeGxj8zDXy5LowxAAhLB471cSj+uU14hG6Lvq6+CpCsS7tqqOp2oB/ahJYEFvEs2yauNSSeWuOnXKC3WT9mnTJd3k98UfNPtmc5GlafDcGss3Ky7d/PxkmP4jcY5nKzbNmoI72I3xsYxDur+gM2ITj2lBkuwMB9ayag2pSV4lRZzC5EL4VVlNtolrgZH9kOYmmEwbFsSjK+hRhPhyJV6SIMwMjhcyPEF9y5GA71MYb2qz3z8tQXR+aOCeRt7jlLVq16HfDmIsdStoF19SIUsZ70oXeCwfq954X3jnuR0oiClYY91JRbnltGcLc20kfImj6X0Wz1TeQYeUqfVXc8dJ5YLDvcuCbIPdP5XY0bf3JyRcqMPZEUVrI+8yafB29rwIsI8bU/sdL3CCKoSZk0/3iXEdF/kH2RzuH3aZP79akdaGbiLvgo0l5AZq8bubTLwc4dSHU1DWN3Vpp3a8xYu01sEeEQQwXSonedOojoWUR0qSBMKpMYFWvMVyjLMd8fJWabATyRdy90fvSWHhXdTCLnz1sJFhlH9b7XKaSXSzDIPJPHUyjFwIQz8tiCJ0/Vj4Mw5RzcStjxF2ubTILzCcPQD9isJq4PSxGa9K7YO2IWQJQ8e7aca1H+ElXMxejhEsdSuo6SQCDPtjUyEcERAgwGXe4Nk1/CTE00sB11ra1eo1O9OfDtap3XzMzcc=",
+  "URL": "https://github.com/xmlrunner/unittest-xml-reporting",
+  "LICENSE": "BSD",
+  "ARCH": "any",
+  "BUILDDATE": "1582188808",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "python-six"
+  ]
+}

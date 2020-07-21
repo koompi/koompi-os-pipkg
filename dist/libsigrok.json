@@ -1,0 +1,27 @@
+{
+  "FILENAME": "libsigrok-0.5.2-4-x86_64.pkg.tar.zst",
+  "NAME": "libsigrok",
+  "BASE": "libsigrok",
+  "VERSION": "0.5.2-4",
+  "DESC": "Client software that supports various hardware logic analyzers, core library",
+  "CSIZE": "1911945",
+  "ISIZE": "9267028",
+  "MD5SUM": "d9aa191b5fdf852274b9ae097b679107",
+  "SHA256SUM": "9b5e48edf42ad974bbe95a915d9031fcd358e12c5d92982ce14fad052961a1b0",
+  "PGPSIG": "iQIzBAABCAAdFiEEjhmSFnRl21+wRVV8sChU7XU+Dx8FAl7j10oACgkQsChU7XU+Dx+ZAxAAxNnDXhC+Ll4/E/Yyju1KwU7IuQ2eykDsrDpiPiW1jcYQII90mS1GajsTrx9aQjq2wD5reZVHLeEm92oLiA7/eXXpNHlWosOrvcx5V8vxMevMkGJb1O7n5sa8qxcMpg24/cVzU8whUAM2O5K9BtM5bjJ+eNSAwQwyY/nHGSRPT5yy4G8AUuU3c/UdNPRHSryxQ1p15ax77mzwRWE6IgyE/NLvK1hdBlYoLB/B22YuoTDJ2/KU3DrpLTnn1U3bPqLllpHuBO0giU4TB8kECKdmDzqpQSrkJuWpsh+gyiPMpGst9odgYIMlvpO2u0pfU4suh7As1ZxmeVHKFmAXJyWQFEQcQ23cFqua/k/b1Ok/QEo6UEl4DHNMn7F6QMPRceb5oQrIx+QsTJt/u3MHIXlnmpPO2MmcVHQEq4nXhfBNDv5e50aKj02WuzppwgIw75bfXpI+P9VCVFBwpv36jRD8qyRghACcKxhXg13kmanii/v6sSzhVDNqhbD9XaMlfhQNxZzC17p8avZBh0EuROs+cq1uFQgeNYazIN84JKTfthyP5IHgPIRnuciBq4AYjB2gSeuT/MJA8NpkO1VONSq+Mi9Mf/1QS1SnBwgXd5y2ZNawQSHa9FWgXoRlxu8kTJzjHSBxoc8vOo5wpRK7EuzdjPNIv+MEIx1Xap7vX77uyDQ=",
+  "URL": "https://www.sigrok.org/wiki/Libsigrok",
+  "LICENSE": "GPL3",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1591989930",
+  "PACKAGER": "Anatol Pomozov <anatol.pomozov@gmail.com>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "libftdi",
+    "libserialport",
+    "glibmm",
+    "libzip",
+    "libieee1284"
+  ]
+}

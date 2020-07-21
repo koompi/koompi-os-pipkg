@@ -1,0 +1,23 @@
+{
+  "FILENAME": "soapysdr-0.7.2-1-x86_64.pkg.tar.zst",
+  "NAME": "soapysdr",
+  "BASE": "soapysdr",
+  "VERSION": "0.7.2-1",
+  "DESC": "Vendor and platform neutral SDR support library",
+  "CSIZE": "708014",
+  "ISIZE": "4440049",
+  "MD5SUM": "e0a1ea2dce129af3e00cfe77b11de738",
+  "SHA256SUM": "2f3d56707a6aa316686cc422d27c9eef45275391280507deb4c24f6c867d8876",
+  "PGPSIG": "iQIzBAABCAAdFiEE0jW0leqs33gyftiw+JPGdIFqqV0FAl6KNWcACgkQ+JPGdIFqqV3h7BAAjGoq3NPURDmOIDN4V7gsDPre5shbIYJJuhWPLO27izya+vKiIe/v6kjVmY0DI9wE58hDKz3piDlbWm1tBip+He1MWKDiQxpCEq//CqwHdyhvZlWFBL5UPeRA5J2kwmVUyPLsn/XwuHJVSAb+YdFinK2XzUrY2y5V5CAOoP8e0w5WKi84TvcpM0HNN3S0MyKZeIrgwZHspISEs8rErse7fbEWxA0CTvD6p50WPlQyndaQBFRublRU+648J2UA6krJUlnFI5CL8xPSoCcPOQdIX8LIxO/VV3j5+hjUmam4wcXkGbuVbU3sU2WP32wkc9EN3XH4xKTmcjpehIABcHAhY1ua20cL55cfXPCLtAgbVY1y/bB+yeevresdOLMW4k1iCACpKN8e0cRPuOIVvXvVu4W/GfFwOH8cvNIMqUzN8TQubatqwSYo5JpAfDLsPzLNNfy2AaxODFOjsYfrhrxsR5HHi21mnj4TaI4lfrQvuW0FGpcMHfjH7RrlG8qjxtZeTIeZZ26tRIbt/XGd6m7loDzgbuctnKrcmXTDMdZ3OzvQikZ14hjMdpr2s4oqijJA9A6y1ovrODrKALlNXAqyDR8pyIcPXqq+6C/sbtzFPPz+UwXc6+dcnEN+TkfzXGabPi9GA4Yd3gnfW2/MNuw9C2BZwNzfmlmhEkkAcoj4NYw=",
+  "URL": "https://github.com/pothosware/SoapySDR",
+  "LICENSE": "Boost",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1586113546",
+  "PACKAGER": "Filipe Laíns <lains@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "python"
+  ]
+}

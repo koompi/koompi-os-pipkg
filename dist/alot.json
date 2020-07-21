@@ -1,0 +1,31 @@
+{
+  "FILENAME": "alot-0.9.1-1-any.pkg.tar.zst",
+  "NAME": "alot",
+  "BASE": "alot",
+  "VERSION": "0.9.1-1",
+  "DESC": "Terminal-based MUA for the notmuch mail system",
+  "CSIZE": "244158",
+  "ISIZE": "1305473",
+  "MD5SUM": "b60c7a88819b730f8ddb67c8a815bdfe",
+  "SHA256SUM": "50c51e1ee7b225eafebb41fbb021ba49f5bcc68153630fbac29c34b0885010df",
+  "PGPSIG": "iQIzBAABCAAdFiEELjbYYgIhSC/EXLfyqRdkdZMmtEAFAl7Cxl4ACgkQqRdkdZMmtEBohhAAh1EAPYY+YUjl9frjDW0RZnyyblg1DaoBChSw+5/bkB1Xa91OfqizPMNm35DU+4xBDZOWz1lyrGi+2eg5BWlsjcAnXdD7Jo/F5vaAeKDKJlt5HuqIfeNsme5DUzYtMVJAp/JOCbJBMfAurrmIfOjcWeLYoDPOj9rgh92YWLDrbWhl+FoCcZRWtRZqOSki2p640bUHm/YBWXd68olvhW90lV2F1WPYBhgUh9f8ihFQQGMOt3nhuMkDsXAYkxUdfDKj93XjAhxQOtTR2d1iE52xbnGsNANKSxB2Zzhl0eNg9MX5pwKsTfbK1D0eogrWeLIkMIE560S4Mty4FvKwm//sWBAUU9w9JFtUrDQnzRlRmS6268wZRhlPJMwq38T18zP+6fMw/M8LKyBh/8WpWoprlBmFpU0aJEv9tzOEhn0G+xwZurm/q/L2hFUpTQ+B14fUzGYyIorxmpdqYvN34tZ5mZ8mKWKbxQVTGWe3CSAlzPRuz19o0jOY4ydCGFNgotf/XNlhR4QNhgrFUoadHAaatEa2SvxY1BFbK8UdNbgySRCKGTYyobTZw9RWeK1zNNwj74sca5Vv55poK8m3cbfRWaPVrdUgJp+YU38ZeFoAiDZZ/pMbSU+9Sfi5kehwL4y/xn09lFHpsa30Sbb/51L9pbURVkM5Sy7dbDHgt6B8gys=",
+  "URL": "https://github.com/pazz/alot",
+  "LICENSE": "GPL3",
+  "ARCH": "any",
+  "BUILDDATE": "1589822702",
+  "PACKAGER": "Lukas Fleischer <lfleischer@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "desktop-file-utils",
+    "notmuch",
+    "python-configobj",
+    "python-gpgme",
+    "python-magic",
+    "python-setuptools",
+    "python-twisted",
+    "python-urwid",
+    "python-urwidtrees"
+  ]
+}

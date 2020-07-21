@@ -1,0 +1,29 @@
+{
+  "FILENAME": "lib32-sdl2-2.0.12-1-x86_64.pkg.tar.zst",
+  "NAME": "lib32-sdl2",
+  "BASE": "lib32-sdl2",
+  "VERSION": "2.0.12-1",
+  "DESC": "A library for portable low-level access to a video framebuffer, audio output, mouse, and keyboard",
+  "CSIZE": "509978",
+  "ISIZE": "1546845",
+  "MD5SUM": "589671fb6afdf321603d5c9abcf24144",
+  "SHA256SUM": "3fa54747a338d53d1463f3160e54652295f8f5f5af0ff66a7a904945cd73e995",
+  "PGPSIG": "iQEzBAABCAAdFiEElDfdOBWnqRaePTlGr/XZUJi8b/UFAl5x8MYACgkQr/XZUJi8b/WlsQf+I34TzPugoDZ828UYtmZ9lTH/vcpfASqgH4y+jACz472Hn4gAXUK4cJXLHU3BJJtzKsUNNqLT9GPw+CGCKtRSwjA+kxBUZTyp5I/ccqqcm3xLkY3roVbnEYGTQsUoWI82HDt1NISr/lYjRbt5KpDfLb/lA9r1GOuyswAZ6Pd1hCyiqkFaibLdB590ROyOeKLUruHrF2LdGGcQZI4OOX57Ifc9shgs4kUy6Y11baB83k1ljDidS+yPjO5lYWpfSUI7aOQxpO9Aa5o9poNbYTs99KbcJMhjOp+zj+DRLgnR+mXWYIpyryXKSFT+NsLWWl1H5gaupmgjUKYkHED+OrYTqA==",
+  "URL": "https://www.libsdl.org",
+  "LICENSE": "MIT",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1584525383",
+  "PACKAGER": "Maxime Gauduin <alucryd@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "lib32-glibc",
+    "lib32-libxext",
+    "lib32-libxrender",
+    "lib32-libx11",
+    "lib32-libgl",
+    "lib32-libxcursor",
+    "sdl2"
+  ]
+}

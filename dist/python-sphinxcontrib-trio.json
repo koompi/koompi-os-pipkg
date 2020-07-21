@@ -1,0 +1,24 @@
+{
+  "FILENAME": "python-sphinxcontrib-trio-1.1.0-3-any.pkg.tar.xz",
+  "NAME": "python-sphinxcontrib-trio",
+  "BASE": "python-sphinxcontrib-trio",
+  "VERSION": "1.1.0-3",
+  "DESC": "Make Sphinx better at documenting Python functions and methods",
+  "CSIZE": "12388",
+  "ISIZE": "37438",
+  "MD5SUM": "bcfbc9ee985ffae32b637e41e7eed49e",
+  "SHA256SUM": "bf3f9c0d86cfd8200b3ec622684f88e603d5f9809a8e91d2deae4a8af1cf2a06",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl2+BD4ACgkQeGxj8zDXy5KnrxAAk5SOLHdBhpvw0hmwEC0oaBzVQsdbi4Rs/Yp8fPaOmFm0Hw9GhWRAM6AWkOAgMEZKEhTLml5Q4w+y1PVgk57IjHKUBf0FzGmr1kseBXHE52rmg+AEtVF3UhYt/VPw3o8K8+arBiQz5PTzrL0XGLvojRnzrUADFAW/SUt+WGUwEILJQyByqxm1OmFUgp5Hic4Di5FXliXOvHI4NI3OVEuvSFacFcRVmTALLUGYSBxJXN+9+iCll3FoxdjuGmM7g1modW6a755kA7lOu2niW3hXM0Eup5xCSZ/wtszUtIJfIzem3BCmMppHGkm8WjN1FVaiglVqRTTp8AJpINJCEndFWV/4kUs/y3X9LzeYetpdkbMxE6R39nC5tBKGaKU7J80ztHaNrpwL6qLJjaTGPTJvI9zTatq+kWks2C2Wp4vLYalIPun18yDGH7jizj8YTdED215tt4xxVeQRNdatwtT0LYUSoDKojy9bRCyqsMyoPY41a0ojFv+D8pT78A/WUzRaP5AjhGg58D8NU2F3vBdul1ufoq+Uu7xIuGSfKhZe4cI63UVvtac9ZWn8ZtdaA1nOwD9/OhecSn2o2PuX5rVC0VTiliubI4z+8QnyUj3yYXsir5DJlPjI3iM8mTlbO9m9Na+36uqEjnXX92iLW6QmdA6UPl4fYjNAmeQfwvf5y8k=",
+  "URL": "https://github.com/python-trio/sphinxcontrib-trio",
+  "LICENSE": "MIT",
+  "ARCH": "any",
+  "BUILDDATE": "1572733986",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "python",
+    "python-sphinx"
+  ]
+}

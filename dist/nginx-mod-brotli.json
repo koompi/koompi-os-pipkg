@@ -1,0 +1,24 @@
+{
+  "FILENAME": "nginx-mod-brotli-1:0.1.2-7-x86_64.pkg.tar.zst",
+  "NAME": "nginx-mod-brotli",
+  "BASE": "nginx-mod-brotli",
+  "VERSION": "1:0.1.2-7",
+  "DESC": "Brotli compression filter module for nginx",
+  "CSIZE": "10040",
+  "ISIZE": "35190",
+  "MD5SUM": "a0c2b23328db3f33cd21711175bd7229",
+  "SHA256SUM": "1da31519c3c204c0aec2de36dabde09374471e82f8edf9e2ed164c93506d4a55",
+  "PGPSIG": "iQIzBAABCAAdFiEE7MrITBugimzI5j+78i+x14p3rqsFAl6gkJQACgkQ8i+x14p3rqs29g//fhH5FQXOLJOY2pavQen3CwwXFESYRDmj6DiWHf5liE2w4avnWyS2e+2MQuXEx+tBxIWl1+s70u01zBcDScBg/e2cCZ51kyP4hixjUGNaRl4nkCwJ6lMz3tGOUaMNJgUkRbXPeuA/tD0AeUca1mWR4eLsONRre1a08BrmiOHDRWynHwxih6ylfWR1nEeC4OIGGM1sqCpqHgWV00KnayZRrLgBqWttANWx460yK03mbO4H4Aq3bHJPqTx5+FfiDEwpxC2O2pBBClWyVKc49SZVgdchNCVXsuGgZb60cqMWR+vx93g/tDDpHD11KF6GoED1ilycrLCiaeoGbfBlK3g6bhqa7Tkpbq+IOUJOId9zi5mwfktjaqltspTdCJr8hq3N35VeNtDJf4j9XTl4P9mI77yLgW6TcGerNb9eKrB5FDV85FHyU827VK+08UcMJrDbQ15hL7NuNJXGSi/4Ox0RqiDucG17haWsLLN3jyRN/0IGcN/z0NTpGZ5Eu4XvuVgf+Bc3kYqdsK57WUdS+j1Y9XZ7KM2gIotSkk0SIsmjrZhcU2NetteyS9ROy4FSBmAD93iD12MWl3wHP91n0xlqgFuaGsmZw5vsHbFpNXepiQQ4Mm+If33BCT0KPKRnkmiTrks5VR6qMI1SVTZF1qXkpsdFhzrHS3QKccwdusOwFmM=",
+  "URL": "https://github.com/eustas/ngx_brotli",
+  "LICENSE": "CUSTOM",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1587581028",
+  "PACKAGER": "Giancarlo Razzolini <grazzolini@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "nginx",
+    "brotli"
+  ]
+}

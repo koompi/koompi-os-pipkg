@@ -1,0 +1,23 @@
+{
+  "FILENAME": "python-vagrant-0.5.15-3-any.pkg.tar.zst",
+  "NAME": "python-vagrant",
+  "BASE": "python-vagrant",
+  "VERSION": "0.5.15-3",
+  "DESC": "Python bindings for interacting with Vagrant virtual machines.",
+  "CSIZE": "28385",
+  "ISIZE": "146233",
+  "MD5SUM": "671a4469485d38787dcdd0bc9c153619",
+  "SHA256SUM": "7812b72be04d61c3c7fbf51269fd8e968f82d340fcb9f53986f2da757c5af49b",
+  "PGPSIG": "iQIzBAABCgAdFiEEba97gI+d8lE5YgAA0hRh49/iBg0FAl5uRmEACgkQ0hRh49/iBg2szhAAib+QjYObWAmUj1+yIy3MMcWx8rQRwXm3JcA1h6FS1tNxbnPjc0FpcwJBIW8eJRn2yMDOjJa/MaPWFolzZE9znBJipP+QPtr1QJDCYeWWlQXHY6qkhtkpaQ8YRQouR1quns1TO11vQKoHhIiTwCnagrDV7SGjqPyuDkS935dstxagWgAx6ClcJJAq3q6RpElOtXMuWInrpfflIQ0q5ZxLGybBGLc8ekYJURi7obtlNFyvjbbMRNebIgcuAwjq1AJt1AnUEEZoBL6d8wpJ/4UH29uOhbCjD0HmxyShvoW2TIsFbUAXl7M0RPYiTjrHn4Oy8uFj2/mdFVcQXk7CYdNDnYYhdhFAV7ZUEBw9+3cg0rOyX7bTBJ0MTONzxwycoSHsGDJwi7s7Rw3yQJWk3ocE3adqzga1sMgBFMgdYfEPuxK7+9sntnQsXAJpXTrvpUZ7JTVGY7FgigXlnZdlHn44KdbnhM30srBFU7OjWcSxix659e8dA7cjBNDWUUfusGdRX45tgnIVB9+qRFTfWywTWsZM+ti3XKdMxp5yDvi/el9Uudr2Um6cNQ2i4nYs5hSM6oEMUS4szxxR00+5ZBR23pkzfy8EyIjYPaahZvVj3tlOoaRA7AnpMU8SOK6xoX+9hVIUgoHPsjZgCWX2Bkp7k/sCo/EdD9GjRZREZ2eyD+g=",
+  "URL": "https://github.com/todddeluca/python-vagrant",
+  "LICENSE": "MIT",
+  "ARCH": "any",
+  "BUILDDATE": "1584285240",
+  "PACKAGER": "Christian Rebischke <Chris.Rebischke@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "python"
+  ]
+}

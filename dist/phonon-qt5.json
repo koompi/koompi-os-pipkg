@@ -1,0 +1,25 @@
+{
+  "FILENAME": "phonon-qt5-4.11.1-2-x86_64.pkg.tar.zst",
+  "NAME": "phonon-qt5",
+  "BASE": "phonon",
+  "VERSION": "4.11.1-2",
+  "DESC": "The multimedia framework by KDE",
+  "CSIZE": "332415",
+  "ISIZE": "1343646",
+  "MD5SUM": "eb0cdd9f4f6bc164e0e69afa1b802655",
+  "SHA256SUM": "024019ac59795059f11a43c76ae288d9f706d96d036c0040f305c43d18ec1f89",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl7Dk34ACgkQeGxj8zDXy5LeJA/+PfITtxD140OLk0Gw7XVzfelPv6emEOTTfUJMa90lMJfkbheonSfz940F6b3NyRvOlz88AhcP2+TkbczkhINdDTpDEQ7u38ojgdZEt/UIwT3X4QMxKgOQgQIOJm9KvrRe4BcRs2VxdBYQR6y89WOLY6Wv46Ix2RsNZXfcn9TyKAlUuHU4b7PlYG3tv2xNARwLShZtM1hitqWKbLyHVajnBebxGyHCd1jgSL8SmZK1E/bYh6S75yocGSzun9lQ/g6ES32II6nbB48oc2iABH6VWU4UB8TtN7DorxwqzLv+LAIfJ/m/NubCf7aqjxGGQDY7/MZ6UWF6nrNFNpe720JLOdc0u5oUaehStkSHVu5cOW6omXgdY5rXCNU+QmS6g6Iw6C29dMcvutUP/7qrpx2i7LLHWriDzctoJjZHM2vc1r58FjW2FlyQvwvqK8k21jSHNmoa8ru5BxiT9dO2lLdv3+ECOBod+pPEANPlseYKMcCnhxLcTQfZb4nsnBoqUkm3PexPxD9LQakk18nsU/UDOw30x4MW6gyClhCiutdDN/5+Kb9o1of5reyw1kOBm69GaRoacHIEZIcXEi5SK/eLhmtpcXrJsoI8k4dH6wnVfWF+Y7ngfoLzv05upagAqq6VheWNfyVkLnqf9hNGly/tNhcD4xZft/uil62tPmP800o=",
+  "URL": "https://community.kde.org/Phonon",
+  "LICENSE": "LGPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1589875534",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "libpulse",
+    "qt5-base",
+    "phonon-qt5-backend"
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "FILENAME": "python-liteeth-2020.04-1-any.pkg.tar.zst",
+  "NAME": "python-liteeth",
+  "BASE": "python-liteeth",
+  "VERSION": "2020.04-1",
+  "DESC": "Small footprint and configurable Ethernet core",
+  "CSIZE": "101960",
+  "ISIZE": "668843",
+  "MD5SUM": "dbafa566d1873980e6ba90eca6fca732",
+  "SHA256SUM": "a2306c5913d4bef0eac07793d433a6d49fbc38ceebfb9071f8c8409e3ca9bbd1",
+  "PGPSIG": "iQIzBAABCAAdFiEE0jW0leqs33gyftiw+JPGdIFqqV0FAl6oQ2UACgkQ+JPGdIFqqV2Z4g//fScmbbQKFBvUskqFmNqRvYUMCyrPV0RXtMAwB2WNPzA9vC52P8wzEeL6+gQxBczmOfBI1xCd+osPOg/juawYl70Kb/q5yso5MfRMPSIDhPq4L9NEbz/1MnofKZ+UlleADHPd4mpjYqfhEz3uMHW12bv45wrjNBRijN37neS7kLn4iRYQ9xe8DTmCQlMLJFpAizYKTQBLL9Bd4nu+OKfsOttYVJh06Eae5QDMV//60h42SwqlEYUczEc0zz5n5TY0skcH73IKJhO0zmhRbFeHxBvSvJnWlDIYmKJFy/6YDhF5KGsHIsCxy8KxqmLe7NH3CP5ipDrLY+py5CMxgGf38hN3kSU+a9yW2hGHbOVXkAcctepoywApLHaWrtigS5YhAt+yG3i0oECtZ+gJJgD9J0wvQlvVGXfv3ORLEcsWc2mNbeo1tGhvQkRIrQhT9K446IFmS+9Kk02jrXW9vysGKubur5CCz7aZAUq92Go2DcNcvryYYT/ZlnZhyk90SkVA0Z860lVPowo196Q7D4n4OKBY1ssa1bPRpkhVmQ9FsHrXgiV2DnJHTVte/8XufCLK3MZyL6ijRm42JTe89X5supxc2ykoA1tAPCckZCqye1IIchBN+uRxJKkXItfUM5Rt4cqI+ZVWWqTf+CHHFX5RoQRjZb2F7/MNMrGyf75K19g=",
+  "URL": "https://github.com/enjoy-digital/liteeth",
+  "LICENSE": "BSD",
+  "ARCH": "any",
+  "BUILDDATE": "1588085525",
+  "PACKAGER": "Filipe Laíns <lains@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "python-migen",
+    "python-litex"
+  ]
+}

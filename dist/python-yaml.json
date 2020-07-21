@@ -1,0 +1,24 @@
+{
+  "FILENAME": "python-yaml-5.3.1-1-x86_64.pkg.tar.zst",
+  "NAME": "python-yaml",
+  "BASE": "python-yaml",
+  "VERSION": "5.3.1-1",
+  "DESC": "Python bindings for YAML, using fast libYAML library",
+  "CSIZE": "196057",
+  "ISIZE": "801516",
+  "MD5SUM": "a4f5bbacc796f5d44dbe57732b1050f7",
+  "SHA256SUM": "3205e4fc7bb69fa7b9274204b1bf44941ddb1151065488615bd976253edd1a44",
+  "PGPSIG": "iQIzBAABCgAdFiEE4kC1fixGMLp2ji8m/BtUfI2BcsgFAl5/erUACgkQ/BtUfI2BcshDyA//dlygIZ46T85FbIn1kelWd5P3jcEh4wjpnerp8TTUUpsD6+afqLmY15pxjkusS12/dT8uTpuIebMzIA+LBaaApmuWVOKm18gGlZwvZ1xhO4mEZzxIs8YbvmGfG+6bLxm2GFb7jnTnJEkyry7T9StCCgnAm2jleaCMq+388Ug7ha+PtOSdxOUk1OUizRtiCUlsWzz1AiC/JU2+M6BHXTYDmJcRyPoxgcqve3c2cj02NxfgX4fs68CPiB1uhGF8L1DzdgtRp27OUU7tV5CJDZrJZZQtxzRbOklK2/T6uAqhBnBKdzA2MuG4gxeaix73O6AkcwKkTMCq//i6IXcptt2YIEb/6JJB1uc8f3eOCtDRsTYmtd5IPMA6Texguu4uDkjucihR10xuxf4xM+4tlz0O6rWK+6s3xa9FsZ7Okjq6vSRB1/Ugo6sg3/jofRTuz+l7rP5LZIusUiFRB/U65ut+4GhmgSk0vk6vjRsiPSqbriGqgnzfuYxvhsbmYcQ4kfEKQN+pqq7LSgGuzX87SgpQyk0uECk0RZAjGS5EgmLqnzYjJXXQssLH0yZ6ekqSBzs/ZqdwBaZQ2VX9AvQsP1DNhsu6JdE9CZp827kfkKs/fK4L7Y9w73wFH9tX+P2qDnYU3ML+RhHwnDeXChReNtQnDW6rIWUGK77AJGTUXkTmRtI=",
+  "URL": "https://pyyaml.org/wiki/PyYAML",
+  "LICENSE": "MIT",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1585412715",
+  "PACKAGER": "Levente Polyak <anthraxx@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "python",
+    "libyaml"
+  ]
+}

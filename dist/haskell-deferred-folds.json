@@ -1,0 +1,28 @@
+{
+  "FILENAME": "haskell-deferred-folds-0.9.10.1-86-x86_64.pkg.tar.zst",
+  "NAME": "haskell-deferred-folds",
+  "BASE": "haskell-deferred-folds",
+  "VERSION": "0.9.10.1-86",
+  "DESC": "Abstractions over deferred folds",
+  "CSIZE": "89993",
+  "ISIZE": "397760",
+  "MD5SUM": "d5887e5938bf93a4bd99f11281097f97",
+  "SHA256SUM": "f102d69aacc3d5d66c149b3a5b6c4445864bdc2b0d37ca951c032752067b8f43",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl75rjAACgkQeGxj8zDXy5LPGBAAohhce4VzsmNMo3LFhD+XFlgqpwAWW5bxlT1sbFE58bcj011kjd3m3v6lwyyEq3FFl9rwz2qMwBxJ6BtPqe80s9Rga0o+IX1oGk0woH3efHHN+DPLwCmnOwbSzykyxrLABlz7SEuwUb4YTg5EUOji3MNS0K2qHt2joLCMVZ/xqX0yfD8S5X+jlFBiZdzkBwYUH3phChjrSq55zJ8C9nf78ODECuoTF8Bwj4NjObUJTbrIqb8RtbaDY9C3DUL3ACueRoYW1aDSGAlXehw5NZFwkm9LsACr9d0jUZzweoodo4d6i2iC6ftXybLJK7oLMjxTMC/cY2lm4EdsbrvkIwxk2DhyRug0J3zT9TvPxFNt1AVy+LoeSuuXt/S02T6ns4PQUUkbyTDq0bspnP+pzoa7ZQXd8j/K/iH3gp6qb+vMJwQs1vhzb91iVPkWEvXmQICc04MGo5lPeqhZvAu5mX+Ryr5PWLfGsaNGcOqWrtFOa3fB6IcH6KPNvITIW4XNg6uFCqvIj8ou5Sdyg+pTvqEVnzhI9ry3gpwTve3kW2GvLGv4k4Q6RvR8+e+yWk1SP94eqUoSfV2xvCs8OJuepKXAo4T1fcne+RiLdtIK7oT0WBNjurCw2uFic5Apycvd8f5xYRc7cdIV0JFyVhwmqkP7aPHYZIB62aQEtsvmT9xxduw=",
+  "URL": "https://github.com/metrix-ai/deferred-folds",
+  "LICENSE": "MIT",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1593421329",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "ghc-libs",
+    "haskell-foldl",
+    "haskell-hashable",
+    "haskell-primitive",
+    "haskell-unordered-containers",
+    "haskell-vector"
+  ]
+}

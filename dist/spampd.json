@@ -1,0 +1,25 @@
+{
+  "FILENAME": "spampd-2.53-3-any.pkg.tar.zst",
+  "NAME": "spampd",
+  "BASE": "spampd",
+  "VERSION": "2.53-3",
+  "DESC": "Spamassassin Proxy Daemon",
+  "CSIZE": "33310",
+  "ISIZE": "71409",
+  "MD5SUM": "72186a50d2d5eb5d63f669aacb102012",
+  "SHA256SUM": "d1d57b210d20da5edea936b3d79120b86c9167a4fd2292dce5a3846c006b9cfe",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl8EcbcACgkQeGxj8zDXy5LEZxAAkeRgzwDQ0B8jBDZghiUQpq6O2e7v5z7NVRH+QAw7dWaq39495BN1yQndVmKVXZ3yOQmbxsIloU2Oqjoaej1M8yI6XQpwvhGsRPC7PKNVrpgWlf46FTBB3lBbFzYNNwiJNekDAuxIoQ6ASbVJpIq9mWnwivTR8nIKqS/LVjHGACvtyR561xzAZ3anRaSNuPeCxwnJDXlMxdJcjy8PqXTyZulBXcT9GE8qCfOktHBaxXhIaCHiohDCD0huhdUkUol6XnNNYOYF7IapQbaxXR41B+4etwN0tAi4EENfDis90e4AYuVHPwVXxRBRYMhFOaAuSOck/JiffzCJYC/Co9KLACzVYAuQbTRRc2FmvdNndbg7FyFmRxAShBoq2Vwmv0aunoBJZfsbQJbAGTuAWBVAdhgfO+oKRtsxO2FR3uU0Ixz9B4o5glfZq8MO/8BqlEayZKhbCin4R3SpMPj70NfRCpeclOpJvLHGx52PR9KUIkkEKhrf+H7mwJEnuSYMStl/k1lW1jwMcDQNgYHFAzC6xxEWNVM99o0kwDVo6Q/RVpLstWEHTyb/1LKENRvn4OhlpEeMpE2lNPGusV+aLo/gq3TXSdYWfUu3QOR9lJ7VvDQ/hsPeLluspRHyZC11ktuh+6NFQFwfyAnMj8lP/T2nMSDXAfTnKYzX5SzIFRPB7oY=",
+  "URL": "https://www.worlddesign.com/index.cfm/page/software/open-source/spampd.htm",
+  "LICENSE": "GPL3",
+  "ARCH": "any",
+  "BUILDDATE": "1594126740",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "perl",
+    "perl-net-server",
+    "spamassassin"
+  ]
+}

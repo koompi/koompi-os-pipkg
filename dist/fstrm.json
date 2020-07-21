@@ -1,0 +1,23 @@
+{
+  "FILENAME": "fstrm-0.6.0-2-x86_64.pkg.tar.zst",
+  "NAME": "fstrm",
+  "BASE": "fstrm",
+  "VERSION": "0.6.0-2",
+  "DESC": "A C implementation of the Frame Streams data transport protocol",
+  "CSIZE": "64933",
+  "ISIZE": "247096",
+  "MD5SUM": "6b9941748df125e290c695805f740867",
+  "SHA256SUM": "aa9d403d6627b1ad105a69139fb10957c413f6a7bbd1aa0d3ecd2e17e175520f",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl8Eq30ACgkQeGxj8zDXy5L6KRAAuzOZmWF7ojjMzFwXLYnQFDjZ3QtmX/i8l5R02MEeq4P0I2ikoRzBaFgPy9suzSNdDd2x1WG/qruM71tv3s7aj2qbw+sLOFwyBkVQ6hrVe98kjMEKn5O+N23PvCRBrhPzx61gNktBVXbqUh30Se5EeRQXupPzW1xMp8bI4FiZmzpAJwWTXmflQt+fLMNpJUstuYgKxiWH15JuR0abyyBoso9ABWbmN2WDj4yFl3SDJA4QXibxoeYu0FsVO0TauEjJVNd7kPfIMfaUcGrdfpMWqFFDlVVnJiY29EVozJbZd9/fv01+lq+dayg3w+eIeZWvpSdlAB5rcwLvw9c2dLp/kdS+NV37QxCWyYSJQvUV7tx4hMVQGjB/30B/fAp8Jkg0XRqCvQm7sF1mxU7SWn5LU8ipr4yJn5ONdeFZT3fOtBEKw3WE4lqOhTXyx/DJXfQ4KNA84HoEnu27djU4RDwCjou7aWCyG1RAgkdSO/Iwbo4wPg49TWeMVns9PcRi6gzTc++FL2WsRBykHyHAFzZ4SmncVZWheL9tUN1Cu6Y75ibjo+gJzsl7GeAnBoYJs2qeuNHaQrl2tRLr4VrF+tp3c0tDudMky0Bv2vEuhsaLHAZbRKCTvgs633fkhxh5sK4TjftqskNkSj3A4YKjgw1u4nf6YIZ1YekHStJF63rs0GU=",
+  "URL": "https://github.com/farsightsec/fstrm",
+  "LICENSE": "Apache",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1594141286",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "libevent"
+  ]
+}

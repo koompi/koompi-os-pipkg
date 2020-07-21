@@ -1,0 +1,23 @@
+{
+  "FILENAME": "python-markdown-math-0.7-1-any.pkg.tar.zst",
+  "NAME": "python-markdown-math",
+  "BASE": "python-markdown-math",
+  "VERSION": "0.7-1",
+  "DESC": "Math extension for Python-Markdown",
+  "CSIZE": "10068",
+  "ISIZE": "22411",
+  "MD5SUM": "0a6da4506d937c9a98d806375a49abbb",
+  "SHA256SUM": "6aa444cb34489b113036589aa02c627e5edd60ff9101f570861ec36a8dd7f8f2",
+  "PGPSIG": "iQFIBAABCAAyFiEESx3lRagB1FSb/T/vkMs9YsE9R5YFAl8FZowUHGZhcnNlZXJmY0BnbWFpbC5jb20ACgkQkMs9YsE9R5YlsQf8DRXRKqQx0koIdnfnNpPMmrP21IkSPyh5TFNr2ZeKx/CwJZruGX7rS8fSXxZTECr9FTppbmNocA4RWXhlGV6EJEwDneFVF0cuNUA40N5Mgy3/VuGnbPb7ADnAy6chSYBTMGgIkOMUV7MNaAnExYMo6LPG8OGc2gqRcvjca8WE0VaGF1S8vjIGpYKpsRqGRmogP3LfDiOwBISmyUQiqtfvGPPtC7pJEz7F/krTm33DEG9oZZCI9vxjcwm2SbREKnuYfD8WWvy3JcA2YH4LcU/5jpIUqHyhTzBH6VyvlS9VKl0UEcpyFMwLbrwYA+gl9QQr7W0YzR8SYA8PuUby0L2k4A==",
+  "URL": "https://github.com/mitya57/python-markdown-math",
+  "LICENSE": "BSD",
+  "ARCH": "any",
+  "BUILDDATE": "1594189356",
+  "PACKAGER": "Jiachen YANG <farseerfc@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "python-markdown"
+  ]
+}

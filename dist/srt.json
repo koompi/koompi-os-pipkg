@@ -1,0 +1,23 @@
+{
+  "FILENAME": "srt-1.4.1-2-x86_64.pkg.tar.zst",
+  "NAME": "srt",
+  "BASE": "srt",
+  "VERSION": "1.4.1-2",
+  "DESC": "Secure Reliable Transport library",
+  "CSIZE": "1048077",
+  "ISIZE": "6936820",
+  "MD5SUM": "cc9781a87152c8796c9b77589b8b9e30",
+  "SHA256SUM": "761b2e90af680a55586096c96d5547e647af91ecd1b8e60f98cf7e1b4c110ad7",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl6/vIYACgkQeGxj8zDXy5JQHQ/8DDCE4AoclfNRX3rb4S6uG0w672BtWz8PaKlSFdmUgb3R8DDR4TpOhXkOoML34cpAvW6sJ6gEo2TixS8pkTlNUP2zKb5+9qBb2GwAD+zixGyltQg5HVxZBvLaTtv6AwVWRMfdt8KID+V9gbjtsRIAcX9+GamQsuc7rEzpGfppVlyCYbOb7u2Vxgh3JL82YSdinTu9Ad7nDCqwUWg8g9tyo0N2Rd11wxyl9qWx7Qd9GYJoXpypBqivOeebM7nC6DaanoUGHFuqH7VoIgmowXvYLTLrvyhNiTQ8BMF0KzdzHWAvPcZDhNNNvG20fjBdohHYTTvk38lY5+H1O/AMFDEARMbpy09xN6vuS2VJV5OivKTqrhCWSMaCoVPYqFm0jAqM83UJNZ1jTulgtz2XhNbfn8wzowotTu0pMnrFnr2G5iDKfUtLxWOPPsj/3fPub3m4ru6YQ4biRZx9U1mVMyLeIXIN3WwChwWeYr9CPq6LmUqNvCU6Q6p2fxkDJTjnjjH1q6/Cx75Jj93c68Cimre0rOZffrvo64raSO0TVG0QRvUgZ27dFKybzXoTJlb0N/bPuc1XKMttjKar3+jWyxmRcf+tENgwf5hJG1dHdSYdjDppqGC+nWjOHoVgNyLJih11lTR0hemh+1ruvWYu4qsIcKvjJWX2TN+RzYZFSp5EY+E=",
+  "URL": "https://www.srtalliance.org/",
+  "LICENSE": "MPL2",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1589623898",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "openssl"
+  ]
+}

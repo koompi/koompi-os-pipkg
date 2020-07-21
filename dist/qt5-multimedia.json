@@ -1,0 +1,26 @@
+{
+  "FILENAME": "qt5-multimedia-5.15.0-1-x86_64.pkg.tar.zst",
+  "NAME": "qt5-multimedia",
+  "BASE": "qt5-multimedia",
+  "VERSION": "5.15.0-1",
+  "DESC": "Classes for audio, video, radio and camera functionality",
+  "CSIZE": "814399",
+  "ISIZE": "3685024",
+  "MD5SUM": "1adf1bd43b5d12aec65778964d3372d7",
+  "SHA256SUM": "0c7823749be0ddb268ed19d46cfe73bbb1045e50dbb01e9dd39478ec87ac9dcc",
+  "PGPSIG": "iQEzBAABCAAdFiEEFRnVq6Zb9vwrc8dWek52CV2KUuQFAl7M1vkACgkQek52CV2KUuRLswgAjmC3dCTh0zhbHZEe5IEMfLKN02OFgik3RgfwJhrouCF3fhFYXNIYUvjHzW0w+ReA09E+Q8dxxQY04gVhQ7sUfuW/fypDesrMHUXk2Fn9chrSpXIaytLoaxsqeYD8NGrbY0+oeoARTwlNHjINorUj+FUx0KVanlRPoy5XBOoWnB6gr8qIi0hSZKqMLnJqO76jcMBoorIANsbmdh7/fHcUTjY4n3wv9j0ZXCL1eWJAvbqmvAetQTIftnvUK09xADfTJ9tA6Xov45YeG9di1JAzYyXvw3X67/MwuTHPNycjVqf5bHYKFvM3P/Pi/p7rj8fPIVLgYbOjws+fn+igsl9q0A==",
+  "URL": "https://www.qt.io",
+  "LICENSE": "GPL3",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1590481325",
+  "PACKAGER": "Antonio Rojas <arojas@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "qt5-base",
+    "gst-plugins-base",
+    "libpulse",
+    "openal"
+  ]
+}

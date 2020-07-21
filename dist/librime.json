@@ -1,0 +1,30 @@
+{
+  "FILENAME": "librime-1:1.5.3-10-x86_64.pkg.tar.zst",
+  "NAME": "librime",
+  "BASE": "librime",
+  "VERSION": "1:1.5.3-10",
+  "DESC": "Rime input method engine",
+  "CSIZE": "841712",
+  "ISIZE": "3238588",
+  "MD5SUM": "17e7bc0021956b20f641b09c52b675a8",
+  "SHA256SUM": "b870783385eeebd6e5080ea686f7c33f08ddbc99ed8aad10d91c870ea9ffe45b",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl74T1oACgkQeGxj8zDXy5I/aA/+KshLrA6Cv7hOtgsPddBc2YeS7oS6f7/EnlHJSEcB9H+SbANosLENfox+A7axKioIEUSVThzsLLQaITPZ7yc44db5rDMkJue9lb0Bqh0alsJT8DwF9IYrh6VBh/pg+rIC7+cgBmVvF5l7bDwInzutrdJ/eRpn+NyacJ6rPCPG7D1lwLR+CAE9q7aWZjR5xdj4y6rh+j9CiWwB5Jiutt1hOnCnXJasTJqOMunTrhn27NT09s6WSD/gY7QcnSnwal3NWV9ycI13vnz8RoYU+YieX3vgK+mMV/cXkPwXEUEiFI8/aMCHtvOvSjcLjYIy9otlSnJq/HfNig8FmknEJI1Qq0xq1cv+esiCp8tqYTTFt5nlqNvmXCv5nFyO6nrou8opLXdkSTl3G1HiEcCErZ/nM1suBSuokgW8jOMETxN5e/0+5guoNErLm9GMS8D/1fbbGIiwNORsamlW7qVKX17LCQUc81Kr8mPJcDlCg5RwBBRv8eLxa1WtntOXmHoH8+RgDvhHrfsgk5On80+8zAcoCmf3uSNzu7XtW6Le75j2NU8NndYiw3UVoNvIueNOqd3zxFv+ypB9MlJ6tjiPf9OPe1naS8LLZCRoGF5n6+DAVYZW2c3cDtjgH3JqI4pBdZxgsqvP75+j5F1CkUsFPeXsENpYjCtr4gDiQ7RhrVozihM=",
+  "URL": "https://github.com/rime/librime",
+  "LICENSE": "GPL3",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1593331256",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "boost-libs",
+    "opencc",
+    "yaml-cpp",
+    "leveldb",
+    "librime-data",
+    "lua",
+    "google-glog",
+    "marisa"
+  ]
+}

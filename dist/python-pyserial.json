@@ -1,0 +1,23 @@
+{
+  "FILENAME": "python-pyserial-3.4-4-any.pkg.tar.xz",
+  "NAME": "python-pyserial",
+  "BASE": "python-pyserial",
+  "VERSION": "3.4-4",
+  "DESC": "Multiplatform Serial Port Module for Python",
+  "CSIZE": "113656",
+  "ISIZE": "533387",
+  "MD5SUM": "720ec7518bf6d008c8acdaba5d3c4fef",
+  "SHA256SUM": "e2cf54a7a5a116a96ec97295bcef2a4bbf3b2379f8f7d3225ec306350f7e9a4d",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl27DnwACgkQeGxj8zDXy5JT3w//XmOuG9OY66UBP39JwFSvV1y9c19ikCAA/DRxm21GykoY+vvHp2Us4l3Dw91E8hLm6GRB9W0KCgWYx8huHJpGX50AZB8C4/Ui7GsGDm14B8EgdG9JClieOesABSaSzQX9uG0OQKZiRH8Tgz7qB2ZDqyeFXnHZWJdW+WO05oqtX61Esxf26BE8ifdlnH/IDqOLietYMElmFk3iy5bwgLBjlz4pq+GqTRa3mA3iMdtjA0ckqbn4jNTLSIXws4WK8afvSiTbZXxgeYJzO5uQ5gVhXySsemupNB4O17VCoJ2YICCD3XUBYXRmZb67bMhOuyRBpLS5IOnjJ1qsZhlMGca/rWDd3HOHKHHTiiVauPCHYtRbOK9o0OARv/Mxy0eLbHYGQG1Yudqc0u9y5duQ8h+kj/t/WJdDH9kIOKLFiAX23TFMmJGXWXRROObAnzKm2EkCtD1HRZ2mIFuXf68UjNwsw5JILO7F0OUqwcPHws8li0cZoee3ZfGfpCwVC6HDNRialYFGInpq+GupK4uUK/DJ2bHgeqRTVIarbMA03eVjOMh8QgUbIKGbR5Fp83KVp+Wk11Fldtdd1tOOk0GBd0ocjtVnuifjdjnAnNTDMSFs1aFFB0WIPlAiDCkX1gP86NjQ+VQWBGS1zEbi3UzamRZd2+GxIcsncDL7W8epdbCQkgQ=",
+  "URL": "https://github.com/pyserial/pyserial",
+  "LICENSE": "custom:PYTHON",
+  "ARCH": "any",
+  "BUILDDATE": "1572539969",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "python"
+  ]
+}

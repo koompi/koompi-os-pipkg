@@ -1,0 +1,30 @@
+{
+  "FILENAME": "fox-1:1.6.57-2-x86_64.pkg.tar.zst",
+  "NAME": "fox",
+  "BASE": "fox",
+  "VERSION": "1:1.6.57-2",
+  "DESC": "Free Objects for X: GUI Toolkit for C++",
+  "CSIZE": "3424157",
+  "ISIZE": "8856048",
+  "MD5SUM": "0adfef5f2196bfc6d620d07b531a30c5",
+  "SHA256SUM": "264e94fda18d08447dbc1716833a905b490ea7bd58c1e982179cff2770b0663e",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl8Eb/UACgkQeGxj8zDXy5KF/A//dhb0SfYtBLJBR/xjxOjC6+I9pDnXwaKjLsOmCEZ+T8TPKcmsNeOMZ7tffpcFFuKXtW4uEuLqwDQXTrhwlE7DlZYj77eJSiYxjmui7xrgtJequjnBIVXdWs/11PUuH9QBnR8JewuMQ6F1wk2JKCt6tB2B7Zp5rFMp18hp4k/GwK0QQ/+8O0MEIeRBkVkRUmDx5s4Gzdov7wl5lEYh+Bean/sd6nwy6GduXYAUzFCdb1hpzosoOFiG7rEhNQ5+5ABknguJjQ6CX+OXlG5BQmeeHD7KLHo1fubBasUzhEYJXU8Z3wWm0yq4Mcky6ZjxZN1Dd80OSjLeZLCIVtyykcexiZUIqIv7f4AWNxK/gqyNvoMR1yYKltOoHtDQSv+ZpPps/tWT+HEyUkwor6VNN2IgYodGLtHMD42EaINiq6/cTpJa7EZdzQfz3MTiLyZmbWcc9Z1T0fC5EnMnFO7XOm4OJLVVtzy6sg6O++Y2K6kaWCbmLZlLhaPQysG7ZxkBAFDACnTSvywRl/0HWvfzck5/t6qrCscQH5ANfTP+L82KmR/FSvtSWdH9IspCekYDDUB8tnvseNHclNLOGwfRqr1h1bbnybiKpxBdHzpHhnjkXR6HRDRCGzjw6p/9ws5OzaK6cdDJR0/2S/9XKI37CC5pWO3dbMiaC1d4qd+FdsETdWw=",
+  "URL": "http://www.fox-toolkit.org/",
+  "LICENSE": "LGPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1594126149",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "bzip2",
+    "libxcursor",
+    "libxft",
+    "libxrandr",
+    "libxi",
+    "libpng",
+    "libtiff",
+    "glu"
+  ]
+}

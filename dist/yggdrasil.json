@@ -1,0 +1,23 @@
+{
+  "FILENAME": "yggdrasil-0.3.14-2-x86_64.pkg.tar.zst",
+  "NAME": "yggdrasil",
+  "BASE": "yggdrasil",
+  "VERSION": "0.3.14-2",
+  "DESC": "An experiment in scalable routing as an encrypted IPv6 overlay network",
+  "CSIZE": "2689208",
+  "ISIZE": "11195984",
+  "MD5SUM": "1d570e23f234bae9b47320ee1257a7d8",
+  "SHA256SUM": "03071516f68e69f22966edf3151a7198972ecdc7491c82febaa2901070b5f5ee",
+  "PGPSIG": "iQIzBAABCAAdFiEEM+u4qOHFZTZFsSMqRaZQ4mOMU20FAl7WxBEACgkQRaZQ4mOMU202+BAAhM4g5ogaYUZ1oX5bHig3a6qoOPkSl6cz5g+PU3OGLfuglF7X6TjXKzfp/85Tt2B0n7ioXfM+9Qiaovd55rXFuzKZxcGjwE3KKwqmH/Do9v7QDJdgH2jvASJAagn5V8rcNxlb730voDJLY8w0psekzc46geh0VGNbDYz+x2cvKmjLugk1AMclUn0KLmDqW0W2V0kawaXLITY/ID/v2bR5xG0nLIlLqnt+6W9ThGNpQNyGsMkdOiVOBWQh98InxuyKFsCw1EzKIVUpfwYIfms0tE2hR5jLHcW7aq9GFh+0gxMHNL34ux2W+AIkm9OIPqmcuguIAOaBFlLoktfZlVSFEdbvbBQqOXyNE6YKGVS9tkCiQWAaCY2LqVMWZ+DDWsJOrcWSpHrxUtu5P9XgGNm6cHGnIVhqtSKSArP1AQGiqCS5fYHycsLMDclJotOVYkuZjCmbEz747lL15wBeIHu842ir+9cK8/Zm+1kvxoycRCgRsI7KNbSFiT4QDOLQy/68OnJcWMmtQkCbesqwbibcYzj15TkjoWKzKspVRQoj1eTH6yM7vOV+4Ezxa34SIAQA44CKR4YZhBdh+3zfpskGv2hbleVmZccWsdr+sECZ58/vkRw0pFdMlaQRj3hqAvz1OvGuBKuFLxfSoFXUJxClzd0crEbgDVlynLuNMmXGAQM=",
+  "URL": "https://github.com/yggdrasil-network/yggdrasil-go",
+  "LICENSE": "LGPL3",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1591133056",
+  "PACKAGER": "kpcyrd <kpcyrd@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "glibc"
+  ]
+}

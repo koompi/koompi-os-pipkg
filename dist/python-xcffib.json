@@ -1,0 +1,25 @@
+{
+  "FILENAME": "python-xcffib-0.9.0-2-any.pkg.tar.zst",
+  "NAME": "python-xcffib",
+  "BASE": "python-xcffib",
+  "VERSION": "0.9.0-2",
+  "DESC": "Python3 drop in replacement for xpyb, an XCB python binding",
+  "CSIZE": "195478",
+  "ISIZE": "2142775",
+  "MD5SUM": "752e4b19d112fc9c09ab2820ed0feddc",
+  "SHA256SUM": "2acd13b7d44459791409a7c2ea67f0414db7d21bc0f1cb9661ead7a28089366d",
+  "PGPSIG": "iQEzBAABCAAdFiEE5JnHn1PJalTlcv7hwGCGM3xQdz4FAl67vl8ACgkQwGCGM3xQdz7scggAjufecqstAoCzhE9wWvG/qHQH+1wz1jwMywgazqp5cRa/LxtBeuP1AGYIZ11AtEOu+DBbzZkWkcVCpnvWP/2BlL+iuwGdNtiCok5d0zkAMI+cQNrMPcE7sGlFXV0/ga2r9DmjRGlKcvys4bmQXubnWuR6LvEB2ZC5BSoawv8sDgZaLkVCCWgM81yG/CtR1jYU1jkZNBJqJbuQJEJDL7e8lE5bV9DJkixuzdI460qZfeKB5AJG0617UURYu4VKXzAr2Lf7SipcPgb2f5BifpwdzN1yK2JCNmjYUvXwJILz45SjmB79FgU332SDjvbhjNsgSGQg+/nyXPNmfRxfS7LmKA==",
+  "URL": "https://pypi.python.org/pypi/xcffib",
+  "LICENSE": "Apache",
+  "ARCH": "any",
+  "BUILDDATE": "1589361963",
+  "PACKAGER": "Jelle van der Waa <jelle@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "python-six",
+    "python-cffi",
+    "libxcb"
+  ]
+}

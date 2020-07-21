@@ -1,0 +1,23 @@
+{
+  "FILENAME": "gn-0.1731.5ed3c9cc-1-x86_64.pkg.tar.zst",
+  "NAME": "gn",
+  "BASE": "gn",
+  "VERSION": "0.1731.5ed3c9cc-1",
+  "DESC": "Meta-build system that generates build files for Ninja",
+  "CSIZE": "785022",
+  "ISIZE": "2790499",
+  "MD5SUM": "758370ed01b8c03b6694bd9b2aaebb29",
+  "SHA256SUM": "072cc1fda3d9c6731384ec553354f95b079a17c6d0009241f250a2e20b2692c5",
+  "PGPSIG": "iQEzBAABCAAdFiEEhs/8qRjPOvRxR1iAUeixSKmZnDQFAl67kCgACgkQUeixSKmZnDRNNgf5AUP4LZX2gbTXmMllm1+fqouqSZSp4pn0wkIDpnbCEDJO1si8C8lPaRhLi3g9r+uQQPmrLAQG1ICdsrrW5Db8bfk0Btlasev+YAZI/Iaq+ucrhf6tyUY9Lt2jzqB8H8wevOzOU30/94dw0frwC+pnC2/0IdHnnHSWmY6y9jTEkPjIxMLiq+Tf7tJ31T8BDa59Ldh7B287DzYJJJyJJiiZEPmCPoxK7+S83mrMJ+pFJPiR48LXoSymrLeEeMR32klOjxkWtRjIBsS6t95WLp706fjK8TcZHT76Wuoymq+TYkEHLZJikoScNOUR1Z4/7yex/P8uLU4CGnuP4ocVHNKS/w==",
+  "URL": "https://gn.googlesource.com/gn/",
+  "LICENSE": "BSD",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1589350228",
+  "PACKAGER": "Evangelos Foutras <evangelos@foutrelis.com>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "gcc-libs"
+  ]
+}

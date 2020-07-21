@@ -1,0 +1,23 @@
+{
+  "FILENAME": "python-hpack-3.0.0-4-any.pkg.tar.zst",
+  "NAME": "python-hpack",
+  "BASE": "python-hpack",
+  "VERSION": "3.0.0-4",
+  "DESC": "Pure-Python HPACK header compression",
+  "CSIZE": "47596",
+  "ISIZE": "398282",
+  "MD5SUM": "e206e6471b20b8a88778592f69301a69",
+  "SHA256SUM": "d392154292b3cf652ff9b9d1bd02df51a82acbde3082177bdd169916efdd7a25",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl5W7+kACgkQeGxj8zDXy5InaRAAqAKCa+AOQUb9HC3p+BLiGJNZxEV66kgggj4AmUWUVeThLFNJT0d7ANtXSXbchT3Llm/Zq9hmU/SuUCa1lh/N6haQueN36tRhXn2SBCNGGYffzZpB/wBmTrIpCZPAjNXCGYdAc29XUzrvV/n5G786LUKMy43CFX7oKUZNu04RD41BtU2ta4nmlh0eBnnmaqIi5yXb2JJLRx6xY+XnqwPTqNFPSSCoFebIkr/W7J5tJZ/eMxlP995mwiKQigh1agbD9pUAo3HZSkkxMNyAa3bRHDrKVuggzZTRGw7yPgtXEeDMLBYBZvml7k8uhZX8RuHdYwg23Vd20X5r0QI4BHWfTEMh0pabNT9KwU7EsjTWLuNSKbUO5C8JIzz/WMps7uMB/5r9zC6RajzlgMFG7F/dA8j5cmrnaNnSRTXiJ2+F0pLN3JoMLCTceAMtnH2tO6u9GtiC26hC26ZqxeXsVcTDuuVHISuf8yFOtemeqgzsTHjKFYv8RrNjihTf7sIT37Iu1QBSZ9gcA4FJAmj6IdUN4v9wE670tijLYTkEk+K/RNsjan9IwsT2TcG59m/YWoBQsv8vYEguTAzA6pffjEyGQxeExELxxiXEdbeJLNCzvCg55/y2crGh+JZ9/mPYUrexSdjh38tV8rfcGOhluJtUpJwCWcsMWOwYtIqEijQxkV0=",
+  "URL": "https://hyper.rtfd.org/",
+  "LICENSE": "MIT",
+  "ARCH": "any",
+  "BUILDDATE": "1582755776",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "python"
+  ]
+}

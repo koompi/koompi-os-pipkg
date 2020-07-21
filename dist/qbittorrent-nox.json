@@ -1,0 +1,24 @@
+{
+  "FILENAME": "qbittorrent-nox-4.2.5-1-x86_64.pkg.tar.zst",
+  "NAME": "qbittorrent-nox",
+  "BASE": "qbittorrent",
+  "VERSION": "4.2.5-1",
+  "DESC": "An advanced BitTorrent client programmed in C++, based on Qt toolkit and libtorrent-rasterbar, w/o gui",
+  "CSIZE": "5207184",
+  "ISIZE": "6806344",
+  "MD5SUM": "92e0776b2cb49e08f65c6d5528d4e62e",
+  "SHA256SUM": "ae161719cf8f682e1a3c90d150c2d88ab95224bd631a450997282f0943bf91c4",
+  "PGPSIG": "iQIzBAABCgAdFiEEYEETBMCdNmKDQO7/zrFn77VyK9YFAl6mGS4ACgkQzrFn77VyK9ZLZBAA3ZkFbdlgsmdm23n6UUODMLWqxwIIPivijVcrvptIxJKLKBYbSpt6aQ4DbeZK+9l2za2b1YC5Rm0UZa8i/+GnUrJkCUxTyxJJHLsPEDLGFDmG0FycNdgQP2NoeGx+AASBU+tITZRJt1n+1HYTTMMuAuH7xkRxslxBOkiHOIGdSSQ6xbO4jykDhEsm4LvVyzir5r446YcK+jqgBHsf1oCEjeIAe/mKfYKjTxPTj0vLb+9EMMyaNkmCn8qpWvFTozF9SJU/XrSip0/ilG0O+ENJb+85nm5Lz0leu3EYGRqY2Sh+/6CU0AMLMC/jWyMdpFVt458KasN3L1BIRhOhOf8aOXC3/EtGL5gxJF46ELj6cV5PIrB+96iiwaPaIrqjiAiZ601i7TIywJPZyUuGqZBW2LG4Go818Qq8LwzWc7W95rmh5o+mXEjzB/xUHCCVrxKnTocDb/fykhMPUbuA1UFCZpS7ZffumJ/qxJrRcaWlb6BBE55Ykx760kPnGX3vX3ach5Qdcknr76NhsFQeFI+nNf/pVVfBoblSb2CAZNJmd78SiBPiwDl3kFfw34VxYg+XmEDMhuPV2ZeDYK2lUnHC5V/f5InebBM0fkYNhGyNPJgfoDR5zHa+qZr1H0/o47ARYuuwAgBfaeS5t+zoWWXU9pz9H1QlFQv8DWoIVt13Bo8=",
+  "URL": "https://www.qbittorrent.org",
+  "LICENSE": "custom",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1587942065",
+  "PACKAGER": "Eli Schwartz <eschwartz@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "libtorrent-rasterbar",
+    "qt5-base"
+  ]
+}

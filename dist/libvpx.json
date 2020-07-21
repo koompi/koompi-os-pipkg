@@ -1,0 +1,23 @@
+{
+  "FILENAME": "libvpx-1.8.2-2-x86_64.pkg.tar.zst",
+  "NAME": "libvpx",
+  "BASE": "libvpx",
+  "VERSION": "1.8.2-2",
+  "DESC": "VP8 and VP9 codec",
+  "CSIZE": "1350587",
+  "ISIZE": "4538296",
+  "MD5SUM": "1bf05592755b0730f973f69efa760bdc",
+  "SHA256SUM": "4d09a9c15eee49447e05cd6c2b934bd9ab6ad8173fd49e1ed5d9b4de20a6ad3c",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl6/zF0ACgkQeGxj8zDXy5IfTA/5AdLBdYy87ILVY8aDFzJMO/b/3sgQ4S/xOCSuwv+HcsueRBci7qznbh3A4NUg7vGGG5TQRraf1GhRV6aILvnnnS7tWfNiGNZmdA0L1gL0Y1dT1KwscLUG8pbnl2fUuhGj7ub/7spjKP7UOfuxUDSkcuBqbTUctFePXWVHihA3MjuLoJ4qgk4/2iMSdeBHBLYwpSwpUnybj5RKsYd3/2jIjFKIcbIOT7K+EBqlKfKq3t8yhlS/US24BQrte7cS2w7wPTQBHzM91oFkypPTcD/aIclvCPiEc39Nd2cgb1rsDFunILH/W943v6dnu+foaz2pWQyP9pFFmxwBkA4EnNi1YJtE8MZ7y7CCjNYG2hVZ121uptFf+dH6OP6qJ4istx6APWh1Nx+jUuK1ULIqr3TEEKTRbC9N+Xh4cKWhPeWNs1VIQkyrwO4QkU+5JIiQCBvIOMJEkKfVgJ6GS56iUZkl5rP/PDIwBKYinLJPa/z5ltO3/FaqTdVW3rpsu3rd3NxmR0lVaqtvAaWLRQLg4G5iyYvOnDz+MlVwENETqoLGSt61wgp1FDfNT63MJb9ytQagrYofOP2fo/0nKw11qMZWg6/p2S6xeRe/U5QJePs+S69vaLzb/hl56B0t/SwETTHR+ipKzmTFtaoQyXusFMogEKRspprEHHluGukF2EeCzfs=",
+  "URL": "https://www.webmproject.org/",
+  "LICENSE": "BSD",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1589627852",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    "libvpx.so=6-64"
+  ],
+  "DEPENDS": [
+    ""
+  ]
+}

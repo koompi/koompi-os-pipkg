@@ -1,0 +1,32 @@
+{
+  "FILENAME": "colord-1.4.4+9+g1ce26da-2-x86_64.pkg.tar.zst",
+  "NAME": "colord",
+  "BASE": "colord",
+  "VERSION": "1.4.4+9+g1ce26da-2",
+  "DESC": "System daemon for managing color devices",
+  "CSIZE": "1891636",
+  "ISIZE": "7258549",
+  "MD5SUM": "02001b28ac442c22654ce317d4802431",
+  "SHA256SUM": "1d5010fef3da7b42eef40e9e967503c3fbf2c4d80467474b92f6b028bdbd25c6",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl7DnT4ACgkQeGxj8zDXy5Kx/BAAkLZ5nX7EJTtnNlD2ZF9PclygpI0HrmZZJ/tyPzF99lb9kjrE3X3lLhxTDBeCma7FYlJC19GsmgADTz7cU9tT/yXMQAV2UFDqSGWVj2AP+Sq7mtOCr0JBC3K6ztfBwlPetYMzgqcGKSsFpF3tYz8ZsBu1NeJpulygNvawCD7NMHiHHQ/G9jPwrJUjCCG5QJX4SThvguk4wkk4x54IXqwzhba4Db1AVuGP0LFQ2paUDtB+2PMkz4ShSAlb9gS13z6A0Ev5Ow+QlCfuT9pWG54SVsTn5DCRB7+FiGCyxYMZiU4FzcokEEQ5ytgwSmHHwHaQDdR7M/l//3HpUbxbKPsNXvvVywIaxqziVzP+Kmhde2+Wf8ptF/05xjrAOAfAFpEwZhTCW362Rzwcs87fE+NPfDpmaZfetI8YBYIJuH7jkoM4rNgErDSHeAurhRI0pbbfcNM6do901d73eMuavk84lSfsQi2w1yoUITJG3pXRb4Ua/k/UxOrl2YriG3VtQEX6/2eyik8tQcDUuVNaWKyCI0nTptoabmca2jsGkIR1mLrK0HoYuFhBAot30oUd9Ysp7h7p2FIXc8A19f4xzCVgVxg7HtYGNIqOp7PsZ/gOi5j835pZmWXCVMiL5CfvYiXLCRtL+gouxfewPs4zn6FCzI5TFBLg8qiBVH7r2gYUfSM=",
+  "URL": "https://www.freedesktop.org/software/colord",
+  "LICENSE": "GPL2",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1589877903",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "lcms2",
+    "libgusb",
+    "polkit",
+    "sqlite",
+    "dconf",
+    "dbus",
+    "libgudev",
+    "shared-mime-info",
+    "systemd-libs",
+    "udev"
+  ]
+}

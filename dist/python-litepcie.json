@@ -1,0 +1,25 @@
+{
+  "FILENAME": "python-litepcie-2020.04-1-any.pkg.tar.zst",
+  "NAME": "python-litepcie",
+  "BASE": "python-litepcie",
+  "VERSION": "2020.04-1",
+  "DESC": "Small footprint and configurable PCIe core",
+  "CSIZE": "59049",
+  "ISIZE": "317925",
+  "MD5SUM": "5192044936c265b653233ad27bcb0917",
+  "SHA256SUM": "066ce22b77bb1717bc8ad2b67e00013c5686856ca4c5ac488854c7252fef8ebd",
+  "PGPSIG": "iQIzBAABCAAdFiEE0jW0leqs33gyftiw+JPGdIFqqV0FAl6oR74ACgkQ+JPGdIFqqV2bAA/+N93OTo6nO559Itl1mO6PPClk2PDZC9U8QXxgenGp7ZVXQj8o23fid0KnWj0LNrBmOhfJOQZ2KX6SqcSg/2VppdX7oPpGkynO4eJoJGlYVqdpAVTRMFqfIdODyiRNVwMrqgmmWG/Luz7IuKpsZqZaUOiBpke++3fAezrNirfkieD9PzwTP7rbdRR4WtLv6XR5+yNvAE/YrcGQ2NMoxl+QDZBajHY+kRDrBeAOtqUysBIuahU9/dBCz+92rSTq1/KMrd7LjX0NmeYNa4wH77EfcY4bpyAsuk7Lzs+74Qa3mQh+JSowZTJcuhrK+4qgi29hiAvTMhHGSfwv36JoJAKMxw0aYRV2lzBd0uKJc1cIaKkg2zX2oVJTL1G9fEJctR9k/orhYUpuO8iEX+f6mbPqY+KWdPtpKvBCcqP86rfB5JK96PbMVrw3o/QzQzgiybe1V7cWMQwhUGfSeLfJpYLmX9nJWQjjJ70bpT4M8DqsN5/k8t4PkP13Ndmypa6wsWQXAfB8+KxicC6ANitwttqy7qfN39B69bJKkQ2Z0+GDVhoM8XFAicaWQfMgD0nPI/ZSDKi3q2gYH3lDGzbOgQwB1Fz8iwselbNG+uoLM8RpqXZ7kYAl553OKnlPuIU2HfX8mtYh8K/7utmdEZ3UfDO4nmtWOu0oy6DfRhPB3Q13caY=",
+  "URL": "https://github.com/enjoy-digital/litepcie",
+  "LICENSE": "BSD",
+  "ARCH": "any",
+  "BUILDDATE": "1588086641",
+  "PACKAGER": "Filipe Laíns <lains@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "python-migen",
+    "python-litex",
+    "python-yaml"
+  ]
+}

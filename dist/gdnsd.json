@@ -1,0 +1,27 @@
+{
+  "FILENAME": "gdnsd-3.0.0-2-x86_64.pkg.tar.xz",
+  "NAME": "gdnsd",
+  "BASE": "gdnsd",
+  "VERSION": "3.0.0-2",
+  "DESC": "an Authoritative-only DNS server which does geographic balancing, redirection, weighting, and service-state-conscious failover at the DNS layer",
+  "CSIZE": "295468",
+  "ISIZE": "848896",
+  "MD5SUM": "8b0a413a20398cb69d6b36dd412613a7",
+  "SHA256SUM": "79a94617f81a6241ed9073a69da681d69d91bce79c1b2252fa84693f3978a73e",
+  "PGPSIG": "iQJGBAABCAAwFiEEPlGL8lJv0Zeeiq5JZcEQwepDP8cFAlzi/KESHGFyY2hAc2VyZ2VqLnBwLnJ1AAoJEGXBEMHqQz/HK/UQAIgvuHDAI0zPqb7QLGLeYe6bZQ4DJczmmv3FDtpdIqwXXI5fzATUbmhvUqgHSNMbaHE6gTom9UjYAV/X6Zte3wtkyj2F8kBFhmup9o+BjoKeo/79cjTz8AROcYfAQV99JwNDnv7/MOw4IB82xkNhhiqZ34y4MgvMu17pQAcIqVBNJL5zfwiYp2PPbI6vS9oelRiltc1ue0rWPpJc7/HSmCpor03qz2v2qCIXMZRdhUmFcFyXwB3OrSJbER6XvB3KouWsYQAW0ozPn1+bkCC9rclZlLt57lk2b0LgkGd95PoDXtXTYMudY3AMyEOyiJyy+hnXvIiyj9dPJR3pxPISDhxOGL1A7DUn6xImjCXTXtoLxi53seV26bsc3Khmj8Rh2M0Ea63L3ybBruW6hn0b9F1qYDHDcaTqzXD5rVY7shUo3YmoAtX+snEjbTp8R07PWoau/od4JmnSVf9KND6de9cwkpd5PQ6TosjXT1MV8chos1zVQHHuFS97BHTpFs3Z4+ECnsMVIzBDwNJ6YiWx49X1UYd42bxXCmkr8IjPXMxZvtZ6APriKTo8+2gJHZAYLFguI5k+HFu388FKtd5p6JY+XSsx/3XaUSBDtZLB/JGZqQfri9AyRW7dNErLrVKkC3HYPe1UGwsXUeN4y4EvxsD0hMalOk19AldkI4zNxjcQ",
+  "URL": "http://gdnsd.org/",
+  "LICENSE": "GPL3",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1558378922",
+  "PACKAGER": "Sergej Pupykin <pupykin.s+arch@gmail.com>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "libev",
+    "libmaxminddb",
+    "libsodium",
+    "libunwind",
+    "liburcu"
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "FILENAME": "perl-term-readkey-2.38-5-x86_64.pkg.tar.zst",
+  "NAME": "perl-term-readkey",
+  "BASE": "perl-term-readkey",
+  "VERSION": "2.38-5",
+  "DESC": "Provides simple control over terminal driver modes",
+  "CSIZE": "21518",
+  "ISIZE": "46477",
+  "MD5SUM": "8feeb51e01ad8a286aaab27889d261d6",
+  "SHA256SUM": "034adce818b02ab1d46b4de6f2ce5731727f63b92410aa46aff55753136b9f55",
+  "PGPSIG": "iQEzBAABCAAdFiEEhs/8qRjPOvRxR1iAUeixSKmZnDQFAl7vNyMACgkQUeixSKmZnDQj2gf/buK82agy+hSObv1X3xuerYqrx+7fmhngnVnhaUhH4xHweZZhJL/JZEd66GBGiDMLQRNKkhelijmLjeRWfFyb9DLP39v/rV2wXPXii6OQzmB+8iWSTUj5atHTh35wu8hEPt4SYWXJgQIY1c12IiZEpAIF4kxvnR50OqduA5lHIT+DjO/qV+mZYaSNTgnhz8OOQHvfagQKEssLR7m1QWdkzKyEoZE+/+WebYYAXdakOucJb30N+D1k9wUhipVlyycNQuG7nH32q7taaJYExTGQbIxe65KKF8F4I0AuPvOpG9wdZjQh7fscFYa6ge/TkJV9/B3JcPrqeQxaKW/E/Kgn7w==",
+  "URL": "https://search.cpan.org/~jstowe/TermReadKey/",
+  "LICENSE": "custom",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1592735507",
+  "PACKAGER": "Evangelos Foutras <foutrelis@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "perl",
+    "glibc"
+  ]
+}

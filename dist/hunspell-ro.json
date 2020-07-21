@@ -1,0 +1,23 @@
+{
+  "FILENAME": "hunspell-ro-3.3.10-4-any.pkg.tar.zst",
+  "NAME": "hunspell-ro",
+  "BASE": "hunspell-ro",
+  "VERSION": "3.3.10-4",
+  "DESC": "Romanian dictionary for Hunspell",
+  "CSIZE": "995061",
+  "ISIZE": "3931117",
+  "MD5SUM": "af4a7f221c33b501f9fa83dd28e1f124",
+  "SHA256SUM": "27b17fb0987d3afdbabd015f8bd768987cc2f8c611fd4398a32d6dc5a90e099a",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl7Dmf0ACgkQeGxj8zDXy5IhfA//fHF5Oa+KxvEr0EPENH13xg8KEFhtOfkYcZfiFZCjCQisueoGovcZNohTi6q5RC2BZmhSIEiKYYBu24a6Rr2PuGku2xYDASXVrxw0fOI2Ze516n49rfcwnnsj3CBggoDdtT6dMckHpicxgNqmVDLZ4eHeSQIwReppdOFaZpeoRzT8v3UjOND86ccdGyzQMXoIjwNBWiEP3so7uhxS5v+ksJWR4mbS3QIvdFVkyyUBh6VsFucpuZo8AljStPDDMSIvmuweHuxS32xH+nr7TPwHSMWmMs/f5OYeS793uXJZ6xQUcx50MMBjPPAteyMwhWoimsyIuPZpWGCvu7fovli88fQh0I+Dzdufrmfm2yrC46KO/w8b+HgYHtfLA7CvE2xznKmli+brKv+AOrcqMejndT043oG+kK5e46cbdnWylmB0lBRqboSLNS9HbND2ffCQ/h+xParMOfzDC8JpPB3C4EQlW4jZ0yZ1Vlzxw7SAr2eyKKiIX7SKmGpD+vVwtT15G7kQYykrwHaZQRk/vDIRkdP/s5hHHsoWjfOqwT0TONNbqfLTFUKeFYVZOzR4ZkUy6/R056P0TzQbxJg1RxA7h/f4krJ3mP10lWfG53kD+ByTNftkaiR4m0ED44P25BYLigZ8M4tEOmZUOb2PhtoLp0vipwUoBMVFvgm0nhz4oNA=",
+  "URL": "https://sourceforge.net/projects/rospell/",
+  "LICENSE": "LGPL",
+  "ARCH": "any",
+  "BUILDDATE": "1589877207",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "hunspell"
+  ]
+}

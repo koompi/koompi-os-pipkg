@@ -1,0 +1,37 @@
+{
+  "FILENAME": "haskell-http-download-0.2.0.0-85-x86_64.pkg.tar.zst",
+  "NAME": "haskell-http-download",
+  "BASE": "haskell-http-download",
+  "VERSION": "0.2.0.0-85",
+  "DESC": "Verified downloads with retries",
+  "CSIZE": "66088",
+  "ISIZE": "291688",
+  "MD5SUM": "cd233a7a92b03adb7a4d06a3afeb67dd",
+  "SHA256SUM": "f2b574063c35e381db0f89d73f485f49d3c60c9ada0bfd0e6424ac23b415efe6",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl7579kACgkQeGxj8zDXy5JlSw//dupm6+HS7/72NhY8AZKjakb8SlYFKDiYF4mcryScieq7PGxVcxN+ms36ZnzOvfbAMW174O7oRtr192x9be2eIb8xWRV5iOGMANKLnFMPIXnZxvLxpefZAymZUpupZSJAsozuq4BsBS1jxxJSS2AyV/C7Wq8xdfa9MAIcwYHlczvemdS2AIxhnUOpdnA+tG8RG7S/gaVa8BoQ4ltk8tezZu3PTqlM6bJVc44lXKmi1f6/u/8mEgl+haXm8HN00bt7g8SY5WVtYFdhHQ/WPPkw8wnQ1GkY99c68snGoy/9rfehAwoIPQOeAn+Sq8or5gIKkTjbPpSqT4bhnA6GLWYk0JHf+y61Woqr8Zxc8TmrMG9qU4Qxnau5aLnL7nca3s9eR5eBkM3jIukFxqtIUZkoqr21DQIfu362VZPZL84s9kvi9eEDFYu6IeADEzFxqZZVt+N/Pxoall7jh2AN7xDQrQTx6RIsM1zYJ4hR5aVvfmA0W/pHXYnxKGfDZMQr6SIRHZGhIHaUSihNG/1QG3uZKXhK06kVtjD5/zR6Y35K5IQ2Jw+WD1Gw/QeOT9DRAJzS2nCV6gTgGZzP7xxju1cYvDE+KCtuLS39y+jwgJ66zaYR2kX62to3ZftOLGc5bTbARRG9J29WlsoF+b7F994f603M4QexJl7Yi5Oi8P8hIco=",
+  "URL": "https://github.com/commercialhaskell/http-download",
+  "LICENSE": "MIT",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1593438130",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "ghc-libs",
+    "haskell-base64-bytestring",
+    "haskell-conduit",
+    "haskell-conduit-extra",
+    "haskell-cryptonite",
+    "haskell-cryptonite-conduit",
+    "haskell-http-client",
+    "haskell-http-conduit",
+    "haskell-http-types",
+    "haskell-memory",
+    "haskell-path",
+    "haskell-path-io",
+    "haskell-retry",
+    "haskell-rio",
+    "haskell-rio-prettyprint"
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "FILENAME": "hashcat-1:5.1.0-2-x86_64.pkg.tar.zst",
+  "NAME": "hashcat",
+  "BASE": "hashcat",
+  "VERSION": "1:5.1.0-2",
+  "DESC": "Multithreaded advanced password recovery utility",
+  "CSIZE": "2589256",
+  "ISIZE": "21648700",
+  "MD5SUM": "82715babda538aa9ef0ddf6b95377be9",
+  "SHA256SUM": "df8c8552c2986f239eda7f55890519d657fef82517d9cc304dc3377517e038f4",
+  "PGPSIG": "iQEzBAABCAAdFiEEhs/8qRjPOvRxR1iAUeixSKmZnDQFAl8E1dwACgkQUeixSKmZnDRSZgf/ZD0BuNnAcTFOuWeocfxahXVq9Nk66GtivqCK2qk9rK76ETbcQPxSCZ1R6pyM9Mkfnfqnxvbf1eaq/EPOZGSn4nDzD2IxHsQwtb3q8RTZJlTZs3X5mtLTSt+M6EbXv2YmJMr3vlDL8XE0rbTQ84a1ANfISCvc4l3yzVTS1gcbjnfkYWO8Q7AQU/0TEhdebXxXF7PvoMrbrX+7K8tHogdF9FjaaT8FU3K8igHs111ZEUmYRE7CZS1QSmAloAv7ZeHpO1lhh8AsRzAV0BVaCEhtpPrSRa7yiS6c9jI49Vdzuuiz6g77quRuqjSIf6Dhy+tRyRvmG5q801tfZ6stSS5Gug==",
+  "URL": "https://hashcat.net/hashcat",
+  "LICENSE": "MIT",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1594152365",
+  "PACKAGER": "Evangelos Foutras <foutrelis@archlinux.org>",
+  "PROVIDES": [
+    "libhashcat.so=5.1.0-64"
+  ],
+  "DEPENDS": [
+    "ocl-icd",
+    "xxhash"
+  ]
+}

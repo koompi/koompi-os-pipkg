@@ -1,0 +1,28 @@
+{
+  "FILENAME": "dbus-1.12.20-1-x86_64.pkg.tar.zst",
+  "NAME": "dbus",
+  "BASE": "dbus",
+  "VERSION": "1.12.20-1",
+  "DESC": "Freedesktop.org message bus system",
+  "CSIZE": "322850",
+  "ISIZE": "988146",
+  "MD5SUM": "7f27a22f20c5e4ef3f8c85998e53aba7",
+  "SHA256SUM": "1ed0f340d97b2a34c6246313806e25d489c56a6e6f102ae307299f5593c3b7fe",
+  "PGPSIG": "iIsEABYIADMWIQQGaHodnU+rCLUP2Ss7lKgOUKR3xwUCXv4ivhUcaGVmdGlnQGFyY2hsaW51eC5vcmcACgkQO5SoDlCkd8fEdgEAn7vE0EaLxoei9C1ZnZGNkRLB0KxRMAhPgLwQI0cCn7IBAMLIuzAOVwYwJYlKqhO1F+UO+2FwKdOUYRXjWW9oeUwK",
+  "URL": "https://wiki.freedesktop.org/www/Software/dbus/",
+  "LICENSE": "GPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1593713143",
+  "PACKAGER": "Jan Alexander Steffens (heftig) <heftig@archlinux.org>",
+  "PROVIDES": [
+    "libdbus",
+    "libdbus-1.so=3-64"
+  ],
+  "DEPENDS": [
+    "systemd-libs",
+    "expat",
+    "audit",
+    "libsystemd.so=0-64",
+    "libaudit.so=1-64"
+  ]
+}

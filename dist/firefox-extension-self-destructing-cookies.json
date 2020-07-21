@@ -1,0 +1,23 @@
+{
+  "FILENAME": "firefox-extension-self-destructing-cookies-0.4.12-1-any.pkg.tar.xz",
+  "NAME": "firefox-extension-self-destructing-cookies",
+  "BASE": "",
+  "VERSION": "0.4.12-1",
+  "DESC": "Gets rid of a site's cookies and LocalStorage as soon as you close its tabs. Protects against trackers and zombie-cookies.",
+  "CSIZE": "107744",
+  "ISIZE": "133120",
+  "MD5SUM": "82b9f1d88b97848a9ac8b4d1a7abd47d",
+  "SHA256SUM": "bcface705b6205a914f262127d918c982513a6050a1af6e48310a52dfc515002",
+  "PGPSIG": "",
+  "URL": "https://addons.mozilla.org/firefox/addon/self-destructing-cookies/",
+  "LICENSE": "GPL2",
+  "ARCH": "any",
+  "BUILDDATE": "1517425549",
+  "PACKAGER": "Unknown Packager",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "firefox"
+  ]
+}

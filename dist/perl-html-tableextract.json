@@ -1,0 +1,24 @@
+{
+  "FILENAME": "perl-html-tableextract-2.15-4-any.pkg.tar.zst",
+  "NAME": "perl-html-tableextract",
+  "BASE": "perl-html-tableextract",
+  "VERSION": "2.15-4",
+  "DESC": "Perl/CPAN Module HTML::TableExtract : Flexible HTML table extraction",
+  "CSIZE": "26998",
+  "ISIZE": "63932",
+  "MD5SUM": "43b58bcec279945c327f47d8f528f214",
+  "SHA256SUM": "bc8f1d46988ed6db0191339bbb5f04c9472cba21339577832ac8e15f9b8b5a54",
+  "PGPSIG": "iQEzBAABCAAdFiEEhs/8qRjPOvRxR1iAUeixSKmZnDQFAl7vPJUACgkQUeixSKmZnDR0tgf/cRb3NmsllmwPwUJMF/lAh/xswizxAPEdDgd9RvQ2g41TGImdnTYIXR2uLq3SzqWrJXY9PDPj9qAxQRoeCzz8WpwsEwWQZA7TmajdIVLYcOwWobxw22HC5mWHGdNlhEruQ4mqrbgaN44ykof6MB22huQpNyPRaCXYm3gDEghKBv9mxBkEROOk2mZgW1dczhW1t6xvaAn38/xz77XEu9E7TfEwnur0HCnn3ZYYTKvxQEcvIXvoB42Q1mKkOT/XFWJS/3/TdJUPEEqIhsQh5tn3w2AZW0cTIChdkp35KFi4Ssm9YW+NS5MLgIRdlkT4jiswCbil1zmGuo2ehi/4nA5xig==",
+  "URL": "https://search.cpan.org/~msisk/HTML-TableExtract/",
+  "LICENSE": "GPL",
+  "ARCH": "any",
+  "BUILDDATE": "1592736893",
+  "PACKAGER": "Evangelos Foutras <foutrelis@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "perl-html-parser",
+    "perl-html-element-extended"
+  ]
+}

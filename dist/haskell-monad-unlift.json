@@ -1,0 +1,26 @@
+{
+  "FILENAME": "haskell-monad-unlift-0.2.0-99-x86_64.pkg.tar.zst",
+  "NAME": "haskell-monad-unlift",
+  "BASE": "haskell-monad-unlift",
+  "VERSION": "0.2.0-99",
+  "DESC": "Typeclasses for representing monad transformer unlifting",
+  "CSIZE": "13539",
+  "ISIZE": "45460",
+  "MD5SUM": "240b596bcea3106eaf54070c48a770d9",
+  "SHA256SUM": "28da6449a9284499252e194c181b3378d1789eb31aa48630bbe5c0cf81cc79e3",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl75KlcACgkQeGxj8zDXy5LfLRAAqImsElu9STM2M4+LfvkvaU5PsPPg43HNR08/+lENMiuPDS/5FKxdQvigRVjn6wV5/zTkjpqZuZNKGMYcOozex+o7dL1uvpDJFrfexjQxn1TDrrY9r6kyZovGa6mWyoDVoxkx7fflWRJmjQydUsP2Kl8QwAqkRE3XnCfaFNcAzKgf7RAa7f+hjFGIC0xJTQqImACZzeANTnUkJd3muZ0f9B5XeffJZ8DIInZ4XNoijCSQSRTc8Am5sZIAVpnFrkJFI/X8oHR7/WMUrNmtuFBnNOtMTR3GVHBn9mtHEGPW62VHYdf8gRbd4C9oyabL8lctklntSdu8nuNxV1+0FHd0yi6FGMw2FyX4i9DRtHSjupTn4qtZD6Iz+qGfzyUWXKUQp04eg2sYt3giDMalNxsmL2PKomNWPV4TuhR+Wn9vYsiTpaTsL1NlksGgrWSdJvAN2hEliA0bjDsKTzG5LH3+CNCutXjcB9tx3jHR0gi+HH5fdXt0bW0vVnrihVNZI1cdNwmRW6md728/Ewmt2U/Huax9YIsDajaTDEf7MfBO2FrN8cQJx9g+IpC82rvlZG3Qqm53/h8GhRUGqLkUCPkOT1Wo+QS49iqF3bzFjKDtIXoxz1FioORleyn9TupjI6ETqZCAdsEKXnAMq6FE4n0RmZM7WhQdKzabqWMu2714tYA=",
+  "URL": "https://github.com/fpco/monad-unlift",
+  "LICENSE": "MIT",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1593387586",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "ghc-libs",
+    "haskell-monad-control",
+    "haskell-transformers-base",
+    "haskell-constraints"
+  ]
+}

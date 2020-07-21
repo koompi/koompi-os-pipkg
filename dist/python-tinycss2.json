@@ -1,0 +1,23 @@
+{
+  "FILENAME": "python-tinycss2-1.0.2-3-any.pkg.tar.xz",
+  "NAME": "python-tinycss2",
+  "BASE": "python-tinycss2",
+  "VERSION": "1.0.2-3",
+  "DESC": "Low-level CSS parser for Python",
+  "CSIZE": "69116",
+  "ISIZE": "534458",
+  "MD5SUM": "0025d28ee70245db67ee654fc37fe562",
+  "SHA256SUM": "bd659e5ff8ed322b110f0c5fa5ff1717ed180f4284e4adf60fc167f5ca834fca",
+  "PGPSIG": "iQEzBAABCAAdFiEEhs/8qRjPOvRxR1iAUeixSKmZnDQFAl28NiEACgkQUeixSKmZnDThDggAmlvkl9jpMEbykPvpNLqCAOOYh2fSHS5XrSrk1gpd4kko3zSCVhmNH/VLertL4RPFWKnT3IBZnR46+E0T/+jvIaGXO4wd9xiHovrFODbSfuUc4w3w0m6rGoceley9T86v8MqSh4mjCFvP2vtIVR0zFclGGP4lLe+EI6D9KoM7j3qyNDvqHT0DVYRKlWhLKkk5K05QkvjX355xXNxusWtH9hCSYqq9roYWIbfIhH+UNqFFiUmQYmUGsHUXbF0XyJwSYkk5XkYt/H+usxF4mjDene0VDa95odFlwZP/IjFqos6ND8X7N6Dafm5trGjUAtstAb+yih5UPf9WU7ye4Hu1uw==",
+  "URL": "https://pypi.python.org/pypi/tinycss2",
+  "LICENSE": "BSD",
+  "ARCH": "any",
+  "BUILDDATE": "1572615683",
+  "PACKAGER": "Evangelos Foutras <evangelos@foutrelis.com>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "python-webencodings"
+  ]
+}

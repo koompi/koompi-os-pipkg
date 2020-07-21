@@ -1,0 +1,25 @@
+{
+  "FILENAME": "bftpd-5.2-2-x86_64.pkg.tar.zst",
+  "NAME": "bftpd",
+  "BASE": "bftpd",
+  "VERSION": "5.2-2",
+  "DESC": "Small, easy-to-configure FTP server",
+  "CSIZE": "43516",
+  "ISIZE": "102481",
+  "MD5SUM": "4d7867200ed5ae735252c3f1d206afc8",
+  "SHA256SUM": "2d2df5e17e08843ce6c1313c6e8b86a93eaf01ce017452324effa6a3155da460",
+  "PGPSIG": "iQEzBAABCAAdFiEEhs/8qRjPOvRxR1iAUeixSKmZnDQFAl7DrXwACgkQUeixSKmZnDSUmwf9Eob6CDPpyE0zFgnVrXTae6fD4B759c64aTXP/u8G+vNeN+0eF7WUoS3RErlDD51xuiYmuT1tqrspMsGOAj8VqVEVq1WbVyPNXy5H5menHpax9mkJ5ws0pYBamIBEJWZW/4sQV6kMF/ke+UJdirtePhnKh5TJhV+VRbpOP8/n3e4qiudC8ZR1i33SfVpnSgKQDA1jelwt1z/N3EAhG8V7Sc7+hVi0raoXC2ZNxl5j/zhWnXRxuy21EzNxrqAQWuqlmQENZclB6fFfTAPhFu1cxFnNOAfhKk4YsWx4rOvJk8z6Vp8zwMrD+xeQJD5bxTehLue4yZzdpudvCb23fn7Ylw==",
+  "URL": "http://bftpd.sourceforge.net/",
+  "LICENSE": "GPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1589882210",
+  "PACKAGER": "Evangelos Foutras <evangelos@foutrelis.com>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "pam",
+    "zlib",
+    "glibc"
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "FILENAME": "haskell-test-framework-th-0.2.4-37-x86_64.pkg.tar.zst",
+  "NAME": "haskell-test-framework-th",
+  "BASE": "haskell-test-framework-th",
+  "VERSION": "0.2.4-37",
+  "DESC": "Automagically generate the HUnit- and Quickcheck-bulk-code using Template Haskell",
+  "CSIZE": "18814",
+  "ISIZE": "65149",
+  "MD5SUM": "50a80e47a68bf7e407d85f2b6a98db72",
+  "SHA256SUM": "63f685b91984f426a5c872d5b82bcf78c505bd9a86d1fcb71182f55d72463e9c",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl75JWAACgkQeGxj8zDXy5IDgg//c6WfcmfBVVMEkcPojjy9TghROEGtCBPnOPBd/oq9zFhAsG7oGpus6tzNCI1eZidmPiS4uJN+nDI/GNIbSxr/3HJU/M+FQ7Lj7bHXtE4f2XyIZfEDlHLql98WMj8cFk6DDjok16lIotKXCahw1ftjMpZE9ZBmeRg8rKJ9JEP9u231KBPcwR7X0+R+rSR/mRTHlykM2HpTRR556VqNHpwBUZbTKkhiZWc4rHo75Aydd42YmrEAm9kV14/YJJLopXsI5jvrjHVUMPYZxs//m2vCtLvV3KZr/Q5SqyQrcx6vWjwkOG2vX+tYXTi0fZbWkCKSYWRnHDbv+ArSkYjZgFerQqxFP3HIBWajcEpgSQa1TI4eQbtAX/QIuOh2weJN5SXBRo5vM4hscRX/5269ZjfXZatt6nBj2GF5oxFmdgNM/0Ab6pOH5MH3sOOrARo4N6UlLGK3p53LWC26s0mQSx5uY6qNL0vbwWyr9ux5/CoNk9rHIdRx2rtd7zxNIjSMMe4d3eTVGPPRGv4rIZjYdqgtw8vGbTQBJc29JGSMURecAkm3b/5RIUOepnHTNTw7aA2NsHGGIbJOIQcWl/RxYmIBn02PMiYBwRqK53RS/Vd9hirKJXPC+4RfdhtsWwVBwwlunMoOsN80DDepNeMyN4yOETJvNgybBXeNY0sxdIp5aHE=",
+  "URL": "https://github.com/finnsson/test-generator",
+  "LICENSE": "BSD",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1593386314",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "ghc-libs",
+    "haskell-test-framework",
+    "haskell-language-haskell-extract",
+    "haskell-src-exts",
+    "haskell-regex-posix"
+  ]
+}

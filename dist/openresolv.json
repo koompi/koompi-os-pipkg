@@ -1,0 +1,23 @@
+{
+  "FILENAME": "openresolv-3.10.0-1-any.pkg.tar.zst",
+  "NAME": "openresolv",
+  "BASE": "openresolv",
+  "VERSION": "3.10.0-1",
+  "DESC": "resolv.conf management framework (resolvconf)",
+  "CSIZE": "22904",
+  "ISIZE": "57361",
+  "MD5SUM": "ef0a7f01abd9d47e5d75db44d26df57e",
+  "SHA256SUM": "ef21f2bf2d789d21c31d919b51c61fc9ea69cab2ffa743e044ea82f243d1cdf3",
+  "PGPSIG": "iQEzBAABCAAdFiEEghj4iEmqxSLpTPRwpekojE+kFfoFAl4wkyAACgkQpekojE+kFfqT9ggAkxnH3djY6TkoMHqHwrvEXk1V4XqWSVDNgFh5zl9PEcCvdEqykGU3juZPu9iHfJM+Fcp1rFib1vuxD9tV4pwuQ5+I3TF+Hdp1w5UGMMgqPn+dz/Y4+8Fdpwlj9jODguI18wJ8IxbkE1MHrvAnWq3/6lgLwlszVnGcV3haMvoggbQWrsXINF2tWPim3GDKnvZIu8mT/aw1s4sRA9SOHgAeXKv/6Cafz1pQLIO3cl0/lZJ7yMeD3Oef1u6MqNHWXDVPCK/xsVFYMZ16wxL/qFbSQkxzY5tG4jHxtj1Tae5CEDvLJko74B8929I1S/wxkIk2daDDTN+RcBVabH9ho+a1xg==",
+  "URL": "https://roy.marples.name/projects/openresolv",
+  "LICENSE": "custom:BSD",
+  "ARCH": "any",
+  "BUILDDATE": "1580241640",
+  "PACKAGER": "Jan Alexander Steffens (heftig) <jan.steffens@gmail.com>",
+  "PROVIDES": [
+    "resolvconf"
+  ],
+  "DEPENDS": [
+    "bash"
+  ]
+}

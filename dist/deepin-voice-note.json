@@ -1,0 +1,23 @@
+{
+  "FILENAME": "deepin-voice-note-5.7.8-1-x86_64.pkg.tar.zst",
+  "NAME": "deepin-voice-note",
+  "BASE": "deepin-voice-note",
+  "VERSION": "5.7.8-1",
+  "DESC": "A lightweight memo tool to make text notes and voice recordings",
+  "CSIZE": "9764741",
+  "ISIZE": "13972427",
+  "MD5SUM": "63103b282b980133afa999ec56402e3c",
+  "SHA256SUM": "28be1895b23598877e7287b7894dc1eadd0e27ae133a06923c1ddd8a46894746",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl7495AACgkQeGxj8zDXy5LMjxAAlQZcqAWxq5rFeryrbnW+QsllylhcbIznSH1ZMI8UR18BXKgvmdjhogV0lqJRRv6Nv0h2+/BU3GpIkKbggGTh/rH4uVcDqPM3PiyQ+QgpMXiUO7htmbQVodiRCX8kvC+YkFLgvo3rfKeOY8aY9NgwwlfXO/9d3K2Y7R5raM79qE/j0LlLqwShyGRdmXGvHY1MOFQ4NLOUdSpw0PVlC6yckjdFtx6sxEmvDYSsPvGqzhCkMxZVXC/aZ7DCJjVPZ7Vq3rlrM53bcsrvFzTNuwmzoOXO7QGF2cCxPkRE7ag21nhmhETbpOBGiByTXe22/l+zlk13m6b/yNZhmkdOw5FPtrNOMiNNsRJl4D1T6MF8Nm0C8/b04nsMgURP5ZRmmJ8YOTCmgI4yomGpxnSevFDCoagJfUJSZqH8KKJp8pk5RGfuNurmgq+3jH9R4BBz5OWPUf71KbMcFJ5C4Yg0yT86QYw10g0+L8Wd68q01oRJHeQfwMF4wsesAvXePnxdFoianxe4lQlGCBrMDinWJB9BaaRNc3pojncIm2YBngziYJvdiMJGJtuI79MJsa0KC7H9u1CYcNrqsj38Uo324y549EmsN7L9aR01MvUq3BITIw7La6n2RsqVo3lVhQTNCKdJ8eHVm6vGifhGtoDt2+QqxwowDc7Fhffm+TPzij6/FZo=",
+  "URL": "https://github.com/linuxdeepin/deepin-voice-note",
+  "LICENSE": "GPL3",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1593374434",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "deepin-qt5integration"
+  ]
+}

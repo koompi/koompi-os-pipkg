@@ -1,0 +1,24 @@
+{
+  "FILENAME": "kodi-addon-game-libretro-flycast-0.1.0.17-1-x86_64.pkg.tar.zst",
+  "NAME": "kodi-addon-game-libretro-flycast",
+  "BASE": "kodi-addon-game-libretro-flycast",
+  "VERSION": "0.1.0.17-1",
+  "DESC": "Libretro wrapper for Kodi's Game API",
+  "CSIZE": "2307591",
+  "ISIZE": "24509733",
+  "MD5SUM": "2245b64e9c95ed2107fb341d57ea9aa7",
+  "SHA256SUM": "e2ab53d0d334b2aca73bc1c22ca7aedfb839d9044d96fa15b11a62769d8e2a1f",
+  "PGPSIG": "iQIzBAABCAAdFiEE2yJ3vNUAqjglYQvd2zIzknlsoGcFAl5bu7EACgkQ2zIzknlsoGfMog//Tv7hpR0e3vx6ExvlJV60DJuZfk9Bmxj0tHcPgXKyFIGNqUKww+D6kw4GSUGFhVlRiZY6qfSYUEiEKQeq0Ep7ZGqU+WVc/rKCw1WHLcJ+CwCog7Nr+WXoChfg5Nf8stfPPHwYQps8B6/tNfOJcag/iYpC9jkye+ob3SKejkl2vNDRLgwi4Y+QWvvgRs6BbzwiE9tPI7TXlPj+3aK7yW8Z5fI/iZqLRT4bD3AJq6FheLGfIipoBPhJsLxzYYMQqCHo/HeKt2PCqMg5xGUXnhizYKvXyHkSTHrKdcTtwRjPvHygCjMG7frfw0GylkNx3ZI4d4MLi5MxaaoeLS6ECoCC9/tPPH2n5yckuUib3ZYg+zPQ7yqw+syRSNosGE9rJrooANa8bKjkT5M+wC25ZurwcaQDzvw/8/aj0DCvKENhgKVPDDWAb8D3+jyGin+ENfAqQSIG9lvfnHSibnVhPd2x86rmPEe5J62nfgJPGNev/p1pGfOximfwa5Dk08CXOkutS8Ljuy2lK1EygIbKD0LyiQHZZAsLPQrW4n0zm4bygpB6rnMav0MX0rOpox80RiAwTknnqHHD5BqLIGnDuk1zWT9fyWxNWSeefspvHiIxQOxACLDYjiyuVg/TEKRkJLlKwBJJ3eIhe3WQtTKzmsDtPyvrouxRuw2AV3/PFLGiwHE=",
+  "URL": "https://github.com/kodi-game/game.libretro.reicast",
+  "LICENSE": "GPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1583070078",
+  "PACKAGER": "BlackEagle <ike.devolder@gmail.com>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "kodi-addon-game-libretro",
+    "libretro-flycast"
+  ]
+}

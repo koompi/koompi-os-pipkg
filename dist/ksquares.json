@@ -1,0 +1,24 @@
+{
+  "FILENAME": "ksquares-20.04.3-1-x86_64.pkg.tar.zst",
+  "NAME": "ksquares",
+  "BASE": "ksquares",
+  "VERSION": "20.04.3-1",
+  "DESC": "A game modeled after the well known pen and paper based game of Dots and Boxes",
+  "CSIZE": "351193",
+  "ISIZE": "861408",
+  "MD5SUM": "e8b028a649dd9bd69e3e5408e4708014",
+  "SHA256SUM": "a1256eac0f5a4b6d5e4c7790fc1bdc9b7b768b8c29bb9f0ddee72801403ebb4c",
+  "PGPSIG": "iQEzBAABCAAdFiEEFRnVq6Zb9vwrc8dWek52CV2KUuQFAl8HBfgACgkQek52CV2KUuTgCggAgT/sYPYlxxcxpoN69shj+rIRnBJ+WM/3yEEHyMhQAb3EZQVAj8m2yWhjYlhWGMocH+pStHhEnSwE2SKRUKe/CoanXBftc1ceFWEPiETQ/zxA94/Ej9dZSfnWsBFU4aIKVh5n8mZjx8Pr/eb+TEZDXohqk91ZBhNWfluzvSPZXelTyMWvFRR+BC5xonBYWxgo7ePwlqPpqEJFUtNKWXYMDHw7TXvw5gaMFw8gOkOH5TIBS/fwHGg7c2sagcAWmo7Pib/zwCi/hAstu/OIRAuMLOBkNDHoqV7aBz5X+/d1MHXVyAOBtQ5oRgoRlvJgz9ZLNRgqIKPoUoR+Yp1hOCFHMA==",
+  "URL": "https://kde.org/applications/games/ksquares/",
+  "LICENSE": "GPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1594109256",
+  "PACKAGER": "Antonio Rojas <arojas@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "libkdegames",
+    "hicolor-icon-theme"
+  ]
+}

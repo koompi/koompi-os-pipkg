@@ -1,0 +1,23 @@
+{
+  "FILENAME": "g15daemon-1.9.5.3-9-x86_64.pkg.tar.zst",
+  "NAME": "g15daemon",
+  "BASE": "g15daemon",
+  "VERSION": "1.9.5.3-9",
+  "DESC": "A daemon that makes it possible to use the G-Buttons and draw on the G15 LCD",
+  "CSIZE": "54815",
+  "ISIZE": "160670",
+  "MD5SUM": "5fdde50de39b774916bdcd2bd5c03aa9",
+  "SHA256SUM": "bad041d818a488e9b582820d7930d1a1b5c6cf6917db058d70bc1729653f60bb",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl8E530ACgkQeGxj8zDXy5LEbg//cmKJmSPa1Y+k2E335GIPRuOl8OBFuvoNTBaLDwP6Ra6dme+m5WYdVlKxFZdfP2FqlYciZjaJoTk5CPAtuMfxDQIWCFzlQu1ZNqbM3CKD7T1LxEk+dUSw8xaIfd/OPWtvMO9fgJ949KTSSoD9IRotAFlnvzHijJ1FuM1MJrOrmiWq9S1ijulfi1yOH9xbHrZq0MPcEtUmHY1ICuAYZsPT4lTKSTkjLeCvQk0Bh9oPEGmAEXNewttaJdAOpyOWqOpmWiq1cmqcvi9c7rBesUb9A6U61bYITAoizc31iYYijflgN6Sc7eFzK37m3cmzRf9v+d6M75aCbkIvGD5n8jwFVam37DeyFOdrfLWYN0i4RMfuS0e0qj+wCSo/Vj2Lrw+JRL5txMQ6BpkJJvxoxmfXFueYtJidTUQ2KJIOAVao/2rxFJHiceijlV2SBMo4NArdZEmkgBgkm2Lm/oQb2SJo4knUnZ5p8NYUF1nBTbcYtKrvbbsyfwu6y5ZWxrCFaa1bl3IZ3kysyLW2uHWwJJKHwEp/8c7ddyrfkXk7OEr97gD/J8s8XOGB2xStYGV+5cOjQeh3ORrtNM8oC2peVvJIcVFVGhHoqnzM4fEaQiI9RvE4gk6xQUuQa5MlWDPr9eTIdPRZ0M6pEjHODlR1/tNcbEY9x7w7JOUZmHryHSR184s=",
+  "URL": "http://www.g15tools.com/",
+  "LICENSE": "GPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1594156891",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "libg15render>=1.2"
+  ]
+}

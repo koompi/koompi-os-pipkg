@@ -1,0 +1,25 @@
+{
+  "FILENAME": "haskell-deriving-compat-0.5.9-4-x86_64.pkg.tar.zst",
+  "NAME": "haskell-deriving-compat",
+  "BASE": "haskell-deriving-compat",
+  "VERSION": "0.5.9-4",
+  "DESC": "Backports of GHC deriving extensions",
+  "CSIZE": "326126",
+  "ISIZE": "1790516",
+  "MD5SUM": "a731ace958690fd764deed483f7c5bd8",
+  "SHA256SUM": "f990e9bc195977b2f027b228eca2a5a16a7b076eff9b794519d02c4803b3b07a",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl75qlUACgkQeGxj8zDXy5KO8w/+JNEmmlLN8aRLttnqU4Xc4L7b2ewTn5gmeynTCvML+tpeZCTR9G3Py3ipsd/AN1C0PeZl8Xrs0RVDD+IhcJuepPpwrHyr0ES7uN8n28v2PXQUGklLOh7IFMZNixanMLqx5QeA52tdP25+7w/CQQguIiIRxWjeH8+mCX1VYfMSwRV/M3HZclWBtKllthytpZMOp/mSQl5qDq83VgMzR71UJNnXualpGRK4fecQJ4CrLAJS/Lb9dlayVrPGkHtYxmilHq+prSfB8fQKgtLqSBpbZSns7oIJ1Uhj/3LDhWN4J2DX8HW/YLBJy5tcWrmQjxR1lxxUC3aRLlSjXZqHQLc8W41Q+cdezxN4HvU5F4AtZwjg4hpNBfC93bzq/ORH1kbHuTOM2bL5KPZr3EeZrumHBdh9uLUSLmFf0vdwqHIOTDAR20LfNlrDUxI8yUTsjGUtsQfhOlZJvFQHn7UPfUr+4yYfigTOq8Rzj5s+6kf9yDuRcnKFnCmKUmYgyAumI5C70F1zTPTfIkK41c0vkNqy0rhkQHmRo7Oh8n8jRP1C3dAHtL+fFejklVxwcm+kdmlsaCX2Nz6D1flr5B0sg/D98IE21PF+E5c0KA1qe7EZMVeR7WMwyaJzoiid6QOy4GEojxhnqOcOTZEPrJJxGUrvaByJ5aj71mL0P5goj4RcJa8=",
+  "URL": "https://github.com/haskell-compat/deriving-compat",
+  "LICENSE": "BSD",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1593420329",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "ghc-libs",
+    "haskell-th-abstraction",
+    "haskell-transformers-compat"
+  ]
+}

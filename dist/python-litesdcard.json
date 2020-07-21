@@ -1,0 +1,24 @@
+{
+  "FILENAME": "python-litesdcard-2020.04-1-any.pkg.tar.zst",
+  "NAME": "python-litesdcard",
+  "BASE": "python-litesdcard",
+  "VERSION": "2020.04-1",
+  "DESC": "Small footprint and configurable SD Card core",
+  "CSIZE": "35056",
+  "ISIZE": "156699",
+  "MD5SUM": "4c9ede58213e99a16e74296ca73d678d",
+  "SHA256SUM": "f44c8426c02bae94e55c359fc7e0371a49e78873d506ddf1c84b5c01572ea0ca",
+  "PGPSIG": "iQIzBAABCAAdFiEE0jW0leqs33gyftiw+JPGdIFqqV0FAl6oRtYACgkQ+JPGdIFqqV3bLxAAulhwbfTyLZ8Py4RIrNvXvRwNBMKj9cGdjEOhj1b+p1JjG6glx+BjX5s2h+fXp9Z2dzdV0zQ37tgC0e0iaX2Dl7USWUmTEMtG82Ti1F7L3Scd30aREi+7RYS8Me4U6HeCJD/uTogphzI/+6DhZCsnlmWkZB51Hd99z9WfTpJwWFgoI1oFS7CR8mHGswhK9SULWVxwSXlBJIIKatvQSA70azyG5MOCztMV4yIW48Ts4EYl5zTbbvCPzCfbDdHYj4zO+eAztUwhp77IsnVmmqnUCGMwxli7itTsOjNot92rhifhCxMoWkOw0UzIgyL3BTvkiZpLeesX0Zr1wst0+aWZqX2o2akhVKAxlxApDHhR9d9RalAHGMElu6IEFjPnNnFkH3cPRffANwfTdWd+4jNVrDk9IWTQ+8+vXctbMEkBCyIKzrZRXAen83Tk6YZqUZW1R48/N05bzRIVjf65pCwPekk+TJS5ET8ydwS7KyMcTsbcSq7RumSn7R9fVdatPGPNIc9zOEMT2utev/I8AW1RiJOpzvsUVumXxLBl40+jgaJnS6c/fqNQ8RPCqQD1lEbsOfVFMUutUd8fq3qNDCTML1r1QwdqM9cczA9AdL1yd41j3SmkevM7HTl5rfvHwy1hPcqkTPxPg2gTzwR84a5WS8BW1Y1862qOZM3HU6SvBxQ=",
+  "URL": "https://github.com/enjoy-digital/litesdcard",
+  "LICENSE": "BSD",
+  "ARCH": "any",
+  "BUILDDATE": "1588086458",
+  "PACKAGER": "Filipe Laíns <lains@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "python-migen",
+    "python-litex"
+  ]
+}

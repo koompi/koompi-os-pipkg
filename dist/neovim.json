@@ -1,0 +1,29 @@
+{
+  "FILENAME": "neovim-0.4.3-3-x86_64.pkg.tar.zst",
+  "NAME": "neovim",
+  "BASE": "neovim",
+  "VERSION": "0.4.3-3",
+  "DESC": "Fork of Vim aiming to improve user experience, plugins, and GUIs",
+  "CSIZE": "5170509",
+  "ISIZE": "21022560",
+  "MD5SUM": "cb1dab316f43d35982af2e56767f8182",
+  "SHA256SUM": "eb7ef75a35908dbebafdc66b5463bc99d6352eef3d5918d63ef4ff6ca09f81fd",
+  "PGPSIG": "iQIzBAABCAAdFiEEj8FaBklQqZ3RvRTdOeS4d+YuuRUFAl6DHMYACgkQOeS4d+YuuRWjPxAAxvhJhHc6l2xcP8uhCD+zAsYArn/wNDVE8xdkiUsgbqkiyfntMegyTfSvq8erM9f5EBWtjHqFGG3RWnbii9SQgRTwuStb2wTbrmJhaYLE1U2ScemZ5/3Z0BGID6v7ioSD8+ne/1LJZLVZUbmYvA2mt3vKPgiBw5+QrYm1LjUUzJKlNqsQwlEfIVbbFYG3KhLz+9zyC2qT1bbHkWzHpFJRySyJpxG5UEL3+zJ/ChIyMuet+KKOD/XqsCeIEzQkwNRcSy67KyJKIgNWzj91PixRgeXnEUuJ1C7mgeWLZaPzdes5QuMoY7z0QEmqd8wPWjNrpQKREwbjAZxViOlZ0p8dAxHyz95JqgXnCdnla9LnZL4CjmPEQ8pH4zmhcYUmPgT0PkkUqMICxBurooQ3JXUCUg1fkiSNuWW0Atr+6aZK9rzRVRjLo4a4r4AYGM/XJ/iXymppVqxL/3o9iwNeEd9EWm4EG4o32y7k1uE28Fg6in5YujlTtGUn+dUWemBFf6h9FArxOhUBc236DHauqoUXF5bPsmrusR+Idd0UyXNr/8RG1ELNvHGFxMF5YvAV+9FIosHBNJZSDghndNi2zJehRgwGriQsnNOWiYvxeqoDTLkOqmrGIo9+UfjFHOcBS7JTY6PrWvgCB0/Qd3OH5fcKGiZbZe+4FeehHaroWV3ZKXc=",
+  "URL": "https://neovim.io",
+  "LICENSE": "custom:neovim",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1585650182",
+  "PACKAGER": "Sven-Hendrik Haase <svenstaro@gmail.com>",
+  "PROVIDES": [
+    "vim-plugin-runtime"
+  ],
+  "DEPENDS": [
+    "libtermkey",
+    "libuv",
+    "msgpack-c",
+    "unibilium",
+    "libvterm",
+    "luajit",
+    "libluv"
+  ]
+}

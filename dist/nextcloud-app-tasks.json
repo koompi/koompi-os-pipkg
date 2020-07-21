@@ -1,0 +1,23 @@
+{
+  "FILENAME": "nextcloud-app-tasks-0.13.1-1-any.pkg.tar.zst",
+  "NAME": "nextcloud-app-tasks",
+  "BASE": "nextcloud-app-tasks",
+  "VERSION": "0.13.1-1",
+  "DESC": "Enhanced task app for NextCloud",
+  "CSIZE": "1529235",
+  "ISIZE": "10424348",
+  "MD5SUM": "a77a1d879ea4eb6fae6eadc4c29cd8b8",
+  "SHA256SUM": "d97f88321e5c5bddea54f47fee06e5b536303bbcb6d781b1ef6446d4f63ae902",
+  "PGPSIG": "iQJGBAABCAAwFiEEPlGL8lJv0Zeeiq5JZcEQwepDP8cFAl6/MRgSHGFyY2hAc2VyZ2VqLnBwLnJ1AAoJEGXBEMHqQz/HHv4P/A9C1ET+aoX3T4JqrJxfMAa+cc9cOoCktLr6k2qSMikbPGwkLsvciyRRc7CQE0jNQGzqPpcSUOTOvn8/TbN1idIWK7OI4d3JwCWdY2SmmjvKa1FDIejyynvrCDNE4GsgPmKfzJMcJ2ZnkoJjf/NdkFN+mHcbhKVQDgp8Fw6qA0TlSMzCgJwJwUFNQEkWqckwptVVxI8t/O1pDwTCjUMr7GnodPi8TCaYYDHdvEsufFt7zu/ekqVces+dLyA7ssbTQQTkQHU2kjiCd4U5YHQChpBDl61JD1vEgdBFKb6vKuts9eMPChqF9ef6AycPueEKCClYvR0cvTQaZohiaX65AAyPeyuhhuNGfusmHN2KLCNJjZNm4VtIl02TBjaY8zuyW/muHN8PwpfIEhkGswDeYHvdftBSrGiQmb3AaHVs7ycdZFNQkHtheFoR/aAUxO5exO9X8qJP5XtfRAJk8icyVe+ZAmTZNsGStUTsARDLDdJJLy7OZXtvfIFjKePlZUV9vheybsBHMBcqtDr4DYhbnY016YBKCutFryFPk/QHBjlRUBmxbn6gsLYy0sMTtm+JIzwLOznO3jH/Kg0/p9Lb6dpGBGtUof9iqfoK8VdQkIS4H92Zqd0vKsEEy5mrhcYvHRqvhRWEXDpXMS5nd81sEIYH3ium6ytWvLdrJG7TE/VD",
+  "URL": "https://github.com/nextcloud/tasks",
+  "LICENSE": "AGPL",
+  "ARCH": "any",
+  "BUILDDATE": "1589588196",
+  "PACKAGER": "Sergej Pupykin <pupykin.s+arch@gmail.com>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "nextcloud"
+  ]
+}

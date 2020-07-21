@@ -1,0 +1,26 @@
+{
+  "FILENAME": "perl-path-finddev-0.5.3-3-any.pkg.tar.zst",
+  "NAME": "perl-path-finddev",
+  "BASE": "perl-path-finddev",
+  "VERSION": "0.5.3-3",
+  "DESC": "Find a development path somewhere in an upper hierarchy",
+  "CSIZE": "11348",
+  "ISIZE": "14413",
+  "MD5SUM": "54c6ca8c9be0758bc856b64b5d1849e5",
+  "SHA256SUM": "2bf443d3a0375f4e4043b939ab5430e93ce982b059c07bb9efd428919a3927fb",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl7vfM8ACgkQeGxj8zDXy5LH5w/9FDmB2pdp6neGnQEvD59ynw+8q1BJ3SUDa1EqZgSWHEYRfhJoHV6fnYJTDd7py8NjRGkQLl+j+QcscRYkWPC88JUIgATPrDoDV+ByoHRPCtNdVMThnzzH9Go0FzfaUi30NHNRdm1phTS9rKCMVWhc2qrnhhl5/dtsdJBaMMoSioAU2KM+v+HW1QlGPmTvmkw9t7ogYjrVI9aYwsZH9uj25PL4wSEekC7gC/ZapdbPuKFFFyqfeeKftcBc39i5Z/0qtlyXzegduBwKzdpcwrNU0KtP+wTIsLpKbX+8xyJGeZ8M8tLT7LKZCgVBWJTjSdv3AC6w/U1PamOyYQ0H0lsHkkUa68RzaW98F/UtjffQFszOroCZJ28kMGvZIKKlA81thcquIfgylzRNMiYZava52Arh3lGVS9e0px+uPcYqP40bWrrNEm37kHGEjp352PL5D23vO6IXoMwwv1qUXcKLLFEjQFCDXDnzfCR9g4vdFJOSuqCI1AMTz55bARvJow4Bn8WmR4ouwj7n6HZhMCEibsbcKhwKsK74v6EHaq5MXKOZCtc4ZVqQoIGzhbytjVBUwC7yztnbdS47VygE/BIIbUZfdp2vtUJFcU1nAZFAJGhg4/s8125+98z989CScHx7FGvisdWJD6GJ5Tq1PVxsPClrw8XsUhOWrFl2+vEwnm8=",
+  "URL": "https://metacpan.org/release/Path-FindDev",
+  "LICENSE": "PerlArtistic",
+  "ARCH": "any",
+  "BUILDDATE": "1592753340",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "perl-class-tiny",
+    "perl-path-isdev",
+    "perl-path-tiny",
+    "perl-sub-exporter"
+  ]
+}

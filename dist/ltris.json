@@ -1,0 +1,23 @@
+{
+  "FILENAME": "ltris-1.0.20-1-x86_64.pkg.tar.zst",
+  "NAME": "ltris",
+  "BASE": "ltris",
+  "VERSION": "1.0.20-1",
+  "DESC": "A tetris clone where you have a bowl with blocks falling down",
+  "CSIZE": "494845",
+  "ISIZE": "1070037",
+  "MD5SUM": "c9c03fddcfde0e59bb662a87de1ab55b",
+  "SHA256SUM": "457771a2fb6feae7c0770e8f2367a59823443611eb7aa875a5da8a287ca841c4",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl7f69wACgkQeGxj8zDXy5LwQQ//VXYnhKiqk1azKS9e5GJ3QGs57wBdQOCS5ALDyKTA6WHf64eoUlfJTgEAtxhHsGp0ZDiWNwi2p6R8dQ9kK90CIvLAqnFvpp0xN8BCm5ScaWISl9fEybtgAtCD8fzPwmNqTUok5Gt/0+eSHt90U4BIglP80/7d2PAHL6CSx69sa9kiYbs1gfjFFBaUtWbdxEA0FdakNnSQ8t6L2ZLgDzF0ppLL6Pa2MuLGQ932ZnYSEUWYvNHcFc3y2MiHY4tWG7dECQfp7Ue9CBPZN2FBu5Imbp1jem1sLJpECQSDbp+gd5GAi0y3ZKss26CL4ZZWl3ym8GwUV+UMcNhVAptiL8uYQPJhCnTHRrlSt0d7p7D/CzpD7rf7pOaifMzN4Sl6Gz/esI8boo897Q/bLKiRgmVN5j6GkmQHLAgP48F8Bj8dN3Hi6n9jD1bMFPVlLvUzONFYfskvIjptf0BpV+FZbWekQA+AteQ3i4BTk4V4HSr/kksiGRJx8mGhExOFYd300gr+PVM/OuiFCCGuZqRvteUzXtToajLWqeseCuSZJnODLtJXydzkcjpFibhHnC6HQ7DglFFKxqM2Go9ZgQg6JRfT3VHZ7d55OBJTIcKYLRnwaBpUVi7iXS87OCHtuz8BORuVQouwhGNX1XtgWTrlILSG0TA89dSqB0nyhZ+YH9J6KwU=",
+  "URL": "http://lgames.sourceforge.net/index.php?project=LTris",
+  "LICENSE": "GPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1591732980",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "sdl_mixer"
+  ]
+}

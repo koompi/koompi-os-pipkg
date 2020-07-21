@@ -1,0 +1,23 @@
+{
+  "FILENAME": "python-envisage-4.9.0-1-any.pkg.tar.xz",
+  "NAME": "python-envisage",
+  "BASE": "python-envisage",
+  "VERSION": "4.9.0-1",
+  "DESC": "Extensible Application Framework",
+  "CSIZE": "315612",
+  "ISIZE": "1940573",
+  "MD5SUM": "415222c2c9b022ffc3f1367067e6244a",
+  "SHA256SUM": "393d99ab295b69712b59281e843d4787d2d7f221d833000d6db600faad2c77be",
+  "PGPSIG": "iQEzBAABCAAdFiEEcXAmqdR3n8U5QHJmQPVXtzFJYQYFAl3riSMACgkQQPVXtzFJYQbIjAf+MZVYon96UTlsc7m9GhofEk7u7lpXoskoUdgQS/wvnfC18BSv5f0oj2cdJx0GVRrcapRNvzVp7DjtAZhPITAxre3QUcdd0WIlsLKaWKi9q++WlxCEIFvcMZqjl9GiNXaS0n91zPlQ6r1HvhKXZ8bmDiB0h2taDM+08aodHis6xWbSh38DA33z1/eftyT/uTYTp1Cy5axs2FV9N94aHDtDftzY7k6OY+2d2LyO+S6m2FJ9cQa+V9n7YJ+mEDywQldhZriuvQ7vbw3mmeQW9tlehdp5gb5956cQxorouoaW0u7AEJl1eDgSNmEdKD0Lkxp+GixgQJgfTB5FDhKuZXHrzg==",
+  "URL": "https://github.com/enthought/envisage",
+  "LICENSE": "BSD",
+  "ARCH": "any",
+  "BUILDDATE": "1575717062",
+  "PACKAGER": "Andrzej Giniewicz <gginiu@gmail.com>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "python-apptools"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "FILENAME": "mediawiki-1.34.2-1-any.pkg.tar.zst",
+  "NAME": "mediawiki",
+  "BASE": "mediawiki",
+  "VERSION": "1.34.2-1",
+  "DESC": "MediaWiki engine",
+  "CSIZE": "29831405",
+  "ISIZE": "153977920",
+  "MD5SUM": "0296a67d80d8710dda8c21b91b07b735",
+  "SHA256SUM": "d3c4213b46f0a3c198e246456cb44aa8dde7fa74f4dee7ae0cbbfb3b825c9013",
+  "PGPSIG": "iQJGBAABCAAwFiEEPlGL8lJv0Zeeiq5JZcEQwepDP8cFAl73SB0SHGFyY2hAc2VyZ2VqLnBwLnJ1AAoJEGXBEMHqQz/Hu8AP/2jEZCJKI0J5ptGm+WQSmi+XyGbiL336rgPxmsSDb/vY7m5IAW4wtBWLdMP3WTQoo7BdIlslDypQZqPStYAVsm9Kconybjo2XNESt8gA/KPBNA3OYMczV/6BTT4ne1fJbEjoExWUwf99RZ1BnRQRorhBlhjU6AGjBkhPF0laRzwgty1GByhQZOE/2/p/3fXCQdhOEJ4ZBVuwJAS34HGq7rnm0OtVx7PRNcCv6WXbhpjDNZgi0ni08WvD/Aym7lALj/k1sEEmkUFgv59qQjvlZ2ncjHWaacnbNdl7B06gEs5FxfiwCTT0ngYT6NvB9F+vtl1okDCaiX3UN+lajDxFwj5Sl3TzkvRqqfrnvo44bBNuMtiUlbtxbSBAndMYESn1O8ANF6EWQiKRE7oK9mh+eXqYXguiRa8amveZXCNBq8tj7BDh6laBIJTK2Za57To+tdUEDqo4uONR8aLXoc91E5pvn8Tbee+GVXn0jWwxqqzKfQpTeqaYlquhNd0sX1Vg1ogEk/qz5I+XX+8PWTWc5lfPW4eUeMpHmtIX+J/qZtIOYDTi7UF7GqzqCHEJBoR0c1txZoS+v9NssiWoffs78vzq38YDA7OKgDjjhvDKuz2s/sL5MBLUYRSWJeAQyAl6jcWWHmpU6FT7NCxtDFGTq+72agW8QtQLnsO1FmBc3JNM",
+  "URL": "https://www.mediawiki.org/wiki/MediaWiki",
+  "LICENSE": "GPL",
+  "ARCH": "any",
+  "BUILDDATE": "1593263845",
+  "PACKAGER": "Sergej Pupykin <pupykin.s+arch@gmail.com>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "php"
+  ]
+}

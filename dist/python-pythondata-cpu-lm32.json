@@ -1,0 +1,23 @@
+{
+  "FILENAME": "python-pythondata-cpu-lm32-2020.04-1-any.pkg.tar.zst",
+  "NAME": "python-pythondata-cpu-lm32",
+  "BASE": "python-pythondata-cpu-lm32",
+  "VERSION": "2020.04-1",
+  "DESC": "Python module containing verilog files for lm32 cpu (for use with LiteX)",
+  "CSIZE": "83309",
+  "ISIZE": "524558",
+  "MD5SUM": "dbb89662453db5647eb1e9fcd06edaf2",
+  "SHA256SUM": "da2c5ca358768b7ef55f250d2659029564050f60787813ddaadb2e1575e8a7cb",
+  "PGPSIG": "iQIzBAABCAAdFiEE0jW0leqs33gyftiw+JPGdIFqqV0FAl6oTnYACgkQ+JPGdIFqqV3Hmg//duzwKrVHqx1COSTBxzPHY2X2GDYsYc+6FKE/BVEpY+sFZMRCvXV/5ibJ6XZ+lfcsfZFooOUjc/OXm9PaQxhiw3J/9NfypZh11I9WAPiSYZ9F1ttcpoJBrHY7AwjFAdjZ/86Jxvdj+8LmmA6xaWjHGApnZoCdtTrpvvlU3irf5u/jvszM0MP5M1E2bVjytz4LcSBYuRs857oW2FC1ZLNS/S/c1Lm4FFtn5U+mobLuGI8E8R4zr62uM7OXVcLxdjTDLy7K/5Jwy23bLw3//N6/JgwM8/ZPZsYpbu3JUc1Uck2h152O0STMXTlfx3DgCa4BbL9jbKqPL00wMOAvVmHfKI2IpGsfO/6NTodGJdM9X3j4a1QCc3tJpzZgtBRTBYO7JSBH1b3Xmjk82BEYJNGHLrQc9jEjL3oIlGyp6k3d9NQKLP7Ezc73GJHQmX+QHt7GlP0R723rWwfpOresQcgCCsoEWnPqGzyAFPwsMRYsXRJKyTcNTOwJ2Tb+bjM/cj5AEXcYCXK3/6PHP+GNPybJ7Vm8dV0ESu6vZkOhV2GLw/Izz9PK+bxTvRBVgSxUMXGUGc+yZMCxNIV9+KLVXwQCLreuw48oNHlXVo7AxKwiqK1/I9Es+WXD/S6ytIBzwwMrMVtheoq2yY0Jh+rXDn/Wn4ldWK3GoYkK1XIYJvhqYg0=",
+  "URL": "https://github.com/litex-hub/pythondata-cpu-lm32",
+  "LICENSE": "custom:Lattice",
+  "ARCH": "any",
+  "BUILDDATE": "1588088414",
+  "PACKAGER": "Filipe Laíns <lains@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "python"
+  ]
+}

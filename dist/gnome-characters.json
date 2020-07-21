@@ -1,0 +1,26 @@
+{
+  "FILENAME": "gnome-characters-3.34.0-1-x86_64.pkg.tar.zst",
+  "NAME": "gnome-characters",
+  "BASE": "gnome-characters",
+  "VERSION": "3.34.0-1",
+  "DESC": "A character map application",
+  "CSIZE": "201855",
+  "ISIZE": "810436",
+  "MD5SUM": "c278845ca138306b88531fe06367d1f3",
+  "SHA256SUM": "a0769d33c9321cfb1532fc56fee48894195c6b3c42c4ef9e7f812f53bdf802b7",
+  "PGPSIG": "iQEzBAABCAAdFiEEghj4iEmqxSLpTPRwpekojE+kFfoFAl5XysIACgkQpekojE+kFfpeLQf+MZNyKx3hb+sOsJRCHSWoK6GTk1S4fXFdL6JlkIHrivDG/UzVVFtFOP9yM57+86j+bHCSCWYsoMfg2mNDYuV4J6UMIQ6teGp7cQhakIz0n5fv8jkCj/lupurN1B4QnQ/08xJBlH3N4p4+TP2BcOYIjW7yqFjWgm9aVd30tcKs/BJsh9gKO5ymfnqwHiLdWMb4ar/Mx0zIBODTsLD6RGeLOWpuMYZgpZMh/ZsaC6L3X+nD+yysr/b+2sAWvDaPzf6Ge+6VXanhz7b6FFYG4CQY7qqPIp18eTRgjfVjZAkXrLsh1cNphAHRhwyKKGQIHR+Dal1zLySRya2b+czJgX388g==",
+  "URL": "https://gitlab.gnome.org/GNOME/gnome-characters",
+  "LICENSE": "GPL2",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1582811013",
+  "PACKAGER": "Jan Alexander Steffens (heftig) <jan.steffens@gmail.com>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "gjs",
+    "gtk3",
+    "libunistring",
+    "gnome-desktop"
+  ]
+}

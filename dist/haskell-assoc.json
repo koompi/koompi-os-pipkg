@@ -1,0 +1,25 @@
+{
+  "FILENAME": "haskell-assoc-1.0.1-4-x86_64.pkg.tar.zst",
+  "NAME": "haskell-assoc",
+  "BASE": "haskell-assoc",
+  "VERSION": "1.0.1-4",
+  "DESC": "swap and assoc: Symmetric and Semigroupy Bifunctors",
+  "CSIZE": "14971",
+  "ISIZE": "55533",
+  "MD5SUM": "631dbff8db9d5d642775a8856e23cf46",
+  "SHA256SUM": "9cbc882a393a2e5b40e2aa46c9dfaf2d95bffb27d839ca855936d248dc7c6b75",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl75BNAACgkQeGxj8zDXy5JhWhAAlKQ2bakOal80iRT1F5nVT4puda0vXHMjZp7KZuHBMu5VveYy48S5x0zYlsUMPycPC9kax7YKktbWNVyQcBGqNwZzT9w7htPXCh+Q1Xg7192O8pRFZzcHxXy4/6uQdtvAQCH/rpe840d+PQnPd2WbOAZQey/8hG5I3Vt+HsR8u3y8thPnLehRH5Karx1xXpeQPZQKyiaz86aiJRV5yOpRdCWt9GLVPU4XCrY+0NUOpWgCraa/GUtvGMSYBRPxcekTR7iF8N/O85pW9RQxkM5pPy4NAGfsxdDyf0MiRJdeUW71Nq8uVk9cLvoUX8lSUM40q3xSGfvOlFGfIH2ya+pIqUPf1JP2PaTNtMSJdigmeH+5JJ5rAA+KZCSJL44fVlfg/vNAZ0gdyHn6X9lSK5UeDDC0qyFCaf38D3JWi0tZG0wjuCBD+yit0cjkBsuWDQ7gU9kdFIjvPoDb0nuAL9sIJcP5RMvxooDaM7XDeHL8Ouk4WzYqUIL3QTOH0nSJ3rK8Vu6FCYzzlyFml9Yfazb6pJFIUNmjZWrGbGSHC43HVbdziABL+PjMzo3YVOcHOPUTnilmSaajclkhilDaIWBYzov8/2cK/jqT1TOUGBc6xzsYSdGQM5rzOXq96f5GpbO83QFkMA4HWzaprsjsCwlGOrE3mSnnifxA4gCfgP4j3QI=",
+  "URL": "https://github.com/phadej/assoc",
+  "LICENSE": "BSD",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1593377979",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "ghc-libs",
+    "haskell-bifunctors",
+    "haskell-tagged"
+  ]
+}

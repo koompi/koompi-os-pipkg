@@ -1,0 +1,25 @@
+{
+  "FILENAME": "telepathy-kde-integration-module-20.04.3-1-x86_64.pkg.tar.zst",
+  "NAME": "telepathy-kde-integration-module",
+  "BASE": "telepathy-kde-integration-module",
+  "VERSION": "20.04.3-1",
+  "DESC": "Sits in KDED and takes care of various bits of system integration like setting user to auto-away or handling connection errors",
+  "CSIZE": "165063",
+  "ISIZE": "644816",
+  "MD5SUM": "ef7da215485a3f1db11da824cb79cdaf",
+  "SHA256SUM": "6e31ea399a97690962ba5a23275c4593cceb1a41084d5fe03b04da5c4411479a",
+  "PGPSIG": "iQEzBAABCAAdFiEEFRnVq6Zb9vwrc8dWek52CV2KUuQFAl8HH/UACgkQek52CV2KUuQy1ggAgNu1cyq2FnW6mkIDg4XTp8PcRTP87kYEGz8ny5pkCHz1D+m9IW0THmnVu5wkJ6D73ZuWTLOQ/7A8M/0ViPLKcJgCTXsUysVjIqX4sQJpJc/R/mEBtkJ+Q/PVfXJininPY7Lc48Tmrb4wJZ+JB2MV+5BFBAd2131NPl35en3fPynjyANdVOCe7KuQKifIzTZV72pfX4VN+1PvkEsfED3P8v8oeJgifRNGkX7q6i/9oq5YPscqoM7QitupQ2Fq3rYSnQWc6vSo8sb+g+QZ4dQ+eNmBeS3mHy0/treFI6LCk693bPvYt6dGjzLSfefnH+U54lFXjU/qTcClIIu9zBhoYA==",
+  "URL": "https://community.kde.org/Real-Time_Communication_and_Collaboration",
+  "LICENSE": "GPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1594111937",
+  "PACKAGER": "Antonio Rojas <arojas@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "telepathy-kde-common-internals",
+    "kidletime",
+    "kactivities"
+  ]
+}

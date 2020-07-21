@@ -1,0 +1,23 @@
+{
+  "FILENAME": "gsettings-qt-0.1.20170110-3-x86_64.pkg.tar.zst",
+  "NAME": "gsettings-qt",
+  "BASE": "gsettings-qt",
+  "VERSION": "0.1.20170110-3",
+  "DESC": "Qml bindings for GSettings",
+  "CSIZE": "29019",
+  "ISIZE": "91240",
+  "MD5SUM": "0a779a260ef14b6f9244ce668fd821a5",
+  "SHA256SUM": "bf298baf362fb800122df66155dfbeda0f9b369be94958f96de92a2d0d21abeb",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl8EvAEACgkQeGxj8zDXy5I8vRAAtzQP9IjFVq6Y9QtQR7dLNWdr9fN+HqSH8WY16xyXPIbqlnbiauYdALRBLXeOCbqfFRRUgj9VJk1akNEp596XJjUNHlRzzPItRTxcwCg7hNiKgsCaxPcruPfc7hIJTkoWbhUfhNCWGijPOsHXZALYJJtQ5BQnCl6SOEHmXQgGb8l0pSKg+FGuyUVFno3KMcbOKHU5ZIC4Pao/ECoQjpJ0nTqJwL3ClN+h/sQySMEuWmgvhwVgKU1d3DF2c6gb0VH1y5s+ASFWJnlZLOp+1euhDm7RlgDM0IC46SaWOuRymAsmHeTP4meE7WUs1moCPaD+DTic+mv48367ukFwM1C3YiGUEzeQNGGjNuzQE/Xx+ommeatjBkh74rqyzMNWEkbDrMiNAVNIenxkBC+gjf1V5Sr1N4ZVzU+2SkFjKU4lg/wcnpxfurLNS/3AhIuLDJ1+MgZdgbB7+J294Gsd7NUtsDA3tqzEOzwWbxPwX7n4PQxnFnghR0enwLfrdSlngqjUZwhLj4ezXwwTfCGHTloc2Vhg6vxQOBT6KYO9X25SkzlD8/D4XbbzvqoeyEZhvb4skpS35RD3d14NSZstFz31dwIza2vkrnoPCDD+uLKNtjEYViuWYw0GMJf+ujYWCM4YfYE3YBEoXDEKXvV/EJVos29AiUCgIlSPnzy7yTYq/ro=",
+  "URL": "https://launchpad.net/gsettings-qt",
+  "LICENSE": "LGPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1594145744",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "qt5-declarative"
+  ]
+}

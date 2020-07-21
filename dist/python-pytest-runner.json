@@ -1,0 +1,23 @@
+{
+  "FILENAME": "python-pytest-runner-5.2-1-any.pkg.tar.xz",
+  "NAME": "python-pytest-runner",
+  "BASE": "python-pytest-runner",
+  "VERSION": "5.2-1",
+  "DESC": "Invoke py.test as distutils command with dependency resolution",
+  "CSIZE": "11604",
+  "ISIZE": "28343",
+  "MD5SUM": "87b9190a91bdfa41fc15d1c16095423e",
+  "SHA256SUM": "a94b632cc1fea39454de704b3336c136839dda98228e8fb572650386972233ae",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl3ZXj0ACgkQeGxj8zDXy5Jf6A/+KgitfpiHdF5DYUH3LVvlCkyDXiRm547EWuwV90xTnpx0WEU7KTDM/NVtnI4mNTtN5+rNQ1Ail8TbsKUbaS72swqcI/1vUew9O/bAThOyebd+H4BO9/a5HqvCBSibDMiG1HDu4zdbjO8u6L5uiw0+GavWihj3QQw7UUrP9hfQsbc1VjQ6tVyoeiRiEQugXFwMtpaWss3ZkaOvCrmCXGQg+oEXQCgo5AkeN9yNuWVBvmi1gdvEI0rHAcL1uGoCNBn3XbrhJLhm/F2rCuiseA5DjH2NDVPLUgX7jfbkcg4prweP7sQd5Upa4sKBQlX4NwuONbe4d9IM0zDxBik3UcxCdvC7XDMWzZ2QLFz+gtes5kAWVrni0dneUAiYD8IFO6lPbeSuXVzgdQnMHAb5AktVbQXq6kYPCGrV1QFCttyCUGTfC5NNwRml+Y73susjsiyMSVIuaxKHfaP6x182u0qPQceauyPXTWZvCY3PM6NqgimHvlTQbWOmIf0glj4MRz5efzNQR03hd22AVq4lEbHEy4jrFYMfkXfdcjFk88Yxrp+N+LwY2SiZbXXCEH5NQxJDTrLHWfHwhQVzmXKckOF29Y0nPC61BJjNaE8thL2LV/CguPDUWUISNJvXgimLXYMYyxWe8ie7Oyw0GsXn8TLFfDyRtD0jPH9lhYtBHFPzKMg=",
+  "URL": "https://github.com/pytest-dev/pytest-runner",
+  "LICENSE": "MIT",
+  "ARCH": "any",
+  "BUILDDATE": "1574525978",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "python-pytest"
+  ]
+}

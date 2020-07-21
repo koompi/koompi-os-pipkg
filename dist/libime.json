@@ -1,0 +1,24 @@
+{
+  "FILENAME": "libime-0.0.0.20200626-1-x86_64.pkg.tar.zst",
+  "NAME": "libime",
+  "BASE": "libime",
+  "VERSION": "0.0.0.20200626-1",
+  "DESC": "A library to support generic input method implementation",
+  "CSIZE": "29148777",
+  "ISIZE": "51912158",
+  "MD5SUM": "643eb3c0f24341f755370cba74485c8f",
+  "SHA256SUM": "be02bd7320a554074dc7f4788797d434bd1e42a6b8d0395252a33382af53b09d",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl71XZgACgkQeGxj8zDXy5LvGhAAoG1v1odAfgO7hg3n6CmzeRRCiaGwMWJa/bDzhfXTJ2mLMdD6WOfr3cZgFEZqYVBkB7gTau8j7T3jcV5GKRNP+QZ1L6+2rWbHIpt+cvlSSPVOZRerrGpl4sNs7zNp8XBajcAXRE5Hl1iJqV1QhZH42u7iiqd6knvorV2pEaKBNtpHOsvnzop+ZkI9EoDhkakzCLGV5e05m6bjZgRpQNe5kEZebQ2gLw5jEtBYQ7lAzmuVKHWFqBbLi/u6ExbC2qxcpaHzZRF1JIZs7SOx6DAVFykR9nHzULmw98Sfk2HIVs3N0pIAfoJcrzB+AmfrGwUoxOUxMCY8NIbfSD0MhE+ZWiwEExJ/GPlhJhudZ9UnQbhb/Cv2qJeNJ94TA5AoB64kTaIwO/Ll3U9djUX+2Q1eRTtfn5/1OpBvoquUhWiC12LkE9EWU5DpE7zNWUIewh3GjNfO7m9EdAKSxObDHlfKWUCVbkgKYI2RPO6R/JSIDq2R6iecwoM6dEjNnOuHJsVw+xloi/B/2zu5xUehyrR3SCARN/pnPGg45ZT3najzo1I2Yhq0NXthppw0R23/ZD4xLM+3CPSN194czxAx/nfrKu6psQQf8LUTxfrd77Std/Mp3FwEPXznCooWrh1g9VKY1kzOdHMUmBJcldgQrfeUMQgukGRmtHvZkv89e/qOZtE=",
+  "URL": "https://github.com/fcitx/libime",
+  "LICENSE": "GPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1593138450",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "boost-libs",
+    "fcitx5"
+  ]
+}

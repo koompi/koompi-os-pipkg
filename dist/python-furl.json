@@ -1,0 +1,24 @@
+{
+  "FILENAME": "python-furl-2.1.0-3-any.pkg.tar.xz",
+  "NAME": "python-furl",
+  "BASE": "python-furl",
+  "VERSION": "2.1.0-3",
+  "DESC": "A small Python library that makes parsing and manipulating URLs easy",
+  "CSIZE": "40532",
+  "ISIZE": "210323",
+  "MD5SUM": "e242b0c4c9b6031d969e742dfdf85b11",
+  "SHA256SUM": "c0074910f67633cb64d3c5c726b5d64b21eedef7715fd8695cb44715ab8b4df8",
+  "PGPSIG": "iQEzBAABCAAdFiEEhs/8qRjPOvRxR1iAUeixSKmZnDQFAl28MjYACgkQUeixSKmZnDQGuwf/dcS/8cD08k+3PbuvyY0m5eldblRVM79Wq1IsHb+MlaHeW8qXwMWeh6h8HjEiZLf0wPKIrLM6fp9DtBtXCeS3acD/LZguaIhoKs/qzCf37HabIY0p2Cv4oyG9TrfW2qE4Y6NcpaRC9PrKv1tF4ZQhC7q9R/A58rxIvBAj562HcDD1n8oF8ymjBXTzPUNEKBaW4sggwfQgX6LtkXq3Z1K674yRLkOedjGEymIftothMbIrmV6zh4yQOrs1RwGQNL521z6hmqDP4+SJ4QP9d9fxNRvdzMEkoq1EBQDMtupe5rHZXHpqJKgVJu+Uox84nH9M6s5rT31BE8wq7JvLvaGL4g==",
+  "URL": "https://github.com/gruns/furl",
+  "LICENSE": "custom:Unlicense",
+  "ARCH": "any",
+  "BUILDDATE": "1572614678",
+  "PACKAGER": "Evangelos Foutras <evangelos@foutrelis.com>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "python-orderedmultidict",
+    "python-six"
+  ]
+}

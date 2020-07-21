@@ -1,0 +1,24 @@
+{
+  "FILENAME": "python-validators-0.15.0-1-any.pkg.tar.zst",
+  "NAME": "python-validators",
+  "BASE": "python-validators",
+  "VERSION": "0.15.0-1",
+  "DESC": "Python Data Validation for Humans",
+  "CSIZE": "27083",
+  "ISIZE": "118515",
+  "MD5SUM": "2490a9cb751e8327ac7e26049569e692",
+  "SHA256SUM": "7bb32a7e4742e5b941c3a2ebb300acbf7316f8c107584d6d823ed09addbf6cf3",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl7EPVYACgkQeGxj8zDXy5J9JA//YUlRiyk5earhWY5YbuBW3jEu1WUPML7KOakdigFYN3u9PDdvDwEDoYVpWiMtkYT6IDzvR/5X+ZsmKyunxoQTazAVl2/e2POOBSVIwvhmJpdHDy1/51I7T8/ItKZ/dKx0+F3qtWItnbMR+3KQGxDoHoAK2V7TcTqqKefQNPvbHMfq7giW2bihk0Fc8zlV/5uTwLecgD6RtRal901XJ5QllkOzqewHU2aA1CAddsE8OrK41s34WBnTjRwe5n5RbJm6pUJpGGlsum2OKx72NYJxEtztXL1mJcSweSGLmhMKpKYwuSapgDK5Y5LtDxhk/2wDuv44PaOeEEuQ9T/UMf7ZvCVRdt7PTlEckKosRt1UMTC6ndE023bC9IOrV7X4c2KEV+Gl2yQAp2yLe2EM03S5J1etQ3X0nY5OvxWiv4mOiWshndcxIP7QoEMqwVRkOUx6PQYs54DPWSy4gALUjEfa13QwRqN1H3eBmepfv7SbKC7wZCWjV5n/89kRmu+HY/wygDUiCL6QAkRFRnXM2UKqs3keig67pbYf73qeiBKKt+jfbzDtMYlVEyTk6PWYeMQacfLfreq3I/3e5UchLmQN6zvQxTNxBbRBG/VZH/ftLdSIKmeVv5RapmTLQSR2p7sIcX7XcC9+oxHvwd38GCAOxozHVx39FnyR3nGhx3xrkVo=",
+  "URL": "https://github.com/kvesteri/validators",
+  "LICENSE": "MIT",
+  "ARCH": "any",
+  "BUILDDATE": "1589919002",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "python-decorator",
+    "python-six"
+  ]
+}

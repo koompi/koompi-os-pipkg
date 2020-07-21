@@ -1,0 +1,26 @@
+{
+  "FILENAME": "perl-xml-libxml-2.0205-2-x86_64.pkg.tar.zst",
+  "NAME": "perl-xml-libxml",
+  "BASE": "perl-xml-libxml",
+  "VERSION": "2.0205-2",
+  "DESC": "Interface to the libxml library",
+  "CSIZE": "280697",
+  "ISIZE": "742067",
+  "MD5SUM": "6931b66671f205bef4c18dc3590e3e39",
+  "SHA256SUM": "02b250da8e090d794b075e8fbddf58735987ebe37adb36f95afc8bae1f38a5e1",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl7vfR0ACgkQeGxj8zDXy5IhoRAAvQlC1NuA2t3z0606Ghg6VbjtJa24TBZmYe4010KNrn/PuAj1cyLMoRlwBo9gY43u6LD55onsSQsRpHcQQFMKGpC02UKEMNFVP5wRv6wt8aL49RR8G97AlFScaHsTChl0/zjZYHKbRtN+eWvrOIeseVNZAiOc/r45yQrwwz+3f8sazd8ltrGUPTgGB6FjA2njKPLS+9I0mBvP2yxP2Kj1FWEzBoojCqiJXjhqA5byUkZy+UAcyo28dPBguqhG7b1g5dyO6aFdKzkOpTN6q57dyxbz5abhqUWtkA9aWG2p4sDJcXSbzzQHx57C4lD5U1i0Ysq8UVY0hGHz0M1p4XG8kMsmz6YqgOAawI/82X6Ddm/kFOP6OOcIZUVL9e6Yaa43wKGo0mSEl4NAZXYFd1jAFed4FwlqfpUn/nJwN4JZJh671NaqyVlnWXnh+DgKBQj4uy6QcPWDmqmM75y5X6YbGmniX6jFdb1GwKpP9Ci2c5ywVP18MF6CwWBR54TCMDSwfc7oB0Eqb1Y8IjfsGZbDXypfy8hMM094NlewsSdjYi0Bg3O9zwyC73p8f+zzKO2YxnroWJNwP7TscRa/99eXvVsgsrf23vEgMqp75aVkfsBZfW52V7sWkieIJwiaUKjUdptRpKf1pYVNWG9RtJraYa631jdVu3u7YpyT2F6KhmA=",
+  "URL": "https://search.cpan.org/dist/XML-LibXML",
+  "LICENSE": "GPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1592753326",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    "perl-libxml",
+    "perl-xml-libxml-common"
+  ],
+  "DEPENDS": [
+    "perl-alien-libxml2",
+    "perl-xml-sax",
+    "perl-xml-namespacesupport"
+  ]
+}

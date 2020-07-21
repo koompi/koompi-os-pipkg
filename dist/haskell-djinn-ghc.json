@@ -1,0 +1,26 @@
+{
+  "FILENAME": "haskell-djinn-ghc-0.0.2.3-31-x86_64.pkg.tar.zst",
+  "NAME": "haskell-djinn-ghc",
+  "BASE": "haskell-djinn-ghc",
+  "VERSION": "0.0.2.3-31",
+  "DESC": "Generate Haskell code from a type. Bridge from Djinn to GHC API.",
+  "CSIZE": "22555",
+  "ISIZE": "70648",
+  "MD5SUM": "3f66b09a1c9fdfa48ab8512105f18385",
+  "SHA256SUM": "2e49e120faa47c6111f4015c5893a66f8c38cfee286cc24be2f9915065b7ee19",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl75BPgACgkQeGxj8zDXy5Jv3BAAtYCFLxMH3uLlvun48PZRmc7AvOGU2tMS/YBjyOFFYAl+XndxgPu8EFBwkfhwH5fUTk3W6IMmlBnrfg2UZYw8GDrnw2vBqv6K4K/Cv/1a1hyNPvjDOOuSje6szeKhMBDdkTaiILFhT+FDqmo0Vtc6N1Qq9xC5CBbaBWmD6qhbGjwVuYAmGusZcB/gzTBXFjBFFgacpRxd4ZLR9EhVf2jrXY3Q7mCMtarIumQImPhJewi/I7ujp9Vg8ojJNwcK1IxBeQ7qg1CH7o5VDNfLRWxXyFPvuyKG7ChV3oZkKmilZR2bupqdpj4/EphOIRW48d0mtYUJxX/9IeOAhmiNDb1G8YO92GG8f8Iski/flcj3Rt96AQ87R4rEwLeJxlW7eg9dEbCHgM6t4szvFnEcA7JyWYRo/N+Qpbbh7Ug8ejex4mmU/q3bVS/D+EoA/uJZmEdjYfWcxxxjOSs8O9wCys6CptQSH6ekByx3LcmrFIri66FsizIeSirBXqHmtsz07sLf2vlN5z7nFT1nNCie66rEN/tQu65qni+/umQw3XKqcJ/ZDTtXDNfWMi3++Ah4djVJf077C6tz3nOLdWl3bQ9XtZJeQYMB0LlcMUDDSVc9vcPZ5UlH5PNRzkZ+3T2FnFjcsy8ria3Y7eTnbkdm3T6gFqpFOXyi0Y9+kxiXLW4fPrI=",
+  "URL": "https://hackage.haskell.org/package/djinn-ghc",
+  "LICENSE": "BSD",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1593378017",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "ghc-libs",
+    "haskell-async",
+    "haskell-djinn-lib",
+    "haskell-ghc"
+  ]
+}

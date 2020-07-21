@@ -1,0 +1,25 @@
+{
+  "FILENAME": "ruby-unicorn-engine-1.0.1-8-x86_64.pkg.tar.xz",
+  "NAME": "ruby-unicorn-engine",
+  "BASE": "unicorn",
+  "VERSION": "1.0.1-8",
+  "DESC": "Lightweight, multi-platform, multi-architecture CPU emulator framework based on QEMU",
+  "CSIZE": "45544",
+  "ISIZE": "450342",
+  "MD5SUM": "d12cf725cd250b44eb89e88f5966cc31",
+  "SHA256SUM": "241b8c0721a9d3596f0d885b9e0dd66d60369918cf82662d54764a5276bb6a64",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl4EFAkACgkQeGxj8zDXy5LD3Q//XMAF371WWuotayv7KIfphpmnL1v/juj3fFOFnRffJAC4zeWiQ2HCaJStOXdGDc0IHgLkYNWFBQLuX69tKojAhaEcyFoq0u5AlF6K1hznE6It4LuBf+dxnEjXzIsJSI1MUkOoYokGgiNdnds8sMXWj1zgPNGLyKGsTzawGthuc2MAukqnX+64nTDXon3cwqb2Yvcboa+w4ap/msbHIyTCYZ0uEZb3y+5581JHwfGmJDtTg1bW8e+7F4PrI4pPArCHnWBEXiq0M8ZU54XJrlb1tPBk20qeKG73KmrcTCnwV98crua7GVenAbRvpGM5jcGgORf7lvWkz6X/woyW7yNXoLJcJYcHn1b6IOKOF0dGlgjmwg/3u2FzEmi2XjKnZkgBufGsaV3VGRnGtLVyaahucsVhp3hrla/xfdSgWxlt4trPEnsgw4NdUXjsOOSt1Q6Wxg1t6EBNLzDDW07LGo9cMrqWL/FZ0bgL84zbTy8qcY67FfhWoK17iIsNpxKpT7XzN7psPEghic8RIgGliTphmK9O2o5Fnykp1zrjxIGKwaC3RyxivcBLpi3DcYFw1ll5fwZWI87iSR4SzqleixDUWl/++nZGPA4lv8sqt6lHPFWTFydbbc4s9j5xxp1l52sKrRt8h/GFGs6Z+FrsNtTj0VM5AzIYu4VWZmE/78S2HVM=",
+  "URL": "https://www.unicorn-engine.org",
+  "LICENSE": "GPL2",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1577325175",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "ruby",
+    "ruby-rdoc",
+    "unicorn"
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "FILENAME": "python-frozendict-1.2-6-any.pkg.tar.zst",
+  "NAME": "python-frozendict",
+  "BASE": "python-frozendict",
+  "VERSION": "1.2-6",
+  "DESC": "An immutable dictionary",
+  "CSIZE": "6086",
+  "ISIZE": "9011",
+  "MD5SUM": "6ac0496c24ef23682580e5fadb796e22",
+  "SHA256SUM": "4a6d15e417029b9a1af6cd73e6ab13d3e5c5b2d0a99a2c2852d5dd9e01a4b827",
+  "PGPSIG": "iQTHBAABCgCxFiEE5VD//9SF4mShcX4wkBwcMg6w1F0FAl4NELJfFIAAAAAALgAoaXNzdWVyLWZwckBub3RhdGlvbnMub3BlbnBncC5maWZ0aGhvcnNlbWFuLm5ldEU1NTBGRkZGRDQ4NUUyNjRBMTcxN0UzMDkwMUMxQzMyMEVCMEQ0NUQzFIAAAAAAFQAVcGthLWFkZHJlc3NAZ251cGcub3Jnam9oYW5uZXNAa3lyaWFzaXMuY29tAAoJEJAcHDIOsNRdZGMf/RCg6P/dwOO6AEK24xyeosZwQzgNKTZtj1BIXNnXZ0F6237CZUuWLIU16zUSkd4haq3aXS0iXCQgXmKm3ziAaZoxGQbDzKoxkInkbhAviD0kl+mtYJ20PYuw6gyhGUmYfiJAuoWbvCielP+rJztOIaO7q5KTCT1/iU+Tjt8fo2Eje8SwKqZ0qhjJbupx20Fi9aS/CAd+o3fpUQD3taju/RpaAEksJzfOwE8TzNATS0wJNCGhOTDP27a2isvaLY3xzaE1y1+QhhN2/UGK/a9DFJDA6R8Nj9GmQhSlsp1mgWriPmgbupXQhTayyq/HN80GrMKfDCfXfbs1atWoTpzDGhvc0uCtrIpVRTGlMa+EjpAK6PdV3DMHVBoBfBrUPBrlRkxbfLvBwNHzObLsymuVV0WOOgneWrSF9xkRYtuZZkfQb8jRAktIEQlKMOAItQrnuJGLtOiiAx9zx+5jTq5z6OCMLR5fhEtsDq9gV8nGqi6hwb1fIcSl5j2u00qoUDxWDMXZEw4LtBNxcpRw8SxQbneG3nvK3hWSWj4w49vMkcWhscq9Pw6J/yMdqdvgHcIR38KUV6qSHj9ffoAZ3hIX/dEXr60wC3eEvUsGUJnfMJDxiCY2SE/UwOcICslq1iJbAaB/Q5MK32eoNR2dHVD0U0I5ogNttgpcCx67eO95GMwCetJu2UAisFq9Kxn9zuG8BXnLLecqON1zcQju2VU+dISWGHRfV9MTstswIbT0wTCZVY6x8EpabCCf84Nq6Cac5aim3s4M67dcrRG/aIhEnKEVDv36RDmm0SrewXitYym9RAu4KcGX0qlh5ny7uiFEZ52vWLme1RIOXqh9Bt1beSpfXBDV7OFlgS3aT2x9FnGStdEmG0XG0DwNKAnKwsF4X8JdsHT1rXhWnNGsogLQ7E2pjmAzOOegyynO9uj0cT9TaSlRuLhjcq7Uu3sUOkR5TnVVkrtY9O5TRrgFrh0MDDbF4NEYjt7jXL0qkDMByg3sDDLlhpSBXL5mr+mGxX9uwIhpzrFlr5wXm+2sp5Op5Bxdt0+w0WMMBbGy3+hiZHhFOgv+wSVkNHmhUApFDRd8sRoMBloG/D64i3ek/og9vDuR8bdMrrSMtB8IQtyDn8sONNRxYf7wRU54LZ9f5brmmKTc+S7QYZ5Y5ZHtPIoE/MQYeQu8A3cdOhsMKByyNiiLNqnv2pZR6+LjnMuy8OGgy6kQK3DcqJj0cgEfqeJwkgRiTBLujirwcC0O/HKjGCJ5OQAD27H1lp6TqLdDiIusn0oXpn2Zjf/FcWlm8zois/YEqe7v83Yd3cta30EzWnr23xJitbGlMfwPBeS3Aj4FCGV1Io3KzxSXfQoEV5QFF78=",
+  "URL": "https://pypi.python.org/pypi/frozendict/",
+  "LICENSE": "MIT",
+  "ARCH": "any",
+  "BUILDDATE": "1577914507",
+  "PACKAGER": "Johannes Löthberg <johannes@kyriasis.com>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "python",
+    "python-setuptools"
+  ]
+}

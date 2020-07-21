@@ -1,0 +1,23 @@
+{
+  "FILENAME": "renpy-demos-7.3.5-2-x86_64.pkg.tar.zst",
+  "NAME": "renpy-demos",
+  "BASE": "renpy",
+  "VERSION": "7.3.5-2",
+  "DESC": "The Ren'Py Visual Novel Engine",
+  "CSIZE": "33655373",
+  "ISIZE": "38713463",
+  "MD5SUM": "d0f5bc9bd03a8ea953f7d64ee3455fd1",
+  "SHA256SUM": "526dbef39c0d700ba414cac115346f92f7525ac2c39655c2de3a19d3f5320964",
+  "PGPSIG": "iQEzBAABCAAdFiEEhs/8qRjPOvRxR1iAUeixSKmZnDQFAl6kYnUACgkQUeixSKmZnDQCfQf/YX6mBSBN1NKJxJJF3fxSJv8s9Jfm7y+zZBlmzGMD2OaRSnit5SiuTciTgwlXmk2QDqo7DHpVYj+7yQZI97xkQqwjTpRC/j1CGeM3qSQV7WdF9X1VGVXc/WzXGyJ6lZN9Q4JHjunV/57zMx6srzpQAlbW+hqV0nuinSNMUV7/B7SQyz33HwjDwi+jE0QqH+z/j2foRxs5Q4dzwxI4kspdHjCYEiKGuy3wcYkWMsZKOCRX3Gg4Apk7AnLu2G/3udpAb475Fo5ra3AbiasUDQyypWQx9cABVVLx8kG0Dt1I5v2W2LiQtJ7FQY/v9LXakrXAW/viOInaTJDnuPFls/L/Vg==",
+  "URL": "https://www.renpy.org",
+  "LICENSE": "MIT",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1587831155",
+  "PACKAGER": "Evangelos Foutras <evangelos@foutrelis.com>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "renpy"
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "FILENAME": "python-ansi2html-1.5.2-2-any.pkg.tar.xz",
+  "NAME": "python-ansi2html",
+  "BASE": "python-ansi2html",
+  "VERSION": "1.5.2-2",
+  "DESC": "Convert text with ANSI color codes to HTML",
+  "CSIZE": "19932",
+  "ISIZE": "72411",
+  "MD5SUM": "d7025b8aa32aab99b04b4abd3b49e673",
+  "SHA256SUM": "dd874289696629c1a8d13258a99d5c5be4b0e46f8ba469811234dc50620e6baa",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl2/paEACgkQeGxj8zDXy5I87g/8DOPlX3Gh8aNqUqs50iEe8OrRQM0pDl40+sQgpwY6hJSjvRiMfmMsqkSA3TLpVHP1vxDpcf67al0DCHj7/MHugZPDr0V/90NngsodJ3ZrTAIViuqHx+v2VgYAnZrCfITAd7TMhlnAx5hID3tvzfaWNcxNr/wcPHhmkBX783ouZjj9BvXTfbG47Ad4NUJ0mNBpcan/4cBjGdvenRYKTNxB0uyUlPH2EANUhdGP4OyetOc8GB++6/nNUZi+Kb877lBGUONw1OMz2czFMZrMR/KFDuspQ8lV+lJ9MF7iqTAEvxa6q/6Z9+mkkECqkT353lp1VasVoFgWZTUY64tqmOAPT3V1itLYIPpOblB+xnSa0bI2hSizB84GztwpdEuMwvU3PX3wyE/ft9jRiKHDXLd1D26HPJU6Vt4oLXHUaCfGP6/5v3ccA9WFuYhyz3biGDHAjKsnaSuCxq46MTd5xrqzY92hpKZd+m2scyF0ezpqJdIdt+hAtN4LjmZLeHFBZDL/3dQcUDb9QH+otY9XYn3uOmdlhX4c6gd6Zmo96x0CkuWIrHqzgluglLmUocepDaMvCLe/K0JsGpGzytIdXVRwR3J2ZDcqzFumlTpD5sL2XciF9i/TTysETM3RU/1BVu72ly2I830lymbgZG+RlHmQcp4EkVrOyMt87ulsW2JcKoA=",
+  "URL": "https://pypi.python.org/pypi/ansi2html",
+  "LICENSE": "GPL",
+  "ARCH": "any",
+  "BUILDDATE": "1572840843",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "python-six",
+    "python-setuptools"
+  ]
+}

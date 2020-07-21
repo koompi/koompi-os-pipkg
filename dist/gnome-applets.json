@@ -1,0 +1,27 @@
+{
+  "FILENAME": "gnome-applets-3.36.4-1-x86_64.pkg.tar.zst",
+  "NAME": "gnome-applets",
+  "BASE": "gnome-applets",
+  "VERSION": "3.36.4-1",
+  "DESC": "Small applications for the GNOME Panel",
+  "CSIZE": "7677241",
+  "ISIZE": "19680057",
+  "MD5SUM": "bfedd72f648e8f2b7205fa9732650310",
+  "SHA256SUM": "73ca10de9c171ce88987101efdc9bda166df506c2f410533dde4745bb3c0cde5",
+  "PGPSIG": "iQEzBAABCAAdFiEEzgvecadZqH8j8PfYth284QkBwWMFAl7OgloACgkQth284QkBwWOtBgf/U6SzyS1C7Ek3cUYXDlo96y3hf9orvI5ROK4vbf37P4Kkl2uBWbgI3WioZLRWIsSK9C2vDzo9Hy5j7yJxiT1ShSnl+bX3dpE0Hkr777jPAYYuCuiugsqcszjnDqAtbsAl65je4M+ppZu3GmrLzB3nBofbw8WjvlhMUPaiPv33CDvqJ7311DdfmsRjwZMgnAjPXdkWHwGpEGnOgvGl3SZlzW6lkCPHycOhb+6fbGuTbOd5UpTb4ChbUCJL/jO1l5i/SQdoP00cnsLTh9cjTllx3F7D6zx327DqcUdCGNdUXajKQp8ELjl29Fj6XiT/4H4wa48VaCF/rkbE1ibsutcqpA==",
+  "URL": "https://wiki.gnome.org/Projects/GnomeApplets",
+  "LICENSE": "GPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1590591854",
+  "PACKAGER": "Balló György <ballogyor+arch@gmail.com>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "gnome-panel",
+    "libgtop",
+    "tracker",
+    "cpupower",
+    "upower"
+  ]
+}

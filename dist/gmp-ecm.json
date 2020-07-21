@@ -1,0 +1,23 @@
+{
+  "FILENAME": "gmp-ecm-7.0.4-3-x86_64.pkg.tar.zst",
+  "NAME": "gmp-ecm",
+  "BASE": "gmp-ecm",
+  "VERSION": "7.0.4-3",
+  "DESC": "Elliptic Curve Method for Integer Factorization",
+  "CSIZE": "232992",
+  "ISIZE": "785240",
+  "MD5SUM": "7a30ca775b1c099aa42f9d3a06446ba6",
+  "SHA256SUM": "296acf5e0005dfa9cead03a9352e78f6e0cf0eb0891232b14e068dc53e49c280",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl8EsYAACgkQeGxj8zDXy5IOoA//YAnJ2y5RvkfedSnbdfPL60RbNpf9/Xgysoo3WeBA/zfHEmDUeAGzvD2hOvY/MfrgqYdHOdTLqhKo7nU7aABTt/v9poiKtI8cslI907J75HIx/REpVEvB8rSvlhJz6u05zane5ebrnO8ISUXC0DIWjm5OEhZGjbjIK46cS2lFklkEHM4EcknkNFT55NG9UWErzba12IeqDq+Wpg5QkB1xSoZOVY788uRh4HMIPUYSnUWf/gryRvJtBcO7dIhrfdgGC+hyveBULy+4I3sXZdTzI1HvjkEAMWITV0oMoXm1nmnD8+dMWx2L4mPzy1mSxg7+aQIMRiCx7ftlaEvB3iKLFvNucWIRmOuUU7MW/SJ2ipxPEg7q7YSWQZIlK9AYuGAQam3l2LweQFHO1ipecFmCgvhXbfP7ZTAgIe2ikKg7wf1CXyPyNFXZd0Tsikss98VwMpkBfFQwq1DQWrYdUp0caLBdz8Z+dmXgD8udbKHaWbbYrpqbIkzlPSdsNdM4CWwxDOECS+UajIxkwwzUbJOQyGkZuj0qAs4mNNFErDLrj4i7XRMjqHWXfg/9nj7UXvBdeDWsE2+AuIKXOrLCT16xBY2ED8p4HN1YlCW8y33Fbu6KS453pudBU2SDQ4V050AStj/h1BTZbjJRP1oWQnE+8idGk30ycBQeCbTTqRF890A=",
+  "URL": "https://ecm.gforge.inria.fr/",
+  "LICENSE": "GPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1594143006",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "gmp"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "FILENAME": "libslirp-4.3.1-1-x86_64.pkg.tar.zst",
+  "NAME": "libslirp",
+  "BASE": "libslirp",
+  "VERSION": "4.3.1-1",
+  "DESC": "General purpose TCP-IP emulator",
+  "CSIZE": "58931",
+  "ISIZE": "129646",
+  "MD5SUM": "6a59b723f54eb69896541be84f985bdb",
+  "SHA256SUM": "de3ecb4109e22e654660226efd89e7d0938d6311c9d4969c8b2848ade3455df0",
+  "PGPSIG": "iQIzBAABCgAdFiEEktnGzemaICTWkKdu50JoO6CMsv8FAl8Lde8ACgkQ50JoO6CMsv9HfxAAwy+0Qmd7wrVfBvuUahuByo4iZ2FV6hg913xciXC1QNiFsfOhPUxdizXtAQWOgLYoqWWZvu6HnsKinapip+pxerfTW8JeibOJUiab/TIstpZCphxkNOm/Q7irt4qlg5knwdw/VBMMAu9f+IZH1UaiKKKK2Qr2P0gO4SYNwMgz97ijEgz271Pc926euhDBrvAC/OcLQ/WK98AsGnoxpIyFMtGybTmiwVHh1QcKSdbxg6TcLSuqVaISmKGdB1TnaDkZ0i/CS+fZfi0qyf0lwUFFBDfllKMgBKUVjoQnn3BAWJDKYTrxNkkYKy4kGdrvIfUZ8s/NSzxVpgEf26MHqPLT4BqLSAvE/HyfZjB5kwWXkzPuMJtZo5DTsm1NAirODdcHBDbsFHUttGX+0tByjSeTxV+wY/T/x7LJXnEfbg0833W1aFmWPZmj3JIHrvX9GHflHgHRwe1jLPzIDoK3xBWfpvqcSn0+EUTjiSxBixDvc4jKjkkocZ9qfXtlTGDJnDwfkgpgc95sOPZnvD/FNI+WPXI50VAumA/41+XHbkDizNajkLEDMe03xghrg07JjSLcsOGGSLcHNdORjB5bqXMpY1wAXYVzB2Zc1YmMikQUNvbYaZfUUeRBNDmVAc2mng9xqVYYAh0rbqfCz2JhTyGTDm2W0CueoiuWGRp/xB4ZbfA=",
+  "URL": "https://gitlab.freedesktop.org/slirp/libslirp",
+  "LICENSE": "BSD",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1594586561",
+  "PACKAGER": "Morten Linderud <foxboron@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "glib2"
+  ]
+}

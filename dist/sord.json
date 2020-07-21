@@ -1,0 +1,25 @@
+{
+  "FILENAME": "sord-0.16.4-1-x86_64.pkg.tar.xz",
+  "NAME": "sord",
+  "BASE": "sord",
+  "VERSION": "0.16.4-1",
+  "DESC": "A lightweight C library for storing RDF data in memory",
+  "CSIZE": "37116",
+  "ISIZE": "123292",
+  "MD5SUM": "21b8d80300f2cf42988aada4b56e5268",
+  "SHA256SUM": "7c8f21ec47b64c429583fd14b8aa470edd9aaf13429cba4f178107cc6eb8ccb1",
+  "PGPSIG": "iHUEABYIAB0WIQTH54SUZv4jWDQ1iDdyWHNLQcMVSQUCXcl7RQAKCRByWHNLQcMVSRERAQDJIsWLM49+zNdkEFhar2mi6Kilgt5yZ18F3WYOY/9kLgEAoJwS3Wk+sZjPF6Mi6YzeKos01fIy2IBdqg9Cy6tfvAM=",
+  "URL": "https://drobilla.net/software/sord/",
+  "LICENSE": "custom:ISC",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1573485140",
+  "PACKAGER": "David Runge <dvzrv@archlinux.org>",
+  "PROVIDES": [
+    "libsord-0.so=0-64"
+  ],
+  "DEPENDS": [
+    "glibc",
+    "libserd-0.so=0-64",
+    "pcre"
+  ]
+}

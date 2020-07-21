@@ -1,0 +1,26 @@
+{
+  "FILENAME": "wpa_supplicant-2:2.9-7-x86_64.pkg.tar.zst",
+  "NAME": "wpa_supplicant",
+  "BASE": "wpa_supplicant",
+  "VERSION": "2:2.9-7",
+  "DESC": "A utility providing key negotiation for WPA wireless networks",
+  "CSIZE": "1354982",
+  "ISIZE": "5823357",
+  "MD5SUM": "0c901f6f2d8fd0bc451a236036ad8280",
+  "SHA256SUM": "6cd74b6ed6fc9548660d422ee6e4d714312e6661251945e6086a10ac0e9437fd",
+  "PGPSIG": "iQEzBAABCAAdFiEEghj4iEmqxSLpTPRwpekojE+kFfoFAl5RcGgACgkQpekojE+kFfpGXQf9EQ8+PGFuKkVD3vHrVkvMskh3HibhwGi+pj3RPg4u5FVZOaGxTUl5W55rDBh9LRhUn0+7ilKKa2VTNBtduX2FGVGIdiN8JBhnvm1ujuNe42P3Uqc0ZtQWFvJMwxjRNWrCIPIFQ2kdMPV7FtvIRfM+u/sGRhiBgM8ZFRh4gOkdwplA8XvVi1m0lnrDvTWkdh+eO5NVU0lK9Nb3zpaOD4oteSAD7/cNJdaxITNApnGUIrwMFIq39pRGQRCIVHlpBkIMiQ4hQWKhFXss3eTq58HmtdsX1/lrNrMHC5iUu13fM8SXJ29OC8VHEKAqA8NgmKHd7UKGsFLjLeJeNhJEIfErUA==",
+  "URL": "http://hostap.epitest.fi/wpa_supplicant",
+  "LICENSE": "GPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1582395440",
+  "PACKAGER": "Jan Alexander Steffens (heftig) <jan.steffens@gmail.com>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "openssl",
+    "libdbus",
+    "readline",
+    "libnl"
+  ]
+}

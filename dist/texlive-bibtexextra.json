@@ -1,0 +1,23 @@
+{
+  "FILENAME": "texlive-bibtexextra-2020.55376-1-any.pkg.tar.zst",
+  "NAME": "texlive-bibtexextra",
+  "BASE": "texlive-bibtexextra",
+  "VERSION": "2020.55376-1",
+  "DESC": "TeX Live - Additional BibTeX styles and bibliography databases",
+  "CSIZE": "3348810",
+  "ISIZE": "25607690",
+  "MD5SUM": "a705f128bd59d8f6eeb02d647821dce7",
+  "SHA256SUM": "c632e34b18016b7937737fae49d1e071988067f3f43c8f3fea4dd949bdd1ec34",
+  "PGPSIG": "iQIzBAABCgAdFiEEROpirNvIG2oNH9JnIGy8iS0Uk9IFAl7dXH8ACgkQIGy8iS0Uk9Kx7w//b6hhQAcBAYS7lTOT54FfE8RkwgOFx2MVMtqhWwcDXlT2b4t+kbRR/VxXxdTYl9buNyaVKcS2UUXzsvLynSdXH1e89PHR2vjvcn3VX/PpTMoJKH87V/sUHg2ds+HCmsafJTZh/sR0uW2uk9yXHXTAw0tJRgB90n2tCdiScPbAT2IXT/Enhc2iNajmxFXaZmZ4h1Jyat2uPvm6wKA0dolD9HcnJowYJbJuLvRt/v+Ohezlh7vF4UHY/SM1vGFoxnQich0U50NAkLRWSqD47ca6p4yLDp0ujknlBr6mWsdFxLKrOb1y1aJVaJlxnwAkgskSmQq2A/jsYAWc5eee7ecfzsIegtpfUQMFJ1IUMZ2xY6bj3g8DNBR1zBJTXHsjS4+gY2VTpBnN1VnSTgWyTqo3YWE9mq6yY83Z34bsZfXFIg3ERKm8dMFIOwsF9Fhrvu+pfzPgFoA63L8Vrogd4LhYq7+LhsKzvDINuzf/WXB/yN/R35GaS2Z20fD5LIuS2yZLIDPLdvhoL/3e5myVON/UWC1U3KPdJbKfEo4T3E4h7l6Jb6b5goKs/sj7fwITaD6rHMgXwJ0smKzIpkIsvdzHlpgaANkLWB4ASTjNj6PGy5+yWu8OgYZwgezXAtSnqHHKAWfnmM2ZOEHsk6fpTRNMgnufjC+FGdxTf2/6LNpJv28=",
+  "URL": "https://tug.org/texlive/",
+  "LICENSE": "GPL",
+  "ARCH": "any",
+  "BUILDDATE": "1591521742",
+  "PACKAGER": "Rémy Oudompheng <remy@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "texlive-core"
+  ]
+}

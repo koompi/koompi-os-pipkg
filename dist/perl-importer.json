@@ -1,0 +1,23 @@
+{
+  "FILENAME": "perl-importer-0.025-4-any.pkg.tar.zst",
+  "NAME": "perl-importer",
+  "BASE": "perl-importer",
+  "VERSION": "0.025-4",
+  "DESC": "Alternative but compatible interface to modules that export symbols.",
+  "CSIZE": "24216",
+  "ISIZE": "51487",
+  "MD5SUM": "0e2ed28ec15142b2997f6dbec9475b02",
+  "SHA256SUM": "7d495222a86684b4affe15fd159b1cf724e176bd8bab76520c679e03739bb15c",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl7vNj8ACgkQeGxj8zDXy5KqTA//SMXX8R24dm3hRgD7gK7/UlvsTgCIVweXtaBWogOld/ZoZxvjywVzqpYGkqFxUtmJKWMzPNY51PcToxbbR58PVtNzR21nOOO29MjEEg00Nsdv3HCmPUE4YQpGa07BSOuZ7Uqg83/XAoG0SWxQ+08xI5ufsTngsPU9v3lIUiKh2gQhyi1Q1OOhHpIOFIJBB/Kja4dCUzoEMWjgmYiUR9yB1SAnN1YkpuG657mTwr71QE07Vhk6cfelnEuSH2JXGsuz/iuPvorWL/FulyuChthxLGLxmoewKWjZl+kP5TTu73kNezpQm/akZPYxMK2EhY6GaUNxNF6vokeIAyexEdNJ9KlSmi7A1s59BbbXuD1dtgcXrCuBd6uGe9hmBaOlCWAk3lOOIUQXl/a1XgIVqUNoszF35CfDwDSzoQPeLWBSkS1iU5QDoCNiZSc0pRWShQ9J2qVyxu/ys68dwaVrID5KqQpybUAyYYYliBS0Ec/C47O6TkPK8tE/JFv2UYi+5xFjIksCQhEXLravO3Ub2nKByMReldpHdpVUUQ6wr09rArJvnNDSwUBfv51RQdJp+YMMKV8390m9hKs/QA2NqgerfTojcyUaonCeVGds/C2p8KOadUFD1jx5CA/vGhCsxOn08HtUFyDcs2r1DdUbYvQJiGH9wPhcPhxNtd321cI6NXY=",
+  "URL": "https://metacpan.org/release/Importer",
+  "LICENSE": "PerlArtistic",
+  "ARCH": "any",
+  "BUILDDATE": "1592735279",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "perl"
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "FILENAME": "lib32-sqlite-3.32.3-1-x86_64.pkg.tar.zst",
+  "NAME": "lib32-sqlite",
+  "BASE": "lib32-sqlite",
+  "VERSION": "3.32.3-1",
+  "DESC": "A C library that implements an SQL database engine (32-bit)",
+  "CSIZE": "535943",
+  "ISIZE": "1133120",
+  "MD5SUM": "0413078dc58d8136bb587b5d6d04888e",
+  "SHA256SUM": "e04f052fee305c2cb30c630f75552bf9086d40f66f20cee2ae9185c204f303e0",
+  "PGPSIG": "iQEzBAABCAAdFiEEU1+MAzlFDwVKTSgnBglqatHO3awFAl7y8csACgkQBglqatHO3azwVAf9G6YBWHgK2kfpg2E4z7e9eWHC0qxXkSKtKKQsCj+Nz/u6Bz/rh2zfaV1YEaDBrt1/STz1/v7gEgq7kkAoov9KN9zZ45CyXkpP/jePWVeNi2IPrKrxQjVm0P98DhzsUTcM5yppt/EZvZ6XGGqYSKBf4a7jcTPSPFh+3gwGjUj8jmDw81Y2ICSIw6+cX6bnAc97iLZgbNSw5m1ho0oBjPLUcPDL/5g2ojtDUoxG36M3pO3IOX3LHuYoaGVnmA23JnJ8CElAM5rFzFpvg8qhYLOE3z/PmmEMCPcz+4Wna+U7M9aevcEt67Os6RpgQgObFJvMzjggn4L7g+T7mD004CG4jg==",
+  "URL": "https://www.sqlite.org/",
+  "LICENSE": "custom",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1592979840",
+  "PACKAGER": "Laurent Carlier <lordheavym@gmail.com>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "lib32-glibc",
+    "sqlite"
+  ]
+}

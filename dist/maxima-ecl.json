@@ -1,0 +1,25 @@
+{
+  "FILENAME": "maxima-ecl-5.44.0-2-x86_64.pkg.tar.zst",
+  "NAME": "maxima-ecl",
+  "BASE": "maxima-ecl",
+  "VERSION": "5.44.0-2",
+  "DESC": "A sophisticated computer algebra system (compiled against ecl)",
+  "CSIZE": "20507743",
+  "ISIZE": "83301568",
+  "MD5SUM": "b7263344e8aa2ffa9451af7c61525103",
+  "SHA256SUM": "f33aee0206c9f4f6858cd8244ae38e239878b6ebac7cf3cbbe814e2a7d6d52e9",
+  "PGPSIG": "iF0EABECAB0WIQQ1W9uX7Uck5rOkUOej2VYqWJh0qwUCXu+qfwAKCRCj2VYqWJh0q+hAAKCldsiLmj7AtrIrJgYhW+nkQYgK/QCgphO8FamWDpr/HI4WdNDbFw5gIqw=",
+  "URL": "https://maxima.sourceforge.net",
+  "LICENSE": "GPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1592763687",
+  "PACKAGER": "Juergen Hoetzel <juergen@archlinux.org>",
+  "PROVIDES": [
+    "maxima"
+  ],
+  "DEPENDS": [
+    "ecl=20.4.24",
+    "texinfo",
+    "shared-mime-info"
+  ]
+}

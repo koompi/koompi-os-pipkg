@@ -1,0 +1,23 @@
+{
+  "FILENAME": "consul-1.7.4-1-x86_64.pkg.tar.zst",
+  "NAME": "consul",
+  "BASE": "consul",
+  "VERSION": "1.7.4-1",
+  "DESC": "A tool for service discovery, monitoring and configuration.",
+  "CSIZE": "17417964",
+  "ISIZE": "78389272",
+  "MD5SUM": "4859cf7330987bbbef9f6d164225a9c4",
+  "SHA256SUM": "02ae4dbcbe55d7daa12a0d3b73d82a5c3572d255dec4d9bad39404675f42b404",
+  "PGPSIG": "iQIzBAABCgAdFiEEBR6tamFVOJ1p2gLl63Y7Tp24h6YFAl7jXwAACgkQ63Y7Tp24h6YI9w//S1CUeHJS+DOT4TBk7YW8n/GUe1n6k3iSy3MNvNxwo3Pc/8CQd+fMZTo9VpZGLYmbssleyd05AwM6IGHjos9iD6eJTDfhE33vYiIbDL2RZfnLdsKow+QeMX2frpDJstDyD18Wk0yDQ6w8PhLacjnXauPKJV7VFxw89DLppLyS4uA3ED4pqShs6rpXcnbPXNUKBtMJaxgLKsAqiDz6FrSosnb7Jw2JghtsvNnDr5eY3otmIFJwB06JuV7jOxRxZ/sSy8bYfA50+HiV3YhTKoJ9t2efcmBO6F6nW7TyVT0aNxkj38APoZR1aSLS0N6c5Plu2ubtu48qWJa1FJ4YNkCKk0ywkfDzSvydkXB6arK3Zo7UJXr9V+hirgk3pzq2aNrizrX6qKBQi7fJV6dZr2pG0u16ZHaLfdJpk/AB4j2yXDCCOoplzam9WGZ4VYtVWEaudb+kWMmM3+Jt3kIVLVCHLk+TapBKhqjfrCEggiiu8rUx4VNBpuXVVVBi+EFTXN75BnxSpsvfsjIK621xrPrzLUzNJynsL11KbyjyCldPdCVKwxkaYKZf2H+pLSUhNbUq+uIxRkM+tVZ5W+g3NCpIyTyoepahEHD6KYHG/bCb92uxpVwBSyJvCNzgXk0AuiOMLI91hfVphv/Fdrbs5Y2fzJfgMlRbcfFZcRJBhpXUJJA=",
+  "URL": "https://www.consul.io",
+  "LICENSE": "MPL2",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1591958284",
+  "PACKAGER": "Thore Bödecker <foxxx0@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "glibc"
+  ]
+}

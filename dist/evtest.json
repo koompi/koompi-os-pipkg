@@ -1,0 +1,23 @@
+{
+  "FILENAME": "evtest-1.34-2-x86_64.pkg.tar.zst",
+  "NAME": "evtest",
+  "BASE": "evtest",
+  "VERSION": "1.34-2",
+  "DESC": "Input device event monitor and query tool",
+  "CSIZE": "17318",
+  "ISIZE": "56837",
+  "MD5SUM": "0b186d34d1e62c86b428711c525379ba",
+  "SHA256SUM": "6033b146df019870084c5a943271a74c2194e88ba92c0e7a1dc2995c343abf4d",
+  "PGPSIG": "iQEzBAABCAAdFiEE5JnHn1PJalTlcv7hwGCGM3xQdz4FAl8B+vkACgkQwGCGM3xQdz7APAgAkCCgCe9RDGhTn3o8gjxLAwyX1ii9GIWNd9X2YuSUg6oSx7g7YQASe1vhbToYPHc0a/D4JZFlnZ1hyjMgMuWZptSYQWnJOlzHMdSDLDnc4DxVa8B1Ck1sh3GtcMZ+x3fLeLcQKo4Jv563wSoogs++Pf6SRmxWKKEzL/KUthQcvZse7zJxp4A4tfCG0Kmc9ovwmkJmfHqyOf1mYxQ+UpC5+1seZrkyaKcz6gIr1hmbTT7xr+lF8UIw91hNPreeVOkd5XaNSfdsAJBUNNLFy7j8+etuVcjLY1vIX3u0w+EwWgN7Z0TOZmTBwryfIK+vI3EoirAg0PEToPajSgcG0kWqBQ==",
+  "URL": "https://cgit.freedesktop.org/evtest/",
+  "LICENSE": "GPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1593964878",
+  "PACKAGER": "Jelle van der Waa <jelle@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "glibc"
+  ]
+}

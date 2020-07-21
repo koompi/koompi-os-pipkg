@@ -1,0 +1,25 @@
+{
+  "FILENAME": "rfdump-1.6-3-x86_64.pkg.tar.xz",
+  "NAME": "rfdump",
+  "BASE": "rfdump",
+  "VERSION": "1.6-3",
+  "DESC": "Tool to detect RFID-Tags and show their meta information",
+  "CSIZE": "67940",
+  "ISIZE": "235520",
+  "MD5SUM": "8c6ac65548f341bee8e467c0c594da1e",
+  "SHA256SUM": "da0eaf0fbdde64edbada1668c3dd44d8c14f897e0988a6f4f50088b4e3b725d1",
+  "PGPSIG": "iQIzBAABCgAdFiEE4kC1fixGMLp2ji8m/BtUfI2BcsgFAlw/roIACgkQ/BtUfI2BcsgMDhAAtvQpet4aTsVfpY3fCnZr49ZBkjjoYBRDsPdSbvqTaRQ+ISI0U5ngdVYP7kBX4riJzjfH5ACbk3T7PUaVxO/yREi0An1JOeAy94tLKuvvL5d5mtF/mLwvzncsa6GJyh/JcnO0MZrNCvOEs/jIEBGC2WRCbHc/mBB6E6HoSyEBzZIQNR05h6jqjYPclr8sDLVR8LQzFj1V4G9eAjCEfxWCXSVrX4Z/3PLnKRKXeCYhrzQ7Qe0uCR1MQD7mv8OgtloM56aorh+h0zr6jQfOqpMAKNYrwrGYpa3ZLh5xSlyQwh8iY8uiqbGJqIj9icHAR/dyumy6dmdedyhnVSXd/g4tH6judQKPuGpeWInVyCWBeMFIMuzDeao9lX5amhgwAZKWsj8flcVFs6k0CPt2I1PpsNES8kwimoj7GL4ranfaN0BRLsHdLQ2GixB+E1mlc+Ihjue5eshbLch4x0RbnFvNKb7NADDYLjSrbQV/NDxxot24seidonkDlIDHROp7ujg1COObEZongjYgZI/effJLz/VpLsNTpqJZ+EE2KqAchiwOGZtSaza6Ya2hp+qdMlQ4e85bt8Dye+SyIgkOo4XkVWb+VVd+HCIz/DhkyWJ66MgJBhoLoWv7UTJXqypTsPKTm7jqv1c9IspYuWC1pVKfOZd2klClXKakOnLD19xuRTI=",
+  "URL": "http://www.rfdump.org",
+  "LICENSE": "GPL2",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1547677170",
+  "PACKAGER": "Levente Polyak <anthraxx@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "libglade",
+    "gtk2",
+    "expat"
+  ]
+}

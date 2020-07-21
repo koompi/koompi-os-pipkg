@@ -1,0 +1,25 @@
+{
+  "FILENAME": "soapyplutosdr-0.2.0-4-x86_64.pkg.tar.zst",
+  "NAME": "soapyplutosdr",
+  "BASE": "soapyplutosdr",
+  "VERSION": "0.2.0-4",
+  "DESC": "Soapy SDR plugin for PlutoSDR",
+  "CSIZE": "35840",
+  "ISIZE": "100120",
+  "MD5SUM": "723280dd4f3234fe2848869fbd11ed6a",
+  "SHA256SUM": "5f1ff45d9375342614792c1fe7d95335e1b1fa20a6a9a6a427b21fbbb1992eeb",
+  "PGPSIG": "iQIzBAABCAAdFiEE0jW0leqs33gyftiw+JPGdIFqqV0FAl7afGUACgkQ+JPGdIFqqV04Dw/9Gde0F2EfVIb/BfQkXKCzeAhw7vHxaplSYOUlnmArlzhDd18lZ10vNxU5KTVHQdy4iiAAXIR8VzM0SH0WC4HR1Fu7GXGIZ86afQFWri6aq5uhukhCuuDIshfzsu8jnXEW8f65mQWBIxFK0IIM+gUFAuuORLaTmEa7x3371zHXWT0I8fW5te3NwYLLuD8baKMdSD0lkfL618fSg7oR83Mw/2NWU3CXMN2TIbDgIsGlxGK0teZPc7HsVm9AXxIUeKTelMZubBufC/ZrOHka6g4lE1DEJfljrBwuz8jMVxACwlvWWVvjMDxb15H6f+bbeyPLdcrZTsXuOa3h/mUorNryXcvrfvdkf1gWU8eyzwx2E1luvyU79tnPTEHamTxIAPVCuzMjKAacPIYYUCZ1mMnIQE9/bBvNAdkKagkSLm/qWKPdnKzXDIkh4Uh2skc97leb7ewYAzAQzYfBb4YEsqTKtulrob/2tjY2oUeTIVMetdYqSafunfwYYshHeqxeOLyonLSI2GOOPIMVmkQRWxr2MUmUOVFV8fV4NKwgcfNBQYSTF0pWsSZKxwnK8eTYqOb1T3HK6b4cwM6WHjjsDrONSGRY3Mmarb8Bc6p5oDrydPy45m5zZBKwO9RxUQrqX8us8QB/uNtDZBGzmQpnyPq94N+v0hNAUQu0HISwIRfyoP0=",
+  "URL": "https://github.com/pothosware/SoapyPlutoSDR",
+  "LICENSE": "LGPL2.1",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1591376745",
+  "PACKAGER": "Filipe Laíns <lains@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "soapysdr",
+    "libiio",
+    "libad9361"
+  ]
+}

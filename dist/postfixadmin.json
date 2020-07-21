@@ -1,0 +1,23 @@
+{
+  "FILENAME": "postfixadmin-3.2.4-1-any.pkg.tar.zst",
+  "NAME": "postfixadmin",
+  "BASE": "postfixadmin",
+  "VERSION": "3.2.4-1",
+  "DESC": "Web based interface to manage Postfix mailboxes, virtual domains and aliases",
+  "CSIZE": "500556",
+  "ISIZE": "2976554",
+  "MD5SUM": "d4b4c4e201e2a50b2a8847f155e0e4b6",
+  "SHA256SUM": "5771c187e86ba43932c851a0a5e6a3e77ef1863125470f3d9cb0dd121680b57b",
+  "PGPSIG": "iHUEABYIAB0WIQTH54SUZv4jWDQ1iDdyWHNLQcMVSQUCXp4J+AAKCRByWHNLQcMVSSWpAP0d1Ya1dh0uVIq29Xv4NDdOn72iwWqOI9anve3fRbgOGgD+JbS7L1KcpvRbdq1ic7xCLg4X9/a6o4s+2B8rouEO7QQ=",
+  "URL": "http://postfixadmin.sourceforge.net/",
+  "LICENSE": "GPL2",
+  "ARCH": "any",
+  "BUILDDATE": "1587408591",
+  "PACKAGER": "David Runge <dvzrv@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "php"
+  ]
+}

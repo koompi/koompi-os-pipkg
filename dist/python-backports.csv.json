@@ -1,0 +1,23 @@
+{
+  "FILENAME": "python-backports.csv-1.0.7-3-any.pkg.tar.xz",
+  "NAME": "python-backports.csv",
+  "BASE": "python-backports.csv",
+  "VERSION": "1.0.7-3",
+  "DESC": "Backport of Python 3 csv module.",
+  "CSIZE": "22984",
+  "ISIZE": "95436",
+  "MD5SUM": "e90642ed282814d37eb159810862b29d",
+  "SHA256SUM": "08ae981911acada054740225debe75bec4e3df8df66dcfcb19b914614fa4f053",
+  "PGPSIG": "iQEzBAABCAAdFiEEhs/8qRjPOvRxR1iAUeixSKmZnDQFAl27F5sACgkQUeixSKmZnDT/Vgf/cCF/Df3RO63+Zap8XdRUi+R5dDJlVveFaE9Y8ZbUrp/48JLnzGZ/vG3TP6iC4i898DTNjH+ueJwioUk+LY6YkSQIL1vH79ezYgChCaE/Zj7+ft0wB1BT08JNi9N5OQV5Vwl/Mac1uk3fmZScmBhEK0XltnkGVX5stgx58Y/ofND8pP3kgvqFDVWs/lr5h6sklDN6V3Q6b7J4V9fWTuMy6EXvTAlygFvloPvEOHzUvtckmn7GC/7t4J2U08lYEzxKyQkggpYuec20EdsKFfMYgtBQ1r6AkpjO6wZFMcyMu/lQfLXnzLzkovUO8J3oz87Ht61E3WwPoiD/KodQMOGWtg==",
+  "URL": "https://github.com/ryanhiebert/backports.csv",
+  "LICENSE": "BSD",
+  "ARCH": "any",
+  "BUILDDATE": "1572542346",
+  "PACKAGER": "Evangelos Foutras <evangelos@foutrelis.com>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "python"
+  ]
+}

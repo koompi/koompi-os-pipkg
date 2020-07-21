@@ -1,0 +1,23 @@
+{
+  "FILENAME": "attica-5.72.0-1-x86_64.pkg.tar.zst",
+  "NAME": "attica",
+  "BASE": "attica",
+  "VERSION": "5.72.0-1",
+  "DESC": "Qt library that implements the Open Collaboration Services API",
+  "CSIZE": "560668",
+  "ISIZE": "1443808",
+  "MD5SUM": "846ee6bfeb9621f5dd774d8e4fad3568",
+  "SHA256SUM": "f6964e26c450eaec8a5267c461fb492b56e95560546ae66944cfa707d6ec7ab2",
+  "PGPSIG": "iQEzBAABCAAdFiEEFRnVq6Zb9vwrc8dWek52CV2KUuQFAl8JYCgACgkQek52CV2KUuScrgf/V0BvkwpKrf445t0SvfKXcXquhvnNmvDn2uyDFOaK2cH4w+HbF1zif54+SFzJd14mc22sCXZSVGRmnbfbQQRF7D4RpStK652VlzNIPr+HAvRse/82+kj5IXHM0NMbg2ASGy+SvebGV5ex895ElApzP+1czcIugGQ0L2l9Gjn8juVNfyWydZbA6uQJoxEGdP7SJ6zcIJhsKTmF76oNDOiCzTfz5879JBzdP5fUyKDAWuUHD3swxfOy1pYf1Xg6hNjFGBxpZOYK9ta4CuFeCXebFy2nyT0T1MMD2/dua4jh6qJYIn/SAxTo9kVD2XD6XTSbGFfo9oa00DX9RpV77uGOow==",
+  "URL": "https://community.kde.org/Frameworks",
+  "LICENSE": "LGPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1594201148",
+  "PACKAGER": "Antonio Rojas <arojas@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "qt5-base"
+  ]
+}

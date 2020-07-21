@@ -1,0 +1,24 @@
+{
+  "FILENAME": "pcurses-5-2-x86_64.pkg.tar.xz",
+  "NAME": "pcurses",
+  "BASE": "pcurses",
+  "VERSION": "5-2",
+  "DESC": "A curses package management tool using libalpm",
+  "CSIZE": "177960",
+  "ISIZE": "834281",
+  "MD5SUM": "0606de11e67ba88dfe84390d3d6976d1",
+  "SHA256SUM": "3219a9766c8ffd3162115240268da1e2a1fe33903569976b1fee879f0ce86865",
+  "PGPSIG": "iQEzBAABCAAdFiEE82kWh9hnuBtRzgfZu+Q3cUhzKKkFAl2uaf4ACgkQu+Q3cUhzKKnFHAf9HxLDbo6rzSZ/9qa4fmmm+KlMItKrm5/a6UTW7P4WdmV3uTAy1Duo+977QuBLi3xsFREpH4j2iCGNT2XoPNp4iu+Q7OpOrPJ39Lsv1JnYv+3BJl4t4zet7QqHJoQLfo/yKHNYIwg5vGL1gRQ0qqkS72VVYp7kNsTeu26AEf8JcD4L/RpkXrR4pm4CHJVulNMBMXSscuUhU2QsCKimcTdfS1BSnrWJXf0NIos9lHclWCl7rmAtIx8ZwmTdCjKUFMBKYCH0LFzCHSEZleObRvO+hNXLUzyGG1VAga6C9bPWypbkOlszryYsmLk1mz1o9WPpBMK9DDXd0l+B3aAC56zELQ==",
+  "URL": "https://github.com/schuay/pcurses",
+  "LICENSE": "GPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1571710287",
+  "PACKAGER": "Bartłomiej Piotrowski <bpiotrowski@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "ncurses",
+    "pacman"
+  ]
+}

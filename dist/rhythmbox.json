@@ -1,0 +1,35 @@
+{
+  "FILENAME": "rhythmbox-3.4.4-1-x86_64.pkg.tar.zst",
+  "NAME": "rhythmbox",
+  "BASE": "rhythmbox",
+  "VERSION": "3.4.4-1",
+  "DESC": "Music playback and management application",
+  "CSIZE": "3272001",
+  "ISIZE": "16618171",
+  "MD5SUM": "95fb02131b7ce90761be7b88b5de71ed",
+  "SHA256SUM": "a12a7bdf332ebab7541979bccf0cf4e26a853196b3d243bd6faf907927e8a91a",
+  "PGPSIG": "iQEzBAABCAAdFiEEghj4iEmqxSLpTPRwpekojE+kFfoFAl4R2gsACgkQpekojE+kFfoy2Qf+JBq54OOrpCtfxRhIH4mnyQWHrHUTCeUO3iAP1rJwCB5hYb9QWtNqq/xTIDG9rn3H+QoXtYNBq0YFT03TfRJetEYSotk5zykYy0p0aG5ZmVGJqde7663SYoon5KQ5KCH25hybbFtt0Wx9qE+jP/PqxDtW7R3ivNnFJbskLJYTef61aoB5jSs0lFdyX7V2/SXOfVMR1URFL5/LGqz8Tijf+mNP8IbWhvLmVFkIZAUyLJXDjlSLZyUpcbivC2dI1xYXFmrY4FsSJcnaF2d83v7DLRS8Elqu+6iCaRhV57quHv6uqrPppggtCoQ3eJo+hR/PEDIJWyN4+MBSxMmZYRk+Bg==",
+  "URL": "https://wiki.gnome.org/Apps/Rhythmbox",
+  "LICENSE": "GPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1578222272",
+  "PACKAGER": "Jan Alexander Steffens (heftig) <jan.steffens@gmail.com>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "dconf",
+    "gst-plugins-base",
+    "gst-plugins-good",
+    "libsoup",
+    "json-glib",
+    "libnotify",
+    "libpeas",
+    "media-player-info",
+    "totem-plparser",
+    "tdb",
+    "python-gobject",
+    "libgudev",
+    "grilo"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "FILENAME": "python-async-timeout-3.0.1-3-any.pkg.tar.xz",
+  "NAME": "python-async-timeout",
+  "BASE": "python-async-timeout",
+  "VERSION": "3.0.1-3",
+  "DESC": "Asyncio-compatible timeout class",
+  "CSIZE": "7288",
+  "ISIZE": "16099",
+  "MD5SUM": "4256b343a19b8a48c7aa9e83182e2002",
+  "SHA256SUM": "724517ab847104569ad4b52b46f7f84ead3bd0f577b43a4bbf9fe329dce0077d",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl27JboACgkQeGxj8zDXy5Kr5RAAn+zjzd9tuhFJ5jCxcbOytxiLUwPdchQFDwoBeopmlkyifPBYD/7+Ja7C7q0AAZerqtuXU00WfqYkDOYbaNWwkAXvigHT1+d4HFzOzkfDj/63VFN4ifN8/cvQAzWHVtYD7ft+TisJHGoTUt2cQClg529XGxrYtLYjH+w9tMmqgyB7Hcu4ykxumLcU8qwNNqNuJTr1syC/p706zmNBiwsQUokrC+cK/FoycAsAa4eheA3AqBwXAZSTeJVssRfNErqkp/ygdF/cHwJpQ05jzvYiHGW4Pa+VExiPQxekbifA62h4hrRlTmr4xWO1VMiU6sz3ySNnpbdFwTPm239k2MPxJpuCqKsXc1I2Y93Vx+/XGiPngWcZEDMt2uQvHC9SKM3r966xF2fcVQg+/wnNfxSdcoZnTlJyyiEND99IWKqolSVuiPMYmBplVVyDMVWIWgj7L+3Kh1w7iWOA4x9hvxawjLlgH29vIvWnevwr90XkGWUy1TE/8XcT7UF66mSGlpYM4F8OpwFJ6OiRgKvl4H69gunR4jP3F8vhtk7pLklT/X5g9iitrR2sqL4+6eh29/nXeWIuCT+5KeIdm33eHvJ/O0XO2yqPWtP9Gwy1dymIm/jpCgaQimIGD76HKSXzXhFIyey7IcWURL79OtYVP/vtaGT/weNDSX4qSvQpL14LUpk=",
+  "URL": "https://github.com/aio-libs/async-timeout",
+  "LICENSE": "Apache",
+  "ARCH": "any",
+  "BUILDDATE": "1572545944",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "python"
+  ]
+}

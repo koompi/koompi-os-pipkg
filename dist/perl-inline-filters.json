@@ -1,0 +1,24 @@
+{
+  "FILENAME": "perl-inline-filters-0.20-3-any.pkg.tar.zst",
+  "NAME": "perl-inline-filters",
+  "BASE": "perl-inline-filters",
+  "VERSION": "0.20-3",
+  "DESC": "Common source code filters for Inline Modules",
+  "CSIZE": "8480",
+  "ISIZE": "8904",
+  "MD5SUM": "dfdcca329ae64ff8186563bb328647d5",
+  "SHA256SUM": "42531c1a5bf4e5ea0233ec00c1439bbc6047d1dbb8e3cab33352ce8cc224e460",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl7vgwkACgkQeGxj8zDXy5IsEQ//UVwTj+HImdRVTZuUiF7Cq+H5GuPpbdcOBWacgj6n3hW0ioA+09Y7d+bP5PqETXjmQ3zfCAxfScvKK6apVCzERVGSkLcQppqV/yblZiTfyQNsxUUe5lPUQKsCszx11ueVOxY9gsdp3Enn/NrMWpAMfkJ5ZpTpP2ZPD0Mecj/GufTMvquXIn/ngemFeVUsqBgnz9Y6Wtd1+6IaqKAt5hhZ2PRn411sj7ya5t+PjXikPNLZd4k7YdOe2awKqzs5nrUoLDBNlzMhfoHnIqqlYnaNb/VKZcAQBqcyEdG7g7jQwMGBokoWOO/XddfFkHnOP2TOyunRlEsd7D4duQcp2J6PypS9i6F11ou2hPzfzP1aUdkTqLlj9fnUgZepNCkU31936VBcENtwfeyRi1evYTH98xx0CuOPBBjvp+dyV3MSRWHVCd1dX/nEPxcOkzmJdw2ZD5kBu1UlatsS7OAGCG3M6/+C6LisTULh+aNjAdiXqfdD9yvSI/Q9Nw1QPBgg7woMpVMQwCx0YLIF3fPOkBes74OBnZtOciqC15qcTF2vWqcbvqoRSQkBl7EczzcNzuVq5rtkvzZdmDNH7DhSq2tFt77TJYi8BTdXXoruyA7Y8xK2svLm8fWIIoOuUTMLBxOWjLlwTCwo9OwSouuRwIag22ussMuENOPo7CKXbxC+BYs=",
+  "URL": "https://metacpan.org/release/Inline-Filters",
+  "LICENSE": "PerlArtistic",
+  "ARCH": "any",
+  "BUILDDATE": "1592754930",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "perl-inline",
+    "perl-inline-c"
+  ]
+}

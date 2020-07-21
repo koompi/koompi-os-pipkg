@@ -1,0 +1,23 @@
+{
+  "FILENAME": "python-yaspin-0.17.0-1-any.pkg.tar.zst",
+  "NAME": "python-yaspin",
+  "BASE": "python-yaspin",
+  "VERSION": "0.17.0-1",
+  "DESC": "Yet Another Terminal Spinner",
+  "CSIZE": "28393",
+  "ISIZE": "105406",
+  "MD5SUM": "70ae6bde76438bbdea19e2be9b7de4fd",
+  "SHA256SUM": "7348329df36a03be1dd6625f9e2d58c1627871e76765f248df44a6879d32a9a8",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl626KIACgkQeGxj8zDXy5Jmtw//QTHzNdL/rmXgLFUfnLdeC/cJnnpFCH2oiuYilBLrOfCtO4UcmD0/SHmSl4n/r6G2k09EvEcjd53q/20fAAzr0rKZq/5pvssROv4LiFCMh9O2mj+3Fbpl2cBts5CFTlidi5SG2RE8OZ+c2vclEV5ArmBQ7mBrV8y/vfpqRDSth0PgW/IfQyihHHF3Tl3zB6Pj2Y7IqIrbX7A9fPpK1IOIMjMzwOwY7RI53YPA3jvXgcsIEZ4dCtPHGALzs4UdGH38cbfowIiIU3kIp7BGzpEeIoD81UvvCdUv+qxnI9XwQ8KF2qxPHdcE7z3HMQouKPBZyuE1Kp9pac866JWnxacRzPzCx7VeUc1UiZvW5tEqXQOS+sSQjeWzW4G2NKDsSzPXjv59FG726sXz+wy1mMg+raXMn+4SlJm3RWLjhDwe+fnqLBZYpLXbJvQYYICu0aMbfhi+nOX6kwngqQz6k3KNSUFR4YaWREQrbHqBg4ve9U3/3OUpmB0K3BMQQYB7zFir9ymj0MyLNbMCO/Fp8TD4R1jvmysB8vGp22l/eckj4iO2JpaINCtmZ4Pb1BULj7RDdroLuRYDCoxNDwsBIznkjXiLHmvZq75Sq8z+o2KaBy8pmwIzznk7rzH0iy/0hG4V3cp82RE8nxeffejsg/P8PuIzWOmCYq+g8Lpi47wnQrc=",
+  "URL": "https://github.com/pavdmyt/yaspin",
+  "LICENSE": "MIT",
+  "ARCH": "any",
+  "BUILDDATE": "1589045328",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "python"
+  ]
+}

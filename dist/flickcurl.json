@@ -1,0 +1,25 @@
+{
+  "FILENAME": "flickcurl-1.26-9-x86_64.pkg.tar.zst",
+  "NAME": "flickcurl",
+  "BASE": "flickcurl",
+  "VERSION": "1.26-9",
+  "DESC": "C library for the Flickr API",
+  "CSIZE": "747617",
+  "ISIZE": "2414118",
+  "MD5SUM": "636752ecbb3aa81218c8aba0fb9c492a",
+  "SHA256SUM": "cb29b6fd937bd27365a8136b9e7fc7fad0a39198f9723f705a6ee1b8036f2d2e",
+  "PGPSIG": "iQEzBAABCAAdFiEEhs/8qRjPOvRxR1iAUeixSKmZnDQFAl6m0FkACgkQUeixSKmZnDT70Qf9EgGYzWzRtkxFwxsICX5rD67HBJlxbIFZtfKbUnJYFVcD8uiXlwR4gvMmh5+STinLNNBS3524AGGwbKaKkKpVE43388uAvg3uMaDcdI+GcEaauIVXVPxZpCS+IMJCildpS+IzH9ZF2klHByTpPf9MDpudTb/l+doCy2kZTSUqpe4vj7Ir+LBIvAiUin3oYq236pc/upL54ZgEmX8PoMYDJ5mWevpuwn9G7nx7fstS4nsLzcOn535Dj05D0Fib7l9NUV6OTNMI/F7AFgY4z6gz0OiXVzTIBcNA16VKGpYsxgYvcDT3uuzAkdGLXSznq+tHAklEMCEnw0xPNvn8Lect4A==",
+  "URL": "http://librdf.org/flickcurl/",
+  "LICENSE": "GPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1587990583",
+  "PACKAGER": "Evangelos Foutras <evangelos@foutrelis.com>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "curl",
+    "libxml2",
+    "raptor"
+  ]
+}

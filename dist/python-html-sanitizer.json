@@ -1,0 +1,23 @@
+{
+  "FILENAME": "python-html-sanitizer-1.9.0-1-any.pkg.tar.xz",
+  "NAME": "python-html-sanitizer",
+  "BASE": "python-html-sanitizer",
+  "VERSION": "1.9.0-1",
+  "DESC": "Allowlist-based and very opinionated HTML sanitizer that can be used both for untrusted and trusted sources.",
+  "CSIZE": "36972",
+  "ISIZE": "93522",
+  "MD5SUM": "6e841fda9f1344a16c58041e9bee48a1",
+  "SHA256SUM": "97ab8ed9a3a3ee78392c12f7e26f683b17589fcd007241a981e83140f6571a3c",
+  "PGPSIG": "",
+  "URL": "https://pypi.org/project/filetype/",
+  "LICENSE": "GPL",
+  "ARCH": "any",
+  "BUILDDATE": "1588083109",
+  "PACKAGER": "Unknown Packager",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "python"
+  ]
+}

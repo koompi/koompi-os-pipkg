@@ -1,0 +1,24 @@
+{
+  "FILENAME": "xapps-1.8.8-1-x86_64.pkg.tar.zst",
+  "NAME": "xapps",
+  "BASE": "xapps",
+  "VERSION": "1.8.8-1",
+  "DESC": "Common library for X-Apps project",
+  "CSIZE": "156294",
+  "ISIZE": "864078",
+  "MD5SUM": "dd5d9c87fd9360112d0c6de23fd9c991",
+  "SHA256SUM": "016034d60164ac0b78343299dbc8d902123fccb13077ed7103874fa0f0edcd84",
+  "PGPSIG": "iQJMBAABCgA2FiEEYEETBMCdNmKDQO7/zrFn77VyK9YFAl72Oi0YHGVzY2h3YXJ0ekBhcmNobGludXgub3JnAAoJEM6xZ++1civWc4UP/2ZTzItGlgHRpXxWMxL2gWJBp+eioLhmFBhjRRG+V2oJlsToJ0EePLk3Ux6DQjjmlFXptc7n1LupHQIkNcoGSjsqsyv6Rms71gNnYYBGnPf9MW4bN1ory/BRgGmoge9S8yR5URE/LZNY3VvmamY6uEN09Q+Lr6Ssy3fi4AB+EouQYuvWD7KtrDw8kApn37NvHqlLhTlgQJuvvbYRRQWWSIj8hS9fN2SgidnREA51nxhcm2zgdNbhrQgpSC8epayPhCxTcbvLdKww1FUCor08a1X2H0pQ/vlFt9svd5wwiq6Yocm0sCPUq+UEd95ceVdJUcz4QVYy0pPpOaoH3cUb7VBCRwM5dR/ezJmeeYycee4aDaQh1gO0mPI+7OY80xpsl4zi0jAGzJKetOPfPfieZp8b5cVx/vmUa1Vcrdwnl6gMWlpozWEpNTTEcTRLv45MAJiaurRNekVuDlzJmppm5ihWnAEke+TeJ2tVJNtprL03T+fPLS7JIRJIH9iOUiqjff1NtILxxjt+MVBdAIgfRuHeOaoEzQVpa1NClaJEt727shqmQJvyRuo94cvlwnJTS5qwrLib6z0FbGhf8bwCmThVUFtWHWhe6otFjLU0iSWs5oc/PLGRKcH6ebELyp68BQ8krkOOzkPGASuE4/zew8bit7WAybfxAW5iGBBiMc7h",
+  "URL": "https://github.com/linuxmint/xapps",
+  "LICENSE": "GPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1593186186",
+  "PACKAGER": "Eli Schwartz <eschwartz@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "libdbusmenu-gtk3",
+    "libgnomekbd"
+  ]
+}

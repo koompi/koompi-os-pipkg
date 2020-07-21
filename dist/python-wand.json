@@ -1,0 +1,25 @@
+{
+  "FILENAME": "python-wand-0.6.2-1-any.pkg.tar.zst",
+  "NAME": "python-wand",
+  "BASE": "python-wand",
+  "VERSION": "0.6.2-1",
+  "DESC": "Ctypes-based simple MagickWand API binding for Python",
+  "CSIZE": "205364",
+  "ISIZE": "1629131",
+  "MD5SUM": "7ac32c2c716d83b793596e32a5837fb9",
+  "SHA256SUM": "2957bbab37cbc4ef5ea658660b68e9678a869fbdaa3195c9964f1cd206ae6b43",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl8E5KcACgkQeGxj8zDXy5LkPw/+IIbJKSB2/zT++jxvVaW1Pah9m4XJdhlA+8cb2oZ6UQ8G8KweR+1qSwoXz2Z6ebU7OOT76mz7REgto/ktWzX6GN6bSt3k3L9rUH8pZfqfq+EBmV1LUJEP6z5gdnnj3afbZjbOWcgOaCLDKndONQHlTxSL8g97jyLKe3V80L3onc/NbNeXqsSjuhaEBV4Ketp0nFZKEnOXz4mEip2+bLwDAAWudvnv1nHfj/qVAO134DFBTuEBtEYBF6k4nhS65lTtjhz2IYUqBUwpMKJTSwo5ny0ZHCBeHDBJ3FChit7hJRtrdqfNzdwWAWr5ZbBOAi2PSL8VkrbZtYcnCo15j2NfIJmcz+5BJodt3KaeIe0u+NRdfQg1PcroG5oWdkQkrvUvUcWfSN+WyGy2KCMl76yMpKpEMrXyKkaNPoR0qSbzgZ8SS2insIg5nyXnATXkrAhCmY3M9xOamwdR18M/FV2ve03zQYIMriXEi7DVKCniGUduROjhC4wqATV/3ZJTMDFu+VO1Ysvp14WXarBvGHhUk2oj8rySPUOA9T1hL/EwxUbXCUOVyMGkxw7OB0oBxgQNIlavGa311KYdVd0l1Iy00A60nJR2oAqFVnASw/Qt/SVwSNNtE7T2EWRsQJBu+IiU80AY/b6TUWdYyIlLGprRm4fh9vTbhtnw6ZatQD7AbrM=",
+  "URL": "https://github.com/emcconville/wand",
+  "LICENSE": "MIT",
+  "ARCH": "any",
+  "BUILDDATE": "1594156026",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "imagemagick",
+    "libxml2",
+    "python"
+  ]
+}

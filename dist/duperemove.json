@@ -1,0 +1,24 @@
+{
+  "FILENAME": "duperemove-0.11.1-3-x86_64.pkg.tar.zst",
+  "NAME": "duperemove",
+  "BASE": "duperemove",
+  "VERSION": "0.11.1-3",
+  "DESC": "Btrfs extent deduplication utility",
+  "CSIZE": "71466",
+  "ISIZE": "232455",
+  "MD5SUM": "0766d70e1f8479cc18ca123eba256b66",
+  "SHA256SUM": "19ac68b31d33d6198f74b2d2445305ce668ee4fc7961ccea8e3d8423416c9464",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl8E51wACgkQeGxj8zDXy5IUYQ//X5c9LgFuKBKSVepk5v4/Ir2AgLiuZ5dsNBE3X1Ib3at2DGGlcVbcmB01AndXEVSXY5wjep5rLzl46qyF31o0C6jMPD7A44GrgIsZu8jROVxIQk9/SOLp0AhdgiPnilkhzaDyzODiDQyG34o6uw7m7Jqioa9xcSV4JoV1nNnSIVU6DEyhMbctr4cO/N8ce774a+qrMqUDyoVGLsLvSbvWdEupDvtAIwyKQhPOcfLAZlYVx7MKcxhsn5/ygdDJGlat94UwI7rzKAF0tGm6iK3iNLxfx4oZTc4hd2KYggwzrfOg/VPVzO4ZOeomNel8HrON/qBXldvp0v8KDZN1JCNzrbu2Hip6mNOaHPVJEnYJKk+dqoWY1GXILihLi+O+0mX81DNUWE7KMtmxDha0vsMzp2kp9uGWmXM0t/Q12LAcdnHgqstgc82cvgJKmr7L9z24pAse4bdo7NfgG7aF10T0rkTyaDGEx1Qek420oZNdtvj8Ek+si3KXEERy4Qw1+k90QFMscWESgw68HoknZSvVf4yPYU08F0GHa+TDngw141C3W9p9NoITFmw2w3D76JCfiepEd65MZSW6kNPGr54PkOKpEb1CEW34/64ZXmNEXKPGk7mqAP1WJFb8vTbaFQ6QUyBA/mAUqthZhvZ4Xu/OYy2Q/E1+lGsmGqwC95cr52s=",
+  "URL": "https://github.com/markfasheh/duperemove",
+  "LICENSE": "GPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1594156868",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "glib2",
+    "sqlite"
+  ]
+}

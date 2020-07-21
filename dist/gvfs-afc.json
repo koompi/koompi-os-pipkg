@@ -1,0 +1,25 @@
+{
+  "FILENAME": "gvfs-afc-1.44.1-4-x86_64.pkg.tar.zst",
+  "NAME": "gvfs-afc",
+  "BASE": "gvfs",
+  "VERSION": "1.44.1-4",
+  "DESC": "Virtual filesystem implementation for GIO (AFC backend; Apple mobile devices)",
+  "CSIZE": "45503",
+  "ISIZE": "147530",
+  "MD5SUM": "6abd3f3e92d3295cd3703e6725f1cdec",
+  "SHA256SUM": "441bcf4fa194b9e629b4ccbcc39d50149f84c5320524aee64c2cc4c3b327e41f",
+  "PGPSIG": "iQEzBAABCAAdFiEEFRnVq6Zb9vwrc8dWek52CV2KUuQFAl7p1GQACgkQek52CV2KUuRQSgf/dU9BRxwhFpCQY3YYHpfaHq4L4fvIStAq49xtdcwFfKOnmS57Ns7YLn835m+5t6sbhALpg8boXGbJL/g7GAd2LOs9ySD+1Eg1+E4ApaaHIKWYzFv42W01C9FPjhNvA0bSymZP45o0VJuAOZFzUYZL0SkUDYcyhM41xJxFlBI1+6IInJP/bsttWJbtw2QOiQjiFFPUSHV6yV4NZXpBN/mj4GYrUdWeTCJK+hKAXfAzvnKvjeVKPVSqW4gEC5Vqgly+p50gnSPsxh7mVg4QppxdvxxxWFZv0uspK8EgKhZHURJlOEuJg6BhyE4neQpNMQIivpD9VevkLO2l0dyMYnj58g==",
+  "URL": "https://wiki.gnome.org/Projects/gvfs",
+  "LICENSE": "LGPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1592382413",
+  "PACKAGER": "Antonio Rojas <arojas@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "gvfs=1.44.1",
+    "libimobiledevice",
+    "usbmuxd"
+  ]
+}

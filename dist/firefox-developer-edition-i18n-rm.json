@@ -1,0 +1,23 @@
+{
+  "FILENAME": "firefox-developer-edition-i18n-rm-79.0b6-1-any.pkg.tar.zst",
+  "NAME": "firefox-developer-edition-i18n-rm",
+  "BASE": "firefox-developer-edition-i18n",
+  "VERSION": "79.0b6-1",
+  "DESC": "Romansh language pack for Firefox Developer Edition",
+  "CSIZE": "495428",
+  "ISIZE": "557887",
+  "MD5SUM": "751c975b1ab30375c0ff7f9c42a35708",
+  "SHA256SUM": "bc3f5959c2960f9dfae4780963ca2a7243c65f2d23e9f885bd467e88fb78a147",
+  "PGPSIG": "iQEzBAABCAAdFiEEYB8g8dG7v0p4z1tt9rFhCz7NvJ8FAl8IbNEACgkQ9rFhCz7NvJ/f3Af/WKByBA+NSe02YW3ktQoK2NqurSJsDSV88HKFosHyBD3hL/eBeOhysH5fZ+0Qt12/UkTmjcEVFwoeyLIT5rnwIUoc/lxLTP7rZb66l2HIVfMqE7ej8bgUJOnvv6RdCjXDKUP3wvCSNQ7DZRJY46Mlu2ILqZ3crHcfVQfr3+s2gYmwwCoit4Xd5e547Uyfd4EFqawqbcGEjCuBwgoQMW8pSEp9CHaUJAkLVhwVddMLVS5yYBKX3OqReZg+X8r+0DhSI1DWPyYbQaPp/lAhABbQ6qvRmI/zDcXsR/Hv5LPVo+tfgWiaKGBzc0Oz3zO/2mr+jI9Cm4qnaOao4LbvVZdwcQ==",
+  "URL": "https://www.mozilla.com/",
+  "LICENSE": "MPL",
+  "ARCH": "any",
+  "BUILDDATE": "1594387381",
+  "PACKAGER": "Andrew Crerar <andrew@crerar.io>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "firefox-developer-edition>=79.0b6"
+  ]
+}

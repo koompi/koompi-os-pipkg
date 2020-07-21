@@ -1,0 +1,26 @@
+{
+  "FILENAME": "kjots-5.0.2-6-x86_64.pkg.tar.zst",
+  "NAME": "kjots",
+  "BASE": "kjots",
+  "VERSION": "5.0.2-6",
+  "DESC": "A note taking application for KDE",
+  "CSIZE": "411307",
+  "ISIZE": "1528711",
+  "MD5SUM": "9b87ea99115e137e03054b046793b81f",
+  "SHA256SUM": "42ff2f458d4dfcefd8a78ec7640a49c19b7c5988082a9cdce404128d879b995b",
+  "PGPSIG": "iQEzBAABCAAdFiEEFRnVq6Zb9vwrc8dWek52CV2KUuQFAl6/mIkACgkQek52CV2KUuSxNQgAogQulWvjlq/UzTM6qT7Due5b69DVU+067/yg7eO9Yxr7Ip/2Bw5RvoHo2+RPuyxA1p2tqw4ZN0nE0ANaiQcC8ciTg11yuu6pCKVavQzPFJaoTkwjUfNA+xz+GDUImXkICj6Y+CmvFZ+LelwNhWfls5H5bw7bEDpXsCAtcGj4b9QSyzzsU0xSf6ieJ6IX7LoMTU7FKp5jMXuY7zv6t1QpaVB8ubLzBhtXOBVWj9Y95EqXcC0JOn8xIO1YzdwnbYhJDGDcalMW2rWO5Rw09vTZ+dgc4HC47Y8ZWDBGeF0Pt0EYpzdPUBO8sETPA/O39sSaBUgbMETjaFrqg06w4TzTGw==",
+  "URL": "https://www.kde.org/applications/utilities/kjots/",
+  "LICENSE": "GPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1589614393",
+  "PACKAGER": "Antonio Rojas <arojas@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "kontactinterface",
+    "akonadi",
+    "akonadi-notes",
+    "kpimtextedit"
+  ]
+}

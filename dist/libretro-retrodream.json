@@ -1,0 +1,24 @@
+{
+  "FILENAME": "libretro-retrodream-1104-1-x86_64.pkg.tar.zst",
+  "NAME": "libretro-retrodream",
+  "BASE": "libretro-retrodream",
+  "VERSION": "1104-1",
+  "DESC": "Sega Dreamcast core",
+  "CSIZE": "669159",
+  "ISIZE": "2486752",
+  "MD5SUM": "43187d4c20345b4ffa1546e8f4a7e7ae",
+  "SHA256SUM": "5e048ccafb72b4dd01e78c6e4be88de88faa1d2872432add8ac5c9c327dcbc20",
+  "PGPSIG": "iQEzBAABCAAdFiEElDfdOBWnqRaePTlGr/XZUJi8b/UFAl7x0QgACgkQr/XZUJi8b/WiPQf7BCOiXNHDw2BdF0jjUiDmAi9z1n9VHn6LurwKiGXiBJuvzrUyw4OUicC77t5+ofN0EzRcq1uRM0jxBIK8f7CSwJcYwhMT0PuUIFN0gX1em7aOM8LIaXi4vM+6w6Ur08Bd1u1d9V9HB05nUOnaBUon8JBVALOqPEX2j11ebvXcDkAzODNbLBhHYMoqpgR9TXz+8HRSSc7Z6wt/vQgUkWEBzm5CCXp48HFfY7bSPGzc1r73Oz+TTudgbHIiagpbFbqitLwvborZRzPVppSBX1IizgDsdImc4B2FCmtwHwUvBRjkGfgPop6QgqVLBkrtUVY7qKtSAYr7QCjcr/47kJosNw==",
+  "URL": "https://github.com/libretro/retrodream",
+  "LICENSE": "GPL2",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1592905965",
+  "PACKAGER": "Maxime Gauduin <alucryd@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "libgl",
+    "libretro-core-info"
+  ]
+}

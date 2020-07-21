@@ -1,0 +1,29 @@
+{
+  "FILENAME": "libcurl-gnutls-7.71.1-1-x86_64.pkg.tar.zst",
+  "NAME": "libcurl-gnutls",
+  "BASE": "libcurl-gnutls",
+  "VERSION": "7.71.1-1",
+  "DESC": "An URL retrieval library (linked against gnutls)",
+  "CSIZE": "236395",
+  "ISIZE": "550840",
+  "MD5SUM": "4ec0b94a4a549f0450ecd1ebb7da729b",
+  "SHA256SUM": "f1351a8aa59952a16520240005a7c9c4decb45f2512c7ecbb260bbb03ef3afac",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl78w+MACgkQeGxj8zDXy5IREQ//egvDRV0cG1Tc4/NnPsGlXQb2629jFF8oK3dE0AnkL+ifSaui9biXrtfscWP4/RdMlX1lcx7NiTvC7HqdSDnzqaC+cCrX1wTPTCEH179v/k8k/ct4A4Jadopku3nhQyI3kuuIekCCcNb+Jbm+dnNydlOJ8X6XDy2GmTgHRwUkN8mH7oye+i483QqAAjUHNxd2ZzJNp/Ce+vRv8Ij7+8GGSpX9Jpe+uc27GC9xl5RFIEP6nZOLtiMz4LRK4ssqoM8YN81yNyo54ovlhRG9+x9WNl/IjA8QpgnWWAiNX/VSDCjjurAgHZ1DFi/VR6Wr57kuxlQMs++J0PEC8iVAxyI2WmqE/0QuSCC3WJg2kCmUOKD27bwqh8KNuwKPyiBte0AZuN5Hw1pQfWfLyY/2bp0vCAp/5ZkshqS9NJAl4Bzct+mQZymNnApOJs1LUKMaRY048itqAY2NwA3TEsabQNdkakZtqO5jDo2rr70+4Z0f/WeKspY5dpjQ2QUQEnI7CuwlVxty8N1iurWCauSxjQzFsA0v+SzNSzmdafTYg1oe+saufT2zQVO9psvzppOBB/LuGuSSIKyM5j++yRuMDr5Q5iGxlpearEfsKn/SWG3xRE55w1N4H3oaopS5JzAj+3JTEBxtNXboMaqpmd0QXoy+HeaPIiaAh9ydcBLikBeoCPI=",
+  "URL": "https://curl.haxx.se",
+  "LICENSE": "MIT",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1593623441",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "curl",
+    "glibc",
+    "gnutls",
+    "libpsl",
+    "nettle",
+    "zlib",
+    "libssh2.so=1-64"
+  ]
+}

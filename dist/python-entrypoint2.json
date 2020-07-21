@@ -1,0 +1,24 @@
+{
+  "FILENAME": "python-entrypoint2-0.2-1-any.pkg.tar.zst",
+  "NAME": "python-entrypoint2",
+  "BASE": "python-entrypoint2",
+  "VERSION": "0.2-1",
+  "DESC": "Easy to use command-line interface for python modules",
+  "CSIZE": "17048",
+  "ISIZE": "52615",
+  "MD5SUM": "007e1fe2dae3b1c761ffe553169dc41c",
+  "SHA256SUM": "9280e417559cdc5a50bf79aacd3509062a916aaf86264283a5c15bd845f40a0b",
+  "PGPSIG": "iQEzBAABCgAdFiEEado014/g79WWrG0EnYk+xNqvkSkFAl5PMJkACgkQnYk+xNqvkSmJagf+KpK/+74OHQv6jMBtKr39SppMNFFWYWUmejJoXzCsn44TbCshMP6Nb4MWTn9rT2Xhlcw+NQyImCDWd+K2P6a2YiIkUcQMzc2Zx/r08fteNQDHeXvvlkVnDIKGuISI2Fmwzj1TOioj6QFDzdnBdMlr70WF5X6BXwpDyiVmOs0zGwmHbNzEFwMVfohZuO3GwDh+ml83SdVXqSKr5/P262OlC9SMjWbX4GfzvZWrUnfiDkC6UaThEoHA4sLT8Xq1KiENw4V2nOFzE2/YBG+cBoBm1A1o7Db1EkaOeNkKnpT2lMFoSDzdlyqwgxDchn6NezNR68G1wI0uyizOo8tj8ZU+rA==",
+  "URL": "https://github.com/ponty/entrypoint2",
+  "LICENSE": "BSD",
+  "ARCH": "any",
+  "BUILDDATE": "1582239821",
+  "PACKAGER": "Bruno Pagani <archange@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "python-argparse",
+    "python-decorator"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "FILENAME": "libretro-snes9x-1774-1-x86_64.pkg.tar.zst",
+  "NAME": "libretro-snes9x",
+  "BASE": "libretro-snes9x",
+  "VERSION": "1774-1",
+  "DESC": "Super Nintendo Entertainment System core",
+  "CSIZE": "617570",
+  "ISIZE": "2139493",
+  "MD5SUM": "8b64912e91b85b1caa86398b10d20303",
+  "SHA256SUM": "3dce15aca8cd64059562dc939a5a39178e4ba40dc18bbf0f4d652ddd13b75267",
+  "PGPSIG": "iQEzBAABCAAdFiEElDfdOBWnqRaePTlGr/XZUJi8b/UFAl4pxFAACgkQr/XZUJi8b/Ux4AgAjM8v0b+IEWpXhLJ6Rpy9DWHnCUE7hV3mJ6XCv93vK5dJmdeHybQr/AMeYG9OwuP/eKDh70UXIN/oXMHLnyrGoLAI0kjv2V3+4UpqbYvAWtORmSxUP1XMNH3zUiYJjynpl/pUfQj6gOyDiQIUX1vCDE6QeatzH2/Qn8XUgZuGL5w0bSmuRtC2LTUsMEbjQDpgY61jHHCKd8//ZtwCJUWQLQw+nlVctc9U04Ou/uE623ui5xKTEBvVUOS1Rk0TX2I+Avo9Q1fo13KNYwYl/CvQ1Tkqz6iPmrpNZWjbE9h9CBgLUdAB/VrqmS5LR/cjWQo5gnj4OvfgFSafHCjhdyfy4w==",
+  "URL": "https://github.com/libretro/snes9x",
+  "LICENSE": "custom",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1579795474",
+  "PACKAGER": "Maxime Gauduin <alucryd@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "libretro-core-info"
+  ]
+}

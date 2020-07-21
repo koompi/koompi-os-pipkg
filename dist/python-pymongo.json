@@ -1,0 +1,23 @@
+{
+  "FILENAME": "python-pymongo-3.10.1-2-x86_64.pkg.tar.zst",
+  "NAME": "python-pymongo",
+  "BASE": "python-pymongo",
+  "VERSION": "3.10.1-2",
+  "DESC": "Python module for using MongoDB",
+  "CSIZE": "459830",
+  "ISIZE": "3252450",
+  "MD5SUM": "de74c5ed0988aed341fc3acb092bd46e",
+  "SHA256SUM": "8a734be9a256ed7e5bffa97863c8b2dd0b69fc54d911e51c3cc6b593aba50d09",
+  "PGPSIG": "iQEzBAABCAAdFiEE5JnHn1PJalTlcv7hwGCGM3xQdz4FAl69DpMACgkQwGCGM3xQdz5A7ggAgh709Ay9jrzV/e31zqPvahl650MzdvPINJ/x0kLMim8ctX+tsUV7EbGYmHoH5XuvRhEaMdwKkz3jwRjBaDXi7skp2hxgSE9fFGLthLiZaxCRuxL/WQoXbXRHEuoKyxWgH9+gu2tbOZD//8WOiikmxrunCcf2E48Udmzttm4b2TgdRgZIleL0xFTdk9KlTOrz4MqvHKKdsOJXOGoZFeG8bZGLgjyYQaVkwh04q8XhbC9JVdwfOjVYlBIhTDdAEZ6Xs43KJ4ZRijIq42b2ksLbJ83ccs3lyg34kz1sWss/oqliG6fdJMlQ7zASiP0gVnUSD7jrXVr5F/xhzOdoWTze1A==",
+  "URL": "https://pypi.python.org/pypi/pymongo/",
+  "LICENSE": "APACHE",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1589448264",
+  "PACKAGER": "Jelle van der Waa <jelle@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "python"
+  ]
+}

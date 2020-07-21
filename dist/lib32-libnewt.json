@@ -1,0 +1,27 @@
+{
+  "FILENAME": "lib32-libnewt-0.52.21-1-x86_64.pkg.tar.xz",
+  "NAME": "lib32-libnewt",
+  "BASE": "lib32-libnewt",
+  "VERSION": "0.52.21-1",
+  "DESC": "Not Erik's Windowing Toolkit - text mode windowing with slang",
+  "CSIZE": "47652",
+  "ISIZE": "143360",
+  "MD5SUM": "d5ae9cf38440629d54bfcbcb5f30a9d4",
+  "SHA256SUM": "2d8eaff5394c7f7549282dd0c18ac86cb239e210033ff4a92128243ad18fcb59",
+  "PGPSIG": "iQEzBAABCAAdFiEElDfdOBWnqRaePTlGr/XZUJi8b/UFAlz01NIACgkQr/XZUJi8b/VG/wf+MLPP1urRFIV7JRnh6yDMttSbq3whwG6+P+uGUsbCP9MtNghkhcCGR1Of/MOt+Pcv3/qUYVolU3AWeA8B+cL09zOyLuVd2INHvGJwgilIFrrHSuZxwnLEMLltYq0am/52hOiKZlQske+l5S1VPkdkwendixb3cafuFoEW8NH8+KUn7QW4wEVR0qqUq0eaWwFEVoEMtzOoGOzn/do59D48M8k+wrBgu9qpdqUq8C2p51oMwYKa0DZdAd2eD57iorOY9ILCyMpX30LsXswCxppvHK7IMLTpUJ7/uh+knTHM3Q3lEJJNxrqsYnOvRugedWSspzTFQDUJRIk/xpyv3Zo6zQ==",
+  "URL": "https://fedorahosted.org/newt/",
+  "LICENSE": "GPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1559549084",
+  "PACKAGER": "Maxime Gauduin <alucryd@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "lib32-glibc",
+    "lib32-gpm",
+    "lib32-popt",
+    "lib32-slang",
+    "libnewt"
+  ]
+}

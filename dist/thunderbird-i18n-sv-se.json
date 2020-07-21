@@ -1,0 +1,23 @@
+{
+  "FILENAME": "thunderbird-i18n-sv-se-68.10.0-1-any.pkg.tar.zst",
+  "NAME": "thunderbird-i18n-sv-se",
+  "BASE": "thunderbird-i18n",
+  "VERSION": "68.10.0-1",
+  "DESC": "Swedish language pack for Thunderbird",
+  "CSIZE": "523868",
+  "ISIZE": "591596",
+  "MD5SUM": "bec37ac554fb8ee9d854dd8c8ff05277",
+  "SHA256SUM": "274f547bb6abfdbe8ca1b76f900d97b2e8bc509b0bc2dbaf728507204a241c60",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl78eGgACgkQeGxj8zDXy5IjVhAAh3TX6XZwpxi8v0fZkQkn4CMEDh2SRPhsHBjiaQTqSUfv1BvV56Wod4K5W5fb+lWjfVd4yQWNKDhnJ1IAohgEEAQFDaQy2/FVzBKUG5ytHTC2iO4hGMKa2jfXpjtu8Eh5HC1ix/UySRJjD9EN58itjsfPq2/Sd0hZudFG6ukGUsZMlsYjFpqtfsY3nOgcsyMFufVV3D1t29FgcWkaqgzTyav+8F/Qp5XXFdoW7uF3DS8hhSDO4kJS1onDCgkOEUAdx//ffYqaS0Z6mVzcSpsvDiBFQYWQdvpIZzJ+e/Mr2G5JghufX9TJieVyAULsb+IOk+QwGDjtyz/aH5GxET/BDnU7tNLM7/CffB3CGsVy0TmAiSIUS/mVVmiWCMIwyKkNofA4xxE2fv784IXctR4k+WNRO0UH5rq+AU8zE0fCLjNzCSkHGNDIcQj/KlGjutRcSSaEnhxGxTkZUfrk2b+uRM5o4V5ys2ljyxn/jQ1qFbPRa3IlsN+zjCfIl4b7wnWfY6UqbAQ8//YIIUo95PIQ3bKR1jP13Liub1+h29yTDfCJRISGuYpxCpc7ky3nfm3G9sl8HEWjx/CWNlpM6FfCFBGyhutEt3vd3ETi5fUkOFBqP9oWqdExFK+TCo9ev2/jYrt68CB5iZDeWHqPw6hxiHeQ6LA5Qg7I0q73JfVFeXg=",
+  "URL": "https://www.mozilla.org/thunderbird",
+  "LICENSE": "MPL",
+  "ARCH": "any",
+  "BUILDDATE": "1593603702",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "thunderbird>=68.10.0"
+  ]
+}

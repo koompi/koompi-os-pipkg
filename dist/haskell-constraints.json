@@ -1,0 +1,26 @@
+{
+  "FILENAME": "haskell-constraints-0.12-9-x86_64.pkg.tar.zst",
+  "NAME": "haskell-constraints",
+  "BASE": "haskell-constraints",
+  "VERSION": "0.12-9",
+  "DESC": "Constraint manipulation",
+  "CSIZE": "196373",
+  "ISIZE": "1400562",
+  "MD5SUM": "c2d052699fb419b1a150ce0df334ba49",
+  "SHA256SUM": "08aa805d5cc95d125205f5b85dd5bfbfa49b40a72870940fd69d90015a8969df",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl75AwEACgkQeGxj8zDXy5IThQ/+Nqfk/k5WtCKXJu3eoGM91LoRyZ8P3TnZVnPvVxX/FWAdDQwMRU3kZSVo1B82P+QM7ORjKVD3fS68ZeyL20Sw4MWAE/ni1e9TRuOI2msMzx2aJFz67zsrrsagPPlJm1bS9esPheI0sSNzmlFOFz07e/ScTjR9/HOMdUcGXpZYKB9UaWGwO2XHps3jvbMq421LLRA2ucTbIEvgBgVq6aHK/9XjhNxE2/cZTJSouNZRPBGYLh0/uQP4OZIo8pudh4FM78eSwQF6S8t/h11Ni4Izvgc0LMRP9qOjGaGUNB99FL8QM79YB0Q+IsWx2mjMP/PU2gLCk0fziUi4ifZRsmNOqs4UrkicKhL7MZeeyUQYmOfTaZDSz0MCUFc3fMR0eKjkNyRZGzLNIOXiaG7oCZJjomjRRJecHYVf1yagSKqpHk78RjDJmMZGnDw4ZX+JgsC1PxRHrtp7DsHItHqPm/iH0la9OXnvPrZf8cmRJ6kkl8557CzMEOWuARdI+D/b/t+WtzFZ2k3BLdzwSp8Wzt5z4LW6TF/+Bp1aYxEH1TZ53lHzhqILpuif9Hx77bbFiaMvRp+KoPxtPPrNUTVzl006S5J6vL0qq7Gy4H5zwFRV6mGP0w0umFxcD+dp2ly6JstBKUJ3yEuTTJAK5UrmG/YnGCE29lLkZ9SQHQYhvHR8YQM=",
+  "URL": "https://github.com/ekmett/constraints/",
+  "LICENSE": "custom:BSD2",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1593377506",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "ghc-libs",
+    "haskell-hashable",
+    "haskell-transformers-compat",
+    "haskell-type-equality"
+  ]
+}

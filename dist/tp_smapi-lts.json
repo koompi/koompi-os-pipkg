@@ -1,0 +1,23 @@
+{
+  "FILENAME": "tp_smapi-lts-0.43-76-x86_64.pkg.tar.zst",
+  "NAME": "tp_smapi-lts",
+  "BASE": "tp_smapi-lts",
+  "VERSION": "0.43-76",
+  "DESC": "Modules for ThinkPad's SMAPI functionality",
+  "CSIZE": "23781",
+  "ISIZE": "21069",
+  "MD5SUM": "9b58caf722972691ca33d826cf8a41fa",
+  "SHA256SUM": "fc2f23e824b729217246e90d59580abf42c009c00b4148f10cf062bae21b9e8e",
+  "PGPSIG": "iIsEABYIADMWIQQGaHodnU+rCLUP2Ss7lKgOUKR3xwUCXvzLVBUcaGVmdGlnQGFyY2hsaW51eC5vcmcACgkQO5SoDlCkd8dXaAEAkQeFvZ/chjC0CiNQ5auRnxK3unSQhMp/TUc3IWa2OvMA+gPik2hXQELcCzYA4PzatB4Uq9aJzX9ANrb3cBmmgXMB",
+  "URL": "https://github.com/evgeni/tp_smapi",
+  "LICENSE": "GPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1593617468",
+  "PACKAGER": "Jan Alexander Steffens (heftig) <heftig@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "linux-lts"
+  ]
+}

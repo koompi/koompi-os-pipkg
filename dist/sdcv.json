@@ -1,0 +1,25 @@
+{
+  "FILENAME": "sdcv-0.5.2-3-x86_64.pkg.tar.zst",
+  "NAME": "sdcv",
+  "BASE": "sdcv",
+  "VERSION": "0.5.2-3",
+  "DESC": "StarDict Console Version",
+  "CSIZE": "63650",
+  "ISIZE": "147114",
+  "MD5SUM": "b4da8c3031f1e9b9ae40c8c1155c62f1",
+  "SHA256SUM": "1760ce394d07f4c679936ea21a5e427b9df6df1a09e0cd1194d824cd5e71b3fa",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl8EmrAACgkQeGxj8zDXy5IW+BAAlxfLV/H0ziPJxYX1/1MCJS+yFLNMycu13bW8O/VSrIKlRV47kIt9LOjfEnQiorLvKhh1vxfXZ1uFNjJf+mpCJs9Zlt5/XKChheH359Y08EIQTs3F0qKI9GS/i206KiWDVEyEKWhM0RT7I+KeKKt1yJ1oxovokHe+JWpWk6iIpxsqjDQfbWkaH/PKaCl1PUXIYijyfYfP1AdrKiLOk69b9+TahRFK+8lBKacdQ2IcIk4hZKLsODsq/I0cdxV5YVbKrxa/xWNmSlRu/jAXd2UfdvgQD0pa3VRjoBz1JgwgKe3zRuJex6CajUw9OcwhqEcrrwr0FyOXLMG6rTNxcTnR826mjf2GasFIYz+zHlFzfBfpJjNT98wnCpDnnNSthjnXGEBZQ94wzvy9H+JwjnXn96H45a4khvVO0foPKA6K3M96e8w1Fn5isZtSLXT7pWWTDameclmXuOwB3SZbEHOoInXldsys9qo9OyKpGro6bGEw2jZ/ljHq4ewTWqchjmqs+HL2JS0aUXjB0D76oslEIKxRO7vVZvjAfIbbr7azyZvWorRr/9G+qKcZaynyOK4/Y85r/A7rR8pKYna+iltS/0v9TEcale2q0GvZWrC1gUTUlUx82QcIrgtaHYWqM7G41/XpCkuVNKaCU5YJnFa6K79odukP9RjB/v6QkkAgc+U=",
+  "URL": "https://dushistov.github.io/sdcv/",
+  "LICENSE": "GPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1594137036",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    "stardict"
+  ],
+  "DEPENDS": [
+    "glib2",
+    "readline",
+    "zlib"
+  ]
+}

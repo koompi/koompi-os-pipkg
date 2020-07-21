@@ -1,0 +1,23 @@
+{
+  "FILENAME": "rankwidth-0.8-2-x86_64.pkg.tar.zst",
+  "NAME": "rankwidth",
+  "BASE": "rankwidth",
+  "VERSION": "0.8-2",
+  "DESC": "A program that calculates rank-width and rank-decompositions",
+  "CSIZE": "10565",
+  "ISIZE": "32579",
+  "MD5SUM": "c0be4d01559c8340c17ffd343b7e468c",
+  "SHA256SUM": "969620ecd16f1e07e17a6600f0ce51b36356e1af21998385a08e2a54f92867fc",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl8EbgwACgkQeGxj8zDXy5KUQQ/+LFLn6vhZJ/YvCDV302hKOQtYyc+++fW5JziooavjpV+iPqzNzgfiQJVSIbUv+BzFG18g+73ujTvSnys1vaaCPol4vjSpZm4STmoe4OIVX2Ak5h7yoHtGGwpnN6uRXlASFC54xa4L1VHei2cpOPOj1tDWqJlB2Z1lA5HjF+VFQWLDfbGbs0a/SjHFoaytdi3C4z8udPNpMB7U26olW9vLxDNjsAi/WzDG3hBBi1x7VfZOsmrJrn5+0BbvuZuoD+oWkN5pmyV5I0LKi7yhOFakqsAMPKBalEX1Nnt0kZs1vXHv50RTRuyVfk8wgrQyeRL6Q7GFbH11JIGhW6qkUeMvwzv5JmcqSO+VRwM7r4ANr3hUpuF2Yw91dyKe5NtxbY2RpqK/yFHs0bjRw0WcbN9OUlt3mdVJAc3msVQ0QOZgMyhRDpIyjl6zmg3mFMCLJJK6C+9OzG467nB6RpzvFJ3PoK5zMKk1//39yikTAXgWBi6vDbIwS1DmNSxQ6u0rs1GuN1tuUggPokx7grz5xD066MQY3QNmrI/If7q6siR2+6HUS9abuKFFkdqGWqaaHeGzRf4jJVM3A80Bx6M1I0hSQvdbgnNvABfKiLwVCkh7CJ8PzxGfCEyp17bYyZ4HqZuYLPXD/caHW1e4YrlRpUzZM65pr1InVJ2vVrdktrfjFos=",
+  "URL": "https://sourceforge.net/projects/rankwidth/",
+  "LICENSE": "GPL2",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1594125807",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "igraph"
+  ]
+}

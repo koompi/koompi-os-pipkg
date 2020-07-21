@@ -1,0 +1,24 @@
+{
+  "FILENAME": "xbindkeys-1.8.7-2-x86_64.pkg.tar.zst",
+  "NAME": "xbindkeys",
+  "BASE": "xbindkeys",
+  "VERSION": "1.8.7-2",
+  "DESC": "Launch shell commands with your keyboard or your mouse under X",
+  "CSIZE": "23915",
+  "ISIZE": "55869",
+  "MD5SUM": "d851734c4edf2ae4df8fa247bf6c5820",
+  "SHA256SUM": "661040fdc8bbf3ed0764c370018e63f745c21bb90f10ba85061b386a2dbb78fe",
+  "PGPSIG": "iQEzBAABCAAdFiEEU1nMa+iBGLUfXJC1YH21X/cbcFIFAl77KEcACgkQYH21X/cbcFLTcwf/cfgc7qk1IQKlJNhl29tLLv748o2+DyI1wU7JiBdr4pDXs6X11F5js+9DP7KGFXleAYaIpP7gVGkn8la9X1qqgUiyEbW55n/thkPZAZBrZzskzhU8008GvWwM8meN1G45/qUeVNw8qs7eKPy/pG72QLTxAZ60NheSL4NQ5mx6Oj6Nae3VxJDPl50LL+40iRVFyLcReDmSnueobdpAmC6kfOsq8bDNsBzQuz9dVczex4yaq+5bryRX32EgYBWbdw0pP2B/Fw3w1l72+mfgLQwWbNXoXHneWpbeGUmGibmN/ZHwJ+u8WrW+ExcPAxuh55GXURnP3ABFJ6r1Q2HUZ7jvmQ==",
+  "URL": "https://www.nongnu.org/xbindkeys/xbindkeys.html",
+  "LICENSE": "GPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1593517796",
+  "PACKAGER": "Konstantin Gizdov <arch@kge.pw>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "libx11",
+    "guile"
+  ]
+}

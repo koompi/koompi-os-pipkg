@@ -1,0 +1,25 @@
+{
+  "FILENAME": "gpsprune-20-1-any.pkg.tar.zst",
+  "NAME": "gpsprune",
+  "BASE": "gpsprune",
+  "VERSION": "20-1",
+  "DESC": "View, edit and convert coordinate data from GPS systems",
+  "CSIZE": "1131475",
+  "ISIZE": "1251821",
+  "MD5SUM": "122dce295d139ed2ca0dfc1959a5f5a1",
+  "SHA256SUM": "cb75261fc1bf6d200d0dc14aa1ca1a56337ca1ff8667bc711dcb2f0b4a25381a",
+  "PGPSIG": "iQEzBAABCAAdFiEEzgvecadZqH8j8PfYth284QkBwWMFAl7Op8UACgkQth284QkBwWPbhQgAiRmQ/iYcOFC7qmCSK9GGtGYKQKo5IFjS+5dyDJ+n+SFUVuxQi3Zt/PvNesTvAnoagwOqanqAqRVwMWRmaqxZiJCP0p7h8RNMa8+zx9nuual3+5l1NFr1ep2Ddpblu35D73iqK0rBtPrN2mP2Kf13k6azwVtUIV78N7SuWiX7CKmLdJX0YlOKosbcaW7tnpnfCoxK+NmYAC6LbijJDVEoAFy8YEH28ZwzGYBI4km4LNqv0HF1KOf76rN7MHicZk4diUbpFJVsMIk+qygBAOkKVLLXg5twpUFBglZIqIOqT8j5t3aU452DC+K+Gs2FEVu4T+cjkRnl9c5QIsmpauvcGA==",
+  "URL": "https://activityworkshop.net/software/gpsprune/",
+  "LICENSE": "GPL",
+  "ARCH": "any",
+  "BUILDDATE": "1590601643",
+  "PACKAGER": "Balló György <ballogyor+arch@gmail.com>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "desktop-file-utils",
+    "hicolor-icon-theme",
+    "java-runtime"
+  ]
+}

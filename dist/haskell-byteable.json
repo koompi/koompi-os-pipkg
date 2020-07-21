@@ -1,0 +1,23 @@
+{
+  "FILENAME": "haskell-byteable-0.1.1-18-x86_64.pkg.tar.zst",
+  "NAME": "haskell-byteable",
+  "BASE": "haskell-byteable",
+  "VERSION": "0.1.1-18",
+  "DESC": "Type class for sequence of bytes",
+  "CSIZE": "11671",
+  "ISIZE": "28541",
+  "MD5SUM": "44c19c494ecaa2a66123a245b9ff8d64",
+  "SHA256SUM": "8d081a835755988b005fb414eb91ed27153338bd9b54042adfc0bd70d1b0dd6f",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl6hbigACgkQeGxj8zDXy5IUKw/7Bd1K6oKJevHrj5EUmEhwDdXgxIKmSmQqa1nutmEWgbqaAV60uJavDarYX6vTYIUd4HwQI6yT2Hf1yTlJqpVaxTohza20Bn752xTq1ED+ubADMWdlE7juyhKMdQOrZiUK1csovUCQQ16BEvR8EcKDM4IG2Y2xFXCu6jXwPfCT/VwA8qwSnOMYGWV+cRicgnNsFAAKoxJrJq/d7R7siKvjl8VVkhrTEpPTXfMmWdLH8joA+hZT/b33RBbsJieGboSQpZYLi0JBFNJBY7MJY02U3hqOm6Z4JXzRf05DF1ZsrwMU/Xu2Iepf2FAz2W2eIjz7sH1ZNElQiX+wMM54r9jLjS/LUFU1qw09hRY1MWKkobbmS5iVNAI7VfFXNVDJ/a+iP0mqyEUYBUO00iJpe5czirQWskl3yalHS2iaaev5ilb70IG2ayr67wpxrOT+sS5ZHnZhD9X5NuQLGd2HkPZNKGlYUqNnIqgxLNSCKUBYRWJBZ1A6lAYl6HONM3ECHPxHusn44JTSP4jA31xUQhhzRvRUv8igLbe8/AxDr5UoiKHweO+Vp8FJUsZGz8TElF+o9r0QeR9ob1ieFKRYN9jwgPnr76aJW7YPt6vALUWY955LfDQHQjmTO/YsntFf5kZsvnm1jSdZcD0pXml+2DDKssovnmnSHzZgeIQ5YSEuaYA=",
+  "URL": "https://github.com/vincenthz/hs-byteable",
+  "LICENSE": "BSD",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1587637712",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "ghc-libs"
+  ]
+}

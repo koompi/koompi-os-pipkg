@@ -1,0 +1,25 @@
+{
+  "FILENAME": "nautilus-terminal-3.3.0-1-any.pkg.tar.zst",
+  "NAME": "nautilus-terminal",
+  "BASE": "nautilus-terminal",
+  "VERSION": "3.3.0-1",
+  "DESC": "Embedded terminal for Nautilus",
+  "CSIZE": "22855",
+  "ISIZE": "74229",
+  "MD5SUM": "ce292cc7f498ed25323cc12a6b60914d",
+  "SHA256SUM": "9eddcddd7ce90bb9fa6aa72099233ff9d96e3c7cbc8e535121a5595ff19b7d32",
+  "PGPSIG": "iQEzBAABCAAdFiEEzgvecadZqH8j8PfYth284QkBwWMFAl4cTy8ACgkQth284QkBwWN1Lgf/QmG7wpArnb1N5zRod4Fv0nhuV3x//u7SKg+icORjVmEuLK3Yoc5J/1w4AMi9iWjl52yxX5XficPE8RZ1ny848I1+sf0CfyEIYOwjiktgSWGn2NdgROKhdva2SEBshKjMszkSNUA/FTxPbnOwtgWlQorFHUlg+PxDfcWnRZwc+ONIJJRl64iWSzrY8pPXArQyEOgEY60ve3ZT9Zref7nyucZkHEoc343yS4QxALK9KeV/xgbx2ja1bqYP+VVENZTOWLLHqHcmP/gxTGKuDwhJjXk1KBcGEwOoknSrsBieiYiidz5lWRjUvak4Do4VYojZA+6ia6hfCDjIrXbVRQgKCA==",
+  "URL": "https://github.com/flozz/nautilus-terminal",
+  "LICENSE": "GPL3",
+  "ARCH": "any",
+  "BUILDDATE": "1578913542",
+  "PACKAGER": "Balló György <ballogyor+arch@gmail.com>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "python-nautilus",
+    "python-psutil",
+    "vte3"
+  ]
+}

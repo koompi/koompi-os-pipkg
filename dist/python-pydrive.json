@@ -1,0 +1,25 @@
+{
+  "FILENAME": "python-pydrive-1.3.1-3-any.pkg.tar.zst",
+  "NAME": "python-pydrive",
+  "BASE": "python-pydrive",
+  "VERSION": "1.3.1-3",
+  "DESC": "Google Drive API Python wrapper library",
+  "CSIZE": "43707",
+  "ISIZE": "244676",
+  "MD5SUM": "1fb6db391e24ad84fe70fbf987e1fd0e",
+  "SHA256SUM": "46a57a3d716b0b21af3f31d8e87239eb6a7388ff3ebbf268e098f68cb539fad4",
+  "PGPSIG": "iQEzBAABCAAdFiEEFRnVq6Zb9vwrc8dWek52CV2KUuQFAl4fGyMACgkQek52CV2KUuQdHwf/WQc1Iditb4YFmUJiqOD6jNQ9NVasVBri+TXOrzFsTsLViFe0FH1Tm7tZK/3f3DtpHb52rXYQ9y2hwqm7OGkyapHt0HcajeeeENMtsIMlS+m+lqQoa5yqF7df5XtklBfwGWpbHQAzLB9QQ8SJ1zKAz/W0Scm2dwANo0qpFGXXyioVolHgAZlmFIx0to60jmSQllalUMPTjRwn004UG1VJQe5CR+Ev9BMC0lEwrFOUYFv8w7GLgiUZT4o4wN/b1N6C2R874I6YnK+OmII7eO+8Ya7dFkd4o4+9d4mwu2HCGyQyN8xawPr16LCHmo64t45kZbXBEzHL2efRbWjfOiP5Pg==",
+  "URL": "https://github.com/gsuitedevs/PyDrive",
+  "LICENSE": "Apache",
+  "ARCH": "any",
+  "BUILDDATE": "1579096744",
+  "PACKAGER": "Antonio Rojas <arojas@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "python-google-api-python-client",
+    "python-oauth2client",
+    "python-yaml"
+  ]
+}

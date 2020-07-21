@@ -1,0 +1,30 @@
+{
+  "FILENAME": "haskell-tamarin-prover-utils-1.4.1-50-x86_64.pkg.tar.zst",
+  "NAME": "haskell-tamarin-prover-utils",
+  "BASE": "haskell-tamarin-prover-utils",
+  "VERSION": "1.4.1-50",
+  "DESC": "Utility library for the tamarin prover",
+  "CSIZE": "218285",
+  "ISIZE": "1195711",
+  "MD5SUM": "9cd0fe9fdb627c5c69def1f805ea25d9",
+  "SHA256SUM": "7e80f2fe6034faa3882799e880f7076b550e6c986441245e4eed4b1889b875a2",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl75IeUACgkQeGxj8zDXy5KwEw/+ILFx4BLuNoaMI6LU+BF9CieHb4s0LM6BuigwRjysCaYi2sQCUjBONP7qsIfRx/J2+iQS5LW8EVTaA27hkRFZTVH05/n+e3UOkKm1LbQsCYHoDAaDOzhMc+njbZY1SF8stWwrVetxUnI0ylZIbOP3NS/GgMVBdfC3fdcowBo66vVsYeNFhAwUsli1L1A2ilVHO8oM7CY1tTquq77BF/bNEVUjlt2F7DfgixukDM+/MwQZJaKF2I+gscRijsuVGvDfbcezdpRH9pkTr9xvEzc2I53A69xM7vIwvPeaAKHqunGa8Com8KycTtZDa0MISKKuXzTUjwsga41cGqkVwYL6AjQMrIfXWKBz1aAtN0OUJQVn9YH2UerxIpnPSdIXpjq21hDY7kql9DtekrXV3vasFSc6gevIyvkBIO6djOcbdg1Bl6h4njwQ56AZNXxblVwz1wnNLwJriKFVYf0rEyuoWsmbzPsnpDhQZN75D+F+jBnsvoIn7uvMv5tDJw5IQ/Gz3Mrbl19EhWYq/7A94xrQ+hbPamuScqYue974NliMfhRwGrh0rEZ4VZX4fLTAx5TOrpRU118yXUjJegM980O7/0aivWD3npKTSKzJCbzBPN0Wg5/WmNXCBqNp54qBXsAwG4gU8Gm16MMuFC/aOPlGDG7mC9jiPFiVvVsoFhhJM/8=",
+  "URL": "http://www.infsec.ethz.ch/research/software/tamarin",
+  "LICENSE": "GPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1593385419",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "ghc-libs",
+    "haskell-sha",
+    "haskell-base64-bytestring",
+    "haskell-blaze-builder",
+    "haskell-dlist",
+    "haskell-fclabels",
+    "haskell-safe",
+    "haskell-syb"
+  ]
+}

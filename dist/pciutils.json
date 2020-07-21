@@ -1,0 +1,25 @@
+{
+  "FILENAME": "pciutils-3.7.0-1-x86_64.pkg.tar.zst",
+  "NAME": "pciutils",
+  "BASE": "pciutils",
+  "VERSION": "3.7.0-1",
+  "DESC": "PCI bus configuration space access library and tools",
+  "CSIZE": "101991",
+  "ISIZE": "279696",
+  "MD5SUM": "0f83458ced5182036a27d3bc5af2e32c",
+  "SHA256SUM": "fa40ab1af32d4687ad1da606032e38b1fd4382aad135e68fde34954308d4fe9e",
+  "PGPSIG": "iQEzBAABCAAdFiEEFRnVq6Zb9vwrc8dWek52CV2KUuQFAl7bkdcACgkQek52CV2KUuSUqQgAi9IAVB6zRjddd2Lf0SH8nCt1KPtQ4bc1myespb96f6MN8yfzT8UiEL1Uboa6u11EFso9QAbaRW0/ylUXLMhtgLOm1xQp1yxc9QpoOgQy1o0R3dY7JwEKsC0DhzfKLtvxI6Qabfa6nU7LFrwBRYfSespk340NKkiT5ng4QMZp5kTWd98KB4ViYuUHZRPYMGnNfoUsWL3CBEw4G9nyVNJTqUMvsxTCZYSRGpD6RKyu5pRPcdaBZzv39dH6hy+qavtIZX6hJ+ev1tr3Fs6SXVcUsd4QNqcLlE4knzWBFg8jexNn322pWSKIfRUMHxl8C0OmCPQW/dv9eSftiejgr51duQ==",
+  "URL": "https://mj.ucw.cz/sw/pciutils/",
+  "LICENSE": "GPL2",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1591447992",
+  "PACKAGER": "Antonio Rojas <arojas@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "glibc",
+    "hwids",
+    "kmod"
+  ]
+}

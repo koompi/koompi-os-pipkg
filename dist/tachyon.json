@@ -1,0 +1,24 @@
+{
+  "FILENAME": "tachyon-0.98.9-8-x86_64.pkg.tar.zst",
+  "NAME": "tachyon",
+  "BASE": "tachyon",
+  "VERSION": "0.98.9-8",
+  "DESC": "Multithreaded ray tracing software",
+  "CSIZE": "1798695",
+  "ISIZE": "10091832",
+  "MD5SUM": "6ce714010aa37a4907676968c9d261a6",
+  "SHA256SUM": "8c72d75312cb5846719745e6c4ebc6127eed52f049b8f8744aae15c7ee5e248f",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl8EcXkACgkQeGxj8zDXy5JyvBAAjWzCHyW4rBEA3sZ7B64U24TPMC71le3mIakkD62P9mGhIoYDKYNdDf4x/bcsuiGAekd3JukpBhYP3tRW4oF4cgH6XZyU/Ie1HYvRaaACu0Ezg+r/5+Fu6rDkdlLDOWYJWYx0L+lvnCIf9JXERZahfV3LEfAb80FNcTcf6OXOC3IROKsu46BYRUxvQvtUnPWJ1zBZzv84fWSvveF57UpcC2qCQ0CEIuLHudmnhMu7u3zE0yndd5k2etHs6Md9cGKWAvr1UrYSqWNe1820H7PEVW7OUkLP+bVVIt/2UkCkIOaRLg7MtUTlTNx/DMWEWJ7adGJcx+LhBtR3Jf3nmjR0sf4G2ZTj4+ThZ2M2LvmHJCjwcWPOSCbiGSowP16Q7JgrdjBd75kzh7gBErI37IV3oWfjBFPjYM7b9qY7LObrskHPVUbgHoaLpsEKcOwEw6YLfEA9MJ6Ll4S1ozuvkdxNEd+6kVromq19layL1W5+EYRqRHTl+iOrshNslh9kraYjjm7tlz/IOMmZ/fURhmB68xzCl7oeuOEf/i0XbBllcjmQUfEkYTP2zpNwlBL3ogwoUT//OpKOgLojuG/cxmXECaEIIJ2fH5m++hGW7qMu4rLE2VG5VSlvpA30xXEqrc37ivlkquSjBoksMlkVBZzbIePBNf8KlhXcCgYuUlpNs0w=",
+  "URL": "http://jedi.ks.uiuc.edu/~johns/raytracer/",
+  "LICENSE": "BSD",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1594126656",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "libjpeg-turbo",
+    "libpng"
+  ]
+}

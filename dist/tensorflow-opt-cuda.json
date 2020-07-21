@@ -1,0 +1,29 @@
+{
+  "FILENAME": "tensorflow-opt-cuda-2.2.0-1-x86_64.pkg.tar.zst",
+  "NAME": "tensorflow-opt-cuda",
+  "BASE": "tensorflow",
+  "VERSION": "2.2.0-1",
+  "DESC": "Library for computation using data flow graphs for scalable machine learning (with CUDA and CPU optimizations)",
+  "CSIZE": "259084836",
+  "ISIZE": "3948679116",
+  "MD5SUM": "d8e71775c0d5c30aba0c0984b2e43375",
+  "SHA256SUM": "1cff90a906eabeac9e177f9263fcd986dcb831214288ae4e6913ef431b5f4f61",
+  "PGPSIG": "iQIzBAABCAAdFiEEj8FaBklQqZ3RvRTdOeS4d+YuuRUFAl6z9WIACgkQOeS4d+YuuRWMEw/9G1hUXDhbvez8VfqNbduxC6cNsDjWr4tGTBQEdm1+ItUWJuwgZxaH2Wb/7Ih2ONuqoiadWedpyuaJU7nkfKAztlfNJNppY/kjZDFHm7IRevdc5BIhyb4i4jNagsE8L6kyiYhJYQn7AKfQZ05kLy3pLNS51u+ZE0lJ/Mb4hJMqA/+RjDv8ZArASPSrLUjA7XY0cMWrD9EFnqa/UQmRStGaWtZJtFn9bEUXLfpWzlbeoELC4Ig97WVBagPIyT7qVzSODs2Vx5ocELH7sO/bpZMU08dSIQEl16j+IPIOa5gdaCaZ7VcMNGmRPVSi8LGq6kttdmW82TgjjhtksD1rdgfAhcQ+cElL3tUPihJXfCRRFDk6cCbbJU1sXSvvXH0FR3dCmmnXXOL7t6KcDtrH8cDsaJCTXi7w8mASmRE+Kh3toJRwt92jrd4vByI/hMJFQ2am4JJ/mn+IfM5jlWi3Dx4qh+WsdjKwQTq6gcYT/0nSibAL38Bic6FSPkm+xypSrRH7lz83RhkTn1YT5uCDr7rE0KKCGzAUwcNFZH3pX1ID0Ufxb8Qt6ksfA71e+U1FtHybPY2Qb+ZBs57lMoO8w5suTwVdBkzuMIH1ChbHA6NOkxlu8EA45t/TX53DUXQ4L0xa+gRKLT3KSAG4FcCA/1csta6BjzGmAFsGGy1es8yLL1g=",
+  "URL": "https://www.tensorflow.org/",
+  "LICENSE": "APACHE",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1588830008",
+  "PACKAGER": "Sven-Hendrik Haase <svenstaro@gmail.com>",
+  "PROVIDES": [
+    "tensorflow",
+    "tensorflow-cuda"
+  ],
+  "DEPENDS": [
+    "c-ares",
+    "intel-mkl",
+    "onednn",
+    "cuda",
+    "cudnn",
+    "nccl"
+  ]
+}

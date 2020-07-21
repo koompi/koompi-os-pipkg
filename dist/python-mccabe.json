@@ -1,0 +1,23 @@
+{
+  "FILENAME": "python-mccabe-0.6.1-5-any.pkg.tar.zst",
+  "NAME": "python-mccabe",
+  "BASE": "python-mccabe",
+  "VERSION": "0.6.1-5",
+  "DESC": "McCabe complexity checker for Python",
+  "CSIZE": "14296",
+  "ISIZE": "40321",
+  "MD5SUM": "a308da5e59ff18700413ace2777c2c4a",
+  "SHA256SUM": "db7f477e7a03889a483af78f26cd5d2343e0ce18d74416858383cfbe279354fa",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl6/r8gACgkQeGxj8zDXy5JYyRAAmOB3Ob5hfgo5qjCfd/bn6gpRDp39dzlL0ufOkaIls3PmLBXK+qWBlHeFO+KbK5rWufhcB9WDaKB6vGYo+cjuwR1r8+DVEHEiEHK62dG+hiuDwn5u2wumEs+zBi/8FbZu/Wsh4dswsCI5i1c9es+w8FUGw0CGAcjNEQMq0tm+KCCwc0M2KUZQVNVZtQTY7W3pGou14jqjtWsjrOoCuCvGMG/5pEdOvT8VtWtZwW+qzbAzPy6ZhsUKb7xE0gXF/DID/g0lCBbX3C7Tztt8qrD0uhUqo/lnfwbZcJBFMwRYQ+EJJHmy8eLkqPg9F3MRnw6yZ+tE59mmzSSYTgMM+qQi21aNqlUnLsKtIjDSZ12i7m1ChBAZrPDcR2vUM0N2ojzRtGi9UxMWzn1mm2G4h2eHIlKvkji6SRyPEnkLdj2PtkB/mNykJLtSVMMVeMG/V+N/nwaYPMdoBautzQ0Eey6/4Xjjn1trktRRrtBpjdIfiMBF7mBJK7yVDZH4VgHZBmyzMpfhMJcZSMSSEEED7jOyPI/k9oFoLScwAoHL5t4Zzy0KzugeiJCoVy9iR5vlCgMszt/dy8HgoXi7Ldxg1QtK9JXsiIVNzGGtTFkDYTu+nCPDxxkhmnSNa3fLJItS1xpdNxs9zFTydYj98VMxRuj8E4mvz40mLLa9OiEKrb4LENE=",
+  "URL": "https://github.com/flintwork/mccabe",
+  "LICENSE": "custom:Expat",
+  "ARCH": "any",
+  "BUILDDATE": "1589620657",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "python"
+  ]
+}

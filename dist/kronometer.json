@@ -1,0 +1,24 @@
+{
+  "FILENAME": "kronometer-2.2.3-2-x86_64.pkg.tar.zst",
+  "NAME": "kronometer",
+  "BASE": "kronometer",
+  "VERSION": "2.2.3-2",
+  "DESC": "A simple chronometer application",
+  "CSIZE": "225729",
+  "ISIZE": "621207",
+  "MD5SUM": "0002e75e4579b0a77f2b4b6c6d9bc12c",
+  "SHA256SUM": "8836f29314c0fc15e6213354cf47ff5c85d2b6bd19f5f0acda3236ec81eca9ca",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl8Ev9MACgkQeGxj8zDXy5LA5BAAsxIMhxiIOoSpWs4OsPQc/vMS+Z9ANtKnzP4xvyQIGOm3co6z2qA5ddoJooPBC6nnCFu6QvUI6kEcqMETWfxlX6TBnwt/z+0P87l+Ks+LHW/6L632DPmb8axDHoQdIWzkrXXmWXSLwO37BKMG0OTl7+gxA7pKHXNMHCEyCeoyfok3vM2T4T49KBSIoz4v6QujKeTDZu/2XEJQQw3I35J0W4ENUTAdzpTyf9V04VSZbtyKRKIqAaIynzRmi0OGjwhnFK/SZA8SuBtmRU5t78KM2dC5GoWaGlz66S5blQfGMbDSyRDoH81koNGWZxeGHByk90Jbl55FAuZmY8RULAeVaWBbkDNBzKOXowoG3tN0dPbBiUzWtV+RIGWg+j53p/+Y8rGUvVG8gwpqK8AxmgaqyfqnjHPZmi0IAatvFX9V+nhdmd1LYglXHNeqAV0eDVFZKpsxpqzt17wroaxraB892tN4w9bd60DWHRfDu/n3kSTcYhlKC+/K3k57vt8+pErB05y+d5Vtu2y++RWvucEE0zNKygiozH5wdeAfrvCJAArUkHQPyMnHHA08soECdJbn6VXC8u1HL+BHAtHMjUol4yBkc+ZJ+/GQaBGjb0ocDJw6Tj9kyhJKzTWYW3T4rZMXk3+/CFOSL3j4xjjb8ZT72JVgB20P/eu9DH5iSRk6fWM=",
+  "URL": "https://userbase.kde.org/Kronometer",
+  "LICENSE": "GPL2",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1594146639",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "kxmlgui",
+    "hicolor-icon-theme"
+  ]
+}

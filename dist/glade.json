@@ -1,0 +1,24 @@
+{
+  "FILENAME": "glade-3.36.0+1+g3907987d-1-x86_64.pkg.tar.zst",
+  "NAME": "glade",
+  "BASE": "glade",
+  "VERSION": "3.36.0+1+g3907987d-1",
+  "DESC": "User Interface Builder for GTK+ applications",
+  "CSIZE": "2712712",
+  "ISIZE": "13548918",
+  "MD5SUM": "18416bc29b7b604ca99deaf34a1335aa",
+  "SHA256SUM": "defd9a14c84c026a4c91a6c28ba10852b53656e5add5cc96cd5db3990615ed6e",
+  "PGPSIG": "iQEzBAABCAAdFiEEghj4iEmqxSLpTPRwpekojE+kFfoFAl6zO1sACgkQpekojE+kFfr1YAf+M/vbDz2NseWucViuW4bmrnDcPXMPhYrbVkygNWhwPcatwB3uhvc+GxsVc5LgCZRJ4hCRfD0x72m66kq+synTacfONP9EwvZEDdY6mzKhV15hpWn2APSUr/UJvbHccccLXIbymF8Ny7IWM8o4UBpwNi9KXRbhI6V05yA3UMHVRsMXL9wUT3QJLlzD4MDiFBAxyQ0US08CJmRK0o1+AhwuqTRqm5EU2Sr7HCgP8Xn5Y6Fm67MXeFFYbfbQJ9sQXEUi96VhgF3kcENMDlXP/RJBVruo4mePATi/ywB+Z4en79Pt5oT3n+zNYHEx/95Wne9DSvK25Jgyw+OcUM5h9rp6gA==",
+  "URL": "https://glade.gnome.org/",
+  "LICENSE": "GPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1588803813",
+  "PACKAGER": "Jan Alexander Steffens (heftig) <jan.steffens@gmail.com>",
+  "PROVIDES": [
+    "libgladeui-2.so=12-64"
+  ],
+  "DEPENDS": [
+    "gtk3",
+    "libxml2"
+  ]
+}

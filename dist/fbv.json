@@ -1,0 +1,25 @@
+{
+  "FILENAME": "fbv-1.0b-11-x86_64.pkg.tar.zst",
+  "NAME": "fbv",
+  "BASE": "fbv",
+  "VERSION": "1.0b-11",
+  "DESC": "FrameBuffer image viewer",
+  "CSIZE": "17325",
+  "ISIZE": "40093",
+  "MD5SUM": "db92d4e660e2a580f78496c235f111c1",
+  "SHA256SUM": "9dc4c5d6f000c957bf3e66cb9561ce2bc486ce32fb04c9ac622e37c10517e948",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl8EtdwACgkQeGxj8zDXy5Jk6RAAhiRac9D6tBuhF9SBq6jUgr5bjGHOYiDgpylDhXBGweTSZZD/oo7oaoOdrvNvch6bC8+Ce0GrpPPC0YVe6x46npIAQiEUIqaRbWxNywMWi/3ZxvAj39d0Omu40ly8E3qZ4uKNX94/5FcPpMIiT+tCNk3iPfbOVa6YaEMXgUdZf0APNlSAZTP6NAHIYgXxQaSFNUJxCa/exgEZM2wcm8+yCE4XZbx5tqixDRz7zhRp8Vm58/q6dX5Hr7wynPUGVNQw6GbclXZ/bZowZapxLRDQ2STrwuJDFKivc0KBV6ISCBlW5KvBkfQZ9Mo/YIrtBOWq/cYc2/s+O4/1bx/K1sqEzg7tKinyQsONv+Ofn6bNETZJWLV4zM7h2VXWDKcHXuWbZe0Pgrf0GV/2wFZ2BET8e2jgO1A90uVz30mfJ5cqF9pwoAz4PyDC2dyMEFWMOd0LPwrQtxflmhVYpm1FaXtzpOEAGPG07SJ4iZAeyR+XEnphFyt7WrX5rgX1ViAShov2uOBk2/LYnqsGBFeqqgTz/84ZOYVbMpGJGQpR7EXOEV5DeibMxgU2MHxtf2pwdK4SyygyYgu5uhRwbpHE8SkhGmHJdgYB0CL7eX0lVUF2cEmrAjBm/svFErgypVAqiA62LOZNLzrXfmnjfWg2N9vLQZcDMvm+/fXIeWaktvQKVtI=",
+  "URL": "http://s-tech.elsat.net.pl/fbv/",
+  "LICENSE": "GPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1594144197",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "libpng",
+    "giflib",
+    "libjpeg"
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "FILENAME": "fcitx-anthy-0.2.3-2-x86_64.pkg.tar.zst",
+  "NAME": "fcitx-anthy",
+  "BASE": "fcitx-anthy",
+  "VERSION": "0.2.3-2",
+  "DESC": "Fcitx Wrapper for anthy.",
+  "CSIZE": "157442",
+  "ISIZE": "546660",
+  "MD5SUM": "2bde7746c6732fb328fa2614d538b791",
+  "SHA256SUM": "dab7ac1816c84c447dff2b4b425426f82c9f08691064ed802612c7ccace4dd75",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl7LxgQACgkQeGxj8zDXy5LOxg/9Gasux+MyMcReRBeStywIMLgl5VnS1YN3IeYzxImk+6lOQSz8nqeSUwMcMzJ3QkA86StN/p4+MA6UmmfwAKQuUaUjr2AD33n116lX+I8GTp27c6AvxSZj5sRMkuuOrZIQZUz54+kz33dt5pYOvBMFLU3GcsTT451nKLuoOHwiynbQmPYup7dZ4IVGgRF3mjk0oLMrqrn4wy2M20WDkDp4PQNyVowNDOBTsVqqjnWKcKFi8XKdUjiAeB/bsH5y4sgz/lMCgUxRIAZ0SquwbafxNKnPyBRjg3jYi4tk2O+L0thUgbzMQJWeaaMPcb78lp3NRiOu5Ec0U/u1JA8ha9POhMQCyJh8d7DIsSQqKaTwvpuAKE0VryQWLg/wrzRKFjy+kIpaDN7m8i7m/HWqqJGjNW25/EUWdQw/y2tgANg9VzMJYXHwULe84lXvugI4WeQwUm9ZBydw85NSYG6Nn1/MBCj/5IHlnym2gvMnnNmIrqTXvCs9kXdltv0JJnbX+64u8bGMitZsPbZ9TQYr3aEz/j0ODxEhDMB+aGMKsfY6pOXLBqq/OxV/XQB2yyK71SUenqO00iPz/ZzdjXyXBbea0ntjvL6fqdDIZ7L/eN2p9ElKok9D+IP5Td5ByN9i97MUS4w+Xb0Frg7Fu2TyrgtjoFruofjMlud3nyzjv4e+k/c=",
+  "URL": "https://github.com/fcitx/fcitx-anthy",
+  "LICENSE": "GPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1590412729",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "fcitx",
+    "anthy"
+  ]
+}

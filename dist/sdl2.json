@@ -1,0 +1,30 @@
+{
+  "FILENAME": "sdl2-2.0.12-2-x86_64.pkg.tar.zst",
+  "NAME": "sdl2",
+  "BASE": "sdl2",
+  "VERSION": "2.0.12-2",
+  "DESC": "A library for portable low-level access to a video framebuffer, audio output, mouse, and keyboard (Version 2)",
+  "CSIZE": "744504",
+  "ISIZE": "3276699",
+  "MD5SUM": "150341cfee2f3444daeed3ee401d2d3e",
+  "SHA256SUM": "121c760a8b3f2ea921dda2c14862270a28997ab519d4cbc0ad4551350f2da728",
+  "PGPSIG": "iQIzBAABCAAdFiEEj8FaBklQqZ3RvRTdOeS4d+YuuRUFAl8C/uQACgkQOeS4d+YuuRV+Iw//Wnz0pS3qvJybXoKLCEqi7BAVyanl0d0pGxsV1e05EV/zYHm/O0Lib6a+ZxM+bXdgbbevSz/IGc9SeBOQAsESquXdUaU04DRHYANOyG6127t7RVdUb/YAGezTutigyvKdd9W8+j0Ky5AAw0ZIBsShKAm+ID6/8WruTwkGPKmmuDVKTgnzfM0b8EW/HkshpPQrPOPzpXFaiJbX8M3ozHXq8KQoS7jotjSM4WNMAEdmwM2a9p9wjyrlKHC3cMeQX+nYiM8+rXXGJdTHBCCza6+Dz4v0oJUChnKFkxe5jh9oqZctwwaWWz6+/QO4T75YEfQMQCEztxHZP8kduXH4jkcgsFZx2Kprg6VpdJrx/jQ2b1z77pLdSWsKp3wAcMLZWJCx60reZmIOb/wx6BBpIVHAoTWebq5nyVzChRk5LwhoH36MZ/SZZXo0qLHU7AtcameERwYRH1aFzgfrvUOHn2g0/9QgVV0lQApAjSDC1Eygh3KZljc4cpe8ir8VsvzZpTtQ8QJg+yBqrSjWd++sbS6SlWXd0gX28Q+lgqhcIT0yZMvS+pYyussxY6yvEG6YvZbjOOD2fp/sFJwsC6thUr0K8uOtIJWUAGNwHvBQGJgHVPPgYWu3YBjXi910AUkxh86FGFBzLzipV69rG0HfUqiuRVAOfzo8SYCbq14soqpBXUE=",
+  "URL": "https://www.libsdl.org",
+  "LICENSE": "MIT",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1594031800",
+  "PACKAGER": "Sven-Hendrik Haase <svenstaro@gmail.com>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "glibc",
+    "libxext",
+    "libxrender",
+    "libx11",
+    "libgl",
+    "libxcursor",
+    "libibus",
+    "hidapi"
+  ]
+}

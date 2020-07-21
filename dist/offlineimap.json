@@ -1,0 +1,25 @@
+{
+  "FILENAME": "offlineimap-7.3.3-1-any.pkg.tar.zst",
+  "NAME": "offlineimap",
+  "BASE": "offlineimap",
+  "VERSION": "7.3.3-1",
+  "DESC": "Synchronizes emails between two repositories",
+  "CSIZE": "265158",
+  "ISIZE": "1583261",
+  "MD5SUM": "e03c7c954a229eaef36a66ab0baa5fc9",
+  "SHA256SUM": "43f7bed00f43437af08b8d48a177d2d3fb49bfe7f182f830f2c4f01a9fe83e13",
+  "PGPSIG": "iQIzBAABCgAdFiEEOO3RiGdWkk4SJOSVJOTNsAE8JYAFAl8DORAACgkQJOTNsAE8JYA45A//f+1Jt8XJE3QOj0mPfX5H7hrpb53xAQ/NEIeHn91kMHjJiEwPdY7dWUtccyqbFAgqXBGDRmxXi4em3ZimB/tWAKPruumXj+xG1PXzd3lL2+DddoMYlAbrKR7wBePGe12GCTCFhQeavqAkUQO9fZPrcIHWEhYyLGSxc1NnoHcyr3i7Fsidj2z/P5WFlL3eBR5d4FS99ykxi3gXG4zdFHsAVf7mhIWRr7dAWPkPAASbJAwsxXlcSz6PwW69sOTRe9fMNBjCq67SZT9PfoAfTeOcD/i58lB6vIy7uwaBjL3M0MT/GUWgyaZOy3oHS6qxCzs+rf9WzDmnh31S+Gxj1fybvhkbK4XagCPQ5UulkgsYY5BtIgnMISLAwTlnuerSziINf/TayKxqIjHYBxQ6oXtLK2J/xBS5NdRnLZMQ9tkO3STo8vN59ORxNOAcP7TwtLJXl21WJPCUuOhQXSvGwf8lgZ5uMHAEsLezNwW0ZJezy9IR5pFmx90zn/HxQaTCoN6kuacyBEzso0BRnRbsjk255FxWTkFJLSEmdTnVQre+hiCp636gfo9FgrxFrAz9XS5dXG35axtHYPOAFp0QdliuSX3vphOK5tGvemQhicz/WUqRgxX123LSSW1vih5hGNf0cIZR4522dIM6J79Sj1dMWd+UkrjZMmG8HIQvP/ibUWk=",
+  "URL": "http://offlineimap.org/",
+  "LICENSE": "GPL",
+  "ARCH": "any",
+  "BUILDDATE": "1594046559",
+  "PACKAGER": "Jaroslav Lichtblau <svetlemodry@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "python2-six",
+    "python2-uritemplate",
+    "python2-rfc6555"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "FILENAME": "cblas-3.9.0-3-x86_64.pkg.tar.zst",
+  "NAME": "cblas",
+  "BASE": "lapack",
+  "VERSION": "3.9.0-3",
+  "DESC": "C interface to BLAS",
+  "CSIZE": "34726",
+  "ISIZE": "173756",
+  "MD5SUM": "9f0177ab713fe94fa2413987030e494d",
+  "SHA256SUM": "de2dc69fa48f4ba0f9c46b815c646775452ac331ec5f32da41fda21f5a709c60",
+  "PGPSIG": "iQEzBAABCAAdFiEEhs/8qRjPOvRxR1iAUeixSKmZnDQFAl6/tTcACgkQUeixSKmZnDRxxQf+NMp7jwek/gGdI02ISvShoTy6qDxPlC0Q1dDzXpZpamycvHbeFPGYscg/NEEeLfnCJ6O+ITXrGgvX2REaOXmfL9XGwZU942v9qRui/IcJo93rUWgLTAVS0MzsJQYEoPLOEPFOVSIcoZfdKvJfChoy7HkaIbfX7qv7fkb2N8pev/S911tU+Kd91uEzn/17uwlD32U6eSVNFvtWx2MUVW+bfSUcvH+vMLRQ50huNjD2fnk/i2u1ov+roTo0EE8Nmpv+AvoU0oz2DM/X+slmOfIH1CuL2ELNgPTVeDoKFv6GR4gWCXuz+Vj1eNeeOyUgw0Yz0E/HHpXuPKwrmBwnVVUOuQ==",
+  "URL": "https://www.netlib.org/lapack",
+  "LICENSE": "custom",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1589621562",
+  "PACKAGER": "Evangelos Foutras <evangelos@foutrelis.com>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "blas"
+  ]
+}

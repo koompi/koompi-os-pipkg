@@ -1,0 +1,24 @@
+{
+  "FILENAME": "lib32-libvdpau-1.4-1-x86_64.pkg.tar.zst",
+  "NAME": "lib32-libvdpau",
+  "BASE": "lib32-libvdpau",
+  "VERSION": "1.4-1",
+  "DESC": "Nvidia VDPAU library",
+  "CSIZE": "22789",
+  "ISIZE": "80479",
+  "MD5SUM": "7ab6fdc2b4174de1adefd04f473f7044",
+  "SHA256SUM": "c8ec236353dbf65ecbd6044dd929fcd3162c13d4fe61afe80e2e93061a951b1c",
+  "PGPSIG": "iQEzBAABCAAdFiEElDfdOBWnqRaePTlGr/XZUJi8b/UFAl65gAMACgkQr/XZUJi8b/VKIAgAwA/xxtnaxB/KkiBXvOZmU3JhiSM4xyBox6kc8RP1whPES5sdNoYYn9bA+Jur0Hajk1deha97D9dDAs2Rsnf0rzNDtJh8ayU3NUb44gOjqC83ZYG8zu3mitnYitK9nGSQ6OHL7CGjeHYLEO4WPf0dqOpK3mAOM/c851c2QbwB54+lNgUTM/p4vZ/jI4KJw12EVyvfZVbjnceBx0ERjhk3692wFxB72+94y5ZGqcPLVNi4a6+MrJz0xLuFsauXAFJenEcDse6rlqVu1+r6dExpR7H1fG57c9MWIz3Wlgp4bNc0dz1Y8P7DdLcz2aSl6HJZUH7SiFAK4fvU2ffXezB7Hg==",
+  "URL": "https://gitlab.freedesktop.org/vdpau/libvdpau",
+  "LICENSE": "custom",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1589215165",
+  "PACKAGER": "Maxime Gauduin <alucryd@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "lib32-libxext",
+    "libvdpau"
+  ]
+}

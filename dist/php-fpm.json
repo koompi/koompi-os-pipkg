@@ -1,0 +1,24 @@
+{
+  "FILENAME": "php-fpm-7.4.8-2-x86_64.pkg.tar.zst",
+  "NAME": "php-fpm",
+  "BASE": "php",
+  "VERSION": "7.4.8-2",
+  "DESC": "FastCGI Process Manager for PHP",
+  "CSIZE": "2680759",
+  "ISIZE": "16845399",
+  "MD5SUM": "e6c2c8eee58d1ca7877fd57812aa64af",
+  "SHA256SUM": "03b728b527fb1f94a4c567f022b7cba7426cda211b3ef07b91392166a4c92617",
+  "PGPSIG": "iQEzBAABCAAdFiEESqR2e7ycSx0Yrii3fy1DS5dB6KwFAl8IPMMACgkQfy1DS5dB6Kwdewf+KsJ7u0UH47Xf+L1sgYez5ZteTF5tLx8BGG8JIqijvh3OGp+Bl8i2HV9M8xCJ7pnVuU3RmyMCmk4UsJ+ocRXmZWTLMJ559B9al8QVtGN2k8pps42CnOl5WkNyk986euaxRsSQN+kL1/8GUgAO9FquiDKDIcxgJkQkFye+YCIsF29ksG11EBeKwlIR00iIsCO1Gwhw7iFX+bE2Z8kxQoykrIvIZd6uX4hxvrH7zS9QKh1O4GRdYMtg+0qtIdsn43kIyyDxn087GT+TKO9T/Tf/7kYlAqHO53uZ8ruj6Vk011jBU0n4hakyyEAnpxARYvXUd3xhsA8ly/Kto3HgAi/h/Q==",
+  "URL": "https://www.php.net/",
+  "LICENSE": "PHP",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1594375162",
+  "PACKAGER": "Pierre Schmitz <pierre@archlinux.de>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "php",
+    "systemd"
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "FILENAME": "python-pydoe2-1.3.0-1-any.pkg.tar.zst",
+  "NAME": "python-pydoe2",
+  "BASE": "python-pydoe2",
+  "VERSION": "1.3.0-1",
+  "DESC": "Design of experiments for Python",
+  "CSIZE": "34352",
+  "ISIZE": "175475",
+  "MD5SUM": "b4ea1bc491d32ed60ef400ecbfd7794e",
+  "SHA256SUM": "44723c51d1b5147e7a20bc424be0a69a0ecc9a05e005f4f99b15489597881cad",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl4uzwIACgkQeGxj8zDXy5LYnA//TedcClAg2i6tWctbu2egMwfPTSaKIm03OKqwW3jy1ouOWpfcaHEZISTlkMQu6UurfK6h59eiD+y/gDky3QNCphbO30EavatwimHOZ58LWzitvS4ondxWujrc61mu9D/S6TBQCUxVnbd/HxWK/KQavVDnhDaRYjbaDqjT2V3HhtYeRlFycwal7pm4jzDJHPJmm4Fk4khxoZBGlErYBbcmBWUDLJWAQo4DJdi+2/gkghig1lkpXaXau9EuXRFLFYoVvsC7vbOYDfYKj8Ptp0JBd9PgorO0QbkQW/jQtrLT2rNA60+E9jhEy0JeqNGdIMO4tFs8QK6Ea4ECJREStxtLbupC4ilT8uB4wuPJrs5FUrN7gejwDfRO6JaYaf0EfSSVvb/Pjw6LXngryM5R2xB9MrgzhQ9EcsVjppyr+5lOwYOL5cYiFPLcUBPBVKzZbt/GrKDQZpJ5RwcH8fnrnuTOX87Fh6CZc0kCGlXDDO0sdbaGS4XNmT9pPpfhAJuavqOB7os7UFTjXP7go0ypDbQWi1YpXkeNmBjpJq5c/FtIjORRgZ76gyysSiSABFX9wlU6Ma4FG/ULwtbfIjNo2I9E0FZaDQaU072IVCaVjHjENbxL5ttYPD0JoHxpwN5hRTJlgnZpgV/7+zaZHL1a7Dh+vJwxeKmKsSPkZuGoNlKcx0I=",
+  "URL": "https://github.com/clicumu/pydoe2",
+  "LICENSE": "BSD",
+  "ARCH": "any",
+  "BUILDDATE": "1580125888",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "python-numpy",
+    "python-scipy"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "FILENAME": "ffcall-2.2-2-x86_64.pkg.tar.zst",
+  "NAME": "ffcall",
+  "BASE": "ffcall",
+  "VERSION": "2.2-2",
+  "DESC": "C library for implementing foreign function calls in embedded interpreters",
+  "CSIZE": "45651",
+  "ISIZE": "271855",
+  "MD5SUM": "85f6fe796946060d0ec8084ea4e62d24",
+  "SHA256SUM": "fc306879cf8beb5fe73c5bab94bd8c7b4197ce6a313a827c02e2ac9f60daaec9",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl6/stsACgkQeGxj8zDXy5IZyg//Qjntgf2hbYZ4kqEKOQqpxOhN6XWX+VCR9i8GPsiXF90XzCahR85A78C7pJuFGNYxHZ34nu0DxJ7eRhU+Uxluv9FxiftR2vGTyTUc6drmrVVpoTkW81jf/vlg/MaeJlkeYA5loix5iJVI4veFlbAhgZ+Dk+TfbFmmemsFQtcej40Xgts1RuS+6c8H5r17ElUx2sc9unq2pi+vqvD8IaLaY76hBXspnt1iC52iWEAxmZHOp9eVPgFiUKLx/mlHm/1yEkfiBO1zIg3kCeKrXpu45S6rwVyi1c4WaPHjGaAvea6Ejx6FvJZC0erxdPrL6b8qWpryYtKnC5S+25Ps/0bzWog8cbv9Ki2BXELVFOSLo083baGuMBDDgH6GqsAI5wbDs9tgNDP8S9bkW3HSQM2zQcw96+YJCCznQtzH9LWvllZX9kkOPwULbfHA0a+LECRcBBdTb2nwK0IbxdCZTQMPXlaw4+5tPCsrLcOSNbwk+grj/R6DJIF9Ut9gg+T8rrBDZMU1YEZdSkwownbNwO07Iv7VVNdhivm9LV9WKMAsEofHYRz7zPhrZ5W/mS4vXZXaTzgnGE8z0vYvqyE82TlWwiJg+ZQ098DtI5gALGVcJYSIjde+NlSImN2+gRO/bsixbHzLHFNMVwc4/hSq6PZSPaIKH6o6Tw8csVUvwJsLkRg=",
+  "URL": "https://www.gnu.org/software/libffcall/",
+  "LICENSE": "GPL2",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1589621437",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    ""
+  ]
+}

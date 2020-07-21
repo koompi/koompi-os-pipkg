@@ -1,0 +1,24 @@
+{
+  "FILENAME": "qt-gstreamer-1.2.0-3-x86_64.pkg.tar.zst",
+  "NAME": "qt-gstreamer",
+  "BASE": "qt-gstreamer",
+  "VERSION": "1.2.0-3",
+  "DESC": "Qt bindings for GStreamer",
+  "CSIZE": "279452",
+  "ISIZE": "1164918",
+  "MD5SUM": "ecd229637b3ddd4d2e5868e318f46c9e",
+  "SHA256SUM": "1dd56a651d160087a6df8eb0fe41ff6f14c856a8de6d898bea77d1298595678d",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl7AV8wACgkQeGxj8zDXy5KyZg//e076KAlzcRN3Mi51T8ityspUjXdIcm/ULpSz2d1DJcyHuIJ7Rw+fRJuFxsJAA4NE6QP6jLLezh3ED+GlGlB9rwS99tKZtbdVq8qug5pgCnWo0GUj6eCPpeRCgcCct/Jl7895MkV1jKNoW5wbwCHhkA8Y73yybICslO4SgOa9BVk30f3wu5AfCvKsQfmVmpNs25mQd9P8o66x9SJ3VOnOpzQ3jkEflWLs3XXtwEk/0OlZD+XCNvi7A3FzGvnrUc21RYIhFbcZYpxPk/JhZvxzx89brxFliMn3AV6xczE4xiYN4VejcMwSfy2ANMUeFxI6l2gXRNl3c4Nfk1/B343poekz7xk/MwaQmJEH1iz2h0xZSy/dz5+Yl8aOelpK0exRUWRZomP7s/ntkLLYusR/I1Hp3LBCE257RpA1GFteefjIwZkYNQaLZeyEX7kQ6HJ3JwCWEkAJEE+1HD1z0V5ByvwCwT21rJDWvpj5TPIzgZhBBrd2YXH4E6sy7py9sFOrlLpX8ORiaf81rTLV3rvytl+to1vQ7nhkXMiRPivEDst+H2fuK0BoUHiFvkVxk7/HTxM9CkKdIC66mjr/+CPXrMwLVXF8HqFAMz0wHTib97oL9X3O8rceQGo2cwDwS0bVPDIKqz7fHcXY9AWtPNu3fWofD5AZmP+RQXTuIKU/I+c=",
+  "URL": "https://gstreamer.freedesktop.org/modules/qt-gstreamer.html",
+  "LICENSE": "LGPL2.1",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1589663637",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    "qt5-gstreamer"
+  ],
+  "DEPENDS": [
+    "qt5-declarative",
+    "gst-plugins-good"
+  ]
+}

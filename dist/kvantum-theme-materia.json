@@ -1,0 +1,23 @@
+{
+  "FILENAME": "kvantum-theme-materia-20200523-1-any.pkg.tar.zst",
+  "NAME": "kvantum-theme-materia",
+  "BASE": "materia-kde",
+  "VERSION": "20200523-1",
+  "DESC": "Materia theme for KDE Plasma 5",
+  "CSIZE": "38564",
+  "ISIZE": "528575",
+  "MD5SUM": "a83d3bf34c2e8bbcde102689d1b26817",
+  "SHA256SUM": "051a031c16dd83e46c00d648b15f96c16d6b72380d6cd120e8d902ae67534d80",
+  "PGPSIG": "iQEzBAABCgAdFiEEado014/g79WWrG0EnYk+xNqvkSkFAl7O4X8ACgkQnYk+xNqvkSnycgf9EkXXPJGKOSFWOkRBR/H1KXRe/Xgr/6JwOxVG0kHMGJFn5c+spQvufdtHVEqOI90tO1lfLN+Zxh4I3fmrYSpp5Uew1BidAx65IHo3llUgP7IX0VeRAAoT5ILp2WPU9w4cOOZgp70Vgd3t3S+IxnvRZBTMKSMoKJeG+eJzRi/2L6zIW/nJF0BKPAXUonJpnVGx+R0NsOF4t5rWGSltfKJWdjfeuICPq0d+DjxhTeiRrk2l6iMrK+jQYP0TS8oRP6akLKIapfaW3k5dd0y4UwElbr2hjzyUHCOfCCQrAuPVTkXvUMwBmKRor6YLK9ravbm94HOXyvufcKgXimE7krPEiw==",
+  "URL": "https://github.com/PapirusDevelopmentTeam/materia-kde",
+  "LICENSE": "GPL3",
+  "ARCH": "any",
+  "BUILDDATE": "1590615608",
+  "PACKAGER": "Bruno Pagani <archange@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "kvantum-qt5"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "FILENAME": "jfsutils-1.1.15-7-x86_64.pkg.tar.xz",
+  "NAME": "jfsutils",
+  "BASE": "jfsutils",
+  "VERSION": "1.1.15-7",
+  "DESC": "JFS filesystem utilities",
+  "CSIZE": "182640",
+  "ISIZE": "1065657",
+  "MD5SUM": "d8c4033ba048ebec5b3d9a897746d15b",
+  "SHA256SUM": "d975c8a090de0bd3d3f48ae6ee56e91e025ed6456239a55ff7dd61b92310c29b",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl3MLjwACgkQeGxj8zDXy5LN7w/8DqiiI1JRzAR3S0Reh3o0ZSsJrlZC2wPFRZICGM/3GhBYBoDnMSRJZA8YimqanCxn5huqUXWf2Xh+mxdGhAFIcOIY3lg+C9I+Tuq89xLfjnUeVv65etJwBVWL/0jyqlcUyAgxEjmkokgz5u4JN+BVgfvKhIXquwyZcVg7b5/4y4b9t698q28YwSfTGxZa40+yx62e4yW9ao6Mngms0edM/Gf6G5VR7jXWnuqr09hnGmOeojyYtiuk/3J5EQB4RjC97SmDCBsVkgApD4iTXB6QwiqKxqqtOg7HnMaL6csZV0TASDL35bzU9MLkbVh3lGmG6M/dOtvSl5iciHFhx6d3c5or0+pMsG6sbjZm3LH4ofp9AWZXgvTWKOGcsTmfWHGwFpeV9ynKUjG/EkId5CmXAw1k7BumRIBxnUYDGBTNK9lSGUmWddc9kVraLhMJyWxGxnAq298EiNprtcewRQYORjW6cGGkVZ1xFIgKLvccwPoZeRN7PmggdlIWVZOTa5D9A5Ovn/X9q3ERHQmcpLaFc3zclRmhj/LPFw49kf6HLN+rUhYs2GMY6VRXumGpE7kx4lWnidEgaAeW2STuiPRjRp/lKJPZZUMAU2l1FyaA9mVX2p9x2f7UWEs1FPu7XENywv2W6XXG+s2BMbkzsjJFWYGLLNCW1tfDD5bzlCIMy6I=",
+  "URL": "http://jfs.sourceforge.net",
+  "LICENSE": "GPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1573662233",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "util-linux"
+  ]
+}

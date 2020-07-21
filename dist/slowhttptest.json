@@ -1,0 +1,24 @@
+{
+  "FILENAME": "slowhttptest-1.8.1-1-x86_64.pkg.tar.xz",
+  "NAME": "slowhttptest",
+  "BASE": "slowhttptest",
+  "VERSION": "1.8.1-1",
+  "DESC": "Highly configurable tool that simulates some Application Layer Denial of Service (DoS) attacks",
+  "CSIZE": "27404",
+  "ISIZE": "65773",
+  "MD5SUM": "4b4e125009362a57b7c0dcc71160d865",
+  "SHA256SUM": "640283e457b29d1c28cea7a5ed10e8ac8982782488efd22664d3fb0d26ddfec5",
+  "PGPSIG": "iQIzBAABCgAdFiEE4kC1fixGMLp2ji8m/BtUfI2BcsgFAl3RUUgACgkQ/BtUfI2BcshxNxAApglMxB1UHiMdlyI/oQ9npRMWJTUprSH2ALHo9FtQut2frkSGJjwZFMT9Yiih60L7UktAa2piJAQBaBf+OWy2Vx5oCHJy+bxxqiLH9ztiX2889h8yteMTeUeZayY+7hJiR0fDNbdkSRpZiblhKa4mUGnDOApVsb75f5AretIoAE2nhWRUYUwEyf7gKdm/Zmb8/dU1dIXAo1KUIwXGh2ML/XW11ptU1coaxkpHww6VvKDM8mqrmeFZErJ/RX+kH6lH157PVuZrgTuEGHWwc8TmXIahnChIGqB1q1ngfCc25nR8OFFpdLXkpjQtJJd0biYOY/+CJuziyhet+q7xmPtXKYxPhvuMJFEXF+Ubzsp6XYRoGY2bXO/n4pW4dUMcE8mynplsAAYDjYFiFhSuWjN3AzMfqmphz2NSFMPBV0ePtB+9blJIcNKh4ccbwbbgF/nf3ot8TD18NJPuwkz7bXe0/QgLBWaicUjaogYo9cZpt9Uo1vBwlUiBSwGGAF8xzwqMZCwh1+O7f6Z6nD0IcbEMvAHX6FC0BO1NuauF4cgw9Qogg5pFESYsPrdDYHdMiA37FlLxedU8+vjZe9n2FXUDQ8MjYRazL13pfogS1hRqj2aD2IWaYHHSkPwjXzqfoe3qrMMZj7O9s+S1HD9Fry51ZYeW+tiI3sEqjJ5pe6soW2o=",
+  "URL": "https://github.com/shekyan/slowhttptest",
+  "LICENSE": "Apache",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1573998875",
+  "PACKAGER": "Levente Polyak <anthraxx@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "openssl",
+    "gcc-libs"
+  ]
+}

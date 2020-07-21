@@ -1,0 +1,27 @@
+{
+  "FILENAME": "lib32-zeromq-4.3.2-1-x86_64.pkg.tar.xz",
+  "NAME": "lib32-zeromq",
+  "BASE": "lib32-zeromq",
+  "VERSION": "4.3.2-1",
+  "DESC": "Fast messaging system built on sockets",
+  "CSIZE": "211636",
+  "ISIZE": "677888",
+  "MD5SUM": "368c68570ec26719fc2ce7e68e6042e8",
+  "SHA256SUM": "727a0dca9f4e78d6129755fcaf408b4ace25597eb7ce7b89431625fa5d9f66c4",
+  "PGPSIG": "iQEzBAABCAAdFiEElDfdOBWnqRaePTlGr/XZUJi8b/UFAl12BYgACgkQr/XZUJi8b/V9/Qf+IgZCt3pduHNrHBawkVsLFdQeNllMdO1UwuHOdNgIh/1+lNVm4w+ncyl1Bq9IVIc8oyIDvfaNmeFNdAP5BOQQiY5OAlkxjMaXvadXPfG4uOd3RdPs+W/PHOEUwyvmwNKuSU8dRmWdcZE8rrrREMskGuV0k/LXxNFiSARIr4DePjeEEA7A+oJADWN14GLUKUncRLWlwj7iXDT/+9PZSB6tuS6WSt2UAYyCkSbaZHhtIaVl2g8hBGfLd9Ef0ExiG/pJgsL9RA8g1Ysn1ciSH75Dly2CCM1sJDGZxWaFiae64fsD+ATP7x5Hv9RDLQukmhjnA7mXrEcYb500EKGgAq+4sw==",
+  "URL": "https://www.zeromq.org",
+  "LICENSE": "LGPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1568015707",
+  "PACKAGER": "Maxime Gauduin <alucryd@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "lib32-gcc-libs",
+    "lib32-glibc",
+    "lib32-libpgm",
+    "lib32-libsodium",
+    "zeromq"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "FILENAME": "tesseract-data-mya-2:4.0.0-1-any.pkg.tar.zst",
+  "NAME": "tesseract-data-mya",
+  "BASE": "tesseract-data",
+  "VERSION": "2:4.0.0-1",
+  "DESC": "Tesseract OCR data (mya)",
+  "CSIZE": "2544954",
+  "ISIZE": "4640591",
+  "MD5SUM": "583001e6b2e0db0b4a7ab9dc961a803c",
+  "SHA256SUM": "3b7343a458f39fde5d8d371cad08ba97e1d0ba860f5804ba34aea7405e6822d4",
+  "PGPSIG": "iQEzBAABCAAdFiEE5JnHn1PJalTlcv7hwGCGM3xQdz4FAl78dLsACgkQwGCGM3xQdz4aVAf/YOezHoQUtpoQDK+ASkl5DitKDMCxBzgIGsBsUyuU3f+8ebuk5w48XqHzsn63Fhf+b44+J6yxkwX1D6Gh0rKyautrgTcZxc+nZkOuHWBer7qhFqhkOPibXp+BxMQC9QgYdP2FHif843wQIz3r/YG5XPzl9F6NRlwRU+eYmvQNfDL9EEEvMuo1Umvx73U0qP5XrDjA30/InFqIN9oqW2xvDfin+SBXyFu3XUBhIjbTMs+x2wPgb91mRyWn8vcWYtxLjOcRMLX26iPcWw5alReemnI0Gv+GU/juzNpoUezht7fmkQVItZFB/UWrHTGmriwYjOSivz9b0zuA4cNa3ZIqEg==",
+  "URL": "https://github.com/tesseract-ocr/tessdata",
+  "LICENSE": "APACHE",
+  "ARCH": "any",
+  "BUILDDATE": "1593601400",
+  "PACKAGER": "Jelle van der Waa <jelle@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "tesseract"
+  ]
+}

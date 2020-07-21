@@ -1,0 +1,26 @@
+{
+  "FILENAME": "dqlite-1.5.0-1-x86_64.pkg.tar.zst",
+  "NAME": "dqlite",
+  "BASE": "dqlite",
+  "VERSION": "1.5.0-1",
+  "DESC": "Distributed SQLite",
+  "CSIZE": "50549",
+  "ISIZE": "136741",
+  "MD5SUM": "6ea65a57e823f264b2027ccaaac2e1b9",
+  "SHA256SUM": "6c747107eef70b498c75baa4702d71c3e264157badbbd3440372c83d9da676ee",
+  "PGPSIG": "iQIzBAABCgAdFiEEktnGzemaICTWkKdu50JoO6CMsv8FAl73uEwACgkQ50JoO6CMsv+bvg/+KYSVc9TEb8PYdrsDL5ZLx3U4a1SNQPG6ETHVl24hJeNA7F15SFwviEO89WmDBBChomc0dowCR3Zc8PblnG18N2nxzAn3aJkLjEA3dpRo9x4IJqhQf6s0owChlyf6m2l+6htmk9YO1Ly6CExpNEh/l8H83hL2VmRX9wxMqGIkybSZwVbqs5SoBvEuUF7uEyBHqQWZYRTz1bWxlxPijYLQzjj/cP0orXzXKM3L6nMdlN2YwJKwBQUmenzqugWqusI5TDgsj3ifptjIlNYQ6eoloHlQ2ZHUQ65POmrxqu/SDLmjoaCL+OG7WIkxDI1z3KW31yWeLlKhR6sL9shxDBfqwyXk3EN9POI9BkUAkybjKW1gYbrWRn6lp5u/LwvzItno+0SqX3x6AmHSQUeZQgxmARg3TINSqJeIvPQWBr8D+i4d49dRrUu57odxJSu+ht3Vdm/2HaZMYJEhkouQTSl9D1YHjR3OUJE7xzB86m5rzN0wZBiRbNQ1uwGjdtRDwThSA9kq+AwigtjjsQaOSnjqDTcXZkXqBOT9Juav190JpRNZCfNtEfnZacjcrCfKkl3NVtb4nRg8hjDr4C/z1hzU0dYTpyqaWMV9+8OlgvNQ5THJn+oTcHKAj/NTBGwUwa3QRX2frutB65b0ykN/Lo0Fx+ngv4SxquMSQ5ievJGS33Q=",
+  "URL": "https://github.com/CanonicalLtd/dqlite",
+  "LICENSE": "LGPL3",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1593292834",
+  "PACKAGER": "Morten Linderud <foxboron@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "libuv",
+    "raft",
+    "libco",
+    "sqlite-replication"
+  ]
+}

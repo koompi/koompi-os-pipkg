@@ -1,0 +1,27 @@
+{
+  "FILENAME": "xdg-utils-1.1.3+19+g9816ebb-1-any.pkg.tar.zst",
+  "NAME": "xdg-utils",
+  "BASE": "xdg-utils",
+  "VERSION": "1.1.3+19+g9816ebb-1",
+  "DESC": "Command line tools that assist applications with a variety of desktop integration tasks",
+  "CSIZE": "57704",
+  "ISIZE": "289891",
+  "MD5SUM": "0c8ce33dca4783066323787eca2beea2",
+  "SHA256SUM": "092bd208d04e44460d21fc0b53b7c1739255ab82f8fad5530612b249fcfee191",
+  "PGPSIG": "iQEzBAABCAAdFiEErcih/MFeAdRTEEGelGV6sg8qCSsFAl5SLVQACgkQlGV6sg8qCSuDpAf+P8QkuNJntlesTYNyGd3qhOUiHY4PT5L2zvLlTAJpVbgdMZNmCMQnXqNA91VUkr75TtKj6GPQc3aXt7VaxFZKLQmW10On3RdRuGq6+kONj0MwRNsygXzNmEDOhY14LoKkkrH4SkYOm5RRShCYwnMJNAdedOIVy8+wnYgKncLLKeotaLcaLyPghmwByOFLWf/eNhkk/IwLexLWk9fi/MTGEXhJLatl3QBZnreUPVTu/Btqv/VxgW3l7TP52qZvj+pvrqnCgKU3YK43QAnLdyqu6ZWX4CowsBmbroRG6jJw5BnnaLo5ry7XK6XVNnNJbp8UE/Q77/ESoGPLKPU8tgfYkw==",
+  "URL": "https://www.freedesktop.org/wiki/Software/xdg-utils/",
+  "LICENSE": "MIT",
+  "ARCH": "any",
+  "BUILDDATE": "1582443832",
+  "PACKAGER": "Andreas Radke <andyrtr@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "sh",
+    "which",
+    "file",
+    "xorg-xset",
+    "xorg-xprop"
+  ]
+}

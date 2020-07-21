@@ -1,0 +1,27 @@
+{
+  "FILENAME": "slop-7.5-3-x86_64.pkg.tar.zst",
+  "NAME": "slop",
+  "BASE": "slop",
+  "VERSION": "7.5-3",
+  "DESC": "Utility to query the user for a selection and print the region to stdout",
+  "CSIZE": "121114",
+  "ISIZE": "390020",
+  "MD5SUM": "096f9e97f9146839b68c9dfd1a3be044",
+  "SHA256SUM": "869bcbb12ebf9d0f4711a728671604e46c48ac32acb7fa69a61b3a3ce4e67be0",
+  "PGPSIG": "iQEzBAABCAAdFiEEhs/8qRjPOvRxR1iAUeixSKmZnDQFAl6mqmgACgkQUeixSKmZnDS6tAgAsZocX3JPw+NpDPgnSsxvgDctSp/U4AR32Izc2uxTvbJK1QPdzawgR4Tr9E0fP+skweBQvZiz51RLUKjDOvh5P3aXW7ndVCsyymNRSMDK80W+JbBhnPuiv5yuzd6b3liZe/EyFT+DBbi4jRaE2nQf2Ae1RVOTdWWhCWhHph7khhpSjiuM9zXsunv0A5ruCQdt1d0z3xAhXv3y9t2EzWiESn5FqnmzErLzqrQme8PuuhtfNUhznAU8CpcA+a5Da/wMJIC33H7aKPxmLPldIh3G8kfVmHFGniDrcUrj7wDU46RTdw8BcohKD3gYkabUerq/HlaVsyKpUuxxLP9SuyUQiw==",
+  "URL": "https://github.com/naelstrof/slop",
+  "LICENSE": "GPL3",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1587980874",
+  "PACKAGER": "Evangelos Foutras <evangelos@foutrelis.com>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "libxext",
+    "libx11",
+    "mesa",
+    "glew",
+    "libxrender"
+  ]
+}

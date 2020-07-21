@@ -1,0 +1,24 @@
+{
+  "FILENAME": "projectm-sdl-3.1.3-1-x86_64.pkg.tar.zst",
+  "NAME": "projectm-sdl",
+  "BASE": "projectm",
+  "VERSION": "3.1.3-1",
+  "DESC": "Music visualizer which uses 3D accelerated iterative image based rendering (sdl)",
+  "CSIZE": "361954",
+  "ISIZE": "980696",
+  "MD5SUM": "cb2495e4f1d2025961d0ff45d9b1eb22",
+  "SHA256SUM": "702b360aa996634aa62b231ba34221da46f3f2bd665267cd76e02e1f16464b54",
+  "PGPSIG": "iQEzBAABCAAdFiEEFRnVq6Zb9vwrc8dWek52CV2KUuQFAl6YIU8ACgkQek52CV2KUuTJFwf+MQl59q1ZNoufsvo+YI1eqQEnKTdryzxIhcljb7yZ7Xh4k+AIU5VybRhHdmaWob0gqRWEuKojfsNjeb+No0TFpkTGPtQJ0H4/O8VP+EPo3+y/N+FBfedEAm8R+XDK20NPO1dwetgzkxQ7SbLRvIUO0YQMvBO/38ur2fI3BiPLs4dz+ZOwvrmC/nghVYtDxpoLgFmwNDbt8HLPqFcYNJMN5U3YH+0S/4Wmsng9syZJ1VZ4RtpEU7tHkiSurBw0V8uszlaoo+hFlBwvp5XIBfna5r6ZMu/qWeogCceAxkEVhkSH85T/4HEBn0kRw/0tHJBQtPEocyM1+Ff9zn91xkfEGQ==",
+  "URL": "https://github.com/projectM-visualizer/projectm",
+  "LICENSE": "LGPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1587028108",
+  "PACKAGER": "Antonio Rojas <arojas@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "projectm",
+    "sdl2"
+  ]
+}

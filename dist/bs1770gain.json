@@ -1,0 +1,23 @@
+{
+  "FILENAME": "bs1770gain-0.6.0-4-x86_64.pkg.tar.zst",
+  "NAME": "bs1770gain",
+  "BASE": "bs1770gain",
+  "VERSION": "0.6.0-4",
+  "DESC": "A loudness scanner compliant with ITU-R BS.1770.",
+  "CSIZE": "49185",
+  "ISIZE": "122672",
+  "MD5SUM": "5b8380ca7c1f773d996d8a8d24f86ef6",
+  "SHA256SUM": "8a0dc6de3c654e2b2732eacd3efb02f129f9fe96ca57a68f04ef273af55ae0ea",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl8EfGYACgkQeGxj8zDXy5KHYhAAlkbD0GNB9ywsja84pSP1GXNXXu7WLbV1l7yoCu4kIQrb+nqec0AKT+/eo2WJFaVgErLCsSaxUAxxVWrelplR/MzIgbZlrXKNaI6ZEImLcvfKOoCwdxKdEB1zbLNp4RiDXjzRDn/lbFF1Siq6fQJI+he0yZWjAu/R1ra4OgWPMTMiiZOIB2EsPDTUTTbT0ATBduC9HUJTr1Ab2g/eP+FgsR4bS0qzGIiQqzik3KvMwck9CDW5TWlzJZ2bO6U7tCmkhKeCzPGYbiKLuDtB6tenOBGBzXg0GgxJSoChIMZvMbqYaJEY61aiTCDrKgz4XdQGRiu8ObzFyOG8u7NKrbhgixfv81BUE87seLMHclDAUzFmOnpaUygJgJm+/80U5V05mG4W2CxP+tv3UJDBXVm4WWkmw9FrGMBi+gWzlk+zZWcR1eosBkbLGmgFKs3GAer8hIzfAQJgqzWMOqw3m78NICkNugEa64MQIrITrR2FQjAj4DTgpNNeKa1hLHDnKiEUQC/+KNy1Iv4yRg0zHOhsqs6SINN7JKSKSkXJ2QY86ehgKAbATNo2W0tmNBkMgGwp+QUkudZmumIlB4iMIZ4YGsvbyYqphilFYb3QIBwYWGViOgthLpNy95IkH56TU+FEmL6reaALZvQSupB5oDWuBEGE4v6wcc/k2nupuLEI03Q=",
+  "URL": "http://bs1770gain.sourceforge.net",
+  "LICENSE": "GPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1594129436",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "ffmpeg"
+  ]
+}

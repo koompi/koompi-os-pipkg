@@ -1,0 +1,27 @@
+{
+  "FILENAME": "kcontacts-1:5.72.0-1-x86_64.pkg.tar.zst",
+  "NAME": "kcontacts",
+  "BASE": "kcontacts",
+  "VERSION": "1:5.72.0-1",
+  "DESC": "Address book API for KDE",
+  "CSIZE": "1016341",
+  "ISIZE": "2754535",
+  "MD5SUM": "26fc4032c5a5e2a8bcc75a435ee560df",
+  "SHA256SUM": "d5420eca45f5f9cf42ce08cd930d4341541b2db90594c0cdb379c7f93795f742",
+  "PGPSIG": "iQEzBAABCAAdFiEEFRnVq6Zb9vwrc8dWek52CV2KUuQFAl8JYZwACgkQek52CV2KUuSrBQgAqpd3X/hUcsmgfUo/TB8Lf6O1EHxeFFTz/ofTyxY2Kmz7DPpn0njZh2bvnB4TrsnE9xfTzFe+oPaMLOOHGlj2NwHDGyk7McQX4ru9dge6pH50rabrjSWCEWp6EElLZ0ANIWK1Gw3STROwWSeA+BQRghiXzPIK4ikoHhcAOzksncOUQ4DhXXsEs8sKxYqNNb69c9ZGtZ+tt/Wt0qPRgMVrUSGkH+GIOYmKNUCdU18J+cICrOibOaqp7Pj5stbxuMlcNBg589s/SjAAL5fPHDq0baYDOeIfuukYxI+M6ieKyMjzmzcX99KcoHn73mm6OvkpcLibH0LA90bbu6N6JQZiHQ==",
+  "URL": "https://community.kde.org/Frameworks",
+  "LICENSE": "LGPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1594203258",
+  "PACKAGER": "Antonio Rojas <arojas@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "kcoreaddons",
+    "kconfig",
+    "ki18n",
+    "kcodecs",
+    "iso-codes"
+  ]
+}

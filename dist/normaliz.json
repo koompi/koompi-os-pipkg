@@ -1,0 +1,23 @@
+{
+  "FILENAME": "normaliz-3.8.5-2-x86_64.pkg.tar.zst",
+  "NAME": "normaliz",
+  "BASE": "normaliz",
+  "VERSION": "3.8.5-2",
+  "DESC": "A tool for computations in affine monoids, vector configurations, lattice polytopes, and rational cones.",
+  "CSIZE": "1410746",
+  "ISIZE": "5392198",
+  "MD5SUM": "c248919e50cb4afa026947b8ce1e6cb9",
+  "SHA256SUM": "e572deead5691b50509f41bd731a6bc9c29799faaadceb75f5546e8ecc927569",
+  "PGPSIG": "iQEzBAABCAAdFiEEFRnVq6Zb9vwrc8dWek52CV2KUuQFAl7anfgACgkQek52CV2KUuQvgQf/RwScnslI35r7D39p9Q9ARobgbulQyzpm0/E+NIHrS81KBPu5/O76fwy8i/p6YYW5xewXRaF3eEQxMygkC4pRjLmmLX25ZXk4VQ+blGMUpMtM55XiNQuo9mtqZCy0WYmkP7KDH4RGF3LFLp9UyKBmQ8fD9fs9xvj3pmvLURRKKBGOU58+sReGzKEHM5PxLelMW35N35b2qnBYpwtwU0h+uroWkNa/y6QgQXgxGAqQpUZITjuJgZ4rBPH2stY9ZyTpomiD3RakR4qR9zxuF2dh3W1OS28TMluq+uLC6o/6PD2F3hZqB0aH9iUmJRFAAdD2ognXy1cZASvk1aCVfmGkvg==",
+  "URL": "https://www.normaliz.uni-osnabrueck.de/",
+  "LICENSE": "GPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1591385394",
+  "PACKAGER": "Antonio Rojas <arojas@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "e-antic"
+  ]
+}

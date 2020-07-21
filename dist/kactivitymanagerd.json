@@ -1,0 +1,23 @@
+{
+  "FILENAME": "kactivitymanagerd-5.19.3-1-x86_64.pkg.tar.zst",
+  "NAME": "kactivitymanagerd",
+  "BASE": "kactivitymanagerd",
+  "VERSION": "5.19.3-1",
+  "DESC": "System service to manage user's activities and track the usage patterns",
+  "CSIZE": "184954",
+  "ISIZE": "707059",
+  "MD5SUM": "ba24c790be0a467107ecc3df0f1253cd",
+  "SHA256SUM": "a807ecc4c07856b367f9a293cb6ac37d6f6d2e4888ecbee2848389f07dd4e342",
+  "PGPSIG": "iQEzBAABCAAdFiEEFRnVq6Zb9vwrc8dWek52CV2KUuQFAl8Eg/AACgkQek52CV2KUuRiSQf/aMQzhNQ9p3jfcr5ZXNOwbehoxMPZwnBvLe1wfm4Xs0UdkDnfycUJFOz3+QBhgTYqxV6ikO0CjFQIMl9AY7235rKq+Ihwcmqe1oSPIoX01HZobHufV6yOFH1Io32Ly1vWMllTd2tcM7L7V0HSktm1EG5Ivmsx4UXtqU/YtGEE7ekax2GUVJmEBm4HAGfjFlmwZ3s2orCd0eR3CRgXFGc8mBGLuQ+L6yFFSn+DyhEHPNCbn9fwKEh/SDHC+mA+PYtm8U0jV0sKahHeftaoI3CqQrF/y2ZALg0B9/oB00h9AORU6/U+UhaGl/YwCjKV9/SijeLhmVkhOnFWhN3Ka5IEVA==",
+  "URL": "https://www.kde.org/workspaces/plasmadesktop/",
+  "LICENSE": "LGPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1594126982",
+  "PACKAGER": "Antonio Rojas <arojas@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "kio"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "FILENAME": "vim-syntastic-3.10.0-1-any.pkg.tar.xz",
+  "NAME": "vim-syntastic",
+  "BASE": "vim-syntastic",
+  "VERSION": "3.10.0-1",
+  "DESC": "Automatic syntax checking for Vim",
+  "CSIZE": "116420",
+  "ISIZE": "693801",
+  "MD5SUM": "b9ad0742ad9dd71098274bc2cf1f4e5a",
+  "SHA256SUM": "72532388442032e4c6213b551c54a5a1aa3c0b73171d06097df0fdeaef7fad74",
+  "PGPSIG": "iQIzBAABCAAdFiEELjbYYgIhSC/EXLfyqRdkdZMmtEAFAl229q0ACgkQqRdkdZMmtECJMQ//RVKeUNDZRYVjFC92gBbvurs8By6wchY3PWVjK1IWphECyWUees+lP81K2LF18ptB8f/dHanCleB6HrNqng3YL1ZmeNVCYBoPBkyJl5TSoDssK1yruwYQAeBNHMNVpGGbix9SkNoJLD/yd+iwZ25ylQ0VkZMVHfyHm9+YIGRusysjUm6kkgK5Td2kLzVusp8781TeZ1r7sSiDGf1fS61OC04+JZv5KC9o4phExwjec4anPTZze9S4fyXNfAMjIgHZDhnnpD0DOPLC7H1GECyyLYni4n89wVWAVouU30c61gYvp72TSQ1z3DviRk6IAiGaa/VVHCHoBetgNInxtG1/x2xcXRN71hCjXRbkb0Msz5jBfUWq+NSFC/aQWjuSrWfKNSV+r0xobPOxnupCR44RhGS6tuEwNSULPq/cMi6S84m5D1Zb3LySX3s8r3qLmJrsqslxvxTWF5m88YWU6NOs+7f91NLGIYiDmTXkknzDgsy+bhcJYY+laPgSmo+PC02QiCOYS3cYYll3cmdDlOI+ThZyYRCTeuXNn1dQX4fzV/QdC7FcSNAHKK2coU3pffNQoEBh+fP1uHWkEfA15/eWNhOR69m+vXy9WhoPcVqZhC6Uy9yI+K/OWznLgri0YMxqHvWK1/LfqHNFadAby2ze+Ifi9gDnVr1B1RpUz4buij4=",
+  "URL": "https://github.com/vim-syntastic/syntastic",
+  "LICENSE": "custom:WTFPL",
+  "ARCH": "any",
+  "BUILDDATE": "1572271663",
+  "PACKAGER": "Lukas Fleischer <lfleischer@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "vim"
+  ]
+}

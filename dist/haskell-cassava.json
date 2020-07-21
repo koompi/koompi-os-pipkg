@@ -1,0 +1,30 @@
+{
+  "FILENAME": "haskell-cassava-0.5.2.0-32-x86_64.pkg.tar.zst",
+  "NAME": "haskell-cassava",
+  "BASE": "haskell-cassava",
+  "VERSION": "0.5.2.0-32",
+  "DESC": "A CSV parsing and encoding library",
+  "CSIZE": "277506",
+  "ISIZE": "1783408",
+  "MD5SUM": "414df88f1da0e9e7b47c84f91ad2e311",
+  "SHA256SUM": "06f6ca9e99394d193df694969f1a55540d9144e3eac5cb1ca612ae0bb1e41843",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl75oJgACgkQeGxj8zDXy5Kmbw//Qk+fMBMscj69gSZ2lBwlh45zn8lsJ7SQgZ78qoR6CATg9WkKUzv8E5YZj9/YCpOMReWare8gl2nkoOxocnZEJ8CPsDiWaLvk03kqee2hkic3BQvckoZFFcl4icg8el3Ta7jm2v3n+nsq4CxTLFEHB0P2GsV0Tm12b1Si+6Mhhi5sRmYsf8UVqMXLq/XJplyqRBCQaxzArdHlcT27E2332xqvNBBjpU3bLV42n3KLvmZnUAY1NPqyUtz2WRXuYMkYbyAdO3bbktc7vJx3tnPK14Qr+QX8nobng+EzpSqlYtqmSXe/d3qWVwazzw5d4BUAA+/GCVN+dGLCfGT/xdYE3K5E7118OAQ0ddF53kICKN8evjWz8XdOntvIVokOo/VmB9YoI9ZWlzPkmBhdg2ngZaTd1nybTI2VlMKwItdJKxO/cOptfywgwfGLGM20sJlvokFFk5RxF7rLO9iUF4TzTKi7FarSsdyiWLD3bsZjt0E+fCzeDArSqiEKUhY/fdEJP8vCzKMxfIbf7Io6lNQqQeVGmVUiMGXEuZaE/P6VU9LLrGWVR3KK6RKIIWHKqe+jKnKMYrpTJd84pczm0FUSGCQw/wJky0KI467uhXbQupyzHSBV/eN0JTWP8+bofRj/X2qa7EjexDD87VEhCAH2zolMNVJEmYcK/XdxPiBFHPY=",
+  "URL": "https://github.com/tibbe/cassava",
+  "LICENSE": "BSD",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1593417832",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "ghc-libs",
+    "haskell-attoparsec",
+    "haskell-hashable",
+    "haskell-only",
+    "haskell-scientific",
+    "haskell-text-short",
+    "haskell-unordered-containers",
+    "haskell-vector"
+  ]
+}

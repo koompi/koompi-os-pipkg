@@ -1,0 +1,25 @@
+{
+  "FILENAME": "python2-cheroot-8.3.0-1-any.pkg.tar.zst",
+  "NAME": "python2-cheroot",
+  "BASE": "python-cheroot",
+  "VERSION": "8.3.0-1",
+  "DESC": "Highly-optimized, pure-python HTTP server",
+  "CSIZE": "140457",
+  "ISIZE": "798841",
+  "MD5SUM": "93a007f9df2ab4ed251cc6ce93a3fe50",
+  "SHA256SUM": "1c01ab20dad736233164b2097dd2b1c1d13ead5ce37ba066d7df8937d28c1a63",
+  "PGPSIG": "iQIzBAABCgAdFiEEBR6tamFVOJ1p2gLl63Y7Tp24h6YFAl5ee/MACgkQ63Y7Tp24h6YJfA/9ECL4h6XQUsrJP9E1DwgsrVouXSzw7B88Ht6/iUiCYd2ZlqQ4sDuWsby6m90D15DG2SCc6ImCeixe9fP2MUXt4nq6JN1neKJyFYrKqrvGS410Ewhz2qZaNZwQULXuT27xMoVJuW8xL5uCMYP3r4GwsHvyaZ1LUBUqgnDMPqca7i49/QL933DzUZgOXCuacr2AC5Y0kRkfVd8wWoXyLhvN1SQ0zOD/DVuVGzxsnLmM1BqPSUCCPA0khla38o868PnReGcfk3f7kcSsY035E5uPDExToNRRH63mF9ns/tdfOjBfBB6QeZhbCJ9vkl5Nf4IoS2wuKBmUdHVHCeQn0sLEhGDkVLY9Mk30125d9GIA8Gwm/iyKDAE5BD7p0QIQL8yQa5pYfxWORHscaYxLBlcUd2JAhUWOjry6g+Pi9wVGGQ/TDMeFV+tzsMbQwmjmdGgp6jkg8m8Y5e2R8JrePUiekTeAsGaimTmahXWpkheU03gmRyw2PVr77AHs4kxM2a+stW/2ap4ujipEOG+AZsy6Ow34RTB9ot/VXhMOHzKlnB6lpipg/DtP96TFu5GJ1c3ezBn1W2TMWWxSKndF3f/ayIEyzzdxYzqthhsXRPJRMgvGsp4ygIv369T9Wp0TJrQjE15GEAy0t09BIdpsWgmnYQeaRvjTi3cvjnS90OvEOV4=",
+  "URL": "https://github.com/cherrypy/cheroot",
+  "LICENSE": "MIT",
+  "ARCH": "any",
+  "BUILDDATE": "1583250358",
+  "PACKAGER": "Thore Bödecker <foxxx0@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "python2-six",
+    "python2-backports.functools_lru_cache",
+    "python2-backports.unittest_mock"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "FILENAME": "python-sgmllib-5.2.1-6-any.pkg.tar.zst",
+  "NAME": "python-sgmllib",
+  "BASE": "python-feedparser",
+  "VERSION": "5.2.1-6",
+  "DESC": "Port of sgmllib to Python3",
+  "CSIZE": "11992",
+  "ISIZE": "31133",
+  "MD5SUM": "1b9b5a0af5a9ac951ffa4e0519b92e3f",
+  "SHA256SUM": "b532f86dd6b54c9aee9e5f9b8121119e6361333e99604420ada03edb6df3ade6",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl6/0Y8ACgkQeGxj8zDXy5LTUA//Uik9Vbv3KBuwkLkyZToyS409HAWWoON5Ow/t9c+m675NZ+WRSJi3Mrg5qx395BpCO8tAIOOz6sYE5c3BCL9vJZHjQj2rzvqnekD8zWG9mPE/b2sOBf3Dc0QJw5ocqEl4PfAN/e52JgrnT95Vw+aBHsd1Z/H7zrA4BaG+mpZ5r2afVLsXrMq6MTKwOlw3f57SUWMYQVxO6WOidiWkiEQbksPLYHxBzA2UvDLL/Kkvi5NFfsgJpqPPm9t/tUbyJfWTYieyDYAOeebBqKgCk9yanSRvCdsq7uiDwQO8anbFkK17wep4fu1JH+scKlyv0P9upiy+OZJ27qsv6kWEqfOuSoWs78YwOzkvlrVs/UQD8sb+VR2Fk1jPqEAtX3eMRzbVYOdpBgQCpXJXLhBYYGWJo8/eVC2yFv2hzYIrI1Mjwd78xGbZ+CU1JJWooj5rrI+LRHy4pXkGBRx9RflAT34XLdVviG9A7vgsWazWMN6XxRicwL+DxLxq2LMIeQkqVq7jaCqJo/2Y53LosYYtwmm4mSP5ZkZ0J/BkEcg+Uc6sAvmKJhGLyH3UV1LfjqIRC9CihS5RWwh+8rAKhAC4mcHcFwd8JwJwmC03W8FvOidooKaH9Sb0seD9WPwUFh1uDykaPZQgK4H3VI+o1I8XHXEgY2prMyE6y0SH1oyZlbere3k=",
+  "URL": "https://github.com/kurtmckee/feedparser/",
+  "LICENSE": "PSF",
+  "ARCH": "any",
+  "BUILDDATE": "1589629291",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "python"
+  ]
+}

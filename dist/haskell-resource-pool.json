@@ -1,0 +1,27 @@
+{
+  "FILENAME": "haskell-resource-pool-0.2.3.2-102-x86_64.pkg.tar.zst",
+  "NAME": "haskell-resource-pool",
+  "BASE": "haskell-resource-pool",
+  "VERSION": "0.2.3.2-102",
+  "DESC": "A high-performance striped resource pooling implementation",
+  "CSIZE": "28567",
+  "ISIZE": "100527",
+  "MD5SUM": "bb4a053ca0e6627c22a287065da04d1e",
+  "SHA256SUM": "68512d22c8fb9b0bd38bc8abbe77d3011185139b5a654c3d6ee7db4103e46503",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl75KoAACgkQeGxj8zDXy5IedA//S6fZmwXcRhnG+xh7vYRM1y5xhWs3ZCim3LnZ87m2Slko4/0qEebqI205NfN3uChUHyrjcD8od6rR2uvtOWDw6M9c4YNKJrPNOX9+SGUBhDsXaVonc+Sdvnuzn6ypmXq++TCULHQqlLetXIbiNH8uqt0mySTJ+FyQOFcD6Hb1hX0CCwhOs95/BAHIyroRAFv8PNSQwb8OiRJGOXMin6m8ExTxr9XEBMrf8UCwOLu3egNtypu7N+ESfhf6KNAbjOY5B5UD1/Mzd3f5noRjwLVeOGyWiP/vg0LdL3LCWG752ewq77aD9ly1o5XDZnk6ljNHninUjLHaJXhqIWojNgVt1jpsATwGI+qFlGG7EwEyB5q/oYWLbYDiqchhSninsJe0YRCVhe9rLs3Y4sJuf8GmkYfTT+UZS1AMBDi+5IYEKP1vm3FT81JziQRaREFIZYiX+F9qu6Qmho+WAhl67ibPZnCtJNBTK1jkC9nQi7EI0MY1dPdRmseHimboJoV2GIOcgeABYS8DJWbAztfsxdFi+/e9ZhMxv/ebJ+PetXaK21yWRSPeuO4uH57Vj39cxznmWdbOpNgwAN17RtR/ROfnWNasYDqFnFMcCjmDyOH9KOhuiICbq7lsMGFPnnUUg6jKisL4P1v2RgvyF7nagkL1V2NGVg1hON6lVUBnUUUxlaU=",
+  "URL": "https://github.com/bos/pool",
+  "LICENSE": "BSD",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1593387626",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "ghc-libs",
+    "haskell-hashable",
+    "haskell-monad-control",
+    "haskell-transformers-base",
+    "haskell-vector"
+  ]
+}

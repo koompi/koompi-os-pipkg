@@ -1,0 +1,34 @@
+{
+  "FILENAME": "lib32-gtk2-2.24.32-2-x86_64.pkg.tar.zst",
+  "NAME": "lib32-gtk2",
+  "BASE": "lib32-gtk2",
+  "VERSION": "2.24.32-2",
+  "DESC": "GObject-based multi-platform GUI toolkit (legacy) (32-bit)",
+  "CSIZE": "2153385",
+  "ISIZE": "6974750",
+  "MD5SUM": "5d0c9ebdff1245e970145bf02e484cb2",
+  "SHA256SUM": "0a4b6233716daff0a7c4a333203b628fe32c856bd583293e4c2d15614f901735",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl7L4jIACgkQeGxj8zDXy5K4JxAAvrI5N1aV/SBjkb6P4NbjIKx+So6sl5iqk0EeS7/GQ5G/0xO6xu9Z7CkF4hPKpryb7VIeL39DMRP8bEEeATJQj3yxbQ2tvYxOeweSiEicq1OuBFoWKWsGR1PsADhGZQ9PCl3JhwTSDwGDYwRm5uPAweE0GVOxeQs0ZiFP78Hrg95WvSecA+ajCIfOBkNAZk/v7hgX+3GZ4VWWgl8BnyFI+6YEX8Qu2qTTwsPBNQOcteecPyOzwtXngXCvXr/TxUQQU9UwB/BPHeeVQ2chAdcTMYhEUxtC/KlvJaORGSGENPl2bmZdorhgGDHBFHOjn3RTJsB5Pl/FYR9QKLJZwLfIX3UJAsKQP7egkF5RWwnih+3Edq1PaLtNUmX6tFpYc6jAJoiRPeU0pc+mc/Xn27sRMOCob0LQW4n4CnABgw/nynmIEDrXVZ1//M2jrvwLskqquDLOUzpqEstrinZ+EjFtSC6wIEIzkbjizVo8wk83ktNBKda6tUeS8g5AZtbOTUufiOQnBmpbo0VvtTOm7hTcgRNGrIXaMgfdbm6fipaytjFQ0wJ3qhlFLPvUCQtUKXCgVDL4SW3RehT3fnm8HvUkySNFrv1Wdy86M0g9hW0xLAyk8uEIvMxpnkQwWpj13vBgPmALazjBr0hKbjo1UqsQDAr2XiJEwJcmb1whHJ1QhAk=",
+  "URL": "https://www.gtk.org/",
+  "LICENSE": "LGPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1590419781",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "lib32-atk>=1.30.0",
+    "lib32-pango>=1.28.0",
+    "lib32-cairo>=1.10.0",
+    "lib32-gdk-pixbuf2>=2.22.1",
+    "lib32-libcups>=1.4.4",
+    "lib32-libxcursor",
+    "lib32-libxrandr>=1.3",
+    "lib32-libxi>=1.3",
+    "lib32-libxinerama",
+    "lib32-libxcomposite",
+    "lib32-libxdamage",
+    "gtk2"
+  ]
+}

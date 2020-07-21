@@ -1,0 +1,23 @@
+{
+  "FILENAME": "libreoffice-still-uk-6.3.6-1-any.pkg.tar.zst",
+  "NAME": "libreoffice-still-uk",
+  "BASE": "libreoffice-still-i18n",
+  "VERSION": "6.3.6-1",
+  "DESC": "Ukrainian language pack for LibreOffice still",
+  "CSIZE": "2414666",
+  "ISIZE": "24354319",
+  "MD5SUM": "a27150917f49415219dd97a8dc44e78a",
+  "SHA256SUM": "c64026ce0c0a6867bd3210758d4d640e2bef0298df8a6048df8a319429b7952a",
+  "PGPSIG": "iQEzBAABCAAdFiEErcih/MFeAdRTEEGelGV6sg8qCSsFAl6tSv0ACgkQlGV6sg8qCSvdfwf9EA5GjlWq2MGVj3rNsfynaCQ1kO2uA9GpJFPeRRK457KGyLjDZohqazsIxp9rUdKaph5UpFbp8QnRnJ9zXhJacZgLtLiO3WsUAHcwap02KIa84udGfSALYMWxDGRzGypokB9WCxvd48jq8uH7lOBkXX27hzYn47vxzFIGUQlOtPcOsiA/ibVh/nolmMsXWsGvF5jVDMNrsue+vVDdg7cE6UVdTIqMzXiEVEc2fd23eVXYtIP/Dtet9yt3XlbGqC4kTipDAgg7ta8mOZjqj+X4IlCOSp1YhHoianerF5YaCwwH+NgrAE20c2VAOAchCKZjqNJd6rbMC6InWjAKQ8qGQg==",
+  "URL": "https://www.documentfoundation.org",
+  "LICENSE": "LGPL",
+  "ARCH": "any",
+  "BUILDDATE": "1588407321",
+  "PACKAGER": "Andreas Radke <andyrtr@archlinux.org>",
+  "PROVIDES": [
+    "libreoffice-uk"
+  ],
+  "DEPENDS": [
+    "libreoffice-still"
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "FILENAME": "perl-convert-uulib-1.5-8-x86_64.pkg.tar.zst",
+  "NAME": "perl-convert-uulib",
+  "BASE": "perl-convert-uulib",
+  "VERSION": "1.5-8",
+  "DESC": "Perl interface to the uulib library (a.k.a. uudeview/uuenview).",
+  "CSIZE": "89406",
+  "ISIZE": "214746",
+  "MD5SUM": "d485a9e56b6f9aa77cc32217091889a2",
+  "SHA256SUM": "14887c0c0ae51fd521e09269ec9e941c671c45fa90ef3cae42f31060282ff0de",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl7viBgACgkQeGxj8zDXy5I8JQ/7B/IqUZCvmBCUMZhklwRmu+Qn0D+sNPv0j6ufSrM+ZuodWF+6PSW6KaZWhILTSbT/ajkAlyECtFuQHyF5ONJjsiJuL0bgt3RO9Cmz3/FgWUDg4OcnI3fCQmKsP99Quj49SbWYyF2CcHAF601kphrntjhixvtFE1UlTRQopFzvWv0UASj2chCw5FmR5F5AqPD7OD87qfo/T//TIZaIORnUmHAd7bsIhxXoF+ig4mEwc0HMpskBFOFVZVhjnE+vMJ8omzfhkGjNCw8Fa01ej5570akXJZzwkYh+pZ0D7HHpFeJGtxMBBslXzDqbXwOs4DlREcz8utxTYkbt7PoIk4GMBWcs2Dnl8OkzAtM9yqPpeBuxBDiVphNc9+VMNYPaiyw5MOJyu3wCcUj4U6j2GJcb+Tz2lr0g2+7Oxfyq0MiBzao3bn0M1VGNwI5m6pA7CcK6ICeRBwASs/aAilOfZnwyFB5F2A/cuf+Jn5WJ/Srh1VfGdX3zwpNYA6z81406w4iR36Dz+70IGs0g0X3ekY4aKdoYQ/Axxkp2wIWl+c9pjUyZtzlkvj+T+SQDD3Lv/2M4Ro7K90RDa5mX2yi2g/pw8UoljOLdt4Dgol5t6VZPNwJ3xiCs24sN1Uzjf7wycHC0F7GyAuliX9AAKtEDqtq1BMu5mTCnAOC6aJqjWKhLKc4=",
+  "URL": "https://metacpan.org/release/Convert-UUlib",
+  "LICENSE": "GPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1592756164",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "perl",
+    "perl-canary-stability"
+  ]
+}

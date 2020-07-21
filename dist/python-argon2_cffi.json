@@ -1,0 +1,25 @@
+{
+  "FILENAME": "python-argon2_cffi-20.1.0-1-x86_64.pkg.tar.zst",
+  "NAME": "python-argon2_cffi",
+  "BASE": "python-argon2_cffi",
+  "VERSION": "20.1.0-1",
+  "DESC": "CFFI-based Argon2 Bindings for Python",
+  "CSIZE": "30662",
+  "ISIZE": "132578",
+  "MD5SUM": "c72cacb37cfec8c317625b5adde9a00f",
+  "SHA256SUM": "8ab07fda29e1f70d64746aa0fb7633078d8eff993bdaf3f915de31054cec10be",
+  "PGPSIG": "iQEzBAABCAAdFiEEzgvecadZqH8j8PfYth284QkBwWMFAl7OotIACgkQth284QkBwWNX1ggAtVbkbxk38d7kqur6XBBoy5v50ahy2yKJ3EX9I4ft4NSZTX1KjwCZ8iqLB2s9jfaxArXhs64h1rtqCnC44p0sfA2hO9B2pYOmFWfgqxK5Xw0FKl84IxAttwi2rSJw1dNOKlZN6DjtpEAMj53F6+UqORNfH99IqQarQcSvrrO6DgdMrcn0nUnQYoqgjNYVNbXnf4keO7HnK2LWX0LaJ/z9dedcSXsAmSaJTAHg2sEnOlrN9rRTJjN4LhDuOpcukk172tqkKjSvUCg+R82O5CulpKDQet5m/URf0JOVz51TcsqJYf8mPOHjTQ5+IN13PP0i5Qh9y4dUk65l20O902kM3A==",
+  "URL": "https://github.com/hynek/argon2_cffi",
+  "LICENSE": "MIT",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1590600376",
+  "PACKAGER": "Balló György <ballogyor+arch@gmail.com>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "argon2",
+    "python-cffi",
+    "python-six"
+  ]
+}

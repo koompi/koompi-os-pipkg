@@ -1,0 +1,27 @@
+{
+  "FILENAME": "unhide-20130526-3-x86_64.pkg.tar.xz",
+  "NAME": "unhide",
+  "BASE": "unhide",
+  "VERSION": "20130526-3",
+  "DESC": "A forensic tool to find processes hidden by rootkits, LKMs or by other techniques.",
+  "CSIZE": "35476",
+  "ISIZE": "102400",
+  "MD5SUM": "41733ff08a12bc49a8e71fddae3b8baf",
+  "SHA256SUM": "2c508aef24674d776871a1f0915c54e8e9411efa0a89650175b4b3ee7ef22378",
+  "PGPSIG": "iQIzBAABCgAdFiEEYEETBMCdNmKDQO7/zrFn77VyK9YFAlvrREAACgkQzrFn77VyK9ajYw//YxPGq0ctvMDhdor66FFTdcXDxQZUmq7042R+kvVBUQVCWbfdGdGsN5+1bQLQZk+A9UVk3RM8CkGwXZPwoaLg7OrKO+fVo7euAhfc0TvbTFQ4lOJW9OyieljiYDly+fhSffWzmQS+pYZ/0D5Rxey5Ko19xf7VZdcH5yvbK5+68MZnv79f3obTWGgB1SoyfwQRIDF/QSFeHlpJCw7+74Pd6HXVBmO0oOUgvrJkqvWrxASBVdT9KOuxPRLfWUEFyPEgUgT7Hk09NCwfBDzleKfPHm61gXkfVKLC2/CQvETWuNFwuTOn+iYcGYi7BW4ZMg3EXqVyPSdPBHtlLS2teCQpxyN3PiQmbaigOdCSgT6LjGgBkXI3lWnQ09PvE04vKACTQaC9pBmdOXSEEcPlhv3zHhTy9HpVMBd0di4cyjsGbnaqElmL15m9m9qIihZi/HBv0Msk/DICJQIrwpSPoePAdQDLVGbAGCuYVYNDHc9r7Sh3cLAM2ovhI5ZZ4yliKZ6XaAiUduUmsxzQVEoJPC1DFov/efqoV7HEMWWCL/ys2vBbaLo1UgMdA43GAQX4AriSBglVRymUAKElDXqkQ8MhDd1GnZatSzDHts0ubcnHg3IBlJiIOjZ0P11X0Z6tGAzyU3i/tXNnU2x6YuKWQN8wYtnsdTMvKVGmkRJKfSKozXI=",
+  "URL": "https://sourceforge.net/projects/unhide/",
+  "LICENSE": "GPL3",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1542144059",
+  "PACKAGER": "Eli Schwartz <eschwartz@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "iproute2",
+    "lsof",
+    "psmisc",
+    "net-tools",
+    "procps-ng"
+  ]
+}

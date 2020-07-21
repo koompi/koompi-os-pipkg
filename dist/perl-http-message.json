@@ -1,0 +1,29 @@
+{
+  "FILENAME": "perl-http-message-6.25-1-any.pkg.tar.zst",
+  "NAME": "perl-http-message",
+  "BASE": "perl-http-message",
+  "VERSION": "6.25-1",
+  "DESC": "HTTP style messages",
+  "CSIZE": "77504",
+  "ISIZE": "169652",
+  "MD5SUM": "0789f3cdd66c337b9705785bd96c20b7",
+  "SHA256SUM": "c3dbcc0ff96a5b2bb349ba2d79325e48cb0f9fa13300cf94f8ad6b405bdad6b4",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl7447gACgkQeGxj8zDXy5Ly7hAAmKke0sceepKMIy7RKpaBGbUmT6iDvrdGO8XHo1dhRExeg8Szx/HwnMvpSmcq7JyvCNfnImTIDGRjnMO7GB81jkT6muovyQbfuqNLrxZ6i3dOO/ase5IXt6VtzHyI9AqpMFBBC+9NO/gP5Wm04cNRz4Xj+cX3Qd+bHEPhZovYRoWw2j1ohjlz/j+5muI7LjYkSu7mBRgaUV6opwOsyRMmtgGGeP2XVfv5Jt2vGQaEwtQ+KYKo61GeXnfuiAN86smFetOAWJ/96ABheEjB+vzlIrGWQ52ylXGZ1nmfw1JwAiyRwlfXUSkGsIi/qltVf7r+8MAYeqveIeZv5rCuA3DX/iKW7gZSYk5AbFOpjT4pSMInW64wEb6Oxkr2yCAFKgXvJAf8NMaQ9OsStIg/IryGee5Baa7inUh1K0EkWT4c5IXLa9IouuMI1nDRK88h/nPv5yaO4n9lQ4QAh/9PgO9D0bTnXY84HxCvEr/U9MxFgqJUIntz7VYlU/5XC6/Y1zCmQZRoGtcWy8vdUfcYFZMpWqUwvZrt3Z8Uckp7U4OF0X+1DyF2sV0snoIifMQnERz0EaQt+6B+SUeIWpbVSlbdokrVW6XuLrnVSoQkA+I0KCsNqNdCpdoEUYcazWsbbIhPZXrw/YRg1WkbyKV0qG7IXcn2WHBwLf6y/7qa0A5dPC8=",
+  "URL": "https://search.cpan.org/dist/HTTP-Message",
+  "LICENSE": "PerlArtistic",
+  "ARCH": "any",
+  "BUILDDATE": "1593369491",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "perl",
+    "perl-clone",
+    "perl-encode-locale",
+    "perl-http-date",
+    "perl-io-html",
+    "perl-lwp-mediatypes",
+    "perl-uri"
+  ]
+}

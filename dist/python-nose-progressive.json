@@ -1,0 +1,25 @@
+{
+  "FILENAME": "python-nose-progressive-1.5.2-3-any.pkg.tar.zst",
+  "NAME": "python-nose-progressive",
+  "BASE": "python-nose-progressive",
+  "VERSION": "1.5.2-3",
+  "DESC": "Give your tests a progress bar and smarter tracebacks in 3 lines",
+  "CSIZE": "46692",
+  "ISIZE": "197515",
+  "MD5SUM": "ca68299f8a1d95c5d1b40dc269ecd1d3",
+  "SHA256SUM": "0112ad503ab373864800a104127f78fec59297a2dab34d70de857db735603ec6",
+  "PGPSIG": "iHUEABYIAB0WIQTH54SUZv4jWDQ1iDdyWHNLQcMVSQUCXj1yzgAKCRByWHNLQcMVSdMkAP95PGloVzA0GqrjNmAiIlfqZSprvV1SFd4fxFB/LfvUJwEAg2PPUwY3tNUpi19hcgMQNCl0oXheLuA1Z1Q6n5buVAE=",
+  "URL": "https://github.com/erikrose/nose-progressive",
+  "LICENSE": "MIT",
+  "ARCH": "any",
+  "BUILDDATE": "1581084936",
+  "PACKAGER": "David Runge <dvzrv@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "python-blessings",
+    "python-nose",
+    "python-setuptools"
+  ]
+}

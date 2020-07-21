@@ -1,0 +1,23 @@
+{
+  "FILENAME": "v2ray-domain-list-community-20200712080909-1-any.pkg.tar.zst",
+  "NAME": "v2ray-domain-list-community",
+  "BASE": "v2ray-domain-list-community",
+  "VERSION": "20200712080909-1",
+  "DESC": "A list of domains to be used as geosites for routing purpose in Project V",
+  "CSIZE": "46115",
+  "ISIZE": "343826",
+  "MD5SUM": "b00eee1628c53e8a7d785d97101f6847",
+  "SHA256SUM": "70a595c8df2d2ff598562f611bbd802aab78d1020590f0fd513a46276c7db1c0",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl8KzlQACgkQeGxj8zDXy5LkNg//avCd/7BhsG7dqv3Su9uCYi74ya9RqgWRupgMxGgozRuBILqwOy70hX8HQNLhIpv4FkkO7u/jvVkGlegPeBp9KBDf6esUQ22t+A1Cpg2fQWALfaxSpcUaoMu1onSRcV9Nv3yoYU8yFTqsnEtJx1xX7Jk2y6/mperlzjcfcBMw+HDeSavC/taWKDpPiNpQGMd4PG5kKmeWBko0Or3Y1/Jg/uFb6+OtlENHjwXCJWg14ZtKIoukJaxFZr6tuN7uz0xFiELyJ6MAZdbEmpUHc1E4hVZozaS0sJsN8YDpPICY2aoHAELwARxkaYqh0NTlcYjR/sYA/mRWe2m+Co3hUNuYol21l3RZA1rAkZe/DRxEEozTjg2OKkvof0Ql5YKZfiS520t/ST/eC8jx8JG+UZ2/J5Wxg6s5Unx7J8kvR24pLbAVWtlpBKrgES8AV8o6568dYwEfhgV0f1Xuxc9xAHkEGKi83RYELXl+jBYwFt7QfWqKxPlZL5nm98j0H8HbLETcRdKea+h2hHVPDJ1qeta4DoWtvdwr5DJth5EqQRljT9+aBCpylaUwYQopPvpOLI7ZRCs0eAbhLYRIQAvWmp9kez+vpjeOhyNdrp2V3Mg3GE01B//D1aCjCtDfTfMkp8oOFNQZi+LzVM2Dym2fy1V9zguAgLR7+dF3qkhAB81ZL9k=",
+  "URL": "https://github.com/v2ray/domain-list-community",
+  "LICENSE": "MIT",
+  "ARCH": "any",
+  "BUILDDATE": "1594543638",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    ""
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "FILENAME": "kexi-3.2.0-2-x86_64.pkg.tar.zst",
+  "NAME": "kexi",
+  "BASE": "kexi",
+  "VERSION": "3.2.0-2",
+  "DESC": "A visual database applications creator",
+  "CSIZE": "3690764",
+  "ISIZE": "14380105",
+  "MD5SUM": "98a06de5208a60cad0fabfaa50d1918b",
+  "SHA256SUM": "7d086e29ef1c5ce8d84dc0f60b2b6b3331eaa41cf089dbabf4181bbef3977cc1",
+  "PGPSIG": "iQEzBAABCAAdFiEEFRnVq6Zb9vwrc8dWek52CV2KUuQFAl7Q2g8ACgkQek52CV2KUuTRKgf/ZtCpWoWwFTcInNU8oMu1w8FVw/dqac0z2Tzo/ZKaWpKGhJUCcb6y/et3jbDHRX/CxOiyfQNxMwJl1Qp9I38eD4An6nC+Qm0RmYLANrjaYTFDnuvzkpq2IyPSM7WOTwJlemmd08xroPSiXUO6zItzsmtP7a21ZDUku5cTFHPPGXwunJILtqzYNbAgwIF1vGgOr9XkA7mVdzW9U1zQRXpoOZfteupbfkHNAioy4Acq0Wecz9eWhurofoHtd+ZzBLhEklDMqiNCF8srUqrqflz2b2b0+UqQ4oh2cQJpa8vcOuPNY0PfIWUbm2ZgLExHRFK+jAhMLlp3A+P3CuqQ5iNlHA==",
+  "URL": "http://www.kexi-project.org/",
+  "LICENSE": "GPL2",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1590745468",
+  "PACKAGER": "Antonio Rojas <arojas@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "kdb",
+    "kreport",
+    "ktexteditor",
+    "breeze-icons",
+    "hicolor-icon-theme"
+  ]
+}

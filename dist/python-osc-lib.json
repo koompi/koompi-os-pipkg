@@ -1,0 +1,33 @@
+{
+  "FILENAME": "python-osc-lib-2.2.0-1-any.pkg.tar.zst",
+  "NAME": "python-osc-lib",
+  "BASE": "python-osc-lib",
+  "VERSION": "2.2.0-1",
+  "DESC": "OpenStackClient Library",
+  "CSIZE": "125518",
+  "ISIZE": "755592",
+  "MD5SUM": "ee0ef8b6cbe4c7891f7b82a2ed3a04b0",
+  "SHA256SUM": "9bdaef9edaa74d65fa8a2611e38534334c31c0d9abe53f5001290b67cca17841",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl7jtycACgkQeGxj8zDXy5IVUw//VYjx1HzAcW4PxBjkQ8JLJqUkqf5zeKo2idA9oXB1o8N8kJdz4376iXoqWwwYMi1jp5ny075mJ7Mo5c1CvQmpdg0LjMQ/LIw30U4dWuORm06KMgl7Dj5LdQGqTfuf7U7xnjOQNijez/TnJGF257YYrecs8YRLWfSu8Ex+FS3ForWTNFRwS0uKreuvk290DVUnVTvLpNp3FOsYIPkC5S0JHyG3OrQo23Y+/N5B+O2gWMCj0F9QEoBGPPsbJ5tfRotUURsnOzN6kJNHcdX5MvQw8A0nfr0ETLqIFb9hJjJaUKxhODcPWGK9h9KsABDeXDyBSNwNzxBNFRsQ3TBn7vs2qndt6K8PpzZ4W9Bl6QrP+6cf5VURh78K4ulUQeW5UBHpHPrCMq9KGSivgxAT7N1M5zVuKqRhQDZH7AS4SdPndATHB9cUPeNC9kt+1muOtw/HAAc5QUyxJnubwBef8LWFMaRERqIbV9Wgg3gnv2s4vj5OrtfTi6adAc9CYJdrywiEpwHCaqYrI3nqLoJtAE57cUUHDuAydZzzDWt3onbZ48XQ81T2fcM5fl5R1ZjY0RF5IMdCBdeE0zgOvQERa5xeX8sJv0k6JIoox4aK++fZRPNGaAbOhTGi8p0hkmP95lIk7wAsphs4vGfgLD2U9Fd3nuS6mNRliUEOMHh8hdItKVw=",
+  "URL": "https://docs.openstack.org/osc-lib/latest/",
+  "LICENSE": "Apache",
+  "ARCH": "any",
+  "BUILDDATE": "1591981815",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "python-six",
+    "python-pbr",
+    "python-babel",
+    "python-cliff",
+    "python-keystoneauth1",
+    "python-os-client-config",
+    "python-oslo-i18n",
+    "python-oslo-utils",
+    "python-stevedore",
+    "python-simplejson",
+    "python-openstacksdk"
+  ]
+}

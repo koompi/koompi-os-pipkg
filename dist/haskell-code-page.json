@@ -1,0 +1,23 @@
+{
+  "FILENAME": "haskell-code-page-0.2-8-x86_64.pkg.tar.zst",
+  "NAME": "haskell-code-page",
+  "BASE": "haskell-code-page",
+  "VERSION": "0.2-8",
+  "DESC": "Windows code page library for Haskell",
+  "CSIZE": "19140",
+  "ISIZE": "62637",
+  "MD5SUM": "0170edb23176924849f2fa99ca975e8a",
+  "SHA256SUM": "1bf3cd43967494fece5b47d0a732468c06d7a6fedcc3d2de24f5ce98b7e57177",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl6hb7oACgkQeGxj8zDXy5KpOQ//fr7y3YsagyfqCwv/2vjijSezXMqptID3hJ2t/FFT93MabmXJtnAqsCCOnCwGKPkltvplICRH27LcbgI14y/1OFNEpVLEptLYgEcWY0iMsSy5eY7R7NJwrJpAHM9XTiibzEK+ZP92DRyVLzcR2IRKCAupLp3jqeClBbad15OVptMkqcOH7oC/6XNrmP32Nq9VKqdjYesWYGhSYuzsGoCBIoI076ajSVN6sQAKinCs1d0Iy21/CavhI+04GcvcPtqgiqY1qYEtvIEIHUO1nH2V1dbIL68Ev0uTzcxKXMsnrVEinkEt6TZlgz86HUtPlf2z0y6dlYxt/BBAJQD+V/ATD/mD/0p0q0uHRGD6AY92i4s2f+QT9tvAW0RtOR0vsGRD2t1S+cG11jgllTTyCnc1mrdbZo22om1XaleYqlMTq81I4cXnyQdNm4g8C3XiqYsnpR134sbLQsu0nTAyzxBL/mgOdkdndiAd6VJ5Ex4D3Gg3Jx5VGM0Sx67KAYVTDslkDX8p2mvA0eeDsk4Zc5IG5ddW4CcobuqB2Cb/dve84auplBZWdt9QtWl5E1j0II20uH/WxikJBdF4cbIH1iugm480kk8ZIAjIXmk7orn/TVV1JCb0eWQEYd2xrWRcObjxBIQStzY6FkPe5xb95mQkE6U7TFcFOwdGB//mjGJiIZU=",
+  "URL": "https://github.com/RyanGlScott/code-page",
+  "LICENSE": "BSD",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1587638119",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "ghc-libs"
+  ]
+}

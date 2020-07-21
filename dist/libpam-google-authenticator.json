@@ -1,0 +1,23 @@
+{
+  "FILENAME": "libpam-google-authenticator-1.08-1-x86_64.pkg.tar.zst",
+  "NAME": "libpam-google-authenticator",
+  "BASE": "libpam-google-authenticator",
+  "VERSION": "1.08-1",
+  "DESC": "PAM module for google authenticator app",
+  "CSIZE": "40643",
+  "ISIZE": "99600",
+  "MD5SUM": "7a1131aef67127b3e4a9538e43daeb36",
+  "SHA256SUM": "120dc0aa8dd52e9acc45e222ba429e292e47f726e7063f74ca17fa5db5d729cf",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl4jHPcACgkQeGxj8zDXy5LJTQ/9GweZFGTQhSANhL/Tnj+a/F2ajeoVwzPk5f6rqRPJ/SXhz3K5cIKDnb99zwjtWSpq49wUskgNAXVelOW0af5Wz/DxqaEOQBDB3DynAJG2XHYmC4uXH0Y4tDqhCidoS7Z6xctMXr7DMAW33wOUAPj7gY+sCBdkbtDSlyFJzHxBRZS9FCkU7qvbzd6Z8dctE3ON66RSaxflum7V9t7WRUlp8+MlJMZIzcQomEUTcpMyBC/EoIrOgYifyhJ9E6LMAb3NGJVb36T+taccVXT+WD7JoaWebythw03k4WipzszIorPsRRkcAcP9YA7Laye2WLCbUMeO+bXgybjTLMKWiul+ssSWVv9imoARJi1Sv1EBKyu9NXfBi7wLgPEg/aZHeydiKAUymgBPnMKUAU10fYIMTJKocjdy13CgJ+86nwyBMYANbGgMDC4HQc7/PmMncs6obHHMr9s1Qm7i4gHRZxsxmq2x03q9/YZYCGZpgbGh97N5sZPezHO8JrOSm4t3HIiHOsA7WmTiniMAJEQmy6uZyqGbDngN9Z/ahiypsa5wSF0GriZanDpcTbXkst7ELOETtHpyg6QN4ga+ufDxySOdCdFFnh3ExQIuyHhY0FGCLYtYCOsGgb5hBl7Y0Bf46VEuT/6B79MXAE4EoZne82FIWhV2bKLlO1fCfNR1UW3q1Hk=",
+  "URL": "https://github.com/google/google-authenticator-libpam",
+  "LICENSE": "Apache",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1579359440",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "pam"
+  ]
+}

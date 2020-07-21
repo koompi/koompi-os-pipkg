@@ -1,0 +1,23 @@
+{
+  "FILENAME": "tcl-8.6.10-2-x86_64.pkg.tar.zst",
+  "NAME": "tcl",
+  "BASE": "tcl",
+  "VERSION": "8.6.10-2",
+  "DESC": "The Tcl scripting language",
+  "CSIZE": "2613002",
+  "ISIZE": "6957618",
+  "MD5SUM": "f5188b2f00703474b7d3896a03cfe918",
+  "SHA256SUM": "d109cafe64479b50d32fe6fd5ff9894be74a395ac2ba5346991b4e30224b6c03",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl6/wHgACgkQeGxj8zDXy5IbYBAAsdtLNVh8YIy6R+r7pM/hHmUPH1rbExahB3EVywfhzkno0hWmaooGF/pOaqcRi+bUdXNLSG3DebAU9/GPXU4RQc4ddGm9IRAoR6+C1THvZLvS+ZZ9Dzk3wdH4sQyRNkZebW9pqWDmTWHuDQBcSulTjxins9sXcGbiNg7s8VbhZgIPo66IgQ9xtFYE/hSp4sLryzwKWVjTKIJSe9s4bc92YFurXdT5gOWZVEfPdovd4ZSwn8RHhwkGichgKblsC4SIAEabe1TxV9Fe/npvFKyqU0gbs85+VKQGsyf7pi3E8xLuVhrA8MNWISV7Jgv7lNq9VQmBVKioPcHvG8nv1/Pk1ZJQmD958x53SlgsNi0RZSZkLO7AQWH4uUL/u7YbPLa6NPTVEKf9ikRzLqvNaV62CJGyigbvsdd1Zc9fxPSqYQYpFcW3EZSoRWC5A2jRea+yrdVFCXbSoId7VjDlrwiyot1l0Pxw9KeY7hImAEQsZgjonlUOTLTPat1qrLJNPCF0ySeWKh/DO3aTFZoJs6laeddAf8pVu41Q0l0tSHv8axr9Eeknn+5BBHan0/mJKShLT/pP+Jj2uwikfaswdqO4HFLyzoPIfSbucozyaWiI5ztAFHRBzzgXeRXXTXEn6dnMr25K8QZr9U5BMGWvFPMCy88BbiPsV1Zn+9qeNOS02N0=",
+  "URL": "http://tcl.sourceforge.net/",
+  "LICENSE": "custom",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1589624625",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "zlib"
+  ]
+}

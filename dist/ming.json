@@ -1,0 +1,26 @@
+{
+  "FILENAME": "ming-r3160.50098023-1-x86_64.pkg.tar.zst",
+  "NAME": "ming",
+  "BASE": "ming",
+  "VERSION": "r3160.50098023-1",
+  "DESC": "SWF output library",
+  "CSIZE": "466128",
+  "ISIZE": "2789158",
+  "MD5SUM": "b3f23a1a8afd10c19385a73ade0d7818",
+  "SHA256SUM": "bde89c38fb3c7d9f82705d86bb84086401efc25068f4b02586396203355af05a",
+  "PGPSIG": "iQEzBAABCAAdFiEEbqPz87kIJjKpy+kx1ToERbR6DasFAl4OcGEACgkQ1ToERbR6Dau/nAgAkN/s7Q5ZhH5VyEdQkNXvjlFviK/TspW9Knd6id59Zt6ltOtc7qhc2Hl7Tgm4HFoXpGWzAs044FczCAbzHvYQ47vl7OXYwzW/OLRm0KpPARZV4Oa410UGLDazl68zqZVUC5XEF+0g2uP8O+n6HSeacbGn4Xyu3ZMYizJjshhd5xcx7+OT3ZQ3y062CHidg15UWaNLqL6MluqrmjaWoBGV/1Ugw7llzzI4zCdarZZo2t0n0zc8Zz0YA6SsAL7JV7BNbJeE1ZGi37rKCuhSw18IgYONUhv3GmqsIFCUMl2W1qhVEU+aWaSBQM+roNbDGi3/aZxrE8StCCgAM9AhloibNA==",
+  "URL": "http://www.libming.net/",
+  "LICENSE": "GPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1578004056",
+  "PACKAGER": "Connor Behan <connor.behan@gmail.com>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "freetype2",
+    "libpng",
+    "flex",
+    "giflib"
+  ]
+}

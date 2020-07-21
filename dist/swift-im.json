@@ -1,0 +1,30 @@
+{
+  "FILENAME": "swift-im-4.0.2-1-x86_64.pkg.tar.zst",
+  "NAME": "swift-im",
+  "BASE": "swift",
+  "VERSION": "4.0.2-1",
+  "DESC": "XMPP client written in C++ with Qt and Swiften",
+  "CSIZE": "7739785",
+  "ISIZE": "14237792",
+  "MD5SUM": "34ab61a6870995e5a0c024a03955fd84",
+  "SHA256SUM": "2c27fb972ef1403411cc80c2526fc08624d9b437b25b64dee42c8ece6c0259c4",
+  "PGPSIG": "iQJGBAABCAAwFiEEPlGL8lJv0Zeeiq5JZcEQwepDP8cFAl4ysk0SHGFyY2hAc2VyZ2VqLnBwLnJ1AAoJEGXBEMHqQz/Hh4EQAJuQR2cass2USbflwtJW+b3KCSFNX+EBi8T3r+5VTGRX00TNYH56JN7fY9/Y9uRwb05FSgYxbCGvdpQG+K9aUe/kjTjz+R6uMmOj4wrUoYHVwMexhSxgYiWZapPq2bHaBI9u6kzBD/ojB+vUd52N0uN33pxZC0R/xFLiUpGF8CbZdjap4KUvIpNMGLenBQ2r73DKjyOnvxQLg3DnSGto92SWWvc2/e7yZjrr1wZkIukqmK+X3oAETAxOgJXiREz4qW1Q4pMnfMNevw0pdxRek8TBapTa/LkZoeNcgEQ60VCfbjGaX4SqnJj5DwwNTaWD2xA5ZpjECJqnXW/el+0U1jsW8IByhXUX6BK0Zb1e6F0vZAao02ciEYYD5gmP0qk/uPfywGuYNz+8ZYtQxMZZ3FmZVqRYKCJnjGY2/i++ThZV98BO04SCXeV/ZYSAtCKhWw505PrBOuMllne/ks4+7WjocQQxudtRx2pjUdi5w0lfeg+YCb4pxRFK71i0dT1NmmJgVk74F9PTcXvKkWKD9eh4RhhVsk1NZXKuU5rnByf9DymC0otiSFYKcD08579qX0P8AwofCh/CSylRFOz/ZgdkgrcEhLXsA/R2II9ev/rwJE4QM1F2xiXrbXOgDLe8kBdNUPLvxblJ6erqJeVDgcpfuYNhaomh9DA1jOJlq6BK",
+  "URL": "http://swift.im/",
+  "LICENSE": "GPL3",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1580378569",
+  "PACKAGER": "Sergej Pupykin <pupykin.s+arch@gmail.com>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "swiften=4.0.2",
+    "qt5-base",
+    "qt5-multimedia",
+    "qt5-webkit",
+    "qt5-x11extras",
+    "qt5-svg",
+    "libxss",
+    "hicolor-icon-theme"
+  ]
+}

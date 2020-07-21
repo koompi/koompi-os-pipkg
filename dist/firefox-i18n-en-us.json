@@ -1,0 +1,23 @@
+{
+  "FILENAME": "firefox-i18n-en-us-78.0.2-1-any.pkg.tar.zst",
+  "NAME": "firefox-i18n-en-us",
+  "BASE": "firefox-i18n",
+  "VERSION": "78.0.2-1",
+  "DESC": "English (US) language pack for Firefox",
+  "CSIZE": "407514",
+  "ISIZE": "469088",
+  "MD5SUM": "b6126c8a8a7e32ee507546fbcd6309df",
+  "SHA256SUM": "5b65a02c590dcac75dc87d1cf70064f1037fee800f910719bc1a0cf1b3d63272",
+  "PGPSIG": "iIsEABYIADMWIQQGaHodnU+rCLUP2Ss7lKgOUKR3xwUCXweloRUcaGVmdGlnQGFyY2hsaW51eC5vcmcACgkQO5SoDlCkd8fIEQEA9nYXOt3NAhPrOfDv6Eon9JK+6RIf7eMo7mZTq7fRFGUBANBbM8CDEnC10q0QeNUzRSodinfzLN0XtoBWpMALIHAB",
+  "URL": "https://www.mozilla.org/firefox/",
+  "LICENSE": "MPL",
+  "ARCH": "any",
+  "BUILDDATE": "1594311501",
+  "PACKAGER": "Jan Alexander Steffens (heftig) <heftig@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "firefox>=78.0.2"
+  ]
+}

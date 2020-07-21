@@ -1,0 +1,27 @@
+{
+  "FILENAME": "python-authheaders-0.13.0-1-any.pkg.tar.zst",
+  "NAME": "python-authheaders",
+  "BASE": "python-authheaders",
+  "VERSION": "0.13.0-1",
+  "DESC": "Library for the generation of email authentication headers",
+  "CSIZE": "18867",
+  "ISIZE": "56210",
+  "MD5SUM": "f9087d13fb160f0c38d0acff884fa85f",
+  "SHA256SUM": "c0211d30c5c12851887437f63b17f32aab3ea5c06d76d3a373abf51e344e0a14",
+  "PGPSIG": "iHUEABYIAB0WIQTH54SUZv4jWDQ1iDdyWHNLQcMVSQUCXi2O9QAKCRByWHNLQcMVSf+JAQCuNG2LCwkAVLcEOB+0pizFBv78MzXRQFdhsRXYWMAk6AD/TSdQNhDP3dnHaXR9l+YFwrBCDdpDe8zFm8hmWqM+2ww=",
+  "URL": "https://github.com/ValiMail/authentication-headers",
+  "LICENSE": "BSD",
+  "ARCH": "any",
+  "BUILDDATE": "1580043681",
+  "PACKAGER": "David Runge <dvzrv@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "publicsuffix-list",
+    "python-authres",
+    "python-dkim",
+    "python-dnspython",
+    "python-publicsuffix2"
+  ]
+}

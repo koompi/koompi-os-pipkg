@@ -1,0 +1,25 @@
+{
+  "FILENAME": "geeqie-1.5.1-2-x86_64.pkg.tar.zst",
+  "NAME": "geeqie",
+  "BASE": "geeqie",
+  "VERSION": "1.5.1-2",
+  "DESC": "Lightweight image viewer",
+  "CSIZE": "1239436",
+  "ISIZE": "15826615",
+  "MD5SUM": "2ec52f25bec44706d94527f1a69436bc",
+  "SHA256SUM": "4ced27dda51a46a539017a4f57a7e2b664af91b218a4a83a2bf782ddc7c66963",
+  "PGPSIG": "iHQEABYIAB0WIQQaYNxEJF0G/vkGI9bu7uLu7i7u7gUCXmqWQwAKCRDu7uLu7i7u7j6OAPoCcaUJypGkNQ2BoTRNt9Ri4k9TwFboRagNx42PWxtwvAD4zevByjmKhUBTpoAk/qwN16VFukPy0Gq/TpqF8mBeAg==",
+  "URL": "http://www.geeqie.org/",
+  "LICENSE": "GPL2",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1584043082",
+  "PACKAGER": "Gaetan Bisson <bisson@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "exiv2",
+    "gtk2",
+    "ffmpegthumbnailer"
+  ]
+}

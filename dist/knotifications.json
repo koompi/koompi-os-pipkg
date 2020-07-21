@@ -1,0 +1,28 @@
+{
+  "FILENAME": "knotifications-5.72.0-1-x86_64.pkg.tar.zst",
+  "NAME": "knotifications",
+  "BASE": "knotifications",
+  "VERSION": "5.72.0-1",
+  "DESC": "Abstraction for system notifications",
+  "CSIZE": "431414",
+  "ISIZE": "928811",
+  "MD5SUM": "8353c3be10e30eb54f2e55ea172255b6",
+  "SHA256SUM": "34ccdf4d07fd3238a83abeca650f61ba380d17ea582d4732e5c850581248a810",
+  "PGPSIG": "iQEzBAABCAAdFiEEFRnVq6Zb9vwrc8dWek52CV2KUuQFAl8JYIkACgkQek52CV2KUuRNXwgAnHOxEeqg/+cY/e7WOlmAnAWsju5vwzAz7E5DdFL9O0osk4Yv2qiJZNbly/dLqx/57SdaEAVqZrC2kstcM0L2xplreIQ10s7S0eMc4LoxrDsb8AjkFjK/F3PvtlAw9XFhnjV+2X3xFZl1APA51JbqgV2LpV3XAi4AsZNmvXUS63Vs2YAoTJPqb752Tf9crluZbPcXrXNigmlZmNzx/rKAT81uVQQsRYxy78Pb3hHOnABLgCtWT9PLKEjFqs1FqDRdKSDoEQ9cjcLouFTo4zLK40s8XC3twKsQIzUlzhBmcUM3p7DVn10bKL0+q/8z2AK+FrgI4ejEXYotUov5I4EsSw==",
+  "URL": "https://community.kde.org/Frameworks",
+  "LICENSE": "LGPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1594201643",
+  "PACKAGER": "Antonio Rojas <arojas@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "libcanberra",
+    "libdbusmenu-qt5",
+    "kwindowsystem",
+    "kconfig",
+    "kcoreaddons",
+    "qt5-speech"
+  ]
+}

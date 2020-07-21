@@ -1,0 +1,25 @@
+{
+  "FILENAME": "python-zita-audiotools-1.0.0-5-x86_64.pkg.tar.xz",
+  "NAME": "python-zita-audiotools",
+  "BASE": "python-zita-audiotools",
+  "VERSION": "1.0.0-5",
+  "DESC": "Tools for audio processing",
+  "CSIZE": "17068",
+  "ISIZE": "67771",
+  "MD5SUM": "8c598657b1956733737554d5610a6870",
+  "SHA256SUM": "565c0f7598b87c589030acdae403da2109a3600b636be3b3a75f9c84f7d35b6e",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl2+xiwACgkQeGxj8zDXy5KogA//Zaj0LKS2YbFzQ8dpOPA55cqanKxu6NisuNARglHpSA5SMLDlaQZeJBSY6PHxDmjWYP7K302biP9bhtvqGHTuotJCLOTxvqwAdrLqJISwEGZSm7Xp4Tmj/3L/LhyaRYzbFJDZTr5WEApDYbd20VfMp0PIAI7Fwg8hEOeWJY+PejB0a5IC4Mh9AQ5XbA+iuQjZ/mEEHEsII9dc4Mz7mOa7D8BUPk7AEmnKQNg2QIqq7ifFDTBea7FFkOfQe9BdmVq0a8jv+6horDQnVKeNAfUD6I7kPQX1As0eBFoJExWlNvorKfHsyRRHoY1OFFb9EmlKMyXUbpQbdkSc0ibNndRWEx5VNdvTuVR1Dydw0wJ/E7VvvAlqXnQHc3MICpA1lrVaWLCPSaKI6W+llusx11YGfzzGOOS8axyk64WPeS0ppzMGI9xskFLZrTyilp71KPU+rI9jN34TiuAPmuRK6iGWi/fF0Gzi2NSXZUfEVkh1H86WUxox6MUFI4QpAxMNfFtnYrGHa7Pyw2vUbm35mO+6EV5VWvxB0EQhfpjQ2FlYB4bsyh4OU8S1TWhfrgLQ1tgr6LKmZy89YxMj9RLFCNgEfQmW0aeO6wdp/m5E/zptOTPvpt92ExqqpSSajJ6nAkHbSIWijJBy1V3aYL+I/tLYsqALZB3l+2xD+sHmteOvz7Y=",
+  "URL": "https://kokkinizita.linuxaudio.org/linuxaudio",
+  "LICENSE": "LGPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1572783605",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "python-numpy",
+    "zita-resampler",
+    "libsndfile"
+  ]
+}

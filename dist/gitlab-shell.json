@@ -1,0 +1,25 @@
+{
+  "FILENAME": "gitlab-shell-2:13.3.0-1-x86_64.pkg.tar.zst",
+  "NAME": "gitlab-shell",
+  "BASE": "gitlab-shell",
+  "VERSION": "2:13.3.0-1",
+  "DESC": "Git management software",
+  "CSIZE": "12083561",
+  "ISIZE": "76356237",
+  "MD5SUM": "ca9be60eb8b2dde27950f75f2a7ea45f",
+  "SHA256SUM": "fd51c068f05e363386a8f13c01f128aaf73328a3fb139ad3b31662f57a90efd1",
+  "PGPSIG": "iQIzBAABCAAdFiEEjhmSFnRl21+wRVV8sChU7XU+Dx8FAl7ZRigACgkQsChU7XU+Dx9gkhAAhajxXo+B5ZCthwsrRXdj0+W8wb8QsEZWpiwKW8embrp2muRHspvo0RRvJGdAIXs57WASkSdAO6eqbDvUt1L1bjWgq53ayhocmyZZ2jprlOM3FF4xsXNESLl1/5GS9F5Z2fyJqjOY3YxfMrDSMd9cpZxxiOlC9s45pe6vGnttaNxWTnKVFbMaN31uRcbVHJMv+52G8mxjMm+U4mK2InH1fIGqE7YqHStcTcZtHTQg9a/7SWQrl5M7JT9xyQMoDWZ5I1B37GfyZwuLwL4ddGHqEtD7Wvq6ntihYRry/ASsd2ykkDTJRdHtXfIfxUXDi5XlqwNu0uTTiSSp5q9/aK4v24SD0ddmTFbWTeaDBLIgMmNyVSeQhHnYfe3R9VqfKojdTRnZ520RgiXf8W/y6qCW3acApTMjfCUDsfcENIQlY+Jeb6rov7HSHlfsELIBd0YsyQPGdUowcbXRB/7/yxJzEP/QvckTeb4qgQNz2kpuv3KQwNkRM2WBWwqXRo+KuZLRuR3KE7acffP4ZcqlZ1jURXWej3uhgHsdUokFR9IWyFr/1kHC1fjURwiD0CsyE22Hox9K/SqPv+uvSb3yaPnlVUZNkRzhODRfbpU2oKWVYmEdkYQa182YGHTgFaZnpZkNK85ErXO2CMET069h8q2bA3VVFUrEXLqRCAMBkXDE4O8=",
+  "URL": "https://gitlab.com/gitlab-org/gitlab-shell/",
+  "LICENSE": "MIT",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1591297403",
+  "PACKAGER": "Anatol Pomozov <anatol.pomozov@gmail.com>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "ruby",
+    "redis",
+    "git"
+  ]
+}

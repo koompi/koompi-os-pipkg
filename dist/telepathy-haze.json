@@ -1,0 +1,24 @@
+{
+  "FILENAME": "telepathy-haze-0.8.0-3-x86_64.pkg.tar.zst",
+  "NAME": "telepathy-haze",
+  "BASE": "telepathy-haze",
+  "VERSION": "0.8.0-3",
+  "DESC": "A telepathy-backend to use libpurple (Pidgin) protocols.",
+  "CSIZE": "70533",
+  "ISIZE": "207541",
+  "MD5SUM": "234f93184c57f888935fef8eabdc9c56",
+  "SHA256SUM": "e5f2c5ab51b72b7527c0bc192c3ab30e7ea14400e99899f169125ef405c16c94",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl6/3l4ACgkQeGxj8zDXy5KMdg//cev4gr5uGNfQYt2ZbpN0ohEjNsnsqynyjrzg1qGwipwwu+mefxG7bixbwByeinQStcvkvXQMEsX4nXmU2/Q31V/L8R8C5Tyy84fjqA/Gdk1kGyh9MI0xH+heqI3YFylEi1inb/4gu4HWV40JUf4vZMpn3y03Zoi9D1RZQ3oH/a68/oDWp4x+CJap1xM8mvQ2+1WMT90v983T3gBaKIRpdjdowfYfG3aIZTfeckWIDBaS/A7cA7cnTKpBUenpoXkpWoIL/wFV7m+SMkgo432CP4hY2bof7/WPo/x28RaOcxR7JJNEh974fQ2UQtwUeAyGt4yJWrL3ttkhq3uVs7zfj1srvICJYwFCQeydnHGMVm1Fca3eQtXrPlZj7QzUh+qYu+ctqXBb5L4uytShdAhAT6475up2R7yaGUk/AWeY0D/JO4fapdjDy4CyGu6ra4JP8fvthoEMk5M7qr2SzI4qEvunZO1+hEwi99Podh78R+tVQyiC5VSt/ATLjcm+Bqr7kPWe66te1too+fPFthe4/lL1lItGgKcrtr6H8XpoJPmLCbo/g0LFiqNN9lnxWSLoH1ki8/5MZayKNruVmrZJJTVaiqQIiseRRX8I9pggKyO3VrtHGW4PF1MiZE2IqqmKKiYbTgqAyzXpB9TM2l5lO2Mog/HrBSeaLsSAFoE9sss=",
+  "URL": "http://telepathy.freedesktop.org",
+  "LICENSE": "GPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1589632575",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "telepathy-glib",
+    "libpurple"
+  ]
+}

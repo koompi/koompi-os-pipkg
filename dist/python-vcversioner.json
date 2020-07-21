@@ -1,0 +1,23 @@
+{
+  "FILENAME": "python-vcversioner-2.16.0.0-4-any.pkg.tar.xz",
+  "NAME": "python-vcversioner",
+  "BASE": "python-vcversioner",
+  "VERSION": "2.16.0.0-4",
+  "DESC": "Use version control tags to discover version numbers",
+  "CSIZE": "12204",
+  "ISIZE": "40725",
+  "MD5SUM": "fdf37289f8625d7c49acb88c11c3e2a2",
+  "SHA256SUM": "3aef7b7268b59a246996186fad88ae264a28a2fc81d08408048c2299eae4e287",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl2/8M0ACgkQeGxj8zDXy5IlCQ/8CjzOXpZvJm3B/VAZN8FKEehpzz75U/SOAF22A7ndoOh5vPE29SkdsH2gsrJkJ8p89Vkl7uyxguqyeAYYMc/yNlAqJbBusToZAq24dprFBmO7pRtpIVKS0dFh4ifkvp6Xyczho3yv320oBioMrQcIaQ089Ov/aUtf4IfApi3QB54dDc5y23bptE34UJ+NY+c8TymN8v43nUec1UXRt71FFu9axUCPTzTTnv/tc3p6+wVTMKi7fPNfg8LO3lCT/EkF3a2SiBlleXdlNJ+7ec8zQVIqfN30DL7SQv7lZaRJ/d60oeirradMXLmoZlYUBJm+3pf09VNqnVFzvK5hx9sNjbavEhDrwcztaEMIHIFGucPVf6QPgJBfdAfgRqWZ6HPmrOAmMFBFG/MhGA599CiJXHqYbXfneufHXwIRVG3hxiSdnAjqejR0SKmXOfXvgj+TJone5427YSCm8Rq9sROn8jjNopjUleyQHFT/OnRAfajm0bTWmeBC5p0s3qKl6TQxKvkUcfREw60nL5zCybQujoNbseS2V7UhSZ5OOB7052hVeiW7PhMYoXvW5jiubRCdTWsO36o8E4zop6FtwxxtZJEmKvwHWSJr3rmQ5SgKa1zodJX3cD7hdx0WFWH8p/ZCiSWk05CI6mMPTmDxbrNsIgFEzV7shZFvyB/hz/TmFKk=",
+  "URL": "https://github.com/habnabit/vcversioner",
+  "LICENSE": "ISC",
+  "ARCH": "any",
+  "BUILDDATE": "1572860045",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "python"
+  ]
+}

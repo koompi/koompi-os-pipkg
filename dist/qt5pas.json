@@ -1,0 +1,24 @@
+{
+  "FILENAME": "qt5pas-2.6.r63484-1-x86_64.pkg.tar.zst",
+  "NAME": "qt5pas",
+  "BASE": "qt5pas",
+  "VERSION": "2.6.r63484-1",
+  "DESC": "Free Pascal Qt5 binding library updated by lazarus IDE",
+  "CSIZE": "506570",
+  "ISIZE": "2406232",
+  "MD5SUM": "6a0981a630ac39120608ce2f67738ef3",
+  "SHA256SUM": "e54c7443dbe976959e6534589911421aee8fafedef112fa1f32333d5053198a6",
+  "PGPSIG": "iQIzBAABCAAdFiEE2yJ3vNUAqjglYQvd2zIzknlsoGcFAl78blEACgkQ2zIzknlsoGd7tg//eUdOKKUcPxw80xylEQoR+lOEksixMTldUb/40jvAF9n5tcTxSffxZtoRRnMbZqsuk3IF6zfcVvsJ9LKIx2LaVkWR1/yJ3SQU7ZoVrCr2wJChrV7OmtSkuopZkvtw9My7HHmsfBQ82t/ePykl/0muc+Yhmw6R65mTiqbCYTkj73Vy8yPZ+Uiv1lyo6HI0ri1YTQ1pUWxonkT43Ixy98bZJfkIX1+BmfRLHDOf+p3KgdHy/9N4zt73pb4sgoeUsnBwxkJLToFb6vnxd0hCycGiuMkUBCHlYnAwF/bzAFSr5fujcgOLA66cAnCdVnsrYs7qdQLg8UfS4RZjLAbhPbXNdVsq5Kn17EDfebPAziZYp1u+6fxA2eHjHNBC0bb4tCqOXPJRqvC2WgH6zEnf5K25e0SPkB7BL3qB6OBghpffhDfO1Bx/6B+NanwnU0iu6ucZENUVPGOJlR+wU/e1yUevOnASsbFmJkE2Ch+NJ28QJkQSxAiKiMevJPlWw8Dab7LQymdHq79P8frsoe5hYg0149dOKlF2MUr3JFTZ9uLxxSYcOMWqA6F01g1kGbUGk4i7va39EvxkmOJU2kIDh4/IN65Fi9J9u9gbB50QFV4thmi1+dCp4ndtpO7sOtB7dSpJK2le57DU4fLlMBgmUA0Vq6RpCBMFdYMiChMUYeGzejk=",
+  "URL": "https://svn.freepascal.org/svn/lazarus/trunk/lcl/interfaces/qt5/cbindings",
+  "LICENSE": "LGPL3",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1593601129",
+  "PACKAGER": "BlackEagle <ike.devolder@gmail.com>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "qt5-base",
+    "qt5-x11extras"
+  ]
+}

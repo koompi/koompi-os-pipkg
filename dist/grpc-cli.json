@@ -1,0 +1,24 @@
+{
+  "FILENAME": "grpc-cli-1.30.1-2-x86_64.pkg.tar.zst",
+  "NAME": "grpc-cli",
+  "BASE": "grpc",
+  "VERSION": "1.30.1-2",
+  "DESC": "gRPC protocol buffers cli",
+  "CSIZE": "261071",
+  "ISIZE": "772950",
+  "MD5SUM": "d2927c37bc92cab0e9218d5f53530541",
+  "SHA256SUM": "f8df92e839b73e4ee836cff70a27dfb19b7287e21a5a0999a9036f4c57d57bb6",
+  "PGPSIG": "iF0EABECAB0WIQQsEYxiDwLbmsHQ+fqU3SOT2i7kIwUCXwg5xAAKCRCU3SOT2i7kI1GRAKCQOvk9bcJcsWe2zvSX5lH9aa36+ACgo4TVDhxyMAzDM0XUNY8kvv0QWAE=",
+  "URL": "https://grpc.io",
+  "LICENSE": "BSD",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1594373218",
+  "PACKAGER": "Massimiliano Torromeo <massimiliano.torromeo@gmail.com>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "grpc",
+    "gflags"
+  ]
+}

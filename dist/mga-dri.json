@@ -1,0 +1,25 @@
+{
+  "FILENAME": "mga-dri-7.11.2-10-x86_64.pkg.tar.xz",
+  "NAME": "mga-dri",
+  "BASE": "mesa-dri1",
+  "VERSION": "7.11.2-10",
+  "DESC": "Mesa DRI drivers for Matrox",
+  "CSIZE": "948600",
+  "ISIZE": "3642368",
+  "MD5SUM": "3ebee97b60af3205c086033608358eb2",
+  "SHA256SUM": "325130a258a964560ee88cf87a51bae3717c2c1baac51409184ffadd86782a34",
+  "PGPSIG": "iQEzBAABCAAdFiEEFRnVq6Zb9vwrc8dWek52CV2KUuQFAlsbA4sACgkQek52CV2KUuRbZwf/SSNhc26K2WzlnbyMIv6X/R+938wj8lF45HUX4NY2jTPTMgZlD2O539I3wF/okG6zLHDjfZLHL184efTMxgFqZhoIKYdCTfFltsDp01O2BDvgRtxDi2ZOsrAlURE7pVOrYWXQsfYXyj/R2tyZrBW94vcOhIDhT49EkL74A0gZzSJlBZYZe+hamQt0qTIRTamKPChjw5OJxIXwVcHpSvJr3MdtkOvS9PFu8hkXIYSUVC35Ltk9z/tkxdTzZYy21KwrBrMHpEuAMTSuer8bsIXeaV3baGEiiIOGe85siMSwxfeLVZGu/0V4mUZCkO+ktCfNbVl+BrXmU0W3T/BrIwGqEA==",
+  "URL": "http://mesa3d.sourceforge.net",
+  "LICENSE": "custom",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1528496842",
+  "PACKAGER": "Antonio Rojas <arojas@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "expat",
+    "libdrm",
+    "gcc-libs"
+  ]
+}

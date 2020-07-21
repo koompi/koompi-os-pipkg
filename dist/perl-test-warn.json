@@ -1,0 +1,25 @@
+{
+  "FILENAME": "perl-test-warn-0.36-2-any.pkg.tar.zst",
+  "NAME": "perl-test-warn",
+  "BASE": "perl-test-warn",
+  "VERSION": "0.36-2",
+  "DESC": "Perl extension to test methods for warnings",
+  "CSIZE": "12768",
+  "ISIZE": "20658",
+  "MD5SUM": "861bce90ab9b248da91b1c15145bb15b",
+  "SHA256SUM": "3834228eae80f487e8dc3da5bdab8b6be83e6447f35c59af853bee2ad69a502b",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl8El7kACgkQeGxj8zDXy5Ln/A//XFD7+mc9jLZWVDzX0mQ6s+EBTXYU4xQYXx99GUlHOdXuoEl7x9eNMu2ypcYBwnixJldrUMGuopChYmRnMzKVxIbybMMfV0hyJklewiqkfTbr1MNxfW/P68c2wbxdQY3iR91fwDtOvcjzmTRSxSMzpnKZhjOKZn6bVgVC8wh0b7K0aZsE8T11Bi3QgtdsnIPdwR1rj6kzHCCCglDO1cNhitnZZmrllcM56sIw8lXKgUdb393C1mMRoKvQs6H0AxovveqsM0cV8FuOppyWMupZvIOWjVsgt66iqO2UHpPs2K28EyXf0Yw7o4jDWwnOfJfA6sJNgml3su0Nvjkn4se9NlHmPswuseo6KenPWK6SExiHfbovWUz5mjWnyuHsYLqcrdZb/VKBLDXUIP8Ou9Pt9jk9pMyFC5BAAq8yw4O/qMabP53VwcYOpnhs4KUfcWJHMQZkW40Op5qeSqlEGnSRqgl3nPbpPA+tki+He05XbX5Le2/IVQbmVi8Dj7CgqsZBcPXjJNXvvKKhP13oC7MBH2EGbJU3eH39GrxV0iyKpulBsxaxR3AmxYJFHLr9pJ6ZyolJHCCuJcb3Fp16aAdcRRpWj1sXTVZJtRL4ed1D78YH5iiueoJUnNpqhfArDrztzzUjC3uEe51JNNrPDW8SMveFmOqsPsZNACmTaFMtf5g=",
+  "URL": "https://search.cpan.org/dist/Test-Warn/",
+  "LICENSE": "GPL",
+  "ARCH": "any",
+  "BUILDDATE": "1594136489",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "perl-tree-dag-node",
+    "perl-sub-uplevel>=0.12",
+    "perl>=5.10.0"
+  ]
+}

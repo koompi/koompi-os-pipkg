@@ -1,0 +1,23 @@
+{
+  "FILENAME": "rebar-1:2.6.4-2-any.pkg.tar.zst",
+  "NAME": "rebar",
+  "BASE": "rebar",
+  "VERSION": "1:2.6.4-2",
+  "DESC": "A sophisticated build-tool for Erlang projects that follows OTP principles.",
+  "CSIZE": "203321",
+  "ISIZE": "219869",
+  "MD5SUM": "b813179a959ee10312243d4359e16559",
+  "SHA256SUM": "af83c758fac1211322184745c7f40a4cac9490456daf2a7a5c185f05ec350900",
+  "PGPSIG": "iQIzBAABCgAdFiEEYEETBMCdNmKDQO7/zrFn77VyK9YFAl4n04kACgkQzrFn77VyK9YzLBAA0XyiiVSvDXM9V9fc6SSKLAf0inNRIF/Y/ImM/d3DCXkhgwrTWkUEsrGBF3mzBKzf/ovQkP5obsnbwSh6IMoZnhDHxpBBH/epVQSZxRmc8qZILRXYp35wjYM6nwGzPtGh7nk0ngFbDTH3IfjBBmTTRmHJ2ffuvrQFb6E7+0aiPF/7Mn9EHUkt4isoYOWBAuyETovQnySONNTTYr5WZtgGlRUPwWrSoKyR7NInq+dxNM9t12gpXNcCOeWzJnrHcDbjf8t2qdlByle0Ty4bc4jeDMeol8w91T704awJrOcBcYMXzhqRWY0wMyhX/2W+YpOLXt4q68UP+DXC3TRvlYDn7zoxo8XomqsXQVWdtqW/h9KQyoDIK2AW0+rRG6Nx/S8MNwT00ikZeTryQ5AQpvYEsStSRi+ppl6SmQsg5/x3PFcbt4wMrrm6Glift57x9zlRmVupgbgXm8c4lhwMLq6FQzQ/Y8mYu0HAWnftFya6QRU9Me4TlwzUV8vztr8AjcXQlehr4jxDtfO7rmOhuQ0Gygz1+aFunVhwF4KflTxmkNaGuk91q2+DzeCeZURBAL9AUXWKA29OpIykhP3tMGLaGKPjqsyepjWTPlaNc0oawmfBMJ5KMr+FSwtSirkpzbfjCio1Nbko+PJR77bkE4S4NbHkJrjQIBOwsvZIYxG8iOI=",
+  "URL": "https://github.com/rebar/rebar",
+  "LICENSE": "APACHE",
+  "ARCH": "any",
+  "BUILDDATE": "1579668249",
+  "PACKAGER": "Eli Schwartz <eschwartz@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "erlang-nox"
+  ]
+}

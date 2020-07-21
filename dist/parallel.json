@@ -1,0 +1,24 @@
+{
+  "FILENAME": "parallel-20200322-1-any.pkg.tar.zst",
+  "NAME": "parallel",
+  "BASE": "parallel",
+  "VERSION": "20200322-1",
+  "DESC": "A shell tool for executing jobs in parallel",
+  "CSIZE": "1615943",
+  "ISIZE": "3306269",
+  "MD5SUM": "c82771cf0744edef0c22fd2f6e86dabf",
+  "SHA256SUM": "0ed1a5cbdd6b483c84ffa20d228e1d748041d7a3ee8adbbf58dbda1a78bf8df0",
+  "PGPSIG": "iQTHBAABCgCxFiEE5VD//9SF4mShcX4wkBwcMg6w1F0FAl64V5dfFIAAAAAALgAoaXNzdWVyLWZwckBub3RhdGlvbnMub3BlbnBncC5maWZ0aGhvcnNlbWFuLm5ldEU1NTBGRkZGRDQ4NUUyNjRBMTcxN0UzMDkwMUMxQzMyMEVCMEQ0NUQzFIAAAAAAFQAVcGthLWFkZHJlc3NAZ251cGcub3Jnam9oYW5uZXNAa3lyaWFzaXMuY29tAAoJEJAcHDIOsNRddQwf/1Jbv5x1LVj0cIuqLpUuQ15SvHSPdMJpk4K61aK4XdYhzC8x82CErBLAN0Kyxjdxr3y4WggRqXRj9zFjReHpb+0ctcpGzbvAQgykJ+rHUlAp8VLUb2T/1TM8YIxMxoVTTuoJri80xszLPY0u5glw48EFms8IFGG2xWCn4+EkpdKbEdlmAMMHmlopIGHvviRrQeYmUlD9ALhyB/oCEZPJRUgY4gbe3/SvCfwiigYztFnfwdDsZiEcrdDzM150Ic59UsaugA5Ny9VwIOkl2VEWiGaSYerRmhZu4zRYpayncnB3GnR+YRjeZIxRQfM6/81YQzhhE9+boiAF8t0kvg0vAIYwhOgPq28SLluActxrGUnO+dIbdv+po5weAIFPPB09Ee1hr7i8xo47uvjsm2zxWH+frMKXTpXD25bZSwgIVVGksHRDIpn4xLoIiwOmwW2PcTi2tNRE3Ftxf4fwB5/X3KnjbfBK3C6GLny5qk2As+g7tt6Y48/FBDanf5ksOpDYRa1qtsU5Y++FYlKFXoAFpwmG83VFojLZGfrZovNb8aGpWuLV43n+kX6r1YiDb9S8G1cVg8yUoZhYoRctZLAH6aYLSFppdhQqZ5i1XWFAvSr5QWDRT8y19hsU7m+rY3+waWsC00IhtC+90iuOKwz+4cDceGc2ZfCrDwMOFutzyh73jP7SVqtAizFok7J9Ml0DqGHHnJKCX9LllFwOE5t4hs4PzIWJFaOVeep+JXLOt6sDQQ3L0OOt8vYHgccaDVz+jL0RMIu2PK0PKN3QHmqGSs2Ak3/JLAUBwE35tl0jiLFZnf3syvjqBJky1dLKge0IMalcMtNjFPzJTPR/rpLiR98WEV2hOR9LkTZ2WoRCWJl/rR5NiKDBmHLsRpYkTPyc9NCuYYUAYcc5LU73q/e+YlbmWsBv8MWidS+5hOvSj5bDq4fWL8989uiw1YSg0EGC+nIYZC6SQrRZzHMd4EFB6Se9GW/nQuvElhgEPUMlM6N9Z7ZyzJSMWZPJGqDdqvQH45DAaFKW2UVZR6fod+msnze8ZFVhJVuiODkh8CADEDe+dTzqz+be3UFD/DO04vtx4tcPq9VnpHPxkUfTyzlmH3dq4hS+RspzxZp0G+UJdmJyUxf3VN+T6pHBdgUIiUrPXY31XeGE+Rwnr7jGKxNXM58liJBnfbmtzXPnGdJC6pSsGp8tlMggmgwkNUgW/xTDSdRYVEHu0SCmydatTnjf7HKL8Si10WjSSG2s22uTrGBUsddu3rNulYQ89r7uan9gpXDJZK5lkkaZN7eDStbZfJpebb3U8xGVszAYxCoKePaNAQn9oTuNST3mqgQJIX9jrOsMFgARIvj3vjgLDMMkjyo=",
+  "URL": "https://www.gnu.org/software/parallel/",
+  "LICENSE": "GPL3",
+  "ARCH": "any",
+  "BUILDDATE": "1589139266",
+  "PACKAGER": "Johannes Löthberg <demize@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "perl",
+    "procps"
+  ]
+}

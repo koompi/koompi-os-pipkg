@@ -1,0 +1,30 @@
+{
+  "FILENAME": "beets-1.4.9-3-any.pkg.tar.zst",
+  "NAME": "beets",
+  "BASE": "beets",
+  "VERSION": "1.4.9-3",
+  "DESC": "Flexible music library manager and tagger",
+  "CSIZE": "708430",
+  "ISIZE": "3634076",
+  "MD5SUM": "e04ccc3fee6bdcb700b3d93e0e6a87bc",
+  "SHA256SUM": "67cd6982e97fabfb73985e19205c3e46c4f74b6ac4ab9f1e316a30b7bcaee6af",
+  "PGPSIG": "iQEzBAABCAAdFiEElDfdOBWnqRaePTlGr/XZUJi8b/UFAl56AGwACgkQr/XZUJi8b/XEXQgAk2ILILBq9jroz/f5qZro50cV4Yi1Cp7N46vxV8Nbg94OYxlvF29+0YIK7r71CYcHfCeTqccWevcVeGahE4M9FCvyhIbVffcfyfh7Ugi0wXPSXsuudqV/rA9oIhbZpmcUOsdbQWb/F92H24ra9PAtJMdAQvYlR0jWQ2g55hEwnCqvcp8eLqxIX+UYCfStj3SbS6IaJPGAN6PVpAicVkAAAlbyXROPC4StFImc8E5SExFSR1yv5atu0EqgQfNjjZ+56530TzTHItVuWWzHtyedpujSRrMZgsId6Poep94vytI2LQiGwaEYwmo2P5C0ug93DA3krFakUYvwQOlArgLB5A==",
+  "URL": "https://beets.io/",
+  "LICENSE": "MIT",
+  "ARCH": "any",
+  "BUILDDATE": "1585053730",
+  "PACKAGER": "Maxime Gauduin <alucryd@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "python-jellyfish",
+    "python-munkres",
+    "python-musicbrainzngs",
+    "python-mutagen",
+    "python-setuptools",
+    "python-six",
+    "python-unidecode",
+    "python-yaml"
+  ]
+}

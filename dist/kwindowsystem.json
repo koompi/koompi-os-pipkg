@@ -1,0 +1,23 @@
+{
+  "FILENAME": "kwindowsystem-5.72.0-1-x86_64.pkg.tar.zst",
+  "NAME": "kwindowsystem",
+  "BASE": "kwindowsystem",
+  "VERSION": "5.72.0-1",
+  "DESC": "Access to the windowing system",
+  "CSIZE": "766049",
+  "ISIZE": "1694218",
+  "MD5SUM": "3154c251b4455ce74f49d3b5de94e788",
+  "SHA256SUM": "2e7be6aa37752cc2dc7d8c1bf983818bf6296dcea900e07a337eb1505a906e7c",
+  "PGPSIG": "iQEzBAABCAAdFiEEFRnVq6Zb9vwrc8dWek52CV2KUuQFAl8JYA4ACgkQek52CV2KUuTclAf/Uf2YUyUjbx8wjjTibv3F7wkjnP1P29TpVfD0CyvW2lZqyn1aR3TkcD8+JMiVS+WebACROJqIDTk1w44UQhVKTRY+NU3pkZ+PkHNMa+W8gLYyaonnpapJALibLsA7t/QVkML1BDyRBvY4WIFu/uLBxedJ7WMCrVS3OEAXLm7gS6CpE1ANILKjc+ZK7eVM+jDQA0yuNEdUFSEoZRQd02hLNvDLvZ3/IesBsc+ImhyINI2z0RN+IwEVm8Sf0EeSX5XzrucGltXoQqZlEgAQKunC8O9qbIBR28arjcr9JNUm0RT6Jmp9lS9Z8jaPRm1lPIUZZO4D5NQlHZU662O0C3lvxw==",
+  "URL": "https://community.kde.org/Frameworks",
+  "LICENSE": "LGPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1594201031",
+  "PACKAGER": "Antonio Rojas <arojas@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "qt5-x11extras"
+  ]
+}

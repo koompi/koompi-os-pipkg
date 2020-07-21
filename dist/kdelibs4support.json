@@ -1,0 +1,27 @@
+{
+  "FILENAME": "kdelibs4support-5.72.0-1-x86_64.pkg.tar.zst",
+  "NAME": "kdelibs4support",
+  "BASE": "kdelibs4support",
+  "VERSION": "5.72.0-1",
+  "DESC": "Porting aid from KDELibs4",
+  "CSIZE": "3671787",
+  "ISIZE": "18345266",
+  "MD5SUM": "81d99f5ed5318caed922eff49d0a834a",
+  "SHA256SUM": "a006616c74ec4cc599843f091b4c3f5bc9dea67fa3d740369dc96bb760010595",
+  "PGPSIG": "iQEzBAABCAAdFiEEFRnVq6Zb9vwrc8dWek52CV2KUuQFAl8JYnEACgkQek52CV2KUuT8Jgf9FJUnJglPHTCVctUQaOHl6YMAhumjHd9H4bFEdZR9r3MYaSVxaH7HOkoZJiHfhNB62SKSi7zAUvuerDaEIMmWnjuYYiGGJNH5VzgZr1EXVi2B5clipZEssaPKiCcB2KfCJodgmSH+OropVeqBMPLWEuzkDYcN1O4sP8XY083kgHSDd9oZYaz4uQrtmD85xvPv3SR91/bhLbOTaG2h00PpzOlCnDV8ov8v6EVNJr6SgQAj2BhnVuntLGF2ZWyWCvZ2H26v37IgVaUd5r3ql8uD4g//0+eudi2YQeW1ubhVaNbWszOuSkbMwCKY6IgSd5ujvBnK0JR3Mj3JKH/mlSdgmQ==",
+  "URL": "https://community.kde.org/Frameworks",
+  "LICENSE": "LGPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1594204243",
+  "PACKAGER": "Antonio Rojas <arojas@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "kunitconversion",
+    "kitemmodels",
+    "kemoticons",
+    "kparts",
+    "perl"
+  ]
+}

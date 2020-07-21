@@ -1,0 +1,24 @@
+{
+  "FILENAME": "arch-wiki-lite-20190826-1-any.pkg.tar.xz",
+  "NAME": "arch-wiki-lite",
+  "BASE": "arch-wiki-lite",
+  "VERSION": "20190826-1",
+  "DESC": "The wiki without html. 1/9 as big, easily searched and viewable on console.",
+  "CSIZE": "18289284",
+  "ISIZE": "18444725",
+  "MD5SUM": "9e6bb3052edcfcf74244eea9f850d7f6",
+  "SHA256SUM": "3d55b6c9c035dc0412019290524c5c332080f06da1ddb6600adae7c8b1f2953c",
+  "PGPSIG": "iQEzBAABCAAdFiEESMOx8w3dD+Z+UW0WOW4+JbqxQsEFAl2xiGMACgkQOW4+JbqxQsFamwf/VBV+S9MlkGCsLxPErje1WXmPp4pIhngg18RWFBUhy6LRy/lsLY0C/K6HJ2U28w412p0neAAp3vU3xKHeXhjz671oe6oEGhsZsFw/T9Cg+SPIGXgGA8w53E+hAVdlauCuRr4FsE3lJowG69cmVp7s4uqouocTEXpgVVNo134NBBLt8IW/xxd72kjrLdMye1lfCR8/lat6nlU48e4P/wmvsdDqaeysRv44RqD4pJu4y+IepFbhtysAepYIC2c97BMxTd+2sjXs/AbLqvTtDrZPFfk2MWkwaKqsEbbJUU1ePJDXS6Whu11f4KA1LxtvfbKK1DNRiDv3jwg3EruJtIK3dQ==",
+  "URL": "http://kmkeen.com/arch-wiki-lite/",
+  "LICENSE": "GPL",
+  "ARCH": "any",
+  "BUILDDATE": "1571918318",
+  "PACKAGER": "Kyle Keen <keenerd@gmail.com>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "bash",
+    "gzip"
+  ]
+}

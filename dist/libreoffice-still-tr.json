@@ -1,0 +1,23 @@
+{
+  "FILENAME": "libreoffice-still-tr-6.3.6-1-any.pkg.tar.zst",
+  "NAME": "libreoffice-still-tr",
+  "BASE": "libreoffice-still-i18n",
+  "VERSION": "6.3.6-1",
+  "DESC": "Turkish language pack for LibreOffice still",
+  "CSIZE": "2381600",
+  "ISIZE": "21421094",
+  "MD5SUM": "07885104f2c98a7179bf39da9caf8569",
+  "SHA256SUM": "70f9714e80b010eb3db134b2ca39b48ca6f355aed785a54ef0bb10119d8daed6",
+  "PGPSIG": "iQEzBAABCAAdFiEErcih/MFeAdRTEEGelGV6sg8qCSsFAl6tSvoACgkQlGV6sg8qCSv7MwgAmLgewGYrwPWNlBxucpQsIOeZKqkkG3etgIlZeReBCwSPZuXpyPeOrxUPWquaRWQqXtfky6YuWHaYkGmGmjiJ+w+08z+XFGdmSUiixbQhho54OrISN7B3VIkbj1wJu/CEDGfCbAp3YZpxtpslfefXg108Oi3Yda52G7BiXawzCsah8YswwgsAWgC/M4k5ljb8pTvg2UJakNqVyK+3d0VLNVFu5MPWKg5xTus3RDxnM5kRALBpEDqg1KWnqjLbyajT2Bl8C6e92JakJcttH2elff0ag35zv7zh+C5/JkGCGG6LR0AbhnCUFw4+gSpg1jXr5lsToGPvfwNCOQiWdfcB6Q==",
+  "URL": "https://www.documentfoundation.org",
+  "LICENSE": "LGPL",
+  "ARCH": "any",
+  "BUILDDATE": "1588407321",
+  "PACKAGER": "Andreas Radke <andyrtr@archlinux.org>",
+  "PROVIDES": [
+    "libreoffice-tr"
+  ],
+  "DEPENDS": [
+    "libreoffice-still"
+  ]
+}

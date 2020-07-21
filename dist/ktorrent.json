@@ -1,0 +1,27 @@
+{
+  "FILENAME": "ktorrent-5.2.0-1-x86_64.pkg.tar.zst",
+  "NAME": "ktorrent",
+  "BASE": "ktorrent",
+  "VERSION": "5.2.0-1",
+  "DESC": "A powerful BitTorrent client for KDE",
+  "CSIZE": "2777047",
+  "ISIZE": "11843943",
+  "MD5SUM": "85d849f891fa83080a29b9ec604f4796",
+  "SHA256SUM": "fe2fd08d4d0f55ae6f5daf89cbcc763a963cc87b418eca3067565853b2166209",
+  "PGPSIG": "iQEzBAABCAAdFiEEFRnVq6Zb9vwrc8dWek52CV2KUuQFAl7b83cACgkQek52CV2KUuRSLgf8CdyrV9Y+zeYppY6VDynPWGQ30/znRA6/C/N3hSum7xJpn+U4uc0MUcT1H7ZrBi/wUg65nGs2kOhLP7ruu8f++8gH61q0SdYqPP+4OyHMT9Bm3R5BWwBnq6hqbn/8uZy66MWAxqoenmPyQ9uOOInFQQdbsrAd3tZH+RY6XgY+n/Ehv41hDghVjT8MESOjI2mnPpuGtqKo4IGLv342Ln01jwqegkr8ATmXFOHetA3Tmo47iqJdUkgWcQ9C9wNDBeDaTpQ+sRF45BKQAAdQiQnICKBH37hOrtnVJsWuAVVFKSQ/pB2fbHkClRUVFMZ4i+U79Sw4p0es+Vt49nO65sramA==",
+  "URL": "https://www.kde.org/applications/internet/ktorrent/",
+  "LICENSE": "GPL2",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1591472808",
+  "PACKAGER": "Antonio Rojas <arojas@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "libktorrent",
+    "kcmutils",
+    "knotifyconfig",
+    "kross",
+    "phonon-qt5"
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "FILENAME": "ulogd-2.0.7-3-x86_64.pkg.tar.zst",
+  "NAME": "ulogd",
+  "BASE": "ulogd",
+  "VERSION": "2.0.7-3",
+  "DESC": "Userspace Packet Logging for netfilter",
+  "CSIZE": "93124",
+  "ISIZE": "655355",
+  "MD5SUM": "da13f6fbe872ccc4f167850ecf1c1fe0",
+  "SHA256SUM": "9ecc81a3cac4861e234a4ba0eb1495bd4aaf9d8df3471d630f307d2994c07585",
+  "PGPSIG": "iQEzBAABCAAdFiEEhs/8qRjPOvRxR1iAUeixSKmZnDQFAl6/sAcACgkQUeixSKmZnDRDaAgAtvc/8zYC7U1VB6jS+wU8pe7g0hT9utSnMp20Ui4YUulWbqTsQvoQDTv3xhOPP7g7XgEynMLGaPRpsewzQZWUqPO5uLvcYxX4LjkLUtJl81JPoM0tsL5rLymd6G/cLzIO+526vyic8dDxYpPbZK2zCO33irMdQDd+FLYHpCVjizOqKWT4c2k2O+ti2APofbA6GfIZ0pcFLODfF8yZqnAEUV9BwNp6T0HPZEAqwImCTi96MeuNbtb0VqnzHN/HVJvvOzOoMqN278tnK/khC76FgDAKFa9B7Xna1f72j5WhaOfDNawOWfh+J9l8pkvt+noe+yowmv6tASJJ+qDvvU1nrw==",
+  "URL": "https://www.netfilter.org/projects/ulogd/",
+  "LICENSE": "GPL2",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1589620707",
+  "PACKAGER": "Evangelos Foutras <evangelos@foutrelis.com>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "libmnl",
+    "libnetfilter_acct",
+    "libnetfilter_conntrack",
+    "libnetfilter_log",
+    "libnfnetlink"
+  ]
+}

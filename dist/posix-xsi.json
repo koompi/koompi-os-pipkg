@@ -1,0 +1,31 @@
+{
+  "FILENAME": "posix-xsi-2017-1-any.pkg.tar.zst",
+  "NAME": "posix-xsi",
+  "BASE": "posix",
+  "VERSION": "2017-1",
+  "DESC": "metapackage providing the POSIX shell and utilities (XCU): X/Open System Interfaces",
+  "CSIZE": "2929",
+  "ISIZE": "0",
+  "MD5SUM": "2b34d5591444a1cb0e6734f250312399",
+  "SHA256SUM": "f04c7fcb92da56b0d6b860821720e8e3c22c2431af73b6a7395bc3b9c5d8cda4",
+  "PGPSIG": "iQIzBAABCgAdFiEEYEETBMCdNmKDQO7/zrFn77VyK9YFAl4XY48ACgkQzrFn77VyK9bW5xAAtVrjJKrZjBsC6lCBaXVhfrw/cRq4YkjXzZpgUFiHJ9S2qwU0E30jxldbWAU8Tle5VnurNRO34+0YOkpHcu/X/EzaDQ3Ruw3GpW/f0tyY4LXmtRMFS1mbSMSbild5+6oSbWNwlziyuPqp9Q2NGxFwM/8CrAimEXAG1Ga2SPLwireP0JuHMuCtYmPTZazetsx5Bk/U2V3oZLFE6Z8svgghbGQ7+DLHRjJql+aJMu2yURwcm0ZrXIbPwDxRck5V5vqPz0kHEoWbDNcy6ck8wtpWJoQWokgVTXF38CuVDDyIME1UjAAuoDAS2ezUw1r7IhqTiOWDeu3anYbfgtjPpyQr25y/oX1t86Jppq+Z0r5RhFfi7eWCJA0Mp7xF9YKOHDKz3l4DcnYriwyU/TDkS+iIsaXXMUolwfLnKpPKVrSfo/yMnstLDgunhQddoGjsPaNvHCY96p3jUdQ3yXJKKVp/JPGzB5HmCayy46RN7/ttnnbZ3l51R8hkwAZz7L1f5Ah1Y1y7Ad3QtOFG+t9VoWVTiCHjzzsWah8q6At+/LmFmgshCQdWqOu8s0FXRz009ll8ViHjtn99glHZXtmSpxW6E3DTJhw5XL21rnoKWZvgWT85dL/EBRr6iIiv1iF64QwKR85rQ2Jxz/7M3zNU5s0/Vv1RfLPYMd5tWQhWrTyBiQ0=",
+  "URL": "https://pubs.opengroup.org/onlinepubs/9699919799/",
+  "LICENSE": "",
+  "ARCH": "any",
+  "BUILDDATE": "1578589941",
+  "PACKAGER": "Eli Schwartz <eschwartz@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "posix",
+    "util-linux",
+    "ncompress",
+    "coreutils",
+    "psmisc",
+    "procps-ng",
+    "ncurses",
+    "gzip",
+    "uucp"
+  ]
+}

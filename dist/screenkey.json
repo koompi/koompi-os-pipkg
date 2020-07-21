@@ -1,0 +1,26 @@
+{
+  "FILENAME": "screenkey-1.1-2-any.pkg.tar.zst",
+  "NAME": "screenkey",
+  "BASE": "screenkey",
+  "VERSION": "1.1-2",
+  "DESC": "A screencast tool to display your keys inspired by Screenflick",
+  "CSIZE": "80625",
+  "ISIZE": "376896",
+  "MD5SUM": "4f5bbfb01c21868edd9bfba82cbdde18",
+  "SHA256SUM": "47227cfeef429b14e88d7fbb92540362dde60fee01f562f8a24c4a1a52c5908f",
+  "PGPSIG": "iQIzBAABCgAdFiEEwQA0ZnZjToDJQPuenAL/QZ/svhYFAl7Sd30ACgkQnAL/QZ/svhaLIA//Qt9x8cdHFBuGEaorPGrFZdJJsZiDK7WxrcF+Ih8SK4X+q8qvJfT73XdfaIhORrIUdCVMnK1tzlI+VccqvyLM2rckamJtaz2XigWJL5OK2xe4A3jP3LT5eG8LhswCeyODGQ+aIrKS6h9ul7+Bt2rXPLfShbxaOt+pMBpn6h1uwk9jdzPielxoURDb2uOwMbcapQi4iv/VTshdWaHhnhWhVrwbkhOSiiBiPv4LI0yjXsIUhJDogxe5HUkujRCX0jaFYZTB73+ZGrHEph2rjBtps96rgfl1CNF0gKxqteBi0tP3zGtsnaaGuv3jjoE1REV2YOJ6rAIABt7AG6k76GEQ8hroIndEz9asXmdK5j41Pm4AHUTaBrwKKnVshadb5sgnPDZW/Fc2vKEI4lTsegwNTpSA2jAYj3uY5YheG65ficgMY5qYvETmD7+iahQzSjzqtSL8uBKd2UrfL/HvSxkEpwzzxQF48tC3nPPd1+CbGa67gG7iPfo2SdgDI32yUEkIACpMoMhENaPRsTcnk1nl6BoJJezHnkKMnwsoqu+j6ksui+wvwgWQKr/3fwCYrPiDzL/5D3i3BkkY9Xhk0czQOOjaRReprJLTLFtBg/aSGA5ng/5nyrj67B++6b22rdnhMuGXydJDczWW2sXhH2VUVZx7ZnYxYx+ivysPLQlH7fs=",
+  "URL": "https://www.thregr.org/~wavexx/software/screenkey/",
+  "LICENSE": "GPL3",
+  "ARCH": "any",
+  "BUILDDATE": "1590851418",
+  "PACKAGER": "Morten Linderud <foxboron@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "python-gobject",
+    "gtk3",
+    "python-cairo",
+    "libx11"
+  ]
+}

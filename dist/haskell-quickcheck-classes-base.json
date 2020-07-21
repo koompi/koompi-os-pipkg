@@ -1,0 +1,28 @@
+{
+  "FILENAME": "haskell-quickcheck-classes-base-0.6.0.0-11-x86_64.pkg.tar.zst",
+  "NAME": "haskell-quickcheck-classes-base",
+  "BASE": "haskell-quickcheck-classes-base",
+  "VERSION": "0.6.0.0-11",
+  "DESC": "QuickCheck common typeclasses from 'base'",
+  "CSIZE": "233091",
+  "ISIZE": "1401903",
+  "MD5SUM": "5a4a299192104c89f5c04a9fc58d4185",
+  "SHA256SUM": "5adb3845fe338bcb7814ac616c0749b7c1f170d9d2e4536716d66b3aba23d202",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl75EW0ACgkQeGxj8zDXy5IvRw/+KUfrWYM4s1Kq24D1utJt9QOOmSGHy1sbyBOVggiGiUBXQReKr+8D6ssqSUFN7OgP/W5+9oshgKtvfpuy1rXFNKbETn635E8UHyg0zqiIqeHx9bBkGQXPZcWf/wBUFtsRVNHTb095VE74bxYr6f1A4/CUVZs+SL250z/6IAtS/IDz72JuXmI9aLxpnKNTKoT8Kj/1xPDOujhEPRLLF3362i4XyuORG71idzrf1CoF+SprsfKI5aW9oU5gpE8I2NSVoXc+JCObu3Z6Yf2cfzHBXGyEfnzmqt5JwpT3cG5DZIZVzxj5DljSwNJYQYqnveR8ON/UKkmb1EdBsj45TlhA6EOzPrSRa5LUuOEqtFMm0NBxSwzrYPSXlzj4BlHb/aO5AKmt8pLZ+Pl/vP3O+W1yNtqrWtKJRD8hPiC8LJ1XDWgYWW3oCyfm2lQbSZ0M/x+wbNHHFGOPdCOemWzCXueNRE+6a0lbd5n2ZO5NPkW49rfPQCtnuix35cBpzvZBwGKwT/p38xMKEkU1sM3i/IaSQRrvwPTyRzLb/Rxd8Qd4huLVRQVPdql9YJhJI9r8wNCGSyVcWzhyhFvh350kFTwEgbsz07MSITRnR81ROr7EPVYGW6vZlIMMjt5qWSZnEIzsRk1bydEa/wF2KdgVHGnqYW1ebqhReVlioRvUB57MNpQ=",
+  "URL": "https://github.com/andrewthad/quickcheck-classes-base",
+  "LICENSE": "MIT",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1593381202",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "ghc-libs",
+    "haskell-base-orphans",
+    "haskell-bifunctors",
+    "haskell-contravariant",
+    "haskell-quickcheck",
+    "haskell-tagged"
+  ]
+}

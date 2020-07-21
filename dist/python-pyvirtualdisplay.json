@@ -1,0 +1,23 @@
+{
+  "FILENAME": "python-pyvirtualdisplay-0.2.5-1-any.pkg.tar.zst",
+  "NAME": "python-pyvirtualdisplay",
+  "BASE": "python-pyvirtualdisplay",
+  "VERSION": "0.2.5-1",
+  "DESC": "Python wrapper for Xvfb, Xephyr and Xvnc",
+  "CSIZE": "22913",
+  "ISIZE": "70468",
+  "MD5SUM": "44ede2006caffef9fa38192c2625d960",
+  "SHA256SUM": "7dcd2d6c1877c624e592ecd69c4769f3ce536b099e0ff8fcc41040bce535b5ca",
+  "PGPSIG": "iQEzBAABCgAdFiEEado014/g79WWrG0EnYk+xNqvkSkFAl5PMTkACgkQnYk+xNqvkSkMGAf6A0kSqliCs2XKLahZxrlqQXcJ7KdbszG32KFQZgL1ZFVVu4556yOscfBSsZi+bjFmeu3iMAXrwsW0pkcrek0KTMGABlLBgOjWbisfpOoeIEU0XQXIJy52DZPhL2sq6KZJikIkZLWhRUBbzUWEB5iU5/KzFRAnjNVao4yASJEi7jeLTgD2XbdwA/WIf124QEneQOpVSnExdpdyu9EK78vxp0YVow0DmJUZI2yWlcD1pS0yTfMtBWI9VDCYpB+LJycWY3l8Fy5tG5ViTGnUomzfS2wy4+xJqqptC80qswnJYxo7Hy9Hc3n4CjGJxbHDyFVme5lEy6WJCOh1Gy3eWliqfg==",
+  "URL": "https://github.com/ponty/PyVirtualDisplay",
+  "LICENSE": "BSD",
+  "ARCH": "any",
+  "BUILDDATE": "1582244027",
+  "PACKAGER": "Bruno Pagani <archange@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "python-easyprocess"
+  ]
+}

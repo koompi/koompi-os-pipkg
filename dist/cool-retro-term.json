@@ -1,0 +1,26 @@
+{
+  "FILENAME": "cool-retro-term-1.1.1-2-x86_64.pkg.tar.zst",
+  "NAME": "cool-retro-term",
+  "BASE": "cool-retro-term",
+  "VERSION": "1.1.1-2",
+  "DESC": "A good looking terminal emulator which mimics the old cathode display",
+  "CSIZE": "1369420",
+  "ISIZE": "1809788",
+  "MD5SUM": "d1d04d25cb33faa02b5f4e331be50f28",
+  "SHA256SUM": "7386b0cc0d7fb08ba1cec4e59c0a1f29e5ba6bd14b2d5b8511ac5f944e521987",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl8EcPgACgkQeGxj8zDXy5Ithg//azTwfV0gpLQiwYouBjHtCRyciGMTYLTTODCquGOsgioDHoEtYcZdv9jb5tUG+8JvIBqL0Ff72J2u+FqyfCz+g00p8JShAoqW/6ORU9HwChJD6fKhpxVeqU8vLQq3aHZ7tk/TFA5lM+xgVEGwV5UOvnUFTO+eXLQtTMWvv0vqmnq5tYT87h7HEYbFUrGhZuHD+xyALEQ1n88kMv/k+apcZCCvRn68oTDTkAQb0Gm3FjzcCQNYqivjuxsljSTqO1ZZ+V5OKDia0fcmR08SSoxKd6f9UCSyLwYl3mZokrQvPSaXLnic0hyowGk6IXSInVCzash/5ld4nzuER2I23pR+379eVXrKwTOL0OIHmqvDofSmJsA1Rv7qiIvqWacpX2klmHZA/P8LUkCxcwsWHAljt5QBdSZrn/zlqHD1pzF/qqFXGxCobHqZRNy55YTMAERucsFx0TsCyuOn9u722Vg0DB20OMrmwHtdt38wA2s4s7wSP/Ow3K66yzSeydoeCKLTGxirJmDxROuzoriSkEs5GK6mHG3DbG64NZjebvHqzaDIzb4TNGN0Fg1s/3RJMn5pOyUWi73F38QPndgWvS+hHqk//tInyjgtr6+DzJ/PQ4+AQdiMr336C6OHurPelx6aEInZ6FP0mPPpJJhUmeAoDtwXeSUnMGQdhs4TA75N7iQ=",
+  "URL": "https://github.com/Swordfish90/cool-retro-term",
+  "LICENSE": "GPL3",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1594126553",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "qmltermwidget",
+    "qt5-quickcontrols",
+    "qt5-graphicaleffects",
+    "hicolor-icon-theme"
+  ]
+}

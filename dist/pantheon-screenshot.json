@@ -1,0 +1,27 @@
+{
+  "FILENAME": "pantheon-screenshot-1.7.1-1-x86_64.pkg.tar.zst",
+  "NAME": "pantheon-screenshot",
+  "BASE": "pantheon-screenshot",
+  "VERSION": "1.7.1-1",
+  "DESC": "The Pantheon Screenshot Tool",
+  "CSIZE": "88053",
+  "ISIZE": "392516",
+  "MD5SUM": "98f2dc5a247968beff345a500cad2478",
+  "SHA256SUM": "876a3698d62e1aea564f8dfafd6c06fb355b6bd3a0396f90123db63362db0261",
+  "PGPSIG": "iQEzBAABCAAdFiEElDfdOBWnqRaePTlGr/XZUJi8b/UFAl4pe6gACgkQr/XZUJi8b/XOdAf+NQh79lsBnjBvJ0RR8EB/vfTP1yVSpoWDo2tWufNFeM+yRyzCf+ujPTAE4tuEDcjxUFbiPy/MnQAbTijy7E6QiE00tt76YjTLM2/l9fo+Ahn7hvJ03SO2hlJPFITivVNoVuIuEH3OD3i6cgNPKdksIVqcFFUUn/NXL4wGnDhDv9butY+CcLduXoE9EXElveJwVqs4i531WOqWw3r8DwPONEqeD0d+mK9WbA3cCUq/oxErQG+3ZA1Dq1/Cl4f3/ZUV9lBWiz/2zTeAulcE0BbqJQXhihlNQLk3X40sBSQV/x0xqSu6uEUw8pgJyokhU4bVzciXiLgmBzqOxOQy/lFFzQ==",
+  "URL": "https://github.com/elementary/screenshot",
+  "LICENSE": "GPL3",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1579776875",
+  "PACKAGER": "Maxime Gauduin <alucryd@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "gdk-pixbuf2",
+    "glib2",
+    "gtk3",
+    "libcanberra",
+    "libgranite.so=5-64"
+  ]
+}

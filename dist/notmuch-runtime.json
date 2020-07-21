@@ -1,0 +1,25 @@
+{
+  "FILENAME": "notmuch-runtime-0.29.3-2-x86_64.pkg.tar.xz",
+  "NAME": "notmuch-runtime",
+  "BASE": "notmuch",
+  "VERSION": "0.29.3-2",
+  "DESC": "Runtime for notmuch and notmuch-mutt",
+  "CSIZE": "236732",
+  "ISIZE": "563727",
+  "MD5SUM": "48cdf67c192de9910e04f32f409724c6",
+  "SHA256SUM": "7ceb6b1273fb9282c4f1519d3a62e33be250f18fd3c60c4b60e57d05d985e258",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl4EDMcACgkQeGxj8zDXy5JEzRAAvMqSdDCJA2J1tr5xLUQMG6yCApYFEEqivfq6Q78qQoNApbrPJQp5wAc01oDQ7BWjS317EGgBPM7abm3HPX7FsX6i9IjQ6l7wayxoN7rUE2f/kOHdqCQDl2SvykNuHuaI2/NbvM8vCt1USz0Eu30aZU6WnunQYAjoUPmk+owAJX4JaMFGql/vb4oq9croK23yrprVmClrYjU4GFxshx1FGaSZnoDSlGNwaesWwJyCSl7WVTj0uWnhK7paTo5mZrz7u8GkJY8uSaVIBVst5f2obrJOzbLOSkOISosoXLN0c1h/A+4ZuKQ5M1WnPKQr0uLF5v/C4QObccHJQRAfJT4IcEsmjeD5WkMh9NMot3ajIeRiWmMNMu8SFg9qmM5k2ePwsYnRNFRUu81JTEMo8PkBvxsZpY/Mf8RFBlcC6hAhdfMvfI/g7JAKQULwoTJVFF85zFWs9ipSn2q7MLVi0vfm9rR/B3YCWLDsudkuRxad6q7izZEh1SrkD1hK+04K7iu/06EbQcDB/ysLRL/fzOvnwi9omRNPOCAZDs2EpAHQj9FBtW5ZG3o9XMZEPKOP5sz7fiwwiwXi6tF+9jl2JxQXBHkTC4g4xIjnxOsebLVdr+iLpD6UnDvrWE6bF+3lCLIt9qMOAPxiEtsueYQh7c6G6sQUulKCoVrDfDuS6zIC1X8=",
+  "URL": "https://notmuchmail.org/",
+  "LICENSE": "GPL3",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1577323587",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "xapian-core",
+    "gmime3",
+    "talloc"
+  ]
+}

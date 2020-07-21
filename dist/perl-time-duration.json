@@ -1,0 +1,23 @@
+{
+  "FILENAME": "perl-time-duration-1:1.20-4-any.pkg.tar.zst",
+  "NAME": "perl-time-duration",
+  "BASE": "perl-time-duration",
+  "VERSION": "1:1.20-4",
+  "DESC": "rounded or exact English expression of durations",
+  "CSIZE": "12119",
+  "ISIZE": "19759",
+  "MD5SUM": "1dd39288bdadc12213bd2922899c21c1",
+  "SHA256SUM": "693fe31959d574c03d3c1fdf516e6f8c7ac07652a2d615f83b209f4b289a0e8f",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl8EsHMACgkQeGxj8zDXy5IO8w/9GKQDLjvCoE/De0dumgQTz5CIKIelmPBbmy8UIIk9xIpFyUcujvd5i0Uod1E+ousfoR1/KCwFkDurU6pJCwYpLYp2NkGKR3JyqX8l7g4bNwwuiiHw7rxesHERy0/9y475N30FmnXzZw50f4OYxXzltbNi5s1KzSkiwbKxLggbODk64QC+Uk97W6HPhTczuxvlaSNp2k02ul9XINm+6bFXrepQP/0jRfdBjgKe+VpDzRmhaWyq19TpfcXQHG1i+glW27f7zIRS8glhvA0BHK+mgnI+/+QhphieFgHtU/0+9IUpEefj8bmKLzlGE3hpCpgfKWQ9O4dwGjPJGtNCdL4irTvrCTEZgtLMLOClPoEdFBLGvmHb4o9+hPv+fHrjFPM+1g2RAZ/r5fTW7bugE736laYWEVM0hxO6UBOsJERLdn3Wd6Knc+LWlus7RJeZ8bWPUflABJ/EtG1xZ5nq+vmvvv4AjEkcyBccMomG97A9N0pWgNUHh4N9SPYVJTzRi+ED4AmFzy/BQHljhAx/9gbgDNX/8HJiSmvyDd02Dc2d+M8Zas/0qg+YAdWRDusLDye45KLAsmqoXlmlanGP19gFFCVMayv/jxl1A2wjEx9MUo8P+X3k8n2b6ovdQMRgguxB0aF+StNZA9lOytjLvgQWTzh+aA1HbbqtrhEjyl1RzWY=",
+  "URL": "https://search.cpan.org/dist/Time-Duration",
+  "LICENSE": "GPL",
+  "ARCH": "any",
+  "BUILDDATE": "1594142818",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "perl"
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "FILENAME": "python-pyopencl-1:2020.2-1-x86_64.pkg.tar.zst",
+  "NAME": "python-pyopencl",
+  "BASE": "python-pyopencl",
+  "VERSION": "1:2020.2-1",
+  "DESC": "A complete, object-oriented language binding of OpenCL to Python",
+  "CSIZE": "566824",
+  "ISIZE": "2810617",
+  "MD5SUM": "97687f3adc54bdc23e414f3c85f3b01c",
+  "SHA256SUM": "5e325f061dc0998f42c96c0b0de31b77c73b59ae784e119401bb43c4eb61f609",
+  "PGPSIG": "iQIzBAABCAAdFiEEkDurc2QOttZVM+/zRo8SLOgWIpUFAl8GJDEACgkQRo8SLOgWIpXerQ//RtJObH6r6z4tNEqy1rCJGJUjx2jQzncjMARXqFDULcmonaO59fXpI/SVYkKxV9DYThaS0AXKat/0SyFDTFoq5s3nBMc1KbqzjHVndzCYOgeWd3rk39m1sxBsXhicATm0FNWPF27H+6KGPEsw/VZdMrFmFdA7zx0WgYgLfoZGu9hUACD4fXPcvURuH4vuJvRA1Ui3FZ45TS5EFL/zi4X1HaHaMV1hzk/HlyE7lctII/2rlL3YZMYtINfq7N8Cg1aKNbGnI6aRPzA1H9cGoqJjqpFIe0UqqZAgK2Xt+Zss7n0ghA9iFiQbQBVTFp6OHs5WvFn+J96f3u53mOpsD05ZZT31n2hVQcIu0KKN1XeDhesprjt8rDVHAQrJdf5x+4OhlgB8CEg0hdLPvRiWcscsb7twxv0GsydE0XJgxPFnEvenbUPe1FA8JQtRpEKG0QOSuy5z1glA7WZFjOP6wCtpDAva/BwzqocKAItF42tNBP9yw9TjLE7nWtl3XlIx+iVfMI3cZXjQjt66d047daAh6RwuwHj+i3deR/3R/zbMRzZQONXmXZnmHtc1BEaVJthRG/uGiNVrl+Sa6MhVeSUzfyh4KXoAk5DHkB6ZqkDiT6fHwgphJBI4pCXyXrh1AasDX34VsHeRxlx/teVr1oXDYeWNQT4OxqXQFgYP6WhBSRo=",
+  "URL": "https://mathema.tician.de/software/pyopencl",
+  "LICENSE": "MIT",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1594237800",
+  "PACKAGER": "Santiago Torres-Arias <santiago@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "opencl-icd-loader",
+    "opencl-headers",
+    "mesa",
+    "boost-libs",
+    "python",
+    "python-numpy",
+    "python-mako",
+    "python-pytools",
+    "pyopencl-headers",
+    "python-setuptools",
+    "python-cffi"
+  ]
+}

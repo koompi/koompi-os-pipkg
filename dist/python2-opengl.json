@@ -1,0 +1,24 @@
+{
+  "FILENAME": "python2-opengl-3.1.5-1-any.pkg.tar.zst",
+  "NAME": "python2-opengl",
+  "BASE": "pyopengl",
+  "VERSION": "3.1.5-1",
+  "DESC": "The cross platform Python binding to OpenGL and related APIs",
+  "CSIZE": "1493255",
+  "ISIZE": "19434400",
+  "MD5SUM": "aaab5c5746f2c93912ce4fd829310086",
+  "SHA256SUM": "beadb98dcea2280219282c8a974d7b0997845e4911d4940ebc660de9bcba3860",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl4QUGwACgkQeGxj8zDXy5L9Xg//SrwUywoCeK2RqRRhKejupBDw2tFOCRR0Qf3scrIE1keoCTfU+RrdpVz/D8JbCYR/zGnqDS4NoX5GK/m3906TlaGHFbfMhqLmlBzzBDHs5wb8dGCmO0gwzwBQtVA4PFkECF4qzRtp+DvJP40rKfkefjpoQrIw3CAAG5Tpu3OQ6xT1iFLF25a2nG/OmwOXsPiHvC9MQntmrLycMf8KKgxWIybAdj7UvFJizOvLQMZRdp8PDX2b94U+lO6boToLuy6NAhzdOed0WQSeI4PLgGACZ/uOWwpl1SoJqbmI12ypDL7kM6r/oRtRLEDrHWxhuvDCrdIFWO5j1dWnlyRA5gWXz42/BVoIuqcUK6CyliSBpzo62LIvaeBftS4yjbEPA7lyy/7ZxP6ym1cuO3J/gMmJLagI7Do5HD+cTdoasBcj0dPQBwqoQNCB/WmhzQ3IKXTs1JiseOJ8wLWLH9AI3w177eN8zOhPaSLckJOvLTPb1JhKZfFtJG6JyhAVbL2TGgm4bVLopjFYJY56f4Kd+DnqSRf7uWndp0obncpllomr8k8NfTFGPgz4Y0MnNKcxorSGK85/EGSu8KrkvYol8cunGjUfHLQeuiTyZWAGUQnlCxfLAq1K36xoUsebcNMPL92zYF1PnDkD7Dk45robvxPwhphC+4Is8xVEBokzVela6rI=",
+  "URL": "http://pyopengl.sourceforge.net/",
+  "LICENSE": "BSD",
+  "ARCH": "any",
+  "BUILDDATE": "1578127236",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "python2",
+    "freeglut"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "FILENAME": "noto-fonts-extra-20190926-4-any.pkg.tar.zst",
+  "NAME": "noto-fonts-extra",
+  "BASE": "noto-fonts",
+  "VERSION": "20190926-4",
+  "DESC": "Google Noto TTF fonts - additional variants",
+  "CSIZE": "65973875",
+  "ISIZE": "337570024",
+  "MD5SUM": "f85b989442e73c5cee98fea0ebdde9e8",
+  "SHA256SUM": "c66c0bd4d8941f82294274cdd88c93f7883a462b79d6bee7d5d13e3379961c00",
+  "PGPSIG": "iQEzBAABCAAdFiEEFRnVq6Zb9vwrc8dWek52CV2KUuQFAl4aFo8ACgkQek52CV2KUuSeEwf9F7hROUKoFf0isvwMKvZI78lXkVDBppU7239cUJib+oCbJxAQNULwN03DNrCt5p+5YVdKrX/2xfFkhApC/+PXUby7+2omFwYDyq4fm9EbdIfFJjgB/KIabopuJxiQZQn6H+gEmlQzT4erG/hmgQl40TC6IC1+knh9b0VQdHi+jWFWTDPN7IMvISyrD/8fJlSPzOtgWESZJFuYpeJ3yBk83PCAUC8YjhJDqb1NSnR0Kay4o5YvZVhpUVGywH/whITV+04E8VgoEnCY0qXd3vZcX52Q8mwu7sk62wZUHQNIKejoP2XzP87m5XIR6Omv0jOOzwrxjl8h+tCTMSZ0dxiABA==",
+  "URL": "https://www.google.com/get/noto/",
+  "LICENSE": "custom:SIL",
+  "ARCH": "any",
+  "BUILDDATE": "1578767568",
+  "PACKAGER": "Antonio Rojas <arojas@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "noto-fonts"
+  ]
+}

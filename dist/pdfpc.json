@@ -1,0 +1,27 @@
+{
+  "FILENAME": "pdfpc-4.4.0-1-x86_64.pkg.tar.zst",
+  "NAME": "pdfpc",
+  "BASE": "pdfpc",
+  "VERSION": "4.4.0-1",
+  "DESC": "A presenter console with multi-monitor support for PDF files",
+  "CSIZE": "150034",
+  "ISIZE": "446320",
+  "MD5SUM": "84055d06365f7282b29dc3c69a9f3086",
+  "SHA256SUM": "a1c36451289a40d8efc0028c6567b83c99d1a523a3b2c34ac76422ff9f6430b4",
+  "PGPSIG": "iQFIBAABCAAyFiEESx3lRagB1FSb/T/vkMs9YsE9R5YFAl5ofOYUHGZhcnNlZXJmY0BnbWFpbC5jb20ACgkQkMs9YsE9R5Z9+Af+NGUkfZgrrV+Jc3RE3buB/eEU2bOpG8V9JMKSbbfBqK5Wy1KCN3JJFdtXwG9c7awzjp0Va9x5089ysbnW/gmtITulO1jasDeExTJToIeUZeIzO9WcxwR+E16Zj91JX3NJqQveO3WyZ/7tAp9GyEK/8xdxXYITABXdRHZMqtDkrR12WJDYvzQQOvTtA7c/iWUBmnYdEBt7B8ccycAwzOMGjNHXhy1UzGy3d7tPrLLVI3SzhzXbfNodu3dL6JYa0XDJRLMOqiB7jE+UAY9DchpJAkpoyNkDxKs7GjpzSjrNsYf83B6cgthijHgPRDlqZtvOxjm0HKxUptX5HXIqD+gtWw==",
+  "URL": "https://pdfpc.github.io/",
+  "LICENSE": "GPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1583905347",
+  "PACKAGER": "Jiachen YANG <farseerfc@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "gtk3",
+    "poppler-glib",
+    "libgee",
+    "gstreamer",
+    "gst-plugins-base"
+  ]
+}

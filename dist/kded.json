@@ -1,0 +1,23 @@
+{
+  "FILENAME": "kded-5.72.0-1-x86_64.pkg.tar.zst",
+  "NAME": "kded",
+  "BASE": "kded",
+  "VERSION": "5.72.0-1",
+  "DESC": "Extensible deamon for providing system level services",
+  "CSIZE": "57007",
+  "ISIZE": "107268",
+  "MD5SUM": "1f82836fa22134b580c3e068407e45bb",
+  "SHA256SUM": "9b68135502f8160d610c44efae23aa3ad395f38bb1c5551593e40b6d71aaacc8",
+  "PGPSIG": "iQEzBAABCAAdFiEEFRnVq6Zb9vwrc8dWek52CV2KUuQFAl8JYUgACgkQek52CV2KUuShFwf/bwovx4JL3uIBiqJW8KSdJNPohefvoI1QKKkxPfg5QGxsY6T5dVHJsCIuREGBG1JWZi71v0bJ4JryhnUEyO5UzJ/ySfKBPpSok1Ce1njepwqq41w5UJlAewgQ2GsuU4CAWPnHWl/UKWKPz9jpWporLYunKqCLbxX3rd7FWyy3DaFtM0IruAxeLfm13G54YKruVUWa6DcVrWjYpxQz6/EiyszYUG7TdWVOFzNq6naHYgPVh2f/FUVVvQDARQUHT1AJEnGGQCZBHfeJQR03jCEY2tRKQFF9QXqWQ4HgJ5ruNeEJj3jmEr132mNnJKwoPRLlFKbgh0Qc6Tmb0yjuTC9IjA==",
+  "URL": "https://community.kde.org/Frameworks",
+  "LICENSE": "LGPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1594202712",
+  "PACKAGER": "Antonio Rojas <arojas@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "kservice"
+  ]
+}

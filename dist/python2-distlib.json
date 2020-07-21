@@ -1,0 +1,23 @@
+{
+  "FILENAME": "python2-distlib-0.3.1-1-any.pkg.tar.zst",
+  "NAME": "python2-distlib",
+  "BASE": "python-distlib",
+  "VERSION": "0.3.1-1",
+  "DESC": "Low-level components of distutils2/packaging",
+  "CSIZE": "245402",
+  "ISIZE": "1476966",
+  "MD5SUM": "5f35a2b85768053d98e86feac640bcdc",
+  "SHA256SUM": "5c9a7f5c9036d143796d2961288a727d30da307e0322920da4772d933a80f251",
+  "PGPSIG": "iQJMBAABCgA2FiEEYEETBMCdNmKDQO7/zrFn77VyK9YFAl7+jpoYHGVzY2h3YXJ0ekBhcmNobGludXgub3JnAAoJEM6xZ++1civWrbkQAMRDH8dTMRPpu120umnC5TYUQ2cEOeLzhNdEJSRAuZOljvG98GzravJcFJbMdRYLdxtwMBTBBkGGVbgpXMc0YE+aH5plYIh9A0ZjxdwXlGsgHYZ48BaS3Oixb5JRJ6NMMr7MkDG6r8iG2wp6a5OddkxWq7LihM5prqDuWdsgrErVoONcR9hR/BDZ7XNQab72vlJLHoaWxe/wFCLKGzcW/LAPGHhhpmGf+nsUbZ4PpI2WbuKCXxy4wxD1nptT+29OQeUOI6Y5CwaAFEKgdwtFGUrp0fLc0OBIpQDAu5N4bGmD3pU+qOhQIWRPTjtHBmiKLRmj9QxESM61IdU1BBmWI/oacUyhiJ749FBs4HcFiF3j4yvX3bVuomy2Ahtb9OJFsCbj/CIQLQzsvkcApIxeYYa4PqTaIkdIYYY+rrEh0+M69h4eA9k03r/MN8wzdSW7LNKjxqxHiPYswdM1HMPIgfXxhTrws9P9dwsU2ZYvjWki7qtt3mHmE7COdyXh6DDjiK6gIeOgCCD1loaEmO2I85+lk3hw97p7WApvjFISDNSS+jvsRC49dpxPmrVcOoBz6wipaT5/SIXige8Swo9Rwd+mQZdnRYJTXYCbsaxvZDQnGftJ3dV+oF2Xy6kUPpTpmUtd1N/cyZTCh2sv13ff2pxLAu+c+sbP5UmTCdUjDLcR",
+  "URL": "https://bitbucket.org/pypa/distlib",
+  "LICENSE": "PSF",
+  "ARCH": "any",
+  "BUILDDATE": "1593734648",
+  "PACKAGER": "Eli Schwartz <eschwartz@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "python2"
+  ]
+}

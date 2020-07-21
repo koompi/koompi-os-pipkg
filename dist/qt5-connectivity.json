@@ -1,0 +1,24 @@
+{
+  "FILENAME": "qt5-connectivity-5.15.0-1-x86_64.pkg.tar.zst",
+  "NAME": "qt5-connectivity",
+  "BASE": "qt5-connectivity",
+  "VERSION": "5.15.0-1",
+  "DESC": "Provides access to Bluetooth hardware",
+  "CSIZE": "535612",
+  "ISIZE": "2257031",
+  "MD5SUM": "ca9e6daaac5cb020f3959d8ea751c680",
+  "SHA256SUM": "b2c0e7ee53b2812a54804d384d8e946de6426b44cd30d02dbf68aaec5955cd0f",
+  "PGPSIG": "iQEzBAABCAAdFiEEFRnVq6Zb9vwrc8dWek52CV2KUuQFAl7M1psACgkQek52CV2KUuSJjQf+OFW+Y+bFEXzU90xIyEtjFF3kONCql9xpOw1WN8D6XTpozu3RbOhD2iumHK21VMK9rPfcAZ83aUuExMD1tg4HUZ7C5QULsDSkVsf0KEbcB0wnJj1wuxBDEc9olFb/RSDtjFKlnlCbFO9cSYjL8Y5SKwdIeKjBxnOYUOboy4lFgt60RHZAPUdTYPy8GocXSkO7vvB2nTYpPFKfI44YkqqdVyx06tAn7vBDnieVTjS+A20vfhbGDdhaTVvruLevOowAo0bP9jNvUjNBZCN27zTGpaluxvkYY+ZiO5nkJgHxqk3UQn6cnd5P1rmka9zCbvdaH3oBjybaYLoXFufcwHxxHw==",
+  "URL": "https://www.qt.io",
+  "LICENSE": "GPL3",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1590478947",
+  "PACKAGER": "Antonio Rojas <arojas@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "qt5-base",
+    "bluez-libs"
+  ]
+}

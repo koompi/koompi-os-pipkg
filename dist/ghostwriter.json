@@ -1,0 +1,25 @@
+{
+  "FILENAME": "ghostwriter-1.8.1-3-x86_64.pkg.tar.zst",
+  "NAME": "ghostwriter",
+  "BASE": "ghostwriter",
+  "VERSION": "1.8.1-3",
+  "DESC": "Aesthetic, distraction-free Markdown editor",
+  "CSIZE": "419554",
+  "ISIZE": "1365190",
+  "MD5SUM": "aaeb2749689c44483e2318969dfc55b0",
+  "SHA256SUM": "05fff42431bb48f47c2e4282e051ef4d499847f009f5c1c68bded0de7bdb62e8",
+  "PGPSIG": "iQEzBAABCAAdFiEEzgvecadZqH8j8PfYth284QkBwWMFAl8CKoYACgkQth284QkBwWOdTAgAv9KrwWvmaL6YRVjDLjgNQqcqNpVvgLZT9+/w0gTUcaBKo3itUDMSFfA/vE0GTC+wOe1by370grEy8nvBo/IfaH3is6vj3GPYib3JDesLrtNOTh9YiX/Pv4lBiutO0Fo3ihKuO0c0SIR9I+6i0FOCuF0dpG0lCFdyzPh9+m6mgths9ulqTSTvMCRpajLU18IsbYKM4dyuYpQO+7yXDA94fjw/PdNV6ZKUqUZZIOkqBx4VCxZSudPCWdHCjtpQwwBW8WukC9Xpkz5wOLrDE7LF8hk+fD5iY7Hs1tdUhjadRKvUK+1psFwX97AVlbSErzmV2ixQTw8b35Jq3SKs8PjEKg==",
+  "URL": "https://wereturtle.github.io/ghostwriter/",
+  "LICENSE": "GPL3",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1593977305",
+  "PACKAGER": "Balló György <ballogyor+arch@gmail.com>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "hunspell",
+    "qt5-svg",
+    "qt5-webengine"
+  ]
+}

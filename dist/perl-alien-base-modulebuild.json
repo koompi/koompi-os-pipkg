@@ -1,0 +1,33 @@
+{
+  "FILENAME": "perl-alien-base-modulebuild-1.14-3-any.pkg.tar.zst",
+  "NAME": "perl-alien-base-modulebuild",
+  "BASE": "perl-alien-base-modulebuild",
+  "VERSION": "1.14-3",
+  "DESC": "A Module::Build subclass for building Alien:: modules and their libraries",
+  "CSIZE": "65971",
+  "ISIZE": "110753",
+  "MD5SUM": "2b00a9a78824854572d4df52212bece5",
+  "SHA256SUM": "d37f6fcf756207e3c3e511e760559042e49310c8f49089ce56f1fd7aa9425c45",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl7vex0ACgkQeGxj8zDXy5IewBAAu7XZw/7R6IdPC3bo00q3jTKWQA9RhdFXRYqoF7ZsNlbOYI+qOu5kxUCqq4IUpBv6lDIpNBx94CiDbZrwL/n1mcJIhYMlaEX9wg2LO46pYMgCMfBHuNUZmE4215DLcc/shZec82ApRO41l9hctAuDgeuNTqCZovLw3L+CW+jIegz8yObsi1qYT4y8EV1DylEwxgp6XqeOikNqN83O7Ocf5CS4kbLUEPo4Wry1KvXIIRY4pvUH7woNeG9wTIVe71oZfbvpucUm/xUVk/52jsviz3g4/T16cCSZX7aBdWpaEI2WDPLiJ3jgQ11UtuH6pb7mpUuExqdGArpeYoANSzDxs/IpWmxp5sB/ZYXHxqCSxe95CG4HiXSNqxNy0iXHzPdy/a3pVQ6en7tkUhUc14ywP9CmfPk76P87EDh+dlDsGo7M+p+P2krIIABxPHXI9ww+ruQUjU21Dyxh+r3i+PdVIk5pptGqgk5CWZxTWGY2gGaV82DiJpag3/GcLoZNx2XCOi+Q7Lz3KeFell0dDMXRELTeI60xksInpZPs1BffqdwwpHvYomdPPQqnEAhNGGnuafTmVMUrURa6+0KWn7zWm4j6PrPd8MSp+0bWJUThPrZhiZF0JkOEoSZ8MvkjMrR5WeCqdpDqVKsmkDu+5LoBKGYixNaVOBnw7L4tksb6di4=",
+  "URL": "https://metacpan.org/release/Alien-Base-ModuleBuild",
+  "LICENSE": "PerlArtistic",
+  "ARCH": "any",
+  "BUILDDATE": "1592752832",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "perl-alien-build",
+    "perl-archive-extract",
+    "perl-capture-tiny",
+    "perl-file-chdir",
+    "perl-html-parser",
+    "perl-module-build",
+    "perl-path-tiny",
+    "perl-shell-config-generate",
+    "perl-shell-guess",
+    "perl-sort-versions",
+    "perl-uri"
+  ]
+}

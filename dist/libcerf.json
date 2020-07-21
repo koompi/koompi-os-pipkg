@@ -1,0 +1,23 @@
+{
+  "FILENAME": "libcerf-1.13-2-x86_64.pkg.tar.zst",
+  "NAME": "libcerf",
+  "BASE": "libcerf",
+  "VERSION": "1.13-2",
+  "DESC": "Self-contained numeric library that provides an efficient and accurate implementation of complex error functions",
+  "CSIZE": "52208",
+  "ISIZE": "122167",
+  "MD5SUM": "67f2b1bbe1811ba4eb27044d70115c39",
+  "SHA256SUM": "4fe729bde983bff78d9bfee54f6c4320e5d592d3bcc5a2c6275e0c973f5e5009",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl7Dle8ACgkQeGxj8zDXy5KmVQ//UZ00Sembh6An7+hy/KKS7GaL3QK8WrOTAKcKU0jXy7gx6FPdki9b5wA5R1m33Ar/ZIrtsDt2L2S9fMlw0N4jZys4LDcSKVrzounqQcLdUIjg91T4Xf02y12hjRS5DlV69707l1003PhXu79sW0EjH0ley+7q5rhHyMNPf5q/yPgKAPoiVsyvQ988yxFlE+O7IqkOXe1mes+5UnLCrglBPhw4JvWthEUDl3Dp9wXo3NV7zD0uhFZWyJ8CEJFzpZDAndUS/8fCbKviZLyOKlio1xnOBvjON0qXKcYgbKXDIdpW5BOg2PwRpKrMrioGKQzCLAmPZ/IuOixJqCV81TjXDPtSysodOaiJHFf17bQ4tSpwC1wOta2ObCj+SMuWnuk+XeF5Q08v2Q9keLFVN8aR2pdlKPqOPKSZoIwfNPghKZF3Ek7lYaccHd1gp8C9W7+Io7xTQvoid9R6cz6TkoyrdFWvBY7wrbkL1cq+asAtfwd2Dy1HLMgKm0wgnPfxnAu1MiM9guZSv0noQ/C79H6t3qbZjZDb5YaWXdMhPFCYgV+gBV1H58XeMUnBHNVw1P1v6g0VKRmMco57Tul2Bh/JXLvh5HvERvBjdEIV9gkiq6FMbJP9+oTFmEHf466BpWr8JePmS4+RPsDMTQRO3jGMICOMV+VfZ0gDjP8bz2Vkd8A=",
+  "URL": "https://jugit.fz-juelich.de/mlz/libcerf/",
+  "LICENSE": "custom",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1589876186",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "glibc"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "FILENAME": "mktorrent-1.1-4-x86_64.pkg.tar.zst",
+  "NAME": "mktorrent",
+  "BASE": "mktorrent",
+  "VERSION": "1.1-4",
+  "DESC": "Simple command line utility to create BitTorrent metainfo files",
+  "CSIZE": "10542",
+  "ISIZE": "30904",
+  "MD5SUM": "c62e242551e9a55460b8e92ef340c2c9",
+  "SHA256SUM": "821e83d8e1e1706f3359cd0e2cd511fa6f2da33a8bf3754ce5d0964ab106bbdb",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl8Eq84ACgkQeGxj8zDXy5ILcQ/+Mqn3xVs9wfmtaRURQQASOAvLxE88XUou3KHlUN8C7SRsJn1h/azPKCt5hlpxD/QM2Q6O4urV1+I9QBKErr8TSyPqFuu9U7GPGGaOljuOVlBJ270Df2gYYSOrt5hE2VWAs73/JzRn54dTu+iGByAbIX54w/ml/0j6elrxMSQH1AH/mAhnCgN6fdLH5n+AIOJQg8BYlr2EuE+qv1Ad5EwvdwuOgK+vWAmQ6oLvF49Ia57Z7chsoBQt0frTJJR4lI0lQztGrVFArWeoM3o9GevKptsfXEuiQozJX5QyVgv3b6ONTEIcCbnaqYfvA6UJZsi5zFqiF5nOGopyYLv6jZsZe+vsvkAomVWoyfyoo/JWVpxp66xuUY1LrRIlJ+uMvjZz4rRHG2SPw6vCRY7laySL6kt7FQ+l1ggZ4/TuusPWptJ5WHtHuoJJby/WoIy8XiDjT+/OfhxLO5i0T4NImaY/7hPPr35oBcMasje1HoAksnN7Orri6wrr/b/VqWnN9dHD08JtscpVryMH0kjSokxMugW0oS6CHsCpOxbpyJkWlSPVvd2siE3lO9TiMF+6k9VVW/GbWo9ZdGDvQVJGSe9k6HLkJl4W/BX4/792kkK3k0ERQO+T+vdUzyA8VGJMwbxrpagH20X+EGB8Y1mNKmsJspEEQWOatpTlGK5/BEUhkzw=",
+  "URL": "https://github.com/Rudde/mktorrent",
+  "LICENSE": "GPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1594141594",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "openssl"
+  ]
+}

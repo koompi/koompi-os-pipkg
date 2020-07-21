@@ -1,0 +1,23 @@
+{
+  "FILENAME": "firefox-developer-edition-i18n-ms-79.0b6-1-any.pkg.tar.zst",
+  "NAME": "firefox-developer-edition-i18n-ms",
+  "BASE": "firefox-developer-edition-i18n",
+  "VERSION": "79.0b6-1",
+  "DESC": "Malay language pack for Firefox Developer Edition",
+  "CSIZE": "439545",
+  "ISIZE": "502175",
+  "MD5SUM": "0e3df391b72c7957bb3483ba185435dd",
+  "SHA256SUM": "3bf6f83c6307e170d98b4b206fefefca98497abf819766576d4a058c094631ce",
+  "PGPSIG": "iQEzBAABCAAdFiEEYB8g8dG7v0p4z1tt9rFhCz7NvJ8FAl8IbM8ACgkQ9rFhCz7NvJ9+PwgAuE13J+qztF0erMFYcuFpBehPCjjJUpQkSPqVE4mHzi3c3V/Uq13qrb98EN3WCE7vfs50czXh3j7Nkgh5Lmmaqe1IZ1wUqn4M4lYShjgf+BbBZqaRF2qM4N/LwLIm929nRfBAWtvVTuef3DnZpiA8/M9WQNxchQg/kMBQ8Q07rZTxb/RmKDzrUSK3b8E2eEmRkrHC6x9gPY7aWEMo+pYcuIbGOKDSM6Zllo4BflxQYNjfLYw0v1s9yumabtruuWYTb/k7DvHmRwB0Yg6wBAWrbWvpkq/nL964FjX/68J5DFgdVoZi39SNEWaionTF+rgqr+oszVIr4Lh6Z7RgDkj8Mw==",
+  "URL": "https://www.mozilla.com/",
+  "LICENSE": "MPL",
+  "ARCH": "any",
+  "BUILDDATE": "1594387381",
+  "PACKAGER": "Andrew Crerar <andrew@crerar.io>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "firefox-developer-edition>=79.0b6"
+  ]
+}

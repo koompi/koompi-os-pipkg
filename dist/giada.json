@@ -1,0 +1,34 @@
+{
+  "FILENAME": "giada-0.16.3.1-1-x86_64.pkg.tar.zst",
+  "NAME": "giada",
+  "BASE": "giada",
+  "VERSION": "0.16.3.1-1",
+  "DESC": "A free, minimal, hardcore audio tool for DJs, live performers and electronic musicians",
+  "CSIZE": "328499",
+  "ISIZE": "973697",
+  "MD5SUM": "bedb1b6c5ac67cba73479085d94af0cd",
+  "SHA256SUM": "1b18b202fd7832c9b90046be49ae2de0e141b3ac5ce26a822bfa9ec9dd6d4b09",
+  "PGPSIG": "iHUEABYIAB0WIQTH54SUZv4jWDQ1iDdyWHNLQcMVSQUCXvEb+wAKCRByWHNLQcMVSbgxAQC9970n2Ms7Z7Cdubk+tingiHyxLs/Nr6c4MdalsUpL9gEAyjgs+JHpHf5D7pmswNDBGzz4Bh7oQ18XpSZp0ju2fAA=",
+  "URL": "https://www.giadamusic.com/",
+  "LICENSE": "GPL3",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1592852656",
+  "PACKAGER": "David Runge <dvzrv@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "gcc-libs",
+    "glibc",
+    "libx11",
+    "libxpm",
+    "libasound.so=2-64",
+    "libfltk.so=1.3-64",
+    "libjack.so=0-64",
+    "libpulse.so=0-64",
+    "libpulse-simple.so=0-64",
+    "librtmidi.so=5-64",
+    "libsamplerate.so=0-64",
+    "libsndfile.so=1-64"
+  ]
+}

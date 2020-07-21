@@ -1,0 +1,24 @@
+{
+  "FILENAME": "xcas-1.6.0.7-1-x86_64.pkg.tar.zst",
+  "NAME": "xcas",
+  "BASE": "giac",
+  "VERSION": "1.6.0.7-1",
+  "DESC": "A free computer algebra system",
+  "CSIZE": "38224853",
+  "ISIZE": "115642164",
+  "MD5SUM": "0c61ec2136327d6028c37be6afd4d362",
+  "SHA256SUM": "97bae94b351f9fe2dd590eff7d34543867f0ddf517e76129fa75b02fe7769b82",
+  "PGPSIG": "iQEzBAABCAAdFiEEFRnVq6Zb9vwrc8dWek52CV2KUuQFAl8DHz0ACgkQek52CV2KUuRYzggAl//cO61s2EQSMC4PWlxegCRFpOPxkdN8R7VwGjd5BLawIAB2AqGwCA7G5UZOELU5qEobOumQDWDcGkrShKhO82nol9VkqlYcXHB6BKK7TapOH6jIa9jMHotUNBWJpt7jdwFYc4ha5caxiBGPNyGCa+cb9g5AR3K2NBQQlPagpB/YxF+33KzRoI6ZI1cbAwGBe3gpUkBpEkUjwgD0w+vnBNnkk4qBNCFY5EJeAceTKueGmp/GPlOEWW1Mw+w6QKuR8UhcFTXJuFX2ybeGk6JhaaaiQxziekKfyuey0C0M5X196bCWh2tymFdOMcAB/y6JkZt547Hvc9xAOWLtgkmzJw==",
+  "URL": "http://www-fourier.ujf-grenoble.fr/~parisse/giac.html",
+  "LICENSE": "GPL3",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1594038820",
+  "PACKAGER": "Antonio Rojas <arojas@archlinux.org>",
+  "PROVIDES": [
+    "giac"
+  ],
+  "DEPENDS": [
+    "libgiac",
+    "fltk"
+  ]
+}

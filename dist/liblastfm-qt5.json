@@ -1,0 +1,25 @@
+{
+  "FILENAME": "liblastfm-qt5-1.0.9-5-x86_64.pkg.tar.zst",
+  "NAME": "liblastfm-qt5",
+  "BASE": "liblastfm",
+  "VERSION": "1.0.9-5",
+  "DESC": "A Qt C++ library for the Last.fm webservices",
+  "CSIZE": "210084",
+  "ISIZE": "656003",
+  "MD5SUM": "20f6e3cd82ff275b5c18885eaac1558c",
+  "SHA256SUM": "7eb4bf3bab6d446fbf0800c1ac1377458478e85233641930b25d4322c8dca842",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl7DlIgACgkQeGxj8zDXy5JMPw/+PzRYFZmiUEVKeAYUu4BSQB0tfwg3k1uxhcdTxW8d8KhcR4t6ZmGbcJqLduWy20lD77BzY//SRqtECb/6tvBvCbLJ0lax65YkF7Bnx3wxKqDLpfRmtFSrFIbqzxvaRhMhhPdQrfxs36ouxbc0zeZLxshPZW42By1THnnmIg+xrWQvBCXOzyf0o78nRCf0sQnMc/7BBkm6veqEOZwHhK9Yeht3oXlswDyjW5DQtcUMQLEr8X3cMtOSuFKrrh6BJ9e3PUBLAP7LAZpWyo7X2+l1aqEl0QsKgmRluuWq7dpWeQvkGWeCYOm1dDBQfURHPDy4OPTVlUH166MudrAMTqlN0dUr5YCPaIH1y51J5JalTWvmsVFGAGKDIvUUBJ/R+HzFG0F81za3nZqK/wLNuisWTqlSuJc9F5qYp/LMhLBeM1xG8EOdNWuMClwNOB7FokFyIoqJnXEw4mONxEfJhh8SHcgrDkttWEt83/e+4UvTgx6u84zETDJ017Id5VWlF+r0MaBM4wV+7xoyIrOWaWQ+7FUrjqY4PuhKGjZvNdHnSwo/5aauoqKlm22StT3coTON9DFRtpyfU8lYjA+tA1DTJZrtSumzOMe1q3GjH1jKdmUynKNcRIFOdSdgoU4l+yAJCcGuj0LylpGFJ50BRomyaqgyQxPJloJQoESnubfqLwU=",
+  "URL": "https://github.com/lastfm/liblastfm/",
+  "LICENSE": "GPL3",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1589875804",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "qt5-base",
+    "fftw",
+    "libsamplerate"
+  ]
+}

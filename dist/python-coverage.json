@@ -1,0 +1,23 @@
+{
+  "FILENAME": "python-coverage-5.2-1-x86_64.pkg.tar.zst",
+  "NAME": "python-coverage",
+  "BASE": "python-coverage",
+  "VERSION": "5.2-1",
+  "DESC": "A tool for measuring code coverage of Python programs",
+  "CSIZE": "270932",
+  "ISIZE": "1334835",
+  "MD5SUM": "1c3effc47fd40373a760455ef6e74455",
+  "SHA256SUM": "f010b41a2836f43835e3bf01b6c25acd6503d6be7ac5661e6228288bd628eeb0",
+  "PGPSIG": "iHUEABYIAB0WIQTH54SUZv4jWDQ1iDdyWHNLQcMVSQUCXwg5wgAKCRByWHNLQcMVSWNBAP9QVgGg5G9nxCjB0+J+5D64wHhvbLPLHqcsjb8kKLXz0wD/VGQSHG0aHlnVPuZzz0oMiBqISWy+QQydv0GiR70ttQo=",
+  "URL": "https://nedbatchelder.com/code/coverage/",
+  "LICENSE": "Apache",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1594374193",
+  "PACKAGER": "David Runge <dvzrv@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "python-setuptools"
+  ]
+}

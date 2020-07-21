@@ -1,0 +1,25 @@
+{
+  "FILENAME": "clucene-2.3.3.4-11-x86_64.pkg.tar.zst",
+  "NAME": "clucene",
+  "BASE": "clucene",
+  "VERSION": "2.3.3.4-11",
+  "DESC": "C++ port of the high-performance text search engine Lucene",
+  "CSIZE": "919232",
+  "ISIZE": "3640440",
+  "MD5SUM": "f76d2999f500611410c1dad7259d1ea0",
+  "SHA256SUM": "be842cd5818010c10e8a50188cbb14cd5dfc5d4c9ac24568a1238a5f27b76131",
+  "PGPSIG": "iQEzBAABCAAdFiEEhs/8qRjPOvRxR1iAUeixSKmZnDQFAl6/rOoACgkQUeixSKmZnDSfJAf8CKv8aUNl5LCTlTkx5rjHjGNvVxnQIb20qVqFmh0Zgn50kgiebNV3O5aW59mKj5P3hB+a4A18bU4CVF5LTlohsO4P6w3RV3DJGQOmPICj5fvtOLD85KmYkuB0fU/MfBK1oN5j6KTBBJGy8uFWZecb2bs82fvUNkcj5UXKIU0m0T4y01LoQwN20THd2l68sToDYLotteJCLdqbrsqi5yMf5cGtriHJWSejhajN74yoNL24jevY8wCXaSQNl57i2/SraKfPf4NjwwjiNPpohJTdty7CoTeN5xQSFuaLixvJ5eU0T+LNtga3zFycTVM/vR5du2TqWEjnmLL6FYtGkGrmJg==",
+  "URL": "http://clucene.sourceforge.net/",
+  "LICENSE": "APACHE",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1589619882",
+  "PACKAGER": "Evangelos Foutras <evangelos@foutrelis.com>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "gcc-libs>=4.7.1-5",
+    "zlib",
+    "boost-libs"
+  ]
+}

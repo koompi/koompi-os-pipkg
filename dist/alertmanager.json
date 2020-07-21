@@ -1,0 +1,23 @@
+{
+  "FILENAME": "alertmanager-0.21.0-1-x86_64.pkg.tar.zst",
+  "NAME": "alertmanager",
+  "BASE": "alertmanager",
+  "VERSION": "0.21.0-1",
+  "DESC": "Service which handles alerts sent by client applications such as the Prometheus server",
+  "CSIZE": "10033058",
+  "ISIZE": "48535513",
+  "MD5SUM": "dab1b4efd8a700588709f13328738122",
+  "SHA256SUM": "9cd0b9333a89a40744223f732e6b5e02e75fa9cb1cce74dee9d0da9b4073c6b8",
+  "PGPSIG": "iQEzBAABCAAdFiEE5JnHn1PJalTlcv7hwGCGM3xQdz4FAl7qD48ACgkQwGCGM3xQdz4v5ggAnfv32MVzgFSKBHts4H2p1bSIybXBEyu7tQqAzXbQmxcPQq3031f+z+AiwlNthuQAn5ZbDkIFPv7pjkzBb8LEkP2PbRuUPk2qZ3JgXTeBbKAkreEcRJv/zy2ZsxPM1Mtx73uSqOPpJ4jhvHJwaSTIVa5Ixcx6DoQ+jnnGUgmy968BaULDX/hW6uySqZzij7KrMBkJrnkkUD82ea6W5iZge1N/ThdLHyIS3urpRqbPF64kyVbf/J9dvHetrxvHO+T9I2vh36TeFTBCl3WrFONYprksskp3xSfnhOolo98v9/aHHxDpUeftCpWbS3Wv0CbllZgMnuA8TcfzSn7HaaDipw==",
+  "URL": "https://github.com/prometheus/alertmanager",
+  "LICENSE": "Apache",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1592396514",
+  "PACKAGER": "Jelle van der Waa <jelle@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "glibc"
+  ]
+}

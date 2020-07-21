@@ -1,0 +1,23 @@
+{
+  "FILENAME": "aspell-de-20161207-3-x86_64.pkg.tar.zst",
+  "NAME": "aspell-de",
+  "BASE": "aspell-de",
+  "VERSION": "20161207-3",
+  "DESC": "German dictionary for aspell",
+  "CSIZE": "1381910",
+  "ISIZE": "6048548",
+  "MD5SUM": "41936a61f0751e9daa0583179f5719f4",
+  "SHA256SUM": "d8e224e9e5c40b3c1d06006cf2565fcf616c937e856ca53f0acd5fe5e2c88d0e",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl6/2jAACgkQeGxj8zDXy5JaaxAApYqpcpT31YSNPVc4mYidFEJ5GOnMWbxRuJJobQu50Ux746cfKzT2EPGDT9kn3qky5biTwooTY6uY5SxcwRtgOuMmMnPHcVu0EJBuNNj0TGEaAFvG19ZgS2KixZu0CA0yu+VCOd3+gzuxY2yFtrmjA43wUliFUc+zdkbEa/8WoqnNa/Ke+YXeT4jcbb9NcbC+Sq+JlFzzxE8zkQC6ukk/IzUUFeWQmh8fz+E36d1e0Ud/gxv6kfixJN/y4jroHujOVFh53Nh+xG3kpi8hMS31hPhdSmaWT7wEoixGskX2qFiyjNYRNWSQpXCSrFJLnvfd7LGgm8Jb50LV67Go7rfbxnmhgtWSGtDAnCIvmzvvFBQp+ETBHST85157olRzmzB0DimmGdxbN1fOLyxjuZHHF1G8YHtV6pEC255Zgl9hKJCpeDMrUXPt3ecDDjFw0ksRAUoqvcGlmoxgrDDblI/AhoNU803JgQ4YGH6vf/usquySX/XOhN0nk5zwbk3uWvEfb1TTQvy/A/UKZ+08ZlWkb9yvQUQU2rGT92l0ElKiPefG6VjYYEyQIP8Iy/keSm8pJ+3j6xzwulgykxqCcOVYuef4sJxht49hjcIaocFrKhyCtQOuZRK7GoPKxdteSmwQA3uUR5ca/5RTp40I46VjD3oNI6URi/uHym5A+yFajfI=",
+  "URL": "https://j3e.de/ispell/igerman98/index.html",
+  "LICENSE": "GPL2",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1589631513",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "aspell"
+  ]
+}

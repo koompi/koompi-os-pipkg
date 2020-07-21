@@ -1,0 +1,23 @@
+{
+  "FILENAME": "perl-net-ssleay-1.88-2-x86_64.pkg.tar.zst",
+  "NAME": "perl-net-ssleay",
+  "BASE": "perl-net-ssleay",
+  "VERSION": "1.88-2",
+  "DESC": "Perl extension for using OpenSSL",
+  "CSIZE": "255469",
+  "ISIZE": "896388",
+  "MD5SUM": "e9c3491802d67cba70098a8de57cf5e7",
+  "SHA256SUM": "4fdced48c05c4979d85abcea5122e9ea9a011af3e15ee284b74fff77674b2b8b",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl7vN/QACgkQeGxj8zDXy5LpVA//cvMkyf2PNM4mt+XJrImcUtlIqeV7Z4JN/AQX97HAno4U0M1cSFCK40vEhWa9CIWR3doI88IckBESUf4b6zTEWVFaoCAk10+3P816tDzbuYFQlTIf/L/y+j4M4FmSZG2Pu3o63OvRrAUIiss1TyXdjU00I6MyDOO9Wd5zzzNnUbaJGD4jGAJTn6doeR1QhqjsoB3UM6hinEQ300Y+JE65oa9RBIjfpU3Lc5tJsd1j54yTZBPzqTC//0xTpLcQuDj0gaS6TtWFcdKe3iraWX/HCsHiu226q0ZJ+UYGOK6Z8JL77FbrUSsmnjv8d2gYoyVYyiK/ctjsjl7+7B1cTzWv7KZMOPIcjTbagj779xf7Z1Jhdq3jfvw4/bFJIhha++YPuua58479ltXJPYvHd2471qQF6DJz02TgxJrGuckSDz0+qeIGwMdIGESYWqQc8/qyj8QWW7D68MrnNUPooc4kAE/G5r4Fx6sP/VjiXNGFlKY2Bjw3ZKvXMZ6AuJgAAFAiDxxrzC8QtP4GJTu4hWj2BnKFT8YZtensfBUEbrFjkmwePA9V2yLAlgijUJzW+CvzyIojXS4Iby7KCt98QQDWQXlY1wQdKA9DP+Vf0/3jOfOHgmVAFBujaAvhvekEcDaiONRmD9qe+nxJbCMSfhEYmOGBzvcU1SSnMVn+aVa8roU=",
+  "URL": "https://search.cpan.org/dist/Net-SSLeay/",
+  "LICENSE": "custom:BSD",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1592735690",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    "net-ssleay"
+  ],
+  "DEPENDS": [
+    "openssl"
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "FILENAME": "psi-1.4-5-x86_64.pkg.tar.zst",
+  "NAME": "psi",
+  "BASE": "psi",
+  "VERSION": "1.4-5",
+  "DESC": "Powerful XMPP (Jabber) client (Qt, C++) designed for power users",
+  "CSIZE": "4235744",
+  "ISIZE": "12805026",
+  "MD5SUM": "6c45eee46b9ca4dc062ce7a8ae208a35",
+  "SHA256SUM": "1366ca1d09b832473b672045cd61a235a841e333cda31d475f849dc7aa4858af",
+  "PGPSIG": "iQEzBAABCAAdFiEEzgvecadZqH8j8PfYth284QkBwWMFAl7ZL28ACgkQth284QkBwWOVgwf/c2tTtIZDTT9kVJn+9poOXuWW8kePSBOjv/tJjYMS2vjH69tE5m+jGs9jYyWa2ZBavgriUXzfH4j+THiX+UOKetjDZtpCrUhKKlJgKbO+aNoMuFIWOc1iMq5cru1tNhb+k+ODGIk1p3NY4/Z5B6z+aimuq6QlKqBStUC04rj5xsDlBPC+z8FJs2VeEvRD/8CG5mVZP3zXKz+f2fMYtapMDSI2UHu4cWFf+wAYq0UWB5D4BzJeLroC0ASHoGwaZTi9p0I9+2KRzjTxoYsJKOofGKRUi/ipLJMuAEMvtTrXo00OpC1Tdwwji/a4gqrEHM8kTBTop3aWYbcwPYvyGxDFxQ==",
+  "URL": "https://psi-im.org",
+  "LICENSE": "GPL2",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1591291511",
+  "PACKAGER": "Balló György <ballogyor+arch@gmail.com>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "hunspell",
+    "qca",
+    "qt5-svg",
+    "qt5-webengine",
+    "qt5-x11extras",
+    "libidn"
+  ]
+}

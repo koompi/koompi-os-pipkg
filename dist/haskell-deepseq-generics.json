@@ -1,0 +1,23 @@
+{
+  "FILENAME": "haskell-deepseq-generics-0.2.0.0-16-x86_64.pkg.tar.zst",
+  "NAME": "haskell-deepseq-generics",
+  "BASE": "haskell-deepseq-generics",
+  "VERSION": "0.2.0.0-16",
+  "DESC": "GHC.Generics-based Control.DeepSeq.rnf implementation",
+  "CSIZE": "11346",
+  "ISIZE": "34690",
+  "MD5SUM": "102d11e8ff561e54a4b5c6df619a855a",
+  "SHA256SUM": "486744fae17c5c7e5eed29b4ce269a96b1d78a857cb45f7ca38b30ad3b7005b1",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl6hc1gACgkQeGxj8zDXy5LMcA//SBzRclC6iHrM1X4acqz4qNNkJE7YPXyy+GdlUTS4JifIZkG4qhUzx+cALpd+9GGPgbgmU3rbr+T2OsIdH88HxBbPD1MQRzQcSeUZFl8dzR/b5cY7+51L9AZtI6yKNLR7RA5Rj/O/hS+JumHDMH72z4lktpIfLH+S1EHgpiJa3GiAou9kDycT3Ews5RJfUYp5W+DZ1HhHAt3vuOotc/e5Fgrego4ZTqIkffkc5vLQEUA/ndfyrDlsfKxUzjLnqYuZDGTM+DRgkN0y0RZjeruYF1teg7mRSYRPgrXXZaCfHyUgiGsZ9OeviM+WVjqiZSsocUUd13VLfQEMmhWZPknm+i3y420UQ9TkHExdGpLvdhPWyCDpNdlPf21x+0mLa9UOxUwg4OtVqUyA8uRB0S964NwJ7OLBvT7Lw9nt/xmTDRicU7EOz5Qqhpg/NEK2MtjrzEVlhh8ciyMzoo6ACpTPMCKKYSXS2tvWblaTEZvXGf1kiQx8KSXJwwk1KsE9IhePP+9xfd5EtRFgJAWz1n4+EA93DsgDE0+0HGgmO+7d5Y6CstGthqOAnUDKclbJdWpsjHcGIknrCUwkYZBIbjuI4AWXHRM6hHsFRfkq8T9Fii6XKUIKxPK2cNuoaL+eunTuOJkwf82FZO75NwCi2Y1kp1pdgfkMxFrz0azhBFk6gpk=",
+  "URL": "https://github.com/hvr/deepseq-generics",
+  "LICENSE": "BSD",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1587639046",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "ghc-libs"
+  ]
+}

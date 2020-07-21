@@ -1,0 +1,25 @@
+{
+  "FILENAME": "pantheon-calculator-1.5.5-1-x86_64.pkg.tar.zst",
+  "NAME": "pantheon-calculator",
+  "BASE": "pantheon-calculator",
+  "VERSION": "1.5.5-1",
+  "DESC": "The Pantheon Calculator",
+  "CSIZE": "75427",
+  "ISIZE": "254518",
+  "MD5SUM": "a99971d787f697d9b3d6c6ebb64ddabb",
+  "SHA256SUM": "0bc83287437be55c4fa8c785d49644ff08ee452635dbbfa8dfda50d64ddb0217",
+  "PGPSIG": "iQEzBAABCAAdFiEElDfdOBWnqRaePTlGr/XZUJi8b/UFAl6IK+YACgkQr/XZUJi8b/UR5wf/UDEYatOjAlmjj/hJR/PLjHvxUtyRzVl0zmsvturDtYmZNY8Ye613pdopUZ/UwaWf2f+uh43oCKXJE4GNY1tZ/I+pszRJ3MIAqcxEyd7q6xpArbq4Fh0holLSVMXfTqzfBaTLgS0QtE/hUBOAw7oO7rGzO0cvfoCnZIb2axfCOn9pGl2AxaF0rdlP6llxF+1PfpO90puE82FTtgQZK4afBf9RmuCEotrwqvhPanGy5Igc5ZORUpqL4k4ce1MmR4qT3SSAXY3E9vs0aTI9bC+nQRGDu5LHFspQC/ydzMNHl3k5h30z9LGcniHfdb8UuuX1Ow6bABl0aIQGkIMZghpCEA==",
+  "URL": "https://github.com/elementary/calculator",
+  "LICENSE": "GPL3",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1585982398",
+  "PACKAGER": "Maxime Gauduin <alucryd@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "glib2",
+    "gtk3",
+    "libgranite.so=5-64"
+  ]
+}

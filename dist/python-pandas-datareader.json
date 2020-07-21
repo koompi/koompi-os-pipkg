@@ -1,0 +1,26 @@
+{
+  "FILENAME": "python-pandas-datareader-0.8.1-2-any.pkg.tar.xz",
+  "NAME": "python-pandas-datareader",
+  "BASE": "python-pandas-datareader",
+  "VERSION": "0.8.1-2",
+  "DESC": "Data readers extracted from the pandas codebase",
+  "CSIZE": "151108",
+  "ISIZE": "890414",
+  "MD5SUM": "a6765bb7ce3d2e9c43783b75878d74b8",
+  "SHA256SUM": "57f985a9d06ac1362a9ab8212c3ae552ba736f62c42502458348674cf314da13",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl2/9VQACgkQeGxj8zDXy5IzEw/9ELJJpiGBW0tBs53cAw9k5kb+ywy3CXvW+UCnIKHR3ODeh0OyK0UAy97SDKVUZJd7uFq0W8nXlnBsnbL4RKWyxxOOrs23wdBIxqEm+q40wQ8XV4PV/BqF9cet3w0WdhOg1cIZEwn/RM079NW+079O4mfoGQ53mhIPS6aOCp927rUgK2acxkSnW4GVMd8ycB4B24Z+gKbvSYKZiGw/bnydksCwArFqG0jfm0Ds3qcd/ilK3V3fi8bMR++27gSsq7b5NXT7mcN8/znaiMs00N7EIzY7hC1dsUSBf0z7O9WLkmPjDQX/MT6/PYV2kzMAT59uvimCxSGuZs9/8S6bW9d5rOoSoqMJDQVVdZlD0NyVO/IoakzTkAFSyMCXwpxw3WFWfgcjxfdWHYkrlWXFKVbTA77dZY7dwcTdeew/CY1ycEzVe3djk2tXBdaOXlfVuq276ppYuPvyqH+8REJYfpUXT7ps2JuV8XZ6DlHk5LeGLrmprLpy0WEUH6A8a/qymCvVk9sM3Tn1AqgFcLzsNWnBa1s4FUQJyad0MQDi44vNCKfhdFUXRW8L7aVn7XnOV1431Wv/RFjQne/kDtsXDtrjYnTNIIe2v3bLX8wTZwl+KBDBD7l0dvV4U0A4YW/PA/QguP271X1tfundLI5yf/Ug+HZdzm7ZtoNVHdSiMGqL2kY=",
+  "URL": "https://github.com/pydata/pandas-datareader",
+  "LICENSE": "BSD",
+  "ARCH": "any",
+  "BUILDDATE": "1572861163",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "python-pandas",
+    "python-lxml",
+    "python-requests",
+    "python-wrapt"
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "FILENAME": "haskell-edisoncore-1.3.2.1-47-x86_64.pkg.tar.zst",
+  "NAME": "haskell-edisoncore",
+  "BASE": "haskell-edisoncore",
+  "VERSION": "1.3.2.1-47",
+  "DESC": "A library of efficient, purely-functional data structures (Core Implementations)",
+  "CSIZE": "751091",
+  "ISIZE": "5106065",
+  "MD5SUM": "f5f26ddd16d3c4e11efc61bbfdd89ca1",
+  "SHA256SUM": "f2ea139c7b1d83bb285b5d0e0c0742fae47e4d17be9faffc44065c50c0b38f13",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl75BgIACgkQeGxj8zDXy5J25xAAtBI+WNh1HfXdPPftNqTSXikVicxhe9s67KZSDkQNWTxEpzdvVH63yiyFQwBCRINLm+FIpFtWG1nih3KZVtDB1IojdzWRIjyzgIP57seZ9kgXH++5NMgxXfqK4Y1Egm+/OkHlryy+yxYfvm4h/rTB/Pj3iE5LFJt5ZVsGreeqP1i3/UC3X13wTxK9Q+orYxTo0WHMhthbRhFDybJJm1PWA1XmlcQ7EMMkGQc5sUxF8LBnOaYnxHXteEX3DCI4QnV+K4luY3yhzwtelGLw4pBPAPdX0x4NiXc183TY3oIdJUcXppwBWdRTsv+xaAwijdG9ZDZ9YGoBjqlue54bLVVMVT29Fj1RR8uRCRHiY91G8TOXwcinLdmwZrr2J6FmwKic7kUghFaMmEY+NzZ1CGQnfCf+rRVTyymbsU1z01n6MU+z4L55Xp3Wnse4VCkJ4susKVkRl0d7mcfMSSp3ZHBYinfZ5Nab8plnGPcX2ARbH/jk7+8iDnoN8WnJhz8LcFA4ha0E2PyIVpimnIlkv3GVkFaK+Npd8phks/CPtP3tCLJLMuPLO2bxWuk1kiJ6BX8cnPeBYZWYlcZiDZFQQMVacFpL1TMMVknK4Vvg32NnUUpmOw0D+OqQZqNTkDD3KyKXtIAL7XYnJF7xtu7kpyh716IfbP+d/dNvIdtSWspfS4I=",
+  "URL": "http://rwd.rdockins.name/edison/home/",
+  "LICENSE": "MIT",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1593378272",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "ghc-libs",
+    "haskell-edisonapi",
+    "haskell-quickcheck"
+  ]
+}

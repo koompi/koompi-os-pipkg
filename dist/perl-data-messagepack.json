@@ -1,0 +1,23 @@
+{
+  "FILENAME": "perl-data-messagepack-1.00-5-x86_64.pkg.tar.zst",
+  "NAME": "perl-data-messagepack",
+  "BASE": "perl-data-messagepack",
+  "VERSION": "1.00-5",
+  "DESC": "MessagePack serializing/deserializing",
+  "CSIZE": "30508",
+  "ISIZE": "79563",
+  "MD5SUM": "53f81e2773ec1f3acd098c9b18a66ef5",
+  "SHA256SUM": "2424f7126b11f6a4cd9da98807064d590bc8fb58f4d4f444b51df0a125cbb7e6",
+  "PGPSIG": "iQEzBAABCAAdFiEEhs/8qRjPOvRxR1iAUeixSKmZnDQFAl7viNAACgkQUeixSKmZnDQUEwgArRgBl+4LHVS5y/ITBmnHwkkuFBBuvJn77TRr8Z/iac06FdWf01zzjmWh8wUQ2mDda81sefch0BgCk0fQgCDSe/qImMiQv+aJMHHIeshKdmpTTyul5Az+3HdQrhAlQv0BVTKWMz0X4idkEfSoIZbj2bNAQe0mbk5SNOq+Hvyyy5dUdc/5Gjsgb7nZg7WdgndnTrUNnnhMu4B5A9csNK8wXG7hkK9k5AhmKP10QIVp8t2WRrhoHtaQqZDKJdml93ssXvLCJK/7+hAPyWjWDIPj6aFPCE9wPYipQ0pb3VsO4Bw9D7EilnycfF7g4hXlTieuY6GPhPGKgMFu7Bp+8Y++QA==",
+  "URL": "https://metacpan.org/release/Data-MessagePack",
+  "LICENSE": "PerlArtistic",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1592756409",
+  "PACKAGER": "Evangelos Foutras <foutrelis@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "perl>=5.8.1"
+  ]
+}

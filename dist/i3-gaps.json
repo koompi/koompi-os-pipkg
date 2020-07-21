@@ -1,0 +1,32 @@
+{
+  "FILENAME": "i3-gaps-4.18.1-2-x86_64.pkg.tar.zst",
+  "NAME": "i3-gaps",
+  "BASE": "i3-gaps",
+  "VERSION": "4.18.1-2",
+  "DESC": "A fork of i3wm tiling window manager with more features, including gaps",
+  "CSIZE": "403668",
+  "ISIZE": "1488236",
+  "MD5SUM": "6551529e6500f7859ee8dcde67ebfddb",
+  "SHA256SUM": "38193aac7774b109d8d13ae31c80ad314a5649bb6e98fa472ccd955c961eb4ab",
+  "PGPSIG": "iQIzBAABCgAdFiEEwQA0ZnZjToDJQPuenAL/QZ/svhYFAl7BXacACgkQnAL/QZ/svhZlqhAAjy6Kt79SltIeMsLC8fQJh4F9uKhDLnkIcG4uMVQrqhk5OptywGRtqfLnGoskSUdOGLvYJI+XsN9TEJjsUgQ+wdliqBDQTP+qW+f5k6RhPJzHUWI17G9xjDnCkheQjcZJmZ1fg1iL3tO4ueMJUMzZ/B/k9nhc5J21VejD3o6nohY+jbDFIKOV+xyQp2VO33HWhEDL2dzixoGHxpSiF7NsYMMVB37sHeMWirF8bQbs8biu+Yk0fFbO91WLxQWUv7JZDl/mD91h4ZPdIt+5NQED4FjjCI7YOS4/l4MKh85uTjz5LMBHvo7FXwz673IMOAkbXlVyobHaPMeamLeYqqO3nIxPODguks7jJMzj9Uo8KzqXB6hZcBKvpmFweKmt5qioIJHKloO06ngxFkhpXQ0EnENPk0gANqPFRIPNdPSXKsJt/ozAesbtgOTQXB03WKzmzfe+bg7E6th0NdQwubtvWTRTmXFkq2peVcx+mOb44BrrEzOrTYw0j94/trUM4B//PGBi+/nzcM7gJk2u3Osp1Zp+u3Lhhl8cemL4Ws7J+S4ZSIZGqEHE1tFdaLf5lcyuvvBTulzHSYnGxnpULQQJTMF3s6fEHbd/WLVGeTNnBBIcqtqR3eHi99LmROjaewL1RQ5S+j/1Q+8zw7zJfQAncJpQL2P5XIt1P5vexh1OjiE=",
+  "URL": "https://github.com/Airblader/i3",
+  "LICENSE": "BSD",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1589730675",
+  "PACKAGER": "Morten Linderud <foxboron@archlinux.org>",
+  "PROVIDES": [
+    "i3-wm"
+  ],
+  "DEPENDS": [
+    "xcb-util-keysyms",
+    "xcb-util-wm",
+    "libev",
+    "yajl",
+    "startup-notification",
+    "pango",
+    "perl",
+    "xcb-util-cursor",
+    "xcb-util-xrm",
+    "libxkbcommon-x11"
+  ]
+}

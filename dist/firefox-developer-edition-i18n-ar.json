@@ -1,0 +1,23 @@
+{
+  "FILENAME": "firefox-developer-edition-i18n-ar-79.0b6-1-any.pkg.tar.zst",
+  "NAME": "firefox-developer-edition-i18n-ar",
+  "BASE": "firefox-developer-edition-i18n",
+  "VERSION": "79.0b6-1",
+  "DESC": "Arabic language pack for Firefox Developer Edition",
+  "CSIZE": "527349",
+  "ISIZE": "589692",
+  "MD5SUM": "953bf69f381d74541330e01781021f1e",
+  "SHA256SUM": "ed5b4aa817408da595f00ce2da6f6f6a48efe1be829599e9fd031bd7a3dba52c",
+  "PGPSIG": "iQEzBAABCAAdFiEEYB8g8dG7v0p4z1tt9rFhCz7NvJ8FAl8IbMgACgkQ9rFhCz7NvJ97ewgAvUjq4yCUK7FxZG3Uf8M51cNf0oYmDlL42/+doMlWDCipyIYqw/HM6DKljlzMKvJRImkr6jsesnrpWmRae9Wqf1+NpwuGD2fKIBwxVYQWPeWxDbQKQXjnzP2eiimgaV5uL8tPcLo1fCKXwB/0bFRTqmOfqY61nRicvztwtjHsxY8ArflZ7PNA71LddLO9ELIDJJ4HsLS4UWnaWScEmNZcx7xHJNT3er8zoYHICwU364Xk6dITWcLJEaC4J4IcX2HUpFigldbCaeqjXd/TrNO4mhqzkmAaiEleWoyWG1/9Mn1bG1QsF81E/Hq9N6ky5TzYVazcXroYY4SnoV3onCRH9g==",
+  "URL": "https://www.mozilla.com/",
+  "LICENSE": "MPL",
+  "ARCH": "any",
+  "BUILDDATE": "1594387381",
+  "PACKAGER": "Andrew Crerar <andrew@crerar.io>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "firefox-developer-edition>=79.0b6"
+  ]
+}

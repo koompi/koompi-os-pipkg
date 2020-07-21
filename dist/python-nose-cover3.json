@@ -1,0 +1,24 @@
+{
+  "FILENAME": "python-nose-cover3-0.1.0-5-any.pkg.tar.xz",
+  "NAME": "python-nose-cover3",
+  "BASE": "python-nose-cover3",
+  "VERSION": "0.1.0-5",
+  "DESC": "Coverage 3.x support for Nose",
+  "CSIZE": "9568",
+  "ISIZE": "27608",
+  "MD5SUM": "8f427fc37d469ea5599f27a8ac463bde",
+  "SHA256SUM": "a649222c87bc3504d062d690f641baedf985f1db104259dee2727677e397a8f4",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl2/1/8ACgkQeGxj8zDXy5L/PA//dcakHy73gzZqY75TqT3t13rMAyixyo1eQZ4GbaQHfdDON6c+E44x84v6l6TOTbvkVB6p5jarrQ0xNVYvW/cjmCvKIh5tCiic2IVfEUy135yFev2n2hJQ4nmvo0aM+Q0bkyvtRRS6XSHgW/IwCFaJIYQGAa2OFHLftJNDnwWKIBjguJYD6i9IuKtyyGDEqT/AWLRrAc3VslW5SRrKiz9DMwbTOqAzPgvuAz+8SC9JOe6NuKGJfn4SQLUZ1iV7lVEL7/6Kl8tlaorsI97uODvOuZJpfBYgsmnCYymevyc6BfQ644nHqTZQdgAMCIm/FBwBh/cc7q5koHKvDfzKt98Y/77G+1yarm/gE6SbFnHuVpuSmOJCZCmjrujbN9faNKRoyK3VY1NQnkaArisNNVgnXcoNXSpP8Oe1UV6N+lU61gHPmNjm8u5A6i7ugZdgT2mXcHSxCYRQxOtpCJ7WQbxG5wgNpc+dlzUqwKcnKxqfY6Ws1Af5FtFdXPYGJdCR8n42brJ2+Pl36kbwqqugm3xWhfN3LcKTz0sES35yMmPmSQac1WzPbC4f4CbO6iupMfAgq5NKKQVG1IVwuycqP8fSFzPTW3m+z2gwTfl4Z/f3xEXuz5p36F+agV0gvkhjo2/KGjgmEhN5ovpsIxGqALQzE0Ck4DqYSIkfVnA8QzDXpBs=",
+  "URL": "https://github.com/ask/nosecover3",
+  "LICENSE": "LGPL",
+  "ARCH": "any",
+  "BUILDDATE": "1572853729",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "python-nose",
+    "python-coverage"
+  ]
+}

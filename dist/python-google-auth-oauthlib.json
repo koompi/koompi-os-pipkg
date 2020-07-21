@@ -1,0 +1,25 @@
+{
+  "FILENAME": "python-google-auth-oauthlib-0.4.1-1-any.pkg.tar.xz",
+  "NAME": "python-google-auth-oauthlib",
+  "BASE": "python-google-auth-oauthlib",
+  "VERSION": "0.4.1-1",
+  "DESC": "oauthlib integration for Google auth.",
+  "CSIZE": "22036",
+  "ISIZE": "108906",
+  "MD5SUM": "c3b99f2e7a744c28e4ffed9ba8dedb92",
+  "SHA256SUM": "0404491d1227470ea30c45a73758895b8e622b1f453cd60a588ad82bfd7c136d",
+  "PGPSIG": "iQIzBAABCAAdFiEEj8FaBklQqZ3RvRTdOeS4d+YuuRUFAl4C1OMACgkQOeS4d+YuuRW8AQ//R4+5kAcr2aT+v/r9sw42wnPhGRCJEiO7ncemo9C6aTgfOBmHFFPYmzE3ld62tB2PI8STM4EYUzCadHcXrCgDtm7XC1/yBgA3WWn2DuoPHPePhtqtUTqWRoaT024tpyzG1ijYFsRcyPW3JjECxJ0qLHSQ4gN4XpgbXJAVOXYRTW49ceeS2fbIXpx0h2tbcmwD2ebPOC8KWlRMgQ5auckAldfvENNifDyBzuSCvBhMw5+kqCFbo/Yo1XuLpl7bQ/5okXLEI6qi2E5te8mpzFYsnnu3yIpO8J76hOt44NVkhvLvpR7y37BLoGBi3wTifNFFkrHJtYZJmFMETED4EuYp1AYwro+Pns+U0+oYy2AnC8tJ5YE9dsEuWrwKsIdrdjf9+4S/YsbLplMWp9NUjiRaXxWCsChcty1dVCfwnPUP/CbIlNEEn+x4/aEH67R5bACSo0cEyBl7Jwmggs7awYaRmbhbG3htkF4Q63A0dpujc+28Zm4ctNej7eHXrj7Kxy3x8DRuFaai9YgXqcsYj52YfIK9NC4UvNU+yolArTxdgAxjzabbbumy5xdzgJBM7CirwDbzkB8x0NO/gTWeLezJkJp4LOPCFgdHxRJYLYker17i4kqFeTGFB9W+EtmefH+wDT6UjXAFPLrQYsWnq/sBytkA3elw+B/v9xBhrhwO1HY=",
+  "URL": "http://google-auth-oauthlib.readthedocs.io/en/latest/",
+  "LICENSE": "Apache",
+  "ARCH": "any",
+  "BUILDDATE": "1577243843",
+  "PACKAGER": "Sven-Hendrik Haase <svenstaro@gmail.com>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "python",
+    "python-google-auth",
+    "python-requests-oauthlib"
+  ]
+}

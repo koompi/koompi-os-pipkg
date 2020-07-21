@@ -1,0 +1,27 @@
+{
+  "FILENAME": "gloobus-preview-0.4.5.336-1-x86_64.pkg.tar.zst",
+  "NAME": "gloobus-preview",
+  "BASE": "gloobus-preview",
+  "VERSION": "0.4.5.336-1",
+  "DESC": "GNOME application designed to enable a full screen preview of any kind of file",
+  "CSIZE": "212850",
+  "ISIZE": "811813",
+  "MD5SUM": "5999418de68ee2b814d7f873932e0f38",
+  "SHA256SUM": "6b1f5b8ba2f99bb0295cbca3ab3206e0062c296cd99c01db6cdfe5424af7d63d",
+  "PGPSIG": "iQEzBAABCAAdFiEEzgvecadZqH8j8PfYth284QkBwWMFAl5m1XYACgkQth284QkBwWNWDQf/ce3OBl0QFNFs1lU18cUcAAaao6NQCo/GTmIEXpIcdT23R8+8vJzPEYYmKMiG1HA3pLRixFD3Eosat/deeJgSj6Yzl+tFYXUibMmso4rzRnzIWml6SNniiDW3QrJwPpMxkzF5ReNhiLmrfItqDKZTfPAj4f9u1D/XUdVaOZsyCLPXPrbX+u0xdcRSCTaCVLOEGgmcnl1C46OTGoQjDMLPXTE5uIQOrGnuCmfplnVybyOgnByFz2WB5yj0Wq0B2tknDrFrhiPCeUMixdpWChOucKetfF/xsQmIYcG/VykiwcR2CKw/C1m0Mlq6NjqYgkYfSVx+iQRpZrylQJQErrgijA==",
+  "URL": "https://launchpad.net/gloobus-preview",
+  "LICENSE": "GPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1583797392",
+  "PACKAGER": "Balló György <ballogyor+arch@gmail.com>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "gst-plugins-base",
+    "gtksourceview3",
+    "poppler-glib",
+    "python-dbus",
+    "python-gobject"
+  ]
+}

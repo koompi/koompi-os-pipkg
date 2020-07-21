@@ -1,0 +1,23 @@
+{
+  "FILENAME": "libreoffice-fresh-zh-cn-6.4.5-1-any.pkg.tar.zst",
+  "NAME": "libreoffice-fresh-zh-cn",
+  "BASE": "libreoffice-fresh-i18n",
+  "VERSION": "6.4.5-1",
+  "DESC": "Chinese (simplified) language pack for LibreOffice Fresh",
+  "CSIZE": "3320151",
+  "ISIZE": "22350892",
+  "MD5SUM": "956ee2fda383e468bfa3c23c81211513",
+  "SHA256SUM": "5707943397634094a1d88fe567b835dce5bc7430d18ccaa11b9522ea3265a49a",
+  "PGPSIG": "iQEzBAABCAAdFiEErcih/MFeAdRTEEGelGV6sg8qCSsFAl7+F0wACgkQlGV6sg8qCStwYQf7BMHr/z5k15xuCBwG3TriZTBr2reGegF2kB6L+tYzLzNRo0+9t4tLsZdrLUmmyrDuojxEGENzGF1q2J/lC8Dw6zU1rkHt4t5FhAUzKY4ZNyy5B2LLY+VV2Gv4cDktgrApoO0XD/Gy+pdLoE3mv4qZhS82t7hRE9pbFbK5xnPtdCssWAG9KJKDleZFvqawu60AoUQR2KsuU4TssVoOLXwpL6qdA42Atqrl6SJp/sDErdV6ROmZaM+6DJWbvFzRSOt8BYWKiJ5bdvYgcjgSksQfU63ojeMT350TCwM1BuC6XimcKRliLnYtkP4npHyhk8SyPPRKzGjSa+tvOmxpPBM6GA==",
+  "URL": "https://www.documentfoundation.org",
+  "LICENSE": "LGPL",
+  "ARCH": "any",
+  "BUILDDATE": "1593700315",
+  "PACKAGER": "Andreas Radke <andyrtr@archlinux.org>",
+  "PROVIDES": [
+    "libreoffice-zh-CN"
+  ],
+  "DEPENDS": [
+    "libreoffice-fresh"
+  ]
+}

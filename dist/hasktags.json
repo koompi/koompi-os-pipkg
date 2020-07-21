@@ -1,0 +1,27 @@
+{
+  "FILENAME": "hasktags-0.71.2-76-x86_64.pkg.tar.zst",
+  "NAME": "hasktags",
+  "BASE": "hasktags",
+  "VERSION": "0.71.2-76",
+  "DESC": "Produces ctags \"tags\" and etags \"TAGS\" files for Haskell programs",
+  "CSIZE": "110734",
+  "ISIZE": "539878",
+  "MD5SUM": "82d0cc755cc361732de9469ad37efaaa",
+  "SHA256SUM": "367130921bd82f34e24fc8569b7f970766525bcfc4d7a59e890ba8877492ea0d",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl75/OUACgkQeGxj8zDXy5IXiQ//UIB3nw2F3jbsVn5yYiiy9q12U6wnEmcS7uf8eFAONPrSfqGOvlxIcn/Qtkc80StlD9G3YpoEvnlt8278aSBz+O1IlcLNfPrXNGea1c+nQmUUIi1V17qGX3pUprEErmzvuPMIlRh4IA2vCqS/qGmu/Mhfk1vzZLOWUPbrS1lMoD2sveu15qUII7KfTj95346a8tBZNIV4SLEoymSw3llE+UAt8m+YuFHlzA9QzPzxFtZqk8v+MA+1Oy8Mf26mewFDx2h4Hn4TechSlejMJt5tbSXD/MJTQ8WyGN04V3gwk7I2O11gOXYirLQJnCdHGVQTMOc54+rF7HlSp3op44b9TnXcwZP4jRAcxGRYqXAMomVZ4QD/KC8z62V0c7FyntWGcSaOCMUkrJojIsNQDpvZRE5K++fuCao0KKuC6U3X7YtWhIN2e0YdEF6e9iC3vUERsURP5ELGLyumgu7tV4idGfKlygTP0FCJb8wMT+DtpLd9Y/9sQYS+AniI28O3nRMiqomk1uqYVIic087ef3F+/iQSSwfPETfKPNGN2Q/0mBmhbZ5FfpevBxrbhhiPO2FccHVX7uDp7QucOISOKBSHZX8Fav82e57C06mBRkFNWpBVEmq6/oMbSuSpJX2wIYRlp05GFik9DAL/8S1UNhvBiC4Yx1x6PHZCPHV8HwzNQjI=",
+  "URL": "https://github.com/MarcWeber/hasktags",
+  "LICENSE": "BSD",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1593441471",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "ghc-libs",
+    "haskell-json",
+    "haskell-microlens-platform",
+    "haskell-optparse-applicative",
+    "haskell-utf8-string"
+  ]
+}

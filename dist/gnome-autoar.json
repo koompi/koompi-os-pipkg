@@ -1,0 +1,25 @@
+{
+  "FILENAME": "gnome-autoar-0.2.4-2-x86_64.pkg.tar.zst",
+  "NAME": "gnome-autoar",
+  "BASE": "gnome-autoar",
+  "VERSION": "0.2.4-2",
+  "DESC": "Automatic archives creating and extracting library",
+  "CSIZE": "68594",
+  "ISIZE": "542776",
+  "MD5SUM": "e6757808792bc0fc706b62a8c05490ec",
+  "SHA256SUM": "8118215cf4d55789308abd2dc65c915e0800485963643ffb9b1fbafd142253fe",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl7DpAcACgkQeGxj8zDXy5JN9BAAleOWphuZ3LiHln9dQXW2XmM6IAUpl5WShJUyAY9dT1s6FXqW41YOoVlGWGFCaKKFDr9+jWCOMwcJsWMy/Zs5te4MhEfXY6NtibGjzyfkJFf9yR7bvYUXc65KRMR4iAiog/B5p+wTp7KnYVuqVr9Mw3XyKoelUEZsPzIifY8nLK7Zx4U0payx2bzbcLkgiZdjoz2ypsQKmixlGPVx+obkky2pm/7bwS+HEAVTf5NlV94YrOdfYCYFLK05lNs/xyugEIzkqDj4Ykhk7d0YcX65KMCePZQF86520mNN91WEUmY9wusb30rhv/UWJRoj8qj6Oxs8t94U+JztE72CtnNIVnt8qY5f/ZGjhDWJmqUJfV0R/Fn0/sMWThNKQXGZ9WB9eVbuS39Sq07n3evL+BrqK8FBp30S+yAaF+F6v8TaZWbUlby5+D22yPs16G8DOfxqjW2awPq/yIpYUwxMvkR/Fq+/iEgVex2xD41h0nDSKNalq3G0XsWvbnW5a4IfpFxbsMW1P00nXvR7KOP73tdrYXFVyu7AfgxpUAK+ZBPRcSj1U3sUETYQWighERYxxhryGhTL5ODhIdlZ5CFaxW1O8l+bcora4mhgu8/AdmGcOxORPNnszhb1xWC8pidz3YxTj6aFCTKGElyxLNmD4IGsFSpWNa3leYpWY3+k9qjlmJw=",
+  "URL": "https://wiki.gnome.org/TingweiLan/GSoC2013Final",
+  "LICENSE": "LGPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1589879749",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "glib2",
+    "libarchive",
+    "gtk3"
+  ]
+}

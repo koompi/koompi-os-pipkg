@@ -1,0 +1,25 @@
+{
+  "FILENAME": "stunnel-5.56-2-x86_64.pkg.tar.zst",
+  "NAME": "stunnel",
+  "BASE": "stunnel",
+  "VERSION": "5.56-2",
+  "DESC": "A program that allows you to encrypt arbitrary TCP connections inside SSL",
+  "CSIZE": "186015",
+  "ISIZE": "509887",
+  "MD5SUM": "31a8460cd24daa4ba66fc53ce2c84945",
+  "SHA256SUM": "635a8a5508e23651b69a32b1c76c9c37fc30975b4a92951773b7afefa42f2db3",
+  "PGPSIG": "iQIzBAABCAAdFiEELjbYYgIhSC/EXLfyqRdkdZMmtEAFAl4/pCUACgkQqRdkdZMmtEDmOQ//XndktBgNBUoA/QfH29rb57kcd103W5MjRs06sKAvEziVWqCn7dh/pr2mLWiZxHgQtq8EBqmGeK5BDC8JOk7576z1m9z5dHqnrSVU5hX5HROk6sOccrQ/VVXxh6j5h1NElwCYLavdXJrNoESSYq28Gbj08r63Y4fRIVnGn1OEREnl3M36PzRNt7VFnDx0UpPEz1k5u0PGGunOP1/jLuJkdV8XjOfuvnHbXu1rAw4crFYAotusO4gSATBshZHdUuC4OubU50zqp763PTgQ0DPWB7EUDKiVCe1TASptpVqWkdlUWTO1VIOkxMRtu5v5LQeTNCeO8TcINRbfqc1+rm/rxKOm0SlNKPmVJnqlwIMVF/4i/tSJ2Zjl/5L6aCjFKrg4yrnLCY2ld0wdqCIDpztGU4UulQMEfqw9kA42oBeJ6l4jT6zqQ/RqFyxlHSAwcepj8urAmf2Ghn3wZFlS9GN5wM4B66QKT/pVnx6+kIJsK/aX4gMJUKTW1wx8Hd2N1E8akiEBCyjPCAvsdqEprEsD1cZWLDJH+iRNPLUrQfHpXUkm5uX4tCRtUcXHcgPZINJFzTzA3PDKDjHenWnzN1jgk47yyLPGKF2THjYFZ2cujR0iSPq9l4xDv3GFhYJpViheLkr5G47IDv38if5E8vq+OSv88447wFEc+q74rX06Y1M=",
+  "URL": "https://www.stunnel.org/",
+  "LICENSE": "GPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1581229005",
+  "PACKAGER": "Lukas Fleischer <lfleischer@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "openssl",
+    "perl",
+    "libnsl"
+  ]
+}

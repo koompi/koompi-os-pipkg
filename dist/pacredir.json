@@ -1,0 +1,28 @@
+{
+  "FILENAME": "pacredir-0.4.2-2-x86_64.pkg.tar.zst",
+  "NAME": "pacredir",
+  "BASE": "pacredir",
+  "VERSION": "0.4.2-2",
+  "DESC": "redirect pacman requests, assisted by avahi service discovery",
+  "CSIZE": "16581",
+  "ISIZE": "36414",
+  "MD5SUM": "73d4e2eb9cdc00ba45f40a97f6ca7426",
+  "SHA256SUM": "195b464e9edd9f297470f286d35cad0146a7ae461799a897e20a0bc0debb9fc5",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl8Et10ACgkQeGxj8zDXy5JiHw//eqahs1IfbJiduiTd9wCABVDWf8/OdH9HJZcwMbFz2db4335kWgO5Jof1/Nyvo3UveXFL/QdBfzCrovTSPV2ulKlixUVyrVgtQLms/H9q90eV9CWX8U/QBAdatigjgO1mUStIKOVjFN7LkOXRwPw3G6n1zTz7PCRkegbDwNMLLNuyORhbqG6TNsHdzCApPvXrB8bWwp1nH3Swl1HBF3BUV+oc1rio+tKUl51OrH0tCfmLR8bEhXBQYu2tshbsR0wMm+LpVngtfcpcGsAaZS+4WvmwOUNWjHb4QwPxSFDiS9xZ3MR5DSxK1s3zTyFgA4H4B7rM3OJ9rNrYmSInD/1nSYd0HnugOl7ro0qYBG4KvIatL8FhUwJDMVLDXFOTPJamWPCHL3Ped0xfuZcTQeuoLmqGbx/+JaPr1+v8XQ+kji5P8EK0w1ud0LnXawFqRUhGb/PYTVAyDnb7H8qaOc+Tic7+1tJhoBAgv6gHr5CBOAwCbcX5RkGpkO64gontAxqlvdRLaqRzvThab/4YYxE/pj1BO640L0/W49XsxZR3ssSZqz8UqWPiATAJmLUBBGJBXBtS1/QsBjRGtTbh5NRYS5Vu5tnNxPgMMP233m6c1Xi7CLGJpodMXezp/PbuhOrRSDYDsPLiqE7tcI6KbRzccHRRNUeV2I5uteyx5ZZdmTc=",
+  "URL": "https://github.com/eworm-de/pacredir",
+  "LICENSE": "GPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1594144548",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "systemd-libs",
+    "avahi",
+    "curl",
+    "iniparser",
+    "darkhttpd",
+    "libmicrohttpd"
+  ]
+}

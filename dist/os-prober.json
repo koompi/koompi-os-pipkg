@@ -1,0 +1,23 @@
+{
+  "FILENAME": "os-prober-1.77-2-x86_64.pkg.tar.zst",
+  "NAME": "os-prober",
+  "BASE": "os-prober",
+  "VERSION": "1.77-2",
+  "DESC": "Utility to detect other OSes on a set of drives",
+  "CSIZE": "17867",
+  "ISIZE": "58339",
+  "MD5SUM": "e388197f6d3f4bd1217b08ed26376dc1",
+  "SHA256SUM": "d96a9057dce2726661a59d1e2f7260adc3b8460f5cf6334679ecccd1c605d223",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl8EthEACgkQeGxj8zDXy5Jl2Q//RjVoTBptRM1FV+sSL5H/v0GyKjIfih05F3x70tTeVS2PdNneAC2xNVHppcd3g0N+sNnDzzqREh4IolXKClehfNLrLi13toBX62H3eFNRZsxa4RvNAWnKCWlfyFdgkvDMI3oyHs+L+c+WRyBx1pHPWlAqqtW6bTrzYKtwSondMRutXXAfhwwCdkC0v4elnszeQqsReKVJR5vgtwuk25Y/IRbRsGy8cGZof2yBhF/46e8vBpobpDu2FUZLh8t34+6efsdFKJOEEVcwuDS/H7hFyEmm0iUK7vrlxtXMLDy5qrsYncDhLgDG/KRmoj/Xsq1c7Xh+3OSPsngq4exQTy0pf0YiMOLv/ktlJfF4GHwcLzKrVy5gtyZSnZhg/VYM7xBXyXV4GDdAapb7U7ju04JtYbGhq70FXLoi1eFvbR+Zwu391F0oDd7BB74SyDzro05jxMYWBR3Yo2Mf6pKN9UhTDaJapAPEPRDPrc77ICt/ZqE9wY/TrJFUEHa9CsQs6IS4wrhk/cat3dE9Qu5uh93R79/B6TQvGfP8ZxeiOfrMOIq4pOGDv3vSZmpwP3npBmBybOiFSdwY8tqREV2sNnzg3oE+uubug1mxvsFdWmEFSDJONexh1P9MrujWdjWmaJEUcvyotuUjTQFUYkGgvoHfdL8W6tMlZ5kP38UwIHxdK5s=",
+  "URL": "https://joeyh.name/code/os-prober/",
+  "LICENSE": "GPL3",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1594144222",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "sh"
+  ]
+}

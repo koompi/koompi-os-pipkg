@@ -1,0 +1,23 @@
+{
+  "FILENAME": "libebur128-1.2.4-3-x86_64.pkg.tar.zst",
+  "NAME": "libebur128",
+  "BASE": "libebur128",
+  "VERSION": "1.2.4-3",
+  "DESC": "A library that implements the EBU R 128 standard for loudness normalisation.",
+  "CSIZE": "17276",
+  "ISIZE": "47163",
+  "MD5SUM": "23142a230fc70519d78afc982412c33b",
+  "SHA256SUM": "b44361af7e2d4aa12eaac546856e3d5fd4594029974cb0ac5bac2a49d9bd3c0d",
+  "PGPSIG": "iQEzBAABCAAdFiEEFRnVq6Zb9vwrc8dWek52CV2KUuQFAl61Jy4ACgkQek52CV2KUuT1yAf+M1gkvO/81l23q5U9AUCmI2LpO+dg5OzENHzMvg+cZJfjpmT+yTcC7TVSHniweysuhjO46D9akVTizBz6uaAOGa6ml9IyAaylC2RQVWF8j8JPTH4hTgu4wGWQG4lnHoNEaO/n9bdj1xGUSln1qTqk0goWRJYC1QvLxUa8WRXpryAzbTJbj2IDyGNC54rULLTd5OnQzJqaMe/XZTPk7oovn3kkeBufNosDTp2z/LVcUO4st6/FX9/jiGjZgSP5WZw0hJ5cKhU1XTVhMlcVslYJl33LfQf7V0u2+kcHQ1BiCt3ijmXwDBV5/Le56yxq7YqnP9bLRivk52ZVQf95pVuPiQ==",
+  "URL": "https://github.com/jiixyj/libebur128",
+  "LICENSE": "MIT",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1588930265",
+  "PACKAGER": "Antonio Rojas <arojas@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "glibc"
+  ]
+}

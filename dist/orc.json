@@ -1,0 +1,23 @@
+{
+  "FILENAME": "orc-0.4.31-2-x86_64.pkg.tar.zst",
+  "NAME": "orc",
+  "BASE": "orc",
+  "VERSION": "0.4.31-2",
+  "DESC": "Optimized Inner Loop Runtime Compiler",
+  "CSIZE": "232405",
+  "ISIZE": "1132322",
+  "MD5SUM": "4617cc2ef78b395febf0cc750ca82ba6",
+  "SHA256SUM": "6d1d98831daa3f6eccf019d0b3817f232c4bd80167f3c705fcfd7448757dbd4e",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl6/sgAACgkQeGxj8zDXy5InxQ//SSrvbqbcn9E6XFd75O8Vw+MUNnSn2GTN4ZkEkwjXOH+4SW3vov1DPXS9QQr3GbQep7aD5yJTuzBuiA1EY8d+9/OfFZaUjfzA08pZiT1dMsFEAlmkC6oEEwjDFv41SsiqV2sJ/lXJ0QcoYQNYMCxRium8AJoiutkuVEq9gTnXYUk8c0KSv15KLhr7bhG/t0y5ey1ZsEzEDpYfp687b10nVWNWwrAE7435sDRyB0Jwg2sqLXJ08dPqu8/fiXu11KX2FS3Whz9fwklj9Gsf9CXthTDgcmei7hZpdqCiVIQvyA59K5YINIwS4JoSpzC8WaPMfYtnD5/g8+8JQI8RfHErYihbpeJMA7MsvlUT2UgWqX7j1T5C3IK33Wqys77Yh+aNtUOMLbU2jgJs+rE4KQoJE9VbSGdLi9L7r/JQYMAmK8H66UIljP8Zfk+XgsDeIx9DfGMwf4tlQrEwuoGtFG4IFKoyFzXp1EQ1+ln7SwiF4YPyGFMSBNRxvUyztYQeMcs3kXJhpT7Qhi5xvGxZ225X68JPxDpSKnoLxy0Q7a91jCwsIK9/77XAjvfOIaJrhAdlpOgTuMv5XNh3Nvthn8/+dyIQzL1Nn0pddjg8oDfk11gZquAa/idT+Ci8Cedm/MWLTPwCS32VivR7oupxNYjTKFvqBZMKlRKZ2gHEOVlxa3U=",
+  "URL": "https://gitlab.freedesktop.org/gstreamer/orc",
+  "LICENSE": "custom",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1589621195",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "glibc"
+  ]
+}

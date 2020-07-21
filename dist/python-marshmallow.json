@@ -1,0 +1,23 @@
+{
+  "FILENAME": "python-marshmallow-3.7.0-1-any.pkg.tar.zst",
+  "NAME": "python-marshmallow",
+  "BASE": "python-marshmallow",
+  "VERSION": "3.7.0-1",
+  "DESC": "A lightweight library for converting complex datatypes to and from native Python datatypes.",
+  "CSIZE": "80529",
+  "ISIZE": "462224",
+  "MD5SUM": "0678e4adb87029a75f0a99ab589d25c8",
+  "SHA256SUM": "b2dbd096e8ec5267030a6cdcad610a72557c867474553b0e351f4b0b0b8ae778",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl8HVT0ACgkQeGxj8zDXy5Kp1A/+LwNo8ClvyFWe+eQ9PvSgLlHL3mmLD58jYTGxcY88zFaFn1tk26/DjC2DsaGYFMejnlEk8CyDEgvt25bodalO3x0yVrKewvGaunMRKjuFjzKpnwVFBLkjxwI52gdoNvZ4+D3gslPbSn4Oh5jIJdl1VMR4RBLPiqDA7qdZK3tG39VY+r3ZYE4aQ3RQAoBKB43KF9AASMkVKnDixg5MBOcTpHHqevfFAy9/29QFrcmBaGP/+A6UIAXXtfCrkhgMQ46pKi5MN1TjROWsrw1trn8ZaaF2Ji74dJ8zJ05u1MtP1G36iStQItys126o2PbDCCq+Y74HjNBgobuIOqedN50FVeyJZ63XGDmTgVqXvKeZuPh6E8/o0Kc4MVqxxG2kOvKLDaCdqGCiRn9WSiQaibTRbptHtPXFGR2JQ1CuII+HqVcs/XgvBvPAS0sykAtzIAXUazsfOwr/TWH5J5WvpsDk6oO329o3Vio6Tmm0oZluoSYmZmt3mlmlTEkd/IfBVsdsvO+o52EbdUAz/wGE/h2KQ0NDYu59z3XIDVOVLRiGcxq+cqr9zjzxnYtHDhjGMGkE0usGH+wI/n8d8h4hTLx8qkQmmywt+0T9R0pwS4wYu1GRPpB91nQKbpUnTjMkErKyf4m29S8jF/jJDNMgkFHhRqmjLcL48Klm4MXLjQdayTs=",
+  "URL": "https://github.com/marshmallow-code/marshmallow",
+  "LICENSE": "MIT",
+  "ARCH": "any",
+  "BUILDDATE": "1594316031",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "python"
+  ]
+}

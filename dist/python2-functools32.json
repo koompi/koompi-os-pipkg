@@ -1,0 +1,23 @@
+{
+  "FILENAME": "python2-functools32-3.2.3_2-3-any.pkg.tar.zst",
+  "NAME": "python2-functools32",
+  "BASE": "python2-functools32",
+  "VERSION": "3.2.3_2-3",
+  "DESC": "Backport of the functools module from Python 3.2.3 for use on 2.7 and PyPy",
+  "CSIZE": "22462",
+  "ISIZE": "102533",
+  "MD5SUM": "01210c9293b66d386462394b5703b3b9",
+  "SHA256SUM": "81f9fd4341010c89912b4f1f3628da2a9cb08ed5fb4b7e6b93eda4b35a6b40b7",
+  "PGPSIG": "iQIzBAABCgAdFiEEwQA0ZnZjToDJQPuenAL/QZ/svhYFAl8CWaAACgkQnAL/QZ/svhZCjw/8DmP7mWAATTymtEIzesCavq4S5IWC8i5GS+xgan/9egaWyw3FsX6vd+KXTkUz0MZq1a2S6Wx2rdBbZ7VD3M5EfNNcWpZKovgKkSg62Bf+5IG5VUJeEcKbO0xYsTvTTx2SDPbMdFT2OaEEfYi3+82+tWmDdIc8NJVpkHMmXW3fEUDpIlrE4b9b0Aw6najq8k+COjIUKBhBx4Wnd72+9iL3C5yc5w1GM1EY2VCHTfFU5Blj/NCw5AW3ROZc6N+dJthFyd1YcBFF8gBtAPEfbkBrpq3gnW32LCRmz0t+VVJa0BObnCwfDJulVhnBIZh08aVcz5V5evdT4dcHBpRRihJmC3orm1c/SdSoEluIQPcR1QMcCyl88kP+rbXK2iJzBoA9MusRCfbyd+lT6kdrzekQ0qAP0m+S8pktfIoI8zLZrwlEw8XmPmcnj2vZoL8qHyK906iCAPRgqjTTGcJMd2YmOI9mLTGxrEyHphXmvAhzTCjRyMgy5hVRO7P7N0uMoO8FC8S+l8yy7Bjin6l7VQ8lHiEDWS4G362Tw0u28oVvZcU6OHxkHL+uxSabV4ftiImqTs2XjfyKZcsdsfcvkUa082OZN4xPDYFHicfkXJvvmsqXG5JLTdJ2fSOldgoZ+sM2Ibxg0X1OHGWgeNzZxPO9VIBdjaYLLgLtSVVYzdwKjFE=",
+  "URL": "https://github.com/MiCHiLU/python-functools32",
+  "LICENSE": "CUSTOM",
+  "ARCH": "any",
+  "BUILDDATE": "1593989517",
+  "PACKAGER": "Morten Linderud <foxboron@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "python2"
+  ]
+}

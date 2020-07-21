@@ -1,0 +1,24 @@
+{
+  "FILENAME": "libx11-1.6.9-7-x86_64.pkg.tar.zst",
+  "NAME": "libx11",
+  "BASE": "libx11",
+  "VERSION": "1.6.9-7",
+  "DESC": "X11 client-side library",
+  "CSIZE": "2169652",
+  "ISIZE": "10643683",
+  "MD5SUM": "8cd4aead9229a4dc5247c894c5f6e661",
+  "SHA256SUM": "197aea0e113b0a779f77473eb5865004da39c516d2d3bf57a3a6e78300d3cdaf",
+  "PGPSIG": "iQEzBAABCAAdFiEEhs/8qRjPOvRxR1iAUeixSKmZnDQFAl6/te0ACgkQUeixSKmZnDSMoQgAuLG3RqewNqsHpmvhGAOQt6eYg+Oi5vsVu5Gt9R+/HKAFLsy+LSGp6LRLfjhP7cZr8RBJHhc3jqUcuyRsMX8z/LGpTLj1xzN5yvvw6ekYNiNI8u+LqsLXVVLE0oFm7E1szcBoQQNemCtPbTjAbvIPG5CG52inOLVSEqq6QzPzSCNIbx3C9BVnsgWPswe37KJ7vp9SBvYYTaTN9LJ9ajaFVD4MxlRDQI1Hha0bHO3dpYb3X267ubKRDD+P73ZmvS6X1NjuRX9W9vTd6Ybr5c265qShuBnPX9GWZlo1KUVA3FTZC5zrDJjzcY/tsK5eou0LbdnUqkUQSaJo58OkS77KLw==",
+  "URL": "https://xorg.freedesktop.org/",
+  "LICENSE": "custom",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1589622173",
+  "PACKAGER": "Evangelos Foutras <evangelos@foutrelis.com>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "libxcb",
+    "xorgproto"
+  ]
+}

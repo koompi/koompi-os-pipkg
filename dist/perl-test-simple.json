@@ -1,0 +1,23 @@
+{
+  "FILENAME": "perl-test-simple-1.302175-2-any.pkg.tar.zst",
+  "NAME": "perl-test-simple",
+  "BASE": "perl-test-simple",
+  "VERSION": "1.302175-2",
+  "DESC": "Basic utilities for writing tests",
+  "CSIZE": "327898",
+  "ISIZE": "707691",
+  "MD5SUM": "2a118ab09a9e8bfc87717d21eaca86ca",
+  "SHA256SUM": "f43fe8da348e50cbf20c49c2ea218d32133fe574fbff0ee7c64f3bd81d1456af",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl7vNvwACgkQeGxj8zDXy5KOwA//bpezEjkqN8P85+msk3/H1oTYdyMwJrCvsK8A1HzjyfIUznyOsxK0gOGBK16aplVW7BcFzZn9YI2pHEDAbSRiR4HkLAUVh6janZ3mPrgS668rIoTTeEa92JLSIDDqUG/ne0/0sOxfy6CHwVyUcx8Ajx84K5uL0DMkm6vxofmYwgg3Dq5RWXvPxfezCdiq6NR4dwAHMH/HBqV6t2SStXKDL2WYx20W+YfKq9ujhphBRAZ/nkSRRYrRsts2IsPCj73aZwjxX5SmfAzvQfFJI7Ckc1h9FMcKr7EWN+BCMEzVl4/Ll7MTVxz2RWbnjndAYO5t4FKPGwls/96AChdOAE2+fpWrCOGYcWTavyLGoo2eAKJhYl+fe5lLUIGdZO1CjeMOABAt9mLLgcy6tM/rN6vNV8tK1jq3WHJ5dEP3ZNCSfcskoUgBaPtucVImGOFmvZPYof4z5vQOUAKuc+Q9gd3xQny1Gn87NRwsqk2lx3jkId71tyczcS0F/yg54ax+jxMUonwp4wtiLInYCZ4mTYBmhwyS63i8jhh4hCAqRIHpo0v8H6ApvdiNY4krqXniQqSJgeXiyd0i8C1RpFZ3prWzhtx18Ph1R75s71vBNesa7Q5O+J7S43Lpq71vr5X7qTUjSViHNbsLaaTruzJqlVztQ3GVMNMnGCoSP+hrMljDEZU=",
+  "URL": "https://metacpan.org/release/Test-Simple",
+  "LICENSE": "PerlArtistic",
+  "ARCH": "any",
+  "BUILDDATE": "1592735440",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "perl"
+  ]
+}

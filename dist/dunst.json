@@ -1,0 +1,28 @@
+{
+  "FILENAME": "dunst-1.4.1-1-x86_64.pkg.tar.xz",
+  "NAME": "dunst",
+  "BASE": "dunst",
+  "VERSION": "1.4.1-1",
+  "DESC": "Customizable and lightweight notification-daemon",
+  "CSIZE": "62492",
+  "ISIZE": "208896",
+  "MD5SUM": "cba88f706a228cc61c5ff8700a4c4539",
+  "SHA256SUM": "5f1fb6e21e78ed68fef14df839ad3f8658ebe4a423f5a47219aff653fbd59d11",
+  "PGPSIG": "iQTHBAABCgCxFiEE5VD//9SF4mShcX4wkBwcMg6w1F0FAl0g9yxfFIAAAAAALgAoaXNzdWVyLWZwckBub3RhdGlvbnMub3BlbnBncC5maWZ0aGhvcnNlbWFuLm5ldEU1NTBGRkZGRDQ4NUUyNjRBMTcxN0UzMDkwMUMxQzMyMEVCMEQ0NUQzFIAAAAAAFQAVcGthLWFkZHJlc3NAZ251cGcub3Jnam9oYW5uZXNAa3lyaWFzaXMuY29tAAoJEJAcHDIOsNRdTgEf/A/uYCEXVeb3M2oaUEL8UtMI29pNvPli41IqAClTFn/qVMq1Uf4K1h/tFoX2VncM8T/WIK6rEsaiFbnAPgGShP5VFdbHp7FpeTLnmCWa4JnZirfhNnL23ckuMM4ZzPphwuBZfu8H4rL3fITwnymIJC4hwS3NQUyGvjwj5mpyzLtCIZalGZr64zaFL36sCG0bYgPcmoCTu/ac/9Tmt1fm63+nE3wBIlVpADfMi2fotbKdXnN0DdvRW6Q7mUdSTr6xcKfUeFiMog622x+OISAsFbnuN+6yJyJ/KQThEHeTDs8pfuiPjPNnQf1KYyJ9R8iHcj/aCYLu00TgMezKSkaswxjDvsW/Js4OTDOEAxkMFVBo7uQ58AJ+oHlhWAZTWK+1bo6UkNql62KAFqchX+LYYyG4dAM5AM7qMPHTnV56n7I4TGONK9t9BMo5ZmqfDPlviH5RUFqjqbghsdIhh6H7TJkn4S06f5adQN1+3VzlqCs6jrM9QzW2SOr6UEZdNkWKnEgKfuRKDDCzQgDvAq/mViFgdkj8X72HIfJXjLzuKGI+9CmsjXyPbAYmbVcCdc9rSY6QtITlJhqPIiiBUX4i3pLgtbYz28Os3MbkyrJY2pUj0EOaMWi7urO/y9xhDbeyPJ/P5nPp1BryODEh/uWPVeZbmbm2+XyCxG74Qi/ZPKvgsagun4VCQ9ggx9sXHPSJLYXF5SQ/61NGoez8jtb+jgQlp3xgIdbc5G4dhn1myVBk8KohmNVmWCgrfUiIH3gYj+4qdvRieMi0Tgl2j4OdlFRApIeU6iAcDjfdvXAVJB9dL3LAjP/8iSVOA/Y9/+XijW+yXJWiQxgbY1Bb/uXQXnNj2JtqfSqNhFehTpH8fFzziir8gJg6vvofG6UaekqjIgP0F9QNPiYBj4v36bbqpggh2JJe6PkzR1EA3fSS6JZHXmcXI0hsVH13AfeqJcDbY/jEOYzPHEobdY6utXkflDx3K+VLRfZOIjHDTxmEp0Aq7OTZofkYDH2OmeCto7NSV+k5WYk6EeobNLerWYVhGX36aX2LBMuEk8EqP7Nzb0a1YIQGo068sOrU3REeH5oHp95R6QxiT6FqCEL6WqFu4obRajA7aQfdoaTbmcSyq3WSB7wweqowosSNL90EpXBdmXvFpBZvWm5etbAx1XPDnMUQC1TPsuV78dTDXADkUKPPVmS9+cvcpVoE4vzgZqBhD055RO4BMgc7jiFx/pKF9VKzja1C2RdK0VGkYe3M+OWHkxu0m56gdKRxniodaIJ1DH8FaUQzOcX9VLAfFYREeL7Q2lsBC5fI5rgglIvPNof7eGqYKhm6/6Euol3zupQU+0IRelSKk0picd0gRBDw74g=",
+  "URL": "https://dunst-project.org/",
+  "LICENSE": "BSD",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1562441440",
+  "PACKAGER": "Johannes Löthberg <johannes@kyriasis.com>",
+  "PROVIDES": [
+    "notification-daemon"
+  ],
+  "DEPENDS": [
+    "libxinerama",
+    "libxss",
+    "pango",
+    "gdk-pixbuf2",
+    "libxrandr",
+    "glib2"
+  ]
+}

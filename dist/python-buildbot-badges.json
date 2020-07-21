@@ -1,0 +1,27 @@
+{
+  "FILENAME": "python-buildbot-badges-2.8.2-1-any.pkg.tar.zst",
+  "NAME": "python-buildbot-badges",
+  "BASE": "buildbot",
+  "VERSION": "2.8.2-1",
+  "DESC": "Buildbot badges",
+  "CSIZE": "11889",
+  "ISIZE": "18462",
+  "MD5SUM": "aefec60fce0c8a93c3165a56c3a2fb1e",
+  "SHA256SUM": "5bb4f69dbdb9113af8b7c23851b2eb88a8cf3115af633a4f25f2eb2b241a7ad1",
+  "PGPSIG": "iHUEABEIAB0WIQSYX6G7jYlWZgHv/xEEU6bKI8VjFQUCXu2SWwAKCRAEU6bKI8VjFSqtAP9PJvkvkCIbgsYHDPOasbUUdWnJuYeuhxDpqL0Kuv+avwD5AT6jMdfZTp9E/0Z1+Si2zwvMHqwI1icK9wXXEwHcYc8=",
+  "URL": "https://buildbot.net",
+  "LICENSE": "GPL2",
+  "ARCH": "any",
+  "BUILDDATE": "1592627168",
+  "PACKAGER": "Chih-Hsuan Yen <yan12125@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "python-buildbot-www",
+    "python-klein",
+    "python-cairosvg",
+    "python-cairocffi",
+    "python-jinja"
+  ]
+}

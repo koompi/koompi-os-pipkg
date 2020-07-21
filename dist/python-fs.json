@@ -1,0 +1,26 @@
+{
+  "FILENAME": "python-fs-2.4.11-2-any.pkg.tar.xz",
+  "NAME": "python-fs",
+  "BASE": "python-fs",
+  "VERSION": "2.4.11-2",
+  "DESC": "Filesystem abstraction layer",
+  "CSIZE": "187512",
+  "ISIZE": "1311108",
+  "MD5SUM": "d9e9062c3868581edaf0826b642a160a",
+  "SHA256SUM": "25b8daecd5f6b6f98ffa1caa151ec9d277b15f287e0858c5b6ca0d36f09beaa5",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl3DWMYACgkQeGxj8zDXy5K+Vw//UKn9/MoLnHllKvFnSpzRwmyELpos5D4uXYX8uaY1QMtjlgWfGMoxs3CKH2t+N6RxyRhxCtaPmH/TPwYKHlgptKco5Kdn+Ql1iH/BySeAUHVRmeAS3EHUgrAacliUp4X3LtxVm9/jLmVGz+KophJFgXgYulU+l1EyMheh7ft8qcm6gToUg020nTQv8jgO3py7FKDsEWbupNZM5oB+xS+TE6GSdc0NtbNxLq5OXsgus0AhNnuMW3Nfv8Z6dR24VORhXumMrxXAYtE1WPJRXs/I966K6Ip6EGZn4Y3Ik7XowOzeIe1buwzueB5BhIsZkbkBZU3bzXll5vR1ESmLmMjQYeEFeAtuoQr0Zaz5SD3ZLZhWdaA8i/36Uz79L5mrUOV7wJtPvpEjp/aJzwnpkMgK4MWRuwjeCuQTolWlCMV99i2h/xaNLNNcDsQQfTotfgCWZicw5h8X3+vYuJAngH9TAwCO+v9EgVN6vKRkUwqiyRKSVqI88sUq4QFnh8kKwc2e3TlYQSAe7vrO0aBW6gyWCos1L9QYn4wHO6lygd+IEYjetoNdgioGUaHK8FuVifzVXVKS+ejuvXPGpq4orK3FPE87/wlRab1LD/ri+gVpny3ca1L9RTq25Mx7saTShfbZ83cA5cIraxBljWqNvaVXSNZFDwzLkI7jXe9rPi91Xmk=",
+  "URL": "https://pypi.python.org/pypi/fs/",
+  "LICENSE": "BSD",
+  "ARCH": "any",
+  "BUILDDATE": "1573083266",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "python-appdirs",
+    "python-pytz",
+    "python-setuptools",
+    "python-six"
+  ]
+}

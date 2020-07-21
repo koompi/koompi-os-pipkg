@@ -1,0 +1,23 @@
+{
+  "FILENAME": "python2-lockfile-0.12.2-6-any.pkg.tar.xz",
+  "NAME": "python2-lockfile",
+  "BASE": "python-lockfile",
+  "VERSION": "0.12.2-6",
+  "DESC": "Platform-independent file locking module",
+  "CSIZE": "17864",
+  "ISIZE": "95774",
+  "MD5SUM": "9e34e35816afae3ec1bff70b3a385b1c",
+  "SHA256SUM": "2d47a49c7dd0a3561c55055bb6c68f0a73cb94006e1b2782d6af84086d1e8599",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl28NbAACgkQeGxj8zDXy5Imfg//Zacl/gbS+lN21gMU/h8kie+qTJorji7SpEXGHkLWyd4SEhDlaYpxEMwN6cTvBlwNr46iG3jXxjX17kVAfGFfRbw7a1pp+FuEtwqJAb1/M3eUFlJj8kyCGkwro6OYDy9EoaS185I1cjLpWmEkEiPZRcJPvkDzZ4rUoSbOKNPi7Y9RswxAePii3ByuiKlaAqSUraVlsgDXHRuxaUUDlYKrw34UIwNSMn1UOoog5u6y1QPPVGTOdswwqWpR1TqoZh1XRA6JHqq8BSYEdeVnG1mRNW7T/pwzywaUyEERGlJ+yKvOAbp5FYacSzoq/QRo0bQ4ZVto9bdi9Sx6pkSOjPFDX+YzEyn2iP2kshVJAl3StCmxHMJCDtPbjPVYwpO6nNKU1wcNOPsbbCwKr6Gy/Hb2omeaNpgFN1pManUr8UeFzHfkyBFYMQjGWHCpsqL7Udeyk2WRqsRuX8eV7XKfsCzxZt7UzmktO7yoUJVyVqL0/kR0hQGJ7O3rydp1ALG5wF9F/M7viMsC3XUW5RWEBWLLmzyBc9sg7P+zDADcQxT5fe5Y+ciT592XIpKgWljeVtwMs9O+8dJf3Nax/G1RdHJFS1WhLQy0T78FBTAzJU9HAmB76Y4yEDD6x8K3YBTcTAD5p46hbEAt/9ifLk/2kRXOhvp8P4HsadZ8F/jU4iakqDc=",
+  "URL": "https://github.com/openstack/pylockfile",
+  "LICENSE": "MIT",
+  "ARCH": "any",
+  "BUILDDATE": "1572615541",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "python2"
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "FILENAME": "kiconthemes-5.72.0-1-x86_64.pkg.tar.zst",
+  "NAME": "kiconthemes",
+  "BASE": "kiconthemes",
+  "VERSION": "5.72.0-1",
+  "DESC": "Support for icon themes",
+  "CSIZE": "518074",
+  "ISIZE": "1055232",
+  "MD5SUM": "9fecb8baa0c748822fe2c4ca7400ba4e",
+  "SHA256SUM": "5458b447f3bd691856184c14ace72295e16c6b3d938b010762c6e2947b8b486a",
+  "PGPSIG": "iQEzBAABCAAdFiEEFRnVq6Zb9vwrc8dWek52CV2KUuQFAl8JYEwACgkQek52CV2KUuQ4cgf+MDGAfgg/+E0Y6xQaD0qIhYDXCTR0fY4LXRV8Ex4zH6v8MxOdlWPxx4W0GXZKsZ24eTAlSSF0aTWH5txVD3UEcU7mSnz0EbJmz6bl+rAIPW6Ej5zb/XZ1RhlElZpRK9RzZ3czbgVZ37Ci3WI9LpVxwBGnQKvH8wd+4tmee9/QLGp2bWqFPgSoX8TpcvZwJCZYu9PWTwwE3TY0JjkoE9roJoSFQtdurWHPrnMxlTQ/r8OUX1nUstnSXr5RW2+1heg+1bAxAsQ2CDIu2HLaPbnYNYTy233upHzFqLwvOnvTyQlRw3RMjBeWWX4+7ivalGVaAfmxpFmzwf1/umaVZx2s7A==",
+  "URL": "https://community.kde.org/Frameworks",
+  "LICENSE": "LGPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1594201330",
+  "PACKAGER": "Antonio Rojas <arojas@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "qt5-svg",
+    "kconfigwidgets",
+    "kitemviews",
+    "karchive"
+  ]
+}

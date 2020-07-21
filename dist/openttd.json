@@ -1,0 +1,31 @@
+{
+  "FILENAME": "openttd-1.10.2-1-x86_64.pkg.tar.zst",
+  "NAME": "openttd",
+  "BASE": "openttd",
+  "VERSION": "1.10.2-1",
+  "DESC": "An engine for running Transport Tycoon Deluxe.",
+  "CSIZE": "5262268",
+  "ISIZE": "18130246",
+  "MD5SUM": "3da5d1bc60101c0a1084a96b2201b697",
+  "SHA256SUM": "18c61a2771f92ac251cfebc8b8a58dfb5091ff7cc541a6835fb528ff6ff1ea5d",
+  "PGPSIG": "iQEzBAABCAAdFiEEU1+MAzlFDwVKTSgnBglqatHO3awFAl7gzCkACgkQBglqatHO3ax9hwf+P7KQwdmQK+0s0CqOnczGN5/81jlxO4BQ1Yny3mHb1l5YZrilGEHiuQAP8o5yJhE9z6zvgglG1Px6xwAW+x0l+/gDPxMM4Wh+n6sh7eO+DS0u+GeKPuYW3Ca2lHs8nPh9pLKVZgSEsGsMdXMt2j7VjhOJRE4qDxtoc2jD5O9o2IADYoN1z+OyOaHZOGoPaQzb3JsyNGSHsOb0eGx6+31PT4xDeAklANkodjakzQMwwd3EdiVHZDYGRUgLU5oKCnytmQ3KhKzMG6tJzmKRkVGirIGk4MIiE2oFJWLrR7y9FVOR3CVMNsbQsqZx4WDpm3t8O/CF2GM2tkj8CCiPgnCBPQ==",
+  "URL": "https://www.openttd.org",
+  "LICENSE": "GPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1591790525",
+  "PACKAGER": "Laurent Carlier <lordheavym@gmail.com>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "libpng",
+    "sdl2",
+    "icu",
+    "fontconfig",
+    "lzo",
+    "hicolor-icon-theme",
+    "desktop-file-utils",
+    "xz",
+    "fluidsynth"
+  ]
+}

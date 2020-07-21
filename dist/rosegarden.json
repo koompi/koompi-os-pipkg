@@ -1,0 +1,36 @@
+{
+  "FILENAME": "rosegarden-20.06-1-x86_64.pkg.tar.zst",
+  "NAME": "rosegarden",
+  "BASE": "rosegarden",
+  "VERSION": "20.06-1",
+  "DESC": "MIDI/audio sequencer and notation editor",
+  "CSIZE": "8305732",
+  "ISIZE": "15911566",
+  "MD5SUM": "83b6f85f792caf0f9b8de29625b47e33",
+  "SHA256SUM": "94c4d491a6d260d49d0efcd1fbf0e4052922f98569aa8cbb7004bcd49b277fce",
+  "PGPSIG": "iHUEABYIAB0WIQTH54SUZv4jWDQ1iDdyWHNLQcMVSQUCXt6BtQAKCRByWHNLQcMVSVjqAQCx764vG71XVH5zFLLZ1C3Ihd6umX46MCoxhtEnnNUrBgEA6igxBRw5tjs17hMWpEcrNK/cvOpckdDpLyW5lcIH2Qk=",
+  "URL": "https://www.rosegardenmusic.com/",
+  "LICENSE": "GPL2",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1591640207",
+  "PACKAGER": "David Runge <dave@sleepmap.de>",
+  "PROVIDES": [
+    "dssi-host",
+    "ladspa-host"
+  ],
+  "DEPENDS": [
+    "gcc-libs",
+    "glibc",
+    "lirc",
+    "hicolor-icon-theme",
+    "qt5-base",
+    "zlib",
+    "libasound.so=2-64",
+    "libfftw3f.so=3-64",
+    "libjack.so=0-64",
+    "liblrdf.so=2-64",
+    "liblo.so=7-64",
+    "libsamplerate.so=0-64",
+    "libsndfile.so=1-64"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "FILENAME": "sd-0.7.5-1-x86_64.pkg.tar.zst",
+  "NAME": "sd",
+  "BASE": "sd",
+  "VERSION": "0.7.5-1",
+  "DESC": "Intuitive find & replace",
+  "CSIZE": "595385",
+  "ISIZE": "1854752",
+  "MD5SUM": "6dc61fa1b3d360ce7d7fa9278bc8473e",
+  "SHA256SUM": "28bd198af5a680a6b1e9a071c6b6ec3fd4e8f52255e1031834eb6663539f2a4f",
+  "PGPSIG": "iQIzBAABCAAdFiEEj8FaBklQqZ3RvRTdOeS4d+YuuRUFAl62fGEACgkQOeS4d+YuuRV36g/+I+SgL33BDisLZ7DX+3I2ZjrpTOdz4Ig3qylzBnz5QPCDFIaI2QtjzB8Ou6xtvvWQP5lbuRDTl6OcxqRSVIuT1v+7ghisS/16rqKjMJIYKHwAmO7DvXHpjR3gS47Tk90MKthwHhR3lzjfXIQAnOOLGgVyfaEhz1XzfD/o+PLa3CICPmjZZr6WuWxrlpMC4YVEqBgoeyl32419EQRX5IdBfWD1ykBoiXmLNUjDbi7g6suJHI9eZY40+T/6/C4nWP8Hl7Bmm+0CXFccnSLRx7w+4E72pXeZoUk1WC26g7UVXmENBmfD5VSNDd52kIfRrOtY8Tt8Ffup/24eTSi30/7VyFlZZoT57vd//a8YBNfGz68CIcl55IQPHesDWjk/E6efHO78boC4whBB5oefW2x1zGFPFt99AsfFKWJM4a/8Wg/osLc1eD7lQFIqtIcxNRaRJv3d26neW7Zr4huyQgSc8b6AZ+A5AdguGDSeNWKfb+6kPfOrU67aukglew/w6iFg5uCe4uDP7fKm5pvFWKytDuqlRuqSBkPTTClnOSs+czpSaJLWX6pA5fe6Bkf76v7ae8o8HKhxeGkl5aKkImrYc+2UC9ktBkpreZhzDA2g+NH9mQwo3+7tbhKT3s8WxnQvPRX18208bRY5FBv7FsyKISvpmvbGyp+3OsDV5aRoG9U=",
+  "URL": "https://github.com/chmln/sd",
+  "LICENSE": "MIT",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1589017096",
+  "PACKAGER": "Sven-Hendrik Haase <svenstaro@gmail.com>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "gcc-libs"
+  ]
+}

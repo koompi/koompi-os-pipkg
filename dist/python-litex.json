@@ -1,0 +1,26 @@
+{
+  "FILENAME": "python-litex-2020.04-1-any.pkg.tar.zst",
+  "NAME": "python-litex",
+  "BASE": "python-litex",
+  "VERSION": "2020.04-1",
+  "DESC": "Migen/MiSoC based Core/SoC builder that provides the infrastructure to easily create Cores/SoCs",
+  "CSIZE": "455057",
+  "ISIZE": "2585497",
+  "MD5SUM": "6d18e5e5a435f6a51111ed6ec77c6d8f",
+  "SHA256SUM": "91b0222d80e923e5ebc7e380cc020c16450d30aee6b6388caf07a24571c39ca4",
+  "PGPSIG": "iQIzBAABCAAdFiEE0jW0leqs33gyftiw+JPGdIFqqV0FAl6oPwUACgkQ+JPGdIFqqV2xxg//WCCsixF8g/H4Vj9vt92Ms5YGlbkYi/m8e4Wd0qr7EeQQ3hqeHR4s8pY3LQZwHqcMaf6jmXTRabfLT9IGED2N89ritg7mjyh7YTSoKn831uQLSBBzWBMOgq/nLa+oM9C0TDKqPThvUE5AE2++oBu98kZQ66R9j87lUN/yV0rzab1S28jLnKjApuryzc5Fqks0K3FEKAvKnWONYEikzr7AKCsU79fSYdCbOlGF3ihKR8ZfTUEluWhKiiV14xhoUN2N2gBdobFFpZ4aN1u/PPG+Yn7+YLDwP4o5rDOz8qOAUEdxCchhbQQe8q/wau8ZMzs2SCDjtjngI2HhYkfswoX5Lnwu/4gtNvHWkM8YDD53bPPRPLb7haDBtxxctVd/yfDigbKFwhHNF7o6b3UK6aQeXJbpirC8R+vxEVbuxm+PJ6FlU3CM6KRuUAZHqdn5eEjYLE9AT9+UeAwFwBsm0wGm5j2ey/0BXEdDofzWTks75qIGSvr+fbXuDFa4PtYJjhlZP/TAhRap8XDV8B60wXkKWPF5adSM5TmZMmcgNGNXAZnza4slY170K3pr7nVXPhwEhxc5XslTtqnRFcvE5f1ontImvMwP2S2sqlXmGeJqAvwO5KWdRuY2Bk9SkJfxvYdmDuX49lwbemrbOuspKnAxPGcMlPQUtwwo+gyN2/wzZms=",
+  "URL": "https://github.com/enjoy-digital/litex",
+  "LICENSE": "BSD",
+  "ARCH": "any",
+  "BUILDDATE": "1588084394",
+  "PACKAGER": "Filipe Laíns <lains@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "python-migen",
+    "python-pyserial",
+    "python-requests",
+    "python-pythondata-software-compiler_rt"
+  ]
+}

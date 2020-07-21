@@ -1,0 +1,24 @@
+{
+  "FILENAME": "elasticsearch-7.7.0-2-x86_64.pkg.tar.zst",
+  "NAME": "elasticsearch",
+  "BASE": "elasticsearch",
+  "VERSION": "7.7.0-2",
+  "DESC": "Distributed RESTful search engine built on top of Lucene",
+  "CSIZE": "65214235",
+  "ISIZE": "115455145",
+  "MD5SUM": "bfed68419542ab0163d9c16b25bfbf0b",
+  "SHA256SUM": "4e0406f3bbdd4db51cc90168df8bfdbd4f902c11ac94f305c9d8bcea2c8c2252",
+  "PGPSIG": "iF0EABECAB0WIQQsEYxiDwLbmsHQ+fqU3SOT2i7kIwUCXsayZAAKCRCU3SOT2i7kI+pLAKCQpDI7/0Qlz3kIqn9XfuUk2EbZ8wCcCMi6+XfYH/LZVKqEZYijyc1G4Qw=",
+  "URL": "https://www.elastic.co/products/elasticsearch",
+  "LICENSE": "Apache",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1590079924",
+  "PACKAGER": "Massimiliano Torromeo <massimiliano.torromeo@gmail.com>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "java-runtime-headless",
+    "systemd"
+  ]
+}

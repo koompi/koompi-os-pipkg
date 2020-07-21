@@ -1,0 +1,25 @@
+{
+  "FILENAME": "s3fs-fuse-1.86-1-x86_64.pkg.tar.zst",
+  "NAME": "s3fs-fuse",
+  "BASE": "s3fs-fuse",
+  "VERSION": "1.86-1",
+  "DESC": "FUSE-based file system backed by Amazon S3",
+  "CSIZE": "248694",
+  "ISIZE": "652858",
+  "MD5SUM": "915d960b34713498aa9f7078ca2cf870",
+  "SHA256SUM": "58bf5f7e912f1c22b3f68878967d59bee6269da5b8451b7c4363839a97103c68",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl5FhAsACgkQeGxj8zDXy5KZRg//fU4KNCYLseXwfX0bpibd+u6EatsThp4A2RC0JwfviHiD76QDii9jaTznI6t9ijatAV+mIM/zDJuKDK+O0HqQ5xc56PoX37dCy82ojxX9JhPa8f1OnuD75AAlqeLZTv01c7yhxKHP5fBMDbb1Xjyb/UJOc7c7a5+eeOmrvu8R7ZQ5c0oA+3jRB+9BZZoBucmn7JZ8CGJmReN4pG+H8ZQcEFkUMqFlqO9OZpEOXTvoDkkUGRXE/VIdBY9gFKddkGGgzZ/zMKzZPX9lXmiIZhwJKhCA/xCpxe9BQxY/LeSWhDQERNUjGlVNaV1C1eGB4yVIe4fgiEAcHRkly/Z2k/Vq4fyD7j2iManmYdp1s6EOeBtyz7ZJGI5OwKTXH1fbWQv+E6UGXyMGzRIwGWJnXs2XF0L98VQYJcXi46LIJL6BS9V8D7uXVGlXV2Z7Wbab2mdoDObFcC8OvQWELhqM6rR4S2G2HH/M9k6NrmbT+slqRvpgQZv/2hg1YGC8cruFF+4VtwCoZKIZ9fHhvrsRrXTkI+Bxx9mAKhR2Nx4iUdJPVIxAJwK637hFWmPXLZfAxeIMlS4Eue3Ww9ASPRUBEhEeUuQSu46BQE9Dwr8XvN31KSEwgWLHRQQwbuIbUmZ6wosMJjfDmUp4lnnN88lUTRcycftHkFSoBJe3KJm3gjTmI3M=",
+  "URL": "https://github.com/s3fs-fuse/s3fs-fuse/wiki",
+  "LICENSE": "GPL2",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1581614041",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    "s3fs"
+  ],
+  "DEPENDS": [
+    "fuse2",
+    "curl",
+    "libxml2"
+  ]
+}

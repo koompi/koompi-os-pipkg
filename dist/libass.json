@@ -1,0 +1,28 @@
+{
+  "FILENAME": "libass-0.14.0-2-x86_64.pkg.tar.zst",
+  "NAME": "libass",
+  "BASE": "libass",
+  "VERSION": "0.14.0-2",
+  "DESC": "A portable library for SSA/ASS subtitles rendering",
+  "CSIZE": "102745",
+  "ISIZE": "237800",
+  "MD5SUM": "c6e9d7769158bfa043877082d8d9a86f",
+  "SHA256SUM": "f64bae070a630be44e7f79f59048dd149d67effe7b8498c1cf068c0b88790c19",
+  "PGPSIG": "iQFIBAABCAAyFiEEZkWwqMcAXnjbHXhk+Z/+D+rpmb0FAl65Ks0UHGFsbGFuQGFyY2hsaW51eC5vcmcACgkQ+Z/+D+rpmb0J2gf8D2aRjvr8Lt9P+FF69q74XP7tqUSfxz1g/0y7okXTc8SERNxKzHusQ8a0rOfaVzEqefKSRrSopAYqYDNwFyVaIGEDqvoSg+XS+qsUQzLvJ7U31eE3hKps8ekJMQLr8S2hBgOWr8Z/pt92kDyWHdeoSjNu7hkSdyOFlGl1L39pagMs78pNkqNJZ/v0E7R8DgoFzEktRosMoPIr7D3QgRg/8/odl2fmN8bcUmSK8adErVT9eLMP3EasjSnilcymER8II6xqTahLYZfukE7wog+uYgqklN7GNbE1zRoA+cWYaqmA6G8CfYe6Fc8Y/tUEKr2fKl/Jtl2zu9eDs+hDXTWjmg==",
+  "URL": "https://github.com/libass/libass/",
+  "LICENSE": "BSD",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1589193383",
+  "PACKAGER": "Allan McRae <allan@archlinux.org>",
+  "PROVIDES": [
+    "libass.so=9-64"
+  ],
+  "DEPENDS": [
+    "fontconfig",
+    "fribidi",
+    "glib2",
+    "glibc",
+    "harfbuzz",
+    "libfreetype.so=6-64"
+  ]
+}

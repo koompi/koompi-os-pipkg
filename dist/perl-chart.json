@@ -1,0 +1,23 @@
+{
+  "FILENAME": "perl-chart-2.4.10-4-any.pkg.tar.zst",
+  "NAME": "perl-chart",
+  "BASE": "perl-chart",
+  "VERSION": "2.4.10-4",
+  "DESC": "Business chart widget collection",
+  "CSIZE": "63823",
+  "ISIZE": "430006",
+  "MD5SUM": "ec103f2e7cdf032e1d62edcfe5a8cfc5",
+  "SHA256SUM": "52858f2e08d96ef1359ce0fb779c25391497f8fc3f27ed7da0b3d6343037606b",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl8EhIYACgkQeGxj8zDXy5I0ZQ/+KOR9N1qZjcRk8F5ALiYTyQx+aUlpq4N+vor3CIe21InhhRN34W5n5hNMA7/v7AloXIKqOmerhm+B3mqz0JXdzYt0VaEPt+1kmQhAsBhXKoVu49kqOJy2fdD0hMbLL6rUikIGiAW+Ou3zbj4jg8tROO0nq9xLxQvMg7o96rPU9Yd5QmQ8828fYzKRZkykWAdHlskJJrH0t139UGc1wv+ttpKn3Ln+nUIb5JzBifrM/jNoDLaOIl9XByi1YsEHYacZZexwJ8rCR8J3lJf1MQ40C/oHMZ6xXeewr/lPMv7ez8+YF2gnj6NCnaGU3k0+rwWWREcZf2oZW0fNTxuiZVK5iyxtY8bIi0P9HroatTVAnL3ibcBXwfs8BJt7EPMHpx734zSbPoUa6nIjI+skWiY/ebA6rqtIIufN55s0M8ZZV2pbpr09BvErVfibt5hxPLMuwer8LPPYqndLrSmOGbUYdv8gyRfeYlM+RyNiczA1xAOhmTK9+3hvoSVkJ9DIStP+rh1JRAyPCqVp2QmIIDWky+a6Cn3cGna0vamvjwtAXrEFo3vn4CmkuYSPsLDS+sL+XqLjDgtBF22s3s5S1TKStbh6/PHU57mejXFImA5mRC5XpTYS8byxN8w8JOFZuiyw4XKB2KpxWSo/1+Ls8Ly1EtpzvjPSxesmi6CNxePYqqo=",
+  "URL": "https://search.cpan.org/dist/Chart",
+  "LICENSE": "GPL",
+  "ARCH": "any",
+  "BUILDDATE": "1594131501",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "perl-gd>=1.2"
+  ]
+}

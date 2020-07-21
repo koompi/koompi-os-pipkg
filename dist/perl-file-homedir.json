@@ -1,0 +1,23 @@
+{
+  "FILENAME": "perl-file-homedir-1.004-3-any.pkg.tar.zst",
+  "NAME": "perl-file-homedir",
+  "BASE": "perl-file-homedir",
+  "VERSION": "1.004-3",
+  "DESC": "Find your home and other directories on any platform",
+  "CSIZE": "37791",
+  "ISIZE": "76779",
+  "MD5SUM": "8068bd3861dd1f25eeee138994d268fe",
+  "SHA256SUM": "511aa284735dacb5c33a4022c6b75df7b5b89e0af495f073a303d67a6491298f",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl7vOTUACgkQeGxj8zDXy5Iyqg//XgNEGM/rZoyxdJl4TnQn+u8H9JTCFFHuwWxdEdtp0YqK5HP7b75eINsxdzXrmmZVxsE2WCNZ3HxE7/InUc6ALPG6wdQk3hqKDZzDkStcOCo/ty+7wLlY4uj1M3d8OXmCYobGYiEAkltoZ711x9nWdEhtfpCVYuNLj40hgzacAp1eMYn4hfLKATxYhjRyvQ6Jh04/3e+FGkPdXXDmBjdBDaIzmsyArHDfodCY+dg2FVfuD0QpjwjCu5yS4uORXlf/kLlih3UZ3oMJVwesDtyGR/xX/1fzFpclHTJyB2XGGenS/qxfIr5k/NWOtlcFRL/35EJvNHFwGFXYV53leNZlT48vdWHc7ZHfjEGcq5Z2KI1c+iwAF/J6yC78PaERWQgmy0KjIanZUiKEDYS4NeLeNo/xoAVhTjTt/NaNrVemKBvfpIVYIXzsz9X9sCRbhK70LcAJQrWj+a5tPrvlyfAWsQ+HbjGUrI6AeH/pCBXssL4RdxWEp9+/rfdty9HTGZLwXyjj21GdTeJVli+w5ULBc1/GrlJzYxY49Pw/yBK2LoN6KhkcyP/Ds1wMu0V8EsMBGR6ektoAjEXMED2Hz4xmNcUBw2ne/qCQpNdmj9nGYXKFaIYxQKzZkbTKvAi7soc7UVgNOs322LthLeZquQtBF4vJtTw1r6dQyvqpoB6kyso=",
+  "URL": "https://metacpan.org/release/File-HomeDir",
+  "LICENSE": "PerlArtistic",
+  "ARCH": "any",
+  "BUILDDATE": "1592736035",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "perl-file-which"
+  ]
+}

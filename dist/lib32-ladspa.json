@@ -1,0 +1,24 @@
+{
+  "FILENAME": "lib32-ladspa-1.15-1-x86_64.pkg.tar.xz",
+  "NAME": "lib32-ladspa",
+  "BASE": "lib32-ladspa",
+  "VERSION": "1.15-1",
+  "DESC": "Linux Audio Developer's Simple Plugin API",
+  "CSIZE": "9852",
+  "ISIZE": "68608",
+  "MD5SUM": "b2c0bc86a176ce12f04272f64856df55",
+  "SHA256SUM": "b7cb696fc259cdb70ca4a811eb47795599984337e1607bf6ee95e323cce27a33",
+  "PGPSIG": "iQIzBAABCAAdFiEEkb2IFf4AQPp/9daHVMKPT/WhqUkFAlxa9qgACgkQVMKPT/WhqUn8rxAAzEYd4EuLbLpU4yI6PKsM2V2eMOcwk05WUCjRDx42Y/xW2vC01ikB6aanLZ2ZBCBojLoX5p/MZSPc3eB1bbvfwShDTH5VISIVOhEkBSNI3A0O5rVvahbsupvCFhw5VxjRJDOYKbf5AzKFEuq2b+IXryROACrudnjiE+hShEBYweABx0RNudcKjd0j+KmewF4vC98GCC+rb4CROYpOn7k6Y0QBXRZLoPqfNTyV0ZjD1DS2D43KtUeLj7dO5a3fnl5vUS4wL8lry0YV1CfkTtaAcvaTzDMz63YPwUF+uWEgJ9vrvoIRF2HRexZ6M53dYcVZ+AKnsnR5UgR9ZOxK2AQRlf2/wIXx3ir54znedQ8bC/fwsPU0QoIrvR+4vSmgoGXbGD00qVZJLfTaQ6y3jUwftRkCD0ukNk/rg890sCAyIY+ab94YycxHFfsiZvz2qhk8dMxAhPk5jbxuK2xwLzjs6HnwdEu+en5CIr4qFToP79cy47/q63neaV5P8kc52zHz6fUh14/CcOeyMpcTJkbcjaT56P3Id7Gz8ksvPIRSZeS5+ZTodeaPME4nBo9lKm/cXOFQ0MumLnSesIyt3276JNjvV1MOyZ2r0FUVPljNVbbuQmoL/sNcPka+GNhsEkc+eiSYfWFvJWT/m8QotlgtnrpJyoFMzBL7e0Q8I2mYw4s=",
+  "URL": "https://www.ladspa.org/",
+  "LICENSE": "LGPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1549465193",
+  "PACKAGER": "David Runge <dave@sleepmap.de>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "ladspa",
+    "lib32-gcc-libs"
+  ]
+}

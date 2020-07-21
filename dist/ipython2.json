@@ -1,0 +1,31 @@
+{
+  "FILENAME": "ipython2-5.9.0-1-any.pkg.tar.zst",
+  "NAME": "ipython2",
+  "BASE": "ipython2",
+  "VERSION": "5.9.0-1",
+  "DESC": "An enhanced Interactive Python2 shell.",
+  "CSIZE": "983002",
+  "ISIZE": "4485465",
+  "MD5SUM": "1a20af77e2f4019d6f9011ab644ff0ae",
+  "SHA256SUM": "f1fab78727fdc308dcb0eb2711d2aafcb929d8df98012e7a0df124c113098781",
+  "PGPSIG": "iQEzBAABCAAdFiEESMOx8w3dD+Z+UW0WOW4+JbqxQsEFAl43ZT8ACgkQOW4+JbqxQsHUXQgAkS7UDl56E96fC/asglUBsOlDpMyaRJ/efav7Gwe8Vpovtfd3dgJOd8shVM2a7oCRKK8azKUUBuDixiknxmfeRJZT3eQmpF0yH7BdvE9DPIgba9+c/EnBwoou4uwDu+FSjEG0A+khKNeeQMNAsNVoZszugQgAMXnWEqP7QS+FL0lifhglYf072Qizi05YdqF2iODncMkvtcXFS/7GYfAxSbAfF8rhiJryjk14q2IldxVkxKM3d9sjRR+6rTgZCylq1n7wnBIiMA4YazjGZ/ykm5oLd+oATx+Tyh3xOAo1CCGk8ZPZZivECO/Y28ult2LZCjOMstmCQfSxH2MxlL2xsw==",
+  "URL": "https://ipython.org",
+  "LICENSE": "BSD",
+  "ARCH": "any",
+  "BUILDDATE": "1580691439",
+  "PACKAGER": "Kyle Keen <keenerd@gmail.com>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "python2",
+    "python2-traitlets",
+    "python2-pexpect",
+    "sqlite",
+    "python2-setuptools",
+    "python2-pickleshare",
+    "python2-pathlib",
+    "python2-backports.shutil_get_terminal_size",
+    "python2-prompt_toolkit1"
+  ]
+}

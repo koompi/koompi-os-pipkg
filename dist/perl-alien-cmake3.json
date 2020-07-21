@@ -1,0 +1,24 @@
+{
+  "FILENAME": "perl-alien-cmake3-0.05-3-any.pkg.tar.zst",
+  "NAME": "perl-alien-cmake3",
+  "BASE": "perl-alien-cmake3",
+  "VERSION": "0.05-3",
+  "DESC": "Find or download or build cmake 3 or better",
+  "CSIZE": "8715",
+  "ISIZE": "10124",
+  "MD5SUM": "88c3f4e677899cd2ebdafa72eed69042",
+  "SHA256SUM": "4d7b5b895421cb722602b13a92562ee9f5363ae8990b002f409ba825bfc9cc68",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl7veuUACgkQeGxj8zDXy5IIXw/+OZLbjhtr16ndlwU2lJfZAP9LfPjBt56AmMPTSHTZykV81HbknBQ5v+rIse8DuU11ts6AQIN83SeqS89wF7tIIH83AeMm6jBFl5XxnLgN5bUetykWAWD4m3PFd3E2rQeuohidVrLlAgB5J+MNSswD280uhTMA3CIGWKzuzb8pHdSTSWY1zF+xlV7z7d6AhK+9SRR1TFVcbg7f3ObcvqETTmZEoPhahzf/VAUFjyZdB46PfJFU1XwozpteONEkotXbf4KLrjrC7c387bwWulnFw4LJfxsdWZ2pnoMS42zWgfYkgFdkR01uUfMij/V54xRRRtsr6i+zwxleFrAIhRXwuCd04IvSW/OGFSEChS71NWU7YvxHQn/naQugTV81WDbbXa4tq8hQmQeTgEAOQe7cPFLLmqWbhuTen/R+J63qypNSBsmoyiBIjg2UYHwy7ZrCztZghZWZyiWlORaTCwyI6/QIPI0wsAHF42R9wMDi5Xg6IoY8KSoRsCK90rKBq+73hn1yba3cNNIow3K1Ny06oZCc2FFUYtzo1/S1bxVNux8RDuk43YVPtWGeBeeoeBSPTyBes1ze6x+acpfphXdvim1C2ANhRCoJC/uUe2Ma5+WEBtOjMzy4yf9e/0YJcELIJcBcPh+52zxs3M/2crUSHBobSnq0AUNDpzbqqf9fw/o=",
+  "URL": "https://metacpan.org/release/Alien-cmake3",
+  "LICENSE": "PerlArtistic",
+  "ARCH": "any",
+  "BUILDDATE": "1592752608",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "cmake",
+    "perl-alien-build"
+  ]
+}

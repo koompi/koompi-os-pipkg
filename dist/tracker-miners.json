@@ -1,0 +1,43 @@
+{
+  "FILENAME": "tracker-miners-2.3.3-2-x86_64.pkg.tar.zst",
+  "NAME": "tracker-miners",
+  "BASE": "tracker-miners",
+  "VERSION": "2.3.3-2",
+  "DESC": "Collection of data extractors for Tracker/Nepomuk",
+  "CSIZE": "540131",
+  "ISIZE": "2606286",
+  "MD5SUM": "817523395146b71a61687288224ba0de",
+  "SHA256SUM": "fb373796652099a073771bf971066f257e2595c215b0c98d730752f426a8a020",
+  "PGPSIG": "iQEzBAABCAAdFiEEhs/8qRjPOvRxR1iAUeixSKmZnDQFAl6m6swACgkQUeixSKmZnDT0wQf/egOhJYZXK5/HKa0EksGFsaNZ7/0eDygreOcsuSfAbOmWJ2vUBe1fTiuS8OsTrAEL3DPemRrIUPDas0FdcLUFtBnznv1Pzv9WWGalnQe5GkR9Hz8kOnzGM66RMbJDTJla8dt8abb83s03wWrmIZXaN3Do8V/XOGY3cvF5S0v63EOn/I61S1Lt6RAYPwRw73ATTg2bycGEG3dv0fHi9tIBpDUBBp226zcf6Ub+v81Xd7p9IWxonYDaidvXdt+GvX3u2xZuHR2R2vS5N58Vkpij2To2jV/72nQnfcdy8ylE0Gy5UqjRg0C96YVNzRO0Jwkge+51z8ZSYw8ZWf+6BfhS5Q==",
+  "URL": "https://wiki.gnome.org/Projects/Tracker",
+  "LICENSE": "GPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1587997306",
+  "PACKAGER": "Evangelos Foutras <evangelos@foutrelis.com>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "tracker",
+    "gst-plugins-base-libs",
+    "exempi",
+    "flac",
+    "libexif",
+    "libcue",
+    "libgrss",
+    "libgsf",
+    "libgxps",
+    "libiptcdata",
+    "libosinfo",
+    "libvorbis",
+    "poppler-glib",
+    "totem-plparser",
+    "giflib",
+    "libgexiv2",
+    "gupnp-dlna",
+    "upower",
+    "libseccomp",
+    "libtracker-miner-2.0.so=0-64",
+    "libtracker-sparql-2.0.so=0-64"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "FILENAME": "python-setuptools-scm-4.1.2-1-any.pkg.tar.zst",
+  "NAME": "python-setuptools-scm",
+  "BASE": "python-setuptools-scm",
+  "VERSION": "4.1.2-1",
+  "DESC": "Handles managing your python package versions in scm metadata.",
+  "CSIZE": "42097",
+  "ISIZE": "116362",
+  "MD5SUM": "e4a43df838aee368c31e12268f4201df",
+  "SHA256SUM": "8306c5be8d7947a7dccfc7fdf1644289748607cbc0ff5df8fbd1ba7393f8cbe6",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl7UBB8ACgkQeGxj8zDXy5Jyyg//Tn3tEH8C3ce4Kwn9ahXiVjplKQ5hSz79cyW2kl3v6BKONUqY3OkglzKqpytpoTX+AxymcurLIBIazmRfaBVsCp1SnkPpMiRKy40UdDI5Lsgn7OzPvqnm29pNLP5jztpoBP8hwner9VJetU0MRHgSDFaKNIEWeIDgkZtzCVZnGV+E4UZkcCDB7ORtNC3ya9nJ/UlTjQ2PxODm5P8kZvCOuo1ywODmIKmW4a9KrjcjzT4fBeOLqD3sPYyDoH2QvAWlAbvlP6IHrWRI3cPkPhtpUKFDnnoGkjem0VzjAew9ABYP1ZlJVRFox6Qyko3yYbbFPZA7JgXSKa/tY4jl9iOf/onivI6VaDE8Z4uT5kec/sOxCbYRnzeKJVoI5xpQrosf2Tr3fyZv9RT2mTWaB5f9goSyQLTtGLtwV0XiQYCItdAtGsZlAB57ref1TuHhO24JYdu2YDfgrkrnRh2nASvwCr/4ShfII/ZgrYoW5bqG51+VfsrkslCfZ366IZmiOvAn5ztN9YBcAawRdy2APkLpSyfQ4MthWdKhOkoW+UpEYeKq61Jlxn0nXtvnZv++VoqyGUOfnQbBkoF0wBs8gN7CToR7LX4YLY5USsyI9kcQADariuQs5IbJeTOtSFGQKazkuTx+dSJF7UXcn2fVdnkMa8E4fNJDS2+gScJG3e/TueE=",
+  "URL": "https://github.com/pypa/setuptools_scm",
+  "LICENSE": "MIT",
+  "ARCH": "any",
+  "BUILDDATE": "1590952893",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    "python-setuptools_scm"
+  ],
+  "DEPENDS": [
+    "python-setuptools"
+  ]
+}

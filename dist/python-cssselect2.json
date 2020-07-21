@@ -1,0 +1,23 @@
+{
+  "FILENAME": "python-cssselect2-0.3.0-1-any.pkg.tar.zst",
+  "NAME": "python-cssselect2",
+  "BASE": "python-cssselect2",
+  "VERSION": "0.3.0-1",
+  "DESC": "CSS selectors for Python ElementTree",
+  "CSIZE": "46366",
+  "ISIZE": "234109",
+  "MD5SUM": "fd8b800f8097176e8822bed61e973fce",
+  "SHA256SUM": "7d448c78e7ff2ef74bb4379e4940d16c93e72df779bb4988607606fcac3c9c83",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl5yj+MACgkQeGxj8zDXy5KK0RAAsUJhd4l3InNbjzdhhvF2ysIkgOjk2y9Pak0hMoi41C0ue4H/sqgbsSUqIMw7DK6zV6oTzPBlJfEmCpnRjr5J+BH7SUHmaSzvdJQv9KuXrrH8TrCrGGC5PsBsP86wZmdEwbwsDFkg2utUDO6PkXepVUaxHhsySTeTjZhTme9FXCkVn40tENbSdzSXEVEN+3WrWfqEDbLA5oBP7DxccZpNyax4yGq3DAo9UkEB5pNLxMcXi9c6Cx7ycGGnri4DmQuOPcejdDGnhTvEMvktYURGU5m/UM/pqH1d3PgzW5Fv6cdsdms3bTM35IPHvpMTJvPCKSTDt/WhL7zNIqqSwCMZ2Fo0bQPtC361YqsoZrG1dB5Qjz8ws+VzRlI2Wk9u4eMt76/AXqz3JyOoG06nlC7p8q42K3/5uF8DGIigvgZaLfEzYtaSdyC8RiIdo56gZfnF53xmdB4Bl1K4T0z0b/1A3tdCsFb4pTgO44x90OkCRBgmRVWgMo5HHQoU+0QI++c+5ipOwmkYUZJ5N3N5Ex9tQL/rQ+ht0B2QrJvDIh8wK5YtXDj+bZVY0wN3RyB4iiJvTJGMJ5wOjfAD6npwlepeibiJJG4o9vwhnAdpYJoq0Uhbtyl4iPplQEc+bSwh4Kyrhdw2k3zxUSEnI/SVO+it/qDAAxxmlq0iXzoP57bimzw=",
+  "URL": "https://pypi.org/project/cssselect2/",
+  "LICENSE": "BSD",
+  "ARCH": "any",
+  "BUILDDATE": "1584566216",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "python-tinycss2"
+  ]
+}

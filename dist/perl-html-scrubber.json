@@ -1,0 +1,24 @@
+{
+  "FILENAME": "perl-html-scrubber-0.17-3-any.pkg.tar.zst",
+  "NAME": "perl-html-scrubber",
+  "BASE": "perl-html-scrubber",
+  "VERSION": "0.17-3",
+  "DESC": "Perl extension for scrubbing/sanitizing html",
+  "CSIZE": "16965",
+  "ISIZE": "30005",
+  "MD5SUM": "8c13e8bb10eaaf284e97f53f34a290c5",
+  "SHA256SUM": "848a967f9edf7487e081abde0206f55d1c6b707b88e3e0554b285a7bafc20e42",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl7vhm8ACgkQeGxj8zDXy5KAlg//fQguFIxxSYY3xMtwVgrhVFANwFO3FvdLtn+82GXUNcOcRm7DMmudQxflv2R069piwbaSPGUd2XZWLPiqe48SXwgCFfd5OXv1N2+ySUmKYJVPhSHbvNg00MkToRPY3515r0Zhcdsli30YErMKhL90cYBCl2FZZ8+16uMydyTI77QyJ/F4vMBB7Un7cW4bRJLP3Pjx2jbOvHXuFpmSNEtwETRy7bTh3b2WrQY1u1FouFKC5mEt75yT0yI0vZn2lFy/+JoTOKBs+7e6ihJGPkSSlv9y1fhxYqK/5j762CRHTqTJoYbwCIFWl3h+hxS/YnSr9/euB9DJ+H+gfTk3gzeupLA8c9ve52E1R76Jl8qXw44Lgd7rD1IFwJecPXwMBPEzOhIusOWGk7CdYsaBAo8XwoDn0/K6s7L/uOUj5HfvAk7u++TgmF/NZeA6Eox2EB89K4MSrI4GXR0wkWz3xyXmC4WxuhGcbGc2pBZHfH/u54tnFjnfEZ7P8jEhSj4/kjGrakSgFcvJuzZdldSL6zRd+3opGdSYY9r/kQQuPDG3OEYYM1usyVndivM1TF4WpQYu3scWaQJtZWm+9O8024+PZ+G5hQtA2c75TKFuzShwEXHmLCQHP6+Pt07UMJjlUgpB99WgJASgIYHysVkn5tOIoG6Eude/l3IeyieymGMQL+o=",
+  "URL": "https://search.cpan.org/dist/HTML-Scrubber",
+  "LICENSE": "GPL",
+  "ARCH": "any",
+  "BUILDDATE": "1592755787",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "perl>=5.10.0",
+    "perl-html-parser>=3"
+  ]
+}

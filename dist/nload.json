@@ -1,0 +1,24 @@
+{
+  "FILENAME": "nload-0.7.4-6-x86_64.pkg.tar.zst",
+  "NAME": "nload",
+  "BASE": "nload",
+  "VERSION": "0.7.4-6",
+  "DESC": "Monitors network traffic and bandwidth usage",
+  "CSIZE": "59615",
+  "ISIZE": "160090",
+  "MD5SUM": "c6a901a1b758856e4e045e437c2190e6",
+  "SHA256SUM": "8703d81c764974ee2c02939a3469940d60ecb738b23f524d8344673dc7b1ce39",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl8EuK0ACgkQeGxj8zDXy5IlQA/+IJgy9TlX3Arr4IYQPfBuaeE5RAehGU2XaEhH16dT3LqUUyQG33NtRUnKRcpWXZCdONiqYJL+rCfTDGZZ5YmFbkq+nmFwei5yUP+T2ppi5+xLBqMUXKr4Un3EKIqJHYzu32coqmGafCVE1aholBHiOf0+fbE/j8Fc1SoWwjhX4J/DunkFrQ9JvgtEZc+8tNvMibCtPDfe87qEr8mIc/HiYuoqBQC9BIKNs0K+XX21vimOdunGfzk6kX8vha7EyVDU2FXYja0HzovvXKA1rIYXJEqyBHWBloUep9VsJrRGsvlToLSgNmyn4znyFcrbKy5TeBO22IVeF2zf5U6RsLg5wSbGHFYp4HLAj6EiFwKm21CsyCJ4bEOS4OaBA9pfyfJEtTFlN0V8yo8HaqCw0Pdd2WRpVfB1OZoNHngphKv4PC0pIVU4CXLYegdKNbWRL6lWZJwVuVc5+BvajTgIFB4NZXrcbMP42WNRohnDAknCunn6PXGmrXrXjXVDNGqMr8scBY0+m2y3vL2Qs0Wgo6Sdd04iDRIQo8XS/1UZgeyTl9mxruqZufDU4NSem8q/2Y/Z8UMebCO+w7BpPNd/hDzVV18CvGTuupbOelIwWuMYQRy94uOrSBniEOYAoN1dGILEdhKIVApGH17yXSwyP2EK2YIthnbaD/Hj3I6EZWxWU+s=",
+  "URL": "http://www.roland-riegel.de/nload",
+  "LICENSE": "GPL2",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1594144711",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "gcc-libs",
+    "ncurses"
+  ]
+}

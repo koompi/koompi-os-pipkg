@@ -1,0 +1,23 @@
+{
+  "FILENAME": "popeye-0.7.1-2-x86_64.pkg.tar.zst",
+  "NAME": "popeye",
+  "BASE": "popeye",
+  "VERSION": "0.7.1-2",
+  "DESC": "Kubernetes cluster resource sanitizer",
+  "CSIZE": "9539377",
+  "ISIZE": "45115424",
+  "MD5SUM": "05816985eec16791d2451922012037f9",
+  "SHA256SUM": "9a8525f7526264f7e9915faef1cb797176be891b719f9cf22d955159146a4ee6",
+  "PGPSIG": "iQJLBAABCgA1FiEEktnGzemaICTWkKdu50JoO6CMsv8FAl8B4xMXHGZveGJvcm9uQGFyY2hsaW51eC5vcmcACgkQ50JoO6CMsv/BxQ//RAn3PNRA4Lu8r4e/6HuE1f3T/2n6eQgUP5Qs9BWA8EMbqZzZ2Mfl+3CiwPWkQ6TJORZVvEKXf03xXdp40PcBQWwIfSHQO1cfeRncW2Nv0IPY6m+FoievR6aZnG4A13mHc9oNcw9ZHeXMkGlqyFmgZm9NbPL+iWNuP1PouGxhvdMlFMZwmInHUrVpOagXJry1/Df02qRg8+AUVMl4OSqSfq+kpk+4GT2V43J80AoJvMRWMd4z1F2pOAj0hdYkmmx1QOGpzpTXD5eMIos0WheF7Qe322dTi7o4jCt9kzTfzu2m0kDN6JQ80bvrFuuCxF9cmYpnUnJOelU+Cw0NgFAmqlA7hC35lhYqeUGeRHsxi8L7i08C7ObGAJAaRHnxE39HSwky4FiQT7K60MN0pi55GUF1slld4e4nV2Md3CkGJ6Y8vXovKWqwinJEIA4b6/bZqPIptMb2uDPlLwiagS8XB/TxtOp+cxRUYXW3aFjdvDbrrXh5o3nKvuDtNrwEB/tBr+YtQUZ7tap4EIVy9Tp22jwQB/MGzc+N7vvWEbc8cnOYLgvFFFkiMFsKtnwVAyemzMstEuYEjtUs6lMvrriwVVQ8ebPxx/tjKF2KZ/+wkOIEyy4eYtvxVu7q+b6/5vF3ujb2faskrqHDBBCEj8x06C9QQXqijqTZCANex2hcS5Q=",
+  "URL": "https://github.com/derailed/popeye",
+  "LICENSE": "Apache",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1593959074",
+  "PACKAGER": "Morten Linderud <foxboron@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "glibc"
+  ]
+}

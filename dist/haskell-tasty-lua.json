@@ -1,0 +1,26 @@
+{
+  "FILENAME": "haskell-tasty-lua-0.2.2-22-x86_64.pkg.tar.zst",
+  "NAME": "haskell-tasty-lua",
+  "BASE": "haskell-tasty-lua",
+  "VERSION": "0.2.2-22",
+  "DESC": "Write tests in Lua, integrate into tasty.",
+  "CSIZE": "35286",
+  "ISIZE": "134729",
+  "MD5SUM": "c4366a57d06436ce33718e8674752f4d",
+  "SHA256SUM": "502a19527ef0ea17f48397d3f6ecb1d2bf39dd94966485b8f75d6922590c6b0d",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl75n+kACgkQeGxj8zDXy5L9hQ//cm+9nekPfD+wv5wfTP3njlkNiuEzYZ/LsvIi/7uflbtQt72oISzlwy4NjDD1qfi26sh1xEnfw4v2dIDu6/nDlvcAQTThSvX0jk1HOc8VQIyNLwSH6fuhdLyBXincjL9f5MAZFVEHhIGX63hp0hyOCyCOTJ2hbiTwPay80naXbx1GZRRanh2I+1+kVGQdS2gSNtT2/joSwVCnE5iN12LxH4wDgCCQWuabPjWyPQ5buNBLpn9EoArMG0AoUrchrbyBnvR7iHsTO6pBqASGCUW8+naIUAl1kT58D2cI5xlooPDsy4/8MmK3sY/N4Kc1p1qH99jAKiGnZFspbbFJb06ewfLZ+Gz1XJ/wSrx+AIhqv405Z/lo/HgWODNfEqNPxfC0wTAfK+F+MPhbZiXgPXWFggTmSgWOxnfz5clSvgQrx/GUZCdBEUGffD9zQN3HqIaYNxwQVL6v8HgdxSBudIZjXOiSRlr0b70AXhsi457gAYj8fa2OBcand4k5OyadnjzBUDy8LLveY8trGr7BHJrzFhYWNm2lq30w0BtiByzKvZJy3UGIoWk9fMZE1Z5ep/uN49ENfl+dkbz+PV74lVtdX+xfnXMTsUlf8Mn65gJuSomoblQeE2bycDkcAnemF1tmJw8MCjWiYU8eOQ8lz1w3D5WC4IdvGY2puCvYqgoR3/I=",
+  "URL": "https://github.com/hslua/tasty-lua",
+  "LICENSE": "MIT",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1593417681",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "ghc-libs",
+    "haskell-file-embed",
+    "haskell-hslua",
+    "haskell-tasty"
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "FILENAME": "thin-provisioning-tools-0.8.5-3-x86_64.pkg.tar.xz",
+  "NAME": "thin-provisioning-tools",
+  "BASE": "thin-provisioning-tools",
+  "VERSION": "0.8.5-3",
+  "DESC": "Suite of tools for manipulating the metadata of the dm-thin device-mapper target",
+  "CSIZE": "398392",
+  "ISIZE": "1432748",
+  "MD5SUM": "92aa1557b7c37cae8d35ba4f180768a0",
+  "SHA256SUM": "f5450598d91d0c306249e82057cc7d606379785fe66df549f88c41e2dbd9f2f1",
+  "PGPSIG": "iQEyBAABCAAdFiEEhs/8qRjPOvRxR1iAUeixSKmZnDQFAl3MOGAACgkQUeixSKmZnDTLrAf42qDM3+8tBWimHz2xcCV1Udrovb9QuuRsktncIpZGQ3gMuYqtVPt9gNJcLl2HmHhpJra2cn4eMH4tXImx6eE7Iuk43KCMfdbYjDNR6H4eOTUNfPAa/2L+AkMiDrxo29FJx/OQVJT0f0R1SsrSUi/v3jrkYsIqvCIwv5VFA+gk/N9scdk+yZlBjN+l5TkAXKJFEkzDC915rjLy2OiCIBzARpECMkVOqIzwk8Y2eQ0lHwN+X3D4zYXN9BhK3y/O89UG6BflUqqLTqSTzsUYZ+4Eg+kRyT+5+7by+YpzaGdN+iWdF61FBJiJFZuV0xNvMg1rMhma4UNJ/nvpqZ8r6bhR",
+  "URL": "https://github.com/jthornber/thin-provisioning-tools",
+  "LICENSE": "GPL3",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1573664823",
+  "PACKAGER": "Evangelos Foutras <evangelos@foutrelis.com>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "expat",
+    "gcc-libs",
+    "libaio"
+  ]
+}

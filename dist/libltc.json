@@ -1,0 +1,23 @@
+{
+  "FILENAME": "libltc-1.3.1-3-x86_64.pkg.tar.zst",
+  "NAME": "libltc",
+  "BASE": "libltc",
+  "VERSION": "1.3.1-3",
+  "DESC": "Linear/Logitudinal Time Code (LTC) Library",
+  "CSIZE": "143792",
+  "ISIZE": "662684",
+  "MD5SUM": "cbed72a4423e395e3d92648ee3e372cf",
+  "SHA256SUM": "4932e3abc985b95eb936d6be7f44ac04b71fff0e80ef91936fd5e87a36071fdc",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl8EtF4ACgkQeGxj8zDXy5Lx6g//QUHK6GN4LV5sr1y0f55TdrUCi+7jO9ofzhfyrUU2CTCP/tgwqPzIpF6eSivXLnAHdAOmea9hPso3Wr6vxrWOD59lh66HEnm6vMMovDSQOowTe72Wlia4W6APRpIqyGb2iqvmqQyfwrwDIQci0EYjuwRUsaBCjtYILCKyoEm6yqsncFnn4nVY4XQXcbpbVtBuK21hAfot96mY9wV8gFdweMW+wG5wMaUfkArhCxKAg64cov0eGHWyd0n4Rwkb5z+19gFY808bcOeJBiMPmoVWb1neLn9AK+ofrCnlSb3JHbo0frHDljNayr8/+LwQcvR0ED9KXSKg/npzoUzsDFJPd7UfKwPkZUAXFAwGo6Hiv/oPto7OOflk4flD1nBOp5dWeIpePhtJ1KZ250ck+zh9O61Flupy6XaIGHcvvAqeE766potcJieX7nm9IKdFj4D3a+Y7V29PJwXzE1QEkwzT6LC6OiWe821c9zZTalqEEddh4Z4MlLfkJoGHRMDLeiLozLj/Q8cuS0G7QhSfmfHrSqSdacM6nULL++cVuzRmnAQr6bDQXNm96Am6owPK6WEn3NoATb9ozAeuKyIBGK9YJx7AyRkDgXvVwjkO22j1TJ9dGWj+j/sBIx3hpuR9mHqrLLo5LEQqndMILy9dKr0g5Bawc3B900va+WzHPrNbgO8=",
+  "URL": "https://x42.github.io/libltc/",
+  "LICENSE": "GPL3",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1594143761",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    "libltc.so=11-64"
+  ],
+  "DEPENDS": [
+    "glibc"
+  ]
+}

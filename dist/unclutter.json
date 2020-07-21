@@ -1,0 +1,26 @@
+{
+  "FILENAME": "unclutter-1:1.5-2-x86_64.pkg.tar.zst",
+  "NAME": "unclutter",
+  "BASE": "unclutter",
+  "VERSION": "1:1.5-2",
+  "DESC": "A small program for hiding the mouse cursor",
+  "CSIZE": "10775",
+  "ISIZE": "25840",
+  "MD5SUM": "ab26f12c5e92e4f8c4437026c200c4f4",
+  "SHA256SUM": "c06e833ff860f920efe8310cf96fd5ffe242e429c7a4cca83d2d4e3665e67d6b",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl8EfikACgkQeGxj8zDXy5JycQ/9H+DgHJIXV8MSmT4YYRlb0BCHBgubCMMMfQrPzr42BhDSPyFLxF/OYFJEqiDg75/uzW/HQveKxcMMSYOghSNb7wutSNSsaNp11TPTHceLOmdlKBWETJ9ff27IkZlIwDmdi/2BfF8j8AwC6KsUfs7gu5XTT/sBrbCYyqEJQQZ+5bNOPjNIYo5+L0e04hUAncPtm+44f1j/mRPhEinR/WIe7y09/pV22DTuzMK/5/OyMe8v73AW03bNLmauHGvh3aOrq/fWL281XuY3v5TS10h6thZVUvpNpm3Iufcw5i6GlkJDYDdaYEYTUF+jVidR4dO5Rg8GookFJfggtyE13aFa4cR5iHBgvFtnfxMVtLw+VCGW/XHtrKoq7f1JDzRqqmOjj34KEIFYQSBXcWdP8jxm7dQbFKRnzFFfWjGhgjnJ4jwe0q2le2Bgc4dC4z/ZU5h9B0b/HOsIT2RfUK2QSshqrWLALvjRx1v5dXHKfMRfkL7OrgUGL/f4874u0PdEB8nlZwiDCo0zONupIjMG6ePV4EgUcZDCZuejKzd/5NVklajooYzTCNsjhL6MnYpJsN/7A0ZrBx6exCxZJS//CP8LIVa/7ONxmzFThiOS1OZbNCA9L8EXc5ry8Gu9S2cmhKzw9FvISayrhzafiN6gdDhu6NFIzJ/K2cF1o3gEesXvB0A=",
+  "URL": "https://github.com/Airblader/unclutter-xfixes",
+  "LICENSE": "MIT",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1594129942",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "libxi",
+    "libx11",
+    "libxfixes",
+    "libev"
+  ]
+}

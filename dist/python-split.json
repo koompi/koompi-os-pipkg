@@ -1,0 +1,23 @@
+{
+  "FILENAME": "python-split-0.4-5-any.pkg.tar.xz",
+  "NAME": "python-split",
+  "BASE": "python-split",
+  "VERSION": "0.4-5",
+  "DESC": "Functions to split or partition sequences",
+  "CSIZE": "9604",
+  "ISIZE": "34222",
+  "MD5SUM": "d68e7ffa7282d23f05fc1f0a77b5fcac",
+  "SHA256SUM": "d877d81d826f9207690ab190ba9e1b6169d74c2db1f87674e86e126e13a331f7",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl2/c5UACgkQeGxj8zDXy5IvyBAAtpOWBQNZ50iieod7V/eo45Rd8xuPZhW/56aMw7J0gfhevwUFiKYpxre+yqBMGK6e1R+Qhd/5Jix+qTyBRHffRdWAsiwUkzuPuiLGTG8jii+AqTDpZyU05gffSDap/NZcvb4QJ0Aj9cZQmVr287RTgq0AzSweibfB3jXLf0y8DcfoTm7OtksjHTBqH7uloiaJ8TwuKsLlrkN74yb4bZSjYHiyZkhTeFPiqbxztaQdzIxv+Po2Eqo7EOUw5ibjTvMS8PMeu7R+KCrw5DcehwMcsuo9/3ahA3/uRQjpVMygWpGKoI/dxKDZ0YKma6XlNSpoadK2XvKvTuMr2s6B5wpI2Ue8Kv4Uj+9e87lqJxteeGD2uhvLVxU9xCDOg5k2rha4UHG8ykb6SFQ7Py7alj2pfH80s2o6ijURu6GSyIxNFb8vq1KACuZbE2Hox8wcASMI5A4QZdgcqWbZKlmbnW/kBptm3nl8xibXjBIIZXgOeutUCkopqkudCgjywJ9v7AfkJYIBKhwPotxJtzR29DTWTXYwk93UJc/YIgKeKYyMuZ4gm6k0MwQA8bZ0fdK4N6YouksAZCt74gXu1mOfilyz29djDGNj1xwjkGyg6c1xtbnp7RIbKaiJMcF0cpCXW8PXi59ELhzcFXWuKWeTw/CK4v6dVWXe8yuUxAQaG661+mc=",
+  "URL": "https://bitbucket.org/astanin/python-split",
+  "LICENSE": "MIT",
+  "ARCH": "any",
+  "BUILDDATE": "1572828031",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "python"
+  ]
+}

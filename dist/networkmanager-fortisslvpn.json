@@ -1,0 +1,26 @@
+{
+  "FILENAME": "networkmanager-fortisslvpn-1.4rc1-2-x86_64.pkg.tar.zst",
+  "NAME": "networkmanager-fortisslvpn",
+  "BASE": "networkmanager-fortisslvpn",
+  "VERSION": "1.4rc1-2",
+  "DESC": "Fortinet SSLVPN support for NetworkManager",
+  "CSIZE": "87937",
+  "ISIZE": "375083",
+  "MD5SUM": "d0c6139b0d80a16aa780d0374fcec492",
+  "SHA256SUM": "7ae060a3e400fc0378657bc6018df94c2b193b6971f982ff35496ad26a341c98",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl8EnlQACgkQeGxj8zDXy5K8pw//U+Cz88zfrooQtdxDmq+T8S4jEhQm8yQALmhu0d2P3umBqIRY6XOeY8JeZcliKujWexqGh/i326Djbn8GJ3f8xYFlrfX8zyxwUyhWtlApHzMNBa9IK0WJ7FJS3ic0wdA0iDM6akb7eWWmEl4CL41MHDnZkwj4xXGVIyjm8B1PRYvYomRiFUqMTJ/0L3WOHFb306S9dCABnyq5OHrF/IYEdCK8gu4Rtmi815/lOJHrP5Ls4hOO5D7o8yjF94wUNVYilItV0fW/paLEtWJdUEhsIJErFheZL3XMXlsdEbZy+CBVCAdmY66jkMNE/iJmLO9MOjUqRfq2vh8B63oabBVs1zd89FRom5KXl33RWKkqd4D12uu8oUxFryAk2PpGiq8dq5KWDWWdIY6QJG8+pnVRyusZ/9mLJf8r5jL3/vHA1vaelnPvHv3wx0dLEA1dbQm0lJyhUkLa1tu+Pdcan+WGZTGc8LZGArrlXU4ZV3lqOgfK+178agZ1SIM5KPem0J4luwnIM1Zyq5Sn4xFtuxK/+lq1Y5vrlG7nytBdYueN5mbSKAIlWwbna1p6CZHLdclgD3RW1MX4uH6SFvtIh0TXh/1y4p7Hp3AFDo2UK9ODs2pC/rz6hNnjL9CC/dN4En3ItlZPKJ/VRcihS5ywkqfuyYndja9Boeqnc6er2rstQ84=",
+  "URL": "https://gitlab.gnome.org/GNOME/NetworkManager-fortisslvpn",
+  "LICENSE": "GPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1594138058",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "networkmanager",
+    "nm-connection-editor",
+    "openfortivpn",
+    "libsecret"
+  ]
+}

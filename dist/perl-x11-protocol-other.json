@@ -1,0 +1,23 @@
+{
+  "FILENAME": "perl-x11-protocol-other-30-6-any.pkg.tar.zst",
+  "NAME": "perl-x11-protocol-other",
+  "BASE": "perl-x11-protocol-other",
+  "VERSION": "30-6",
+  "DESC": "Extra extransions for perl-x11-protocol",
+  "CSIZE": "178865",
+  "ISIZE": "452683",
+  "MD5SUM": "84583a9164cab3fc152e9a67a08ab934",
+  "SHA256SUM": "ad99adb07ff27dc801eee3997da580d61f0c118419f7c4aadd3fbd93e1770a36",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl7vhIwACgkQeGxj8zDXy5K2bw/9Ea5IA8u0qZdrWBzS/F7uz+cj+cdzVGx+HBzx77E1FX671bUci+msxlTdW/k9RLzj21+CotD6kZGbmzTMqXyrAYXXR/Hw3dHuXYpjbS17bnkB66gl2iC4G9x3hkqc1GKHilTYCLfJjc8vA0vwv9+X9m7XzgZG7whAiROgKH+t2ckHu8GyC8Ipg7NJFEgxUkGJgcZJ+Bb9NGQ03HBi2s9GUH26Q0G5Id0NyPNrLFIhqkfRLkBxzLEReh29+XoC1WRxpGWPWbUx6pLxYRnx75+KSTKZzYrFq1iQpXNuczBOW6knir6DoCodhNNLMOjAWQ183aZPuv/ylDv1R8R2Svc21RTRw04mQOUO5y0c7dpbIb/VyUeVOELtjLeHtwl/v62SmctyMqI3kXK0xFv9UNl/3AIBoY3Fhc2Wvo2vucD2rljwRDXgDyBaavl5oEVnWMsTYvG7i6mHoUnA6Ng2h+NqSFrQYpPKmeAho9E8GCeiwvaB5sq7bNIlmDD0CbZvQY5ZnOkuEc3T+yZhyBK9FTaAkXcNtBunc1pit4F5ghPl6wzrrILP/dapdZbz0bookQ4rusy2JSJ/jkPxomZk4lvT3qZnphZDMFAgVnc3VsV0aRjCuxKbzx+XH34m7BvnYmy9Denj3mKVkTgpNmbA3r20rEUWfLKF1AIYG8S90r30HA4=",
+  "URL": "https://search.cpan.org/dist/X11-Protocol-Other/",
+  "LICENSE": "GPL",
+  "ARCH": "any",
+  "BUILDDATE": "1592755243",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "perl-x11-protocol"
+  ]
+}

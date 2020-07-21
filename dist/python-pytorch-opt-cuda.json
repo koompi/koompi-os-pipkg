@@ -1,0 +1,41 @@
+{
+  "FILENAME": "python-pytorch-opt-cuda-1.5.0-2-x86_64.pkg.tar.zst",
+  "NAME": "python-pytorch-opt-cuda",
+  "BASE": "python-pytorch",
+  "VERSION": "1.5.0-2",
+  "DESC": "Tensors and Dynamic neural networks in Python with strong GPU acceleration (with CUDA and CPU optimizations)",
+  "CSIZE": "227035255",
+  "ISIZE": "1352079035",
+  "MD5SUM": "87c97e20c3467d506e1d4f076f144c47",
+  "SHA256SUM": "8b723bb2a32737fa4d13de69d4f41a354581f30ea564ed3e9230b51c4e1cfe0f",
+  "PGPSIG": "iQIzBAABCAAdFiEEj8FaBklQqZ3RvRTdOeS4d+YuuRUFAl6mrhoACgkQOeS4d+YuuRUn0g/+MbACa7HXF+7bP463UNg7f9L8wyF7FyA0W/OQ3k6ZwIZdaDjZgpRxZtS5ymqcU8w9e/WV2E+O/BAqoSbZQe7CEDXcNiYSNEChoQ4aDHxuQrCmpuN9E8Bh8Z4Y5v6o8HprN/BzXvP6vMEcpxaf006rW+nYHywGarTpd4Wt3uusSC4kEl7ap7HPo4cvkxC1XoN76gquE2I1fG7DaPrjQfNxGPX6dJwDxMNYXXOy/oQh0K5VzL1xDcmeaPouFIJkz5uAcHsEwy9+0Tm+hwXmvd/WetCncpzAbGm9Y6g6v6D+hO8smpoWmN0wJbKWxcEM3AWtWG2iI6gFN0PkCDrNVacEM46W5voM5tavbXinyZCOLTl0OW4emQTPKVGY7pEQHr41wY/yufHg8vJup0ftkjiW+8HXkTPagLlLq5m7nTJziqgcdrs1IAuY0xDDmTt87Txo1kNI0lYWJfhdNbPAxmDxqDYzbZDVBLCjr/Cc6wWshW3q8D6bUr3NBwInAkDfWdvcdJ7MoYZd+5CcZSWD1vnl2HOnM2sQXTWvoQiIYOId3JMpY1qelZVrWhMB36zHG0VoKaCSyjtHbAcHYgLX0QDLSYXiFIA+ZW+VtpGDhkIXy91L9TRgm3ivgKlIwbYxH8m0x9GS1fs+q+MxK9aSw0+P4x3aHlthH/xQK+74mldNOAw=",
+  "URL": "https://pytorch.org",
+  "LICENSE": "BSD",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1587930242",
+  "PACKAGER": "Sven-Hendrik Haase <svenstaro@gmail.com>",
+  "PROVIDES": [
+    "python-pytorch",
+    "python-pytorch-cuda"
+  ],
+  "DEPENDS": [
+    "google-glog",
+    "gflags",
+    "opencv",
+    "openmp",
+    "nccl",
+    "pybind11",
+    "python",
+    "python-yaml",
+    "python-numpy",
+    "protobuf",
+    "ffmpeg",
+    "python-future",
+    "qt5-base",
+    "onednn",
+    "intel-mkl",
+    "cuda",
+    "cudnn",
+    "magma"
+  ]
+}

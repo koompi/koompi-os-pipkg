@@ -1,0 +1,23 @@
+{
+  "FILENAME": "libretro-gambatte-838-1-x86_64.pkg.tar.zst",
+  "NAME": "libretro-gambatte",
+  "BASE": "libretro-gambatte",
+  "VERSION": "838-1",
+  "DESC": "Nintendo Game Boy/Game Boy Color core",
+  "CSIZE": "120882",
+  "ISIZE": "387792",
+  "MD5SUM": "cdf0c4ac1f5308db8a49084fa166aa51",
+  "SHA256SUM": "7c737f6e8000a654dd8dfcfdd4c27c3126da1399a293c985ad17729340020c06",
+  "PGPSIG": "iQEzBAABCAAdFiEElDfdOBWnqRaePTlGr/XZUJi8b/UFAl76zOgACgkQr/XZUJi8b/UgPQgAivbC3MeOqh9RwDXKEoyjKZQOj5Nsn+EKTkIGA75JJYXhU4qaEMh4UP3oSpP8KB0FhLVDvaue9mXAWvRo/zYMZCn8gBSsp4co+J4qseGRMAFSwsSZ5TPESDKgNPs5ZcpKa0ZPWJW6HNEom0ajhaMN3hCtsnh7cucrLUXITMtgAslQOY4EfTgfassF9Y3cK5U4Z9GBkZ8a9/F8bs0dQVrW+7SZ24tqsnrbsRnowym/FbrD1r2Kn9jWbg8jGdqWKBBgnia4IIfMHpTtraJ9f8zHvWEFm10KAVASim5jJO7ldOEq1eOB/Cjw6LPQ6s3sE60WWhUBz9xIkxnGbQatG2mkRg==",
+  "URL": "https://github.com/libretro/gambatte-libretro",
+  "LICENSE": "GPL2",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1593494742",
+  "PACKAGER": "Maxime Gauduin <alucryd@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "libretro-core-info"
+  ]
+}

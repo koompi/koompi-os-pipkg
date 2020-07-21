@@ -1,0 +1,23 @@
+{
+  "FILENAME": "libolm-3.1.5-1-x86_64.pkg.tar.zst",
+  "NAME": "libolm",
+  "BASE": "libolm",
+  "VERSION": "3.1.5-1",
+  "DESC": "Implementation of the Olm and Megolm cryptographic ratchets",
+  "CSIZE": "98557",
+  "ISIZE": "223528",
+  "MD5SUM": "9fb0b45975f5295e225e3d780c3d56dd",
+  "SHA256SUM": "7ece5a02cd5e2ea6ecc3e4d867dc2732a793f631364dcf85817b5a94dc01fcba",
+  "PGPSIG": "iQIzBAABCgAdFiEE0ZGnjxiB84R1PJZ+aGsGOsS8DskFAl7iu4IACgkQaGsGOsS8DskZwQ//REmsuIceD8hxJ0klztT1090D2sA5S58B/cBiVvTYilZITvb5P3HtL5oL9Y5cuTqSafTE2AYbJaVgL/wv7ut6cwTCPBhNbyxyU8pcGkiezfI90RAKXssYEphPyVD1SQEB98e9snKtehtEbFZ/bz9ckfB2aMBZSSgtIFTVUaruqv2C5H4X4OMVatNRKojb78DFu8JjhGmQZgmYWMCOhEbl1AE+h4GXecJXfKimGuixnfs1ZhGmzdVYWUG769Q2u+ahJS/2kYjimfW/Oe0xPGu2RResiGe7Yzf3nrADKQHVCgAYf6CkO70ti96Lr3eV4MgHPCZrx9qDfkNCny3QwxDFPDmy33/0SQZ0y/M+3dIQ3AFYvAewvsbIYXNuqGIIg8qDYziPkgUcowuWg6FAD/be+67h9nOdle+iYp2U3FlOQoFQVVtOn89rZlzB1EqJ/Ofn01sAKa2ze1ZU0uu5xxjfAFqCJPJCFwqYIFzYIoTvQfFrJr0kVxMRva5avEPcZ+zFzHVH4O2x+tw5EzIYcrTtvlBHFUC+J/sOJSNWC7K3bvEJtn4BPqXM3RR7WULTt1jaL+kcHPon0EohUImzBP7a2vBXD8ilHJXkv84UZHf1AdlMvGcrU5MvinYFq9XZQSv90Hv8sWoK3alEEKrDhWunBf5p8uFYuJu8XAF1RBFtsXc=",
+  "URL": "https://gitlab.matrix.org/matrix-org/olm",
+  "LICENSE": "APACHE",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1591917413",
+  "PACKAGER": "Jonas Witschel <diabonas@archlinux.org>",
+  "PROVIDES": [
+    "libolm.so=3-64"
+  ],
+  "DEPENDS": [
+    "gcc-libs"
+  ]
+}

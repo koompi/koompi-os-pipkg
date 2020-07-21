@@ -1,0 +1,28 @@
+{
+  "FILENAME": "haskell-optics-extra-0.3-9-x86_64.pkg.tar.zst",
+  "NAME": "haskell-optics-extra",
+  "BASE": "haskell-optics-extra",
+  "VERSION": "0.3-9",
+  "DESC": "Extra utilities and instances for optics-core",
+  "CSIZE": "207171",
+  "ISIZE": "1290769",
+  "MD5SUM": "c8825fb9aa90c687576a2c396141cfe5",
+  "SHA256SUM": "925f2b23d7f84e846aaefaf48fe0a6b0b55b6a951845439890b5820a65ca87cf",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl75MRAACgkQeGxj8zDXy5KWPw/9GAUE1Qwo0Zepi41oe47RuDDR8iuIAUWfAl6bvh7wyNPlJSfDvDsGq54RwC6hQWivWGKIiU9MmVenBC6Tsdvml8TyWEUkMY8b7dvHNBSKZyjpMmgDVENcUcgcHhs8srsaxXKWrNXZW3Bi0EAxGWcckIqPkfcJ4U1PD8R8zk/eyYo3hhy1l+Ecd+xG0BE1e2aKanELMlVb8eytQDjNA3oA34idzGezcD76MhuUGXt9mFBtLT4Ca27ia1wquVX3ajDPqFtp+uQyqCid5PzTX72zOcBZDQLWkrS4DvrwwBeNsEf+0cPaF85ozqtcLeALvRbos6BAusOLRiwUmHlsZag4YRRNKQTt+myZGum+C5MT6bDKkp7WTs00o3NcopgMInhhLhhNaAY97LJZbzZTDmjQ2zj1MUwbK5iKGNN/ZzivlOxWXbEldrWvudPwGHvBwE7rsIK9XxyB11eeiOPJv+aEf0IFHgKi1dVsvs7zEGWXJSwFCETdygKwJF1+YixNz/UoXjyDiVh8L4y1TG+Gakas99VcPf1qIQ3hvbHWq+0btwHWMh1WUJK3+H4zhR4T+yORs6XHrOzsZ3z3+29KVNflVAGI77/p+m4Tx7qSXokOvQBVwNuP3/mV//8/WzDJYBpjC+g5eev2IQbiyhL9uAx1xDgiQZu5HPA7LurQEzApLkA=",
+  "URL": "https://github.com/well-typed/optics-extra",
+  "LICENSE": "BSD",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1593389302",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "ghc-libs",
+    "haskell-hashable",
+    "haskell-indexed-profunctors",
+    "haskell-optics-core",
+    "haskell-unordered-containers",
+    "haskell-vector"
+  ]
+}

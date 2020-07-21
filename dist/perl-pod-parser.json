@@ -1,0 +1,23 @@
+{
+  "FILENAME": "perl-pod-parser-1.63-1-any.pkg.tar.zst",
+  "NAME": "perl-pod-parser",
+  "BASE": "perl-pod-parser",
+  "VERSION": "1.63-1",
+  "DESC": "Modules for parsing/translating POD format documents",
+  "CSIZE": "81526",
+  "ISIZE": "217111",
+  "MD5SUM": "1bb709abe1f4278e68c620bf7ea83682",
+  "SHA256SUM": "0f53e51db48e337c298b842e7d935c8579d3884aadf30a514d60894217a1d82e",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl7vURMACgkQeGxj8zDXy5KFLw/8CjdtbbL2InWTG5jcoUdrS+UcppenFlWnO+jNgSxMLpQ6RboIo9+D+Xk+3J8eVr3XBGrG8MWSSvQK0cna9KJDB37sq80e1bentvsJMJQ7RPvWmRmHfL3juIwOH0rHD6av/Cxwvt8XSPplKkoQMdIsvCLqB1vTyixApdv+iJqsW7ok+MGoxuw+IXjamZfxsjmdOzIStcS+ZuXI1G5vijNPyzQhxycrzW7hYeSatQ1s0aximzwOaIc3nmE1s5+NG0stgRnYHqQzD0zy0Jla3E6WaSOvvGeze2PHTcN0HqLzMvX1vlrXxP1IiSAyZz8IIScPYAcl+Xj08WDU+PrhB8okfQEWVHOpav9vDdemiLSune9iwyjADKy4X7DuSXiu7CZ1s1yieJLWX3Lutzx4tNMdXE79CQmiNxQXXdCBSzAWG+uiy+775lvUXXeemH5x0uZkD1qhubWH+pB+7/T8XupJmNZ2v7+ER2zT/qHMbY/ed5ZE4fE+npQNFptUEXxb/7I6TKdlE8Lp4d1tWRi7fIzHGCXanb27Zf7H8WJrmXZZXiSky/sFXsUpQQx6/eOCU38GGdn1hgyMXTjOJ73bOtpK/VHhrVN99h1EHzfhqOw1EfOLDL2Li/m4WGbrq3D1a+pO6XMQ+NhqbH+tHsBwhBWTrNafvOLAEAWygvHp5KCRNZw=",
+  "URL": "https://metacpan.org/release/Pod-Parser",
+  "LICENSE": "PerlArtistic",
+  "ARCH": "any",
+  "BUILDDATE": "1592742123",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "perl"
+  ]
+}

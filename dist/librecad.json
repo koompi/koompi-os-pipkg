@@ -1,0 +1,26 @@
+{
+  "FILENAME": "librecad-2.1.3-5-x86_64.pkg.tar.zst",
+  "NAME": "librecad",
+  "BASE": "librecad",
+  "VERSION": "2.1.3-5",
+  "DESC": "A 2D CAD drawing tool based on the community edition of QCad",
+  "CSIZE": "11731162",
+  "ISIZE": "113479225",
+  "MD5SUM": "d7b449775d75af6c2f3084d817d243ff",
+  "SHA256SUM": "2471fad313d6830b06b9a018aa6a5ff341d9f199e6aee4d64a4e1b2330de6e7c",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl8Eqy8ACgkQeGxj8zDXy5KsQA//UcWbEridlunVKhhMAqNZG85UVWCWlli/zY8GQX9kdej9bqiVZz4AcSvFsq0Sf4pYgltZuGmLxVcQkmDzL6Duz6217EQ1ZJHq5SMKjVv6WfJp8XoZ1ABztK2AbEjhbZVl8mRoebQ8DhtUWFj7Ub/7QpSFnNJRBORuMhmoBEL+wa3Fu4m/tv0a4dabzQ0jKpbLkoLpB+XE9eNYCufFljnrh5b9BfELjS4JIf6pN/Z+0cvUcPOfcfab4cq4Z8HLgEYaenHNz0Dbylqvg30u1CzIMKr7tTjMcFBMdQ9NYyDBx9v/r7mxWwJgg11iiJhaTMB7kX2d7WzefDSmlDFqLbcG7DSxHWO12o2pVoMDbWGMj92jthNHe3BzYbgu0OoL56kgbxsBuSNBbaV0KFh3VKOGlgMr7/4ckCjBdakrb+YBfHVlEYJbtgMdHTI7c4IEb3ZBmIUmm/fZKF686fF+UtV8tHtEKRkCBW+S7vfxoOfAdTyh1Bq4WhC4TULE1QU5pS/opjLWIN6pVljTnx2sUbRIhI3+syDdod+UKITj0WoReEX4aCxvdzAPX98pdaHTRl6gIOlELTPnHWI5pdF4XhsWqrzNMYCyK3zZnrhPZC9ZtTST4Ar8CexMTvzzdfn8ikVxO4nbN1L4MkxuBYkZ0WI4ZEwn84WO/ztmsizPvzQFhUs=",
+  "URL": "https://www.librecad.org/",
+  "LICENSE": "GPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1594140875",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "qt5-base",
+    "qt5-svg",
+    "libxcb",
+    "muparser"
+  ]
+}

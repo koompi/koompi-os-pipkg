@@ -1,0 +1,23 @@
+{
+  "FILENAME": "perl-return-multilevel-0.05-3-any.pkg.tar.zst",
+  "NAME": "perl-return-multilevel",
+  "BASE": "perl-return-multilevel",
+  "VERSION": "0.05-3",
+  "DESC": "Return across multiple call levels",
+  "CSIZE": "8221",
+  "ISIZE": "8769",
+  "MD5SUM": "786561f122e14f47cd88d06c38e6edbb",
+  "SHA256SUM": "cda54939ac3b3676895ebac636c9b536b300486cb73be303fc0f946b6c68d230",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl7vPOcACgkQeGxj8zDXy5JeUA//bU5+ZL848Z8Fd8DzXGkYDmVMpLyQJBkvzqFqUNz0zO1ReyyUh79G8rWyhILdQSmYjcQy4tZWn+3ky3VTOAxhTxv9QJOa0lJLeSsQtjVG+15RT6MbrJnpgVDCBW+aYsCD7vpF+Qbe0TnScbYkiPc8apF7castL9bsaKLLGi5SZlD4plov6Y1mPAE8RxLKqO5V4MolFMbHKqn9ZDTum5oRqBwu0/rWQnJeAuxCjxOZOft7sfVRUtct8VQeb6Q6hT7LK3+HCYuqm/ljk0m5txRYA5ByqGAMb6F87qIPvBn2idhE0p+WraJJakhD4RKtblm/07B7PPuSPeZGzPAWtmcaFHI3D4pU6FSff79tjU+YqCa7lpECG1eMzL7BcKFv86WvbEnLjQs5gn2Y4PgChrtbQOdMCT+orGU+IEphNWORkuIuRuGRXWlQ/Z1O2aMMgksAizOujtHkB7WCvSLu44oXJaxHc8Aj1Yb87KgZduQQhhurHtFs9Ba7GeCJUfPsfohTgpp1PomHF7/o78nApOOjb3+uNAQWn/3EncS3iwM7QpBotliMuqjcI6mzY8G0T7lYbfBUsFhGS6HZIMj30nCi9jDW1B8vB1YEfTi9gL5LmiwORl6iN/hTl6cVphA9cTTxVEvMF37H6aiFQAWIEpKXjjmnZVyzAhPRxYZfUZ58JXI=",
+  "URL": "https://metacpan.org/release/Return-MultiLevel",
+  "LICENSE": "PerlArtistic",
+  "ARCH": "any",
+  "BUILDDATE": "1592736796",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "perl-data-munge"
+  ]
+}

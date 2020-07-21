@@ -1,0 +1,23 @@
+{
+  "FILENAME": "fvextra-1.4-1-any.pkg.tar.xz",
+  "NAME": "fvextra",
+  "BASE": "fvextra",
+  "VERSION": "1.4-1",
+  "DESC": "Extensions to fancyvrb, including automatic line breaking and improved math mode",
+  "CSIZE": "830788",
+  "ISIZE": "903485",
+  "MD5SUM": "802e559aa3f0aff09aa800faefa38b00",
+  "SHA256SUM": "b997099105844ae9238a19ce9226dd96972dfed3040669dad688b90d319e9365",
+  "PGPSIG": "iQEzBAABCAAdFiEElihV8HLHoBhGQFhk/PPIy1z5yNQFAl3CsWIACgkQ/PPIy1z5yNSHkwgAt2Vn4pLLUZMeuTWHzboj/dN+xtY3jzaEcfU5N+F2rKOHbnGeJfxIfPGGs+1YR2vVK4z2oQ8OV1wJeaROF47gdpRblVKKBU+Xckp6cy8p3tz0Szi3hLCuKOJZ0WNhNL3tWuWDpWt8dTvwV/kY3Ib4bl5Wec9AnUPC9B2hvLHqGCkFxONZ/IHfoi51Kvpasz01/9Iqj9NlN0j+sO77tDzOcWHIN4XmyBn0+u1PwQIn6j6ewfpDEa2wtQOLOcndpCZqdfmLcGEFwVQzZuqy7dQz12eKHuFB8csB7xyMpZpLOIVEU9lX+ZUNbNDOuAeQvcsL+l/x7vX1bLux5P9WpcAM7g==",
+  "URL": "https://github.com/gpoore/fvextra",
+  "LICENSE": "LPPL",
+  "ARCH": "any",
+  "BUILDDATE": "1573040399",
+  "PACKAGER": "Alexander Rødseth <rodseth@gmail.com>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "texlive-latexextra"
+  ]
+}

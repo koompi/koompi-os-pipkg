@@ -1,0 +1,23 @@
+{
+  "FILENAME": "python-ujson-2.0.3-1-x86_64.pkg.tar.zst",
+  "NAME": "python-ujson",
+  "BASE": "python-ujson",
+  "VERSION": "2.0.3-1",
+  "DESC": "Ultra fast JSON encoder and decoder for Python",
+  "CSIZE": "41327",
+  "ISIZE": "110784",
+  "MD5SUM": "5f8bec692f5378043923a4e3679f8ea0",
+  "SHA256SUM": "6f17bab4ad6bf0969c99157528d8b54d6506fce5ffd822adf9d94c82f66fddbf",
+  "PGPSIG": "iQIzBAABCgAdFiEE4kC1fixGMLp2ji8m/BtUfI2BcsgFAl5/ezoACgkQ/BtUfI2Bcsg7pw//Z0cFPv3jdX5RfmDXWp709AghFpAgyWrGKMx1BBDS5p9jPbzQPyh3VxoW2UIvHK/+y6e7C02pUj4t9l5ZJa0Mc76D8WRwBJRocNJUE15OLQ7BE/jTenHf0GFIOou9MWD/H9kD2bW65+HqhxPSoFCK8imxKMohDdYgPsvbKTcEjvJjFSd2khKIw+CGNWdTh4iA+idSTibf/vfiMt2APkInQaSz+G5Oy6aFeiEIwbKeAeyyno95z2rcX/01nuGxLwxFLoas8USuQ2fg4xrSyT4qNvL98KpgydRq92mYrBoW51JDp46Nipz/BZAkjxX8gx4IwOZZEyeRQafQ5N80nFPRVmRZh6HemlPmElpHSL8D+DCpGl9bY2SjTicE56Xg8LMLHojwVWNAGAnq36I74Hv5gs/l9H6x1BMYYcRv8tmunRQSxgKzWYrnlbNmj0gtLn3EWoR/I9+HxsAubxiSxoMg7rLnwIAm8TWPHQwj00ObBXO4bPbN75TTMYLNesci5GMyvl08Xy4m/dyDMd6g4ENkD07UL46x6lLz7VchquaKkAoidBj9APlnIY0Fdc68Or8kA7h5N6n1LCVIwkmgroAxbg0eWnZV9CXcRvrtHQNmLJZPzImIAvpDQfYE6czw7MmwQaIBekb6OqFOh415Z9G4dQvtr96iPW92KMmSIx4JLTw=",
+  "URL": "https://github.com/esnme/ultrajson",
+  "LICENSE": "BSD",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1585412868",
+  "PACKAGER": "Levente Polyak <anthraxx@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "python"
+  ]
+}

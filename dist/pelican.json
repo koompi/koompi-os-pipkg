@@ -1,0 +1,31 @@
+{
+  "FILENAME": "pelican-4.2.0-2-any.pkg.tar.xz",
+  "NAME": "pelican",
+  "BASE": "pelican",
+  "VERSION": "4.2.0-2",
+  "DESC": "A tool to generate a static blog, with restructured text (or markdown) input files.",
+  "CSIZE": "392888",
+  "ISIZE": "1248960",
+  "MD5SUM": "d054cbd7207c023a5b81a7c9ceed81a3",
+  "SHA256SUM": "a212177195e8b8a81a75287cd093d226443551ac48cfe04db974a42de6d2c501",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl2/v74ACgkQeGxj8zDXy5LM2Q/+KuhtLwwCEFB9iS031X/wJMHRvIqmbmiX+M33pDuGRLwKbqIAIa7ukhlPoiljyxxr/GDtIpiKqf13TWBqNbGtaOhcHVy0Ms/ehFej2VTFUYy3LrIY/dRnvT7mVNV9Kqgywy8r9Y9JCwBpCd1TKrY1k5dLA1XGawBTUPHrzF+Twloz65/24q6waNRTW49Xw9F8hl4ojNFSZ9TrbBlwgPGnlH7g/NL+TBvhq511T72t6eqhS80bNDDPK9SZz81ddgNa24f+9HxGseCoxUNtw4gEGelVFLKjjOn9pPyIPWjS9WtlfVCl8wTiTkQpvaaT9POgJf3uTqOelEhbBDKq36gJtc9Y4cQ8oY3EiiMLrZKaO/3K/amWWWC2xa/Vs7Zxe6waoTWDykrLaKbFO4kOs2VWaWJJ6xHqFQlRKUQBCm7aCJyFmrwuRhKip3IwFiwvWssivF0zzbxlGCAsP93CPeww9MX/kFfo6RPfhli2XKOAEucHspoG1VGriaiASeroRaFPcMk2zPBv6PYGp+TeY6Ip+UuDjnTZBsxl3e5K9vU0zsahrJvokBmUD3UVrLRyFvw2I2KDyliDXXq/3GA2VFiM7usTbVbrte3+tJwJxBidfm7xtT53fJqj5axOZeANhiSzWvMicAraiuQRriZCUAzBnG0tyG7pxp507apSnU0B4Ng=",
+  "URL": "https://blog.getpelican.com/",
+  "LICENSE": "AGPL3",
+  "ARCH": "any",
+  "BUILDDATE": "1572847501",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "python-jinja",
+    "python-pygments",
+    "python-feedgenerator",
+    "python-pytz",
+    "python-docutils",
+    "python-blinker",
+    "python-unidecode",
+    "python-six",
+    "python-dateutil"
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "FILENAME": "bitcoin-tx-0.19.1-1-x86_64.pkg.tar.zst",
+  "NAME": "bitcoin-tx",
+  "BASE": "bitcoin",
+  "VERSION": "0.19.1-1",
+  "DESC": "Bitcoin is a peer-to-peer network based digital currency - Transaction tool",
+  "CSIZE": "510774",
+  "ISIZE": "1318579",
+  "MD5SUM": "bb5a29e1d91a1a5af9bd92e9de37f35f",
+  "SHA256SUM": "2eb9c7214983cf6fefbeedeb98cb654f698f33e1a1a6f186588342dc84b84503",
+  "PGPSIG": "iQIzBAABCAAdFiEEM+u4qOHFZTZFsSMqRaZQ4mOMU20FAl5g5SkACgkQRaZQ4mOMU23rbw//WvguQz+Ztdv008Ado+FVLbUZjD8BcbFIY/k7j3rVfiqlllvLvlPBzrRpwsZjl+dJVte6yhvgiaYWkBWb4nKtNFkS1yzQgcG5AqZZFNoBnuSjfYEua7p5vltQxUwBFvQMDpgx82dL4m4IEj0AvIGLofYhQhxNQdbVoT9fU3vJghs0frxF84TCeQKqEZVA7YcYSHnTUjIisAKXUuuBOqZoJ3olqhLK9jqrgWMUAB8BJ8pWI9Wd16dB2Yl+r00Lu7W6u5RRwFYuwmRC5NIN+qhOY1NvWljCDth4OsY4RwAhDfd6i0odEsqvTvniqvHaUZCOL7vQVhEfWLijUxHziiLeMM7nHUeOqettGshn1LkgLCowXptwp2BC4Nai9y9Qrwd7xmjvXiVOQh+IlHJW9kzyfZFgP2/5SyRTn6kHckNB8672In1Wz9azYFs2SdBEiE4tWLXIMjjZ9t7g4QnDIUzvdF82qOXOAtibj+GkbFc3o9HexkJrUKZHPk9a0DlaMsQ6ICjiqJ/xlI/bC2PRLqGSzYnFqzjxtWHbbeX24Ut6d8s1Yqj0ilPUnyMPZJkLDg6TquO2kiCAmsJv9j2VnPsZaNha4GovMJI1o1TuU5v5s/tl3knQ5+1JdDxqwfNSps1P6gvrmLmlH7w9GHDMcrGE5hl8aun5vsGIZoPHSi9VodA=",
+  "URL": "https://www.bitcoin.org/",
+  "LICENSE": "MIT",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1583406850",
+  "PACKAGER": "kpcyrd <kpcyrd@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "boost-libs",
+    "openssl"
+  ]
+}

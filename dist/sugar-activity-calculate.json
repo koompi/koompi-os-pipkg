@@ -1,0 +1,23 @@
+{
+  "FILENAME": "sugar-activity-calculate-46-1-any.pkg.tar.zst",
+  "NAME": "sugar-activity-calculate",
+  "BASE": "sugar-activity-calculate",
+  "VERSION": "46-1",
+  "DESC": "Graphing calculator for Sugar",
+  "CSIZE": "274638",
+  "ISIZE": "2437841",
+  "MD5SUM": "f3f5d555496423e7f708bbaea4c8e7bd",
+  "SHA256SUM": "b22fe92756d55abc4362e72109abfddc51f7cf3ed6a5299320177db02b117eb9",
+  "PGPSIG": "iQEzBAABCAAdFiEEzgvecadZqH8j8PfYth284QkBwWMFAl5mnyMACgkQth284QkBwWMnaQf/YNCv+tzJ539zQe0uEvQ01oPwr0WQzMFkPergPvTu/dtwhvdMo77QHY6FqaXlpAGpL3pzXylYz7O63NPeuHpikcyx5lnsgCuOAkosBfM8e24uQlJrMHhzTqU4yvP8mE6l0noXRH2WLqggu/h4PE3XCqhALCu/slzOnD7Mzkf+9HwMmgazFJf5kUroCsrzXm7y+9xLcwohK65XO5OxWAZcHHOqbWwlUrroyiy5tlE0tY9Vxyy92Qiic86mihF5zFIh2tFSD7X+kN1rQxMRYjYun3YW7mIfRdibVYOwYHHPDPpWA3HUlcmI1jiL3PynC1MLhrjwO7Q5jRNMri6ABL9Bkw==",
+  "URL": "https://wiki.sugarlabs.org/go/Activities/Calculate",
+  "LICENSE": "GPL",
+  "ARCH": "any",
+  "BUILDDATE": "1583783566",
+  "PACKAGER": "Balló György <ballogyor+arch@gmail.com>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "sugar-toolkit-gtk3"
+  ]
+}

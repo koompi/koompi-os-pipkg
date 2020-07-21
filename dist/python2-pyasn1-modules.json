@@ -1,0 +1,23 @@
+{
+  "FILENAME": "python2-pyasn1-modules-0.2.8-1-any.pkg.tar.zst",
+  "NAME": "python2-pyasn1-modules",
+  "BASE": "python-pyasn1-modules",
+  "VERSION": "0.2.8-1",
+  "DESC": "A collection of ASN.1-based protocols modules",
+  "CSIZE": "186718",
+  "ISIZE": "1926312",
+  "MD5SUM": "8d0553082e3f70e6b85bb1ed9e522bce",
+  "SHA256SUM": "37118868c131f2ef8335b258bb49dd3647c3ee048425484483c7591df0c8d744",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl4aAgQACgkQeGxj8zDXy5LXnQ//ccxV0f8oEwHcbGFsCiGXvWjVWNP6z5hiCIBY7CAC8Ef82doRlZTzuc82HQUZHXvGHZb9Zzz2RIGcQtZ4MMdeHsqQ8bFWd843j++TggR5m73I/efCJHTMd1EwR/ykD0ckWTnn0e18/5QOmEokC4F35n7NgdmdvOWc5NnAMcXRvQ//6tO7JtuLF9SWwswfTgZychwAXC3xagHvVM92SHyXDNxqBfB/9Tr/GaVHoI1+xqVjYzH9Hw1j28yrUG5fEZgEHsjN6FMCe/rEbmQolv+KeNh7PZG/1Ci68b9YvM3VEtkibfyHjB+KHMdKZRj6caZk2X8VFm8tf1XiesMuB1Q9cimzjV9OFoNJeZ5sKq8kCx1z+AYHVGwmkq/4pzKm3GWCplt1ekeIpoZlYDWqlKU0AI+TkVTOAR9OtcyDI3O1UEB7GY20LPKB5ee8ahSAVU3ztBn/v40MKMlCZ+FL58foV9fgYRjaR00ZYyKmtZZO+MW4IbGCluL6xWeKIQS/jN24cNfLV2FWczOGnNNnMDUMzjTw0aULKsuELsiBlI+1neDjTmnoyzVDe/y/fDR1Emupxeo+/026k2WY0orKamwIr+SaiR5UA2Lpi6d18y5Yk7yw9yD0gf7FwC7fv3Jv1t76bnFnwVkcZccu5T9VfvyZBSW71qfN1xfQL0QqiKdTxtg=",
+  "URL": "https://pypi.python.org/pypi/pyasn1-modules",
+  "LICENSE": "BSD",
+  "ARCH": "any",
+  "BUILDDATE": "1578762550",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "python2-pyasn1"
+  ]
+}

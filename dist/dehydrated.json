@@ -1,0 +1,24 @@
+{
+  "FILENAME": "dehydrated-0.6.5-2-any.pkg.tar.zst",
+  "NAME": "dehydrated",
+  "BASE": "dehydrated",
+  "VERSION": "0.6.5-2",
+  "DESC": "letsencrypt/acme client implemented as a shell-script – just add water",
+  "CSIZE": "34078",
+  "ISIZE": "106153",
+  "MD5SUM": "0cec1511b2d682d48607e2104b1ae499",
+  "SHA256SUM": "e7ef351c44c1887e1a7cbde42962948041c249926f3c9a1c73c19f56b6c7944f",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl8EmNcACgkQeGxj8zDXy5KIcQ/9HV9PZC5ToHXZwRzh2kOkWJNRGLyPgLduXMAfTVIKraGH4rqAdLbIFqIf58IND+jh7qKX4IoPeTe5uSDuZ+rxTarKWpH5som3kq1LggcJa4s5l1bzhTuGueGUZuaqPFL+bcf/xKKNl5CnZISPjRAtdhh/kg4FmXyY/FXQJMbNOhnCK//QNHUSGlWBeWBVC1O2nFrecNigqdy4bAxz/YKUsBh70Bex4qpBiKoUewIoZfFjUrTX5oRJ3OD43udzSB7DmHKcF0LglQt/iGbP9bElHIXk3oxW46uC10MoJxnfFOpeVLao04CAIKW5wzd1R9A1SFJqbU6gFAsxGV9YPrbcEayr54yBzJx8w2ioL+6lLAX4A7e6hIO+BCNXPIlDG8un402QcThp4LxjcsyxLy+rAkVGUqCpXge+SRHdPDzm3iR1htWAPAoAXXVbZXvHstM6ZG6lrtERqaAIOc206i2cd4qo6Lk0V85vE58s3jrzFpjA6EKvtry3mNul8FBgFFAHJwG84MdKlzIk1fiPmN8Z23auQiGuFUtJSIlWXb7ZNu/ZQaylRby2NXkHZmJTE071os3HPCL9Rb7nuH2idBaP2ucGm67HVbAFzZXnmcOOTqW/wKe6SV4EKMTZ3yQcCd1WRlnWdjPcib0/PfTMcMiRB+sDEJ9r61heRj3BNQf2gIk=",
+  "URL": "https://dehydrated.io",
+  "LICENSE": "MIT",
+  "ARCH": "any",
+  "BUILDDATE": "1594136731",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "curl",
+    "openssl"
+  ]
+}

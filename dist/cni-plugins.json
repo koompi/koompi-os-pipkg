@@ -1,0 +1,23 @@
+{
+  "FILENAME": "cni-plugins-0.8.6-1-x86_64.pkg.tar.zst",
+  "NAME": "cni-plugins",
+  "BASE": "cni-plugins",
+  "VERSION": "0.8.6-1",
+  "DESC": "Some standard networking plugins, maintained by the CNI team",
+  "CSIZE": "9032346",
+  "ISIZE": "65506357",
+  "MD5SUM": "11678b6095e2387865766663196df04b",
+  "SHA256SUM": "3f4e421f4f44a0ce8df50b811380a3825e37125c34c606b95251b052c6aef68b",
+  "PGPSIG": "iQIzBAABCgAdFiEEwQA0ZnZjToDJQPuenAL/QZ/svhYFAl68Z9EACgkQnAL/QZ/svhbJYQ//ePKh5K79G2+XW1xzbUisOHu0c8Tcvgc/S+sZo1HfjafQCceFRWKz6b6WQNnhldBBDt2hYtxb7iSjkhYWQgtvRd61u/z2vyZyFZlsKKv94+u1Ony6KI+ddx12OdQomHq5sXNeMkA86hun+glUc5ewZp26U7thzkz+6rBOkzYhKeOIL6z5A774gT8vmVsPc+PiPsc8T0yjH8JGShYIvmi0BpeZI9MId9K6fd2NTCKtExrJoGaeQvXK74FJ/qhnUpo+FCXAH8HF7CjxHpXdzfdl6OKRwUeDtU9RZn2TR6DhfWgaZhLlMM9W4nPchQ9H0+HTZSbBVp3QfmDNsInF0FbFMkrCdJGHvn2xO9LoZwyOkUe1xfwPK5AJ6NV9Wjc0+ZyHDAA1+DlQZeQy2bu7YCzoczg12zkgbFEFmyOluuE0p9+ASYDKAyyV/UldoZBcSFnWuhCbx1+rA3veWVPLUXgdB0JXHPIit1mmQIJrNSIGfj4Te0cn7Mzm8tmWkD3y8RAs8nvje5ClIBvGesM63zSFcnkb3ejHVfUuzXYyA6c/HCkrWHU69/UijCvyJYk6uUZQPPtVQYcOIsL+YoNNuPNcram/MwCLRlf/Xxx1TIPebWDonc5xwRTjWngQpY/zGjxbOIiH8gX/6i7O7WqOcRZfc1meQC4gWxCJ6Sydu3MdCJ8=",
+  "URL": "https://github.com/containernetworking/plugins",
+  "LICENSE": "Apache",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1589405575",
+  "PACKAGER": "Morten Linderud <foxboron@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "glibc"
+  ]
+}

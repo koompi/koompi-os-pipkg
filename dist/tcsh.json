@@ -1,0 +1,23 @@
+{
+  "FILENAME": "tcsh-6.22.02-1-x86_64.pkg.tar.xz",
+  "NAME": "tcsh",
+  "BASE": "tcsh",
+  "VERSION": "6.22.02-1",
+  "DESC": "Enhanced version of the Berkeley C shell.",
+  "CSIZE": "343776",
+  "ISIZE": "1084702",
+  "MD5SUM": "a8009349ea35ea0cf39e28d30b8509ef",
+  "SHA256SUM": "16bf116a925a3e3bd8b7337aa8cf9054eb7a6d497f963f7456efbc58a45f35b5",
+  "PGPSIG": "iQIzBAABCAAdFiEELjbYYgIhSC/EXLfyqRdkdZMmtEAFAl3qq/kACgkQqRdkdZMmtEBvjhAAxUOfD85XvyQlWZ+NVzy02Z2LQU6qPLO3WQGko8mFbkhu+KFxqWOTrt9uqJPsep7wxroMzALrbujBn5pw5Neu7JtyE2v5z1LBTNV9x7Bwtdbj1Otw2vt+1e336Dj0zYLLKhIRrmRjXnDrhao1jB2TLfqtbwMCp2MwOHxLyKx5iMteBCJkPgquwXLmUYwV/HOFFJVbe2fNlufEFIIpFcSpK7nehM/nS03TdXaa+it0qMkBwtuLEAM5+4zQht/rDT9hoOUREbJliPCogCVGY+aEzhcORVs7djCvuAwuKPATNpOcOMafoFv9TPfLBuZ6x7MG5VX0ZXRXwNw0aoHBhgQducEiS7MDvGVLQNDdm21FiZHahHXJCcC/cEx55M3WZ7Xh8w6oAWu9FAZ4nECQZK7etTYjf2uLRMv7c9ey1/sQoE5YHnh1gbPxv9lgKVPir+wtWAkdHxhZckV7jCWkSnIWAbNajotDA6T5oVuiMlVPXy7o4BKrtzXp2hTMS4++jMbfO/9E/CH43Fq+qKweGRVc4cf+gpOeO8U7JaX0MphrMvbxDmdyJ15KBieva1pukKHDLMFGMrsp3ckZICrBV/Ry+ty0jhPLJrdnkhY9XBk2G4/TfSffrSMU9pN0zaF63s4uTQrGDGd+ai+mkun7B0N6DJdxlEXkDSmlaaxyw4Ruvk0=",
+  "URL": "https://www.tcsh.org/",
+  "LICENSE": "BSD",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1575660490",
+  "PACKAGER": "Lukas Fleischer <lfleischer@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "ncurses"
+  ]
+}

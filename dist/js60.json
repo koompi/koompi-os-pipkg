@@ -1,0 +1,26 @@
+{
+  "FILENAME": "js60-60.9.0-2-x86_64.pkg.tar.zst",
+  "NAME": "js60",
+  "BASE": "js60",
+  "VERSION": "60.9.0-2",
+  "DESC": "JavaScript interpreter and libraries - Version 60",
+  "CSIZE": "9801830",
+  "ISIZE": "58074340",
+  "MD5SUM": "5c444a7e6836caca353814703f73b1e2",
+  "SHA256SUM": "97090180bb037c49abb764126e5fddd6887a18e79634780e5b77dc6b0dc9bb14",
+  "PGPSIG": "iQEzBAABCAAdFiEEghj4iEmqxSLpTPRwpekojE+kFfoFAl5FfL8ACgkQpekojE+kFfoRcQf8Cb7kFRznZRkPw4lP7SjtyA0sWDTNtr2tuiG+hSKhKB4LpsXzcNOmDUxEEnJ+GzPC88aCLyIctFCx8pi+ROv0/DUetosrmZzRyQBOjolxO4h1PCzRuG4hjdY8tP80HNLmpzLbqSjSBj+1giBqQ8ZEOiCZSeaqrVCQYGh19wjJpEkPwflnBXHvk79Qe7syYF5g3Wn6iwodnZpQaki6nyMREV6mrLHhv+uo7N9PyQkdKbo/jVXVhAYnonmfEr4OAElkRl8hI0dfE3rMCpYKqA4BCZdIhZvkoWrv3yOb3YB2lfwuHbI09AO0OpzVJKffO3Rd2mF1xxVcvrxYb33rbMJq/w==",
+  "URL": "https://developer.mozilla.org/en-US/docs/Mozilla/Projects/SpiderMonkey",
+  "LICENSE": "MPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1581611083",
+  "PACKAGER": "Jan Alexander Steffens (heftig) <jan.steffens@gmail.com>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "gcc-libs",
+    "readline",
+    "zlib",
+    "sh"
+  ]
+}

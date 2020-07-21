@@ -1,0 +1,23 @@
+{
+  "FILENAME": "xprintidle-0.2.2-3-x86_64.pkg.tar.zst",
+  "NAME": "xprintidle",
+  "BASE": "xprintidle",
+  "VERSION": "0.2.2-3",
+  "DESC": "Print X idle time",
+  "CSIZE": "4726",
+  "ISIZE": "14088",
+  "MD5SUM": "195f98658cfe70f0b3cec6337f57f935",
+  "SHA256SUM": "05a6642ec69a2533ba1e1e26c670f49c6aa476c97be1ebf5aa818478deb09ab3",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl8EphUACgkQeGxj8zDXy5Lydw/+O0XM3THJQSXfNZTA5PwH5xwhWY7S8/h+VA1XS3OiWYWUL/dxWdufPOLO7YFfEjezBi3VbF1/ddLFwPcRhoubBEebVZNawO6udbEffJ9mPeXSSaAq0kWDyBi3Srnz0yBOOhVsiUDV6AOdgpoDwXt0mXGjrdFH7o0xA1Ig0/RQDEoBhECg4QgIc/XfzVlCKEdX0n0acq70ChP/FIhOLZgaAAw7tuq2acXgaRE/FwhyEGkhhdWGoNUt3RN7dlxnYXYiMD9LxcwY3lX19YdqqwGxzxuAAiJZfMhgNjqt/nUW1tRB937nTmulChidAxlqFQlWzxeq2YFaDlB4YJN9r0C+zrEaoD3wiX7bHZFQv6w/fsU0v37sP7nzKyaWOgmFYR9Q3I78ZXU4wzct9CWhtMwePtTHAcsctwafJ+SFEIrgCwl3D8FpldPzCeumfmSXiyHlNod1lnDhYYs+uur+M8qouGr7Kfvgwk7DrsdAQCFC+VxZzOvgDoWfH0zveG2UibrMueXSdpxksaJF7LgBm0fhIBQsQO351IFFyl+yfMf4SF9CYUHeu3hx17idKhbHp6a3u1pcO1/sIWhvkMHAm9duOwWbgnwY4MZVxMhEHLuI+P+NbiCy6O6Up6mP8QPBbgVV5hAmObrQWLBjhMeK1giT9Mvllyjqp5XxJyhMKtFtcg8=",
+  "URL": "https://github.com/g0hl1n/xprintidle",
+  "LICENSE": "GPL2",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1594140162",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "libxss"
+  ]
+}

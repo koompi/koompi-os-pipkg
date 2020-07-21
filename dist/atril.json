@@ -1,0 +1,31 @@
+{
+  "FILENAME": "atril-1.24.0-2-x86_64.pkg.tar.zst",
+  "NAME": "atril",
+  "BASE": "atril",
+  "VERSION": "1.24.0-2",
+  "DESC": "MATE document viewer",
+  "CSIZE": "1555744",
+  "ISIZE": "11376458",
+  "MD5SUM": "fe7c52a83d6ba7ae06514d71c8bfd0cd",
+  "SHA256SUM": "58c4f8d3c465c11c7ac21add28852d3b9cd94646155709516c2d3399c0f42a78",
+  "PGPSIG": "iQEzBAABCAAdFiEEzFln1AlbTztC1F+ggaQC1POCu70FAl5WzBYACgkQgaQC1POCu73u5Af7BfO1pREgENpPJVQtEjQkA5dvdTjbUkiCPcnhLSJALyD+au7oFmCMS2RIMlchxm5MJDXk7gTvEwxYD0yK4mIye2LO/+ndaesaS5Q6Wxy9fep0BEenhAFVoh4V2v0gfSFvNqX00PFmXpWeQSZkosMDRWSnSNqmIMfR7GxPefHyKgZ/oulT16OSeAD2sOTdYa4oYRX0fVFPzFqkMu3oPJmVw22bc/L7A/XonbCvYE+QFGpYWSDYSghgjnNDn4yLEYsF+K53CjflruOuhyJZ+bsAo/lWMZEaajAhcqYC06S6BCDat/MvP9mEt7qOel4Da5v7H5WIMt+6rV70pWGqISoxhA==",
+  "URL": "https://mate-desktop.org",
+  "LICENSE": "GPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1582746251",
+  "PACKAGER": "Brad Fanella <cesura@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "djvulibre",
+    "libspectre",
+    "libgxps",
+    "mathjax2",
+    "gettext",
+    "poppler-glib",
+    "cairo>=1.14.0",
+    "webkit2gtk>=2.6.0",
+    "libsynctex"
+  ]
+}

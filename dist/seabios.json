@@ -1,0 +1,23 @@
+{
+  "FILENAME": "seabios-1.13.0-2-any.pkg.tar.zst",
+  "NAME": "seabios",
+  "BASE": "seabios",
+  "VERSION": "1.13.0-2",
+  "DESC": "A 16-bit x86 bios",
+  "CSIZE": "184616",
+  "ISIZE": "1093676",
+  "MD5SUM": "9ec2f22fe2ce9eb4731e4339b274e5c9",
+  "SHA256SUM": "79e2812175ef899a99cc26b83e36035a52d3a3cb5bd70892c9676d023bc3415c",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl6/t+IACgkQeGxj8zDXy5I5oQ//dWlC4ZxzrtB9aM18XJiwPXsEQNJhOlab4a9gC1/vD6yKOYH2WztF1HAxxjjW93jBkbbkDKXndK7o7lVUhMhkmzqDN04rMOabZ/8nSzCxehtnwvtP5G8+5uaYUDmzMQaahYRGsjgah1FyFnOkGsZXrd33shQc170ln5YFuzaHw3HfW1tIJk8S22c52cvNJHB/8aMSVn4HG6NGc+ayR85uQrJUhlHWNLWUwqXoayQFkb7p1SA10DEm/MKLNhw1kOwL4ytiTyjpSHxWhYsj2g3OumYhBhdNmF0IjcuYRgfL2lQ3EvX1IAOBoO7ctxMJ1VXn9/md5Vg0qK9rKHz3MAi0WQT8KI9B/jEiOrtQMBugevdaCrtJmQWaguqvCO8EWOtN2eGK8RzXBrnIBx0TCjByp3ZKjZ06BeW9jh5zTm/4cZxUOSYcL8qC3KhualPKW6U5/GiiUdeEhZcttwAJ6tpgZ0be3gfjgovBLMx5z5RHKp5FGJqPBFk17iTm0z7Hi9gzsSnVxuqCstLtMSZVO4NKzcuoN9JmDcUlkk6du1QkFcARjlwJqHqj0mkRvyllPfWfrLrhSyEnEMvKcrquN0Z4bx9/UojhVa7JKBYo6ooYoovTIzweLZJT10/C7LshPk1v4yYne7/wDT06omVQsXDRVBrSpay/YbzxGTTBQHq42IQ=",
+  "URL": "https://www.coreboot.org/SeaBIOS",
+  "LICENSE": "GPL3",
+  "ARCH": "any",
+  "BUILDDATE": "1589622591",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    ""
+  ]
+}

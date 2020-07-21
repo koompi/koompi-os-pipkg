@@ -1,0 +1,24 @@
+{
+  "FILENAME": "procmail-3.22-10-x86_64.pkg.tar.zst",
+  "NAME": "procmail",
+  "BASE": "procmail",
+  "VERSION": "3.22-10",
+  "DESC": "Highly configurable auto mail processing.",
+  "CSIZE": "124306",
+  "ISIZE": "250526",
+  "MD5SUM": "ea132ade58b3a1b8e942b353781dc530",
+  "SHA256SUM": "3ccf5125e3ecbb1922f3d52b3f6d2a2a6a0810c466e0a01416acca38e252d0c7",
+  "PGPSIG": "iQFIBAABCAAyFiEEZkWwqMcAXnjbHXhk+Z/+D+rpmb0FAl6zlakUHGFsbGFuQGFyY2hsaW51eC5vcmcACgkQ+Z/+D+rpmb05Awf+LqTWufFMrXCJ85iFKV+p+99ILMvZjYSDfJXeJV9meuOFq1oedxE1lCgRrVP5K1H+38ddQUppUlJQrHdHL3uzs4919u5JBUaRCUljSexWG02/rBJ4m2gfhOJFy8/zK/CNZ3pJHg2M15HZlFzo9XlyThUJRumns+HbNMJtYGgRwfZLd3oQSpVR4NgFhtIh6P8sW2Mfbum2WVu9WdF7IdfcDqFJW5gpqzMXKH5o1/avxYbDyII89HQZa+Ip9yR570HaMASVl1dWeJxlTERKKIZc1kard49e9/LG4wdHz4BAFiB8eWv5KwmG6NSh/TZ7VMRZW0/4VQvHYoMIXobjJjrdKA==",
+  "URL": "http://pm-doc.sourceforge.net/",
+  "LICENSE": "GPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1588827473",
+  "PACKAGER": "Allan McRae <allan@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "glibc",
+    "sh"
+  ]
+}

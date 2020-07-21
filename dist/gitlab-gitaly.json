@@ -1,0 +1,27 @@
+{
+  "FILENAME": "gitlab-gitaly-13.1.2-1-x86_64.pkg.tar.zst",
+  "NAME": "gitlab-gitaly",
+  "BASE": "gitlab-gitaly",
+  "VERSION": "13.1.2-1",
+  "DESC": "Speed up Git access using caching",
+  "CSIZE": "107878147",
+  "ISIZE": "376334760",
+  "MD5SUM": "fcea7c75ad8b7ed3e9ed1a348ffd08b1",
+  "SHA256SUM": "dd88d5f61fc00db9726a4df1e8752c9cb287ee988504267460ee532139bef9be",
+  "PGPSIG": "iQIzBAABCAAdFiEEjhmSFnRl21+wRVV8sChU7XU+Dx8FAl79KNwACgkQsChU7XU+Dx+WIQ/9GWs6j9z0NHCqRHChsYWmkGpQ6SbGaLZVkokRGFfOhsaWdMtQYV/mdmNQURPAG34ZJS690NJGXyMAmw7yQgtBrNQAS2u2xbHxGhk3UhK4WM5+thf9yU3Y17iezmSMEbgZHZ9e90zDA5iwdMnGuTAskZOpnvXueOOkyX0zKZBssEFw2tiyEnpglBRlcRZz1pbTVQhFBx+m7HZ/fB0uaI7HqkHtd8uEkjxaulGb2ygMIGcXbmVsvo/ewuKZT/5LVlA374dbrlelkMr39N3sWngSBnqXbLArb+UDcEzScM9JZqWMkH3YXc3j2tpst89DotbNp2UDzqUytcGmtKcpgmjlKPH1X9KeDZhKxAgUxqbR7kgiHPdzVE7NWJypr6UaNt/foLhacLqgg+YQmoEOgOscbiciZfaud74jz63pXNYMPP71irzWF3RrrkZIjgLQeVRJXDXImz9cZpJ8Q7dic0FSIfZSI+2N3O/qChh3asUHSmWCWXgD2kgtgSq+r8Fq24YbQ7pTLqHhgNgk8xxBX2jVd6Sa2EDBbPBgKVrUG1t7jfJX9Sy1+sAtfxA0uPuTf2clCak0HO/57Ks+4uQvCv4hMjorFD2ntfRF9OY2WFrJ2z5Bsy+c/lliBG7rzDLySsT1WtJhixeD4NUHfcfwe+MtTQfT4KbrsqrjvmyVVxNpwSI=",
+  "URL": "https://gitlab.com/gitlab-org/gitaly",
+  "LICENSE": "MIT",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1593647607",
+  "PACKAGER": "Anatol Pomozov <anatol.pomozov@gmail.com>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "glibc",
+    "ruby",
+    "libxml2",
+    "libxslt",
+    "libssh2"
+  ]
+}

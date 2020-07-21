@@ -1,0 +1,25 @@
+{
+  "FILENAME": "python-zope-schema-6.0.0-1-any.pkg.tar.zst",
+  "NAME": "python-zope-schema",
+  "BASE": "python-zope-schema",
+  "VERSION": "6.0.0-1",
+  "DESC": "zope.interface extension for defining data schemas",
+  "CSIZE": "156436",
+  "ISIZE": "1110218",
+  "MD5SUM": "d37d4bbe1f83e5175a5493386f04e896",
+  "SHA256SUM": "fa31b11ac41114819174ea34be80285251ba5bdbe6a940a72b7a6036ac43514a",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl51+HcACgkQeGxj8zDXy5KkFBAAhpf4EMJyNpdLdYYdv/iFN4pGk0/q5qTnRYX56+OI+f/eCBfw2ojQA1Lj5Ozd1wIamZoH3mfO6x/ni3zlKHdzW8wOMQKvVDThBpzFqOMWfqTgYyxqwZtTiWojLSRI6k5fkyGYotJ3hpSYOf27ya2JHyGTqf5jH44pnXIaAzWzRP4HxcOFiG2q/wYgXqrFxNRiHDjnDGw5Qg7Oy0drkzN3oawqpE9mlF7hpe6E9gOxUjdAcWIdXTchuiaeVVxkHRTBue0xG5abzpE8V1YR1zxxpmvpACwbPAuE5MhOPoGj1k4tz2/I/JdjKeSB9EHqqx+FVMbjrLxXbs1Bw+qfxF1Ve1f06/p2MY4wXLs1wU/6CacOWu/Z+/eDsrf1q15B5jRVCiBK+wRn3Uvg3mbuFBWypavyu2eb6HO6+l94+fhNt+RzL9jpIpRz3ssDsnayW3Bfb0O6WpstnBdqQ4Bupt1smg183+OSOz3zP/F/eiDYJWaCFDpVrj0BMdP+vdVJhItS5rkBMMkUWRcpgA9gB5qGb+Kg2n58VwWDtNRLQYuRa4XvGWtOGEjXo2o8f6u0B8Io2eFRKYwwum4AxHwl2cPrxHLB3UPrWt5QvvBBwpbZQTSKudL5IEmuLdxODH6Z6AMfhgIXtsc5VBGYpwNsxbqMZZxesT6c3+afM3/j9De3u/U=",
+  "URL": "https://github.com/zopefoundation/zope.schema",
+  "LICENSE": "ZPL",
+  "ARCH": "any",
+  "BUILDDATE": "1584789524",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "python-setuptools",
+    "python-zope-interface",
+    "python-zope-event"
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "FILENAME": "btfs-2.21-1-x86_64.pkg.tar.zst",
+  "NAME": "btfs",
+  "BASE": "btfs",
+  "VERSION": "2.21-1",
+  "DESC": "A bittorrent filesystem based on FUSE",
+  "CSIZE": "39030",
+  "ISIZE": "114228",
+  "MD5SUM": "ef84ce75b6f6d5d90f25da125377a9d8",
+  "SHA256SUM": "c77b22a66e4056644e09372deb58bcad14090c0e31bb60e6994d621f5189ff22",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl7KrBAACgkQeGxj8zDXy5J3yw/8DgpW49y5iJ5Au2Hsk7vWIkxvDuQAc+uOXOIX8/ZzBJC0e1J7e59eLOiwBMu3syNsbwMw99shojLAkSskA/xJpyWg+G1IhXrcMGN05DUn/xORzW48+TORzRO/1i5EWl8HjgmueEtTG8iEhnfutrJWSD9f9qIYG1K0k8opb+gsonQHa5KTbL+jm/3tpV4pjbPSBVPJxl94nxisERIbu/vcj/yTSuw/M817Y7ocmhef4n/z1vO6m+hMO7HFmhIEv1VJ+RIHSiQ9lSPhxZctOe9Q92ng+CJ563FSPwGEoLf+WQXqx2gKiVIuaHgYv6iCwOVmuguWqozgfFuN/psNQM5Oq52Mf20t/UFkJv4BC50Pd0fS2ZWO47FalC7IBAE1nNwCliS4l6nSijBReyJomTagmyQvWPXqLHO7KcaHbLLck+gV3ZGSSTlHyF506GA/5f4Ec9ce/nxrSLvWCmUqdtyF37oU84tN+2BgI/1cBqUZ7pquG/m78ywx5Tv1uLM1b+BH7QkyHVdCZSDLEgw2El6e0QDvBViJJhPsYf9nxLH6qbqu8erl24rmCi17hXtxxYHzF8nKcS8g1y7U5aNZ14Bx8blGsTYpn7OYOQhhF6hGwyQAytdhJErW1ObjozzAf6sNfQCAz+t3PRUlE+hW+xn9GGVnZtqBpG2Z3dXDiUtrTac=",
+  "URL": "https://github.com/johang/btfs",
+  "LICENSE": "GPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1590340544",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "fuse2",
+    "libtorrent-rasterbar",
+    "curl"
+  ]
+}

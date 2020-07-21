@@ -1,0 +1,24 @@
+{
+  "FILENAME": "nyacc-1.02.1-1-any.pkg.tar.zst",
+  "NAME": "nyacc",
+  "BASE": "nyacc",
+  "VERSION": "1.02.1-1",
+  "DESC": "Not Yet Another Compiler Compiler",
+  "CSIZE": "1430299",
+  "ISIZE": "6505655",
+  "MD5SUM": "df0ec1de414fb9056933489f4883787b",
+  "SHA256SUM": "2bebcfedbbfc4b6df845d5361311c6930b6ba17f9e1aeb4305b73823aec51f57",
+  "PGPSIG": "iQEzBAABCAAdFiEE5JnHn1PJalTlcv7hwGCGM3xQdz4FAl6yxQQACgkQwGCGM3xQdz5vwggAjtM0h2nORhOXQqwsr9O7FVz/39UByjQ9aunBPED4iVU159mh1MKkIMl8EAECpCrxzdemTzQmiL4GqaFcN/uXLve30E/kHF6Y58DVE1YOnACGPBCgqjdSmMTTbFWKs79WaMe/oLy4JBhqPVLpaPa51KHgmFbk4zVct5V3i2R4uqd4RPAvWMDop2qUgH6ww01tPAikXd6F25NLlFhHaZ41yd5YQnnTMuehI/oKbnETXLHOjKqw4QoMwQ/nFNKDbzO9hgHhHNkVnzPseGzamXsgKjS18qX9L6rLdWpfbinhQY/wW1d0cKN+q4GK0xIkLNAA4s3MJpE5TuqkWQolMegu4A==",
+  "URL": "http://www.nongnu.org/nyacc",
+  "LICENSE": "GPL",
+  "ARCH": "any",
+  "BUILDDATE": "1588770480",
+  "PACKAGER": "Jelle van der Waa <jelle@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "guile",
+    "guile-bytestructures"
+  ]
+}

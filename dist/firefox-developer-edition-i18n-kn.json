@@ -1,0 +1,23 @@
+{
+  "FILENAME": "firefox-developer-edition-i18n-kn-79.0b6-1-any.pkg.tar.zst",
+  "NAME": "firefox-developer-edition-i18n-kn",
+  "BASE": "firefox-developer-edition-i18n",
+  "VERSION": "79.0b6-1",
+  "DESC": "Kannada language pack for Firefox Developer Edition",
+  "CSIZE": "495844",
+  "ISIZE": "559055",
+  "MD5SUM": "fd10956007ca199b11244e1dfd1be99d",
+  "SHA256SUM": "aa80889fce59bedb7c13d04a4f005c443abb4b36c4ecfd5aa6515693012a3ddd",
+  "PGPSIG": "iQEzBAABCAAdFiEEYB8g8dG7v0p4z1tt9rFhCz7NvJ8FAl8IbM8ACgkQ9rFhCz7NvJ9aXwgAwbs6EHnGuZFhsRDCpDG1GLVvTl23lmh0pW9RR7LkYbd7Sk/ZRs5elj7f5LYnxSpMdF57b9MLT4g6XElJ0EAEDxhZz14/7dLm2lcePQlYAAaxlmariySJ9y36tMLWLF6UW8t/hoOrIP9Jw4HYt4DHEgtG/lXA973bN9YiAg/CrYRpZG8YB9ARdc74zUGPFJgN92PRvayxPgjzFPhKMnbj80lwL/cBmDenK7B/uxLs6XrirPHOx5n8sGVdlp5DZCxy9sZRaHntNjBAzzDTOVVe2UFcxKFjRp1r7hE513bH075kFi9L1xgEwjBGuf4hDSkgg8J+XiIvpNApJWN5XPDE1g==",
+  "URL": "https://www.mozilla.com/",
+  "LICENSE": "MPL",
+  "ARCH": "any",
+  "BUILDDATE": "1594387381",
+  "PACKAGER": "Andrew Crerar <andrew@crerar.io>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "firefox-developer-edition>=79.0b6"
+  ]
+}

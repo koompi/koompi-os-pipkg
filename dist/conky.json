@@ -1,0 +1,32 @@
+{
+  "FILENAME": "conky-1.11.5-3-x86_64.pkg.tar.zst",
+  "NAME": "conky",
+  "BASE": "conky",
+  "VERSION": "1.11.5-3",
+  "DESC": "Lightweight system monitor for X",
+  "CSIZE": "1003304",
+  "ISIZE": "4875340",
+  "MD5SUM": "921e81a347dae06fd991b16e591c19d4",
+  "SHA256SUM": "12f0495b916824263169e9f632be7997ed35fa2bee96f88146fa0f1f9b0ca5e8",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl7DnOMACgkQeGxj8zDXy5Ih4BAAlFJcy1Xa8GEwKC4kczxMU2tyEr8VwIe5k7h9WRc1hAdB/Ka0YqdFgw0Xj3DECGQ/illZf5umiEPpkNbUmuB00E0/2HV6Gd49VVCnxVMnvFkzKTvvYcT0LSYDDrRw6vFiXyT6Siw2yT92lvdsRf0C5pMOx8L+H2pk1zxoPoNS9byRydTf98CNlEK6Ud6ocAAk3e6IFBsrguhZFq/N7DCCzHNSTgwXTgcFXVoLzj0i4jCWexXi3vaHKi3KecIr6SS5AZL01mi4pzehiLAxjt9mEaGSOP5rO8knvxs4UnESZvtcYnRjBRjIhJGHt7/1onHBr8t3CHOMitqc0UlthtQmR2Rh0xjg5oI9MlKl4CDtxDDqJ13PjeDLvEcaNYfTjU3X+SMO22tMQqmpA2brSm8ZeLnHCInJAFHzt/nILxMjoVy05XcqV0sVwPu+UE16+xNUWvEiMK8d2Hd4x/RtrYEsoa1c7imK7jQJyGJoNSbkcs9/cRJkr8zESgolIPA1B4lq8g4ckuDdoq/2gR16X+Xew7Fr0spOUE9Q84P8VU2TN3jG5VRZu87yp7+OO5PonZlSu5Al8Ywv1hblCm1gdhPfSDhDNBitVVz8pbKVj9sPtRd2hcgQ85QgsTIIhsNXsHvETrKcHRJ870rDQG4Vaw9zYKBkQYDMHhN8cEA9R+b+6x0=",
+  "URL": "https://github.com/brndnmtthws/conky",
+  "LICENSE": "BSD",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1589877919",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "glib2",
+    "lua",
+    "wireless_tools",
+    "libxdamage",
+    "libxinerama",
+    "libxft",
+    "imlib2",
+    "libxml2",
+    "libpulse",
+    "libxnvctrl"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "FILENAME": "haskell-word8-0.1.3-15-x86_64.pkg.tar.zst",
+  "NAME": "haskell-word8",
+  "BASE": "haskell-word8",
+  "VERSION": "0.1.3-15",
+  "DESC": "Word8 library",
+  "CSIZE": "33368",
+  "ISIZE": "134554",
+  "MD5SUM": "d1b55c7e5c68c59994a4042777c471c9",
+  "SHA256SUM": "2d30e97cd5616102d3c54ee4732dbafd047e8c44bffbd34c5f0da4a3d40a3723",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl6iI8AACgkQeGxj8zDXy5IKqBAAjZRmQ8ntULBTJUFAEnXPh2oT4YCXBa5SmNjy09/ZUXqxRvBxebT4rMdutKE1+TdO7tX1Dg7oOjlpwGEkR59LMzOA2pp+owL5guicEofL8chm7QNCUAtGyVP+YPP4kvJea3d3jF7J+PjZbq0IPLIPE3gmvVFH0iR7PlwTJM+SHEzoqE6D5Oj2rWMRZrUlcehizrDdE52nrlaxBMm9Au1pZLuo7/v+ZgVNppSxA1VarU8ihO3kWg+PFEtOMZnIjdtcrnw9sBrq0ioE91rXrm5mMI/q9RcuK8US+KTEFXV8K2lprxk0Q5bks6LP7/8QNFe120UJkMKmXRZiiG0UbBZAAohOnqZz44rd+1N/q3yCD5c2NUJg9JVP5in/yEC4pdDcPzIatf3ZoO6VaOG9NcLBK0IVNpiZCJQHQoeUgeoc3P7odzHK/A/zWTVUG6a2XHDJ7Xbctnzf9VCv2YmNt+QsXXkZbO1gDSi+dX1xgUOlTjPasEoDkkeTF+mCJqv95Og5dR5TM0qRDd+8ksmy/3VI4BG0YdRbKcWODpnR4Zxaw1KZ2Mp7ra5Jul4ljvd35DwXQVJOdxoqyJ+DbyeYBZzDreWj1uqxxcTZHhFA6zbfsFsbBI71imMj34EXQyLaVNTezRtbQvMwhZdJjzcfa1233OoG+VMi7gHydeHBZTqmhD0=",
+  "URL": "https://hackage.haskell.org/package/word8",
+  "LICENSE": "BSD",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1587684201",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "ghc-libs"
+  ]
+}

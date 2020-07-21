@@ -1,0 +1,24 @@
+{
+  "FILENAME": "sdl_pango-0.1.2-8-x86_64.pkg.tar.zst",
+  "NAME": "sdl_pango",
+  "BASE": "sdl_pango",
+  "VERSION": "0.1.2-8",
+  "DESC": "Pango SDL binding",
+  "CSIZE": "10379",
+  "ISIZE": "27704",
+  "MD5SUM": "8a99fb655acc6e13fffefe17dd232b52",
+  "SHA256SUM": "f9324e9ffac8706b131297a038cd954c3f638995df0cd6f31b926560e4db39a8",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl7DnKYACgkQeGxj8zDXy5JQTBAAnibqXOKmPGX00O58VwT/2VyOtBk+WxYYrN6by/WIL07ui0K/BRW5hqh2yv36bVDgdsY340uQIiGD2uPQ650RgvDs6MehGwpOmdnA9XFDAjDDI8TLl/ZjDM6uSkP80lvOjZ8oCM7ImHE6PgFvewHo/w62guyBQ42AaKSkHj2YqVIYPFpCNrC1ZIY3TIUwD56AWXPUH6uxNmWUY5DFHcBvhjk6SGMDxjpxqhVqbBVaT/9jqGxDNF9rKqrlJU/2JqZ0EZ5nL9l2FFbJM4oI60EQpKXVrEGXCMIGsmYsl89LaA5/ius9jNujVCFJpRorlgSBSt4r+njpzkr3vXX9MtouHmhT3u3m3jT6daAaVTeDvsHO04E9BSzS5z6mABo9+nXwqWn7Nv2rq4p1txRq7WEQdUYa7QwxgTwZAZc5P8plT69W7Wm2jt6Mt/nwflDKn/bIIQ8pON8V3YA/fzVQcu452vVOrhRmJTwvR7alYtK+O/eTJwgunRnwCJ6MZcNgaeIYJ5wvRPq5P+GDahPNjU8/2hquaW2f3h7XeQAI/Ks04iNlWhSsozSYC6A+F0q87iNLcAm+Qg1/hUr60gjXJiPf27zNuuCocWCMGjZd96quchC8p6EFHPIGE8QWRw+s8R0GvFzQduowJMe5QHSdRaviLFPXeoBzqm6mjGREFEumdas=",
+  "URL": "http://sdlpango.sourceforge.net/",
+  "LICENSE": "LGPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1589877886",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "pango",
+    "sdl"
+  ]
+}

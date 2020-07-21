@@ -1,0 +1,30 @@
+{
+  "FILENAME": "haskell-aeson-pretty-0.8.8-51-x86_64.pkg.tar.zst",
+  "NAME": "haskell-aeson-pretty",
+  "BASE": "haskell-aeson-pretty",
+  "VERSION": "0.8.8-51",
+  "DESC": "JSON pretty-printing library and command-line tool.",
+  "CSIZE": "36200",
+  "ISIZE": "152173",
+  "MD5SUM": "6899a9da64717c79f72b57bc4731c3dc",
+  "SHA256SUM": "959927d53d48c60078b87f16c4c75c5844a4c9d275ecdd9f8bd95c46b9bd6145",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl75NOIACgkQeGxj8zDXy5JcXQ/8DBALAvM59/EAlUSMa3k6NVQPV/HIqZhVzJwqNstBtbTBjz3Bj3CMAHH9L+IN1zJSoPd6ANh4T1+CSxGY12C1DBW8n18/HNez50pqi/YVQmHYWp8R8YPoQdVwDkH+1701vBeZfvZ/QGj0hKl8PMaNSSaoiQRqDddPH5+Vz2TyrlxteK3pBKx8u1T2ItjcdAuvwRswhbOAmj+3S0s3zygczLncpZWoEIhjD2P/FhkCgOYrv9qMEtN6VdafucBTwhNynJTIcdgMC49Dk0+ybJ7yDJIIdDygSRPqBnRPyW17A1pXXWZ1icZKe1QcddI8AajrhVm0upohvFIORAupu87Vjk3e2MrugpASyPdEy2z9M1nIMJ0Jv7FpYL3xutsY42MBl5YCpFPp87XneEJeBcshQuW3x+AJGr8M4LMA95Q3Y/IvagWQ4uHuhai0Msjl69kpsC+FE6/JnSxIcTPkJvmw6f3itYxYZuErN7vRVeAled9KycvbNPAHbjLrI+xBk7KYn3RVdvc5MQpwju5YlU3JGbVy93EKRt3W21bYLyZsDYlAnuMBM75gFtB+rTajxfPlPhcZWJIYjJYxzW6E0IXQOdO7Blo3RN0mn+j2ePRvvRXZdDwfKwN2HT8lruoAijE/TIfHE84R/JiA+FT3G/iykDz0Vnl2Tcip16MG1JzWWdw=",
+  "URL": "https://github.com/informatikr/aeson-pretty",
+  "LICENSE": "BSD",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1593390280",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "ghc-libs",
+    "haskell-aeson",
+    "haskell-attoparsec",
+    "haskell-base-compat",
+    "haskell-cmdargs",
+    "haskell-scientific",
+    "haskell-unordered-containers",
+    "haskell-vector"
+  ]
+}

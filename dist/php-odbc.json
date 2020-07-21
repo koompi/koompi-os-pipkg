@@ -1,0 +1,24 @@
+{
+  "FILENAME": "php-odbc-7.4.8-2-x86_64.pkg.tar.zst",
+  "NAME": "php-odbc",
+  "BASE": "php",
+  "VERSION": "7.4.8-2",
+  "DESC": "ODBC modules for PHP",
+  "CSIZE": "32561",
+  "ISIZE": "98032",
+  "MD5SUM": "e2d0b38ee5204767842f3d88526d9e36",
+  "SHA256SUM": "0b98237a2d8d7c9600aa5db9e3f0b4ceb356d636851eda9d695f70764cced151",
+  "PGPSIG": "iQEzBAABCAAdFiEESqR2e7ycSx0Yrii3fy1DS5dB6KwFAl8IPMQACgkQfy1DS5dB6KyzwQf/V2lEWd4zxnq72ea4LS8QwtHl1vx5FXF6B/SMpCTv0+D26FYWObJwvuSUlWStEiYnYvc64qAzXuTRO7TyUpUZ5Neb4L4mUqHL398UWInvYlGqdJrCV3NzFk9rftiVsJAzcx7TOipr7pH0BqFmHNitFebL6NqL7Tsi7P51c/hWhqiDpiT7eqD75Q8x/ggDuG88+pQTs+Wd+kWEQq0F11u7J6sVaZ4KM6g8eQgIPNtegxKZDk+LDa0hqBF4+msGeLQhffVVVNQLWaM6If3iRzXLm9qYUxRw129/OO8emsI5j5zzVfggDGDRPyRunkauNn+G2Mi4rpo51lF9kjXJTj0n3Q==",
+  "URL": "https://www.php.net/",
+  "LICENSE": "PHP",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1594375162",
+  "PACKAGER": "Pierre Schmitz <pierre@archlinux.de>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "php",
+    "unixodbc"
+  ]
+}

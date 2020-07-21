@@ -1,0 +1,23 @@
+{
+  "FILENAME": "python2-pytz-2020.1-1-any.pkg.tar.zst",
+  "NAME": "python2-pytz",
+  "BASE": "python-pytz",
+  "VERSION": "2020.1-1",
+  "DESC": "Cross platform time zone library for Python",
+  "CSIZE": "190693",
+  "ISIZE": "1011237",
+  "MD5SUM": "353e1849f513a933db5f91a55e14f660",
+  "SHA256SUM": "18313c89d56573ceea9edf23fef6d611820647fe95e7ac8ebb52192371892c79",
+  "PGPSIG": "iQEzBAABCAAdFiEE5JnHn1PJalTlcv7hwGCGM3xQdz4FAl6u30wACgkQwGCGM3xQdz7lEgf/YghjS4sSh1vb9Q5Qrdxwg1Sczf8h7JX3kmYjuN1dubfscO/2uDXbxU4vImDSnVjbTBJY2nwiyHe/1hc81zm4Pb/NY1JfYjuCi5u41wiO9oTIF4ONsAQ0DUkjj3M9+L88ecx88RPuBtjCisOR8GgyGQvGj95tOQNu3mtt2cuXGt8IIsdnqVcY2Te67EctmWpzM5oCZ9TJmAUBrAoZW1q2w+3Y7h1XOlFiTWDKyKrJzTErWWcX3ZL7WaU53bZyxU27DzqcdOgfslQO2AylyFLuf18GDFQx6FOry/EOgmne5zKrUoHkopZ3OHFpTdcQyUhynBbgPZ1YmsuZvoJDnGCwtA==",
+  "URL": "https://pypi.python.org/pypi/pytz",
+  "LICENSE": "MIT",
+  "ARCH": "any",
+  "BUILDDATE": "1588518646",
+  "PACKAGER": "Jelle van der Waa <jelle@vdwaa.nl>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "python2"
+  ]
+}

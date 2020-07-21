@@ -1,0 +1,24 @@
+{
+  "FILENAME": "haskell-simple-sendfile-0.2.30-69-x86_64.pkg.tar.zst",
+  "NAME": "haskell-simple-sendfile",
+  "BASE": "haskell-simple-sendfile",
+  "VERSION": "0.2.30-69",
+  "DESC": "Cross platform library for the sendfile system call",
+  "CSIZE": "20721",
+  "ISIZE": "63852",
+  "MD5SUM": "9faa137fe40931906cac1f5a2f0da18a",
+  "SHA256SUM": "3352e888f8d3752799946678a4a1d84f9a96c9b97a6617fdb8800465d27e1bc6",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl75p+IACgkQeGxj8zDXy5IJvQ//dxN9+3Pkx1+RaNubAQ+Mw4SI2zcMfEBbUcDkRSc2EDXRFnkO0mVAKwvXksou/mo5fHmYNvOZmcCdsyicLCTwfxs2wz3Bac+wJf5Epz051oF7IBdxIggCr6jkWyA7Hj2O44OS+AfrMa3jC/hn+AZXjq/SPQf+YOsEv8mZOPcT1O6raOhx/Jd23RqJ3gjQ8SA93a9FvfGXynz2CvJ7X0blmipTpfuXm0K7EfHQLRIoDSRSgwnxVVKCDwE5pxoa3FHkpasHQ+o4MEWoaKQF1XBsaGBSfgYjFI33yYN7BJS5YFAa+kbuhiQtdIlCsK7gL6VXsC3Y0Pdt6e8fLkGmKLBvESDXXusN1LrM9Rf02MBEelkVEFZ0eL8p0laEJdaZyq0XNw2ALI4I0aqEKT33pc7iKUNrFFKucjJKNMDBDeUmSMOj1Q+sTvvBvwD2EHenFz0vIvIT3VvZ2WZj/LIEHoPub3QXYSrZDLi4paJizywPvbUBrlHJ0UsZHLeVLHd8CiMMG2j3MqWlLRvKPRq0od1Hz7hU0rXjzo6RuzpAoY8+ig03Z0EG59fkl1Vmd73kmc/e71kJu/U0zz4ZNkRizKD6IusnxsA9iMqly9lHYIQBcpXRVfoam7pj+eMKexMtEZ6TbokJbwlR7jR4kUDDtcapk4eDs7JlQjk0iMJm7eYCq+c=",
+  "URL": "https://hackage.haskell.org/package/simple-sendfile",
+  "LICENSE": "BSD",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1593419719",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "ghc-libs",
+    "haskell-network"
+  ]
+}

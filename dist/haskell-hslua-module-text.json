@@ -1,0 +1,24 @@
+{
+  "FILENAME": "haskell-hslua-module-text-0.2.1-55-x86_64.pkg.tar.zst",
+  "NAME": "haskell-hslua-module-text",
+  "BASE": "haskell-hslua-module-text",
+  "VERSION": "0.2.1-55",
+  "DESC": "Lua module for text",
+  "CSIZE": "18332",
+  "ISIZE": "55771",
+  "MD5SUM": "a113c1b7c443c94fc0c488c186ed6fcd",
+  "SHA256SUM": "1e4fb6297edbc7bb9c88f8735bc1008b86770a8cda5ff1199b2f0c5b2b7f0bd6",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl75mhkACgkQeGxj8zDXy5KR8w/9HTzd1WbUE8m2V9eno010/IfbWWaHDaiBUXr+5bs7kmT2BvAlDT4Z2waFeW5RJAiAcS1ifpYsozV15kap8m1u9qu7igi9vKN0EuTRxuQkAYZVEzhfH9UPCYXzjQzldxAFSSqWQO4N1mACPUPqg+O3yiNT4slTiHwdK1uALMrBAe5l54/ANTkqaTwQkDB+myGCYqtKyBgBWBc7XcbVKDABXluzB5NLHT9INJmWcukRGVvKr7YrSkNWoOlC1+xA+BcECc0o5JzlHe1/WjzwiZxUBO25J7yifzBjvisviIEWcqWyNNlkxzweqaxps+7FixvjbO/sJbPP4u8DdKSfdSF/Ci1pbjQiT33GnfbsTnHO8nMjRfAQYEehJzGngD9Gb8oThOQ6pHOXSo1gFS13jU8g0D5IL9lfcldUDB8RwNOU/fFO5MFvsSD2KUQOATl4YASEqdTkR9G/VkysUxcnHMli96wnCXbsJwQnSrkeJ7NVQ125oKi5VQYYMJkVhn7Za3iFfeiM0t8RcISya1vhe71k9EttHPtxGo0kg/TKIvGX+jV3gw+gAGiIqGH5oJbe6OekRyLYVUH0sqPA2k97d29Fft3XlGHkq8XxBLPwcliQujdAeALIyJ+GzIAvi64pc8+GJJ4NyI5S7LNgbeLvs/fliIehqbVvyGmzjpZaJTZbq+c=",
+  "URL": "https://github.com/hslua/hslua-module-text",
+  "LICENSE": "MIT",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1593416194",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "ghc-libs",
+    "haskell-hslua"
+  ]
+}

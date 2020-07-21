@@ -1,0 +1,23 @@
+{
+  "FILENAME": "babeld-1.9.2-1-x86_64.pkg.tar.zst",
+  "NAME": "babeld",
+  "BASE": "babeld",
+  "VERSION": "1.9.2-1",
+  "DESC": "A loop-avoiding distance-vector routing protocol",
+  "CSIZE": "78464",
+  "ISIZE": "154897",
+  "MD5SUM": "4f503140fc544f312b3595796ff3edb2",
+  "SHA256SUM": "0b5dd9dcc0b7736808818e980c9d75cb8cd1148e882af01c819202e34086511c",
+  "PGPSIG": "iQIzBAABCAAdFiEEjVflzZuxNlVFbt5QvgHsIqBOLkYFAl6gOIgACgkQvgHsIqBOLkbuaBAAnisgK/zNSVK9oLgIFhFuQl9l+isygIGg91mxlD9NqeJ5aNXedc5FtkyeMekN0uz6AvNtjkDO1rhag4SoI+dwiJY+SUlRff3BhtzmMvafWY9qledQtxXvQmG3zh3uL0iCiVr+mI8qVkHfInmPYcP5XyC/vISTy9qZVrjwol+A52Aw0qy9Fj273myEuSt68mhqbcYf61wBjxDY01uDbalQF82kx/W/jG+t5odwaq+OE4yLldzpqQ8iH8MvaCW5xhvYKSB5cDW1gWNLCgnL+AuNd6/s+TeSsrXJZPdCjsVdMLRufhzgH6KJCcCJOT1eDDkvDXCEwPYes8Z2PVbFWnRbRAvHxWd0fhB1VUt3NKLsJXNXREToDZQHipiE/XbjIkkM3BNqlTYSp/guVahx1uniA/PFXSEkjgs9p+ZqU0MRUz8Kf6nI19Cbb4gjL9SZAFsmAQFtCoQbz4HWY+ZJwPd/UPXjuaubeyg4FNaK+jX1hUkfquyxXyATCgEIeLeyaLQnO6Mex9tvDlhUbfMtEBFBadG9iZ2SNBqfjIWAfU+agXsaLYgwV/UBn4rSAHiw0ZO4S1VHt9WQ688v8f3FyWdVgr7pVBKDJt03aWyyOxFzxz0aXaUs7wbqttV79fSxduoCnkaq5P33p9OZx2ESxkDMDW6kvky9fUZziRms0cnB+YY=",
+  "URL": "https://www.irif.fr/~jch/software/babel/",
+  "LICENSE": "MIT",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1587558507",
+  "PACKAGER": "Baptiste Jonglez <archlinux@bitsofnetworks.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "glibc"
+  ]
+}

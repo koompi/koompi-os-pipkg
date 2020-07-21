@@ -1,0 +1,23 @@
+{
+  "FILENAME": "haskell-ifelse-0.85-19-x86_64.pkg.tar.zst",
+  "NAME": "haskell-ifelse",
+  "BASE": "haskell-ifelse",
+  "VERSION": "0.85-19",
+  "DESC": "Anaphoric and miscellaneous useful control-flow",
+  "CSIZE": "13275",
+  "ISIZE": "44450",
+  "MD5SUM": "f9b6a225430f62b02d71ea0be55b6787",
+  "SHA256SUM": "24b7a18aac64052a4c92e24f2bde758a756aaf55c4c2bdc784da42601a95e470",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl6hePYACgkQeGxj8zDXy5Lipw//c2VIG42HvH35XNpMw2gBbSyJmpR5mSPqkbXTQSHN77fcsofZuBrUszs/LnDn6ssqUv/0pP3Jal/yBLVnraspM0EA2a/ySnZBII8WG3SevVBL8gm56nuJqjqGciZuEsZ5RFBL3il3J3WCp5tCn/zY8ggEy5ewty0uPs/RJzV99g4p4XpaE1VAf9a8IXTMuTRY9I6vF29kjGrKvgTjNJ5/VP1pLTKJqMmIx2uc+5Mec8SuCuKKLbz0uC2Mo5JxlqeFHdkB9+WciR3+nO1N68dy1c8+ZCSrJ9wVXvWcRXS+O8zaILPStsnje55guGVh+3OSbs4jTUdsnYv7G/IcP8eS8PvoGFcDK6YxzmyEwm2sqvoZDEsI4s21ATda61GHuISxRQLOabojluYVhwLSaacVyWVLlyaabhcVUNWza4475weZDbPf5mPHOs7BZCpNLedZ707xwh5j/NndV1hUO47EXJuZhBeHuoHmngDxegJsblvVxmgT2fulPHWACQLJaddzkshz3jq7+lQwzsNXYm+b0WyX1MMIQe0XnBzUONGVOpuCfbwTjyrKLDpNpfWoDBhZgLepqE/UIVSryDWsK0zGHJ9G8VJBeK5nahlsH15lT9Od2v8CepTo/bmxq+jEY9tUmFoazrt79Y22q1az//0+hp+r+G1bZrJxkd5gb6399i0=",
+  "URL": "https://hackage.haskell.org/package/IfElse",
+  "LICENSE": "BSD",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1587640480",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "ghc-libs"
+  ]
+}

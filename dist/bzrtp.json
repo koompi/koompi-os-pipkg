@@ -1,0 +1,25 @@
+{
+  "FILENAME": "bzrtp-4.4.0-1-x86_64.pkg.tar.zst",
+  "NAME": "bzrtp",
+  "BASE": "bzrtp",
+  "VERSION": "4.4.0-1",
+  "DESC": "Opensource implementation of ZRTP keys exchange protocol",
+  "CSIZE": "49972",
+  "ISIZE": "137555",
+  "MD5SUM": "866c848eed3e0b91df41a51692c38e06",
+  "SHA256SUM": "c7e351393197e0602bb912cbd2ff50bffb8fc3222b32dabfc6a676fd0138c7f2",
+  "PGPSIG": "iQEzBAABCAAdFiEEFRnVq6Zb9vwrc8dWek52CV2KUuQFAl7zuF4ACgkQek52CV2KUuRwlAf8D2urXDPb3tQu2pGRCN1GJ3QGuvu1bsHjAZCxG99/iYs2l3WIckBjtpNPi35RMtteM7fja7s4cctClBf4pTGB9Z9jwQStl7GvAoHuP+GN0vwVHscAAXFIz8c9aifO4ldlxvr97NY+iUcyib/GrQXCtPJe/+m/hwqJLT+wx56fo+3J/dP2wNEcK/rfoVmN7IjclM6sDFDpQUdudhvVoEusHdfgTWBeJI6TvTaeCItfhzW2ZM7AI91EkP68EjjDLpRMRqkQOAtfD1PJA6riMVV0mNMv2RkfacrcYlrCGTe9XZih4VXk/nnQA8RepmcLvFqiq5cvHhuGKuLD8zXS1fut4g==",
+  "URL": "https://github.com/BelledonneCommunications/bzrtp",
+  "LICENSE": "GPL2",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1593030718",
+  "PACKAGER": "Antonio Rojas <arojas@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "libxml2",
+    "bctoolbox",
+    "sqlite"
+  ]
+}

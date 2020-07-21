@@ -1,0 +1,28 @@
+{
+  "FILENAME": "opnplug-1.0.1-2-x86_64.pkg.tar.xz",
+  "NAME": "opnplug",
+  "BASE": "adlplug",
+  "VERSION": "1.0.1-2",
+  "DESC": "FM synthesizer for OPNMIDI with OPN2 chip emulation",
+  "CSIZE": "3762536",
+  "ISIZE": "21520384",
+  "MD5SUM": "18eea6f398442b85f835febc3e467f40",
+  "SHA256SUM": "7975984fc1c1df3712e053b93873c172354baa23db91cc3fc6d50196ced70eb0",
+  "PGPSIG": "iQEzBAABCAAdFiEElDfdOBWnqRaePTlGr/XZUJi8b/UFAl1kFygACgkQr/XZUJi8b/ULSwgApgXwGLF3N3r/2g7H4xr+tBn7NjLvFF4+A54K4DDG4gbbCnc9tAT5lGcpD5qLhPg8j7FPZF6Kmjr6+kKdzsHnDdsdOkcSXPt9c/Uwz8V+noejXy7HOlqmI2gkBgQVTu+tOP7m58h0AICZsGjl5yKZY5ZFsBAClSg6K+ndMbB9dva1ALJzKVSQzLFyJsOiN+5VJHN4Nq9psX6ECxwNCwwFiq9TnJ/dP0a1Ju5GDgxBL5YSzayRkzPMGRKQ9CkBTVLGO6qggjH9i4rGYSMhv4J9OxtbZoO4c70cBGr2SvhbLKUQfv07aRs+WSd4y5dwuCJMVB15bpdTUpO517yKP4H/oA==",
+  "URL": "https://github.com/jpcima/ADLplug",
+  "LICENSE": "Boost",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1566840017",
+  "PACKAGER": "Maxime Gauduin <alucryd@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "fmt",
+    "freetype2",
+    "hicolor-icon-theme",
+    "jack",
+    "liblo",
+    "libxext"
+  ]
+}

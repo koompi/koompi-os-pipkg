@@ -1,0 +1,23 @@
+{
+  "FILENAME": "python-entrypoints-0.3-3-any.pkg.tar.xz",
+  "NAME": "python-entrypoints",
+  "BASE": "python-entrypoints",
+  "VERSION": "0.3-3",
+  "DESC": "Discover and load entry points from installed packages.",
+  "CSIZE": "6576",
+  "ISIZE": "12299",
+  "MD5SUM": "135f704623b1c26a2acbf03e4c94707b",
+  "SHA256SUM": "748f0016cdcd7d33aff1d36905a8f5da706a92cc20a7739bebb80930377fd7e9",
+  "PGPSIG": "iQEzBAABCAAdFiEEhs/8qRjPOvRxR1iAUeixSKmZnDQFAl27GBQACgkQUeixSKmZnDTOcAf+PgbNx6TYJa5V8YKEUUuddyVDYPPImsEl8diWTSZerw1pXllNZVsx8V8yHWMTwskZ7PcA2v+YAihJszBUIXXZ3UGWbstIiwmhu25ReA1+0Z6illvmda9Et8WwCFe0G9m46JUo4teUtrD5dmO2XN7PqptiB+ua1Hb5dPqU5HYJmwsy1Mom1fCSYgt5iKPUVl3IOF/wSg/ZmHTm6fOv5u4YgjOop4Of4TIs+KMTfQjk4eBh1htU3dpO6GZhVCm98xUfCTmhem3pKieRjzvh12Vvv3RQvFfM3zkwpMIOw3D0GRhixAxyFHNkmakJEtZFaxImhNwve7h3jzvqKfU8PJcpRg==",
+  "URL": "https://github.com/takluyver/entrypoints",
+  "LICENSE": "MIT",
+  "ARCH": "any",
+  "BUILDDATE": "1572542462",
+  "PACKAGER": "Evangelos Foutras <evangelos@foutrelis.com>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "python"
+  ]
+}

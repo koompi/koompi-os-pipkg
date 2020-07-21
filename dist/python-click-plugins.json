@@ -1,0 +1,23 @@
+{
+  "FILENAME": "python-click-plugins-1.1.1-5-any.pkg.tar.zst",
+  "NAME": "python-click-plugins",
+  "BASE": "python-click-plugins",
+  "VERSION": "1.1.1-5",
+  "DESC": "An extension module for click to enable registering CLI commands via setuptools entry-points.",
+  "CSIZE": "9701",
+  "ISIZE": "24720",
+  "MD5SUM": "f6f0f58218a2edd3613b394a3b017225",
+  "SHA256SUM": "95755cfb25240f96d3ee466f3469f95b63ee6cd96c97e7d3791e9fa3b39ebd8b",
+  "PGPSIG": "iQEzBAABCAAdFiEE5JnHn1PJalTlcv7hwGCGM3xQdz4FAl66+LEACgkQwGCGM3xQdz52Hwf+MN/H46qsbABlhkCBkDupSMnhidllN8FAdh3p8X+8w5ECQQE26APRk4aKt9+AdCW/oMSjL26caK4yuo2nAFxwQek4sq0EsKaTsF09WvVmjNAIMDA+Rgd+3IB7/zM7N22iXFp0bKO9DifQT2awTsPtkwDW7oizqMEjmySibt5U1LzbTdn5uaue1v6Y8FSQEiwcHzoSiO6D7Ukxzxs2lmJhNhjSx9S4C3l8y9NXjUAofcGgTPXTubW4j5puoS0KjFDwHxCViLugOMEt3tf51lJsuIE703dN7B4Pq/zAl5urr2tMrxle/efHOJIjW9PWenHudz0edmWzWsyGe+O/10JPwQ==",
+  "URL": "https://github.com/click-contrib/click-plugins",
+  "LICENSE": "BSD",
+  "ARCH": "any",
+  "BUILDDATE": "1589311606",
+  "PACKAGER": "Jelle van der Waa <jelle@vdwaa.nl>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "python-click"
+  ]
+}

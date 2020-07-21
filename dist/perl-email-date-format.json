@@ -1,0 +1,23 @@
+{
+  "FILENAME": "perl-email-date-format-1.005-7-any.pkg.tar.zst",
+  "NAME": "perl-email-date-format",
+  "BASE": "perl-email-date-format",
+  "VERSION": "1.005-7",
+  "DESC": "produce RFC 2822 date strings",
+  "CSIZE": "6217",
+  "ISIZE": "5913",
+  "MD5SUM": "74499ebc4f26275b00ff3cc1d8270bda",
+  "SHA256SUM": "3526a3224813df8f525349a0ce911dc58d874fb2a0dad40c1824d9bb1318e381",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl7vOGAACgkQeGxj8zDXy5Ky6g/+IV027ihlCTdAm/i8ObM+hgC5B3sVVobcyXoj/4uH81XxtVl4QC26dRtyN3aFY1QxSSTTHOb7GxO3vKxOa1eRx+GRXJJhAIIZFQVwknj5WiYoEqmSjyVFUHpihZhR4hk27YaS+gEVqNcAIeo2K8NJfUsLd4/O49MAvsW57kiqTJrmKbCd7bFeF5ukbM1j4ot9sNOIrOByKveE9ziFrQgU4WagOAn5zuTaF1C8bBztpuYzyneD+tKMpPEzysaBnnBZH3Xz96Qn8FaWP6vOazKpxsPFo2962rFnQ0Qc06s3ajMGfG7LC2slmgvStAl+XeN2KT0mi1+M/VfO/UBZ7yu4km8pZVLW7LLo0/OnFLoSH7Ur7lqHc/zZcqmzBdaUBnoROF2+ucvp8fbRxvuJiDgHWNBjlmHrvW2LbCuz+Hu9Pz1ZH8lKcG7l2Ryec2Px65rr4QbkXOL75/fcM+w5I+jdeBZZBDyIFSm7DNf0j0rdLIN+Ktj48gCxI8E56dUDMmGonSmL1FtYfTAAscyKniRYCbzyc4IPeHXkyk6dRlk3M1tYjHgsJu4oNS0w8rIho3p3FvnqBl5+XtFjlPsu4/cHIi10WStTeQZEdGFKLl2wouVZMymK2QUg1hjo6pRx6NmKQW2FjrTj/MRPOz8V6PYT7gFgbBe0UHHvEFIISicwZeU=",
+  "URL": "https://search.cpan.org/dist/Email-Date-Format",
+  "LICENSE": "GPL",
+  "ARCH": "any",
+  "BUILDDATE": "1592735644",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "perl"
+  ]
+}

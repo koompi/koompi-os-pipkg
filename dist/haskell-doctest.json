@@ -1,0 +1,28 @@
+{
+  "FILENAME": "haskell-doctest-0.17-4-x86_64.pkg.tar.zst",
+  "NAME": "haskell-doctest",
+  "BASE": "haskell-doctest",
+  "VERSION": "0.17-4",
+  "DESC": "Test interactive Haskell examples",
+  "CSIZE": "166356",
+  "ISIZE": "760918",
+  "MD5SUM": "f9a7171710de3fe0851d3902644f3084",
+  "SHA256SUM": "a9e690e151e1a3314b8639ddfa922e4493d7606c373b7fbbfe9abde3fd85d301",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl75GFIACgkQeGxj8zDXy5LlSg//SG4o1mktO1cwMGw3ABsPgwiGOuDRNJpa8a3NfzMm8dW+NnZplLKyIlQywXRTb6K0ozKLfiJPvvSOw/Rxuf8BS6ugUviQrfV61BkM2orUKSVY8vt6Bz03+ZBfJjVNhLr+KXcZwKIXytG1gNPGLBsco2EApGoWL3uzCKHHHttVPIGCKjy0ViPMokDeI+Y885UpsgLwZvQorBWmmmt2QsyLlz0oXqKxwjETasaW0XCC/mFsZVraJUzZEETeMe7hQVki7lS87Bnq5btRDh7EvugxVDzqsmgWDQyfD5S5jfogfWX6RkzMy09N8m17OxC01Yfl3f6HOE6c6sv/jxMw0/vv5PEey80/+0HNNItop1yKlNj0M2BGyIwPqsja25Zv3VvL6WaKaMXX3Ncqo2c9z+a6IFPmHdWY16GgFX7+iHIcrIdKw0Oqggk6qsJBa6B3DGMC/gCEWi7Ey8MxYux1+Kh6Md4TwNLnjmZJXcONcHJ/c+QbctKeTYsys7+hLkQZlk+hhN9Gfd2E1av6dxv2NFqJQoKrJJiZB4ybaayOUySGg4BJzhlxSnVnLYA5cCpI0Ly3Ec9DUlRLiRwfEL05Gcwl1114NSM1jo3MLF9HKM91zvV4ow0FJlacaNI53o2EUQIGan1SyDQIYT6fS5hTVuVpRFELECZxo6lfl3ORjSJWorQ=",
+  "URL": "https://github.com/sol/doctest",
+  "LICENSE": "MIT",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1593382922",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "ghc-libs",
+    "haskell-base-compat",
+    "haskell-ghc",
+    "haskell-syb",
+    "haskell-code-page",
+    "haskell-ghc-paths"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "FILENAME": "perl-b-keywords-1.21-2-any.pkg.tar.zst",
+  "NAME": "perl-b-keywords",
+  "BASE": "perl-b-keywords",
+  "VERSION": "1.21-2",
+  "DESC": "Lists of reserved barewords and symbol names",
+  "CSIZE": "10229",
+  "ISIZE": "14538",
+  "MD5SUM": "efa86e7d6f34861e4c8fd816478639cf",
+  "SHA256SUM": "8fee7a308213f783f5406a25099b58aa20d0dae7674dbd666ef0f46c2ff771a0",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl7vOI8ACgkQeGxj8zDXy5KLhQ/+LuxOUUHL2Ip96A7pr+43fofuUdmJLv1wi3861QNzRd7oFGgza9M2AM55N0iAh0vl4M5RlN1uYOiDPgYYvLD6fyBs/GPIZ30NOWirl2+3Bfo6yGHyyBrdmzxGsxlkfEJaPt9eMnahjxXnjQUHwxBMw+6Oa/N5IhcPZqWNioF7RJGlSsu38blWJTq7f+Tz6KaY1IZ8dtlP6KmLRreOxlCg9/EeQnCUdlorlYP3nRwwjWa/6I4LLkNsc5ShuJugE5eBpk+1Gy8zz1MfgwKHgGUClyLaBEhRHPAiSwI1yMIOETU2mcIdkyU3xPk1QuPpFDXwpkjKZvH5TKb3TsT34u2Hbj2BtgCcwdnFDmOBSkwpsW94psK7C+pAGyzb4PI3+nfE/FlT+lOrkfyrEhH/CTFSdc+Zd8Q+LywXNjkdxYlD2LpXKaD2px3d09JXTAOKSSvsHRp2vjdan9miD1LyN9hYSce3WyBCJ9MDKrOY5hFVqLK7aibvBjolF94+yTKihJkrq5Y5LpTe0PkWXQyWGw3RSqKweMAm/qBa/By4wXphoJJ+PVeFjT1S4TKk8l7iSL11+TDSesb9DQ+DCCvyTYItktUM5r7xgaf3rwPy0LaHeCJxk2Q93Kg+XB1F9Jh7bsQvhUH6augDXTxtUXqvNZz4+u5FasKu2F0dRkmOwhVkGB4=",
+  "URL": "https://metacpan.org/release/B-Keywords",
+  "LICENSE": "PerlArtistic",
+  "ARCH": "any",
+  "BUILDDATE": "1592735861",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "perl"
+  ]
+}

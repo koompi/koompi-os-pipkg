@@ -1,0 +1,26 @@
+{
+  "FILENAME": "haskell-mockery-0.3.5-82-x86_64.pkg.tar.zst",
+  "NAME": "haskell-mockery",
+  "BASE": "haskell-mockery",
+  "VERSION": "0.3.5-82",
+  "DESC": "Support functions for automated testing",
+  "CSIZE": "26820",
+  "ISIZE": "100779",
+  "MD5SUM": "ffaacffa02bb1baf585006505946650c",
+  "SHA256SUM": "8914735b6c8d1c51cf576b127a274692af41f5f712b2cf8666833f149883b59b",
+  "PGPSIG": "iQIyBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl75DcQACgkQeGxj8zDXy5Ld1w/45w2p/4lHG3OmpLNqrn3Uiym+kmiJdHiBvKFLPG/+65NAgx0/QZ2s0BkT86elbLNYWZiVlPBp//2n95kaFJOvIEd/BB3Jl9JzIA8ObCyIdFs1Atuf6/O/E79B55gk+kz/Uv34CxdJJAkfz1pW4yP2vV1MuCKPJPv9sro/iUtj6+Ut6oZihPFnZwDaLQ7agENgRPUGpZEuNlCtznttr525JGye5ZOQjsjbxz7uBKtWjCUvTqEm7YGgXF+zo35NAwpN3zup+lfJKPnsG0+0iKDlsGuRPuaaRie9DfM3GmUIS8B+0nRjpxW6E70sozciAhP9ITsE2+xTIZ8gpGNouBo6UlrFEdyvr/gNIiRIHsryxwfzyqoqeoh8gUIpEtByOSopCsbmRycvOIjKyr6IpMEbi7k0lueZotbim7muhmmCpBfhbH0XTW35x3TDIxUOf0c5Vxl2eXgDvDn7UYU97aC8gi9uyLlEyDR8vfYsd5S6Zz0YESYn66x7Gj9CeoPwobl1wXgO+aBqKOMsevb4TDIjbjQJ3Y6MwO0lUsmyMCm19FvNwxl/1iSjGSLJD2IhFb9eskTVW2slfM5rXjjz1nF1jDgD+tFrq3HBcsBNBkkyrNliBJZK/0Wfa5n0tLni1YwIL1ZEpP1w5cFy2EguRGwt7zUZhWw89IvkBRl++/Q+0A==",
+  "URL": "https://github.com/hspec/mockery",
+  "LICENSE": "MIT",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1593380265",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "ghc-libs",
+    "haskell-base-compat",
+    "haskell-temporary",
+    "haskell-logging-facade"
+  ]
+}

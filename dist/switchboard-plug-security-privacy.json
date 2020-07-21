@@ -1,0 +1,31 @@
+{
+  "FILENAME": "switchboard-plug-security-privacy-2.2.4-1-x86_64.pkg.tar.zst",
+  "NAME": "switchboard-plug-security-privacy",
+  "BASE": "switchboard-plug-security-privacy",
+  "VERSION": "2.2.4-1",
+  "DESC": "Switchboard Security & Privacy Plug",
+  "CSIZE": "150868",
+  "ISIZE": "556086",
+  "MD5SUM": "cef5810d4837f87ae289487062273f4c",
+  "SHA256SUM": "7a2a1f29a0d05689a08b258d27003922df3f6e9c7dd12375e74336b6fe47b695",
+  "PGPSIG": "iQEzBAABCAAdFiEElDfdOBWnqRaePTlGr/XZUJi8b/UFAl7MsrAACgkQr/XZUJi8b/VA0wf/Qfdrpnkma9SEoVqqIdPeAENCKNh0HzYsQMvQj8cg6I3+8k8c37ur7AT0x3GHtt8QGwnFpzHb3fOF9Aw1/xhEwBozT3mfB989Cl1mjcCBL81prEyq4GtE1qNXpj3jJ9n9wNQyWvX97izPjQvETou7PxR9eji4xCsQ6e+r3uR01Mjk45mU0H78ykibvdNJGavg1+ePzJ70FZpbwO5f3RCunV22/RSXTfwttAayerI/+2CmlwEjnZrXVODp0bJ3HOttbQP16KdDczI7/SjFy9DeOcr2zty+rqo0087Fa6Vv/MfcNjMMMdOo5WC6f3Ma+tMZJ7X8AEGtVk7u1+vaOVasPw==",
+  "URL": "https://github.com/elementary/switchboard-plug-security-privacy",
+  "LICENSE": "GPL3",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1590473346",
+  "PACKAGER": "Maxime Gauduin <alucryd@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "glib2",
+    "gtk3",
+    "libgee",
+    "libgranite.so=5-64",
+    "libswitchboard-2.0.so=0-64",
+    "light-locker",
+    "polkit",
+    "ufw",
+    "zeitgeist"
+  ]
+}

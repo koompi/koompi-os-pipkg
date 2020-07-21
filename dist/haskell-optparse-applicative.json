@@ -1,0 +1,25 @@
+{
+  "FILENAME": "haskell-optparse-applicative-0.15.1.0-39-x86_64.pkg.tar.zst",
+  "NAME": "haskell-optparse-applicative",
+  "BASE": "haskell-optparse-applicative",
+  "VERSION": "0.15.1.0-39",
+  "DESC": "Utilities and combinators for parsing command line options",
+  "CSIZE": "231317",
+  "ISIZE": "1240191",
+  "MD5SUM": "e7db25254e599fa404020fbe9a6025a5",
+  "SHA256SUM": "73cc69f8538df8284a691b784f44ed0a99e88a065c247213411bc571448cdf14",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl74/lMACgkQeGxj8zDXy5LIUg//X0iJ3X8Hmeer4EozWWSZnyNQcTOaclN0EFyMFJC/wPmeUpnIMxpo/mLoWhaqFityWelluT2L5sklaLkqbihnf0GOQpSZuvwQr+doHTrT288TmuzyXQ8BxkKWZFtqZM4/oOpech1CIOoG1KaF0Q3VTUu1SOOPi22h7i5VISkbdcIhIonxCZol2uOMMs7EcBGJwBi0if67ApHpAv2hG+IohPMP29KwSCOz1DfRWCful06uVQrgnOc3vIt1kZRu7OJPkDNehxOiS+VVzK2xxhI5OH1AjBU5isGCn2AI8vxSOxjE9HFEoZ+JwxCQMjMIsK51aW7LC3ZtSy5bkDhctG3rUo4e2kBQ3b3olAPkEkOyMMn1Uxy/JZL32yPmRTQcOQDYGbPji2C91Dr+aP7VnjKsgW2N6FXGZr0TpQyKvtAkbOVQp1xlBxirGdH1cAa+RzMTlz387/dUKNE90FJ+8AcF4Z8UDYWBC3Y5dDhg8b/SVketiJK4zYbYYpCDcluIeubY8qK1XKz9x6aighvCxwQZAGP4r9fgKM1w0WTvBo4odFRdTSOjyR6AqSCqFU+Ki2HHtYwRuud+n/ipar+MuE3td2FULPIO+nx8OtkQlEwBiU5cMIjD8SVZbK7KprMKboEW1Gdzsnsl4vvWMA3m4VL+qT+GINW+h31ekS+cZOJF6Ek=",
+  "URL": "https://github.com/pcapriotti/optparse-applicative",
+  "LICENSE": "BSD",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1593376300",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "ghc-libs",
+    "haskell-ansi-wl-pprint",
+    "haskell-transformers-compat"
+  ]
+}

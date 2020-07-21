@@ -1,0 +1,23 @@
+{
+  "FILENAME": "perl-xml-simple-2.25-5-any.pkg.tar.zst",
+  "NAME": "perl-xml-simple",
+  "BASE": "perl-xml-simple",
+  "VERSION": "2.25-5",
+  "DESC": "Simple XML parser for perl",
+  "CSIZE": "59351",
+  "ISIZE": "129087",
+  "MD5SUM": "3462c786ad4652c29e8a3d6e73aadc26",
+  "SHA256SUM": "90ed7650a51c98992c7978f9f7f488a5a2852717a580bd8d3589fd12e40771e5",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl7vducACgkQeGxj8zDXy5LvVhAApVa5hWMbono4aZ7d7GkZFWIKKOkr09Z0PpLQjNYAi+Nv6PtlqhcjbwCu+lCxaWDu3JNPDnvGjX6NXhiaZRWKGbZ+XZMA9P/7qU5dHQdivd/Dwe2zaXi2EowK40dYNB6EBgXiqNj1AXAglWLTCbLmPfvQPA+B1QzDWwG/VgXRwiPf5hWugLdZFeLieZZTD4iMX3VDHtzXJ1c+2CF/Ub5PTv5r+ckb63Qj+3z0yYby8OMEJoR4wLO8i4m4L+ZBCSI4TAMdIP4h38NGAS97W0XXPR6pKLSl92+2cIiO4gjS9GaO27R35TfgTJC41ZbIlDSO+3U+l/CF5hElOfy3URzxfQm3VgOpSR3wQNn6nI3Du+PI85unzB6l2PeVhuip5Kri9c5+nfklF1bPI3+Z2WDS9JkTTRrF3Z0pFxT9JILRRnSIGyLyhu9mnGuHpCZOLDpIS19hqKbyNV66TkNMODR2FanO7RPilv/7Kx70LaXG7VOHljfgdWIz+4HlzuRcLDAwBfvLModgzinOCgOvUPvFA0kY4SNwDXD8ydkylJakRPuIYC6PS5xtkdvbvFvfe5UEg2043KbQYbunzFuVUB66yl0KCvwD/OkhR3lElZRfsqfzmFOxLp1Rw4tdA9SRHqteC+r+vh1pdV/uBeqFwrImRdOpg+C7LyGCaUZLrvH+RO4=",
+  "URL": "https://search.cpan.org/dist/XML-Simple/",
+  "LICENSE": "PerlArtistic",
+  "ARCH": "any",
+  "BUILDDATE": "1592751816",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "perl-xml-sax-expat"
+  ]
+}

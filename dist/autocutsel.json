@@ -1,0 +1,23 @@
+{
+  "FILENAME": "autocutsel-0.10.0-3-x86_64.pkg.tar.zst",
+  "NAME": "autocutsel",
+  "BASE": "autocutsel",
+  "VERSION": "0.10.0-3",
+  "DESC": "synchronizes the two copy/paste buffers mainly used by X applications",
+  "CSIZE": "11647",
+  "ISIZE": "46208",
+  "MD5SUM": "cf599d5ba7e849f885291e121fa58a56",
+  "SHA256SUM": "75188ae69101ca5f8eb39c943f89e911cd191b988e04c1f3db6cf6cd15948118",
+  "PGPSIG": "iQEzBAABCAAdFiEE5JnHn1PJalTlcv7hwGCGM3xQdz4FAl60ADsACgkQwGCGM3xQdz6bwQf/TNba1XsljR2gDWhthnWmSYcrQIdtzxDAV3mhQ/LgfDmMJ6Qhrwxe8z9sIde5yBi2rbTpQILm+VDnHchb+3fb+v34Co00vhGukXdX4VUa1jz0V5Nf+OL1xmPjE8+Clbn68bmfYOtffWjioLSD/g9MFydhreHrYRYBLsvo4KbOG3MhC9RwhFMId7hhVsez3giOMuDRIqumid4/pakUleDMjQ3wRZyeME47cHZhLHyhtP8GSA8OXYg7t1J/LwlqL3mLSSfUU+MuKxwF/pzVx6TJyQo5le4YrXTcuwj6tx7C4+5dyh9njMsRDAkEqOo8+X7dKInWATl0XbBUvDFyBNUmIA==",
+  "URL": "https://github.com/sigmike/autocutsel",
+  "LICENSE": "GPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1588854448",
+  "PACKAGER": "Jelle van der Waa <jelle@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "libxaw"
+  ]
+}

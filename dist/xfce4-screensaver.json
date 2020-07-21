@@ -1,0 +1,29 @@
+{
+  "FILENAME": "xfce4-screensaver-0.1.10-1-x86_64.pkg.tar.zst",
+  "NAME": "xfce4-screensaver",
+  "BASE": "xfce4-screensaver",
+  "VERSION": "0.1.10-1",
+  "DESC": "Xfce Screensaver",
+  "CSIZE": "249567",
+  "ISIZE": "1085032",
+  "MD5SUM": "7802b6e8284ad2b70767971964b2a89a",
+  "SHA256SUM": "c5a51a2e085f987f01fe364bfdb3ff086ead89594213e3d041c0a0d59bd41920",
+  "PGPSIG": "iHUEABYIAB0WIQQEKYl95fO9rFN6MGltQr3RFuAGjwUCXoGFlQAKCRBtQr3RFuAGj7wYAP40E3ejpTMCVBK5uTVxTuoZnAUePOTX5hvaJ79fS5Wa+wD/U1cdE7j4JcIX7PK7CxPWBBGcBr/0ORll6E6eCVwneg0=",
+  "URL": "https://docs.xfce.org/apps/screensaver/start",
+  "LICENSE": "GPL2",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1585546317",
+  "PACKAGER": "Christian Hesse <arch@eworm.de>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "libxss",
+    "libxklavier",
+    "libwnck3",
+    "garcon",
+    "dbus-glib",
+    "python",
+    "python-gobject"
+  ]
+}

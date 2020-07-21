@@ -1,0 +1,25 @@
+{
+  "FILENAME": "ruby-cairo-gobject-3.4.3-1-x86_64.pkg.tar.zst",
+  "NAME": "ruby-cairo-gobject",
+  "BASE": "ruby-cairo-gobject",
+  "VERSION": "3.4.3-1",
+  "DESC": "Ruby/CairoGObject is a Ruby binding of cairo-gobject",
+  "CSIZE": "31070",
+  "ISIZE": "159560",
+  "MD5SUM": "dffbc95d3b7c432b8966aecdc074fe94",
+  "SHA256SUM": "d0ce9c9fe8273d815009f4b8d35ded1c7d03edc1f8c0d2ab80407cc85e46551e",
+  "PGPSIG": "iQIzBAABCAAdFiEEjhmSFnRl21+wRVV8sChU7XU+Dx8FAl7ibvoACgkQsChU7XU+Dx+1VRAArr06E4n8Kgj1uQrCMixzOz++D0yNYofd3HdDBqSfYAwU13PMrnGHaSkztRzA9MrY6dVqXPCMBLnOKlRUnnP/rSPDg0RHv9fWHwHoZcH1TWjPfzoQ1I+XIjAuzAgLUV617V6sNlKaBKo9nmAgsCa4j0poesTph60uBhTUjBrbYnYY3spKJLIHg+pmbRpRZI7qIk8er17NYsWh5vN/I50v9aZqtZkTRgViJ4lDR8uRpVdLYnzzd3g//2EY4QiPMU76vAa/usPqe7h/25qallr9MbwUmxFNxCkB0543K+EHXuF/wJBu3JCi5MLe3qQtDZDYJ5A4IdPV88i5koKRYkCbegjl4BR7IG8uwV+5tyoB661Cxj5m+Yq+kuqYXmVJNf9Gp1NSzDfD+Xr+qmZ6w+VJ69CcWOAl7hYtIdebM5rlr3aq74oUTLLPvkZGuvz5Z3SML4I2La7N5DXXj0Agg7BahUqgapzAAGKJdMQDhObslWu4uMYYcUOsbV/BxvUIbqmx+tkrHWGPKRop09/eM8KZdXxY8jY7UmHRP25C/vIEBFSzphjjofCpJkVv5yhbx+vk68hz+fDclywQhcDJ4HEzt4+WPoUzf2xrKBLwLmj9I/lWxIoXi7eAn2WeLDWDxVVpTAtGIHnd1h6yFVEiz5KxelAzRmlhJkJvukZqPEf/Mu0=",
+  "URL": "http://ruby-gnome2.sourceforge.jp/",
+  "LICENSE": "LGPL2.1",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1591897829",
+  "PACKAGER": "Anatol Pomozov <anatol.pomozov@gmail.com>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "ruby",
+    "ruby-cairo",
+    "ruby-glib2=3.4.3"
+  ]
+}

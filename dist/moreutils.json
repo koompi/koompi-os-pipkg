@@ -1,0 +1,26 @@
+{
+  "FILENAME": "moreutils-0.63-2-x86_64.pkg.tar.zst",
+  "NAME": "moreutils",
+  "BASE": "moreutils",
+  "VERSION": "0.63-2",
+  "DESC": "A growing collection of the unix tools that nobody thought to write thirty years ago",
+  "CSIZE": "59410",
+  "ISIZE": "192609",
+  "MD5SUM": "a5a96b24c6ceea3dd56190c4e0923969",
+  "SHA256SUM": "efedb1e9c90036b916e7487ef03a4fad2daf7f270610c4608080ac8f7e597fd2",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl8Eu38ACgkQeGxj8zDXy5KIHQ//e6WOjxSU//+3D/eytdFoQHGhchGodQ5s9FsSYQ98OYsJU5VTXyn4PneW6AttvcibCItZ2XwJzmdix3GlKZ8oedzOw56bgDCDT32BpqzmsQQeN1dvWAEnbR2K/JNI2+MSk57rWDRhGHM3SK4rZgUO51NsyiWAeZ1mKsE5fshkgSjQu+3Ungss3o2PwEXEDcPWuBtHxm+8rO/vwskAFDE8q45+5/j38LWzmsEwqdiPAX+LgMB9aipVS5YE3uty4mEA3ZyDj0Y3iBUw6s1E6j3mgSGPQxBqZUNMauo1o4Wmja75ktDxRcbpvk/T5kAfFgcZ8AGTUvMFjk3pN1jQV2jazf4eek2u1h9mOIEyiE8Vh5Tcoz314nfZS71Vj6Qm92MS7/ue5o7rSAJ6BeMpFUVGZh34YmhaQC2gVfTsaHuRXxxYsZ6RbtuOtJeOOr1n2x0mT6SQkr1p6VhOyS+VJatrNDPGkC4Y3vbquTuCOTHsUvjkbopD+nv5+PGmmPmH7mfFWZ5bFZIjOoTv+ddpTEf2QP+rYIeMjS1pfOF46EnT+ZsIoIIpcq8StuNdK5k1ceKgatqeLI64qjpnV0cTsISgAIWx/bajdoBsS2z1Pmo7YcPomgHtV67ldrIQdoVriwLJ9dI8kgIG7MW3N8tGn2iSHc/ZEcqz4lStfHO570UoYsE=",
+  "URL": "https://joeyh.name/code/moreutils/",
+  "LICENSE": "GPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1594145643",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "perl",
+    "perl-ipc-run",
+    "perl-timedate",
+    "perl-time-duration"
+  ]
+}

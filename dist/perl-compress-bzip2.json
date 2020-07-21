@@ -1,0 +1,24 @@
+{
+  "FILENAME": "perl-compress-bzip2-2.27-2-x86_64.pkg.tar.zst",
+  "NAME": "perl-compress-bzip2",
+  "BASE": "perl-compress-bzip2",
+  "VERSION": "2.27-2",
+  "DESC": "Interface to Bzip2 compression library",
+  "CSIZE": "49551",
+  "ISIZE": "123997",
+  "MD5SUM": "ea410a59338cb4e42b521bca8ff3f3da",
+  "SHA256SUM": "92c51ef5b17ff6514b3f4970664ba612acfb192862fff8bd412f8e4b13193b09",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl7vNtAACgkQeGxj8zDXy5J+/w/8DcYv23U8zdFMtalKnuvjc6Q85gegQormZ4UQHyWi3qD83PYSHegbO1onNdwHYMeUYAnUmFg8wHI9DGs7zN2bKq105M73/2kQaip31PgGd9dERxkLotZ5v8kfMoZbbRZPTh1xTTezW3bxrBsWrZ3wWiutAqcP/3vd5npg3DWlUzKAPGvP4yNTpj+43UvSZBwzZOK7uLIgUzQy53DRpV1XKNMDFhBUF61+Jqy3BLAa6WF/uF/cn5aUVhcppxdVJmee1BV10WTu7VSx6Av4aGu9w9GEs+6vQeJ0bfw3t0QNm+cwCojr/X3k+FNBjmod3YhNhRQZz+iYuXPmMz7E20niqOzOb6f71VO1Kl298KiTa/O4psy8JFudDxhEYleNEcthoMbGKtNIA0pLkOEJgWQpvAVyz6rtXcyYVjRJxf0+zZP9c9eN3F3l4hJ3uh3HO5Mp+AVmZ+fQCCtzx6tNiOyEwNsEfGhGIILaBK4kivZoERUfaonn+dSHC3j6IgYw6B6YgHkTMzGhycH04tw7WX89YGKfN9xrNSlkGZGANzH+BX8KWK4QeERXRWcg7vm4JRin3fz9sGxxeDvhOZOGimhQDBC/SR+0qr/ShZkFQ68LO1nvF0fqalbjTcTUUcSt1vNVhtgjJoF7fGUKhe3181mhWUt6H4230I40i/xRzuMnDF4=",
+  "URL": "https://metacpan.org/release/Compress-Bzip2",
+  "LICENSE": "GPL2",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1592735419",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "perl",
+    "bzip2"
+  ]
+}

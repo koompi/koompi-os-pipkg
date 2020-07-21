@@ -1,0 +1,24 @@
+{
+  "FILENAME": "libkeduvocdocument-20.04.3-1-x86_64.pkg.tar.zst",
+  "NAME": "libkeduvocdocument",
+  "BASE": "libkeduvocdocument",
+  "VERSION": "20.04.3-1",
+  "DESC": "Common libraries for KDE Edu applications",
+  "CSIZE": "172554",
+  "ISIZE": "706534",
+  "MD5SUM": "41d3d9aec10556b5ce7b317b1f8df57f",
+  "SHA256SUM": "4f66eb4ff25909612d0bb4f0de6076848a7362ac78375caab306a367454da11e",
+  "PGPSIG": "iQEzBAABCAAdFiEEFRnVq6Zb9vwrc8dWek52CV2KUuQFAl8HAjEACgkQek52CV2KUuTwMQf9ECUVseADA7abcfrvr2orSg75iMumolkGdT/syfrywlaRf2xIbv+kye1YNLw2a149NIS+pEOpbQEzpVX+BvPz4nIQyPAn0aX3AyWpSRYzSXnmT9Jtkk/b4pW5fjITsVME7RucV9hsHf0NrZnykhpxHk94lz2y0Lt2XLEO4FcpPYJ7vtEbwhrpPY/zN7riMBoX0WY2+rtpnMAh8ySOgvxNFsdEJXwCNQPBEzIa/CreCWrGvxqTUFdiwa6nXkHJc9faldbKYXIVPX/vnGCD5s9KBvANyOcuxFZsZjJMWMbt3aH7JDKUtg+zc6CpTuxnVRFxMBgwNw++ZUtJUPyl1hRG5A==",
+  "URL": "https://kde.org/applications/education",
+  "LICENSE": "GPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1594103663",
+  "PACKAGER": "Antonio Rojas <arojas@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "kio",
+    "kdeedu-data"
+  ]
+}

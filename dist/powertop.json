@@ -1,0 +1,26 @@
+{
+  "FILENAME": "powertop-2.13-1-x86_64.pkg.tar.zst",
+  "NAME": "powertop",
+  "BASE": "powertop",
+  "VERSION": "2.13-1",
+  "DESC": "A tool to diagnose issues with power consumption and power management",
+  "CSIZE": "227840",
+  "ISIZE": "636886",
+  "MD5SUM": "4cedff7ad7a069a5be912f79fb5c132f",
+  "SHA256SUM": "387367add39fee53ed70937a21deddc85d62fcfbf2599c9d28cd8c9c32068d62",
+  "PGPSIG": "iQIzBAABCgAdFiEEOO3RiGdWkk4SJOSVJOTNsAE8JYAFAl8DHEMACgkQJOTNsAE8JYDbhg/9HHxjplUCZfWo3fv2FzbNZGVMchNC4iaJq/lP9Kkb4eKYSq9AYQJDqhKmUWWbxvtIzSjLO3k975YuNOfqneFyLJZc6I7EYVPE8i9ZbwuCo5AjqG0K5uUyIV7o4cnTG6wK2KEZEj7aFIpPVmfyBkaPtFaEvONHhuU9AzQIEZeXp4XeQi+nhTBLpQgOSH3K0DLquDarIAOgfg4dDKsb6CiTMM49WystWqVKwdg4yfAYeKawd3qD8MaYE9suI4EZm8XLn1NIVHa3LolJb63fEFwhiPFdD8+NTs84Xldud1nimTnu8XO0qkzvRQqerofoTAn+w9bIeE0R175bGkv4ErOlM7RgV0AV8bOKB2mcb9VI7RBB4jTqTq5yOlXP5H0jfHcwYANG//GSuOdIV+jTIA5RtfIEWf901lHFctrAJdNjsqUd6rO2AwGEBLh90EE8FZmrqDdlyx/ObZcHKPMITu2WRqfcSL1dMkcXE8RDpihmWcQ/fCwEfAwR9ROOHwh2GPOjUZGSFqnxcN7vHoYz88g0JQ4nnittbt7m7wWZXRWsCkblufm1xHdt9R7R29ERtDXEQf7hXUuBGBiQCrAEA4yns3qzqzBLOCtT27N9uL7ZzldYr4Sti1jIjhl19M8C1112G1/8ZfXLMf3+pYdKJPLMoBHFB0c0jEJAjVJ6k/VCRTg=",
+  "URL": "https://01.org/powertop/",
+  "LICENSE": "GPL2",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1594039230",
+  "PACKAGER": "Jaroslav Lichtblau <svetlemodry@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "gcc-libs",
+    "libnl",
+    "ncurses",
+    "pciutils"
+  ]
+}

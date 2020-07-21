@@ -1,0 +1,23 @@
+{
+  "FILENAME": "xfce4-wavelan-plugin-0.6.1-2-x86_64.pkg.tar.zst",
+  "NAME": "xfce4-wavelan-plugin",
+  "BASE": "xfce4-wavelan-plugin",
+  "VERSION": "0.6.1-2",
+  "DESC": "Plugin to monitor wifi connectivity for the Xfce4 panel",
+  "CSIZE": "36359",
+  "ISIZE": "119232",
+  "MD5SUM": "86d132d24d56ead9de06b1683b512af9",
+  "SHA256SUM": "eaced267f7389d359631a647168d9af7196943c78c4ffbeeec914ea2663c6874",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl7Dm8cACgkQeGxj8zDXy5Ko+g/9HlvlZEdFYIuhZporDfWxKV0mTvLV7DcglK4olX0gGapDkXkGtZO6mjBOWtCUl8HaKg8mf+u4MAEdMguBsbE/iJGSirzPYpNtT9700HAzf8CBKk95xSbnfhLJANrudIU4nITdSxkhnmmjA57bokIHclFhMoLqXcfIkf6hNghqVdkrjHh63FeUHNLNfHFfwtkrTtUiL3CUjdhlG0D1YPFy0J58beuXV4TPealkOIUASShEMZJ54Y9U3liNn0D22+RTZKzrhTClAi5Ps4WZXm2PSLpePw4GTVg+Uo3GanmFGIxLIZDV2XO6ZxbR9Jynf8pKL+0C8O1w2Xn3eigwQKbfwnb4151KjBVHwgrqSN58FrkCDy5GBH0oS4hRZjwHqjcdHZRcmEBzC4gZ1c9BB+W2+qILZ0ClehrM+qJpvvyDHMsaRvbQ1+fE8M/mc+SBoi7l+fA3oCf0X1STlQnlJeRkJH8f3KwZ4e214GaariW5SjHXsz3DM6+7kP6Kb0rmRYzw6YOC8n4TNSL0Yp53wRYXdcEChECqiykkrWV4vdFwEYbIX4SfC189Nydg/fvPolRx16OCSnQPtKYEMm/cNCNLMTeYs/JMSjX9/ps4w5R2fejlotGov7oZxiNb+pEpTbiFog0AZjZoHMKRAPAPLfcF+impiEMLLaZV9wDEXWKsQJY=",
+  "URL": "https://docs.xfce.org/panel-plugins/xfce4-wavelan-plugin",
+  "LICENSE": "custom",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1589877667",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "xfce4-panel"
+  ]
+}

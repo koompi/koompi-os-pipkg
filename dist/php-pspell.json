@@ -1,0 +1,24 @@
+{
+  "FILENAME": "php-pspell-7.4.8-2-x86_64.pkg.tar.zst",
+  "NAME": "php-pspell",
+  "BASE": "php",
+  "VERSION": "7.4.8-2",
+  "DESC": "pspell module for PHP",
+  "CSIZE": "8679",
+  "ISIZE": "26488",
+  "MD5SUM": "cb7343eac5d040187a0d4cbc735162a7",
+  "SHA256SUM": "8940d7b4b3a5c7933ad0dec57812df0ab10afd6c9b9dc1c2898fd53e915d905b",
+  "PGPSIG": "iQEzBAABCAAdFiEESqR2e7ycSx0Yrii3fy1DS5dB6KwFAl8IPMQACgkQfy1DS5dB6Ky4ZwgAh3nE1zcqMIJa4G9hQ/MIBNHINugqX6qPvdludEliF/OHnGiZ9MbCj/dOO1SzA00TK64jyz21JhBQ97Rgth8/PX/K0Bn7No8hWV5O4jfVIwqqA/3qFIvlJAcku1/guq0/jm+bzfm60BJudi5M2sjvk50WOodCTExcHuGecbIXyqsWdb8UG+kAGasOG2rW30cZSkg6FCucwklJOHy9KNZ5zBXdxOStXHUEBmipFiY4vtaU+dPz8evsB706SE+UYZlk5Z6j/tFHweM7OFMUVQVj1NaR7bSucc8V/0K5yt5+TBZtP5KnbvR+2KSFnPk7h+IokMsjEDXSl2XWSfYcW3RVpw==",
+  "URL": "https://www.php.net/",
+  "LICENSE": "PHP",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1594375162",
+  "PACKAGER": "Pierre Schmitz <pierre@archlinux.de>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "php",
+    "aspell"
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "FILENAME": "routino-3.3.1-2-x86_64.pkg.tar.zst",
+  "NAME": "routino",
+  "BASE": "routino",
+  "VERSION": "3.3.1-2",
+  "DESC": "Router for OpenStreetMap Data",
+  "CSIZE": "434339",
+  "ISIZE": "2295562",
+  "MD5SUM": "3d6680c44f99b3f3df9ab7250acbff0e",
+  "SHA256SUM": "c53914bc728c387c3f03cb97a7da383f193fcac7587d098722aeb232a0a941c7",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl8EgbYACgkQeGxj8zDXy5IFQw/+IfNUUFZXrqXAGoZcseTagwfwIBXC15q78PGHpIQIh9fQtNr1Cvd0/Ti54/1nBeD28SCsRx64tm/99IujARZleuxxmlsERS3TVEXE7HWts6DIsW8lCEV4HihTmZT4CtLX+ja8VFGTnxcUe9WaK9yWACJknXwoK+uwl2suOX7WXsXBFOOUEvb6ovRhfRzbjL1WvSV+8cC72snhYalZxhtxyXuPWY/FBKsEIxWlhHPYaQaKcjsQw3xTS8zgNL/XrFafvwtsEg/Ajxmrl1FhCcZY0Wk3dv6BOUDHjq5tsYHYQfc2Dn5gKQVySKtfrYET7b/U3HAR/Rw57hOq2N7/h3E/RVjRWWxSVAcBXVdsRpPUyrXseZ8eCY45r4F2Q/gWglESF+CX5kE12umC90UVeZFrQ/oeCU7C3aIsWts1RuGu4M/dETTSfa7QZ7xw6W9dcKwm69s3t9L5zCfwoRHHE4E537g/v//NjEkaH+ARq/GJj6mDzGuiOcctHPGOw98YbVTQFaeTE1Li5e9/fNmmf3Yb9nCVY5l2qt8rkVvR3xSVgYe1aYIZ2kU/beB3v/flslOyAcCiQ1wDghS7m1hxRYjOPuF2PThakbXKV8aCaH9vS0vwTDfWd5OiqNZyFJe5VZF+Ew2RXbRocW7hE1Kdz0VC3rVxCH8sZtKw+oTq2mIFI24=",
+  "URL": "https://www.routino.org/",
+  "LICENSE": "AGPL3",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1594130740",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "zlib",
+    "bzip2"
+  ]
+}

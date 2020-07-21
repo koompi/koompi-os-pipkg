@@ -1,0 +1,23 @@
+{
+  "FILENAME": "python-traitsui-7.0.0-1-any.pkg.tar.xz",
+  "NAME": "python-traitsui",
+  "BASE": "python-traitsui",
+  "VERSION": "7.0.0-1",
+  "DESC": "Traits-capable user interfaces",
+  "CSIZE": "905644",
+  "ISIZE": "5848161",
+  "MD5SUM": "ca6321fb634701d40bd916459429ca51",
+  "SHA256SUM": "d2973fb61764f10488c00342bd12327cdd8e2dbbe009de49a654a28f39f960f8",
+  "PGPSIG": "iQEzBAABCAAdFiEEcXAmqdR3n8U5QHJmQPVXtzFJYQYFAl6z9AkACgkQQPVXtzFJYQaVxwf9GhHU1wATrLyxXNHS2+Uqe3kcApnFkWXCxwZQicFSVYUb/InwFpyeufV3182BK5NYrmpksPo0GMOOD7lPUXNJPPwwOVdNN8eW9ymNkgT9LAspwKfbtANSadgv29+yktjPJc0dQGx8Cw5Ru5sPiQSYx8bUL7P52cI3AN4wNaA+uNdDtDylxxsZOiRwPHJ4t/Z1VnEF+WleRihOwifqu8JzhVUIM3TNAjhqEGUaUPWrGo5c+UkYU6vWPfu7DIYw4i7hxmeL7qf+MPpfzcJuceJF13ZEgS0rTwlWd4G5/W1Y156psO8jOra3rEUs3PJBdrwMRal7IwamQnybC1P8qJ+7pQ==",
+  "URL": "https://github.com/enthought/traitsui",
+  "LICENSE": "BSD",
+  "ARCH": "any",
+  "BUILDDATE": "1588851690",
+  "PACKAGER": "Andrzej Giniewicz <gginiu@gmail.com>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "python-pyface"
+  ]
+}

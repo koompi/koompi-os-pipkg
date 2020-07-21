@@ -1,0 +1,23 @@
+{
+  "FILENAME": "dev86-0.16.21-4-x86_64.pkg.tar.zst",
+  "NAME": "dev86",
+  "BASE": "dev86",
+  "VERSION": "0.16.21-4",
+  "DESC": "Simple C compiler to generate 8086 code",
+  "CSIZE": "272793",
+  "ISIZE": "908903",
+  "MD5SUM": "4326cd22b87e0b9ce3ebb30ac042f03c",
+  "SHA256SUM": "c87671bdf555af60a7fc9757e046b63fd33e07216d2294ed1120b7cf62003eef",
+  "PGPSIG": "iHUEABYIAB0WIQQEKYl95fO9rFN6MGltQr3RFuAGjwUCXk6LBgAKCRBtQr3RFuAGjyCvAQCAZVZ1mDPWb0hQ0YXTAhSefOxO3/IRmGNPHax/2qSbcwD/fIPkZCox7sKDRgGCoHJbQ/f5JR5ICOdPxY837bSmbgM=",
+  "URL": "https://v3.sk/~lkundrak/dev86/",
+  "LICENSE": "GPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1582205643",
+  "PACKAGER": "Christian Hesse <arch@eworm.de>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    ""
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "FILENAME": "python-prctl-1.7-4-x86_64.pkg.tar.xz",
+  "NAME": "python-prctl",
+  "BASE": "python-prctl",
+  "VERSION": "1.7-4",
+  "DESC": "Python(ic) interface to the linux prctl syscall",
+  "CSIZE": "13172",
+  "ISIZE": "48419",
+  "MD5SUM": "a2a374f1a1b26d8ec68f87ebe1eff833",
+  "SHA256SUM": "e19390038316bec97843c5d6058ecbf23548a5a447b09fffb3418d3406b3b071",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl2/blYACgkQeGxj8zDXy5LAHg//TtG7N+TH/TtRdviH/Wl6gy6ER4EDWevuvWfXeL5Ga+ve2EqEGFDEjlmhgdK7QAPregLUy8gdtFQ4oq2vIUuXkx4cE640584DUTusRntzro2eTrtHbjPwHaeiWHBROSwTXem8Gx8vp9+/J9PJM1+ylQElHEYf+OXOYmJQucXpt6gF3UaaLYrr/9r6lzl/hjZlAG9vOBkKE9YvUuqIJcbjTannI0p71Ru4qneapEkzDCdidiCHw9tpGA/QiHwJViB15lBNZNu9SWAm79lePHrMh7V5qkR6bTLf2EAd+9YSC24cDKLZhZ+iOhfhpM+eF7TB9+lXpGrHeclDLomlabNXkusw9jOr8bZZPpyyIUR+xUrnbqPJyndSjPWBxalZjuevyFtbz2E9sdEEBXcP/nikROdkbpr/5aT6Vz9FO4yjTN4RbPDa/umRbxIkl1nMS/cUb9RULGwLWrUlXXHDWlTYhG4KXqu0wS7pytDNOqPE096/ES4P4WD/k6MmcLcqMYE7x4NohNL8K6Pxnb7/JiURAYOFW2s08oQhmaJstEijLKUlMUQuN9x/zVeDe5MLv/pJH6LKlXAXeR/pzZF2AufSvGpMM3N5AvEZ1a3TJt0O/f04Yd2d6JdA4IGRsxNKZPuM61N5po7mLzwKGen/VOEBYtFcfKHWXBUahhYSS9r9CnE=",
+  "URL": "https://github.com/seveas/python-prctl",
+  "LICENSE": "GPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1572826687",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "python",
+    "libcap"
+  ]
+}

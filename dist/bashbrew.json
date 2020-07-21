@@ -1,0 +1,24 @@
+{
+  "FILENAME": "bashbrew-0.1.1-1-x86_64.pkg.tar.zst",
+  "NAME": "bashbrew",
+  "BASE": "bashbrew",
+  "VERSION": "0.1.1-1",
+  "DESC": "Canonical build tool for Docker official images",
+  "CSIZE": "4064200",
+  "ISIZE": "13857640",
+  "MD5SUM": "dc16e37de2ed0e584a565e5d8b7c6c95",
+  "SHA256SUM": "bd8cf4854f20c020a7302210e4675c8f81e37f13ad0732ee275afc6402d08754",
+  "PGPSIG": "iQIzBAABCAAdFiEEkDurc2QOttZVM+/zRo8SLOgWIpUFAl6oTcoACgkQRo8SLOgWIpUUIg//XHAT4/sAP8sHXaW06JwINNXl0e93WO5i6VkidiMPCD/XwR6bdaXLOzXlzMWJmaAxtheP4OJ/VlFr4IvwT3NhdW4hIHhjWKeVwrh0yzpwMVNY44ke7HQL2oTOvI68BnS1tjMrW8GS89fZG66fM7l3+evwtRWr8HoMU4WtWJUKlx54xgmy30naaHOiGnPW4LGjWeHt1zaiFWCXiCdB7kaXZvzoI7gCeCUfNtkpd6ypROpM0YHglNuiZrMDl4+keJvqZJ3oDni/tcywGgiDoNy2FC1YXPLeBIC/A2vho9paRauWRNZK6EmXANEvd8eI43uBClkabnt1bsnYVIlvUUKFOXr6MDZq1gcU6wU0uZ0JdX9tdINoF1a4fZ6Dz7GjSlFOeVBikTb3O/A4xXbq6+KW7TKm9ING1VyNrImwMzrrGKf+Cxiw8M6+kANhQw24otyPXP5hw1gQwwaBCWmP+U8SGhallpTLoxIx2qjoRAQGdnisO3az2Smcg7BiSpi3fKLkLJ9EcV/voiH0TpotmRm0DLGxLhsfuTn+fKznzthQZJEmIAYRC2bdU2Pem9lxQbXZrbkZF7ZixHiuYD2tPhZF2NudQV8BRo6txnMBKwxj3GD2w6wJBI83tT+U/yjw0waMpDkxvahvwmjYB5/msgw4pB4IJoBHAcdWebsbc8DhqyM=",
+  "URL": "https://github.com/docker-library/bashbrew/",
+  "LICENSE": "Apache",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1588088215",
+  "PACKAGER": "Santiago Torres-Arias <santiago@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "docker",
+    "git"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "FILENAME": "python-zabbix-api-0.5.4-1-any.pkg.tar.xz",
+  "NAME": "python-zabbix-api",
+  "BASE": "python-zabbix-api",
+  "VERSION": "0.5.4-1",
+  "DESC": "Python Zabbix API",
+  "CSIZE": "11884",
+  "ISIZE": "33312",
+  "MD5SUM": "3106d6750b580dc493e65dabe07a34eb",
+  "SHA256SUM": "0f9d26816cb8ed1ab1a5995bc223bb5d0aec01d5a717bd050e93c46e4b3b0e07",
+  "PGPSIG": "iQEzBAABCAAdFiEE5JnHn1PJalTlcv7hwGCGM3xQdz4FAl3S8yYACgkQwGCGM3xQdz6u7Af8DTuANdkcQRfgqQknjxau0bqgkIcSHwrpQXu+YHugRl1aBOUX0sRyeFy7KYAyXLpgQEwoTNi8qq6H1EFmXWWp+bDvjgl2vIWvyEm4txgRKGnAnFSbABl429SFg+TGwe34JfXJfGeeVilqJC1XcPCTG+t46lMQnNbm6QHvsonYPU5xuiSXrVp8ncTtcoFTgR/VHvdg8UE3wxp2mdvLi5ak5gwQAxj7eqaBaUWcZK7NPeGxqOhhbLky11COITY/KDuzs88xp1jEFuJTWdQiLd3UHX6OmvdN2MIaNZkEyuzLQX1McCfnN9Il/44127GJ5vYYTR+zGDpGgE5D8ilC5hFnnw==",
+  "URL": "https://pypi.org/project/zabbix-api",
+  "LICENSE": "LGPL",
+  "ARCH": "any",
+  "BUILDDATE": "1574105539",
+  "PACKAGER": "Jelle van der Waa <jelle@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "python"
+  ]
+}

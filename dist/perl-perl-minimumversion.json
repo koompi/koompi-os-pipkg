@@ -1,0 +1,28 @@
+{
+  "FILENAME": "perl-perl-minimumversion-1.38-3-any.pkg.tar.zst",
+  "NAME": "perl-perl-minimumversion",
+  "BASE": "perl-perl-minimumversion",
+  "VERSION": "1.38-3",
+  "DESC": "Find a minimum required version of perl for Perl code",
+  "CSIZE": "21420",
+  "ISIZE": "55194",
+  "MD5SUM": "369c151e25448babbe0a266aa39ba2be",
+  "SHA256SUM": "9e820e270bdcf84672eef85b113725ad102b9a70d4ed1ad69cb95629570a07a7",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl7vfVsACgkQeGxj8zDXy5Iarw//RgMnuzAMpLwe6vvxu9xw7wxrGaij5JoWkaritKsu2q1z2Utrv408V41UUNsCWjb77bJ+fWfXM+yHKcNq7CajHQogn53iDdXkMJLjaEY2af53w7v+FFrG5ksRRXq1MKY/t75PhK7Wgdv6LltiGNEwSAtllCgmSsacU1CWBJFR5oUhLkJLGZLHx9rHst+dQbvgt3St5vNl7NbVxTmzzy6uTOm1N1agNeCjxTtTMgv8kCmihYmbSLPcGpQxpLs8JQGDIlxygsLI22HxFPia0StLeh3RGR6Y2bndcDUWYezxF7B3iNCiEoOABOcgafiBX2MKLtLFen5bVqnsakSfqEmc/lxBQGCFp4HMxaMC6/M4hjKjp9GaqqfcMRt5MgO8Hyjl7mjm88VZ5m18FyjscIkYlH6f7WD2waIEalmsMx1EaVYWtKCgiJD3Gs4DSGZxZt6XDkRf7t4auQAwNT8MBtlFZKA35VucVF+0Vtd6m5RVhcoIpoWjgSK1IvmYRNHw/XN5ifmEycQXH2UP2UXq8ViiQ4fhkhiOJj3OiNl778j5w96r+1xoDTSWO6h8MuCSBAs6EnFxuVK14z0yaM/2PhVnafzCut4D44jh16HoPvuwsP7WU/MkILSd9QXKE7+6gFxpvwXgUjN6fX+r6e0nZhHt39iI6xjmhP6vrsSpsJTrFV8=",
+  "URL": "https://metacpan.org/release/Perl-MinimumVersion",
+  "LICENSE": "PerlArtistic",
+  "ARCH": "any",
+  "BUILDDATE": "1592753398",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "perl-file-find-rule",
+    "perl-file-find-rule-perl",
+    "perl-ppi",
+    "perl-ppix-regexp",
+    "perl-params-util",
+    "perl-perl-critic"
+  ]
+}

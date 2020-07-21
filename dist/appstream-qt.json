@@ -1,0 +1,24 @@
+{
+  "FILENAME": "appstream-qt-0.12.11-1-x86_64.pkg.tar.zst",
+  "NAME": "appstream-qt",
+  "BASE": "appstream",
+  "VERSION": "0.12.11-1",
+  "DESC": "Qt5 interface for AppStream",
+  "CSIZE": "71023",
+  "ISIZE": "291437",
+  "MD5SUM": "80289301a9194593a99a321d175f1a67",
+  "SHA256SUM": "e717acdb065b1e9dbc000b4eaf0332e05fba040edd01215db2a5e1dac04e88e5",
+  "PGPSIG": "iQEzBAABCAAdFiEEFRnVq6Zb9vwrc8dWek52CV2KUuQFAl665SUACgkQek52CV2KUuT6FQgAqooQ9x9DWrzwEfv0dip0mpqDr3I2ibV0Oq/VbyAxkbh3ilbTM454JpujD6hdqp/8xBJSSsArVp/5d2aTyp4xWi9A35IT5wmET+GhPYsuRFR0GAULA1sfjKDZkvBXkQ3LVJEeNoA+YubNbVG1lXuG+0Gz4wi7W090uRPE8PDczfLbnKNlPeEUGtwOYCKPMfFx4M30ZwLfI9kM/fUJ6VdT4cv3SO0fIRhEaznVxxEYIqeiSuhRu5zKW9+WlHEZ0P4i3kNjp7R6YH6gtfhE8yNahV96h+ypSqUq7MiD4W0K1Jkb6WVaYDexSjBXxVazmyyVuyV5z/7qyVmBOXOEvgnNsg==",
+  "URL": "https://distributions.freedesktop.org/wiki/AppStream",
+  "LICENSE": "GPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1589306350",
+  "PACKAGER": "Antonio Rojas <arojas@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "appstream",
+    "qt5-base"
+  ]
+}

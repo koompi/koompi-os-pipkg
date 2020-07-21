@@ -1,0 +1,23 @@
+{
+  "FILENAME": "python-flask-caching-1.9.0-1-any.pkg.tar.zst",
+  "NAME": "python-flask-caching",
+  "BASE": "python-flask-caching",
+  "VERSION": "1.9.0-1",
+  "DESC": "Adds caching support to your Flask application",
+  "CSIZE": "46431",
+  "ISIZE": "251756",
+  "MD5SUM": "2810cb726dd6e34f66b00e62c32d3c01",
+  "SHA256SUM": "9b62e1969f844c6455b9a51020bc90b58701221ae3059c0560d93a0d90818c9b",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl7WfcYACgkQeGxj8zDXy5KOnBAAhvqPOjkuxJKW3xc8aUfDngOCs/z94RmgvqlwbIcgzg02PuIHu0+Jv/+pnVfdaeCNc7Z6MRTeDZipD5TsnhrBiAaZ+FgXMXDmhVoxsFGTjU5jjCyk2QDSHxo3USlLLH97m9dZsXWNkvkWiTyR6ZjvwhRAFO+jlre0FdnlXoXbLbv5qKDOYCL+MnEfUkQO2KXV3sjPxwbus1Lhoanz38V1urSjfwNl0rciCEUIxlVhMagARN7aM3Dpo9jMPdqo2P+ccWulETBEYMImGNwfbuLW0Kd8USdSk4qRUiBOd2X1JTJ2RU4WLve6QG68tOCCvICimDPsDBmsfUMwl+EowXu5b/ECCKIH9HVXS6LfgiSpxLDK0qlV2eBCP2+H+t4UvqSvMI61uwKoMn8ZJ2Vrh00LEMgr8aYdeQCE99N4CJqwgXe7TrTQ4G13sKaP3Lc8xuS93gAcI/smTtzQL9ppIZQBXdlJfmwnZ925jm3WCud/2a6G3YgDmMtKPJe4am0laipTCxtInzGiB48VSf+cTwQITWZTw6EERd97MkK1vET19FRNgHCNaHnpuUSRIofPXkfk1pOhAF1mMpSZH8eiBNX2TH1ph+NhO67tuvJMRBb94bxq5bdczTDdLK3nr/rB7FUtebOT9aJBxtoL0S33D7ZTfv4WiXuVvxa8BZMRiC9FFBY=",
+  "URL": "https://github.com/sh4nks/flask-caching",
+  "LICENSE": "BSD",
+  "ARCH": "any",
+  "BUILDDATE": "1591115094",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "python-flask"
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "FILENAME": "vapoursynth-plugin-deblock-6-2-x86_64.pkg.tar.zst",
+  "NAME": "vapoursynth-plugin-deblock",
+  "BASE": "vapoursynth-plugin-deblock",
+  "VERSION": "6-2",
+  "DESC": "Deblock plugin for VapourSynth",
+  "CSIZE": "10370",
+  "ISIZE": "18200",
+  "MD5SUM": "c6450e9e25c81653269c6a3b1d448daa",
+  "SHA256SUM": "63d1604ae3edca132950ee028d0a1b1591ee05380517ccf7125f7e31e3d58d21",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl7L8iMACgkQeGxj8zDXy5IsrBAAsG9hL18gztWNpvFruAb5Fz45Nze0CdGKw4oMtuBKc0RRbU1YOMkRSlsUnBki7g+y6/aRy5mHJw1ssdsMjZ46oTPVpts9ndPac6TeSBKSJPkCx6Ykc3FXFBiUr2A4p3JwvVA7R+IIqRNTNO5UkdyKe26PXhaBS/EUtEHJXDYO3IqiqJVQxXUphqWThpLmwiAIjxc9ssFZWqwO+FTfmdKzDFbK686Ku1p4dzjaBbpKxyRQBKJ+GkeQ/Q5KBBPVeJITfnO5a3g7MCUXRsF0h/EDdDFzLuv7CTclNLOHYlCkzW+BO6MIfqmFMg2OQDeN7Qd1ezdGH0coBqJW0zwVF2Y3hhE0sYCISvVPdnTsl6K+BpIBcP4vT4TCAS4u5c6cetDFIyxEIxFloktec5NXh2q+dup6GNo3WPRMNdJxQKMsdX/9kgVqipZcU5ILLVbG4PrX3oIJ+jamuAmIcaGcMLzUN0QLOc2NHl8du+nHZIlhHjbIvNbpHsodGMVthvkvwcQWu6mVlZ9RWJrvSkTxHuU/L/UaUqIzNeSqtUs760+lxw2q8FdxGGFx7QudHtEYsOko9Gv2/9L4kpG8O91S5UpEmJzh7BXdpXrf9xTymG3+js8TQHIwJCNxXKQ2geZ89cXcbth+57B+jS32WC/XkPjIAESa2XVJEc6fkzaIR5B1w3E=",
+  "URL": "https://github.com/HomeOfVapourSynthEvolution/VapourSynth-Deblock",
+  "LICENSE": "GPL2",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1590423999",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "gcc-libs",
+    "glibc",
+    "vapoursynth"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "FILENAME": "firefox-i18n-ro-78.0.2-1-any.pkg.tar.zst",
+  "NAME": "firefox-i18n-ro",
+  "BASE": "firefox-i18n",
+  "VERSION": "78.0.2-1",
+  "DESC": "Romanian language pack for Firefox",
+  "CSIZE": "507098",
+  "ISIZE": "569376",
+  "MD5SUM": "7359816fa872243935f4b11a5e27df5b",
+  "SHA256SUM": "28dbbb1783ad00f52f5d72bee4bd625798ed1e843a9dc98918a5d83d11ba91cc",
+  "PGPSIG": "iIsEABYIADMWIQQGaHodnU+rCLUP2Ss7lKgOUKR3xwUCXwelqhUcaGVmdGlnQGFyY2hsaW51eC5vcmcACgkQO5SoDlCkd8eC4gD+KnB9SiOmD2G/yKJwWNRexfvw6yjoV9iahbqO50BkxtIBAKO/0Bv4TnAu+vjhTnCj8xFO0qnKkC4byCAVK065hw4I",
+  "URL": "https://www.mozilla.org/firefox/",
+  "LICENSE": "MPL",
+  "ARCH": "any",
+  "BUILDDATE": "1594311501",
+  "PACKAGER": "Jan Alexander Steffens (heftig) <heftig@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "firefox>=78.0.2"
+  ]
+}

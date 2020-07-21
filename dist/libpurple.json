@@ -1,0 +1,30 @@
+{
+  "FILENAME": "libpurple-2.14.1-2-x86_64.pkg.tar.zst",
+  "NAME": "libpurple",
+  "BASE": "pidgin",
+  "VERSION": "2.14.1-2",
+  "DESC": "IM library extracted from Pidgin",
+  "CSIZE": "6031409",
+  "ISIZE": "31879554",
+  "MD5SUM": "90372b24e9e1d26aabb27b3854a05cd1",
+  "SHA256SUM": "566c74baa4d7cd5991ebf8d17b326802151eb2b2196d402d7c4ba040a6317e19",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl7vi28ACgkQeGxj8zDXy5LGvRAAwOj8RXQZ4Wm55SSMeAsSRUIoI15MNjWZagdnoWFofX+wVmM2DEflXNxtXUVQS5wu/M0vQiA6uqWBXxhu8MAbJiFNB4LukFoOrMxsuH9X08iQhWDvUKItAipoZCDCZXuVfvgIYUy7H3j4FxU0J8IXQz5sYCLEpTuQ7Cd0yB8QqDOxcllW2iFPyXnqHcLmOdrb1UATiINEhcXg3GkngCBTp1DbgsZtI/R2zOp/BKNlGkviOab0GtDxDbEM+FgHPIrpIgYZmeqv9+RlEOAJsvTPOowe/wVfQ7+J+xsticRZHy4l5WGtp/i2XRDyVxOQj8gjTVxIPmFWsLIRQdHCQ2peU3oCq2WvRwS5CHsChuusJQ0QkpA4ZXvRUIJSbTydW3AatcumFA8tQZvqs5lCdT9tW++NIix4FveYVDhpZn4guxJeaYk99o92QWwzD/mziHtEwqXiZUSRsP7fsmHPx2ebqOrC8pXGny6ZhEzGHTQmP3vhFPLd7BzXfF+SbEw+Pw/h7AXXnTWt1XUrntEeIVSwMhNcj/gN1EHLfC6rDzI0zw0RkMgDEU2L1cyTnNN1tVMsVXzy8AYCiUvdz1IHXDjFATKZYcrH9lQlrTem2ErSCoyVbJkUgIfcY+o9C1Iyf2l2tpNbhdoDd50K/JR1XfTNpmto1e/NO7S8VqdjkFC8V7Y=",
+  "URL": "https://pidgin.im/",
+  "LICENSE": "GPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1592756458",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "farstream",
+    "libsasl",
+    "libidn",
+    "libnsl",
+    "libgadu",
+    "dbus-glib",
+    "nss",
+    "libnm"
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "FILENAME": "intel-compute-runtime-20.18.16699-1-x86_64.pkg.tar.zst",
+  "NAME": "intel-compute-runtime",
+  "BASE": "intel-compute-runtime",
+  "VERSION": "20.18.16699-1",
+  "DESC": "Intel(R) Graphics Compute Runtime for oneAPI Level Zero and OpenCL(TM) Driver",
+  "CSIZE": "2083208",
+  "ISIZE": "11077981",
+  "MD5SUM": "272bdcbd73e9d2feb54eee1125525690",
+  "SHA256SUM": "6bab6d8934a4f680c2e4a79a55243f8f581d97c5a7e940386a33d7325f095211",
+  "PGPSIG": "iQEzBAABCAAdFiEEP/pqt7aarmzKJj3eAZp0dCl9hXcFAl61WiEACgkQAZp0dCl9hXehsQgAgovOBJbX0mmua7UUEtfb3Uhl+JkvYUaRn8MIierevaT0qWQt2KhsUFKH2dgQoEvussav+2ER36HcLLduepM2v0QIgJqigPY9CjNrScWOMXhusor4/s6x+PQ1ONWWJ4D/b/Z9Ud7DgBQxtKuM+NXZdDrp8vsFAHdF+YycPLtmFEq34+wkfI7q4fZD/a3v60HqNvE6xnwfYyusMEDmDr9fv/cBJa2Oj9lHIdtJsWRbyPRAbpsranJd2izwRzxNSpdxZ9NJJaV0FUnZA2jRQpBYS62qq/JeuSYJQnS5C4DuseQxJOrc7G+K8DUpTRvgWlqx0wXNhidRjS3dB8Z/jUZRkQ==",
+  "URL": "https://01.org/compute-runtime",
+  "LICENSE": "MIT",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1588941936",
+  "PACKAGER": "Daniel Bermond <dbermond@archlinux.org>",
+  "PROVIDES": [
+    "opencl-driver",
+    "level-zero-driver"
+  ],
+  "DEPENDS": [
+    "gcc-libs",
+    "intel-gmmlib",
+    "intel-graphics-compiler"
+  ]
+}

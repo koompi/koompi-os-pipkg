@@ -1,0 +1,25 @@
+{
+  "FILENAME": "netcdf-fortran-openmpi-4.5.2-2-x86_64.pkg.tar.zst",
+  "NAME": "netcdf-fortran-openmpi",
+  "BASE": "netcdf-fortran-openmpi",
+  "VERSION": "4.5.2-2",
+  "DESC": "NetCDF fortran bindings with parallel support (openmpi version)",
+  "CSIZE": "328075",
+  "ISIZE": "1431816",
+  "MD5SUM": "10523b5b678f3af99c6efed12cf3a440",
+  "SHA256SUM": "7bd52a7c471ecfb793614f6a7cacaf1c658bde2d4701de241e0f17b98dab1e6f",
+  "PGPSIG": "iQEzBAABCgAdFiEEado014/g79WWrG0EnYk+xNqvkSkFAl6TQ5AACgkQnYk+xNqvkSkqsQf9FREWm7gdyE+o07WsQ3FtfdmHfjNmHjei6G2uFmFi6curT9h6tXlO3mTt0OVA7pSHJBsL1d6sYCgw5kExM0m5xG0hjlADfYoqqkng+JkXxMUza96JOJ90hrFYXNCSXQxcNqYp+Ze+apW9b1b5XUp3tqh46AFKYjcJ79foeuCh9pJVFYUP5c0dpV4k+SlxYFA+m25v18m1w8VIsCK9F1QAsY7mXHIFOFh1fP1dS+4dBTTPLemdyvJy4GnQ0bcFzYniBv6bcWlRCLovx8WL2BjZvzR3cko1kGdQWYBkvq//Ow9iDoM+vgDhtn3gRcLAojuVAi8h6e0z71Zwzsz3pUDbnQ==",
+  "URL": "https://github.com/Unidata/netcdf-fortran",
+  "LICENSE": "custom",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1586709144",
+  "PACKAGER": "Bruno Pagani <archange@archlinux.org>",
+  "PROVIDES": [
+    "netcdf-fortran"
+  ],
+  "DEPENDS": [
+    "gcc-libs",
+    "netcdf-openmpi",
+    "curl"
+  ]
+}

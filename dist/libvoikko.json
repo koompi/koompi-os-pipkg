@@ -1,0 +1,23 @@
+{
+  "FILENAME": "libvoikko-4.3-2-x86_64.pkg.tar.zst",
+  "NAME": "libvoikko",
+  "BASE": "libvoikko",
+  "VERSION": "4.3-2",
+  "DESC": "A spelling and grammar checker, hyphenator and collection of related linguistic data for Finnish language",
+  "CSIZE": "147610",
+  "ISIZE": "458900",
+  "MD5SUM": "80dd3b0087a4ff5e5b3c59497fb750be",
+  "SHA256SUM": "fc96eb7b7473e21e66c14b247c611dbbd5936c7665f2caa354ef2a942c746bba",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl6/xUIACgkQeGxj8zDXy5KtHRAAwR/VtgCf60nAXbc964Cbvp122MaiLYi4gmG6zDv5++ykmXnUK1oS6J/l5avFQK0MRxzcUZYePV6mVXMI8og2kE3PUcBnSCC0tYqVhcdpK6kDj+rOPDuvyFQlJcWaU6FEJlybNUIdAijUhyyAzIlIxJsmXmIfiw6HwuHZv9rcMIOasIVgRa0q6Q0L3YxTcF7txyb31Q50CqgaQw494f/Sq31FvbbvuwGQ2l1fS7pCJAZHlCeXLsu2Uj/4w2StF5XQ0dmFAIbiwaNr3pZQ9GlXLum+jl3tLBxI2cPT6i0up2Hl/MzRUmElUvEhWoLf53HalIIfxzdQSfzFE4o+gJEupBUUpQ6r8Iy2tAzgCNwMPuBlMk28ucv3ya5ZaAEqSNWsqDcyLz1hDPUmqNm2yXcIASzYn2T9zMmEmuwEHXTAKwLo/7lvdw+Ew39CBLG7e/9sC6iiMF9WgbkPQN0KEVCB6OGuW2SCVdUHXLLLJFBHFYtBTnV20KYBfFKyjd/7+t9Tfo4buBFqA86CMxkHGZlStzhfEwP3+8sQWNHmtZqdCWY2mCLwmcxq9FFZK6I8uytAeYfzT7In7Gkkfop6RGZuPJhGE9PDx7OtBEY2yu6GEasZYb8vR5uT9OyVjGDi70jz4qIWJLdQWoNDnbtJlc1XYSNrb/T79h0AqNhio4rG8rA=",
+  "URL": "http://voikko.sourceforge.net",
+  "LICENSE": "GPL2",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1589626141",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "gcc-libs"
+  ]
+}

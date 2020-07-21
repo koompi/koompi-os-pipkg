@@ -1,0 +1,23 @@
+{
+  "FILENAME": "neofetch-7.0.0-1-any.pkg.tar.zst",
+  "NAME": "neofetch",
+  "BASE": "neofetch",
+  "VERSION": "7.0.0-1",
+  "DESC": "A CLI system information tool written in BASH that supports displaying images.",
+  "CSIZE": "81129",
+  "ISIZE": "326553",
+  "MD5SUM": "7ebca3a2aa49f65ae546ae31d02f7422",
+  "SHA256SUM": "64d983429f316bd39d43eeda735a47f419cbbc47b736bcd97afd66031e119380",
+  "PGPSIG": "iQIzBAABCgAdFiEEwQA0ZnZjToDJQPuenAL/QZ/svhYFAl5k08UACgkQnAL/QZ/svhYn2xAAgp9GoEy4DDm7YPDXiPhE8BkKtMiIgMfgfQQhi5CfdW9rF6Rjw3NtG4xpJC5Dt2fnUHMJ8z6jenzfaFHsbEcOVhwXBznbllQTuYl82v26wnGF6wpKz8TXbwzPq+zqu4yn182Jy7QdSeZLZWUsjTvgT23Ip6QEFLN/SNA086hO/VSaUpXDW80TKhMZ+drzZFaWInGoVIq9K9l1MozsCbAyQsWXqPR/GRdZbtXyPbWu6OG7InMxAyOoM1AhivILYXz5Gp0ZwumCo504dcc1eHnWihEMdQZInkoLey2CV5N35GDXVQfTWr59ZwB/IxFkNRxhSlUu0D5J8aASBzz2Ep0oWC8uNrOfpBECY08ww1MhRG41RLnj4f/08zppwJSCo/cEYt5Bv2itJClM3gvguTWFrLs4UKl9UeAgppCVyoWSvP2ecuXEkGQtveJQ4qttIN18AeXUGRMvmeMmLb25GI7aGywtGQSUssDVoHlkXlpA+wV0FwNMYnfjH+maGbqULGGoeWHhZHsdw/ETfYOE6y2Toz8FloZd2WqU0zBEZNGeUJICOUwBwwpyL+kvxCkzUGUAaEo6DShavMvUedWRulCTyQHL3ogdCjrGy/OkNTAiePgCppAaRQq95WNfh8H6nNjzRBQYrtJQV7ohYlL63gygcboezCF6BaD1VD9LaB1kstQ=",
+  "URL": "https://github.com/dylanaraps/neofetch",
+  "LICENSE": "MIT",
+  "ARCH": "any",
+  "BUILDDATE": "1583666096",
+  "PACKAGER": "Morten Linderud <foxboron@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "bash"
+  ]
+}

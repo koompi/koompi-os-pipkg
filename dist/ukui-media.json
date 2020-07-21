@@ -1,0 +1,27 @@
+{
+  "FILENAME": "ukui-media-2.0.3-1-x86_64.pkg.tar.zst",
+  "NAME": "ukui-media",
+  "BASE": "ukui-media",
+  "VERSION": "2.0.3-1",
+  "DESC": "UKUI media utilities",
+  "CSIZE": "326824",
+  "ISIZE": "1662235",
+  "MD5SUM": "2732467cd9922d8ff8222913cb7b5098",
+  "SHA256SUM": "0539ed2fca37ffc0779df6df1feaaeaac814214ada462a2b00ee1531f608b43a",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl6LqHIACgkQeGxj8zDXy5Js2hAAkVgrYgbTbMDv0jMN67/IXYfs+sQpP1Sg/yc9swncpsZPBX8LFxK3wGr2L49/+WP2LDnxqk89DgTlWM0xNHZKvvMBDtjir3E0muX1JrnZx0gWwXfhEx3LbXIQTEqySUNtIGst9zoAYpByQMHsZzGq+0K7n9lz3IDENEPS5vkmDaj4LzrPkct+YldOUnTIggU7og2ZPKhM66qsprZ0iL8rPykAXaliZOmChuPcqdspFGXMf+FMqUK7eViIg/3DFsW0eYkpHPaHhuOu+RL/SNgqXS/YYCG2TAkZ2yveq89cfzBkrlcthcWhF9CK5TJVcPxZe8d99gIrh2v4e2703w9LxT1ZfCaTwFgjlT62n7ofsh+A41w+z01GmfqHt4Eh+RR2GawQkpqIqpxYXix71DW84NPSHpNiLWGsS0JcH9Ey6yq1J1OEqumLPKsaQs6FI7XfyJVHeVqNbSDcKyurpQXI5LzDNh2MnnLnEN2QCYWifC5oKpWY7JtLZ1WXeRMJhEjhj0+5Htib+hDM2kr5P981nN63w2O/tPvE8lh22nr9jcv9ccgLLcY6tYKNQm8Ft6+NCqb7MZiw0Nqpb6kxirHdpz9IqGXKc+ca0VuGYDG9Nhu74HTh5xBthaiGvwL1Zu65VTlHjsqoRawVl3DbRqENFs2lHR++IKhJsqx7K1B65is=",
+  "URL": "https://github.com/ukui/ukui-media",
+  "LICENSE": "GPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1586208626",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "gsettings-qt",
+    "libmatemixer",
+    "libqtxdg",
+    "mate-desktop",
+    "qt5-svg"
+  ]
+}

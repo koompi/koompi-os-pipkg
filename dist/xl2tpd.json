@@ -1,0 +1,23 @@
+{
+  "FILENAME": "xl2tpd-1.3.15-2-x86_64.pkg.tar.zst",
+  "NAME": "xl2tpd",
+  "BASE": "xl2tpd",
+  "VERSION": "1.3.15-2",
+  "DESC": "an open source implementation of the L2TP maintained by Xelerance Corporation",
+  "CSIZE": "59998",
+  "ISIZE": "148377",
+  "MD5SUM": "0f3af9bab51744b09dc1f44d92f2a4e0",
+  "SHA256SUM": "1c3d158c00edfeac25f8512031495f28c06471a12f5a0686d311a557416ccfd1",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl8EbR8ACgkQeGxj8zDXy5LWMBAAlcgwHsq4d63/Yj0tNMMxSgrPfgjFObbTF59K1lY6foa5YwidAgS29DaffigyLdx/Pf6FwdUcVbomRpjY4WHB4NWMd3gF95/zbcybXZkePYc31eCJ4AUC7HC8BgvQB/VuTpfGfuInGit/gsqOayFSypw8Iq/tJHBSPG+DO9supUUfbinJEa1mnlsPeyrHZqwa0sQjDMt526GxMFVNUsdgpYCf0mPN6hdHXx6A4mpSgaLqOPlSpIMSA/R567SFuTtRVNos2JQTwa2gbFP/EaZ7tX/vvePgYJPGolsxF8sBtezyHEhXn++8yv3vpbsT4Q/ZoldB3kbvhoT8ZPkQMDikjOiiD0EmTSxnAv9u2tzTctsKgtYq68LCJKAOgo2AAdSCeYYUupqZvePPRFmSxiK8x2icaTAf2u3hg0RuMXjYXq7qBl2RW6M67ruX8EQb+JhOof1zzENQGdovbznCRyHOsZmKirZer5PLEebkKnSXs40cQrq4aXjNqEAavkNj4KVcjXTdUES3YedsdAMBZRLP0mb1snHr212vFE4HEnFhb1+S1LW7n3iQQzbD3zXt00w/hp3qA+RGZWDcNxxqByItFM2SYdoyf6qW+s3aW+h27QK3K/MAGZbsO3cjXYVZnyHLmiaDUDjgusRWxDL4Eivb8PM353U1Qo70CqOTTAtWHtg=",
+  "URL": "https://www.xelerance.com/services/software/xl2tpd/",
+  "LICENSE": "GPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1594125520",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "ppp"
+  ]
+}

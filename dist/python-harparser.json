@@ -1,0 +1,23 @@
+{
+  "FILENAME": "python-harparser-0.4-5-any.pkg.tar.xz",
+  "NAME": "python-harparser",
+  "BASE": "python-harparser",
+  "VERSION": "0.4-5",
+  "DESC": "Python HAR Parser Utility",
+  "CSIZE": "7316",
+  "ISIZE": "27738",
+  "MD5SUM": "99e81b08aa2bd168e8bd9d181e325a5e",
+  "SHA256SUM": "0c6945937cfddc2017c31cac076a9f906c2d4569e3be11cf690209ad09befdaa",
+  "PGPSIG": "iQEzBAABCAAdFiEE5JnHn1PJalTlcv7hwGCGM3xQdz4FAl344IcACgkQwGCGM3xQdz5B+ggAoKW4ORzpokpyxOctdnbqRZnSrJRWeDdZcdye3dVyl54TCJ7LimciSg/+HYm/OCFPorNLkSs17ywAWD5nPMeFGFXsUNRMjPUjiWvM1m8FEOaFG4dpl516fueF2G0rmVwbNNKJhDIE+2y7GAdktQJDhvGUmKW/ipZW5faTw3Q/vZSMn9ks17zwURndoypw+EperrntkVYHZHkLrX5NEXVKkXJW2tsbR8qVhQuyB0dtXlIGkINHnmMTcbFCXBzctjP3gGYwHbCmhG6TrQug8CbPA5/VWGlEpQKSoNdCninlZrKDoVIJoMW98cJQlU9nhjxV5ZUZiZzXKJi43T7wkzdvbw==",
+  "URL": "https://github.com/JustusW/harparser",
+  "LICENSE": "MIT",
+  "ARCH": "any",
+  "BUILDDATE": "1576591323",
+  "PACKAGER": "Jelle van der Waa <jelle@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "python"
+  ]
+}

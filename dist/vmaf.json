@@ -1,0 +1,23 @@
+{
+  "FILENAME": "vmaf-1.5.2-1-x86_64.pkg.tar.zst",
+  "NAME": "vmaf",
+  "BASE": "vmaf",
+  "VERSION": "1.5.2-1",
+  "DESC": "Perceptual video quality assessment algorithm based on multi-method fusion",
+  "CSIZE": "813809",
+  "ISIZE": "4752457",
+  "MD5SUM": "1601656e11558a9b3390e0f45e81a103",
+  "SHA256SUM": "8d1c7f058a3d9bfdd4736d16823e04ccbe899125f9578d11697cac2717728efb",
+  "PGPSIG": "iQEzBAABCAAdFiEEP/pqt7aarmzKJj3eAZp0dCl9hXcFAl77zuIACgkQAZp0dCl9hXfUoQgAvtrhgodlRH81qTris+TrH+wqFYY/N3mRYXg2hF20Rrwr8fX+N/+8QGG/ASB/cG/BcgBFOwu+bChy/ru1buMKgL3PeagjYsP6eJRwPLZgLJ0yy14DzT6hzphsKKvxNgzmUI1iHe2lE3ekRJsMbN7L2beNpqYVYpu7PWAfO/JTXoLf0deCP90nuoTrF6X0ckvriMmtogddL0vrHd5rVhaHZJ7gt3ps5XIrUbJli8XHFC527PCdVNNF86EvW6ihPYJZpauBhSx3kKoY9CQb9Tho20l9lfnq0S1U6tl4G7uxLKyexgYxuCR0e2Ic70R7+6v5/y7+WTKqVQXwSyMpKysm1w==",
+  "URL": "https://github.com/Netflix/vmaf/",
+  "LICENSE": "BSD",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1593559286",
+  "PACKAGER": "Daniel Bermond <dbermond@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "gcc-libs"
+  ]
+}

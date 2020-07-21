@@ -1,0 +1,23 @@
+{
+  "FILENAME": "svgpart-20.04.3-1-x86_64.pkg.tar.zst",
+  "NAME": "svgpart",
+  "BASE": "svgpart",
+  "VERSION": "20.04.3-1",
+  "DESC": "A KPart for viewing SVGs",
+  "CSIZE": "30744",
+  "ISIZE": "93772",
+  "MD5SUM": "af95018d4b488a069f1b1de8705c0a65",
+  "SHA256SUM": "9c23e6d390eca0e9d36e02d6ca1eff7c220c6937701ef13c0c1516a59dd0559c",
+  "PGPSIG": "iQEzBAABCAAdFiEEFRnVq6Zb9vwrc8dWek52CV2KUuQFAl8HBpgACgkQek52CV2KUuRNnQf+LD0NU0Z/fjFiO0X0LPmuh7ZdeBurzWi5EaWMfeBBfhV1ccl9MAHJHI6l908BsnpbVDsJTcoOkXBanjxptAY4yuP+d++kZvy1NRNQCUJdV7MFGaFy7BZV5iL6D9mE49vndqQwWSqfVN4/8SeScthpsQERSHqhDTftagEMfPFlfBG/88yeW9eR+1a1cvctFGQ/UHQrv3gsGk7E+Zlzqyndr3+EpenmgMxeB3UioDxwCACZmkdPsl7qQg1DwIauy6ntlATwGat/SSQs/EdRLbmKpJ9OGQLd7kGiZmoZBvm7DORXtlkITRVaDSlhJ0oe3d5LLoIuKL/sgJ5Qn4HORCZe2g==",
+  "URL": "https://www.kde.org/applications/graphics/",
+  "LICENSE": "GPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1594110166",
+  "PACKAGER": "Antonio Rojas <arojas@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "kparts"
+  ]
+}

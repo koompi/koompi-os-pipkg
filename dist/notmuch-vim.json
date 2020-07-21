@@ -1,0 +1,23 @@
+{
+  "FILENAME": "notmuch-vim-0.29.3-2-x86_64.pkg.tar.xz",
+  "NAME": "notmuch-vim",
+  "BASE": "notmuch",
+  "VERSION": "0.29.3-2",
+  "DESC": "Vim plugins for notmuch",
+  "CSIZE": "12012",
+  "ISIZE": "27617",
+  "MD5SUM": "6aa45e50dc995a4c76f40bb077fd7dc9",
+  "SHA256SUM": "f7bf24adf0401021d09fc16c1aa038370e5faa5f5758f99598bc5e43f29b5a0e",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl4EDMYACgkQeGxj8zDXy5L6Yw/+PuFaqV2t0vJSK/Q5tBZirq6M9mO1HgnluqYieJE8L/NsmogUzkEpjSblNGZdrZJoUzzVDfGxm3WQz+4FmGAOOuwRT71Zhxo/ngLvMp+k1ug6hMtCsglpFNKm3PxuC3oWuyIu+YqGKZ4Xn0PiOcp0fm2oMcRTVf3o6/sVZwVeKR0WxlRh52ydALFAKYxeLj3lZJgCFA1xDZzWe1T735NxGfDCF685zc1XvoxwCzNrfzhlE4Cp35FNPTxbegJgZOtvQGwLn3Qg3UgT/wBLMxSkzu/zH7fknpNTljNw7ZRYXB5z3uX/x2YupSn9CpzAfj0bgUwNpicmY8CQM8Iwc50/SNHde81PP6NKAoLpU3rhMPKObUhYRIlVc8gceyZQOUjuzhw7YZnQJQ8SO1Q4AeTseJoI6jCDSOwcnoC+82wpyXua0PDaaVSY435NZgqqnoBMhbWDPnrCiQtSCoo7FfSeEwFd2zBn8tRylTkaeud8HYoaxpIY5GMwCSiCyMLZRJoyKCaISZEcPj9gfxJsd6qv/dqFGn0iWqCCpwe+wRXS65S8nOHmxsPBAPKYTv/AyhhL6L7Kcpo1TWcBOIdpQSxD2QGgFCydVRLOVvRs2mdiYrkuoc3bSqsciReCWQjXJP+joOhw4mSiMw6we9fndMkvYcKvSuf4FAmifsnZchnSGeU=",
+  "URL": "https://notmuchmail.org/",
+  "LICENSE": "GPL3",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1577323587",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "notmuch-runtime"
+  ]
+}

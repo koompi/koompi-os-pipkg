@@ -1,0 +1,23 @@
+{
+  "FILENAME": "python-genshi-0.7.3-1-x86_64.pkg.tar.xz",
+  "NAME": "python-genshi",
+  "BASE": "python-genshi",
+  "VERSION": "0.7.3-1",
+  "DESC": "Python toolkit for stream-based generation of output for the web.",
+  "CSIZE": "288756",
+  "ISIZE": "2432802",
+  "MD5SUM": "fdf27ca9b53c8b2d894b874393020904",
+  "SHA256SUM": "b014d440878efdd16921a0bf08e5a9174308be3dc7158b3f49f95911ec5c5bf9",
+  "PGPSIG": "iQEzBAABCAAdFiEEhs/8qRjPOvRxR1iAUeixSKmZnDQFAl2/N/wACgkQUeixSKmZnDSG3Qf/Qv9RseOyMV7C6xFvVsK03qvxyIebqhX/i5CINAgiwwb6/I25m5LF/CiuWZQGKvnBshnYNdwPBNIxkUy6NqV7r6j3V5bY5joMTWwsedXRFUEA6epLz6S5ORj9lr9Ei9s2rU5trZLJQVO2RYQGpQPqM/wKqTXSGKD7cN41/LK50m+VShPSzRlibWMfPyZ/ydTJzh0BkXUsDF+hzsQImsB16RZHmSyXDGXiNbnuJ14802Fm7nLbr5YbpXI4qk/c7KQob8IcpAEJT+xNuHszFkt8+8oaeEv/i53PsVY2SbvE68sHk6XzmrmyPlDZPTl7iCZOuSsEdMCzenTQm8RUwE9T4A==",
+  "URL": "https://genshi.edgewall.org/",
+  "LICENSE": "BSD",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1572812745",
+  "PACKAGER": "Evangelos Foutras <evangelos@foutrelis.com>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "python"
+  ]
+}

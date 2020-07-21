@@ -1,0 +1,25 @@
+{
+  "FILENAME": "less-551-3-x86_64.pkg.tar.xz",
+  "NAME": "less",
+  "BASE": "less",
+  "VERSION": "551-3",
+  "DESC": "A terminal based program for viewing text files",
+  "CSIZE": "103348",
+  "ISIZE": "243192",
+  "MD5SUM": "cd292d2b1b765b2aa378be6b5656fcf7",
+  "SHA256SUM": "eb6e2a03906da2016c1503d2b8ec74394f0bd9ee8e921d08726256c4dbce5088",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl3MKTEACgkQeGxj8zDXy5KTtw//eKYzoG3OBFQWVgWRALNoIM/3Wp9YUflDi//1UwZRdzG/CD7lovHq/ct+y9o+GknMroN4h8SatfOj2F7vg1lhExJwb4j9JVdCD2fXlzX//BPgH83QOGR3nuJ1yM3Rkt5/0K+K4B+avZvlJGZEHaq/hSbfV9D7irZNL/eGHOv94M8srNLcRWlSMjnhGfSwYsWb0BDS7e0g2HjplMIjkaHc1gHCfmA5+fV8P6rnJJ5JYlTZfOnZ1/NZO/3PQ/eT8vMr14nmzsEhYbvXvMcCjHMhnedvM/+PmCTyhQWP6Jm7CDOkxKxVo760ofzofDJBsFbEipUim2A7x/P5Dxhb/A+V1gRIQYVzS9aa1GekSG5Swk8HKo/hX7FcERxd2y2TnsPw7kIoxcpvD3zjpsXgCATOO28HVxdtt98hXsD3aax0NyMPGq//EtO8k9jEe5N4APftytp6TueIiE+0MVhTnXjGIFcAmg5pBUr/6PbfUIB7nzVwPItfTyd9DCYW5lJ7Jrx6jpI41Wb6rl2izHttGpznVgh5aDTDdCcyb5FNrgktwfyBSwOT37DmapnwCQG0hpBm88+hDmP68pCo/5gg4Vbuset6tfIqzy89Xc7/fsawacpPqN8vxuw6XpmMCiflNLJoas94j8bTVXUqNuw0JkbyTj6HfluyCJWRCcUP7+V2C5Y=",
+  "URL": "http://www.greenwoodsoftware.com/less",
+  "LICENSE": "GPL3",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1573660649",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "glibc",
+    "ncurses",
+    "pcre"
+  ]
+}

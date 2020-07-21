@@ -1,0 +1,23 @@
+{
+  "FILENAME": "python-pyjwt-1.7.1-4-any.pkg.tar.zst",
+  "NAME": "python-pyjwt",
+  "BASE": "python-pyjwt",
+  "VERSION": "1.7.1-4",
+  "DESC": "JSON Web Token implementation in Python",
+  "CSIZE": "33423",
+  "ISIZE": "132517",
+  "MD5SUM": "a266dfad0c2ae055a6745eadef891177",
+  "SHA256SUM": "82437781a94bf713c3c7051f85fa004b2ed91701277b7b408e8181d20ba84a36",
+  "PGPSIG": "iQEzBAABCAAdFiEE5JnHn1PJalTlcv7hwGCGM3xQdz4FAl66nHgACgkQwGCGM3xQdz4arAf/eUG6eAMxOba0txVIMV8qGVnDMoN8/zFBH6jp6KVAVkXiKdtthforVZWrBUU+7axkROO+Qv7p8jxtQ8pFis0AmF1ldoWSPJb/2wIkLfYVBH1c/uT3Esa67+uYLrLlRop+uUqKWz8a5KPXfOzSBKBsEZXOvRAJxUckaIq2+1hrUf9F/t+uiVq+Dp6OzWJ4g3PTUK+/UDZLD8rIh88fq00/MFQQ/y7D5n6nDHRsx7yfgiocKmnOqDWmVrB3+jF9MQTmxsVTcv5GV0SannkGQe/7Sx0zDaJ7xViUwML8k4XphwZe9SBABpBsGqTrMith8R+d/jmQUAF5ISywKZg6+7/UUQ==",
+  "URL": "https://github.com/jpadilla/pyjwt",
+  "LICENSE": "MIT",
+  "ARCH": "any",
+  "BUILDDATE": "1589287839",
+  "PACKAGER": "Jelle van der Waa <jelle@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "python-setuptools"
+  ]
+}

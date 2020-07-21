@@ -1,0 +1,26 @@
+{
+  "FILENAME": "haskell-binary-tagged-0.3-4-x86_64.pkg.tar.zst",
+  "NAME": "haskell-binary-tagged",
+  "BASE": "haskell-binary-tagged",
+  "VERSION": "0.3-4",
+  "DESC": "Tagged binary serialisation.",
+  "CSIZE": "21432",
+  "ISIZE": "62468",
+  "MD5SUM": "edd0f9f4e8f6ef2a66a8996ff2c26dfe",
+  "SHA256SUM": "a42c6db33b4ccb1fc4ecc3d57215c50f3261b213361379238b6009acc845b6fb",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl75sCEACgkQeGxj8zDXy5JVnhAAuOz6BqIzNepbaC+0ED9MtvOIg+2Teav+vBYOGfTOThk8RKSr6TWb8bN0JpOKIyRnI9K1o1uNPZTgOfAg46doF8uP7oN0kPCybkRyuhior6POcbDuVM9FgjcEPoOcHIaOcsbv6P8F5SqDhjDBzP1z1OybosGgHfIiVl1VZ34yYdULoaSRtTLIxyfkD6DsYH4mzMDxwDBuD74p6RH9FIIH2fBM5pGBBmZikPjeR30f9AnCvMqQ8zsn8FX/BddJzoshIeUfbV3exUJ4Ya1hHlGjgqPLSWWsX7NJrg61fuD+n7w1lVg5xwIvBvDQxrf22HqRa2+GA1Z3b1ZybBYTb1FjxCWnH9Nkig9Ijp+0wVLJ0pg+EGU8ZTJRsfDgwWzHDoCofC/G+GE/rIxZSMJZt7vDmeiKSdvGZn90mepnTQkcAEeJuN76CITr+p3Ld/+dtxAMK0VUATdb/MpnSfqXQCL7moWorxbLGCKDEVreE81GbCm7jidxBKPUBWfcZGVg4vlS0AMIIGPyxsW4yF2XPUGMnjgHw+OV7E2rLZ/CjRgeV5FI8vc8Ux2IP7ccaSxg3b2Y+ALwF3CgB4p88tkmT5nrcM/sEY2uOMkEbS0HfBqU5/yB4TY38/kQa3wMUqvLi1blioePdX1qc+bf7S+CJGkhb/iyhqNXaJ3dwDxK8qqQ/Zs=",
+  "URL": "https://github.com/phadej/binary-tagged#readme",
+  "LICENSE": "BSD",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1593421827",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "ghc-libs",
+    "haskell-base16-bytestring",
+    "haskell-structured",
+    "haskell-tagged"
+  ]
+}

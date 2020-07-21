@@ -1,0 +1,23 @@
+{
+  "FILENAME": "pigz-2.4-2-x86_64.pkg.tar.zst",
+  "NAME": "pigz",
+  "BASE": "pigz",
+  "VERSION": "2.4-2",
+  "DESC": "Parallel implementation of the gzip file compressor",
+  "CSIZE": "74767",
+  "ISIZE": "149631",
+  "MD5SUM": "cbe88775cfdf9769d10a721da012200c",
+  "SHA256SUM": "2b95ee91a714d906d92ed0fa71e0d25bf5bfdf0f755189be3199fa8c2ea3de5f",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl7L4YIACgkQeGxj8zDXy5LGTQ//e9MIctFzC57nck5A1k9LNTX9+8D0qgIdtFHjKldT1ipIjmNBMFn42f3MhpRnj1L0Yl5WO2uclpAFN1SsPtXR0asax+qpSU9pfP6KlPmxoynImEAujetGmvWsfSZtImFot6UUl6pbGC6NTKa9oZriDz/uvNN7cA0tGrPn1GnIBZT19XK0X3AO3SEFm44Hsr0nBLloAECvVsGZSYtMsB+2+AyeiwwD743XJC1hp9iOlplfZxgqd4I3h8+uC8CjSOQ9t90gFwXkOF65mUQSSFR1bp/APvZjoo46DjMknx4O2VmM9bgM/e7SxSOvNSP/Hf4lHwJaR9OQn8eApE7GLRn5wgK1K8E7UiS5EazGyFsB41uTjJQdd6zDFX7wYvLwI4QIM4Neh7wCeDvQxvoktRmwKqafP8U30NggptLOAfMBIj9LkcC8z+AgPWpTDPzQM83P1Pb54VnuX3+94Ky2MqjwzUQegjJdEau+SnAR2Y5Ix9Iu/7XAwKCodOe3ciuVbouVBmqxjNBJi6m2bmoimMZJfHSKt1AvtoptCQHhRBS7/WrvWo6JilCoVE5H1j578d4quCD+r8DXcsE6kTQDcoKeMEjNx8GE3V6opgI4oBEi7cHQkWaUXUB/2VlwCRLIMZO2SfxDr3UsJOkd1TleoXXrVJI6KN2ZKrGEHIZ6K5xg+wo=",
+  "URL": "https://www.zlib.net/pigz",
+  "LICENSE": "custom",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1590419780",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "zlib"
+  ]
+}

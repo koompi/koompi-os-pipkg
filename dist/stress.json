@@ -1,0 +1,23 @@
+{
+  "FILENAME": "stress-1.0.4-5-x86_64.pkg.tar.xz",
+  "NAME": "stress",
+  "BASE": "stress",
+  "VERSION": "1.0.4-5",
+  "DESC": "A tool that stress tests your system (CPU, memory, I/O, disks)",
+  "CSIZE": "13176",
+  "ISIZE": "25600",
+  "MD5SUM": "ecc95283059966d9d142c3332eda695c",
+  "SHA256SUM": "61ebce61ff3f49309747df8c2712e9df23e519bc7e3df8c5fbf23116224e5f2c",
+  "PGPSIG": "iQIzBAABCgAdFiEEz6avFeXHQUn8HYwIbRZVwUzhwT4FAlsP4JcACgkQbRZVwUzhwT5zGQ/+K8Hauj6pp4r48L+OzfrwJCqgYtCg/+lB+Axn0mA9BlaYn67KB6ZS6LsHMAcStHfjZsl4Fo4Brwaos5+vRHuHJGgjJpf1KMZOz0EoWL856qif3N/iU0OtQsRSwF6L5NxR5f5/qI6EW41CgKAxuYhnQe2rPsKjIIE9vG0FjIpc/rtvcTGgAaHEKELKgwbISBdGyDVbQ9OfkkobFtZkysc7h6sU1ckaeypir7iMwch0N6veSzTlJ5T8eUuppxRqufu0Li2fLoqi38YlfR3jdRch9xTh+5M/He+jiQy7CzCNo81TxqdC2d5MNSXJ1iFwbKJfV5iJSF3CcKQIvkMiCAWREcqjzuZX+CHWugOFg+ToEElx2/QptFmbg+3JcuBk6NvLj7SAOasK1vjBJ0FxaPuCYhMe8v+8om/ihC7SbpEZVeUWTs4KbNCFCw9PjAqEjNfb9qkw8OA57rLOrjaZDiUkye23BQ7cbtamKD5vqxMsYXjyeHMKuzZ9reSS4lAo9CmuKJgV+jrEZQzozugI+vbEmUg2hKNyAleF25Ft1i8oVAHpR71oMgR7e6TLevFLRo4SeB5ktCceg4aWnDjELvCLwMCMkgKjN167/lrwL031gljpnY232Mie1aiGK7lwcP0pTia6isTiJD2HDaHhvpXuTa3NgsV2HZtQKQ8E/jtVpUk=",
+  "URL": "http://people.seas.harvard.edu/~apw/stress/",
+  "LICENSE": "GPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1527767176",
+  "PACKAGER": "Florian Pritz <bluewind@xinu.at>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    ""
+  ]
+}

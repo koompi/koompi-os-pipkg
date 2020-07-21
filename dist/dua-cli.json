@@ -1,0 +1,23 @@
+{
+  "FILENAME": "dua-cli-2.9.1-1-x86_64.pkg.tar.zst",
+  "NAME": "dua-cli",
+  "BASE": "dua-cli",
+  "VERSION": "2.9.1-1",
+  "DESC": "A tool to conveniently learn about the disk usage of directories, fast!",
+  "CSIZE": "463115",
+  "ISIZE": "1187200",
+  "MD5SUM": "f8174713d0d9d65c5d89e16b86b4b176",
+  "SHA256SUM": "965455dad56b834768b787381603fb4a8e3fe013d237d9de751fd6836f316654",
+  "PGPSIG": "iQIzBAABCAAdFiEEj8FaBklQqZ3RvRTdOeS4d+YuuRUFAl8F1AYACgkQOeS4d+YuuRW/sxAA0/w7NwuA07u7jON/22K5REzKIEp9AlZNF7hJV8P2Jgz5pXlege66XGTfjotFWwl0yaQNnXkfQyaNW61eHSzZZxPnwq6oWH1dJCkpZbe3InbVURahaw44iYr3+dbMDT5xaFysXgbXdMtV01zHMulrx6WJG6TtK7mbihLzUTsJmVWi4yTfmt3o+BT+SKwDw4c30kmJVs+tYmstHqDslr03oWx9/j8sFwuI4Z2SVI3ucSaBowP6E10xL5xsjwLzvmmFXrLbC9he6pvBhi/JJVmdEs1lV/n/O5DJSFxlcXZpCR0Mphs2v/vuHjzuXXB7jEeBQ5ZiXRK2IuJU13NxLNckSY4EVBP1oufKX0GykS6oEC0BlMn2Ef3d0kuV0m0Kgwr8BEm1r7AHanq5veXa44/xpsOg8kiVnNtELxgW4gkvJp2RyJKtkVxPXI3PI+7FWpHa+SvnEvV1Vls6Pmju3KQjhzafqTCEbhGJ77uCrJMMNKsLcVkdmptx4FtiDTEe+s0GW2M79O9NilD46QVuP5YTccaFrA+StUh/Bq7nslZq20b80C56eoQ/XaT55ue2Hyolijvb8rZrwEZiVqTCsnPW2PNZ2n0MHlfvdqdrVqDi4y07njkpIeKEgukZyS65WpUoyZbFV9W9jouKAg3bL3HQcYyJsaC4MG/eBal6i2FDGus=",
+  "URL": "https://github.com/Byron/dua-cli",
+  "LICENSE": "MIT",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1594217241",
+  "PACKAGER": "Sven-Hendrik Haase <svenstaro@gmail.com>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "gcc-libs"
+  ]
+}

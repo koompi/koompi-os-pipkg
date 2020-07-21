@@ -1,0 +1,23 @@
+{
+  "FILENAME": "uwsgi-plugin-zabbix-2.0.19.1-2-x86_64.pkg.tar.zst",
+  "NAME": "uwsgi-plugin-zabbix",
+  "BASE": "uwsgi",
+  "VERSION": "2.0.19.1-2",
+  "DESC": "Plugin for zabbix support",
+  "CSIZE": "6541",
+  "ISIZE": "14464",
+  "MD5SUM": "3167d4b189306b00d220c6f15432503d",
+  "SHA256SUM": "747e5ec07d3bae6c41df047cebc72cda0ce28f7e1b52de4caad963583b0ee9c8",
+  "PGPSIG": "iQEzBAABCAAdFiEEhs/8qRjPOvRxR1iAUeixSKmZnDQFAl7viIAACgkQUeixSKmZnDS2HAgAt+Gg9pgh1WbI1r+Zxc2+4kHLuLYEM4VrEdhBLUpEhj5qKiJU1I0Yz0BNMBhc+LpSf8XwiUkyJTmX6zCycXxbwDGUIi4K01JBWYUSc1ArJPsQxKusC/9VEnNvoDxeH77Qi6jqFaZQYr3YtalxXXlRrR/6q0b0C9/oaeKx7BpP9TAIOMMdO/eUnCdkNuQPe6UPOhQfBTzoIihxmiY4EdPPLrDEYR26bZxPGB6CVqSnRjyVISzVO7NJK2SlX5rltVuNzyOxkBqwyJzLGK9mVxFbIlE9XJ8ja7+nQP73Z2uC4lOAXTbs3iS219kjapcOnk0ah6qQ0zAX1py/DS/zQ9gnPA==",
+  "URL": "http://projects.unbit.it/uwsgi",
+  "LICENSE": "GPL2",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1592756215",
+  "PACKAGER": "Evangelos Foutras <foutrelis@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "uwsgi"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "FILENAME": "libdmtx-0.7.5-2-x86_64.pkg.tar.zst",
+  "NAME": "libdmtx",
+  "BASE": "libdmtx",
+  "VERSION": "0.7.5-2",
+  "DESC": "A software for reading and writing Data Matrix 2D barcodes",
+  "CSIZE": "51771",
+  "ISIZE": "121466",
+  "MD5SUM": "0adb3cefe248722df8c3f48ed9770ac8",
+  "SHA256SUM": "2e503ad30b073f703a998681bf3655a5ec5d7bc6f2a277f005a8ab5c303237a6",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl6/3BsACgkQeGxj8zDXy5KvHA//ey00z0iZbv4U3nGHdiZv5u84JB0IWkdkMsLUEp3zEEbX3VrCYFrvtNWNhAonGO0MCWZBibQloBOXQ1hIyzPy6Z+Wpi2JTaFYPSlh2p4ZoyxgIrYpNo88ze36A0DEPI3aRB0fgJ0grP4Fbs3FtEKWDH+bW7oL9/pyrZ3pl/Z8CQonsbPRfXpHxQPEOhLFE7XzIO46w9u6HtM944+PL/j1lFf1aaTyAuAmMYK3VaiIkdX5zOIcx2Xg6GM58yaU1s5t+qzOrjuFeNY/9YWw2l7i3hvqRbchezKjVLEGXctIiYoDK0B4qclprNzk8bOed975mdI8Ga1e9ah+W18NzpxW2GTfaBGm+cS3LTCZjIoFTfSBSKzivAnmd2oVw8AC7/JgoOtSBNdNJZF1IdEn4G6CJhJcs0+1vbyv5SDOV8kICGw5u5cm0bbTAMgAPUhI1Uv84YfhOkXsyaS0a5CAdsHp2JBVT7pUdepNbR3eCwp8dqXBm6O0+UDuC2uh1KGIicJXhvUWXjRMz1H/dL4a+hU6fNvEPZuqHSRMoHdVvDVl/7Tyd/lrTrN9Upr4TU3DUH5iVufnFS8Pnir/fPPhreae5Y2q8KyjF419EcgYtoorzC0FCVK+xEcPiOFayOWhlIsY209Hx1e9W/wuDNmYfDSEo1HcYSbU3gjbUge5oixolAg=",
+  "URL": "https://libdmtx.sourceforge.net/",
+  "LICENSE": "GPL2",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1589631996",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "glibc"
+  ]
+}

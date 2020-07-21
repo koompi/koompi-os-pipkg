@@ -1,0 +1,23 @@
+{
+  "FILENAME": "xorg-xrefresh-1.0.6-2-x86_64.pkg.tar.zst",
+  "NAME": "xorg-xrefresh",
+  "BASE": "xorg-xrefresh",
+  "VERSION": "1.0.6-2",
+  "DESC": "Refresh all or part of an X screen",
+  "CSIZE": "9153",
+  "ISIZE": "17968",
+  "MD5SUM": "353a74c168772e728020640ffc5859d1",
+  "SHA256SUM": "96481a74bb3360cc2082e454ad91c70ae41ddb466fdfdc449cfda097d7687f2b",
+  "PGPSIG": "iQFIBAABCAAyFiEEZkWwqMcAXnjbHXhk+Z/+D+rpmb0FAl6zeBIUHGFsbGFuQGFyY2hsaW51eC5vcmcACgkQ+Z/+D+rpmb0qMwf/czsZC6UKyZ6N/7PzsCSBGntD5ti5CtL2sItzgYWm5SoWN+FToapu7sDRyAKzZrRqODnsLMme5miRmKNZV98Dgp4tYAE1dv1LKHHLAbbntSuLfWRfaGI7yTaOxyByhK+pYWeWhRu2VAhEK63vIGr4+g+27ZM4xitiKYaXeHzoR8yVaBrpfFYmCTmUtHyhZsR0VzG0uyDdOJMm7MYOlsHtwk5+HPpdGS5AcmO39w407mwUCmyEavb5WW+oai+DqW8RNdkKqXTygHqXsg2sQ04cN0HiH5qFUt+k2f7dC1wf8g+bOZnGHmJ5zOyxl93cbMt04Zr9UCBFZ2yp9djzNM7zTg==",
+  "URL": "https://xorg.freedesktop.org/",
+  "LICENSE": "custom",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1588819954",
+  "PACKAGER": "Allan McRae <allan@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "libx11"
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "FILENAME": "solid-5.72.0-1-x86_64.pkg.tar.zst",
+  "NAME": "solid",
+  "BASE": "solid",
+  "VERSION": "5.72.0-1",
+  "DESC": "Hardware integration and detection",
+  "CSIZE": "851189",
+  "ISIZE": "2734714",
+  "MD5SUM": "a3f4472d0398d3ef548b0ead59efc98c",
+  "SHA256SUM": "80066a6829b68532bb79366ddb5a665227dd6a3161246baff85357a82c779bd5",
+  "PGPSIG": "iQEzBAABCAAdFiEEFRnVq6Zb9vwrc8dWek52CV2KUuQFAl8JYHgACgkQek52CV2KUuSSywf+LgHTMhTKExqjxKDY/kYcK0BaDaa9bxYQUEZpoB5Cthe242cE7lboDo2QfwvjYTI6pGbWAoFM1Tg1OwIgCdvsZk4BJgSTxjhlU6KFzE1CcYS6F2Aqs4m4BbHlmoTXJjaVBCLnaLIyrevtBMuJVkwfzTThUoo6BNnXPc/XuVeH577QISjim8XnapYbEGe9tkc8JUO2AxiZJT0SKQe3HM9E5H1d8s+W2aWuwzFA9Rt3Qk/lW3tA+37PGpTfj77LQyts8C7RonmkbzPnxDP7Ecgi8JwaIVVp5IOXLXElG/RpN3Zxk/YAOd801e1aDba2vgGFy68v6SD4wD46S6dOddplZQ==",
+  "URL": "https://community.kde.org/Frameworks",
+  "LICENSE": "LGPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1594201546",
+  "PACKAGER": "Antonio Rojas <arojas@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "qt5-base",
+    "media-player-info",
+    "upower",
+    "udisks2"
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "FILENAME": "lightdm-gtk-greeter-settings-1.2.2-4-any.pkg.tar.xz",
+  "NAME": "lightdm-gtk-greeter-settings",
+  "BASE": "lightdm-gtk-greeter-settings",
+  "VERSION": "1.2.2-4",
+  "DESC": "Settings editor for the LightDM GTK+ Greeter",
+  "CSIZE": "149004",
+  "ISIZE": "962240",
+  "MD5SUM": "e87fa778f15f0454e582b5b326595b60",
+  "SHA256SUM": "40a44f4d5e5b480fb371580c31b4266dbaf1ae8af992c43d2050fbcf69937193",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl2/2JMACgkQeGxj8zDXy5LzTQ//Y0MyfBgCENURMMgKDh37LhJ3UlM00bo4ubYcbG1m8WDx73ZZYQFRR+9Sec5sSSLHKbqIPFn0Np0CNRBgVFJxkE5gLuTvq15PjEqENcFUx1/gg2AphPFQ57Le6cTiP9BI2mI/CC9v/ycqTzapkaOYxlqfgOCqAPyz1Ab4ndXi8PBHmXGL1yBdlT+DkTYthLthQBOtPWdRWV8wn+8rgv6VtxjzPl5cYuZHYO6PM4asSGqnkFVRw+BdNfdE/4GthhbO/BDg5aAQDOuU4eqq2TKdwovQSVEVMWta/koVTV/cZhgqnGL0xMQFi+U2On957fS5H3UCVDa+gTejkxbFXwYjIdznnuJQUVilitBeZh67JvCYadj4gmVIqfUHVIhe15H7gnZKzSHNhgAK7B0Rw5sdq9ZEcjAM9jgFG3u3imzMTUlGeDSGKp26sg8zvOEA4F/QnTZgixoPEUB0/veRDZBdS4RdqHM5+8Jv2uYHGbbPaTy+zCmLNT5PURI8m67LvAQ8DGYMNzWThs7hretBPlu3PqaDz1nwWWlbXPwui8Hc2/Bd+IOpxj2VHoFn9J9yrCj9GnQND5LaJmn8Bz4C55Bm4DQqb2E7yC+DS4NvAKCE0MNzmBJpaCOd356TV37NmfOQJcxu4qJE7kX2yfMVgyZu2jqgxFWpN6O++s7Fpw9tAPk=",
+  "URL": "https://launchpad.net/lightdm-gtk-greeter-settings",
+  "LICENSE": "GPL3",
+  "ARCH": "any",
+  "BUILDDATE": "1572853857",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "gtk-update-icon-cache",
+    "lightdm-gtk-greeter",
+    "python-gobject"
+  ]
+}

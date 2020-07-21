@@ -1,0 +1,42 @@
+{
+  "FILENAME": "amavisd-new-2.12.0-3-any.pkg.tar.zst",
+  "NAME": "amavisd-new",
+  "BASE": "amavisd-new",
+  "VERSION": "2.12.0-3",
+  "DESC": "High-performance interface between mailer (MTA) and content checkers",
+  "CSIZE": "394414",
+  "ISIZE": "1982746",
+  "MD5SUM": "136fdf18dec1cbb3fe3fe566823fab22",
+  "SHA256SUM": "852f1bd25b312d4919164fe050a26d19fa965f8cc7b749aede2d4158dfe4edbf",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl8ErlkACgkQeGxj8zDXy5IA7g/+PqiqEeauuLgJyZnsb/z6PZ8u9bGLWRkQ229qBlIQ7CUjyRYBJUAyx4YJgoAYINTJQWhEPtcz+byRr0bel8mPtyGSqIhWf4VapUZ43IS4IdcMNRB0QUaVZdTNz1dQWRftGcMFkJDS6GiYILzNjHpGpi1JA5xHX/U4BrjK5Lc4gMnXb4ZdY0rnBCZocPvlkuCMFJCo/CFPt/myykFCLoYs9+wRuqqPR65MdWF8MGQAY3VSq2Ck4dhRw5vjmA101sJRh96K4cMdXoqioOoeV0VNrJelwFrG0Zjr1/pw3lQwEL/D86k+ZIv+xO+HuZ+3TxMnmi1dcYOl5JVAJbCGypHP//BwP9c9rLT9MF5zcL7ROjwT0Iyl7lwx1+oeSwuUSOFlEr6/0jlSVRajz3WIr78RxeH5DLoiUFJzkoVuR94ro7/ypLKwZz0WyyDhNHbiESpmS598ykxpGQcOMsKvUAlE1rpxQGwvK3UsRO7iEJgclZBBr6rPvlldPs9WP6cG5Cfn5GYSv4WVwNliTzQxqYLdlMlE3x8Xxjzp4kW29vpIwSnEbAdE80+PU2yQ0vxQGqyaCUT+WPXujF2AN9WDAbV0qIsy5SVA9bc7OQJ3tA+WI0XJaB0KMYOtRxRg3XyF0xOKkRRkcyJiDGDwAaX02gM23/kdvdib0YlfDtKTdFVPxlM=",
+  "URL": "https://gitlab.com/amavis/amavis",
+  "LICENSE": "GPL",
+  "ARCH": "any",
+  "BUILDDATE": "1594142238",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "perl>=5.8.2",
+    "perl-archive-zip>=1.14",
+    "perl-convert-tnef",
+    "perl-convert-uulib>=1.4-5",
+    "perl-mime-tools",
+    "perl-mailtools>=1.58",
+    "perl-net-libidn",
+    "perl-net-server>=0.88",
+    "perl-io-socket-inet6",
+    "perl-io-stringy",
+    "perl-unix-syslog>=1.1-4",
+    "perl-mail-dkim>=0.31",
+    "perl-berkeleydb>=0.42",
+    "perl-json",
+    "perl-http-message",
+    "perl-libwww",
+    "perl-lwp-protocol-https",
+    "perl-net-ssleay",
+    "bzip2",
+    "gzip"
+  ]
+}

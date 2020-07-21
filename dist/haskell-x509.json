@@ -1,0 +1,30 @@
+{
+  "FILENAME": "haskell-x509-1.7.5-64-x86_64.pkg.tar.zst",
+  "NAME": "haskell-x509",
+  "BASE": "haskell-x509",
+  "VERSION": "1.7.5-64",
+  "DESC": "X509 reader and writer",
+  "CSIZE": "268487",
+  "ISIZE": "1423360",
+  "MD5SUM": "f36d286080242821e586fe4f16151265",
+  "SHA256SUM": "9836304942010985f3c3d26aa6992b2806edf6ba9674026fc5bdb09b042c2de0",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl75yT0ACgkQeGxj8zDXy5IaOBAAjU5NNn3tZqx8kkiBKSlYp5J5ffbnFl3h4FZ0XHB5nh0/ZF4f+yk8pB8u0CuCR4mohEgZ9oUvVmoP4XtjMxY7BOQHX2g3u7qa7JpVzReXDkHsFdW2Gf3KyLpqcXTg4KfSs7hlEGq0+Yg/twqR5sL5hT2xTB3AiijnAwbqL706vdNVTwqE5Lxcx2M3449h8MPU3gSNPfQ8gXtPR0spJbl/J5/nt8pp1wcTKg3iyF0Nof4AMO/PKvT6OgeBrfkwITI5cA3niXZkeQ3cckDVkBUz8umFuwJhO5iYmm/UGOxA37eAjc50R0EoBBO+rgwQbFgZ7Gi941LF5KRq7e64rqXCU4j7GLVOifQqn+L0W9YaPb3QpSVDjgESibi0uci+2y4snHG/ykvrt6WA5hOlNw5di5Yew4p/IO4A+H/PXn8F3B7vaaKz3x+vDdqDCYEKlkzlhrnrKyGdtCmorfeC+VbiKAw+Bmpbxc8CfS59fBo4jUgRa+B2PQz4Pb4h5/DuO+wyFgcpQzw9NcReorQVExk1gp1pHTzrCGOrmFRhlCsUR/hHiJGS7i5LEtO5D2JzBwuN7jYJWJTluYy482VWr+zM1ASiYLMYT3MYiIgetJSSnOBVnfQnrqV0pWrXTtRJxacrjwD5mHYLagvV5Ed0qh3asf7PdezvomANd3ClaLir9kY=",
+  "URL": "https://github.com/vincenthz/hs-certificate",
+  "LICENSE": "BSD",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1593428257",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "ghc-libs",
+    "haskell-asn1-encoding",
+    "haskell-asn1-parse",
+    "haskell-asn1-types",
+    "haskell-cryptonite",
+    "haskell-hourglass",
+    "haskell-memory",
+    "haskell-pem"
+  ]
+}

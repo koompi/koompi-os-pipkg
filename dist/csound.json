@@ -1,0 +1,28 @@
+{
+  "FILENAME": "csound-6.14.0-3-x86_64.pkg.tar.zst",
+  "NAME": "csound",
+  "BASE": "csound",
+  "VERSION": "6.14.0-3",
+  "DESC": "A programming language for sound rendering and signal processing.",
+  "CSIZE": "2347921",
+  "ISIZE": "8458563",
+  "MD5SUM": "0a3d31f9b38e2e257a4fa6ddf0b8f474",
+  "SHA256SUM": "bec44a37684ce00017c9b0c239c3f6a5acad4fc935eaa43b9ebde513293281e9",
+  "PGPSIG": "iHUEABYIAB0WIQTH54SUZv4jWDQ1iDdyWHNLQcMVSQUCXpI84wAKCRByWHNLQcMVSX33AP9X68ADYi/C/iaLnuy4iq68hEtIPdAuFtQBiNnM5bDapAEAw27dqY4f8LZ0OrkNTRQ6uznZ0wwCBIP2nx9D0OX8cQg=",
+  "URL": "https://csound.com",
+  "LICENSE": "LGPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1586641859",
+  "PACKAGER": "David Runge <dave@sleepmap.de>",
+  "PROVIDES": [
+    "libcsound64.so=6.0-64",
+    "libcsnd6.so=6.0-64"
+  ],
+  "DEPENDS": [
+    "gcc-libs",
+    "glibc",
+    "libcurl.so=4-64",
+    "libsamplerate.so=0-64",
+    "libsndfile.so=1-64"
+  ]
+}

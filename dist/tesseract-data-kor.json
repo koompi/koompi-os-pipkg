@@ -1,0 +1,23 @@
+{
+  "FILENAME": "tesseract-data-kor-2:4.0.0-1-any.pkg.tar.zst",
+  "NAME": "tesseract-data-kor",
+  "BASE": "tesseract-data",
+  "VERSION": "2:4.0.0-1",
+  "DESC": "Tesseract OCR data (kor)",
+  "CSIZE": "6373285",
+  "ISIZE": "15317715",
+  "MD5SUM": "6708753037eae0b9b4e0b4610442d202",
+  "SHA256SUM": "753a89cacc87443baac23fecbb1737813873380bb9dfa7cfa5f7783b4797fb4d",
+  "PGPSIG": "iQEzBAABCAAdFiEE5JnHn1PJalTlcv7hwGCGM3xQdz4FAl78dLoACgkQwGCGM3xQdz4Wjgf/dP/cAa/r7S1frjYsN8CDeiYem0Vs4DAU+LR6/nSV/+41ox1XTC15wlFihZlKTwtcwcOUWsL5uHBJBtPO0MjoAzSIbM7gUIj4gnDhS0DdjPF8V74gPZmdGdHnExvlmwB09g6cI1DFazdP6SKPBucnzJiqYn4nyxxbXZMnRrqBejKbPFZwrKzRSptKRrlYa4eRK4JRRFTMU55aq9coDsxsc9QF9bKTvhVHQ5a4XrAtsa4lWwKcOQ/GyjPDPsEWffpV4kbUWdfhDHW/EZp1UXc6+P3Ls4SFsUC6OKQUYsucv0x61ai0Vsnx0L5g9QA5Me5cf2NAGO5a2l3MtBimoo1dOg==",
+  "URL": "https://github.com/tesseract-ocr/tessdata",
+  "LICENSE": "APACHE",
+  "ARCH": "any",
+  "BUILDDATE": "1593601400",
+  "PACKAGER": "Jelle van der Waa <jelle@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "tesseract"
+  ]
+}

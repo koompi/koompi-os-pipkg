@@ -1,0 +1,23 @@
+{
+  "FILENAME": "perl-json-2.97001-2-any.pkg.tar.zst",
+  "NAME": "perl-json",
+  "BASE": "perl-json",
+  "VERSION": "2.97001-2",
+  "DESC": "JSON (JavaScript Object Notation) encoder/decoder",
+  "CSIZE": "72534",
+  "ISIZE": "190354",
+  "MD5SUM": "c8cb521c12f8751c3b4ba496c1ace6e8",
+  "SHA256SUM": "b847a686ef8a8deeaef891264e1496109d2e7552f6394b58d27400904df77cea",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl7L3sEACgkQeGxj8zDXy5KVnA//TuM1QHUVC5+agu3JGqTyYrXDWQI2IV4BK7b0fkrZGL9d5vB23GIXk/jhMktW4QukEOvaIQ6kITnE1VJMiv7yWDAKkW4vCqIOv7XQ+wduDsh0NdhWsDdRZus+ScUl1AOYQ+BBL9qjEY8NjRy8Mm8GjR+71nu8lDmiWw7ZhZ99WSUJceQg+mCNs1iFguyTw8h38xSgzodxvM2yplRiuaQDJeM3ulFu2wxQLDw4hiFxBtcjgxfk4/CZvkXJO8lgWDgNck6AWlgbMpBVYyYVyDgZYy2DmZZE0zmKQ5OQEoB7S+GJ2394Xo9ixTY6vG1U/YJiiLgBdwxxY3sIhPk6EGAOgz/Fo5oUyEf+mDr+0Hhdehb8WIAxSWLrHs918dzhmfQuKYYV6hVPX2Ehexj9a1OMD8+nXBQrcP8mLleyC3M1tTaIKAE34g7gLGocSYZ9712fDw3gg5DDYOuBfJPCIAUf/LN1w+A0eKNfPR2hgnLCHUvqwZoVfhZgxDyGDg76Ume4i8fAmzUMErZtx2BrjWKXHjgM+do9nyvClEslGSEd1YZP5k5aUP+1Efd+CQrY4a8OyJ4i0QT0DTBOZjqgqWz61jh7tctrWRFW7+wb9sOajmImb3ENatereex94mAlGqaVdwTnuwduDAYVZU+uaba1S30Lze5tdutaI8IhtlbTYyE=",
+  "URL": "https://search.cpan.org/dist/JSON",
+  "LICENSE": "GPL",
+  "ARCH": "any",
+  "BUILDDATE": "1590419079",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "perl>=5.10.0"
+  ]
+}

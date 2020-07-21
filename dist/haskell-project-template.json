@@ -1,0 +1,27 @@
+{
+  "FILENAME": "haskell-project-template-0.2.0.1-240-x86_64.pkg.tar.zst",
+  "NAME": "haskell-project-template",
+  "BASE": "haskell-project-template",
+  "VERSION": "0.2.0.1-240",
+  "DESC": "Specify Haskell project templates and generate files",
+  "CSIZE": "30503",
+  "ISIZE": "109670",
+  "MD5SUM": "5763f1b837b6d00689c59fab1a5e33c3",
+  "SHA256SUM": "b36b52e4dba9710f4e6932258b3c79e74c3c966517f4b9f352ec04471d42b2a9",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl75p34ACgkQeGxj8zDXy5JgEQ//akVpr6IN7OHikA+bidEGdWjItNjMiTTvn/PAE17jn2piLOP59ej706cYGEjK12XAVZXuPpSSrCRmHlhX+Kw43fzZIfvf1E0lMWNbszaJGYbiOxocpG4Du3JsA3rKYlNAyhUNB06bPv80t5ilHw6NF5VfUDB7yDr/S1UcVf045yRT+rDTrJSKHlasoTcJ1NpcYhNH5AkGog8lGt8t9CXeTHPfRNGG6mZFApUTsDZyolyRHi6XQWX4VuEYoNNa0x86Nb/t35+jMRLX204fQuRdiDRKSyYsAmJ8h0sFzaYv6eq4haOXZhLSoOp37DgCkcqvaBDEO7zKCDfwLXHsXk0U4cRPkgDMmugrnnFPVaO4kk3nkvTO0QkasAdmqzd+0eWDfqMnRpwrxv9hi+cO7kgLJ6pzBvD67a0tn1xzyoaCUyttyIvXJPbJbFWAkZImbfqEVmJi5t2Ga67GwZC1k9e95PwmWoVitGAU5QJo6GMW31JwXFvY5U39iCk9BclrE/b20cnn7XoDsHG8YBeKu3BcSsnDfBD3eHRNutqKLxZUtJ9QLTCUCa8ZGbkz8VKegVgtNT1BZhrVp+3xF6DC4FMY9H4odkGJ9/jM4P9zBdoYBkAEdiUlZEP78utawpnSMkdQgialsDb4AmtF+ZTrwuk4/WbYGBf10ovbpKSQq4c5OVs=",
+  "URL": "https://github.com/fpco/haskell-ide",
+  "LICENSE": "BSD",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1593419618",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "ghc-libs",
+    "haskell-base64-bytestring",
+    "haskell-conduit",
+    "haskell-conduit-extra",
+    "haskell-resourcet"
+  ]
+}

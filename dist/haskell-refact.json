@@ -1,0 +1,23 @@
+{
+  "FILENAME": "haskell-refact-0.3.0.2-18-x86_64.pkg.tar.zst",
+  "NAME": "haskell-refact",
+  "BASE": "haskell-refact",
+  "VERSION": "0.3.0.2-18",
+  "DESC": "Specify refactorings to perform with apply-refact",
+  "CSIZE": "59460",
+  "ISIZE": "303279",
+  "MD5SUM": "76bc780ff62e573091ce10c921eac341",
+  "SHA256SUM": "f2214b1290bcdaebf010f42171996592c4717da2d937ad4feca1bca6bd324ec3",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl6hqPYACgkQeGxj8zDXy5Kjng/9FlE0n1DOapI8WNb2bbSr/pkGnryzAHMvw9EcN1qfsBK8aDgsH/b0C5YZmSe9DduZYiSdB67JsUi9KON2QfNmMgUpe7SmOgfPbb4s8WW77VdtRRUSV+uIO+uKBWTMFb57XFOY/RfbMcNiQyl6WZla34Dg+R8QmTKjKDaiwSHq8U+XVkApB6v/S+AwhsY5np8FMT9yBMq6Sw9fk8lhKkDd3PxhwqxS4gq0hk7i4LwCE+VIRDCWi/4RNAb/1U2ca/MW8JqA1uTiZThcImAHvxWWwSvDrc0dBRICN7MzsR2plAGijS2yVg5uxXKi62TSIoWz6xy9gi+VpPJdbcYCNPtsNF9pEwubg10MWQrjduMrD3r9ORgO5wccmHru3Jpc7gASFQebvU6ANaT2zK4NRYI4ISfUHv8jXnSWdB7pXQn54HZO9H+oCCsGXft9zk2xcSgUmY+QFks1f/cYV/j7vi9EB/C9qkBRHxlQkRxgoOJLCduYkBcbkj5dLqXNLlM1Xl6JeiZ9MKijFIxG7jrP6eJrPh7gvA234uYCJxbJb4CYwc2Gcw/7qw+cscF/PCxw+f2KY18aFrJR7fLy2VaKMqn3/CQSSm5rOKtkBEVm5g5iXqrKfleNJVG+/A0mnfma1H6UogvlmU+RL1hgtz3wOwS6U0oduObaO4ACAFTLKl9gEpI=",
+  "URL": "https://hackage.haskell.org/package/refact",
+  "LICENSE": "BSD",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1587652757",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "ghc-libs"
+  ]
+}

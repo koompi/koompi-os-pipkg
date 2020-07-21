@@ -1,0 +1,23 @@
+{
+  "FILENAME": "perl-data-munge-0.097-3-any.pkg.tar.zst",
+  "NAME": "perl-data-munge",
+  "BASE": "perl-data-munge",
+  "VERSION": "0.097-3",
+  "DESC": "Various utility functions",
+  "CSIZE": "12180",
+  "ISIZE": "15313",
+  "MD5SUM": "64ef6db9862eb48fba9e176f30195428",
+  "SHA256SUM": "7563dc430eef52e1d6cd11d4419f3b6b7d7b795605e59dcbb8b3573f1a209b34",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl7vOO4ACgkQeGxj8zDXy5IPIg/+LIfR7znmCBxnjQdib+Up6YWml05bMt9XEMs1Okgg5Q0Z7GFNRJca/GshutQ65uBCkY0BLeK0DvrtMFVo7YMpQXSoyMPNyCjD9/xz10F+kd1vYjLC+9TTTCZO9JQrrJ4Wd/+dOuopiOh7So2OU+7YrGqM4OiO/5RxKhvVHR2+evFp16UVWaen6nXLfJnp/MlGGNJO1CM1OhKB2L6NBphIuUfbBC8HrQms/WdQ97vZiX3XJzRV2jDPEWxjKK5dR0HXI488upIX3KbuALU3BsHXiJv6fvNjS3/Y49HxRtrgsE09vQxmGyU99lW1OfIMH91QBuuSpA+cpSKxYoMgFfSqQ7r5hR8jOtL86nRM3/jwOZbHuHlDTKjqxTF6vAl6er6HVaQKzK6y0UubK7DdC7bx/VmWwgsIbDJaDhyZp6GreYJbtMQ6leGMFuzxs7gzUah3AKXaxL/J9JmxtjeFhbDCt28yqExVYvzOEdP0Lz+L48pT1Qw+Ttx7mhUlPKjJufz+Ya4KGdyMtCDA4FHrqvbwGP2BNbv03HndElIMxn1pvFdgEcW+lAuC1nyevMVTqJ9NL6b5DMSweM3I0L4QxrL/jy4XVe0tvl2/NUuld0meDdzDo0TckE5SMs9hyOVjyD1s3XhzcnXVorOHS/iy7aD08DRIoFoOqiYV3wl29HQsyN0=",
+  "URL": "https://metacpan.org/release/Data-Munge",
+  "LICENSE": "PerlArtistic",
+  "ARCH": "any",
+  "BUILDDATE": "1592735959",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "perl"
+  ]
+}

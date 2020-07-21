@@ -1,0 +1,24 @@
+{
+  "FILENAME": "zeroc-ice-3.7.4-1-x86_64.pkg.tar.zst",
+  "NAME": "zeroc-ice",
+  "BASE": "zeroc-ice",
+  "VERSION": "3.7.4-1",
+  "DESC": "An object-oriented middleware that provides RPC functionality",
+  "CSIZE": "7806587",
+  "ISIZE": "40600430",
+  "MD5SUM": "1c524a1b02611c2f7f06156abe50ae25",
+  "SHA256SUM": "6d99fd9eff730695cda9c0051a28f797674fd271dbc99c3110f890e45c3ed02c",
+  "PGPSIG": "iQIzBAABCAAdFiEEj8FaBklQqZ3RvRTdOeS4d+YuuRUFAl7utZEACgkQOeS4d+YuuRVzfA/+K8JDtErTDIE2Nt4tpSf07VcWMUD4sG311vtzxwQwN+Rx4RFttC7sj8f9rIIVNJuPjwLJLvHll/TUZRa/IUWJ1unLkpbxvUm9tetZ9aLC7vdneCfYlQY88fr75tvUhtxB2mpVqbAeTOBDC3SoemR+2wFzEhBRJ6Qu4DLcio15aojs7nStqoQUrvtG7blHZFP/bEza3PVaPI7gYSGM0dDTaTCTX7ONhiJrvVYtpcyEoZKtS03LEyMjaqmztqwodt6/N6nEI/XkqF7fwENZ3Io2SSjUbzauMi6q5Ydtf4HkE0/8qJIZ2o0JDyecC1iz6aRvreqAxtJFAiFCDLJ8JeH1mBpj5KCTIc5VpXy53VxsQOvAMLkgPzFELnXSUpSyVGhX12ex2DviuIeuZv+fCYiWlHz/zbC7jGjfd3csVHVST1U0QxyRo70zC8LxYhuDNaRPlNuoo30lv6IHlf330raO+LJabRzWts16Vj7NODGVhrVh1etN4E3YFs9YEMp+Uas5akGx9/V+vzedrYWHW9LDkG0emgWndgXY6pUstlOSfDe8W1LxeNoEeyX605QKrWUMnJGF9CcDc4YCcp+LgYtDdlUqnjcCKnSCu2PbbzaUV6Vnv+ciX6zW1vuORuZ1Y4Q//pqxEy/8fkQMUjHSNKCRWXmXn71TpmIqmz+s8g+kiiM=",
+  "URL": "https://zeroc.com",
+  "LICENSE": "GPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1592701014",
+  "PACKAGER": "Sven-Hendrik Haase <svenstaro@gmail.com>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "mcpp",
+    "lmdb"
+  ]
+}

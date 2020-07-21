@@ -1,0 +1,23 @@
+{
+  "FILENAME": "coffeescript-2.5.1-1-any.pkg.tar.zst",
+  "NAME": "coffeescript",
+  "BASE": "coffeescript",
+  "VERSION": "2.5.1-1",
+  "DESC": "CoffeeScript is a little language that compiles into JavaScript",
+  "CSIZE": "218409",
+  "ISIZE": "1870171",
+  "MD5SUM": "ff1c52fc780f70bec7409793841ef0dc",
+  "SHA256SUM": "c7264d54542c5c4ba799e202d3507933efc61f911ec8237869db61f73e1b9a8a",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl40OjIACgkQeGxj8zDXy5IS+Q//VGYVTw2xEzP+QEl2RXlUeNZVlPtvUtq9ODHv00jrrM41dmIG+p7WUYwxOdaYcs9HTXR57aLIXMOLNBfngqIksY/S+hVGn68b3/oTiC4UmQmlK1zlGLl3m16hfFziWECpwXl6zto+uQVQ9djJ3HadKGkcBZ5oLG/ZkPe4uPxgWHHgWBnotlYr67mJQZqBOBI1XSSRXEDWg+NZTgOJTFKz0Lc5gT7yd7UhV5XQNpDbJVzaZ14O8rEXSYo9HvviiKKg21jMN4S9TvDotGhEGmGuBCJXmGjt6SyvGC7MfFEkIQJn4uFFkYK4DoHiaLbbuwwjDoplZTzYEZb/Z+ywIYq3+LMedyJefiyJW0yC3IA9PyNe0yLXoRGgTatMxX7pBoSFUjdKimGk5wzgV4NIuhYaErCtIBjrrZym8WnVCrzGnfe/pztA47M09dJ6BdQsPFRWH2TpC8sNUPmFRJQ4PiDJ2O7UXOayyOe5t0mKYbNfEf53q661LQZoJNvwHd+tzcm3NIHeBBSLboht6XoPkN3AkZ81OZ5XqlFZn2Wl+SdsdosTJ2gn/6CEhI/E1eBS8BxmL4p+zUWo1wesNAqAHE51/qtgNkqDhpZW+gdTavkP1hBEKG9PtWiqt8YEB4DdVsbQgUEiKC8vLe8vDdlJD/gYYlFq3bxbZp57X6WyvNLDex4=",
+  "URL": "https://coffeescript.org",
+  "LICENSE": "MIT",
+  "ARCH": "any",
+  "BUILDDATE": "1580481025",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    "coffee-script=2.5.1"
+  ],
+  "DEPENDS": [
+    "nodejs"
+  ]
+}

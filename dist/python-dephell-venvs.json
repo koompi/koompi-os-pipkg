@@ -1,0 +1,24 @@
+{
+  "FILENAME": "python-dephell-venvs-0.1.16-3-any.pkg.tar.xz",
+  "NAME": "python-dephell-venvs",
+  "BASE": "python-dephell-venvs",
+  "VERSION": "0.1.16-3",
+  "DESC": "Manage Python virtual environments",
+  "CSIZE": "14204",
+  "ISIZE": "39705",
+  "MD5SUM": "e248f829c33314f555aad42af5c7d26b",
+  "SHA256SUM": "431db76ab989483bf43f70d5efef9e4d8a1c53eb158412ebc3969acd761f7b33",
+  "PGPSIG": "iQEzBAABCAAdFiEEhs/8qRjPOvRxR1iAUeixSKmZnDQFAl29+bwACgkQUeixSKmZnDTWsAgAu0deHp4ByJAwgP0QG/mDWZRDeM+BzPB/8ALOyO2j0ahk19Vrv/eglWMj7twkjrEAOBeozTFCbOcjR1Nt1NTCGm8YjNXai4u3R5NCoBonvei6rT45R8WDh/asxIvAFDVjwJOMC45ON3Qt/eRxaX46HLBb5LEVPgFwATmi/MdZGt7p4bMzm1bZqtWzQ8VloW8W9QPGeNewAvjw35to+wDh56mDX7R8vXfnDIipTq9NEI3CNP/hCG9sBNO/TNdnby81vh1N9m7UHV9jSB0Zd3cl0F04FZ5xGxQzx8/Us99fRySSSRBy86EAbRYJpRF0QYe9OIhd/GG/YWMqlk9sogPTCA==",
+  "URL": "https://github.com/dephell/dephell_venvs",
+  "LICENSE": "MIT",
+  "ARCH": "any",
+  "BUILDDATE": "1572731290",
+  "PACKAGER": "Evangelos Foutras <evangelos@foutrelis.com>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "python-attrs",
+    "python-dephell-pythons"
+  ]
+}

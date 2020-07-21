@@ -1,0 +1,23 @@
+{
+  "FILENAME": "linux-hardened-headers-5.7.8.a-1-x86_64.pkg.tar.zst",
+  "NAME": "linux-hardened-headers",
+  "BASE": "linux-hardened",
+  "VERSION": "5.7.8.a-1",
+  "DESC": "Headers and scripts for building modules for the Security-Hardened Linux kernel",
+  "CSIZE": "22943209",
+  "ISIZE": "130086389",
+  "MD5SUM": "9fe4ddcae6d16a5fa68555ccc1d7ab4d",
+  "SHA256SUM": "c56f0b4a43a5d74d952fb01244e618e471e3bde21686df1b5ff55acbf1cb7c8f",
+  "PGPSIG": "iQIzBAABCgAdFiEE4kC1fixGMLp2ji8m/BtUfI2BcsgFAl8HxgkACgkQ/BtUfI2Bcsjvvg/+LY9xnKhmqeUTKg5uGdhPsJZ3MsmLC55peTxK7DVTn6+XYcY2o4JooklJCnx3pmoCleOz20x05vjLYF6LfoILRR2fgQ9Xy21aOT3LqnoA7hdmSJB6Jq0fQCBwacYACIBTcOzg9PjY+16piYMFB9e7xRHkHAtm75f3MUk4YlNIUf4dZVvKJTWchMvI1lw+TioP7T6IMommF+fr13unTn19MefM4eH4uj16u1NyN6q5M1larAnxCvQb94K6ywP10i86Adz2J/pICJJaLW3+zDpgAmODKB48C9AVkUiKrAr/86m7hWLgUrzaKexC473/oHHPBVaORZD/5sj03tjxxUB5H1wR+dV0AN15q5qjowlRclsE1A7G4DyvBJhccjlArU5wCR1WUlNmRsgzRKCEC+OCqZrqlbdR6/Swz2lw0CY3mdECpB/M3zVZZVfn9iuOkVLYjNur3AI37PKbMGMyl9wCQHhfQjvtYeV0RJPnVKQoyAUqBFWpiSnBselhqstEGqPwW3cw+IsRSJLOxRSjlPe9aUVwz7X2GGYuLLvh+0ohqTNWNESK17u8yW/6ewwZQTWT3VGhL/LDxtpZ3B9G6gtH3yHBHlGFIyQOFmGGQRTwrmF6dxq4/rMp/YXVMkbCJ1M8lIs1QiDtSFUBrpXxSXWyFNpDQBh8pvNcQ1XuN60HAzg=",
+  "URL": "https://github.com/anthraxx/linux-hardened",
+  "LICENSE": "GPL2",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1594342558",
+  "PACKAGER": "Levente Polyak <anthraxx@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    ""
+  ]
+}

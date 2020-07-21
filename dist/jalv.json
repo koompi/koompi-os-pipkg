@@ -1,0 +1,29 @@
+{
+  "FILENAME": "jalv-1.6.4-2-x86_64.pkg.tar.xz",
+  "NAME": "jalv",
+  "BASE": "jalv",
+  "VERSION": "1.6.4-2",
+  "DESC": "A simple but fully featured LV2 host for Jack",
+  "CSIZE": "83788",
+  "ISIZE": "532536",
+  "MD5SUM": "26c15b749c866035ea1148d6e5660de4",
+  "SHA256SUM": "cca08c6b8cf956a4acb7807a9f46de3cf8bae9e8150210a80cab9b35323eb807",
+  "PGPSIG": "iHUEABYIAB0WIQTH54SUZv4jWDQ1iDdyWHNLQcMVSQUCXcp2YgAKCRByWHNLQcMVSVoxAQC+sd4He/424SJ4A2HGCXK1V9xtMbsrGnNNbi8j720tJgD9HsLGNmClHvRx9N0URRg9Q0XosqQ7Y4Ea/zVRYPvj0Qg=",
+  "URL": "https://drobilla.net/software/jalv",
+  "LICENSE": "custom:ISC",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1573547334",
+  "PACKAGER": "David Runge <dvzrv@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "glibc",
+    "libjack.so=0-64",
+    "liblilv-0.so=0-64",
+    "libserd-0.so=0-64",
+    "libsord-0.so=0-64",
+    "libsratom-0.so=0-64",
+    "libsuil-0.so=0-64"
+  ]
+}

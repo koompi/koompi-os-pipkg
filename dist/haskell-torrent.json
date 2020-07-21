@@ -1,0 +1,25 @@
+{
+  "FILENAME": "haskell-torrent-10000.1.1-32-x86_64.pkg.tar.zst",
+  "NAME": "haskell-torrent",
+  "BASE": "haskell-torrent",
+  "VERSION": "10000.1.1-32",
+  "DESC": "BitTorrent file parser and generater",
+  "CSIZE": "67381",
+  "ISIZE": "345184",
+  "MD5SUM": "9131f1ed91ee6f50e8e3bc8a71701f53",
+  "SHA256SUM": "df435f8abc791f4985bf093ca764ab3470a3bc71ea264d4046dcc540a0cd8f67",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl75KTUACgkQeGxj8zDXy5JM8BAAt/TmkslB6j2uZ5G7OugjWyKF3pZSjvHBUKsgJYAPgRGrLGyDnJJkYdNUk9VqrLjQ9ST4o09cpjgRa5BR4abvf4aWgkS9K+1lGQLzVl4nRymQ1yvmgqk+yQmGAV20jSBzKkYkgZrd+W2cCtNfHvvHUR5qDgY+KZGvB6rFvNWUcTWkelS8EXPaEeHl5JGxNXk+N/xUe/Vyn/dnkgzeMUOTZ+nvYdy0MEz5NSXgU7VepE7dpg2Mejll219lqayFS+Yn+gUY3W/zy0u9BzeqN9Znbh6U5su2Vyn71R5TdSAA2GRAe5OttH0YffS8b7WCGmPrsN8mm1aN34faNRLL6VQYkvqwrZh0mnQc4nNGeoZMvnFnnAVn/yj3ZnJkmKqEH8YSpUTdVtr8EoRTTNJSUOWRVpgsz1KHL6yDhsjUy9HiMGuNRgWKj5PQIpMoqKSRCaj9hAEKvbRg+xQzfDXNEuAW+AyJ37PLm3TACsl3D2VCAqEH3u9I7v7XQOgJz6BmRjWoZP6khABXTN9GxQadhweYp0CU1vS9r8JBlOLsUI+xaxTlW4/mUNbBAsaRCg7nzwgFkoDrC7j4i9uvxkJLWJzRnXmHRJU0LxKFZzGoM6enxhvKgpqj+/c4ppGrY1adLIuHTTO18CjNC102GRfk87foK9rOMcErnpOKZR81txRXrHs=",
+  "URL": "https://hackage.haskell.org/package/torrent",
+  "LICENSE": "BSD",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1593387294",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "ghc-libs",
+    "haskell-bencode",
+    "haskell-syb"
+  ]
+}

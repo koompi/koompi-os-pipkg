@@ -1,0 +1,23 @@
+{
+  "FILENAME": "gif2png-2.5.14-2-x86_64.pkg.tar.zst",
+  "NAME": "gif2png",
+  "BASE": "gif2png",
+  "VERSION": "2.5.14-2",
+  "DESC": "A GIF to PNG image format converter",
+  "CSIZE": "26886",
+  "ISIZE": "54211",
+  "MD5SUM": "cc4d0fd20d471a50968a250f3fdd5cf9",
+  "SHA256SUM": "d67ad2fd08b0056a453a6a474ee93bc3d8633fec6e4183e2635e63d07d79da97",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl8Elu4ACgkQeGxj8zDXy5JhdQ//dqoJGh+QG1MycLIyV2lJu0M04g1KKP7exVHPHQZxa7RFsOgt4aRUtd3gSDZr1XvPu3FcILZfG/lRE22vWl1omGEuNulyONP5ZiZSrTXW1aYXe/xO7yCHPGlnJRJaSYoTQlZXqg8ujXujqm8Ua7ROKYtj8DFNgP9ZhxyAgvrfhnjtDjLYM+RvTsaVPLnqXoUod8KPwNU4J+bxtW0sSSmzT/GfQWd4O2RIR8a4ahCQygLnDq8QMJnEnCt3pVCB3hwEFxs/qGiERots2CmTmFX7T/7Xs3pS7Bw46LjMcEwgFY7UN+du5KXYO9VJS5f2M45jdCXPdbSd4Du0MMZINm8RI5NrGgvOZpcYj3onBAnW/etfYuK4LA5FKhj8QtBHVzX2GRK1G1C8QUDz9jWqarixDCQuyOXs5jFTUSawcshe1f3kavqdWvR8ZO8dcEqpXuLzzDs/P0fjOMddQec0Cec8fFhkS+URPV+PpAjbCUUUuRUsz/SEzpUb2d0f7syCwFZNZnvoDyHlVDmdzYMoRSGE+OdgIL0/n1AKluWiwgBcVvMhKcjWQHJd2We75D5neV64G6xP0tWfQO0/Jq2EMRzcZE7WQrnErWHNtE1OZOfwhu1PWi8z63S6Fg8s3qwTj9fFT5lCUyB0YQflPggrMfB4wNXTlgUv1nhz+IcvL5GzYE4=",
+  "URL": "http://www.catb.org/~esr/gif2png/",
+  "LICENSE": "ZLIB",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1594136283",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "libpng"
+  ]
+}

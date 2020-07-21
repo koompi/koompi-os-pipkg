@@ -1,0 +1,23 @@
+{
+  "FILENAME": "tcptrace-6.6.7-6-x86_64.pkg.tar.zst",
+  "NAME": "tcptrace",
+  "BASE": "tcptrace",
+  "VERSION": "6.6.7-6",
+  "DESC": "A TCP dump file analysis tool",
+  "CSIZE": "134040",
+  "ISIZE": "349692",
+  "MD5SUM": "ae2a6b347293eab5ccae122f3a60a48a",
+  "SHA256SUM": "fe1bcdab73382d5bc107953c2b3cb132c2ab9eb48e8f89ecf75c4496303caf38",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl8EuNsACgkQeGxj8zDXy5JT0Q/+MuEyPntsU6LGeW3GZlsDfumqife5VSojmslKMXzBYN+udkfNrAM2HwRJ6+jG4PhW3u7iv/KLC5kl2DAC++sSATHDx65kWxN/1YRUXzWD4q0hv9LAJg1Up4YUdnwl8gR/GBbIZ3uXLC7zCsJIFnXw2mZVFOi6ypkUEXgpMqf4Q5m/4Dqf3DUAHfJPJQ+P+CrNongWuTIdrcypQzceuMRXmohFzwyAIBAUU4LUmA9SJlvWy9soJjC6AfV483Ajq7JwwhPNLrOBL0FE/hof5dQxbIozNnguipKm60NPmxUcVtaTFSLk0s0fSntZyHocpGI+3AFITU3YEy284U0ALjjVZ9RgOIa1qyPjuo9dnNnWA6Isvr5HJ17krRpbibH28fn6tt/YHnvdVpAOceVkpWYoOLwg5QJ01SohUNA70ebSkaUcvySay6uDlWa7trQ0lpr9nlu0/a9ZWb65OubTw0ikQUXYXiKGs80c3XnOxGkzUgC+Zd4+Wo18W9lLExt6NW5ICJiut44miUjSsHam+KBrqulUuy+mu3PEKLrybxmAAyyrTNbxFuwl11FmeqNMmoEbVmUsdoAZzQyVcrKyOLazQSMU5EwupfZpgzJyKEDc5gdyPgqx8mXQ2FrQhmpL+x/zj/dRm1mz0afbp+NMJSsLkK8s6eG3GjpmmFQoH9zXqwk=",
+  "URL": "http://tcptrace.org/",
+  "LICENSE": "GPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1594144965",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "libpcap"
+  ]
+}

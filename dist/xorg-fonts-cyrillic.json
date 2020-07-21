@@ -1,0 +1,23 @@
+{
+  "FILENAME": "xorg-fonts-cyrillic-1.0.3-6-any.pkg.tar.zst",
+  "NAME": "xorg-fonts-cyrillic",
+  "BASE": "xorg-fonts-cyrillic",
+  "VERSION": "1.0.3-6",
+  "DESC": "X.org cyrillic fonts",
+  "CSIZE": "388279",
+  "ISIZE": "384657",
+  "MD5SUM": "281265e28ee072746c693c9453e207a0",
+  "SHA256SUM": "7bad79a330474c0624fe862d3f0db425463faa4d81fc400b37026d3a3076411d",
+  "PGPSIG": "iQEzBAABCAAdFiEErcih/MFeAdRTEEGelGV6sg8qCSsFAl76yZIACgkQlGV6sg8qCSsnsggApiLaZuZThZkPqhYQZYOd5y4HfQWvzVNbqvGWxbMCzFdj1+fJDJvQhjO/c1ooUK268QoyNpuCQ41/EEWjloqAcIs8o6ZjlBt3c8rgeilB4qHTaprMezAs0z/ZhPch+mwWmmSUZSqbsfqeH5OJiokrTforfPirrf1GcvirfiQnQk/CpNMVG0FhfHcj3YnW7XR3+eTq2Zm3hziG1igoFeNVCriHl8PLSsxLxuxuFW3IG48GfyVCX8Yejl+gRtovo9AdxxnOiUm24xegwGgLeYyZdI5kT+Mnm9D7WojrbUL2HFTq4/MFhmBWHwBF9ENlwnjRPg/FxUkXPIt7467TbFdZ/w==",
+  "URL": "https://xorg.freedesktop.org/",
+  "LICENSE": "custom",
+  "ARCH": "any",
+  "BUILDDATE": "1593493847",
+  "PACKAGER": "Andreas Radke <andyrtr@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "xorg-fonts-alias-cyrillic"
+  ]
+}

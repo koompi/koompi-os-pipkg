@@ -1,0 +1,25 @@
+{
+  "FILENAME": "python2-pep517-0.8.2-1-any.pkg.tar.zst",
+  "NAME": "python2-pep517",
+  "BASE": "python-pep517",
+  "VERSION": "0.8.2-1",
+  "DESC": "Wrappers to build Python packages using PEP 517 hooks",
+  "CSIZE": "28338",
+  "ISIZE": "140886",
+  "MD5SUM": "c7fd8e29a16955870637a5d07da68715",
+  "SHA256SUM": "e69896ef3aec4b1013541b8df059c5b16cb13b4e83642a2dff66f10ca3f84e10",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl6FmcUACgkQeGxj8zDXy5I2cBAAwB0cteibd7daFM/zt3B+k7hhcBqDnNxqXIHS6Dsh/PrdV9/nT7Sq/ZXCka3z1bZqGV1+ws284zCTAdygW9dti03kOwfhVXhnd7ngP0RNPEsCfBZeuQNzI3ITwHi9pinAOq9Mo+JfFeiIYsIGRuK4l10+x8hAwoEo9nSX3bx83lqHc127IwlsZYhZDluXK7G+PmvZU51wK3wiJfi1bj7326035lboGE//HcKyq7VEWOwPmnvW0l8e3IVp0iDlKthZNmBT66MwL3+KBYLiwJXjTILAcJWTM375o9uUFPqRdsqWqUjIrLt6lt+kQBZmLrCYk8cU1ZsixWjjIvyODMqVIZ85zlYUbWliYo4tCnlhG95+fIDGfJl2cz1Qz0aQcJhZcfdlx1lgqfAUuEk3Q06YCMcQaY2dVALDA7q6vaNh6fqExuPrYbEIK40eEeKVCpuAS9LLOxIZe2CP9vIE+/dk+vKfgCXhQlGuLf22xhDrQf6CIiTlRXyv6KLTb0YSt1X/uaHvdViI3BPc1u6sck6m4vn++xhfRAUB6KnZc20VT30IgRit0UfPtfYXukLKJ/5LTI/wJvw7+MxvZOfmvYBUhEMvniOXBXHKdbBHoAQpjqr5fWSoJTzkpwlbcHKiblEHdTbUqtzyobEqMn/Of5ilye9c0+d0HP06YDbSqGkuoiM=",
+  "URL": "https://github.com/takluyver/pep517",
+  "LICENSE": "MIT",
+  "ARCH": "any",
+  "BUILDDATE": "1585813906",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "python2-toml",
+    "python2-importlib-metadata",
+    "python2-zipp"
+  ]
+}

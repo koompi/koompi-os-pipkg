@@ -1,0 +1,23 @@
+{
+  "FILENAME": "haskell-safe-0.3.19-1-x86_64.pkg.tar.zst",
+  "NAME": "haskell-safe",
+  "BASE": "haskell-safe",
+  "VERSION": "0.3.19-1",
+  "DESC": "Library of safe (exception free) functions",
+  "CSIZE": "64179",
+  "ISIZE": "303622",
+  "MD5SUM": "987812a307a57121dcb077fe3779a6d5",
+  "SHA256SUM": "0a95a3a8c107401284f54447dcc196f787cd4929c26085fa8baba7e526e369fa",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl7LIL8ACgkQeGxj8zDXy5IY3g/9FMqhcFParwz8nEmA/dv2YkSc7X5JE9FD9qthR0ogQP84KJMjz+Sw2m332eUuW8TxHQZouka5DL8JvhUD9xVt1McZN4kySITLbfu/WOLl99H9W7ceQeN0zvGQ1NvkzKgNmXttNiVbIL+GOI41NVkNL0iITrGQBfU3TUU/a3iMySbXlGwFBSO1LBN3iPTd7bOvzssPrQJBEyEV5nuchY43NyfobeQ2G7OUVRfe+X6oyk0BC+wt+tIxNQI7TgR7ipZmcONJloyk8jDxKqTv4/xy5Ip0/2LROi8r0J8fiURL4ScJc4F9YgplFTPQq+ULHX/B2loqS3CK0BXwsqtWShzkWCcunv8ytC3MtP4qBQ0ibaG8+TmqJwzkHfieE3QZiVvl9MxD8J0eAvZ0mlGe8rdocWINSvb2Dm8TzwDcDtuq1WUYEe1J1wtl0DBkvK0zaH+jQQfZRV/HJRO9IBzKvf3W82XeXdmAB5pSSR2h/fadRMmN9eYAp7e5d2FExTXAyiHFcShSgOv1NXkLrnciIsjOdaJpx4Du/gewK3b2cjDpzvoklNB99EpiOMr2Zjh0dGIEPHMe1SbRotlfhpHn9PJ6DviFZTFYCbJIsH94xAf9x1il7cGU7X8inzygtLpQI4RxvGWXtUv/0sf7ZUg2d0pbAGAiGBt6C12Ghh3HlSsvmgU=",
+  "URL": "https://github.com/ndmitchell/safe#readme",
+  "LICENSE": "BSD",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1590370457",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "ghc-libs"
+  ]
+}

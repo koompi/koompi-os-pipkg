@@ -1,0 +1,23 @@
+{
+  "FILENAME": "python-soupsieve-1.9.6-1-any.pkg.tar.zst",
+  "NAME": "python-soupsieve",
+  "BASE": "python-soupsieve",
+  "VERSION": "1.9.6-1",
+  "DESC": "A CSS4 selector implementation for Beautiful Soup",
+  "CSIZE": "63621",
+  "ISIZE": "305102",
+  "MD5SUM": "bb55e390ac94a0341a9c51d777252e60",
+  "SHA256SUM": "a76e4b3a368ca5f563abe0dd75088065a4f3fdae3ef154e6b29576799183468e",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl7xyNgACgkQeGxj8zDXy5LZehAAsoFSzhjzRR5Q6RVoREhvYLUIt1fAvbMCtWXRytjF9p/CoM2HMuo3UavCkVBjUxbEuF6VdVllyIMU21NMdxG8dS1Djhx5lC0JWoi6sFScudceN5rabg/TbJhSwrrcm7doPsJSynhFxvyQC5E0Y4zoX1wTyQZBfUUB2mD79H0l3+R/nnP40cUDIn220gpX9IGlSsYxVkL6vCZCLyMbFoZMxhqmj35FCF/R0fZYwe2+pAHdnsiByM6utHl80TNCodfIoHaw24mLjB9kTC0izzbJsWPILTz5PowdEhKVfqqfH5EEv7nBK7KMe63s7jXIAFxO70EknUBtndPiLKA+RRQlmLfraqhujYbVvU7vROZ341Mapoh+vkp0UhI4//dfBWFx52+npjif6/7Yzz+B3PGw51L31FYL2SgMweo8JIAT501XH8ZVDheadnmQh4VCTkqEbyyDEUHzeLtu+Ki1b2LwlmOM4uHkCEYDtVxGKHwG/5b8Y+9ITy5gE6gYLSE2m1VwUERfNlu6UwHYSxM3cED3Qi0SR62UTqJ2HTwYSXNoqmYyz6f6pNf9OE76sjwWcxB8Jy8gdq9lUzGqu5EQXqoOrLyy5ZGDFtuata+nFIove1XIoB2irO1xm5HGxgO99t9KJe5Bsu7Hmg3iaC97wJ6zw4PcTYiGHLtQ+01NOQETHB4=",
+  "URL": "https://github.com/facelessuser/soupsieve",
+  "LICENSE": "MIT",
+  "ARCH": "any",
+  "BUILDDATE": "1592902348",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "python"
+  ]
+}

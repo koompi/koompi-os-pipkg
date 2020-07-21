@@ -1,0 +1,27 @@
+{
+  "FILENAME": "korganizer-20.04.3-1-x86_64.pkg.tar.zst",
+  "NAME": "korganizer",
+  "BASE": "korganizer",
+  "VERSION": "20.04.3-1",
+  "DESC": "Calendar and scheduling Program",
+  "CSIZE": "2544945",
+  "ISIZE": "10159886",
+  "MD5SUM": "48aa32ee18241672fe562428767b698f",
+  "SHA256SUM": "9cd0890ef8b238a56ada3d2edc7647626d62d9d2c2aec692d8edacd432bc9aa8",
+  "PGPSIG": "iQEzBAABCAAdFiEEFRnVq6Zb9vwrc8dWek52CV2KUuQFAl8HIHoACgkQek52CV2KUuSsxggAl7gw+53fkIz5bUOKbwW3a5EEftqBMcLdzwnh9zAYc36e43mATp9CElxmSoawS457gYJSg6ESxgl8IveyV6kJ1l4C8KHL9CawhQWPCofxH/Qj3sqTu6rymukMX9iTPVEOH0KcRm180wYqFo2ZtVkF/W00zAgB1GCKvPcyCENLMHAZKX/fFMtXAm+O7d7JSVA9qngvPWNDyn1sLbPWP7XejvafIWX9EJ0FQSSV4+MPpFStXClTuMWsQvh0nHDqyYCA2hFXAR2EMchYmulGDIOTQEt2+jivA1Asbpy5nkiEzfrt7vAkgLG6RGb5BCmnHlAMvnoCsIfZw/uj0vQ2lL+jSA==",
+  "URL": "https://kontact.kde.org",
+  "LICENSE": "GPL2",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1594112916",
+  "PACKAGER": "Antonio Rojas <arojas@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "kdepim-runtime",
+    "kontactinterface",
+    "incidenceeditor",
+    "kuserfeedback",
+    "phonon-qt5"
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "FILENAME": "dbeaver-plugin-office-1.1.67.202003211804-1-any.pkg.tar.zst",
+  "NAME": "dbeaver-plugin-office",
+  "BASE": "dbeaver-plugin-office",
+  "VERSION": "1.1.67.202003211804-1",
+  "DESC": "DBeaver plugin to export data to Microsoft Office format",
+  "CSIZE": "31556",
+  "ISIZE": "38396",
+  "MD5SUM": "3b7c77e8d4a5929528b2c5c1c0b337ec",
+  "SHA256SUM": "c80ec88810cdab64acde5af31fce8300b2d503b1d95070ea98c9fe56277fdf18",
+  "PGPSIG": "iF0EABEKAB0WIQTFIYRkNtdaMpR5Wye0NgIEslDw0wUCXoE6CAAKCRC0NgIEslDw03hMAKCTiZL4C8Vcq+53n9XA5CrWovncdgCfYEH+LdWvTYm89dKOMLYPn7ztFNI=",
+  "URL": "https://dbeaver.io/",
+  "LICENSE": "Apache",
+  "ARCH": "any",
+  "BUILDDATE": "1585527176",
+  "PACKAGER": "Fabio Castelli (Muflone) <muflone@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "dbeaver>=4.2.5",
+    "dbeaver-plugin-apache-poi"
+  ]
+}

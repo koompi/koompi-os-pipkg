@@ -1,0 +1,30 @@
+{
+  "FILENAME": "haskell-wai-middleware-static-0.8.3-39-x86_64.pkg.tar.zst",
+  "NAME": "haskell-wai-middleware-static",
+  "BASE": "haskell-wai-middleware-static",
+  "VERSION": "0.8.3-39",
+  "DESC": "WAI middleware that serves requests to static files",
+  "CSIZE": "37836",
+  "ISIZE": "144428",
+  "MD5SUM": "e37241fd35c77348ae5344a2ed3e0dd8",
+  "SHA256SUM": "21df75af7e5b92c66f1745e7813f47f7a5060008ffb6d5dcecd270ad04a62469",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl75u2oACgkQeGxj8zDXy5JqQRAAwB32vXhEMpW3oLWJIGCXYEQY0SmFFWuYYjPAlpQaj7FMvXPtyRUDO0ft0yS8oo0BqrwwPjCVwM2baIsv1pDM1aW3GogXeSCxf3w2hIZn9kNYQ6K2JkF4XrUoj/ZlLPpk39zjPf3tNYbItVJ5m5zKF+I3FSS6OZ5rgmsD9xQQZtX8+2vd2UIYcqf76az0MfGu5CQLt3GZBHGDLe0kAx54vKwHUED5iZkF0ot6EkEbsfUQ7Sw5EURTOqu0WfuWLRHbmXuz4CvS8YOiEFiZytQtkjscJYzHxQGYQYUCRDhAdNlz4bHhdNYdsplGB80KJhMdcX9UAPfSB6uTbAq0GTggeIZE6CQygFC/V1X7m1AgklarCOuakIicKeFU5D6rQSGmVkZU7JLozEHbqOluk3abBt7j2FVo6U7A/V3a1DuhxhSV5qMTVtdSGuPSDTgaj1FrS+Gl0LWrhVCcjJVuoJruQ3wPnfo0Xx89Gv/6DdkIOpyKiapp21d5Co53mTUTVaoj1+quDrozVBQ8zNdo3EhPui09BOVTw7bl3cg3vd2+kyIRNEbcrUcyN1/bpzqIJN33fNzO7popiZ+2w4DNP7F4jut9qzShB0bxZvGICkxyqRE9acKH2wiXP+fCzeoYg3KOktkV/u11L8DR8+w0DjOBooTm+HJKmOvYYvWmlf6/S5k=",
+  "URL": "https://github.com/scotty-web/wai-middleware-static",
+  "LICENSE": "BSD",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1593424718",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "ghc-libs",
+    "haskell-cryptonite",
+    "haskell-memory",
+    "haskell-expiring-cache-map",
+    "haskell-http-types",
+    "haskell-mime-types",
+    "haskell-old-locale",
+    "haskell-wai"
+  ]
+}

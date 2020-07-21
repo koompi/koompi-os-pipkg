@@ -1,0 +1,23 @@
+{
+  "FILENAME": "foomatic-db-nonfree-3:20200529-1-any.pkg.tar.zst",
+  "NAME": "foomatic-db-nonfree",
+  "BASE": "foomatic-db",
+  "VERSION": "3:20200529-1",
+  "DESC": "Foomatic - database extension consisting of manufacturer-supplied PPD files released under non-free licenses",
+  "CSIZE": "17076",
+  "ISIZE": "216950",
+  "MD5SUM": "ea88a0b90001e756ae5001fea7d60d9d",
+  "SHA256SUM": "eb048d6ecd5470a110eb482cb08e20637dee57247598a11d7400b34b13442411",
+  "PGPSIG": "iQEzBAABCAAdFiEErcih/MFeAdRTEEGelGV6sg8qCSsFAl7QnXIACgkQlGV6sg8qCSutxQf9H5UvmyoBhbdWNCI7V0apc94lNzaR5Gg2PGHeyifa21eA4upi74hA5M45uIc9jWSgtUUQrLyJwKUyM3vFvv6jvIDup+jLUv7hCKOOtivsiVHcPfEEOQ3n4fa/KbdKhZyzRLPFAXXoLUxfV26wVE+YIxrwkoGBYKF3D5nrIqTBMOTOI5FeuIqM8H+sNs+ovGnmwHwl4GYrgz6Sqj6vprxuW6ol7NR3cR2khVwCJqV821MGdEEZa4+t9EvWr+UcODE5/v3ODR/pkHKbHn/WE335ugB+vQR8fvuowwF8qyCDU8vO9CjInzN4Y72X849D2+2Z1DWw4dSwt5hcgRQiqecucA==",
+  "URL": "http://www.linuxprinting.org/foomatic.html",
+  "LICENSE": "custom",
+  "ARCH": "any",
+  "BUILDDATE": "1590729689",
+  "PACKAGER": "Andreas Radke <andyrtr@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    ""
+  ]
+}

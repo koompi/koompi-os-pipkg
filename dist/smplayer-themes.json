@@ -1,0 +1,23 @@
+{
+  "FILENAME": "smplayer-themes-1:18.6.0-2-any.pkg.tar.zst",
+  "NAME": "smplayer-themes",
+  "BASE": "smplayer-themes",
+  "VERSION": "1:18.6.0-2",
+  "DESC": "Themes for SMPlayer",
+  "CSIZE": "2209629",
+  "ISIZE": "3898569",
+  "MD5SUM": "59ece480d4bc572bb982fe258db442f0",
+  "SHA256SUM": "72e12842a517c8de7107c9677310a0d342f7ea580dc44a2c0044606687a98118",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl8EcUkACgkQeGxj8zDXy5JTWA//W+e63d7ZzfZSlueFclxSi2/50p5SdzdkrEqzXnn4r9hATbXatuSEdmGLCt84BTquvDREIfZQNL/ReKjAOrLe0tMtWkhM6w6o73sUZR02duxI/9ZHV6/4ICdAd0nq+/2CB+reXqKE5LWAzaTtHTmx2rxcCX09XxmgO8camz6XNowOcoh0iOM/Xg+faLdQW7JzqgS6b3sFQ+A2EtD6sIFAY4aSSRLnhMmSw4WpDG2XbNak/so5u32YXY2R09pXPn3uP28ZzxlefBkFlaGdYI8Js2bGbhY3aaeW9DsTpj3ZvnkBpBsnCsz3x5kj/KxivoNWpmfrS8vrSrk9uOHtQLiXvauOAC6Apuem2zbGsUTP8opzUjRfczKbMbxdRyj2URKULpjms+B/B/AAok5msvd2a7IRkyjz789cZhKUbB6H8RBJRpKVaYKJGDDFbm3XxNxsx05zqNtKBCPLJFn+Fr1PJ3cm2uLclk4SfW1c3Pts5WsTZnEw023Dm6tNzWu4I1TCNpXiXtWI4UWbp7rpF/Z+YjSZWZdlwaLs7SHWoWd+VijNj32O++Dw/ifRW1vHxcPAgbbirkqlG7wwclUrUvD/Vd16R+mGYHNi3tfQaXBb+zNF7m6rQJQQxuKAieZStQn1OvjX/8XsEKtwStk6WEFlKR0zkTvDjcaXVkCE7cDk+2E=",
+  "URL": "https://www.smplayer.info/",
+  "LICENSE": "GPL2",
+  "ARCH": "any",
+  "BUILDDATE": "1594126618",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "smplayer"
+  ]
+}

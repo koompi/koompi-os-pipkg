@@ -1,0 +1,34 @@
+{
+  "FILENAME": "pantheon-calendar-5.0.6-1-x86_64.pkg.tar.zst",
+  "NAME": "pantheon-calendar",
+  "BASE": "pantheon-calendar",
+  "VERSION": "5.0.6-1",
+  "DESC": "The Pantheon Calendar",
+  "CSIZE": "314782",
+  "ISIZE": "1259360",
+  "MD5SUM": "d176ec660c23736823a92471dae55dde",
+  "SHA256SUM": "3bda3c4f97759b60f4a1329b9f5736ffefc92e3a9150cc9d90bc87dad8f3214b",
+  "PGPSIG": "iQEzBAABCAAdFiEElDfdOBWnqRaePTlGr/XZUJi8b/UFAl7/ZlAACgkQr/XZUJi8b/WOFAf/R4HPwSajyya0n28TZZANnLx3fRCSbsG9yZmjbOlX8emdIJlETVIglQb49GfRKw1JC/ibU8Kai5VfN3OvJ/mEKXnbcdVEvYWsxa6aUqEke/anmotgQf95P3nIUKxxY658ik5n/OJRo98q3PguKJ0IcRrSxk4hlWtqi09kSgx/L57XjavD/MXoWb9hH/+JFZPu0Gw2/1dXaIzgdc4rCswL/vp0bfZ3ORyCCXP2Snhg6JUY/m4sJe0OjbdFufEdqW48js1GXlUgz7aWQ92arfV1TLXMSskfU9GO+w+Z+VoP68tLD2QGPJupQoA1pVx44uHIsHylq3mEv/bmNSd9ALMOUA==",
+  "URL": "https://github.com/elementary/calendar",
+  "LICENSE": "GPL3",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1593796118",
+  "PACKAGER": "Maxime Gauduin <alucryd@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "clutter",
+    "evolution-data-server",
+    "folks",
+    "gdk-pixbuf2",
+    "geoclue",
+    "geocode-glib",
+    "glib2",
+    "gtk3",
+    "libchamplain",
+    "libgee",
+    "libgranite.so=5-64",
+    "libical"
+  ]
+}

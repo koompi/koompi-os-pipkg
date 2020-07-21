@@ -1,0 +1,24 @@
+{
+  "FILENAME": "git-filter-repo-2.27.1-1-any.pkg.tar.zst",
+  "NAME": "git-filter-repo",
+  "BASE": "git-filter-repo",
+  "VERSION": "2.27.1-1",
+  "DESC": "Quickly rewrite git repository history (filter-branch replacement)",
+  "CSIZE": "109741",
+  "ISIZE": "603630",
+  "MD5SUM": "9aefa9ee6ef7ffcf5bb233d1d4cd87ba",
+  "SHA256SUM": "b4f0f5c430ebab57353d3bd90d8dcc97c18e0a9bba2eb37c6aa4289a1e04e394",
+  "PGPSIG": "iQIzBAABCAAdFiEEFpcExvtJDGiSx/I8N+CvH9pI83MFAl8Ape8ACgkQN+CvH9pI83PvjA//TlqdLkHeUzrsGJQmTvC5B/C6OCQqriw/6bB54wMHT08ZBkuFX9LC6VttA/IiXj1FUowX1f7um6O46BFgsSGRIE/aQc8/8Q4oJrh0sd5mDaBsJWQuzPqRZB8dxGcpgejm+7huhrtjRzvFro6eyddAIb4qzwY2vR8GJu0riLClC10QyY+MLpxBxp/l1Di3K8ZORY2LWBcsVQyNQQx7z1pi/XWe9WbFv2sDNrUkI0IkrPABCeGgqgujUl1PoKqr8hwZLRT4iMOTflypmMDPBFeGXKOO4x9DtdCL6hiHHB7yQ77w8cv9PmassNNM2Rq+Sg6gQnZtzqX91Q68f6EqZnFw0TWc7eTorqU1n8zKIqq1AfCmuo4kYlKm+ScJzfMPOuFXz+8VJasOfMxb8WinJFPDJWsLeXwq5IJ96uA46WJ0neRNs37ynUPSu4AWyAxGuhoOM5/QMYCjK5nXPH6NguVCZwPjybuKCdEApyNzMUn+sfNI/83Rhbpv1Xi5xHe8gORX9h9Gos3OVyMNpeBxPgIf4aTOUJRv9MiNB46L4ESqd+gseTF84p8/NHS96BCDdW8MR/UBFCbkyqyUzr8wXjySv8088mIfcparQWENmN63Zob0teKXZP0fD5x1voGDoMZrkoc+WXpdQAtPZuqD/cNMXgXIX8n1JMKpYbTU/6b5MDc=",
+  "URL": "https://github.com/newren/git-filter-repo",
+  "LICENSE": "MIT",
+  "ARCH": "any",
+  "BUILDDATE": "1593877942",
+  "PACKAGER": "Jerome Leclanche <jerome@leclan.ch>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "git",
+    "python"
+  ]
+}

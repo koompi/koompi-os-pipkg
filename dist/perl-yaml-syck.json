@@ -1,0 +1,23 @@
+{
+  "FILENAME": "perl-yaml-syck-1.32-2-x86_64.pkg.tar.zst",
+  "NAME": "perl-yaml-syck",
+  "BASE": "perl-yaml-syck",
+  "VERSION": "1.32-2",
+  "DESC": "Fast, lightweight YAML loader and dumper",
+  "CSIZE": "74096",
+  "ISIZE": "178780",
+  "MD5SUM": "12669dbe46f4c420b324096b582b209a",
+  "SHA256SUM": "79da53bd81094c7524f9f7971946ea30fbaaa0b7f78b734b5e1a89388c44725c",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl7vhzgACgkQeGxj8zDXy5J2oQ//fvmiKmIDES5TzLJeR7EWHdpFnUva7QES5p9JsyXHJvWed8Cq/D+dfl+xa1OO/1yjumKJarlv8plpclT5JvtH4YFaU1ZRSzKtYIS/LNr9xF676RF1fgM+gLREUq6cAxmfrj/STwLuZ+LWJVk6zRKNVGj7V+DURD12oqitJFWzwoxmM7k8S1JHDimW9kr8Fyn7m3zQxVzrPKPLwUoZSVeDhxMoJIPu45/DuVRieod6YDiRUDvgNMg7PU8YDWUHuG0Ss7tuNN8JsPGZA9Bf9uZdbLoYIAt0/YefcZd6aXvHhujvsVFFZjX/rc8br6Rg4WnPBvpTqoZZOaOkvv5rL5DyC72OIza7HgrEC05+ixcigCyRx/jHDIBQgWtROrqcMARwX4xBsknqJho9b57nxFbHEbvoJGjdPrieGVpyzBUZ61iHRZhivyZiyReHdnfBh4yEH0EF3aTV/HfPw7WUp3xV5Gm5VyjnSQqpWsyNHskpyG2+YWIM24Gmu7H2LUiRJkjwMBvQeI07zQ/zU9rdBYO26+4hw9tvG5ctrvsHi/7jwLQ4d7FRfMX/GgzAkzIp9bx25EcZr/lNq5w5YonkQNMftIkkIMtX1scUKCcdvg4ka91FToKuKFocIHBN5ld0ZDrV51cvuA0EEPoM4BsYQcPOnHQS41pxu5qYA6BBOnCaNd8=",
+  "URL": "https://search.cpan.org/dist/YAML-Syck/",
+  "LICENSE": "BSD",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1592756000",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "perl"
+  ]
+}

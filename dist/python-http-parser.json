@@ -1,0 +1,23 @@
+{
+  "FILENAME": "python-http-parser-0.9.0-2-x86_64.pkg.tar.zst",
+  "NAME": "python-http-parser",
+  "BASE": "python-http-parser",
+  "VERSION": "0.9.0-2",
+  "DESC": "HTTP request/response parser for Python",
+  "CSIZE": "77465",
+  "ISIZE": "248478",
+  "MD5SUM": "e283aa4498856af08b9962bafa1ddd09",
+  "SHA256SUM": "9b5f05577117f077237acd78c8f51f8e7534face915b3c8f9dfed3fa26943b51",
+  "PGPSIG": "iQEzBAABCAAdFiEE5JnHn1PJalTlcv7hwGCGM3xQdz4FAl73XoMACgkQwGCGM3xQdz4hOwf/Sw6j3+TpEdCKU9lQ1kkTfEAVbpHxcZx+nwWm43hNlJSv7Ed7WXyS9Z9AkyVPT7V1bY7klEuqLemVPng40hU7rEcxtXx+RogVlqDbcIWtbrXkUaQanRWfH448cNQnC7KyQGjzN1bTwOJYmObPY5CkaZRK8H5BbSz5ZK1IJcftHfMI4m7pBeq5Z4imG3dvPW4Cjp4IKEEmkwzCfrjIUZpjuwdToowGmKVAKMiN0aD4bzO+L7RuXsrxrDmiDDL6MXKUrTJsu4AsnZ2faQI6IJP3KiDHIpe9+qLHwCD8YvU5UwG+euOiG2IfT+v549Y48NUzwXM2ESXabKwykRP7RhCPdA==",
+  "URL": "https://github.com/benoitc/http-parser",
+  "LICENSE": "MIT",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1593269859",
+  "PACKAGER": "Jelle van der Waa <jelle@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "python"
+  ]
+}

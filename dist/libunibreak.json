@@ -1,0 +1,23 @@
+{
+  "FILENAME": "libunibreak-4.3-1-x86_64.pkg.tar.zst",
+  "NAME": "libunibreak",
+  "BASE": "libunibreak",
+  "VERSION": "4.3-1",
+  "DESC": "An implementation of the line breaking algorithm as described in Unicode 5.2.0 Standard Annex 14, Revision 24",
+  "CSIZE": "29797",
+  "ISIZE": "107584",
+  "MD5SUM": "dee4c1a5395963d6b05f088bdc9583cf",
+  "SHA256SUM": "3ff8f7d3194b257c496a327459d7e339eb2ce6ebf8e03c63724db3a773aeeaf8",
+  "PGPSIG": "iQJGBAABCAAwFiEEPlGL8lJv0Zeeiq5JZcEQwepDP8cFAl7exHISHGFyY2hAc2VyZ2VqLnBwLnJ1AAoJEGXBEMHqQz/HlK0P/AmN6D/rC5TjxnDVCbGA6NLHgH7iQXDAuohicrviXVlLuxUZ8f50rasoW9K4AWot/HowCldaVEzQUQFlbJOi/JUfD11cpQb8DG1Hv/uvQX16CqW6D0+M2SovV8wJiX1PNMoGfRZF/CWpyMA1llhm5G37qsTwfyHJrcaQGg1rmfTGVLcGOqlAqCIF0F9b4FPekgwF+tMJcxpvUmW9g54mNKDYDVkdS1czEDo+kzFSzWMOFmfmQoehLwHbtC2fQizFATAqzdQ98c/QJrW0q/eAkX0x+UART4Qnm5CNqHTdc2+BVe8eRn2oFbbDmggbpLbEbjp3iimCQGzL2OS3NB83d+YbvrMiYjxbiyyFwUoKCDBc7RPckdBeuEzfjXTolquT+leKS1xjzTdN9LYgh88ZkUi/X1q7N9pe9O6/muOMMfoyCHX1c/P/rMfEPgfUrEsvBlswGJyHDKtQfWnYOlqHI0EOExC3C11epmate7808nPpjrBbQ6hSi8x3UeJwdJV76itPKmG9OrOYwiipQuCgE/0zow2VdAaSWLwv3dWK8Fn/fa45jchGW62FFEsZoO9hGrUB7kJE/wmlxjpMtsh7sSsQJf6fqg4muweUWi/NTrZ4ZAkBJSGZ3haIY/Rm43rk1B5/UqggUbL+WXHSRCqyXjSG7Q/EmMcuCecRk/sKuRpe",
+  "URL": "https://github.com/adah1972/libunibreak/",
+  "LICENSE": "custom:zlib/libpng",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1591657082",
+  "PACKAGER": "Sergej Pupykin <pupykin.s+arch@gmail.com>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    ""
+  ]
+}

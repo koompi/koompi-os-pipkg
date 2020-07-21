@@ -1,0 +1,24 @@
+{
+  "FILENAME": "haskell-unordered-containers-0.2.11.0-4-x86_64.pkg.tar.zst",
+  "NAME": "haskell-unordered-containers",
+  "BASE": "haskell-unordered-containers",
+  "VERSION": "0.2.11.0-4",
+  "DESC": "Efficient hashing-based container types",
+  "CSIZE": "174761",
+  "ISIZE": "1112297",
+  "MD5SUM": "14eadffe16845b3fa9354dc1dd5e1cb5",
+  "SHA256SUM": "3159f839fc6ba230fa5c4572b76250bbd4bca782a32d382a3a99922d42ed90fc",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl75Lp8ACgkQeGxj8zDXy5Ko6g/9GxBGfdZLCtWtO9gMJPiXggc3CdYwhIcDdXfh/DIt6CZ3t6z7gmDMNquaGm/ifBvOL0+AwQ0sE82Pli3T7UmDuKZLcNKVZ61VU58O9iUnsjkFVr2oEtk+DHc98XqHEfhMIIObkcjWJzp0wp8ZE5LmWwDYpmSny3oaKN8A66AyaGKX+bX/7nAcg00wabhdh/MOlrYLxuPpe+ELTLJzy9eu4w/+tL9Wf4SZdNLZ0bRABCo5Cod3cyDGGjl5k2HjaJRI1oDYy9AYCOnO/MsDGNByL97G4IE+UQcAHJr35ZCG0bhs3flRS5ac3na2gMOr8u5M63lw1MWl/InLBpZtjFGT+dJJTebgxL+KZbEB1fmcObBz1ayslqWYQPnKAqf+Ibi9KplQ0j8hI9IL73L5wMLIYbW8kb1TsaeLchHZ7dEO0D4nApByCS3qryz/TcWLMraPOExJdEUztWxC75B/Hz3wxztbnkTyZWCmoLPgSaBhIKbPYywbGFtIb6Wr7WauqACmXopOblYaZzNN1l+/JlDN9CjL/ZFQ5L5TJ0eYL2t4GVmyV/FIOTkCIGH7HP1LVTnm6L4yn4i9TU9iKYfBpGQGu6fyPh5F2BF2dTTSmqWh//iAdwRQIOJf02l+JHiBnYL8PwsJsAbmckh/eMLRkQfviiIIVRmFE9n6OK8HxOIK3sU=",
+  "URL": "https://github.com/haskell-unordered-containers/unordered-containers",
+  "LICENSE": "BSD",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1593388622",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "ghc-libs",
+    "haskell-hashable"
+  ]
+}

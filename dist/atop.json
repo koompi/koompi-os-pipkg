@@ -1,0 +1,25 @@
+{
+  "FILENAME": "atop-2.5.0-3-x86_64.pkg.tar.xz",
+  "NAME": "atop",
+  "BASE": "atop",
+  "VERSION": "2.5.0-3",
+  "DESC": "A system and process level monitor",
+  "CSIZE": "147580",
+  "ISIZE": "665920",
+  "MD5SUM": "9a0619e9f16a65674e55575679c10823",
+  "SHA256SUM": "7bfbdc0652b307f880f12a63c01735f784623552e940f516b376b95be44536ff",
+  "PGPSIG": "iQIzBAABCAAdFiEE2yJ3vNUAqjglYQvd2zIzknlsoGcFAl4Rr/wACgkQ2zIzknlsoGe0BA//eznokY1hoH364aOa74RXsAkyS+8XdZqE0DsVXpwGIj12kTr4j4IikH1bxT0JXVhvbrGAN8lyf/uYrqqIv2nspAvVkqb7LrTsEoEEd92qZ88pjes9OPHF6Ku9Y83vzm1MBlZm88NMRUDFrNIpfbnqvBmmbQt5qaIRoiZ5cP2KPlsXllnPFuzIfVMk8rxX+d+NpAszteDuUh482yhj8Mn0CeUTkmQXdUqR4RhEDPhKcpO4mj+0gqD38MllFnQbPKfxhX8gxd4qg/Zw5YpgkicAsutcgH2xEn110QfQ/BhU8XLdJTBhl+k8yPvgf6QObULZUksxNOvdW/k3ijqdzIyejVLqhB89vFX9lvEA1g2OHTanIlVHMUe8gY3TvAEvZHyBGk1t55CZRm3+Mt+v206xUF7ihncSDtw1HqPUm7J0VtCnteLxDZDKXCbIlHwZEVvvrrxJ7JSGs5TvILw7T7U4duLtjlIPgy2gifoHviO35Iuq6lMr9WCTnhDeB2Tyt7aRqUuCvS+QCuHQ5PvpkkDND/jt7Z8U0Ez5WFehctjoUNdLb3oTn1LH/nCUMlj/pr44TyyckMxjsc7ebZLa/RPpfj85KXwP95/RQiFEANiTq5EvnlC0RWkr8wsiXFxUPdhhvNihv8gf271enkeqBNoLVC0kXgbzlTQDn/Tw7arY6j4=",
+  "URL": "https://www.atoptool.nl/",
+  "LICENSE": "GPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1578217439",
+  "PACKAGER": "BlackEagle <ike.devolder@gmail.com>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "ncurses",
+    "sh",
+    "zlib"
+  ]
+}

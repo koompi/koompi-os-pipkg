@@ -1,0 +1,24 @@
+{
+  "FILENAME": "python-urwid-2.1.0-2-x86_64.pkg.tar.zst",
+  "NAME": "python-urwid",
+  "BASE": "python-urwid",
+  "VERSION": "2.1.0-2",
+  "DESC": "Curses-based user interface library",
+  "CSIZE": "318266",
+  "ISIZE": "2048037",
+  "MD5SUM": "ba548b835779b3ddbcab40b6b062ca81",
+  "SHA256SUM": "ba6076e440f1907a09faaa483cf45caf633f561584ed2f5df4e074d7e19c1a7f",
+  "PGPSIG": "iQEzBAABCAAdFiEE5JnHn1PJalTlcv7hwGCGM3xQdz4FAl5SgqcACgkQwGCGM3xQdz7pTAf7BtS0lWuFJtt1u4BQVJI2dWHSBTTzUpGl7wpcBDZkI1AkGZ+k0VPK2DGFC3ehHkTXfg3EnT2B4KDqAAjg8w3s62OCuKu/o8+V9N7Cqb7ybqEx4W4ZzbUxAx2pklJovWaWMsMA9OoCLRP0XgCNT4m6m4kmM5/DN7v8+OYfvXC71DtJe5+Rjr8R0DkFRv6t5BX4qwPpbViulUBRujPIJZQfbjaiQJv+G6Brr3OZ86eEbjIE8dgYd41CULdSizqRDjfv5MtF3JBp3+aZDZttY9xbfejfDzP7iA1WKVqkGRAXHsB6EFKocpiDUNSb8Bee+OphbU2tEskgSAD4JOrZee7wFg==",
+  "URL": "http://excess.org/urwid/",
+  "LICENSE": "LGPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1582465491",
+  "PACKAGER": "Jelle van der Waa <jelle@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "python",
+    "glibc"
+  ]
+}

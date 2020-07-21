@@ -1,0 +1,24 @@
+{
+  "FILENAME": "phppgadmin-7.12.1-1-any.pkg.tar.xz",
+  "NAME": "phppgadmin",
+  "BASE": "phppgadmin",
+  "VERSION": "7.12.1-1",
+  "DESC": "A web-based administration tool for PostgreSQL",
+  "CSIZE": "575368",
+  "ISIZE": "3128785",
+  "MD5SUM": "953580fa92c093cb00c8cefeb5bdcf8d",
+  "SHA256SUM": "6012fd5434f0a8783d32d0b9e0a213543795d2fee546ab87f47627dceb3bbde9",
+  "PGPSIG": "iQJGBAABCAAwFiEEPlGL8lJv0Zeeiq5JZcEQwepDP8cFAl3z31wSHGFyY2hAc2VyZ2VqLnBwLnJ1AAoJEGXBEMHqQz/HYGUQAM+1UaKdnVU8YJYFsWGBmcQ+xGmdAIq199jDmmj1QVyutNlHmaawHQ2L/omjgXG/lvJpBO5pQPsNPC+iGiPefiuU/85p04+9kewHWMWc/OdAx4ei8ybW7XeVLiVAiOuPkRWJOAYE8s8B5JZIeCAc9v0eQ2Dbq5bzrN6ycG+TCTe++NUojArSGuKvpTzAFHlqbiueVQCOehW+nIgvh/f+87DnxammtTqTSoXFup8wwkQsD5+jfkL8WODsCvySQsIvPUSBEv/FM/P9M+enDAK6anzYcdmICwGK2w89QmN64rZeo5W3lNrWuvx4CB5YQT9BKnB+oZ4/6FGhutOL8UjHzrMm3fr8rBy2aFtdp5e9ZGAXwxwZfKzcM9dp0RnKhTYnQ9PEF0j7X52g7+s9QJgGfkHRDiGkAATwzGm31sOySUEwZghVY83ptf/chNtceMRSZJvhAa8I/0rA5YyAQIwv8K2mzNYt/nN6eOtMfDIhxiqr+XSbOEVBHf3saFUYZCr7HOOgl/d0JyZA8Ar+Cl1ILDvyTVJStlWvPiBYsEFQO0tXoSx0JY3mNIOYTm/Vkdj30v6q8d9GVmAq1feeBxWJYlgloX4d1dgmoNfRnjbgBS7BpxQ1iddBymoccAybPP76ww0JuraV/nz5s7ASqlB3/8Fzyrt9I3uswfO1uqOzwh/A",
+  "URL": "https://github.com/phppgadmin/phppgadmin/",
+  "LICENSE": "GPL",
+  "ARCH": "any",
+  "BUILDDATE": "1576262597",
+  "PACKAGER": "Sergej Pupykin <pupykin.s+arch@gmail.com>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "php",
+    "php-pgsql"
+  ]
+}

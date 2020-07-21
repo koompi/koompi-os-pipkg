@@ -1,0 +1,29 @@
+{
+  "FILENAME": "audacious-4.0.5-1-x86_64.pkg.tar.zst",
+  "NAME": "audacious",
+  "BASE": "audacious",
+  "VERSION": "4.0.5-1",
+  "DESC": "Lightweight, advanced audio player focused on audio quality",
+  "CSIZE": "558741",
+  "ISIZE": "2191136",
+  "MD5SUM": "752b632c849827c88a54318f341c3186",
+  "SHA256SUM": "2defb80f80c4d6b5171844bfa4a5d49ae61e636cd01579ff9e7a682e69bc777f",
+  "PGPSIG": "iQEzBAABCAAdFiEEhs/8qRjPOvRxR1iAUeixSKmZnDQFAl8I/kYACgkQUeixSKmZnDS9gAgAq5zjVev8scCu407eFPWaKHg9gbHhYeNXmB64sncyIQm8RexWzGudu9Wv016Tjh7b7hXRE0qIe/8qrvfWAmVeXr5rtlNVg/CZvjJaY/sVRMv8AE4zQSlNwzIHdHadgyaOCrVJUmiFkss3NA2j+tP5WJqrl7/hPiNCJ1m6AShCEeE0YGSD1xf1t51XIuimILwSAZOzn4xk22eaXRE9951WTirmmeNIW6wX0mMJE35c0IW/P1tJfdT2DH8T2DfB0Ib+YWdxZlC1YW/zgYbKVcZn6ZVegb2GtwsPDwpiHutm4E210Mf923qPGYPedJ0c454NHvflp8vv/+zql92zPFgh0Q==",
+  "URL": "https://audacious-media-player.org/",
+  "LICENSE": "BSD",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1594424836",
+  "PACKAGER": "Evangelos Foutras <foutrelis@archlinux.org>",
+  "PROVIDES": [
+    "audacious-player"
+  ],
+  "DEPENDS": [
+    "qt5-base",
+    "glib2",
+    "libguess",
+    "libsm",
+    "audacious-plugins",
+    "hicolor-icon-theme",
+    "desktop-file-utils"
+  ]
+}

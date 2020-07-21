@@ -1,0 +1,23 @@
+{
+  "FILENAME": "firefox-developer-edition-i18n-gd-79.0b6-1-any.pkg.tar.zst",
+  "NAME": "firefox-developer-edition-i18n-gd",
+  "BASE": "firefox-developer-edition-i18n",
+  "VERSION": "79.0b6-1",
+  "DESC": "Gaelic (Scotland) language pack for Firefox Developer Edition",
+  "CSIZE": "482208",
+  "ISIZE": "545529",
+  "MD5SUM": "b391fdf7dbecf4a85ac8edd15bc17645",
+  "SHA256SUM": "05b00652ad2c0cef57b1ec1384e88c09f9f541e661e4e11a08f40645abaf5801",
+  "PGPSIG": "iQEzBAABCAAdFiEEYB8g8dG7v0p4z1tt9rFhCz7NvJ8FAl8IbMwACgkQ9rFhCz7NvJ/zBQgAm8etYzkKeqdz6LbDHezIyn0IDObZB7y86Qor0PFFllp4sQ25d6IEOgM7nmO7PAQlp7oiYBgH2Lv3fmZjLzGTWYGWA9705eF+u9HLYukNKRFWaCihbPbIbhlXhIIGFUhj68FjT1nNp7FLwrAui4mGT3P5jnzd4T5VABtnXGS7w8nd7X/Cm2ZOVxczgj338XnwrKY1szTUTTnzxu8sPsuMrxRVFDmNVlDA34xDm2WuN+vrfSTz45EbJu7fknw48bOJCfDdLqZrANE80zHi01+WHQiFeL2zlpR+4X25jp/p1FMIUVk07fG84UL05whPsFSFqCZLyNfpFk8BMXgW+41Olg==",
+  "URL": "https://www.mozilla.com/",
+  "LICENSE": "MPL",
+  "ARCH": "any",
+  "BUILDDATE": "1594387381",
+  "PACKAGER": "Andrew Crerar <andrew@crerar.io>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "firefox-developer-edition>=79.0b6"
+  ]
+}

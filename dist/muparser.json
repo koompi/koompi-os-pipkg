@@ -1,0 +1,23 @@
+{
+  "FILENAME": "muparser-2.3.2-1-x86_64.pkg.tar.zst",
+  "NAME": "muparser",
+  "BASE": "muparser",
+  "VERSION": "2.3.2-1",
+  "DESC": "A fast math parser library",
+  "CSIZE": "157513",
+  "ISIZE": "545660",
+  "MD5SUM": "4b26f5482eebb44a0b04e3963623dcc7",
+  "SHA256SUM": "e671d5c1a0bd3c08565d6533d73a4c9c06feed91a23bd906c660f48d42a894da",
+  "PGPSIG": "iQEzBAABCAAdFiEEFRnVq6Zb9vwrc8dWek52CV2KUuQFAl7pwtIACgkQek52CV2KUuTeeQgAlYSjUd+ZYEpaRprwVr3aRyaA6RgwyuXVWg66wcZ7y44pB9V/kXhQoXTU7gIyHJ3QtA04Ei2oczDtoFV/GSNzGL2jUuESUfzhi+WLQphSzZfRGgZtOBS0VAN/TyjJTqm/njmzBYJbUg4OKvQyUE2c7yeYo/q+7Nd90URINeDwwfuvQoWvSOsT9E9Vossl8ConcRzGzVGaO1R5pL5Zjs/pfZ0eUv3TLSpgRiVWlcUPAnTBg/BO5QhvDJzo0SdFyhIiyFN1L8jahSv24/Tc85DY3je9Njcp7+2IeCsI2Mi5QMPgfBspZaJjfOHKkllEysp++zBnrj8Uzk4fHkT+PBePgA==",
+  "URL": "http://muparser.sourceforge.net/",
+  "LICENSE": "custom",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1592377999",
+  "PACKAGER": "Antonio Rojas <arojas@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "gcc-libs"
+  ]
+}

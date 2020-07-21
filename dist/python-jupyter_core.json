@@ -1,0 +1,23 @@
+{
+  "FILENAME": "python-jupyter_core-4.6.3-2-any.pkg.tar.zst",
+  "NAME": "python-jupyter_core",
+  "BASE": "python-jupyter_core",
+  "VERSION": "4.6.3-2",
+  "DESC": "Jupyter core package. A base package on which Jupyter projects rely.",
+  "CSIZE": "71184",
+  "ISIZE": "330988",
+  "MD5SUM": "a9818413c3f6c5bf5c4f414edab330ea",
+  "SHA256SUM": "74ebdf47857c8886b30147a5eb7c7044d665351546d346b0c1a76e1177eaad86",
+  "PGPSIG": "iQEzBAABCAAdFiEE5JnHn1PJalTlcv7hwGCGM3xQdz4FAl68TyIACgkQwGCGM3xQdz7GPgf9FLJC9XwNm02v90uy6JwrvrufP72nNf0RdhfmBUjNcW7O9jWTaNxBKmO8CLebk5+/mxlqc1fFK1MZ3JYjhH7clF0Yp+ypOTOLy/LiEmj8eWwukKaHknYNgEhkNTAPvbY6ZHZ5QMhXE3XFOEvZLKIS0/UVAkA3mHVO8yhqgiUJodvIY+yFvWxFO0K4dYQmxcEf+rtSFaEvUA8JOQv5XpDi4hzS7JAJB6Qg93NF+UUV5/XVcekGtKTzgqkz22jfxwZUZlhFjERLtZJRwME20lGxI9qqTH109L1VqIHOFonZpGnGrTMt1cvQk4hp1yW0vIrspS/sbuOWdYXNvufX5zRXIQ==",
+  "URL": "https://pypi.python.org/pypi/jupyter_core",
+  "LICENSE": "BSD",
+  "ARCH": "any",
+  "BUILDDATE": "1589399294",
+  "PACKAGER": "Jelle van der Waa <jelle@vdwaa.nl>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "python-traitlets"
+  ]
+}

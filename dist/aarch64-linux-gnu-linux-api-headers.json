@@ -1,0 +1,23 @@
+{
+  "FILENAME": "aarch64-linux-gnu-linux-api-headers-5.5-1-any.pkg.tar.zst",
+  "NAME": "aarch64-linux-gnu-linux-api-headers",
+  "BASE": "aarch64-linux-gnu-linux-api-headers",
+  "VERSION": "5.5-1",
+  "DESC": "Kernel headers sanitized for use in userspace (aarch64-linux-gnu)",
+  "CSIZE": "1134816",
+  "ISIZE": "5008894",
+  "MD5SUM": "8536331a529ca03c66d34e9e5a012f0d",
+  "SHA256SUM": "14540e5a8fcea8c4abf93c588175301cb7097e1df6b67c09e29dc53c1463b3cb",
+  "PGPSIG": "iQIzBAABCAAdFiEEjhmSFnRl21+wRVV8sChU7XU+Dx8FAl4999kACgkQsChU7XU+Dx+qAQ/9Fo3ZRj17dUfe7ZJ2HXliHPtV5cZsXpBuakEeym8NxZ1zEM9p03ctkxKFtv+RY/b2uFW4IP8sqO9HSkwxCBv0z/OZRA1pfJZqqDzLyE8OSeeyFdL4K7s+v5VahO/sQm9U4WHSHSWOmCPwo3OfONO2y7Q+wDhCutIyUmapmLFLZ/9/+xsRWcEgPT73AX0nTdo32+FCxfhx/lOyuPZi4K1Bk+RfRHgCv4gofvvqzzml3VQAlYH7UBm+f7AZP0q30s31xM9jj7NEH8zeCajKWR0fQ/BrkmktjUk1J7l48N4QIAZMzRDcPJVPWr+0thhCtOLt5F0fGevAvnGMnihpDdiGwWmTxVx7Ibj60jU4yd1Sl1d6ZarGaSZYrq1VTzQQyVc4IbHOSvFICvvkzWbDcKA98+izucM7ZXla49oVlXKgeLNh+QxX3cITyjoWAziV23Xer0N9Sa2vGbKN2uMRib2n6Js9nBKA72y7uF46oB8wU3yXyz0IilYMsr25MVfxd/1ipUKdQ3VAiY1j+uOuC3yKyvQeokU5Dzv7VNJOJPH4WMf4m5VX5p7F+gxuSrKETrv7tGKJE22z1wq6y07weTpJAw4929ABX2tOdoObwHbCeWrxj+V6wRk6a9ZL79ULjZp+Et4/DTQJ7Yr5R7M+w2czT/1bWsMccoK+HVNajqpcQqw=",
+  "URL": "https://www.kernel.org",
+  "LICENSE": "GPL2",
+  "ARCH": "any",
+  "BUILDDATE": "1581119250",
+  "PACKAGER": "Anatol Pomozov <anatol.pomozov@gmail.com>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    ""
+  ]
+}

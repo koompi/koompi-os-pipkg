@@ -1,0 +1,36 @@
+{
+  "FILENAME": "tensorboard-2.2.2-1-x86_64.pkg.tar.zst",
+  "NAME": "tensorboard",
+  "BASE": "tensorboard",
+  "VERSION": "2.2.2-1",
+  "DESC": "TensorFlow's Visualization Toolkit",
+  "CSIZE": "2829590",
+  "ISIZE": "9312519",
+  "MD5SUM": "a0bb8be7e9f257f6cb5256357b774777",
+  "SHA256SUM": "f034b1ec8016fe300cae80b30ffd6b234fefec96773709e53d5e4b69773c48b7",
+  "PGPSIG": "iQEzBAABCAAdFiEEU1nMa+iBGLUfXJC1YH21X/cbcFIFAl7WjWgACgkQYH21X/cbcFLHugf9Ev6ac8XmLRPaJIwbtAv7/KkMGGTp9/W3P68G/drN9oga4pklYNvZgbl+TyP3Vh5NmGSwL0Uv9Ty2s7UYTvQd6aZoQtxq4b2y/I2q1hcpsskZhYdFaqiF5zb3DmtoIMW0EgKNV+iZneeXM6azfd6UvoJdSYOu/JAaTsQUzY8nHlu6mfd2bMKobL0kxNpeS0xO5pslhdTNrJ7Cf9rD1fTMzLpJ51tGc1ZWAhgQExsHm+p/Uz18RZUinf9yQd5Fzs1cdco/eqKWbcVTQx5OajjbH031bGSUg7nlJO/TxfKCYcvni+DDYWqQTPj/JngAY323tlbPafzbGbHqkdXxjElVGQ==",
+  "URL": "https://github.com/tensorflow/tensorboard",
+  "LICENSE": "APACHE",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1591118906",
+  "PACKAGER": "Konstantin Gizdov <arch@kge.pw>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "python",
+    "python-werkzeug",
+    "python-numpy",
+    "python-bleach",
+    "python-wheel",
+    "python-markdown",
+    "python-tensorflow-serving-api",
+    "python-html5lib",
+    "python-protobuf",
+    "python-setuptools",
+    "python-tensorflow",
+    "python-grpcio",
+    "python-google-auth-oauthlib",
+    "python-tensorboard_plugin_wit"
+  ]
+}

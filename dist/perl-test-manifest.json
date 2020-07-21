@@ -1,0 +1,23 @@
+{
+  "FILENAME": "perl-test-manifest-2.021-2-any.pkg.tar.zst",
+  "NAME": "perl-test-manifest",
+  "BASE": "perl-test-manifest",
+  "VERSION": "2.021-2",
+  "DESC": "configure which test files to run",
+  "CSIZE": "10978",
+  "ISIZE": "15229",
+  "MD5SUM": "b78da716fc22ac270bf1a43e456a4423",
+  "SHA256SUM": "03a0381567fd03ab281c1f01e1a825b1c9e4b51d2a961cc2b2dcfdc965bbb7f0",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl8ElnsACgkQeGxj8zDXy5J72A//T3MFlmP2bVWT3WbeKqZ13yOgR7xrmxHHhbc9Pf9gAN7XnE9f1rKdBTOxrmQzI/IpChYircin6SuiKL+/aM9Zuyj6lWLSzoDraH0/jmUlNgvfnAxuVW8aij3GJQUmuubsWO4+sPia+c0/IUpp1EiM1A5gK250scqTY6wZEnq+JnKDdVJj2U+55Po3mUpTaLrIR+AnzPTW/3Q59TvFfkVhCMYb1f/1SpCKmc25/XjtV8irNRL/9RWUTSgkqhLbdGaS4K4odWpyyIk5RbdP0P0mQIvFc+H2EOHe3MIFoVAVMqQOK7Ir4bjRNPo0wMl2s5GLNl6ep7odsBg3hhQ4br2nS4nvU4IXvhTBKybtz5M6uyMhd6rxE4T6rLo9ttIvluOSWic2Pk8rE/RwKAnbohsuOHjZz6u9yZbJOnTyR8WUH3aIigcWCXtTC13MP39EAIuOAHFWxcyr+Ti7cMvgdd4Vjf9coVDllv+psjymY0DqYrJaHILSHLCD2yedr4VWV97Ae3847GlDD9zcoQgNp+T+7GIjlvFXDW02MrMYMYyQZQ/v5G0e2JnTTz3V2C4w0adhleF8oxCztJRQG1jFCiJiNq1PN3mNzKwwAh5rBRpipN2tC24dr6M3SvT1+19JRpeDTi23jq1ApzhqtJ6gHo7xB6ylh1r3Ebd+xSb8Pg8K0Sg=",
+  "URL": "https://search.cpan.org/dist/Test-Manifest",
+  "LICENSE": "GPL",
+  "ARCH": "any",
+  "BUILDDATE": "1594135927",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "perl"
+  ]
+}

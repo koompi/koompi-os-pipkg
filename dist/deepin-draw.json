@@ -1,0 +1,27 @@
+{
+  "FILENAME": "deepin-draw-5.8.0.19-2-x86_64.pkg.tar.zst",
+  "NAME": "deepin-draw",
+  "BASE": "deepin-draw",
+  "VERSION": "5.8.0.19-2",
+  "DESC": "A lightweight drawing tool for Linux Deepin",
+  "CSIZE": "503946",
+  "ISIZE": "2198271",
+  "MD5SUM": "b3c1931cfbee385aef4f6c8f6c4af43a",
+  "SHA256SUM": "723321380c3ad07ce2929c11a4f50ff60ec068431c80e6d77d7a01b9115eabc6",
+  "PGPSIG": "iQEzBAABCAAdFiEEFRnVq6Zb9vwrc8dWek52CV2KUuQFAl7NZe4ACgkQek52CV2KUuQKGggAgYMg5cfCgw75WPSsBMrPhJpCTWlxgDbJ+EycsgvARwXLqNvK7KtrtSGvmQKIHggz7G3IJq8qg/7C0mqnN9nsO0XAY4ug3R2SCV9BclJEagEs1GGSDI9mqe1UJUFqnZpqpXoyaXl8cfppIVi9pg3bWprkp6MdonXQqjYtGS0qMqEpCPd9zc/lVIonMfgK80wQQL9nKRzOmwF5kbIb0Zvfc44+VL8y/MF3tZbgv0K/xJDJ1Tgsu3yPpdvIyNw4qKFPaCDW6zwIj0r+5h9P/pZQ7H30o+gZDhQRtkty3VfE80+bYfwWifDV1M9JC9NyLdWqMYsRDP8bvIDh2WsmWFZ/MQ==",
+  "URL": "https://github.com/linuxdeepin/deepin-draw",
+  "LICENSE": "GPL3",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1590493787",
+  "PACKAGER": "Antonio Rojas <arojas@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "deepin-picker",
+    "deepin-qt5integration",
+    "freeimage",
+    "libexif",
+    "qt5-imageformats"
+  ]
+}

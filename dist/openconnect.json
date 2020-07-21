@@ -1,0 +1,31 @@
+{
+  "FILENAME": "openconnect-1:8.10-1-x86_64.pkg.tar.zst",
+  "NAME": "openconnect",
+  "BASE": "openconnect",
+  "VERSION": "1:8.10-1",
+  "DESC": "Open client for Cisco AnyConnect VPN",
+  "CSIZE": "749356",
+  "ISIZE": "3275164",
+  "MD5SUM": "abe2f0d639313946d3b023e3dea1390c",
+  "SHA256SUM": "7d2b0eb7be305f38fd46e9810925e116eb11c6097157eaf936dccb23af6c5b53",
+  "PGPSIG": "iQIzBAABCgAdFiEE4kC1fixGMLp2ji8m/BtUfI2BcsgFAl7BHVMACgkQ/BtUfI2Bcsgttw/8CtbqUMJtf9l7s/YVuBZChMxJVNCin3hei2gA1qmsAmSV/0i6l6EsTrf911JKDg7HJoQF66kN98tpqYJIwnkF+gwWzRYgcSj7JuRA1IUzFKoOu2Ya9X44c0E35axUwBJS02UJnPvYYKjbOsARG12OT08j+uS6UKrclaRPAxDd6W2S+FWjxSktA9Ta4woLv5m1cAcYZp+QWLeDY/sO4p/pmsgtdsUhl/7iF5ve1aJJ3HNpux9wLXtkAeBxyozQGTnBW7yvv3iAKtTZdsWzINEUub4negQmP4AhCMPLw7Z5wvtc1QhSbAijEP1zJ+Q+18+/L3d/XtCtD3z/DmOgcecVcXnpMB3SARzdfrnb7/N4OIbpqJ7C5e7aMDCnLcSJtnBIdxCkkL72psjVUKTk7SC4H7JBF+6BSnLLRcGXUW9EH/seMh2VmT6QIumT8ApXhSlWvxHi+pFoA/NfrLDjfpphyrgnuAyIaO5uO3yhqpKsF/GAV99Oz1UEPllHWFSrvs7N0nJoBSYVnMKXfj9C9NezBNSTjoZt0VY55rBkK1DI3hoUs5xCi7zkoRqttejbo+/OZbLeeX16vp6DfheKvQzD1dk/HvxyNOM1aut3G6LiCJwYgsq8fIOCoRayXY8qhRinWuqB1sK927uk+pv0XEBVlm8bohM6IwVSQuQxnVc0yT8=",
+  "URL": "https://www.infradead.org/openconnect/",
+  "LICENSE": "LGPL2.1",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1589714223",
+  "PACKAGER": "Levente Polyak <anthraxx@archlinux.org>",
+  "PROVIDES": [
+    "libopenconnect.so=5-64"
+  ],
+  "DEPENDS": [
+    "libxml2",
+    "gnutls",
+    "libproxy",
+    "vpnc",
+    "krb5",
+    "lz4",
+    "pcsclite",
+    "stoken",
+    "libstoken.so=1-64"
+  ]
+}

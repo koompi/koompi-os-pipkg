@@ -1,0 +1,31 @@
+{
+  "FILENAME": "onboard-1.4.1-5-x86_64.pkg.tar.xz",
+  "NAME": "onboard",
+  "BASE": "onboard",
+  "VERSION": "1.4.1-5",
+  "DESC": "On-screen keyboard useful on tablet PCs or for mobility impaired users",
+  "CSIZE": "5006604",
+  "ISIZE": "27927563",
+  "MD5SUM": "710e5634ff9b52e32515b180a4ed2cb8",
+  "SHA256SUM": "922219eec51f1c5fd102330f61872a495f05537ce8a3dd50b36d2a7729c2f7fc",
+  "PGPSIG": "iQEzBAABCAAdFiEEhs/8qRjPOvRxR1iAUeixSKmZnDQFAl2//CIACgkQUeixSKmZnDRBVgf/bZTjoXkHnE14hzsqtCrVPZQ3zie3RpQoteuB8wCYMevMYDhZiGX+Fn2jVAWrg3VeCo8EMVpPBCdbjWuQAYITSbD7me0Y6Sh6o939rlgls59gcHpuNGF7xd0BRntcE9fv2mB65tOTk5IieS1eY5Pq8rwIjAmKzs53ROrGRktCgsrkuJLolCOAOboD/VavSb3UN8VTm5HvwAIkcb6XeS25BGAVTut9p1ch3tUTTW8o/DrSRNRT5EwFBRfbNy9r4c+7ySwOFw6Flvcluifd3hW9HuJ+HbD4Dcf2HuBsHG0E6H1Lkiylag+eeZ1wgGBmyBneZWed7smDX9M3crQXwap2bw==",
+  "URL": "https://launchpad.net/onboard",
+  "LICENSE": "GPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1572862906",
+  "PACKAGER": "Evangelos Foutras <evangelos@foutrelis.com>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "gtk3",
+    "hunspell",
+    "iso-codes",
+    "libcanberra",
+    "libxkbfile",
+    "python-cairo",
+    "python-dbus",
+    "python-gobject",
+    "systemd"
+  ]
+}

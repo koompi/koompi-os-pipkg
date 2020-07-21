@@ -1,0 +1,27 @@
+{
+  "FILENAME": "alacritty-0.4.3-1-x86_64.pkg.tar.zst",
+  "NAME": "alacritty",
+  "BASE": "alacritty",
+  "VERSION": "0.4.3-1",
+  "DESC": "A cross-platform, GPU-accelerated terminal emulator",
+  "CSIZE": "1861684",
+  "ISIZE": "6104798",
+  "MD5SUM": "30494f3635b81dfb9da8d50922148255",
+  "SHA256SUM": "262f8f0e0d699a80d5f911be6a4289883ba969875f3fc3f9fde6ce07d64f763a",
+  "PGPSIG": "iQFIBAABCAAyFiEESx3lRagB1FSb/T/vkMs9YsE9R5YFAl7VtNQUHGZhcnNlZXJmY0BnbWFpbC5jb20ACgkQkMs9YsE9R5ZB2gf9ElL1cWWHIuhwkgR9+T6/DoOMgVwhYK22Erg7DnmtGXnWxQ0ctiQpBU5nDX/B/srev4M7lM9nkLTVSC2Er/E4jdeXHmonXS27z6UZcklu9ry0VEHr9NavWYJdaA23Ru3qKu8ApXnmxg5VuQahRGGVuOSZDZz8Dxw7hLcVpWaEQNtSUm8sQ0D+WH72EtrXjUz3fpaljACYaP/uoihHK90hK5VojJFPf1qmTnZy+gC6OMBbDtkxe+AregiOb3L+7+xOJHqykPIrYuf9Wrap3d+TpMVRTa45Ca+7ATkt5PKYdkw5oUi7yyfE13ZMF7Eg/zNOjhEXXpSUMUiJTkQzzQtDfw==",
+  "URL": "https://github.com/jwilm/alacritty",
+  "LICENSE": "Apache",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1591063181",
+  "PACKAGER": "Jiachen YANG <farseerfc@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "freetype2",
+    "fontconfig",
+    "libxi",
+    "libxcursor",
+    "libxrandr"
+  ]
+}

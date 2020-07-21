@@ -1,0 +1,23 @@
+{
+  "FILENAME": "nginx-mod-redis-0.3.9-6-x86_64.pkg.tar.zst",
+  "NAME": "nginx-mod-redis",
+  "BASE": "nginx-mod-redis",
+  "VERSION": "0.3.9-6",
+  "DESC": "Nginx module for redis caching",
+  "CSIZE": "8560",
+  "ISIZE": "24690",
+  "MD5SUM": "d8654c5b0639c266c62659c36f1ccbbe",
+  "SHA256SUM": "efb968975584076d41437b5dbcafbe6ba71a44eba91fca3fbe7ae90597944f3b",
+  "PGPSIG": "iQIzBAABCAAdFiEE7MrITBugimzI5j+78i+x14p3rqsFAl6goTsACgkQ8i+x14p3rqtvWw/8CeB0sWwctmqQM2JJ0eRs5sBucfWmADNlPs1lAJIVrWph6f+t61lw/PaqSRE8RDZOTgWCq6r0Cf6l+xrS2YJW444aDtaQP8kbNra8TSODpC8KsKnuU5pkPkHZ+PpYJZSV8VB5cx7KjMuDeQAUaUseo7MvebW477sNh8yxJ/c7l//33dPLOHJOJiiPNeVFFDu8QmookizkSBnTxeaOcfnYD7qLXEJS85MwicqK5hO0rp6ektnjMep3Q1dwopAHLNib6P/yNy8fIm6br1gzus2okKw7UH+FdO76zqdEpeijTiOpnB4cXmOHgAvTSlBNvOX5MeCYR0ROQkuyQRRRs+NhhOcqU+qzaK+EpQiGDdDgI1jSh6OJLBuCCPSRrFhPx1AtSV0CX+SD5dRpnVSq5/CIW0vliXzMxamOD4vF7st04aM9tbLXCRn9JoWYhc84F4rCZYeADVj3WlQzzzBYj138KUG8ny0YeV/2sC5toLcl3CdKAFmqNBDNt0pfr7dttkmMEIcm0EwxiWNvmqk0XeWa2sf8JFNTMgXDNQzlQXWAoR6vDxIfx/VM/UQhwcAs0wEWMfTy2UVUsk8/YZuiLK8PDAXXIleKcFrzwgSmtydoCbNzfOGtgVGLNSgfbsU9Z3xO68tSf6Jb0PtfkqiMKJMsRd/b1VSe6aPh1ZpGxGobo6k=",
+  "URL": "https://www.nginx.com/resources/wiki/modules/redis/",
+  "LICENSE": "CUSTOM",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1587585296",
+  "PACKAGER": "Giancarlo Razzolini <grazzolini@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "nginx"
+  ]
+}

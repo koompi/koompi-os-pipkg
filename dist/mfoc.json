@@ -1,0 +1,23 @@
+{
+  "FILENAME": "mfoc-0.10.7+38+gb333a79-2-x86_64.pkg.tar.zst",
+  "NAME": "mfoc",
+  "BASE": "mfoc",
+  "VERSION": "0.10.7+38+gb333a79-2",
+  "DESC": "MiFare Classic Universal toolKit",
+  "CSIZE": "24746",
+  "ISIZE": "47524",
+  "MD5SUM": "3e035637b7c0298c1940592bcfbb7b5c",
+  "SHA256SUM": "0992653c171c007d3cbcf850b97e17b6031d0496b517b352cf1e526cb37fcbfb",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl8EsYQACgkQeGxj8zDXy5LcdA//Qe2pqOUGBnlBARjbEg5L5lrE/1ug6vxvIyLMmAXMkGg+7EYTmPE1mOlro8mP16z3vNF6qKjvG+19ryHAfrrm5CZtBUkRQ6uUuYbEtlx0NqyQaRekajsFv/hj0fLEfqzNY+BY1wQ352xDFfs7+AHWoNrGXzA8T67Lk/VKxugKlOcW0zr94VcuFU+/F2wXec+TIgO6dBLRle/ubzuDdKHDUsZ1LZ9KahV8y1mst6mQnoE4thKCDWnnkeR8TfG4ikZ630C4GILS+sXsR2t1zmB0ZKXjGBsqVAy2RgCV1t2jXwPp/jCuri1iNc0miVX1UuLMjd80Fkgy0pCro4hX+/S6M1Wsw9ZG0b3iXkDEUIk8UqUcrQxo/YwQMDKvIdmes30CjfaWzyX/YpynFok8Bjv5ZkSd6iGgeIQZHQkC+LU/zV67bk+evXweweZ/Zlm3RC7Rh+7+v0j0bsHd6T5OiXQkNZZKLX4DNWo0w2MEykyqwalBI92b32I6AHhbRbNS4uoIR9ttbtRU3LRAwxhrWeRAvCf064LfoXMJK2Wyi/t244/SsrCWXlg5l8N9UYZNvNFAa8X/MIKyQUzqHtPfALy7BUbpXqQvRgXvoZBlS46AUt/7cht2TRratUvNKPi1eF4GxHCpZRugZGPSGNwTi4k5nRJc0kenhR5ZQC+jkVT022M=",
+  "URL": "http://nfc-tools.org/",
+  "LICENSE": "GPL2",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1594143084",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "libnfc"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "FILENAME": "haskell-sop-core-0.5.0.1-2-x86_64.pkg.tar.zst",
+  "NAME": "haskell-sop-core",
+  "BASE": "haskell-sop-core",
+  "VERSION": "0.5.0.1-2",
+  "DESC": "True Sums of Products",
+  "CSIZE": "171868",
+  "ISIZE": "1145726",
+  "MD5SUM": "ab264ed535d1c3eaf2bf2b9304cce71e",
+  "SHA256SUM": "33ba085fac6ddc90c9ddfe9afb83023b4a61fcd6d678dc154e3d14e44cde1ca2",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl6hsgIACgkQeGxj8zDXy5Iv4Q/+PeHNaaWXwHJZjDIYNU6dMBFWoSuOM3KV6Zkoib4vxLgKvM6K6aWCrRkP3geHRwM/tqMDTsdi1G7Nq/5D7mWM1KcNmtXgy7T7ToQ0M8eoPayCNfY7qdMvEIoL+myAOdSnt3L2xNdTcm5omzuT5Blg+T7lFt0fxmRj+yxZyt3iXZQAw9Qk61v5XO1LRHW1NOzyPKGZJjE7HP8kDHCSM1M+gp7dTBo7Px7n1wfEgOZ/8X2ETVfgZh1uU8h3p/ZXfNyZX822IUhXSkvQ841jTipsY4CLAYrP/NJRuFsUHy2RBxBt1lXLDKfzBX5Dy+21NusTyhr7uffhYOBmeovc17o1DYpKcY2+ilGosu5vsrpKlZWfJQ+j71c7RpTN9Y7wtOjBLoBsgv4g18vGzmz+cQHdXlHHMsr+ZyfsSCHftpQn0kuClPNV2b7kECUKSzpJblzM5IAQFePSJta7Zf3dm1lt4/Q9Tq4N3pkHKqbrZmJHnUgmynJ7+AglVJzeGuKFqHWai0TsWnl2FKPbVqV/9wq7Z9FuT34SFklc0Bb628xIPl04b2Csblo5Wi0rIcdm+8BFOdFZKVne0gjoYB6aZB2Sw7IJ6RaySxhC51Yfk04fnUkENP1RDEkfHX+Oj7l5rRgykKWdLwPUk0yfD0WWzHxDCS/bqXPBOC55MBbLlP+PEgY=",
+  "URL": "https://github.com/well-typed/generics-sop",
+  "LICENSE": "BSD",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1587655057",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "ghc-libs"
+  ]
+}

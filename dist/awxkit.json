@@ -1,0 +1,25 @@
+{
+  "FILENAME": "awxkit-13.0.0-1-any.pkg.tar.zst",
+  "NAME": "awxkit",
+  "BASE": "awxkit",
+  "VERSION": "13.0.0-1",
+  "DESC": "cli client and python library for ansible awx (tower)",
+  "CSIZE": "195936",
+  "ISIZE": "962969",
+  "MD5SUM": "e3cffa1730cf19f4c25aa144d300fca3",
+  "SHA256SUM": "e1f043eb79335b358c611b872aeeebf7d83da84c3c9af5bb1c8be1e1dd58ebab",
+  "PGPSIG": "iQIzBAABCAAdFiEE2yJ3vNUAqjglYQvd2zIzknlsoGcFAl7yTu8ACgkQ2zIzknlsoGfpaw//Rl+A0laR33r8YmsfiAF2KcFVCQ9GaYuc0vKHkTJ3MGTtQR8khUU8EK86L9No1sLWLQ1TtpghmsMQO1IWR00nyu8I923+aLgtKEAzgwLOm3M56fXNkzxzQyU2Wr5/lthahS6+1+xDL8QvDXVg82H0bUnHl5nlmpsHJwiBTe22ZBuzApvbHlXrwbPVEbd9aO6KyY6+w2R1U/NrMpVtCKu3YSn1WFAI6Cd1K9FD+iMCQ+GPvZ6y2NzWMbl3mOARetVq0Ir0aE+4sIrgh5T/vZuIPc9NtNs0KEat3bHxtLpMjh1c4JifN7CJF8wzybwm7JbaqQf7mwpOIULoz4qWIjTwGa+Me3cBmzYxqFU58fNsD/jCVfAJNWsdGMFEOrhtzYVqmJ6/xjwh9de1vf94ub6WUaq6jSjkyTUJETGZSlSK5+paEUZCp1JpLp78Mh0M4S12nP3VD0R6MtfoyrT0k+lTuWSIBWovibRj4RYdWqkt4hS1OqHsCzRWRC09G9zcklop7lGkBo9SlMMXK49cZMbTPszUAf35dZfHSryJTCNI4ar6WWhb3biaI+LcUV7GfaWEHXavEDjHvZhKAxHNJDFAt9E51pHV9cIOD/iubCsUUUVwgdYWge/5DKsneox4mo1mG04atFmT01rWqeh7jgf6spsxGIGa7JwlKu9zUvICxg0=",
+  "URL": "https://github.com/ansible/awx",
+  "LICENSE": "Apache",
+  "ARCH": "any",
+  "BUILDDATE": "1592938182",
+  "PACKAGER": "BlackEagle <ike.devolder@gmail.com>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "python-six",
+    "python-yaml",
+    "python-requests"
+  ]
+}

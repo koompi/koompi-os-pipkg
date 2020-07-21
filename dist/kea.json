@@ -1,0 +1,27 @@
+{
+  "FILENAME": "kea-1.5.0-13-x86_64.pkg.tar.zst",
+  "NAME": "kea",
+  "BASE": "kea",
+  "VERSION": "1.5.0-13",
+  "DESC": "High-performance, extensible DHCP server engine from ISC, supporting both DHCPv4 and DHCPv6",
+  "CSIZE": "4697249",
+  "ISIZE": "22817917",
+  "MD5SUM": "e8f8a1b3aaf8a14ed4320c93617e4ae9",
+  "SHA256SUM": "fe962e1b035b535c07ca9b75bf36f329ac711a7f8ea214d986d8daa29202dcd8",
+  "PGPSIG": "iQEzBAABCAAdFiEEhs/8qRjPOvRxR1iAUeixSKmZnDQFAl4vnw0ACgkQUeixSKmZnDSG7wgAnqo0aKTLTCNPKBy9lHyU2ckt52YOiGGglTmuDGGQe9cYLoRxlVdz8jokVtKxqnQETtzED3oyeQVvIZaZvLHv+qhIIlnaqZ0F3WaEdhQ+YasdqugpwzYzeAb6PElNCILFy0JI/QVYpVUxWd2Mvai/FMZnVzPBWc1r2Sc2gWDHv9DUYqfcqWr04wWPFfOStXeD6pGbIBbWgXYZpbzZi+4EXfFCOzW89VbevRwRL0MmpDmxrrzsiXSkgIZnHjNs3tjaDLPZD3C2k3Yjar7Cbmsgo/M/e9JpOnYEPy0wMaT9CjY75FX7yhV/GfwboHpV737vhQmuYsDFsPTz2gK0elDHWA==",
+  "URL": "https://kea.isc.org",
+  "LICENSE": "MPL2",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1580178689",
+  "PACKAGER": "Evangelos Foutras <evangelos@foutrelis.com>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "botan",
+    "boost-libs",
+    "log4cplus",
+    "mariadb-libs",
+    "postgresql-libs"
+  ]
+}

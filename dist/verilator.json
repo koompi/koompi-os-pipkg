@@ -1,0 +1,23 @@
+{
+  "FILENAME": "verilator-4.036-1-x86_64.pkg.tar.zst",
+  "NAME": "verilator",
+  "BASE": "verilator",
+  "VERSION": "4.036-1",
+  "DESC": "The fastest free Verilog HDL simulator",
+  "CSIZE": "4306265",
+  "ISIZE": "20055755",
+  "MD5SUM": "a439b1b6da2f6b5f1591bab3d886b3d4",
+  "SHA256SUM": "2480a926c6f6a3d7635c3476d76200357c0f30f8430e4bafc8eb99a316b60546",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl7rEaQACgkQeGxj8zDXy5K8jg/+Nu3iNK2Iqn9aX9W5zLLS6lrJzdDuFFf6B8dJYcydxHu2sevVa3Nlt/dP/5pXg/KLk909qP8+Ye39rOmGaeXATJY+vlywzJ7yTn7tMA0WdY/0mYT+AMdPQ5PncqwkuYW9YbsAPVxl2d2XPaOzG0gY5MHbOpJa1brYTQlii4kzVPKPVLVwKjIgriqJALopNvPIsXs/gdcTxTPyRXPdPZu5Xj6nBbChgZRk6oRQBEw+kghcBRqhea5GGov1QUQi+T4nP3nHA3zmCFjYnXfs/TVc/hjq+qDscPuZlI3WDMOd4RKDnRqIw7aw/4DQcAr2UdDz+yipE4hFgqr9fdKs6pcnUlmc6G6U+040GDpTNTaw2lYIDR6bcqd9JzJ/+KmNUqiAnMYVIFrGsW/FF3ZQiSKqiwBp8bd7bivsCRR3apcTr1OXFgKkgccSfLzTLOyA8fjCa90MkiA0M+AcScfmYybLP/81JHql71D6oyq0Msaf/jtRoHT2KepZgqCIzq8/6JcKIDS4XU3u637doTq1JGWhl1p3VSM4AZ43dm5k0XRAI0QqAMDO/xuN6+S1uV64omW/e8In0BhOzJQWbioV981QslSR1sf/viI7aFgXe4WCv8aimvmXGxDyjikE9ab9JhpW/ekGs14WY+G7HNAMt5XRATJvfLH08pn/uniEeKRnpP4=",
+  "URL": "https://www.veripool.org/projects/verilator/wiki/Intro",
+  "LICENSE": "LGPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1592463676",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "perl"
+  ]
+}

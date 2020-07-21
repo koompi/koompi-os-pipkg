@@ -1,0 +1,25 @@
+{
+  "FILENAME": "nano-4.9.3-1-x86_64.pkg.tar.zst",
+  "NAME": "nano",
+  "BASE": "nano",
+  "VERSION": "4.9.3-1",
+  "DESC": "Pico editor clone with enhancements",
+  "CSIZE": "567017",
+  "ISIZE": "2291753",
+  "MD5SUM": "2ecc92b3687d94c8be0060e9817c18fb",
+  "SHA256SUM": "bdf5bad6577e8d7cfc73dd2f3fa483597845819587767cbee49f5f5f97363d92",
+  "PGPSIG": "iQEzBAABCAAdFiEErcih/MFeAdRTEEGelGV6sg8qCSsFAl7KftUACgkQlGV6sg8qCSszpAf9HsPjzjA4XHS7ae0b9uLz/GeFJT5ii8ZBcATNCpNegT735bvSqLZSYiAx90l6NSW1SLdarK+Wts2wKM0ULHk5QQX5jW0nuxYmM4fSHDdCUyAuC+ZUFONeIIZtCN9w9k5oiJyzs8N6vWqHvMPz3wHr0EOTLftjzajLuUTyR3r69Z1LSvl1nOgJ4TsX4XUlRnusLkbWO/tw6YbW/pWugb5gjDmvhR5r7L8HU1Z5/Jxk19GkbEuZ11M7JrPNgm8GwJdWWNjTdwgLQATvXJuxa1D+9MLzITf1oHHtaFNYcbpAoHPPeHnx0DI+pHr241Xnm0f+b4OlbFwkHs9d63SJKZEm7w==",
+  "URL": "https://www.nano-editor.org",
+  "LICENSE": "GPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1590328981",
+  "PACKAGER": "Andreas Radke <andyrtr@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "ncurses",
+    "file",
+    "sh"
+  ]
+}

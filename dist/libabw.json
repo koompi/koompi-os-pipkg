@@ -1,0 +1,24 @@
+{
+  "FILENAME": "libabw-0.1.3-2-x86_64.pkg.tar.zst",
+  "NAME": "libabw",
+  "BASE": "libabw",
+  "VERSION": "0.1.3-2",
+  "DESC": "a library that parses the file format of AbiWord documents",
+  "CSIZE": "285951",
+  "ISIZE": "2864215",
+  "MD5SUM": "8b2b796dae460128a3ff0767ea34fa88",
+  "SHA256SUM": "bc2832f2ce5d2538fc2e82eaa13ee9f7c0218d5cb8dccfb67911a7a0bc37bf9f",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl6/1CoACgkQeGxj8zDXy5IF7BAAoQ2wdRgX27gYUnx4/3c6+mDRtvB41IybnSYrhK+eQgcg3XEuv0dXWoZD6IBcAVWSysnmnbIw28rujGt6Bi1pc2Fk7DUSpghGN5kMTh+mLKoLneQSZQ3o3zG8grzjsmh4C6SPSJBrRtIhpoeAUvU49PPkep8k1o5nquo/M8RpmFIYhAX1K/Dl72A/MQ+2QX0raTorHYowWfTt2zpTEhg3dKaepnhZKKxQvYDoOakw3TtLQ2rx0lTw1ZzzTlNwJqqxN2ANqwy1IHruJeZ7MuoED4dkpfzLWH+U+eED8Rvm8fw7qIFBnGaO/wPbCpS76Yquo1I+GAGL8a4LdpnQ0Hga4pS8wy5IqD2Kfi/GvdGQ+Don4SZ8HH3W3OGlQwaf2g6AS4lDUuPYDxTzvSf41BdkBhDV79DUPTUU6QPUkkDlRlGBb+0P4tjVWmvxge7QadPPt8faxoXTkyrKXOVFPuMTHIYuvIlKbMOeq5EdBs5G9/devE7HP7NvklfviNJ2uhs9OOFrAVLGO1GXGj9BMpxfo9dQByE8MRzM8xy11/WVgJKIh7v9Z8kgsPZOaALigfxNbUeOR77/QprXFco4TmIMN7eGtWJzhMMGtCJTjM52/eq99WoKkWWZrfO7Ixg7oknecE6gW9vcrkKZMgaLoUB2vH+j+2LuEoJKEms6d0hMngo=",
+  "URL": "https://wiki.documentfoundation.org/DLP/Libraries/libabw",
+  "LICENSE": "MPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1589629950",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "librevenge",
+    "libxml2"
+  ]
+}

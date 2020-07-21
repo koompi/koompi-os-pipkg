@@ -1,0 +1,30 @@
+{
+  "FILENAME": "dotnet-runtime-3.1.3.sdk103.2-1-x86_64.pkg.tar.zst",
+  "NAME": "dotnet-runtime",
+  "BASE": "dotnet-core",
+  "VERSION": "3.1.3.sdk103.2-1",
+  "DESC": "The .NET Core runtime",
+  "CSIZE": "23070542",
+  "ISIZE": "72110019",
+  "MD5SUM": "2146446ee7b710e50edcea38c3b3aaa1",
+  "SHA256SUM": "e2eee2d2df4dac8e038548a506adf43f6778d0be0429d23794d2e4f304acf966",
+  "PGPSIG": "iQEzBAABCAAdFiEElDfdOBWnqRaePTlGr/XZUJi8b/UFAl5+alQACgkQr/XZUJi8b/V6LggAmN3JfaaJjS6uPvo1MldiAtIzRooBps+jCM26Cm7X0qHvUAsvDGHxfg6MW2BcoMQwRzSRfIKOv2j/UNOu7DTG+5bWBW2lOs87EkB3Y5X21lfUgP4nE5jcDH3zrgmAuWRqawMe0ISilddxOInmICUh1sB2dLg9r77Qa58mrakPx7+SmanmN02+CMU8iVnY3GAIwAHiJeA0K/1nXIjRj//hPpccyHFbRPFz04n7UadaJ0gqBOH6a3DcVk6zgxDsgs+u4nkHgz0RcYHwp+p2W1+aI66bGk/GxdLvJIsP5H5ItTa/f5v6i0WQlO6zV9kjb6bZE1/sLC/gKGsC9+J53tKE1g==",
+  "URL": "https://www.microsoft.com/net/core",
+  "LICENSE": "MIT",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1585338719",
+  "PACKAGER": "Maxime Gauduin <alucryd@archlinux.org>",
+  "PROVIDES": [
+    "dotnet-runtime-3.1"
+  ],
+  "DEPENDS": [
+    "dotnet-host",
+    "glibc",
+    "icu",
+    "krb5",
+    "libcurl.so=4-64",
+    "libunwind",
+    "openssl",
+    "zlib"
+  ]
+}

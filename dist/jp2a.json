@@ -1,0 +1,24 @@
+{
+  "FILENAME": "jp2a-1.0.9-1-x86_64.pkg.tar.zst",
+  "NAME": "jp2a",
+  "BASE": "jp2a",
+  "VERSION": "1.0.9-1",
+  "DESC": "A small utility for converting JPG images to ASCII",
+  "CSIZE": "19003",
+  "ISIZE": "38843",
+  "MD5SUM": "934b7e8126b8ecf21a8e9c0338833725",
+  "SHA256SUM": "4f86c2868116c5c5c17572ace6d6c9303c18b33cc45f2111fa9c6a17584a2482",
+  "PGPSIG": "iQIzBAABCgAdFiEEwQA0ZnZjToDJQPuenAL/QZ/svhYFAl5js98ACgkQnAL/QZ/svhYe/Q/+Pymnc2mU1TidyHOWXXOb/0M7Zj7IEzCjFGFU8A+4iMDzqK/CLRjzHAo5AmU1xghxhQ5J0GDwZYbDCqRQF/cUm2W5R9pbyokDFMQ+MIHe07RGv5JXYDnFI2XMQo7n3d47KQ12lcsEl0FUsp4iTjBDVfRMPb6e87WV7O+pkbgUrsoOvcVpHhxDbLYSTKYrLFUlhLSVzBkU1weoRcdWf+sinuhcolfKFPcT+ETh7KWcdizeKP4c1DBclvmXDiRNTAn4rkiKSynio1uScgDcDR5tTSixwEqwKURqQ2wcqo0w1po7PyVu1qQ4F1PelLC0wkFUj2MpY7hOcQasIC3CheA7KHb8pqAdllydURLHaM2kh7JyYS1JIli9CUGf5DbYl3DXWMVjP+LrqoRPPjkXnPrAqdRfV9Us3g87+CD9PWJloD/aWYAFTnFppPBS1chdB23IJlVok+eWYpN3DcnWf/5qcVUeOwCYahcFtvWtkQu58J9mWYEc2gmMztZ7O26zF2Gb42jBjwQVF3X6E6GFZR5wSQqi5YoXCO0i5zIvZkvGJy4ojG5amDfj8jABcGGo+l5b2K4xmOp6xGUQbpxb5ZbNbxHQ1e7imvYeeZY9kO/3PSR0BkFpnS7e4hCbYuFS3L8qS6ivA9izkP2GpweVG3wNo6ByWwJEK3m46Iw+7aMbMyQ=",
+  "URL": "https://github.com/cslarsen/jp2a",
+  "LICENSE": "GPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1583592375",
+  "PACKAGER": "Morten Linderud <foxboron@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "curl",
+    "libjpeg"
+  ]
+}

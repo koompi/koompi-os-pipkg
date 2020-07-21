@@ -1,0 +1,23 @@
+{
+  "FILENAME": "bullet-2.89-2-x86_64.pkg.tar.zst",
+  "NAME": "bullet",
+  "BASE": "bullet",
+  "VERSION": "2.89-2",
+  "DESC": "A 3D Collision Detection and Rigid Body Dynamics Library for games and animation",
+  "CSIZE": "35345785",
+  "ISIZE": "128440103",
+  "MD5SUM": "a3f5246676ec2a7919849806d60b9d7c",
+  "SHA256SUM": "a83885c1ed4a8c92b71db946348049678c39fd95a34053e41be375cb339bad55",
+  "PGPSIG": "iQEzBAABCAAdFiEEhs/8qRjPOvRxR1iAUeixSKmZnDQFAl6/0XgACgkQUeixSKmZnDRkWAf+P/1x+8x01ukdxhduu1AhIoOlFUIvHb4nYNe0VVeepSv4MaPy8MXHW92kbJVMBNL2Y+FZjDa6Sfj7WvN4IMkxMPPaHr8vrC1UM0xdf5WIK2m2V2TBr5Iyvtlf+/FInK8G/xndE2YaZaLuuKagh0zpb1uzc7CBNTTbvvW2NLr46B1VZOS00DmLBQ3d8MD/3Qp25CuJTki+TSZ37h4yZEJNxKBZOwmgBD6JwnBT58Q6llRHA5I/E89O0f/LhNGVCbdJlONwZo3vyWPBRzTibfDb4J3SWHdRUuUaVLgK+Qy9L9k11kcArUBR0cAB1DbFkc6XRQ2MwAlj81RgAAHCif20lw==",
+  "URL": "http://www.bulletphysics.com/Bullet/",
+  "LICENSE": "custom:zlib",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1589628556",
+  "PACKAGER": "Evangelos Foutras <evangelos@foutrelis.com>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    ""
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "FILENAME": "thunderbird-extension-enigmail-2.1.7-3-any.pkg.tar.zst",
+  "NAME": "thunderbird-extension-enigmail",
+  "BASE": "thunderbird-extension-enigmail",
+  "VERSION": "2.1.7-3",
+  "DESC": "OpenPGP message encryption and authentication for Thunderbird",
+  "CSIZE": "2476026",
+  "ISIZE": "3125055",
+  "MD5SUM": "e012068ad78f6bc98b5315ed09c0110a",
+  "SHA256SUM": "a6e9c4202c287bd8a83e48aa39d3d1b60a9e3e7d59bbf66c350de7028fba1a65",
+  "PGPSIG": "iQIzBAABCgAdFiEE0ZGnjxiB84R1PJZ+aGsGOsS8DskFAl8In6kACgkQaGsGOsS8Dskkpw/+Ib7cGNCCyokHsbTVVgEwxc3xnBDwboG6zCpDM/QdnVzZMmm0kBKCa0i6CmufSJYqVBKHfY7bBfppocEcOqpAWHeF9iZxi8PqVCyojPSopIVWfkQfS4vnSkgmvTlcXBDpuaexMoE+a9hHSbX5zv36TOb0Zz7x191uX/SLv0o3bI5JqESD99o0qRi7Wu9s+i1u5CyoomwOf1ONzQ4N5SXVWkdmjmvoweuVb/6YK4Q6Cs6Tg/AF/vifP+mbqdeFOWP0+BoNx2aP0m33cFnj7/G9W5dP7iPPD0CkorgEPJvlYVhMBnIdhs/F3u4UlkV0LNMb3zb7vtqXexELUcRBAFHDRn2rA5OQ67zmFPaecmZpgikJIMXeSZFvk9lcG6Jbo5Vbqhhjr+iu5M17rupEFUCOZYCa8jQ51UwxvfRmDmT5GfOGtuZG4BT2FaO5998z30hg9YHa43ELwOAIgxIcefRSetXG+39eXXcM7z5+cOCw7P1PQWRBLV4ySsKMptNoptcwEIx47cz7TTrxtm/WZP/wWRQLhDmnENJq0NmGL46APcl5O+tjyK9HCC2a6AxeIWwOGdMNyhDWQX2TLJf6BTZp0g/r9TfFiRq8ZAPlGjlTttt3m8j/Ve7RK4XctEavvQP8CIAAY54/4bWwLYtH3A+tyr/g6zzmBFOZYgt4SCGQZwc=",
+  "URL": "https://www.enigmail.net/",
+  "LICENSE": "MPL",
+  "ARCH": "any",
+  "BUILDDATE": "1594400651",
+  "PACKAGER": "Jonas Witschel <diabonas@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "thunderbird>=68",
+    "thunderbird<78",
+    "gnupg"
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "FILENAME": "haskell-dyre-0.8.12-5-x86_64.pkg.tar.zst",
+  "NAME": "haskell-dyre",
+  "BASE": "haskell-dyre",
+  "VERSION": "0.8.12-5",
+  "DESC": "Dynamic reconfiguration in Haskell",
+  "CSIZE": "47049",
+  "ISIZE": "188730",
+  "MD5SUM": "3cf7e24e552ad482f0ab3aeccd4947f9",
+  "SHA256SUM": "c5205adc45c9ec23be78cfaa1d4aa62e076a6ef584b99bd61a6a198ecf049223",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl6iJAwACgkQeGxj8zDXy5KktA/+KGy41V8IyHQOPrgy2LzyGZ4PbdFvCceZoVMOIaTwApmqQ5+gQn7ptTH2qIXIfC7wMRJN8nYahlnPUN7LFFMUNLfNx+8s4G1D7zTZso6FiOLDBC1psen6lg4RXzdNz3S2MdEhXTNk6B8BQNxlLID9rjwykLXScrtgVkD8Z9PxLrYtRO2uiZ1yqdlmorLbbVDd7qyjVzUJ3RjvRNRdDhvXK5kp8QfxdMM3Pcbj8te1TywHfhoREc7wo04CifQPS4i15psyEsREwLzkDnNl6CoB+vw6K1Yno57qeTrczH3yGsKgPLR5mR02kwtS22Lx99rcoxl+jBQULzJvzj1pYcdgmyen4d6PgnVGI+3raggBTEokG05bxDmydfAnR6WumT54AUhqfcl7GGByDJzEervLPNG2WodtlcAfcP7YMnUO4HSsJ/33DtGXCHkKVG40xxfZ1sFHsOnFnAu13POT2yIuJjJGj874X+vCaYaEI3BI3JIaQXz/ayjxM85BmywX1XL8+oGgdbB6IQ3o1gYgSiiqbMRTxF1qyEt9mJdcH8N8bA99JWrrHkhp1vzzFFCFDY4CcFl3yHvWK/HK8YEp2uKgI8xJqA8TZJycJPV8wkie+T+fl388h0tbBgm5m5ecQ+AMrN7A+Pv7VnIWuI/qLtqgpZvEky5Bslqo5WgnvjCVHMk=",
+  "URL": "https://github.com/willdonnelly/dyre",
+  "LICENSE": "BSD",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1587684276",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "ghc-libs",
+    "haskell-ghc-paths",
+    "haskell-executable-path",
+    "haskell-xdg-basedir",
+    "haskell-io-storage"
+  ]
+}

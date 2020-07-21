@@ -1,0 +1,23 @@
+{
+  "FILENAME": "python-daiquiri-2.1.1-1-any.pkg.tar.zst",
+  "NAME": "python-daiquiri",
+  "BASE": "python-daiquiri",
+  "VERSION": "2.1.1-1",
+  "DESC": "Library to configure Python logging easily",
+  "CSIZE": "18126",
+  "ISIZE": "68599",
+  "MD5SUM": "138c2c06ea103aec21702521e5636049",
+  "SHA256SUM": "6815c9089cfa5ef9ebbb8b30aa5fb9103c33a718a53474de50d631ef75197ca4",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl5pLe4ACgkQeGxj8zDXy5LJ+w//UYsTW9y5BsmD5bB09LodoJaasSLpvCKPWXneQZM02aHYI7fvXDDyMYDo43dX9+PlRq6WFOpcTBgPE1GDCMANB9PAeWjslEem+nLq81AJvBWsLyWoiqRZa2NMCe9cag98G1onYQml/ktUZHrPMp3gOqietnMLE2wpd+t4H6vXa+gCgGB8p68CCKx7Oo9XrDCA3XFXBgJcb72Q3BSBPbVAodRpZ5M8rOWEm7Eoi/FiCVO/pXwZlOBDZzwTbtfNqDpO5tuRlB2ZXq7n4vl6HtqVkz57XqbV9MEjfu6teKPD/Zs4uPw1Bb99Zm4N4/wsNtrVzZQpn+BNGpLFHSz/3eLRg5Il75VDpUzP3arV21YqRBaM7R/Wrw/3mFk7UJ7q5LahfHB8nsDS+CQY/qIdJK7a6V28I67gOc4McrAw0YdEFeE7C6oSVzDOYQ6H8GLw11PxdoMHKA0foa9O6F01vLSpDlYAP4cJaQdLVz/htfxzRxgJaPJJGFXKvWhL3H5TRyXljY89fhz3ok+HGJR4amzIuO5a+vk7FiRTiSwIgreoa45zwS6U2IM45YYybJFhSrznVK3VRwut5sLZ6aPc+MqZADfnR1/efKWnBd3ssa54TLUKW9MiKxly4KYicZDMJmAO2QEivWlHCjxWrOKAv4AV+LrytFAwnv3RNR+nr1SEbdY=",
+  "URL": "https://github.com/jd/daiquiri",
+  "LICENSE": "Apache",
+  "ARCH": "any",
+  "BUILDDATE": "1583951225",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "python-json-logger"
+  ]
+}

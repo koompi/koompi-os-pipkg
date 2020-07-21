@@ -1,0 +1,23 @@
+{
+  "FILENAME": "taglib-1.11.1-4-x86_64.pkg.tar.zst",
+  "NAME": "taglib",
+  "BASE": "taglib",
+  "VERSION": "1.11.1-4",
+  "DESC": "A Library for reading and editing the meta-data of several popular audio formats",
+  "CSIZE": "382517",
+  "ISIZE": "1698206",
+  "MD5SUM": "f786463c83b8497a79f8bff8566f2e4b",
+  "SHA256SUM": "0fae6278d97f10e57e0af921ad71e36852b80e137072dc54d20e797aa3364d2e",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl7DkB8ACgkQeGxj8zDXy5Ie7w//ULT/WIRw5bjWUDimNRKmazSXv6UpiJif2PPgt/zKMfdNvwjxeNoUPWhQMAEq4eoK3Cp8qvR+wmjfgdIbyLGc34TmCZJpLsE/2y4kOjXeSAWi61SgiRK0kNChT7P3dqBMU+KlLF757dJ71fIVIs5bZ65Gg2s6Cbzi6KylqfVJZvbuagN5tQcV2LwgExPzsCTP8cJM6euFVpaTl+jB+3Nj1JSTE8sNmMuMoYQiAjpPw4VgAC1uE//tbmg2hdG9XgyJmYgigoWhy0IznM8PP1rzRiszYvM5HEpi7mWAQUK7S9q1ig6v/18EqHI3u3ekK6bu00XhpQ2H44P6m9BJ/GayPkeGg1Nlqcy0TIocPAOb5PXJSidDAXkm8SfjhhjJEaCjeuNYZBFZzcv3ZEZRpk1pe7LwEiDLkjdoO8+AZ5ejBlklc5gr4iaGGRbJLw82H55xU5NLzW/QrRpolWXtxzN0U+FztJGVZdxc8dpObc5orAzeF2tZoEiqYSyzhYiXVWwAmbphy4PKzSy5DnggVVi/sY3j5pw5vva+3/JB8vlECxrDVmMx17qSUSTav9MiGVMDklfiAIXkGgLs1mueKC9QGurfLTPePj6cT4/VqUjALHudQ+O+TUULuarSnnVLTkhLJ0TpPzA1AQY/ZgEmuR2cnh3GylaL/TKrNG37GvP7hB4=",
+  "URL": "https://taglib.github.io/",
+  "LICENSE": "LGPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1589874677",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "zlib"
+  ]
+}

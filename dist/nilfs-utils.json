@@ -1,0 +1,23 @@
+{
+  "FILENAME": "nilfs-utils-2.2.8-2-x86_64.pkg.tar.xz",
+  "NAME": "nilfs-utils",
+  "BASE": "nilfs-utils",
+  "VERSION": "2.2.8-2",
+  "DESC": "A log-structured file system supporting continuous snapshotting (userspace utils)",
+  "CSIZE": "110364",
+  "ISIZE": "446752",
+  "MD5SUM": "cceb38ee0e0dbdb9095ba6b0062d7a66",
+  "SHA256SUM": "b3a3a7f8e9c551bcf2d1da0ee0825549291faf878abd2452834b3a06d9b4f6ab",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl3MJpIACgkQeGxj8zDXy5LWaQ/+I5IcC6Z/jxbNHaxGgG7TuHEnljwSelGNC/sDLJ1NyfBuVnMPM4+0nC0MyfYqybBm/kCs6EOTc0nZ6u87tTDziAujpBv+KZl3xz8xdTBZKEiNgEdI0fZpXtk0iyFVztOnZAtKcqK2AujARzfiqdRB149000onqb1jsD7L+cTBaFnxY+Wn1HN2n7Dn26jW71rTJOdQkT/kRWSUPa7VJABSxg1x55Fa/Ikq91hDW3srhwCVOurzVrowqkNoX2TCYLv9piINXH0DujEyvkxbbj872amtenPu6vmjTs5fa8sboaTOIvJUgKrAhZ62ux6XQ73hbbwYvJge3ceEW1BPnOuAjEak3crQg5uwG0UvJBS5wDzrXle1T+A5gmgYRsQTY2IcuusiqhKz2CWEObsLAxyYOxp6FbvjT+Gl74+XuuB20IvT35we708NlzExAj2aZkrMnzjMtaug8+F0err5GBCdcs2ClmfoKouHoZjzOeO43zT9o9zSSG41aftfYCx86ZlC39WtNp675F5cZJecRfUJ/3G+OxfuZ+cjaQKZNFcZcjAsWD+j9ACNcMmZj1hdf81svThbkqK0rRS4rmInqqjE/jRpn2hVn+rqTXpYWz4sBn+q3LYKpxzwt1PiOtp93UaBUxMRBQNCcQQUrorJRug1cDIpxpa37vK0Kanr8Jicn7I=",
+  "URL": "http://nilfs.sourceforge.net/",
+  "LICENSE": "GPL2",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1573660232",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "util-linux"
+  ]
+}

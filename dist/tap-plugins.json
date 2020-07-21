@@ -1,0 +1,23 @@
+{
+  "FILENAME": "tap-plugins-1.0.0-4-x86_64.pkg.tar.zst",
+  "NAME": "tap-plugins",
+  "BASE": "tap-plugins",
+  "VERSION": "1.0.0-4",
+  "DESC": "Tom's LADSPA Plugins",
+  "CSIZE": "80170",
+  "ISIZE": "448224",
+  "MD5SUM": "2edc9ba03b9e11f5b5c2a6cff57592a8",
+  "SHA256SUM": "1dc5ff327aec31b83f925d4562552bfde2c678b3ce743ecf321345d723571296",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl8EqBMACgkQeGxj8zDXy5IK5xAArJmq379gIry82HJlDdJZBwqJyTCWgPWiUSjJHHcl5vU8N6ar2YjAneDYs7j1WSNjxoP9X77KIMmGTHUqM/soe5HVyoH4ZT8fPKGHQaihYolouOCa8rZtqDkB9GO5N2rSdrTiHqwsebXyLz06rvb+8oE1aHv2CCrt75FMwmCg6SrtBYc1aPr/XkyRDNDKGKCZBfiWoVvTXOH1gkfnhyfEg3E230/bQSgMLT/TCl4AkHkI75saTOOmsKJ6d/iQq80wgsWrVkUzHw1DQgHpNBMD8Z2ZhwkVvX/9PKumuH22saIMzOzu6wbrRnJnlFGs9jWrObO6LmGoT9KJjaxQlNlhwyZ43fG431Nb6VFr07/dORooels27AzHiie7WtXz1jyqZLmAHV5O+WEgxdpQTtm0pBdz/nSLHyxJH7U/b81cmaB7QrePCHUPwBGopeM1KJGuBjdubM6Hi7/PDUFhDJDISk3IGY+UwpunesO96IP5wp6WWrYmfU3q9IzvJ/1HT/FWM6SaEhOvgqxl1FTmoNszxnmYRWhoi1RMm0c89tzfWpD0C30dixvTTNg1WJwGC7ifdf5TcuJQBA/u/EWx7qhLj/pIjO7YPuAe1ZexuaE2T0XfNVZWLtFTzrD4GHgBa0bsgS2HurE7VDaoc4tleKoiKxZyzsf0rAcutdF3qGbnd0I=",
+  "URL": "http://tap-plugins.sourceforge.net/",
+  "LICENSE": "GPL2",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1594140618",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "glibc"
+  ]
+}

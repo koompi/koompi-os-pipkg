@@ -1,0 +1,23 @@
+{
+  "FILENAME": "firefox-developer-edition-i18n-uz-79.0b6-1-any.pkg.tar.zst",
+  "NAME": "firefox-developer-edition-i18n-uz",
+  "BASE": "firefox-developer-edition-i18n",
+  "VERSION": "79.0b6-1",
+  "DESC": "Uzbek language pack for Firefox Developer Edition",
+  "CSIZE": "459273",
+  "ISIZE": "521805",
+  "MD5SUM": "fe4909d6c4c44211ad3c46263dd7ed0f",
+  "SHA256SUM": "01a8cbdfa68dedbe527e264ae4f7bdeaab52fb17211ae451592f6938760df929",
+  "PGPSIG": "iQEzBAABCAAdFiEEYB8g8dG7v0p4z1tt9rFhCz7NvJ8FAl8IbNMACgkQ9rFhCz7NvJ+/DQf+M/XRCw/kp7usSHhwVtMSxbi+i0j2iUenweUsitLN0ECGmNQy9t6K6sBxFhAS+ewJYs4dBOQDBajXRPjfJ4KVJ0cQCbevomFk7AvpttbhsX6RDuALECUEvqPOxcJgalxBrS0LaQ4gtJ90H+VQEu6gR5t0MReSS2Mof2ipYuXzH67QB7FTQ/0lm7MM5y/WeX3RUpviYqL74GUZ3afBwtj7fYDtWM9xY2VamVwcMgKQLvZqcRe6ETpqocvBb70cRFIU3E6Xo7wPvkqm8DQjy3TkxMVzY18HKnlH0KOj1iu+TUPVmmmYaLWUYQFX5dfFB1qn44nBKyXibQM6B4oB8i5qYQ==",
+  "URL": "https://www.mozilla.com/",
+  "LICENSE": "MPL",
+  "ARCH": "any",
+  "BUILDDATE": "1594387381",
+  "PACKAGER": "Andrew Crerar <andrew@crerar.io>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "firefox-developer-edition>=79.0b6"
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "FILENAME": "libxpm-3.5.13-2-x86_64.pkg.tar.zst",
+  "NAME": "libxpm",
+  "BASE": "libxpm",
+  "VERSION": "3.5.13-2",
+  "DESC": "X11 pixmap library",
+  "CSIZE": "55548",
+  "ISIZE": "160872",
+  "MD5SUM": "e1433be6c02e11fdae47bade6d76cecd",
+  "SHA256SUM": "f1d7df1cfc274b195f3fa40ca80ed7d47db46285d426d81acedcb3ead5111f7e",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl6/tu0ACgkQeGxj8zDXy5I4MA//ZHSAsNC+SOD+Ka5DhAKQcW7oUQ1ihZ2M52wnWe2qSyrMIX2DHOOp1QyTDQPGO2rgXUsNfB3CRk1jJuTUSgkU9oZOhoMysQ1yaausHepXdDOMphGsk8YtIEJASuaeO38rp4exhmP3JrvlSss/+ukZZnXKC7hyM8PxX2E9qFWf9eV/OUgmYlHxWSGNu7GKnkii/ucoU9PwRL06xFwl5CnyyZ77zrUmxjyUbwIQRrp635EngIFc4jcYuKQHfINcd8LvU521mH3V6q9t/pi/rWiavHgDTjLbrPMXf4GgW7WWQuuaLgOyREZWWWGSeg4rJfJWZgK4pZUCz5d17WHsObWbg2FHjpYwpJegMkLrRX7Gnso+y8CZ1uORAr7fPfWrUWy99mB4UGRmdh/31RxPSqnOyEwT2D5YkxKA7Ip2bLKB0qWUkT5Xqf1XF6Xb1BOlajhYJiu1hcxL1caIPwGcHG1WDCNKyjbuMBC5/OsYdXwyHGZIGZIZHyz73fiIQvXbaYIGHcfGTSghs22vpwPJADfQ/PyZsi1BjNr2SvSbJ5ZGwl2F1C6Am3Tyub7sw/mXwOhXPyyvptNxL+N6ZqeNhyjrTB56RHmMvH7ojDqWeyS3Iv3zF9SVJ1rhunPCFiquSop6GvZV98vYVwLuSepqM5zMkNkjVL4j3XeLrjDR+7xhqMY=",
+  "URL": "https://xorg.freedesktop.org/",
+  "LICENSE": "custom",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1589622471",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "libxt",
+    "libxext"
+  ]
+}

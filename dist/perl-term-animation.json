@@ -1,0 +1,23 @@
+{
+  "FILENAME": "perl-term-animation-2.6-7-any.pkg.tar.zst",
+  "NAME": "perl-term-animation",
+  "BASE": "perl-term-animation",
+  "VERSION": "2.6-7",
+  "DESC": "Perl/CPAN Module Term::Animation",
+  "CSIZE": "27065",
+  "ISIZE": "59540",
+  "MD5SUM": "87c7bd9d73e002083067b08b6615c060",
+  "SHA256SUM": "f86dafe144d016911cee9f664fcca7c6db39c3277fce0242595a72a3d50e9e96",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl7vhNcACgkQeGxj8zDXy5K0TQ/9FyTch5r5lNwFDuSDscxtLWqpAlzlrO3yUOsK/xNBh6hDcqghOcqCxcM3Y5DJpq6H97q0O+tsd6MiDadrDBSol7AgV8mQ1Oabz/TfnEG+zoWKvU+IssyLGS9Npu2W94uNNo5qNiSAAFsj3Qh1iBEVCv56dTcPouHaCE/fk2D9eCbE/3Fz7vcbXpxGlNQ/MrVt3EsPifNGbArK8NvGxPgLdnOiPE4k9tL3YDkLCRFEEWtAr1xvc4mgB/qQMy0mJlTJXaPOcx6ivUwmMYPClbp60QOqTDrawor3FE3Bjk+EOhkxIZ6tEY5b4JflAYYflQMCgu2QuZSFrtEFlQrsyQSYO3QG9xnYJt0kJ7qGwo6Nd3CR7IeqKWmba0emHWPwPZG+jkj+6X6Il5d3k06I+luz99fW98+PhfvB+rusJcHc3F5KSG4o+3nf2ETw6uNnJ/EuzOW57Er8/8TUirgdplgbQzN2SPdyDzUF7Q8j4rN5DE41uhhDnvpUNxg44yYKSCB6LLU4495knvhYbq0ovm6SbrJUY91hCSaxG1wYW1y5RKFNdV1QvbRizO5WyTaTJYTMvmMJP0n117oxEsS+zeA88ICw8IC3txVxrEO4NhczXcHBP1NYrTW+EI1SNv9cV5dkVvUtQ/Bhfb2TNUMKq9dxtS2nOqIFxMr92jIRZPTcCMk=",
+  "URL": "https://search.cpan.org/dist/Term-Animation",
+  "LICENSE": "GPL",
+  "ARCH": "any",
+  "BUILDDATE": "1592755183",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "perl-curses"
+  ]
+}

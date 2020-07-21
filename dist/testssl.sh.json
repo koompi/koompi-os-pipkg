@@ -1,0 +1,29 @@
+{
+  "FILENAME": "testssl.sh-3.0.2-1-any.pkg.tar.zst",
+  "NAME": "testssl.sh",
+  "BASE": "testssl.sh",
+  "VERSION": "3.0.2-1",
+  "DESC": "Testing TLS/SSL encryption",
+  "CSIZE": "684907",
+  "ISIZE": "3099339",
+  "MD5SUM": "ec4c099ff095a47e7c077ef62d8bf016",
+  "SHA256SUM": "03c233950743c60decba2d721b5bacb072ca19e48414da8d275a239d4a6fcfcf",
+  "PGPSIG": "iQIzBAABCgAdFiEE4kC1fixGMLp2ji8m/BtUfI2BcsgFAl62omwACgkQ/BtUfI2BcsghBg//Woi79SnqvtHvjUxalSeCE9erXEGs4BK+9dPsRWU5mB4VPIvFB05WTHs7NuVikZZwShfBsN7RK9xE8VTYPCirUvQA97JK2JOeA1VKN9A3io847KdFMHf/4OQ2k6hxXcjuOEAX6kNNzk2qHnvjBhEWmGnd20nSEHLGjk0sbAindH9ukBE57N8X3QXo3zV7/XPPh1ut01QT0yPGNDzHtopJiIoPOIWLlR9S2zbNJei6/+KDu92xXOXHewxfoB3pWHwwlQYRhamSQ4/eZhIe8UcqsmqtMJoHryLMQudZDrapMGerPPuU3mLOan6oPOHXHSQJeX6rP8MRj6kGr5N11BJKE0B3MfLEFqVnnbqJf2cezmFXnAXqtfknSU2+1lDTjlSrO433x1ZanNP/RnsMK5QuJ46NCMI01nEHAKDb4O2iGZtU1HbSpiaBlDVKGQ35fVh3JHl6slrDbG4/T0iBkh7fLbbJUPQsl6jRXpf+YOpmZpQqL2Np8VmIFbbCVlt9RCjf5It3wLbhsBHW875JA2XJDlurLTgCrpy50LbOkGRqguYA0Lh/MGgkxwOaG2MXN787bjnLs5nJpYehS5NVUWcO/KdLHklCt1P29un+KAzcSBEuJuzNq1+vdRqC5KZAbt9/APD9U9/yIW67gHs6TSjmRtHjvitGJjhUjTxNx0s0ajk=",
+  "URL": "https://github.com/drwetter/testssl.sh",
+  "LICENSE": "GPL2",
+  "ARCH": "any",
+  "BUILDDATE": "1588980701",
+  "PACKAGER": "Levente Polyak <anthraxx@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "bash",
+    "coreutils",
+    "util-linux",
+    "openssl",
+    "inetutils",
+    "bind-tools",
+    "procps-ng"
+  ]
+}

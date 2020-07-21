@@ -1,0 +1,24 @@
+{
+  "FILENAME": "kodi-addon-visualization-projectm-1:2.2.0-16-x86_64.pkg.tar.zst",
+  "NAME": "kodi-addon-visualization-projectm",
+  "BASE": "kodi-addon-visualization-projectm",
+  "VERSION": "1:2.2.0-16",
+  "DESC": "ProjectM visualizer for Kodi",
+  "CSIZE": "4138433",
+  "ISIZE": "17937755",
+  "MD5SUM": "f31ecd129496e7c03ce5a1a584190a6a",
+  "SHA256SUM": "6ce8f9721af4a9fe5d4da279b78a05d0ee130a3d07a72203a206af9c01a2aded",
+  "PGPSIG": "iQIzBAABCAAdFiEE2yJ3vNUAqjglYQvd2zIzknlsoGcFAl8Fe5sACgkQ2zIzknlsoGc+Pg//Yjorzfe57BZYmNIRCEK0EspkxDL9PhaQEw2gjR7T9fRb0tB7R3i457P31ZK/o0YJib1h6o18tDZkFerBpXCUzxpuh7zYhS2pQ3anE93/uhSvREsQ4VKtchWgjFb6QjLXhxChiFfoS0AiV6DadX5NU3YFDDZAxmSYApze4yYHojoN3ahFZ+2GYFurFOLSSZXchpEkI2y6SHH0RoeQY7AIp61W66EiQmhoQqQMUMJm8d6q5Hcs3fSr2HSmZ3GWc2R+rVzr5syNYwTKWFioZGCPGzKR/UclLgw34eal7247jzLE2Jo8ViHzNUi9wPQEgffrJkTcRQhfDGp3Q/u6NEmWcO7hJGkMVs+6tkozQ6z3MECs7zz8pR2RS2+Z90YQns6iaPt/IYFUUOhx7H17crX+9dJTzGgukF8hGZV3Panb/7bY62FIJv905fNij8eybKtcSkeZkcum7XN+EMlfSCWI6VYrOIM0/WjomSODSVqQwFqodbNAr2oIs3kVEkvSOVsEy4JibNWeS57z4+ZQvOo453wP4ISHkhc4Q+uiBlLRek854dt3hYLLgKzcIF4eFHbiv9yDx3Ed8viy0J8CwddufZCanzOrVN/aYWnnU9rVB6OsPjwQ27kO0mlSXzBBsgd8bJRkQerjFdCKVWIlkaVxKATTOFqLmYQkcssab2mXyaU=",
+  "URL": "https://github.com/xbmc/visualization.projectm",
+  "LICENSE": "GPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1594194712",
+  "PACKAGER": "BlackEagle <ike.devolder@gmail.com>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "kodi",
+    "projectm"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "FILENAME": "python-jsonpatch-1.26-1-any.pkg.tar.zst",
+  "NAME": "python-jsonpatch",
+  "BASE": "python-jsonpatch",
+  "VERSION": "1.26-1",
+  "DESC": "An implementation of the JSON Patch format",
+  "CSIZE": "19801",
+  "ISIZE": "58152",
+  "MD5SUM": "883fe77eba170e3a094d59aff149e67d",
+  "SHA256SUM": "7f6f04f074c36d6ea27625819c20fb306808adecca6ec0fd463139624e6e7a05",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl7wwCwACgkQeGxj8zDXy5Le7A/+K8nYXdA2bEdMWAkFasR8YyiSDEhNlad7TPUqXtp+bw/DJVZ4kLwE/oWCJnrJGaLY1vpjAe+OpDv0KmJa9byOJS5CwAZ4toJPWVqdlOFBATumXkDcLCsdc4R9SjD0J5kQyr2RBNDmOS+pfhg+ZnewSvyGv9ZHpfw3+SnMxkgBAB4Qpl+qORJ0+E/zJYrUqQe+OWKBTuDpbajQVQ+zP311fzBhfr3iMCq5tKHp7K8KxF8+N/atbdLTrhroY7OBlVDA2Nu1yEOewTAfw8Yyng0f7pSlshJ6rujWZqGhJuw8G1yQweK2zkKvTVBqj9YPrHQTAe/xbYsuRVHVFTU/QzcdhFUS6zG6q41z29Mimak7Msm1vCctMnEYFrVwWB4UCc4phfoOG33EbtXOzCWLwIC/FP9YbtCB5X1Rlgf1pHW8u7/0DiMGWwnJpUdbhIO8wp8D5OBF57u3GtJ6QRHSQt6sjGax17RlceN/ggT0jAaAbgf0XVrU2cQ+3/SDO1qPIk9VVzCfv65WY1vEUlwzytE440LTnNifdgi0wRk7u8BTqb2zgI+z5h7zZe+GFXw0Bm3HfvqMyr/I8bnFwSZEwMQ+dxe7bw4pFYTze9fZLW47UFXNIp7HcxlEVFjDMgcPJkOQiY65ABm+r3eAOYBxzvF640pI+rU0/Q7W9hVITF+nAvM=",
+  "URL": "https://github.com/stefankoegl/python-json-patch",
+  "LICENSE": "BSD",
+  "ARCH": "any",
+  "BUILDDATE": "1592836060",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "python-jsonpointer"
+  ]
+}

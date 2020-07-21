@@ -1,0 +1,24 @@
+{
+  "FILENAME": "eslint-7.4.0-1-any.pkg.tar.zst",
+  "NAME": "eslint",
+  "BASE": "eslint",
+  "VERSION": "7.4.0-1",
+  "DESC": "An AST-based pattern checker for JavaScript",
+  "CSIZE": "1676080",
+  "ISIZE": "10413076",
+  "MD5SUM": "ab084bb4b00cbc6a26f5c71dd0023856",
+  "SHA256SUM": "6b15298b9268241afa5a3588b52e0a1b985f9193d6fd15e3e89d06b5e1fde0c9",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl7/lOsACgkQeGxj8zDXy5KE3Q/+PCO34EO26+xjoIfIJThOlFES6N+AObkMjPw7XZekpTP00MDebtu9O13oBUuybRdEFlPeu5gvnmf2mkJ32u9WWotA52z7/vKzLon12nhlbM5PjLhgr86FuiopAZVvcNcTD/+Jn0d4BiB4t+nWKI/ro3xtKdzRhLYCyyzVq4+ZiyDidRigUeuf/JsKN2kGUa+jehGV6XYRJarkmD1z4YKy7AiW6btlk7IZv9kHVYvG5Z61tK39qqLmvez/95y8aGwms+xWlRRKI+VguS7hnGqvZA6Sl3bdXDNnFOB29q8oymid8I5O4yiG1QR3VDI1IVBC1E8DP7NL1BEdaAth7juIhnk2+IILWTzNTxAD6LwgG5c7iyKvrJCTk28WBXzimhhQ400qG3mIIornJTl8Ax3xkcXwYpvAKbHXz5skzglTgvnXnVUHeuuWXgDlP4VVY9lxWsTZremPY/r5EO7bNJPvE92Z4Q/72Tcm3ICkEcjjGgNup+lRrhRffzcZPy99KPtXjOy9JjCnW8X0xPS7aP1EU43Vr46XgNUpsueBuhXdfzKMvMCepHxk2aUoL6dZMLlNzom9b72q4G9qqf3u5xEoVYI7FBetZekvQ0NKRhoKYBhct5lQ32oIVqjRxNkNCjyN1dIOn2nqQYvixZwZn77qvSgoDAOxJgumSlZb43bu2sI=",
+  "URL": "https://eslint.org",
+  "LICENSE": "MIT",
+  "ARCH": "any",
+  "BUILDDATE": "1593808042",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "nodejs",
+    "acorn"
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "FILENAME": "wingpanel-indicator-datetime-2.2.5-1-x86_64.pkg.tar.zst",
+  "NAME": "wingpanel-indicator-datetime",
+  "BASE": "wingpanel-indicator-datetime",
+  "VERSION": "2.2.5-1",
+  "DESC": "Date & Time indicator for Wingpanel",
+  "CSIZE": "73797",
+  "ISIZE": "236676",
+  "MD5SUM": "96118ca9bea62130c0fa09382ab5ecf7",
+  "SHA256SUM": "02977098f661ca4e34071d1cfe18f5997682001b7a941e497e17842d1b69b53a",
+  "PGPSIG": "iQEzBAABCAAdFiEElDfdOBWnqRaePTlGr/XZUJi8b/UFAl7/Zo0ACgkQr/XZUJi8b/UvJwgAnGrYGVunlSixaucwvwrSgXwSD1QxJBqCqo8oI7Zt/lWZ2nf3VzQRrMjlP+Wpgywfv/pEVvOEuhqMKveHkzP0vWurRBe71hCQ6lAeQXwnXZVuyizkvQxKWPV2zGTH8BxT+3uoGCnlK6VRSSuAk5clIYVywPP0fhXuyTgmaOA8JXnd1Pgf5KaGx6H5JSkyJhkT/hjqvuAOIGnoziMVwsLy7QKilEh4HI9jKHO9WmAX/K4W8x6fzAMytfSAaHpbXUGQkBX1yAa1cjkF3fAj8BJXg79E/o6bfIG7tFoAJU9738sO0CRkjoRJx0VcA83t0MoIUtSaKJkpBn27tVewPKWbWg==",
+  "URL": "https://github.com/elementary/wingpanel-indicator-datetime",
+  "LICENSE": "GPL3",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1593796189",
+  "PACKAGER": "Maxime Gauduin <alucryd@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "cairo",
+    "evolution-data-server",
+    "glib2",
+    "gtk3",
+    "libgee",
+    "libgranite.so=5-64",
+    "libical",
+    "libwingpanel-2.0.so=0-64"
+  ]
+}

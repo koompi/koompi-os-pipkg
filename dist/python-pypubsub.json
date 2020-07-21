@@ -1,0 +1,23 @@
+{
+  "FILENAME": "python-pypubsub-4.0.3-2-any.pkg.tar.xz",
+  "NAME": "python-pypubsub",
+  "BASE": "python-pypubsub",
+  "VERSION": "4.0.3-2",
+  "DESC": "Python publish-subcribe library",
+  "CSIZE": "87168",
+  "ISIZE": "527019",
+  "MD5SUM": "4b9d0e4118dd5b50dfecce343ad8bf77",
+  "SHA256SUM": "411513183b50c678b42b5d3eddde42c8a6eb90f513c17f22d3f1402f83f0eac5",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl2/xPkACgkQeGxj8zDXy5K8zQ//TAMXS0rsODQ/MelSFmOT9iqwRnL/x5THw4+svjwmBeH4Dy2Crs41qtzuglU6fEUCd4GGvzjUJUXSMh7O6LMt3FjWGKhUd9FDXLXWkhPZfiPoNnYoF2d1m0mEtnSd9bURcjSTGxmN1HCraJaKJf2T7lYan58PgFc1U/GWClbkC7oG93vzlp5Y+kW3gOix20YN9ZydhXPbpBpDlctw54j+ZdfCi/SFGChNrSr5kaBPRV7BzspuGGqnvdX2zpihT0xr0qF++V15jFPETiSGoDV1uHN/Emj3NqiBVVWSMoo+I8mBYywb3WYyMUpfH2godsTuLszMMDKvFPLCDPJ7BqN0N+c7GVDUp6oYCqs9yrourPhGr5PNi6i9Qh3bGitCAc5H1CSRNQqg+kYQ0vgFC9eEGWc5B7WIv5NtU2Njlh7lGdScnDARL1YV21wewB0J5kkELyXH2LjEmHprOIwYB6g1KpZEINuifGoiybAdDmaj4qDwd3q5Fd+W54h4HPqCXy86LdbjUmrLkIjIYH/BQ7PdkYQsJobWy326GOB/s3GBtr0Q17vIDKjZjYiqLA1nxAyTEOtkh9sGsU+EdmT6INQD0zTeEsATvzIfobtn/X4AmPGwdJHvc0AvPMCV+J9xyM50tsZuJ+YYj0Y0sAAbzqLMABhLviolq+abqqzTF+Qx1i0=",
+  "URL": "https://github.com/schollii/pypubsub",
+  "LICENSE": "BSD",
+  "ARCH": "any",
+  "BUILDDATE": "1572848858",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "python"
+  ]
+}

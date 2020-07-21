@@ -1,0 +1,26 @@
+{
+  "FILENAME": "arandr-0.1.10-4-any.pkg.tar.xz",
+  "NAME": "arandr",
+  "BASE": "arandr",
+  "VERSION": "0.1.10-4",
+  "DESC": "Provide a simple visual front end for XRandR 1.2.",
+  "CSIZE": "79808",
+  "ISIZE": "292797",
+  "MD5SUM": "d2fad34bda31b5b950833459c16fcc2e",
+  "SHA256SUM": "c71787424ad2d9441e4926784467b2069043b3c029dce22a8000750f723c90f4",
+  "PGPSIG": "iQEzBAABCAAdFiEEhs/8qRjPOvRxR1iAUeixSKmZnDQFAl2/8FoACgkQUeixSKmZnDThiAgAqk78r78+EqYt241SwLehRGHlbnMhEimCPRM9rJ/fQ64Bua2wHh8JyM3CGken0ygBRvtsTLbg2L4uand5OoFN9pDAG613+pemX96vRf6Nq0LtlQhndMq2PmikaiWWEZE23lasLvMaE/pJYnpnA3McAuG4O5Sy4lSl9vf9yE2/Bitbz5orByhprHB6n7qZxvsWFzY619HK7mfEzrd2NOJYoTex99WHRJIxlPSwYT2jUlLUNlT3OKBi7W8XsdKtzfBEhPpQBa9tBuw9SBBw9CZPB01H4M3TCXiWR2/jei+DHa+aplT6AmuEYWbsSZQMovPwM+bTtL+iwjBuwhnYyWO/zQ==",
+  "URL": "https://christian.amsuess.com/tools/arandr/",
+  "LICENSE": "GPL3",
+  "ARCH": "any",
+  "BUILDDATE": "1572859933",
+  "PACKAGER": "Evangelos Foutras <evangelos@foutrelis.com>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "gtk3",
+    "python-cairo",
+    "python-gobject",
+    "xorg-xrandr"
+  ]
+}

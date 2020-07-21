@@ -1,0 +1,23 @@
+{
+  "FILENAME": "re2-1:20200706-1-x86_64.pkg.tar.zst",
+  "NAME": "re2",
+  "BASE": "re2",
+  "VERSION": "1:20200706-1",
+  "DESC": "Fast, safe, thread-friendly regular expression engine",
+  "CSIZE": "178432",
+  "ISIZE": "478216",
+  "MD5SUM": "ef2c1727bd3156e0ff54f46d9bc0c834",
+  "SHA256SUM": "ed830659bda6a0c15594370c65a52571871f1b1375050595776b62f74369abb2",
+  "PGPSIG": "iQEzBAABCAAdFiEEhs/8qRjPOvRxR1iAUeixSKmZnDQFAl8ERFQACgkQUeixSKmZnDSlhggAkD7CYxoKhtI6+/CLMfegRQsVrkQwDGeXlZAWZykH4kzAwhf/B57AKFs5EJdSuWG/PY1Xy8tgxoSKRYO2fzJE3GQr7jUmR/r9M5KEh4jNq+2hYyEb0fiaPrIau0WM1zSyIkGMvTrPxkPhfTkkkpd7L3Ah8SSfPoKlU67U8sQdulc5l4UrkQ8hkDszV9eAbDReiMDfQVqmF5I5wIIwHTyRLtbYj3zD/Cvu7lFyGv/8HylpwR1pTu/vGJeAthL7EUPASMloJGqipbItUYEIZkX5reQmSf/zzK5fDiXA75Au1PcXRRusrW6ydslsmPP49iBetTOsu3qTz2Z1aV8U7/t37A==",
+  "URL": "https://github.com/google/re2",
+  "LICENSE": "BSD",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1594115125",
+  "PACKAGER": "Evangelos Foutras <foutrelis@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "gcc-libs"
+  ]
+}

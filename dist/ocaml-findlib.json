@@ -1,0 +1,23 @@
+{
+  "FILENAME": "ocaml-findlib-1.8.1-6-x86_64.pkg.tar.zst",
+  "NAME": "ocaml-findlib",
+  "BASE": "ocaml-findlib",
+  "VERSION": "1.8.1-6",
+  "DESC": "OCaml package manager",
+  "CSIZE": "839970",
+  "ISIZE": "5867176",
+  "MD5SUM": "2e142b9f6f170401552f30b128f218d0",
+  "SHA256SUM": "d9ec692dbf5d74c8e62520c0575b33f2933cff11c17c96de2ea24971252902e4",
+  "PGPSIG": "iF0EABECAB0WIQQ1W9uX7Uck5rOkUOej2VYqWJh0qwUCXsLJJQAKCRCj2VYqWJh0q6TrAJ0W5iWtqAXsFEqa66o9JG9nWiPUyQCbBrsx65nmBcFrnZPuzQcRqqdNlwA=",
+  "URL": "http://projects.camlcity.org/projects/findlib.html",
+  "LICENSE": "MIT",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1589718390",
+  "PACKAGER": "Juergen Hoetzel <juergen@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "ocaml-compiler-libs"
+  ]
+}

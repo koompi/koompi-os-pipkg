@@ -1,0 +1,23 @@
+{
+  "FILENAME": "php-apcu-bc-1.0.5-3-x86_64.pkg.tar.zst",
+  "NAME": "php-apcu-bc",
+  "BASE": "php-apcu-bc",
+  "VERSION": "1.0.5-3",
+  "DESC": "APCu Backwards Compatibility Module",
+  "CSIZE": "5812",
+  "ISIZE": "18800",
+  "MD5SUM": "e7e7881ea68eceefc4802f3b2bdc181e",
+  "SHA256SUM": "a061b80f7a1f71e799dcc3e927e6db96f7ecdcd4d46721924c6fd5287bc21e9c",
+  "PGPSIG": "iQEzBAABCAAdFiEEhs/8qRjPOvRxR1iAUeixSKmZnDQFAl6/1oEACgkQUeixSKmZnDSntggAlAwMz1Bo6U9gaswGSV5JMxj09eljIwsYEC05ALpReLTNjy57I38Iu4rmM1bEZ2kh2StGrDf8jKls++82i8p7xjpYx2g8HjtXScT1XUDrsDlYvdGul16NuAo9k28YCvRxg2dK7D9FWQCv7L5+BlxTbC4/nfRssYh+8qNIbuM2a9cTAZh1xVrTjlosSBwzZO69Qp4OgVksNolohGL6ZY4dykdBz5Fy8eT48NcnGcG7IfRw726y6tTKjiEszErsVaeK4p98FJxEsIcGHFMXNN+q/VbNPdUvlfcng+mESKOFdsXVGmEqOY6y8cH8+xzlntK8DJsLqBRkEn0jR5LGOqTiVQ==",
+  "URL": "https://pecl.php.net/package/apcu_bc",
+  "LICENSE": "PHP",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1589630574",
+  "PACKAGER": "Evangelos Foutras <evangelos@foutrelis.com>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "php-apcu"
+  ]
+}

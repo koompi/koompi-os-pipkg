@@ -1,0 +1,31 @@
+{
+  "FILENAME": "manaplus-1.9.3.23-2-x86_64.pkg.tar.zst",
+  "NAME": "manaplus",
+  "BASE": "manaplus",
+  "VERSION": "1.9.3.23-2",
+  "DESC": "Free OpenSource 2D MMORPG client for Evol Online, The mana world and similar servers",
+  "CSIZE": "10883519",
+  "ISIZE": "28740358",
+  "MD5SUM": "ff329b444d6638a54d52f7c17b76c048",
+  "SHA256SUM": "df53d8bb88dd89baa31240c2e9986083cf8256f708aefeb63b9eedb1a022b2a1",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl8EroMACgkQeGxj8zDXy5JQjA//bBoYG30sVugG8rV+OZvMuWV/z0Brl/arHmb+4YLqPfNR2CT0hCOXYCy9iLwVU2mRCJszRilb9HzyXaeneqQrFiuAUdmhu3yYZwA7jW5BOnxqQrAgEBD0vqScluqKgN8IrBTHljjylC3i5XTjcQ4DUPyWSNudEGHINzAMxh4xuhMQqp6HMPFZGHoL9TfB5L8l8kUSNbh9Vn2H8/F+Pbc/0Lm8mJG2R88PPDf7W1gi3KXIDN8aB2p+Y9eXergHjHsWmu5OLXUNu7T2JCHEfKwMaEz7mZE3J9uDI5D+N/pCsgVq6tDHNfptPXppvdfmk0Kz12X6YvTLuph7PUfmIjQco5ZiIPNb62nDPnX3jVxRsP7t6t+4tNbFoOz4RVOqKSW+gCxIDk4iwgt52krbUulh68QR5/jlAJxtsJzs4tr1rzv3bGynnQBjFWCIXuRsCxqsK7j0vjG3gDaNSlKowgbWMGaRrIJSw7mGorJXodf9aVLeEOSH6p3onD4dT6e79Pa3vMLy6sFA9mbaqJJUD4j/OTsLpeHRanngyTT/6YJFgirKEDYEJ/RE3IVm/gkfSKUsYBS7HLwdGKpCAIvoRoHixISwQbB1wKxy/z1hISbvr3WiyeYljwRwYCpwVxN1XEAqFbRbSJfI0UkenmbYZ2z0wbogVVD3N/YOwn2ZIXS/fUA=",
+  "URL": "https://manaplus.org/",
+  "LICENSE": "GPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1594142072",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "glu",
+    "libxml2",
+    "physfs",
+    "sdl_image",
+    "sdl_mixer",
+    "sdl_net",
+    "sdl_ttf",
+    "sdl_gfx",
+    "curl"
+  ]
+}

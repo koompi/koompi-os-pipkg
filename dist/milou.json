@@ -1,0 +1,24 @@
+{
+  "FILENAME": "milou-5.19.3-1-x86_64.pkg.tar.zst",
+  "NAME": "milou",
+  "BASE": "milou",
+  "VERSION": "5.19.3-1",
+  "DESC": "A dedicated search application built on top of Baloo",
+  "CSIZE": "98202",
+  "ISIZE": "368281",
+  "MD5SUM": "c733d39c7854e521fb86112f8fb61864",
+  "SHA256SUM": "5d6d82ad3cf9272f6460cf0cddfa6797e8a64255ea55cb8ffc643ff8ef4a1b03",
+  "PGPSIG": "iQEzBAABCAAdFiEEFRnVq6Zb9vwrc8dWek52CV2KUuQFAl8EhGMACgkQek52CV2KUuT+WQgAnVKM6bzj5VfOsKMBvA7EoYbeZ/9gjlXfKs7nx4DppbEBu0+m1HuwY1mwg5Cf4vDEjHbkYUjoMcVLSDn6T3FpHQP7qbuo8fyAAs5yCW7C3P5EKwuk6vxLMUYlQ6KCDE5OnUnNSV6NeHXXxOuXdXtYZIS/6hv5rDnn3QSHxz2kahvL1hqNsWtbd/E4zsIu595Y1/hsyd1yg9lpIcsy6yiaX1WwnKficFFL/hAW0oiup5jqbumAMI9YI7JJXs0zoSfvSurYMc6RLXqaTTWHCbBAfD40XxF+QP+OKGdDZOSm4C9f/Hmc3lD8e/nbTtB+8uRjZNiGZEUlXun6xut9pZErrg==",
+  "URL": "https://www.kde.org/workspaces/plasmadesktop/",
+  "LICENSE": "LGPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1594128169",
+  "PACKAGER": "Antonio Rojas <arojas@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "krunner",
+    "kitemmodels"
+  ]
+}

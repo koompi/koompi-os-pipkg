@@ -1,0 +1,24 @@
+{
+  "FILENAME": "gio-qt-0.0.9-1-x86_64.pkg.tar.zst",
+  "NAME": "gio-qt",
+  "BASE": "gio-qt",
+  "VERSION": "0.0.9-1",
+  "DESC": "Gio wrapper for Qt applications",
+  "CSIZE": "94236",
+  "ISIZE": "429187",
+  "MD5SUM": "a85302ca84f4bb68375eaabaac470557",
+  "SHA256SUM": "2988e3a1f51aaa108f83bb1136e6b8dce3036cdf5e5bdeb1aaa15613fcab44a3",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl6mCjoACgkQeGxj8zDXy5JrExAAkmZFY8qpiEiLAQAzC73bIRE3Avn6oOXUX2H7DezomOrqom+OOOZkHwjc9BhkYvNlV+AJkUkiDw5qJFeBdf2fvKefC6uKEZ34XL6jOpL3U2aPwltNb8iJG0UDKpH49yFWq6TGu59iwVXwOUP2I7zcxqblKRDnZ/msdPsdvP8xNhSetcICQz99sVKb2ab0DOY6KTPGFtnNQyaAjAp6wwruHbhnWgqqUZMJ331m9LrkSKyaaTVwBuIM5hECbbsb2VjuWRHHS2wFeK4cs2Ql6g4ZipsdjBggflufXId6cVHC0lYm4jJLMdUJxarOU1ZvbsvBOBgYx2neOXu4/uk5j0Oujfoe/dSx1SkUA3euc5unNuM36Kz79DDJDO3W+ygP2uWP9Nwqrkfzieg730ZOscg3OVuYP329l3NDYUjMcY9E6fDpZTu0ite23RAj7JfJBV1x9EDr+5rOhOeH79yzCbo12XKVTRVwanQ2bUqGIpErJznfqjYqiNbXvYRd7YRiDIEJfJ1e5LM2uezK3P6LgSovQvPYs0SuR+RBwX6bxEbQK11NUfoVD9yOSP0tVrr5zIatLDZvo8vJyejTFi01hkX0IZ36cV+EpeSVe9tERTgvAjA1qNoWhBFDqssrZ3j8GtMNXDRLYiSptjURUuHJkvMfN2ybA8hbVWZ92r7O3r2qG6g=",
+  "URL": "https://github.com/linuxdeepin/gio-qt",
+  "LICENSE": "LGPL3",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1587939823",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "glibmm",
+    "qt5-base"
+  ]
+}

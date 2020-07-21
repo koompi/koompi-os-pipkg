@@ -1,0 +1,27 @@
+{
+  "FILENAME": "maude-3.0-3-x86_64.pkg.tar.zst",
+  "NAME": "maude",
+  "BASE": "maude",
+  "VERSION": "3.0-3",
+  "DESC": "High-level Specification Language",
+  "CSIZE": "1249836",
+  "ISIZE": "4247332",
+  "MD5SUM": "cbc8dfe80f463156073afc5ca08595b5",
+  "SHA256SUM": "79c896eb337c1a4f86e85c402f9ffe3946e018aead38debe7e311c4c519d4a6a",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl7t4B4ACgkQeGxj8zDXy5J+6A//Q+Oa5PN/KaWy85jYRgfKYbuUHz4bfYzy6t6SbfqGJfa5j2j9UZHwJo7bF4AurGj3/IWleQeHRbWqDcu7QOUPESsBnGKyptpkiPIhKxO3Py9fx/G0+0VtYFKAlmzc7JgWGEwQhLC/8Lq3ZRzLuyOzG6qdUVdit2xp+sdLZTkmY9W4xoEuVK402fWBlYoo4C2nYuzEeIpNkh6nQsqd2E/R97LiXdjDjeBnXOIGrnoRrwliDjiN8DchXE5QbE0syVpLMfjJi9D5E5FGkzSrSB2EUVO0+bNX8zmrGbKDYL9cJyyBOD9QkvpMG3iL+XehB+Y6V59A0g4CUKsvLbyJhAGX+A+uPxqvD+whP0+vZMCqRtZ0nHkwX9s0da8yF1rWipPNZJorGe5fQ7qLGESKASLt9nOdAUb7Nm3IkagyODfgRa2Mw7BCPjcjDYmSKkiUnhWXuuNjNEe3Nhrh5R64pyLVDrpu2aThtf+mKwRiUHx/gZ+LLz5PVaP/pFTNDsmGdixVDiv3nAWDBtI/y07WYniqBwJv6b0gSqIQ1FGYgeBDt54024eYfq3VsCFD97lTLqDFDfAJ9REznTEbpW0fEJ8fsx2xDVUKEQa2CSlMqPzduaHg12/tMoqOWrq+/Mta8BeYyDz8QYjK71ne4F7njW/MmgVYa57w09vT1vMPC+VbMDo=",
+  "URL": "http://maude.cs.illinois.edu",
+  "LICENSE": "GPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1592647411",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "buddy",
+    "cvc4",
+    "libtecla",
+    "gmp",
+    "libsigsegv"
+  ]
+}

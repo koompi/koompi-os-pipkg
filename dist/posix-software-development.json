@@ -1,0 +1,26 @@
+{
+  "FILENAME": "posix-software-development-2017-1-any.pkg.tar.zst",
+  "NAME": "posix-software-development",
+  "BASE": "posix",
+  "VERSION": "2017-1",
+  "DESC": "metapackage providing the POSIX shell and utilities (XCU): Software Development",
+  "CSIZE": "2557",
+  "ISIZE": "0",
+  "MD5SUM": "a8454f6a623e4cceee446fe67c9cd6dc",
+  "SHA256SUM": "52b25992c9760ad06049a9bec61ff6d5672918091d217737a0747cf13dbab5e2",
+  "PGPSIG": "iQIzBAABCgAdFiEEYEETBMCdNmKDQO7/zrFn77VyK9YFAl4XY5AACgkQzrFn77VyK9aNjA/+NdXLhDZMGhApYw6mLSbbX6FNQzhA9oI2iL1nRcxmQScIy3ktZ9RsbUb6kARvu7jmp58s4WdRvmRXaQK3qxodtVaK26jxdRXV25XsVxoUQl25nlY6v2+OPIbQYkt0RHFQNX2DitLXbN+N7jSpuiZwCnq+leQkFtAJh0P5tz+9rg7d/Fv2JWWzWZx4vrpxiSLnKYNg8SmcPIKQ+AhqNbt4+3kyeMBiWEozHwyn2Ou4/rj+EggFqwcFvFaYadSPlcCg94pjaQBHqL7X1Hes1l5m0L/aqyXbpP/hjrPDZLUBON7xR4ny6BP0pENDPEDqI5MBNfHZ5o6Mx9m2Rpab/C1GDF9RkEh0H8Hs/Y77SrZL0wEcRqFH7Wa2hhMEHq3kLDNBTaI9oSfywHhTaZnidOWSyxLTXi5qArRQjvGcofS3v2wqj+7yQoRyfLND1x9y7lUFGjT5yT8vS1rNRWvSNaDMnYX2GjtTkgT4mk7E10eAg69GK4XKoDatshQSPFeBIHypHe+SaAh4dsRHEdyB+66m3wuwFsqRgA3P6+EoUXG8EXT5RV+g3Z0MM+aenpMl9Jvq6FjYsLcL36DKiycnJR1z/K5GLXVzgy3iqN5dF3u+H0pWLuP3ZgLH+IOF5GFbZoOtllFR5p80t7Gn3YSAwEQ0evuLIe8yY7+swdjcLoBxuYU=",
+  "URL": "https://pubs.opengroup.org/onlinepubs/9699919799/",
+  "LICENSE": "",
+  "ARCH": "any",
+  "BUILDDATE": "1578589941",
+  "PACKAGER": "Eli Schwartz <eschwartz@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "posix",
+    "binutils",
+    "ctags",
+    "make"
+  ]
+}

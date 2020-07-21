@@ -1,0 +1,32 @@
+{
+  "FILENAME": "python-oslo-db-8.2.1-1-any.pkg.tar.zst",
+  "NAME": "python-oslo-db",
+  "BASE": "python-oslo-db",
+  "VERSION": "8.2.1-1",
+  "DESC": "OpenStack Database Pattern Library",
+  "CSIZE": "270083",
+  "ISIZE": "1809594",
+  "MD5SUM": "8092702979375f10107a2d2da1c3ed4b",
+  "SHA256SUM": "56f8345fe678bb240cf98104da8546f8a1fea9ee7d096760861aa3f0ef969410",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl76NF4ACgkQeGxj8zDXy5JcuA/8DcVXozycXhzioxQgULYfL9ZUw2ExyaQ9qFZAbAOMSxLG6zFoc0Yov55XJhX+Y1v/gEmIzh226XWOHMnSPIwmP8d1w/gW8pfcumJqT9e8ZlTWvqGo02qAuoYu2i+/uko+d2UDNN0so2nrzbqXNSJ0pewguDIgoAAVTG/gcMb3PunYTKRrD8LjJV3MBsAU/UMZXICL2QcSrOlucLV3ECeVpCnaaYRs0r6TQZFqJDyx07F0KBA7VJP9FOk417ZJnWNiZzqyvgp6+mRgY0YVAKdIw44M2lzLwDUkEJQuZ1dKm+cXAky/um22Y8wIoVvhGYGS60/0grtknDug4lmDxNZIuh/KWqUtmlEKaAa/d9Yu+hOiJANfJvfg95DPi8vsz099B6909irpiOyIo58OH/wMGCPDVLyzpfnSExhTbWssesAAQ3gVpm4I+3tF4GWPgBaq9X8OFv07S+/+ci604tY5r4Mase42P1iFfeRkHQh2ovumFSSfvH9wTZwyotzPyShiJAszXXxPNMNWXAo1VZ4DcSB/khJxI7crOJvDdznw8MtDIbho7iV1WpukXqeBS/d2op26aNux8hVGDbO6NXQAAnuOmo6uyjHZEr7mb98Qe70v+D3/oPEp0qNJVWYXCmucrEqk+5FF1nqI/OozDf88xWJFIZygDoMV8GNhFnmSeKE=",
+  "URL": "https://pypi.python.org/pypi/oslo.db/8.2.1",
+  "LICENSE": "Apache",
+  "ARCH": "any",
+  "BUILDDATE": "1593455602",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "python-six",
+    "python-pbr",
+    "python-alembic",
+    "python-debtcollector",
+    "python-oslo-i18n",
+    "python-oslo-config",
+    "python-oslo-utils",
+    "python-sqlalchemy",
+    "python-sqlalchemy-migrate",
+    "python-stevedore"
+  ]
+}

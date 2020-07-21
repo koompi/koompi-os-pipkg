@@ -1,0 +1,28 @@
+{
+  "FILENAME": "namcap-3.2.10-1-any.pkg.tar.xz",
+  "NAME": "namcap",
+  "BASE": "namcap",
+  "VERSION": "3.2.10-1",
+  "DESC": "A Pacman package analyzer",
+  "CSIZE": "92428",
+  "ISIZE": "427715",
+  "MD5SUM": "fe92dd072305fe64b4ea75c113e0218a",
+  "SHA256SUM": "888e87a495f9ac439618ebf6413f76913602ffdcab70ab1731840a18a754f97f",
+  "PGPSIG": "iQIzBAABCAAdFiEEj8FaBklQqZ3RvRTdOeS4d+YuuRUFAl32gI0ACgkQOeS4d+YuuRUk1g//ZSo8CYL7gwDNJ4pXFUaag4GTihKGcGHrZXngzbz7kF/HHFoKVMzu63XrK8O1MWVgCx0TwhX+hWaODyQLWVypDt2ZxGJAUqFri1U8hhIBcmB5Wnq+8zTi9rl8VnmqQS/qspkZmYxgfi7ZxMBmsGigr2pyMmPb3PzxfCvxD5IVu5RjUDY2ZDtE1mLFQO7ZUgLqKBcnuBLyBHPoSnYo2jRxJV5dUuWsdqwWwxZFbhASXcfkHrvV9mpIXDeXbcN46bgKDMw5ejBD/9SCMEtTw6fSPs/CBuP9y2cT5BimgYOxEJZ/sZki54zq8cy+YChBBe41ULO2psIChZ2w+lLBFUwt9NyLhMrnOolgZFJoQrAhXmKyEAeHf6XowFHMHIRnixM9zqQo9XTdmvoO0O+2LKTTNzmwIRx6feQoUEzJggwz7OxphqjPkwyq7HaGTsOO1pRBPw7MN6MXXDV+mBL8OYLukigyNIPVRHbg8hVOXZAKP6P0BgQNjj4q9xYC/crRkoe7nGQWcscViDs3J13bOiFWGFodwB3ZZbYnFz+gqbdB+Ousuyrztn/zKfjIBRc+b1MJZITzld46lnOnWwqSRHUL61cGPlPF4rxb2+S4zdFXgbm6zz3LR2Kvl8+Z9Fo+jd8TCBPhQdtZZIgf0nVjnUendo24HrnoNeBW/t5So8s/MW4=",
+  "URL": "https://projects.archlinux.org/namcap.git/",
+  "LICENSE": "GPL",
+  "ARCH": "any",
+  "BUILDDATE": "1576435725",
+  "PACKAGER": "Sven-Hendrik Haase <svenstaro@gmail.com>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "python",
+    "pyalpm>=0.5",
+    "licenses",
+    "binutils",
+    "elfutils",
+    "python-pyelftools"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "FILENAME": "sl-5.02-6-x86_64.pkg.tar.zst",
+  "NAME": "sl",
+  "BASE": "sl",
+  "VERSION": "5.02-6",
+  "DESC": "Steam Locomotive runs across your terminal when you type \"sl\" as you meant to type \"ls\".",
+  "CSIZE": "8698",
+  "ISIZE": "27278",
+  "MD5SUM": "b24aea15094f70fd042fe0d816206730",
+  "SHA256SUM": "19da26e80a6688c71eebf70842c8461077b90a6f9257f17b531375afff1a5d5b",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl8Es5kACgkQeGxj8zDXy5JjIRAAvIwaQxrohILvvY0dH3qI4FZt8DA3SL82Rrz++WJdSSK539Qv5Jhs5/WCxX+MxpWL7kwOhtVEYx3efs6aOrFigGGbv0Bguk2UmiRGIOqQ+gPmlyZAPbjAAa5No576UiyX16T253n7TlA5E+CuuhVqP+PpxamzV6dzRtxJ5oKN5rGDcGlHLFHiNenPvA1Tp9sMw34LS3udGLPuX7DOAiXyP2WdASyIyDsmF5b1zCvvQiTW/IKA4O4pDLTlp5vFXgmaLCiuLWBwhRYLG6odZAI3EXRQT7bL5d6OGKpbJLL+JC9rDMtzFeVt9LV71ccj9GV9VJ7McIPHCJI0QEAp0NYLVDmanlqaXVCMY8XBC32k6OYptxSut4Fc0AdP+fDWyXb06ar30IBwuSBbjtLNlXJejPHdFAasleQrYwqbMyf4lEWWyG2TlbfMms2/5fAaMZxV+LEUi+yPMEBIqwoSD20s6Df437so/iqfRm0Oa+ER7N9t1zdUivEIGIxTrt3WbQMHLp9rE/UdY72kS8sXPjsmOaFWCsVZS5vWqrvsc2eoiLN1eXCn0+VsVNIlU1fZhZXkb1vH4bQxueaQxrIEJs/94bxGkWUAjTxtp689c66raYy8nr+mmoL5io9eWQg83HWufetPbq2K1JyP0dcuCGA+utNxjHSOpGvayIKUJ/FaS8I=",
+  "URL": "http://www.tkl.iis.u-tokyo.ac.jp/~toyoda/index_e.html",
+  "LICENSE": "custom",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1594143425",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "ncurses"
+  ]
+}

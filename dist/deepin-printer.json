@@ -1,0 +1,27 @@
+{
+  "FILENAME": "deepin-printer-0.6.3-2-x86_64.pkg.tar.zst",
+  "NAME": "deepin-printer",
+  "BASE": "deepin-printer",
+  "VERSION": "0.6.3-2",
+  "DESC": "Printer configuration project for DDE",
+  "CSIZE": "567961",
+  "ISIZE": "2098016",
+  "MD5SUM": "c735e75cdd8348fe18d0cea4996ef6d9",
+  "SHA256SUM": "c1fda5e5211227731199dc8f714a1624ca104a30489c5ef584897ed326a50827",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl8I4GIACgkQeGxj8zDXy5KqOhAAqhw6IQ+IdlgV6L3tJFIXiH1krk5B34saM1H1jDZC4BxM4cDTAA99DqZ4dCLMgXyGH5/PeJ8J2fsz0Bvtcj7L7cTl3oTbIUUxqmevvVLkXlWLE/BDoN8+utM2ierq/VwLGUdRH6/yLoRcIZyi1xl+FRudplgO8ehpzBq65mq1dwm+ckMICfCkNDr0PWN/axeYlCTrxLJbHUUIqqj10xaeLfy02vb0dzTiW0xD+lohM0YwG0Wek4qwRxwLO8EYOKzMPP8OCwevlqZrsOZacC3ov4k/qLoW0GT5C+Hxn+h6hQJ0nA06dgAclvumyWp7UPfu5S66E7i6NnRyiCTUGoVrqGvXepm4yuJ1hpL8IFMmLD36qf+ijvr0/v1jUw11Tn5d0EH6oaIeZIMZdWklC/6AuSBrwdeDlUS5RXY5lZyRY/47WnzvrHOvG6bfO8qcosgxH+jm77rdRpxVkZOAGl6uFyse6sqtXTJbQE2DWjGVqBGLM1OQqi5r+quVy4EV+Q5Hab1wHjmxoiz0qy104Y1RrD6vdhQchBvRByeN8YNgvGAbSslKN4hVs5PYLKsFt7UZhu4/cUVcggtOShQRIeKDs9L0LKJDLRHgifi+HuBduere10SQSaTDJguxkHO69v/oGX8na3zbyJefmdEfmfc6qm850RbcoLc8R8S7DbUpd0A=",
+  "URL": "https://github.com/linuxdeepin/dde-printer",
+  "LICENSE": "GPL3",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1594417164",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "crypto++",
+    "cups",
+    "deepin-qt5integration",
+    "libcups",
+    "smbclient"
+  ]
+}

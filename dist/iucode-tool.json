@@ -1,0 +1,23 @@
+{
+  "FILENAME": "iucode-tool-2.3.1-3-x86_64.pkg.tar.zst",
+  "NAME": "iucode-tool",
+  "BASE": "iucode-tool",
+  "VERSION": "2.3.1-3",
+  "DESC": "Tool to manipulate Intel® IA-32/X86-64 microcode bundles",
+  "CSIZE": "33576",
+  "ISIZE": "66734",
+  "MD5SUM": "28cca87b5c1e0983794c6ef8d5968d05",
+  "SHA256SUM": "0a837050c2aa2d1ecaf89dd3cb7c846d5009c5a4242b45821d4d7adb8d8f60d9",
+  "PGPSIG": "iHUEABYIAB0WIQQEKYl95fO9rFN6MGltQr3RFuAGjwUCXpd+yQAKCRBtQr3RFuAGj/tjAQDogtMr/EZ9LEpF6AMGxYEygCxozPR/efV5NF06MW5FIwEAmEbNNiExtuLdPKiaSUKacDL/FknjvVrlrTSHzwfsHQk=",
+  "URL": "https://gitlab.com/iucode-tool/iucode-tool/wikis/home",
+  "LICENSE": "GPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1586986653",
+  "PACKAGER": "Christian Hesse <arch@eworm.de>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    ""
+  ]
+}

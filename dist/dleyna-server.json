@@ -1,0 +1,26 @@
+{
+  "FILENAME": "dleyna-server-0.6.0+2+geb895ae-2-x86_64.pkg.tar.zst",
+  "NAME": "dleyna-server",
+  "BASE": "dleyna-server",
+  "VERSION": "0.6.0+2+geb895ae-2",
+  "DESC": "Library to discover, browse and manipulate Digital Media Servers",
+  "CSIZE": "58228",
+  "ISIZE": "182166",
+  "MD5SUM": "a991328ae143854df1b36792adbba503",
+  "SHA256SUM": "709845858099ff2873e2f8c0a8dc7816a541f6fbc41818e5c67cb4f5e2a3f7b3",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl7DnUwACgkQeGxj8zDXy5JkQxAAqmBptUKi/LzwmjMER1xULvITI6AGqi1EsdOGF1ufc8avVL0vgH9bBRlX68Yym9EIrCg1ik5uontFvnzgD1ML025zU2p8dbkk4iILvkFojpWrSPFAiubCXjUca9AJb4V1O2A+cERWtB1jfQtKsA1ccrLde2g4Bls5mQjMJw0IejzSQGBcIo/wXptkDEFZjmECJphhjTDU3Ia+vakCCRCdiVc1xo8ugwXdFpbao/Ay9qXsO2Fqd+XNno9+XP3b9x9+MVyh2VSMcCCwNptOL3an8ZimhxxsrPzScpRrtXQX2+HZjbrIuZ+ruuLIAFx8RkWsfxubLHYD9UdO1vNOhHn97/7YAUewnrteifZnXSUlsAmAQPOOyD42Y48I/ZlS9uj9cR3KbMQsczcf1NqDBbelU8NFTsnjXoH/tE1bQtV7dG/oVakDNTL6CNt3e6HDjWplbHFER+D86DkyvmeqQcxz5wcMnwJHOGi7BlZRs5i2ahFBNDMEiQ/Zz0RhfhvE+nI1wyCQZC6//NtWD8xhXtOFUhyPgxTCpYXmUELf7Ws9U8BZgnpd5GLjLo9bBIpB39XT3OVJYEKnYjmgak/H3sPsEtqX85ut40DcgST4ZUZomtJFNBKPnToiWZYd04B7FLNUlgvgDGgdWvQGP8BqaiEIreJbRSzBAdjwbwYyYz8egXA=",
+  "URL": "http://01.org/dleyna",
+  "LICENSE": "LGPL2.1",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1589878050",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "dleyna-connector-dbus",
+    "gupnp-av",
+    "gupnp-dlna",
+    "libsoup"
+  ]
+}

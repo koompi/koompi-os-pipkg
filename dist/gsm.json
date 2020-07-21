@@ -1,0 +1,23 @@
+{
+  "FILENAME": "gsm-1.0.19-1-x86_64.pkg.tar.zst",
+  "NAME": "gsm",
+  "BASE": "gsm",
+  "VERSION": "1.0.19-1",
+  "DESC": "Shared libraries for GSM 06.10 lossy speech compression",
+  "CSIZE": "38165",
+  "ISIZE": "104490",
+  "MD5SUM": "743b3570912f55859429af0708223659",
+  "SHA256SUM": "1e8059ca798e9e98d1a5afedbe45d0ae91863e7ceabdb4d17d27d0a4cd1bf219",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl6A4vkACgkQeGxj8zDXy5KH8RAAigJfjIm0qB/e7yOahWjWm4KnLqeC8MX1sTn80eUil3siobH7tWp3or1N7oeFDu4hEnWw1VtOnfIYKStO2y+EPi2JQuFdTmJeLqKV5uBpqcY8VV4cZXXcZCYQEVMY2wMUoVb8uTrjoK+ubH51v2ZT4y8R/r0hs9I8YDONk30fLuA1MWScgAY/yR57D2NqWUQz2l0vYDJ8szG3MoeRQ1Y6UFX6NRqa4U+Rb1buwC3AnWwrauOymmwjVD+QDklRwpaULGN2tSuhiBwye0DBmTGz7fnoGxhonQaG4T19zRl1P7Kapx6RSYIlicZB5o8AMQQIWzYd1Bh5guaGAS2j1s9BnpWny8/Xh25ZZM5Ogk4vGPIenBTWMl8ew0LfuzGVF5CdWNi5p6l3hDr7e8Gl+pDOPd61E2AlxRs0X0PyWfqtej/Vo2NuASZdRNQWfpVVtueRVRBQJOvOrMaPXT8YXbQ2fn/C//n4YS2DOhvH4b8GYqP96GxMRdWKTTNuFanabwf2g0mCGQ3O8qRPAJCV+qGyCwSENQYM2iVRothClWeMeNbulOBOAhebY/91SmtwOHvl4s0eo1C7+iuUvF1tOICKII2H9Cne49IVFrgW09fdEgaSbkKspI8scZzCUlxwiGfOJzVJoWAib9I2TSmyRwwMhIcnbNo8nE5/MVjFEIBJ+dM=",
+  "URL": "http://www.quut.com/gsm/",
+  "LICENSE": "custom",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1585504917",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "glibc"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "FILENAME": "fastjet-3.3.4-1-x86_64.pkg.tar.zst",
+  "NAME": "fastjet",
+  "BASE": "fastjet",
+  "VERSION": "3.3.4-1",
+  "DESC": "A particle physics package for jet finding in pp and e+e- collisions.",
+  "CSIZE": "963893",
+  "ISIZE": "4958073",
+  "MD5SUM": "ae06749a4fcb9b9af8c911c7cf7eb153",
+  "SHA256SUM": "28cdb6e9eedf79ff65072ac81b8a3f03ff0a7ac5a7b770d713b87f32026e6e50",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl6zosoACgkQeGxj8zDXy5J6Pw//cn4AoPwlj6qmcr5CV5fpTmUxyoQk1Sp1Yyi+sRt+hrZutasIN9yL2HDgEVEeR2KL06s/cU74WIdAuzs1KSYJhuR5yvvijJ+hkbUm4+MljWdDlB8BraxaKFrpERg0XK9q6ezp5cLODbHAHi+MReCzT2w8R1VZeXJhh+JfkQgVKu/lnBjTwKo8os/EGh95Zx9iWghvlc4Z6xPvJiwxwdrSvBh97j8i8970frX3nje1NrT6prDCrc0j94nlTBe44alk0Y8NvpgvGJy9BojWc/DJGrbX+BO3iAWN+nyYsaJV+IzNufOzqmPEl+Vhvh38YNFFk72hfwEDQ+H+pq49/IzvMvlu82TvLmtI5GkpOvWDLrieYD6zbyjpv/fOHW81Hz4kmClpAFjdXrGPsVypUyUM/9i0P8PJpVzdqp22QUYeEr68+C5MLQ0pvKtEknNkRgpX2FLKPpZNy8iukQhGgu+JmYrNWd/jLubwm+fjFZ2SMG92q6XBh5qTQxsgAzzaTlJ5et0C/GwN32dDWHmTuBLGUpqcAc27pMy+bWrwtP8M8oPnE2ffGRnmT5w6DRTMKeDPmMtSb931kTUl4H2zRGsnOBx8xHY8n9Kifgbd0hUiUbWqDW43HUg8v27tPSv+0GlDnjntACcxz86EIV+AHRR1z+1OoTgHu2YIgcRI6RerRbY=",
+  "URL": "http://fastjet.fr",
+  "LICENSE": "GPL2",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1588830722",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "bash"
+  ]
+}

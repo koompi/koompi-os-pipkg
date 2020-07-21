@@ -1,0 +1,23 @@
+{
+  "FILENAME": "xfconf-4.14.3-1-x86_64.pkg.tar.zst",
+  "NAME": "xfconf",
+  "BASE": "xfconf",
+  "VERSION": "4.14.3-1",
+  "DESC": "Flexible, easy-to-use configuration management system",
+  "CSIZE": "183790",
+  "ISIZE": "1103894",
+  "MD5SUM": "8bda6e31dd73595c8a2bdb42ee104eb3",
+  "SHA256SUM": "2145e8495f2079fd2812497ec66519f88ea95fad48adb131a1752282a0a08c61",
+  "PGPSIG": "iQEzBAABCAAdFiEEhs/8qRjPOvRxR1iAUeixSKmZnDQFAl6yyQEACgkQUeixSKmZnDSUuQf6AvprpZSMfHf1kJvDc/FQTYdw89oCQF+zeak0pMHEZxj0DCfGmAgWBBF8/oDb+m4eAHzcSesAtSBOWuzWDYsWSp/rDCPoLJfUKzoD+uasnAG/11erTiC1oTAuNrZQ3vgD44dRbWe7XM+z+vetUuqAqeX18x8Xmxi/jaOXoc7EibACA0tNt91FsJxhoaNdZo1lKvxyiUL+r8S+6Aiq+Ko3HQkpCC/nc8z3BzhfAB0POAfaLYUav14QUU7HdVJv+yTN0Rko8ib/+EjXrUtGt9oyWiZlVM83uXfAzuSUIRJLR7vMM1F2lLZ2jrrD/JwbVMouQuCnqCrDSxToPnG05/NarQ==",
+  "URL": "https://www.xfce.org/",
+  "LICENSE": "GPL2",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1588775099",
+  "PACKAGER": "Evangelos Foutras <evangelos@foutrelis.com>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "libxfce4util"
+  ]
+}

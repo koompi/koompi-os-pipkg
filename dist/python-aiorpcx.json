@@ -1,0 +1,24 @@
+{
+  "FILENAME": "python-aiorpcx-0.18.4-1-any.pkg.tar.xz",
+  "NAME": "python-aiorpcx",
+  "BASE": "python-aiorpcx",
+  "VERSION": "0.18.4-1",
+  "DESC": "A generic asyncio library implementation of RPC suitable for an application that is a client, server or both.",
+  "CSIZE": "57272",
+  "ISIZE": "305933",
+  "MD5SUM": "3d9c4685b8690f2bcf7f3a83822d2dbf",
+  "SHA256SUM": "5d2f75c6e181dc719197e751310b5564431bf65f551e18853ec5b89409a0d7c2",
+  "PGPSIG": "iQIzBAABCAAdFiEEkDurc2QOttZVM+/zRo8SLOgWIpUFAl3Z5PgACgkQRo8SLOgWIpVKpRAAscQyYcdndhf2CF6QWPxX5EJmDhBESBwAchZBKXeVJ+3Oc9Z2VUaZMaz12KAERY+7Y3N3/yUVUwOFN8qFZfUy5xIXW4GpuZwUnw5IaaiZXJHVvPEq1ETRMBAO9ErI8v0vywaOc5jo4XHBDq+k0u2K1KNuOKvrNdwEr5Edpbkdd1gn1SI4VZrCrdu2u9NuCvnjkBj/Zecp+a/rFe8k3I/Ak7tZi/zOECPuzZ7xZ+k5x7Wn5fIWydqtGc0f13QEn0Z4QkM6dRjBrHAHvHgr56KrI+ItsZhUUOYM7XQASOsrIFVbNjqgZzM9ne4aGJbooLSDuT9883OT7VSWMr3a4AvNdZyO7w1M9+Icm3sudJg/YQtUcbs7N6nM51eBAFtxKue0T6Jp0CTVIIIArRXzmUGjcHKmUBaDOqeZfy+t8iHA4ySRPFMovAOZ9Eplvdn8Mv2RE5BrizQHG9MWOXpZCLEV/aZv2qe+h44wZGRUR8hTynM2XSoJJ+YUojTNsSZ6PFoxYcjfUftECMdvSHXs8e6JXVjApt+AJE4JslQtlAV0uceh0AkdyB+ddx+k+zLhPo0djrwJpGqv+lW1K3sKMFJ5lbswQFSJrvnXJtTkrnD9k1wXyrHfeHRJTU44wMZv3Bnqc9BgO9ApmO16vYIrqu8aun2SxZgq3Pe2N7CN+7n+Sxc=",
+  "URL": "https://github.com/kyuupichan/aiorpcX/",
+  "LICENSE": "MIT",
+  "ARCH": "any",
+  "BUILDDATE": "1574560973",
+  "PACKAGER": "Santiago Torres-Arias <santiago@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "python>=3.6",
+    "python-attrs"
+  ]
+}

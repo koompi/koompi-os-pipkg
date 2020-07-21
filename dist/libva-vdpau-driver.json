@@ -1,0 +1,26 @@
+{
+  "FILENAME": "libva-vdpau-driver-0.7.4-4-x86_64.pkg.tar.xz",
+  "NAME": "libva-vdpau-driver",
+  "BASE": "libva-vdpau-driver",
+  "VERSION": "0.7.4-4",
+  "DESC": "VDPAU backend for VA API",
+  "CSIZE": "37908",
+  "ISIZE": "116736",
+  "MD5SUM": "1d34c981885c4e971abd40f1860300f5",
+  "SHA256SUM": "6c6ff37584ec8c7b9049a23ade8f0150367e18a1a4dcb34f4a4968e50c93e768",
+  "PGPSIG": "iQEzBAABCAAdFiEElDfdOBWnqRaePTlGr/XZUJi8b/UFAlyHfpYACgkQr/XZUJi8b/Xt1wf9GTnlzyflWMfcduiVsVaNcb0c8GGxq4LuM5Ph3Ec2+mhCbpbJZ8YuMAwR1TCsDx2JfQ3TXbop+EoMucmTvlbqCuseSGl8JkzJRH5VqLeO04Be/UBsskNKbVjwkDnsdfOt1emKNlFfa7QczLeFnZ1H/lmwP7z7q1NOJeT+Dwssmcgs5mOJHInusIUKDrreHLZ/9auvJSypFQZ8XX0jbZljV8XltIwQsGKMgYp/dVESNEk0uJHLLan0pbjflFFzlzVOp1ZOKeSb8KrolBv4O4LAB9+qzh9HID5vPcj/y8C+RGGeAmyAbRSWfnF5TOolH9Y2jkDGKyrZJfhSAj7s6KsWSQ==",
+  "URL": "https://freedesktop.org/wiki/Software/vaapi",
+  "LICENSE": "GPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1552383579",
+  "PACKAGER": "Maxime Gauduin <alucryd@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "libgl",
+    "libva",
+    "libvdpau",
+    "libx11"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "FILENAME": "ruby-stomp-1.4.8-4-any.pkg.tar.zst",
+  "NAME": "ruby-stomp",
+  "BASE": "ruby-stomp",
+  "VERSION": "1.4.8-4",
+  "DESC": "Ruby client for the Stomp messaging protocol",
+  "CSIZE": "128947",
+  "ISIZE": "646520",
+  "MD5SUM": "09dcef77ca2495725692cdfe1f39a6ad",
+  "SHA256SUM": "52a8cdc20eab7332a2d380f04d6691f70a11fd7dd51ab79e6221e6da4dc30ed3",
+  "PGPSIG": "iQIzBAABCgAdFiEEBR6tamFVOJ1p2gLl63Y7Tp24h6YFAl4YUQsACgkQ63Y7Tp24h6YAdBAAkPauCVHgq6/kZScoXMjFi68hXg95DXU1I+l/wcNDgEaJxxSBpwaNPC/voL0wNCP5DGDNlrklNI2Oxk5oP8eNy9dyVi6tPIYbr2toPVEk5mISfML/uk/AVbm/st4vglrM8Zy1e7rGMq+wcec0z53gJTxBOCeWfic8VpXQ45meIBome1NzZSvycoyh33AO8nvPSPUg4QVhMTmo7uX4W3DkO+CCNhWb6DMVT7ML2RgNYIG4QWa9nU1ZYtfkd27WCrCeqw4JSVSdlkZ/APz3zyxX89y9XfJ3K6h3xMuz0Zgd3KSOgsqNKtyI0CDY9JbgQBSfWSPrd/bwiysZ0mtBv/KWZ7yP9pLXCUwAL1losLSUMwChnoJJQIOpUWdv22BQCKyqfH/MuJljFLO2Yhwi/EcC4s/sHiqwLDQFlv4KboCIo94RUvYBjPjQRviKjUr74w0zmF6m4VcwAi8sgpeTlhfJ6+2hOpYh8vsioaMRrcaY74HWUJjd76UOOF7rXJdXRwShTik4jh4Z4Vz9XVZYO88bEe6nTAvB5LCcnvZqRBMI0KInf/SWLUvtczOLLyZV7LttDRCbGRDhVnL58SVNG2m/ElxXTYkSAyVZePS0Qvytc15baAsXINGt7ijzcK6WvlAHlei3clBdh9gNVIB9kTlwfTRh0KpMBWiiGPBseN0rQ44=",
+  "URL": "https://github.com/stompgem/stomp",
+  "LICENSE": "Apache",
+  "ARCH": "any",
+  "BUILDDATE": "1578651846",
+  "PACKAGER": "Thore Bödecker <foxxx0@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "ruby"
+  ]
+}

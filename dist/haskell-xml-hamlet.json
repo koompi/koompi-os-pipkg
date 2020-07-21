@@ -1,0 +1,25 @@
+{
+  "FILENAME": "haskell-xml-hamlet-0.5.0.1-104-x86_64.pkg.tar.zst",
+  "NAME": "haskell-xml-hamlet",
+  "BASE": "haskell-xml-hamlet",
+  "VERSION": "0.5.0.1-104",
+  "DESC": "Hamlet-style quasiquoter for XML content",
+  "CSIZE": "169283",
+  "ISIZE": "1030863",
+  "MD5SUM": "dc9e8f2a01c5f9105d13dd3634e3a615",
+  "SHA256SUM": "dec17405f161d3b58882cca324cd7685094e7fa06d7bf52e9ee77035eb4d3bcd",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl7588oACgkQeGxj8zDXy5JU6A/8D5WaqLAuWoGsMmfxgJxZuKxgfVWu8slnMQfudtdhZRmCiMUSFoFGaJ7KnvgvDKQYOA9yamsI/GGvI+29bjPrpMuO1wnEG2b2lX/rZ8V0zyKJwZFySPfN9DtGFt/8TyszV8QKhdErrAk/xN1c4d73QJkOCLynXw52OD34rtunCHbTX6uIVprjwu1I0T7RYJvcyxmL13lB37ZBIZ9nSBIWnNUdxOS/zd4KWNdOTSDO72ToFJZNsCaFNv9uI6yzEgRk6UwuUiYetE42q4SqeKug0MfbP86GX93mh+5Z9pzT6/d2WFbSJws5yHZ9R5jTJwyXXGZvTjiZbTca3r2Rcu/wKB5WwD/rc20vqc5yLd/Xepza+4ed9YoUcHqMZLKS/WtnCWpbRcYapG+VaXORPMAVRrIakj1qsDv6v3X6KrFE9bCC9aCIQwHg9vLtwEhKG73V9T95C7LtwwBj1jQZ3ZoMJfEUWaNvJ5s54NQureWlO9BPTabqZxgPxYypG9eGk11J246CgSa79K9HadAkDvUY0WTybEizE4ToSkF8jy0P/EjTZyOjVWMgrNO9N4CTIJlcMzqa+UwJf60Ro+GU0ZQL5mLIEMQWVccBX9xOOsrvqbL6FIOyUlVhvU/IbhT+H/1W1wOmH3kErhe5BGiNdqLWTaLHdKLmwccEU9IBG9Mx46s=",
+  "URL": "http://www.yesodweb.com/",
+  "LICENSE": "BSD",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1593439143",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "ghc-libs",
+    "haskell-shakespeare",
+    "haskell-xml-conduit"
+  ]
+}

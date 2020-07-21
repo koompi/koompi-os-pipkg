@@ -1,0 +1,23 @@
+{
+  "FILENAME": "bpf-5.7-1-x86_64.pkg.tar.zst",
+  "NAME": "bpf",
+  "BASE": "linux-tools",
+  "VERSION": "5.7-1",
+  "DESC": "BPF tools",
+  "CSIZE": "965683",
+  "ISIZE": "5609412",
+  "MD5SUM": "13dfcd4e2b5a08a62361fdbeaa7d523a",
+  "SHA256SUM": "f519148c903dd5a5dc0a81d77d899fd85f4a4d618e34e15107798112fada0ce2",
+  "PGPSIG": "iQIrBAABCgAdFiEEVyJOyaX8pvvJK7iqShr8NF6+GPgFAl7WcvkACgkQShr8NF6+GPic2w+9ElLDlvP9Eu2evsItmdEsXFjvBJJRwpFza+SaFCHJE11uYYwCP9qmQvonyVi39UkMJZlLchqoqUhi+sugPGajAi7HJMYciSEGT6d0zFjZK9jvMTowjMVaKL6kjtTag42kaPpefFWI3wkfL/P95LuxJVHRsEbAS76opIPkdd5PxBG7e8kOnjuvY/i37HdftQL3gJAPtO5u85BHTNRx6vfgINYtrNa+HmL4cC5Wjlkpphku/Bh6YgaAG0Ddfe+fBIuNZ5rb4aPzTIx85YCuKg1wqGfEAHFHB8Z5fn9WD3HYwHsZKcssm+n7YGMpa2/vyVK76IJVYqQ3V9BpWQpxUUC7mzrFV/p75TNy0SEEZptrF9HkI5gprFuni07XvB98uQ6Xu/DyqxN8g1/qHlXPqnTZ4n9jOtWpmKAefMzFwdw1jPfLu5tCVU8bBume/TqEjvAKef0mEHd3/hQZYFbMZqokVpwCEnNMyY7dt4ZDM2J6lD3ytPFnst21OWK9fdPaZep/b9TyeixEK3tYmX7wEf/QIbiO2Q16jOyw4p3Kvk2V2o3FLzIZa3qA4NBiK3CgvgLDIR2erl0UVxZstPDgbiFZpeRAFxG4lsxQxzfaElZScohLm1HH7H9VzlevwQLk6KZUZX/Bg6OGtBeh3vQQBcnExyIYjYVqGCKy",
+  "URL": "https://www.kernel.org",
+  "LICENSE": "GPL2",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1591112032",
+  "PACKAGER": "Sébastien Luttringer <seblu@seblu.net>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "glibc"
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "FILENAME": "subsurface-4.9.6-1-x86_64.pkg.tar.zst",
+  "NAME": "subsurface",
+  "BASE": "subsurface",
+  "VERSION": "4.9.6-1",
+  "DESC": "Divelog program",
+  "CSIZE": "7807078",
+  "ISIZE": "19106503",
+  "MD5SUM": "404441d50321425a0430778181b4a11d",
+  "SHA256SUM": "e0e294ca22d4761430c22310dfa663a63e473a0046e338d58615f1ffd3993a2a",
+  "PGPSIG": "iHUEABYIAB0WIQQaYNxEJF0G/vkGI9bu7uLu7i7u7gUCXu8djwAKCRDu7uLu7i7u7kRnAP4ikgFSlTc8jfxDP3pjXMeI7DwaWn8qUWVUJr6QJcIq9gD9HGVY8fG2xGqTUHjA/V0P7Fia8Y5rlSKShoQ2NSJmVA0=",
+  "URL": "https://subsurface-divelog.org/",
+  "LICENSE": "GPL2",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1592727633",
+  "PACKAGER": "Gaetan Bisson <bisson@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "libzip",
+    "libxml2",
+    "libxslt",
+    "sqlite",
+    "libusb",
+    "libgit2",
+    "subsurface-libdc",
+    "qt5-svg",
+    "qt5-location",
+    "qt5-connectivity",
+    "qt5-webkit",
+    "grantlee",
+    "googlemaps"
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "FILENAME": "puppet5-5.5.19-1-any.pkg.tar.zst",
+  "NAME": "puppet5",
+  "BASE": "puppet5",
+  "VERSION": "5.5.19-1",
+  "DESC": "Server automation framework and application",
+  "CSIZE": "1305680",
+  "ISIZE": "6085514",
+  "MD5SUM": "d85ff4215f861c0a19013188f6ff190a",
+  "SHA256SUM": "7bc7ea844d8ec611595957840240d0d15b6316af78fa638e1c5daf1d0acbf9f4",
+  "PGPSIG": "iQIzBAABCgAdFiEEba97gI+d8lE5YgAA0hRh49/iBg0FAl6lzx0ACgkQ0hRh49/iBg0nAQ//cmg1TRgREpKNbozQSmFOjcDwnWul2PNGR/XQB1IIOyHKlD3qikjDq2RuLaBVpaM2hMgVWaj1DFzbaSAF0j9CFvKPPjqmsM9wrTgdr4nlO9Ht1iFCA45HZdijOSo33e2xd4oPExCDMaRzCnl5ZUze/OJMEPdZ9SMdr9WAVaYlnxv5DQF5gU55Qsyf1Ji2zmkUszi8jGIvEwGFFC2kzso4RzJFKJxLOmRDYekOg4QZaZQt546YnfV4Ri/U3k2PxVz5lFn2DIMZFY+hElphDUykpnKP4q6nJL6jjacYAhTwvChJROIm4yfxz7UbbCnX0fxRaLfZiDwnHa1ytIRQrsNiL+oGoonlcfBOnLdAG//cWHVIvNMGAr1D9w8FXsOuMinPfVhjSn3j1GAbYDcVVhjl26SLRee3ooDT5gpqerxULMB/uYOC9lBlIp6OSHwNo9rKjKVNQqYstH95fBn07p+LQk75fn8BCNGeAKh1deKy17tQQEqkjvKq7/AcEElUQRpK3Bv7kbsywx+9G9Xv+y+JYAFuPLtoQq2O9dMctVyXyMyfpR8v0s++gouUG6zfeO7Ez1Q6cTEuP0SVhAtAfFUjmRn4FCEuHJ7cNpGwLm6mr5UiEbtIMeNOgc9c8q1PQ8qCZiP22L9QT1j86WNG7VI9j+Yh4xtkPjBiE0fmOdW/rjI=",
+  "URL": "https://puppet.com/products/open-source-projects",
+  "LICENSE": "Apache",
+  "ARCH": "any",
+  "BUILDDATE": "1587924642",
+  "PACKAGER": "Christian Rebischke <Chris.Rebischke@archlinux.org>",
+  "PROVIDES": [
+    "puppet"
+  ],
+  "DEPENDS": [
+    "facter",
+    "hiera",
+    "ruby-multi_json",
+    "ruby-augeas",
+    "ruby-shadow",
+    "ruby-sync"
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "FILENAME": "python-pre-commit-2.6.0-1-any.pkg.tar.zst",
+  "NAME": "python-pre-commit",
+  "BASE": "python-pre-commit",
+  "VERSION": "2.6.0-1",
+  "DESC": "A framework for managing and maintaining multi-language pre-commit hooks",
+  "CSIZE": "215418",
+  "ISIZE": "591756",
+  "MD5SUM": "fed5fc88fd3750c0ae4bba2a01e50b43",
+  "SHA256SUM": "f4b38a3572ed4e45f409be6f3289c8b74d6d23db73e73073ae0f3f895a5be434",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl8BptgACgkQeGxj8zDXy5L2AQ//R/muSJ8X5k4Do3bzMYRyMgKwoD/tdSRWL/WDsb/qeKCxXxwyhEidrNqsewZw+nLJAsFPaGSBo6noiTNVo29m7t7E0ajN22O1eUWjuJHl3p1HtWUBLC3gPsgBbR7i8INgKIXEO95sN/ksKHYKdgJi8f/ZgbXApADAJSOLDS2d34fGiErZzQ8Mep6eZFNm+M1nOCSF9AW/PYdHThsKRq3UV/bMiGyYVJMKqlV1JiplRDKiMGDf5M50ZTaYs9Y1XDCyNZr7RHN/dbaoxSet4NoCfMiSZwvsGaz/ROnA6X6lRjr+45a94rTKkZExrCwgn2Na5zem7WxRBvD3qM5bgWxzAk3tetHN/Hl6gkOztc5NLYpThKKOtMRHKR1kADOcZSxIxADcTM7C9hhiivOJtI5dpPUoydYJ95vCNIV4Hph8Y02kc+H6xfgdbAyymnX/fuAHLynxSRGjuAtuWnAJQM2aNLq9qcp2DdIXTZ6HqjIIOa4hT8KCe2aPrbH9XfLWxvIgaIsSnv6QFE4FnWhNYhLhpKXQuwiG3xJJxx0RL1GPJ/VAq/8iysd0cDIiGeZ1By14e44ZRP8zEXV8aa8iW7LPcFAZc5NHDKRLbWXY/L8QQJpIQKQ/vXF3kw3QM4fkeBMs68GDU1nFdrUKb/joHPzq/xKTkVqZTe/jPHKau2MzY1U=",
+  "URL": "https://github.com/pre-commit/pre-commit",
+  "LICENSE": "MIT",
+  "ARCH": "any",
+  "BUILDDATE": "1593942702",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "python-cfgv",
+    "python-identify",
+    "python-nodeenv",
+    "python-yaml",
+    "python-toml",
+    "python-virtualenv"
+  ]
+}

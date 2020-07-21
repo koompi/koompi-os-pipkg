@@ -1,0 +1,24 @@
+{
+  "FILENAME": "python-flask-principal-0.4.0-4-any.pkg.tar.zst",
+  "NAME": "python-flask-principal",
+  "BASE": "python-flask-principal",
+  "VERSION": "0.4.0-4",
+  "DESC": "Identity management for Flask applications",
+  "CSIZE": "23179",
+  "ISIZE": "69950",
+  "MD5SUM": "65915b96fab8410631c6be4d692d5559",
+  "SHA256SUM": "bd7f34d18b8afe7690b4720671f5cfb77c19c0d418a6ca18553c4abc96ff698c",
+  "PGPSIG": "iQEzBAABCAAdFiEE5JnHn1PJalTlcv7hwGCGM3xQdz4FAl61TisACgkQwGCGM3xQdz6Rpwf/fBiv6w7fgbql8HC2ASZXxGPoqQfnRn7TZNp8ku2dVhh4pIWfQyo1eOZuZdEih3NzZ51tt3JMqWvxVXkYeyWNQcjfox2L0KopXEELD3RTxdVQ/4LCSnb3TQS4Yn649S0V7T+3ymiG1NHVTeWV6T2zJnWqdibOdbCAW1rWE57vMG5FdIb0m//RFPK3kU77Rp5mXBsbN577XKfAFkjWHpjQsCEHt0PypBeciUeVIeGpRLXRb7/i27id9iDpfg03SnCqAsWswR2XNNobH8rzCLEpcqZe8v5QEcI5kdXPIRwW7DzVNTgan6ilCmlf5e8dTYXy5sMRnd3nqjhcb7EgXBP/ew==",
+  "URL": "https://pythonhosted.org/Flask-Principal/",
+  "LICENSE": "MIT",
+  "ARCH": "any",
+  "BUILDDATE": "1588940069",
+  "PACKAGER": "Jelle van der Waa <jelle@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "python",
+    "python-flask"
+  ]
+}

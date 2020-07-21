@@ -1,0 +1,23 @@
+{
+  "FILENAME": "libmaa-1.3.2-3-x86_64.pkg.tar.xz",
+  "NAME": "libmaa",
+  "BASE": "libmaa",
+  "VERSION": "1.3.2-3",
+  "DESC": "Provides many low-level data structures which are helpful for writing compilers",
+  "CSIZE": "35008",
+  "ISIZE": "109568",
+  "MD5SUM": "b39e670f305ab723c2734a500fb2c9ef",
+  "SHA256SUM": "98909c3fd34840580992e4dbc8fdab5851973306d2467cbdd9b8aca18f16d760",
+  "PGPSIG": "iQEzBAABCAAdFiEEFRnVq6Zb9vwrc8dWek52CV2KUuQFAlsbhJ4ACgkQek52CV2KUuSCsgf9F5WXngCawADAX0ifW0qVLJk3rAommfAjgJytZu1Lc3VpD6lLTBbPnqXdDQIjWDJWcU7B/ytaW3XJeVCKE1HvNFzq7uYrq0XA2dY0tGRtBnXWduxDgA+1YxadnlGC2oz7XmvtNKPK/J4cnGC3B9r2ai+PNPPxeOrS8Z1LOi4Ri4JMH9a4iew3r7I9C7zRTuR6Nib/6tn94tIKaAGq94Q2MYb7SAsEssFZ0Rn4f5mQ8N146rUUbd4dTNYv/kLjYktx/ZNGQrNlssDeAKVyoHYWBc39ezMHKG0bv5+fF9bLzws6wJvqIBMYydfzl8eevOcnQ3MtXsKvf33SLL+QPcK5Yg==",
+  "URL": "http://sourceforge.net/projects/dict/",
+  "LICENSE": "GPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1528529973",
+  "PACKAGER": "Antonio Rojas <arojas@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "glibc"
+  ]
+}

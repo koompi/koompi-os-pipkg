@@ -1,0 +1,23 @@
+{
+  "FILENAME": "perl-xml-writer-0.625-6-any.pkg.tar.zst",
+  "NAME": "perl-xml-writer",
+  "BASE": "perl-xml-writer",
+  "VERSION": "0.625-6",
+  "DESC": "Module for writing XML documents",
+  "CSIZE": "20927",
+  "ISIZE": "49585",
+  "MD5SUM": "b719a386d556767c6a65e391b8152fdb",
+  "SHA256SUM": "4a17fb7fdd86c041b2786f0a9025ec6e9177575226bf8cc21196bb0c39517038",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl7vM9kACgkQeGxj8zDXy5Lv+A//fUWQXqzR6+gmKYQZiY9wgKdzn90n+WKd8LRKTX0gx+GhNe+Xo9RMUHCQm8NYesgxnLzsGQnFzq8viYKDHH6AKvgIt2MSd6rLN9MO39BIdJijKkU6WMJ4mUCO4vAi1z3K7IJy2nwBf8+a6zkht4rNRuLuRrwchXm7aa8CH5H33eDrDSLgwE3p60H89FLwjJUvgJTXDGGujeepL0kXYWY7yp8m28rtkTm6PMG/lsKwfsmciEo07azq+pZquMoIoUsC194cISf5/gn4EBR0xMxVo58Ur55Nz6LMgSh+LnAaQ+FhrS+5f4n0cfDHzZoDw2xbyFcf/aQulg9phL1er3oE7jjKC0AyT0dflyJ7jDRbQYLKuxhrDkHrVc9aXPC0/2RIjswQRUbiwRo08mBtaTFT2UNgr+I82k4sBUmodH6uJ5QxUl3znul8lrvr76jbkNuQnghp+inMmpintR8lVKueiutgHB3MMib9ardl0Zm9roLApVDXHAzIW12fxyqfVA6PCwvHj0WESsn+Z0fOK9qhYyrwkpshohftWj4sKdV+/CClcU/25wkNkk2i3wS5CyimG3hj45igheq5L+dUqjF1+H+qLe2B0RgY8X5YjP5hJsrZYrd2QOmOzuJ1c+dLVvVkqNwDG5ysBxM/ypLKZFiTev3Hy436A18DE1TF1xN6lgA=",
+  "URL": "https://search.cpan.org/dist/XML-Writer",
+  "LICENSE": "custom",
+  "ARCH": "any",
+  "BUILDDATE": "1592734485",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "perl"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "FILENAME": "pathological-1.1.3-10-x86_64.pkg.tar.xz",
+  "NAME": "pathological",
+  "BASE": "pathological",
+  "VERSION": "1.1.3-10",
+  "DESC": "A puzzle game with the same feel as frozen bubble",
+  "CSIZE": "5309752",
+  "ISIZE": "12802048",
+  "MD5SUM": "bdffcf342b60d93eb6d941a705b1f72e",
+  "SHA256SUM": "4c68b25e8c0f8333f2b6f87e3de9a5ed4c0bea1a665319b4aeaed6838bc33fad",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAlsVSuoACgkQeGxj8zDXy5KodA//WJk0Chxc4ORIk/wGI1T89uxcdvJ3pJmmWTjSu9jpTiiEmq5Zql0egcwI5UMd6UCjXMNRdhYN5Kk5TIyJR/mqELsQNVKQD2KwKaJ+g+giBg9QL30Q6bVHDER6Ja64J/H/h9nlg1Dp7UBgwd3eX4zlY+hq2d/3pIvcMG2A3oPCiuehtoO/6V3Xb8SAqkyIF2IqAG5BxGOIlL+/NkZZBVVljmCeg5a7vva+8oV2ZC/7tuqP+NO7C75vfVfKNKguLZpN3rZgfzHDtArZyVSF8qYGId9oatA9IekgBetUiTXhlivRIYAZnH/vDuJ6HXGTgkPLGxprwyXYAMLt8fX9FqA/fhM+6nHZbigkJiGOiw27K2uvaVyPlLnVOzAKZ36GjF/ejr/1y6RruvU0r38JvMyt1QuNbTgVcEUlkhqbLfLcfEQoCnYMDPQJTY7ge/HAwyiWD0DB6LtqtUB75LNP3/uCT4EkrgMpvHrDJ0CQY9vEmjmboCFYKhTZWQTqYq+gng9+cbXErHCObbc7EcTaCINgAD8reee+/L2efLJ+pp51qRnxTdnPvdvOpYdURZAPVV63b60Av/0221MFvwDJBM+F0NnhtoTaJ13u1et0PQD4QihMun3vW9NhZupFpVzxwYJ6GeF4iboJDjxiLqitdeIDNXIEXbpOtcnQBkGwRth0QFs=",
+  "URL": "http://pathological.sourceforge.net/",
+  "LICENSE": "GPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1528122052",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "python2-pygame"
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "FILENAME": "kig-20.04.3-1-x86_64.pkg.tar.zst",
+  "NAME": "kig",
+  "BASE": "kig",
+  "VERSION": "20.04.3-1",
+  "DESC": "Interactive Geometry",
+  "CSIZE": "3991924",
+  "ISIZE": "10492597",
+  "MD5SUM": "0c734728fded65d92394ada2ac541f5f",
+  "SHA256SUM": "7c647e512574fbd4f2075e846e9c0cbcba56e7226e437135904a1ce69eacf620",
+  "PGPSIG": "iQEzBAABCAAdFiEEFRnVq6Zb9vwrc8dWek52CV2KUuQFAl8HBE4ACgkQek52CV2KUuSxoQgApjPSAaa8i4MpMsEq4YWrHwnxXmUGGdwNGIVVsuR9WrWx6wk86uRc5Wyhuk/OGCssw2776NiJyNzbWsfUjwdD80Zn5rXXbgY/5xungdsm6DwtY1BB17Pdsex/ltAD3xOfNOnMIvXhHIdjciRQ5YH5auSqP6ZzyP9MWaqhnk7Qv1Fd+ydhp5eiNw4U0auCx4O82LcMog9D++7iO6UGvoUYllK+5DYHCg5FUoWfiUrQ0ADZb89WYl37wlzEOw1rEnCnMyKpLsGMiUtfVcPv9lQx4Tv2y6t9QYiSpnGUMqbW4KGqcPthsreEoP/gwGwsHot6JsmEwTTfz1zqn/uEc+r5gw==",
+  "URL": "https://kde.org/applications/education/kig/",
+  "LICENSE": "GPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1594107205",
+  "PACKAGER": "Antonio Rojas <arojas@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "ktexteditor",
+    "qt5-xmlpatterns",
+    "boost-libs",
+    "hicolor-icon-theme"
+  ]
+}

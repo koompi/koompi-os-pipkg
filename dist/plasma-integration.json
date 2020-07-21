@@ -1,0 +1,29 @@
+{
+  "FILENAME": "plasma-integration-5.19.3-1-x86_64.pkg.tar.zst",
+  "NAME": "plasma-integration",
+  "BASE": "plasma-integration",
+  "VERSION": "5.19.3-1",
+  "DESC": "Qt Platform Theme integration plugins for the Plasma workspaces",
+  "CSIZE": "124091",
+  "ISIZE": "419947",
+  "MD5SUM": "d0b4b078701ed782506be0343cc4254e",
+  "SHA256SUM": "1f2985d0b7ac2277a30934bd93bafc157aa47594062fb62a831bd73e29a90398",
+  "PGPSIG": "iQEzBAABCAAdFiEEFRnVq6Zb9vwrc8dWek52CV2KUuQFAl8EhG0ACgkQek52CV2KUuTaEwf8CPcbllfaAgDSzqculG3jkOl1UdoJlxlVbQ/eRC4DfyfvRdPkVhtqVVzY8fjNJpb3IBx4wZ+cgFmZKUIW2druC4UFL3Wp6Tic9B3AMM3iQnE4Rj/dy/GYY85KYnr+CZIGTRiPQYFTjRVSd34kcMmk8Ee9jIToqFvMU1DSGglQXmVXN3jHWvxhCevEnqDNtcWx8ZHnkW+4jiZigqIqFXIkb9ljm1ko3idNEjAwiTKwOCXLyxzVB/sz/IwxIzO27ZG2+qMpJJf88u1vsd+OHKPJoNjT/N3KsCgSDC7RrXG+42NhF0H+66tuIZzukGQxTrE7nyTBJO1nef1o+sdbTjJPXQ==",
+  "URL": "https://www.kde.org/workspaces/plasmadesktop/",
+  "LICENSE": "LGPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1594128259",
+  "PACKAGER": "Antonio Rojas <arojas@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "kio",
+    "kwayland",
+    "libxcursor",
+    "noto-fonts",
+    "ttf-hack",
+    "qqc2-desktop-style",
+    "perl"
+  ]
+}

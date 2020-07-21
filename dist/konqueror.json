@@ -1,0 +1,27 @@
+{
+  "FILENAME": "konqueror-20.04.3-1-x86_64.pkg.tar.zst",
+  "NAME": "konqueror",
+  "BASE": "konqueror",
+  "VERSION": "20.04.3-1",
+  "DESC": "KDE File Manager & Web Browser",
+  "CSIZE": "7863171",
+  "ISIZE": "22598378",
+  "MD5SUM": "d9f57e9e56f8a4a35a628e1cca4d6fd1",
+  "SHA256SUM": "5e7f1ebe5c2b6771531136d484ea2e791caad02299ab5b0245f04f0c67d5f8d8",
+  "PGPSIG": "iQEzBAABCAAdFiEEFRnVq6Zb9vwrc8dWek52CV2KUuQFAl8HH2EACgkQek52CV2KUuTXSAgApcG7wdwjMS+wJmnL7DeX9UZ8YOzyKvIPVJqfi8KVSWd0Fk9CR9EHYUftoHOpwejecovkaWs8MPxJADnLQkejtxeO5K9edMjmwy1lFsSVNt148m5tvichlbmg0DG0NQl4P5KkSjmhbf0dDIXY6CZR+SMqTq09RAYurIVimARVfge6HrmTxfra/7Gj0P5hEA7BeeS1udxe+QrHpZncG1Vv3epATDi5ztVuOafcVHJPXOl++76AcvpUSuzdl/1a9Nf4/KsLtFqPpCo8Y+yto0YPbXz/d+pD59Kjhj9g0jtA7ZtZ1hbUmSvEKVQCFcURp0kkepwzLGDiDEsfxbmLH2crhg==",
+  "URL": "https://konqueror.org/",
+  "LICENSE": "LGPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1594297076",
+  "PACKAGER": "Antonio Rojas <arojas@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "dolphin",
+    "keditbookmarks",
+    "qt5-webengine",
+    "qt5-script",
+    "kdelibs4support"
+  ]
+}

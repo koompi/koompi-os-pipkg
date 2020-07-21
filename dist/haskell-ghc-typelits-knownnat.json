@@ -1,0 +1,26 @@
+{
+  "FILENAME": "haskell-ghc-typelits-knownnat-0.7.2-8-x86_64.pkg.tar.zst",
+  "NAME": "haskell-ghc-typelits-knownnat",
+  "BASE": "haskell-ghc-typelits-knownnat",
+  "VERSION": "0.7.2-8",
+  "DESC": "Derive KnownNat constraints from other KnownNat constraints",
+  "CSIZE": "49402",
+  "ISIZE": "193399",
+  "MD5SUM": "8e0a6b11737b968ee9a815ade2064345",
+  "SHA256SUM": "1a58654e3f6f9ba49e165210ae5b9982eb4e85b51d942cc2e833ef47894de94c",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl75CBAACgkQeGxj8zDXy5Ivwg/+Mq4OqF5V61P6UF7huV73n+RaVG1KUbF7uaX5/xU1yhlwFoSKoQDSmukptSPcT0wgX5ZLzdLtN6r9jgzFH5n4vL5dNlAxBi1b5VYoZ0OwWG1Sdies+Kn8Pt97ZmOlWkzkSWwdODKscGy04fO7fOfIxsgcs1oYKNeKv0hfVXHCfzZVaimL5tyGMo888UcyO8przeWJQAb8ArOPrNi1bZSYXxWKx9frd0azVNOD0K966eBepGsSnKP18ThsdWMT19CmwRGeFV3g8OLQxv01d3xO7QhwIHbt2b6e4Z3OUNZuFbSjmLkBS5KUL/1Lgagy/p6FhtL7+5IM6HD2kzwiaZxvMEbVQONU6QZZeXcHRS6FcH1vKUxd243itx4AjgAT2DyXaCnyzhPvGZa5DS7NIZaMQ+b2LLUGmy0NOnzLTy4fa+NL2yZWRDldX7Yt6AoNwRrd8I6fbxMGD1fswG3FApjoONcnWcgDSYfT6UgL8zXv+a4y/5CXy/8vEtxQjILNu9UKs3uCpvSPh3vOkh0kp0jyPGXkrFj2uOdOgv/UOX7nn7t8BHnYce5w1jTlHcv48ULhC5HHdS6hp/2FMoXpi40AHb7VIM41uZWWK8K+65MTlbolW4G61YR8XzBnyh/0nAK/f/rOFRCZw5IKUNqnICOAvRWsFYdVPYFaQQgALfEfsSo=",
+  "URL": "https://github.com/clash-lang/ghc-typelits-knownnat",
+  "LICENSE": "custom:BSD2",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1593378803",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "ghc-libs",
+    "haskell-ghc",
+    "haskell-ghc-tcplugins-extra",
+    "haskell-ghc-typelits-natnormalise"
+  ]
+}

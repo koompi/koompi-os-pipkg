@@ -1,0 +1,25 @@
+{
+  "FILENAME": "python-seaborn-0.10.1-1-any.pkg.tar.xz",
+  "NAME": "python-seaborn",
+  "BASE": "python-seaborn",
+  "VERSION": "0.10.1-1",
+  "DESC": "Statistical data visualization",
+  "CSIZE": "354028",
+  "ISIZE": "2467735",
+  "MD5SUM": "95559f1872fa5dc78a450fa5626abdc8",
+  "SHA256SUM": "6ca48d740c6c6fc22e0a887e134a9024d3cdfefc2bb7eb3d6ecc92a279404270",
+  "PGPSIG": "iQEzBAABCAAdFiEEcXAmqdR3n8U5QHJmQPVXtzFJYQYFAl6z8VIACgkQQPVXtzFJYQYbxAf+IFcB+u9dzvnMD5f4C119s68u5AitX39GxtRwy8+C8Nb2tC+16zxSZyOgn6WAPEBqRmxLa2Dop1xDz+RyQNsMxrfaIgbtht4R6xvr9zu0KL608tRuWt0b493Dw+s73CmQjAssX32pUJp62tYSomkiB1RJfcm9NBjI+PJGQxLJfyrsiHLs5uZtrGUWRZr/7DVv3vIFDEKXIIV4Pai43RNgWA62qwiKMmKkNwP6jT0Glq7yNDL7ssjOrUOm0uVdSy3jYV4wHU5yZ95GdXyhfQVh062Z61bJ1NQ0Hg1lvAwKiMo5TmOuPnYKRtOFPmCIT8fhs7FYYohSpofMoLubd9O8kQ==",
+  "URL": "https://seaborn.pydata.org/",
+  "LICENSE": "BSD",
+  "ARCH": "any",
+  "BUILDDATE": "1588850977",
+  "PACKAGER": "Andrzej Giniewicz <gginiu@gmail.com>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "python-pandas",
+    "python-matplotlib",
+    "python-scipy"
+  ]
+}

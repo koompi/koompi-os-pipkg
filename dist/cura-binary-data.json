@@ -1,0 +1,23 @@
+{
+  "FILENAME": "cura-binary-data-4.5.0-1-any.pkg.tar.zst",
+  "NAME": "cura-binary-data",
+  "BASE": "cura-binary-data",
+  "VERSION": "4.5.0-1",
+  "DESC": "Binary data (firmwares and such) for cura",
+  "CSIZE": "869435",
+  "ISIZE": "6510207",
+  "MD5SUM": "f8323645027d4545441bdc33d2ea8154",
+  "SHA256SUM": "9d49624a7ba09e94df40f238b6f17f5d23706e35c4051f07652936fad8b4296a",
+  "PGPSIG": "iQEzBAABCAAdFiEE5JnHn1PJalTlcv7hwGCGM3xQdz4FAl5/ySAACgkQwGCGM3xQdz59Ewf/T6zolb1qOhXrpG/QWUl9tu58fidR0bnAE/xvwkku8VePyripaC7JEo3dBBHwLS46ZI9zWZOObBUik9v24m9TWFkzWeABpNgR1P0q+fJWuYCFJqnjoVM7QDVlPhVZGlTFgCN53sYK4A9YAegQWkEfXcVE2H8Tkv0eAFXVIUKsEqRvosQRhvbMpWjSJMMzgheAMW/pYkKz6vYXE0c9vQ1guTL8isO4i8TPYfCzYVOPG9f8jNQ1wylNmiuw3LFamdESbZht1KEu/bbTPDcoErXF5Yv8ykM1Z/InY897/FLkcYkXwz2OXmAsHlAxjd1BivFDUNyuUx9ka5wrrx8KuE3F0Q==",
+  "URL": "https://github.com/Ultimaker/cura-binary-data",
+  "LICENSE": "AGPL",
+  "ARCH": "any",
+  "BUILDDATE": "1585432832",
+  "PACKAGER": "Jelle van der Waa <jelle@vdwaa.nl>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    ""
+  ]
+}

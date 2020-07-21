@@ -1,0 +1,25 @@
+{
+  "FILENAME": "haskell-regex-compat-tdfa-0.95.1.4-29-x86_64.pkg.tar.zst",
+  "NAME": "haskell-regex-compat-tdfa",
+  "BASE": "haskell-regex-compat-tdfa",
+  "VERSION": "0.95.1.4-29",
+  "DESC": "One module layer over regex-tdfa to replace Text.Regex.",
+  "CSIZE": "17141",
+  "ISIZE": "52533",
+  "MD5SUM": "5ba29bfd38a09c4a2eded7b01b14431d",
+  "SHA256SUM": "6bafecb67b602752b33c58e5e98438b9e5c8ef8b4702b0e1f61762b665d04ae8",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl6hrEEACgkQeGxj8zDXy5KM1hAAt0H1Uaj8qQ87dUQBcoYwB0wKmtNN+N39leOlo/hYj0qLp1TyF/iRn1215ZwUvmD+bE9IN7YLof/0TFLJCaGtEUCwMXdaKqvSVUpezk0ZN6wqSML7H6zPAq+faqr6ecBJniox0BdHB2h6NU/78xWX8vduICrT64Y9pgRHXzrReFJ6q8cMM5zUedAmRViXwC9a+3rTXa0finH/ghMaM5ejPyH0Qpj91XhMhnbE6ShtuSwEMIsbSx1uZaKlDcep+CX+ispy0oNfI8X6QcqhAKKVR8AZugJ97dnZpA11fKwTw+gx2lYY5Naf6cLQbAvaeNmoZVVdenyOUh5ibuGy/FkVrWKIhE3azffOH0dgFLVsr/3NIe2//HXL9lb6A4250cWgMKd+vk2enm0YMOXzNNliPwekIbrel3+jyRTE21tYlorOWtv9DNSxmTgVBXDcc5QdXtWjOeBX1tkqhzffKKjcmBIG+3qkX2vowbPpglnIuV30ERHas/tkOxpMJiu1ytLD86LB12OP6h1nmolC/tOzO1crsZ3VEo0Yoy/WHsd5Iu73r33bHRjsggqVWriwq3+19vtLkhj6ueWeUryauwuhTdF6p2N6mvV5QvtuyOUkEeXPSz5OutpcKCbtX6RSV+Y92cdGp0lowMsT42HagwgX7j2J1VFKrUBr5OquNPUDRhQ=",
+  "URL": "https://hub.darcs.net/shelarcy/regex-compat-tdfa",
+  "LICENSE": "BSD",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1587653610",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "ghc-libs",
+    "haskell-regex-base",
+    "haskell-regex-tdfa"
+  ]
+}

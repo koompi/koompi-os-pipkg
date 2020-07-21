@@ -1,0 +1,23 @@
+{
+  "FILENAME": "emacs-php-mode-1.19.1-4-any.pkg.tar.zst",
+  "NAME": "emacs-php-mode",
+  "BASE": "emacs-php-mode",
+  "VERSION": "1.19.1-4",
+  "DESC": "PHP mode for emacs",
+  "CSIZE": "95381",
+  "ISIZE": "573075",
+  "MD5SUM": "8aa7645a06f15dafd976fb234d2c65ac",
+  "SHA256SUM": "15f15f864a0f2b0f563c6ef7babaf62dbfbec66c0ec9b020a7258dd4629d8399",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl8EqMIACgkQeGxj8zDXy5LnVg//S1EnhUfcoK7wNA6ng3o0Hysxl+LhdbDIpHn55OYnlXoF1GkfY1n9MNESVQojJrgYZP/ULNP7ZoyNcq0fNjf+TAouQS3iIQ0X7et/QgaQDv5HcJpbjVQKXGZreufA33QouoLlc2KEDrd+paVRxAKBb5cInhmpGbXWytuuDGSPXVwYbBiwK9Zx2cf95uU+G+YFg4TJDuz/WM2AYcr9dlT45fH705xoMI8KClARjqOPKEog8rfbR36uYjpwcak2IbIwDeBCpUQNk2D1ytabjgcRuWNkLIyZ7mfki4MsOxEwzUDC8fmoHyPF+P08J4jm4efvNXcfdIfmSe8dFg+TXZJpNKkPh9tCHnVnGhppb/87GdRkF3eNNfsw9fj0Zvh2xIl4TFWBT1wnPJs5JzksQSwc/AWwbU7EoHEE5imh83e9tE/SbgUts1UVPGmZC4PLPIb2tMv73YZU3pMUnBZhq9U5tiP7/+AOoFhblIZ7QebBGCImpubgx1IAo3tNC9u/XK+4LXZwfUX7b6L5Uh3tYzPtyEDg/VFZjmJmlmx5rVaPFNsHtkIYGgLfyQbcpv1s5xUZ/jLc/V+5hv4ylOgbtCDDkoV4Gk+Piu7qCixd6ayI2ebZk0HxI5A/qPbYHEeXk8a7TT85VAUdsbuAnJWh14FbdDa3cW6ARc1HkNn02I3P7P4=",
+  "URL": "https://github.com/ejmr/php-mode",
+  "LICENSE": "GPL",
+  "ARCH": "any",
+  "BUILDDATE": "1594140833",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "emacs"
+  ]
+}

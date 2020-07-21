@@ -1,0 +1,24 @@
+{
+  "FILENAME": "lib32-wavpack-5.3.0-1-x86_64.pkg.tar.zst",
+  "NAME": "lib32-wavpack",
+  "BASE": "lib32-wavpack",
+  "VERSION": "5.3.0-1",
+  "DESC": "Audio compression format with lossless, lossy, and hybrid compression modes (32 bit)",
+  "CSIZE": "83677",
+  "ISIZE": "179304",
+  "MD5SUM": "4949a958295caab46ef3b1382cbbe6fe",
+  "SHA256SUM": "9651d8b39b8cce350e2e998edee2238ae816fa83b65184af80d7c11782c6e153",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl7E+mEACgkQeGxj8zDXy5JShg//Up0myh896UuS5hKGDGiZLvadftiO1a1D3PVszXUmHuT8MQWbHeSy/6H0EiNJmN2iQlq/boj/wEPRCzMmBHNUZIVdIj3iRzcFdV1EwicnOLCTXmyfTZmY7VuZ0W7uGQtrND4iJF0iRPK0j0kerRx4KBVTKY29mZ4V9+xhzS9fAEiFQFZfFLb8/lVA52LAzhqpOcipr3pQ7Ms8cjZy4LPZOugKn3B1Q2nX4bug55G/nIm5Z0AUXsKArNzFFMHTz7IMIKoo117XKhCcUaw46uUuBVJUAOz9+VBJ1kXd8xL+KJg3wscpJ4nysobvL8Vh801leyk+22LHmW/wdZ/880aG2hXiaCpWcoPcrIvTEM1psjVSS4oP4KGLnkAYJ4Qqhv9M6+8KpCRhfQTowxn0HbnYW0UxLCyZPV3BB1LrctoLhucm0RGn8WiRwejfaD03fEw/hjTKkbzfM1CHwQk+MZpQF7eJIbJ3f9KnKw3t32TayyRKtNpWXCgelaxJpGotOOy43XjrR5/REGNyHr4HmBizwc99qoC+QD/BOQmOuHPqOKrA1wZVG0Y7LG2pIkwSLBfYs9XfBgOQ25B8UlMn6k/EXzqmAXUfHJ89vMPcvZ1XV0S0PVyvHh++Bg2MSYOfEpZRTsKlp69+iPDUofRQV7ax6TvWz8rfQYBCKMUOnFgshBk=",
+  "URL": "http://www.wavpack.com/",
+  "LICENSE": "BSD",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1589967297",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "lib32-glibc",
+    "wavpack"
+  ]
+}

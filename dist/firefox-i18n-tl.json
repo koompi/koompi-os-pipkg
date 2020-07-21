@@ -1,0 +1,23 @@
+{
+  "FILENAME": "firefox-i18n-tl-78.0.2-1-any.pkg.tar.zst",
+  "NAME": "firefox-i18n-tl",
+  "BASE": "firefox-i18n",
+  "VERSION": "78.0.2-1",
+  "DESC": "Tagalog language pack for Firefox",
+  "CSIZE": "489484",
+  "ISIZE": "552302",
+  "MD5SUM": "64fea81a122bca4fd0bedad9e184f5c4",
+  "SHA256SUM": "bf7aa69842cd367c7c2451ea4e68a049d62f102d3d8936165c3535950a90109e",
+  "PGPSIG": "iIsEABYIADMWIQQGaHodnU+rCLUP2Ss7lKgOUKR3xwUCXwelrBUcaGVmdGlnQGFyY2hsaW51eC5vcmcACgkQO5SoDlCkd8fpsgD/eG/kTyyZA3nVJ6CzrDOer6DwbomskUA7DvUcZmzhGs8BAPgx/5/j78kxJ2DbqHaYt9YqvtlOFLHTJ9F5qVLMNRkK",
+  "URL": "https://www.mozilla.org/firefox/",
+  "LICENSE": "MPL",
+  "ARCH": "any",
+  "BUILDDATE": "1594311501",
+  "PACKAGER": "Jan Alexander Steffens (heftig) <heftig@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "firefox>=78.0.2"
+  ]
+}

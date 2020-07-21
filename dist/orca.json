@@ -1,0 +1,34 @@
+{
+  "FILENAME": "orca-3.36.3-1-any.pkg.tar.zst",
+  "NAME": "orca",
+  "BASE": "orca",
+  "VERSION": "3.36.3-1",
+  "DESC": "Screen reader for individuals who are blind or visually impaired",
+  "CSIZE": "2265482",
+  "ISIZE": "15935621",
+  "MD5SUM": "10d513f5baacc341dbc153f3f3c01427",
+  "SHA256SUM": "eebc74e2036cbb01ff17dc52bdb1a3a8ed510a59f215e4667700fcdabde60f49",
+  "PGPSIG": "iQEzBAABCAAdFiEEghj4iEmqxSLpTPRwpekojE+kFfoFAl7Vmj4ACgkQpekojE+kFfqvNwf+IkTSb5UjYh7yoJQPu6nNJGd3JDJUDmROwkHiX2Dj0bhyZR9VNBWrv5YtUfNxel0vSxU3kw5yaV7DaoZG4c7ILnnj3WGRHRKWnzYY2S74upetkibAC9OcOExrg6GLnLHijkWDslG7svuHBdoNpvUVk2eaRNDR9ef9pmdyETY6EvaswDhcDk9c3fnGUBx9bxkZp67ih4B2zURkiOgf4EDUQgDqg2hkh3z1tYnVkRKrAVatqab8X6B7k8942fueKkV3bP+Nj0VArqaZAwTriRC6RI0za4qXPI/7id4WGsg4xfaKvz3yhl5RnkiagPIBhjp+rb15Z6y3UN7w59wNnKqjvw==",
+  "URL": "https://wiki.gnome.org/Projects/Orca",
+  "LICENSE": "LGPL",
+  "ARCH": "any",
+  "BUILDDATE": "1591055792",
+  "PACKAGER": "Jan Alexander Steffens (heftig) <heftig@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "gtk3",
+    "at-spi2-atk",
+    "python-atspi",
+    "python-dbus",
+    "python-xdg",
+    "speech-dispatcher",
+    "liblouis",
+    "brltty",
+    "xorg-xmodmap",
+    "gsettings-desktop-schemas",
+    "gst-plugins-base",
+    "gst-plugins-good"
+  ]
+}

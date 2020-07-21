@@ -1,0 +1,23 @@
+{
+  "FILENAME": "ell-0.31-1-x86_64.pkg.tar.zst",
+  "NAME": "ell",
+  "BASE": "ell",
+  "VERSION": "0.31-1",
+  "DESC": "Embedded Linux library",
+  "CSIZE": "173254",
+  "ISIZE": "488870",
+  "MD5SUM": "d28df625a5ad690539a9d740d1984dd7",
+  "SHA256SUM": "ad194e06db0db4fbbbd32f2b89b9211b8d874fabb78674c2e91465f90f0cfc80",
+  "PGPSIG": "iQEzBAABCAAdFiEErcih/MFeAdRTEEGelGV6sg8qCSsFAl6WmTIACgkQlGV6sg8qCSv/aQgAtrOeYBDUKBaJI5SahSJbZxHKdAfPtVFodWJfaIxJ3NX9p1HHpX5EbkMGNCe8rJ6ox6r3v6mPj5BbMyAq4iaN6Q0qEi/ZPxc48iziYmqLW2rc8Sqt2ultIwoHEzqkc6dveaMllMrLn8g5+h5x37heTSrwOZPgDG4p/ctaOK9cjq9EUUqaix2lQhLpvUeMZXF4OBvrKRrc8o/Op4ZKLUl7KTJAgg3BgM5BYec4wLFeYx9iD/C9Q91dpoHgeHNyieckIelJntWjCsit+QQzsHSM/ze2N4eNDhJOORb7vdF1E1rNn3vOH3nzw8ifQfornZzAMhkq3pq74KhZCSPHvGlA0g==",
+  "URL": "https://01.org/ell",
+  "LICENSE": "LGPL2.1",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1586927782",
+  "PACKAGER": "Andreas Radke <andyrtr@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "glibc"
+  ]
+}

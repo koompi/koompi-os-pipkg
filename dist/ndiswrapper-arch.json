@@ -1,0 +1,23 @@
+{
+  "FILENAME": "ndiswrapper-arch-1.62-70-x86_64.pkg.tar.zst",
+  "NAME": "ndiswrapper-arch",
+  "BASE": "ndiswrapper-arch",
+  "VERSION": "1.62-70",
+  "DESC": "Module for NDIS (Windows Network Drivers) drivers supplied by vendors, kernel module for Arch kernel",
+  "CSIZE": "110503",
+  "ISIZE": "107932",
+  "MD5SUM": "27d3c2548e5844f322f54f52c292510b",
+  "SHA256SUM": "8a3c0297f56808f9acf855a4bef2eab4bc0cdb7e47f4bad8860cfec0b1eab247",
+  "PGPSIG": "iIsEABYIADMWIQQGaHodnU+rCLUP2Ss7lKgOUKR3xwUCXvzLUBUcaGVmdGlnQGFyY2hsaW51eC5vcmcACgkQO5SoDlCkd8dp1wEA7dOYToBebTO4bPuKwW+EEpBZTkIramJM6kJ0jna13fAA/iupmtWW+FFxc3dDu2sE/0RlUpiQo1kGHa9a1NNs8yYH",
+  "URL": "https://sourceforge.net/projects/ndiswrapper/",
+  "LICENSE": "GPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1593618129",
+  "PACKAGER": "Jan Alexander Steffens (heftig) <heftig@archlinux.org>",
+  "PROVIDES": [
+    "NDISWRAPPER-MODULE"
+  ],
+  "DEPENDS": [
+    "linux"
+  ]
+}

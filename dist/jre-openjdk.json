@@ -1,0 +1,26 @@
+{
+  "FILENAME": "jre-openjdk-14.0.1.u7-1-x86_64.pkg.tar.zst",
+  "NAME": "jre-openjdk",
+  "BASE": "java-openjdk",
+  "VERSION": "14.0.1.u7-1",
+  "DESC": "OpenJDK Java 14 full runtime environment",
+  "CSIZE": "195633",
+  "ISIZE": "535136",
+  "MD5SUM": "fe3a0ea9810f57f653e99168eda0f46b",
+  "SHA256SUM": "6703f2e1e7bbf1b04d8116cae8202024908ecc82dabeb0b392d4e5aa74a090b0",
+  "PGPSIG": "iQIzBAABCgAdFiEE4kC1fixGMLp2ji8m/BtUfI2BcsgFAl7JbGwACgkQ/BtUfI2BcshYBQ/9HyCvYVjuKVIn3hUJSUkTjoZMxFCWxIi/Px2mip9itfo1DC2bg77HdyONeAF8nkjZWQbx1GJMBfIsCRrqZLhnvABBX8/BAQ71gsMDY2L3k509OATtSaWm18vHlWTtXq41H2FKiiRy9vvzHUx1I1/bmWep2v1wuXPWTosg/5lAbi378iEDi5K2QcfBVmWkydZ7lzlHTUrEhLWP5NOyj6feZHL0w2jZOqFpc+z/KP3Q6URAH5g0Lpoe/iehvimkRK8jUpE9NLVUq3pCt+tCtsaAzvi1w1ek10JzcQlcwRbA9nZpWlSFP6P0V1IFALQnVMjFR6IaMjYTJs9K75VNBNN/A3yabInjD35hXCIHQKu01ML+J9soZP1qjcrm7sRbt8oECYdjeIt6ADjp5OKswrDxBINLQ+pZTAjUvhS8LtPxL8aOU0OSc6XcQIDoslMKw2ZQwg0j8XsnWkpxb5s3mFwzVxhmq3xh06kgcmyVGJXbFl7GtyRSRnECEZBBQCy/bYkt5DFttymD3txWvc3N+b2fqfsABFSJ30DZaSiisdTISE2g4DehARzB3iZfZp9vUc+iLvaTOsue3RatelexcDAKaGrWsXHXOq4ME12KyhdCQ1doo+k6CaF2TsRn/iOhwbZNpWE/n41jXOBBWAUzln718jC7RU3kWUn4C7bxmJutaUY=",
+  "URL": "https://openjdk.java.net/",
+  "LICENSE": "custom",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1590258052",
+  "PACKAGER": "Levente Polyak <anthraxx@archlinux.org>",
+  "PROVIDES": [
+    "java-runtime=14",
+    "java-runtime-openjdk=14",
+    "jre14-openjdk=14.0.1.u7-1"
+  ],
+  "DEPENDS": [
+    "jre14-openjdk-headless=14.0.1.u7-1",
+    "giflib"
+  ]
+}

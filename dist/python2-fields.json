@@ -1,0 +1,23 @@
+{
+  "FILENAME": "python2-fields-5.0.0-7-any.pkg.tar.zst",
+  "NAME": "python2-fields",
+  "BASE": "python-fields",
+  "VERSION": "5.0.0-7",
+  "DESC": "A totally different take on container boilerplate",
+  "CSIZE": "23392",
+  "ISIZE": "101340",
+  "MD5SUM": "21f6a46be3b0aba7f6a2c2d1e8bea44c",
+  "SHA256SUM": "7bc9c24b202ef71cfc46747462397f0a03bbadd1cd2ca864fbf0b25d4c25a273",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl61RVwACgkQeGxj8zDXy5LMuQ/6Ar6LdCNNYyyiZN6Lebdu39zyqNl7ee7xHOeTESUwlHR1zMVQuSzIaeTVp/6YR35wixpcXz64d9hAPSHfGPhankE47AUbVSqizyjNiVwK4bu4dca82ak78wEWHQZuk3S4PIbCy7RqNAeVsLHAu+LI5/F7sfIeX1acj24YHIdNZmUTH5OGc0Zk2x3XxpvNQpuXaA14t+KMM3wIwA8FMyAf5/CLRLN9usU6LbXP21gYI/mYw+LFDI+SnX2bIyLzGh/KKYURilE84SF0vuQK+Nq/boXeGsgiL3YyLhcYcC343h7gv9txFBF04BK/9vmnuqNg+fXa59ghIsSCgRQLe7CcJwQaXmZbxwIbuukgAXaWJ87tJRRN2dU3QpcZHDEHesCviqbbeRFEbO/c5v+aJayyrdleLiY+B15VDAQ9yt0JocwxCCl2r29agBecoiWFB93KWDIgI8D3AqrRpxQ3uff3kanlQzeg3ffPrLxSp9PdwgEXxGTh2zC9gQJ1gP1GfL8kixAu6rx4EenPW3Dqig38dICv5dH9cU0Mjl81cCkOV1spQaIfkwImQOh6YGxTP25IggV6Xe2V+L150+hRY1QTrij1AHOiPidWh9YKmmDq/wLXyZWFGJ8A/Otlg3gR7jgicxI+VUCZ7mTpH44UVlt818dOqBqfejfgVCZDUXTyZcc=",
+  "URL": "https://github.com/ionelmc/python-fields",
+  "LICENSE": "BSD",
+  "ARCH": "any",
+  "BUILDDATE": "1588938041",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "python2"
+  ]
+}

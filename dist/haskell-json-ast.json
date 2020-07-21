@@ -1,0 +1,26 @@
+{
+  "FILENAME": "haskell-json-ast-0.3.1-68-x86_64.pkg.tar.zst",
+  "NAME": "haskell-json-ast",
+  "BASE": "haskell-json-ast",
+  "VERSION": "0.3.1-68",
+  "DESC": "Universal JSON AST datastructure",
+  "CSIZE": "24814",
+  "ISIZE": "94294",
+  "MD5SUM": "f136aea4cb1fdb137e451254fb6bf2f7",
+  "SHA256SUM": "04bf5d8509c07e32095fe4fc48513da0f9b77e42f1cd926076d1f8e41bb23f22",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl75MGcACgkQeGxj8zDXy5LfZA//QNqVt7wgZy6u0a/25QukFfQfQF+V8qrYw42Gcuf6mY7N7IWR1sXWD4orjvChhNjAxfQAYVY2E55j95etujQtGf78QDxgjGx/KZpVVF91+c6OqFzbC7JaR9f8cnMALRTxCH19Xj0g4KrVutNku9lfzkM7VRcJ5n60C/xybSHSDZPsNG5G30g/leMY1dHwhzDmYvRrVH/A7U575dk4vxmHkLqIGaz0BwQPbjhtjQBy3chJS/1XQ5VSuEHNgKWjZM+MqxrxVV39IaAEPs4lARbFDVEDscB0wKfDLDCyUUbBAXYSnhowvwJ1NJrzuvq05Ooe6CgWUUWbE7AArBbB8YpxPGIf90Wta763vmL9toIuq93Ru4JSaZ2SdCdDp+fopvvgM6g2/LCy5QAZ2VbfRiv3oHIoSW3+fFyoQTesATEpT2/V94cyxaBSiZLBjSHGFkV4FnjUbc4G0juq4tVtiiDMkoHmcOVjN+qqF10AFnqPBAs6fNuTbHothWxjD0AE1vI27c0MpWTXaoFeslntepAVKdPkeJ5pBUsaPeSk6LzZz3dD+gbxhSaIhjIzY2V2ynoxVUmKNqj/W3h2vkV4X3vqsStTDqOpZFHzDUa5rGnLwYMeGardX80isWyshHHoRLtBtPGNNi2nUQyMwvoBKTdxi3b7pj5M/DUmOVj+zA3xDqw=",
+  "URL": "https://github.com/nikita-volkov/json-ast",
+  "LICENSE": "MIT",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1593389137",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "ghc-libs",
+    "haskell-vector",
+    "haskell-scientific",
+    "haskell-unordered-containers"
+  ]
+}

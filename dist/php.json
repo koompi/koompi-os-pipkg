@@ -1,0 +1,28 @@
+{
+  "FILENAME": "php-7.4.8-2-x86_64.pkg.tar.zst",
+  "NAME": "php",
+  "BASE": "php",
+  "VERSION": "7.4.8-2",
+  "DESC": "A general-purpose scripting language that is especially suited to web development",
+  "CSIZE": "3876373",
+  "ISIZE": "24227598",
+  "MD5SUM": "5a9a0fa053983d82d6c8eafb70b9f7c1",
+  "SHA256SUM": "591bfffbdfdcc70a87924489dafdfb0339d6aa55ce1e41f944d4cd27369964e8",
+  "PGPSIG": "iQEzBAABCAAdFiEESqR2e7ycSx0Yrii3fy1DS5dB6KwFAl8IPL0ACgkQfy1DS5dB6KzEzgf/TVNBbg79fLjZjVoTNZQwIWH136M5O42T45IYfi5Owb0FQASQnVXvF+Imh3CPaGM8+V5UFMjgbJ+wlz1MkHsWcLM7qOjJujDIV5sB0TYo02YZaGLzv0X2CVhLrgerC7wFtsFYBqg1MqavTKDgFarvfip/T/lxQ+mKbD5frs7Xh20fUKH5xYM+VEWla/slGAngcMfOitXuL0Hnweh4xvLZTsWwQx8e5xALxFM1qubij7ODHl8fbu1pfJxwWVu92XTKyyvoetJLmHtOrc2Y91JHGPNq4sBMyByyoZ91RnNPINVI5ihVbD/N8ozy1M6NCBkCJqCRWWP2SKONBPDHwoDfZQ==",
+  "URL": "https://www.php.net/",
+  "LICENSE": "PHP",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1594375162",
+  "PACKAGER": "Pierre Schmitz <pierre@archlinux.de>",
+  "PROVIDES": [
+    "php-ldap=7.4.8"
+  ],
+  "DEPENDS": [
+    "libxml2",
+    "curl",
+    "libzip",
+    "pcre2",
+    "argon2",
+    "oniguruma"
+  ]
+}

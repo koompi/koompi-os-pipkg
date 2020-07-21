@@ -1,0 +1,41 @@
+{
+  "FILENAME": "pantheon-music-5.0.5-2-x86_64.pkg.tar.zst",
+  "NAME": "pantheon-music",
+  "BASE": "pantheon-music",
+  "VERSION": "5.0.5-2",
+  "DESC": "The Pantheon Music Player",
+  "CSIZE": "1165337",
+  "ISIZE": "5754060",
+  "MD5SUM": "04b740d64e88cc1b1320f18eaa2dd88f",
+  "SHA256SUM": "2acdbfb96e60c4b091a3dfda04039a19cf4649c6a36dd294ba9e327d51a8c152",
+  "PGPSIG": "iQEzBAABCAAdFiEEFRnVq6Zb9vwrc8dWek52CV2KUuQFAl6XPDMACgkQek52CV2KUuRQAQf9FMadPoIguYn/brjcfulkdtfT3BcKJXbsySJ4zRh8cw0YpglIyHQKIAdNja+zdeHfxVQ1zcMsdlc3DKqLt9Cah+y6sCwdO1b6tBnmrf26N77T5XtNW7v0RGB1qtcIRAZGzNEZZO5gi1xCJRKBUI4FdE0lhkk1HrW5tOxfai4mEEZ+Lm8rUZylMwVJYjqXP3WxGmztQWdrgVkeQDX+zRQkxASv+Z43ke5w1doZkoo0aPJ6wpVE9TmfedzDpM0I2qn7ZSl9tq2aQLG2uNGGiA/0Hh1IJCMoHibKze22FLMSGFrV+SBmNI5O2OPh/asAI3n/aMAXI3JeHmhN/V6swAUSPA==",
+  "URL": "https://github.com/elementary/music",
+  "LICENSE": "GPL3",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1586969497",
+  "PACKAGER": "Antonio Rojas <arojas@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "cairo",
+    "gdk-pixbuf2",
+    "glib2",
+    "gst-plugins-base-libs",
+    "gstreamer",
+    "gtk3",
+    "json-glib",
+    "libaccounts-glib",
+    "libgda",
+    "libgee",
+    "libgpod",
+    "libgranite.so=5-64",
+    "libgsignon-glib",
+    "libpeas",
+    "libsignon-glib",
+    "libsoup",
+    "pango",
+    "taglib",
+    "zeitgeist"
+  ]
+}

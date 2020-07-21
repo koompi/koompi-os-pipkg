@@ -1,0 +1,24 @@
+{
+  "FILENAME": "python-userpath-1.3.0-1-any.pkg.tar.zst",
+  "NAME": "python-userpath",
+  "BASE": "python-userpath",
+  "VERSION": "1.3.0-1",
+  "DESC": "Cross-platform tool for adding locations to the user PATH, no elevated privileges required!",
+  "CSIZE": "23533",
+  "ISIZE": "72552",
+  "MD5SUM": "ac0c879d0f85ea5e637989fa74168cba",
+  "SHA256SUM": "f22a4483be189644fac8081fda1c23e86c85a5f802a80b95173be42737c79905",
+  "PGPSIG": "iQIzBAABCAAdFiEE0jW0leqs33gyftiw+JPGdIFqqV0FAl7ifb8ACgkQ+JPGdIFqqV0OfQ/9F6ESYupGUnZmRIx57rS5g4xmlSNQELTfcFgqurx0SUUxJdYbkpJ/Qnw2obXxA/5qcm9BWN5gkT6Us90sUMxcCBFLdMpkVx2z0cMcSyH77mJ72GzgwbSaW+NHFMqUBUxbihX+WY7Jm5Uuyx0jlFy37gsfC3AvGB+y+3RH0gkSNBUwgKF6Ai/lHi69fNFy1TdU1J3inObvIF0D1T7fWRILdCAFqm453gaK1d+/yJ9TswpqdViG1E0tjIuf76+0kMvB30bFiFjvetrNdmkJstXBXIR4Oz48fFI5yMs778McRVFtZ0+tZGfQStxUnZ3MRE0OG796CH3fpZ4XBOVxzCz9UB5XNIPzU/ix8RQCitFSgVBey5/fDpjtjjc1KKwIXy/m12KA4jUdAfv7crQBdhAtKdQ5Zs1tg7QBYtUEVg2RxOETmy+UvA6KaE2plX2NBItjPNgqNJw+mFDEIsb2f0dNfLQbZU9JncQdztvVl/tRkCP/er+is+/oXAInyPqrOF9VYejN9ND66sC0ZtuZFhIJ+00qz4tREps1CU8bOD+wuNTESNWqZFePDdAXHCUuzrvZKXn3pACyyL1nGSSnCEOKvDOaFcg9v4SrBrM2ERYOcgcp1/t4FoW+TvyHYjpk3GlfJzLsgQJpspE3KWrLsoquFY9lwqRwotKTzF32yN4db8k=",
+  "URL": "https://github.com/ofek/userpath",
+  "LICENSE": "MIT",
+  "ARCH": "any",
+  "BUILDDATE": "1591829719",
+  "PACKAGER": "Filipe Laíns <lains@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "python",
+    "python-click"
+  ]
+}

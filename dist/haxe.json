@@ -1,0 +1,24 @@
+{
+  "FILENAME": "haxe-4.0.5-1-x86_64.pkg.tar.xz",
+  "NAME": "haxe",
+  "BASE": "haxe",
+  "VERSION": "4.0.5-1",
+  "DESC": "Cross-platform toolkit and programming language",
+  "CSIZE": "6083116",
+  "ISIZE": "31129090",
+  "MD5SUM": "b8ef3d457e3665748b8a732148f637b1",
+  "SHA256SUM": "e23e3888eec1c8c42bb1b8069ffcc7957ff7b93947dd9ad4f8f09f26f16c963e",
+  "PGPSIG": "iQEzBAABCAAdFiEElihV8HLHoBhGQFhk/PPIy1z5yNQFAl4AjfQACgkQ/PPIy1z5yNRTQwf/ee+vAbg0VeZqpV+nIVPC/3q7zH65axrG3TX2vPLIXVzo+LXFWw6MYQ0Z7HotNwFdPqk048TSlguViSP2YxyfAQP3l7ja3HIph3oxKH72lVvhLoZzTqeXhQdU5V69JM8GkeW4NokjsB2cdR0/avYqpHMMBi7RrNmgaCwrAgK8IycPIRh8dOkxBMTxn0ovqWzPYAvokyx9YDXta/f1L98PwparaBAKGi+kImvQRRsFVr4qDZk4Uc1PjB9O83af38zDxmToMUtUrfh9YLucV4pCIRb2BCVOnhaslIXN2fwnKdySCR9Gcy//szaRI40Px3je+poH3xiJ8Yg53s4DaoOkTg==",
+  "URL": "https://haxe.org/",
+  "LICENSE": "GPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1577093822",
+  "PACKAGER": "Alexander Rødseth <rodseth@gmail.com>",
+  "PROVIDES": [
+    "haxe",
+    "haxelib"
+  ],
+  "DEPENDS": [
+    "neko"
+  ]
+}

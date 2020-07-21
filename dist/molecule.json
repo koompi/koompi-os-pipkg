@@ -1,0 +1,41 @@
+{
+  "FILENAME": "molecule-3.0.5-1-any.pkg.tar.zst",
+  "NAME": "molecule",
+  "BASE": "molecule",
+  "VERSION": "3.0.5-1",
+  "DESC": "Aids in the development and testing of Ansible roles",
+  "CSIZE": "252669",
+  "ISIZE": "1659203",
+  "MD5SUM": "9ac317bc209ce706ba9a7b8cc9ae15a4",
+  "SHA256SUM": "fc18038020242198b96b1cb2c7bed14b4b8e6c9a5e27b587b1a0fa2cbefedc53",
+  "PGPSIG": "iHUEABYIAB0WIQTH54SUZv4jWDQ1iDdyWHNLQcMVSQUCXweMxwAKCRByWHNLQcMVSWnYAQCMQJ24np1V1ioLo5yXsBDO7SYjnkrSvktboXpjD1QxjgD/UmuKQXtEKIWHfETfyMkLekmigd8XRfXMTpkdu/Lk2A4=",
+  "URL": "https://github.com/ansible-community/molecule",
+  "LICENSE": "MIT",
+  "ARCH": "any",
+  "BUILDDATE": "1594330174",
+  "PACKAGER": "David Runge <dvzrv@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "ansible",
+    "python-cerberus",
+    "python-click",
+    "python-click-completion",
+    "python-click-help-colors",
+    "python-colorama",
+    "python-cookiecutter",
+    "python-gilt",
+    "python-jinja",
+    "python-paramiko",
+    "python-pexpect",
+    "python-pluggy",
+    "python-selinux",
+    "python-sh",
+    "python-six",
+    "python-tabulate",
+    "python-tree-format",
+    "python-yaml",
+    "yamllint"
+  ]
+}

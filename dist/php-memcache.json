@@ -1,0 +1,23 @@
+{
+  "FILENAME": "php-memcache-4.0.5.2-1-x86_64.pkg.tar.xz",
+  "NAME": "php-memcache",
+  "BASE": "php-memcache",
+  "VERSION": "4.0.5.2-1",
+  "DESC": "Memcache module for PHP",
+  "CSIZE": "40848",
+  "ISIZE": "110607",
+  "MD5SUM": "2039f7b9a5238de0932f5dc2a4b34874",
+  "SHA256SUM": "27d41c7b1c803acbf10fb8cad9b362631141fb8ba98a1c2c42e58482a0039a99",
+  "PGPSIG": "iQEzBAABCAAdFiEEhs/8qRjPOvRxR1iAUeixSKmZnDQFAl39zO8ACgkQUeixSKmZnDR+rQgAgnYS8plee7OZn03+EMssxBHPfTV8Z+lHy4aOdWpIpc5IfZcFXmP75M4K1R8rcHRKG+2Fu8dz/WWwVgYZicdYkgiB2NWnUngvxL/XiZlvpwqXwwP/CShojl4Lol8S/LZJpY3AlOCHdtP94ZeQRJ90nzaB9ApDLT25Vr4nFZzSe3olB3bvQQrBSF4iN1bbyphQQGGunG1veUNu/oa+bv/rsEHza3TvNAJEz9lYINf38LoMU3ZAsB2Wr0eHHQDqZsBs39b4PBOyGr+tqO6ZTCZwpHIxqH0fcJ9jkIi3IGLVzP6anLtgYv9Bf4rizB5x8eOspTviyPmMjO3YdLFdUpOLbg==",
+  "URL": "https://pecl.php.net/package/memcache",
+  "LICENSE": "PHP",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1576914114",
+  "PACKAGER": "Evangelos Foutras <evangelos@foutrelis.com>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "php"
+  ]
+}

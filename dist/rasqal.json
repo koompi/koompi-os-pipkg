@@ -1,0 +1,25 @@
+{
+  "FILENAME": "rasqal-1:0.9.33-3-x86_64.pkg.tar.zst",
+  "NAME": "rasqal",
+  "BASE": "rasqal",
+  "VERSION": "1:0.9.33-3",
+  "DESC": "A free C library that handles Resource Description Framework (RDF) query syntaxes, query construction and query execution returning result bindings",
+  "CSIZE": "277034",
+  "ISIZE": "1734751",
+  "MD5SUM": "d1019297a0fe8e0db962ab71dfc9117f",
+  "SHA256SUM": "4d743c106984857e0494d14630b94abf6ef5c35f437cb366e44e6149e48d91a4",
+  "PGPSIG": "iQFIBAABCAAyFiEEZkWwqMcAXnjbHXhk+Z/+D+rpmb0FAl6zkY4UHGFsbGFuQGFyY2hsaW51eC5vcmcACgkQ+Z/+D+rpmb1H+wgAoBmzLt96cp7WsrUfy/K2pXTeO2Xfkt52wIhGuVWKs3ZPPMmmQrWQAMTNPu9JNytmxxcxuUeV795j3y1ieO58kU4u0FaR5fqAOtF1kTLXLQrk3DR7KrqByadxmVaG18fI4gVLVeTuEks4l6+EEO8X407jLl5cNjMPm+M8PSIxKoFp5RMbYon7raRIdS+BYarjAq7GTLPoVVG0xvzAg8jJN23/H5V2zsVRzM4TSpIzqLS9barzje1uKv/Cyz9PEOlDpwvzr0L9jS8zYWzTO6AnOH/nHo7TC8DIM1JfqtJdogtAjhZzQwjlvLv2fGPOG+YAH1tHB51JAQDiRg6zS0wJGw==",
+  "URL": "http://librdf.org/rasqal",
+  "LICENSE": "GPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1588826298",
+  "PACKAGER": "Allan McRae <allan@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "raptor",
+    "mpfr",
+    "util-linux"
+  ]
+}

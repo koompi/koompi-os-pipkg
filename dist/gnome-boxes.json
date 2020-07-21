@@ -1,0 +1,35 @@
+{
+  "FILENAME": "gnome-boxes-3.36.5-1-x86_64.pkg.tar.zst",
+  "NAME": "gnome-boxes",
+  "BASE": "gnome-boxes",
+  "VERSION": "3.36.5-1",
+  "DESC": "Simple GNOME application to access remote or virtual systems",
+  "CSIZE": "1152833",
+  "ISIZE": "6330183",
+  "MD5SUM": "940cc8c49b5ef638968edb5d285a5619",
+  "SHA256SUM": "f3ef8c6465226a7ed982da15dbddb1f65c9a3e6ae8a20037e93f854ce4e19d75",
+  "PGPSIG": "iQEzBAABCAAdFiEEzgvecadZqH8j8PfYth284QkBwWMFAl8Izp0ACgkQth284QkBwWOQfwf+Is9lfdXg5mvsG+aLI3Z/nfBH/51N3vVCuECwvpOPl5vj8k7xZ/iEnK43Py5y4vTU2SNamGnqrxIsg0t2L9bwcPaSNstX+MV23Ut303BeyDo1CPFEPr7JVN00CDf5BgC5LMsIB8pgCK6PfXA70FM62DH7SCqdwX3pniCbIuASMouEfGH4MU4ruvv8wm0W48YZ359SD+IwUTO8bhmTfA6WtbQ7tdwv23e8EOfx+fkXIc2erfHYoeXnNJOLMEbCa+Yk1iUgmBCFZTSb5+Upb9YS6P98BirXdl28RSN27950qSIPQfR4LkTpmrByqy0B4XMSqQFovsLo0tHloPQPPV3YlA==",
+  "URL": "https://wiki.gnome.org/Apps/Boxes",
+  "LICENSE": "LGPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1594412602",
+  "PACKAGER": "Balló György <ballogyor+arch@gmail.com>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "cdrtools",
+    "gtk-vnc",
+    "libarchive",
+    "libgudev",
+    "libosinfo",
+    "libsecret",
+    "libvirt-glib",
+    "mtools",
+    "qemu",
+    "spice-gtk",
+    "tracker",
+    "webkit2gtk",
+    "freerdp"
+  ]
+}

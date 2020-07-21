@@ -1,0 +1,24 @@
+{
+  "FILENAME": "python-sshpubkeys-3.1.0-3-any.pkg.tar.xz",
+  "NAME": "python-sshpubkeys",
+  "BASE": "python-sshpubkeys",
+  "VERSION": "3.1.0-3",
+  "DESC": "OpenSSH public key parser for Python",
+  "CSIZE": "17228",
+  "ISIZE": "63767",
+  "MD5SUM": "9ba963dc24de7d02d88795b9e12a43b3",
+  "SHA256SUM": "9dfce1478e6c71448323c4155bbfc91ae45dc43d6986081646b7ec8a760f1a2a",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl2+xnYACgkQeGxj8zDXy5K2ExAAlyEumgJkO+9yMFHnRxm8q/SbQoxgeuPTfDRmYYbZ5hJ1e4+Euk4sFZFZjS8nIlz6B8hD40WgjlI0RaymEVN5iGZjbt5OxC3H0ZxUYlIEIBWq5BEj2x6AXov3WiYPbZFp40kJkZu7L9UmxEGs5SirzyLqrQyPgkb+kIuNIHBMJ50PkzmybReM4BWyvEhFKzEW3ox5x0y9GgnL8JqDJvCHidrcVNZ8KFinXJYkY13bO1SBe6KbOR+rs+JkWX3Eu7uueLkP7oULNs8Lk5vcMfo/qTIRayKo4hj7ANx4BJAeXUJr6lI2mWSECzF+sBISimC4eFSJqntfHSXeeTN2SUPZeu7rP8jkLkeVJ0O267IXLvo2Yp7XjzUbWtcOfGVOKfxCvShJvTFG5FJlNPtXausfdPlkF4mqrWUZacgAIJmWTwW3maL1oonKTPYQWotoqAtPJCbqNP6VIdspeLaF/nptY4PMs4Jib8FZKgbCVG/QvoUQiEd/gSdnQtPwzEsNA0abp5qoMdoqMzfHIlob3ARAc3nP4Bl3Lh88CcAeZmZey5iKthU3844Vxa7DC2HP6nRZ0yemcP4EDfcSLVcCTzU+Xe1XR7FAIbQmGbyo0zUsZwOfqIRCnMYb/7moppMRmzLk4xL/HB1VtWihxur9Y3aZkzAVVMBOLzGGP58XwzJa2QU=",
+  "URL": "https://github.com/ojarva/python-sshpubkeys",
+  "LICENSE": "BSD",
+  "ARCH": "any",
+  "BUILDDATE": "1572783703",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "python-ecdsa",
+    "python-cryptography"
+  ]
+}

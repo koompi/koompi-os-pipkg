@@ -1,0 +1,25 @@
+{
+  "FILENAME": "gnome-mines-3.36.0-1-x86_64.pkg.tar.zst",
+  "NAME": "gnome-mines",
+  "BASE": "gnome-mines",
+  "VERSION": "3.36.0-1",
+  "DESC": "Clear hidden mines from a minefield",
+  "CSIZE": "237036",
+  "ISIZE": "1173559",
+  "MD5SUM": "a463425753fcd231b820602a967ae578",
+  "SHA256SUM": "f8d385e1125b2f1b0c90e06674d4831ef2f3028a53a90e4c5f870ec74171740b",
+  "PGPSIG": "iQEzBAABCAAdFiEEghj4iEmqxSLpTPRwpekojE+kFfoFAl5kk6YACgkQpekojE+kFfrTYQf+Nq1usX8iBENEf4RdtRWvc+wWl9bDmfzzmCgmLyH7wgVGhro1eK/y2SUPnQ1UKrLv2v4BLJIyVLf1D9WqqSaB878sXq9cimJFidJW3vMLIL+WRVWOQFD5htSeIDB6abJrI8zUBTJTTQHvRtsjayqi04pz9J8xeR5LCZXKj/RLhH6zOPAnllb1+GIdvxLTnEOp5V7YvPfoDVGPEfTdq3jOS8PB1Hpj2G+Vo/mOIjiZgZ45wBZHTadGhXy2h0BthXSZYrIw7Y9lS+5bofT3S68Ue6IQMmBekq49lDHEXkIwvY2D3dqyAbaS5NWwJfEobeldwBvlfUEcqmP6CFGFuTiJ7w==",
+  "URL": "https://wiki.gnome.org/Apps/Mines",
+  "LICENSE": "GPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1583648911",
+  "PACKAGER": "Jan Alexander Steffens (heftig) <jan.steffens@gmail.com>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "gtk3",
+    "librsvg",
+    "libgnome-games-support"
+  ]
+}

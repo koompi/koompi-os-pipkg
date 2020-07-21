@@ -1,0 +1,23 @@
+{
+  "FILENAME": "lib32-libaio-0.3.112-1-x86_64.pkg.tar.xz",
+  "NAME": "lib32-libaio",
+  "BASE": "lib32-libaio",
+  "VERSION": "0.3.112-1",
+  "DESC": "The Linux-native asynchronous I/O facility (aio) library",
+  "CSIZE": "4144",
+  "ISIZE": "13312",
+  "MD5SUM": "93c0a0598da03a687a613623c24af10b",
+  "SHA256SUM": "e348605e0688f1036c00cf49cc5bfe9a59264282be939db9bc56ce1dcc4e6f03",
+  "PGPSIG": "iQEzBAABCAAdFiEEFRnVq6Zb9vwrc8dWek52CV2KUuQFAlzEAKUACgkQek52CV2KUuQqCQf5AVdWgBlVlNQDyCNTnDPwiFjcZCqJN2bI4dWqVj1T3IYw81duZocmSplVgtl1qq2rHS0aCJGPj+KeQKoL4QtolXonbKZ4Saa/Ad7HLXPo7AY7Lc8MCLf657SBLZqoYfz7Z73QlgdsltQfJ4yczkPFFyMaQXyZv+d+0mn9v9T/yu8L1skHviIhHSh1ztMNg/au5lWVu3jXWWwSfqxMZE5+STu8/k7ZcVG3CDKEU07HMwd8/b//iyPexpgeZGucGGSKaXPv+ynYERNCRvZDNTH0kwq9VBihnRY52DwfUR4eIubIm/ys4hTUUDt5Tqp8PB5icQ8KRwGmqkSudonhQ3tEWg==",
+  "URL": "http://lse.sourceforge.net/io/aio.html",
+  "LICENSE": "LGPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1556349016",
+  "PACKAGER": "Antonio Rojas <arojas@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "libaio"
+  ]
+}

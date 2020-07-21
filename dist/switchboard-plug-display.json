@@ -1,0 +1,27 @@
+{
+  "FILENAME": "switchboard-plug-display-2.2.2-1-x86_64.pkg.tar.zst",
+  "NAME": "switchboard-plug-display",
+  "BASE": "switchboard-plug-display",
+  "VERSION": "2.2.2-1",
+  "DESC": "Switchboard Display Plug",
+  "CSIZE": "111949",
+  "ISIZE": "409810",
+  "MD5SUM": "c3b8707aca8bcbcd651d8d23700d5e7a",
+  "SHA256SUM": "825f338617f4d9d6c76d0186cad459583aca06c15bb2ffe710604e3b3107a954",
+  "PGPSIG": "iQEzBAABCAAdFiEElDfdOBWnqRaePTlGr/XZUJi8b/UFAl7RJqYACgkQr/XZUJi8b/W9aAgAqzg8l3Uv00g2ftiFdVDgRj8c5GF6ZOjBNpDsLmancZN26VY2LxMv2FaIIWXLUYYi7a/6O+mi+EIstVblU9gCxGGlizMZWHEQF64Ksuw4SAxmlXge6stbQqFicvODOxMQinDCGKC5TQVZONhaq1+bjhK74+6YiflSv+Vil97S7C3XQl80d0ko/qu3/2NhxQadYXU5yD+Z7yIH8rNSGFclPlWhSAHOJ7CogZBx+lRtD2wcIQb/ozLhXtC1vUsnppQbRHl4evLnkAfH1KRZS+h2w7sgUrmBUqfe8o31QEY62U3iFoRryh/2rHNYRSdZEGHoWCeLVs6mmvsnnTJXnRMezw==",
+  "URL": "https://github.com/elementary/switchboard-plug-display",
+  "LICENSE": "GPL3",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1590765176",
+  "PACKAGER": "Maxime Gauduin <alucryd@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "glib2",
+    "gtk3",
+    "libgee",
+    "libgranite.so=5-64",
+    "libswitchboard-2.0.so=0-64"
+  ]
+}

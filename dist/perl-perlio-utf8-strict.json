@@ -1,0 +1,23 @@
+{
+  "FILENAME": "perl-perlio-utf8-strict-0.007-6-x86_64.pkg.tar.zst",
+  "NAME": "perl-perlio-utf8-strict",
+  "BASE": "perl-perlio-utf8-strict",
+  "VERSION": "0.007-6",
+  "DESC": "Fast and correct UTF-8 PerlIO",
+  "CSIZE": "10727",
+  "ISIZE": "25373",
+  "MD5SUM": "7233cb5f877500d021739259f07c7fbc",
+  "SHA256SUM": "9b330d5e24cba8cff16213380e14aeeb0eb3a7d1a795ca7502d17bfcbc0cf0fa",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl7vOZgACgkQeGxj8zDXy5I1lg//ZqL/vigo6jgGzodfLEMaac5juwFxnwQ/bnVmtQtOa7YkhTc2C2AGA/H/ucexPmxyasOMDWyzvoyj0MRGOx9YnGEM2KUsRhGkt9BduMyEVDt4KkjE0cAq1wMaEG6qFpUPXrUxkwSezPJgBZa5CZf7W6f1kIcaxcjbMVyl8ImSkeMgaOEIHLanOL96NUNy/f+E9TSzNLgnpp4GIuSSOfCNuAuoe7o0yu0zGll4/kW7CnkNsAKjS+rERJR4mV99JgUQKwZciYczJXzedBCmnO0zhOInu8jNcBENpkW+db2loX6W7ZbNUK9iAD/s9HTXTEvzK77dltTRe3Fj4l8Yj+k9bZZPLTZsj1BNmpEHyLJGLkHadFnA+dh7hb9HwEq+ip6zqmfrKrmfADSI8a65NO4qM/XDvCJWxhJd3Snjwsh/hOgX0Snht42drXghrq7NNu6fGZ99CBw4ddc8u8tv9XbL1oIHtY1fvyms3P17UpgAhTCvxXK0pA7VFZRIvn5xKL8mk6NTKsiUrSejum6ZS+7x1NHxky/Omaw/ywHkyuJVEPMo21SMX4tWEr9ZVbFPnlLl7tTgmsbWLrWJMx0rb3Y6PMyTImZtPvvt65kIRBuRfVdBRMlcnFnywrgshTf0xeOxSnuHExBZnVwzZYm4HokPevW6zmw14DcdCAQJ03ZflR4=",
+  "URL": "https://metacpan.org/release/PerlIO-utf8_strict",
+  "LICENSE": "PerlArtistic",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1592735944",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "perl"
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "FILENAME": "bpython-0.19-1-any.pkg.tar.zst",
+  "NAME": "bpython",
+  "BASE": "bpython",
+  "VERSION": "0.19-1",
+  "DESC": "Fancy ncurses interface to the Python interpreter",
+  "CSIZE": "278751",
+  "ISIZE": "1114939",
+  "MD5SUM": "c1fb79947ffc53c00a468855664ab3bc",
+  "SHA256SUM": "6467a5bfce9cd2d2ea9b90b046e7dbecc4c4f2ba0a71f1261096a312496bc9fd",
+  "PGPSIG": "iQEzBAABCAAdFiEESMOx8w3dD+Z+UW0WOW4+JbqxQsEFAl7ZetQACgkQOW4+JbqxQsHzQwgAqxA/aJ632TXyQ761OQK2Y8DkUVUy7IO/P0oPm8I50iDm1KKNYeSSSlKnXJCIQkwFuf6OQRvo8x1buNhFK2Q9TbKjJMphaPiXbSN+Ghv8jd5uCiUy6Eugnv94MSWScUgj95Ednc5ix+KgcMoOivqLoh4D+onjhaf6SIUbLRhmE72A338FaSXDxL5/RyLl4lKMS1UhAI91uN3T/6325mwMtsnnRq8ycYPhzJ87dlKT33UmES+FJcO1v63gVaaizxQJMJMiRFdnnBfFMROKRSZcI+BLQgUNwE4miAxDZ0+/2pC99kNULEdPNSCYKmzY2SUMF9Eh72q7MKH4Qc4maTHbtQ==",
+  "URL": "https://bpython-interpreter.org/",
+  "LICENSE": "MIT",
+  "ARCH": "any",
+  "BUILDDATE": "1591313373",
+  "PACKAGER": "Kyle Keen <keenerd@gmail.com>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "python-pygments",
+    "python-requests",
+    "python-curtsies",
+    "python-greenlet",
+    "python-six"
+  ]
+}

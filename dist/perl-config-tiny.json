@@ -1,0 +1,23 @@
+{
+  "FILENAME": "perl-config-tiny-2.23-4-any.pkg.tar.zst",
+  "NAME": "perl-config-tiny",
+  "BASE": "perl-config-tiny",
+  "VERSION": "2.23-4",
+  "DESC": "Read/Write .ini style files with as little code as possible",
+  "CSIZE": "11367",
+  "ISIZE": "15386",
+  "MD5SUM": "41a8157197be0e86304ebfded8c33551",
+  "SHA256SUM": "e06c65a5375bfa006568d01b4d95d87921b3ef59b703d382003887372150dea8",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl8Eu6gACgkQeGxj8zDXy5Jezg/6AnvufQFRsKqAG4q5sZEDbJXnzqn97m2lG0fbOhLvWUNw6Z3r52ktiFbVD9Tk3v8fQM45k4yICZAYsqKvBgd0ipnOYc2Ez2s7xGowK0Nui1eEI+2PeuhEGo6LPTVvBgSi2plezcBuVWyAZke8k5T3XYo2wq/mVQDJd9rTlbhOypeI5eBxbxA5KV8Utp7/VkapO8YK/AqXTmu+OWuJJgnFRmLtXi7CGF6yRzBnrn4iKG6MDifpsc+ibAnpGoVDyreCr/CYys3OZ0W00/3BboruaFUxrI+0ZZWpaZQXC6OA7ca1z0rXAwot7p8XH7M2M6GsMWh+KaUFQTYXwO5xifwoKDBsIaZMNRkT8cGt4OiVk+XBcNhlhFIduMJe7YOyTQFnS+wbuGGhsbMFecXHa/v1ZkmJdQ05u1WhIYhgiI0V0o9LlP4pqYNiOwKDj1fmqNrzlVMgvT+p2XDyPmUb0YpdzQU6V4LZs/ibwJzGVPGlMHDjFnIWtKsz4GRXw1MVY7JhUHPdb/QZesw2CvnLt3Kiq9Lqu0aYkGZfrcqukF4Ck+Soe5jUVYugDMHCHHuauY29UIaTjqKgz1v2TBniLLYwFBqXF45Ey+c1JRaeRu0f2MtgxGnqfnOYzaerNw/rrEdLEQZ1nLLgC6zCndR3lEJ8YRVB5mbb7CsscdZB0aztQl4=",
+  "URL": "https://search.cpan.org/dist/Config-Tiny",
+  "LICENSE": "GPL",
+  "ARCH": "any",
+  "BUILDDATE": "1594145648",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "perl>=5.10"
+  ]
+}

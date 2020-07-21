@@ -1,0 +1,23 @@
+{
+  "FILENAME": "firefox-developer-edition-i18n-sr-79.0b6-1-any.pkg.tar.zst",
+  "NAME": "firefox-developer-edition-i18n-sr",
+  "BASE": "firefox-developer-edition-i18n",
+  "VERSION": "79.0b6-1",
+  "DESC": "Serbian language pack for Firefox Developer Edition",
+  "CSIZE": "550109",
+  "ISIZE": "611610",
+  "MD5SUM": "b938f1af04ae0e89c0acf7001dec1b9b",
+  "SHA256SUM": "bca7ac2c5bd226307e8ca8ccbcb3f687be73851b9e7635772ef2c7abfb162f12",
+  "PGPSIG": "iQEzBAABCAAdFiEEYB8g8dG7v0p4z1tt9rFhCz7NvJ8FAl8IbNIACgkQ9rFhCz7NvJ8jQAf+O3Quu05RKDrnZ3dg51gn4XsXWVayUhw0nB8SEtiWv93j8FADiEdsUFzTkiLJ7f9l+hhWK3O3Nmw/w2DCG2ELCKG3R4MB61YGirOd9RHHwTO909q1up1GBxGZb9LLK4+/f9jCHSgSWLTBWDrH9Silm/zjNKkQbYWKelElSePWL0jdzZUv9km0V0DJ7itd0UxChRkxZJu0wJliDKi5LSjeuu0ZuOdxLd23HsB6Gt46ZiF4wZeLJ2RpSMIRUOuJs8oGOaVOhRZ1nTEENC2zgva+oGRECP1cH2nbcHftj4wZ9w2iGKXWhbnAKb/i8KGD3GJMi+DX448Rk2KbOuZHYdGWWQ==",
+  "URL": "https://www.mozilla.com/",
+  "LICENSE": "MPL",
+  "ARCH": "any",
+  "BUILDDATE": "1594387381",
+  "PACKAGER": "Andrew Crerar <andrew@crerar.io>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "firefox-developer-edition>=79.0b6"
+  ]
+}

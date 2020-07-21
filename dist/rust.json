@@ -1,0 +1,27 @@
+{
+  "FILENAME": "rust-1:1.44.1-1-x86_64.pkg.tar.zst",
+  "NAME": "rust",
+  "BASE": "rust",
+  "VERSION": "1:1.44.1-1",
+  "DESC": "Systems programming language focused on safety, speed and concurrency",
+  "CSIZE": "68186178",
+  "ISIZE": "359758226",
+  "MD5SUM": "4f95c36c3dc513c33f5bb1d04711f8f2",
+  "SHA256SUM": "0dde4ad8674cc629332b9cc2c985a2e6294cfd82703ef34eac65535d77466c4d",
+  "PGPSIG": "iIsEABYIADMWIQQGaHodnU+rCLUP2Ss7lKgOUKR3xwUCXuvmSRUcaGVmdGlnQGFyY2hsaW51eC5vcmcACgkQO5SoDlCkd8eplwD+O4NKFYH6d0dy75GUmKi+VrthUEhIPK3XFvQGvKxRZl8A/Ry6dhxbfZSVVyun7pUXeZBUVsGuJUBR4/KqDuY70z8O",
+  "URL": "https://www.rust-lang.org/",
+  "LICENSE": "MIT",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1592500737",
+  "PACKAGER": "Jan Alexander Steffens (heftig) <heftig@archlinux.org>",
+  "PROVIDES": [
+    "cargo",
+    "rustfmt"
+  ],
+  "DEPENDS": [
+    "gcc-libs",
+    "llvm-libs",
+    "curl",
+    "libssh2"
+  ]
+}

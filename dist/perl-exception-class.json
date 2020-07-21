@@ -1,0 +1,25 @@
+{
+  "FILENAME": "perl-exception-class-1.44-4-any.pkg.tar.zst",
+  "NAME": "perl-exception-class",
+  "BASE": "perl-exception-class",
+  "VERSION": "1.44-4",
+  "DESC": "A module that allows you to declare real exception classes in Perl",
+  "CSIZE": "23857",
+  "ISIZE": "43926",
+  "MD5SUM": "68dd45342eda754ceea67b24de6fef82",
+  "SHA256SUM": "993cff8bfd1c185bc24be8493ed71151b83263a9e46b7dbc914402b16d187901",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl7vOWQACgkQeGxj8zDXy5LG6A/+PaXnOW9fTaUJqs62t/PKIB9Rvw8mpRk7Ll4nX7xG8LgElToRThcpEQ2uT6xNLmC/TlcDj8A141zwGsqsiQuzKwXF4N0LEarDAoCenNHXsrI/gv7vXNkgrq2jYMEoucCSGR2XE2DgRj+UexnXK0v7QXuQGRelToShjQNxonLKy5g2JwIy/zfK/hZQeP/bzaIY/ycR521uBiyGqMGFXXLe4cit4GlCmXzKDz9m/KMvXcvQXi5lqk6egWPND3pzDSNjdVnguizNUSS33NFmiu4YfElpqngh1sssrIHQvzHyxOxSbrwvLVSqpF9o83hpUmDZSSvBUIPaqcKd6x0RkxuyUxLnYRnPGUFatfgRarZG9FMzJb+q41A/gLq4kIXXOUlxUAQBx8yA9Qie6Ekff5OpEleWNpm1Jpt9HJtYl/IaJlupl4+ppuxV43fhOKjlEEb4SPghz39aMqTbAf0L41t43SG3psqDqJKcfXnL1MiaLLqQKm/dqYPItRT1OqXuyONbk8XG7YwofR0Oup/oAHEp3LDqloFS3brP6zTF8pNi/365aBe/rzB5j3j+K+Ll9wfwmnv72nj+c4dbBMK8k/iqnRZ/W5r5zctsbl4m/fge8TJTjY+cT/2E9xqMdGcJiyw0ueprvdUA6MiDkBX4YbCs6ABGVX4injG+1BExDuvnc8w=",
+  "URL": "https://metacpan.org/release/Exception-Class",
+  "LICENSE": "PerlArtistic",
+  "ARCH": "any",
+  "BUILDDATE": "1592736080",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "perl>=5.8.1",
+    "perl-class-data-inheritable>=0.02",
+    "perl-devel-stacktrace>=2.00"
+  ]
+}

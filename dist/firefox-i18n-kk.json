@@ -1,0 +1,23 @@
+{
+  "FILENAME": "firefox-i18n-kk-78.0.2-1-any.pkg.tar.zst",
+  "NAME": "firefox-i18n-kk",
+  "BASE": "firefox-i18n",
+  "VERSION": "78.0.2-1",
+  "DESC": "Kazakh language pack for Firefox",
+  "CSIZE": "580032",
+  "ISIZE": "642139",
+  "MD5SUM": "523a3d0bd0674acec594305a07e6e63f",
+  "SHA256SUM": "49b3fca451e38728772013f1d67e4678104d0f5e236b0e9c7029d0ecfcadcc03",
+  "PGPSIG": "iIsEABYIADMWIQQGaHodnU+rCLUP2Ss7lKgOUKR3xwUCXwelpxUcaGVmdGlnQGFyY2hsaW51eC5vcmcACgkQO5SoDlCkd8cTuQD9FaCifUU6AWEoYAEy+PE71wPdV3Uf2188Xcdf46x5JgwBAMksiZbUkBBlyGXUwkyoq1GiCRK+c+zhC4SpcYa3JLkC",
+  "URL": "https://www.mozilla.org/firefox/",
+  "LICENSE": "MPL",
+  "ARCH": "any",
+  "BUILDDATE": "1594311501",
+  "PACKAGER": "Jan Alexander Steffens (heftig) <heftig@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "firefox>=78.0.2"
+  ]
+}

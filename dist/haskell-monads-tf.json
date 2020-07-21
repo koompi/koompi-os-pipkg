@@ -1,0 +1,23 @@
+{
+  "FILENAME": "haskell-monads-tf-0.1.0.3-16-x86_64.pkg.tar.zst",
+  "NAME": "haskell-monads-tf",
+  "BASE": "haskell-monads-tf",
+  "VERSION": "0.1.0.3-16",
+  "DESC": "Monad classes, using type families",
+  "CSIZE": "63196",
+  "ISIZE": "387309",
+  "MD5SUM": "d246f554745ee83f398e47e5aacecdd4",
+  "SHA256SUM": "4fc556453dbc1703cf983645f200c202d045e8320cc4cb55078d7bd6f947136b",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl6hh5UACgkQeGxj8zDXy5J0QA//TActVKEHIwTrbFtEnxFj+wlg+2EkKPY/ykhM0jyQH8ycJ6hVAPOjxOo4a880XLR3oFilV3ZhB1AXTbk47o324xHYQ2UUiGyiPC07Torw1Ou691jtzLTfLon+6PUc7eXfMbplCywIfCqxqDT/ZnMv9FuYe+0EDFGhJDoeABRUxrPhldyvnyUzP/BTGlk1SvbgTacu24C6Khdnl0cXHkk2/5GvpjK0piWgUdjvZgFJ0Xtoc28KqZsoqtmgX1R3pEVF34eFpVIRtebr59UK3qDNaKVRkMW7jYWm6nTvRGBNNFQGf3i0sP5BiKsJuD/caD+LaJdDInOGQYn/hMoSjnTLKaMsR7dujfNdw9YWHpblz9MsBTUqK2VqzUXgEUc+CeYJ2wbEp66q9pi8lnG4KauVasdayaBW+G3+4xVhHMcyF3wAqWL64m/K1X/EtBep/K0HB+alrAn0KplLhyrSGYsCqLTUthW2tWeSOwkFniWgw8FSz8hmdvuiywNTy7xNbo7eQBHwPITBlIvJ87GpjZjjyzKchBINs+W7mT4rrfHW5M6HjAOWedZgTxF9gvxxrH/ArRUq39npLcqmjZr5MRS1nlpl+EHiCzlwiv3NfnSS1w5V0a3yOC28tmrcR3GXyJ8pAXQ/YqOJUL+AUHmTt/ikpAQ1N2bqkxmCrQ4RkoVJXS0=",
+  "URL": "https://hackage.haskell.org/package/monads-tf",
+  "LICENSE": "BSD",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1587644220",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "ghc-libs"
+  ]
+}

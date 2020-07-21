@@ -1,0 +1,23 @@
+{
+  "FILENAME": "texlive-langjapanese-2020.55320-1-any.pkg.tar.zst",
+  "NAME": "texlive-langjapanese",
+  "BASE": "texlive-langjapanese",
+  "VERSION": "2020.55320-1",
+  "DESC": "TeX Live - Fonts and macro packages to typeset Japanese texts",
+  "CSIZE": "87573921",
+  "ISIZE": "861914081",
+  "MD5SUM": "f09c8b855ca460df377298af446f228d",
+  "SHA256SUM": "3df9360028868eea7b061f86f8014c1b6c42a84007c0d743891bd93943b2ca02",
+  "PGPSIG": "iQIzBAABCgAdFiEEROpirNvIG2oNH9JnIGy8iS0Uk9IFAl7dXIgACgkQIGy8iS0Uk9IIAg//WYHXkuydcnDhEiSThMidAzxx5WMKb7qjR/zTd5yaO0sxs1WaiHnlumhMnKp6luaQKOKnAGW/xqaDixZ+0hnQIR3K+DptdvQhQ0PN6jtkY/RMAHcElTQDDJJbCwitri/41WG43v84yqgL2sohgCqs4T8JCRJfg+j3T7Cr5m/GaJgDlpK+pFr6S1wz66xJBX1vzdeLHvfg3tqv2Esj1lYyqESYG+3uvDuRhSy4WfSaid99aiGjuKzLiTkOMsPeoJCqoiw/qaVFhEfZR3w5B6HOe2YusX7VXfaBisqvAMW6HXHV8faTiBT/8A8IqS02XurOZIzGT6deILIHbyZSDwCUIjlw0CbLF48es4boATp0e48pNgYyryllUfUNjE2UdI++MXqzOsAIst3ZrvHU9skI7fKEWeZiM1W43MC4AkjybDOCEK/239s0KZnzfu2k5uHcy1wL5PVrIET5i7nMgzRbAw4BfLZA6VvMCz6bz16/vC2DafZm7o7EYE2cdDLg5xecMKWl6vwcEwwy2ddpIrzm3pJkCr7GZOgOOgMX58CTDA663aKZrgcWUpHxO4RGO1C8QL4aWfEMysnqHGaGa8C+eSYOGnw3koeYEw6eLveLJpz5pILSSCHsrvewg8Icy8TxKt+L/0ul8PX/8Mm8cG0OP15JCaG7+xrnLAmvA2hKYpY=",
+  "URL": "http://tug.org/texlive/",
+  "LICENSE": "GPL",
+  "ARCH": "any",
+  "BUILDDATE": "1591524431",
+  "PACKAGER": "Rémy Oudompheng <remy@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "texlive-core"
+  ]
+}

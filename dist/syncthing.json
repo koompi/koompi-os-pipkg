@@ -1,0 +1,23 @@
+{
+  "FILENAME": "syncthing-1.7.0-1-x86_64.pkg.tar.zst",
+  "NAME": "syncthing",
+  "BASE": "syncthing",
+  "VERSION": "1.7.0-1",
+  "DESC": "Open Source Continuous Replication / Cluster Synchronization Thing",
+  "CSIZE": "9244465",
+  "ISIZE": "29659758",
+  "MD5SUM": "c8f94421aaeac9963122aea9ed7a7a21",
+  "SHA256SUM": "3b9ca8de57e5747247d1760bad1f2a2f429f3a6442f6eb7ceb3e93a7487d2c91",
+  "PGPSIG": "iQIzBAABCgAdFiEEOO3RiGdWkk4SJOSVJOTNsAE8JYAFAl8E2BwACgkQJOTNsAE8JYDljQ//XFp59HMbUmM5aRyWgOYl4NCXbwPfaRxzs2pT+QqOk2Mjz+DrNfU43W+r+K3yG45XG19qQPCizXj1yg/b/j/MXWQBnU0cif/cfCtb7/2B0kR4FwammmIRWTUHAzpk//EDUm6Ws/JxV+8XvlcjOClrjav/0+Id97ecScwqw9fp8B4wtNc18jgx4txLb0+NGRlWRfvIRvdevghty17MWd0KGUwBT4rS9pY5votuPsDm4wgGZdvqMoVJmTIy3A0h5ugPc/j5UA686d8CV3jafla109uAqKpA5pQQpHA0ADcm0gsh/nulgXz0pM3KMFjk8ZwLrKfJK+9ayXrP0SWOH5W80SpnHQ6qMgsRfkPV8cbQ/saPj7l2R8G54N1E963XcRazTvmM0nvLFiZ5uHyPEvsZ5ahNFdukTW22axQ25g85GR+TVACedAEu2HusOiprrzNq8SW+mOAIFZ63ZAdPvlN2JTNLVIQ/2V6PeQkOr7UwpQfQktL+TFhgXIvOzV+3F62xxdPtz0jXwWhqpq0/Nee0f8Z5spO+C3n4nUByHalB1TX9p+NqkD/Kk96+kvNTjhJP4pPH+rz9FQ89HRxOZKR8CK5Znq4jOnuB7b/FYyQhkXREIuX33HfGO7z7ZKlO/gqlfnA30TUj3gXudCTAy0dLwK10fnjlKGQRGJ9jfOO1Of0=",
+  "URL": "https://syncthing.net/",
+  "LICENSE": "MPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1594152691",
+  "PACKAGER": "Jaroslav Lichtblau <svetlemodry@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "glibc"
+  ]
+}

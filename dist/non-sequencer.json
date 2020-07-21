@@ -1,0 +1,32 @@
+{
+  "FILENAME": "non-sequencer-1.9.5-3-x86_64.pkg.tar.xz",
+  "NAME": "non-sequencer",
+  "BASE": "non-sequencer",
+  "VERSION": "1.9.5-3",
+  "DESC": "A powerful, lightweight, real-time, pattern-based MIDI sequencer",
+  "CSIZE": "682460",
+  "ISIZE": "1015725",
+  "MD5SUM": "2ca7400c97a3e3b29cf1140c49632e62",
+  "SHA256SUM": "d30d443d7cb5a69faa658c249c2f734da378d550ef48d31a0e6422b49b0f80b1",
+  "PGPSIG": "iHUEABYIAB0WIQTH54SUZv4jWDQ1iDdyWHNLQcMVSQUCXgZydgAKCRByWHNLQcMVSfbpAP0f50HRstlxrdv1cSvc2FzHDiSyXHtK9Gi+7utE73mv5wEAmijVqBA2y123qtgPgSVQeJ7KHbAPNbFerOf6/LPNLQo=",
+  "URL": "https://non.tuxfamily.org/",
+  "LICENSE": "GPL3",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1577480416",
+  "PACKAGER": "David Runge <dvzrv@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "cairo",
+    "gcc-libs",
+    "glibc",
+    "hicolor-icon-theme",
+    "libjack.so=0-64",
+    "liblo.so=7-64",
+    "libntk.so=1-64",
+    "libntk_images.so=1-64",
+    "libsigc++",
+    "libx11"
+  ]
+}

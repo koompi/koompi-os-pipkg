@@ -1,0 +1,24 @@
+{
+  "FILENAME": "mate-menus-1.24.0-1-x86_64.pkg.tar.zst",
+  "NAME": "mate-menus",
+  "BASE": "mate-menus",
+  "VERSION": "1.24.0-1",
+  "DESC": "MATE menu specifications",
+  "CSIZE": "148797",
+  "ISIZE": "703752",
+  "MD5SUM": "2be44016d43f91676be7e8c7748943b9",
+  "SHA256SUM": "1e4d36e139e1a8a407eede5405f6645c7ac10bc336a7e46d4884ddaf090b11dc",
+  "PGPSIG": "iQEzBAABCAAdFiEEzFln1AlbTztC1F+ggaQC1POCu70FAl5VkNwACgkQgaQC1POCu73Sjwf+Kr6zDPtF+qaE/mV85iItPi7oSd73pqckYKeXsy+zlEYNlIEyqKzvFa9nX4DCEdwHXIddCPeM1UNRj8J7zqwPzVBIxW75uBAXxug0opc1n4RyjlDG5YYDNQCQ1YwyJen9d3ivlnvx5q0dDF6Q9nyRAPn9yzUNCRX+d3EfnvN/wSz0UqdD7Bwe+UahW8rQCW2UPERYa5a8g2/zw7tLRSzNXVdaoLe+bEBmPXDI+Id7LBsieaK1gYLz9Ngft83Xcc3Rwl+POmay21ywdSGOOtIun6KCJWnM+sfeGLvzdxE5Dzt7Us2CzcUb91BEriGE11D53O0LrrPyW18zSLUc7RN1YQ==",
+  "URL": "https://mate-desktop.org",
+  "LICENSE": "GPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1582665908",
+  "PACKAGER": "Brad Fanella <cesura@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "glib2",
+    "gettext"
+  ]
+}

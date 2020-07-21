@@ -1,0 +1,27 @@
+{
+  "FILENAME": "cawbird-1.1.0-1-x86_64.pkg.tar.zst",
+  "NAME": "cawbird",
+  "BASE": "cawbird",
+  "VERSION": "1.1.0-1",
+  "DESC": "Native Gtk Twitter client",
+  "CSIZE": "530656",
+  "ISIZE": "1617789",
+  "MD5SUM": "532f983a3d64c64b4d8ac49227c55583",
+  "SHA256SUM": "9b0c2f1d02ec1d0081ed0cd9ca3af3a0eb4db063938e0d816d6ff0808eec0bc1",
+  "PGPSIG": "iQEzBAABCAAdFiEEzgvecadZqH8j8PfYth284QkBwWMFAl7aG0EACgkQth284QkBwWPfbAf9EAtwrhlsalMQip125cnfBOJ9qn419YwtHDaIg27UNrKw74DlHa/dM5jtux8ktyKZHmSr/9UI3qzerUvz6kN8gnZq8PODQrg4N1koisNx6/sJEm516eU3geSMAVkTzbYiaGNknUvcou3LG83PIhpCMeAfpj3M9Eeq3vsdtqOywk4OnXz4Hor2QwA+m4LcbORVQHCIDI2seaiPl4nwr69uTK4sYQ3JnAiMCtp1oFSEd+E4HHoI7Y0r8zHsY+z1mWEAbeR1PqJi+zMm8QMm3umXZ/C+3PkdvNnHyyPMJbDITnrz5CvTZb5T1/UuQcUmt0EGjfF62PLlYegKEhCb9Kiv6Q==",
+  "URL": "https://ibboard.co.uk/cawbird/",
+  "LICENSE": "GPL3",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1591352053",
+  "PACKAGER": "Balló György <ballogyor+arch@gmail.com>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "gspell",
+    "gst-libav",
+    "gst-plugin-gtk",
+    "gst-plugins-bad",
+    "gst-plugins-good"
+  ]
+}

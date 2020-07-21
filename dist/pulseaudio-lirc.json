@@ -1,0 +1,24 @@
+{
+  "FILENAME": "pulseaudio-lirc-13.0-3-x86_64.pkg.tar.zst",
+  "NAME": "pulseaudio-lirc",
+  "BASE": "pulseaudio",
+  "VERSION": "13.0-3",
+  "DESC": "IR (lirc) support for PulseAudio",
+  "CSIZE": "7647",
+  "ISIZE": "14000",
+  "MD5SUM": "e610f2edc1667d9f628d8a92c9a3b7fc",
+  "SHA256SUM": "595fe5d6487f8986b210775d57630954eaa3a5f11a398d5dd2226550eddb1e69",
+  "PGPSIG": "iQEzBAABCAAdFiEEghj4iEmqxSLpTPRwpekojE+kFfoFAl4aH24ACgkQpekojE+kFfoueAgAhYx4a3rLQaPdnwxWeoyBFPN8SXAS9VSxZC0RTLzUd5+tbqE9wYHhAXkL5wbx6RpXfRSYo1O0MFgGN3iwYtifCMYpDAzNAARswzosRCIHk9v9O8ii9VFwM5nCClW/3Q239TNP6N4mpJE7pR0tBZT8/BrvEz/sALpIcu3v8VMjqDkHhy4MLBnqSXi+foI1fqLeo1S1JWXbafehOCVXQCkBU6dmp6nXzbk8M4p5l1G46yZbjeAofitJYGi7DoDpSyujQ6bbJ2G550QMapPjBOrcPUd79cUyr1t5SSfUAgcWYOY0EwtYbPcebrTwKjuX6fUykdRTIYjzhDmLqdOzx11qsQ==",
+  "URL": "https://www.freedesktop.org/wiki/Software/PulseAudio/",
+  "LICENSE": "GPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1578767137",
+  "PACKAGER": "Jan Alexander Steffens (heftig) <jan.steffens@gmail.com>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "pulseaudio=13.0-3",
+    "lirc"
+  ]
+}

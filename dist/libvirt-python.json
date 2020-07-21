@@ -1,0 +1,24 @@
+{
+  "FILENAME": "libvirt-python-6.4.0-1-x86_64.pkg.tar.zst",
+  "NAME": "libvirt-python",
+  "BASE": "libvirt-python",
+  "VERSION": "6.4.0-1",
+  "DESC": "libvirt python binding",
+  "CSIZE": "189777",
+  "ISIZE": "1514882",
+  "MD5SUM": "88e4f6788b86282456b5d5b387b3e4ec",
+  "SHA256SUM": "d056a2d191f3e35ebe61cabd3cd73e9afb817b4da0f446508aad2e5460dcc6bc",
+  "PGPSIG": "iQEzBAABCAAdFiEEZqjoqLGqy8OL2Wv1aqwApcNaU5kFAl7WNIAACgkQaqwApcNaU5nkCgf/U3Fyqmkm5tY6sUdp2pExpji4V0m8fwnH6LViVxAULVWmXsTYV+4AZBFzTsljozvQQWd7bt2Z6wN784z0fHXqBrbrKETE4/uOQHti9MGXc1YSWd4hf57WpCmKU3nMIqwaSjq0kRqNaKmqUkt/EE5DqnDcAm0IxuoVbF7c9d+btN4W3H94FaNLrwou6WUpx87rqv+jrNjBuSExVD2S/dmOHqNwipa40eHihYlY8gzCtI0v4WC9Bl/fTPaLpVni//sc8tuBxLmeYJvRyvZlS/BGp+qZfszNcBsNjZcKYsOQWUmBQy9xLIQUe8+qIDbwrE8qIXa3cnj0+sM9nNCiGRBkcg==",
+  "URL": "https://pypi.python.org/pypi/libvirt-python",
+  "LICENSE": "LGPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1591096406",
+  "PACKAGER": "Robin Broda <robin@broda.me>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "python",
+    "libvirt"
+  ]
+}

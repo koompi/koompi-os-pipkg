@@ -1,0 +1,24 @@
+{
+  "FILENAME": "liblphobos-2:1.22.0-1-x86_64.pkg.tar.zst",
+  "NAME": "liblphobos",
+  "BASE": "ldc",
+  "VERSION": "2:1.22.0-1",
+  "DESC": "A D Compiler based on the LLVM Compiler Infrastructure including D runtime and libphobos2",
+  "CSIZE": "9925724",
+  "ISIZE": "71901807",
+  "MD5SUM": "05582cdf5fb4235612e15c5226e4ea35",
+  "SHA256SUM": "0244f3a2fe919ec52dcb1716517486564d60549b1b64bdea795dbb74c4ae5ca2",
+  "PGPSIG": "iQIzBAABCgAdFiEEhsATU8sh1GdlMu4OnwqcF7B4bxkFAl79AIQACgkQnwqcF7B4bxlaBxAAjDSr1Qotaxxav0ebkgzUS/DKZk3h8x9zQuVSZvA6dozH1Lt3uFWQYC4eHEUJOvIaqG2CdH5CWkphCJNnXZIVcqMSlQ6A/+YCaRnSX4pENZZ4scN8Rk0uwQQuagOFq03GURvTN0VYmTu1WMCMqemt/A7cOgiV2N6N6UAV9ywMFlhoAz6g4oDkW/q4co3krgPyAcBOSm2GXz3+HGnMuyg2wX0qFhVG9JgmfqVxb568HPwsP6hMZRwefDFhSy3lSgg+Oja72JmJZ+qHxX5a9apU6+MIHxj+r3yt7+dKa2mJTDQf6kCyVftOPfMcpY5hDMm/TPW1TB4e6MH1v8Xa23yKXnvoiasRVI3AraPmjGVbafoe1UqPv076c+GOD1+gVgQ/ahF7x/loIvk3OfabRvHwR+7Qy7Y1ozf9bibm3akVLTfn8A+VSfC2SJJVvejiXUCypKzpR6eQ6RVWF4cVTNnM7KIXCEJ312DWcBhmBppYl2+6goIegIMlH64GynzKkJNnbrVCw8OKzu4EzLYyVbhWQYjo5WE8kv/3IFvtlAQ44Q9UYUlKx4EvG6BWAjLBRET+ev3aXnP766JV0IYK+nqon4P9m3zv1Fbn+0828E2r1LZPgtYfjeiMsU+/MOh3kOq+RoS6xuT1XDm9w9SUnr97jilzyqIFjxxQZ2gMdeIiMBg=",
+  "URL": "https://github.com/ldc-developers/ldc",
+  "LICENSE": "BSD",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1593628217",
+  "PACKAGER": "Dan Printzell <arch@vild.io>",
+  "PROVIDES": [
+    "d-runtime",
+    "d-stdlib"
+  ],
+  "DEPENDS": [
+    "curl"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "FILENAME": "libxdamage-1.1.5-3-x86_64.pkg.tar.zst",
+  "NAME": "libxdamage",
+  "BASE": "libxdamage",
+  "VERSION": "1.1.5-3",
+  "DESC": "X11 damaged region extension library",
+  "CSIZE": "7280",
+  "ISIZE": "17644",
+  "MD5SUM": "bd10cbb5d8d7bccf31624db2dc7d88fa",
+  "SHA256SUM": "3a0b8129df80e15f0c230d51a04e8e7487d0de1d8e7aa54b7e70562e2783fa95",
+  "PGPSIG": "iQEzBAABCAAdFiEEhs/8qRjPOvRxR1iAUeixSKmZnDQFAl6/4i4ACgkQUeixSKmZnDTK8gf/ZlrbX+1joRo4WI15MlN4/W3YKkJXrF3u6dm99bsS5qYZRxv0DxPZNSfKuKH07Ok9JHdP/vEPl3xUO/cHnyhlq4Ef4u9GbB+zd7hthbdWe1cicpTmyK2cvnXqMbueiLgc7jec5Z5C5hcXzy1XizAsdOAW0rQD1G+Y/lgfGk5q/GBMCVFmRk2U8j45trZSs2nySRr31O/HYXYzstCZXJXkNrPtHP+BmEwgR0U0dBMbW1qMvSqbSRLzMBe7MxsF7hnrG2QD9AzD0IdJ8P2C6RnKut+LwY4+1W3HuVCgnUDdvHWGmGAsNlw1xr47QtVzKFZHEp53oeoE6dCn4cxtdCnvmA==",
+  "URL": "https://xorg.freedesktop.org/",
+  "LICENSE": "custom",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1589633533",
+  "PACKAGER": "Evangelos Foutras <evangelos@foutrelis.com>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "libxfixes"
+  ]
+}

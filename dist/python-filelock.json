@@ -1,0 +1,23 @@
+{
+  "FILENAME": "python-filelock-3.0.12-3-any.pkg.tar.xz",
+  "NAME": "python-filelock",
+  "BASE": "python-filelock",
+  "VERSION": "3.0.12-3",
+  "DESC": "A platform independent file lock",
+  "CSIZE": "11616",
+  "ISIZE": "38624",
+  "MD5SUM": "da539931b10111eb0610444c4bdaa3a0",
+  "SHA256SUM": "78f6a64f0e29fbb00e19fb000cda6257ae917bd04153b422f544021e3232966a",
+  "PGPSIG": "iQEzBAABCAAdFiEEhs/8qRjPOvRxR1iAUeixSKmZnDQFAl27Hy4ACgkQUeixSKmZnDSf5wgAkSF70PoFu7P8ifeuo7iRwwq4mpQZgpFPKsArfLgW77hklX1tN1UThMx8I2XRVl+VGzpGr0WmNAOlQvzABYLL7aLnYEwRxt1fu9tO8196sa5mPdtv8xIIaVOl4LupMgY7VBo3I2OhpUuUvrMzlea4Bn5SqmH1u+T56rAJwkrFNPOwlS2WkaxNriDEvrugWOndBx3OOB2qzfkgh+I+kcXvbZ9Y8IvfSbgTxYA2CZ9ttKcR1WLwZDrZHKWzbKGWrW5Tt8C8Vp2YzU96ib9jLkIGFOPk5H9RALW86nsbOWkgjGOxy3LFvI/SWKyITpqnZ4f0ylHvSr+uPgXp/nZn8pXDpw==",
+  "URL": "https://github.com/benediktschmitt/py-filelock",
+  "LICENSE": "custom:Unlicense",
+  "ARCH": "any",
+  "BUILDDATE": "1572544255",
+  "PACKAGER": "Evangelos Foutras <evangelos@foutrelis.com>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "python"
+  ]
+}

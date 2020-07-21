@@ -1,0 +1,27 @@
+{
+  "FILENAME": "kvirc-5.0.0-1-x86_64.pkg.tar.zst",
+  "NAME": "kvirc",
+  "BASE": "kvirc",
+  "VERSION": "5.0.0-1",
+  "DESC": "Qt based IRC client",
+  "CSIZE": "5704455",
+  "ISIZE": "37369897",
+  "MD5SUM": "a6a5070c83c68009f68899871e90e482",
+  "SHA256SUM": "74c577576f5b28450e9f4fcc68cd0ac9eadcf671318e6f26d93b72477694fbdb",
+  "PGPSIG": "iQEzBAABCAAdFiEEzgvecadZqH8j8PfYth284QkBwWMFAl7ZDSkACgkQth284QkBwWNOwAgAkY3T1EvcxcbgW1aJAhO52NofKGP2amIeny0RmcVzebeLROGwnccsYwOcFh6nEKtXAnd7u5c0IZGNzYXHglTqTBROlmg/sWt5rSte08xlaEpjpQExot/YlJJMoAPiVmt4CciJL7sNk2r6rVYOuMnODCbxnT0ked2iOBUxq1S2N5fOp7I+cLQRMfQHN/AnDa5G2e05u17Ua4yKwBBPWYR9G4032i4SMmTrz0nFXtkuvz3nNo2pUYI9apsuuSurBmn70DJ1qh2DwsjfMVObavByOqWMu9NxqxnysTwSBw9xmGkTZ8vvmyrDHSGmN3hH2g5LTWHB3KtGzmEj0+mNTRMDyg==",
+  "URL": "https://kvirc.net/",
+  "LICENSE": "GPL2",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1591282810",
+  "PACKAGER": "Balló György <ballogyor+arch@gmail.com>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "enchant",
+    "hicolor-icon-theme",
+    "qt5-multimedia",
+    "qt5-svg",
+    "qt5-x11extras"
+  ]
+}

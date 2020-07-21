@@ -1,0 +1,23 @@
+{
+  "FILENAME": "ruby-test-unit-3.3.6-1-any.pkg.tar.zst",
+  "NAME": "ruby-test-unit",
+  "BASE": "ruby-test-unit",
+  "VERSION": "3.3.6-1",
+  "DESC": "An xUnit family unit testing framework for Ruby",
+  "CSIZE": "241983",
+  "ISIZE": "1086744",
+  "MD5SUM": "5453b205ca0598c0f456466af898b3ca",
+  "SHA256SUM": "4aadea394ae356103d3047e73d70da4a482ebcace4d4890121eec042b36ce403",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl7giPwACgkQeGxj8zDXy5KMdxAAwgKUNYfOCNtBKBtkJGrNJ+6QC/V6Kq08C/8F4jYq988CZH6vyss+k1otMOpHpeM9JIo29BSxQi3QdJHBq2skNmH8lNdaMUvxr8yUMVujmQRWtVnmc3OtgkzUqEww4FcNDt/pDYPZ1rNehUabZ1UVv4cHr6hwY2VhuGfIvFUjIJ+LykQDCqcdppIN2J7bjuzraqIUL/3aoMOcWoiQITx15HVIugiz+cagukrSWl3fV8cwKlSqw6VKLJYX7vCSXPixIUM1z+jiq65nD2hxNu/gjZY3PwTPGoURp/o5RTLMPArn5muI+eK5fJJF4CIppdcIEH4hWh8JwM1wCG7hPy7YCpd0kALzf5SGdXc0r8XKcB9R4MHkPspH98lEB/pXhaoJDnHRvP0oPPe+eQum0XhOY67SYfDEpSO+Qf+k/TE0wXzd/SlIDkcSvhrNOfEBy4xMH5hSZv3sccJ2uA29UiS+/+D+zFaZhQ/4vPB5uueNlE8UaDeXzoAHZD0BwvorTe6pSrKWI7owVqbBC19wRjJnKEBXqy+McLj+Lk8hxflIJxmoZarKaxXn9mY/uydJUieUOo+fl8U7drHh15vGaLX18LZspvMxKwWP9sQSqQnp6PHB27dKyaUyIcHNWD1s4kycmTYkvdHbGllDvFchkCpR8DAXBGtFTY7XIUDM+nAqa8o=",
+  "URL": "https://github.com/test-unit/test-unit",
+  "LICENSE": "GPL",
+  "ARCH": "any",
+  "BUILDDATE": "1591773334",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "ruby-power_assert"
+  ]
+}

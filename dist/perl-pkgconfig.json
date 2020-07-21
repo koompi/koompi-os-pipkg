@@ -1,0 +1,23 @@
+{
+  "FILENAME": "perl-pkgconfig-0.23026-3-any.pkg.tar.zst",
+  "NAME": "perl-pkgconfig",
+  "BASE": "perl-pkgconfig",
+  "VERSION": "0.23026-3",
+  "DESC": "Pure-Perl Core-Only replacement for pkg-config",
+  "CSIZE": "29802",
+  "ISIZE": "164430",
+  "MD5SUM": "37cf7efd41030bcdcb4b762bb78d58f5",
+  "SHA256SUM": "35d817586df456404c09d72adb55bf9d3b0c8735a3c105df23bc5b9e9a4a307f",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl7vh5MACgkQeGxj8zDXy5J6jg/9FXJ4LemC8jDU8uVE1jTQf/SOd4/sODSsCo4Lfyph+8FSmwwI9H56kxlRojzHo3WRC2bGQydflxYZuVjVy1Z4DpEq72Mw8/OmR48QH9DuUwx78ZfV+Ujed12ReapkS9HlU05yh/lGp5u+bsYh8IBJ5XGUeOARTXbmLlMY+ybYQU+AmgzZZAMbNjD4n6WBAHrd3HW3qpJoNdfOdujV2EMu2Kkke2Ikh3YeQ10fh96THqadnUbwwr1JqNiu2hPiZeBArgwhVdzy+etDH0Ia3DP+Za6GZr+Ib5nzP6XnDnC8jLSIjyVjyavjy1Kqsl9lBzQP62RL9aX7tf7aMUL/JUvi+tmAOR5MTDIfwvJr31ejILumaCawpSRTZ6bivWYvUUXNv8GxD+kEaM7ZnMUYKKzdaGlqfmBMlyH8Nl+5FOOLlRqSd1B9LPP//h+iotSIHjHL0jGXpC3xiUZaATT6tnzfykU13a5wa5doIyn9tFKIAHSACIloB5TPFC6rOi2yMCNkuyqeMIxGMEM0HW93cIwmsMpPLXQw6TZ6j0QI7s77CeXIayx1PZLNhGnnOXh3iig5ZM5QL9+Ptyw5hNo1BRuTx9+LLBZNSXkD9AEWdLhhgXq4GSoj3J1LPAStXFX59bvhnOh6WWeVYbIMDKfD9b9+J1QEZUQCiMamwVEuAddxAbc=",
+  "URL": "https://metacpan.org/release/PkgConfig",
+  "LICENSE": "PerlArtistic",
+  "ARCH": "any",
+  "BUILDDATE": "1592756003",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "perl"
+  ]
+}

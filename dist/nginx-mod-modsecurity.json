@@ -1,0 +1,24 @@
+{
+  "FILENAME": "nginx-mod-modsecurity-1:1.0.1-3-x86_64.pkg.tar.zst",
+  "NAME": "nginx-mod-modsecurity",
+  "BASE": "nginx-mod-modsecurity",
+  "VERSION": "1:1.0.1-3",
+  "DESC": "ModSecurity v3 Nginx Connector (module for nginx)",
+  "CSIZE": "10204",
+  "ISIZE": "27496",
+  "MD5SUM": "251c3c1f0f5f3481eac5699fb32e1ac0",
+  "SHA256SUM": "6bfd17dd6aa5cc90a4f80159d52f204cb8f2de85ca22f0b828f5006975106160",
+  "PGPSIG": "iQIzBAABCAAdFiEE7MrITBugimzI5j+78i+x14p3rqsFAl6gmcMACgkQ8i+x14p3rquguA//Uso2Uo+0gxAf14JWpG3Qk/UctIOMjv50SzMRFDtx4ak+yFY3TMBxdZ8PrbO39yK+1KzeqNb3pUV1kr7eSIAaj+uJhzNWzHKrmWCnpyLTYgiOxDT5ulk2tID09Zj3GNg45ta9vZmlDlZET+gCoKMz6lzENnFHaOz2JCHo8py0Nq3T6hL+4K3OXIX+h29LdpXDK9Ba3Mkt+pZDLZgqrIf2Gk3uMZ+B6hCCqAs1s2JCzGOuBowv758jb7v9yLD0PKIYjDfiuhTRIB4ttRJjJMeLD0Bj+dut44YzOabBXXMl0eZdJY0pnhfskHjrfE8szqRLXc3IdAKH/OU9pa3Gph0Ul9+dadqYhSr+zSf5rRAoEMIZCjfDeAVR6N9ZOgDDwv7ccIsMaKu/BC6QMSdRqnuqr+VodSv6WQbX/TjHBzvVFYlIX4lTvp6rBi32aq/VXEYzb2kw2XabyZvAaxhYtpYxgjS9egr93LWqSDPsGWb4ia+BwWXRLvm+bdtxpPcdGzjM1L5VN8QqaAJ8l5L6P3s5to0I8L3piFywPTGVVnIpaY/Ft0S8KNVOd5LYLSIpxmgd5WQHEV+v6Z1lpQFNipAVob0gHg9yb7uTHyceXpQIT65X9o9Hr8wYAJE5fVrLoxDP9E3Jjo7IryYfs3Yg0sAX1pd6myT0b/LgDCL55N31qF8=",
+  "URL": "https://github.com/SpiderLabs/ModSecurity-nginx",
+  "LICENSE": "GPL3",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1587583348",
+  "PACKAGER": "Giancarlo Razzolini <grazzolini@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "nginx",
+    "libmodsecurity"
+  ]
+}

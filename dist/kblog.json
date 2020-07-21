@@ -1,0 +1,25 @@
+{
+  "FILENAME": "kblog-20.04.3-1-x86_64.pkg.tar.zst",
+  "NAME": "kblog",
+  "BASE": "kblog",
+  "VERSION": "20.04.3-1",
+  "DESC": "A blogging library for KDE",
+  "CSIZE": "164142",
+  "ISIZE": "616068",
+  "MD5SUM": "356b62327f3bbd00987fadc906c7db2f",
+  "SHA256SUM": "b5cf3ea37dae0390b440135efe5918373fccc698b29f978d83a9db40d934bc24",
+  "PGPSIG": "iQEzBAABCAAdFiEEFRnVq6Zb9vwrc8dWek52CV2KUuQFAl8HAq8ACgkQek52CV2KUuS/Wgf/a+VJ9trLxYx4AX92zo0jtTKKz5XINCDFQjd0f2sDLUJigwqPMRce/RpyvdShJykSs08NWjlQbi9rCfastbArLpHzMvum4RF44afBht1ETVk8FjmuZtt+ITdb3ExdaO+HQhFNXmQs7DHF9+Td+5r9EAn2DCnJoDnsz6l9F90Rk6ANnaUwdJIrdW52zjK/5msilJfvi69gDuJSa44u0dueEon4EteqcAAmODjgfmyX3U/GgLE/FvhGYBvn5U4aSnB5F5o2vBusoooBcVKyoaz3XpZS03xezmNWa/suLRUVOYVjZI4b5u4RTkRb/KOvw1RnOGtCjC1/52Ltg9juW3XZVw==",
+  "URL": "https://kontact.kde.org",
+  "LICENSE": "LGPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1594104147",
+  "PACKAGER": "Antonio Rojas <arojas@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "kxmlrpcclient",
+    "syndication",
+    "kcalendarcore"
+  ]
+}

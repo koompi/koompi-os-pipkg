@@ -1,0 +1,23 @@
+{
+  "FILENAME": "firefox-developer-edition-i18n-bn-79.0b6-1-any.pkg.tar.zst",
+  "NAME": "firefox-developer-edition-i18n-bn",
+  "BASE": "firefox-developer-edition-i18n",
+  "VERSION": "79.0b6-1",
+  "DESC": "Bengali language pack for Firefox Developer Edition",
+  "CSIZE": "572850",
+  "ISIZE": "634643",
+  "MD5SUM": "d5672b7e089c829fdc1377ffac9e74c0",
+  "SHA256SUM": "0fd3ff1453ad0bfa82b7e3cd4aadff915cc220f1ef2bd344850f724bdbef0ee0",
+  "PGPSIG": "iQEzBAABCAAdFiEEYB8g8dG7v0p4z1tt9rFhCz7NvJ8FAl8IbMkACgkQ9rFhCz7NvJ/uhQf/WtD803clRlDKwwF/H5lBa9n3PDw8RbE3VT1M2FW14zKXu4njufp4mMof0OkRqsa6gVYV0Ns4UYFuLAMQae6SfUSuSBXSGvdSQq8OKOiwhaOBqars0s5tRDlZzcocDJUItjSlF05Bxi6EB/W6MQunBwVGaoqsat4g6AhVYxHLbl84BycuvM73SOF/kZ2Pnhn37ALiRjWmX3jzR1UVgXG3KN9hu2BchI+RgQb6ZEklTAqrbXRdI8N6hq8ujMwloXo9ELoe2FrN8UMzu1cIGXL6qzkcedUWzkOR4FLRl+ulUEWNLTSoiIpHaLYwqnqhdatxS4w6vNMT6OxPrcEbP3l2XA==",
+  "URL": "https://www.mozilla.com/",
+  "LICENSE": "MPL",
+  "ARCH": "any",
+  "BUILDDATE": "1594387381",
+  "PACKAGER": "Andrew Crerar <andrew@crerar.io>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "firefox-developer-edition>=79.0b6"
+  ]
+}

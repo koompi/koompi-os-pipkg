@@ -1,0 +1,24 @@
+{
+  "FILENAME": "python-py-1.9.0-1-any.pkg.tar.zst",
+  "NAME": "python-py",
+  "BASE": "python-py",
+  "VERSION": "1.9.0-1",
+  "DESC": "library with cross-python path, ini-parsing, io, code, log facilities",
+  "CSIZE": "160000",
+  "ISIZE": "751122",
+  "MD5SUM": "3b925d58752b7823efa9729d41e4de7b",
+  "SHA256SUM": "74bd35e5a0c65ee49d2080498857845fa548df025b25396f5248e5b8adb28067",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl71XIkACgkQeGxj8zDXy5IMzw//d9zhVAUWLV8hhAXHI/iAKh0r/BGPbKZV2LjsylVda9EJ9q7x3mJx1hBEkaaFNMBWUteDaS1mNxBiE+pL956Ntdj9txCzw7y7sUSvdodT5cgFul0/xIyy0h85Fgc6D1e8MMzUWPgOsbA2Kt3f3e9a0ji16YqO2wwFsaEzk0lrU/0ihyzi45k3BsmlehhRma8Vvo7deDllv/Vzk0sLLSMj/Ilc17BaHFAECptM5YFg8yORAS5mcC4wKQyucLRW/tQ51W56sc5GXK+SPTT4VIR4abIJI6CVfEfyKN0gnAX2kuBZJVAxYe4C7NcmO8FV2ZOMfH5zc1wyoRJ8Kok47VF6UDV0G9sv3p0XOBl3VOUsI3nzdzARojZbb+zxIElvgFThIKkrAeVAmijhWU6BSOr6PCNWXY1xm3bHrTg1dHfROSDHHMCvpVALS/SwCG1i2N6vhHAfMscK8gCp02LC3Om2SD08x4hQPDVlb38govCDy6KRJfMxhvsOukTkrhX8fzhW6Mmgyt/Vem1JRNMSBhfnx/sVQ5D0glct/QaOoCa5LpWeujOSB3vE3xTL5hjjY/O6BcSV7rz0IX5Acdp0fxPxRorBo6KLyRvHiarNr0x3pZG27Rq/r0vBT9SwJzezv76b0fTACQmjCmP6zg+Az9jDlzpDX1+isjbMWUmv09WHhEw=",
+  "URL": "https://py.readthedocs.io/",
+  "LICENSE": "MIT",
+  "ARCH": "any",
+  "BUILDDATE": "1593138184",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "python-iniconfig",
+    "python-apipkg"
+  ]
+}

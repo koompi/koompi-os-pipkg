@@ -1,0 +1,26 @@
+{
+  "FILENAME": "haskell-either-5.0.1.1-65-x86_64.pkg.tar.zst",
+  "NAME": "haskell-either",
+  "BASE": "haskell-either",
+  "VERSION": "5.0.1.1-65",
+  "DESC": "An either monad transformer",
+  "CSIZE": "33671",
+  "ISIZE": "152124",
+  "MD5SUM": "39747aaffa6cf2bd4464c34d06322a7c",
+  "SHA256SUM": "22f6d6032b0be52626fde474da5cbabfbb921254dbf12aac994d4de2519fa40e",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl75MhwACgkQeGxj8zDXy5KTww//aP4E1Fl6q5WTjtQurI91XXqoDeQ8VGEkNJtv6hmg/h//SHeB7YRybXZpNM9pdP6xHVhjI9Lug2JKV9haYMcv5bKU1mJ3kvbA7lhvjuNGMrDPAA6reQSsEmWhueyGIyyQE/dCmek12cO06uJi9Rn7iu9aT14gZDVblGkmfP/vd8LA0PBHPf3vunvFzHXmnjBJomt2k5FrvL+OcyWLKQ3oJvKv3VptSzXR3bK/2Iu/gb+c/JMxy/IhUasCIi3Knqoy0YI9vAEFizS4dOBkK+Qkvj8gs+rpFVeqQxf6Z/pANtdzPK8LWIocHW8VywMxmEsDLbOeXz9tYs4DBbVs+i/XfXoRWyKNhVnkla4d9eMKMa2uz36qOaN2Z9I1pX686DyefaEniRHxp9yeeM5UziJuLJtxL07lLxsAalt1LL8B2ILNtfTeetbByZKcrbOisSVash/pPfaGZ4pLQxA78IwgmkICB6xAOX2T7rVb4t2qMNRJbUiZFAhkUU6cELv56Sp5fb+A25tfLRBoaQ4+wFQkwqSDBlyvftGkPqN1ABZFBHGiy8ZHaVNJmtp7J25zUPu99znMvHFA2P4Utot3yOLfYeUnaFOumyWL13dyHo5s90az3d1rcV5joXBHO7x/TGWbt0piXRXUhuasFQRNayDWeoOtHFwYI3shKjNTEaRVaUA=",
+  "URL": "https://github.com/ekmett/either/",
+  "LICENSE": "BSD",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1593389567",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "ghc-libs",
+    "haskell-bifunctors",
+    "haskell-profunctors",
+    "haskell-semigroupoids"
+  ]
+}

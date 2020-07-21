@@ -1,0 +1,23 @@
+{
+  "FILENAME": "python-googleapis-common-protos-1.52.0-1-any.pkg.tar.xz",
+  "NAME": "python-googleapis-common-protos",
+  "BASE": "python-googleapis-common-protos",
+  "VERSION": "1.52.0-1",
+  "DESC": "Python classes generated from the common protos in the googleapis repository",
+  "CSIZE": "73932",
+  "ISIZE": "800780",
+  "MD5SUM": "da9502dd0dff5dda503c477ced2a3aef",
+  "SHA256SUM": "2185f36291265af700096002e0cd3de17b0e6af695e40e49aca4b105c4bec50f",
+  "PGPSIG": "iQEzBAABCAAdFiEEcXAmqdR3n8U5QHJmQPVXtzFJYQYFAl7k89UACgkQQPVXtzFJYQaB7ggAiMLUJZjeh2iW/dLSn/BYhc1UbapoSreXfCcKZlvr8frZ2AQg+bneovi4i2ILG4c3YDYWSslO/ncS0KG4ZYRrVnbruU7Emwn5QVyLZCtg0/rebAlaSO4sK5dSvKSUuOCf2LSQg6pS8GkN+c1w9qkjmDXIUPjFC7EJ2ui1l7tsri5qcDQoZSidqS9gPH4Z0Ef/66PQf/lzrnnRU+uhIGoCwDk/YLVcK8i1Yy5o++8qaXv/uTR8Vkz8kNKBbEgX86nUVsJFWwyKkwVV5x1HX7ucL+ZUSEQjZvh+A2zlE15LfaFnqv7KkMDzbCwMK3xfZE7P7GQ3XACCMGNzn46RpxI7iA==",
+  "URL": "https://github.com/googleapis/googleapis",
+  "LICENSE": "Apache",
+  "ARCH": "any",
+  "BUILDDATE": "1592062907",
+  "PACKAGER": "Andrzej Giniewicz <gginiu@gmail.com>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "python-protobuf"
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "FILENAME": "lib32-libxdamage-1.1.5-1-x86_64.pkg.tar.xz",
+  "NAME": "lib32-libxdamage",
+  "BASE": "lib32-libxdamage",
+  "VERSION": "1.1.5-1",
+  "DESC": "X11 damaged region extension library (32-bit)",
+  "CSIZE": "6012",
+  "ISIZE": "14336",
+  "MD5SUM": "ca65b02cec57e9a8ddc143b5aa0b9d15",
+  "SHA256SUM": "ffe28dc377f2d3a6f89c673f55625d25d769119f90fbe056e0fb86709154fdbc",
+  "PGPSIG": "iQEzBAABCAAdFiEEFRnVq6Zb9vwrc8dWek52CV2KUuQFAlzECS0ACgkQek52CV2KUuRzKwgAjiYcp+sIx2fbGOPuo73EvoBfL2+qle+ZT0bv8PQLWm3xLNcNlQGTVoaiWBywOsZVJjr62Btv8H/JsD5LDcLITJZLmwC2Wy4hcCX0HTpBLX7gTr6G10alxAySIPjbYRgQ+YuUsx0TZFEpWd35AObCNcS4m48Gx3tFkVju+qAXWwh717WhcQ91T4QJb9zEouADdhia7NjD4osYNqmD5JRujFNPmIPIa10LJsoTgzu/Q83UPfJg6OAy0j0CJg+yZKVWd6+fqg0ZvaS6mU+YEPIuppkRh3ZCfWIu84I5xVN0XG8RhukJ12l8DDtKxH84PXdkzMaD17WLSF2qsq9vWdGeyg==",
+  "URL": "https://xorg.freedesktop.org/",
+  "LICENSE": "custom",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1556351204",
+  "PACKAGER": "Antonio Rojas <arojas@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "lib32-libxfixes>=4.0.4",
+    "libxdamage"
+  ]
+}

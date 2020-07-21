@@ -1,0 +1,23 @@
+{
+  "FILENAME": "libstemmer-0+713-2-x86_64.pkg.tar.zst",
+  "NAME": "libstemmer",
+  "BASE": "snowball",
+  "VERSION": "0+713-2",
+  "DESC": "Stemming library supporting several languages",
+  "CSIZE": "113417",
+  "ISIZE": "633192",
+  "MD5SUM": "a515282364acd07420c5370aede38205",
+  "SHA256SUM": "5af763a90b17293b28ee4d920267f5b2f8cab1c01fa51d5dd148adebdea9c3fb",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl7Do9wACgkQeGxj8zDXy5KzJRAArGYrBYF8ZZs6ZPkn9ow0ZPcR044nytntCdOBkqTUTL4tboCueHTR75UBrP/06RJBzl87zC5DXfUskGo/AHVimNNixM3SZKgraoQL3catxob7TtfFSbfWBmFaw4W6spvFfB65GcCndE9eEqqy++asCHDruCOYAKgm5MjJPzP2ZiPpcE1Vtt16VRqD4uG37Kx1zMCyP+eGsTtA6Nt5oTJvsqvNEmrApyLt4GcaNqxdcyGwZ2zRuTfH1KI7/wO7WZ4igKJU1BHJqqbJocxmaAcdHD49TPlkWjYmj7PFpWAbexmUdeJjQKoLyt99bicXBArnfrUE96znGgWmnkNFG+qwhzwiPgQYliGZjsHcOmYIqPvlbG0SRwfFD8lBRrWYbAdQ2JYtbYk0AO7ksr7Q2zEj6hr0P4tdYewduLneOI7sy7NzmmJgI4e4JeVz7PJs39wSJWp1P+LofeUDw2WISPTjWe+1aXbNOnacKuSf12yp7DL4R0rUMZlD/iOX6Vd5u6tlXShNzQjJgXKULe9Z7hWonakm8zBDlFpwuJy1bza2pFM4CkaHA7cqyB41Aq9Ik5cP6GBce5FwAHcVClD/IwUICWpETp0uCagBk/Vm4PpUvwwX/s9KyqHuw08HWBL94jJJBtRJpkTCsZy++JiSTFjDbAtjpbIaE0+zENduNVcgpnw=",
+  "URL": "https://snowballstem.org/",
+  "LICENSE": "BSD",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1589879731",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "glibc"
+  ]
+}

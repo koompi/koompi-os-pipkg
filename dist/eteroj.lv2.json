@@ -1,0 +1,23 @@
+{
+  "FILENAME": "eteroj.lv2-0.6.0-2-x86_64.pkg.tar.zst",
+  "NAME": "eteroj.lv2",
+  "BASE": "eteroj.lv2",
+  "VERSION": "0.6.0-2",
+  "DESC": "Open Sound Control for LV2",
+  "CSIZE": "49597",
+  "ISIZE": "135673",
+  "MD5SUM": "5112ea8acbac8f0066346a156ddb7eaa",
+  "SHA256SUM": "70fc6fd848b78095f886d786aa5b5169aec11d30282a1e35006f22257e28b1c4",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl8Eo5UACgkQeGxj8zDXy5I8Vg/8CZXx5oKnuK67PCx7iAXyJn5znNCxohKD2eeXOJbbNvQoIb061wj4JuGXT28ehstCos8RqQo5fgdZFQwysl/HK9m2CpV3MpKQI0j7m57khHP3xnmm83rvh0GSNPD3h2OjWDWPQJYv/bY6N3UaSNd2RftazMWHTwEUhkB/9LZtyTZabeXv39H4YfYp5r9vOsYJaCdHlR+kKYdl8E/X4yUPrs6CXNh7Lsut6FoPC6dvdMhHfMKEwrHTsOVJ4qsU5RW/GB3S5Sao3hwIr0AFwIR2aKDx26aDryKHwaQwmRQOZ7ZN3ADKrBappNK406Hej/1/aReOoRXwm2m/oAdkW5xIFL66+6JOGg3vgDWLp4/zY1sDvpoZBenb9ArwS5Q8GYoVE5PStOJH2fDBF1YdP+Fp187G4mB184tBV2VBj7AVDCRAeY/sh68jr3eAZaX7Qs22WQl+L60IwZ6PBFMHs99+z5iynLvQ935JzY0Wd+LD2xEOfNiYCl37gTgJWtUm6bMFxNTHsVMp6ZcRVEEXCq8lk0jiYqBBAAqwlh3yv8NF5nXQJyB735hfN62a1Fk1i59ZQh2nXloDI8S7fwz/fwSaYeHN4QucrT5mPK2AXKhDElfUiUgmDuH+mkBBAKBNymAHDtF9y4BnTz8rpNPZUAnM+bY7Q0vguL+vBzql9E6dLFo=",
+  "URL": "https://open-music-kontrollers.ch/lv2/eteroj/",
+  "LICENSE": "Artistic2.0",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1594139519",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "glibc"
+  ]
+}

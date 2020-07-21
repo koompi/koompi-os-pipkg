@@ -1,0 +1,23 @@
+{
+  "FILENAME": "ding-libs-0.6.1-3-x86_64.pkg.tar.xz",
+  "NAME": "ding-libs",
+  "BASE": "ding-libs",
+  "VERSION": "0.6.1-3",
+  "DESC": "'D is not GLib' utility libraries",
+  "CSIZE": "122028",
+  "ISIZE": "665919",
+  "MD5SUM": "51b663cc7e0ef00b669463b52f6da671",
+  "SHA256SUM": "5432055013ef1e3d4d1079774be6f2dfc37f53aa4a3ffb4756d918b1a7ff0d05",
+  "PGPSIG": "iQEzBAABCAAdFiEEhs/8qRjPOvRxR1iAUeixSKmZnDQFAl3MRkkACgkQUeixSKmZnDQWqAf/daN+F6aKCR7ff23x3FpUa2eiJdaT6m69SCIEIMK9nsc7Pg4b6hfOXzW67mYQs8GoBk5qfTHpgzoLBRb8gK+sFzoGxdB7YpFzIZ42lO1TkvpY/c9WFsdtWrZYB8BZ8CMBFQqGbWfipYQMOlZ6k9lUS7UwViHlnuMVvdM8MwxV1xIZP7+sy10OSpAqcMRy+rBmYlIRuuWTxixNDYzaxodAARrsAgDougrW42jC9Vp/ZzkbHPAuwZQkw5/P1ujNxN2TmvWFivtKeiXT4cxzwI82HXjxKO43KZjb/KdI8iT+vS+OoHMmRtCDskOQirUO+iTZ8fa0ewHqoufjWK2JwrJtyA==",
+  "URL": "https://pagure.io/SSSD/ding-libs/",
+  "LICENSE": "GPL3",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1573668395",
+  "PACKAGER": "Evangelos Foutras <evangelos@foutrelis.com>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "glibc"
+  ]
+}

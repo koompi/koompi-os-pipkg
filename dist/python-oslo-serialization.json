@@ -1,0 +1,28 @@
+{
+  "FILENAME": "python-oslo-serialization-4.0.0-1-any.pkg.tar.zst",
+  "NAME": "python-oslo-serialization",
+  "BASE": "python-oslo-serialization",
+  "VERSION": "4.0.0-1",
+  "DESC": "Oslo Serialization library",
+  "CSIZE": "34165",
+  "ISIZE": "170586",
+  "MD5SUM": "24caf2de8ce99fc4a38737516dbe38a5",
+  "SHA256SUM": "4ba18e855beb49db8f58f487ad28fd5f170c55b3659f037627733ecac4c9444c",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl7prMoACgkQeGxj8zDXy5IItg/+Nj8yihYKfiDl1Q+YIb5eSvgAtg3WL0VworXJAiiTmAQrBFIPa+bCXFvV1GUBICJ0TEzSeKt7wmMoUJzdBcUk4mWFCRJExGphK4tooaSjl57hO+xM05IJPKMlUK3xkKZYqf2feVszD3Ol58Zd7InHL4Mr0sCCayt3hs8C1c+78/ESPjeyMzV5B1D22vt2BaAfanUg2Ajgrm+yJq6Jv7OjEavA/TYCGbUhRfZPquQ8rhQySVxC6lhajHMykjkjHvseNFS0FoC+Kc/ZGOpgSnH0Yzco2f/DNr6GHIIiGCS4chyRiW3Zv7/X07iTRv1NNlH+wRtjn3SHqxfSaw/WCfZouX8Ds+QkWthkRGUBaubo1W4BlZmFIeQjSfxYg09RsBYYJwlA1PsAHsw2MH74e1375qpfLxT+0ZLUnYcRZ5CEr79sXBcxFI/PvbQPP5ZYeyJc+8UkmAJNcuZ2Dhl+E28u3F+X3ISbRSiIbZwgqd2/uTM3NsxXbcuFibO5QBsRVxT2HuocuuVUSixowzmTGUIaGP5m265SDHjwHlyimSJgxGSDSvrqj246WRExfO3CnxWMLcS20Psr7t4BC9cwntyY3ZkMfolICrQudIx9z/MdwG/yKtT5Eb8JgY7AQeSAsyErvY31ZwpxckeHxNueItftcgp9SODyjKZhrP4erc9DWNw=",
+  "URL": "https://docs.openstack.org/developer/oslo.serialization",
+  "LICENSE": "Apache",
+  "ARCH": "any",
+  "BUILDDATE": "1592372380",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "python-six",
+    "python-pbr",
+    "python-babel",
+    "python-msgpack",
+    "python-oslo-utils",
+    "python-pytz"
+  ]
+}

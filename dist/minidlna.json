@@ -1,0 +1,29 @@
+{
+  "FILENAME": "minidlna-1.2.1-5-x86_64.pkg.tar.zst",
+  "NAME": "minidlna",
+  "BASE": "minidlna",
+  "VERSION": "1.2.1-5",
+  "DESC": "A DLNA/UPnP-AV Media server (aka ReadyDLNA)",
+  "CSIZE": "151430",
+  "ISIZE": "341524",
+  "MD5SUM": "bf96becafbdcfd5055112c53b3a19943",
+  "SHA256SUM": "10fd205eb78db206066e695abe3c4a6e9e2cbc041e9362f3b7af5559b1b65bac",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl8E6I8ACgkQeGxj8zDXy5I8eQ/8CPzIey/t7MDu16keLvzR0rZL9S8xx8kd0f2g5Cs4wE1RmChBA4uU7HVcvO71QzkHxKU7fUOvTMKRL31JeGpnXHvosQD9zcYYWIIPgObm0cV9NVOu0RNPabuJsRGyoRtLLxZXSJlDsHZUdtY/W67N4UPscfvW6/KtWVlY0fKw8U+oQeGFsnpR4axt0km0zN8C9eUf+BluzLnTC7K7Ef850Cu+XGtuTp4uUA45nWyZr3HG53lT+gI0gY1n6/17c3d7Rps/+d2MmDFTvA01fkiB18YRVY6It20vPPXY6WUH/3YVZtdxu9i+SPR/A7nMewotBR9I4Bv8jR8fLUzgqg12qr0EsshHB2WeBc07RupgcSrSYy4FKfSLF32XScDZtu5IwrI3srn0tuB+f7H7cnQjAg8hFD0TtOrYp4uumCnZ0N1hNSvG0dz9oYfMWWpPQoCSLBVv4AblATs6QMV+8+mFzGioGcyR20CAIekShrYfgSHBoMvYxPnVYj1CiDzcVTOdtsra20zjqQdVNNL0GVxRh8lZVtp9q5HdJKZ8EM0pbQNbRRhERy1fZUy+5gnpelSMnrSugGQ3aid5DA9Y+ha4g3NM/HYWe7TXXeST1ar+SCp0A5obOagRha9764yeitvmSpKMU59L2v7TKTfLcFYw9/YHQvFTEzGASyiMrYbUV/A=",
+  "URL": "https://sourceforge.net/projects/minidlna/",
+  "LICENSE": "GPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1594157097",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "libexif",
+    "libjpeg",
+    "libid3tag",
+    "flac",
+    "libvorbis",
+    "ffmpeg",
+    "sqlite"
+  ]
+}

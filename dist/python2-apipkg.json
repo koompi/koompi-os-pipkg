@@ -1,0 +1,23 @@
+{
+  "FILENAME": "python2-apipkg-1.5-3-any.pkg.tar.xz",
+  "NAME": "python2-apipkg",
+  "BASE": "python-apipkg",
+  "VERSION": "1.5-3",
+  "DESC": "Namespace control and lazy-import mechanism",
+  "CSIZE": "10232",
+  "ISIZE": "28387",
+  "MD5SUM": "db5a720994d48e7264c57570e85c018a",
+  "SHA256SUM": "eb477cdb69142ca8e21d42a71afe120ca43ccc61bcd15b572b628311c81d8d75",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl28LBMACgkQeGxj8zDXy5JrgRAAlwJcd6BdMsOPsLD96JP89povhng7MbztGyInrTqGLoUU1POAM/RAARnuAPG8GvKUyqapG388EAL0KE1Q01sbd8wiYnzahfDp5O8Y10wzLx1Ppbw5Q3axcvsJKCbyasbhw28BuluQ/qy01EUrcvgnwkMaEzndtXEeba9RSWdWBmJ6EkjVPh4aBEq30m1Hv6OBAyJPpqFEWqK51fIxuS1ZUCyVOuegMzdsEjULz6tr1YXxXzZ0uWGeaJoRt170/7t4juGTEaoK24q+Er1v2TiJVsHlb1g5kxkiAb3H2ujpO+g2IrV396Bc5bfueVr5C5/uEZu4Pu8WJuhGIPqdqiIAwx/4ewOQ4Cgu4J5Dn1unFT+2uAvMFx4F5LCvMzGfoQxKI9IyAb9TWDAuxMl/Q5yVEFv9KUt17v17AksdNRKUc2lwyNP74n5ZCQHvM2/PUs5Fvw48kuSIrmxAi0OfnyJAkUkcc3khKx/1mJGocxMUGEZIny31Z7dHJEio//iwfIMLBwyi983R7RF0IFB0+HJXUQgi07hSMkYXEKT9orflNsL0Qab8HYkw4OkyzBDQ75vPwMyHgavoG6HFzTeK5Ncj1/papY4UzskB7j4IVJzUBL8vVndm7hS7uS0N17cp+hb5ngZ76hCKcpQ+UvRlh5e0rTMeWZ9uVqFyTztyogS4L10=",
+  "URL": "https://github.com/pytest-dev/apipkg",
+  "LICENSE": "MIT",
+  "ARCH": "any",
+  "BUILDDATE": "1572613101",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "python2"
+  ]
+}

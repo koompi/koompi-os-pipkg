@@ -1,0 +1,23 @@
+{
+  "FILENAME": "bchunk-1.2.2-5-x86_64.pkg.tar.zst",
+  "NAME": "bchunk",
+  "BASE": "bchunk",
+  "VERSION": "1.2.2-5",
+  "DESC": "A Tool to Convert *.raw *.bin files to an ISO file",
+  "CSIZE": "9871",
+  "ISIZE": "19734",
+  "MD5SUM": "60af40d24d0cbf4da05751afd97c7c6c",
+  "SHA256SUM": "e512b7db4f03def0d97e4569221e830f7980ed8d3a08a34b138005f3b1abe7ed",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl7LwvUACgkQeGxj8zDXy5KY/hAAvBR2maYaGV5GGlIb/F7zjwruyIiJfGEdD52RrMJRGU/PN/cciSpnpl8X9yDrILCoonA60myouwdP5k1QMB88gtR3X3jh7v3wyYi88NWYlllN8l/FSCMbT2z0hWJ934Ap2BBsL/FcC61h2UGgRD8d8JrGJt5/ueRtpxdRrj4YCn+Gtwyskp7ZkxeQnj1Eyk9N7TSgxYlbpr/cSDpt0njTLlMYJRQt3W2Lmgysetw0wn+WeHb285X2CeE0nnIzDpVOjgURa//0HXQTYENXQBAAH4mcNBGL8aZHA3lydzBT0zYe7Zzd5h4BI0pd/newTOUB27rDN85Ot8nx84ALSEN3COPGr20JnbZZc43f3uqpbvsXm6X/LxE0F/wa7hbiIlfHXeb/sN7Z0P+cVhJHU+82kgXDgZuEnOGuGd1XHaK7ouA8QHLx0aZoXdafl0a777kS8PhqDeX/x/WKuYBmPwTRuULLf1nAbkqBvvpLAUNqhA4MFqHb4jNIR4SFzhrfArCLpf1foLiKiKD61CJ4R5x8ww4HLmaZ/jqrCYLgoIKpoXX+hdJcjBH/OGMfgqVobIvaOfGF3qgPAraVTlCTVsssHBgbTz8dC8QOxbOy5zLFgonsWs/vviMcJC29M1NQpCgtYxvDzaiZubp5Pkg7MNrsxTZMpGbmdTIjf+m+x4vHrLU=",
+  "URL": "http://he.fi/bchunk/",
+  "LICENSE": "GPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1590411899",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "glibc"
+  ]
+}

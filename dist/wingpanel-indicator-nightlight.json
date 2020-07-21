@@ -1,0 +1,25 @@
+{
+  "FILENAME": "wingpanel-indicator-nightlight-2.0.3-1-x86_64.pkg.tar.zst",
+  "NAME": "wingpanel-indicator-nightlight",
+  "BASE": "wingpanel-indicator-nightlight",
+  "VERSION": "2.0.3-1",
+  "DESC": "Winganel Nightlight Indicator",
+  "CSIZE": "37462",
+  "ISIZE": "112721",
+  "MD5SUM": "67ed3a782360b12bd43fc6769045e5e5",
+  "SHA256SUM": "fcee016c42b99757e90a462bc60534f8897019ef8a036972402486b52d0a031e",
+  "PGPSIG": "iQEzBAABCAAdFiEElDfdOBWnqRaePTlGr/XZUJi8b/UFAl65fhIACgkQr/XZUJi8b/UILgf9GW23+/6utOPivxBBIQUnqltwCwKUxDLEtiYs30p0VypJpN9Z6e0pK2V2BpImEoJt4uy8GoDhyexFbcJ2i4tzwFktOpxwiKvSJyPzpF2wUM/CcIpgnZ27rbM1WHrhdr0SMIEA6kiiI5a+iVhfBq+qz7EYipJSVOPO+CG4btH/xo1pX52eylD7WVyXjBJshmc49FXYvm+oN/Qycq1nLswLi08vHd5rXGH84AxJH6UebBOJ4um85OxFPRTIfb9ot/6CiRfo6u8ZZrQUgMFBVHDiZ6OKjkJTqR6oBzY5Ujfl0G85JgMqZkwV15be7rFlaek9V4tCbNhgpxXTAWybGx2k+g==",
+  "URL": "https://github.com/elementary/wingpanel-indicator-nightlight",
+  "LICENSE": "GPL2",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1589214692",
+  "PACKAGER": "Maxime Gauduin <alucryd@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "glib2",
+    "gtk3",
+    "libwingpanel-2.0.so=0-64"
+  ]
+}

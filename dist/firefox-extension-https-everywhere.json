@@ -1,0 +1,23 @@
+{
+  "FILENAME": "firefox-extension-https-everywhere-2020.5.20-1-any.pkg.tar.zst",
+  "NAME": "firefox-extension-https-everywhere",
+  "BASE": "firefox-extension-https-everywhere",
+  "VERSION": "2020.5.20-1",
+  "DESC": "Plugin for firefox which ensures you are using https whenever it's possible.",
+  "CSIZE": "1736313",
+  "ISIZE": "1761982",
+  "MD5SUM": "fd5b5ccb09e2853afa9419c516f21446",
+  "SHA256SUM": "a7e780b9692f3f1e1035def535f11e42371c72c072dc6125b67b03d743d48930",
+  "PGPSIG": "iQIzBAABCgAdFiEEYEETBMCdNmKDQO7/zrFn77VyK9YFAl7II/sACgkQzrFn77VyK9akLw/+JCKBgi9qCHVQdxxwhJ65hOGGXAWiZJgBUf3dyytvoKTuk5mIIEmxVFT9BTw4ix1evrQW9SeOhekWgzFx2GeCPRMSPma4VxHl0r6j8dqgvrkZ3nYKQNzkwZB3K5FNepNFWnzD220U0FKEQKzXZDSAalQlmc9X2doFo7A+tjVtL+8orl7/hsjBFnf0nHWZiSvIgEK7MZO1e9qPVGul0mIxMChnJ0YhE0DzhnJDCc/LqHNSIE5T/6zxF/FvcOZ8PWi0s+EPk3iKKo5XJ3kd1kzuKbbbJF462YEtA8RADbxNR5cgnPOXDO8Xh6JV+uOnMdcdvIAr6orNc1q+ZQ6tAu8dbu3JnJIL58TC7cr0Zm7sIgsLVxuEnLCbnhlGPgNr4yywUCsl4N8j384O2tOdRHfGLyoj4/DYjtuYF3nrAMUeV7KEDrfp3Gt8OqwVz0ApxqBU4jx6EIbK+ZkccwftGgmSDRLiKIjaMbhSBNhSr+yRFqZqepgOuDj3VayWv2RpNnRqKIwZnFSTti35L7jDR9Vyb7ZbkmlDFCF9lkMtZfFk9/lZIDaDTiLBbJafNzpbEp9WxQ5QtbWu7ESm/J9zE3gO2gzuRRXjm7dyvzQZu6gq/sKFFTel+VRq2eH6K/RPcW6i6OCQh9M4XCxJz/g8hbqPQQBPJ5D5Bs/uzGJYMOFe3Ho=",
+  "URL": "https://www.eff.org/https-everywhere",
+  "LICENSE": "GPL2",
+  "ARCH": "any",
+  "BUILDDATE": "1590174285",
+  "PACKAGER": "Eli Schwartz <eschwartz@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "firefox"
+  ]
+}

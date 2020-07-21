@@ -1,0 +1,23 @@
+{
+  "FILENAME": "python-salsa20-0.3.0-7-x86_64.pkg.tar.xz",
+  "NAME": "python-salsa20",
+  "BASE": "python-salsa20",
+  "VERSION": "0.3.0-7",
+  "DESC": "Bindings for the NaCL implementation of Salsa20 and XSalsa20 by D. J. Bernstein",
+  "CSIZE": "9720",
+  "ISIZE": "30642",
+  "MD5SUM": "11c24b092643af6b8b29ddefbb87a193",
+  "SHA256SUM": "733d8ea18bb02c14c7c234b4aa8876af6d959645e22239c60ac07cb00579b919",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl2/uH0ACgkQeGxj8zDXy5L+3g//XBP+03LgQbIGZhaF+ymEod8/0KkpS7T9n/4up1Edk2GvUVx0DuB1lzqv+Iws2S6/zFlOIRQb7hcoavi4xU90cRytpioskwUUJ0QiuH6Di0xRhjNJnOr7HUTB4v54g7u3HluXEmDIQuUQDz7Lo5Uhl8FEXFDsuI/I49M2Ri0yNqb+8j753ukl4g/AwK7VKnheAp3CS3HldUfAFK1G5e0pPbppyh4DNDMtyWezPlLeCimWqJ57trmOgwf+XIl3/qbpU0osfnFvCvgi5i0Pr4dR6xelQWjfDnxg03tzcuU48NWaXC8LA3sxdt6ZkMIhgFhPMkNRLJqYxc7id/Er6akGzfouSZIsF4D1WBjmFqP5+4P4bQ+VPROSiGMFWkAvu8wmtUfCfZo6yqo0yV5NDHC4AnVoA0KvUqmB4Z1eapuquaeYA670q6cjAGSj0sBCqCeCXd6uvAo5ZACePGIyG14pCrU+uYMndnaKlkcm8iBh8X4ZgML0wJaKtbFgRUQGwIA/FKhFU6UkpM0EAd+FpF8y7T07AmdOA8EvGkNKxaZ6PWjIOMoa93KDjMZBNQooKbbXgtCPws1t3DWSosREIslpNhwcnmJNe5mvrYIswRNb3mRJxjoMbktkSYRw4VJk7gJGkS3BnDW/ocJoXXfHKZAHvt76B5O03O7k6IS9tCSjH/g=",
+  "URL": "https://github.com/keybase/python-salsa20",
+  "LICENSE": "BSD",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1572845657",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "python"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "FILENAME": "haskell-generic-trie-0.3.1-12-x86_64.pkg.tar.zst",
+  "NAME": "haskell-generic-trie",
+  "BASE": "haskell-generic-trie",
+  "VERSION": "0.3.1-12",
+  "DESC": "A map, where the keys may be complex structured data",
+  "CSIZE": "136237",
+  "ISIZE": "1575774",
+  "MD5SUM": "d4a604bcd0cbfe1545ecd83df07fd36a",
+  "SHA256SUM": "1bf6d9c554a60429af4f08df9a327936b5452507f18855914e6e6573e390ea01",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl6hdrQACgkQeGxj8zDXy5KKZA//Wre6Z1Gq76/bGsJbX5lgTSCl9eyLur4TkgX5Bnq7YDDm+0bBxolkPrPs4/TvyvNvrRfjYjNb6frUZTWRZtASJ4gr+DKdWr0auQK1oc92aaNR0zZZa3Wo+9LUuaLC9zj9G5XL4GDRQZqUtFmco7RN6uBFByZBFXdMsQFcIXph1FCUfFuvOi7V9aaan9vXLSrpYpv3TQIZIIDPTB84xoxeL0BLhe/MdrJ1+oZYzue26uIiw8bFhY2Q/p6N8ULkGB6U73KbCxXvmkWNChbPw2YT9NZ0pYqMOwHgMsiwiupq8+fkXPuSgOChCekVwxbo8DIW1D+hrB5sIQmKCWhBVYAFFSydiSs/wkncm/Vq5whGDfH5S9LLJ8K3+kz9Vv475DzTnTG9/frBB1TES6D8hErK0GAHQe+YyLBO49HxU8tU0Y9E+0LBb7+gnH+hCvVKeXhs6aXzl4Sif3e9kbzkD6R3+aprrjNs8ONqbeBw5JlUHj9sGIVSFQZjomhvQgc4aiGmbia8cLvXUYRDEN2pkRytbgEoGlyL+5I/xa6i6YjMKUWetuUhaPG+PeBPV4B/hqlRFEL8UbCjQeTVdpPJ1Xl3AHpSe6xi6BV0NJ36xkAChxvFCqPGgMnRJgUdNOTxXXpEUvu/kMqb03kuznKNdcMO8gcJTVXt9CKe8QSJMDQohTE=",
+  "URL": "https://hackage.haskell.org/package/generic-trie",
+  "LICENSE": "BSD",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1587639894",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "ghc-libs"
+  ]
+}

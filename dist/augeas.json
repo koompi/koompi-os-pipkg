@@ -1,0 +1,24 @@
+{
+  "FILENAME": "augeas-1.12.0-2-x86_64.pkg.tar.zst",
+  "NAME": "augeas",
+  "BASE": "augeas",
+  "VERSION": "1.12.0-2",
+  "DESC": "A configuration editing tool that parses config files and transforms them into a tree",
+  "CSIZE": "584434",
+  "ISIZE": "2296386",
+  "MD5SUM": "ebe55c608df3f9fa92295d083eb5bc34",
+  "SHA256SUM": "84900648b3fcabacb7e5688002587aeaf5053dc3dbdc476ed9359765f801fa91",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl8EuY4ACgkQeGxj8zDXy5I9WA//b+IkG4+qYMmrBj/wapk0LvTHcHDaqESl2Ts7t8utSqhxIRwzVLSzeISnkIsVOIENwbPFi+6lGT3qsjeFH4mBjNg5r9yZEv9a9uTrpMrFbP2UjprlOf2iaA6KYL6oSNC7zT5YKib+bGy/XLqicA/dvgTSM0cYSYwDRs6K2A9ckeRuHdZjgFOMddskM7bweLiQGp45fUEy27F+NRzFxl/zfi3+ahfrCCfqAROcBYd0F68Ds0viy8jn3FJmoDdU1AFqe3usSrOHHEulQ6xVERqmtb+MqXA2oeBa8SU3ASr00qJToEr32YlyjypLiYmTbKIOSJZH716+0S2Yji8GHSwW29gGq/qVUpkbgJN0/tt9jHNaSUZfEChae0KPQ1PPWYxT4FpSPwIVvSV9f/NHruX1/xZ1MiW8czibF6TzMxlA2R3SfFhA3hQWAm/aNixDsLGCqaf9N+zBXo1i5cf4Xs/YVye0w0ffTyeu1OGJzWn3yPIawS+yQW4NuN2ISqgvVqxKX6ApQHQhBCT7m231NLQMAoWAJUW6UHT7/R18klqw3lSptmd7eRQp8I88/5fnn/Tg/wTXeQWSYAKqz8L0pmCvlnF6pYHpDQAsO2a08c6+1knxPkaIuIGx7a7uOPIawFLjx6KgxA5QXs24fo6gvKxBAU7qJcDNq8i4tcVeFapYYDs=",
+  "URL": "http://augeas.net",
+  "LICENSE": "LGPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1594144982",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "libxml2",
+    "gcc-libs"
+  ]
+}

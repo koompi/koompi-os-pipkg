@@ -1,0 +1,24 @@
+{
+  "FILENAME": "lib32-pcre-8.44-1-x86_64.pkg.tar.zst",
+  "NAME": "lib32-pcre",
+  "BASE": "lib32-pcre",
+  "VERSION": "8.44-1",
+  "DESC": "A library that implements Perl 5-style regular expressions (32-bit)",
+  "CSIZE": "382463",
+  "ISIZE": "1404917",
+  "MD5SUM": "68d784c2f95f4545b36a647f653049f9",
+  "SHA256SUM": "132bfb9c6c023725431ba2fd5bf7bb32572e4b9443562b3cb5790527dbc81ba7",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl5pdXYACgkQeGxj8zDXy5LdxA/9FWYaCsBM1vhupx8iFyFCUO5g7kHoKZwiR8zdb1rx4tu9lJmgbyZTWfCbSE/rpoQVxecu32eSzdfzxM2V/nwucQhvqsVa0ql9schwBCQgGBrr1vG5R9jwH3GhcLC7MSzCjcu8jhhK5SUwP5ZPzgd+GxbxBipF7phTajPIVemlZL+N8vy8de7E8VvoQ/jr81sLwrSvehD9y+i5LWp9H+kTqN7ozJtYgqZHe5wLBAtSVeLdnMIBdwpAKfuGYUKD1PnTwPSdebbbMMkmiV5SuYCkdra+elMgGCivSA73evOyPS/zB/65Z/y2kbY3MDOx67lGqzrZK+ui2hhL9/y5iDyBPSCfyiFjHmPImzqVGuv5TcidYGxj+QLf3o6pyPAgBFSOQhrze6a52cF9jQF2jvI3GxvOM7lNXqQvzxihFikYZqcpB71Dac7VP3x49JFbPu77FtZQIgd1UNRZm4Mhg+1dHIt4lN1HS0lKp8Q2SngLQMjTAXeF+tQmHjyEM5k/40fQ12diW2DL722rN+DIBOME6vO40BWf5AA144PXVGvTy/I0Z55MtxDyy88LWQW/jo9LwZQ1IQPBzn24JJ0QhH7gJp5XwQlnqLUcL7LYjYz6HLFDsdb5elaPpqRLd7bHc7PLjRStKqlfBxJKxikt3ncxnW5Ewdl7PLVThuXOwHwgyWM=",
+  "URL": "https://www.pcre.org",
+  "LICENSE": "custom",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1583969577",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "lib32-gcc-libs",
+    "pcre"
+  ]
+}

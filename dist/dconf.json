@@ -1,0 +1,23 @@
+{
+  "FILENAME": "dconf-0.36.0-1-x86_64.pkg.tar.zst",
+  "NAME": "dconf",
+  "BASE": "dconf",
+  "VERSION": "0.36.0-1",
+  "DESC": "Configuration database system",
+  "CSIZE": "100842",
+  "ISIZE": "449572",
+  "MD5SUM": "cef1662fa4948f3286b26135f3959108",
+  "SHA256SUM": "d8c61627c6aa69727cab83feacf0b4e7133e16b958181483298032a98f1adbf2",
+  "PGPSIG": "iQEzBAABCAAdFiEEghj4iEmqxSLpTPRwpekojE+kFfoFAl5s/yMACgkQpekojE+kFfq6PAgAirlDzJGKuHBBxBJjwEjUfquSJWx3RwNMEHDn02VMpKvkXApDy5KiuguuRYghOPvCfGXQllmXES3Q3pup/3WoRnCR4Qak6wBTl112+vDlSQlpQw6mNrWopUvfAuar0+yza7QDfzvpT4HxQ9qP5v1KpLEiSssPN7+EqEKGpgD2S29B2adJFIeINuGAEfo6WEyG5NwvyLTbJKUBBbL10vlFyOp/xZ4JpLHuCThdMmRPdhbUcu1aklsgvSkSA+H5XYEylk9ZQDvBr4ipD+z6rY8oPrZIB90xbGUMhb7sygeKjC2ZdUHPaPR+uc814BKUlkHp+oi3Mzc/K2dLGGWOx4il1w==",
+  "URL": "https://wiki.gnome.org/Projects/dconf",
+  "LICENSE": "LGPL2.1",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1583856595",
+  "PACKAGER": "Jan Alexander Steffens (heftig) <jan.steffens@gmail.com>",
+  "PROVIDES": [
+    "libdconf.so=1-64"
+  ],
+  "DEPENDS": [
+    "glib2"
+  ]
+}

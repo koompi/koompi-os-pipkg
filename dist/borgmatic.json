@@ -1,0 +1,28 @@
+{
+  "FILENAME": "borgmatic-1.5.8-1-any.pkg.tar.zst",
+  "NAME": "borgmatic",
+  "BASE": "borgmatic",
+  "VERSION": "1.5.8-1",
+  "DESC": "Simple, configuration-driven backup software for servers and workstations",
+  "CSIZE": "95847",
+  "ISIZE": "490492",
+  "MD5SUM": "72b2f7813df17ba0afbe3500d3dbbd12",
+  "SHA256SUM": "bccb02cc8f2e950a38a342dcfd9b0099cfb615eced50295eee04d9b2a8b789af",
+  "PGPSIG": "iQIzBAABCgAdFiEEBNw/sURf7KgTwn766k97MhqQatkFAl78HeIACgkQ6k97MhqQatnqhA//TZ+x1SRJYFjO5MIkZ3yF+yJwsPAxkcEutO2y5x7ldM8EnlVwlcL+f/RIRTmwq0z9TMk2+k2QnJMWa15ySkE0DpjJDZGTvi4xVi/b9SK0oJVVaV4+cNJfhNeMkISX1xIVcP2BVb7vvL9KWD62MwMI7gznMvXZlQWIXLlE6jcz4JfETOIkjxFuv/3OHhI+UZ0bzBWIIVNFjreJ+n/SA/M6H1kXDsAwGgbJnpgRzkbsi/VFvliopQSmj/5qJ3OjVJFb6Q35DMJdKw16NJUCnlzBdqkPENT3FsJz/jrMI6szaIM9NoLU1suvq6Ie1D9dkqPbv+KOxXKZ8dMNHT/ZPc3HsyReiWDqPL1TmicmuCj9j68axbw6yeJUTHhCGDPt63p74pJTqiyiEDaKrTEVcjM2OKCWr4oogB6FLo5rTWXYfoWyXrZ1nLt9s3nIy2pTK5Ne85pP3GlEVSjs4W6gwx6p29Ok6DshG3tnNwQhWZtgtUh6sjtWlbsSc6vxR0ksMLWdrf3SiErXkgmmjxBFOE8vohXiJz+2i8M/X30Dcj1QS9mCxyHPwRtqc/nHCDgRm5V7p5YrW+VK2ik/XywBx32UyY3eAP6n0gpmodEkyTdO5Cfep94OKJltqiSnNeFMuMhfUbTb1yjdjiMDqSFRGVX/9klJt6rIf00nt9AQmMVAdRo=",
+  "URL": "https://torsion.org/borgmatic",
+  "LICENSE": "GPL3",
+  "ARCH": "any",
+  "BUILDDATE": "1593580938",
+  "PACKAGER": "Daniel M. Capella <polyzen@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "borg",
+    "python-colorama",
+    "python-pykwalify",
+    "python-requests",
+    "python-ruamel-yaml",
+    "python-setuptools"
+  ]
+}

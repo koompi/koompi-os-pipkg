@@ -1,0 +1,39 @@
+{
+  "FILENAME": "python2-pip-20.1.1-1-any.pkg.tar.zst",
+  "NAME": "python2-pip",
+  "BASE": "python-pip",
+  "VERSION": "20.1.1-1",
+  "DESC": "The PyPA recommended tool for installing Python packages",
+  "CSIZE": "388391",
+  "ISIZE": "1650666",
+  "MD5SUM": "7db7ba27b79e974a107022c5805c05ef",
+  "SHA256SUM": "f30db9c3e7edcbd7d6bcc8517c202314fd9596cb8e9b463c29c1d2f6dbf95f8d",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl7vqMYACgkQeGxj8zDXy5JPoA//eskkTqjTXrnARCNWnMsGvGZ6DeS5pFTSYXOj0e1nShc9fRZvxIQ758X3Muq1KsKu4IKZKVpny/Jgd6Kr1NuPnJwmJOLk+6wVFmJ3CNvP5VPkOe1aXtOq2RlcBNzrsAU4rChxI8jPafkp9HxyTwH0zAQWUhgQMciSczqKFR/W/q5FY0DCaPQinDlCnXMnXifxzfz6YIblX1eFnXqXw/bLEE/O6jfNUiazpVMsbeJEfsALlhFLnXQG6UDqLG/sNc7CtAZOFpYhEiznfpx4h9fdTmaU704sdO/HhWFCcNhynE5OkZMJou8aOmeP5uBclqxb2Mp/h2V1k5rApYYIgod2n0VOAHMdKQ0OZF0SrK1TWar8R18Zu0jHBa4hdHgYrGK3oWdRJcOXzYgp86SPTEXPvUV7nEKnG5+APFYkCvRwhZJNqWjvQE8RT5NI0LufCN0FhjUio4V6wO9YvvwCNikctthTCrkSn4F0fwMCfRr5DecDXlCumb+LSOUQo+5scYs40mNF66KRlw7tXExvtOhNbnzOEb7ExzzsP3d+FTBri4jQks6x2wGRXmZWSWsbhmcAWlK2EoR85aDAzm4Auz/gnhZmyFbVf6O7tomwDa3RoU3uZhp0UZ7VBOjAVqCPWweE+lWmGDw4iihPEvNlbC2hoUprzMFrp1+WezobX9Wupy8=",
+  "URL": "https://pip.pypa.io/",
+  "LICENSE": "MIT",
+  "ARCH": "any",
+  "BUILDDATE": "1592764484",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "python2-appdirs",
+    "python2-cachecontrol",
+    "python2-colorama",
+    "python2-contextlib2",
+    "python2-distlib",
+    "python2-distro",
+    "python2-html5lib",
+    "python2-packaging",
+    "python2-pep517",
+    "python2-progress",
+    "python2-requests",
+    "python2-retrying",
+    "python2-resolvelib",
+    "python2-setuptools",
+    "python2-six",
+    "python2-toml",
+    "python2-ipaddress"
+  ]
+}

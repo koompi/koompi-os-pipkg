@@ -1,0 +1,35 @@
+{
+  "FILENAME": "deepin-mutter-3.20.38-4-x86_64.pkg.tar.zst",
+  "NAME": "deepin-mutter",
+  "BASE": "deepin-mutter",
+  "VERSION": "3.20.38-4",
+  "DESC": "Base window manager for deepin, fork of gnome mutter",
+  "CSIZE": "999519",
+  "ISIZE": "5566701",
+  "MD5SUM": "a53ac7dfa072bacd67e78f597b5825e3",
+  "SHA256SUM": "42566598b9b51ae991c66931482e9fdbd6d9fa80d72b6c7ff2e875ee21097b64",
+  "PGPSIG": "iQEzBAABCAAdFiEEzgvecadZqH8j8PfYth284QkBwWMFAl5pfQMACgkQth284QkBwWOGYwf/c3JFJhrKO+/+ln/j47AZVKyShejKDYJ8BSn2G9yd88SZcW6qeo2ggDy3bvkoQH+OkgBsNjBtiVkxYTuMMhhmMZPdLUamvgS+p3GT6voSeGQfnX6lRGACQThKup6AJouHQD0NPXV12R7Q4Q1NniulymCw60myeAYqIpFhDc8Ks3GggGtnWKhtHYvzZUTVOSaJg5rWjPbwvBSzekmWoduW7gmtchmde/er9riOH3oo2XhMD84sPdcCSeu0skN3ZDtNpxCqWRX8cED2qhXyVqDKNx+XOdOyR5qfTSEGrsCm/5HemEI2N+/wLqJ4ifUMb0Dq1FA3E4wDNwVGxsIm21Y35w==",
+  "URL": "https://github.com/linuxdeepin/deepin-mutter",
+  "LICENSE": "GPL3",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1583971477",
+  "PACKAGER": "Balló György <ballogyor+arch@gmail.com>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "deepin-clutter",
+    "dconf",
+    "gobject-introspection-runtime",
+    "deepin-desktop-schemas",
+    "libcanberra",
+    "startup-notification",
+    "zenity",
+    "libsm",
+    "gnome-desktop",
+    "upower",
+    "libxkbcommon-x11",
+    "libgudev",
+    "deepin-cogl"
+  ]
+}

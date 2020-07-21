@@ -1,0 +1,23 @@
+{
+  "FILENAME": "svt-vp9-0.2.0-1-x86_64.pkg.tar.zst",
+  "NAME": "svt-vp9",
+  "BASE": "svt-vp9",
+  "VERSION": "0.2.0-1",
+  "DESC": "Scalable Video Technology VP9 encoder",
+  "CSIZE": "438087",
+  "ISIZE": "1005342",
+  "MD5SUM": "c1f4cba3784b455a07f0d6916ae065ce",
+  "SHA256SUM": "db4dfb83735babe89694f011c7dc51a3120efefe4a2222e93b0d93bb328401ca",
+  "PGPSIG": "iQEzBAABCAAdFiEElDfdOBWnqRaePTlGr/XZUJi8b/UFAl6xRh4ACgkQr/XZUJi8b/V6TQf+PFmAaDjKzyJg9V3oj/uWIDvFpgLeQMdMdIPeHuoMYIymYt6nY4Q1wrBZ/XIKZXM3JY9zRU7q1ig69MOf/GXRM5OvDLvlTwmOgrFWZQBxdjvkUdMX6Af9QA9RzCoKLGmi3c96HeH+tQG+zCcHhtCeBplY5bGGvrMO+NM2zkvPpPxkUBsP7u1CD4Uyn449DCQOqzYivxd4Glve+0ODNhF2y9bN9CfnBE3BRGEHDvh1Xzp6gx+9mBeQXP+APt3YXro1zXMAdDJYZGUTJ0/htu4NGWKFoWqXPOBOTYv+HKQeTK7ZGEqxAEmUgUd5gvSEt3VA05/vPyaSgbC4Z1gddpGvUQ==",
+  "URL": "https://github.com/OpenVisualCloud/SVT-VP9",
+  "LICENSE": "BSD",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1588676100",
+  "PACKAGER": "Maxime Gauduin <alucryd@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "glibc"
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "FILENAME": "at-3.2.1-2-x86_64.pkg.tar.zst",
+  "NAME": "at",
+  "BASE": "at",
+  "VERSION": "3.2.1-2",
+  "DESC": "AT and batch delayed command scheduling utility and daemon",
+  "CSIZE": "43210",
+  "ISIZE": "101202",
+  "MD5SUM": "c2bbb1985a6cead40722029429a35184",
+  "SHA256SUM": "372280f88b5fa81ca47067513dbf9ee894bb709f458a13f470878bd2a8b9b4ba",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl8ErEkACgkQeGxj8zDXy5Jyyw//UvAYwk4OYIlmJ8UMVJTF+DRqjh8sNu2m+DkWV4j4XPf4BNha5Z9ZjNSgWO2h6ST3CJJw3wlGJk4MUOD2tFo9bFQNdjSEEWZrkH+15i604QznOpReU1qTik3thA2Un2Zp304XeYgKVCD6owcJCyRGIztVi/FxG7GTKYbQqlVcLVVsORkYpNfeDUY5Ab8Ni1pkG/oAwYmeiXu6Lpvw89aFrTQe3MYjotWXCumsYTVjd5dk+4EhZAz+xRYFOcNR4Uf1gSwjLeiElSRb0eK5u9PjA2/tPlSp2MfBoSE79La+wMmZ21klZ75G1QMtoJqgz3HvPwHRz8hmHo6T2Itk602kITJvUQiKlLMf30YiZFTCwkaX1fWuzIoo8jm5hBls1XWpmAmiKBVtYDDoM+xQ5B3KEQZdLSJUTU/ClU2cKSz9VldYUQ5VGaQukOg8tkeZ2ocKah+5hV4shznsr3jAiyBBuIo6mxDlrFMyFNlTotYLSMwOTBsKLnH4iuVlURvVP+cuXEMD2kREboT8VjCR1KWWE5nHAXqJMFV7X/TmCXwMe+zPzSP8PeSkL6iMJiOBVjpcoVWuNQQFaa+4E5j1FoUf2Nk1VWkOsd3cgt110/XZJ2DBgv84q6N6d9+txi128i4bhbYYS9I66vIkwETNEqDKH9/1rrlYY1s361XJSG65bBE=",
+  "URL": "http://blog.calhariz.com/tag/at",
+  "LICENSE": "GPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1594141686",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "pam",
+    "flex"
+  ]
+}

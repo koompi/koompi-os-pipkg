@@ -1,0 +1,23 @@
+{
+  "FILENAME": "haskell-cryptohash-md5-0.11.100.1-16-x86_64.pkg.tar.zst",
+  "NAME": "haskell-cryptohash-md5",
+  "BASE": "haskell-cryptohash-md5",
+  "VERSION": "0.11.100.1-16",
+  "DESC": "Fast, pure and practical MD5 implementation",
+  "CSIZE": "16822",
+  "ISIZE": "41792",
+  "MD5SUM": "458d57f832c095e5366b164e17e08cc0",
+  "SHA256SUM": "34015df521f3c1cf6e8aee4ca1826943f23df2423e04cf02449f518ca589b431",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl6hcH8ACgkQeGxj8zDXy5KFXhAAksS+iJsEk7sbEXjWWW7d1/qda2gl8f9Xme4ifQRlY8SZmGejt7B5RHo6AmN3Iw7lZp47RU0V2xkmJQAu3b8SjJs8KjOFD6ncNSwqvYVe6CZwG7MZqvGSy4wuUsPMLgL02pMFY1YsRTzuzK6zihL+CHFDoN14H9m4wiY9dFgi+46HY9vTLoWBnnwVPEIBv7Iq43sYDrdhg/yPKYvNWNlaRkMMTivL5MZuliiyM69dpC6D5vNc5ym1AjMme2ElbvCHYwqt50LP6djHXnjlwpbTK+engOLrXBjinVhOb2GfEKRyfE7oKy5Gvi1d4XI9wCPBayGBLqjVZj0UYRXGUeJjBEH80Fxto3h+tZ1NPxGyvyCWJ0khQc3kbXBC6tpve+fUiAop/LvDfmEry+NzO4wjSTqMjqo34EzNgQpCJ8WnPDpJ4+nM5Zv71Hv0McaryuWRBx2nNxDo4GeYdpJpNNLGEnDZknbT6rnBuJaARoIXH0lXbBZ5nVlp5VNKqojWF1yHvwg9gL7XNloatqT0uQeXa5LMH1GnupUBj7+4yG8TAH08eyAJnnq3dt7O1esQ41oVa6mH6bne+kNb/L4ne39iidm14rpgtvcYyPhXMXUpFZMTGoFOIOLI5D9Fj8gthK9mHz3CxQn5n9SPBNtNWnzo67XcWqSYbSTreZ0/Onh7DtE=",
+  "URL": "https://github.com/hvr/cryptohash-md5",
+  "LICENSE": "BSD",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1587638296",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "ghc-libs"
+  ]
+}

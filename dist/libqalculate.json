@@ -1,0 +1,25 @@
+{
+  "FILENAME": "libqalculate-3.11.0-1-x86_64.pkg.tar.zst",
+  "NAME": "libqalculate",
+  "BASE": "libqalculate",
+  "VERSION": "3.11.0-1",
+  "DESC": "Multi-purpose desktop calculator",
+  "CSIZE": "2043493",
+  "ISIZE": "11790466",
+  "MD5SUM": "7a94a529871c319a22caedb0405fe005",
+  "SHA256SUM": "282a0121ce084ac9a00673894ee73d06ea06469fa982e2a81b872e628974bb96",
+  "PGPSIG": "iQEzBAABCAAdFiEEFRnVq6Zb9vwrc8dWek52CV2KUuQFAl7wyPYACgkQek52CV2KUuRxLAf+JUO4KecLGTqxjPQtDzd75ydJunjQnTHYyacpMeNUeQZBlIPqoVeoC090zfJ/4/r8UGLLGHx/+JBZi/1nABhxrkF0BFNZhUaStVXA+DjokdlyJ3uI+O1sTP30xdEUt1Q/omcKEsACteIRogP5lySYT/PXyZlWIXc7z+/QLFfmIkFl4hKB+fjciO8iuBE2J95wskHAfQKF2QBGJW6AS89DjPYaIl8TVjL14SppEs4exidNgH8lSlfc17bLFZF3JcMbPvqqnkBe7JO6jB0ROkIe30uQWKyjIrck4eI0cMUzJouDpkXW/Oj/hVOp9ob7kwGejSjTdxqeMVOgpNbzMxF4YQ==",
+  "URL": "https://qalculate.github.io/",
+  "LICENSE": "GPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1592837572",
+  "PACKAGER": "Antonio Rojas <arojas@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "libxml2",
+    "curl",
+    "mpfr"
+  ]
+}

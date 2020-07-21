@@ -1,0 +1,24 @@
+{
+  "FILENAME": "python-email-validator-1.1.1-1-any.pkg.tar.zst",
+  "NAME": "python-email-validator",
+  "BASE": "python-email-validator",
+  "VERSION": "1.1.1-1",
+  "DESC": "A robust email syntax and deliverability validation library for Python 2.x/3.x.",
+  "CSIZE": "22928",
+  "ISIZE": "71563",
+  "MD5SUM": "816900b482c5c2acce4405fd0226f8f4",
+  "SHA256SUM": "cffb435831c43ada101af26d06b5b8b216ee7e2778aeb535113cd4748061f04b",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl7ERZkACgkQeGxj8zDXy5JstQ//fs5EfxtP98eCMS3U/SnktRE7oK09aPfagNi/pvtnlbRredyov5vyfao7QdQo5wR7hcP7f85WNHIDUnbs/GiMToINdP5FyXoVgBHIGeb4T7tN0XsXJ6VhzFMSlVxIl2ZqAOfyuJD6adrmscW3SEshg5Sewq24qyX8P2L81C+owI6hPayVme1ih1EikiSPCS+5DfOsgOv53pkiYQh6guq1Nx/jfQtudGTopjKjALHBNw8TRqFF2o6OIJOl1VRIp6nSi47jsVm6zWiSQVQzZglPsjKVksIT4Zm1N7Hag1PqmqMPgj07OI5p3Th7qF5g06Nkmy+BMozCJdy58ftzWlSiJF29WSs2PNRNmtlT47VZC8q9YW0f/ykD/Vb3DDivGfKTA9XuxKbF/a3mYVEL1Tqy2kZiIvzKFTV5kHsyS+9pO1y2KsX3PQLERndejgxPQ+hwQFRh+ypk2L3Vdw3wOuNrU6YMDIDFLCzVENRjMEuDqWBPjqkxhU6OL+DWwLlZG0GEdlFkK0qlne8NuP714FgiUU/qR79r/JpsU8/G3tkrEJO2/XQq34kncD2Y3jJkwEBe4QOR914NzanA0VfJD0Vf4Y7F/giiYML9JrAfy9UMf3moX6e5TfpNS+Cq8Xit7TLJ6tMf4GpbQed7fr6dMklgtpvSS29a5ulQBxBACWAhIIQ=",
+  "URL": "https://github.com/JoshData/python-email-validator",
+  "LICENSE": "custom:CC0",
+  "ARCH": "any",
+  "BUILDDATE": "1589921155",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "python-dnspython",
+    "python-idna"
+  ]
+}

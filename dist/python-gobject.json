@@ -1,0 +1,24 @@
+{
+  "FILENAME": "python-gobject-3.36.1-1-x86_64.pkg.tar.zst",
+  "NAME": "python-gobject",
+  "BASE": "pygobject",
+  "VERSION": "3.36.1-1",
+  "DESC": "Python Bindings for GLib/GObject/GIO/GTK+",
+  "CSIZE": "254813",
+  "ISIZE": "1142825",
+  "MD5SUM": "8f9f48272f4c904c93a7fbfa53840f79",
+  "SHA256SUM": "329c71a37d89587a91c06ee10dad61da52f278689086619f22cd7daf042167e9",
+  "PGPSIG": "iQEzBAABCAAdFiEEghj4iEmqxSLpTPRwpekojE+kFfoFAl6y9j4ACgkQpekojE+kFfqiggf/Q7TwZW/EK4uMBhmoawbZLExjzQhHgL3RhTgSmWQ1keqOsLtu+5KvKzJWlH8C5L6gdRu+cAWIhTlILZYWnuI9zWAraEpge3n5m+27J/mQiDLYQpUXyvB/yQtZ61MMY006S/9YV1s7C2rrJWtNwl+cTA1VnSuRwYktifvlBso5HmlOut37llvVwxRCJMyFbwlvAxE4Br05gVtE7lZ8WUjY5ZlAAdqXETeSqw5ZK91XzKPJbUdW7g0kWgaB9/jN8tClh8fdMtzmq1io/KTPjz8eLYJjif20s1yXJuKXbARFi7H3jO0vhkdFrV8fHc+c6Ggds6IqfLTILSQ7dCU5VOZuYA==",
+  "URL": "https://wiki.gnome.org/Projects/PyGObject",
+  "LICENSE": "LGPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1588786376",
+  "PACKAGER": "Jan Alexander Steffens (heftig) <jan.steffens@gmail.com>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "pygobject-devel=3.36.1",
+    "python"
+  ]
+}

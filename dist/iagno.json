@@ -1,0 +1,25 @@
+{
+  "FILENAME": "iagno-3.36.3-1-x86_64.pkg.tar.zst",
+  "NAME": "iagno",
+  "BASE": "iagno",
+  "VERSION": "3.36.3-1",
+  "DESC": "Dominate the board in a classic version of Reversi",
+  "CSIZE": "612997",
+  "ISIZE": "12618847",
+  "MD5SUM": "e787375e78f93e781d027ca4d89a6c27",
+  "SHA256SUM": "0935b910bfc056f4829e3f0698658facadf26f7e91762cf1b3d2618fb69ccf9a",
+  "PGPSIG": "iQEzBAABCAAdFiEEghj4iEmqxSLpTPRwpekojE+kFfoFAl7SdmYACgkQpekojE+kFfqAXAf7B8K/EtKOs8uuVXKNerrNU19NsKia7C1nQa8RgP0Bitb3yY4NAtOX28djduQkYbh7BSNAwlLAkGSlamgqCwpjKz8FjuKGuww0IeGmiVR/V/K2zZA8tvFF4WP0zzPGpHlKtwVrZexU7weHeLGaMBOnDM7W03aZHg9e8E1aXA/qvgl86DOuBpH/13Y+uPH7S6BFt37Ulc0dEmvHQtYFqDVHrmLU+S2Uprz/IbGrMywestEdzH3qOKPy1Ceb0LRb4Dd9UhJf5OxCVGNuOf8HviaYHAb1PGQzAmrPF7KUJqCaTLlcXDConhAWkCH+cEuSNbtvfnJfOniVt4VSySav1N9MHA==",
+  "URL": "https://wiki.gnome.org/Apps/Iagno",
+  "LICENSE": "GPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1590851028",
+  "PACKAGER": "Jan Alexander Steffens (heftig) <heftig@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "gtk3",
+    "gsound",
+    "librsvg"
+  ]
+}

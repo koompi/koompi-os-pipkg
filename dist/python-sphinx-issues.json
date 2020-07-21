@@ -1,0 +1,24 @@
+{
+  "FILENAME": "python-sphinx-issues-1.2.0-3-any.pkg.tar.xz",
+  "NAME": "python-sphinx-issues",
+  "BASE": "python-sphinx-issues",
+  "VERSION": "1.2.0-3",
+  "DESC": "Sphinx extension for linking to your project's issue tracker",
+  "CSIZE": "10436",
+  "ISIZE": "28230",
+  "MD5SUM": "6cf05ab6764dbf9107210fd4505c2bbe",
+  "SHA256SUM": "6e0a139ed0f2cd5f647be83d15eb3a49935b51ae82ccf6e9e84df75ec6c9ef96",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl2+BdIACgkQeGxj8zDXy5L7fw/9E8YZID0JuiHoQ3xZsJXJKLEV2gXXKyPN96N0Lv8qbUc6wv02pcZtUOVzlZLvoDn/WROlP331BS8nzDML6Z/RfThEF4DaNxbJcC45km8eCEVj4rZZB5tGMdBjuR7B8IUzM9jdROl6b09xwdW+2kEqVjI/+2cZ4m5mNUz+KXs8wpTMf7ZQAirUtA2xDRgZzMPj4oOw4pFQEVEeF89zUeDTTEL6gH1XmOGWHB35vVlf4cIhsaRa07erBMmNZzFLJIXkhXGbVUNy9apFUWVTmbEbx32vAghmWghoSs2RptB4SqOchVm5oJFJdCLNuR9yj4/U64jUcfWwuKmbytyuYFpHAwr1JZIu/C7MHFP9/RfD089QYsplpmAihuPAbnr1n28ledRUfXx96ZlVQNa7TDJZQ9hGpSI2UDM8H+k6vcCGWKT+uHHBJ/slW+e4f7zhyAR/jL224l2l+rXpEtg9x5AFXAvOISOgD71snXr8+Pty1bX9Bxq6++UadpVjZyOaJ1/na2PRmZJ2Cmn4L0PhhhBDtJsoygEUIhOeHGjFi3QwoNhcmdw9AG2jWh3VWPH+SK/uN5m1W6hvC0ZkUBTHAe1CRLWKR9mEWxZf1c9G9EMON3EqZ8X7avniz1JiYEC3rGqpx8nx0s/T0nzEdms1NZaPZr6BSsNwvsMJnWxntMMfK7Q=",
+  "URL": "https://github.com/sloria/sphinx-issues",
+  "LICENSE": "MIT",
+  "ARCH": "any",
+  "BUILDDATE": "1572734386",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "python",
+    "python-sphinx"
+  ]
+}

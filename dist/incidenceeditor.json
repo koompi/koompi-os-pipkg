@@ -1,0 +1,23 @@
+{
+  "FILENAME": "incidenceeditor-20.04.3-1-x86_64.pkg.tar.zst",
+  "NAME": "incidenceeditor",
+  "BASE": "incidenceeditor",
+  "VERSION": "20.04.3-1",
+  "DESC": "KDE PIM incidence editor",
+  "CSIZE": "608611",
+  "ISIZE": "2723142",
+  "MD5SUM": "708195b6833ca0ef6667da47afb7f69b",
+  "SHA256SUM": "d2edd0cb613fef498b7cf31545b6e688b46672ba66eba4e0046a1b14abc95b93",
+  "PGPSIG": "iQEzBAABCAAdFiEEFRnVq6Zb9vwrc8dWek52CV2KUuQFAl8HA4YACgkQek52CV2KUuTsigf/Y3XZefyphpif2XlYRcuf/zz9FThI0QnjUj9EcApmOy1znFxW87uFFGojSbcgxV9bmhT0whPJrU94JqNE6DCpY1FGDxSyqWLau56HFtkZiEiDOPz1oD/Nnpq6SPN1OJJRatgxbMJg5KcDc7ZvjHQKCEnMoBxoTTO11ygxdeJ2J/Y2K/+HHCdICyi9/1ByAAvYLJlWmTUbo/9eXviIZsnAKc9IjCFPeF32hP9n7zdbUcEKqKSCADnQRxyixom7X5DFeRQG71wAgmHZO3VnERUp1CfLnlU1fhGUdOSYc1tlqWsx5zEhAfNC7KCAsq+l8K/gfFHMFp7Mg1N+qoXLjOf96w==",
+  "URL": "https://kontact.kde.org",
+  "LICENSE": "LGPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1594105605",
+  "PACKAGER": "Antonio Rojas <arojas@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "eventviews"
+  ]
+}

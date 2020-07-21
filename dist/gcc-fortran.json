@@ -1,0 +1,23 @@
+{
+  "FILENAME": "gcc-fortran-10.1.0-2-x86_64.pkg.tar.zst",
+  "NAME": "gcc-fortran",
+  "BASE": "gcc",
+  "VERSION": "10.1.0-2",
+  "DESC": "Fortran front-end for GCC",
+  "CSIZE": "9895537",
+  "ISIZE": "32499292",
+  "MD5SUM": "b8775b81b3622c70fcf4fe2126b41c97",
+  "SHA256SUM": "5e4b69fea924f142bb8f5f99c14b70001c747e56d5ea620f8baf42cfe6873641",
+  "PGPSIG": "iQEzBAABCAAdFiEEhs/8qRjPOvRxR1iAUeixSKmZnDQFAl7Gyn4ACgkQUeixSKmZnDSCTQf/ayRldS925x4Ma5v59e5Z0bLSpX85b1zpTdUJUhWgh88i7KsFEsfLjcY5KQu2bpIWss+gDlAeSSvylPwnZpfYpGqtJ0TmmGrORtqN238I8hMTH6aoNRKsDJhn/mhKtmbeIvkJhHg/s/8rge06LMmLnSJsjk6hf0CJLTG0eGMOH/y69axEIDaH44c4jtvV5m9eT4bnrgahPSAm6a2T5pcTezEPtdvRrNeTI42ZydWUQKjlrigbiX8lKsqyEVRmwZuW9FLYhY1HPyRLi064axLWJ+iAf1b+3VGLgZ5vB38r3RkapbmbGH4bBRIi6LRzbsoyJD506eimaPB3W3GuVwB0gw==",
+  "URL": "https://gcc.gnu.org",
+  "LICENSE": "GPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1590081605",
+  "PACKAGER": "Evangelos Foutras <evangelos@foutrelis.com>",
+  "PROVIDES": [
+    "gcc-fortran-multilib"
+  ],
+  "DEPENDS": [
+    "gcc=10.1.0-2"
+  ]
+}

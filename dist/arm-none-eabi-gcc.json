@@ -1,0 +1,25 @@
+{
+  "FILENAME": "arm-none-eabi-gcc-10.1.0-1-x86_64.pkg.tar.zst",
+  "NAME": "arm-none-eabi-gcc",
+  "BASE": "arm-none-eabi-gcc",
+  "VERSION": "10.1.0-1",
+  "DESC": "The GNU Compiler Collection - cross compiler for ARM EABI (bare-metal) target",
+  "CSIZE": "25186624",
+  "ISIZE": "381682469",
+  "MD5SUM": "5fe403605b98979a22e7081584234579",
+  "SHA256SUM": "74f903cf0e3c09360145d3c30c89f440cbe3f5b5ff5261127717c063cc98c9ce",
+  "PGPSIG": "iQIzBAABCAAdFiEEjhmSFnRl21+wRVV8sChU7XU+Dx8FAl6250MACgkQsChU7XU+Dx8CuQ//bePydfH8wSL0gBFvm10olDi0fyI0xByxxJJVuuxo2UYEh9EqLIk7aaBFdXsUueguNCY9lmht5h4h1v+bEZwoPUkJDQvK17AUJneJF/zEd1ZAzLiyuprFugoR/A81dEn6/+QoS/hdBeQr2L4nYbJOdQ9kQA21XpjI5K+C3EKMgZPdlVxHFrpAceRBPAhfzzIo3msOclzvYWaq8agwf2gMilvi83psVePQ56/Tgr28RV4uLn2VmfGGGBuWxv4goEiADivRrSWauXtlxL9YsO0FrmosmzPcpnwbNdfua3fAfB9b3ZHcf7Vv2e39lNL7m6RFK3RTzbbBSiQhS8MjG7xgtvknDZ3FyOaKiAM86p8yxUmovqEVgqAopTpxn1wXADWomQ54HV+NPLVhqNIhyHXXJLPgtvGfw0s9wRXxGpQKk3hzZ9giGr0JL5GuZp3V/1wJYKHF3fn/iGgz7hTMfqGfuDDFieTKrTtT6cSOF2Pzi9BbWV+vfpkLHqnuQOD5GLZWSv0c7pxj7Iqv0m6BE3m8LE+TnkzJPMWy3F+zoDVs0SMP/iwdZvgJXZTMd3OmDuGhJ0AHvTfU5/2oWhOyKicyO0jOD04G6ehCf1yQC61mzlw/U5psMWcnMRhQl7LFjLqv99le0wSOoVixposjjC5Urtt4o+eS9miDew6lFPvMAJQ=",
+  "URL": "https://gcc.gnu.org/",
+  "LICENSE": "GPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1588892652",
+  "PACKAGER": "Anatol Pomozov <anatol.pomozov@gmail.com>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "arm-none-eabi-binutils",
+    "zlib",
+    "libmpc"
+  ]
+}

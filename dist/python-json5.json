@@ -1,0 +1,23 @@
+{
+  "FILENAME": "python-json5-0.9.5-1-any.pkg.tar.zst",
+  "NAME": "python-json5",
+  "BASE": "python-json5",
+  "VERSION": "0.9.5-1",
+  "DESC": "A Python implementation of the JSON5 data format",
+  "CSIZE": "35825",
+  "ISIZE": "213989",
+  "MD5SUM": "ee1082415443e3edcf8a5900bdb6acae",
+  "SHA256SUM": "0c00076d183b772493aa0c8a2956a482a0844741e08056dc08a7f97bce6065d5",
+  "PGPSIG": "iQEzBAABCAAdFiEEFRnVq6Zb9vwrc8dWek52CV2KUuQFAl7OCFAACgkQek52CV2KUuSVbQf/cgn+Jh7Z2gHCL3s8g4fzexEUXfZKvJ35pi5vSNN5HS3OZU2GraiZWq6We4qGD5xXGEjgacTpSzB/84m9QTXOKH4FoySjO4ZlZO3PRKoV4SuB1aD1/eJv/XyJ+wOZpvGv0NwQgk51U6ovDE1lRD0vWlZC2MGCgugfTGv4eYLOVBKZ3M30RQU+20bZb2h3SNiFsv6HSW/F3lm0Y5tyHIyeLlVQMl1iTbBdPx8H+c2IrMyFM1HCUjr1DCd4DXmQwoRBC6wRU+UxATQvM1RYjsP9FbVrTWE74CdVhPpN74MeLfcWQE7uZC7nGHzNIGY8byYQHDOlY+8EVPZwXXo6oSCqVw==",
+  "URL": "https://pypi.org/project/json5/",
+  "LICENSE": "MPL",
+  "ARCH": "any",
+  "BUILDDATE": "1590560572",
+  "PACKAGER": "Antonio Rojas <arojas@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "python"
+  ]
+}

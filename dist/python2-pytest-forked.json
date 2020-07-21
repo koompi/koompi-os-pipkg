@@ -1,0 +1,23 @@
+{
+  "FILENAME": "python2-pytest-forked-1.2.0-1-any.pkg.tar.zst",
+  "NAME": "python2-pytest-forked",
+  "BASE": "python-pytest-forked",
+  "VERSION": "1.2.0-1",
+  "DESC": "run tests in isolated forked subprocesses",
+  "CSIZE": "8687",
+  "ISIZE": "17624",
+  "MD5SUM": "53b1e8bb0a6fed38b5cc58217c1bfc16",
+  "SHA256SUM": "7e81f4f872aa1161d1f504ca74cceb93e979fd3f507c8b1f766ed0c4e78acb34",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl71W/gACgkQeGxj8zDXy5L2ZA/9GRNRBlDXpLsPGEcJnvBVdEQBRyQImZ2nlJJamT8l5wO7NgzQVD7Vz9w+MZMiRF8gErmA5ihEAqrRQuPIHvGojzvBxNk5CdVPbRYcx8B8DtCgxzSvcAyZrznIQe+gxAOny2oHpCMP8DxCoOfgbTpyWRB/XfGJOykdH+qEeANuc311F5Bfr9+Hv0SWfpVtYB5jwFo7Wblcd860c/BC+4Dse1OGmZuZ3mWYui4Oo4ATZVrUM9cHld0LePVfwiSKMd315SZgPYkjjBQ+tv9FmpcunlZdrUgIorp83rsRw2CH7Vk9h9mB0OeR6639MFSrrYusV0hnkvg7+jssc7XOiwM6Evt0pZAMt6+8thGRbxjz0hfgXmX8f2E+VyVz8aCKzahMwqHGnqLae44AWUZY692QuTzWlEdwDFkJx3V9EflJ5fd6Hoedm/IYlph/uquYJ9VAb9z62bURPYypKK3m8uTYogHHOdntKFnluT+c6a82m6pxx7UyO6IGflKxjEWJoj5/HOQ+ztjJV6USuFj0dxOnV9iZVBXg5MvuPLw3o6iKfpRLWH+LvC4iEx7YUHm8mlBrgQDaRaQK/NNlmwio315gR6/xxeJZWxWyme1jpZouo0aLqlQgDC6EBHy0xpNZiDHTFWX6oTJvmArQ4vC2a7bJQp9Le6jN01yVL7wsycztTxs=",
+  "URL": "https://github.com/pytest-dev/pytest-forked",
+  "LICENSE": "MIT",
+  "ARCH": "any",
+  "BUILDDATE": "1593138114",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "python2-pytest"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "FILENAME": "haskell-time-locale-compat-0.1.1.5-10-x86_64.pkg.tar.zst",
+  "NAME": "haskell-time-locale-compat",
+  "BASE": "haskell-time-locale-compat",
+  "VERSION": "0.1.1.5-10",
+  "DESC": "Compatibile module for time-format locale",
+  "CSIZE": "7141",
+  "ISIZE": "11595",
+  "MD5SUM": "9e3c3eb2e527fe8b05560ce7890aa41b",
+  "SHA256SUM": "971d637295bf8d50fa225e195851ac41134d5faf77db0cd65ceb2bb2c31edd5d",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl6iGdcACgkQeGxj8zDXy5LZ0RAAhKjkAVd86FBaGDgh6VKc5POBHH7JVjMLRGbNP/uThCpC1pjpqc4roxqKdMyxA+I8mRvN4ZDElvmIJ1eIaQkJNZScNdXuiw4VFmYICJFJLpA0bepL5r7Pn6uyUIlml92e9KXeSONkZ08UT/7uthGtpm+uw5Pe9esOzFLD9R60nbQpL4UV4WmqD12gj+AwTdfIRfjaJNifpu9zZhyCBuvPH7ptGPSWJ7J1O1d1UlDJ5zxIjDiirPnVLfRiWcIZ/wHLbn/TIGK7+79OUR4ibrqI9n0zNTUOk6XY0UXVlwinVfmGVabIuFmS/dO0EBJV0V5V37VpeD26LeZM10FDruSHl6Mggfb5dVdzQTG9QEYAYlL+Ym9wJGBR6KHbp4pyljvpu+gDrXD2oJOWoooIWgALzt9Q2mvyljyL80w37yM1W7sIGaaKyBKhbJ3Z2xWLx7Kxo6CECrlT3H7JnXp1bz0rPK3LdJjB9oPszMe60yvHx8N2f4+ihSYUPV+OFo+Bt3erYZazozzW4Yl0bxXaNtf4EeWZbXqB+sse6qtNvgGS7cN2kAcnxt3Od8MY4WDjbfSEj3yV7hIVPK1+CALkT9/2ui5Ss2p2liJVZGoG3PV/nzgzz0vHAj6hGNrzdSoqmVJwt/IC1/Ou+7ciDPR6Yzg9op7XpahRbyxKRP9xIr8asVQ=",
+  "URL": "https://twitter.com/khibino/",
+  "LICENSE": "BSD",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1587681666",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "ghc-libs"
+  ]
+}

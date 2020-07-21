@@ -1,0 +1,23 @@
+{
+  "FILENAME": "haskell-ordered-containers-0.2.2-5-x86_64.pkg.tar.zst",
+  "NAME": "haskell-ordered-containers",
+  "BASE": "haskell-ordered-containers",
+  "VERSION": "0.2.2-5",
+  "DESC": "Set- and Map-like types that remember the order elements were inserted",
+  "CSIZE": "102993",
+  "ISIZE": "572186",
+  "MD5SUM": "ecf227a010d2efe8ff8ab4e526f3d7b0",
+  "SHA256SUM": "563c430e2ffbe554ff45546ce4731a0ef1d14b79d969b60b12d54e7d1b45b472",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl6hnxYACgkQeGxj8zDXy5JWuA/+JEXVr2OVfVHgkA4926UAmxR718TsUxC5qAucySI5n14ETJnEjXnGGCnD1V26YMvh3IFG48uWvOsbQWA+yU0DM8/Ol4WDuruaxImRn3h5jfqDA0yV++/BpAvEz7arm7+DwrmZ6BNnbX/R9e573Ayey3iioKI3Hfa18hZDCJ5gWNRT4QUbFoYTD7m8X2KdScTb8++jIrqAP9pqCnqbATTDD6A/hPeKEZgUPFiqL9MryG7QcgEiLeHSwIliNqfRauUPPBR/up9vk5Wnl/CIZoRK2y4tOxJvGGgvOatmsLmAovSzMtv2uaLXtwetYH9yjdYgsP83ns45aazXO8AFH6LLzvpi92EQsj9EykXC7jtCVLNgi6gk3pmA99N9rUxN8kfPdMKdGVvFc7Wt0IgbvGsx57BXBpaBN6swNeBEEFvHBqKrZZrkawjUYpp7byiZnN/OrHO5KmKfRMOozgEVZvxwPmj6c7xmGV8kTBzyUdO+yA7E07fO1c9HCAvCiGHtQGowL8zLaT3GxRLm35722dEhz3jWDGLufosPsa3NXUSuXYU4lM2QjrzFi87nw4yqX/whMCBd9VKvt87M9HmmwBVot4H+g6JmkxoFaUfBtutirEGdmhfhfKJ3dNeZT2lGdBH0ZT3UHdcDZc5RocYG2bUCeA5lbClCebQa2WlzvRKnIR4=",
+  "URL": "https://github.com/dmwit/ordered-containers",
+  "LICENSE": "BSD",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1587650239",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "ghc-libs"
+  ]
+}

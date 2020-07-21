@@ -1,0 +1,24 @@
+{
+  "FILENAME": "wolf-shaper-0.1.7-2-x86_64.pkg.tar.zst",
+  "NAME": "wolf-shaper",
+  "BASE": "wolf-shaper",
+  "VERSION": "0.1.7-2",
+  "DESC": "A waveshaper plugin with a graph editor",
+  "CSIZE": "637156",
+  "ISIZE": "3746805",
+  "MD5SUM": "1011a13f19977bed5149ef9914ce7b4b",
+  "SHA256SUM": "fb7b96196a48e00af96086b99396c9cdd98ce3ed8d35561c13093956c9920ae2",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl8EqUIACgkQeGxj8zDXy5LYsQ/+MrX2jzlEr+rsFfeP/hUQCfKIDEYRq/uTb2QZIftuaEs2pcjvVkxSkfYRwwgbcdb4LfEJOjVC447M+rSO8xlVEWDq5Jsl6bIax4hRoDgw8mBV8gBWv0PH4kvbVcoJFF2xeJgBz1ndyVC++XM427lgJ384H+EP6K5ija7uPU+dboYFk18AvyCdOIMxHeY/YytFgxO5BwbktNusWf3AzBsLhBv5A0a7UWsUAPlmyHC5eMAhGOJvyxBTDi8ppcbCSOY+DKxL6caOUzt6O3Yk1GBc/Z4dfD3HDYE0qN99RaoQwkiqApU9gMGs1RSpdUuvuCa/m2uf2jRGVbHMxpoeb2syPDWgN7UwmMR54rJjBEkJ3Uduc1hpP6rhKf9LP/Im5/ujgobV8xHZBCY/1Ejpk31AWkAsadHWm5g4uWmyMjn4wtYwky+ImK/+mcb0Nlwxbcbm8DxpwOVRpkvIM229auP85ci6GcfD/pU5uIIhOk63m70wlgWMScwNq+z3r+hbaWQE3Kf29oFlbsyG5dYRc0D4FAp2CgdN+8bvY6ixy5H20x6auPKkxjHyrj2HQr4lbNpreOKLR8ARTjUyL2A0fHZuv6P/CA6zwrl1R/82dOCXVqe4IC6EyuCURp8UvntycPX/FdLnJfuXqlNhpN11QMBskVsdIOyWGFgaSqVLiFtUN0E=",
+  "URL": "https://github.com/pdesaulniers/wolf-shaper",
+  "LICENSE": "GPL3",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1594140901",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "jack",
+    "libglvnd"
+  ]
+}

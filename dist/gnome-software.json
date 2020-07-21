@@ -1,0 +1,30 @@
+{
+  "FILENAME": "gnome-software-3.36.1-1-x86_64.pkg.tar.zst",
+  "NAME": "gnome-software",
+  "BASE": "gnome-software",
+  "VERSION": "3.36.1-1",
+  "DESC": "GNOME Software Tools",
+  "CSIZE": "7371611",
+  "ISIZE": "16517843",
+  "MD5SUM": "bd0bdfdcd831445a24d81bd4c99d05af",
+  "SHA256SUM": "b8591a72009547b49893c3e65983e169aeedf1e578e5fbe98a70c44e2e9cd105",
+  "PGPSIG": "iQEzBAABCAAdFiEEghj4iEmqxSLpTPRwpekojE+kFfoFAl7H8BwACgkQpekojE+kFfpzggf5AWYPmHX9M9yiYGsNSbA1WWSPmmtjAJp21BG5ZpNx6m+hBXUGnFY4pT1X9fGLNHHfYEjuEAfcqLtHlZaBVp2sNZdc/UwfOO+eEW41VkxOjTSlzY0y3Dhc6LYYV6B3M8sDWmyDVxtv6EeF4B9Y51JWFX7zjvXfxbssqyo1JddizdqBFj8P3YNPR4leLG2o7YPCtIwJffoaeHYItRpdNbcSS0nL3zreqDVrj0jU02r4mW6ItY3wSu9Lp7aJrCYQrV3jGwUHvgA/jJU9JaMih5MZM1wWynfveui6Xjq0t2fir35nxQmwG3KcwDJP7QY0EcxHbFc7LNS/FiJgYWAL2Nmsdg==",
+  "URL": "https://wiki.gnome.org/Apps/Software/",
+  "LICENSE": "GPL2",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1590159941",
+  "PACKAGER": "Jan Alexander Steffens (heftig) <heftig@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "libxmlb",
+    "gnome-desktop",
+    "gsettings-desktop-schemas",
+    "gspell",
+    "libpackagekit-glib",
+    "gnome-online-accounts",
+    "appstream-glib",
+    "malcontent"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "FILENAME": "libmediawiki-5.37.0-3-x86_64.pkg.tar.zst",
+  "NAME": "libmediawiki",
+  "BASE": "libmediawiki",
+  "VERSION": "5.37.0-3",
+  "DESC": "A KDE C++ interface for MediaWiki based web service as wikipedia.org",
+  "CSIZE": "95248",
+  "ISIZE": "404789",
+  "MD5SUM": "67414409a0d800ae8276eb1fab2c3d12",
+  "SHA256SUM": "cf5c4d8618236b8f83ae9710f060b4524d21d8324f7cb0a2de382283b19afcbc",
+  "PGPSIG": "iQEzBAABCAAdFiEEFRnVq6Zb9vwrc8dWek52CV2KUuQFAl61KKwACgkQek52CV2KUuTsrwf+Lejr2I2AluLlQ6xlgqp402Hosc1QnGhDQEqHZA2xafzTyXWsk/fc8c2HIj/EPjKad32fHSU8nOEo+KH2+jmIDprnFuNFpiS/cyGbGMbj9fZtUpzL1AOgLAonZSvXE+yLC7D3NKjqmBIXqkTHHWUDse5hQY8mEXYKKs9xBEAyK9xyZv37X67A7o7nwySLOgPouOpKc189U51gXupvjovzccR2O9RFtqXCu1rCZZik0Bd3yReiLUyzO3gRghA+N4pujHmGYx/5OjMWaLNwD4VvN2dpwn2IKSY+9d0ABpc0bAiYINNb1kkEgdleytt1lZLjuZAwgzQbxrWLUZkhjC6F9g==",
+  "URL": "https://www.digikam.org/",
+  "LICENSE": "GPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1588930677",
+  "PACKAGER": "Antonio Rojas <arojas@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "kcoreaddons"
+  ]
+}

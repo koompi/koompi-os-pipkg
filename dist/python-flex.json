@@ -1,0 +1,30 @@
+{
+  "FILENAME": "python-flex-6.14.1-3-any.pkg.tar.xz",
+  "NAME": "python-flex",
+  "BASE": "python-flex",
+  "VERSION": "6.14.1-3",
+  "DESC": "Swagger schema validator",
+  "CSIZE": "99240",
+  "ISIZE": "532765",
+  "MD5SUM": "06a42d0a60d70da51a07516d857756df",
+  "SHA256SUM": "0c21c1cba9778f56b70d47be947147a7a9c23714fcf1d66a327680107134ee27",
+  "PGPSIG": "iQEzBAABCAAdFiEEhs/8qRjPOvRxR1iAUeixSKmZnDQFAl299/gACgkQUeixSKmZnDS8EAf+LBaISDa+qp1BhiTeibZlsRVsHDh2T03FIGEN0wpy0b1Hft9bC8vY+/eaze8PFmAv20JVbyWgIJgStKD9b+WqNiGZaQT1Nctz64wzmnCUgNB9jqU3Rf9mO+f6vWCzqToS6HpP0A9kuOr+9wFivjP3GZXiGcxEhkpShWdgthktn01DHMhjqgI6bndiQGMoD6F19wZ1QFdi74NmY9DCXJH1LyK+yawg+TldtR2Te7lAON/XPunVCVzgwpZgt/zRyHRlSMbpfrhpRKqIAPpnPztkQQUokv94eudYs7ya3hRBwVk0NJj+p8vewYjYD7vteRCcUlUFrFeJWZX0SN3t48WGFA==",
+  "URL": "https://github.com/pipermerriam/flex",
+  "LICENSE": "BSD",
+  "ARCH": "any",
+  "BUILDDATE": "1572730811",
+  "PACKAGER": "Evangelos Foutras <evangelos@foutrelis.com>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "python-six",
+    "python-yaml",
+    "python-validate-email",
+    "python-rfc3987",
+    "python-requests",
+    "python-strict-rfc3339",
+    "python-click",
+    "python-jsonpointer"
+  ]
+}

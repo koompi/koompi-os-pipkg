@@ -1,0 +1,23 @@
+{
+  "FILENAME": "firefox-i18n-tr-78.0.2-1-any.pkg.tar.zst",
+  "NAME": "firefox-i18n-tr",
+  "BASE": "firefox-i18n",
+  "VERSION": "78.0.2-1",
+  "DESC": "Turkish language pack for Firefox",
+  "CSIZE": "513458",
+  "ISIZE": "576348",
+  "MD5SUM": "0aa31941ef57e628ab1f2dafa4effe38",
+  "SHA256SUM": "8a2ac32a113f6bc17c54fb73ed98980171b3773e23fa5cbea63e7f4c512b4bf7",
+  "PGPSIG": "iIsEABYIADMWIQQGaHodnU+rCLUP2Ss7lKgOUKR3xwUCXwelrRUcaGVmdGlnQGFyY2hsaW51eC5vcmcACgkQO5SoDlCkd8eI2QD8Dt6pxcLsPBzAyW+TolsHhtPlA7pUjS57UOsI+M5tQ1YBAIhiNRSnvN/aLFQ5cNShpI/iqaaZyEOpXVdwr82/BQUK",
+  "URL": "https://www.mozilla.org/firefox/",
+  "LICENSE": "MPL",
+  "ARCH": "any",
+  "BUILDDATE": "1594311501",
+  "PACKAGER": "Jan Alexander Steffens (heftig) <heftig@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "firefox>=78.0.2"
+  ]
+}

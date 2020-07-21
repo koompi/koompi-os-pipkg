@@ -1,0 +1,25 @@
+{
+  "FILENAME": "python-dropbox-10.2.0-1-any.pkg.tar.zst",
+  "NAME": "python-dropbox",
+  "BASE": "python-dropbox",
+  "VERSION": "10.2.0-1",
+  "DESC": "Python SDK for Dropbox Core APIs",
+  "CSIZE": "1056688",
+  "ISIZE": "17588186",
+  "MD5SUM": "a1206877efa4a88f7c3ee0b9375d338b",
+  "SHA256SUM": "b20e81d969ff71c40e552802883084c342464200ab33f3065cdb965b6c319360",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl7X35UACgkQeGxj8zDXy5Islw/9Fp4MTcY3AAp8YICbqGHA3Qnh9ZhJKbbXcyz1jaxM1jMi12IK+mIfJ9wGDtBTTV2yIyodEzU8rZbge4v8IcsnUH+PPNMUc5mE5727q10pD9P67YEKisLkyJzfVIAxk9Lhy67Ew1UBy0mzsTeLsR/Wz8tJLQJuriJlWtdlzklTEz/1pxUHl++g/GSxCJHDBnkKMVSo1LZVogf0MWUguOvzL7/ObAlpqMWBOmTIwxK4kqmnx2kQ/wnciFG5QWCoCxJ1zQOb42kVypkTbpwZg5a8Tuu5KLC/FkpZnKZwoM0+CkNag5usT95Cg7XbmCu18JDO1fqfzNTuMRMLv+yXEqK0OLNTdE98byhGu+VB+9JooutMIyNh6gGE+GOJ2toC9pX63eCkJalgE3MjniSBW6wL0SLXryM+57ehuZoFJ7QjC2foHNYeQC/cpZezS1eJ7Cnb8CEmGhSaf+BJKfhyAqo14azECj7qTMQRTCzuJikdv7VdK++GfD4NWq0kmjS1/o4nD/3WbA2MEayx/lO+DgJxSIXtF5TFKHh1sO/ly3s/0zeJyYJ7R3Q1mL5UQ2+IlISrYXzTX1E7IbStFifpMN4AVrZl18llnqTxiDoxDl3zrx5XCPfOhKg8RqFTKwbRRB66cUAOv1IgE3lgmbg7yG70/B2FmstCcR8U7prAIAnbmRI=",
+  "URL": "https://www.dropbox.com/developers/core/sdks/python",
+  "LICENSE": "MIT",
+  "ARCH": "any",
+  "BUILDDATE": "1591205747",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "python",
+    "python-urllib3",
+    "python-requests"
+  ]
+}

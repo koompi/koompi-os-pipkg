@@ -1,0 +1,23 @@
+{
+  "FILENAME": "archlinux-menus-2.5-5-any.pkg.tar.zst",
+  "NAME": "archlinux-menus",
+  "BASE": "archlinux-menus",
+  "VERSION": "2.5-5",
+  "DESC": "Arch Linux specific XDG-compliant menu",
+  "CSIZE": "9425",
+  "ISIZE": "18244",
+  "MD5SUM": "fa1fa724a6640b2c65b10f12dbbb03e7",
+  "SHA256SUM": "792e369629cc683fb2c15bc526025ab3966b6178d6cd3dde0a9ae8d943cf013e",
+  "PGPSIG": "iQEyBAABCAAdFiEEFRnVq6Zb9vwrc8dWek52CV2KUuQFAl4PEL4ACgkQek52CV2KUuQelQf42I2sHIMycKtq3jrV58YIlobtHtD33PYys+Xmawjx0eVOO/vUKjHpUs4jjNRFaB5jt64BvfkkbU/jDe8+2Pgfzg/R8q1WRvH0RCDICbRDa2FlAyh/jiJA2Zk97+khc3HiMwRj+cR7h/W+NWb9VYzTso0TjpbteV2CYEkoewKfPIjnaGmdDbyP/FqTgLn3WWK1nU22wWjY1+CXA5bPqCrjCNKE2ZJmYDQ3hJhuFDYPFExwWVn2QZEDSBNLKLe8YhlQsPQKHZHnFh1Q9mwsCQDJW6uSyfkpr76VeHURvEGFRylrk2LYD3KBa285J8cm6mtEIIuKQ2JFe8IXBZrU4FUS",
+  "URL": "https://www.archlinux.org/",
+  "LICENSE": "GPL",
+  "ARCH": "any",
+  "BUILDDATE": "1578045546",
+  "PACKAGER": "Antonio Rojas <arojas@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "xdg-utils"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "FILENAME": "perl-shell-guess-0.09-3-any.pkg.tar.zst",
+  "NAME": "perl-shell-guess",
+  "BASE": "perl-shell-guess",
+  "VERSION": "0.09-3",
+  "DESC": "Make an educated guess about the shell in use",
+  "CSIZE": "11433",
+  "ISIZE": "21029",
+  "MD5SUM": "3a878bd5fa181779586f3a7bdecbcd97",
+  "SHA256SUM": "c7cceb1fa5e03838256ac222dd5ae344be36430946bcd14d6726580a644e8a8c",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl7vN7IACgkQeGxj8zDXy5JFYA/9En/fpuPrpEqvOL8sOut8ToEafuV+NYnROuWH6XemDzPjMv+AI+7z6MA6LNk2u87YjA8djQHlNxUjWoKnPMN+mPCB1xNkILDJJxJx5QEcCVXv9b3kMTXGfOa3FylrODrZoZ7k6RaURHTnFUdkc/3P5He/f8Pq69qBlGmmmwLWbSzABalwofoGi0aEOWq1nEz03aK4ZmuRCZo5VCZpPvBJ3wj1GvGXFsjpdhOWLCsBWAd3zJwN2ChfuTkNaddvCdGzx4e7GlE52OFfW56mGeykx6IkBkotoTigiFsdY/HR217SDF7w4wKF29YyiXU+PQxO2EVjnQ/2LWjCU9LUtIjbW3GqkOiSE5mw9Z8PKmUtupjIC2b/CvL3Wy4IdOqxY+5bvu1nD7ssfReC1ZzzqRMT6sFgFflCH3TnJR3ny0axsNaP/+vUszoZqMgsAeudqiFWwKBkyHaeuhZiBSZ4Y8njiBCEtLXwkSKcfkrHySFKHDge/aNH/shT0B6ot8hojUDklwlTs0sXBAMnrTDCQFy5CKd13o4CO3vhQdN8A4WVoY8JiPnA80ijtj65YzJc1DgjEx7a61MjGJtH6Wwl4Qgdin6lEUYYHDT9uZ/SYOBf+/MrHUw5TMhdhx5nuLfRw1sJyloWqoQnciYAi/6JtVs0M9KPm1lm1jSAg+Xwvb46mEs=",
+  "URL": "https://metacpan.org/release/Shell-Guess",
+  "LICENSE": "PerlArtistic",
+  "ARCH": "any",
+  "BUILDDATE": "1592735647",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "perl"
+  ]
+}

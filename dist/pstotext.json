@@ -1,0 +1,23 @@
+{
+  "FILENAME": "pstotext-1.9-6-x86_64.pkg.tar.zst",
+  "NAME": "pstotext",
+  "BASE": "pstotext",
+  "VERSION": "1.9-6",
+  "DESC": "Converts Postscript to text",
+  "CSIZE": "30822",
+  "ISIZE": "106158",
+  "MD5SUM": "830e21286c1e8397cfeccc17f31d835d",
+  "SHA256SUM": "ee2e9b407216ebe261091c1d73949694f54d2a2324d5a11733f61ba2448b1dc1",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl8EquQACgkQeGxj8zDXy5L50hAArNgrhrXGgQqX3924UHTwuLtznguyjhTp/4yLYGDPDZsmDLGLUL2+kAVfsKTS8tmyIMIpZeDOXBPkRfbaAV6G+nbWuUjq4At2bJkK+NMyNZ3HOCLymlp+dnYqoJ4NBdg2l6rzSI1xwQoWU9ZAyUB/egZtb9IO/8WZoNFrUC10pKGZ/ESSbO2N5X3F2yoCR2ssxQCXBZT6Jz5Q7EBI0LRPB1BecVPunjw9QaSdYdWhWzja3vAebliBv2/ltP9BKa/jv1ID1Rm3cMq1UKAqdfTX3XLv+rMo+NZMv2eqd/HDdgZ+GhIgN4eisgMvhAsR0kg1Idb1WAME5L85FFxSz81o8NlX98dbX2sS+8C4ZFOEx6Kt70F3mzBHu21FXHccnTK7fqE2LBGslIt7IQlKE+K+R2sgmW+4UxXWjK0lZfxzfQbTy+H1D6B2QjEW+EG2D2+XFQ9pDauKTLttHEdbR7AeFZ8zimlwTUPXkpJaFaWQx1TNHz8+daKlF+GTQrXQ4eK7cu/aE/lIAcxPRRu/hfPnAVGYNNyxmPmmBLJS2fCfvz+zZUzyyo9V0XsMsMZ7goEfHK54EAzCP2tAMNTikTeKTPtc1YLP2MCzdaIiWdfGnPDuCdyznoPxbCr2xUfmNTRyhHmku/IAoKTRo4cZw7TLtQGmqL+xp3oQgDj1H0ND4a4=",
+  "URL": "https://www.cs.wisc.edu/~ghost/doc/pstotext.htm",
+  "LICENSE": "GPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1594141165",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "ghostscript"
+  ]
+}

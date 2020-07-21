@@ -1,0 +1,25 @@
+{
+  "FILENAME": "zint-qt-2.8.0-1-x86_64.pkg.tar.zst",
+  "NAME": "zint-qt",
+  "BASE": "zint",
+  "VERSION": "2.8.0-1",
+  "DESC": "Zint Barcode Studio GUI",
+  "CSIZE": "222269",
+  "ISIZE": "714229",
+  "MD5SUM": "74c7365d4bea67956122913413a403bc",
+  "SHA256SUM": "9fc13bb089b6c87d7fa3f8453175446a7c562eadf280ea20a762fe730920f49f",
+  "PGPSIG": "iQEzBAABCAAdFiEEzgvecadZqH8j8PfYth284QkBwWMFAl7OoR4ACgkQth284QkBwWODMgf/TlppLru80Dzo1lXzws8sfTe1icxgdVH0O7gXyAAGO8F14BU2wROtSUWwiB1hnAx8b1YrSVBVe+JdBDt5AAhpAu2KKcQQmnWi6Ak2BlaNfL7GaskaMQzVGqhSjA7MtlHfrvAo7eLpNVm6S9TBdKZ6xyhot/oR9arHdA1WnpB+1+TedLQ+PNQbaU+bG045e/eG5mbFvDiRccgEncLtZeTey6KK63FeYcK82tcs/D+IME9CKR7zbTCUWM5YOu0fA90Qn8wZVKhQ7bXVZ7Dw2Dd5avO9S63ehggXlXmXK6MKf2wvAwFO3TwUrJerYWea4+FwUpFZipn9S/PJhK4KqfAKfg==",
+  "URL": "http://zint.org.uk/",
+  "LICENSE": "GPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1590599898",
+  "PACKAGER": "Balló György <ballogyor+arch@gmail.com>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "hicolor-icon-theme",
+    "qt5-base",
+    "zint"
+  ]
+}

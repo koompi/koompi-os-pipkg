@@ -1,0 +1,24 @@
+{
+  "FILENAME": "nginx-mod-auth-pam-1.5.2-1-x86_64.pkg.tar.zst",
+  "NAME": "nginx-mod-auth-pam",
+  "BASE": "nginx-mod-auth-pam",
+  "VERSION": "1.5.2-1",
+  "DESC": "Nginx module to use PAM for simple http authentication",
+  "CSIZE": "6821",
+  "ISIZE": "15969",
+  "MD5SUM": "7f9d55684e15a12dad2bbdd3eac6f54d",
+  "SHA256SUM": "f8463fd8183c6d59e7de7ba0e972fc18cf4633de7af38db155f764ffd545e5b8",
+  "PGPSIG": "iF0EABECAB0WIQQsEYxiDwLbmsHQ+fqU3SOT2i7kIwUCXvpUdQAKCRCU3SOT2i7kI8BBAKCXZFfcMVA4nzBBYKmEXcMqWwi8tgCfUZJonSZWsW6LsDfShuVeMhf3i3U=",
+  "URL": "https://github.com/sto/ngx_http_auth_pam_module",
+  "LICENSE": "BSD",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1593463891",
+  "PACKAGER": "Massimiliano Torromeo <massimiliano.torromeo@gmail.com>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "nginx",
+    "pam"
+  ]
+}

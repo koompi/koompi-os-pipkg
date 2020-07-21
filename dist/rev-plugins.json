@@ -1,0 +1,23 @@
+{
+  "FILENAME": "rev-plugins-0.7.1-6-x86_64.pkg.tar.zst",
+  "NAME": "rev-plugins",
+  "BASE": "rev-plugins",
+  "VERSION": "0.7.1-6",
+  "DESC": "LADSPA stereo and ambisonic reverb plugin based on zita-rev1",
+  "CSIZE": "14469",
+  "ISIZE": "37944",
+  "MD5SUM": "fc0700c5ac305a0969df83689723b71d",
+  "SHA256SUM": "6675fde08b46e87094fc7149a9142613b1259a1f9131a1dcc690d2f3ff23f6f5",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl8EfxMACgkQeGxj8zDXy5KIoxAAtBwGS3peVHJtv+JL2Avs1qSmU/8YIuJadYb4J5voYg57/jED67+bazubsufL18tfQ2StD6H256i4/SaVF0zEOyh7rmVnw+c9H94I//P7g97bHrtggBiP6Cu+J2Jwa1wZ47dGRAsA8AZOs4EskK9QeEiDTPGq0xN70iN6Ze20HE8P9PPsrYEGVjE5QtnVv7cHyrFUsRL6MQZTKZcawJYvZ01M4OLbD+wPlEshAEQWpgC+T9Kk3YI0sbatpLY3fPUEKUNLVDrI/Bi/Iq6DUUYyDfFPSkF0ghFur72yMle5ljpu9ATzDyYbxMW5YCTYaJLq6mn46/OdRXXxyxWFWJzMKx4FjofRJLKMMa8/zV6cR+hUGyTA8K3EleLDkTebhPIUQIeeMtFQrjL2B+fshhGAitIGmH/U4aeq7IRuVuEhy/Kh9WcXZwCEAyWwzWpvBEYreWYyxS+v4XsadQstj03vtXIrqbSM6P6izh+S0q7IE1EzMadLuDj0Dk4nr8TNlXgskjpmo68BMZV4ROCh8I81+V4q/w0MyWXl9/h9bauPtYXK5asJuWXJga4UELixjJpnwehhRgDJVPNB9YNe9cS9WrmtPSiC5opPEVDhfJrOE9ORJipvhbQfXBbxDBd7WWqTOBjdY64B70z0f5UemoldqtYwzvIwIu/Q/2Xm3SAMnog=",
+  "URL": "https://kokkinizita.linuxaudio.org/linuxaudio/ladspa/",
+  "LICENSE": "GPL2",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1594130166",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "gcc-libs"
+  ]
+}

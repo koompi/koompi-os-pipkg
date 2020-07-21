@@ -1,0 +1,23 @@
+{
+  "FILENAME": "iscan-data-1.39.0.1-2-any.pkg.tar.xz",
+  "NAME": "iscan-data",
+  "BASE": "iscan-data",
+  "VERSION": "1.39.0.1-2",
+  "DESC": "EPSON Image Scan! data files",
+  "CSIZE": "31632",
+  "ISIZE": "252928",
+  "MD5SUM": "29493ec689fd6f7a676dd8da5af51172",
+  "SHA256SUM": "bc7320d1da43f7d5c22923b3bd029c3904fcbddc4897a5756b1d546473b5497b",
+  "PGPSIG": "iQEzBAABCAAdFiEEhs/8qRjPOvRxR1iAUeixSKmZnDQFAlvl/lsACgkQUeixSKmZnDQaewf/T9kfUnxk6+1p2CYo1A9WRvDvV9O45+skW5ltgJmlVn7Y0cjYtIhjpsMujXzzQmYcxTjMIjwof7vpnxn7OPYSCO+3+LBd5PP+rQcX7frOIP4RzsmICjc+dxEQWRvtpTjj76/LvYZvfFQbTzGV52B3cOow01PY0n8Jmvj/unHOmGzkyv7/kSVjS2tksWy5xxyWWHQcq/JTm5iZfgoPplX5qhNVbOuYVOq+0DGA/POo8FQHgX3C81Xb4NUyM/3smFAHl0w0WoDsGup648Ql0eBO5T/HeU7A+mksR8qsXnchCRSpBLFV4IlqWJmhbIjUlwzoycTjpI9B6IKVCi/G5xM5BQ==",
+  "URL": "http://download.ebz.epson.net/dsc/search/01/search/?OSC=LX",
+  "LICENSE": "GPL2",
+  "ARCH": "any",
+  "BUILDDATE": "1541799489",
+  "PACKAGER": "Evangelos Foutras <evangelos@foutrelis.com>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "libxslt"
+  ]
+}

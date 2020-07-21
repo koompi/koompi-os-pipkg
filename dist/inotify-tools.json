@@ -1,0 +1,23 @@
+{
+  "FILENAME": "inotify-tools-3.20.2.1-1-x86_64.pkg.tar.zst",
+  "NAME": "inotify-tools",
+  "BASE": "inotify-tools",
+  "VERSION": "3.20.2.1-1",
+  "DESC": "inotify-tools is a C library and a set of command-line programs for Linux providing a simple interface to inotify.",
+  "CSIZE": "140793",
+  "ISIZE": "717833",
+  "MD5SUM": "53df4e3745f5f9034d509b011ff53ed3",
+  "SHA256SUM": "d69f6dec08be1d28f9ea6c2f18f1cbd022bcfffbc21bc7189a825faa07ea8cc1",
+  "PGPSIG": "iQJGBAABCAAwFiEEPlGL8lJv0Zeeiq5JZcEQwepDP8cFAl42pf4SHGFyY2hAc2VyZ2VqLnBwLnJ1AAoJEGXBEMHqQz/Hc4cP/AkaiQVCsnz4B1FjOlTnc0409kZ4wWKTVp2KRq0Cqc0oBRuZb1rQeOgvUpN5ooq+fluJKQIWaTFVMvlejbYdjs2wAoM6CnjHLIm5nJT4Bd6DO49cwNroXmeXlqal8GvKxjlCPaVG9b8EiYLnpQ7qTknYyNFZMl9F16897B5+sJNQhV5Xw07+MPtcY4bLPPDdicCdQ9TwDeLYeuUCMwuPPNzNJ/5HU/iiszXkmRFD59pbnGROnZJr1DQWp/rlyDaDcYt4tGkg6xq1cVsYsOVy+fAI+VtQbqDTRTdBdV8xV//CAbGYwFEfy4wHlDsytA9WlFYNRU3bckwIVrKZ7cgrEs8Ty3xpiSVI5jYS3faGQ7XPXuNmnN7bYT2UMyiENiLvxWLDapNqUbiBdu+XgLkeWrogM88PxjlbG2LlRhHhxXInARhACvBLPhCHnXn9fiFGlUl3CCLKJ3BrD33U0qgq547LEgYcxpAcPd7Fgx5HU9PTgsVv0s1bthpT7+nT6zAXVPyqIkaMFnaSY862dqq/yqUW3Qe9XbblvIy3cJVZhBhpklBNdrYCcfm1HH5tBM+KIrlgIybhUnaK/AUdJixkgl3Wju83WVao0qfE6Od5MgaoQH3SlgL4ThO5mL7mUR1Z9j7qguHZus5mVD45/Mu5MqLQiEaP7tkAcVKmuG3rVp6I",
+  "URL": "https://github.com/rvoicilas/inotify-tools",
+  "LICENSE": "GPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1580639701",
+  "PACKAGER": "Sergej Pupykin <pupykin.s+arch@gmail.com>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    ""
+  ]
+}

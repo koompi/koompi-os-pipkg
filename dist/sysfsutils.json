@@ -1,0 +1,23 @@
+{
+  "FILENAME": "sysfsutils-2.1.0-11-x86_64.pkg.tar.xz",
+  "NAME": "sysfsutils",
+  "BASE": "sysfsutils",
+  "VERSION": "2.1.0-11",
+  "DESC": "System Utilities Based on Sysfs",
+  "CSIZE": "31860",
+  "ISIZE": "150588",
+  "MD5SUM": "ddffe1b4684d1b299f3108270715e760",
+  "SHA256SUM": "c230024c28785d4696882102d8b4e226d9af36ebb4050684042ab33526f50256",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl3MLZ8ACgkQeGxj8zDXy5IcQg//Wz4/417TtmFwlITCKYI6AhB08aw+BeGiBN247RFGuS/tDYmnk0tQgJUP8J7dVW48IVzIjfF7HD491GcdVRElPRvt9IgU+giSFnIfGVBoqJhR436taIMlPeMdEm+QKAu6wX20rUYiMNwidd6cc7GTgSrlxA9/gXCygaM2jkA7BgSiGkJyQVhXS+gpD4/M23IPHkri6UxYhOgLrF9QLXgxx2OAfi5F7zMZc2cFMEgPZ8ae62PyHfdXBnsGxOCLH8GuMwwnlnCptbEJEUUEO3wl63cGf/CR22QypsPrtuxc1he6t8KfwpuK9Ot34C74IpJ8fK0BqcWM4LKdnsKxJzTTPN6xJ3D8AQ07bcY5L9POY9fhjPZgfnLcSTiATghxgR1/cAVLqES3hkerL1+eMt0RFTyishBZVJkt/Eeq4gC1LKz0iHwaWJqes/QgOZt54ZGfYrYA6HQ8L99XGVB4PsJGGknb31SkDKQ1xyJbwfe+QWNuQuiluV+xe79BIfvEmgO8ffR1dJDbjN5mDAt6dwsoWfu2V0aFUoQe3q9Ar9kf1QQtRvDkxZyuNAw7Q/Sp5Md5bAh+ppdxJdtsQMpTStRfjxWAzIFdxwYeVDi8joezy9KAgoxQPru+B73cobtG/n4nvTTRqt2LvugncCzfbmfKWTpVMbPxnPJmmFNGDuq0Hq8=",
+  "URL": "http://linux-diag.sourceforge.net/Sysfsutils.html",
+  "LICENSE": "GPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1573662066",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "glibc"
+  ]
+}

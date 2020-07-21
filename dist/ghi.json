@@ -1,0 +1,23 @@
+{
+  "FILENAME": "ghi-1.2.0.r23.g0bf0e97-2-any.pkg.tar.zst",
+  "NAME": "ghi",
+  "BASE": "ghi",
+  "VERSION": "1.2.0.r23.g0bf0e97-2",
+  "DESC": "GitHub Issues on the command line",
+  "CSIZE": "25730",
+  "ISIZE": "94708",
+  "MD5SUM": "8b96aef0afb7a190d003026973f5605c",
+  "SHA256SUM": "0b7acb3c5dfc1e308abfb512e9ccb8e7e41ef99cf360f8746ee320f6c5f443b5",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl8El1AACgkQeGxj8zDXy5LpfA//cUhs7Okglv7hr/3ku64Q/ckX9GXsF1sHlOf55qCV/gfFgBWhqefyS2OUpktYmOPtgB4q+G1dOYZgs+dWZ+nYhkTvVsljO9rIFoQgymlseq9chu3vvpv/uD9U9Q2U5VJV8pWAd6spkvL3mygA6CPnbZ/2VN5XgEeXhwTu6a5CHOpVuMRUgI3dObc+tMWJtlgPbjn86hacGGJKgUFbo75+5eWlbGF1QXpId/ctkJzfG3N+5nmUCdhzayak27XYRogUMsfMBCpuHqv6Bvqdi9dm3oFc8E/REG4/Wl1oBTCpQC9X7mrNlZPfWPBRQjUScLhVV4JL90nriCG+NMnr5bfv64lUh/FT1KYh9PO7JK8PDG0N+1JA8KF3jQf6+hR5ox2BOZLzk15Xg+jlOo1iCqQlM8lMiRUDF9e+TkFaX3wHWmJNv2z159+TQuQUDdksWLXSGT+nB9bcUth0YFrN6mjLqBt6m2RPkN1JeiMwq3Boj58PtTd7lkWoCsfnellcH+Vobm6nZxEV+MNz8W8HvTZ1DzBwQJXP9yCEgWCcSvtnN73VJuvL5XnRi+UlpmJaw6qAVJSG68xfgpIZjb/wIXdohgjQjIk+kJto3j8Gx6HOo+1QgkBhgG5drUPkSt1yZ7fViM0VkjqGZXSj2lb3qAC1cJcWAXEFIvElrOQX2sBZ3dc=",
+  "URL": "https://github.com/stephencelis/ghi",
+  "LICENSE": "MIT",
+  "ARCH": "any",
+  "BUILDDATE": "1594136356",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "ruby"
+  ]
+}

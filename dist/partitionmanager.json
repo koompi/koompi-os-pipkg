@@ -1,0 +1,25 @@
+{
+  "FILENAME": "partitionmanager-4.1.0-1-x86_64.pkg.tar.zst",
+  "NAME": "partitionmanager",
+  "BASE": "partitionmanager",
+  "VERSION": "4.1.0-1",
+  "DESC": "A KDE utility that allows you to manage disks, partitions, and file systems",
+  "CSIZE": "1645935",
+  "ISIZE": "4691269",
+  "MD5SUM": "f29a79bc53fe069345c2f4d280fbb63f",
+  "SHA256SUM": "6250a37e0a31714a5d9771ccbc77cce3f124839cffbe0d4c7ca2d154ba797927",
+  "PGPSIG": "iQEzBAABCAAdFiEEFRnVq6Zb9vwrc8dWek52CV2KUuQFAl4/0hIACgkQek52CV2KUuTqTwgAgGTQC3Z4Fb/QlMUCCkp8lGX5yXol68F0AJr+81Sh/GaSD6+GV25ebEHEZ/9aMzaXCigJpJyNRGIxiJq93cpm1h8MWr4p2g5w426WtfvcnDEe/hYTqzEcLHDIsUYkSe3Y0PDOR6ALAoLJOIgy9C9XDMhZM5yXieHjqL2NSx2GpZ9myO74sEwCJpKjgj4RugvsSEZmoMifvhv4tu2SwWeOmQftCfaBOH+cgcmRvoud3mi7VtMb5+GTaC+T4hdkuPthP+/r8whVfTyEWdzidqn5KJFw8kBVUIOyzhibbGGBI/RWRiJsKqVIFXU2wcOz1d0FYRpFjEWbNqmdl6ayHeekaQ==",
+  "URL": "https://kde.org/applications/system/org.kde.partitionmanager",
+  "LICENSE": "GPL2",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1581240564",
+  "PACKAGER": "Antonio Rojas <arojas@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "kpmcore",
+    "hicolor-icon-theme",
+    "kio"
+  ]
+}

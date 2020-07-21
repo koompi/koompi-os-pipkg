@@ -1,0 +1,25 @@
+{
+  "FILENAME": "gftp-2.0.19-10-x86_64.pkg.tar.xz",
+  "NAME": "gftp",
+  "BASE": "gftp",
+  "VERSION": "2.0.19-10",
+  "DESC": "A multithreaded ftp client for X Windows",
+  "CSIZE": "573776",
+  "ISIZE": "3453952",
+  "MD5SUM": "214c91fafef1d04d7af2345e053445d1",
+  "SHA256SUM": "abf5437ab2c4489c20239ab4525ad9962b2cd532776ccd5c732b51b2618c733f",
+  "PGPSIG": "iQEzBAABCAAdFiEEhs/8qRjPOvRxR1iAUeixSKmZnDQFAlw4SLQACgkQUeixSKmZnDTqCgf+IJ62cCRkCek71GPh4p99/GPAqW2BGQzI89LxusHyWe48Tw+5G1jiD2wLhOmIXrndEN2I/UFheMMSepDGCy/w2zX2nZA3ZNZ24f0rdXhiehYwONVIyStHxNR6KzdFDdj5tAmQacps7xxZM0pJHQJfyL17OKqYM5orsYIORegKDLhDQrXkVuAzfFhkGTIT1J4wPFCa1IE3B641Q19CBem3g0fdfUFAKrluVHndyVwZw4T9crOYhZU5t0AXB54LIAnGWoQCFW8Fw7fQtUGqo+MfUNSdmXB9CQID3WWNoNOhVg1MnyOBpyNHyx1z3gRMeEIOPSln33c3+LZJjfqd5IaPCA==",
+  "URL": "http://www.gftp.org/",
+  "LICENSE": "GPL2",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1547192465",
+  "PACKAGER": "Evangelos Foutras <evangelos@foutrelis.com>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "gtk2",
+    "openssl",
+    "readline"
+  ]
+}

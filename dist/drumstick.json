@@ -1,0 +1,29 @@
+{
+  "FILENAME": "drumstick-1.1.3-3-x86_64.pkg.tar.zst",
+  "NAME": "drumstick",
+  "BASE": "drumstick",
+  "VERSION": "1.1.3-3",
+  "DESC": "MIDI libraries for Qt5/C++",
+  "CSIZE": "804606",
+  "ISIZE": "2715125",
+  "MD5SUM": "571767c44465120e12f3ae7ece7b8d1c",
+  "SHA256SUM": "56e1aa975d4ded3e046f46d01f0c2301cd1fa801a766ee4e19baa3934426434e",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl8EtkcACgkQeGxj8zDXy5L2ug/9HR+rkaXqjB1OaKPpLboXXn8qXcsb65zjeJOtAI4tzat291946HEVD39ZDtM/HaQBEUhgjsH30otZktBpLynxHeufzfZ60HJ6Ir6reUAcbLlD/lCc92fVy/1zVdd53KO10fRdsoO9mXYP1yHkEbWtnE6yI6egNY2xvUAMiZgvMGXjdJ1RsZtPF4NhR0V0XQKZRBsX9FY8iPqyPNedhgRMZBYMf0CZT9Bjc8SAFrqgZyhJtXm8BSL2/ITPeBRGWLwLt27tj1VqdF7FE2BwaqkYvOqAqV5k+fPqO2LC2IDO94lUMkuGi4jJpFWcBxrdiQ7ev74iyZsYXt2uWOb2dSL9iT88D7Je3IPrQYJ4OKQYLiONB3Nuuoety+UK9JIJeNbw1hRRQthIBaWsbL+sO0S0erPQyUFekv0tQRhcgFrVhJ0u3b1UEbK9aIpzRTJWoKO17hxrt9im80XlJJAcaqRZAds3puzXWwtMmNzGgeiprQaWTnFA5eeq8n/3fuNHB/FC/AN1jjkXM8QOKcZx41Sd0a4JDMjdqvpWFk3i6E8cEc2usOyMhzXCdp0zzeuj4CV4X7kC9TbDnY5pFpv9QE7V2P50eFou5tfSIhO+EfPqwR9aq2+7Fu0wmKRt7vqGS5eEp+9u4j97xwMZur0FAH89t68P+wESAZ9jSdkbo8XpPrQ=",
+  "URL": "http://drumstick.sourceforge.net/",
+  "LICENSE": "GPL2",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1594144156",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    "libdrumstick-alsa.so=1-64",
+    "libdrumstick-file.so=1-64",
+    "libdrumstick-rt.so=1-64"
+  ],
+  "DEPENDS": [
+    "desktop-file-utils",
+    "hicolor-icon-theme",
+    "alsa-lib",
+    "qt5-base",
+    "qt5-svg"
+  ]
+}

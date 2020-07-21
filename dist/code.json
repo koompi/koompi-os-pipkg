@@ -1,0 +1,27 @@
+{
+  "FILENAME": "code-1.47.0-1-x86_64.pkg.tar.zst",
+  "NAME": "code",
+  "BASE": "code",
+  "VERSION": "1.47.0-1",
+  "DESC": "The Open Source build of Visual Studio Code (vscode) editor",
+  "CSIZE": "10304636",
+  "ISIZE": "77425804",
+  "MD5SUM": "ae33b44ef42b6794731b8969e798b4a4",
+  "SHA256SUM": "98c7151e79fe4d4697ab1e4cd38000a9cff5b60766a35f6ace9eac655ed8f759",
+  "PGPSIG": "iQIzBAABCAAdFiEE0jW0leqs33gyftiw+JPGdIFqqV0FAl8Ho2cACgkQ+JPGdIFqqV0BdRAAqf/S+ThxHGPSZvtqShTRIRQhMSBYfqATOp68JUXxS1QUfNZdR1JgkMc8Lv5K9ZnfT8XVcem1nyKsvnGY2snvsGmVVNolXgOqFlhsf5TOIMciH1PmJpm9kcUhIqj1b9vWRrC/obVpbHQqSryGdmlSV6JL0RCm+o3QhfBd4lVY3uxCVpJuidCZhdxnJ6fGj2ehHVoipyTmof79szDYk+8hWVvg30pYxGAHOZ8naowePFJ6bJjXUUJNO97l6Oy9hazZPcDj9LyqFLtO/ntqteCww8F5mLl65yCbEkLEjx2z/k/xjOza5vPUErpQ6IfX7N9UJjW8lqfxD0aNEana73siBG0yT0kiDEWIEBWZ8pxpoX/j4Q969BthUn/pDEd3bkPo4G9quJ/EO3BPzDUArtm7o3B5bkhfxfRhBoHrPR4unZ0QjwOXvJepA2fSqSkczAMqmKJPB18ySsoDPwOFALS2/cIAsUFzG6a8sfDWcjlfgJWiLsuw8sZs/XCTPsAtu8gr4JsrNRFSkbWM0rX+6tNpQGEFhqBCRkgUsRIKjCPWTkMyoEJjDS3DIwK/V1bwxAiM4zr2UwM7bHbxPCdMFqqaeIIVD6BADLwGoHadDpcCnRSAIHpbZP3hrCdaT0+FK4QHufsYlc54xrEHl6xEKXNIzdoBEYjmsGI1AysHJbOo1B4=",
+  "URL": "https://github.com/microsoft/vscode",
+  "LICENSE": "MIT",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1594330333",
+  "PACKAGER": "Filipe Laíns <lains@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "electron7",
+    "libsecret",
+    "libx11",
+    "libxkbfile",
+    "ripgrep"
+  ]
+}

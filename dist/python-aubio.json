@@ -1,0 +1,26 @@
+{
+  "FILENAME": "python-aubio-0.4.9-7-x86_64.pkg.tar.xz",
+  "NAME": "python-aubio",
+  "BASE": "aubio",
+  "VERSION": "0.4.9-7",
+  "DESC": "Python 3.x bindings for aubio",
+  "CSIZE": "77024",
+  "ISIZE": "328865",
+  "MD5SUM": "c6da2f36b80217f42742327e53ae35aa",
+  "SHA256SUM": "03a0c6ec8c55d6faf3483f1be4d33022d5927e2e9295a016573bb418b319f0ff",
+  "PGPSIG": "iHUEABYIAB0WIQTH54SUZv4jWDQ1iDdyWHNLQcMVSQUCXe1wpAAKCRByWHNLQcMVST2eAP4wJWtmVsf6FMoT6sjUjvemSoTPzaIRWcrLy3+svgS8aAEAiXPN5o0V5qCM549KX2RluOeqGHYlry7wTm9AePFiBAA=",
+  "URL": "https://aubio.org/",
+  "LICENSE": "GPL3",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1575841738",
+  "PACKAGER": "David Runge <dvzrv@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "glibc",
+    "libaubio.so=5-64",
+    "python-numpy",
+    "python-setuptools"
+  ]
+}

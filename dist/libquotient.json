@@ -1,0 +1,24 @@
+{
+  "FILENAME": "libquotient-1:0.5.3.2-1-x86_64.pkg.tar.xz",
+  "NAME": "libquotient",
+  "BASE": "libquotient",
+  "VERSION": "1:0.5.3.2-1",
+  "DESC": "A Qt5 library to write cross-platform clients for Matrix",
+  "CSIZE": "621928",
+  "ISIZE": "2528518",
+  "MD5SUM": "f27cc058c24c9bed1fdc4ae33531153a",
+  "SHA256SUM": "6d15523ead3e004e193a98c5ced09cbab839638eb24215732b7bfa244d48806b",
+  "PGPSIG": "",
+  "URL": "https://github.com/quotient-im/libQuotient",
+  "LICENSE": "LGPL2",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1587900284",
+  "PACKAGER": "Unknown Packager",
+  "PROVIDES": [
+    "libquotient"
+  ],
+  "DEPENDS": [
+    "qt5-base",
+    "qt5-multimedia"
+  ]
+}

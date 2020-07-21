@@ -1,0 +1,25 @@
+{
+  "FILENAME": "qpid-proton-0.30.0-3-x86_64.pkg.tar.zst",
+  "NAME": "qpid-proton",
+  "BASE": "qpid-proton",
+  "VERSION": "0.30.0-3",
+  "DESC": "High-performance, lightweight messaging library",
+  "CSIZE": "859151",
+  "ISIZE": "4828982",
+  "MD5SUM": "afa61b9608af22a74bc46f3e95257af7",
+  "SHA256SUM": "94a0bbdad6794cc007455ef831e61c5ff96f03e19cac12c2009e90f119ba4ce4",
+  "PGPSIG": "iQEzBAABCAAdFiEEqbZxDXYPZhfFMHRuyEe2rrBUQWcFAl6ms7IACgkQyEe2rrBUQWeBDAgAkToO5AWea/AMxmKzj2+lThQ62dnxSUPmTEfSPntNol6V6flXv7Xul/z19vgid6lyt7Apv4QW8FmUIHXlX24JCNMLEaZKuebKQghgKsRr2OsMd1e5/SoWegZzbP6LP4az7aprBw5JzFwW78+/flgychwvd80YgPhQqGAHlrEr3k+RyogMx+GI8ej/6toKb6VgCdc9l/XkzPEqa2lelZHbG1of1WxFJ8rZlsrakiELGwfAjfWKB77Q9TeO7UQfJi7XEbzHEMtoXe3xtNrsEeciZTBnrneyGIHDTROx6KSmnTEnEl+v3PheVmc2pQ0CfadcvWnwzHDMaAbXYdWy5mTcqQ==",
+  "URL": "https://qpid.apache.org/proton",
+  "LICENSE": "Apache",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1587982504",
+  "PACKAGER": "Nicola Squartini <tensor5@gmail.com>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "libjsoncpp.so=22-64",
+    "python",
+    "ruby"
+  ]
+}

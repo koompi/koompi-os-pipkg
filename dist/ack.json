@@ -1,0 +1,23 @@
+{
+  "FILENAME": "ack-3.3.1-2-any.pkg.tar.zst",
+  "NAME": "ack",
+  "BASE": "ack",
+  "VERSION": "3.3.1-2",
+  "DESC": "A Perl-based grep replacement, aimed at programmers with large trees of heterogeneous source code",
+  "CSIZE": "65158",
+  "ISIZE": "180710",
+  "MD5SUM": "04c748184f1551b44094e9e30d359a6f",
+  "SHA256SUM": "8b739fec32f828366635e89a84abf8ee40d051ca28505ba818baef03a0e57dd2",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl7vh+cACgkQeGxj8zDXy5Ks4Q//Tsc05tC6OiIDGU+1Vf0zNsSmDdA9qFfvIlNyuZd4dZTQoE6tVR5nETsUFv30750xqnx3AH8xcukfUGENAlGNVkq2p4MvMpBqxLXxHhWT5/aNH254Ta9B5f4iOBzsAeISQXHVwEcZvqsgOoxNXtOzVYWux04S+yL9nEpH7hIGkg+ZYfamFVn5LP9S7tzsDk/wUz9rXRsf0p/Ur+j+hRSJoU3oP3cEZZKiin7Ju3UIVftqN65hzORJd2LIDYn9JyOdVJD9H5RQq0sYdzkwCoiFl5faFF4f3ioFw7qodZ1pLqxwD7s3+CQXTA+8On5DeWLqGps3mdaVIhJIzScF64XwipNZP7QLK9VmSXf2KN9sKL/JKt6MkijD6e9heJnuv3KO7tps924gmaTQu3hEtgMIODCRDaC8WFxyaThAiSPMWf+Y2a0bvEQqpeJ6DXrJKTzI/0bC/iDSfj9gpkA6gPcA0f7qCVaefaDnesmhAQ4mdeZanPqyUnH/unfeNoR9q5yuHKzcS/I6CGVq/pM90+fPRxGtJ+ahjsvDTOtkGbXo/hNEbLtSvfyZGNJGTr/k/6Eh96Ln7bZIr4Rwc3RtCSCmmnGgmh0GD57ngwxiYrweqTjFrS3z6hHsjjndSZUZUhSU5ap4byZWYjVEijanysAXEHbmqJtcsNCXOEFRrIaf+g8=",
+  "URL": "http://betterthangrep.com/",
+  "LICENSE": "GPL",
+  "ARCH": "any",
+  "BUILDDATE": "1592756114",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "perl-file-next"
+  ]
+}

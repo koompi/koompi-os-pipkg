@@ -1,0 +1,25 @@
+{
+  "FILENAME": "gpsd-3.20-1-x86_64.pkg.tar.zst",
+  "NAME": "gpsd",
+  "BASE": "gpsd",
+  "VERSION": "3.20-1",
+  "DESC": "GPS daemon and library to support USB/serial GPS devices",
+  "CSIZE": "778687",
+  "ISIZE": "4331851",
+  "MD5SUM": "503a62554d3689dfae815613835a24cc",
+  "SHA256SUM": "134e7037836e94e7ad1d5b55b458e38ef9f5e6b6b7628f1a5bc9c8ef64efb00c",
+  "PGPSIG": "iQEzBAABCAAdFiEEFRnVq6Zb9vwrc8dWek52CV2KUuQFAl4P0qMACgkQek52CV2KUuQVdgf/UMlfv6MwjuM+AcWlUQA1VRGODDf49Bx0ofEU0/vqQC5L47yOeiZtzBpY7OirsmHHrYDnsUVa0Td/nmTvByN7KWeKjLWWNQBWw5nAsubYwf/xPH+2PhzPrcAGMveLY6dc5hkVBRUv6SxXgMzW5atHn6snP0YqPDLAkQ+oUFPmY8MkYdDAXokKcHsvRRd6MdHHOtBQLXUQx21PXX8wBxLcF2owXODnnaIefpgWDfzy8nGvUIX//PHfYq0fiMNNu4i0H5JlU93ati82xvffEy0APbasMKH8LU8myZ0mv/V83i09G0IArmlDpyN0FnYGJyNFVRlOkfaNCE/4JxZXs0r11g==",
+  "URL": "http://catb.org/gpsd/",
+  "LICENSE": "BSD",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1578095112",
+  "PACKAGER": "Antonio Rojas <arojas@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "python",
+    "libusb",
+    "bluez-libs"
+  ]
+}

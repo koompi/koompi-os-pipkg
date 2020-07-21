@@ -1,0 +1,26 @@
+{
+  "FILENAME": "mygui-3.4.0-1-x86_64.pkg.tar.zst",
+  "NAME": "mygui",
+  "BASE": "mygui",
+  "VERSION": "3.4.0-1",
+  "DESC": "A multilayer and overlappable GUI System",
+  "CSIZE": "13284261",
+  "ISIZE": "65229973",
+  "MD5SUM": "2dd4390c6678cb82124dc3ef1022b685",
+  "SHA256SUM": "b0a8e3915b2575aaa563f19f633a24faf048b625561ad24e0ffe373cf83af88c",
+  "PGPSIG": "iQIzBAABCAAdFiEEj8FaBklQqZ3RvRTdOeS4d+YuuRUFAl5gDe4ACgkQOeS4d+YuuRUTDA//WlfdGLo1q+rTwV1Nau4gZbIkDp063hpGi2FE/uZE+5Myt75kOgCv5khRw9MTFMbnC8NyffosDkfyphTxVyVnK68uMQGsUlHh50XB1FfKpz1If/CnIuNWCPR5a+VnoJxWup0utgttDskEMtGj4xofHlbT6SjT0MEw44U5Z9V/T8p1NwIvukAkaRNjiiJux8EgrqoXwQ3Y/21o8IZxJvsG979Rf/sYwTGjKUL/fdgMqnV4ci20tIXiGz9YvppfNZiwIEvVf0iHKoG7XEA8lqKt4XjEcIbg+6fugDjXLuKCZfjJLdn4LM3NrPWXhv4mHKaMNLHOmlev0Kb91ToH/Uh/hujIrFZhtv035ohHTSkpHg9O4JpjqjQRVQ4NgmuWdo6SVjCPtByDjb+PjVv/cwjIn77qJInWfp8Ab3xNB4qfr/ayo63zCMsWXuSCOqcW2Xvm+mNq67SIJ5N6Yahn3Lf4N94QZZbyCjTe9YjKhq3xP7E6lWHQl6+xdyGQl/ghqechCBv8Qp/ZwZq3rAg7bO0Qoyoyofxcepjh4mbIh81pmrhjAslFL3o+e/hmGimZQeY9yBo3a5YPARf/uLFdhfmEPlNuEMENmOktUqUW06xi2wfrVAK2BlD/KEsYu5IOe/AA7TW0nQUXF/cQ/zwuplxERqbZPivITdtN0TuSLNGbzCQ=",
+  "URL": "http://mygui.info/",
+  "LICENSE": "LGPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1583353064",
+  "PACKAGER": "Sven-Hendrik Haase <svenstaro@gmail.com>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "boost-libs",
+    "sdl2",
+    "sdl2_image",
+    "glu"
+  ]
+}

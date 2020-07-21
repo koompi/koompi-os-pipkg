@@ -1,0 +1,23 @@
+{
+  "FILENAME": "tinyproxy-1.10.0-2-x86_64.pkg.tar.zst",
+  "NAME": "tinyproxy",
+  "BASE": "tinyproxy",
+  "VERSION": "1.10.0-2",
+  "DESC": "A light-weight HTTP proxy daemon for POSIX operating systems.",
+  "CSIZE": "53049",
+  "ISIZE": "121382",
+  "MD5SUM": "b7762ccfc29ca1ddb508278d3f69f6e3",
+  "SHA256SUM": "d09814379f8d92dc30adffe1f7c71fff46726fc5f7030f883dd72f07b981119e",
+  "PGPSIG": "iQEzBAABCAAdFiEEhs/8qRjPOvRxR1iAUeixSKmZnDQFAl8E1ocACgkQUeixSKmZnDToyAf/XE5dpjncuosuLsQxwM30cxgUE/1cmCz8IiX0sRSuqxqpi7IkuQEgjljK/rI3rJngm+woqW8/bMkIieIkBpFwOYRLGT/3nVHhiDUGd5ZjR0wy7aB+JluhfFQPzklsf5/+2CyI7CMx7sb05Xo5QOfO4r9ZkXQYmE3/IvDgR4W/CIOYFhHb/x/nOhRzbHZ4IhDh0kZ4rPVmXdW1mBEUadYTwPmXDRqxU2LYZ5kDA8lJn6yluG3Wzh9pCIrbd8i78DVbyB1bWhn8donqsbm/1SABELMARKczJad+9zgwDH5pyvOJJAQq6ekRqAYshOOtYEoHpJ+bYo8m4nUyVGLwCXKbFA==",
+  "URL": "https://banu.com/tinyproxy/",
+  "LICENSE": "GPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1594152556",
+  "PACKAGER": "Evangelos Foutras <foutrelis@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "glibc"
+  ]
+}

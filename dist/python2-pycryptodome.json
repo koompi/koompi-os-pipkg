@@ -1,0 +1,24 @@
+{
+  "FILENAME": "python2-pycryptodome-3.9.8-1-x86_64.pkg.tar.zst",
+  "NAME": "python2-pycryptodome",
+  "BASE": "python-pycryptodome",
+  "VERSION": "3.9.8-1",
+  "DESC": "Collection of cryptographic algorithms and protocols, implemented for use from Python 2.",
+  "CSIZE": "1008202",
+  "ISIZE": "3941820",
+  "MD5SUM": "b037022a8fc457adf80598e129dfefae",
+  "SHA256SUM": "a4c016d59cb7f2e672d0847137cc4f5d226202aa5657556bdc3d601a20a8d1a2",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl7yXNgACgkQeGxj8zDXy5LwLBAAsNZ+NWJu/krEoG0FtEJ1uLBlPqwihOmeRKUSfRfadNu6kKZ817cl/cIO9tnaMAPjPQ7cXJdolqi7DT+L5w+ApCoDZANxbNNcxtYBz3xqBAUMPsabnq7Q89pcYKN8aLTdBpq01cQBgjYeJDbwrkvAX8P5Pj2vq6nKLIx1nGilD5k7rqOhNfAFpw8UAh1kxdaY3s/4Kq09aU33qHdBL2X13/En3B45hbr9kF7jdcHEO9lco3hvuZoLLBXnpkJN+YNM7u/bCvP0YXAqoNwHH9wT5X0X2pEkeoqO0vUO1KjAs2gWqyhLbEsdSsXe6Jkk1MytMaINvuuf4/aIarDIGUT+XRv0RqSLaCaXLx8SXFOcIzgeQUC8Tp+YGbpAo2CKWDrHach+Gct+sZ8iahwz+6LOxWcHSVAZ627AIBDnzZ0nQ0hYByrRVhpYJ8TU6k9k6BIwhcrt5JEPwxkGa0ZzjnDUZq51XW0FXpG2L2avwvh8akyG3aY6EGWLJcSAcI7sxUgkJxI5AcYFXxhDACB/qlDDo8sUeHxGjO6ByNCFjsS1GbkdMC0mXPOqTTzaQBQom+z060xbc4Yt7GTNAKWzCW9kq16TiDw2L6kGLN8DGEFeBttC8WWwIwLaE/woVKOUWW/3QqMcja1vWiJ9CGKEFp+B8wVsKDYgVed2lLU5mVVZezo=",
+  "URL": "https://www.pycryptodome.org/",
+  "LICENSE": "BSD",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1592941462",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    "python2-crypto"
+  ],
+  "DEPENDS": [
+    "python2",
+    "gmp"
+  ]
+}

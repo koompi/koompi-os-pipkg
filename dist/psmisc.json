@@ -1,0 +1,23 @@
+{
+  "FILENAME": "psmisc-23.3-2-x86_64.pkg.tar.xz",
+  "NAME": "psmisc",
+  "BASE": "psmisc",
+  "VERSION": "23.3-2",
+  "DESC": "Miscellaneous procfs tools",
+  "CSIZE": "112724",
+  "ISIZE": "561773",
+  "MD5SUM": "6031bf62156a93b94be720310360e611",
+  "SHA256SUM": "cea3c9834152b73b9e84ab7ffa6905bdd7be22eacda5d6ed817c4f740db3ef64",
+  "PGPSIG": "iQEzBAABCAAdFiEEhs/8qRjPOvRxR1iAUeixSKmZnDQFAl3MO9oACgkQUeixSKmZnDS7vgf/Qrfn8e3a/T9w6u924rGCKDXyCxSnspENc386wXw8LEKMmEnPI/BYbB9qKiWoZB42hOzv1W9Jdhoth6O+XXQi74R3nyX6pylgvBrpZx6j04IhiS1AqlQUrIXT9SrLUOcx+FEo56keYc7PzzcOW4SiVCMScuqdZnGJg5cv6XtTR8pqVfO6UN+aEchvgbCKspMVHr+eku+sF/Szn8bPakQqAnuBHj3xqOwPjGaoi89jnOBLnU95ntvLaoJ0bzuQ3Nt2EktByeK+IhozKJbUaA69B/vddQyRihBZCV+sl+xRyTD8rj8Qmfo8A43oqGwiYrQjYWDP7l8UX4STKHFCJ75YSw==",
+  "URL": "http://psmisc.sourceforge.net/",
+  "LICENSE": "GPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1573665719",
+  "PACKAGER": "Evangelos Foutras <evangelos@foutrelis.com>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "ncurses"
+  ]
+}

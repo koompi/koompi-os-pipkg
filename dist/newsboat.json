@@ -1,0 +1,27 @@
+{
+  "FILENAME": "newsboat-2.20.1-1-x86_64.pkg.tar.zst",
+  "NAME": "newsboat",
+  "BASE": "newsboat",
+  "VERSION": "2.20.1-1",
+  "DESC": "An RSS/Atom feed reader for text terminals",
+  "CSIZE": "2023359",
+  "ISIZE": "9513700",
+  "MD5SUM": "55b946b3940802a05e7f30fe10fc777e",
+  "SHA256SUM": "597cc43d3f71224eca30133930664fa2d5dc95095a293f504470bedb551519f5",
+  "PGPSIG": "iQIzBAABCgAdFiEEOO3RiGdWkk4SJOSVJOTNsAE8JYAFAl7zh3EACgkQJOTNsAE8JYA22BAAxIWIc/ZyYiu+7wnDYfvpnsxX/Os+rm6bXYv+7yhm6DxCcz3YUJZVbdakx7LmGDClpJvceLl9RpItLc+4LSPfpEnbMqNVMd1OowLl80zoaA/HjJAhpfTpDftQwuKJA1Zub2/bIY7ubI4B54u40T2/mCUKlmY22x7HVfHJ5VSI6HpmZLKSZ4pkmCGLh8AZ7JO5lriTAf5gIdg7RAcI35voEBDSfGgm4AU7l8qW4j8B9b5wUeylrboxn8ymjW+kOkk4262Kc9UttXznIGvOUqu64ZznziWyAMEcnTTgOTAV9J3tqon0VJaovsTPiFYPFyr7nb3eM+G4MH033VQuge83ZOs3DZg2fqF7RxS2hFxh+rBXj6vQdrUaqKE5/aJe2ysjiqATCY3xc47MdbHM3nTIR7Di+uKY8uh21/KIq/SbflyVbiTN1Qdp3C8OSn1dEVlETFADzDfNf5hjHNOdiZVhYlbCe5X05Qj9XGkOLUW4hJYSuyKP7MR/Zae2FwFaFHxMP6Na70KvCKS2BXzklbBWa6sfNGtSbwN3IaeKSwcWE0+BVoz1iULAwaGWYjdPMJRNundzdtm7ejjW9kgmErbttfUJQiJOY3fiXgHf9MltWlb/iL3TcD6I+UP3/He0Xekis7GaUhePa1BjUDPfkZo4Bd8FEDDtTDgg5KkNFuDQOac=",
+  "URL": "https://newsboat.org/",
+  "LICENSE": "custom: MIT",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1593017893",
+  "PACKAGER": "Jaroslav Lichtblau <svetlemodry@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "curl",
+    "json-c",
+    "libxml2",
+    "sqlite",
+    "stfl"
+  ]
+}

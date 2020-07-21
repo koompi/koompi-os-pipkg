@@ -1,0 +1,23 @@
+{
+  "FILENAME": "haskell-murmur-hash-0.1.0.9-16-x86_64.pkg.tar.zst",
+  "NAME": "haskell-murmur-hash",
+  "BASE": "haskell-murmur-hash",
+  "VERSION": "0.1.0.9-16",
+  "DESC": "MurmurHash2 implementation for Haskell.",
+  "CSIZE": "27452",
+  "ISIZE": "119333",
+  "MD5SUM": "704a8bd0c8d8c49fba69efc33c232091",
+  "SHA256SUM": "4689d003251de033e00e1f70e9a38af649de56d79416d9bdf96cd71e7f373a5c",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl6hiBEACgkQeGxj8zDXy5JMHhAAtHzd0n9QnnBE/guN8DfvmUAiDhO25mFqoxF1JxQ6x3FyNAAZI4vpoKukAP3uZe+qCunkNilFFkczBHiy3zlu7sq0syWjWQkA9Lf3wa/cdeUHfi7GtqkRTNwtJ4jlattO+RcMLzH98Ukoy67kEvxknwrLBYqALStKaqyaMrwHCiwg4e2WP+vyz2rlay2Xa3GCPjzGySQNRpKAbzo56LaDxX8R/oGAj9llz4AFiKWUbC3fHZlVMkK7AsTiT14jJmWXvuADvlYPVkOqlHOaef+SUq2Sechsvtc89lAME0tWJn+0qfup32QYcXKZ+8c6jNCjxqC/gohLg29GgPZBJgLZr4/j7HFy9fEGoB15fH9MmieboIKY90jZurgggO9Frj+4d17tMA+p9Fg4bm3NVmhr4QgOwZIlSW56Z/q/5tKrFgs/4diM306WWxiYGeInYY8kPgptn51+3/cFnO69dEH+JQv20KISu10EGy9ULRBGMBRKf6MwUkX9PULz2tDVkfkeChs/PTDBlSq3IlovmEijYzYRyAvnAJCt25+fq+POHB0MIYRjpEjRnl/FIjL+yNkFGUqaMWt4U8taPCYsIe8c7ywX1ZagiRarKO8KHVeKN0XtF1jredIk6OKAxgUV7+cKsvXhZN+b8Gc2LitC6/NCiDJXYMTtGMKKtyjrVgV7A3k=",
+  "URL": "https://github.com/nominolo/murmur-hash",
+  "LICENSE": "BSD",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1587644345",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "ghc-libs"
+  ]
+}

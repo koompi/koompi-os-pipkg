@@ -1,0 +1,23 @@
+{
+  "FILENAME": "pdfcrack-0.19-1-x86_64.pkg.tar.zst",
+  "NAME": "pdfcrack",
+  "BASE": "pdfcrack",
+  "VERSION": "0.19-1",
+  "DESC": "Password recovery tool for PDF-files",
+  "CSIZE": "34231",
+  "ISIZE": "77229",
+  "MD5SUM": "023a16c5467a68fc505f22b6bf0d80c5",
+  "SHA256SUM": "4db900b51df2991286e45a04673d1ec3fd504ba18040b135e3327b87bf760ba6",
+  "PGPSIG": "iQIzBAABCgAdFiEE4kC1fixGMLp2ji8m/BtUfI2BcsgFAl7mDy0ACgkQ/BtUfI2BcsiTPg//TlTScPyf/fAbr0OWPePM1sydXGQ8PSgMIHEugqhuC+NW4Y4lZxvQ/ujr0vrxNxjshnkp7PQUVSsjTAlLTnFUdfY2fj2A0v+EWhu96jNvT2AGG9QWTIOu43gVXya4AruxwWny2E9wukzHgKhBnIoThcn9kilNLmoLINk4X5rQ+Qeh008KGoQTccIaUnTpqoV9Ixn71G4aECHrHRreqjEzLCybIglhyyh64aLfF7g9gC7dwpRZj6BlISc/2MO7phs4U229unVZsmeJgznRCvFdKpFuCOa8wLOY23keuuyJbvDCwF5so+SkDSAf4Eqcd/IeqBF8T8RjU17nDwloKu4ripBJ4WidlCT9ST2C7717TRPnA6g86u+VKwqxzJfDR/++CaeoeIoSxqC3Zhcvzm+/mDsL0I8rI6Vcj5KYyaURSagnKao2pc6t4seO0r8X5ikMCkn5hAwSbN1B+084b8p4Tfr/1fTcy7/W6ZcupcC/1XVe51rmPjj6RfWH/g+kR+C4JrvrFpVAeYJZPLaHUZedDxsDpossF2TJ86EAadzhGsNex3S98lviTn4LlVQGQBi4qdGJ84xFPaTbV37N426cuSWFcHhPGCMFPDtS8VwuRjom/DAPsWtdtMZJZ4U8qD47dz89etA5u3noupG7h+M1Q92TlqhoYyG25lh5S2Mu8tU=",
+  "URL": "http://pdfcrack.sourceforge.net/",
+  "LICENSE": "GPL2",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1592135433",
+  "PACKAGER": "Levente Polyak <anthraxx@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "glibc"
+  ]
+}

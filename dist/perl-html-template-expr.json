@@ -1,0 +1,24 @@
+{
+  "FILENAME": "perl-html-template-expr-0.07-11-any.pkg.tar.zst",
+  "NAME": "perl-html-template-expr",
+  "BASE": "perl-html-template-expr",
+  "VERSION": "0.07-11",
+  "DESC": "Perl/CPAN Module HTML::Template::Expr",
+  "CSIZE": "13828",
+  "ISIZE": "24176",
+  "MD5SUM": "3084ffc1b97745b0ab58e5c56729a717",
+  "SHA256SUM": "abf0af079cc9bf7d7d5e8ca5477eea77e191705fb0b476a2f01c17355b1f3343",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl7vht0ACgkQeGxj8zDXy5JV2Q//UilpUDT4d4V+3FJfRrZa21VjEs+XIPLZXnTVm7B23xnuysV7WGP8dTsgAw5Kg5lD5X/bwUpmFzKmCkyoi7HAkzWO41jTDskQ2UuFVSa/Pb9594gmADn+HAoIftWtlF4BjjdmrsuJvI5E5jqjeeaQp6y5qgcuFNlRXBJWSgSuDK3Q/6sRJj22gbA+oc2b6Ym42c/GqKYuZiIUfV/SAh+GdmBJoGu0LySMMzVvGhoeKdtw8ph1OxeRuPc+s2Ol4e8Vb30UH4tDEAME3AxmeDYPVyD9AVdyIi9BR08XmGnTFwx9SXcuOgtbAeBfAh0IWL4yx+YcO2YSgnv7aWu0YwbprC6EOXzl59bJ4W22wZG1UZCd0jdnoWNuYXYaYzgigL5V1E9c4JljOeatscc3ys+AisZPybAwf4St2hcS3pd6Wcao6RHBsSWQKBO+WdEdacvLviFdKyQOs+s/+ba683JOACQT6b18PDj0m2gZPT8hSgqAYUTTEbeb2j0xjiLxOxwhUeiEKDdIvourYzL7dnZsV2ASE4/NldKpGXFteWSiAxMHywW/lTxQMqmSNZd1xYs3vxxkbcqVPy+bSBVx9+MzPsE+kNtNd9giE3WlplWucOTL9swzW1Y8zc1RZHPGinX71e1BIXQGPansifvgvr20d4IxZ80M9gC19wT+AfWE51g=",
+  "URL": "https://search.cpan.org/dist/HTML-Template-Expr",
+  "LICENSE": "GPL",
+  "ARCH": "any",
+  "BUILDDATE": "1592755866",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "perl-html-template",
+    "perl-parse-recdescent"
+  ]
+}

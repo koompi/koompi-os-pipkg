@@ -1,0 +1,26 @@
+{
+  "FILENAME": "ksirk-20.04.3-1-x86_64.pkg.tar.zst",
+  "NAME": "ksirk",
+  "BASE": "ksirk",
+  "VERSION": "20.04.3-1",
+  "DESC": "A computerized version of a well known strategy game",
+  "CSIZE": "5328629",
+  "ISIZE": "12448607",
+  "MD5SUM": "4ea2cc5dd7541870ce9b0af26b145ee0",
+  "SHA256SUM": "a540234bb5ad85f7548ea0bf979a8a840d7882bf45cd1e78f28e3a332fcb41ae",
+  "PGPSIG": "iQEzBAABCAAdFiEEFRnVq6Zb9vwrc8dWek52CV2KUuQFAl8HBdsACgkQek52CV2KUuTpnQgAgq2/PwjWH/SttHlcSV6mjDTEZTKbY5bAXIbknY7+RUR2yHlFscxmEwoqrOtXKeKwuYKhXpWcXft6r19NqedJ87bpnBgeHg4rzq5bW+/cowy5x5iuCuMtbCVg289giZrd9nyTN8DD3M1tCoUQDmH6Y9SiYs4yDmK22+tDyfV70az4u8N2q68722JExQOlq7BYko8OuHJXuycISTtpMGRnesaCBhnVdOsq1VhYMuZKE+/CiS/GGAi0AQXFstRLVvd5bPzJx92LLRPYKqLjyDsj0tUVLrpCx027FWh3i8s78Z2LG8pKKbqk54y9BbtFPB9ggVGlkAe5Ov4Yw9jFsejbpw==",
+  "URL": "https://kde.org/applications/games/ksirk/",
+  "LICENSE": "GPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1594109111",
+  "PACKAGER": "Antonio Rojas <arojas@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "libkdegames",
+    "qca",
+    "phonon-qt5",
+    "hicolor-icon-theme"
+  ]
+}

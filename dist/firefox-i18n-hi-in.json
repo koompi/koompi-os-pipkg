@@ -1,0 +1,23 @@
+{
+  "FILENAME": "firefox-i18n-hi-in-78.0.2-1-any.pkg.tar.zst",
+  "NAME": "firefox-i18n-hi-in",
+  "BASE": "firefox-i18n",
+  "VERSION": "78.0.2-1",
+  "DESC": "Hindi (India) language pack for Firefox",
+  "CSIZE": "557946",
+  "ISIZE": "622444",
+  "MD5SUM": "74d762cc7296c057dbfc389c84541ede",
+  "SHA256SUM": "a3c9016968492f0b45729775ac5658d78301015b1b12469fb8171bcbde0b55a9",
+  "PGPSIG": "iIsEABYIADMWIQQGaHodnU+rCLUP2Ss7lKgOUKR3xwUCXwelpRUcaGVmdGlnQGFyY2hsaW51eC5vcmcACgkQO5SoDlCkd8evmQD/e3pefnxoCUrFvr+vi9nbt2xs2AMSg/HFYQlVoYgOyg4A/0CnYqiwjGj1KBju8+VGeg525q2xvW++yhMtjg1qiYkI",
+  "URL": "https://www.mozilla.org/firefox/",
+  "LICENSE": "MPL",
+  "ARCH": "any",
+  "BUILDDATE": "1594311501",
+  "PACKAGER": "Jan Alexander Steffens (heftig) <heftig@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "firefox>=78.0.2"
+  ]
+}

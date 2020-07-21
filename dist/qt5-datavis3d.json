@@ -1,0 +1,23 @@
+{
+  "FILENAME": "qt5-datavis3d-5.15.0-1-x86_64.pkg.tar.zst",
+  "NAME": "qt5-datavis3d",
+  "BASE": "qt5-datavis3d",
+  "VERSION": "5.15.0-1",
+  "DESC": "Qt Data Visualization module",
+  "CSIZE": "538321",
+  "ISIZE": "2325665",
+  "MD5SUM": "5c511ef9fa2cf38c87ba7cc471e79e61",
+  "SHA256SUM": "2326c979078233e502f4f2fcc93b55db80f88d1c38edf6ef1ab0c6c2232471e8",
+  "PGPSIG": "iQEzBAABCAAdFiEEFRnVq6Zb9vwrc8dWek52CV2KUuQFAl7M1qMACgkQek52CV2KUuT1YAf+PsuS7Ns/Cf4XDVWr9VfUP7aQQKBnKYbH4zPd5ci7SLx2BO+QiG/3kpIilwu75kK2oL8AfTzXd2jC/+/rYLNQVhUjrdzIbMJiZXiU+EkUELnbxEOAmXWPrwd1BTOGreK58R5PrdvPfV6PVrS92z53NYW+y72r6/iyHMa7Sdi3ZyHmwZEPV4ybZ0ytZj66KMnxklBaWrBJNlUI3HkWcQnwGZqiWkCPukZToYc+3cwDfvTSi6GDaGWyE/VI5J2gGWb/Esu9g7H6rxCfDdRfdu4qpmyXeN3k0hhAY2XGMORnbSnZx91xBzzBedirdxal5TYo8QkB6uZ0PYUP3KmWe9d6jw==",
+  "URL": "https://www.qt.io",
+  "LICENSE": "GPL3",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1590478992",
+  "PACKAGER": "Antonio Rojas <arojas@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "qt5-base"
+  ]
+}

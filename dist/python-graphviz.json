@@ -1,0 +1,24 @@
+{
+  "FILENAME": "python-graphviz-0.14-1-any.pkg.tar.zst",
+  "NAME": "python-graphviz",
+  "BASE": "python-graphviz",
+  "VERSION": "0.14-1",
+  "DESC": "Simple Python interface for Graphviz",
+  "CSIZE": "32360",
+  "ISIZE": "138066",
+  "MD5SUM": "1e76d91abaa7623221ea38571879ea0e",
+  "SHA256SUM": "bf91693c8345fc6e07f68086158a564ee70f610b821f73ab4f637334935e8714",
+  "PGPSIG": "iQIzBAABCgAdFiEEYEETBMCdNmKDQO7/zrFn77VyK9YFAl6mDU4ACgkQzrFn77VyK9bZrxAAiWVRsbW+tETv+2ZDpbAYwhhnLbhozTktE7nP4HIA2DdxZYYTkX9BoBGGDKPgMzmJ1bHj7vhJjSY5slHhS2V2gwB1yoJvXoty4pMi0MtYxq7EciPqU/UCy6UP/XfBb2caFDl0y0MZgD45iZ0cwL5MoR9LGlA7cRfZOQFXwHuXBkckx0B1vqIvG6aKGOeIh+dq9TlJ67LvJlTWqVGQNWQzK7JoNT1QfZfFtLROeQGhdXHxXX94mtdM3nAx6xpInkCmwdd3hJbiSvooG6g9iQpAN4xlXwDaL7emhmFPwBzt1sjFBeJRLifDr/MKtuz4qt1avzGFz8WRplBmmP8uzzgHyBbzECGQ8VqBYfHyXMBQ3vUDZBJD6tSgumQjRYzp2PwuhEk4ywGTB9ww9B+US/VMv2M29xFUZ3CmeIKDgmiUgql8KrjEc/jrsLqqWBbU3JtAPv03BjOFqbdmeuBrqxo+B+cJON/Xrr6/DFJQ6v9KO4c1NkSfkZ5nmBZkhQ+ilywwKQI+/cCSRGVH7XAiHxisIkuNxaAR86isiRHPwZWfoIUZSfbJCYgcxwQaOsSi6N/FwIgZpmLqbOX27TtmKrm9sDe8sNSvKpAziSUsd05ekXirSzvyNQxBkYUTfln4OvtL6fys3U36IQNZpJbx9WlQ06iM04wYpA4KTv6hbSCNPlA=",
+  "URL": "https://github.com/xflr6/graphviz",
+  "LICENSE": "MIT",
+  "ARCH": "any",
+  "BUILDDATE": "1587938736",
+  "PACKAGER": "Eli Schwartz <eschwartz@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "graphviz",
+    "python"
+  ]
+}

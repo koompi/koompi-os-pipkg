@@ -1,0 +1,23 @@
+{
+  "FILENAME": "libde265-1.0.5-2-x86_64.pkg.tar.zst",
+  "NAME": "libde265",
+  "BASE": "libde265",
+  "VERSION": "1.0.5-2",
+  "DESC": "Open h.265 video codec implementation",
+  "CSIZE": "360292",
+  "ISIZE": "1124209",
+  "MD5SUM": "f953206e1204c5207ad09568b0d61889",
+  "SHA256SUM": "9880d73fe245615e12996f64ad9bd42f5ac077dfa73b54b84c9bc3e5b75e9cd2",
+  "PGPSIG": "iQEzBAABCAAdFiEEFRnVq6Zb9vwrc8dWek52CV2KUuQFAl7oz/gACgkQek52CV2KUuTjIAf/XXaHrDYx9AirxL5fOdoqq68EYDdF1yoeR9eefRBNhLJm/bzu9aU0aRzBCOa5+BU8PdRVlAVn2cHfx8VJsThMy/ojpyty6NhOPw0icZ6r/Z1hBiKGgNDFwdN9tIVInR0cnjpPv+WS3fMVYcUqwXiFhd0o4prdxoj7+fZjoBwgKtRQn+/RxOFn09msgwhISoH2391IzorUlH4p4QXWMx48G9xsaYStTI4Z7iVFbRZgxhmXgV+C+QUXSGUJvoKX0fsjRl19b5wx+Fu8fNbxv/7zJbc+/2sztWgFVTJPrP6k6LdPZIgnuodvKdBUNjQKnWFXha6uD9jsbsCOEqyO2iTQ/w==",
+  "URL": "https://github.com/strukturag/libde265",
+  "LICENSE": "LGPL3",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1592313779",
+  "PACKAGER": "Antonio Rojas <arojas@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "gcc-libs"
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "FILENAME": "openbabel-3.1.1-1-x86_64.pkg.tar.zst",
+  "NAME": "openbabel",
+  "BASE": "openbabel",
+  "VERSION": "3.1.1-1",
+  "DESC": "A library designed to interconvert between many file formats used in molecular modeling and computational chemistry",
+  "CSIZE": "4346393",
+  "ISIZE": "18228584",
+  "MD5SUM": "3714894be8c04a7b68be521eb67552a1",
+  "SHA256SUM": "ad0dc31b8c4573d95349d5f3a194bef9c0a8eba37db6b704efb1411648ce3fec",
+  "PGPSIG": "iQEzBAABCAAdFiEEFRnVq6Zb9vwrc8dWek52CV2KUuQFAl61m9kACgkQek52CV2KUuSJkAgApu+PUfajMqUFvDdSsm7Te/CLixA85wJ456F0GGimgMG7cp3uaPfSccoRq/goN0PznfMtPQQcKVuyNcTw02nzPs6b4AA8GQ3SR0DBheCm14/QlBrCVWYStQ+8pnNgbWyxOc1gP48TFKoV2YQcBlLfVynhX2YDqXM+OB/S96wtcDQUlDAoNovQgVkGVPykqgVhWFABd+MuMhADckXB8cJf3781hE7dgxVw9OpNyYpgyJUMTC881WKw9GE3J4E44BzDhOBxVijKal53QeYPZFDyL4dJhU2JxdvBpQKGnoCGVCsimSh24KmWDjA0FsM7YNnlvan7XCUWQfRFjTXnUMpBtA==",
+  "URL": "https://openbabel.org/wiki/Main_Page",
+  "LICENSE": "GPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1588959962",
+  "PACKAGER": "Antonio Rojas <arojas@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "libxml2",
+    "libsm",
+    "coordgen"
+  ]
+}

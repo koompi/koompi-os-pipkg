@@ -1,0 +1,24 @@
+{
+  "FILENAME": "kdiff3-1.8.3-1-x86_64.pkg.tar.zst",
+  "NAME": "kdiff3",
+  "BASE": "kdiff3",
+  "VERSION": "1.8.3-1",
+  "DESC": "A file comparator/merge tool",
+  "CSIZE": "1563443",
+  "ISIZE": "6003634",
+  "MD5SUM": "4b956e33fe2402b4783f018de7ce7eef",
+  "SHA256SUM": "cd889a4c5e10063aec54c50ca32bd4c98dfadbe60ffec913cbdb84e83eb415f0",
+  "PGPSIG": "iQEzBAABCAAdFiEEFRnVq6Zb9vwrc8dWek52CV2KUuQFAl70SSoACgkQek52CV2KUuT5LAf/YhlpL3hNpKKkg1BJTy1kidDzj2hD6gZE40pfnb6rcXwwf0dgoiHfL3wEBqyH231DdM2gZi8vVeBKD+zuOJSrubHwEBEuhrqKhixcbo3iatCjy/nGM3diQjppczpWI77kzz+mgUQps9mKonFGwOM/eo1TnRdm8YqWeQs8Uv7CR+unWKIsx1sivM3UfA0jz+mGXXkAFYPG760A5dISSGj58CzVGPxu9DDeAnvyzLeDEk5AoNbzVWBBJwGdKydVFbjfLPNPob0v/eU3QfWGN0+QrrYOfeh5nmPQPpZsnQCJclegeLyfgDsPo2O6f58oHRjedNtSZ21e8p6jzCvvhuMgXQ==",
+  "URL": "https://kde.org/applications/development/kdiff3/",
+  "LICENSE": "GPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1593067731",
+  "PACKAGER": "Antonio Rojas <arojas@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "kparts",
+    "hicolor-icon-theme"
+  ]
+}

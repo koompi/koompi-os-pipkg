@@ -1,0 +1,23 @@
+{
+  "FILENAME": "kinit-5.72.0-1-x86_64.pkg.tar.zst",
+  "NAME": "kinit",
+  "BASE": "kinit",
+  "VERSION": "5.72.0-1",
+  "DESC": "Process launcher to speed up launching KDE applications",
+  "CSIZE": "139618",
+  "ISIZE": "529938",
+  "MD5SUM": "45fb63845b9ead77141da55b31f1eb69",
+  "SHA256SUM": "11d627c6c3864dd69380ba4fdf5c2d7878387ca618ce896f460b904bc8399841",
+  "PGPSIG": "iQEzBAABCAAdFiEEFRnVq6Zb9vwrc8dWek52CV2KUuQFAl8JYKUACgkQek52CV2KUuS9tgf7B20cNevhxHpP3hcZGxO4sKnzFrDbvCqVX8BDNA4sP+jsFYhakdrjzWdS9aQexsmKd+VWTBwhMJ/slFeMnTFSy5/DTscnU9trQTW0S+U2V7QsE+0FU3Zpu914v67+wQ0T/feSAAeMOI8Jmb/GBSokXmaMIHLPzUP7A/qnRJz+t55XPkhxwC7lIP9Ci5sFiQEm6crByQ38TP/2ub9lzBrciceeKonKO0KP01Dhy5K6iVggmN3jEffCzHrgRHWAc9mWxOFYtBOHs2U4tXzKEOUeW7IUAlk7JEgihsvzrd8YaLCrcMsl1GLnmmBhSGYyT8nO3TK3C0B0Ri2o4EhAjNcgHw==",
+  "URL": "https://community.kde.org/Frameworks",
+  "LICENSE": "LGPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1594201855",
+  "PACKAGER": "Antonio Rojas <arojas@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "kio"
+  ]
+}

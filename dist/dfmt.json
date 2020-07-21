@@ -1,0 +1,23 @@
+{
+  "FILENAME": "dfmt-0.12.0-1-x86_64.pkg.tar.zst",
+  "NAME": "dfmt",
+  "BASE": "dfmt",
+  "VERSION": "0.12.0-1",
+  "DESC": "Dfmt is a formatter for D source code",
+  "CSIZE": "489412",
+  "ISIZE": "1858426",
+  "MD5SUM": "b7a8ce051373b1f7209f0fd39dd50edc",
+  "SHA256SUM": "6a6f5dded5c877cb73e839da8a2aa46c9290201df7fd53dfdc0d02c93c1074f8",
+  "PGPSIG": "iQIzBAABCgAdFiEEhsATU8sh1GdlMu4OnwqcF7B4bxkFAl6olMgACgkQnwqcF7B4bxlw/Q//XGIyW3eK3JVbh14vZUDiDUf6ydPDvOp7Ehu3wPThdsHD08Ix+YKpzf6OQM2JDR7IIxW7dRizmlrLs7pyGziEsMmAWTjyPmO/onu4jqJla0Pr6Rb7YdJRBQa5roUqHq8HFfn03FIziC4wXMIIuShVtdlFkXNJylmhJLzWROWKABNULlMo6Q4Xs5l1TbekzzdH4OywWekGO+p8Y+yS5aCJGOmmfMdsYyhsRhtWVQ7T9B62mtRgLFqK0PvY9vk0ZUP8rmiIeNH33XicozzTdH4CQsbxUgDp5JyBuQvWq/CM/UQoNM1KukqcLOfv4217YXYu2vHl6JwzjaD+vU1rzXn11XysYzDGHer9hFkVLwLG5m2lfTy+r5db3J1kl0my7KB3zPFak8I/gmCzk3mlE9XlEyXcG2Kn55+g2hkgc6wQk1+g5s/gph9tCslAa9+XrQxCpWgkYKYwJcDXjrawebe8t9/47SII/gyDPWZicPwnxhNz6Zt4w2YREV+HPCaQgWCUDMxjdPtxtRBK9S4DxvPZwKTHCaXu22yRFfh259vBQtuZAAWV14FnhW5DxRxN71Wg5XEatm95fvN0SiTL7BUwNwpXJ/ep941+dKER78nD91Fv9zk/GI18byr503pYUTSfcbxB7C8rAkGMUTdMMivKiyL604cFboXPiubUHxW38Do=",
+  "URL": "https://github.com/dlang-community/dfmt",
+  "LICENSE": "custom",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1588102091",
+  "PACKAGER": "Dan Printzell <arch@vild.io>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "liblphobos"
+  ]
+}

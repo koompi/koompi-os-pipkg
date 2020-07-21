@@ -1,0 +1,23 @@
+{
+  "FILENAME": "python-blinker-1.4-7-any.pkg.tar.zst",
+  "NAME": "python-blinker",
+  "BASE": "python-blinker",
+  "VERSION": "1.4-7",
+  "DESC": "Fast, simple object-to-object and broadcast signaling",
+  "CSIZE": "22047",
+  "ISIZE": "91537",
+  "MD5SUM": "0825ea48698621f4b39cbec2b6015421",
+  "SHA256SUM": "81287ebbca9498761bb36dc53f45ff11d8ac10be9885e2d86395456b8b2610ee",
+  "PGPSIG": "iQEzBAABCAAdFiEE5JnHn1PJalTlcv7hwGCGM3xQdz4FAl61qRQACgkQwGCGM3xQdz751wf/druGYA48bCtIRhIXDm5my3rOiwIeJxxCcmp+LnqKJwIT9ZZpKaG94wTRIWIkkEFH716nC1iETYorQ0pKosMWrgR7J0gMspFUDhka7xnh/hVVXJAANshzb9wVwKP2TJxGsCeEZ9VIYQpXwPcNlgfI1OMomygHV7GqgG+lgGmKh5muzI0f8MXmCmdQOUBPG/iyihz0UD1iCG76BKriu8/lTKWHaIf5e2A9eNSOlbbrm5+s6PktKpvWSfeZepR7QI1UQVEs/hLfPWsG2lvRX1aJmU8RnZ+6l6l16mxgJgKH3tTJ1MhGFKR0XoQgdcYzwqM4gcRhGtSMFB7XDrQK4PH+jQ==",
+  "URL": "https://pythonhosted.org/blinker/",
+  "LICENSE": "MIT",
+  "ARCH": "any",
+  "BUILDDATE": "1588963384",
+  "PACKAGER": "Jelle van der Waa <jelle@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "python"
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "FILENAME": "ddcutil-0.9.9-1-x86_64.pkg.tar.zst",
+  "NAME": "ddcutil",
+  "BASE": "ddcutil",
+  "VERSION": "0.9.9-1",
+  "DESC": "Query and change Linux monitor settings using DDC/CI and USB.",
+  "CSIZE": "338961",
+  "ISIZE": "1205846",
+  "MD5SUM": "3b220b2de770d9c7d533f8b5914b9664",
+  "SHA256SUM": "bade3cf5d99d8c9dbc342efc8de2b69e6e0530f24f95cf00606d751e2a4cc5cd",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl7wTqoACgkQeGxj8zDXy5KRRxAAvn1EH+JDjcuJurTyi0EjV030Hk+BZMVdVGiNJoKLFPfzyx8ESLKmexHVGZ534/7ta/agpynBJXm5ZSj8uPDV7loJk0nHEuET5ZDXBXVXAnfOE60uL16Erg5hvS3H2GpueZb6LWLnCdzThPEXESMq7K83jh/oSLDM5yD9Et/G5IIWdzbthJVR3O+RV+n/lnFq5zvKRjTmnimZA9EsNUMNNmThMkUTNWEPsX9Fukd/66v2BR3lYMaXXeKXlMHa5kqx2EGieOTcfIf5/y+ZNYLdovJQRMpip/zL9W8Za95/YhXVlPa1YjvvAylULzASZMBlgDkiTbURLy0xCjchCs+wRJ8hKZHqECbbcL13rQq8VKdGWFgs9ogNHxd4oGRr3qVWfmfR1AHy2fh4MrGe4FH5ONu0aWVf/1lx3Nppukl3ERi7F+hopIRiqugrqZXzTbjnJXevk4yU9CL82iOx54XT2oz5Dz/JwiUgvrl0gGTnKqARZRgJnC3h3llAc1MXK35Sft/ZxKVGPAQriHdMlW+ns9oA8cX0IQCfzEOLwbYt7tk+t/OffOkJzovX/l/RS+3heUw1Ef3oIr8NIj62aTy50QBtl3XpsXywTbiwRohB8yPfXwL2KZNmP2sQSASxCqmjz9XG+sL8NX5jKGfeUn7STBf37IhmYoJxTM1i9YvDA4M=",
+  "URL": "http://ddcutil.com/",
+  "LICENSE": "GPL2",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1592806995",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "glib2",
+    "libusb",
+    "libdrm",
+    "libxrandr"
+  ]
+}

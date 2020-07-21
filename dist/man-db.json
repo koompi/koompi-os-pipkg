@@ -1,0 +1,29 @@
+{
+  "FILENAME": "man-db-2.9.3-1-x86_64.pkg.tar.zst",
+  "NAME": "man-db",
+  "BASE": "man-db",
+  "VERSION": "2.9.3-1",
+  "DESC": "A utility for reading man pages",
+  "CSIZE": "1050924",
+  "ISIZE": "2312907",
+  "MD5SUM": "e253661d7e3c48208ec9b65c8823bb27",
+  "SHA256SUM": "5200e7f3bbd1dfd0d6dc588e8eda1333ad036530d09a04e0bdd64740f2da9143",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl7yXTwACgkQeGxj8zDXy5IS1xAAotOBh5x3pnShZ417LEZ39viNdxREP92tfA+lT9JeEdnQ4c3PtKbHcE0JQvRNj/qmt2sQiv1GVzCQszQezpeTndW5Je45BTyExfVMbPyoCC0QdMdG26ngHVfMciKZxkZAPqmkr9IiZogn63MeSEKFlWysaaYRKZZvNlMRwdonYC2S3G5biUXWbzhUxIlSxRKNbJKcHEM4to31Vtex1jr3ANpGZ/X2k48Qpla+QFGouvwrb6oLJ20NrzmGBv35ZVnWHmHfGO8+6ilkf4+TH0n0RvryZoFELYo57CY7y4UEKJXNpOwQDP02If9nRe7L0Z51ONUlYl3pKNPR1wLCTO9ver3myIoJrZQMjpssgAimuIz1B6WD1N4J2XzF392sb17vPFGS64vH0jLVPP9n/5OicCfb0KsBbn8QSPa9wuVli3TXWvfUXG8BZ+azP0AO9g5qv3XrB1Lmx1XDURWLtsukV1VXppTP65PSCBJ31zJcE+qCjmLGB0KbyxRNtsBcuENlfEkF8YJYXYe1jD3bE0rdFzXbmIjmMQPYPMh3NlUFA7A42OEYu282w/R3tF8lLWLJ4MBfNQqduNMBT2hH5FABY7pJWo4CH0LDvycyJGCvSpSn6aNM6peZYRmkVh52ZMfNd/PvVUFn0LkxRA610B0gkMeL+tliJTu7AM4WrHM7GEo=",
+  "URL": "https://www.nongnu.org/man-db/",
+  "LICENSE": "GPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1592941697",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    "man"
+  ],
+  "DEPENDS": [
+    "bash",
+    "gdbm",
+    "zlib",
+    "groff",
+    "libpipeline",
+    "less",
+    "libseccomp"
+  ]
+}

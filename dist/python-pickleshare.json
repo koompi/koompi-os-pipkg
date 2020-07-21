@@ -1,0 +1,23 @@
+{
+  "FILENAME": "python-pickleshare-0.7.5-3-any.pkg.tar.xz",
+  "NAME": "python-pickleshare",
+  "BASE": "python-pickleshare",
+  "VERSION": "0.7.5-3",
+  "DESC": "File system based database that uses python pickles",
+  "CSIZE": "11048",
+  "ISIZE": "23131",
+  "MD5SUM": "0235daf89e1584a0ddc89c15257ea591",
+  "SHA256SUM": "1161753ef6bf55cdb74428533c3afd9b503416abd149604b57b4aaef5a3afdd3",
+  "PGPSIG": "iQEzBAABCAAdFiEEhs/8qRjPOvRxR1iAUeixSKmZnDQFAl27EjIACgkQUeixSKmZnDRCgAgAhlU6QXCs5vBwOaoOsQ7aYRHZT+SQoA9rAsiw9JotkyEU1Fq6+cm1nD/+zGbcjSLO6armoDGj1Vis83Fgp3QbX9cy1BuNtCHSX4i8twF+tSFjdmk9QSA0mktW303JvCEdHOrNmW7v9ZXhjtOAF9tZjMfPasag5E/W1xhgf1RMRjwiGKzNDzcZpn+jSCct01+lhHAHySJoDwzqNvk6+Oc+UcVV+ZQXMwbouAj6bERhwwwg4KFG0VyKUvowQlJLVK8xqvzTlakWqyxSrnl6Eh/uOgdSK1uXgKjN9hxddTFtP7x7rquyCBpAMi8AXIpkdlch/xykI9bdZf5mk1Rf7GQGhg==",
+  "URL": "https://github.com/pickleshare/pickleshare",
+  "LICENSE": "MIT",
+  "ARCH": "any",
+  "BUILDDATE": "1572540953",
+  "PACKAGER": "Evangelos Foutras <evangelos@foutrelis.com>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "python"
+  ]
+}

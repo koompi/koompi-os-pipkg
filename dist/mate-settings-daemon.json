@@ -1,0 +1,31 @@
+{
+  "FILENAME": "mate-settings-daemon-1.24.0-1-x86_64.pkg.tar.zst",
+  "NAME": "mate-settings-daemon",
+  "BASE": "mate-settings-daemon",
+  "VERSION": "1.24.0-1",
+  "DESC": "The MATE Settings daemon",
+  "CSIZE": "644919",
+  "ISIZE": "3202307",
+  "MD5SUM": "2e53d36e32af5a564f7e82c84adbb8ba",
+  "SHA256SUM": "9bfd4ff6d1f076f7d8396772038a5a895c35edf708e101808e1c6b8e15fe4c24",
+  "PGPSIG": "iQEzBAABCAAdFiEEzFln1AlbTztC1F+ggaQC1POCu70FAl5VkjoACgkQgaQC1POCu71toAf9FwhYWVKtOI4c1bu5UQYWWZ2WK0YOJreauatlYPGAxVoy1KwaAliXcWFH0yB7jfV4Gh8s8EdH44cPPkJItEQc5O0joeh5dzspv3RoREyqdmtK8frVe2Wo+MGLNNIVl4wmKqsHMrC5mI85QooCfj14+3YPbU562JdjGL9LvCVXKsZgVDBXJjAWHqPBgIT02AGlXHmEjUWKf9570MgkCz/6hqn1jNhlwhJNVUOLm9jVmbW8sI7Dag459lZFbJjlYyX5M3kwNuRpfHI2rklecQIEtWqKJEBifaZVJpDA5nyo/flor3bDIR0BDEEdicvNPwuk3KGzaPhnhM+2Ssh8GTkGVg==",
+  "URL": "https://mate-desktop.org",
+  "LICENSE": "GPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1582666169",
+  "PACKAGER": "Brad Fanella <cesura@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "dbus-glib",
+    "libcanberra",
+    "libmatekbd",
+    "libmatemixer",
+    "libnotify",
+    "mate-desktop",
+    "nss",
+    "polkit",
+    "gettext"
+  ]
+}

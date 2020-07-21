@@ -1,0 +1,23 @@
+{
+  "FILENAME": "tuxcmd-0.6.70-9-x86_64.pkg.tar.zst",
+  "NAME": "tuxcmd",
+  "BASE": "tuxcmd",
+  "VERSION": "0.6.70-9",
+  "DESC": "A GTK2 file manager with two panels",
+  "CSIZE": "599408",
+  "ISIZE": "2178497",
+  "MD5SUM": "ffe16b914dbee8504e18a27be8a296b8",
+  "SHA256SUM": "c4e3ac18f392aa72f4badac564a4fb104839a0ebe36bb23ba9c7fbff3ad5710f",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl8EuWEACgkQeGxj8zDXy5LoTQ//WYHJo1HcZgc3JtnZPUJi9zlVLy1ZG3yET+P8LRTIxIZ1nSoin9SAbNqY380oRtTzIxpU6HUll8XPAy1jOIhV78Tb/+Px0UF0zPSiYg7U66U/iNSpAiuPrmAjQlmm/7H4Nec+aSKFsG2eeW/Qi3QKaqkxQ6S47lB79bjxDq0WZhGzaWxz6Wqawt/4TSL8UVQF7yt4sfUzxzzFsi1KbhDqNeEvY6y4A5iH0/2GwrgnVBGMaOIV9t22fQNrTpKcG0qza+ew5B1648yAjLS/Ix49LCU0pol9LASOgs93hAnmsoi9fO4nDdSFoIeCh6zadPCQck5VDYCy2+I/eV8HJ41p+RGDg4ovuB+XGvTmS1qrP/ZalojwbE/hyuSutemUVmRU9YXmZZRYmM1WLeYYYTnFebgICE+HejnNYsmTpwIYjJNskliuWj7MCYUnhBa5IuR+WFkbc17CR3sKYhXf0JwXjTJRpu9AT7SgJFEHIfS8cty3L9mNHKv1GqBivKt5jofKGKaD9pQ/DjvzwfP4KoHbgtHDKkiHiOmCOIBRA0r754Ovt1AF/QuFcarvJaaN9/NxUuKbh/QinEX6Rb9iwLz2JoBsicHlxFR5srBQGfusenoJnGJEvsrs0CwRTytvahob0ODx5s1jO0Z+xKMTOvsS1uxFYpmE41WjLPxOEVHLH2A=",
+  "URL": "http://tuxcmd.sourceforge.net/",
+  "LICENSE": "GPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1594145095",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "gtk2"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "FILENAME": "kodi-addon-audioencoder-flac-1:2.0.6-7-x86_64.pkg.tar.zst",
+  "NAME": "kodi-addon-audioencoder-flac",
+  "BASE": "kodi-addon-audioencoder-flac",
+  "VERSION": "1:2.0.6-7",
+  "DESC": "FLAC Audio Encoder add-on for Kodi",
+  "CSIZE": "23221",
+  "ISIZE": "45378",
+  "MD5SUM": "0336850e4e98cf3c0e3e43497881cf61",
+  "SHA256SUM": "7331ec8fcce33f65b63b942531e1bdc836a33c63fdc86c095de806d8afc19603",
+  "PGPSIG": "iQIzBAABCAAdFiEE2yJ3vNUAqjglYQvd2zIzknlsoGcFAl8EaFIACgkQ2zIzknlsoGen2g/9Fyt2vDBDlXk7TxeH9YHGNV1n11juzjpirYzZzD2RGESoE1nnm283ScJgio6WiIjLRI29P56u0iGGPhNyrY6vDsr6eVbZljAVVAfs85in6n2IG/yd4ThIMdsSFxO/srSDiasLJCG9CimLpamiCOMhTAKKvfCuqiMFZ9MCZHnPIfqV0QvPZOYEgEbHowwrp2DSlZksGVV0k8Zzj47jJQ7QdXOYbfTpxJCgPilUi4NmatioHO9srWElxpFAXXqmYP87hYxmufpgFe8SUrE4h8TnHZ5CfLrBitaGRtkzUqDNWZjRCpFlbeipcwrJL8vKzYKu9ZqiV+k4ZniZ++nqs9q6+7WSKxMZYHpOtKubrTUIUV0Q2c7G462ssidRnhQIJRNjbE009UQicgk6PkbuiGgbecyzVHD1WlAugVqaF/hajLeskb+6wUlaL4xWUxbIBBV5xJJu7fHGhkJe4bhbGj9bMQwP97bQdDZlp6p80OrARyoLyHs7wlZMEiO8xqunRx+LH/OAxUxLzBWB8c2Et31kcwKqYe+g6iiGiLLdrAqz1rsPzD42acwzzERzPma+u0G7hSbq09usPaMZAWF+DmAov4yOsROAsoowTC6RGin9N4FbAgtS+620nQW7Xnd/xd0fVSgMRo2k9dZFu9O4CGx3KfsBrkOVVNNoY4VIIHUE1tA=",
+  "URL": "https://github.com/xbmc/audioencoder.flac",
+  "LICENSE": "GPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1594124318",
+  "PACKAGER": "BlackEagle <ike.devolder@gmail.com>",
+  "PROVIDES": [
+    "kodi-audioencoder-flac"
+  ],
+  "DEPENDS": [
+    "kodi"
+  ]
+}

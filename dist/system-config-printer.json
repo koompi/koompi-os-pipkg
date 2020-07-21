@@ -1,0 +1,30 @@
+{
+  "FILENAME": "system-config-printer-1.5.12+33+g23b454ef-1-x86_64.pkg.tar.zst",
+  "NAME": "system-config-printer",
+  "BASE": "system-config-printer",
+  "VERSION": "1.5.12+33+g23b454ef-1",
+  "DESC": "A CUPS printer configuration tool and status applet",
+  "CSIZE": "1085023",
+  "ISIZE": "6880285",
+  "MD5SUM": "8855097eb204683fd636536cc852d997",
+  "SHA256SUM": "3ebebb5c18d01d9fa5bc23a6d821e977ef4dbec3710e38abd4b699d97879b956",
+  "PGPSIG": "iQEzBAABCAAdFiEErcih/MFeAdRTEEGelGV6sg8qCSsFAl5wraAACgkQlGV6sg8qCSvQzgf+J+8qTc0Wm+kjlHddS7G+rdVeUQLpDCYcPDgVc7ujGnI8SUr5RJOvNEHbGpBtwKd6xG6/fgV5lrPkki9NlSFhK6KAbHRpX+eQcx1PCx3RXoGJlxz8nTWTrR8YgyNvKjVKguoa9RBjxfhCK+sgfzmyOKidfjMcrI86QYXsSF/7mVPlfMaetEFvj7ksvWOmSxS1/aOVuDmkkI+6+GCUustKqDTsCq0XrDtMhRDhaLDq6qb/AiXjI8lnKbs0OTqiyCNY+Pzmql5igWy5ET+/XKYytbHj7vEOxuGT2IsgIsEiOcE/QfOGbUwRwCaSPm22EH/9YrntnmtnB/biOfI2qFiyUQ==",
+  "URL": "https://github.com/OpenPrinting/system-config-printer",
+  "LICENSE": "GPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1584442664",
+  "PACKAGER": "Andreas Radke <andyrtr@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "python-pycups",
+    "python-dbus",
+    "python-pycurl",
+    "libnotify",
+    "python-requests",
+    "python-gobject",
+    "gtk3",
+    "python-cairo"
+  ]
+}

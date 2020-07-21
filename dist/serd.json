@@ -1,0 +1,23 @@
+{
+  "FILENAME": "serd-0.30.4-1-x86_64.pkg.tar.zst",
+  "NAME": "serd",
+  "BASE": "serd",
+  "VERSION": "0.30.4-1",
+  "DESC": "Lightweight C library for RDF syntax supporting reading/ writing Turtle and NTriples.",
+  "CSIZE": "65496",
+  "ISIZE": "185810",
+  "MD5SUM": "dbd389e6a7c8b2b23ba44f49d5031c3f",
+  "SHA256SUM": "1b296de1d018d6540bf985222a8f1f20d69cc0b2d224969e11f0a0e77fd727d0",
+  "PGPSIG": "iHUEABYIAB0WIQTH54SUZv4jWDQ1iDdyWHNLQcMVSQUCXqXx3QAKCRByWHNLQcMVSbJEAPwKuB1ux3zrApjXzm3Uiul1iqjHXdcebdLWRfmNCSicGwEA15P09wOnO2dMbwO63v8QNn3HPEzc7WNWcunley1+EQI=",
+  "URL": "https://drobilla.net/software/serd/",
+  "LICENSE": "custom:ISC",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1587933361",
+  "PACKAGER": "David Runge <dvzrv@archlinux.org>",
+  "PROVIDES": [
+    "libserd-0.so=0-64"
+  ],
+  "DEPENDS": [
+    "glibc"
+  ]
+}

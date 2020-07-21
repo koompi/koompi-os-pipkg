@@ -1,0 +1,27 @@
+{
+  "FILENAME": "libxml2-2.9.10-2-x86_64.pkg.tar.zst",
+  "NAME": "libxml2",
+  "BASE": "libxml2",
+  "VERSION": "2.9.10-2",
+  "DESC": "XML parsing library, version 2",
+  "CSIZE": "1367615",
+  "ISIZE": "9636825",
+  "MD5SUM": "0d4d52f2c665adb39c378e01dcfef2f4",
+  "SHA256SUM": "499cb62232b83d104f934769002a92a124a0e3ca2fb7f5be705b9e13fb4f2358",
+  "PGPSIG": "iQEzBAABCAAdFiEEhs/8qRjPOvRxR1iAUeixSKmZnDQFAl6mlQYACgkQUeixSKmZnDTIdQf+PClxViNEsKafwPTIP76Yn7nVckWZY5w3/lbKz51PkHD0FyIjtUtqMOd/JPXDSFKwe3l6mogW2F6JnDTV+3p0LorkZvZJDxnCgHVdeJlXP1xdXk0NRCc6GHdAaaDPv9kWWHi9hCmASeXDyYEBfUkXOkZU2nxW39X/c1nzRQPjqMnUGZ9SwnEBP3ZVT1niyuyFv31XNEE7Z+4m2Kn6cv0n7Nb1WAWBKG474reatNx9/01WXp5tat7pNMVaFiKcAQ1eO0TyadVg16Xx5VegyCWYf2AXuw7BCIU1s4aIcla98M3VoSstjZDsnOB/gDNxermqs8DBfCfDa94X0gfrfOJb4g==",
+  "URL": "http://www.xmlsoft.org/",
+  "LICENSE": "MIT",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1587975299",
+  "PACKAGER": "Evangelos Foutras <evangelos@foutrelis.com>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "zlib",
+    "readline",
+    "ncurses",
+    "xz",
+    "icu"
+  ]
+}

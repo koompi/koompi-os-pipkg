@@ -1,0 +1,23 @@
+{
+  "FILENAME": "libircclient-1.10-4-x86_64.pkg.tar.zst",
+  "NAME": "libircclient",
+  "BASE": "libircclient",
+  "VERSION": "1.10-4",
+  "DESC": "Small but powerful library, which implements client-server IRC protocol",
+  "CSIZE": "79520",
+  "ISIZE": "229928",
+  "MD5SUM": "9c997427405acd90546ce66ce5a3b4b5",
+  "SHA256SUM": "e12bf80e1fbc0dc64614410b004c4ee3e09feb5cf6cfa049808ce1e09662ea22",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl8EfLYACgkQeGxj8zDXy5I+pw//Q16mRYB7kZ3CkaWZ0KiV0fGrUE+UxFG/9R7L4JVhJvt3kAUfVTmOT/R13RpdBC0DAf2VcE7ZHot3avL9v+9hH7dVmnQtbfxJOFY7TJ6eEl5nMIsCi6oW/DhB+rHRWt1csk0OWe4ms4devle6v3kxiahFv6jE9xTxpMGGzaGvoy/g+FBz9K7Wqtr8sKD6dMMDlELf4itAN1df2c/cYp9K1xoMzC4YghDzfmds9UOf7ebla12JmzNCX5RzBPWSprLvH0h//lWerRZqYcXlQW9uAnJvcWILoEYJr9tq9TZinADlreMsSEyULIMA20xzhuyiyIM05YG2JMabrijR0wI8p0rWWxe9bQIC043cZCHlFMHROBDbd64CoPeYu1VqvnAxvQCoKTI5kt71SXBD/6jxUsr2Nx+EERahBNozVqCZQByPAhsP8UG4S3YviPlY8A3O7Wg2QcJvg1FlQiuN6LO8w0PMjeqLwl27E2i/hUG0ioH1Xh+DdSz7DMOk6u/59wbMJ0itLuqvH8GZL6GXyRfU0IBtby0HUdr+mzDIc92SOtRC2WjkJ9f2Zqb7dKxtt8DYnoqIHy2zMZbiK1KBWsZkEAihvkNMTeZuwKyoUzkt8FuRuLgZXvVvg6EoVM6oEd1YcV1tYWlKu60GiBjykpdtTOY3pxcJ5elIAXBl62juUIU=",
+  "URL": "https://www.ulduzsoft.com/linux/libircclient/",
+  "LICENSE": "GPL2",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1594129485",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    "libircclient.so=1-64"
+  ],
+  "DEPENDS": [
+    "openssl"
+  ]
+}

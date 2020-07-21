@@ -1,0 +1,24 @@
+{
+  "FILENAME": "buoh-0.8.2-13-x86_64.pkg.tar.zst",
+  "NAME": "buoh",
+  "BASE": "buoh",
+  "VERSION": "0.8.2-13",
+  "DESC": "Online strips comics reader for GNOME",
+  "CSIZE": "104081",
+  "ISIZE": "358836",
+  "MD5SUM": "de8b4de44de7039f80feaa62d41b6656",
+  "SHA256SUM": "c462eb6adf7894f279e85cd7c4ef928b79b139388afd136d9b928cd19356cdf1",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl8EhEEACgkQeGxj8zDXy5LadQ//a8rEQIt8w0HUrRV6E3i0tZceMz/INV64fIkXvJYVIuA5lawzBUVEPzsNnMpVrUeL+M7u1dvsJ22p/FUofa2B8F5RKE0bFKXxnVDWU9ld1edH7tmdHrb2+3/9IK6wXTGWTSXwz2F6teWTB3IJtBH1xtDxwpCNYdw1IQavBhr20WjJ8NONir+4BT8rQN/F5ArMHJpf4PXMJKA7FufnG+5t6hNnyNbXLUXWnDNGf5grGZLu85iFIWhXt81AVSGukACxBZSnUa7RhSvPvB6y4oZh4Jfz29q1yTHOllhO29lzNz1ytoJZFIk3Cb5axk2Qre79zGhWDLLYxJbzwHv58HFbsHM4uYzuIUkc+BGtNGCzSmDhWbrw5PhhkjRJb+Tzo8BvFMg4c/mCcinuic56kjRzYiOfx/AL4rrQclq+Lr/QPYh4xDNM2h2VJA1dTkE3tIWByUK5amBFoy5aNm396dBpxJ+42owSq19tA2rvPKc2+Z6yZXEtcpBBvy0NiGpa0HSQZq5k4RXjwPiDrHEThTfYDeJ1oBZk77jz1CwSeNeaCi6cqKXCAAaryoAGG/e6iankmi/GhBO9ZkxnKqqR5REKiI40I8hFjGfNnSd+ydSJ7jIzk6RMEileGFcd+IX1IfowLHQeB1VLjI7AFtD49dRG631w8XN74DZLTlSzQ+H+n3g=",
+  "URL": "http://buoh.steve-o.org/",
+  "LICENSE": "GPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1594131384",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "gtk3",
+    "libsoup"
+  ]
+}

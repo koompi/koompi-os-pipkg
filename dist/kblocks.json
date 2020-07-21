@@ -1,0 +1,24 @@
+{
+  "FILENAME": "kblocks-20.04.3-1-x86_64.pkg.tar.zst",
+  "NAME": "kblocks",
+  "BASE": "kblocks",
+  "VERSION": "20.04.3-1",
+  "DESC": "The classic falling blocks game",
+  "CSIZE": "2045691",
+  "ISIZE": "4451226",
+  "MD5SUM": "fa42519b44ba9f14e1b7aaeb8ec299ef",
+  "SHA256SUM": "e7fc6ec14f24333d8c8b9df4283c97a6fa74639ede625c8d48b3664584901434",
+  "PGPSIG": "iQEzBAABCAAdFiEEFRnVq6Zb9vwrc8dWek52CV2KUuQFAl8HBRIACgkQek52CV2KUuQJKgf+MnszYXba9qVHh2SYTIqtw8hi0WdQAD5ObKE2DxzjPSUYXw7o2RTSHGFsG4t/2uY5nTJ/ZmsODE8zrAPywlvAf1pLurfBlWhnRidY8VZv42J22tO19jPmSjFaSWPe7bNhxIr8kOtkr82dp2LuOJgVGkIdoebhppVYc5yStLBYFMybiEgsD+k+viFlq46Iy3APxhcSHJUoKXzb78ik6J0HaaAlBE59KYq3hB4emfJQiTb9b9gRubkRez1BiXS5uzSekl/08xUfOsN8e3USRvO/0hLL7l1mMpBvKi7rhs+GXUCtN9PlnjFc0nPlN4bcaJF70CXEQvHamKnpgJ61fbjC2A==",
+  "URL": "https://kde.org/applications/games/kblocks/",
+  "LICENSE": "GPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1594108136",
+  "PACKAGER": "Antonio Rojas <arojas@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "libkdegames",
+    "hicolor-icon-theme"
+  ]
+}

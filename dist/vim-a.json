@@ -1,0 +1,23 @@
+{
+  "FILENAME": "vim-a-2.18-10-any.pkg.tar.zst",
+  "NAME": "vim-a",
+  "BASE": "vim-a",
+  "VERSION": "2.18-10",
+  "DESC": "alternate files in vim quickly (.c -> .h etc)",
+  "CSIZE": "12658",
+  "ISIZE": "40920",
+  "MD5SUM": "b62a234e7e1d69d43881209441b9277c",
+  "SHA256SUM": "11e9ecac73af88a1a0c8e96912c2e04d267be20aa20aa6aea00ac77ab2ad286f",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl8EkCIACgkQeGxj8zDXy5KtCBAArYnvpwieiC9aEVIbGFO5JOITcspaqkkT5mWZfQbBeO624QpsJl1C9JmDeJX4Gns4oUcXsxY5tK13vWzddKe8PmveixF5JTzWYkbzhD6nhvajvJ5eroWmPGnOzbUi7ZpploYTlkhwtrujUTJi29cVA1DhDdtYtJRmBj/2vuFr38U4I59Z4aPEkCoLXjn2OVW74jBLCuGax4kPRzVF+pVt6uZOQaosYk4ULbpAhFjj5oIaFFCttWQBntdyiQAignQFrmPam8Tk56r1CgwyYrFpUsrI7SImnaepsm2Wk1MyqVAIsQmVR5N1S4dADI608cBY/LTJyV9a8DgcnA0U5iFM3AG9RQl4UJtbrdxdXVBjCOx1Ww8aq2LGdWQHCyJ+4pnqnpj5jI4MSjJuBwD6OlT1qS76BNz4n4/B1Z6AHgIrDhTFuMTCuFSvWDFu7aUbw7FviQovIoZfd4X7ucifKEyo9tLcIXPnFmXDDsldx/sO/oe/tT1sjYN+IoOFPoDSgLO5Un0ykWxfKYDygw7LHaAImhK5QxALQs0bXQg/Z4IZ6WaqUJRchYtQsKsNV1qmr1yEuCAJoKPGOxNapIh0mr2zOTJHaeEWalewsSkQSe2e5KsKDBnnvxMNP59H8S2UAqG4+sZt1+eMXcNZ6fLf4josUFyXndWtwDuqMLLOW1bLwyQ=",
+  "URL": "http://www.vim.org/scripts/script.php?script_id=31",
+  "LICENSE": "custom",
+  "ARCH": "any",
+  "BUILDDATE": "1594134545",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "vim"
+  ]
+}

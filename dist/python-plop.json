@@ -1,0 +1,24 @@
+{
+  "FILENAME": "python-plop-0.4.0-2-any.pkg.tar.xz",
+  "NAME": "python-plop",
+  "BASE": "python-plop",
+  "VERSION": "0.4.0-2",
+  "DESC": "Python Low-Overhead Profiler",
+  "CSIZE": "24640",
+  "ISIZE": "82704",
+  "MD5SUM": "c3e6044f8ecf820072f64634e7dfcb1c",
+  "SHA256SUM": "d33c9faa33d5401a5ae264f3ffc90527ed3c6ac40c4d2fe646215920bcfe226d",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl2/vuEACgkQeGxj8zDXy5LK3RAAvuXOu4P5TP9G64BSUa1Mo8MdiSb7jOb3eMxTl2eAk9+7aOen/hV6OH5SxT8kDbE6WXnUMXWbLoc0iwjCf/cqzIWYpORCz4gmaWX+qYvq0Oa7Ir7TS5HkeSPU5TAgkBNaEAFcQB9EIz7SETAE0rg5+gH6Ii5DUb9XE/jrUo6WQAxOo5FhRa9Uf9IqARwX4/HjcB/pGPbZkbI4KFyJYwut5OHvSUQrkVl1+eO6Qu1Yw6s39zEU3JKgQcswicwqp2b8CNFfXXJrzVhTehGqWk08KGneqIiohMraG6SQoxlgYmk7I8wlIYIqpfvJMUrFrWNZaXE7PT8GMkNNSLDrffHtba1gArCQAaKoz0G3nzX2UG/HnuEy2AAfduKq41HeuZNku6RWd1uqoSpSPgFhfkjvQJ4qJabCHKeMHywAMDzCbVIZOCHcsxYpsG1pUZxNDNar56AE8Hnp5lygmfUqifV+xgkpBy34Zm+idE1nExnoefq7n13T3/TnFTOhuCxT3PuWzlg/XfEVwLiIu4gJnD7dBP9DZL1s+nnOUkIITQo/KxciE2EIfdd4zfNOoBlCCLlCX1W2jn8G9XLqlPuj7pq7txq/WrefXxb6z4W5ZpQWDAAQVTUSzQpXEiizCp+0+qLtI5MXct8XJFNFavBMZp2AQPReB81eXsOMoaPFgJgCPdw=",
+  "URL": "https://github.com/bdarnell/plop",
+  "LICENSE": "MIT",
+  "ARCH": "any",
+  "BUILDDATE": "1572847285",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "python-six",
+    "python-tornado"
+  ]
+}

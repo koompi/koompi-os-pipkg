@@ -1,0 +1,23 @@
+{
+  "FILENAME": "firefox-i18n-trs-78.0.2-1-any.pkg.tar.zst",
+  "NAME": "firefox-i18n-trs",
+  "BASE": "firefox-i18n",
+  "VERSION": "78.0.2-1",
+  "DESC": "Chicahuaxtla Triqui language pack for Firefox",
+  "CSIZE": "477320",
+  "ISIZE": "540195",
+  "MD5SUM": "5f9a4c652c80a8b69fac3d36cabb0b8b",
+  "SHA256SUM": "5ffdb57023012fea79e09ded5a3bdac49e7fd9679261c1afa6524ccaafb0bb62",
+  "PGPSIG": "iIsEABYIADMWIQQGaHodnU+rCLUP2Ss7lKgOUKR3xwUCXwelrRUcaGVmdGlnQGFyY2hsaW51eC5vcmcACgkQO5SoDlCkd8ddwAD/exDAlBvXkoBEekCDBEvXcy53XuPCclUk8dspOyFbryoBAJQXRD4UOZ3B81gWbQsBLCIQ3vk42y6+Bx3xT3AAhWsI",
+  "URL": "https://www.mozilla.org/firefox/",
+  "LICENSE": "MPL",
+  "ARCH": "any",
+  "BUILDDATE": "1594311501",
+  "PACKAGER": "Jan Alexander Steffens (heftig) <heftig@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "firefox>=78.0.2"
+  ]
+}

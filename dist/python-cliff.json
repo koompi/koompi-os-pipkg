@@ -1,0 +1,29 @@
+{
+  "FILENAME": "python-cliff-3.3.0-1-any.pkg.tar.zst",
+  "NAME": "python-cliff",
+  "BASE": "python-cliff",
+  "VERSION": "3.3.0-1",
+  "DESC": "Command Line Interface Formulation Framework",
+  "CSIZE": "109786",
+  "ISIZE": "653407",
+  "MD5SUM": "033844f573a6d40a34bbe12304612faf",
+  "SHA256SUM": "853b0f05af6f8787cdd470f2eb3c5ca7f31053eabafade400690eba4d20b9e6c",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl7nFWMACgkQeGxj8zDXy5JCzg//cO59es87AE96mMLO7RJqK1co3a3q9w8ARXtPg0V44BZcFzcciyhENsputrxwB5NAALtpR5AO8KCBSrNE5mDNR93WXEP4t00Cgm5auXV8ftO26sj5zSBA/nGLUhw9ey1NWgq5UNpYkBGXh9AxYkT2i5TV3XNDJoR1sISh+u0G2gjPqmjJCLTRKu+MnsVGlVPVe8efZvyVNOlNVEOULtoDkUtF7wSFe3CinlH9SLh0CbiAECMoVg8wb/c+FSukJKVrDsEcMwFXCb3zjeJd4fl/3pM058b+EAt3iCwkkYNZjzLfpew996e7WGBE0NXB0iePACRJnDdUXyJp7L/x09fwUFeS9rhlMiynzN7wku2YpiF+azrKitKmeWNRp1YrwEEQV53KOpiklPS4PRRiOb/uc1k6zXm6p7mPeFTIJrXRv6+FVGf4V+AB0oR6cuRDYKZDqSPJu+YZ8zLHj4jL6xSRSzlufTykcfzQhm6FumerrPyfCIcD0jnttEmrI11BwnM3TfbbsImF2v1XRJ+BQ/t7A33dGIH76QKqVwxE0uJFQtJe/O0lW7//43l1Qy+2UfdGLkAtK2kezIGAEgcJ+hKzFfqod2zJe9C/8hPz9SWSk3NbK7dPLLxCavIhoIcmFQuhQMKL5BJDsclLhSZWWohXSkk73JsHfQfh8j7EuvblNsQ=",
+  "URL": "https://docs.openstack.org/cliff/latest/",
+  "LICENSE": "Apache",
+  "ARCH": "any",
+  "BUILDDATE": "1592202551",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "python-six",
+    "python-pbr",
+    "python-cmd2",
+    "python-prettytable",
+    "python-pyparsing",
+    "python-stevedore",
+    "python-yaml"
+  ]
+}

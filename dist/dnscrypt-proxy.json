@@ -1,0 +1,23 @@
+{
+  "FILENAME": "dnscrypt-proxy-2.0.44-1-x86_64.pkg.tar.zst",
+  "NAME": "dnscrypt-proxy",
+  "BASE": "dnscrypt-proxy",
+  "VERSION": "2.0.44-1",
+  "DESC": "DNS proxy, supporting encrypted DNS protocols such as DNSCrypt v2 and DNS-over-HTTPS",
+  "CSIZE": "3674343",
+  "ISIZE": "12784359",
+  "MD5SUM": "0271969216c925b559adc1fd51584167",
+  "SHA256SUM": "d00196a67c3b4fb64b60c7466807c0e6d56227ea25d1708bfc2e7f0b6f82ad61",
+  "PGPSIG": "iHUEABYIAB0WIQTH54SUZv4jWDQ1iDdyWHNLQcMVSQUCXuKj5gAKCRByWHNLQcMVSWNPAQCs1+9USoPPAEi5qOZTWQa4vh+BVomDT3IT7WnZmJoEAgD/VOeMmelJSCudtaJ7m55FVq6ebtf9/NdZnPEXG0ThSwM=",
+  "URL": "https://github.com/DNSCrypt/dnscrypt-proxy",
+  "LICENSE": "ISC",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1591911294",
+  "PACKAGER": "David Runge <dvzrv@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "glibc"
+  ]
+}

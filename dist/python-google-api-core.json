@@ -1,0 +1,27 @@
+{
+  "FILENAME": "python-google-api-core-1.20.0-1-any.pkg.tar.xz",
+  "NAME": "python-google-api-core",
+  "BASE": "python-google-api-core",
+  "VERSION": "1.20.0-1",
+  "DESC": "Google API client core library",
+  "CSIZE": "91200",
+  "ISIZE": "728368",
+  "MD5SUM": "961bc72865e3e087eed927f145d24c14",
+  "SHA256SUM": "a1a6b24bbaa79cd0f1a4c77b42554e33883a66f0b794ee3b6ae759e3fd3dda07",
+  "PGPSIG": "iQEzBAABCAAdFiEEcXAmqdR3n8U5QHJmQPVXtzFJYQYFAl7k9FIACgkQQPVXtzFJYQbBVwf/X8jXNZR+8gLm06DUcvJ5pm/4C2zCCddv+DluqjG1OwOzB4hZvz3guWTd1BOuLCbynPZppg/S1e/Rnz8hKkLlVh4MBNPRmw7Ww7x+/EvsggzpB6zARv9seYD8ZI2FnhKW0lpOqTqEmitExGrZ0EzazD7trdcBwRiAMW2Uhg+Zp9B+6MhfnXR2i9zopm78/1KMZtLdGBAU1PY+YpjHDLYZrIFTTX2O3bRg2MyGdIiTk0NlRreRzoP6EM7DYWgMh8xgSWaNhm1cUpQvE9SlsTFgQBvd8qZHqmmyalOhCFqwJOTju7vxlT/6ZzK3pRby/kqkQ8GeTlAnDtRKbr8ABVIttQ==",
+  "URL": "https://github.com/googleapis/googleapis",
+  "LICENSE": "Apache",
+  "ARCH": "any",
+  "BUILDDATE": "1592062968",
+  "PACKAGER": "Andrzej Giniewicz <gginiu@gmail.com>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "python-setuptools",
+    "python-pytz",
+    "python-requests",
+    "python-googleapis-common-protos",
+    "python-google-auth"
+  ]
+}

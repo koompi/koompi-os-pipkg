@@ -1,0 +1,23 @@
+{
+  "FILENAME": "gtkimageview-1.6.4-6-x86_64.pkg.tar.xz",
+  "NAME": "gtkimageview",
+  "BASE": "gtkimageview",
+  "VERSION": "1.6.4-6",
+  "DESC": "Simple image viewer widget for GTK2",
+  "CSIZE": "34244",
+  "ISIZE": "116560",
+  "MD5SUM": "8a11845fa691d66a28bfcf3b767f874c",
+  "SHA256SUM": "3c702abcb9998221026fdfe54f02ccfdca85036f32c2bdd478f8e74f553853c8",
+  "PGPSIG": "iHUEABYIAB0WIQQEKYl95fO9rFN6MGltQr3RFuAGjwUCXbCWnAAKCRBtQr3RFuAGj/79AQCJvevGkUB6MscNxmTx0Yw0QNenAoJvGcaYEpc+q43loQEAubYTnn/14cdamsiB/g+2OrWYtOJMtTJWmDlsavtkgAA=",
+  "URL": "https://github.com/GNOME/gtkimageview",
+  "LICENSE": "LGPL2.1",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1571853941",
+  "PACKAGER": "Christian Hesse <arch@eworm.de>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "gtk2"
+  ]
+}

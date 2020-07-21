@@ -1,0 +1,23 @@
+{
+  "FILENAME": "jansson-2.13.1-1-x86_64.pkg.tar.zst",
+  "NAME": "jansson",
+  "BASE": "jansson",
+  "VERSION": "2.13.1-1",
+  "DESC": "C library for encoding, decoding and manipulating JSON data",
+  "CSIZE": "46402",
+  "ISIZE": "187102",
+  "MD5SUM": "b1453be25a4356faa4f44537dba0a9fd",
+  "SHA256SUM": "557d7c9542ab84d319a6b726905afe8e819cf7fc6dd184016b63e196346b35de",
+  "PGPSIG": "iQEzBAABCAAdFiEESMOx8w3dD+Z+UW0WOW4+JbqxQsEFAl7Ak7MACgkQOW4+JbqxQsHnhggAimpV7CHn2/6qEfai+If8bnvjX1WHFi4uNND7iAA33HtHsRR7ZQ6W6n0IJi9A8MZZi3TH4p4O77lGAdsDtOc4i2PHyWeROxE4NZ9l3gZL1gDHR4Q8Z//WK8lCl0AzHQmq6fEpx+puhZa9hFUqivAh/vHi+A+VrGQEvPfcpPt26/lPByhCgr1p8ArStSO4OS3kUbr4zsqOkgQCabX1DbA+9Re2sdL7piu+80V81LTLZK3IEIZG8a8p/iz/OVVrfSsnPkIAsWYYZt3jYRLt+2jKu9Ru8E+qRv2/+DWwgT6j0OippzbG6xluQ0+YhoD4tF+YVHhb1JqT4kgOUtbFvRQP5A==",
+  "URL": "http://www.digip.org/jansson/",
+  "LICENSE": "MIT",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1589681141",
+  "PACKAGER": "Kyle Keen <keenerd@gmail.com>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "glibc"
+  ]
+}

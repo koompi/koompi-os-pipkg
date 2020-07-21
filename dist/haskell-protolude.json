@@ -1,0 +1,26 @@
+{
+  "FILENAME": "haskell-protolude-0.3.0-6-x86_64.pkg.tar.zst",
+  "NAME": "haskell-protolude",
+  "BASE": "haskell-protolude",
+  "VERSION": "0.3.0-6",
+  "DESC": "A sensible set of defaults for writing custom Preludes.",
+  "CSIZE": "94790",
+  "ISIZE": "407980",
+  "MD5SUM": "abc9a1d1953debd8beb3755debe8b449",
+  "SHA256SUM": "effcc8577ae158b20d49763c4e52866c67bbda7411d0ea5e998a54033e31cf4e",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl75ENQACgkQeGxj8zDXy5Ip2w//deEHYUqgs6/z6fZUESwX7vYdqXXb/YKekn/LPTmgX5A6Ph5dCdUbgvODxzHkJaWQuF4U+aiBpIQCun3HOydMz6uCS1YgRqpw0B5VpdYZVbh/6iXZBecgZyY1lnL9Y2USLPeuFReRJPanM+cDoEZVHa1ujr1SJmnXUfZcGHI5XaPDM5PV8aNnpgewfisOXmDt/x70RlwqDQq49fgD9ZTb2WFCd4vOjzSKTj4r6JUXGnLnyY1XyQy0SeDbw4XDeURotW2bH6gY/+d/HM5HhwjhTYlmscetW5HiFAxMmU1UnMgUc03FRqE7f7KaLpcWSbWw6dUSTAvabKD5QwxIt+KYm1Q2k5g4i77zUr4hXx1bjn6lF4JaRFCcJ2b6sR+yIBgDVavMppgMrV31Nlzoef4GZ8eYbpaYP8aJhhMD1qLzd0WshU5ld5exh4Vnb94mjvrXnufbN1wnN0DYpsovl8Ou1kaMMFydho/74ZNQbb6kQ7NH/3DeJ5IsN+oE9TC7DlZ07R9wn/X1ls1eaIYGudHe6HF9wIyoMXW3JnbkjbrS5EvQufgwl+0/dpFPXB+BnJ5fhal9iM/1m09nxrUgvN65CN0Mo68HYJ5IyNl6bxKiyfHNoqN7H9LUfMvpIZGKkuCNfmbTBY4p6voP7TMlsG51pKdpOdTbJrUKnrngyDraGfI=",
+  "URL": "https://github.com/sdiehl/protolude",
+  "LICENSE": "MIT",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1593381054",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "ghc-libs",
+    "haskell-async",
+    "haskell-hashable",
+    "haskell-transformers-compat"
+  ]
+}

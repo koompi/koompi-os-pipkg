@@ -1,0 +1,23 @@
+{
+  "FILENAME": "lib32-vkd3d-1.1-2-x86_64.pkg.tar.xz",
+  "NAME": "lib32-vkd3d",
+  "BASE": "lib32-vkd3d",
+  "VERSION": "1.1-2",
+  "DESC": "Direct3D 12 to Vulkan translation library By WineHQ",
+  "CSIZE": "132860",
+  "ISIZE": "413696",
+  "MD5SUM": "81ec04288af4a52aa48f51c069997235",
+  "SHA256SUM": "c99125eb235d914bfbc11d9e6fa4125a7da372237b9b66edfa72fa1d44d85014",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAlxLSKwACgkQeGxj8zDXy5LmOQ//Ysx4nq7pBPO9j1KfIhu6CIQNVwxAQnfOLFkCEnBNHeexLTp8/1bXTHNTRaqjgrR99w69CVdopjspMHCCz6meRo1bFNZvn1Ys9D+TxZUFom0zELrhBVk98KZM9LJaJDTTRCRUGP79KmXTTUVq1PmstqHFbTt5llrFetyC+fsb3zsytd19t2bZIRJkQ6KOMAmjWiDb0L0ro68QnhLHBsdsTEiIpvjrvswiT0NEolw35pRDcwxf25/fipO7GLSj9dLRjRUCgH8JLDCGRsM/UL7Z++6IepCkKesFkKuHomkx+oXhp6PAJwggzMnzi/wwqsKQXBkgm3vs8LkEiVaimAKRg3hsXmnDflYv/Ej66VtHwZMWtiAfXHvSXjSt/X5JBmLfM/NfKqFTKcHOLo9RyxbLkoVQ5uGoPxlFPfM3cjA7LeTbZYzS3f6V/YXv5mSrC7xHoj0ZmN+2pf/OPEZjYdVDd1jxqIHvO/+Rei1r6pQ4+91OUHJ0HrYWW0CBLe7QJjmlQhns4Ge/3Z7t5zNdS6WiRDf39xQ2+/7bYL1dFCWXuol/YUP4pd94Ox4Rmwe+vfrF6DBdVQH7oQgzxCkIyzpMZIb3dcOMB7p+HGw2jC8Gcj5Uc4lIa8HtawBfpxaMjPIS0+e1pfoHZ3FbXcIVd2ORLccfzjugDMKxsRUylfsHc08=",
+  "URL": "https://github.com/d3d12/vkd3d",
+  "LICENSE": "LGPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1548437630",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "lib32-vulkan-icd-loader"
+  ]
+}

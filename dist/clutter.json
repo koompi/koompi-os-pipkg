@@ -1,0 +1,28 @@
+{
+  "FILENAME": "clutter-1.26.4-1-x86_64.pkg.tar.zst",
+  "NAME": "clutter",
+  "BASE": "clutter",
+  "VERSION": "1.26.4-1",
+  "DESC": "A toolkit for creating fast, portable, compelling dynamic UIs",
+  "CSIZE": "1984288",
+  "ISIZE": "18093251",
+  "MD5SUM": "c5510f53afc099f08dbddac9915abda3",
+  "SHA256SUM": "40b03cae2b3712005cdf4414bc898b8ec0650edc8143861a0ef77dbbaa7682a3",
+  "PGPSIG": "iQEzBAABCAAdFiEEghj4iEmqxSLpTPRwpekojE+kFfoFAl5mkmIACgkQpekojE+kFfppoQf/TkweLB+4E5QWXB16Cu/j+pg5m0pufHF79d3d4coTVeG11Cta3NHe1lrhxYkikt9NFOmy9OkQXQAzBFmsC/yNCfkgHWDlHQHDfOhvTqkHKVcn7AYtMuoqJL3WpWbd+9ZKhvvLFR3T+2Uh69XhlWLwlstjxZiE6lXWcTKUf/kBlCnSvZIxq2vpWOLRvJ+8t/u7dlDG5e7jHIYSzNNmiRvGjX0yaZemZvlrkgjvU7jwSJNuVGEhtWfRrP+eVNoKihwfH76rs+xWCorzQnDCycPxY6mvFrotOC1InpWAPxGXQxRoAYo1AsgtRpCHtVZnwwgKfSP7JV/PvYDOH5moAsMcHQ==",
+  "URL": "https://blogs.gnome.org/clutter/",
+  "LICENSE": "LGPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1583779060",
+  "PACKAGER": "Jan Alexander Steffens (heftig) <jan.steffens@gmail.com>",
+  "PROVIDES": [
+    "libclutter-1.0.so=0-64"
+  ],
+  "DEPENDS": [
+    "gtk3",
+    "cogl",
+    "libinput",
+    "libcogl.so=20-64",
+    "libcogl-pango.so=20-64",
+    "libcogl-path.so=20-64"
+  ]
+}

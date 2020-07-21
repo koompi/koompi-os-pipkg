@@ -1,0 +1,26 @@
+{
+  "FILENAME": "deepin-qt5platform-plugins-5.0.13-1-x86_64.pkg.tar.zst",
+  "NAME": "deepin-qt5platform-plugins",
+  "BASE": "deepin-qt5platform-plugins",
+  "VERSION": "5.0.13-1",
+  "DESC": "Qt platform plugins for DDE",
+  "CSIZE": "188970",
+  "ISIZE": "530424",
+  "MD5SUM": "1708f6a8b3c6e784beeb79b030066ae4",
+  "SHA256SUM": "c9a8786293090269dc097727300d7ab5fb3e1233877287ea0131872c1f7ae602",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl7zB6wACgkQeGxj8zDXy5Idyg/+MnPuu7+4q68DNFlHo1wFdrmXd3kjgOZjZJY4RHgucXXEXjntm1wFO/hE+jpsVlvald9m2emhfBDMfAXNxZaFgTd8Qx8n8OdusjBctXHJ5qVlGLbPEqI2y8U4+AfKg5jVIDOYDSCqyRxPPsWozgZ52hJuEYc9pvR0qpxAUf2j/mc7AKIhg1TKLL0DdTEqHc8PLmbi0dK4pI4Obw3LY8mmccWcxOvkeW7LdXBSQ+PCo+2iVSBoI2zRADvOnyMEY4QcYkBJMYJ40CKvQJv+/xXCD5A96ia820vVzPwc3ro6ue1p2KIDGQZSyUAVqVPeAKHBJshoCVh4Ob0tZE3O0S0i2RFmZil00Zt900dywwh9Gf3b9ark6BToXulPVp227cK2OlgK+i1Dv0N4KcN6bS7w9bt3NYm3zeuHyirsqs11oRMho1w4JhM27okRjo7GosQI95isw1E49QPsj1xgDNwwaTg/r8zoaf/ytzQsW/JIN49+GYm7nzhCyTlYN+3iRCictanjkFEcAZPQG0R4bbAVNIe5qqBAmXqdUHfZbxV0v3hScTnWCuzaKbBjkFBxbS5n5fjyQGqir4C8ZMNTb/jjSdurez4mjsTujZGp1WXnHYUaf3yhwloaEnsBfakzmIcEElJXWzdWI/7R8bzsnpnsGemgPBf+eEc6oDMAOxIwC/E=",
+  "URL": "https://github.com/linuxdeepin/qt5platform-plugins",
+  "LICENSE": "GPL3",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1592985426",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    "deepin-qt5dxcb-plugin"
+  ],
+  "DEPENDS": [
+    "cairo",
+    "kwayland",
+    "qt5-wayland",
+    "qt5-x11extras"
+  ]
+}

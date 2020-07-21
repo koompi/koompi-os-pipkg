@@ -1,0 +1,23 @@
+{
+  "FILENAME": "xf86-video-dummy-0.3.8-4-x86_64.pkg.tar.zst",
+  "NAME": "xf86-video-dummy",
+  "BASE": "xf86-video-dummy",
+  "VERSION": "0.3.8-4",
+  "DESC": "X.org dummy video driver",
+  "CSIZE": "9392",
+  "ISIZE": "23308",
+  "MD5SUM": "b05e8278f7c6a0ba69e0f73069565d4c",
+  "SHA256SUM": "8455158658b8bb1ee388c367ea59a214f60af15c516d225a4aa93b0c7eab963d",
+  "PGPSIG": "iQFIBAABCAAyFiEEZkWwqMcAXnjbHXhk+Z/+D+rpmb0FAl6zh6sUHGFsbGFuQGFyY2hsaW51eC5vcmcACgkQ+Z/+D+rpmb0z7ggAjOTvcBL0cGsfmaihmwnZ02fxOD1gVyXMg/KTWiOjYBL/e0UrUfJLaHhJlaLNKRMguIwjNdAG7CLfP+ptcQqi6xDLAc+LhnJh6nZ0qiZt6vOOtysmDtFFPRdxp5taiS/fYHsw/7lMk8kKm0GL/CaX0lrvu1/uq0HzTUYY0x9JhEG4Rtxh9GVyLRfU8H/yeY0AkX2s0N/CqR2Ge/yL1Ftpr+0pR1AqaehOnwF2eJJdbGHfaI3popsJoFUNsx+pYqQ2mDOAau8m7v/J6untnGBEx4ff5WC0NkMgUKNSQowLGJUAWiq8VT7F4UExc30WFD8CBRj3xdCOyzeTWayQmQQaJA==",
+  "URL": "https://xorg.freedesktop.org/",
+  "LICENSE": "custom",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1588823942",
+  "PACKAGER": "Allan McRae <allan@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "glibc"
+  ]
+}

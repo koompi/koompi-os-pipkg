@@ -1,0 +1,24 @@
+{
+  "FILENAME": "haskell-panic-0.4.0.1-13-x86_64.pkg.tar.zst",
+  "NAME": "haskell-panic",
+  "BASE": "haskell-panic",
+  "VERSION": "0.4.0.1-13",
+  "DESC": "A convenient way to panic",
+  "CSIZE": "18452",
+  "ISIZE": "58184",
+  "MD5SUM": "496fb16031227bbd44c180efeea25364",
+  "SHA256SUM": "15ea5dac4fec614c20bcc84758d7e445d469969624eab7db6bd11919eea595b7",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl6hnzwACgkQeGxj8zDXy5L3lw//boV8r1YM/wj9BQL0w5RIn/kz0gR/qfs5axlN3Oyzm/sgbuhf/MoVWrQwWssxWtaF93VzY8eDrLSLl0I26A2IbuF4GSAGmdGE9w5UREGtvXOb9KxK4C1W7dmzzIJ86fc9+2SJID+pH+7ywRqh/uCLXjFJd0MHwGyfPr/KctpgPvuGX5Dy9luZF1/jstW9/p8k8OFOTJhFPdzTNjiZaEcTDLunnLy0OxQaUgHtctFZ1B9sXQ7FNnNRB0wiJtOP5gVRlkfO9SIExOUlYL6LtU0PB1mixRAn6Z/sSeDsuBW667rXseydBtU3i9c/96yufECa+VNeD4VFDj4pDt42iUyOGzMpphPL2II7eOC3DYHW0J4bcmAo3CIoUT/bvEG3boDSjIsD9mBuewIHxCnVvrz4EG/LOyBjxcWpgd2rmzX/HYkHvDUjbXJpjmf4b93FvYqqROuoqEaLHEE0+7ABn3DcDVqgoTrpNZYubJV/cVKOsuSht3t671fCDlLGx6heLadfjVt0dfxqw2uzevLdAfFGvX6yYaEq8dMLzffNSyvNduv9hgYinpMT5xxkd8AHe5f2jXzLagjnYq3BC7axl8yTcc/QY2I72IH7MBWycWqrtNs95RidvAfkclrs0RFVvmMUpH/odsrL69C7QJTkNJ4MldOXIjalrtb2EEe+XvCLDDE=",
+  "URL": "https://github.com/yav/panic",
+  "LICENSE": "ISC",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1587650279",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "ghc-libs",
+    "haskell-gitrev"
+  ]
+}

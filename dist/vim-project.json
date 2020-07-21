@@ -1,0 +1,23 @@
+{
+  "FILENAME": "vim-project-1.4.1-10-any.pkg.tar.zst",
+  "NAME": "vim-project",
+  "BASE": "vim-project",
+  "VERSION": "1.4.1-10",
+  "DESC": "Organize and navigate projects of files (like an ide/buffer explorer)",
+  "CSIZE": "22000",
+  "ISIZE": "83957",
+  "MD5SUM": "124e9ebdc3df20f5bda80277a1d0f6ea",
+  "SHA256SUM": "54363087f095a16fa1e10b8f00dfa47b66f371a17cb9a11b0770c17f39333f0d",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl8Eu1MACgkQeGxj8zDXy5KV4RAAnbLi4IEj5eTkWWcMPHiD654j/JZYdaARQ128htHa67htd0LTR83XtX/EyDyGD38BTOTkmOnd/4DFTJMDFD7162/Ot5DOc5i6z/cls/n2gGlxDW65HWNjbuKZMJUIKC4V0OjCKKqHIVIlLISIfWpPK0vvL5WrApOYVDU9bDNT7nkDmK8FmstKRIhJLEVMkc+I2/UlVumgr8bQruLlN6ollZ4dkRu3o2caatydyKl6NoRqytu1uUodGuuJWhb9NzqPbxHSPHca9ikU2SCpHtW64t4MqfRAdOXt2yKPUxZabuD3XgXon3pT0jK78iEDp5gCufYwotSC86lSRkGOhuS+5xJgEAcOuRisxwJNbRIrZXxNHms+5WgHGtJf3YS9fW8VKE/qDJjK2NX31CXPVk4v+bBIxpB7YXBtqTHz6+BYbPPZ5nLK7pwWliEQQu5zoi9OdM93BudkkJhsGDpYoz8MChAGLqUMDjYgSXRPr6KyRyGnwUsgxxB16aFeU/AO/ksJDM/y+YKSCT0EHy2w2og4QHVRQiteFe0YJNvZZ6ppypbQgFLF8pl2HPYV6QwAZYmwbO5GDX5amFr0y17QwPPOxF8DhRp+FopM2In/8uNKmkWuCr1TpL1mrIGUcktjMMaag6UOayrImoVwEUInpFA3xvL1BpPvxT4Z5jgc6eclWgs=",
+  "URL": "http://www.vim.org/scripts/script.php?script_id=69",
+  "LICENSE": "custom",
+  "ARCH": "any",
+  "BUILDDATE": "1594145598",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "vim"
+  ]
+}

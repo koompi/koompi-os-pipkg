@@ -1,0 +1,26 @@
+{
+  "FILENAME": "mosquitto-1.6.10-1-x86_64.pkg.tar.zst",
+  "NAME": "mosquitto",
+  "BASE": "mosquitto",
+  "VERSION": "1.6.10-1",
+  "DESC": "An Open Source MQTT v3.1/v3.1.1 Broker",
+  "CSIZE": "258082",
+  "ISIZE": "804872",
+  "MD5SUM": "249f055affc0561538db4e733a4ffcbe",
+  "SHA256SUM": "5fc3ab118cd8088e36379de4ee4c037f04371a4941bec2f16ddb2d20d745bf0b",
+  "PGPSIG": "iQEzBAABCAAdFiEE5JnHn1PJalTlcv7hwGCGM3xQdz4FAl7bpVsACgkQwGCGM3xQdz5Gowf+M7BdXtMoX5wVppOcU12Z3bYHbzAhz8U1gbJqVBsia7UE4ddx9YGoBzTfi58pQpk+Xd8HxP6PbUclxQPJkB11wAZWFQ0c7lZZR/QumawSgq1bYVjrW1+LrfNcq/IUeNCk8ZmCdT6xQJ/oW3rKJFfX9HHoj47HZ8q/s1GxdjsysD5ntUw/IlFscubohUPVtL8HH6ypFhVHV7Yo1fXQQja1o2V76S+3O8WzZEmGBmbNWbFjfePexLBgca0mW5j/SkK1vbsCAMWJ09h3GkXBk+4qtMgmrvt3O68ojAxLJt7qkw0YPjmRYE2KZV6sd4e1tmEBio/P43jQZvPoRTxIz7nUdQ==",
+  "URL": "https://mosquitto.org/",
+  "LICENSE": "BSD",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1591452831",
+  "PACKAGER": "Jelle van der Waa <jelle@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "openssl",
+    "c-ares",
+    "libwebsockets",
+    "libutil-linux"
+  ]
+}

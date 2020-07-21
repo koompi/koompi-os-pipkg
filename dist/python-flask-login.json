@@ -1,0 +1,23 @@
+{
+  "FILENAME": "python-flask-login-0.5.0-1-any.pkg.tar.zst",
+  "NAME": "python-flask-login",
+  "BASE": "python-flask-login",
+  "VERSION": "0.5.0-1",
+  "DESC": "User session management for Flask.",
+  "CSIZE": "26407",
+  "ISIZE": "115418",
+  "MD5SUM": "0b358f70e8b38f38ab394f31fa3cd3f7",
+  "SHA256SUM": "34d1e57baa687b899e6fafaa5eab4a5daf567c9aa1d33e96e3db493d1ce5420d",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl5EL6AACgkQeGxj8zDXy5JDKRAAhMYmTz5qKaOdppaL18ZNCPxvv84SjYIvFCwzrTlql0AT7KO2qnM4w3juc0KUUb9VkBwz4luZNokNCvRDRfPLKXSlanAgIWI9SO6oK/ltN1AXjJudlVLS43F7cQv+hKo7HhQmuf4ITUop88x82nzoWsc3Z/wXAJTzzELPLTsry2dMYHww743m1hmexFLeQ9AzcIR/HE6BZ5UaSWi07Jf11rGY6oZlVQFn1Ujy2L4RgNlBe+EL+Tr+4TyTk79+Eq47RrDmKVyMrZmV3TPmRkwWEUPtC0N6GabCSImWNBtuvPeuL/bAQj6JWj0iV3i4OUguoPc1e3UhbrD1S3xw/tqXAQ2VeoX7OT61GWNHTpmBnvbyjrbOl0S7S0DKFNLhiyOozVTJVJzbKor74xhssV9exTHrSYDpBsylpD66h4b3cbuwuC+YmfTVxIBs3DykAvn8WwrZLUKZMuM0YY66lv7yL+gNRSIkDxt5iqU0h8yNkaf+M2eJf453lFfzxreGo568i2kKFEBvQTEFNyUccNufYoJK7yLHSykxAXeSUb/z2sbJ+bKwpl6U2IuQ7j8V52+ZoM/hNRdfmZB2sEXue95gFXC6pGDXXCMvwqNxKZ2ICVM0/Kqspns3+KCbKW8ku6iMLyBCnSAQgu8ScFH5DCqak2FAtIibHaemO391y2MCG0Y=",
+  "URL": "https://pythonhosted.org/Flask-Login/",
+  "LICENSE": "MIT",
+  "ARCH": "any",
+  "BUILDDATE": "1581526894",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "python-flask"
+  ]
+}

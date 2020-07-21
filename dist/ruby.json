@@ -1,0 +1,30 @@
+{
+  "FILENAME": "ruby-2.7.1-2-x86_64.pkg.tar.zst",
+  "NAME": "ruby",
+  "BASE": "ruby",
+  "VERSION": "2.7.1-2",
+  "DESC": "An object-oriented language for quick and easy programming",
+  "CSIZE": "3440578",
+  "ISIZE": "13943778",
+  "MD5SUM": "0f47d89d929806405bafbfc26c36cac3",
+  "SHA256SUM": "77baf61c62c5570b3a37cf0c3b16c5d9a97dde6fedd1a3528bf0cc5f96dd5e52",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl6N/Q8ACgkQeGxj8zDXy5KeoQ/+LOxPiSu4IW8m5tV0xq5JTbX+szSln5bXwUEc9UxGdwQ+C57LDOHp0f6x24kiLVJDkzy47NW5CD/mnlcqwtahZkNnsRgom0fQQAxrVTI1E1a5l2svRqvFTf2nUQgck/XgEEjOr2v9Uijg3NhyOWClxRh3aLKd3Xs+binq9d95Dp2aZ8JW6knLhND56+WxcJdfjB+rrZ5pssPJTDqHubF+BkVoJiH3dY7IVKwnogRjQVmyVqMc65j2Stip04GJ47CIUaWi/SEUfJFIYAkT9NFdloFew4gaJ5rv4Tmxl98aUjBj4SvZkqRcqQqZNkzt3tyhz2lM+APBxJCRnZt5KVILYbGNL4Y9RdJRSojPnqXKP+3NTM+6RtLtenV05r+DBIa07B7MJ4DNyGwd1WFErdmYTiFg5pk4wBKuiGi2YAwSJUE7HC9d41oAiEU726WifBK+qTOCojjUTrcTyyWKhBvDmOycXOMaQiSAUNZMbfYoX7HirJ+HnQ8fQwk4V+QOlkRqVlueKAqt+7ELZXtG2EMmPVMoos7OcroWnNPmQv08A9am8ooD0a/y2u6qZzO2WXRQtEXQ8EkienRqpr8tvdPWKKLbd9kOu6H60csw5k4N3Ie/eOwHC63zbfFcoCwFUKuIO8k713plnD11JE9DELsSxGaSNCpyWKzOUuAoKz8CoVI=",
+  "URL": "https://www.ruby-lang.org/en/",
+  "LICENSE": "BSD",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1586363280",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "gdbm",
+    "openssl",
+    "libffi",
+    "libyaml",
+    "gmp",
+    "zlib",
+    "rubygems",
+    "ruby-irb"
+  ]
+}

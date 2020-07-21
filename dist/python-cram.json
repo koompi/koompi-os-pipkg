@@ -1,0 +1,23 @@
+{
+  "FILENAME": "python-cram-0.7-7-any.pkg.tar.xz",
+  "NAME": "python-cram",
+  "BASE": "python-cram",
+  "VERSION": "0.7-7",
+  "DESC": "Functional tests for command line applications",
+  "CSIZE": "29304",
+  "ISIZE": "120904",
+  "MD5SUM": "239e4f5b7c3264bc237e29318a0b339a",
+  "SHA256SUM": "b707d4827a89296570bce5a4e4912d1cc6b4b0c51250a79eb4f99c3f0880040a",
+  "PGPSIG": "iQEzBAABCAAdFiEEhs/8qRjPOvRxR1iAUeixSKmZnDQFAl27Gf4ACgkQUeixSKmZnDS08Qf/b47qsuu4mxAapA7X4Lp21gtdNdODyohgnYmFiltuJY+Jl8yIONHwPEW7I/3w4d05ZRgm4gjTJPFIppndeuJoT2eIcHV8/0R1s+nlIJOXD35xdLQIgvY+jD0lIjNx0S185+DIN0AK+TuMUu/Fhnck/C7GchH+INsVJD2So+uInS6v1ZIUaMsR0fAL/fwQ7OzxUh93wk89PzVsuWQUC8VfTtYDktj1G0zt9nwyT0saX8oP7eKSMdrxP19dKy6yUZIwLzqtsWtkbWh1+aCYYR+YgEINVfpiuQ3LECPppQeCD+QrOXCwKCZ2/KzummrQTTszkRnZiCtWKERkdY04SCJDAA==",
+  "URL": "https://bitheap.org/cram/",
+  "LICENSE": "GPL",
+  "ARCH": "any",
+  "BUILDDATE": "1572542953",
+  "PACKAGER": "Evangelos Foutras <evangelos@foutrelis.com>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "python"
+  ]
+}

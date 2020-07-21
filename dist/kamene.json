@@ -1,0 +1,24 @@
+{
+  "FILENAME": "kamene-0.32-2-any.pkg.tar.xz",
+  "NAME": "kamene",
+  "BASE": "kamene",
+  "VERSION": "0.32-2",
+  "DESC": "Powerful interactive packet manipulation program (based on scapy) written in Python",
+  "CSIZE": "767184",
+  "ISIZE": "5352625",
+  "MD5SUM": "98dab858579fa1dbdc772afd1ed0c37e",
+  "SHA256SUM": "b1a32e6db505ac3894d2618b1c1db96f7ca81c00e8bf68d4fe39b25f987420a9",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl2/dA0ACgkQeGxj8zDXy5JMUQ//R058tMFnRLuUHv5sJOJxGCy88IF2wicGO8iBWjBM/to2mgAdgpdUwjSd1lZifU9pHp+OnBWLsGsD+q67scN3r6rnmsYkB5zf4s5pQ1uydLobUF0/YVXRQenofihnDSpHZxWscibOJMfanfWJgPbTszukMtN+sydpuG+ems+05vvsbZPZpmpbWMYi21vxV/LoZm3FUyCbAQH5+BAvPM4wi+9modjTz8iHYkKHVkaXDvutdxlTSE0/fP7U30geJXWdPG6SgFyaY7oFTyF/4cfbZqQeuYGKIKMY32FN9smekTpvm77HJkScwZrMI5fOT6bFZy71dbDAvKjZ5Iau2uKU18x+pnKiWrWErDNost6PFjRWReJoLclcNDuJVelKF5eHrPm28Z1+Wk46C8ALVYLDPiLNK8Ouc5/iOfycJqL4Ou5vcM9yaaF1mZhc8smIaBofZqOwG6iyGtPROxarznVY1rWkKgvcl7fqFPLxAqFk2i8mGUhyNy4iVMqpKghqknAHLVrQJOMcLT74NGJcIOwGjuSv3lo/kNDKk5+qFCTAkk8nahvAPoCCzxjbD0gZv44omDjDUQ5dbeJhtIoTq8S3pYgLaSMz+LeFMHdw4htklMhjKl224bS6qNiMcQuUc0FQGmTqrBbnE+Ns7QFYb4vBP+gFkRBIoez8LC9HkWXw7og=",
+  "URL": "https://github.com/phaethon/kamene",
+  "LICENSE": "GPL2",
+  "ARCH": "any",
+  "BUILDDATE": "1572828092",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "tcpdump",
+    "python"
+  ]
+}

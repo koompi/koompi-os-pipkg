@@ -1,0 +1,23 @@
+{
+  "FILENAME": "python-empy-3.3.4-3-any.pkg.tar.zst",
+  "NAME": "python-empy",
+  "BASE": "python-empy",
+  "VERSION": "3.3.4-3",
+  "DESC": "Powerful and robust templating system for Python",
+  "CSIZE": "65089",
+  "ISIZE": "330460",
+  "MD5SUM": "927c30b625b63139def2fe1571ce73fc",
+  "SHA256SUM": "9f109ca8727fa7a9ec84ec5ec53913498f3877275b5188df6d63af245b57dc9a",
+  "PGPSIG": "iQEzBAABCAAdFiEEzgvecadZqH8j8PfYth284QkBwWMFAl5mO6gACgkQth284QkBwWMNFgf/RBUjvOu/Cythm+1wXkeyqnw4sA4d3J3kwkwUYMZwpG2Fx8cKoX5lxWZfDUHvA+qdXpsWqcrxOPyCZBee/fHD4eBf8LO0e8roUYkunVuvz+McW4ABtG34Rk4X2kjPqjeugL0wY8Nn6GLZPmMjCfW68yvM7Hk1b9woab0BA5r4LiKX/RJyyYXpP7VmJn/zax63etAhGQ03dS2lxFwB6kq3DMTwQScMPdehQYC99ihPpJFoGv1omyxwbWVK4xP+GKLJBWgluje9m7OMp+E/wNBxHOSLZc7gh0T7fkTWoTY/Cmd3IrmOGbCHK1LiCRBBJdSd6IBq1N/iOgD1hRUyhBTxvQ==",
+  "URL": "http://www.alcyone.com/software/empy/",
+  "LICENSE": "LGPL",
+  "ARCH": "any",
+  "BUILDDATE": "1583758166",
+  "PACKAGER": "Balló György <ballogyor+arch@gmail.com>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "python"
+  ]
+}

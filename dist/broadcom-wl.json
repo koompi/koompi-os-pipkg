@@ -1,0 +1,23 @@
+{
+  "FILENAME": "broadcom-wl-6.30.223.271-211-x86_64.pkg.tar.zst",
+  "NAME": "broadcom-wl",
+  "BASE": "broadcom-wl",
+  "VERSION": "6.30.223.271-211",
+  "DESC": "Broadcom 802.11 Linux STA wireless driver",
+  "CSIZE": "1465936",
+  "ISIZE": "1470280",
+  "MD5SUM": "27acf31bb73165d0f8358cf06bb481a5",
+  "SHA256SUM": "d4fcad3db5d9c142860e9ffb3c75ae0f22b841da5bd199a1148f42230e5a74b3",
+  "PGPSIG": "iIsEABYIADMWIQQGaHodnU+rCLUP2Ss7lKgOUKR3xwUCXvzLWhUcaGVmdGlnQGFyY2hsaW51eC5vcmcACgkQO5SoDlCkd8fTkQEAptRSf5UGP+UL/gt0Uz+EZcCWmESZsEDsZCaW44BWKMcA/jrSg3N3R4Ijsw9v1uqhb3Hm4XiP6Gkpp+inYdH9O8gJ",
+  "URL": "https://www.broadcom.com/support/download-search/?pf=Wireless+LAN+Infrastructure",
+  "LICENSE": "custom",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1593617808",
+  "PACKAGER": "Jan Alexander Steffens (heftig) <heftig@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "linux"
+  ]
+}

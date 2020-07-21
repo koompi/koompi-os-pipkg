@@ -1,0 +1,25 @@
+{
+  "FILENAME": "ocaml-cairo-0.6.1-4-x86_64.pkg.tar.zst",
+  "NAME": "ocaml-cairo",
+  "BASE": "ocaml-cairo",
+  "VERSION": "0.6.1-4",
+  "DESC": "OCaml binding to Cairo, a 2D Vector Graphics Library",
+  "CSIZE": "361989",
+  "ISIZE": "1910216",
+  "MD5SUM": "6b508746042458150dad4e609f56849e",
+  "SHA256SUM": "a51a63a7928578bbe3c1b4441a2f527d3de700afca96396f83b33beeca7ddf17",
+  "PGPSIG": "iF0EABECAB0WIQQ1W9uX7Uck5rOkUOej2VYqWJh0qwUCXsLI7wAKCRCj2VYqWJh0q14lAJ9PudgIt3pdrrHqKif25zMIy2haGQCeI2LbGmqVwCRViGxujpUR3wbvKxk=",
+  "URL": "https://github.com/Chris00/ocaml-cairo",
+  "LICENSE": "LGPL3",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1589730352",
+  "PACKAGER": "Juergen Hoetzel <juergen@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "ocaml",
+    "cairo",
+    "lablgtk2"
+  ]
+}

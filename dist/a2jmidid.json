@@ -1,0 +1,24 @@
+{
+  "FILENAME": "a2jmidid-9-2-x86_64.pkg.tar.zst",
+  "NAME": "a2jmidid",
+  "BASE": "a2jmidid",
+  "VERSION": "9-2",
+  "DESC": "A daemon for exposing legacy ALSA sequencer applications in JACK MIDI system.",
+  "CSIZE": "32242",
+  "ISIZE": "101688",
+  "MD5SUM": "5617778e53bbaa89b54a4b36e1d23427",
+  "SHA256SUM": "e92fe9b98d1f3d95ac42f1c01f0db12fa8f7bdddbfd828fa193cd69510a887c6",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl8EbikACgkQeGxj8zDXy5KPgxAAtrj9KnJvwHxFjYGvzizV0VVaLgZ0F3N36gD4vhcXT5raRLVOeFFH+uvH0RSkQmmhCPrKBeecSMSKNTmnsNR9yLflBvxCdIT11jOZma/S3NaKA+LhkFJtwxcuXGUFvPw/TeHwde4RE5lnCHIVjbFizUX8qKILsw6OKtILTM6Wgi2UE5s5qkoG5dMhZU61tPzL1PUrVNCz5MXutF/ua3/4JQ2sUeco9AIgPJqzmoW5Okzwu88elUsHBEAjf8P8KPXG9eISvZ9Pb4g5i8okeSQ/59/Rhn0rw06jG178CJ9sFllLUkTVimTHw+Sc7EGYFcflV11FFPiiDa8kGUl3hSKszzTvBVkk3OFrBKwSDN9jA6EAlVgOV4OUPzSN2WcAh4gLFfG1OnA5HlgkxwkZk3gG5SFZ2Hi7mAK/Y5FsijNaixn1TxiPPflY7PxfSPuOj5nxTrG6KwaNGXkpZsFclGzWOv1F0oF90pJaSuhc6glVjGhre8ajwBNUI55cLb42MczqLqjP+uPTRg+hSaXTKwICtjJgyXKm9ems/tTnNoy4lIEqKdTPq07ee91/Dpc30gTJwLy+9d/bNsL446C3YLcTSOTgrYHRVEgFth/QVKuz+HGE2as6BBWhsumbKDMNTnZFMm9tv9kUNYKCl54OFK2yd/gz1EuStz7cQGMmvVlzs9w=",
+  "URL": "https://github.com/linuxaudio/a2jmidid",
+  "LICENSE": "GPL2",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1594125845",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "jack",
+    "dbus"
+  ]
+}

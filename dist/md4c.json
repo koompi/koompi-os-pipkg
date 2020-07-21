@@ -1,0 +1,23 @@
+{
+  "FILENAME": "md4c-0.4.4-1-x86_64.pkg.tar.zst",
+  "NAME": "md4c",
+  "BASE": "md4c",
+  "VERSION": "0.4.4-1",
+  "DESC": "C Markdown parser",
+  "CSIZE": "83020",
+  "ISIZE": "255513",
+  "MD5SUM": "503a1b3cecb9ecc879e6fd1ca2c49a7c",
+  "SHA256SUM": "3918b6343ddcb36159885c852f5fec64712445c53468b6a35aa68a98643547e4",
+  "PGPSIG": "iQEzBAABCAAdFiEEFRnVq6Zb9vwrc8dWek52CV2KUuQFAl7ROmIACgkQek52CV2KUuR73QgAj5sGHAWq6zfhKzUu0AeII7ci4kwSKP50SuCdOWTGs9Nhbj7/BXg+5lOXiHo2EMWfGonXKx7W1mi2QS+3Cf10Pj4WeUMUkQTuFnNXbZpHRY9l1k2h1gF2xuPUkz37GbJObqNG2pFH0Z9qIzLOQbKLTACv8t26QVFDK1ASgHkPvtv+LDCqWqrzw6ukeFO5Z/x2UKCIauZL8Ee38P/yUhiZjJRGDgBFHL8l1ojjcXYg7LGfLktRH7VX4ULVxZ6kUKRGcPtDAF0hA5F8ITYepYVvC998aG9ttMu6m2djdn2r++/5JOfTP2xMNc3qHRuktXc1IF7iilRrZMCWpRmwcyhwfg==",
+  "URL": "https://github.com/mity/md4c",
+  "LICENSE": "MIT",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1590770125",
+  "PACKAGER": "Antonio Rojas <arojas@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "glibc"
+  ]
+}

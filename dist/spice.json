@@ -1,0 +1,28 @@
+{
+  "FILENAME": "spice-0.14.3-2-x86_64.pkg.tar.zst",
+  "NAME": "spice",
+  "BASE": "spice",
+  "VERSION": "0.14.3-2",
+  "DESC": "SPICE server",
+  "CSIZE": "354979",
+  "ISIZE": "1194650",
+  "MD5SUM": "51e64baf86c737faa69a99acff227b80",
+  "SHA256SUM": "8abb1763543e9069eb4400fc5ca8bfd471deb5bf98aedad8e6dc17e680dfe9bb",
+  "PGPSIG": "iQIzBAABCAAdFiEEjhmSFnRl21+wRVV8sChU7XU+Dx8FAl6tyAkACgkQsChU7XU+Dx+EzA//e6yWgYTNB+iOnEGyVbR5qRTYFSLThH0xxIyvclDB+fQZbY9hHlCRxcCFuv1qrL9SYWp+jjaoh/vLzFP7FEmWS8a+rMKlNVIFeBJVqeviiUSE9ItdOZ1oPZPfzSdOZk4w/JbyhZnecArU+ZsXgMGtNCOrqWAJPPCtwIRj4uAitKp8lzhUv6r1xBq3y0re/3UUcxJSKu7Y6woV02429e+xLFpoBeoS+6Oy5bor//fMXzs3bALoUw4lsWjiaSpVqZl0zYKPfnGq+BQfofk2beb+z7yDD0BfDl2gUOHBr9p83F9GGoLnfK3euMIYJNB/S3LuJ8XloxvZa/vDsIwC/XsdEm1hj3gYHYdLt6fqEIuFxh2KS+h6LdJHFvkO75adGf/MmPV+42jLGi8YmCW996z7XuhUEE+Svw7ce8yqHoEz0FlOo5+MyKcx7wpZBKeeKVrg9jTLdCMTGU5yMnE+FajnZs3novB7QU01aNzW0LwkVjGmUBdqCOVrlLcvPF3zNFTBgFV3KhRnw4yoqi9UUk2MrWpjlWBQ5qhqLHTZ3AglmCOvSExjn5U9k03m72qzfKDvGgmAhZepAxn70XbYhuoNiDsCnV2vTktxRoEUt0JDndQ8BKv725RZDgdSpF7srKrTbEfhy1eirO9fYwlnHeQvSUtuNoF9HgjF2jx7u3Ao3tU=",
+  "URL": "https://www.spice-space.org",
+  "LICENSE": "LGPL2.1",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1588447102",
+  "PACKAGER": "Anatol Pomozov <anatol.pomozov@gmail.com>",
+  "PROVIDES": [
+    "libspice-server.so=1-64"
+  ],
+  "DEPENDS": [
+    "pixman",
+    "opus",
+    "libjpeg-turbo",
+    "glib2",
+    "libsasl",
+    "lz4"
+  ]
+}

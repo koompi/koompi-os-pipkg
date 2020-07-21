@@ -1,0 +1,25 @@
+{
+  "FILENAME": "haskell-gnutls-0.2-18-x86_64.pkg.tar.zst",
+  "NAME": "haskell-gnutls",
+  "BASE": "haskell-gnutls",
+  "VERSION": "0.2-18",
+  "DESC": "Bindings for GNU libgnutls",
+  "CSIZE": "78372",
+  "ISIZE": "424945",
+  "MD5SUM": "52002691bd789da72a29164ba14e4dbc",
+  "SHA256SUM": "13cc26a635b722a244415913c72195ee6b067fd6df5aae3c9465a4210a33e24c",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl6hh78ACgkQeGxj8zDXy5L8ig//YANeL9X5P5UfPgJ487pj0+GS/+UIJ7cF0+wJzUTBKf2mvzito8Q4M955yPREahtaixNux62sXXyTVq9umrRaTgS6+12dowunLq+Tf5Rt9ZjxQPm2ZtPgvpL/Hp25Vra2Xsnu+6+VbNnPgd2BtDtw8ZOmXVap4h4qNApJrHB1icV57OZ3lW04MGBgiX16zOlh6y5UNSPzvXI+/U1h/CZZb+OWwOP8qYhr/Mfy5W8L1enLhIS+RQplirHJ6oC0oWr0jkke3QwjdctO8QZsvlZBtk+O8/nNLWxcHIIPrGpUMhMtN0X5XUslE0g+OXCq8/bllitkTll9BLz899Oq45ovZ+yuejiXyyI/yAaiFlwp/lXjiBHsR+E9OHeTufnIg3XlCOSHHuGhI/bCJeCO73cNCIgZhp/m3BA6k7zlXkFzRFLV5UKLfvTuwaUZFG0gIkmLoeHaUsJlw9kYJEJdPzgOJZincg6ZT8HcDvWed70/cO8tQGuUG3VAU/Tu+s+aDRs06D5dUcBnL9nda9NcR4YxNT0L9vZRM97JAda5JGpANsJfkhaXM4idclftz0TVfMOwc+9kZlppTLIyZstooGumguCG4tJJOUF7KSPO+/BPX9UEGIE1njYdeEkTgJBS6AoyAjnZbzMpj2V81O7XKqu0fgnStDZpmq3E4quG5+Gr6Ho=",
+  "URL": "https://john-millikin.com/software/haskell-gnutls/",
+  "LICENSE": "GPL3",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1587644264",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "ghc-libs",
+    "gnutls",
+    "haskell-monads-tf"
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "FILENAME": "vimiv-0.9.1-3-x86_64.pkg.tar.xz",
+  "NAME": "vimiv",
+  "BASE": "vimiv",
+  "VERSION": "0.9.1-3",
+  "DESC": "Image viewer with vim-like keybindings",
+  "CSIZE": "175252",
+  "ISIZE": "516465",
+  "MD5SUM": "9bd4bf230a65a8ea9ace1070e5a0cd85",
+  "SHA256SUM": "f9ed1cbd3e9bd5dc54c08da47c2a3b80a0c851eedca45fff582b1446f3950648",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl2/6sUACgkQeGxj8zDXy5LqpRAAlPxhyeswQyUnZl1nc0k7bjyPZitcsrXv2/Qv73zE6o02RNPmAnztYf7KHjIp7NSdeFkx/aeeSYYYC7EDRQvi+SbayKAPTqXnzeZbKJCnC5ycZ2BtfCXmAlHtDO0jflo7eV7v+2XbzrYdZxuaiSUv+jl8+llb04k98iDL5y9ILSaXAv83WzOvvBnMP6Os/BefuZ8SGdu9PFNVet2TJsQmFVdSkZMcnPZRVt6OomVw/6Z1qxA8CCjSrF5z5BMXZhXnj5IkXkTdwIZVRiFcqJzAb8Cnq6xubQqpobc0ofQhNQbsFZZlel6+/aIkWcxs0jl6mXOEsn43T2Fqkr3rxbdxjYZGmDlHbc67Jv6YVfvgwLn/xaEkzlfodzQ4bkzMlpJBlm5PBl6w2/3JKNwS6nCrX8H7eSCkWvlihCypmcDRdEC/p0Vkv0xjc+g29Uwqa2CbL+QlayYxLZjAJ0m94nvIt45UPv1tI9khsXVuMT6ZCPj8Wh9rmpjYXPAe4TpNR5RzsWX6afrjZ2sPSWRwQNWB4jBsH5Qd5/jQzT8Qjabj2Gb+N16Iq33zPrexP53tagFzboa109RuFvERBAtEQq9Y3K865ju/IFHoGkPkugPPjNHPrpAXRqdX7LWPL+O1aSXY1AQFNU15US9IPRZ0sZJgNtRfB3WVLJuo3FFE2doqRUs=",
+  "URL": "https://github.com/karlch/vimiv",
+  "LICENSE": "MIT",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1572858521",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "python",
+    "python-gobject",
+    "gtk3",
+    "python-pillow",
+    "glibc"
+  ]
+}

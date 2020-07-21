@@ -1,0 +1,23 @@
+{
+  "FILENAME": "python-couchdb-1.2-3-any.pkg.tar.xz",
+  "NAME": "python-couchdb",
+  "BASE": "python-couchdb",
+  "VERSION": "1.2-3",
+  "DESC": "Python library for working with CouchDB",
+  "CSIZE": "112640",
+  "ISIZE": "703154",
+  "MD5SUM": "f5b2db9d7db6f980e5677ad5d85715ab",
+  "SHA256SUM": "fae48e56fe1394dc8d2aaafd5aab2f2f722b7a95ee9c6c3f7b7cbf3b1476ff7a",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl2/hlMACgkQeGxj8zDXy5KFxBAAr8xJo1+V6e1SV09AzdCdLOE77iWzQxYKV8Sy0zsNAmEbWZ76QNIpgvmwOTQ9OxB6/Rh+le2bZMXsG5fEHSosxdqsRn609+DPJPwqKOBj8ozwWKYr7FW6UcXgUYxqcMU6Bm63zosBaZ8xiJ4kYVVhNaKKMST0p8tbMNMDDgx6UURq+WNUDpxsQmhrLRNzwO2gmLCB1tnZhobYCOqwgRQ0QeDp6LgCJD8bweOxQg5Lc37bMasjekNPiFHmxNU+6OlqaKrR0oLQYWXwPnyzrBG/e7uJc01z7duy0oVm5muUaIr6NE9dzYyGss4RDE7xzCGfxnxRqoUdZXcW8hhkcP+Drvk2ZekQ8ePOqzssPVqz/vw2qIKbxEb/pQYH/2w161G4bKdMvYvQyqqGQUCiDwA3Vx0XAoX5muXIybr+1dMe77YpmYdUPCAeom6/9kc8+F3gAW7Y9Wfxb02D1dGut3jSMnunILb7S7xVC6xKP2wZeEh3rUiqN1jofqSjpfooc3pXnU13wZFHqXeEODBAYjmlTGDsh99zMFtD6Y4Rkp3kFEvJR1FFUSqt3GGPt8y4l2SqfKLy1gMAXavWpULKGYoO9YZh7IuK7x2F/1FdDPtdJNb6HGIOWS4jdUbjLwmqN3CKppCZULYaIxf4cR/jfgt+nTQ124co7qVEAHzO2AOoVxU=",
+  "URL": "https://github.com/djc/couchdb-python/",
+  "LICENSE": "BSD",
+  "ARCH": "any",
+  "BUILDDATE": "1572832809",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "python-setuptools"
+  ]
+}

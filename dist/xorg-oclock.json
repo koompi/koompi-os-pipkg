@@ -1,0 +1,26 @@
+{
+  "FILENAME": "xorg-oclock-1.0.4-2-x86_64.pkg.tar.zst",
+  "NAME": "xorg-oclock",
+  "BASE": "xorg-oclock",
+  "VERSION": "1.0.4-2",
+  "DESC": "Round X clock",
+  "CSIZE": "12574",
+  "ISIZE": "31893",
+  "MD5SUM": "130f7f5dcd78f909da92267e391e9a93",
+  "SHA256SUM": "6225eb04ed9309e5f651f76f07502b00e319a2860bafef94e4ed3f321daa0108",
+  "PGPSIG": "iQFIBAABCAAyFiEEZkWwqMcAXnjbHXhk+Z/+D+rpmb0FAl6ze88UHGFsbGFuQGFyY2hsaW51eC5vcmcACgkQ+Z/+D+rpmb3dKwf8DVoTTGBcbnHnqTMLp9AtIHDMQOzj8TrZoIfRUWz+zT9f5v3GrYy0Ly9Ab33igchY68efqMMDW9VmiJiPukemIZfmGCl3GgfMg3fnQBx6PcA8MlvxWz3qepf8HT7Y9puKNrLU+iNn8+WTFsKrazro22Xbwu0YzV0T46KLSwatJm3dDug8n119MtJ82nIp6he1sSP41KNmvdr0YUOtFq5vSc45YE6GDQ1vhjOrUhBa0hhy8GE1nvghFBWYbO3lDfY20edqh6qmv8hNP0oAPMcvb7imRrXIu8OPzFrSep+GvX3DKHhn2azh3rsHtCjCmwq6OvgsIApaBJps4a/JrnDYJQ==",
+  "URL": "https://xorg.freedesktop.org/",
+  "LICENSE": "custom",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1588820914",
+  "PACKAGER": "Allan McRae <allan@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "libx11",
+    "libxmu",
+    "libxext",
+    "libxkbfile"
+  ]
+}

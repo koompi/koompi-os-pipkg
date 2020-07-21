@@ -1,0 +1,23 @@
+{
+  "FILENAME": "net-tools-1.60.20181103git-2-x86_64.pkg.tar.xz",
+  "NAME": "net-tools",
+  "BASE": "net-tools",
+  "VERSION": "1.60.20181103git-2",
+  "DESC": "Configuration tools for Linux networking",
+  "CSIZE": "132040",
+  "ISIZE": "558305",
+  "MD5SUM": "d66eb60d62c92691443e0a7b921b2b96",
+  "SHA256SUM": "ca5aca33e5a669fbd7542e59d7c1269a12df1ee7e98b1cae7bc83f8b9c847d78",
+  "PGPSIG": "iQEzBAABCAAdFiEEhs/8qRjPOvRxR1iAUeixSKmZnDQFAl3MO7sACgkQUeixSKmZnDSsogf/bhuYAAmeLSODtvtWJrRpI8gnKrj9sYJNESZ5TfqQi/3TX57Fo+rnfoY7wEvDxz7Zgb3Zr6bLV7OHLgN+8ljpLti+cq73L+EowFeuxNS9bmg3X0lmFyOGIX/Xbq1RIOuQGKoeNRveGuO0yctmpTVwWHlvo4xz9J65xT0XlbFfR1FZgy+sIlOysG8bH3OvOsxQZ9tAO9S0VWRa6Zu/Ik/3+YQsKusEMPxhk2Wx4/TsHDhA79e28n64nYTDKU2uXiDX7K3LOhHt9SRNdfAy8gJT2jPbe/i79iAWLDYB924Kt7n8OJaxGyFDkYZjJWm9ncbVb/wUtrv6JfWAqGlMNat1Cg==",
+  "URL": "http://net-tools.sourceforge.net/",
+  "LICENSE": "GPL2",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1573665694",
+  "PACKAGER": "Evangelos Foutras <evangelos@foutrelis.com>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "glibc"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "FILENAME": "6tunnel-0.13-1-x86_64.pkg.tar.xz",
+  "NAME": "6tunnel",
+  "BASE": "6tunnel",
+  "VERSION": "0.13-1",
+  "DESC": "Tunnels IPv6 connections for IPv4-only applications",
+  "CSIZE": "11944",
+  "ISIZE": "32222",
+  "MD5SUM": "91a38e90d31eda449a3c1089ae57bc5a",
+  "SHA256SUM": "19d6e99928b9882aa85792388fbbef2b6efb97154811d0e4e5efd370c48cd2e3",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl4D9CsACgkQeGxj8zDXy5L/Ng/9GKsyFSSebt7RNPkcB9zVaXs6lx2MQWCqZdryoEGQsFi81m0XxqsJX7GPTJOCpauWFTHpdgC93MYka3lq1GjTMQC8lIxVk4AAajeX6CK8M8pC2k0z2rHHCevddREqop/qnNRAb0PHsVQsKqXb0BeAe7z6kMG+DrJrrKv3Oh7NrLTARxUkI/Vuqx5RahuuKNtqWHN78V/OqGIo5b0ZC7KCzM6U8zDXqn3K9yWZM2bqXAnNX2Cj0eIfZvTblFM+1HDUWIavzUX5GOSSbstz1zW0p8o+BbDqZ2Kxt47dO87eYNU3UmNKtIQSkiJmtEaW5IYEP+wRoPwu7VQR5HDP1b/6QpukXxK9J+smEVtZbCD2GMm3lXcQlDEURObA3AV8qNaAjfG0RqKaXICcy+TOWAxh3V9z8wu7VCD/NZg+CL181UwQPvR8rUB/8OqD2IH9mM1acZzXuVTIB1sgTTBr1LWcJQX35Q8TyuAYb+hNgcso4AWY5GTLZ//L0Rw0iS0zoVpTa0IwVprag+OtTtsekWHUj4FdfR6b3CWROU/StMMi8agwj+k31eDAd2VKL/N9lg5YYkUU/hA7rY2PU0LEUswadeVVhjA7VEDxQr1OW58ijz37j0AWpbZU8zgciLW5r34ACARYEgZUDjHHUjiqImZXcy+LobJdezFRZFP9rDtOPDk=",
+  "URL": "https://github.com/wojtekka/6tunnel",
+  "LICENSE": "GPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1577317381",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    ""
+  ]
+}

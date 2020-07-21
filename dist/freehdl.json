@@ -1,0 +1,23 @@
+{
+  "FILENAME": "freehdl-0.0.8-10-x86_64.pkg.tar.zst",
+  "NAME": "freehdl",
+  "BASE": "freehdl",
+  "VERSION": "0.0.8-10",
+  "DESC": "An open-source (C++ generating) VHDL simulator",
+  "CSIZE": "1139144",
+  "ISIZE": "4767274",
+  "MD5SUM": "1a43a93890171ae83b77f1ac48200fcd",
+  "SHA256SUM": "5daa0c98a360d08eb45a6d98b3401257766b9e273b9b3da9669ce69b44047ddb",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl8EqzQACgkQeGxj8zDXy5It6BAApYxNfRa87lYqnJ4vpe+UPvUK6d5oHd7o6ZTlnLZk+qNzKZovKeMNs1PJCTrHo9UH8/DxzCl9CX35lyPsr6D3P/0+Nrwb1UBC2QaEj4NLVnLxBR/Rkg/JXP+H8gc4+hP8hjtv/MRODByiUMvL2BO/t4mTDcd3MMU+kvFu6sYLLMlo7hiEtn0gx4IhDPL8BNW1pCW5IlP9GxsYZflw8gO77JNGpeB7vf3AqyZjAHMju0FfZLZHc/uz0bLPiBRN7Ab7wfnQABZqVxv21aAjVBhUKb+fJ8HYcxlXmSALRDi/B1Bfq+ZljTOrajoUgw0qYhk7MLEtZZ+Vn1r91kCFk0habKIGp6vX1fw3pEwHPGGMDRlSogSgLO0vNTV7iN8ykbeNbv/ipdXqJFxDHhsdng/OIIJ/+rafEei3/M8FXJCpehUZMZZWDmNVQC6k0tnzt1IMNgNYbiulcQhy4FKVBKQhlF/yKGlKQFUZeh22Wuk3UbwNqU7jLDx8nZdH+PHdGsR2rx6KuBg7uPhD+kLU4v6MnHKi6I62+GBmAyH6RzGjYfgv/AVQNbDbHni+M0om5nH4TOG/v73aFzV2dulywDaBi5SG6j5JVoGxYqTcIyA8T1PfMVEB5hz8pHfE6V/g2rgahEmH3leOSw+Ck2YqjsoC3X4U1LVq3nK54R2t+6BgpiI=",
+  "URL": "http://freehdl.seul.org",
+  "LICENSE": "GPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1594141269",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "perl"
+  ]
+}

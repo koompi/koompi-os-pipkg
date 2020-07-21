@@ -1,0 +1,34 @@
+{
+  "FILENAME": "haskell-skylighting-core-0.8.5-8-x86_64.pkg.tar.zst",
+  "NAME": "haskell-skylighting-core",
+  "BASE": "haskell-skylighting-core",
+  "VERSION": "0.8.5-8",
+  "DESC": "Syntax highlighting library",
+  "CSIZE": "669133",
+  "ISIZE": "5346460",
+  "MD5SUM": "048be8de4144490e964ffe60123a1f9a",
+  "SHA256SUM": "bb9197864165033ff329b5b785aacc6242c8ec60bbd6f695c861565cd334b9a1",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl752l0ACgkQeGxj8zDXy5IlPA/7BontEALDJgX7Xbup/n4D5b3zeNx08Ys2tIwPNm6dELWEWag3T3hWDFH0Qiyc2OfzlOq/TMkFSFJdGRCGzhAJsP4EAhFdQwFlO0hGzxe31m1aaqf/NOddP8IufY5CuSIXlxcIWgrWAKNOVM5yw+vReA851D4si3i3Ru6e0/VatFhy+ayVQPlsGNR7RhNWfSHwSI9QJFYpdV0H586dZdA5cAfKBtOZmThVEdESKdbsuIeMoHboN+TaAlmPGVQMfP+KGZErGLmvTq9aZkXKg5Mw3wqAuV8DEsCo9sqfWSFQuSxRWaPRPsRA84lMEi5Vl014MWaA5OClo2Q0WLHIEuIKDMqDNOCAGS7uqvurUoU6HJ91C1ABNPFWprGvWEanox2kLQ9In4GJS39A2DhtUTEEhBCgjKD6ilosWg9372i7Xmcl33W0vz0Pw3eDK63X2nyJVMOnEapU4qZnwBGNRUVcMUpNcE6nUl+1pkzlO+GAlYsD1MSOiF1WK/kFnJeElkNiQ1eoI9hHZPUXFYX2PVHPzsiNHVs25s+PPBqrmxgDg7JAHQGahjQafXy8TkCRr1GR03Pxy+rX09YP5+J/pffuNh/jQeXmxNXFI4ftCN8uBvcaByZqP5OYrX/Jx5/mGEpQLn0MWplxlflwhsMKJGu391hxIArL1fj9LGo3R4F8lBw=",
+  "URL": "https://github.com/jgm/skylighting",
+  "LICENSE": "BSD",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1593432602",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "ghc-libs",
+    "haskell-aeson",
+    "haskell-ansi-terminal",
+    "haskell-attoparsec",
+    "haskell-base64-bytestring",
+    "haskell-blaze-html",
+    "haskell-case-insensitive",
+    "haskell-colour",
+    "haskell-hxt",
+    "haskell-regex-pcre",
+    "haskell-safe",
+    "haskell-utf8-string"
+  ]
+}

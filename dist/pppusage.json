@@ -1,0 +1,25 @@
+{
+  "FILENAME": "pppusage-0.2.5-11-any.pkg.tar.zst",
+  "NAME": "pppusage",
+  "BASE": "pppusage",
+  "VERSION": "0.2.5-11",
+  "DESC": "Utility to monitor pppd connections",
+  "CSIZE": "16760",
+  "ISIZE": "31409",
+  "MD5SUM": "3c337946038e73adf80e813db97d4e12",
+  "SHA256SUM": "fe85bae9ae8c5875193398dafc8b6de03db0931dfa26433637522804b7a28ebf",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl7vhccACgkQeGxj8zDXy5KGLg/+LmhoRI4raDN17PkQvIowW4R+52bgnarBweKovWBzopMSvdkMW3oXpwBx9FynvCsv3Ahru676ofWM/2MXd041++BJ9nu183k83DMF4boJ1ItH97gfvTTOuL3jWZ1HhKOxe6HFi5i4/ujuRjzR5n2bcmAqdBFPMAwUptYKSExTjIuRX3rpzv7S7aJ3jWQmWyvRUyMSjaOuZ9v9cSZ9IIGA9a8rYykqw+D7Eb5qSydlP7/562PaA1mk2VubCYPduGT+yp4UekrxVcWL53HPRrPy5lCe68PVVQGPR7+K3z0wtneB8YvngtTjSCLqqwmS4B7dCYBByJaq+Ei08h+SAw4weYr0ddHCR15cgJO426y2GoVrBEnOUZ6ok1dIioLjjtD5VLzx2Lpv7fgQJNe/U4vyI1kyLcY9hFsh6VHKlz4a9BToL4pEqPwgN+x4PCT1Q6DdK7LavVPn3m65Q5Oj+MJcBY0KkXZC1tosbcUrgWzz0suAFXYDH8gQE6Jw+YTyVQYYKxcaRWNS8oCB94NmNGoqiPKcyRJs1sjZBtXS6hkGgiuQq1RuenKzXpyFPRXc0C3rPUfLAgky8bZpqFokBnmiU68NCaqFMi8O845eSM966cpHuiD3YhGi7X7RgRCBhMtkuj6UkFAlF8XGryHCv8+2goIbfA/RoU3DfcJl4wFoeHc=",
+  "URL": "https://www.jhweiss.de/software/pppusage.html",
+  "LICENSE": "GPL",
+  "ARCH": "any",
+  "BUILDDATE": "1592755634",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "perl",
+    "ppp",
+    "cron"
+  ]
+}

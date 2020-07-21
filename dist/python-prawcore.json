@@ -1,0 +1,23 @@
+{
+  "FILENAME": "python-prawcore-1.4.0-1-any.pkg.tar.zst",
+  "NAME": "python-prawcore",
+  "BASE": "python-prawcore",
+  "VERSION": "1.4.0-1",
+  "DESC": "Low-level communication layer for PRAW 4+.",
+  "CSIZE": "26485",
+  "ISIZE": "116077",
+  "MD5SUM": "24d74ceead82df30f75f2a2ffe749cef",
+  "SHA256SUM": "feae4159eb9db9916ac6adc7f697847edcc2afd03ce1b54e04dd0a329bed5eb7",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl7RAHAACgkQeGxj8zDXy5JECQ/+KDBW5PcG3UuPwchZwweLUyno+ubfHaoXtgmzqrlVSehUuHlzx3kVZpfOGrDEMNQaL2hjMFzw8BLroksdMQN7OK3DsXOgbg4uOj0n37H7XwuF7i9IzvIcRePHkQdHw71OUbjC0+lk0qXVtiwycxKKexWwOu9gDv58OpwBPR4FvkIk0guFuMsqTHcN0RK+AhdvwAfvvtRWxO/yAKnYxN3Uw2c5YP2tV6fh9BkiUqy/L4xyTZwbPL88AF6m2mdSWc13xEA9R/fxS8vMBY1QaeXCmzrk5dN3UIxPjhVepN8fUStEvshEGpaczUam+Z7edUh5b0I6aWyOgtc1J0tTIztA+N4x3Y0FhI1FdEXzuJVT67m3cGVoHEGbOcHj2Rjo8Ugr1Ztuuuukfutf++uK+82NpBJNZv6mxyHGCn/nQDXWASZ04NO2eniG5bHzNKtNUjhzgklGnKNtWNBy47o/hRp+IuFSwMv0wjFRE+FtZTeq+vKTGkjRTDc759OFRPvb7nUuSD+Vegit3rYLuvfkq14tqvbGT8t9VkSmCyy0xptTdRD99Dp+Id9o+fDMgm9SahAR5NhVVINgSRPMC5Ui3kXtFxA+MnYXq7O7eRlE0D9F3VidmEDuuBGS2sGsaRuSVof4Vx2Vn5XitUDf4hkaQ2ZMoXqlFQyk5l4EsfSJ4kIc9JY=",
+  "URL": "https://github.com/praw-dev/prawcore",
+  "LICENSE": "BSD",
+  "ARCH": "any",
+  "BUILDDATE": "1590755414",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "python-requests"
+  ]
+}

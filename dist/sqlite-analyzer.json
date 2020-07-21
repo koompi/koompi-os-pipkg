@@ -1,0 +1,24 @@
+{
+  "FILENAME": "sqlite-analyzer-3.32.3-1-x86_64.pkg.tar.zst",
+  "NAME": "sqlite-analyzer",
+  "BASE": "sqlite",
+  "VERSION": "3.32.3-1",
+  "DESC": "An analysis program for sqlite3 database files",
+  "CSIZE": "618504",
+  "ISIZE": "1306600",
+  "MD5SUM": "b28a7bb4c09064cf1cbe778874baf89c",
+  "SHA256SUM": "7955120648ae225d41c4f428e57dee28abb132e798693ef6616007489b39d54d",
+  "PGPSIG": "iQEzBAABCAAdFiEErcih/MFeAdRTEEGelGV6sg8qCSsFAl7rvUwACgkQlGV6sg8qCStZ3ggAk3sGUfQJBYrJp9HJf4JFHtG+Ku0y6zuArr3SyVhM6W7do6GiYxnEZ/rkaj4keTFE9vFLn3PieuOyadAMC1E0PlqRReQ6Hh1VZw7EK5Rstb8fdIhKSjxFO+Y2iuBjWsmA+Sd8E8cAgBKiUreMFjA5j4mC48XfEvhda1tyhhXZp+DG2GYUEU6E/d37a2cuoj8MxiN1O6nUEQC/i4quxINj55o7xLbdkvirfOuToBQC0Wzad/r14NZdbxFbIsn+cHWZM2kXDzfs8ZnbmByDcTMG0LABiJgaGR/PP+gwfS+bgSlcA4M4er3Sr7saz2RaEsAvRNT4qpYpd6rCjyvNBNjjVg==",
+  "URL": "https://www.sqlite.org/",
+  "LICENSE": "custom:Public Domain",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1592507408",
+  "PACKAGER": "Andreas Radke <andyrtr@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "sqlite",
+    "tcl"
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "FILENAME": "libgxps-0.3.1-2-x86_64.pkg.tar.zst",
+  "NAME": "libgxps",
+  "BASE": "libgxps",
+  "VERSION": "0.3.1-2",
+  "DESC": "XPS Documents library",
+  "CSIZE": "114279",
+  "ISIZE": "622985",
+  "MD5SUM": "8209f0f6fc54aec45a844f64b41aa221",
+  "SHA256SUM": "afc7d604f6fb1978233ba360d8f249b695f35fe938e295306cb94fcafe14cad2",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl6/resACgkQeGxj8zDXy5LMZQ/9Hq8MP1GO2C6sqOEnHRvb4F40o1c40Gy5wb+Gcwk9yCsXbUf7LFrBWZjGdzQLhqowHTmgx560+mEQ1+wIdTUe+NYh9tJCKG1+w+CTjV3/EOlA57P/PEn4YoAOaHHql+AjhDlXxe70hkyIYq0mmZ45c0WA7iPovFToirbwgnpeUDQVbpoyV7AZsKTkRMRZGenbwlbDsuMfaICQrtM5374D3+twUg/l170ueZcTOxENl9b5MJTcuN1RA9HQebxOl1WHt/DKB18YGZY7raxEYMvFGO1spc++bYGGgAkMW8bqR9IkGirfB0PmNukfAy/rP9uHjg+APeIlasFXaECkqeEupMa3rmQMs+BMSw6CVO+yqjHsxBYhKOBpSqLgaPcvxByrtrQRVSJ5OjxHxweBX7ZB9xRrC2cgmFe1mNwveOk/5u1B5LtrPIPO7Uhrdc/UxcGin2/UzFjSKVsauQBS4LautJkoIDLuMFhGgmPRDYF0elL6EEsyrYQAVfPeI3Pl16Yvr4OJ7w1aCPoakhbB624hTKaj2D4wlbgfYruy+4oHmyRIfuxcl1ok9tQWT2us+coyOqbgkkBcFqzJG7HMx/kgYw5H4R6IhXBEGh1YbpTeX4xKoDCTtE/IKgAzz1APOLhfBZq4yujap58IVfNKCF0TByjwAj01OEFuE+jQCywiMtU=",
+  "URL": "https://wiki.gnome.org/Projects/libgxps",
+  "LICENSE": "GPL2",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1589620115",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "gtk3",
+    "libarchive",
+    "libjpeg-turbo",
+    "libtiff",
+    "lcms2"
+  ]
+}

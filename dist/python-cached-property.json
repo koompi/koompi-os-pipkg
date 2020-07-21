@@ -1,0 +1,23 @@
+{
+  "FILENAME": "python-cached-property-1.5.1-4-any.pkg.tar.xz",
+  "NAME": "python-cached-property",
+  "BASE": "python-cached-property",
+  "VERSION": "1.5.1-4",
+  "DESC": "A decorator for caching properties in classes",
+  "CSIZE": "10628",
+  "ISIZE": "29703",
+  "MD5SUM": "34d838a040944f37f28b8e38127817aa",
+  "SHA256SUM": "9e9dbd6f80fb1d23be8deb580da2b9b2714e7bde6d1d1d200637578ad6fe2c00",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl27I4sACgkQeGxj8zDXy5J/5xAAqmwyFC9PO2tZJ5lHSgq/F4N+sMib/0RUW1DV3pKQoLo/eJCUpEz1jgCqsqAjqmsics6tctopKqVfd+PnyTqfuvtAwEKDyECNXY+WJWjorDOtiAh1cqPkIIRsOPZrbvLBOBR40q6dBHgn5SN43pDfierkLBclSoK+RE1oiBh4PfMQywIdMMZxv5FFAEPGFb+cOb9kxG43rq65STcsOuWo/fC5zf2Z8muFcwtR9Sowh4XsWvKvqS/fW3Ty/mOPT76zhZPArK5+jTOzfP+Cku/QUPqQMpkOEr63PY2WBhq2MgeHjT+YIdefJKkYZGd0IEQI83JP40IlnmhmuKJRkj+yS5p0DBOtn2F/M93B4/khWjRdoXh5obsZ2kXWtwbEo2kgLdtMYLi5pj8bXo2uKrnzKj2uOCxkCeinEqX956vdYhthpUoJn1SGXebNpz31p31QYsaPXNGVibJUouk2iD3l/H6mAqlrNSuwHcpzJljSI7RgRC72a3nbAIeAbS0Z0EQHFQMMzfvOfAeEx4+UMbuGBxw4Yi9SmXeEOPABdueZVYVQm6m2d+pob32mFkNvgRC25vCsaeuJJM50FvShp6Xqqu6VBEbmJOYrqazDjw3+Mq9LuWzCKeDxp/LM8REjwTpK8JRZ595yD6FM1X1wmMHgA3p6zARj9xyzbIHFQbcnbL8=",
+  "URL": "https://github.com/pydanny/cached-property",
+  "LICENSE": "BSD",
+  "ARCH": "any",
+  "BUILDDATE": "1572545386",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "python"
+  ]
+}

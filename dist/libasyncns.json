@@ -1,0 +1,23 @@
+{
+  "FILENAME": "libasyncns-0.8+3+g68cd5af-3-x86_64.pkg.tar.zst",
+  "NAME": "libasyncns",
+  "BASE": "libasyncns",
+  "VERSION": "0.8+3+g68cd5af-3",
+  "DESC": "A C library for executing name service queries asynchronously",
+  "CSIZE": "17036",
+  "ISIZE": "48763",
+  "MD5SUM": "0aad62f00eab3d0ec7798cb5b4a6eddd",
+  "SHA256SUM": "a0262e191dd3b00343e79e3521159c963e26b7a438d4cc44137c64cf0da90516",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl7DmIIACgkQeGxj8zDXy5IE8w/7BRDCV4cdGG/2DK0ezqicrMTmpRjiN0Zh14s39V/wHt4VmU786y0fjR/2UfvxncnDqBTmiPbe6Ilv5vQ/4aHbRObqeVFD76iMKAPmBWLOvI8rGLlZjK9zLOKTHwKb7EBk4D4HrF/zd/c1Mz5rGkF/RAgchDT2G4NTozG3SUA1cL3TWgvPn4CIEeq2XTO01GCqXMiavdSuyAEIzKjc9zNPQ/2N1qQ2zPuzjbkEEk4Tk2ewKUQbKcVYpp+iwxm5sUFqd/mpnT4scve7bsHm0VduZbz5mqz2fg57/RU8qQ6GjLZjEHQGE2B3YUWzZlxN2x4+skXN7CRNmfAVyoe7C6hsED8cyKx+J8V+hk67xeIfEm0KCOhegpL/TM/O7xR9w5y3WFmN0VS96l5do9hZkkzNn7o64hvjtEypo/sCF/46KqHwJNezukbWENIWJcHYu8EqLaZsTFD+vQ8iXk7xy2ocQQTIfFlThNwPG+oGK8holQjOhdn8C+m8mG5QFQmUqhcPch4qRsUq1uY3CFooIX4pRghkIyrFwmwhxiao2HLegKS9v5RqMCGxJ3jPXT0tB7s56fpC3D2moCJtaN+GUsU3YW/a0gHgIhzCC7HJYZ+T+MkG5LW3Lb5swMXa4Qe5GcSzc1w+cpMurQKANGNk382TO5CRmo3e+dO4CLaXmUGOjGw=",
+  "URL": "http://0pointer.de/lennart/projects/libasyncns",
+  "LICENSE": "LGPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1589876807",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "glibc"
+  ]
+}

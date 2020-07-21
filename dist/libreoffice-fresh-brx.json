@@ -1,0 +1,23 @@
+{
+  "FILENAME": "libreoffice-fresh-brx-6.4.5-1-any.pkg.tar.zst",
+  "NAME": "libreoffice-fresh-brx",
+  "BASE": "libreoffice-fresh-i18n",
+  "VERSION": "6.4.5-1",
+  "DESC": "Bodo language pack for LibreOffice Fresh",
+  "CSIZE": "273581",
+  "ISIZE": "1809328",
+  "MD5SUM": "a732ae39a0802d3970818c3d1ffc502c",
+  "SHA256SUM": "bab83427cbb0e163a4a1a2c05c2698d3e2dd6866946d0a19bf322cab7f7d29bf",
+  "PGPSIG": "iQEzBAABCAAdFiEErcih/MFeAdRTEEGelGV6sg8qCSsFAl7+FvsACgkQlGV6sg8qCSu7hAf+Ijb9IK0qsWsFmznoKTzjAd/fe6FEnS8WZt1nvxMqQlZauLtE+BJkZw5bduqDWD3vPfNFLmuhjov+KCFC2V6trWFigugaeO0mD4s5E8ky8rtfpvoaehc4WEHkuY3vQXoGKkcLqCuEzfb1OmxXZbGwxlm6m6nka5j7Zoe+o8iNLN05XC/Z6m2+CK3ry4MFhVcnUro1mhCy5NgzFOg4UI67YnvUGmL2PrP/J5R+C9uiOm2jxhNm35HYn63ziw4x4Dhn+V3X/AmO1DJh3BGK/m+IstpQ9rlGOOzmlHkZvojEIeSQKtOUCCwDOl7slp0O7qRyJQK67ZsfjgmCip5RdZUX9w==",
+  "URL": "https://www.documentfoundation.org",
+  "LICENSE": "LGPL",
+  "ARCH": "any",
+  "BUILDDATE": "1593700315",
+  "PACKAGER": "Andreas Radke <andyrtr@archlinux.org>",
+  "PROVIDES": [
+    "libreoffice-brx"
+  ],
+  "DEPENDS": [
+    "libreoffice-fresh"
+  ]
+}

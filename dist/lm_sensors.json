@@ -1,0 +1,23 @@
+{
+  "FILENAME": "lm_sensors-3.6.0-2-x86_64.pkg.tar.zst",
+  "NAME": "lm_sensors",
+  "BASE": "lm_sensors",
+  "VERSION": "3.6.0-2",
+  "DESC": "Collection of user space tools for general SMBus access and hardware monitoring",
+  "CSIZE": "138620",
+  "ISIZE": "489705",
+  "MD5SUM": "31d8c281f20cac4fad9181ccd8b1f5f1",
+  "SHA256SUM": "50508268cd9da248402598c4ee005afa1d53de6fff27cb01727b6f5768028eca",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl6/1+0ACgkQeGxj8zDXy5JUKw/8D44TwwDru2LtJzTArA7Sf2Bp4iZP5nUMNrft5oyhdkM5QeIdh4lXq4//nuckPF7PNFavV7rB84obDvhTVSQoTW5cxaGeRpRcsxQt246D35lpabLSENMxyN34blEN5VBJ74dM8ohf5mbeQIrdMHf4PCUeWD9/Z7VNyI12JsihBvyn+ZjpnzsD2gHV41oDISQe5kOD0R3XHFyJhTZTwtTbmpaeF0+SDOZZD2AhbFoM9nUN1lHk09En72rnsMjTwLD1Fb28duodqDKDhvAundxa6aqVAESuLI3r7N+2pvdq7dmxbzgRN6JPpXspWdJlmfacgTk5D5g2rG2+0u8JOpRIHIGTbK8+xiBsgYs/F6wA5pP8ZMF4hQzEilU8lMfQnChFCihx6BFbnWmftGcwLz9WaVjhiHz9g9hIj8mfO1PQtgrSkeSE6EqmmzYKsFNcDMac0mNznKhpGtcnecUQfCB6Rq9JnE+mnvYZ0KkIdyZxGZsE1pv7LfYyvzYUr0rujj67+OL2U5qL1jP8WPiF2qsqldS/uukL4isk+/LKojGA1U5XwrfSbwOfIe/4RAjNF1DjK15CpJVKStkoSVUXPZz9snqP8NwE2owSkHdYOhgF67vaOarbk8u+aIAy9aa+n7VxfU89ZXr0AscwhLbY/mHInkpX1Mbsz9QtpJVAKkk5iQg=",
+  "URL": "https://hwmon.wiki.kernel.org/lm_sensors",
+  "LICENSE": "GPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1589630945",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "perl"
+  ]
+}

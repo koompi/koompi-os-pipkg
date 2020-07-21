@@ -1,0 +1,23 @@
+{
+  "FILENAME": "python-rsa-4.6-1-any.pkg.tar.zst",
+  "NAME": "python-rsa",
+  "BASE": "python-rsa",
+  "VERSION": "4.6-1",
+  "DESC": "Pure-Python RSA implementation",
+  "CSIZE": "47675",
+  "ISIZE": "235342",
+  "MD5SUM": "972dc0d8f31c86c84468b9811817b0b3",
+  "SHA256SUM": "0bca56319971f9ffc45b7493bcba071df8a01d121c4d1e4a947e0ea0ebebea5e",
+  "PGPSIG": "iF0EABECAB0WIQQsEYxiDwLbmsHQ+fqU3SOT2i7kIwUCXudmAAAKCRCU3SOT2i7kI0J9AJsEzBaxxAzubvbmWhVUhtR38hAaxgCgnssctmUnQucTXEJNO1jn60TVa08=",
+  "URL": "https://github.com/sybrenstuvel/python-rsa/",
+  "LICENSE": "BSD",
+  "ARCH": "any",
+  "BUILDDATE": "1592223181",
+  "PACKAGER": "Massimiliano Torromeo <massimiliano.torromeo@gmail.com>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "python-pyasn1"
+  ]
+}

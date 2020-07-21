@@ -1,0 +1,30 @@
+{
+  "FILENAME": "recordmydesktop-0.3.8.1-9-x86_64.pkg.tar.zst",
+  "NAME": "recordmydesktop",
+  "BASE": "recordmydesktop",
+  "VERSION": "0.3.8.1-9",
+  "DESC": "Produces a OGG encapsulated Theora/Vorbis recording of your desktop",
+  "CSIZE": "45782",
+  "ISIZE": "142037",
+  "MD5SUM": "eb613c73bdeeb1256d1b2ef1077d1a4d",
+  "SHA256SUM": "f0e5f74a658de1237c57a2deceddde87a41f1772103f038da63093df28f2361f",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl8EkmQACgkQeGxj8zDXy5IL4hAAgMQuiX1iKNtknhH0yNm686McjRWUDHdrLIxEFMvwQmLsKGKyntQIxo7qLy2N6l/Ajb9XWoZU5Zqk7OdBBtusFzqQ4fe2IOksE7W2R85PAOqoNQZ6G4dndcv9nRk48ElFEfvJEDwIWOxws+ClhvZOyZ6OjiQ7X4MsCVdLagNolQJCsjwomIEOj70kmaDnrGzPo5799lOJq0jbkZkRSnmDH2GVoFczZY+iP3jEl+JZq6fmbQf8azo+spT3etak1Q324DaXNpsiZrhkOnq8xRAePCFvY5nDUMRdVlknW5OSSrAopjFDmqVScXtzqrfqgkyYPbnXb0v+jRrgGfNCX6ZHQBtzRLnu2ATVE6lRDFcfhy0QOHtH+hvUciuf3ntZD5AIvQ2m86EROdYLhvBmKz9PD1lHFZZY8CEcUUeUT9KvGJ0p/wLffofYw8ffH+iQIwuV7NVsGXMDVj9UCUEzHXO7SAs9TOshWrgMUqgQV0Whvfedf8vuk560AocWzrFzByLCHAnw0OroaDbw5ZgMinZIRaCBg6ntfvj7ce+nvst02Rl8muuq/RcN25BF2eBMOoFNx8gpy2IRPmS0pHxWEP9JpXyLBDZsdiT8cAmL6XVY8paHdLxZMf+Yn6zadQ4SGynz6fsAmyP7gaQl4r3FYI5Wm8ijbjAVQuuT1ua1js4VHrI=",
+  "URL": "http://recordmydesktop.sourceforge.net",
+  "LICENSE": "GPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1594134398",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "alsa-lib",
+    "zlib",
+    "libvorbis",
+    "libxdamage",
+    "libxext",
+    "libtheora",
+    "libsm",
+    "jack"
+  ]
+}

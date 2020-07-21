@@ -1,0 +1,23 @@
+{
+  "FILENAME": "firefox-i18n-es-cl-78.0.2-1-any.pkg.tar.zst",
+  "NAME": "firefox-i18n-es-cl",
+  "BASE": "firefox-i18n",
+  "VERSION": "78.0.2-1",
+  "DESC": "Spanish (Chile) language pack for Firefox",
+  "CSIZE": "502650",
+  "ISIZE": "567594",
+  "MD5SUM": "8beb7cc3c9cdb50571218fc176b0b753",
+  "SHA256SUM": "aeac634d22ce4d428a676e71933cb2206dcc8e576afc1091c98c937f07cd3f08",
+  "PGPSIG": "iIsEABYIADMWIQQGaHodnU+rCLUP2Ss7lKgOUKR3xwUCXwelohUcaGVmdGlnQGFyY2hsaW51eC5vcmcACgkQO5SoDlCkd8cc/wD/TAZhmP/aZLBIWiFz8fGjjQ8K5X7ItNYmFESaUt6oZwsBAMiLX2exAijB7TyOBW26tQuveMNsoYIASG5PN8ULF3wK",
+  "URL": "https://www.mozilla.org/firefox/",
+  "LICENSE": "MPL",
+  "ARCH": "any",
+  "BUILDDATE": "1594311501",
+  "PACKAGER": "Jan Alexander Steffens (heftig) <heftig@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "firefox>=78.0.2"
+  ]
+}

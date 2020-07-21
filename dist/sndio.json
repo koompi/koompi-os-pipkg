@@ -1,0 +1,24 @@
+{
+  "FILENAME": "sndio-1.6.0-2-x86_64.pkg.tar.zst",
+  "NAME": "sndio",
+  "BASE": "sndio",
+  "VERSION": "1.6.0-2",
+  "DESC": "A small audio and MIDI framework part of the OpenBSD project",
+  "CSIZE": "102317",
+  "ISIZE": "227536",
+  "MD5SUM": "0742ac6eed76a7cf6f3121e723ff244a",
+  "SHA256SUM": "8d10aedd3a9cc588034baa5a07e363bbd58627de5d592bbb7448835f6abb3339",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl8EqsgACgkQeGxj8zDXy5Jfxw/9GDkwadOst3bczUjQyqYt8fol2gogfSQ9LJoYfuQ0aainKwj/r92KlxLDJPSL5eDXbZgLM1g2tbADM1fzKJfWqjISDhIaZhgEtmZVa8ZkfqHGNCrlq1CqM8koUDekHnY9YOevYkgiWs7fuZj1VHiUVGfkSjS+VEfTU+qvFR+b1g8Xv9ON3YP0OVb26faI0V5m+3Ry9jiRlxusPOJX/HBz5/HX9tBiNKC5odRNHIyXU9QHm8uqfiL4w91hzffso5WfEIYs5+6Z1c45rHDg7wR+fu7VIP6haXgwJzAvxECn+vhyvyj7S3T687AAIShRVwOJr/XVtKz2Bm+I4TbfpE1tRgiLomAfGV0wpoP84ByWDpeYEUvutPF50EYgUbszt/A3PvU8zP3DIvtu3NwOE9GIaFEtpajRJtBg5sqzilZNRpx9r4TvcTmOdRvsaTmPLWFbfvXoG7sI63bXQaeAOAaE+JzksVXVrYZMoSyqElBsFfRIlNt9J9syT1KkeqC/TTnPytUI1DkWbAelR+4tYt6P06Q57WNzA9uE3xADfv3Oh/fyTp3BLBV/yRIerSb7kmPC8pM4PNi70pDD4tifQWr3ziQFfY0YwkeDuKz5CxEWascxg3MlOw30COl+rwnuVBH/rYrDnTy/Lemgax97AkDflg//GMrdqgujikNp4kLSDbA=",
+  "URL": "http://www.sndio.org",
+  "LICENSE": "ISC",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1594141322",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "alsa-lib",
+    "libbsd"
+  ]
+}

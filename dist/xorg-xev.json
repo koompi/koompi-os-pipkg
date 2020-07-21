@@ -1,0 +1,24 @@
+{
+  "FILENAME": "xorg-xev-1.2.3-2-x86_64.pkg.tar.zst",
+  "NAME": "xorg-xev",
+  "BASE": "xorg-xev",
+  "VERSION": "1.2.3-2",
+  "DESC": "Print contents of X events",
+  "CSIZE": "15313",
+  "ISIZE": "33326",
+  "MD5SUM": "f929d83af085b8aca0210938a3af4147",
+  "SHA256SUM": "ddb8deda4b450302230c7b244a99b8f2eec564a0b672ca42571f048c67dc51d8",
+  "PGPSIG": "iQEzBAABCAAdFiEEhs/8qRjPOvRxR1iAUeixSKmZnDQFAl6/+R8ACgkQUeixSKmZnDRGuwgAnMfpYHMTUvTAwPOG3eez/ZmlPoVnXXPhRYUfGJPMbkuN3rB/lr6D2iH0IFPN8m0eiBprya3UP06+UAESS2GrvKplfKsa1e6jxpX2LScTkGW3JMyUv5Wa6mzA3sGjOHwzIdXrAQ7hpl1WiuryQcn6UEzC9Q7dOH/ac1c6YMgheU3EEnyHJ5PyJKmcj5btW/VLhTCs34/uId46hPsjEIfY+1aBFzQpccREPy/qIzbGK41Q9cINs0uRLz+5VV1lUz37jE9OOU41NabT6WDyjFI0CwHr/EJl5xWZ1bbWCzO/jSD9kaZ84zRJaooL0ajx1YNwQMjmyBY8/9TeWJpaVihwlg==",
+  "URL": "https://xorg.freedesktop.org/",
+  "LICENSE": "custom",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1589639435",
+  "PACKAGER": "Evangelos Foutras <evangelos@foutrelis.com>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "libx11",
+    "libxrandr"
+  ]
+}

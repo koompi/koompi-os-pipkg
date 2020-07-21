@@ -1,0 +1,23 @@
+{
+  "FILENAME": "libreoffice-fresh-ast-6.4.5-1-any.pkg.tar.zst",
+  "NAME": "libreoffice-fresh-ast",
+  "BASE": "libreoffice-fresh-i18n",
+  "VERSION": "6.4.5-1",
+  "DESC": "Asturianu language pack for LibreOffice Fresh",
+  "CSIZE": "2944362",
+  "ISIZE": "21848218",
+  "MD5SUM": "e5006d433d86e58cd4d6e0a1aa46566c",
+  "SHA256SUM": "39983a0468ff52a6703c6f8422fff9b8de7990d7b13ab3cbb4c8f3cba2ca8da2",
+  "PGPSIG": "iQEzBAABCAAdFiEErcih/MFeAdRTEEGelGV6sg8qCSsFAl7+FvMACgkQlGV6sg8qCStOrgf/Z+gYyGuKIPNdaICFfeuRwNnkg/T8SXriEiCqlS2mJW9f1e7edogCS6t5DS8WsxIiRKi90aj03ZB9/iAoNdA+u+XMcFhdEei6kOo7cQ0OELfaroAz76Kq0mm+dGCJsHywqvpbGsiWYP8J52NAGWLWLYT4Ge4euGBHX+8kMulTU7R7u8ci5rqNZGxklJc2jT2aIAgM0Dt/Acz+nbjFbEDXNXMmPeLOZGiMPQfHT9SlXPRHSfsV9IMnJqJzLITgD7cMtgBKG4pm5vn89hGZk6de4eB8Q41/mHNv3wv9OWGMn3dVfRGRjlyg80EvpZ+CcLM1rrvLqL3bYM/83pLDIWYi3A==",
+  "URL": "https://www.documentfoundation.org",
+  "LICENSE": "LGPL",
+  "ARCH": "any",
+  "BUILDDATE": "1593700315",
+  "PACKAGER": "Andreas Radke <andyrtr@archlinux.org>",
+  "PROVIDES": [
+    "libreoffice-ast"
+  ],
+  "DEPENDS": [
+    "libreoffice-fresh"
+  ]
+}

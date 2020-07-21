@@ -1,0 +1,24 @@
+{
+  "FILENAME": "privoxy-3.0.28-2-x86_64.pkg.tar.zst",
+  "NAME": "privoxy",
+  "BASE": "privoxy",
+  "VERSION": "3.0.28-2",
+  "DESC": "A web proxy with advanced filtering capabilities.",
+  "CSIZE": "490740",
+  "ISIZE": "1994818",
+  "MD5SUM": "f107d44ef5e1e0d932db70276b22fea2",
+  "SHA256SUM": "dc0e938602d52524d6861ddfcddcc99078ff40ca9a2d940cca80ad4c4b4cad63",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl8Ecd0ACgkQeGxj8zDXy5I+UQ/+LxqtQr2feG/NE+4/h7Dtf75qs1j4dakWwDXl/4Pfez8RrUO3bP78CduK01MltZTZ+N9Fp+m79hLGfPITvHzQTr3eEKY9bBRvM6tUQqMupOiolp+/0yMlGvqCx+ZoECbf0NroRIWduA9wfcyXR4QOMd34tbNhm8oUBYQ264W4WSZ3YkcHs7Og06cb5gF+JRRNVh+av8sS5enYff2UN6/UpnYxLnx6bagYwV0z29PGiglN+JAkfdjxy5wb1Rf5fTc8h11m9QWLjhIEwQ2EBfpeqwhPfGTZSWE2BtCF17ioaWFgnrky72xmjDkSJVHd6clM0C3JGFeg3bJqnQD6y8QZCGoqqTvDa07ms4VgNsLU7mc/nZqqN1kh63oE6C0rBPgFRYiusdRzOfTjizlGi/sTLRrpOHrppz7tn+pVLMXoqLPds+JFLYvsqGduPiiha+OahjA6kCImGMxYHgTK4lpj1EfM5lJpiaNRLKIVAz3eNcuKv+3kQ26AUyeylVpQkDcbk7Vt844iwkzQhrcXhySFXZFQa8BJHN+xMWOOoP8rw8q1rXB4dVZyzQGxSrbNMf+AbppyZQWCoXepH7ALjP6CO5eOut/o7CIABS7hMigK8UVi4+4wJcvHRfugMcYctyxxKP4GOX0ivHdYRs+KrJuKHrhM7pW6jy8QdnOF/E5Wr/k=",
+  "URL": "https://www.privoxy.org",
+  "LICENSE": "GPL2",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1594126783",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "pcre",
+    "zlib"
+  ]
+}

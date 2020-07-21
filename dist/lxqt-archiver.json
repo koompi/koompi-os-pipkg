@@ -1,0 +1,27 @@
+{
+  "FILENAME": "lxqt-archiver-0.2.0-1-x86_64.pkg.tar.zst",
+  "NAME": "lxqt-archiver",
+  "BASE": "lxqt-archiver",
+  "VERSION": "0.2.0-1",
+  "DESC": "A simple & lightweight desktop-agnostic Qt file archiver",
+  "CSIZE": "205388",
+  "ISIZE": "803303",
+  "MD5SUM": "8c7000bbcd92e496e616e5886607687e",
+  "SHA256SUM": "4756608380bf03d59b5c564255200b873496fc0d197c040252824f9edba3bf96",
+  "PGPSIG": "iHUEABEIAB0WIQSYX6G7jYlWZgHv/xEEU6bKI8VjFQUCXsDeiAAKCRAEU6bKI8VjFfR4AP90LH9E1XI10FG8nBKN+jkKjjNcptg88yHbIHXmVyMghAD/SbI0L5vIPLahiTP+IjeyVvz4fgpFmbObF1mAbQoRM90=",
+  "URL": "https://github.com/lxqt/lxqt-archiver",
+  "LICENSE": "GPL2",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1589697788",
+  "PACKAGER": "Chih-Hsuan Yen <yan12125@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "libfm-qt",
+    "qt5-x11extras",
+    "glib2",
+    "json-glib",
+    "libfm-qt.so=7-64"
+  ]
+}

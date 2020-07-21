@@ -1,0 +1,25 @@
+{
+  "FILENAME": "python2-prompt_toolkit1-1.0.15-2-any.pkg.tar.zst",
+  "NAME": "python2-prompt_toolkit1",
+  "BASE": "python2-prompt_toolkit1",
+  "VERSION": "1.0.15-2",
+  "DESC": "Library for building powerful interactive command lines in Python",
+  "CSIZE": "381656",
+  "ISIZE": "2643649",
+  "MD5SUM": "a8794f80b6ab80bf8abf4806b034dcc4",
+  "SHA256SUM": "e4bbc96493ff78bab7c63fb17de44238f88f5f3b8eecc230b208c3a1f8446661",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl8EcScACgkQeGxj8zDXy5J04g//ePFj4V+hSD7NqSlpy/s8eHR1pbufxPCDp997oz5pGkl+ktcL41MBgZWYyb31sgOatCwoePNURRBP0z6DrazNEKAqulNd9xt8muc6lJ0B5gfj3mxDOf7+cD4Y7B+Hzx3iE/nr6EMCjhg0piMmNL6QfXRlYQcAhGVnZY2Lof3IOclThCDDqwxVRlMMb2zHIu9TG113NbNHpBv2BlD2k30bW1wtJqjuH1zgwM8JaO/UQ4ENaMV4YCK1LfP4RwFZj7/magkXTIJJKb/EVFyIi3dAUmzktP4xWd2aFhTQwHpBwv6kajnR58UGiF+7a37RgtEFXR/LOgGlQOljrsuauCiRbMRaf3RjNg4qpomCXvQNmC92XoXFAu6LahODd+R1SK7gqvqW7sXOjibJHlJ9CQo1sKryHQQ3s8W4xIPaUL2S7q2wuQ0BE1LHu5dTKEkZT/0AUntZbfqUMcWGqlvqrTUN5pukNfOzTR7Un+U/A6JfdRK8DCLR7ZzL9emJzJjFf+99wvwefOhy7TdYFtvdNTHxaHZt+zcatiWke1jQF5zcHtE+PKhRApWNtejWpixgKtS/iVLiG6zoKGb5X3HlPALlHfgjbawKGQdKDyEzI26znvk0WCt1o0MS8TCK1xsLyIS8E4RRAfJoQLKk4YKVABhF4b7k7/4R34uNJslQ1qFBLcA=",
+  "URL": "https://github.com/jonathanslenders/python-prompt-toolkit",
+  "LICENSE": "BSD",
+  "ARCH": "any",
+  "BUILDDATE": "1594126608",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "python2-pygments",
+    "python2-six",
+    "python2-wcwidth"
+  ]
+}

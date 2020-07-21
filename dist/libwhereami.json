@@ -1,0 +1,31 @@
+{
+  "FILENAME": "libwhereami-0.5.0-1-x86_64.pkg.tar.zst",
+  "NAME": "libwhereami",
+  "BASE": "libwhereami",
+  "VERSION": "0.5.0-1",
+  "DESC": "Library to report hypervisor information from inside a VM",
+  "CSIZE": "116246",
+  "ISIZE": "381778",
+  "MD5SUM": "c33a0f684e1478ca44b46222fb085436",
+  "SHA256SUM": "a00bde5f562930e2f593f4a7a22fc170939d5f56abf523e3d8cf4598e9505953",
+  "PGPSIG": "iQIzBAABCgAdFiEEBR6tamFVOJ1p2gLl63Y7Tp24h6YFAl7Y90IACgkQ63Y7Tp24h6bE0w//d4iUeN7JqzLaw4gRM2bhC9vAGsN30qE2y7trCGceLKwxcpGE1/6UCv2Wre+zpLQZmHDS44IY5qbB3NxfgEdSMp3lkE2Hm8Miud0FK0xkuZHnp2ZUlmTEt1UybU+U16nClqSDUDto0089V+d9c/miboQDLnwf9tRgd8jHn5ZhR8ExvUkacN3TvlKKuTEWQXrjTQEAohdKZuAv8jzTQ6/Ybi3OwoGM1FrOLyuCOtp+h7s8ASqaUPdIBecQ0ANHnnf+vwkIbHJX5O5T//1ibRN1eoTXYP+C5EibB55aLdbfHR2jNjgV53ADmnZ+LdnU8YMYJNVCAJFbeXo5lpA0W55keH+F0AldPIFRNxrVAY4cWCv87OIED5ygkZkOfvg78ZHsWK2bbQY2r5svtJjBy3DLyAe08f2kJppgnPPNwgNfe6Chd49LzIDdUepov9Ng7bdKyk9cylgoOuSMvJ4ocv+h/gMY+fnznRJKANmTrTpAEc3T0Cnnq3Zb3hmr25UY/IoLTCcOITVvDzig9sAlGiLA3SvBo3HjA+dABbsZIePVKoW9Gx63No1nnHNIybS7M0QgPvbVsDgx2X9mj5XcDGM/8n8pXQGmr/1aiMOtAd60kA3GJm/pZO5n2GrW+lhiToH33I+fSrr6uL72RO8XaWxbTIomM3ImWVxfgGJl0riSIWo=",
+  "URL": "https://github.com/puppetlabs/libwhereami",
+  "LICENSE": "APACHE",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1591277283",
+  "PACKAGER": "Thore Bödecker <foxxx0@archlinux.org>",
+  "PROVIDES": [
+    "libwhereami.so=0.5.0-64"
+  ],
+  "DEPENDS": [
+    "boost-libs",
+    "gcc-libs",
+    "glibc",
+    "leatherman",
+    "leatherman_execution.so=1.12.0-64",
+    "leatherman_file_util.so=1.12.0-64",
+    "leatherman_util.so=1.12.0-64",
+    "leatherman_logging.so=1.12.0-64",
+    "leatherman_locale.so=1.12.0-64"
+  ]
+}

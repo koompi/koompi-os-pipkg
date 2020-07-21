@@ -1,0 +1,29 @@
+{
+  "FILENAME": "python-zope-security-5.1.1-1-x86_64.pkg.tar.zst",
+  "NAME": "python-zope-security",
+  "BASE": "python-zope-security",
+  "VERSION": "5.1.1-1",
+  "DESC": "Zope Security Framework",
+  "CSIZE": "188725",
+  "ISIZE": "1391226",
+  "MD5SUM": "bb071fd1a0c9f7318268d1edf17b221e",
+  "SHA256SUM": "de0ccad9742e661a03b50b940794630172f56c6e6b0a129b70e51e47b6164bc8",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl55CtkACgkQeGxj8zDXy5JdRg/+JOXBE/MrKpAJLXEvncwkN3r8aN/6YZ/vuMOBxJCfSlXIogtzreqcmC0QS5NYFTrJ6y2RnrhxmtSCD7tyH/fQdXbyv/tsUx1ZEk7Ebpvn2mFflbYKqROLR8Tdtj7IT39/lFxNyJ1sTFLGlbdnfJDk2YVGuN2vnU+5kI6BFNxBCUcwDqbxTSSk3w+mJL3Vi4moHtdj1v0O6mp/V25435/htEYgXpNMaaWK+ACVzo6OwESRbz8qZxJtmllxV0RoiLyDSXxjqH0TXAME+FH7hMjaFDiXRHzXlO6B2YYz9HkF5fevB3Ls5MNADeKgMb7KOI9a0rfHHmia5wfoi52jHieB6M45l76jS10enj/CkuX+ztlfftufY1GZlSTZwS7QcvKYWIK5+zOmquA6DLhooBDJUHqPXKEJi8rqgm8jf6nkQ7wzI5joyynA7RlAUcP57AdIHC58taNCt3ZjehxedlEMQ6LAwULJK01WRU7lmj1PKmTCBT31IUwfY5Kbzh0tb8Akos79ulzhkKF8gKesHox9sIp7wJ2mbmW4hlKGPUK/1NFPlFp6d5V2J933RaUT7zV/2M3rCfER4pGvmfOFxFXVUxdg89CqcH23LNCqxYC2PKYfUDYKy7xcQ6L0r2lblqrY4gQgmd6dw/cME86yR4sPVBQ5EOANDvIPxGJyK73p4z8=",
+  "URL": "https://github.com/zopefoundation/zope.security",
+  "LICENSE": "ZPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1584990151",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "python-setuptools",
+    "python-zope-component",
+    "python-zope-i18nmessageid",
+    "python-zope-interface",
+    "python-zope-location",
+    "python-zope-proxy",
+    "python-zope-schema"
+  ]
+}

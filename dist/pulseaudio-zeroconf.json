@@ -1,0 +1,25 @@
+{
+  "FILENAME": "pulseaudio-zeroconf-13.0-3-x86_64.pkg.tar.zst",
+  "NAME": "pulseaudio-zeroconf",
+  "BASE": "pulseaudio",
+  "VERSION": "13.0-3",
+  "DESC": "Zeroconf support for PulseAudio",
+  "CSIZE": "23596",
+  "ISIZE": "92648",
+  "MD5SUM": "cfaff5a7f4e6bacefa3841e0a32aef5a",
+  "SHA256SUM": "155e50c40bfad4da509e2318eb8201b1f9fbb43ddd364171bfc4324ebf452dc9",
+  "PGPSIG": "iQEzBAABCAAdFiEEghj4iEmqxSLpTPRwpekojE+kFfoFAl4aH24ACgkQpekojE+kFfo1dAgAiq2r2fy2KnkjbfmixgUdkbF2BUgeOjynmZog1Ufn262rnm/TxsGnHGf5ONrTWP/89+Y3d3UOHXIo4AjOKXK+K+TQ+3ilWaAWjet2tOTVquO7QLMIhjZgoz8Hp4l01cnNGBw2hNVXm9AeUNrREfKlI8zwFOJRERH69p8O00oC6m4RYzCyyGU16gLp9aLL4MRl0M6SiEFmPSBJz5djUt9/mEK6hTOdDGcJHBlTMhFXKr/9BhGHsnZFLEF8W2i/clBdHognyIVOFGXHMTUidDt7u0JjZs3IJM8SXCPMUzO8g34J+mnJ8tvNo+T3/5AqfH0IOMYTc8tcsjhIaYVK5Oqj3A==",
+  "URL": "https://www.freedesktop.org/wiki/Software/PulseAudio/",
+  "LICENSE": "GPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1578767137",
+  "PACKAGER": "Jan Alexander Steffens (heftig) <jan.steffens@gmail.com>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "pulseaudio=13.0-3",
+    "avahi",
+    "openssl"
+  ]
+}

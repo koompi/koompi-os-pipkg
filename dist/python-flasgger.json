@@ -1,0 +1,27 @@
+{
+  "FILENAME": "python-flasgger-0.9.4-2-any.pkg.tar.zst",
+  "NAME": "python-flasgger",
+  "BASE": "python-flasgger",
+  "VERSION": "0.9.4-2",
+  "DESC": "Extract swagger specs from your flask project",
+  "CSIZE": "2415920",
+  "ISIZE": "13976829",
+  "MD5SUM": "889de0d90952fb38b260798b124cecec",
+  "SHA256SUM": "93f891b3fc51d066e2c9ad1161ca296ebc61354b0a02a68b46f3999182d83005",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl5FFeAACgkQeGxj8zDXy5LEQA/+NWWzGS7ZVkvuecmuCuEZvye109jATKYSNuGeJ5JJCig4qm+Zo4gaGjHeyrTcAn/28j6QtWF9UQ++808qu2WpkHiNRwHq0qvy1vm8xTbLlMeQtrBVcqN72cJXtWCfcPdam+UvpzdhsNDnThiOZBp2cos2eY8YZwehSBhec64giqVl0Ryihe5AAlPonIGXXi5CqZYRJ0IsUkJvifvC6FziiRFYoB8nzLPmivYYboAEgMtwtrggzKHim6+tel/XWxrWpteiTozXYcvA2nUPFEy6w7QjxSFCXeZG7Bn9VBuVj9suaHL6lq7ProDBweuGnbvpoozC8WZkicMMEZcUfuvMPZ2hiQNgh93+XQACX+hPZmjf+4m4ItVaLUIO3Lx0uVUvy0KMIxF3OsFR5qMsiT8x+oQdxcPzUa3Gvw+Z2ydyUVlwMMHLi7uhpNLUWa/q+s4OF4vCZqF1TElQtFc9EZLxaxPmgGK9JS7/gkywohPVYLET9Km+bEftAXDPq/1y+i/vTZ+CkiYUgJKpT833vRw2F5BuS1eEtGxsO3PeOiahAkBqBmAEUAW8INBewPjXVGL1lHnGgyg1edfMFLyiYwXt7GBkOm3rpdhmMPdnZuWNSLeq2vqKqblKMaKGQSZJMAGZieEjFa1gIsPa1Eduu40gPI2l98Cum9n+wKUKmJ5i9pE=",
+  "URL": "https://github.com/flasgger/flasgger",
+  "LICENSE": "PerlArtistic",
+  "ARCH": "any",
+  "BUILDDATE": "1581585826",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "python-flask",
+    "python-yaml",
+    "python-jsonschema",
+    "python-mistune",
+    "python-six"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "FILENAME": "kcharselect-20.04.3-1-x86_64.pkg.tar.zst",
+  "NAME": "kcharselect",
+  "BASE": "kcharselect",
+  "VERSION": "20.04.3-1",
+  "DESC": "Character Selector",
+  "CSIZE": "385443",
+  "ISIZE": "596302",
+  "MD5SUM": "c8410f7c554030ea92ff0f97cf1a7d4c",
+  "SHA256SUM": "4d6c507a41e8c8989b4a5acdd0c030911ca8ff0c827daa440f79b30e656c67a3",
+  "PGPSIG": "iQEzBAABCAAdFiEEFRnVq6Zb9vwrc8dWek52CV2KUuQFAl8HIWQACgkQek52CV2KUuSvTAf+PNMiloDsc/1Z78lMTQ1sJ8yiUa+gQTkSUKSrzN7X1ECkd/6yGDzl9ebR5BdtrageYS5QG2H3IQ/sCwH8YLw463FXcfDPhnJpWM2dNNH+l+OV7X47BLsRONFUNU07H0jYx3sAoGn8mXU3ZIf6YhHM36Jxal9fzzRYZf7J0TIckAAGT+bAVN19q97rgmPY6VuumVRjhd2MAQJZKYoE2eL1nRp+/mCQ1t3JapjnGajj1EEXFNcll5QVncxMR1q/gb0phdgV42BmQfBhv5zqMBbvymvEtrEndsfxOyx1mSf76R0smWYNHYZqO2aWNvdPABM5gpQGq5P+QLQnnW9fXtveQA==",
+  "URL": "https://kde.org/applications/utilities/kcharselect/",
+  "LICENSE": "GPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1594114367",
+  "PACKAGER": "Antonio Rojas <arojas@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "kbookmarks"
+  ]
+}

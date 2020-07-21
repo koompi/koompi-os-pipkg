@@ -1,0 +1,24 @@
+{
+  "FILENAME": "jack-stdio-1.5-2-x86_64.pkg.tar.xz",
+  "NAME": "jack-stdio",
+  "BASE": "jack-stdio",
+  "VERSION": "1.5-2",
+  "DESC": "Unix pipe audio-data from and to JACK",
+  "CSIZE": "15536",
+  "ISIZE": "48967",
+  "MD5SUM": "912b98142a8f959d84eeb9e0bd0bcbfe",
+  "SHA256SUM": "400768ebd83a58984a346576b684a881ff81d2113f9fbb1043e8b72a8ca72017",
+  "PGPSIG": "iHUEABYIAB0WIQTH54SUZv4jWDQ1iDdyWHNLQcMVSQUCXdbiaQAKCRByWHNLQcMVSfTZAP45xAxKeMPQLBSzu7/fa1ZkHkI4KDk6HopGTp9UBOhwJAD9E1JgY3Ya0waLqjSVhZXoRGG+CoCeaf7943/FnZGYEQs=",
+  "URL": "https://github.com/x42/jack-stdio",
+  "LICENSE": "GPL2",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1574363674",
+  "PACKAGER": "David Runge <dvzrv@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "glibc",
+    "libjack.so=0-64"
+  ]
+}

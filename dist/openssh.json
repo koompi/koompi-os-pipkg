@@ -1,0 +1,26 @@
+{
+  "FILENAME": "openssh-8.3p1-1-x86_64.pkg.tar.zst",
+  "NAME": "openssh",
+  "BASE": "openssh",
+  "VERSION": "8.3p1-1",
+  "DESC": "Premier connectivity tool for remote login with the SSH protocol",
+  "CSIZE": "913223",
+  "ISIZE": "5492567",
+  "MD5SUM": "fd4ee53f5f88410092dbee0605228a4b",
+  "SHA256SUM": "8f82fc4b9886aac4d045e99088cdf2fd2f89b167f9015a0cb0fbdcbb4b09554a",
+  "PGPSIG": "iHUEABYIAB0WIQQaYNxEJF0G/vkGI9bu7uLu7i7u7gUCXs4QNwAKCRDu7uLu7i7u7lCoAP0edfQdvIvf/dqHo6L1XYrW4x6yQgQBkPU3YLPYdKcwIgEA1Hz4PRVbGyqE+2scKDmg9yBrAW5RofFWN772hq88oQM=",
+  "URL": "https://www.openssh.com/portable.html",
+  "LICENSE": "custom:BSD",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1590562644",
+  "PACKAGER": "Gaetan Bisson <bisson@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "krb5",
+    "openssl",
+    "libedit",
+    "ldns"
+  ]
+}

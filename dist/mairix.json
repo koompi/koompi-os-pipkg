@@ -1,0 +1,24 @@
+{
+  "FILENAME": "mairix-0.24-2-x86_64.pkg.tar.zst",
+  "NAME": "mairix",
+  "BASE": "mairix",
+  "VERSION": "0.24-2",
+  "DESC": "A program for indexing and searching emails",
+  "CSIZE": "88396",
+  "ISIZE": "190734",
+  "MD5SUM": "27f7987c31b1ab41aaf5fae0a4087f53",
+  "SHA256SUM": "6ce13e59c62026910606d41b7b0d69a3fffd5a0a02c181efcd64b4ec2afc2aac",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl7L0IQACgkQeGxj8zDXy5JhcQ//aoUyPO1lHkQaLPiDla3GWasGLVEGgfq2PsMZWM09r5xj0td4l07wa/Z3xW1V5pPycKmdvIE5je9w8lwOS+HfuimcQ1M75X3ts+1GeXN6dKRfDmVK1SY18/gBADItOyy2AAwRKlMq4daaeRmOE3ZTfnToPVJDJp0oK+GEhREq5/a6TNLQ2sP6JxUoJ1duR4JJ4dcyfUVJOkP90MbaDJXvymA9T6DTPDcan0ELlwq74aBy3fIJMGDkRFcQ9Oh06Dn4ELxDFsFCJmsxjbtCBzobnGaJrcpwyOUpYKjONblDm3+ByzVhOVVz1FvnVr5btp7E+5Te+/0eZWpVTF/PEddpfQF+BFKRROrBcFD4Wng3EYckunEaOJ5Ll7/xMIh64kPJ9fceH946KFoqhM2UGg9eeUPTQuWcb7K5J3M5zeMM7qYXmuaWao0+s/XHdspRYuIImhBh4IF9qah+4WW7ZGCptH98ihpZMFOfDWS0qQYAJRrUfdGcQBc15Oq5bEFzf6q1ZzIr0FL9Zm3GzJOX4kDRPs69jDVsh+Mgsw5ImES3jxlIXFwkcvm9e30RIZ7KUeWxcxPXkpHgSSU6gcLMMZu4FWLdffqudQpQ/DJp+TFO6tZOdOF4k4Sx9MyRnP6KMJw4wVyakzKJneqZbWZtk1p85W81jl97e+MFqid1I8TJ3mw=",
+  "URL": "http://www.rpcurnow.force9.co.uk/mairix/",
+  "LICENSE": "GPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1590415293",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "bzip2",
+    "zlib"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "FILENAME": "alsa-ucm-conf-1.2.3-2-any.pkg.tar.zst",
+  "NAME": "alsa-ucm-conf",
+  "BASE": "alsa-ucm-conf",
+  "VERSION": "1.2.3-2",
+  "DESC": "ALSA Use Case Manager configuration (and topologies)",
+  "CSIZE": "35137",
+  "ISIZE": "149125",
+  "MD5SUM": "cf4ea1cb502e56eb4c153086167568d3",
+  "SHA256SUM": "87350adf3275f5478e9f58db230d915efecb104128a237ee9654142c6a2fe34d",
+  "PGPSIG": "iHUEABYIAB0WIQTH54SUZv4jWDQ1iDdyWHNLQcMVSQUCXupaAgAKCRByWHNLQcMVSbCVAPwLvdgW0jYjwJkALq3j4sXVaksbnVbpLcxoqQHG4m1h3wD/bVUQoFtrAK62nK8eF+dm3qETeKCOS38AS5sOw2m71A8=",
+  "URL": "https://alsa-project.org/",
+  "LICENSE": "BSD",
+  "ARCH": "any",
+  "BUILDDATE": "1592416407",
+  "PACKAGER": "David Runge <dvzrv@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    ""
+  ]
+}

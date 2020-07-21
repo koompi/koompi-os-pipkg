@@ -1,0 +1,30 @@
+{
+  "FILENAME": "labplot-2.7.0-4-x86_64.pkg.tar.zst",
+  "NAME": "labplot",
+  "BASE": "labplot",
+  "VERSION": "2.7.0-4",
+  "DESC": "KDE Application for interactive graphing and analysis of scientific data",
+  "CSIZE": "8329882",
+  "ISIZE": "21902645",
+  "MD5SUM": "740fec27c165571ff1b1fa315254afe3",
+  "SHA256SUM": "5683661228688d404a8bf0f65c78bd6139634f4f4f8c7adfaf15ff5016919754",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl6r//wACgkQeGxj8zDXy5IOow//W2GE+Q7AmWXVVmwbhfoERlmDptneQ5CawyhrCb/lniiUktlTMdj7CJaca7kDp219TcGSmMnFffcNTu/ut+ZYY31ovohpLpbWS9eFpKAza1zfC+8IDa1LYu9U6ctX9GvyIxE754EcsMXD9SGn4pbQwHoRb79Jtkav7nM9e/+EnudTwU0h+R2q35NF/vqZsoYXQMLgf/iUUS/F1wR8BecBSTtkQ6sVdOK51TPjq67dkqhH74Yox5yOUIkKuuY4Uzai24HPTkNH8OpgYmcEbc5xrszy+QhdW2cJD0rfsqdzMXqRLs/5PA0lgfpFrPH/1Wv8W73pRJrQPDswzp00JX4SQBibYG+BPMqsan6FMaBxYWqhUhRQfiq5TX2t4/IKGUWtPlGpoPyY+GlOxUDMb78PsQ+EwWzws6L8OVYwI9s0PWS4HXmMrCQMfuqDHBRX+LDHNUe2xhFTnL3GCjFinlrXcC5JeTJUs9yQbkTTc1hKwIWh+bW0RlLn1le4GtQbouFcEXYI71DqP7bAlQ4imuIzGEV1TI/tavZPKGQI5tejBWsXHEAV1og1A3bBImcPBaqjIsHtqIDNznpf2nJBEjeHNcG/bkwNIiIqbU/h88D8aCoVMUn/wTQElqKQss7NG8bJWai7AbUHydCAiU0fuXeH7we1WlRJDKuFRMPaljLOvlU=",
+  "URL": "https://labplot.kde.org/",
+  "LICENSE": "GPL2",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1588330202",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "cantor",
+    "netcdf",
+    "cfitsio",
+    "fftw",
+    "gsl",
+    "qt5-serialport",
+    "libcerf",
+    "qt5-mqtt"
+  ]
+}

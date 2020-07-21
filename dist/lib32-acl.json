@@ -1,0 +1,24 @@
+{
+  "FILENAME": "lib32-acl-2.2.53-1-x86_64.pkg.tar.xz",
+  "NAME": "lib32-acl",
+  "BASE": "lib32-acl",
+  "VERSION": "2.2.53-1",
+  "DESC": "Access control list libraries (32-bit)",
+  "CSIZE": "16552",
+  "ISIZE": "34816",
+  "MD5SUM": "9e8d216aea4faac413f162c6943ff461",
+  "SHA256SUM": "d4146f14991b05e89fb7714993676b5b3004476e97cc6f01ee921f5539c93cd0",
+  "PGPSIG": "iQFCBAABCAAsFiEEAv0cepNOYUVFhJ8ZpiNAdEmOnO4FAlsv91QOHGFyY2hAZXdvcm0uZGUACgkQpiNAdEmOnO5VQAf/eeOM54LCpQJwOmbNONFxASQePa037j/2U7PT7H3K6B6ix6iXqJlQRV7uawtiv6BCIc56TpMzNB+OM0XxoZQi2Bm9vZLZ8jIecNURVu/aObfuDT5nHdZqbSH0S/8LlNgEM5f6H+qCzW9Zp7GJqfFa2gZ5dbhr29y9YjSgXyyuibYbBosWzP96cn+8r8bHb14BPFEsB/RPaGSS9xqQ/FfP62X/PR4bzBIznOhpwFBdwYbAQt1f700Pm08DWoGA78QiaBTUno2wURcL35HGBIR2BtgRANlHZYRWcBp74a4+bCdcyt9yN+CUs8HomtoHpQ2Nc9mEjrCdxO4QSBasHFoyQg==",
+  "URL": "http://savannah.nongnu.org/projects/acl",
+  "LICENSE": "LGPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1529870086",
+  "PACKAGER": "Christian Hesse <arch@eworm.de>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "lib32-attr>=2.4.46",
+    "acl"
+  ]
+}

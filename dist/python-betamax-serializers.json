@@ -1,0 +1,23 @@
+{
+  "FILENAME": "python-betamax-serializers-0.2.1-3-any.pkg.tar.xz",
+  "NAME": "python-betamax-serializers",
+  "BASE": "python-betamax-serializers",
+  "VERSION": "0.2.1-3",
+  "DESC": "A set of third-party serializers for Betamax",
+  "CSIZE": "6492",
+  "ISIZE": "10960",
+  "MD5SUM": "33f273573b2543f42aad9eab199c534e",
+  "SHA256SUM": "fc8b491eeba021196b7a323a6035ead0c62662794fb4248e746469b21c78b506",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl2/wzwACgkQeGxj8zDXy5LcYg//cOQiVptuE0SGa23gCmfhQdy9aPMVd0RiL0u1cUrSsQHYp0I3aUmE8sitiUm1sBsKQ1+bMaEeiT7azrVB5eUcnJi/T3t5UfanuEnVguo63SjgHzzap/bro2rWdhKvFOch5cOgeb9rQmGtEe1Drs8ujgUoKqAlDfyxJjCLOZ1YKRdzv+EPDtMS5Y19UyZl4U8mtNNtXTiQaZf++aVrnYniaDRIuwD7jrc9oMII4i1ctuCGtb9C+6A+D7tXbl9W4waDoeyCmh/CxG0K0UI5rjHQGZeXPBNmmpcvZQzT/PYBDQgcTJQZzYWqwqZ4twSeDboJqdxXMI5zpQOF2cXiPHhHCZsrkLiNtvNEO1rQYmzNnwBGRfbcFjeFqqhBmCNSBPzhdtNyODtjHn8gK7n13jSgyFIubegFWerVlbsRcCpiRXfnNyHq84qsTlRmg/KGbdnLDVUMb3rRlauxhe+M83+q1wrolbtuiJARbRPuhQ09GBZFflXPz7mqaYdcsZvRz1TV/SXP3WJXFKO33M2yZyKAPLCMKNpyrxu61ddijjX/+4hAZ3Df0F0CRz452thduOPAKVU/3QYmEP+ItSsT4VIc33zXXdhfc/leEPPo0c/VzpsIA750jCaz/4XAE5YJXGlYnaIdQcdyd2+6i1ZWEoJrTF4emH4eflkLEanh8/iU4kk=",
+  "URL": "https://gitlab.com/betamax/serializers",
+  "LICENSE": "Apache",
+  "ARCH": "any",
+  "BUILDDATE": "1572848420",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "python-betamax"
+  ]
+}

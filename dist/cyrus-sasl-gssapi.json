@@ -1,0 +1,24 @@
+{
+  "FILENAME": "cyrus-sasl-gssapi-2.1.27-3-x86_64.pkg.tar.zst",
+  "NAME": "cyrus-sasl-gssapi",
+  "BASE": "cyrus-sasl",
+  "VERSION": "2.1.27-3",
+  "DESC": "GSSAPI authentication mechanism for Cyrus SASL",
+  "CSIZE": "25729",
+  "ISIZE": "77480",
+  "MD5SUM": "d33d8121eb4036caa86fa788d90d5e0e",
+  "SHA256SUM": "16d3b0949b2fd65cd1be068cebe6d208fc5457595c6f21616626c202ac67b964",
+  "PGPSIG": "iQFIBAABCAAyFiEEZkWwqMcAXnjbHXhk+Z/+D+rpmb0FAl6yhcMUHGFsbGFuQGFyY2hsaW51eC5vcmcACgkQ+Z/+D+rpmb2m/wf/c0bgW7bpwC3LljKr5XmaVHbtGQ1wv69xGiOc0Q6d/2Lnid9aWcNLF1e5nMGKLl0YiCH+bh1RWeHu4VJhX+dFudaqIL/bRP/9X2B7LrTZgURCCUj0w9yO2TZCIHavXAgNcb85RItpJr2kwNKsJrGti0Yt7XrD4QjjNteiuTLuvL7PYfUTS05ZjbuoupgLLohugo855WkaoIMeeARv9kUnDjDeHK9LBpVPMm60P34OLam1r6mDDIU6UPabOsQQ9idvlwxyWYXeE+qXNwMPbG2dD3xsESou7wqkEwPZZmP+SDOwRqVGEn6sLjaKK4YRAJtepp2z11cM1b7Y+FHVY0GHuQ==",
+  "URL": "https://www.cyrusimap.org/sasl/",
+  "LICENSE": "custom",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1588757693",
+  "PACKAGER": "Allan McRae <allan@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "libsasl=2.1.27",
+    "krb5"
+  ]
+}

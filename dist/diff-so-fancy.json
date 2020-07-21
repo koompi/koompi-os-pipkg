@@ -1,0 +1,23 @@
+{
+  "FILENAME": "diff-so-fancy-1.3.0-1-any.pkg.tar.zst",
+  "NAME": "diff-so-fancy",
+  "BASE": "diff-so-fancy",
+  "VERSION": "1.3.0-1",
+  "DESC": "Good-looking diffs with diff-highlight and more",
+  "CSIZE": "14901",
+  "ISIZE": "37918",
+  "MD5SUM": "9fc8894a1ac2aff4dcf8786e60ec1477",
+  "SHA256SUM": "8944909e1a3f85362f91d286efd13cc75b3bb7b8daf30bce61aa1d47b0c14470",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl6mA7kACgkQeGxj8zDXy5K+YBAAiDlPUxQ92kJ3VU1wTqC9Lxs1g4I8qa2RsO5uEP7T3I5OZ+pBJhLseMtQb9RcHFPaWw0Mn8sOEtZHp4cV6dztD9zPmjTbbQ25O0VN+fBslMShXvia+v1+SiLyx+Z7pYunzlV8dwbzZAwcKeGQRu9m2j52MRX3MWPSjE5pGMBFWYDiLRSVM9SPu4OrLemJyXJsjw0+96tKA8Py6zmuxqXckbYio0Xc8oMO+B0j2lRx0XogZMqCex758ijO6Xd6zaHezObJDfTXu6gPMdooo/+vQYKF1438kVrKJVmJQLuPSyXNkGpguqTLj5IIjmiCxBV1u5lBMYqreF8K9ddCzu2f8n2c/TmpqX5x8YK6x2sEqdsOpET5Y1+QEfMtVGUZJMfqzH3Wt3xmwB/jbKYfhfVjYwJDSuFd/bZebHXES5U7SIwQEeWTWdoWyRv8egH62uCmLC2dUsFvYL7zXb637B7GMwsITQObW/hqy/sHBqonw0sWVNocH6pBz/UeZeNsWas7FM2qcfSsrcQ9qRRVM/Sv9zhEtZxeDMAT1smhvgrEm3+e8x7jWMKFjaNrAy2KLPTzoUs5Uo/MQEa46VPTqEzlOUlIJt7oAhldTHk/E+06gj5/Ct/2xHByWNMMTi/ZdqPO29P6zsNRjtc+VhE9vDU7RJJ0ppBi8pqjuLnvg8bTPiU=",
+  "URL": "https://github.com/so-fancy/diff-so-fancy",
+  "LICENSE": "MIT",
+  "ARCH": "any",
+  "BUILDDATE": "1587938163",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "perl"
+  ]
+}

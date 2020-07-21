@@ -1,0 +1,23 @@
+{
+  "FILENAME": "lrzip-0.631-3-x86_64.pkg.tar.zst",
+  "NAME": "lrzip",
+  "BASE": "lrzip",
+  "VERSION": "0.631-3",
+  "DESC": "Multi-threaded compression with rzip/lzma, lzo, and zpaq",
+  "CSIZE": "235457",
+  "ISIZE": "808224",
+  "MD5SUM": "f21a3ed3ff989146a96c89369d9ae72b",
+  "SHA256SUM": "6bed3157155bbcef1b392ce29d980945ccdadde888f9344649c893fd89a3869d",
+  "PGPSIG": "iQIzBAABCAAdFiEE0jW0leqs33gyftiw+JPGdIFqqV0FAl7ByFEACgkQ+JPGdIFqqV2TlBAAtnDsnU6Hp0s78YsVOlhfksG9eehspga6Xl5erPbjnsO7k5PfkPv14SjNfu+DCyOZHo4gXOpHFq+wN5ltbdNJIPxGvIfZCaVofrANlUDXYit3cfGn8kzr1grZC2dGlkvB5SIU7jB0hoe6K6UDDZJSuOH9asr1d7xDS84zMSV7xWFVv8HUv8RRgKu4RkiMwzuBYAR2tmpq2dnI5yu7GIg/F4rHaPlVvYPIeDHFlRaHvZiRHW6h/NKovp58IUM0GbipBN2kVvPCu5n7RDVcC/ETQoeV4o8fd217z5sleqG8IVKJLgnnTpoLWa+nQPoENoyDXzf0TTYcIrAlLJLww7KywGTQCatzrblU/N1ffMpkcOEUtXQUsUVgTlhaqVqJSggVEV8SgSRBpdipvIfnqEOMyGf/Y73xYJLLorUbVunQHk2/MAfsUcN775PMGnFDQ2Gttl6DNnbEb1gvmqo60hXIuu+q5k27FRvMC3FB8ZPe3s9Q/wjX4ErhOUxTSzClYS5SXUvRHWKfDZaoX8373YrFpmzbHbsqOEZKya5NphCGr/gI607h5xXtXTBsUf5agJRCYmVjnw+OIcBP4uQhaavPJQU4A68YlZVuSCY9k0KwOrbJu/iU4qNxKUvCeae/qJQJ1yEopt5oMDnpTIQbLjfbjw8NBkf7b+WjC0GmAozu5zE=",
+  "URL": "https://github.com/ckolivas/lrzip",
+  "LICENSE": "GPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1589757975",
+  "PACKAGER": "Filipe Laíns <lains@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "lzo"
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "FILENAME": "libgit2-glib-0.99.0.1-2-x86_64.pkg.tar.zst",
+  "NAME": "libgit2-glib",
+  "BASE": "libgit2-glib",
+  "VERSION": "0.99.0.1-2",
+  "DESC": "GLib wrapper for libgit2",
+  "CSIZE": "268017",
+  "ISIZE": "3111707",
+  "MD5SUM": "35871c4f55e3839af1dbc812bcdcb3f8",
+  "SHA256SUM": "4d6b764506f4ae078fc42049671123fa40e4f23421d19a20cde934dcd146391c",
+  "PGPSIG": "iHUEABYIAB0WIQTH54SUZv4jWDQ1iDdyWHNLQcMVSQUCXoUC3QAKCRByWHNLQcMVSRkBAP9A+x987FIZwE/9JzzQ8h4J/CNhMCMZntu40Nlb4mNQWgD7BwOr/pW4UPMZntB9e9F2JEPGvznRPKcLplESPGt9Cww=",
+  "URL": "https://wiki.gnome.org/Projects/Libgit2-glib",
+  "LICENSE": "LGPL2.1",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1585775216",
+  "PACKAGER": "David Runge <dave@sleepmap.de>",
+  "PROVIDES": [
+    "libgit2-glib-1.0.so=0-64"
+  ],
+  "DEPENDS": [
+    "glibc",
+    "libgio-2.0.so=0-64",
+    "libgit2.so=1.0-64",
+    "libglib-2.0.so=0-64",
+    "libgobject-2.0.so=0-64"
+  ]
+}

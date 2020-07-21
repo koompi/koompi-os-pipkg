@@ -1,0 +1,23 @@
+{
+  "FILENAME": "python-diff-match-patch-20181111-4-any.pkg.tar.zst",
+  "NAME": "python-diff-match-patch",
+  "BASE": "python-diff-match-patch",
+  "VERSION": "20181111-4",
+  "DESC": "Robust algorithms to perform the operations required for synchronizing plain text",
+  "CSIZE": "33534",
+  "ISIZE": "150906",
+  "MD5SUM": "225fd4ee26a14b6c0644997cf2ca7b93",
+  "SHA256SUM": "26ba8675af4ebfef0bdbfde2f9eeaa9a8bc70fdd5713149f6a14ec26dfc2a653",
+  "PGPSIG": "iQEzBAABCgAdFiEEado014/g79WWrG0EnYk+xNqvkSkFAl5P7pwACgkQnYk+xNqvkSlYoQf8DN+xb11CHRvCgo4mgrmojw+mw+6GRj1NYrxMy+q5MTbbM+YMJlhovj40FTMCyyDZtGJndtot3ZUv9CSBRPaOWpLbx8vbdnfDIDug3SoxFEd4O447cb5tj9sWss2tqyfDX7DYPI2xL08wuWPMOCgaa4Nc6vedwV56fH7NrURFpBSzJeuzFSTDej30bsrf3avI+GnnmzIzG1p0ycBIq7KbQQFllO5abv47uOc9xJ/NufhWHotuTOFqPrtaMtNyvrF5fSawVWxqV3LIjUMwePAIg5KFqE1PbBLkheZXNwfAbtOVkR2oybINFRFsBivxHlYt/Vo9g7Q5Ys1vfQ9e1uXd2A==",
+  "URL": "https://github.com/diff-match-patch-python/diff-match-patch",
+  "LICENSE": "Apache",
+  "ARCH": "any",
+  "BUILDDATE": "1582296675",
+  "PACKAGER": "Bruno Pagani <archange@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "python"
+  ]
+}

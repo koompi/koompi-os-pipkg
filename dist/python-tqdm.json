@@ -1,0 +1,23 @@
+{
+  "FILENAME": "python-tqdm-4.47.0-1-any.pkg.tar.zst",
+  "NAME": "python-tqdm",
+  "BASE": "python-tqdm",
+  "VERSION": "4.47.0-1",
+  "DESC": "Fast, Extensible Progress Meter",
+  "CSIZE": "90679",
+  "ISIZE": "419287",
+  "MD5SUM": "286a565fbc3fcd286e49e6828fd9f3bc",
+  "SHA256SUM": "e2dcdf8b312da52da996fe75304fe35e316829392ce01eea018d05bff134e698",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl75oGcACgkQeGxj8zDXy5KhFg/8Dy2rid2Zw9vyjdhUkyWiJDiu8RmhMgCM/ANFKeoJn8rtGEx0Yvv3QTcgjgEuDNQpxzPVJi4McIo5uIEHvNUitIIh16Bq/RqiR4sO9nht32juqYuyn5l5SLYNRoYuYhftKP4d03rC4M/tolHdfHVLMSdGHtxrVcfhU/tB8GqaT4ACBFKXk5EWR/kVgUYaqB4ZofHLZTDPhLEWRe3VLYfWTFNjrYVW+pCenmUjofNbIBY2Sw9tiZ+h52bsATLbiIP6JI2UU1fOLL/ReyRCcpCuLA5CjGiuFKdLGExrcyO0MHYR9R5FTJeCDyTFmLpSaYpBvO4E2p0vsi1FVCL/Pz9vxjLfo1hmf96NoQu4DXfFOEkioEbc8CY//CzDKMozSENgOD4USr+WEZeS0FINVLX92iisw7ck0yo8dZ+tJ/aIpGI1up2Rdrf1OhxfEv4mW0/TrAci5HXMRIGrWbqSfM47iea/WP7t9zTQ2rs+OS+SdDj5oKuNdNPoCtKydEgkneobcx29rOSu/vzHoBV6Rg/jh/cTUBk2V4tM1bdYNgf5WaujLT5RLiVD7AdS8jDlpTzru91+ObkeCpSU3os+WQkbcYRhLU6mFJmobL5cyQJH1YphmUKtqIN5+6E49ep25uP2LxI/BBIxiEUJroPEZE1XpKE8bG4j+ecAFGuM9/ywS+4=",
+  "URL": "https://github.com/tqdm/tqdm",
+  "LICENSE": "MIT",
+  "ARCH": "any",
+  "BUILDDATE": "1593416452",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "python"
+  ]
+}

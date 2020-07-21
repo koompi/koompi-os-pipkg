@@ -1,0 +1,24 @@
+{
+  "FILENAME": "hardlink-0.3.2-2-x86_64.pkg.tar.zst",
+  "NAME": "hardlink",
+  "BASE": "hardlink",
+  "VERSION": "0.3.2-2",
+  "DESC": "Replace file copies using hardlinks",
+  "CSIZE": "13614",
+  "ISIZE": "33360",
+  "MD5SUM": "70aa9fbd7232301e7b093ef26c8fe126",
+  "SHA256SUM": "7ec325226efae2b50c615a26ee870569f155357578a973296c85764926d898ec",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl8EkbgACgkQeGxj8zDXy5K/vxAAsILoWxxjl3EFdDHOqs2XaIuFu/YwUDOvcrY7HVnHwOjzYYtm5m3KiuIc+v0rTY8lcnYerpPYwJcDMf1c9WIS+DN1f643st30iRnQnu9XDZXyh5i3KqBYMs0PpgctKGL+FYfmQ8oEGVNWfsLP0egUp9ElxdFhTlMwJcaKZnSSdiE/JcXu96cFk8XCRhlGgE0f8ryBQIkDoRYRlRIanWkcOyPBg6XGRvQ32mQf5rHRaRjWT/SUUfMu/dyd/kePyf/p+4BcQZd/U2zHr9fkghx7kKf2WVGhSeeYUhGCe3asey89XBE1BSWzJ5Wai9/A3Gaqc9Q/e5HB47t14iHEwyFDIrB48+zlGv2o5XlVx40/fqmMWoLGXfXnu8jzxCalgRy05Q44oM2nBKf9sYbsJ8G+A5AfvKrG1VVNufRXvrYZTU5cPU6tKJN1I0uYpYBTzTCbUjb7f5D9PocxH6QtVgR6ImC3OCqZPzSaO6Cotp7WKdUb8dVQzpiIRE55ZnqRKVgxUmUZzVt9SE6dOVHJMLVw3Q2KqMYyRWrh+HcDVMMd/AqJFgVncn9DF5Fpv4ctbn6lkzhOxwRHyHg/0E6Ch0TS8c/Yt5cWb0oFVAujUKSUd6q36cVAsYULnguIghSsgD/bHyAez8cHc0Bofcr90JS73d3HCN4OH5ferZRsmfty/WU=",
+  "URL": "https://salsa.debian.org/jak/hardlink",
+  "LICENSE": "custom: MIT",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1594134952",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "glibc",
+    "pcre"
+  ]
+}

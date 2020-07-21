@@ -1,0 +1,24 @@
+{
+  "FILENAME": "pyalpm-0.9.1-2-x86_64.pkg.tar.zst",
+  "NAME": "pyalpm",
+  "BASE": "pyalpm",
+  "VERSION": "0.9.1-2",
+  "DESC": "Libalpm bindings for Python 3",
+  "CSIZE": "47344",
+  "ISIZE": "180041",
+  "MD5SUM": "86e8ddee57a351776d68cde790853f86",
+  "SHA256SUM": "66db8f6ec3ea7c9ed5bc78392d13597cf92b84b336f31317df57478a59d93503",
+  "PGPSIG": "iQEzBAABCAAdFiEE5JnHn1PJalTlcv7hwGCGM3xQdz4FAl4y/90ACgkQwGCGM3xQdz4Y6wf/Qy4Qn3FBrPKz9EDh/dVGIgqGWKB7H1Sbva91KCTMiTCol8Go3bfqSoR9SHLleutMqlAXuLW4Tpl/Z4pS8udKUC09Mt/H8u27fpqfTEHyblMKoTBJ8RK9UR72DW1fot7W7q6vQf6IF8j1xCtsoWT+DxPaUekGBpKdgY+kPvLbXHFZW/fecCWrfN/8pyyOTBwi/2KuYoMCqlFeUuhSthPHMkd8k74K013LNnuH/TioANDHR8lKPJrKvPJ5xdosMEN4KaZZvxYlHfiE3iGreppmBODdCN98awR6oWNBgyWS4U5BjAPA9zlS20ltYhykOzPNFgKsMU+4fY65FF9M2jqlpA==",
+  "URL": "https://git.archlinux.org/pyalpm.git/",
+  "LICENSE": "GPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1580400402",
+  "PACKAGER": "Jelle van der Waa <jelle@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "python>=3.6",
+    "pacman>=5.0"
+  ]
+}

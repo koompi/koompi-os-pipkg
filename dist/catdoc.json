@@ -1,0 +1,23 @@
+{
+  "FILENAME": "catdoc-0.95-3-x86_64.pkg.tar.zst",
+  "NAME": "catdoc",
+  "BASE": "catdoc",
+  "VERSION": "0.95-3",
+  "DESC": "A convertor for Microsoft Word, Excel, PowerPoint and RTF Files to text",
+  "CSIZE": "84677",
+  "ISIZE": "629362",
+  "MD5SUM": "19d54a9ce9246678d9e241ea66de3092",
+  "SHA256SUM": "c364990a0367893147308d6d0bb5b2a24f47dabc172d605d8afbd01a2380a754",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl8ElRgACgkQeGxj8zDXy5IT0g//Unsy9SYiwiprlYAwkeP+XeT3nyzewCDopudk8CFhennt6hIAYXEwZzcGpPPcpPXvinmDO8PTkAu5yuPAeKUOL60lje+8CsVde87R2Za+USGNhg6otHAhXqAS5M1TZIEUafqqFuqq1pxwy9fO49kA+6XsxVC8HgCKWFQET7dFBnw1ectex2XytiPhIOFYQO4w2nLnBt1f6kz9G8gLeX+3t8CdrmtIJW9BEoKguDvmJ4oKU0VkeI/QAOvrYa7p2dJP4RXwCwbkoDQu7pRiOhfbj/GxrgmVfm8LBud9sGXRbRAh1yb8QxMku35BFT1DX8Aq2vEanWbf59euYUqgqVb+p73T8SHYQnW0QE4QyZmwHulSzxnZoazQRPtFHVKXalWjJh7KR1+mZzCDB8h7/5TUA4kMQKCTx88tOWrYeKxMimc4lbFdsSAfiHVSxGblbhyN7lLvtQmgthU+g4SINov+mTYpW1X0ojONgsgF4JRygZS4uCzIdyeiGYx1V/lx/8GXSaGNxIDva/pgSmUKzE9oQ34pJRqWPaVyz/jj1OZSgqDzWfj6YmnBWIzWbwYEPSYhB3Nucm1cuecd444OkuU5xociFtOiFI4BHkIhfhA+9dd7uKELKI8ZSB5bbwVk44gNSFxea/LCF1+54KvpTngeY1FZkks9b2+h/g/UkkENHVc=",
+  "URL": "https://www.wagner.pp.ru/~vitus/software/catdoc/",
+  "LICENSE": "GPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1594135810",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "glibc"
+  ]
+}

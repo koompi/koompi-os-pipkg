@@ -1,0 +1,29 @@
+{
+  "FILENAME": "kvantum-qt5-0.15.3-1-x86_64.pkg.tar.zst",
+  "NAME": "kvantum-qt5",
+  "BASE": "kvantum-qt5",
+  "VERSION": "0.15.3-1",
+  "DESC": "SVG-based theme engine for Qt5 (including config tool and extra themes)",
+  "CSIZE": "986209",
+  "ISIZE": "7126134",
+  "MD5SUM": "8a21596651b547288e4e6eeebec2858b",
+  "SHA256SUM": "7387f632fcaa52365ca7ee96ef6633b3b1d155555e746ebda9186cfb84f831d9",
+  "PGPSIG": "iQEzBAABCgAdFiEEado014/g79WWrG0EnYk+xNqvkSkFAl65nvQACgkQnYk+xNqvkSlikgf/bOk26j9eOBNhlfNpa2rffC8yBJox6VK3G7j/Z3TR4+64an4l6gTE8O8mrXYPcVTPi+07Gbixi33AaeeiQlYFq6/5xt0cDB19r6CEsXxMVjyLRoygW/lJTg/HJ9U721bHsOlVbNLjAsU2tlXT/tYFRNXr4GeLu+/NhQtwQ2oL7A7IZWXQXvJOI6BrjYMUtjF65EXAWrUSiw+peanVRaNeZ4v9nU00ixkLJDWkk58LxGXiX4/ruaLaQZjfSY2Q9G8D2kWzCfnz3d42CsQomGcvn6FUzD/k5cJBgPL13IVZIyNIH2gZ5tz4Ci4j++Ww9lMTSe4pMCPTFynNppTgQl9GKQ==",
+  "URL": "https://github.com/tsujan/Kvantum",
+  "LICENSE": "GPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1589222932",
+  "PACKAGER": "Bruno Pagani <archange@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "qt5-base",
+    "qt5-svg",
+    "qt5-x11extras",
+    "libx11",
+    "libxext",
+    "hicolor-icon-theme",
+    "kwindowsystem"
+  ]
+}

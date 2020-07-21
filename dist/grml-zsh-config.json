@@ -1,0 +1,28 @@
+{
+  "FILENAME": "grml-zsh-config-0.17.4-1-any.pkg.tar.zst",
+  "NAME": "grml-zsh-config",
+  "BASE": "grml-zsh-config",
+  "VERSION": "0.17.4-1",
+  "DESC": "grml's zsh setup",
+  "CSIZE": "43711",
+  "ISIZE": "140856",
+  "MD5SUM": "9a24cd0983feb184909b10b5a3e9c6b2",
+  "SHA256SUM": "d8abef00f88d7b40f22db11aa0ef0b1a48acb3bded464013f41b6d65b7d5cb02",
+  "PGPSIG": "iQEzBAABCAAdFiEESqR2e7ycSx0Yrii3fy1DS5dB6KwFAl8IPYYACgkQfy1DS5dB6Kw3cQf/RplT+rYJNIpzOZfIuZvPVUb8G7IXGc7tMvBomQBCMptyDRlXGJNH/L/n/o8MZEF/sJwDIebOwIf1RnNTT0FcuvgE5fDTzt7Z7Vx1n7p0wPZshkVg+ntsX54ChXkj5bFjqa8JjADPQ7GWC0B57zeY8gY7+B1boRWO+8XoShawdu7n9ob2Nlxenvvr16/tnr4dd+FaMs6wtC1UfVmFybtV3+JRrpRDjcZgdk4FR9rVYTUQ62lhgZl0ZfaNrfEWFfeOcAzOZoc8Q1wdatSacqJww/xguJ7YgcF9XW4Kt/A5gMgdp0CpinI9fCVAM1HUwiksTrCH3NaA/eNBeel058umTg==",
+  "URL": "https://grml.org/zsh/",
+  "LICENSE": "GPL2",
+  "ARCH": "any",
+  "BUILDDATE": "1594375550",
+  "PACKAGER": "Pierre Schmitz <pierre@archlinux.de>",
+  "PROVIDES": [
+    "grmlzshrc"
+  ],
+  "DEPENDS": [
+    "zsh",
+    "coreutils",
+    "inetutils",
+    "grep",
+    "sed",
+    "procps"
+  ]
+}

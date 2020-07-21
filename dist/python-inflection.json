@@ -1,0 +1,23 @@
+{
+  "FILENAME": "python-inflection-0.5.0-1-any.pkg.tar.zst",
+  "NAME": "python-inflection",
+  "BASE": "python-inflection",
+  "VERSION": "0.5.0-1",
+  "DESC": "A port of Ruby on Rails inflector to Python",
+  "CSIZE": "11190",
+  "ISIZE": "37195",
+  "MD5SUM": "dff91f5b1fa2d7b6ffad9f247b12e89a",
+  "SHA256SUM": "d3b37bc8d7e79e15131a7af4a8111cf66e80459ec12d49bd7c4bd306a6a27b6c",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl7fFpcACgkQeGxj8zDXy5JMMg//f/FmEt4faAsXhLe3zQAxOkbp+GIpfuWevAoleDHZdByQNAkUY7rp1KhBMQS3Ljuh1cROkgENAMz1ZM5pCLm7EbV8p3zibq64IrPSFTAbOW6m/62fy3g1ptJ2bU3XyMiuzdDmForAPZ7nslO1HtZPbZJCzheQX2JK+Cy56BefQWgBZTW9P5ToqhloniECmKtWg68n6gxpAcXr3Jn6xsmFhEjySbaSvdBIp2rIKcfXSS5dRbyYaGmPvyAmpVQRBqQoHXFD8KytQHGzTMQWBXNR/Ryw3565s28ZQ/y5oFiNHiRxNDMno6XXZPwh+qszJqyE98ZiZlOTuNqMmpPlnWn3klP/rTVmc98rbV0641kZ4ncln3ntVricKmJntpcVmm954vd/1OBxnB/PisTALcjQPUfm/xHmXZB2WxI/JTomSSF8mQ78lMXooR0EbJbHPHQOhpH0fAd4Q7YuOe8Mv4GP5xzvF5vRLG8HQ1KXTsTDVxtEP1u7IGmhZonZ+1Jbm2036RJkyubsSpkKTcq6lpWj9g7mXVwCNUmRZgy0qlySbGxn10wUfm6Sv7/TvP3SWE4fha7sPYfdZufUnDdkvvpkcEhA64niyys8M3sqCgpkZyZ1dybLHKLi4ZfzHajC1QZCJg7fmdVCeU4NiohWb56NAxbvgCo6jttbGc4wZjmvuas=",
+  "URL": "https://github.com/jpvanhal/inflection",
+  "LICENSE": "MIT",
+  "ARCH": "any",
+  "BUILDDATE": "1591678516",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "python"
+  ]
+}

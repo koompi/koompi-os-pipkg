@@ -1,0 +1,23 @@
+{
+  "FILENAME": "perl-encode-locale-1.05-7-any.pkg.tar.zst",
+  "NAME": "perl-encode-locale",
+  "BASE": "perl-encode-locale",
+  "VERSION": "1.05-7",
+  "DESC": "Determine the locale encoding",
+  "CSIZE": "11298",
+  "ISIZE": "16550",
+  "MD5SUM": "97a24449d94269fca9da0e2b0728e4c8",
+  "SHA256SUM": "a7730a1f4d59deb4c0641215f369c1818f8bcfc341715c61457e35389607a24c",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl7vM7AACgkQeGxj8zDXy5LXLQ//V0KmcUhaqyAOwVqHwE8srCRtA555Gsy7Vfb4Y6dKCls2VQpjnWY1ds9M6GldJf62jxGMhTSDeDeij8ee8x/5EJv4SEpIAk6Yb6aIPiWkzLLhBWxkZb0KDFhPmqtdsTj+vMd/GjADz0yl2yH+Di19xrcj4sUBf5T/euxNnCJfJIYyuXiZQImtoO2++pLNSX25NO0n4vX6gDO4cMNevO0Fot/LmcSIfdLrNx6mSXyB+5mxociJKV68Vt5X+l5jeWVwcBLtanHAfMY4ZAcfFNEW5Dvm7dnZUyLcuOgjl1bZEp9ShD8Q6DXethaJu+OuVyaiBr5sZ/iWrsFj4/9nDdcS7H7nhsNZJGTEZQAnRDJK0uxlI4JKN6Sqy/1cO/b6nFASntRYMmYdFmyQCTeSfCR4IhNazQ5DTQ5gEj4EAWlfwLwkDBnG5wPzumCc+YtYgwzZ7NJgoHQZWRy/RbF19rCk+YTiHto34WNyRdLY9SnoqGh13QP4KW6v4lsn/uk5N0lACO6P4YfS9ZMCMMALa4gixFhkqXGslYRwUWMI0maZzpnqIyEn8TdA7fo/5t0DrUk8JyOwZ/LDNaQttxZUqpmf51jL5kaDQ6dh3TRv8DEM0Og8t30KGZMjd4DsRyWj2wxuJ8hnvuEreu3kWYlGkd3jJ1mLfa6cvPIlvHvU5MXhLhc=",
+  "URL": "https://search.cpan.org/dist/Encode-Locale",
+  "LICENSE": "PerlArtistic",
+  "ARCH": "any",
+  "BUILDDATE": "1592734623",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "perl"
+  ]
+}

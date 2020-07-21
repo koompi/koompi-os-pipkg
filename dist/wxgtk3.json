@@ -1,0 +1,28 @@
+{
+  "FILENAME": "wxgtk3-3.0.5.1-1-x86_64.pkg.tar.zst",
+  "NAME": "wxgtk3",
+  "BASE": "wxgtk",
+  "VERSION": "3.0.5.1-1",
+  "DESC": "GTK+3 implementation of wxWidgets API for GUI",
+  "CSIZE": "4830297",
+  "ISIZE": "17742512",
+  "MD5SUM": "d911b6ba2bdc68759eef6723ff88a1b4",
+  "SHA256SUM": "4791233c80394098957c3bdc75458db2190be039ead8aa60ae29b916f4909d1e",
+  "PGPSIG": "iQEzBAABCAAdFiEEFRnVq6Zb9vwrc8dWek52CV2KUuQFAl63sjQACgkQek52CV2KUuRCqQgAjipnEVl3af9xOnYks6X6WYv/YM8PYuU23UyXV1dRcFhNg/lyXxO+GziYOAqnJtiuOmow6yStqGn/2BNqYwIi8eSztM35mUvzpQUswO/0cbrX3uUPxFeMtcS31LvcZDccvv7J2qIdE22gJO6EeZ00XMCKnIxg4KUomq/DLncl8q9itx2ALbi8x84tOVKWnW7T/hn9CcYdG7PkdBwqCfQdOOE2uz/TSlY5xvbW5pjyjy64TLxiGu1EEtrOLUgRD+V/029vCeFcl6jIhpQBGS49Gh6kWnQQNyfloiomruHxlTlykkn3ifQGYqnHgCFLvMbJ36e8lFJg/cr+DgWgNzVVNg==",
+  "URL": "https://wxwidgets.org",
+  "LICENSE": "custom:wxWindows",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1589096095",
+  "PACKAGER": "Antonio Rojas <arojas@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "gtk3",
+    "gst-plugins-base-libs",
+    "libsm",
+    "libxxf86vm",
+    "wxgtk-common",
+    "libnotify"
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "FILENAME": "afl-2.57b-1-x86_64.pkg.tar.zst",
+  "NAME": "afl",
+  "BASE": "afl",
+  "VERSION": "2.57b-1",
+  "DESC": "Security-oriented fuzzer using compile-time instrumentation and genetic algorithms",
+  "CSIZE": "607721",
+  "ISIZE": "2495795",
+  "MD5SUM": "5f6e9eb56ff9b5165f63787278b0d954",
+  "SHA256SUM": "968aa4400c76dad100b7e00e75eb79c2ab01664bc12d99a4ac7290908d0f34d0",
+  "PGPSIG": "iQIzBAABCAAdFiEEkDurc2QOttZVM+/zRo8SLOgWIpUFAl7+AxAACgkQRo8SLOgWIpVmag/9HAljMuV6mfGrKUmw6TbISg+jqexI3HmSyZ/ewkvHemlTZXbWyuoSrt0SyFfaPEJDfG6OaruyXHV0lUMc7KltZaNcIVqau/nO6D69AWerhQyR3u3wuNMmVKiY1NRfzPK8y8UhMrroR305RTQa9Fld65N3FfUBHrpZ3EoKbqI9kc3HCLHqWUjGA2xOugzyNvNQts2HMYR9Ns2hcF4mKMBDh+4AQklh30uCzvr00LBao4EtUBjJjLCbEOQi++zX2MLP5pJsngcHUP3M+UyhNryLNbxX4egMWEi7MgoJ8RhfhTBe/7gj/ChtEB30PJEi4M+UTA74pdT7kyjvFZQ4fZUIt2xMYtWNfhDFM2je+c116fv1r5mwQbXBvSNjdC+coa+HPfIFz6y85k5hOc/3SV6RMpZPR0DNwqF9QHjBt08S1BOTJ2Blcu+Pt+LCRBLlKwG5eqTJNVntZSijdUB/1htq5KZ2Kr8PMI9RRVEwGPbWxLW7DsQQ552/+8dvYvnDh6UIhFOo2o4lI3osAJPhbxdtYRLpE/mMpbjZP1aJbivYXWhwQSBzhzySNMgkIQthOTb/ka1FggpkGuu2qVh3iLnqFO8/IbYEPDAukIxSKzMGEHF/ibQj/Cs1bUrd+a+/5mOzWna9e8mm5E9yVDu2UfGDtiNrGcvU3jXdS712o50UHJ0=",
+  "URL": "http://lcamtuf.coredump.cx/afl/",
+  "LICENSE": "Apache",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1593705106",
+  "PACKAGER": "Santiago Torres-Arias <santiago@archlinux.org>",
+  "PROVIDES": [
+    "american-fuzzy-lop"
+  ],
+  "DEPENDS": [
+    "glibc",
+    "bash"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "FILENAME": "wl-clipboard-1:2.0.0-2-x86_64.pkg.tar.zst",
+  "NAME": "wl-clipboard",
+  "BASE": "wl-clipboard",
+  "VERSION": "1:2.0.0-2",
+  "DESC": "Command-line copy/paste utilities for Wayland",
+  "CSIZE": "25127",
+  "ISIZE": "96727",
+  "MD5SUM": "ac053ee8538dc668ff0629f8eb4683c4",
+  "SHA256SUM": "7eb78518243a65d72da75bef637d4cf43b85626c688997b90977630d594f0282",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl8Efd8ACgkQeGxj8zDXy5I4qw/+M+y3LnhAR0Vup38HaRmhB9ywfhfnBJpy3e3+pZp63/ZfN40Ein4UIAya0pMeeYcsWbOjqD3gUw03qnvLvoihUFd5fKrWm+xaAWwDl+QQIXCcnhoSXducBWfs2wA06+alw1ZauasVbCSbo2TNeBRPgI68WAC9ILKNjrY4Ffv/lM5iWiL50leD07qznskeXRe7FZZnLi2AlRgK5pSnHOKa7RpgnOrruC7T5mB/SCGjOcK0Pb3uUz5uqm0J+49IlTXPHkS7cWyzZYY4PdQX+3If7o1s6nurYK0YeO4zRea7z/ddxOAtbBb4145iLL3R/msdVA6Xa7+3/bBoBWug46aOHVmcjFDkEl5cncS6UL2YgXZEq0M2/PGEnZxjQtTfaUxuxvavH79ZI4/Elg+XzkcQxQmgNS4A6cqQtTEQ0m1jsNJ6kM379Q9B+d4sFi3cegCMWj5aKRQWNsns1ZHuE7vD5fMj2aywUmbx4y2eNlULcaYgZEdIvaQtaRLSfvVCMX1mDHvGhFhxUagC+qb4y24om+liaWkox+LmlT10JSWSVkREEVtoHuBzdIIdSleW9R1zGxGZNAG4iHSkakACMyuxvfgKd3zXXyME0g5m5EgIunoQpFcSn1sK4cKGrrX6mBGIh1hfzCLmnCYiVyK9nLk37lXhUjYg3HAKWIZ3kOX0wkA=",
+  "URL": "https://github.com/bugaevc/wl-clipboard",
+  "LICENSE": "GPL3",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1594129868",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "wayland"
+  ]
+}

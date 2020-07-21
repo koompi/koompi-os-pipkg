@@ -1,0 +1,23 @@
+{
+  "FILENAME": "metis-5.1.0.p8-1-x86_64.pkg.tar.zst",
+  "NAME": "metis",
+  "BASE": "metis",
+  "VERSION": "5.1.0.p8-1",
+  "DESC": "A set of serial programs for partitioning graphs, partitioning finite element meshes, and producing fill reducing orderings for sparse matrices",
+  "CSIZE": "171041",
+  "ISIZE": "428018",
+  "MD5SUM": "707a3c74b4d9eb4d31aafa2b816ed3d7",
+  "SHA256SUM": "907450a362b26b89b90bd653f60aec0c9910b304ec80dbbeb0e83e8b66d830ce",
+  "PGPSIG": "iQEzBAABCAAdFiEEFRnVq6Zb9vwrc8dWek52CV2KUuQFAl5HAFEACgkQek52CV2KUuTHlwf9E58joS/1wjbPAPzGiod5TyHkGKyB9n4ib7qjFEEn49K4xdVeibNnXw4JYRXCd1xpESXJ+bY8JF2wx4I7IQCNWAT+hnFziTZvuqLNo4vNsCP2qSqqwlsamSKNZf8qsDgR+kRtdNbJsQvbLKpEBaYAaqZ/SGEouGYVWzJ2DVv0scLMbis6LzOk2ZMB01kjKbs7PD/9D8ABUgQUaM4q9KmD4Kx62FgKxnaHkPGCuQwyNHhamaSdKasOrJNB+WMtwgNhF7O1t1ijAUV/cryngp7RyZj42O7y1noLrt9qacOMXRPnqhIGGE41SKZqhbY59X9Qmwud0Izpj7FGMkmjEySsGg==",
+  "URL": "http://glaros.dtc.umn.edu/gkhome/metis/metis/overview",
+  "LICENSE": "custom",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1581711077",
+  "PACKAGER": "Antonio Rojas <arojas@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "glibc"
+  ]
+}

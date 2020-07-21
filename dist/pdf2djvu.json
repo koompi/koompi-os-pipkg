@@ -1,0 +1,27 @@
+{
+  "FILENAME": "pdf2djvu-0.9.17-4-x86_64.pkg.tar.zst",
+  "NAME": "pdf2djvu",
+  "BASE": "pdf2djvu",
+  "VERSION": "0.9.17-4",
+  "DESC": "Creates DjVu files from PDF files",
+  "CSIZE": "165755",
+  "ISIZE": "436331",
+  "MD5SUM": "16ace1ad6848686128bb8491d1b95366",
+  "SHA256SUM": "45e8e9913b0cb8891bb2ca126a42f40d33f5956b3f74647029eeee6de90f821f",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl7++NIACgkQeGxj8zDXy5ISeBAAgSC0QOUUEjl1Gdg0+7ZXdictRryzL510TtAjlOzzh/BfcQGzD7z3pq7UxyRn6ntsqhbgvQjKsQ5oxJqZ49z3t7UrTO27JH77aHk6D+zG+vSTNe4Z9WonYRjkCmf6ReRNXN3NNT2G9uoK9uV8T4A8d1YerFFM1tOM8Pycubh1u840SnIvOmmZ9YYFK7MDZYB1WuDfoROBb56NrMWNGiHMX17YCOLU1LWB82xx6/4fKWF6fA2/VTmChN108nZiPN6FcKHbvjUwCRfrEWWrydN2DdqwJ4X/Rx/a8lja+BlN4B+RVoAzSwisZpLfDj2sqfZNdqOY4UmukqwrhHtEthmdXEUJIHR4D94rmRUzshnCf1V/WoyKoPXvoWtBUmMr7ECr4k0QwRcLXhRH2jjhM3CyZg0L3R+/uqKx/1SkH+zVPqYiDCdBFQVARcPRznjLFXyWpGPLs8dzktyDOi6hnwfYL69qVLFRZdiORQDGn2YTkTge8qzX7EzrfRdbjxrfn2vFnlnckcwtIPVc1mlvBqokriiOskcq4C1g3jrQX87cRLt16azNSVq9OuD90LIEa71VAufxnx8m7M1HgeK+JH8vFyWGBur5lQomnU5vj4RE4O0Q9gFuY+Wgm+FoeCBYWXBIKOLQi5PJe8tQH1f7zV1LCpqagZBoF6JbyGJaP4s2xfU=",
+  "URL": "https://jwilk.net/software/pdf2djvu",
+  "LICENSE": "GPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1593768092",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "poppler",
+    "djvulibre",
+    "gcc-libs",
+    "graphicsmagick",
+    "exiv2"
+  ]
+}

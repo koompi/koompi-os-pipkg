@@ -1,0 +1,23 @@
+{
+  "FILENAME": "heartbeat-elastic-7.7.1-1-x86_64.pkg.tar.zst",
+  "NAME": "heartbeat-elastic",
+  "BASE": "beats",
+  "VERSION": "7.7.1-1",
+  "DESC": "Ping remote services for availability and log results to Elasticsearch or send to Logstash",
+  "CSIZE": "15317236",
+  "ISIZE": "63221817",
+  "MD5SUM": "8fbd4c07257ae890328fc6d801c3169f",
+  "SHA256SUM": "398207b10a915256b0f75fb302b06dbdaf1657fadaf218e4bbfee157fd7c5259",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl7wXwIACgkQeGxj8zDXy5IZlw//cbLVvi1+CJGFC/Divl4lIz+XYthNjsaXD+kUGe4AbZU9PcqacCB9zwfKsN3aM5rEvKeHBeJA7enV+p4x7r9tJPTyAMa51ZihXTFdyQ+kLpjtt3ZPioIgXzHHP+pFZNtD5IFHu4hjhfoJROp4zApCmzukc5oFy1WVhKtCBgmTL/3elfKIFmgeJ73SldeNBkFDc5KhytKLAQzAFurZMVuoepY6e18UEEaUaPJpOj9kSKCFSnjhgmmMjPR0J2P5rFUO4O/CTJWN4ob/OO6tboe5TNMzlaU9RPc+d14HQsMBoHacEXMyjI8No+J9mEmJZ0WQXU2kufBUpiSXkNZNjAMYV421CiCQDNNTUWC5ttFsCnk34+ymI9gjup8xxTpNIi5ugZLgYNacxxoJmzruIf1sLq3h1eoZRcMEwreOOaDEf/UC3u5tDhflxEPNhCa6SUAujbiR7RnyPXA5Q6GglVTp1HMzljDjrwECqQo6V1tJU93dqIIxMzc5IAYTlGMIhqEhCJQkcrMM9tYCZ7PohFFiVbmCt/p5BRhrvQM0KYyhWCPSPX8AVBN735LNouTcOUfhFSzP8Lf1q6xdIkI5rvy0+VfBRSw0GYKBJ5/5rjJo/JrndI8LudKWvyauPDfQiQvUHY6m4B3sQgi8EHcHkdyiUoKkOzCJmESCvhCZm1i4chU=",
+  "URL": "https://www.elastic.co/products/beats",
+  "LICENSE": "Apache",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1592808465",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "glibc"
+  ]
+}

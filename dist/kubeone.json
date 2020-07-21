@@ -1,0 +1,23 @@
+{
+  "FILENAME": "kubeone-1.0.0beta.2-1-x86_64.pkg.tar.zst",
+  "NAME": "kubeone",
+  "BASE": "kubeone",
+  "VERSION": "1.0.0beta.2-1",
+  "DESC": "A lifecycle management tool for Highly-Available Kubernetes clusters",
+  "CSIZE": "9375465",
+  "ISIZE": "43553439",
+  "MD5SUM": "e8b93542c119755c6a904d98c7135dbe",
+  "SHA256SUM": "254bed8075b5d980a50f4656b34d099c92110d176b3f82824837cc9180eb726a",
+  "PGPSIG": "iQIzBAABCgAdFiEEba97gI+d8lE5YgAA0hRh49/iBg0FAl8IlrkACgkQ0hRh49/iBg3sQhAArfiDWi6FTJmN/fZAfg/uYn9vBvoexmzAdk11xmbEL9BGsZAeTlsqAF2Z7Tbfv7MqojcTCrEecd0zKjPMZbstyP+rdIRXyKSPlhN2dCZCs6PPxp+q44yYlWSzn7Cg0muEWliZcIihg7WfLS4IC2cYSDeSSl0aquesWlSxFIy6UvH8a7t3GMPh+Ta1ySjFxSZRdgZomsQWApOK7+aW4roxIaLBnfjdVHfG8S+rgdI68Djz6isX7Bn9OPYIyil7kawbUeG92WIBToReGbLJ+DYhNLxoSaEmbREuAK/puXtjN2k33cP7plUe567JLKXKMPc2ywHMGOXVpB/p0fL4RzZlRdQP38NWVnRA8J176nkrcUWzR8ajV6vXy7WUDgNSRSfBD1hUaaS67nUGsLmMuIiNRUDUjU0maDfce7DwjUB0QZ8YLdUHgE7753IekIBAI8pdVBcEjhAeXhh6lrSX0/N66cqzfFFLu7KVRwdeb5C++vlkX3apYuZTGOm7oLRYrdpbNGf1GNM2Dz9EL83iXwpCvTfFSdLWj2p9fTlD4OFfDNeKuzPCaGgiH6ylDVt9A94fMefmDpCAGGrmifaCOSGAOshFadrfdnbHUHYp1CLB4ZNUn4ZXXMvyl5dq/SZoUhoiuf26znhY8WpH691A99GA1V3veGQLAo2yRJs74LL0twY=",
+  "URL": "https://www.kubeone.io",
+  "LICENSE": "Apache",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1594398297",
+  "PACKAGER": "Christian Rebischke <Chris.Rebischke@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    ""
+  ]
+}

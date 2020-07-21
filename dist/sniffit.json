@@ -1,0 +1,24 @@
+{
+  "FILENAME": "sniffit-0.4.0-1-x86_64.pkg.tar.zst",
+  "NAME": "sniffit",
+  "BASE": "sniffit",
+  "VERSION": "0.4.0-1",
+  "DESC": "Very good packet sniffer for unix with ncurses interactive mode",
+  "CSIZE": "51619",
+  "ISIZE": "119712",
+  "MD5SUM": "0255b3b53ce3af8df146ca4aded9355f",
+  "SHA256SUM": "3f0bc099fd388055ac39e70108e13613752bc6997851a99f397b982812e8936c",
+  "PGPSIG": "iQJGBAABCAAwFiEEPlGL8lJv0Zeeiq5JZcEQwepDP8cFAl6Q3fISHGFyY2hAc2VyZ2VqLnBwLnJ1AAoJEGXBEMHqQz/H3rsP/3UQagnOwdyXeUOaY0rHs2Pjiwr9K4OvS+oZj6wN2N7ICfmrNgSb4VnE1lGQn220tm/cTf4Jp4dfqLqZSP58LGP8tZ28IoZsUVMJ5HA8j9XjGluSem+pGOscLoNHmybFaPuzENHcjWoVr1A8G2TEkDFcE1bNAW4bOJZoGQXyDtbccLNEWOCFCZm78dOr1ybsE0OP04Wa3PgxwQiCRCr5Pey++gHLUJpZDzvLzMatuxyNuRT2TugPFjTDAuBwqBgf8NZzSdwSmhTzz4vhKpw+gr8U++RKpHARxL9BAIUSUhzNSZI7kgoJhev7Gx6jUpAN71TpW6iwRwWSn+GqiyRYrnYaMVFmbM6Bb6tNV5YMKTIAepJrw7nBWQRDhTDSbfkYBpXE08md6TYj+VLqiYdjh4DZmDlVZG6a9G2BZlUvjjjkoHn7N4itTdfbDI8Vhvi7yXbKiMjSJZNZm/lEh8MxpayQkpObr3RJFn46OW9qOqS5Dfbo+kTx7+aDxOZcdLXQQG6hRrOJaCunJ+NWFQPLHb++5lBM0utUuLimnphc5Or3bmuKF9pcT3P4oHUSmwOgicS4x8yEviPOG8DuiGttg4+eAnQNMndrTCcIsDYq2G4bSlHx+21C8QH92gWslhw6eUy976yhut1CTbH1ya2YbNZGXX2C7UzbCiz2Cifnwlc4",
+  "URL": "https://packages.ubuntu.com/source/sniffit",
+  "LICENSE": "BSD",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1586552161",
+  "PACKAGER": "Sergej Pupykin <pupykin.s+arch@gmail.com>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "ncurses",
+    "libpcap"
+  ]
+}

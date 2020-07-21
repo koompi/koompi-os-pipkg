@@ -1,0 +1,24 @@
+{
+  "FILENAME": "gambas3-gb-db-postgresql-3.15.0-1-x86_64.pkg.tar.zst",
+  "NAME": "gambas3-gb-db-postgresql",
+  "BASE": "gambas3",
+  "VERSION": "3.15.0-1",
+  "DESC": "PostgreSQL database access component",
+  "CSIZE": "18711",
+  "ISIZE": "48195",
+  "MD5SUM": "255f232edf1a997e23cfea2932aeb0d2",
+  "SHA256SUM": "ba783d444224d90196041016afeb3de204d79227f42b01af34bd7d87593b8421",
+  "PGPSIG": "iQEzBAABCAAdFiEEU1+MAzlFDwVKTSgnBglqatHO3awFAl8C7RQACgkQBglqatHO3azi7wgAktfXVnCiC04gM3SFvNe+WsU+S4CYwSZdpenr1PgLyUk42lttctSXTwOeXD0othM9gY3denIc3vAr9UScy/QDTO1n1Blqq8Xt6yq3fcqaUUYICyigPPS6+nUJxZ1xnYypSzuYMK/GqQvPU3BKBcb3kqUJElijhip6IJ70aQI5uEcRUjnhzopiy3oKdES3K//Ooq+7UIWV4I/2k54LAEBZg5MAcl+tOrDb2fNRoUier0hrxuC1rDz/aVwU5byuXkpw/ly9yhDtzfggbY0ikRbeaGzxtRkNlnAWOS3krAQ5NrYUF9DvriCGPl87SswBd4JTcpkPcw9JSj3VujKN1BPlag==",
+  "URL": "http://gambas.sourceforge.net/",
+  "LICENSE": "GPL2",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1594026389",
+  "PACKAGER": "Laurent Carlier <lordheavym@gmail.com>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "gambas3-gb-db",
+    "postgresql-libs"
+  ]
+}

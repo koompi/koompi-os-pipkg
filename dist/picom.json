@@ -1,0 +1,31 @@
+{
+  "FILENAME": "picom-8-2-x86_64.pkg.tar.zst",
+  "NAME": "picom",
+  "BASE": "picom",
+  "VERSION": "8-2",
+  "DESC": "X compositor that may fix tearing issues",
+  "CSIZE": "153347",
+  "ISIZE": "370229",
+  "MD5SUM": "1558cd528dfc20919aacfe51d25c3e76",
+  "SHA256SUM": "4a4526030653eb7c4e0cc3de0041fd9141d26d0c7f328030305e69439f9fc6cd",
+  "PGPSIG": "iQEzBAABCAAdFiEElihV8HLHoBhGQFhk/PPIy1z5yNQFAl6ysb0ACgkQ/PPIy1z5yNSe+gf/VHwxgr1o4Q7q+MM+hYbjvlPjhPcTR0CCaXhnc/DNwL1Wn76hnN3bR1BWcH9tvF/q+UIwnE7nBr6xEbCmV0JbZ48JGEz/2dlSAGfhB/c6dAfVi1Mvnm09yzSontFf/aAjCfZTQf3IVFDbmUPsrFGAi99dz3Mhh+gxGbN2Wj0QSXRZFqbYU8gh1EO7HdWzo6k6YIIgr0wSCm02nVmk8GaOEFaS9qGRXg83z2/3l1YIKlfKncWq45c44IQqa6YdsdxYpKnLxNDsAmQO02KBo2NiMpBd6zVDjM8H/U+cGLsio6etXIXZYXviNbo48Tmsm5jGitwlbrMK1yVq8SgYeJbvLA==",
+  "URL": "https://github.com/yshui/picom",
+  "LICENSE": "MIT",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1588764843",
+  "PACKAGER": "Alexander Rødseth <rodseth@gmail.com>",
+  "PROVIDES": [
+    "compton"
+  ],
+  "DEPENDS": [
+    "hicolor-icon-theme",
+    "libconfig",
+    "libdbus",
+    "libev",
+    "libgl",
+    "pcre",
+    "pixman",
+    "xcb-util-image",
+    "xcb-util-renderutil"
+  ]
+}

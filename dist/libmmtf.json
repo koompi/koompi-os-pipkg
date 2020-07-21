@@ -1,0 +1,23 @@
+{
+  "FILENAME": "libmmtf-1.0.0-2-any.pkg.tar.zst",
+  "NAME": "libmmtf",
+  "BASE": "libmmtf",
+  "VERSION": "1.0.0-2",
+  "DESC": "A binary encoding of biological structures library",
+  "CSIZE": "19338",
+  "ISIZE": "89171",
+  "MD5SUM": "00dde019df41628e1af2016e54cafd9a",
+  "SHA256SUM": "5269cab47d382b3ac93f47a75ad29089421d0a519e2a67ff9de19bcaa9f9ad3f",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl8EtYEACgkQeGxj8zDXy5L6dRAAj1vU0Z8f/e52gd69P5327Eu9LM/iV6OtAfAgLAzoaSGUuo5OveyVMxRGAzDVojpNPTi6VZOSQ/5e/yDBa5fjfHNsuBnHVmaLmv8qgxDQ4HPLDOqCBJT2Nw/SPfCLQzYlbknDgIYQcAou7JYs4pIQiQIsx1GGHwpkjQDuVfhgFTjazM5PqE0drbpzt+w/KYnLIzM7/hSyic8z2A11ueCs1UpnuCVrkVlYbscgBqpqcIpYpXzCZXK5qMW9/3DnZIeGcrBv2TtdppalKvwZKmDz618OA8HYAlweFQMdEJGxz/ZQ+wHUqIhntyiQ12tcmxFc6UqB96TJciPYtAArlexDOs9NF11Uxt2zrN9XiaFWhjNgjTu8nU/zaorH1H2ZchTTXK/u+f+0kaBwKAwqumhQ54EDPD3OLAbcOrNebTRfYQpe/aaR9/ftg/Q392VwTEXVzw++0CfI8N23IW21Iyu+DIhZrAhJ1qRgZjorTpY6Xb1zF6oW/Z6Kc84PAhN9jOjGDSgPgOVp45mY3/qva5CoEZ01bqVjYf+/ByLpa74yS8zIftC/Avsz/o31QqvETjl6fZGOot0QbcKXThR1FJAN812j48nHKUhk52iz9GEeypdSR22Kp02nxwc/U5AgUykSrK9aJBShCeBX6L34mdnNwIvQdp4r/dR7Gk54KVw7fXE=",
+  "URL": "https://github.com/rcsb/mmtf-cpp",
+  "LICENSE": "MIT",
+  "ARCH": "any",
+  "BUILDDATE": "1594143943",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    ""
+  ]
+}

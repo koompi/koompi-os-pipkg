@@ -1,0 +1,23 @@
+{
+  "FILENAME": "termite-terminfo-15-2-x86_64.pkg.tar.zst",
+  "NAME": "termite-terminfo",
+  "BASE": "termite",
+  "VERSION": "15-2",
+  "DESC": "Terminfo for Termite, a simple VTE-based terminal",
+  "CSIZE": "4809",
+  "ISIZE": "2433",
+  "MD5SUM": "123affa5ac6494eae648b606413ac7a7",
+  "SHA256SUM": "04689f07163b541177fe18b6df202917f9ecb86413002aeae64987b55287d7b2",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl8EbwoACgkQeGxj8zDXy5KY/BAAmQgR1c6SbmsGSJoEYMlAICKIF2dbxZzPvSGo+G3ZUqB1nNdsiG63w3HB9Y+rSsebkmvCULGSSZ1O1KhuJxej2Vye9TCYgjPzvLn1ncWEvvSZcR1jmCOZ/DF7zIi/LPkeE43mee95Ym+PUKQrSjC/vIB/cOcEGV8EHmIAArDHIdQTe8yWfxdQ2dIL86jlYt+sPZMUAKfy+FpWvbz30Dg64llpn447AH3DVEEjkOf45PKL/icalF7aUcA2g3n9G+3zDb3HwnvkQNcXYfz1lqeUKsukYTR6AoACutv+EaepUr1MMRnU3iX6Y8rfe+smOTU7nSRYvoXumPZrrg4qDSincZZXYBjFxqJV67eArrQrxB6FHa17CDMSIot3r3YFMQCHF2i6ErodT0WdI1TZIKkJlTRl6kszLf7xQSVBdcM1bOSKhLIfuCASfmVwlJ80yx9lRkDzCpLXueHWRULvFeuqPFMdBkOVQCtzd7naPzVvrgT2Cxndob/JAxg5x6DlKPQOiLwPL1w3n+3W1ctLe9pLIrFWuzfmTrkeV0uiuw8M5htLHvMf8CNuwtysGyUD3H1wSWmR5SV5KjVbtWHT+7nURpDYoCFOLhWBBUu/H+rx6J8N2M0g69MH+U3dUSAIyWNeSvrnAdm7UFxISQUJ5cg2xAJ5cfeGNHb11Pezx/oQLEI=",
+  "URL": "https://github.com/thestinger/termite/",
+  "LICENSE": "LGPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1594125857",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "ncurses"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "FILENAME": "firefox-i18n-da-78.0.2-1-any.pkg.tar.zst",
+  "NAME": "firefox-i18n-da",
+  "BASE": "firefox-i18n",
+  "VERSION": "78.0.2-1",
+  "DESC": "Danish language pack for Firefox",
+  "CSIZE": "490403",
+  "ISIZE": "552310",
+  "MD5SUM": "13e822b30766cb8c650343fcc9f0640f",
+  "SHA256SUM": "3f7876aed8adba0de28ba55796de3865ca9c0ee5bef4ea9bc976d52309889c93",
+  "PGPSIG": "iIsEABYIADMWIQQGaHodnU+rCLUP2Ss7lKgOUKR3xwUCXweloBUcaGVmdGlnQGFyY2hsaW51eC5vcmcACgkQO5SoDlCkd8cwvgD+KtnYuRob9EJjfp/gBL9Ewh31xGKc3s4rHn6bi6XHAOIA/2BNyLTL96eo+lDVo0bnUI1Z40cn0D3Fh7JEb8qNyEUC",
+  "URL": "https://www.mozilla.org/firefox/",
+  "LICENSE": "MPL",
+  "ARCH": "any",
+  "BUILDDATE": "1594311501",
+  "PACKAGER": "Jan Alexander Steffens (heftig) <heftig@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "firefox>=78.0.2"
+  ]
+}

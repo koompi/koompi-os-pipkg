@@ -1,0 +1,23 @@
+{
+  "FILENAME": "python-rcssmin-1.0.6-2-x86_64.pkg.tar.zst",
+  "NAME": "python-rcssmin",
+  "BASE": "python-rcssmin",
+  "VERSION": "1.0.6-2",
+  "DESC": "Fast CSS minifier for Python",
+  "CSIZE": "39102",
+  "ISIZE": "221116",
+  "MD5SUM": "ab25de575c9344979fb3f58ad5d9f8bc",
+  "SHA256SUM": "eed42953bcfc88bd0d460ae6d877c0fc235406b34bbb5687c9a50f1791ab58b5",
+  "PGPSIG": "iHUEABYIAB0WIQTH54SUZv4jWDQ1iDdyWHNLQcMVSQUCXiD0JAAKCRByWHNLQcMVSY+sAQDH9xMfiVxRGOFYVa4WktusOdSoG0PWm4u++dradhtvPwD/bqgpe6Km+Eta1vx5tiMyzLuBdXUGjsQQHmeDVSHvOwc=",
+  "URL": "https://github.com/ndparker/rcssmin",
+  "LICENSE": "Apache",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1579217928",
+  "PACKAGER": "David Runge <dvzrv@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "python"
+  ]
+}

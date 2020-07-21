@@ -1,0 +1,23 @@
+{
+  "FILENAME": "python-more-itertools-8.4.0-1-any.pkg.tar.zst",
+  "NAME": "python-more-itertools",
+  "BASE": "python-more-itertools",
+  "VERSION": "8.4.0-1",
+  "DESC": "More routines for operating on iterables, beyond itertools",
+  "CSIZE": "55846",
+  "ISIZE": "268810",
+  "MD5SUM": "7c044b39bf51a1b70c1c7bc45eb59afd",
+  "SHA256SUM": "df54e9f75236508171ca22d30e275d2705afe0d780ace3da7cc2f1426e75176c",
+  "PGPSIG": "iQEzBAABCAAdFiEESMOx8w3dD+Z+UW0WOW4+JbqxQsEFAl7pVqoACgkQOW4+JbqxQsGrGQf/XuSZ2rz/XNItINv/GTaITWcLNS9+bgtn+BaWw0+bPmi8GrIFI+TSsPNiegpJiSkOEpX2KhCEfHycIpXNihovz5r97+0olJDvV+KxwmM+1ZF59RMKfFmGrS/BIhFzEC3134fOIIR7pwzstJXbGqDtR5V9IPLLDDQvFsz750ge+nj314mtEbra1gvKPYw+dH7NwLPr3WWUAVtzSsqBAnKQAGOUE8csyUE8whIRV3tZY06GF/UXwV+8zAvbpFetIWKptvBYxrz+Goa/iuxyynIeuK/h+eyjc6eRj5ZU4qMYMvixLADcv7nIrBS7T49jlTkujis+p20Zno7Wv3A1Jl7rFQ==",
+  "URL": "https://github.com/erikrose/more-itertools",
+  "LICENSE": "MIT",
+  "ARCH": "any",
+  "BUILDDATE": "1592352209",
+  "PACKAGER": "Kyle Keen <keenerd@gmail.com>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "python"
+  ]
+}

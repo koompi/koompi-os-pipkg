@@ -1,0 +1,23 @@
+{
+  "FILENAME": "haskell-indexed-profunctors-0.1-5-x86_64.pkg.tar.zst",
+  "NAME": "haskell-indexed-profunctors",
+  "BASE": "haskell-indexed-profunctors",
+  "VERSION": "0.1-5",
+  "DESC": "Utilities for indexed profunctors",
+  "CSIZE": "69104",
+  "ISIZE": "521302",
+  "MD5SUM": "5dd46dde80d1c8fdf132558edb32d8a6",
+  "SHA256SUM": "99b57580fe82cb287873c959452cfee33029fa992ff849375b6e3c366540c20e",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl6heRoACgkQeGxj8zDXy5KbRQ/+LpisebuaR0bQHCxgiDn09EOVQhhcpMjVkOXyym5RWNbq7QVCKpzKf4Ji0V0oVDMlNrODoPlRwSMDlxLro3wS2lHFPn9shL6H64C9LqfmC1Uu0ZKzND9jxz9eXT7MmXU6G4UNzfbOTpTL7zBjn+2pO0j45ESD1J6hPWCtQmILVLcFIB5J3W1wkHXz1MeaQXjbiyhWC+9ljw5NEnm54j9rvOp3myy+fb9tAw/BH+K8eXhiSlTpcTfe3rFcPQcyJjcQBvrPMAj6fGLodOK0z3/H/kDAwk1BTRobvoJGM+5t0qSswPypxfJ8ir+ATPl/Tgo8gYG81F/WcHUPiRHuIH0PEtBt/jI4f1hNbCc3PwgtUH0F4Pikg0tSSwStddQTSOBW678SPAl/dLDuE3EKfsl07SqcjJRzxQKH0zqCd5Swkl4kr0UsnM1efkEPUwCPDJlytz1x+nugun306evSXGXsXFhLYwu1dF6oaBx7zj5hhet2PpLWdZjFV9TcJyUWhDCXIsRkfETt57iymVLmpiKQxW1ro0LudunMLn+4TDgeGnL1REFy0sDq+2MkoN4pSISX0qPY/5yA/kBAmlS9YfNyn15WfBxiO7ngC1y0KknHA+IuQqM9txhA3GOd1OViWNdK6eIScMzqGbTYF2W1vjtk8AhBVOnvThdm9yyVsRBujBU=",
+  "URL": "https://github.com/well-typed/optics",
+  "LICENSE": "BSD",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1587640517",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "ghc-libs"
+  ]
+}

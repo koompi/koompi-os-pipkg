@@ -1,0 +1,23 @@
+{
+  "FILENAME": "lpsolve-5.5.2.5-4-x86_64.pkg.tar.zst",
+  "NAME": "lpsolve",
+  "BASE": "lpsolve",
+  "VERSION": "5.5.2.5-4",
+  "DESC": "a Mixed Integer Linear Programming (MILP) solver",
+  "CSIZE": "458672",
+  "ISIZE": "1520786",
+  "MD5SUM": "5325490e22c95ad0deaca79f9f5a8724",
+  "SHA256SUM": "5b151b8bbb0308da3e156e3cb3f4f9b8447f854e86872d3ffb27a12b61768487",
+  "PGPSIG": "iQEzBAABCAAdFiEEhs/8qRjPOvRxR1iAUeixSKmZnDQFAl6/2WEACgkQUeixSKmZnDQ4pgf/XcWdo0/43NQOcVZQGJSIZBQkwsE1OSsI++LbzXqV00FEDRZ2nt4cry7Zz16NIJ7pfxdL41tLpCSkl4dauxxhit5wWpjZelYoZuE+YklgByBaGO3HNXfBat0TWAFIe7dqAB3FrY9kwmda8LDj6EXsNgKLjK/J3QyIJw3/YVribS2UPAEhpRyGWhKd3YN/d6eMIKfs/LUVInVA9XOVoxz3C1EhXn2Ts/iApqAVewL3zWk4uUhlbxTha6RloALhuY3GnGQFqV7jK2ILSZMYzxzZOLfur9EZ1b3cjnjrHF9B9yRO7vJsw/7EGH2VmMDf6M0HFE5DCTSrI2R92BUpIOnDGA==",
+  "URL": "http://lpsolve.sourceforge.net/",
+  "LICENSE": "LGPL2.1",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1589631180",
+  "PACKAGER": "Evangelos Foutras <evangelos@foutrelis.com>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "glibc"
+  ]
+}

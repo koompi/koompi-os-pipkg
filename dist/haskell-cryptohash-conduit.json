@@ -1,0 +1,27 @@
+{
+  "FILENAME": "haskell-cryptohash-conduit-0.1.1-377-x86_64.pkg.tar.zst",
+  "NAME": "haskell-cryptohash-conduit",
+  "BASE": "haskell-cryptohash-conduit",
+  "VERSION": "0.1.1-377",
+  "DESC": "cryptohash conduit",
+  "CSIZE": "14771",
+  "ISIZE": "44569",
+  "MD5SUM": "c32977ec0292e2f4f9789084c0aaaf8f",
+  "SHA256SUM": "90061c5b28bd9179d8f1efc42124da2d40b8a5dca2edd4d5d37d381da86efd70",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl75psoACgkQeGxj8zDXy5LY/hAAlR2yMDqwihcpAzRHWy+h4mb+VF0w+W9pajbY+pVtqvbX+iAkDPnkHYkGYIdSPQTO3YJ/ZoYsOldLwp95+yLHzIUAdh57MW5KHRthPWJqaV1YXLVFYOmvVFjPIMi6IZcuyNz8Jb6M3dTSZq+4j7+Oe1cPeCGp1LY7ryT4VnPKwmksnzV2L82phAXDBCOM62pdDZddViq2rCduKcibbvkmRQyWnnxgWO+K5Robwms6/9MWn8fEErJMPON/bmgSOJFUdD4MMxn+qo79gNLmwgjMyVQQ8DuJ29p2EttsAEV5o5SXZeH+V1b+K8gtLLP8y/gZGQy8U2KNdm1oM2mPqddR5tllf+IhQZZHQwNGk4iA4Fm95unIvl7GG4Igv7t6I9vzy37ELEmmtydEE/j0vHij09R9oIlMTb31asjD5r5Vvf+L+Jyd9KESN7h15o6DJeH5Qpths0RDP/WUOOZ2thMRMvh8jR3s+511nKwFVxGSEgmeFpKWONeHTurpSatIDAM25ibYLfGAAKo5dvi61oI+AkneSQ0PZFEK3uM2fVV9wLLNFlgV7aKto1PaqevprAU7VanQ3qQBtI6YcoNBsmIFRRobeWHKL1TpOd2UOEQ6eAtDFL3IsWdFnWcIei1D/dAzWfeNEw2KBB8YefyYuMQ/EdTp0lugxTxm5oQsSRqkIMU=",
+  "URL": "https://github.com/vincenthz/hs-cryptohash-conduit",
+  "LICENSE": "BSD",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1593419442",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "ghc-libs",
+    "haskell-conduit",
+    "haskell-conduit-extra",
+    "haskell-cryptohash",
+    "haskell-resourcet"
+  ]
+}

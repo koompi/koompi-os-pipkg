@@ -1,0 +1,24 @@
+{
+  "FILENAME": "gambas3-gb-ncurses-3.15.0-1-x86_64.pkg.tar.zst",
+  "NAME": "gambas3-gb-ncurses",
+  "BASE": "gambas3",
+  "VERSION": "3.15.0-1",
+  "DESC": "Ncurses component",
+  "CSIZE": "18333",
+  "ISIZE": "49192",
+  "MD5SUM": "a08086ae9e6a24a09de08de2e57e72d4",
+  "SHA256SUM": "4c3b565c84683d55e48880b4986dcd8f10b49cb8696c35c1a689c2fc9ee038ce",
+  "PGPSIG": "iQEzBAABCAAdFiEEU1+MAzlFDwVKTSgnBglqatHO3awFAl8C7RcACgkQBglqatHO3azaWAf9F4cC6gXEuoHnQlriMRePaOrfTvH8Rc1sbO2e8yH4B7LdbN5V1eP12OdI5G/WuSUfpk+Ur4zyrbRoJKN7Dt8hbfFQ1L3P2peO7+MCs5IA6gY3aEHMNORuQcvJDNktCGpNuINQYaefHK/E6Ymxtjk5DTNIfTfxp2xKk/pbJY1roz8as1uBreSo8ZpYFc12PRHc+gHeR+VOD8tWLq5mRxFYAzDNgpPO5fp/dfTCVe9/pHnEVDcMyTqrTB9EIjwjsl0xOUll8gNjimmjnxHc7s4+1v9XOGT9RKU2YM2qy7qOvKXqsuzvPRBzFh2lYCuV6w/j86vjrHjz3RacD8DrYyjdfg==",
+  "URL": "http://gambas.sourceforge.net/",
+  "LICENSE": "GPL2",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1594026389",
+  "PACKAGER": "Laurent Carlier <lordheavym@gmail.com>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "gambas3-runtime",
+    "ncurses"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "FILENAME": "uwsgi-plugin-webdav-2.0.19.1-2-x86_64.pkg.tar.zst",
+  "NAME": "uwsgi-plugin-webdav",
+  "BASE": "uwsgi",
+  "VERSION": "2.0.19.1-2",
+  "DESC": "Plugin for webdav support",
+  "CSIZE": "15361",
+  "ISIZE": "40040",
+  "MD5SUM": "1bcb7e6351f4b3af23ff8beb4f674bb7",
+  "SHA256SUM": "85d051c47bc5fc3a449eeccd2ed789236f6918707a228655b62176683cbe0131",
+  "PGPSIG": "iQEzBAABCAAdFiEEhs/8qRjPOvRxR1iAUeixSKmZnDQFAl7viIAACgkQUeixSKmZnDQMmwf/ZwVBFouIZHlks5yDj65KOqya47guo9M1kAxEW+WZIo4s5KYfrZqLBwfV1or3ME9eZtC+p42QGzsbsMQdE7pYBWmjtAg+VnADSLUH8168nMj7jeXDLhRkboEMiwg6HGF5t8/jobQbJrvlrnIfFBqe5qKbVgvJ6vrTHYT41iA3I8xb63VCJ0z5eKRWrG7dwCfcXBFqYnx3GQrukiMJwoaPpCIDjnmFZAOL6JvYmR5Lg1BbKtgzhZwdX+D7eRtHzAA8HEMskGfbN3+3L9lBLg5jcHsPPE8GGlGpKGKqI11PiyzxrUCy8UbXGCFZrpG5AGwRtHTx9JcBN9jrCkBgWIMK0Q==",
+  "URL": "http://projects.unbit.it/uwsgi",
+  "LICENSE": "GPL2",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1592756215",
+  "PACKAGER": "Evangelos Foutras <foutrelis@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "uwsgi"
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "FILENAME": "soapyrtlsdr-0.3.0-2-x86_64.pkg.tar.zst",
+  "NAME": "soapyrtlsdr",
+  "BASE": "soapyrtlsdr",
+  "VERSION": "0.3.0-2",
+  "DESC": "Soapy SDR plugin for RTL-SDR devices",
+  "CSIZE": "42342",
+  "ISIZE": "109411",
+  "MD5SUM": "696b95286b4d50357c2338b376c4e1af",
+  "SHA256SUM": "312b4ca3f58f80fbe3ebff2a4b741f53aa035c7f4a2f7cbacd5d34f85d89b061",
+  "PGPSIG": "iQIzBAABCAAdFiEE0jW0leqs33gyftiw+JPGdIFqqV0FAl6KNf0ACgkQ+JPGdIFqqV1WERAAqSiR1WpOX9ffux8/GmRp8xMgdnhLnvwLq7FIMCAGi3SP285pDo6zo+9RSOoGltwlleFS6KNZTk+sRKL+v7p3x/Rrj7nWeC4yiNUJQdMJm9fDqH0WWEp8vZIDlXpiAhagCjPgc4akztyZ6tib8kc9wwK9nXNnaUJA416PjkaFrzaUMRnciyGCK+5+PvEnU0f4tLGhjgRbNxTpvaBWs3bws/t5BTzMrCKU51dtqO+nUEMead8+DNH5DOhoadt1vYlWHbAsAaRJH3ET1iQeCIWJzZ5K05zmFclodEdkaY7sqSeOHvaVAhmr4wKyNK91swSQMAOEdg1Xikd2wROP44PcKC9XrX5dgV6xkiWCHROXRLbikAPQ7sNgsdfN+6jcz86+Y+nPl+FuzkOpZhknQD5JYGm0b7v7aIeLckhMqq5iAxYJb+SJ1o+4Mrfhagc8c8olQSCGZogulnplC4opFxLbdfREmwJwY3Anohl9sZO+X1A1b9WAOTwXmy+slxPYYrw2sqL8gIRp8K3CFZikXX/R923B4+X3PEUYzIoQ8w9B0fpoqJwfo3Ox7nkfCq2xtAyBfB7G8NveWPB/2SsmXqE0T35nfnwZJtmjvEhunVwbp7gKtmHPAOP2ROjQPUGqE8wCnSPkyn5bh0OO66FE8fo5TYlZ7FqCq+OyRXXW5zF2DcE=",
+  "URL": "https://github.com/pothosware/SoapyRTLSDR",
+  "LICENSE": "MIT",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1586114018",
+  "PACKAGER": "Filipe Laíns <lains@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "soapysdr",
+    "rtl-sdr"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "FILENAME": "qwtpolar-1.1.1-5-x86_64.pkg.tar.zst",
+  "NAME": "qwtpolar",
+  "BASE": "qwtpolar",
+  "VERSION": "1.1.1-5",
+  "DESC": "Qwt library that contains classes for displaying values on a polar coordinate system",
+  "CSIZE": "560760",
+  "ISIZE": "2688381",
+  "MD5SUM": "996b7d47afae165147da04f3d9884b07",
+  "SHA256SUM": "923636e4d25eac5eb7374c588e3ae57bb0f6b915fb52a0cfcfbeb0540c33be1e",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl7L5DEACgkQeGxj8zDXy5KdMBAAkhuKBNexKEzBOWatdXeJALcVrtOz+IcV9yreAOTOvyjvXk1B1kVCNBsMyuyyBy5KEyNRqewAkzgGbxuhI6qz1a/j2GvfF/X8PXi1mICHiFqr4nMyMUKaaa7lfGr4kSxCNix8FcIodhLG1hX0d7LAKUAeqwQkZFqv+LlecgYnU2TBXLxzb4rQF5uShRL7+LVJcs4DJZ7odb1p0oSQrJFM+AkZnaTFBBuoVF38rvtOW00HheOrf/UiJ3eBb9R1axApi6BSfPo/n4YII42sFI4/NYNvKbvMGd72i65eHuYN3sdmp/92mio0t++pFcN6BOIDTAMBRRDCu1xPhyJfLRQ1p6CYiISk7zRP2F2kZquG0KB/+Vse3r4NG4q761CaQzRrPByrmd2Z4LpfaGE30i2E7NUrhQnFAoMOmGEzSVeNvYg/1ZDiVOpar+qwqFtIMdJ1NBfOGxwX+5JE/elwKJHDCTXpptKuG9CabVNXlJH3BeNZi6Nd9wiVzSN85XNeUQoQD0KWs0M+XSBdDjFp3+/6pQOGTLXZjx6JtyB2nRERlj6U2WGmA5iuiQ5sr/nQI6C4zcOKlrKGaevymsxDvoRYBx0a7UgW0J9wOaQC27gbpngfqZPCvIfPu+yt2ezkTQE1p3vdAr3UbOxur+guPQxyk1LNvCiJzelwEci6uAqn6Gc=",
+  "URL": "http://qwtpolar.sourceforge.net/",
+  "LICENSE": "custom:qwt",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1590420394",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "qwt"
+  ]
+}

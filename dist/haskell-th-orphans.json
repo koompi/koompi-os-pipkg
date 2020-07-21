@@ -1,0 +1,26 @@
+{
+  "FILENAME": "haskell-th-orphans-0.13.10-11-x86_64.pkg.tar.zst",
+  "NAME": "haskell-th-orphans",
+  "BASE": "haskell-th-orphans",
+  "VERSION": "0.13.10-11",
+  "DESC": "Orphan instances for TH datatypes",
+  "CSIZE": "115312",
+  "ISIZE": "753356",
+  "MD5SUM": "9a0994b155b2ae0b5c68b85b4f2edd1d",
+  "SHA256SUM": "f534c69d72b267acef37ae8099d2345924cb50cd8b4f619221ba67142b3ad8b5",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl75JysACgkQeGxj8zDXy5IMdRAAsvImf31QWjw/+amVFzIV99YKtngSnykyDml6szX3RaeaOzqBYBPW1MzBRbxIYKL9+RLCqS209U18vuDCjEmiE3JyGKswMTBt40DT2RFDfurbcNTKXlNIMx3tn6W/FHgm8WYoAmW+ozy++kaJGSar88BcTbFqxMV0+Q8Q3Vt7FoJuUnnokmio6aMNcRZEna/d//V7IDDl27OeJVDpYjuQwzM928y/mW0gSJM0ooRoGKslrBGEBeMZNsZteBLrVPjgTZ/Secxz7O0kI9K5U5yODKaSuXvY3Pa4vlW0nW4DcCgVTNkpIQ9zZUTiUPEm57i/5lVXFTy2aAkgB8AqqrA2uO7pgtJ375haEvfOXkZN0e7qB3P2kex1869LPoHejIcT8ljDjtLxiLFTVTnLFubFpnuwzjfdTxwovHuFrRbZzisC+NTaNVBcbf3PMbNuezr/+18+raYkuc0aurxnoIV4mb2aO0nG5s8tQ/mg4LW38WylG4RN+pw67HaDc/aEOQYtLilNyhODwbFlfofqQLa88IFUU9oHE0ayeem1+IEaPeanr7gFpWHrsZrKrWtvrJzhFvRpaSvqGaIsSbXhiF0ER6lNuidC0qQucPKeZW6G9D0LaFQRQPmjU1nKTo8zQ7fHQyiqIEfZoZZPcXS/g/Z+rWKT1RAgD10+PpjvhYaIKUY=",
+  "URL": "https://github.com/ekmett/th-orphans/",
+  "LICENSE": "BSD",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1593386763",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "ghc-libs",
+    "haskell-th-lift",
+    "haskell-th-lift-instances",
+    "haskell-th-reify-many"
+  ]
+}

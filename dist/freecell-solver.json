@@ -1,0 +1,23 @@
+{
+  "FILENAME": "freecell-solver-5.24.0-1-x86_64.pkg.tar.zst",
+  "NAME": "freecell-solver",
+  "BASE": "freecell-solver",
+  "VERSION": "5.24.0-1",
+  "DESC": "A program that automatically solves layouts of Freecell and similar variants of Card Solitaire",
+  "CSIZE": "215873",
+  "ISIZE": "670496",
+  "MD5SUM": "ae4fea9ea051ae8a3b15f066385a36aa",
+  "SHA256SUM": "a55a58dcb69f65c494c86837cddd90083599ef5bc9509c1c1f29dc53e6a17c9d",
+  "PGPSIG": "iQEzBAABCAAdFiEEFRnVq6Zb9vwrc8dWek52CV2KUuQFAl6vJJQACgkQek52CV2KUuTb4AgAqLmSXOMs9kiH3w3dhT/wr5foeg1Cut6Og73PkmZU+jz9AHbyZvohb6KeNWhoGhQz3qEgE5g06bqHZ14LWXCMjVazgbFvozX6lBonhQAwW4zWDczZv5QNBlu84WR7ZFbFi/SD0nUCiIpvkWAW1cim5KK0EIDTJl1mL8g2o4jAuUEq3klc5R19sOZSB70tN1j1j8VqWue6XAjxdF48xVrDlAA8zmnoMu+MUk+AlX6DkNtJHtNt3gOrgpHZ6QdRtBzL9IiiD+wf24gmYwyFh36rfBPgOyJJamSST3XZHjHNDB/dWABm1O/51O4eVoD1gC2sBmS2P+iptDMfuCQy/TPc3g==",
+  "URL": "https://fc-solve.shlomifish.org",
+  "LICENSE": "MIT",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1588536384",
+  "PACKAGER": "Antonio Rojas <arojas@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "bash"
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "FILENAME": "haskell-pgp-wordlist-0.1.0.3-43-x86_64.pkg.tar.zst",
+  "NAME": "haskell-pgp-wordlist",
+  "BASE": "haskell-pgp-wordlist",
+  "VERSION": "0.1.0.3-43",
+  "DESC": "Translate between binary data and a human-readable collection of words.",
+  "CSIZE": "157893",
+  "ISIZE": "808728",
+  "MD5SUM": "9c4a40f331da5d4f3c87144e668999af",
+  "SHA256SUM": "5b2ab2291b25cab7c5fb06311a11a2e4b0082e46693d9c024c33704c9061492d",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl75HmkACgkQeGxj8zDXy5JuOA//WZdORcuey4Y5aoZ346R7CKrRMiYjnnZizNK5L+U6CEgDDP+ekgws3LylMGd5bH70OjuPN132k3X1BzDBwfsjDzjf89z9jvi2SNlXLVrUkiOY2MtdBDtZ8VlqMAbtM1AoZQUFEg+BXHks/tDLPcIHFrle1z3GfyLmba1M+18KzlFOC6wcbUeoDo/wKK325ZBUPqKefzKBtyCAwuKfRYs2cOD3WUHcuIxVr3qH3pK+NZ6B0msOLF7OJzrrGVxpA2EqcGPXlaIWqTGdCWpb4X1wJh5YwqE9HHZ6UqgYsq958V+eBzh6MTY16KLZm4rb2ZISzTpXDitRyHFvunwLrJWoTJHrraNJsI9ZSd14g8FarHREGK2mTJdcJ6ZS0mxt1gwIcH8CjzD+yuoz7+S5wNzitMQ+UuaP32xmys2eQzFtEMRoGf13w3wgpbbYlU1KDQb14I0QzAKpnLOZmW31B/Bt7JJa7PCNSnFnrGl/qnlwP0avXVenPgSArFdcvvIEctzDV7UaLIQqxXNiXhq380PUd1i0yVHmvvSL6+dLYnSPjEyANaLqOf4I7ua7WL7K+GHcMMXLmNSzD3K7NUi11ZeP49EBNQVRoJ97c6wqOcm/YWEHQ3g87Vmg3IjSeunVZjqgWsRRTjrtmXNMluFK3U/LEQzL04+FT3cSCsNCbBnlUKY=",
+  "URL": "https://github.com/quchen/pgp-wordlist",
+  "LICENSE": "BSD",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1593384522",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "ghc-libs",
+    "haskell-vector"
+  ]
+}

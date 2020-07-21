@@ -1,0 +1,23 @@
+{
+  "FILENAME": "zlib-1:1.2.11-4-x86_64.pkg.tar.xz",
+  "NAME": "zlib",
+  "BASE": "zlib",
+  "VERSION": "1:1.2.11-4",
+  "DESC": "Compression library implementing the deflate compression method found in gzip and PKZIP",
+  "CSIZE": "83444",
+  "ISIZE": "341567",
+  "MD5SUM": "954e931d4bb8a1f1f2847b5fa07bf5da",
+  "SHA256SUM": "43a17987d348e0b395cb6e28d2ece65fb3b5a0fe433714762780d18c0451c149",
+  "PGPSIG": "iQEzBAABCAAdFiEEhs/8qRjPOvRxR1iAUeixSKmZnDQFAl3MRDoACgkQUeixSKmZnDTrWwgAjFovNb203v52oTBXrSxDoWFoCn9uEFfDVpXh/WWAsor5aEtqO8cHqeVUW+ttJdX4Zr0ETz9IVykFCuw5AixE6JSuVm7CIzKdR4JzzIwlU4Es0WDEG8gXAe9i+F8tgLuF92PhiCjxNFmBsdKFS5ISz9wAqdCAUoB+N1yWSeraz7NHkM5urdvnpYVReq9/TOrkjZrJzU45g9y1iuw/ZlpMO53LbsXwuiBE4EufQKEHKF5OgcrSBC4DRUliI9aI65jQ+a0unrxFb+bRjZDOIp1lEBbChQg4BIcE8YtNCIRDb6ztAMfoTOirdbJDbnrAjbIjZcPcvAHoz//vBRkkwCSADA==",
+  "URL": "https://www.zlib.net/",
+  "LICENSE": "custom",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1573667866",
+  "PACKAGER": "Evangelos Foutras <evangelos@foutrelis.com>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "glibc"
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "FILENAME": "kblackbox-20.04.3-1-x86_64.pkg.tar.zst",
+  "NAME": "kblackbox",
+  "BASE": "kblackbox",
+  "VERSION": "20.04.3-1",
+  "DESC": "A game of hide and seek played on a grid of boxes",
+  "CSIZE": "538002",
+  "ISIZE": "1602369",
+  "MD5SUM": "7446e1c23cc6b505088f120ea4a8df5a",
+  "SHA256SUM": "b60f91d8ff6693a23fe51ca822d170a6c8cbb199287d7eadc732418e173108c3",
+  "PGPSIG": "iQEzBAABCAAdFiEEFRnVq6Zb9vwrc8dWek52CV2KUuQFAl8HBQoACgkQek52CV2KUuT5Awf+PlX7aolruDozmwutUF3SPYGSQFzTNw9mJt6EBEUteUk53ZWEYL0ENCA07eSUMIQkQVoo/qbLDHh8/95CfktIte4iaAlQyPyzxLNHiMu64bs7rBy0a/xILzsDSMsynNyOiK13SBMKk00bpcYF6hpcMOT6isEsUHVcCEzHHb4xjN3lU+giyMLA1m//inwADUkCcH0YF3Rxc2XPG3x1ePO3EBIzI4Lg9g24SI+A1VKjQSVYqu9kUk2ePOFo8XW6BcF/Z5Zgid0zyQ7ykVKS8r+2UNr4Elxq7XEUFQPpKKVpYVBtCn/lQy6M0HO5nSPxnnyn/+oPOVK7iKmuRTInlua9KQ==",
+  "URL": "https://kde.org/applications/games/kblackbox/",
+  "LICENSE": "GPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1594108097",
+  "PACKAGER": "Antonio Rojas <arojas@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "libkdegames",
+    "hicolor-icon-theme"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "FILENAME": "libnsl-1.2.0-2-x86_64.pkg.tar.xz",
+  "NAME": "libnsl",
+  "BASE": "libnsl",
+  "VERSION": "1.2.0-2",
+  "DESC": "Public client interface library for NIS(YP) and NIS+",
+  "CSIZE": "58800",
+  "ISIZE": "200092",
+  "MD5SUM": "6f5de1972e367f12cd7ac81136d0bbda",
+  "SHA256SUM": "fb1da0d0e77d7ebd97f1b27542e3fafee9425beee9dc35a52aa9588d06684fc4",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl3MQY0ACgkQeGxj8zDXy5IX6xAAoI+ejPj9HAe0AXrr3nNCNARPGsNG9MHtPMKmeAOX6wKRocODY0F7/kPZx0kWDsatpre2QAATwH4XyMxEaPrG60L9UdV44qaPdEReihndSThEqjkZcrRG+d+hkXy7Wk8MaoyTnRUSQBQx6Sz8/DDWFX0y6LEYeNVrsPM59pgAK3Cvuhh/LM4yAfaM+iYoehNhMNUiaTehhYydhc0MzClEvbSOkA2IK+Strqj7tzo5UUQ0LHSxw0WCrZ9eREAO/3B1v3/NBbPZy7E5lHCUc2b3SjapvnPrSXqsBhLDC7pa7BP+z5i/6Q2E062I4Yoq4J2dcZ0M+/mTqutPGUIClYBvtr4t7bc8RDMq+GBy3SMJvjXGeoKxxCiB1ivb2yRUF1tlCZJuakkkvIwOu+uv+M67sY20QeSFXxcq9Ll9gemv+XDK6QzXXVoVGliwOriDTYJ0Zdb1y4dg26vWeSiSQquMszlBNn5ffgbCW+4fF6iQ9My/K9Gyvpo8e/X65Hj9jgIoAVc7e8z1+NtyZ1/EYYD9ZGBLdvwep4T56jIHox+77aLCCXjn0dmt/zDkuoYoP0yfpLG2d8X7dVkgaGL8sYg7P1B9BZ/NQsQD80MpYPP0LYbX6lgs1CIjE+FxnTjKybc+5Rku0aY9ZuvifrTlbLzHdl5VdOeWZFo3Zms85us+LTI=",
+  "URL": "https://github.com/thkukuk/libnsl",
+  "LICENSE": "LGPL2.1",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1573667163",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "libtirpc"
+  ]
+}

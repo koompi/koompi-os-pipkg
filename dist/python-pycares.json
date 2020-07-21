@@ -1,0 +1,23 @@
+{
+  "FILENAME": "python-pycares-3.1.1-1-x86_64.pkg.tar.zst",
+  "NAME": "python-pycares",
+  "BASE": "python-pycares",
+  "VERSION": "3.1.1-1",
+  "DESC": "Python interface for c-ares",
+  "CSIZE": "71443",
+  "ISIZE": "224351",
+  "MD5SUM": "258ffc27ab8a73d9d6593ca4de07499b",
+  "SHA256SUM": "e25dd0cd079c30e7702148cef828914120274c474d75981dd4fbc04dc8318e1f",
+  "PGPSIG": "iQIzBAABCgAdFiEEBNw/sURf7KgTwn766k97MhqQatkFAl46Mi4ACgkQ6k97MhqQatkM3hAAmh4Go0aJkDy3E1Kic/Q48M1czEBzYbDyVgnCoLSrWhGFdiR5/KiziCCa+9h+tE92cMwDiGC5uqO3vz1RQ0WAeiyma5YJgbgHj9axsax7Wn1sGWLZ725hZSJTOo1bwpiRq/pMw5VrX9WwqKS/hIIkrWll/jRT/BqHxlJfWVJ3duQ6fjc3TPbrrgRTM/QK4lWTjBhL7XQhE+d5TxnFef/vS4AdxYTmT//EYq/kIwhqmrg7s01l2lxTVltXK/TbK62G9/KqSdvTkrRAwiDEMs4j2LhAZSdWd6zJrTJ00wU9WUhqVIP357CXTgsYjajOD1GKRKbHh0hWRhhzfrB7yhJM0umndRpW0IAqYGVVO2UcUGHEFknfYfKwJg8S23lTVfNJVm5dsPTQWGKvgQRdJr/uA6GkySWLOEyuhOfPwXND7MWxAGisBS/oinBII2X/eq3X19ed96X2VlCbms1EoeMcVqsqzqYVqdBKv17t76eB+5Y8/QLu4W/9pDeI/IMz0bNfiUpuVivzoS/jbQ9KnCiIIgYrBGqTMNpqX7nNeiDekI09BTcCyBBFQDzGcyWFlKAD0bMTRotDKXURuU/YvrIk/Tog/ZncTjiMdi101bTF04qpJuQVr49K3sUNylS5avyeiJetAsgDYhC1FdjLh2plJMNkIoad/70QWKS6KURlJXY=",
+  "URL": "https://github.com/saghul/pycares",
+  "LICENSE": "MIT",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1580872116",
+  "PACKAGER": "Daniel M. Capella <polyzen@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "python-cffi"
+  ]
+}

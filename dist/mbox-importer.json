@@ -1,0 +1,23 @@
+{
+  "FILENAME": "mbox-importer-20.04.3-1-x86_64.pkg.tar.zst",
+  "NAME": "mbox-importer",
+  "BASE": "mbox-importer",
+  "VERSION": "20.04.3-1",
+  "DESC": "Import mbox files to KMail",
+  "CSIZE": "34796",
+  "ISIZE": "106036",
+  "MD5SUM": "67f2bbdec96930d38421133571703164",
+  "SHA256SUM": "53add3b857bb3850998ae70db97007c9ab9940343de37ef285c88240f3ce594e",
+  "PGPSIG": "iQEyBAABCAAdFiEEFRnVq6Zb9vwrc8dWek52CV2KUuQFAl8HIIMACgkQek52CV2KUuTRHgf47qRszv9u2ml3EL6/fLfMyWRuow43ia/30yML3hUW7uD43mUVlaoBLV0hUJEQtTteoszyG4ydgP7BsNEGoyqu4ag4SBR0zyLt02xWfacnQKZUG9ZBPJaQtFP2mt7kT3u6KSpVrkIj/zy+MSrbak81ikbpJNf7URWSvK8ICcK9MFlkQPo+0YmR3WClFnKk3ZgNaSJj7j8ZNuhzWLgf81H0PSbcsstf6e8CdumbiFa/4VSTXudL3zxQifrdSUeZQI92p28O6cifXnNC9Mb4CX1KD/n1jsDn7sL3Z//NBxwHB3o2TKEwYQomyHryfVF3EcCuQOk5VvmLy4b5DmrmcS5E",
+  "URL": "https://kontact.kde.org",
+  "LICENSE": "GPL2",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1594113000",
+  "PACKAGER": "Antonio Rojas <arojas@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "mailcommon"
+  ]
+}

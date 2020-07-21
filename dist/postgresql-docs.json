@@ -1,0 +1,23 @@
+{
+  "FILENAME": "postgresql-docs-12.3-2-x86_64.pkg.tar.zst",
+  "NAME": "postgresql-docs",
+  "BASE": "postgresql",
+  "VERSION": "12.3-2",
+  "DESC": "HTML documentation for PostgreSQL",
+  "CSIZE": "1803706",
+  "ISIZE": "13842486",
+  "MD5SUM": "e80690f1844a6cf5e99e3a7d9206feae",
+  "SHA256SUM": "b19f0228bded8e31e81de964a2648711fbf470f8c5aa57ada517ba954e2195a7",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl7vO40ACgkQeGxj8zDXy5LJWQ//XVuZKLztUQSBYqBGrBACt/b6c+NowyNPIIWtOaD1azyLIoo/kiJrK60iKUa/mmGP00ZyVx4fxi3qUoCtIVW+QFzzuRyE4hO1MRLSiTInsKoK8Y5VIkYNu4WiTdHWXOCnNtAw42/5lWj3ZU+jgbGQ2m5ZXN7e6Nq+gyPg7nFgGNdqTpOjGU9qqZqcVialCyoROsC/AKdhmA17uDJq+iLhaxPC0AW6F49B3d1P3SBtBrwmiQQddSxHF/M3Qnu/suzRXkhRBCQOPiBYqwySVVgeJBvd3/DsQqRCSH9JuSriXM+rM1OgrP31GGrS2g7KiWiISzyKglIBRJdZuxuCraQXvcow7RKMMG3p/caxzPHlzwSk6Hu5sI5S3INe/OnhctCHhhCJ8ePsqo61MEGx+SUrveZNMVmKL9Utj3WNFYMbsZQ85GQAXc9OLzWxdva1kriSimT71x7KVfBJ8Dr6pOJkLNy4yilHteUE1+H8CwR4Yl/v9X8Hn128kS8kwzIntQkjjC8havIlXsWchSk4x/lkRa6NVIkk5FhBMfdhYpfG2V4zs5/JV88rMYqhGJ9iCPlq7LOFuWdywNcaVfOjHCvLxp3j3YapjweYkuWVuTb7GfAof39vEVoxKnKk59D8nll0nF8aegwV6536FftSkab/3OVuqEA7nChovtJ8u+vbmZI=",
+  "URL": "https://www.postgresql.org/",
+  "LICENSE": "custom:PostgreSQL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1592736167",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    ""
+  ]
+}

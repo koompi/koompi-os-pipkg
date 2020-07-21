@@ -1,0 +1,27 @@
+{
+  "FILENAME": "samplv1-0.9.15-1-x86_64.pkg.tar.zst",
+  "NAME": "samplv1",
+  "BASE": "samplv1",
+  "VERSION": "0.9.15-1",
+  "DESC": "Polyphonic sampler synthesizer with stereo fx",
+  "CSIZE": "446478",
+  "ISIZE": "2038228",
+  "MD5SUM": "2532d5e291c4b01844ef874cb9f1802d",
+  "SHA256SUM": "c04bcff4579abbfcb0732c1773d13c1969585ddb6a4295d0e28d88227ecf5cae",
+  "PGPSIG": "iHUEABYIAB0WIQTH54SUZv4jWDQ1iDdyWHNLQcMVSQUCXvG16wAKCRByWHNLQcMVSXlxAQCX+e3j26T56uVOOOKlf77OCFxVtwaRvrd7jCxg0UB0uwD/cILcmYM1l4xhIu53hht3osMrna1+tSaS+XWNqKac5wQ=",
+  "URL": "https://samplv1.sourceforge.io/",
+  "LICENSE": "GPL2",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1592898901",
+  "PACKAGER": "David Runge <dvzrv@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "gcc-libs",
+    "glibc",
+    "hicolor-icon-theme",
+    "qt5-base",
+    "libsndfile.so=1-64"
+  ]
+}

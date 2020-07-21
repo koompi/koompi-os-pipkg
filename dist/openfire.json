@@ -1,0 +1,23 @@
+{
+  "FILENAME": "openfire-4.5.2-1-any.pkg.tar.zst",
+  "NAME": "openfire",
+  "BASE": "openfire",
+  "VERSION": "4.5.2-1",
+  "DESC": "High performance XMPP (Jabber) server.",
+  "CSIZE": "41092239",
+  "ISIZE": "47867617",
+  "MD5SUM": "1e6db56705ab62d381fe5b3d3a910d2d",
+  "SHA256SUM": "db320746aaf1f95f51a033b92ebc4cedc4a606a192edd1596b790aef0277f9ca",
+  "PGPSIG": "iF0EABECAB0WIQQsEYxiDwLbmsHQ+fqU3SOT2i7kIwUCXt3t5QAKCRCU3SOT2i7kI0BnAJ9mY6IekWZe841ZG8bwBQZEv/wdHACglKrCK858YQvrIk0fsbQJU0x1zbM=",
+  "URL": "https://www.igniterealtime.org/projects/openfire/",
+  "LICENSE": "APACHE",
+  "ARCH": "any",
+  "BUILDDATE": "1591602183",
+  "PACKAGER": "Massimiliano Torromeo <massimiliano.torromeo@gmail.com>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "java-runtime-headless"
+  ]
+}

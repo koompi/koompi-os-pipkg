@@ -1,0 +1,23 @@
+{
+  "FILENAME": "libreoffice-fresh-nso-6.4.5-1-any.pkg.tar.zst",
+  "NAME": "libreoffice-fresh-nso",
+  "BASE": "libreoffice-fresh-i18n",
+  "VERSION": "6.4.5-1",
+  "DESC": "Northern Sotho language pack for LibreOffice Fresh",
+  "CSIZE": "268777",
+  "ISIZE": "1471679",
+  "MD5SUM": "3a7dd0838678a79eaa47c63a06d1674f",
+  "SHA256SUM": "92b589aec35318b12b5c15636f15d90960bd186204afe1afc8e774bb89a842fe",
+  "PGPSIG": "iQEzBAABCAAdFiEErcih/MFeAdRTEEGelGV6sg8qCSsFAl7+FyoACgkQlGV6sg8qCSuy5gf+KFBuzHydgaOgh37ng0zUcTQQJe1fpiHOfL+WOtUF6gm6lburIFVh+xVBmguMbGYBYtMsFg6OMCMdGumT0rfHf0tBx08xGfMpaaAG7uOLf7Q/ChJ7+hNEEeNlhdHc8nj1ogRD7vjIura7TumXocZ7DTS39QCgvIBGQ4yFefW+AiXxezo4ISlDS9d5h0I3ADesWn4nJ4LqQsGitKaYg7dOJSkiv6/2UKpeTr4iZA3JDrjIyK5TJELqQ8Rhak37frC6tChfIkq2aKfyqJaF8K8OD7uih3u6+vpsgFQ/fgbICZjUPmBXOTnprDTjbooAUtsAhebrVne5Dw16kdUw/3OE+g==",
+  "URL": "https://www.documentfoundation.org",
+  "LICENSE": "LGPL",
+  "ARCH": "any",
+  "BUILDDATE": "1593700315",
+  "PACKAGER": "Andreas Radke <andyrtr@archlinux.org>",
+  "PROVIDES": [
+    "libreoffice-nso"
+  ],
+  "DEPENDS": [
+    "libreoffice-fresh"
+  ]
+}

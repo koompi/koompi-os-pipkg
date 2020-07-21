@@ -1,0 +1,25 @@
+{
+  "FILENAME": "diffuse-0.5.0alpha7+4+g813d6e7-3-any.pkg.tar.zst",
+  "NAME": "diffuse",
+  "BASE": "diffuse",
+  "VERSION": "0.5.0alpha7+4+g813d6e7-3",
+  "DESC": "Graphical tool for merging and comparing text files",
+  "CSIZE": "340111",
+  "ISIZE": "1231523",
+  "MD5SUM": "ce034ffa1cb8101aadd9150662dddef1",
+  "SHA256SUM": "871d201045095211845330eb22c2223219b74d21a0af389f2f714ecace4ec405",
+  "PGPSIG": "iQEzBAABCAAdFiEElihV8HLHoBhGQFhk/PPIy1z5yNQFAl543RQACgkQ/PPIy1z5yNQF1AgAstLc4Be86B525/1KFpJhxwN60uHmK61QBDYk2PFDUaJWwEFV/WaQHMNXD7ig0aXH0943EKn2hRgm7/QlzI51Wp3gjWK9Sf6IU/PSxTMe+A0wt1T6kFJwt/l9eCkXnycCImb04TJioXrZ83U7nQnp8c6WsMg4i9twJqAgqOAD1Ot7kHDzpMTOgDewo19TADSsLbWlcJlnLoZofnNceaFKuUG/KWheqGqB6Rg4FRxU1WNm215KcdUHFaBfcHWZ1Qo6CVHdtVi5RD+1xkCyyjjXhADe0CjLNCEhdvpRVMWwqK8Aw+/tE3p01hzoYa99XNoNNRapPdMf0HlOZjDSmUdQ6g==",
+  "URL": "https://github.com/MightyCreak/diffuse",
+  "LICENSE": "GPL",
+  "ARCH": "any",
+  "BUILDDATE": "1584978306",
+  "PACKAGER": "Alexander Rødseth <rodseth@gmail.com>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "gtk3",
+    "python-cairo",
+    "python-gobject"
+  ]
+}

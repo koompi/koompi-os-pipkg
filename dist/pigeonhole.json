@@ -1,0 +1,23 @@
+{
+  "FILENAME": "pigeonhole-0.5.10-2-x86_64.pkg.tar.zst",
+  "NAME": "pigeonhole",
+  "BASE": "pigeonhole",
+  "VERSION": "0.5.10-2",
+  "DESC": "Sieve implementation for Dovecot",
+  "CSIZE": "452042",
+  "ISIZE": "1583840",
+  "MD5SUM": "e5633785a0cffec3326ae97c8322ef84",
+  "SHA256SUM": "39e4a3d37b5bbc0b29e9dcab29d025919503108c7115f757a9029cec5672d1e4",
+  "PGPSIG": "iQIzBAABCgAdFiEEBR6tamFVOJ1p2gLl63Y7Tp24h6YFAl7CjLkACgkQ63Y7Tp24h6bzlBAA0zOU/NDG8rWyVVcsglRMN67QdZ/Gc0uo6sqnJ4MFniGJgBfbodEK36dGKXFCQMjIpgyFGjVk02mYZ/dRuSrnBosgK1Go/vJ6Di5JRwGKgTNe95PBsIz9LqMcrWUVq+K4g8gNMHRR65v7LlFFa+6aVX9Lww/d9MUZOQbCgb11/h5Aty9ZmfDgYDAiv5mOWU5UX6lZ+yoxuJS7THUT63Je/iql3/B2YgMNIwe6URdnQZWiUQZhkFAUB2gt5RbAZDbH+Kvnzk+Dsx/CeoTIY8oGoVrJ2g+Vbx1bfIS6+FZIRzv9cB/tQ9wbsu2woSh07bwhjCkhYXYp4mSrMtBQwlmLe4lqsg56eD4591wJ/miRs2vLKgxDdTRB4luyfu/ztb6s+R1yNE+R397TBAaQqx4VguyjOaWLa7gfIGZBWcIkSBU2hluP18hQZGl1Xg8otJobqz5Ouiv+9uBN5T4gvE7P5e39eHN0ngt1nktnCOg/6sLxMkNNLN6AEOU/v03/FeiFuxl4X1Bc0ARXWSHsQ1MnXoto14VO9L1muC8agADUJBKMUWyUsEw1BS+L8InFgmpdyjEVBzzVGUXeGIDmexFAT5gUMMBSMcte6t2BnZbYJ+hilJughXYbbZqYvo4hzdP5shBxFUXk1+Qi+4Po/r4hLkKqFeZMeEHm6wCi8cG8ToA=",
+  "URL": "https://pigeonhole.dovecot.org/",
+  "LICENSE": "LGPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1589807959",
+  "PACKAGER": "Thore Bödecker <foxxx0@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "dovecot=2.3.10.1"
+  ]
+}

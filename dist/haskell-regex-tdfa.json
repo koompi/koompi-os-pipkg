@@ -1,0 +1,24 @@
+{
+  "FILENAME": "haskell-regex-tdfa-1.3.1.0-4-x86_64.pkg.tar.zst",
+  "NAME": "haskell-regex-tdfa",
+  "BASE": "haskell-regex-tdfa",
+  "VERSION": "1.3.1.0-4",
+  "DESC": "Pure Haskell Tagged DFA Backend for Text.Regex (regex-base)",
+  "CSIZE": "465465",
+  "ISIZE": "2717744",
+  "MD5SUM": "fce26ab001ffce0defc6f3a71e6a2e24",
+  "SHA256SUM": "be2c780038f9f8a03e933b840ef16f70e52a613e0c0410ae805847272ae8d328",
+  "PGPSIG": "iQIzBAABCAAdFiEEtZcfLFwQqaCMYAMPeGxj8zDXy5IFAl6hrBsACgkQeGxj8zDXy5JNVRAAvnOPZyK0FnL3to/Z5zC5lXFp/9TsMrwNukud5srUVcEgKkT5WXj3k/3e4U2q7ld3Mza9nd5L7k3kuLS27hz88TQ1LzKZLulLkl7gFm0P2QVVBnYNIpm8dnpZjj+Ds6Mr++Ow3mniQpqZbMZ9i99XEMIi4SX1BBS2Yx5hr7i7RVg57iBo9DM+/bKemGWjFdMc/ms7CkFhxc+f2TGdAAIod1v6YdFawGwZEfWLdu3Zmkw/se4J46dE7VHJZEt/d1IUy5dF4b02VJAw+yFEctPOeDZu1KOlN1ostDkSBXyLLeRfS+3D0Vovn2Ij3GuqFdARSeWBxKV+CZSZjQIr721w/qpD9lQMknnQNdJqYp+084ChRn9UbOPct/EKxwoBn/m2LYP5MKWHQti832umMagQB5h46f1gPRofuRHYangTVVNdjqmZqU41DAjolc3RIH2LzKePSS1wm3ix5MYaciyxvHoKTXyhPeNMWi+ppvlWPK2ORH6p5Z25n+3X+fVh3Q92B+FMgSVaHAr/HMfG0yQ97elrviGDvI6hkKWSfQmVSr/AEmCUfBjYxx8ki+54qru18PJF6IML7WF3DgW6WYfK0cb7qycDAjw++QXQ+IkAv7/uUkkkBUSCGVsBWwbpls/a+SBAxKdZx1HC9O8EOqCQ3skNmzbmVLDO6PeAZcMu2mM=",
+  "URL": "https://hackage.haskell.org/package/regex-tdfa",
+  "LICENSE": "BSD",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1587653547",
+  "PACKAGER": "Felix Yan <felixonmars@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "ghc-libs",
+    "haskell-regex-base"
+  ]
+}

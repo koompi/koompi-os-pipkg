@@ -1,0 +1,24 @@
+{
+  "FILENAME": "python-pyacoustid-1.2.0-1-any.pkg.tar.zst",
+  "NAME": "python-pyacoustid",
+  "BASE": "python-pyacoustid",
+  "VERSION": "1.2.0-1",
+  "DESC": "Bindings for Chromaprint acoustic fingerprinting and the Acoustid API",
+  "CSIZE": "21263",
+  "ISIZE": "68624",
+  "MD5SUM": "397993251fa8fe7bb0af8ccd9458e6c2",
+  "SHA256SUM": "83507fceb912e7dc8e0e31473d9bb3d58805ae9df5d93f94022ae23749fd442a",
+  "PGPSIG": "iQEzBAABCAAdFiEElDfdOBWnqRaePTlGr/XZUJi8b/UFAl6xRvkACgkQr/XZUJi8b/VZ8QgArefuH/7qUv8v8SJqqBtp9GL3h46eo08xDNm7WdHx9xeR32D1QRmHcfmqAnP0LBl8Y3av/RA693xHE3Pbl9mYcS767qOCg6EVo80x6kjXSy+EVMaepMhU+ATnhJUpy+miv9Ibo9VSLzvP3xbfkJBs/k7gLYN/ArgApsmWaVb6yWkQY90wIbdR5G5FDXxOe0occuBxD8zmG5CuIW1KB5Y1eDfo/2HpQyeOrpaHIA5u0PFhaosKPVbjdQGi+s6QAYbFwP7PgftJ+LivOm59sQ+8UrXjUvV+YAJw5Cmx3OPfoJbgNt/+EwJ4bSs3nv7DTTRpoG3ZuzkpMWaLTxaxkLpmpA==",
+  "URL": "https://github.com/beetbox/pyacoustid",
+  "LICENSE": "MIT",
+  "ARCH": "any",
+  "BUILDDATE": "1588676321",
+  "PACKAGER": "Maxime Gauduin <alucryd@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "chromaprint",
+    "python"
+  ]
+}

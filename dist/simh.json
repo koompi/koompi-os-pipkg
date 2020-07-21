@@ -1,0 +1,23 @@
+{
+  "FILENAME": "simh-3.10-1-x86_64.pkg.tar.xz",
+  "NAME": "simh",
+  "BASE": "simh",
+  "VERSION": "3.10-1",
+  "DESC": "simulator for assorted historical computers, from Altair to VAX",
+  "CSIZE": "1806360",
+  "ISIZE": "8162304",
+  "MD5SUM": "0914949870e4adf34b885db47592d595",
+  "SHA256SUM": "e85602d67284187716ba11882329f7d2160b5aac8d4d8309e243ef5102584ac2",
+  "PGPSIG": "iQJGBAABCAAwFiEEPlGL8lJv0Zeeiq5JZcEQwepDP8cFAl2Pt+cSHGFyY2hAc2VyZ2VqLnBwLnJ1AAoJEGXBEMHqQz/HmJQQAImdOiCM2c6JkLnMxQTnDh8VtIfUxdj9ZuT+PbiBA18f9BAKLC3rl84yzBhR8MrirQybE/DrIS/KJ2fC9pNQd0dRTwnevlB6AwKsMZLBcvd6IR6BXMuLa66d4qM2lS2IPIGLyZJ9qxzZEcIjGxy+xgaYc2TvyrUTsrkPTvsoDqkSlMfckFlVH5UrQZ6V38FN+QEK8ggHcgn6nxWNYnwntG3Y7uKo+Jr9RyC55TbKN3dVDp2qsYgc+rRgllSYJVkwYwlHOvezI1uorH+8UD+nWXIpu5VM6NUmJW4pAMIaonl+Od122Zp/DTATtor2tWZRer1S0cS35IQyOEkQmPFkj4os0j0BJVUdjDZcAu8MdymJntjxRB79nOeeFIhfG9Y4UZ59SsK/uUvLGmO1Gp37v4o49vEc2Mmc0XndYE/w5FgCPPASoa4i2RhibJBTihY7tbkRhXXJjtmZwxUYlK4M0ANW/U6iPYBQBtDnWNx3GdK+6sav7gPiV3bWXof/FDyHG6X6lZ6GHXMCdTfTONwsEfM1Kehq+kmnRwQ2ICI6Ja9wDUHZ5U/Ex+loC1K5Yk5S2iLwe68lBeEMGT8UfvOupZMycwoPj8ACw0jUebFwey/1g26dWnHoKjqFvjiEyPnxoGgMB3Sb5UIZ41xa5tLnnMrZKE5gLmMpPoCeqpw/1CRb",
+  "URL": "http://simh.trailing-edge.com",
+  "LICENSE": "BSD",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1569699661",
+  "PACKAGER": "Sergej Pupykin <pupykin.s+arch@gmail.com>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "libpcap"
+  ]
+}

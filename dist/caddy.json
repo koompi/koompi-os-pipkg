@@ -1,0 +1,23 @@
+{
+  "FILENAME": "caddy-1.0.5-1-x86_64.pkg.tar.zst",
+  "NAME": "caddy",
+  "BASE": "caddy",
+  "VERSION": "1.0.5-1",
+  "DESC": "HTTP/2 Web Server with Automatic HTTPS",
+  "CSIZE": "8229850",
+  "ISIZE": "33778372",
+  "MD5SUM": "8438a4352c4882a05847446fd3c3d429",
+  "SHA256SUM": "0fb5c2058a0b3a35c7a826cac5b43563e062cc5ebd56942c1b936ffdfd40032a",
+  "PGPSIG": "iQIzBAABCgAdFiEE4kC1fixGMLp2ji8m/BtUfI2BcsgFAl5hTyYACgkQ/BtUfI2BcsirvA/+N3cbPgIG8WyNvfyskCDAOzg2vAcUZyUHTbdzIyopcxqo9Lob4iz/2h7DXuy1Ppd+x4NX7Qcf8vTCq9p9BA9NF8EHtvXpILL0ZIL8VTvTuyKHzhB90dV2pxC0PJxWorPfecZxdTYDfASPhHxTXwGWBG+xx2Rgn5cGlS82Nrnfl7aM/r97lIMVTu/1t18Cf90SmucogfLu97vfOQIJ0Z90ArhSPwHdJOVD+5f5JLpZLEv+0j/Q2FyxtJ9ZjGjevbWsp0KgODkSsEkxZzAicpQQQp2zPZd4oQqb+NsCSITwCrE5veutBJs9i5hp5UOSaaIuLsUeszfrvGdmBl2zchG4lyPM4OxSF3P2+JYsYKoMO4l0T5WKymsAE7xxfcVBeVlj0Lf2+2jxvNyWH3rQp9yqFpMRjuwcOVHRWzxhPb8qGYcGP5I4nNXDr0lMdwYux7n4aOi3be7w83462lNbtUq/5IKeJtXIQAD6N1uu61NziZbexhN5C3rLdIyZ83tCKX1dvInOqc9qX3kYMkA4bjT2wntXOO68IlYIP8ysXEA2A3U0/NQWojF3ncLkI0zO+8kQdXnPoX6iKrfWKbVEouYWBcoV3KSdmfrpOIhJQrMnbtjlKqize+dJWcNu6bvmnR7orXWKXM+tzVa9uJVWLEMJHexvz/vyJcC9GEyBnsbZ19k=",
+  "URL": "https://caddyserver.com",
+  "LICENSE": "Apache",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1583435384",
+  "PACKAGER": "Levente Polyak <anthraxx@archlinux.org>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "glibc"
+  ]
+}

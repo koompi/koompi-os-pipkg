@@ -1,0 +1,23 @@
+{
+  "FILENAME": "ruby-pkg-config-1.4.1-1-any.pkg.tar.zst",
+  "NAME": "ruby-pkg-config",
+  "BASE": "ruby-pkg-config",
+  "VERSION": "1.4.1-1",
+  "DESC": "Implementation of pkg-config in ruby",
+  "CSIZE": "40154",
+  "ISIZE": "83354",
+  "MD5SUM": "0b99263a4dd8b956d007f5ccd1724b6f",
+  "SHA256SUM": "15dd6b82d68cc75832004a8265d4de773eb01454e6f9bc1d4913da920acad3e8",
+  "PGPSIG": "iQIzBAABCAAdFiEEjhmSFnRl21+wRVV8sChU7XU+Dx8FAl6wZzoACgkQsChU7XU+Dx/nng//YLzyjnanhmzLbz2Bh7UrvIj6L6lQTqvZOKyEpWT5gK/p6oO3abIAjFO12eWBeXnRqKfPvbjepHfl1bVcIhdIRfsYi3BviVNk/HLCZFUDLYZEVorbKTOYmbsu6j1mFjeJVP1H/mu/y5LJtQMqJjugk8ErjdVtLy8jCtGyYa3nDNaDcimMjymsAlTpFtnwmQuSv88Ok94q7PAX+IUoAFiqyq2DLF0yTlWDO6aNGFFNpEXxShePudbjAsY6RpEyWoiGRL1qGdJtQ8fzwX4CKJpY1pPWkUEqRjwQar3/P1LUDf9yroGsieh9BZT0pHGR2FdPrGj1Qx6TgvBDig5vJehSOJDhBEzZ3gqWS93M47SgaljHpvNp9yYwwtfevOhDlmRjCcg7USg4xsfPTJ/zrcxnn5Fnnj/7XqmyAtv0I5FW9aFCgZvPm2hvFeDfwxPkR7Y2girat6/EbLvf1NxdrfPsd5GHGhWejLdH/t3ysEBZshWKFkXJSTBFFtHznD0btupEV1981+ciw2xWgfr+2aKXMvDHfzzdG5OQIYCTa0C3UGd2vVgBvY5+Sp4d1nfqzosOP9EHwHKyBNzQxotR1PYvACpkAaTnbcEoTQQgesOjoA1xRgM7nV0bKwFcryszAKTi1LfjzUu4EMhO1sbFWR8Jh5Nt+a6Dpx4zzcrkMVot4xE=",
+  "URL": "https://github.com/ruby-gnome2/pkg-config",
+  "LICENSE": "LGPL",
+  "ARCH": "any",
+  "BUILDDATE": "1588619051",
+  "PACKAGER": "Anatol Pomozov <anatol.pomozov@gmail.com>",
+  "PROVIDES": [
+    "ruby-pkgconfig"
+  ],
+  "DEPENDS": [
+    "ruby"
+  ]
+}

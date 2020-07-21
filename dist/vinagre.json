@@ -1,0 +1,31 @@
+{
+  "FILENAME": "vinagre-3.22.0+35+gadcb63c-2-x86_64.pkg.tar.zst",
+  "NAME": "vinagre",
+  "BASE": "vinagre",
+  "VERSION": "3.22.0+35+gadcb63c-2",
+  "DESC": "A VNC Client for the GNOME desktop",
+  "CSIZE": "2176537",
+  "ISIZE": "4717524",
+  "MD5SUM": "6158dfbfbd7d1c5744c678a66c8a4982",
+  "SHA256SUM": "2c7058c134bbef8fb682132a36bcc2b97cc6de00f64472d85441b1332903814d",
+  "PGPSIG": "iQEzBAABCAAdFiEEhs/8qRjPOvRxR1iAUeixSKmZnDQFAl7AUngACgkQUeixSKmZnDQ02Af8DqUeWxGW5pjshyQf0HacBT1D2edysrJmCa2kyRTHW/SS5zCICtYhlPbuaYOpmy96mR2dojZhv+D+bSELKYvC56QU1ueIU/7MdjS9NLNkHQsyx9j5wGaPO48mQvqtGxtOQvwx4VIeFJcurGYzHnfrNukheyHUSwy9RVrfm8DLjbYCODuIjXk4+ptMX+sfJC8mJGTj6OloiFb6Errl17WhUzKPw0A2bg/PIH6ruoV91ZDEExRjBfqMqJDnN0rC4S+O+8ryA7cad4BBzdLR6ivq6SCrqFbsqhuGV6YUzzLryO1Xo48h3oV1P8ExI4tYYzc1ikGCZkGHvsmUdK5lZPdTfA==",
+  "URL": "https://wiki.gnome.org/Apps/Vinagre",
+  "LICENSE": "GPL",
+  "ARCH": "x86_64",
+  "BUILDDATE": "1589662262",
+  "PACKAGER": "Evangelos Foutras <evangelos@foutrelis.com>",
+  "PROVIDES": [
+    ""
+  ],
+  "DEPENDS": [
+    "libsecret",
+    "gtk-vnc",
+    "vte3",
+    "telepathy-glib",
+    "avahi",
+    "dconf",
+    "spice-gtk3",
+    "gnutls",
+    "freerdp"
+  ]
+}
