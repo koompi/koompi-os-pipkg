@@ -13,9 +13,11 @@ fn main() {
     // Generate json description file
     // let mut package_info: DescFile = DescFile::new();
     // package_info.import("desc").export().unwrap_or(());
-    let mut all_file: Vec<String> = Vec::new();
     let start = Instant::now();
     let paths = fs::read_dir("/home/brilliant/Documents/test/pacman/sync/").unwrap();
+
+    // concurrent
+    let mut all_file: Vec<String> = Vec::new();
     for path in paths {
         let file_path: String = format!("{}/desc", path.unwrap().path().display());
         all_file.push(file_path.clone());
@@ -27,11 +29,13 @@ fn main() {
         // true
     });
 
+    // Non-concurrent
     // for path in paths {
     //     let file_path = &format!("{}/desc", path.unwrap().path().display());
     //     let mut package_info: DescFile = DescFile::new();
     //     package_info.import(file_path).export().unwrap_or(());
     // }
+
     let duration = start.elapsed();
 
     println!("Time elapsed in expensive_function() is: {:?}", duration);
