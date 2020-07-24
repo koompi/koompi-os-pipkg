@@ -10,7 +10,7 @@ mod interfaces;
 mod schemas;
 
 use rayon::prelude::*;
-use schemas::desc_file::DescFile;
+use schemas::{desc_file::App, store::Store};
 use std::{
     fs,
     io::{stderr, Write},
@@ -30,17 +30,23 @@ fn main() {
 
     db_files.par_iter().for_each(|f| extractor(f, "work"));
 
-    build_json_files(true, "work");
+    // build individual json file
+    // build_json_files(true, "work");
 
+    // build store file
+    let apps = build_store_file("work");
+    let app_store = Store::new(apps);
+    app_store.export().unwrap_or(());
+
+    // set stop time
     let duration = start.elapsed();
-
     println!("Time elapsed in expensive_function() is: {:?}", duration);
 }
 
 fn extractor(data_path: &str, output_dir: &str) {
     println!("Extracting: {}", &data_path);
     let unzip = Command::new("tar")
-        .arg("-xvf")
+        .arg("-xf")
         .arg(data_path)
         .arg("-C")
         .arg(output_dir)
@@ -67,7 +73,7 @@ fn build_json_files(threaded: bool, data_path: &str) {
             }
 
             all_file.par_iter().for_each(|n| {
-                let mut package_info: DescFile = DescFile::new();
+                let mut package_info: App = App::new();
                 package_info.import(n).export().unwrap_or(());
             });
         }
@@ -77,9 +83,26 @@ fn build_json_files(threaded: bool, data_path: &str) {
              */
             for path in paths {
                 let file_path = &format!("{}/desc", path.unwrap().path().display());
-                let mut package_info: DescFile = DescFile::new();
+                let mut package_info: App = App::new();
                 package_info.import(file_path).export().unwrap_or(());
             }
         }
     }
+}
+
+fn build_store_file(data_path: &str) -> Vec<App> {
+    /*
+     * Generate json description file
+     */
+    let paths = fs::read_dir(data_path).unwrap();
+    let mut all_apps: Vec<App> = Vec::new();
+
+    for path in paths {
+        let file_path = &format!("{}/desc", path.unwrap().path().display());
+        let mut package_info: App = App::new();
+        let app = package_info.import(file_path);
+        all_apps.push(app);
+    }
+
+    all_apps
 }

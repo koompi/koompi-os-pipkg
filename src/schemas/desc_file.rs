@@ -1,7 +1,7 @@
 use serde_derive::{Deserialize, Serialize};
 
 #[derive(Debug, Deserialize, Serialize, Clone)]
-pub struct DescFile {
+pub struct App {
     pub FILENAME: String,
     pub NAME: String,
     pub BASE: String,

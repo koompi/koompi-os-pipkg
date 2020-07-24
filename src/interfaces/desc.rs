@@ -1,9 +1,9 @@
-use crate::schemas::desc_file::DescFile;
+use crate::schemas::desc_file::App;
 use std::fs::File;
 use std::io::{prelude::*, BufReader, Result};
-impl DescFile {
+impl App {
     pub fn new() -> Self {
-        DescFile {
+        App {
             FILENAME: String::from(""),
             NAME: String::from(""),
             BASE: String::from(""),
